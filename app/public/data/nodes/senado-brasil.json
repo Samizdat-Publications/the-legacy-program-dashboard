@@ -1,0 +1,435 @@
+{
+"A": 0,
+"C": 0,
+"D": 0,
+"band": "research",
+"claims": [
+{
+"source": "legis.senado.leg.br/dadosabertos/senador/lista/atual",
+"text": "The Senado Federal's official open-data service lists 81 senators in exercise as of August 2026.",
+"tier": 1
+},
+{
+"source": "legis.senado.leg.br/dadosabertos/senador/lista/legislatura/56 and /57",
+"text": "Eduardo Girão (NOVO, Ceará) is recorded in the Senate's official parliamentarian register under member code 5976, listed in both the 56th and 57th legislatures, with an official Senate profile page.",
+"tier": 1
+},
+{
+"source": "The Debrief, 'Landmark Brazilian UFO case reaches Capitol Hill as Varginha incident turns 30', 30 January 2026 (recorded on this board under eduardo-girao)",
+"text": "Girão has publicly pursued the Varginha file, and the case was brought to Capitol Hill around its thirtieth anniversary in 2026.",
+"tier": 2
+},
+{
+"source": "Inference",
+"text": "A foreign legislature with subpoena-equivalent summoning power and a member already pursuing a specific recovery case is the disclosure vector least reachable by US classification authority. Reasoning: US control instruments bind US persons and contractors, not the Brazilian Senate.",
+"tier": 3
+},
+{
+"source": "Senado Federal, Dados Abertos, RQS 193/2022, retrieved 23 August 2026, https://legis.senado.leg.br/dadosabertos/materia/pesquisa/lista?sigla=RQS&numero=193&ano=2022",
+"text": "The Senate's own open-data record for RQS 193/2022 (Código 152222, processo 8224484) gives the ementa verbatim as 'Sessão especial destinada a comemorar os 75 anos do Dia Mundial da Ufologia' and the date as 16 March 2022. The instrument is a request for a commemorative special session, not a records-seeking one, confirmed from the Senate's own data service rather than from secondary description.",
+"tier": 1
+},
+{
+"source": "Senado Federal, Dados Abertos, RQS 193/2022, retrieved 23 August 2026, https://legis.senado.leg.br/dadosabertos/materia/pesquisa/lista?sigla=RQS&numero=193&ano=2022",
+"text": "The same record names all eight signatories: Senador Eduardo Girão (PODEMOS/CE), Paulo Rocha (PT/PA), Izalci Lucas (PSDB/DF), Reguffe (PODEMOS/DF), Jorge Kajuru (PODEMOS/GO), Marcos do Val (PODEMOS/ES), Alessandro Vieira (CIDADANIA/SE) and Eliziane Gama (CIDADANIA/MA). The board previously recorded the co-signatories as an open question.",
+"tier": 1
+},
+{
+"source": "Board bookkeeping",
+"text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
+"tier": 3
+}
+],
+"cls": "institution",
+"cluster": "oversight",
+"connections": [
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "2022-06-24",
+"dateStart": "2022-03",
+"direction": "out",
+"edgeLabel": "The Senate's own 2022 instrument counts and cites the archive",
+"id": "arquivo-nacional-ufo",
+"l0": true,
+"label": "Arquivo Nacional (Brazil) - UFO/UAP collection",
+"note": "RQS 193/2022 recites the transfer route from 2007 onward, 'somando-se hoje mais de 20 mil páginas de arquivos liberados', names Brigadeiro Junichi Saito's August 2010 decree in the Diário Oficial da União directing that all FAB UFO cases be concentrated at COMDABRA for shipment to the Arquivo Nacional, and gives the archive's own search behaviour: 'quando se pesquisa apenas o termo OVNI, se encontram 137 registros, mas se colocarmos na pesquisa um código de referência específico (BR DFANBSB ARX), encontraremos 758 documentos.' A national legislature citing archival reference codes in a legislative instrument is the specific thing the US board has no equivalent of. [CORRECTED 14 Aug 2026: RQS 193/2022 is a request for a COMMEMORATIVE SPECIAL SESSION under Art. 199 RISF, approved 16 Mar 2022, held 24 Jun 2022 - not a records-seeking or compelling instrument. Its durable value is the content of its justificacao, which names Operacao Prato, the 1986 night, SIOANI and the archive reference BR DFANBSB ARX. These edges assert what the document NAMES, which is verifiable in its text and unaffected by its procedural nature, so the tier is unchanged. Any claim that the instrument COMPELLED disclosure would be false.]",
+"sources": [
+{
+"date": null,
+"name": "Senado Federal (Brasil), Requerimento nº 193, de 2022 (RQS 193/2022), autoria do Senador Eduardo Girão (PODEMOS/CE) com Eliziane Gama, Alessandro Vieira, Izalci Lucas, Jorge Kajuru, Marcos do Val, Paulo Rocha e Reguffe — sessão especial para os 75 anos do Dia Mundial da Ufologia — https://legis.senado.leg.br/sdleg-getter/documento?dm=9089831&ts=1647523438292&disposition=inline",
+"url": ""
+},
+{
+"date": null,
+"name": "Arquivo Nacional (Brasil), 'Conheça o fundo sobre OVNIs do Arquivo Nacional' — https://www.gov.br/arquivonacional/pt-br/canais_atendimento/imprensa/noticias/conheca-o-fundo-sobre-ovnis-do-arquivo-nacional",
+"url": ""
+},
+{
+"date": "2026-08-23",
+"name": "Senado Federal, Dados Abertos — official record of RQS 193/2022 (Código 152222): ementa 'Sessão especial destinada a comemorar os 75 anos do Dia Mundial da Ufologia', 16 March 2022, Sen. Eduardo Girão and seven co-signers",
+"url": "https://legis.senado.leg.br/dadosabertos/materia/pesquisa/lista?sigla=RQS&numero=193&ano=2022"
+},
+{
+"date": "1986-06-02",
+"name": "Relatório de Ocorrências (Arquivo Nacional PDF)",
+"url": "http://imagem.sian.an.gov.br/acervo/derivadas/BR_DFANBSB_ARX/0/0/0249/BR_DFANBSB_ARX_0_0_0249_d0001de0001.pdf"
+},
+{
+"date": "2026-08-12",
+"name": "Senado Federal - Dados Abertos, list of senators in exercise (official open-data service, 81 members)",
+"url": "https://legis.senado.leg.br/dadosabertos/senador/lista/atual"
+}
+],
+"tier": "A",
+"type": "legislative"
+},
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": "2022-06-24",
+"dateStart": "2022-03",
+"direction": "out",
+"edgeLabel": "The 1986 night is named in the Senate instrument that produced the 2022 special session",
+"id": "ev-noite-ovnis-1986",
+"l0": true,
+"label": "Noite Oficial dos OVNIs - the Brazilian 'Night of the UFOs', 19 May 1986",
+"note": "RQS 193/2022 names the event: 'em 1986, quando ocorreu a hoje conhecida como \"Noite Oficial dos UFOs no Brasil\", quando 21 OVNIs esféricos de 100 metros de diâmetro cada foram perseguidos durante horas por nossos caças a jato.' The special session was held on 24 June 2022. [CORRECTED 14 Aug 2026: RQS 193/2022 is a request for a COMMEMORATIVE SPECIAL SESSION under Art. 199 RISF, approved 16 Mar 2022, held 24 Jun 2022 - not a records-seeking or compelling instrument. Its durable value is the content of its justificacao, which names Operacao Prato, the 1986 night, SIOANI and the archive reference BR DFANBSB ARX. These edges assert what the document NAMES, which is verifiable in its text and unaffected by its procedural nature, so the tier is unchanged. Any claim that the instrument COMPELLED disclosure would be false.]",
+"sources": [
+{
+"date": null,
+"name": "Senado Federal (Brasil), Requerimento nº 193, de 2022 (RQS 193/2022), autoria do Senador Eduardo Girão (PODEMOS/CE) com Eliziane Gama, Alessandro Vieira, Izalci Lucas, Jorge Kajuru, Marcos do Val, Paulo Rocha e Reguffe — sessão especial para os 75 anos do Dia Mundial da Ufologia — https://legis.senado.leg.br/sdleg-getter/documento?dm=9089831&ts=1647523438292&disposition=inline",
+"url": ""
+},
+{
+"date": null,
+"name": "Senado Federal, Notas Taquigráficas da sessão especial de 24/06/2022 — https://legis.senado.leg.br/escriba-servicosweb/sessao/pdf/25017",
+"url": ""
+},
+{
+"date": "2026-08-23",
+"name": "Senado Federal, Dados Abertos — official record of RQS 193/2022 (Código 152222): ementa 'Sessão especial destinada a comemorar os 75 anos do Dia Mundial da Ufologia', 16 March 2022, Sen. Eduardo Girão and seven co-signers",
+"url": "https://legis.senado.leg.br/dadosabertos/materia/pesquisa/lista?sigla=RQS&numero=193&ano=2022"
+},
+{
+"date": "1986-06-02",
+"name": "Relatório de Ocorrências (Arquivo Nacional PDF)",
+"url": "http://imagem.sian.an.gov.br/acervo/derivadas/BR_DFANBSB_ARX/0/0/0249/BR_DFANBSB_ARX_0_0_0249_d0001de0001.pdf"
+},
+{
+"date": "2026-08-12",
+"name": "Senado Federal - Dados Abertos, list of senators in exercise (official open-data service, 81 members)",
+"url": "https://legis.senado.leg.br/dadosabertos/senador/lista/atual"
+}
+],
+"tier": "A",
+"type": "legislative"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "2022-06-24",
+"dateStart": "2022-03",
+"direction": "out",
+"edgeLabel": "The Senate instrument treats the Aeronáutica's record as the national record",
+"id": "fab",
+"l0": true,
+"label": "Força Aérea Brasileira / Ministério da Aeronáutica",
+"note": "RQS 193/2022 credits Brazil as the first state to admit officially that the objects exist — the 1954 Escola Superior de Guerra meeting at which then-Captain João Adil de Oliveira spoke — lists SIOANI (1969, IV COMAR), Operação Prato (1977) and the 1986 night as official Aeronáutica programmes, and notes that the Aeronáutica 'sempre foi discreta quanto a estes e a outros fatos, mas nunca os negou quando inquirida'. It also records that the Army and Navy did not transfer their holdings — a named, sourced gap in the Brazilian openness story rather than a clean win. [CORRECTED 14 Aug 2026: RQS 193/2022 is a request for a COMMEMORATIVE SPECIAL SESSION under Art. 199 RISF, approved 16 Mar 2022, held 24 Jun 2022 - not a records-seeking or compelling instrument. Its durable value is the content of its justificacao, which names Operacao Prato, the 1986 night, SIOANI and the archive reference BR DFANBSB ARX. These edges assert what the document NAMES, which is verifiable in its text and unaffected by its procedural nature, so the tier is unchanged. Any claim that the instrument COMPELLED disclosure would be false.]",
+"sources": [
+{
+"date": null,
+"name": "Senado Federal (Brasil), Requerimento nº 193, de 2022 (RQS 193/2022), autoria do Senador Eduardo Girão (PODEMOS/CE) com Eliziane Gama, Alessandro Vieira, Izalci Lucas, Jorge Kajuru, Marcos do Val, Paulo Rocha e Reguffe — sessão especial para os 75 anos do Dia Mundial da Ufologia — https://legis.senado.leg.br/sdleg-getter/documento?dm=9089831&ts=1647523438292&disposition=inline",
+"url": ""
+},
+{
+"date": "2026-08-23",
+"name": "Senado Federal, Dados Abertos — official record of RQS 193/2022 (Código 152222): ementa 'Sessão especial destinada a comemorar os 75 anos do Dia Mundial da Ufologia', 16 March 2022, Sen. Eduardo Girão and seven co-signers",
+"url": "https://legis.senado.leg.br/dadosabertos/materia/pesquisa/lista?sigla=RQS&numero=193&ano=2022"
+},
+{
+"date": "1986-06-02",
+"name": "Relatório de Ocorrências (Arquivo Nacional PDF)",
+"url": "http://imagem.sian.an.gov.br/acervo/derivadas/BR_DFANBSB_ARX/0/0/0249/BR_DFANBSB_ARX_0_0_0249_d0001de0001.pdf"
+},
+{
+"date": "2026-08-12",
+"name": "Senado Federal - Dados Abertos, list of senators in exercise (official open-data service, 81 members)",
+"url": "https://legis.senado.leg.br/dadosabertos/senador/lista/atual"
+}
+],
+"tier": "A",
+"type": "legislative"
+},
+{
+"claimTier": 2,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "Girao backed Varginha hospital witnesses in Washington",
+"id": "hospital-regional-varginha",
+"l0": false,
+"label": "Hospital Regional de Varginha",
+"note": "Sen. Eduardo Girao, who presided over the 2022 Brazilian Senate UAP session, travelled to Washington for the 20 January 2026 National Press Club event and praised the Varginha witnesses, and discussed a joint Brazil-US evidence effort with Rep. Eric Burlison. The Debrief is explicit that Girao acted as a private citizen and was not officially representing the Brazilian Senate, so this is a personal rather than institutional linkage.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Senado Federal - Dados Abertos, list of senators in exercise (official open-data service, 81 members)",
+"url": "https://legis.senado.leg.br/dadosabertos/senador/lista/atual"
+},
+{
+"date": "2026-08-12",
+"name": "CNES - Cadastro Nacional de Estabelecimentos de Saúde, establishment record 2761041 (Ministério da Saúde open data API)",
+"url": "https://apidadosabertos.saude.gov.br/cnes/estabelecimentos/2761041"
+},
+{
+"date": null,
+"name": "https://thedebrief.org/caso-historico-de-ovni-no-brasil-chega-ao-capitolio-enquanto-o-incidente-de-varginha-completa-30-anos/",
+"url": "https://thedebrief.org/caso-historico-de-ovni-no-brasil-chega-ao-capitolio-enquanto-o-incidente-de-varginha-completa-30-anos/"
+},
+{
+"date": null,
+"name": "https://thedebrief.org/landmark-brazilian-ufo-case-reaches-capitol-hill-as-varginha-incident-turns-30/",
+"url": "https://thedebrief.org/landmark-brazilian-ufo-case-reaches-capitol-hill-as-varginha-incident-turns-30/"
+}
+],
+"tier": "C",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "location",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "The Senado Federal sits in Brasília",
+"id": "l-brasilia",
+"l0": false,
+"label": "Brasilia, Federal District, Brazil",
+"note": "RQS 193/2022 also records the 2005 visit by ufologists to CINDACTA and COMDABRA 'em Brasília' to inspect the documents — the capital is where both the archive and the legislature that pressed on it are located. [CORRECTED 14 Aug 2026: RQS 193/2022 is a request for a COMMEMORATIVE SPECIAL SESSION under Art. 199 RISF, approved 16 Mar 2022, held 24 Jun 2022 - not a records-seeking or compelling instrument. Its durable value is the content of its justificacao, which names Operacao Prato, the 1986 night, SIOANI and the archive reference BR DFANBSB ARX. These edges assert what the document NAMES, which is verifiable in its text and unaffected by its procedural nature, so the tier is unchanged. Any claim that the instrument COMPELLED disclosure would be false.]",
+"sources": [
+{
+"date": null,
+"name": "Senado Federal (Brasil), Requerimento nº 193, de 2022 (RQS 193/2022), autoria do Senador Eduardo Girão (PODEMOS/CE) com Eliziane Gama, Alessandro Vieira, Izalci Lucas, Jorge Kajuru, Marcos do Val, Paulo Rocha e Reguffe — sessão especial para os 75 anos do Dia Mundial da Ufologia — https://legis.senado.leg.br/sdleg-getter/documento?dm=9089831&ts=1647523438292&disposition=inline",
+"url": ""
+},
+{
+"date": "2026-08-23",
+"name": "Senado Federal, Dados Abertos — official record of RQS 193/2022 (Código 152222): ementa 'Sessão especial destinada a comemorar os 75 anos do Dia Mundial da Ufologia', 16 March 2022, Sen. Eduardo Girão and seven co-signers",
+"url": "https://legis.senado.leg.br/dadosabertos/materia/pesquisa/lista?sigla=RQS&numero=193&ano=2022"
+},
+{
+"date": "1986-06-02",
+"name": "Relatório de Ocorrências (Arquivo Nacional PDF)",
+"url": "http://imagem.sian.an.gov.br/acervo/derivadas/BR_DFANBSB_ARX/0/0/0249/BR_DFANBSB_ARX_0_0_0249_d0001de0001.pdf"
+},
+{
+"date": "2026-08-12",
+"name": "Wikipedia - Brasilia",
+"url": "https://en.wikipedia.org/wiki/Bras%C3%ADlia"
+}
+],
+"tier": "C",
+"type": "geographic"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "2022 Senate special session justified by the 2021 US UAP report",
+"id": "odni",
+"l0": true,
+"label": "Office of the Director of National Intelligence",
+"note": "Requerimento RQS 193/2022 (Sen. Eduardo Girao and seven co-signers) requested the Brazilian Senate special session on ufology, and its justification expressly cites the 2021 'Pentagon' UAP report covering 144 sightings of which only one was explained, plus FY2022 NDAA UAP research funding. The report described is the June 2021 Preliminary Assessment authored by the UAP Task Force and released by ODNI. The session was held in the Senate plenary on 24 June 2022 and ended with ufologists handing Girao the 'Carta de Brasilia' urging a permanent joint civil-military commission.",
+"sources": [
+{
+"date": "2026-08-23",
+"name": "Senado Federal, Dados Abertos — official record of RQS 193/2022 (Código 152222): ementa 'Sessão especial destinada a comemorar os 75 anos do Dia Mundial da Ufologia', 16 March 2022, Sen. Eduardo Girão and seven co-signers",
+"url": "https://legis.senado.leg.br/dadosabertos/materia/pesquisa/lista?sigla=RQS&numero=193&ano=2022"
+},
+{
+"date": "2026-08-12",
+"name": "Senado Federal - Dados Abertos, list of senators in exercise (official open-data service, 81 members)",
+"url": "https://legis.senado.leg.br/dadosabertos/senador/lista/atual"
+},
+{
+"date": null,
+"name": "https://legis.senado.leg.br/sdleg-getter/documento?dm=9089831&ts=1647523438292&disposition=inline",
+"url": "https://legis.senado.leg.br/sdleg-getter/documento?dm=9089831&ts=1647523438292&disposition=inline"
+},
+{
+"date": null,
+"name": "https://www12.senado.leg.br/noticias/materias/2022/06/24/em-homenagem-no-plenario-ufologos-cobram-liberacao-de-documentos-sobre-ovnis",
+"url": "https://www12.senado.leg.br/noticias/materias/2022/06/24/em-homenagem-no-plenario-ufologos-cobram-liberacao-de-documentos-sobre-ovnis"
+}
+],
+"tier": "A",
+"type": "legislative"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": null,
+"deg": 6,
+"denials": [],
+"desc": "The Senado Federal is the upper chamber of Brazil's National Congress, composed of 81 senators - three for each of the 26 states and the Federal District - elected to eight-year terms, with the constitutional powers of legislative revision, treaty approval, confirmation of senior appointments and the summoning of ministers and officials to give evidence. Its relevance to this board is carried by Senator Eduardo Girão of Ceará (Senate member code 5976, elected for the 56th legislature and continuing into the 57th), who has pressed publicly for the Brazilian state's UAP record to be opened and who brought the January 1996 Varginha case to Capitol Hill on its thirtieth anniversary in 2026. Brazil is a comparative test case for the concealment thesis in a way few countries are: its military UFO files were transferred to the Arquivo Nacional and made citizen-accessible, and the 1986 air force incident is documented in that archive, so Brazil has already done what the American programme is alleged to be preventing. A national legislature that can summon officials, and that contains a member actively pursuing the Varginha file, is a live route by which the non-US half of the record can be forced open - and it is a route the United States cannot classify. No primary Senate legislative instrument on UAP was located in this pass; the Senate's keyword search service for legislative matters has been deprecated and its replacement returns unfiltered results.",
+"domains": [
+"_rs-stubs-known",
+"_stubs",
+"w12-brazil-edges"
+],
+"dossier": {
+"claims": [
+{
+"source": "Senado Federal, materia 152222, RQS 193/2022, https://www25.senado.leg.br/web/atividade/materias/-/materia/152222",
+"text": "Requerimento no 193, de 2022 (RQS 193/2022) was authored by Senador Eduardo Girao (PODEMOS/CE) with co-signatories Paulo Rocha (PT/PA), Izalci Lucas (PSDB/DF), Reguffe (PODEMOS/DF), Jorge Kajuru (PODEMOS/GO), Marcos do Val (PODEMOS/ES), Alessandro Vieira (CIDADANIA/SE) and Eliziane Gama (CIDADANIA/MA), and was presented and read on 16 March 2022.",
+"tier": 1
+},
+{
+"source": "Senado Federal, materia 152222, https://www25.senado.leg.br/web/atividade/materias/-/materia/152222 ; RQS 193/2022 text, https://legis.senado.leg.br/sdleg-getter/documento?dm=9089831&disposition=inline",
+"text": "The ementa of RQS 193/2022 is 'Sessao especial destinada a comemorar os 75 anos do Dia Mundial da Ufologia'. Its nature is recorded as 'Realizacao de sessao especial ou comemoracao no periodo do expediente'. It is a request for a commemorative plenary session under Article 199 of the Regimento Interno do Senado Federal, not an instrument compelling the production of records.",
+"tier": 1
+},
+{
+"source": "Senado Federal, materia 152222, https://www25.senado.leg.br/web/atividade/materias/-/materia/152222",
+"text": "The requerimento was approved by the Plenary on 16 March 2022 and the special session was held on 24 June 2022; its tramitacao is closed, with the last recorded location the Coordenacao de Arquivo on 29 June 2022.",
+"tier": 1
+},
+{
+"source": "Senado Federal, materia 152222, lista de publicacoes oficiais, https://www25.senado.leg.br/web/atividade/materias/-/materia/152222",
+"text": "The instrument's official publications are: Diario do Senado Federal no 32 of 17 March 2022, pages 269 to 275 and page 62; and Diario do Senado Federal no 99 of 25 June 2022, pages 7 to 67 recording the special session.",
+"tier": 1
+},
+{
+"source": "Senado Federal, RQS 193/2022, justificacao, https://legis.senado.leg.br/sdleg-getter/documento?dm=9089831&disposition=inline",
+"text": "The justificacao of RQS 193/2022 names Operacao Prato (1977), the creation of SIOANI in 1969 at the IV Comando Aereo Regional in Sao Paulo, and the 1986 'Noite Oficial dos UFOs no Brasil' as official Brazilian government UFO research programmes run through the Aeronautica.",
+"tier": 1
+},
+{
+"source": "Senado Federal, RQS 193/2022, justificacao, https://legis.senado.leg.br/sdleg-getter/documento?dm=9089831&disposition=inline",
+"text": "The justificacao states that a search of the Arquivo Nacional for the term OVNI alone returns 137 registros, while a search on the specific reference code BR DFANBSB ARX returns 758 documents, some over 70 years old.",
+"tier": 1
+},
+{
+"source": "Senado Federal, RQS 193/2022, justificacao, https://legis.senado.leg.br/sdleg-getter/documento?dm=9089831&disposition=inline",
+"text": "The justificacao states that from 2007 the Aeronautica, but not the Exercito and not the Marinha, began sending its research papers to the Arquivo Nacional in Brasilia, totalling more than 20,000 pages of released files.",
+"tier": 1
+},
+{
+"source": "Senado Federal, RQS 193/2022, justificacao, https://legis.senado.leg.br/sdleg-getter/documento?dm=9089831&disposition=inline",
+"text": "The justificacao records that in August 2010 the then commander of the FAB determined, by an instrument published in the Diario Oficial da Uniao, that all OVNI cases registered across the force's installations be concentrated at COMDABRA for transmission to the Arquivo Nacional.",
+"tier": 1
+},
+{
+"source": "Senado Federal, RQS 193/2022, justificacao, https://legis.senado.leg.br/sdleg-getter/documento?dm=9089831&disposition=inline",
+"text": "The justificacao asserts that Brazil was the first nation to officially admit that OVNIs exist and are of extraterrestrial provenance, at a 1954 session at the Escola Superior de Guerra in Rio de Janeiro addressed by the then Aeronautica captain Joao Adil de Oliveira, with France following in 1976.",
+"tier": 1
+},
+{
+"source": "Senado Federal, RQS 193/2022, justificacao, https://legis.senado.leg.br/sdleg-getter/documento?dm=9089831&disposition=inline",
+"text": "The justificacao states that the Aeronautica was always discreet about these matters but never denied them when questioned.",
+"tier": 1
+},
+{
+"source": "Senado Federal, RQS 193/2022, justificacao, https://legis.senado.leg.br/sdleg-getter/documento?dm=9089831&disposition=inline",
+"text": "The justificacao cites the 2021 Pentagon UAP report as examining 144 sighting cases of which only one was explained, and cites the omnibus funding bill signed by President Biden on 15 March 2022 including 782.5 billion dollars for defence with resources reserved for UAP research legislated within the FY2022 National Defense Authorization Act.",
+"tier": 1
+},
+{
+"source": "Senado Federal, materia 152222, documentos, https://www25.senado.leg.br/web/atividade/materias/-/materia/152222",
+"text": "The Senate file for the matter lodges individual presentation documents dated 24 June 2022 for invited speakers Rony Vernet, Ademar Jose, Gary Heseltine, Geraldo Lemos Neto, Inajar Antonio Kurowski, Jackson Luiz Camargo, Robert Lambert Salas and Thiago Ticchetti.",
+"tier": 1
+},
+{
+"source": "Agencia Senado, 'Em homenagem no Plenario, ufologos cobram liberacao de documentos sobre ovnis', 24 June 2022, https://www12.senado.leg.br/noticias/materias/2022/06/24/em-homenagem-no-plenario-ufologos-cobram-liberacao-de-documentos-sobre-ovnis",
+"text": "At the 24 June 2022 session, former US Air Force officer Robert Salas told the Senate plenary that he had witnessed the presence of unidentified objects that deactivated ten nuclear weapons at a launch facility under his command.",
+"tier": 1
+},
+{
+"source": "Agencia Senado, 24 June 2022, https://www12.senado.leg.br/noticias/materias/2022/06/24/em-homenagem-no-plenario-ufologos-cobram-liberacao-de-documentos-sobre-ovnis",
+"text": "At the close of the session the invited participants delivered to Senator Girao a document they called the Carta de Brasilia, recommending the creation of a permanent joint civil and military commission to enable organised research on the subject.",
+"tier": 1
+}
+],
+"connections": [
+"RQS 193/2022 documents the Forca Aerea Brasileira's programmes (fab), naming SIOANI, Operacao Prato (operacao-prato) and the 1986 night (ev-noite-ovnis-1986).",
+"Cites the Arquivo Nacional's OVNI holdings (arquivo-nacional-ufo) by reference code BR DFANBSB ARX and by document count.",
+"Its justificacao explicitly frames the Brazilian record against the US record, citing the 2021 Pentagon UAP preliminary assessment and FY2022 NDAA UAP funding, which places it directly alongside the nip node.",
+"Robert Salas, a witness at the 24 June 2022 session, connects the Brazilian legislative record to the US nuclear-facility incident testimony stream.",
+"A. J. Gevaerd, who interviewed Capitao Uyrange Hollanda in 1997, testified at the same session, linking the Operacao Prato node to the Senate node through a single individual.",
+"The Carta de Brasilia's proposal of a permanent joint civil-military commission is the Brazilian counterpart to the US push for a UAP Records Review Board."
+],
+"denialPosture": "None on the part of the Senate. The chamber's posture is the inverse of denial: it approved a plenary session on the subject unanimously enough to be recorded simply as 'Aprovada pelo Plenario', gave the floor to foreign and domestic witnesses including a former US Air Force officer, and entered into its permanent Diario the specific archive reference code under which its own military's files can be retrieved.",
+"narrative": "The premise that most needs correcting before this node is usable is the shape of the instrument. RQS 193/2022 is a requerimento, a procedural request, filed under Article 199 of the Regimento Interno do Senado Federal, asking for a special session at an appropriate date to commemorate 75 years of World Ufology Day. It carries the signatures of Eduardo Girao (PODEMOS/CE), Eliziane Gama (CIDADANIA/MA), Alessandro Vieira (CIDADANIA/SE), Izalci Lucas (PSDB/DF), Jorge Kajuru (PODEMOS/GO), Marcos do Val (PODEMOS/ES), Paulo Rocha (PT/PA) and Reguffe (PODEMOS/DF), which is a cross-party spread from left to right. It was read and approved on 16 March 2022, published in the Diario do Senado Federal no 32 of 17 March 2022 at pages 269 to 275 and page 62, the session was held on 24 June 2022 and published in DSF no 99 of 25 June 2022 at pages 7 to 67, and the matter was closed and sent to the archive coordination on 29 June 2022. It compelled nothing and produced no documents. Any claim on this board that the Senate passed an instrument seeking UAP records must be retired.\n\nWhat survives, and what makes the node worth keeping, is the justificacao. Brazilian requerimentos carry a reasoning section that enters the permanent record with the instrument, and Girao's runs to several pages of institutional history. It states that Brazil was the first nation to officially admit that OVNIs exist and have extraterrestrial provenance, at a 1954 session at the Escola Superior de Guerra in Rio at which the then Aeronautica captain Joao Adil de Oliveira spoke to officers, civilians and press, and that France followed only in 1976. It states that since 1954 the Brazilian government has created several official UFO research programmes through the Aeronautica, naming Operacao Prato in 1977, SIOANI in 1969 at the IV Comando Aereo Regional in Sao Paulo, and the 1986 night in which 21 spherical objects, each given as 100 metres in diameter, were pursued for hours by Brazilian jet fighters. It states that the Aeronautica was always discreet about these facts but never denied them when asked. It states that from 2007 the Aeronautica, and expressly not the Exercito and not the Marinha, began sending its papers to the Arquivo Nacional, and that the total now exceeds 20,000 pages. It records that in August 2010 the then FAB commander determined by an instrument published in the Diario Oficial da Uniao that all OVNI cases across the force be concentrated at COMDABRA for onward transmission. It records the April 2013 meeting at the Ministry of Defence, convened at the invitation of then Foreign Minister Celso Amorim and held before the service commanders, at which researchers pressed for the Army and Navy files. And it gives the archive arithmetic directly: searching OVNI alone yields 137 registros, but the reference code BR DFANBSB ARX yields 758 documents, some of them more than 70 years old.\n\nThe justificacao also turns outward, and that is where the comparison it enables becomes explicit. It notes that at least 30 nations established research commissions, that the 2021 Pentagon UAP preliminary assessment examined 144 sighting cases of which only one was explained, and that on 15 March 2022 President Biden signed an omnibus funding bill including 782.5 billion dollars for defence with resources reserved for unexplained aerial phenomena research legislated within the FY2022 National Defense Authorization Act. Brazil, in other words, put the American record into its own legislative record while noting that its own files were already open.\n\nThe session itself, on 24 June 2022, was held in the Senate plenary and is documented in the Senate's own file with individual presentation documents lodged for each invited speaker: Rony Vernet, Ademar Jose, Gary Heseltine, Geraldo Lemos Neto, Inajar Antonio Kurowski, Jackson Luiz Camargo, Robert Lambert Salas and Thiago Ticchetti. Agencia Senado's report of the session records Gevaerd calling the opening incomplete but fruitful, Robert Salas, a former US Air Force officer, describing unidentified objects disabling ten nuclear weapons at a launch facility he commanded, and the delivery to Girao at the close of a document the participants called the Carta de Brasilia, recommending creation of a permanent joint civil and military commission to enable organised research on the subject.\n\nOne error must be named and buried. A previous pass on this board asserted that Senator Girao brought the 1996 Varginha case to Capitol Hill in 2026. Nothing in the reporting located supports that. Girao's verified, documented action is RQS 193/2022 and the 24 June 2022 special session, and the board should carry that and nothing beyond it.",
+"openQuestions": [
+"A previous research pass asserted that Senator Girao brought the 1996 Varginha case to Capitol Hill in 2026. No source located supports this. It should be treated as retracted unless a primary record is produced.",
+"No Brazilian legislative instrument has been located that compels production of Army or Navy holdings, establishes a records review board, or creates the permanent joint commission proposed in the Carta de Brasilia.",
+"The text of the Carta de Brasilia itself has not been retrieved; its content is known only through Agencia Senado's summary.",
+"Whether any of the eight co-signatory senators pursued follow-on action after the session closed on 29 June 2022 is not established.",
+"The full stenographic record of the 24 June 2022 session is published in DSF no 99, pages 7 to 67, but has not been read in this pass; individual statements beyond those summarised by Agencia Senado are unverified.",
+"Several factual assertions inside the justificacao, notably the 100-metre diameter figure for the 1986 objects and the primacy claim for Brazil in 1954, are the author's assertions entered into the record, not independently verified findings."
+],
+"roles": [
+"oversight",
+"disclosure",
+"research"
+],
+"whatItIs": "The Senado Federal is the upper chamber of Brazil's National Congress. On 16 March 2022 it received Requerimento no 193, de 2022 (RQS 193/2022), tabled by Senator Eduardo Girao (PODEMOS/CE) with seven co-signatories, and approved it the same day; the resulting special plenary session was held on 24 June 2022. The requerimento's stated purpose was to hold a special session commemorating the 75th anniversary of World Ufology Day, and its justificacao entered into the Senate's permanent record a detailed account of Brazil's official UFO programmes and archive holdings.",
+"whyImplicated": "The Senate node is where the correction lives, and correcting it makes the comparison stronger rather than weaker. RQS 193/2022 is not a records-production instrument. Its ementa is a request for a commemorative special session under Article 199 of the Senate's internal rules, and its disposition reads 'Aprovada pelo Plenario' followed by 'SESSAO REALIZADA'. What it did instead is arguably more useful to this board: it wrote into the permanent legislative record of a G20 state, over eight senators' names, that the Aeronautica ran Operacao Prato and SIOANI, that FAB fighters chased 21 objects in 1986, that from 2007 the air force but not the army and not the navy transferred its files, and that the archive reference code BR DFANBSB ARX returns 758 documents. No US congressional instrument has ever put an equivalent set of specifics into the record as settled institutional history. The contrast is not that Brazil compelled disclosure through legislation. It is that Brazil did not have to, because the executive had already published, and the legislature's role was to hold a session about it in the plenary chamber with foreign witnesses at the rostrum."
+},
+"entityInfo": null,
+"era": "nd",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "senado-brasil",
+"l0": true,
+"label": "Senado Federal do Brasil",
+"locLabel": null,
+"members": [
+{
+"cls": "institution",
+"id": "hospital-regional-varginha",
+"label": "Hospital Regional de Varginha",
+"tier": "C"
+},
+{
+"cls": "location",
+"id": "l-brasilia",
+"label": "Brasilia, Federal District, Brazil",
+"tier": "C"
+}
+],
+"short": "Senado Federal do Brasil",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Senado Federal - Dados Abertos, list of senators in exercise (official open-data service, 81 members)",
+"url": "https://legis.senado.leg.br/dadosabertos/senador/lista/atual"
+},
+{
+"date": "2026-08-12",
+"name": "Senado Federal - official profile page of Senador Eduardo Girão (member code 5976)",
+"url": "https://www25.senado.leg.br/web/senadores/senador/-/perfil/5976"
+},
+{
+"date": "2026-08-12",
+"name": "Senado Federal - institutional portal",
+"url": "https://www12.senado.leg.br/institucional"
+},
+{
+"date": "2026-08-23",
+"name": "Senado Federal, Dados Abertos — official record of RQS 193/2022, Código 152222 (retrieved 23 August 2026)",
+"url": "https://legis.senado.leg.br/dadosabertos/materia/pesquisa/lista?sigla=RQS&numero=193&ano=2022"
+}
+],
+"sub": "Foreign legislature",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 706 of 1027, score 22). 6 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D0.",
+"timeline": []
+}

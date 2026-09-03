@@ -1,0 +1,118 @@
+{
+"A": 1,
+"C": 2,
+"D": 2,
+"band": null,
+"claims": [
+{
+"source": "TTSA announcement, 17 October 2019; Bloomberg Government, 21 October 2019",
+"text": "The five-year CRADA was announced on 17 October 2019 and covers inertial mass reduction, mechanical/structural metamaterials, electromagnetic metamaterial waveguides, quantum physics, quantum communications and beamed energy propulsion.",
+"tier": 2
+},
+{
+"source": "Bloomberg Government, 21 October 2019",
+"text": "The Army stated no public funding would go to the group; the agreement provided at least $750,000 in Army support and resources.",
+"tier": 2
+},
+{
+"source": "Inference from the absence of any such publication or release as of August 2026",
+"text": "No technical output, sample characterisation or Army statement of findings from the CRADA has ever been published, despite the agreement running its full nominal five-year term.",
+"tier": 3
+}
+],
+"cls": "document",
+"cluster": "contractor",
+"connections": [
+{
+"claimTier": 2,
+"cls": "program",
+"dateEnd": "2024",
+"dateStart": "2019",
+"direction": "in",
+"edgeLabel": "ADAM materials became the subject of a five-year Army CRADA",
+"id": "adam-research-project",
+"l0": true,
+"label": "ADAM Research Project (Acquisition and Data Analysis of Materials)",
+"note": "On 17 October 2019 TTSA entered a CRADA with the US Army Combat Capabilities Development Command covering inertial mass reduction, metamaterials, quantum physics and beamed energy propulsion, with at least $750,000 in Army support and no public funding to the company.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Wikipedia: To The Stars Inc.",
+"url": "https://en.wikipedia.org/wiki/To_the_Stars_(company)."
+}
+],
+"tier": "A",
+"type": "funding"
+},
+{
+"claimTier": 3,
+"cls": "domain",
+"dateEnd": "2026",
+"dateStart": "2019",
+"direction": "out",
+"edgeLabel": "The chain goes dark inside a federal research agreement",
+"id": "d-custody",
+"l0": false,
+"label": "Chain of custody",
+"note": "A CRADA is a records-generating instrument. Seven years after signature, no characterisation of the samples, no technical output and no Army statement of findings has been published. That silence is the darkest segment of the only documented private-to-federal materials transfer.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Wikipedia: To The Stars Inc.",
+"url": "https://en.wikipedia.org/wiki/To_the_Stars_(company)."
+}
+],
+"tier": "A",
+"type": "custody"
+}
+],
+"coords": null,
+"dateEnd": "2024",
+"dateStart": "2019",
+"deg": 2,
+"denials": [],
+"desc": "Announced on 17 October 2019, this five-year cooperative research and development agreement between To The Stars Academy and the US Army Combat Capabilities Development Command is the only instrument that has ever formally connected a privately held alleged UAP material collection to a federal research organisation. Its scope, as announced, covers inertial mass reduction, mechanical and structural metamaterials, electromagnetic metamaterial waveguides, quantum physics, quantum communications and beamed energy propulsion, with the Army providing at least $750,000 in support and resources and, per the Army, no public funding flowing to the company. That scope list is not generic: 'inertial mass reduction' is a term of art that appears in the Salvatore Pais patent applications assigned to the Naval Air Warfare Center in the same period, and 'mechanical/structural metamaterials' is precisely what the ADAM samples were said to be. Seven years on, the agreement has produced no public technical output, no published characterisation of the samples, and no statement by the Army about what it received or concluded. A CRADA is a records-generating instrument; the absence of a public record from it is itself the finding.",
+"domains": [
+"scientists-technical"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "ttsa-army-crada-2019",
+"l0": false,
+"label": "To The Stars Academy - US Army CCDC Cooperative Research and Development Agreement (17 October 2019)",
+"locLabel": null,
+"members": null,
+"short": "To The Stars Academy - US Army CCDC Cooperative Research and Development Agreement (17 October 2019)",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Wikipedia: To The Stars Inc.",
+"url": "https://en.wikipedia.org/wiki/To_the_Stars_(company)."
+},
+{
+"date": "2019-10-21",
+"name": "Travis J. Tritten, 'UFO Group Sharing Exotic Materials With Army for Combat Vehicles', Bloomberg Government",
+"url": "https://about.bgov.com/news/ufo-group-sharing-exotic-materials-with-army-for-combat-vehicles/"
+}
+],
+"sub": "Five-year CRADA covering inertial mass reduction and metamaterials",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 542 of 1027, score 28). 2 connections, 2 of them custody/witness/funding/programmatic. Axes C2/A1/D2.",
+"timeline": [
+{
+"date": "2019-10-17",
+"id": "st-2019-10-17",
+"label": "US Army CRADA signed",
+"precision": "day",
+"strand": "program",
+"text": "TTSA enters a five-year cooperative research and development agreement with the US Army Combat Capabilities Development Command covering inertial mass reduction, metamaterials, quantum physics and beamed energy propulsion.",
+"tier": "A"
+}
+]
+}

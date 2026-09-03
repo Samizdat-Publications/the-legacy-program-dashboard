@@ -1,0 +1,155 @@
+{
+"A": 0,
+"C": 0,
+"D": 1,
+"affiliations": [],
+"age": null,
+"band": null,
+"chronology": [],
+"claims": [
+{
+"source": "University at Albany, Department of Physics faculty page",
+"text": "Levy is an Associate Professor in the Department of Physics at the University at Albany, with a PhD from the University of Muenster on XENON100 and postdoctoral work at RPI (XENON1T) and Albany (LUX/LZ).",
+"tier": 1
+},
+{
+"source": "UAlbany News Center, 4 June 2025",
+"text": "UAlbany's news office names her as one of three 'UAlbany authors' on the 2025 Progress in Aerospace Sciences UAPx field-expedition paper: 'UAlbany authors Matthew Szydagis, Kevin Knuth and Cecilia Levy, along with Ben Kugielsky of UAPx'.",
+"tier": 1
+},
+{
+"source": "University at Albany faculty page publication list",
+"text": "She co-authored the Snowball Chamber paper with Szydagis: 'Szydagis, Knight, Levy, The Snowball chamber: neutron induced nucleation in supercooled water' (arXiv:1807.09253, 2018).",
+"tier": 1
+},
+{
+"source": "Comparison of the two UAlbany Department of Physics faculty pages, retrieved 21 August 2026",
+"text": "Her UAlbany faculty page lists no UAP research interest, in contrast to Szydagis's page, which does. Her UAP involvement is documented through co-authorship and the university press office only.",
+"tier": 2
+}
+],
+"cls": "person",
+"cluster": "research",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "2018",
+"direction": "out",
+"edgeLabel": "Snowball Chamber co-developers; the dark-matter group whose instrumentation was carried into the UAP field work",
+"id": "matthew-szydagis",
+"l0": false,
+"label": "Matthew Szydagis",
+"note": "Levy's faculty page lists 'Szydagis, Knight, Levy, The Snowball chamber: neutron induced nucleation in supercooled water' (arXiv:1807.09253, 2018) and describes the Snowball Chamber as 'a research topic completely unique to the UAlbany dark matter group'. The UAlbany release makes the methodological carry-over explicit: the C-TAP frame-differencing software is 'similar to an approach used by physicists like him and Levy to look for direct evidence of dark matter'. This is the mechanism by which rare-event detection practice reached UAP field work at this institution.",
+"sources": [
+{
+"date": "2026-08-21",
+"name": "University at Albany, Department of Physics - Cecilia Levy faculty page",
+"url": "https://www.albany.edu/physics/faculty/cecilia-levy"
+},
+{
+"date": "2025-06-04",
+"name": "UAlbany News Center, 'UAlbany Physicists Test Scientific Approach to UAP Research'",
+"url": "https://www.albany.edu/news-center/news/2025-ualbany-physicists-test-scientific-approach-uap-research"
+}
+],
+"tier": "C",
+"type": "research"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": "2025-06-02",
+"direction": "out",
+"edgeLabel": "Co-author of the UAPx field-expedition results",
+"id": "paper-uapx-2025",
+"l0": false,
+"label": "Szydagis, Knuth, Kugielsky & Levy (2025), Progress in Aerospace Sciences 156:101099",
+"note": "Fourth-named author on Szydagis, Knuth, Kugielsky & Levy (2025). The board's existing node label for this paper already carries her surname; until now she had no node behind it.",
+"sources": [
+{
+"date": "2025-06-04",
+"name": "UAlbany News Center, 'UAlbany Physicists Test Scientific Approach to UAP Research'",
+"url": "https://www.albany.edu/news-center/news/2025-ualbany-physicists-test-scientific-approach-uap-research"
+}
+],
+"tier": "C",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "Employs Levy; Associate Professor of Physics and the third UAlbany author on the 2025 UAPx paper",
+"id": "university-at-albany",
+"l0": true,
+"label": "University at Albany (SUNY), Department of Physics",
+"note": "Levy is an LZ dark-matter physicist in the same department and co-developer, with Szydagis, of the Snowball Chamber supercooled-water detector. The University's own news office names her as one of three 'UAlbany authors' on the 2025 Progress in Aerospace Sciences field-expedition paper. Her faculty page does not itself list UAP among her research interests, which is worth recording rather than smoothing over: unlike Szydagis, her UAP involvement appears in the publication record and the university press office but not in her stated departmental research profile.",
+"sources": [
+{
+"date": "2026-08-21",
+"name": "University at Albany, Department of Physics - Cecilia Levy faculty page",
+"url": "https://www.albany.edu/physics/faculty/cecilia-levy"
+},
+{
+"date": "2025-06-04",
+"name": "UAlbany News Center, 'UAlbany Physicists Test Scientific Approach to UAP Research'",
+"url": "https://www.albany.edu/news-center/news/2025-ualbany-physicists-test-scientific-approach-uap-research"
+}
+],
+"tier": "B",
+"type": "institutional"
+}
+],
+"date": "2025-06-01",
+"dateEnd": null,
+"dateStart": "2025-06-01",
+"deg": 3,
+"denials": [],
+"domains": [
+"w11-final-unattached"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "cecilia-levy",
+"instId": null,
+"l0": false,
+"label": "Cecilia Levy",
+"loc": null,
+"locId": null,
+"members": null,
+"narrative": "Cecilia Levy is the third University at Albany physicist on the only peer-reviewed UAP field-expedition paper published to date, and she is on this board for a narrow and checkable reason: the University named her, in its own press release, as one of three 'UAlbany authors' on Szydagis, Knuth, Kugielsky & Levy (2025). Her career is otherwise entirely conventional astroparticle physics. She took a BSc at the Universite de Montreal, an MSc at Queen's University on the PICASSO dark matter experiment, a PhD at the University of Muenster on XENON100, a postdoc at RPI on XENON1T, and a postdoc at Albany on LUX/LZ, and she is now an Associate Professor in the same department as Szydagis and Knuth. Her stated research is the direct detection of dark matter: she works on the seven-tonne LZ detector at the Sanford Underground Research Facility, where her group handled detector cleanliness and the 206Pb wall background, and she co-develops the Snowball Chamber, a supercooled-water low-mass dark matter detector she describes as 'a research topic completely unique to the UAlbany dark matter group'. She co-authored the founding Snowball Chamber paper with Szydagis in 2018. That shared instrument work is the mechanism by which rare-event detection practice reached the UAP field campaign: the University's release explains that Szydagis's C-TAP frame-differencing software applies an approach 'used by physicists like him and Levy to look for direct evidence of dark matter'. One honest qualification belongs on the record. Unlike Szydagis, whose departmental page lists Unidentified Anomalous Phenomena among his research interests, Levy's faculty page makes no mention of UAP at all. Her involvement is visible in the publication and in the press office, not in her declared research profile - which is a reasonable description of how most working scientists have touched this subject.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Cecilia Levy",
+"sources": [
+{
+"date": "2026-08-21",
+"name": "University at Albany, Department of Physics - Cecilia Levy faculty page",
+"url": "https://www.albany.edu/physics/faculty/cecilia-levy"
+},
+{
+"date": "2025-06-04",
+"name": "UAlbany News Center, 'UAlbany Physicists Test Scientific Approach to UAP Research'",
+"url": "https://www.albany.edu/news-center/news/2025-ualbany-physicists-test-scientific-approach-uap-research"
+}
+],
+"status": "active",
+"sub": "Associate Professor of Physics, University at Albany (SUNY); LZ dark-matter physicist; third UAlbany author on the 2025 UAPx field-expedition paper",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 850 of 1027, score 16). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D1.",
+"timeline": [],
+"unexplainedResidual": null,
+"unverified": []
+}

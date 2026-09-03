@@ -1,0 +1,162 @@
+{
+"A": 1,
+"C": 0,
+"D": 3,
+"affiliations": [
+"The New York Times (1964-2009, and contributor thereafter)",
+"The Debrief (2023)",
+"The New York Times (1964-2009)",
+"The Debrief (contributor, 2023)"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "2017-12-16",
+"event": "Co-authors the New York Times AATIP story",
+"precision": "day"
+},
+{
+"date": "2017-12-16",
+"event": "Co-authors the New York Times AATIP story.",
+"precision": "day"
+},
+{
+"date": "2023-06-05",
+"event": "Co-authors the Grusch story in The Debrief",
+"precision": "day"
+},
+{
+"date": "2023-06-05",
+"event": "Co-authors the David Grusch story with Leslie Kean.",
+"precision": "day"
+}
+],
+"claims": [
+{
+"source": "The Debrief byline, 5 June 2023 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"text": "Co-author of the 5 June 2023 Debrief article on Grusch's allegations.",
+"tier": 2
+},
+{
+"source": "Wikipedia, 'Ralph Blumenthal', retrieved 12 August 2026 — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"text": "Blumenthal was a New York Times staff reporter from 1964 to 2009 and co-authored both the 2017 AATIP story and the 2023 Grusch story.",
+"tier": 2
+}
+],
+"cls": "person",
+"cluster": "media",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "2023",
+"dateStart": "2023",
+"direction": "out",
+"edgeLabel": "Co-author",
+"id": "debrief-2023-06-05",
+"l0": false,
+"label": "The Debrief: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin",
+"note": "Blumenthal, with Kean, had co-authored the December 2017 New York Times AATIP story; the same byline pair carried the Grusch story after national outlets declined it.",
+"sources": [
+{
+"date": "2023-06-05",
+"name": "The Debrief",
+"url": "https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/"
+}
+],
+"tier": "B",
+"type": "investigative"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2023",
+"dateStart": "2017",
+"direction": "in",
+"edgeLabel": "Co-authors of both defining stories, 2017 and 2023",
+"id": "leslie-kean",
+"l0": false,
+"label": "Leslie Kean",
+"note": "The 16 December 2017 New York Times AATIP story and the 5 June 2023 David Grusch story were both written by Kean and Blumenthal; Helene Cooper was a third author on the 2017 piece.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Wikipedia - Leslie Kean",
+"url": "https://en.wikipedia.org/wiki/Leslie_Kean"
+}
+],
+"tier": "B",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": "2017",
+"dateStart": "2017",
+"direction": "in",
+"edgeLabel": "Co-byline, 16 December 2017",
+"id": "nyt-2017-12-16",
+"l0": true,
+"label": "New York Times, 'Glowing Auras and Black Money: The Pentagon's Mysterious U.F.O. Program'",
+"note": "Blumenthal shares the byline that broke AATIP and published two of the three videos.",
+"sources": [
+{
+"date": "2017-12-16",
+"name": "New York Times (NICAP copy)",
+"url": "https://www.nicap.org/reports2/2004_20171216_NYTArt_1.pdf"
+}
+],
+"tier": "A",
+"type": "investigative"
+}
+],
+"date": "2023-06-05",
+"dateEnd": null,
+"dateStart": "2023-06-05",
+"deg": 3,
+"denials": [],
+"domains": [
+"grusch",
+"media-structure"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "ralph-blumenthal",
+"instId": "the-debrief",
+"l0": false,
+"label": "Ralph Blumenthal",
+"loc": "New York, NY",
+"locId": "l-nyc",
+"members": null,
+"narrative": "Ralph Blumenthal spent forty-five years as a New York Times staff reporter before becoming, with Leslie Kean, the co-author of both stories that structure the modern record: the 16 December 2017 AATIP revelation and the 5 June 2023 David Grusch story. His institutional weight is the point - a Times lifer's byline is what made the 2017 piece survivable inside the paper, and his departure from the Times masthead by 2023 is part of why the Grusch story landed at The Debrief instead. His 2021 book The Believer, on Harvard psychiatrist John Mack, situates him in the longer lineage of establishment-credentialed writers who took the subject seriously and paid a professional price for it.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Ralph Blumenthal",
+"sources": [
+{
+"date": "2023-06-05",
+"name": "The Debrief - Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin",
+"url": "https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/"
+},
+{
+"date": "2026-08-12",
+"name": "Wikipedia - Ralph Blumenthal",
+"url": "https://en.wikipedia.org/wiki/Ralph_Blumenthal"
+}
+],
+"status": "active",
+"sub": "Former New York Times reporter; co-author, 5 June 2023 Debrief story",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 847 of 1027, score 16). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D3.",
+"timeline": [],
+"unexplainedResidual": null,
+"unverified": []
+}

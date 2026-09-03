@@ -1,0 +1,124 @@
+{
+"A": 2,
+"C": 1,
+"D": 2,
+"band": null,
+"claims": [
+{
+"source": "https://www.law.cornell.edu/uscode/text/50/3161",
+"text": "Citation and date, verbatim from the notes to 50 U.S.C. 3161: 'Ex. Ord. No. 12829, Jan. 6, 1993, 58 F.R. 3479.' Section 101: 'There is established a National Industrial Security Program. The purpose of this program is to safeguard classified information that may be released or has been released to current, prospective, or former contractors, licensees, or grantees.'",
+"tier": 1
+},
+{
+"source": "https://www.ecfr.gov/current/title-32/subtitle-A/chapter-I/subchapter-D/part-117/section-117.6",
+"text": "32 CFR 117 is the current operative implementation of E.O. 12829: the NISPOM was converted from DoD 5220.22-M into a binding federal rule at 32 CFR Part 117. 32 CFR 117.6(b) is where the DoD SAP carve-out from that program is written down.",
+"tier": 1
+},
+{
+"source": "32 CFR 117.6(a)(1)",
+"text": "32 CFR 117.6(a)(1) records that the USD(I&S) 'Carries out the direction in section 201 of E.O. 12829 that the Secretary of Defense issue and maintain this rule and changes to it', in consultation with affected agencies and with the concurrence of the Secretary of Energy, the Chairman of the NRC, the DNI, and the Secretary of Homeland Security.",
+"tier": 1
+}
+],
+"cls": "legislation",
+"cluster": "other",
+"connections": [
+{
+"claimTier": 1,
+"cls": "legislation",
+"dateEnd": null,
+"dateStart": "1993-01-06",
+"direction": "out",
+"edgeLabel": "Section 201 of E.O. 12829 is the authority for the NISPOM rule",
+"id": "cfr-32-117",
+"l0": false,
+"label": "32 CFR Part 117 — NISPOM Rule",
+"note": "32 CFR 117.6(a)(1) records that USD(I&S) issues and maintains the rule under section 201 of E.O. 12829.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "32 CFR 117.6 (eCFR, current)",
+"url": "https://www.ecfr.gov/current/title-32/subtitle-A/chapter-I/subchapter-D/part-117/section-117.6"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "legislation",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "32 CFR 117 implements E.O. 12829",
+"id": "cfr-32-117",
+"l0": false,
+"label": "32 CFR Part 117 — NISPOM Rule",
+"note": "32 CFR part 117 names E.O. 12829 in its authority citation - 'Authority: 32 CFR part 2004; E.O. 10865; E.O. 12333; E.O. 12829; E.O. 12866; E.O. 12968; E.O. 13526; E.O. 13563; E.O. 13587; E.O. 13691; Public Law 108-458...' - and section 117.1 Purpose states that the rule 'implements policy, assigns responsibilities, establishes requirements, and provides procedures, consistent with E.O. 12829, \"National Industrial Security Program\"'. Read from the eCFR renderer API on 22 August 2026.",
+"sources": [
+{
+"date": "2026-08-22",
+"name": "32 CFR part 117 (NISPOM Rule), full text via the eCFR renderer API, read 22 August 2026; published at 85 FR 83312, 21 December 2020",
+"url": "https://www.ecfr.gov/api/renderer/v1/content/enhanced/current/title-32?part=117"
+}
+],
+"tier": "A",
+"type": "programmatic"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "1993-01-06",
+"deg": 1,
+"denials": [],
+"desc": "Executive Order 12829 established the National Industrial Security Program to provide a single, government-wide industrial security regime for contractors handling classified information. Section 201 of the order directs the Secretary of Defense, in consultation with all affected agencies and with the concurrence of the Secretary of Energy, the Chairman of the Nuclear Regulatory Commission, the Director of National Intelligence and the Secretary of Homeland Security, to issue and maintain the NISP Operating Manual - the document now codified as 32 CFR Part 117. The order is the ancestor of the carve-out: because it designates the Secretary of Defense as the issuing authority for the manual and DCSA (formerly the Defense Security Service) as the DoD Cognizant Security Office, it also creates the office from which a special access program can be exempted. Its practical importance to this board is that the NISP is the only routine, recurring, adversarial physical inspection of a contractor facility holding classified material. Where the NISP applies, a government inspector who is not part of the program walks the facility. Where it has been carved out, no such person exists.",
+"domains": [
+"_rs-sap-docs",
+"w2-sap-architecture"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "1",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "eo-12829",
+"l0": false,
+"label": "Executive Order 12829 — National Industrial Security Program (6 Jan 1993)",
+"locLabel": null,
+"members": null,
+"short": "Executive Order 12829 — National Industrial Security Program (6 Jan 1993)",
+"sources": [
+{
+"date": "1993-01-06",
+"name": "Executive Order 12829, National Industrial Security Program, 6 Jan 1993, 58 FR 3479 — reproduced in the notes to 50 U.S.C. 3161 (Cornell LII)",
+"url": "https://www.law.cornell.edu/uscode/text/50/3161"
+},
+{
+"date": "2026-08-12",
+"name": "32 CFR 117.3 (eCFR)",
+"url": "https://www.ecfr.gov/current/title-32/subtitle-A/chapter-I/subchapter-D/part-117/section-117.3"
+},
+{
+"date": "2026-08-12",
+"name": "32 CFR 117.6, Responsibilities (eCFR, current)",
+"url": "https://www.ecfr.gov/current/title-32/subtitle-A/chapter-I/subchapter-D/part-117/section-117.6"
+}
+],
+"sub": "executive-order",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 530 of 1027, score 28). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A2/D2.",
+"timeline": [
+{
+"date": "1993-01-06",
+"id": "sap-tl-1993-nispx",
+"label": "Executive Order 12829 creates the National Industrial Security Program",
+"precision": "day",
+"strand": "program",
+"text": "The order directs the Secretary of Defense to issue and maintain the NISP Operating Manual and designates the Defense Security Service as the DoD Cognizant Security Office - creating the inspection function that a carve-out would later switch off.",
+"tier": "A"
+}
+]
+}

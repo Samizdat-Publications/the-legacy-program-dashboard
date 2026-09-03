@@ -1,0 +1,171 @@
+{
+"A": 1,
+"C": 0,
+"D": 2,
+"affiliations": [
+"U.S. House of Representatives, NY-14 (2019- )",
+"House Committee on Oversight and Accountability / Government Reform (2019- )",
+"US House of Representatives, NY-14 (2019- )",
+"House Oversight Committee"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "2023-07-26",
+"event": "Waived onto the subcommittee; questions Grusch on IR&D programs and the absence of definitions or requirements for congressional notification.",
+"precision": "day"
+},
+{
+"date": "2023-07-26",
+"event": "Establishes that contractors have no UAP reporting requirement and that IR&D falls outside congressional notification",
+"precision": "day"
+},
+{
+"date": "2024-01-12",
+"event": "Attends the closed ICIG briefing with Thomas Monheim.",
+"precision": "day"
+}
+],
+"claims": [
+{
+"source": "Rep. Alexandria Ocasio-Cortez, 26 July 2023, GPO CHRG-118hhrg53022",
+"text": "'One of the loopholes that we see in the law is that there is... no actual definitions or requirements for notification. Are there - what methods of notification did you observe? Like, when they say they notified Congress, how did they do that?'",
+"tier": 1
+},
+{
+"source": "CHRG-118hhrg53022, 26 July 2023",
+"text": "'When there is a requirement for any agency or company to... notify Congress, do they contact the chairman of a committee? Do they get them on the phone specifically? Is this through an email to, hypothetically, a dead email box?'",
+"tier": 1
+},
+{
+"source": "CHRG-118hhrg53022, 26 July 2023",
+"text": "'We have seen defense contractors abuse their contracts before through this Committee. I have seen it personally, and I have also seen the notification requirements to Congress abused.'",
+"tier": 1
+},
+{
+"source": "Rep. Burchett to NewsNation, reported by The Hill, 13 January 2024",
+"text": "Present at the 12 January 2024 closed-door ICIG UAP briefing along with roughly sixteen members.",
+"tier": 2
+},
+{
+"source": "House Oversight hearing transcript, 26 July 2023",
+"text": "Elicited that defense contractors are not required to report UAP sightings or UAP-related activity: 'In terms of the contractors? Not that I am aware of.'",
+"tier": 1
+},
+{
+"source": "House Oversight hearing transcript, 26 July 2023",
+"text": "Elicited that SAP and CAP notification flows through the Periodic Program Review process while contractor IR&D is internal and unreported.",
+"tier": 1
+}
+],
+"cls": "person",
+"cluster": "oversight",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "2023",
+"dateStart": "2023",
+"direction": "out",
+"edgeLabel": "Established that contractors have no UAP reporting duty and IR&D escapes notification",
+"id": "david-grusch",
+"l0": false,
+"label": "David Charles Grusch",
+"note": "AOC pushed past the phenomenon to the notification architecture, establishing that SAP and CAP equities flow through Periodic Program Review while contractor IR&D is internal and unreported - the legal shape of an invisible program.",
+"sources": [
+{
+"date": "2023-07-26",
+"name": "House Oversight hearing transcript",
+"url": "https://www.congress.gov/118/meeting/house/116282/documents/HHRG-118-GO06-Transcript-20230726.pdf"
+}
+],
+"tier": "A",
+"type": "funding"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "2023",
+"dateStart": "2023",
+"direction": "out",
+"edgeLabel": "Pursued the IR&D and congressional-notification loophole",
+"id": "david-grusch",
+"l0": false,
+"label": "David Charles Grusch",
+"note": "'Is this through an email to, hypothetically, a dead email box?'",
+"sources": [
+{
+"date": "2023-07-26",
+"name": "U.S. GPO, Hearing transcript, Serial No. 118-53 (CHRG-118hhrg53022)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm"
+}
+],
+"tier": "A",
+"type": "investigative"
+}
+],
+"date": "2023-07-26",
+"dateEnd": null,
+"dateStart": "2023-07-26",
+"deg": 1,
+"denials": [],
+"domains": [
+"congress-house",
+"grusch"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "alexandria-ocasio-cortez",
+"instId": "house-oversight-committee",
+"l0": false,
+"label": "Alexandria Ocasio-Cortez",
+"loc": "Bronx, NY",
+"locId": "l-nyc",
+"members": null,
+"narrative": "Ocasio-Cortez asked the most technically precise question of the 2023 hearing and it is the one that has aged best. Waived onto the subcommittee, she framed the committee as a whistleblower-protection body and then went at the funding mechanism rather than the phenomenon. Her line of questioning concerned Independent Research and Development - the mechanism by which defense contractors recover the cost of self-directed research from the government - and the statutory notification requirements attached to it. She told Grusch she had personally seen defense contractors abuse their contracts through this committee and seen congressional notification requirements abused, and identified the loophole: 'there are no actual definitions or requirements for notification.' She then pressed on the operational reality of that loophole - when an agency says it notified Congress, does it call the chairman of a committee, or is it 'an email to, hypothetically, a dead email box?' That is the question of whether the congressional notification that legally legitimates a waived unacknowledged program is a real event or a formality. She closed her round by asking all three witnesses, for the record, where she should look - 'titles, programs, departments, regions.' She attended the 12 January 2024 closed ICIG briefing.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Alexandria Ocasio-Cortez",
+"sources": [
+{
+"date": "2023-07-26",
+"name": "U.S. GPO, Hearing transcript, Serial No. 118-53 (CHRG-118hhrg53022)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm"
+},
+{
+"date": "2024-01-13",
+"name": "The Hill: Burchett — Classified UFO briefing 'energized' Congress on issue",
+"url": "https://thehill.com/homenews/house/4406775-burchett-classified-ufo-briefing-energized-congress/"
+},
+{
+"date": "2023-07-26",
+"name": "House Oversight hearing transcript, Serial No. 118-53",
+"url": "https://www.congress.gov/118/meeting/house/116282/documents/HHRG-118-GO06-Transcript-20230726.pdf"
+}
+],
+"status": "active",
+"sub": "U.S. Rep. (D-NY-14); pursued the IR&D notification loophole",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 488 of 1027, score 29). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A1/D2.",
+"timeline": [
+{
+"date": "2023-07-26",
+"id": "ch-2023-07-26f",
+"label": "AOC finds the notification loophole",
+"precision": "day",
+"strand": "oversight",
+"text": "Ocasio-Cortez identifies that there are no statutory definitions or requirements for congressional notification and asks whether notification means a phone call to a chairman or 'an email to, hypothetically, a dead email box.'",
+"tier": "A"
+}
+],
+"unexplainedResidual": null,
+"unverified": []
+}

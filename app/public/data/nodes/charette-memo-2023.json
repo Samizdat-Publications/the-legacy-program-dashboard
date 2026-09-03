@@ -1,0 +1,101 @@
+{
+"A": 2,
+"C": 1,
+"D": 2,
+"band": null,
+"claims": [
+{
+"source": "Janice Charette, Clerk of the Privy Council, Secret memo to PM Trudeau, 14 February 2023",
+"text": "'The full exploitation of UAP #20, which was engaged by the U.S. on February 10, 2023, has not yet been completed.'",
+"tier": 1
+},
+{
+"source": "Charette memo, 14 February 2023",
+"text": "UAP #23 (the Yukon object) 'remains unverified' as to 'function, method of propulsion, or affiliation to any nation-state.'",
+"tier": 1
+},
+{
+"source": "Charette memo, 14 February 2023",
+"text": "'It is unknown whether it poses an armed threat or has intelligence collection capabilities.'",
+"tier": 1
+}
+],
+"cls": "document",
+"cluster": "oversight",
+"connections": [
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": "2023",
+"dateStart": "2023",
+"direction": "in",
+"edgeLabel": "Allied government's contemporaneous Secret record of the engagements",
+"id": "shootdowns-feb-2023",
+"l0": false,
+"label": "February 2023 Alaska, Yukon and Lake Huron Shootdowns",
+"note": "The 14 February 2023 Privy Council memo to Prime Minister Trudeau documents that exploitation of the Alaska object was incomplete and the Yukon object unverified as to function and propulsion.",
+"sources": [
+{
+"date": "2023-09-07",
+"name": "The War Zone - secret memo raises more questions about the shootdowns",
+"url": "https://www.twz.com/secret-memo-raises-more-questions-about-ufo-shootdowns-over-alaska-canada"
+}
+],
+"tier": "B",
+"type": "investigative"
+}
+],
+"coords": null,
+"dateEnd": "2023",
+"dateStart": "2023",
+"deg": 1,
+"denials": [],
+"desc": "A Secret memorandum dated 14 February 2023 from Janice Charette, Clerk of the Privy Council, to Prime Minister Justin Trudeau and National Security Advisor Jody Thomas, obtained and reported by The War Zone on 7 September 2023. It is the most authoritative contemporaneous government document on the February 2023 shootdowns, and it directly contradicts the tidy retrospective account that they were all balloons. Charette wrote that 'The full exploitation of UAP #20, which was engaged by the U.S. on February 10, 2023, has not yet been completed' - an object described as roughly the size of a small car, at 40,000 feet, 'cylindrical and silver-ish gray' with no apparent propulsion system, which broke apart on frozen sea ice near Prudhoe Bay. Of the Yukon object, tracked as UAP #23, she recorded that it 'remains unverified' as to 'function, method of propulsion, or affiliation to any nation-state,' adding 'It is unknown whether it poses an armed threat or has intelligence collection capabilities.' The memo also conceded recovery was unlikely given terrain and snow. The numbering itself is significant: two allied governments were tracking a sequential UAP series in which these were entries 20 and 23.",
+"domains": [
+"aviators-incidents"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "charette-memo-2023",
+"l0": false,
+"label": "Charette Privy Council Memorandum (Secret, 14 Feb 2023)",
+"locLabel": null,
+"members": null,
+"short": "Charette Privy Council Memorandum (Secret, 14 Feb 2023)",
+"sources": [
+{
+"date": "2023-09-07",
+"name": "The War Zone - secret memo raises more questions about the shootdowns",
+"url": "https://www.twz.com/secret-memo-raises-more-questions-about-ufo-shootdowns-over-alaska-canada"
+}
+],
+"sub": "Canadian government memo on the February 2023 shootdowns",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 645 of 1027, score 24). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D2.",
+"timeline": [
+{
+"date": "2023-02-11",
+"id": "av-2023-02-11",
+"label": "Yukon object destroyed",
+"precision": "day",
+"strand": "coverup",
+"text": "An F-22 destroys a small cylindrical object at 40,000 feet over the Yukon; the Canadian Privy Council records it as UAP #23, unverified as to function, propulsion or national affiliation.",
+"tier": "A"
+},
+{
+"date": "2023-02-14",
+"id": "av-2023-02-14",
+"label": "Charette Secret memo to Trudeau",
+"precision": "day",
+"strand": "oversight",
+"text": "The Clerk of the Privy Council records that exploitation of UAP #20 is incomplete and that UAP #23's function and propulsion are unknown.",
+"tier": "A"
+}
+]
+}

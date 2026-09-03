@@ -1,0 +1,129 @@
+{
+"A": 0,
+"C": 0,
+"D": 2,
+"band": null,
+"claims": [
+{
+"source": "Congress.gov H.R. 10111 (118th); GPO BILLS-118hr10111ih",
+"text": "Introduced 12 November 2024 by Rep. Tim Burchett; cosponsors Nancy Mace, Anna Paulina Luna and Eric Burlison; referred to Oversight and Accountability and additionally to Intelligence (Permanent Select) and Armed Services.",
+"tier": 1
+}
+],
+"cls": "legislation",
+"cluster": "oversight",
+"connections": [
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "2024",
+"direction": "in",
+"edgeLabel": "Cosponsor",
+"id": "eric-burlison",
+"l0": false,
+"label": "Eric Burlison",
+"note": "Congress.gov cosponsor record.",
+"sources": [
+{
+"date": "2024-11-12",
+"name": "Congress.gov, H.R. 10111 — UAP Whistleblower Protection Act (118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/10111"
+}
+],
+"tier": "A",
+"type": "legislative"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "2024",
+"direction": "in",
+"edgeLabel": "Cosponsor",
+"id": "nancy-mace",
+"l0": false,
+"label": "Nancy Ruth Mace",
+"note": "Congress.gov cosponsor record.",
+"sources": [
+{
+"date": "2024-11-12",
+"name": "Congress.gov, H.R. 10111 — UAP Whistleblower Protection Act (118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/10111"
+}
+],
+"tier": "A",
+"type": "legislative"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "2024",
+"direction": "in",
+"edgeLabel": "Sponsor",
+"id": "tim-burchett",
+"l0": false,
+"label": "Timothy Floyd Burchett",
+"note": "Introduced 12 November 2024, the day before the Oversight hearing.",
+"sources": [
+{
+"date": "2024-11-12",
+"name": "Congress.gov, H.R. 10111 — UAP Whistleblower Protection Act (118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/10111"
+}
+],
+"tier": "A",
+"type": "legislative"
+}
+],
+"coords": null,
+"dateEnd": "2025",
+"dateStart": "2024",
+"deg": 3,
+"denials": [],
+"desc": "Burchett's first standalone whistleblower bill, introduced 12 November 2024 - the day before the Oversight hearing at which Immaculate Constellation entered the record - and cosponsored by Nancy Mace, Anna Paulina Luna and Eric Burlison. It was referred to Oversight and Accountability and additionally to the Permanent Select Committee on Intelligence and Armed Services, which is the referral pattern that in practice guarantees no action: a bill that must clear the two committees whose jurisdiction is the thing being investigated. It received no markup and died with the 118th Congress.",
+"domains": [
+"congress-house"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "hr-10111-uap-whistleblower-protection-act",
+"l0": false,
+"label": "H.R. 10111 - UAP Whistleblower Protection Act (118th Congress)",
+"locLabel": null,
+"members": null,
+"short": "H.R. 10111 - UAP Whistleblower Protection Act (118th Congress)",
+"sources": [
+{
+"date": "2024-11-12",
+"name": "Congress.gov, H.R. 10111 — UAP Whistleblower Protection Act (118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/10111"
+},
+{
+"date": "2024-11-12",
+"name": "U.S. GPO, H.R. 10111 (118th), UAP Whistleblower Protection Act, as introduced",
+"url": "https://www.govinfo.gov/content/pkg/BILLS-118hr10111ih/html/BILLS-118hr10111ih.htm"
+}
+],
+"sub": "Introduced 12 Nov 2024; referred; died",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 987 of 1027, score 10). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D2.",
+"timeline": [
+{
+"date": "2024-11-12",
+"id": "ch-2024-11-12",
+"label": "First whistleblower bill",
+"precision": "day",
+"strand": "oversight",
+"text": "Burchett introduces H.R. 10111, the UAP Whistleblower Protection Act, with Mace, Luna and Burlison, the day before the Oversight hearing.",
+"tier": "B"
+}
+]
+}

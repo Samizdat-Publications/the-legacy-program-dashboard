@@ -1,0 +1,191 @@
+{
+"A": 3,
+"C": 2,
+"D": 0,
+"band": null,
+"claims": [
+{
+"source": "DOE/OSTI records listing Bechtel Nevada and National Security Technologies, LLC as successive Nevada Test Site research organisations",
+"text": "National Security Technologies LLC, a Northrop Grumman-led consortium, succeeded Bechtel Nevada as management and operating contractor for the Nevada Test Site from 2006.",
+"tier": 1
+},
+{
+"source": "USAspending.gov recipient search, retrieved 12 August 2026",
+"text": "USAspending records prime contract obligations to Northrop Grumman Systems Corporation in the tens of billions of dollars since FY2008.",
+"tier": 1
+},
+{
+"source": "George Knapp via Liberation Times, 28 February 2023",
+"text": "Senate Appropriations investigator Richard D'Amato is reported to have considered it 'entirely feasible' that the cover-up sat inside a private company such as Lockheed Martin, EG&G or Northrop Grumman. Reasoning: reported at second hand by George Knapp; D'Amato's own public statement says the inquiry found nothing meriting further investigation.",
+"tier": 3
+}
+],
+"cls": "institution",
+"cluster": "contractor",
+"connections": [
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "2026",
+"direction": "in",
+"edgeLabel": "Named as a target of his records investigation",
+"id": "eric-burlison",
+"l0": false,
+"label": "Eric Burlison",
+"note": "Same statement of 14-16 May 2026.",
+"sources": [
+{
+"date": "2026-05-16",
+"name": "The Hill: House Republican requests UFO talk from private contractor",
+"url": "https://thehill.com/homenews/house/5880943-house-gop-ufo-programs-pentagon-private-contractors/"
+}
+],
+"tier": "A",
+"type": "investigative"
+},
+{
+"claimTier": 2,
+"cls": "document",
+"dateEnd": "2026",
+"dateStart": "2001",
+"direction": "in",
+"edgeLabel": "Alleges IRAD self-funding of a breakaway programme after 9/11",
+"id": "gerb-northrop-trw-investigation",
+"l0": false,
+"label": "UAP Gerb - Northrop Grumman & TRW investigation (Vol.2)",
+"note": "The specific financial allegation: that Northrop used Independent Research and Development funds at the onset of the War on Terror to self-fund retrieval and exploitation, becoming unaccountable to its original government handler. IRAD is contractor-directed and only indirectly reimbursed, which makes it the mechanism that would allow exactly this.",
+"sources": [
+{
+"date": "2026-03-20",
+"name": "UAP Gerb - Northrop Grumman & TRW Vol.2",
+"url": "https://www.youtube.com/watch?v=0kLSp0lH-JQ"
+}
+],
+"tier": "B",
+"type": "funding"
+},
+{
+"claimTier": 1,
+"cls": "location",
+"dateEnd": "2017",
+"dateStart": "2006",
+"direction": "out",
+"edgeLabel": "A Northrop Grumman-led consortium took over Nevada Test Site management in 2006",
+"id": "l-nevada-test-site",
+"l0": false,
+"label": "Nevada Test Site / Nevada National Security Site",
+"note": "National Security Technologies LLC succeeded Bechtel Nevada, inheriting the Remote Sensing Laboratory, the Special Technologies Laboratory and the classified support infrastructure adjacent to Groom Lake.",
+"sources": [
+{
+"date": "2006-10-01",
+"name": "OSTI.GOV: Nevada Test Site Environmental Report 2005, research organization Bechtel Nevada",
+"url": "https://www.osti.gov/biblio/892135"
+},
+{
+"date": "2026-08-12",
+"name": "USAspending.gov federal award search (prime contract obligations by recipient)",
+"url": "https://www.usaspending.gov/search"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2026",
+"direction": "in",
+"edgeLabel": "Named among the primes whose MITRE-related work Congress demanded an accounting of",
+"id": "mitre-corporation",
+"l0": true,
+"label": "The MITRE Corporation",
+"note": "Burlison's production requests cover MITRE work involving Lockheed Martin, Northrop Grumman, Raytheon, Boeing, General Dynamics, SAIC and Leidos.",
+"sources": [
+{
+"date": "2026-05-27",
+"name": "DefenseScoop",
+"url": "https://defensescoop.com/2026/05/27/rep-eric-burlison-request-for-uap-records-mitre/"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "2002",
+"dateStart": "2002",
+"direction": "in",
+"edgeLabel": "Merged into a Northrop Grumman subsidiary, 11 December 2002",
+"id": "trw-inc",
+"l0": false,
+"label": "TRW Inc.",
+"note": "Northrop Grumman's Form 8-K states that Richmond Acquisition Corp. merged with and into TRW on 11 December 2002, leaving TRW a wholly owned subsidiary, with TRW Systems and TRW Space and Electronics renamed as Northrop Grumman Mission Systems and Northrop Grumman Space Technology.",
+"sources": [
+{
+"date": "2002-12-20",
+"name": "Northrop Grumman Corporation, Form 8-K, event 11 December 2002",
+"url": "https://www.sec.gov/Archives/edgar/data/1133421/000089843002004580/d8k.htm"
+}
+],
+"tier": "B",
+"type": "institutional"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "1994",
+"deg": 5,
+"denials": [],
+"desc": "Northrop Grumman is one of the three companies Senate investigator Richard D'Amato is reported to have identified as the kind of private entity inside which a UFO cover-up could feasibly be held, alongside Lockheed Martin and EG&G. Its documented government relationship spans stealth bomber development at the deepest classification levels - the B-2 and now the B-21 Raider, built at Air Force Plant 42 - national security space, and, materially for this domain, the Nevada complex: from 2006 to 2017 the Nevada Test Site was managed and operated by National Security Technologies LLC, a Northrop Grumman-led consortium that succeeded Bechtel Nevada, inheriting the Remote Sensing Laboratory and Special Technologies Laboratory and the classified support infrastructure adjacent to the Groom Lake operating location. USAspending records tens of billions of dollars in prime contract obligations to Northrop Grumman Systems Corporation since FY2008. No sworn witness has named Northrop Grumman as a holder of material; it appears in this domain through D'Amato's reported assessment, through its stewardship of the Nevada infrastructure, and through the general allegation that material is distributed across primes by technical domain.",
+"domains": [
+"primes-custody"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "1",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "northrop-grumman",
+"l0": false,
+"label": "Northrop Grumman Corporation",
+"locLabel": null,
+"members": null,
+"short": "Northrop Grumman Corporation",
+"sources": [
+{
+"date": "2006-10-01",
+"name": "OSTI.GOV: Nevada Test Site Environmental Report 2005, research organization Bechtel Nevada",
+"url": "https://www.osti.gov/biblio/892135"
+},
+{
+"date": "2026-08-12",
+"name": "USAspending.gov federal award search (prime contract obligations by recipient)",
+"url": "https://www.usaspending.gov/search"
+},
+{
+"date": "2023-02-28",
+"name": "Christopher Sharp, 'Former Chief For Defense Contractor That Ran Area 51 Claimed Knowledge Of Recovered Flying Saucer And Live Being,' Liberation Times",
+"url": "https://www.liberationtimes.com/home/former-chief-for-defense-contractor-that-ran-area-51-claimed-knowledge-of-recovered-flying-saucer-and-live-being-as-congress-looks-to-uncover-details-of-alleged-illegal-ufo-programs"
+}
+],
+"sub": "Prime contractor; B-2/B-21; former Nevada Test Site management partner",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 421 of 1027, score 32). 5 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A3/D0.",
+"timeline": [
+{
+"date": "2006-01-01",
+"id": "pc-2006-nstec",
+"label": "Northrop-led consortium takes over the Nevada complex",
+"precision": "year",
+"strand": "program",
+"text": "National Security Technologies LLC succeeds Bechtel Nevada as Nevada Test Site management and operating contractor, inheriting the classified support infrastructure adjacent to Groom Lake.",
+"tier": "B"
+}
+]
+}

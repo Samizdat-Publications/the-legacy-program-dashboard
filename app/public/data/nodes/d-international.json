@@ -1,0 +1,150 @@
+{
+"A": 2,
+"C": 1,
+"D": 2,
+"band": null,
+"claims": [
+{
+"source": "GEIPAN classification and statistics pages",
+"text": "GEIPAN, established within CNES in 1977 and based at Toulouse, publishes its case classification scheme and statistics publicly.",
+"tier": 1
+},
+{
+"source": "Arquivo Nacional, Sistema de Informacoes do Arquivo Nacional",
+"text": "Brazilian military UFO records have been transferred to the Arquivo Nacional and are accessible through its information system, including material on the 1986 incident.",
+"tier": 1
+},
+{
+"source": "NewsNation, 15 July 2026",
+"text": "In July 2026 a US lawmaker formally asked the FBI and CIA for information relating to the 1996 Varginha incident in Brazil.",
+"tier": 2
+}
+],
+"cls": "domain",
+"cluster": "other",
+"connections": [
+{
+"claimTier": 1,
+"cls": "domain",
+"dateEnd": null,
+"dateStart": "1977-05-01",
+"direction": "out",
+"edgeLabel": "Comparative disclosure as leverage",
+"id": "d-disclosure",
+"l0": false,
+"label": "Disclosure Movement",
+"note": "GEIPAN's published classification scheme and open case archive establish that an acknowledged state programme is possible, shifting the burden onto the concealment argument.",
+"sources": [
+{
+"date": "2026-03-31",
+"name": "GEIPAN - Classification",
+"url": "https://www.geipan.fr/fr/node/58787"
+}
+],
+"tier": "C",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "location",
+"dateEnd": null,
+"dateStart": "1977-05-01",
+"direction": "out",
+"edgeLabel": "GEIPAN's operating base",
+"id": "l-toulouse",
+"l0": false,
+"label": "Toulouse, France",
+"note": "GEIPAN has operated within CNES at Toulouse since 1977, publishing classifications and statistics openly.",
+"sources": [
+{
+"date": "2026-03-31",
+"name": "GEIPAN - Classification",
+"url": "https://www.geipan.fr/fr/node/58787"
+}
+],
+"tier": "C",
+"type": "geographic"
+},
+{
+"claimTier": 2,
+"cls": "location",
+"dateEnd": null,
+"dateStart": "1996-01-20",
+"direction": "out",
+"edgeLabel": "A foreign case now under US congressional inquiry",
+"id": "l-varginha",
+"l0": false,
+"label": "Varginha, Minas Gerais, Brazil",
+"note": "In July 2026 a US lawmaker formally requested FBI and CIA holdings on the 1996 Varginha incident.",
+"sources": [
+{
+"date": "2026-03-31",
+"name": "GEIPAN - Classification",
+"url": "https://www.geipan.fr/fr/node/58787"
+}
+],
+"tier": "C",
+"type": "investigative"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "1977-05-01",
+"deg": 3,
+"denials": [],
+"desc": "Other governments have made admissions the United States has not, and the comparison is one of the board's most useful instruments because it establishes what an official programme looks like when it is not concealed. France has run GEIPAN, a publicly funded investigative unit inside the national space agency CNES at Toulouse, since 1977 - with a published classification scheme, published statistics and a case archive open to the public, of which the category for cases that remain unexplained after full investigation is the operative one. Brazil transferred its military UFO files to the Arquivo Nacional, making them citizen-accessible, and its 1986 air force incident is documented in that archive. Chile's air force ran CEFAA under named officers who spoke on the record. The comparative point is decisive: none of these disclosures produced the harms the American concealment argument depends on, which shifts the burden onto the party claiming that only the United States cannot afford transparency. The allied-intelligence complication is real too - a programme shared under bilateral arrangements is protected by originator control, giving every partner a veto over release. Scoring high on this domain means an entity ran, opened or is bound by a foreign programme.",
+"domains": [
+"_stubs",
+"w2-taxonomy"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "1",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "d-international",
+"l0": false,
+"label": "International & Allied Programs",
+"locLabel": null,
+"members": null,
+"short": "International & Allied Programs",
+"sources": [
+{
+"date": "2026-03-31",
+"name": "GEIPAN - Classification",
+"url": "https://www.geipan.fr/fr/node/58787"
+},
+{
+"date": "2026-08-11",
+"name": "GEIPAN - Statistiques",
+"url": "https://www.geipan.fr/fr/stats"
+},
+{
+"date": "2026-08-12",
+"name": "Arquivo Nacional (Brazil) - Sistema de Informacoes do Arquivo Nacional",
+"url": "https://sian.an.gov.br/"
+},
+{
+"date": "2026-07-15",
+"name": "NewsNation - Lawmaker asks FBI, CIA for info on Brazil's Roswell moment",
+"url": "https://www.newsnationnow.com/space/ufo/varginha-burlison-fbi-cia/"
+},
+{
+"date": "2026-08-12",
+"name": "NSF master government list of FFRDCs",
+"url": "https://www.nsf.gov/statistics/ffrdclist/"
+},
+{
+"date": "2026-08-12",
+"name": "Domain definition written for this board; see SCHEMA.md",
+"url": ""
+}
+],
+"sub": "Comparative domain - what other states have admitted, and what their disclosures imply about ours",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 627 of 1027, score 25). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D2.",
+"timeline": []
+}

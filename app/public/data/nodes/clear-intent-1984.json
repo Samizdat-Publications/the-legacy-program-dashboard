@@ -1,0 +1,158 @@
+{
+"A": 0,
+"C": 0,
+"D": 3,
+"band": null,
+"claims": [
+{
+"source": "Fawcett and Greenwood, 'Clear Intent' (1984)",
+"text": "The book is built on documents obtained by Citizens Against UFO Secrecy under FOIA from the CIA, FBI, NSA, Air Force, NORAD and the Office of the Joint Chiefs of Staff, reproduced in facsimile and annotated.",
+"tier": 1
+},
+{
+"source": "Fawcett and Greenwood, 'Clear Intent' (1984), Preface",
+"text": "The title derives from a Loring AFB teletype reporting that an unidentified object 'demonstrated a clear intent in the weapons storage area', a phrase the Air Force never explained.",
+"tier": 1
+},
+{
+"source": "Library catalogue record, ufocoverupwhatgo0000fawc",
+"text": "The book was reissued in 1992 as 'The UFO Cover-Up: What the Government Won't Say', with the title page verso noting 'Originally published as Clear intent.'",
+"tier": 1
+}
+],
+"cls": "document",
+"cluster": "research",
+"connections": [
+{
+"claimTier": 3,
+"cls": "person",
+"dateEnd": "2010",
+"dateStart": "1984",
+"direction": "in",
+"edgeLabel": "Hastings extended the Fawcett-Greenwood documentary method with named witnesses",
+"id": "robert-hastings",
+"l0": false,
+"label": "Robert L. Hastings",
+"note": "Hastings pairs the FOIA paper that 'Clear Intent' established with signed affidavits from named officers, which is the step the 1984 book could not take. Reasoning: comparison of the two evidence bases.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "UFOs & Nukes document archive",
+"url": "https://www.ufohastings.com/documents"
+},
+{
+"date": "1984-01-01",
+"name": "Fawcett and Greenwood, 'Clear Intent' (1984)",
+"url": "https://archive.org/details/clear-intent-the-government-coverup-of-the-ufo-experience"
+}
+],
+"tier": "B",
+"type": "research"
+},
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": "1984",
+"dateStart": "1977-12-26",
+"direction": "out",
+"edgeLabel": "Fawcett and Greenwood reconstructed the 1975 wave from FOIA documents",
+"id": "sac-overflights-1975",
+"l0": true,
+"label": "1975 SAC Nuclear-Base Overflights (Loring, Wurtsmith, Malmstrom, Minot)",
+"note": "CAUS filed on 26 December 1977; the Office of the Assistant Secretary of Defense identified twenty-four Joint Chiefs documents on 6 February 1978; Assistant Secretary Thomas Ross ordered the withheld fifteen released. The book reproduces and annotates them.",
+"sources": [
+{
+"date": "1984-01-01",
+"name": "Fawcett and Greenwood, 'Clear Intent' (1984)",
+"url": "https://archive.org/details/clear-intent-the-government-coverup-of-the-ufo-experience"
+}
+],
+"tier": "A",
+"type": "research"
+},
+{
+"claimTier": 3,
+"cls": "document",
+"dateEnd": "1994",
+"dateStart": "1984",
+"direction": "out",
+"edgeLabel": "Documentary method versus anonymous-testimony method",
+"id": "stringfield-status-reports",
+"l0": true,
+"label": "UFO Crash/Retrieval Status Reports I-VII (Stringfield, 1978-1994)",
+"note": "The two bodies of work are contemporaneous and methodologically opposite: 'Clear Intent' sources every claim to a released government document, the Status Reports to protected anonymous informants. Reasoning: the difference in grade this board assigns them is entirely a difference in sourcing, not in subject matter.",
+"sources": [
+{
+"date": "1984-01-01",
+"name": "Fawcett and Greenwood, 'Clear Intent' (1984)",
+"url": "https://archive.org/details/clear-intent-the-government-coverup-of-the-ufo-experience"
+},
+{
+"date": "2026-08-12",
+"name": "Stringfield Status Reports 1-7 (scans)",
+"url": "https://archive.org/details/stringfield_Retrievals_Report_6_inner_sanctum_LQ"
+}
+],
+"tier": "C",
+"type": "research"
+}
+],
+"coords": null,
+"dateEnd": "1992",
+"dateStart": "1984",
+"deg": 3,
+"denials": [],
+"desc": "Fawcett and Greenwood's 1984 book is the methodological antithesis of the Stringfield corpus and the reason the nuclear-incursion strand is gradeable at tier 1. Where the crash-retrieval literature ran on anonymous testimony, 'Clear Intent' ran on Freedom of Information Act returns: CIA, FBI, NSA, Air Force, NORAD and Joint Chiefs of Staff documents obtained by Citizens Against UFO Secrecy, reproduced and annotated. Its title comes from the Loring AFB teletype reporting an object that 'demonstrated a clear intent in the weapons storage area', and its core chapters reconstruct the October-November 1975 northern-tier overflights from the NORAD Command Director's and 24th NORAD Region Senior Director's logs and the National Military Command Center memoranda, alongside the CAUS FOIA correspondence showing how those twenty-four Joint Chiefs documents were pried loose between December 1977 and February 1978. The book was reissued in 1992 as 'The UFO Cover-Up: What the Government Won't Say'. Barry Greenwood went on to direct CAUS and to edit 'Just Cause'. For this board's purposes 'Clear Intent' is the template: it demonstrates that a specific, dated, named-installation claim about unexplained aerial activity at nuclear facilities can be sourced entirely to government paper, and it thereby sets the standard that the retrieval literature has never met.",
+"domains": [
+"w2-retrieval-literature"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "1",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "clear-intent-1984",
+"l0": false,
+"label": "Clear Intent: The Government Coverup of the UFO Experience (1984)",
+"locLabel": null,
+"members": null,
+"short": "Clear Intent: The Government Coverup of the UFO Experience (1984)",
+"sources": [
+{
+"date": "1984-01-01",
+"name": "Fawcett and Greenwood, 'Clear Intent: The Government Coverup of the UFO Experience' (1984) - full text",
+"url": "https://archive.org/details/clear-intent-the-government-coverup-of-the-ufo-experience"
+},
+{
+"date": "1992-01-01",
+"name": "The UFO cover-up: what the government won't say (1992 reissue)",
+"url": "https://archive.org/details/ufocoverupwhatgo0000fawc"
+}
+],
+"sub": "Lawrence Fawcett and Barry J. Greenwood; Prentice-Hall Spectrum, 1984",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 815 of 1027, score 18). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.",
+"timeline": [
+{
+"date": "1977-12-26",
+"id": "tl-1977-1226-caus",
+"label": "CAUS FOIA request",
+"precision": "day",
+"strand": "oversight",
+"text": "Citizens Against UFO Secrecy files for the Loring, Wurtsmith and Malmstrom case files. On 6 February 1978 the Office of the Assistant Secretary of Defense identifies twenty-four Joint Chiefs documents; after an internal dispute Assistant Secretary Thomas Ross orders the withheld fifteen released.",
+"tier": "A"
+},
+{
+"date": "1984",
+"id": "tl-1984-clear-intent",
+"label": "Clear Intent",
+"precision": "year",
+"strand": "program",
+"text": "Fawcett and Greenwood publish the FOIA-sourced counterweight to the anonymous-testimony literature, reproducing the NORAD, NMCC and Joint Chiefs documents on the 1975 overflights.",
+"tier": "A"
+}
+]
+}

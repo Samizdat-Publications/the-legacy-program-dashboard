@@ -1,0 +1,210 @@
+{
+"A": 1,
+"C": 0,
+"D": 2,
+"affiliations": [],
+"age": null,
+"band": null,
+"chronology": [],
+"claims": [
+{
+"source": "https://irp.fas.org/dia/aatip-list.pdf",
+"text": "Named on the DIA list of AATIP/AAWSAP products supplied to the Senate Armed Services Committee as author of item 16, 'Maverick Inventor Versus Corporate Inventor', affiliation Hathaway Consulting.",
+"tier": 1
+},
+{
+"source": "https://www.theblackvault.com/documentarchive/the-advanced-aviation-threat-identification-program-aatip-dird-report-research/",
+"text": "Named on the same DIA list as author of item 10, 'Role of Superconductors in Gravity Research', affiliation Hathaway Consulting, making him a two-deliverable AAWSAP contributor.",
+"tier": 1
+},
+{
+"source": "https://www.theblackvault.com/documentarchive/the-advanced-aviation-threat-identification-program-aatip-dird-report-research/",
+"text": "Graduated from the Department of Electrical Engineering, University of Toronto, 1974; Registered Professional Engineer; founder and principal of his consulting firm; consultant on 'novel and exotic materials, energy production and propulsion concepts'; author of 'Mindbending: The Hutchison Files'.",
+"tier": 2
+},
+{
+"source": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"text": "The DIA letter of 9 January 2018 lists item 10 as \"Role of Superconductors in Gravity Research, Dr George Hathaway, Hathaway Consulting.\"",
+"tier": 2
+},
+{
+"source": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"text": "The same DIA list credits Hathaway with a second DIRD, item 16, \"Maverick Inventor Versus Corporate Inventor.\"",
+"tier": 2
+},
+{
+"source": "https://www.hathawayresearch.com/principal-staff/",
+"text": "Hathaway graduated in electrical engineering from the University of Toronto in 1974, is a registered professional engineer, and founded Hathaway Consulting Services and later Hathaway Research International, a laboratory near Toronto International Airport dedicated to testing claims of anomalous energy production and unconventional propulsion and gravity modification.",
+"tier": 2
+},
+{
+"source": "https://www.altpropulsion.com/gravity-control-experiments/",
+"text": "Between 1996 and 2003 Hathaway conducted the Podkletnov spinning-superconductor gravity experiment for a prospective investor and reported null results.",
+"tier": 2
+}
+],
+"cls": "person",
+"cluster": "research",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "authored by",
+"id": "dird-maverick-inventor-versus-corporate-inventor-where",
+"l0": false,
+"label": "Maverick Inventor Versus Corporate Inventor: Where Will the Next Major Innovations Arise?",
+"note": "The DIA congressional list credits 'Maverick Inventor Versus Corporate Inventor: Where Will the Next Major Innovations Arise?' to 'Dr George Hathaway, Hathaway Consulting'. Hathaway is also credited on the same list with 'Role of Superconductors in Gravity Research'. The author line on the released PDF is redacted under (b)(6).",
+"sources": [
+{
+"date": "2026-08-22",
+"name": "Released DIRD, 'Maverick Inventor Versus Corporate Inventor: Where Will the Next Major' — FOIA copy, cover page read 22 August 2026",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_17-DIRD_Maverick_Inventor_Versus_Corporate_Inventor-Where_Will_the_Next_major_Innovations_Arise.pdf"
+},
+{
+"date": "2026-08-22",
+"name": "DIA FOIA Electronic Reading Room entry for this reference document",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237624/"
+},
+{
+"date": "2026-08-23",
+"name": "DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations",
+"url": "https://fas.org/publication/aatip-list/"
+},
+{
+"date": null,
+"name": "https://irp.fas.org/dia/aatip-list.pdf",
+"url": "https://irp.fas.org/dia/aatip-list.pdf"
+},
+{
+"date": null,
+"name": "https://www.theblackvault.com/documentarchive/the-advanced-aviation-threat-identification-program-aatip-dird-report-research/",
+"url": "https://www.theblackvault.com/documentarchive/the-advanced-aviation-threat-identification-program-aatip-dird-report-research/"
+}
+],
+"tier": "B",
+"type": "research"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "author of record on the DIA list",
+"id": "dird-the-role-of-superconductors-in-gravity",
+"l0": false,
+"label": "The Role of Superconductors in Gravity Research",
+"note": "DIA list item 10: \"Role of Superconductors in Gravity Research, Dr George Hathaway, Hathaway Consulting.\" This is the attribution most likely to be got wrong from the title alone: the paper reviews the Podkletnov and Ning Li gravity-modification claims but was not written by either of them or by any academic advocate of the effect. It was written by the Toronto engineer who had run the Podkletnov replication and reported null results.",
+"sources": [
+{
+"date": "2026-08-22",
+"name": "Released DIRD, 'The Role of Superconductors in Gravity Research' — FOIA copy, cover page read 22 August 2026",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_14-DIRD_The_Role_of_Superconductors_in_Gravity_Research.pdf"
+},
+{
+"date": "2026-08-22",
+"name": "DIA FOIA Electronic Reading Room entry for this reference document",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237631/"
+},
+{
+"date": "2026-08-23",
+"name": "DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations",
+"url": "https://fas.org/publication/aatip-list/"
+},
+{
+"date": null,
+"name": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html",
+"url": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html"
+},
+{
+"date": null,
+"name": "https://irp.fas.org/dia/aatip-list.pdf",
+"url": "https://irp.fas.org/dia/aatip-list.pdf"
+}
+],
+"tier": "B",
+"type": "research"
+}
+],
+"date": "2010-01-01",
+"dateEnd": null,
+"dateStart": "2010-01-01",
+"deg": 2,
+"denials": [],
+"domains": [
+"w7-dirds-3",
+"w7-dirds-4"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "2",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "george-hathaway",
+"instId": null,
+"l0": false,
+"label": "George D. Hathaway",
+"loc": null,
+"locId": null,
+"members": null,
+"narrative": "George Hathaway is the author the DIA list names for \"Role of Superconductors in Gravity Research,\" and separately for \"Maverick Inventor Versus Corporate Inventor\" (item 16). Two DIRDs, and they are an odd pair: one a technical review of the most contested claim in gravity-modification research, the other an essay on where breakthrough invention actually comes from. Both are consistent with what Hathaway has done for fifty years.\n\nHathaway graduated in electrical engineering from the University of Toronto in 1974 and is a registered professional engineer. He runs a private laboratory near Toronto International Airport, first as Hathaway Consulting Services, the affiliation the DIA letter records, and latterly as Hathaway Research International. The laboratory's stated function is to test claims of anomalous energy production and unconventional propulsion and gravity modification, which in practice means being the person who replicates other people's extraordinary claims and reports honestly when they fail. Between 1996 and 2003 he ran the Podkletnov rotating-superconductor gravity-shielding experiment for a prospective investor and obtained null results. He co-authored with Reiss a 2005 paper on correct laboratory practice in experiments designed to detect gravity-like forces.\n\nThat record is why his DIRD is more interesting than its title suggests. The superconductor paper, DIA-08-1003-013, dated 23 March 2010 in the Acquisition Threat Support series, reviews the Soviet-lineage gravity claims of Evgeny Podkletnov and the work of Ning Li. DIA commissioned a review of gravity modification from the one person in the field with a documented history of failing to replicate it. That is not the commissioning behaviour of a programme buying a predetermined conclusion, and it is a fact that cuts against the standard reading of the DIRD set in both directions.\n\nHathaway's disclosure role is scored above the other subject-matter authors because his laboratory is a standing independent node in the anomalous-physics network, referenced alongside EarthTech International as one of the few places where such claims get instrumented rather than argued.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "George D. Hathaway",
+"sources": [
+{
+"date": null,
+"name": "https://irp.fas.org/dia/aatip-list.pdf",
+"url": "https://irp.fas.org/dia/aatip-list.pdf"
+},
+{
+"date": null,
+"name": "https://fas.org/publication/aatip-list/",
+"url": "https://fas.org/publication/aatip-list/"
+},
+{
+"date": null,
+"name": "https://www.theblackvault.com/documentarchive/the-advanced-aviation-threat-identification-program-aatip-dird-report-research/",
+"url": "https://www.theblackvault.com/documentarchive/the-advanced-aviation-threat-identification-program-aatip-dird-report-research/"
+},
+{
+"date": null,
+"name": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_17-DIRD_Maverick_Inventor_Versus_Corporate_Inventor-Where_Will_the_Next_major_Innovations_Arise.pdf",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_17-DIRD_Maverick_Inventor_Versus_Corporate_Inventor-Where_Will_the_Next_major_Innovations_Arise.pdf"
+},
+{
+"date": null,
+"name": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html",
+"url": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html"
+},
+{
+"date": null,
+"name": "Hathaway Research International, principal scientist and staff biographies",
+"url": "https://www.hathawayresearch.com/principal-staff/"
+},
+{
+"date": null,
+"name": "\"George Hathaway's Gravity Control Experiments,\" Alternative Propulsion Engineering Conference",
+"url": "https://www.altpropulsion.com/gravity-control-experiments/"
+},
+{
+"date": "2010-03-23",
+"name": "Defense Intelligence Reference Document, \"The Role of Superconductors in Gravity Research\" (The Black Vault FOIA release)",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_14-DIRD_The_Role_of_Superconductors_in_Gravity_Research.pdf"
+}
+],
+"status": "active",
+"sub": "Professional engineer, Hathaway Consulting Services (Toronto); author of two AAWSAP DIRDs",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 604 of 1027, score 25). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D2.",
+"timeline": [],
+"unexplainedResidual": null,
+"unverified": []
+}

@@ -1,0 +1,140 @@
+{
+"A": 2,
+"C": 1,
+"D": 1,
+"band": null,
+"claims": [
+{
+"source": "Robert M. Wood's own repeated public account",
+"text": "Robert M. Wood conducted a company-funded study of unidentified craft at McDonnell Douglas Astronautics, Huntington Beach, in the late 1960s.",
+"tier": 2
+},
+{
+"source": "DoD Instruction 3204.01, 20 August 2014, incorporating Change 2, 9 July 2020",
+"text": "Corporate independent research and development is recoverable as an indirect expense on covered DoD contracts under DoD Instruction 3204.01, with project reporting required only of contractors allocating more than $11 million in IR&D and bid-and-proposal costs.",
+"tier": 1
+}
+],
+"cls": "institution",
+"cluster": "other",
+"connections": [
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "1997",
+"direction": "in",
+"edgeLabel": "Boeing absorbed McDonnell Douglas in 1997, inheriting the Huntington Beach organisation and its records",
+"id": "boeing",
+"l0": false,
+"label": "The Boeing Company",
+"note": "Any corporate record of the Wood study, and of anything else the astronautics organisation held, passed to Boeing. No committee has requested it.",
+"sources": [
+{
+"date": "2023-07-26",
+"name": "House Oversight hearing transcript, 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency' (CHRG-118hhrg53022)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 3,
+"cls": "document",
+"dateEnd": "1997",
+"dateStart": "1968",
+"direction": "out",
+"edgeLabel": "Corporate self-funded UAP research is the historical precedent for the IR&D channel",
+"id": "dodi-3204-01",
+"l0": false,
+"label": "DoD Instruction 3204.01 - Oversight of Independent Research and Development",
+"note": "Robert Wood's late-1960s company-funded study at Huntington Beach is the earliest described instance of a prime studying the phenomenon on internal money with no reporting obligation - the pattern later formalised in IR&D policy. No company record of the study has been released.",
+"sources": [
+{
+"date": "2020-07-09",
+"name": "DoD Instruction 3204.01, 'DoD Policy for Oversight of Independent Research and Development (IR&D)' (Change 2)",
+"url": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/320401p.pdf"
+}
+],
+"tier": "B",
+"type": "funding"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "1970",
+"dateStart": "1968",
+"direction": "in",
+"edgeLabel": "Wood ran a company-funded study of unidentified craft at McDonnell Douglas Astronautics",
+"id": "robert-wood",
+"l0": false,
+"label": "Robert M. Wood",
+"note": "Wood spent his career at the Huntington Beach astronautics organisation and has repeatedly described initiating an internal study on the reasoning that a prime could not afford to be last to know if the propulsion were real.",
+"sources": [
+{
+"date": "2020-07-09",
+"name": "DoD Instruction 3204.01, 'DoD Policy for Oversight of Independent Research and Development (IR&D)' (Change 2)",
+"url": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/320401p.pdf"
+}
+],
+"tier": "C",
+"type": "institutional"
+}
+],
+"coords": null,
+"dateEnd": "1997",
+"dateStart": "1967",
+"deg": 3,
+"denials": [],
+"desc": "McDonnell Douglas is the earliest documented case of a prime contractor studying the phenomenon on its own money. Robert M. Wood, a Cornell physics PhD who spent his career at the company's Astronautics division in Southern California, ran a company-funded study of unidentified craft and their propulsion out of the Huntington Beach facility in the late 1960s. The rationale he has described is the commercial one and it is the rationale that makes this domain coherent: if the propulsion were real, an aerospace prime could not afford to be the last to know. Nothing about that study was reported to Congress, because nothing required it to be - it was internal corporate research, the same category that DoD Instruction 3204.01 would later formalise as independent research and development, recoverable as an indirect expense on government contracts, and that David Grusch would name under oath in 2023 as the mechanism by which UAP work is funded outside oversight. The company merged into Boeing in 1997. No McDonnell Douglas internal record of the study has been released, and the corporate archive of the Huntington Beach organisation has never been searched by any congressional committee.",
+"domains": [
+"_rs-archive-mirror",
+"primes-custody"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "mcdonnell-douglas",
+"l0": false,
+"label": "McDonnell Douglas Corporation",
+"locLabel": null,
+"members": null,
+"short": "McDonnell Douglas Corporation",
+"sources": [
+{
+"date": "2026-03-09",
+"name": "Archived: DoD Instruction 3204.01, 'DoD Policy for Oversight of Independent Research and Development (IR&D)' (Change 2) (Wayback 2026-03-09)",
+"url": "https://web.archive.org/web/20260309144222/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/320401p.pdf"
+},
+{
+"date": "2020-07-09",
+"name": "DoD Instruction 3204.01, 'DoD Policy for Oversight of Independent Research and Development (IR&D)' (Change 2)",
+"url": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/320401p.pdf"
+},
+{
+"date": "2023-07-26",
+"name": "House Oversight hearing transcript, 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency' (CHRG-118hhrg53022)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm"
+}
+],
+"sub": "Prime contractor 1967-1997; Astronautics Company, Huntington Beach",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 669 of 1027, score 23). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A2/D1.",
+"timeline": [
+{
+"date": "1968-01-01",
+"id": "pc-1968-mdc",
+"label": "McDonnell Douglas funds an internal study",
+"precision": "year",
+"strand": "program",
+"text": "Robert M. Wood begins a company-funded study of unidentified craft and their propulsion at McDonnell Douglas Astronautics, Huntington Beach. No government contract, no reporting obligation, no released record.",
+"tier": "B"
+}
+]
+}

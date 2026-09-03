@@ -1,0 +1,155 @@
+{
+"A": 2,
+"C": 1,
+"D": 2,
+"band": null,
+"claims": [
+{
+"source": "DIA memo U-429-09-DWO-IM, 30 October 2009",
+"text": "'All of the reviews were positive, some exceptionally so' and 'the quality hoped for in the reports was achieved'.",
+"tier": 1
+},
+{
+"source": "DIA memo U-429-09-DWO-IM",
+"text": "Thirteen reviews were conducted on the 26 FY09 reports: eight by other report authors and five by outside reviewers, three of whom were Sandia National Laboratories staff.",
+"tier": 1
+},
+{
+"source": "DIA memo U-429-09-DWO-IM",
+"text": "The AAWSAP program manager personally reviewed all papers and concurred with the reviewers' assessments.",
+"tier": 1
+},
+{
+"source": "Inference from comparing the 2009 memo with AARO Historical Record Report Volume 1, p.24",
+"text": "DIA's contemporaneous positive quality finding directly contradicts the retrospective 'lack of merit' framing used in 2024, indicating the merit judgement was applied after the fact for institutional reasons rather than derived from the reviews.",
+"tier": 3
+}
+],
+"cls": "document",
+"cluster": "other",
+"connections": [
+{
+"claimTier": 3,
+"cls": "document",
+"dateEnd": "2024",
+"dateStart": "2009",
+"direction": "in",
+"edgeLabel": "2024 'lack of merit' contradicts DIA's 2009 quality finding",
+"id": "aaro-historical-record-vol1",
+"l0": true,
+"label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
+"note": "DIA in 2009: reviews 'positive, some exceptionally so'. AARO in 2024: terminated due to concerns about the project. Same department, opposite assessments, fifteen years apart.",
+"sources": [
+{
+"date": "2009-10-30",
+"name": "DIA memo U-429-09-DWO-IM",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP/U-429-09-DWO-IM.pdf"
+},
+{
+"date": "2024-03-08",
+"name": "AARO Historical Record Report Volume 1",
+"url": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF"
+}
+],
+"tier": "A",
+"type": "temporal"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "2009",
+"dateStart": "2009",
+"direction": "out",
+"edgeLabel": "formal DIA quality assessment of the 26 FY09 reports",
+"id": "dird-series",
+"l0": true,
+"label": "The 38 Defense Intelligence Reference Documents (DIRDs)",
+"note": "Thirteen reviews: eight by other report authors, five external. Conclusion: the quality hoped for was achieved.",
+"sources": [
+{
+"date": "2009-10-30",
+"name": "DIA memo U-429-09-DWO-IM",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP/U-429-09-DWO-IM.pdf"
+}
+],
+"tier": "A",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "2009",
+"dateStart": "2009",
+"direction": "in",
+"edgeLabel": "three Sandia staff among the five outside reviewers",
+"id": "sandia",
+"l0": true,
+"label": "Sandia National Laboratories",
+"note": "A DOE weapons laboratory peer-reviewed the AAWSAP physics portfolio and DIA recorded the reviews as positive, some exceptionally so.",
+"sources": [
+{
+"date": "2009-10-30",
+"name": "DIA memo U-429-09-DWO-IM",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP/U-429-09-DWO-IM.pdf"
+}
+],
+"tier": "A",
+"type": "institutional"
+}
+],
+"coords": null,
+"dateEnd": "2009",
+"dateStart": "2009",
+"deg": 3,
+"denials": [],
+"desc": "The quality verdict, and the single strongest rebuttal in the record to DoD's later position that AAWSAP produced nothing of value. Written by the Defense Warning Office in response to a request arising from the May 2009 Reid meeting, it covers the 26 technical reports delivered in FY09 under the BAASS contract. Eight reviews were performed by other report authors; five by outside reviewers, including three staff members from Sandia National Laboratories. The memo's conclusion is unambiguous: 'all of the reviews were positive, some exceptionally so', and 'the quality hoped for in the reports was achieved' despite the constraint of unclassified research. The program manager reviewed every paper and concurred with the assessments. Fifteen years later AARO would tell the public the program was 'terminated in 2012 upon the completion of its deliverables due to DIA and DoD concerns about the project.' Both statements are DIA's. Only one was written while the work was being done.",
+"domains": [
+"_rs-archive-mirror",
+"aawsap-aatip"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "2",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "dia-deliverables-review-2009",
+"l0": false,
+"label": "DIA Memorandum: Review of Advanced Aerospace Contract Deliverables (U-429-09-DWO-IM)",
+"locLabel": null,
+"members": null,
+"short": "DIA Memorandum: Review of Advanced Aerospace Contract Deliverables (U-429-09-DWO-IM)",
+"sources": [
+{
+"date": "2026-07-05",
+"name": "Archived: AARO Historical Record Report Volume 1 (Wayback 2026-07-05)",
+"url": "https://web.archive.org/web/20260705034310/https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF"
+},
+{
+"date": "2009-10-30",
+"name": "DIA — Review of Advanced Aerospace Contract Deliverables (U-429-09-DWO-IM)",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP/U-429-09-DWO-IM.pdf"
+},
+{
+"date": "2024-03-08",
+"name": "AARO Historical Record Report Volume 1",
+"url": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF"
+}
+],
+"sub": "DIA Defense Warning Office memorandum, 30 October 2009",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 558 of 1027, score 27). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D2.",
+"timeline": [
+{
+"date": "2009-10-30",
+"id": "tl-2009-review",
+"label": "DIA finds the deliverables excellent",
+"precision": "day",
+"strand": "program",
+"text": "DIA's Defense Warning Office records that of thirteen reviews of the 26 FY09 reports, including three by Sandia National Laboratories staff, 'all of the reviews were positive, some exceptionally so'.",
+"tier": "A"
+}
+]
+}

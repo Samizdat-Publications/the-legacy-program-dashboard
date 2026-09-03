@@ -1,0 +1,222 @@
+{
+"A": 3,
+"C": 1,
+"D": 3,
+"band": null,
+"claims": [
+{
+"source": "war.gov/UFO, accessed 12 August 2026",
+"text": "The war.gov portal lists Release 02 dated 22 May 2026 with a 70.1MB document bundle and a 5.6GB video bundle.",
+"tier": 1
+},
+{
+"source": "Disclosure Archives inventory of the Release 02 posting",
+"text": "Release 02 comprised 64 files: 51 sensor videos in a DOW-UAP-PR050 to PR099 series, 7 NASA crew audio files and 6 documents.",
+"tier": 2
+},
+{
+"source": "Disclosure Archives inventory of Release 02",
+"text": "ODNI-UAP-D001 is a first-person narrative by a serving senior intelligence officer describing a one-hour, multi-witness UAP encounter from a military helicopter in late 2025.",
+"tier": 2
+},
+{
+"source": "Disclosure Archives inventory of Release 02",
+"text": "DOW-UAP-PR051 shows a 2021 MQ-9 Reaper weapons-quality lock on an object exhibiting instantaneous acceleration; DOW-UAP-PR055 shows a spherical object over Afghanistan on 23 November 2020.",
+"tier": 2
+},
+{
+"source": "Disclosure Archives inventory of Release 02",
+"text": "Release 02 includes a March 2022 sequence of spheres entering and leaving the water near a surfaced US submarine and the February 2023 Lake Huron F-16C engagement.",
+"tier": 2
+}
+],
+"cls": "event",
+"cluster": "other",
+"connections": [
+{
+"claimTier": 3,
+"cls": "document",
+"dateEnd": "2026",
+"dateStart": "2024",
+"direction": "in",
+"edgeLabel": "'Lack of timely and actionable sensor data' against 51 released sensor videos",
+"id": "aaro-fy2024-annual-report",
+"l0": true,
+"label": "AARO FY2024 Consolidated Annual Report on UAP",
+"note": "The FY2024 report attributes AARO's analytic constraint to sensor-data scarcity nineteen months before the same department published 51 sensor videos in a single tranche, all of incidents predating the report.",
+"sources": [
+{
+"date": "2024-11-14",
+"name": "AARO - FY2024 Consolidated Annual Report on UAP (PDF)",
+"url": "https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF"
+},
+{
+"date": "2026-08-01",
+"name": "Disclosure Archives - Department of War files index",
+"url": "https://disclosurearchives.com/department-of-war-files"
+}
+],
+"tier": "A",
+"type": "denial"
+},
+{
+"claimTier": 3,
+"cls": "person",
+"dateEnd": "2026-05-22",
+"dateStart": "2026-04",
+"direction": "in",
+"edgeLabel": "letter said to be answered by the tranche",
+"id": "anna-paulina-luna",
+"l0": false,
+"label": "Anna Paulina Luna",
+"note": "Release 02 is the only tranche with an identified congressional trigger - Luna's April 2026 letter - and the letter itself has not been published.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Disclosure Archives, DoW PURSUE file index",
+"url": "https://disclosurearchives.com/department-of-war-files"
+}
+],
+"tier": "A",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "2026",
+"dateStart": "2026",
+"direction": "out",
+"edgeLabel": "Published the serving officer's encounter narrative",
+"id": "odni-uap-d001",
+"l0": false,
+"label": "ODNI-UAP-D001 - serving senior intelligence officer's UAP encounter narrative",
+"note": "A serving senior intelligence officer's first-person narrative of a one-hour, multi-witness encounter, published under an ODNI document number five months after the event.",
+"sources": [
+{
+"date": "2026-08-01",
+"name": "Disclosure Archives - Department of War files index",
+"url": "https://disclosurearchives.com/department-of-war-files"
+}
+],
+"tier": "B",
+"type": "custody"
+},
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": "2026",
+"dateStart": "2026",
+"direction": "in",
+"edgeLabel": "Second tranche, 22 May 2026",
+"id": "pursue-releases",
+"l0": true,
+"label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters",
+"note": "64 files including 51 sensor videos in a DOW-UAP-PR050 to PR099 series; the 5.6GB video bundle is the largest of the five.",
+"sources": [
+{
+"date": "2026-08-07",
+"name": "Department of War - PURSUE portal (war.gov/UFO)",
+"url": "https://www.war.gov/UFO/"
+},
+{
+"date": "2026-08-01",
+"name": "Disclosure Archives - Department of War files index",
+"url": "https://disclosurearchives.com/department-of-war-files"
+}
+],
+"tier": "A",
+"type": "programmatic"
+}
+],
+"coords": null,
+"dateEnd": "2026",
+"dateStart": "2026",
+"deg": 4,
+"denials": [
+{
+"by": {
+"id": "aaro-fy2024-annual-report",
+"label": "AARO FY2024 Consolidated Annual Report on UAP"
+},
+"claimTier": 3,
+"denialKind": "directed",
+"label": "'Lack of timely and actionable sensor data' against 51 released sensor videos",
+"note": "The FY2024 report attributes AARO's analytic constraint to sensor-data scarcity nineteen months before the same department published 51 sensor videos in a single tranche, all of incidents predating the report.",
+"of": {
+"id": "pursue-release-02",
+"label": "PURSUE Release 02"
+},
+"sources": [
+{
+"date": "2024-11-14",
+"name": "AARO - FY2024 Consolidated Annual Report on UAP (PDF)",
+"url": "https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF"
+},
+{
+"date": "2026-08-01",
+"name": "Disclosure Archives - Department of War files index",
+"url": "https://disclosurearchives.com/department-of-war-files"
+}
+]
+}
+],
+"desc": "Published 22 May 2026: 64 files, of which 51 are sensor videos issued in a new DOW-UAP-PR050 through PR099 series, plus seven NASA crew audio files and six documents. The video bundle is 5.6GB - by far the largest of the five tranches and more than four times the size of the document bundle series combined at that point. This is the tranche that answers Rep. Luna's April 2026 letter. Its single most significant item is ODNI-UAP-D001: a first-person narrative written by a serving senior intelligence officer describing a one-hour, multi-witness UAP encounter observed from a military helicopter in late 2025. An ODNI-numbered operational account of an unresolved encounter by a serving officer is a category of document the intelligence community had never previously published. The video set includes DOW-UAP-PR051, an MQ-9 Reaper weapons-quality lock on an object over the Jordan-Syria border in 2021 showing instantaneous acceleration; DOW-UAP-PR055, a spherical object moving in and out of cloud over Afghanistan on 23 November 2020; a March 2022 sequence of spheres moving in and out of the water near a surfaced US submarine; and the February 2023 Lake Huron F-16C engagement. The submarine and Reaper sequences are the two items in the entire PURSUE corpus that most directly implicate transmedium behaviour and weapons-system-grade tracking, and both were released without sensor parameters.",
+"domains": [
+"_rs-archive-mirror",
+"releases-2023-2026"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "pursue-release-02",
+"l0": false,
+"label": "PURSUE Release 02",
+"locLabel": null,
+"members": null,
+"short": "PURSUE Release 02",
+"sources": [
+{
+"date": "2026-08-10",
+"name": "Archived: Department of War - PURSUE portal (war.gov/UFO) (Wayback 2026-08-10)",
+"url": "https://web.archive.org/web/20260810202017/https://www.war.gov/UFO/"
+},
+{
+"date": "2026-08-07",
+"name": "Department of War - PURSUE portal (war.gov/UFO)",
+"url": "https://www.war.gov/UFO/"
+},
+{
+"date": "2026-08-01",
+"name": "Disclosure Archives - Department of War files index",
+"url": "https://disclosurearchives.com/department-of-war-files"
+}
+],
+"sub": "22 May 2026; 64 files; 51 sensor videos",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 190 of 1027, score 44). 4 connections, 2 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D3.",
+"timeline": [
+{
+"date": "2026-05-22",
+"id": "rel-2026-05-22",
+"label": "PURSUE Release 02",
+"precision": "day",
+"strand": "program",
+"text": "64 files including 51 sensor videos and ODNI-UAP-D001, a serving senior intelligence officer's first-person account of a one-hour multi-witness encounter from a military helicopter in late 2025.",
+"tier": "A"
+},
+{
+"date": "2026-05-22",
+"id": "tl-pursue-r02",
+"label": "PURSUE Release 02: 51 sensor videos and ODNI-UAP-D001",
+"precision": "day",
+"strand": "program",
+"text": "A 5.6GB video bundle, the largest of the five, plus the first-person narrative of a serving senior intelligence officer describing a one-hour multi-witness encounter from a military helicopter in late 2025.",
+"tier": "1"
+}
+]
+}

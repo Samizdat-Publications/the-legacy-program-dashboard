@@ -1,0 +1,174 @@
+{
+"A": 2,
+"C": 2,
+"D": 2,
+"affiliations": [],
+"age": null,
+"band": null,
+"chronology": [],
+"claims": [
+{
+"source": "DA Form 66, Officer's Qualification Record, Philip J. Corso, released by US Army Reserve Personnel Command April 1998; signed by Corso 20 October 1966",
+"text": "Corso's DA Form 66 records 'Chief, Foreign Technology Div, OCRD USA (8556) Wash DC' effective 18 April 1962, and a move to 'Staff O, Plans Div' on 18 July 1962 -- a three-month chieftaincy, following a year as a staff officer in the same division from 20 July 1961.",
+"tier": 1
+},
+{
+"source": "DA Form 66, Officer's Qualification Record, Philip J. Corso, Record of Assignments",
+"text": "The same form places Corso at 'The Ground Gen Sch, Ft Riley, Kansas' from 21 April 1947, and records 'Intel Staff O ... 8720 DU, ArmySec, Opr Coordinating Bd, Wash DC' from 24 February 1954 to 1957.",
+"tier": 1
+},
+{
+"source": "US Army Reserve Personnel Command FOIA release letter, April 1998, signed Ange F. Nash",
+"text": "The Army FOIA release letter enclosing the DA Form 66 is addressed to John Greenewald, Jr., in response to a request of 23 February 1998 -- not to Larry Bryant, as the hosting archive's own case-file page states.",
+"tier": 1
+},
+{
+"source": "FBI release, FOIPA Request No. 1380241-001, subject CORSO, PHILIP JAMES; full-text search of all 322 pages",
+"text": "Corso's FBI release runs to 322 posted pages of cross-references. Searched in full text, the words UFO, flying saucer, unidentified, Roswell, extraterrestrial and saucer appear zero times.",
+"tier": 1
+},
+{
+"source": "FBI release, FOIPA Request No. 1380241-001",
+"text": "The FBI files state plainly: 'Our files do not reveal that Corso has been investigated by this Bureau.'",
+"tier": 1
+},
+{
+"source": "FBI release, FOIPA Request No. 1380241-001",
+"text": "In 1955 Gen. Arthur S. Trudeau told the FBI that 'Colonel Philip Corso, then assigned to the Operations Coordinating Board, would be in a position to elaborate ... as he, Corso, had actually accumulated the information' on a list of alleged Fabian Socialists. The FBI reviewed its files on those named and found 'insufficient evidence to prove the validity of the allegation.' This corroborates the OCB posting from a record that is not Corso's own.",
+"tier": 1
+},
+{
+"source": "FBI release, FOIPA Request No. 1380241-001",
+"text": "The FBI file records that in February 1964, a rumour that Lee Harvey Oswald had been a paid FBI informant was traced to Corso, who 'admitted that he had passed out information concerning Oswald's alleged connection with the FBI', refused to name his sources, and 'emphasized the fact that his allegations had been strictly deductions and had no basis in fact.'",
+"tier": 1
+},
+{
+"source": "FBI release, FOIPA Request No. 1380241-001",
+"text": "The FBI file records Corso's appearance before the Senate Internal Security Subcommittee on 15 May 1961, testimony which 'consisted primarily of his reading into the Committee's records the entries from personal and private office diaries that he kept during his service with the Operations Coordinating Board from 1953 to 1957.'",
+"tier": 1
+},
+{
+"source": "FBI FOIPA cover letter, Request No. 1380241-001, 12 April 2024",
+"text": "The FBI's FOIPA cover letter is dated 12 April 2024 and states '449 pages were reviewed and 313 pages are being released'; the release consists of cross-references only, with no main file on Corso.",
+"tier": 1
+},
+{
+"source": "Reproduction of the CAUS press release of 8 June 1998 and the affidavit text, adjudicated against the DA Form 66",
+"text": "Corso's affidavit was sworn in May 1998, with the day left blank in the circulating copy, and was announced by a CAUS press release of 8 June 1998. It asserts he 'was a member of President Eisenhower's National Security Council' -- which his own DA Form 66 contradicts, recording him instead as an Intelligence Staff Officer on the Operations Coordinating Board, a body that reported to the NSC and was not the NSC. No signed original of the affidavit was obtained; only a reproduction of its text.",
+"tier": 2
+}
+],
+"cls": "person",
+"cluster": "witness",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "1962-07-18",
+"dateStart": "1962-04-18",
+"direction": "in",
+"edgeLabel": "Corso's Foreign Technology Division chieftaincy falls inside Trudeau's tenure",
+"id": "arthur-g-trudeau",
+"l0": false,
+"label": "Lt. Gen. Arthur G. Trudeau",
+"note": "Corso's DA Form 66 places his Foreign Technology Division chieftaincy, 18 April to 18 July 1962, inside Trudeau's documented tenure as Chief of Research and Development.",
+"sources": [
+{
+"date": "1962-03-12",
+"name": "CIA-RDP80B01676R003000130017-9, Trudeau to McCone 24 February 1962 and McCone to Trudeau 12 March 1962",
+"url": "https://archive.org/details/cia-readingroom-document-cia-rdp80b01676r003000130017-9"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "location",
+"dateEnd": "1962",
+"dateStart": "1954",
+"direction": "out",
+"edgeLabel": "posted to the Operations Coordinating Board and then to OCRD, both in Washington",
+"id": "l-dc",
+"l0": false,
+"label": "Washington, D.C.",
+"note": "His DA Form 66 records '8720 DU, ArmySec, Opr Coordinating Bd, Wash DC' from 24 February 1954, and 'Foreign Technology Div, OCRD USA (8556) Wash DC' from 20 July 1961, as Chief from 18 April 1962.",
+"sources": [
+{
+"date": "1998-04-01",
+"name": "DA Form 66, Officer's Qualification Record, Philip J. Corso",
+"url": "https://www.theblackvault.com/documents/ufos/corso/corso.pdf"
+}
+],
+"tier": "B",
+"type": "geographic"
+}
+],
+"date": "1962-04-18",
+"dateEnd": null,
+"dateStart": "1962-04-18",
+"deg": 2,
+"denials": [],
+"domains": [
+"legacy-1947-86"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "philip-corso",
+"instId": null,
+"l0": false,
+"label": "Philip J. Corso",
+"loc": "Washington, DC",
+"locId": "l-dc",
+"members": null,
+"narrative": "Corso is the case where the primary record is both stronger and weaker than the claim made for him, and a node is the only place a reader sees both halves. His own DA Form 66, released by US Army Reserve Personnel Command in April 1998, puts the Army's Foreign Technology Division in his service record: staff officer in the division from 20 July 1961, then 'Chief Foreign Technology Div, OCRD USA' from 18 April to 18 July 1962 -- three months. The same form places him at Fort Riley, Kansas from 21 April 1947, which covers the alleged 6 July 1947 observation, and records him as an Intelligence Staff Officer on the Operations Coordinating Board in Washington from 24 February 1954 to 1957.\n\nHis 322-page FBI release is the other half. Searched in full, the words UFO, flying saucer, unidentified, Roswell, extraterrestrial and saucer appear zero times. What the file does contain is independent corroboration of the OCB posting from a source that is not Corso: in 1955 Gen. Arthur S. Trudeau told the FBI that 'Colonel Philip Corso, then assigned to the Operations Coordinating Board, would be in a position to elaborate' on a list of alleged Fabian Socialists, 'as he, Corso, had actually accumulated the information'. It also contains a 1964 episode in which Corso was found to be the source of a rumour that Oswald had been a paid FBI informant, and in which he 'emphasized the fact that his allegations had been strictly deductions and had no basis in fact'.\n\nOne line in his sworn statement does not survive his own service record. The affidavit says he 'was a member of President Eisenhower's National Security Council'. The DA Form 66 records the Operations Coordinating Board, which reported to the NSC and was not the NSC. That is a documentable overstatement in a sworn document, and this board carries it because the same record that supplies his strongest corroboration supplies it.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Philip J. Corso",
+"sources": [
+{
+"date": "1998-04-01",
+"name": "DA Form 66 and April 1998 Army FOIA release letter, Philip J. Corso",
+"url": "https://www.theblackvault.com/documents/ufos/corso/corso.pdf"
+},
+{
+"date": "2024-04-12",
+"name": "FBI release on Philip James Corso, FOIPA Request No. 1380241-001 (322 pages)",
+"url": "https://documents3.theblackvault.com/documents/fbifiles/1380241-001.pdf"
+},
+{
+"date": "1997-01-01",
+"name": "The Day After Roswell, Corso with Birnes, Pocket Books 1997 (library record)",
+"url": "https://archive.org/details/dayafterroswell0000cors"
+},
+{
+"date": "1998-06-08",
+"name": "Reproduction of the CAUS press release of 8 June 1998 with the affidavit text",
+"url": "https://openminds.tv/corso-legacy/"
+}
+],
+"status": "dead",
+"sub": "Lt. Col., US Army; Chief, Foreign Technology Division, OCRD, 18 Apr - 18 Jul 1962",
+"tier": "A",
+"tierRationale": "Re-graded A on a global pass (rank 154 of 1027, score 49). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A2/D2.",
+"timeline": [
+{
+"date": "1962-04-18",
+"id": "tl-1962-corso-ftd",
+"label": "Corso becomes Chief, Foreign Technology Division, OCRD",
+"precision": "day",
+"strand": "witness",
+"text": "Philip J. Corso's own DA Form 66 records him as 'Chief Foreign Technology Div, OCRD USA' from 18 April to 18 July 1962, after a year as a staff officer in the same division. Three months. The same form records him on the Operations Coordinating Board from 1954 to 1957, which his later affidavit describes as membership of the National Security Council.",
+"tier": "B"
+}
+],
+"unexplainedResidual": null,
+"unverified": "No signed original of the 1998 affidavit was obtained. Citizens Against UFO Secrecy, Inc. v. United States Department of Defense, 21 F. App'x 774 (9th Cir. 2001), docket No. 00-16036, D.C. No. CV-99-00108-SMM (D. Ariz.), was located in CourtListener's index but its opinion body is behind authentication and was not read; note it is a 1999 district filing, not the March 1998 filing CAUS announced. Corso's 'Dawn of a New Age' manuscript contains no affidavit -- the words affidavit, sworn, CAUS and Gersten do not appear in it -- and must not be cited for one."
+}

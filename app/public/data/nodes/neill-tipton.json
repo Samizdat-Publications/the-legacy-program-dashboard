@@ -1,0 +1,227 @@
+{
+"A": 3,
+"C": 1,
+"D": 0,
+"affiliations": [
+"OUSD(I), Director for Defense Intelligence (Collection & Special Programs)"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "2010",
+"event": "Elizondo assigned under him at OUSD(I).",
+"precision": "year"
+},
+{
+"date": "2017-09-01",
+"event": "Elizondo drafts a memorandum helping Tipton assume new responsibilities for AATIP, per emails later released.",
+"precision": "month"
+},
+{
+"date": "2019-05-07",
+"event": "Writes the internal email asserting Elizondo had no assigned AATIP responsibilities.",
+"precision": "day"
+},
+{
+"date": "2021-05-01",
+"event": "Named in Elizondo's DoD Inspector General complaint.",
+"precision": "month"
+}
+],
+"claims": [
+{
+"source": "DoD emails released under FOIA, published by The Black Vault",
+"text": "Wrote on 7 May 2019: 'Elizondo had no assigned responsibilities for this program... At the time he was assigned to me, he brought with him no responsibilities for AATIP.'",
+"tier": 1
+},
+{
+"source": "DoD emails released under FOIA, published by The Black Vault",
+"text": "The same email chain contains an official warning that 'the Department may be putting itself in an awkward position of both contradicting previous statements' and a directive that 'we will have to keep our messages in synch.'",
+"tier": 1
+},
+{
+"source": "The Black Vault, 'New Emails Reveal Pentagon Effort to Align Messaging on AATIP and Luis Elizondo'",
+"text": "September 2017 emails show Elizondo drafting a memorandum to help Tipton 'assume the new responsibilities for AATIP' — five years after the Department says AATIP ended.",
+"tier": 2
+}
+],
+"cls": "person",
+"cluster": "ic",
+"conflicts": [
+"Tipton's 2019 assertion that Elizondo brought no AATIP responsibilities is difficult to square with the September 2017 emails in which Elizondo is drafting AATIP transition paperwork for Tipton himself."
+],
+"connections": [
+{
+"claimTier": 2,
+"cls": "program",
+"dateEnd": "2017",
+"dateStart": "2017",
+"direction": "out",
+"edgeLabel": "Sept 2017: Elizondo drafts a memo helping Tipton 'assume the new responsibilities for AATIP'",
+"id": "aatip",
+"l0": true,
+"label": "Advanced Aerospace Threat Identification Program (AATIP / AAITP)",
+"note": "Five years after the Department says the program ended, and by the account of the man who says Elizondo had nothing to do with it. This is the sharpest internal contradiction in the record.",
+"sources": [
+{
+"date": "2023-01-01",
+"name": "The Black Vault",
+"url": "https://www.theblackvault.com/documentarchive/new-emails-reveal-pentagon-effort-to-align-messaging-on-aatip-and-luis-elizondo/"
+}
+],
+"tier": "A",
+"type": "programmatic"
+},
+{
+"claimTier": 2,
+"cls": "document",
+"dateEnd": null,
+"dateStart": "2021",
+"direction": "in",
+"edgeLabel": "Named respondent",
+"id": "elizondo-dodig-complaint-2021",
+"l0": false,
+"label": "Elizondo complaint to the DoD Inspector General, May 2021",
+"note": "Tipton originated the 'no assigned responsibilities' formulation in May 2019.",
+"sources": [
+{
+"date": "2025-03-01",
+"name": "The Black Vault — Elizondo DoD IG complaint archive",
+"url": "https://www.theblackvault.com/documentarchive/the-dod-inspector-general-complaint-of-luis-elizondo-a-document-archive/"
+}
+],
+"tier": "B",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "2019",
+"dateStart": "2019",
+"direction": "out",
+"edgeLabel": "7 May 2019 internal email: 'no assigned responsibilities for this program'",
+"id": "luis-elizondo",
+"l0": false,
+"label": "Luis D. Elizondo",
+"note": "Tipton, Elizondo's superior from about 2010 to 2012, originated the formula two weeks before it went public. Colleagues in the same chain warned the Department risked 'contradicting previous statements'.",
+"sources": [
+{
+"date": "2023-01-01",
+"name": "The Black Vault — New Emails Reveal Pentagon Effort to Align Messaging",
+"url": "https://www.theblackvault.com/documentarchive/new-emails-reveal-pentagon-effort-to-align-messaging-on-aatip-and-luis-elizondo/"
+}
+],
+"tier": "A",
+"type": "denial"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "2019",
+"dateStart": "2010",
+"direction": "out",
+"edgeLabel": "Director for Defense Intelligence (Collection & Special Programs); Elizondo's superior c.2010-2012",
+"id": "ousdi",
+"l0": true,
+"label": "Office of the Under Secretary of Defense for Intelligence",
+"note": "His own account places Elizondo under him during precisely the years Elizondo claims to have run AATIP.",
+"sources": [
+{
+"date": "2023-01-01",
+"name": "The Black Vault",
+"url": "https://www.theblackvault.com/documentarchive/new-emails-reveal-pentagon-effort-to-align-messaging-on-aatip-and-luis-elizondo/"
+}
+],
+"tier": "B",
+"type": "institutional"
+}
+],
+"date": "2019-05-07",
+"dateEnd": null,
+"dateStart": "2019-05-07",
+"deg": 4,
+"denials": [
+{
+"by": {
+"id": "neill-tipton",
+"label": "Neill Tipton"
+},
+"claimTier": 1,
+"denialKind": "directed",
+"label": "7 May 2019 internal email: 'no assigned responsibilities for this program'",
+"note": "Tipton, Elizondo's superior from about 2010 to 2012, originated the formula two weeks before it went public. Colleagues in the same chain warned the Department risked 'contradicting previous statements'.",
+"of": {
+"id": "luis-elizondo",
+"label": "Luis D. Elizondo"
+},
+"sources": [
+{
+"date": "2023-01-01",
+"name": "The Black Vault — New Emails Reveal Pentagon Effort to Align Messaging",
+"url": "https://www.theblackvault.com/documentarchive/new-emails-reveal-pentagon-effort-to-align-messaging-on-aatip-and-luis-elizondo/"
+}
+]
+}
+],
+"domains": [
+"elizondo-ttsa"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "neill-tipton",
+"instId": "ousdi",
+"l0": false,
+"label": "Neill Tipton",
+"loc": "Arlington, VA",
+"locId": "l-pentagon",
+"members": null,
+"narrative": "Tipton is where the 'no assigned responsibilities' formula originates. Released emails show that on 7 May 2019 — two weeks before Sherwood's public statements — Tipton, who had been Elizondo's superior from roughly 2010 to 2012, wrote internally that Elizondo 'had no assigned responsibilities for this program... At the time he was assigned to me, he brought with him no responsibilities for AATIP.' The same email chain shows a redacted official immediately flagging the risk: 'Neill raises an important issue here — the Department may be putting itself in an awkward position of both contradicting previous statements,' and another noting 'so while he may not have had any assigned responsibilities for these programs while in OUSD(I), if he did work on these programs while assigned to a different DoD organization... we have to confirm that.' The chain closes with the instruction 'we will have to keep our messages in synch.' What the coordination did not address were the September 2017 emails in which Elizondo drafted a memorandum helping Tipton 'assume the new responsibilities for AATIP'. Tipton is one of three officials Elizondo named in his May 2021 DoD IG complaint.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Neill Tipton",
+"sources": [
+{
+"date": "2023-01-01",
+"name": "The Black Vault — New Emails Reveal Pentagon Effort to Align Messaging on AATIP and Luis Elizondo",
+"url": "https://www.theblackvault.com/documentarchive/new-emails-reveal-pentagon-effort-to-align-messaging-on-aatip-and-luis-elizondo/"
+},
+{
+"date": "2025-03-01",
+"name": "The Black Vault — Elizondo DoD IG complaint document archive",
+"url": "https://www.theblackvault.com/documentarchive/the-dod-inspector-general-complaint-of-luis-elizondo-a-document-archive/"
+}
+],
+"status": "former",
+"sub": "Director for Defense Intelligence (Collection & Special Programs), OUSD(I)",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 401 of 1027, score 32). 4 connections, 1 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D0.",
+"timeline": [
+{
+"date": "2017-09-01",
+"id": "tl-2017-09-tipton-memo",
+"label": "Elizondo drafts AATIP transition memo for Tipton",
+"precision": "month",
+"strand": "program",
+"text": "Emails later released under FOIA show Elizondo drafting a memorandum to help Neill Tipton 'assume the new responsibilities for AATIP' — five years after the Department says the program ended.",
+"tier": "B"
+},
+{
+"date": "2019-05-07",
+"id": "tl-2019-05-07-tipton-email",
+"label": "Tipton originates the denial formula",
+"precision": "day",
+"strand": "coverup",
+"text": "Internal email: Elizondo 'had no assigned responsibilities for this program.' A colleague warns the Department risks 'contradicting previous statements'; the chain closes with 'we will have to keep our messages in synch.'",
+"tier": "A"
+}
+],
+"unexplainedResidual": null,
+"unverified": []
+}

@@ -1,0 +1,584 @@
+{
+"A": 2,
+"C": 0,
+"D": 1,
+"band": "research",
+"claims": [
+{
+"source": "American Alchemy with Jesse Michels, 'Air Force Officer: A UFO Shut Down 10 Nukes in Seconds (ft. Bob Salas)', 12 July 2025, 0:33:36 and 0:34:29, https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL8813107798.mp3?updated=1752514599",
+"text": "On American Alchemy with Jesse Michels, 12 July 2025, at 0:33:36, Robert Salas read on air from what he presents as the Colorado project's own record: 'The following interview conducted by Roy Craig, was Lieutenant Colonel Lewis D. Chase, who is chief of the operations division at Malstrom Air Force Base, Montana. The interview is being conducted at Malmstrom on October 19, 1967.' Salas says Chase had earlier confirmed in writing that he coordinated on the UFO activity and then denied the connection to Craig in this interview.",
+"tier": 2
+},
+{
+"source": "Lt Col Robert R. Hippler to Dr Edward U. Condon, 16 January 1967, page 2, https://www.nicap.org/docs/HipplerLetters.pdf",
+"text": "The Air Force put the answer it wanted to the project in writing three months into the contract. Hippler's letter to Condon of 16 January 1967 continues: 'It will be at least that long before another independent study can be mounted to see if the Air Force can get out from under this program.' It closes by telling Condon that if the contract expires before the groundwork for a recommendation is laid, extending the contract 'would be less costly than another decade of operating Project Blue Book.'",
+"tier": 1
+},
+{
+"source": "'Scientific Study of Unidentified Flying Objects', University of Colorado, 1968",
+"text": "The study was conducted under US Air Force contract 44620-67-C-0035 with the University of Colorado, Edward U. Condon scientific director, formed 6 October 1966 and released January 1969.",
+"tier": 1
+},
+{
+"source": "Condon Report, Section V Chapter 2",
+"text": "The report's Section V Chapter 2 records that a classified 'Estimate of the Situation' was prepared in 1948, rejected by Gen. Vandenberg for lacking proof, and that copies were destroyed.",
+"tier": 1
+},
+{
+"source": "Low memorandum, 9 Aug 1966, University of Colorado",
+"text": "Robert Low's memorandum of 9 August 1966 states 'the trick would be, I think, to describe the project so that, to the public, it would appear a totally objective study but, to the scientific community, would present the image of a group of nonbelievers.'",
+"tier": 1
+},
+{
+"source": "USAF Fact Sheet, 'Unidentified Flying Objects and Air Force Project Blue Book'",
+"text": "The Air Force cited the Colorado study and a National Academy of Sciences review as the basis for terminating Project Blue Book on 17 December 1969.",
+"tier": 1
+},
+{
+"source": "National Academy of Sciences review of the Colorado report, 1969",
+"text": "A National Academy of Sciences panel chaired by Gerald M. Clemence concluded extraterrestrial visitation was 'the least likely explanation' and that no high priority for UFO investigation was warranted.",
+"tier": 2
+}
+],
+"cls": "program",
+"cluster": "other",
+"connections": [
+{
+"claimTier": 3,
+"cls": "document",
+"dateEnd": "1969",
+"dateStart": "1955",
+"direction": "in",
+"edgeLabel": "Both official studies buried an unexplained residue under dismissive conclusions",
+"id": "blue-book-special-report-14",
+"l0": true,
+"label": "Project Blue Book Special Report No. 14",
+"note": "SR14 left 19.7 per cent unknown with quality correlating positively with unexplainedness; the Colorado project left roughly a third of its cases unexplained. Both summaries declared the subject unrewarding.",
+"sources": [
+{
+"date": "1955-05-05",
+"name": "Project Blue Book Special Report No. 14",
+"url": "http://www.nicap.org/docs/pbbsr/BBA-PBSR14.pdf"
+},
+{
+"date": "1968-11-01",
+"name": "Scientific Study of Unidentified Flying Objects (Condon Report)",
+"url": "https://files.ncas.org/condon/"
+}
+],
+"tier": "A",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "1969",
+"direction": "in",
+"edgeLabel": "The Colorado project's own history chapter endorses his debunking book",
+"id": "donald-h-menzel",
+"l0": false,
+"label": "Donald H. Menzel",
+"note": "Section V chapter 2 of the report, written by Condon, calls Menzel's 1953 Flying Saucers 'an excellent book' and notes it is 'generally regarded as \"debunking\" and \"negative.\"' Menzel wrote no chapter of the report; he appears in its text and its bibliographies.",
+"sources": [
+{
+"date": "1969",
+"name": "Condon Report, Section V chapter 2",
+"url": "https://files.ncas.org/condon/text/s5chap02.htm"
+}
+],
+"tier": "B",
+"type": "research"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "1969",
+"dateStart": "1966",
+"direction": "in",
+"edgeLabel": "Condon directed the study and wrote its conclusions personally",
+"id": "edward-condon",
+"l0": false,
+"label": "Edward U. Condon",
+"note": "Condon authored the summary, conclusions and recommendations placed at the front of the report — the only section most readers and reporters ever saw.",
+"sources": [
+{
+"date": "1968-11-01",
+"name": "Scientific Study of Unidentified Flying Objects (Condon Report)",
+"url": "https://files.ncas.org/condon/"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "1968",
+"dateStart": "1968",
+"direction": "out",
+"edgeLabel": "The Condon Report is the primary documentary record of the Estimate's destruction",
+"id": "estimate-of-the-situation",
+"l0": false,
+"label": "Estimate of the Situation (1948)",
+"note": "Section V Chapter 2 records the estimate's preparation, Vandenberg's rejection and the destruction of copies — the Air Force paying to put its own suppression on the record.",
+"sources": [
+{
+"date": "1968-11-01",
+"name": "Condon Report Sec. V Ch. 2",
+"url": "https://files.ncas.org/condon/text/s5chap02.htm"
+}
+],
+"tier": "B",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "1969",
+"dateStart": "1968",
+"direction": "in",
+"edgeLabel": "RAND was documenting the case for instrumented study as Condon was closing it down",
+"id": "george-kocher",
+"l0": false,
+"label": "George Kocher",
+"note": "DRU-1571 is dated November 1968; the Condon report recommending termination of Blue Book followed in January 1969.",
+"sources": [
+{
+"date": "1968-11-01",
+"name": "RAND DRU-1571 PDF",
+"url": "https://www.rand.org/content/dam/rand/pubs/drafts/2007/DRU1571.pdf"
+}
+],
+"tier": "C",
+"type": "temporal"
+},
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": "1966",
+"dateStart": "1966",
+"direction": "in",
+"edgeLabel": "Congressional pressure produced a contracted study, not oversight",
+"id": "hearing-1966-04-05",
+"l0": false,
+"label": "House Armed Services Committee UFO Hearing",
+"note": "Six months after the hearing the Air Force let contract 44620-67-C-0035 to the University of Colorado — pressure in, study out, closure following.",
+"sources": [
+{
+"date": "1968-11-01",
+"name": "Scientific Study of Unidentified Flying Objects (Condon Report)",
+"url": "https://files.ncas.org/condon/"
+}
+],
+"tier": "C",
+"type": "programmatic"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "1971",
+"dateStart": "1969",
+"direction": "in",
+"edgeLabel": "McDonald attacked the Condon Report and was professionally destroyed",
+"id": "james-mcdonald",
+"l0": false,
+"label": "James E. McDonald",
+"note": "He publicly criticised the report on release, was ridiculed over his UFO work during 1971 congressional SST hearings on an unrelated technical subject, and died by suicide in June 1971.",
+"sources": [
+{
+"date": "1968-07-29",
+"name": "House Committee on Science and Astronautics, Symposium on UFOs, 29 July 1968",
+"url": "http://nicap.org/books/1968Sym/1968_UFO_Symposium.pdf"
+}
+],
+"tier": "B",
+"type": "behavioral"
+},
+{
+"claimTier": 2,
+"cls": "location",
+"dateEnd": "1969",
+"dateStart": "1966",
+"direction": "out",
+"edgeLabel": "The Condon Committee was hosted by the University of Colorado at Boulder",
+"id": "l-boulder-co",
+"l0": false,
+"label": "Boulder, Colorado",
+"note": "The Air Force contract was announced in October 1966 at $313,000, eventually exceeding $500,000, with Condon as director and Robert Low as coordinator.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Wikipedia - Condon Committee",
+"url": "https://en.wikipedia.org/wiki/Condon_Committee"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "1968",
+"dateStart": "1966",
+"direction": "in",
+"edgeLabel": "The memo states the intent to present differently to public and scientists",
+"id": "low-memo",
+"l0": false,
+"label": "Low Memorandum (\"the trick would be...\")",
+"note": "'The trick would be, I think, to describe the project so that, to the public, it would appear a totally objective study but, to the scientific community, would present the image of a group of nonbelievers.'",
+"sources": [
+{
+"date": "1968-11-01",
+"name": "Scientific Study of Unidentified Flying Objects (Condon Report)",
+"url": "https://files.ncas.org/condon/"
+}
+],
+"tier": "C",
+"type": "behavioral"
+},
+{
+"claimTier": 2,
+"cls": "program",
+"dateEnd": "1969-12-17",
+"dateStart": "1969-01",
+"direction": "out",
+"edgeLabel": "The Condon report was the stated basis for terminating Blue Book",
+"id": "project-blue-book",
+"l0": true,
+"label": "Project Blue Book",
+"note": "The Air Force terminated Project Blue Book on 17 December 1969 in response to the Condon findings, having received the report in November 1968.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Wikipedia - Condon Committee",
+"url": "https://en.wikipedia.org/wiki/Condon_Committee"
+}
+],
+"tier": "A",
+"type": "denial"
+},
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": "1969",
+"dateStart": "1969",
+"direction": "out",
+"edgeLabel": "The Condon Report was the stated basis for terminating Blue Book",
+"id": "project-blue-book",
+"l0": true,
+"label": "Project Blue Book",
+"note": "The Air Force cited the Colorado study, a National Academy of Sciences review and prior experience in ending the program on 17 December 1969.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "USAF Fact Sheet: Project Blue Book",
+"url": "https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/"
+}
+],
+"tier": "A",
+"type": "programmatic"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "1975",
+"dateStart": "1968",
+"direction": "in",
+"edgeLabel": "forwarded Chilean reports to the University of Colorado study",
+"id": "sergio-bravo-flores",
+"l0": false,
+"label": "Coronel de Aviación Sergio Bravo Flores",
+"note": "SEFAA records that part of the dozen reports gathered were sent to the University of Colorado, where the commission later known as the Condon Committee was working.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "SEFAA - Historia",
+"url": "https://sefaa.dgac.gob.cl/historia/"
+}
+],
+"tier": "C",
+"type": "research"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "1969",
+"dateStart": "1966",
+"direction": "in",
+"edgeLabel": "Air Force funded the University of Colorado study used to close BLUE BOOK",
+"id": "usaf",
+"l0": true,
+"label": "United States Air Force",
+"note": "The termination decision rested on 'Scientific Study of Unidentified Flying Objects' and a National Academy of Sciences review of it.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "National Archives - Unidentified Flying Objects / Project BLUE BOOK",
+"url": "https://www.archives.gov/research/military/air-force/ufos"
+}
+],
+"tier": "A",
+"type": "funding"
+}
+],
+"coords": null,
+"dateEnd": "1969",
+"dateStart": "1966",
+"deg": 12,
+"denials": [
+{
+"by": {
+"id": "condon-committee",
+"label": "University of Colorado UFO Project (Condon Committee)"
+},
+"claimTier": 2,
+"denialKind": "directed",
+"label": "The Condon report was the stated basis for terminating Blue Book",
+"note": "The Air Force terminated Project Blue Book on 17 December 1969 in response to the Condon findings, having received the report in November 1968.",
+"of": {
+"id": "project-blue-book",
+"label": "Project Blue Book"
+},
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Wikipedia - Condon Committee",
+"url": "https://en.wikipedia.org/wiki/Condon_Committee"
+}
+]
+}
+],
+"desc": "The Condon Committee was the Air Force's exit vehicle. Formed on 6 October 1966 under contract 44620-67-C-0035 with the University of Colorado at a cost of around half a million dollars, and directed by physicist Edward Condon, it produced 'Scientific Study of Unidentified Flying Objects', delivered in November 1968 and released publicly in January 1969. Condon's personally written conclusions declared that further study of UFOs could not be justified. The Air Force used those conclusions, blessed by a National Academy of Sciences panel chaired by Gerald Clemence, to terminate Project Blue Book on 17 December 1969. The project's integrity had been compromised before it began: project coordinator Robert Low wrote on 9 August 1966, two months before the contract was let, that 'the trick would be' to describe the project so that to the public it would appear a totally objective study while presenting to the scientific community the image of a group of nonbelievers. When staff investigators David Saunders and Norman Levine surfaced the memo and it reached Look magazine in May 1968, Condon fired them. The report is nonetheless a load-bearing primary source for this board, because buried in Section V Chapter 2 it documents the 1948 Estimate of the Situation and its destruction by Gen. Vandenberg — the Air Force paying to have its own suppression put on the record while the front matter told the public there was nothing to study.",
+"domains": [
+"_rs-archive-mirror",
+"history-1940s-1960s"
+],
+"dossier": {
+"claims": [
+{
+"source": "https://files.ncas.org/condon/text/sec-ii.htm (Condon Report, Section II.1, Origin of the Colorado Project)",
+"text": "The project originated in the March 1966 report of an ad hoc committee of the Air Force Scientific Advisory Board chaired by Brian O'Brien, which recommended contracts with selected universities and a coordinating university or nonprofit; AFOSR combined recommendations A and C into a single contracting university and implemented recommendation B through Air Force Regulation 80-17, reprinted as Appendix B of the final report.",
+"tier": 1
+},
+{
+"source": "https://files.ncas.org/condon/text/sec-ii.htm (Condon Report, Section II.1); total funding figure per https://en.wikipedia.org/wiki/Condon_Committee",
+"text": "The first AFOSR research contract provided $313,000 for the first fifteen months, 1 November 1966 to 31 January 1968, and was publicly announced on 7 October 1966; total funding later rose above $500,000.",
+"tier": 1
+},
+{
+"source": "https://files.ncas.org/condon/text/sec-ii.htm (Condon Report, Section II.1)",
+"text": "The contract \"provided that the planning, direction and conclusions of the Colorado project were to be conducted wholly independently of the Air Force,\" and the project recorded that \"we were assured that the federal government would withhold no information on the subject, and that all essential information about UFOs could be included in this report.\"",
+"tier": 1
+},
+{
+"source": "https://files.ncas.org/condon/text/sec-ii.htm (Condon Report, Section II.1)",
+"text": "The report acknowledges that where UFO sightings involved classified missile launchings or classified radar systems, \"this fact is merely stated as to do more would involve violation of security on these military subjects,\" and asserts without independent verification that such reservations \"have affected a negligible fraction of the total material.\"",
+"tier": 1
+},
+{
+"source": "https://files.ncas.org/condon/text/sec-i.htm (Condon Report, Section I)",
+"text": "Condon's conclusion reads: \"Our general conclusion is that nothing has come from the study of UFOs in the past 21 years that has added to scientific knowledge. Careful consideration of the record as it is available to us leads us to conclude that further extensive study of UFOs probably cannot be justified in the expectation that science will be advanced thereby.\"",
+"tier": 1
+},
+{
+"source": "https://files.ncas.org/condon/text/sec-i.htm (Condon Report, Section I)",
+"text": "The report contains an affirmative denial of concealment: \"It has been contended that the subject has been shrouded in official secrecy. We conclude otherwise. We have no evidence of secrecy concerning UFO reports. What has been miscalled secrecy has been no more than an intelligent policy of delay in releasing data so that the public does not become confused by premature publication of incomplete studies of reports.\"",
+"tier": 1
+},
+{
+"source": "https://files.ncas.org/condon/text/sec-i.htm (Condon Report, Section I)",
+"text": "The committee expressly declined to independently evaluate the Air Force's national-security finding: \"We felt that it was out of our province to attempt an independent evaluation of this conclusion ... We know of no reason to question the finding of the Air Force that the whole class of UFO reports so far considered does not pose a defense problem.\"",
+"tier": 1
+},
+{
+"source": "https://files.ncas.org/condon/text/sec-i.htm (Condon Report, Section I)",
+"text": "The report recommended against any federal UFO agency: \"we do not think that at this time the federal government ought to set up a major new agency, as some have suggested, for the scientific study of UFOs. This conclusion may not be true for all time.\"",
+"tier": 1
+},
+{
+"source": "https://en.wikipedia.org/wiki/Condon_Committee (quoting Roy Craig, UFOs: An Insider's View of the Official Quest for Evidence, University of North Texas Press, 1995, pp. 194-195); first published in John G. Fuller, \"Flying Saucer Fiasco,\" Look, 14 May 1968",
+"text": "Robert J. Low's memorandum of 9 August 1966, written to two University of Colorado administrators before the contract was accepted, stated: \"Our study would be conducted almost entirely by non-believers who, though they couldn't possibly prove a negative result, could and probably would add an impressive body of thick evidence that there is no reality to the observations. The trick would be, I think, to describe the project so that, to the public, it would appear a totally objective study but, to the scientific community, would present the image of a group of non-believers trying their best to be objective but having an almost zero expectation of finding a saucer.\"",
+"tier": 2
+},
+{
+"source": "https://en.wikipedia.org/wiki/Condon_Committee",
+"text": "James E. McDonald learned of the Low memo in July 1967 and located a copy in the project's own open files; NICAP severed ties with the committee on 30 April 1968; Condon terminated David Saunders and Norman Levine for alleged \"incompetence\"; Low resigned in May 1968.",
+"tier": 2
+},
+{
+"source": "http://files.ncas.org/condon/text/case02.htm (Condon Report, Case 2: USAF/RAF Radar Sighting, pp. 372-387)",
+"text": "The report's own Case 2 (Section IV, Chapter 2; published under the pseudonymous location \"Greenwich, Summer 1956,\" a USAF/RAF radar-visual event widely identified as Lakenheath-Bentwaters) concludes: \"although conventional or natural explanations certainly cannot be ruled out, the probability of such seems low in this case and the probability that at least one genuine UFO was involved appears to be fairly high.\" Its abstract states: \"The preponderance of evidence indicates the possibility of a genuine UFO in this case.\"",
+"tier": 1
+},
+{
+"source": "https://en.wikipedia.org/wiki/Condon_Committee (citing the 1969 NAS panel review)",
+"text": "A National Academy of Sciences panel chaired by Yale astronomer Gerald M. Clemence reviewed the report for six weeks at Air Force request and concluded that \"on the basis of present knowledge the least likely explanation of UFOs is the hypothesis of extraterrestrial visitations by intelligent beings\" and that \"no high priority in UFO investigations is warranted by data of the past two decades.\"",
+"tier": 2
+},
+{
+"source": "https://www.archives.gov/research/military/air-force/ufos (U.S. Air Force Fact Sheet on UFOs and Project BLUE BOOK, January 1985, reproduced by NARA)",
+"text": "The USAF fact sheet distributed by Wright-Patterson AFB Public Affairs in January 1985 states: \"On December 17, 1969, the Secretary of the Air Force announced the termination of Project BLUE BOOK,\" that the decision rested on the University of Colorado report, the National Academy of Sciences review of it, past UFO studies and Air Force experience, and that of 12,618 sightings reported 1947-1969, 701 remain \"Unidentified.\"",
+"tier": 1
+},
+{
+"source": "https://www.archives.gov/research/military/air-force/ufos",
+"text": "The same 1985 fact sheet asserts: \"Periodically, it is erroneously stated that the remains of extraterrestrial visitors are or have been stored at Wright-Patterson AFB. There are not now nor ever have been, any extraterrestrial visitors or equipment on Wright-Patterson Air Force Base.\"",
+"tier": 1
+}
+],
+"connections": [
+"Robertson Panel — a sanitized version of the panel report was published as Appendix Y of the Condon Report; Thornton Page sat on the Robertson Panel and later criticized Condon's statistical logic in the American Journal of Physics (vol. 37 no. 10, October 1969).",
+"J. Allen Hynek — proposed the review that led to the O'Brien Committee, was rejected as a host institution, and became the report's leading critic, writing that the committee could not explain more than a quarter of the cases examined.",
+"James E. McDonald (University of Arizona) — surfaced the Low memo in July 1967 and published \"Science in Default\" on 27 December 1969; he is a named node for the board's researcher-fate thread.",
+"Air Force Office of Scientific Research — the contracting activity; Dr. J. Thomas Ratchford and AFOSR executive director Dr. William Price are the named officials who recruited Colorado in July-August 1966.",
+"Brian O'Brien and the Air Force Scientific Advisory Board — the mechanism by which the Air Force generated the recommendation it then used to retire its own program.",
+"National Academy of Sciences panel under Gerald M. Clemence — the independent validator, retained by the Air Force before the report was complete.",
+"Project Blue Book / Wright-Patterson AFB — terminated on the strength of this report; its records went to NARA as microfilm publication T-1206, 94 rolls.",
+"Air Force Regulation 80-17, reproduced as Appendix B, is the base-level UFO reporting procedure the same review created and the Air Force rescinded on Blue Book's closure.",
+"AARO — the first federal UFO office since Condon recommended against creating one; the fifty-three-year gap between the two is the concealment window this board examines."
+],
+"denialPosture": "Condon's Section I contains one of the two most consequential official denials in the record: \"We have no evidence of secrecy concerning UFO reports.\" It was issued by a body that had explicitly declined to evaluate the defense question, that acknowledged its access to classified missile and radar material was limited by the contracting agency, and whose project coordinator had described the public framing as a trick two months before the contract was signed. The Air Force's January 1985 Wright-Patterson fact sheet supplies the companion denial about physical custody.",
+"narrative": "The chain of custody runs from the Air Force to itself. In March 1966 an ad hoc committee of the Air Force Scientific Advisory Board chaired by optical physicist Brian O'Brien recommended that the Blue Book program be strengthened, that contracts be negotiated with a few selected universities to provide scientific teams, and that one university or nonprofit coordinate. The Secretary of the Air Force referred the recommendations to the Air Force Office of Scientific Research, which combined recommendations A and C into a single contracting university with subcontracting authority and implemented recommendation B through Air Force Regulation 80-17, reprinted as Appendix B of the eventual report. Harvard, Berkeley, MIT and North Carolina declined. Hynek's Northwestern and McDonald's Arizona were rejected as too committed. Colorado accepted on 6 October 1966. The contract was publicly announced on 7 October 1966 and provided $313,000 for fifteen months, 1 November 1966 to 31 January 1968; total funding later rose above $500,000.\n\nThe contract terms are worth reading against what followed. The report states that \"the contract provided that the planning, direction and conclusions of the Colorado project were to be conducted wholly independently of the Air Force,\" that the Air Force was ordered to furnish its records and base support, and that \"we were assured that the federal government would withhold no information on the subject.\" Where sightings involved classified missile launches or classified radar systems, \"this fact is merely stated as to do more would involve violation of security on these military subjects.\" The committee then reports that these reservations \"have affected a negligible fraction of the total material.\" This is an assurance accepted on the word of the contracting party, by a project that had no independent means of verifying either the completeness of what it received or the existence of holdings outside Blue Book.\n\nThe Low memorandum predates the contract by two months. Written 9 August 1966 to two university administrators, it reassured them that the study \"would be conducted almost entirely by non-believers who, though they couldn't possibly prove a negative result, could and probably would add an impressive body of thick evidence that there is no reality to the observations,\" before the sentence about the trick. James McDonald learned of it in July 1967 and located a copy in the project's own open files; NICAP severed ties on 30 April 1968; Donald Keyhoe circulated copies; John G. Fuller published \"Flying Saucer Fiasco\" in Look on 14 May 1968, describing the project as a \"$500,000 trick.\" Condon fired David Saunders and Norman Levine for alleged incompetence; administrative assistant Mary Louise Armstrong resigned; Low resigned in May 1968. Representative J. Edward Roush asked the General Accounting Office to investigate; GAO declined. Condon resigned from the AAAS after Science published on the controversy without his input.\n\nWhat the committee produced is not a single argument but a document whose front matter contradicts its interior. Condon's six-page Conclusions and Recommendations opens: \"Our general conclusion is that nothing has come from the study of UFOs in the past 21 years that has added to scientific knowledge. Careful consideration of the record as it is available to us leads us to conclude that further extensive study of UFOs probably cannot be justified in the expectation that science will be advanced thereby.\" He recommended against a new federal agency, and on secrecy wrote: \"It has been contended that the subject has been shrouded in official secrecy. We conclude otherwise. We have no evidence of secrecy concerning UFO reports. What has been miscalled secrecy has been no more than an intelligent policy of delay in releasing data so that the public does not become confused by premature publication of incomplete studies of reports.\"\n\nSet that against the adjacent paragraphs. On the defense question Condon wrote: \"We felt that it was out of our province to attempt an independent evaluation of this conclusion. We adopted the attitude that, without attempting to assume the defense responsibility which is that of the Air Force, if we came across any evidence whatever that seemed to us to indicate a defense hazard we would call it to the attention of the Air Force at once. We did not find any such evidence. We know of no reason to question the finding of the Air Force.\" The committee thus deferred to the Air Force on the national-security question and then, three paragraphs later, certified that no secrecy existed. Hynek's later count was that the committee had been unable to explain more than a quarter of the cases it examined. In Case 2 of Section IV, Chapter 2, on the 1956 Lakenheath-Bentwaters radar-visual event, the report states: \"although conventional or natural explanations certainly cannot be ruled out, the probability of such seems low in this case and the probability that at least one genuine UFO was involved appears to be fairly high.\"\n\nThe operational effect was immediate and durable. The Air Force had asked the National Academy of Sciences, before the report was finished, to independently assess its scope, methodology and findings; a panel chaired by Yale astronomer Gerald M. Clemence studied it for six weeks and endorsed it, concluding that \"no high priority in UFO investigations is warranted by data of the past two decades.\" On 17 December 1969 the Secretary of the Air Force announced the termination of Project Blue Book, citing the Colorado report, the NAS review, past studies and Air Force experience. The Air Force fact sheet distributed from Wright-Patterson in January 1985 records the closing tally — 12,618 sightings reported 1947 to 1969, of which 701 remain \"Unidentified\" — and appends a categorical denial: \"There are not now nor ever have been, any extraterrestrial visitors or equipment on Wright-Patterson Air Force Base.\" That sentence, on a public affairs fact sheet from the base that housed ATIC and let the Battelle contract, is a dated, attributable claim about the specific installation most often named in recovery accounts. It is evidence about the denier.",
+"openQuestions": [
+"The report states the Air Force assured the project that no information would be withheld. No document memorializing that assurance, and no accounting of what classified missile or radar material was in fact withheld, has been produced.",
+"Was the Colorado project given access to anything outside the Blue Book file series — ATIC's Battelle-era holdings, foreign technology division files, or any compartmented program?",
+"Condon stated in a January 1967 lecture that he thought the government should not study UFOs because the subject was nonsense, \"but I'm not supposed to reach that conclusion for another year.\" Who, if anyone, in the Air Force knew of that statement at the time?",
+"The GAO declined Rep. Roush's request to investigate the project. On what stated grounds, and does a written GAO declination exist?",
+"Fifty-nine case studies were published with their locations altered \"for legal reasons.\" The key mapping location-to-case has never been released.",
+"Low resigned in May 1968; no further contemporaneous account of the August 1966 memo's audience or purpose has surfaced.",
+"Why did the Air Force commission an NAS review of the report before the report was finished?"
+],
+"roles": [
+"concealment",
+"oversight",
+"research",
+"disclosure"
+],
+"whatItIs": "The Condon Committee was the University of Colorado UFO Project, funded by the Air Force Office of Scientific Research from 1966 to 1968 under physicist Edward U. Condon, which produced the report formally titled Scientific Study of Unidentified Flying Objects. Its conclusions, released January 1969, were used by the Air Force as the basis for terminating Project Blue Book on 17 December 1969. It remains the most cited public document on the scientific status of the UFO question.",
+"whyImplicated": "The Condon Committee is the second and larger instance of the pattern the Robertson Panel established: a nominally independent scientific body whose framing was set before the work began and whose product retired the public investigative apparatus. Robert J. Low's memorandum of 9 August 1966, written to reassure University of Colorado administrators before the contract was signed, states the design explicitly: \"The trick would be, I think, to describe the project so that, to the public, it would appear a totally objective study but, to the scientific community, would present the image of a group of non-believers trying their best to be objective but having an almost zero expectation of finding a saucer.\" The finished report contains an affirmative denial of concealment — \"We have no evidence of secrecy concerning UFO reports\" — offered by a committee that had simultaneously declined to independently evaluate the Air Force's national-security finding, writing \"we felt that it was out of our province.\" A body that will not examine the defense question is not positioned to certify the absence of secrecy about it. The report also recommended against establishing any federal UFO agency, a recommendation that held for fifty-three years until AARO. Buried in Section IV, Chapter 2, the report's own Lakenheath-Bentwaters case assessment concludes \"the probability that at least one genuine UFO was involved appears to be fairly high.\""
+},
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "condon-committee",
+"l0": true,
+"label": "University of Colorado UFO Project (Condon Committee)",
+"locLabel": null,
+"members": [
+{
+"cls": "person",
+"id": "donald-h-menzel",
+"label": "Donald H. Menzel",
+"tier": "B"
+},
+{
+"cls": "person",
+"id": "edward-condon",
+"label": "Edward U. Condon",
+"tier": "B"
+},
+{
+"cls": "document",
+"id": "estimate-of-the-situation",
+"label": "Estimate of the Situation (1948)",
+"tier": "B"
+},
+{
+"cls": "person",
+"id": "george-kocher",
+"label": "George Kocher",
+"tier": "C"
+},
+{
+"cls": "event",
+"id": "hearing-1966-04-05",
+"label": "House Armed Services Committee UFO Hearing",
+"tier": "C"
+},
+{
+"cls": "person",
+"id": "james-mcdonald",
+"label": "James E. McDonald",
+"tier": "B"
+},
+{
+"cls": "location",
+"id": "l-boulder-co",
+"label": "Boulder, Colorado",
+"tier": "C"
+},
+{
+"cls": "document",
+"id": "low-memo",
+"label": "Low Memorandum (\"the trick would be...\")",
+"tier": "C"
+},
+{
+"cls": "person",
+"id": "sergio-bravo-flores",
+"label": "Coronel de Aviación Sergio Bravo Flores",
+"tier": "C"
+}
+],
+"short": "University of Colorado UFO Project (Condon Committee)",
+"sources": [
+{
+"date": "2025-07-12",
+"name": "American Alchemy with Jesse Michels, 'Air Force Officer: A UFO Shut Down 10 Nukes in Seconds (ft. Bob Salas)' (episode audio)",
+"url": "https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL8813107798.mp3?updated=1752514599"
+},
+{
+"date": "1967-01-16",
+"name": "Hippler to Condon, 16 January 1967, with Low to Hippler, 27 January 1967 (NICAP document archive scan)",
+"url": "https://www.nicap.org/docs/HipplerLetters.pdf"
+},
+{
+"date": "2026-07-06",
+"name": "Archived: USAF Fact Sheet: Project Blue Book (Wayback 2026-07-06)",
+"url": "https://web.archive.org/web/20260706210652/https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/"
+},
+{
+"date": "1968-11-01",
+"name": "Scientific Study of Unidentified Flying Objects (the Condon Report), full text",
+"url": "https://files.ncas.org/condon/"
+},
+{
+"date": "1968-11-01",
+"name": "Condon Report, Sec. V Ch. 2 — UFOs 1947-1968",
+"url": "https://files.ncas.org/condon/text/s5chap02.htm"
+},
+{
+"date": "2026-08-12",
+"name": "USAF Fact Sheet: Project Blue Book",
+"url": "https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/"
+}
+],
+"sub": "USAF contract 44620-67-C-0035 (1966-1969)",
+"tier": "A",
+"tierRationale": "Re-graded A on a global pass (rank 136 of 1027, score 53). 13 connections, 3 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D1.",
+"timeline": [
+{
+"date": "1966-10-06",
+"id": "tl-1966-10-06",
+"label": "Condon Committee established",
+"precision": "day",
+"strand": "program",
+"text": "The University of Colorado UFO Project is formed under USAF contract 44620-67-C-0035 with Edward Condon as scientific director.",
+"tier": "A"
+},
+{
+"date": "1969-01-08",
+"id": "tl-1969-01-08",
+"label": "Condon Report released",
+"precision": "day",
+"strand": "coverup",
+"text": "'Scientific Study of Unidentified Flying Objects' concludes further study is unwarranted, while its Section V Chapter 2 documents the 1948 Estimate of the Situation and its destruction.",
+"tier": "A"
+}
+]
+}

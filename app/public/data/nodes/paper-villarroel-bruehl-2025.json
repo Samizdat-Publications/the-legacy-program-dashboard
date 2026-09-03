@@ -1,0 +1,113 @@
+{
+"A": 0,
+"C": 0,
+"D": 3,
+"band": null,
+"claims": [
+{
+"source": "Scientific Reports / Crossref record",
+"text": "The paper is Scientific Reports (2025), DOI 10.1038/s41598-025-21620-3, published 20 October 2025, by Stephen Bruehl and Beatriz Villarroel.",
+"tier": 1
+},
+{
+"source": "Inference from the plate exposure dates and their custody",
+"text": "Because POSS-I plates were exposed 1949-1957, before Sputnik, and are held in civil astronomical archives, the dataset is structurally immune to classification and to the archival destruction that has affected the government's own records from the same period.",
+"tier": 3
+}
+],
+"cls": "document",
+"cluster": "research",
+"connections": [
+{
+"claimTier": 3,
+"cls": "domain",
+"dateEnd": null,
+"dateStart": "2025",
+"direction": "out",
+"edgeLabel": "Physical-archive evidence for the programme's origin period that no agency can classify",
+"id": "d-materials",
+"l0": false,
+"label": "Materials and custody analysis",
+"note": "Glass plates in civil astronomical custody, exposed before Sputnik, are structurally immune to classification and to the archival destruction that affected the government's own 1940s-1950s records.",
+"sources": [
+{
+"date": "2025-10-20",
+"name": "Bruehl & Villarroel, 'Transients in the Palomar Observatory Sky Survey (POSS-I) may be associated with nuclear testing and reports of unidentified anomalous phenomena', Scientific Reports",
+"url": "https://doi.org/10.1038/s41598-025-21620-3"
+}
+],
+"tier": "B",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "2025",
+"direction": "in",
+"edgeLabel": "Lead author of the POSS-I / nuclear testing association",
+"id": "stephen-bruehl",
+"l0": false,
+"label": "Stephen Bruehl",
+"note": "Scientific Reports, 20 October 2025 - a Nature-portfolio paper linking above-ground nuclear testing, contemporaneous UAP reports and anomalous optical transients.",
+"sources": [
+{
+"date": "2025-10-20",
+"name": "Bruehl & Villarroel, 'Transients in the Palomar Observatory Sky Survey (POSS-I) may be associated with nuclear testing and reports of unidentified anomalous phenomena', Scientific Reports",
+"url": "https://doi.org/10.1038/s41598-025-21620-3"
+}
+],
+"tier": "C",
+"type": "investigative"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "2025",
+"deg": 2,
+"denials": [],
+"desc": "Published in Scientific Reports on 20 October 2025 by Stephen Bruehl of Vanderbilt University Medical Center and Beatriz Villarroel, following a preprint posted 25 July 2025, this paper reports that transients appearing in the Palomar Observatory Sky Survey (POSS-I) plates may be associated with above-ground nuclear testing and with contemporaneous reports of unidentified anomalous phenomena. It is the strongest peer-reviewed evidentiary result yet produced bearing on the 1949-1957 period, and its evidentiary architecture is what makes it valuable: the data source is a physical photographic archive exposed before any artificial satellite existed, held in civil astronomical custody, entirely outside the reach of US classification authority. No FOIA, no witness, no leak. If the association holds, it is independent corroboration - from glass plates - of the pattern the Scientific Coalition for UAP Studies has been assembling from declassified atomic-complex incident records for the same period.",
+"domains": [
+"scientists-technical"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "paper-villarroel-bruehl-2025",
+"l0": false,
+"label": "Bruehl & Villarroel (2025), Scientific Reports: POSS-I transients, nuclear testing and UAP reports",
+"locLabel": null,
+"members": null,
+"short": "Bruehl & Villarroel (2025), Scientific Reports: POSS-I transients, nuclear testing and UAP reports",
+"sources": [
+{
+"date": "2025-10-20",
+"name": "Bruehl & Villarroel, 'Transients in the Palomar Observatory Sky Survey (POSS-I) may be associated with nuclear testing and reports of unidentified anomalous phenomena', Scientific Reports",
+"url": "https://doi.org/10.1038/s41598-025-21620-3"
+},
+{
+"date": "2026-08-12",
+"name": "The Sol Foundation - White Papers and Policy Briefings index",
+"url": "https://thesolfoundation.org/white-papers/"
+}
+],
+"sub": "DOI 10.1038/s41598-025-21620-3, published 20 October 2025",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 947 of 1027, score 12). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.",
+"timeline": [
+{
+"date": "2025-10-20",
+"id": "st-2025-10-20",
+"label": "Plates link nuclear tests to transients",
+"precision": "day",
+"strand": "program",
+"text": "Bruehl and Villarroel publish in Scientific Reports that POSS-I transients may be associated with above-ground nuclear testing and with contemporaneous UAP reports - physical-archive evidence for the programme's origin period, immune to classification.",
+"tier": "A"
+}
+]
+}

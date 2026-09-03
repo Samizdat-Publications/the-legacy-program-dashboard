@@ -1,0 +1,149 @@
+{
+"A": 1,
+"C": 0,
+"D": 3,
+"band": null,
+"claims": [
+{
+"source": "Congress.gov, H.R. 5060 (119th Congress)",
+"text": "H.R. 5060, the UAP Whistleblower Protection Act, was introduced in the 119th Congress on 29 August 2025, following H.R. 10111 in the 118th.",
+"tier": 1
+},
+{
+"source": "DoD OIG, DODIG-2023-109",
+"text": "The DoD Inspector General issued DODIG-2023-109, 'Evaluation of the DoD's Actions Regarding Unidentified Anomalous Phenomena', with only an unclassified summary released publicly on 25 January 2024.",
+"tier": 1
+},
+{
+"source": "Christopher Sharp, Liberation Times, 24 June 2023",
+"text": "The Senate Select Committee on Intelligence's 2023 UAP language proposed an amnesty route for defence contractors holding non-earth origin or exotic materials.",
+"tier": 2
+},
+{
+"source": "ODNI ICIG, Urgent Concern Disclosure Form",
+"text": "The ODNI Intelligence Community Inspector General publishes a Disclosure of Urgent Concern form as the lawful channel for IC whistleblower complaints.",
+"tier": 1
+}
+],
+"cls": "domain",
+"cluster": "other",
+"connections": [
+{
+"claimTier": 2,
+"cls": "domain",
+"dateEnd": null,
+"dateStart": "1978-01-01",
+"direction": "in",
+"edgeLabel": "Courtroom outcomes set the witness's risk calculus",
+"id": "d-litigation",
+"l0": false,
+"label": "Litigation",
+"note": "The dismissal in Cash v. United States and the withholding sustained in CAUS v. NSA together define the practical ceiling on judicial remedies in this field.",
+"sources": [
+{
+"date": "1981-11-03",
+"name": "Citizens Against UFO Secrecy v. NSA (CourtListener)",
+"url": "https://www.courtlistener.com/opinion/400210/citizens-against-ufo-secrecy-v-nation-security-age/"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 3,
+"cls": "domain",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "NDAs and IG channels bound what a witness may say",
+"id": "d-witness",
+"l0": false,
+"label": "Witness Chain",
+"note": "DODIG-2023-109 exists because personnel used the Inspector General channel; the legal domain determines which disclosures are protected and which are prosecutable.",
+"sources": [
+{
+"date": "2024-01-25",
+"name": "DoD OIG - DODIG-2023-109 unclassified summary",
+"url": "https://media.defense.gov/2024/Jan/25/2003381266/-1/-1/1/UNCLASSIFIED%20SUMMARY_UNIDENTIFIED%20ANOMALOUS%20PHENOMENA%20SECURE.PDF"
+}
+],
+"tier": "B",
+"type": "behavioral"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "1947-07-26",
+"deg": 2,
+"denials": [],
+"desc": "The law is the terrain on which a witness decides whether to speak, and the terrain is tilted. A person read into a special access programme signs a non-disclosure agreement with criminal exposure attached; the Intelligence Community Whistleblower Protection Act gives a lawful channel to the Inspector General but no protection at all for a disclosure made outside it; and the state secrets privilege can end a civil case before discovery without the court ever seeing the material. Against that stack, the disclosure movement's legislative answer has been amnesty and channel-building: the Senate's 2023 UAP Disclosure Act proposed immunity structures for contractors and personnel holding recovered material, and the UAP Whistleblower Protection Act - introduced as H.R. 10111 in the 118th Congress and reintroduced as H.R. 5060 on 29 August 2025 in the 119th - is an attempt to build a channel that does not run through the agencies being investigated. The documented cost of the current arrangement is visible in the DoD Inspector General's own product: DODIG-2023-109 exists because personnel used the IG channel, and its unclassified summary is nearly the whole of what the public received. Scoring high on this domain means an entity is a lawyer, litigant, adjudicator or drafter shaping what a witness may lawfully say.",
+"domains": [
+"_rs-archive-mirror",
+"w2-taxonomy"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "d-legal",
+"l0": false,
+"label": "Legal Doctrine & Liability",
+"locLabel": null,
+"members": null,
+"short": "Legal Doctrine & Liability",
+"sources": [
+{
+"date": "2026-02-06",
+"name": "Archived: DoD OIG - DODIG-2023-109 unclassified summary (Wayback 2026-02-06)",
+"url": "https://web.archive.org/web/20260206140359/https://media.defense.gov/2024/Jan/25/2003381266/-1/-1/1/UNCLASSIFIED%20SUMMARY_UNIDENTIFIED%20ANOMALOUS%20PHENOMENA%20SECURE.PDF"
+},
+{
+"date": "2026-08-07",
+"name": "Archived: ODNI ICIG - Disclosure of Urgent Concern Form (Wayback 2026-08-07)",
+"url": "https://web.archive.org/web/20260807214055/https://www.dni.gov/files/ICIG/Documents/Hotline/Urgent%20Concern%20Disclosure%20Form.pdf"
+},
+{
+"date": "2025-08-29",
+"name": "Congress.gov, H.R. 5060 - UAP Whistleblower Protection Act (119th Congress)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/5060"
+},
+{
+"date": "2024-11-12",
+"name": "Congress.gov, H.R. 10111 - UAP Whistleblower Protection Act (118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/10111"
+},
+{
+"date": "2024-01-25",
+"name": "DoD OIG - DODIG-2023-109 unclassified summary",
+"url": "https://media.defense.gov/2024/Jan/25/2003381266/-1/-1/1/UNCLASSIFIED%20SUMMARY_UNIDENTIFIED%20ANOMALOUS%20PHENOMENA%20SECURE.PDF"
+},
+{
+"date": "2023-06-05",
+"name": "ODNI ICIG - Disclosure of Urgent Concern Form",
+"url": "https://www.dni.gov/files/ICIG/Documents/Hotline/Urgent%20Concern%20Disclosure%20Form.pdf"
+},
+{
+"date": "2023-06-24",
+"name": "Christopher Sharp, 'Senate Intelligence Committee Proposes Amnesty to Defense Contractors...', Liberation Times",
+"url": "https://www.liberationtimes.com/home/senate-intelligence-committee-proposes-amnesty-to-defense-contractors-for-disclosure-of-non-earth-origin-or-exotic-materials-in-approved-ufo-language"
+}
+],
+"sub": "Legal domain - non-disclosure agreements, state secrets, amnesty, and the whistleblower's exposure",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 705 of 1027, score 22). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D3.",
+"timeline": [
+{
+"date": "2025-09-09",
+"id": "tx-2025-house-hearing",
+"label": "Oversight returns to whistleblower protection",
+"precision": "day",
+"strand": "oversight",
+"text": "The House Oversight Committee holds 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection', following the reintroduction of the UAP Whistleblower Protection Act as H.R. 5060 on 29 August 2025. The 2025-2026 phase of the fight is procedural rather than revelatory.",
+"tier": 1
+}
+]
+}

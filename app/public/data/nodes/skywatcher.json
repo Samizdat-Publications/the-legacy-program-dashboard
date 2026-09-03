@@ -1,0 +1,97 @@
+{
+"A": 0,
+"C": 1,
+"D": 2,
+"band": null,
+"claims": [
+{
+"source": "American Alchemy with Jesse Michels, 'Meet The Startup Summoning UFOs: Skywatcher', published 28 May 2025, at 0:02:33 and 0:05:12",
+"text": "On American Alchemy with Jesse Michels, 28 May 2025, Michels introduces his guest at 0:02:33 with 'I'm here with James Fowler', and at 0:05:12 Fowler said he 'started out in the military', 'retired as a sergeant major, retired in 2020', spent 'about 23 years working for the government', and that after retiring he 'started several companies and some of my companies were contracted by the government to do different war game projects'.",
+"tier": 2
+},
+{
+"source": "American Alchemy with Jesse Michels, 'Meet The Startup Summoning UFOs: Skywatcher', published 28 May 2025, at 0:05:12 to 0:10:17",
+"text": "In the same episode, at 0:05:12 and again at 0:08:35, Fowler said the effort began with an observation during a government war game he was running in 2021, whose deliverable was tactics, with a blue team fielding air-defence and counter-drone systems against a red team, and that on the last day of the event his camera operator showed him 'the class one formation of seven, the first sighting we had'. At 0:06:04 he said he is 'the lead operations guy' and not the discoverer, naming two colleagues only as Mr. K and Mr. D because they wish to remain anonymous.",
+"tier": 2
+},
+{
+"source": "Jesse Michels, American Alchemy episode description, 30 January 2025",
+"text": "Skywatcher's X account and website skywatcher.ai were promoted in the description of Jake Barber's 30 January 2025 American Alchemy interview.",
+"tier": 2
+}
+],
+"cls": "institution",
+"cluster": "research",
+"connections": [
+{
+"claimTier": 2,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "Aired the Jake Barber / Skywatcher 'psionic retrieval' special",
+"id": "newsnation",
+"l0": false,
+"label": "NewsNation",
+"note": "In January 2025 Ross Coulthart interviewed former US intelligence operative Jake Barber on NewsNation's Reality Check; the special introduced Barber's Skywatcher team and its claimed psionic 'summoning' operations and egg-shaped object footage. NewsNation has continued to be the primary outlet for Skywatcher updates. Barber's claims remain unverified by official sources.",
+"sources": [
+{
+"date": null,
+"name": "https://www.newsnationnow.com/space/ufo/hfr-uap-recovery-video-egg-shaped-object-exclusive/",
+"url": "https://www.newsnationnow.com/space/ufo/hfr-uap-recovery-video-egg-shaped-object-exclusive/"
+},
+{
+"date": null,
+"name": "https://en.wikipedia.org/wiki/Ross_Coulthart",
+"url": "https://en.wikipedia.org/wiki/Ross_Coulthart"
+},
+{
+"date": null,
+"name": "https://www.newsnationnow.com/space/ufo/ross-coulthart-qa-skywatcher-didnt-disappear-it-went-government/",
+"url": "https://www.newsnationnow.com/space/ufo/ross-coulthart-qa-skywatcher-didnt-disappear-it-went-government/"
+}
+],
+"tier": "C",
+"type": "investigative"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "2025",
+"deg": 1,
+"denials": [],
+"desc": "Skywatcher is the private venture associated with Jake Barber, promoted alongside his January 2025 American Alchemy appearance via its X account and the domain skywatcher.ai. Its significance to this board is as an instance of a recurring pattern: a whistleblower emerges through independent long-form media and simultaneously launches or joins a commercial or research entity, so that testimony and enterprise arrive together. That does not falsify the testimony, but it is a material fact about incentive structure that belongs on the record alongside it. Independent documentation of Skywatcher's corporate form, funding and personnel was not located in this pass.",
+"domains": [
+"media-structure"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "skywatcher",
+"l0": false,
+"label": "Skywatcher",
+"locLabel": null,
+"members": null,
+"short": "Skywatcher",
+"sources": [
+{
+"date": "2025-05-28",
+"name": "American Alchemy with Jesse Michels, 'Meet The Startup Summoning UFOs: Skywatcher' (audio)",
+"url": "https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL9721579354.mp3?updated=1752253202"
+},
+{
+"date": "2025-01-30",
+"name": "American Alchemy - Jake Barber interview description",
+"url": "https://www.youtube.com/watch?v=dnnpyNuPdXs"
+}
+],
+"sub": "Private UAP research venture",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 892 of 1027, score 15). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A0/D2.",
+"timeline": []
+}

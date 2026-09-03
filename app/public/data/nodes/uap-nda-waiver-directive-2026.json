@@ -1,0 +1,256 @@
+{
+"A": 2,
+"C": 0,
+"D": 3,
+"band": null,
+"claims": [
+{
+"source": "Fox News, 21 July 2026",
+"text": "Trump directed the Department of War and the intelligence community to waive UAP-related NDAs for former employees and contractors speaking with authorized investigators; a senior official said prior NDAs can be abrogated for those cooperating through proper channels.",
+"tier": 2
+},
+{
+"source": "Fox News, 21 July 2026",
+"text": "Officials clarified the directive is 'not a declassification directive' and permits disclosure only to cleared government investigators at AARO or the PURSUE task force.",
+"tier": 2
+},
+{
+"source": "Rep. Eric Burlison official press release, 29 July 2026",
+"text": "'Waiving UAP-related NDAs is something I have been calling for the administration to do' - with an offer of assistance and a recommendation that participants request congressional presence and counsel.",
+"tier": 1
+},
+{
+"source": "Fox News, 21 July 2026",
+"text": "Trump directed the Department of War and the intelligence community to waive UAP-related NDAs for former employees and contractors speaking with authorised investigators.",
+"tier": 2
+},
+{
+"source": "Fox News, 21 July 2026",
+"text": "Officials clarified the directive is 'not a declassification directive' and permits disclosure only to cleared government investigators at AARO or the PURSUE task force.",
+"tier": 2
+},
+{
+"source": "Rep. Eric Burlison official press release, 29 July 2026",
+"text": "'Waiving UAP-related NDAs is something I have been calling for the administration to do' - Burlison, offering his office as a channel and recommending congressional presence and counsel.",
+"tier": 1
+},
+{
+"source": "Inference from the directive's stated mechanism against the documented outcome of Grusch's ICIG-channel disclosure",
+"text": "A waiver that runs only to cleared government investigators reproduces the exact structure that failed in the Grusch case: the witness is unbound only inside the channel controlled by the institution the witness is accusing.",
+"tier": 3
+}
+],
+"cls": "document",
+"cluster": "oversight",
+"connections": [
+{
+"claimTier": 3,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "2026",
+"direction": "out",
+"edgeLabel": "The waiver reproduces the channel that failed Grusch",
+"id": "david-grusch",
+"l0": false,
+"label": "David Charles Grusch",
+"note": "The directive unbinds witnesses only inside the executive channel controlled by the institution they would accuse, which is the structure that ended Grusch's career after his ICIG-channel disclosure.",
+"sources": [
+{
+"date": "2026-07-21",
+"name": "Fox News - Trump directs agencies to waive NDAs for UAP whistleblowers",
+"url": "https://www.foxnews.com/politics/long-hidden-ufo-information-center-trump-push-free-former-officials"
+},
+{
+"date": "2026-07-29",
+"name": "Rep. Eric Burlison - Statement on President Trump's UAP NDA Directive",
+"url": "https://burlison.house.gov/media/press-releases/rep-eric-burlison-releases-statement-president-trumps-uap-nda-directive"
+}
+],
+"tier": "A",
+"type": "behavioral"
+},
+{
+"claimTier": 3,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "2026",
+"direction": "out",
+"edgeLabel": "NDA waiver regime addresses the exact obstacle Grusch's witnesses faced",
+"id": "david-grusch",
+"l0": false,
+"label": "David Charles Grusch",
+"note": "Grusch swore in 2023 that witnesses would come forward only behind closed doors and with assurances that breaking NDAs would not be prosecuted. The July 2026 directive waives UAP-related NDAs for disclosures to cleared AARO or PURSUE officials. Reasoning: the directive's mechanism maps directly onto the barrier Grusch described under oath, though no document ties the two.",
+"sources": [
+{
+"date": "2026-07-21",
+"name": "Fox News - Trump directs agencies to waive NDAs for UAP whistleblowers",
+"url": "https://www.foxnews.com/politics/long-hidden-ufo-information-center-trump-push-free-former-officials"
+},
+{
+"date": "2023-07-26",
+"name": "House Oversight hearing transcript",
+"url": "https://www.congress.gov/118/meeting/house/116282/documents/HHRG-118-GO06-Transcript-20230726.pdf"
+}
+],
+"tier": "A",
+"type": "programmatic"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2026",
+"dateStart": "2026",
+"direction": "in",
+"edgeLabel": "Directed the NDA waiver in July 2026",
+"id": "donald-trump",
+"l0": false,
+"label": "Donald J. Trump",
+"note": "The administration directed DoW and the IC to waive UAP-related NDAs for former employees and contractors speaking with authorised investigators; officials stressed it is not a declassification directive.",
+"sources": [
+{
+"date": "2026-07-21",
+"name": "Fox News - Trump directs agencies to waive NDAs for UAP whistleblowers",
+"url": "https://www.foxnews.com/politics/long-hidden-ufo-information-center-trump-push-free-former-officials"
+}
+],
+"tier": "B",
+"type": "programmatic"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "2026",
+"direction": "in",
+"edgeLabel": "Offers his office as a disclosure channel with counsel and congressional presence",
+"id": "eric-burlison",
+"l0": false,
+"label": "Eric Burlison",
+"note": "Burlison - whose Special Advisor is Grusch - recommends that anyone using the NDA waiver request congressional presence alongside legal counsel. That recommendation is a direct read-through of what happened to the last person who used executive channels alone.",
+"sources": [
+{
+"date": "2026-07-29",
+"name": "Rep. Burlison - Statement on President Trump's UAP NDA Directive",
+"url": "https://burlison.house.gov/media/press-releases/rep-eric-burlison-releases-statement-president-trumps-uap-nda-directive"
+}
+],
+"tier": "A",
+"type": "legislative"
+},
+{
+"claimTier": 3,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "2026-07-29",
+"direction": "in",
+"edgeLabel": "the paradigm case the waiver addresses",
+"id": "luis-elizondo",
+"l0": false,
+"label": "Luis D. Elizondo",
+"note": "Elizondo is the archetype of a former official constrained by prepublication review and secrecy obligations; the ODNI memorandum waives 'agreements, oaths, or commitments' for disclosure to government investigators, not to publishers.",
+"sources": [
+{
+"date": "2026-08-01",
+"name": "ODNI Memorandum ES 2026-00818",
+"url": "https://burlison.house.gov/sites/evo-subsites/burlison.house.gov/files/evo-media-document/memorandum_2026.pdf"
+},
+{
+"date": "2026-08-12",
+"name": "Wikipedia, Luis Elizondo",
+"url": "https://en.wikipedia.org/wiki/Luis_Elizondo"
+}
+],
+"tier": "A",
+"type": "behavioral"
+},
+{
+"claimTier": 2,
+"cls": "program",
+"dateEnd": null,
+"dateStart": "2026",
+"direction": "out",
+"edgeLabel": "PURSUE named as an authorized receiving channel for waived-NDA disclosures",
+"id": "pursue-releases",
+"l0": true,
+"label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters",
+"note": "Senior officials described former officials meeting with cleared AARO or PURSUE task force officials who may waive applicable NDAs during authorized discussions, with information then routed through existing declassification procedures.",
+"sources": [
+{
+"date": "2026-07-21",
+"name": "Fox News - Trump directs agencies to waive NDAs for UAP whistleblowers",
+"url": "https://www.foxnews.com/politics/long-hidden-ufo-information-center-trump-push-free-former-officials"
+}
+],
+"tier": "A",
+"type": "programmatic"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "2026",
+"deg": 5,
+"denials": [],
+"desc": "The second executive action of 2026 and the one that goes to witnesses rather than paper. In July 2026 the administration directed the Department of War and the intelligence community to waive nondisclosure agreements for former government employees and contractors wishing to share UAP information with authorised investigators. Senior officials described the mechanism as abrogation of prior NDAs for people cooperating through proper channels, executed by having former officials meet cleared officials of AARO or a presidential PURSUE task force who may waive the applicable NDAs during authorised discussions, with any resulting information routed through existing declassification procedures. Officials were explicit that this is not a declassification directive: it permits disclosure to government investigators, not to the public. Rep. Eric Burlison, whose Special Advisor is David Grusch, said on 29 July 2026 that he had been calling for exactly this, offered his office as a channel, and recommended that anyone participating request congressional presence alongside legal counsel. That recommendation is the whole lesson of the Grusch episode compressed into a sentence: the last person to route a disclosure exclusively through executive-branch channels lost his clearance, his promotion and his career while his identity left the protected channel.",
+"domains": [
+"grusch",
+"releases-2023-2026"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "uap-nda-waiver-directive-2026",
+"l0": false,
+"label": "Presidential directive waiving UAP-related nondisclosure agreements",
+"locLabel": null,
+"members": null,
+"short": "Presidential directive waiving UAP-related nondisclosure agreements",
+"sources": [
+{
+"date": "2026-07-21",
+"name": "Fox News - Trump directs agencies to waive NDAs for UAP whistleblowers",
+"url": "https://www.foxnews.com/politics/long-hidden-ufo-information-center-trump-push-free-former-officials"
+},
+{
+"date": "2026-07-29",
+"name": "Rep. Burlison - Statement on President Trump's UAP NDA Directive",
+"url": "https://burlison.house.gov/media/press-releases/rep-eric-burlison-releases-statement-president-trumps-uap-nda-directive"
+}
+],
+"sub": "Reported July 2026",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 220 of 1027, score 42). 6 connections, 3 of them custody/witness/funding/programmatic. Axes C0/A2/D3.",
+"timeline": [
+{
+"date": "2026-07-21",
+"id": "g-tl-2026-07-nda",
+"label": "Presidential directive waives UAP-related NDAs",
+"precision": "day",
+"strand": "oversight",
+"text": "Agencies are directed to waive nondisclosure agreements for former employees and contractors speaking to cleared AARO or PURSUE officials. Officials stress it is not a declassification directive. Burlison recommends anyone using it bring counsel and request congressional presence.",
+"tier": "A"
+},
+{
+"date": "2026-07-21",
+"id": "rel-2026-07-21b",
+"label": "NDAs waived - to investigators only",
+"precision": "day",
+"strand": "oversight",
+"text": "The administration directs DoW and the IC to waive UAP-related NDAs for former employees and contractors speaking with authorised investigators. Officials stress it is 'not a declassification directive.'",
+"tier": "A"
+},
+{
+"date": "2026-07-29",
+"id": "tl-nda-directive",
+"label": "Burlison publicises the Presidential UAP NDA-waiver directive",
+"precision": "day",
+"strand": "program",
+"text": "He offers his office's assistance to witnesses, warns that it is unclear whether the abrogation covers testimony given to Congress before referral to the executive branch, and recommends witnesses bring both an attorney and a member of Congress.",
+"tier": "2"
+}
+]
+}

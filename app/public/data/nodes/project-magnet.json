@@ -1,0 +1,173 @@
+{
+"A": 2,
+"C": 1,
+"D": 3,
+"band": null,
+"claims": [
+{
+"source": "Library and Archives Canada exhibition, quoting Smith, Project Magnet report, 1952, p.6",
+"text": "Smith, Project Magnet report 1952, p.6: 'They are a hundred feet or more in diameter; they can travel at speeds of several thousand miles per hour; they can reach altitudes well above those which should support conventional air craft or balloons; and ample power and force seem to be available for all required maneuvers.'",
+"tier": 1
+},
+{
+"source": "Library and Archives Canada exhibition, quoting Smith, Project Magnet report, 1952",
+"text": "Smith, Project Magnet report 1952: the next steps should be 'a substantial effort towards the acquisition of as much as possible of this technology, which would without doubt be of great value to us'.",
+"tier": 1
+},
+{
+"source": "Library and Archives Canada, 'Canada's UFOs' exhibition, Project Magnet report document page",
+"text": "Project Magnet material at Library and Archives Canada is cited in LAC's own exhibition as 'Shirley's Bay, Ontario, Project Magnet, 1952. RG 24, acc. 83-84/167, box 7523, file DRBS 3800-10-1, pt. 1'.",
+"tier": 1
+},
+{
+"source": "Wikipedia, 'Project Magnet (Canada)', citing Library and Archives Canada",
+"text": "'The project was formally approved on 2 December 1950 ... A small-scale undertaking, the project used DOT facilities, with some assistance from personnel at the Defence Research Board (DRB) and the National Research Council.'",
+"tier": 2
+},
+{
+"source": "Office of the Chief Science Advisor of Canada, June 2025",
+"text": "Sky Canada Project, June 2025: 'the Department of Transport terminated Project Magnet in 1954.'",
+"tier": 1
+}
+],
+"cls": "program",
+"cluster": "legacy",
+"connections": [
+{
+"claimTier": 3,
+"cls": "document",
+"dateEnd": "2000",
+"dateStart": "1952",
+"direction": "out",
+"edgeLabel": "1952 recommendation to acquire the technology prefigures Condign's redacted 'Related Military Applications'",
+"id": "doc-condign-report",
+"l0": true,
+"label": "Unidentified Aerial Phenomena in the UK Air Defence Region (DIS Scientific & Technical Memorandum 55/2/00)",
+"note": "Smith's 1952 report recommends 'acquisition of as much as possible of this technology'; Condign's own paragraph 7, 'Related Military Applications', is redacted in full under the defence exemption. Reasoning: both are government documents whose exploitation sections are the point at which the record becomes either explicit or withheld.",
+"sources": [
+{
+"date": "2005-08-11",
+"name": "LAC - Project Magnet page",
+"url": "https://web.archive.org/web/2006/http://www.collectionscanada.ca/ufo/002029-1400.01-e.html"
+},
+{
+"date": "2006-05-15",
+"name": "Condign Executive Summary",
+"url": "https://archive.org/download/condign-vol-2-1-258/uap_vol1_pgs87to99_ch4to5_djvu.txt"
+}
+],
+"tier": "A",
+"type": "research"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "1954",
+"direction": "out",
+"edgeLabel": "Project Magnet records held at LAC",
+"id": "lac-ufo-collection",
+"l0": false,
+"label": "Library and Archives Canada - UFO records collection",
+"note": "LAC cites the Project Magnet and Second Story files as RG 24, acc. 83-84/167, box 7523, file DRBS 3800-10-1, pt. 1.",
+"sources": [
+{
+"date": "2005-08-11",
+"name": "Library and Archives Canada - Project Magnet report page",
+"url": "https://web.archive.org/web/2006/http://www.collectionscanada.ca/ufo/002029-1401-e.html"
+}
+],
+"tier": "C",
+"type": "custody"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "1962",
+"dateStart": "1950-11-21",
+"direction": "in",
+"edgeLabel": "author of the request that created Project Magnet",
+"id": "wilbert-smith",
+"l0": false,
+"label": "Wilbert Brockhouse Smith",
+"note": "LAC's exhibition quotes the 21 November 1950 'Geo-Magnetics' memorandum as the origin of the project.",
+"sources": [
+{
+"date": "2005-08-11",
+"name": "Library and Archives Canada - Project Magnet page",
+"url": "https://web.archive.org/web/2006/http://www.collectionscanada.ca/ufo/002029-1400.01-e.html"
+}
+],
+"tier": "B",
+"type": "institutional"
+}
+],
+"coords": null,
+"dateEnd": "1954",
+"dateStart": "1950-12-02",
+"deg": 3,
+"denials": [],
+"desc": "Project Magnet was approved by the Canadian Department of Transport on 2 December 1950 following Wilbert Smith's memorandum of 21 November 1950. Its stated goal was to collect data on UFOs and apply anything recovered to practical engineering - specifically to test whether the Earth's magnetic field could be exploited as a propulsion source, which Smith believed the objects were already doing. It drew on Department of Transport facilities with assistance from the Defence Research Board and the National Research Council; Smith's collaborators included Dr James Watt of the DRB, John Thompson of the DOT, Professor J. T. Wilson of the University of Toronto and Dr G. D. Garland of the Dominion Observatory. Its 1952 report is the document that matters: it concluded that the objects were about a hundred feet or more in diameter, capable of several thousand miles per hour and of altitudes above those supporting conventional aircraft or balloons, that 'we are forced to the conclusion that the vehicles are probably extra-terrestrial, in spite of our prejudices to the contrary', and that the next step should be 'a substantial effort towards the acquisition of as much as possible of this technology, which would without doubt be of great value to us'. That is a government engineer, in writing, in 1952, recommending a reverse-engineering programme. In October 1952 Smith set up an instrumented observatory at Shirley's Bay outside Ottawa with a magnetometer, gamma-ray detector, radio receiver, gravity meter and recorders. The Department terminated funding in 1954; Smith continued privately until his death in 1962.",
+"domains": [
+"w2-international"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "project-magnet",
+"l0": false,
+"label": "Project Magnet (Canada)",
+"locLabel": null,
+"members": null,
+"short": "Project Magnet (Canada)",
+"sources": [
+{
+"date": "2005-08-11",
+"name": "Library and Archives Canada - Project Magnet page",
+"url": "https://web.archive.org/web/2006/http://www.collectionscanada.ca/ufo/002029-1400.01-e.html"
+},
+{
+"date": "2005-08-11",
+"name": "LAC - Project Magnet report document page (archival citation)",
+"url": "https://web.archive.org/web/2006/http://www.collectionscanada.ca/ufo/002029-1401-e.html"
+},
+{
+"date": "2025-06-01",
+"name": "Sky Canada Project report",
+"url": "https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada"
+},
+{
+"date": "2026-01-01",
+"name": "Project Magnet (Canada) - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/Project_Magnet_(Canada)"
+}
+],
+"sub": "Canadian Department of Transport UAP and geomagnetic-propulsion study, 1950-1954 (privately to 1962)",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 318 of 1027, score 36). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A2/D3.",
+"timeline": [
+{
+"date": "1950-12-02",
+"id": "tl-intl-1950-magnet",
+"label": "Project Magnet approved",
+"precision": "day",
+"strand": "program",
+"text": "The Canadian Department of Transport approves Smith's request. Project Magnet is the first government programme anywhere whose stated purpose includes applying recovered UAP data to practical engineering.",
+"tier": 2
+},
+{
+"date": "1952",
+"id": "tl-intl-1952-magnet-report",
+"label": "Project Magnet report recommends acquiring the technology",
+"precision": "year",
+"strand": "program",
+"text": "Smith's report concludes that 'we are forced to the conclusion that the vehicles are probably extra-terrestrial, in spite of our prejudices to the contrary' and recommends 'a substantial effort towards the acquisition of as much as possible of this technology, which would without doubt be of great value to us'.",
+"tier": 1
+}
+]
+}

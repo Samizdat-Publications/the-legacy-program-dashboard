@@ -1,0 +1,148 @@
+{
+"A": 2,
+"C": 1,
+"D": 3,
+"band": null,
+"claims": [
+{
+"source": "Rep. Eric Burlison press release, 8 May 2026",
+"text": "The recording is identified as 'AF-ATIC-FILM, 03/52', labelled 'flying saucer talk', and features former Air Force officer Edward J. Ruppelt as the briefer.",
+"tier": 1
+},
+{
+"source": "Cybernews, 25 June 2026, reporting Burlison's account",
+"text": "The footage features Project Blue Book director Edward J. Ruppelt briefing military officials and scientists, months before the July 1952 Washington, DC UFO radar incidents.",
+"tier": 2
+},
+{
+"source": "Rep. Eric Burlison via X, reported by Cybernews, 25 June 2026",
+"text": "MIT Lincoln Laboratory agreed to disclose the recording, per Burlison's public announcement of 25 June 2026.",
+"tier": 2
+}
+],
+"cls": "document",
+"cluster": "witness",
+"connections": [
+{
+"claimTier": 3,
+"cls": "program",
+"dateEnd": "1952",
+"dateStart": "1952",
+"direction": "out",
+"edgeLabel": "The briefing was given into the 1952 Beacon Hill reconnaissance study circle",
+"id": "beacon-hill-study",
+"l0": false,
+"label": "Project Beacon Hill",
+"note": "Burlison's press release names both items together; the inference is that Blue Book briefed the group designing US strategic aerial reconnaissance. No minutes produced.",
+"sources": [
+{
+"date": "2026-05-26",
+"name": "Burlison press release",
+"url": "https://burlison.house.gov/media/press-releases/burlison-presses-mitre-answers-uap-records-ffrdc-accountability-and-compliance"
+}
+],
+"tier": "C",
+"type": "programmatic"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "1952",
+"direction": "out",
+"edgeLabel": "Ruppelt is the briefer on the recording",
+"id": "edward-ruppelt",
+"l0": false,
+"label": "Edward J. Ruppelt",
+"note": "The Blue Book director briefing military officials and scientists in March 1952, four months before the Washington, DC radar intrusions.",
+"sources": [
+{
+"date": "2026-05-08",
+"name": "Burlison press release",
+"url": "https://burlison.house.gov/media/press-releases/burlison-requests-review-identified-1952-uap-recording"
+}
+],
+"tier": "B",
+"type": "witness-chain"
+},
+{
+"claimTier": 2,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "1952",
+"direction": "in",
+"edgeLabel": "Holds the March 1952 Ruppelt 'flying saucer talk' recording",
+"id": "mit-lincoln-laboratory",
+"l0": false,
+"label": "MIT Lincoln Laboratory",
+"note": "By 25 June 2026 Burlison announced the laboratory had agreed to disclose it - the first FFRDC-held UAP record obtained by Congress by naming the file.",
+"sources": [
+{
+"date": "2026-06-25",
+"name": "Cybernews",
+"url": "https://cybernews.com/news/burlison-ufo-uap-project-blue/"
+}
+],
+"tier": "B",
+"type": "custody"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "1952",
+"deg": 3,
+"denials": [],
+"desc": "A reel-to-reel recording, designated AF-ATIC-FILM, 03/52 and labelled 'flying saucer talk', in which Edward J. Ruppelt - then director of the Air Force's Project Blue Book at the Air Technical Intelligence Center - briefed military officials and scientists. The briefing was given in March 1952, during the busiest year of UFO reporting in Air Force history and four months before the Washington, DC radar intrusions of July 1952. Rep. Eric Burlison identified it by designation and wrote to MIT Lincoln Laboratory on 8 May 2026 asking the laboratory to determine its status and coordinate with the National Archives on preservation and archival review; by 25 June 2026 he reported that the laboratory had agreed to disclose it. The item is small and its evidentiary contents are unknown, but its procedural significance is large: it is the first identified UAP record held by an FFRDC that Congress has named by file designation and obtained agreement to release. It also establishes, by its very existence and location, that Air Force UFO investigation material was briefed into and retained by the FFRDC layer as early as 1952 - which is precisely the proposition Burlison's MITRE inquiry sets out to test at scale.",
+"domains": [
+"ffrdcs"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "af-atic-film-0352",
+"l0": false,
+"label": "AF-ATIC-FILM, 03/52 ('flying saucer talk')",
+"locLabel": null,
+"members": null,
+"short": "AF-ATIC-FILM, 03/52 ('flying saucer talk')",
+"sources": [
+{
+"date": "2026-05-08",
+"name": "Rep. Eric Burlison - Burlison Requests Review of Identified 1952 UAP Recording",
+"url": "https://burlison.house.gov/media/press-releases/burlison-requests-review-identified-1952-uap-recording"
+},
+{
+"date": "2026-06-25",
+"name": "Cybernews - Burlison on MIT Lincoln Laboratory and the 1952 recording",
+"url": "https://cybernews.com/news/burlison-ufo-uap-project-blue/"
+}
+],
+"sub": "March 1952 reel-to-reel recording of Edward J. Ruppelt briefing the Beacon Hill Study group; held by MIT Lincoln Laboratory",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 338 of 1027, score 35). 3 connections, 3 of them custody/witness/funding/programmatic. Axes C1/A2/D3.",
+"timeline": [
+{
+"date": "1952-03-01",
+"id": "tl-ffrdc-1952-beaconhill",
+"label": "Ruppelt briefs the Beacon Hill circle",
+"precision": "month",
+"strand": "program",
+"text": "Blue Book director Edward J. Ruppelt gives a 'flying saucer talk' recorded as AF-ATIC-FILM, 03/52 - a briefing into the classified summer study on aerial reconnaissance hosted in the MIT/Lincoln Laboratory complex.",
+"tier": "A"
+},
+{
+"date": "2026-06-25",
+"id": "tl-ffrdc-2026-lincoln-agrees",
+"label": "Lincoln Laboratory agrees to release the 1952 recording",
+"precision": "day",
+"strand": "oversight",
+"text": "Burlison announces the laboratory will disclose AF-ATIC-FILM, 03/52 - the first FFRDC-held UAP record produced to Congress. His method: 'We told MIT Lincoln Labs we know the exact video file you are holding, by name, and we want it.'",
+"tier": "A"
+}
+]
+}

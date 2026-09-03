@@ -1,0 +1,188 @@
+{
+"A": 3,
+"C": 0,
+"D": 2,
+"affiliations": [
+"Deputy Secretary of Defense (2021-2025)",
+"Center for Strategic and International Studies",
+"OSD Policy (Obama administration)"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "2021-11-23",
+"event": "Directs establishment of the Airborne Object Identification and Management Synchronization Group (AOIMSG)",
+"precision": "day"
+},
+{
+"date": "2022-07-15",
+"event": "Signs memorandum establishing AARO, disestablishing AOIMSG, and directing the Navy to disestablish the UAPTF",
+"precision": "day"
+},
+{
+"date": "2023-07-31",
+"event": "Convenes UAP stakeholders; takes direct oversight of AARO, director now reports to her",
+"precision": "day"
+},
+{
+"date": "2024-03-08",
+"event": "Volume I released without a public endorsement of its findings from her office",
+"precision": "day"
+}
+],
+"claims": [
+{
+"source": "DoD memorandum, Establishment of the All-domain Anomaly Resolution Office, 15 July 2022",
+"text": "Hicks, as Deputy Secretary of Defense, signed the 15 July 2022 memorandum establishing AARO, superseding the 23 November 2021 AOIMSG direction and ordering the Navy to disestablish the UAPTF.",
+"tier": 1
+},
+{
+"source": "DefenseScoop, 30 August 2023",
+"text": "In summer 2023 Hicks took direct oversight of AARO, repositioning its director to report to her rather than through USD(I&S).",
+"tier": 1
+},
+{
+"source": "Analysis by Douglas Dean Johnson; contemporaneous comment by Christopher Mellon, March 2024",
+"text": "Hicks declined to publicly endorse the key findings of Historical Record Report Volume I.",
+"tier": 2
+}
+],
+"cls": "person",
+"cluster": "other",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "2025",
+"dateStart": "2023",
+"direction": "out",
+"edgeLabel": "took direct oversight; AARO director reports to her from summer 2023",
+"id": "aaro",
+"l0": true,
+"label": "All-domain Anomaly Resolution Office (AARO)",
+"note": "Weeks after Grusch testified, Hicks pulled AARO out of the USD(I&S) chain and made its director report directly to the Deputy Secretary of Defense.",
+"sources": [
+{
+"date": "2023-08-30",
+"name": "DefenseScoop - Hicks takes direct oversight of Pentagon's UAP office",
+"url": "https://defensescoop.com/2023/08/30/hicks-takes-direct-oversight-of-pentagons-uap-office-new-reporting-website-to-be-launched/"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "2022",
+"dateStart": "2022",
+"direction": "out",
+"edgeLabel": "signatory of the AARO establishment memorandum",
+"id": "aaro-establishment-memo-2022",
+"l0": false,
+"label": "Memorandum: Establishment of the All-domain Anomaly Resolution Office (15 July 2022)",
+"note": "Hicks signed the memorandum on 15 July 2022; DoD announced it on 20 July.",
+"sources": [
+{
+"date": "2022-07-15",
+"name": "AARO establishment memorandum",
+"url": "https://media.defense.gov/2022/Jul/20/2003039074/-1/-1/1/ESTABLISHMENT-OF-THE-ALL-DOMAIN-ANOMALY-RESOLUTION-OFFICE.PDF"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "directed establishment of AOIMSG, 23 November 2021",
+"id": "aoimsg",
+"l0": false,
+"label": "Airborne Object Identification and Management Synchronization Group (AOIMSG)",
+"note": "Hicks stood up AOIMSG as the Department's answer to the FY2022 NDAA Section 1683 requirement for a permanent office.",
+"sources": [
+{
+"date": "2022-07-15",
+"name": "AARO establishment memorandum (reciting AOIMSG)",
+"url": "https://media.defense.gov/2022/Jul/20/2003039074/-1/-1/1/ESTABLISHMENT-OF-THE-ALL-DOMAIN-ANOMALY-RESOLUTION-OFFICE.PDF"
+}
+],
+"tier": "C",
+"type": "institutional"
+}
+],
+"date": "2022-07-15",
+"dateEnd": null,
+"dateStart": "2022-07-15",
+"deg": 3,
+"denials": [],
+"domains": [
+"_rs-archive-mirror",
+"uaptf-aaro"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "kathleen-hicks",
+"instId": "dod",
+"l0": false,
+"label": "Kathleen H. Hicks",
+"loc": "Washington, DC",
+"locId": "l-dc",
+"members": null,
+"narrative": "Every structural decision about the official UAP apparatus between 2021 and 2024 carries Hicks's signature. As Deputy Secretary of Defense she directed the establishment of the Airborne Object Identification and Management Synchronization Group on 23 November 2021, an entity built to answer Congress's Section 1683 mandate without disturbing anything below it. When AOIMSG proved inadequate she signed the memorandum of 15 July 2022 - announced 20 July - establishing the All-domain Anomaly Resolution Office, disestablishing AOIMSG, ordering the Navy to shut down the UAP Task Force and hand its data and materials to AARO, and placing AARO under the Under Secretary of Defense for Intelligence and Security. In late July and August 2023, with Grusch's testimony fresh, she pulled AARO out of the USD(I&S) chain and made its director report directly to her, saying the Department takes UAP seriously because they are a potential national security threat and a safety risk. That re-wiring is the most consequential organisational fact in the domain: it put the office that adjudicates whistleblower claims about concealed special access programmes directly under the deputy head of the department those programmes would be concealed within. Notably, Hicks did not publicly endorse the central findings of the Historical Record Report Volume I when it was released in March 2024, a silence Christopher Mellon flagged at the time - the report's assertions were made at the AARO level, never ratified at cabinet level.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Kathleen H. Hicks",
+"sources": [
+{
+"date": "2026-06-09",
+"name": "Archived: DoD - Establishment of the All-domain Anomaly Resolution Office (memo) (Wayback 2026-06-09)",
+"url": "https://web.archive.org/web/20260609160749/https://media.defense.gov/2022/Jul/20/2003039074/-1/-1/1/ESTABLISHMENT-OF-THE-ALL-DOMAIN-ANOMALY-RESOLUTION-OFFICE.PDF"
+},
+{
+"date": "2022-07-15",
+"name": "DoD - Establishment of the All-domain Anomaly Resolution Office (memo)",
+"url": "https://media.defense.gov/2022/Jul/20/2003039074/-1/-1/1/ESTABLISHMENT-OF-THE-ALL-DOMAIN-ANOMALY-RESOLUTION-OFFICE.PDF"
+},
+{
+"date": "2023-08-30",
+"name": "DefenseScoop - Hicks takes direct oversight of Pentagon's UAP office",
+"url": "https://defensescoop.com/2023/08/30/hicks-takes-direct-oversight-of-pentagons-uap-office-new-reporting-website-to-be-launched/"
+},
+{
+"date": "2024-09-01",
+"name": "Douglas Dean Johnson - What's next for AARO?",
+"url": "https://douglasjohnson.ghost.io/what-next-for-aaro/"
+}
+],
+"status": "active",
+"sub": "Deputy Secretary of Defense (2021-2025); signed AOIMSG and AARO establishment memoranda",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 630 of 1027, score 24). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A3/D2.",
+"timeline": [
+{
+"date": "2023-07-31",
+"id": "tl-hicks-2023-07-31",
+"label": "Hicks takes direct oversight of AARO",
+"precision": "day",
+"strand": "program",
+"text": "Days after Grusch testifies, the Deputy Secretary pulls AARO out of the USD(I&S) chain; its director now reports directly to her.",
+"tier": "A"
+}
+],
+"unexplainedResidual": null,
+"unverified": [
+"Whether the July/August 2023 reporting-chain change was prompted specifically by the Grusch testimony of 26 July 2023."
+]
+}

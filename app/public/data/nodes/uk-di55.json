@@ -1,0 +1,108 @@
+{
+"A": 2,
+"C": 1,
+"D": 2,
+"band": null,
+"claims": [
+{
+"source": "Project Condign, Volume 2 Working Paper No. 9 title; Volume 3 header, released MoD copy",
+"text": "Project Condign's product was issued as 'DIS Scientific & Technical Memorandum 55/2/00'.",
+"tier": 1
+},
+{
+"source": "Unidentified Aerial Phenomena in the UK Air Defence Region, Executive Summary, Study Recommendations, para 15",
+"text": "Key Recommendation: 'It should no longer be a requirement for DI55 to monitor UAP reports as they do not demonstrably provide information useful to Defence Intelligence.'",
+"tier": 1
+},
+{
+"source": "Unidentified Aerial Phenomena in the UK Air Defence Region, Executive Summary, Subsidiary Recommendations",
+"text": "Subsidiary recommendation: 'it is recommended that there be no further requirement for maintaining the database.'",
+"tier": 1
+}
+],
+"cls": "institution",
+"cluster": "ic",
+"connections": [
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": "2000",
+"dateStart": "1996",
+"direction": "in",
+"edgeLabel": "study commissioned by and reporting on DI55",
+"id": "project-condign",
+"l0": false,
+"label": "Project Condign",
+"note": "The product was issued as DIS Scientific & Technical Memorandum 55/2/00 and its key recommendation was addressed to DI55's own tasking.",
+"sources": [
+{
+"date": "2006-05-15",
+"name": "Condign Executive Summary",
+"url": "https://archive.org/download/condign-vol-2-1-258/uap_vol1_pgs87to99_ch4to5_djvu.txt"
+}
+],
+"tier": "B",
+"type": "programmatic"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "2000",
+"dateStart": "1960s",
+"direction": "in",
+"edgeLabel": "public desk fed the intelligence section's database",
+"id": "uk-mod-ufo-desk",
+"l0": false,
+"label": "Ministry of Defence UFO Desk (Secretariat (Air Staff) / Directorate of Air Staff)",
+"note": "Condign's database was built from approximately 10,000 reports accumulated by DI55 from the reporting stream the desk handled.",
+"sources": [
+{
+"date": "2006-05-15",
+"name": "Condign Executive Summary",
+"url": "https://archive.org/download/condign-vol-2-1-258/uap_vol1_pgs87to99_ch4to5_djvu.txt"
+}
+],
+"tier": "C",
+"type": "institutional"
+}
+],
+"coords": null,
+"dateEnd": "2000",
+"dateStart": "1960s",
+"deg": 2,
+"denials": [],
+"desc": "DI55 was the section of the Directorate of Scientific and Technical Intelligence within the UK Defence Intelligence Staff that quietly held the analytical side of the British UAP question while the MoD's public UFO desk handled correspondence. It is the British counterpart to the American arrangement in which a public project absorbed the reports and an intelligence organisation kept the analysis. DI55 accumulated the roughly 10,000 sighting reports from which the Project Condign study built its database, and Condign's product was issued as a Defence Intelligence Staff Scientific and Technical Memorandum, numbered 55/2/00 - the '55' being DI55's own designator. The report's own recommendation section is a self-liquidation order: its single key recommendation was that 'it should no longer be a requirement for DI55 to monitor UAP reports as they do not demonstrably provide information useful to Defence Intelligence', with a subsidiary recommendation that the database not be maintained. The volume 3 chapter on other countries carries the classification banner UK SECRET UK EYES ONLY and contains a paragraph on the United States and Canada whose operative sentence is a denial - and whose following four lines are redacted.",
+"domains": [
+"w2-international"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "uk-di55",
+"l0": false,
+"label": "DI55 - Defence Intelligence Staff, Directorate of Scientific and Technical Intelligence",
+"locLabel": null,
+"members": null,
+"short": "DI55 - Defence Intelligence Staff, Directorate of Scientific and Technical Intelligence",
+"sources": [
+{
+"date": "2006-05-15",
+"name": "Project Condign - Executive Summary / Ch.4-5 (OCR text)",
+"url": "https://archive.org/download/condign-vol-2-1-258/uap_vol1_pgs87to99_ch4to5_djvu.txt"
+},
+{
+"date": "2006-05-15",
+"name": "Project Condign - Volumes 1-3, Internet Archive",
+"url": "https://archive.org/details/condign-vol-2-1-258"
+}
+],
+"sub": "DIS section that collected and analysed UAP reports and commissioned Project Condign",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 546 of 1027, score 28). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A2/D2.",
+"timeline": []
+}

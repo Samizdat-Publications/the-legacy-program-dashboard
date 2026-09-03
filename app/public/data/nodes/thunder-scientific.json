@@ -1,0 +1,88 @@
+{
+"A": 0,
+"C": 1,
+"D": 1,
+"band": null,
+"claims": [
+{
+"source": "Contemporaneous Albuquerque press coverage and the company's own corporate record",
+"text": "Bennewitz founded and ran Thunder Scientific Corporation, an Albuquerque instrumentation firm whose customers included the US Air Force, from a property overlooking the eastern side of Kirtland AFB.",
+"tier": 2
+},
+{
+"source": "Inference from the mismatch between the resources committed (a serving AFOSI agent over eight years) and the threat a mere eccentric would pose.",
+"text": "Bennewitz's technical capability and vendor access, not his beliefs, are what made him a counterintelligence problem worth a multi-year operation.",
+"tier": 3
+}
+],
+"cls": "institution",
+"cluster": "other",
+"connections": [
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "1988",
+"dateStart": "1961",
+"direction": "in",
+"edgeLabel": "Bennewitz founded and ran Thunder Scientific, a USAF instrumentation vendor",
+"id": "paul-bennewitz",
+"l0": false,
+"label": "Paul Frederick Bennewitz",
+"note": "The company's location gave sightlines to the Manzano Weapons Storage Area at Kirtland; Bennewitz had the technical capability to record and characterise emissions.",
+"sources": [
+{
+"date": "2021-05-20",
+"name": "Richard Doty Personnel File - New Mexico State Police [321 pages], NM Inspection of Public Records Act release",
+"url": "https://www.theblackvault.com/documentarchive/richard-doty-personnel-file-new-mexico-state-police/"
+}
+],
+"tier": "B",
+"type": "institutional"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "1961",
+"deg": 1,
+"denials": [],
+"desc": "The humidity and temperature calibration instrumentation company Paul Bennewitz founded and ran in Albuquerque, located on property with sightlines to the eastern boundary of Kirtland Air Force Base, including the Manzano Weapons Storage Area. Thunder Scientific was a legitimate technical firm whose customers included the US Air Force - which is exactly what makes the Bennewitz case unusual and unusually damning. The man AFOSI ran a multi-year disinformation operation against was not a hobbyist. He was a credentialed physicist running an instrumentation business that sold to the Air Force, with the technical capability to record and characterise electromagnetic emissions, positioned with a clear line of sight to a nuclear weapons storage complex. That combination - technical competence, physical proximity to the sensitive site, and a documented USAF vendor relationship - is what he was equipped to bring to the problem, and it is what the operation against him neutralised.",
+"domains": [
+"_rs-archive-mirror",
+"history-1970s-2000s"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "thunder-scientific",
+"l0": false,
+"label": "Thunder Scientific Corporation",
+"locLabel": null,
+"members": null,
+"short": "Thunder Scientific Corporation",
+"sources": [
+{
+"date": "2026-07-05",
+"name": "Archived: AARO, 'Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP), Volume I' (DOPSR-2024-0263) (Wayback 2026-07-05)",
+"url": "https://web.archive.org/web/20260705034310/https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF"
+},
+{
+"date": "2021-05-20",
+"name": "Richard Doty Personnel File - New Mexico State Police [321 pages], NM Inspection of Public Records Act release",
+"url": "https://www.theblackvault.com/documentarchive/richard-doty-personnel-file-new-mexico-state-police/"
+},
+{
+"date": "2024-03-08",
+"name": "AARO, 'Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP), Volume I' (DOPSR-2024-0263)",
+"url": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF"
+}
+],
+"sub": "Albuquerque instrumentation firm founded by Paul Bennewitz; USAF customer base",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 984 of 1027, score 10). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A0/D1.",
+"timeline": []
+}

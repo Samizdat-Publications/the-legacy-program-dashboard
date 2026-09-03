@@ -1,0 +1,274 @@
+{
+"A": 2,
+"C": 3,
+"D": 1,
+"band": null,
+"claims": [
+{
+"source": "American Alchemy with Jesse Michels, 'Senate Staffer Thinks Tesla and Nazi Technology is Being Hidden (ft. Kirk McConnell)', published 2 April 2025, at 1:09:33",
+"text": "On American Alchemy with Jesse Michels, 2 April 2025, at 1:09:33, the retired Senate Armed Services Committee staffer Kirk McConnell said that the contract forming AARO's advisory group 'was let through Oak Ridge' while Sean Kirkpatrick directed AARO. If such a task order exists it would carry a number and appear on USAspending; none was located here.",
+"tier": 2
+},
+{
+"source": "AARO UAP Records/Information Papers page, aaro.mil",
+"text": "AARO states: 'In 2022, The All-domain Anomaly Resolution Office (AARO) contracted with Oak Ridge National Laboratory (ORNL) to conduct materials testing on a magnesium (Mg) alloy specimen.'",
+"tier": 1
+},
+{
+"source": "AARO UAP Records/Information Papers page, aaro.mil — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
+"text": "The resulting report is titled 'ORNL Synopsis: Analysis of a Metallic Specimen', dated April 2024, concerning a specimen publicly alleged to be from a 1947 crashed extraterrestrial vehicle.",
+"tier": 2
+},
+{
+"source": "NSF NCSES Master Government List of FFRDCs; USAspending.gov; CRS Report R44629",
+"text": "UT-Battelle, LLC has administered Oak Ridge National Laboratory since 1 April 2000 under DOE contract DEAC0500OR22725, with recorded obligations of approximately $42.3 billion and a period of performance running to 2030; ORNL was funded at approximately $2,091.2 million in FY2024.",
+"tier": 1
+},
+{
+"source": "Gizmodo reporting on the published ORNL synopsis, 11 July 2024",
+"text": "Neither AARO nor ORNL could verify the specimen's historical origin, and records of failed magnesium alloy designs are scant.",
+"tier": 2
+},
+{
+"source": "Public record of Kirkpatrick's departure and appointment",
+"text": "Sean Kirkpatrick departed AARO on 1 December 2023 and became Chief Technology Officer for Defense and Intelligence Programs at Oak Ridge National Laboratory.",
+"tier": 1
+}
+],
+"cls": "institution",
+"cluster": "other",
+"connections": [
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "2024",
+"dateStart": "2022",
+"direction": "in",
+"edgeLabel": "AARO contracted ORNL in 2022 to test the magnesium alloy specimen",
+"id": "aaro",
+"l0": true,
+"label": "All-domain Anomaly Resolution Office (AARO)",
+"note": "AARO's own words: 'In 2022, The All-domain Anomaly Resolution Office (AARO) contracted with Oak Ridge National Laboratory (ORNL) to conduct materials testing on a magnesium (Mg) alloy specimen.'",
+"sources": [
+{
+"date": "2026-07-08",
+"name": "AARO UAP Records",
+"url": "https://www.aaro.mil/UAP-Records/"
+}
+],
+"tier": "A",
+"type": "custody"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2000",
+"direction": "in",
+"edgeLabel": "Battelle co-operates ORNL through UT-Battelle, LLC",
+"id": "battelle",
+"l0": true,
+"label": "Battelle Memorial Institute",
+"note": "Contract DEAC0500OR22725, recorded at approximately $42.3 billion, running 1999-2030.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "USAspending.gov",
+"url": "https://www.usaspending.gov/"
+},
+{
+"date": "2026-08-12",
+"name": "NSF NCSES FFRDC master list",
+"url": "https://ncses.nsf.gov/resource/master-gov-lists-ffrdc"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "2024",
+"dateStart": "2022",
+"direction": "in",
+"edgeLabel": "DOE laboratory performed AARO's metallic specimen analysis",
+"id": "doe",
+"l0": true,
+"label": "United States Department of Energy",
+"note": "AARO's published materials analysis synopsis was produced with Oak Ridge National Laboratory, a DOE laboratory - meaning DOE analytical capability was the government's chosen instrument for testing alleged recovered material.",
+"sources": [
+{
+"date": "2024-03-08",
+"name": "AARO Historical Record Report Volume I (DOPSR-2024-0263)",
+"url": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF"
+}
+],
+"tier": "A",
+"type": "research"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": "2024",
+"direction": "out",
+"edgeLabel": "Produced 'ORNL Synopsis: Analysis of a Metallic Specimen', April 2024",
+"id": "ornl-metallic-specimen-report",
+"l0": false,
+"label": "ORNL Synopsis: Analysis of a Metallic Specimen",
+"note": "Released publicly July 2024; concluded the material is a terrestrial magnesium alloy, while stating that neither AARO nor ORNL could verify the specimen's historical origin.",
+"sources": [
+{
+"date": "2026-07-08",
+"name": "AARO UAP Records",
+"url": "https://www.aaro.mil/UAP-Records/"
+},
+{
+"date": "2024-07-11",
+"name": "Gizmodo",
+"url": "https://gizmodo.com/pentagon-publishes-report-on-material-from-a-reported-alien-aircraft-2000469433"
+}
+],
+"tier": "B",
+"type": "custody"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "AARO's founding director left government for the laboratory that analysed AARO's specimen",
+"id": "sean-kirkpatrick",
+"l0": false,
+"label": "Sean M. Kirkpatrick",
+"note": "Kirkpatrick departed AARO on 1 December 2023 and became Chief Technology Officer for Defense and Intelligence Programs at ORNL, a UT-Battelle laboratory that had supported AARO during his tenure.",
+"sources": [
+{
+"date": "2026-07-08",
+"name": "AARO UAP Records",
+"url": "https://www.aaro.mil/UAP-Records/"
+}
+],
+"tier": "A",
+"type": "behavioral"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "2023",
+"direction": "in",
+"edgeLabel": "post-government employment at the DOE lab that supported AARO and later held the UAP material sample",
+"id": "sean-kirkpatrick",
+"l0": false,
+"label": "Sean M. Kirkpatrick",
+"note": "Kirkpatrick became CTO for Defense and Intelligence Programs at ORNL, operated by UT-Battelle, immediately after leaving AARO. The post-employment question under 18 U.S.C. 207 has been raised publicly and never adjudicated.",
+"sources": [
+{
+"date": "2025-09-05",
+"name": "The Good Trouble Show",
+"url": "https://thegoodtroubleshow.substack.com/p/ufo-cover-up-ex-pentagon-chief-now"
+},
+{
+"date": "2026-08-12",
+"name": "Wikipedia - Sean M. Kirkpatrick",
+"url": "https://en.wikipedia.org/wiki/Sean_M._Kirkpatrick"
+}
+],
+"tier": "A",
+"type": "funding"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "2023-12",
+"direction": "in",
+"edgeLabel": "chief technology officer for defense and intelligence programs",
+"id": "sean-kirkpatrick",
+"l0": false,
+"label": "Sean M. Kirkpatrick",
+"note": "The first AARO director joined Oak Ridge National Laboratory in December 2023 - the laboratory that performed both of AARO's published specimen analyses.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Wikipedia, All-domain Anomaly Resolution Office",
+"url": "https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office"
+}
+],
+"tier": "A",
+"type": "institutional"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "1943",
+"deg": 5,
+"denials": [],
+"desc": "Oak Ridge is where the modern government sent the material. In 2022 the All-domain Anomaly Resolution Office contracted ORNL to conduct materials testing on a magnesium alloy specimen publicly alleged to have come from a crashed extraterrestrial vehicle in 1947 and to exhibit extraordinary properties. ORNL's findings were published as 'ORNL Synopsis: Analysis of a Metallic Specimen' in April 2024 and released publicly in July 2024: the specimen was a terrestrial magnesium alloy, though neither AARO nor ORNL could verify the specimen's historical origin, and records of failed magnesium alloy designs from the relevant era were described as scant. ORNL is administered by UT-Battelle, LLC - a partnership of the University of Tennessee and Battelle Memorial Institute - under DOE contract DEAC0500OR22725, recorded on USAspending at approximately 42.3 billion dollars across the life of the contract, and was funded at roughly 2.09 billion dollars in FY2024. In December 2023, AARO's founding director Sean Kirkpatrick left government and immediately became Chief Technology Officer for Defense and Intelligence Programs at ORNL - the laboratory that had performed AARO's materials analysis on his watch. That the government's only publicly acknowledged analysis of alleged recovered material was performed by a Battelle-operated laboratory, and that the official who commissioned it then went to work there, is the single most concrete instance on this board of the FFRDC layer absorbing both the evidence and the officials.",
+"domains": [
+"_rs-archive-mirror",
+"ffrdcs"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "oak-ridge-national-laboratory",
+"l0": false,
+"label": "Oak Ridge National Laboratory (UT-Battelle, LLC)",
+"locLabel": null,
+"members": null,
+"short": "Oak Ridge National Laboratory (UT-Battelle, LLC)",
+"sources": [
+{
+"date": "2025-04-02",
+"name": "American Alchemy with Jesse Michels, 'Senate Staffer Thinks Tesla and Nazi Technology is Being Hidden (ft. Kirk McConnell)' (audio)",
+"url": "https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL9058812583.mp3?updated=1752174755"
+},
+{
+"date": "2026-07-14",
+"name": "Archived: AARO - UAP Records / Information Papers (Wayback 2026-07-14)",
+"url": "https://web.archive.org/web/20260714192654/https://www.aaro.mil/UAP-Records/"
+},
+{
+"date": "2026-07-08",
+"name": "AARO - UAP Records / Information Papers",
+"url": "https://www.aaro.mil/UAP-Records/"
+},
+{
+"date": "2024-07-11",
+"name": "NewsNation - UAP metal fragment not alien in origin: AARO",
+"url": "https://www.newsnationnow.com/space/ufo/metal-uap-not-alien/"
+},
+{
+"date": "2024-07-11",
+"name": "Gizmodo - Pentagon Publishes Report on Material From an Alleged Alien Aircraft",
+"url": "https://gizmodo.com/pentagon-publishes-report-on-material-from-a-reported-alien-aircraft-2000469433"
+},
+{
+"date": "2026-08-12",
+"name": "NSF NCSES - Master Government List of Federally Funded R&D Centers",
+"url": "https://ncses.nsf.gov/resource/master-gov-lists-ffrdc"
+}
+],
+"sub": "DOE FFRDC administered by UT-Battelle, LLC since 1 April 2000; Oak Ridge, TN; contract DEAC0500OR22725",
+"tier": "A",
+"tierRationale": "Re-graded A on a global pass (rank 143 of 1027, score 51). 7 connections, 3 of them custody/witness/funding/programmatic. Axes C3/A2/D1.",
+"timeline": [
+{
+"date": "2022-01-01",
+"id": "tl-ffrdc-2022-aaro-ornl",
+"label": "AARO contracts Oak Ridge to test the magnesium specimen",
+"precision": "year",
+"strand": "program",
+"text": "The Pentagon's UAP office sends its one publicly acknowledged material sample to a laboratory operated by UT-Battelle - a partnership including the same Battelle Memorial Institute that analysed the Air Force's UFO data in the 1950s.",
+"tier": "A"
+}
+]
+}

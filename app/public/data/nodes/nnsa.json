@@ -1,0 +1,129 @@
+{
+"A": 3,
+"C": 3,
+"D": 0,
+"band": null,
+"claims": [
+{
+"source": "American Alchemy with Jesse Michels, 'Presidential Advisor: I Directly Handled UFO Material (Ft. Harald Malmgren)', published 23 April 2025, at 1:08:45",
+"text": "On American Alchemy with Jesse Michels, 23 April 2025, at 1:08:45, Michels said that a Freedom of Information Act request was sent to the National Nuclear Security Administration for all records that 'mention or relate to' Starfish Prime together with UFO, AP, UAV, AAV or any acronym used by the Atomic Energy Commission at the time for unidentified flying objects, and that the NNSA reply of June 2022 reads 'it was determined that an additional review of your case by the subject matter expert with jurisdiction regarding responsive records was required'. The response letter itself was not opened from this environment and no case number is given on air.",
+"tier": 2
+},
+{
+"source": "NNSA, About NNSA",
+"text": "NNSA is 'a semi-autonomous agency within the U.S. Department of Energy responsible for enhancing national security through the military application of nuclear science', 'Established by Congress in 2000'.",
+"tier": 1
+},
+{
+"source": "Inference from the structure of DOE/NNSA site operation and Restricted Data authority",
+"text": "The NNSA complex is the most plausible custodial architecture for concealed material because it combines contractor operation, an independent clearance and classification regime, armed protective forces and a legitimate cover mission that explains every observable security feature. Reasoning: it satisfies all custody requirements without requiring any DoD SAP entry.",
+"tier": 3
+}
+],
+"cls": "institution",
+"cluster": "other",
+"connections": [
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2000",
+"direction": "out",
+"edgeLabel": "Semi-autonomous agency within DOE established by Congress in 2000",
+"id": "doe",
+"l0": true,
+"label": "United States Department of Energy",
+"note": "NNSA describes itself as 'a semi-autonomous agency within the U.S. Department of Energy responsible for enhancing national security through the military application of nuclear science'.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "NNSA - About NNSA",
+"url": "https://www.energy.gov/nnsa/about-nnsa"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "legislation",
+"dateEnd": null,
+"dateStart": "1999-10-05",
+"direction": "in",
+"edgeLabel": "The Administrator may waive both the reports and the 30-day clock",
+"id": "usc-50-2426",
+"l0": false,
+"label": "50 U.S.C. 2426 — Congressional Oversight of DOE/NNSA Special Access Programs",
+"note": "50 U.S.C. 2426(e)(1) permits waiver of subsections (a), (b) and (c) and, uniquely, of the report-and-wait requirement in subsection (f).",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "50 U.S.C. 2426",
+"url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2426&num=0&edition=prelim"
+}
+],
+"tier": "B",
+"type": "legislative"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "2000-03-01",
+"deg": 2,
+"denials": [],
+"desc": "NNSA is 'a semi-autonomous agency within the U.S. Department of Energy responsible for enhancing national security through the military application of nuclear science', established by Congress in 2000 in the wake of the Wen Ho Lee security failures at Los Alamos. It operates the weapons complex through management and operating contracts: Los Alamos National Laboratory, Sandia National Laboratories, Lawrence Livermore National Laboratory, the Nevada National Security Site, the Pantex Plant, the Y-12 National Security Complex, the Kansas City National Security Campus and the Savannah River Site. Every one of those facilities is contractor-operated on government-owned land, carries an armed protective force, operates under DOE's own clearance regime rather than the DoD's, and holds material under Restricted Data authority. NNSA is thus the single most capable custodial architecture in the United States government for material that must be stored, guarded, machined and analysed without appearing in any Department of Defense special access program list. The historical UAP record intersects it repeatedly: the 1948-1951 green fireball events centred on LosAlamos, Sandia and the Kirtland complex; the 1980 Manzano Weapons Storage Area intrusions; the persistent identification of the Nevada Test Site and its S-4 area in retrieval testimony; and the modern use of DOE laboratory analytical capability for AARO's materials work.",
+"domains": [
+"_rs-archive-mirror",
+"w2-agencies"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "2",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "nnsa",
+"l0": false,
+"label": "National Nuclear Security Administration",
+"locLabel": null,
+"members": null,
+"short": "National Nuclear Security Administration",
+"sources": [
+{
+"date": "2025-04-23",
+"name": "American Alchemy with Jesse Michels, 'Presidential Advisor: I Directly Handled UFO Material (Ft. Harald Malmgren)' (audio)",
+"url": "https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL1090282889.mp3?updated=1752180350"
+},
+{
+"date": "2026-07-05",
+"name": "Archived: AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I (DOPSR-2024-0263) (Wayback 2026-07-05)",
+"url": "https://web.archive.org/web/20260705034310/https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF"
+},
+{
+"date": "2026-08-12",
+"name": "NNSA - About NNSA",
+"url": "https://www.energy.gov/nnsa/about-nnsa"
+},
+{
+"date": "2024-03-08",
+"name": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I (DOPSR-2024-0263)",
+"url": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF"
+}
+],
+"sub": "Semi-autonomous DOE agency established by Congress in 2000; operator of the nuclear weapons complex",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 497 of 1027, score 29). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C3/A3/D0.",
+"timeline": [
+{
+"date": "2000-03-01",
+"id": "ag-tl-2000-nnsa",
+"label": "NNSA established by Congress",
+"precision": "month",
+"strand": "program",
+"text": "The nuclear weapons complex is placed under a semi-autonomous agency inside DOE, consolidating the most capable custodial architecture in the government outside the DoD SAP system.",
+"tier": "B"
+}
+]
+}

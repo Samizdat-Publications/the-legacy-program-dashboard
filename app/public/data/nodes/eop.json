@@ -1,0 +1,224 @@
+{
+"A": 3,
+"C": 1,
+"D": 3,
+"band": null,
+"claims": [
+{
+"source": "Executive Order 14347, 5 September 2025",
+"text": "Executive Order 14347, signed 5 September 2025, authorised 'Department of War' as a secondary designation and directed a recommendation within 60 days on the legislative actions needed to make the change permanent.",
+"tier": 1
+},
+{
+"source": "Department of War release, 8 May 2026, and the war.gov/UFO portal",
+"text": "The Department of War published UAP files through the PURSUE portal at war.gov/UFO, with the first release announced on 8 May 2026.",
+"tier": 1
+},
+{
+"source": "Contemporary reporting of the February 2026 presidential directive",
+"text": "In February 2026 the President directed the Pentagon and federal agencies to identify and release files on UAP and extraterrestrial matters.",
+"tier": 2
+},
+{
+"source": "Inference from the distinct legal bases of EO 13526 and the Atomic Energy Act",
+"text": "Presidential declassification authority under Executive Order 13526 does not reach Restricted Data created under the Atomic Energy Act, so a 2026 UAP declassification directive cannot compel release of any material held under DOE nuclear classification authority. Reasoning: the two systems have separate statutory and executive foundations.",
+"tier": 3
+}
+],
+"cls": "institution",
+"cluster": "other",
+"connections": [
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2025-09-05",
+"direction": "out",
+"edgeLabel": "EO 14347 renamed the department by presidential signature",
+"id": "dod",
+"l0": true,
+"label": "United States Department of Defense (secondary designation: Department of War)",
+"note": "Executive Order 14347 authorised 'Department of War' as a secondary designation and directed a recommendation within 60 days on permanent statutory renaming.",
+"sources": [
+{
+"date": "2025-09-05",
+"name": "Executive Order 14347, Restoring the United States Department of War",
+"url": "https://www.whitehouse.gov/presidential-actions/2025/09/restoring-the-united-states-department-of-war/"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 3,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "1954",
+"direction": "in",
+"edgeLabel": "Restricted Data authority sits outside presidential EO declassification power",
+"id": "doe",
+"l0": true,
+"label": "United States Department of Energy",
+"note": "Restricted Data under the Atomic Energy Act is classified by statute, not by executive order. A UAP declassification directive operating on EO 13526 information cannot reach it. Reasoning: the two classification systems have separate legal foundations.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "NNSA - About NNSA",
+"url": "https://www.energy.gov/nnsa/about-nnsa"
+},
+{
+"date": "2025-09-05",
+"name": "Executive Order 14347, Restoring the United States Department of War",
+"url": "https://www.whitehouse.gov/presidential-actions/2025/09/restoring-the-united-states-department-of-war/"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "2026-02",
+"dateStart": "2025-09-05",
+"direction": "in",
+"edgeLabel": "Signed EO 14347 and issued the 2026 UAP release directives",
+"id": "donald-trump",
+"l0": false,
+"label": "Donald J. Trump",
+"note": "EO 14347 is signed; the February 2026 UAP directives are attested by contemporary reporting and by the Department's subsequent PURSUE releases.",
+"sources": [
+{
+"date": "2025-09-05",
+"name": "Executive Order 14347, Restoring the United States Department of War",
+"url": "https://www.whitehouse.gov/presidential-actions/2025/09/restoring-the-united-states-department-of-war/"
+},
+{
+"date": "2026-08-07",
+"name": "Department of War - PURSUE portal (war.gov/UFO)",
+"url": "https://www.war.gov/UFO/"
+},
+{
+"date": "2026-05-08",
+"name": "Department of War releases UAP files",
+"url": "https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 2,
+"cls": "document",
+"dateEnd": "2026-08",
+"dateStart": "2026-02",
+"direction": "out",
+"edgeLabel": "Presidential direction produced the PURSUE release portal",
+"id": "war-gov-ufo-portal",
+"l0": false,
+"label": "war.gov/UFO release portal",
+"note": "Following the February 2026 presidential directive to identify and release UAP files, the Department of War established the PURSUE portal at war.gov/UFO and published its first tranche on 8 May 2026.",
+"sources": [
+{
+"date": "2026-08-07",
+"name": "Department of War - PURSUE portal (war.gov/UFO)",
+"url": "https://www.war.gov/UFO/"
+},
+{
+"date": "2026-05-08",
+"name": "Department of War releases UAP files",
+"url": "https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/"
+}
+],
+"tier": "C",
+"type": "institutional"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "1939-09-08",
+"deg": 4,
+"denials": [],
+"desc": "The Executive Office of the President was created by Reorganization Act authority in 1939 and is the apparatus through which presidential classification authority is exercised: the National Security Council, established by the National Security Act of 1947, the Office of Management and Budget, which builds and conceals the black budget inside the President's request, and the Office of Science and Technology Policy. The classification system that governs almost all UAP material is a creature of executive order - currently Executive Order 13526 - which means the President can unilaterally declassify it, and the fact that no President did so for seventy-eight years is a datum about the presidency, not about the material. Successive administrations have touched the file: the Truman administration through the 1947-1952 Air Force projects, the Eisenhower administration through the Robertson Panel, the Carter administration through a 1977 White House inquiry, and the Clinton administration through John Podesta's push for declassification. In 2026 the EOP became the principal engine of the record: on 19-20 February 2026 the President directed the Pentagon and federal agencies to identify and release UAP and extraterrestrial files, a separate directive addressed the waiver of UAP-related nondisclosure agreements, and the Department of War stood up the PURSUE release portal at war.gov/UFO, publishing its first tranche on 8 May 2026. Executive Order 14347 of 5 September 2025 - the Department of War renaming order - is a reminder of the same power in a different register: the President can rename the department that holds the files by signature, but he cannot by signature reach Restricted Data held under the Atomic Energy Act.",
+"domains": [
+"_rs-archive-mirror",
+"w2-agencies"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "eop",
+"l0": false,
+"label": "Executive Office of the President",
+"locLabel": null,
+"members": null,
+"short": "Executive Office of the President",
+"sources": [
+{
+"date": "2026-08-07",
+"name": "Archived: Executive Order 14347, Restoring the United States Department of War (Wayback 2026-08-07)",
+"url": "https://web.archive.org/web/20260807085102/https://www.whitehouse.gov/presidential-actions/2025/09/restoring-the-united-states-department-of-war/"
+},
+{
+"date": "2026-08-10",
+"name": "Archived: Department of War - PURSUE portal (war.gov/UFO) (Wayback 2026-08-10)",
+"url": "https://web.archive.org/web/20260810202017/https://www.war.gov/UFO/"
+},
+{
+"date": "2026-07-23",
+"name": "Archived: Department of War releases Unidentified Anomalous Phenomena files (Wayback 2026-07-23)",
+"url": "https://web.archive.org/web/20260723072235/https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/"
+},
+{
+"date": "2025-09-05",
+"name": "Executive Order 14347, Restoring the United States Department of War",
+"url": "https://www.whitehouse.gov/presidential-actions/2025/09/restoring-the-united-states-department-of-war/"
+},
+{
+"date": "2026-08-07",
+"name": "Department of War - PURSUE portal (war.gov/UFO)",
+"url": "https://www.war.gov/UFO/"
+},
+{
+"date": "2026-05-08",
+"name": "Department of War releases Unidentified Anomalous Phenomena files",
+"url": "https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/"
+}
+],
+"sub": "The White House staff apparatus; source of classification authority and of the 2026 disclosure directives",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 411 of 1027, score 32). 4 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A3/D3.",
+"timeline": [
+{
+"date": "2025-09-05",
+"id": "ag-tl-2025-eo14347",
+"label": "Executive Order 14347 signed",
+"precision": "day",
+"strand": "program",
+"text": "'Restoring the United States Department of War' authorises secondary designations while leaving statutory references to the Department of Defense controlling, and directs a recommendation on permanent renaming within 60 days.",
+"tier": "A"
+},
+{
+"date": "2026-02-20",
+"id": "ag-tl-2026-directive",
+"label": "Presidential directive to release UAP files",
+"precision": "day",
+"strand": "oversight",
+"text": "The President directs the Pentagon and federal agencies to identify and release files on UAP and extraterrestrial matters - a directive that operates on executive-order classification and therefore cannot reach Restricted Data held by DOE.",
+"tier": "B"
+},
+{
+"date": "2026-05-08",
+"id": "ag-tl-2026-pursue",
+"label": "Department of War publishes the first PURSUE tranche",
+"precision": "day",
+"strand": "oversight",
+"text": "The war.gov/UFO portal opens with the first release of UAP files. Senator Gillibrand issues a statement the same day.",
+"tier": "A"
+}
+]
+}

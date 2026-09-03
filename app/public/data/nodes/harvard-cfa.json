@@ -1,0 +1,128 @@
+{
+"A": 0,
+"C": 0,
+"D": 2,
+"band": null,
+"claims": [
+{
+"source": "Published institutional record",
+"text": "Loeb has directed the Institute for Theory and Computation at the Harvard-Smithsonian Center for Astrophysics since 2007; the Galileo Project's first telescope was installed at Harvard College Observatory in 2022.",
+"tier": 2
+}
+],
+"cls": "institution",
+"cluster": "research",
+"connections": [
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "Loeb directs the Institute for Theory and Computation at the CfA",
+"id": "avi-loeb",
+"l0": false,
+"label": "Abraham 'Avi' Loeb",
+"note": "The paper's affiliation block gives Loeb both affiliations at once - 'Abraham Loeb 1,2', where 1 is 'Harvard-Smithsonian Center for Astrophysics, 60 Garden Street, Cambridge, MA 02138' and 2 is the Galileo Project at the same address - and footnotes him 'Head of the Galileo Project'. This is his institutional home stated in a peer-reviewed record, not on a project page.",
+"sources": [
+{
+"date": "2025-01-28",
+"name": "Domine et al., 'Commissioning an All-Sky Infrared Camera Array for Detection of Airborne Objects', Sensors 2025, arXiv:2411.07956, author affiliations",
+"url": "https://arxiv.org/abs/2411.07956"
+},
+{
+"date": null,
+"name": "https://galileo.hsites.harvard.edu/people/avi-loeb",
+"url": "https://galileo.hsites.harvard.edu/people/avi-loeb"
+},
+{
+"date": null,
+"name": "https://www.cfa.harvard.edu/research/galileo-project",
+"url": "https://www.cfa.harvard.edu/research/galileo-project"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "Host institution of the Galileo Project",
+"id": "galileo-project",
+"l0": true,
+"label": "The Galileo Project",
+"note": "The two share more than a host: the instrument paper lists the Center for Astrophysics and the Galileo Project as separate affiliations at the SAME address, 60 Garden Street, Cambridge, Massachusetts, with six of its sixteen authors carrying both and correspondence going to a cfa.harvard.edu address. The project's own overview paper captions its first all-sky observatory as sitting 'on the roof of the Harvard College Observatory (Cambridge, MA)'. The relationship is a hosted research programme with shared staff, not an administrative label.",
+"sources": [
+{
+"date": "2025-01-28",
+"name": "Domine et al., Sensors 2025, arXiv:2411.07956, author affiliations",
+"url": "https://arxiv.org/abs/2411.07956"
+},
+{
+"date": "2022-09-02",
+"name": "Loeb and Laukien, 'Overview of the Galileo Project', arXiv:2209.02479, Figure 1",
+"url": "https://arxiv.org/abs/2209.02479"
+},
+{
+"date": null,
+"name": "https://www.cfa.harvard.edu/research/galileo-project",
+"url": "https://www.cfa.harvard.edu/research/galileo-project"
+},
+{
+"date": null,
+"name": "https://galileo.hsites.harvard.edu/about",
+"url": "https://galileo.hsites.harvard.edu/about"
+}
+],
+"tier": "B",
+"type": "institutional"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "2021",
+"deg": 2,
+"denials": [],
+"desc": "The Harvard-Smithsonian Center for Astrophysics is the institutional host for the modern astronomical wing of UAP research. Avi Loeb has directed its Institute for Theory and Computation since 2007, and the Galileo Project's first observatory was installed at Harvard College Observatory in 2022. Its relevance to this board is that it supplies something the private technical layer otherwise lacks: an institutional address with standing in the mainstream literature, editorial access to venues such as the Journal of Astronomical Instrumentation and Research Notes of the AAS, and the ability to withstand a contested publication cycle in public - as the IM1 spherule dispute demonstrated between 2023 and 2025. It is the counter-model to EarthTech International: everything it does is published, and everything it publishes can be attacked.",
+"domains": [
+"scientists-technical"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "harvard-cfa",
+"l0": false,
+"label": "Harvard-Smithsonian Center for Astrophysics",
+"locLabel": null,
+"members": null,
+"short": "Harvard-Smithsonian Center for Astrophysics",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Wikipedia: Avi Loeb",
+"url": "https://en.wikipedia.org/wiki/Avi_Loeb"
+},
+{
+"date": "2026-08-12",
+"name": "Wikipedia: The Galileo Project",
+"url": "https://en.wikipedia.org/wiki/The_Galileo_Project"
+},
+{
+"date": "2026-08-12",
+"name": "The Galileo Project, Harvard University",
+"url": "https://projects.iq.harvard.edu/galileo"
+}
+],
+"sub": "Host institution of the Galileo Project's first observatory and of Loeb's Institute for Theory and Computation",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 1013 of 1027, score 8). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D2.",
+"timeline": []
+}

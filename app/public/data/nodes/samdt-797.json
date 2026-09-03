@@ -1,0 +1,448 @@
+{
+"A": 2,
+"C": 2,
+"D": 3,
+"band": "custody",
+"claims": [
+{
+"source": "CREC-2023-07-13-pt1-PgS2953",
+"text": "Congressional Record, 13 July 2023: 'SA 797. Mr. SCHUMER (for himself, Mr. Rounds, Mr. Rubio, Mrs. Gillibrand, Mr. Young, and Mr. Heinrich) submitted an amendment intended to be proposed by him to the bill S. 2226 ... which was ordered to lie on the table; as follows: At the appropriate place, insert the following: TITLE _--UNIDENTIFIED ANOMALOUS PHENOMENA DISCLOSURE SEC. __01. SHORT TITLE. This title may be cited as the \"Unidentified Anomalous Phenomena Disclosure Act of 2023\" or the \"UAP Disclosure Act of 2023\".'",
+"tier": 1
+},
+{
+"source": "Congress.gov amendment and cosponsor records, S.Amdt. 797, 118th Congress",
+"text": "Submitted 13 July 2023 by Schumer with Rounds, Rubio, Gillibrand, Young and Heinrich as original cosponsors, all sponsorship dates 13 July 2023.",
+"tier": 1
+},
+{
+"source": "Congressional Record, 13 July 2023, S2953, GPO",
+"text": "The printed text appears at Congressional Record Vol. 169, No. 120, pages S2953-S2959, and is short-titled the 'Unidentified Anomalous Phenomena Disclosure Act of 2023' or 'UAP Disclosure Act of 2023'.",
+"tier": 1
+},
+{
+"source": "Congress.gov actions record, S.Amdt. 797",
+"text": "The Congress.gov action record for S.Amdt. 797 shows only three actions, all dated 13 July 2023, and no vote.",
+"tier": 1
+}
+],
+"cls": "document",
+"cluster": "other",
+"connections": [
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "2023",
+"dateStart": "2023",
+"direction": "in",
+"edgeLabel": "Sponsor of record; filed 13 July 2023",
+"id": "chuck-schumer",
+"l0": false,
+"label": "Charles E. Schumer",
+"note": "Congress.gov lists Schumer as the sole sponsor of S.Amdt. 797, submitted 13 July 2023, with the text printed at 169 Cong. Rec. S2953.",
+"sources": [
+{
+"date": "2023-07-13",
+"name": "Congress.gov — S.Amdt. 797",
+"url": "https://www.congress.gov/amendment/118th-congress/senate-amendment/797"
+},
+{
+"date": "2023-07-13",
+"name": "Congressional Record, 13 July 2023 — S.Amdt. 797",
+"url": "https://www.govinfo.gov/content/pkg/CREC-2023-07-13/html/CREC-2023-07-13-pt1-PgS2953.htm"
+}
+],
+"tier": "B",
+"type": "legislative"
+},
+{
+"claimTier": 1,
+"cls": "domain",
+"dateEnd": null,
+"dateStart": "2023-07-13",
+"direction": "out",
+"edgeLabel": "the filing instrument - where the process starts and where its text is fixed",
+"id": "d-legislative",
+"l0": false,
+"label": "Legislative Process (proposed and pending)",
+"note": "Submitted 13 July 2023 by Senator Schumer for himself and Senators Rounds, Rubio, Gillibrand, Young and Heinrich, ordered to lie on the table, text printed in the Congressional Record at pages S2953-S2959. The amendment, not the bill, is the object that carries the disclosure text, which is the process fact this domain exists to record.",
+"sources": [
+{
+"date": "2023-07-13",
+"name": "Congressional Record, 13 July 2023, text of S.Amdt. 797 (CREC-2023-07-13-pt1-PgS2953)",
+"url": "https://www.govinfo.gov/content/pkg/CREC-2023-07-13/html/CREC-2023-07-13-pt1-PgS2953.htm"
+},
+{
+"date": "2023-07-27",
+"name": "S. 2226, 118th Congress, Engrossed in Senate - Division G, UAP Disclosure Act of 2023 (GPO)",
+"url": "https://www.govinfo.gov/content/pkg/BILLS-118s2226es/html/BILLS-118s2226es.htm"
+}
+],
+"tier": "B",
+"type": "legislative"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "2023",
+"dateStart": "2023",
+"direction": "in",
+"edgeLabel": "Original cosponsor, 13 July 2023",
+"id": "kirsten-gillibrand",
+"l0": false,
+"label": "Kirsten E. Gillibrand",
+"note": "Gillibrand cosponsored Schumer's amendment while her own Sec. 1683 architecture was the statutory baseline it cross-referenced.",
+"sources": [
+{
+"date": "2023-07-13",
+"name": "Congress.gov — S.Amdt. 797",
+"url": "https://www.congress.gov/amendment/118th-congress/senate-amendment/797"
+}
+],
+"tier": "B",
+"type": "legislative"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "2023",
+"dateStart": "2023",
+"direction": "in",
+"edgeLabel": "Original cosponsor while serving as SSCI Vice Chairman",
+"id": "marco-rubio",
+"l0": false,
+"label": "Marco Rubio",
+"note": "Rubio cosponsored the eminent domain text while holding one of the eight most senior intelligence-access positions in Congress.",
+"sources": [
+{
+"date": "2023-07-13",
+"name": "Congress.gov — S.Amdt. 797",
+"url": "https://www.congress.gov/amendment/118th-congress/senate-amendment/797"
+}
+],
+"tier": "B",
+"type": "legislative"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "2023",
+"dateStart": "2023",
+"direction": "in",
+"edgeLabel": "Original cosponsor, 13 July 2023",
+"id": "martin-heinrich",
+"l0": false,
+"label": "Martin T. Heinrich",
+"note": "Heinrich cosponsored while sitting on SSCI and representing the state containing Kirtland, Sandia, Los Alamos and Roswell.",
+"sources": [
+{
+"date": "2023-07-13",
+"name": "Congress.gov — S.Amdt. 797",
+"url": "https://www.congress.gov/amendment/118th-congress/senate-amendment/797"
+}
+],
+"tier": "B",
+"type": "legislative"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "2023",
+"dateStart": "2023",
+"direction": "in",
+"edgeLabel": "Original cosponsor, 13 July 2023",
+"id": "mike-rounds",
+"l0": false,
+"label": "Mike Rounds",
+"note": "Rounds is listed as an original cosponsor with sponsorship date 13 July 2023.",
+"sources": [
+{
+"date": "2023-07-13",
+"name": "Congress.gov — S.Amdt. 797",
+"url": "https://www.congress.gov/amendment/118th-congress/senate-amendment/797"
+}
+],
+"tier": "B",
+"type": "legislative"
+},
+{
+"claimTier": 1,
+"cls": "legislation",
+"dateEnd": null,
+"dateStart": "2023-07-13",
+"direction": "out",
+"edgeLabel": "amendment to",
+"id": "s2226-118",
+"l0": false,
+"label": "S. 2226 (118th Congress) - Senate FY2024 NDAA vehicle for the UAP Disclosure Act",
+"note": "congress.gov: 'Amends Bill: S.2226 - National Defense Authorization Act for Fiscal Year 2024'.",
+"sources": [
+{
+"date": "2024-12-18",
+"name": "congress.gov, S.Amdt.797 to S.2226 overview (Wayback capture 2024-12-18)",
+"url": "https://web.archive.org/web/20241218191945/https://www.congress.gov/amendment/118th-congress/senate-amendment/797"
+}
+],
+"tier": "C",
+"type": "legislative"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "2023",
+"dateStart": "2023",
+"direction": "in",
+"edgeLabel": "Original cosponsor, 13 July 2023",
+"id": "todd-young",
+"l0": false,
+"label": "Todd Young",
+"note": "Young's signature gave the amendment a three-to-three partisan balance that let it travel in the bipartisan package.",
+"sources": [
+{
+"date": "2023-07-13",
+"name": "Congress.gov — S.Amdt. 797",
+"url": "https://www.congress.gov/amendment/118th-congress/senate-amendment/797"
+}
+],
+"tier": "C",
+"type": "legislative"
+},
+{
+"claimTier": 1,
+"cls": "legislation",
+"dateEnd": "2023",
+"dateStart": "2023",
+"direction": "out",
+"edgeLabel": "The amendment became Division G of the engrossed bill",
+"id": "uapda-2023",
+"l0": true,
+"label": "UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)",
+"note": "The text filed as S.Amdt. 797 travelled into S. 2226 as Division G, Secs. 9001-9015, which the Senate passed on 27 July 2023.",
+"sources": [
+{
+"date": "2023-07-27",
+"name": "S. 2226 (Engrossed in Senate) — GPO",
+"url": "https://www.govinfo.gov/content/pkg/BILLS-118s2226es/html/BILLS-118s2226es.htm"
+},
+{
+"date": "2023-07-13",
+"name": "Congressional Record, 13 July 2023 — S.Amdt. 797",
+"url": "https://www.govinfo.gov/content/pkg/CREC-2023-07-13/html/CREC-2023-07-13-pt1-PgS2953.htm"
+}
+],
+"tier": "A",
+"type": "legislative"
+}
+],
+"coords": null,
+"dateEnd": "2023",
+"dateStart": "2023",
+"deg": 9,
+"denials": [],
+"desc": "The filing instrument itself. S.Amdt. 797 was submitted on 13 July 2023 by Senator Schumer 'for himself, Mr. Rounds, Mr. Rubio, Mrs. Gillibrand, Mr. Young, and Mr. Heinrich' and ordered to lie on the table; its text was printed in the Congressional Record for that day at pages S2953-S2959, opening 'At the appropriate place, insert the following: TITLE _--UNIDENTIFIED ANOMALOUS PHENOMENA DISCLOSURE' and short-titled the 'Unidentified Anomalous Phenomena Disclosure Act of 2023' or the 'UAP Disclosure Act of 2023'. The cosponsor roster is the fact worth holding onto: three Republicans and three Democrats, including the sitting Chairman and Vice Chairman track of the Senate Intelligence Committee's Republican side and two Armed Services members. The amendment carries the Majority Leader's name, which is why it could travel into the manager's package and reach the engrossed bill as Division G without ever being marked up by a committee or receiving a recorded roll-call vote of its own. That procedural fact cuts both ways: it is how the Act got as far as it did, and it is also why it had no committee constituency to defend it in conference.",
+"domains": [
+"_rs-legislation",
+"congress-senate-legislation"
+],
+"dossier": {
+"claims": [
+{
+"source": "https://www.congress.gov/amendment/118th-congress/senate-amendment/797/text",
+"text": "S.Amdt. 797 to S. 2226 was submitted by Senator Schumer for himself, Senator Rounds, Senator Rubio, Senator Gillibrand, Senator Young and Senator Heinrich, and is titled the \"Unidentified Anomalous Phenomena Disclosure Act of 2023.\"",
+"tier": 1
+},
+{
+"source": "https://www.democrats.senate.gov/imo/media/doc/uap_amendment.pdf (Sec. __02(a)(2)-(4))",
+"text": "The bill's findings state that all federal UAP records \"should carry a presumption of immediate disclosure\"; that \"Legislation is necessary to create an enforceable, independent, and accountable process for the public disclosure of such records\"; and that \"Legislation is necessary because credible evidence and testimony indicates that Federal Government unidentified anomalous phenomena records exist that have not been declassified or subject to mandatory declassification review as set forth in Executive Order 13526.\"",
+"tier": 1
+},
+{
+"source": "https://www.democrats.senate.gov/imo/media/doc/uap_amendment.pdf (Sec. __03(10))",
+"text": "The bill defines \"legacy program\" as \"all Federal, State, and local government, commercial industry, academic, and private sector endeavors to collect, exploit, or reverse engineer technologies of unknown origin or examine biological evidence of living or deceased non-human intelligence that pre-dates the date of the enactment of this Act.\"",
+"tier": 1
+},
+{
+"source": "https://www.democrats.senate.gov/imo/media/doc/uap_amendment.pdf (Sec. __03(12))",
+"text": "The bill defines \"non-human intelligence\" as \"any sentient intelligent non-human lifeform regardless of nature or ultimate origin that may be presumed responsible for unidentified anomalous phenomena or of which the Federal Government has become aware.\"",
+"tier": 1
+},
+{
+"source": "https://www.democrats.senate.gov/imo/media/doc/uap_amendment.pdf (Sec. __03(18))",
+"text": "The bill defines \"technologies of unknown origin\" as \"any materials or meta-materials, ejecta, crash debris, mechanisms, machinery, equipment, assemblies or sub-assemblies, engineering models or processes, damaged or intact aerospace vehicles, and damaged or intact ocean-surface and undersea craft associated with unidentified anomalous phenomena or incorporating science and technology that lacks prosaic attribution or known means of human manufacture.\"",
+"tier": 1
+},
+{
+"source": "https://www.democrats.senate.gov/imo/media/doc/uap_amendment.pdf (Sec. __03(5))",
+"text": "The bill defines \"controlling authority\" to include \"any Federal, State, or local government department, office, agency, committee, commission, commercial company, academic institution, or private sector entity in physical possession of technologies of unknown origin or biological evidence of non-human intelligence.\"",
+"tier": 1
+},
+{
+"source": "https://www.democrats.senate.gov/imo/media/doc/uap_amendment.pdf (Sec. __07(b)(1)-(2), (c)(1))",
+"text": "The Review Board would have consisted of 9 U.S. citizens appointed by the President by and with the advice and consent of the Senate, without regard to political affiliation, nominated not later than 90 days after enactment, and all nominees \"shall be granted the necessary security clearances and accesses, including any and all relevant Presidential, departmental, and agency special access programs, in an accelerated manner subject to the standard procedures for granting such clearances.\"",
+"tier": 1
+},
+{
+"source": "https://www.democrats.senate.gov/imo/media/doc/uap_amendment.pdf (Sec. __07(b)(4)(A))",
+"text": "Review Board nominees \"shall be impartial citizens, none of whom shall have had any previous or current involvement with any legacy program or controlling authority relating to the collection, exploitation, or reverse engineering of technologies of unknown origin or the examination of biological evidence of living or deceased non-human intelligence.\"",
+"tier": 1
+},
+{
+"source": "https://www.democrats.senate.gov/imo/media/doc/uap_amendment.pdf (Sec. __07(b)(3)(A), (b)(4)(C))",
+"text": "The President would have made nominations after considering persons recommended by the four congressional leaders, the Secretary of Defense, the National Academy of Sciences, \"the UAP Disclosure Foundation,\" and the American Historical Association; the Board had to include at least one current or former national security official, one current or former foreign service official, one scientist or engineer, one economist, one professional historian, and one sociologist.",
+"tier": 1
+},
+{
+"source": "https://www.democrats.senate.gov/imo/media/doc/uap_amendment.pdf (Sec. __10(a))",
+"text": "Section __10(a) provided: \"The Federal Government shall exercise eminent domain over any and all recovered technologies of unknown origin and biological evidence of non-human intelligence that may be controlled by private persons or entities in the interests of the public good.\"",
+"tier": 1
+},
+{
+"source": "https://www.democrats.senate.gov/imo/media/doc/uap_amendment.pdf (Sec. __10(c)-(d))",
+"text": "Section __10(c)(1) tasked the Review Board with deciding \"whether the material examined constitutes technologies of unknown origin or biological evidence of non-human intelligence beyond a reasonable doubt,\" and __10(d) gave the Board access to all testimony from UAP witnesses, close observers, \"and legacy program personnel and whistleblowers\" in the government's possession.",
+"tier": 1
+},
+{
+"source": "https://www.democrats.senate.gov/imo/media/doc/uap_amendment.pdf (Secs. __05, __07(j), __14)",
+"text": "Government offices had 300 days after enactment to review, identify and organize each UAP record for disclosure to the public, review by the Review Board, and transmission to the Archivist; the Review Board was to be treated as an agency of the United States for purposes of 18 U.S.C. 6001 witness immunity; and $20,000,000 was authorized for fiscal year 2024.",
+"tier": 1
+},
+{
+"source": "https://douglasjohnson.ghost.io/uap-disclosure-act-pentagon-rewrite-nov-2023/ ; document at https://storage.ghost.io/c/c0/be/c0be35e5-1c72-42e1-af60-00793bc5b49d/content/files/2024/07/Pentagon-Nov-2023-proposed-revisions-to-UAPDA.pdf",
+"text": "In November 2023 the Office of the Under Secretary of Defense for Intelligence and Security transmitted to congressional negotiators a 33-page line-by-line rewrite of the Senate-passed UAPDA, presented as the Department's \"informal views\" while stating the Department \"strongly urges consideration\" and that the position was reached \"after conferring with NARA/ISOO\"; the rewrite proposed replacing the mandatory eminent domain language with \"It is the sense of Congress that the Federal Government should exercise eminent domain appropriately over...\" while retaining the object of the provision.",
+"tier": 2
+},
+{
+"source": "https://douglasjohnson.ghost.io/uap-disclosure-act-pentagon-rewrite-nov-2023/",
+"text": "Former AARO director Sean Kirkpatrick said in a July 17, 2024 interview, regarding the 2023 UAPDA: \"We convinced Congress last year not to go down that road,\" and by email on July 23, 2024 explained the retained eminent domain language: \"a compromise was proposed to allow for the exercising of eminent domain under AARO's authority to underscore that AARO could compel disclosure of anything, should anything exist. Since we know nothing exists, we didn't feel it made our job harder.\"",
+"tier": 2
+}
+],
+"connections": [
+"Sponsors Schumer, Rounds, Rubio, Gillibrand, Young and Heinrich — Rounds sits on both Senate Armed Services and Senate Intelligence; Rubio was SSCI vice chairman.",
+"Modeled on the President John F. Kennedy Assassination Records Collection Act of 1992 and its Assassination Records Review Board.",
+"OUSD(I&S) under Ronald Moultrie (who resigned effective February 29, 2024) was the office that transmitted the rewrite; AARO was administratively attached to OUSD(I&S) while its director reported to the Deputy Secretary of Defense on operational and security matters.",
+"Sean Kirkpatrick, AARO director from mid-2022 to December 1, 2023, is the named actor claiming credit for defeating the bill.",
+"The surviving remnant is P.L. 118-31 secs. 1841-1843; the deleted provisions are catalogued in the Joint Explanatory Statement to H. Rept. 118-301 at page 1330.",
+"The 'controlling authority' definition reaching commercial companies and academic institutions is the statutory hook that would have touched defense contractors directly — the point at which the bill stopped being about records and started being about property.",
+"Refiled substantially intact as S.Amdt. 2610 to S. 4638 (FY2025 NDAA) on July 11, 2024, this time with Rounds as lead sponsor and Schumer as co-sponsor, printed at Cong. Rec. S4943-S4950; Gillibrand joined July 23 and Heinrich August 1, 2024."
+],
+"denialPosture": "The Department of Defense never denied the bill's premises in public. It filed a redline. The 'informal views' rewrite objected to structure, duplication with AARO's existing historical-report mandate, and burden on industry — Kirkpatrick's stated reasoning was that the Review Board would duplicate AARO and that 'we found no evidence of any of these allegations. None.' The Department nonetheless declined to strike the eminent domain object, which is the more interesting fact.",
+"narrative": "The UAP Disclosure Act was unveiled on 14 July 2023 with Senate Majority Leader Chuck Schumer as prime sponsor and Senator Mike Rounds as lead co-sponsor, with Rubio, Gillibrand, Young and Heinrich joining. It was added to the FY2024 NDAA in an agreed bloc of amendments without floor debate or a separate vote, and the Senate passed the NDAA including it on 27 July 2023.\n\nThe findings section is short and remarkably direct. Congress would have declared that all federal records concerning UAP \"should carry a presumption of immediate disclosure\"; that \"Legislation is necessary to create an enforceable, independent, and accountable process for the public disclosure of such records\"; and that \"Legislation is necessary because credible evidence and testimony indicates that Federal Government unidentified anomalous phenomena records exist that have not been declassified or subject to mandatory declassification review as set forth in Executive Order 13526.\"\n\nThe definitions are where the bill does its most consequential work, because definitions survive in the mind even when the operative provisions die. \"Legacy program\" is defined as \"all Federal, State, and local government, commercial industry, academic, and private sector endeavors to collect, exploit, or reverse engineer technologies of unknown origin or examine biological evidence of living or deceased non-human intelligence that pre-dates the date of the enactment of this Act.\" \"Non-human intelligence\" is \"any sentient intelligent non-human lifeform regardless of nature or ultimate origin that may be presumed responsible for unidentified anomalous phenomena or of which the Federal Government has become aware.\" \"Technologies of unknown origin\" is a lawyer's inventory: \"any materials or meta-materials, ejecta, crash debris, mechanisms, machinery, equipment, assemblies or sub-assemblies, engineering models or processes, damaged or intact aerospace vehicles, and damaged or intact ocean-surface and undersea craft associated with unidentified anomalous phenomena or incorporating science and technology that lacks prosaic attribution or known means of human manufacture.\" And \"controlling authority\" reaches \"any Federal, State, or local government department, office, agency, committee, commission, commercial company, academic institution, or private sector entity in physical possession of technologies of unknown origin or biological evidence of non-human intelligence.\" Whoever drafted that list was not speculating about the abstract; they were describing categories of custody.\n\nThe Review Board would have been nine citizens appointed by the President with the advice and consent of the Senate, nominated within ninety days after considering persons recommended by the four congressional leaders, the Secretary of Defense, the National Academy of Sciences, the American Historical Association, and — a genuinely unusual inclusion in a statute — \"the UAP Disclosure Foundation.\" Nominees had to include at least one current or former national security official, one current or former foreign service official, one scientist or engineer, one economist, one professional historian and one sociologist. They would have been \"granted the necessary security clearances and accesses, including any and all relevant Presidential, departmental, and agency special access programs, in an accelerated manner.\" Confirmation ran through Senate Homeland Security and Governmental Affairs on compressed clocks: hearings within thirty days, committee vote within fourteen, floor vote within fourteen.\n\nThe eminent domain provision, section 9010(a), read: \"The Federal Government shall exercise eminent domain over any and all recovered technologies of unknown origin and biological evidence of non-human intelligence that may be controlled by private persons or entities in the interests of the public good.\" Subsection (b) required that any such material \"should it exist, shall be made available to the Review Board for personal examination and subsequent disclosure determination.\" Subsection (c) tasked the Board with deciding \"whether the material examined constitutes technologies of unknown origin or biological evidence of non-human intelligence beyond a reasonable doubt.\" Subsection (d) gave the Board access to all testimony from UAP witnesses, close observers, \"and legacy program personnel and whistleblowers\" in the government's possession, and subsection (e) directed it to solicit more, extending the whistleblower protections of section 1673(b) of the FY2023 NDAA, 50 U.S.C. 3373b(b).\n\nOther operative provisions: government offices had 300 days to review, identify and organize their UAP records; the Board was to be treated as an agency of the United States for purposes of 18 U.S.C. 6001, the witness immunity statute; the Board would report to congressional leadership, Senate Homeland Security and Governmental Affairs, and House Oversight; and $20,000,000 was authorized for fiscal year 2024, with the President permitted to use available discretionary sums in the interim.\n\nThen the Pentagon wrote back. In November 2023, during end-stage conference negotiations, the Office of the Under Secretary of Defense for Intelligence and Security transmitted to congressional negotiators a thirty-three page line-by-line rewrite of the Senate-passed text, presented as the Department's \"informal views\" but stating that the Department \"strongly urges consideration\" of the changes and that the position was arrived at \"after conferring with NARA/ISOO.\" The document was first published by Douglas Dean Johnson in July 2024. Its treatment of section 9010 is the tell: OUSD(I&S) proposed replacing the mandatory \"The Federal Government shall exercise eminent domain over\" with \"It is the sense of Congress that the Federal Government should exercise eminent domain appropriately over\" — while leaving the object of the sentence, \"any and all recovered technologies of unknown origin and biological evidence of non-human intelligence that may be controlled by private persons or entities,\" untouched. Asked why, former AARO director Sean Kirkpatrick replied that \"a compromise was proposed to allow for the exercising of eminent domain under AARO's authority to underscore that AARO could compel disclosure of anything, should anything exist. Since we know nothing exists, we didn't feel it made our job harder.\"\n\nKirkpatrick was blunter elsewhere. On 17 July 2024 he told interviewer Marik von Rennenkampff, \"We convinced Congress last year not to go down that road.\" The Review Board, its staff, the eminent domain authority and the controlled disclosure process were all deleted in conference. Schumer, on the Senate floor on 13 December 2023, called it \"really an outrage.\"",
+"openQuestions": [
+"Whether the text as filed in S.Amdt. 797 differs in any material respect from the text released by the Majority Leader's office in July 2023; congress.gov is the authoritative version and section numbering in the released draft is left blank.",
+"Who drafted the definitions of 'legacy program,' 'controlling authority' and 'technologies of unknown origin,' and on what factual briefing those categories were built.",
+"What 'the UAP Disclosure Foundation' is, why a private entity was written into a statutory nomination process, and who proposed it.",
+"Which conferees specifically insisted on removing the Review Board and eminent domain provisions; Douglas Johnson attributes the outcome to a small group of senior Republican members but names none in the public record.",
+"Whether the Senate ever received a classified justification from DoD for opposing the bill, distinct from the unclassified 'informal views' redline.",
+"Whether NARA and ISOO, whom OUSD(I&S) said it consulted, supported the rewrite or merely commented on records-management feasibility."
+],
+"roles": [
+"disclosure",
+"oversight",
+"custody"
+],
+"whatItIs": "S.Amdt. 797 to S. 2226 was the Schumer-Rounds \"Unidentified Anomalous Phenomena Disclosure Act of 2023,\" submitted in July 2023 and folded into the Senate-passed FY2024 National Defense Authorization Act on July 27, 2023 as Division G, sections 9001 through 9015. Modeled on the President John F. Kennedy Assassination Records Collection Act of 1992, it would have created a nine-member, Senate-confirmed UAP Records Review Board with subpoena-adjacent powers, a government-wide records collection at the National Archives, a controlled disclosure process, and a mandate that the federal government exercise eminent domain over recovered technologies of unknown origin and biological evidence of non-human intelligence held by private parties.",
+"whyImplicated": "This is the only time the United States Senate has passed statutory text asserting, as a matter of legislative fact, that private entities may be holding recovered non-human technology and biological material and that the government should take it. The bill defines \"legacy program,\" \"non-human intelligence,\" \"technologies of unknown origin\" and \"controlling authority\" in statutory language, and its Review Board qualification clause bars anyone with \"any previous or current involvement with any legacy program or controlling authority relating to the collection, exploitation, or reverse engineering of technologies of unknown origin\" — a conflict-of-interest screen that presupposes the existence of the thing being screened against. Senators Schumer, Rounds, Rubio, Gillibrand, Young and Heinrich, several of them sitting members of the Intelligence and Armed Services Committees, wrote that clause. The Office of the Under Secretary of Defense for Intelligence and Security then submitted a thirty-three page line-by-line rewrite to conferees in November 2023 stating that the Department \"strongly urges consideration\" of its revisions, and the Department's core objectives prevailed. The gap between what the Senate passed and what the President signed is the single cleanest measurement of institutional resistance available on this board."
+},
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "samdt-797",
+"l0": true,
+"label": "S.Amdt. 797 to S. 2226 (Schumer-Rounds UAP Disclosure Act amendment)",
+"locLabel": null,
+"members": [
+{
+"cls": "person",
+"id": "chuck-schumer",
+"label": "Charles E. Schumer",
+"tier": "B"
+},
+{
+"cls": "domain",
+"id": "d-legislative",
+"label": "Legislative Process (proposed and pending)",
+"tier": "B"
+},
+{
+"cls": "person",
+"id": "kirsten-gillibrand",
+"label": "Kirsten E. Gillibrand",
+"tier": "B"
+},
+{
+"cls": "person",
+"id": "marco-rubio",
+"label": "Marco Rubio",
+"tier": "B"
+},
+{
+"cls": "person",
+"id": "martin-heinrich",
+"label": "Martin T. Heinrich",
+"tier": "B"
+},
+{
+"cls": "person",
+"id": "mike-rounds",
+"label": "Mike Rounds",
+"tier": "B"
+},
+{
+"cls": "legislation",
+"id": "s2226-118",
+"label": "S. 2226 (118th Congress) - Senate FY2024 NDAA vehicle for the UAP Disclosure Act",
+"tier": "C"
+},
+{
+"cls": "person",
+"id": "todd-young",
+"label": "Todd Young",
+"tier": "C"
+}
+],
+"short": "S.Amdt. 797 to S. 2226 (Schumer-Rounds UAP Disclosure Act amendment)",
+"sources": [
+{
+"date": "2023-07-13",
+"name": "Congressional Record, 13 July 2023, Text of Senate Amendment 797 (CREC-2023-07-13-pt1-PgS2953)",
+"url": "https://www.govinfo.gov/content/pkg/CREC-2023-07-13/html/CREC-2023-07-13-pt1-PgS2953.htm"
+},
+{
+"date": "2024-12-18",
+"name": "congress.gov, S.Amdt.797 to S.2226 overview (Wayback capture 2024-12-18)",
+"url": "https://web.archive.org/web/20241218191945/https://www.congress.gov/amendment/118th-congress/senate-amendment/797"
+},
+{
+"date": "2023-07-13",
+"name": "Congress.gov — S.Amdt. 797",
+"url": "https://www.congress.gov/amendment/118th-congress/senate-amendment/797"
+}
+],
+"sub": "disclosure-legislation",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 229 of 1027, score 41). 9 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A2/D3.",
+"timeline": [
+{
+"date": "2023-07-13",
+"id": "cl-2023-07-13",
+"label": "S.Amdt. 797 filed",
+"precision": "day",
+"strand": "program",
+"text": "Schumer submits the UAP Disclosure Act of 2023 with Rounds, Rubio, Gillibrand, Young and Heinrich; the text prints at 169 Cong. Rec. S2953-S2959. Warner files S.Amdt. 666, the IAA carrying the contractor turn-in, the same day.",
+"tier": "A"
+},
+{
+"date": "2023-07-13",
+"id": "tl-2023-07-13-samdt797",
+"label": "Schumer submits the UAP Disclosure Act as S.Amdt. 797",
+"precision": "day",
+"strand": "program",
+"text": "'SA 797. Mr. SCHUMER (for himself, Mr. Rounds, Mr. Rubio, Mrs. Gillibrand, Mr. Young, and Mr. Heinrich) submitted an amendment intended to be proposed by him to the bill S. 2226 ... which was ordered to lie on the table.' The text is the Unidentified Anomalous Phenomena Disclosure Act of 2023, including the exercise of eminent domain over recovered technologies of unknown origin and biological evidence of non-human intelligence, and a nine-member Senate-confirmed Records Review Board.",
+"tier": "A"
+}
+]
+}

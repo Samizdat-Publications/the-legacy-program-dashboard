@@ -1,0 +1,279 @@
+{
+"A": 2,
+"C": 0,
+"D": 3,
+"affiliations": [
+"General Electric (1956-1959)",
+"Aerojet General Nucleonics (1959-1963)",
+"General Motors (1963-1966)",
+"Westinghouse (1966-1968)",
+"TRW Systems (1969-1970)",
+"McDonnell Douglas"
+],
+"age": 84,
+"band": null,
+"chronology": [
+{
+"date": "1934-07-29",
+"event": "Born in Elizabeth, New Jersey",
+"precision": "day"
+},
+{
+"date": "1956",
+"event": "MS in nuclear physics, University of Chicago; begins classified nuclear propulsion work at General Electric",
+"precision": "year"
+},
+{
+"date": "1968",
+"event": "Provides written testimony to a US House of Representatives committee that the evidence suggests Earth is being visited by intelligently controlled extraterrestrial vehicles",
+"precision": "year"
+},
+{
+"date": "1970",
+"event": "Leaves full-time employment as a physicist to investigate UFOs",
+"precision": "year"
+},
+{
+"date": "1978-02",
+"event": "Introduced to Maj. Jesse A. Marcel Sr. in Baton Rouge, Louisiana - the interview that reopens Roswell",
+"precision": "month"
+},
+{
+"date": "1984",
+"event": "Becomes aware of the Majestic 12 documents through William Moore and Jaime Shandera",
+"precision": "year"
+},
+{
+"date": "1996",
+"event": "Publishes 'Top Secret/Majic'; states there are no substantive grounds for dismissing the authenticity of the core MJ-12 documents",
+"precision": "year"
+},
+{
+"date": "2019-05-13",
+"event": "Dies of a heart attack at Toronto Pearson Airport returning from a lecture in Columbus, Ohio",
+"precision": "day"
+}
+],
+"claims": [
+{
+"source": "Headquarters USAF, 'The Roswell Report: Fact versus Fiction in the New Mexico Desert' (1995) https://archive.org/details/DTIC_ADA326148",
+"text": "The US Air Force's own 1995 Roswell report states: 'In 1978, a UFO researcher, Stanton Friedman, met with Marcel and began investigating the claims that the material Marcel handled was from a crashed UFO.' The board's account of Friedman as the first civilian investigator to reach Marcel is therefore attested by the Air Force, not only by Friedman.",
+"tier": 1
+},
+{
+"source": "Headquarters USAF, 'The Roswell Report: Fact versus Fiction in the New Mexico Desert' (1995), review of the popular literature https://archive.org/details/DTIC_ADA326148",
+"text": "The same report lists 'Crash at Corona (1992) by Stanton T. Friedman and Don Berliner' among the major works its records search reviewed, placing Friedman's authorship in the Air Force's own bibliography of the case.",
+"tier": 1
+},
+{
+"source": "Stanton T. Friedman, 'Top Secret/MAJIC' (Marlowe & Co., 1996) https://archive.org/details/topsecretmajic0000frie",
+"text": "Friedman's 'Top Secret/MAJIC' was published by Marlowe & Co. in 1996, ISBN 1569248303, and is available as a full scan. The board's claim about his Hillenkoetter-memo analysis cited this book by title with no locator.",
+"tier": 2
+},
+{
+"source": "CBC News, 14 May 2019 https://www.cbc.ca/news/canada/new-brunswick/stanton-friedman-ufologist-dead-1.5135588",
+"text": "CBC News reports that Friedman died suddenly at Toronto Pearson Airport on the Monday night of 13 May 2019, aged 84, while returning from a speaking engagement in Columbus, Ohio, and describes him as 'a nuclear physicist by training' who 'had devoted his life to researching and investigating UFOs since the late 1960s'. The City of Fredericton declared 27 August 2007 Stanton Friedman Day.",
+"tier": 2
+},
+{
+"source": "CBC News, 13 October 2019 https://www.cbc.ca/news/canada/new-brunswick/provincial-archives-stanton-friedman-records-1.5315664",
+"text": "Friedman began donating his research collection to the Provincial Archives of New Brunswick in the months before his death. Archivist Joanna Aiton-Kerr told CBC the archives had received about 300 boxes -- roughly 60 metres laid end to end -- and expected several more cargo vans. This is where the primary material behind his Roswell and MJ-12 work now sits, and it is not online.",
+"tier": 2
+},
+{
+"source": "Wikipedia biography, sourced to Friedman's own published CV and obituaries — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"text": "Friedman held nuclear-physics positions at General Electric, Aerojet General Nucleonics, General Motors, Westinghouse, TRW Systems and McDonnell Douglas working on classified nuclear aircraft, fission and fusion rockets and compact space nuclear power.",
+"tier": 2
+},
+{
+"source": "Friedman's own account, repeated in his books and in the standard Roswell literature",
+"text": "Friedman was the first civilian to interview Maj. Jesse Marcel Sr. about the Roswell debris, in February 1978, and the first to document the site.",
+"tier": 2
+},
+{
+"source": "Friedman, 'Top Secret/Majic' (1996); summarised in Wikipedia biography",
+"text": "Friedman demonstrated that a purported 17 February 1948 Hillenkoetter memo to Truman was an emulation of a Marshall-to-Roosevelt letter published in 'The American MAGIC' - i.e. he proved part of the MJ-12 corpus fraudulent while defending the rest.",
+"tier": 2
+},
+{
+"source": "Wikipedia biography of Friedman; Klass-Friedman correspondence",
+"text": "Philip J. Klass offered Friedman $100 per legitimate example of the Pica typeface used in the Cutler-Twining memo; Friedman produced fourteen and was paid $1,000.",
+"tier": 2
+}
+],
+"cls": "person",
+"cluster": "other",
+"conflicts": [
+"Friedman defended the authenticity of the core MJ-12 documents; Kevin Randle ('Conclusions on Operation Majestic Twelve', 1994; 'Case MJ-12', 2002), Philip Klass and the FBI's 'BOGUS' annotation on the Aquarius/Cutler-Twining material took the opposite view. This dispute is unresolved and is recorded on this board as unresolved."
+],
+"connections": [
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "1978",
+"dateStart": "1978-02",
+"direction": "out",
+"edgeLabel": "Friedman's February 1978 interview reopened Roswell",
+"id": "jesse-marcel",
+"l0": false,
+"label": "Jesse A. Marcel Sr.",
+"note": "Friedman was put in touch with the retired Lt. Col. Marcel in Baton Rouge and obtained his statement that the weather balloon account was a cover. Attested by Friedman on the record and repeated by Marcel in filmed interviews.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Stanton T. Friedman - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/Stanton_T._Friedman"
+}
+],
+"tier": "A",
+"type": "witness-chain"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2019",
+"dateStart": "1987",
+"direction": "out",
+"edgeLabel": "Unresolved dispute over MJ-12 authenticity",
+"id": "kevin-randle",
+"l0": false,
+"label": "Kevin D. Randle",
+"note": "Friedman held there were no substantive grounds for dismissing the core documents while himself proving parts of the corpus faked; Randle concluded the whole was not authentic. Neither position has been settled by any released record.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Stanton T. Friedman - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/Stanton_T._Friedman"
+}
+],
+"tier": "B",
+"type": "denial"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "1996",
+"dateStart": "1984-12",
+"direction": "in",
+"edgeLabel": "Moore and Shandera's 1984 film delivery became Friedman's decade-long project",
+"id": "william-l-moore",
+"l0": false,
+"label": "William L. Moore",
+"note": "Friedman became aware of the MJ-12 documents through Moore and Jaime Shandera in 1984 and defended their core authenticity through 'Top Secret/Majic' (1996).",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Stanton T. Friedman - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/Stanton_T._Friedman"
+}
+],
+"tier": "B",
+"type": "research"
+}
+],
+"date": "2019-05-13",
+"dateEnd": null,
+"dateStart": "2019-05-13",
+"deg": 3,
+"denials": [
+{
+"by": {
+"id": "stanton-friedman",
+"label": "Stanton T. Friedman"
+},
+"claimTier": 2,
+"denialKind": "association",
+"label": "Unresolved dispute over MJ-12 authenticity",
+"note": "Friedman held there were no substantive grounds for dismissing the core documents while himself proving parts of the corpus faked; Randle concluded the whole was not authentic. Neither position has been settled by any released record.",
+"of": {
+"id": "kevin-randle",
+"label": "Kevin D. Randle"
+},
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Stanton T. Friedman - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/Stanton_T._Friedman"
+}
+]
+}
+],
+"domains": [
+"w16-thin-people",
+"w2-retrieval-literature"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "stanton-friedman",
+"instId": null,
+"l0": false,
+"label": "Stanton T. Friedman",
+"loc": "Fredericton, New Brunswick",
+"locId": null,
+"members": null,
+"narrative": "Stanton Terry Friedman (29 July 1934 - 13 May 2019) was a nuclear physicist who spent fourteen years on classified nuclear propulsion programmes at General Electric, Aerojet General Nucleonics, General Motors, Westinghouse, TRW and McDonnell Douglas before leaving full-time physics in 1970 to investigate UFOs professionally. That industrial background matters to this board: Friedman had held clearances on compartmented nuclear aircraft and fission and fusion rocket work, and he argued from direct experience that a programme could be run for decades without leaking, because he had worked inside ones that did not. In February 1978 in Baton Rouge, Louisiana, he was put in touch with Major Jesse A. Marcel Sr., the 509th Bomb Group intelligence officer who had handled the Roswell debris - the single act that restarted the Roswell case after thirty years of silence and made him, as he put it, the first civilian to document the site. He fed Marcel to William Moore and Charles Berlitz, whose 1980 'The Roswell Incident' made the case public. From 1984 he was the principal defender of the Majestic 12 documents received by Moore and Jaime Shandera, publishing 'Top Secret/Majic' in 1996 and maintaining that no substantive grounds existed for dismissing the authenticity of the core documents - a position that split him permanently from Randle, Klass and much of the field. He was also the first to demonstrate that some MJ-12 papers were provably faked, showing that a purported 17 February 1948 Hillenkoetter-to-Truman memo was an emulation of a Marshall-to-Roosevelt letter reproduced in 'The American MAGIC'. He testified in writing to a House committee in 1968, appeared twice at the United Nations, and donated his research files to the Provincial Archives of New Brunswick shortly before his death.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Stanton T. Friedman",
+"sources": [
+{
+"date": "2026-08-25",
+"name": "Headquarters USAF, 'The Roswell Report: Fact versus Fiction in the New Mexico Desert' (1995), DTIC ADA326148",
+"url": "https://archive.org/details/DTIC_ADA326148"
+},
+{
+"date": "2026-08-25",
+"name": "Stanton T. Friedman, 'Top Secret/MAJIC' (New York: Marlowe & Co., 1996), ISBN 1569248303",
+"url": "https://archive.org/details/topsecretmajic0000frie"
+},
+{
+"date": "2026-08-25",
+"name": "CBC News, 'Stanton Friedman, famed UFO researcher, dead at 84', 14 May 2019",
+"url": "https://www.cbc.ca/news/canada/new-brunswick/stanton-friedman-ufologist-dead-1.5135588"
+},
+{
+"date": "2026-08-25",
+"name": "CBC News, 'Archivist delighted to comb through mountain of late UFO researcher's records', 13 October 2019",
+"url": "https://www.cbc.ca/news/canada/new-brunswick/provincial-archives-stanton-friedman-records-1.5315664"
+},
+{
+"date": "2026-08-12",
+"name": "Stanton T. Friedman - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/Stanton_T._Friedman"
+}
+],
+"status": "active",
+"sub": "Nuclear physicist; first civilian Roswell investigator; MJ-12 researcher",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 210 of 1027, score 42). 3 connections, 1 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D3.",
+"timeline": [
+{
+"date": "1978-02",
+"id": "tl-1978-02-friedman",
+"label": "Friedman meets Marcel",
+"precision": "month",
+"strand": "witness",
+"text": "Stanton Friedman is put in touch with retired Lt. Col. Jesse Marcel Sr. in Baton Rouge. Marcel states the weather balloon account was a cover and that the material was not of this earth. Roswell restarts after thirty-one years.",
+"tier": "A"
+},
+{
+"date": "2019-05-13",
+"id": "tl-2019-0513-friedman",
+"label": "Friedman dies",
+"precision": "day",
+"strand": "program",
+"text": "Stanton Friedman dies of a heart attack at Toronto Pearson Airport returning from a lecture. He had donated his research files to the Provincial Archives of New Brunswick in the months before his death.",
+"tier": "A"
+}
+],
+"unexplainedResidual": null,
+"unverified": [
+"The exact date in February 1978 of the first Friedman-Marcel contact."
+]
+}

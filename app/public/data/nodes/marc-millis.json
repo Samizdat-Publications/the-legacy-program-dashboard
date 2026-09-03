@@ -1,0 +1,163 @@
+{
+"A": 2,
+"C": 1,
+"D": 3,
+"affiliations": [],
+"age": null,
+"band": null,
+"chronology": [],
+"claims": [
+{
+"source": "https://irp.fas.org/dia/aatip-list.pdf",
+"text": "The DIA letter of 9 January 2018 lists 'Cockpits in the Era of breakthrough Flight, Dr G Millis, Tau Zero.'",
+"tier": 1
+},
+{
+"source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_28-DIRD_Cockpits_in_the_Era_of_Breakthrough_Flight.pdf",
+"text": "The released DIRD bears document number DIA-08-1011-002, publication date 1 November 2010 and Intelligence Cut-Off Date 8 July 2010, in the 'Defense Futures' series.",
+"tier": 1
+},
+{
+"source": "https://earthtech.org/pubs/davis/",
+"text": "Millis is co-editor with Eric W. Davis of 'Frontiers of Propulsion Science', AIAA Progress in Astronautics & Aeronautics Vol. 227 (2009), a documented pre-DIRD collaboration with the AAWSAP subcontractor.",
+"tier": 1
+},
+{
+"source": "http://www.jbis.org.uk/paper.php?p=2013.66.278",
+"text": "Millis published an open-source counterpart, 'Cockpit considerations for Inertial-Affect and FTL Propulsion', in the Journal of the British Interplanetary Society in 2013.",
+"tier": 1
+},
+{
+"source": "https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk",
+"text": "The DIA list records the author as 'Dr G Millis'; the identification with Marc G. Millis of the Tau Zero Foundation rests on the Tau Zero affiliation, the JBIS open-source counterpart published as 'M G Millis', and The War Zone's identification of Marc Millis as an AATIP author.",
+"tier": 2
+}
+],
+"cls": "person",
+"cluster": "research",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "authored by Marc G. Millis, Tau Zero Foundation",
+"id": "dird-cockpits-in-the-era-of-breakthrough",
+"l0": false,
+"label": "Cockpits in the Era of Breakthrough Flight",
+"note": "The DIA list of 9 January 2018 records 'Cockpits in the Era of breakthrough Flight, Dr G Millis, Tau Zero'. The released PDF's author block is redacted under (b)(6). Identification with Marc G. Millis, founder of the Tau Zero Foundation and former head of NASA's Breakthrough Propulsion Physics project, is supported by the Tau Zero affiliation on the DIA list, by the open-source counterpart published as 'M G Millis' in JBIS in 2013, and by The War Zone's identification of Marc Millis among the AATIP authors.",
+"sources": [
+{
+"date": "2026-08-22",
+"name": "Released DIRD, 'Cockpits in the Era of Breakthrough Flight' — FOIA copy, cover page read 22 August 2026",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_28-DIRD_Cockpits_in_the_Era_of_Breakthrough_Flight.pdf"
+},
+{
+"date": "2026-08-22",
+"name": "DIA FOIA Electronic Reading Room entry for this reference document",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237653/"
+},
+{
+"date": "2026-08-23",
+"name": "DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations",
+"url": "https://fas.org/publication/aatip-list/"
+},
+{
+"date": null,
+"name": "https://irp.fas.org/dia/aatip-list.pdf",
+"url": "https://irp.fas.org/dia/aatip-list.pdf"
+},
+{
+"date": null,
+"name": "http://www.jbis.org.uk/paper.php?p=2013.66.278",
+"url": "http://www.jbis.org.uk/paper.php?p=2013.66.278"
+},
+{
+"date": null,
+"name": "https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk",
+"url": "https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk"
+}
+],
+"tier": "B",
+"type": "research"
+}
+],
+"date": "2010-11-01",
+"dateEnd": null,
+"dateStart": "2010-11-01",
+"deg": 1,
+"denials": [],
+"domains": [
+"w7-dirds-2"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "2",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "marc-millis",
+"instId": null,
+"l0": false,
+"label": "Marc G. Millis",
+"loc": null,
+"locId": null,
+"members": null,
+"narrative": "The DIA list to the Senate Armed Services Committee records entry 27 as 'Cockpits in the Era of breakthrough Flight, Dr G Millis, Tau Zero'; the released document carries DIA-08-1011-002, publication date 1 November 2010 and an Intelligence Cut-Off Date of 8 July 2010, and sits in the later 'Defense Futures' series rather than the earlier 'Acquisition Threat Support' tranche. Millis is the former head of NASA's Breakthrough Propulsion Physics project and the founder of the Tau Zero Foundation, and he is co-editor with Eric W. Davis of the 2009 AIAA volume 'Frontiers of Propulsion Science' - the same volume that contains the Davis and Puthoff chapter 'On Extracting Energy from the Quantum Vacuum'. The two men were therefore collaborators in print before the DIRD contract was let, which is the ordinary mechanism by which Puthoff's commissioning net was cast. Millis subsequently published an open-source version of the DIRD's argument as 'Cockpit considerations for Inertial-Affect and FTL Propulsion' in the Journal of the British Interplanetary Society in 2013, with an abstract that names 'Frontiers of Propulsion Science' as its primary reference - a clean, verifiable mapping from classified-adjacent deliverable to the open literature, of the kind Davis described when he said 'We allowed open domain publishing on the topics of these reports.' The paper is the most peculiar and, on reflection, the most revealing of the thirty-eight. It is not a physics paper. It asks what a crew station looks like once a vehicle has inertial control, hover-to-superluminal speed range, and no separation between ground, orbital and interstellar flight regimes - including the loss of the pilot's own inertial and visual motion cues. That is the question you commission if you are trying to reason backwards from observed flight behaviour to the design constraints on whatever is aboard. Millis's NASA departure followed a 1999 controversy over his attendance at a venture-capital event hosted by Joe Firmage.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Marc G. Millis",
+"sources": [
+{
+"date": null,
+"name": "https://irp.fas.org/dia/aatip-list.pdf",
+"url": "https://irp.fas.org/dia/aatip-list.pdf"
+},
+{
+"date": null,
+"name": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html",
+"url": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html"
+},
+{
+"date": null,
+"name": "https://ufos-scientificresearch.blogspot.com/2018/08/an-analysis-of-that-list-of-aawsapaatip.html",
+"url": "https://ufos-scientificresearch.blogspot.com/2018/08/an-analysis-of-that-list-of-aawsapaatip.html"
+},
+{
+"date": null,
+"name": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_28-DIRD_Cockpits_in_the_Era_of_Breakthrough_Flight.pdf",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_28-DIRD_Cockpits_in_the_Era_of_Breakthrough_Flight.pdf"
+},
+{
+"date": null,
+"name": "https://earthtech.org/pubs/davis/",
+"url": "https://earthtech.org/pubs/davis/"
+},
+{
+"date": null,
+"name": "http://www.jbis.org.uk/paper.php?p=2013.66.278",
+"url": "http://www.jbis.org.uk/paper.php?p=2013.66.278"
+},
+{
+"date": null,
+"name": "https://tauzero.aero/who-we-are/",
+"url": "https://tauzero.aero/who-we-are/"
+},
+{
+"date": null,
+"name": "https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk",
+"url": "https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk"
+}
+],
+"status": "active",
+"sub": "Former NASA propulsion engineer, founder of the Tau Zero Foundation; author, DIRD 'Cockpits in the Era of Breakthrough Flight' (DIA-08-1011-002)",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 433 of 1027, score 31). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D3.",
+"timeline": [],
+"unexplainedResidual": null,
+"unverified": []
+}

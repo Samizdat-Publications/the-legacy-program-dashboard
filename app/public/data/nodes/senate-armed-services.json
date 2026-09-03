@@ -1,0 +1,402 @@
+{
+"A": 3,
+"C": 1,
+"D": 1,
+"band": "funding",
+"claims": [
+{
+"source": "P.L. 118-31, Sec. 1841(e)(1), GPO",
+"text": "Sec. 1841(e)(1) gives the Senate Armed Services Committee, with Homeland Security and Governmental Affairs and the Select Committee on Intelligence, continuing legislative oversight jurisdiction over the UAP Records Collection.",
+"tier": 1
+},
+{
+"source": "S. 4784 (Reported in Senate), GPO",
+"text": "The FY2027 NDAA reported by the committee, S. 4784, contains no UAP provisions.",
+"tier": 1
+},
+{
+"source": "GPO Bulk Data BILLSTATUS, Senate bills, 118th and 119th Congresses",
+"text": "No standalone UAP disclosure bill has ever been referred to or reported by the committee; no such Senate bill exists in the 118th or 119th Congress.",
+"tier": 1
+}
+],
+"cls": "institution",
+"cluster": "oversight",
+"connections": [
+{
+"claimTier": 1,
+"cls": "domain",
+"dateEnd": null,
+"dateStart": "2023",
+"direction": "out",
+"edgeLabel": "owns the only vehicle the disclosure text has ever ridden, and has never reported it",
+"id": "d-legislative",
+"l0": false,
+"label": "Legislative Process (proposed and pending)",
+"note": "Every version of the Act - 2023, 2024 and the announced later attempts - has reached the floor as an amendment to a SASC bill rather than as a committee product, which means no committee report, no markup record and no members professionally invested in defending it in conference. A committee's non-action is a process fact and belongs in this domain.",
+"sources": [
+{
+"date": "2023-12-22",
+"name": "Public Law 118-31, National Defense Authorization Act for FY2024, incl. Div. G (IAA FY2024) (GPO)",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm"
+},
+{
+"date": "2026-06-15",
+"name": "S. 4784, 119th Congress, reported in Senate (GPO)",
+"url": "https://www.govinfo.gov/content/pkg/BILLS-119s4784rs/html/BILLS-119s4784rs.htm"
+},
+{
+"date": "2023-07-13",
+"name": "Congressional Record, 13 July 2023, text of S.Amdt. 797 (CREC-2023-07-13-pt1-PgS2953)",
+"url": "https://www.govinfo.gov/content/pkg/CREC-2023-07-13/html/CREC-2023-07-13-pt1-PgS2953.htm"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 3,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "2008",
+"direction": "in",
+"edgeLabel": "Set the leadership-discretion precedent the domain still runs on",
+"id": "harry-reid",
+"l0": false,
+"label": "Harry M. Reid",
+"note": "The legacy effort was funded by leadership discretion outside the ordinary committee record, and every attempt to reach it since has likewise been a leadership floor amendment rather than a committee product.",
+"sources": [
+{
+"date": "2023-07-27",
+"name": "S. 2226 (Engrossed in Senate) — GPO",
+"url": "https://www.govinfo.gov/content/pkg/BILLS-118s2226es/html/BILLS-118s2226es.htm"
+}
+],
+"tier": "A",
+"type": "behavioral"
+},
+{
+"claimTier": 1,
+"cls": "legislation",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "named as an appropriate committee",
+"id": "iaa-fy2024-7343",
+"l0": true,
+"label": "FY2024 Intelligence Authorization Act sec. 7343 — Funding Limitations Relating to UAP",
+"note": "Sec. 7343(a)(1) defines 'appropriate committees of Congress' for this section as the Senate Select Committee on Intelligence, the Senate Armed Services Committee and Senate Appropriations, together with HPSCI, HASC and House Appropriations. SASC is therefore one of the six bodies to which a UAP-related programme must be reported before intelligence funds may be spent on it.",
+"sources": [
+{
+"date": "2023-12-22",
+"name": "Pub. L. 118-31 div. G sec. 7343 (FY2024 Intelligence Authorization Act), enacted text",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm"
+}
+],
+"tier": "A",
+"type": "legislative"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "2025",
+"dateStart": "2021",
+"direction": "in",
+"edgeLabel": "Chairman 2021-2025",
+"id": "jack-reed",
+"l0": false,
+"label": "John F. Reed",
+"note": "Reed chaired SASC through the only cycle in which a UAP disclosure regime reached an engrossed Senate bill.",
+"sources": [
+{
+"date": "2023-07-11",
+"name": "Congress.gov — S. 2226",
+"url": "https://www.congress.gov/bill/118th-congress/senate-bill/2226"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "legislation",
+"dateEnd": "2025",
+"dateStart": "2025",
+"direction": "in",
+"edgeLabel": "Disposed of with seventeen amendments and no open process",
+"id": "ndaa-fy2026",
+"l0": true,
+"label": "FY2026 NDAA, Public Law 119-60 - secs. 1671-1673, NORAD/NORTHCOM intercept briefings and UAP classification-guide accounting",
+"note": "The only Senate floor amendment proposed to S. 1071 was SA 3961 by Senator Thune 'to improve the bill'; there was no amendment process in which the UAPDA could have been offered.",
+"sources": [
+{
+"date": "2025-12-18",
+"name": "Congress.gov — S. 1071",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/1071"
+}
+],
+"tier": "A",
+"type": "behavioral"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "1988",
+"direction": "in",
+"edgeLabel": "Defense committee receiving waived-SAP notification",
+"id": "oversight-congress",
+"l0": true,
+"label": "Congressional oversight of special access programs",
+"note": "Same statutory provision; four committees, eight members.",
+"sources": [
+{
+"date": "2024-01-01",
+"name": "10 U.S.C. 119, Special access programs: congressional oversight",
+"url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim"
+}
+],
+"tier": "B",
+"type": "legislative"
+},
+{
+"claimTier": 1,
+"cls": "legislation",
+"dateEnd": null,
+"dateStart": "2023",
+"direction": "out",
+"edgeLabel": "Never reported the Act; it existed only as a floor amendment",
+"id": "uapda-2023",
+"l0": true,
+"label": "UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)",
+"note": "No standalone UAP disclosure bill exists in the Senate in the 118th or 119th Congress, and no committee has ever marked the text up.",
+"sources": [
+{
+"date": "2023-07-27",
+"name": "S. 2226 (Engrossed in Senate) — GPO",
+"url": "https://www.govinfo.gov/content/pkg/BILLS-118s2226es/html/BILLS-118s2226es.htm"
+},
+{
+"date": "2026-06-15",
+"name": "S. 4784 (Reported in Senate) — GPO",
+"url": "https://www.govinfo.gov/content/pkg/BILLS-119s4784rs/html/BILLS-119s4784rs.htm"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "1947",
+"direction": "in",
+"edgeLabel": "Committee of jurisdiction for DoD special access program reporting",
+"id": "us-senate",
+"l0": false,
+"label": "United States Senate",
+"note": "SASC is one of the four defense committees to which 10 U.S.C. 119 reporting runs, and one of the two whose chairman and ranking member receive waived-SAP notification.",
+"sources": [
+{
+"date": "2024-01-01",
+"name": "10 U.S.C. 119, Special access programs: congressional oversight",
+"url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "one of the six defense committees named in 10 U.S.C. 119(g)(1)",
+"id": "waived-sap-notification-group",
+"l0": true,
+"label": "Waived SAP Notification Group",
+"note": "Contributes two of the twelve seats: the chairman and the ranking minority member. Ordinary committee membership confers no entitlement.",
+"sources": [
+{
+"date": "2026-08-22",
+"name": "10 U.S.C. 119, Special Access Programs: congressional oversight — subsections (e)(2) and (g) (OLRC prelim text, read 22 August 2026)",
+"url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim"
+},
+{
+"date": "2023-12-22",
+"name": "P.L. 118-31, Sec. 1841(e) — GPO",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm"
+}
+],
+"tier": "A",
+"type": "institutional"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "1947",
+"deg": 9,
+"denials": [],
+"desc": "SASC controls the only vehicle the UAP Disclosure Act has ever ridden, and it has never once reported it. Every version of the Act — 2023, 2024 and the announced 2026 attempt — has been a floor amendment to a SASC bill rather than a product of the committee, which means the Act has never had a committee report, a markup record, or a set of members professionally invested in defending it in conference. The committee's own posture has moved from permissive to exclusionary: under Chairman Reed the FY2024 bill carried Division G into the engrossed text; under Chairman Wicker the FY2026 bill carried a three-section housekeeping subtitle and the FY2027 bill, S. 4784, carries nothing. SASC also holds one of the two sets of committees to which every enacted UAP provision reports — Secs. 1687, 7343, 1683(l) briefings and Sec. 1841(e) oversight all route through it — so it is simultaneously the body that excluded the disclosure regime from its bills and the body designated to receive whatever disclosure the surviving statutes produce.",
+"domains": [
+"congress-senate-legislation"
+],
+"dossier": {
+"claims": [
+{
+"source": "https://uscode.house.gov/view.xhtml?req=granuleid%3AUSC-prelim-title10-section119&num=0&edition=prelim",
+"text": "10 U.S.C. 119(g)(1) names the Committee on Armed Services of the Senate as one of the 'defense committees' entitled to special access program notification, making its chairman and ranking minority member two of the twelve members who may be advised of a waived SAP under section 119(e)(2).",
+"tier": 1
+},
+{
+"source": "https://uscode.house.gov/view.xhtml?req=%28title%3A50+section%3A3373+edition%3Aprelim%29 (source credit line, 50 U.S.C. 3373)",
+"text": "The statutory basis for AARO originates in section 1683 of the FY2022 NDAA, Public Law 117-81, division A, title XVI, December 27, 2021, 135 Stat. 2118, and was amended generally by Public Law 117-263 section 1673(c) and Intelligence Authorization Act section 6802(a) on December 23, 2022.",
+"tier": 1
+},
+{
+"source": "https://uscode.house.gov/view.xhtml?req=%28title%3A50+section%3A3373+edition%3Aprelim%29",
+"text": "50 U.S.C. 3373(j)(1)(B)(ii)(I) requires AARO's historical record report to include 'any program or activity that was protected by restricted access that has not been explicitly and clearly reported to Congress.'",
+"tier": 1
+},
+{
+"source": "https://uscode.house.gov/view.xhtml?req=%28title%3A50+section%3A3373+edition%3Aprelim%29",
+"text": "50 U.S.C. 3373(j)(1)(B)(ii)(III) requires the report to include 'any efforts to obfuscate, manipulate public opinion, hide, or otherwise provide incorrect unclassified or classified information about unidentified anomalous phenomena or related activities.'",
+"tier": 1
+},
+{
+"source": "https://uscode.house.gov/view.xhtml?req=%28title%3A50+section%3A3373+edition%3Aprelim%29",
+"text": "50 U.S.C. 3373(l)(4) requires the AARO Director to provide to the chair and ranking member of the Senate and House Armed Services Committees and the congressional intelligence committees 'an enumeration of any instances in which data relating to unidentified anomalous phenomena was not provided to the Office because of classification restrictions on that data or for any other reason.'",
+"tier": 1
+},
+{
+"source": "https://uscode.house.gov/view.xhtml?req=%28title%3A50+section%3A3373+edition%3Aprelim%29 (Amendments note, 2025)",
+"text": "Section 1672(b) of the FY2026 NDAA, Public Law 119-60 (December 18, 2025, 139 Stat. 1202), amended 50 U.S.C. 3373(f)(1)(A) to require that 'each element of the intelligence community and component of the Department of Defense' with UAP data make it immediately available to AARO; the prior text bound only intelligence community elements.",
+"tier": 1
+},
+{
+"source": "https://uscode.house.gov/view.xhtml?req=%28title%3A50+section%3A3373+edition%3Aprelim%29",
+"text": "Section 1671(a) of Public Law 119-60 added 50 U.S.C. 3373(l)(5), requiring each semiannual briefing to detail any UAP intercepts conducted by NORAD or U.S. Northern Command, including 'the number, location, and nature of such intercepts' and 'a description of the procedures and protocols followed during the intercepts, including any data collected or analyzed during such intercepts', and requiring notice to Congress of any failure by NORAD or NORTHCOM to provide timely information.",
+"tier": 1
+},
+{
+"source": "https://uscode.house.gov/view.xhtml?req=%28title%3A50+section%3A3373+edition%3Aprelim%29 ('First Briefing' statutory note)",
+"text": "Section 1671(b) of Public Law 119-60 requires the first post-enactment briefing to include previously unreported NORAD and NORTHCOM UAP intercepts occurring from January 1, 2004 onward.",
+"tier": 1
+},
+{
+"source": "https://uscode.house.gov/view.xhtml?req=%28title%3A50+section%3A3373+edition%3Aprelim%29 ('Accounting of Security Classification Guides' note)",
+"text": "Section 1673(a) of Public Law 119-60 requires the AARO Director, within 180 days of December 18, 2025, to make an accounting of security classification guides that apply to information used for UAP reports and investigations, and permits issuance of a consolidated security classification matrix for UAP-related programs.",
+"tier": 1
+},
+{
+"source": "https://uscode.house.gov/view.xhtml?req=%28title%3A50+section%3A3373+edition%3Aprelim%29",
+"text": "50 U.S.C. 3373(e) requires designation of one or more line organizations primarily responsible for scientific, technical and operational analysis of UAP data 'including with respect to the testing of materials, medical studies, and development of theoretical models', and requires that each such organization have authority to draw on the special expertise of persons outside the federal government with appropriate security clearances.",
+"tier": 1
+},
+{
+"source": "https://uscode.house.gov/view.xhtml?req=%28title%3A50+section%3A3373+edition%3Aprelim%29",
+"text": "50 U.S.C. 3373(i) lists the Department of Energy among the elements that may provide detailees to be physically located at AARO, alongside CIA, DIA, NSA, NGA, the service intelligence elements and DHS.",
+"tier": 1
+},
+{
+"source": "https://uscode.house.gov/view.xhtml?req=%28title%3A50+section%3A3373+edition%3Aprelim%29 (Comptroller General audit note)",
+"text": "Section 6803 of Public Law 117-263 required the Comptroller General to identify cleared GAO personnel to audit the AARO historical record report process, including on-site work, and to brief the intelligence committees, defense committees and congressional leadership semiannually on AARO's progress and compliance with legislative requirements; the requirement was extended by Public Law 118-159 section 6802 (December 23, 2024).",
+"tier": 1
+},
+{
+"source": "https://uscode.house.gov/view.xhtml?req=%28title%3A50+section%3A3373+edition%3Aprelim%29",
+"text": "Section 1687(b) of the FY2024 NDAA, Public Law 118-31 (137 Stat. 621), bars UAP-related independent research and development funding from being allowable as an indirect expense on contracts covered by DoD Instruction 3204.01 unless the material is made available to the congressional defense committees, HPSCI, SSCI and the four congressional leaders.",
+"tier": 1
+},
+{
+"source": "https://www.thedisclosureera.com/articles/uap-disclosure-act-stalls-again-uapda-excluded-from-fy2026-defense-bill; sponsor list and Review Board powers corroborated at https://www.safeaerospace.org/press-releases/uap-witness-campaign-2023",
+"text": "The UAP Disclosure Act, offered by Senators Chuck Schumer and Mike Rounds as an amendment to the FY2024 NDAA and modeled on the JFK Assassination Records Collection Act, would have created a nine-member civilian Review Board empowered to hold hearings, administer oaths and subpoena witnesses and documents, and would have asserted eminent domain over recovered technologies of unknown origin held by private entities; the Review Board and eminent domain provisions were stripped in conference and the Act was again excluded from the FY2026 NDAA.",
+"tier": 2
+}
+],
+"connections": [
+"10 U.S.C. 119(e) and (g) make the SASC chair and ranking member two of the twelve members who may be advised of a waived SAP; the House Armed Services Committee and both Appropriations Committees supply the other six",
+"Senators Kirsten Gillibrand and Marco Rubio drove the FY2023 rewrite that created AARO in statute; Senators Chuck Schumer and Mike Rounds sponsored the UAP Disclosure Act",
+"50 U.S.C. 3373(i) links SASC's statute directly to the Department of Energy, which UAP Gerb's research identifies as the alternative custody chain via NEST and the Atomic Energy Act of 1954",
+"50 U.S.C. 3373(e) links the statute to materials testing and medical studies, connecting to the AARO to Oak Ridge to UT-Battelle analysis chain alleged in 2026 reporting",
+"Section 1687(b) links SASC to DoD Instruction 3204.01 and to contractor independent research and development accounting",
+"The Comptroller General audit requirement links SASC to GAO as an independent verifier of AARO's historical record report",
+"Kirk McConnell links former SASC professional staff to Americans for Safe Aerospace and Ryan Graves",
+"NARA's UAP Records Collection under FY2024 NDAA sections 1841-1843 is the conference product that survived after the Review Board and eminent domain provisions were removed"
+],
+"denialPosture": "SASC issues no denials of its own; it is the body to which denials are owed. The relevant posture is the executive branch's, restated through 2026, that government officials have not uncovered evidence verifying any UAP case involving extraterrestrial activity or technology. That position is worth dating against the committee's own enacted text, which since December 2022 has required a formal itemization of restricted-access programs never reported to Congress and of efforts to hide or provide incorrect information about UAP.",
+"narrative": "Follow the statutory ratchet, because it is a record of what did not work.\n\nIn December 2021, section 1683 of the FY2022 NDAA, Public Law 117-81, 135 Stat. 2118, created the office structure and authorities to address what were then called unidentified aerial phenomena. Twelve months later, in December 2022, Public Law 117-263 rewrote the section twice over: section 1673(c) of the NDAA substituted anomalous for aerial throughout and added congressional leadership to the notification list, while section 6802(a) of the Intelligence Authorization Act amended the section generally, standing up the All-domain Anomaly Resolution Office proper. The Senate-side drive came from SASC members, principally Senator Kirsten Gillibrand working with Senator Marco Rubio.\n\nWhat the rewritten section actually demands is the interesting part. AARO's duties include developing procedures to synchronize and standardize the collection, reporting and analysis of UAP incidents, including adverse physiological effects, across the entire Department of Defense and intelligence community. The Secretary of Defense and the Director of National Intelligence must jointly designate an official responsible for ensuring the expertise, authorities, accesses, data, systems, platforms and capabilities exist for rapid response to and support for field investigations, and must designate one or more line organizations primarily responsible for scientific, technical and operational analysis of data, including with respect to the testing of materials, medical studies, and development of theoretical models. Congress wrote materials testing and medical studies into the statute. It also required that each designated line organization have authority to draw on the special expertise of persons outside the federal government with appropriate security clearances, and it listed the Department of Energy among the elements that may detail personnel to be physically located at the office.\n\nThe historical record report in subsection (j) is the closest thing to a congressional charge sheet in U.S. law. It requires a written report to the defense committees, the intelligence committees and congressional leadership covering the period beginning January 1, 1945, compiling the key historical record of intelligence community involvement with UAP, and specifically itemizing three things: any restricted-access program or activity not explicitly and clearly reported to Congress; successful or unsuccessful efforts to identify and track UAP; and any efforts to obfuscate, manipulate public opinion, hide, or otherwise provide incorrect information, classified or unclassified. The Archivist of the United States is directed to make NARA holdings, including classified holdings, available to AARO for that purpose. Congress then attached an auditor: section 6803 of Public Law 117-263 required the Comptroller General to identify cleared GAO personnel to audit the historical record report process, to conduct work on site as appropriate, and to brief the intelligence committees, the defense committees and congressional leadership semiannually on AARO's progress and its compliance with legislative requirements. That requirement was extended by Public Law 118-159 section 6802 in December 2024.\n\nThe FY2024 NDAA added the money lever. Section 1687(b) of Public Law 118-31 made independent research and development funding relating to UAP unallowable as an indirect expense on contracts covered by DoD Instruction 3204.01 unless the material is made available to the congressional defense committees, both intelligence committees, and the majority and minority leaders of the Senate and the Speaker and minority leader of the House. This is the appropriations-side answer to the classification-side problem, and its existence implies a belief that contractors were recovering UAP-related costs through overhead.\n\nThe FY2026 NDAA, Public Law 119-60, enacted December 18, 2025, shows what still was not working. Section 1671 added a new subsection (l)(5) requiring every semiannual briefing to include details on any UAP intercepts conducted by the North American Aerospace Defense Command or United States Northern Command, including the number, location and nature of the intercepts and a description of the procedures and protocols followed, including any data collected or analyzed during such intercepts, and requiring the AARO Director to inform Congress of any failure by NORAD or NORTHCOM to provide timely information. Section 1671(b) reached backward, requiring the first briefing after enactment to cover intercepts not previously reported going back to January 1, 2004. Section 1673(a) gave the AARO Director 180 days to produce an accounting of the security classification guides that apply to information used for UAP reports and investigations, with discretionary authority to issue a consolidated security classification matrix. Section 1672(b) rewrote the data-availability clause so that the immediate-production requirement now binds each element of the intelligence community and component of the Department of Defense with UAP data, where the prior text bound only intelligence community elements.\n\nThat last amendment is the single most damning line in the sequence. From December 2022 to December 2025, the statutory command to hand UAP data over immediately did not reach Department of Defense components as such. The department that operates the special access program system, that houses DoD SAPCO, and that owns the classification guides sat outside the mandate for three years, and it took an act of Congress in December 2025 to close it.\n\nWhat SASC has not delivered is the enforcement architecture. The UAP Disclosure Act, offered by Senators Chuck Schumer and Mike Rounds as an NDAA amendment and modeled on the JFK Assassination Records Collection Act, would have created a nine-member presidentially appointed civilian Review Board with subpoena power and would have asserted federal eminent domain over recovered technologies of unknown origin held by private entities. The Review Board and the eminent domain provision were stripped in conference in FY2024, and the Act was excluded again from the FY2026 NDAA. What survived was a records collection with no independent adjudicator. The one provision that would have reached into contractor custody, eminent domain over recovered technologies of unknown origin, is the one that has never made it into law.",
+"openQuestions": [
+"Has any SASC chair or ranking member ever received a waived-SAP notification touching UAP, and is there any record of it in the DoD SAPCO congressional-disclosure logs required by DoDD 5205.07?",
+"What did the subsection (l)(4) enumerations of withheld data actually contain, and how many instances have been reported to date?",
+"Why did the immediate data-availability mandate exclude Department of Defense components from December 2022 until December 2025, and who benefited from that gap?",
+"Whether AARO's historical record report, covering January 1, 1945 forward, has itemized any restricted-access program not previously reported to Congress",
+"What GAO's semiannual audit briefings on AARO's compliance have found, and whether any unclassified version exists",
+"Why the eminent domain provision over recovered technologies of unknown origin has been removed from every enacted NDAA since 2023, and at whose insistence",
+"Whether the section 1673(a) accounting of UAP security classification guides was delivered within the 180-day deadline in June 2026"
+],
+"roles": [
+"oversight",
+"funding",
+"concealment",
+"disclosure"
+],
+"whatItIs": "The Committee on Armed Services of the United States Senate, one of the six defense committees named in 10 U.S.C. 119(g), and therefore one of the bodies whose chairman and ranking minority member sit inside the twelve-member group that may be advised of a waived special access program. SASC is also the drafting venue for the annual National Defense Authorization Act provisions that created the All-domain Anomaly Resolution Office, defined unidentified anomalous phenomena in statute, and progressively tightened the reporting obligations attached to them.",
+"whyImplicated": "SASC occupies the structural pinch point: it is simultaneously the committee that is supposed to receive notification of the most closely held programs and the committee that keeps writing new statutes because it apparently is not receiving it. The language it has enacted is an admission. 50 U.S.C. 3373(j) requires AARO's historical record report to itemize any program or activity that was protected by restricted access that has not been explicitly and clearly reported to Congress, and any efforts to obfuscate, manipulate public opinion, hide, or otherwise provide incorrect unclassified or classified information about UAP. Congress does not write that sentence about a subject on which it believes it has been told the truth. Subsection (l)(4) goes further, requiring the AARO Director to hand the SASC and SSCI chair and ranking member an enumeration of every instance in which UAP data was withheld from AARO because of classification restrictions or for any other reason, which is a statutory acknowledgment that data is being withheld from the office created to collect it. And in December 2025 Congress had to amend the statute again to extend the immediate data-availability requirement beyond intelligence community elements to Department of Defense components, meaning that for three years the mandate did not reach the department that owns the special access program system."
+},
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "senate-armed-services",
+"l0": true,
+"label": "Senate Armed Services Committee",
+"locLabel": null,
+"members": [
+{
+"cls": "domain",
+"id": "d-legislative",
+"label": "Legislative Process (proposed and pending)",
+"tier": "B"
+},
+{
+"cls": "person",
+"id": "harry-reid",
+"label": "Harry M. Reid",
+"tier": "A"
+},
+{
+"cls": "person",
+"id": "jack-reed",
+"label": "John F. Reed",
+"tier": "B"
+},
+{
+"cls": "institution",
+"id": "us-senate",
+"label": "United States Senate",
+"tier": "C"
+}
+],
+"short": "Senate Armed Services Committee",
+"sources": [
+{
+"date": "2023-12-22",
+"name": "P.L. 118-31, Sec. 1841(e) — GPO",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm"
+},
+{
+"date": "2026-06-15",
+"name": "S. 4784 (Reported in Senate) — GPO",
+"url": "https://www.govinfo.gov/content/pkg/BILLS-119s4784rs/html/BILLS-119s4784rs.htm"
+}
+],
+"sub": "Committee of jurisdiction over the NDAA vehicle",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 388 of 1027, score 33). 9 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A3/D1.",
+"timeline": []
+}

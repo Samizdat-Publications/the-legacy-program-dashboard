@@ -1,0 +1,175 @@
+{
+"A": 3,
+"C": 2,
+"D": 1,
+"band": null,
+"claims": [
+{
+"source": "American Alchemy with Jesse Michels, 'The Man That Hacked NASA and Found UFOs [Interview w/ Gary McKinnon]', 1 March 2026, 0:56:22 https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL6287765066.mp3?updated=1772392329",
+"text": "On American Alchemy with Jesse Michels, 1 March 2026, Gary McKinnon said that on his arrest 'all my data was taken to O&I, Office of Naval Intelligence', that ONI still holds his hard drives, and that he has tried to recover them for years and been told it is an ongoing investigation (0:56:22).",
+"tier": 2
+},
+{
+"source": "Office of Naval Intelligence, official website, retrieved 12 August 2026",
+"text": "ONI describes itself as established in 1882 and 'the nation's longest-serving intelligence agency', headquartered at 4251 Suitland Road, Washington DC.",
+"tier": 1
+},
+{
+"source": "ODNI Preliminary Assessment, 25 June 2021",
+"text": "ODNI's 2021 Preliminary Assessment lists 'Navy/ONI' among the contributing elements.",
+"tier": 1
+},
+{
+"source": "ONI FOIA responses to John Greenewald Jr. / The Black Vault, as published",
+"text": "ONI has responded to FOIA requests concerning the 2004 Nimitz encounter by asserting that responsive briefing material and video are classified TOP SECRET/SCI and withholding them in full.",
+"tier": 2
+},
+{
+"source": "Inference from the August 2020 DEPSECDEF establishment of the UAPTF under Navy lead",
+"text": "The Navy's designation as lead for the UAP Task Force in August 2020 placed the government's UAP effort inside a service intelligence organisation with no acquisition equity in any legacy exploitation program, which is why the Task Force's product was releasable at all. Reasoning: the offices with custody equity had, on the whistleblower account, every incentive to keep it; the Navy did not.",
+"tier": 3
+}
+],
+"cls": "institution",
+"cluster": "other",
+"connections": [
+{
+"claimTier": 2,
+"cls": "document",
+"dateEnd": "2026",
+"dateStart": "1958",
+"direction": "in",
+"edgeLabel": "Alleges MITRE support to two Navy-spearheaded legacy programs",
+"id": "gerb-mitre-investigation",
+"l0": true,
+"label": "UAP Gerb - The MITRE Corporation investigation",
+"note": "The two alleged programs: reverse engineering and maturation of technologies from late-1940s recoveries, and tracking of a large USO with semi-permanent Atlantic station, with all-source data processed by MITRE. Gerb notes the oddity that MITRE was founded by and modelled on USAF structures yet is intimately involved in Navy secret programs.",
+"sources": [
+{
+"date": "2026-08-07",
+"name": "UAP Gerb - The MITRE Corporation investigation",
+"url": "https://www.youtube.com/watch?v=107BtDYhTkA"
+}
+],
+"tier": "B",
+"type": "programmatic"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2021-06-25",
+"direction": "out",
+"edgeLabel": "Named contributor to the 2021 ODNI Preliminary Assessment on UAP",
+"id": "odni",
+"l0": true,
+"label": "Office of the Director of National Intelligence",
+"note": "ODNI's 25 June 2021 assessment names Navy/ONI among the contributing elements, establishing that this agency produced or held UAP-relevant reporting.",
+"sources": [
+{
+"date": "2021-06-25",
+"name": "ODNI, Preliminary Assessment: Unidentified Aerial Phenomena",
+"url": "https://archive.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": "2022",
+"dateStart": "2020",
+"direction": "in",
+"edgeLabel": "sited in the Department of the Navy with ONI involvement",
+"id": "uap-task-force",
+"l0": true,
+"label": "Unidentified Aerial Phenomena Task Force (UAPTF)",
+"note": "The Deputy Secretary of Defense established the UAPTF under USD(I&S) cognisance with the Department of the Navy leading, placing it in ONI's institutional orbit.",
+"sources": [
+{
+"date": "2020-08-14",
+"name": "US Navy press release",
+"url": "https://www.navy.mil/Press-Office/Press-Releases/display-pressreleases/Article/2314280/establishment-of-unidentified-aerial-phenomena-task-force/"
+},
+{
+"date": "2021-06-25",
+"name": "ODNI, Preliminary Assessment: Unidentified Aerial Phenomena",
+"url": "https://archive.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf"
+},
+{
+"date": "2026-08-12",
+"name": "Office of Naval Intelligence - official website",
+"url": "https://www.oni.navy.mil/"
+}
+],
+"tier": "A",
+"type": "institutional"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "1882-03-23",
+"deg": 3,
+"denials": [],
+"desc": "ONI describes itself as 'America's premier maritime intelligence service and a core element of the U.S. Navy's Information Warfare Community', established in 1882 and 'the nation's longest-serving intelligence agency', headquartered at 4251 Suitland Road, Washington DC. Its centrality to the modern UAP record is structural: the encounters that reopened the subject were Navy encounters - the 2004 Nimitz events off Southern California and the 2014-2015 Roosevelt events off the Atlantic coast - and when the Deputy Secretary of Defense formalised the government's response on 4 August 2020, the Unidentified Aerial Phenomena Task Force was established under the cognisance of the Under Secretary of Defense for Intelligence and Security with the Department of the Navy designated to lead it, which placed the Task Force in ONI's institutional orbit. ONI is named in ODNI's 2021 Preliminary Assessment among the contributing elements, listed there as 'Navy/ONI'. ONI is also the agency that has given the most explicit public confirmation that classified UAP holdings exist: in responses to FOIA requests concerning the Nimitz encounter, ONI stated that the responsive material included briefing documents and video classified at the TOP SECRET/SCI level and withheld them in full. That is a formal agency assertion, in writing, that a body of TOP SECRET/SCI UAP material exists - the same category of admission the NSA made in 1980, made forty years later by a different service.",
+"domains": [
+"_rs-archive-mirror",
+"w2-agencies"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "oni",
+"l0": false,
+"label": "Office of Naval Intelligence",
+"locLabel": null,
+"members": null,
+"short": "Office of Naval Intelligence",
+"sources": [
+{
+"date": "2026-03-01",
+"name": "American Alchemy with Jesse Michels, 'The Man That Hacked NASA and Found UFOs [Interview w/ Gary McKinnon]', episode audio",
+"url": "https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL6287765066.mp3?updated=1772392329"
+},
+{
+"date": "2026-05-22",
+"name": "Archived: Office of Naval Intelligence - homepage (Wayback 2026-05-22)",
+"url": "https://web.archive.org/web/20260522215233/https://www.oni.navy.mil/"
+},
+{
+"date": "2026-08-11",
+"name": "Archived: ODNI, Preliminary Assessment: Unidentified Aerial Phenomena (Wayback 2026-08-11)",
+"url": "https://web.archive.org/web/20260811010946/https://archive.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf"
+},
+{
+"date": "2026-08-12",
+"name": "Office of Naval Intelligence - homepage",
+"url": "https://www.oni.navy.mil/"
+},
+{
+"date": "2021-06-25",
+"name": "ODNI, Preliminary Assessment: Unidentified Aerial Phenomena",
+"url": "https://archive.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf"
+}
+],
+"sub": "Established 1882; the nation's longest-serving intelligence agency; parent of the UAP Task Force",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 309 of 1027, score 36). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A3/D1.",
+"timeline": [
+{
+"date": "2020-08-04",
+"id": "ag-tl-2020-uaptf",
+"label": "UAP Task Force established under Navy lead",
+"precision": "day",
+"strand": "program",
+"text": "The Deputy Secretary of Defense formalises the government's UAP effort under USD(I&S) cognisance with the Department of the Navy leading, placing it in ONI's institutional orbit and out of the hands of offices with acquisition equity.",
+"tier": "A"
+}
+]
+}

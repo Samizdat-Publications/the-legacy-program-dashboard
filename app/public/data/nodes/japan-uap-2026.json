@@ -1,0 +1,102 @@
+{
+"A": 1,
+"C": 0,
+"D": 2,
+"band": null,
+"claims": [
+{
+"source": "Kyodo News (English), 9 May 2026, indexed via Google News",
+"text": "Kyodo News headline, 9 May 2026: 'UFO footage disclosed by U.S. shows football-shaped object near Japan.'",
+"tier": 2
+},
+{
+"source": "The Japan Times, 11 May 2026, indexed via Google News",
+"text": "The Japan Times headline, 11 May 2026: 'Tokyo analyzing Pentagon UFO file trove with sightings near Japan.'",
+"tier": 2
+},
+{
+"source": "International Business Times UK, 13 May 2026, indexed via Google News",
+"text": "International Business Times UK headline, 13 May 2026: 'Japan Confirms Possession of UAP Footage After Reviewing Pentagon Videos Near Japanese Airspace.'",
+"tier": 2
+}
+],
+"cls": "event",
+"cluster": "oversight",
+"connections": [
+{
+"claimTier": 2,
+"cls": "event",
+"dateEnd": "2026-05-13",
+"dateStart": "2026-05-08",
+"direction": "out",
+"edgeLabel": "both are allied-state responses to the same May 2026 US release",
+"id": "ev-argentina-bariloche-1995",
+"l0": false,
+"label": "Aerolíneas Argentinas flight AR 674, San Carlos de Bariloche, 31 July 1995",
+"note": "The 8 May 2026 US release of more than 160 files produced within days an Argentine national story and a Japanese government review.",
+"sources": [
+{
+"date": "2026-05-11",
+"name": "Buenos Aires Times",
+"url": "https://www.batimes.com.ar/news/argentina/bariloche-sighting-cited-in-newly-released-pentagon-files-on-ufos.phtml"
+},
+{
+"date": "2026-05-11",
+"name": "The Japan Times",
+"url": "https://www.japantimes.co.jp/news/2026/05/11/japan/pentagon-ufo-files-japan/"
+}
+],
+"tier": "C",
+"type": "temporal"
+}
+],
+"coords": null,
+"dateEnd": "2026-05-13",
+"dateStart": "2026-05-09",
+"deg": 1,
+"denials": [],
+"desc": "Japan is the clearest 2026 case of an American disclosure action propagating into an allied government. Within days of the first US Department of Defense UAP file release of 8 May 2026, Kyodo News reported on 9 May 2026 that footage disclosed by the United States showed a football-shaped object near Japan; The Japan Times reported on 11 May 2026 that Tokyo was analysing the Pentagon file trove for sightings near Japan; and on 13 May 2026 further coverage reported that the Japanese government had confirmed possession of UAP footage after reviewing the Pentagon videos taken near Japanese airspace, and that Japan would release UAP files of its own. Japan has no standing UAP office of the GEIPAN or SEFAA kind; its historical engagement with the subject is dominated by the Japan Air Lines flight 1628 encounter over Alaska on 17 November 1986, in which the Federal Aviation Administration's own investigation became a public controversy in the United States rather than in Japan. The 2026 sequence is therefore a step change and should be tracked closely.",
+"domains": [
+"w2-international"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "japan-uap-2026",
+"l0": false,
+"label": "Japan's review of the 2026 US UAP file releases",
+"locLabel": null,
+"members": null,
+"short": "Japan's review of the 2026 US UAP file releases",
+"sources": [
+{
+"date": "2026-05-09",
+"name": "Kyodo News - UFO footage disclosed by U.S. shows football-shaped object near Japan",
+"url": "https://english.kyodonews.net/"
+},
+{
+"date": "2026-05-11",
+"name": "The Japan Times - Tokyo analyzing Pentagon UFO file trove",
+"url": "https://www.japantimes.co.jp/news/2026/05/11/japan/pentagon-ufo-files-japan/"
+}
+],
+"sub": "Tokyo analyses Pentagon-released files containing sightings near Japan, May 2026",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 908 of 1027, score 14). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D2.",
+"timeline": [
+{
+"date": "2026-05-13",
+"id": "tl-intl-2026-japan",
+"label": "Japan confirms it holds UAP footage",
+"precision": "day",
+"strand": "oversight",
+"text": "Following its review of the US release, coverage reports that the Japanese government has confirmed possession of UAP footage taken near Japanese airspace and that Japan will release files of its own. Japan has no standing UAP office of the GEIPAN or SEFAA kind.",
+"tier": 2
+}
+]
+}

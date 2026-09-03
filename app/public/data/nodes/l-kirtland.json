@@ -1,0 +1,342 @@
+{
+"A": 3,
+"C": 2,
+"D": 1,
+"band": null,
+"claims": [
+{
+"source": "Wikipedia, Kirtland Air Force Base, citing USAF fact sheets — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"text": "Kirtland AFB covers 51,558 acres in southeast Albuquerque; Manzano Base merged with Kirtland on 1 July 1971; KUMMSC was activated in 1992 with more than 300,000 square feet underground.",
+"tier": 2
+},
+{
+"source": "Wikipedia, Paul Bennewitz, citing contemporaneous correspondence and the Albuquerque Tribune — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"text": "Bennewitz dated the start of his personally funded study to July 1979, contacted the base on 24 October 1980 and briefed Kirtland officials on 10 November 1980.",
+"tier": 2
+},
+{
+"source": "Wikipedia, Paul Bennewitz, citing Moore's 1989 MUFON statement and the Monroe Institute article in the CIA reading room",
+"text": "On 1 July 1989 William Moore stated publicly that he had attempted to push Bennewitz into a mental breakdown by feeding him false information about aliens; a 1992 article held in the CIA library identified Moore and AFOSI agent Richard Doty as responsible for a disinformation campaign against Bennewitz.",
+"tier": 2
+},
+{
+"source": "Doty's own public statements as summarised in the Paul Bennewitz article",
+"text": "Richard C. Doty, a former AFOSI special agent, has said he was tasked in the 1980s with hoaxing documents and feeding false information to UFO researchers including Bennewitz.",
+"tier": 2
+},
+{
+"source": "Inference from the admitted Doty/Moore campaign and the absence of any official account of the 1979-1980 Manzano observations",
+"text": "The Bennewitz operation establishes that at least one counterintelligence element treated civilian observation of anomalous activity over a nuclear weapons storage site as a problem to be neutralised by deception rather than investigated. Reasoning: the disinformation is admitted by two named participants; the underlying stimulus - lights over Manzano in 1979-1980 - has never been officially explained.",
+"tier": 3
+}
+],
+"cls": "location",
+"cluster": "legacy",
+"connections": [
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "2024",
+"dateStart": "2024",
+"direction": "in",
+"edgeLabel": "nuclear-adjacent installations named in AARO's own unresolved allegations",
+"id": "aaro",
+"l0": true,
+"label": "All-domain Anomaly Resolution Office (AARO)",
+"note": "Volume I page 30 records interviews with five former Air Force officers who served at Malmstrom, Ellsworth, Vandenberg and Minot between 1966 and 1977 and defers the unresolved allegations to Volume II.",
+"sources": [
+{
+"date": "2024-03-08",
+"name": "AARO Historical Record Report Volume I, p.30",
+"url": "https://en.wikisource.org/wiki/Page:AARO_Historical_Record_Report_Volume_1_2024.pdf/30"
+},
+{
+"date": "2024-03-08",
+"name": "AARO Historical Record Report Volume I (DOPSR-cleared PDF)",
+"url": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 2,
+"cls": "document",
+"dateEnd": "1981",
+"dateStart": "1980",
+"direction": "in",
+"edgeLabel": "The AFOSI Kirtland file is the documentary residue of the Bennewitz operation",
+"id": "afosi-kirtland-file",
+"l0": false,
+"label": "AFOSI Kirtland AFB UFO File (1980-1983)",
+"note": "The AFOSI documents concerning the 1980 Kirtland incidents are the only contemporaneous official records of the observations that triggered the campaign against Bennewitz.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Wikipedia - Kirtland Air Force Base",
+"url": "https://en.wikipedia.org/wiki/Kirtland_Air_Force_Base"
+}
+],
+"tier": "B",
+"type": "custody"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "1983",
+"dateStart": "1980",
+"direction": "in",
+"edgeLabel": "AFOSI District 17 file generated at Kirtland AFB",
+"id": "afosi-kirtland-file",
+"l0": false,
+"label": "AFOSI Kirtland AFB UFO File (1980-1983)",
+"note": "The 10 November 1980 record concerns observations by Kirtland security police over Coyote Canyon and the Manzano storage area.",
+"sources": [
+{
+"date": "2021-05-20",
+"name": "Richard Doty Personnel File - New Mexico State Police [321 pages], NM Inspection of Public Records Act release",
+"url": "https://www.theblackvault.com/documentarchive/richard-doty-personnel-file-new-mexico-state-police/"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "1959",
+"dateStart": "1959",
+"direction": "in",
+"edgeLabel": "Issued from Kirtland Air Force Base, New Mexico",
+"id": "afswc-tr-59-39",
+"l0": true,
+"label": "AFSWC TR-59-39 Vol I, A Study of Lunar Research Flights, 19 June 1959",
+"note": "Headquarters Air Force Special Weapons Center is named on the title page with Kirtland as its station.",
+"sources": [
+{
+"date": "1959-06-19",
+"name": "AFSWC TR-59-39 Vol I, A Study of Lunar Research Flights, DDC AD 425380",
+"url": "https://archive.org/details/DTIC_AD0425380"
+}
+],
+"tier": "A",
+"type": "geographic"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "1960",
+"dateStart": "1960",
+"direction": "in",
+"edgeLabel": "Chief, Structures Division, Air Force Special Weapons Center, Kirtland AFB",
+"id": "eric-wang",
+"l0": false,
+"label": "Eric H. Wang",
+"note": "A 1960 DTIC report names 'Eric H. Wang, Chief, Structures Division' at Headquarters Research Directorate, AFSWC, Kirtland Air Force Base, New Mexico. His documented work there is blast effects on structures.",
+"sources": [
+{
+"date": "1960-05-06",
+"name": "Blast Effects on Existing Upshot-Knothole and Teapot Structures, DTIC AD0460283",
+"url": "https://archive.org/details/DTIC_AD0460283"
+}
+],
+"tier": "B",
+"type": "geographic"
+},
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": "1980",
+"dateStart": "1980",
+"direction": "in",
+"edgeLabel": "Occurred at the Manzano Weapons Storage Area and Coyote Canyon",
+"id": "kirtland-manzano-1980",
+"l0": false,
+"label": "Kirtland AFB / Manzano Weapons Storage Area incident",
+"note": "Manzano is a nuclear weapons storage area on the Kirtland footprint shared with Sandia National Laboratories.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "NICAP - Kirtland AFB FOIA files",
+"url": "https://www.nicap.org/foia_003.htm"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 2,
+"cls": "location",
+"dateEnd": null,
+"dateStart": "1941",
+"direction": "out",
+"edgeLabel": "Kirtland AFB lies inside the Albuquerque city limits",
+"id": "l-albuquerque",
+"l0": false,
+"label": "Albuquerque, New Mexico",
+"note": "The base occupies 51,558 acres in the southeast quadrant of Albuquerque and shares runways with the Albuquerque International Sunport.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Wikipedia - Kirtland Air Force Base",
+"url": "https://en.wikipedia.org/wiki/Kirtland_Air_Force_Base"
+}
+],
+"tier": "B",
+"type": "geographic"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "1980",
+"dateStart": "1979",
+"direction": "in",
+"edgeLabel": "Bennewitz's 1979-1980 observations were of the Manzano area of Kirtland AFB",
+"id": "paul-bennewitz",
+"l0": false,
+"label": "Paul Frederick Bennewitz",
+"note": "Bennewitz dated his personally funded study to July 1979, filmed lights and recorded signals over the base, contacted Kirtland on 24 October 1980 and briefed base officials on 10 November 1980. Attested by his own correspondence and contemporary press.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Wikipedia - Paul Bennewitz",
+"url": "https://en.wikipedia.org/wiki/Paul_Bennewitz"
+}
+],
+"tier": "B",
+"type": "witness-chain"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "1988",
+"dateStart": "1980",
+"direction": "in",
+"edgeLabel": "Doty's AFOSI detachment ran the Bennewitz deception from Kirtland",
+"id": "richard-doty",
+"l0": false,
+"label": "Richard C. Doty",
+"note": "Richard C. Doty, an AFOSI special agent at Kirtland, has said publicly he was tasked in the 1980s with hoaxing documents and feeding false information to UFO researchers including Bennewitz. A 1992 article held in the CIA library names Doty and William Moore.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Wikipedia - Paul Bennewitz",
+"url": "https://en.wikipedia.org/wiki/Paul_Bennewitz"
+}
+],
+"tier": "B",
+"type": "behavioral"
+},
+{
+"claimTier": 2,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "1949",
+"direction": "in",
+"edgeLabel": "Sandia National Laboratories is adjacent to Kirtland AFB",
+"id": "sandia",
+"l0": true,
+"label": "Sandia National Laboratories",
+"note": "Sandia, descended from the Manhattan Project's Z Division, sits adjacent to Kirtland; Bennewitz licensed his humidity sensor technology from Sandia in 1966.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Wikipedia - Kirtland Air Force Base",
+"url": "https://en.wikipedia.org/wiki/Kirtland_Air_Force_Base"
+},
+{
+"date": "2026-08-12",
+"name": "Wikipedia - Paul Bennewitz",
+"url": "https://en.wikipedia.org/wiki/Paul_Bennewitz"
+}
+],
+"tier": "A",
+"type": "geographic"
+},
+{
+"claimTier": 3,
+"cls": "program",
+"dateEnd": "2023",
+"dateStart": "1980",
+"direction": "in",
+"edgeLabel": "reported in the lineage of Air Force UFO deception operations centred on Kirtland/AFOSI",
+"id": "yankee-blue",
+"l0": true,
+"label": "YANKEE BLUE (alleged AFOSI indoctrination program)",
+"note": "Yankee Blue sits in the same documented Air Force practice of manufacturing UFO belief for security purposes as the Kirtland AFB/AFOSI operations against Paul Bennewitz. The connection is thematic and institutional; no released document ties Yankee Blue administratively to Kirtland.",
+"sources": [
+{
+"date": "2025-06-10",
+"name": "Garber Files - From Mirage Men to Military Deception: The Documented Pattern of Military Alien Psyops",
+"url": "https://garberfiles.substack.com/p/from-mirage-men-to-military-deception"
+}
+],
+"tier": "B",
+"type": "institutional"
+}
+],
+"coords": [
+35.0403,
+-106.6092
+],
+"dateEnd": null,
+"dateStart": "1941",
+"deg": 10,
+"denials": [],
+"desc": "Kirtland Air Force Base occupies 51,558 acres in the southeast quadrant of Albuquerque, sharing runways with the Albuquerque International Sunport. It began as three private airfields, was taken over as Albuquerque Army Air Base in 1941, renamed Kirtland Army Air Field on 24 February 1942 for Col. Roy C. Kirtland, and became Kirtland Air Force Base on 13 January 1948 - the same day as Wright-Patterson. Its relevance is that it is the single densest concentration of nuclear-weapons and directed-energy infrastructure in the United States sitting inside a city: Sandia National Laboratories, descended from the Manhattan Project's Z Division, is adjacent; the Air Force Nuclear Weapons Center and the 377th Air Base Wing are hosted here; the Air Force Research Laboratory Directed Energy Directorate runs the laser and high-power microwave portfolio here; the Manzano Base weapons storage complex, tunnelled into the Manzano Mountains on the base's eastern edge, merged administratively with Kirtland on 1 July 1971; and the Kirtland Underground Munitions Maintenance and Storage Complex, activated in 1992, is described in the base's own literature as the largest nuclear weapons storage facility in the world, with more than 300,000 square feet underground. Kirtland is also the operational address of the best-documented domestic UAP-adjacent counterintelligence operation on the record. Albuquerque businessman Paul Bennewitz, whose company Thunder Scientific sat on the base perimeter and sold humidity sensors licensed from Sandia in 1966, began a self-funded study in July 1979, filmed lights over the Manzano storage area and recorded anomalous signals, contacted the base on 24 October 1980 and briefed Kirtland officials on 10 November 1980. What followed was a sustained feed of fabricated material through the Air Force Office of Special Investigations detachment here, later admitted in public by AFOSI special agent Richard C. Doty and by UFO researcher William Moore, who stated on 1 July 1989 that he had participated in an effort to push Bennewitz toward a breakdown by feeding him false information. Bennewitz was hospitalised in August 1988 and died on 23 June 2003. The Bennewitz operation is the board's clearest evidence that counterintelligence resources were deployed against a private citizen over UAP-adjacent observations at a nuclear site, and Kirtland is where it happened.",
+"domains": [
+"w2-places-events"
+],
+"dossier": null,
+"entityInfo": {
+"desc": "The Bennewitz operation is the best-documented instance in the American record of counterintelligence resources being deployed against a private citizen over UAP-adjacent observations, and both principal participants have admitted it. William Moore stated publicly on 1 July 1989 that he had attempted to push Bennewitz into a mental breakdown by feeding him false information; AFOSI special agent Richard C. Doty has said he was tasked in the 1980s with hoaxing documents and feeding false information to UFO researchers including Bennewitz; and a 1992 article held in the CIA library names both men. The material fed to Bennewitz - underground bases, alien-government agreements, the Dulce mythos - became load-bearing folklore that has contaminated the field for four decades. The stimulus that started it, the lights and signals Bennewitz recorded over the Manzano nuclear weapons storage area in 1979-1980, has never received an official explanation.",
+"sources": []
+},
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "l-kirtland",
+"l0": false,
+"label": "Kirtland Air Force Base and Albuquerque, New Mexico",
+"locLabel": "Kirtland AFB, New Mexico, USA",
+"members": null,
+"short": "Kirtland Air Force Base and Albuquerque, New Mexico",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Wikipedia - Kirtland Air Force Base",
+"url": "https://en.wikipedia.org/wiki/Kirtland_Air_Force_Base"
+},
+{
+"date": "2026-08-12",
+"name": "Wikipedia - Paul Bennewitz",
+"url": "https://en.wikipedia.org/wiki/Paul_Bennewitz"
+}
+],
+"sub": "51,558-acre USAF installation, southeast Albuquerque; AFRL Directed Energy, AFNWC, Manzano, KUMMSC, Sandia",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 187 of 1027, score 45). 11 connections, 2 of them custody/witness/funding/programmatic. Axes C2/A3/D1.",
+"timeline": [
+{
+"date": "1979-07-01",
+"id": "tl-1979-bennewitz",
+"label": "Bennewitz begins his Manzano study",
+"precision": "month",
+"strand": "witness",
+"text": "The Albuquerque businessman starts a self-funded study of lights and signals over the Kirtland/Manzano nuclear weapons storage area. He contacts the base 24 October 1980 and briefs officials 10 November 1980.",
+"tier": "A"
+},
+{
+"date": "1989-07-01",
+"id": "tl-1989-moore",
+"label": "Moore admits the Bennewitz deception",
+"precision": "day",
+"strand": "coverup",
+"text": "William Moore states publicly that he attempted to push Bennewitz toward a breakdown by feeding him false information. Bennewitz had been hospitalised in August 1988; he dies 23 June 2003.",
+"tier": "A"
+}
+]
+}

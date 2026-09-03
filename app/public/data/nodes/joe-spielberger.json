@@ -1,0 +1,207 @@
+{
+"A": 0,
+"C": 0,
+"D": 2,
+"affiliations": [
+"Project On Government Oversight, Senior Policy Counsel",
+"Project On Government Oversight"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "2025-09-09",
+"event": "Testifies as the minority witness before the House Oversight Task Force on whistleblower protection failures.",
+"precision": "day"
+},
+{
+"date": "2025-09-09",
+"event": "Minority witness, House Oversight Task Force UAP transparency hearing",
+"precision": "day"
+}
+],
+"claims": [
+{
+"source": "CHRG-119hhrg61718 CONTENTS",
+"text": "Minority witness of record at the 9 September 2025 hearing: 'Mr. Joe Spielberger (Minority Witness), Senior Policy Counsel, Project on Government Oversight'.",
+"tier": 1
+},
+{
+"source": "House Oversight hearing page and Spielberger written testimony, 9 September 2025",
+"text": "Called as the minority witness at the 9 September 2025 hearing; written testimony published by the House Oversight Committee.",
+"tier": 1
+},
+{
+"source": "GPO CHRG-119hhrg61718, 9 September 2025",
+"text": "Ranking Member Crockett devoted her entire questioning round to him on the protections available to those who come forward.",
+"tier": 1
+},
+{
+"source": "https://oversight.house.gov/wp-content/uploads/2025/09/Spielberger-Written-Testimony.pdf",
+"text": "Appeared as minority witness, Senior Policy Counsel of the Project On Government Oversight, at the 9 September 2025 hearing; written testimony filed.",
+"tier": 1
+},
+{
+"source": "https://defensescoop.com/2025/09/09/military-whistleblowers-share-new-evidence-alleged-uap-ufo-hearing/",
+"text": "Called for strengthened disclosure channels and whistleblower protections for UAP witnesses.",
+"tier": 2
+}
+],
+"cls": "person",
+"cluster": "other",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": "2025-09-09",
+"dateStart": "2025-09-09",
+"direction": "out",
+"edgeLabel": "minority witness",
+"id": "hearing-2025-09-09",
+"l0": true,
+"label": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'",
+"note": "POGO's senior policy counsel was the minority's chosen witness, arguing for stronger disclosure channels rather than contesting the phenomenology.",
+"sources": [
+{
+"date": "2025-09-09",
+"name": "House Oversight, 9 September 2025 hearing page",
+"url": "https://oversight.house.gov/hearing/restoring-public-trust-through-uap-transparency-and-whistleblower-protection/"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": null,
+"dateStart": "2025-09-09",
+"direction": "out",
+"edgeLabel": "minority witness",
+"id": "hearing-2025-09-09",
+"l0": true,
+"label": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'",
+"note": "Listed in the printed hearing record as the minority witness.",
+"sources": [
+{
+"date": "2025-09-09",
+"name": "CHRG-119hhrg61718, printed hearing transcript, 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection', Serial No. 119-44",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/pdf/CHRG-119hhrg61718.pdf"
+}
+],
+"tier": "A",
+"type": "programmatic"
+},
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": null,
+"dateStart": "2025",
+"direction": "out",
+"edgeLabel": "Minority witness on whistleblower protection architecture",
+"id": "hearing-2025-09-09",
+"l0": true,
+"label": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'",
+"note": "Called by Ranking Member Crockett, who devoted her entire round to him.",
+"sources": [
+{
+"date": "2025-09-09",
+"name": "U.S. GPO, Hearing transcript, Serial No. 119-44 (CHRG-119hhrg61718)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm"
+},
+{
+"date": "2025-09-09",
+"name": "Joe Spielberger (POGO), written testimony, House Oversight Task Force",
+"url": "https://oversight.house.gov/wp-content/uploads/2025/09/Spielberger-Written-Testimony.pdf"
+}
+],
+"tier": "A",
+"type": "witness-chain"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "2025",
+"dateStart": "2025",
+"direction": "in",
+"edgeLabel": "Called him as the minority witness and devoted her round to whistleblower protection architecture",
+"id": "jasmine-crockett",
+"l0": false,
+"label": "Jasmine Felicia Crockett",
+"note": "The policy bridge from UAP allegations to H.R. 5060.",
+"sources": [
+{
+"date": "2025-09-09",
+"name": "U.S. GPO, Hearing transcript, Serial No. 119-44 (CHRG-119hhrg61718)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm"
+}
+],
+"tier": "C",
+"type": "investigative"
+}
+],
+"date": "2025-09-09",
+"dateEnd": null,
+"dateStart": "2025-09-09",
+"deg": 2,
+"denials": [],
+"domains": [
+"_rs-legislation",
+"congress-house",
+"w2-2025-2026"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "joe-spielberger",
+"instId": "pogo",
+"l0": false,
+"label": "Joe Spielberger",
+"loc": "Washington, DC",
+"locId": "l-dc",
+"members": null,
+"narrative": "Joe Spielberger is Senior Policy Counsel at the Project On Government Oversight and appeared as the minority witness at the House Oversight Task Force hearing of 9 September 2025. His function at that hearing was structural rather than testimonial: he was the only witness speaking to mechanism rather than to an encounter, calling for strengthened disclosure channels and whistleblower protections. That the minority's chosen witness was a good-government lawyer on channels, rather than a sceptic on phenomenology, is the single clearest indicator in the 2025 record that UAP oversight had become a bipartisan procedural question in the House. POGO's involvement also connects this hearing to the wider secrecy-reform agenda - the same organisation's work on special access programme reporting and on the Inspector General system is the institutional vocabulary in which the UAP whistleblower problem is now argued.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Joe Spielberger",
+"sources": [
+{
+"date": "2025-09-09",
+"name": "CHRG-119hhrg61718, printed hearing transcript, 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection', Serial No. 119-44",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/pdf/CHRG-119hhrg61718.pdf"
+},
+{
+"date": "2025-09-09",
+"name": "Joe Spielberger (POGO), written testimony, House Oversight Task Force",
+"url": "https://oversight.house.gov/wp-content/uploads/2025/09/Spielberger-Written-Testimony.pdf"
+},
+{
+"date": "2025-09-09",
+"name": "U.S. GPO, Hearing transcript, Serial No. 119-44 (CHRG-119hhrg61718)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm"
+},
+{
+"date": "2025-09-09",
+"name": "House Oversight Committee, hearing page: Restoring Public Trust Through UAP Transparency and Whistleblower Protection",
+"url": "https://oversight.house.gov/hearing/restoring-public-trust-through-uap-transparency-and-whistleblower-protection/"
+},
+{
+"date": "2025-09-09",
+"name": "DefenseScoop, 'Military whistleblowers share new evidence at alleged UAP hearing'",
+"url": "https://defensescoop.com/2025/09/09/military-whistleblowers-share-new-evidence-alleged-uap-ufo-hearing/"
+}
+],
+"status": "active",
+"sub": "Senior Policy Counsel, Project On Government Oversight; minority witness, Sept 2025",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 514 of 1027, score 28). 4 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A0/D2.",
+"timeline": [],
+"unexplainedResidual": null,
+"unverified": []
+}

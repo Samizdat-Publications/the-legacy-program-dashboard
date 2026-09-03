@@ -1,0 +1,370 @@
+{
+"A": 2,
+"C": 3,
+"D": 3,
+"affiliations": [
+"509th Bomb Group, Roswell Army Air Field, S-2 Intelligence (1946-1948)",
+"US Air Force, Special Weapons Program (1948-1950)"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "1947-07-07",
+"event": "Travels to the Foster ranch with CIC Capt. Sheridan Cavitt and collects debris",
+"precision": "day"
+},
+{
+"date": "1947-07-08",
+"event": "Photographed in Gen. Roger Ramey's Fort Worth office with balloon and radar-target debris",
+"precision": "day"
+},
+{
+"date": "1978-02-20",
+"event": "Tells Stanton Friedman the balloon story was a cover and the material was unidentifiable",
+"precision": "day"
+},
+{
+"date": "1986-06-24",
+"event": "Dies in Houma, Louisiana",
+"precision": "day"
+}
+],
+"claims": [
+{
+"source": "USAF, 'The Roswell Report: Fact vs. Fiction in the New Mexico Desert' (1995), which reproduces the Ramey office photographs and the Cavitt interview",
+"text": "Marcel was the 509th Bomb Group intelligence officer who collected debris at the Foster ranch with CIC Capt. Sheridan Cavitt, and was photographed with debris at Fort Worth on 8 July 1947.",
+"tier": 1
+},
+{
+"source": "Jesse Marcel Sr., interview with Stanton T. Friedman, February 1978",
+"text": "Marcel stated in 1978 that the weather balloon explanation was a cover story and the recovered material was not identifiable as any known device.",
+"tier": 2
+},
+{
+"source": "USAF, 'The Roswell Report: Fact vs. Fiction' (1995) and 'The Roswell Report: Case Closed' (1997)",
+"text": "The Air Force's own 1995 and 1997 reports concluded the recovered material was from Project MOGUL balloon trains, directly contradicting Marcel.",
+"tier": 1
+},
+{
+"source": "Inference from GAO/NSIAD-95-187, p.3",
+"text": "The GAO's finding that the relevant RAAF messages and administrative records were destroyed without disposition authority means Marcel's account cannot be checked against the primary record — which is itself the point.",
+"tier": 3
+},
+{
+"source": "RAAF press release and Fort Worth AAF press photographs, July 1947; reproduced in the 1995 Air Force report as Fig. 4, 'Maj. Jesse Marcel With Flying Disc Debris'",
+"text": "Marcel was named in the 8 July 1947 Roswell Army Air Field press release as the intelligence officer responsible for the recovery, and was photographed at Fort Worth AAF with debris identified there as a weather balloon and radar target.",
+"tier": 2
+},
+{
+"source": "Friedman's account of the 1978 interview; repeated in Berlitz and Moore (1980) and in Marcel's own filmed interviews",
+"text": "Marcel told Stanton Friedman in February 1978 that the material he recovered was not from a weather balloon and was not of terrestrial manufacture, and that the material displayed at Fort Worth was substituted.",
+"tier": 2
+},
+{
+"source": "Inference from his service chronology",
+"text": "Marcel's silence from 1947 to 1978 is more probative than his 1978 statement: a career intelligence officer who believed he had been publicly humiliated by a substitution had thirty-one years and a reserve pension's worth of reasons to say nothing, and did. Reasoning: the timing of his disclosure tracks his retirement and the death of the officers senior to him, not the arrival of a book contract.",
+"tier": 3
+}
+],
+"cls": "person",
+"cluster": "witness",
+"conflicts": [
+"Marcel overstated parts of his military biography in later interviews, which the Air Force uses to impeach him; the overstatements do not bear on what he handled in July 1947"
+],
+"connections": [
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "1947-07",
+"dateStart": "1947-07",
+"direction": "out",
+"edgeLabel": "Father showed son the debris in July 1947",
+"id": "jesse-marcel-jr",
+"l0": false,
+"label": "Dr. Jesse A. Marcel Jr.",
+"note": "Marcel Jr. testified by affidavit and repeatedly on the record that his father woke him at night and laid the recovered material out on the kitchen floor.",
+"sources": [
+{
+"date": "1997-01-01",
+"name": "The Roswell Report: Case Closed (1997)",
+"url": "https://archive.org/details/AFD-101027-030"
+}
+],
+"tier": "C",
+"type": "witness-chain"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "1947",
+"dateStart": "1947",
+"direction": "in",
+"edgeLabel": "Ramey's headquarters overrode Marcel's base-level identification",
+"id": "roger-ramey",
+"l0": false,
+"label": "Roger M. Ramey",
+"note": "Marcel was photographed in Ramey's office beside balloon debris on 8 July 1947; thirty-one years later he stated the material had been substituted. The photographs are reproduced in the 1995 USAF report.",
+"sources": [
+{
+"date": "1995-01-01",
+"name": "USAF, The Roswell Report: Fact vs. Fiction (1995)",
+"url": "https://archive.org/details/DTIC_ADA326148"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": "1947",
+"dateStart": "1947",
+"direction": "out",
+"edgeLabel": "Marcel physically handled the recovered debris",
+"id": "roswell-1947",
+"l0": true,
+"label": "Roswell Incident",
+"note": "The 509th's staff intelligence officer collected the Foster ranch material with CIC Capt. Sheridan Cavitt and carried it to Fort Worth. His custody role is documented in the Air Force's own 1995 report.",
+"sources": [
+{
+"date": "1995-01-01",
+"name": "USAF, The Roswell Report: Fact vs. Fiction (1995)",
+"url": "https://archive.org/details/DTIC_ADA326148"
+}
+],
+"tier": "A",
+"type": "custody"
+},
+{
+"claimTier": 2,
+"cls": "event",
+"dateEnd": "1947-07",
+"dateStart": "1947-07",
+"direction": "out",
+"edgeLabel": "Marcel was the 509th intelligence officer who recovered the debris",
+"id": "roswell-1947",
+"l0": true,
+"label": "Roswell Incident",
+"note": "Marcel and Cavitt were assigned by RAAF to retrieve the material from the Foster Ranch after Brazel reported it to Sheriff Wilcox on 6 July 1947.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Wikipedia - Roswell incident",
+"url": "https://en.wikipedia.org/wiki/Roswell_incident"
+}
+],
+"tier": "A",
+"type": "witness-chain"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "1978",
+"dateStart": "1978-02",
+"direction": "in",
+"edgeLabel": "Friedman's February 1978 interview reopened Roswell",
+"id": "stanton-friedman",
+"l0": false,
+"label": "Stanton T. Friedman",
+"note": "Friedman was put in touch with the retired Lt. Col. Marcel in Baton Rouge and obtained his statement that the weather balloon account was a cover. Attested by Friedman on the record and repeated by Marcel in filmed interviews.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Stanton T. Friedman - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/Stanton_T._Friedman"
+}
+],
+"tier": "B",
+"type": "witness-chain"
+},
+{
+"claimTier": 2,
+"cls": "document",
+"dateEnd": "1980",
+"dateStart": "1978",
+"direction": "out",
+"edgeLabel": "Marcel's account is the spine of the 1980 book",
+"id": "the-roswell-incident-1980",
+"l0": false,
+"label": "The Roswell Incident (Berlitz and Moore, 1980)",
+"note": "Berlitz and Moore built 'The Roswell Incident' on Friedman's Marcel material together with the second-hand Barney Barnett account.",
+"sources": [
+{
+"date": "1980-01-01",
+"name": "Charles Berlitz and William L. Moore, 'The Roswell Incident' (1980)",
+"url": "https://archive.org/details/charles-berlitz-william-l.-moore-the-roswell-incident-1980_202012"
+}
+],
+"tier": "C",
+"type": "witness-chain"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "1997",
+"dateStart": "1994",
+"direction": "out",
+"edgeLabel": "The Air Force reports were produced to rebut Marcel's account",
+"id": "usaf-roswell-reports",
+"l0": false,
+"label": "The Roswell Reports (USAF, 1994-1997)",
+"note": "Marcel's 1978 recantation restarted the case; the 1994-1997 Air Force volumes exist because of it and conclude against him, attributing the debris to Project MOGUL and reported bodies to test dummies.",
+"sources": [
+{
+"date": "1997-06-24",
+"name": "USAF, The Roswell Report: Case Closed (1997)",
+"url": "https://archive.org/details/DTIC_ADA326147"
+},
+{
+"date": "1995-01-01",
+"name": "USAF, The Roswell Report: Fact vs. Fiction (1995)",
+"url": "https://archive.org/details/DTIC_ADA326148"
+}
+],
+"tier": "B",
+"type": "denial"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "1947-07-08",
+"dateStart": "1947-07-08",
+"direction": "in",
+"edgeLabel": "Haut's 8 July 1947 press release named Marcel as the recovering officer",
+"id": "walter-haut",
+"l0": false,
+"label": "Walter Haut",
+"note": "The Roswell Army Air Field release, written by PIO Walter Haut on Col. Blanchard's order, identified the intelligence officer responsible. This is the only same-week official document naming a custodian of the material.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Walter Haut - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/Walter_Haut"
+}
+],
+"tier": "B",
+"type": "institutional"
+}
+],
+"date": "1978-02-20",
+"dateEnd": null,
+"dateStart": "1978-02-20",
+"deg": 7,
+"denials": [
+{
+"by": {
+"id": "usaf-roswell-reports",
+"label": "The Roswell Reports (USAF, 1994-1997)"
+},
+"claimTier": 1,
+"denialKind": "directed",
+"label": "The Air Force reports were produced to rebut Marcel's account",
+"note": "Marcel's 1978 recantation restarted the case; the 1994-1997 Air Force volumes exist because of it and conclude against him, attributing the debris to Project MOGUL and reported bodies to test dummies.",
+"of": {
+"id": "jesse-marcel",
+"label": "Jesse A. Marcel Sr."
+},
+"sources": [
+{
+"date": "1997-06-24",
+"name": "USAF, The Roswell Report: Case Closed (1997)",
+"url": "https://archive.org/details/DTIC_ADA326147"
+},
+{
+"date": "1995-01-01",
+"name": "USAF, The Roswell Report: Fact vs. Fiction (1995)",
+"url": "https://archive.org/details/DTIC_ADA326148"
+}
+]
+}
+],
+"domains": [
+"history-1940s-1960s",
+"w12-duplicate-collapse"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "1",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "jesse-marcel",
+"instId": "dod",
+"l0": false,
+"label": "Jesse A. Marcel Sr.",
+"loc": "Houma, LA",
+"locId": "l-roswell",
+"members": null,
+"narrative": "Major Jesse Marcel was the staff intelligence officer of the 509th Bomb Group and the officer who physically handled the Foster ranch debris in July 1947, going to the site with Counter Intelligence Corps Capt. Sheridan Cavitt and carrying material back to the base and onward to Fort Worth. He is the highest-custody witness in the entire 1940s record: not a distant observer, but the man whose job was to identify recovered materiel and who was then photographed in Gen. Ramey's office beside weather balloon debris he later said had been substituted for what he brought in. Marcel said nothing publicly for thirty-one years. In February 1978 he told researcher Stanton Friedman that the balloon explanation was a cover story and that the material he recovered was not from any device he could identify — the interview that restarted the entire Roswell inquiry and, downstream, produced the 1994-1997 Air Force reports and the 1995 GAO records search. His son, Dr. Jesse Marcel Jr., separately described handling the debris as a child. The Air Force's counter-position, that Marcel was mistaken about Project MOGUL balloon materials, is recorded here as the official rebuttal it is.",
+"photoCredit": null,
+"sequenceChain": [
+{
+"date": "1947-07-07",
+"event": "Travels to the Foster ranch with CIC Capt. Sheridan Cavitt and collects debris",
+"isAnomalous": false,
+"source": "USAF, 'The Roswell Report: Fact vs. Fiction in the New Mexico Desert' (1995), which reproduces the Ramey office photographs and the Cavitt interview"
+},
+{
+"date": "1947-07-08",
+"event": "Photographed in Gen. Roger Ramey's Fort Worth office with balloon and radar-target debris",
+"isAnomalous": false,
+"source": "USAF, 'The Roswell Report: Fact vs. Fiction in the New Mexico Desert' (1995), which reproduces the Ramey office photographs and the Cavitt interview"
+},
+{
+"date": "1978-02-20",
+"event": "Tells Stanton Friedman the balloon story was a cover and the material was unidentifiable",
+"isAnomalous": true,
+"source": "Jesse Marcel Sr., interview with Stanton T. Friedman, February 1978"
+}
+],
+"short": "Jesse A. Marcel Sr.",
+"sources": [
+{
+"date": "1995-01-01",
+"name": "USAF, The Roswell Report: Fact vs. Fiction in the New Mexico Desert (1995)",
+"url": "https://archive.org/details/DTIC_ADA326148"
+},
+{
+"date": "1997-06-24",
+"name": "USAF, The Roswell Report: Case Closed (1997)",
+"url": "https://archive.org/details/DTIC_ADA326147"
+},
+{
+"date": "1995-07-28",
+"name": "GAO/NSIAD-95-187",
+"url": "https://www.gao.gov/products/nsiad-95-187"
+},
+{
+"date": "2026-08-12",
+"name": "Jesse Marcel - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/Jesse_Marcel"
+},
+{
+"date": "1997-01-01",
+"name": "The Roswell Report: Case Closed (1997), HQ USAF/GPO - full text",
+"url": "https://archive.org/details/AFD-101027-030"
+}
+],
+"status": "dead",
+"sub": "Intelligence officer, 509th Bomb Group",
+"tier": "A",
+"tierRationale": "Re-graded A on a global pass (rank 91 of 1027, score 65). 8 connections, 5 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C3/A2/D3.",
+"timeline": [
+{
+"date": "1978-02-01",
+"id": "tl-1978-02",
+"label": "Jesse Marcel breaks silence",
+"precision": "month",
+"strand": "witness",
+"text": "The 509th's intelligence officer tells researcher Stanton Friedman that the 1947 weather balloon explanation was a cover story, restarting the Roswell inquiry after thirty-one years.",
+"tier": "B"
+}
+],
+"unexplainedResidual": "No disposition authority has ever been produced for the destruction of the RAAF outgoing message traffic covering the exact period of the recovery.",
+"unverified": [
+"Whether material was substituted between Roswell and Fort Worth on 8 July 1947"
+]
+}

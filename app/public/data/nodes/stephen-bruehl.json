@@ -1,0 +1,134 @@
+{
+"A": 0,
+"C": 0,
+"D": 1,
+"affiliations": [
+"Vanderbilt University Medical Center, Department of Anesthesiology",
+"Scientific Coalition for UAP Studies - contributor",
+"VASCO collaboration"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "2025-07-25",
+"event": "Preprint of the POSS-I / nuclear testing paper posted.",
+"precision": "day"
+},
+{
+"date": "2025-07-31",
+"event": "Publishes the SCU cluster analysis of 216 selected UAP reports from 1947 onward.",
+"precision": "day"
+},
+{
+"date": "2025-10-20",
+"event": "Bruehl and Villarroel publish in Scientific Reports.",
+"precision": "day"
+}
+],
+"claims": [
+{
+"source": "Scientific Reports, DOI 10.1038/s41598-025-21620-3",
+"text": "Bruehl is lead author, with Beatriz Villarroel, of 'Transients in the Palomar Observatory Sky Survey (POSS-I) may be associated with nuclear testing and reports of unidentified anomalous phenomena', Scientific Reports, 20 October 2025.",
+"tier": 1
+},
+{
+"source": "SCU, Zenodo DOI 10.5281/zenodo.16650011",
+"text": "Bruehl published 'Cluster Analysis of Features Associated with Unidentified Anomalous Phenomena Described in 216 Select Reports from 1947-' through SCU on 31 July 2025.",
+"tier": 1
+}
+],
+"cls": "person",
+"cluster": "research",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "2025",
+"direction": "in",
+"edgeLabel": "Co-authors on the 2025 Scientific Reports result",
+"id": "beatriz-villarroel",
+"l0": false,
+"label": "Beatriz Villarroel",
+"note": "An astronomer and a Vanderbilt anesthesiology professor with statistical training - an indication of how far outside conventional aerospace research the productive work has migrated.",
+"sources": [
+{
+"date": "2025-10-20",
+"name": "Bruehl & Villarroel, 'Transients in the Palomar Observatory Sky Survey (POSS-I) may be associated with nuclear testing and reports of unidentified anomalous phenomena', Scientific Reports",
+"url": "https://doi.org/10.1038/s41598-025-21620-3"
+}
+],
+"tier": "C",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": "2025",
+"direction": "out",
+"edgeLabel": "Lead author of the POSS-I / nuclear testing association",
+"id": "paper-villarroel-bruehl-2025",
+"l0": false,
+"label": "Bruehl & Villarroel (2025), Scientific Reports: POSS-I transients, nuclear testing and UAP reports",
+"note": "Scientific Reports, 20 October 2025 - a Nature-portfolio paper linking above-ground nuclear testing, contemporaneous UAP reports and anomalous optical transients.",
+"sources": [
+{
+"date": "2025-10-20",
+"name": "Bruehl & Villarroel, 'Transients in the Palomar Observatory Sky Survey (POSS-I) may be associated with nuclear testing and reports of unidentified anomalous phenomena', Scientific Reports",
+"url": "https://doi.org/10.1038/s41598-025-21620-3"
+}
+],
+"tier": "C",
+"type": "investigative"
+}
+],
+"date": "2025-10-20",
+"dateEnd": null,
+"dateStart": "2025-10-20",
+"deg": 2,
+"denials": [],
+"domains": [
+"scientists-technical"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "stephen-bruehl",
+"instId": "vanderbilt-university",
+"l0": false,
+"label": "Stephen Bruehl",
+"loc": "Nashville, TN",
+"locId": null,
+"members": null,
+"narrative": "Bruehl is an unlikely but methodologically important entrant: a Vanderbilt professor of anesthesiology whose academic career is in pain research and statistical methodology, who has applied that statistical training to two of the field's better-controlled questions. In July 2025 he published a cluster analysis of features associated with UAP described in 216 selected reports from 1947 onwards through the Scientific Coalition for UAP Studies, and on 20 October 2025 he and Beatriz Villarroel published in Scientific Reports the finding that transients in the Palomar Observatory Sky Survey may be associated with above-ground nuclear testing and with contemporaneous reports of unidentified anomalous phenomena. That is the single most consequential peer-reviewed result of 2025 for this board's central historical thesis, because it produces a statistical link, in a Nature-portfolio journal, between the atomic-weapons complex and anomalous optical transients over the United States in the years 1949-1957 - independent of any witness, any leak and any FOIA.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Stephen Bruehl",
+"sources": [
+{
+"date": "2025-10-20",
+"name": "Bruehl & Villarroel, 'Transients in the Palomar Observatory Sky Survey (POSS-I) may be associated with nuclear testing and reports of unidentified anomalous phenomena', Scientific Reports",
+"url": "https://doi.org/10.1038/s41598-025-21620-3"
+},
+{
+"date": "2025-07-31",
+"name": "Bruehl, 'Cluster Analysis of Features Associated with Unidentified Anomalous Phenomena Described in 216 Select Reports from 1947-', SCU (Zenodo)",
+"url": "https://doi.org/10.5281/zenodo.16650011"
+}
+],
+"status": "active",
+"sub": "Professor of Anesthesiology, Vanderbilt University Medical Center; lead author of the 2025 Scientific Reports POSS-I transients and nuclear testing paper; SCU cluster-analysis author",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 981 of 1027, score 10). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D1.",
+"timeline": [],
+"unexplainedResidual": null,
+"unverified": []
+}

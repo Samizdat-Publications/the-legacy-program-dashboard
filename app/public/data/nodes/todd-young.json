@@ -1,0 +1,134 @@
+{
+"A": 1,
+"C": 0,
+"D": 1,
+"affiliations": [
+"U.S. Senate, Indiana (2017- )",
+"Senate Foreign Relations Committee"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "2023-07-13",
+"event": "Original cosponsor of S.Amdt. 797",
+"precision": "day"
+}
+],
+"claims": [
+{
+"source": "CREC-2023-07-13-pt1-PgS2953",
+"text": "Cosponsor of S.Amdt. 797, the UAP Disclosure Act of 2023, submitted 13 July 2023.",
+"tier": 1
+},
+{
+"source": "Congress.gov cosponsor record, S.Amdt. 797",
+"text": "Young is recorded as an original cosponsor of S.Amdt. 797, sponsorship date 13 July 2023.",
+"tier": 1
+},
+{
+"source": "Congressional Record, 11 July 2024, caption to SA 2610",
+"text": "He does not appear as a cosponsor on the 2024 refiling, S.Amdt. 2610, which carries only Rounds and Schumer.",
+"tier": 1
+}
+],
+"cls": "person",
+"cluster": "other",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "2023",
+"dateStart": "2023",
+"direction": "out",
+"edgeLabel": "Original cosponsor, 13 July 2023",
+"id": "samdt-797",
+"l0": true,
+"label": "S.Amdt. 797 to S. 2226 (Schumer-Rounds UAP Disclosure Act amendment)",
+"note": "Young's signature gave the amendment a three-to-three partisan balance that let it travel in the bipartisan package.",
+"sources": [
+{
+"date": "2023-07-13",
+"name": "Congress.gov — S.Amdt. 797",
+"url": "https://www.congress.gov/amendment/118th-congress/senate-amendment/797"
+}
+],
+"tier": "B",
+"type": "legislative"
+},
+{
+"claimTier": 1,
+"cls": "legislation",
+"dateEnd": null,
+"dateStart": "2023-07-13",
+"direction": "out",
+"edgeLabel": "cosponsor",
+"id": "uapda-2023",
+"l0": true,
+"label": "UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)",
+"note": "Named in the Congressional Record entry for SA 797.",
+"sources": [
+{
+"date": "2023-07-13",
+"name": "Congressional Record, 13 July 2023, Text of Senate Amendment 797 (CREC-2023-07-13-pt1-PgS2953)",
+"url": "https://www.govinfo.gov/content/pkg/CREC-2023-07-13/html/CREC-2023-07-13-pt1-PgS2953.htm"
+}
+],
+"tier": "A",
+"type": "programmatic"
+}
+],
+"date": "2023-07-13",
+"dateEnd": null,
+"dateStart": "2023-07-13",
+"deg": 2,
+"denials": [],
+"domains": [
+"_rs-legislation",
+"congress-senate-legislation"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "todd-young",
+"instId": "us-senate",
+"l0": false,
+"label": "Todd Young",
+"loc": "Washington, DC",
+"locId": "l-dc",
+"members": null,
+"narrative": "Young is the fourth Republican name on S.Amdt. 797 and the least visible of the six. His inclusion matters as a count rather than as a voice: the amendment as filed on 13 July 2023 carried three Republicans — Rounds, Rubio and Young — against two Democrats besides the sponsor, which is why it was able to travel as part of the Senate's bipartisan package and reach the engrossed bill without a recorded vote against it. Young has not made the issue a public priority since, and he does not appear in the 2024 or 2026 refiling records.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Todd Young",
+"sources": [
+{
+"date": "2023-07-13",
+"name": "Congressional Record, 13 July 2023, Text of Senate Amendment 797 (CREC-2023-07-13-pt1-PgS2953)",
+"url": "https://www.govinfo.gov/content/pkg/CREC-2023-07-13/html/CREC-2023-07-13-pt1-PgS2953.htm"
+},
+{
+"date": "2023-07-13",
+"name": "Congress.gov — S.Amdt. 797 cosponsors",
+"url": "https://www.congress.gov/amendment/118th-congress/senate-amendment/797"
+},
+{
+"date": "2024-07-11",
+"name": "Congressional Record, 11 July 2024 — SA 2610 caption",
+"url": "https://www.govinfo.gov/content/pkg/CREC-2024-07-11/html/CREC-2024-07-11-pt1-PgS4577.htm"
+}
+],
+"status": "active",
+"sub": "R-IN; original cosponsor of the UAPDA",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 765 of 1027, score 19). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A1/D1.",
+"timeline": [],
+"unexplainedResidual": null,
+"unverified": []
+}

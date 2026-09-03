@@ -1,0 +1,134 @@
+{
+"A": 3,
+"C": 1,
+"D": 2,
+"affiliations": [
+"Director of National Intelligence (2025-)",
+"US House of Representatives, HI-02 (2013-2021)",
+"Army National Guard"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "2026-05-08",
+"event": "Describes PURSUE as an ongoing joint intelligence-defence effort at Release 01",
+"precision": "day"
+},
+{
+"date": "2026-05-22",
+"event": "ODNI-UAP-D001 published inside PURSUE Release 02",
+"precision": "day"
+}
+],
+"claims": [
+{
+"source": "Aerotime, 9 May 2026",
+"text": "Gabbard characterised the first PURSUE release as an 'ongoing joint effort' coordinated between intelligence and defence agencies.",
+"tier": 2
+},
+{
+"source": "Disclosure Archives inventory of the war.gov Release 02 posting",
+"text": "PURSUE Release 02 includes ODNI-UAP-D001, a first-person account by a serving senior intelligence officer of a one-hour multi-witness UAP encounter from a military helicopter in late 2025.",
+"tier": 2
+},
+{
+"source": "DefenseScoop, 25 February 2026",
+"text": "Hegseth stated the Department would work closely with ODNI to implement the release effort.",
+"tier": 2
+}
+],
+"cls": "person",
+"cluster": "other",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 2,
+"cls": "program",
+"dateEnd": null,
+"dateStart": "2026",
+"direction": "out",
+"edgeLabel": "ODNI coordinating authority for the release programme",
+"id": "pursue-releases",
+"l0": true,
+"label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters",
+"note": "Gabbard described the first release as an ongoing joint effort between intelligence and defence agencies; ODNI-numbered documents appear inside the war.gov series.",
+"sources": [
+{
+"date": "2026-05-09",
+"name": "Aerotime - US releases UFO files in UAP transparency push",
+"url": "https://www.aerotime.aero/articles/us-releases-ufo-uap-files"
+},
+{
+"date": "2026-08-01",
+"name": "Disclosure Archives - Department of War files index",
+"url": "https://disclosurearchives.com/department-of-war-files"
+}
+],
+"tier": "A",
+"type": "institutional"
+}
+],
+"date": "2026-05-08",
+"dateEnd": null,
+"dateStart": "2026-05-08",
+"deg": 1,
+"denials": [],
+"domains": [
+"_rs-archive-mirror",
+"releases-2023-2026"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "tulsi-gabbard",
+"instId": "odni",
+"l0": false,
+"label": "Tulsi Gabbard",
+"loc": "Washington, DC",
+"locId": "l-dc",
+"members": null,
+"narrative": "Gabbard is the intelligence-community counterparty to Hegseth's PURSUE. When Release 01 went out on 8 May 2026 she framed it as an 'ongoing joint effort' coordinated between intelligence and defence agencies - the public confirmation that the release channel is interagency and not merely departmental. The structural evidence is in the file numbering: PURSUE Release 02 contains an ODNI-numbered item, ODNI-UAP-D001, a first-person narrative by a serving senior intelligence officer describing a one-hour multi-witness UAP encounter from a military helicopter in late 2025. That is an intelligence-community officer's operational account of an unresolved encounter, published under an ODNI document number on a Department of War website, which is a category of material ODNI had never previously put into the public record. Gabbard's ODNI is also the successor custodian of the 2021 Preliminary Assessment framework and of the annual UAP reporting obligation shared with AARO under 50 U.S.C. 3373. Her office has not published a separate 2025 or 2026 UAP assessment of its own; its visible output in this domain runs through the war.gov portal.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Tulsi Gabbard",
+"sources": [
+{
+"date": "2026-08-10",
+"name": "Archived: Department of War - PURSUE portal (war.gov/UFO) (Wayback 2026-08-10)",
+"url": "https://web.archive.org/web/20260810202017/https://www.war.gov/UFO/"
+},
+{
+"date": "2026-05-09",
+"name": "Aerotime - US releases UFO files in UAP transparency push",
+"url": "https://www.aerotime.aero/articles/us-releases-ufo-uap-files"
+},
+{
+"date": "2026-08-01",
+"name": "Disclosure Archives - Department of War files index",
+"url": "https://disclosurearchives.com/department-of-war-files"
+},
+{
+"date": "2026-02-25",
+"name": "DefenseScoop - Hegseth doubles down on Trump's UAP disclosure promise as AARO's caseload exceeds 2,000",
+"url": "https://defensescoop.com/2026/02/25/hegseth-ufo-disclosure-trump-aaro-uap-caseload/"
+},
+{
+"date": "2026-08-07",
+"name": "Department of War - PURSUE portal (war.gov/UFO)",
+"url": "https://www.war.gov/UFO/"
+}
+],
+"status": "active",
+"sub": "Director of National Intelligence; ODNI side of PURSUE",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 629 of 1027, score 24). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A3/D2.",
+"timeline": [],
+"unexplainedResidual": null,
+"unverified": []
+}

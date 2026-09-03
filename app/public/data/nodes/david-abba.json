@@ -1,0 +1,105 @@
+{
+"A": 3,
+"C": 2,
+"D": 1,
+"affiliations": [
+"US Air Force, Major General",
+"DoD Special Access Program Central Office, Director"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "2023-03-08",
+"event": "DoD memorandum bearing his signature establishing access authority later cited by AARO",
+"precision": "day"
+},
+{
+"date": "2024-01-08",
+"event": "Named in the AARO memorandum for record on invitations to interview Grusch",
+"precision": "day"
+}
+],
+"claims": [
+{
+"source": "DoD FOIA release 24-F-0266, AARO Invitations to Interview Mr. David Grusch",
+"text": "Appears as signatory of the March 2023 DoD memorandum referenced in AARO's memorandum for record documenting its attempts to interview Grusch.",
+"tier": 1
+}
+],
+"cls": "person",
+"cluster": "other",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "2024",
+"dateStart": "2023",
+"direction": "out",
+"edgeLabel": "SAPCO director's March 2023 memorandum cited as AARO's access authority",
+"id": "aaro-grusch-interview-memo",
+"l0": false,
+"label": "AARO Memorandum for Record: Invitations to Interview Mr. David Grusch (FOIA 24-F-0266)",
+"note": "Maj. Gen. David W. Abba, Director of the DoD Special Access Program Central Office, signed the memorandum AARO invoked in its invitations. SAPCO is the one office that could resolve the read-on denial and has never publicly addressed it.",
+"sources": [
+{
+"date": "2024-01-08",
+"name": "DoD FOIA 24-F-0266",
+"url": "https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/24-F-0266_AARO_Invitations_to_Interview_Mr._David_Grusch.pdf"
+}
+],
+"tier": "C",
+"type": "institutional"
+}
+],
+"date": "2024-01-08",
+"dateEnd": null,
+"dateStart": "2024-01-08",
+"deg": 1,
+"denials": [],
+"domains": [
+"_rs-archive-mirror",
+"grusch"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "david-abba",
+"instId": "dod-sapco",
+"l0": false,
+"label": "David W. Abba",
+"loc": "Arlington, VA",
+"locId": "l-pentagon",
+"members": null,
+"narrative": "Abba directed the DoD Special Access Program Central Office, the organization that would know, by definition, what special access programs exist and who is read on to them. He appears in the FOIA-released AARO memorandum for record documenting the office's nine attempts to interview Grusch between June 2023 and January 2024 - the memorandum bears a March 2023 DoD memo under his signature establishing the access authority AARO invoked. His presence in that file is the closest the public record comes to putting SAPCO on paper in the Grusch matter. SAPCO is the natural custodian of the answer to the only question that matters here - what program was Grusch refused a read-on to - and it has never addressed the question publicly.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "David W. Abba",
+"sources": [
+{
+"date": "2026-06-12",
+"name": "Archived: DoD FOIA 24-F-0266 - AARO Invitations to Interview Mr. David Grusch (Wayback 2026-06-12)",
+"url": "https://web.archive.org/web/20260612141626/https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/24-F-0266_AARO_Invitations_to_Interview_Mr._David_Grusch.pdf"
+},
+{
+"date": "2024-01-08",
+"name": "DoD FOIA 24-F-0266 - AARO Invitations to Interview Mr. David Grusch",
+"url": "https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/24-F-0266_AARO_Invitations_to_Interview_Mr._David_Grusch.pdf"
+}
+],
+"status": "active",
+"sub": "Maj Gen, USAF; Director, DoD Special Access Program Central Office",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 656 of 1027, score 23). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A3/D1.",
+"timeline": [],
+"unexplainedResidual": "SAPCO is the single office that could resolve the read-on denial with a one-page answer, and no committee has publicly compelled that answer.",
+"unverified": [
+"Whether SAPCO holds or has ever held a record of Grusch's denied read-on request."
+]
+}

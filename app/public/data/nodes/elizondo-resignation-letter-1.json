@@ -1,0 +1,134 @@
+{
+"A": 2,
+"C": 1,
+"D": 3,
+"band": null,
+"claims": [
+{
+"source": "OSD/JS FOIA 18-F-0324, final response 17 August 2022",
+"text": "Reads in part: 'Effective 4 October 2017, I humbly submit my resignation as Director, National Programs Special Management Staff... I respectfully request I receive a deferred retirement.'",
+"tier": 1
+}
+],
+"cls": "document",
+"cluster": "witness",
+"connections": [
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2017",
+"dateStart": "2017",
+"direction": "out",
+"edgeLabel": "Submitted to his supervising official, hand-delivered",
+"id": "john-garrity",
+"l0": false,
+"label": "John Garrity",
+"note": "Elizondo's attorney Todd McMurtry confirmed the letter was hand-delivered rather than routed through standard channels; The Black Vault identifies the recipient as John Garrity.",
+"sources": [
+{
+"date": "2022-08-17",
+"name": "The Black Vault — Resignation Letter #1",
+"url": "https://www.theblackvault.com/documentarchive/timeline-post/mr-luis-elizondo-submits-resignation-letter-1/"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "2017",
+"dateStart": "2017",
+"direction": "in",
+"edgeLabel": "Author, 3 October 2017",
+"id": "luis-elizondo",
+"l0": false,
+"label": "Luis D. Elizondo",
+"note": "Establishes his exact title and departure date in his own words on Departmental paper.",
+"sources": [
+{
+"date": "2022-08-17",
+"name": "OSD/JS FOIA 18-F-0324",
+"url": "https://documents2.theblackvault.com/documents/osd/18-F-0324.pdf"
+}
+],
+"tier": "A",
+"type": "witness-chain"
+},
+{
+"claimTier": 3,
+"cls": "event",
+"dateEnd": "2017",
+"dateStart": "2017",
+"direction": "out",
+"edgeLabel": "Seven days from resignation effective date to corporate launch",
+"id": "ttsa-launch-2017",
+"l0": false,
+"label": "To The Stars Academy public launch, 11 October 2017",
+"note": "The interval is short enough that the corporate vehicle must have been assembled before the departure. This is inference from dates, not from any document stating intent.",
+"sources": [
+{
+"date": "2022-08-17",
+"name": "OSD/JS FOIA 18-F-0324",
+"url": "https://documents2.theblackvault.com/documents/osd/18-F-0324.pdf"
+},
+{
+"date": "2017-10-11",
+"name": "PR Newswire — TTSA launch",
+"url": "https://www.prnewswire.com/news-releases/to-the-stars-academy-of-arts--science-launches-today-300534912.html"
+}
+],
+"tier": "C",
+"type": "temporal"
+}
+],
+"coords": null,
+"dateEnd": "2017",
+"dateStart": "2017",
+"deg": 3,
+"denials": [],
+"desc": "A short formal letter dated 3 October 2017 in which Luis Elizondo writes: 'Effective 4 October 2017, I humbly submit my resignation as Director, National Programs Special Management Staff... I respectfully request I receive a deferred retirement.' It was hand-delivered rather than routed through standard channels, per Elizondo's attorney Todd McMurtry, and reporting identifies the recipient as his supervisor John Garrity. Released in OSD/JS FOIA case 18-F-0324. This letter is the load-bearing document of the whole domain: it establishes, in Elizondo's own hand and on the Department's own paper, the exact title he held and the exact date he left — the two facts the Department has never contested even while contesting his program role.",
+"domains": [
+"elizondo-ttsa"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "elizondo-resignation-letter-1",
+"l0": false,
+"label": "Elizondo Resignation Letter #1, 3 October 2017",
+"locLabel": null,
+"members": null,
+"short": "Elizondo Resignation Letter #1, 3 October 2017",
+"sources": [
+{
+"date": "2022-08-17",
+"name": "OSD/JS FOIA 18-F-0324 (The Black Vault copy)",
+"url": "https://documents2.theblackvault.com/documents/osd/18-F-0324.pdf"
+},
+{
+"date": "2022-08-17",
+"name": "The Black Vault — Mr. Luis Elizondo Submits Resignation Letter #1",
+"url": "https://www.theblackvault.com/documentarchive/timeline-post/mr-luis-elizondo-submits-resignation-letter-1/"
+}
+],
+"sub": "Formal resignation submitted within OUSD(I)",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 613 of 1027, score 25). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A2/D3.",
+"timeline": [
+{
+"date": "2017-10-03",
+"id": "tl-2017-10-03-resign1",
+"label": "Resignation letter #1",
+"precision": "day",
+"strand": "witness",
+"text": "'Effective 4 October 2017, I humbly submit my resignation as Director, National Programs Special Management Staff... I respectfully request I receive a deferred retirement.' Hand-delivered.",
+"tier": "A"
+}
+]
+}

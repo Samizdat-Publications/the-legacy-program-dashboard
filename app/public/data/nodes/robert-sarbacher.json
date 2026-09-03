@@ -1,0 +1,163 @@
+{
+"A": 1,
+"C": 2,
+"D": 2,
+"affiliations": [],
+"age": null,
+"band": null,
+"chronology": [],
+"claims": [
+{
+"source": "American Alchemy with Jesse Michels, 'Did Oppenheimer Work on UFOs?', 19 October 2024, 0:33:16, https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/TOE7249545573.mp3?updated=1751915004",
+"text": "On American Alchemy with Jesse Michels, 19 October 2024, at 0:33:16, Michels said that David Grusch identifies the people who set up the secrecy protocols for UFOs as Robert J. Oppenheimer and Sarbacher, and that the two are 'responsible for the 1954 Atomic Energy Commission which overlaid nuclear secrecy on top of UFO secrecy'. The claim is Michels relaying Grusch, it concerns 1954 rather than the period the 1983 letter covers, and no document is cited for it on air.",
+"tier": 2
+},
+{
+"source": "American Alchemy with Jesse Michels, 'Presidential Advisor: I Directly Handled UFO Material (Ft. Harald Malmgren)', published 23 April 2025, at 0:23:09 and 0:24:00",
+"text": "On American Alchemy with Jesse Michels, 23 April 2025, at 0:23:09, Michels said that Sarbacher told Stanton Friedman that MIT president Karl Compton 'was briefed on UFO technology at Wright Airfield in 1950', and at 0:24:00 that when John Greenewald used the Freedom of Information Act to retrieve Compton's records he received a reply in April 2014 stating that 'records which may have been responsive to your request were destroyed August 30th, 2006'. The FOIA response letter itself was not opened from this environment.",
+"tier": 2
+},
+{
+"source": "American Alchemy with Jesse Michels, 'Whitley Strieber: Aliens Live Among Us (Exclusive Interview)', published 7 February 2025, at 0:13:20 to 0:15:49",
+"text": "On American Alchemy with Jesse Michels, 7 February 2025, between 0:13:20 and 0:14:59, Whitley Strieber said that Stanton Friedman introduced him to Sarbacher, that Sarbacher asked him to write his experience down and send it, that he did so by UPS overnight in 1986, and that the next morning the UPS driver told him 'we can't deliver it. The recipient has expired.' At 0:15:49 Strieber adds that he was told Sarbacher fell off his boat and that the death certificate says natural causes. This is Strieber's first-hand account of his own correspondence and no record of the letter or its return was opened.",
+"tier": 2
+},
+{
+"source": "American Alchemy with Jesse Michels, 'Whitley Strieber: Aliens Live Among Us (Exclusive Interview)', published 7 February 2025, at 0:18:16",
+"text": "In the same episode, at 0:18:16, Michels said that when Thomas Townsend Brown 'finally achieved positive result with his anti-gravity experiments, this was in Paris', Brown flew back to the United States and 'Robert Sarbacher picks him up in his big Cadillac', attributing the account to Brown's daughter Linda and to the biographer Paul Shatzkin. This is a second-hand attribution, and neither the daughter's account nor the biography was opened.",
+"tier": 2
+},
+{
+"source": "Sarbacher to Steinman, 29 November 1983, two-page signed facsimile",
+"text": "In a signed letter of 29 November 1983 to William Steinman, on Washington Institute of Technology letterhead, Sarbacher writes that John von Neumann and Vannevar Bush 'definitely' were involved and 'I think Dr. Robert Oppenheimer also'.",
+"tier": 1
+},
+{
+"source": "Sarbacher to Steinman, 29 November 1983, facsimile",
+"text": "In the same letter Sarbacher states that he was invited to but did not attend any recovery meeting: 'I could not personally attend the meetings.' The distinction is his own and is the single most important thing the letter establishes.",
+"tier": 1
+},
+{
+"source": "Sarbacher to Steinman, 29 November 1983, facsimile",
+"text": "The letter states that materials 'reported to have come from flying saucer crashes were extremely light and very tough', and that he 'got the impression these aliens were constructed like certain insects we have observed on earth.' Both are given as impressions relayed to him, not as first-hand observation.",
+"tier": 1
+},
+{
+"source": "Sarbacher to Steinman, 29 November 1983, facsimile, read against the NARA finding aid for Record Group 330",
+"text": "The letter contains an internal date error in its most-quoted paragraph: Sarbacher writes of 'My association with the Research and Development Board under Doctor Compton during the Eisenhower administration.' The RDB was established by the National Security Act of 1947 and abolished 30 June 1953; Karl T. Compton chaired it in the late 1940s, under Truman.",
+"tier": 1
+},
+{
+"source": "Sarbacher to Steinman, 29 November 1983; facsimile pages 1-2 compared with transcript pages 3-4 of the same PDF",
+"text": "The letter's postscript -- 'It occurs to me that Dr. Bush's name is inccorrect as you have it. Please check the spelling' -- is omitted from the typed transcript bound into the same PDF, so a citation to the transcript rather than the scan is a citation to an abridged document.",
+"tier": 1
+},
+{
+"source": "Hyper and Ultrahigh Frequency Engineering, Sarbacher and Edson, John Wiley & Sons 1943, fourth printing September 1944, title page",
+"text": "The title page of Hyper and Ultrahigh Frequency Engineering, John Wiley & Sons, copyright 1943, names 'Robert I. Sarbacher, Sc.D., Associate Professor of Electrical Engineering, Illinois Institute of Technology', with William A. Edson as co-author.",
+"tier": 1
+},
+{
+"source": "Provenance assessment of the hosting item; no institutional custody located",
+"text": "The only reachable copy of the 1983 letter is hosted by an advocacy publisher, and the same PDF's last page is a product order form. The scan appears to be a genuine photocopy of a typed letter, but no institutional archive holds a copy that could be opened, so its status is a facsimile widely reproduced from Steinman's own file rather than an archived document.",
+"tier": 2
+},
+{
+"source": "Stated inference: no primary record located for the consultancy; see the letter and Smith's notes, neither of which is an RDB record",
+"text": "The claim that Sarbacher was a consultant to the Research and Development Board has no primary record. It traces, in every secondary account found, to Wilbert Smith's handwritten notes of a 15 September 1950 meeting and to Sarbacher's own 1983 letter. A full-text archive search for Sarbacher together with 'Research and Development Board' returns one unusable item, and the Georgia Tech clippings file does not mention the RDB.",
+"tier": 3
+}
+],
+"cls": "person",
+"cluster": "witness",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "1983",
+"dateStart": "1950",
+"direction": "out",
+"edgeLabel": "Smith's 1950 notes name Sarbacher as their source; Sarbacher's own 1983 letter says he did not attend",
+"id": "wilbert-smith",
+"l0": false,
+"label": "Wilbert Brockhouse Smith",
+"note": "The 1983 letter is the only document in this chain that was opened. Smith's 21 November 1950 memorandum was not obtained -- Library and Archives Canada refuses this environment. Sarbacher's own words are 'I could not personally attend the meetings.'",
+"sources": [
+{
+"date": "1983-11-29",
+"name": "Sarbacher to Steinman, 29 November 1983, signed facsimile",
+"url": "https://ia802909.us.archive.org/9/items/majiall337/sarbacher-steinman-29nov83.pdf"
+}
+],
+"tier": "B",
+"type": "witness-chain"
+}
+],
+"date": "1983-11-29",
+"dateEnd": null,
+"dateStart": "1983-11-29",
+"deg": 1,
+"denials": [],
+"domains": [
+"legacy-1947-86"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "1",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "robert-sarbacher",
+"instId": null,
+"l0": false,
+"label": "Robert I. Sarbacher",
+"loc": "Palm Beach, FL",
+"locId": null,
+"members": null,
+"narrative": "The board already leans on Sarbacher second-hand, through Wilbert Smith, and a node is the only place the distinction that matters can be put where a reader sees it: he says in his own signed letter that he was invited to the meetings and did not attend them. The letter is real. Two typed pages on Washington Institute of Technology letterhead, dated 29 November 1983, addressed to William Steinman, signed, with Steinman's handwritten receipt note 'Received 12-5-83'. In it Sarbacher says John von Neumann and Vannevar Bush 'definitely' were involved and 'I think Dr. Robert Oppenheimer also'; that 'I could not personally attend the meetings'; that materials 'reported to have come from flying saucer crashes were extremely light and very tough'; and that he 'got the impression these aliens were constructed like certain insects we have observed on earth.' Everything about a Wright Field meeting, and everything Eric Walker is said to have said, is not in this letter.\n\nTwo problems are visible on the document's own face. Sarbacher writes of 'My association with the Research and Development Board under Doctor Compton during the Eisenhower administration' -- the RDB was a Truman-era body abolished in June 1953, five months into Eisenhower's first term, and Karl T. Compton chaired it in the late 1940s. At about 76 he is conflating administrations in the most-quoted paragraph of the document. And his postscript, asking Steinman to check the spelling of Bush's name, is omitted from the typed transcript bound into the same PDF, so anyone quoting the transcript is quoting an abridged letter.\n\nHis credentials are not in doubt: the title page of his 1943 Wiley textbook names him 'Robert I. Sarbacher, Sc.D., Associate Professor of Electrical Engineering, Illinois Institute of Technology'. What is in doubt is the RDB consultancy the secondary literature attaches to him, for which no primary record was found, and the provenance of the letter itself, which reaches this board through an advocacy publisher's scan rather than an institutional archive.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Robert I. Sarbacher",
+"sources": [
+{
+"date": "2024-10-19",
+"name": "American Alchemy with Jesse Michels, 'Did Oppenheimer Work on UFOs?' (episode audio)",
+"url": "https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/TOE7249545573.mp3?updated=1751915004"
+},
+{
+"date": "2025-04-23",
+"name": "American Alchemy with Jesse Michels, 'Presidential Advisor: I Directly Handled UFO Material (Ft. Harald Malmgren)' (audio)",
+"url": "https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL1090282889.mp3?updated=1752180350"
+},
+{
+"date": "2025-02-07",
+"name": "American Alchemy with Jesse Michels, 'Whitley Strieber: Aliens Live Among Us (Exclusive Interview)' (audio)",
+"url": "https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/TOE6390612252.mp3?updated=1751926843"
+},
+{
+"date": "1983-11-29",
+"name": "Sarbacher to Steinman, 29 November 1983, signed two-page facsimile with typed transcript",
+"url": "https://ia802909.us.archive.org/9/items/majiall337/sarbacher-steinman-29nov83.pdf"
+},
+{
+"date": "1943-01-01",
+"name": "Hyper and Ultrahigh Frequency Engineering, Sarbacher and Edson, John Wiley & Sons 1943",
+"url": "https://archive.org/details/dli.ernet.14512"
+},
+{
+"date": "2026-08-30",
+"name": "Robert Sarbacher clippings, Georgia Institute of Technology (private upload, no institutional custody)",
+"url": "https://archive.org/details/robert-sarbacher-georgia-institute-technology-georgiatech"
+}
+],
+"status": "dead",
+"sub": "Microwave engineer; Dean of the Graduate Division, Georgia Tech; author of the 1983 Steinman letter",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 160 of 1027, score 48). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A1/D2.",
+"timeline": [],
+"unexplainedResidual": null,
+"unverified": "The 21 November 1950 'Geo-Magnetics' memorandum by Wilbert Smith was not obtained. Library and Archives Canada refuses this environment, and the archive.org item some secondary pages link as a scan does not exist -- its metadata endpoint returns an empty object. The RDB consultancy is therefore carried at Tier 3 and no RDB edge is drawn."
+}

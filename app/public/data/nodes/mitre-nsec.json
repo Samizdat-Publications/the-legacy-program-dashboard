@@ -1,0 +1,123 @@
+{
+"A": 3,
+"C": 3,
+"D": 1,
+"band": null,
+"claims": [
+{
+"source": "MITRE National Security Engineering Center fact sheet, 3 March 2022",
+"text": "NSEC is MITRE's DoD-sponsored FFRDC under USD(R&E), delivering research, engineering and analytical solutions to the Department of Defense and the Intelligence Community, with a lineage MITRE dates to 1958.",
+"tier": 1
+},
+{
+"source": "NSF NCSES Master Government List of FFRDCs; CRS Report R44629 funding table",
+"text": "NSEC's primary location was reassigned to McLean, Virginia in 2025 and it received approximately $1,431.7 million in FY2024.",
+"tier": 1
+},
+{
+"source": "USAspending.gov award records",
+"text": "NSEC work is executed under IDIQ W56KGU18D0004 with annual task orders including W56KGU22F0017, expressly described in the award record as 'TASK ORDER 5 NSEC, FFRDC'.",
+"tier": 1
+},
+{
+"source": "Inference from MITRE's published sponsor list",
+"text": "Records responsive to Burlison's Special and Controlled Access Program and materials-analysis categories would necessarily be NSEC holdings rather than holdings of MITRE's civil FFRDCs. Reasoning: NSEC is the only MITRE FFRDC with a defence or intelligence sponsor and therefore the only one accredited for such material.",
+"tier": 3
+}
+],
+"cls": "program",
+"cluster": "ffrdc",
+"connections": [
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "2020",
+"direction": "in",
+"edgeLabel": "Runs MITRE National Security, the organisation containing NSEC",
+"id": "dana-keoki-jackson",
+"l0": false,
+"label": "Dana (Keoki) Jackson",
+"note": "Any MITRE holdings on Special and Controlled Access Programs, materials analysis or classification guides would sit inside his organisation.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "MITRE - Our Leadership",
+"url": "https://www.mitre.org/who-we-are/our-people/our-leadership"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "1958",
+"direction": "in",
+"edgeLabel": "MITRE operates NSEC for the Under Secretary of Defense for Research and Engineering",
+"id": "mitre-corporation",
+"l0": true,
+"label": "The MITRE Corporation",
+"note": "NSEC is MITRE's only DoD/IC-sponsored FFRDC, funded at roughly $1.43 billion in FY2024 and executed through Army task orders under IDIQ W56KGU18D0004.",
+"sources": [
+{
+"date": "2022-03-03",
+"name": "MITRE NSEC fact sheet",
+"url": "https://www.mitre.org/news-insights/fact-sheet/national-security-engineering-center"
+},
+{
+"date": "2026-08-12",
+"name": "USAspending.gov award records",
+"url": "https://www.usaspending.gov/award/CONT_AWD_W56KGU24F0010_9700_W56KGU18D0004_9700"
+}
+],
+"tier": "A",
+"type": "institutional"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "1958",
+"deg": 2,
+"denials": [],
+"desc": "NSEC is the FFRDC that would hold anything responsive to Burlison's request. It is MITRE's Department of Defense and Intelligence Community centre, sponsored by the Under Secretary of Defense for Research and Engineering, with its primary location reassigned to McLean, Virginia in 2025, and funded at roughly 1.43 billion dollars in FY2024 - larger than the Aerospace FFRDC and larger than MIT Lincoln Laboratory. MITRE's own fact sheet dates NSEC's lineage to 1958, meaning the DoD centre is coextensive with the corporation itself. Work is placed through Army Contracting Command task orders under indefinite-delivery vehicle W56KGU18D0004, with individual annual task orders running from roughly 583 million dollars in FY20 to roughly 752 million dollars in FY25. NSEC sits inside MITRE National Security, run by Dana Keoki Jackson, formerly Chief Technology Officer of Lockheed Martin, with a subordinate Intelligence Center. Because NSEC is MITRE's only DoD/IC-sponsored centre it is the only one operating at the classification levels at which Special Access Program and controlled-access material would reside; the aviation, tax, health, homeland and cybersecurity centres do not. Any MITRE records concerning technologies of unknown origin, materials exploitation or legacy programme security architecture are, by elimination, NSEC records - and NSEC's disclosure obligation runs to USD(R&E), not to the House Oversight Committee.",
+"domains": [
+"ffrdcs"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "mitre-nsec",
+"l0": false,
+"label": "National Security Engineering Center (NSEC)",
+"locLabel": null,
+"members": null,
+"short": "National Security Engineering Center (NSEC)",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "MITRE - National Security Engineering Center",
+"url": "https://www.mitre.org/our-impact/rd-centers/national-security-engineering-center"
+},
+{
+"date": "2022-03-03",
+"name": "MITRE - National Security Engineering Center Fact Sheet",
+"url": "https://www.mitre.org/news-insights/fact-sheet/national-security-engineering-center"
+},
+{
+"date": "2026-08-12",
+"name": "NSF NCSES - Master Government List of Federally Funded R&D Centers",
+"url": "https://ncses.nsf.gov/resource/master-gov-lists-ffrdc"
+}
+],
+"sub": "MITRE-operated FFRDC; sponsor DoD, Under Secretary of Defense for Research and Engineering; since 1958",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 337 of 1027, score 35). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C3/A3/D1.",
+"timeline": []
+}

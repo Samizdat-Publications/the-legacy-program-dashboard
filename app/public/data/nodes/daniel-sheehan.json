@@ -1,0 +1,216 @@
+{
+"A": 0,
+"C": 1,
+"D": 3,
+"affiliations": [
+"New Paradigm Institute (founder)",
+"Christic Institute (co-founder)",
+"Romero Institute (Chief Counsel)",
+"Christic Institute (founder)",
+"Counsel to Luis Elizondo v. DoD"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "1988-06-23",
+"event": "Avirgan v. Hull dismissed; Christic Institute ordered to pay $955,000 in fees and $79,500 in costs under Rule 11.",
+"precision": "day"
+},
+{
+"date": "2023-01-01",
+"event": "Founds/leads the New Paradigm Institute campaign for the UAP Disclosure Act.",
+"precision": "year"
+},
+{
+"date": "2023-11-27",
+"event": "Account of Turner's demands published",
+"precision": "day"
+},
+{
+"date": "2026-01-01",
+"event": "New Paradigm Institute runs the 'Tell the Senate to Pass the UAPDA' campaign after House action.",
+"precision": "year"
+}
+],
+"claims": [
+{
+"source": "Daniel Sheehan, quoted in Micah Hanks, The Debrief, 27 November 2023",
+"text": "Sheehan states Turner 'first attacked those two elements' — eminent domain and the Review Board's subpoena power — saying in effect 'we want the eminent domain provision out of here, and we want the subpoena power out.'",
+"tier": 2
+},
+{
+"source": "Inference from Sheehan's account compared with P.L. 118-31 Subtitle C",
+"text": "Sheehan's account is the only named-source explanation for why the enacted subtitle lacks precisely the two provisions with reach into contractor-held material, and it is consistent with the text; treat it as the working hypothesis pending release of conference records.",
+"tier": 3
+},
+{
+"source": "Wikipedia, 'Daniel Sheehan (attorney)', retrieved 12 August 2026 — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"text": "Sheehan served as counsel to John E. Mack and to Steven Greer's Disclosure Project, and represents Luis Elizondo in a case against the Department of Defense.",
+"tier": 2
+},
+{
+"source": "Wikipedia, 'Daniel Sheehan (attorney)'; US District Court, Southern District of Florida — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"text": "In Avirgan v. Hull, Judge James Lawrence King dismissed the suit on 23 June 1988 and ordered the Christic Institute to pay $955,000 in attorney's fees and $79,500 in costs under Rule 11.",
+"tier": 2
+},
+{
+"source": "New Paradigm Institute website, retrieved 12 August 2026 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"text": "The New Paradigm Institute is running a public campaign urging the Senate to pass the UAP Disclosure Act following House passage of its version, and a 'UAP Transparency Pledge' for candidates.",
+"tier": 2
+}
+],
+"cls": "person",
+"cluster": "witness",
+"conflicts": [
+"Judicially sanctioned in 1988 for reliance on unavailable and second-hand witnesses - a pattern critics apply to his UAP advocacy."
+],
+"connections": [
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2026",
+"dateStart": "2023",
+"direction": "out",
+"edgeLabel": "Represents Elizondo in litigation against DoD",
+"id": "luis-elizondo",
+"l0": false,
+"label": "Luis D. Elizondo",
+"note": "The legal channel through which prepublication review and non-disclosure constraints on a former programme director are being contested.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Wikipedia - Daniel Sheehan (attorney)",
+"url": "https://en.wikipedia.org/wiki/Daniel_Sheehan_(attorney)"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2023",
+"dateStart": "2023",
+"direction": "out",
+"edgeLabel": "Named-source account of what Turner demanded in conference",
+"id": "mike-turner",
+"l0": false,
+"label": "Michael R. Turner",
+"note": "Sheehan is the only named participant to describe the conference demands; his account is corroborated by the statutory text but not by any released conference record.",
+"sources": [
+{
+"date": "2023-11-27",
+"name": "The Debrief — pushback from lawmakers",
+"url": "https://thedebrief.org/uap-disclosure-act-receives-pushback-from-lawmakers-on-capitol-hill-as-bipartisan-fight-for-transparency-continues/"
+}
+],
+"tier": "B",
+"type": "witness-chain"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "2026",
+"dateStart": "2022",
+"direction": "out",
+"edgeLabel": "Founder and principal",
+"id": "new-paradigm-institute",
+"l0": false,
+"label": "New Paradigm Institute",
+"note": "NPI is Sheehan's vehicle for the UAPDA campaign and the UAP Transparency Pledge.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "New Paradigm Institute",
+"url": "https://newparadigminstitute.org/"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2010",
+"dateStart": "1993",
+"direction": "out",
+"edgeLabel": "Sheehan served as counsel to Greer's Disclosure Project",
+"id": "steven-greer",
+"l0": false,
+"label": "Steven M. Greer",
+"note": "Recorded because it links the movement's current legal strategist to its most contested figure, a connection hostile reviewers will use.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Wikipedia - Daniel Sheehan (attorney)",
+"url": "https://en.wikipedia.org/wiki/Daniel_Sheehan_(attorney)"
+}
+],
+"tier": "C",
+"type": "institutional"
+}
+],
+"date": "2023-11-27",
+"dateEnd": null,
+"dateStart": "2023-11-27",
+"deg": 4,
+"denials": [],
+"domains": [
+"congress-senate-legislation",
+"media-structure"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "daniel-sheehan",
+"instId": "new-paradigm-institute",
+"l0": false,
+"label": "Daniel P. Sheehan",
+"loc": "Washington, DC",
+"locId": "l-dc",
+"members": null,
+"narrative": "Daniel Sheehan is the legal architecture of the disclosure movement. A Harvard College and Harvard Law graduate who worked the Pentagon Papers case, Watergate, Silkwood, Greensboro and the La Penca bombing suit, he founded the Christic Institute and the Romero Institute and now runs the New Paradigm Institute, which lobbies directly for the UAP Disclosure Act. He was counsel to Harvard psychiatrist John Mack and to Steven Greer's Disclosure Project, and he represents Luis Elizondo in litigation against the Department of Defense. His significance for this board is that he is the person converting testimony into legal instruments - eminent domain provisions, records-review boards, whistleblower protection - and the New Paradigm Institute is running the campaign to get the Senate to pass the UAPDA after House action. Sheehan's record also carries a real liability: the Avirgan v. Hull suit was dismissed in 1988 with Rule 11 sanctions of over a million dollars against the Christic Institute, and the presiding judge criticised his reliance on witnesses who were dead, unwilling or one person removed from the facts. That is a hostile-audit vulnerability the board should carry openly, because the same evidentiary pattern - second-hand witnesses, unavailable primaries - recurs in the UAP context.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Daniel P. Sheehan",
+"sources": [
+{
+"date": "2023-11-27",
+"name": "The Debrief — UAP Disclosure Act receives pushback from lawmakers",
+"url": "https://thedebrief.org/uap-disclosure-act-receives-pushback-from-lawmakers-on-capitol-hill-as-bipartisan-fight-for-transparency-continues/"
+},
+{
+"date": "2026-08-12",
+"name": "Wikipedia - Daniel Sheehan (attorney)",
+"url": "https://en.wikipedia.org/wiki/Daniel_Sheehan_(attorney)"
+},
+{
+"date": "2026-08-12",
+"name": "New Paradigm Institute",
+"url": "https://newparadigminstitute.org/"
+}
+],
+"status": "active",
+"sub": "Constitutional attorney; lobbied the FY2024 NDAA conference",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 580 of 1027, score 26). 4 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A0/D3.",
+"timeline": [
+{
+"date": "1988-06-23",
+"id": "ms-cv-1988-rule11",
+"label": "Christic Institute sanctioned",
+"precision": "day",
+"strand": "coverup",
+"text": "Judge James Lawrence King dismisses Avirgan v. Hull and orders Daniel Sheehan's Christic Institute to pay $955,000 in fees and $79,500 in costs under Rule 11, criticising reliance on witnesses who were dead, unwilling, or one person removed from the facts. Recorded because the same evidentiary pattern recurs in the UAP context and hostile reviewers will reach for this first.",
+"tier": "B"
+}
+],
+"unexplainedResidual": null,
+"unverified": []
+}

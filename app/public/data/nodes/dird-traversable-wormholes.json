@@ -1,0 +1,144 @@
+{
+"A": 3,
+"C": 1,
+"D": 2,
+"band": null,
+"claims": [
+{
+"source": "Cover pages of the released document",
+"text": "The document is numbered DIA-08-1004-004, dated 6 April 2010, with 'reOD: 1 December 2009', prepared by the Acquisition Support Division (DWO-3), Defense Warning Office, Directorate for Analysis, DIA.",
+"tier": 1
+},
+{
+"source": "Author block of the released document",
+"text": "The author is Eric W. Davis, Ph.D., of EarthTech International, Inc., 11855 Research Blvd, Austin, TX 78759.",
+"tier": 1
+},
+{
+"source": "Administrative note of the released document",
+"text": "The administrative note names James T. Lacatski, D.Eng. as AAWSA Program Manager at DIA, ATTN: CLAR/DWO-3, Bldg 6000, Washington DC 20340-5100.",
+"tier": 1
+}
+],
+"cls": "document",
+"cluster": "ic",
+"connections": [
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "2010",
+"dateStart": "2009",
+"direction": "out",
+"edgeLabel": "Contractor of record: EarthTech International Inc., 11855 Research Blvd, Austin TX",
+"id": "earthtech-international",
+"l0": true,
+"label": "EarthTech International / Institute for Advanced Studies at Austin",
+"note": "The author block on the released DIRD gives EarthTech's full street address, which makes the corporate performer identifiable and locatable rather than a generic 'contractor'.",
+"sources": [
+{
+"date": "2010-04-06",
+"name": "DIRD DIA-08-1004-004, 'Traversable Wormholes, Stargates, and Negative Energy' (Eric W. Davis, EarthTech International)",
+"url": "https://documents.theblackvault.com/documents/traversablewormholes-drdavis.pdf"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "2010",
+"dateStart": "2009",
+"direction": "in",
+"edgeLabel": "Named author of DIA-08-1004-004",
+"id": "eric-davis",
+"l0": false,
+"label": "Eric W. Davis",
+"note": "The cover of the released document names Eric W. Davis, Ph.D., of EarthTech International Inc. as author, with a DIA control number, a Defense Warning Office preparing office and an FY2009 production year.",
+"sources": [
+{
+"date": "2010-04-06",
+"name": "DIRD DIA-08-1004-004, 'Traversable Wormholes, Stargates, and Negative Energy' (Eric W. Davis, EarthTech International)",
+"url": "https://documents.theblackvault.com/documents/traversablewormholes-drdavis.pdf"
+}
+],
+"tier": "A",
+"type": "programmatic"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "2010",
+"dateStart": "2009",
+"direction": "out",
+"edgeLabel": "Lacatski named as AAWSA Program Manager on the document's administrative note",
+"id": "james-lacatski",
+"l0": false,
+"label": "James T. Lacatski",
+"note": "The administrative note directs comments to James T. Lacatski, D.Eng., AAWSA Program Manager, DIA, ATTN: CLAR/DWO-3, Bldg 6000, Washington DC 20340-5100 - naming the government official responsible for the series.",
+"sources": [
+{
+"date": "2010-04-06",
+"name": "DIRD DIA-08-1004-004, 'Traversable Wormholes, Stargates, and Negative Energy' (Eric W. Davis, EarthTech International)",
+"url": "https://documents.theblackvault.com/documents/traversablewormholes-drdavis.pdf"
+}
+],
+"tier": "A",
+"type": "programmatic"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "2010",
+"deg": 3,
+"denials": [],
+"desc": "The cleanest single artefact in the technical layer. A UNCLASSIFIED//FOR OFFICIAL USE ONLY Defense Intelligence Reference Document bearing the control number DIA-08-1004-004, publication date 6 April 2010 and a 'reOD' date of 1 December 2009, prepared by the Acquisition Support Division (DWO-3), Defense Warning Office, Directorate for Analysis, Defense Intelligence Agency. The author is given as Eric W. Davis, Ph.D., EarthTech International, Inc., 11855 Research Blvd, Austin, TX 78759. The administrative note states the product is one in a series produced in FY 2009 under the DIA Defense Warning Office's Advanced Aerospace Weapon System Applications (AAWSA) programme and directs correspondence to James T. Lacatski, D.Eng., AAWSA Program Manager, ATTN: CLAR/DWO-3, Bldg 6000, Washington DC 20340-5100. It also carries a copyright warning against further dissemination of the photographs in the publication - a small detail worth noticing in a theoretical physics survey. Everything a hostile auditor would demand is on the cover: agency, directorate, division, control number, fiscal year, contractor, address and named programme manager.",
+"domains": [
+"scientists-technical"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "2",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "dird-traversable-wormholes",
+"l0": false,
+"label": "DIA-08-1004-004: 'Traversable Wormholes, Stargates, and Negative Energy'",
+"locLabel": null,
+"members": null,
+"short": "DIA-08-1004-004: 'Traversable Wormholes, Stargates, and Negative Energy'",
+"sources": [
+{
+"date": "2010-04-06",
+"name": "DIRD DIA-08-1004-004, 'Traversable Wormholes, Stargates, and Negative Energy' (Eric W. Davis, EarthTech International)",
+"url": "https://documents.theblackvault.com/documents/traversablewormholes-drdavis.pdf"
+},
+{
+"date": "2019-01-16",
+"name": "DIA letter to Steven Aftergood listing 38 AATIP reference products",
+"url": "https://irp.fas.org/dia/aatip-list.pdf"
+},
+{
+"date": "2026-08-12",
+"name": "DIA FOIA Electronic Reading Room - Advanced Aerospace Threat Identification Program",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FOIA-Reading-Room-Advanced-Aerospace-Threat-Identification-Program/"
+}
+],
+"sub": "Defense Intelligence Reference Document, 6 April 2010; author Eric W. Davis, EarthTech International",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 343 of 1027, score 35). 3 connections, 2 of them custody/witness/funding/programmatic. Axes C1/A3/D2.",
+"timeline": [
+{
+"date": "2010-04-06",
+"id": "st-2010-04-06",
+"label": "DIA-08-1004-004 issued",
+"precision": "day",
+"strand": "program",
+"text": "'Traversable Wormholes, Stargates, and Negative Energy' is issued with Eric W. Davis of EarthTech International, 11855 Research Blvd, Austin TX, named as author.",
+"tier": "A"
+}
+]
+}

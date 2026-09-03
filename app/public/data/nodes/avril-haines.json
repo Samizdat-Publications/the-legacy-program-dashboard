@@ -1,0 +1,147 @@
+{
+"A": 3,
+"C": 0,
+"D": 2,
+"affiliations": [
+"Director of National Intelligence (2021-2025)",
+"Deputy Director of the CIA (2013-2015)",
+"Deputy National Security Advisor (2015-2017)"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "2021-06-25",
+"event": "ODNI transmits Preliminary Assessment: Unidentified Aerial Phenomena to Congress; 144 incidents, 143 unexplained",
+"precision": "day"
+},
+{
+"date": "2023-01-01",
+"event": "Briefed that the Air Force fake alien-technology practice affected 'hundreds and hundreds' of personnel over decades",
+"precision": "year"
+}
+],
+"claims": [
+{
+"source": "ODNI, Preliminary Assessment: Unidentified Aerial Phenomena, 25 June 2021",
+"text": "The ODNI Preliminary Assessment of 25 June 2021 reported 144 UAPTF incidents, of which only one was explained, and stated the data set was limited by inconsistent collection.",
+"tier": 1
+},
+{
+"source": "Wall Street Journal reporting, 6 June 2025, as summarised in the Yankee Blue record",
+"text": "Officials briefed DNI Haines that 'hundreds and hundreds' of military personnel had been affected over decades by the fake alien-technology indoctrination practice.",
+"tier": 2
+}
+],
+"cls": "person",
+"cluster": "other",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "2021",
+"dateStart": "2021",
+"direction": "out",
+"edgeLabel": "DNI who transmitted the assessment to Congress",
+"id": "odni-preliminary-assessment-2021",
+"l0": true,
+"label": "ODNI Preliminary Assessment: Unidentified Aerial Phenomena (25 June 2021)",
+"note": "Haines was Director of National Intelligence when ODNI delivered the Preliminary Assessment on 25 June 2021.",
+"sources": [
+{
+"date": "2021-06-25",
+"name": "ODNI newsroom",
+"url": "https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2021/3550-preliminary-assessment-unidentified-aerial-phenomena"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 2,
+"cls": "program",
+"dateEnd": "2023",
+"dateStart": "2023",
+"direction": "in",
+"edgeLabel": "DNI briefed that the practice affected 'hundreds and hundreds' of personnel over decades",
+"id": "yankee-blue",
+"l0": true,
+"label": "YANKEE BLUE (alleged AFOSI indoctrination program)",
+"note": "Officials escalated the finding to the Director of National Intelligence, establishing that the deception was known at the top of the IC before any public account existed.",
+"sources": [
+{
+"date": "2025-06-06",
+"name": "Metabunk thread documenting the WSJ report",
+"url": "https://www.metabunk.org/threads/yankee-blue-the-hazing-ritual-responsible-for-some-military-belief-in-ufos.14260/"
+}
+],
+"tier": "B",
+"type": "institutional"
+}
+],
+"date": "2021-06-25",
+"dateEnd": null,
+"dateStart": "2021-06-25",
+"deg": 2,
+"denials": [],
+"domains": [
+"_rs-archive-mirror",
+"uaptf-aaro"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "avril-haines",
+"instId": "odni",
+"l0": false,
+"label": "Avril D. Haines",
+"loc": "Washington, DC",
+"locId": "l-dc",
+"members": null,
+"narrative": "Haines owns the two most important intelligence-community moments in this domain. As Director of National Intelligence she transmitted the Preliminary Assessment on Unidentified Aerial Phenomena to Congress on 25 June 2021 - the document that put 144 UAPTF-catalogued incidents on the public record, conceded that 143 could not be explained, and pointedly declined to rule out any explanation including 'other' categories requiring scientific advances. That report is the founding public artifact of the modern era and it was produced by the UAP Task Force, not by ODNI's own analysts. Second, and more damaging to the Department's position, officials briefed Haines that the Air Force's fake alien-technology indoctrination practice had affected 'hundreds and hundreds' of personnel over decades - a briefing to the sitting DNI that the deception was systemic and long-running. The Preliminary Assessment's own framing is worth reading as an artifact of the containment: it explicitly noted that UAPTF's data set was limited and that most incidents lacked sufficient collection, an argument structure that AARO would reuse for the next five years - insufficient data as the permanent reason nothing can be resolved.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Avril D. Haines",
+"sources": [
+{
+"date": "2026-08-11",
+"name": "Archived: ODNI - Preliminary Assessment: Unidentified Aerial Phenomena (Wayback 2026-08-11)",
+"url": "https://web.archive.org/web/20260811043206/https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf"
+},
+{
+"date": "2026-07-01",
+"name": "Archived: ODNI newsroom - Preliminary Assessment: Unidentified Aerial Phenomena (Wayback 2026-07-01)",
+"url": "https://web.archive.org/web/20260701023120/https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2021/3550-preliminary-assessment-unidentified-aerial-phenomena"
+},
+{
+"date": "2021-06-25",
+"name": "ODNI - Preliminary Assessment: Unidentified Aerial Phenomena",
+"url": "https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf"
+},
+{
+"date": "2021-06-25",
+"name": "ODNI newsroom - Preliminary Assessment: Unidentified Aerial Phenomena",
+"url": "https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2021/3550-preliminary-assessment-unidentified-aerial-phenomena"
+},
+{
+"date": "2026-08-12",
+"name": "Wikipedia - Yankee Blue",
+"url": "https://en.wikipedia.org/wiki/Yankee_Blue"
+}
+],
+"status": "active",
+"sub": "Director of National Intelligence (2021-2025); issued the Preliminary Assessment; briefed on Yankee Blue",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 745 of 1027, score 20). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A3/D2.",
+"timeline": [],
+"unexplainedResidual": null,
+"unverified": [
+"The exact date of the Yankee Blue briefing to Haines has not been published."
+]
+}

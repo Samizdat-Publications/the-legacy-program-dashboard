@@ -1,0 +1,174 @@
+{
+"A": 2,
+"C": 2,
+"D": 3,
+"band": null,
+"claims": [
+{
+"source": "https://www.ecfr.gov/current/title-32/subtitle-A/chapter-I/subchapter-D/part-117/section-117.3",
+"text": "32 CFR 117.3(b), verbatim: 'ACCM are security measures used by USG agencies to safeguard classified intelligence or operations when normal measures are insufficient to achieve strict need-to-know controls and where SAP controls are not required.'",
+"tier": 1
+},
+{
+"source": "https://www.ecfr.gov/current/title-32/subtitle-A/chapter-I/subchapter-D/part-117/section-117.23",
+"text": "32 CFR 117.23 places ACCM in the same 'Supplement to this rule' as SAPs, SCI, RD, FRD, TFNI and NNPI, and its heading names ACCM first. 117.23(a): 'Given the sensitive nature of Alternative Compensatory Control Measures (ACCM), SAPs, SCI, RD, FRD, TFNI, and NNPI, the security requirements prescribed in this section exceed baseline standards for this rule and must be applied, as applicable, through specific contract requirements.'",
+"tier": 1
+},
+{
+"source": "https://www.ecfr.gov/current/title-32/subtitle-A/chapter-I/subchapter-D/part-117/section-117.3",
+"text": "ACCM is the only member of that regulated set with no reporting statute attached: 10 U.S.C. 119, 50 U.S.C. 2426, 3348 and 3091a each key on the term 'special access program' or 'controlled access program', and the NISPOM rule's own definition places ACCM expressly 'where SAP controls are not required.' A capability protected by ACCM rather than SAP controls therefore triggers no congressional notice under any of the four statutes. Reasoning stated from the definition and the four statutes.",
+"tier": 3
+},
+{
+"source": "32 CFR 117.3(b)",
+"text": "32 CFR 117.3(b): 'ACCM are security measures used by USG agencies to safeguard classified intelligence or operations when normal measures are insufficient to achieve strict need-to-know controls and where SAP controls are not required.'",
+"tier": 1
+},
+{
+"source": "32 CFR 117.23(c)",
+"text": "32 CFR 117.23 addresses ACCM in the same supplement as SAPs, SCI, RD, FRD, TFNI and NNPI, requiring contractors to implement ACCM protection requirements 'when established by contract'.",
+"tier": 1
+},
+{
+"source": "32 CFR 117.3(b) read against 10 U.S.C. 119 and 50 U.S.C. 3348(g)(3)",
+"text": "Because ACCM is defined as the case where SAP controls are not required, an ACCM is outside the definition of 'special access program' in 10 U.S.C. 119 and 50 U.S.C. 3348(g)(3), and therefore outside every SAP congressional reporting statute. Reasoning: all four reporting statutes are triggered by the term 'special access program', which ACCM expressly is not.",
+"tier": 3
+}
+],
+"cls": "program",
+"cluster": "other",
+"connections": [
+{
+"claimTier": 1,
+"cls": "domain",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "ACCM applies 'where SAP controls are not required' and is named in no reporting statute",
+"id": "four-regime-map",
+"l0": false,
+"label": "The four SAP reporting regimes and the seams between them",
+"note": "ACCM is the hole in the map. 32 CFR 117.23 places it in the same regulated set as SAPs, SCI, RD, FRD, TFNI and NNPI, and names it first in the heading - but it is the only member of that set with no reporting statute attached. 10 U.S.C. 119, 50 U.S.C. 2426, 3348 and 3091a each key on 'special access program' or 'controlled access program'. A measure that is neither falls outside all four.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "32 CFR 117.3 (eCFR)",
+"url": "https://www.ecfr.gov/current/title-32/subtitle-A/chapter-I/subchapter-D/part-117/section-117.3"
+},
+{
+"date": "2026-08-12",
+"name": "32 CFR 117.23 (eCFR)",
+"url": "https://www.ecfr.gov/current/title-32/subtitle-A/chapter-I/subchapter-D/part-117/section-117.23"
+}
+],
+"tier": "B",
+"type": "programmatic"
+},
+{
+"claimTier": 3,
+"cls": "legislation",
+"dateEnd": null,
+"dateStart": "2021-02-24",
+"direction": "out",
+"edgeLabel": "ACCM sits below the definitional trigger of every SAP reporting statute",
+"id": "usc-10-119",
+"l0": true,
+"label": "10 U.S.C. 119 — Special Access Programs: Congressional Oversight",
+"note": "32 CFR 117.3(b) defines ACCM as the case 'where SAP controls are not required'; the reporting statutes are triggered only by the term 'special access program'.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "32 CFR Part 117 (eCFR, current)",
+"url": "https://www.ecfr.gov/current/title-32/subtitle-A/chapter-I/subchapter-D/part-117"
+},
+{
+"date": "2026-08-12",
+"name": "10 U.S.C. 119",
+"url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim"
+}
+],
+"tier": "A",
+"type": "denial"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "2021-02-24",
+"deg": 2,
+"denials": [
+{
+"by": {
+"id": "accm",
+"label": "Alternative Compensatory Control Measures (ACCM)"
+},
+"claimTier": 3,
+"denialKind": "association",
+"label": "ACCM sits below the definitional trigger of every SAP reporting statute",
+"note": "32 CFR 117.3(b) defines ACCM as the case 'where SAP controls are not required'; the reporting statutes are triggered only by the term 'special access program'.",
+"of": {
+"id": "usc-10-119",
+"label": "10 U.S.C. 119 — Special Access Programs: Congressional Oversight"
+},
+"sources": [
+{
+"date": "2026-08-12",
+"name": "32 CFR Part 117 (eCFR, current)",
+"url": "https://www.ecfr.gov/current/title-32/subtitle-A/chapter-I/subchapter-D/part-117"
+},
+{
+"date": "2026-08-12",
+"name": "10 U.S.C. 119",
+"url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim"
+}
+]
+}
+],
+"desc": "ACCM is the layer below a special access program, and it is the layer with no statute attached to it at all. The NISPOM rule defines it: 'ACCM are security measures used by USG agencies to safeguard classified intelligence or operations when normal measures are insufficient to achieve strict need-to-know controls and where SAP controls are not required.' The rule then requires contractors to implement ACCM protection requirements 'when established by contract, in accordance with applicable statutes, E.O.s, CSA directives, instructions, manuals, regulations, standards, and memorandums', and covers ACCM in the same supplement, section 117.23, as SAPs, SCI and Restricted Data. The importance for this board is precise and narrow: ACCM produces access lists, nicknames and compartmented handling that look and function like a special access program, but because it is by definition the case 'where SAP controls are not required', an ACCM is not a SAP, and therefore nothing in 10 U.S.C. 119 applies to it. There is no annual ACCM report to the defense committees, no new-ACCM notice, no 30-day report-and-wait and no waiver to exercise, because there is nothing to waive. An activity that needs compartmentation but does not want a line in the annual SAP report has a documented, lawful place to sit.",
+"domains": [
+"_rs-sap-docs",
+"w2-sap-architecture"
+],
+"dossier": null,
+"entityInfo": {
+"desc": "The floor beneath the floor. Every congressional SAP reporting statute - 10 U.S.C. 119, 50 U.S.C. 2426, 50 U.S.C. 3348 - is triggered by the term 'special access program'. Alternative Compensatory Control Measures are defined in the NISPOM rule as the security measures used 'where SAP controls are not required'. An ACCM therefore is not a SAP, and no reporting statute reaches it: no annual report, no new-program notice, no 30-day report-and-wait, no waiver needed because there is nothing to waive. ACCMs carry nicknames, access rosters and compartmented handling, and 32 CFR 117.23 imposes contractor obligations for them in the same supplement as SAPs and SCI. For anyone building a picture of where an activity could be run with the least congressional visibility, ACCM is the answer that requires no waiver, no Deputy Secretary signature and no entry on any list Congress receives. The number of ACCMs in existence has never been reported to Congress because no statute requires it.",
+"sources": []
+},
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "accm",
+"l0": false,
+"label": "Alternative Compensatory Control Measures (ACCM)",
+"locLabel": null,
+"members": null,
+"short": "Alternative Compensatory Control Measures (ACCM)",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "32 CFR 117.3 (eCFR)",
+"url": "https://www.ecfr.gov/current/title-32/subtitle-A/chapter-I/subchapter-D/part-117/section-117.3"
+},
+{
+"date": "2026-08-12",
+"name": "32 CFR 117.23 (eCFR)",
+"url": "https://www.ecfr.gov/current/title-32/subtitle-A/chapter-I/subchapter-D/part-117/section-117.23"
+},
+{
+"date": "2026-08-12",
+"name": "32 CFR Part 117 full rendered text (eCFR API, verified retrieval 12 Aug 2026) — canonical citation https://www.ecfr.gov/current/title-32/part-117",
+"url": "https://www.ecfr.gov/api/renderer/v1/content/enhanced/current/title-32?part=117"
+},
+{
+"date": "2026-08-12",
+"name": "32 CFR Part 117, NISPOM Rule (eCFR, current)",
+"url": "https://www.ecfr.gov/current/title-32/subtitle-A/chapter-I/subchapter-D/part-117"
+}
+],
+"sub": "mechanism",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 204 of 1027, score 43). 2 connections, 1 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C2/A2/D3.",
+"timeline": []
+}

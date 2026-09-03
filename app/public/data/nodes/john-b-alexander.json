@@ -1,0 +1,128 @@
+{
+"A": 3,
+"C": 1,
+"D": 2,
+"affiliations": [
+"US Army (1956-1988), Special Forces; INSCOM-adjacent programmes",
+"Los Alamos National Laboratory (1988-1995)",
+"National Institute for Discovery Science (board, 1995-2004)",
+"Advanced Theoretical Physics working group (convener, 1980s)"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "1985-01-01",
+"event": "Convenes the Advanced Theoretical Physics interagency working group to locate any compartmented UFO effort.",
+"precision": "year"
+},
+{
+"date": "1988-01-01",
+"event": "Joins Los Alamos National Laboratory as non-lethal weapons programme manager.",
+"precision": "year"
+},
+{
+"date": "1995-01-01",
+"event": "Joins the NIDS board at its founding.",
+"precision": "year"
+}
+],
+"claims": [
+{
+"source": "John B. Alexander, repeated public statements and his book 'UFOs: Myths, Conspiracies and Realities' (2011)",
+"text": "Alexander states that he convened a cleared interagency working group in the 1980s expressly to find a compartmented US UFO programme and concluded that none existed.",
+"tier": 2
+},
+{
+"source": "Inference from the structure of waived SAP reporting, under which access is controlled outside normal need-to-know staffing channels.",
+"text": "Alexander's negative finding is consistent with a waived unacknowledged special access programme rather than with the absence of one: a waived USAP is by design invisible to precisely the kind of interagency canvass he ran.",
+"tier": 3
+}
+],
+"cls": "person",
+"cluster": "ic",
+"conflicts": [
+"Alexander's conclusion is directly contrary to the claims of Grusch, Elizondo and others; the board records it as a genuine evidentiary conflict rather than resolving it."
+],
+"connections": [
+{
+"claimTier": 2,
+"cls": "program",
+"dateEnd": "2004",
+"dateStart": "1995",
+"direction": "out",
+"edgeLabel": "Alexander sat on the NIDS board from its founding",
+"id": "nids",
+"l0": true,
+"label": "National Institute for Discovery Science (NIDS)",
+"note": "Alexander brought Los Alamos and Army INSCOM programme experience and had previously convened a cleared interagency canvass for a compartmented UFO effort.",
+"sources": [
+{
+"date": "1998-08-10",
+"name": "Zack Van Eyck, 'Private UFO study takes a public turn', Deseret News",
+"url": "https://www.deseret.com/1998/8/10/19395824/private-ufo-study-takes-a-public-turn"
+},
+{
+"date": "2021-05-10",
+"name": "Gideon Lewis-Kraus, 'How the Pentagon Started Taking U.F.O.s Seriously', The New Yorker",
+"url": "https://www.newyorker.com/magazine/2021/05/10/how-the-pentagon-started-taking-ufos-seriously"
+}
+],
+"tier": "A",
+"type": "institutional"
+}
+],
+"date": "1995-01-01",
+"dateEnd": null,
+"dateStart": "1995-01-01",
+"deg": 1,
+"denials": [],
+"domains": [
+"history-1970s-2000s"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "1",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "john-b-alexander",
+"instId": "nids",
+"l0": false,
+"label": "John B. Alexander",
+"loc": "Las Vegas, NV",
+"locId": "l-skinwalker",
+"members": null,
+"narrative": "Alexander is the retired Army colonel who spent the late 1980s trying to find the UFO programme from inside the government, with credentials that should have worked, and reported that he could not find it. A Special Forces officer turned Los Alamos National Laboratory programme manager for non-lethal weapons, and previously involved in the Army's INSCOM psychoenergetics work, he convened in the 1980s an interagency group he called the Advanced Theoretical Physics working group, drawing senior people from CIA, DIA, the services and the national laboratories to determine whether a compartmented UFO effort existed. His conclusion, stated repeatedly since, is that he found no such programme - a finding that cuts against this board's premise and is recorded here in full for exactly that reason. What his account does establish is that the search happened, that it was conducted by cleared senior people, and that the answer they got was the same answer David Grusch got in 2019: the programme, if it exists, does not answer to people who ask through channels. Alexander then joined NIDS as a board member from 1995, working alongside Puthoff, Kelleher and Vallee on Bigelow's private version of the same inquiry.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "John B. Alexander",
+"sources": [
+{
+"date": "2021-05-10",
+"name": "Gideon Lewis-Kraus, 'How the Pentagon Started Taking U.F.O.s Seriously', The New Yorker",
+"url": "https://www.newyorker.com/magazine/2021/05/10/how-the-pentagon-started-taking-ufos-seriously"
+},
+{
+"date": "1998-08-10",
+"name": "Zack Van Eyck, 'Private UFO study takes a public turn', Deseret News",
+"url": "https://www.deseret.com/1998/8/10/19395824/private-ufo-study-takes-a-public-turn"
+},
+{
+"date": "2020-12-16",
+"name": "The Stargate Collection - CIA Program on Remote Viewing",
+"url": "https://www.theblackvault.com/documentarchive/the-stargate-collection/"
+}
+],
+"status": "active",
+"sub": "US Army Colonel (ret.); Los Alamos non-lethal weapons programme; NIDS board and 1980s-90s DoD/IC 'Advanced Theoretical Physics' group",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 720 of 1027, score 21). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A3/D2.",
+"timeline": [],
+"unexplainedResidual": null,
+"unverified": [
+"No document memorialising the Advanced Theoretical Physics group's membership or findings has been released."
+]
+}

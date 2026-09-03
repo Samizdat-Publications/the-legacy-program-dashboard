@@ -1,0 +1,451 @@
+{
+"A": 1,
+"C": 0,
+"D": 3,
+"band": "oversight",
+"claims": [
+{
+"source": "Rep. Burchett press release, 22 August 2023; The Hill, 12 March 2024 ('A bipartisan group of lawmakers formed the House UAP Caucus last fall')",
+"text": "Launched by Rep. Tim Burchett on 22 August 2023 together with a caucus letter to the Intelligence Community Inspector General about UAP retrieval programs.",
+"tier": 2
+},
+{
+"source": "The Hill, 12 January 2024; The Hill, 12 March 2024; The Hill/NewsNation, 29 June 2026",
+"text": "Rep. Andy Ogles is described as 'part of the UAP Caucus but not the Oversight Committee'; Rep. Moskowitz is described as 'a member of the UAP Caucus'; Rep. Burlison is described as 'a member of the caucus' and later as 'a member of the so-called UAP Caucus in Congress.'",
+"tier": 2
+},
+{
+"source": "The Hill, 12-13 January 2024",
+"text": "Members of the Congressional UAP Caucus attended the 12 January 2024 closed briefing with ICIG Thomas Monheim; Burchett said 'at one time, we had 16 congressmen in there.'",
+"tier": 2
+}
+],
+"cls": "institution",
+"cluster": "oversight",
+"connections": [
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "2023",
+"direction": "in",
+"edgeLabel": "Caucus member without an Oversight Committee seat",
+"id": "andy-ogles",
+"l0": false,
+"label": "Andrew Ogles",
+"note": "Described by The Hill as 'part of the UAP Caucus but not the Oversight Committee.'",
+"sources": [
+{
+"date": "2024-01-12",
+"name": "The Hill: Classified UFO briefing — House members emerge with mixed feelings",
+"url": "https://thehill.com/homenews/house/4406059-classified-ufo-briefing-house-members-mixed-feelings/"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "2023",
+"direction": "in",
+"edgeLabel": "Caucus member; later chairs the Task Force",
+"id": "anna-paulina-luna",
+"l0": false,
+"label": "Anna Paulina Luna",
+"note": "Described in February 2025 as 'a member of the bipartisan UAP Caucus' when named to chair the Task Force.",
+"sources": [
+{
+"date": "2025-02-18",
+"name": "The Hill (opinion, Marik von Rennenkampff): House Republicans demand UFO transparency",
+"url": "https://thehill.com/opinion/national-security/5149386-house-republicans-demand-ufo-transparency/"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "domain",
+"dateEnd": null,
+"dateStart": "2023-08-22",
+"direction": "out",
+"edgeLabel": "the member bloc that forces briefings and carries amendments outside committee jurisdiction",
+"id": "d-legislative",
+"l0": false,
+"label": "Legislative Process (proposed and pending)",
+"note": "Launched by Rep. Tim Burchett on 22 August 2023 alongside a caucus letter to the Intelligence Community Inspector General, with documented members including Burchett, Luna, Burlison, Moskowitz and Ogles. Its confirmed operational achievement is the 12 January 2024 closed briefing; Ogles is a member without an Oversight seat, which is how the caucus extends reach beyond the committee.",
+"sources": [
+{
+"date": "2023-08-22",
+"name": "Rep. Tim Burchett, 'Rep. Burchett Launches UAP Caucus, Leads Letter to Intelligence Community Inspector General'",
+"url": "https://burchett.house.gov/media/press-releases/rep-burchett-launches-uap-caucus-leads-letter-intelligence-community-inspector"
+},
+{
+"date": "2024-01-12",
+"name": "The Hill, 'Classified UFO briefing: House members emerge with mixed feelings'",
+"url": "https://thehill.com/homenews/house/4406059-classified-ufo-briefing-house-members-mixed-feelings/"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "2023",
+"direction": "in",
+"edgeLabel": "Caucus member",
+"id": "eric-burlison",
+"l0": false,
+"label": "Eric Burlison",
+"note": "Described as a member of the caucus in March 2024 and again in June 2026.",
+"sources": [
+{
+"date": "2024-03-12",
+"name": "The Hill: GOP lawmaker calls for House to form committee on UAPs",
+"url": "https://thehill.com/homenews/house/4527900-gop-lawmaker-calls-for-house-to-form-committee-on-uaps/"
+},
+{
+"date": "2026-06-29",
+"name": "The Hill: 'Invasion of Washington' UFO tape may surface as lawmakers push release",
+"url": "https://thehill.com/homenews/5944717-ufo-washington-invasion-evidence/"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 2,
+"cls": "event",
+"dateEnd": "2024",
+"dateStart": "2024",
+"direction": "out",
+"edgeLabel": "Caucus members attended the closed ICIG briefing",
+"id": "icig-briefing-2024-01-12",
+"l0": false,
+"label": "Closed ICIG UAP briefing to House Oversight members",
+"note": "Photograph caption and reporting describe the briefing as involving 'members of the Congressional UAP Caucus'; Burchett said about sixteen members attended.",
+"sources": [
+{
+"date": "2024-01-13",
+"name": "The Hill: Burchett — Classified UFO briefing 'energized' Congress on issue",
+"url": "https://thehill.com/homenews/house/4406775-burchett-classified-ufo-briefing-energized-congress/"
+},
+{
+"date": "2024-01-12",
+"name": "The Hill: Classified UFO briefing — House members emerge with mixed feelings",
+"url": "https://thehill.com/homenews/house/4406059-classified-ufo-briefing-house-members-mixed-feelings/"
+}
+],
+"tier": "C",
+"type": "programmatic"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "2023",
+"direction": "in",
+"edgeLabel": "Caucus member; the Democratic anchor",
+"id": "jared-moskowitz",
+"l0": false,
+"label": "Jared Evan Moskowitz",
+"note": "Described by The Hill as 'a member of the UAP Caucus.'",
+"sources": [
+{
+"date": "2024-01-12",
+"name": "The Hill: Classified UFO briefing — House members emerge with mixed feelings",
+"url": "https://thehill.com/homenews/house/4406059-classified-ufo-briefing-house-members-mixed-feelings/"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "2023",
+"direction": "in",
+"edgeLabel": "Founded the caucus in August 2023 and led its letter to the ICIG",
+"id": "tim-burchett",
+"l0": false,
+"label": "Timothy Floyd Burchett",
+"note": "Burchett press release of 22 August 2023; The Hill records the caucus as bipartisan and formed 'last fall.'",
+"sources": [
+{
+"date": "2024-03-12",
+"name": "The Hill: GOP lawmaker calls for House to form committee on UAPs",
+"url": "https://thehill.com/homenews/house/4527900-gop-lawmaker-calls-for-house-to-form-committee-on-uaps/"
+},
+{
+"date": "2024-01-12",
+"name": "The Hill: Classified UFO briefing — House members emerge with mixed feelings",
+"url": "https://thehill.com/homenews/house/4406059-classified-ufo-briefing-house-members-mixed-feelings/"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "caucus membership confers no statutory access",
+"id": "waived-sap-notification-group",
+"l0": true,
+"label": "Waived SAP Notification Group",
+"note": "A congressional caucus is not a committee and appears nowhere in 10 U.S.C. 119(g). Caucus members acquire no entitlement to waived-SAP notification, which is why UAP advocacy in Congress has consistently sought to legislate new access rather than to invoke existing access.",
+"sources": [
+{
+"date": "2026-08-22",
+"name": "10 U.S.C. 119, Special Access Programs: congressional oversight — subsections (e)(2) and (g) (OLRC prelim text, read 22 August 2026)",
+"url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim"
+},
+{
+"date": "2024-01-12",
+"name": "The Hill: Classified UFO briefing — House members emerge with mixed feelings",
+"url": "https://thehill.com/homenews/house/4406059-classified-ufo-briefing-house-members-mixed-feelings/"
+}
+],
+"tier": "A",
+"type": "institutional"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "2023",
+"deg": 8,
+"denials": [],
+"desc": "The bipartisan House caucus Tim Burchett launched on 22 August 2023, alongside a caucus letter to the Intelligence Community Inspector General about UAP retrieval programs. Its documented members include Burchett, Luna, Burlison, Moskowitz and Ogles; Ogles is a caucus member without an Oversight seat, which is how the caucus extends reach beyond the committee. Its one confirmed operational achievement is the 12 January 2024 closed briefing at the Capitol at which Inspector General Thomas Monheim met House Oversight members and, per Burchett, around sixteen members attended - 'the whole gang,' including Moskowitz, Ocasio-Cortez and Luna. The caucus is the vehicle through which individual member letters, amendments and hearing requests have been coordinated across three Congresses, and it is the reason the House record on this subject is bipartisan in a period when almost nothing else is.",
+"domains": [
+"congress-house"
+],
+"dossier": {
+"claims": [
+{
+"source": "https://burchett.house.gov/media/press-releases/rep-burchett-launches-uap-caucus-leads-letter-intelligence-community-inspector (22 August 2023)",
+"text": "Rep. Tim Burchett (TN-02) launched the Unidentified Anomalous Phenomena Caucus, announced in a press release dated 22 August 2023.",
+"tier": 1
+},
+{
+"source": "https://burchett.house.gov/media/press-releases/rep-burchett-launches-uap-caucus-leads-letter-intelligence-community-inspector (22 August 2023); letter at https://burchett.house.gov/sites/evo-subsites/burchett.house.gov/files/evo-media-document/letter-to-ic-ig-re-uap-hearing.pdf",
+"text": "The caucus's first act was a letter to Inspector General of the Intelligence Community Thomas A. Monheim signed by Reps. Tim Burchett, Jared Moskowitz, Anna Paulina Luna, Nancy Mace, Eric Burlison and Andy Ogles, requesting information 'regarding which people and facilities are involved with UAP crash retrieval programs and reverse engineering programs.'",
+"tier": 1
+},
+{
+"source": "https://burchett.house.gov/media/press-releases/rep-burchett-launches-uap-caucus-leads-letter-intelligence-community-inspector (22 August 2023)",
+"text": "The letter followed David Grusch's 26 July 2023 testimony to the House Committee on Oversight and Accountability that he could not provide specific details regarding UAP crash retrieval or reverse engineering programs because they are classified, but had provided those details to the Intelligence Community Inspector General's office.",
+"tier": 1
+},
+{
+"source": "https://oversight.house.gov/wp-content/uploads/2023/07/Ryan-HOC-Testimony.pdf; official transcript at https://www.congress.gov/118/meeting/house/116282/documents/HHRG-118-GO06-Transcript-20230726.pdf",
+"text": "The 26 July 2023 hearing was titled 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency,' held before the House Oversight Subcommittee on National Security, the Border, and Foreign Affairs, chaired by Rep. Grothman with Ranking Member Garcia, with Reps. Burchett and Luna present; witnesses included former Navy F/A-18 pilot Ryan Graves.",
+"tier": 1
+},
+{
+"source": "S. REP. NO. 116-233, at 11 (2020), cited at https://www.dlapiper.com/en-us/insights/publications/2026/08/odni-issues-preliminary-guidance-on-disclosure-of-unidentified-anomalous-phenomena",
+"text": "The Senate Select Committee on Intelligence stated in a 2020 committee report that the federal government had no comprehensive process for collecting and analysing intelligence on UAP 'despite the potential threat.'",
+"tier": 1
+},
+{
+"source": "National Defense Authorization Act for Fiscal Year 2024, Pub. L. No. 118-31, § 1841(a)(1)(C), 137 Stat. 136, 699-700 (2023) (codified at 44 U.S.C. § 2107 note)",
+"text": "The FY2024 NDAA created the UAP Records Collection at the National Archives and defined covered records as any 'Government, Government-provided, or Government-funded records relating to unidentified anomalous phenomena, technologies of unknown origin, and non-human intelligence' — placing that category in U.S. public law.",
+"tier": 1
+},
+{
+"source": "Pub. L. No. 118-31, §§ 1687, 7343, 137 Stat. 621-22, 1063-64; non-renewal noted at https://www.dlapiper.com/en-us/insights/publications/2026/08/odni-issues-preliminary-guidance-on-disclosure-of-unidentified-anomalous-phenomena",
+"text": "The FY2024 NDAA prohibited the use of that Act's fiscal year 2024 funds for any UAP-related secret program until the Secretary of Defense or the Director of National Intelligence fully disclosed the relevant details to the appropriate congressional committees and leadership; these funding limitations were not renewed in subsequent enactments.",
+"tier": 1
+},
+{
+"source": "169 CONG. REC. S3729, S3129-30, S3725-26, S3389-96 (2023), cited at https://www.dlapiper.com/en-us/insights/publications/2026/08/odni-issues-preliminary-guidance-on-disclosure-of-unidentified-anomalous-phenomena",
+"text": "The UAP Disclosure Act passed the Senate in 2023 as Division G of S. 2226 (vote 86-11) after unanimous-consent incorporation of S. Amend. No. 935, and would establish an independent review board empowered to advise the President on declassification and release of UAP records.",
+"tier": 1
+},
+{
+"source": "169 CONG. REC. S3466-73 (2026) (S. Amend. No. 6344 to S. 4784, § 10(a)), quoted at https://www.dlapiper.com/en-us/insights/publications/2026/08/odni-issues-preliminary-guidance-on-disclosure-of-unidentified-anomalous-phenomena",
+"text": "The UAPDA text orders the U.S. government to 'exercise eminent domain over any and all recovered technologies of unknown origin and biological evidence of non-human intelligence that may be controlled by private persons or entities in the interests of the public good.'",
+"tier": 1
+},
+{
+"source": "H.R. REP. 119-755, Amdt. No. 315, at 419-42 (2026), cited at https://www.dlapiper.com/en-us/insights/publications/2026/08/odni-issues-preliminary-guidance-on-disclosure-of-unidentified-anomalous-phenomena",
+"text": "On 22 July 2026 the House of Representatives adopted its version of the UAP Disclosure Act, including the eminent domain provision, as an amendment to the National Defense Authorization Act for Fiscal Year 2027.",
+"tier": 1
+},
+{
+"source": "https://burlison.house.gov/media/press-releases/house-adopts-burlison-amendment-establishing-uap-disclosure-framework (July 2026)",
+"text": "The FY2027 NDAA UAP amendment's named sponsors are Reps. Burlison (MO), Crane (AZ), Carson (IN), Luna (FL), Moskowitz (FL) and Begich (AK); it would create a permanent UAP Records Collection at the National Archives, establish an independent UAP Records Review Board, and extend disclosure requirements to covered government contractors.",
+"tier": 2
+},
+{
+"source": "https://oversight.house.gov/release/luna-opens-hearing-on-restoring-public-trust-through-uap-transparency; https://defensescoop.com/2025/09/09/military-whistleblowers-share-new-evidence-alleged-uap-ufo-hearing/",
+"text": "Rep. Anna Paulina Luna chairs the House Task Force on the Declassification of Federal Secrets, which on 9 September 2025 held a hearing titled 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection' with witnesses Jeffrey Nuccetelli (USAF veteran), Chief Alexandro Wiggins, George Knapp (journalist) and Dylan Borland (USAF veteran).",
+"tier": 2
+},
+{
+"source": "https://burlison.house.gov/media/press-releases/rep-eric-burlison-releases-statement-president-trumps-uap-nda-directive (21 July 2026)",
+"text": "On 21 July 2026 Rep. Eric Burlison publicly encouraged individuals who believed President Trump's UAP NDA directive applied to them to contact his congressional office for assistance navigating the process — establishing an informal congressional intake channel before the executive branch had published one.",
+"tier": 1
+},
+{
+"source": "https://burlison.house.gov/media/press-releases/rep-burlison-releases-administration-memorandum-president-trumps-uap-nda (1 August 2026); scope limitation per https://www.dlapiper.com/en-us/insights/publications/2026/08/odni-issues-preliminary-guidance-on-disclosure-of-unidentified-anomalous-phenomena",
+"text": "On 1 August 2026 Burlison released ODNI memorandum ES 2026-00818, stating that 'the administration authorized Congressman Burlison's office to publicly distribute the memorandum' — making a caucus member's House website the public release channel for an Intelligence Community directive addressed to the Director of the CIA and other IC element heads, even though the memo itself forecloses disclosure to Congress outside AARO.",
+"tier": 1
+}
+],
+"connections": [
+"David Grusch -> IC Inspector General Thomas A. Monheim -> the caucus's founding letter of 22 August 2023.",
+"Ryan Graves and the Roosevelt 2014-2015 encounters entered the record at the caucus-driven 26 July 2023 hearing, carrying Tim Gallaudet's deleted-SIPRNET-email account with them.",
+"Eric Burlison -> ODNI memo ES 2026-00818 -> PURSUE Task Force -> AARO: the caucus is now inside the executive branch's disclosure plumbing.",
+"Anna Paulina Luna -> Task Force on the Declassification of Federal Secrets -> parallel JFK files declassification work, same members and same theory of concealment applied to two record sets.",
+"George Knapp, who testified in September 2025, is the journalist who first published a near-complete DIRD title list in July 2018 — linking the caucus's witness roster to the AAWSAP/DIRD document trail.",
+"The Senate UAP Disclosure Act supplies the eminent domain language the House bloc carried into the FY2027 NDAA, implicating private entities holding recovered material.",
+"The FY2022, FY2023 and FY2024 NDAAs (AARO, authorised disclosure, NARA records collection) are the statutory spine the caucus operates on.",
+"NARA Record Group 615 is the repository the caucus created; NASA's refusal to transfer into it is the first documented agency-level refusal."
+],
+"denialPosture": "The caucus issues no denials; it exists to contest them. Its own weak point is documented rather than asserted: it has never published an answer from the IC Inspector General to its founding question about the people and facilities involved in crash retrieval and reverse-engineering programs, and the FY2024 funding prohibition on undisclosed UAP programs — the only appropriations lever ever applied — was allowed to lapse without public explanation.",
+"narrative": "On 26 July 2023 the House Oversight Subcommittee on National Security, the Border, and Foreign Affairs held the first public UAP hearing to take testimony from military pilots and whistleblowers. David Grusch, a former intelligence officer, testified that he could not provide specific details regarding UAP crash retrieval or reverse engineering programs because those details are classified, but that he had provided them to the Office of the Inspector General of the Intelligence Community. Twenty-seven days later, on 22 August 2023, Tim Burchett announced that he had launched the Unidentified Anomalous Phenomena Caucus and had led five colleagues in a letter to IC IG Thomas A. Monheim asking for follow-up on Grusch's testimony — specifically, in the caucus's own words, \"information from the Intelligence Community Inspector General regarding which people and facilities are involved with UAP crash retrieval programs and reverse engineering programs.\"\n\nThat question has never been publicly answered. The caucus's subsequent trajectory is best read as successive attempts to answer it by other means.\n\nThe statutory route came first. The FY2022 NDAA (Pub. L. 117-81, § 1683, codified at 50 U.S.C. § 3373) created AARO. The FY2023 NDAA (Pub. L. 117-263, § 1673, codified at 50 U.S.C. § 3373b) required a secure channel for authorised disclosure of UAP information relating to any government or contractor activity, notwithstanding NDAs, EO 13526, the Atomic Energy Act and Section 798 of the Espionage Act, and prohibited retaliation by agencies and by contractors, subcontractors, grantees and subgrantees. The FY2024 NDAA (Pub. L. 118-31, § 1841) then created the UAP Records Collection at the National Archives, defining covered records as any \"Government, Government-provided, or Government-funded records relating to unidentified anomalous phenomena, technologies of unknown origin, and non-human intelligence.\" That statutory phrase — \"technologies of unknown origin, and non-human intelligence\" — is now U.S. public law, drafted by a Congress that would not have needed the category if nothing occupied it.\n\nThe FY2024 NDAA also contained the sharpest instrument the caucus era produced and the one that quietly died: sections 1687 and 7343 prohibited the use of FY2024 funds for any UAP-related secret program until the Secretary of Defense or the Director of National Intelligence fully disclosed the relevant details to the appropriate congressional committees and leadership. Those funding limitations were not renewed in subsequent enactments. Whoever allowed that lapse removed the only appropriations-side leverage Congress had ever applied to the question.\n\nThe Senate route was the UAP Disclosure Act, which passed the Senate in 2023 as Division G of S. 2226 by unanimous-consent incorporation of Amendment No. 935 and would have created an independent review board empowered to advise the President on declassification and release of UAP records. Its most aggressive clause orders the government to \"exercise eminent domain over any and all recovered technologies of unknown origin and biological evidence of non-human intelligence that may be controlled by private persons or entities in the interests of the public good.\" It was stripped in conference. On 22 July 2026 the House adopted its own version — including the eminent domain provision — as an amendment to the FY2027 NDAA, recorded as Amendment No. 315 at H.R. Rep. 119-755, pages 419-442. The named sponsors are Burlison of Missouri, Crane of Arizona, Carson of Indiana, Luna of Florida, Moskowitz of Florida and Begich of Alaska: three of the six are caucus founders, and Crane, Carson and Begich extend the coalition. The House bloc carried into law-adjacent text the provision the Senate had been unable to protect.\n\nThe hearing route continued through the 119th Congress. Luna chairs the Task Force on the Declassification of Federal Secrets, which held a hearing on 9 September 2025 titled \"Restoring Public Trust Through UAP Transparency and Whistleblower Protection,\" taking testimony from Air Force veteran Jeffrey Nuccetelli, Chief Alexandro Wiggins, journalist George Knapp and Air Force veteran Dylan Borland. That task force also runs the JFK files declassification work — the same members, the same theory of the case, applied to two record sets.\n\nThe most revealing development is procedural rather than legislative. On 21 July 2026 Burlison publicly invited anyone covered by President Trump's UAP NDA directive to contact his office for help navigating the process — a member of Congress standing up an informal whistleblower intake because the official one did not yet exist. Eleven days later, ODNI signed memorandum ES 2026-00818. On 1 August 2026 Burlison released it, noting that \"the administration authorized Congressman Burlison's office to publicly distribute the memorandum.\" A national-level Intelligence Community directive to the Director of the CIA and the heads of every IC element reached the public through the website of a backbench House member from southwest Missouri who had spent three years accusing that same community of concealment. Whether that is co-option or capitulation is the open question; either way it is the clearest measure of the caucus's leverage in 2026. It is also worth noting what the memo Burlison distributed does not give him: it forecloses disclosure to Congress outside AARO, meaning the caucus published an instrument that routes around itself.\n\nOne cataloguing caution for downstream analysis: the domain uapcaucus.com belongs to a private advocacy organisation, not to the congressional caucus, and the House caucus has never published an official membership roster.",
+"openQuestions": [
+"Did the Intelligence Community Inspector General ever answer the 22 August 2023 letter, and has any response been provided to the signatories in classified session?",
+"The House caucus has never published an official membership roster; current membership and its growth since 2023 are undocumented. Note that uapcaucus.com is a private advocacy organisation, not the congressional caucus.",
+"Who removed the FY2024 UAP secret-program funding prohibition from subsequent authorisation bills, and at whose request?",
+"Will the FY2027 UAPDA amendment, including eminent domain, survive conference with the Senate?",
+"Has the eminent domain provision been reviewed by the Office of Legal Counsel or scored for takings liability under the Fifth Amendment?",
+"Which private entities would be covered by the eminent domain provision, and has any member identified them by name in classified session?",
+"Why did the administration choose a caucus member's office as the release channel for ES 2026-00818, and was any condition attached?"
+],
+"roles": [
+"oversight",
+"disclosure"
+],
+"whatItIs": "A bipartisan House caucus launched by Rep. Tim Burchett (TN-02) in August 2023 and co-chaired with Rep. Jared Moskowitz (FL-23). Its founding cohort — the six members who signed its first act, a letter to the Inspector General of the Intelligence Community — were Burchett, Moskowitz, Anna Paulina Luna (FL-13), Nancy Mace (SC-01), Eric Burlison (MO-07) and Andy Ogles (TN-05).",
+"whyImplicated": "The caucus is the only organised bloc in Congress whose founding premise is that UAP crash retrieval and reverse-engineering programs exist and have been concealed from the committees of jurisdiction. Its very first act, less than a month after David Grusch's July 2023 testimony, was to demand from the IC Inspector General the names of the people and the identities of the facilities involved in those programs. Its members subsequently drove the FY2024 NDAA's UAP Records Collection at the National Archives, the House Task Force on the Declassification of Federal Secrets, the September 2025 whistleblower hearing, and the UAP Disclosure Act amendment adopted into the House FY2027 NDAA on 22 July 2026 with its eminent domain provision intact — a provision that would order the government to seize recovered technologies of unknown origin and biological evidence of non-human intelligence held by private entities. In August 2026 the relationship inverted: the executive branch authorised Burlison's House office to publish ODNI memo ES 2026-00818, making the oversight bloc the administration's distribution channel for its own IC directive."
+},
+"entityInfo": {
+"desc": "The caucus has no published charter or member list located in the sources searched for this domain. Its membership is established piecemeal from contemporaneous reporting: Burchett (founder, August 2023), Ogles ('part of the UAP Caucus but not the Oversight Committee,' January 2024), Moskowitz ('a member of the UAP Caucus,' December 2023), Burlison ('a member of the caucus,' March 2024; 'a member of the so-called UAP Caucus in Congress,' June 2026) and Luna ('a member of the bipartisan UAP Caucus,' February 2025). Its one documented operational product is the 12 January 2024 closed briefing at the Capitol with ICIG Thomas Monheim, at which Burchett said around sixteen members attended. Establishing the full roster is the highest-value cheap research task remaining in this domain.",
+"sources": [
+{
+"date": "2024-01-12",
+"name": "The Hill: Classified UFO briefing — House members emerge with mixed feelings",
+"url": "https://thehill.com/homenews/house/4406059-classified-ufo-briefing-house-members-mixed-feelings/"
+},
+{
+"date": "2024-01-13",
+"name": "The Hill: Burchett — Classified UFO briefing 'energized' Congress on issue",
+"url": "https://thehill.com/homenews/house/4406775-burchett-classified-ufo-briefing-energized-congress/"
+},
+{
+"date": "2024-03-12",
+"name": "The Hill: GOP lawmaker calls for House to form committee on UAPs",
+"url": "https://thehill.com/homenews/house/4527900-gop-lawmaker-calls-for-house-to-form-committee-on-uaps/"
+},
+{
+"date": "2025-02-18",
+"name": "The Hill (opinion, Marik von Rennenkampff): House Republicans demand UFO transparency",
+"url": "https://thehill.com/opinion/national-security/5149386-house-republicans-demand-ufo-transparency/"
+},
+{
+"date": "2026-06-29",
+"name": "The Hill: 'Invasion of Washington' UFO tape may surface as lawmakers push release",
+"url": "https://thehill.com/homenews/5944717-ufo-washington-invasion-evidence/"
+}
+]
+},
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "congressional-uap-caucus",
+"l0": true,
+"label": "Congressional UAP Caucus",
+"locLabel": null,
+"members": [
+{
+"cls": "person",
+"id": "andy-ogles",
+"label": "Andrew Ogles",
+"tier": "C"
+},
+{
+"cls": "person",
+"id": "anna-paulina-luna",
+"label": "Anna Paulina Luna",
+"tier": "A"
+},
+{
+"cls": "domain",
+"id": "d-legislative",
+"label": "Legislative Process (proposed and pending)",
+"tier": "B"
+},
+{
+"cls": "person",
+"id": "eric-burlison",
+"label": "Eric Burlison",
+"tier": "A"
+},
+{
+"cls": "event",
+"id": "icig-briefing-2024-01-12",
+"label": "Closed ICIG UAP briefing to House Oversight members",
+"tier": "C"
+},
+{
+"cls": "person",
+"id": "jared-moskowitz",
+"label": "Jared Evan Moskowitz",
+"tier": "B"
+},
+{
+"cls": "person",
+"id": "tim-burchett",
+"label": "Timothy Floyd Burchett",
+"tier": "A"
+}
+],
+"short": "Congressional UAP Caucus",
+"sources": [
+{
+"date": "2024-01-12",
+"name": "The Hill: Classified UFO briefing — House members emerge with mixed feelings",
+"url": "https://thehill.com/homenews/house/4406059-classified-ufo-briefing-house-members-mixed-feelings/"
+},
+{
+"date": "2024-01-13",
+"name": "The Hill: Burchett — Classified UFO briefing 'energized' Congress on issue",
+"url": "https://thehill.com/homenews/house/4406775-burchett-classified-ufo-briefing-energized-congress/"
+},
+{
+"date": "2024-03-12",
+"name": "The Hill: GOP lawmaker calls for House to form committee on UAPs",
+"url": "https://thehill.com/homenews/house/4527900-gop-lawmaker-calls-for-house-to-form-committee-on-uaps/"
+},
+{
+"date": "2026-06-29",
+"name": "The Hill: 'Invasion of Washington' UFO tape may surface as lawmakers push release",
+"url": "https://thehill.com/homenews/5944717-ufo-washington-invasion-evidence/"
+}
+],
+"sub": "Bipartisan House member organisation, est. Aug 2023",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 586 of 1027, score 26). 8 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A1/D3.",
+"timeline": [
+{
+"date": "2023-08-22",
+"id": "ch-2023-08-22",
+"label": "UAP Caucus founded",
+"precision": "day",
+"strand": "oversight",
+"text": "Burchett launches the bipartisan Congressional UAP Caucus and leads a caucus letter to the Intelligence Community Inspector General about UAP retrieval programs.",
+"tier": "A"
+}
+]
+}

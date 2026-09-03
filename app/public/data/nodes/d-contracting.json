@@ -1,0 +1,336 @@
+{
+"A": 2,
+"C": 2,
+"D": 1,
+"band": null,
+"claims": [
+{
+"source": "Bloomberg Government, 21 October 2019; The War Zone, 18 October 2019",
+"text": "The US Army entered a Cooperative Research and Development Agreement with To The Stars Academy in 2019 covering materials evaluation for future combat vehicles.",
+"tier": 1
+},
+{
+"source": "DIA AAWSAP contract file, FOIA-00349-2018",
+"text": "DIA awarded the AAWSAP contract following solicitation HHM402-08-R-0211 and issued priced annual modifications, all released under FOIA.",
+"tier": 1
+},
+{
+"source": "The Black Vault, 'Secrecy Deepens About U.S. Army Agreement To Analyze UFO Material'",
+"text": "Secrecy around the Army-TTSA agreement deepened following initial disclosure, with subsequent records requests returning reduced material.",
+"tier": 2
+}
+],
+"cls": "domain",
+"cluster": "contractor",
+"connections": [
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": "2008-09-22",
+"direction": "in",
+"edgeLabel": "the instrument itself - competed, awarded, numbered and released",
+"id": "aawsap-contract-hhm402-08-c-0072",
+"l0": false,
+"label": "DIA Contract HHM402-08-C-0072 (AAWSAP / BAASS)",
+"note": "Awarded 22 September 2008 off solicitation HHM402-08-R-0211 through the DIA Virginia Contracting Activity. It is the domain's reference specimen: the object that shows what a contract for this subject looks like when the paper survives, against which every undocumented allegation of a contract can be compared.",
+"sources": [
+{
+"date": "2009-09-02",
+"name": "Amendment of Solicitation/Modification of Contract P00001 to HHM402-08-C-0072, Bigelow Aerospace Advanced Space Studies LLC (DIA FOIA release)",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237652/"
+},
+{
+"date": "2008-08-18",
+"name": "FedBizOpps notice, Solicitation HHM402-08-R-0211, Advanced Aerospace Weapon System Applications Program (DIA FOIA release)",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237630/"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2008",
+"direction": "in",
+"edgeLabel": "a company stood up to hold a single government contract",
+"id": "baass",
+"l0": true,
+"label": "Bigelow Aerospace Advanced Space Studies (BAASS), LLC",
+"note": "BAASS was registered as a legal entity distinct from Bigelow Aerospace, with its own DUNS and CAGE codes, in order to bid and hold DIA contract HHM402-08-C-0072. Standing up a corporate vehicle for the purpose of receiving one award is a contracting mechanic, and it is the one instance on this board that is fully documented in FOIA-released procurement paper.",
+"sources": [
+{
+"date": "2009-09-02",
+"name": "Amendment of Solicitation/Modification of Contract P00001 to HHM402-08-C-0072, Bigelow Aerospace Advanced Space Studies LLC (DIA FOIA release)",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237652/"
+},
+{
+"date": "2008-08-18",
+"name": "FedBizOpps notice, Solicitation HHM402-08-R-0211, Advanced Aerospace Weapon System Applications Program (DIA FOIA release)",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237630/"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "domain",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "the FFRDC seam is a species of contracting mechanics, not a separate subject",
+"id": "d-ffrdc",
+"l0": false,
+"label": "The FFRDC Seam",
+"note": "FAR 35.017 is a procurement regulation. The records status, disclosure direction and sole-source features that make the FFRDC form load-bearing on this board are all properties of the contracting instrument, which is why the seam domain should hang off contracting mechanics rather than float beside it.",
+"sources": [
+{
+"date": "2026-05-15",
+"name": "CRS Report R44629, 'Federally Funded Research and Development Centers (FFRDCs): Background and Issues for Congress'",
+"url": "https://www.everycrsreport.com/reports/R44629.html"
+},
+{
+"date": "2026-08-12",
+"name": "NSF NCSES, Master Government List of Federally Funded R&D Centers",
+"url": "https://ncses.nsf.gov/resource/master-gov-lists-ffrdc"
+}
+],
+"tier": "B",
+"type": "research"
+},
+{
+"claimTier": 1,
+"cls": "domain",
+"dateEnd": null,
+"dateStart": "1947-01-01",
+"direction": "out",
+"edgeLabel": "Vehicle and appropriation",
+"id": "d-funding",
+"l0": false,
+"label": "Funding Channels",
+"note": "The contract vehicle is the visible end of the money; the appropriation and transfer authorities are the invisible end.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "50 U.S.C. 3510 (Cornell LII)",
+"url": "https://www.law.cornell.edu/uscode/text/50/3510"
+}
+],
+"tier": "A",
+"type": "funding"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "2010",
+"dateStart": "2008",
+"direction": "in",
+"edgeLabel": "the subcontract path - how work reached the government without a prime relationship",
+"id": "earthtech-international",
+"l0": true,
+"label": "EarthTech International / Institute for Advanced Studies at Austin",
+"note": "The reference documents that reached DIA were commissioned by the prime and written substantially by EarthTech and other subcontractors, then delivered as Defense Intelligence Reference Documents. The DIA transmittal list to SASC and the published list of funded studies establish the subcontract layer, which is the layer at which visibility normally stops.",
+"sources": [
+{
+"date": "2018-01-09",
+"name": "DIA letter to the Senate Armed Services Committee listing the 38 AATIP/AAWSAP reference documents",
+"url": "https://documents.theblackvault.com/documents/dia/dia-aatip-reports.pdf"
+},
+{
+"date": "2019-01-18",
+"name": "The War Zone, 'Here's The List Of Studies The Military's Secretive UFO Program Funded'",
+"url": "https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "1995-10-10",
+"dateStart": "1947",
+"direction": "in",
+"edgeLabel": "contracting at a site whose existence was itself classified",
+"id": "eg-and-g",
+"l0": true,
+"label": "EG&G (Edgerton, Germeshausen and Grier)",
+"note": "EG&G instrumented and fired US nuclear tests from the Manhattan Project onward and became the classified services contractor for the Nevada complex, including the Air Force operating location near Groom Lake - a facility whose existence required a Presidential Determination published at 60 FR 52823 to exempt it from disclosure. It is the historical template for how contracting works where the place of performance cannot be named.",
+"sources": [
+{
+"date": "1995-10-10",
+"name": "Presidential Determination on Classified Information Concerning the Air Force's Operating Location Near Groom Lake, Nevada, 60 FR 52823",
+"url": "https://www.federalregister.gov/documents/1995/10/10/95-25244/presidential-determination-on-classified-information-concerning-the-air-forces-operating-location"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "the prime where classified contract line items and sworn allegation meet",
+"id": "lockheed-martin",
+"l0": true,
+"label": "Lockheed Martin Corporation",
+"note": "Lockheed Martin's prime contract obligations run to the hundreds of billions of dollars in USAspending records, a portion carried as classified line items visible in financial systems only as a number. It is also the only company named on the floor of a congressional hearing by a sworn witness in connection with the custody allegation, which makes it the test case for whether contracting records can be made to answer the question.",
+"sources": [
+{
+"date": "2026-08-21",
+"name": "USAspending.gov, federal award search (prime contract obligations by recipient)",
+"url": "https://www.usaspending.gov/search"
+},
+{
+"date": "2023-07-26",
+"name": "House Oversight hearing transcript, 'UAP: Implications on National Security, Public Safety, and Government Transparency' (CHRG-118hhrg53022)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm"
+},
+{
+"date": "2025-09-09",
+"name": "House Oversight Task Force hearing transcript, 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection' (CHRG-119hhrg61718)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "1958-07-21",
+"direction": "in",
+"edgeLabel": "the largest operator of the one acquisition form built to be non-competitive by design",
+"id": "mitre-corporation",
+"l0": true,
+"label": "The MITRE Corporation",
+"note": "MITRE operates multiple FFRDCs. FAR 35.017 permits an agency to meet special long-term research needs through a sponsoring agreement with a single operator outside full and open competition, and obliges the FFRDC to disclose its activities to its sponsor and to no one else. That is a contracting mechanism, and MITRE is its largest single instance.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "NSF NCSES, Master Government List of Federally Funded R&D Centers",
+"url": "https://ncses.nsf.gov/resource/master-gov-lists-ffrdc"
+},
+{
+"date": "2026-08-12",
+"name": "MITRE, R&D Centers",
+"url": "https://www.mitre.org/our-impact/rd-centers"
+},
+{
+"date": "2026-05-15",
+"name": "CRS Report R44629, 'Federally Funded Research and Development Centers (FFRDCs): Background and Issues for Congress'",
+"url": "https://www.everycrsreport.com/reports/R44629.html"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 2,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "sensor-side prime - the contractor-generated data category nobody is asking for",
+"id": "raytheon",
+"l0": false,
+"label": "Raytheon (RTX Corporation)",
+"note": "Raytheon builds the AN/APG-79 and ATFLIR families through which the military detects and images the objects at issue, which makes it the corporate custodian of a withheld category of contractor-generated sensor data distinct from the custody allegation. Graded Tier 2: no source places Raytheon in any UAP-specific contract vehicle, and the edge rests on documented prime-contractor role plus hearing-record discussion of sensor data.",
+"sources": [
+{
+"date": "2026-08-21",
+"name": "USAspending.gov, federal award search (prime contract obligations by recipient)",
+"url": "https://www.usaspending.gov/search"
+},
+{
+"date": "2023-07-26",
+"name": "House Oversight hearing transcript, 'UAP: Implications on National Security, Public Safety, and Government Transparency' (CHRG-118hhrg53022)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 2,
+"cls": "document",
+"dateEnd": null,
+"dateStart": "2019-10-10",
+"direction": "in",
+"edgeLabel": "a non-FAR instrument binding the Army to a private claimant of recovered material",
+"id": "ttsa-army-crada",
+"l0": true,
+"label": "CRADA between U.S. Army Ground Vehicle Systems Center and To The Stars Academy",
+"note": "Signed 10 October 2019 by the Director of the Army Ground Vehicle Systems Center and announced 17 October 2019. A Cooperative Research and Development Agreement sits outside ordinary procurement, involves no exchange of appropriated funds to the partner, and protects the private party's proprietary data - which is exactly the class of vehicle this domain is about. The executed document is not public; sourcing is the partner's own contemporaneous FAQ.",
+"sources": [
+{
+"date": "2019-11-15",
+"name": "Archived: To The Stars Academy, CRADA FAQ (Wayback 2019-11-15)",
+"url": "https://web.archive.org/web/20191115181458/https://dpo.tothestarsacademy.com/blog/crada-faq"
+},
+{
+"date": "2021-10-24",
+"name": "Archived: To The Stars Academy, CRADA FAQ (Wayback 2021-10-24)",
+"url": "https://web.archive.org/web/20211024221658/https://dpo.tothestarsacademy.com/blog/crada-faq"
+}
+],
+"tier": "A",
+"type": "institutional"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "1947-01-01",
+"deg": 10,
+"denials": [],
+"desc": "Follow the contract vehicle and you find the programme, which is why acquisition mechanics belong on an intelligence board. The routes that matter here are the ones with reduced visibility: sole-source justifications under exceptions to full and open competition; Cooperative Research and Development Agreements, which allow a government laboratory to work with a private party on terms that protect the private party's proprietary data; Other Transaction Authority, which sits outside the Federal Acquisition Regulation entirely; and classified contract line items that appear in financial systems only as an obligation figure. The documented case study is the Army's 2019 CRADA with To The Stars Academy to evaluate materials for combat vehicle applications - an agreement reported by Bloomberg Government and examined by The War Zone, in which the mechanism was used for exactly this subject matter in the open. The AAWSAP file shows the ordinary route: a solicitation, a competitive award, priced modifications, and deliverables. Scoring high on this domain means an entity signs, awards or administers these instruments.",
+"domains": [
+"w2-taxonomy"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "d-contracting",
+"l0": false,
+"label": "Federal Contracting Mechanics",
+"locLabel": null,
+"members": null,
+"short": "Federal Contracting Mechanics",
+"sources": [
+{
+"date": "2019-10-21",
+"name": "Travis J. Tritten, 'UFO Group Sharing Exotic Materials With Army for Combat Vehicles', Bloomberg Government",
+"url": "https://about.bgov.com/news/ufo-group-sharing-exotic-materials-with-army-for-combat-vehicles/"
+},
+{
+"date": "2020-03-12",
+"name": "The Black Vault - Secrecy Deepens About U.S. Army Agreement To Analyze UFO Material",
+"url": "https://www.theblackvault.com/documentarchive/secrecy-deepens-about-u-s-army-agreement-to-analyze-ufo-material/"
+},
+{
+"date": "2022-10-13",
+"name": "DIA AAWSAP contract release (FOIA-00349-2018)",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP/FOIA-00349-2018.pdf"
+},
+{
+"date": "2009-09-02",
+"name": "AAWSAP contract FY10 modification",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP/Contract_FY10.pdf"
+}
+],
+"sub": "Procedural domain - the vehicles, CRADAs and OTAs through which work is bought and hidden",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 297 of 1027, score 37). 10 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A2/D1.",
+"timeline": []
+}

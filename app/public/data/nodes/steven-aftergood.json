@@ -1,0 +1,167 @@
+{
+"A": 1,
+"C": 0,
+"D": 3,
+"affiliations": [
+"fas"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "1989",
+"event": "Joins the Federation of American Scientists",
+"precision": "year"
+},
+{
+"date": "1991",
+"event": "Begins directing the FAS Project on Government Secrecy",
+"precision": "year"
+},
+{
+"date": "1997",
+"event": "Plaintiff in FOIA suit against the CIA forcing first disclosure of the total intelligence budget in fifty years: $26.6 billion for FY1997",
+"precision": "year"
+},
+{
+"date": "1998",
+"event": "DCI discloses $26.7 billion for FY1998; disclosure then ceases until 2007",
+"precision": "year"
+},
+{
+"date": "2006",
+"event": "Wins FOIA suit against the National Reconnaissance Office for unclassified budget records",
+"precision": "year"
+},
+{
+"date": "2021",
+"event": "Steps down from directing the Project on Government Secrecy",
+"precision": "year"
+}
+],
+"claims": [
+{
+"source": "https://fas.org/expert/steven-aftergood/",
+"text": "Aftergood was plaintiff in a 1997 FOIA suit against the CIA that resulted in declassification and release of the total US intelligence budget for the first time in fifty years, $26.6 billion for FY1997.",
+"tier": 1
+},
+{
+"source": "https://irp.fas.org/budget/index.html",
+"text": "The DCI disclosed $26.7 billion for FY1998; disclosure then lapsed until the DNI released the FY2007 NIP figure.",
+"tier": 1
+},
+{
+"source": "https://irp.fas.org/budget/index.html",
+"text": "The 1997 litigation was brought by the Federation of American Scientists with the assistance of Kate Martin of the Center for National Security Studies.",
+"tier": 1
+},
+{
+"source": "https://fas.org/expert/steven-aftergood/",
+"text": "Aftergood won a 2006 FOIA suit against the National Reconnaissance Office securing release of unclassified budget records.",
+"tier": 1
+}
+],
+"cls": "person",
+"cluster": "research",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "1989",
+"direction": "out",
+"edgeLabel": "Directed the Project on Government Secrecy 1991-2021",
+"id": "fas",
+"l0": false,
+"label": "Federation of American Scientists",
+"note": "Aftergood joined FAS in 1989 and directed the Project on Government Secrecy from 1991 to 2021. Attested by the FAS expert page.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "FAS, Steven Aftergood",
+"url": "https://fas.org/expert/steven-aftergood/"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": "1997",
+"direction": "out",
+"edgeLabel": "Created the first segment of the record by litigation",
+"id": "intel-budget-disclosure-record",
+"l0": false,
+"label": "The intelligence budget disclosure record, FY1997-FY2026",
+"note": "Aftergood was the plaintiff in the 1997 FAS FOIA suit against the CIA that forced the first release of the total intelligence budget in fifty years, $26.6 billion for FY1997. Attested by FAS and by the FAS Intelligence Resource Program budget page.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "FAS, Steven Aftergood",
+"url": "https://fas.org/expert/steven-aftergood/"
+}
+],
+"tier": "C",
+"type": "investigative"
+}
+],
+"date": "2021-01-01",
+"dateEnd": null,
+"dateStart": "2021-01-01",
+"deg": 2,
+"denials": [],
+"domains": [
+"w2-black-budget"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "steven-aftergood",
+"instId": "fas",
+"l0": false,
+"label": "Steven Aftergood",
+"loc": "Washington, D.C.",
+"locId": "l-dc",
+"members": null,
+"narrative": "Steven Aftergood joined the Federation of American Scientists in 1989 and directed its Project on Government Secrecy from 1991 to 2021. He is the single individual most responsible for the existence of any public intelligence budget figure at all. In 1997 he was the plaintiff in a Freedom of Information Act suit against the Central Intelligence Agency - brought by FAS with the assistance of Kate Martin of the Center for National Security Studies - that forced the declassification and release of the total United States intelligence budget for the first time in fifty years: $26.6 billion for fiscal year 1997. The Director of Central Intelligence disclosed the figure again the following year, $26.7 billion for FY1998, and then stopped; disclosure did not resume until 2007, and then only because Congress compelled it by statute in section 601 of the Implementing Recommendations of the 9/11 Commission Act. In 2006 Aftergood won a further FOIA suit against the National Reconnaissance Office securing release of unclassified budget records. His awards include the Electronic Frontier Foundation's Pioneer Award, the American Library Association's James Madison Award and the Hugh M. Hefner First Amendment Award. The relevance to this board is exact: every aggregate figure in the NIP and MIP series that anyone can cite exists because one person litigated for it and then Congress codified the minimum. Everything below the aggregate remains where it was in 1949.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Steven Aftergood",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Federation of American Scientists, Steven Aftergood",
+"url": "https://fas.org/expert/steven-aftergood/"
+},
+{
+"date": "2026-08-12",
+"name": "FAS Intelligence Resource Program, Intelligence Budget Data",
+"url": "https://irp.fas.org/budget/index.html"
+}
+],
+"status": "former",
+"sub": "Director, Government Secrecy Project, Federation of American Scientists (Project on Government Secrecy 1991-2021)",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 664 of 1027, score 23). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D3.",
+"timeline": [
+{
+"date": "1997",
+"id": "bb-tl-1997-aftergood",
+"label": "First intelligence budget disclosure in fifty years",
+"precision": "year",
+"strand": "oversight",
+"text": "Following FOIA litigation brought by the Federation of American Scientists with Steven Aftergood as plaintiff, assisted by Kate Martin of the Center for National Security Studies, the Director of Central Intelligence declassifies the total intelligence budget: $26.6 billion for FY1997. It is the first such disclosure since the CIA was created.",
+"tier": "A"
+}
+],
+"unexplainedResidual": null,
+"unverified": []
+}

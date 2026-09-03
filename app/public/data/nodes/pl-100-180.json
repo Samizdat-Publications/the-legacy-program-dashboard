@@ -1,0 +1,98 @@
+{
+"A": 1,
+"C": 0,
+"D": 3,
+"band": null,
+"claims": [
+{
+"source": "https://www.govinfo.gov/content/pkg/USCODE-2023-title10/html/USCODE-2023-title10-subtitleA-partI-chap2-sec119.htm",
+"text": "GPO source credit for 10 U.S.C. 119: 'Added Pub. L. 100-180, div. A, title XI, sec. 1132(a)(1), Dec. 4, 1987, 101 Stat. 1151.' The waiver in subsection (e) was present in that original enactment and has never been amended.",
+"tier": 1
+},
+{
+"source": "https://www.govinfo.gov/content/pkg/USCODE-2023-title10/html/USCODE-2023-title10-subtitleA-partI-chap2-sec119.htm",
+"text": "Statutory note, 'Initial Reports on Special Access Programs': 'Pub. L. 100-180, div. A, title XI, sec. 1132(b), (c), Dec. 4, 1987, 101 Stat. 1152, required that the first report under subsec. (a) of this section set forth the amount that had been requested in the President's budget for each of the five previous fiscal years for special access programs of the Department of Defense and the amount appropriated for each such year for such programs, and required that the first report under subsec. (b) of this section cover existing special access programs.' Congress in 1987 expressly required a one-time backward-looking census of all EXISTING SAPs -- so a program in being before December 1987 was supposed to be captured, subject only to the section 119(e) waiver.",
+"tier": 1
+},
+{
+"source": "https://www.govinfo.gov/content/pkg/USCODE-2023-title10/html/USCODE-2023-title10-subtitleA-partI-chap2-sec119.htm",
+"text": "Subsection (f)'s 30-day pre-initiation bar was NOT in the 1987 enactment: the GPO amendment notes record 'Subsec. (f). Pub. L. 101-510, sec. 1482(a)(2), added subsec. (f)', effective 1 October 1991 per Pub. L. 101-510 sec. 1482(d). Between 4 Dec 1987 and 1 Oct 1991 there was no statutory waiting period before a DoD SAP could begin.",
+"tier": 1
+},
+{
+"source": "Source credit to 10 U.S.C. 119",
+"text": "10 U.S.C. 119 was 'Added Pub. L. 100-180, div. A, title XI, sec. 1132(a)(1), Dec. 4, 1987, 101 Stat. 1151'.",
+"tier": 1
+},
+{
+"source": "Structural reading of 10 U.S.C. 119(b) and (f) against their 1987 enactment date",
+"text": "A DoD special access program initiated before 4 December 1987 and never re-designated would fall outside the subsection (b) 'new special access program' notice regime and outside the subsection (f) 30-day pre-initiation notice, both of which operate prospectively. Reasoning: neither provision contains retroactive language, and (b)(3) defines the trigger by reference to prior notice under a subsection that did not exist.",
+"tier": 3
+}
+],
+"cls": "legislation",
+"cluster": "other",
+"connections": [
+{
+"claimTier": 1,
+"cls": "legislation",
+"dateEnd": "1987-12-04",
+"dateStart": "1987-12-04",
+"direction": "out",
+"edgeLabel": "Enacted section 119 on 4 December 1987",
+"id": "usc-10-119",
+"l0": true,
+"label": "10 U.S.C. 119 — Special Access Programs: Congressional Oversight",
+"note": "Source credit to 10 U.S.C. 119: added by Pub. L. 100-180, div. A, title XI, sec. 1132(a)(1), 101 Stat. 1151.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "10 U.S.C. 119",
+"url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim"
+}
+],
+"tier": "A",
+"type": "legislative"
+}
+],
+"coords": null,
+"dateEnd": "1987-12-04",
+"dateStart": "1987-12-04",
+"deg": 1,
+"denials": [],
+"desc": "Until 4 December 1987 there was no statute at all requiring the Department of Defense to tell Congress that a special access program existed. Section 1132(a)(1) of the National Defense Authorization Act for Fiscal Years 1988 and 1989 added section 119 to title 10, at 101 Stat. 1151. The date is load-bearing for this board's chronology: every alleged legacy recovery and reverse-engineering activity from the 1940s through 1987 - the entire period covering Roswell, Project SIGN, Project BLUE BOOK's termination, the 1970s nuclear-site overflights and the origins of the alleged retrieval effort - ran in a legal environment in which no SAP reporting obligation to Congress existed whatsoever. A program stood up before December 1987 and never re-baselined was never a 'new special access program' within the meaning of subsection (b)(3), because that term is defined as one 'that has not previously been covered in a notice and justification under this subsection' - a definition that, on its face, does not reach back before the subsection existed.",
+"domains": [
+"_rs-sap-docs",
+"w2-sap-architecture"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "1",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "pl-100-180",
+"l0": false,
+"label": "Public Law 100-180 sec. 1132 — creation of SAP congressional oversight (4 Dec 1987)",
+"locLabel": null,
+"members": null,
+"short": "Public Law 100-180 sec. 1132 — creation of SAP congressional oversight (4 Dec 1987)",
+"sources": [
+{
+"date": "2024-01-05",
+"name": "10 U.S.C. 119 (GPO)",
+"url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title10/html/USCODE-2023-title10-subtitleA-partI-chap2-sec119.htm"
+},
+{
+"date": "2026-08-12",
+"name": "10 U.S.C. 119, Special access programs: congressional oversight (Office of the Law Revision Counsel, U.S. House)",
+"url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim"
+}
+],
+"sub": "statute",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 672 of 1027, score 23). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D3.",
+"timeline": []
+}

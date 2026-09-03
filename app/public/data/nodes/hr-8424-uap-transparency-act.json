@@ -1,0 +1,82 @@
+{
+"A": 0,
+"C": 0,
+"D": 1,
+"band": null,
+"claims": [
+{
+"source": "Congress.gov H.R. 8424 (118th)",
+"text": "Introduced 16 May 2024 by Rep. Tim Burchett; died in referral at the end of the 118th Congress.",
+"tier": 1
+}
+],
+"cls": "legislation",
+"cluster": "oversight",
+"connections": [
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "2025",
+"dateStart": "2024",
+"direction": "in",
+"edgeLabel": "Sponsor of the 118th Congress predecessor",
+"id": "tim-burchett",
+"l0": false,
+"label": "Timothy Floyd Burchett",
+"note": "Died in referral; refiled as H.R. 1187.",
+"sources": [
+{
+"date": "2024-05-16",
+"name": "Congress.gov, H.R. 8424 — UAP Transparency Act (118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/8424"
+}
+],
+"tier": "A",
+"type": "legislative"
+}
+],
+"coords": null,
+"dateEnd": "2025",
+"dateStart": "2024",
+"deg": 1,
+"denials": [],
+"desc": "The first UAP Transparency Act, introduced by Burchett on 16 May 2024, ten months after the founding hearing and two months after Burlison's call for a select committee. It died in referral with the 118th Congress and was refiled as H.R. 1187 in February 2025. Recorded here because the pattern - file, refer, die, refile - is the House's actual legislative history on this subject and the reason the caucus has increasingly moved its effort into letters, records demands and NDAA amendments instead of standalone bills.",
+"domains": [
+"congress-house"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "hr-8424-uap-transparency-act",
+"l0": false,
+"label": "H.R. 8424 - UAP Transparency Act (118th Congress)",
+"locLabel": null,
+"members": null,
+"short": "H.R. 8424 - UAP Transparency Act (118th Congress)",
+"sources": [
+{
+"date": "2024-05-16",
+"name": "Congress.gov, H.R. 8424 — UAP Transparency Act (118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/8424"
+}
+],
+"sub": "Introduced 16 May 2024; died",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 1024 of 1027, score 6). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D1.",
+"timeline": [
+{
+"date": "2024-05-16",
+"id": "ch-2024-05-16",
+"label": "First UAP Transparency Act",
+"precision": "day",
+"strand": "oversight",
+"text": "Burchett introduces H.R. 8424. It dies in referral.",
+"tier": "C"
+}
+]
+}

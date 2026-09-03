@@ -1,0 +1,102 @@
+{
+"A": 0,
+"C": 0,
+"D": 3,
+"band": null,
+"claims": [
+{
+"source": "CUFON's own published archive and contemporaneous accounts of the UFO document-research community",
+"text": "CUFON operated from 1983 as an electronic archive publishing full-text US government UFO documents obtained under FOIA, including NSA litigation records and 1975 SAC overflight message traffic.",
+"tier": 2
+},
+{
+"source": "Inference from the continuity of method and the direct citation of CUFON-published material in later archives.",
+"text": "CUFON established the document-with-case-number standard of evidence that The Black Vault, the modern UAP press and this board all now use.",
+"tier": 3
+}
+],
+"cls": "institution",
+"cluster": "oversight",
+"connections": [
+{
+"claimTier": 2,
+"cls": "event",
+"dateEnd": "1995",
+"dateStart": "1983",
+"direction": "in",
+"edgeLabel": "1975 NORAD and command-post message traffic circulated by CUFON",
+"id": "sac-overflights-1975",
+"l0": true,
+"label": "1975 SAC Nuclear-Base Overflights (Loring, Wurtsmith, Malmstrom, Minot)",
+"note": "CUFON published the FOIA-released NORAD and SAC command-post records that transformed the 1975 incidents from anecdote into documents.",
+"sources": [
+{
+"date": "2021-11-08",
+"name": "Unidentified Flying Objects over Malmstrom AFB, November 1975 (DoD FOIA case 97-F-1677)",
+"url": "https://www.theblackvault.com/documentarchive/unidentified-flying-objects-over-malmstrom-afb-november-1975/"
+},
+{
+"date": "2016-09-10",
+"name": "UFOs: The National Security Agency (NSA) Collection - incl. the Yeates Affidavit and CAUS v. NSA litigation records",
+"url": "https://www.theblackvault.com/documentarchive/ufos-the-national-security-agency-nsa-collection/"
+}
+],
+"tier": "A",
+"type": "investigative"
+}
+],
+"coords": null,
+"dateEnd": "2005",
+"dateStart": "1983",
+"deg": 1,
+"denials": [],
+"desc": "CUFON was, from 1983, the first electronic public archive of US government UFO documents - a dial-up bulletin board in Seattle operated by Dale Goudie and Jim Klotz that published FOIA releases in full text at a time when the alternative was mail-order photocopies. Its editorial method anticipated the modern document-first approach: publish the agency's own paper, with the FOIA case number, and let the reader judge. CUFON's most consequential work was on the NSA holdings and the CAUS litigation record, and on the 1975 SAC overflight documents, where it circulated the NORAD and command-post message traffic that transformed those incidents from anecdote into records. It is the direct ancestor of The Black Vault, and it established the norm - now standard in this field - that the useful unit of evidence is a released document with a traceable case number rather than a witness account.",
+"domains": [
+"history-1970s-2000s"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "1",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "cufon",
+"l0": false,
+"label": "Computer UFO Network (CUFON)",
+"locLabel": null,
+"members": null,
+"short": "Computer UFO Network (CUFON)",
+"sources": [
+{
+"date": "2016-09-10",
+"name": "UFOs: The National Security Agency (NSA) Collection - incl. the Yeates Affidavit and CAUS v. NSA litigation records",
+"url": "https://www.theblackvault.com/documentarchive/ufos-the-national-security-agency-nsa-collection/"
+},
+{
+"date": "2021-11-08",
+"name": "Unidentified Flying Objects over Malmstrom AFB, November 1975 (DoD FOIA case 97-F-1677)",
+"url": "https://www.theblackvault.com/documentarchive/unidentified-flying-objects-over-malmstrom-afb-november-1975/"
+},
+{
+"date": "1995-07-28",
+"name": "GAO/NSIAD-95-187, 'Government Records: Results of a Search for Records Concerning the 1947 Crash Near Roswell, New Mexico'",
+"url": "https://www.govinfo.gov/content/pkg/GAOREPORTS-NSIAD-95-187/html/GAOREPORTS-NSIAD-95-187.htm"
+}
+],
+"sub": "Seattle-based electronic document archive and FOIA project, 1983-2000s",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 990 of 1027, score 10). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.",
+"timeline": [
+{
+"date": "1983-01-01",
+"id": "t-1983-cufon",
+"label": "CUFON goes online",
+"precision": "year",
+"strand": "oversight",
+"text": "The Computer UFO Network begins publishing full-text FOIA releases electronically from Seattle, establishing the document-with-case-number standard of evidence.",
+"tier": "B"
+}
+]
+}

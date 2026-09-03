@@ -1,0 +1,319 @@
+{
+"A": 3,
+"C": 3,
+"D": 0,
+"band": "research",
+"claims": [
+{
+"source": "AARO, Historical Record Report Volume I, March 2024, Section on classified aeronautics",
+"text": "Lockheed Martin's Advanced Development Program organisation, also known as Skunk Works, developed the RQ-170 Sentinel and the DarkStar; AARO cites these programs as sources of UAP misidentification.",
+"tier": 1
+},
+{
+"source": "Ben R. Rich and Leo Janos, 'Skunk Works' (1994)",
+"text": "Ben Rich directed the organisation from 1975 to 1991 and published a memoir describing its compartmentation, security and funding practice.",
+"tier": 1
+},
+{
+"source": "Board inference from the documented RQ-170 and F-117 concealment records",
+"text": "An organisation with demonstrated capability to fly unacknowledged hardware for years is the natural custodian for material whose existence the government intends to deny. Reasoning: capability and precedent, not a document tying Skunk Works to recovered material.",
+"tier": 3
+}
+],
+"cls": "institution",
+"cluster": "contractor",
+"connections": [
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "1991",
+"dateStart": "1975",
+"direction": "in",
+"edgeLabel": "Rich directed Skunk Works through the F-117 era and into the RQ-170 lineage",
+"id": "ben-rich",
+"l0": false,
+"label": "Ben R. Rich",
+"note": "His memoir is the primary document on how unacknowledged programs were compartmented, staffed and funded inside the corporation.",
+"sources": [
+{
+"date": "1994-01-01",
+"name": "Ben R. Rich and Leo Janos, 'Skunk Works: A Personal Memoir of My Years at Lockheed' (Internet Archive)",
+"url": "https://archive.org/details/skunkworks00benr"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "2020",
+"direction": "in",
+"edgeLabel": "Arrived at MITRE from Lockheed Martin's chief technology office",
+"id": "dana-keoki-jackson",
+"l0": false,
+"label": "Dana (Keoki) Jackson",
+"note": "The traverse from the prime contractor most often named in crash-retrieval testimony into the FFRDC that arbitrates what such contractors are told is the pipeline in one career.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "MITRE - Our Leadership",
+"url": "https://www.mitre.org/who-we-are/our-people/our-leadership"
+}
+],
+"tier": "C",
+"type": "behavioral"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "1986",
+"dateStart": "1986",
+"direction": "in",
+"edgeLabel": "the companion report names the Lockheed/Burbank plant the testimony would not",
+"id": "gao-130581",
+"l0": false,
+"label": "GAO accession 130581 - Controls Over Classified Documents for a Special Access Program at Lockheed Corporation",
+"note": "GAO/NSIAD-86-191 names 'the Lockheed/Burbank plant'. The testimony itself carries a footnote recording that GAO 'agreed not to identify the nature of the program or the specific DOD component or military service involved'.",
+"sources": [
+{
+"date": "1986-08-07",
+"name": "GAO/NSIAD-86-191, 7 August 1986",
+"url": "https://www.gao.gov/assets/nsiad-86-191.pdf"
+}
+],
+"tier": "B",
+"type": "geographic"
+},
+{
+"claimTier": 2,
+"cls": "program",
+"dateEnd": "2026",
+"dateStart": "2011",
+"direction": "in",
+"edgeLabel": "Alleges Lockheed-held material was to be transferred",
+"id": "kona-blue",
+"l0": true,
+"label": "KONA BLUE",
+"note": "The Kona Blue allegation concerns a proposed change of custodial agency for physical material held on the Lockheed side - a bureaucratic transaction that would leave programme proposals and declination correspondence.",
+"sources": [
+{
+"date": "2026-08-04",
+"name": "NewsNation Reality Check - 'Inside Kona Blue'",
+"url": "https://www.youtube.com/watch?v=F2NfXgv8x1E"
+}
+],
+"tier": "A",
+"type": "custody"
+},
+{
+"claimTier": 2,
+"cls": "location",
+"dateEnd": "1982",
+"dateStart": "1955",
+"direction": "out",
+"edgeLabel": "Skunk Works aircraft were tested at Groom Lake because they could not be tested at Edwards",
+"id": "l-groom-lake",
+"l0": false,
+"label": "Groom Lake, Nevada",
+"note": "The CIA's own history records that U-2 flight test and pilot training could not be conducted at Edwards or Palmdale given the secrecy of the project. The U-2, A-12, HAVE BLUE and F-117 all flew first at Groom.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Wikipedia - Area 51",
+"url": "https://en.wikipedia.org/wiki/Area_51"
+}
+],
+"tier": "B",
+"type": "programmatic"
+},
+{
+"claimTier": 1,
+"cls": "location",
+"dateEnd": null,
+"dateStart": "1990",
+"direction": "out",
+"edgeLabel": "Skunk Works operates at the government-owned contractor-operated Palmdale facility",
+"id": "l-plant-42",
+"l0": false,
+"label": "Air Force Plant 42, Palmdale, California",
+"note": "Plant 42 is compartmented program by program inside a single fence line, which is the physical form of the concealment architecture at issue.",
+"sources": [
+{
+"date": "2024-03-08",
+"name": "AARO, 'Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP), Volume I'",
+"url": "https://documents2.theblackvault.com/documents/dod/AARO_Historical_Record_Report_Volume_1_2024.pdf"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "Rob Weiss of Lockheed Skunk Works copied on the meeting thread and named by DeLonge",
+"id": "podesta-delonge-mccasland-email-2016",
+"l0": false,
+"label": "DeLonge to Podesta, 'General McCasland', 25 January 2016 (WikiLeaks Podesta Emails 3099)",
+"note": "rob.f.weiss@lmco.com is a copy recipient on the 24 and 25 January 2016 meeting thread, and on 22 February 2016 DeLonge wrote to Podesta of 'Mr. Weiss from Lockheed SkunkWorks' asking whether there were any updates for him and the General.",
+"sources": [
+{
+"date": "2016-02-22",
+"name": "WikiLeaks, The Podesta Emails, email ids 51979 and 15486",
+"url": "https://wikileaks.org/podesta-emails/emailid/15486"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "1955",
+"dateStart": "1954",
+"direction": "in",
+"edgeLabel": "Ran the project Kelly Johnson built the aircraft for",
+"id": "richard-m-bissell-jr",
+"l0": false,
+"label": "Richard M. Bissell Jr.",
+"note": "Kelly Johnson was on the 12 April 1955 site flight with Lockheed's chief test pilot, and named the resulting base the Paradise Ranch to make it sound better to his workers.",
+"sources": [
+{
+"date": "2013-06-25",
+"name": "Pedlow and Welzenbach, The Central Intelligence Agency and Overhead Reconnaissance, 2013 release, chapter 2",
+"url": "https://archive.org/download/cia-readingroom-document-0000190094/0000190094_djvu.txt"
+}
+],
+"tier": "B",
+"type": "programmatic"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "1943",
+"deg": 8,
+"denials": [],
+"desc": "Skunk Works is the physical and cultural template for how an unacknowledged program is run inside a private corporation. Founded by Clarence 'Kelly' Johnson in 1943 and led by Ben Rich from 1975 to 1991, it produced the U-2, the A-12/SR-71, the F-117, Sea Shadow, DarkStar and the RQ-170 Sentinel - the last of which existed operationally for years before Lockheed acknowledged it, which is the point. AARO's Historical Record Report itself uses Skunk Works aircraft as the explanation for a class of UAP reports, conceding in the process that the organisation routinely fields flying hardware whose existence the government denies while it is flying. Its home is Air Force Plant 42 at Palmdale, a government-owned contractor-operated facility whose accreditation architecture supports program-level compartmentation. For this domain Skunk Works matters in two ways. It is the operational proof that a prime contractor can hold, fly and conceal an object of unknown provenance from everyone without a need to know, including senior officers in the chain of command. And it is the organisation Ben Rich ran, whose post-retirement remarks about technologies 'locked up in black projects' are the most quoted and least documented artifact in the entire field.",
+"domains": [
+"primes-custody"
+],
+"dossier": {
+"claims": [
+{
+"source": "AARO, Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena, Volume I",
+"text": "Lockheed Martin's Advanced Development Programs organisation developed the RQ-170 Sentinel and the DarkStar, and AARO cites Skunk Works aircraft as the explanation for a class of UAP reports.",
+"tier": 1
+},
+{
+"source": "Ben R. Rich and Leo Janos, Skunk Works: A Personal Memoir of My Years at Lockheed",
+"text": "Ben Rich directed the organisation from 1975 to 1991 and published a memoir describing its compartmentation, security and funding practice.",
+"tier": 1
+},
+{
+"source": "GAO/NSIAD-86-191, Information Security: Need for DOD Inspections of Special Access Contracts, B-223830, 7 August 1986, https://www.gao.gov/assets/nsiad-86-191.pdf",
+"text": "GAO/NSIAD-86-191 of 7 August 1986 names 'the Lockheed/Burbank plant' as the location of the special access contract whose document accountability deteriorated, and states the deterioration 'may not have occurred if the Defense Investigative Service had been permitted to conduct semiannual inspections of the contract, as it does with other contracts at Lockheed.'",
+"tier": 1
+},
+{
+"source": "GAO accession 130581, statement of Martin M. Ferber, 24 July 1986, footnote, https://www.gao.gov/assets/130581.pdf",
+"text": "The testimony that preceded that report declined to identify the programme or the service involved: 'As part of DOD granting us access to the special access program to respond your request, we agreed not to identify the nature of the program or the specific DOD component or military service involved.'",
+"tier": 1
+}
+],
+"connections": [
+"Named as the Lockheed/Burbank plant in GAO/NSIAD-86-191, the companion report to the 1986 testimony carried here as gao-130581.",
+"A division of lockheed-martin, the contractor whose special-access document control the 1986 testimony examined.",
+"Cited by aaro-historical-record-vol1 as the explanation for a class of UAP reports."
+],
+"denialPosture": "Skunk Works does not deny; it declines to confirm, and the record shows the decline holding for years at a time and then ending on someone else's timetable. The RQ-170 is the canonical instance: operational, photographed, and unacknowledged until it was lost abroad. The 1986 GAO exchange is the same posture at the paperwork layer -- GAO was granted access on condition that it not name the programme, the component or the service, so the public record of the failure exists with the subject of the failure redacted out of it. The board treats that as a documented behaviour rather than an inference, because in both cases the concealment and its terms are described in a government document.",
+"narrative": "The reason Skunk Works belongs at programme level on this board is not that anyone has documented anomalous material inside it. It is that Skunk Works settles an argument the board otherwise has to make by inference. The standing objection to every legacy-programme account is that a secret of this size could not be kept -- too many people, too many decades, too many contractors. Skunk Works is the counter-example the United States government publishes about itself: the RQ-170 flew operationally for years before Lockheed acknowledged it existed, and the acknowledgment came after a loss on foreign soil rather than on a schedule anyone chose. The concealment worked until physics interrupted it.\n\nWhat the 1986 GAO material adds is the failure mode. Concealment of that quality is not free, and the price is paid in accountability: 1,460 discrepancies in a 40,000-item special-access inventory at one company, 11 still unresolved, discovered because a congressional subcommittee asked rather than because the security system surfaced it. GAO's own explanation of why nobody caught it earlier is the sentence this board keeps returning to -- special access contracts are 'carved out of the Defense Investigative Service's periodic inspection program', by a 1965 decision, and by 1983 there were probably several thousand of them.\n\nThe organisation therefore sits on this board twice over: as the demonstration that unacknowledged hardware can be held indefinitely, and as the documented case where holding it meant nobody could say where the paper went.",
+"openQuestions": [
+"GAO/NSIAD-88-2BR, 'Information Security: Actions Taken To Improve Lockheed's Special Access Document Accountability', is the follow-up that would say whether anything changed after 1986. It appeared in a search result only and has not been opened; nothing on this board is cited to it.",
+"The 1986 testimony and its companion report never name the special access programme itself, by agreement with DoD. Whether that programme has since been acknowledged, and under what name, is not established from any document read here.",
+"Ben Rich's post-retirement remarks about technologies 'locked up in black projects' remain the most quoted and least documented artefact in this field. No primary recording or contemporaneous transcript has been located, and the board carries no Tier 1 or Tier 2 claim resting on them."
+],
+"roles": [
+"concealment",
+"custody",
+"research"
+],
+"whatItIs": "Lockheed Martin Advanced Development Programs, universally known as Skunk Works: the unacknowledged-program aeronautics organisation founded by Clarence 'Kelly' Johnson in 1943 at Burbank, California, and now resident at Air Force Plant 42, Palmdale, a government-owned contractor-operated facility. Ben Rich directed it from 1975 to 1991. Its programme list is the working definition of the black aircraft: the U-2, the A-12 and SR-71, the F-117, Sea Shadow, DarkStar and the RQ-170 Sentinel.",
+"whyImplicated": "Skunk Works is the operational proof of the board's central structural claim: that a private corporation can hold, fly and conceal hardware from everyone without a need to know, including senior officers in the chain of command, for years at a time. AARO's own Historical Record Report uses Skunk Works aircraft to explain a class of UAP reports, and in doing so concedes the point -- the organisation routinely fields flying objects whose existence the government denies while they are flying. As of the 1986 GAO pass it also carries a documented custody failure: the companion report to GAO's testimony of 24 July 1986 names the Lockheed/Burbank plant as the site where special-access document control deteriorated, and says the deterioration might not have happened had the Defense Investigative Service been permitted to inspect the contract as it inspected Lockheed's others."
+},
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "lockheed-skunk-works",
+"l0": true,
+"label": "Lockheed Martin Advanced Development Programs (Skunk Works)",
+"locLabel": null,
+"members": [
+{
+"cls": "person",
+"id": "ben-rich",
+"label": "Ben R. Rich",
+"tier": "C"
+},
+{
+"cls": "person",
+"id": "dana-keoki-jackson",
+"label": "Dana (Keoki) Jackson",
+"tier": "C"
+},
+{
+"cls": "document",
+"id": "gao-130581",
+"label": "GAO accession 130581 - Controls Over Classified Documents for a Special Access Program at Lockheed Corporation",
+"tier": "B"
+},
+{
+"cls": "location",
+"id": "l-groom-lake",
+"label": "Groom Lake, Nevada",
+"tier": "B"
+},
+{
+"cls": "location",
+"id": "l-plant-42",
+"label": "Air Force Plant 42, Palmdale, California",
+"tier": "C"
+},
+{
+"cls": "document",
+"id": "podesta-delonge-mccasland-email-2016",
+"label": "DeLonge to Podesta, 'General McCasland', 25 January 2016 (WikiLeaks Podesta Emails 3099)",
+"tier": "A"
+},
+{
+"cls": "person",
+"id": "richard-m-bissell-jr",
+"label": "Richard M. Bissell Jr.",
+"tier": "B"
+}
+],
+"short": "Lockheed Skunk Works",
+"sources": [
+{
+"date": "2024-03-08",
+"name": "AARO, 'Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP), Volume I'",
+"url": "https://documents2.theblackvault.com/documents/dod/AARO_Historical_Record_Report_Volume_1_2024.pdf"
+},
+{
+"date": "1994-01-01",
+"name": "Ben R. Rich and Leo Janos, 'Skunk Works: A Personal Memoir of My Years at Lockheed' (Internet Archive)",
+"url": "https://archive.org/details/skunkworks00benr"
+}
+],
+"sub": "Unacknowledged-program aeronautics organisation, Burbank then Palmdale",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 184 of 1027, score 45). 8 connections, 3 of them custody/witness/funding/programmatic. Axes C3/A3/D0.",
+"timeline": []
+}

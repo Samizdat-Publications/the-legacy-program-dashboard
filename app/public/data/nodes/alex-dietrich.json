@@ -1,0 +1,226 @@
+{
+"A": 1,
+"C": 0,
+"D": 2,
+"affiliations": [
+"US Navy (2001-2019)",
+"VFA-41 Black Aces (2004)",
+"Naval Postgraduate School / Pentagon staff tours"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "2004-11-14",
+"event": "Flies wing on the Nimitz Tic Tac intercept; observes the object for about five minutes",
+"precision": "day"
+},
+{
+"date": "2021-05-16",
+"event": "First public account, CBS 60 Minutes",
+"precision": "day"
+},
+{
+"date": "2023-01-13",
+"event": "Named in the Navy range fouler report released via the Navy FOIA reading room",
+"precision": "day"
+},
+{
+"date": "2023-02-17",
+"event": "Publishes an opinion piece on cooperative UAP investigation in The Debrief",
+"precision": "day"
+},
+{
+"date": "2024-11-13",
+"event": "Cited by name in Mike Gold's House Oversight testimony as an example of aviator stigma",
+"precision": "day"
+}
+],
+"claims": [
+{
+"source": "Navy range fouler reports released via the Navy FOIA reading room, 13 January 2023, reported by The War Zone",
+"text": "Navy range fouler documentation on the 14 Nov 2004 incident names the F/A-18 aircrew as including Commander David Fravor and Lt. Cmdr. Alex Dietrich.",
+"tier": 1
+},
+{
+"source": "Alex Dietrich, CBS 60 Minutes, 16 May 2021",
+"text": "'I never wanted to be on national TV, no offense.'",
+"tier": 2
+},
+{
+"source": "Michael Gold, written testimony, House Oversight joint subcommittee hearing, 13 November 2024",
+"text": "Dietrich 'was mocked by her colleagues' and the incident 'went years without any investigation.'",
+"tier": 2
+}
+],
+"cls": "person",
+"cluster": "witness",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "2004",
+"dateStart": "2004",
+"direction": "in",
+"edgeLabel": "Section lead and wingman on the same intercept",
+"id": "david-fravor",
+"l0": false,
+"label": "David Fravor",
+"note": "Both are named as aircrew in the same Navy range fouler report and both gave first-person accounts on 60 Minutes in 2021.",
+"sources": [
+{
+"date": "2023-01-14",
+"name": "The War Zone - Tic Tac incident in newly released range fouler reports",
+"url": "https://www.twz.com/tic-tac-uap-incident-included-in-72-newly-released-range-incursion-reports"
+},
+{
+"date": "2021-05-16",
+"name": "CBS News / 60 Minutes",
+"url": "https://www.cbsnews.com/news/ufo-military-intelligence-60-minutes-2021-05-16/"
+}
+],
+"tier": "B",
+"type": "witness-chain"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2024",
+"dateStart": "2024",
+"direction": "in",
+"edgeLabel": "Cited Dietrich by name to Congress as evidence of aviator stigma",
+"id": "michael-gold",
+"l0": false,
+"label": "Michael Gold",
+"note": "Gold testified she 'was mocked by her colleagues' and that her incident 'went years without any investigation.'",
+"sources": [
+{
+"date": "2024-11-13",
+"name": "House Oversight - Gold written testimony (PDF)",
+"url": "https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Gold.pdf"
+}
+],
+"tier": "B",
+"type": "witness-chain"
+},
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": "2004",
+"dateStart": "2004",
+"direction": "out",
+"edgeLabel": "Flew wing on the 14 Nov 2004 intercept; observed the object for about five minutes",
+"id": "nimitz-2004",
+"l0": true,
+"label": "USS Nimitz Carrier Strike Group Encounters, 10-16 November 2004",
+"note": "Dietrich and her WSO observed the object from roughly 8,000 feet above for about five minutes. She is named in the Navy range fouler report released 12 January 2023.",
+"sources": [
+{
+"date": "2023-01-14",
+"name": "The War Zone - Tic Tac incident in newly released range fouler reports",
+"url": "https://www.twz.com/tic-tac-uap-incident-included-in-72-newly-released-range-incursion-reports"
+},
+{
+"date": "2021-05-16",
+"name": "CBS News / 60 Minutes",
+"url": "https://www.cbsnews.com/news/ufo-military-intelligence-60-minutes-2021-05-16/"
+}
+],
+"tier": "A",
+"type": "witness-chain"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "2021",
+"dateStart": "2004",
+"direction": "out",
+"edgeLabel": "Sixteen years of silence is the stigma the assessment describes",
+"id": "odni-preliminary-assessment-2021",
+"l0": true,
+"label": "ODNI Preliminary Assessment: Unidentified Aerial Phenomena (25 June 2021)",
+"note": "Dietrich gave her first public account in May 2021, weeks before ODNI conceded that aviators face 'disparagement associated with observing UAP, reporting it, or attempting to discuss it with colleagues.'",
+"sources": [
+{
+"date": "2021-05-16",
+"name": "CBS News / 60 Minutes",
+"url": "https://www.cbsnews.com/news/ufo-military-intelligence-60-minutes-2021-05-16/"
+},
+{
+"date": "2021-06-25",
+"name": "ODNI Preliminary Assessment: Unidentified Aerial Phenomena (PDF)",
+"url": "https://archive.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf"
+}
+],
+"tier": "A",
+"type": "behavioral"
+}
+],
+"date": "2021-05-16",
+"dateEnd": null,
+"dateStart": "2021-05-16",
+"deg": 4,
+"denials": [],
+"domains": [
+"aviators-incidents"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "alex-dietrich",
+"instId": "vfa-41",
+"l0": false,
+"label": "Alex Dietrich",
+"loc": "Washington, DC",
+"locId": "l-socal-oparea",
+"members": null,
+"narrative": "Dietrich was the second F/A-18F aircrew on the 14 November 2004 intercept, flying as Fravor's wingman and observing the object for roughly five minutes. She is named alongside Fravor in the Navy's own range fouler report on the incident, released through the Navy FOIA reading room on 13 January 2023 - which matters because it puts her at the event in a government record rather than only in a media account. She stayed silent publicly for sixteen years, then gave her first public account on CBS 60 Minutes on 16 May 2021, opening with 'I never wanted to be on national TV, no offense.' That reluctance is itself the datum: the stigma structure the ODNI's own June 2021 preliminary assessment described - 'disparagement associated with observing UAP, reporting it, or attempting to discuss it with colleagues' - operated on her for a decade and a half. Mike Gold, testifying before House Oversight on 13 November 2024, cited her by name, saying she 'was mocked by her colleagues' and that her incident 'went years without any investigation.' Dietrich has since argued in print for cooperative, data-first investigation rather than advocacy, publishing an opinion piece in The Debrief on 17 February 2023.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Alex Dietrich",
+"sources": [
+{
+"date": "2021-05-16",
+"name": "CBS News / 60 Minutes",
+"url": "https://www.cbsnews.com/news/ufo-military-intelligence-60-minutes-2021-05-16/"
+},
+{
+"date": "2023-01-14",
+"name": "The War Zone - range fouler reports release",
+"url": "https://www.twz.com/tic-tac-uap-incident-included-in-72-newly-released-range-incursion-reports"
+},
+{
+"date": "2024-11-13",
+"name": "Michael Gold written testimony (PDF)",
+"url": "https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Gold.pdf"
+},
+{
+"date": "2023-02-17",
+"name": "The Debrief - Dietrich opinion piece",
+"url": "https://thedebrief.org/opinion-the-power-of-cooperation-can-help-us-solve-the-mystery-of-unidentified-aerial-phenomena/"
+}
+],
+"status": "active",
+"sub": "LCDR, USN (Ret.); VFA-41 wingman on the 14 Nov 2004 Nimitz intercept",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 551 of 1027, score 27). 4 connections, 3 of them custody/witness/funding/programmatic. Axes C0/A1/D2.",
+"timeline": [
+{
+"date": "2021-05-16",
+"id": "av-2021-05-16",
+"label": "60 Minutes brings the aviators forward",
+"precision": "day",
+"strand": "witness",
+"text": "Fravor, Dietrich, Graves, Mellon and Elizondo appear on CBS; Dietrich gives her first public account: 'I never wanted to be on national TV, no offense.'",
+"tier": "A"
+}
+],
+"unexplainedResidual": null,
+"unverified": []
+}

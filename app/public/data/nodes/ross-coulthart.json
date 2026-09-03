@@ -1,0 +1,269 @@
+{
+"A": 1,
+"C": 0,
+"D": 3,
+"affiliations": [
+"NewsNation, Reality Check (2021- )",
+"Nine Network Australia, 60 Minutes (prior)",
+"NewsNation (2021-present)",
+"Nine Network Sunday (1995-2009)",
+"ABC Four Corners (1992-1995)"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "2023-06-05",
+"event": "Interviews David Grusch for NewsNation the day the Kean/Blumenthal story publishes.",
+"precision": "day"
+},
+{
+"date": "2023-06-11",
+"event": "NewsNation broadcasts the first Grusch television interview",
+"precision": "day"
+},
+{
+"date": "2026-02-01",
+"event": "NewsNation publishes 'Ross Coulthart on UAP Gerb's claims: I think he's on the money.'",
+"precision": "month"
+},
+{
+"date": "2026-06-28",
+"event": "Appears with UAP Gerb at the UAPDF event; Gerb describes 'my weekend with Ross Coulthart' in a 29 June 2026 livestream.",
+"precision": "day"
+},
+{
+"date": "2026-08-04",
+"event": "Premieres 'Inside Kona Blue, the alleged Lockheed-to-DHS UFO transfer' with UAP Gerb on Reality Check; 176,430 views.",
+"precision": "day"
+}
+],
+"claims": [
+{
+"source": "NewsNation interview by Ross Coulthart, June 2023",
+"text": "Elicited Grusch's on-camera statements that the recovered objects are non-human origin technical vehicles and that dead pilots have been encountered.",
+"tier": 2
+},
+{
+"source": "Wikipedia, 'Ross Coulthart', biography, retrieved 12 August 2026 — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"text": "Coulthart is senior special investigations correspondent for NewsNation and an advocate for UAP disclosure who believes governments have covered up knowledge of extraterrestrial spacecraft.",
+"tier": 2
+},
+{
+"source": "NewsNation segment title, published circa February 2026",
+"text": "Coulthart publicly endorsed UAP Gerb's structural claims on air: 'I think he's on the money.'",
+"tier": 2
+},
+{
+"source": "NewsNation Reality Check chapter summary, published 4 August 2026",
+"text": "Coulthart's 4 August 2026 Reality Check episode covers FFRDCs, UARCs and GOCOs as the vehicle of the legacy program, gatekeeping within it, and whether it constitutes a 'deep state'.",
+"tier": 2
+},
+{
+"source": "NewsNation Reality Check episode description, 4 August 2026",
+"text": "In the same episode Gerb alleged to Coulthart directed-energy attacks on people close to the program, civilian aircraft downed by EMP weapons during craft-recovery operations, and an alleged murder.",
+"tier": 2
+},
+{
+"source": "NewsNation Reality Check episode credits, 4 August 2026 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"text": "Reality Check credits: Host Ross Coulthart; Executive Producer Andy Gipson; Editorial Producer Meagan Medick; Segment Producers Christine Jenkinson and Will Tomasi; Research Producer Rob Jones; Editor Kanyon Lyons.",
+"tier": 2
+}
+],
+"cls": "person",
+"cluster": "media",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "2023",
+"dateStart": "2023",
+"direction": "out",
+"edgeLabel": "First television interview; origin of the biologics and dead pilots statements",
+"id": "david-grusch",
+"l0": false,
+"label": "David Charles Grusch",
+"note": "Grusch's NewsNation interview with Coulthart produced the dead pilots statement and the biologics claim that he then ratified under oath five weeks later when Rep. Mace asked about bodies.",
+"sources": [
+{
+"date": "2023-06-11",
+"name": "NewsNation - Military whistleblower claims US has UFO retrieval program",
+"url": "https://www.newsnationnow.com/space/military-whistleblowe-us-ufo-retrieval-program/"
+},
+{
+"date": "2023-07-26",
+"name": "House Oversight hearing transcript",
+"url": "https://www.congress.gov/118/meeting/house/116282/documents/HHRG-118-GO06-Transcript-20230726.pdf"
+},
+{
+"date": "2026-07-26",
+"name": "Wikipedia - Ross Coulthart",
+"url": "https://en.wikipedia.org/wiki/Ross_Coulthart"
+}
+],
+"tier": "A",
+"type": "investigative"
+},
+{
+"claimTier": 2,
+"cls": "program",
+"dateEnd": "2026",
+"dateStart": "2021",
+"direction": "out",
+"edgeLabel": "Coulthart hosts Reality Check",
+"id": "newsnation-reality-check",
+"l0": false,
+"label": "Reality Check with Ross Coulthart (NewsNation)",
+"note": "Coulthart is host and NewsNation's senior special investigations correspondent; Reality Check is the vehicle through which the structural model reached broadcast.",
+"sources": [
+{
+"date": "2026-08-04",
+"name": "NewsNation Reality Check - 'Inside Kona Blue'",
+"url": "https://www.youtube.com/watch?v=F2NfXgv8x1E"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2026",
+"dateStart": "2026",
+"direction": "out",
+"edgeLabel": "Coulthart platformed Gerb on Reality Check and endorsed his claims on air",
+"id": "uap-gerb",
+"l0": false,
+"label": "'UAP Gerb' (Sam)",
+"note": "NewsNation published 'Ross Coulthart on UAP Gerb's claims: I think he's on the money' in early 2026 and ran a multi-part Reality Check series with Gerb culminating in the 4 August 2026 Kona Blue episode, 176,430 views.",
+"sources": [
+{
+"date": "2026-08-04",
+"name": "NewsNation Reality Check - 'Inside Kona Blue'",
+"url": "https://www.youtube.com/watch?v=F2NfXgv8x1E"
+},
+{
+"date": "2026-02-01",
+"name": "NewsNation - 'I think he's on the money'",
+"url": "https://www.youtube.com/watch?v=z4tCLZc37cg"
+}
+],
+"tier": "A",
+"type": "investigative"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "2026",
+"direction": "in",
+"edgeLabel": "Interviewed across multiple NewsNation 'Reality Check' episodes, June-August 2026",
+"id": "uap-gerb",
+"l0": false,
+"label": "'UAP Gerb' (Sam)",
+"note": "Coulthart carried the Gerb material into mainstream broadcast, including discussion of Immaculate Constellation and of Aerospace Corporation and MITRE in connection with the 2026 UAP Governance Board.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "NewsNation Reality Check",
+"url": "https://www.newsnationnow.com/podcasts-newsnation/reality-check/"
+}
+],
+"tier": "A",
+"type": "witness-chain"
+}
+],
+"date": "2023-06-11",
+"dateEnd": null,
+"dateStart": "2023-06-11",
+"deg": 3,
+"denials": [],
+"domains": [
+"grusch",
+"media-structure"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "ross-coulthart",
+"instId": "newsnation",
+"l0": false,
+"label": "Ross Coulthart",
+"loc": "New York, NY",
+"locId": "l-nyc",
+"members": null,
+"narrative": "Ross Coulthart is the only correspondent at a US cable network whose full-time beat is the legacy program, and the one who converted the structural argument from YouTube into broadcast. A Walkley- and Logie-decorated Australian investigative journalist who spent decades at Four Corners and Nine's Sunday programme before joining NewsNation, Coulthart brought a hostile-source methodology to the subject: he had previously forced a royal commission into Australian football corruption and triggered a government review of ASIS. His 2021 book In Plain Sight and his June 2023 sit-downs with David Grusch made Grusch's ICIG complaint a mainstream story rather than a niche one. What matters for this board is what he has done since 2025: he has systematically platformed UAP Gerb's structural reconstruction on Reality Check, and endorsed it on air. In February 2026 NewsNation published a segment titled 'Ross Coulthart on UAP Gerb's claims: I think he's on the money.' On 4 August 2026 he ran a full episode, 'Inside Kona Blue, the alleged Lockheed-to-DHS UFO transfer', whose chapter list is itself a structural document: 'FFRDCs, U-Arcs, and GOCOs', 'Gatekeeping within the legacy program', 'Is the legacy program a deep state?', 'Modern legacy program gaps'. In that episode Gerb alleged directed-energy attacks on people close to the program, civilian aircraft downed by EMP weapons during craft-recovery operations, and a murder. Coulthart's Reality Check team - executive producer Andy Gipson, editorial producer Meagan Medick, research producer Rob Jones - functions as a small standing investigative unit on this beat, and Rob Jones independently surfaces alleged gatekeeper names.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Ross Coulthart",
+"sources": [
+{
+"date": "2023-06-11",
+"name": "NewsNation - Military whistleblower claims US has UFO retrieval program",
+"url": "https://www.newsnationnow.com/space/military-whistleblowe-us-ufo-retrieval-program/"
+},
+{
+"date": "2026-08-04",
+"name": "NewsNation Reality Check - 'Inside Kona Blue, the alleged Lockheed-to-DHS UFO transfer'",
+"url": "https://www.youtube.com/watch?v=F2NfXgv8x1E"
+},
+{
+"date": "2026-02-01",
+"name": "NewsNation - 'Ross Coulthart on UAP Gerb's claims: I think he's on the money'",
+"url": "https://www.youtube.com/watch?v=z4tCLZc37cg"
+},
+{
+"date": "2026-08-07",
+"name": "NewsNation - 'Is the legacy program a deep state?'",
+"url": "https://www.youtube.com/watch?v=jGUEMQnVBns"
+},
+{
+"date": "2026-07-26",
+"name": "Wikipedia - Ross Coulthart",
+"url": "https://en.wikipedia.org/wiki/Ross_Coulthart"
+}
+],
+"status": "active",
+"sub": "Investigative journalist, NewsNation; first Grusch television interview",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 516 of 1027, score 28). 4 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A1/D3.",
+"timeline": [
+{
+"date": "2023-06-05",
+"id": "ms-2023-coulthart",
+"label": "Coulthart broadcasts Grusch",
+"precision": "day",
+"strand": "witness",
+"text": "Ross Coulthart's NewsNation interviews convert the ICIG complaint from a written allegation into a broadcast event, giving it a face and a national audience.",
+"tier": "A"
+},
+{
+"date": "2023-06-11",
+"id": "g-tl-2023-06-newsnation",
+"label": "First television interview with Ross Coulthart",
+"precision": "day",
+"strand": "witness",
+"text": "Grusch says the recoveries are non-human origin technical vehicles, that we are definitely not alone, that sometimes you encounter dead pilots, and that a sophisticated disinformation campaign targets the public.",
+"tier": "A"
+},
+{
+"date": "2026-02-01",
+"id": "ms-2026-coulthart-endorse",
+"label": "Coulthart endorses Gerb on air",
+"precision": "month",
+"strand": "program",
+"text": "NewsNation publishes 'Ross Coulthart on UAP Gerb's claims: I think he's on the money' - a network correspondent vouching for a pseudonymous YouTube researcher's structural model.",
+"tier": "A"
+}
+],
+"unexplainedResidual": null,
+"unverified": [
+"Publication details of In Plain Sight (2021) were not re-verified against a primary catalogue record in this pass."
+]
+}

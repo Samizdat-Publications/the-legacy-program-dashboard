@@ -1,0 +1,154 @@
+{
+"A": 2,
+"C": 1,
+"D": 1,
+"band": null,
+"claims": [
+{
+"source": "Federal Register Doc 94-13966, 'Availability of Department of the Navy Records and Publication of Department of the Navy Documents Affecting the Public', effective 9 June 1994, https://www.federalregister.gov/documents/1994/06/09/94-13966/availability-of-department-of-the-navy-records-and-publication-of-department-of-the-navy-documents",
+"text": "The Department of the Navy final rule published on 9 June 1994, FR Doc 94-13966, amended 32 CFR 701.5(e)(2)(iii)(B) by removing 'Commander, Naval Investigative Service Command' and adding in its place 'Director, Naval Criminal Investigative Service'.",
+"tier": 1
+},
+{
+"source": "Federal Register Doc 94-13279, 1 June 1994, https://www.federalregister.gov/documents/1994/06/01/94-13279/",
+"text": "A Department of the Navy document published on 1 June 1994, FR Doc 94-13279, still lists 'Commander, Naval Investigative Service Command' among the officers it designates, so the former title was in current Federal Register use eight days before the substitution.",
+"tier": 1
+},
+{
+"source": "DEBRIEFED with Chris Ramsay, 'Former Counterintelligence Agent Shares Wild Alien Encounters - Richard Doty', 21 August 2026, 1:17:09, transcript in dist/transcripts/md/",
+"text": "On DEBRIEFED with Chris Ramsay, 21 August 2026, at 1:17:09, Richard Doty said that Jaime Shandera 'was an asset that was being used by the Naval Investigative Service, which is now Naval Criminal Investigative Service. Back then, it was just NIS', placing that relationship on a separate operation roughly two weeks before the MJ-12 document reached Shandera's mailbox.",
+"tier": 2
+},
+{
+"source": "FAS Navy Intelligence and Security Doctrine, SECNAVINST index, https://irp.fas.org/doddir/navy/secnavinst/index.html",
+"text": "The date of the redesignation from Naval Investigative Service Command to Naval Criminal Investigative Service is an open question on this board. The Secretary of the Navy instruction that would fix it was not reachable: the FAS Navy directives index lists SECNAVINST 5430.107, 'Mission and Functions of the Naval Criminal Investigative Service', dated 28 December 2005 and running 20 pages, but the PDF returns a zero-byte HTTP 202 and ncis.navy.mil returns 403.",
+"tier": 3
+}
+],
+"cls": "institution",
+"cluster": "ic",
+"connections": [
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2026-08-21",
+"dateStart": "2026-08-21",
+"direction": "out",
+"edgeLabel": "Doty says Shandera was an NIS asset shortly before the MJ-12 dead drop",
+"id": "jaime-shandera",
+"l0": false,
+"label": "Jaime H. Shandera",
+"note": "Richard Doty states that Shandera was an NIS asset on an unrelated operation shortly before the MJ-12 film was dead-dropped, a Tier 2 claim no opened NIS record corroborates.",
+"sources": [
+{
+"date": "2026-08-21",
+"name": "DEBRIEFED with Chris Ramsay, 'Former Counterintelligence Agent Shares Wild Alien Encounters - Richard Doty', 21 August 2026, 1:17:09",
+"url": ""
+}
+],
+"tier": "C",
+"type": "witness-chain"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2026-08-21",
+"dateStart": "2026-08-21",
+"direction": "out",
+"edgeLabel": "Doty is the sole source for both NIS episodes recorded on this node",
+"id": "richard-doty",
+"l0": false,
+"label": "Richard C. Doty",
+"note": "Doty, a former AFOSI special agent, is the sole source for both NIS episodes recorded here, the Shandera handling and an NCIS role in the Kirtland contractor confrontation.",
+"sources": [
+{
+"date": "2026-08-21",
+"name": "DEBRIEFED with Chris Ramsay, 'Former Counterintelligence Agent Shares Wild Alien Encounters - Richard Doty', 21 August 2026, 1:17:09 and 3:21:29",
+"url": ""
+}
+],
+"tier": "B",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "1994-06-09",
+"direction": "out",
+"edgeLabel": "Department of the Navy organisation; its head's title is fixed in 32 CFR 701.5",
+"id": "us-navy",
+"l0": true,
+"label": "United States Navy",
+"note": "NCIS is a Department of the Navy organisation whose head's title is fixed in the Navy's own codified regulations at 32 CFR part 701.",
+"sources": [
+{
+"date": "1994-06-09",
+"name": "Federal Register Doc 94-13966, amending 32 CFR 701.5(e)(2)(iii)(B)",
+"url": "https://www.federalregister.gov/documents/1994/06/09/94-13966/availability-of-department-of-the-navy-records-and-publication-of-department-of-the-navy-documents"
+}
+],
+"tier": "C",
+"type": "institutional"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "1994-06-09",
+"deg": 3,
+"denials": [],
+"desc": "The Department of the Navy's criminal investigative and counterintelligence organisation, known as the Naval Investigative Service and then the Naval Investigative Service Command before it was renamed. The earliest federal record opened for this node is the Navy's final rule of 9 June 1994, which struck 'Commander, Naval Investigative Service Command' from 32 CFR 701.5 and inserted 'Director, Naval Criminal Investigative Service'; a Navy rule published eight days earlier still printed the old title. It is drafted here because Richard Doty places NIS inside the MJ-12 chain of custody the board already holds through Jaime Shandera, describing Shandera as an NIS asset on an unrelated operation when the dead drop arrived. The commonly cited 1992 redesignation date was not established by any record opened from this machine and is deliberately absent from this node.",
+"domains": [
+"area52-2026-09-02"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "1",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "naval-criminal-investigative-service",
+"l0": false,
+"label": "Naval Criminal Investigative Service",
+"locLabel": null,
+"members": null,
+"short": "Naval Criminal Investigative Service",
+"sources": [
+{
+"date": "1994-06-09",
+"name": "Federal Register Doc 94-13966, Availability of Department of the Navy Records and Publication of Department of the Navy Documents Affecting the Public",
+"url": "https://www.federalregister.gov/documents/1994/06/09/94-13966/availability-of-department-of-the-navy-records-and-publication-of-department-of-the-navy-documents"
+},
+{
+"date": "1994-06-09",
+"name": "Federal Register Doc 94-13966, full text",
+"url": "https://www.federalregister.gov/documents/full_text/text/1994/06/09/94-13966.txt"
+},
+{
+"date": "1994-06-01",
+"name": "Federal Register Doc 94-13279, Department of the Navy, 1 June 1994",
+"url": "https://www.federalregister.gov/documents/1994/06/01/94-13279/"
+},
+{
+"date": "2026-09-02",
+"name": "FAS Navy Intelligence and Security Doctrine, SECNAVINST index, listing SECNAVINST 5430.107",
+"url": "https://irp.fas.org/doddir/navy/secnavinst/index.html"
+}
+],
+"sub": "Department of the Navy criminal investigative and counterintelligence organisation; title fixed in 32 CFR 701.5 on 9 June 1994",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 564 of 1027, score 27). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A2/D1.",
+"timeline": [
+{
+"date": "1994-06-09",
+"id": "tl-1994-06-09-nis-becomes-ncis",
+"label": "The Navy codifies the NCIS title, and it is not 1992",
+"precision": "day",
+"strand": "oversight",
+"text": "A Department of the Navy final rule amends 32 CFR 701.5(e)(2)(iii)(B) by removing 'Commander, Naval Investigative Service Command' and adding in its place 'Director, Naval Criminal Investigative Service'. A Navy document published eight days earlier still lists the old title among the officers it designates. This is the earliest federal record of the new name reached by this pass; the commonly cited 1992 redesignation date is supported by nothing opened.",
+"tier": "C"
+}
+]
+}

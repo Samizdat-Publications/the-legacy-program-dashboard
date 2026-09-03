@@ -1,0 +1,137 @@
+{
+"A": 1,
+"C": 0,
+"D": 3,
+"band": null,
+"claims": [
+{
+"source": "https://www.law.cornell.edu/uscode/text/50/3306",
+"text": "50 U.S.C. 3306(a) requires public disclosure of the aggregate NIP appropriations request at the time the President submits the budget.",
+"tier": 1
+},
+{
+"source": "https://www.law.cornell.edu/uscode/text/50/3306",
+"text": "50 U.S.C. 3306(b) requires the DNI to disclose the aggregate NIP appropriated amount within 30 days of the end of each fiscal year.",
+"tier": 1
+},
+{
+"source": "https://www.law.cornell.edu/uscode/text/50/3306",
+"text": "50 U.S.C. 3306(c) permits the President to waive or postpone either disclosure on submitting an unclassified damage statement and a reasons statement that may be classified.",
+"tier": 1
+},
+{
+"source": "https://www.govinfo.gov/content/pkg/PLAW-119publ60/html/PLAW-119publ60.htm",
+"text": "Section 6102(b)(3)(A) of the FY2026 IAA identifies 50 U.S.C. 3306(a) as the sole affirmative exception to the bar on the President publicly disclosing any portion of the classified Schedule of Authorizations.",
+"tier": 1
+}
+],
+"cls": "legislation",
+"cluster": "oversight",
+"connections": [
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": "2025-12-18",
+"direction": "in",
+"edgeLabel": "Section 3306(a) is the sole affirmative exception to the bar on disclosing the Schedule",
+"id": "classified-schedule-authorizations",
+"l0": false,
+"label": "The Classified Schedule of Authorizations (Intelligence Authorization Act)",
+"note": "Section 6102(b)(3)(A) names 50 U.S.C. 3306(a) as the one statutory route by which any portion of the classified Schedule may be publicly disclosed. Attested by the enacted text.",
+"sources": [
+{
+"date": "2025-12-18",
+"name": "IAA FY2026, Sec. 6102(b)(3)",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-119publ60/html/PLAW-119publ60.htm"
+}
+],
+"tier": "B",
+"type": "legislative"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": "2007-08-03",
+"direction": "out",
+"edgeLabel": "The statute that produced the second segment of the disclosure record",
+"id": "intel-budget-disclosure-record",
+"l0": false,
+"label": "The intelligence budget disclosure record, FY1997-FY2026",
+"note": "Section 601 of P.L. 110-53, codified at 50 U.S.C. 3306, compels the annual aggregate NIP disclosures that resumed with FY2007 after a nine-year gap. Attested by the statute and by the ODNI and FAS compilations.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "50 U.S.C. 3306; FAS Intelligence Budget Data",
+"url": "https://irp.fas.org/budget/index.html"
+}
+],
+"tier": "C",
+"type": "legislative"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "2007-08-03",
+"deg": 2,
+"denials": [],
+"desc": "This section, enacted as section 601 of the Implementing Recommendations of the 9/11 Commission Act of 2007 and later supplemented for the request side by section 364 of the Intelligence Authorization Act for Fiscal Year 2010, is the sum total of what Congress has required to be told to the public about the intelligence budget. Subsection (a): at the time the President submits the budget, he 'shall disclose to the public the aggregate amount of appropriations requested for that fiscal year for the National Intelligence Program.' Subsection (b): 'Not later than 30 days after the end of each fiscal year, the Director of National Intelligence shall disclose to the public the aggregate amount of funds appropriated by Congress for the National Intelligence Program for such fiscal year.' Subsection (c) permits the President to waive or postpone either disclosure by submitting to the intelligence committees an unclassified statement that disclosure would damage national security together with a statement of reasons that may be classified. Two aggregate numbers per year, no breakdown of any kind, and a waiver the President can exercise at will. It is worth stating plainly what this regime does not require: it does not require disclosure of the Military Intelligence Program, of any agency's budget, of any programme, of the number of programmes, or of whether any given activity is funded at all. The 9/11 Commission had recommended that the overall figure be disclosed precisely so that the public could hold the intelligence enterprise to account; what emerged in statute is the minimum reading of that recommendation.",
+"domains": [
+"w2-black-budget"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "2",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "usc-50-3306",
+"l0": false,
+"label": "50 U.S.C. 3306 - Public disclosure of NIP aggregate amounts",
+"locLabel": null,
+"members": null,
+"short": "50 U.S.C. 3306 - Public disclosure of NIP aggregate amounts",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "50 U.S.C. 3306 (Cornell LII)",
+"url": "https://www.law.cornell.edu/uscode/text/50/3306"
+},
+{
+"date": "2026-08-12",
+"name": "ODNI, Intelligence Community Budget",
+"url": "https://www.odni.gov/index.php/what-we-do/ic-budget"
+},
+{
+"date": null,
+"name": "govinfo.gov",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-119publ60/html/PLAW-119publ60.htm"
+}
+],
+"sub": "The entire statutory transparency regime for the intelligence budget: two numbers a year, waivable",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 684 of 1027, score 23). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D3.",
+"timeline": [
+{
+"date": "2007-08-03",
+"id": "bb-tl-2007-601",
+"label": "Section 601 compels annual NIP disclosure",
+"precision": "day",
+"strand": "oversight",
+"text": "Section 601 of the Implementing Recommendations of the 9/11 Commission Act, codified at 50 U.S.C. 3306, requires the DNI to disclose the aggregate NIP appropriation within 30 days of each fiscal year's end, subject to a presidential waiver. The FY2007 figure is $43.5 billion. This remains, with the later request-side requirement, the entire statutory transparency regime for the intelligence budget.",
+"tier": "A"
+},
+{
+"date": "2011-02",
+"id": "bb-tl-2011-364",
+"label": "First publication of the NIP budget request",
+"precision": "month",
+"strand": "oversight",
+"text": "Under section 364 of the Intelligence Authorization Act for Fiscal Year 2010, the aggregate NIP budget request is published for the first time, in February 2011. Two numbers a year is now the settled floor and ceiling of public knowledge.",
+"tier": "B"
+}
+]
+}

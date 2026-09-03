@@ -1,0 +1,95 @@
+{
+"A": 3,
+"C": 1,
+"D": 2,
+"band": null,
+"claims": [
+{
+"source": "Wikipedia, SRI International — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"text": "SRI International was founded in 1946 by Stanford University trustees in Menlo Park, California, separated formally from Stanford in 1970, and took its current name in 1977.",
+"tier": 2
+},
+{
+"source": "Wikipedia, SRI International; CIA STAR GATE records in the CREST archive — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"text": "In 1972 Harold Puthoff and Russell Targ began CIA-sponsored research into psychic phenomena at SRI, coining the term 'remote viewing'; the work continued with intelligence community funding until they left SRI in the mid-1980s.",
+"tier": 2
+},
+{
+"source": "Inference from the SRI funding record and Puthoff's documented affiliations",
+"text": "SRI is the cleanest precedent for government funding of anomalous-phenomena research through contractors while publicly denying interest, and Puthoff's contract history is the continuous thread from that work to the 2019 Army/TTSA CRADA. Reasoning: documented SRI funding chain plus Puthoff's documented later roles at EarthTech, AAWSAP and TTSA.",
+"tier": 3
+}
+],
+"cls": "location",
+"cluster": "research",
+"connections": [
+{
+"claimTier": 2,
+"cls": "event",
+"dateEnd": "1986",
+"dateStart": "1972",
+"direction": "in",
+"edgeLabel": "The research was conducted at Menlo Park, California",
+"id": "stargate-program",
+"l0": true,
+"label": "STAR GATE and predecessor remote viewing programs, 1970-1995",
+"note": "SRI International, founded 1946 by Stanford trustees and separated from the university in 1970, hosted the work at Menlo Park.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Wikipedia - SRI International",
+"url": "https://en.wikipedia.org/wiki/SRI_International"
+}
+],
+"tier": "A",
+"type": "geographic"
+}
+],
+"coords": [
+37.456,
+-122.176
+],
+"dateEnd": null,
+"dateStart": "1946",
+"deg": 1,
+"denials": [],
+"desc": "SRI International was founded in 1946 by Stanford University trustees at Menlo Park, California, formally separated from the university in 1970 amid Vietnam-era protest over its defence contracting, and adopted its present name in 1977. Its place on this board is precise and documented: in 1972 physicists Harold E. Puthoff and Russell Targ began CIA-sponsored investigation of psychic phenomena at SRI's Artificial Intelligence Center, coined the term 'remote viewing', and worked with Ingo Swann, Pat Price, Joseph McMoneagle and Uri Geller. That work, funded successively by CIA, the Army and DIA and running under the cryptonyms SCANATE, GONDOLA WISH, GRILL FLAME, CENTER LANE, SUN STREAK and finally STAR GATE, continued with intelligence community funding until Puthoff and Targ left SRI in the mid-1980s. SRI therefore has the distinction of being the contractor node where the United States government spent two decades and roughly twenty million dollars funding research into a phenomenon it publicly maintained did not exist - which is the single cleanest precedent in the record for the proposition that the government funds anomalous-phenomena research through contractors while denying interest in public. Puthoff's later career is the direct bridge: from SRI to EarthTech International and the Institute for Advanced Studies at Austin, to the Defense Intelligence Reference Documents produced under AAWSAP, to co-founding To The Stars Academy in 2017. The line from Menlo Park in 1972 to the Army CRADA at Detroit Arsenal in 2019 runs through one man's contract history.",
+"domains": [
+"w2-places-events"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "l-sri",
+"l0": false,
+"label": "SRI International, Menlo Park, California",
+"locLabel": "Menlo Park, California, USA",
+"members": null,
+"short": "SRI International, Menlo Park, California",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Wikipedia - SRI International",
+"url": "https://en.wikipedia.org/wiki/SRI_International"
+},
+{
+"date": "2026-08-12",
+"name": "Wikipedia - Stargate Project (U.S. Army unit)",
+"url": "https://en.wikipedia.org/wiki/Stargate_Project_(U.S._Army_unit)"
+},
+{
+"date": "2026-08-12",
+"name": "FAS - Star Gate documentation",
+"url": "https://irp.fas.org/program/collect/stargate.htm"
+}
+],
+"sub": "Independent research institute, 333 Ravenswood Ave, Menlo Park; founded 1946; separated from Stanford 1970",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 688 of 1027, score 23). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A3/D2.",
+"timeline": []
+}

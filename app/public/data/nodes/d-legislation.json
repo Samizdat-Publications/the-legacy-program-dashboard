@@ -1,0 +1,300 @@
+{
+"A": 1,
+"C": 0,
+"D": 3,
+"band": null,
+"claims": [
+{
+"source": "P.L. 118-31",
+"text": "P.L. 118-31, Subtitle C, Sections 1841-1843 are the enacted UAP records provisions: collection at NARA, agency review and transmission duty, and grounds for postponement.",
+"tier": 1
+},
+{
+"source": "P.L. 118-159",
+"text": "P.L. 118-159 Section 6802 sunsets requirements relating to audits of the UAP historical record report.",
+"tier": 1
+},
+{
+"source": "H.R. 2670 (EAS) compared with P.L. 118-31",
+"text": "The Unidentified Anomalous Phenomena Disclosure Act's Review Board and eminent domain provisions passed the Senate as Division I of H.R. 2670 but were not enacted.",
+"tier": 1
+}
+],
+"cls": "domain",
+"cluster": "oversight",
+"connections": [
+{
+"claimTier": 1,
+"cls": "domain",
+"dateEnd": "2023-12-22",
+"dateStart": "2023-07-27",
+"direction": "in",
+"edgeLabel": "Proposal versus enactment",
+"id": "d-legislative",
+"l0": false,
+"label": "Legislative Process (proposed and pending)",
+"note": "Division I of the Senate-passed H.R. 2670 contained a Review Board and eminent domain; P.L. 118-31 as enacted did not. The gap between these two documents is the domain boundary.",
+"sources": [
+{
+"date": "2023-07-27",
+"name": "H.R. 2670 (EAS), Division I - UAP Disclosure Act of 2023",
+"url": "https://www.govinfo.gov/content/pkg/BILLS-118hr2670eas/html/BILLS-118hr2670eas.htm"
+},
+{
+"date": "2023-12-22",
+"name": "NDAA FY2024 (P.L. 118-31)",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm"
+}
+],
+"tier": "B",
+"type": "legislative"
+},
+{
+"claimTier": 1,
+"cls": "legislation",
+"dateEnd": null,
+"dateStart": "2022-12-23",
+"direction": "in",
+"edgeLabel": "Division F of P.L. 117-263 - the intelligence-side half of the same enactment",
+"id": "iaa-2023",
+"l0": false,
+"label": "Intelligence Authorization Act for FY2023 (Div. F of PL 117-263) - secs. 6802-6803",
+"note": "Sec. 6802 rewrote 50 U.S.C. 3373 to create AARO and inserted the 'unidentified anomalous phenomena' and 'transmedium' definitions; sec. 6803 attached a Comptroller General audit and briefing requirement to the Historical Record Report. Wiring it here fixes a degree-1 orphan and records that the statutory definitions the whole board uses were enacted in an intelligence authorization, not a defence one.",
+"sources": [
+{
+"date": "2022-12-23",
+"name": "Public Law 117-263, James M. Inhofe National Defense Authorization Act for FY2023, incl. Div. F (IAA FY2023) (GPO)",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-117publ263/html/PLAW-117publ263.htm"
+},
+{
+"date": "2024-12-23",
+"name": "Public Law 118-159, Servicemember Quality of Life Improvement and National Defense Authorization Act for FY2025 (GPO)",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-118publ159/html/PLAW-118publ159.htm"
+}
+],
+"tier": "C",
+"type": "legislative"
+},
+{
+"claimTier": 1,
+"cls": "legislation",
+"dateEnd": null,
+"dateStart": "2023-12-22",
+"direction": "in",
+"edgeLabel": "Division G of P.L. 118-31 - enacted intelligence-side UAP provisions",
+"id": "iaa-2024",
+"l0": false,
+"label": "Intelligence Authorization Act for FY2024 (Div. G of PL 118-31) - secs. 7341, 7343",
+"note": "Division G carries Sec. 7341, modifying the AARO reporting requirement, and Sec. 7343, the funding limitation. The section list published by the Senate Select Committee on Intelligence confirms both as part of the enacted division. Its separate membership of the funding domain rests on 7343's substance, not on its status as law.",
+"sources": [
+{
+"date": "2024-01-03",
+"name": "Senate Select Committee on Intelligence, Intelligence Authorization Act for FY2024, Division G of the NDAA for FY2024 (text, incl. Secs. 7341 and 7343)",
+"url": "https://www.intelligence.senate.gov/2024/01/03/legislation-intelligence-authorization-act-fiscal-year-2024-division-g-national-defense/"
+},
+{
+"date": "2023-12-22",
+"name": "Public Law 118-31, National Defense Authorization Act for FY2024, incl. Div. G (IAA FY2024) (GPO)",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm"
+},
+{
+"date": "2023-12-14",
+"name": "Senate Select Committee on Intelligence, Joint Explanatory Statement to Accompany the Intelligence Authorization Act for Fiscal Year 2024",
+"url": "https://www.intelligence.senate.gov/2023/12/14/publications-joint-explanatory-statement-accompany-intelligence-authorization-act-fiscal-year-2024/"
+}
+],
+"tier": "C",
+"type": "legislative"
+},
+{
+"claimTier": 1,
+"cls": "legislation",
+"dateEnd": null,
+"dateStart": "2021-12-27",
+"direction": "in",
+"edgeLabel": "the statutory root of the modern apparatus, codified at 50 U.S.C. 3373",
+"id": "ndaa-fy2022-sec-1683",
+"l0": true,
+"label": "FY2022 NDAA Sec. 1683 (P.L. 117-81; 50 U.S.C. 3373)",
+"note": "Sec. 1683 of P.L. 117-81, signed 27 December 2021, directed establishment within 180 days of an office to carry out the duties of the UAP Task Force, with enumerated duties reaching beyond analysis into governance. Everything later in the enacted corpus amends or builds on what this section created.",
+"sources": [
+{
+"date": "2021-12-27",
+"name": "Public Law 117-81, National Defense Authorization Act for FY2022 (GPO)",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-117publ81/html/PLAW-117publ81.htm"
+}
+],
+"tier": "B",
+"type": "legislative"
+},
+{
+"claimTier": 1,
+"cls": "legislation",
+"dateEnd": null,
+"dateStart": "2022-12-23",
+"direction": "in",
+"edgeLabel": "rewrote 50 U.S.C. 3373 to establish AARO and to mandate the Historical Record Report",
+"id": "ndaa-fy2023-sec-6802",
+"l0": true,
+"label": "Sec. 6802, James M. Inhofe NDAA for FY2023 (Pub. L. 117-263) - AARO establishment, Historical Record Report and annual reports",
+"note": "Sec. 6802 of P.L. 117-263, enacted 23 December 2022, added subsection (j) requiring a Historical Record Report within 540 days and subsection (k) requiring joint DNI/SECDEF annual reports. This is the authority AARO itself cites for both report series, which makes it enacted law with directly observable output.",
+"sources": [
+{
+"date": "2022-12-23",
+"name": "Public Law 117-263, James M. Inhofe National Defense Authorization Act for FY2023, incl. Div. F (IAA FY2023) (GPO)",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-117publ263/html/PLAW-117publ263.htm"
+},
+{
+"date": "2024-03-08",
+"name": "AARO, Report on the Historical Record of U.S. Government Involvement with UAP, Volume I (DOPSR-2024-0263)",
+"url": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF"
+}
+],
+"tier": "A",
+"type": "legislative"
+},
+{
+"claimTier": 1,
+"cls": "legislation",
+"dateEnd": null,
+"dateStart": "2023-12-22",
+"direction": "in",
+"edgeLabel": "P.L. 118-31 Subtitle C, secs. 1841-1843 - the UAP Records Collection as enacted",
+"id": "ndaa-fy2024",
+"l0": true,
+"label": "FY2024 NDAA, Public Law 118-31 - Div. A, Title XVIII, Subtitle C (secs. 1841-1843), UAP Records Collection; Div. G (IAA FY2024) secs. 7341, 7343",
+"note": "What survived conference from the Senate-passed disclosure title was a records collection at NARA, a duty to transmit and a postponement regime, without the Review Board or the eminent domain provision. NARA's published guidance to federal agencies implementing the collection is the observable proof that this part is law and operating.",
+"sources": [
+{
+"date": "2023-12-22",
+"name": "Public Law 118-31, National Defense Authorization Act for FY2024, incl. Div. G (IAA FY2024) (GPO)",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm"
+},
+{
+"date": "2026-08-21",
+"name": "National Archives, 'Guidance to Federal Agencies on Unidentified Anomalous Phenomena Records Collection'",
+"url": "https://www.archives.gov/records-mgmt/uap-guidance"
+}
+],
+"tier": "A",
+"type": "legislative"
+},
+{
+"claimTier": 1,
+"cls": "legislation",
+"dateEnd": null,
+"dateStart": "2024-12-23",
+"direction": "in",
+"edgeLabel": "P.L. 118-159 Div. G, secs. 6801-6802 - GAO review of AARO and the sunset of the audit cadence",
+"id": "ndaa-fy2025",
+"l0": false,
+"label": "FY2025 NDAA, Public Law 118-159 - Div. G (IAA FY2025) secs. 6801-6802, GAO review of AARO",
+"note": "Approved 23 December 2024. Sec. 6801 directs a GAO review of AARO's implementation of 50 U.S.C. 3373; sec. 6802 sunsets the GAO audit requirements attached to the Historical Record Report. Wiring it here fixes a degree-1 orphan and records the first enacted step in winding oversight machinery back down rather than up.",
+"sources": [
+{
+"date": "2024-12-23",
+"name": "Public Law 118-159, Servicemember Quality of Life Improvement and National Defense Authorization Act for FY2025 (GPO)",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-118publ159/html/PLAW-118publ159.htm"
+},
+{
+"date": "2022-12-23",
+"name": "Public Law 117-263, James M. Inhofe National Defense Authorization Act for FY2023, incl. Div. F (IAA FY2023) (GPO)",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-117publ263/html/PLAW-117publ263.htm"
+}
+],
+"tier": "C",
+"type": "legislative"
+},
+{
+"claimTier": 1,
+"cls": "legislation",
+"dateEnd": null,
+"dateStart": "2025-12-18",
+"direction": "in",
+"edgeLabel": "P.L. 119-60, Title XVI Subtitle E - the enacted corpus reduced to housekeeping",
+"id": "ndaa-fy2026",
+"l0": true,
+"label": "FY2026 NDAA, Public Law 119-60 - secs. 1671-1673, NORAD/NORTHCOM intercept briefings and UAP classification-guide accounting",
+"note": "Approved 18 December 2025, with three UAP sections requiring that AARO briefings cover NORAD and NORTHCOM intercepts and accounting for UAP classification guides. Recording it in the enacted domain alongside the 2021-2023 provisions is what lets a reader see the trajectory of what Congress has actually been willing to enact.",
+"sources": [
+{
+"date": "2025-12-18",
+"name": "Public Law 119-60, National Defense Authorization Act for FY2026 (GPO)",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-119publ60/html/PLAW-119publ60.htm"
+}
+],
+"tier": "A",
+"type": "legislative"
+},
+{
+"claimTier": 1,
+"cls": "legislation",
+"dateEnd": null,
+"dateStart": "1987-12-04",
+"direction": "in",
+"edgeLabel": "codified permanent law - the only statute governing what Congress is told about special access programs",
+"id": "usc-10-119",
+"l0": true,
+"label": "10 U.S.C. 119 — Special Access Programs: Congressional Oversight",
+"note": "Added by sec. 1132(a)(1) of the NDAA for FY1988-89, P.L. 100-180, signed 4 December 1987, and amended five times since. It is positive law in title 10 rather than a standalone provision, which places it at the centre of the enacted corpus this domain isolates.",
+"sources": [
+{
+"date": "2026-08-21",
+"name": "10 U.S.C. 119 - Special access programs: congressional oversight (Office of the Law Revision Counsel)",
+"url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim"
+},
+{
+"date": "2024-01-05",
+"name": "10 U.S.C. 119 (U.S. Code 2023 Edition, GPO)",
+"url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title10/html/USCODE-2023-title10-subtitleA-partI-chap2-sec119.htm"
+}
+],
+"tier": "A",
+"type": "legislative"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "2021-12-27",
+"deg": 9,
+"denials": [],
+"desc": "This domain isolates what is enacted from what was merely proposed, because the difference is the whole of the disclosure movement's leverage. The binding corpus is small and can be listed: the FY2022 NDAA provision that stood up the Airborne Object Identification and Management Synchronization Group and its successor office; the FY2023 NDAA language establishing AARO's statutory mandate and a secure reporting mechanism with protection against reprisal for current and former personnel and contractors; and Subtitle C of the FY2024 NDAA (P.L. 118-31), Sections 1841 through 1843, creating the UAP Records Collection at NARA with an affirmative agency duty to transmit and defined grounds for postponement. Everything else - the Review Board, eminent domain over recovered material, contractor amnesty, standalone whistleblower protection - remains proposed. The practical consequence is that the executive branch currently owes Congress reports and owes NARA records, but owes no independent body an answer, and no statute yet compels the surrender of a physical object. Scoring high on this domain means an entity is named in, administers, or is bound by enacted text.",
+"domains": [
+"w2-taxonomy"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "d-legislation",
+"l0": false,
+"label": "Enacted Statute",
+"locLabel": null,
+"members": null,
+"short": "Enacted Statute",
+"sources": [
+{
+"date": "2023-12-22",
+"name": "NDAA FY2024 (P.L. 118-31)",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm"
+},
+{
+"date": "2024-12-23",
+"name": "NDAA FY2025 (P.L. 118-159)",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-118publ159/html/PLAW-118publ159.htm"
+},
+{
+"date": "2025-12-18",
+"name": "NDAA FY2026 (P.L. 119-60)",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-119publ60/html/PLAW-119publ60.htm"
+}
+],
+"sub": "Legal domain - the provisions that actually became binding law (alias of d-legislative for enacted text)",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 574 of 1027, score 27). 9 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D3.",
+"timeline": []
+}

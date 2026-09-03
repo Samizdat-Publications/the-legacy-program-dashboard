@@ -1,0 +1,122 @@
+{
+"A": 3,
+"C": 0,
+"D": 1,
+"band": null,
+"claims": [
+{
+"source": "CHARTER, Scientific and Technical Intelligence Committee, 23 October 1974, CIA-RDP79M00098A000500020010-4, CIA reading-room mirror, https://archive.org/download/cia-readingroom-document-cia-rdp79m00098a000500020010-4/cia-rdp79m00098a000500020010-4_djvu.txt",
+"text": "The committee is a renaming, not a new body: 'Because of the increased emphasis the Committee will place on foreign intelligence related to technology, the name of the Committee will be changed from Scientific Intelligence Committee to Scientific and Technical Intelligence Committee (STIC).'",
+"tier": 1
+},
+{
+"source": "CHARTER, Scientific and Technical Intelligence Committee, 23 October 1974, CIA-RDP79M00098A000500020010-4, https://archive.org/download/cia-readingroom-document-cia-rdp79m00098a000500020010-4/cia-rdp79m00098a000500020010-4_djvu.txt",
+"text": "Its charter tasks it with anomalies by name. Under Priority Group II: 'Assessment and establishment of an Intelligence Community position regarding certain unidentified foreign activities and anomalies in the S&T area.'",
+"tier": 1
+},
+{
+"source": "CHARTER, Scientific and Technical Intelligence Committee, 23 October 1974, CIA-RDP79M00098A000500020010-4, https://archive.org/download/cia-readingroom-document-cia-rdp79m00098a000500020010-4/cia-rdp79m00098a000500020010-4_djvu.txt",
+"text": "It answered to the United States Intelligence Board: 'The STIC will advise USIB on scientific and technical matters within the Committee's areas of concern. The STIC, in support of USIB, will also review, stimulate, guide, and coordinate collection activity and information processing in response to resource management objectives in these areas.'",
+"tier": 1
+},
+{
+"source": "CHARTER, Scientific and Technical Intelligence Committee, 23 October 1974, CIA-RDP79M00098A000500020010-4, https://archive.org/download/cia-readingroom-document-cia-rdp79m00098a000500020010-4/cia-rdp79m00098a000500020010-4_djvu.txt",
+"text": "Its stated purpose was early warning: 'to provide early warning of foreign scientific or technical advances, whether indigenous or imported, which could affect significantly the national security or national welfare of the United States.' Its initial substructure was three subcommittees, nine advisory groups and two working groups, including advisory groups on Behavioral and Human Engineering and on Lasers and Electro-optics.",
+"tier": 1
+},
+{
+"source": "Memorandum, Letter of Instruction, Scientific and Technical Intelligence Committee, 3 August 1975, CIA-RDP80M01133A000100210002-3, https://archive.org/download/cia-readingroom-document-cia-rdp80m01133a000100210002-3/cia-rdp80m01133a000100210002-3_djvu.txt",
+"text": "The committee was still operating in 1975 under a Letter of Instruction from the Deputy to the DCI for the Intelligence Community, which directed it to 'Complete the reorganization of the STIC and the transfer of subgroups to GMAIC during August 1975' and to coordinate all intelligence community activity on foreign science and technology that might lead to future threats to the US.",
+"tier": 1
+}
+],
+"cls": "institution",
+"cluster": "ic",
+"connections": [
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "Chartered under the DCI structure; instructed by the Deputy to the DCI for the Intelligence Community",
+"id": "cia",
+"l0": true,
+"label": "Central Intelligence Agency",
+"note": "The 1974 charter takes effect when the appropriate DCID is approved, and the 1975 Letter of Instruction is addressed to the Deputy to the DCI for the Intelligence Community, placing the committee inside the DCI's community machinery.",
+"sources": [
+{
+"date": "1975-08-03",
+"name": "CHARTER, STIC, 23 October 1974, and Letter of Instruction, 3 August 1975",
+"url": "https://archive.org/details/cia-readingroom-document-cia-rdp80m01133a000100210002-3"
+}
+],
+"tier": "A",
+"type": "institutional"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "1974-10-23",
+"deg": 1,
+"denials": [],
+"desc": "STIC was the United States Intelligence Board's standing committee on scientific and technical intelligence, renamed from the Scientific Intelligence Committee by a charter of 23 October 1974 to reflect a shift of emphasis toward technology. Its operating precept was early warning of foreign scientific or technical advances affecting national security, and it advised, and coordinated collection and production for, the USIB in those areas. Its charter lists among its Priority Group II objectives the assessment and establishment of an Intelligence Community position regarding certain unidentified foreign activities and anomalies in the science and technology area, which places a standing community mechanism for exactly that question inside the intelligence structure of the 1970s. A Letter of Instruction of 3 August 1975 shows the committee still operating under the Deputy to the DCI for the Intelligence Community and reorganising its subgroups.",
+"domains": [
+"area52-2026-09-02"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "1",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "stic-usib",
+"l0": false,
+"label": "Scientific and Technical Intelligence Committee (USIB)",
+"locLabel": null,
+"members": null,
+"short": "Scientific and Technical Intelligence Committee (USIB)",
+"sources": [
+{
+"date": "1974-10-23",
+"name": "CHARTER, Scientific and Technical Intelligence Committee, 23 October 1974 (CIA-RDP79M00098A000500020010-4)",
+"url": "https://archive.org/details/cia-readingroom-document-cia-rdp79m00098a000500020010-4"
+},
+{
+"date": "1975-08-03",
+"name": "Memorandum, Letter of Instruction, Scientific and Technical Intelligence Committee, 3 August 1975 (CIA-RDP80M01133A000100210002-3)",
+"url": "https://archive.org/details/cia-readingroom-document-cia-rdp80m01133a000100210002-3"
+},
+{
+"date": "2026-09-02",
+"name": "FAS list of Director of Central Intelligence Directives, listing DCID 3/5P Scientific and Technical Intelligence Committee",
+"url": "https://irp.fas.org/offdocs/dcid.htm"
+},
+{
+"date": null,
+"name": "CHARTER, Scientific and Technical Intelligence Committee, 23 October 1974, CIA-RDP79M00098A000500020010-4, CIA reading-room mirror",
+"url": "https://archive.org/download/cia-readingroom-document-cia-rdp79m00098a000500020010-4/cia-rdp79m00098a000500020010-4_djvu.txt"
+},
+{
+"date": null,
+"name": "Memorandum, Letter of Instruction, Scientific and Technical Intelligence Committee, 3 August 1975, CIA-RDP80M01133A000100210002-3",
+"url": "https://archive.org/download/cia-readingroom-document-cia-rdp80m01133a000100210002-3/cia-rdp80m01133a000100210002-3_djvu.txt"
+}
+],
+"sub": "Standing USIB committee, renamed from the Scientific Intelligence Committee in 1974; chartered to form a community position on unidentified foreign activities and anomalies",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 563 of 1027, score 27). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A3/D1.",
+"timeline": [
+{
+"date": "1974-10-23",
+"id": "tl-1974-10-23-stic-charter",
+"label": "The USIB charters a standing committee tasked with anomalies by name",
+"precision": "day",
+"strand": "oversight",
+"text": "The charter of the Scientific and Technical Intelligence Committee records the renaming from the Scientific Intelligence Committee and lists among its Priority Group II objectives the 'Assessment and establishment of an Intelligence Community position regarding certain unidentified foreign activities and anomalies in the S&T area'. The committee advises the United States Intelligence Board and coordinates collection and production in those areas. Nothing in the charter mentions the Robertson Panel.",
+"tier": "B"
+}
+]
+}

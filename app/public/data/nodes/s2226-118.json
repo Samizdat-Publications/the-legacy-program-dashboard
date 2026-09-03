@@ -1,0 +1,113 @@
+{
+"A": 0,
+"C": 0,
+"D": 0,
+"band": null,
+"claims": [
+{
+"source": "BILLS-118s2226es table of contents",
+"text": "S. 2226 as engrossed in the Senate contains Division G, 'UNIDENTIFIED ANOMALOUS PHENOMENA DISCLOSURE', secs. 9001-9015, positioned between Division F (AUKUS/State Department matters, Titles LXI-LXVIII) and Division H (Architect of the Capitol Appointment Act of 2023).",
+"tier": 1
+},
+{
+"source": "congress.gov S.Amdt.797 overview page (Wayback 2024-12-18)",
+"text": "S.Amdt. 797 amends S. 2226, 'National Defense Authorization Act for Fiscal Year 2024'; sponsor Sen. Schumer, Charles E. [D-NY], submitted 07/13/2023, 5 cosponsors.",
+"tier": 1
+}
+],
+"cls": "legislation",
+"cluster": "other",
+"connections": [
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": "2023-07-13",
+"direction": "in",
+"edgeLabel": "amendment to",
+"id": "samdt-797",
+"l0": true,
+"label": "S.Amdt. 797 to S. 2226 (Schumer-Rounds UAP Disclosure Act amendment)",
+"note": "congress.gov: 'Amends Bill: S.2226 - National Defense Authorization Act for Fiscal Year 2024'.",
+"sources": [
+{
+"date": "2024-12-18",
+"name": "congress.gov, S.Amdt.797 to S.2226 overview (Wayback capture 2024-12-18)",
+"url": "https://web.archive.org/web/20241218191945/https://www.congress.gov/amendment/118th-congress/senate-amendment/797"
+}
+],
+"tier": "B",
+"type": "legislative"
+},
+{
+"claimTier": 1,
+"cls": "legislation",
+"dateEnd": null,
+"dateStart": "2023-07-27",
+"direction": "in",
+"edgeLabel": "incorporated as Division G, secs. 9001-9015",
+"id": "uapda-2023",
+"l0": true,
+"label": "UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)",
+"note": "S. 2226 as engrossed in the Senate contains Division G in full.",
+"sources": [
+{
+"date": "2023-07-27",
+"name": "S. 2226, 118th Congress, Engrossed in Senate (BILLS-118s2226es) - contains DIVISION G, UAP Disclosure Act of 2023, secs. 9001-9015",
+"url": "https://www.govinfo.gov/content/pkg/BILLS-118s2226es/html/BILLS-118s2226es.htm"
+}
+],
+"tier": "A",
+"type": "legislative"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": null,
+"deg": 2,
+"denials": [],
+"desc": "S. 2226, the Senate's National Defense Authorization Act for Fiscal Year 2024. As engrossed in the Senate on 27 July 2023 it carried DIVISION G--UNIDENTIFIED ANOMALOUS PHENOMENA DISCLOSURE (secs. 9001-9015), the full UAP Disclosure Act of 2023. The FY2024 NDAA was ultimately enacted through the House vehicle H.R. 2670 as Public Law 118-31, with Division G reduced to three sections.",
+"domains": [
+"_rs-legislation"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "nd",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "s2226-118",
+"l0": false,
+"label": "S. 2226 (118th Congress) - Senate FY2024 NDAA vehicle for the UAP Disclosure Act",
+"locLabel": null,
+"members": null,
+"short": "S. 2226 (118th Congress) - Senate FY2024 NDAA vehicle for the UAP Disclosure Act",
+"sources": [
+{
+"date": "2023-07-27",
+"name": "S. 2226, 118th Congress, Engrossed in Senate (BILLS-118s2226es) - contains DIVISION G, UAP Disclosure Act of 2023, secs. 9001-9015",
+"url": "https://www.govinfo.gov/content/pkg/BILLS-118s2226es/html/BILLS-118s2226es.htm"
+},
+{
+"date": "2024-12-18",
+"name": "congress.gov, S.Amdt.797 to S.2226 overview (Wayback capture 2024-12-18)",
+"url": "https://web.archive.org/web/20241218191945/https://www.congress.gov/amendment/118th-congress/senate-amendment/797"
+}
+],
+"sub": "disclosure-legislation",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 1010 of 1027, score 8). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D0.",
+"timeline": [
+{
+"date": "2023-07-27",
+"id": "tl-2023-07-27-s2226es",
+"label": "Senate passes S. 2226 carrying the full UAP Disclosure Act",
+"precision": "day",
+"strand": "program",
+"text": "S. 2226 as engrossed in the Senate contains DIVISION G--UNIDENTIFIED ANOMALOUS PHENOMENA DISCLOSURE, secs. 9001-9015, in full: the Records Collection, the Review Board, the eminent-domain provision, the 25-year disclosure deadline, and the appropriations authorization.",
+"tier": "A"
+}
+]
+}

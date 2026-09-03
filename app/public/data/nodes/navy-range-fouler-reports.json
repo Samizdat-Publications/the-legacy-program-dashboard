@@ -1,0 +1,179 @@
+{
+"A": 2,
+"C": 1,
+"D": 3,
+"band": null,
+"claims": [
+{
+"source": "Navy FOIA release reported by The War Zone, 14 January 2023",
+"text": "72 range fouler reports covering 2004-2021, previously Secret//FVEY, were released through the Navy FOIA reading room on 13 January 2023.",
+"tier": 1
+},
+{
+"source": "Navy range fouler report, released 13 January 2023",
+"text": "The 14 Nov 2004 report describes the object as 'solid white, smooth, with no edges ... approximately 46 feet in length.'",
+"tier": 1
+},
+{
+"source": "Navy range fouler report on the 14 Nov 2004 incident, released 13 January 2023",
+"text": "'Pilots reported the incident through Intelligence Personnel. Reporting terminated at 3rd Fleet, there was no process to share the reporting.'",
+"tier": 1
+},
+{
+"source": "The War Zone analysis of the release, 14 January 2023",
+"text": "The set contains no reports from 2005-2007, 2009-2012, 2017 or 2020, and nearly 40 percent of the released reports are from 2021.",
+"tier": 1
+}
+],
+"cls": "document",
+"cluster": "witness",
+"connections": [
+{
+"claimTier": 2,
+"cls": "document",
+"dateEnd": "2023",
+"dateStart": "2015",
+"direction": "out",
+"edgeLabel": "Two independent traces of the same suppression at fleet level",
+"id": "gallaudet-2015-email",
+"l0": false,
+"label": "Fleet Forces Command 'URGENT SAFETY OF FLIGHT ISSUE' Email (Jan 2015, recalled)",
+"note": "The range fouler set records reporting terminating at Third Fleet with no dissemination process; Gallaudet records a Fleet Forces Command safety message deleted within a day.",
+"sources": [
+{
+"date": "2023-01-14",
+"name": "The War Zone - Tic Tac incident in newly released range fouler reports",
+"url": "https://www.twz.com/tic-tac-uap-incident-included-in-72-newly-released-range-incursion-reports"
+},
+{
+"date": "2024-11-13",
+"name": "House Oversight - Gallaudet written testimony (PDF)",
+"url": "https://oversight.house.gov/wp-content/uploads/2024/11/Updated-Testimony-Gallaudet.pdf"
+}
+],
+"tier": "B",
+"type": "behavioral"
+},
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": "2023",
+"dateStart": "2004",
+"direction": "in",
+"edgeLabel": "The 2004 incident is formally documented in the Navy's own range fouler reporting",
+"id": "nimitz-2004",
+"l0": true,
+"label": "USS Nimitz Carrier Strike Group Encounters, 10-16 November 2004",
+"note": "The January 2023 FOIA release proves the encounter was reported inside the Navy through intelligence personnel and then died at Third Fleet with no dissemination process.",
+"sources": [
+{
+"date": "2023-01-14",
+"name": "The War Zone - Tic Tac incident in newly released range fouler reports",
+"url": "https://www.twz.com/tic-tac-uap-incident-included-in-72-newly-released-range-incursion-reports"
+}
+],
+"tier": "A",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": "2026",
+"dateStart": "2023",
+"direction": "in",
+"edgeLabel": "Two decades of aviator records released only under external pressure",
+"id": "pursue-releases",
+"l0": true,
+"label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters",
+"note": "The 2023 range fouler release came via FOIA; the 2026 PURSUE releases came via presidential directive. Neither came from the reporting system that was supposed to surface them.",
+"sources": [
+{
+"date": "2023-01-14",
+"name": "The War Zone - Tic Tac incident in newly released range fouler reports",
+"url": "https://www.twz.com/tic-tac-uap-incident-included-in-72-newly-released-range-incursion-reports"
+},
+{
+"date": "2026-08-12",
+"name": "Department of War - PURSUE release site",
+"url": "https://www.war.gov/UFO/"
+}
+],
+"tier": "A",
+"type": "temporal"
+},
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": "2021",
+"dateStart": "2004",
+"direction": "out",
+"edgeLabel": "Reporting volume tracks the existence of a channel, not the phenomenon",
+"id": "uap-task-force",
+"l0": true,
+"label": "Unidentified Aerial Phenomena Task Force (UAPTF)",
+"note": "The set contains no reports from 2005-2007, 2009-2012, 2017 or 2020, and nearly 40 percent from 2021 alone - the year after the Task Force was stood up.",
+"sources": [
+{
+"date": "2023-01-14",
+"name": "The War Zone - Tic Tac incident in newly released range fouler reports",
+"url": "https://www.twz.com/tic-tac-uap-incident-included-in-72-newly-released-range-incursion-reports"
+}
+],
+"tier": "A",
+"type": "institutional"
+}
+],
+"coords": null,
+"dateEnd": "2021",
+"dateStart": "2004",
+"deg": 4,
+"denials": [],
+"desc": "Seventy-two heavily redacted Navy 'range fouler' reports covering incidents from 2004 to 2021, released through the Navy's FOIA reading room on 13 January 2023, previously classified Secret with distribution limited to the Five Eyes. This is the most important primary-document set on the aviator strand because it proves the encounters were formally reported inside the Navy and then went nowhere. The report on the 14 November 2004 Nimitz incident describes the object as 'solid white, smooth, with no edges ... uniformly colored with no nacelles, pylons, or wings ... approximately 46 feet in length,' names Fravor and Dietrich as aircrew, and then records the disposition in one devastating line: 'Pilots reported the incident through Intelligence Personnel. Reporting terminated at 3rd Fleet, there was no process to share the reporting.' The distribution of the set is itself evidence: no reports at all from 2005-2007, 2009-2012, 2017 or 2020, and nearly 40 percent of the released reports from 2021 alone - a pattern consistent with reporting volume tracking the existence of a channel rather than the existence of the phenomenon.",
+"domains": [
+"aviators-incidents"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "2",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "navy-range-fouler-reports",
+"l0": false,
+"label": "Navy Range Fouler Reports (72 reports, 2004-2021)",
+"locLabel": null,
+"members": null,
+"short": "Navy Range Fouler Reports (72 reports, 2004-2021)",
+"sources": [
+{
+"date": "2023-01-14",
+"name": "The War Zone - Tic Tac incident in newly released range incursion reports",
+"url": "https://www.twz.com/tic-tac-uap-incident-included-in-72-newly-released-range-incursion-reports"
+}
+],
+"sub": "FOIA release, Navy FOIA reading room, 13 Jan 2023",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 414 of 1027, score 32). 4 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D3.",
+"timeline": [
+{
+"date": "2004-11-16",
+"id": "av-2004-11-16",
+"label": "Reporting terminates at Third Fleet",
+"precision": "month",
+"strand": "coverup",
+"text": "The Navy range fouler report on the incident records: 'Pilots reported the incident through Intelligence Personnel. Reporting terminated at 3rd Fleet, there was no process to share the reporting.'",
+"tier": "A"
+},
+{
+"date": "2023-01-13",
+"id": "av-2023-01-13",
+"label": "72 range fouler reports released",
+"precision": "day",
+"strand": "oversight",
+"text": "The Navy releases 72 previously Secret//FVEY range fouler reports covering 2004-2021, including the Nimitz report describing a 46-foot object with no nacelles, pylons or wings.",
+"tier": "A"
+}
+]
+}

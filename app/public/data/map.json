@@ -1,0 +1,5645 @@
+{
+ "bands": [
+  {
+   "id": "reverse-engineering",
+   "label": "reverse engineering"
+  },
+  {
+   "id": "retrieval",
+   "label": "retrieval"
+  },
+  {
+   "id": "custody",
+   "label": "custody"
+  },
+  {
+   "id": "funding",
+   "label": "funding"
+  },
+  {
+   "id": "research",
+   "label": "research"
+  },
+  {
+   "id": "oversight",
+   "label": "oversight"
+  },
+  {
+   "id": "disclosure",
+   "label": "disclosure"
+  }
+ ],
+ "cells": {
+  "custody.0": [
+   "atomic-energy-commission",
+   "mitre-corporation",
+   "project-blue-book"
+  ],
+  "custody.1": [
+   "dod-sapco",
+   "mj-12-documents",
+   "sac-overflights-1975"
+  ],
+  "custody.2": [
+   "nimitz-2004",
+   "ousdi",
+   "roosevelt-2014-2015"
+  ],
+  "custody.3": [
+   "aaro",
+   "burlison-mitre-letter-2026",
+   "nara-rg615",
+   "nara-uap-collection",
+   "pursue-releases",
+   "samdt-797",
+   "uapda-2023"
+  ],
+  "disclosure.0": [
+   "nsa"
+  ],
+  "disclosure.1": [
+   "roswell-report-case-closed",
+   "yankee-blue"
+  ],
+  "disclosure.3": [
+   "nyt-2017-12-16"
+  ],
+  "funding.0": [
+   "nro",
+   "rand-corporation",
+   "senate-armed-services",
+   "sri-international",
+   "us-house"
+  ],
+  "funding.1": [
+   "carve-out",
+   "classified-annex",
+   "inscom",
+   "nids",
+   "stargate-program",
+   "usc-10-119",
+   "waived-usap",
+   "waived-usap-mechanism"
+  ],
+  "funding.2": [
+   "dodi-5205-11",
+   "nip",
+   "university-at-albany"
+  ],
+  "funding.3": [
+   "dod-agencywide-audit",
+   "grusch-misappropriation-allegation",
+   "hearing-2023-07-26",
+   "iaa-fy2024-7343",
+   "ndaa-fy2024",
+   "ndaa-fy2024-1687",
+   "ndaa-fy2026"
+  ],
+  "oversight.0": [
+   "house-oversight-committee",
+   "nicap"
+  ],
+  "oversight.1": [
+   "church-committee",
+   "isoo",
+   "oversight-congress"
+  ],
+  "oversight.2": [
+   "eo-13526"
+  ],
+  "oversight.3": [
+   "aaro-fy2024-annual-report",
+   "aaro-historical-record-vol1",
+   "congressional-uap-caucus",
+   "hearing-2024-11-13",
+   "immaculate-constellation",
+   "immaculate-constellation-12-page-report",
+   "langley-2023-incursions",
+   "odni-memo-es-2026-00818",
+   "odni-preliminary-assessment-2021",
+   "sol-foundation",
+   "task-force-declassification-federal-secrets",
+   "uap-science-advisory-council",
+   "uapda-fy2027-house-adopted"
+  ],
+  "oversight.nd": [
+   "waived-sap-notification-group"
+  ],
+  "research.0": [
+   "afswc-tr-59-39",
+   "atic",
+   "battelle",
+   "blue-book-special-report-14",
+   "condon-committee",
+   "eg-and-g",
+   "fab",
+   "lockheed-skunk-works",
+   "nasa",
+   "robertson-panel",
+   "sandia"
+  ],
+  "research.1": [
+   "cefaa",
+   "cometa",
+   "ev-noite-ovnis-1986",
+   "operacao-prato",
+   "setka-program"
+  ],
+  "research.2": [
+   "arquivo-nacional-ufo",
+   "doc-condign-report",
+   "doc-condign-vol3",
+   "geipan",
+   "odni",
+   "pais-patent-imrd"
+  ],
+  "research.3": [
+   "aaro-fy2025-annual-report",
+   "aaro-historical-record-vol2",
+   "americans-for-safe-aerospace",
+   "galileo-project",
+   "gerb-mitre-investigation",
+   "michels-gerb-structural-episode",
+   "nasa-uap-ist",
+   "paper-nolan-vallee-2022",
+   "sky-canada-project",
+   "uap-task-force"
+  ],
+  "research.nd": [
+   "ndaa-fy2023-sec-6802",
+   "senado-brasil",
+   "us-navy",
+   "wayne-state-university"
+  ],
+  "retrieval.0": [
+   "afosi",
+   "aztec-1948",
+   "cia",
+   "dod",
+   "roswell-1947",
+   "usaf"
+  ],
+  "retrieval.1": [
+   "gao-nsiad-95-187",
+   "rendlesham-1980",
+   "stringfield-status-reports"
+  ],
+  "retrieval.3": [
+   "hearing-2025-09-09",
+   "iaa-fy2024-sec-1102"
+  ],
+  "reverse-engineering.0": [
+   "dia",
+   "manhattan-project-2"
+  ],
+  "reverse-engineering.1": [
+   "doe",
+   "earthtech-international",
+   "lockheed-martin"
+  ],
+  "reverse-engineering.2": [
+   "aatip",
+   "aawsap",
+   "baass",
+   "kona-blue",
+   "wilson-davis-memo"
+  ],
+  "reverse-engineering.3": [
+   "adam-research-project",
+   "ndaa-fy2022-sec-1683",
+   "ttsa",
+   "ttsa-army-crada"
+  ],
+  "reverse-engineering.nd": [
+   "dird-series"
+  ]
+ },
+ "denialPairs": [
+  {
+   "by": "aaro",
+   "kind": "directed",
+   "label": "the office has not published the volume it committed to for over two years",
+   "of": "aaro-historical-record-vol2"
+  },
+  {
+   "by": "aaro",
+   "kind": "directed",
+   "label": "AARO's reports address the retrieval claims and say nothing about the funding claims",
+   "of": "grusch-misappropriation-allegation"
+  },
+  {
+   "by": "aaro",
+   "kind": "association",
+   "label": "Witnesses testified AARO holds unreleased UAP video",
+   "of": "hearing-2025-09-09"
+  },
+  {
+   "by": "aaro",
+   "kind": "directed",
+   "label": "AARO has never publicly addressed the alleged programme entered into the congressional record",
+   "of": "immaculate-constellation"
+  },
+  {
+   "by": "aaro",
+   "kind": "association",
+   "label": "Release programme runs parallel to, not in place of, AARO reporting",
+   "of": "pursue-releases"
+  },
+  {
+   "by": "aaro",
+   "kind": "undirected",
+   "label": "Pentagon spokesperson could not confirm the existence of the memo",
+   "of": "yankee-blue"
+  },
+  {
+   "by": "aaro-fy2025-annual-report",
+   "kind": "directed",
+   "label": "'AARO did not receive reports indicating flight safety concerns during this reporting period'",
+   "of": "americans-for-safe-aerospace"
+  },
+  {
+   "by": "aaro-fy2025-annual-report",
+   "kind": "directed",
+   "label": "'No evidence suggests that a USG or private entity has ever captured or exploited UAP-derived materials'",
+   "of": "dod"
+  },
+  {
+   "by": "aaro-fy2025-annual-report",
+   "kind": "directed",
+   "label": "No AARO product has ever addressed the name in the Record",
+   "of": "immaculate-constellation-12-page-report"
+  },
+  {
+   "by": "aaro-fy2025-annual-report",
+   "kind": "directed",
+   "label": "The 2026 official denial is maintained without any inspection of contractor holdings",
+   "of": "lockheed-martin"
+  },
+  {
+   "by": "aaro-fy2025-annual-report",
+   "kind": "directed",
+   "label": "The statutory report never mentions the department's own release programme",
+   "of": "pursue-releases"
+  },
+  {
+   "by": "aaro-historical-record-vol1",
+   "kind": "directed",
+   "label": "March 2024: 'no evidence for the USG reverse-engineering narrative provided by interviewees'",
+   "of": "aatip"
+  },
+  {
+   "by": "aaro-historical-record-vol1",
+   "kind": "directed",
+   "label": "official history confirms the money, closes the file",
+   "of": "aawsap"
+  },
+  {
+   "by": "aaro-historical-record-vol1",
+   "kind": "directed",
+   "label": "AARO's legacy review does not address the documented records destruction",
+   "of": "gao-nsiad-95-187"
+  },
+  {
+   "by": "aaro-historical-record-vol1",
+   "kind": "directed",
+   "label": "Volume I's 'no NDAs' finding against Elizondo's sworn SCIF testimony",
+   "of": "hearing-2024-11-13"
+  },
+  {
+   "by": "aaro-historical-record-vol1",
+   "kind": "directed",
+   "label": "AARO's 2024 review does not address MJ-12 or AQUARIUS",
+   "of": "mj-12-documents"
+  },
+  {
+   "by": "aaro-historical-record-vol1",
+   "kind": "directed",
+   "label": "AARO's 2024 historical review does not mention Rendlesham",
+   "of": "rendlesham-1980"
+  },
+  {
+   "by": "aaro-historical-record-vol1",
+   "kind": "directed",
+   "label": "AARO reaffirms MOGUL and finds no recovered extraterrestrial material",
+   "of": "roswell-1947"
+  },
+  {
+   "by": "aaro-historical-record-vol1",
+   "kind": "directed",
+   "label": "AARO's 2024 historical review does not address the 1975 nuclear-base overflights",
+   "of": "sac-overflights-1975"
+  },
+  {
+   "by": "aaro-historical-record-vol1",
+   "kind": "directed",
+   "label": "AARO's 2024 review does not mention the Wilson-Davis notes or Admiral Wilson",
+   "of": "wilson-davis-memo"
+  },
+  {
+   "by": "aaro-historical-record-vol1",
+   "kind": "directed",
+   "label": "Volume I found 'no NDAs that contain information related to UAP' - contradicted by the Yankee Blue record",
+   "of": "yankee-blue"
+  },
+  {
+   "by": "aaro-historical-record-vol2",
+   "kind": "association",
+   "label": "sixteen gigabytes released, one promised report unpublished",
+   "of": "pursue-releases"
+  },
+  {
+   "by": "afosi",
+   "kind": "directed",
+   "label": "AFOSI states it holds no records of any YANKEE BLUE investigation",
+   "of": "yankee-blue"
+  },
+  {
+   "by": "church-committee",
+   "kind": "undirected",
+   "label": "Named by the committee as having limited its access to the full record",
+   "of": "cia"
+  },
+  {
+   "by": "cia",
+   "kind": "directed",
+   "label": "CIA alleged to have terminated the programme",
+   "of": "kona-blue"
+  },
+  {
+   "by": "cia",
+   "kind": "directed",
+   "label": "CIA is alleged to have blocked the divestment of material from the contractor to BAASS",
+   "of": "lockheed-martin"
+  },
+  {
+   "by": "cia",
+   "kind": "directed",
+   "label": "Produced no records for the first statutory UAP transfer",
+   "of": "nara-uap-collection"
+  },
+  {
+   "by": "cia",
+   "kind": "directed",
+   "label": "directed to release; absent from the statutory archive",
+   "of": "odni-memo-es-2026-00818"
+  },
+  {
+   "by": "condon-committee",
+   "kind": "directed",
+   "label": "The Condon report was the stated basis for terminating Blue Book",
+   "of": "project-blue-book"
+  },
+  {
+   "by": "dia",
+   "kind": "directed",
+   "label": "Produced no records for the first statutory UAP transfer",
+   "of": "nara-uap-collection"
+  },
+  {
+   "by": "dia",
+   "kind": "directed",
+   "label": "directed to release; absent from the statutory archive",
+   "of": "odni-memo-es-2026-00818"
+  },
+  {
+   "by": "dod",
+   "kind": "directed",
+   "label": "Air Force denials of Hangar 18 bodies",
+   "of": "aztec-1948"
+  },
+  {
+   "by": "dod",
+   "kind": "directed",
+   "label": "Told committee staff that only HASC and HAC-D members could be read in on UAP special access programs",
+   "of": "house-oversight-committee"
+  },
+  {
+   "by": "dod",
+   "kind": "directed",
+   "label": "DoD spokesperson Sue Gough: no record of any SAP by that name",
+   "of": "immaculate-constellation"
+  },
+  {
+   "by": "dod",
+   "kind": "directed",
+   "label": "Pentagon says it has no record of the program described in the document entered into the Congressional Record",
+   "of": "immaculate-constellation-12-page-report"
+  },
+  {
+   "by": "dod",
+   "kind": "undirected",
+   "label": "Release volume without release quality",
+   "of": "pursue-releases"
+  },
+  {
+   "by": "dod",
+   "kind": "directed",
+   "label": "Committee finding of non-cooperation by DoD and the IC",
+   "of": "us-house"
+  },
+  {
+   "by": "dod-sapco",
+   "kind": "association",
+   "label": "Contractor disclosure to Congress requires the approval of the office being disclosed about",
+   "of": "oversight-congress"
+  },
+  {
+   "by": "doe",
+   "kind": "directed",
+   "label": "DOE produced nothing for the first statutory UAP records transfer",
+   "of": "nara-uap-collection"
+  },
+  {
+   "by": "doe",
+   "kind": "directed",
+   "label": "directed to release; absent from the statutory archive",
+   "of": "odni-memo-es-2026-00818"
+  },
+  {
+   "by": "lockheed-martin",
+   "kind": "directed",
+   "label": "Executives and CTOs of the unnamed 'named companies' denied recovery or possession to AARO's Director on the record",
+   "of": "aaro-historical-record-vol1"
+  },
+  {
+   "by": "manhattan-project-2",
+   "kind": "undirected",
+   "label": "Non-Covert Action Programs alleged to carry waived reporting requirements",
+   "of": "ousdi"
+  },
+  {
+   "by": "mitre-corporation",
+   "kind": "directed",
+   "label": "MITRE routes the answer back through its sponsoring agencies",
+   "of": "burlison-mitre-letter-2026"
+  },
+  {
+   "by": "mitre-corporation",
+   "kind": "directed",
+   "label": "Alleged 2011 restriction on historical briefings about program incumbents",
+   "of": "gerb-mitre-investigation"
+  },
+  {
+   "by": "mitre-corporation",
+   "kind": "directed",
+   "label": "Conditions any production on coordination with the sponsoring federal agencies",
+   "of": "house-oversight-committee"
+  },
+  {
+   "by": "ndaa-fy2026",
+   "kind": "undirected",
+   "label": "Third consecutive Act enacted without the Senate's own passed text",
+   "of": "uapda-2023"
+  },
+  {
+   "by": "nicap",
+   "kind": "undirected",
+   "label": "Charged the Air Force with an intolerable degree of secrecy, in print, to Congress",
+   "of": "usaf"
+  },
+  {
+   "by": "nro",
+   "kind": "directed",
+   "label": "Produced no records for the first statutory UAP transfer",
+   "of": "nara-uap-collection"
+  },
+  {
+   "by": "nro",
+   "kind": "directed",
+   "label": "directed to release; absent from the statutory archive",
+   "of": "odni-memo-es-2026-00818"
+  },
+  {
+   "by": "nsa",
+   "kind": "directed",
+   "label": "Produced no records for the first statutory UAP transfer",
+   "of": "nara-uap-collection"
+  },
+  {
+   "by": "sol-foundation",
+   "kind": "undirected",
+   "label": "Advisory seat conditioned on unclassified-only access",
+   "of": "uap-science-advisory-council"
+  }
+ ],
+ "direct": [
+  {
+   "a": "aaro",
+   "b": "aaro-fy2024-annual-report",
+   "tier": 1,
+   "types": [
+    "institutional"
+   ]
+  },
+  {
+   "a": "aaro",
+   "b": "aaro-fy2025-annual-report",
+   "tier": 1,
+   "types": [
+    "institutional"
+   ]
+  },
+  {
+   "a": "aaro",
+   "b": "aaro-historical-record-vol1",
+   "tier": 1,
+   "types": [
+    "institutional"
+   ]
+  },
+  {
+   "a": "aaro",
+   "b": "aaro-historical-record-vol2",
+   "tier": 1,
+   "types": [
+    "denial",
+    "institutional"
+   ]
+  },
+  {
+   "a": "aaro",
+   "b": "dod-sapco",
+   "tier": 1,
+   "types": [
+    "investigative"
+   ]
+  },
+  {
+   "a": "aaro",
+   "b": "grusch-misappropriation-allegation",
+   "tier": 1,
+   "types": [
+    "denial"
+   ]
+  },
+  {
+   "a": "aaro",
+   "b": "hearing-2025-09-09",
+   "tier": 2,
+   "types": [
+    "denial"
+   ]
+  },
+  {
+   "a": "aaro",
+   "b": "immaculate-constellation",
+   "tier": 2,
+   "types": [
+    "denial"
+   ]
+  },
+  {
+   "a": "aaro",
+   "b": "nasa",
+   "tier": 1,
+   "types": [
+    "research"
+   ]
+  },
+  {
+   "a": "aaro",
+   "b": "ndaa-fy2023-sec-6802",
+   "tier": 1,
+   "types": [
+    "programmatic"
+   ]
+  },
+  {
+   "a": "aaro",
+   "b": "odni-memo-es-2026-00818",
+   "tier": 1,
+   "types": [
+    "programmatic"
+   ]
+  },
+  {
+   "a": "aaro",
+   "b": "odni-preliminary-assessment-2021",
+   "tier": 1,
+   "types": [
+    "institutional"
+   ]
+  },
+  {
+   "a": "aaro",
+   "b": "ousdi",
+   "tier": 1,
+   "types": [
+    "institutional"
+   ]
+  },
+  {
+   "a": "aaro",
+   "b": "pursue-releases",
+   "tier": 1,
+   "types": [
+    "denial",
+    "institutional"
+   ]
+  },
+  {
+   "a": "aaro",
+   "b": "sky-canada-project",
+   "tier": 1,
+   "types": [
+    "research"
+   ]
+  },
+  {
+   "a": "aaro",
+   "b": "uap-science-advisory-council",
+   "tier": 2,
+   "types": [
+    "institutional"
+   ]
+  },
+  {
+   "a": "aaro",
+   "b": "yankee-blue",
+   "tier": 1,
+   "types": [
+    "denial",
+    "investigative"
+   ]
+  },
+  {
+   "a": "aaro-fy2024-annual-report",
+   "b": "aaro-fy2025-annual-report",
+   "tier": 1,
+   "types": [
+    "temporal"
+   ]
+  },
+  {
+   "a": "aaro-fy2024-annual-report",
+   "b": "hearing-2024-11-13",
+   "tier": 1,
+   "types": [
+    "temporal"
+   ]
+  },
+  {
+   "a": "aaro-fy2024-annual-report",
+   "b": "ndaa-fy2023-sec-6802",
+   "tier": 1,
+   "types": [
+    "programmatic"
+   ]
+  },
+  {
+   "a": "aaro-fy2025-annual-report",
+   "b": "americans-for-safe-aerospace",
+   "tier": 1,
+   "types": [
+    "denial"
+   ]
+  },
+  {
+   "a": "aaro-fy2025-annual-report",
+   "b": "dod",
+   "tier": 1,
+   "types": [
+    "denial"
+   ]
+  },
+  {
+   "a": "aaro-fy2025-annual-report",
+   "b": "doe",
+   "tier": 1,
+   "types": [
+    "investigative"
+   ]
+  },
+  {
+   "a": "aaro-fy2025-annual-report",
+   "b": "fab",
+   "tier": 1,
+   "types": [
+    "institutional"
+   ]
+  },
+  {
+   "a": "aaro-fy2025-annual-report",
+   "b": "immaculate-constellation-12-page-report",
+   "tier": 3,
+   "types": [
+    "denial"
+   ]
+  },
+  {
+   "a": "aaro-fy2025-annual-report",
+   "b": "lockheed-martin",
+   "tier": 1,
+   "types": [
+    "denial"
+   ]
+  },
+  {
+   "a": "aaro-fy2025-annual-report",
+   "b": "ndaa-fy2023-sec-6802",
+   "tier": 1,
+   "types": [
+    "programmatic"
+   ]
+  },
+  {
+   "a": "aaro-fy2025-annual-report",
+   "b": "odni-preliminary-assessment-2021",
+   "tier": 3,
+   "types": [
+    "temporal"
+   ]
+  },
+  {
+   "a": "aaro-fy2025-annual-report",
+   "b": "pursue-releases",
+   "tier": 3,
+   "types": [
+    "denial",
+    "temporal"
+   ]
+  },
+  {
+   "a": "aaro-historical-record-vol1",
+   "b": "aaro-historical-record-vol2",
+   "tier": 1,
+   "types": [
+    "programmatic",
+    "temporal"
+   ]
+  },
+  {
+   "a": "aaro-historical-record-vol1",
+   "b": "aatip",
+   "tier": 1,
+   "types": [
+    "denial",
+    "programmatic"
+   ]
+  },
+  {
+   "a": "aaro-historical-record-vol1",
+   "b": "aawsap",
+   "tier": 1,
+   "types": [
+    "denial"
+   ]
+  },
+  {
+   "a": "aaro-historical-record-vol1",
+   "b": "gao-nsiad-95-187",
+   "tier": 3,
+   "types": [
+    "denial"
+   ]
+  },
+  {
+   "a": "aaro-historical-record-vol1",
+   "b": "hearing-2024-11-13",
+   "tier": 3,
+   "types": [
+    "denial"
+   ]
+  },
+  {
+   "a": "aaro-historical-record-vol1",
+   "b": "kona-blue",
+   "tier": 1,
+   "types": [
+    "investigative",
+    "programmatic"
+   ]
+  },
+  {
+   "a": "aaro-historical-record-vol1",
+   "b": "lockheed-martin",
+   "tier": 1,
+   "types": [
+    "denial"
+   ]
+  },
+  {
+   "a": "aaro-historical-record-vol1",
+   "b": "mj-12-documents",
+   "tier": 1,
+   "types": [
+    "denial"
+   ]
+  },
+  {
+   "a": "aaro-historical-record-vol1",
+   "b": "ndaa-fy2023-sec-6802",
+   "tier": 1,
+   "types": [
+    "programmatic"
+   ]
+  },
+  {
+   "a": "aaro-historical-record-vol1",
+   "b": "rendlesham-1980",
+   "tier": 1,
+   "types": [
+    "denial"
+   ]
+  },
+  {
+   "a": "aaro-historical-record-vol1",
+   "b": "roswell-1947",
+   "tier": 1,
+   "types": [
+    "denial"
+   ]
+  },
+  {
+   "a": "aaro-historical-record-vol1",
+   "b": "sac-overflights-1975",
+   "tier": 1,
+   "types": [
+    "denial"
+   ]
+  },
+  {
+   "a": "aaro-historical-record-vol1",
+   "b": "uapda-2023",
+   "tier": 3,
+   "types": [
+    "legislative"
+   ]
+  },
+  {
+   "a": "aaro-historical-record-vol1",
+   "b": "wilson-davis-memo",
+   "tier": 1,
+   "types": [
+    "denial",
+    "temporal"
+   ]
+  },
+  {
+   "a": "aaro-historical-record-vol1",
+   "b": "yankee-blue",
+   "tier": 1,
+   "types": [
+    "denial",
+    "investigative"
+   ]
+  },
+  {
+   "a": "aaro-historical-record-vol2",
+   "b": "ndaa-fy2023-sec-6802",
+   "tier": 1,
+   "types": [
+    "programmatic"
+   ]
+  },
+  {
+   "a": "aaro-historical-record-vol2",
+   "b": "pursue-releases",
+   "tier": 3,
+   "types": [
+    "behavioral",
+    "denial"
+   ]
+  },
+  {
+   "a": "aaro-historical-record-vol2",
+   "b": "yankee-blue",
+   "tier": 2,
+   "types": [
+    "programmatic"
+   ]
+  },
+  {
+   "a": "aatip",
+   "b": "aawsap",
+   "tier": 1,
+   "types": [
+    "programmatic"
+   ]
+  },
+  {
+   "a": "aatip",
+   "b": "nyt-2017-12-16",
+   "tier": 1,
+   "types": [
+    "investigative"
+   ]
+  },
+  {
+   "a": "aawsap",
+   "b": "baass",
+   "tier": 1,
+   "types": [
+    "programmatic"
+   ]
+  },
+  {
+   "a": "aawsap",
+   "b": "dia",
+   "tier": 1,
+   "types": [
+    "programmatic"
+   ]
+  },
+  {
+   "a": "aawsap",
+   "b": "dird-series",
+   "tier": 1,
+   "types": [
+    "programmatic"
+   ]
+  },
+  {
+   "a": "aawsap",
+   "b": "kona-blue",
+   "tier": 1,
+   "types": [
+    "programmatic",
+    "temporal"
+   ]
+  },
+  {
+   "a": "aawsap",
+   "b": "nids",
+   "tier": 2,
+   "types": [
+    "funding"
+   ]
+  },
+  {
+   "a": "aawsap",
+   "b": "nyt-2017-12-16",
+   "tier": 1,
+   "types": [
+    "investigative"
+   ]
+  },
+  {
+   "a": "aawsap",
+   "b": "operacao-prato",
+   "tier": 2,
+   "types": [
+    "research"
+   ]
+  },
+  {
+   "a": "adam-research-project",
+   "b": "earthtech-international",
+   "tier": 1,
+   "types": [
+    "programmatic"
+   ]
+  },
+  {
+   "a": "adam-research-project",
+   "b": "ttsa",
+   "tier": 1,
+   "types": [
+    "programmatic"
+   ]
+  },
+  {
+   "a": "adam-research-project",
+   "b": "ttsa-army-crada",
+   "tier": 2,
+   "types": [
+    "programmatic"
+   ]
+  },
+  {
+   "a": "afosi",
+   "b": "usaf",
+   "tier": 1,
+   "types": [
+    "institutional"
+   ]
+  },
+  {
+   "a": "afosi",
+   "b": "yankee-blue",
+   "tier": 1,
+   "types": [
+    "denial"
+   ]
+  },
+  {
+   "a": "afswc-tr-59-39",
+   "b": "sandia",
+   "tier": 1,
+   "types": [
+    "custody"
+   ]
+  },
+  {
+   "a": "afswc-tr-59-39",
+   "b": "usaf",
+   "tier": 1,
+   "types": [
+    "programmatic"
+   ]
+  },
+  {
+   "a": "americans-for-safe-aerospace",
+   "b": "nasa-uap-ist",
+   "tier": 1,
+   "types": [
+    "programmatic"
+   ]
+  },
+  {
+   "a": "americans-for-safe-aerospace",
+   "b": "odni-preliminary-assessment-2021",
+   "tier": 1,
+   "types": [
+    "behavioral"
+   ]
+  },
+  {
+   "a": "americans-for-safe-aerospace",
+   "b": "roosevelt-2014-2015",
+   "tier": 1,
+   "types": [
+    "behavioral"
+   ]
+  },
+  {
+   "a": "arquivo-nacional-ufo",
+   "b": "fab",
+   "tier": 1,
+   "types": [
+    "custody",
+    "programmatic"
+   ]
+  },
+  {
+   "a": "arquivo-nacional-ufo",
+   "b": "geipan",
+   "tier": 2,
+   "types": [
+    "institutional"
+   ]
+  },
+  {
+   "a": "arquivo-nacional-ufo",
+   "b": "nara-rg615",
+   "tier": 1,
+   "types": [
+    "institutional"
+   ]
+  },
+  {
+   "a": "arquivo-nacional-ufo",
+   "b": "operacao-prato",
+   "tier": 1,
+   "types": [
+    "custody",
+    "programmatic"
+   ]
+  },
+  {
+   "a": "arquivo-nacional-ufo",
+   "b": "senado-brasil",
+   "tier": 1,
+   "types": [
+    "legislative"
+   ]
+  },
+  {
+   "a": "arquivo-nacional-ufo",
+   "b": "sky-canada-project",
+   "tier": 1,
+   "types": [
+    "institutional"
+   ]
+  },
+  {
+   "a": "atic",
+   "b": "blue-book-special-report-14",
+   "tier": 1,
+   "types": [
+    "institutional"
+   ]
+  },
+  {
+   "a": "atomic-energy-commission",
+   "b": "doe",
+   "tier": 1,
+   "types": [
+    "institutional"
+   ]
+  },
+  {
+   "a": "atomic-energy-commission",
+   "b": "manhattan-project-2",
+   "tier": 1,
+   "types": [
+    "custody"
+   ]
+  },
+  {
+   "a": "aztec-1948",
+   "b": "dod",
+   "tier": 2,
+   "types": [
+    "denial"
+   ]
+  },
+  {
+   "a": "aztec-1948",
+   "b": "roswell-1947",
+   "tier": 2,
+   "types": [
+    "behavioral"
+   ]
+  },
+  {
+   "a": "aztec-1948",
+   "b": "stringfield-status-reports",
+   "tier": 2,
+   "types": [
+    "research"
+   ]
+  },
+  {
+   "a": "baass",
+   "b": "dird-series",
+   "tier": 1,
+   "types": [
+    "programmatic"
+   ]
+  },
+  {
+   "a": "baass",
+   "b": "nids",
+   "tier": 2,
+   "types": [
+    "institutional",
+    "programmatic"
+   ]
+  },
+  {
+   "a": "baass",
+   "b": "operacao-prato",
+   "tier": 2,
+   "types": [
+    "research"
+   ]
+  },
+  {
+   "a": "battelle",
+   "b": "blue-book-special-report-14",
+   "tier": 2,
+   "types": [
+    "funding"
+   ]
+  },
+  {
+   "a": "battelle",
+   "b": "mitre-corporation",
+   "tier": 3,
+   "types": [
+    "behavioral"
+   ]
+  },
+  {
+   "a": "battelle",
+   "b": "roswell-1947",
+   "tier": 2,
+   "types": [
+    "custody"
+   ]
+  },
+  {
+   "a": "blue-book-special-report-14",
+   "b": "condon-committee",
+   "tier": 3,
+   "types": [
+    "investigative"
+   ]
+  },
+  {
+   "a": "blue-book-special-report-14",
+   "b": "project-blue-book",
+   "tier": 1,
+   "types": [
+    "investigative"
+   ]
+  },
+  {
+   "a": "blue-book-special-report-14",
+   "b": "pursue-releases",
+   "tier": 1,
+   "types": [
+    "temporal"
+   ]
+  },
+  {
+   "a": "burlison-mitre-letter-2026",
+   "b": "hearing-2025-09-09",
+   "tier": 3,
+   "types": [
+    "investigative"
+   ]
+  },
+  {
+   "a": "burlison-mitre-letter-2026",
+   "b": "mitre-corporation",
+   "tier": 1,
+   "types": [
+    "denial",
+    "investigative"
+   ]
+  },
+  {
+   "a": "burlison-mitre-letter-2026",
+   "b": "pursue-releases",
+   "tier": 1,
+   "types": [
+    "legislative"
+   ]
+  },
+  {
+   "a": "carve-out",
+   "b": "dod-sapco",
+   "tier": 1,
+   "types": [
+    "institutional"
+   ]
+  },
+  {
+   "a": "carve-out",
+   "b": "dodi-5205-11",
+   "tier": 1,
+   "types": [
+    "programmatic"
+   ]
+  },
+  {
+   "a": "cefaa",
+   "b": "geipan",
+   "tier": 2,
+   "types": [
+    "investigative"
+   ]
+  },
+  {
+   "a": "cefaa",
+   "b": "sky-canada-project",
+   "tier": 1,
+   "types": [
+    "research"
+   ]
+  },
+  {
+   "a": "church-committee",
+   "b": "cia",
+   "tier": 1,
+   "types": [
+    "denial"
+   ]
+  },
+  {
+   "a": "church-committee",
+   "b": "oversight-congress",
+   "tier": 1,
+   "types": [
+    "investigative"
+   ]
+  },
+  {
+   "a": "cia",
+   "b": "kona-blue",
+   "tier": 2,
+   "types": [
+    "denial"
+   ]
+  },
+  {
+   "a": "cia",
+   "b": "lockheed-martin",
+   "tier": 2,
+   "types": [
+    "denial"
+   ]
+  },
+  {
+   "a": "cia",
+   "b": "michels-gerb-structural-episode",
+   "tier": 2,
+   "types": [
+    "institutional"
+   ]
+  },
+  {
+   "a": "cia",
+   "b": "nara-uap-collection",
+   "tier": 1,
+   "types": [
+    "denial"
+   ]
+  },
+  {
+   "a": "cia",
+   "b": "nicap",
+   "tier": 1,
+   "types": [
+    "investigative"
+   ]
+  },
+  {
+   "a": "cia",
+   "b": "odni-memo-es-2026-00818",
+   "tier": 3,
+   "types": [
+    "denial"
+   ]
+  },
+  {
+   "a": "cia",
+   "b": "robertson-panel",
+   "tier": 1,
+   "types": [
+    "funding",
+    "programmatic"
+   ]
+  },
+  {
+   "a": "classified-annex",
+   "b": "dod-sapco",
+   "tier": 1,
+   "types": [
+    "funding"
+   ]
+  },
+  {
+   "a": "classified-annex",
+   "b": "waived-sap-notification-group",
+   "tier": 2,
+   "types": [
+    "funding"
+   ]
+  },
+  {
+   "a": "cometa",
+   "b": "geipan",
+   "tier": 1,
+   "types": [
+    "institutional"
+   ]
+  },
+  {
+   "a": "cometa",
+   "b": "project-blue-book",
+   "tier": 1,
+   "types": [
+    "research"
+   ]
+  },
+  {
+   "a": "cometa",
+   "b": "roswell-1947",
+   "tier": 1,
+   "types": [
+    "research"
+   ]
+  },
+  {
+   "a": "cometa",
+   "b": "setka-program",
+   "tier": 3,
+   "types": [
+    "research"
+   ]
+  },
+  {
+   "a": "condon-committee",
+   "b": "project-blue-book",
+   "tier": 1,
+   "types": [
+    "denial",
+    "programmatic"
+   ]
+  },
+  {
+   "a": "condon-committee",
+   "b": "usaf",
+   "tier": 1,
+   "types": [
+    "funding"
+   ]
+  },
+  {
+   "a": "congressional-uap-caucus",
+   "b": "waived-sap-notification-group",
+   "tier": 1,
+   "types": [
+    "institutional"
+   ]
+  },
+  {
+   "a": "dia",
+   "b": "inscom",
+   "tier": 1,
+   "types": [
+    "custody"
+   ]
+  },
+  {
+   "a": "dia",
+   "b": "nara-uap-collection",
+   "tier": 1,
+   "types": [
+    "denial"
+   ]
+  },
+  {
+   "a": "dia",
+   "b": "odni",
+   "tier": 1,
+   "types": [
+    "institutional"
+   ]
+  },
+  {
+   "a": "dia",
+   "b": "odni-memo-es-2026-00818",
+   "tier": 3,
+   "types": [
+    "denial"
+   ]
+  },
+  {
+   "a": "dia",
+   "b": "stargate-program",
+   "tier": 2,
+   "types": [
+    "institutional"
+   ]
+  },
+  {
+   "a": "dird-series",
+   "b": "earthtech-international",
+   "tier": 1,
+   "types": [
+    "funding"
+   ]
+  },
+  {
+   "a": "dird-series",
+   "b": "wayne-state-university",
+   "tier": 2,
+   "types": [
+    "research"
+   ]
+  },
+  {
+   "a": "doc-condign-report",
+   "b": "doc-condign-vol3",
+   "tier": 1,
+   "types": [
+    "custody"
+   ]
+  },
+  {
+   "a": "doc-condign-vol3",
+   "b": "setka-program",
+   "tier": 1,
+   "types": [
+    "investigative"
+   ]
+  },
+  {
+   "a": "dod",
+   "b": "dod-sapco",
+   "tier": 1,
+   "types": [
+    "institutional"
+   ]
+  },
+  {
+   "a": "dod",
+   "b": "house-oversight-committee",
+   "tier": 1,
+   "types": [
+    "denial"
+   ]
+  },
+  {
+   "a": "dod",
+   "b": "immaculate-constellation",
+   "tier": 1,
+   "types": [
+    "denial"
+   ]
+  },
+  {
+   "a": "dod",
+   "b": "immaculate-constellation-12-page-report",
+   "tier": 2,
+   "types": [
+    "denial"
+   ]
+  },
+  {
+   "a": "dod",
+   "b": "oversight-congress",
+   "tier": 1,
+   "types": [
+    "legislative"
+   ]
+  },
+  {
+   "a": "dod",
+   "b": "pursue-releases",
+   "tier": 1,
+   "types": [
+    "denial",
+    "institutional"
+   ]
+  },
+  {
+   "a": "dod",
+   "b": "setka-program",
+   "tier": 1,
+   "types": [
+    "behavioral"
+   ]
+  },
+  {
+   "a": "dod",
+   "b": "us-house",
+   "tier": 1,
+   "types": [
+    "denial"
+   ]
+  },
+  {
+   "a": "dod",
+   "b": "usc-10-119",
+   "tier": 1,
+   "types": [
+    "legislative"
+   ]
+  },
+  {
+   "a": "dod",
+   "b": "waived-sap-notification-group",
+   "tier": 1,
+   "types": [
+    "institutional"
+   ]
+  },
+  {
+   "a": "dod-agencywide-audit",
+   "b": "grusch-misappropriation-allegation",
+   "tier": 3,
+   "types": [
+    "research"
+   ]
+  },
+  {
+   "a": "dod-sapco",
+   "b": "ousdi",
+   "tier": 2,
+   "types": [
+    "institutional"
+   ]
+  },
+  {
+   "a": "dod-sapco",
+   "b": "oversight-congress",
+   "tier": 1,
+   "types": [
+    "denial"
+   ]
+  },
+  {
+   "a": "dod-sapco",
+   "b": "us-house",
+   "tier": 1,
+   "types": [
+    "institutional"
+   ]
+  },
+  {
+   "a": "dod-sapco",
+   "b": "waived-sap-notification-group",
+   "tier": 1,
+   "types": [
+    "institutional"
+   ]
+  },
+  {
+   "a": "dod-sapco",
+   "b": "waived-usap",
+   "tier": 1,
+   "types": [
+    "institutional",
+    "programmatic"
+   ]
+  },
+  {
+   "a": "dodi-5205-11",
+   "b": "waived-usap-mechanism",
+   "tier": 1,
+   "types": [
+    "programmatic"
+   ]
+  },
+  {
+   "a": "doe",
+   "b": "manhattan-project-2",
+   "tier": 2,
+   "types": [
+    "custody"
+   ]
+  },
+  {
+   "a": "doe",
+   "b": "michels-gerb-structural-episode",
+   "tier": 2,
+   "types": [
+    "institutional"
+   ]
+  },
+  {
+   "a": "doe",
+   "b": "nara-uap-collection",
+   "tier": 1,
+   "types": [
+    "denial"
+   ]
+  },
+  {
+   "a": "doe",
+   "b": "nasa",
+   "tier": 3,
+   "types": [
+    "research"
+   ]
+  },
+  {
+   "a": "doe",
+   "b": "odni-memo-es-2026-00818",
+   "tier": 3,
+   "types": [
+    "denial"
+   ]
+  },
+  {
+   "a": "doe",
+   "b": "sandia",
+   "tier": 1,
+   "types": [
+    "institutional"
+   ]
+  },
+  {
+   "a": "eg-and-g",
+   "b": "wilson-davis-memo",
+   "tier": 3,
+   "types": [
+    "custody"
+   ]
+  },
+  {
+   "a": "eo-13526",
+   "b": "isoo",
+   "tier": 1,
+   "types": [
+    "institutional"
+   ]
+  },
+  {
+   "a": "eo-13526",
+   "b": "usc-10-119",
+   "tier": 1,
+   "types": [
+    "legislative",
+    "programmatic"
+   ]
+  },
+  {
+   "a": "ev-noite-ovnis-1986",
+   "b": "fab",
+   "tier": 1,
+   "types": [
+    "programmatic"
+   ]
+  },
+  {
+   "a": "ev-noite-ovnis-1986",
+   "b": "senado-brasil",
+   "tier": 1,
+   "types": [
+    "legislative"
+   ]
+  },
+  {
+   "a": "fab",
+   "b": "operacao-prato",
+   "tier": 1,
+   "types": [
+    "programmatic"
+   ]
+  },
+  {
+   "a": "fab",
+   "b": "senado-brasil",
+   "tier": 1,
+   "types": [
+    "legislative"
+   ]
+  },
+  {
+   "a": "galileo-project",
+   "b": "odni-preliminary-assessment-2021",
+   "tier": 2,
+   "types": [
+    "temporal"
+   ]
+  },
+  {
+   "a": "gao-nsiad-95-187",
+   "b": "roswell-1947",
+   "tier": 1,
+   "types": [
+    "investigative"
+   ]
+  },
+  {
+   "a": "geipan",
+   "b": "sky-canada-project",
+   "tier": 1,
+   "types": [
+    "research"
+   ]
+  },
+  {
+   "a": "gerb-mitre-investigation",
+   "b": "mitre-corporation",
+   "tier": 2,
+   "types": [
+    "denial",
+    "institutional"
+   ]
+  },
+  {
+   "a": "gerb-mitre-investigation",
+   "b": "rand-corporation",
+   "tier": 2,
+   "types": [
+    "institutional"
+   ]
+  },
+  {
+   "a": "grusch-misappropriation-allegation",
+   "b": "house-oversight-committee",
+   "tier": 1,
+   "types": [
+    "witness-chain"
+   ]
+  },
+  {
+   "a": "hearing-2023-07-26",
+   "b": "hearing-2024-11-13",
+   "tier": 2,
+   "types": [
+    "temporal"
+   ]
+  },
+  {
+   "a": "hearing-2023-07-26",
+   "b": "nimitz-2004",
+   "tier": 1,
+   "types": [
+    "witness-chain"
+   ]
+  },
+  {
+   "a": "hearing-2024-11-13",
+   "b": "immaculate-constellation",
+   "tier": 1,
+   "types": [
+    "legislative"
+   ]
+  },
+  {
+   "a": "hearing-2024-11-13",
+   "b": "immaculate-constellation-12-page-report",
+   "tier": 1,
+   "types": [
+    "institutional"
+   ]
+  },
+  {
+   "a": "hearing-2025-09-09",
+   "b": "pursue-releases",
+   "tier": 3,
+   "types": [
+    "temporal"
+   ]
+  },
+  {
+   "a": "hearing-2025-09-09",
+   "b": "task-force-declassification-federal-secrets",
+   "tier": 1,
+   "types": [
+    "institutional"
+   ]
+  },
+  {
+   "a": "hearing-2025-09-09",
+   "b": "uapda-fy2027-house-adopted",
+   "tier": 3,
+   "types": [
+    "legislative"
+   ]
+  },
+  {
+   "a": "house-oversight-committee",
+   "b": "mitre-corporation",
+   "tier": 2,
+   "types": [
+    "denial"
+   ]
+  },
+  {
+   "a": "house-oversight-committee",
+   "b": "pursue-releases",
+   "tier": 2,
+   "types": [
+    "programmatic"
+   ]
+  },
+  {
+   "a": "house-oversight-committee",
+   "b": "task-force-declassification-federal-secrets",
+   "tier": 2,
+   "types": [
+    "institutional"
+   ]
+  },
+  {
+   "a": "house-oversight-committee",
+   "b": "us-house",
+   "tier": 1,
+   "types": [
+    "institutional"
+   ]
+  },
+  {
+   "a": "house-oversight-committee",
+   "b": "waived-sap-notification-group",
+   "tier": 1,
+   "types": [
+    "institutional"
+   ]
+  },
+  {
+   "a": "iaa-fy2024-7343",
+   "b": "ndaa-fy2024-1687",
+   "tier": 1,
+   "types": [
+    "legislative"
+   ]
+  },
+  {
+   "a": "iaa-fy2024-7343",
+   "b": "odni",
+   "tier": 1,
+   "types": [
+    "legislative"
+   ]
+  },
+  {
+   "a": "iaa-fy2024-7343",
+   "b": "senate-armed-services",
+   "tier": 1,
+   "types": [
+    "legislative"
+   ]
+  },
+  {
+   "a": "immaculate-constellation",
+   "b": "immaculate-constellation-12-page-report",
+   "tier": 1,
+   "types": [
+    "custody",
+    "programmatic"
+   ]
+  },
+  {
+   "a": "immaculate-constellation",
+   "b": "nyt-2017-12-16",
+   "tier": 2,
+   "types": [
+    "programmatic"
+   ]
+  },
+  {
+   "a": "inscom",
+   "b": "sri-international",
+   "tier": 1,
+   "types": [
+    "funding"
+   ]
+  },
+  {
+   "a": "inscom",
+   "b": "waived-usap",
+   "tier": 3,
+   "types": [
+    "programmatic"
+   ]
+  },
+  {
+   "a": "isoo",
+   "b": "nara-uap-collection",
+   "tier": 1,
+   "types": [
+    "institutional"
+   ]
+  },
+  {
+   "a": "isoo",
+   "b": "waived-usap",
+   "tier": 3,
+   "types": [
+    "institutional"
+   ]
+  },
+  {
+   "a": "isoo",
+   "b": "waived-usap-mechanism",
+   "tier": 1,
+   "types": [
+    "investigative"
+   ]
+  },
+  {
+   "a": "kona-blue",
+   "b": "lockheed-martin",
+   "tier": 1,
+   "types": [
+    "programmatic"
+   ]
+  },
+  {
+   "a": "kona-blue",
+   "b": "lockheed-skunk-works",
+   "tier": 2,
+   "types": [
+    "custody"
+   ]
+  },
+  {
+   "a": "kona-blue",
+   "b": "usc-10-119",
+   "tier": 1,
+   "types": [
+    "behavioral"
+   ]
+  },
+  {
+   "a": "lockheed-martin",
+   "b": "ndaa-fy2024-1687",
+   "tier": 1,
+   "types": [
+    "funding"
+   ]
+  },
+  {
+   "a": "lockheed-martin",
+   "b": "uapda-2023",
+   "tier": 1,
+   "types": [
+    "legislative"
+   ]
+  },
+  {
+   "a": "manhattan-project-2",
+   "b": "michels-gerb-structural-episode",
+   "tier": 2,
+   "types": [
+    "programmatic"
+   ]
+  },
+  {
+   "a": "manhattan-project-2",
+   "b": "ousdi",
+   "tier": 2,
+   "types": [
+    "denial"
+   ]
+  },
+  {
+   "a": "manhattan-project-2",
+   "b": "sandia",
+   "tier": 2,
+   "types": [
+    "custody"
+   ]
+  },
+  {
+   "a": "michels-gerb-structural-episode",
+   "b": "mitre-corporation",
+   "tier": 2,
+   "types": [
+    "institutional"
+   ]
+  },
+  {
+   "a": "mitre-corporation",
+   "b": "rand-corporation",
+   "tier": 2,
+   "types": [
+    "institutional"
+   ]
+  },
+  {
+   "a": "mitre-corporation",
+   "b": "uapda-fy2027-house-adopted",
+   "tier": 3,
+   "types": [
+    "legislative"
+   ]
+  },
+  {
+   "a": "nara-rg615",
+   "b": "odni",
+   "tier": 1,
+   "types": [
+    "custody"
+   ]
+  },
+  {
+   "a": "nara-rg615",
+   "b": "odni-memo-es-2026-00818",
+   "tier": 3,
+   "types": [
+    "investigative"
+   ]
+  },
+  {
+   "a": "nara-rg615",
+   "b": "uapda-fy2027-house-adopted",
+   "tier": 1,
+   "types": [
+    "legislative"
+   ]
+  },
+  {
+   "a": "nara-uap-collection",
+   "b": "ndaa-fy2024",
+   "tier": 1,
+   "types": [
+    "legislative"
+   ]
+  },
+  {
+   "a": "nara-uap-collection",
+   "b": "nro",
+   "tier": 1,
+   "types": [
+    "denial"
+   ]
+  },
+  {
+   "a": "nara-uap-collection",
+   "b": "nsa",
+   "tier": 1,
+   "types": [
+    "denial"
+   ]
+  },
+  {
+   "a": "nara-uap-collection",
+   "b": "odni",
+   "tier": 1,
+   "types": [
+    "custody"
+   ]
+  },
+  {
+   "a": "nara-uap-collection",
+   "b": "usaf",
+   "tier": 1,
+   "types": [
+    "custody"
+   ]
+  },
+  {
+   "a": "nasa",
+   "b": "nasa-uap-ist",
+   "tier": 1,
+   "types": [
+    "programmatic"
+   ]
+  },
+  {
+   "a": "nasa-uap-ist",
+   "b": "odni-preliminary-assessment-2021",
+   "tier": 1,
+   "types": [
+    "investigative"
+   ]
+  },
+  {
+   "a": "nasa-uap-ist",
+   "b": "pursue-releases",
+   "tier": 2,
+   "types": [
+    "behavioral"
+   ]
+  },
+  {
+   "a": "ndaa-fy2022-sec-1683",
+   "b": "ndaa-fy2024",
+   "tier": 1,
+   "types": [
+    "legislative"
+   ]
+  },
+  {
+   "a": "ndaa-fy2022-sec-1683",
+   "b": "ndaa-fy2026",
+   "tier": 1,
+   "types": [
+    "legislative"
+   ]
+  },
+  {
+   "a": "ndaa-fy2024",
+   "b": "uapda-2023",
+   "tier": 1,
+   "types": [
+    "legislative"
+   ]
+  },
+  {
+   "a": "ndaa-fy2024",
+   "b": "uapda-fy2027-house-adopted",
+   "tier": 3,
+   "types": [
+    "legislative"
+   ]
+  },
+  {
+   "a": "ndaa-fy2024-1687",
+   "b": "usc-10-119",
+   "tier": 1,
+   "types": [
+    "legislative"
+   ]
+  },
+  {
+   "a": "ndaa-fy2024-1687",
+   "b": "waived-usap-mechanism",
+   "tier": 1,
+   "types": [
+    "legislative",
+    "programmatic"
+   ]
+  },
+  {
+   "a": "ndaa-fy2026",
+   "b": "nimitz-2004",
+   "tier": 1,
+   "types": [
+    "temporal"
+   ]
+  },
+  {
+   "a": "ndaa-fy2026",
+   "b": "senate-armed-services",
+   "tier": 1,
+   "types": [
+    "behavioral"
+   ]
+  },
+  {
+   "a": "ndaa-fy2026",
+   "b": "uapda-2023",
+   "tier": 1,
+   "types": [
+    "denial"
+   ]
+  },
+  {
+   "a": "nicap",
+   "b": "project-blue-book",
+   "tier": 1,
+   "types": [
+    "institutional"
+   ]
+  },
+  {
+   "a": "nicap",
+   "b": "usaf",
+   "tier": 1,
+   "types": [
+    "denial"
+   ]
+  },
+  {
+   "a": "nimitz-2004",
+   "b": "nyt-2017-12-16",
+   "tier": 1,
+   "types": [
+    "investigative"
+   ]
+  },
+  {
+   "a": "nimitz-2004",
+   "b": "odni-preliminary-assessment-2021",
+   "tier": 1,
+   "types": [
+    "institutional"
+   ]
+  },
+  {
+   "a": "nimitz-2004",
+   "b": "us-navy",
+   "tier": 1,
+   "types": [
+    "institutional"
+   ]
+  },
+  {
+   "a": "nro",
+   "b": "odni",
+   "tier": 1,
+   "types": [
+    "institutional"
+   ]
+  },
+  {
+   "a": "nro",
+   "b": "odni-memo-es-2026-00818",
+   "tier": 3,
+   "types": [
+    "denial"
+   ]
+  },
+  {
+   "a": "nro",
+   "b": "uap-task-force",
+   "tier": 1,
+   "types": [
+    "institutional"
+   ]
+  },
+  {
+   "a": "nsa",
+   "b": "odni",
+   "tier": 1,
+   "types": [
+    "institutional"
+   ]
+  },
+  {
+   "a": "odni",
+   "b": "ousdi",
+   "tier": 1,
+   "types": [
+    "institutional"
+   ]
+  },
+  {
+   "a": "odni",
+   "b": "senado-brasil",
+   "tier": 1,
+   "types": [
+    "legislative"
+   ]
+  },
+  {
+   "a": "odni",
+   "b": "uap-science-advisory-council",
+   "tier": 1,
+   "types": [
+    "institutional"
+   ]
+  },
+  {
+   "a": "odni-preliminary-assessment-2021",
+   "b": "pursue-releases",
+   "tier": 3,
+   "types": [
+    "temporal"
+   ]
+  },
+  {
+   "a": "odni-preliminary-assessment-2021",
+   "b": "uap-task-force",
+   "tier": 1,
+   "types": [
+    "institutional",
+    "programmatic"
+   ]
+  },
+  {
+   "a": "operacao-prato",
+   "b": "setka-program",
+   "tier": 2,
+   "types": [
+    "programmatic"
+   ]
+  },
+  {
+   "a": "oversight-congress",
+   "b": "senate-armed-services",
+   "tier": 1,
+   "types": [
+    "legislative"
+   ]
+  },
+  {
+   "a": "oversight-congress",
+   "b": "waived-sap-notification-group",
+   "tier": 1,
+   "types": [
+    "institutional"
+   ]
+  },
+  {
+   "a": "oversight-congress",
+   "b": "waived-usap",
+   "tier": 1,
+   "types": [
+    "legislative"
+   ]
+  },
+  {
+   "a": "pais-patent-imrd",
+   "b": "us-navy",
+   "tier": 2,
+   "types": [
+    "institutional"
+   ]
+  },
+  {
+   "a": "paper-nolan-vallee-2022",
+   "b": "sol-foundation",
+   "tier": 1,
+   "types": [
+    "investigative"
+   ]
+  },
+  {
+   "a": "project-blue-book",
+   "b": "sac-overflights-1975",
+   "tier": 1,
+   "types": [
+    "temporal"
+   ]
+  },
+  {
+   "a": "project-blue-book",
+   "b": "usaf",
+   "tier": 1,
+   "types": [
+    "custody",
+    "programmatic"
+   ]
+  },
+  {
+   "a": "pursue-releases",
+   "b": "sol-foundation",
+   "tier": 1,
+   "types": [
+    "behavioral"
+   ]
+  },
+  {
+   "a": "pursue-releases",
+   "b": "uap-science-advisory-council",
+   "tier": 1,
+   "types": [
+    "temporal"
+   ]
+  },
+  {
+   "a": "pursue-releases",
+   "b": "uapda-fy2027-house-adopted",
+   "tier": 2,
+   "types": [
+    "legislative"
+   ]
+  },
+  {
+   "a": "robertson-panel",
+   "b": "uap-science-advisory-council",
+   "tier": 3,
+   "types": [
+    "temporal"
+   ]
+  },
+  {
+   "a": "roosevelt-2014-2015",
+   "b": "us-navy",
+   "tier": 1,
+   "types": [
+    "institutional"
+   ]
+  },
+  {
+   "a": "samdt-797",
+   "b": "uapda-2023",
+   "tier": 1,
+   "types": [
+    "legislative"
+   ]
+  },
+  {
+   "a": "senate-armed-services",
+   "b": "uapda-2023",
+   "tier": 1,
+   "types": [
+    "institutional"
+   ]
+  },
+  {
+   "a": "senate-armed-services",
+   "b": "waived-sap-notification-group",
+   "tier": 1,
+   "types": [
+    "institutional"
+   ]
+  },
+  {
+   "a": "sol-foundation",
+   "b": "uap-science-advisory-council",
+   "tier": 1,
+   "types": [
+    "denial",
+    "institutional"
+   ]
+  },
+  {
+   "a": "sri-international",
+   "b": "stargate-program",
+   "tier": 2,
+   "types": [
+    "research"
+   ]
+  },
+  {
+   "a": "ttsa",
+   "b": "ttsa-army-crada",
+   "tier": 1,
+   "types": [
+    "custody",
+    "funding"
+   ]
+  },
+  {
+   "a": "uap-task-force",
+   "b": "us-navy",
+   "tier": 1,
+   "types": [
+    "institutional"
+   ]
+  },
+  {
+   "a": "usc-10-119",
+   "b": "waived-sap-notification-group",
+   "tier": 1,
+   "types": [
+    "legislative"
+   ]
+  },
+  {
+   "a": "waived-sap-notification-group",
+   "b": "waived-usap",
+   "tier": 1,
+   "types": [
+    "programmatic"
+   ]
+  },
+  {
+   "a": "waived-sap-notification-group",
+   "b": "waived-usap-mechanism",
+   "tier": 1,
+   "types": [
+    "institutional"
+   ]
+  }
+ ],
+ "entryPaths": [
+  {
+   "blurb": "Who is said to have held material, and who says so. Every link here is hand-written and individually sourced.",
+   "id": "custody",
+   "ids": [
+    "inscom",
+    "dia",
+    "atomic-energy-commission",
+    "nara-rg615",
+    "nicap",
+    "nimitz-2004",
+    "roosevelt-2014-2015",
+    "pursue-releases",
+    "aaro",
+    "nyt-2017-12-16",
+    "ttsa",
+    "ttsa-army-crada",
+    "battelle",
+    "roswell-1947",
+    "atic",
+    "project-blue-book",
+    "gao-nsiad-95-187",
+    "mj-12-documents",
+    "wilson-davis-memo",
+    "eg-and-g",
+    "manhattan-project-2",
+    "doe",
+    "sandia",
+    "kona-blue",
+    "lockheed-skunk-works",
+    "afswc-tr-59-39",
+    "lockheed-martin",
+    "nasa",
+    "adam-research-project",
+    "uap-task-force",
+    "arquivo-nacional-ufo",
+    "operacao-prato",
+    "aawsap",
+    "rendlesham-1980",
+    "odni-memo-es-2026-00818",
+    "odni",
+    "afosi",
+    "usaf",
+    "nara-uap-collection",
+    "doc-condign-report",
+    "doc-condign-vol3",
+    "fab",
+    "immaculate-constellation",
+    "immaculate-constellation-12-page-report",
+    "aztec-1948",
+    "carve-out"
+   ],
+   "label": "The custody chain",
+   "onMap": 46,
+   "total": 174
+  },
+  {
+   "blurb": "A denial is a dated, signed, attributable statement, which makes it evidence about the denier. These are the issuers.",
+   "id": "denial",
+   "ids": [
+    "aaro-historical-record-vol1",
+    "dia",
+    "immaculate-constellation",
+    "pursue-releases",
+    "dod",
+    "aaro",
+    "mitre-corporation",
+    "ndaa-fy2026",
+    "project-blue-book",
+    "rendlesham-1980",
+    "sac-overflights-1975",
+    "mj-12-documents",
+    "wilson-davis-memo",
+    "yankee-blue",
+    "kona-blue",
+    "nyt-2017-12-16",
+    "gerb-mitre-investigation",
+    "uap-science-advisory-council",
+    "manhattan-project-2",
+    "church-committee",
+    "nicap",
+    "cia",
+    "aaro-fy2025-annual-report",
+    "hearing-2025-09-09",
+    "aaro-fy2024-annual-report",
+    "immaculate-constellation-12-page-report",
+    "aaro-historical-record-vol2",
+    "dod-sapco",
+    "aztec-1948",
+    "odni-memo-es-2026-00818",
+    "doe",
+    "nsa",
+    "us-house",
+    "nro",
+    "doc-condign-vol3",
+    "condon-committee",
+    "roswell-report-case-closed",
+    "carve-out",
+    "waived-usap-mechanism"
+   ],
+   "label": "Who denied what",
+   "onMap": 39,
+   "total": 131
+  },
+  {
+   "blurb": "States that funded a UAP office, published, and did not treat the subject as unmentionable. The contrast is the argument.",
+   "id": "foreign",
+   "ids": [
+    "geipan",
+    "cefaa",
+    "setka-program",
+    "cometa",
+    "sky-canada-project",
+    "fab",
+    "operacao-prato",
+    "arquivo-nacional-ufo",
+    "doc-condign-report",
+    "ev-noite-ovnis-1986",
+    "senado-brasil"
+   ],
+   "label": "The foreign counter-examples",
+   "onMap": 11,
+   "total": 11
+  },
+  {
+   "blurb": "The statutes and directives that let a programme exist without being reportable, and the twelve seats that get told.",
+   "id": "mechanism",
+   "ids": [
+    "waived-usap",
+    "waived-usap-mechanism",
+    "carve-out",
+    "usc-10-119",
+    "dodi-5205-11",
+    "dod-sapco",
+    "classified-annex",
+    "waived-sap-notification-group",
+    "oversight-congress",
+    "isoo"
+   ],
+   "label": "The legal mechanism",
+   "onMap": 10,
+   "total": 10
+  },
+  {
+   "blurb": "How an unacknowledged programme gets paid for, and why the Department has never passed an audit.",
+   "id": "money",
+   "ids": [
+    "aawsap",
+    "nip",
+    "dod-agencywide-audit",
+    "classified-annex",
+    "aatip",
+    "baass",
+    "earthtech-international"
+   ],
+   "label": "Follow the money",
+   "onMap": 7,
+   "total": 11
+  },
+  {
+   "blurb": "The people who testified under oath, and what the record does and does not corroborate.",
+   "id": "witness",
+   "ids": [
+    "david-grusch",
+    "luis-elizondo",
+    "ryan-graves",
+    "jeffrey-nuccetelli",
+    "dylan-borland",
+    "tim-gallaudet",
+    "david-fravor"
+   ],
+   "label": "Start from a witness",
+   "onMap": 0,
+   "total": 7
+  }
+ ],
+ "eras": [
+  {
+   "end": 1969,
+   "id": "0",
+   "label": "THROUGH 1969",
+   "start": null,
+   "sub": "Estimate through Blue Book"
+  },
+  {
+   "end": 1999,
+   "id": "1",
+   "label": "1970-1999",
+   "start": 1970,
+   "sub": "Post-Blue Book"
+  },
+  {
+   "end": 2016,
+   "id": "2",
+   "label": "2000-2016",
+   "start": 2000,
+   "sub": "AAWSAP / AATIP"
+  },
+  {
+   "end": 2100,
+   "id": "3",
+   "label": "2017-2026",
+   "start": 2017,
+   "sub": "Post-disclosure"
+  },
+  {
+   "end": null,
+   "id": "nd",
+   "label": "NO DATE",
+   "start": null,
+   "sub": "no start date recorded"
+  }
+ ],
+ "generated": "2026-09-02",
+ "nodes": [
+  {
+   "A": 3,
+   "C": 2,
+   "D": 2,
+   "band": "custody",
+   "cls": "institution",
+   "cluster": "other",
+   "dateStart": "2022",
+   "era": "3",
+   "hl": 5,
+   "id": "aaro",
+   "label": "All-domain Anomaly Resolution Office (AARO)",
+   "short": "All-domain Anomaly Resolution Office",
+   "tier": "A"
+  },
+  {
+   "A": 2,
+   "C": 0,
+   "D": 2,
+   "band": "oversight",
+   "cls": "document",
+   "cluster": "other",
+   "dateStart": "2024",
+   "era": "3",
+   "hl": null,
+   "id": "aaro-fy2024-annual-report",
+   "label": "AARO FY2024 Consolidated Annual Report on UAP",
+   "short": "AARO FY2024 Annual Report",
+   "tier": "A"
+  },
+  {
+   "A": 3,
+   "C": 1,
+   "D": 3,
+   "band": "research",
+   "cls": "document",
+   "cluster": "other",
+   "dateStart": "2026",
+   "era": "3",
+   "hl": null,
+   "id": "aaro-fy2025-annual-report",
+   "label": "AARO FY2025 Consolidated Annual Report on UAP",
+   "short": "AARO FY2025 Annual Report",
+   "tier": "A"
+  },
+  {
+   "A": 3,
+   "C": 1,
+   "D": 3,
+   "band": "oversight",
+   "cls": "document",
+   "cluster": "other",
+   "dateStart": "2024",
+   "era": "3",
+   "hl": 4,
+   "id": "aaro-historical-record-vol1",
+   "label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
+   "short": "AARO Historical Record, Vol I",
+   "tier": "A"
+  },
+  {
+   "A": 2,
+   "C": 1,
+   "D": 3,
+   "band": "research",
+   "cls": "document",
+   "cluster": "other",
+   "dateStart": "2024",
+   "era": "3",
+   "hl": null,
+   "id": "aaro-historical-record-vol2",
+   "label": "AARO Historical Record Report, Volume II (unpublished)",
+   "short": "AARO Historical Record, Vol II",
+   "tier": "A"
+  },
+  {
+   "A": 3,
+   "C": 3,
+   "D": 3,
+   "band": "reverse-engineering",
+   "cls": "program",
+   "cluster": "other",
+   "dateStart": "2009",
+   "era": "2",
+   "hl": null,
+   "id": "aatip",
+   "label": "Advanced Aerospace Threat Identification Program (AATIP / AAITP)",
+   "short": "AATIP",
+   "tier": "A"
+  },
+  {
+   "A": 3,
+   "C": 3,
+   "D": 3,
+   "band": "reverse-engineering",
+   "cls": "program",
+   "cluster": "other",
+   "dateStart": "2007",
+   "era": "2",
+   "hl": 1,
+   "id": "aawsap",
+   "label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)",
+   "short": "AAWSAP",
+   "tier": "A"
+  },
+  {
+   "A": 1,
+   "C": 3,
+   "D": 2,
+   "band": "reverse-engineering",
+   "cls": "program",
+   "cluster": "other",
+   "dateStart": "2018",
+   "era": "3",
+   "hl": null,
+   "id": "adam-research-project",
+   "label": "ADAM Research Project (Acquisition and Data Analysis of Materials)",
+   "short": "ADAM Research Project",
+   "tier": "A"
+  },
+  {
+   "A": 3,
+   "C": 2,
+   "D": 0,
+   "band": "retrieval",
+   "cls": "institution",
+   "cluster": "other",
+   "dateStart": "1948-08-01",
+   "era": "0",
+   "hl": null,
+   "id": "afosi",
+   "label": "Air Force Office of Special Investigations",
+   "short": "AFOSI",
+   "tier": "B"
+  },
+  {
+   "A": 1,
+   "C": 3,
+   "D": 2,
+   "band": "research",
+   "cls": "document",
+   "cluster": "research",
+   "dateStart": "1959-06-19",
+   "era": "0",
+   "hl": null,
+   "id": "afswc-tr-59-39",
+   "label": "AFSWC TR-59-39 Vol I, A Study of Lunar Research Flights, 19 June 1959",
+   "short": "AFSWC TR-59-39 Lunar Research Flights",
+   "tier": "A"
+  },
+  {
+   "A": 0,
+   "C": 0,
+   "D": 3,
+   "band": "research",
+   "cls": "institution",
+   "cluster": "witness",
+   "dateStart": "2022",
+   "era": "3",
+   "hl": null,
+   "id": "americans-for-safe-aerospace",
+   "label": "Americans for Safe Aerospace",
+   "short": "Americans for Safe Aerospace",
+   "tier": "B"
+  },
+  {
+   "A": 0,
+   "C": 1,
+   "D": 3,
+   "band": "research",
+   "cls": "institution",
+   "cluster": "other",
+   "dateStart": "2009",
+   "era": "2",
+   "hl": null,
+   "id": "arquivo-nacional-ufo",
+   "label": "Arquivo Nacional (Brazil) - UFO/UAP collection",
+   "short": "Arquivo Nacional (Brazil)",
+   "tier": "A"
+  },
+  {
+   "A": 3,
+   "C": 3,
+   "D": 0,
+   "band": "research",
+   "cls": "institution",
+   "cluster": "other",
+   "dateStart": "1951",
+   "era": "0",
+   "hl": null,
+   "id": "atic",
+   "label": "Air Technical Intelligence Center",
+   "short": "Air Technical Intelligence Center",
+   "tier": "A"
+  },
+  {
+   "A": 3,
+   "C": 2,
+   "D": 1,
+   "band": "custody",
+   "cls": "institution",
+   "cluster": "oversight",
+   "dateStart": "1946-08-01",
+   "era": "0",
+   "hl": null,
+   "id": "atomic-energy-commission",
+   "label": "Atomic Energy Commission",
+   "short": "Atomic Energy Commission",
+   "tier": "A"
+  },
+  {
+   "A": 0,
+   "C": 3,
+   "D": 2,
+   "band": "retrieval",
+   "cls": "event",
+   "cluster": "other",
+   "dateStart": "1948-03",
+   "era": "0",
+   "hl": null,
+   "id": "aztec-1948",
+   "label": "Aztec, New Mexico claim, March 1948",
+   "short": "Aztec, New Mexico claim, March 1948",
+   "tier": "A"
+  },
+  {
+   "A": 2,
+   "C": 3,
+   "D": 2,
+   "band": "reverse-engineering",
+   "cls": "institution",
+   "cluster": "other",
+   "dateStart": "2007",
+   "era": "2",
+   "hl": null,
+   "id": "baass",
+   "label": "Bigelow Aerospace Advanced Space Studies (BAASS), LLC",
+   "short": "Bigelow Aerospace (BAASS)",
+   "tier": "A"
+  },
+  {
+   "A": 2,
+   "C": 3,
+   "D": 1,
+   "band": "research",
+   "cls": "institution",
+   "cluster": "other",
+   "dateStart": "1929",
+   "era": "0",
+   "hl": null,
+   "id": "battelle",
+   "label": "Battelle Memorial Institute",
+   "short": "Battelle Memorial Institute",
+   "tier": "A"
+  },
+  {
+   "A": 2,
+   "C": 1,
+   "D": 2,
+   "band": "research",
+   "cls": "document",
+   "cluster": "other",
+   "dateStart": "1955",
+   "era": "0",
+   "hl": null,
+   "id": "blue-book-special-report-14",
+   "label": "Project Blue Book Special Report No. 14",
+   "short": "Blue Book Special Report No. 14",
+   "tier": "A"
+  },
+  {
+   "A": 2,
+   "C": 2,
+   "D": 3,
+   "band": "custody",
+   "cls": "document",
+   "cluster": "oversight",
+   "dateStart": "2026",
+   "era": "3",
+   "hl": null,
+   "id": "burlison-mitre-letter-2026",
+   "label": "Rep. Burlison records demand to MITRE, 22 May 2026",
+   "short": "Burlison to MITRE, 22 May 2026",
+   "tier": "A"
+  },
+  {
+   "A": 3,
+   "C": 3,
+   "D": 3,
+   "band": "funding",
+   "cls": "program",
+   "cluster": "other",
+   "dateStart": "1993-01-06",
+   "era": "1",
+   "hl": 7,
+   "id": "carve-out",
+   "label": "Carve-Out Provision (DCSA relief from NISP oversight)",
+   "short": "Carve-Out Provision",
+   "tier": "A"
+  },
+  {
+   "A": 1,
+   "C": 1,
+   "D": 3,
+   "band": "research",
+   "cls": "institution",
+   "cluster": "research",
+   "dateStart": "1997-10-03",
+   "era": "1",
+   "hl": null,
+   "id": "cefaa",
+   "label": "CEFAA / SEFAA - Chilean anomalous aerial phenomena office, Dirección General de Aeronáutica Civil",
+   "short": "CEFAA / SEFAA",
+   "tier": "A"
+  },
+  {
+   "A": 1,
+   "C": 2,
+   "D": 3,
+   "band": "oversight",
+   "cls": "institution",
+   "cluster": "oversight",
+   "dateStart": "1975-01-27",
+   "era": "1",
+   "hl": null,
+   "id": "church-committee",
+   "label": "Senate Select Committee to Study Governmental Operations with Respect to Intelligence Activities (Church Committee)",
+   "short": "Church Committee (Senate, 1975-76)",
+   "tier": "B"
+  },
+  {
+   "A": 3,
+   "C": 2,
+   "D": 1,
+   "band": "retrieval",
+   "cls": "institution",
+   "cluster": "ic",
+   "dateStart": "1947-09-18",
+   "era": "0",
+   "hl": null,
+   "id": "cia",
+   "label": "Central Intelligence Agency",
+   "short": "Central Intelligence Agency",
+   "tier": "A"
+  },
+  {
+   "A": 3,
+   "C": 1,
+   "D": 3,
+   "band": "funding",
+   "cls": "document",
+   "cluster": "oversight",
+   "dateStart": "1970",
+   "era": "1",
+   "hl": null,
+   "id": "classified-annex",
+   "label": "The Classified Annex (NDAA and Defense Appropriations)",
+   "short": "The Classified Annex",
+   "tier": "A"
+  },
+  {
+   "A": 1,
+   "C": 0,
+   "D": 3,
+   "band": "research",
+   "cls": "institution",
+   "cluster": "oversight",
+   "dateStart": "1996",
+   "era": "1",
+   "hl": null,
+   "id": "cometa",
+   "label": "COMETA - Comité d'Études Approfondies",
+   "short": "COMETA",
+   "tier": "A"
+  },
+  {
+   "A": 2,
+   "C": 0,
+   "D": 1,
+   "band": "research",
+   "cls": "program",
+   "cluster": "other",
+   "dateStart": "1966",
+   "era": "0",
+   "hl": null,
+   "id": "condon-committee",
+   "label": "University of Colorado UFO Project (Condon Committee)",
+   "short": "University of Colorado UFO Project",
+   "tier": "A"
+  },
+  {
+   "A": 1,
+   "C": 0,
+   "D": 3,
+   "band": "oversight",
+   "cls": "institution",
+   "cluster": "oversight",
+   "dateStart": "2023",
+   "era": "3",
+   "hl": null,
+   "id": "congressional-uap-caucus",
+   "label": "Congressional UAP Caucus",
+   "short": "Congressional UAP Caucus",
+   "tier": "C"
+  },
+  {
+   "A": 3,
+   "C": 3,
+   "D": 1,
+   "band": "reverse-engineering",
+   "cls": "institution",
+   "cluster": "other",
+   "dateStart": "1961",
+   "era": "0",
+   "hl": null,
+   "id": "dia",
+   "label": "Defense Intelligence Agency",
+   "short": "Defense Intelligence Agency",
+   "tier": "A"
+  },
+  {
+   "A": 0,
+   "C": 0,
+   "D": 0,
+   "band": "reverse-engineering",
+   "cls": "document",
+   "cluster": "other",
+   "dateStart": null,
+   "era": "nd",
+   "hl": null,
+   "id": "dird-series",
+   "label": "The 38 Defense Intelligence Reference Documents (DIRDs)",
+   "short": "38 Defense Intelligence Ref. Docs",
+   "tier": "A"
+  },
+  {
+   "A": 2,
+   "C": 1,
+   "D": 3,
+   "band": "research",
+   "cls": "document",
+   "cluster": "ic",
+   "dateStart": "2000",
+   "era": "2",
+   "hl": null,
+   "id": "doc-condign-report",
+   "label": "Unidentified Aerial Phenomena in the UK Air Defence Region (DIS Scientific & Technical Memorandum 55/2/00)",
+   "short": "UAP in the UK Air Defence Region",
+   "tier": "A"
+  },
+  {
+   "A": 2,
+   "C": 1,
+   "D": 3,
+   "band": "research",
+   "cls": "document",
+   "cluster": "ic",
+   "dateStart": "2000",
+   "era": "2",
+   "hl": null,
+   "id": "doc-condign-vol3",
+   "label": "Project Condign Volume 3 - Potential for Exploitation of UAP-Associated Effects / UAP Work in Other Countries",
+   "short": "Project Condign Volume 3",
+   "tier": "B"
+  },
+  {
+   "A": 3,
+   "C": 3,
+   "D": 1,
+   "band": "retrieval",
+   "cls": "institution",
+   "cluster": "other",
+   "dateStart": "1947-09-18",
+   "era": "0",
+   "hl": null,
+   "id": "dod",
+   "label": "United States Department of Defense (secondary designation: Department of War)",
+   "short": "United States Department of Defense",
+   "tier": "A"
+  },
+  {
+   "A": 1,
+   "C": 0,
+   "D": 3,
+   "band": "funding",
+   "cls": "program",
+   "cluster": "other",
+   "dateStart": "2018",
+   "era": "3",
+   "hl": 8,
+   "id": "dod-agencywide-audit",
+   "label": "DoD Agency-Wide Financial Statement Audit (FY2018-present)",
+   "short": "DoD Agency-Wide Audit",
+   "tier": "B"
+  },
+  {
+   "A": 3,
+   "C": 3,
+   "D": 2,
+   "band": "custody",
+   "cls": "institution",
+   "cluster": "other",
+   "dateStart": "1994",
+   "era": "1",
+   "hl": null,
+   "id": "dod-sapco",
+   "label": "DoD Special Access Program Central Office (DoD SAPCO)",
+   "short": "DoD SAPCO",
+   "tier": "A"
+  },
+  {
+   "A": 3,
+   "C": 1,
+   "D": 2,
+   "band": "funding",
+   "cls": "document",
+   "cluster": "other",
+   "dateStart": "2013-02-06",
+   "era": "2",
+   "hl": null,
+   "id": "dodi-5205-11",
+   "label": "DoDI 5205.11 — Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)",
+   "short": "DoDI 5205.11",
+   "tier": "A"
+  },
+  {
+   "A": 3,
+   "C": 3,
+   "D": 0,
+   "band": "reverse-engineering",
+   "cls": "institution",
+   "cluster": "other",
+   "dateStart": "1977-10-01",
+   "era": "1",
+   "hl": null,
+   "id": "doe",
+   "label": "United States Department of Energy",
+   "short": "United States Department of Energy",
+   "tier": "A"
+  },
+  {
+   "A": 2,
+   "C": 3,
+   "D": 3,
+   "band": "reverse-engineering",
+   "cls": "institution",
+   "cluster": "research",
+   "dateStart": "1985",
+   "era": "1",
+   "hl": null,
+   "id": "earthtech-international",
+   "label": "EarthTech International / Institute for Advanced Studies at Austin",
+   "short": "EarthTech International",
+   "tier": "A"
+  },
+  {
+   "A": 3,
+   "C": 3,
+   "D": 0,
+   "band": "research",
+   "cls": "institution",
+   "cluster": "contractor",
+   "dateStart": "1947",
+   "era": "0",
+   "hl": null,
+   "id": "eg-and-g",
+   "label": "EG&G (Edgerton, Germeshausen and Grier)",
+   "short": "EG&G",
+   "tier": "A"
+  },
+  {
+   "A": 3,
+   "C": 0,
+   "D": 3,
+   "band": "oversight",
+   "cls": "legislation",
+   "cluster": "other",
+   "dateStart": "2009-12-29",
+   "era": "2",
+   "hl": null,
+   "id": "eo-13526",
+   "label": "Executive Order 13526 — Classified National Security Information",
+   "short": "Executive Order 13526",
+   "tier": "A"
+  },
+  {
+   "A": 2,
+   "C": 1,
+   "D": 3,
+   "band": "research",
+   "cls": "event",
+   "cluster": "other",
+   "dateStart": "1986-05-19",
+   "era": "1",
+   "hl": null,
+   "id": "ev-noite-ovnis-1986",
+   "label": "Noite Oficial dos OVNIs - the Brazilian 'Night of the UFOs', 19 May 1986",
+   "short": "Noite Oficial dos OVNIs",
+   "tier": "A"
+  },
+  {
+   "A": 2,
+   "C": 2,
+   "D": 3,
+   "band": "research",
+   "cls": "institution",
+   "cluster": "other",
+   "dateStart": "1941",
+   "era": "0",
+   "hl": null,
+   "id": "fab",
+   "label": "Força Aérea Brasileira / Ministério da Aeronáutica",
+   "short": "Força Aérea Brasileira",
+   "tier": "A"
+  },
+  {
+   "A": 0,
+   "C": 1,
+   "D": 3,
+   "band": "research",
+   "cls": "program",
+   "cluster": "research",
+   "dateStart": "2021",
+   "era": "3",
+   "hl": null,
+   "id": "galileo-project",
+   "label": "The Galileo Project",
+   "short": "The Galileo Project",
+   "tier": "B"
+  },
+  {
+   "A": 1,
+   "C": 2,
+   "D": 3,
+   "band": "retrieval",
+   "cls": "document",
+   "cluster": "oversight",
+   "dateStart": "1995",
+   "era": "1",
+   "hl": null,
+   "id": "gao-nsiad-95-187",
+   "label": "GAO/NSIAD-95-187 — Results of a Search for Records Concerning the 1947 Crash Near Roswell",
+   "short": "GAO/NSIAD-95-187",
+   "tier": "B"
+  },
+  {
+   "A": 1,
+   "C": 1,
+   "D": 3,
+   "band": "research",
+   "cls": "institution",
+   "cluster": "research",
+   "dateStart": "2005",
+   "era": "2",
+   "hl": 13,
+   "id": "geipan",
+   "label": "GEIPAN - Groupe d'Études et d'Informations sur les Phénomènes Aérospatiaux Non identifiés",
+   "short": "GEIPAN",
+   "tier": "A"
+  },
+  {
+   "A": 0,
+   "C": 0,
+   "D": 3,
+   "band": "research",
+   "cls": "document",
+   "cluster": "research",
+   "dateStart": "2026",
+   "era": "3",
+   "hl": null,
+   "id": "gerb-mitre-investigation",
+   "label": "UAP Gerb - The MITRE Corporation investigation",
+   "short": "UAP Gerb",
+   "tier": "B"
+  },
+  {
+   "A": 3,
+   "C": 2,
+   "D": 3,
+   "band": "funding",
+   "cls": "event",
+   "cluster": "witness",
+   "dateStart": "2022-05",
+   "era": "3",
+   "hl": null,
+   "id": "grusch-misappropriation-allegation",
+   "label": "The misappropriation allegation: Grusch's ICIG complaint and sworn testimony",
+   "short": "The misappropriation allegation",
+   "tier": "A"
+  },
+  {
+   "A": 2,
+   "C": 2,
+   "D": 3,
+   "band": "funding",
+   "cls": "event",
+   "cluster": "other",
+   "dateStart": "2023",
+   "era": "3",
+   "hl": null,
+   "id": "hearing-2023-07-26",
+   "label": "House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'",
+   "short": "House Oversight hearing, 26 July 2023",
+   "tier": "A"
+  },
+  {
+   "A": 2,
+   "C": 2,
+   "D": 3,
+   "band": "oversight",
+   "cls": "event",
+   "cluster": "other",
+   "dateStart": "2024",
+   "era": "3",
+   "hl": null,
+   "id": "hearing-2024-11-13",
+   "label": "House Oversight joint hearing, 13 November 2024 - 'Unidentified Anomalous Phenomena: Exposing the Truth'",
+   "short": "House Oversight hearing, Nov 2024",
+   "tier": "A"
+  },
+  {
+   "A": 1,
+   "C": 2,
+   "D": 3,
+   "band": "retrieval",
+   "cls": "event",
+   "cluster": "other",
+   "dateStart": "2025",
+   "era": "3",
+   "hl": null,
+   "id": "hearing-2025-09-09",
+   "label": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'",
+   "short": "Task Force hearing, 9 Sep 2025",
+   "tier": "A"
+  },
+  {
+   "A": 1,
+   "C": 0,
+   "D": 3,
+   "band": "oversight",
+   "cls": "institution",
+   "cluster": "oversight",
+   "dateStart": "1927",
+   "era": "0",
+   "hl": null,
+   "id": "house-oversight-committee",
+   "label": "U.S. House Committee on Oversight and Government Reform",
+   "short": "House Oversight & Gov't Reform",
+   "tier": "B"
+  },
+  {
+   "A": 3,
+   "C": 1,
+   "D": 3,
+   "band": "funding",
+   "cls": "legislation",
+   "cluster": "other",
+   "dateStart": "2023-12-22",
+   "era": "3",
+   "hl": null,
+   "id": "iaa-fy2024-7343",
+   "label": "FY2024 Intelligence Authorization Act sec. 7343 — Funding Limitations Relating to UAP",
+   "short": "FY2024 IAA sec. 7343",
+   "tier": "A"
+  },
+  {
+   "A": 3,
+   "C": 3,
+   "D": 3,
+   "band": "retrieval",
+   "cls": "legislation",
+   "cluster": "other",
+   "dateStart": "2023",
+   "era": "3",
+   "hl": null,
+   "id": "iaa-fy2024-sec-1102",
+   "label": "IAA FY2024 Sec. 1102 — contractor turn-in of 'non-earth origin or exotic' UAP material",
+   "short": "IAA FY2024 Sec. 1102",
+   "tier": "A"
+  },
+  {
+   "A": 3,
+   "C": 2,
+   "D": 3,
+   "band": "oversight",
+   "cls": "event",
+   "cluster": "oversight",
+   "dateStart": "2024-10-18",
+   "era": "3",
+   "hl": 9,
+   "id": "immaculate-constellation",
+   "label": "Immaculate Constellation disclosure, October-November 2024",
+   "short": "Immaculate Constellation, 2024",
+   "tier": "A"
+  },
+  {
+   "A": 3,
+   "C": 2,
+   "D": 3,
+   "band": "oversight",
+   "cls": "document",
+   "cluster": "oversight",
+   "dateStart": "2024",
+   "era": "3",
+   "hl": null,
+   "id": "immaculate-constellation-12-page-report",
+   "label": "Immaculate Constellation 12-page report entered into the Congressional Record",
+   "short": "Immaculate Constellation report",
+   "tier": "A"
+  },
+  {
+   "A": 3,
+   "C": 2,
+   "D": 2,
+   "band": "funding",
+   "cls": "institution",
+   "cluster": "ic",
+   "dateStart": "1977-01-01",
+   "era": "1",
+   "hl": null,
+   "id": "inscom",
+   "label": "US Army Intelligence and Security Command (INSCOM)",
+   "short": "INSCOM (Army Intelligence & Security)",
+   "tier": "A"
+  },
+  {
+   "A": 2,
+   "C": 0,
+   "D": 2,
+   "band": "oversight",
+   "cls": "institution",
+   "cluster": "oversight",
+   "dateStart": "1978",
+   "era": "1",
+   "hl": null,
+   "id": "isoo",
+   "label": "Information Security Oversight Office",
+   "short": "Information Security Oversight Office",
+   "tier": "C"
+  },
+  {
+   "A": 3,
+   "C": 3,
+   "D": 3,
+   "band": "reverse-engineering",
+   "cls": "program",
+   "cluster": "other",
+   "dateStart": "2011",
+   "era": "2",
+   "hl": 10,
+   "id": "kona-blue",
+   "label": "KONA BLUE",
+   "short": "KONA BLUE",
+   "tier": "A"
+  },
+  {
+   "A": 2,
+   "C": 0,
+   "D": 3,
+   "band": "oversight",
+   "cls": "event",
+   "cluster": "witness",
+   "dateStart": "2023",
+   "era": "3",
+   "hl": null,
+   "id": "langley-2023-incursions",
+   "label": "Langley AFB Drone Incursions (December 2023)",
+   "short": "Langley AFB Drone Incursions",
+   "tier": "B"
+  },
+  {
+   "A": 3,
+   "C": 3,
+   "D": 0,
+   "band": "reverse-engineering",
+   "cls": "institution",
+   "cluster": "contractor",
+   "dateStart": "1995",
+   "era": "1",
+   "hl": null,
+   "id": "lockheed-martin",
+   "label": "Lockheed Martin Corporation",
+   "short": "Lockheed Martin Corporation",
+   "tier": "A"
+  },
+  {
+   "A": 3,
+   "C": 3,
+   "D": 0,
+   "band": "research",
+   "cls": "institution",
+   "cluster": "contractor",
+   "dateStart": "1943",
+   "era": "0",
+   "hl": null,
+   "id": "lockheed-skunk-works",
+   "label": "Lockheed Martin Advanced Development Programs (Skunk Works)",
+   "short": "Lockheed Skunk Works",
+   "tier": "B"
+  },
+  {
+   "A": 3,
+   "C": 2,
+   "D": 3,
+   "band": "reverse-engineering",
+   "cls": "program",
+   "cluster": "legacy",
+   "dateStart": "1947",
+   "era": "0",
+   "hl": null,
+   "id": "manhattan-project-2",
+   "label": "'Manhattan Project 2.0' (alleged secrecy architecture)",
+   "short": "'Manhattan Project 2.0'",
+   "tier": "A"
+  },
+  {
+   "A": 0,
+   "C": 0,
+   "D": 3,
+   "band": "research",
+   "cls": "document",
+   "cluster": "media",
+   "dateStart": "2026",
+   "era": "3",
+   "hl": null,
+   "id": "michels-gerb-structural-episode",
+   "label": "'The Pentagon's UFO Program Is Real [Here's How It Works!]'",
+   "short": "'The Pentagon's UFO Program Is Real'",
+   "tier": "C"
+  },
+  {
+   "A": 3,
+   "C": 3,
+   "D": 2,
+   "band": "custody",
+   "cls": "institution",
+   "cluster": "ffrdc",
+   "dateStart": "1958",
+   "era": "0",
+   "hl": 6,
+   "id": "mitre-corporation",
+   "label": "The MITRE Corporation",
+   "short": "The MITRE Corporation",
+   "tier": "A"
+  },
+  {
+   "A": 1,
+   "C": 1,
+   "D": 2,
+   "band": "custody",
+   "cls": "document",
+   "cluster": "other",
+   "dateStart": "1984",
+   "era": "1",
+   "hl": null,
+   "id": "mj-12-documents",
+   "label": "MJ-12 / Operation Majestic-12 Documents",
+   "short": "MJ-12 / Majestic-12 Documents",
+   "tier": "B"
+  },
+  {
+   "A": 0,
+   "C": 0,
+   "D": 3,
+   "band": "custody",
+   "cls": "institution",
+   "cluster": "oversight",
+   "dateStart": "2023-12-22",
+   "era": "3",
+   "hl": null,
+   "id": "nara-rg615",
+   "label": "National Archives Record Group 615 - UAP Records Collection",
+   "short": "National Archives Record Group 615",
+   "tier": "A"
+  },
+  {
+   "A": 1,
+   "C": 0,
+   "D": 3,
+   "band": "custody",
+   "cls": "institution",
+   "cluster": "other",
+   "dateStart": "2024",
+   "era": "3",
+   "hl": null,
+   "id": "nara-uap-collection",
+   "label": "National Archives Unidentified Anomalous Phenomena Records Collection",
+   "short": "National Archives UAP Collection",
+   "tier": "A"
+  },
+  {
+   "A": 1,
+   "C": 0,
+   "D": 3,
+   "band": "research",
+   "cls": "institution",
+   "cluster": "research",
+   "dateStart": "1958-07-29",
+   "era": "0",
+   "hl": null,
+   "id": "nasa",
+   "label": "National Aeronautics and Space Administration",
+   "short": "NASA",
+   "tier": "B"
+  },
+  {
+   "A": 1,
+   "C": 0,
+   "D": 3,
+   "band": "research",
+   "cls": "program",
+   "cluster": "research",
+   "dateStart": "2022",
+   "era": "3",
+   "hl": null,
+   "id": "nasa-uap-ist",
+   "label": "NASA UAP Independent Study Team",
+   "short": "NASA UAP Independent Study Team",
+   "tier": "B"
+  },
+  {
+   "A": 3,
+   "C": 1,
+   "D": 2,
+   "band": "reverse-engineering",
+   "cls": "legislation",
+   "cluster": "other",
+   "dateStart": "2021",
+   "era": "3",
+   "hl": null,
+   "id": "ndaa-fy2022-sec-1683",
+   "label": "FY2022 NDAA Sec. 1683 (P.L. 117-81; 50 U.S.C. 3373)",
+   "short": "FY2022 NDAA Sec. 1683",
+   "tier": "B"
+  },
+  {
+   "A": 0,
+   "C": 0,
+   "D": 0,
+   "band": "research",
+   "cls": "legislation",
+   "cluster": "other",
+   "dateStart": null,
+   "era": "nd",
+   "hl": null,
+   "id": "ndaa-fy2023-sec-6802",
+   "label": "Sec. 6802, James M. Inhofe NDAA for FY2023 (Pub. L. 117-263) - AARO establishment, Historical Record Report and annual reports",
+   "short": "Sec. 6802, FY2023 NDAA",
+   "tier": "A"
+  },
+  {
+   "A": 3,
+   "C": 2,
+   "D": 3,
+   "band": "funding",
+   "cls": "legislation",
+   "cluster": "other",
+   "dateStart": "2023",
+   "era": "3",
+   "hl": null,
+   "id": "ndaa-fy2024",
+   "label": "FY2024 NDAA, Public Law 118-31 - Div. A, Title XVIII, Subtitle C (secs. 1841-1843), UAP Records Collection; Div. G (IAA FY2024) secs. 7341, 7343",
+   "short": "FY2024 NDAA, Public Law 118-31",
+   "tier": "A"
+  },
+  {
+   "A": 3,
+   "C": 1,
+   "D": 3,
+   "band": "funding",
+   "cls": "legislation",
+   "cluster": "other",
+   "dateStart": "2023-12-22",
+   "era": "3",
+   "hl": null,
+   "id": "ndaa-fy2024-1687",
+   "label": "FY2024 NDAA sec. 1687 — Limitation on Use of Funds for Certain Unreported Programs",
+   "short": "FY2024 NDAA sec. 1687",
+   "tier": "A"
+  },
+  {
+   "A": 2,
+   "C": 1,
+   "D": 1,
+   "band": "funding",
+   "cls": "legislation",
+   "cluster": "other",
+   "dateStart": "2025",
+   "era": "3",
+   "hl": null,
+   "id": "ndaa-fy2026",
+   "label": "FY2026 NDAA, Public Law 119-60 - secs. 1671-1673, NORAD/NORTHCOM intercept briefings and UAP classification-guide accounting",
+   "short": "FY2026 NDAA, Public Law 119-60",
+   "tier": "A"
+  },
+  {
+   "A": 1,
+   "C": 1,
+   "D": 1,
+   "band": "oversight",
+   "cls": "institution",
+   "cluster": "media",
+   "dateStart": "1956",
+   "era": "0",
+   "hl": null,
+   "id": "nicap",
+   "label": "National Investigations Committee on Aerial Phenomena (NICAP)",
+   "short": "NICAP",
+   "tier": "B"
+  },
+  {
+   "A": 2,
+   "C": 2,
+   "D": 2,
+   "band": "funding",
+   "cls": "program",
+   "cluster": "research",
+   "dateStart": "1995",
+   "era": "1",
+   "hl": null,
+   "id": "nids",
+   "label": "National Institute for Discovery Science (NIDS)",
+   "short": "NIDS",
+   "tier": "A"
+  },
+  {
+   "A": 1,
+   "C": 1,
+   "D": 3,
+   "band": "custody",
+   "cls": "event",
+   "cluster": "other",
+   "dateStart": "2004-11-10",
+   "era": "2",
+   "hl": null,
+   "id": "nimitz-2004",
+   "label": "USS Nimitz Carrier Strike Group Encounters, 10-16 November 2004",
+   "short": "USS Nimitz encounters, Nov 2004",
+   "tier": "A"
+  },
+  {
+   "A": 3,
+   "C": 1,
+   "D": 2,
+   "band": "funding",
+   "cls": "program",
+   "cluster": "ic",
+   "dateStart": "2004-12-17",
+   "era": "2",
+   "hl": null,
+   "id": "nip",
+   "label": "National Intelligence Program (NIP)",
+   "short": "National Intelligence Program",
+   "tier": "B"
+  },
+  {
+   "A": 3,
+   "C": 2,
+   "D": 2,
+   "band": "funding",
+   "cls": "institution",
+   "cluster": "other",
+   "dateStart": "1961",
+   "era": "0",
+   "hl": null,
+   "id": "nro",
+   "label": "National Reconnaissance Office",
+   "short": "National Reconnaissance Office",
+   "tier": "A"
+  },
+  {
+   "A": 3,
+   "C": 1,
+   "D": 1,
+   "band": "disclosure",
+   "cls": "institution",
+   "cluster": "other",
+   "dateStart": "1952-11-04",
+   "era": "0",
+   "hl": null,
+   "id": "nsa",
+   "label": "National Security Agency",
+   "short": "National Security Agency",
+   "tier": "B"
+  },
+  {
+   "A": 1,
+   "C": 1,
+   "D": 3,
+   "band": "disclosure",
+   "cls": "event",
+   "cluster": "media",
+   "dateStart": "2017",
+   "era": "3",
+   "hl": null,
+   "id": "nyt-2017-12-16",
+   "label": "New York Times, 'Glowing Auras and Black Money: The Pentagon's Mysterious U.F.O. Program'",
+   "short": "NYT, 'Glowing Auras', Dec 2017",
+   "tier": "A"
+  },
+  {
+   "A": 3,
+   "C": 1,
+   "D": 3,
+   "band": "research",
+   "cls": "institution",
+   "cluster": "other",
+   "dateStart": "2005-04-22",
+   "era": "2",
+   "hl": null,
+   "id": "odni",
+   "label": "Office of the Director of National Intelligence",
+   "short": "ODNI",
+   "tier": "A"
+  },
+  {
+   "A": 3,
+   "C": 2,
+   "D": 3,
+   "band": "oversight",
+   "cls": "document",
+   "cluster": "ic",
+   "dateStart": "2026-08-01",
+   "era": "3",
+   "hl": null,
+   "id": "odni-memo-es-2026-00818",
+   "label": "ODNI Memorandum ES 2026-00818 - Preliminary Guidance for Implementation of NDA Waiver",
+   "short": "ODNI Memorandum ES 2026-00818",
+   "tier": "A"
+  },
+  {
+   "A": 2,
+   "C": 0,
+   "D": 3,
+   "band": "oversight",
+   "cls": "document",
+   "cluster": "other",
+   "dateStart": "2021",
+   "era": "3",
+   "hl": null,
+   "id": "odni-preliminary-assessment-2021",
+   "label": "ODNI Preliminary Assessment: Unidentified Aerial Phenomena (25 June 2021)",
+   "short": "ODNI Preliminary Assessment",
+   "tier": "A"
+  },
+  {
+   "A": 2,
+   "C": 2,
+   "D": 2,
+   "band": "research",
+   "cls": "program",
+   "cluster": "other",
+   "dateStart": "1977-10-20",
+   "era": "1",
+   "hl": 14,
+   "id": "operacao-prato",
+   "label": "Operação Prato (Operation Saucer)",
+   "short": "Operação Prato",
+   "tier": "A"
+  },
+  {
+   "A": 3,
+   "C": 2,
+   "D": 2,
+   "band": "custody",
+   "cls": "institution",
+   "cluster": "ic",
+   "dateStart": "2003",
+   "era": "2",
+   "hl": null,
+   "id": "ousdi",
+   "label": "Office of the Under Secretary of Defense for Intelligence",
+   "short": "Under Sec of Defense for Intelligence",
+   "tier": "B"
+  },
+  {
+   "A": 3,
+   "C": 0,
+   "D": 3,
+   "band": "oversight",
+   "cls": "institution",
+   "cluster": "other",
+   "dateStart": "1988",
+   "era": "1",
+   "hl": null,
+   "id": "oversight-congress",
+   "label": "Congressional oversight of special access programs",
+   "short": "Congressional oversight of SAPs",
+   "tier": "B"
+  },
+  {
+   "A": 1,
+   "C": 2,
+   "D": 0,
+   "band": "research",
+   "cls": "document",
+   "cluster": "research",
+   "dateStart": "2016-04-28",
+   "era": "2",
+   "hl": null,
+   "id": "pais-patent-imrd",
+   "label": "US Patent 10,144,532 - Craft using an inertial mass reduction device",
+   "short": "US Patent 10,144,532",
+   "tier": "A"
+  },
+  {
+   "A": 0,
+   "C": 2,
+   "D": 2,
+   "band": "research",
+   "cls": "document",
+   "cluster": "research",
+   "dateStart": "2022",
+   "era": "3",
+   "hl": null,
+   "id": "paper-nolan-vallee-2022",
+   "label": "Nolan, Vallee, Jiang & Lemke (2022), Progress in Aerospace Sciences 128:100788",
+   "short": "Nolan & Vallee 2022, Prog Aero Sci",
+   "tier": "B"
+  },
+  {
+   "A": 2,
+   "C": 1,
+   "D": 2,
+   "band": "custody",
+   "cls": "program",
+   "cluster": "other",
+   "dateStart": "1952",
+   "era": "0",
+   "hl": null,
+   "id": "project-blue-book",
+   "label": "Project Blue Book",
+   "short": "Project Blue Book",
+   "tier": "A"
+  },
+  {
+   "A": 3,
+   "C": 1,
+   "D": 3,
+   "band": "custody",
+   "cls": "program",
+   "cluster": "other",
+   "dateStart": "2026",
+   "era": "3",
+   "hl": null,
+   "id": "pursue-releases",
+   "label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters",
+   "short": "PURSUE",
+   "tier": "A"
+  },
+  {
+   "A": 3,
+   "C": 1,
+   "D": 2,
+   "band": "funding",
+   "cls": "institution",
+   "cluster": "ffrdc",
+   "dateStart": "1946",
+   "era": "0",
+   "hl": null,
+   "id": "rand-corporation",
+   "label": "RAND Corporation",
+   "short": "RAND Corporation",
+   "tier": "A"
+  },
+  {
+   "A": 1,
+   "C": 2,
+   "D": 3,
+   "band": "retrieval",
+   "cls": "event",
+   "cluster": "witness",
+   "dateStart": "1980",
+   "era": "1",
+   "hl": null,
+   "id": "rendlesham-1980",
+   "label": "Rendlesham Forest Incident, RAF Woodbridge/Bentwaters",
+   "short": "Rendlesham Forest, 1980",
+   "tier": "A"
+  },
+  {
+   "A": 3,
+   "C": 0,
+   "D": 0,
+   "band": "research",
+   "cls": "program",
+   "cluster": "ic",
+   "dateStart": "1953",
+   "era": "0",
+   "hl": null,
+   "id": "robertson-panel",
+   "label": "Robertson Panel",
+   "short": "Robertson Panel",
+   "tier": "A"
+  },
+  {
+   "A": 1,
+   "C": 0,
+   "D": 3,
+   "band": "custody",
+   "cls": "event",
+   "cluster": "witness",
+   "dateStart": "2014",
+   "era": "2",
+   "hl": null,
+   "id": "roosevelt-2014-2015",
+   "label": "USS Theodore Roosevelt Encounters (2014-2015)",
+   "short": "USS Theodore Roosevelt Encounters",
+   "tier": "B"
+  },
+  {
+   "A": 2,
+   "C": 3,
+   "D": 3,
+   "band": "retrieval",
+   "cls": "event",
+   "cluster": "legacy",
+   "dateStart": "1947",
+   "era": "0",
+   "hl": null,
+   "id": "roswell-1947",
+   "label": "Roswell Incident",
+   "short": "Roswell Incident",
+   "tier": "A"
+  },
+  {
+   "A": 2,
+   "C": 0,
+   "D": 1,
+   "band": "disclosure",
+   "cls": "document",
+   "cluster": "oversight",
+   "dateStart": "1997",
+   "era": "1",
+   "hl": null,
+   "id": "roswell-report-case-closed",
+   "label": "The Roswell Report: Case Closed (1997)",
+   "short": "The Roswell Report",
+   "tier": "B"
+  },
+  {
+   "A": 2,
+   "C": 1,
+   "D": 3,
+   "band": "custody",
+   "cls": "event",
+   "cluster": "legacy",
+   "dateStart": "1975",
+   "era": "1",
+   "hl": null,
+   "id": "sac-overflights-1975",
+   "label": "1975 SAC Nuclear-Base Overflights (Loring, Wurtsmith, Malmstrom, Minot)",
+   "short": "1975 SAC Nuclear-Base Overflights",
+   "tier": "A"
+  },
+  {
+   "A": 2,
+   "C": 2,
+   "D": 3,
+   "band": "custody",
+   "cls": "document",
+   "cluster": "other",
+   "dateStart": "2023",
+   "era": "3",
+   "hl": null,
+   "id": "samdt-797",
+   "label": "S.Amdt. 797 to S. 2226 (Schumer-Rounds UAP Disclosure Act amendment)",
+   "short": "S.Amdt. 797 to S. 2226",
+   "tier": "B"
+  },
+  {
+   "A": 3,
+   "C": 3,
+   "D": 1,
+   "band": "research",
+   "cls": "institution",
+   "cluster": "ffrdc",
+   "dateStart": "1949",
+   "era": "0",
+   "hl": null,
+   "id": "sandia",
+   "label": "Sandia National Laboratories",
+   "short": "Sandia National Laboratories",
+   "tier": "A"
+  },
+  {
+   "A": 0,
+   "C": 0,
+   "D": 0,
+   "band": "research",
+   "cls": "institution",
+   "cluster": "oversight",
+   "dateStart": null,
+   "era": "nd",
+   "hl": null,
+   "id": "senado-brasil",
+   "label": "Senado Federal do Brasil",
+   "short": "Senado Federal do Brasil",
+   "tier": "C"
+  },
+  {
+   "A": 3,
+   "C": 1,
+   "D": 1,
+   "band": "funding",
+   "cls": "institution",
+   "cluster": "oversight",
+   "dateStart": "1947",
+   "era": "0",
+   "hl": null,
+   "id": "senate-armed-services",
+   "label": "Senate Armed Services Committee",
+   "short": "Senate Armed Services Committee",
+   "tier": "B"
+  },
+  {
+   "A": 2,
+   "C": 1,
+   "D": 2,
+   "band": "research",
+   "cls": "program",
+   "cluster": "ic",
+   "dateStart": "1978-10-18",
+   "era": "1",
+   "hl": null,
+   "id": "setka-program",
+   "label": "SETKA-AN / SETKA-MO (later Galaktika, then Gorizont) - Soviet state anomalous phenomena programme",
+   "short": "SETKA-AN / SETKA-MO",
+   "tier": "B"
+  },
+  {
+   "A": 0,
+   "C": 0,
+   "D": 3,
+   "band": "research",
+   "cls": "program",
+   "cluster": "oversight",
+   "dateStart": "2022",
+   "era": "3",
+   "hl": null,
+   "id": "sky-canada-project",
+   "label": "Sky Canada Project - Office of the Chief Science Advisor of Canada",
+   "short": "Sky Canada Project",
+   "tier": "B"
+  },
+  {
+   "A": 2,
+   "C": 1,
+   "D": 3,
+   "band": "oversight",
+   "cls": "institution",
+   "cluster": "research",
+   "dateStart": "2022",
+   "era": "3",
+   "hl": null,
+   "id": "sol-foundation",
+   "label": "The Sol Foundation",
+   "short": "The Sol Foundation",
+   "tier": "A"
+  },
+  {
+   "A": 3,
+   "C": 1,
+   "D": 2,
+   "band": "funding",
+   "cls": "institution",
+   "cluster": "ffrdc",
+   "dateStart": "1946",
+   "era": "0",
+   "hl": null,
+   "id": "sri-international",
+   "label": "SRI International (Stanford Research Institute)",
+   "short": "SRI International",
+   "tier": "B"
+  },
+  {
+   "A": 3,
+   "C": 0,
+   "D": 2,
+   "band": "funding",
+   "cls": "event",
+   "cluster": "ic",
+   "dateStart": "1970",
+   "era": "1",
+   "hl": null,
+   "id": "stargate-program",
+   "label": "STAR GATE and predecessor remote viewing programs, 1970-1995",
+   "short": "STAR GATE and predecessors",
+   "tier": "A"
+  },
+  {
+   "A": 0,
+   "C": 0,
+   "D": 3,
+   "band": "retrieval",
+   "cls": "document",
+   "cluster": "research",
+   "dateStart": "1978-07-29",
+   "era": "1",
+   "hl": null,
+   "id": "stringfield-status-reports",
+   "label": "UFO Crash/Retrieval Status Reports I-VII (Stringfield, 1978-1994)",
+   "short": "UFO Crash/Retrieval Reports I-VII",
+   "tier": "C"
+  },
+  {
+   "A": 1,
+   "C": 0,
+   "D": 3,
+   "band": "oversight",
+   "cls": "program",
+   "cluster": "oversight",
+   "dateStart": "2025",
+   "era": "3",
+   "hl": null,
+   "id": "task-force-declassification-federal-secrets",
+   "label": "Task Force on the Declassification of Federal Secrets",
+   "short": "Task Force on Declassification",
+   "tier": "C"
+  },
+  {
+   "A": 2,
+   "C": 3,
+   "D": 3,
+   "band": "reverse-engineering",
+   "cls": "institution",
+   "cluster": "contractor",
+   "dateStart": "2017",
+   "era": "3",
+   "hl": null,
+   "id": "ttsa",
+   "label": "To The Stars Academy of Arts & Science Inc. (later To The Stars Inc.)",
+   "short": "To The Stars Academy",
+   "tier": "A"
+  },
+  {
+   "A": 1,
+   "C": 3,
+   "D": 3,
+   "band": "reverse-engineering",
+   "cls": "document",
+   "cluster": "other",
+   "dateStart": "2019",
+   "era": "3",
+   "hl": null,
+   "id": "ttsa-army-crada",
+   "label": "CRADA between U.S. Army Ground Vehicle Systems Center and To The Stars Academy",
+   "short": "CRADA: U.S. Army – TTSA",
+   "tier": "A"
+  },
+  {
+   "A": 1,
+   "C": 0,
+   "D": 3,
+   "band": "oversight",
+   "cls": "institution",
+   "cluster": "other",
+   "dateStart": "2026",
+   "era": "3",
+   "hl": null,
+   "id": "uap-science-advisory-council",
+   "label": "UAP Science Advisory Council",
+   "short": "UAP Science Advisory Council",
+   "tier": "A"
+  },
+  {
+   "A": 3,
+   "C": 2,
+   "D": 2,
+   "band": "research",
+   "cls": "program",
+   "cluster": "other",
+   "dateStart": "2020",
+   "era": "3",
+   "hl": null,
+   "id": "uap-task-force",
+   "label": "Unidentified Aerial Phenomena Task Force (UAPTF)",
+   "short": "UAP Task Force (UAPTF)",
+   "tier": "A"
+  },
+  {
+   "A": 3,
+   "C": 3,
+   "D": 3,
+   "band": "custody",
+   "cls": "legislation",
+   "cluster": "other",
+   "dateStart": "2023",
+   "era": "3",
+   "hl": 12,
+   "id": "uapda-2023",
+   "label": "UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)",
+   "short": "UAP Disclosure Act of 2023",
+   "tier": "A"
+  },
+  {
+   "A": 0,
+   "C": 0,
+   "D": 3,
+   "band": "oversight",
+   "cls": "legislation",
+   "cluster": "other",
+   "dateStart": "2026-07-22",
+   "era": "3",
+   "hl": null,
+   "id": "uapda-fy2027-house-adopted",
+   "label": "Unidentified Anomalous Phenomena Disclosure Act - Burlison amendment to the FY2027 NDAA",
+   "short": "UAPDA, FY2027 House-adopted",
+   "tier": "B"
+  },
+  {
+   "A": 1,
+   "C": 0,
+   "D": 2,
+   "band": "funding",
+   "cls": "institution",
+   "cluster": "research",
+   "dateStart": "2005",
+   "era": "2",
+   "hl": null,
+   "id": "university-at-albany",
+   "label": "University at Albany (SUNY), Department of Physics",
+   "short": "University at Albany, Physics",
+   "tier": "B"
+  },
+  {
+   "A": 2,
+   "C": 0,
+   "D": 3,
+   "band": "funding",
+   "cls": "institution",
+   "cluster": "oversight",
+   "dateStart": "1789-03-04",
+   "era": "0",
+   "hl": null,
+   "id": "us-house",
+   "label": "United States House of Representatives",
+   "short": "U.S. House of Representatives",
+   "tier": "B"
+  },
+  {
+   "A": 0,
+   "C": 0,
+   "D": 0,
+   "band": "research",
+   "cls": "institution",
+   "cluster": "ic",
+   "dateStart": null,
+   "era": "nd",
+   "hl": null,
+   "id": "us-navy",
+   "label": "United States Navy",
+   "short": "United States Navy",
+   "tier": "C"
+  },
+  {
+   "A": 3,
+   "C": 3,
+   "D": 1,
+   "band": "retrieval",
+   "cls": "institution",
+   "cluster": "legacy",
+   "dateStart": "1947-09-18",
+   "era": "0",
+   "hl": null,
+   "id": "usaf",
+   "label": "United States Air Force",
+   "short": "United States Air Force",
+   "tier": "A"
+  },
+  {
+   "A": 3,
+   "C": 0,
+   "D": 3,
+   "band": "funding",
+   "cls": "legislation",
+   "cluster": "other",
+   "dateStart": "1989",
+   "era": "1",
+   "hl": 3,
+   "id": "usc-10-119",
+   "label": "10 U.S.C. 119 — Special Access Programs: Congressional Oversight",
+   "short": "10 U.S.C. 119",
+   "tier": "A"
+  },
+  {
+   "A": 1,
+   "C": 3,
+   "D": 3,
+   "band": "oversight",
+   "cls": "institution",
+   "cluster": "other",
+   "dateStart": null,
+   "era": "nd",
+   "hl": 2,
+   "id": "waived-sap-notification-group",
+   "label": "Waived SAP Notification Group",
+   "short": "Waived SAP Notification Group",
+   "tier": "A"
+  },
+  {
+   "A": 3,
+   "C": 3,
+   "D": 3,
+   "band": "funding",
+   "cls": "program",
+   "cluster": "other",
+   "dateStart": "1988",
+   "era": "1",
+   "hl": null,
+   "id": "waived-usap",
+   "label": "Waived unacknowledged special access program (waived USAP)",
+   "short": "Waived unacknowledged SAP",
+   "tier": "A"
+  },
+  {
+   "A": 3,
+   "C": 3,
+   "D": 3,
+   "band": "funding",
+   "cls": "program",
+   "cluster": "other",
+   "dateStart": "1987-12-04",
+   "era": "1",
+   "hl": null,
+   "id": "waived-usap-mechanism",
+   "label": "Waived Unacknowledged SAP (waived USAP) — the mechanism",
+   "short": "Waived USAP — the mechanism",
+   "tier": "A"
+  },
+  {
+   "A": 0,
+   "C": 0,
+   "D": 0,
+   "band": "research",
+   "cls": "institution",
+   "cluster": "research",
+   "dateStart": null,
+   "era": "nd",
+   "hl": null,
+   "id": "wayne-state-university",
+   "label": "Wayne State University",
+   "short": "Wayne State University",
+   "tier": "C"
+  },
+  {
+   "A": 3,
+   "C": 3,
+   "D": 3,
+   "band": "reverse-engineering",
+   "cls": "document",
+   "cluster": "other",
+   "dateStart": "2002",
+   "era": "2",
+   "hl": 11,
+   "id": "wilson-davis-memo",
+   "label": "The Wilson-Davis Notes (16 October 2002)",
+   "short": "The Wilson-Davis Notes",
+   "tier": "A"
+  },
+  {
+   "A": 3,
+   "C": 1,
+   "D": 3,
+   "band": "disclosure",
+   "cls": "program",
+   "cluster": "ic",
+   "dateStart": "1980",
+   "era": "1",
+   "hl": null,
+   "id": "yankee-blue",
+   "label": "YANKEE BLUE (alleged AFOSI indoctrination program)",
+   "short": "YANKEE BLUE",
+   "tier": "B"
+  }
+ ],
+ "source": "687756664d3a",
+ "summarised": [
+  {
+   "a": "aaro",
+   "b": "dod",
+   "via": [
+    "anna-paulina-luna",
+    "david-grusch",
+    "dodig-2023-109",
+    "nara-uap-records-collection"
+   ]
+  },
+  {
+   "a": "aaro",
+   "b": "hearing-2023-07-26",
+   "via": [
+    "anna-paulina-luna",
+    "david-grusch",
+    "susan-gough"
+   ]
+  },
+  {
+   "a": "aaro",
+   "b": "iaa-fy2024-sec-1102",
+   "via": [
+    "david-grusch",
+    "iaa-2024"
+   ]
+  },
+  {
+   "a": "aaro",
+   "b": "immaculate-constellation-12-page-report",
+   "via": [
+    "sean-kirkpatrick",
+    "susan-gough"
+   ]
+  },
+  {
+   "a": "aaro",
+   "b": "ndaa-fy2022-sec-1683",
+   "via": [
+    "iaa-fy2025-title-lxviii",
+    "kirsten-gillibrand",
+    "ndaa-fy2022",
+    "ndaa-fy2023"
+   ]
+  },
+  {
+   "a": "aaro",
+   "b": "ndaa-fy2024",
+   "via": [
+    "iaa-2024",
+    "nara-uap-records-collection"
+   ]
+  },
+  {
+   "a": "aaro",
+   "b": "odni",
+   "via": [
+    "ic-sapco",
+    "ndaa-fy2022"
+   ]
+  },
+  {
+   "a": "aaro",
+   "b": "oversight-congress",
+   "via": [
+    "anna-paulina-luna",
+    "dodig-2023-109"
+   ]
+  },
+  {
+   "a": "aaro",
+   "b": "uap-task-force",
+   "via": [
+    "aaro-establishment-memo-2022",
+    "david-grusch",
+    "ndaa-fy2022"
+   ]
+  },
+  {
+   "a": "aaro",
+   "b": "uapda-2023",
+   "via": [
+    "david-grusch",
+    "kirsten-gillibrand"
+   ]
+  },
+  {
+   "a": "aaro",
+   "b": "waived-sap-notification-group",
+   "via": [
+    "anna-paulina-luna",
+    "david-grusch"
+   ]
+  },
+  {
+   "a": "aaro-fy2025-annual-report",
+   "b": "hearing-2025-09-09",
+   "via": [
+    "alexandro-wiggins",
+    "anna-paulina-luna"
+   ]
+  },
+  {
+   "a": "aaro-historical-record-vol1",
+   "b": "dod-sapco",
+   "via": [
+    "david-grusch",
+    "sean-kirkpatrick"
+   ]
+  },
+  {
+   "a": "aaro-historical-record-vol1",
+   "b": "immaculate-constellation",
+   "via": [
+    "luis-elizondo",
+    "sean-kirkpatrick"
+   ]
+  },
+  {
+   "a": "aaro-historical-record-vol1",
+   "b": "immaculate-constellation-12-page-report",
+   "via": [
+    "luis-elizondo",
+    "sean-kirkpatrick"
+   ]
+  },
+  {
+   "a": "aaro-historical-record-vol1",
+   "b": "nyt-2017-12-16",
+   "via": [
+    "christopher-mellon",
+    "david-grusch",
+    "luis-elizondo"
+   ]
+  },
+  {
+   "a": "aaro-historical-record-vol1",
+   "b": "ttsa",
+   "via": [
+    "christopher-mellon",
+    "luis-elizondo"
+   ]
+  },
+  {
+   "a": "aaro-historical-record-vol1",
+   "b": "uap-task-force",
+   "via": [
+    "christopher-mellon",
+    "david-grusch"
+   ]
+  },
+  {
+   "a": "aatip",
+   "b": "immaculate-constellation",
+   "via": [
+    "luis-elizondo",
+    "susan-gough"
+   ]
+  },
+  {
+   "a": "aatip",
+   "b": "immaculate-constellation-12-page-report",
+   "via": [
+    "luis-elizondo",
+    "susan-gough"
+   ]
+  },
+  {
+   "a": "aatip",
+   "b": "kona-blue",
+   "via": [
+    "harry-reid",
+    "robert-bigelow"
+   ]
+  },
+  {
+   "a": "aatip",
+   "b": "nids",
+   "via": [
+    "harold-puthoff",
+    "robert-bigelow"
+   ]
+  },
+  {
+   "a": "aatip",
+   "b": "ousdi",
+   "via": [
+    "luis-elizondo",
+    "neill-tipton"
+   ]
+  },
+  {
+   "a": "aatip",
+   "b": "ttsa",
+   "via": [
+    "harold-puthoff",
+    "luis-elizondo",
+    "the-intercept"
+   ]
+  },
+  {
+   "a": "aawsap",
+   "b": "earthtech-international",
+   "via": [
+    "dird-advanced-space-propulsion-based-on-vacuum",
+    "dird-antigravity-for-aerospace-applications",
+    "dird-concepts-for-extracting-energy-from-the",
+    "dird-laser-lightcraft-nanosatellites",
+    "dird-quantum-tomography-of-negative-energy-states",
+    "dird-traversable-wormholes-stargates-and-negative-energy"
+   ]
+  },
+  {
+   "a": "aawsap",
+   "b": "lockheed-martin",
+   "via": [
+    "dird-aneutronic-fusion-propulsion-2",
+    "dird-mhd-air-breathing-propulsion-and-power",
+    "dird-ultracapacitors-as-energy-and-power-storage",
+    "vincent-teofilo"
+   ]
+  },
+  {
+   "a": "aawsap",
+   "b": "wayne-state-university",
+   "via": [
+    "dird-anomalous-acute-and-subacute-field-effects",
+    "dird-cognitive-limits-on-simultaneous-control-of",
+    "dird-quantum-computing-and-utilizing-organic-molecules",
+    "dird-technological-approaches-to-controlling-external-devices"
+   ]
+  },
+  {
+   "a": "americans-for-safe-aerospace",
+   "b": "pursue-releases",
+   "via": [
+    "ryan-graves",
+    "tim-gallaudet"
+   ]
+  },
+  {
+   "a": "atic",
+   "b": "project-blue-book",
+   "via": [
+    "afr-200-2",
+    "foreign-technology-division",
+    "l-wright-patterson"
+   ]
+  },
+  {
+   "a": "atic",
+   "b": "usaf",
+   "via": [
+    "foreign-technology-division",
+    "tr-ac-47-silver-bug"
+   ]
+  },
+  {
+   "a": "atomic-energy-commission",
+   "b": "dod",
+   "via": [
+    "afswp",
+    "dtra"
+   ]
+  },
+  {
+   "a": "atomic-energy-commission",
+   "b": "eg-and-g",
+   "via": [
+    "l-groom-lake",
+    "l-nevada-test-site"
+   ]
+  },
+  {
+   "a": "baass",
+   "b": "dia",
+   "via": [
+    "aawsap-contract",
+    "dird-negative-mass-propulsion"
+   ]
+  },
+  {
+   "a": "baass",
+   "b": "kona-blue",
+   "via": [
+    "bigelow-aerospace",
+    "robert-bigelow"
+   ]
+  },
+  {
+   "a": "baass",
+   "b": "lockheed-martin",
+   "via": [
+    "bigelow-aerospace",
+    "d-contracting"
+   ]
+  },
+  {
+   "a": "battelle",
+   "b": "doe",
+   "via": [
+    "oak-ridge-national-laboratory",
+    "stony-brook-university"
+   ]
+  },
+  {
+   "a": "battelle",
+   "b": "project-blue-book",
+   "via": [
+    "gerb-battelle-investigation",
+    "l-columbus-oh",
+    "l-wright-patterson",
+    "project-stork"
+   ]
+  },
+  {
+   "a": "burlison-mitre-letter-2026",
+   "b": "dod",
+   "via": [
+    "david-grusch",
+    "eric-burlison"
+   ]
+  },
+  {
+   "a": "burlison-mitre-letter-2026",
+   "b": "uapda-2023",
+   "via": [
+    "david-grusch",
+    "eric-burlison"
+   ]
+  },
+  {
+   "a": "burlison-mitre-letter-2026",
+   "b": "waived-sap-notification-group",
+   "via": [
+    "david-grusch",
+    "eric-burlison"
+   ]
+  },
+  {
+   "a": "carve-out",
+   "b": "dod",
+   "via": [
+    "david-grusch",
+    "dodd-5205-07-2024"
+   ]
+  },
+  {
+   "a": "carve-out",
+   "b": "waived-sap-notification-group",
+   "via": [
+    "d-structure",
+    "david-grusch"
+   ]
+  },
+  {
+   "a": "cia",
+   "b": "project-blue-book",
+   "via": [
+    "haines-cia-history",
+    "richard-m-bissell-jr"
+   ]
+  },
+  {
+   "a": "classified-annex",
+   "b": "dod",
+   "via": [
+    "classified-programs-line",
+    "sffas-56"
+   ]
+  },
+  {
+   "a": "classified-annex",
+   "b": "dod-agencywide-audit",
+   "via": [
+    "d-funding",
+    "sffas-56"
+   ]
+  },
+  {
+   "a": "congressional-uap-caucus",
+   "b": "dod",
+   "via": [
+    "anna-paulina-luna",
+    "eric-burlison",
+    "tim-burchett"
+   ]
+  },
+  {
+   "a": "congressional-uap-caucus",
+   "b": "hearing-2023-07-26",
+   "via": [
+    "anna-paulina-luna",
+    "tim-burchett"
+   ]
+  },
+  {
+   "a": "congressional-uap-caucus",
+   "b": "hearing-2025-09-09",
+   "via": [
+    "anna-paulina-luna",
+    "eric-burlison"
+   ]
+  },
+  {
+   "a": "congressional-uap-caucus",
+   "b": "uapda-2023",
+   "via": [
+    "d-legislative",
+    "eric-burlison"
+   ]
+  },
+  {
+   "a": "congressional-uap-caucus",
+   "b": "uapda-fy2027-house-adopted",
+   "via": [
+    "d-legislative",
+    "eric-burlison"
+   ]
+  },
+  {
+   "a": "dia",
+   "b": "dird-series",
+   "via": [
+    "dird-advanced-nuclear-propulsion-for-manned-deep",
+    "dird-advanced-space-propulsion-based-on-vacuum",
+    "dird-aerospace-applications-of-programmable-matter",
+    "dird-an-introduction-to-the-statistical-drake",
+    "dird-aneutronic-fusion-propulsion",
+    "dird-aneutronic-fusion-propulsion-2",
+    "dird-anomalous-acute-and-subacute-field-effects",
+    "dird-antigravity-for-aerospace-applications",
+    "dird-laser-lightcraft-nanosatellites",
+    "dird-negative-mass-propulsion",
+    "dird-pulsed-high-power-microwave-source-technology",
+    "dird-space-access-where-we-ve-been",
+    "dird-state-of-the-art-and-evolution",
+    "dird-technological-approaches-to-controlling-external-devices",
+    "dird-the-role-of-superconductors-in-gravity",
+    "dird-the-space-communication-implications-of-quantum",
+    "dird-traversable-wormholes-stargates-and-negative-energy",
+    "dird-warp-drive-dark-energy-and-the"
+   ]
+  },
+  {
+   "a": "dia",
+   "b": "dod",
+   "via": [
+    "david-grusch",
+    "reid-dia-meetings-2008-2009"
+   ]
+  },
+  {
+   "a": "dia",
+   "b": "earthtech-international",
+   "via": [
+    "dird-advanced-space-propulsion-based-on-vacuum",
+    "dird-antigravity-for-aerospace-applications",
+    "dird-laser-lightcraft-nanosatellites",
+    "dird-traversable-wormholes-stargates-and-negative-energy"
+   ]
+  },
+  {
+   "a": "dia",
+   "b": "wayne-state-university",
+   "via": [
+    "dird-anomalous-acute-and-subacute-field-effects",
+    "dird-technological-approaches-to-controlling-external-devices"
+   ]
+  },
+  {
+   "a": "dird-series",
+   "b": "lockheed-martin",
+   "via": [
+    "dird-aneutronic-fusion-propulsion-2",
+    "dird-mhd-air-breathing-propulsion-and-power",
+    "dird-ultracapacitors-as-energy-and-power-storage"
+   ]
+  },
+  {
+   "a": "dird-series",
+   "b": "nids",
+   "via": [
+    "eric-davis",
+    "harold-puthoff",
+    "kit-green"
+   ]
+  },
+  {
+   "a": "dird-series",
+   "b": "sri-international",
+   "via": [
+    "harold-puthoff",
+    "kit-green"
+   ]
+  },
+  {
+   "a": "dird-series",
+   "b": "stargate-program",
+   "via": [
+    "harold-puthoff",
+    "kit-green"
+   ]
+  },
+  {
+   "a": "dird-series",
+   "b": "ttsa",
+   "via": [
+    "harold-puthoff",
+    "kit-green"
+   ]
+  },
+  {
+   "a": "dird-series",
+   "b": "wilson-davis-memo",
+   "via": [
+    "eric-davis",
+    "kit-green"
+   ]
+  },
+  {
+   "a": "doc-condign-report",
+   "b": "rendlesham-1980",
+   "via": [
+    "l-uk",
+    "l-uk-mod-whitehall"
+   ]
+  },
+  {
+   "a": "dod",
+   "b": "hearing-2023-07-26",
+   "via": [
+    "anna-paulina-luna",
+    "david-grusch",
+    "tim-burchett"
+   ]
+  },
+  {
+   "a": "dod",
+   "b": "hearing-2025-09-09",
+   "via": [
+    "anna-paulina-luna",
+    "david-grusch",
+    "eric-burlison"
+   ]
+  },
+  {
+   "a": "dod",
+   "b": "langley-2023-incursions",
+   "via": [
+    "l-langley-afb",
+    "nj-drone-incursions-2024"
+   ]
+  },
+  {
+   "a": "dod",
+   "b": "nro",
+   "via": [
+    "classified-programs-line",
+    "david-grusch"
+   ]
+  },
+  {
+   "a": "dod",
+   "b": "sol-foundation",
+   "via": [
+    "david-grusch",
+    "marik-von-rennenkampff"
+   ]
+  },
+  {
+   "a": "dod",
+   "b": "uapda-2023",
+   "via": [
+    "david-grusch",
+    "eric-burlison"
+   ]
+  },
+  {
+   "a": "dod",
+   "b": "uapda-fy2027-house-adopted",
+   "via": [
+    "eric-burlison",
+    "nara-uap-records-collection"
+   ]
+  },
+  {
+   "a": "dod-sapco",
+   "b": "waived-usap-mechanism",
+   "via": [
+    "david-grusch",
+    "sap-annual-report",
+    "sap-readin-gate"
+   ]
+  },
+  {
+   "a": "earthtech-international",
+   "b": "nids",
+   "via": [
+    "eric-davis",
+    "harold-puthoff"
+   ]
+  },
+  {
+   "a": "eg-and-g",
+   "b": "lockheed-martin",
+   "via": [
+    "d-contracting",
+    "richard-damato"
+   ]
+  },
+  {
+   "a": "galileo-project",
+   "b": "uap-science-advisory-council",
+   "via": [
+    "avi-loeb",
+    "richard-cloete"
+   ]
+  },
+  {
+   "a": "gerb-mitre-investigation",
+   "b": "manhattan-project-2",
+   "via": [
+    "ffrdc-mechanism",
+    "uap-gerb"
+   ]
+  },
+  {
+   "a": "hearing-2023-07-26",
+   "b": "hearing-2025-09-09",
+   "via": [
+    "anna-paulina-luna",
+    "david-grusch",
+    "george-knapp"
+   ]
+  },
+  {
+   "a": "hearing-2023-07-26",
+   "b": "immaculate-constellation-12-page-report",
+   "via": [
+    "susan-gough",
+    "tim-burchett"
+   ]
+  },
+  {
+   "a": "hearing-2023-07-26",
+   "b": "lockheed-martin",
+   "via": [
+    "george-knapp",
+    "jeremy-corbell"
+   ]
+  },
+  {
+   "a": "hearing-2023-07-26",
+   "b": "uap-task-force",
+   "via": [
+    "andy-biggs",
+    "david-grusch"
+   ]
+  },
+  {
+   "a": "hearing-2023-07-26",
+   "b": "waived-sap-notification-group",
+   "via": [
+    "anna-paulina-luna",
+    "david-grusch"
+   ]
+  },
+  {
+   "a": "hearing-2024-11-13",
+   "b": "nyt-2017-12-16",
+   "via": [
+    "christopher-mellon",
+    "luis-elizondo"
+   ]
+  },
+  {
+   "a": "hearing-2024-11-13",
+   "b": "pursue-releases",
+   "via": [
+    "christopher-mellon",
+    "tim-gallaudet"
+   ]
+  },
+  {
+   "a": "hearing-2024-11-13",
+   "b": "sol-foundation",
+   "via": [
+    "karl-nell",
+    "tim-gallaudet"
+   ]
+  },
+  {
+   "a": "hearing-2024-11-13",
+   "b": "ttsa",
+   "via": [
+    "christopher-mellon",
+    "luis-elizondo"
+   ]
+  },
+  {
+   "a": "hearing-2024-11-13",
+   "b": "uap-task-force",
+   "via": [
+    "christopher-mellon",
+    "karl-nell"
+   ]
+  },
+  {
+   "a": "hearing-2025-09-09",
+   "b": "odni-memo-es-2026-00818",
+   "via": [
+    "eric-burlison",
+    "pursue-task-force"
+   ]
+  },
+  {
+   "a": "hearing-2025-09-09",
+   "b": "sol-foundation",
+   "via": [
+    "david-grusch",
+    "dylan-borland"
+   ]
+  },
+  {
+   "a": "hearing-2025-09-09",
+   "b": "uapda-2023",
+   "via": [
+    "david-grusch",
+    "eric-burlison"
+   ]
+  },
+  {
+   "a": "hearing-2025-09-09",
+   "b": "waived-sap-notification-group",
+   "via": [
+    "anna-paulina-luna",
+    "david-grusch",
+    "eric-burlison"
+   ]
+  },
+  {
+   "a": "iaa-fy2024-sec-1102",
+   "b": "ndaa-fy2024",
+   "via": [
+    "d-funding",
+    "iaa-2024",
+    "uapda-sec-9010-eminent-domain"
+   ]
+  },
+  {
+   "a": "iaa-fy2024-sec-1102",
+   "b": "uapda-2023",
+   "via": [
+    "d-legislative",
+    "david-grusch",
+    "ndaa-fy2023-sec-1673",
+    "uapda-sec-9010-eminent-domain"
+   ]
+  },
+  {
+   "a": "iaa-fy2024-sec-1102",
+   "b": "usc-10-119",
+   "via": [
+    "d-funding",
+    "david-grusch"
+   ]
+  },
+  {
+   "a": "iaa-fy2024-sec-1102",
+   "b": "waived-usap-mechanism",
+   "via": [
+    "d-funding",
+    "david-grusch"
+   ]
+  },
+  {
+   "a": "lockheed-martin",
+   "b": "lockheed-skunk-works",
+   "via": [
+    "ben-rich",
+    "gao-130581",
+    "l-plant-42"
+   ]
+  },
+  {
+   "a": "lockheed-martin",
+   "b": "mitre-corporation",
+   "via": [
+    "d-contracting",
+    "l-pax-river"
+   ]
+  },
+  {
+   "a": "lockheed-martin",
+   "b": "ttsa-army-crada",
+   "via": [
+    "d-contracting",
+    "luis-elizondo"
+   ]
+  },
+  {
+   "a": "nasa",
+   "b": "nro",
+   "via": [
+    "manned-orbiting-laboratory",
+    "william-b-adkins"
+   ]
+  },
+  {
+   "a": "nasa",
+   "b": "pursue-releases",
+   "via": [
+    "pursue-release-01",
+    "pursue-release-03"
+   ]
+  },
+  {
+   "a": "ndaa-fy2022-sec-1683",
+   "b": "uapda-2023",
+   "via": [
+    "kirsten-gillibrand",
+    "ndaa-fy2023-sec-1673"
+   ]
+  },
+  {
+   "a": "ndaa-fy2024",
+   "b": "ndaa-fy2026",
+   "via": [
+    "d-legislation",
+    "pl118-31-sec-1687"
+   ]
+  },
+  {
+   "a": "ndaa-fy2024",
+   "b": "usc-10-119",
+   "via": [
+    "d-funding",
+    "d-legislation"
+   ]
+  },
+  {
+   "a": "nids",
+   "b": "sol-foundation",
+   "via": [
+    "eric-davis",
+    "jacques-vallee"
+   ]
+  },
+  {
+   "a": "nids",
+   "b": "sri-international",
+   "via": [
+    "harold-puthoff",
+    "kit-green"
+   ]
+  },
+  {
+   "a": "nids",
+   "b": "stargate-program",
+   "via": [
+    "harold-puthoff",
+    "kit-green"
+   ]
+  },
+  {
+   "a": "nids",
+   "b": "ttsa",
+   "via": [
+    "harold-puthoff",
+    "kit-green"
+   ]
+  },
+  {
+   "a": "nids",
+   "b": "wilson-davis-memo",
+   "via": [
+    "eric-davis",
+    "kit-green"
+   ]
+  },
+  {
+   "a": "nimitz-2004",
+   "b": "uap-task-force",
+   "via": [
+    "kidd-russell-2019",
+    "navy-range-fouler-reports"
+   ]
+  },
+  {
+   "a": "nyt-2017-12-16",
+   "b": "sol-foundation",
+   "via": [
+    "david-grusch",
+    "leslie-kean"
+   ]
+  },
+  {
+   "a": "nyt-2017-12-16",
+   "b": "ttsa",
+   "via": [
+    "christopher-mellon",
+    "luis-elizondo"
+   ]
+  },
+  {
+   "a": "nyt-2017-12-16",
+   "b": "uap-task-force",
+   "via": [
+    "christopher-mellon",
+    "david-grusch"
+   ]
+  },
+  {
+   "a": "nyt-2017-12-16",
+   "b": "waived-sap-notification-group",
+   "via": [
+    "david-grusch",
+    "harry-reid"
+   ]
+  },
+  {
+   "a": "odni",
+   "b": "uap-task-force",
+   "via": [
+    "ndaa-fy2022",
+    "oni"
+   ]
+  },
+  {
+   "a": "odni-memo-es-2026-00818",
+   "b": "uapda-fy2027-house-adopted",
+   "via": [
+    "eric-burlison",
+    "pursue-task-force"
+   ]
+  },
+  {
+   "a": "project-blue-book",
+   "b": "robertson-panel",
+   "via": [
+    "afr-200-2",
+    "edward-ruppelt",
+    "haines-cia-history",
+    "j-allen-hynek"
+   ]
+  },
+  {
+   "a": "pursue-releases",
+   "b": "uap-task-force",
+   "via": [
+    "christopher-mellon",
+    "navy-range-fouler-reports"
+   ]
+  },
+  {
+   "a": "sol-foundation",
+   "b": "uap-task-force",
+   "via": [
+    "david-grusch",
+    "karl-nell"
+   ]
+  },
+  {
+   "a": "sol-foundation",
+   "b": "wilson-davis-memo",
+   "via": [
+    "david-grusch",
+    "eric-davis"
+   ]
+  },
+  {
+   "a": "sri-international",
+   "b": "ttsa",
+   "via": [
+    "harold-puthoff",
+    "kit-green"
+   ]
+  },
+  {
+   "a": "stargate-program",
+   "b": "ttsa",
+   "via": [
+    "harold-puthoff",
+    "kit-green"
+   ]
+  },
+  {
+   "a": "uapda-2023",
+   "b": "uapda-fy2027-house-adopted",
+   "via": [
+    "d-legislative",
+    "eric-burlison"
+   ]
+  },
+  {
+   "a": "uapda-2023",
+   "b": "waived-sap-notification-group",
+   "via": [
+    "david-grusch",
+    "eric-burlison",
+    "mitch-mcconnell"
+   ]
+  },
+  {
+   "a": "us-house",
+   "b": "waived-sap-notification-group",
+   "via": [
+    "john-mchugh",
+    "tom-cole"
+   ]
+  },
+  {
+   "a": "usc-10-119",
+   "b": "waived-usap-mechanism",
+   "via": [
+    "d-funding",
+    "david-grusch",
+    "usc-10-119e"
+   ]
+  }
+ ]
+}

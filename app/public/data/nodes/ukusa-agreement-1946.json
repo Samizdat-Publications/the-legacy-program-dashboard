@@ -1,0 +1,112 @@
+{
+"A": 3,
+"C": 1,
+"D": 2,
+"band": null,
+"claims": [
+{
+"source": "Outline of British-U.S. Communication Intelligence Agreement, 5 March 1946, para. 1, NSA UKUSA release copy, https://documents.theblackvault.com/documents/ukusa/agreement_outline_5mar46.pdf",
+"text": "The agreement is between the State-Army-Navy Communication Intelligence Board, representing the U.S. State, Navy and War Departments and all other U.S. Communication Intelligence authorities which may function, and the London Signal Intelligence Board, representing the Foreign Office, Admiralty, War Office, Air Ministry and all other British Empire Communication Intelligence authorities which may function.",
+"tier": 1
+},
+{
+"source": "Outline of British-U.S. Communication Intelligence Agreement, 5 March 1946, para. 5(a) and its footnote, https://documents.theblackvault.com/documents/ukusa/agreement_outline_5mar46.pdf",
+"text": "The agreement forbids disclosure of itself: 'It will be contrary to this agreement to reveal its existence to any third party whatsoever.' Third parties are defined as all individuals or authorities other than those of the United States, the British Empire and the British Dominions.",
+"tier": 1
+},
+{
+"source": "Outline of British-U.S. Communication Intelligence Agreement, 5 March 1946, paras. 3 and 4, https://documents.theblackvault.com/documents/ukusa/agreement_outline_5mar46.pdf",
+"text": "The exchange is defined by operation, not by target. Paragraph 3(a) commits both parties to exchange the products of collection of traffic, acquisition of communication documents and equipment, traffic analysis, cryptanalysis, decryption and translation, and acquisition of information regarding communication organisations, practices, procedures and equipment. Paragraph 4 extends the exchange to the methods and techniques involved, in both cases unrestricted except on notified withholding.",
+"tier": 1
+},
+{
+"source": "Outline of British-U.S. Communication Intelligence Agreement, 5 March 1946, para. 6, https://documents.theblackvault.com/documents/ukusa/agreement_outline_5mar46.pdf",
+"text": "The Dominions are held between the parties and the excluded world: 'While the Dominions are not parties to this agreement, they will not be regarded as third parties.' The London SIGINT Board is to keep the United States informed of arrangements with Dominion agencies, and STANCIB is to complete no arrangement with any Canadian agency without first obtaining the London Board's views.",
+"tier": 1
+},
+{
+"source": "Outline of British-U.S. Communication Intelligence Agreement, 5 March 1946, signature page and page markings, https://documents.theblackvault.com/documents/ukusa/agreement_outline_5mar46.pdf",
+"text": "The document is signed for the London Signal Intelligence Board by an officer described as Colonel, British Army General Staff, whose name the scan does not render legibly, and for the State-Army-Navy Communication Intelligence Board by Hoyt S. Vandenberg, Lieutenant General, GSC, as Senior Member. It is dated 5 March 1946 and its pages carry the NSA declassification exemption marking NSA25X6 with EO 1.4.(d).",
+"tier": 1
+},
+{
+"source": "Outline of British-U.S. Communication Intelligence Agreement, 5 March 1946, full text, https://documents.theblackvault.com/documents/ukusa/agreement_outline_5mar46.pdf",
+"text": "The agreement contains nothing about anomalous objects. A search of the extracted text of all six numbered pages for 'flying', 'saucer', 'unidentified', 'aerial phenomen' and 'anomalous' returns no occurrence of any of them. The instrument is a communications intelligence sharing agreement and its secrecy clause covers its own existence, not any subject matter beyond communications.",
+"tier": 1
+}
+],
+"cls": "document",
+"cluster": "ic",
+"connections": [
+{
+"claimTier": 2,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "Released by NSA with its declassification markings on the pages",
+"id": "nsa",
+"l0": true,
+"label": "National Security Agency",
+"note": "The pages carry the NSA declassification exemption marking NSA25X6 with EO 1.4.(d), and the copy opened comes from a mirror of the National Security Agency's UKUSA release. NSA did not exist in 1946; STANCIB was the United States party. The claim that NSA and GCHQ released the file jointly in 2010 was not verified from any record opened by this pass.",
+"sources": [
+{
+"date": "1946-03-05",
+"name": "Outline of British-U.S. Communication Intelligence Agreement, page markings",
+"url": "https://documents.theblackvault.com/documents/ukusa/agreement_outline_5mar46.pdf"
+}
+],
+"tier": "B",
+"type": "institutional"
+}
+],
+"coords": null,
+"dateEnd": "1946-03-05",
+"dateStart": "1946-03-05",
+"deg": 1,
+"denials": [],
+"desc": "The agreement signed on 5 March 1946 between the State-Army-Navy Communication Intelligence Board and the London Signal Intelligence Board is the founding instrument of what became the Five Eyes arrangement. In twelve paragraphs it commits the two sides to unrestricted exchange of the products of collection, traffic analysis, cryptanalysis, decryption and translation of foreign communications, and of the methods and techniques behind them, with withholdings to be notified and kept to a minimum. It defines third parties as everyone outside the United States, the British Empire and the Dominions, forbids either party from acting toward a third party without the other's agreement, and makes it contrary to the agreement to reveal that the agreement exists at all. It supersedes all previous British and United States agreements in the field and is terminable by either party on notice. Nothing in it concerns anomalous objects or their recovery.",
+"domains": [
+"area52-2026-09-02"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "ukusa-agreement-1946",
+"l0": false,
+"label": "British-U.S. Communication Intelligence Agreement (UKUSA), 5 March 1946",
+"locLabel": null,
+"members": null,
+"short": "British-U.S. Communication Intelligence Agreement (UKUSA), 5 March 1946",
+"sources": [
+{
+"date": "1946-03-05",
+"name": "Outline of British-U.S. Communication Intelligence Agreement, 5 March 1946, from the NSA UKUSA release, copy held by The Black Vault",
+"url": "https://documents.theblackvault.com/documents/ukusa/agreement_outline_5mar46.pdf"
+},
+{
+"date": "2026-09-02",
+"name": "UKUSA Agreement, 1940-1956, The Black Vault index of the NSA release",
+"url": "https://www.theblackvault.com/documentarchive/ukusa-agreement/"
+}
+],
+"sub": "STANCIB and the London SIGINT Board; twelve paragraphs; the clause forbidding disclosure of its own existence",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 311 of 1027, score 36). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A3/D2.",
+"timeline": [
+{
+"date": "1946-03-05",
+"id": "tl-1946-03-05-ukusa-agreement",
+"label": "The British-U.S. Communication Intelligence Agreement is signed",
+"precision": "day",
+"strand": "oversight",
+"text": "STANCIB and the London Signal Intelligence Board sign a twelve-paragraph agreement for unrestricted exchange of the products and methods of communications intelligence. It defines third parties as everyone outside the United States, the British Empire and the Dominions, and states that 'It will be contrary to this agreement to reveal its existence to any third party whatsoever.' A search of all six numbered pages returns no occurrence of flying, saucer, unidentified, aerial phenomen or anomalous.",
+"tier": "C"
+}
+]
+}

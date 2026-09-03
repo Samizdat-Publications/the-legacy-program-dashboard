@@ -1,0 +1,87 @@
+{
+"A": 1,
+"C": 0,
+"D": 2,
+"band": null,
+"claims": [
+{
+"source": "COMETA report, Introduction, 1999",
+"text": "'In 1976, a committee of the Institut des Hautes Etudes de Defense Nationale (IHEDN) chaired by General Blanchard of the Gendarmerie Nationale opened the unidentified flying objects file.'",
+"tier": 1
+},
+{
+"source": "COMETA report, Norlain preface, 1999",
+"text": "Norlain: 'Knowing that some twenty years earlier the AA had produced and published a preliminary report on the subject in its bulletin, it was but time to update it' - and 'The first report of the AA favored the creation within CNES of the only civilian government agency known in the world dedicated to the study of UFOs.'",
+"tier": 1
+}
+],
+"cls": "institution",
+"cluster": "oversight",
+"connections": [
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": "1977",
+"dateStart": "1976",
+"direction": "out",
+"edgeLabel": "1976 IHEDN committee produced GEPAN",
+"id": "gepan",
+"l0": false,
+"label": "GEPAN - Groupe d'Étude des Phénomènes Aérospatiaux Non-identifiés",
+"note": "COMETA's own introduction: a 1976 IHEDN committee chaired by General Blanchard of the Gendarmerie Nationale opened the file and its recommendations produced GEPAN.",
+"sources": [
+{
+"date": "1999-07-01",
+"name": "COMETA report",
+"url": "https://ia800403.us.archive.org/17/items/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D.pdf"
+}
+],
+"tier": "C",
+"type": "institutional"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "1936",
+"deg": 1,
+"denials": [],
+"desc": "IHEDN is the French state's senior strategic-studies institute, whose auditors are drawn from the armed forces, the civil service, industry and the professions. It appears twice in the UAP record, and both appearances are load-bearing. In 1976 a committee of the Institute chaired by General Blanchard of the Gendarmerie Nationale 'opened the unidentified flying objects file' with the objective of making proposals for organising research and data collection on the phenomena; the recommendations of that committee were adopted and produced GEPAN inside CNES in 1977. Twenty years later the IHEDN Auditors Association backed General Denis Letty's new committee, which became COMETA, after Letty took the proposal to the Institute's then director General Bernard Norlain in March 1995. The line of descent means that the French state's official UAP office and the most emphatic senior-officer report on the subject in any NATO country both trace to the same institution.",
+"domains": [
+"w2-international"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "ihedn",
+"l0": false,
+"label": "Institut des Hautes Études de Défense Nationale (IHEDN)",
+"locLabel": null,
+"members": null,
+"short": "Institut des Hautes Études de Défense Nationale (IHEDN)",
+"sources": [
+{
+"date": "1999-07-01",
+"name": "COMETA report (English edition)",
+"url": "https://ia800403.us.archive.org/17/items/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D.pdf"
+}
+],
+"sub": "French national defence studies institute; source of the 1976 committee and the COMETA auditors",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 906 of 1027, score 14). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D2.",
+"timeline": [
+{
+"date": "1976",
+"id": "tl-intl-1976-ihedn",
+"label": "IHEDN committee opens the French file",
+"precision": "year",
+"strand": "program",
+"text": "A committee of the Institut des Hautes Études de Défense Nationale chaired by General Blanchard of the Gendarmerie Nationale opens the unidentified flying objects file with the objective of proposing how to organise research and data collection. Its recommendations are adopted.",
+"tier": 1
+}
+]
+}

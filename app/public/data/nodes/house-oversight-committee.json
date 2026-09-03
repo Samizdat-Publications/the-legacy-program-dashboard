@@ -1,0 +1,737 @@
+{
+"A": 1,
+"C": 0,
+"D": 3,
+"band": "oversight",
+"claims": [
+{
+"source": "GPO CHRG-118hhrg53022, CHRG-118hhrg57440, CHRG-119hhrg61718",
+"text": "Held the three House UAP hearings of 26 July 2023, 13 November 2024 and 9 September 2025, all printed by the Government Publishing Office.",
+"tier": 1
+},
+{
+"source": "CHRG-119hhrg61718, 9 September 2025",
+"text": "Its chairwoman placed on the record that DoD restricted UAP SAP read-ins to HASC and HAC-D members, requiring approval from the chairman and ranking member of both for any other member.",
+"tier": 1
+},
+{
+"source": "Inference from the three hearing records and oversight.house.gov",
+"text": "No UAP subpoena has issued from the committee across three years and three hearings despite on-record member requests for one in 2023, 2024 and 2026. Reasoning: none appears in the hearings' printed document indexes or in committee releases located through August 2026.",
+"tier": 3
+}
+],
+"cls": "institution",
+"cluster": "oversight",
+"connections": [
+{
+"claimTier": 1,
+"cls": "domain",
+"dateEnd": "2025-09-09",
+"dateStart": "2023-07-26",
+"direction": "out",
+"edgeLabel": "the venue where the record is made under oath, and the only House committee with unilateral subpoena power in the chair's hands",
+"id": "d-legislative",
+"l0": false,
+"label": "Legislative Process (proposed and pending)",
+"note": "Oversight held the 26 July 2023 hearing, the 13 November 2024 hearing and, through its declassification task force, the 9 September 2025 hearing. Sworn testimony taken in this committee is the mechanism by which allegations enter the legislative process at all, which is a different function from enacting text.",
+"sources": [
+{
+"date": "2023-07-26",
+"name": "House Oversight hearing transcript, 'UAP: Implications on National Security, Public Safety, and Government Transparency' (CHRG-118hhrg53022)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm"
+},
+{
+"date": "2024-11-13",
+"name": "House Oversight hearing transcript, 'UAP: Exposing the Truth' (CHRG-118hhrg57440)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm"
+},
+{
+"date": "2025-09-09",
+"name": "House Oversight Task Force hearing transcript, 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection' (CHRG-119hhrg61718)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2025",
+"direction": "in",
+"edgeLabel": "Told committee staff that only HASC and HAC-D members could be read in on UAP special access programs",
+"id": "dod",
+"l0": true,
+"label": "United States Department of Defense (secondary designation: Department of War)",
+"note": "Luna's 9 Sept 2025 opening statement is the primary record of the read-in gate.",
+"sources": [
+{
+"date": "2025-09-09",
+"name": "U.S. GPO, Hearing transcript, Serial No. 119-44 (CHRG-119hhrg61718)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm"
+},
+{
+"date": "2025-09-09",
+"name": "House Oversight Committee release: Luna Opens Hearing on Restoring Public Trust Through UAP Transparency",
+"url": "https://oversight.house.gov/release/luna-opens-hearing-on-restoring-public-trust-through-uap-transparency/"
+}
+],
+"tier": "A",
+"type": "denial"
+},
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": "2026-05-13",
+"dateStart": "2026-05-13",
+"direction": "in",
+"edgeLabel": "Same committee, 13 May 2026",
+"id": "dow-financial-mgmt-hearing-2026",
+"l0": false,
+"label": "House Oversight hearing: 'DoW Financial Management: Examining Progress and New Audit Approaches' (13 May 2026)",
+"note": "The House Committee on Oversight and Government Reform held the DoW financial management hearing at which Deputy IG Mansfield testified. Attested by the OIG's publication of his statement.",
+"sources": [
+{
+"date": "2026-05-13",
+"name": "Mansfield oral statement",
+"url": "https://media.defense.gov/2026/May/22/2003937005/-1/-1/1/MANSFIELD%20ORAL%20STATEMENT%205.13.26_FINAL.PDF"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": "2023-07-26",
+"dateStart": "2023-07-26",
+"direction": "in",
+"edgeLabel": "Sworn testimony before the committee, 26 July 2023",
+"id": "grusch-misappropriation-allegation",
+"l0": true,
+"label": "The misappropriation allegation: Grusch's ICIG complaint and sworn testimony",
+"note": "Grusch testified with Ryan Graves and David Fravor at 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'. Attested by the committee's own hearing page.",
+"sources": [
+{
+"date": "2023-07-26",
+"name": "House Oversight hearing page",
+"url": "https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/"
+}
+],
+"tier": "A",
+"type": "witness-chain"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "2025",
+"dateStart": "2023",
+"direction": "out",
+"edgeLabel": "Parent committee of Mace's subcommittee",
+"id": "hoc-subcommittee-cybersecurity-it",
+"l0": false,
+"label": "Subcommittee on Cybersecurity, Information Technology, and Government Innovation",
+"note": "Mace's Cybersecurity, IT and Government Innovation subcommittee co-chaired the 13 Nov 2024 joint UAP hearing.",
+"sources": [
+{
+"date": "2024-11-13",
+"name": "U.S. GPO, Hearing transcript, Serial No. 118-135 (CHRG-118hhrg57440)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "2025",
+"dateStart": "2023",
+"direction": "out",
+"edgeLabel": "Parent committee of the subcommittee that held the founding UAP hearing",
+"id": "hoc-subcommittee-national-security",
+"l0": false,
+"label": "Subcommittee on National Security, the Border, and Foreign Affairs",
+"note": "The Subcommittee on National Security, the Border, and Foreign Affairs is a standing subcommittee of the Committee on Oversight and Accountability; the printed hearing record carries both rosters.",
+"sources": [
+{
+"date": "2023-07-26",
+"name": "U.S. GPO, Hearing transcript, Serial No. 118-53 (CHRG-118hhrg53022)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "2025",
+"dateStart": "2023",
+"direction": "in",
+"edgeLabel": "Ranking Member of the full committee at the time of the founding hearing",
+"id": "jamie-raskin",
+"l0": false,
+"label": "Jamin Ben Raskin",
+"note": "Raskin took two full rounds of questioning at the 26 July 2023 subcommittee hearing.",
+"sources": [
+{
+"date": "2023-07-26",
+"name": "U.S. GPO, Hearing transcript, Serial No. 118-53 (CHRG-118hhrg53022)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 2,
+"cls": "event",
+"dateEnd": null,
+"dateStart": "2026",
+"direction": "in",
+"edgeLabel": "Run by the same committee and the same member as the UAP inquiry",
+"id": "missing-scientists-probe-2026",
+"l0": false,
+"label": "House Oversight probe into deaths and disappearances of scientists, April 2026",
+"note": "The convergence of the two inquiries in one subcommittee chair is the structural link between this board and The Vanishing.",
+"sources": [
+{
+"date": "2026-04-21",
+"name": "Fox News: Missing scientists probe was sparked after 'UFO General' disappeared, Republican lawmaker reveals",
+"url": "https://www.foxnews.com/politics/missing-scientists-probe-sparked-after-ufo-general-disappeared-republican-lawmaker-reveals"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 2,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2026",
+"direction": "in",
+"edgeLabel": "Conditions any production on coordination with the sponsoring federal agencies",
+"id": "mitre-corporation",
+"l0": true,
+"label": "The MITRE Corporation",
+"note": "MITRE: 'If any relevant material is found, we will coordinate with the federal agencies responsible for the work to determine how to best provide any assets' - a compliance posture with an executive-branch veto inside it.",
+"sources": [
+{
+"date": "2026-05-27",
+"name": "DefenseScoop: MITRE moves to comply with lawmaker's request for UAP records and assets dating back to 1930",
+"url": "https://defensescoop.com/2026/05/27/rep-eric-burlison-request-for-uap-records-mitre/"
+}
+],
+"tier": "A",
+"type": "denial"
+},
+{
+"claimTier": 1,
+"cls": "legislation",
+"dateEnd": null,
+"dateStart": "2023-12-22",
+"direction": "in",
+"edgeLabel": "Reports on SAP access populations are addressed to House Oversight among others",
+"id": "ndaa-fy2024-7606",
+"l0": false,
+"label": "FY2024 IAA sec. 7606(c) — Agency Review of Special Access Programs",
+"note": "Sec. 7606(c)(2) names the Committee on Oversight and Accountability of the House of Representatives among the recipients.",
+"sources": [
+{
+"date": "2023-12-22",
+"name": "Public Law 118-31, FY2024 NDAA (govinfo enrolled text)",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm"
+}
+],
+"tier": "C",
+"type": "legislative"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "Outside watchdog seated as witness before Oversight's declassification task force",
+"id": "pogo",
+"l0": false,
+"label": "Project On Government Oversight",
+"note": "The hearing's own masthead gives the forum exactly: 'HEARING BEFORE THE TASK FORCE ON THE DECLASSIFICATION OF FEDERAL SECRETS OF THE COMMITTEE ON OVERSIGHT AND GOVERNMENT REFORM'. POGO appeared through Joe Spielberger, its senior policy counsel, listed as the minority witness, and used the appearance to argue for statutory whistleblower protection rather than to make claims about the phenomenon.",
+"sources": [
+{
+"date": "2025-09-09",
+"name": "'Restoring Public Trust Through UAP Transparency and Whistleblower Protection', hearing before the Task Force on the Declassification of Federal Secrets of the Committee on Oversight and Government Reform, 9 September 2025, Serial No. 119-44",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm"
+},
+{
+"date": null,
+"name": "Testimony of Joe Spielberger, POGO, before the House Committee on Oversight and Government Reform, Task Force on the Declassification of Federal Secrets, September 9, 2025 -- https://oversight.house.gov/wp-content/uploads/2025/09/Spielberger-Written-Testimony.pdf",
+"url": ""
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 2,
+"cls": "program",
+"dateEnd": null,
+"dateStart": "2026",
+"direction": "in",
+"edgeLabel": "Executive-controlled release running in parallel to, and in tension with, the committee's compelled-production track",
+"id": "pursue-releases",
+"l0": true,
+"label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters",
+"note": "The House caucus response has been to keep issuing letters on the premise that a curated release cannot substitute for compelled production.",
+"sources": [
+{
+"date": "2026-05-14",
+"name": "DefenseScoop: 'Data alone is not disclosure' — UAP research community reacts to Trump's first PURSUE file drop",
+"url": "https://defensescoop.com/2026/05/14/uap-trump-first-pursue-ufo-file-drop/"
+},
+{
+"date": "2026-02-20",
+"name": "DefenseScoop: Transparency proponents meet Trump's UAP disclosure tease with hope — and caution",
+"url": "https://defensescoop.com/2026/02/20/trump-ufo-uap-government-files-disclosure/"
+}
+],
+"tier": "A",
+"type": "programmatic"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "2025",
+"direction": "in",
+"edgeLabel": "Ranking Member of the full committee from 2025",
+"id": "robert-garcia",
+"l0": false,
+"label": "Robert Garcia",
+"note": "Garcia moved from subcommittee ranking member to full-committee ranking member in the 119th Congress; printed in the CHRG-119hhrg61718 roster.",
+"sources": [
+{
+"date": "2025-09-09",
+"name": "U.S. GPO, Hearing transcript, Serial No. 119-44 (CHRG-119hhrg61718)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "domain",
+"dateEnd": null,
+"dateStart": "2023",
+"direction": "in",
+"edgeLabel": "The jurisdictional routing that keeps the subpoena committee uncleared",
+"id": "sap-readin-gate",
+"l0": false,
+"label": "The HASC/HAC-D special access program read-in gate",
+"note": "Documented by Luna on 9 September 2025; corroborated by Burlison's 2024 AARO briefing block and his 2025 non-germane amendment ruling.",
+"sources": [
+{
+"date": "2025-09-09",
+"name": "U.S. GPO, Hearing transcript, Serial No. 119-44 (CHRG-119hhrg61718)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 2,
+"cls": "program",
+"dateEnd": null,
+"dateStart": "2025",
+"direction": "out",
+"edgeLabel": "Chairman Comer created the Task Force and gave it the UAP declassification remit",
+"id": "task-force-declassification-federal-secrets",
+"l0": true,
+"label": "Task Force on the Declassification of Federal Secrets",
+"note": "Comer announced the Task Force on 11 February 2025 and named Luna chairwoman; its roster is printed in the 9 Sept 2025 hearing record.",
+"sources": [
+{
+"date": "2025-02-18",
+"name": "The Hill (opinion, Marik von Rennenkampff): House Republicans demand UFO transparency",
+"url": "https://thehill.com/opinion/national-security/5149386-house-republicans-demand-ufo-transparency/"
+},
+{
+"date": "2025-09-09",
+"name": "U.S. GPO, Hearing transcript, Serial No. 119-44 (CHRG-119hhrg61718)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2023-07-26",
+"direction": "in",
+"edgeLabel": "Committee that took the 2023 and 2024 public UAP testimony",
+"id": "us-house",
+"l0": true,
+"label": "United States House of Representatives",
+"note": "House Oversight held the 26 July 2023 hearing and the 13 November 2024 hearing, and its Task Force on the Declassification of Federal Secrets held the 9 September 2025 hearing.",
+"sources": [
+{
+"date": "2023-07-26",
+"name": "CHRG-118hhrg53022, House Oversight UAP hearing transcript",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm"
+},
+{
+"date": "2025-09-09",
+"name": "CHRG-119hhrg61718, 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "legislation",
+"dateEnd": null,
+"dateStart": "2018-12-21",
+"direction": "in",
+"edgeLabel": "Gives House Oversight a statutory entitlement to SAP reports from every covered agency",
+"id": "usc-50-3348",
+"l0": false,
+"label": "50 U.S.C. 3348 — Reports Relating to Certain SAPs and Similar Programs",
+"note": "50 U.S.C. 3348(g)(1)(C) names the committee; 3348(g)(2)(B) excludes only DoD, NNSA and IC agencies from the reporting obligation.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "50 U.S.C. 3348",
+"url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3348&num=0&edition=prelim"
+}
+],
+"tier": "A",
+"type": "legislative"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "not a defense committee; receives nothing under 10 U.S.C. 119",
+"id": "waived-sap-notification-group",
+"l0": true,
+"label": "Waived SAP Notification Group",
+"note": "The July 2023 Grusch testimony was taken by a House Oversight subcommittee. That committee has no entitlement under section 119(e)(2) and no statutory route to compel waived-SAP material, which is a structural reason why the hearing could establish allegation but not access.",
+"sources": [
+{
+"date": "2026-08-22",
+"name": "10 U.S.C. 119, Special Access Programs: congressional oversight — subsections (e)(2) and (g) (OLRC prelim text, read 22 August 2026)",
+"url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim"
+},
+{
+"date": "2023-07-26",
+"name": "U.S. GPO, Hearing transcript, Serial No. 118-53 (CHRG-118hhrg53022)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm"
+}
+],
+"tier": "A",
+"type": "institutional"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "1927",
+"deg": 18,
+"denials": [
+{
+"by": {
+"id": "dod",
+"label": "United States Department of Defense (secondary designation: Department of War)"
+},
+"claimTier": 1,
+"denialKind": "directed",
+"label": "Told committee staff that only HASC and HAC-D members could be read in on UAP special access programs",
+"note": "Luna's 9 Sept 2025 opening statement is the primary record of the read-in gate.",
+"of": {
+"id": "house-oversight-committee",
+"label": "U.S. House Committee on Oversight and Government Reform"
+},
+"sources": [
+{
+"date": "2025-09-09",
+"name": "U.S. GPO, Hearing transcript, Serial No. 119-44 (CHRG-119hhrg61718)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm"
+},
+{
+"date": "2025-09-09",
+"name": "House Oversight Committee release: Luna Opens Hearing on Restoring Public Trust Through UAP Transparency",
+"url": "https://oversight.house.gov/release/luna-opens-hearing-on-restoring-public-trust-through-uap-transparency/"
+}
+]
+},
+{
+"by": {
+"id": "mitre-corporation",
+"label": "The MITRE Corporation"
+},
+"claimTier": 2,
+"denialKind": "directed",
+"label": "Conditions any production on coordination with the sponsoring federal agencies",
+"note": "MITRE: 'If any relevant material is found, we will coordinate with the federal agencies responsible for the work to determine how to best provide any assets' - a compliance posture with an executive-branch veto inside it.",
+"of": {
+"id": "house-oversight-committee",
+"label": "U.S. House Committee on Oversight and Government Reform"
+},
+"sources": [
+{
+"date": "2026-05-27",
+"name": "DefenseScoop: MITRE moves to comply with lawmaker's request for UAP records and assets dating back to 1930",
+"url": "https://defensescoop.com/2026/05/27/rep-eric-burlison-request-for-uap-records-mitre/"
+}
+]
+}
+],
+"desc": "The House's general-purpose investigative committee, styled Committee on Oversight and Accountability in the 118th Congress and Committee on Oversight and Government Reform in the 119th, chaired by James Comer since 2023 with Jamie Raskin and then Robert Garcia as ranking member. It is the only House committee with government-wide investigative jurisdiction and unilateral subpoena authority in the chair's hands, which is why the UAP question landed here rather than in Armed Services or Intelligence. It has held every House UAP hearing of the modern era: 26 July 2023 through its National Security, the Border, and Foreign Affairs subcommittee; 13 November 2024 as a joint hearing of that subcommittee and the Cybersecurity, Information Technology and Government Innovation subcommittee; and 9 September 2025 through the Task Force on the Declassification of Federal Secrets. Its structural problem is stated in its own record. On 9 September 2025 Chairwoman Luna disclosed that DoD had told committee staff that under special access program rules only House Armed Services and Defense Appropriations members could be read in on the relevant programs, and that any other member required approval from the chairman and ranking member of both. The committee that can subpoena cannot be cleared; the committees that are cleared have not subpoenaed. That is the load-bearing structural fact of the entire House disclosure effort.",
+"domains": [
+"congress-house"
+],
+"dossier": {
+"claims": [
+{
+"source": "https://www.congress.gov/event/118th-congress/house-event/116282",
+"text": "On 26 July 2023 the House Oversight Subcommittee on National Security, the Border, and Foreign Affairs held 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency,' with witnesses Ryan Graves, Cmdr. David Fravor (Ret.) and David Grusch.",
+"tier": 1
+},
+{
+"source": "https://oversight.house.gov/release/national-security-subcommittee-to-hold-hearing-on-unidentified-anomalous-phenomena%ef%bf%bc/",
+"text": "The 26 July 2023 hearing was chaired by Rep. Glenn Grothman and held in 2154 Rayburn House Office Building.",
+"tier": 2
+},
+{
+"source": "https://www.congress.gov/event/118th-congress/house-event/116282",
+"text": "Under oath at the 26 July 2023 hearing, David Grusch testified that he had been informed in the course of his official duties of a multi-decade crash retrieval and reverse-engineering program to which he was denied access, and that recoveries included non-human biologics.",
+"tier": 1
+},
+{
+"source": "https://docs.house.gov/committee/calendar/ByEvent.aspx?EventID=117721",
+"text": "On 13 November 2024 the Subcommittee on Cybersecurity, Information Technology, and Government Innovation and the Subcommittee on National Security, the Border, and Foreign Affairs held a joint hearing titled 'Unidentified Anomalous Phenomena: Exposing the Truth' at 11:30 a.m. in 2154 Rayburn.",
+"tier": 1
+},
+{
+"source": "Joint Subcommittee Hearing Notice, 6 November 2024: https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-20241113-SD001.pdf",
+"text": "The witnesses at the 13 November 2024 joint hearing were Dr. Tim Gallaudet (Rear Admiral, USN Ret., CEO of Ocean STL Consulting LLC), Luis Elizondo, Michael Gold (former NASA Associate Administrator of Space Policy and Partnerships and member of the NASA UAP Independent Study Team), and Michael Shellenberger (founder of Public).",
+"tier": 1
+},
+{
+"source": "https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Transcript-20241113.pdf ; https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm",
+"text": "The official transcript of the 13 November 2024 hearing was published by the Committee as HHRG-118-GO12-Transcript-20241113 and the hearing was printed by GPO as CHRG-118hhrg57440.",
+"tier": 1
+},
+{
+"source": "https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Transcript-20241113.pdf",
+"text": "At the 13 November 2024 hearing Michael Shellenberger testified to a claimed secret U.S. government program he identified as 'Immaculate Constellation,' described as collecting UAP reports and sensor data from military personnel and quarantining them from the rest of the government and military.",
+"tier": 2
+},
+{
+"source": "https://oversightdemocrats.house.gov/sites/evo-subsites/democrats-oversight.house.gov/files/evo-media-document/2024-11-13%20UAPs%20Opening%20Statement%20Moskowitz.pdf",
+"text": "Rep. Jared Moskowitz delivered a minority opening statement at the 13 November 2024 hearing, published by the Committee minority.",
+"tier": 1
+},
+{
+"source": "https://oversight.house.gov/release/luna-announces-hearing-on-transparency-relating-to-unidentified-anomalous-phenomena",
+"text": "On 3 September 2025 Task Force on the Declassification of Federal Secrets Chairwoman Anna Paulina Luna announced a hearing titled 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection,' set for 9 September 2025 at 10:00 AM in HVC-210, with witnesses Jeffrey Nuccetelli, Chief Alexandro Wiggins, George Knapp and Dylan Borland.",
+"tier": 1
+},
+{
+"source": "https://oversight.house.gov/release/luna-announces-hearing-on-transparency-relating-to-unidentified-anomalous-phenomena",
+"text": "Luna's hearing announcement stated that members would 'analyze the work and effectiveness of DoD's congressionally mandated All-Domain Anomaly Resolution Office (AARO)' and that whistleblowers providing details on spending and classification policies 'should be able to do so without retribution.'",
+"tier": 1
+},
+{
+"source": "https://oversight.house.gov/subcommittee/task-force-on-the-declassification-of-federal-secrets/",
+"text": "The Task Force on the Declassification of Federal Secrets is a standing subcommittee-level body of the House Oversight Committee, listed alongside the Committee's standing subcommittees.",
+"tier": 1
+},
+{
+"source": "https://aarclibrary.org/2025/02/21/new-statement-and-update-from/ ; https://spectrumlocalnews.com/us/snplus/news/2025/02/11/comer-luna-republicans-ufos-jfk-mlk-epstein-task-force",
+"text": "The Task Force's portfolio spans the assassinations of John F. Kennedy, Robert F. Kennedy and Martin Luther King Jr., COVID-19 origins, unidentified anomalous phenomena and unidentified submerged objects, 9/11, and the Epstein client list; members include Reps. Lauren Boebert, Nancy Mace, Jasmine Crockett and Raja Krishnamoorthi.",
+"tier": 2
+},
+{
+"source": "https://oversight.house.gov/release/luna-continues-transparency-investigation-into-uaps/ ; letter: https://oversight.house.gov/wp-content/uploads/2026/03/UAP-Request-Letter-FINAL.pdf",
+"text": "In a press release published 1 April 2026 the Committee announced that Chairwoman Luna sent a letter to Secretary of War Pete Hegseth requesting specific UAP video files, stating that whistleblowers had informed the Task Force that AARO possesses additional video records of potential UAP sightings.",
+"tier": 1
+},
+{
+"source": "https://oversight.house.gov/release/luna-continues-transparency-investigation-into-uaps/",
+"text": "In that release Luna stated on the record: 'The Task Force has found responses from AARO, when questioned about UAP sightings and provided data, less than adequate.'",
+"tier": 1
+},
+{
+"source": "https://burchett.house.gov/media/press-releases/rep-burchett-launches-uap-caucus-leads-letter-intelligence-community-inspector",
+"text": "Rep. Tim Burchett launched a congressional UAP caucus and led a letter to the Intelligence Community Inspector General on UAP matters.",
+"tier": 2
+}
+],
+"connections": [
+"Anna Paulina Luna chairs the task force and is the direct correspondent with Secretary of War Pete Hegseth; her letters are the current front line of the documentary fight.",
+"Tim Burchett and Anna Paulina Luna were the members most responsible for securing witnesses; Glenn Grothman chaired the first hearing; Nancy Mace chaired the Cybersecurity/IT subcommittee side of the November 2024 joint hearing.",
+"David Grusch's path runs NRO to UAP Task Force to NGA to ICIG to this committee, making Oversight the terminus of the whistleblower channel.",
+"Luis Elizondo testified here in November 2024, connecting the AATIP naming dispute directly to a congressional record under oath.",
+"Michael Shellenberger's 'Immaculate Constellation' testimony introduces a claimed program name into the congressional record that no executive branch document has yet addressed.",
+"AARO is the committee's principal adversary-in-fact: the office whose effectiveness the task force is investigating and whose video holdings it is demanding.",
+"George Knapp, a witness in September 2025, is also the journalist who first reported the AATIP-Bigelow story in Nevada, tying the 2025 hearing back to the 2008 procurement.",
+"The FY2024 NDAA UAP Records Collection at NARA and the stripped Schumer-Rounds eminent domain and review board provisions define the statutory terrain the committee is operating on."
+],
+"denialPosture": "The Committee is the recipient of denials rather than the issuer. Its own published position, stated by Chairwoman Luna in April 2026, is that AARO's responses to its questions have been 'less than adequate' and that the lack of disclosure 'regarding the very real threat posed by UAPs in and around U.S. restricted airspace is concerning.'",
+"narrative": "Three hearings define the record.\n\nOn 26 July 2023 the Subcommittee on National Security, the Border, and Foreign Affairs, chaired by Rep. Glenn Grothman, held 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency' in 2154 Rayburn. The witnesses were Ryan Graves, Executive Director of Americans for Safe Aerospace; Commander David Fravor, former commanding officer of the Black Aces squadron; and David Grusch, former National Reconnaissance Office representative to the UAP Task Force. Grusch testified under oath that in the course of his official duties he was informed of a multi-decade crash retrieval and reverse-engineering program to which he was denied access, that he had interviewed dozens of witnesses over several years, and that recoveries included non-human biologics, repeatedly stating he could provide specifics in a secure setting. Fravor described the November 2004 Nimitz encounter. Graves testified on reporting stigma and aviation safety. It was the first time a sworn witness told a House committee, on camera, that the United States operates a concealed retrieval program.\n\nOn 13 November 2024 the Subcommittee on Cybersecurity, Information Technology, and Government Innovation and the Subcommittee on National Security, the Border, and Foreign Affairs held a joint hearing, 'Unidentified Anomalous Phenomena: Exposing the Truth.' Witnesses were Rear Admiral Tim Gallaudet, USN (Ret.), CEO of Ocean STL Consulting; Luis Elizondo; Michael Gold, former NASA Associate Administrator for Space Policy and Partnerships and member of the NASA UAP Independent Study Team; and Michael Shellenberger, founder of Public. Shellenberger testified to the existence of a claimed program he identified as 'Immaculate Constellation,' described as collecting UAP imagery and sensor data from military personnel and sequestering it from the rest of the government. The full transcript was published as HHRG-118-GO12-Transcript-20241113 and the hearing was printed as CHRG-118hhrg57440. The composition of the witness panel is itself notable: a retired flag officer, a former NASA associate administrator, a former DoD official, and a journalist, three of whom held senior federal positions.\n\nOn 9 September 2025 the Task Force on the Declassification of Federal Secrets, chaired by Rep. Anna Paulina Luna, held 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection' in HVC-210. Witnesses were Jeffrey Nuccetelli (USAF veteran), Chief Alexandro Wiggins, George Knapp, and Dylan Borland (USAF veteran). Luna's announcement stated the hearing would 'analyze the work and effectiveness of DoD's congressionally mandated All-Domain Anomaly Resolution Office (AARO)' and that whistleblowers 'should be able to' provide information on spending, classification and declassification 'without retribution.'\n\nThe institutional vehicle matters. The Task Force on the Declassification of Federal Secrets was created in early 2025 under the Oversight Committee, with a portfolio spanning the JFK, RFK and MLK assassinations, COVID origins, 9/11, the Epstein files, and UAP and unidentified submerged objects. Members include Reps. Lauren Boebert, Nancy Mace, Jasmine Crockett and Raja Krishnamoorthi. Placing UAP inside a declassification task force rather than a national security subcommittee is a deliberate reframing: it treats the subject as a records-access problem rather than a threat-assessment problem, which is the correct frame if the hypothesis is concealment.\n\nThe investigation did not end with the hearing. A committee press release dated 1 April 2026 announces a letter from Luna to Secretary of War Pete Hegseth requesting specific UAP video files, quoting her: 'On September 9, 2025, the Task Force held a hearing focused on UAP concerns. Whistleblowers informed the Task Force that AARO possesses additional video records of potential UAP sightings.' The release states this is 'part of the Committee's larger investigation into the work and effectiveness of the Department of War's congressionally mandated AARO,' and quotes Luna concluding that AARO's responses have been 'less than adequate' and that 'The presence of UAPs in and around the sensitive airspaces of U.S. military installations poses a threat to the security of the armed forces and their readiness.'\n\nWho matters by name: James Comer (full committee chair), Anna Paulina Luna (task force chair and the most persistent driver), Tim Burchett (co-founder of the UAP caucus and a principal mover of the 2023 hearing), Glenn Grothman (2023 subcommittee chair), Nancy Mace, Eric Burlison, Jared Moskowitz and Robert Garcia on the minority and bipartisan side. What the record shows is a committee that has taken sworn testimony, published transcripts, created a dedicated task force, and escalated to written demands on the Secretary of War. What the record does not show is a single document production from the executive branch responsive to the central claim.",
+"openQuestions": [
+"Has the Committee ever issued a subpoena, as opposed to a request letter, for UAP records? No published subpoena has surfaced.",
+"Grusch told the Committee he could provide specifics in a SCIF. Did a classified follow-on session occur, and is there a record of it?",
+"The 'Immaculate Constellation' documentation Shellenberger described has never been authenticated by the Committee. Does the Committee hold a copy?",
+"What did DoD or AARO respond to Luna's video-file request, and on what date?",
+"Did the Committee ever obtain the classified annex to the June 2021 ODNI preliminary assessment?",
+"Why has the Senate Armed Services and Intelligence side never held a comparable open hearing, and does that split reflect a jurisdictional bargain?"
+],
+"roles": [
+"oversight",
+"disclosure"
+],
+"whatItIs": "The U.S. House Committee on Oversight and Government Reform is the House's principal investigative committee, chaired in the 118th and 119th Congresses by Rep. James Comer. Since 2023 it has been the primary congressional venue for sworn public testimony about a concealed UAP retrieval and reverse-engineering program, holding hearings in July 2023, November 2024 and September 2025, and continuing a documentary investigation into AARO through the Task Force on the Declassification of Federal Secrets, chaired by Rep. Anna Paulina Luna.",
+"whyImplicated": "Oversight is the institution against which the concealment is measured. The claim on this board is not merely that a program exists but that it has been withheld from Congress; the only way to test that is to watch what happens when a committee with subpoena power asks. The pattern across three hearings and multiple document requests is consistent: witnesses testify under penalty of perjury to firsthand or near-firsthand knowledge, the executive branch responds through public affairs rather than document production, and the committee escalates to written demands. In April 2026 Chairwoman Luna wrote to the Secretary of War stating that 'The Task Force has found responses from AARO, when questioned about UAP sightings and provided data, less than adequate' — a sitting subcommittee chair putting on the record that the executive's designated UAP office is not answering. That is an oversight failure documented by the overseer, which is the most probative kind of evidence available for a concealment argument."
+},
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [
+4
+],
+"requests": [
+{
+"agency": "ODNI",
+"partial": [],
+"questions": [
+4
+],
+"request": "F12",
+"sendTo": "Office of the Director of National Intelligence, Information Management Office, Washington DC 20511.",
+"status": "not filed",
+"title": "ODNI - the classified annex distribution record and the UAPTF Director's name"
+}
+]
+},
+"hl": null,
+"id": "house-oversight-committee",
+"l0": true,
+"label": "U.S. House Committee on Oversight and Government Reform",
+"locLabel": null,
+"members": [
+{
+"cls": "domain",
+"id": "d-legislative",
+"label": "Legislative Process (proposed and pending)",
+"tier": "B"
+},
+{
+"cls": "event",
+"id": "dow-financial-mgmt-hearing-2026",
+"label": "House Oversight hearing: 'DoW Financial Management: Examining Progress and New Audit Approaches' (13 May 2026)",
+"tier": "C"
+},
+{
+"cls": "institution",
+"id": "hoc-subcommittee-cybersecurity-it",
+"label": "Subcommittee on Cybersecurity, Information Technology, and Government Innovation",
+"tier": "C"
+},
+{
+"cls": "institution",
+"id": "hoc-subcommittee-national-security",
+"label": "Subcommittee on National Security, the Border, and Foreign Affairs",
+"tier": "C"
+},
+{
+"cls": "person",
+"id": "jamie-raskin",
+"label": "Jamin Ben Raskin",
+"tier": "C"
+},
+{
+"cls": "event",
+"id": "missing-scientists-probe-2026",
+"label": "House Oversight probe into deaths and disappearances of scientists, April 2026",
+"tier": "B"
+},
+{
+"cls": "legislation",
+"id": "ndaa-fy2024-7606",
+"label": "FY2024 IAA sec. 7606(c) — Agency Review of Special Access Programs",
+"tier": "C"
+},
+{
+"cls": "institution",
+"id": "pogo",
+"label": "Project On Government Oversight",
+"tier": "C"
+},
+{
+"cls": "person",
+"id": "robert-garcia",
+"label": "Robert Garcia",
+"tier": "C"
+},
+{
+"cls": "domain",
+"id": "sap-readin-gate",
+"label": "The HASC/HAC-D special access program read-in gate",
+"tier": "B"
+},
+{
+"cls": "legislation",
+"id": "usc-50-3348",
+"label": "50 U.S.C. 3348 — Reports Relating to Certain SAPs and Similar Programs",
+"tier": "A"
+}
+],
+"short": "House Oversight & Gov't Reform",
+"sources": [
+{
+"date": "2023-07-26",
+"name": "U.S. GPO, Hearing transcript, Serial No. 118-53 (CHRG-118hhrg53022)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm"
+},
+{
+"date": "2024-11-13",
+"name": "U.S. GPO, Hearing transcript, Serial No. 118-135 (CHRG-118hhrg57440)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm"
+},
+{
+"date": "2025-09-09",
+"name": "U.S. GPO, Hearing transcript, Serial No. 119-44 (CHRG-119hhrg61718)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm"
+},
+{
+"date": "2023-07-26",
+"name": "House Oversight Committee, hearing page: UAP: Implications on National Security, Public Safety, and Government Transparency",
+"url": "https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/"
+},
+{
+"date": "2024-11-13",
+"name": "House Oversight Committee, hearing page: UAP: Exposing the Truth",
+"url": "https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-exposing-the-truth/"
+},
+{
+"date": "2025-09-09",
+"name": "House Oversight Committee, hearing page: Restoring Public Trust Through UAP Transparency and Whistleblower Protection",
+"url": "https://oversight.house.gov/hearing/restoring-public-trust-through-uap-transparency-and-whistleblower-protection/"
+}
+],
+"sub": "Standing committee; government-wide subpoena jurisdiction",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 163 of 1027, score 48). 18 connections, 2 of them custody/witness/funding/programmatic, 2 official denials recorded against it. Axes C0/A1/D3.",
+"timeline": []
+}

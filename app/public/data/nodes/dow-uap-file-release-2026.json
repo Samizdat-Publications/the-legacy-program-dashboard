@@ -1,0 +1,139 @@
+{
+"A": 1,
+"C": 1,
+"D": 3,
+"band": null,
+"claims": [
+{
+"source": "Gillibrand statement on release of UAP files, gillibrand.senate.gov, 8 May 2026",
+"text": "Gillibrand: 'I am encouraged that the administration has finally heard my call and the call of millions of Americans to begin unsealing these files. This is another important step, but there is much more work to do. I will continue to fight to ensure the administration finally meets its legal obligation to the American people.'",
+"tier": 2
+},
+{
+"source": "Hyperlink on gillibrand.senate.gov statement page to war.gov news release article 4480582 — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
+"text": "Gillibrand's statement links directly to a Department of War release headed 'Department of War Releases Unidentified Anomalous Phenomena Files.'",
+"tier": 2
+},
+{
+"source": "Inference from Gillibrand's 8 May 2026 statement read against the 17 October 2024 deadline in Sec. 1842(c)(1)",
+"text": "A release characterised by the statute's own author as the administration only beginning to meet a 'legal obligation' nineteen months after the statutory deadline is evidence that Secs. 1841-1843 do not compel performance on their own.",
+"tier": 3
+}
+],
+"cls": "event",
+"cluster": "other",
+"connections": [
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2026",
+"dateStart": "2026",
+"direction": "in",
+"edgeLabel": "Author of the statute publicly states the obligation is unmet",
+"id": "kirsten-gillibrand",
+"l0": false,
+"label": "Kirsten E. Gillibrand",
+"note": "Gillibrand: 'I will continue to fight to ensure the administration finally meets its legal obligation to the American people.'",
+"sources": [
+{
+"date": "2026-05-08",
+"name": "Gillibrand statement on release of UAP files",
+"url": "https://www.gillibrand.senate.gov/news/press/release/gillibrand-statement-on-release-of-uap-files/"
+},
+{
+"date": "2026-05-08",
+"name": "Department of War UAP file release (linked from Gillibrand)",
+"url": "https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/"
+}
+],
+"tier": "B",
+"type": "behavioral"
+},
+{
+"claimTier": 3,
+"cls": "institution",
+"dateEnd": "2026",
+"dateStart": "2024",
+"direction": "in",
+"edgeLabel": "Agency compliance ran nineteen months past the statutory deadline",
+"id": "uap-records-collection-rg615",
+"l0": false,
+"label": "Unidentified Anomalous Phenomena Records Collection (NARA Record Group 615)",
+"note": "The Sec. 1842(c)(1) agency review deadline fell on 17 October 2024; NARA's transfer guidance is dated April 2025 and the author of the statute described the May 2026 release as the administration only beginning to meet its legal obligation.",
+"sources": [
+{
+"date": "2023-12-22",
+"name": "P.L. 118-31, FY2024 NDAA — GPO",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm"
+},
+{
+"date": "2025-04-24",
+"name": "National Archives — UAP records",
+"url": "https://www.archives.gov/uap"
+},
+{
+"date": "2026-05-08",
+"name": "Gillibrand statement on release of UAP files",
+"url": "https://www.gillibrand.senate.gov/news/press/release/gillibrand-statement-on-release-of-uap-files/"
+}
+],
+"tier": "B",
+"type": "temporal"
+}
+],
+"coords": null,
+"dateEnd": "2026",
+"dateStart": "2026",
+"deg": 2,
+"denials": [],
+"desc": "On 8 May 2026 the Department of War announced a release of files relating to unidentified anomalous phenomena, and Senator Gillibrand issued a statement the same day. Her framing is the important part, because she is the author of the surviving statute: she called it 'another important step' while insisting there is 'much more work to do' and committing to 'fight to ensure the administration finally meets its legal obligation to the American people.' The word 'finally' is doing considerable work — it is a sitting senator stating, on her own Senate press page, that the executive branch has not been meeting an existing legal obligation. That obligation is Sections 1841-1843 of P.L. 118-31, whose agency-review deadline expired on 17 October 2024, some nineteen months before this release. The release is therefore best read on this board not as compliance but as discretionary executive action taken in the space left by a statute with no enforcement mechanism — precisely the space created when the Review Board was removed in conference.",
+"domains": [
+"_rs-archive-mirror",
+"congress-senate-legislation"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "dow-uap-file-release-2026",
+"l0": false,
+"label": "Department of War release of UAP files",
+"locLabel": null,
+"members": null,
+"short": "Department of War release of UAP files",
+"sources": [
+{
+"date": "2026-07-23",
+"name": "Archived: Department of War release on UAP files (linked from Gillibrand statement) (Wayback 2026-07-23)",
+"url": "https://web.archive.org/web/20260723072235/https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/"
+},
+{
+"date": "2026-05-08",
+"name": "Gillibrand statement on release of UAP files",
+"url": "https://www.gillibrand.senate.gov/news/press/release/gillibrand-statement-on-release-of-uap-files/"
+},
+{
+"date": "2026-05-08",
+"name": "Department of War release on UAP files (linked from Gillibrand statement)",
+"url": "https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/"
+}
+],
+"sub": "Announced 8 May 2026",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 751 of 1027, score 20). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D3.",
+"timeline": [
+{
+"date": "2026-05-08",
+"id": "cl-2026-05-08",
+"label": "Department of War releases UAP files",
+"precision": "day",
+"strand": "oversight",
+"text": "The administration announces a release of UAP files. Gillibrand, author of the surviving statute, calls it 'another important step' and says she will fight to ensure the administration 'finally meets its legal obligation' — nineteen months after the deadline.",
+"tier": "B"
+}
+]
+}

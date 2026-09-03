@@ -1,0 +1,151 @@
+{
+"A": 2,
+"C": 0,
+"D": 3,
+"affiliations": [
+"dodig",
+"dod-agencywide-audit"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "2026-05-13",
+"event": "Testifies before the House Committee on Oversight and Government Reform at 'DoW Financial Management: Examining Progress and New Audit Approaches'",
+"precision": "day"
+}
+],
+"claims": [
+{
+"source": "https://media.defense.gov/2026/May/22/2003937005/-1/-1/1/MANSFIELD%20ORAL%20STATEMENT%205.13.26_FINAL.PDF",
+"text": "Mansfield testified on 13 May 2026 that unsupported adjustments totalled 'over $859 billion in the last two quarters of FY 25'.",
+"tier": 1
+},
+{
+"source": "https://media.defense.gov/2026/May/22/2003937005/-1/-1/1/MANSFIELD%20ORAL%20STATEMENT%205.13.26_FINAL.PDF",
+"text": "He stated the Department manages more than $4.7 trillion in assets.",
+"tier": 1
+},
+{
+"source": "https://media.defense.gov/2026/May/22/2003937005/-1/-1/1/MANSFIELD%20ORAL%20STATEMENT%205.13.26_FINAL.PDF",
+"text": "He stated material weaknesses declined from 28 in FY2024 to 26 in FY2025, and that auditors issued 427 fewer Notices of Findings and Recommendations than in prior years.",
+"tier": 1
+},
+{
+"source": "https://media.defense.gov/2026/May/22/2003937005/-1/-1/1/MANSFIELD%20ORAL%20STATEMENT%205.13.26_FINAL.PDF",
+"text": "He stated that reporting entities will consolidate from 22 to 7 in FY2027 and that an independent public accounting firm will assume the group auditor role with OIG oversight.",
+"tier": 1
+},
+{
+"source": "https://media.defense.gov/2026/May/22/2003937005/-1/-1/1/MANSFIELD%20ORAL%20STATEMENT%205.13.26_FINAL.PDF",
+"text": "Consolidating 22 separately opined reporting entities into 7 and transferring the group auditor role to a contracted firm both reduce the granularity and the government-held provenance of the annual public audit record. Reasoning: fewer entities means fewer separate opinions published; a contractor group auditor holds the working papers under a commercial engagement rather than as federal records held by an Inspector General.",
+"tier": 3
+}
+],
+"cls": "person",
+"cluster": "other",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": null,
+"dateStart": "2026-05-13",
+"direction": "out",
+"edgeLabel": "Testified to the current figures on the congressional record",
+"id": "dod-agencywide-audit",
+"l0": true,
+"label": "DoD Agency-Wide Financial Statement Audit (FY2018-present)",
+"note": "Deputy Inspector General Mansfield told the House Committee on Oversight and Government Reform on 13 May 2026 that unsupported adjustments exceeded $859 billion in the last two quarters of FY2025. Attested by his published oral statement.",
+"sources": [
+{
+"date": "2026-05-13",
+"name": "Mansfield oral statement",
+"url": "https://media.defense.gov/2026/May/22/2003937005/-1/-1/1/MANSFIELD%20ORAL%20STATEMENT%205.13.26_FINAL.PDF"
+}
+],
+"tier": "B",
+"type": "witness-chain"
+},
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": "2026-05-13",
+"dateStart": "2026-05-13",
+"direction": "out",
+"edgeLabel": "Witness at the 13 May 2026 hearing",
+"id": "dow-financial-mgmt-hearing-2026",
+"l0": false,
+"label": "House Oversight hearing: 'DoW Financial Management: Examining Progress and New Audit Approaches' (13 May 2026)",
+"note": "Mansfield was the Office of Inspector General witness at 'DoW Financial Management: Examining Progress and New Audit Approaches'. Attested by the OIG's publication of his statement.",
+"sources": [
+{
+"date": "2026-05-13",
+"name": "Mansfield oral statement",
+"url": "https://media.defense.gov/2026/May/22/2003937005/-1/-1/1/MANSFIELD%20ORAL%20STATEMENT%205.13.26_FINAL.PDF"
+}
+],
+"tier": "C",
+"type": "witness-chain"
+}
+],
+"date": "2026-05-13",
+"dateEnd": null,
+"dateStart": "2026-05-13",
+"deg": 2,
+"denials": [],
+"domains": [
+"_rs-archive-mirror",
+"w2-black-budget"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "brett-mansfield",
+"instId": "dodig",
+"l0": false,
+"label": "Brett A. Mansfield",
+"loc": "Alexandria, Virginia",
+"locId": null,
+"members": null,
+"narrative": "Brett A. Mansfield, Deputy Inspector General of the Department of War, appeared before the House Committee on Oversight and Government Reform on 13 May 2026 at a hearing titled 'DoW Financial Management: Examining Progress and New Audit Approaches'. His oral statement is the most current authoritative public account of the Department's financial condition and it contains the figure that anchors this board's money argument: unsupported adjustments of 'over $859 billion in the last two quarters of FY 25'. He reported that the Department manages more than $4.7 trillion in assets, that material weaknesses had declined from twenty-eight in FY2024 to twenty-six in FY2025, and that auditors had issued 427 fewer Notices of Findings and Recommendations than in prior years. He also announced two structural changes with direct consequences for future transparency: the number of stand-alone reporting entities will be consolidated from twenty-two to seven in fiscal year 2027, and an independent public accounting firm will assume the group auditor role, with the Office of Inspector General retaining oversight. Consolidating twenty-two audited entities into seven reduces the number of separately reported opinions, and moving the group auditor role to a contracted firm changes who holds the working papers. Neither change is presented as a transparency measure and neither is necessarily improper, but both reduce the granularity of the annual public record about the Department's money at exactly the moment that record has become the strongest documentary support for the proposition that the Department cannot account for its spending.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Brett A. Mansfield",
+"sources": [
+{
+"date": "2026-05-22",
+"name": "Archived: Statement of Brett A. Mansfield, Deputy Inspector General, Department of War (oral statement) (Wayback 2026-05-22)",
+"url": "https://web.archive.org/web/20260522165323/https://media.defense.gov/2026/May/22/2003937005/-1/-1/1/MANSFIELD%20ORAL%20STATEMENT%205.13.26_FINAL.PDF"
+},
+{
+"date": "2026-05-22",
+"name": "Archived: DoD OIG page for the Mansfield statement (Wayback 2026-05-22)",
+"url": "https://web.archive.org/web/20260522165334/https://www.dodig.mil/reports.html/Article/4499300/statement-of-brett-a-mansfield-deputy-inspector-general-department-of-war-for-t/"
+},
+{
+"date": "2026-05-13",
+"name": "Statement of Brett A. Mansfield, Deputy Inspector General, Department of War (oral statement)",
+"url": "https://media.defense.gov/2026/May/22/2003937005/-1/-1/1/MANSFIELD%20ORAL%20STATEMENT%205.13.26_FINAL.PDF"
+},
+{
+"date": "2026-05-13",
+"name": "DoD OIG page for the Mansfield statement",
+"url": "https://www.dodig.mil/reports.html/Article/4499300/statement-of-brett-a-mansfield-deputy-inspector-general-department-of-war-for-t/"
+}
+],
+"status": "active",
+"sub": "Deputy Inspector General, Department of War",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 373 of 1027, score 33). 2 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A2/D3.",
+"timeline": [],
+"unexplainedResidual": null,
+"unverified": [
+"Which independent public accounting firm will assume the group auditor role in FY2027, and under what contract vehicle."
+]
+}

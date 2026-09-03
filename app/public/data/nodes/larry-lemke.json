@@ -1,0 +1,101 @@
+{
+"A": 1,
+"C": 1,
+"D": 1,
+"affiliations": [
+"NASA Ames Research Center - aerospace engineer (retired)"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "2022-01-01",
+"event": "Co-authors the SIMS/MIBI Council Bluffs analysis in Progress in Aerospace Sciences.",
+"precision": "month"
+}
+],
+"claims": [
+{
+"source": "Progress in Aerospace Sciences, DOI 10.1016/j.paerosci.2021.100788",
+"text": "Lemke is a co-author of Progress in Aerospace Sciences 128 (2022) 100788 with Nolan, Vallee and Jiang.",
+"tier": 1
+}
+],
+"cls": "person",
+"cluster": "research",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": "2022",
+"direction": "out",
+"edgeLabel": "NASA Ames aerospace engineer supplying the exclusion arguments",
+"id": "paper-nolan-vallee-2022",
+"l0": true,
+"label": "Nolan, Vallee, Jiang & Lemke (2022), Progress in Aerospace Sciences 128:100788",
+"note": "Lemke's engineering judgement underpins the rejection of reentry-debris and aircraft-component hypotheses on thermal-history and materials-selection grounds.",
+"sources": [
+{
+"date": "2022-01-01",
+"name": "Nolan, Vallee, Jiang & Lemke, 'Improved instrumental techniques, including isotopic analysis, applicable to the characterization of unusual materials with potential relevance to aerospace forensics', Progress in Aerospace Sciences 128:100788",
+"url": "https://doi.org/10.1016/j.paerosci.2021.100788"
+},
+{
+"date": "2026-04-01",
+"name": "The Sol Foundation Science and Policy Briefings No. 3, Marik von Rennenkampff, 'First Peer-Reviewed Scientific Analysis of Possible UAP Materials Employs State-of-the-Art Technologies'",
+"url": "https://thesolfoundation.org/wp-content/uploads/2026/04/Sol_Policy_Briefing_Number_3-1.pdf"
+}
+],
+"tier": "B",
+"type": "investigative"
+}
+],
+"date": "2022-01-01",
+"dateEnd": null,
+"dateStart": "2022-01-01",
+"deg": 1,
+"denials": [],
+"domains": [
+"scientists-technical"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "larry-lemke",
+"instId": "nasa",
+"l0": false,
+"label": "Larry G. Lemke",
+"loc": "Mountain View, CA",
+"locId": "l-ames",
+"members": null,
+"narrative": "Lemke is the NASA engineer on the paper, and his presence is the reason the 2022 Council Bluffs study reads as an aerospace-forensics analysis rather than a curiosity. A career aerospace engineer at NASA Ames Research Center, he brought the engineering-materials judgement that let the authors exclude reentry debris and aircraft-component hypotheses on grounds of thermal history, structure and material selection: carbon steel is not a spacecraft structural material, reentering debris solidifies before ground contact, and no regional aviation incident was reported. He is a co-author of Progress in Aerospace Sciences 128:100788 with Nolan, Vallee and Jiang. His involvement also marks the point at which a serving-generation NASA engineer publicly attached his name to alleged UAP material analysis, which for a long period nobody at a NASA centre would do.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Larry G. Lemke",
+"sources": [
+{
+"date": "2022-01-01",
+"name": "Nolan, Vallee, Jiang & Lemke, 'Improved instrumental techniques, including isotopic analysis, applicable to the characterization of unusual materials with potential relevance to aerospace forensics', Progress in Aerospace Sciences 128:100788",
+"url": "https://doi.org/10.1016/j.paerosci.2021.100788"
+},
+{
+"date": "2026-04-01",
+"name": "The Sol Foundation Science and Policy Briefings No. 3, Marik von Rennenkampff, 'First Peer-Reviewed Scientific Analysis of Possible UAP Materials Employs State-of-the-Art Technologies'",
+"url": "https://thesolfoundation.org/wp-content/uploads/2026/04/Sol_Policy_Briefing_Number_3-1.pdf"
+}
+],
+"status": "active",
+"sub": "Retired NASA Ames Research Center aerospace engineer; co-author of the 2022 Nolan-Vallee materials analysis",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 919 of 1027, score 13). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D1.",
+"timeline": [],
+"unexplainedResidual": null,
+"unverified": []
+}

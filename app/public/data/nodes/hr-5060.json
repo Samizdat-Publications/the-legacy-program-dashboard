@@ -1,0 +1,134 @@
+{
+"A": 1,
+"C": 0,
+"D": 3,
+"band": null,
+"claims": [
+{
+"source": "Congress.gov, H.R. 5060 and H.R. 10111",
+"text": "H.R. 5060, the UAP Whistleblower Protection Act, was introduced by Rep. Tim Burchett in the 119th Congress; its predecessor was H.R. 10111 in the 118th.",
+"tier": 1
+},
+{
+"source": "DefenseScoop, 3 September 2025",
+"text": "Lawmakers took up the bill in the run-up to the 9 September 2025 UAP transparency hearing specifically because existing channels were judged inadequate for UAP witnesses.",
+"tier": 2
+}
+],
+"cls": "legislation",
+"cluster": "oversight",
+"connections": [
+{
+"claimTier": 3,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2025",
+"direction": "out",
+"edgeLabel": "a separate statutory channel is needed because AARO's secure reporting mechanism is not a safe destination",
+"id": "aaro",
+"l0": true,
+"label": "All-domain Anomaly Resolution Office (AARO)",
+"note": "Congress would not build a parallel protection regime if the aaro.mil mechanism functioned; AARO's own FY2025 figures show 255 of 262 contacts declared out of scope.",
+"sources": [
+{
+"date": "2026-07-21",
+"name": "AARO FY2025 Consolidated Annual Report",
+"url": "https://www.aaro.mil/Portals/136/PDFs/FY25%20UAP%20Annual%20Report/AARO_FY2025_Consolidated_Annual_Report_on_UAP.pdf"
+},
+{
+"date": "2025-08-28",
+"name": "Congress.gov - H.R.5060",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/5060/text"
+}
+],
+"tier": "A",
+"type": "legislative"
+},
+{
+"claimTier": 2,
+"cls": "event",
+"dateEnd": null,
+"dateStart": "2025",
+"direction": "in",
+"edgeLabel": "hearing findings underwrite the UAP Whistleblower Protection Act",
+"id": "hearing-2025-09-09",
+"l0": true,
+"label": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'",
+"note": "The Task Force found witnesses face career damage and retaliation requiring congressional safeguards; the bill was on the agenda in the run-up to the hearing.",
+"sources": [
+{
+"date": "2025-09-03",
+"name": "DefenseScoop - Next UAP disclosure hearing set, as lawmakers consider new whistleblower protections",
+"url": "https://defensescoop.com/2025/09/03/uap-ufo-disclosure-congress-hearing-whistleblower-protection-act/"
+}
+],
+"tier": "A",
+"type": "legislative"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "2025",
+"direction": "in",
+"edgeLabel": "sponsor of the UAP Whistleblower Protection Act",
+"id": "tim-burchett",
+"l0": false,
+"label": "Timothy Floyd Burchett",
+"note": "H.R. 5060 in the 119th Congress, reintroducing H.R. 10111 from the 118th.",
+"sources": [
+{
+"date": "2025-08-28",
+"name": "Congress.gov - H.R.5060",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/5060/text"
+}
+],
+"tier": "A",
+"type": "legislative"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "2025",
+"deg": 3,
+"denials": [],
+"desc": "The UAP Whistleblower Protection Act, introduced by Rep. Tim Burchett in the 119th Congress as H.R. 5060, reintroducing H.R. 10111 from the 118th. Its existence is a legislative finding about AARO: Congress would not need to build a separate statutory protection channel for UAP witnesses if the secure reporting mechanism AARO launched at aaro.mil in October 2023 were functioning as a safe destination. The FY2025 annual report's own numbers illustrate the problem - 262 people contacted the mechanism and 255 were declared out of scope. The bill moved onto the agenda in the run-up to the 9 September 2025 House Oversight Task Force hearing, at which Dylan Borland testified to career obstruction and sustained harassment after reporting a UAP at Langley in 2012, and at which Congress heard that witnesses coming forward risk career damage and retaliation.",
+"domains": [
+"uaptf-aaro"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "hr-5060",
+"l0": false,
+"label": "H.R. 5060 - UAP Whistleblower Protection Act (119th Congress)",
+"locLabel": null,
+"members": null,
+"short": "H.R. 5060 - UAP Whistleblower Protection Act (119th Congress)",
+"sources": [
+{
+"date": "2025-08-28",
+"name": "Congress.gov - H.R.5060, UAP Whistleblower Protection Act (119th Congress)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/5060/text"
+},
+{
+"date": "2024-11-01",
+"name": "Congress.gov - H.R.10111, UAP Whistleblower Protection Act (118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/10111/text/ih?overview=closed&format=txt"
+},
+{
+"date": "2025-09-03",
+"name": "DefenseScoop - Next UAP disclosure hearing set, as lawmakers consider new whistleblower protections",
+"url": "https://defensescoop.com/2025/09/03/uap-ufo-disclosure-congress-hearing-whistleblower-protection-act/"
+}
+],
+"sub": "Introduced by Rep. Tim Burchett; successor to H.R. 10111 (118th)",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 837 of 1027, score 17). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D3.",
+"timeline": []
+}

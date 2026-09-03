@@ -1,0 +1,145 @@
+{
+"A": 3,
+"C": 0,
+"D": 2,
+"affiliations": [
+"U.S. Senate, New Mexico (2013- )",
+"Senate Select Committee on Intelligence; Vice Chairman (2025- )",
+"Senate Armed Services Committee"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "2023-07-13",
+"event": "Original cosponsor of S.Amdt. 797",
+"precision": "day"
+},
+{
+"date": "2024-07-11",
+"event": "Cosponsor with Rounds on FY2025 NDAA amendments filed the same day as the UAPDA refile",
+"precision": "day"
+}
+],
+"claims": [
+{
+"source": "CREC-2023-07-13-pt1-PgS2953",
+"text": "Cosponsor of S.Amdt. 797, the UAP Disclosure Act of 2023, submitted 13 July 2023.",
+"tier": 1
+},
+{
+"source": "Congress.gov cosponsor record, S.Amdt. 797",
+"text": "Heinrich is an original cosponsor of S.Amdt. 797, sponsorship date 13 July 2023.",
+"tier": 1
+},
+{
+"source": "S. 2226 as engrossed, Sec. 9002(a)(4), GPO",
+"text": "The UAPDA findings blame non-disclosure in part on exemptions under the Atomic Energy Act of 1954 and an 'over-broad interpretation of transclassified foreign nuclear information.'",
+"tier": 1
+},
+{
+"source": "S. 2226 as engrossed, Sec. 9003(23)(F), GPO",
+"text": "The bill's definition of a UAP record expressly reaches the Department of Energy and its progenitors, the Manhattan Project and the Atomic Energy Commission.",
+"tier": 1
+}
+],
+"cls": "person",
+"cluster": "other",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "2023",
+"dateStart": "2023",
+"direction": "out",
+"edgeLabel": "Original cosponsor, 13 July 2023",
+"id": "samdt-797",
+"l0": true,
+"label": "S.Amdt. 797 to S. 2226 (Schumer-Rounds UAP Disclosure Act amendment)",
+"note": "Heinrich cosponsored while sitting on SSCI and representing the state containing Kirtland, Sandia, Los Alamos and Roswell.",
+"sources": [
+{
+"date": "2023-07-13",
+"name": "Congress.gov — S.Amdt. 797",
+"url": "https://www.congress.gov/amendment/118th-congress/senate-amendment/797"
+}
+],
+"tier": "B",
+"type": "legislative"
+},
+{
+"claimTier": 1,
+"cls": "legislation",
+"dateEnd": null,
+"dateStart": "2023-07-13",
+"direction": "out",
+"edgeLabel": "cosponsor",
+"id": "uapda-2023",
+"l0": true,
+"label": "UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)",
+"note": "Named in the Congressional Record entry for SA 797.",
+"sources": [
+{
+"date": "2023-07-13",
+"name": "Congressional Record, 13 July 2023, Text of Senate Amendment 797 (CREC-2023-07-13-pt1-PgS2953)",
+"url": "https://www.govinfo.gov/content/pkg/CREC-2023-07-13/html/CREC-2023-07-13-pt1-PgS2953.htm"
+}
+],
+"tier": "A",
+"type": "programmatic"
+}
+],
+"date": "2023-07-13",
+"dateEnd": null,
+"dateStart": "2023-07-13",
+"deg": 2,
+"denials": [],
+"domains": [
+"_rs-legislation",
+"congress-senate-legislation"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "martin-heinrich",
+"instId": "us-senate",
+"l0": false,
+"label": "Martin T. Heinrich",
+"loc": "Washington, DC",
+"locId": "l-dc",
+"members": null,
+"narrative": "Heinrich is the quiet third intelligence-committee signature on the UAPDA. A member of the Senate Select Committee on Intelligence and, from 2025, its Vice Chairman, he was an original cosponsor of S.Amdt. 797 on 13 July 2023 and again of S.Amdt. 2609/2610 territory in July 2024, when Rounds filed alongside him on the FY2025 NDAA. New Mexico is not incidental to his position: Kirtland Air Force Base, Sandia, Los Alamos and the Roswell debris field are all in his state, and the FY2024 UAPDA's definition of a 'unidentified anomalous phenomena record' expressly reaches the Department of Energy 'and its progenitors, the Manhattan Project, the Atomic Energy Commission, and the Energy Research and Development Administration.' The Senate findings his amendment carried single out the Atomic Energy Act of 1954 and an 'over-broad interpretation of transclassified foreign nuclear information' as the mechanisms preventing disclosure — a New Mexico problem stated in statute.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Martin T. Heinrich",
+"sources": [
+{
+"date": "2023-07-13",
+"name": "Congressional Record, 13 July 2023, Text of Senate Amendment 797 (CREC-2023-07-13-pt1-PgS2953)",
+"url": "https://www.govinfo.gov/content/pkg/CREC-2023-07-13/html/CREC-2023-07-13-pt1-PgS2953.htm"
+},
+{
+"date": "2023-07-13",
+"name": "Congress.gov — S.Amdt. 797 cosponsors",
+"url": "https://www.congress.gov/amendment/118th-congress/senate-amendment/797"
+},
+{
+"date": "2023-07-27",
+"name": "S. 2226 (Engrossed in Senate), Division G — GPO",
+"url": "https://www.govinfo.gov/content/pkg/BILLS-118s2226es/html/BILLS-118s2226es.htm"
+}
+],
+"status": "active",
+"sub": "D-NM; SSCI member; original cosponsor of the UAPDA",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 455 of 1027, score 30). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A3/D2.",
+"timeline": [],
+"unexplainedResidual": null,
+"unverified": []
+}

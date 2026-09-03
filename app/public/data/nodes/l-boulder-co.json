@@ -1,0 +1,157 @@
+{
+"A": 0,
+"C": 0,
+"D": 2,
+"band": null,
+"claims": [
+{
+"source": "Wikipedia, Condon Committee, citing the project record — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"text": "The Air Force contract with the University of Colorado was announced in October 1966 with initial funding of $313,000, eventually exceeding $500,000; Edward Condon directed and Robert J. Low coordinated.",
+"tier": 2
+},
+{
+"source": "Robert J. Low memorandum, 9 August 1966, University of Colorado project files — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"text": "Low's memorandum of 9 August 1966 stated the study would be 'conducted almost entirely by non-believers' and would present 'the image of a group of non-believers trying their best to be objective but having an almost zero expectation of finding a saucer'; it became public in July 1967 when James E. McDonald found it in project files.",
+"tier": 2
+},
+{
+"source": "Condon Report; USAF Blue Book closure records — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"text": "The 1,485-page report was delivered to the Air Force in November 1968 and released in January 1969; the Air Force terminated Project Blue Book on 17 December 1969 in response.",
+"tier": 2
+},
+{
+"source": "Inference from the Low memorandum, the Condon Report and the 1969 Bolender memorandum",
+"text": "Boulder is the template for procurement of a scientific conclusion: the contracting agency obtained an academic verdict whose framing is documented in the contractor's own internal memorandum, then used it to close its public reporting channel while, per the Bolender memo, national-security-relevant reports had never used that channel. Reasoning: the Low memo, the report's conclusion and the Bolender memo read together.",
+"tier": 3
+}
+],
+"cls": "location",
+"cluster": "research",
+"connections": [
+{
+"claimTier": 2,
+"cls": "program",
+"dateEnd": "1969",
+"dateStart": "1966",
+"direction": "in",
+"edgeLabel": "The Condon Committee was hosted by the University of Colorado at Boulder",
+"id": "condon-committee",
+"l0": true,
+"label": "University of Colorado UFO Project (Condon Committee)",
+"note": "The Air Force contract was announced in October 1966 at $313,000, eventually exceeding $500,000, with Condon as director and Robert Low as coordinator.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Wikipedia - Condon Committee",
+"url": "https://en.wikipedia.org/wiki/Condon_Committee"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 2,
+"cls": "document",
+"dateEnd": "1967-07",
+"dateStart": "1966-08-09",
+"direction": "in",
+"edgeLabel": "The Low memo shows the conclusion was framed before the study began",
+"id": "low-memo",
+"l0": false,
+"label": "Low Memorandum (\"the trick would be...\")",
+"note": "Low's 9 August 1966 memorandum proposed a study 'conducted almost entirely by non-believers' with 'almost zero expectation of finding a saucer'. James E. McDonald found it in the project files in July 1967.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Wikipedia - Condon Committee",
+"url": "https://en.wikipedia.org/wiki/Condon_Committee"
+}
+],
+"tier": "C",
+"type": "denial"
+}
+],
+"coords": [
+40.015,
+-105.2705
+],
+"dateEnd": "1969",
+"dateStart": "1966",
+"deg": 2,
+"denials": [
+{
+"by": {
+"id": "low-memo",
+"label": "Low Memorandum (\"the trick would be...\")"
+},
+"claimTier": 2,
+"denialKind": "directed",
+"label": "The Low memo shows the conclusion was framed before the study began",
+"note": "Low's 9 August 1966 memorandum proposed a study 'conducted almost entirely by non-believers' with 'almost zero expectation of finding a saucer'. James E. McDonald found it in the project files in July 1967.",
+"of": {
+"id": "l-boulder-co",
+"label": "Boulder, Colorado"
+},
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Wikipedia - Condon Committee",
+"url": "https://en.wikipedia.org/wiki/Condon_Committee"
+}
+]
+}
+],
+"desc": "Boulder is where the United States government purchased the scientific verdict that closed the UFO question for a generation. In October 1966 the Air Force announced a contract with the University of Colorado at Boulder for an independent scientific study of unidentified flying objects, initially funded at $313,000 and eventually exceeding $500,000, directed by the physicist Edward U. Condon with Robert J. Low as coordinator. The project's integrity collapsed in public when James E. McDonald found in the project files, in July 1967, Low's internal memorandum of 9 August 1966 to university administrators proposing that the study be 'conducted almost entirely by non-believers' and present 'the image of a group of non-believers trying their best to be objective but having an almost zero expectation of finding a saucer.' David Saunders and Norman Levine were dismissed; litigation was threatened in both directions. The 1,485-page report was delivered to the Air Force in November 1968 and released publicly in January 1969, concluding that 'nothing has come from the study of UFOs in the past 21 years that has added to scientific knowledge.' A National Academy of Sciences panel chaired by Gerald M. Clemence endorsed it. On 17 December 1969 the Air Force terminated Project Blue Book, citing the Condon findings. Boulder therefore represents the mechanism this board is most concerned with after outright classification: a government agency funding an ostensibly independent academic body whose internal correspondence shows the conclusion was framed in advance, and then using that body's report as the legal and public justification for shutting down its own reporting channel. The Bolender memo of the same period establishes that reports affecting national security were never in Blue Book to begin with - which means the channel that was closed at Boulder's recommendation was not the channel that mattered.",
+"domains": [
+"w2-places-events"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "l-boulder-co",
+"l0": false,
+"label": "Boulder, Colorado",
+"locLabel": "Boulder, Colorado, USA",
+"members": null,
+"short": "Boulder, Colorado",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Wikipedia - Condon Committee",
+"url": "https://en.wikipedia.org/wiki/Condon_Committee"
+},
+{
+"date": "1969-01-01",
+"name": "Condon Report full text (NCAS)",
+"url": "https://files.ncas.org/condon/"
+}
+],
+"sub": "University of Colorado Boulder; host of the Air Force-funded Condon Committee, 1966-1969",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 841 of 1027, score 17). 2 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D2.",
+"timeline": [
+{
+"date": "1966-08-09",
+"id": "tl-1966-condon",
+"label": "The conclusion is written before the study",
+"precision": "day",
+"strand": "coverup",
+"text": "Robert Low's memorandum proposes a study 'conducted almost entirely by non-believers' with 'almost zero expectation of finding a saucer'. McDonald finds it in the project files in July 1967.",
+"tier": "A"
+},
+{
+"date": "1969-12-17",
+"id": "tl-1969-bluebook",
+"label": "Blue Book is terminated on the Condon findings",
+"precision": "day",
+"strand": "coverup",
+"text": "The Air Force closes its public reporting channel citing the University of Colorado report. The Bolender memo of the same period records that reports affecting national security were never in that channel.",
+"tier": "A"
+}
+]
+}

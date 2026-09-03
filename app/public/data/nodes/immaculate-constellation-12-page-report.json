@@ -1,0 +1,757 @@
+{
+"A": 3,
+"C": 2,
+"D": 3,
+"band": "oversight",
+"claims": [
+{
+"source": "Immaculate Constellation report as submitted to the House Oversight joint subcommittee hearing of 13 November 2024, committee repository document HHRG-118-GO12-20241113-SD003, page 1, https://www.congress.gov/118/meeting/house/117721/documents/HHRG-118-GO12-20241113-SD003.pdf",
+"text": "The report's own first page states who cleared the public version: 'This public version of the author's report was reviewed and approved for public release by the Department of State, Bureau of Global Public Affairs.' The bureau is Global Public Affairs.",
+"tier": 1
+},
+{
+"source": "HHRG-118-GO12-20241113-SD003, pages 1 and 11, https://www.congress.gov/118/meeting/house/117721/documents/HHRG-118-GO12-20241113-SD003.pdf",
+"text": "The introduction names the report's structure: 'In this public version of the report, information is organized into seven categories of evidence, including: an Unacknowledged Special Access Program (uSAP); Imagery Intelligence (IMINT); human intelligence (HUMINT); signals intelligence (SIGINT); USG bureaucratic records; USG historical records; and other sensitive sources.' The body runs as Sections 1 to 7 in that order, Section 7 'Sensitive Sources' consisting of the single sentence 'From mouth to ear.'",
+"tier": 1
+},
+{
+"source": "HHRG-118-GO12-20241113-SD003, pages 3 to 5, https://www.congress.gov/118/meeting/house/117721/documents/HHRG-118-GO12-20241113-SD003.pdf",
+"text": "Section 2, USG Imagery Intelligence, catalogues nine incidents, each headed by the combatant command it came from. Two are CENTCOM, headed 'CENTCOM Cuboid Formation of Metallic Orbs' and 'CENTCOM Fast Mover Observed Transiting Over Sensitive Facilities'; four are INDOPACOM, two NORTHCOM and one SOUTHCOM. The nine is the incident count; the seven elsewhere in the report is its count of evidence categories, not of incidents.",
+"tier": 1
+},
+{
+"source": "HHRG-118-GO12-20241113-SD003, page 1, https://www.congress.gov/118/meeting/house/117721/documents/HHRG-118-GO12-20241113-SD003.pdf",
+"text": "The introduction names the mechanism under which the report reached Congress: the investigation was 'provided to Congress through the UAP whistleblower mechanisms established by the FY23 National Defense Authorization Act, and the FY23 National Intelligence Authorization Act.' The report names the two as separate authorities.",
+"tier": 1
+},
+{
+"source": "HHRG-118-GO12-20241113-SD003, all twelve pages, https://www.congress.gov/118/meeting/house/117721/documents/HHRG-118-GO12-20241113-SD003.pdf",
+"text": "The document as submitted and published by the committee is twelve scanned pages with no text layer. Pages 1 to 11 run continuously from the heading 'Introduction' to the end of 'VI. Conclusion' and its closing line 'Scientia Igne Probata; Veritas Per Fidem'; page 12 is blank. No cover letter, transmittal, author name, classification marking or control number appears on any of the twelve pages.",
+"tier": 1
+},
+{
+"source": "U.S. GPO, Hearing transcript, Serial No. 118-135 (CHRG-118hhrg57440), 13 November 2024, https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/pdf/CHRG-118hhrg57440.pdf",
+"text": "The hearing record gives the page count as twelve in the chair's own words, twice, and credits the delivery to Shellenberger: 'I will do it, to enter into the Congressional Record this 12-page document that Michael Shellenberger brought today that describes the Immaculate Constellation government program.' Earlier in the same session Mace said 'Mr. Burchett will enter it into the record, but 12 pages about this unacknowledged special access program that your government says does not exist.'",
+"tier": 1
+},
+{
+"source": "U.S. GPO, Hearing transcript, Serial No. 118-135 (CHRG-118hhrg57440), 13 November 2024, https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/pdf/CHRG-118hhrg57440.pdf ; and the committee repository item, https://www.congress.gov/118/meeting/house/117721/documents/HHRG-118-GO12-20241113-SD003.pdf",
+"text": "The report is not in the Congressional Record copy this node cites. The GPO hearing print CHRG-118hhrg57440 lists the report in its Index of Documents and then says 'The documents listed above are available at: docs.house.gov'; the words Global, CENTCOM, cover letter and signals intelligence occur nowhere in that print. The document itself is committee repository item HHRG-118-GO12-20241113-SD003.",
+"tier": 1
+},
+{
+"source": "GPO CHRG-118hhrg57440",
+"text": "Entered into the Congressional Record by Chairwoman Mace on 13 November 2024; listed in the hearing's Index of Documents as 'Report, Pentagon, Immaculate Constellation; submitted by Rep. Mace.'",
+"tier": 1
+},
+{
+"source": "Michael Shellenberger, sworn testimony, 13 November 2024",
+"text": "'The report that was just shared with Congress says Immaculate Constellation serves as a central or parent USAP that consolidates observations of UAPs by both tasked and untasked collection platforms. Immaculate Constellation includes high-quality imagery intelligence and measurement and signature intelligence of UAPs.'",
+"tier": 2
+},
+{
+"source": "CHRG-118hhrg57440, 13 November 2024",
+"text": "Asked whether he had been read in to Immaculate Constellation, Elizondo answered: 'I would not be authorized to confirm nor deny the existence of any ongoing or past program, especially as it relates to a special access program, either by name or trigraph.'",
+"tier": 2
+},
+{
+"source": "USA Herald, 16 May 2026, reporting DoD statements",
+"text": "Pentagon spokesperson Sue Gough stated the Department has 'no record' of such a program; former AARO director Sean Kirkpatrick also denied its existence.",
+"tier": 2
+},
+{
+"source": "GPO CHRG-118hhrg57440, Index of Documents",
+"text": "The hearing's Index of Documents records 'Report, Pentagon, Immaculate Constellation; submitted by Rep. Mace.'",
+"tier": 1
+},
+{
+"source": "Michael Shellenberger, sworn testimony, 13 November 2024",
+"text": "'Immaculate Constellation serves as a central or parent USAP that consolidates observations of UAPs by both tasked and untasked collection platforms.'",
+"tier": 2
+},
+{
+"source": "CHRG-118hhrg57440",
+"text": "Asked whether he had been read in, Elizondo said he 'would not be authorized to confirm nor deny the existence of any ongoing or past program, especially as it relates to a special access program, either by name or trigraph.'",
+"tier": 2
+},
+{
+"source": "Jason Colavito, as cited in the Wikipedia Schriever wargame article",
+"text": "In 2025 a self-identified whistleblower said he located the programme in a folder labelled '2018 Schriever Wargame'; Jason Colavito concluded the claimant had mistaken fictitious wargame documents for secret UFO revelations.",
+"tier": 2
+},
+{
+"source": "Inference from the FY2024 and FY2025 annual report texts and the war.gov/UFO release index",
+"text": "No AARO annual report, statement for the record or PURSUE tranche has ever addressed the name, which means a purported USAP entered into the Congressional Record has never been the subject of any official product in the twenty-one months since.",
+"tier": 3
+}
+],
+"cls": "document",
+"cluster": "oversight",
+"connections": [
+{
+"claimTier": 3,
+"cls": "document",
+"dateEnd": "2026",
+"dateStart": "2024",
+"direction": "out",
+"edgeLabel": "No AARO product has ever addressed the name in the Record",
+"id": "aaro-fy2025-annual-report",
+"l0": true,
+"label": "AARO FY2025 Consolidated Annual Report on UAP",
+"note": "Neither the FY2024 nor the FY2025 annual report, nor any statement for the record, addresses a purported USAP name entered into the Congressional Record in November 2024.",
+"sources": [
+{
+"date": "2024-11-14",
+"name": "AARO - FY2024 Consolidated Annual Report on UAP (PDF)",
+"url": "https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF"
+},
+{
+"date": "2026-07-21",
+"name": "AARO - FY2025 Consolidated Annual Report on UAP (PDF)",
+"url": "https://documents2.theblackvault.com/documents/osd/AARO_FY2025_Consolidated_Annual_Report_on_UAP.pdf"
+},
+{
+"date": "2024-11-13",
+"name": "U.S. GPO - Hearing transcript, Serial No. 118-135 (CHRG-118hhrg57440)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm"
+}
+],
+"tier": "A",
+"type": "denial"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "2024",
+"direction": "in",
+"edgeLabel": "Adversarial cross-examination that fixed the document's evidentiary status",
+"id": "clay-higgins",
+"l0": false,
+"label": "Glen Clay Higgins",
+"note": "Higgins established that the withholding of source identities was a choice, not an absence.",
+"sources": [
+{
+"date": "2024-11-13",
+"name": "U.S. GPO, Hearing transcript, Serial No. 118-135 (CHRG-118hhrg57440)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm"
+}
+],
+"tier": "C",
+"type": "investigative"
+},
+{
+"claimTier": 2,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2024",
+"direction": "in",
+"edgeLabel": "Pentagon says it has no record of the program described in the document entered into the Congressional Record",
+"id": "dod",
+"l0": true,
+"label": "United States Department of Defense (secondary designation: Department of War)",
+"note": "Pentagon spokesperson Sue Gough stated DoD has 'no record' of such a program; Kirkpatrick also denied it. The document remains in the Record.",
+"sources": [
+{
+"date": "2024-11-13",
+"name": "U.S. GPO, Hearing transcript, Serial No. 118-135 (CHRG-118hhrg57440)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm"
+}
+],
+"tier": "A",
+"type": "denial"
+},
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": "2024",
+"dateStart": "2024",
+"direction": "out",
+"edgeLabel": "Entered into the Congressional Record from the dais",
+"id": "hearing-2024-11-13",
+"l0": true,
+"label": "House Oversight joint hearing, 13 November 2024 - 'Unidentified Anomalous Phenomena: Exposing the Truth'",
+"note": "The hearing's Index of Documents records 'Report, Pentagon, Immaculate Constellation; submitted by Rep. Mace.'",
+"sources": [
+{
+"date": "2024-11-13",
+"name": "U.S. GPO - Hearing transcript, Serial No. 118-135 (CHRG-118hhrg57440)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": "2024-11-13",
+"dateStart": "2024-11-13",
+"direction": "in",
+"edgeLabel": "The event is anchored by the document entered on 13 November 2024",
+"id": "immaculate-constellation",
+"l0": true,
+"label": "Immaculate Constellation disclosure, October-November 2024",
+"note": "The twelve-page report is the physical artefact of the disclosure; it has never been located as a retrievable primary file at a stable public URL.",
+"sources": [
+{
+"date": "2024-11-13",
+"name": "GPO transcript CHRG-118hhrg57440",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm"
+}
+],
+"tier": "A",
+"type": "custody"
+},
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": null,
+"dateStart": "2024",
+"direction": "out",
+"edgeLabel": "The congressional-record instantiation of the alleged parent USAP",
+"id": "immaculate-constellation",
+"l0": true,
+"label": "Immaculate Constellation disclosure, October-November 2024",
+"note": "Shellenberger described the program in the document as 'a central or parent USAP that consolidates observations of UAPs by both tasked and untasked collection platforms.'",
+"sources": [
+{
+"date": "2024-11-13",
+"name": "U.S. GPO, Hearing transcript, Serial No. 118-135 (CHRG-118hhrg57440)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm"
+},
+{
+"date": "2024-11-13",
+"name": "Michael Shellenberger, written testimony, House Oversight",
+"url": "https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Shellenberger.pdf"
+}
+],
+"tier": "A",
+"type": "programmatic"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "2024",
+"direction": "in",
+"edgeLabel": "Drew Shellenberger's 'Yes' on concerted Pentagon concealment from Congress in US waters",
+"id": "lauren-boebert",
+"l0": false,
+"label": "Lauren Opal Boebert",
+"note": "Also established that the program covers oceanic as well as terrestrial cases.",
+"sources": [
+{
+"date": "2024-11-13",
+"name": "U.S. GPO, Hearing transcript, Serial No. 118-135 (CHRG-118hhrg57440)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm"
+}
+],
+"tier": "C",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "2024",
+"direction": "in",
+"edgeLabel": "Refused to confirm or deny being read in, by name or trigraph",
+"id": "luis-elizondo",
+"l0": false,
+"label": "Luis D. Elizondo",
+"note": "Asked directly by Mace; his answer is a non-denial from a former DoD official under oath.",
+"sources": [
+{
+"date": "2024-11-13",
+"name": "U.S. GPO, Hearing transcript, Serial No. 118-135 (CHRG-118hhrg57440)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm"
+}
+],
+"tier": "A",
+"type": "behavioral"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "2024",
+"dateStart": "2024",
+"direction": "in",
+"edgeLabel": "Refused to confirm or deny by name or trigraph",
+"id": "luis-elizondo",
+"l0": false,
+"label": "Luis D. Elizondo",
+"note": "Asked directly whether he had been read in, Elizondo said he would not be authorised to confirm nor deny the existence of any special access program by name or trigraph.",
+"sources": [
+{
+"date": "2024-11-13",
+"name": "U.S. GPO - Hearing transcript, Serial No. 118-135 (CHRG-118hhrg57440)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm"
+}
+],
+"tier": "A",
+"type": "witness-chain"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "2024",
+"direction": "in",
+"edgeLabel": "Delivered the document to Congress on the morning of the hearing and testified to its contents",
+"id": "michael-shellenberger",
+"l0": false,
+"label": "Michael Shellenberger",
+"note": "Shellenberger supplied the 12-page report that Chairwoman Mace moved into the Congressional Record, and testified to its contents under oath.",
+"sources": [
+{
+"date": "2024-11-13",
+"name": "U.S. GPO, Hearing transcript, Serial No. 118-135 (CHRG-118hhrg57440)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm"
+},
+{
+"date": "2024-11-13",
+"name": "Michael Shellenberger, written testimony, House Oversight",
+"url": "https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Shellenberger.pdf"
+}
+],
+"tier": "B",
+"type": "witness-chain"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "2024",
+"direction": "in",
+"edgeLabel": "Moved the document into the Congressional Record from the chair",
+"id": "nancy-mace",
+"l0": false,
+"label": "Nancy Ruth Mace",
+"note": "Index of Documents: 'Report, Pentagon, Immaculate Constellation; submitted by Rep. Mace.'",
+"sources": [
+{
+"date": "2024-11-13",
+"name": "U.S. GPO, Hearing transcript, Serial No. 118-135 (CHRG-118hhrg57440)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm"
+}
+],
+"tier": "A",
+"type": "investigative"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "2024",
+"direction": "in",
+"edgeLabel": "Former AARO director denied the programme's existence",
+"id": "sean-kirkpatrick",
+"l0": false,
+"label": "Sean M. Kirkpatrick",
+"note": "Kirkpatrick, who authored Volume I's methodology, publicly denied that Immaculate Constellation exists.",
+"sources": [
+{
+"date": "2024-10-17",
+"name": "The Debrief - Immaculate Constellation: UAP Bombshell or Disinformation?",
+"url": "https://thedebrief.org/immaculate-constellation-uap-bombshell-or-disinformation/"
+},
+{
+"date": "2024-03-08",
+"name": "AARO Historical Record Report Volume I (DOPSR-2024-0263)",
+"url": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF"
+}
+],
+"tier": "A",
+"type": "denial"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "2024",
+"direction": "in",
+"edgeLabel": "Department says it has no record of the programme",
+"id": "susan-gough",
+"l0": false,
+"label": "Susan Gough",
+"note": "Gough's 'no record' statement is the Department's entire published response to a document in the Congressional Record; no documentary rebuttal has been produced.",
+"sources": [
+{
+"date": "2024-11-13",
+"name": "U.S. GPO - Hearing transcript, Serial No. 118-135 (CHRG-118hhrg57440)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm"
+},
+{
+"date": "2026-02-25",
+"name": "DefenseScoop - Hegseth doubles down on Trump's UAP disclosure promise as AARO's caseload exceeds 2,000",
+"url": "https://defensescoop.com/2026/02/25/hegseth-ufo-disclosure-trump-aaro-uap-caseload/"
+}
+],
+"tier": "A",
+"type": "denial"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "2024",
+"direction": "in",
+"edgeLabel": "Distributed the document to every member on the dais and moved to enter it",
+"id": "tim-burchett",
+"l0": false,
+"label": "Timothy Floyd Burchett",
+"note": "Mace announced that Burchett held the document and would enter it into the record.",
+"sources": [
+{
+"date": "2024-11-13",
+"name": "U.S. GPO, Hearing transcript, Serial No. 118-135 (CHRG-118hhrg57440)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm"
+}
+],
+"tier": "A",
+"type": "investigative"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "2024",
+"deg": 12,
+"denials": [
+{
+"by": {
+"id": "aaro-fy2025-annual-report",
+"label": "AARO FY2025 Consolidated Annual Report on UAP"
+},
+"claimTier": 3,
+"denialKind": "directed",
+"label": "No AARO product has ever addressed the name in the Record",
+"note": "Neither the FY2024 nor the FY2025 annual report, nor any statement for the record, addresses a purported USAP name entered into the Congressional Record in November 2024.",
+"of": {
+"id": "immaculate-constellation-12-page-report",
+"label": "Immaculate Constellation 12-page report entered into the Congressional Record"
+},
+"sources": [
+{
+"date": "2024-11-14",
+"name": "AARO - FY2024 Consolidated Annual Report on UAP (PDF)",
+"url": "https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF"
+},
+{
+"date": "2026-07-21",
+"name": "AARO - FY2025 Consolidated Annual Report on UAP (PDF)",
+"url": "https://documents2.theblackvault.com/documents/osd/AARO_FY2025_Consolidated_Annual_Report_on_UAP.pdf"
+},
+{
+"date": "2024-11-13",
+"name": "U.S. GPO - Hearing transcript, Serial No. 118-135 (CHRG-118hhrg57440)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm"
+}
+]
+},
+{
+"by": {
+"id": "dod",
+"label": "United States Department of Defense (secondary designation: Department of War)"
+},
+"claimTier": 2,
+"denialKind": "directed",
+"label": "Pentagon says it has no record of the program described in the document entered into the Congressional Record",
+"note": "Pentagon spokesperson Sue Gough stated DoD has 'no record' of such a program; Kirkpatrick also denied it. The document remains in the Record.",
+"of": {
+"id": "immaculate-constellation-12-page-report",
+"label": "Immaculate Constellation 12-page report entered into the Congressional Record"
+},
+"sources": [
+{
+"date": "2024-11-13",
+"name": "U.S. GPO, Hearing transcript, Serial No. 118-135 (CHRG-118hhrg57440)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm"
+}
+]
+},
+{
+"by": {
+"id": "sean-kirkpatrick",
+"label": "Sean M. Kirkpatrick"
+},
+"claimTier": 2,
+"denialKind": "directed",
+"label": "Former AARO director denied the programme's existence",
+"note": "Kirkpatrick, who authored Volume I's methodology, publicly denied that Immaculate Constellation exists.",
+"of": {
+"id": "immaculate-constellation-12-page-report",
+"label": "Immaculate Constellation 12-page report entered into the Congressional Record"
+},
+"sources": [
+{
+"date": "2024-10-17",
+"name": "The Debrief - Immaculate Constellation: UAP Bombshell or Disinformation?",
+"url": "https://thedebrief.org/immaculate-constellation-uap-bombshell-or-disinformation/"
+},
+{
+"date": "2024-03-08",
+"name": "AARO Historical Record Report Volume I (DOPSR-2024-0263)",
+"url": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF"
+}
+]
+},
+{
+"by": {
+"id": "susan-gough",
+"label": "Susan Gough"
+},
+"claimTier": 2,
+"denialKind": null,
+"label": "Department says it has no record of the programme",
+"note": "Gough's 'no record' statement is the Department's entire published response to a document in the Congressional Record; no documentary rebuttal has been produced.",
+"of": {
+"id": "immaculate-constellation-12-page-report",
+"label": "Immaculate Constellation 12-page report entered into the Congressional Record"
+},
+"sources": [
+{
+"date": "2024-11-13",
+"name": "U.S. GPO - Hearing transcript, Serial No. 118-135 (CHRG-118hhrg57440)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm"
+},
+{
+"date": "2026-02-25",
+"name": "DefenseScoop - Hegseth doubles down on Trump's UAP disclosure promise as AARO's caseload exceeds 2,000",
+"url": "https://defensescoop.com/2026/02/25/hegseth-ufo-disclosure-trump-aaro-uap-caseload/"
+}
+]
+}
+],
+"desc": "The twelve-page document Michael Shellenberger delivered to Congress on the morning of 13 November 2024 and that Chairwoman Nancy Mace moved into the Congressional Record from the dais, describing it in the hearing's Index of Documents as 'Report, Pentagon, Immaculate Constellation; submitted by Rep. Mace.' Its first section describes an unacknowledged special access program named Immaculate Constellation; its second concerns US Government imagery intelligence. Shellenberger characterised it in his testimony as describing a strategic intelligence programme within a family of longstanding, highly sensitive programmes dealing with the UAP problem, functioning as a central or parent USAP consolidating observations of UAP from both tasked and untasked collection platforms, holding high-quality IMINT and MASINT drawn from low Earth orbit, the upper atmosphere, military and civilian aviation altitudes and maritime environments. It catalogues morphologies - spheres and orbs, discs and saucers, ovals, triangles, boomerang and arrowhead, irregular and organic - and specific incidents including orbs forcing an F-22 out of its patrol area and an orange-red sphere descending to within 100 to 200 yards above a carrier flight deck. Under questioning from Higgins, Shellenberger confirmed he knows the author and the sources, has confidence in them, and declined to say whether they sit inside DoD. Elizondo, asked directly by Mace whether he had been read in to Immaculate Constellation, replied that he would not be authorised to confirm or deny the existence of any special access program by name or trigraph - which is not a denial. The Pentagon says it has no record of the programme.",
+"domains": [
+"congress-house",
+"releases-2023-2026"
+],
+"dossier": {
+"claims": [
+{
+"source": "https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Transcript-20241113.pdf",
+"text": "The printed hearing record's Index of Documents lists 'Report, Pentagon, \"Immaculate Constellation\"; submitted by Rep. Mace', and states that the listed documents 'are available at: docs.house.gov.'",
+"tier": 1
+},
+{
+"source": "https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Transcript-20241113.pdf",
+"text": "In her opening remarks Rep. Mace stated: 'there is a document that will be entered into the congressional record today. Mr. Tim Burchett from Tennessee has this document, and we just distributed it to every Member up here on the dais ... this is going to be the original document from the Pentagon about Immaculate Constellation that Michael Shellenberger delivered to Congress today.'",
+"tier": 1
+},
+{
+"source": "https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Transcript-20241113.pdf",
+"text": "Rep. Mace described the document as '12 pages about this unacknowledged special access program that your government says does not exist.'",
+"tier": 1
+},
+{
+"source": "https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Transcript-20241113.pdf",
+"text": "Rep. Mace formally entered it: 'Committee staff asked me to go ahead, and I will do it, to enter into the Congressional Record this 12-page document that Michael Shellenberger brought today that describes the Immaculate Constellation government program. So, we will do that now. Every Member up here has a copy of it.' She closed: 'But, without objection, entered into the record.'",
+"tier": 1
+},
+{
+"source": "https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Transcript-20241113.pdf",
+"text": "Rep. Mace described the document's structure on the record: 'The first section talks about the unacknowledged special access program called Immaculate Constellation, and the second section about USG imagery intelligence.'",
+"tier": 1
+},
+{
+"source": "https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Transcript-20241113.pdf",
+"text": "Shellenberger testified that the report 'says Immaculate Constellation serves as a central or parent USAP that consolidates observations of UAPs by both tasked and untasked collection platforms' and 'includes high-quality imagery intelligence and measurement and signature intelligence of UAPs', from collection positioned 'in low Earth orbit, the upper atmosphere, as well as military and civilian aviation altitudes and maritime environments.'",
+"tier": 1
+},
+{
+"source": "https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Transcript-20241113.pdf",
+"text": "Shellenberger's oral testimony lists the report's shape taxonomy as 'spheres/orbs, discs/saucers, ovals, triangles, boomerang/arrowhead, and irregular/organic' and states that the report 'describes various incidents found in the human intelligence data bases.'",
+"tier": 1
+},
+{
+"source": "https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Shellenberger.pdf",
+"text": "His written testimony states that 'The whistleblower's report includes seven categories of evidence' and that it 'describes in detail various UAP sightings collected by technical assets and US military personnel.'",
+"tier": 1
+},
+{
+"source": "https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Shellenberger.pdf",
+"text": "The written testimony quotes the report on the F-22 incident: 'The F-22 broke trajectory and attempted to evade but was intercepted and boxed in by approximately 3-6 UAPs', with one object holding 'a rigid spatial relationship with the F-22' before the aircraft 'was forced out of the mission area under the escort of the UAP formation.'",
+"tier": 1
+},
+{
+"source": "https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Shellenberger.pdf",
+"text": "The written testimony describes a further report incident in which the crew of a Navy aircraft carrier watched a 'small orange-red sphere' rapidly descend from a high altitude to 100-200 yards directly above the flight deck of the CVN.",
+"tier": 1
+},
+{
+"source": "https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Shellenberger.pdf",
+"text": "The written testimony states that the underlying reporting 'exists within defense HUMINT [Human Intelligence] databases accessible to the Intelligence Community.'",
+"tier": 1
+},
+{
+"source": "https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Transcript-20241113.pdf",
+"text": "Asked by Rep. Higgins whether he knew the author of the report, Shellenberger answered 'I do', and when asked about the author's sources referred back to the report's own description.",
+"tier": 1
+},
+{
+"source": "https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Transcript-20241113.pdf",
+"text": "Asked what evidence substantiated the programme's existence, Shellenberger said the members had the report in front of them and added: 'I checked the report, and I did not find it based on existing cases; it was new cases for me ... that answered for me that it was not obviously circular reporting.'",
+"tier": 1
+},
+{
+"source": "Inference from the absence of any DoD, ODNI or AARO product addressing the report between 13 November 2024 and August 2026, set against the DoD statement quoted at https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Shellenberger.pdf",
+"text": "The only executive branch statement addressing the document's subject is the Department of Defense spokesperson's records denial reproduced in the witness's own written testimony; no classification authority has publicly asserted either that the document is classified or that it is fabricated.",
+"tier": 3
+}
+],
+"denialPosture": "The Department of Defense has said only that it has 'no record, present or historical, of any type of SAP called \"IMMACULATE CONSTELLATION\"', a statement quoted in the witness's own written testimony rather than issued in response to the document's entry into the Congressional Record. No agency has asserted that the twelve-page document is classified, and no agency has asserted that it is a forgery.",
+"narrative": "The document arrived on the morning of the hearing. Rep. Mace flagged it in her opening remarks before the witnesses were sworn: 'there is a document that will be entered into the congressional record today. Mr. Tim Burchett from Tennessee has this document, and we just distributed it to every Member up here on the dais, this document. But this is going to be the original document from the Pentagon about Immaculate Constellation that Michael Shellenberger delivered to Congress today.' She then characterised it: '12 pages about this unacknowledged special access program that your government says does not exist.'\n\nLater in the hearing, after the last of the opening statements, she performed the formal act: 'Committee staff asked me to go ahead, and I will do it, to enter into the Congressional Record this 12-page document that Michael Shellenberger brought today that describes the Immaculate Constellation government program. So, we will do that now. Every Member up here has a copy of it.' She then described its structure on the record: 'The first section talks about the unacknowledged special access program called Immaculate Constellation, and the second section about USG imagery intelligence.' She added the FISA warning she had just received from Rep. Luna, and closed with 'But, without objection, entered into the record.'\n\nThe printed hearing record's Index of Documents lists it as 'Report, Pentagon, \"Immaculate Constellation\"; submitted by Rep. Mace', alongside a Mellon hearing letter submitted by Mace, documents related to UAPs submitted by Burchett, and Questions for the Record to Elizondo, Gallaudet, Shellenberger and Gold submitted by Burlison. The record states that 'The documents listed above are available at: docs.house.gov.'\n\nThe contents, as read into the record by Shellenberger in his oral statement and set out at greater length in his written testimony, are consistent between the two. The report describes a parent USAP consolidating UAP observations from tasked and untasked collection platforms; a holdings profile of high-quality IMINT and MASINT from low Earth orbit, the upper atmosphere, aviation altitudes and maritime environments; a shape taxonomy of spheres and orbs, discs and saucers, ovals and tic-tacs, triangles, boomerang and arrowhead forms and irregular or organic shapes; and seven categories of evidence. The written testimony says the report 'describes in detail various UAP sightings collected by technical assets and US military personnel', and that the underlying material sits in defence HUMINT databases 'accessible to the Intelligence Community'.\n\nTwo incident descriptions are quoted directly from the report in the written testimony. The F-22 encounter: 'The F-22 broke trajectory and attempted to evade but was intercepted and boxed in by approximately 3-6 UAPs', with one object holding station off the cockpit through multiple evasive manoeuvres before the aircraft 'was forced out of the mission area under the escort of the UAP formation.' And the carrier deck event, in which a small orange-red sphere descended from high altitude to within 100-200 yards directly above the flight deck of a CVN.\n\nThe evidentiary character of the document is worth stating plainly, because the argument does not need it inflated. It is an anonymous report, delivered by a journalist, whose author Shellenberger says he knows and will not name. Under questioning from Rep. Higgins he confirmed 'I do' when asked whether he knew the author, and when pressed on the author's sources referred back to the report itself. He offered one internal check: that when he compared its cases against publicly known cases he 'did not find it based on existing cases; it was new cases for me', which he presented as an argument against circular reporting. That is a weak check, and he said so in effect by presenting it as the only one he could make.\n\nWhat gives the document its standing is not its provenance but its position. It sits in the Congressional Record. It was distributed to every member on the dais of a House committee. It names a compartment. And the executive branch response to it, before and since, has been a single sentence from a public affairs office - Sue Gough's statement that 'The DOD has no record, present or historical, of any type of SAP called \"IMMACULATE CONSTELLATION\"' - which addresses records holdings and not existence, and which was itself printed in the witness's own testimony rather than issued in response to the congressional entry.\n\nSince 13 November 2024 the document has been followed by nothing. No agency has confirmed conducting a search. No committee has published a referral. No classification authority has asserted that the document is classified, which would be the ordinary response to an authentic Pentagon report on an unacknowledged SAP appearing in a public hearing room; nor has any authority asserted that it is a forgery, which would be the ordinary response to a fabrication. That double silence is the most interesting fact about the artefact. The disclosure machinery accepted the document and then had nowhere to put it, because the mechanism Congress built in 2023 - a records collection administered by the agencies that hold the records - has no procedure for a document that arrives from outside the agencies and describes a compartment the agencies say they cannot find.",
+"openQuestions": [
+"Whether the twelve-page document as entered by Rep. Mace is in fact retrievable at docs.house.gov, as the Index of Documents states, and in what form.",
+"Whether the document carries any classification markings, originator identifiers, or control numbers, none of which have been described publicly.",
+"Whether any agency conducted a formal records search in response to the congressional entry, as distinct from the earlier press-office response.",
+"The full text of the report's second section on US Government imagery intelligence has never been publicly summarised in detail.",
+"Whether the Questions for the Record submitted to Shellenberger by Rep. Burlison addressed the report's provenance, and whether the answers were published."
+],
+"roles": [
+"disclosure",
+"oversight",
+"concealment"
+],
+"whatItIs": "A twelve-page document that Michael Shellenberger delivered to Congress on the morning of 13 November 2024 and that Rep. Nancy Mace moved into the Congressional Record from the dais during the House Oversight Committee hearing 'Unidentified Anomalous Phenomena: Exposing the Truth'. Its first section describes an unacknowledged special access program named Immaculate Constellation; its second section concerns United States Government imagery intelligence. It is listed in the hearing's Index of Documents as 'Report, Pentagon, \"Immaculate Constellation\"; submitted by Rep. Mace.'",
+"whyImplicated": "This is the only artefact in the entire public record that purports to be an internal description of a UAP parent compartment, and a chairwoman of a House committee put it into the Congressional Record while the Department of Defense was on record saying it has no record of the programme it names. The document is therefore a test case for the whole disclosure machinery: a congressional committee can receive, distribute to every member on the dais, and formally enter a document about an unacknowledged SAP, and nothing follows. No agency was compelled to search for it, no author was subpoenaed, no classification review was triggered, and no executive branch office has addressed its contents. It is the disclosure mechanism working exactly as designed and producing exactly nothing."
+},
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "immaculate-constellation-12-page-report",
+"l0": true,
+"label": "Immaculate Constellation 12-page report entered into the Congressional Record",
+"locLabel": null,
+"members": [
+{
+"cls": "person",
+"id": "clay-higgins",
+"label": "Glen Clay Higgins",
+"tier": "C"
+},
+{
+"cls": "person",
+"id": "lauren-boebert",
+"label": "Lauren Opal Boebert",
+"tier": "C"
+},
+{
+"cls": "person",
+"id": "luis-elizondo",
+"label": "Luis D. Elizondo",
+"tier": "A"
+},
+{
+"cls": "person",
+"id": "michael-shellenberger",
+"label": "Michael Shellenberger",
+"tier": "B"
+},
+{
+"cls": "person",
+"id": "nancy-mace",
+"label": "Nancy Ruth Mace",
+"tier": "A"
+},
+{
+"cls": "person",
+"id": "sean-kirkpatrick",
+"label": "Sean M. Kirkpatrick",
+"tier": "A"
+},
+{
+"cls": "person",
+"id": "susan-gough",
+"label": "Susan Gough",
+"tier": "A"
+},
+{
+"cls": "person",
+"id": "tim-burchett",
+"label": "Timothy Floyd Burchett",
+"tier": "A"
+}
+],
+"short": "Immaculate Constellation report",
+"sources": [
+{
+"date": "2024-11-13",
+"name": "Immaculate Constellation report as submitted, House Oversight committee repository, HHRG-118-GO12-20241113-SD003",
+"url": "https://www.congress.gov/118/meeting/house/117721/documents/HHRG-118-GO12-20241113-SD003.pdf"
+},
+{
+"date": "2024-11-13",
+"name": "U.S. GPO, Hearing transcript, Serial No. 118-135 (CHRG-118hhrg57440), PDF",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/pdf/CHRG-118hhrg57440.pdf"
+},
+{
+"date": "2024-11-13",
+"name": "U.S. GPO, Hearing transcript, Serial No. 118-135 (CHRG-118hhrg57440)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm"
+},
+{
+"date": "2024-11-13",
+"name": "Michael Shellenberger, written testimony, House Oversight",
+"url": "https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Shellenberger.pdf"
+},
+{
+"date": "2024-11-13",
+"name": "House Oversight Committee, hearing page: UAP: Exposing the Truth",
+"url": "https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-exposing-the-truth/"
+},
+{
+"date": "2024-10-17",
+"name": "The Debrief - Immaculate Constellation: UAP Bombshell or Disinformation?",
+"url": "https://thedebrief.org/immaculate-constellation-uap-bombshell-or-disinformation/"
+},
+{
+"date": "2026-08-12",
+"name": "Wikipedia - Immaculate Constellation (redirects to Schriever wargame article)",
+"url": "https://en.wikipedia.org/wiki/Immaculate_Constellation"
+},
+{
+"date": "2026-07-21",
+"name": "AARO - FY2025 Consolidated Annual Report on UAP (PDF)",
+"url": "https://documents2.theblackvault.com/documents/osd/AARO_FY2025_Consolidated_Annual_Report_on_UAP.pdf"
+}
+],
+"sub": "Whistleblower report, entered 13 Nov 2024",
+"tier": "A",
+"tierRationale": "Re-graded A on a global pass (rank 24 of 1027, score 105). 14 connections, 4 of them custody/witness/funding/programmatic, 4 official denials recorded against it. Axes C2/A3/D3.",
+"timeline": [
+{
+"date": "2024-10-17",
+"id": "rel-2024-10-17",
+"label": "Immaculate Constellation surfaces publicly",
+"precision": "day",
+"strand": "witness",
+"text": "The Debrief assesses the emerging Immaculate Constellation allegations weeks before the document reaches Congress.",
+"tier": "B"
+},
+{
+"date": "2024-11-13",
+"id": "ch-2024-11-13a",
+"label": "Immaculate Constellation enters the Record",
+"precision": "day",
+"strand": "oversight",
+"text": "Shellenberger delivers a 12-page Pentagon document to Congress that morning; Chairwoman Mace moves it into the Congressional Record while every member on the dais reads it in real time.",
+"tier": "A"
+},
+{
+"date": "2024-11-13",
+"id": "rel-2024-11-13",
+"label": "A USAP name enters the Congressional Record",
+"precision": "day",
+"strand": "witness",
+"text": "Shellenberger delivers a 12-page Pentagon document on Immaculate Constellation and Chairwoman Mace moves it into the Record; Elizondo declines to confirm or deny by name or trigraph.",
+"tier": "A"
+}
+]
+}

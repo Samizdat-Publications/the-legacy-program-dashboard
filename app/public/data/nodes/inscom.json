@@ -1,0 +1,306 @@
+{
+"A": 3,
+"C": 2,
+"D": 2,
+"band": "funding",
+"claims": [
+{
+"source": "Memorandum for Assistant Chief of Staff for Intelligence, 'INSCOM CENTER LANE Project (U)', 17 July 1984, CIA-RDP96-00788R001500100011-4, https://archive.org/download/cia-readingroom-document-cia-rdp96-00788r001500100011-4/cia-rdp96-00788r001500100011-4_djvu.txt ; disposition form IAFM-OPS-HUP, 'Reorganization of HQ INSCOM and CONUS Elements', 16 Nov 79, CIA-RDP96-00788R002000190002-9, https://archive.org/download/cia-readingroom-document-cia-rdp96-00788r002000190002-9/cia-rdp96-00788r002000190002-9_djvu.txt",
+"text": "INSCOM's own letterhead in this period reads 'DEPARTMENT OF THE ARMY / UNITED STATES ARMY INTELLIGENCE AND SECURITY COMMAND / ARLINGTON HALL STATION / ARLINGTON, VIRGINIA 22212', and a 1979 headquarters disposition form records that 'HQ INSCOM will be consolidated at AHS, VA' alongside the creation of a brigade at Fort George G. Meade.",
+"tier": 1
+},
+{
+"source": "Memorandum, 'CENTER LANE FY 86 - 90 GDIP Submission (U)', 4 April 1984, CIA-RDP96-00788R001600450002-5, https://archive.org/download/cia-readingroom-document-cia-rdp96-00788r001600450002-5/cia-rdp96-00788r001600450002-5_djvu.txt",
+"text": "INSCOM dates its own psychoenergetics work from 1977: 'Since the beginning of USAINSCOM's exploitation of psychoenergetics (PE) technology with Project GRILL FLAME in 1977 through the present effort under CENTER LANE, the project has been conducted on an ad hoc basis, using resources taken \"out of hide.\"'",
+"tier": 1
+},
+{
+"source": "Talking paper, 'INSCOM Involvement in Remote Viewing (DoD Project GRILL FLAME)', with milestone attachment dated 24 Nov 78, CIA-RDP96-00788R001200410023-0, https://archive.org/download/cia-readingroom-document-cia-rdp96-00788r001200410023-0/cia-rdp96-00788r001200410023-0_djvu.txt",
+"text": "The Army staff started it and paid for the contract: a 1978 talking paper records that 'ACSI & MG Rolya agreed that INSCOM would \"check out\" parapsychology phenomen[a], and that Army Intelligence would obligate $75 K to support an SRI Subject selection and training program for INSCOM personnel over the next year', the money to train a project manager and three INSCOM subjects, the contract let via AMSAA.",
+"tier": 1
+},
+{
+"source": "Letter, 'Deactivation of INSCOM CENTER LANE Project (ICLP) as a Special Access Program (SAP) (U)', 2 March 1985, CIA-RDP96-00789R002100120002-4, https://archive.org/download/cia-readingroom-document-cia-rdp96-00789r002100120002-4/cia-rdp96-00789r002100120002-4_djvu.txt",
+"text": "The special access designation was the Secretary of the Army's, not INSCOM's. The deactivation letter asks HQDA to take 'the necessary actions ... to officially discontinue CENTER LANE as a Secretary of the Army designated Special Access Program', and every page of the project's paperwork carries the warning notice 'CENTER LANE SPECIAL ACCESS PROGRAM RESTRICT DISSEMINATION TO THOSE WITH VERIFIED ACCESS TO CATEGORY THREE (3)'.",
+"tier": 1
+},
+{
+"source": "Memorandum, 'INSCOM CENTER LANE Project (U)', 17 July 1984, CIA-RDP96-00788R001500100011-4, and letter of 2 March 1985, CIA-RDP96-00789R002100120002-4, https://archive.org/download/cia-readingroom-document-cia-rdp96-00789r002100120002-4/cia-rdp96-00789r002100120002-4_djvu.txt",
+"text": "INSCOM ended the work on its own recommendation and handed it to DIA. The commanding general wrote in July 1984 that 'INSCOM ... should discontinue our involvement with psychoenergetic research and operations', intending 'to cease INSCOM CENTER LANE Project operations on 30 Sept 1984', and asked for authority to permit 'timely and undisrupted transfer of (1) ICLP operations to a national agency such as DIA or NSA'. The 2 March 1985 letter notified HQDA of 'the deactivation of the INSCOM CENTER LANE Project, the attachment OPCON of CENTER LANE assets and resources to the Defense Intelligence Agency, and the retirement of CENTER LANE as an active project nickname'.",
+"tier": 1
+}
+],
+"cls": "institution",
+"cluster": "ic",
+"connections": [
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "Subordinate group of USAINSCOM at Fort George G. Meade",
+"id": "902d-mi-group",
+"l0": false,
+"label": "902d Military Intelligence Group, USAINSCOM",
+"note": "The group's own letterhead reads USAINSCOM, 902D MILITARY INTELLIGENCE GROUP, Fort George G. Meade, Maryland 20755, and its memorandum is addressed through the INSCOM staff to the Commanding General.",
+"sources": [
+{
+"date": "1984-04-04",
+"name": "CENTER LANE FY 86 - 90 GDIP Submission (U), 4 April 1984",
+"url": "https://archive.org/download/cia-readingroom-document-cia-rdp96-00788r001600450002-5/cia-rdp96-00788r001600450002-5_djvu.txt"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "INSCOM ran CENTER LANE and ended it",
+"id": "center-lane",
+"l0": false,
+"label": "CENTER LANE",
+"note": "The project's own paperwork is INSCOM paperwork: the July 1984 memorandum recommending discontinuance, the July 1984 cancellation information paper, and the 2 March 1985 deactivation letter are all signed inside INSCOM.",
+"sources": [
+{
+"date": "1984-07-17",
+"name": "INSCOM CENTER LANE Project (U), 17 July 1984",
+"url": "https://archive.org/download/cia-readingroom-document-cia-rdp96-00788r001500100011-4/cia-rdp96-00788r001500100011-4_djvu.txt"
+}
+],
+"tier": "B",
+"type": "programmatic"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "CENTER LANE assets and resources attached OPCON to DIA, 2 March 1985",
+"id": "dia",
+"l0": true,
+"label": "Defense Intelligence Agency",
+"note": "INSCOM's letter of 2 March 1985 notifies HQDA of the deactivation, of the attachment OPCON of CENTER LANE assets and resources to the Defense Intelligence Agency, and of the retirement of the project nickname.",
+"sources": [
+{
+"date": "1985-03-02",
+"name": "Deactivation of INSCOM CENTER LANE Project (ICLP) as a Special Access Program (SAP) (U), 2 March 1985",
+"url": "https://archive.org/download/cia-readingroom-document-cia-rdp96-00789r002100120002-4/cia-rdp96-00789r002100120002-4_djvu.txt"
+}
+],
+"tier": "A",
+"type": "custody"
+},
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "GRILL FLAME was INSCOM's entry into the field in 1977",
+"id": "grill-flame",
+"l0": false,
+"label": "GRILL FLAME",
+"note": "The 4 April 1984 GDIP memorandum dates USAINSCOM's exploitation of psychoenergetics to Project GRILL FLAME in 1977, and a 1978 talking paper is titled INSCOM Involvement in Remote Viewing (DoD Project GRILL FLAME).",
+"sources": [
+{
+"date": "1984-04-04",
+"name": "CENTER LANE FY 86 - 90 GDIP Submission (U), 4 April 1984",
+"url": "https://archive.org/download/cia-readingroom-document-cia-rdp96-00788r001600450002-5/cia-rdp96-00788r001600450002-5_djvu.txt"
+}
+],
+"tier": "B",
+"type": "programmatic"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "Army Intelligence obligated $75K for SRI selection and training of INSCOM personnel",
+"id": "sri-international",
+"l0": true,
+"label": "SRI International (Stanford Research Institute)",
+"note": "The 1978 talking paper records the ACSI and the commanding general agreeing that Army Intelligence would obligate seventy-five thousand dollars to support an SRI subject selection and training programme for INSCOM personnel, with initial orientation at SRI International on 15 to 17 November 1978.",
+"sources": [
+{
+"date": "1978-11-24",
+"name": "INSCOM Involvement in Remote Viewing (DoD Project GRILL FLAME), Nov 1978",
+"url": "https://archive.org/download/cia-readingroom-document-cia-rdp96-00788r001200410023-0/cia-rdp96-00788r001200410023-0_djvu.txt"
+}
+],
+"tier": "B",
+"type": "funding"
+},
+{
+"claimTier": 3,
+"cls": "program",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "A ridiculed subject held inside service-secretary-level access controls",
+"id": "waived-usap",
+"l0": true,
+"label": "Waived unacknowledged special access program (waived USAP)",
+"note": "Reasoning: the opened records show a psychoenergetics project carried as a Secretary of the Army designated special access programme with a category-three access caveat, which is the board's structural claim about SAP-level control of a ridiculed domain. No opened record connects CENTER LANE to waived status or to any unacknowledged programme.",
+"sources": [
+{
+"date": "1985-03-02",
+"name": "Deactivation letter of 2 March 1985 read against the waived-usap node",
+"url": "https://archive.org/download/cia-readingroom-document-cia-rdp96-00789r002100120002-4/cia-rdp96-00789r002100120002-4_djvu.txt"
+}
+],
+"tier": "A",
+"type": "programmatic"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "1977-01-01",
+"deg": 6,
+"denials": [],
+"desc": "INSCOM is the United States Army's intelligence and security major command, headquartered in this period at Arlington Hall Station, Arlington, Virginia, with subordinate elements at Fort George G. Meade. Its own documents date its exploitation of psychoenergetics to Project GRILL FLAME in 1977, undertaken after the Army Assistant Chief of Staff for Intelligence and the commanding general agreed that INSCOM would check out the phenomenon and that Army Intelligence would obligate seventy-five thousand dollars for an SRI International selection and training programme. The successor project, CENTER LANE, was run from the Security Support Detachment of the 902d Military Intelligence Group at Fort George G. Meade under a special access programme designated by the Secretary of the Army, with a category-three access caveat on every page. INSCOM's commanding general recommended ending the Army's involvement in July 1984 and, on 2 March 1985, notified the Department of the Army of the project's deactivation and of the attachment of its assets and resources to the Defense Intelligence Agency under operational control. The command's 1977 establishment order has not been opened; the dateStart above is the year INSCOM's own memorandum gives for the start of the work, not for the command.",
+"domains": [
+"area52-2026-09-02"
+],
+"dossier": {
+"claims": [
+{
+"source": "Memorandum, 'CENTER LANE FY 86 - 90 GDIP Submission (U)', 4 April 1984, CIA-RDP96-00788R001600450002-5, https://archive.org/download/cia-readingroom-document-cia-rdp96-00788r001600450002-5/cia-rdp96-00788r001600450002-5_djvu.txt",
+"text": "INSCOM dates its own psychoenergetics work from 1977: 'Since the beginning of USAINSCOM's exploitation of psychoenergetics (PE) technology with Project GRILL FLAME in 1977 through the present effort under CENTER LANE, the project has been conducted on an ad hoc basis, using resources taken \"out of hide.\"'",
+"tier": 1
+},
+{
+"source": "Talking paper, 'INSCOM Involvement in Remote Viewing (DoD Project GRILL FLAME)', with milestone attachment dated 24 Nov 78, CIA-RDP96-00788R001200410023-0, https://archive.org/download/cia-readingroom-document-cia-rdp96-00788r001200410023-0/cia-rdp96-00788r001200410023-0_djvu.txt",
+"text": "The Army staff started the work and paid for the contract: a 1978 talking paper records that 'ACSI & MG Rolya agreed that INSCOM would \"check out\" parapsychology phenomen[a], and that Army Intelligence would obligate $75 K to support an SRI Subject selection and training program for INSCOM personnel over the next year', the money to train a project manager and three INSCOM subjects, the contract let via AMSAA.",
+"tier": 1
+},
+{
+"source": "Letter, 'Deactivation of INSCOM CENTER LANE Project (ICLP) as a Special Access Program (SAP) (U)', 2 March 1985, CIA-RDP96-00789R002100120002-4, https://archive.org/download/cia-readingroom-document-cia-rdp96-00789r002100120002-4/cia-rdp96-00789r002100120002-4_djvu.txt",
+"text": "The special access designation was the Secretary of the Army's, not the command's. The deactivation letter asks HQDA to take 'the necessary actions ... to officially discontinue CENTER LANE as a Secretary of the Army designated Special Access Program', and every page of the project's paperwork carries the warning notice 'CENTER LANE SPECIAL ACCESS PROGRAM RESTRICT DISSEMINATION TO THOSE WITH VERIFIED ACCESS TO CATEGORY THREE (3)'.",
+"tier": 1
+},
+{
+"source": "Memorandum, 'INSCOM CENTER LANE Project (U)', 17 July 1984, CIA-RDP96-00788R001500100011-4, and letter of 2 March 1985, CIA-RDP96-00789R002100120002-4, https://archive.org/download/cia-readingroom-document-cia-rdp96-00789r002100120002-4/cia-rdp96-00789r002100120002-4_djvu.txt",
+"text": "INSCOM ended the work on its own recommendation and handed it to DIA. The commanding general wrote in July 1984 that 'INSCOM ... should discontinue our involvement with psychoenergetic research and operations', intending 'to cease INSCOM CENTER LANE Project operations on 30 Sept 1984', and asked for authority to permit 'timely and undisrupted transfer of (1) ICLP operations to a national agency such as DIA or NSA'. The 2 March 1985 letter notified HQDA of 'the deactivation of the INSCOM CENTER LANE Project, the attachment OPCON of CENTER LANE assets and resources to the Defense Intelligence Agency, and the retirement of CENTER LANE as an active project nickname'.",
+"tier": 1
+},
+{
+"source": "Memorandum for Assistant Chief of Staff for Intelligence, 'INSCOM CENTER LANE Project (U)', 17 July 1984, CIA-RDP96-00788R001500100011-4, https://archive.org/download/cia-readingroom-document-cia-rdp96-00788r001500100011-4/cia-rdp96-00788r001500100011-4_djvu.txt ; disposition form IAFM-OPS-HUP, 'Reorganization of HQ INSCOM and CONUS Elements', 16 Nov 79, CIA-RDP96-00788R002000190002-9, https://archive.org/download/cia-readingroom-document-cia-rdp96-00788r002000190002-9/cia-rdp96-00788r002000190002-9_djvu.txt",
+"text": "The command's letterhead and location in the period are on the documents: 'DEPARTMENT OF THE ARMY / UNITED STATES ARMY INTELLIGENCE AND SECURITY COMMAND / ARLINGTON HALL STATION / ARLINGTON, VIRGINIA 22212', and a 1979 headquarters disposition form records that 'HQ INSCOM will be consolidated at AHS, VA' alongside the creation of a brigade at Fort George G. Meade.",
+"tier": 1
+}
+],
+"connections": [
+"Ran grill-flame from 1977 as its entry into the field, and center-lane as the successor project, ending it on its own recommendation.",
+"Attached CENTER LANE assets and resources OPCON to dia on 2 March 1985, by the letter that notified HQDA of the deactivation.",
+"Army Intelligence obligated seventy-five thousand dollars to sri-international for the selection and training of INSCOM personnel, with initial orientation at SRI on 15 to 17 November 1978.",
+"The 902d-mi-group at Fort George G. Meade is the subordinate group whose Security Support Detachment ran the project; its memorandum is addressed through the INSCOM staff to the commanding general.",
+"Read against waived-usap the case is graded Tier 3, and the note says why: the opened records show service-secretary-level access control over a ridiculed domain, and no opened record connects CENTER LANE to waived status or to any unacknowledged programme."
+],
+"denialPosture": "The board records no denial link on this node in either direction, and that is the point worth stating. INSCOM never had to deny CENTER LANE, because the access controls did the work a denial would otherwise have to do: a Secretary of the Army designated special access programme with a category three caveat on every page needs no public position at all. When the command was finished with it, it did not disown the project; it deactivated it, moved the assets to DIA under operational control and retired the nickname. The board treats the retirement of a nickname as a documented behaviour rather than an inference, because the letter that does it is in the file.",
+"narrative": "The value of INSCOM to this board is that it settles by document what every other compartmented account has to argue by inference: that the United States has taken a subject the public conversation treats as absurd and run it at service-secretary access levels for the better part of a decade. The GDIP memorandum of 4 April 1984 says so in the command's own voice, dating the work and complaining about how it was funded in the same sentence: 'Since the beginning of USAINSCOM's exploitation of psychoenergetics (PE) technology with Project GRILL FLAME in 1977 through the present effort under CENTER LANE, the project has been conducted on an ad hoc basis, using resources taken \"out of hide.\"' A programme paid for out of hide and controlled at category three is a precise description of the structure this board keeps asserting exists.\n\nThe origin is equally documented and equally ordinary. A 1978 talking paper records that 'ACSI & MG Rolya agreed that INSCOM would \"check out\" parapsychology phenomen[a], and that Army Intelligence would obligate $75 K to support an SRI Subject selection and training program for INSCOM personnel over the next year', with the contract let through AMSAA and the money buying a project manager and three subjects. The Army staff started it, the Army staff paid for it, and a nonprofit research institute in California supplied the method. That is the same shape the board traces at SRI International and later at BAASS: a government sponsor with deniability, a private research house with a security apparatus, and a small line of money.\n\nWhat makes the ending as useful as the beginning is that INSCOM did not conceal the project so much as move it. The July 1984 memorandum has the commanding general writing that 'INSCOM ... should discontinue our involvement with psychoenergetic research and operations', intending 'to cease INSCOM CENTER LANE Project operations on 30 Sept 1984', and asking for authority to permit 'timely and undisrupted transfer of (1) ICLP operations to a national agency such as DIA or NSA'. The transfer happened. A capability judged not worth the Army's trouble was handed intact to a defence agency and its name retired, which is exactly how a programme becomes hard to follow without anyone destroying anything.",
+"openQuestions": [
+"The command's 1977 establishment order has not been opened. The board's start date for this node is the year INSCOM's own memorandum gives for the start of the work, not for the command, and the record says so.",
+"The CENTER LANE security classification guide is on the board's source list with eight pages exempt. What those eight pages withhold is the single most direct statement available about what the access categories were protecting, and it has not been obtained.",
+"What DIA did with the assets and resources after 2 March 1985 is not established by anything opened for this node. The attachment is documented; the destination programme's own record is not."
+],
+"roles": [
+"research",
+"concealment",
+"custody",
+"funding"
+],
+"whatItIs": "The United States Army Intelligence and Security Command, the Army's intelligence and security major command, headquartered in the period the board covers at Arlington Hall Station, Arlington, Virginia, with subordinate elements at Fort George G. Meade. Its letterhead in this period reads 'DEPARTMENT OF THE ARMY / UNITED STATES ARMY INTELLIGENCE AND SECURITY COMMAND / ARLINGTON HALL STATION / ARLINGTON, VIRGINIA 22212'. From 1977 it ran the Army's psychoenergetics effort, first as Project GRILL FLAME and then as the INSCOM CENTER LANE Project, worked out of the Security Support Detachment of the 902d Military Intelligence Group at Fort Meade.",
+"whyImplicated": "INSCOM is the board's cleanest documented case of a ridiculed subject held inside the machinery of a special access programme, with the paperwork surviving to prove it. CENTER LANE was not an INSCOM designation. It was 'a Secretary of the Army designated Special Access Program', and every page of the project's file carries the caveat 'CENTER LANE SPECIAL ACCESS PROGRAM RESTRICT DISSEMINATION TO THOSE WITH VERIFIED ACCESS TO CATEGORY THREE (3)'. The command's own commanding general recommended ending the work, then on 2 March 1985 notified the Department of the Army of the deactivation, of the attachment of the project's assets and resources to the Defense Intelligence Agency under operational control, and of the retirement of the nickname. Start, funding, access control, termination and handoff are all in opened documents."
+},
+"entityInfo": null,
+"era": "1",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "inscom",
+"l0": true,
+"label": "US Army Intelligence and Security Command (INSCOM)",
+"locLabel": null,
+"members": [
+{
+"cls": "institution",
+"id": "902d-mi-group",
+"label": "902d Military Intelligence Group, USAINSCOM",
+"tier": "B"
+},
+{
+"cls": "program",
+"id": "center-lane",
+"label": "CENTER LANE",
+"tier": "B"
+},
+{
+"cls": "program",
+"id": "grill-flame",
+"label": "GRILL FLAME",
+"tier": "B"
+}
+],
+"short": "INSCOM (Army Intelligence & Security)",
+"sources": [
+{
+"date": "1984-07-17",
+"name": "INSCOM CENTER LANE Project (U), memorandum for ACSI, 17 July 1984, CIA-RDP96-00788R001500100011-4",
+"url": "https://archive.org/download/cia-readingroom-document-cia-rdp96-00788r001500100011-4/cia-rdp96-00788r001500100011-4_djvu.txt"
+},
+{
+"date": "1985-03-02",
+"name": "Deactivation of INSCOM CENTER LANE Project (ICLP) as a Special Access Program (SAP) (U), 2 March 1985, CIA-RDP96-00789R002100120002-4",
+"url": "https://archive.org/download/cia-readingroom-document-cia-rdp96-00789r002100120002-4/cia-rdp96-00789r002100120002-4_djvu.txt"
+},
+{
+"date": "1984-04-04",
+"name": "CENTER LANE FY 86 - 90 GDIP Submission (U), 4 April 1984, CIA-RDP96-00788R001600450002-5",
+"url": "https://archive.org/download/cia-readingroom-document-cia-rdp96-00788r001600450002-5/cia-rdp96-00788r001600450002-5_djvu.txt"
+},
+{
+"date": "1978-11-24",
+"name": "INSCOM Involvement in Remote Viewing (DoD Project GRILL FLAME), talking paper, Nov 1978, CIA-RDP96-00788R001200410023-0",
+"url": "https://archive.org/download/cia-readingroom-document-cia-rdp96-00788r001200410023-0/cia-rdp96-00788r001200410023-0_djvu.txt"
+},
+{
+"date": "1979-11-16",
+"name": "Reorganization of HQ INSCOM and CONUS Elements, 16 Nov 79, CIA-RDP96-00788R002000190002-9",
+"url": "https://archive.org/download/cia-readingroom-document-cia-rdp96-00788r002000190002-9/cia-rdp96-00788r002000190002-9_djvu.txt"
+},
+{
+"date": "1984-07-13",
+"name": "Cancellation of the INSCOM CENTER LANE Project, information paper IAGPA-F-SD, 13 Jul 84, CIA-RDP96-00788R001500100016-9",
+"url": "https://archive.org/download/cia-readingroom-document-cia-rdp96-00788r001500100016-9/cia-rdp96-00788r001500100016-9_djvu.txt"
+},
+{
+"date": "2000-08-08",
+"name": "CENTER LANE security classification guide item, eight pages exempt, CIA-RDP96-00788R001500120046-4",
+"url": "https://archive.org/download/cia-readingroom-document-cia-rdp96-00788r001500120046-4/cia-rdp96-00788r001500120046-4_djvu.txt"
+}
+],
+"sub": "Army intelligence major command; ran the psychoenergetics effort as a special access programme, 1977-1985",
+"tier": "A",
+"tierRationale": "Re-graded A on a global pass (rank 120 of 1027, score 57). 6 connections, 5 of them custody/witness/funding/programmatic. Axes C2/A3/D2.",
+"timeline": [
+{
+"date": "1985-03-02",
+"id": "tl-1985-03-02-center-lane-deactivation",
+"label": "INSCOM deactivates CENTER LANE and attaches its assets to DIA",
+"precision": "day",
+"strand": "program",
+"text": "INSCOM notifies the Department of the Army of 'the deactivation of the INSCOM CENTER LANE Project, the attachment OPCON of CENTER LANE assets and resources to the Defense Intelligence Agency, and the retirement of CENTER LANE as an active project nickname', and asks HQDA to officially discontinue CENTER LANE 'as a Secretary of the Army designated Special Access Program'. The initiative was INSCOM's own: its commanding general had recommended discontinuing the work in July 1984.",
+"tier": "B"
+}
+]
+}

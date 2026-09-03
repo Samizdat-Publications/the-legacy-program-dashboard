@@ -1,0 +1,343 @@
+{
+"A": 3,
+"C": 1,
+"D": 2,
+"band": "funding",
+"claims": [
+{
+"source": "https://www.odni.gov/index.php/what-we-do/ic-budget",
+"text": "Section 601 of the Implementing Recommendations of the 9/11 Commission Act of 2007 (P.L. 110-53) requires the DNI to disclose the aggregate amount appropriated for the NIP within 30 days of the end of each fiscal year.",
+"tier": 1
+},
+{
+"source": "https://www.odni.gov/index.php/what-we-do/ic-budget",
+"text": "Section 364 of the Intelligence Authorization Act for Fiscal Year 2010 required disclosure of the aggregate NIP budget request; the first such release was in February 2011.",
+"tier": 1
+},
+{
+"source": "https://www.odni.gov/index.php/what-we-do/ic-budget",
+"text": "Published NIP appropriated toplines: FY2007 $43.5bn, FY2008 $47.5bn, FY2009 $49.8bn, FY2010 $53.1bn, FY2011 $54.6bn, FY2012 $53.9bn, FY2013 $49.0bn, FY2014 $50.5bn, FY2015 $50.3bn, FY2016 $53.0bn, FY2017 $54.6bn, FY2018 $59.4bn, FY2019 $60.2bn, FY2020 $62.7bn, FY2021 $60.8bn, FY2022 $65.7bn, FY2023 $71.7bn, FY2024 $76.5bn, FY2025 $73.3bn.",
+"tier": 1
+},
+{
+"source": "https://www.odni.gov/index.php/what-we-do/ic-budget",
+"text": "The FY2026 NIP budget request was $81.9 billion.",
+"tier": 1
+},
+{
+"source": "https://www.odni.gov/index.php/what-we-do/ic-budget",
+"text": "No breakdown of the NIP by agency, programme, discipline or appropriation account is published; the statutory disclosure is of the aggregate only.",
+"tier": 1
+}
+],
+"cls": "program",
+"cluster": "ic",
+"connections": [
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": "2025-12-18",
+"direction": "in",
+"edgeLabel": "The Schedule is the instrument by which the entire NIP is authorised",
+"id": "classified-schedule-authorizations",
+"l0": false,
+"label": "The Classified Schedule of Authorizations (Intelligence Authorization Act)",
+"note": "Section 6102(a) of the FY2026 Intelligence Authorization Act provides that the amounts authorised for intelligence activities 'are those specified in the classified Schedule of Authorizations prepared to accompany this division'. Attested by the statute itself.",
+"sources": [
+{
+"date": "2025-12-18",
+"name": "IAA FY2026 (Division F, P.L. 119-60), Sec. 6102",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-119publ60/html/PLAW-119publ60.htm"
+}
+],
+"tier": "B",
+"type": "funding"
+},
+{
+"claimTier": 1,
+"cls": "domain",
+"dateEnd": null,
+"dateStart": "2007",
+"direction": "out",
+"edgeLabel": "one of the two named channels through which US intelligence money is appropriated",
+"id": "d-funding",
+"l0": false,
+"label": "Funding Channels",
+"note": "The National Intelligence Program is the DNI-controlled channel. Since FY2007, sec. 601 of the Implementing Recommendations of the 9/11 Commission Act (P.L. 110-53) has required disclosure of the aggregate appropriated amount, and ODNI publishes request and appropriated toplines annually. Aggregate-only disclosure is precisely what makes it a channel this board can name but not itemise.",
+"sources": [
+{
+"date": "2026-08-21",
+"name": "ODNI, Intelligence Community Budget",
+"url": "https://www.odni.gov/index.php/what-we-do/ic-budget"
+},
+{
+"date": "2026-03-01",
+"name": "ODNI press release, 'DNI Releases FY 2027 Budget Request Figure for the National Intelligence Program'",
+"url": "https://www.dni.gov/index.php/newsroom/press-releases/press-releases-2026/4156-pr-07-26"
+},
+{
+"date": "2024-09-26",
+"name": "CRS Report R44381, 'Intelligence Community Spending: Trends and Issues'",
+"url": "https://www.congress.gov/crs-product/R44381"
+}
+],
+"tier": "A",
+"type": "funding"
+},
+{
+"claimTier": 1,
+"cls": "legislation",
+"dateEnd": "2024-09-30",
+"dateStart": "2023-12-22",
+"direction": "in",
+"edgeLabel": "Binds funds authorised by the intelligence division",
+"id": "iaa24-sec7343",
+"l0": false,
+"label": "IAA FY2024 Section 7343 - Funding Limitations Relating to Unidentified Anomalous Phenomena",
+"note": "Section 7343(b) bars use of funds authorised by Division F for UAP activity under special or restricted access limitation absent DNI disclosure to six committees and congressional leadership. Attested by the statute.",
+"sources": [
+{
+"date": "2023-12-22",
+"name": "IAA FY2024, Sec. 7343",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm"
+}
+],
+"tier": "B",
+"type": "legislative"
+},
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": null,
+"dateStart": "2005",
+"direction": "out",
+"edgeLabel": "The two-programme split that divides intelligence money between DNI and SECDEF control",
+"id": "mip",
+"l0": false,
+"label": "Military Intelligence Program (MIP)",
+"note": "The NIP is controlled by the Director of National Intelligence and the MIP by the Secretary of Defense; both are published only as annual aggregates. Attested by ODNI's own budget page and the FAS compilation.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "ODNI, IC Budget; FAS Intelligence Budget Data",
+"url": "https://www.odni.gov/index.php/what-we-do/ic-budget"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": "2013-08-29",
+"direction": "in",
+"edgeLabel": "The only public view of the interior of the National Intelligence Program",
+"id": "nip-fy2013-summary-disclosure",
+"l0": false,
+"label": "National Intelligence Program Summary for FY2013 (excerpts) - the 2013 black budget disclosure",
+"note": "The FY2013 NIP Summary excerpts, classified TS/SI/TK/NOFORN, were released via the Washington Post in August 2013 and are hosted by FAS; the officially disclosed figure for the same year was a single aggregate. Attested by the FAS document index.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "FAS Intelligence Resource Program, Intelligence Budget Data",
+"url": "https://irp.fas.org/budget/index.html"
+}
+],
+"tier": "B",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "legislation",
+"dateEnd": null,
+"dateStart": "1949-06-20",
+"direction": "in",
+"edgeLabel": "Unvouchered CIA spending sits inside the NIP and outside all expenditure law",
+"id": "usc-50-3510",
+"l0": false,
+"label": "50 U.S.C. 3510 - CIA unvouchered funds (CIA Act of 1949, sec. 8)",
+"note": "50 U.S.C. 3510(b) permits Agency sums to be expended without regard to laws and regulations governing expenditure of government funds, accounted for solely on the Director's certificate. The CIA is funded within the National Intelligence Program. Attested by the statute.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "50 U.S.C. 3510",
+"url": "https://www.law.cornell.edu/uscode/text/50/3510"
+}
+],
+"tier": "B",
+"type": "funding"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "2004-12-17",
+"deg": 6,
+"denials": [],
+"desc": "The National Intelligence Program is the intelligence budget that the Director of National Intelligence controls, as distinct from the Military Intelligence Program which the Secretary of Defense controls. Its aggregate appropriated total has been published annually since FY2007 under section 601 of the Implementing Recommendations of the 9/11 Commission Act of 2007 (Public Law 110-53), which requires the DNI to disclose the aggregate amount appropriated within thirty days of the end of each fiscal year; since February 2011 the aggregate request has also been published, under section 364 of the Intelligence Authorization Act for Fiscal Year 2010. Those are the only two numbers Congress has required to be made public. The appropriated toplines run from $43.5 billion in FY2007 to $73.3 billion in FY2025, with an FY2026 request of $81.9 billion. What is not published is any breakdown whatsoever: not by agency, not by programme, not by intelligence discipline, not by appropriation account. The NIP is not itself an appropriation - it is a cross-cutting programme construct whose money is appropriated inside other bills and other departments' accounts, chiefly the Department of Defense, which is the structural fact that makes the intelligence budget a concealment mechanism rather than merely a secret. A dollar appropriated in a Department of Defense account, scored to the NIP, controlled by the DNI, and executed by a contractor is a dollar with four different institutional owners and one public number.",
+"domains": [
+"w2-black-budget"
+],
+"dossier": {
+"claims": [
+{
+"source": "ODNI News Release No. 07-26, 'DNI Releases FY 2027 Budget Request Figure for the National Intelligence Program', 21 April 2026, https://www.dni.gov/index.php/newsroom/press-releases/press-releases-2026/4156-pr-07-26",
+"text": "On 21 April 2026 the Director of National Intelligence disclosed an aggregate amount of 81.9 billion dollars in requested appropriations for the Fiscal Year 2027 National Intelligence Program.",
+"tier": 1
+},
+{
+"source": "ODNI News Release No. 07-26, 21 April 2026, https://www.dni.gov/index.php/newsroom/press-releases/press-releases-2026/4156-pr-07-26",
+"text": "The DNI makes the NIP topline disclosure consistent with section 601 of the Implementing the Recommendations of the 9/11 Commission Act of 2007 (P.L. 110-53), as amended, codified at 50 U.S.C. 3306.",
+"tier": 1
+},
+{
+"source": "ODNI News Release No. 07-26, 21 April 2026, https://www.dni.gov/index.php/newsroom/press-releases/press-releases-2026/4156-pr-07-26",
+"text": "The same release states: 'Beyond the disclosure of the NIP topline figure, there will be no other disclosures of currently classified NIP budget information. The only exceptions to the foregoing are for unclassified appropriations.'",
+"tier": 1
+},
+{
+"source": "U.S. Department of War release, 'Fiscal Year 2027 Military Intelligence Program Budget Request', 21 April 2026, https://www.war.gov/News/Releases/Release/Article/4465616/fiscal-year-2027-military-intelligence-program-budget-request/",
+"text": "On 21 April 2026 the Department of War released the Military Intelligence Program top line budget request for fiscal year 2027 at 50.0 billion dollars, aligned to the strategic priorities of the Secretary of War.",
+"tier": 2
+},
+{
+"source": "U.S. Department of War release, 21 April 2026, https://www.war.gov/News/Releases/Release/Article/4465616/fiscal-year-2027-military-intelligence-program-budget-request/",
+"text": "That Department of War release states: 'The department determined that releasing this top line figure does not jeopardize any classified activities within the MIP. No other MIP budget figures or program details will be released, as they remain classified for national security reasons.'",
+"tier": 1
+},
+{
+"source": "Arithmetic on ODNI News Release No. 07-26 (https://www.dni.gov/index.php/newsroom/press-releases/press-releases-2026/4156-pr-07-26) and U.S. Department of War release of 21 April 2026 (https://www.war.gov/News/Releases/Release/Article/4465616/fiscal-year-2027-military-intelligence-program-budget-request/)",
+"text": "The total publicly disclosed US intelligence budget request for fiscal year 2027 is therefore 131.9 billion dollars, being the NIP request of 81.9 billion plus the MIP request of 50.0 billion, both released on 21 April 2026.",
+"tier": 2
+},
+{
+"source": "ODNI News Release No. 12-25, 'DNI Releases FY 2026 Budget Request Figure for the National Intelligence Program', 4 June 2025, https://www.dni.gov/index.php/newsroom/press-releases/press-releases-2025/4078-pr-12-25",
+"text": "On 4 June 2025 the DNI disclosed an aggregate amount of 81.9 billion dollars in requested appropriations for the Fiscal Year 2026 National Intelligence Program.",
+"tier": 2
+},
+{
+"source": "ODNI press release, 'DNI Releases FY 2025 Budget Request Figure for the National Intelligence Program', https://www.dni.gov/index.php/newsroom/press-releases/press-releases-2024/3790-dni-releases-fy-2025-budget-request-figure-for-the-national-intelligence-program",
+"text": "The DNI previously disclosed an aggregate amount of 73.4 billion dollars in requested appropriations for the Fiscal Year 2025 National Intelligence Program.",
+"tier": 2
+},
+{
+"source": "ODNI News Release No. 39-25, 'DNI Releases Appropriated Budget Figure For 2025 National Intelligence Program', 31 October 2025, https://www.dni.gov/index.php/newsroom/press-releases/press-releases-2025/4121-pr-39-25",
+"text": "Congress appropriated an aggregate 73.3 billion dollars to the National Intelligence Program for Fiscal Year 2025, including supplemental funding, disclosed on 31 October 2025.",
+"tier": 2
+},
+{
+"source": "Comparison of ODNI News Release No. 07-26 (21 April 2026), ODNI News Release No. 12-25 (4 June 2025), and the FY2025 request release, all at https://www.dni.gov/index.php/newsroom/press-releases/",
+"text": "The requested NIP topline rose from 73.4 billion dollars for FY2025 to 81.9 billion dollars for FY2026 and FY2027, an increase of approximately 8.5 billion dollars, with no public breakdown of where within the NIP the increase falls.",
+"tier": 2
+},
+{
+"source": "ODNI, 'About', https://www.odni.gov/about/",
+"text": "The Director of National Intelligence heads an Intelligence Community made up of 18 organizations, and the DNI oversees intelligence operations at each of them.",
+"tier": 1
+},
+{
+"source": "ODNI, 'About', https://www.odni.gov/about/ ; Intelligence Reform and Terrorism Prevention Act of 2004, P.L. 108-458, https://www.govinfo.gov/content/pkg/PLAW-108publ458/pdf/PLAW-108publ458.pdf",
+"text": "The ODNI was established by the Intelligence Reform and Terrorism Prevention Act of 2004, signed 17 December 2004, and began operations at 7 a.m. on 22 April 2005; the NIP disclosure statute post-dates it by more than two years.",
+"tier": 1
+},
+{
+"source": "ODNI News Release No. 07-26, 21 April 2026, https://www.dni.gov/index.php/newsroom/press-releases/press-releases-2026/4156-pr-07-26 ; U.S. Department of War release, 21 April 2026, https://www.war.gov/News/Releases/Release/Article/4465616/fiscal-year-2027-military-intelligence-program-budget-request/",
+"text": "The NIP and the MIP are disclosed by two different authorities on separate releases: the NIP by the DNI under 50 U.S.C. 3306, the MIP by the Department of Defense/Department of War as a discretionary determination that release does not jeopardise classified activities.",
+"tier": 1
+},
+{
+"source": "Senado Federal, Requerimento no 193, de 2022, justificacao, https://legis.senado.leg.br/sdleg-getter/documento?dm=9089831&disposition=inline",
+"text": "The Brazilian Senate entered the US intelligence and defence funding posture into its own legislative record in March 2022, citing the omnibus bill signed 15 March 2022 with 782.5 billion dollars for defence including resources reserved for unexplained aerial phenomena research under the FY2022 NDAA.",
+"tier": 1
+}
+],
+"connections": [
+"Funds the eighteen IC organisations listed by ODNI, including CIA, DIA, NSA, NGA and NRO, any of which could domicile a special access programme invisible at topline resolution.",
+"Paired with the Military Intelligence Program, disclosed the same day by the Department of War, which uses the same no-further-disclosure formula.",
+"Statutorily rooted in section 601 of P.L. 110-53 (50 U.S.C. 3306), which is the only affirmative US intelligence transparency obligation of its kind and covers scale alone, never composition.",
+"The direct inverse of the Brazilian archival nodes (arquivo-nacional-ufo, fab): Brazil published the substance without a price, the US publishes the price without the substance.",
+"Cited indirectly in Senado Federal RQS 193/2022 (senado-brasil), which entered the US defence and UAP funding posture into the Brazilian legislative record.",
+"The measurement baseline against which unfunded-liability arguments about legacy programme costs, contractor IR&D recovery, and off-NIP domiciling must be assessed."
+],
+"denialPosture": "The NIP disclosure is a denial wrapped around a concession. The DNI publishes one number and states in the same release that no other currently classified NIP budget information will be disclosed; the Department of War publishes its own number and states that no other MIP budget figures or programme details will be released because they remain classified. Both statements are dated and attributable, and both certify that the composition of the amounts disclosed is placed permanently outside public accounting.",
+"narrative": "The NIP topline exists as a public number because Congress made it one. Section 601 of the Implementing the Recommendations of the 9/11 Commission Act of 2007, Public Law 110-53, codified at 50 U.S.C. 3306, requires the DNI to disclose the aggregate amount of appropriations requested for, and appropriated to, the National Intelligence Program. Before that statute the topline was itself classified, contested in litigation and estimated by outsiders from budget residue. The 9/11 Commission's reasoning was that a single aggregate number tells an adversary nothing operationally useful while giving the public a minimal handhold on scale. That reasoning is worth holding onto, because it is precisely the reasoning that has never been applied one level down.\n\nThe current figures are these. On 21 April 2026 the DNI disclosed an aggregate request of 81.9 billion dollars for the fiscal year 2027 NIP, in ODNI News Release No. 07-26. The same day the Department of War released the MIP topline request for FY2027 at 50.0 billion dollars. Taken together the disclosed US intelligence request for FY2027 is 131.9 billion dollars. The prior year's NIP request, disclosed on 4 June 2025, was also 81.9 billion. For FY2025 the requested figure was 73.4 billion and the appropriated figure, disclosed on 31 October 2025 in ODNI News Release No. 39-25, was 73.3 billion including supplemental funding. The FY2026 to FY2027 step from the low seventies to 81.9 billion is a substantial real increase, and no public account exists of where inside the NIP it went.\n\nWhat the disclosure statute does not do is the point. The ODNI release states in terms that beyond the topline there will be no other disclosures of currently classified NIP budget information, with the sole exception of unclassified appropriations. The Department of War release mirrors it: the department determined that releasing the top line does not jeopardise any classified activities within the MIP, and no other MIP budget figures or programme details will be released, as they remain classified for national security reasons. Both of those sentences are dated, signed institutional statements, and on this board's method they are catalogued as such. Each is a public certification that the composition of a nine-figure-per-day expenditure is outside public accountability, issued by the same government that says nothing is being concealed about anomalous aerial phenomena.\n\nThe structural consequence for the legacy-programme thesis is arithmetic. The NIP and MIP toplines are aggregates over eighteen IC organisations plus the defence services, spanning collection, analysis, counterintelligence, acquisition and personnel. A special access programme, however sensitive, appears in that aggregate as an undifferentiated increment. Move a few hundred million dollars, or a few billion, between elements and the topline moves by a fraction of a percent, well inside the year-to-year variance the public figures already exhibit without explanation. There is no external mechanism that would detect it, because the statute that produces the only public number simultaneously certifies that nothing beneath it will be produced. That is not an allegation about where the money went. It is a statement about what the disclosure regime is capable of showing, which is nothing at the resolution the question requires.\n\nThe further complication is that the NIP is not the only channel. Programmes can sit in the MIP rather than the NIP, in service acquisition accounts outside both, in the Department of Energy's weapons complex, or in contractor-held independent research and development recovered through overhead rates on unrelated contracts. A programme domiciled outside the NIP would not appear even as an increment in the one number the public gets. The disclosure regime, in other words, is not a partial window onto the whole. It is a complete window onto one selected pane.\n\nSet against the Brazilian nodes the asymmetry is stark and inverted. Brazil published the substance and never had to publish a price: the Fundo OVNI gives a citizen the report forms, the photographs and the audio, and there is no Brazilian equivalent of an annually disclosed intelligence topline. The United States publishes the price and none of the substance. A citizen of Brazil can read what an air force captain wrote in Para in 1977. A citizen of the United States can learn that 81.9 billion dollars was requested for intelligence in fiscal 2027 and is told, in the same paragraph, that they will learn nothing else. Both governments made a choice about what to make legible. Only one of them chose the part that answers a question.",
+"openQuestions": [
+"The FY2026 and FY2025 figures rest on ODNI press-release URLs whose live pages now redirect to the current ODNI newsroom; the figures were confirmed via indexed search results rather than by direct retrieval of the archived release text in this pass.",
+"No public source establishes the internal composition of the NIP at any level below the topline, by agency, by discipline, or by programme, for any fiscal year.",
+"Whether any UAP-related activity is funded within the NIP, within the MIP, within service acquisition accounts outside both, or within Department of Energy accounts is not determinable from any disclosed figure.",
+"The 8.5 billion dollar step from the FY2025 request to the FY2026 and FY2027 requests is unexplained in the public record; whether it reflects inflation, a new mission area, a transfer from MIP, or a programme start is unknown.",
+"The first year in which the NIP topline was disclosed under section 601, and the figure disclosed, have not been verified against a primary ODNI record in this pass.",
+"Contractor independent research and development recovered through overhead on unrelated government contracts is not captured by either the NIP or the MIP topline, and its scale relative to these figures is not established."
+],
+"roles": [
+"funding",
+"concealment",
+"oversight",
+"disclosure"
+],
+"whatItIs": "The National Intelligence Program (NIP) is the aggregate budget covering the intelligence activities of the United States Intelligence Community that fall under the Director of National Intelligence's authority, as distinct from the Military Intelligence Program (MIP), which the Department of Defense, since 2025 styled the Department of War, funds and discloses separately. Every year the DNI publicly discloses a single figure: the NIP topline, either the requested appropriation or the enacted one. That single number, and nothing beneath it, is the totality of what the United States tells the public about how much it spends on intelligence.",
+"whyImplicated": "The NIP is the board's measuring instrument rather than a suspect. It is the one intelligence quantity the US government is statutorily obliged to publish, which makes it the only fixed point in an otherwise unmeasurable field, and the disclosure comes bolted to an explicit statement of what will not follow. The DNI's own language is the artefact: beyond the topline figure, there will be no other disclosures of currently classified NIP budget information, the only exceptions being unclassified appropriations. The Department of War's parallel MIP release says the same thing in its own words. So the United States publishes a number in the tens of billions and simultaneously certifies that the composition of that number is not subject to public accounting. For a board premised on a concealed recovery and reverse-engineering effort, this is the structural fact that makes concealment financially unremarkable rather than extraordinary: a programme costing a rounding error against 81.9 billion dollars would not disturb the only figure anyone outside the compartment ever sees. It is also the exact inverse of the Brazilian nodes, where the state published the contents and never had to publish a price."
+},
+"entityInfo": null,
+"era": "2",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "nip",
+"l0": true,
+"label": "National Intelligence Program (NIP)",
+"locLabel": null,
+"members": [
+{
+"cls": "document",
+"id": "classified-schedule-authorizations",
+"label": "The Classified Schedule of Authorizations (Intelligence Authorization Act)",
+"tier": "B"
+},
+{
+"cls": "domain",
+"id": "d-funding",
+"label": "Funding Channels",
+"tier": "A"
+},
+{
+"cls": "legislation",
+"id": "iaa24-sec7343",
+"label": "IAA FY2024 Section 7343 - Funding Limitations Relating to Unidentified Anomalous Phenomena",
+"tier": "B"
+},
+{
+"cls": "program",
+"id": "mip",
+"label": "Military Intelligence Program (MIP)",
+"tier": "B"
+},
+{
+"cls": "document",
+"id": "nip-fy2013-summary-disclosure",
+"label": "National Intelligence Program Summary for FY2013 (excerpts) - the 2013 black budget disclosure",
+"tier": "B"
+},
+{
+"cls": "legislation",
+"id": "usc-50-3510",
+"label": "50 U.S.C. 3510 - CIA unvouchered funds (CIA Act of 1949, sec. 8)",
+"tier": "B"
+}
+],
+"short": "National Intelligence Program (NIP)",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "ODNI, Intelligence Community Budget",
+"url": "https://www.odni.gov/index.php/what-we-do/ic-budget"
+}
+],
+"sub": "The non-DoD-controlled half of the US intelligence budget; funded across many agencies, controlled by the DNI",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 170 of 1027, score 47). 6 connections, 3 of them custody/witness/funding/programmatic. Axes C1/A3/D2.",
+"timeline": []
+}

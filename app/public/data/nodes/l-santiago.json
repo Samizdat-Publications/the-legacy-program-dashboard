@@ -1,0 +1,86 @@
+{
+"A": 1,
+"C": 0,
+"D": 3,
+"band": null,
+"claims": [
+{
+"source": "Board bookkeeping",
+"text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
+"tier": 3
+}
+],
+"cls": "location",
+"cluster": "other",
+"connections": [
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "sited in Santiago since 1997",
+"id": "cefaa",
+"l0": true,
+"label": "CEFAA / SEFAA - Chilean anomalous aerial phenomena office, Dirección General de Aeronáutica Civil",
+"note": "Chile's DGAC dates CEFAA's establishment to 3 October 1997 and traces the reporting lineage back to 1968 at the old Oficina Meteorologica de Chile in the Complejo Aeronautico Quinta Normal, Avenida Diego Portales 3450, Santiago. After the 2021 reorganisation the successor body SEFAA sits at Av. Pedro Aguirre Cerda 5100, Cerrillos, Santiago.",
+"sources": [
+{
+"date": "2026-08-25",
+"name": "DGAC Chile / SEFAA, Historia",
+"url": "https://sefaa.dgac.gob.cl/historia/"
+},
+{
+"date": null,
+"name": "https://sefaa.dgac.gob.cl/quienes-somos/",
+"url": "https://sefaa.dgac.gob.cl/quienes-somos/"
+}
+],
+"tier": "A",
+"type": "geographic"
+}
+],
+"coords": [
+-33.4489,
+-70.6693
+],
+"dateEnd": null,
+"dateStart": null,
+"deg": 1,
+"denials": [],
+"desc": "Santiago is the seat of Chile's civil aviation authority, the Dirección General de Aeronáutica Civil, within which the Comité de Estudios de Fenómenos Aéreos Anómalos has operated as an official investigative body staffed by serving and retired air force officers. CEFAA's directors, including General Ricardo Bermúdez, have spoken on the record about unresolved cases and have released military imagery for public analysis - most notably the 2014 navy helicopter infrared footage. Chile belongs on this board as a second working demonstration, alongside France and Brazil, that a state can run an acknowledged programme.",
+"domains": [
+"_stubs",
+"w2-taxonomy"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "nd",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "l-santiago",
+"l0": false,
+"label": "Santiago, Chile",
+"locLabel": "Santiago, Chile",
+"members": null,
+"short": "Santiago, Chile",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Wikipedia - Santiago",
+"url": "https://en.wikipedia.org/wiki/Santiago"
+},
+{
+"date": "2017-01-09",
+"name": "New York Post - Chilean Navy admits it can't explain UFO",
+"url": "https://nypost.com/2017/01/09/chilean-navy-admits-it-cant-explain-ufo/"
+}
+],
+"sub": "Capital of Chile; seat of the DGAC and of CEFAA",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 973 of 1027, score 11). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D3.",
+"timeline": []
+}

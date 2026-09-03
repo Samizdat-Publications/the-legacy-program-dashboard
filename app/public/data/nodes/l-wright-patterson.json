@@ -1,0 +1,525 @@
+{
+"A": 3,
+"C": 3,
+"D": 1,
+"band": null,
+"claims": [
+{
+"source": "Wikipedia, Wright-Patterson Air Force Base, citing USAF historical records — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"text": "Wright-Patterson AFB was formally established on 13 January 1948 by consolidating Wright Field, Patterson Field, Dayton Army Air Field and Clinton Army Air Field.",
+"tier": 2
+},
+{
+"source": "USAF fact sheet on Project Blue Book, as summarised in the Wright-Patterson AFB article — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"text": "Project Blue Book operated at Wright-Patterson from 1952 to 1969, studying 12,618 sightings of which 701 remained unexplained at closure.",
+"tier": 2
+},
+{
+"source": "Wikipedia, Wright-Patterson Air Force Base, tenant units — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"text": "The National Air and Space Intelligence Center, the direct institutional successor to ATIC and the Foreign Technology Division, is headquartered at Wright-Patterson AFB.",
+"tier": 2
+},
+{
+"source": "Inference from the ATIC/FTD/NASIC lineage and the absence of any identified T-2 declassification project",
+"text": "If any legacy recovery and exploitation effort existed, this installation is its institutional address: the United States assigned unidentified flying objects to the organisation whose mission is taking recovered foreign hardware apart, and that organisation's 1947-1951 files have never had a comprehensive declassification review. Reasoning: SIGN, GRUDGE and Blue Book were all hosted under AMC/ATIC here, and no FOIA release or NARA accession covering T-2's 1947-1951 intelligence series has been identified.",
+"tier": 3
+}
+],
+"cls": "location",
+"cluster": "legacy",
+"connections": [
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "2008",
+"dateStart": "2008",
+"direction": "in",
+"edgeLabel": "written at the Air Force Institute of Technology, Wright-Patterson AFB",
+"id": "afit-townsend-2008",
+"l0": false,
+"label": "AFIT/GA/ENY/08-M06 - Space Based Satellite Tracking and Characterization Utilizing Non-Imaging Passive Sensors",
+"note": "Title page: 'Department of the Air Force, Air University, Air Force Institute of Technology, Wright-Patterson Air Force Base, Ohio. APPROVED FOR PUBLIC RELEASE; DISTRIBUTION UNLIMITED.'",
+"sources": [
+{
+"date": "2008-03-10",
+"name": "AFIT/GA/ENY/08-M06, DTIC ADA478890, title page",
+"url": "https://archive.org/details/DTIC_ADA478890"
+}
+],
+"tier": "C",
+"type": "geographic"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "1959",
+"dateStart": "1959",
+"direction": "in",
+"edgeLabel": "A copy went to WADD at Wright-Patterson",
+"id": "afswc-tr-59-39",
+"l0": true,
+"label": "AFSWC TR-59-39 Vol I, A Study of Lunar Research Flights, 19 June 1959",
+"note": "Listed under ARDC CENTERS as 'WADD, Wright-Patterson AFB, Ohio'.",
+"sources": [
+{
+"date": "1959-06-19",
+"name": "AFSWC TR-59-39 Vol I, A Study of Lunar Research Flights, DDC AD 425380",
+"url": "https://archive.org/details/DTIC_AD0425380"
+}
+],
+"tier": "A",
+"type": "custody"
+},
+{
+"claimTier": 2,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "1951",
+"direction": "in",
+"edgeLabel": "ATIC and its successors were and are headquartered at Wright-Patterson",
+"id": "atic",
+"l0": true,
+"label": "Air Technical Intelligence Center",
+"note": "The Air Technical Intelligence Center, formed in 1951 from Air Materiel Command's T-2 intelligence organisation at Wright Field, became the Foreign Technology Division in 1961 and NASIC in 1993, which remains at the base. Attested by USAF unit histories.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Wikipedia - Wright-Patterson Air Force Base",
+"url": "https://en.wikipedia.org/wiki/Wright-Patterson_Air_Force_Base"
+}
+],
+"tier": "A",
+"type": "geographic"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "1947",
+"direction": "in",
+"edgeLabel": "ATIC and every legacy UFO project were located at Wright-Patterson",
+"id": "atic",
+"l0": true,
+"label": "Air Technical Intelligence Center",
+"note": "SIGN, GRUDGE and Blue Book were all headquartered at Wright-Patterson AFB, the site of the Air Force's foreign materiel exploitation organisation and its successors.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "USAF Fact Sheet: Project Blue Book",
+"url": "https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/"
+},
+{
+"date": "2026-08-12",
+"name": "NARA — Project Blue Book records",
+"url": "https://www.archives.gov/research/military/air-force/ufos"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 2,
+"cls": "institution",
+"dateEnd": "1949",
+"dateStart": "1948",
+"direction": "in",
+"edgeLabel": "Wright-Patterson-sponsored nickel-titanium alloy work, 1948-49",
+"id": "battelle",
+"l0": true,
+"label": "Battelle Memorial Institute",
+"note": "The research lineage from which nitinol shape-memory alloy emerged; researchers including Anthony Bragalia allege the corresponding reports are missing from both Air Force and Battelle archives.",
+"sources": [
+{
+"date": "2009-05-21",
+"name": "Sarasota Herald-Tribune - Memory-metal files are missing",
+"url": "https://www.heraldtribune.com/story/news/2009/05/21/memory-metal-files-are-missing/28868099007/"
+},
+{
+"date": "2026-08-12",
+"name": "UFO Explorations",
+"url": "https://www.ufoexplorations.com/roswell-battelle-memory-metal-revel"
+}
+],
+"tier": "A",
+"type": "funding"
+},
+{
+"claimTier": 2,
+"cls": "document",
+"dateEnd": "1969",
+"dateStart": "1969",
+"direction": "in",
+"edgeLabel": "The Bolender memo closed the base's public reporting channel while conceding another existed",
+"id": "bolender-memo",
+"l0": false,
+"label": "Bolender Memorandum",
+"note": "Brig. Gen. Carroll Bolender's 1969 memorandum recommended Blue Book's termination and stated that reports which could affect national security were never part of the Blue Book system - a statement about this base's own reporting architecture.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Wikipedia - Wright-Patterson Air Force Base",
+"url": "https://en.wikipedia.org/wiki/Wright-Patterson_Air_Force_Base"
+}
+],
+"tier": "B",
+"type": "denial"
+},
+{
+"claimTier": 3,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "2023",
+"direction": "in",
+"edgeLabel": "Corroborating NASIC officer sits at the installation at the center of the legacy custody claims",
+"id": "david-grusch",
+"l0": false,
+"label": "David Charles Grusch",
+"note": "Grusch testified he knows the exact locations of held material and provided them to the Inspector General; the one corroborator whose duty station is public serves at NASIC, Wright-Patterson. Reasoning: the geography is suggestive and no document places Grusch's locations at Wright-Patterson.",
+"sources": [
+{
+"date": "2023-06-05",
+"name": "The Debrief",
+"url": "https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/"
+},
+{
+"date": "2023-07-26",
+"name": "House Oversight hearing transcript",
+"url": "https://www.congress.gov/118/meeting/house/116282/documents/HHRG-118-GO06-Transcript-20230726.pdf"
+}
+],
+"tier": "A",
+"type": "custody"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "1954",
+"dateStart": "1953",
+"direction": "in",
+"edgeLabel": "Chief, Special Studies Office, Installations Division, Air Materiel Command",
+"id": "eric-wang",
+"l0": false,
+"label": "Eric H. Wang",
+"note": "The Project 3.1 report records the transfer of Air Force responsibility 'from the Special Studies Office, Installations Division, Air Materiel Command to Blast Effects Research, Mechanics Branch, Aeronautical Research Laboratory, Wright Air Development Center, on 15 November 1954'.",
+"sources": [
+{
+"date": "1955-07-01",
+"name": "Operation Upshot-Knothole, Project 3.1, DTIC ADA073468",
+"url": "https://archive.org/details/DTIC_ADA073468"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "Stationed at Wright-Patterson AFB, Ohio",
+"id": "foreign-technology-division",
+"l0": false,
+"label": "Foreign Technology Division, Wright-Patterson AFB",
+"note": "AFR 80-17 names the station in the assignment itself: 'the Foreign Technology Division (FTD) at Wright-Patterson Air Force Base, Ohio'.",
+"sources": [
+{
+"date": "1966-09-19",
+"name": "AFR 80-17, 19 September 1966",
+"url": "https://nicap.org/afr80-17.htm"
+}
+],
+"tier": "B",
+"type": "geographic"
+},
+{
+"claimTier": 2,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "1993",
+"direction": "in",
+"edgeLabel": "NASIC is the current tenant institution at Wright-Patterson",
+"id": "nasic",
+"l0": false,
+"label": "National Air and Space Intelligence Center",
+"note": "The National Air and Space Intelligence Center is a Wright-Patterson tenant and the direct institutional heir to ATIC/FTD's foreign materiel exploitation mission.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Wikipedia - Wright-Patterson Air Force Base",
+"url": "https://en.wikipedia.org/wiki/Wright-Patterson_Air_Force_Base"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "1947",
+"dateStart": "1947",
+"direction": "in",
+"edgeLabel": "Twining wrote the 1947 AMC assessment from this command",
+"id": "nathan-twining",
+"l0": false,
+"label": "Nathan F. Twining",
+"note": "Lt. Gen. Nathan Twining signed 'AMC Opinion Concerning Flying Discs' on 23 September 1947 as commander of Air Materiel Command, headquartered at Wright Field.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Wikipedia - Wright-Patterson Air Force Base",
+"url": "https://en.wikipedia.org/wiki/Wright-Patterson_Air_Force_Base"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": "2024",
+"dateStart": "2024",
+"direction": "in",
+"edgeLabel": "Wright-Patterson closed its airspace for nearly four hours during the wave",
+"id": "nj-drone-incursions-2024",
+"l0": false,
+"label": "New Jersey and East Coast Drone Wave (Nov-Dec 2024)",
+"note": "The 14-15 December 2024 airspace closure over unauthorized drone activity occurred days before the federal statement that nothing anomalous had been identified.",
+"sources": [
+{
+"date": "2024-12-17",
+"name": "The Debrief - Pentagon says mystery drones are common UAS and misidentifications",
+"url": "https://thedebrief.org/pentagon-says-mystery-drones-are-common-unmanned-aerial-systems-and-misidentifications-pose-no-security-threat/"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 3,
+"cls": "program",
+"dateEnd": null,
+"dateStart": "1961",
+"direction": "in",
+"edgeLabel": "Recovered material routed to Air Force technical intelligence at Wright-Patterson",
+"id": "operation-blue-fly",
+"l0": false,
+"label": "Operation BLUE FLY",
+"note": "Foreign Technology Division at Wright-Patterson was the designated technical exploitation centre; the Air Force felt it necessary in its January 1985 public fact sheet to deny that extraterrestrial equipment had ever been there.",
+"sources": [
+{
+"date": "2016-08-15",
+"name": "National Archives, 'Project BLUE BOOK - Unidentified Flying Objects' reference report (incl. MJ-12 / Cutler-Twining findings)",
+"url": "https://www.archives.gov/research/military/air-force/ufos"
+},
+{
+"date": "2015-03-04",
+"name": "Project Moon Dust document archive (Department of State releases; one file declassified by CIA)",
+"url": "https://www.theblackvault.com/documentarchive/project-moon-dust/"
+}
+],
+"tier": "B",
+"type": "custody"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": "1953",
+"direction": "in",
+"edgeLabel": "Addressed to Miles E. Goll at Wright-Patterson Air Force Base",
+"id": "pentacle-memorandum",
+"l0": false,
+"label": "The Pentacle Memorandum",
+"note": "No signed original has ever been produced by the Air Force or by Battelle.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "CUFON",
+"url": "https://www.cufon.org/cufon/pentacle.htm"
+}
+],
+"tier": "B",
+"type": "custody"
+},
+{
+"claimTier": 2,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "DeLonge's written assertion that the Roswell material went to the Wright-Patterson laboratory",
+"id": "podesta-delonge-mccasland-email-2016",
+"l0": false,
+"label": "DeLonge to Podesta, 'General McCasland', 25 January 2016 (WikiLeaks Podesta Emails 3099)",
+"note": "The email asserts to Podesta that 'When Roswell crashed, they shipped it to the laboratory at Wright Patterson Air Force Base' and that the general ran that laboratory until a couple of years earlier. The record establishes that DeLonge asserted this in writing in January 2016, not that it happened.",
+"sources": [
+{
+"date": "2016-01-25",
+"name": "WikiLeaks, The Podesta Emails, email id 3099",
+"url": "https://wikileaks.org/podesta-emails/emailid/3099"
+}
+],
+"tier": "A",
+"type": "custody"
+},
+{
+"claimTier": 2,
+"cls": "program",
+"dateEnd": "1969",
+"dateStart": "1952",
+"direction": "in",
+"edgeLabel": "Blue Book was hosted at Wright-Patterson from 1952 to 1969",
+"id": "project-blue-book",
+"l0": true,
+"label": "Project Blue Book",
+"note": "Project Blue Book, like SIGN and GRUDGE before it, was hosted at this base under ATIC. Of 12,618 sightings studied, 701 remained unexplained at closure. Attested by USAF fact sheets.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Wikipedia - Wright-Patterson Air Force Base",
+"url": "https://en.wikipedia.org/wiki/Wright-Patterson_Air_Force_Base"
+}
+],
+"tier": "A",
+"type": "programmatic"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "1955",
+"dateStart": "1955",
+"direction": "in",
+"edgeLabel": "Written and issued at Wright-Patterson Air Force Base, Ohio",
+"id": "tr-ac-47-silver-bug",
+"l0": false,
+"label": "TR-AC-47, Joint ATIC-WADC Report on Project Silver Bug, 15 February 1955",
+"note": "Both issuing bodies, ATIC and the Wright Air Development Center, are named on the report with that station.",
+"sources": [
+{
+"date": "1955-02-15",
+"name": "TR-AC-47, Joint ATIC-WADC Report on Project Silver Bug, 15 February 1955",
+"url": "https://documents.theblackvault.com/documents/SilverBug/AFD-070114-006.pdf"
+}
+],
+"tier": "B",
+"type": "geographic"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "1967",
+"dateStart": "1967",
+"direction": "in",
+"edgeLabel": "airlifted recovered foreign materiel to Wright-Patterson",
+"id": "usaf-1127th-field-activities-group",
+"l0": false,
+"label": "1127th USAF Field Activities Group",
+"note": "'coordinated requirements necessary to deploy the FTD exploitation personnel and to airlift personnel and parts from site of acquisition to Wright-Patterson AFB. The take consisted of approximately three tons of aircraft parts and armament.'",
+"sources": [
+{
+"date": "1967-06-30",
+"name": "History, 1127 USAF Field Activities Group, 1 Jan - 30 Jun 1967, doc. AFNIABA 014-67",
+"url": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB520-the-Pentagons-Spies/EBB-PS03a.pdf"
+}
+],
+"tier": "A",
+"type": "custody"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "2026",
+"direction": "in",
+"edgeLabel": "Commanded the Air Force Research Laboratory at Wright-Patterson",
+"id": "william-mccasland",
+"l0": false,
+"label": "William Neil McCasland",
+"note": "AFRL at Wright-Patterson is the single installation most persistently named in the legacy recovery literature.",
+"sources": [
+{
+"date": "2026-04-21",
+"name": "Fox News: Missing scientists probe was sparked after 'UFO General' disappeared, Republican lawmaker reveals",
+"url": "https://www.foxnews.com/politics/missing-scientists-probe-sparked-after-ufo-general-disappeared-republican-lawmaker-reveals"
+}
+],
+"tier": "A",
+"type": "institutional"
+}
+],
+"coords": [
+39.8261,
+-84.0483
+],
+"dateEnd": null,
+"dateStart": "1917",
+"deg": 18,
+"denials": [
+{
+"by": {
+"id": "bolender-memo",
+"label": "Bolender Memorandum"
+},
+"claimTier": 2,
+"denialKind": "directed",
+"label": "The Bolender memo closed the base's public reporting channel while conceding another existed",
+"note": "Brig. Gen. Carroll Bolender's 1969 memorandum recommended Blue Book's termination and stated that reports which could affect national security were never part of the Blue Book system - a statement about this base's own reporting architecture.",
+"of": {
+"id": "l-wright-patterson",
+"label": "Wright-Patterson Air Force Base, Ohio"
+},
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Wikipedia - Wright-Patterson Air Force Base",
+"url": "https://en.wikipedia.org/wiki/Wright-Patterson_Air_Force_Base"
+}
+]
+}
+],
+"desc": "Wright-Patterson Air Force Base sits immediately east and northeast of Dayton, Ohio, straddling Greene and Montgomery Counties, and was formally constituted on 13 January 1948 by consolidating Wright Field, Patterson Field, Dayton Army Air Field and Clinton Army Air Field into a single installation. Wright Field had been a flying field since 22 May 1917; Patterson Field was named on 1 July 1931 for Lt. Frank Stuart Patterson. The base's significance to this board is not its size but its function: from 1945 onward it was the address of American foreign materiel exploitation. The Air Materiel Command T-2 intelligence organisation here received the Operation Paperclip haul; T-2 became the Air Technical Intelligence Center in 1951, ATIC became the Foreign Technology Division in 1961, FTD became the Foreign Aerospace Science and Technology Center in 1991 and then the National Air and Space Intelligence Center in 1993, which is still headquartered here. Every official Air Force UFO project - SIGN (1948), GRUDGE (1949) and Blue Book (1952-1969) - was hosted at this base, under the command that dismantles recovered foreign hardware, not under a science agency or an air defence command. Lt. Gen. Nathan Twining wrote the 23 September 1947 'AMC Opinion Concerning Flying Discs' as commander of Air Materiel Command here; Col. Howard McCoy ran T-2 intelligence here; Capt. Edward Ruppelt ran Blue Book here; J. Allen Hynek consulted here. The 1969 Bolender memo, written by Brig. Gen. Carroll Bolender, closed Blue Book while stating that reports 'which could affect national security' were never part of the Blue Book system - a sentence written about this base's own reporting architecture. 'Hangar 18' in Area B is the popular name attached since at least the 1970s to the alleged storage of Roswell material here; no primary record establishes such storage, and the persistent structural fact is more damning than the folklore: the base's 1947-1951 T-2 intelligence files have never undergone a comprehensive declassification review, and NASIC remains the institutional heir with continuous custody of the filing system. In wave 1 the pseudonymous NASIC-affiliated source 'Jonathan Grey' is placed here.",
+"domains": [
+"w2-places-events"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "l-wright-patterson",
+"l0": false,
+"label": "Wright-Patterson Air Force Base, Ohio",
+"locLabel": "Wright-Patterson AFB, Ohio, USA",
+"members": null,
+"short": "Wright-Patterson Air Force Base, Ohio",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Wikipedia - Wright-Patterson Air Force Base",
+"url": "https://en.wikipedia.org/wiki/Wright-Patterson_Air_Force_Base"
+},
+{
+"date": "1947-09-23",
+"name": "Twining memorandum, 23 September 1947 (scan)",
+"url": "https://www.nicap.org/docs/1947_Twining_memo.pdf"
+}
+],
+"sub": "USAF installation, Greene and Montgomery Counties, Ohio; AFMC and NASIC host site",
+"tier": "A",
+"tierRationale": "Re-graded A on a global pass (rank 53 of 1027, score 77). 19 connections, 8 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C3/A3/D1.",
+"timeline": [
+{
+"date": "1948-01-13",
+"id": "tl-1948-wpafb",
+"label": "Wright-Patterson and Kirtland are both constituted",
+"precision": "day",
+"strand": "program",
+"text": "On the same day the Air Force formally establishes Wright-Patterson AFB, the address of foreign materiel exploitation, and Kirtland AFB, the nuclear weapons and directed energy complex inside Albuquerque.",
+"tier": "A"
+}
+]
+}

@@ -1,0 +1,118 @@
+{
+"A": 0,
+"C": 1,
+"D": 3,
+"band": null,
+"claims": [
+{
+"source": "Inference from the research corpus",
+"text": "l-cambridge-ma and l-cambridge denote the same city and should be merged. Reasoning: identical loc strings on the referencing person records.",
+"tier": 3
+}
+],
+"cls": "location",
+"cluster": "research",
+"connections": [
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "Loeb's Harvard base; launched the project from here",
+"id": "avi-loeb",
+"l0": false,
+"label": "Abraham 'Avi' Loeb",
+"note": "The overview paper gives Loeb's affiliation as 'Head of the Galileo Project, Astronomy Department, Harvard University, 60 Garden Street, Cambridge, MA 02138', and dates the project's first year as August 2021 through July 2022.",
+"sources": [
+{
+"date": "2022-09-02",
+"name": "Loeb and Laukien, 'Overview of the Galileo Project', arXiv:2209.02479, author affiliations",
+"url": "https://arxiv.org/abs/2209.02479"
+},
+{
+"date": null,
+"name": "https://galileo.hsites.harvard.edu/",
+"url": "https://galileo.hsites.harvard.edu/"
+},
+{
+"date": null,
+"name": "https://www.scientificamerican.com/article/avi-loebs-galileo-project-will-search-for-evidence-of-alien-visitation/",
+"url": "https://www.scientificamerican.com/article/avi-loebs-galileo-project-will-search-for-evidence-of-alien-visitation/"
+}
+],
+"tier": "B",
+"type": "geographic"
+},
+{
+"claimTier": 2,
+"cls": "program",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "first Galileo Observatory, Harvard College Observatory roof",
+"id": "galileo-project",
+"l0": true,
+"label": "The Galileo Project",
+"note": "Figure 1 of the project's own overview paper captions the 'First all-sky Galileo Observatory for UAP on the roof of the Harvard College Observatory (Cambridge, MA)'. This is the physical instrument site for the instrumented search, not merely an administrative address.",
+"sources": [
+{
+"date": "2022-09-02",
+"name": "Loeb and Laukien, 'Overview of the Galileo Project', arXiv:2209.02479, Figure 1 caption",
+"url": "https://arxiv.org/abs/2209.02479"
+},
+{
+"date": null,
+"name": "https://galileo.hsites.harvard.edu/",
+"url": "https://galileo.hsites.harvard.edu/"
+},
+{
+"date": null,
+"name": "https://en.wikipedia.org/wiki/The_Galileo_Project",
+"url": "https://en.wikipedia.org/wiki/The_Galileo_Project"
+}
+],
+"tier": "B",
+"type": "geographic"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": null,
+"deg": 2,
+"denials": [],
+"desc": "Alias identifier for Cambridge, Massachusetts, home of Harvard University and MIT and therefore the base of the Galileo Project, Avi Loeb's instrumented search programme for anomalous objects, whose detection platform papers appeared in the Journal of Astronomical Instrumentation in 2023. It is also where the analytical work on the CNEOS 2014-01-08 spherules was organised. The merge pass should collapse this node into l-cambridge.",
+"domains": [
+"w2-taxonomy"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "nd",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "l-cambridge-ma",
+"l0": false,
+"label": "Cambridge, Massachusetts (alias of l-cambridge)",
+"locLabel": null,
+"members": null,
+"short": "Cambridge, Massachusetts (alias of l-cambridge)",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Wikipedia - Cambridge, Massachusetts",
+"url": "https://en.wikipedia.org/wiki/Cambridge,_Massachusetts"
+},
+{
+"date": "2023-03-01",
+"name": "Cloete et al., Journal of Astronomical Instrumentation",
+"url": "https://doi.org/10.1142/S2251171723400081"
+}
+],
+"sub": "City in Middlesex County, Massachusetts; duplicate identifier for the primary node l-cambridge",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 936 of 1027, score 13). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A0/D3.",
+"timeline": []
+}

@@ -1,0 +1,239 @@
+{
+"A": 1,
+"C": 0,
+"D": 2,
+"affiliations": [
+"U.S. House of Representatives, WI-6 (2015- )",
+"Subcommittee on National Security, the Border, and Foreign Affairs, Chairman (2023-2025)",
+"US House of Representatives, WI-06 (2015- )",
+"House Oversight Subcommittee on National Security, the Border, and Foreign Affairs, Chairman (2023-2024)"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "2023-07-26",
+"event": "Chairs the first modern House UAP hearing; waives six non-members onto the subcommittee; swears Graves, Grusch and Fravor.",
+"precision": "day"
+},
+{
+"date": "2023-07-26",
+"event": "Chairs the hearing; elicits 'material acquisition and exploitation activity'",
+"precision": "day"
+},
+{
+"date": "2024-01-11",
+"event": "Co-leads H.R. 6967, the Safe Airspace for Americans Act, with Rep. Garcia.",
+"precision": "day"
+},
+{
+"date": "2024-11-13",
+"event": "Co-chairs the joint hearing with Chairwoman Mace; states that agencies were questioned 'inside and outside of the SCIF' without substantiating Grusch.",
+"precision": "day"
+}
+],
+"claims": [
+{
+"source": "Chairman Glenn Grothman, opening statement, 26 July 2023, GPO CHRG-118hhrg53022",
+"text": "'The lack of transparency regarding UAPs has fueled wild speculation and debate for decades, eroding public trust in the very institutions that are meant to serve and protect them.'",
+"tier": 1
+},
+{
+"source": "Rep. Grothman, opening statement, 13 November 2024, GPO CHRG-118hhrg57440",
+"text": "'None of them have been able to substantiate the claims made at this hearing last year by David Grusch, despite our Committee Members endlessly questioning these agencies inside and outside of the SCIF.'",
+"tier": 1
+},
+{
+"source": "Inference from CHRG-118hhrg57440 (13 Nov 2024) and CHRG-119hhrg61718 (9 Sept 2025)",
+"text": "Grothman's 2024 'inside and outside of the SCIF' framing is in tension with Luna's 2025 statement that DoD told committee staff Oversight members were not eligible to be read in on the relevant special access programs without HASC/HAC-D approval. Either the SCIF sessions did not reach the SAPs at issue, or the two chairs were describing different access. Reasoning: both statements are on the record of the same committee thirteen months apart and cannot both describe complete access to the same material.",
+"tier": 3
+},
+{
+"source": "House Oversight hearing transcript, 26 July 2023",
+"text": "Elicited Grusch's unclassified characterization of his complaint: 'Both material acquisition and exploitation activity, also baselining the UAPs but not sharing it with intelligence professionals that are actually doing step briefs to pilots.'",
+"tier": 1
+}
+],
+"cls": "person",
+"cluster": "oversight",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": "2023",
+"dateStart": "2023",
+"direction": "out",
+"edgeLabel": "Presided; waived six non-members onto the subcommittee",
+"id": "hearing-2023-07-26",
+"l0": true,
+"label": "House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'",
+"note": "The waiver list is a map of the disclosure caucus at formation.",
+"sources": [
+{
+"date": "2023-07-26",
+"name": "U.S. GPO, Hearing transcript, Serial No. 118-53 (CHRG-118hhrg53022)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": "2023",
+"dateStart": "2023",
+"direction": "out",
+"edgeLabel": "Chaired the hearing; elicited 'material acquisition and exploitation activity'",
+"id": "hearing-2023-07-26",
+"l0": true,
+"label": "House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'",
+"note": "Grothman's question about what information Grusch believed was hidden produced the only program-category language in the unclassified record.",
+"sources": [
+{
+"date": "2023-07-26",
+"name": "House Oversight hearing transcript",
+"url": "https://www.congress.gov/118/meeting/house/116282/documents/HHRG-118-GO06-Transcript-20230726.pdf"
+}
+],
+"tier": "A",
+"type": "legislative"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "2025",
+"dateStart": "2023",
+"direction": "out",
+"edgeLabel": "Chairman of the subcommittee at the 2023 hearing",
+"id": "hoc-subcommittee-national-security",
+"l0": false,
+"label": "Subcommittee on National Security, the Border, and Foreign Affairs",
+"note": "Grothman gavelled the 26 July 2023 hearing to order and waived six non-members onto the subcommittee.",
+"sources": [
+{
+"date": "2023-07-26",
+"name": "U.S. GPO, Hearing transcript, Serial No. 118-53 (CHRG-118hhrg53022)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 2,
+"cls": "legislation",
+"dateEnd": "2025",
+"dateStart": "2024",
+"direction": "out",
+"edgeLabel": "Republican co-lead",
+"id": "hr-6967-safe-airspace-for-americans-act",
+"l0": false,
+"label": "H.R. 6967 - Safe Airspace for Americans Act (118th Congress)",
+"note": "The Hill records Garcia introducing the bill 'along with Rep. Glenn Grothman.'",
+"sources": [
+{
+"date": "2024-01-12",
+"name": "The Hill: Classified UFO briefing — House members emerge with mixed feelings",
+"url": "https://thehill.com/homenews/house/4406059-classified-ufo-briefing-house-members-mixed-feelings/"
+}
+],
+"tier": "C",
+"type": "legislative"
+},
+{
+"claimTier": 3,
+"cls": "domain",
+"dateEnd": null,
+"dateStart": "2024",
+"direction": "out",
+"edgeLabel": "Grothman's 'inside and outside of the SCIF' claim cannot be reconciled with the read-in gate Luna documented",
+"id": "sap-readin-gate",
+"l0": false,
+"label": "The HASC/HAC-D special access program read-in gate",
+"note": "Reasoning: Grothman said in Nov 2024 that members questioned agencies inside and outside the SCIF without substantiating Grusch; Luna said in Sept 2025 that Oversight members were not eligible for the relevant read-ins at all. Both are on the same committee's record.",
+"sources": [
+{
+"date": "2024-11-13",
+"name": "U.S. GPO, Hearing transcript, Serial No. 118-135 (CHRG-118hhrg57440)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm"
+},
+{
+"date": "2025-09-09",
+"name": "U.S. GPO, Hearing transcript, Serial No. 119-44 (CHRG-119hhrg61718)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm"
+}
+],
+"tier": "B",
+"type": "behavioral"
+}
+],
+"date": "2023-07-26",
+"dateEnd": null,
+"dateStart": "2023-07-26",
+"deg": 4,
+"denials": [],
+"domains": [
+"congress-house",
+"grusch"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "glenn-grothman",
+"instId": "house-oversight-committee",
+"l0": false,
+"label": "Glenn S. Grothman",
+"loc": "Glenbeulah, WI",
+"locId": null,
+"members": null,
+"narrative": "Grothman gavelled in the first UAP hearing of the modern disclosure era. As Chairman of the Subcommittee on National Security, the Border, and Foreign Affairs he presided on 26 July 2023, waived six non-members onto the panel - Burchett, Luna, Gaetz, Burlison, Ocasio-Cortez and Ogles - swore the witnesses, and opened by saying that lack of transparency on UAP 'has fueled wild speculation and debate for decades, eroding public trust in the very institutions that are meant to serve and protect them.' He co-chaired the 13 November 2024 joint hearing with Mace and co-led H.R. 6967 with Garcia. His 2024 opening statement is also the board's cleanest artifact of the containment position from inside the disclosure caucus: he stated that no agency had been able to substantiate Grusch's claims 'despite our Committee Members endlessly questioning these agencies inside and outside of the SCIF.' Read against Luna's 2025 disclosure that Oversight members could not be read in on the relevant SAPs at all without HASC and HAC-D approval, the two statements do not describe the same access - which is exactly the seam the coverup strand exists to record.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Glenn S. Grothman",
+"sources": [
+{
+"date": "2023-07-26",
+"name": "U.S. GPO, Hearing transcript, Serial No. 118-53 (CHRG-118hhrg53022)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm"
+},
+{
+"date": "2024-11-13",
+"name": "U.S. GPO, Hearing transcript, Serial No. 118-135 (CHRG-118hhrg57440)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm"
+},
+{
+"date": "2024-01-11",
+"name": "U.S. GPO, H.R. 6967 (118th), Safe Airspace for Americans Act, as introduced",
+"url": "https://www.govinfo.gov/content/pkg/BILLS-118hr6967ih/html/BILLS-118hr6967ih.htm"
+},
+{
+"date": "2023-07-26",
+"name": "House Oversight hearing transcript, Serial No. 118-53",
+"url": "https://www.congress.gov/118/meeting/house/116282/documents/HHRG-118-GO06-Transcript-20230726.pdf"
+}
+],
+"status": "active",
+"sub": "U.S. Rep. (R-WI-6); Chairman of the subcommittee that held the 26 July 2023 hearing",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 694 of 1027, score 22). 5 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D2.",
+"timeline": [
+{
+"date": "2024-11-13",
+"id": "ch-2024-11-13d",
+"label": "Grothman's access claim",
+"precision": "day",
+"strand": "coverup",
+"text": "Grothman states that no agency substantiated Grusch's claims 'despite our Committee Members endlessly questioning these agencies inside and outside of the SCIF' - a claim that cannot be reconciled with the read-in gate Luna documents ten months later.",
+"tier": "A"
+}
+],
+"unexplainedResidual": null,
+"unverified": []
+}

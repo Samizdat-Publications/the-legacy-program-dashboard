@@ -1,0 +1,133 @@
+{
+"A": 3,
+"C": 1,
+"D": 1,
+"band": null,
+"claims": [
+{
+"source": "Schulgen draft collection memorandum, 1947, declassified text",
+"text": "The document is titled 'Intelligence Requirements on Flying Saucer Type Aircraft', signed by Brig. Gen. George F. Schulgen, Chief, Air Intelligence Requirements Division, dated 28 October 1947 and distributed 30 October 1947.",
+"tier": 1
+},
+{
+"source": "Schulgen collection memorandum, observable features section",
+"text": "Collectors were directed to report on 'extreme maneuverability and apparent ability to almost hover', a 'relatively flat bottom with extreme light-reflecting ability', and an oval or disc plan form with a dome.",
+"tier": 1
+},
+{
+"source": "Schulgen collection memorandum, propulsion section",
+"text": "'Nuclear propulsion (atomic energy)' is listed among the propulsion systems collectors were to investigate.",
+"tier": 1
+},
+{
+"source": "Schulgen collection memorandum, design origins section",
+"text": "The memorandum frames the objects as potentially manned aircraft of Russian origin derived from German Horten brothers designs and asks for the Hortens' current whereabouts.",
+"tier": 1
+},
+{
+"source": "Inference from the two documents read in sequence",
+"text": "The Horten framing functions as a collection cover story: the requirements describe capabilities no flying wing possessed, and the same office had received the Twining memo five weeks earlier stating the phenomenon was real.",
+"tier": 3
+}
+],
+"cls": "document",
+"cluster": "ic",
+"connections": [
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "1947",
+"dateStart": "1947",
+"direction": "in",
+"edgeLabel": "Schulgen signed the flying saucer collection requirement",
+"id": "george-schulgen",
+"l0": false,
+"label": "George F. Schulgen",
+"note": "As Chief of the Air Intelligence Requirements Division he signed 'Intelligence Requirements on Flying Saucer Type Aircraft' on 28 October 1947, distributed 30 October.",
+"sources": [
+{
+"date": "1947-10-28",
+"name": "Schulgen collection memorandum, 1947",
+"url": "https://www.nicap.org/schulgen.htm"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 2,
+"cls": "program",
+"dateEnd": "1948",
+"dateStart": "1947",
+"direction": "out",
+"edgeLabel": "Collection requirement fed the project that began weeks later",
+"id": "project-sign",
+"l0": false,
+"label": "Project SIGN",
+"note": "The 30 October 1947 collection tasking and the 30 December 1947 direction of Project SIGN are two steps of a single sequence initiated by the Twining memo.",
+"sources": [
+{
+"date": "1947-10-28",
+"name": "Schulgen collection memorandum",
+"url": "https://www.nicap.org/schulgen.htm"
+},
+{
+"date": "1968-11-01",
+"name": "Condon Report Sec. V Ch. 2",
+"url": "https://files.ncas.org/condon/text/s5chap02.htm"
+}
+],
+"tier": "B",
+"type": "programmatic"
+}
+],
+"coords": null,
+"dateEnd": "1947",
+"dateStart": "1947",
+"deg": 2,
+"denials": [],
+"desc": "Signed by Brig. Gen. George F. Schulgen as Chief of the Air Intelligence Requirements Division, dated 28 October 1947 and distributed 30 October 1947, this is the document that turned the phenomenon into a standing worldwide intelligence collection target. It instructs collectors to seek information on craft with 'a plan form approximating that of an oval or disc with a dome shape', 'relatively flat bottom with extreme light-reflecting ability', 'extreme maneuverability and apparent ability to almost hover', absence of exhaust trails, composite and sandwich construction achieving extreme light weight, and — under propulsion — reciprocating engines, jet propulsion, and 'Nuclear propulsion (atomic energy)'. The stated cover hypothesis is Soviet exploitation of the Horten brothers' flying wing work, and collectors are asked to establish the Hortens' whereabouts. That framing is the standard Cold War rationalisation. What the requirements actually describe is a vehicle with no exhaust, near-hover capability, and possible atomic propulsion — a performance envelope that in October 1947 existed nowhere on earth, and which the drafters were nonetheless instructing field officers to characterise in engineering detail.",
+"domains": [
+"history-1940s-1960s"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "schulgen-memo",
+"l0": false,
+"label": "Schulgen Collection Memorandum: Intelligence Requirements on Flying Saucer Type Aircraft",
+"locLabel": null,
+"members": null,
+"short": "Schulgen Collection Memorandum: Intelligence Requirements on Flying Saucer Type Aircraft",
+"sources": [
+{
+"date": "1947-10-28",
+"name": "Schulgen collection memorandum, 28/30 October 1947 (declassified text)",
+"url": "https://www.nicap.org/schulgen.htm"
+},
+{
+"date": "2017-07-05",
+"name": "NARA blog: 'See Something, Say Something' — UFO reporting requirements, OMGUS Bavaria, May 1948",
+"url": "https://text-message.blogs.archives.gov/2017/07/05/see-something-say-something-ufo-reporting-requirements-office-of-military-government-for-bavaria-germany-may-1948/"
+}
+],
+"sub": "Draft collection memorandum, 28/30 October 1947",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 391 of 1027, score 33). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A3/D1.",
+"timeline": [
+{
+"date": "1947-10-30",
+"id": "tl-1947-10-30",
+"label": "Schulgen collection memorandum distributed",
+"precision": "day",
+"strand": "program",
+"text": "Air Force intelligence tasks worldwide collectors on disc-type craft, listing near-hover capability, extreme light weight construction and 'Nuclear propulsion (atomic energy)'.",
+"tier": "A"
+}
+]
+}

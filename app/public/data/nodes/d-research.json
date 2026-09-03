@@ -1,0 +1,114 @@
+{
+"A": 1,
+"C": 0,
+"D": 3,
+"band": null,
+"claims": [
+{
+"source": "NASA UAP Independent Study Team Report",
+"text": "The NASA UAP Independent Study Team report (September 2023), chaired by David Spergel, found that UAP analysis is hampered by poor sensor calibration and missing metadata, and recommended NASA act to reduce reporting stigma.",
+"tier": 1
+},
+{
+"source": "Journal of Astronomical Instrumentation, doi:10.1142/S2251171723400081",
+"text": "Cloete and colleagues published 'Integrated Computing Platform for Detection and Tracking of Unidentified Aerial Phenomena (UAP)' in the Journal of Astronomical Instrumentation in 2023.",
+"tier": 1
+},
+{
+"source": "ODNI Preliminary Assessment: Unidentified Aerial Phenomena",
+"text": "The ODNI Preliminary Assessment on Unidentified Aerial Phenomena, 25 June 2021, stated that limited and inconsistent data were the principal obstacle to characterisation.",
+"tier": 1
+}
+],
+"cls": "domain",
+"cluster": "other",
+"connections": [
+{
+"claimTier": 1,
+"cls": "domain",
+"dateEnd": null,
+"dateStart": "2021-01-01",
+"direction": "out",
+"edgeLabel": "Instrumented search",
+"id": "d-astro",
+"l0": false,
+"label": "Astronomy & Astrophysics",
+"note": "The Galileo Project instrumentation papers and the VASCO archival work are the two productive observational programmes outside government.",
+"sources": [
+{
+"date": "2025-10-20",
+"name": "Bruehl & Villarroel, Scientific Reports",
+"url": "https://doi.org/10.1038/s41598-025-21620-3"
+}
+],
+"tier": "C",
+"type": "research"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "1948-01-01",
+"deg": 1,
+"denials": [],
+"desc": "The scientific study of this subject has an unusual structure: the instrumentation is straightforward, the data are held by parties that will not release them, and the career penalty for asking has historically been severe. That penalty is documented rather than anecdotal - the NASA Unidentified Anomalous Phenomena Independent Study Team, chaired by David Spergel and reporting in September 2023, identified stigma as a first-order obstacle and recommended that NASA use its public standing explicitly to destigmatise reporting, alongside findings that existing UAP analysis suffers from poor sensor calibration and missing metadata. The productive research programmes of the last decade have therefore been instrumentation-first rather than case-first: the Galileo Project's integrated detection platform, published in the Journal of Astronomical Instrumentation in 2023, and the materials-forensics methodology published by Nolan and Vallée in Progress in Aerospace Sciences in 2022. The dual-use route into classified work is the ordinary one for any physical science - a clearance, a national laboratory appointment, or a contract - and the researchable signature it leaves is a publication gap. Scoring high on this domain means an entity produced peer-reviewed work on the phenomenon or built the instruments that could.",
+"domains": [
+"_rs-archive-mirror",
+"_stubs",
+"w2-taxonomy"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "d-research",
+"l0": false,
+"label": "Scientific Research",
+"locLabel": null,
+"members": null,
+"short": "Scientific Research",
+"sources": [
+{
+"date": "2026-08-11",
+"name": "Archived: ODNI, Preliminary Assessment: Unidentified Aerial Phenomena (Wayback 2026-08-11)",
+"url": "https://web.archive.org/web/20260811043206/https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf"
+},
+{
+"date": "2023-09-14",
+"name": "NASA Unidentified Anomalous Phenomena Independent Study Team Report",
+"url": "https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf"
+},
+{
+"date": "2023-03-01",
+"name": "Cloete et al., Journal of Astronomical Instrumentation",
+"url": "https://doi.org/10.1142/S2251171723400081"
+},
+{
+"date": "2021-06-25",
+"name": "ODNI, Preliminary Assessment: Unidentified Aerial Phenomena",
+"url": "https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf"
+},
+{
+"date": "2022-01-01",
+"name": "Nolan, Vallee, Jiang & Lemke, Progress in Aerospace Sciences 128:100788",
+"url": "https://doi.org/10.1016/j.paerosci.2021.100788"
+},
+{
+"date": "2026-08-12",
+"name": "NSF master government list of FFRDCs",
+"url": "https://www.nsf.gov/statistics/ffrdclist/"
+},
+{
+"date": "2026-08-12",
+"name": "Domain definition written for this board; see SCHEMA.md",
+"url": ""
+}
+],
+"sub": "Methodological domain - peer review, instrumentation and the professional cost of working on this",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 777 of 1027, score 19). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D3.",
+"timeline": []
+}

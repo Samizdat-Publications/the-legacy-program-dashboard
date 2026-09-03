@@ -1,0 +1,149 @@
+{
+"A": 0,
+"C": 0,
+"D": 2,
+"band": null,
+"claims": [
+{
+"source": "Congress.gov H.R. 6967 (118th); GPO BILLS-118hr6967ih; The Hill, 12 January 2024",
+"text": "Introduced 11 January 2024 by Rep. Robert Garcia; co-led with Rep. Glenn Grothman.",
+"tier": 1
+},
+{
+"source": "The Hill, 12 January 2024",
+"text": "Intended to close the gap in UAP reporting by enabling civilian pilots and personnel to report encounters to the FAA, which would send reports to AARO, in exchange for legal safeguards.",
+"tier": 2
+}
+],
+"cls": "legislation",
+"cluster": "oversight",
+"connections": [
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2025",
+"dateStart": "2024",
+"direction": "in",
+"edgeLabel": "Republican co-lead",
+"id": "glenn-grothman",
+"l0": false,
+"label": "Glenn S. Grothman",
+"note": "The Hill records Garcia introducing the bill 'along with Rep. Glenn Grothman.'",
+"sources": [
+{
+"date": "2024-01-12",
+"name": "The Hill: Classified UFO briefing — House members emerge with mixed feelings",
+"url": "https://thehill.com/homenews/house/4406059-classified-ufo-briefing-house-members-mixed-feelings/"
+}
+],
+"tier": "C",
+"type": "legislative"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "2025",
+"dateStart": "2024",
+"direction": "in",
+"edgeLabel": "Sponsor",
+"id": "robert-garcia",
+"l0": false,
+"label": "Robert Garcia",
+"note": "Introduced 11 January 2024, the day before the ICIG briefing.",
+"sources": [
+{
+"date": "2024-01-11",
+"name": "Congress.gov, H.R. 6967 — Safe Airspace for Americans Act (118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/6967"
+},
+{
+"date": "2024-01-12",
+"name": "The Hill: Classified UFO briefing — House members emerge with mixed feelings",
+"url": "https://thehill.com/homenews/house/4406059-classified-ufo-briefing-house-members-mixed-feelings/"
+}
+],
+"tier": "C",
+"type": "legislative"
+},
+{
+"claimTier": 3,
+"cls": "person",
+"dateEnd": "2025",
+"dateStart": "2024",
+"direction": "in",
+"edgeLabel": "His hearing testimony on the reporting gap is the bill's origin",
+"id": "ryan-graves",
+"l0": false,
+"label": "Ryan Graves",
+"note": "Reasoning: Garcia's 26 July 2023 questioning of Graves concentrated entirely on the absence of a civilian reporting channel and pilot stigma, and the bill creates exactly that channel six months later.",
+"sources": [
+{
+"date": "2023-07-26",
+"name": "U.S. GPO, Hearing transcript, Serial No. 118-53 (CHRG-118hhrg53022)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm"
+},
+{
+"date": "2024-01-12",
+"name": "The Hill: Classified UFO briefing — House members emerge with mixed feelings",
+"url": "https://thehill.com/homenews/house/4406059-classified-ufo-briefing-house-members-mixed-feelings/"
+}
+],
+"tier": "A",
+"type": "programmatic"
+}
+],
+"coords": null,
+"dateEnd": "2025",
+"dateStart": "2024",
+"deg": 3,
+"denials": [],
+"desc": "Ranking Member Robert Garcia's bill, introduced 11 January 2024 - the day before the closed ICIG briefing - and co-led with Republican subcommittee chairman Glenn Grothman. It would close the civilian reporting gap by enabling civilian pilots and aviation personnel to report UAP encounters to the Federal Aviation Administration, which would forward them to the Pentagon's All-domain Anomaly Resolution Office, in exchange for legal safeguards. It is the direct legislative product of Garcia's questioning of Ryan Graves at the July 2023 hearing about the absence of any usable reporting channel and the stigma that suppresses reports, and of Luna's questioning about airline pilots reportedly receiving cease-and-desist letters from corporations for coming forward. It is the only House UAP bill of the period led by the minority.",
+"domains": [
+"congress-house"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "hr-6967-safe-airspace-for-americans-act",
+"l0": false,
+"label": "H.R. 6967 - Safe Airspace for Americans Act (118th Congress)",
+"locLabel": null,
+"members": null,
+"short": "H.R. 6967 - Safe Airspace for Americans Act (118th Congress)",
+"sources": [
+{
+"date": "2024-01-11",
+"name": "Congress.gov, H.R. 6967 — Safe Airspace for Americans Act (118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/6967"
+},
+{
+"date": "2024-01-11",
+"name": "U.S. GPO, H.R. 6967 (118th), Safe Airspace for Americans Act, as introduced",
+"url": "https://www.govinfo.gov/content/pkg/BILLS-118hr6967ih/html/BILLS-118hr6967ih.htm"
+},
+{
+"date": "2024-01-12",
+"name": "The Hill: Classified UFO briefing — House members emerge with mixed feelings",
+"url": "https://thehill.com/homenews/house/4406059-classified-ufo-briefing-house-members-mixed-feelings/"
+}
+],
+"sub": "Introduced 11 Jan 2024 by Garcia with Grothman",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 888 of 1027, score 15). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D2.",
+"timeline": [
+{
+"date": "2024-01-11",
+"id": "ch-2024-01-11",
+"label": "Garcia files the reporting bill",
+"precision": "day",
+"strand": "oversight",
+"text": "Ranking Member Robert Garcia introduces H.R. 6967, the Safe Airspace for Americans Act, with Republican subcommittee chairman Glenn Grothman.",
+"tier": "B"
+}
+]
+}

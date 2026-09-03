@@ -1,0 +1,119 @@
+{
+"A": 3,
+"C": 1,
+"D": 1,
+"band": null,
+"claims": [
+{
+"source": "AFOSI, About Us",
+"text": "The Air Force Office of Special Investigations is chartered for both criminal investigation and counterintelligence, giving a single service jurisdiction over programme security and over personnel who disclose.",
+"tier": 1
+},
+{
+"source": "NICAP, 1980 Kirtland AFB FOIA document files",
+"text": "AFOSI documents relating to the 1980 Kirtland AFB incident were released under FOIA and are publicly archived.",
+"tier": 1
+},
+{
+"source": "The Debrief, 13 April 2022",
+"text": "The Pentagon's head of counterintelligence and security, Garry Reid, was reported in 2022 to have been ousted amid controversy touching the UAP task force's handling; the reporting names him directly.",
+"tier": 2
+}
+],
+"cls": "domain",
+"cluster": "other",
+"connections": [
+{
+"claimTier": 1,
+"cls": "domain",
+"dateEnd": null,
+"dateStart": "1948-08-01",
+"direction": "out",
+"edgeLabel": "Same service, both functions",
+"id": "d-psyop",
+"l0": false,
+"label": "Psychological Operations & Perception Management",
+"note": "AFOSI is chartered for both counterintelligence and criminal investigation, and is the organisation named in the Bennewitz deception; the two domains share personnel.",
+"sources": [
+{
+"date": "2021-05-20",
+"name": "Richard Doty Personnel File - New Mexico State Police [321 pages]",
+"url": "https://www.theblackvault.com/documentarchive/richard-doty-personnel-file-new-mexico-state-police/"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 3,
+"cls": "domain",
+"dateEnd": null,
+"dateStart": "1947-01-01",
+"direction": "out",
+"edgeLabel": "Clearance revocation as deterrent",
+"id": "d-witness",
+"l0": false,
+"label": "Witness Chain",
+"note": "Administrative revocation of access is effectively unreviewable and can end a career without any finding; this is the inferred mechanism suppressing first-hand testimony.",
+"sources": [
+{
+"date": "2024-01-01",
+"name": "10 U.S.C. Sec. 119",
+"url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim"
+}
+],
+"tier": "B",
+"type": "behavioral"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "1948-08-01",
+"deg": 2,
+"denials": [],
+"desc": "Counterintelligence is the function that protects a programme from penetration, and in a compartmented programme it is also the function that protects the programme from its own personnel. The tools are ordinary and documented: polygraph, continuous evaluation, security clearance adjudication, non-disclosure agreements with criminal penalties, and the authority to revoke access administratively without the due process that attaches to a criminal charge. That last power is the one that matters most here, because clearance revocation is effectively unreviewable and can end a career without any finding of wrongdoing ever being made or defended. AFOSI is the service that recurs across this board's cases - Kirtland in 1980, Bennewitz in the early 1980s - and its charter combines criminal investigation with counterintelligence, which means the same organisation that protects a programme can open a criminal file on the person who talks about it. The dual-use route into concealment is therefore built into the job description rather than smuggled in. Scoring high on this domain means an entity exercised counterintelligence authority over others, or was the target of it in a way that is documented.",
+"domains": [
+"_rs-archive-mirror",
+"w2-taxonomy"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "d-counterintel",
+"l0": false,
+"label": "Counterintelligence",
+"locLabel": null,
+"members": null,
+"short": "Counterintelligence",
+"sources": [
+{
+"date": "2023-12-09",
+"name": "Archived: AFOSI - About Us (Wayback 2023-12-09)",
+"url": "https://web.archive.org/web/20231209143734/https://www.osi.af.mil/About-Us/"
+},
+{
+"date": "2026-08-12",
+"name": "AFOSI - About Us",
+"url": "https://www.osi.af.mil/About-Us/"
+},
+{
+"date": "2026-08-12",
+"name": "NICAP - 1980 Kirtland AFB, NM FOIA document files",
+"url": "https://www.nicap.org/foia_003.htm"
+},
+{
+"date": "2022-04-13",
+"name": "The Debrief - Pentagon's head of counterintelligence and security ousted",
+"url": "https://thedebrief.org/sex-lies-and-ufos-pentagons-head-of-counterintelligence-and-security-ousted/"
+}
+],
+"sub": "Operational domain - the security service pointed inward at the programme's own people",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 608 of 1027, score 25). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A3/D1.",
+"timeline": []
+}

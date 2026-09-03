@@ -1,0 +1,145 @@
+{
+"A": 2,
+"C": 2,
+"D": 2,
+"band": null,
+"claims": [
+{
+"source": "DIRD 26, DIA release",
+"text": "DIA commissioned Defense Intelligence Reference Document 26, 'Anomalous Acute and Subacute Field Effects on Human Biological Tissues', released under FOIA.",
+"tier": 1
+},
+{
+"source": "Kit Green DIRD, via The Black Vault",
+"text": "Christopher Green of the Institute for Advanced Studies at Austin authored a DIRD on 'Clinical Medical Acute & Subacute Field Effects on Human Dermal & Neurological Tissues'.",
+"tier": 1
+},
+{
+"source": "Cash v. United States docket and Order of Dismissal",
+"text": "Cash v. United States, No. H-84-348 (S.D. Tex.), brought over injuries attributed to a December 1980 encounter, was dismissed by order of 21 August 1986.",
+"tier": 1
+}
+],
+"cls": "domain",
+"cluster": "research",
+"connections": [
+{
+"claimTier": 1,
+"cls": "domain",
+"dateEnd": null,
+"dateStart": "2010-01-01",
+"direction": "in",
+"edgeLabel": "Biologics claim and documented injury record",
+"id": "d-bio",
+"l0": false,
+"label": "Biology & Non-Human Biologics",
+"note": "The bio claim has no released material; the medical domain has DIRD 26 and the Cash-Landrum clinical record, which is the auditable end of the same question.",
+"sources": [
+{
+"date": "2010-01-01",
+"name": "DIRD 26 - Anomalous Acute and Subacute Field Effects on Human Biological Tissues",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_26-DIRD_Anomalous_Acute_and_Subacute_Field_Effects_on_Human_Biological_Tissues.pdf"
+}
+],
+"tier": "B",
+"type": "research"
+},
+{
+"claimTier": 3,
+"cls": "domain",
+"dateEnd": null,
+"dateStart": "1980-12-29",
+"direction": "out",
+"edgeLabel": "Shared clinical signature",
+"id": "d-plasma",
+"l0": false,
+"label": "Plasma Physics & Atmospheric Electricity",
+"note": "Dermal burn and neurological presentations attributed to anomalous encounters are also produced by directed-energy and radiofrequency exposure, which the board records rather than resolves.",
+"sources": [
+{
+"date": "2010-01-01",
+"name": "DIRD 26 - Anomalous Acute and Subacute Field Effects on Human Biological Tissues",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_26-DIRD_Anomalous_Acute_and_Subacute_Field_Effects_on_Human_Biological_Tissues.pdf"
+}
+],
+"tier": "C",
+"type": "research"
+},
+{
+"claimTier": 1,
+"cls": "location",
+"dateEnd": "1986-08-21",
+"dateStart": "1980-12-29",
+"direction": "out",
+"edgeLabel": "The only injury case that reached federal court",
+"id": "l-huffman-tx",
+"l0": false,
+"label": "Huffman / Dayton, Texas",
+"note": "Cash v. United States arose from the December 1980 encounter on FM 1485 and was dismissed in August 1986.",
+"sources": [
+{
+"date": "2010-01-01",
+"name": "DIRD 26 - Anomalous Acute and Subacute Field Effects on Human Biological Tissues",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_26-DIRD_Anomalous_Acute_and_Subacute_Field_Effects_on_Human_Biological_Tissues.pdf"
+}
+],
+"tier": "C",
+"type": "geographic"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "1980-12-29",
+"deg": 3,
+"denials": [],
+"desc": "Injury is the one class of evidence in this field that generates records outside the security system: an emergency department chart, a radiology report, a service-connected disability claim. The Defense Intelligence Agency commissioned exactly this line of inquiry under AAWSAP - Defense Intelligence Reference Document 26, 'Anomalous Acute and Subacute Field Effects on Human Biological Tissues', and a companion study by Christopher 'Kit' Green of the Institute for Advanced Studies at Austin on 'Clinical Medical Acute and Subacute Field Effects on Human Dermal and Neurological Tissues'. Those are government-commissioned medical studies of injuries attributed to proximity to anomalous phenomena, written by a named former CIA analyst with medical credentials, and released under FOIA. The civil-litigation counterpart is Cash v. United States, the Cash-Landrum suit filed in the Southern District of Texas over injuries the plaintiffs attributed to a December 1980 encounter, dismissed in August 1986. The dual-use route is uncomfortable and must be named: the same clinical signature - dermal burns, neurological deficit, radiation-type presentation - is produced by directed-energy and radiofrequency exposure from conventional systems. Scoring high on this domain means an entity treated, studied or suffered such effects.",
+"domains": [
+"_stubs",
+"w2-taxonomy"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "1",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "d-medical",
+"l0": false,
+"label": "Medical & Injury Effects",
+"locLabel": null,
+"members": null,
+"short": "Medical & Injury Effects",
+"sources": [
+{
+"date": "2010-01-01",
+"name": "DIRD 26 - Anomalous Acute and Subacute Field Effects on Human Biological Tissues",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_26-DIRD_Anomalous_Acute_and_Subacute_Field_Effects_on_Human_Biological_Tissues.pdf"
+},
+{
+"date": "2020-01-01",
+"name": "DIRD 'Clinical Medical Acute & Subacute Field Effects on Human Dermal & Neurological Tissues' (Christopher Green)",
+"url": "https://www.theblackvault.com/documentarchive/wp-content/uploads/2020/01/kitgreen-dird.pdf"
+},
+{
+"date": "1986-08-21",
+"name": "Cash v. United States, No. H-84-348 - docket and Order of Dismissal",
+"url": "https://files.afu.se/Downloads/Books/Other/Quest_Publications/Quest_Publications_101-Cash_Landrum_File-Civil_Action.pdf"
+},
+{
+"date": "2026-08-12",
+"name": "NSF master government list of FFRDCs",
+"url": "https://www.nsf.gov/statistics/ffrdclist/"
+},
+{
+"date": "2026-08-12",
+"name": "Domain definition written for this board; see SCHEMA.md",
+"url": ""
+}
+],
+"sub": "Scientific domain - documented physiological harm to personnel and civilians near reported events",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 485 of 1027, score 30). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A2/D2.",
+"timeline": []
+}

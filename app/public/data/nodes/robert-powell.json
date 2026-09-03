@@ -1,0 +1,170 @@
+{
+"A": 0,
+"C": 0,
+"D": 2,
+"affiliations": [
+"Scientific Coalition for UAP Studies (co-founder, board)",
+"Mutual UFO Network - former director of research"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "2010-12-18",
+"event": "Publishes the Stephenville radar and witness study with Glen Schulze.",
+"precision": "day"
+},
+{
+"date": "2015-08-06",
+"event": "Publishes the 2013 Aguadilla, Puerto Rico analysis of DHS/CBP thermal imagery.",
+"precision": "day"
+},
+{
+"date": "2019-09-25",
+"event": "Co-author of the Entropy flight-characteristics paper.",
+"precision": "day"
+},
+{
+"date": "2023-12-07",
+"event": "Lead author of the SCU study on reported shape, size, kinematics, electromagnetic effects and sound of UAP.",
+"precision": "day"
+},
+{
+"date": "2025-06-14",
+"event": "Publishes 'Evolving Paradigms in the Search for Advanced Extraterrestrial Intelligence'.",
+"precision": "day"
+}
+],
+"claims": [
+{
+"source": "Entropy, DOI 10.3390/e21100939",
+"text": "Powell is co-author of 'Estimating Flight Characteristics of Anomalous Unidentified Aerial Vehicles', Entropy 21(10):939 (2019).",
+"tier": 1
+},
+{
+"source": "SCU, Zenodo DOI 10.5281/zenodo.7844175",
+"text": "Powell led the SCU analysis of the April 2013 Aguadilla, Puerto Rico thermal-imagery event recorded by a Department of Homeland Security aircraft.",
+"tier": 1
+},
+{
+"source": "SCU, Zenodo DOI 10.5281/zenodo.10287332",
+"text": "Powell is lead author of the 2023 SCU study 'The Reported Shape, Size, Kinematics, Electromagnetic Effects, and Presence of Sound of Unidentified Aerial Phenomena', with Sarah Little, Larry Hancock and others.",
+"tier": 1
+}
+],
+"cls": "person",
+"cluster": "research",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": "2019",
+"direction": "out",
+"edgeLabel": "Co-author; brought the SCU case reconstructions",
+"id": "paper-knuth-powell-reali-2019",
+"l0": false,
+"label": "Knuth, Powell & Reali (2019), Entropy 21(10):939",
+"note": "Powell's FOIA-derived sensor reconstructions supplied the case inputs for the kinematic estimates.",
+"sources": [
+{
+"date": "2019-09-25",
+"name": "Knuth, Powell & Reali, 'Estimating Flight Characteristics of Anomalous Unidentified Aerial Vehicles', Entropy 21(10):939",
+"url": "https://doi.org/10.3390/e21100939"
+},
+{
+"date": "2015-08-06",
+"name": "Powell, Beall, Cates, Paulson & Hoffman, '2013 Aguadilla Puerto Rico UAP', SCU (Zenodo)",
+"url": "https://doi.org/10.5281/zenodo.7844175"
+}
+],
+"tier": "C",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2010",
+"direction": "out",
+"edgeLabel": "Founding board member; author of the Stephenville and Aguadilla studies",
+"id": "scu-uap-studies",
+"l0": false,
+"label": "Scientific Coalition for UAP Studies (SCU)",
+"note": "Powell established SCU's method: obtain the primary federal sensor record by FOIA, reconstruct it quantitatively, deposit it with a DOI.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Scientific Coalition for UAP Studies",
+"url": "https://www.explorescu.org/"
+},
+{
+"date": "2015-08-06",
+"name": "Powell, Beall, Cates, Paulson & Hoffman, '2013 Aguadilla Puerto Rico UAP', SCU (Zenodo)",
+"url": "https://doi.org/10.5281/zenodo.7844175"
+}
+],
+"tier": "C",
+"type": "institutional"
+}
+],
+"date": "2019-09-25",
+"dateEnd": null,
+"dateStart": "2019-09-25",
+"deg": 2,
+"denials": [],
+"domains": [
+"scientists-technical"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "robert-powell",
+"instId": "scu-uap-studies",
+"l0": false,
+"label": "Robert M. Powell",
+"loc": "Austin, TX",
+"locId": "l-austin",
+"members": null,
+"narrative": "Powell is the person who made the radar-and-documents approach into a body of work. A chemist by training with a career in semiconductor engineering, he co-founded the Scientific Coalition for UAP Studies, a 501(c)(3) whose method is unglamorous and effective: obtain the primary sensor record through FOIA, reconstruct the event quantitatively, publish with the data attached. The 2010 Stephenville study with Glen Schulze reconstructed FAA radar returns around the January 2008 Texas sightings; the 2015 Aguadilla study with Morgan Beall, Larry Cates, Carl Paulson and Richard Hoffman analysed thermal imagery captured by a Department of Homeland Security Customs and Border Protection aircraft off Puerto Rico in April 2013 - a federal sensor record, obtained lawfully, analysed openly. He is second author of the Knuth-Powell-Reali Entropy paper of 2019, and lead author of the 2023 SCU study of reported shape, size, kinematics, electromagnetic effects and sound across a large report corpus. SCU also runs the Hancock-Porritt-Grosvenor series correlating 1945-1975 UAP activity with the United States atomic warfare complex, which is the documentary counterpart of Villarroel's plate work. SCU deposits its studies on Zenodo with DOIs, which means its output is citable and time-stamped rather than ephemeral.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Robert M. Powell",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Scientific Coalition for UAP Studies",
+"url": "https://www.explorescu.org/"
+},
+{
+"date": "2015-08-06",
+"name": "Powell, Beall, Cates, Paulson & Hoffman, '2013 Aguadilla Puerto Rico UAP', SCU (Zenodo)",
+"url": "https://doi.org/10.5281/zenodo.7844175"
+},
+{
+"date": "2023-12-07",
+"name": "Powell, Little, Hancock, Hasan & Truong, 'The Reported Shape, Size, Kinematics, Electromagnetic Effects, and Presence of Sound of Unidentified Aerial Phenomena', SCU (Zenodo)",
+"url": "https://doi.org/10.5281/zenodo.10287332"
+},
+{
+"date": "2019-09-25",
+"name": "Knuth, Powell & Reali, 'Estimating Flight Characteristics of Anomalous Unidentified Aerial Vehicles', Entropy 21(10):939",
+"url": "https://doi.org/10.3390/e21100939"
+}
+],
+"status": "active",
+"sub": "Chemist and semiconductor engineer; founding board member, Scientific Coalition for UAP Studies; co-author of the Entropy 2019 kinematics paper and the Aguadilla and Stephenville radar studies",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 879 of 1027, score 15). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D2.",
+"timeline": [],
+"unexplainedResidual": null,
+"unverified": [
+"Whether SCU has ever been given non-public government data."
+]
+}

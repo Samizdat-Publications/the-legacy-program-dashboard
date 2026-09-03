@@ -1,0 +1,595 @@
+{
+"A": 2,
+"C": 0,
+"D": 3,
+"band": "funding",
+"claims": [
+{
+"source": "CHRG-119hhrg61718, 9 September 2025",
+"text": "Chairwoman Anna Paulina Luna stated on 9 September 2025: 'For a non-committee member to be allowed to view these documents and videos, individual members must be approved by the Chairman and Ranking Member of both HASC and HAC-D.'",
+"tier": 1
+},
+{
+"source": "CHRG-119hhrg61718, 9 September 2025",
+"text": "Representative Nancy Mace stated at the same hearing: 'only certain people know the name of the program, and if you do not know it, you cannot get the information.'",
+"tier": 1
+},
+{
+"source": "CHRG-119hhrg61718, 9 September 2025",
+"text": "Chairwoman Luna stated: 'A major barrier to this Committee's inquiry into UAPs has been the lack of cooperation and transparency from the Department of Defense and the intelligence community.'",
+"tier": 1
+},
+{
+"source": "House Oversight Committee hearing notice and transcript CHRG-118hhrg53022",
+"text": "The 26 July 2023 House Oversight hearing took testimony from David Grusch, David Fravor and Ryan Graves before the Subcommittee on National Security, the Border, and Foreign Affairs in 2154 Rayburn.",
+"tier": 1
+}
+],
+"cls": "institution",
+"cluster": "oversight",
+"connections": [
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "Congressionally requested GAO search of 509th and RAAF records",
+"id": "509th-bomb-group",
+"l0": false,
+"label": "509th Bomb Group",
+"note": "At the request of Rep. Steven H. Schiff, GAO searched for records of the units assigned to RAAF in 1947, including the 509th Bomb Group. It found that RAAF administrative records (Mar 1945-Dec 1949) and RAAF outgoing messages (Oct 1946-Dec 1949) had been destroyed, with the disposition form failing to record who destroyed them, when, or under what authority.",
+"sources": [
+{
+"date": "1995-07-28",
+"name": "GAO/NSIAD-95-187, 'Government Records: Results of a Search for Records Concerning the 1947 Crash Near Roswell, New Mexico' (report landing page)",
+"url": "https://www.gao.gov/products/nsiad-95-187"
+},
+{
+"date": "1995-07-28",
+"name": "GAO/NSIAD-95-187, full report (PDF)",
+"url": "https://www.gao.gov/assets/nsiad-95-187.pdf"
+},
+{
+"date": null,
+"name": "GAO/NSIAD-95-187, report to the Honorable Steven H. Schiff, House of Representatives, July 28, 1995 -- https://sgp.fas.org/othergov/roswell.html",
+"url": ""
+}
+],
+"tier": "C",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "domain",
+"dateEnd": "2026-07-22",
+"dateStart": "2023-07-26",
+"direction": "out",
+"edgeLabel": "the chamber where the text was stripped in 2023 and where a successor passed in 2026",
+"id": "d-legislative",
+"l0": false,
+"label": "Legislative Process (proposed and pending)",
+"note": "The House is where UAP oversight became public through the July 2023 Oversight hearing, where House leadership's role in the conference removal of the disclosure title became a contested question, and where the Burlison amendment was adopted on 22 July 2026. Both the defeat and the advance ran through the same chamber.",
+"sources": [
+{
+"date": "2023-07-26",
+"name": "House Oversight hearing transcript, 'UAP: Implications on National Security, Public Safety, and Government Transparency' (CHRG-118hhrg53022)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm"
+},
+{
+"date": "2023-11-30",
+"name": "The Hill, 'House lawmakers demand transparency from leaders on UAP amendment's inclusion in Defense bill'",
+"url": "https://thehill.com/policy/defense/4337149-house-lawmakers-demand-transparency-from-leaders-on-uap-amendments-inclusion-in-defense-bill/"
+},
+{
+"date": "2026-07-22",
+"name": "Rep. Eric Burlison, 'House Adopts Burlison Amendment Establishing UAP Disclosure Framework'",
+"url": "https://burlison.house.gov/media/press-releases/house-adopts-burlison-amendment-establishing-uap-disclosure-framework"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2025-09-09",
+"direction": "out",
+"edgeLabel": "Committee finding of non-cooperation by DoD and the IC",
+"id": "dod",
+"l0": true,
+"label": "United States Department of Defense (secondary designation: Department of War)",
+"note": "Chairwoman Luna: 'A major barrier to this Committee's inquiry into UAPs has been the lack of cooperation and transparency from the Department of Defense and the intelligence community.'",
+"sources": [
+{
+"date": "2025-09-09",
+"name": "CHRG-119hhrg61718, 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm"
+}
+],
+"tier": "A",
+"type": "denial"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2010-07-01",
+"direction": "in",
+"edgeLabel": "Single point of congressional liaison for every DoD special access program",
+"id": "dod-sapco",
+"l0": true,
+"label": "DoD Special Access Program Central Office (DoD SAPCO)",
+"note": "DoDD 5205.07 requires personnel to notify the Director, DoD SAPCO and OA SAPCO directors when briefing Congress or congressional staff with SAP material, and bars contractors from providing such material without specific approval. The office being overseen is notified before the overseer is briefed.",
+"sources": [
+{
+"date": "2018-02-12",
+"name": "DoD Manual 5205.07 Volume 1, 18 June 2015, Change 1 12 February 2018",
+"url": "https://web.archive.org/web/20191018064106/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol1.pdf"
+},
+{
+"date": "2024-09-12",
+"name": "DoD Directive 5205.07, 12 September 2024",
+"url": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "1947",
+"direction": "out",
+"edgeLabel": "One half of the read-in gate described by Chairwoman Luna",
+"id": "house-armed-services",
+"l0": false,
+"label": "House Armed Services Committee",
+"note": "HASC leadership approval is required, together with HAC-D leadership, for a non-committee member to view specific program material.",
+"sources": [
+{
+"date": "2025-09-09",
+"name": "CHRG-119hhrg61718, 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm"
+},
+{
+"date": "2024-01-01",
+"name": "10 U.S.C. 119, Special access programs: congressional oversight",
+"url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 2,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "1977",
+"direction": "out",
+"edgeLabel": "Committee of jurisdiction for IC controlled access programs",
+"id": "house-intelligence",
+"l0": false,
+"label": "House Permanent Select Committee on Intelligence",
+"note": "Programs carried in the IC SAP control enterprise are reported, if at all, to the intelligence committees rather than to the defense committees.",
+"sources": [
+{
+"date": "2024-01-01",
+"name": "10 U.S.C. 119, Special access programs: congressional oversight",
+"url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2023-07-26",
+"direction": "out",
+"edgeLabel": "Committee that took the 2023 and 2024 public UAP testimony",
+"id": "house-oversight-committee",
+"l0": true,
+"label": "U.S. House Committee on Oversight and Government Reform",
+"note": "House Oversight held the 26 July 2023 hearing and the 13 November 2024 hearing, and its Task Force on the Declassification of Federal Secrets held the 9 September 2025 hearing.",
+"sources": [
+{
+"date": "2023-07-26",
+"name": "CHRG-118hhrg53022, House Oversight UAP hearing transcript",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm"
+},
+{
+"date": "2025-09-09",
+"name": "CHRG-119hhrg61718, 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2009-09-21",
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "Representative, New York 23rd district, until 21 September 2009",
+"id": "john-mchugh",
+"l0": false,
+"label": "John M. McHugh",
+"note": "McHugh remained a member of the House for three months after leaving the ranking seat, which is why the resignation date and the 119(e)(2) succession date are not the same. Conflating them would attribute mid-2009 waived-SAP notifications to the wrong member.",
+"sources": [
+{
+"date": null,
+"name": "https://democrats-armedservices.house.gov/2009/6/skelton-commends-mchugh-nomination-as-secretary-of-the-army",
+"url": "https://democrats-armedservices.house.gov/2009/6/skelton-commends-mchugh-nomination-as-secretary-of-the-army"
+},
+{
+"date": null,
+"name": "https://www.army.mil/article/27650/hon_john_mchugh_takes_office_as_secretary_of_the_army",
+"url": "https://www.army.mil/article/27650/hon_john_mchugh_takes_office_as_secretary_of_the_army"
+},
+{
+"date": "2026-08-22",
+"name": "U.S. Senate, Dates of Sessions of the Congress (convening dates: 111th 6 Jan 2009, 118th 3 Jan 2023, 119th 3 Jan 2025)",
+"url": "https://www.senate.gov/legislative/DatesofSessionsofCongress.htm"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "Air Force SAP directive bars congressional briefings without SAPCO approval",
+"id": "saf-aaz",
+"l0": false,
+"label": "SAF/AAZ — Air Force Declassification & Special Programs",
+"note": "Air Force Policy Directive 16-7, 'Special Access Programs,' 29 December 2010, states: 'It is strictly forbidden for any employee of the Air Force or any appropriately accessed organization or company to brief or provide SAP material to any Congressional Member or staff without DoD SAPCO approval. Additionally, the Director, SAF/AAZ will be kept informed of any interaction with Congress.' This is the documented mechanism behind the recurring complaint that SAP-compartmented material cannot reach non-HASC/HAC-D members.",
+"sources": [
+{
+"date": "2014-02-18",
+"name": "Air Force Instruction 16-701, Management, Administration and Oversight of Special Access Programs, 18 Feb 2014 (OPR SAF/AAZE; certified by SAF/AAZ) - AF e-Publishing PDF via Internet Archive",
+"url": "https://web.archive.org/web/20250206005028/https://static.e-publishing.af.mil/production/1/saf_aa/publication/afi16-701/afi16-701.pdf"
+},
+{
+"date": null,
+"name": "Air Force Policy Directive 16-7, 'Special Access Programs,' December 29, 2010 -- https://irp.fas.org/doddir/usaf/afpd16-7.pdf",
+"url": ""
+},
+{
+"date": null,
+"name": "Steven Aftergood, 'Air Force SAP Policy Limits Congressional Contacts,' Federation of American Scientists, January 4, 2011 -- https://fas.org/publication/usaf_sap/",
+"url": ""
+}
+],
+"tier": "C",
+"type": "behavioral"
+},
+{
+"claimTier": 1,
+"cls": "domain",
+"dateEnd": null,
+"dateStart": "2025-09-09",
+"direction": "out",
+"edgeLabel": "HASC and HAC-D leadership control member access to program material",
+"id": "sap-readin-gate",
+"l0": false,
+"label": "The HASC/HAC-D special access program read-in gate",
+"note": "The gate is described on the record by the chair of the investigating task force; the two committees controlling it are not the committee conducting the inquiry.",
+"sources": [
+{
+"date": "2025-09-09",
+"name": "CHRG-119hhrg61718, 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "2024-04-10",
+"direction": "in",
+"edgeLabel": "Representative, Oklahoma 4th district; Chairman of Appropriations from April 2024",
+"id": "tom-cole",
+"l0": false,
+"label": "Tom Cole",
+"note": "The House Appropriations chairmanship is one of only two House seats in the section 119 group that sit on the money side; the other is the Defense Subcommittee chair held by Ken Calvert.",
+"sources": [
+{
+"date": null,
+"name": "https://cole.house.gov/media/press-releases/house-republican-conference-ratifies-cole-chairman-house-appropriations",
+"url": "https://cole.house.gov/media/press-releases/house-republican-conference-ratifies-cole-chairman-house-appropriations"
+},
+{
+"date": null,
+"name": "cole.house.gov",
+"url": "https://cole.house.gov/media/press-releases/house-republican-steering-committee-elects-cole-be-appropriations-committee"
+},
+{
+"date": "2026-08-22",
+"name": "10 U.S.C. 119(e)(2) and (g) (OLRC prelim text, read 22 August 2026)",
+"url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "House Appropriations Defense subcommittee staff overseeing NRO/NSA/NGA",
+"id": "william-b-adkins",
+"l0": false,
+"label": "William B. Adkins",
+"note": "Before becoming PDDNRO he 'served on the professional staff of the House Appropriations Committee, Subcommittee on Defense, where he led the subcommittee's oversight and legislative responsibility for the NRO, U.S. Space Force, U.S. Space Command, National Geospatial-Intelligence Agency, National Security Agency, and U.S. Cyber Command' - the panel that writes the classified defense appropriations annex.",
+"sources": [
+{
+"date": "2026-08-11",
+"name": "Archived: ODNI, Preliminary Assessment: Unidentified Aerial Phenomena (Wayback 2026-08-11)",
+"url": "https://web.archive.org/web/20260811010946/https://archive.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf"
+},
+{
+"date": "2026-08-12",
+"name": "National Reconnaissance Office - About NRO",
+"url": "https://www.nro.gov/About-NRO/"
+},
+{
+"date": null,
+"name": "https://www.nro.gov/About-NRO/Leadership/leadership-adkins/",
+"url": "https://www.nro.gov/About-NRO/Leadership/leadership-adkins/"
+}
+],
+"tier": "C",
+"type": "institutional"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "1789-03-04",
+"deg": 12,
+"denials": [
+{
+"by": {
+"id": "dod",
+"label": "United States Department of Defense (secondary designation: Department of War)"
+},
+"claimTier": 1,
+"denialKind": "directed",
+"label": "Committee finding of non-cooperation by DoD and the IC",
+"note": "Chairwoman Luna: 'A major barrier to this Committee's inquiry into UAPs has been the lack of cooperation and transparency from the Department of Defense and the intelligence community.'",
+"of": {
+"id": "us-house",
+"label": "United States House of Representatives"
+},
+"sources": [
+{
+"date": "2025-09-09",
+"name": "CHRG-119hhrg61718, 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm"
+}
+]
+}
+],
+"desc": "The House is where UAP oversight became public. Its Committee on Oversight and Accountability held the 26 July 2023 hearing 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency' before the Subcommittee on National Security, the Border, and Foreign Affairs in room 2154 Rayburn, taking sworn testimony from David Grusch, Commander David Fravor and Ryan Graves; the transcript is CHRG-118hhrg53022. It followed with the 13 November 2024 hearing 'Unidentified Anomalous Phenomena: Exposing the Truth', and on 9 September 2025 the Task Force on the Declassification of Federal Secrets held 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'. The House Armed Services Committee and the Defense Subcommittee of the House Appropriations Committee are the two bodies whose chairmen and ranking members constitute the read-in gate for the Department's most sensitive programs, a fact Chairwoman Anna Paulina Luna stated on the record in September 2025: 'For a non-committee member to be allowed to view these documents and videos, individual members must be approved by the Chairman and Ranking Member of both HASC and HAC-D.' Representative Nancy Mace stated the compartmentation problem in the same hearing: 'only certain people know the name of the program, and if you do not know it, you cannot get the information.' The House is thus simultaneously the chamber conducting the inquiry and the chamber whose own committee structure supplies the gate the inquiry is trying to open.",
+"domains": [
+"w2-agencies"
+],
+"dossier": {
+"claims": [
+{
+"source": "U.S. House Committee on Armed Services, 'Unidentified Flying Objects,' hearing, 89th Cong., 2d sess., April 5, 1966; https://www.govinfo.gov/content/pkg/CHRG-89hhrg50066O/pdf/CHRG-89hhrg50066O.pdf and https://archive.org/details/ufo_1966_1",
+"text": "On April 5, 1966 the Committee on Armed Services of the House of Representatives, 89th Congress second session, held a hearing on Unidentified Flying Objects, with Secretary of the Air Force Harold Brown, Project Blue Book chief Major Hector Quintanilla, and Blue Book scientific consultant Dr. J. Allen Hynek.",
+"tier": 1
+},
+{
+"source": "Ryan Graves, written testimony, House Committee on Oversight and Accountability, July 26, 2023; https://oversight.house.gov/wp-content/uploads/2023/07/Ryan-HOC-Testimony.pdf",
+"text": "The July 26, 2023 UAP hearing was held by the House Oversight Subcommittee on National Security, the Border, and Foreign Affairs, chaired by Rep. Glenn Grothman with Rep. Robert Garcia as ranking member, and was described by witness Ryan Graves as 'the first public hearing on UAP to hear from military pilots and whistleblowers.'",
+"tier": 1
+},
+{
+"source": "https://oversight.house.gov/wp-content/uploads/2023/07/Ryan-HOC-Testimony.pdf",
+"text": "Graves testified that Rear Admiral Tim Gallaudet received a classified SIPRNET email in 2015 titled 'Urgent safety of flight issue' attaching the GO FAST UAP video, that the following day the email was removed from Gallaudet's system and his deputy's, that no one ever discussed it, and that Gallaudet 'presumes the email was removed in connection with a classified special access program.'",
+"tier": 1
+},
+{
+"source": "https://oversight.house.gov/wp-content/uploads/2023/07/Ryan-HOC-Testimony.pdf",
+"text": "Graves testified that 'Since 2021, all UAP videos are classified as secret or above,' preventing the American people and some Members of Congress from seeing material such as the full GIMBAL video recorded by his squadron.",
+"tier": 1
+},
+{
+"source": "https://oversight.house.gov/subcommittee/task-force-on-the-declassification-of-federal-secrets/",
+"text": "House Oversight Chairman James Comer created the Task Force on the Declassification of Federal Secrets and named Rep. Anna Paulina Luna (FL-13) as Chairwoman, with Rep. Jasmine Crockett (TX-30) as Ranking Member; Republican members are Nancy Mace, Tim Burchett, Lauren Boebert, Eric Burlison, Eli Crane and Brandon Gill, and Democratic members are Stephen Lynch, Raja Krishnamoorthi and Dave Min.",
+"tier": 1
+},
+{
+"source": "https://defensescoop.com/2025/09/09/military-whistleblowers-share-new-evidence-alleged-uap-ufo-hearing/",
+"text": "On September 9, 2025 the Task Force on the Declassification of Federal Secrets held a hearing on UAP transparency and whistleblower protection with witnesses Jeffrey Nuccetelli (U.S. Air Force veteran), Chief Alexandro Wiggins, journalist George Knapp, and Dylan Borland (U.S. Air Force veteran).",
+"tier": 2
+},
+{
+"source": "https://www.archives.gov/records-mgmt/uap-guidance (NARA guidance, updated May 8, 2024)",
+"text": "The FY2024 National Defense Authorization Act, Public Law 118-31, sections 1841-1843, requires NARA to establish the 'Unidentified Anomalous Phenomena Records Collection' and required each federal agency to review, identify and organize each UAP record in its custody for disclosure and transmission to the National Archives by October 20, 2024.",
+"tier": 1
+},
+{
+"source": "https://www.archives.gov/records-mgmt/uap-guidance",
+"text": "The statutory scope of the UAP Records Collection is 'copies of all Government, Government-provided, or Government-funded records relating to unidentified anomalous phenomena, technologies of unknown origin, and non-human intelligence (or equivalent subjects by any other name with the specific and sole exclusion of temporarily non-attributed objects).'",
+"tier": 1
+},
+{
+"source": "https://www.archives.gov/records-mgmt/uap-guidance",
+"text": "NARA's metadata requirements for UAP records include a mandatory 'Special Controls' field to be populated with access or handling restrictions such as SAP, SCI, RD/FRD and FGI, and require the Department of Energy to be entered as a referral agency whenever a file contains Restricted Data or Formerly Restricted Data.",
+"tier": 1
+},
+{
+"source": "https://uscode.house.gov/view.xhtml?req=%28title%3A50+section%3A3373+edition%3Aprelim%29 (statutory note to 50 U.S.C. 3373)",
+"text": "Section 1687(b) of Public Law 118-31 (Dec. 22, 2023, 137 Stat. 621) provides that independent research and development funding relating to unidentified anomalous phenomena 'shall not be allowable as indirect expenses' for covered contracts under DoD Instruction 3204.01 unless such material and information is made available to the appropriate congressional committees and congressional leadership.",
+"tier": 1
+},
+{
+"source": "https://burlison.house.gov/media/press-releases/burlison-presses-mitre-answers-uap-records-ffrdc-accountability-and-compliance",
+"text": "Rep. Eric Burlison, a member of both the Oversight Committee and the Task Force, transmitted legislative interrogatories to The MITRE Corporation on May 22, 2026 and had previously sent a records demand to MIT Lincoln Laboratory concerning the Beacon Hill Study and the recording 'AF-ATIC-FILM, 03/52'.",
+"tier": 1
+},
+{
+"source": "https://burlison.house.gov/media/press-releases/rep-burlison-releases-administration-memorandum-president-trumps-uap-nda (memorandum at https://burlison.house.gov/sites/evo-subsites/burlison.house.gov/files/evo-media-document/memorandum_2026.pdf)",
+"text": "On August 1, 2026 Rep. Burlison publicly released, with administration authorization, preliminary implementation guidance for President Trump's directive on nondisclosure agreements covering current and former government employees and contractors with UAP-related information, following his July 21, 2026 statement inviting affected individuals to contact his office.",
+"tier": 1
+},
+{
+"source": "https://www.congress.gov/bill/118th-congress/house-bill/6967/text (bill text; endorsement noted at https://www.safeaerospace.org/)",
+"text": "The Safe Airspace for Americans Act, H.R. 6967 (118th Congress), introduced by the Chairman and Ranking Member of the House Oversight National Security Subcommittee, would allow civilian pilots to report UAP through NASA's Aviation Safety Reporting System, provide protection against retaliation, and make all UAP reports publicly available.",
+"tier": 2
+},
+{
+"source": "https://defensescoop.com/2026/05/14/uap-trump-first-pursue-ufo-file-drop/",
+"text": "In May 2026 the administration began posting declassified interagency UAP files as part of President Trump's disclosure initiative, with the first tranche published on war.gov/ufo, an executive-branch release running parallel to, rather than through, the congressional records process.",
+"tier": 2
+}
+],
+"connections": [
+"Rep. Eric Burlison links the House to the MITRE and MIT Lincoln Laboratory records campaigns and to the Trump UAP NDA waiver intake channel",
+"Rep. Anna Paulina Luna chairs the Task Force on the Declassification of Federal Secrets; Chairman James Comer created it",
+"Reps. Tim Burchett and Glenn Grothman drove the July 26, 2023 Oversight hearing at which Ryan Graves and Americans for Safe Aerospace entered testimony",
+"Rear Admiral Tim Gallaudet, an ASA advisor, is the source of the 2015 SIPRNET email-deletion account entered into the House record",
+"FY2024 NDAA sections 1841-1843 tie the House to NARA, the UAP Records Collection and Record Group 615",
+"FY2024 NDAA section 1687(b) ties the House to DoD Instruction 3204.01, contractor IR&D accounting, and the defense and intelligence committees",
+"The 1966 Armed Services hearing produced the Condon Committee at the University of Colorado, the successor to the Battelle-authored Blue Book Special Report No. 14",
+"The House Subcommittee on Government Information (Rep. John E. Moss, chairman) took up the non-availability of Special Report No. 14 on November 15, 1956"
+],
+"denialPosture": "The House does not deny; it is the venue in which denials are entered. The dated, signed executive-branch denials that matter here were delivered to House committees: Secretary of the Air Force Harold Brown's April 5, 1966 statement to Armed Services that no evidence existed of a national security threat or extraterrestrial origin, and the recurring executive position, restated through 2026, that no case has been verified as involving extraterrestrial activity or technology.",
+"narrative": "The House's involvement runs on a sixty-year cycle of the same three moves: hearing, denial, statute.\n\nMove one, 1966. On April 5, 1966 the Committee on Armed Services of the House of Representatives, 89th Congress, second session, held a hearing on Unidentified Flying Objects, convened after pressure from House Minority Leader Gerald Ford. The Air Force sent Secretary Harold Brown, and Project Blue Book sent Major Hector Quintanilla, its serving chief, and Dr. J. Allen Hynek, its scientific consultant. Brown put the Air Force position on the record: no evidence that UFOs threatened national security or were extraterrestrial. Hynek used the same hearing to place on the record that the Air Force's practice of assigning conventional explanations to every report was a poverty of hypotheses, and to call for an independent civilian scientific panel. The Air Force's response was to fund the Condon study at the University of Colorado, which is the template: a congressional hearing produces not disclosure but an outsourced study whose public summary can be written to a conclusion. That is exactly what had already been done with Battelle and Special Report No. 14 eleven years earlier.\n\nMove two, 2023 to 2026. On July 26, 2023 the Oversight Committee's Subcommittee on National Security, the Border, and Foreign Affairs, chaired by Rep. Glenn Grothman with Rep. Robert Garcia as ranking member, and driven by Reps. Tim Burchett and Anna Paulina Luna, held the first public hearing to take testimony from military pilots and whistleblowers. Ryan Graves's written statement placed three institutional claims into the record: that UAP in U.S. airspace are grossly underreported; that stigma is itself a national security problem; and that excessive classification is hiding what the government knows, with all UAP video classified secret or above since 2021. Graves also entered a specific, dated, attributable account of information suppression: his advisor Rear Admiral Tim Gallaudet received a classified SIPRNET email in 2015 titled 'Urgent safety of flight issue' attaching the GO FAST video, and the following day the email was removed from Gallaudet's system and from his deputy's, with no one ever discussing it again. Gallaudet's own stated presumption is that the removal was connected to a classified special access program. That single paragraph in a House witness statement is the cleanest documented instance of a UAP record being pulled out of an official system.\n\nBy 2025 the House had institutionalized the effort. Chairman James Comer created the Task Force on the Declassification of Federal Secrets and named Luna to chair it, with Rep. Jasmine Crockett as ranking member and Republican members Nancy Mace, Tim Burchett, Lauren Boebert, Eric Burlison, Eli Crane and Brandon Gill, and Democratic members Stephen Lynch, Raja Krishnamoorthi and Dave Min. On September 9, 2025 the task force held a hearing on restoring public trust through UAP transparency and whistleblower protection, taking testimony from Air Force veteran Jeffrey Nuccetelli, Chief Alexandro Wiggins, journalist George Knapp and Air Force veteran Dylan Borland.\n\nMove three, statute. The FY2024 National Defense Authorization Act, Public Law 118-31, sections 1841 through 1843, directed NARA to establish the Unidentified Anomalous Phenomena Records Collection and required every federal agency to review, identify and organize its UAP records for transmission to the National Archives by October 20, 2024. The statutory definition of what belongs in the collection is the tell: copies of all Government, Government-provided, or Government-funded records relating to unidentified anomalous phenomena, technologies of unknown origin, and non-human intelligence. Congress wrote non-human intelligence into a records statute. NARA's implementing metadata schema then required a mandatory Special Controls field populated with SAP, SCI, RD/FRD and FGI markings, and required the Department of Energy to be entered as a referral agency whenever a file contains Restricted Data or Formerly Restricted Data. The Archives built its intake to receive special-access and nuclear-classified UAP material before anyone had produced any. Separately, section 1687(b) of the same law made UAP-related independent research and development funding unallowable as an indirect expense on covered contracts unless the material is made available to the congressional defense committees, the House Permanent Select Committee on Intelligence, the Senate Select Committee on Intelligence, and the four congressional leaders. That provision exists because someone in Congress concluded that contractors were charging the taxpayer for UAP work through overhead while reporting nothing.\n\nBy 2026 the House had pivoted to attacking the contractor and FFRDC layer directly. Burlison's May 2026 interrogatories to MITRE, and his earlier letter to MIT Lincoln Laboratory, assert that a nonprofit FFRDC cannot become a private vault for federal records. On August 1, 2026 Burlison released, with administration authorization, preliminary implementation guidance for President Trump's directive on nondisclosure agreements binding current and former government employees and contractors with UAP information, and invited anyone who believes the directive applies to them to contact his office. That is a sitting member of the House offering himself as the intake channel for people whose NDAs may have just been waived. Running alongside it, and not through it, the administration began posting declassified interagency UAP files in May 2026 on war.gov/ufo, an executive release track that answers to no congressional deadline.",
+"openQuestions": [
+"Which agencies actually met the October 20, 2024 UAP Records Collection deadline, and which certified null returns?",
+"Has any contractor been found in violation of the section 1687(b) IR&D limitation, and has any audit been performed?",
+"Did any House committee ever receive a waived-SAP notification touching UAP, and would the chair and ranking member be permitted to say so?",
+"Whether the 1966 Armed Services hearing record contains any internal Air Force acknowledgment of the Special Report No. 14 unknown-rate discrepancy",
+"What became of the classified briefing Burlison requested from MITRE for Task Force members and cleared committee staff",
+"How the executive-branch file releases on war.gov/ufo interact with, or bypass, the statutory NARA collection process"
+],
+"roles": [
+"oversight",
+"disclosure",
+"funding",
+"concealment"
+],
+"whatItIs": "The United States House of Representatives, and specifically the three bodies within it that have repeatedly touched the legacy program question: the Committee on Armed Services, which held the first open congressional UFO hearing in 1966; the Committee on Oversight and Government Reform, which has run the modern public hearings since 2023; and that committee's Task Force on the Declassification of Federal Secrets, chaired by Rep. Anna Paulina Luna. The House is also the chamber whose FY2024 NDAA conference product created the statutory UAP Records Collection at the National Archives.",
+"whyImplicated": "The House is not a bystander in this record; it is the institution that has been lied to, and periodically the institution that catches the lie. Its 1966 Armed Services hearing extracted the Air Force's official position on the record from a sitting Secretary and simultaneously put J. Allen Hynek's dissent into the Congressional record. Its Oversight Committee in 2023 put a former Navy pilot and other witnesses in front of cameras under oath. Its members have since gone after the contractor layer directly, issuing legislative interrogatories to The MITRE Corporation and MIT Lincoln Laboratory rather than to executive agencies, which is a deliberate move around the FOIA exemptions and classification authorities that block agency requests. And the House is where the funding lever sits: FY2024 NDAA section 1687 makes UAP-related independent research and development costs unallowable as indirect expenses unless the underlying material is made available to the defense and intelligence committees and to congressional leadership."
+},
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [
+0
+],
+"requests": [
+{
+"agency": "NARA",
+"partial": [],
+"questions": [
+0
+],
+"request": "F1",
+"sendTo": "National Archives and Records Administration, FOIA Officer, Office of General Counsel, 8601 Adelphi Road, College Park MD 20740. Cross-file a copy with the National Declassification Center, which is the operational custodian of the collection.",
+"status": "not filed",
+"title": "NARA - the RG 615 compliance register"
+}
+]
+},
+"hl": null,
+"id": "us-house",
+"l0": true,
+"label": "United States House of Representatives",
+"locLabel": null,
+"members": [
+{
+"cls": "institution",
+"id": "509th-bomb-group",
+"label": "509th Bomb Group",
+"tier": "C"
+},
+{
+"cls": "domain",
+"id": "d-legislative",
+"label": "Legislative Process (proposed and pending)",
+"tier": "B"
+},
+{
+"cls": "institution",
+"id": "house-armed-services",
+"label": "House Armed Services Committee",
+"tier": "C"
+},
+{
+"cls": "institution",
+"id": "house-intelligence",
+"label": "House Permanent Select Committee on Intelligence",
+"tier": "C"
+},
+{
+"cls": "person",
+"id": "john-mchugh",
+"label": "John M. McHugh",
+"tier": "C"
+},
+{
+"cls": "institution",
+"id": "saf-aaz",
+"label": "SAF/AAZ — Air Force Declassification & Special Programs",
+"tier": "C"
+},
+{
+"cls": "domain",
+"id": "sap-readin-gate",
+"label": "The HASC/HAC-D special access program read-in gate",
+"tier": "B"
+},
+{
+"cls": "person",
+"id": "tom-cole",
+"label": "Tom Cole",
+"tier": "B"
+},
+{
+"cls": "person",
+"id": "william-b-adkins",
+"label": "William B. Adkins",
+"tier": "C"
+}
+],
+"short": "U.S. House of Representatives",
+"sources": [
+{
+"date": "2025-09-09",
+"name": "House Oversight Task Force on the Declassification of Federal Secrets, 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection' (CHRG-119hhrg61718, Serial No. 119-44)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm"
+},
+{
+"date": "2023-07-26",
+"name": "House Oversight hearing transcript, 'UAP: Implications on National Security, Public Safety, and Government Transparency' (CHRG-118hhrg53022)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm"
+},
+{
+"date": "2023-07-26",
+"name": "House Oversight Committee hearing notice, 26 July 2023",
+"url": "https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/"
+}
+],
+"sub": "Lower chamber; venue of every public UAP hearing since 2023",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 251 of 1027, score 40). 12 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D3.",
+"timeline": []
+}

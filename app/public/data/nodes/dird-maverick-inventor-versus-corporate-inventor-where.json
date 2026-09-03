@@ -1,0 +1,232 @@
+{
+"A": 0,
+"C": 0,
+"D": 0,
+"band": null,
+"claims": [
+{
+"source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237624/",
+"text": "Defense Intelligence Reference Document titled \"Maverick Inventor Versus Corporate Inventor: Where Will the Next Major Innovations Arise?\", series \"Acquisition Threat Support\", published 2010-03-30 with an Intelligence Cut-Off Date (ICOD) of 2009-12-01, DIA document number DIA-08-1003-017. Released by DIA under FOIA and posted in the DIA FOIA Electronic Reading Room.",
+"tier": 1
+},
+{
+"source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237624/",
+"text": "Inside cover reads: \"This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency [redacted b(3) 10 USC 424] Advanced Aerospace Weapon System Applications (AAWSA) Program\" and directs questions to the \"AAWSA Program Manager, Defense Intelligence Agency, ATTN: [redacted], Bldg 6000, Washington, DC 20340-5100\".",
+"tier": 1
+},
+{
+"source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237624/",
+"text": "Author name is withheld in the DIA-released copy under FOIA exemption (b)(6); the \"Prepared by:\" line is withheld under (b)(3) 10 USC 424. The released cover therefore does not attribute the DIRD to a named author.",
+"tier": 1
+},
+{
+"source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_17-DIRD_Maverick_Inventor_Versus_Corporate_Inventor-Where_Will_the_Next_major_Innovations_Arise.pdf",
+"text": "Cover page reads: '30 March 2010 / ICOD: 1 December 2009 / DIA-08-1003-017 / Defense Intelligence Reference Document / Acquisition Threat Support / Maverick Inventor Versus Corporate Inventor: Where Will the Next Major Innovations Arise?'.",
+"tier": 1
+},
+{
+"source": "https://irp.fas.org/dia/aatip-list.pdf",
+"text": "Attributed on the DIA list of AATIP/AAWSAP products supplied to the Senate Armed Services Committee to 'Dr George Hathaway, Hathaway Consulting'. The author line on the released PDF is redacted under (b)(6).",
+"tier": 1
+},
+{
+"source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_17-DIRD_Maverick_Inventor_Versus_Corporate_Inventor-Where_Will_the_Next_major_Innovations_Arise.pdf",
+"text": "Administrative note: 'This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency [redacted] Advanced Aerospace Weapon System Applications (AAWSA) Program.' Released copy runs 19 pages.",
+"tier": 1
+}
+],
+"cls": "document",
+"cluster": "other",
+"connections": [
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "produced under the AAWSA/AAWSAP contract, FY 2009",
+"id": "aawsap",
+"l0": true,
+"label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)",
+"note": "The document's administrative note states it is 'one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency [redacted] Advanced Aerospace Weapon System Applications (AAWSA) Program'. Issued as DIA-08-1003-017 on 30 March 2010, ICOD 1 December 2009. It is not a physics paper: it is a research-culture argument about whether breakthrough invention originates with lone inventors or corporate laboratories, which is the clearest single illustration of how loosely the DIRD mandate was drawn in practice.",
+"sources": [
+{
+"date": null,
+"name": "documents2.theblackvault.com",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_17-DIRD_Maverick_Inventor_Versus_Corporate_Inventor-Where_Will_the_Next_major_Innovations_Arise.pdf"
+},
+{
+"date": "2010-03-30",
+"name": "DIA FOIA Reading Room — Maverick Inventor Versus Corporate Inventor: Where Will the Next Major Innovations Arise? (PDF)",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237624/"
+}
+],
+"tier": "A",
+"type": "programmatic"
+},
+{
+"claimTier": 2,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "commissioned via the BAASS prime contract",
+"id": "baass",
+"l0": true,
+"label": "Bigelow Aerospace Advanced Space Studies (BAASS), LLC",
+"note": "Hathaway Consulting was a one-man Toronto engineering consultancy with no independent DIA relationship; its deliverable reached DIA through the AAWSAP prime contract held by Bigelow Aerospace Advanced Space Studies. Tier 2 because the contractor name is redacted on the cover page under (b)(3):10 USC 424 and the subcontract has not been released. Reporting has separately characterised Hathaway as having ties to Bigelow's fringe and paranormal research interests, but no primary document establishing an employment or advisory relationship has been located.",
+"sources": [
+{
+"date": "2026-08-22",
+"name": "Released DIRD, 'Maverick Inventor Versus Corporate Inventor: Where Will the Next Major' — FOIA copy, cover page read 22 August 2026",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_17-DIRD_Maverick_Inventor_Versus_Corporate_Inventor-Where_Will_the_Next_major_Innovations_Arise.pdf"
+},
+{
+"date": "2026-08-22",
+"name": "DIA FOIA Electronic Reading Room entry for this reference document",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237624/"
+},
+{
+"date": null,
+"name": "https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk",
+"url": "https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk"
+}
+],
+"tier": "A",
+"type": "funding"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "DIRD",
+"id": "dird-series",
+"l0": true,
+"label": "The 38 Defense Intelligence Reference Documents (DIRDs)",
+"note": "Membership of the DIRD series is established by the released document itself: its cover page carries the Defense Intelligence Reference Document mark and the DIA Defense Futures banner. Document number DIA-08-1003-017. Publication date 30 March 2010 on the cover. 20 pages in the released copy. The cover of the scanned release is degraded, so a document number or date is asserted here only where it reads unambiguously.",
+"sources": [
+{
+"date": "2026-08-22",
+"name": "Released DIRD, 'Maverick Inventor Versus Corporate Inventor: Where Will the Next Major Innovations Arise?' (FOIA copy, cover page read 22 August 2026)",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_17-DIRD_Maverick_Inventor_Versus_Corporate_Inventor-Where_Will_the_Next_major_Innovations_Arise.pdf"
+},
+{
+"date": "2026-08-22",
+"name": "DIA FOIA Electronic Reading Room, AAWSAP/AATIP reference-document entry",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237624/"
+}
+],
+"tier": "A",
+"type": "programmatic"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "authored by",
+"id": "george-hathaway",
+"l0": false,
+"label": "George D. Hathaway",
+"note": "The DIA congressional list credits 'Maverick Inventor Versus Corporate Inventor: Where Will the Next Major Innovations Arise?' to 'Dr George Hathaway, Hathaway Consulting'. Hathaway is also credited on the same list with 'Role of Superconductors in Gravity Research'. The author line on the released PDF is redacted under (b)(6).",
+"sources": [
+{
+"date": "2026-08-22",
+"name": "Released DIRD, 'Maverick Inventor Versus Corporate Inventor: Where Will the Next Major' — FOIA copy, cover page read 22 August 2026",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_17-DIRD_Maverick_Inventor_Versus_Corporate_Inventor-Where_Will_the_Next_major_Innovations_Arise.pdf"
+},
+{
+"date": "2026-08-22",
+"name": "DIA FOIA Electronic Reading Room entry for this reference document",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237624/"
+},
+{
+"date": "2026-08-23",
+"name": "DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations",
+"url": "https://fas.org/publication/aatip-list/"
+},
+{
+"date": null,
+"name": "https://irp.fas.org/dia/aatip-list.pdf",
+"url": "https://irp.fas.org/dia/aatip-list.pdf"
+},
+{
+"date": null,
+"name": "https://www.theblackvault.com/documentarchive/the-advanced-aviation-threat-identification-program-aatip-dird-report-research/",
+"url": "https://www.theblackvault.com/documentarchive/the-advanced-aviation-threat-identification-program-aatip-dird-report-research/"
+}
+],
+"tier": "C",
+"type": "research"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": null,
+"deg": 4,
+"denials": [],
+"desc": "DIA Defense Intelligence Reference Document (Acquisition Threat Support series), 2010-03-30, DIA-08-1003-017, produced under the Advanced Aerospace Weapon System Applications (AAWSA/AAWSAP) Program contract with BAASS. Released under FOIA.",
+"domains": [
+"_rs-aawsap-dirds",
+"_rs-archive-mirror",
+"w7-dirds-3"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "nd",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "dird-maverick-inventor-versus-corporate-inventor-where",
+"l0": false,
+"label": "Maverick Inventor Versus Corporate Inventor: Where Will the Next Major Innovations Arise?",
+"locLabel": null,
+"members": null,
+"short": "Maverick Inventor Versus Corporate Inventor: Where Will the Next Major Innovations Arise?",
+"sources": [
+{
+"date": "2010-03-30",
+"name": "DIA FOIA Reading Room — Maverick Inventor Versus Corporate Inventor: Where Will the Next Major Innovations Arise? (PDF)",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237624/"
+},
+{
+"date": "2022-03",
+"name": "DIA FOIA Electronic Reading Room — AAWSAP/AATIP collection",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/"
+},
+{
+"date": "2025-03-19",
+"name": "Archived: DIA FOIA Reading Room — Maverick Inventor Versus Corporate Inventor: Where Will the Next Major Innovations Arise? (PDF) (Wayback 2025-03-19)",
+"url": "https://web.archive.org/web/20250319072658/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170037/"
+},
+{
+"date": "2026-06-11",
+"name": "Archived: DIA FOIA Electronic Reading Room — AAWSAP/AATIP collection (Wayback 2026-06-11)",
+"url": "https://web.archive.org/web/20260611124158/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/"
+},
+{
+"date": null,
+"name": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_17-DIRD_Maverick_Inventor_Versus_Corporate_Inventor-Where_Will_the_Next_major_Innovations_Arise.pdf",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_17-DIRD_Maverick_Inventor_Versus_Corporate_Inventor-Where_Will_the_Next_major_Innovations_Arise.pdf"
+},
+{
+"date": null,
+"name": "https://irp.fas.org/dia/aatip-list.pdf",
+"url": "https://irp.fas.org/dia/aatip-list.pdf"
+},
+{
+"date": null,
+"name": "https://www.theblackvault.com/documentarchive/the-advanced-aviation-threat-identification-program-aatip-dird-report-research/",
+"url": "https://www.theblackvault.com/documentarchive/the-advanced-aviation-threat-identification-program-aatip-dird-report-research/"
+}
+],
+"sub": "defense-intelligence-reference-document",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 435 of 1027, score 31). 4 connections, 3 of them custody/witness/funding/programmatic. Axes C0/A0/D0.",
+"timeline": []
+}

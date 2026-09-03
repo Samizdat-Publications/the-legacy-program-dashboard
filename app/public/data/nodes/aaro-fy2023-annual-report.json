@@ -1,0 +1,242 @@
+{
+"A": 2,
+"C": 0,
+"D": 2,
+"band": null,
+"claims": [
+{
+"source": "https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
+"text": "Title page: 'OFFICE OF THE DIRECTOR OF NATIONAL INTELLIGENCE / THE DEPARTMENT OF DEFENSE / Fiscal Year 2023 Consolidated Annual Report on Unidentified Anomalous Phenomena / October 2023'. 16 pages, UNCLASSIFIED, PDF CreationDate 25 October 2023 16:09 UTC. This is the first jointly badged ODNI/DoD consolidated annual report.",
+"tier": 2
+},
+{
+"source": "https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
+"text": "Caseload: AARO 'received a total of 291 UAP reports during this period, consisting of 274 that occurred during' the reporting period, the remainder being older incidents reported late.",
+"tier": 2
+},
+{
+"source": "https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf",
+"text": "Domain distribution and AARO's own stated blind spot: 'The space and maritime domains need to be fully integrated into AARO's processes. Airborne UAP continue to dominate UAP reporting with 290 of the 291 reports from this reporting period occurring within this domain...' AARO names NIM-MIL, the USAF including NASIC and AFRL as its air-domain partners.",
+"tier": 1
+},
+{
+"source": "AARO FY2023 Consolidated Annual Report on UAP, 25 October 2023",
+"text": "Reporting period 31 August 2022 to 30 April 2023; 291 new reports (274 in-period, 17 from 2019-2022); 801 total holdings as of 30 April 2023.",
+"tier": 1
+},
+{
+"source": "AARO FY2023 Consolidated Annual Report on UAP",
+"text": "The report states that only a very small percentage of UAP reports display interesting signatures such as high-speed travel and unknown morphologies, with the majority showing ordinary characteristics of readily explainable sources.",
+"tier": 1
+},
+{
+"source": "AARO FY2023 Consolidated Annual Report on UAP",
+"text": "The report attributes unresolved cases to a lack of data rather than to any anomalous property of the objects.",
+"tier": 1
+},
+{
+"source": "Textual comparison of the FY2023 and FY2024 annual reports",
+"text": "The FY2023 report contains no finding on extraterrestrial technology at all; the standing negative formula appears first in FY2024, which places its introduction after the July 2023 Grusch testimony rather than as a pre-existing analytic baseline.",
+"tier": 3
+},
+{
+"source": "FY2023 Consolidated Annual Report on UAP, October 2023",
+"text": "The FY2023 report covers 31 August 2022 to 30 April 2023, records 291 new reports (274 in-period, 17 from 2019-2022), and puts AARO's cumulative holdings at 801.",
+"tier": 1
+},
+{
+"source": "Comparison of the FY2023, FY2024 and FY2025 report texts",
+"text": "The FY2023 report contains no explicit extraterrestrial-technology denial; that formula appears only from FY2024 onward, after the Grusch testimony of July 2023 - the denial language is reactive, not analytic.",
+"tier": 3
+}
+],
+"cls": "document",
+"cluster": "other",
+"connections": [
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "First statutory annual report, 25 October 2023",
+"id": "aaro",
+"l0": true,
+"label": "All-domain Anomaly Resolution Office (AARO)",
+"note": "291 new reports, 801 total holdings, and no finding of any kind on extraterrestrial technology - a formula that appears only from FY2024 onward.",
+"sources": [
+{
+"date": "2023-10-25",
+"name": "AARO - FY2023 Consolidated Annual Report on UAP (PDF)",
+"url": "https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf"
+},
+{
+"date": "2026-08-12",
+"name": "AARO - Congressional/Press Products index",
+"url": "https://www.aaro.mil/Congressional-Press-Products/"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 3,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "The negative finding is inserted after Grusch, not inherited",
+"id": "aaro-fy2024-annual-report",
+"l0": true,
+"label": "AARO FY2024 Consolidated Annual Report on UAP",
+"note": "The FY2023 report contains no extraterrestrial-technology denial; the FY2024 report leads with one. The change tracks the July 2023 hearing, indicating the formula is a communications response rather than an analytic finding.",
+"sources": [
+{
+"date": "2023-10-25",
+"name": "AARO - FY2023 Consolidated Annual Report on UAP (PDF)",
+"url": "https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf"
+},
+{
+"date": "2024-11-14",
+"name": "AARO - FY2024 Consolidated Annual Report on UAP (PDF)",
+"url": "https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF"
+}
+],
+"tier": "A",
+"type": "temporal"
+},
+{
+"claimTier": 1,
+"cls": "legislation",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "the annual report it requires",
+"id": "ndaa-fy2023-sec-6802",
+"l0": true,
+"label": "Sec. 6802, James M. Inhofe NDAA for FY2023 (Pub. L. 117-263) - AARO establishment, Historical Record Report and annual reports",
+"note": "Subsection (k)(1)(A): 'Not later than 180 days after the date of the enactment of the Intelligence Authorization Act for Fiscal Year 2023, and annually thereafter for four years, the Director of National Intelligence and the Secretary of Defense shall jointly submit to the appropriate congressional committees a report on unidentified anomalous phenomena.' The obligation is JOINT between the DNI and the Secretary, and it is time-limited to five reports rather than standing.",
+"sources": [
+{
+"date": "2026-08-22",
+"name": "Pub. L. 117-263 (James M. Inhofe NDAA for FY2023) sec. 6802, enacted text read from govinfo on 22 August 2026",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-117publ263/html/PLAW-117publ263.htm"
+}
+],
+"tier": "A",
+"type": "programmatic"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "",
+"id": "odni-2022-annual-report",
+"l0": false,
+"label": "ODNI 2022 Annual Report on Unidentified Aerial Phenomena",
+"note": "The reporting line passes here. The 2022 report is ODNI's, and it records AARO's establishment under its own heading; from FY2023 the consolidated annual report is AARO's product. Same statutory obligation, different office holding the pen.",
+"sources": [
+{
+"date": "2023-01-12",
+"name": "ODNI, 2022 Annual Report on Unidentified Aerial Phenomena (dni.gov)",
+"url": "https://www.dni.gov/files/ODNI/documents/assessments/Unclassified-2022-Annual-Report-UAP.pdf"
+},
+{
+"date": "2026-05-23",
+"name": "Wayback snapshot of the ODNI 2022 Annual Report PDF (now served from odni.gov)",
+"url": "https://web.archive.org/web/20260523011837id_/https://www.odni.gov/files/ODNI/documents/assessments/Unclassified-2022-Annual-Report-UAP.pdf"
+}
+],
+"tier": "C",
+"type": "temporal"
+}
+],
+"coords": null,
+"dateEnd": "2023",
+"dateStart": "2023",
+"deg": 4,
+"denials": [],
+"desc": "The first statutory annual report, published 25 October 2023 covering 31 August 2022 to 30 April 2023. It logged 291 new reports - 274 from the period and 17 from 2019-2022 not previously submitted - bringing AARO's total holdings to 801 as of 30 April 2023. Its analytic posture set the template every subsequent report has followed: only a very small percentage of UAP reports display interesting signatures such as high-speed travel and unknown morphologies, the majority demonstrate ordinary characteristics of readily explainable sources, and a large number of cases remain technically unresolved because of a lack of data. Note what the FY2023 report does not contain: any finding, positive or negative, on extraterrestrial technology. That sentence - the 'no evidence of extraterrestrial beings, activity, or technology' formula - enters the annual reports only with FY2024, in the year after David Grusch testified. The negative finding is not a baseline of the reporting series; it is a response inserted into it.",
+"domains": [
+"_rs-aaro-reports",
+"_rs-archive-mirror",
+"releases-2023-2026",
+"uaptf-aaro"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "aaro-fy2023-annual-report",
+"l0": false,
+"label": "AARO FY2023 Consolidated Annual Report on UAP",
+"locLabel": null,
+"members": null,
+"short": "AARO FY2023 Consolidated Annual Report on UAP",
+"sources": [
+{
+"date": "2023-10-25",
+"name": "Fiscal Year 2023 Consolidated Annual Report on UAP (aaro.mil Portals/136)",
+"url": "https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf"
+},
+{
+"date": "2026-05-08",
+"name": "Wayback snapshot of the FY2023 Consolidated Annual Report PDF",
+"url": "https://web.archive.org/web/20260508180206id_/https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf"
+},
+{
+"date": "2026-08-12",
+"name": "AARO Congressional/Press Products index entry (listed 25 October 2023)",
+"url": "https://www.aaro.mil/Congressional-Press-Products/"
+},
+{
+"date": "2026-05-08",
+"name": "Archived: Fiscal Year 2023 Consolidated Annual Report on UAP (aaro.mil Portals/136) (Wayback 2026-05-08)",
+"url": "https://web.archive.org/web/20260508180206/https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf"
+},
+{
+"date": "2026-07-14",
+"name": "Archived: AARO Congressional/Press Products index entry (listed 25 October 2023) (Wayback 2026-07-14)",
+"url": "https://web.archive.org/web/20260714193029/https://www.aaro.mil/Congressional-Press-Products/"
+},
+{
+"date": "2026-06-20",
+"name": "Archived: ODNI - 2023 Consolidated Annual Report on Unidentified Anomalous Phenomena (Wayback 2026-06-20)",
+"url": "https://web.archive.org/web/20260620153916/https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2023/3733-2023-consolidated-annual-report-on-unidentified-anomalous-phenomena"
+},
+{
+"date": "2023-10-17",
+"name": "ODNI - 2023 Consolidated Annual Report on Unidentified Anomalous Phenomena",
+"url": "https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2023/3733-2023-consolidated-annual-report-on-unidentified-anomalous-phenomena"
+}
+],
+"sub": "Published 25 October 2023; 291 new reports; 801 total holdings",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 270 of 1027, score 38). 4 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A2/D2.",
+"timeline": [
+{
+"date": "2023-10-25",
+"id": "rel-2023-10-25",
+"label": "AARO FY2023 annual report",
+"precision": "day",
+"strand": "program",
+"text": "First statutory annual report: 291 new reports, 801 total holdings. It contains no finding of any kind on extraterrestrial technology.",
+"tier": "A"
+},
+{
+"date": "2023-10-25",
+"id": "tl-fy23-2023-10-25",
+"label": "FY2023 annual report",
+"precision": "day",
+"strand": "program",
+"text": "AARO's first statutory annual report: 291 new reports, cumulative holdings 801, no explicit extraterrestrial denial - that formula appears only from FY2024.",
+"tier": "B"
+}
+]
+}

@@ -1,0 +1,86 @@
+{
+"A": 0,
+"C": 0,
+"D": 3,
+"band": null,
+"claims": [
+{
+"source": "Scientific Reports, doi:10.1038/s41598-025-21620-3",
+"text": "Bruehl and Villarroel published their POSS-I transient analysis in Scientific Reports on 20 October 2025.",
+"tier": 1
+},
+{
+"source": "Board bookkeeping",
+"text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
+"tier": 3
+}
+],
+"cls": "location",
+"cluster": "research",
+"connections": [
+{
+"claimTier": 1,
+"cls": "domain",
+"dateEnd": null,
+"dateStart": "2025-10-20",
+"direction": "in",
+"edgeLabel": "VASCO archival transient search",
+"id": "d-astro",
+"l0": false,
+"label": "Astronomy & Astrophysics",
+"note": "Villarroel's Stockholm-based VASCO project produced the October 2025 Scientific Reports correlation between POSS-I transients, nuclear testing and UAP reports.",
+"sources": [
+{
+"date": "2025-10-20",
+"name": "Bruehl & Villarroel, Scientific Reports",
+"url": "https://doi.org/10.1038/s41598-025-21620-3"
+}
+],
+"tier": "C",
+"type": "geographic"
+}
+],
+"coords": [
+59.3293,
+18.0686
+],
+"dateEnd": null,
+"dateStart": null,
+"deg": 1,
+"denials": [],
+"desc": "Stockholm is the base of astronomer Beatriz Villarroel, whose VASCO project compares pre-Sputnik photographic sky survey plates against modern surveys to identify transient sources that appeared and vanished before any human object could have been in orbit. That work produced one of the most significant peer-reviewed results in this field's recent history - the October 2025 Scientific Reports paper with Stephen Bruehl finding that transients in the Palomar Observatory Sky Survey may be associated with nuclear testing and with reports of unidentified anomalous phenomena. The city is scored for disclosure role because this is evidence generated outside any government's control.",
+"domains": [
+"_stubs",
+"w2-taxonomy"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "nd",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "l-stockholm",
+"l0": false,
+"label": "Stockholm, Sweden",
+"locLabel": "Stockholm, Sweden",
+"members": null,
+"short": "Stockholm, Sweden",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Wikipedia - Stockholm",
+"url": "https://en.wikipedia.org/wiki/Stockholm"
+},
+{
+"date": "2025-10-20",
+"name": "Bruehl & Villarroel, Scientific Reports",
+"url": "https://doi.org/10.1038/s41598-025-21620-3"
+}
+],
+"sub": "Capital of Sweden; base of the VASCO sky-survey transient research",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 972 of 1027, score 11). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.",
+"timeline": []
+}

@@ -1,0 +1,87 @@
+{
+"A": 2,
+"C": 0,
+"D": 1,
+"band": null,
+"claims": [
+{
+"source": "Wikipedia, 'Institute 22', citing Timothy Good, Need to Know: UFOs, the Military, and Intelligence (Pegasus Books, 2007), p.351",
+"text": "'The Institute 22 organization was created in 1978, by the Academy of Sciences and the Ministry of Defense in the Soviet Union ... Institute 22 have investigated around 3000 UFO reports. About 5-10% of all cases remained unexplained when the organization dissolved.'",
+"tier": 2
+},
+{
+"source": "Inference from the overlap between Good (2007) and Stonehill & Mantle",
+"text": "'Institute 22' and 'SETKA' most likely denote the same 1978-1991 apparatus under different naming conventions. Reasoning: identical founding year, identical joint Academy of Sciences / Ministry of Defence sponsorship, identical dissolution with the USSR, and no independent Russian-language institutional record distinguishing them has been located.",
+"tier": 3
+}
+],
+"cls": "institution",
+"cluster": "ic",
+"connections": [
+{
+"claimTier": 3,
+"cls": "program",
+"dateEnd": "1991",
+"dateStart": "1978",
+"direction": "in",
+"edgeLabel": "the same 1978-1991 apparatus under a Western naming convention",
+"id": "setka-program",
+"l0": true,
+"label": "SETKA-AN / SETKA-MO (later Galaktika, then Gorizont) - Soviet state anomalous phenomena programme",
+"note": "Identical founding year, joint Academy of Sciences and Ministry of Defence sponsorship and dissolution with the USSR; no independent institutional record distinguishing them was located.",
+"sources": [
+{
+"date": "2026-01-01",
+"name": "Institute 22 - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/Institute_22"
+},
+{
+"date": "2010-11-19",
+"name": "Stonehill & Mantle",
+"url": "https://web.archive.org/web/20101119234133/http://aforteanosla.com.ar/Colaboraciones/internacional/Mantle,%20Philip/Stonehill,%20Paul%20and%20Mantle,%20Philip.%20Setka%20an%20article.pdf"
+}
+],
+"tier": "B",
+"type": "institutional"
+}
+],
+"coords": null,
+"dateEnd": "1991",
+"dateStart": "1978",
+"deg": 1,
+"denials": [],
+"desc": "'Institute 22' is the name under which the joint Academy of Sciences and Ministry of Defence Soviet UAP effort of 1978-1991 appears in Western secondary literature, chiefly Timothy Good's Need to Know: UFOs, the Military, and Intelligence (2007). On that account it investigated around 3,000 UFO reports and left five to ten per cent unexplained when it dissolved, and orders to observe and report unexplained events were issued widely across the Soviet armed forces without explanation because the Ministry of Defence was involved and no questions could be asked. The label overlaps substantially with what Russian-language sources call SETKA-MO and SETKA-AN, and it should be treated as a Western naming convention for the same apparatus rather than as an independently documented separate body until the primary Russian record is worked. Its principal value on this board is the reporting-volume figure and the confirmation that the Soviet system used routine military tasking to feed a covert analytic centre - the same architecture as the British DI55 arrangement.",
+"domains": [
+"w2-international"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "1",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "institute-22",
+"l0": false,
+"label": "'Institute 22' - Soviet Academy of Sciences / Ministry of Defence UFO organisation",
+"locLabel": null,
+"members": null,
+"short": "'Institute 22' - Soviet Academy of Sciences / Ministry of Defence UFO organisation",
+"sources": [
+{
+"date": "2026-01-01",
+"name": "Institute 22 - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/Institute_22"
+},
+{
+"date": "2010-11-19",
+"name": "Stonehill & Mantle - Setka",
+"url": "https://web.archive.org/web/20101119234133/http://aforteanosla.com.ar/Colaboraciones/internacional/Mantle,%20Philip/Stonehill,%20Paul%20and%20Mantle,%20Philip.%20Setka%20an%20article.pdf"
+}
+],
+"sub": "Secret Soviet UAP body created 1978, dissolved with the USSR",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 950 of 1027, score 12). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A2/D1.",
+"timeline": []
+}

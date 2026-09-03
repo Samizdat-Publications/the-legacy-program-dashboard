@@ -1,0 +1,724 @@
+{
+"A": 3,
+"C": 1,
+"D": 3,
+"affiliations": [
+"US Senate (1987-2017)",
+"Senate Majority Leader (2007-2015)",
+"U.S. Senate, Nevada (1987-2017)"
+],
+"age": 82,
+"band": null,
+"chronology": [
+{
+"date": "2007-01-01",
+"event": "Works with Inouye and Stevens to direct $22M into the defense black budget for DIA aerospace threat work",
+"precision": "year"
+},
+{
+"date": "2009-01-05",
+"event": "DIA prepares talking paper for a Reid visit on AAWSAP contract status",
+"precision": "day"
+},
+{
+"date": "2009-05-04",
+"event": "Second DIA Reid-visit talking paper",
+"precision": "day"
+},
+{
+"date": "2009-06-24",
+"event": "Writes to DEPSECDEF William Lynn III requesting Restricted SAP status with a bigoted access list",
+"precision": "day"
+},
+{
+"date": "2009-11-19",
+"event": "Briefed at 4:45pm in Senate Visitor Center room SVC-217 by the Deputy Secretary of Defense; SAP request effectively refused",
+"precision": "day"
+},
+{
+"date": "2021-12-27",
+"event": "FY2022 NDAA carrying Sec. 1683 signed into law",
+"precision": "day"
+},
+{
+"date": "2021-12-28",
+"event": "Dies in Henderson, Nevada",
+"precision": "day"
+},
+{
+"date": "2021-12-28",
+"event": "Reid dies",
+"precision": "day"
+},
+{
+"date": "2023-07-13",
+"event": "Schumer names Reid as the legacy the UAPDA carries on",
+"precision": "day"
+}
+],
+"claims": [
+{
+"source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237659/",
+"text": "Signed the 24 June 2009 letter to Deputy Secretary of Defense William J. Lynn III, on Senate Majority Leader letterhead, requesting DoD place the AAITP under 'Restricted Special Access Protection'.",
+"tier": 1
+},
+{
+"source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237626/",
+"text": "DIA records him as co-sponsor with Senator Daniel Inouye (D-HI) of the language in the July 2008 Supplemental Appropriation bill directing DIA to investigate foreign advanced aerospace weapon threats 'from the present out to 40 years in the future' — a $10 million add.",
+"tier": 1
+},
+{
+"source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237614/",
+"text": "DIA Talking Paper: 'Senator Reid has a deep interest in the potential threat posed by unconventional aerospace technologies; that is, technologies that are a radical departure to those used in current advanced aerospace vehicles. He is interested in what technological \"leaps\" are feasible and their implications to US national defense.'",
+"tier": 1
+},
+{
+"source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237628/",
+"text": "Met DIA leadership on the program at least four documented times: 13 Nov 2008 (with the DIA Director), 5 Jan 2009, mid-May 2009, and 19 Nov 2009 at Senate Visitor Center SVC-217 with the Deputy Secretary of Defense present.",
+"tier": 1
+},
+{
+"source": "https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf",
+"text": "AARO Vol. I attributes the FY2008/FY2010 $22M appropriations to his direction as Senate Majority Leader.",
+"tier": 1
+},
+{
+"source": "AARO Historical Record Report Volume 1, 8 March 2024, p.22",
+"text": "'At the direction of Senate Majority Leader Harry Reid (D-NV), the Defense Appropriations Acts of Fiscal Years 2008 and 2010 appropriated $22 million for the DIA to assess long-term and over-the-horizon foreign advanced aerospace threats.'",
+"tier": 1
+},
+{
+"source": "Reid to DEPSECDEF William J. Lynn III, 24 June 2009, DIA FOIA release",
+"text": "Reid requested a 'Restricted Special-Access-Program (SAP) with a Bigoted Access List for specific portions of the AATIP', naming as protectable the methodologies for identifying and engineering advanced technologies and the involvement of private contractors and industry partners.",
+"tier": 1
+},
+{
+"source": "DIA talking paper DR_Reid_Mtg_Nov09, 19 Nov 2009",
+"text": "DIA scheduled a 19 Nov 2009 4:45pm briefing of Reid in SVC-217 to tell him the deliverables 'do not meet the criteria as specified in DoD 5200.1-R to justify the additional protection provided by a SAP.'",
+"tier": 1
+},
+{
+"source": "Harry Reid interview, Vice/KLAS Mystery Wire, 2019-2021",
+"text": "Reid said $22 million was not enough and that if the US government is not studying the subject it is malpractice.",
+"tier": 2
+},
+{
+"source": "Inference from the 24 June 2009 Reid letter read against DIA's 13 Nov 2009 SAP review memo",
+"text": "Reid's insistence on a bigoted access list for 'engineering advanced technologies' and 'involvement of private contractors' indicates he had been told something about reverse-engineering activity that does not appear anywhere in the unclassified DIRD deliverables — the reasoning being that no SAP is needed to protect 38 unclassified academic literature reviews, and DIA said exactly that in refusing him.",
+"tier": 3
+},
+{
+"source": "Schumer, quoted in Micah Hanks, The Debrief, 14 July 2023",
+"text": "Schumer: 'I am honored to carry on the legacy of my mentor and dear friend Harry Reid and fight for the transparency that the public has long demanded surrounding these unexplained phenomena.'",
+"tier": 2
+},
+{
+"source": "P.L. 117-81 approval date, GPO; public record of Reid's death",
+"text": "Reid died on 28 December 2021, one day after the enactment of P.L. 117-81, which created the office at 50 U.S.C. 3373.",
+"tier": 1
+}
+],
+"cls": "person",
+"cluster": "other",
+"conflicts": [
+"Reid's letter names the program 'Advanced Aerospace Threat and Identification Program (AAITP)', DIA's contract names it AAWSAP, and DoD's later public position uses AATIP — the naming divergence originates here."
+],
+"connections": [
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": "2009",
+"dateStart": "2009",
+"direction": "out",
+"edgeLabel": "24 July 2009 memorandum to DepSecDef Lynn seeking SAP status; denied",
+"id": "aatip",
+"l0": true,
+"label": "Advanced Aerospace Threat Identification Program (AATIP / AAITP)",
+"note": "Susan Gough authenticated the memorandum on 13 June 2019. Elizondo's and Puthoff's names were originally redacted from it and later released.",
+"sources": [
+{
+"date": "2019-06-13",
+"name": "The Black Vault — Reid memo",
+"url": "https://www.theblackvault.com/documentarchive/pentagon-reinforces-mr-luis-elizondo-had-no-responsibilities-on-aatip-senator-harry-reids-2009-memo-changes-nothing/"
+}
+],
+"tier": "A",
+"type": "legislative"
+},
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "co-sponsored FY2008 supplemental $10M add with Sen. Inouye",
+"id": "aawsap",
+"l0": true,
+"label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)",
+"note": "He is the reason the money existed. DIA records Reid as co-sponsor with Senator Daniel Inouye of the language in the July 2008 Supplemental Appropriation directing DIA to investigate far-term foreign advanced aerospace threats, which is the appropriation AAWSAP was run on.",
+"sources": [
+{
+"date": "2009-06-24",
+"name": "Letter, Sen. Harry Reid to Deputy Secretary of Defense William J. Lynn III, 24 June 2009 (DIA FOIA release)",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237659/"
+},
+{
+"date": "2009",
+"name": "USD(I) Memorandum for the Deputy Secretary of Defense, 'Senator Harry Reid's Request to Put the Advanced Aerospace Threat and Identification Program (AAITP) under Special Access Protection' (DIA FOIA release)",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237660/"
+}
+],
+"tier": "A",
+"type": "programmatic"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2023",
+"dateStart": "2023",
+"direction": "in",
+"edgeLabel": "Schumer names Reid as the legacy he is continuing",
+"id": "chuck-schumer",
+"l0": false,
+"label": "Charles E. Schumer",
+"note": "Schumer publicly framed the UAPDA as inheriting from Reid, who had funded AAWSAP through leadership discretion rather than committee process.",
+"sources": [
+{
+"date": "2023-07-14",
+"name": "The Debrief — UAP Disclosure Act of 2023",
+"url": "https://thedebrief.org/the-uap-disclosure-act-of-2023-what-we-know-about-chuck-schumer-and-the-senates-new-push-for-uap-transparency/"
+}
+],
+"tier": "B",
+"type": "behavioral"
+},
+{
+"claimTier": 1,
+"cls": "legislation",
+"dateEnd": "2010",
+"dateStart": "2007",
+"direction": "out",
+"edgeLabel": "directed the $22M appropriation",
+"id": "defense-appropriations-aawsap",
+"l0": false,
+"label": "Defense Appropriations Acts FY2008 and FY2010 — the $22M AAWSAP appropriation",
+"note": "AARO's official history states the FY2008 and FY2010 Defense Appropriations Acts appropriated $22 million to DIA 'at the direction of Senate Majority Leader Harry Reid (D-NV)'.",
+"sources": [
+{
+"date": "2024-03-08",
+"name": "AARO Historical Record Report Volume 1",
+"url": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF"
+}
+],
+"tier": "B",
+"type": "funding"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2020",
+"dateStart": "2020",
+"direction": "in",
+"edgeLabel": "Same report carried Reid's statement on retrieved materials",
+"id": "eric-davis",
+"l0": false,
+"label": "Eric W. Davis",
+"note": "In the 23 July 2020 article Reid said it was 'extremely important that information about the discovery of physical materials or retrieved craft come out', published alongside Davis's account of his briefings.",
+"sources": [
+{
+"date": "2020-07-23",
+"name": "Ralph Blumenthal, 'No Longer in the Shadows, Pentagon's U.F.O. Unit Will Make Some Findings Public', The New York Times",
+"url": "https://www.nytimes.com/2020/07/23/us/politics/pentagon-ufo-harry-reid-navy.html"
+}
+],
+"tier": "A",
+"type": "witness-chain"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2007",
+"dateStart": "1996",
+"direction": "in",
+"edgeLabel": "Knapp is credited with the Reid-Bigelow introduction",
+"id": "george-knapp",
+"l0": false,
+"label": "George Knapp",
+"note": "Recorded separately because the Reid end of the introduction is what converted private interest into federal appropriation.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Wikipedia - George Knapp",
+"url": "https://en.wikipedia.org/wiki/George_Knapp_(television_journalist)"
+}
+],
+"tier": "A",
+"type": "behavioral"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "Knapp's Lazar/S-4 reporting opened a private channel to Reid",
+"id": "klas-tv",
+"l0": false,
+"label": "KLAS-TV (Las Vegas)",
+"note": "Knapp told the Task Force that after reporting the Bob Lazar / S-4 story in 1989 he 'interviewed dozens of other people' over the years, and named the list: 'They include Senator Harry Reid; Senator Howard Cannon, also of Nevada; a guy named Al O'Donnell, who was the first general manager of EG&G in Nevada... There is a guy named Dr. James Lacatski.' The printed hearing reproduces oral statements only, so the sequence in which Knapp first approached Reid sits in his written statement at docs.house.gov and is not asserted here.",
+"sources": [
+{
+"date": "2025-09-09",
+"name": "House Oversight Task Force hearing, 9 September 2025 (CHRG-119hhrg61718)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm"
+},
+{
+"date": null,
+"name": "https://oversight.house.gov/wp-content/uploads/2025/09/George-Knapp-Written-Testimony.pdf",
+"url": "https://oversight.house.gov/wp-content/uploads/2025/09/George-Knapp-Written-Testimony.pdf"
+}
+],
+"tier": "C",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": null,
+"dateStart": "2011",
+"direction": "out",
+"edgeLabel": "Reid and Lieberman asked that the DHS prospective SAP be established with promised funding",
+"id": "kona-blue",
+"l0": true,
+"label": "KONA BLUE",
+"note": "AARO states 'Senators Lieberman and Reid asked that the PSAP be established with the promise of additional funding' - the same senator who created the DIA appropriation now seeking a DHS compartment.",
+"sources": [
+{
+"date": "2024-03-08",
+"name": "AARO Historical Record Report Volume I (DOPSR-2024-0263)",
+"url": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF"
+}
+],
+"tier": "A",
+"type": "funding"
+},
+{
+"claimTier": 2,
+"cls": "location",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "Reid's Nevada base; earmark performed by a Las Vegas constituent",
+"id": "l-lasvegas",
+"l0": false,
+"label": "Las Vegas, Nevada (alias of l-las-vegas)",
+"note": "This is not merely a home-town link. AARO's official history names 'Senate Majority Leader Harry Reid (D-NV)' as having directed the appropriation, and the federal award record places Bigelow's company in Nevada; the money Reid secured was performed by a company in the state he represented. Tier 2 because the constituent relationship is the inference joining those two documented facts, not something either document states.",
+"sources": [
+{
+"date": "2024-03-08",
+"name": "AARO, Historical Record Report Volume 1, 8 March 2024",
+"url": "https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf"
+},
+{
+"date": "2026-08-25",
+"name": "USASpending.gov federal award records for BIGELOW AEROSPACE LLC, recipient location NORTH LAS VEGAS, NV",
+"url": "https://www.usaspending.gov/search"
+},
+{
+"date": null,
+"name": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237659/",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237659/"
+},
+{
+"date": null,
+"name": "https://www.theblackvault.com/casefiles/to-the-stars-academy-of-arts-science-tom-delonge-and-the-secret-dod-ufo-research-program/",
+"url": "https://www.theblackvault.com/casefiles/to-the-stars-academy-of-arts-science-tom-delonge-and-the-secret-dod-ufo-research-program/"
+}
+],
+"tier": "C",
+"type": "geographic"
+},
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": "2012",
+"dateStart": "2007",
+"direction": "in",
+"edgeLabel": "Identified Reid as the senator who initiated and funded AATIP",
+"id": "nyt-2017-12-16",
+"l0": true,
+"label": "New York Times, 'Glowing Auras and Black Money: The Pentagon's Mysterious U.F.O. Program'",
+"note": "Reid told the Times 'I'm not embarrassed or ashamed or sorry I got this thing going' and called the appropriation 'black money'.",
+"sources": [
+{
+"date": "2017-12-16",
+"name": "New York Times (NICAP copy)",
+"url": "https://www.nicap.org/reports2/2004_20171216_NYTArt_1.pdf"
+}
+],
+"tier": "A",
+"type": "funding"
+},
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "Reid is the principal behind the 2008-2009 DIA engagements",
+"id": "reid-dia-meetings-2008-2009",
+"l0": false,
+"label": "Reid–DIA meetings on AAWSAP (Nov 2008, May 2009, Nov 2009)",
+"note": "AARO's official history states: 'At the direction of Senate Majority Leader Harry Reid (D-NV), the Defense Appropriations Acts of Fiscal Years 2008 and 2010 appropriated $22 million for the DIA to assess long-term and over-the-horizon foreign advanced aerospace threats to the United States.' It further records that on 24 June 2009 Reid wrote to Deputy Secretary of Defense William Lynn III asking that the programme be made a Special Access Program. Tier 2: AARO is an interested party in its own institutional history.",
+"sources": [
+{
+"date": "2024-03-08",
+"name": "AARO, Historical Record Report Volume 1, 8 March 2024",
+"url": "https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf"
+},
+{
+"date": null,
+"name": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF",
+"url": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "signed 24 June 2009",
+"id": "reid-letter-2009-06-24",
+"l0": false,
+"label": "Reid letter to DEPSECDEF Lynn requesting restricted SAP for AATIP (24 June 2009)",
+"note": "He signed it. The letter of 24 June 2009 to Deputy Secretary William J. Lynn III went on Senate Majority Leader letterhead - 'HARRY REID, MAJORITY LEADER, NEVADA' - and asked the Department to place the programme under a restricted special access programme.",
+"sources": [
+{
+"date": "2009-06-24",
+"name": "Letter, Sen. Harry Reid to Deputy Secretary of Defense William J. Lynn III, 24 June 2009 (DIA FOIA release)",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237659/"
+},
+{
+"date": "2009",
+"name": "USD(I) Memorandum for the Deputy Secretary of Defense, 'Senator Harry Reid's Request to Put the Advanced Aerospace Threat and Identification Program (AAITP) under Special Access Protection' (DIA FOIA release)",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237660/"
+}
+],
+"tier": "C",
+"type": "programmatic"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "2009",
+"dateStart": "2009",
+"direction": "out",
+"edgeLabel": "authored the Restricted SAP request",
+"id": "reid-sap-letter-2009",
+"l0": false,
+"label": "Reid Letter to DEPSECDEF Requesting Restricted SAP Status",
+"note": "The Senate Majority Leader asked DoD to compartment a program whose deliverables DoD would three months later describe as unclassifiable basic research.",
+"sources": [
+{
+"date": "2009-06-24",
+"name": "Reid to Lynn, 24 June 2009",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP/20090624_Reid_to_DEPSECDEF_ref_AAITP_in_SAP.pdf"
+}
+],
+"tier": "B",
+"type": "legislative"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2012",
+"dateStart": "2007",
+"direction": "in",
+"edgeLabel": "constituent relationship behind the appropriation",
+"id": "robert-bigelow",
+"l0": false,
+"label": "Robert T. Bigelow",
+"note": "Reid has said publicly that Bigelow's interest and briefings prompted him to pursue the funding; both men are Nevadans and the contract went to a Nevada firm.",
+"sources": [
+{
+"date": "2021-05-01",
+"name": "KLAS 8 News Now — Reid interview",
+"url": "https://www.8newsnow.com/investigators/i-team-former-sen-harry-reid-talks-ufos-in-sit-down-interview/"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 3,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2008",
+"direction": "out",
+"edgeLabel": "Set the leadership-discretion precedent the domain still runs on",
+"id": "senate-armed-services",
+"l0": true,
+"label": "Senate Armed Services Committee",
+"note": "The legacy effort was funded by leadership discretion outside the ordinary committee record, and every attempt to reach it since has likewise been a leadership floor amendment rather than a committee product.",
+"sources": [
+{
+"date": "2023-07-27",
+"name": "S. 2226 (Engrossed in Senate) — GPO",
+"url": "https://www.govinfo.gov/content/pkg/BILLS-118s2226es/html/BILLS-118s2226es.htm"
+}
+],
+"tier": "B",
+"type": "behavioral"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "Senate Majority Leader in 2009 - in the Gang of Eight, not in the 119(e)(2) group",
+"id": "waived-sap-notification-group",
+"l0": true,
+"label": "Waived SAP Notification Group",
+"note": "This is the cleanest demonstration that the two small groups are different sets. 50 U.S.C. 3093(c)(2) includes the majority and minority leaders of the Senate. 10 U.S.C. 119(e)(2) and 119(g) do not; they reach only committee and subcommittee chairs and ranking members. A Senate Majority Leader has no statutory entitlement to waived DoD SAP notification by virtue of that office. In 2009 the Senate armed services and appropriations seats were held by Levin, McCain, Inouye and Cochran.",
+"sources": [
+{
+"date": "2026-08-22",
+"name": "10 U.S.C. 119, Special Access Programs: congressional oversight — subsections (e)(2) and (g) (OLRC prelim text, read 22 August 2026)",
+"url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim"
+},
+{
+"date": "2026-08-22",
+"name": "50 U.S.C. 3093(c)(2), the Gang of Eight construct, for contrast with the section 119 group",
+"url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3093&num=0&edition=prelim"
+},
+{
+"date": "2026-08-22",
+"name": "U.S. Senate, Dates of Sessions of the Congress (convening dates used to date each seat)",
+"url": "https://www.senate.gov/legislative/DatesofSessionsofCongress.htm"
+},
+{
+"date": "2009-06-24",
+"name": "Letter, Sen. Harry Reid to Deputy Secretary of Defense William J. Lynn III, 24 June 2009 (DIA FOIA release)",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237659/"
+},
+{
+"date": null,
+"name": "https://www.govinfo.gov/content/pkg/GPO-CPUB-111spub13/html/GPO-CPUB-111spub13.htm",
+"url": "https://www.govinfo.gov/content/pkg/GPO-CPUB-111spub13/html/GPO-CPUB-111spub13.htm"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "2009",
+"dateStart": "2009",
+"direction": "in",
+"edgeLabel": "in-person refusal of the SAP request",
+"id": "william-lynn",
+"l0": false,
+"label": "William J. Lynn III",
+"note": "DIA's talking paper for the 19 November 2009 4:45pm meeting directs that Reid be told the deliverables do not meet DoD 5200.1-R criteria for SAP protection.",
+"sources": [
+{
+"date": "2009-11-19",
+"name": "DIA talking paper, November 2009",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP/DR_Reid_Mtg_Nov09.pdf"
+}
+],
+"tier": "B",
+"type": "denial"
+}
+],
+"date": "2009-06-24",
+"dateEnd": null,
+"dateStart": "2009-06-24",
+"deg": 17,
+"denials": [
+{
+"by": {
+"id": "william-lynn",
+"label": "William J. Lynn III"
+},
+"claimTier": 1,
+"denialKind": "directed",
+"label": "in-person refusal of the SAP request",
+"note": "DIA's talking paper for the 19 November 2009 4:45pm meeting directs that Reid be told the deliverables do not meet DoD 5200.1-R criteria for SAP protection.",
+"of": {
+"id": "harry-reid",
+"label": "Harry M. Reid"
+},
+"sources": [
+{
+"date": "2009-11-19",
+"name": "DIA talking paper, November 2009",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP/DR_Reid_Mtg_Nov09.pdf"
+}
+]
+}
+],
+"domains": [
+"_rs-aawsap-dirds",
+"_rs-archive-mirror",
+"aawsap-aatip",
+"congress-senate-legislation"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "2",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "harry-reid",
+"instId": "us-senate",
+"l0": false,
+"label": "Harry M. Reid",
+"loc": "Washington, DC",
+"locId": "l-dc",
+"members": null,
+"narrative": "Reid is the appropriator who created the funded lineage and then tried to seal it. As Majority Leader he worked with Appropriations chairman Daniel Inouye and Ted Stevens in 2007 to direct roughly $22 million into the defense black budget for what became AAWSAP at DIA — AARO's own 2024 report states flatly that 'at the direction of Senate Majority Leader Harry Reid (D-NV), the Defense Appropriations Acts of Fiscal Years 2008 and 2010 appropriated $22 million for the DIA.' Reid took repeated DIA briefings on contract status: talking papers survive from January 2009, May 2009 and November 2009. On 24 June 2009 he wrote to Deputy Secretary of Defense William Lynn III requesting that portions of what he called the 'Advanced Aerospace Threat and Identification Program' be placed in a Restricted Special Access Program with a bigoted access list, protecting methodologies for identifying and engineering advanced technologies, personnel and oversight details, and the involvement of private contractors and industry partners. That letter is the most important single document in this domain because it establishes that the Senate Majority Leader believed the program was producing something warranting SAP protection with a compartmented access list. DoD refused. Reid later said publicly that $22 million was not enough and that failing to study the subject would be malpractice, and called the program one of the good things he did in his congressional service. He died 28 December 2021.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Harry M. Reid",
+"sources": [
+{
+"date": "2009-06-24",
+"name": "Letter, Sen. Harry Reid to Deputy Secretary of Defense William J. Lynn III, 24 June 2009 (DIA FOIA release)",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237659/"
+},
+{
+"date": "2009",
+"name": "USD(I) Memorandum for the Deputy Secretary of Defense, 'Senator Harry Reid's Request to Put the Advanced Aerospace Threat and Identification Program (AAITP) under Special Access Protection' (DIA FOIA release)",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237660/"
+},
+{
+"date": "2010",
+"name": "DIA Info Memo U-10-2552 to USD(AT&L), 'Advanced Aerospace Threat and Identification Program' (DIA FOIA release)",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237626/"
+},
+{
+"date": "2009-11-19",
+"name": "DIA Read Ahead, 'DIA visit with Senator Harry Reid', 19 Nov 09, Capitol SVC-217 (DIA FOIA release)",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237628/"
+},
+{
+"date": "2009-05-04",
+"name": "DIA Talking Paper U-973-09, 'Senator Reid Visit to Director, DIA', 04 May 2009 (DIA FOIA release)",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237614/"
+},
+{
+"date": "2024-03-08",
+"name": "AARO, Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP), Volume I",
+"url": "https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf"
+},
+{
+"date": "2025-03-13",
+"name": "Archived: Letter, Sen. Harry Reid to Deputy Secretary of Defense William J. Lynn III, 24 June 2009 (DIA FOIA release) (Wayback 2025-03-13)",
+"url": "https://web.archive.org/web/20250313031154/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170016/"
+},
+{
+"date": "2026-04-11",
+"name": "Archived: USD(I) Memorandum for the Deputy Secretary of Defense, 'Senator Harry Reid's Request to Put the Advanced Aerospace Threat and Identification Program (AAITP) under Special Access Protection' (DIA FOIA release) (Wayback 2026-04-11)",
+"url": "https://web.archive.org/web/20260411145317/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170015/"
+},
+{
+"date": "2025-03-17",
+"name": "Archived: DIA Info Memo U-10-2552 to USD(AT&L), 'Advanced Aerospace Threat and Identification Program' (DIA FOIA release) (Wayback 2025-03-17)",
+"url": "https://web.archive.org/web/20250317081516/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170059/"
+},
+{
+"date": "2025-03-10",
+"name": "Archived: DIA Read Ahead, 'DIA visit with Senator Harry Reid', 19 Nov 09, Capitol SVC-217 (DIA FOIA release) (Wayback 2025-03-10)",
+"url": "https://web.archive.org/web/20250310024204/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170056/"
+},
+{
+"date": "2025-03-19",
+"name": "Archived: DIA Talking Paper U-973-09, 'Senator Reid Visit to Director, DIA', 04 May 2009 (DIA FOIA release) (Wayback 2025-03-19)",
+"url": "https://web.archive.org/web/20250319072831/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170055/"
+},
+{
+"date": "2026-05-08",
+"name": "Archived: AARO, Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP), Volume I (Wayback 2026-05-08)",
+"url": "https://web.archive.org/web/20260508180210/https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf"
+},
+{
+"date": "2026-07-05",
+"name": "Archived: AARO Historical Record Report Volume 1 (Wayback 2026-07-05)",
+"url": "https://web.archive.org/web/20260705034310/https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF"
+},
+{
+"date": "2009-06-24",
+"name": "Reid to DEPSECDEF Lynn, SAP request",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP/20090624_Reid_to_DEPSECDEF_ref_AAITP_in_SAP.pdf"
+},
+{
+"date": "2009-11-19",
+"name": "DIA talking paper — Senator Reid meeting, November 2009",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP/DR_Reid_Mtg_Nov09.pdf"
+},
+{
+"date": "2024-03-08",
+"name": "AARO Historical Record Report Volume 1",
+"url": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF"
+},
+{
+"date": "2021-06-13",
+"name": "Honolulu Civil Beat — How Hawaii Sen. Dan Inouye Helped Set The Stage For UFO Research",
+"url": "https://www.civilbeat.org/2021/06/how-hawaii-sen-dan-inouye-helped-set-the-stage-for-ufo-research/"
+},
+{
+"date": "2023-07-14",
+"name": "The Debrief — 'The UAP Disclosure Act of 2023'",
+"url": "https://thedebrief.org/the-uap-disclosure-act-of-2023-what-we-know-about-chuck-schumer-and-the-senates-new-push-for-uap-transparency/"
+},
+{
+"date": "2021-12-27",
+"name": "P.L. 117-81, FY2022 NDAA — GPO",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-117publ81/html/PLAW-117publ81.htm"
+}
+],
+"status": "active",
+"sub": "US Senator (D-NV); Senate Majority Leader 2007-2015",
+"tier": "A",
+"tierRationale": "Re-graded A on a global pass (rank 37 of 1027, score 90). 17 connections, 6 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D3.",
+"timeline": [
+{
+"date": "2009-01-05",
+"id": "tl-2009-reidjan",
+"label": "DIA talking paper for Reid visit",
+"precision": "day",
+"strand": "oversight",
+"text": "DIA prepares a talking paper for a Senator Reid visit on AAWSAP contract status — the first of three surviving Reid briefing papers from 2009.",
+"tier": "B"
+},
+{
+"date": "2009-05-08",
+"id": "tl-2009-reidmay",
+"label": "May 2009 Reid briefing",
+"precision": "day",
+"strand": "oversight",
+"text": "DIA briefs Reid on contract status; the meeting generates the request that produces the October deliverables quality review.",
+"tier": "B"
+},
+{
+"date": "2021-12-28",
+"id": "tl-2021-reiddeath",
+"label": "Harry Reid dies",
+"precision": "day",
+"strand": "oversight",
+"text": "The senator who created the funded lineage and was refused the SAP he asked for dies in Henderson, Nevada.",
+"tier": "A"
+}
+],
+"unexplainedResidual": null,
+"unverified": []
+}

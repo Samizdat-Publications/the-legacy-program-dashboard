@@ -1,0 +1,140 @@
+{
+"A": 3,
+"C": 2,
+"D": 2,
+"band": null,
+"claims": [
+{
+"source": "Robertson Panel report",
+"text": "CIA's Office of Scientific Intelligence convened the Robertson Panel in January 1953.",
+"tier": 1
+},
+{
+"source": "DIA AAWSAP contract file; OUSDI Info Memo on AATIP",
+"text": "DIA solicited AAWSAP in August 2008 and OUSD(I) reviewed a special access programme request relating to its successor in November 2009.",
+"tier": 1
+},
+{
+"source": "ODNI Preliminary Assessment",
+"text": "ODNI published the Preliminary Assessment: Unidentified Aerial Phenomena on 25 June 2021.",
+"tier": 1
+},
+{
+"source": "Haines, Studies in Intelligence (1997)",
+"text": "CIA's own historian conceded in Studies in Intelligence that the agency's role in the study of UFOs included shaping public explanations for classified overflights.",
+"tier": 1
+}
+],
+"cls": "domain",
+"cluster": "other",
+"connections": [
+{
+"claimTier": 1,
+"cls": "domain",
+"dateEnd": null,
+"dateStart": "1953-01-17",
+"direction": "out",
+"edgeLabel": "CIA convened the panel that recommended debunking",
+"id": "d-coverup",
+"l0": false,
+"label": "The Cover-Up",
+"note": "The Robertson Panel was convened by CIA's Office of Scientific Intelligence, placing the recommendation inside the intelligence community rather than the Air Force.",
+"sources": [
+{
+"date": "1953-01-17",
+"name": "Robertson Panel report (declassified text)",
+"url": "http://www.cufon.org/cufon/robert.htm"
+}
+],
+"tier": "A",
+"type": "programmatic"
+},
+{
+"claimTier": 3,
+"cls": "domain",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "Elements and tradecraft",
+"id": "d-intel",
+"l0": false,
+"label": "Intelligence Tradecraft & Analysis",
+"note": "The federated IC structure determines which element collects and analyses, and the seams between elements are where an activity can be nobody's to report.",
+"sources": [
+{
+"date": "2024-02-01",
+"name": "AARO, Historical Record Report Volume I",
+"url": "https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf"
+}
+],
+"tier": "C",
+"type": "institutional"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "1947-09-18",
+"deg": 2,
+"denials": [],
+"desc": "The intelligence community is not one organisation but a federation of elements with distinct legal authorities, distinct appropriations and distinct oversight committees, and that federated structure is itself a concealment resource - an activity can be positioned in the seam between two elements' jurisdictions and be nobody's to report. The documented UAP-relevant history runs through several of them: CIA's Office of Scientific Intelligence convened the Robertson Panel in 1953 and CIA's own in-house historian later admitted the agency's role in shaping public explanations; NSA fought and won FOIA litigation to withhold the substance of its holdings; DIA solicited, awarded and administered AAWSAP from 2008 and considered converting its successor into a special access programme in 2009; and ODNI produced the June 2021 preliminary assessment and now houses the annual reporting requirement. The Intelligence Community Inspector General is the structural pressure point, because it is the only channel through which an IC employee can lawfully raise an urgent concern that reaches Congress. Scoring high on this domain means an entity held an IC billet, ran an IC element, or exercised IC authority over the subject.",
+"domains": [
+"_rs-archive-mirror",
+"_stubs",
+"w2-taxonomy"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "d-ic",
+"l0": false,
+"label": "Intelligence Community",
+"locLabel": null,
+"members": null,
+"short": "Intelligence Community",
+"sources": [
+{
+"date": "2026-08-11",
+"name": "Archived: ODNI, Preliminary Assessment: Unidentified Aerial Phenomena (Wayback 2026-08-11)",
+"url": "https://web.archive.org/web/20260811043206/https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf"
+},
+{
+"date": "2021-06-25",
+"name": "ODNI, Preliminary Assessment: Unidentified Aerial Phenomena",
+"url": "https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf"
+},
+{
+"date": "1997-01-01",
+"name": "Gerald K. Haines, 'CIA's Role in the Study of UFOs, 1947-1990', Studies in Intelligence",
+"url": "https://www.cia.gov/resources/csi/studies-in-intelligence/studies-in-intelligence-1997/cias-role-in-the-study-of-ufos-1947-1990/"
+},
+{
+"date": "2009-11-01",
+"name": "DIA - OUSDI Info Memo on AATIP (Review of Special Access Program Request)",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP/OUSDI_IM_on_AATIP_Final.pdf"
+},
+{
+"date": "1953-01-17",
+"name": "Robertson Panel report (declassified text)",
+"url": "http://www.cufon.org/cufon/robert.htm"
+},
+{
+"date": "2026-08-12",
+"name": "NSF master government list of FFRDCs",
+"url": "https://www.nsf.gov/statistics/ffrdclist/"
+},
+{
+"date": "2026-08-12",
+"name": "Domain definition written for this board; see SCHEMA.md",
+"url": ""
+}
+],
+"sub": "Institutional domain - the eighteen elements, their separate authorities, and where UAP work sat",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 274 of 1027, score 38). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A3/D2.",
+"timeline": []
+}

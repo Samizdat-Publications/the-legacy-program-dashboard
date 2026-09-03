@@ -1,0 +1,152 @@
+{
+"A": 1,
+"C": 0,
+"D": 2,
+"affiliations": [
+"KMGH-TV Denver (Director of Special Projects, 1970s-1983)",
+"Independent documentary production; Earthfiles"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "1980-05-25",
+"event": "Her documentary 'A Strange Harvest' on cattle mutilations airs; brings her to official notice.",
+"precision": "day"
+},
+{
+"date": "1983-01-01",
+"event": "HBO documentary project subsequently collapses when promised government film footage is not provided.",
+"precision": "year"
+},
+{
+"date": "1983-04-09",
+"event": "Meets Richard Doty at Kirtland AFB and is shown a document she is not permitted to copy.",
+"precision": "day"
+}
+],
+"claims": [
+{
+"source": "Linda Moulton Howe, contemporaneous notes and consistent public accounts, 1983-present",
+"text": "Howe states that AFOSI Special Agent Richard Doty showed her at Kirtland AFB in April 1983 a paper describing US recovery of craft and biological entities, and that she was permitted to read but not copy it.",
+"tier": 2
+},
+{
+"source": "Inference from common location (Albuquerque/Kirtland), common timeframe, and Doty's and Moore's admitted roles as conduits in both channels.",
+"text": "The 'Project Aquarius' paper shown to Howe and the MJ-12 film mailed to Shandera from Albuquerque twenty months later originated from the same operation.",
+"tier": 3
+}
+],
+"cls": "person",
+"cluster": "media",
+"conflicts": [
+"The National Archives searched NSC Policy Paper and Meeting Minute indexes under the subject term 'Aquarius' among others and found nothing."
+],
+"connections": [
+{
+"claimTier": 2,
+"cls": "program",
+"dateEnd": "1983",
+"dateStart": "1983",
+"direction": "out",
+"edgeLabel": "Howe is the only named witness to the AQUARIUS paper's text",
+"id": "project-aquarius",
+"l0": false,
+"label": "Project AQUARIUS (alleged)",
+"note": "No copy of the document has ever surfaced in any archive or FOIA release; Howe's notes are the sole record of its content.",
+"sources": [
+{
+"date": "2016-08-15",
+"name": "National Archives, 'Project BLUE BOOK - Unidentified Flying Objects' reference report (incl. MJ-12 / Cutler-Twining findings)",
+"url": "https://www.archives.gov/research/military/air-force/ufos"
+},
+{
+"date": "2021-05-20",
+"name": "Richard Doty Personnel File - New Mexico State Police [321 pages], NM Inspection of Public Records Act release",
+"url": "https://www.theblackvault.com/documentarchive/richard-doty-personnel-file-new-mexico-state-police/"
+}
+],
+"tier": "C",
+"type": "witness-chain"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "1983",
+"dateStart": "1983",
+"direction": "in",
+"edgeLabel": "Doty showed Howe a purported classified briefing paper at Kirtland, April 1983",
+"id": "richard-doty",
+"l0": false,
+"label": "Richard C. Doty",
+"note": "Howe's contemporaneous notes record being permitted to read but not copy a document describing retrieved craft and biological entities, with a promise of film footage that was never delivered.",
+"sources": [
+{
+"date": "2021-05-20",
+"name": "Richard Doty Personnel File - New Mexico State Police [321 pages], NM Inspection of Public Records Act release",
+"url": "https://www.theblackvault.com/documentarchive/richard-doty-personnel-file-new-mexico-state-police/"
+},
+{
+"date": "2016-08-15",
+"name": "National Archives, 'Project BLUE BOOK - Unidentified Flying Objects' reference report (incl. MJ-12 / Cutler-Twining findings)",
+"url": "https://www.archives.gov/research/military/air-force/ufos"
+}
+],
+"tier": "B",
+"type": "behavioral"
+}
+],
+"date": "1983-04-09",
+"dateEnd": null,
+"dateStart": "1983-04-09",
+"deg": 2,
+"denials": [],
+"domains": [
+"history-1970s-2000s"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "1",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "linda-moulton-howe",
+"instId": null,
+"l0": false,
+"label": "Linda Moulton Howe",
+"loc": "Albuquerque, NM",
+"locId": "l-kirtland",
+"members": null,
+"narrative": "Howe was an Emmy-winning Denver television producer whose 1980 documentary on cattle mutilations brought her to the attention of AFOSI. In April 1983, while developing an HBO documentary, she was invited to Kirtland AFB and met Richard Doty, who showed her a typed paper he described as a government briefing on retrieved craft and occupants - the material that entered the literature as the 'Project Aquarius' teletype. She was permitted to read it and take notes but not to copy it, and she was told a film of the subject would be made available for her documentary. It never was; the HBO project collapsed. Howe's account is important precisely because of its shape: an American journalist was shown a purported classified document by a serving counterintelligence agent on a military installation, and then the promised material evaporated. Whether the paper was authentic or fabricated, the operation is the same one that was run on Bennewitz, applied to a broadcaster instead of a physicist. Howe has told the story consistently for over forty years and her contemporaneous notes are the only surviving record of the document's text.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Linda Moulton Howe",
+"sources": [
+{
+"date": "2021-05-20",
+"name": "Richard Doty Personnel File - New Mexico State Police [321 pages], NM Inspection of Public Records Act release",
+"url": "https://www.theblackvault.com/documentarchive/richard-doty-personnel-file-new-mexico-state-police/"
+},
+{
+"date": "2016-08-15",
+"name": "National Archives, 'Project BLUE BOOK - Unidentified Flying Objects' reference report (incl. MJ-12 / Cutler-Twining findings)",
+"url": "https://www.archives.gov/research/military/air-force/ufos"
+},
+{
+"date": "1997-01-01",
+"name": "Gerald K. Haines, 'CIA's Role in the Study of UFOs, 1947-90', Studies in Intelligence (CIA), archived copy",
+"url": "https://www.theblackvault.com/documentarchive/cias-role-in-the-study-of-ufos-1947-90/"
+}
+],
+"status": "active",
+"sub": "Documentary producer (HBO, KMGH-TV Denver); shown the 'Project Aquarius' paper at Kirtland AFB, 1983",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 878 of 1027, score 15). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A1/D2.",
+"timeline": [],
+"unexplainedResidual": null,
+"unverified": [
+"No copy of the document Howe was shown has ever surfaced in any archive or FOIA release."
+]
+}

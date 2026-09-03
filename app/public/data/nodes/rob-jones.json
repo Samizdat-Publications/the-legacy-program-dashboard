@@ -1,0 +1,127 @@
+{
+"A": 0,
+"C": 0,
+"D": 2,
+"affiliations": [
+"NewsNation Reality Check (research producer)"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "2026-05-12",
+"event": "UAP Gerb livestream credits Jones with surfacing details on a new alleged legacy-program gatekeeper.",
+"precision": "day"
+},
+{
+"date": "2026-08-04",
+"event": "Credited as research producer on the Coulthart/Gerb Kona Blue episode.",
+"precision": "day"
+}
+],
+"claims": [
+{
+"source": "NewsNation Reality Check episode credits, 4 August 2026 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"text": "Rob Jones is credited as Research Producer on NewsNation's Reality Check.",
+"tier": 2
+},
+{
+"source": "UAP Gerb livestream description, 12 May 2026",
+"text": "Jones surfaced 'details on a new alleged gatekeeper' which UAP Gerb discussed on his 12 May 2026 livestream.",
+"tier": 2
+}
+],
+"cls": "person",
+"cluster": "media",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 2,
+"cls": "program",
+"dateEnd": "2026",
+"dateStart": "2026",
+"direction": "out",
+"edgeLabel": "Credited research producer",
+"id": "newsnation-reality-check",
+"l0": false,
+"label": "Reality Check with Ross Coulthart (NewsNation)",
+"note": "Named in the on-screen credits of the 4 August 2026 episode.",
+"sources": [
+{
+"date": "2026-08-04",
+"name": "NewsNation Reality Check - 'Inside Kona Blue'",
+"url": "https://www.youtube.com/watch?v=F2NfXgv8x1E"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2026",
+"dateStart": "2026",
+"direction": "out",
+"edgeLabel": "NewsNation research producer supplied gatekeeper leads to Gerb",
+"id": "uap-gerb",
+"l0": false,
+"label": "'UAP Gerb' (Sam)",
+"note": "Gerb's 12 May 2026 livestream describes 'details on a new alleged gatekeeper presented by NewsNation's Rob Jones', establishing a working research pipeline between the network desk and the independent investigator.",
+"sources": [
+{
+"date": "2026-05-12",
+"name": "UAP Gerb Live - 12 May 2026",
+"url": "https://www.youtube.com/watch?v=iAWD4irLMZM"
+}
+],
+"tier": "A",
+"type": "investigative"
+}
+],
+"date": "2026-08-04",
+"dateEnd": null,
+"dateStart": "2026-08-04",
+"deg": 2,
+"denials": [],
+"domains": [
+"media-structure"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "rob-jones",
+"instId": "newsnation",
+"l0": false,
+"label": "Rob Jones",
+"loc": "New York, NY",
+"locId": "l-nyc",
+"members": null,
+"narrative": "Rob Jones is the research producer on Ross Coulthart's Reality Check and, unusually for a below-the-line credit, an identifiable actor in the structural investigation. UAP Gerb's 12 May 2026 livestream describes Jones surfacing 'details on a new alleged gatekeeper' - meaning a NewsNation staff researcher is independently producing names for the gatekeeper roster that Gerb's videos then work into the org chart. Jones appears alongside Gerb on repeated livestreams. His presence is the clearest evidence that the Gerb reconstruction is not a solitary YouTube project but is being co-produced with a network research desk.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Rob Jones",
+"sources": [
+{
+"date": "2026-08-04",
+"name": "NewsNation Reality Check - Kona Blue episode credits",
+"url": "https://www.youtube.com/watch?v=F2NfXgv8x1E"
+},
+{
+"date": "2026-05-12",
+"name": "UAP Gerb Live - 12 May 2026",
+"url": "https://www.youtube.com/watch?v=iAWD4irLMZM"
+}
+],
+"status": "active",
+"sub": "Research producer, NewsNation Reality Check",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 979 of 1027, score 10). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D2.",
+"timeline": [],
+"unexplainedResidual": null,
+"unverified": []
+}

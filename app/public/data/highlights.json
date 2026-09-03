@@ -1,0 +1,85 @@
+{
+ "cap": "The generator refuses more than 15% of the map, which is 16 of 110. This is 14, leaving room for two more without a rebuild.",
+ "flags": [
+  {
+   "id": "aawsap",
+   "rank": 1,
+   "why": "Start here. The $22M DIA contract that produced 38 technical reports, the largest node on the map at 82 members. Everything downstream -- the DIRDs, BAASS, the human-effects work, Reid's SAP request -- hangs off this one award."
+  },
+  {
+   "id": "waived-sap-notification-group",
+   "rank": 2,
+   "why": "The whole concealment argument in one node. A waived special access programme is reportable to the chair and ranking member of six committees -- twelve seats -- and 10 U.S.C. 119 requires no public record that a waiver was ever used."
+  },
+  {
+   "id": "usc-10-119",
+   "rank": 3,
+   "why": "Read straight after the notification group. Subsections (a) and (b) terminated on 31 December 2021, yet DoD still designates programmes 'waived' under this section. The reporting duty the waiver waives no longer exists."
+  },
+  {
+   "id": "aaro-historical-record-vol1",
+   "rank": 4,
+   "why": "The board's heaviest denial issuer: ten denials issued, eight received. It disposes of the reverse-engineering allegations as 'circular reporting' and contains zero occurrences of the word Wilson across all 63 pages."
+  },
+  {
+   "id": "aaro",
+   "rank": 5,
+   "why": "The most connected node on the map, and deliberately not the most credible one. Claims sourced to it cap at Tier 2 unless the claim is about what it said. Size here means implicated, not authoritative."
+  },
+  {
+   "id": "mitre-corporation",
+   "rank": 6,
+   "why": "How a private organisation gets government access without government accountability. Its DHS sponsoring agreement preserves MITRE staff's right to report violations of law to Congress and strikes that same carve-back for subcontractors."
+  },
+  {
+   "id": "carve-out",
+   "rank": 7,
+   "why": "The switch that turns off industrial security oversight. 32 CFR 117.6(b)(3) relieves DCSA of its oversight function for a SAP when the Secretary or Deputy Secretary approves it. One signature, and the auditor stops coming."
+  },
+  {
+   "id": "dod-agencywide-audit",
+   "rank": 8,
+   "why": "Follow the money and it ends here. The Department has never passed an audit, and the unsupported journal-voucher adjustments are the mechanism by which money can move without being followed."
+  },
+  {
+   "id": "immaculate-constellation",
+   "rank": 9,
+   "why": "Five denials received, one issued -- the most-denied node on the board. A twelve-page report entered into a congressional hearing record that the Department says does not exist as a programme."
+  },
+  {
+   "id": "kona-blue",
+   "rank": 10,
+   "why": "The one place the government's own account and the whistleblower account agree on the facts and disagree only on what they mean. AARO confirms the proposal existed and was terminated; the dispute is whether anything preceded it."
+  },
+  {
+   "id": "wilson-davis-memo",
+   "rank": 11,
+   "why": "The document AARO's historical record never mentions. Whatever it is worth, its complete absence from the official rebuttal is a fact about the rebuttal."
+  },
+  {
+   "id": "uapda-2023",
+   "rank": 12,
+   "why": "What passed the Senate and what survived conference are different documents. The Review Board and the eminent-domain provision went in and came out, and the enacted section is a funding limitation with no turn-in mandate at all."
+  },
+  {
+   "id": "geipan",
+   "rank": 13,
+   "why": "The counter-example. France has run a state-funded UAP office inside its space agency since 1977, with a public case database. Nothing about the subject makes official study impossible."
+  },
+  {
+   "id": "operacao-prato",
+   "rank": 14,
+   "why": "Brazil ran a military field operation, declassified the files into its national archive, and its Senate cited them by reference code. The board also found that this material reached US hands three times -- and every channel was private, none state to state."
+  }
+ ],
+ "generated": "2026-09-02",
+ "leftOff": [
+  "dird-series -- 39 members but it is a document series, a shelf label rather than a claim about the programme. Its individual papers are now wired to their authors, which is the more useful route in.",
+  "pursue-releases -- high degree and very current, but the record is still thin and mostly secondary. It would send a first-time reader to the weakest evidence on the board.",
+  "langley-2023-incursions -- compelling and recent, but its load-bearing concealment claim rests on a single small outlet and needs a FOIA to harden.",
+  "setka-program -- a good counter-example, but it rests almost entirely on one paper by the programme's own coordinators. GEIPAN and Operacao Prato carry the same argument with better sourcing.",
+  "nara-rg615 -- the statutory records collection matters, but it reads as administrative until a reader already knows why the records are contested."
+ ],
+ "rule": "Fourteen nodes chosen so that a reader who opens all of them, in order, has walked the argument end to end: what the programme is, who paid, who held material, who denied it, what the law allows, and what other states did differently. Ranked by where a stranger should start, not by size. Two are here because the board itself found something nobody had noticed.",
+ "source": "687756664d3a"
+}

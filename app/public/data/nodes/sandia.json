@@ -1,0 +1,339 @@
+{
+"A": 3,
+"C": 3,
+"D": 1,
+"band": "research",
+"claims": [
+{
+"source": "DIA memo U-429-09-DWO-IM, 30 October 2009",
+"text": "Three staff members of Sandia National Laboratories were among the five outside reviewers of the FY09 AAWSAP technical reports.",
+"tier": 1
+},
+{
+"source": "Inference from the timing of the review memo relative to the SAP decision chain",
+"text": "Sandia's involvement as reviewer rather than author indicates DIA sought institutional cover for the technical credibility of an unconventional portfolio it expected to have to defend — which it did, five weeks later, to the Deputy Secretary of Defense.",
+"tier": 3
+},
+{
+"source": "NSF NCSES Master Government List of FFRDCs; CRS Report R44629 funding table",
+"text": "Sandia National Laboratories is a DOE FFRDC administered by National Technology & Engineering Solutions of Sandia, LLC since 1 May 2017, and received approximately $4,584.0 million in FY2024 - the largest FFRDC funding figure in the United States.",
+"tier": 1
+},
+{
+"source": "AFOSI documents released under FOIA and archived by NICAP",
+"text": "AFOSI Complaint Form dated 9 September 1980, filed by Special Agent Richard C. Doty (District File No. 8017D93-0/29), records the 8 August 1980 observation by SSgt Stephen Ferenz, ATC Martin W. Rist and AMN Anthony D. Frazier of 1608 SPS of a bright light making stop-and-go manoeuvres near the Manzano restricted test range, which landed in Coyote Canyon and departed vertically at high speed.",
+"tier": 1
+},
+{
+"source": "AFOSI documents released under FOIA and archived by NICAP",
+"text": "The same AFOSI file records a Sandia security guard observing a round disc-shaped object near an alarmed structure at approximately 00:20 on 9 August 1980, with his radio malfunctioning during the encounter.",
+"tier": 1
+},
+{
+"source": "Greg Bishop, Project Beta; Doty's own subsequent public statements, including his 2014 acknowledgements reported by HuffPost",
+"text": "AFOSI Special Agent Richard Doty was the conduit for fabricated documents supplied to Albuquerque physicist Paul Bennewitz, whose company Thunder Scientific operated adjacent to Kirtland AFB, in an operation that culminated in Bennewitz's psychiatric collapse.",
+"tier": 2
+},
+{
+"source": "Reading of the AFOSI complaint form as archived by NICAP",
+"text": "The 1980 Kirtland incident file is the clearest documented convergence of a contractor-operated national laboratory, an Air Force counterintelligence office and a nuclear weapons storage site in a single anomalous-object case. Reasoning: the AFOSI complaint form names all three in one document; no claim is made that Sandia investigated the object.",
+"tier": 3
+}
+],
+"cls": "institution",
+"cluster": "ffrdc",
+"connections": [
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "1959",
+"dateStart": "1959",
+"direction": "in",
+"edgeLabel": "A numbered copy went to Sandia's document control division",
+"id": "afswc-tr-59-39",
+"l0": true,
+"label": "AFSWC TR-59-39 Vol I, A Study of Lunar Research Flights, 19 June 1959",
+"note": "The distribution list reads 'President, Sandia Corporation, ATTN: Document Control Division, Sandia Base, NMex'; the board's sandia node is the same site under its later name.",
+"sources": [
+{
+"date": "1959-06-19",
+"name": "AFSWC TR-59-39 Vol I, A Study of Lunar Research Flights, DDC AD 425380",
+"url": "https://archive.org/details/DTIC_AD0425380"
+}
+],
+"tier": "A",
+"type": "custody"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "Sandia Base operations and the 1947 split of security and intelligence duties with the AEC",
+"id": "afswp",
+"l0": false,
+"label": "Armed Forces Special Weapons Project",
+"note": "The agency history places AFSWP's training and assembly work at Sandia Base alongside AEC-controlled Z Division, and records that in March 1947 the AEC Santa Fe Office and AFSWP at Sandia Base divided security and intelligence responsibilities.",
+"sources": [
+{
+"date": "2002-01-01",
+"name": "Defense's Nuclear Agency 1947-1997, ch. 'The Post-War Transition' and Appendix C chronology",
+"url": "https://archive.org/download/DTIC_ADA412977/DTIC_ADA412977_djvu.txt"
+}
+],
+"tier": "B",
+"type": "geographic"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "2009",
+"dateStart": "2009",
+"direction": "out",
+"edgeLabel": "three Sandia staff among the five outside reviewers",
+"id": "dia-deliverables-review-2009",
+"l0": false,
+"label": "DIA Memorandum: Review of Advanced Aerospace Contract Deliverables (U-429-09-DWO-IM)",
+"note": "A DOE weapons laboratory peer-reviewed the AAWSAP physics portfolio and DIA recorded the reviews as positive, some exceptionally so.",
+"sources": [
+{
+"date": "2009-10-30",
+"name": "DIA memo U-429-09-DWO-IM",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP/U-429-09-DWO-IM.pdf"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "1949",
+"direction": "in",
+"edgeLabel": "DOE/NNSA management and operating contract; Sandia",
+"id": "doe",
+"l0": true,
+"label": "United States Department of Energy",
+"note": "Sandia is an NNSA laboratory adjacent to Kirtland AFB and the Manzano Weapons Storage Area, the site of the 1980 intrusions investigated by AFOSI.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "NNSA - About NNSA",
+"url": "https://www.energy.gov/nnsa/about-nnsa"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": "1980",
+"dateStart": "1980",
+"direction": "in",
+"edgeLabel": "A Sandia security guard is a named reporting party in the AFOSI file",
+"id": "kirtland-manzano-1980",
+"l0": false,
+"label": "Kirtland AFB / Manzano Weapons Storage Area incident",
+"note": "A Sandia guard reported a round disc-shaped object near an alarmed structure at approximately 00:20 on 9 August 1980, with radio malfunction.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "NICAP - Kirtland AFB FOIA files",
+"url": "https://www.nicap.org/foia_003.htm"
+}
+],
+"tier": "B",
+"type": "witness-chain"
+},
+{
+"claimTier": 2,
+"cls": "location",
+"dateEnd": null,
+"dateStart": "1949",
+"direction": "out",
+"edgeLabel": "Sandia National Laboratories is adjacent to Kirtland AFB",
+"id": "l-kirtland",
+"l0": false,
+"label": "Kirtland Air Force Base and Albuquerque, New Mexico",
+"note": "Sandia, descended from the Manhattan Project's Z Division, sits adjacent to Kirtland; Bennewitz licensed his humidity sensor technology from Sandia in 1966.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Wikipedia - Kirtland Air Force Base",
+"url": "https://en.wikipedia.org/wiki/Kirtland_Air_Force_Base"
+},
+{
+"date": "2026-08-12",
+"name": "Wikipedia - Paul Bennewitz",
+"url": "https://en.wikipedia.org/wiki/Paul_Bennewitz"
+}
+],
+"tier": "B",
+"type": "geographic"
+},
+{
+"claimTier": 2,
+"cls": "program",
+"dateEnd": "2026",
+"dateStart": "1949",
+"direction": "in",
+"edgeLabel": "Sandia named as an AEC-lineage custodial laboratory",
+"id": "manhattan-project-2",
+"l0": true,
+"label": "'Manhattan Project 2.0' (alleged secrecy architecture)",
+"note": "Gerb's Sandia investigation of 1 November 2025 supplies the named-institution case for the AEC-custody thesis, citing Edgar Fouche and former New Mexico State Representative J. Andrew Kissner.",
+"sources": [
+{
+"date": "2025-11-01",
+"name": "UAP Gerb - Sandia investigation",
+"url": "https://www.youtube.com/watch?v=mHkPHd_eOXI"
+}
+],
+"tier": "A",
+"type": "custody"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "1949",
+"deg": 7,
+"denials": [],
+"desc": "Sandia is the largest FFRDC in the United States by funding - approximately 4,584 million dollars in FY2024 - and it sits physically inside Kirtland Air Force Base, the same installation that contains the Manzano Weapons Storage Area and Coyote Canyon. That geography is the reason Sandia belongs on this board twice over. First, in 1948-49 the green fireballs that triggered the Los Alamos conference and Project Twinkle were concentrated over Los Alamos, Sandia and the atomic weapons installations. Second, in August 1980 the best-documented US military UFO incident of the Cold War occurred on Kirtland: AFOSI Special Agent Richard C. Doty's complaint form of 9-10 September 1980, District File No. 8017D93-0/29, records that three 1608 Security Police Squadron members - SSgt Stephen Ferenz, ATC Martin W. Rist and AMN Anthony D. Frazier - observed a bright light near the Manzano restricted test range on the night of 8 August 1980 that performed stop-and-go manoeuvres, landed in Coyote Canyon and departed vertically at high speed; and that a Sandia Laboratories security guard reported a round disc-shaped object near an alarmed structure at about 00:20 on 9 August, during which his radio malfunctioned. The same AFOSI office and the same Special Agent Doty are at the centre of the destruction of Paul Bennewitz, the Albuquerque physicist whose company Thunder Scientific sat adjacent to Kirtland and who was fed fabricated material by Air Force counterintelligence until he broke down. Sandia's laboratory security organisation appears in the AFOSI record as a reporting party. The board's reading is that Kirtland in 1980 is the clearest documented case of a contractor-operated laboratory, an Air Force counterintelligence office and a nuclear weapons storage site all appearing in the same anomalous-object incident file - and of that file being used, within months, as raw material for a disinformation operation against a private citizen.",
+"domains": [
+"aawsap-aatip",
+"ffrdcs"
+],
+"dossier": {
+"claims": [
+{
+"source": "NSF NCSES Master Government List of FFRDCs, https://ncses.nsf.gov/resource/master-gov-lists-ffrdc; CRS Report R44629 funding table",
+"text": "Sandia National Laboratories is a DOE FFRDC administered by National Technology and Engineering Solutions of Sandia, LLC since 1 May 2017, and received approximately 4,584.0 million dollars in FY2024, the largest FFRDC funding figure in the United States.",
+"tier": 1
+},
+{
+"source": "AFOSI documents released under FOIA and archived by NICAP, https://www.nicap.org/foia_003.htm",
+"text": "AFOSI Complaint Form dated 9 September 1980, filed by Special Agent Richard C. Doty under District File No. 8017D93-0/29, records the 8 August 1980 observation by SSgt Stephen Ferenz, ATC Martin W. Rist and AMN Anthony D. Frazier of 1608 SPS of a bright light making stop-and-go manoeuvres near the Manzano restricted test range, which landed in Coyote Canyon and departed vertically at high speed.",
+"tier": 1
+},
+{
+"source": "AFOSI documents released under FOIA and archived by NICAP, https://www.nicap.org/foia_003.htm",
+"text": "The same AFOSI file records a Sandia security guard observing a round disc-shaped object near an alarmed structure at approximately 00:20 on 9 August 1980, with his radio malfunctioning during the encounter.",
+"tier": 1
+},
+{
+"source": "DIA memo U-429-09-DWO-IM, 30 October 2009, https://documents2.theblackvault.com/documents/dia/AAWSAP/U-429-09-DWO-IM.pdf",
+"text": "Three staff members of Sandia National Laboratories were among the five outside reviewers of the FY09 AAWSAP technical reports.",
+"tier": 1
+},
+{
+"source": "AFSWC TR-59-39 Vol I, DISTRIBUTION list, DDC AD 425380, https://archive.org/details/DTIC_AD0425380",
+"text": "The distribution list of AFSWC TR-59-39 Vol I sends a copy to 'President, Sandia Corporation, ATTN: Document Control Division, Sandia Base, NMex'.",
+"tier": 1
+},
+{
+"source": "Greg Bishop, Project Beta; Doty's own subsequent public statements, including his 2014 acknowledgements reported by HuffPost, https://www.huffpost.com/entry/exair-force-law-enforceme_b_5312650",
+"text": "AFOSI Special Agent Richard Doty was the conduit for fabricated documents supplied to Albuquerque physicist Paul Bennewitz, whose company Thunder Scientific operated adjacent to Kirtland AFB, in an operation that culminated in Bennewitz's psychiatric collapse.",
+"tier": 2
+},
+{
+"source": "Reading of the AFOSI complaint form as archived by NICAP",
+"text": "The 1980 Kirtland incident file is the clearest documented convergence of a contractor-operated national laboratory, an Air Force counterintelligence office and a nuclear weapons storage site in a single anomalous-object case. The AFOSI complaint form names all three in one document; no claim is made that Sandia investigated the object.",
+"tier": 3
+}
+],
+"connections": [
+"Three Sandia staff among the five outside reviewers recorded in dia-deliverables-review-2009.",
+"Reporting party in the kirtland-manzano-1980 witness chain.",
+"Received a copy of afswc-tr-59-39 at its document control division in 1959.",
+"Operated under a doe management and operating contract, adjacent to the Manzano Weapons Storage Area.",
+"Sited at l-kirtland, from which the 1980 observations were made.",
+"Tier 2 custody link to manhattan-project-2 as an AEC-lineage custodial laboratory."
+],
+"denialPosture": "The board records no denial issued by Sandia and none directed at it. That absence should be read carefully rather than charitably: the laboratory appears in the 1980 file as a reporting party, not as a respondent, and nothing here shows it was ever asked to account for what its guard saw. The deception in this story belongs to the Air Force counterintelligence office on the adjoining base, and the board keeps the attribution where the documents put it. What Sandia has not done, on any record held here, is say anything at all about August 1980.",
+"narrative": "The 1980 file is the one to read. AFOSI Special Agent Richard C. Doty's complaint form of 9 September 1980, District File No. 8017D93-0/29, records that three members of the 1608 Security Police Squadron, SSgt Stephen Ferenz, ATC Martin W. Rist and AMN Anthony D. Frazier, observed a bright light near the Manzano restricted test range on the night of 8 August 1980 that made stop-and-go manoeuvres, landed in Coyote Canyon and departed vertically at high speed. The same file records a Sandia security guard observing a round disc-shaped object near an alarmed structure at about 00:20 on 9 August, his radio malfunctioning during the encounter.\n\nWhat makes the file structurally interesting rather than merely anecdotal is that a contractor-operated national laboratory, an Air Force counterintelligence office and a nuclear weapons storage site all appear in one anomalous-object document. What makes it uncomfortable is what the same office and the same agent did next. Doty was the conduit for fabricated material supplied to Paul Bennewitz, the Albuquerque physicist whose company Thunder Scientific operated adjacent to Kirtland and who had licensed sensor technology from Sandia in 1966; the operation ended in Bennewitz's psychiatric collapse. The board grades that Tier 2 and attributes it to AFOSI, not to the laboratory.\n\nThe 2009 material is a different register and is worth keeping separate from the 1980 material. DIA memo U-429-09-DWO-IM of 30 October 2009 records the outside review of the AAWSAP deliverables, with three of the five reviewers from Sandia, and DIA recorded the reviews as positive. The board's reading of the timing is that DIA sought institutional cover for a portfolio it expected to have to defend, which it did five weeks later, and that reading is graded Tier 3 because it is an inference from sequence rather than anything the memo says.",
+"openQuestions": [
+"The Sandia security guard of 9 August 1980 is described in the AFOSI file but the board does not hold his name, and no Sandia-side incident record from that night has been located.",
+"The AEC-lineage custody link is the weakest thing attached to this node. It rests on a November 2025 video investigation citing Edgar Fouche and a former New Mexico state representative, and is graded Tier 2 on that basis. No primary document supports it here.",
+"The identities of the three Sandia reviewers of the FY09 AAWSAP deliverables are not in the DIA memo as held, and nothing on this board establishes which reports they reviewed."
+],
+"roles": [
+"research",
+"custody",
+"concealment"
+],
+"whatItIs": "Sandia National Laboratories, a Department of Energy federally funded research and development centre in Albuquerque, administered by National Technology and Engineering Solutions of Sandia, LLC since 1 May 2017. It is the largest FFRDC in the United States by funding, at approximately 4,584.0 million dollars in FY2024, and it sits adjacent to Kirtland Air Force Base, the installation that contains the Manzano Weapons Storage Area and Coyote Canyon.",
+"whyImplicated": "The geography does most of the work, and it puts Sandia on this board twice over. In 1948 and 1949 the green fireballs that triggered the Los Alamos conference and Project Twinkle were concentrated over the atomic weapons installations, Los Alamos and Sandia among them. In August 1980 the best-documented American military UFO incident of the Cold War occurred on the adjoining base, and a Sandia security guard is a reporting party in the resulting Air Force Office of Special Investigations file. Thirty years later, three Sandia staff members were among the five outside reviewers of the FY09 AAWSAP technical reports, which is a DOE weapons laboratory peer-reviewing the physics portfolio of a Defense Intelligence Agency programme. The laboratory also appears in the custody record of an earlier document: the distribution list of AFSWC TR-59-39 sends a copy to the President of Sandia Corporation, attention Document Control Division."
+},
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "sandia",
+"l0": true,
+"label": "Sandia National Laboratories",
+"locLabel": null,
+"members": [
+{
+"cls": "institution",
+"id": "afswp",
+"label": "Armed Forces Special Weapons Project",
+"tier": "B"
+},
+{
+"cls": "document",
+"id": "dia-deliverables-review-2009",
+"label": "DIA Memorandum: Review of Advanced Aerospace Contract Deliverables (U-429-09-DWO-IM)",
+"tier": "C"
+},
+{
+"cls": "event",
+"id": "kirtland-manzano-1980",
+"label": "Kirtland AFB / Manzano Weapons Storage Area incident",
+"tier": "B"
+},
+{
+"cls": "location",
+"id": "l-kirtland",
+"label": "Kirtland Air Force Base and Albuquerque, New Mexico",
+"tier": "B"
+}
+],
+"short": "Sandia National Laboratories",
+"sources": [
+{
+"date": "2009-10-30",
+"name": "DIA — Review of Advanced Aerospace Contract Deliverables (U-429-09-DWO-IM)",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP/U-429-09-DWO-IM.pdf"
+},
+{
+"date": "2026-08-12",
+"name": "NICAP - 1980 Kirtland AFB, NM Freedom of Information Act document files",
+"url": "https://www.nicap.org/foia_003.htm"
+},
+{
+"date": "2026-08-12",
+"name": "NSF NCSES - Master Government List of Federally Funded R&D Centers",
+"url": "https://ncses.nsf.gov/resource/master-gov-lists-ffrdc"
+},
+{
+"date": "2026-08-12",
+"name": "UFO Evidence - Kirtland Air Force Base 1980 UFO Landing",
+"url": "http://www.ufoevidence.org/cases/case218.htm"
+},
+{
+"date": "2014-05-13",
+"name": "HuffPost - Ex-Air Force Law Enforcement Agent Says He Hoaxed Major UFO Incident",
+"url": "https://www.huffpost.com/entry/exair-force-law-enforceme_b_5312650"
+}
+],
+"sub": "DOE national laboratory, Albuquerque, NM",
+"tier": "A",
+"tierRationale": "Re-graded A on a global pass (rank 128 of 1027, score 55). 7 connections, 3 of them custody/witness/funding/programmatic. Axes C3/A3/D1.",
+"timeline": []
+}

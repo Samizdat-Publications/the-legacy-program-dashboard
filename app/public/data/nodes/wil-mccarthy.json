@@ -1,0 +1,159 @@
+{
+"A": 0,
+"C": 1,
+"D": 0,
+"affiliations": [],
+"age": null,
+"band": null,
+"chronology": [],
+"claims": [
+{
+"source": "https://irp.fas.org/dia/aatip-list.pdf",
+"text": "The 9 January 2018 DIA list credits item 23, \"Aerospace Applications of Programmable Matter\", to \"Dr W McCarthy, Programmable Matter Corporation\".",
+"tier": 1
+},
+{
+"source": "https://en.wikipedia.org/wiki/Wil_McCarthy — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"text": "McCarthy is a former Lockheed Martin space launch systems flight controller, former engineering manager at Omnitech Robotics, former CTO of Galileo Shipyards, and president of The Programmable Matter Corporation in Lakewood, Colorado.",
+"tier": 2
+},
+{
+"source": "https://en.wikipedia.org/wiki/Hacking_Matter",
+"text": "McCarthy popularised programmable matter under the coined name \"wellstone\" in his science fiction and in the non-fiction book Hacking Matter, before being commissioned to survey the field for DIA.",
+"tier": 2
+}
+],
+"cls": "person",
+"cluster": "research",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "commissioned subject-matter author",
+"id": "aawsap",
+"l0": true,
+"label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)",
+"note": "Credited with one of the 38 AAWSAP deliverables, 'Aerospace Applications of Programmable Matter' (14 December 2009, DIA-08-0911-016), contracted through The Programmable Matter Corporation. The released text names AAWSAP. Tier 2 because the 'Author' field is redacted under FOIA exemption (b)(6) and the attribution comes from DIA's separate list.",
+"sources": [
+{
+"date": "2009-12-14",
+"name": "DIRD, 'Aerospace Applications of Programmable Matter', 14 December 2009, 21 pp., DIA-08-0911-016 (DIA FOIA release)",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_02-DIRD_Aerospace_Applications_of_Programmable_Matter.pdf"
+},
+{
+"date": "2022-03-25",
+"name": "DIA FOIA Electronic Reading Room entry",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237656/"
+},
+{
+"date": null,
+"name": "https://irp.fas.org/dia/aatip-list.pdf",
+"url": "https://irp.fas.org/dia/aatip-list.pdf"
+}
+],
+"tier": "A",
+"type": "funding"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "authored",
+"id": "dird-aerospace-applications-of-programmable-matter",
+"l0": false,
+"label": "Aerospace Applications of Programmable Matter",
+"note": "DIA list item 23 names \"Dr W McCarthy, Programmable Matter Corporation\". Released PDF redacts the author under (b)(6).",
+"sources": [
+{
+"date": "2026-08-22",
+"name": "Released DIRD, 'Aerospace Applications of Programmable Matter' — FOIA copy, cover page read 22 August 2026",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_02-DIRD_Aerospace_Applications_of_Programmable_Matter.pdf"
+},
+{
+"date": "2026-08-22",
+"name": "DIA FOIA Electronic Reading Room entry for this reference document",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237656/"
+},
+{
+"date": "2026-08-23",
+"name": "DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations",
+"url": "https://fas.org/publication/aatip-list/"
+},
+{
+"date": null,
+"name": "https://irp.fas.org/dia/aatip-list.pdf",
+"url": "https://irp.fas.org/dia/aatip-list.pdf"
+}
+],
+"tier": "B",
+"type": "research"
+}
+],
+"date": "2010-01-01",
+"dateEnd": null,
+"dateStart": "2010-01-01",
+"deg": 2,
+"denials": [],
+"domains": [
+"w7-dirds-1"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "2",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "wil-mccarthy",
+"instId": null,
+"l0": false,
+"label": "Wil McCarthy",
+"loc": null,
+"locId": null,
+"members": null,
+"narrative": "Wil McCarthy is the least conventional author in this batch and the one whose selection says the most about how AAWSAP sourced its expertise. He is an aerospace engineer and patent agent who began as a flight controller on Lockheed Martin space launch systems, moved to Omnitech Robotics as an engineering manager, served as chief technology officer of the aerospace research laboratory Galileo Shipyards, and is president of The Programmable Matter Corporation in Lakewood, Colorado. He is simultaneously a working science-fiction novelist, and it was in fiction that he first popularised the idea he was later paid by the Defense Intelligence Agency to survey. His \"Queendom of Sol\" novels, notably The Wellstone, are built around a substance he called wellstone: a programmable material whose effective atoms can be reconfigured on command so that a bounded but effectively unlimited range of material properties can be summoned or dismissed at will. He set the same idea out for a general readership in the non-fiction book Hacking Matter.\n\nAAWSAP's statement of work included materials, structures and signature reduction. Programmable matter, quantum dots and reconfigurable metamaterial surfaces sit squarely in that space, and the pool of people who had written a book-length synthesis of the field in 2009 was tiny. McCarthy had both the engineering background to write to a defence-warning audience and a commercial vehicle, The Programmable Matter Corporation, through which the work could be contracted. His DIRD, \"Aerospace Applications of Programmable Matter\", is a twenty-page survey and carries the earliest publication date of the eight documents in this batch, 14 December 2009. He has no documented UAP-programme role beyond authorship of this single deliverable.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Wil McCarthy",
+"sources": [
+{
+"date": null,
+"name": "https://irp.fas.org/dia/aatip-list.pdf",
+"url": "https://irp.fas.org/dia/aatip-list.pdf"
+},
+{
+"date": null,
+"name": "https://en.wikipedia.org/wiki/Wil_McCarthy",
+"url": "https://en.wikipedia.org/wiki/Wil_McCarthy"
+},
+{
+"date": null,
+"name": "https://en.wikipedia.org/wiki/Hacking_Matter",
+"url": "https://en.wikipedia.org/wiki/Hacking_Matter"
+},
+{
+"date": null,
+"name": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_02-DIRD_Aerospace_Applications_of_Programmable_Matter.pdf",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_02-DIRD_Aerospace_Applications_of_Programmable_Matter.pdf"
+},
+{
+"date": null,
+"name": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237656/",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237656/"
+}
+],
+"status": "active",
+"sub": "Engineer and science-fiction novelist; President, The Programmable Matter Corporation, Lakewood, Colorado",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 855 of 1027, score 16). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A0/D0.",
+"timeline": [],
+"unexplainedResidual": null,
+"unverified": []
+}

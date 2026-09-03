@@ -1,0 +1,134 @@
+{
+"A": 0,
+"C": 0,
+"D": 2,
+"band": null,
+"claims": [
+{
+"source": "Stringfield, Status Report VII, acknowledgements and Roswell update",
+"text": "Stringfield acknowledges the cooperation of the J. Allen Hynek Center for UFO Studies in Status Report VII (February 1994) and records consulting its scientific director on 6 November 1993 about the Roswell retrieval body count.",
+"tier": 1
+},
+{
+"source": "Rodeghier and Whiting (1992), cited at note 123 of the 1997 Air Force report",
+"text": "CUFOS scientific director Mark Rodeghier co-authored 'The Plains of San Agustin Controversy' (1992) with Fred Whiting of the Fund for UFO Research.",
+"tier": 2
+},
+{
+"source": "Cash-Landrum case literature and the Blue Blurry Lines document collection",
+"text": "CUFOS astronomer Allan Hendry briefly investigated the Cash-Landrum case in 1981.",
+"tier": 2
+}
+],
+"cls": "institution",
+"cluster": "research",
+"connections": [
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "1992",
+"dateStart": "1992",
+"direction": "in",
+"edgeLabel": "CUFOS and FUFOR investigated and discredited their own witness",
+"id": "gerald-anderson",
+"l0": false,
+"label": "Gerald Anderson",
+"note": "Mark Rodeghier of CUFOS and Fred Whiting of the Fund for UFO Research published 'The Plains of San Agustin Controversy' concluding against Anderson's reliability.",
+"sources": [
+{
+"date": "1997-01-01",
+"name": "The Roswell Report: Case Closed (1997)",
+"url": "https://archive.org/details/AFD-101027-030"
+}
+],
+"tier": "C",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "1994-02",
+"dateStart": "1982",
+"direction": "out",
+"edgeLabel": "CUFOS cooperated with and advised the Status Report series",
+"id": "leonard-stringfield",
+"l0": false,
+"label": "Leonard H. Stringfield",
+"note": "Stringfield acknowledges CUFOS cooperation in Status Report VII and records consulting its scientific director on 6 November 1993 about the Roswell body count.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Stringfield Status Reports 1-7 (scans)",
+"url": "https://archive.org/details/stringfield_Retrievals_Report_6_inner_sanctum_LQ"
+}
+],
+"tier": "C",
+"type": "research"
+},
+{
+"claimTier": 2,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "Names the Center for UFO Studies case files as a second of its three major collections, on its own account",
+"id": "nufohrc",
+"l0": false,
+"label": "National UFO Historical Records Center",
+"note": "The Center names the Center for UFO Studies case files as a second of its three major historical collections, on its own account.",
+"sources": [
+{
+"date": "2026-09-02",
+"name": "National UFO Historical Records Center, collections page",
+"url": "https://nufohrc.org/collections/"
+}
+],
+"tier": "B",
+"type": "custody"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "1973",
+"deg": 3,
+"denials": [],
+"desc": "The J. Allen Hynek Center for UFO Studies, founded in 1973 by the Northwestern University astronomer who had been Project Blue Book's scientific consultant, is the institutional home of the more rigorous end of the civilian field and appears on this board mainly through its people and its self-corrections. Donald R. Schmitt was its co-director of special investigations while co-writing the two Randle-Schmitt Roswell books; Kevin Randle has worked through it; Stringfield acknowledged its cooperation in Status Report VII; Allan Hendry investigated the Cash-Landrum case for it in 1981; and Stringfield records consulting its scientific director in November 1993 on the Roswell body count. Its most important single act on this board is negative: in 1992 CUFOS scientific director Mark Rodeghier joined Fred Whiting of the Fund for UFO Research to publish 'The Plains of San Agustin Controversy', an investigation that dismantled Gerald Anderson, the only first-hand witness to a claimed second 1947 crash site and a witness the field badly wanted to be true. An organisation that publishes findings against its own interest is producing evidence rather than advocacy, and this board weights it accordingly.",
+"domains": [
+"w2-retrieval-literature"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "1",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "cufos",
+"l0": false,
+"label": "J. Allen Hynek Center for UFO Studies (CUFOS)",
+"locLabel": null,
+"members": null,
+"short": "J. Allen Hynek Center for UFO Studies (CUFOS)",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "UFO Crash Retrievals, Status Reports 1-7 by Leonard Stringfield - full scans",
+"url": "https://archive.org/details/stringfield_Retrievals_Report_6_inner_sanctum_LQ"
+},
+{
+"date": "1997-01-01",
+"name": "The Roswell Report: Case Closed (1997)",
+"url": "https://archive.org/details/AFD-101027-030"
+},
+{
+"date": "2019-10-03",
+"name": "Curt Collins, Cash-Landrum UFO Case Document Collection",
+"url": "https://www.blueblurrylines.com/search?q=lawsuit+Cash+Landrum"
+}
+],
+"sub": "Civilian research body founded 1973 by J. Allen Hynek, Chicago",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 843 of 1027, score 17). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D2.",
+"timeline": []
+}

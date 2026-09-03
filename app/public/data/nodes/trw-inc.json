@@ -1,0 +1,154 @@
+{
+"A": 2,
+"C": 1,
+"D": 1,
+"band": null,
+"claims": [
+{
+"source": "BDM International, Inc., Schedule 14D-9, filed 26 November 1997, CIK 0000870763, https://www.sec.gov/Archives/edgar/data/870763/0000950152-97-008353.txt",
+"text": "TRW agreed to acquire BDM in November 1997: 'on November 20, 1997, BDM International, Inc. entered into a Merger Agreement with TRW Inc. and Systems Acquisition Inc., a wholly owned subsidiary of TRW, pursuant to which that subsidiary has commenced a tender offer (the \"Offer\") to purchase all of the outstanding shares of BDM's common stock for a cash price of $29.50 per share.'",
+"tier": 1
+},
+{
+"source": "Northrop Grumman Corporation, Form 8-K, earliest event 11 December 2002, Item 2, https://www.sec.gov/Archives/edgar/data/1133421/000089843002004580/d8k.htm",
+"text": "The Northrop Grumman merger closed on a stated date: 'Pursuant to the merger agreement, on December 11, 2002, Richmond Acquisition Corp. was merged with and into TRW, with TRW surviving the merger as a wholly-owned subsidiary of Northrop Grumman.' The exchange ratio was 0.5357 Northrop shares per TRW share.",
+"tier": 1
+},
+{
+"source": "Northrop Grumman press release, 11 December 2002, filed as Form 425 on 12 December 2002, https://www.sec.gov/Archives/edgar/data/100030/000089843002004462/d425.htm",
+"text": "The defence businesses were renamed at once: 'TRW Systems will be renamed Northrop Grumman Mission Systems, with about 15,000 employees and headquartered in Reston, Va. TRW Space & Electronics will be renamed Northrop Grumman Space Technology, which has more than 8,600 employees, based in Redondo Beach, Calif.'",
+"tier": 1
+},
+{
+"source": "Northrop Grumman Corporation, Form 8-K filed 13 December 2002, Item 5(b), https://www.sec.gov/Archives/edgar/data/1133421/000089843002004481/d8k.htm",
+"text": "The merger required an antitrust consent: on 11 December 2002 the United States filed a complaint, a proposed final judgment and a stipulation and order against Northrop Grumman and TRW, which the court entered the same day and which became effective on the closing of the merger.",
+"tier": 1
+},
+{
+"source": "SEC EDGAR company record, CIK 0000100030, https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=TRW+INC",
+"text": "EDGAR carries the transition on the company's own registration: CIK 0000100030 is listed as NORTHROP GRUMMAN SPACE & MISSION SYSTEMS CORP, 'formerly: TRW INC (filings through 2002-12-23)'.",
+"tier": 1
+}
+],
+"cls": "institution",
+"cluster": "contractor",
+"connections": [
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "1997",
+"dateStart": "1997",
+"direction": "out",
+"edgeLabel": "TRW acquired BDM by cash tender offer, 1997",
+"id": "bdm-international",
+"l0": false,
+"label": "BDM International, Inc.",
+"note": "BDM's own Schedule 14D-9 of 26 November 1997 recites the 20 November merger agreement with TRW Inc. and its subsidiary Systems Acquisition Inc. at $29.50 a share, and BDM filed a Form 15-12G on 29 December 1997.",
+"sources": [
+{
+"date": "1997-11-26",
+"name": "BDM International, Inc., Schedule 14D-9, 26 November 1997",
+"url": "https://www.sec.gov/Archives/edgar/data/870763/0000950152-97-008353.txt"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 2,
+"cls": "document",
+"dateEnd": "2026",
+"dateStart": "2002",
+"direction": "out",
+"edgeLabel": "The subject of the 20 March 2026 corporate-breakaway argument",
+"id": "gerb-northrop-trw-investigation",
+"l0": false,
+"label": "UAP Gerb - Northrop Grumman & TRW investigation (Vol.2)",
+"note": "The video's whole case turns on the 2002 acquisition, which the filings document; its funding-mechanism proposition is an extrapolation and is not in any filing opened here.",
+"sources": [
+{
+"date": "2002-12-20",
+"name": "Northrop Grumman Corporation, Form 8-K, event 11 December 2002",
+"url": "https://www.sec.gov/Archives/edgar/data/1133421/000089843002004580/d8k.htm"
+}
+],
+"tier": "B",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "2002",
+"dateStart": "2002",
+"direction": "out",
+"edgeLabel": "Merged into a Northrop Grumman subsidiary, 11 December 2002",
+"id": "northrop-grumman",
+"l0": false,
+"label": "Northrop Grumman Corporation",
+"note": "Northrop Grumman's Form 8-K states that Richmond Acquisition Corp. merged with and into TRW on 11 December 2002, leaving TRW a wholly owned subsidiary, with TRW Systems and TRW Space and Electronics renamed as Northrop Grumman Mission Systems and Northrop Grumman Space Technology.",
+"sources": [
+{
+"date": "2002-12-20",
+"name": "Northrop Grumman Corporation, Form 8-K, event 11 December 2002",
+"url": "https://www.sec.gov/Archives/edgar/data/1133421/000089843002004580/d8k.htm"
+}
+],
+"tier": "B",
+"type": "institutional"
+}
+],
+"coords": null,
+"dateEnd": "2002-12-11",
+"dateStart": "1994",
+"deg": 3,
+"denials": [],
+"desc": "TRW Inc. is the middle link of a chain the board already carries at both ends. In November 1997 it agreed to acquire BDM International through a cash tender offer at $29.50 a share, and BDM deregistered a month later. On 11 December 2002 TRW was itself merged into a Northrop Grumman subsidiary, with TRW surviving as a wholly owned subsidiary; TRW Systems became Northrop Grumman Mission Systems at Reston and TRW Space and Electronics became Northrop Grumman Space Technology at Redondo Beach. EDGAR carries the same transition on the company's own CIK. Until now the board reached from BDM to Northrop Grumman with no node in between, and the edge was an assertion where the filings make it a record. The corpus's further claim, that TRW was the parent of an unnamed FFRDC that ran the programme for about 29 years, is supported by nothing in any filing opened here.",
+"domains": [
+"michels-2026-09-02"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "1",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "trw-inc",
+"l0": false,
+"label": "TRW Inc.",
+"locLabel": null,
+"members": null,
+"short": "TRW Inc.",
+"sources": [
+{
+"date": "1997-11-26",
+"name": "BDM International, Inc., Schedule 14D-9, filed 26 November 1997",
+"url": "https://www.sec.gov/Archives/edgar/data/870763/0000950152-97-008353.txt"
+},
+{
+"date": "2002-12-20",
+"name": "Northrop Grumman Corporation, Form 8-K, event 11 December 2002 (Item 2, acquisition of TRW)",
+"url": "https://www.sec.gov/Archives/edgar/data/1133421/000089843002004580/d8k.htm"
+},
+{
+"date": "2002-12-13",
+"name": "Northrop Grumman Corporation, Form 8-K filed 13 December 2002 (consent decree)",
+"url": "https://www.sec.gov/Archives/edgar/data/1133421/000089843002004481/d8k.htm"
+},
+{
+"date": "2002-12-12",
+"name": "Northrop Grumman press release of 11 December 2002, filed as Form 425",
+"url": "https://www.sec.gov/Archives/edgar/data/100030/000089843002004462/d425.htm"
+},
+{
+"date": "2026-09-02",
+"name": "SEC EDGAR company record, CIK 0000100030, formerly TRW INC",
+"url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=TRW+INC"
+}
+],
+"sub": "Cleveland-based aerospace, defence and automotive prime; acquired BDM 1997, acquired by Northrop Grumman 11 December 2002",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 479 of 1027, score 30). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D1.",
+"timeline": []
+}

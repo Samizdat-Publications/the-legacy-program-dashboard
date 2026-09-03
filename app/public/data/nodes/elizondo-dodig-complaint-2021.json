@@ -1,0 +1,174 @@
+{
+"A": 2,
+"C": 1,
+"D": 3,
+"band": null,
+"claims": [
+{
+"source": "The Black Vault document archive of the Elizondo DoD IG complaint",
+"text": "Filed May 2021 alleging 'malicious activities, coordinated disinformation, professional misconduct, whistleblower reprisal and explicit threats', naming Garry Reid, Susan Gough and Neill Tipton.",
+"tier": 2
+},
+{
+"source": "The Black Vault DoD IG document archive",
+"text": "FOIA releases include a 103-page DoD IG transcript of Elizondo's February 2023 interview, 126 pages of DoD IG UAP/Elizondo emails released February 2024, and 40 additional pages released March 2025.",
+"tier": 1
+},
+{
+"source": "The Debrief, April 2022",
+"text": "Elizondo alleged Reid threatened to damage his security clearance and blocked his access to Pentagon facilities.",
+"tier": 2
+}
+],
+"cls": "document",
+"cluster": "oversight",
+"connections": [
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2022",
+"dateStart": "2021",
+"direction": "out",
+"edgeLabel": "Named respondent; Reid removed from post by April 2022",
+"id": "garry-reid",
+"l0": false,
+"label": "Garry P. Reid",
+"note": "Separate DoD IG investigations substantiated ethics and information-handling findings against Reid. Defense officials told The Debrief he 'played a central role in obfuscating information' about UAP.",
+"sources": [
+{
+"date": "2022-04-13",
+"name": "The Debrief",
+"url": "https://thedebrief.org/sex-lies-and-ufos-pentagons-head-of-counterintelligence-and-security-ousted/"
+}
+],
+"tier": "C",
+"type": "investigative"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "2021",
+"direction": "in",
+"edgeLabel": "Filed May 2021 naming Reid, Gough and Tipton",
+"id": "luis-elizondo",
+"l0": false,
+"label": "Luis D. Elizondo",
+"note": "Alleged 'malicious activities, coordinated disinformation, professional misconduct, whistleblower reprisal and explicit threats'. No public adjudication has been released.",
+"sources": [
+{
+"date": "2025-03-01",
+"name": "The Black Vault — Elizondo DoD IG complaint archive",
+"url": "https://www.theblackvault.com/documentarchive/the-dod-inspector-general-complaint-of-luis-elizondo-a-document-archive/"
+}
+],
+"tier": "A",
+"type": "witness-chain"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "2021",
+"direction": "out",
+"edgeLabel": "Named respondent",
+"id": "neill-tipton",
+"l0": false,
+"label": "Neill Tipton",
+"note": "Tipton originated the 'no assigned responsibilities' formulation in May 2019.",
+"sources": [
+{
+"date": "2025-03-01",
+"name": "The Black Vault — Elizondo DoD IG complaint archive",
+"url": "https://www.theblackvault.com/documentarchive/the-dod-inspector-general-complaint-of-luis-elizondo-a-document-archive/"
+}
+],
+"tier": "B",
+"type": "investigative"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "2021",
+"direction": "out",
+"edgeLabel": "Named respondent",
+"id": "susan-gough",
+"l0": false,
+"label": "Susan Gough",
+"note": "The Department's UAP spokesperson named in a whistleblower-reprisal complaint by the subject of her statements.",
+"sources": [
+{
+"date": "2025-03-01",
+"name": "The Black Vault — Elizondo DoD IG complaint archive",
+"url": "https://www.theblackvault.com/documentarchive/the-dod-inspector-general-complaint-of-luis-elizondo-a-document-archive/"
+}
+],
+"tier": "A",
+"type": "investigative"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "2021",
+"deg": 4,
+"denials": [],
+"desc": "In May 2021 Luis Elizondo filed a complaint with the Department of Defense Office of Inspector General alleging what he described as 'malicious activities, coordinated disinformation, professional misconduct, whistleblower reprisal and explicit threats' and writing that the actions taken against him 'directly erode the very foundation of national security ethos and the public trust instilled by the American people.' He named three officials: Garry Reid, then Director for Defense Intelligence at OUSD(I); Susan Gough, the Department's UAP spokesperson; and Neill Tipton, Director for Defense Intelligence for Collection and Special Programs. Reporting associated with the complaint alleges Reid threatened his security clearance, orchestrated an Air Force investigation into the video releases even though the videos were unclassified, and used administrative measures to block his access to Pentagon facilities. FOIA releases have since produced a 103-page transcript of the DoD IG's February 2023 interview of Elizondo, 126 pages of DoD IG emails about UAP and Elizondo released in February 2024, and 40 further pages in March 2025. No public adjudication of Elizondo's complaint has been released.",
+"domains": [
+"elizondo-ttsa"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "elizondo-dodig-complaint-2021",
+"l0": false,
+"label": "Elizondo complaint to the DoD Inspector General, May 2021",
+"locLabel": null,
+"members": null,
+"short": "Elizondo complaint to the DoD Inspector General, May 2021",
+"sources": [
+{
+"date": "2025-03-01",
+"name": "The Black Vault — The DoD Inspector General Complaint of Luis Elizondo: A Document Archive",
+"url": "https://www.theblackvault.com/documentarchive/the-dod-inspector-general-complaint-of-luis-elizondo-a-document-archive/"
+},
+{
+"date": "2022-04-13",
+"name": "The Debrief — Sex, Lies, and UFOs: Pentagon's Head of Counterintelligence and Security Ousted",
+"url": "https://thedebrief.org/sex-lies-and-ufos-pentagons-head-of-counterintelligence-and-security-ousted/"
+},
+{
+"date": "2024-02-01",
+"name": "The Black Vault — DoD's Inspector General Office Releases Emails About UAP, Their UAP Evaluation Effort, Luis Elizondo, and More",
+"url": "https://www.theblackvault.com/documentarchive/dods-inspector-general-office-releases-emails-about-uap-their-uap-evaluation-effort-luis-elizondo-and-more/"
+}
+],
+"sub": "Complaint alleging coordinated disinformation and whistleblower reprisal",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 477 of 1027, score 30). 4 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A2/D3.",
+"timeline": [
+{
+"date": "2021-05-01",
+"id": "tl-2021-05-ig",
+"label": "Elizondo files DoD IG complaint",
+"precision": "month",
+"strand": "oversight",
+"text": "Alleging 'malicious activities, coordinated disinformation, professional misconduct, whistleblower reprisal and explicit threats', naming Garry Reid, Susan Gough and Neill Tipton.",
+"tier": "B"
+},
+{
+"date": "2023-02-01",
+"id": "tl-2023-02-ig-interview",
+"label": "DoD IG interviews Elizondo",
+"precision": "month",
+"strand": "oversight",
+"text": "A 103-page transcript of the Inspector General's interview of Elizondo is later released under FOIA, along with 126 pages of DoD IG UAP emails in February 2024.",
+"tier": "A"
+}
+]
+}

@@ -1,0 +1,1180 @@
+{
+"A": 3,
+"C": 3,
+"D": 0,
+"band": "reverse-engineering",
+"claims": [
+{
+"source": "USAspending.gov recipient search, retrieved 12 August 2026",
+"text": "Lockheed Martin is the largest single recipient of Department of Defense prime contract obligations; USAspending recipient records for Lockheed Martin entities total in the hundreds of billions of dollars since FY2008.",
+"tier": 1
+},
+{
+"source": "George Knapp, sworn testimony, CHRG-119hhrg61718, 9 September 2025",
+"text": "Bigelow and an AAWSAP colleague 'met with and negotiated with senior executives at Lockheed Martin and hammered out a deal wherein Bigelow's company, BAASS, would receive a quantity of unusual material that had been stashed away and protected at a facility in California. That material was not made here.'",
+"tier": 2
+},
+{
+"source": "George Knapp, sworn testimony, 9 September 2025",
+"text": "Asked to name corporations holding the material: 'Well, one of them is Lockheed... They have lied about this because that is what they are supposed to do.'",
+"tier": 2
+},
+{
+"source": "CHRG-118hhrg57440, 13 November 2024",
+"text": "Elizondo confirmed on the record that the reported Lockheed Martin - Bigelow Aerospace transfer 'was blocked,' and that a memorandum from the Secretary of the Air Force required to complete it never issued.",
+"tier": 2
+},
+{
+"source": "AARO, Historical Record Report Volume I, March 2024",
+"text": "AARO's report describes Lockheed Martin's Advanced Development Programs organisation by name in its treatment of classified aeronautics mistaken for UAP, and separately states that executives and CTOs of the named companies denied the allegations to AARO's Director on the record.",
+"tier": 1
+}
+],
+"cls": "institution",
+"cluster": "contractor",
+"connections": [
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "2026",
+"dateStart": "2026",
+"direction": "in",
+"edgeLabel": "The 2026 official denial is maintained without any inspection of contractor holdings",
+"id": "aaro-fy2025-annual-report",
+"l0": true,
+"label": "AARO FY2025 Consolidated Annual Report on UAP",
+"note": "No AARO report describes an inspection, audit or subpoena of any contractor facility or holding; the denials rest on voluntary corporate statements taken at meetings with the Director.",
+"sources": [
+{
+"date": "2026-07-21",
+"name": "The Black Vault, 'AARO Releases FY2025 UAP Report Months After Statutory Deadline, Citing 319 New Cases and Expanded Satellite Analysis'",
+"url": "https://www.theblackvault.com/documentarchive/aaro-releases-fy2025-uap-report-months-after-statutory-deadline-citing-319-new-cases-and-expanded-satellite-analysis/"
+},
+{
+"date": "2024-03-08",
+"name": "AARO, 'Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP), Volume I'",
+"url": "https://documents2.theblackvault.com/documents/dod/AARO_Historical_Record_Report_Volume_1_2024.pdf"
+}
+],
+"tier": "A",
+"type": "denial"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "2024",
+"dateStart": "2024",
+"direction": "in",
+"edgeLabel": "Executives and CTOs of the unnamed 'named companies' denied recovery or possession to AARO's Director on the record",
+"id": "aaro-historical-record-vol1",
+"l0": true,
+"label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
+"note": "AARO states it met high-ranking officials of the companies named by interviewees and that all denied the existence of the programs and attested to the truthfulness of their statements. AARO does not name a single company, and describes no inspection of any facility or holding.",
+"sources": [
+{
+"date": "2024-03-08",
+"name": "AARO, 'Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP), Volume I'",
+"url": "https://documents2.theblackvault.com/documents/dod/AARO_Historical_Record_Report_Volume_1_2024.pdf"
+}
+],
+"tier": "A",
+"type": "denial"
+},
+{
+"claimTier": 3,
+"cls": "person",
+"dateEnd": "1995",
+"dateStart": "1993",
+"direction": "in",
+"edgeLabel": "Rich is the most-cited and least-documented source for the Lockheed custody allegation",
+"id": "ben-rich",
+"l0": false,
+"label": "Ben R. Rich",
+"note": "Reasoning: multiple independent attendees have recounted variants of his 1993 remark about star travel locked in black projects, but no recording, transcript or letter facsimile exists in any archive. The board records the attribution, not the fact.",
+"sources": [
+{
+"date": "1994-01-01",
+"name": "Ben R. Rich and Leo Janos, 'Skunk Works: A Personal Memoir of My Years at Lockheed' (Internet Archive)",
+"url": "https://archive.org/details/skunkworks00benr"
+},
+{
+"date": "2023-03-11",
+"name": "Christopher Sharp, 'Lockheed Martin Challenged On UFO Legacy Programs, As Politicians Talk Hearings,' Liberation Times",
+"url": "https://www.liberationtimes.com/home/lockheed-martin-challenged-on-ufo-legacy-programs-as-politicians-talk-hearings"
+}
+],
+"tier": "C",
+"type": "custody"
+},
+{
+"claimTier": 2,
+"cls": "institution",
+"dateEnd": "2010",
+"dateStart": "2009",
+"direction": "out",
+"edgeLabel": "Alleged negotiated transfer of non-terrestrial material from a Lockheed California facility to BAASS",
+"id": "bigelow-aerospace",
+"l0": false,
+"label": "Bigelow Aerospace",
+"note": "George Knapp testified under oath on 9 September 2025 that Robert Bigelow and an AAWSAP colleague negotiated with senior Lockheed Martin executives for material 'stashed away and protected at a facility in California' that 'was not made here.' Luis Elizondo confirmed to the House on 13 November 2024 that the transfer was blocked.",
+"sources": [
+{
+"date": "2025-09-09",
+"name": "House Oversight Task Force on the Declassification of Federal Secrets hearing transcript, 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection' (CHRG-119hhrg61718, Serial No. 119-44)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm"
+},
+{
+"date": "2024-11-13",
+"name": "House Oversight hearing transcript, 'Unidentified Anomalous Phenomena: Exposing the Truth' (CHRG-118hhrg57440)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm"
+}
+],
+"tier": "A",
+"type": "custody"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2024",
+"dateStart": "2023",
+"direction": "in",
+"edgeLabel": "Sharp's reporting of the Lockheed-Bigelow transfer was read into a congressional hearing and confirmed",
+"id": "christopher-sharp",
+"l0": false,
+"label": "Christopher Sharp",
+"note": "Burlison attributed the reporting to Sharp by name on 13 November 2024 and Elizondo confirmed the block, making this the rare case of independent journalism validated on the record by the relevant witness.",
+"sources": [
+{
+"date": "2024-11-13",
+"name": "House Oversight hearing transcript, 'Unidentified Anomalous Phenomena: Exposing the Truth' (CHRG-118hhrg57440)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm"
+},
+{
+"date": "2026-01-13",
+"name": "Christopher Sharp, 'UFO Allegedly Stored At East Coast Navy Facility As Material Transfer Claims Resurface,' Liberation Times",
+"url": "https://www.liberationtimes.com/home/ufo-allegedly-stored-at-east-coast-navy-facility-as-material-transfer-claims-resurface"
+}
+],
+"tier": "C",
+"type": "investigative"
+},
+{
+"claimTier": 2,
+"cls": "institution",
+"dateEnd": "2010",
+"dateStart": "2009",
+"direction": "in",
+"edgeLabel": "CIA is alleged to have blocked the divestment of material from the contractor to BAASS",
+"id": "cia",
+"l0": true,
+"label": "Central Intelligence Agency",
+"note": "Rep. Burlison read Christopher Sharp's reporting of a CIA block into the 13 November 2024 hearing and Elizondo replied 'What I can say is that it was blocked.' AARO separately records an interviewee claim that 'a former named senior CIA official quashed the proposal to remove the material from the corporation.'",
+"sources": [
+{
+"date": "2024-11-13",
+"name": "House Oversight hearing transcript, 'Unidentified Anomalous Phenomena: Exposing the Truth' (CHRG-118hhrg57440)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm"
+},
+{
+"date": "2024-03-08",
+"name": "AARO, 'Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP), Volume I'",
+"url": "https://documents2.theblackvault.com/documents/dod/AARO_Historical_Record_Report_Volume_1_2024.pdf"
+}
+],
+"tier": "A",
+"type": "denial"
+},
+{
+"claimTier": 1,
+"cls": "domain",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "the prime where classified contract line items and sworn allegation meet",
+"id": "d-contracting",
+"l0": false,
+"label": "Federal Contracting Mechanics",
+"note": "Lockheed Martin's prime contract obligations run to the hundreds of billions of dollars in USAspending records, a portion carried as classified line items visible in financial systems only as a number. It is also the only company named on the floor of a congressional hearing by a sworn witness in connection with the custody allegation, which makes it the test case for whether contracting records can be made to answer the question.",
+"sources": [
+{
+"date": "2026-08-21",
+"name": "USAspending.gov, federal award search (prime contract obligations by recipient)",
+"url": "https://www.usaspending.gov/search"
+},
+{
+"date": "2023-07-26",
+"name": "House Oversight hearing transcript, 'UAP: Implications on National Security, Public Safety, and Government Transparency' (CHRG-118hhrg53022)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm"
+},
+{
+"date": "2025-09-09",
+"name": "House Oversight Task Force hearing transcript, 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection' (CHRG-119hhrg61718)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "1986",
+"dateStart": "1965",
+"direction": "in",
+"edgeLabel": "inspected Lockheed's other contracts while excluded from its special access contract",
+"id": "defense-investigative-service",
+"l0": false,
+"label": "Defense Investigative Service",
+"note": "GAO to the Secretary of Defense: the failure 'may not have occurred if the Defense Investigative Service had been permitted to conduct semiannual inspections of the contract, as it does with other contracts at Lockheed.'",
+"sources": [
+{
+"date": "1986-08-07",
+"name": "GAO/NSIAD-86-191, 7 August 1986",
+"url": "https://www.gao.gov/assets/nsiad-86-191.pdf"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 2,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "authored by Lockheed Martin Space Systems staff",
+"id": "dird-aneutronic-fusion-propulsion-2",
+"l0": false,
+"label": "Aneutronic Fusion Propulsion (DIA-08-1011-004)",
+"note": "Follows from the Teofilo attribution. The DIA list gives Teofilo's affiliation of record as Lockheed Martin. Lockheed Martin is the most represented corporate institution on the DIRD author list, with three of the 38 deliverables (Teofilo, Macheret, Golightly).",
+"sources": [
+{
+"date": "2026-08-22",
+"name": "Released DIRD, 'Aneutronic Fusion Propulsion (DIA-08-1011-004)' — FOIA copy, cover page read 22 August 2026",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_37-DIRD_Aneutronic_Fusion_Propulsion_II.pdf"
+},
+{
+"date": "2026-08-22",
+"name": "DIA FOIA Electronic Reading Room entry for this reference document",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237644/"
+},
+{
+"date": "2026-08-23",
+"name": "DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations",
+"url": "https://fas.org/publication/aatip-list/"
+},
+{
+"date": null,
+"name": "https://irp.fas.org/dia/aatip-list.pdf",
+"url": "https://irp.fas.org/dia/aatip-list.pdf"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "author's employer at time of writing (Skunk Works)",
+"id": "dird-mhd-air-breathing-propulsion-and-power",
+"l0": false,
+"label": "MHD Air Breathing Propulsion and Power for Aerospace Applications",
+"note": "Lockheed Martin is the affiliation recorded on the DIA congressional list. Macheret was a senior staff engineer at Lockheed Martin Aeronautics, Skunk Works, from 2006 to 2014, bracketing the document's ICOD and publication date. Lockheed Martin is credited with three of the 38 products on the DIA list.",
+"sources": [
+{
+"date": "2026-08-22",
+"name": "Released DIRD, 'MHD Air Breathing Propulsion and Power for Aerospace Applications' — FOIA copy, cover page read 22 August 2026",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_33-DIRD_MHD_Air_Breathing_Propulsion_and_Power_for_Aerospace_Applications.pdf"
+},
+{
+"date": "2026-08-22",
+"name": "DIA FOIA Electronic Reading Room entry for this reference document",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237629/"
+},
+{
+"date": "2026-08-23",
+"name": "DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations",
+"url": "https://fas.org/publication/aatip-list/"
+},
+{
+"date": null,
+"name": "https://irp.fas.org/dia/aatip-list.pdf",
+"url": "https://irp.fas.org/dia/aatip-list.pdf"
+},
+{
+"date": null,
+"name": "https://en.wikipedia.org/wiki/Sergey_Macheret",
+"url": "https://en.wikipedia.org/wiki/Sergey_Macheret"
+},
+{
+"date": null,
+"name": "https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk",
+"url": "https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "author's affiliation of record; one of three Lockheed Martin DIRDs",
+"id": "dird-ultracapacitors-as-energy-and-power-storage",
+"l0": false,
+"label": "Ultracapacitors as Energy and Power Storage Devices for Commercial and Military Applications",
+"note": "Lockheed Martin appears three times on the DIA list: this paper, Dr V Teofilo's \"Aneutronic Fusion Propulsion,\" and Dr S Macheret's MHD air-breathing propulsion paper. Eric Davis said in a June 2018 interview that the advanced nuclear fusion for aerospace propulsion work was done by colleagues at Lockheed Martin, which matches the list. This is a direct, documented thread from the DIRD series into the prime-contractor cluster.",
+"sources": [
+{
+"date": "2026-08-22",
+"name": "Released DIRD, 'Ultracapacitors as Energy and Power Storage Devices for Commercial and' — FOIA copy, cover page read 22 August 2026",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_32-DIRD_Ultracapacitators_as_Energy_and_Power_Storage_Devices.pdf"
+},
+{
+"date": "2026-08-22",
+"name": "DIA FOIA Electronic Reading Room entry for this reference document",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237620/"
+},
+{
+"date": "2026-08-23",
+"name": "DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations",
+"url": "https://fas.org/publication/aatip-list/"
+},
+{
+"date": null,
+"name": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html",
+"url": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html"
+},
+{
+"date": null,
+"name": "https://ufos-scientificresearch.blogspot.com/2018/06/those-defense-intelligence-reference.html",
+"url": "https://ufos-scientificresearch.blogspot.com/2018/06/those-defense-intelligence-reference.html"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "1986",
+"dateStart": "1986",
+"direction": "in",
+"edgeLabel": "the contractor whose special-access document control the testimony examined",
+"id": "gao-130581",
+"l0": false,
+"label": "GAO accession 130581 - Controls Over Classified Documents for a Special Access Program at Lockheed Corporation",
+"note": "GAO reported 1,460 discrepancies in an inventory of about 40,000 secret and top-secret items across 53 document control substations, with 11 documents unresolved as of 19 July 1986.",
+"sources": [
+{
+"date": "1986-07-24",
+"name": "GAO accession 130581, testimony of 24 July 1986",
+"url": "https://www.gao.gov/assets/130581.pdf"
+}
+],
+"tier": "B",
+"type": "investigative"
+},
+{
+"claimTier": 2,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2024",
+"direction": "out",
+"edgeLabel": "Alleged domain-partitioned allocation of material across primes by technical expertise",
+"id": "general-dynamics",
+"l0": false,
+"label": "General Dynamics Corporation",
+"note": "Rep. Mace proposed that undersea propulsion material would go to a contractor like General Dynamics and aerospace material to Lockheed; Elizondo answered 'Yes, ma'am, absolutely correct. Different contractors have different levels of expertise.'",
+"sources": [
+{
+"date": "2024-11-13",
+"name": "House Oversight hearing transcript, 'Unidentified Anomalous Phenomena: Exposing the Truth' (CHRG-118hhrg57440)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm"
+}
+],
+"tier": "C",
+"type": "programmatic"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2025",
+"dateStart": "2025",
+"direction": "in",
+"edgeLabel": "Knapp named Lockheed Martin under oath as a corporate holder of recovered material",
+"id": "george-knapp",
+"l0": false,
+"label": "George Knapp",
+"note": "Asked by Rep. Burchett which corporations hold the material, Knapp answered 'Well, one of them is Lockheed... There is a list I can give you, Congressman.' He declined to characterise the company as culpable, attributing the tasking to the intelligence agencies.",
+"sources": [
+{
+"date": "2025-09-09",
+"name": "House Oversight Task Force on the Declassification of Federal Secrets hearing transcript, 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection' (CHRG-119hhrg61718, Serial No. 119-44)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm"
+}
+],
+"tier": "A",
+"type": "witness-chain"
+},
+{
+"claimTier": 1,
+"cls": "legislation",
+"dateEnd": "2023",
+"dateStart": "2023",
+"direction": "in",
+"edgeLabel": "SSCI would have compelled contractors to list all 'non-earth origin or exotic' material they hold, with immunity",
+"id": "iaa-fy2024-sec1104",
+"l0": false,
+"label": "S. 2103 Sec. 1104 - SSCI contractor disclosure and immunity provision (stripped)",
+"note": "S. 2103 Sec. 1104(d)-(e), reported unanimously on 22 June 2023, required notification to the DNI within 60 days and production within 180, and barred any criminal or civil action against a complying holder. The phrase 'non-earth origin' does not appear in the enacted law.",
+"sources": [
+{
+"date": "2023-06-22",
+"name": "S. 2103, Intelligence Authorization Act for Fiscal Year 2024, as reported by the Senate Select Committee on Intelligence (Sec. 1104)",
+"url": "https://www.govinfo.gov/content/pkg/BILLS-118s2103rs/html/BILLS-118s2103rs.htm"
+},
+{
+"date": "2023-06-24",
+"name": "Christopher Sharp, 'Senate Intelligence Committee Proposes Amnesty to Defense Contractors for Disclosure of Non-Earth Origin or Exotic Materials,' Liberation Times",
+"url": "https://www.liberationtimes.com/home/senate-intelligence-committee-proposes-amnesty-to-defense-contractors-for-disclosure-of-non-earth-origin-or-exotic-materials-in-approved-ufo-language"
+}
+],
+"tier": "C",
+"type": "legislative"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "2025",
+"direction": "in",
+"edgeLabel": "Ryder is identified in sworn testimony as a Lockheed Martin figure",
+"id": "james-ryder",
+"l0": false,
+"label": "Dr. James Ryder",
+"note": "The only public source for the association is Knapp's sworn testimony; no corporate record confirming Ryder's role, dates or portfolio has been located, and neither Ryder nor Lockheed Martin has publicly responded.",
+"sources": [
+{
+"date": "2025-09-09",
+"name": "House Oversight Task Force on the Declassification of Federal Secrets hearing transcript, 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection' (CHRG-119hhrg61718, Serial No. 119-44)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2023",
+"dateStart": "2023",
+"direction": "in",
+"edgeLabel": "Corbell publicly challenged the Senate Appropriations Committee to audit Lockheed Martin's special access programs",
+"id": "jeremy-corbell",
+"l0": false,
+"label": "Jeremy Kenyon Lockyer Corbell",
+"note": "Speaking alongside Rep. Burchett in March 2023, Corbell named Senators Murray and Collins and the Committee's jurisdiction over spending. Elizondo responded that the inquiry should not be limited to one aerospace company 'but to several others that have likely played a key historical role.'",
+"sources": [
+{
+"date": "2023-03-11",
+"name": "Christopher Sharp, 'Lockheed Martin Challenged On UFO Legacy Programs, As Politicians Talk Hearings,' Liberation Times",
+"url": "https://www.liberationtimes.com/home/lockheed-martin-challenged-on-ufo-legacy-programs-as-politicians-talk-hearings"
+}
+],
+"tier": "C",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": "2012",
+"dateStart": "2011",
+"direction": "in",
+"edgeLabel": "The proposal's premise was that existing holdings would be moved into a structure Congress could see",
+"id": "kona-blue",
+"l0": true,
+"label": "KONA BLUE",
+"note": "AARO records the proponents' belief that creating the program under DHS 'would allow all of the technology and knowledge of these alleged programs to be moved under the KONA BLUE program' where it could be properly monitored by oversight committees.",
+"sources": [
+{
+"date": "2024-03-08",
+"name": "AARO, 'Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP), Volume I'",
+"url": "https://documents2.theblackvault.com/documents/dod/AARO_Historical_Record_Report_Volume_1_2024.pdf"
+}
+],
+"tier": "A",
+"type": "programmatic"
+},
+{
+"claimTier": 2,
+"cls": "location",
+"dateEnd": "2025-09-09",
+"dateStart": "2009",
+"direction": "out",
+"edgeLabel": "The most-repeated custody allegation names Lockheed and California",
+"id": "l-la",
+"l0": false,
+"label": "Los Angeles and Burbank, California",
+"note": "Knapp testified that Bigelow negotiated with a senior Lockheed executive for unusual material safeguarded in California; analysis found no unknown elements but a composition suggesting fabrication in zero gravity. The agreement was never completed.",
+"sources": [
+{
+"date": "2025-09-09",
+"name": "George Knapp written testimony (PDF)",
+"url": "https://oversight.house.gov/wp-content/uploads/2025/09/George-Knapp-Written-Testimony.pdf"
+}
+],
+"tier": "B",
+"type": "custody"
+},
+{
+"claimTier": 2,
+"cls": "location",
+"dateEnd": "2026",
+"dateStart": "2026",
+"direction": "out",
+"edgeLabel": "Lockheed Martin is named among the contractors supporting NAVAIR work at the site alleged to store an exotic vehicle",
+"id": "l-pax-river",
+"l0": false,
+"label": "Naval Air Station Patuxent River, Maryland",
+"note": "Liberation Times reported in January 2026 that an exotic vehicle has been stored at Pax River for decades and that the supporting contractor ecosystem has included Lockheed Martin and MITRE.",
+"sources": [
+{
+"date": "2026-01-13",
+"name": "Christopher Sharp, 'UFO Allegedly Stored At East Coast Navy Facility As Material Transfer Claims Resurface,' Liberation Times",
+"url": "https://www.liberationtimes.com/home/ufo-allegedly-stored-at-east-coast-navy-facility-as-material-transfer-claims-resurface"
+}
+],
+"tier": "B",
+"type": "custody"
+},
+{
+"claimTier": 3,
+"cls": "location",
+"dateEnd": "2010",
+"dateStart": "2009",
+"direction": "out",
+"edgeLabel": "The unnamed 'facility in California' in the sworn testimony is most plausibly in the Palmdale complex",
+"id": "l-plant-42",
+"l0": false,
+"label": "Air Force Plant 42, Palmdale, California",
+"note": "Reasoning: Knapp specified California and Lockheed; Lockheed's California SAP-accredited aeronautics footprint is concentrated at Palmdale. No witness has named a site and the board does not assert one.",
+"sources": [
+{
+"date": "2025-09-09",
+"name": "House Oversight Task Force on the Declassification of Federal Secrets hearing transcript, 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection' (CHRG-119hhrg61718, Serial No. 119-44)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm"
+}
+],
+"tier": "C",
+"type": "custody"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2024",
+"dateStart": "2024",
+"direction": "in",
+"edgeLabel": "Elizondo confirmed on the record that the aerospace contractor divestment was blocked",
+"id": "luis-elizondo",
+"l0": false,
+"label": "Luis D. Elizondo",
+"note": "Elizondo told the House that 'there was an aerospace contract company that requested to divest itself of the material... that was collected in the 1950s' and confirmed the reported Lockheed-Bigelow transfer 'was blocked,' adding that a required Secretary of the Air Force memorandum never issued.",
+"sources": [
+{
+"date": "2024-11-13",
+"name": "House Oversight hearing transcript, 'Unidentified Anomalous Phenomena: Exposing the Truth' (CHRG-118hhrg57440)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm"
+}
+],
+"tier": "A",
+"type": "witness-chain"
+},
+{
+"claimTier": 1,
+"cls": "legislation",
+"dateEnd": null,
+"dateStart": "2023",
+"direction": "in",
+"edgeLabel": "The IR&D restriction applies directly to covered prime contractors",
+"id": "ndaa-fy2024-1687",
+"l0": true,
+"label": "FY2024 NDAA sec. 1687 — Limitation on Use of Funds for Certain Unreported Programs",
+"note": "DoDI 3204.01 covers major contractors allocating over $11 million in IR&D and bid-and-proposal costs; the primes on this board are all covered contractors, and none has publicly reported a disclosure under Sec. 1687(b).",
+"sources": [
+{
+"date": "2023-12-22",
+"name": "National Defense Authorization Act for Fiscal Year 2024, Public Law 118-31 (enacted text)",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm"
+},
+{
+"date": "2020-07-09",
+"name": "DoD Instruction 3204.01, 'DoD Policy for Oversight of Independent Research and Development (IR&D)' (Change 2)",
+"url": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/320401p.pdf"
+},
+{
+"date": "2026-08-12",
+"name": "USAspending.gov federal award search (prime contract obligations by recipient)",
+"url": "https://www.usaspending.gov/search"
+}
+],
+"tier": "A",
+"type": "funding"
+},
+{
+"claimTier": 3,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "1955",
+"direction": "in",
+"edgeLabel": "RIAS was the Glenn L. Martin Company's institute; the corporate succession to Lockheed Martin is not documented here",
+"id": "rias-inc",
+"l0": false,
+"label": "RIAS, Inc. (Research Institute for Advanced Studies)",
+"note": "What is sourced is that RIAS belonged to the Glenn Martin Company. The chain from Glenn L. Martin through Martin Marietta to Lockheed Martin was NOT read off any document in this pass, and this edge is graded Tier 3 for that reason alone.",
+"sources": [
+{
+"date": "2011-01-01",
+"name": "Dean Rickles, 'The Chapel Hill Conference in Context'",
+"url": "https://edition-open-sources.org/sources/5/3/index.html"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 3,
+"cls": "person",
+"dateEnd": "1994",
+"dateStart": "1994",
+"direction": "in",
+"edgeLabel": "D'Amato is reported to have judged a private-company cover-up 'entirely feasible'",
+"id": "richard-damato",
+"l0": false,
+"label": "Richard D'Amato",
+"note": "Knapp attributes to D'Amato the conclusion that the cover-up could feasibly exist within a private company such as Lockheed Martin, EG&G or Northrop Grumman. D'Amato's own public statement records no opinion and treats the inquiry as closed.",
+"sources": [
+{
+"date": "2023-02-28",
+"name": "Christopher Sharp, 'Former Chief For Defense Contractor That Ran Area 51 Claimed Knowledge Of Recovered Flying Saucer And Live Being,' Liberation Times",
+"url": "https://www.liberationtimes.com/home/former-chief-for-defense-contractor-that-ran-area-51-claimed-knowledge-of-recovered-flying-saucer-and-live-being-as-congress-looks-to-uncover-details-of-alleged-illegal-ufo-programs"
+},
+{
+"date": "2023-03-11",
+"name": "Christopher Sharp, 'Lockheed Martin Challenged On UFO Legacy Programs, As Politicians Talk Hearings,' Liberation Times",
+"url": "https://www.liberationtimes.com/home/lockheed-martin-challenged-on-ufo-legacy-programs-as-politicians-talk-hearings"
+}
+],
+"tier": "C",
+"type": "investigative"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2014-12-31",
+"dateStart": "2006-01-01",
+"direction": "in",
+"edgeLabel": "senior staff engineer, Lockheed Martin Aeronautics (Skunk Works)",
+"id": "sergey-macheret",
+"l0": false,
+"label": "Sergey O. Macheret",
+"note": "Macheret held a senior staff engineer post at Lockheed Martin Aeronautics Company, Skunk Works, from 2006 to 2014, working on advanced aerospace plasma applications, before joining Purdue University as professor of aeronautics and astronautics in 2014. Lockheed Martin is the affiliation DIA recorded for him on the congressional list.",
+"sources": [
+{
+"date": null,
+"name": "https://en.wikipedia.org/wiki/Sergey_Macheret",
+"url": "https://en.wikipedia.org/wiki/Sergey_Macheret"
+},
+{
+"date": null,
+"name": "https://digitwin2024.polytechnic.purdue.edu/AAE/spotlights/2022/2022-0331-Sergey-Macheret-AIAA-plasma-lasers-award",
+"url": "https://digitwin2024.polytechnic.purdue.edu/AAE/spotlights/2022/2022-0331-Sergey-Macheret-AIAA-plasma-lasers-award"
+},
+{
+"date": null,
+"name": "https://irp.fas.org/dia/aatip-list.pdf",
+"url": "https://irp.fas.org/dia/aatip-list.pdf"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "1947",
+"dateStart": "1947",
+"direction": "in",
+"edgeLabel": "US 2,417,347 assigned by mesne assignments to Lockheed Aircraft Corporation",
+"id": "thomas-townsend-brown",
+"l0": false,
+"label": "Thomas Townsend Brown",
+"note": "The patent's own inventor line reads 'Thomas T. Brown, Laguna Beach, Calif., assignor by mesne assignments to Lockheed Aircraft Corporation'. This is the one item in Brown's self-authored biography that a second document corroborates.",
+"sources": [
+{
+"date": "1947-03-11",
+"name": "US Patent 2,417,347, Vibration Damper, assignment line",
+"url": "https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/2417347"
+}
+],
+"tier": "A",
+"type": "research"
+},
+{
+"claimTier": 1,
+"cls": "legislation",
+"dateEnd": "2023",
+"dateStart": "2023",
+"direction": "in",
+"edgeLabel": "The Senate voted to seize privately held recovered technology by eminent domain",
+"id": "uapda-2023",
+"l0": true,
+"label": "UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)",
+"note": "The Senate passed Division I of the NDAA on 27 July 2023 including Sec. 9010, and defined 'legacy program' to include 'commercial industry... and private sector endeavors to collect, exploit, or reverse engineer technologies of unknown origin.' No named company is in the text; the provision only has meaning if some entity holds something.",
+"sources": [
+{
+"date": "2023-07-27",
+"name": "H.R. 2670, NDAA FY2024 as passed by the Senate, Division I - Unidentified Anomalous Phenomena Disclosure Act of 2023 (Sec. 9001-9010)",
+"url": "https://www.govinfo.gov/content/pkg/BILLS-118hr2670eas/html/BILLS-118hr2670eas.htm"
+}
+],
+"tier": "A",
+"type": "legislative"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "physicist, Lockheed Martin Space Systems, 28 years",
+"id": "vincent-teofilo",
+"l0": false,
+"label": "Vincent L. Teofilo",
+"note": "Spent 28 years at Lockheed Martin Space Systems, contributing to the Hubble Space Telescope and the Space-Based Infrared System, before and during the period he was commissioned for the DIRD. This is his affiliation of record on the DIA list.",
+"sources": [
+{
+"date": null,
+"name": "https://www.legacy.com/us/obituaries/name/vincent-teofilo-obituary?id=60785077",
+"url": "https://www.legacy.com/us/obituaries/name/vincent-teofilo-obituary?id=60785077"
+},
+{
+"date": null,
+"name": "https://irp.fas.org/dia/aatip-list.pdf",
+"url": "https://irp.fas.org/dia/aatip-list.pdf"
+}
+],
+"tier": "C",
+"type": "institutional"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "1995",
+"deg": 29,
+"denials": [
+{
+"by": {
+"id": "aaro-fy2025-annual-report",
+"label": "AARO FY2025 Consolidated Annual Report on UAP"
+},
+"claimTier": 1,
+"denialKind": "directed",
+"label": "The 2026 official denial is maintained without any inspection of contractor holdings",
+"note": "No AARO report describes an inspection, audit or subpoena of any contractor facility or holding; the denials rest on voluntary corporate statements taken at meetings with the Director.",
+"of": {
+"id": "lockheed-martin",
+"label": "Lockheed Martin Corporation"
+},
+"sources": [
+{
+"date": "2026-07-21",
+"name": "The Black Vault, 'AARO Releases FY2025 UAP Report Months After Statutory Deadline, Citing 319 New Cases and Expanded Satellite Analysis'",
+"url": "https://www.theblackvault.com/documentarchive/aaro-releases-fy2025-uap-report-months-after-statutory-deadline-citing-319-new-cases-and-expanded-satellite-analysis/"
+},
+{
+"date": "2024-03-08",
+"name": "AARO, 'Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP), Volume I'",
+"url": "https://documents2.theblackvault.com/documents/dod/AARO_Historical_Record_Report_Volume_1_2024.pdf"
+}
+]
+},
+{
+"by": {
+"id": "cia",
+"label": "Central Intelligence Agency"
+},
+"claimTier": 2,
+"denialKind": "directed",
+"label": "CIA is alleged to have blocked the divestment of material from the contractor to BAASS",
+"note": "Rep. Burlison read Christopher Sharp's reporting of a CIA block into the 13 November 2024 hearing and Elizondo replied 'What I can say is that it was blocked.' AARO separately records an interviewee claim that 'a former named senior CIA official quashed the proposal to remove the material from the corporation.'",
+"of": {
+"id": "lockheed-martin",
+"label": "Lockheed Martin Corporation"
+},
+"sources": [
+{
+"date": "2024-11-13",
+"name": "House Oversight hearing transcript, 'Unidentified Anomalous Phenomena: Exposing the Truth' (CHRG-118hhrg57440)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm"
+},
+{
+"date": "2024-03-08",
+"name": "AARO, 'Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP), Volume I'",
+"url": "https://documents2.theblackvault.com/documents/dod/AARO_Historical_Record_Report_Volume_1_2024.pdf"
+}
+]
+},
+{
+"by": {
+"id": "lockheed-martin",
+"label": "Lockheed Martin Corporation"
+},
+"claimTier": 1,
+"denialKind": "directed",
+"label": "Executives and CTOs of the unnamed 'named companies' denied recovery or possession to AARO's Director on the record",
+"note": "AARO states it met high-ranking officials of the companies named by interviewees and that all denied the existence of the programs and attested to the truthfulness of their statements. AARO does not name a single company, and describes no inspection of any facility or holding.",
+"of": {
+"id": "aaro-historical-record-vol1",
+"label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+},
+"sources": [
+{
+"date": "2024-03-08",
+"name": "AARO, 'Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP), Volume I'",
+"url": "https://documents2.theblackvault.com/documents/dod/AARO_Historical_Record_Report_Volume_1_2024.pdf"
+}
+]
+}
+],
+"desc": "Lockheed Martin is the company named more often than any other in the custody allegation, and the only one named on the floor of a congressional hearing by a sworn witness. Its documented government relationship is total: USAspending records show prime contract obligations to Lockheed Martin recipient entities running to the hundreds of billions of dollars since FY2008, spanning the F-35, Trident II D5, missile defense, national security space and classified aeronautics. It operates cleared facilities under DoD special access program accreditation, including Air Force Plant 42 at Palmdale and the Advanced Development Programs organisation that AARO's own historical report describes by name. The custody allegation attaches at three separate points. First, George Knapp testified under oath on 9 September 2025 that Robert Bigelow and an AAWSAP colleague negotiated with senior Lockheed Martin executives for a quantity of material 'stashed away and protected at a facility in California,' adding 'that material was not made here'; asked to name corporations holding material, he answered 'one of them is Lockheed,' and named a Lockheed executive as a gatekeeper. Second, Luis Elizondo testified on 13 November 2024 that an aerospace contractor sought to divest itself of material collected in the 1950s, confirmed the reported Lockheed-Bigelow transfer was blocked, and described a Secretary of the Air Force memorandum that never came. Third, AARO's Historical Record Report records - without naming companies - an interviewee claim that an organisation possessed off-world material in 2009 and 2010 and that a former senior CIA official quashed the proposal to remove it from the corporation. Lockheed Martin has issued no public rebuttal of the sworn testimony. AARO states that the executives and chief technology officers of the named companies met its Director and denied the allegations on the record.",
+"domains": [
+"primes-custody"
+],
+"dossier": {
+"claims": [
+{
+"source": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm",
+"text": "George Knapp testified under oath on 9 September 2025 that 'Robert Bigelow and a trusted colleague from AAWSAP met with and negotiated with senior executives at Lockheed Martin and hammered out a deal wherein Bigelow's company, BAASS, would receive a quantity of unusual material that had been stashed away and protected at a facility in California. That material was not made here.'",
+"tier": 1
+},
+{
+"source": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm",
+"text": "Asked by Rep. Tim Burchett at the same hearing to name the corporations holding the material, Knapp answered: 'Well, one of them is Lockheed.'",
+"tier": 1
+},
+{
+"source": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm",
+"text": "Knapp added at the same hearing: 'I am not saying Lockheed's the bad guys. They are doing what they were asked to do. ... They have lied about this because that is what they are supposed to do.'",
+"tier": 1
+},
+{
+"source": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm",
+"text": "Luis Elizondo testified on 13 November 2024 that 'there was an aerospace contract company that requested to divest itself of the material ... that was collected in the 1950s. Unfortunately, that did not actually occur.'",
+"tier": 1
+},
+{
+"source": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm",
+"text": "Asked at the same hearing about journalist Christopher Sharp's report of a transfer between Lockheed Martin and Bigelow Aerospace that the CIA blocked, Elizondo answered: 'What I can say is that it was blocked. Why it was blocked, I can only surmise. I was part of some conversations later on with some of those contract personnel where they had told all of us that is accurate.'",
+"tier": 1
+},
+{
+"source": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm",
+"text": "Elizondo testified at the same hearing that 'What we required was a memo from the Secretary of the Air Force in order to make that complete, and that never occurred.'",
+"tier": 1
+},
+{
+"source": "32 CFR 117.6(b)(3), National Industrial Security Program Operating Manual (NISPOM) Rule, 85 FR 83312, 21 December 2020 - https://www.ecfr.gov/current/title-32/subtitle-A/chapter-I/subchapter-D/part-117/section-117.6",
+"text": "32 CFR 117.6(b)(3) provides that 'The Director, DCSA, will be relieved of this oversight function for DoD special access programs (SAPs) when the Secretary of Defense or the Deputy Secretary of Defense approves a carve-out provision in accordance with DoDD 5205.07' - the legal mechanism by which a cleared contractor facility can be removed from the government's standing industrial security inspection regime.",
+"tier": 1
+},
+{
+"source": "https://www.esd.whs.mil/portals/54/documents/dd/issuances/dodd/520507p.pdf",
+"text": "DoD Directive 5205.07, 'Special Access Program Policy,' effective 12 September 2024, states at Section 3.1.g that 'No DoD contractor entity, contractor employee, contractor representative, or consultant will provide SAP material to any members of Congress or their staff without Director, DoD SAPCO approval.'",
+"tier": 1
+},
+{
+"source": "https://www.law.cornell.edu/uscode/text/10/119",
+"text": "10 U.S.C. 119(e) permits the Secretary of Defense to waive the inclusion of specified information in required SAP reports on a case-by-case national security determination, in which case the information and the waiver justification go only 'jointly to the chairman and ranking minority member of each of the defense committees.'",
+"tier": 1
+},
+{
+"source": "https://documents2.theblackvault.com/documents/dod/AARO_Historical_Record_Report_Volume_1_2024.pdf",
+"text": "AARO's Historical Record Report, Volume I, records an interviewee claim that an organisation 'was in possession of off-world material in 2009 and 2010,' that a separate interviewee 'participated in negotiations to return the material to the USG,' and that 'a former named senior CIA official quashed the proposal to remove the material from the corporation.'",
+"tier": 2
+},
+{
+"source": "https://documents2.theblackvault.com/documents/dod/AARO_Historical_Record_Report_Volume_1_2024.pdf",
+"text": "The same AARO report records a separate interviewee claim that an organisation held twelve spacecraft recovered from different crash events prior to 1970, some allegedly 'intact,' and that the CIA had a partnership with the company that ended in 1989.",
+"tier": 2
+},
+{
+"source": "https://documents2.theblackvault.com/documents/dod/AARO_Historical_Record_Report_Volume_1_2024.pdf",
+"text": "AARO's stated basis for rejecting the corporate custody allegation is that 'The executives, scientists, and chief technology officers of the companies named by interviewees met with the Director of AARO and denied on the record that they have ever recovered, possessed, or engaged in reverse-engineering of extraterrestrial technology' - without naming the executives, the companies, the dates, or any verification step beyond the meeting.",
+"tier": 2
+},
+{
+"source": "https://burlison.house.gov/sites/evo-subsites/burlison.house.gov/files/evo-media-document/mitre_uap-legislative-interrogatories_press.pdf",
+"text": "Rep. Eric Burlison's 22 May 2026 interrogatories to MITRE list Lockheed Martin first among the entities whose UAP-related work MITRE must identify, placing the company's name in a formal congressional production request rather than only in testimony.",
+"tier": 1
+},
+{
+"source": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm",
+"text": "No contract, facility designation, transfer or shipping document, inventory record, subpoena, inspection report, or on-the-record corporate response from Lockheed Martin to the sworn testimony naming it has been placed in the public record.",
+"tier": 3
+}
+],
+"denialPosture": "Lockheed Martin has issued no public, on-the-record rebuttal of the sworn testimony of September 2025 naming it. The only denial in the documentary record is AARO's summary statement in its 2024 Historical Record Report that unnamed 'executives, scientists, and chief technology officers of the companies named by interviewees' met the Director of AARO and denied ever having recovered, possessed or reverse-engineered extraterrestrial technology.",
+"narrative": "The Lockheed Martin allegation is unusual on this board because it is the one that has been made under oath, in a hearing room, with a company name attached. On 9 September 2025, before the House Oversight Committee's Task Force on the Declassification of Federal Secrets, George Knapp told the committee: 'It has been widely reported and suspected that Lockheed Martin is one of the contractors - the defense contractors, that has held this stuff, stored it away in secrecy, and tried to figure out how it works.' He then went further and put his own reporting on the record: 'I have confirmed on the record that Robert Bigelow and a trusted colleague from AAWSAP met with and negotiated with senior executives at Lockheed Martin and hammered out a deal wherein Bigelow's company, BAASS, would receive a quantity of unusual material that had been stashed away and protected at a facility in California. That material was not made here.' Later in the same hearing Rep. Tim Burchett asked which corporations hold the material. Knapp answered: 'Well, one of them is Lockheed.' He added a line that is, for the purposes of this map, more revealing than the accusation itself: 'I am not saying Lockheed's the bad guys. They are doing what they were asked to do. ... They have lied about this because that is what they are supposed to do.'\n\nTen months earlier, on 13 November 2024, Luis Elizondo had testified to the same transaction from inside the government side of it. Asked by Rep. Burlison whether the government or defence contractors possess technology, Elizondo said one reason his predecessor programme AAWSAP was trying to collect material of unknown origin was that 'there was an aerospace contract company that requested to divest itself of the material ... that was collected in the 1950s. Unfortunately, that did not actually occur.' Burlison then put the Christopher Sharp reporting to him directly - a transfer between Lockheed Martin, Bigelow Aerospace, and a CIA block - and Elizondo answered: 'What I can say is that it was blocked. Why it was blocked, I can only surmise. I was part of some conversations later on with some of those contract personnel where they had told all of us that is accurate.' He described the missing instrument: 'What we required was a memo from the Secretary of the Air Force in order to make that complete, and that never occurred.'\n\nThe official record does not name the company, but it does record the allegation. AARO's Historical Record Report, Volume I, logs an interviewee claim that an organisation 'was in possession of off-world material in 2009 and 2010,' that a separate interviewee 'participated in negotiations to return the material to the USG,' and that 'a former named senior CIA official quashed the proposal to remove the material from the corporation.' A separate entry logs a claim that an organisation held twelve spacecraft recovered from crash events prior to 1970, some allegedly intact, under a CIA partnership that ended in 1989. AARO says it found no empirical evidence for either. AARO's denial is procedurally notable in its own right: 'The executives, scientists, and chief technology officers of the companies named by interviewees met with the Director of AARO and denied on the record that they have ever recovered, possessed, or engaged in reverse-engineering of extraterrestrial technology.' AARO does not say which executives, at which companies, on what date, and describes no verification step beyond the meeting itself. Under this board's sourcing rule, that is an artefact of a statement, not evidence of the fact asserted.\n\nWhat makes the allegation structurally survivable rather than merely unproven is the regulatory architecture around a company like Lockheed Martin. Industrial security oversight of cleared contractors is normally exercised by the Defense Counterintelligence and Security Agency under the National Industrial Security Program. But 32 CFR 117.6(b)(3) provides that 'The Director, DCSA, will be relieved of this oversight function for DoD special access programs (SAPs) when the Secretary of Defense or the Deputy Secretary of Defense approves a carve-out provision in accordance with DoDD 5205.07.' A carve-out programme is therefore a cleared contractor facility from which the government's own standing industrial security inspector has been formally removed by name, at the direction of the second-ranking official in the Department.\n\nThe congressional side is narrowed by the same directive. DoD Directive 5205.07, reissued 12 September 2024, states at Section 3.1.g: 'No DoD contractor entity, contractor employee, contractor representative, or consultant will provide SAP material to any members of Congress or their staff without Director, DoD SAPCO approval.' That is a standing prior-restraint on contractor-to-Congress disclosure inside the SAP world, in an unclassified, publicly posted directive. The statutory reporting channel is narrower still: 10 U.S.C. 119(e) lets the Secretary of Defense waive the content of any SAP report to the defence committees on a case-by-case national security determination, in which case the information goes 'jointly to the chairman and ranking minority member of each of the defense committees' - twelve people, not six bodies.\n\nSo the record on Lockheed Martin has an unusual shape. Two witnesses under oath, one of them a former Pentagon official, describing the same blocked transfer with the same missing Secretary of the Air Force memorandum. An official report that catalogues the allegation, does not name the company, and reports an unverified denial from unnamed executives. A statutory and regulatory framework that would make exactly this kind of holding invisible to the ordinary inspection and reporting machinery. And, on the other side of the ledger, no contract, no facility designation, no shipping document, no inventory, no subpoena, no inspection, and no on-the-record statement from Lockheed Martin responding to sworn testimony that named it.",
+"openQuestions": [
+"Whether any Lockheed Martin facility has ever operated under a Secretary or Deputy Secretary of Defense-approved carve-out relieving DCSA of industrial security oversight, and if so for which programmes and over what period. Carve-out approvals are not published.",
+"The identity of the 'facility in California' described in Knapp's sworn testimony, and whether it is a company-owned site or leased space on a government-owned installation.",
+"Whether the Secretary of the Air Force memorandum Elizondo described as necessary and never issued exists in draft, and in whose files.",
+"Whether Lockheed Martin executives were among those AARO says met its Director, and on what date - AARO names neither the companies nor the individuals.",
+"Lockheed Martin's SEC filings report results attributable to classified programmes without identifying them; whether any of those programmes intersect the custody allegation cannot be tested from the public filings and is a line of research, not a claim."
+],
+"roles": [
+"custody",
+"reverse-engineering",
+"concealment"
+],
+"whatItIs": "Lockheed Martin Corporation is the largest single recipient of United States defense contract obligations, formed by the 1995 merger of Lockheed and Martin Marietta. It operates cleared facilities accredited for Special Access Program work and runs the Advanced Development Programs organisation, the Skunk Works, which has built the U-2, SR-71 and F-117 among other classified aircraft. It is the only corporation named on the record, by a sworn witness in a congressional hearing, as a holder of recovered non-terrestrial material.",
+"whyImplicated": "Lockheed Martin sits at the intersection of the two conditions this board treats as necessary for a legacy programme to survive without congressional visibility: a company with the industrial capacity to store and work on recovered material, and a legal regime that can lift normal industrial security oversight off it. Under 32 CFR 117.6(b)(3) the Director of DCSA is relieved of National Industrial Security Program oversight for DoD special access programs whenever the Secretary or Deputy Secretary approves a carve-out provision. Under DoD Directive 5205.07, no contractor employee or consultant may provide SAP material to any member of Congress or their staff without the approval of the Director of the DoD SAP Central Office. Two sworn witnesses - George Knapp in September 2025 and Luis Elizondo in November 2024 - have testified to a specific, dated, blocked transaction in which material collected in the 1950s and held at a California facility was to move from a corporation to Bigelow's BAASS, and did not. Lockheed Martin has issued no public rebuttal of that sworn testimony."
+},
+"entityInfo": {
+"desc": "Longer note on the state of the Lockheed Martin allegation as of August 2026. Four independent strands converge on the company and none of them has produced a document. (1) Sworn testimony: George Knapp, 9 September 2025, on the BAASS negotiation for material at a California facility and on Lockheed as one of the corporate holders; Luis Elizondo, 13 November 2024, confirming that the divestment of 1950s-collected material was blocked. (2) Official record: AARO's Historical Record Report catalogues, without naming companies, an allegation that an organisation held twelve pre-1970 recovered craft with a CIA partnership ending in 1989, and a separate allegation that an organisation held off-world material in 2009-2010 whose return to government was quashed by a former senior CIA official. (3) Legislative record: the Senate voted for federal eminent domain over recovered technology 'controlled by private persons or entities' and the Senate Intelligence Committee voted to compel contractors to inventory 'all non-earth origin or exotic' material; both provisions were stripped in conference. (4) Investigative journalism: Christopher Sharp's reporting, read into a congressional hearing by Rep. Burlison and confirmed by the witness. What is absent is equally specific: no contract, no facility designation, no shipping document, no internal Lockheed record, no subpoena, no inspection, and no on-the-record response from the company to the sworn testimony naming it. AARO says the executives denied everything on the record; AARO does not say which executives, at which companies, or on what date, and describes no verification beyond the meeting itself.",
+"sources": [
+{
+"date": "2025-09-09",
+"name": "House Oversight Task Force on the Declassification of Federal Secrets hearing transcript, 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection' (CHRG-119hhrg61718, Serial No. 119-44)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm"
+},
+{
+"date": "2024-11-13",
+"name": "House Oversight hearing transcript, 'Unidentified Anomalous Phenomena: Exposing the Truth' (CHRG-118hhrg57440)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm"
+},
+{
+"date": "2024-03-08",
+"name": "AARO, 'Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP), Volume I'",
+"url": "https://documents2.theblackvault.com/documents/dod/AARO_Historical_Record_Report_Volume_1_2024.pdf"
+},
+{
+"date": "2023-07-27",
+"name": "H.R. 2670, NDAA FY2024 as passed by the Senate, Division I - Unidentified Anomalous Phenomena Disclosure Act of 2023 (Sec. 9001-9010)",
+"url": "https://www.govinfo.gov/content/pkg/BILLS-118hr2670eas/html/BILLS-118hr2670eas.htm"
+},
+{
+"date": "2023-06-22",
+"name": "S. 2103, Intelligence Authorization Act for Fiscal Year 2024, as reported by the Senate Select Committee on Intelligence (Sec. 1104)",
+"url": "https://www.govinfo.gov/content/pkg/BILLS-118s2103rs/html/BILLS-118s2103rs.htm"
+}
+]
+},
+"era": "1",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "lockheed-martin",
+"l0": true,
+"label": "Lockheed Martin Corporation",
+"locLabel": null,
+"members": [
+{
+"cls": "person",
+"id": "ben-rich",
+"label": "Ben R. Rich",
+"tier": "C"
+},
+{
+"cls": "institution",
+"id": "bigelow-aerospace",
+"label": "Bigelow Aerospace",
+"tier": "A"
+},
+{
+"cls": "person",
+"id": "christopher-sharp",
+"label": "Christopher Sharp",
+"tier": "C"
+},
+{
+"cls": "domain",
+"id": "d-contracting",
+"label": "Federal Contracting Mechanics",
+"tier": "B"
+},
+{
+"cls": "institution",
+"id": "defense-investigative-service",
+"label": "Defense Investigative Service",
+"tier": "C"
+},
+{
+"cls": "document",
+"id": "dird-aneutronic-fusion-propulsion-2",
+"label": "Aneutronic Fusion Propulsion (DIA-08-1011-004)",
+"tier": "B"
+},
+{
+"cls": "document",
+"id": "dird-mhd-air-breathing-propulsion-and-power",
+"label": "MHD Air Breathing Propulsion and Power for Aerospace Applications",
+"tier": "C"
+},
+{
+"cls": "document",
+"id": "dird-ultracapacitors-as-energy-and-power-storage",
+"label": "Ultracapacitors as Energy and Power Storage Devices for Commercial and Military Applications",
+"tier": "B"
+},
+{
+"cls": "document",
+"id": "gao-130581",
+"label": "GAO accession 130581 - Controls Over Classified Documents for a Special Access Program at Lockheed Corporation",
+"tier": "B"
+},
+{
+"cls": "institution",
+"id": "general-dynamics",
+"label": "General Dynamics Corporation",
+"tier": "C"
+},
+{
+"cls": "person",
+"id": "george-knapp",
+"label": "George Knapp",
+"tier": "A"
+},
+{
+"cls": "legislation",
+"id": "iaa-fy2024-sec1104",
+"label": "S. 2103 Sec. 1104 - SSCI contractor disclosure and immunity provision (stripped)",
+"tier": "C"
+},
+{
+"cls": "person",
+"id": "james-ryder",
+"label": "Dr. James Ryder",
+"tier": "C"
+},
+{
+"cls": "person",
+"id": "jeremy-corbell",
+"label": "Jeremy Kenyon Lockyer Corbell",
+"tier": "C"
+},
+{
+"cls": "location",
+"id": "l-la",
+"label": "Los Angeles and Burbank, California",
+"tier": "B"
+},
+{
+"cls": "location",
+"id": "l-pax-river",
+"label": "Naval Air Station Patuxent River, Maryland",
+"tier": "B"
+},
+{
+"cls": "location",
+"id": "l-plant-42",
+"label": "Air Force Plant 42, Palmdale, California",
+"tier": "C"
+},
+{
+"cls": "person",
+"id": "luis-elizondo",
+"label": "Luis D. Elizondo",
+"tier": "A"
+},
+{
+"cls": "institution",
+"id": "rias-inc",
+"label": "RIAS, Inc. (Research Institute for Advanced Studies)",
+"tier": "C"
+},
+{
+"cls": "person",
+"id": "richard-damato",
+"label": "Richard D'Amato",
+"tier": "C"
+},
+{
+"cls": "person",
+"id": "sergey-macheret",
+"label": "Sergey O. Macheret",
+"tier": "C"
+},
+{
+"cls": "person",
+"id": "thomas-townsend-brown",
+"label": "Thomas Townsend Brown",
+"tier": "A"
+},
+{
+"cls": "person",
+"id": "vincent-teofilo",
+"label": "Vincent L. Teofilo",
+"tier": "C"
+}
+],
+"short": "Lockheed Martin Corporation",
+"sources": [
+{
+"date": "2025-09-09",
+"name": "House Oversight Task Force on the Declassification of Federal Secrets hearing transcript, 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection' (CHRG-119hhrg61718, Serial No. 119-44)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm"
+},
+{
+"date": "2024-11-13",
+"name": "House Oversight hearing transcript, 'Unidentified Anomalous Phenomena: Exposing the Truth' (CHRG-118hhrg57440)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm"
+},
+{
+"date": "2024-03-08",
+"name": "AARO, 'Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP), Volume I'",
+"url": "https://documents2.theblackvault.com/documents/dod/AARO_Historical_Record_Report_Volume_1_2024.pdf"
+},
+{
+"date": "2026-08-12",
+"name": "USAspending.gov federal award search (prime contract obligations by recipient)",
+"url": "https://www.usaspending.gov/search"
+},
+{
+"date": "2023-03-11",
+"name": "Christopher Sharp, 'Lockheed Martin Challenged On UFO Legacy Programs, As Politicians Talk Hearings,' Liberation Times",
+"url": "https://www.liberationtimes.com/home/lockheed-martin-challenged-on-ufo-legacy-programs-as-politicians-talk-hearings"
+}
+],
+"sub": "Prime defense contractor; largest single recipient of DoD prime contract obligations",
+"tier": "A",
+"tierRationale": "Re-graded A on a global pass (rank 25 of 1027, score 104). 29 connections, 10 of them custody/witness/funding/programmatic, 3 official denials recorded against it. Axes C3/A3/D0.",
+"timeline": [
+{
+"date": "2009-01-01",
+"id": "pc-2009-lockheed",
+"label": "The alleged Lockheed material negotiation",
+"precision": "year",
+"strand": "program",
+"text": "Per George Knapp's later sworn testimony, Robert Bigelow and an AAWSAP colleague negotiate with senior Lockheed Martin executives for a quantity of material held at a California facility. AARO separately records an allegation that an organisation possessed off-world material in 2009 and 2010.",
+"tier": "A"
+},
+{
+"date": "2023-03-11",
+"id": "pc-2023-03-audit",
+"label": "Public call to audit Lockheed Martin's special access programs",
+"precision": "day",
+"strand": "oversight",
+"text": "Jeremy Corbell challenges the Senate Appropriations Committee to audit Lockheed Martin SAPs; Elizondo responds that the inquiry should extend to several other aerospace companies that have likely played a key historical role.",
+"tier": "B"
+}
+]
+}

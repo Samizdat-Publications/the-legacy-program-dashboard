@@ -1,0 +1,269 @@
+{
+"A": 1,
+"C": 0,
+"D": 2,
+"affiliations": [
+"Bigelow Aerospace (Washington DC operations, prior)",
+"NASA Associate Administrator for Space Policy and Partnerships",
+"NASA UAP Independent Study Team member (2022-2023)",
+"Redwire Space",
+"NASA, Associate Administrator for Space Policy and Partnerships",
+"NASA UAP Independent Study Team (2022-2023)",
+"Redwire Space (prior)",
+"Bigelow Aerospace (prior)"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "2022-10-01",
+"event": "Appointed to the NASA UAP Independent Study Team",
+"precision": "month"
+},
+{
+"date": "2023-09-14",
+"event": "Study team final report released",
+"precision": "day"
+},
+{
+"date": "2023-09-14",
+"event": "NASA UAP Independent Study Team report published; Gold a member.",
+"precision": "day"
+},
+{
+"date": "2024-11-13",
+"event": "Testifies before House Oversight joint subcommittees",
+"precision": "day"
+},
+{
+"date": "2024-11-13",
+"event": "Testifies at the joint House Oversight subcommittee hearing.",
+"precision": "day"
+}
+],
+"claims": [
+{
+"source": "CHRG-118hhrg57440 CONTENTS",
+"text": "Witness of record at the 13 November 2024 House Oversight joint hearing: 'Mr. Michael Gold, Former NASA Associate Administrator of Space Policy and Partnerships, Member of NASA UAP Independent Study Team'.",
+"tier": 1
+},
+{
+"source": "Michael Gold, written testimony, House Oversight joint subcommittee hearing, 13 November 2024",
+"text": "'the stigmatization of the UAP phenomena is so harmful. The stigma prevents scientific inquiry.'",
+"tier": 2
+},
+{
+"source": "Michael Gold, written testimony, 13 November 2024",
+"text": "Alex Dietrich 'was mocked by her colleagues' and her incident 'went years without any investigation.'",
+"tier": 2
+},
+{
+"source": "Michael Gold, written testimony, 13 November 2024",
+"text": "Recommends NASA work with the FAA to establish civilian pilot UAP reporting procedures and leverage the Aviation Safety Reporting System.",
+"tier": 2
+},
+{
+"source": "House Oversight hearing page and Gold written testimony, 13 November 2024",
+"text": "Testified at the 13 November 2024 joint hearing as former NASA Associate Administrator of Space Policy and Partnerships and a member of the NASA UAP Independent Study Team; written testimony published by the committee.",
+"tier": 1
+},
+{
+"source": "GPO CHRG-118hhrg57440, 13 November 2024",
+"text": "Answered 'No, ma'am' when Rep. Boebert asked whether he was familiar with an alleged DoD program manipulating human genetics with non-human genetic material.",
+"tier": 1
+}
+],
+"cls": "person",
+"cluster": "other",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 2,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2024",
+"direction": "out",
+"edgeLabel": "NASA UAP study participant testifying on stigma and data policy alongside AARO's remit",
+"id": "aaro",
+"l0": true,
+"label": "All-domain Anomaly Resolution Office (AARO)",
+"note": "Gold's testimony argued the problem is stigma and data quality as much as classification.",
+"sources": [
+{
+"date": "2024-11-13",
+"name": "U.S. GPO, Hearing transcript, Serial No. 118-135 (CHRG-118hhrg57440)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm"
+},
+{
+"date": "2024-11-13",
+"name": "Michael Gold, written testimony, House Oversight",
+"url": "https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Gold.pdf"
+}
+],
+"tier": "A",
+"type": "investigative"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2024",
+"dateStart": "2024",
+"direction": "out",
+"edgeLabel": "Cited Dietrich by name to Congress as evidence of aviator stigma",
+"id": "alex-dietrich",
+"l0": false,
+"label": "Alex Dietrich",
+"note": "Gold testified she 'was mocked by her colleagues' and that her incident 'went years without any investigation.'",
+"sources": [
+{
+"date": "2024-11-13",
+"name": "House Oversight - Gold written testimony (PDF)",
+"url": "https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Gold.pdf"
+}
+],
+"tier": "C",
+"type": "witness-chain"
+},
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": null,
+"dateStart": "2024-11-13",
+"direction": "out",
+"edgeLabel": "sworn witness",
+"id": "hearing-2024-11-13",
+"l0": true,
+"label": "House Oversight joint hearing, 13 November 2024 - 'Unidentified Anomalous Phenomena: Exposing the Truth'",
+"note": "Listed in the printed hearing record as a witness.",
+"sources": [
+{
+"date": "2024-11-13",
+"name": "CHRG-118hhrg57440, printed hearing transcript, 'Unidentified Anomalous Phenomena: Exposing the Truth', Serial No. 118-135",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/pdf/CHRG-118hhrg57440.pdf"
+}
+],
+"tier": "A",
+"type": "programmatic"
+},
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": "2024",
+"dateStart": "2024",
+"direction": "out",
+"edgeLabel": "Testified before the House Oversight joint subcommittees",
+"id": "hearing-2024-11-13",
+"l0": true,
+"label": "House Oversight joint hearing, 13 November 2024 - 'Unidentified Anomalous Phenomena: Exposing the Truth'",
+"note": "Gold testified as the fourth witness and answered Boebert's genetics question in the negative.",
+"sources": [
+{
+"date": "2024-11-13",
+"name": "House Oversight - hearing page, 13 Nov 2024",
+"url": "https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-exposing-the-truth/"
+},
+{
+"date": "2024-11-13",
+"name": "House Oversight - Gold written testimony (PDF)",
+"url": "https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Gold.pdf"
+},
+{
+"date": "2024-11-13",
+"name": "U.S. GPO, Hearing transcript, Serial No. 118-135 (CHRG-118hhrg57440)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm"
+}
+],
+"tier": "A",
+"type": "witness-chain"
+},
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": "2023",
+"dateStart": "2022",
+"direction": "out",
+"edgeLabel": "Member of the study team",
+"id": "nasa-uap-ist",
+"l0": true,
+"label": "NASA UAP Independent Study Team",
+"note": "Gold is listed among the team's members and later testified to Congress on its findings.",
+"sources": [
+{
+"date": "2023-09-14",
+"name": "NASA UAP Independent Study Team Final Report (PDF)",
+"url": "https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf"
+},
+{
+"date": "2024-11-13",
+"name": "House Oversight - Gold written testimony (PDF)",
+"url": "https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Gold.pdf"
+}
+],
+"tier": "B",
+"type": "institutional"
+}
+],
+"date": "2024-11-13",
+"dateEnd": null,
+"dateStart": "2024-11-13",
+"deg": 4,
+"denials": [],
+"domains": [
+"_rs-legislation",
+"aviators-incidents",
+"congress-house"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "michael-gold",
+"instId": "nasa-uap-ist",
+"l0": false,
+"label": "Michael Gold",
+"loc": "Washington, DC",
+"locId": "l-dc",
+"members": null,
+"narrative": "Gold sat on the NASA UAP Independent Study Team and then, on 13 November 2024, took the panel's findings into the House Oversight hearing room as a witness. His written testimony is the clearest official-adjacent articulation of the aviator problem as a stigma problem: 'the stigmatization of the UAP phenomena is so harmful. The stigma prevents scientific inquiry.' He named Alex Dietrich specifically, saying she 'was mocked by her colleagues' and that her incident 'went years without any investigation' - a serving officer's career cost, entered into the congressional record by a former NASA associate administrator. His recommendations were structural rather than speculative: NASA should sponsor symposia to combat stigma, review archival data with machine learning, contact international partners, work with the FAA to establish civilian pilot reporting procedures, and leverage the Aviation Safety Reporting System. He also praised Daniel Evans, the study team's designated federal officer, for working 'under difficult conditions' - the euphemism that documents the harassment the panel absorbed.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Michael Gold",
+"sources": [
+{
+"date": "2024-11-13",
+"name": "CHRG-118hhrg57440, printed hearing transcript, 'Unidentified Anomalous Phenomena: Exposing the Truth', Serial No. 118-135",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/pdf/CHRG-118hhrg57440.pdf"
+},
+{
+"date": "2024-11-13",
+"name": "House Oversight - Gold written testimony (PDF)",
+"url": "https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Gold.pdf"
+},
+{
+"date": "2024-11-13",
+"name": "House Oversight - hearing page, 13 Nov 2024",
+"url": "https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-exposing-the-truth/"
+},
+{
+"date": "2023-09-14",
+"name": "NASA UAP Independent Study Team Final Report (PDF)",
+"url": "https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf"
+},
+{
+"date": "2024-11-13",
+"name": "U.S. GPO, Hearing transcript, Serial No. 118-135 (CHRG-118hhrg57440)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm"
+}
+],
+"status": "active",
+"sub": "Former NASA Associate Administrator for Space Policy and Partnerships; NASA UAP Independent Study Team member",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 301 of 1027, score 36). 5 connections, 3 of them custody/witness/funding/programmatic. Axes C0/A1/D2.",
+"timeline": [],
+"unexplainedResidual": null,
+"unverified": []
+}

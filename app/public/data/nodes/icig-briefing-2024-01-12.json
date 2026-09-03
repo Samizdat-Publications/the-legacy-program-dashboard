@@ -1,0 +1,165 @@
+{
+"A": 2,
+"C": 0,
+"D": 2,
+"band": null,
+"claims": [
+{
+"source": "The Hill, 12 January 2024",
+"text": "Closed-door briefing at the Capitol lasting about 90 minutes at which ICIG Thomas Monheim spoke with House Oversight and Accountability Committee members, intended to improve transparency around the government's knowledge of UAP.",
+"tier": 2
+},
+{
+"source": "The Hill, 13 January 2024",
+"text": "Burchett: 'At one time, we had 16 congressmen in there... And these were people that normally you wouldn't see,' naming Moskowitz, Ocasio-Cortez and Luna; he rated the briefing four out of ten.",
+"tier": 2
+},
+{
+"source": "The Hill, 12 January 2024",
+"text": "Ogles emerged saying what 'most Americans fear is true,' describing 'a concerted effort to conceal as much information as possible - both in Congress and to the general public.'",
+"tier": 2
+}
+],
+"cls": "event",
+"cluster": "oversight",
+"connections": [
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2024",
+"dateStart": "2024",
+"direction": "in",
+"edgeLabel": "Emerged describing 'a concerted effort to conceal as much information as possible'",
+"id": "andy-ogles",
+"l0": false,
+"label": "Andrew Ogles",
+"note": "Ogles is a caucus member without an Oversight seat, which is how the caucus extended attendance.",
+"sources": [
+{
+"date": "2024-01-12",
+"name": "The Hill: Classified UFO briefing — House members emerge with mixed feelings",
+"url": "https://thehill.com/homenews/house/4406059-classified-ufo-briefing-house-members-mixed-feelings/"
+}
+],
+"tier": "C",
+"type": "behavioral"
+},
+{
+"claimTier": 2,
+"cls": "institution",
+"dateEnd": "2024",
+"dateStart": "2024",
+"direction": "in",
+"edgeLabel": "Caucus members attended the closed ICIG briefing",
+"id": "congressional-uap-caucus",
+"l0": true,
+"label": "Congressional UAP Caucus",
+"note": "Photograph caption and reporting describe the briefing as involving 'members of the Congressional UAP Caucus'; Burchett said about sixteen members attended.",
+"sources": [
+{
+"date": "2024-01-13",
+"name": "The Hill: Burchett — Classified UFO briefing 'energized' Congress on issue",
+"url": "https://thehill.com/homenews/house/4406775-burchett-classified-ufo-briefing-energized-congress/"
+},
+{
+"date": "2024-01-12",
+"name": "The Hill: Classified UFO briefing — House members emerge with mixed feelings",
+"url": "https://thehill.com/homenews/house/4406059-classified-ufo-briefing-house-members-mixed-feelings/"
+}
+],
+"tier": "C",
+"type": "programmatic"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2024",
+"dateStart": "2024",
+"direction": "in",
+"edgeLabel": "Emerged saying he did not get the answers he hoped for",
+"id": "raja-krishnamoorthi",
+"l0": false,
+"label": "Subramanian Raja Krishnamoorthi",
+"note": "Minority-side confirmation that the briefing produced no substance.",
+"sources": [
+{
+"date": "2024-01-12",
+"name": "The Hill: Classified UFO briefing — House members emerge with mixed feelings",
+"url": "https://thehill.com/homenews/house/4406059-classified-ufo-briefing-house-members-mixed-feelings/"
+}
+],
+"tier": "C",
+"type": "behavioral"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2024",
+"dateStart": "2024",
+"direction": "in",
+"edgeLabel": "Briefed House Oversight members for about ninety minutes",
+"id": "thomas-monheim",
+"l0": false,
+"label": "Thomas A. Monheim",
+"note": "The only formal House encounter with the inspector general who found the Grusch complaint credible and urgent.",
+"sources": [
+{
+"date": "2024-01-12",
+"name": "The Hill: Classified UFO briefing — House members emerge with mixed feelings",
+"url": "https://thehill.com/homenews/house/4406059-classified-ufo-briefing-house-members-mixed-feelings/"
+}
+],
+"tier": "C",
+"type": "institutional"
+}
+],
+"coords": null,
+"dateEnd": "2024",
+"dateStart": "2024",
+"deg": 4,
+"denials": [],
+"desc": "A roughly ninety-minute closed-door briefing at the Capitol on 12 January 2024 at which Intelligence Community Inspector General Thomas Monheim met House Oversight and Accountability members and members of the Congressional UAP Caucus. Burchett said around sixteen members attended - 'the whole gang' - naming Moskowitz, Ocasio-Cortez and Luna. What the briefing produced is a bipartisan null. Krishnamoorthi: 'I didn't get the answers that I was hoping for.' Burchett: 'more of the same... it's very compartmentalized; it's like looking down the barrel of a .22 rifle... now it's just whack-a-mole,' rating it four out of ten. Ogles: 'I asked very specific questions and was unable to get specific answers.' Burlison and Garcia were more positive, describing direction and new information respectively. This is the only formal encounter between the House and the watchdog whose credible-and-urgent finding on the Grusch complaint is the legal foundation of the entire inquiry, and it did not resolve any substantive question the committee had asked.",
+"domains": [
+"congress-house"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "icig-briefing-2024-01-12",
+"l0": false,
+"label": "Closed ICIG UAP briefing to House Oversight members",
+"locLabel": null,
+"members": null,
+"short": "Closed ICIG UAP briefing to House Oversight members",
+"sources": [
+{
+"date": "2024-01-12",
+"name": "The Hill: Classified UFO briefing — House members emerge with mixed feelings",
+"url": "https://thehill.com/homenews/house/4406059-classified-ufo-briefing-house-members-mixed-feelings/"
+},
+{
+"date": "2024-01-13",
+"name": "The Hill: Burchett — Classified UFO briefing 'energized' Congress on issue",
+"url": "https://thehill.com/homenews/house/4406775-burchett-classified-ufo-briefing-energized-congress/"
+}
+],
+"sub": "Closed briefing, U.S. Capitol, 12 Jan 2024",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 675 of 1027, score 23). 4 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A2/D2.",
+"timeline": [
+{
+"date": "2024-01-12",
+"id": "ch-2024-01-12",
+"label": "The ICIG briefing produces nothing",
+"precision": "day",
+"strand": "coverup",
+"text": "Inspector General Thomas Monheim briefs about sixteen House members for ninety minutes. Krishnamoorthi did not get the answers he hoped for; Burchett calls it 'more of the same' and a 4/10; Ogles says he asked specific questions and got no specific answers.",
+"tier": "A"
+}
+]
+}

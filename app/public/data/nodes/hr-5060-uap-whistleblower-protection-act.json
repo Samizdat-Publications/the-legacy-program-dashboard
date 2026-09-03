@@ -1,0 +1,180 @@
+{
+"A": 0,
+"C": 0,
+"D": 2,
+"band": null,
+"claims": [
+{
+"source": "Congress.gov H.R. 5060 (119th); GPO BILLS-119hr5060ih",
+"text": "Introduced 29 August 2025 by Rep. Tim Burchett; cosponsors Anna Paulina Luna and Elijah Crane; referred to Oversight and Government Reform and additionally to Armed Services and Intelligence (Permanent Select).",
+"tier": 1
+},
+{
+"source": "CHRG-119hhrg61718, 9 September 2025",
+"text": "Burlison, on the record: the bill 'is language that will protect whistleblowers from any kind of reprisal, and yet it is again and again blocked by this body in some way. Many times, it is being blocked not by elected officials but by staff behind the scenes.'",
+"tier": 1
+},
+{
+"source": "MeriTalk, 8 September 2025",
+"text": "Establishes whistleblower protections for federal employees who disclose government-funded research into materials linked to UAP.",
+"tier": 2
+}
+],
+"cls": "legislation",
+"cluster": "oversight",
+"connections": [
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "2025",
+"direction": "in",
+"edgeLabel": "Cosponsor",
+"id": "anna-paulina-luna",
+"l0": false,
+"label": "Anna Paulina Luna",
+"note": "Congress.gov cosponsor record.",
+"sources": [
+{
+"date": "2025-08-29",
+"name": "Congress.gov, H.R. 5060 — UAP Whistleblower Protection Act (119th Congress)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/5060"
+}
+],
+"tier": "A",
+"type": "legislative"
+},
+{
+"claimTier": 3,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "2025",
+"direction": "in",
+"edgeLabel": "The reprisal case the bill is designed to cover",
+"id": "dylan-borland",
+"l0": false,
+"label": "Dylan Borland",
+"note": "Reasoning: Borland testified to a decade of sustained reprisal at the hearing convened to advance whistleblower protections, and Luna closed the hearing urging members to sign a protection letter on his behalf.",
+"sources": [
+{
+"date": "2025-09-09",
+"name": "U.S. GPO, Hearing transcript, Serial No. 119-44 (CHRG-119hhrg61718)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm"
+},
+{
+"date": "2025-09-09",
+"name": "The Hill: Moskowitz accuses the US government of lying about UAP",
+"url": "https://thehill.com/homenews/house/5494075-moskowitz-demands-uap-transparency/"
+}
+],
+"tier": "A",
+"type": "programmatic"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "2025",
+"direction": "in",
+"edgeLabel": "Cosponsor",
+"id": "eli-crane",
+"l0": false,
+"label": "Elijah Crane",
+"note": "Congress.gov cosponsor record; Crane also entered the Grusch reprisal letter into the record of the hearing that followed.",
+"sources": [
+{
+"date": "2025-08-29",
+"name": "Congress.gov, H.R. 5060 — UAP Whistleblower Protection Act (119th Congress)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/5060"
+}
+],
+"tier": "B",
+"type": "legislative"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "2025",
+"direction": "in",
+"edgeLabel": "Sponsor of the reintroduced bill",
+"id": "tim-burchett",
+"l0": false,
+"label": "Timothy Floyd Burchett",
+"note": "Introduced 29 August 2025, eleven days before the Task Force hearing.",
+"sources": [
+{
+"date": "2025-08-29",
+"name": "Congress.gov, H.R. 5060 — UAP Whistleblower Protection Act (119th Congress)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/5060"
+},
+{
+"date": "2025-09-08",
+"name": "MeriTalk: Reps. Reintroduce UAP Whistleblower Protection Bill",
+"url": "https://www.meritalk.com/articles/reps-reintroduce-uap-whistleblower-protection-bill/"
+}
+],
+"tier": "A",
+"type": "legislative"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "2025",
+"deg": 4,
+"denials": [],
+"desc": "The reintroduction, filed 29 August 2025 by Burchett with Luna and Eli Crane as cosponsors, eleven days before the Task Force hearing at which Burlison told the room 'It is fantastic. It is the language that we need. It is language that will protect whistleblowers from any kind of reprisal, and yet it is again and again blocked by this body in some way. Many times, it is being blocked not by elected officials but by staff behind the scenes.' It establishes protections for federal employees who disclose information about government-funded research into UAP-related materials and phenomena. Referred to Oversight and Government Reform and additionally to Armed Services and Intelligence. No markup as of August 2026. Its practical importance is that it is the legislative instrument that would cover Dylan Borland and David Grusch, both of whom testified to the committee about reprisal while the bill sat in referral.",
+"domains": [
+"congress-house"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "hr-5060-uap-whistleblower-protection-act",
+"l0": false,
+"label": "H.R. 5060 - UAP Whistleblower Protection Act (119th Congress)",
+"locLabel": null,
+"members": null,
+"short": "H.R. 5060 - UAP Whistleblower Protection Act (119th Congress)",
+"sources": [
+{
+"date": "2025-08-29",
+"name": "Congress.gov, H.R. 5060 — UAP Whistleblower Protection Act (119th Congress)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/5060"
+},
+{
+"date": "2025-08-29",
+"name": "U.S. GPO, H.R. 5060 (119th), UAP Whistleblower Protection Act, as introduced",
+"url": "https://www.govinfo.gov/content/pkg/BILLS-119hr5060ih/html/BILLS-119hr5060ih.htm"
+},
+{
+"date": "2025-09-08",
+"name": "MeriTalk: Reps. Reintroduce UAP Whistleblower Protection Bill",
+"url": "https://www.meritalk.com/articles/reps-reintroduce-uap-whistleblower-protection-bill/"
+},
+{
+"date": "2025-09-09",
+"name": "U.S. GPO, Hearing transcript, Serial No. 119-44 (CHRG-119hhrg61718)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm"
+}
+],
+"sub": "Introduced 29 Aug 2025; referred; pending",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 780 of 1027, score 19). 4 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D2.",
+"timeline": [
+{
+"date": "2025-08-29",
+"id": "ch-2025-08-29",
+"label": "Whistleblower bill refiled",
+"precision": "day",
+"strand": "oversight",
+"text": "Burchett reintroduces the UAP Whistleblower Protection Act as H.R. 5060 with Luna and Crane.",
+"tier": "B"
+}
+]
+}

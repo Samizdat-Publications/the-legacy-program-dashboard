@@ -1,0 +1,140 @@
+{
+"A": 3,
+"C": 1,
+"D": 0,
+"affiliations": [
+"Central Intelligence Agency (1980-2015)",
+"National Geospatial-Intelligence Agency, Deputy Director (2015-2017)",
+"Office of the Director of National Intelligence, PDDNI (2017-2019)",
+"MITRE Board of Trustees (2021-present; Vice Chair from 2023)",
+"CACI International, BlackSky, SecurityScorecard (boards)"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "2015-01-01",
+"event": "Becomes Deputy Director of the National Geospatial-Intelligence Agency",
+"precision": "year"
+},
+{
+"date": "2017-08-01",
+"event": "Sworn in as Principal Deputy Director of National Intelligence",
+"precision": "month"
+},
+{
+"date": "2019-08-15",
+"event": "Departs ODNI",
+"precision": "month"
+},
+{
+"date": "2021-01-01",
+"event": "Joins MITRE Board of Trustees",
+"precision": "year"
+},
+{
+"date": "2023-10-31",
+"event": "Elected vice chair of MITRE's Board of Trustees",
+"precision": "day"
+}
+],
+"claims": [
+{
+"source": "Potomac Officers Club, 31 October 2023",
+"text": "Gordon was elected vice chair of MITRE's Board of Trustees, announced 31 October 2023, having joined the board in 2021.",
+"tier": 1
+},
+{
+"source": "Potomac Officers Club, 31 October 2023; ODNI public record",
+"text": "Gordon served as Principal Deputy Director of National Intelligence from 2017 to 2019 and as Deputy Director of NGA before that, after 27 years at CIA where she helped create In-Q-Tel.",
+"tier": 1
+},
+{
+"source": "Inference from ODNI statutory role and MITRE corporate governance structure",
+"text": "Gordon's seat places a person with former community-wide access to unacknowledged and waived Special Access Programs in the governance chain that decides how MITRE answers a congressional records demand about exactly that category of programme. Reasoning: the PDDNI is a statutory position with visibility into IC SAP registries; MITRE's board approves corporate legal and disclosure posture.",
+"tier": 3
+}
+],
+"cls": "person",
+"cluster": "ic",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2021",
+"direction": "out",
+"edgeLabel": "Vice chair of MITRE's Board of Trustees from 31 October 2023",
+"id": "mitre-corporation",
+"l0": true,
+"label": "The MITRE Corporation",
+"note": "Former Principal Deputy Director of National Intelligence, elected vice chair three months after the July 2023 House Oversight UAP hearing.",
+"sources": [
+{
+"date": "2023-10-31",
+"name": "Potomac Officers Club",
+"url": "https://www.potomacofficersclub.com/mitre-trustees-board-elects-former-national-intelligence-deputy-director-as-vice-chair/"
+}
+],
+"tier": "A",
+"type": "institutional"
+}
+],
+"date": "2023-10-31",
+"dateEnd": null,
+"dateStart": "2023-10-31",
+"deg": 1,
+"denials": [],
+"domains": [
+"ffrdcs"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "sue-gordon",
+"instId": "mitre-corporation",
+"l0": false,
+"label": "Susan M. Gordon",
+"loc": "McLean, VA",
+"locId": "l-mclean",
+"members": null,
+"narrative": "Gordon is the highest-access intelligence official sitting on the governing body of the corporation now being asked by Congress what it holds on crash retrieval and reverse engineering. She spent 27 years at CIA, where she helped create the Agency's venture capital arm In-Q-Tel, served as Deputy Director of the National Geospatial-Intelligence Agency, and from 2017 to 2019 was Principal Deputy Director of National Intelligence - the number two official in the entire US Intelligence Community, a position with formal visibility into the Special Access Program and controlled-access architecture across all seventeen elements. She joined MITRE's Board of Trustees in 2021 and was elected vice chair on 31 October 2023, three months after David Grusch testified to the House Oversight Committee that a multi-decade crash-retrieval and reverse-engineering programme had been concealed from Congress. She is not the first: MITRE's board previously elected Donald Kerr, also a former Principal Deputy Director of National Intelligence, as its chairman, and former House Intelligence Committee chairman Mike Rogers as vice chairman, in November 2018. The pattern is what matters. An FFRDC's board of trustees is the body that approves what the corporation discloses, litigates, and preserves. Populating it with people who held the most senior access authorities in the Intelligence Community means that decisions about what a nominally independent nonprofit tells Congress are being made by people whose entire professional formation was in the protection of compartmented information. That is not an accusation of bad faith; it is a description of the mechanism.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Susan M. Gordon",
+"sources": [
+{
+"date": "2023-10-31",
+"name": "Potomac Officers Club - Mitre Trustees Board Elects Former National Intelligence Deputy Director as Vice Chair",
+"url": "https://www.potomacofficersclub.com/mitre-trustees-board-elects-former-national-intelligence-deputy-director-as-vice-chair/"
+},
+{
+"date": "2026-08-12",
+"name": "MITRE - Our Leadership (Board of Trustees listing)",
+"url": "https://www.mitre.org/who-we-are/our-people/our-leadership"
+}
+],
+"status": "active",
+"sub": "Vice Chair, MITRE Board of Trustees (elected Oct 2023); former Principal Deputy Director of National Intelligence (2017-2019); former Deputy Director, NGA; 27 years CIA",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 719 of 1027, score 21). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A3/D0.",
+"timeline": [
+{
+"date": "2023-10-31",
+"id": "tl-ffrdc-2023-gordon",
+"label": "Sue Gordon elected MITRE board vice chair",
+"precision": "day",
+"strand": "program",
+"text": "A former Principal Deputy Director of National Intelligence becomes vice chair of MITRE's governing board, three months after David Grusch's House Oversight testimony.",
+"tier": "A"
+}
+],
+"unexplainedResidual": null,
+"unverified": []
+}

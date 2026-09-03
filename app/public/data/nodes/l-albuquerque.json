@@ -1,0 +1,137 @@
+{
+"A": 3,
+"C": 2,
+"D": 2,
+"band": null,
+"claims": [
+{
+"source": "Wikipedia, Kirtland Air Force Base — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"text": "Sandia National Laboratories, descended from the Manhattan Project Z Division, is adjacent to Kirtland AFB in Albuquerque; the AFRL Directed Energy Directorate is a Kirtland tenant.",
+"tier": 2
+},
+{
+"source": "GAO/NSIAD-95-187, 'Results of a Search for Records Concerning the 1947 Crash Near Roswell, New Mexico'",
+"text": "GAO/NSIAD-95-187 was produced at the request of Rep. Steven H. Schiff of New Mexico after the Defense Department declined to answer his Roswell inquiries.",
+"tier": 1
+},
+{
+"source": "Wikipedia, Paul Bennewitz, citing an April 1981 Albuquerque Tribune profile — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"text": "Bennewitz founded Thunder Scientific in 1966 after acquiring humidity sensor rights from Sandia National Laboratories.",
+"tier": 2
+}
+],
+"cls": "location",
+"cluster": "legacy",
+"connections": [
+{
+"claimTier": 2,
+"cls": "location",
+"dateEnd": null,
+"dateStart": "1941",
+"direction": "in",
+"edgeLabel": "Kirtland AFB lies inside the Albuquerque city limits",
+"id": "l-kirtland",
+"l0": false,
+"label": "Kirtland Air Force Base and Albuquerque, New Mexico",
+"note": "The base occupies 51,558 acres in the southeast quadrant of Albuquerque and shares runways with the Albuquerque International Sunport.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Wikipedia - Kirtland Air Force Base",
+"url": "https://en.wikipedia.org/wiki/Kirtland_Air_Force_Base"
+}
+],
+"tier": "B",
+"type": "geographic"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "1951",
+"dateStart": "1948",
+"direction": "in",
+"edgeLabel": "LaPaz investigated the green fireballs from the University of New Mexico",
+"id": "lincoln-lapaz",
+"l0": false,
+"label": "Lincoln LaPaz",
+"note": "Lincoln LaPaz, the UNM meteoriticist retained by the Air Force, conducted the green fireball investigation from Albuquerque and attended the 16 February 1949 Los Alamos conference.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Los Alamos National Laboratory - 1949 green fireballs conference",
+"url": "https://www.lanl.gov/"
+}
+],
+"tier": "B",
+"type": "research"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "1995",
+"dateStart": "1993",
+"direction": "in",
+"edgeLabel": "Schiff's New Mexico district inquiry produced the GAO Roswell audit",
+"id": "steven-schiff",
+"l0": false,
+"label": "Steven H. Schiff",
+"note": "Rep. Steven H. Schiff of New Mexico asked GAO to search federal records after the Defense Department declined to answer his Roswell inquiries, producing GAO/NSIAD-95-187.",
+"sources": [
+{
+"date": "1995-07-28",
+"name": "GAO/NSIAD-95-187",
+"url": "https://www.gao.gov/products/nsiad-95-187"
+}
+],
+"tier": "B",
+"type": "investigative"
+}
+],
+"coords": [
+35.0844,
+-106.6504
+],
+"dateEnd": null,
+"dateStart": "1941",
+"deg": 3,
+"denials": [],
+"desc": "Albuquerque is the civil jurisdiction that contains Kirtland Air Force Base, Sandia National Laboratories and the Air Force Research Laboratory's Directed Energy Directorate inside its city limits, which makes it the most nuclear- and directed-energy-dense metropolitan area in the country. For this board it functions as the New Mexico civilian node: it is where Paul Bennewitz ran Thunder Scientific; where AFOSI's district detachment operated; where Lincoln LaPaz, the University of New Mexico meteoriticist retained by the Air Force to investigate the 1948-1949 green fireballs, was based; where investigative journalist Linda Moulton Howe was contacted by AFOSI in 1983; and the home district of Rep. Steven H. Schiff, whose 1993-1994 inquiries into Roswell were rebuffed by the Defense Department and who then asked the General Accounting Office to audit the records, producing GAO/NSIAD-95-187. Wave 1 places Brig. Gen. William Neil McCasland, former commander of the Air Force Research Laboratory here, at this location; McCasland is the officer whom Sen. Harry Reid, in correspondence later released, identified as controlling access to a programme of interest. Albuquerque is where the legacy programme's research infrastructure, its counterintelligence arm and its congressional antagonist all sat within a few miles of each other.",
+"domains": [
+"w2-places-events"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "l-albuquerque",
+"l0": false,
+"label": "Albuquerque, New Mexico",
+"locLabel": "Albuquerque, New Mexico, USA",
+"members": null,
+"short": "Albuquerque, New Mexico",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Wikipedia - Kirtland Air Force Base",
+"url": "https://en.wikipedia.org/wiki/Kirtland_Air_Force_Base"
+},
+{
+"date": "2026-08-12",
+"name": "Wikipedia - Paul Bennewitz",
+"url": "https://en.wikipedia.org/wiki/Paul_Bennewitz"
+},
+{
+"date": "1995-07-28",
+"name": "GAO/NSIAD-95-187",
+"url": "https://www.gao.gov/products/nsiad-95-187"
+}
+],
+"sub": "City in Bernalillo County; Sandia National Laboratories, AFRL Directed Energy, Kirtland AFB, University of New Mexico",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 453 of 1027, score 31). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A3/D2.",
+"timeline": []
+}

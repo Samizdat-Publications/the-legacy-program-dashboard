@@ -1,0 +1,164 @@
+{
+"A": 3,
+"C": 0,
+"D": 1,
+"affiliations": [
+"Office of the Secretary of the Air Force, Director of Security and Special Program Oversight"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "1994-07",
+"event": "Concludes the Office of the Secretary of the Air Force records search and delivers the report to the Secretary and to GAO",
+"precision": "month"
+},
+{
+"date": "1995",
+"event": "Report published by GPO as 'The Roswell Report: Fact Versus Fiction in the New Mexico Desert'",
+"precision": "year"
+}
+],
+"claims": [
+{
+"source": "The Roswell Report: Fact versus Fiction in the New Mexico Desert (1995), publisher's note; DTIC ADA326148 abstract",
+"text": "The 1995 report was written as a result of Col. Weaver's and Lt. McAndrew's efforts to locate records explaining the events of July 1947, and duplicates the information provided to the Secretary of the Air Force and to the General Accounting Office in response to Rep. Steven H. Schiff's request.",
+"tier": 1
+},
+{
+"source": "The Roswell Report: Fact versus Fiction (1995), Attachment 32",
+"text": "Attachment 32 of the 1995 report is Lt. McAndrew's synopsis describing Project Mogul, the top-priority classified balloon-borne experiment programme advanced as the explanation for the Roswell Incident.",
+"tier": 1
+},
+{
+"source": "Quoted in The Roswell Report: Case Closed (1997), Section 1.1",
+"text": "The July 1994 report states that at the express written direction of the Secretary of the Air Force, former and retired Air Force members and civilian contract scientists were released from any nondisclosure agreements they may have entered into regarding the relevant past classified activities.",
+"tier": 1
+},
+{
+"source": "Inference from the tasking as described in the report itself",
+"text": "The Secretary's decision to route the Roswell inquiry to the Director of Security and Special Program Oversight rather than to Air Force History or Public Affairs indicates that the department expected any responsive material to sit inside special access channels. Reasoning: SAF oversight directorates exist to see into compartments that ordinary staff offices cannot.",
+"tier": 3
+}
+],
+"cls": "person",
+"cluster": "oversight",
+"conflicts": [
+"Randle, Friedman, Schmitt and others reject the Mogul explanation. GAO's own report separately recorded that Roswell Army Air Field outgoing messages for October 1946 to December 1949 had been destroyed, a fact the Air Force reports do not resolve."
+],
+"connections": [
+{
+"claimTier": 3,
+"cls": "person",
+"dateEnd": "1997",
+"dateStart": "1991",
+"direction": "out",
+"edgeLabel": "The Air Force reports were the institutional response to the Randle-Schmitt books",
+"id": "kevin-randle",
+"l0": false,
+"label": "Kevin D. Randle",
+"note": "The GAO inquiry that produced the Air Force reports was initiated by Rep. Steven Schiff after the 1991 book and the surrounding publicity; the 1997 report devotes appendices to rebutting the specific witnesses those books introduced. Reasoning: the report's structure tracks the books' witness list.",
+"sources": [
+{
+"date": "1997-01-01",
+"name": "The Roswell Report: Case Closed (1997)",
+"url": "https://archive.org/details/AFD-101027-030"
+}
+],
+"tier": "B",
+"type": "denial"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "1995",
+"dateStart": "1994-07",
+"direction": "out",
+"edgeLabel": "Authored the Air Force's report to the Secretary and GAO",
+"id": "roswell-report-1995",
+"l0": false,
+"label": "The Roswell Report: Fact Versus Fiction in the New Mexico Desert (1995)",
+"note": "Written by Col. Weaver, Director of Security and Special Program Oversight, Office of the Secretary of the Air Force, with 1st Lt. James McAndrew.",
+"sources": [
+{
+"date": "1995-01-01",
+"name": "The Roswell Report: Fact versus Fiction (1995), DTIC ADA326148",
+"url": "https://archive.org/details/DTIC_ADA326148"
+}
+],
+"tier": "C",
+"type": "institutional"
+}
+],
+"date": "1995-01-01",
+"dateEnd": null,
+"dateStart": "1995-01-01",
+"deg": 2,
+"denials": [
+{
+"by": {
+"id": "richard-weaver-usaf",
+"label": "Col. Richard L. Weaver"
+},
+"claimTier": 3,
+"denialKind": "directed",
+"label": "The Air Force reports were the institutional response to the Randle-Schmitt books",
+"note": "The GAO inquiry that produced the Air Force reports was initiated by Rep. Steven Schiff after the 1991 book and the surrounding publicity; the 1997 report devotes appendices to rebutting the specific witnesses those books introduced. Reasoning: the report's structure tracks the books' witness list.",
+"of": {
+"id": "kevin-randle",
+"label": "Kevin D. Randle"
+},
+"sources": [
+{
+"date": "1997-01-01",
+"name": "The Roswell Report: Case Closed (1997)",
+"url": "https://archive.org/details/AFD-101027-030"
+}
+]
+}
+],
+"domains": [
+"w2-retrieval-literature"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "1",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "richard-weaver-usaf",
+"instId": "saf-aaz",
+"l0": false,
+"label": "Col. Richard L. Weaver",
+"loc": "Washington, DC",
+"locId": "l-pentagon",
+"members": null,
+"narrative": "Col. Richard L. Weaver ran the Air Force's official answer to Roswell, and his job title is the most interesting fact about him. He was Director of Security and Special Program Oversight in the Office of the Secretary of the Air Force - that is, the officer responsible for oversight of Air Force special access programmes - and it was that office, not a historical or public affairs office, that the Secretary tasked to respond to the General Accounting Office inquiry initiated by Rep. Steven H. Schiff. Weaver and 1st Lt. James McAndrew produced the July 1994 report to the Secretary of the Air Force, published in 1995 by the Government Printing Office as 'The Roswell Report: Fact Versus Fiction in the New Mexico Desert'. Its conclusion was Project Mogul: the classified balloon-borne acoustic programme flown from Alamogordo Army Air Field to detect Soviet nuclear tests, whose flight from 4 June 1947 was lost within seventeen miles of the Foster ranch. Weaver's report also states something operationally significant that is rarely quoted: at the express written direction of the Secretary of the Air Force, former and retired Air Force members and civilian contract scientists were released from any nondisclosure obligations they might have entered into on the relevant past classified activities, so that they could speak freely. This board records Weaver as an oversight-cluster node with A=3 not because he asserts access to a recovery programme - he denies one exists - but because the Secretary routed the inquiry to the SAP oversight directorate, which is a fact about where the Air Force believed the answer would have to be looked for.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Col. Richard L. Weaver",
+"sources": [
+{
+"date": "1995-01-01",
+"name": "The Roswell Report: Fact versus Fiction in the New Mexico Desert (1995) - DTIC ADA326148",
+"url": "https://archive.org/details/DTIC_ADA326148"
+},
+{
+"date": "1997-01-01",
+"name": "The Roswell Report: Case Closed (1997), HQ USAF/GPO - full text",
+"url": "https://archive.org/details/AFD-101027-030"
+}
+],
+"status": "former",
+"sub": "Director, Security and Special Program Oversight, Office of the Secretary of the Air Force",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 556 of 1027, score 27). 2 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A3/D1.",
+"timeline": [],
+"unexplainedResidual": null,
+"unverified": [
+"Weaver's full service record and current status.",
+"Whether the nondisclosure release the report describes was issued as a written instrument that could itself be requested under FOIA. No such instrument has been produced."
+]
+}

@@ -1,0 +1,166 @@
+{
+"A": 3,
+"C": 3,
+"D": 2,
+"band": null,
+"claims": [
+{
+"source": "House Oversight Committee hearing, 26 July 2023; NPR contemporaneous report",
+"text": "David Grusch testified under oath on 26 July 2023 that non-human biologics were recovered alongside craft, stating the information came from individuals he interviewed and referred to the ICIG.",
+"tier": 2
+},
+{
+"source": "AARO Historical Record Report Volume I",
+"text": "AARO's Volume I report (February 2024) states it found no empirical evidence for claims of recovered extraterrestrial technology or associated material.",
+"tier": 1
+},
+{
+"source": "Inference from documented biosafety and biodefence infrastructure requirements",
+"text": "A sustained biological exploitation effort would require containment, pathology, genomics and tissue-banking infrastructure whose procurement, staffing and biosafety documentation are auditable independently of the material itself. Reasoning: this is the standard footprint of any high-containment biological programme.",
+"tier": 3
+}
+],
+"cls": "domain",
+"cluster": "other",
+"connections": [
+{
+"claimTier": 1,
+"cls": "domain",
+"dateEnd": null,
+"dateStart": "2010-01-01",
+"direction": "out",
+"edgeLabel": "Biologics claim and documented injury record",
+"id": "d-medical",
+"l0": false,
+"label": "Medical & Injury Effects",
+"note": "The bio claim has no released material; the medical domain has DIRD 26 and the Cash-Landrum clinical record, which is the auditable end of the same question.",
+"sources": [
+{
+"date": "2010-01-01",
+"name": "DIRD 26 - Anomalous Acute and Subacute Field Effects on Human Biological Tissues",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_26-DIRD_Anomalous_Acute_and_Subacute_Field_Effects_on_Human_Biological_Tissues.pdf"
+}
+],
+"tier": "B",
+"type": "research"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "subject domain: implantable biosensors and neuro-interface",
+"id": "dird-biosensors-and-biomems-a-survey-of",
+"l0": false,
+"label": "Biosensors and BioMEMS: A Survey of the Present Field",
+"note": "The contents cover brain-implanted BioMEMS micromachine neuroelectrodes, implantable sensors, microelectrode array fabrication, brain-machine interfaces, polymer BioMEMS electrodes, retinal devices and microscale therapeutic neurostimulation. This is the human-effects and human-interface leg of the AAWSAP survey, alongside Kit Green's field-effects paper and Richard Genik's three neuro deliverables.",
+"sources": [
+{
+"date": "2026-08-22",
+"name": "Released DIRD, 'Biosensors and BioMEMS: A Survey of the Present Field' — FOIA copy, cover page read 22 August 2026",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_20-DIRD_Biosensors_and_BioMEMS-A_Survey_of_the_Present_Field.pdf"
+},
+{
+"date": "2026-08-22",
+"name": "DIA FOIA Electronic Reading Room entry for this reference document",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237638/"
+}
+],
+"tier": "B",
+"type": "research"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "subject domain: cognitive load limits on multi-vehicle control",
+"id": "dird-cognitive-limits-on-simultaneous-control-of",
+"l0": false,
+"label": "Cognitive Limits on Simultaneous Control of Multiple Unmanned Spacecraft",
+"note": "The commissioned question is how many unmanned vehicles a single human operator can control simultaneously - the human-factors constraint that would bound any swarming or multi-object control architecture. It forms a set with Genik's other two deliverables on limb-free control of external devices and on organic-molecule automation.",
+"sources": [
+{
+"date": "2026-08-22",
+"name": "Released DIRD, 'Cognitive Limits on Simultaneous Control of Multiple Unmanned Spacecra' — FOIA copy, cover page read 22 August 2026",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_34-DIRD_Cognitive_Limits_on_Simultaneous_Control_of_Multiple_Unmanned_Spacecraft.pdf"
+},
+{
+"date": "2026-08-22",
+"name": "DIA FOIA Electronic Reading Room entry for this reference document",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237649/"
+},
+{
+"date": null,
+"name": "https://irp.fas.org/dia/aatip-list.pdf",
+"url": "https://irp.fas.org/dia/aatip-list.pdf"
+}
+],
+"tier": "B",
+"type": "research"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "1947-07-01",
+"deg": 3,
+"denials": [],
+"desc": "This is the highest-stakes and lowest-evidence domain on the board, and the asymmetry has to be stated plainly. The claim entered the sworn record on 26 July 2023, when David Grusch told the House Oversight Committee that non-human biologics had been recovered with craft, attributing the information to individuals he had interviewed and had referred to the Intelligence Community Inspector General. No such material has been produced for independent examination, and AARO's February 2024 report states it found no empirical evidence supporting the associated retrieval claims. What makes the domain researchable rather than merely contested is that biological exploitation would leave an unmistakable infrastructure footprint - containment facilities, a genomics capability, veterinary or forensic pathology staffing, tissue banking, and biosafety documentation - and that footprint is auditable in a way that a single artifact is not. The dual-use route runs through the biodefence enterprise, where high-containment work is routine and where compartmentation for reasons unrelated to this subject is normal. Scoring high on this domain means an entity is alleged or documented to have handled, analysed or controlled biological material.",
+"domains": [
+"_rs-archive-mirror",
+"_stubs",
+"w2-taxonomy"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "d-bio",
+"l0": false,
+"label": "Biology & Non-Human Biologics",
+"locLabel": null,
+"members": null,
+"short": "Biology & Non-Human Biologics",
+"sources": [
+{
+"date": "2026-05-08",
+"name": "Archived: AARO, Report on the Historical Record of U.S. Government Involvement with UAP, Volume I (Wayback 2026-05-08)",
+"url": "https://web.archive.org/web/20260508180210/https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf"
+},
+{
+"date": "2023-07-27",
+"name": "NPR - U.S. recovered non-human biologics from UFO crash sites, former intel official says",
+"url": "https://www.npr.org/2023/07/27/1190390376/ufo-hearing-non-human-biologics-uaps"
+},
+{
+"date": "2024-02-01",
+"name": "AARO, Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
+"url": "https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf"
+},
+{
+"date": "2026-05-05",
+"name": "Judicial Watch - UAP Whistleblower David Grusch on Non-human Biologics and Craft",
+"url": "https://www.judicialwatch.org/videos/uap-whistleblower-david-grusch-on-non-human-biologics-craft/"
+},
+{
+"date": "2026-08-12",
+"name": "NSF master government list of FFRDCs",
+"url": "https://www.nsf.gov/statistics/ffrdclist/"
+},
+{
+"date": "2026-08-12",
+"name": "Domain definition written for this board; see SCHEMA.md",
+"url": ""
+}
+],
+"sub": "Scientific domain - the claim of recovered biological material and what would be required to test it",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 358 of 1027, score 34). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C3/A3/D2.",
+"timeline": []
+}

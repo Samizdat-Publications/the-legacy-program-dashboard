@@ -1,0 +1,108 @@
+{
+"A": 1,
+"C": 0,
+"D": 2,
+"band": null,
+"claims": [
+{
+"source": "https://files.fasab.gov/pdffiles/handbook_sffas_56.pdf",
+"text": "FASAB issued SFFAS 56 'Classified Activities' on 4 October 2018.",
+"tier": 1
+}
+],
+"cls": "institution",
+"cluster": "oversight",
+"connections": [
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": "2018-10-04",
+"direction": "in",
+"edgeLabel": "Issued by FASAB on 4 October 2018",
+"id": "sffas-56",
+"l0": false,
+"label": "SFFAS 56 - Classified Activities (FASAB, 4 October 2018)",
+"note": "The standard is a FASAB pronouncement, effective for periods beginning after 30 September 2018. Attested by the Statement itself.",
+"sources": [
+{
+"date": "2018-10-04",
+"name": "SFFAS 56",
+"url": "https://files.fasab.gov/pdffiles/handbook_sffas_56.pdf"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "2026-04",
+"direction": "in",
+"edgeLabel": "Chairs the Board that owns SFFAS 56 since April 2026",
+"id": "terry-patton",
+"l0": false,
+"label": "Terry K. Patton",
+"note": "FASAB's board members page identifies Terry K. Patton as Chair since April 2026. Attested by FASAB.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "FASAB Board members",
+"url": "https://fasab.gov/about-fasab/board-members/"
+}
+],
+"tier": "C",
+"type": "institutional"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "1990-10",
+"deg": 2,
+"denials": [],
+"desc": "FASAB was created in October 1990 by the Secretary of the Treasury, the Director of the Office of Management and Budget and the Comptroller General to set generally accepted accounting principles for the federal government. It is a nine-member board sponsored by the three principals, and its pronouncements are recognised as GAAP for federal entities by the American Institute of Certified Public Accountants. For the purposes of this board FASAB matters for one reason: it is the body that, on 4 October 2018, issued SFFAS 56 'Classified Activities' at the instance of the Department of Defense, and thereby wrote into generally accepted accounting principles an express permission to move amounts between line items in a public financial statement without narrative explanation, and a prohibition on saying that you had done so. FASAB's own deliberative record on that standard - exposure draft, comment letters, transcripts of Board meetings - is public and is the natural next research target for anyone attempting to establish which agencies pushed for which provisions and what the Board was told about the scale of activity that would be covered.",
+"domains": [
+"w2-black-budget"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "1",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "fasab",
+"l0": false,
+"label": "Federal Accounting Standards Advisory Board (FASAB)",
+"locLabel": null,
+"members": null,
+"short": "Federal Accounting Standards Advisory Board (FASAB)",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "FASAB accounting standards",
+"url": "https://fasab.gov/accounting-standards/"
+},
+{
+"date": "2018-10-04",
+"name": "SFFAS 56",
+"url": "https://files.fasab.gov/pdffiles/handbook_sffas_56.pdf"
+}
+],
+"sub": "Standard-setting body for US federal financial reporting; author of SFFAS 56",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 948 of 1027, score 12). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D2.",
+"timeline": [
+{
+"date": "1990-10",
+"id": "bb-tl-1990-cfoact",
+"label": "Chief Financial Officers Act; FASAB created",
+"precision": "month",
+"strand": "oversight",
+"text": "The CFO Act imposes audited financial statements on major federal agencies. In the same month the Secretary of the Treasury, the Director of OMB and the Comptroller General create the Federal Accounting Standards Advisory Board to set federal accounting standards. The Department of Defense will not attempt a full-scope audit for twenty-seven years.",
+"tier": "B"
+}
+]
+}

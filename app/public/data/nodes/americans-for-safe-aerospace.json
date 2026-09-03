@@ -1,0 +1,363 @@
+{
+"A": 0,
+"C": 0,
+"D": 3,
+"band": "research",
+"claims": [
+{
+"source": "Ryan Graves, written testimony, House Oversight, 26 July 2023",
+"text": "'I founded Americans for Safe Aerospace to create a center of support, research, and public education for aircrew impacted by UAP encounters.'",
+"tier": 1
+},
+{
+"source": "Ryan Graves, written testimony, House Oversight, 26 July 2023",
+"text": "'We now have nearly 5,000 members and are actively working with more than 30 UAP witnesses who have approached us.'",
+"tier": 1
+},
+{
+"source": "House Oversight Committee hearing page, 26 July 2023",
+"text": "Graves appeared as Executive Director, Americans for Safe Aerospace, on the official House Oversight witness list for the 26 July 2023 hearing.",
+"tier": 1
+}
+],
+"cls": "institution",
+"cluster": "witness",
+"connections": [
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "2026",
+"dateStart": "2026",
+"direction": "in",
+"edgeLabel": "'AARO did not receive reports indicating flight safety concerns during this reporting period'",
+"id": "aaro-fy2025-annual-report",
+"l0": true,
+"label": "AARO FY2025 Consolidated Annual Report on UAP",
+"note": "The same report records two cases of electronic or avionic interference attributed to UAP in proximity to an operational aircraft. The no-safety-concerns finding is a statement about AARO's intake, not about the sky.",
+"sources": [
+{
+"date": "2026-07-20",
+"name": "AARO FY2025 Consolidated Annual Report on UAP (PDF)",
+"url": "https://www.aaro.mil/Portals/136/PDFs/FY25%20UAP%20Annual%20Report/AARO_FY2025_Consolidated_Annual_Report_on_UAP.pdf"
+}
+],
+"tier": "A",
+"type": "denial"
+},
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": null,
+"dateStart": "2023",
+"direction": "out",
+"edgeLabel": "Shared reporting-reform agenda: ASRS and FAA pilot reporting",
+"id": "nasa-uap-ist",
+"l0": true,
+"label": "NASA UAP Independent Study Team",
+"note": "The NASA study team recommended enhancing the Aviation Safety Reporting System for commercial pilot UAP reporting; ASA performs the equivalent intake function for aircrew outside the chain of command.",
+"sources": [
+{
+"date": "2023-09-14",
+"name": "NASA UAP Independent Study Team Final Report (PDF)",
+"url": "https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf"
+},
+{
+"date": "2023-07-26",
+"name": "House Oversight - Graves written testimony (PDF)",
+"url": "https://oversight.house.gov/wp-content/uploads/2023/07/Ryan-HOC-Testimony.pdf"
+}
+],
+"tier": "B",
+"type": "programmatic"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": "2021",
+"direction": "in",
+"edgeLabel": "Official confirmation of the stigma ASA exists to route around",
+"id": "odni-preliminary-assessment-2021",
+"l0": true,
+"label": "ODNI Preliminary Assessment: Unidentified Aerial Phenomena (25 June 2021)",
+"note": "The assessment concedes 'disparagement associated with observing UAP, reporting it, or attempting to discuss it with colleagues' - the condition that made a civilian aircrew nonprofit necessary.",
+"sources": [
+{
+"date": "2021-06-25",
+"name": "ODNI Preliminary Assessment: Unidentified Aerial Phenomena (PDF)",
+"url": "https://archive.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf"
+},
+{
+"date": "2023-07-26",
+"name": "House Oversight - Graves written testimony (PDF)",
+"url": "https://oversight.house.gov/wp-content/uploads/2023/07/Ryan-HOC-Testimony.pdf"
+}
+],
+"tier": "A",
+"type": "behavioral"
+},
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": null,
+"dateStart": "2022",
+"direction": "out",
+"edgeLabel": "Created in direct response to the reporting failure the encounters exposed",
+"id": "roosevelt-2014-2015",
+"l0": true,
+"label": "USS Theodore Roosevelt Encounters (2014-2015)",
+"note": "Graves's testimony ties the founding to the fact that after his squadron's safety report 'there was no official acknowledgement of the incident and no further mechanism to report the sightings.'",
+"sources": [
+{
+"date": "2023-07-26",
+"name": "House Oversight - Graves written testimony (PDF)",
+"url": "https://oversight.house.gov/wp-content/uploads/2023/07/Ryan-HOC-Testimony.pdf"
+}
+],
+"tier": "B",
+"type": "behavioral"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "2022",
+"direction": "in",
+"edgeLabel": "Founder and Executive Director",
+"id": "ryan-graves",
+"l0": false,
+"label": "Ryan Graves",
+"note": "Graves founded the organisation in 2022 to build the aircrew reporting channel the Navy did not provide, and appeared before Congress in that capacity in July 2023.",
+"sources": [
+{
+"date": "2023-07-26",
+"name": "House Oversight - Graves written testimony (PDF)",
+"url": "https://oversight.house.gov/wp-content/uploads/2023/07/Ryan-HOC-Testimony.pdf"
+},
+{
+"date": "2023-07-26",
+"name": "House Oversight - hearing page, 26 July 2023",
+"url": "https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2024",
+"dateStart": "2015",
+"direction": "in",
+"edgeLabel": "Flag-officer corroboration of the safety-reporting failure ASA was built around",
+"id": "tim-gallaudet",
+"l0": false,
+"label": "Timothy Gallaudet",
+"note": "Gallaudet's recalled-email account and Graves's unacknowledged squadron safety report describe the same broken machinery from opposite ends of the chain of command.",
+"sources": [
+{
+"date": "2024-11-13",
+"name": "House Oversight - Gallaudet written testimony (PDF)",
+"url": "https://oversight.house.gov/wp-content/uploads/2024/11/Updated-Testimony-Gallaudet.pdf"
+},
+{
+"date": "2023-07-26",
+"name": "House Oversight - Graves written testimony (PDF)",
+"url": "https://oversight.house.gov/wp-content/uploads/2023/07/Ryan-HOC-Testimony.pdf"
+}
+],
+"tier": "A",
+"type": "programmatic"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "2022",
+"deg": 6,
+"denials": [
+{
+"by": {
+"id": "aaro-fy2025-annual-report",
+"label": "AARO FY2025 Consolidated Annual Report on UAP"
+},
+"claimTier": 1,
+"denialKind": "directed",
+"label": "'AARO did not receive reports indicating flight safety concerns during this reporting period'",
+"note": "The same report records two cases of electronic or avionic interference attributed to UAP in proximity to an operational aircraft. The no-safety-concerns finding is a statement about AARO's intake, not about the sky.",
+"of": {
+"id": "americans-for-safe-aerospace",
+"label": "Americans for Safe Aerospace"
+},
+"sources": [
+{
+"date": "2026-07-20",
+"name": "AARO FY2025 Consolidated Annual Report on UAP (PDF)",
+"url": "https://www.aaro.mil/Portals/136/PDFs/FY25%20UAP%20Annual%20Report/AARO_FY2025_Consolidated_Annual_Report_on_UAP.pdf"
+}
+]
+}
+],
+"desc": "The civilian organisation Ryan Graves founded in 2022 to build the reporting channel the Navy did not provide. Its existence is the most concrete measure of the failure documented in Graves's own testimony: after his squadron's near-midair in Warning Area W-72, 'there was no official acknowledgement of the incident and no further mechanism to report the sightings,' so an aircrew nonprofit now performs an intake function that belongs to the Naval Safety Command and the FAA. By July 2023 Graves told Congress it had 'nearly 5,000 members' and was 'actively working with more than 30 UAP witnesses who have approached us.' The organisation's programme sits squarely on the recommendations the NASA UAP Independent Study Team published on 14 September 2023 - enhancing the Aviation Safety Reporting System for commercial pilot UAP reporting and working with the FAA on civilian pilot procedures - recommendations Mike Gold pressed again in House Oversight testimony on 13 November 2024. The organisation is a witness-chain hub: it is where aircrew who will not report inside the chain of command go instead, which makes it both an evidentiary asset and a symptom.",
+"domains": [
+"aviators-incidents"
+],
+"dossier": {
+"claims": [
+{
+"source": "https://www.safeaerospace.org/",
+"text": "Americans for Safe Aerospace is a military pilot-led 501(c)(3) nonprofit founded by Ryan Graves, a former U.S. Navy lieutenant and F/A-18 pilot, headquartered at 1620 I St NW Suite 900, Washington, DC 20006; Graves is Founder and Executive Director.",
+"tier": 1
+},
+{
+"source": "https://www.safeaerospace.org/",
+"text": "As of 2026 ASA publicly reports more than 30,000 members and describes itself as 'the world's largest UAP advocacy community dedicated to pilot support, aerospace safety, data-driven research, and analysis of UAP.'",
+"tier": 1
+},
+{
+"source": "https://www.safeaerospace.org/press-releases/uap-witness-campaign-2023",
+"text": "At launch of its UAP Witness Campaign on July 18, 2023, ASA stated that 'More than 30 commercial aircrew and military witnesses have already approached ASA to share their accounts' and that the organization had more than 4,000 members.",
+"tier": 1
+},
+{
+"source": "https://oversight.house.gov/wp-content/uploads/2023/07/Ryan-HOC-Testimony.pdf",
+"text": "In written testimony to the House Oversight Subcommittee on National Security, the Border, and Foreign Affairs on July 26, 2023, Graves stated ASA had 'nearly 5,000 members' and was 'actively working with more than 30 UAP witnesses who have approached us.'",
+"tier": 1
+},
+{
+"source": "https://oversight.house.gov/wp-content/uploads/2023/07/Ryan-HOC-Testimony.pdf",
+"text": "Graves testified that ASA advisor Rear Admiral Tim Gallaudet, former head of NOAA and Oceanographer of the Navy, received a classified SIPRNET email in 2015 while serving with Fleet Forces Command, titled 'Urgent safety of flight issue', attaching the GO FAST video and citing multiple near mid-air collisions with UAP off Virginia Beach; the email was removed from Gallaudet's system and his deputy's the next day and was never discussed, and Gallaudet 'presumes the email was removed in connection with a classified special access program.'",
+"tier": 1
+},
+{
+"source": "https://oversight.house.gov/wp-content/uploads/2023/07/Ryan-HOC-Testimony.pdf",
+"text": "Graves testified to the W-72 incident: two F/A-18s entering Warning Area W-72 ten miles east of Virginia Beach through a single GPS entry point, one hundred feet apart, when a pilot saw 'a dark gray cube inside of a clear sphere, motionless against the wind, fixed directly at the entry point'; the jets took evasive action, terminated the mission, and the squadron's safety report received no official acknowledgement and no further reporting mechanism.",
+"tier": 1
+},
+{
+"source": "https://oversight.house.gov/wp-content/uploads/2023/07/Ryan-HOC-Testimony.pdf, citing https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf",
+"text": "Graves testified that the UAP Task Force reported in 2021 that there were 11 near misses with UAP, citing the ODNI Preliminary Assessment on UAP dated June 25, 2021.",
+"tier": 1
+},
+{
+"source": "https://oversight.house.gov/wp-content/uploads/2023/07/Ryan-HOC-Testimony.pdf",
+"text": "Graves testified that in April 2022 the FAA issued an alert to its operation managers that a commercial aircraft over West Virginia experienced a double attitude and double autopilot failure while flying under a UAP.",
+"tier": 1
+},
+{
+"source": "https://www.safeaerospace.org/",
+"text": "ASA's national security advisory bench includes Jay Stratton (former Director, UAP Task Force), Christopher Mellon (former Deputy Assistant Secretary of Defense for Intelligence), Rear Admiral Tim Gallaudet (former head of NOAA), and Kirk McConnell (former professional staff, Senate Armed Services Committee).",
+"tier": 1
+},
+{
+"source": "https://www.safeaerospace.org/ and https://www.safeaerospace.org/press-releases/uap-witness-campaign-2023",
+"text": "ASA's aircrew leadership includes David Fravor and Alex Dietrich, the first former Navy pilots to meet with Congress about their UAP encounter, plus Michael Greene (former U.S. Marines F/A-18 weapons system officer) and Sam Fletcher (former U.S. Navy F/A-18 weapons system officer).",
+"tier": 1
+},
+{
+"source": "https://www.safeaerospace.org/",
+"text": "ASA's policy and science advisors include Susan McCue (former chief of staff to Senator Harry Reid), Bryan Bender (former defense editor, Politico), Mike Gold (former NASA UAP Independent Study Team member), David Radzanowski (former CFO and Chief of Staff, NASA), Avi Loeb (Harvard), Garry Nolan (Stanford), Robin Hanson (George Mason) and Ravi Starzl (Carnegie Mellon).",
+"tier": 1
+},
+{
+"source": "https://www.safeaerospace.org/press-releases/uap-witness-campaign-2023",
+"text": "ASA's witness process is witness-controlled: confidential outline, ASA interview, evaluation with a subject-matter advisor, then referral to congressional staff, Members, or AARO 'only at the explicit permission and willingness of the UAP witness.'",
+"tier": 1
+},
+{
+"source": "https://www.safeaerospace.org/ (bill text at https://www.congress.gov/bill/118th-congress/house-bill/6967/text)",
+"text": "ASA endorsed the Safe Airspace for Americans Act, H.R. 6967 (118th Congress), which would allow civilian pilots to report UAP through NASA's Aviation Safety Reporting System, provide protection against retaliation, and make all UAP reports publicly available; the mechanism was recommended by the NASA UAP Independent Study Team.",
+"tier": 1
+},
+{
+"source": "https://www.safeaerospace.org/press-releases/uap-witness-campaign-2023",
+"text": "ASA documented that the UAP Disclosure Act of 2023 was proposed by Senators Schumer, Rounds, Rubio, Gillibrand, Young and Heinrich, and that its key mechanism was a nine-member civilian Review Board empowered to 'hold hearings, administer oaths, and subpoena [UAP] witnesses and documents' in connection with declassifying UAP documents for public distribution.",
+"tier": 2
+}
+],
+"connections": [
+"Ryan Graves, VFA-11, is the bridge between the W-72 encounters off Virginia Beach and the July 26, 2023 House Oversight hearing",
+"Rear Admiral Tim Gallaudet supplies the 2015 SIPRNET email-deletion account tying UAP data suppression to a presumed classified special access program",
+"Jay Stratton connects ASA directly to the UAP Task Force, the predecessor body AARO was required to absorb under 50 U.S.C. 3373(m)",
+"Kirk McConnell connects ASA to Senate Armed Services Committee professional staff, the body that drafted the AARO statutes",
+"Susan McCue connects ASA to Senator Harry Reid's office, the origin of the AAWSAP funding line",
+"David Fravor and Alex Dietrich connect ASA to the 2004 Nimitz Tic Tac encounters",
+"AARO is ASA's designated referral destination for consenting witnesses, making ASA a de facto private front end to a federal office",
+"The Safe Airspace for Americans Act (H.R. 6967) links ASA to the House Oversight National Security Subcommittee leadership and to NASA's Aviation Safety Reporting System",
+"Christopher Mellon links ASA to the 2017 public disclosure chain and to the Office of the Deputy Assistant Secretary of Defense for Intelligence"
+],
+"denialPosture": "ASA does not deny; it documents. Its posture toward the government's own position is captured in Graves's testimony noting that AARO director Sean Kirkpatrick told Congress he operated only under Title 10 authority and needed Title 50 authorities and access to scientifically calibrated intelligence-community sensors, then indicated in his first public interview a week before the hearing that he had what he needed, a reversal Graves flagged on the record as unexplained.",
+"narrative": "ASA's origin is a specific failure of the reporting system. Graves joined the Navy in 2009 and by 2014 was flying with VFA-11 near Virginia Beach when a radar upgrade began producing unknown tracks that were initially dismissed as software glitches and then corroborated on infrared, confirming their physical presence. The sightings became routine enough to appear in daily briefs. The pivotal event was in Warning Area W-72, an exclusive block of airspace ten miles east of Virginia Beach where all traffic enters through a single GPS point at a set altitude. As two jets crossed the threshold one hundred feet apart, one pilot saw a dark gray cube inside a clear sphere, motionless against the wind, fixed directly at the entry point. Both aircraft took evasive action and terminated the mission. The squadron filed a safety report. There was no official acknowledgement and no mechanism to report further sightings. Graves founded ASA to build the mechanism that did not exist.\n\nThe organization scaled faster than anyone planned. Its July 18, 2023 launch release for the UAP Witness Campaign stated that more than 30 commercial aircrew and military witnesses had already approached it and that ASA had more than 4,000 members. Eight days later, in written testimony to the House Oversight Subcommittee on National Security, the Border, and Foreign Affairs, Graves reported nearly 5,000 members and more than 30 UAP witnesses being actively worked. By 2026 the public membership figure is over 30,000. The witness profile is itself a finding: the majority are commercial pilots at major airlines, often veterans with decades of experience, and their reports frequently open with an apology, in Graves's phrasing, 'I apologize, I realize this will sound crazy.' They describe objects at altitudes apparently above 40,000 feet, potentially in low earth orbit or in the grey zone below the Karman line, executing right-hand turns, retrograde orbits and j-hooks, with recurring clusters north of Hawaii and in the North Atlantic. They are adamant these are not Starlink flares.\n\nASA's process is deliberately witness-controlled. A pilot or veteran contacts the organization confidentially with an outline, ASA conducts an interview, brings in an advisor with relevant expertise for evaluation, and only then, and only with the witness's explicit permission, are next steps taken, which can include meetings with congressional staff and Members or with AARO. Most witnesses do not want to speak publicly and fear professional consequences; they want their account added to the data set. That design is a direct response to the retaliation problem that runs through the whole file.\n\nThe advisory bench is what makes ASA structurally significant rather than merely large. Its pilots include David Fravor and Alex Dietrich, the first former Navy pilots to meet with Congress about their UAP encounter, plus Michael Greene and Sam Fletcher. Its national security advisors are Jay Stratton, former Director of the UAP Task Force, Christopher Mellon, Rear Admiral Tim Gallaudet, and Kirk McConnell, former professional staff on the Senate Armed Services Committee, which is the committee that wrote the AARO statutes and whose chair and ranking member sit inside the twelve-member waived-SAP notification group. Its policy advisors include Susan McCue, former chief of staff to Senator Harry Reid, and Bryan Bender, former defense editor at Politico, plus Mike Gold of the NASA UAP Independent Study Team and David Radzanowski, former CFO and Chief of Staff at NASA. Its science bench includes Avi Loeb of Harvard, Garry Nolan of Stanford, Robin Hanson of George Mason and Ravi Starzl of Carnegie Mellon.\n\nThe single most operationally important thing ASA has put on the congressional record came through Gallaudet. Graves testified that while serving as an Admiral with Fleet Forces Command, Gallaudet received a classified SIPRNET email in 2015 from the Operations Commander to all one- and two-star subordinates, titled 'Urgent safety of flight issue', attaching the GO FAST video and raising concerns about multiple near mid-air collisions with UAP in the early warning area off Virginia Beach, with a note that the exercise might be shut down for safety reasons. Gallaudet reviewed it with his deputy. The next day the email was removed from both of their systems, and despite routine in-person meetings with that group, no one ever discussed it again. Gallaudet's stated presumption is that the removal was connected to a classified special access program. That is a flag officer, on the record through a congressional witness, describing the retroactive deletion of a safety-of-flight communication.\n\nGraves also entered two hard data points into the House record: that the UAP Task Force reported in 2021 there had been eleven near misses with UAP, citing the ODNI Preliminary Assessment of June 25, 2021, and that in April 2022 the FAA issued an alert to its operations managers that a commercial aircraft over West Virginia experienced a double attitude and double autopilot failure while flying under a UAP. He also flagged an unexplained reversal by AARO's director, who told Congress he operated only under Title 10 authority and needed Title 50 authorities and access to scientifically calibrated intelligence-community sensors, then indicated in his first public interview shortly before the hearing that he had what he needed.\n\nOn policy, ASA endorsed the Safe Airspace for Americans Act, H.R. 6967 in the 118th Congress, which would let civilian pilots report through NASA's Aviation Safety Reporting System with anti-retaliation protection and public release of all reports, a mechanism recommended by the NASA UAP Independent Study Team. ASA's July 2023 release also documents the organization's read of the UAP Disclosure Act of 2023, sponsored by Senators Schumer, Rounds, Rubio, Gillibrand, Young and Heinrich, whose central mechanism was a nine-member civilian Review Board empowered to hold hearings, administer oaths, and subpoena UAP witnesses and documents.",
+"openQuestions": [
+"How many of ASA's accumulated witness reports have actually been transmitted to AARO, and what AARO did with them",
+"Whether ASA's raw report corpus is preserved, structured, and available to any independent analytic body",
+"Whether any ASA witness has faced documented retaliation after referral",
+"The current disposition of the April 2022 FAA West Virginia double-failure alert, which has not been publicly produced in full",
+"Whether ASA advisors who held clearances are constrained by nondisclosure obligations that the July 2026 presidential UAP NDA directive may now have waived",
+"Whether ASA's 30,000-plus membership figure reflects verified aviation professionals or general public sign-ups; the site does not disaggregate"
+],
+"roles": [
+"disclosure",
+"research",
+"oversight"
+],
+"whatItIs": "Americans for Safe Aerospace (ASA) is a military pilot-led 501(c)(3) nonprofit founded in 2023 by Ryan Graves, a former U.S. Navy F/A-18F pilot from strike fighter squadron VFA-11. It operates a confidential intake channel through which military and commercial aircrew report UAP encounters, and it functions as the principal non-governmental witness pipeline into Congress. Headquartered at 1620 I St NW Suite 900, Washington, DC, it describes itself as the world's largest UAP advocacy community and reported more than 30,000 members as of 2026, up from roughly 4,000 at its founding.",
+"whyImplicated": "ASA is the institution that solved the collection problem the government created. Because there is no protected, non-stigmatizing reporting route for commercial pilots, and because military witnesses face a confusing internal process, the observational data that would test the phenomenon has never been aggregated by the state. ASA aggregates it privately and then feeds it to Congress, which is why its founder's July 2023 testimony landed as the first public congressional hearing to take military pilot and whistleblower evidence. More importantly for a concealment map, ASA is where several people who were inside the classified system have landed: Jay Stratton, former Director of the UAP Task Force; Christopher Mellon, former Deputy Assistant Secretary of Defense for Intelligence; Rear Admiral Tim Gallaudet, former head of NOAA and Oceanographer of the Navy; and Kirk McConnell, former professional staff of the Senate Armed Services Committee. That roster means ASA holds institutional memory of both the task force that collected the data and the committee staff that wrote the oversight statutes. It is a private organization staffed with the government's own former custodians."
+},
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "americans-for-safe-aerospace",
+"l0": true,
+"label": "Americans for Safe Aerospace",
+"locLabel": null,
+"members": [
+{
+"cls": "person",
+"id": "ryan-graves",
+"label": "Ryan Graves",
+"tier": "A"
+},
+{
+"cls": "person",
+"id": "tim-gallaudet",
+"label": "Timothy Gallaudet",
+"tier": "A"
+}
+],
+"short": "Americans for Safe Aerospace",
+"sources": [
+{
+"date": "2023-07-26",
+"name": "House Oversight - Graves written testimony (PDF)",
+"url": "https://oversight.house.gov/wp-content/uploads/2023/07/Ryan-HOC-Testimony.pdf"
+},
+{
+"date": "2023-07-26",
+"name": "House Oversight - hearing page, 26 July 2023",
+"url": "https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/"
+},
+{
+"date": "2023-09-14",
+"name": "NASA UAP Independent Study Team Final Report (PDF)",
+"url": "https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf"
+}
+],
+"sub": "Aircrew advocacy and UAP reporting nonprofit",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 442 of 1027, score 31). 6 connections, 2 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D3.",
+"timeline": [
+{
+"date": "2022-01-01",
+"id": "av-2022-asa",
+"label": "Americans for Safe Aerospace founded",
+"precision": "year",
+"strand": "witness",
+"text": "Ryan Graves builds the aircrew reporting channel the Navy did not provide; by July 2023 it has nearly 5,000 members and is working with more than 30 UAP witnesses.",
+"tier": "A"
+}
+]
+}

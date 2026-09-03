@@ -1,0 +1,97 @@
+{
+"A": 0,
+"C": 2,
+"D": 1,
+"band": null,
+"claims": [
+{
+"source": "Contemporaneous MUFON and BAASS accounts; The UFO Chronicles, March 2011",
+"text": "BAASS funded MUFON's Star Team Impact Project in 2009 to provide rapid-response field investigation, with case data flowing back to BAASS; the arrangement ended in 2010.",
+"tier": 2
+},
+{
+"source": "BAASS Ten Month Report (2009)",
+"text": "The BAASS Ten Month Report describes case collection and database construction consistent with an external civilian reporting pipeline.",
+"tier": 2
+},
+{
+"source": "Inference from the SIP arrangement's structure",
+"text": "Routing civilian UFO reports into a DIA-contracted database without the reporting public's knowledge is a data-provenance problem that has never been examined, and it is one reason the government's case holdings may substantially exceed what any FOIA of military reporting channels would reveal.",
+"tier": 3
+}
+],
+"cls": "program",
+"cluster": "contractor",
+"connections": [
+{
+"claimTier": 2,
+"cls": "institution",
+"dateEnd": "2010",
+"dateStart": "2009",
+"direction": "in",
+"edgeLabel": "funded MUFON's Star Team Impact Project",
+"id": "baass",
+"l0": true,
+"label": "Bigelow Aerospace Advanced Space Studies (BAASS), LLC",
+"note": "A DIA-contracted firm bought rapid-response access to the largest civilian UFO reporting network in the United States; the arrangement collapsed in 2010.",
+"sources": [
+{
+"date": "2011-03-01",
+"name": "The UFO Chronicles",
+"url": "https://www.theufochronicles.com/2011/03/what-caused-failure-of-baass-mufon-sip.html"
+}
+],
+"tier": "A",
+"type": "funding"
+}
+],
+"coords": null,
+"dateEnd": "2010",
+"dateStart": "2009",
+"deg": 1,
+"denials": [],
+"desc": "In 2009 BAASS, executing a Defense Intelligence Agency contract, entered a funding arrangement with the Mutual UFO Network — the largest civilian UFO reporting organisation in the United States — to stand up the Star Team Impact Project, a rapid-response field investigation capability that would deploy trained investigators to significant cases within 24 hours and route the resulting data back to BAASS. The practical effect was that federal contract money bought a government-funded contractor a live feed from the American public's UFO reporting stream, and MUFON's case files with it. The arrangement lasted roughly a year before collapsing in 2010 amid disputes over data ownership, reporting requirements and the direction of the funding. It is the clearest documented instance of the funded lineage reaching outside government into civil society, and it is entirely absent from AARO's official history, which describes only laboratory and site-based work.",
+"domains": [
+"aawsap-aatip"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "2",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "mufon-sip",
+"l0": false,
+"label": "BAASS–MUFON Star Team Impact Project (SIP)",
+"locLabel": null,
+"members": null,
+"short": "BAASS–MUFON Star Team Impact Project (SIP)",
+"sources": [
+{
+"date": "2011-03-01",
+"name": "The UFO Chronicles — What Caused the Failure of the BAASS-MUFON SIP Program?",
+"url": "https://www.theufochronicles.com/2011/03/what-caused-failure-of-baass-mufon-sip.html"
+},
+{
+"date": "2020-03-01",
+"name": "Blue Blurry Lines — Breaking the Silence: AATIP's Secret Partner Speaks",
+"url": "https://www.blueblurrylines.com/2020/03/breaking-silence-aatips-secret-partner.html"
+}
+],
+"sub": "Contractor-funded civilian rapid-response investigation program, 2009-2010",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 779 of 1027, score 19). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A0/D1.",
+"timeline": [
+{
+"date": "2009-01-01",
+"id": "tl-2009-mufon",
+"label": "BAASS funds MUFON's Star Team Impact Project",
+"precision": "year",
+"strand": "program",
+"text": "A DIA-contracted firm funds rapid-response investigation by the largest civilian UFO network in the United States, routing case data back to BAASS. The arrangement collapses in 2010.",
+"tier": "B"
+}
+]
+}

@@ -1,0 +1,134 @@
+{
+"A": 1,
+"C": 0,
+"D": 3,
+"band": null,
+"claims": [
+{
+"source": "https://media.defense.gov/2026/May/22/2003937005/-1/-1/1/MANSFIELD%20ORAL%20STATEMENT%205.13.26_FINAL.PDF — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
+"text": "The hearing 'DoW Financial Management: Examining Progress and New Audit Approaches' was held by the House Committee on Oversight and Government Reform on 13 May 2026, with Deputy Inspector General Brett A. Mansfield testifying.",
+"tier": 2
+},
+{
+"source": "https://media.defense.gov/2026/May/22/2003937005/-1/-1/1/MANSFIELD%20ORAL%20STATEMENT%205.13.26_FINAL.PDF",
+"text": "Mansfield's statement records unsupported adjustments of 'over $859 billion in the last two quarters of FY 25' and more than $4.7 trillion in assets under management.",
+"tier": 1
+},
+{
+"source": "https://media.defense.gov/2026/May/22/2003937005/-1/-1/1/MANSFIELD%20ORAL%20STATEMENT%205.13.26_FINAL.PDF",
+"text": "Mansfield announced consolidation of reporting entities from 22 to 7 in FY2027 and transfer of the group auditor role to an independent public accounting firm with OIG oversight.",
+"tier": 1
+},
+{
+"source": "https://media.defense.gov/2026/May/22/2003937005/-1/-1/1/MANSFIELD%20ORAL%20STATEMENT%205.13.26_FINAL.PDF",
+"text": "The House Oversight Committee has now received, in the same Congress, both the allegation of funds moved outside its oversight and the auditor's admission that the Department cannot document $859 billion of adjustments in two quarters, without any member publicly connecting them. Reasoning: the two proceedings are separately documented on the committee's and the OIG's own sites, and no published question or letter joins them.",
+"tier": 3
+}
+],
+"cls": "event",
+"cluster": "other",
+"connections": [
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "2026-05-13",
+"dateStart": "2026-05-13",
+"direction": "in",
+"edgeLabel": "Witness at the 13 May 2026 hearing",
+"id": "brett-mansfield",
+"l0": false,
+"label": "Brett A. Mansfield",
+"note": "Mansfield was the Office of Inspector General witness at 'DoW Financial Management: Examining Progress and New Audit Approaches'. Attested by the OIG's publication of his statement.",
+"sources": [
+{
+"date": "2026-05-13",
+"name": "Mansfield oral statement",
+"url": "https://media.defense.gov/2026/May/22/2003937005/-1/-1/1/MANSFIELD%20ORAL%20STATEMENT%205.13.26_FINAL.PDF"
+}
+],
+"tier": "B",
+"type": "witness-chain"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "2026-05-13",
+"dateStart": "2026-05-13",
+"direction": "out",
+"edgeLabel": "Same committee, 13 May 2026",
+"id": "house-oversight-committee",
+"l0": true,
+"label": "U.S. House Committee on Oversight and Government Reform",
+"note": "The House Committee on Oversight and Government Reform held the DoW financial management hearing at which Deputy IG Mansfield testified. Attested by the OIG's publication of his statement.",
+"sources": [
+{
+"date": "2026-05-13",
+"name": "Mansfield oral statement",
+"url": "https://media.defense.gov/2026/May/22/2003937005/-1/-1/1/MANSFIELD%20ORAL%20STATEMENT%205.13.26_FINAL.PDF"
+}
+],
+"tier": "B",
+"type": "institutional"
+}
+],
+"coords": null,
+"dateEnd": "2026-05-13",
+"dateStart": "2026-05-13",
+"deg": 2,
+"denials": [],
+"desc": "On 13 May 2026 the House Committee on Oversight and Government Reform held a hearing titled 'DoW Financial Management: Examining Progress and New Audit Approaches'. Brett A. Mansfield, Deputy Inspector General of the Department of War, testified. His oral statement, published by the Office of Inspector General ten days later, put on the congressional record that unsupported adjustments totalled 'over $859 billion in the last two quarters of FY 25', that the Department manages more than $4.7 trillion in assets, that material weaknesses had fallen from twenty-eight to twenty-six, and that auditors issued 427 fewer Notices of Findings and Recommendations than in prior years. He also disclosed two forward-looking structural changes: consolidation of the Department's stand-alone reporting entities from twenty-two to seven in fiscal year 2027, and transfer of the group auditor role to an independent public accounting firm with the Office of Inspector General retaining oversight. This is the same committee - House Oversight - before whose National Security subcommittee David Grusch testified on 26 July 2023. The committee that heard the allegation that money was moved outside congressional oversight is the committee that, thirty-four months later, was told the Department could not document $859 billion of adjustments in six months. Nothing in the public record connects the two proceedings.",
+"domains": [
+"_rs-archive-mirror",
+"w2-black-budget"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "dow-financial-mgmt-hearing-2026",
+"l0": false,
+"label": "House Oversight hearing: 'DoW Financial Management: Examining Progress and New Audit Approaches' (13 May 2026)",
+"locLabel": null,
+"members": null,
+"short": "House Oversight hearing: 'DoW Financial Management: Examining Progress and New Audit Approaches' (13 May 2026)",
+"sources": [
+{
+"date": "2026-05-22",
+"name": "Archived: Statement of Brett A. Mansfield, Deputy Inspector General (Wayback 2026-05-22)",
+"url": "https://web.archive.org/web/20260522165323/https://media.defense.gov/2026/May/22/2003937005/-1/-1/1/MANSFIELD%20ORAL%20STATEMENT%205.13.26_FINAL.PDF"
+},
+{
+"date": "2026-05-22",
+"name": "Archived: DoD OIG page for the Mansfield statement (Wayback 2026-05-22)",
+"url": "https://web.archive.org/web/20260522165334/https://www.dodig.mil/reports.html/Article/4499300/statement-of-brett-a-mansfield-deputy-inspector-general-department-of-war-for-t/"
+},
+{
+"date": "2026-05-13",
+"name": "Statement of Brett A. Mansfield, Deputy Inspector General",
+"url": "https://media.defense.gov/2026/May/22/2003937005/-1/-1/1/MANSFIELD%20ORAL%20STATEMENT%205.13.26_FINAL.PDF"
+},
+{
+"date": "2026-05-13",
+"name": "DoD OIG page for the Mansfield statement",
+"url": "https://www.dodig.mil/reports.html/Article/4499300/statement-of-brett-a-mansfield-deputy-inspector-general-department-of-war-for-t/"
+}
+],
+"sub": "The most recent congressional examination of the Department's inability to account for its money",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 670 of 1027, score 23). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A1/D3.",
+"timeline": [
+{
+"date": "2026-05-13",
+"id": "bb-tl-2026-05-13-hearing",
+"label": "Deputy IG testifies to House Oversight on the $859 billion",
+"precision": "day",
+"strand": "oversight",
+"text": "Brett A. Mansfield tells the House Committee on Oversight and Government Reform that unsupported adjustments exceeded $859 billion in two quarters, that the Department manages more than $4.7 trillion in assets, and that reporting entities will consolidate from twenty-two to seven in FY2027 with an independent public accounting firm taking the group auditor role. It is the same committee that heard David Grusch in July 2023.",
+"tier": "A"
+}
+]
+}

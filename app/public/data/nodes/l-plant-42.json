@@ -1,0 +1,103 @@
+{
+"A": 3,
+"C": 2,
+"D": 0,
+"band": null,
+"claims": [
+{
+"source": "AARO Historical Record Report Volume I, March 2024",
+"text": "Lockheed Martin's Advanced Development Programs organisation operates at Palmdale; AARO cites its aircraft as sources of UAP misidentification.",
+"tier": 1
+},
+{
+"source": "Board inference from Knapp's 9 September 2025 testimony",
+"text": "The unnamed 'facility in California' at which material was allegedly held is most plausibly a Lockheed cleared site in the Palmdale-Antelope Valley complex. Reasoning: Knapp specified California and Lockheed; Lockheed's California SAP-accredited aeronautics footprint is concentrated there. No witness has named a site.",
+"tier": 3
+}
+],
+"cls": "location",
+"cluster": "contractor",
+"connections": [
+{
+"claimTier": 3,
+"cls": "institution",
+"dateEnd": "2010",
+"dateStart": "2009",
+"direction": "in",
+"edgeLabel": "The unnamed 'facility in California' in the sworn testimony is most plausibly in the Palmdale complex",
+"id": "lockheed-martin",
+"l0": true,
+"label": "Lockheed Martin Corporation",
+"note": "Reasoning: Knapp specified California and Lockheed; Lockheed's California SAP-accredited aeronautics footprint is concentrated at Palmdale. No witness has named a site and the board does not assert one.",
+"sources": [
+{
+"date": "2025-09-09",
+"name": "House Oversight Task Force on the Declassification of Federal Secrets hearing transcript, 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection' (CHRG-119hhrg61718, Serial No. 119-44)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm"
+}
+],
+"tier": "A",
+"type": "custody"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "1990",
+"direction": "in",
+"edgeLabel": "Skunk Works operates at the government-owned contractor-operated Palmdale facility",
+"id": "lockheed-skunk-works",
+"l0": true,
+"label": "Lockheed Martin Advanced Development Programs (Skunk Works)",
+"note": "Plant 42 is compartmented program by program inside a single fence line, which is the physical form of the concealment architecture at issue.",
+"sources": [
+{
+"date": "2024-03-08",
+"name": "AARO, 'Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP), Volume I'",
+"url": "https://documents2.theblackvault.com/documents/dod/AARO_Historical_Record_Report_Volume_1_2024.pdf"
+}
+],
+"tier": "B",
+"type": "institutional"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "1954",
+"deg": 2,
+"denials": [],
+"desc": "Plant 42 is where the primes build the aircraft the government will not admit exist. Government-owned and contractor-operated, its sites host Lockheed Martin Skunk Works, Northrop Grumman's B-2 and B-21 work, and Boeing operations, under program-level compartmentation that partitions the workforce inside a single fence line. It is the physical answer to the question of where a prime contractor would keep something: a facility the government owns, a contractor runs, and the accreditation for which is held program by program rather than site-wide. George Knapp's sworn testimony places the material Bigelow allegedly negotiated for at 'a facility in California,' unnamed. Plant 42 has also been the subject of documented unexplained drone incursions reported by the Air Force, which is the modern form of the same problem: an installation whose airspace events are themselves classified.",
+"domains": [
+"primes-custody"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "l-plant-42",
+"l0": false,
+"label": "Air Force Plant 42, Palmdale, California",
+"locLabel": null,
+"members": null,
+"short": "Air Force Plant 42, Palmdale, California",
+"sources": [
+{
+"date": "2024-03-08",
+"name": "AARO, 'Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP), Volume I'",
+"url": "https://documents2.theblackvault.com/documents/dod/AARO_Historical_Record_Report_Volume_1_2024.pdf"
+},
+{
+"date": "2025-09-09",
+"name": "House Oversight Task Force on the Declassification of Federal Secrets hearing transcript, 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection' (CHRG-119hhrg61718, Serial No. 119-44)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm"
+}
+],
+"sub": "Government-owned contractor-operated aerospace facility",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 593 of 1027, score 26). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A3/D0.",
+"timeline": []
+}

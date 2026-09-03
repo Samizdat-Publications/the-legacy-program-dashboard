@@ -1,0 +1,621 @@
+{
+"A": 1,
+"C": 3,
+"D": 3,
+"band": "reverse-engineering",
+"claims": [
+{
+"source": "CRADA document released by U.S. Army CCDC, reported by Joseph Trevithick and Brett Tingley, The War Zone, 18 October 2019",
+"text": "Signed 10 October 2019 by Jeffery Langhout (Director, Army GVSC) and Kari DeLonge (TTSA), with Bean Soave and Dr. Joseph Cannon as government principal investigators and Luis Elizondo as TTSA principal investigator; term to 30 September 2023.",
+"tier": 1
+},
+{
+"source": "CRADA document as released, The War Zone, 18 October 2019",
+"text": "Research areas specified: inertial mass reduction, mechanical/structural metamaterials, electromagnetic metamaterial waveguides, quantum physics, quantum communications, beamed energy propulsion; applications include Active Camouflage and Directed Photon Projection. TTSA's participation valued at an estimated $1 million in in-kind contributions.",
+"tier": 1
+},
+{
+"source": "CCDC FOIA response to The Black Vault",
+"text": "On 21 February 2020 CCDC FOIA Officer Joy L. Linton denied in full twenty-nine emails totalling one hundred pages of TTSA-Army correspondence under FOIA exemptions (b)(4) and (b)(5).",
+"tier": 1
+},
+{
+"source": "The Black Vault, 12 March 2020",
+"text": "Army GVSP public affairs officer Doug Halleaux said that because 'the Army's interest is in the potential for novel materials and exploring the edges of materials science, any speculation as to their origin is (pardon the pun) immaterial.'",
+"tier": 2
+},
+{
+"source": "SEC EDGAR, TTSA Form 1-A Exhibit 6.28, filed 3 August 2020",
+"text": "CRADA 19-15 'Novel & Emerging Technology Exploitation (NETE)' between To The Stars Academy of Arts and Science, Inc. and the US Army CCDC Ground Vehicle Systems Center, with named government principal investigators and TACOM IP counsel, was filed as SEC Exhibit 6.28.",
+"tier": 1
+},
+{
+"source": "AARO Historical Record Report Volume I, March 2024",
+"text": "AARO confirms that the private organisation owning the alleged crash material 'negotiated an agreement in 2019 with the U.S. Army to analyze the samples.'",
+"tier": 1
+}
+],
+"cls": "document",
+"cluster": "other",
+"connections": [
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "2024",
+"dateStart": "2019",
+"direction": "out",
+"edgeLabel": "The privately held specimen passed from the company through the Army to AARO and then to ORNL",
+"id": "aaro-metallic-specimen-analysis",
+"l0": false,
+"label": "AARO / ORNL Synopsis: Analysis of a Metallic Specimen",
+"note": "AARO confirms the organisation 'negotiated an agreement in 2019 with the U.S. Army to analyze the samples' and that AARO subsequently acquired the sample with stakeholder permission. This is the only fully documented custody chain in the entire domain.",
+"sources": [
+{
+"date": "2024-03-08",
+"name": "AARO, 'Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP), Volume I'",
+"url": "https://documents2.theblackvault.com/documents/dod/AARO_Historical_Record_Report_Volume_1_2024.pdf"
+},
+{
+"date": "2024-07-11",
+"name": "The Black Vault, 'AARO Releases Findings on Suspected Extraterrestrial Alloy' (ORNL analysis of the magnesium specimen)",
+"url": "https://www.theblackvault.com/documentarchive/aaro-releases-findings-on-suspected-extraterrestrial-alloy/"
+},
+{
+"date": "2020-08-03",
+"name": "SEC EDGAR: To The Stars Academy of Arts and Science Form 1-A Exhibit 6.28 - CRADA 19-15 'Novel & Emerging Technology Exploitation' with U.S. Army CCDC Ground Vehicle Systems Center",
+"url": "https://www.sec.gov/Archives/edgar/data/1710274/000110465920089220/tm2023098d2_ex6-28.htm"
+}
+],
+"tier": "B",
+"type": "custody"
+},
+{
+"claimTier": 2,
+"cls": "program",
+"dateEnd": "2023",
+"dateStart": "2019",
+"direction": "in",
+"edgeLabel": "ADAM is the predicate for the Army agreement",
+"id": "adam-research-project",
+"l0": true,
+"label": "ADAM Research Project (Acquisition and Data Analysis of Materials)",
+"note": "The CRADA lists mechanical/structural metamaterials and electromagnetic metamaterial waveguides — the exact subject matter ADAM claimed to hold.",
+"sources": [
+{
+"date": "2019-10-18",
+"name": "The War Zone",
+"url": "https://www.twz.com/30498/the-army-wants-to-verify-to-the-stars-academys-fantastic-ufo-mystery-material-claims"
+}
+],
+"tier": "A",
+"type": "programmatic"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "2023",
+"dateStart": "2019",
+"direction": "out",
+"edgeLabel": "Army counterparty; Detroit Arsenal ground vehicle laboratory",
+"id": "ccdc-gvsc",
+"l0": false,
+"label": "U.S. Army Combat Capabilities Development Command, Ground Vehicle Systems Center",
+"note": "GVSC released the agreement text within a day of the announcement and withheld all associated correspondence four months later.",
+"sources": [
+{
+"date": "2020-03-12",
+"name": "The Black Vault — Secrecy Deepens",
+"url": "https://www.theblackvault.com/documentarchive/secrecy-deepens-about-u-s-army-agreement-to-analyze-ufo-material/"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 2,
+"cls": "domain",
+"dateEnd": null,
+"dateStart": "2019-10-10",
+"direction": "out",
+"edgeLabel": "a non-FAR instrument binding the Army to a private claimant of recovered material",
+"id": "d-contracting",
+"l0": false,
+"label": "Federal Contracting Mechanics",
+"note": "Signed 10 October 2019 by the Director of the Army Ground Vehicle Systems Center and announced 17 October 2019. A Cooperative Research and Development Agreement sits outside ordinary procurement, involves no exchange of appropriated funds to the partner, and protects the private party's proprietary data - which is exactly the class of vehicle this domain is about. The executed document is not public; sourcing is the partner's own contemporaneous FAQ.",
+"sources": [
+{
+"date": "2019-11-15",
+"name": "Archived: To The Stars Academy, CRADA FAQ (Wayback 2019-11-15)",
+"url": "https://web.archive.org/web/20191115181458/https://dpo.tothestarsacademy.com/blog/crada-faq"
+},
+{
+"date": "2021-10-24",
+"name": "Archived: To The Stars Academy, CRADA FAQ (Wayback 2021-10-24)",
+"url": "https://web.archive.org/web/20211024221658/https://dpo.tothestarsacademy.com/blog/crada-faq"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "2019",
+"dateStart": "2019",
+"direction": "in",
+"edgeLabel": "Signed for the United States Army, 10 October 2019",
+"id": "jeffery-langhout",
+"l0": false,
+"label": "Jeffery Langhout",
+"note": "The federal signature block is what makes the agreement citable as a government act.",
+"sources": [
+{
+"date": "2019-10-18",
+"name": "The War Zone",
+"url": "https://www.twz.com/30498/the-army-wants-to-verify-to-the-stars-academys-fantastic-ufo-mystery-material-claims"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "2023",
+"dateStart": "2019",
+"direction": "in",
+"edgeLabel": "Government principal investigator",
+"id": "joseph-cannon",
+"l0": false,
+"label": "Dr. Joseph Cannon",
+"note": "Named in the agreement alongside Bean Soave and quoted in the announcement calling TTSA 'an exciting, non-traditional source for novel materials'.",
+"sources": [
+{
+"date": "2019-10-17",
+"name": "PR Newswire — CRADA announcement",
+"url": "https://www.prnewswire.com/news-releases/to-the-stars-academy-of-arts--science-announces-crada-with-the-us-army-combat-capabilities-development-command-to-advance-materiel-and-technology-innovations-300940211.html"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "2019",
+"dateStart": "2019",
+"direction": "in",
+"edgeLabel": "Signed for To The Stars Academy, 10 October 2019",
+"id": "kari-delonge",
+"l0": false,
+"label": "Kari DeLonge",
+"note": "The corporate signatory on a materials-science agreement with an Army laboratory was TTSA's Chief Content Officer — the entertainment company was the legal spine.",
+"sources": [
+{
+"date": "2019-10-18",
+"name": "The War Zone",
+"url": "https://www.twz.com/30498/the-army-wants-to-verify-to-the-stars-academys-fantastic-ufo-mystery-material-claims"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "location",
+"dateEnd": "2019-10-10",
+"dateStart": "2019-10-10",
+"direction": "out",
+"edgeLabel": "The CRADA was executed at Detroit Arsenal",
+"id": "l-detroit-arsenal",
+"l0": false,
+"label": "Detroit Arsenal, Warren, Michigan",
+"note": "GVSC Director Jeffery Langhout signed the agreement on 10 October 2019; the Army released the text on 18 October 2019.",
+"sources": [
+{
+"date": "2019-10-18",
+"name": "The Black Vault - Army/TTSA CRADA and FOIA records",
+"url": "https://www.theblackvault.com/documentarchive/u-s-army-releases-crada-with-to-the-stars-academy-of-arts-science/"
+},
+{
+"date": "2026-08-25",
+"name": "CRADA between CCDC Ground Vehicle Systems Center and To The Stars Academy, CRADA No. 19-15 (released PDF)",
+"url": "https://documents2.theblackvault.com/documents/army/TTSA-ARMY-CRADA.pdf"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "2020",
+"dateStart": "2019",
+"direction": "in",
+"edgeLabel": "Named as TTSA's principal investigator on the Army agreement",
+"id": "luis-elizondo",
+"l0": false,
+"label": "Luis D. Elizondo",
+"note": "Two years after resigning from OUSD(I), Elizondo is the named private-sector counterpart to an Army laboratory on an exotic-materials instrument.",
+"sources": [
+{
+"date": "2019-10-18",
+"name": "The War Zone",
+"url": "https://www.twz.com/30498/the-army-wants-to-verify-to-the-stars-academys-fantastic-ufo-mystery-material-claims"
+}
+],
+"tier": "A",
+"type": "custody"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "2020",
+"dateStart": "2019",
+"direction": "in",
+"edgeLabel": "TTSA executed a federal exploitation agreement over material it claimed was of unknown origin",
+"id": "ttsa",
+"l0": true,
+"label": "To The Stars Academy of Arts & Science Inc. (later To The Stars Inc.)",
+"note": "CRADA 19-15 'Novel & Emerging Technology Exploitation' with the US Army CCDC Ground Vehicle Systems Center was filed as Exhibit 6.28 to TTSA's Form 1-A, naming Army principal investigators and TACOM intellectual property counsel.",
+"sources": [
+{
+"date": "2020-08-03",
+"name": "SEC EDGAR: To The Stars Academy of Arts and Science Form 1-A Exhibit 6.28 - CRADA 19-15 'Novel & Emerging Technology Exploitation' with U.S. Army CCDC Ground Vehicle Systems Center",
+"url": "https://www.sec.gov/Archives/edgar/data/1710274/000110465920089220/tm2023098d2_ex6-28.htm"
+},
+{
+"date": "2020-08-03",
+"name": "SEC EDGAR: TTSA Form 1-A Exhibit 6.26, Cooperative Marketing Agreement referencing the Army NETE CRADA",
+"url": "https://www.sec.gov/Archives/edgar/data/1710274/000110465920089220/tm2023098d2_ex6-26.htm"
+}
+],
+"tier": "A",
+"type": "custody"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "2023",
+"dateStart": "2019",
+"direction": "in",
+"edgeLabel": "Executed CRADA with the U.S. Army, 10 October 2019, term to 30 September 2023",
+"id": "ttsa",
+"l0": true,
+"label": "To The Stars Academy of Arts & Science Inc. (later To The Stars Inc.)",
+"note": "A real federal instrument, not a press release: signed by the GVSC Director and TTSA's Chief Content Officer, with TTSA's participation valued at an estimated $1 million in in-kind contributions.",
+"sources": [
+{
+"date": "2019-10-18",
+"name": "The War Zone",
+"url": "https://www.twz.com/30498/the-army-wants-to-verify-to-the-stars-academys-fantastic-ufo-mystery-material-claims"
+},
+{
+"date": "2019-10-17",
+"name": "PR Newswire — CRADA announcement",
+"url": "https://www.prnewswire.com/news-releases/to-the-stars-academy-of-arts--science-announces-crada-with-the-us-army-combat-capabilities-development-command-to-advance-materiel-and-technology-innovations-300940211.html"
+}
+],
+"tier": "A",
+"type": "funding"
+}
+],
+"coords": null,
+"dateEnd": "2023",
+"dateStart": "2019",
+"deg": 10,
+"denials": [],
+"desc": "This is the hardest artifact in the domain: an executed federal research instrument binding the United States Army to a company that publicly claimed custody of material from a vehicle of unknown origin. Signed on 10 October 2019 by Jeffery Langhout, Director of the Army Ground Vehicle Systems Center, and Kari DeLonge for TTSA, and announced on 17 October 2019, it named Bean Soave and Dr. Joseph Cannon as government principal investigators and Luis Elizondo, as TTSA's Director of Global Security & Special Programs, as the collaborator principal investigator. The stated research areas are 'inertial mass reduction, mechanical/structural meta materials, electromagnetic meta material wave guides, quantum physics, quantum communications, and beamed energy propulsion', with 'Active Camouflage' and 'Directed Photon Projection' named as applications. The document runs to 30 September 2023 with annual intellectual property reviews and estimates the value of TTSA's participation at $1 million in in-kind contributions; the Army provided laboratories, expertise and resources reported at not less than $750,000 in value. The Army released the agreement itself on 18 October 2019 but on 21 February 2020 denied in full a FOIA request for the associated correspondence — twenty-nine emails, one hundred pages — under exemptions (b)(4) and (b)(5). No technical results have ever been published.",
+"domains": [
+"_rs-archive-mirror",
+"elizondo-ttsa",
+"primes-custody"
+],
+"dossier": {
+"claims": [
+{
+"source": "https://documents2.theblackvault.com/documents/army/TTSA-ARMY-CRADA.pdf (26 pages, released by U.S. Army CCDC GVSC to The Black Vault, October 2019)",
+"text": "The executed agreement is CRADA Number 19-15, titled 'Novel & Emerging Technology Exploitation (NETE),' between To The Stars Academy of Arts and Science, Inc. and the U.S. Army Combat Capabilities Development Command Ground Vehicle Systems Center, 6501 E. 11 Mile Road, Warren, MI 48397-5000.",
+"tier": 1
+},
+{
+"source": "https://documents2.theblackvault.com/documents/army/TTSA-ARMY-CRADA.pdf",
+"text": "The Collaborator Principal Investigator and preferred point of contact named in the CRADA is Luis Elizondo, 'Director of Global Security and Special Programs,' at 315 South Coast Hwy 101, Ste. U-38, Encinitas, CA 92024.",
+"tier": 1
+},
+{
+"source": "https://documents2.theblackvault.com/documents/army/TTSA-ARMY-CRADA.pdf",
+"text": "The Government Principal Investigators named in the CRADA are Ben Soave and Dr. Joseph Cannon of Ground Vehicle Survivability and Protection (GVSP), MS 263b; the Office of Research and Technology Applications representative is Andrea Simon; Government legal counsel is Christina Dellmore, Chief, Intellectual Property Law Division, US Army TACOM LCMC.",
+"tier": 1
+},
+{
+"source": "https://documents2.theblackvault.com/documents/army/TTSA-ARMY-CRADA.pdf",
+"text": "Collaborator legal counsel named in the CRADA is Heidy Vaquerano, Esq., of Wolf, Rifkin, Shapiro, Schulman & Rabkin, LLP, 11400 W. Olympic Boulevard, 9th Floor, Los Angeles, CA 90064.",
+"tier": 1
+},
+{
+"source": "https://documents2.theblackvault.com/documents/army/TTSA-ARMY-CRADA.pdf, Section II - Joint Work Plan",
+"text": "The CRADA Joint Work Plan states: 'The Government is interested in a variety of the Collaborator's technologies, such as, but not limited to inertial mass reduction, mechanical/structural metamaterials, electromagnetic metamaterial wave guides, quantum physics, quantum communications, and beamed energy propulsion.'",
+"tier": 1
+},
+{
+"source": "https://documents2.theblackvault.com/documents/army/TTSA-ARMY-CRADA.pdf, Section II - Joint Work Plan",
+"text": "The CRADA obligates the Collaborator to 'Provide the agreed upon materiel technologies for USG testing and evaluation,' specifically including 'Metamaterial: Samples of mechanical and EM sensitive metamaterial collected, obtained, or developed as part of its Field Operations,' along with written material analysis data and quantum communication research.",
+"tier": 1
+},
+{
+"source": "https://documents2.theblackvault.com/documents/army/TTSA-ARMY-CRADA.pdf",
+"text": "Article 4.2 of the CRADA provides that the agreement 'will automatically expire sixty (60) months from the Effective Date of this CRADA, unless modified per Article 4.6,' and Article 4.3 provides that it 'enters into force as of the date it is signed by the last authorized representative of the Parties'; Section III repeats the sixty-month expiration and provides that rights and responsibilities survive completion, expiration or termination.",
+"tier": 1
+},
+{
+"source": "https://documents2.theblackvault.com/documents/army/TTSA-ARMY-CRADA.pdf, Article 5.5 and page marking legends",
+"text": "Information exchanged under the CRADA is protected in accordance with 15 U.S.C. section 3710a(c)(7), and licenses to CRADA inventions are granted in accordance with 15 U.S.C. section 3710a(b)(2); the Collaborator's option to choose an exclusive license must be requested within six months of being notified of a CRADA Invention, subject to the Government retaining a nonexclusive, transferable license.",
+"tier": 1
+},
+{
+"source": "SEC Form 253G2, To The Stars Academy of Arts & Science Inc. (CIK 0001710274); https://www.sec.gov/Archives/edgar/data/1710274/000110465920106541/tm2023098d7_253g2.htm",
+"text": "To The Stars Academy told the SEC that 'on October 10, 2019, the company also entered into a Cooperative Research and Development Agreement with the U.S. Army's Combat Capabilities Development Command,' whose purpose 'is to advance developments in material science (including testing of the metamaterials), space-time metric engineering, quantum physics, beamed energy propulsion and active camouflage.'",
+"tier": 1
+},
+{
+"source": "https://www.sec.gov/Archives/edgar/data/1710274/000110465920106541/tm2023098d7_253g2.htm",
+"text": "The same SEC filing states that 'the total value of anticipated U.S. government resources, including personnel, services provided, intellectual property, facilities, equipment, and reporting through the course of this effort is estimated at $750,000,' that the total value of the company's participation 'is estimated at $1,000,000,' and that the CRADA 'may be terminated by mutual consent of the parties or unilaterally with a 30 day-notice.'",
+"tier": 1
+},
+{
+"source": "https://www.sec.gov/Archives/edgar/data/1710274/000110465920106541/tm2023098d7_253g2.htm",
+"text": "In the same SEC filing To The Stars Academy represents that 'The exotic materials that were purchased come from unidentified aerial phenomenon and are anomalous in that they have a structure and composition that we believe are unknown to any existing commercial or military application.'",
+"tier": 1
+},
+{
+"source": "https://www.sec.gov/Archives/edgar/data/1710274/000110465920106541/tm2023098d7_253g2.htm",
+"text": "The same SEC filing states that the ADAM Research Project (Acquisition and Data Analysis of Materials) launched in July 2018 and that 'within one year this division acquired a collection of material samples reported to come from advanced vehicles of unknown origin from all over the world'; that in July 2019 the company purchased multiple pieces of metamaterials and an archive of initial analysis and research; and that by November 2019 ETI had performed scientific analysis pursuant to the SOW-MSSA showing 'a unique physical structure unknown to any past or current commercial or military application.'",
+"tier": 1
+},
+{
+"source": "https://www.sec.gov/Archives/edgar/data/1710274/000110465920106541/tm2023098d7_253g2.htm",
+"text": "The same SEC filing states that laboratory testing planned under the ADAM Research Project 'was paused and will resume at some future date when laboratories resume' operations.",
+"tier": 1
+},
+{
+"source": "John Greenewald, Jr., 'U.S. Army Releases Agreement with To The Stars Academy of Arts & Science,' The Black Vault, 18 October 2019; https://www.theblackvault.com/documentarchive/u-s-army-releases-crada-with-to-the-stars-academy-of-arts-science/",
+"text": "CCDC GVSC public affairs officer Doug Halleaux stated on the record: 'In this case, the Army is providing the expertise and facilities to analyze the materials, and TTSA is providing the materials themselves; both parties receive the results of the analysis. Just as there is no financial compensation to TTSA for the use of the materials, there is no financial compensation to the Army for the use of the facilities,' and separately that 'the Army's interest is in the potential for novel materials and exploring the edges of materials science, any speculation as to their origin is (pardon the pun) immaterial.'",
+"tier": 2
+},
+{
+"source": "John Greenewald, Jr., 'Army and To The Stars Academy of Arts & Science: Unveiling the Secrecy Behind the UFO Material Testing Agreement,' The Black Vault, 24 October 2024; https://www.theblackvault.com/documentarchive/army-and-to-the-stars-academy-of-arts-science-unveiling-the-secrecy-behind-the-ufo-material-testing-agreement/",
+"text": "The Department of Defense invoked FOIA exemptions covering national defense and foreign policy to block release of CRADA-related documents; The Black Vault subsequently negotiated a rolling release with the Army under FOIA case FA-24-0006, with the first package released on 23 October 2024.",
+"tier": 2
+},
+{
+"source": "https://www.theblackvault.com/documentarchive/u-s-army-releases-crada-with-to-the-stars-academy-of-arts-science/",
+"text": "At least one individual associated with a piece of the metamaterial in TTSA's possession declined to comment on the CRADA because they had signed a non-disclosure agreement with TTSA; some of the material was referenced in TTSA's SEC filings as being 'on loan.'",
+"tier": 2
+},
+{
+"source": "FOIA case FA-24-0006, U.S. Army; releases published at https://www.theblackvault.com/documentarchive/army-and-to-the-stars-academy-of-arts-science-unveiling-the-secrecy-behind-the-ufo-material-testing-agreement/",
+"text": "Next research step: obtain the complete FA-24-0006 rolling release including the Army's CRADA close-out report, identify the signatories and effective date, and reconcile the Army's stated test results against TTSA's SEC representations about material composition.",
+"tier": 3
+}
+],
+"connections": [
+"Luis Elizondo is the hinge: former OUSD(I) official associated with AATIP, public accuser of the Pentagon over excessive secrecy, and the named Collaborator Principal Investigator on a U.S. Army technology-transfer agreement covering anomalous material.",
+"Tom DeLonge is TTSA's principal shareholder and key executive; TTSA's SEC risk factors state the company would be damaged by his death, incapacity, departure or reputational damage, and that under a licensing agreement dated 26 April 2017 it must pay a minimum royalty guarantee of $100,000 per calendar year.",
+"CCDC Ground Vehicle Systems Center at the Detroit Arsenal and US Army TACOM LCMC are the specific Army organizations with laboratory custody; Ground Vehicle Survivability and Protection (GVSP) is the specific branch, and Ben Soave and Dr. Joseph Cannon are the named investigators.",
+"'Inertial mass reduction' in the Joint Work Plan links directly to the exotic-propulsion patent thread on the board, including the Navy-assigned Salvatore Pais patent family.",
+"The 15 U.S.C. section 3710a(c)(7) information shield is available to every federal laboratory, making this a template rather than a one-off: any other CRADA involving anomalous material would be equally opaque, and ORTA offices are the enumeration point.",
+"John Greenewald, Jr. and The Black Vault are the documentary chain of custody for the released agreement and for FOIA case FA-24-0006; the Army's disclosures to him are the only public record of the agreement's execution and wind-down.",
+"STAR GATE (stargate-program) is the precedent for contractor-intermediated federal research into a stigmatized phenomenon: SRI and SAIC then, TTSA and an Army laboratory now.",
+"The ODNI 2021 assessment (odni-preliminary-assessment-2021) declined to confirm U.S. program attribution for any UAP report while this Army agreement to analyze UAP-derived material was already eighteen months into its term, and neither document acknowledges the other."
+],
+"denialPosture": "The Army's posture is that CRADA 19-15 is unremarkable technology transfer, that a CRADA is not an endorsement mechanism, that the arrangement is directly comparable to the Army's fuel-cell CRADA with General Motors, and that the origin of the materials is 'immaterial' to the Army's interest. That posture sits badly against the Joint Work Plan's explicit interest in inertial mass reduction and beamed energy propulsion, and against DoD's later invocation of national-defense and foreign-policy FOIA exemptions to withhold records about an agreement it publicly characterized as routine and unclassified.",
+"narrative": "On 17 October 2019 To The Stars Academy of Arts & Science issued a press release announcing a Cooperative Research and Development Agreement with the U.S. Army Combat Capabilities Development Command to develop enhanced capabilities for Army ground vehicles. The release was thin. The Army was not. Doug Halleaux, public affairs officer for CCDC's Ground Vehicle Systems Center, gave John Greenewald of The Black Vault the executed agreement, twenty-six pages, redacted only for phone numbers.\n\nThe document is CRADA No. 19-15, 'Novel & Emerging Technology Exploitation (NETE),' between TTSA and CCDC Ground Vehicle Systems Center, 6501 E. 11 Mile Road, Warren, Michigan. The named administrators matter. On the Government side the principal investigators are Ben Soave and Dr. Joseph Cannon, both of Ground Vehicle Survivability and Protection, mail stop 263b. The ORTA representative is Andrea Simon; Government legal counsel is Christina Dellmore, Chief of the Intellectual Property Law Division at US Army TACOM LCMC. On the Collaborator side, the principal investigator and preferred contact is Luis Elizondo, 'Director of Global Security and Special Programs,' Encinitas, California. Collaborator legal counsel is Heidy Vaquerano, Esq., of Wolf, Rifkin, Shapiro, Schulman & Rabkin, LLP, Los Angeles.\n\nThe Joint Work Plan is where the agreement stops sounding like armor research. The Government's stated interests are 'a variety of the Collaborator's technologies, such as, but not limited to inertial mass reduction, mechanical/structural metamaterials, electromagnetic metamaterial wave guides, quantum physics, quantum communications, and beamed energy propulsion.' The Collaborator's deliverables include, verbatim, 'Metamaterial: Samples of mechanical and EM sensitive metamaterial collected, obtained, or developed as part of its Field Operations,' plus written material analysis and quantum-communication research. 'Field Operations' is the operative euphemism; the CRADA does not define provenance, and the Army made a point of saying provenance was irrelevant to it.\n\nThe legal architecture is standard Federal Technology Transfer Act plumbing put to non-standard use. Information exchanged is protected under 15 U.S.C. section 3710a(c)(7), and every page carries a marking legend invoking it. Licenses to CRADA inventions run under 15 U.S.C. section 3710a(b)(2), with the Collaborator holding an option for an exclusive license that must be requested within six months of notification of an invention. The agreement automatically expires sixty months from the effective date under Article 4.2, and enters force on the date signed by the last authorized representative under Article 4.3.\n\nTTSA's own SEC filings supply the numbers the CRADA does not. In its Regulation A offering circular the company states that on 10 October 2019 it entered into the CRADA with CCDC, that 'the purpose of the CRADA is to advance developments in material science (including testing of the metamaterials), space-time metric engineering, quantum physics, beamed energy propulsion and active camouflage,' that the parties bear their own costs, that the total value of anticipated U.S. Government resources including personnel, services, intellectual property, facilities, equipment and reporting is 'estimated at $750,000,' that the total value of the company's participation is 'estimated at $1,000,000,' and that the agreement is terminable by mutual consent or unilaterally on thirty days' notice.\n\nThe same filing describes where the material came from. The ADAM Research Project, Acquisition and Data Analysis of Materials, launched in July 2018, and 'within one year this division acquired a collection of material samples reported to come from advanced vehicles of unknown origin from all over the world.' In July 2019 the company 'purchased multiple pieces of metamaterials and an archive of initial analysis and research.' Elsewhere TTSA states flatly to the SEC: 'The exotic materials that were purchased come from unidentified aerial phenomenon and are anomalous in that they have a structure and composition that we believe are unknown to any existing commercial or military application.' By November 2019, per the filing, ETI had performed analysis pursuant to the SOW-MSSA showing 'a unique physical structure unknown to any past or current commercial or military application.' The filing also records that planned ADAM laboratory testing 'was paused.'\n\nThe Army's public framing was deliberately deflationary. Halleaux told The Black Vault that 'the Army is providing the expertise and facilities to analyze the materials, and TTSA is providing the materials themselves; both parties receive the results of the analysis,' and that 'just as there is no financial compensation to TTSA for the use of the materials, there is no financial compensation to the Army for the use of the facilities.' On provenance he was explicit: 'the Army's interest is in the potential for novel materials and exploring the edges of materials science, any speculation as to their origin is (pardon the pun) immaterial.' He also stressed that a CRADA is not an endorsement, offering the Army's fuel-cell CRADA with General Motors as the comparison.\n\nThen the record closed. Individuals who had custody of pieces of the metamaterial before TTSA acquired them were placed under non-disclosure agreements; The Black Vault reached one such person, who declined comment citing an NDA. Some of the material was described in SEC filings as being 'on loan.' The Department of Defense invoked FOIA exemptions covering national defense and foreign policy to withhold CRADA-related documents. It took until October 2024, five years after execution and at the natural end of the sixty-month term, before the Army agreed to a rolling release under FOIA case FA-24-0006, with the first package released on 23 October 2024.\n\nThe analytic point for the board is the instrument, not the rock. A CRADA requires no appropriation, no competition, no contract file and no reportable obligation, and carries a statutory information shield. It creates a lawful, low-visibility conduit for moving materials of undeclared origin into a federal laboratory and moving analysis and invention rights back out, with the collaborator holding a first option on exclusive rights to anything invented. Whatever the metamaterial turns out to be, CRADA 19-15 is the working proof that the channel exists, is routine, and is FOIA-resistant by design.",
+"openQuestions": [
+"What is the chain of custody for the metamaterial before TTSA's July 2019 purchase, who sold it, and what is in the 'archive of initial analysis and research' acquired with it?",
+"Who signed CRADA 19-15 for each party, and on what date did the last authorized representative sign, fixing the Effective Date?",
+"What tests did the Army actually perform, what did they find, and what does the close-out report say?",
+"Who or what is 'ETI,' the entity that performed the November 2019 analysis pursuant to the SOW-MSSA referenced in TTSA's SEC filing?",
+"Did any CRADA Invention arise, and did TTSA exercise its six-month exclusive-license option under 15 U.S.C. section 3710a(b)(2)?",
+"Why did DoD apply national-defense and foreign-policy FOIA exemptions to records of an agreement the Army publicly described as unclassified routine materials research?",
+"Are there other CRADAs between federal laboratories and private parties covering material of undeclared or anomalous provenance, and can they be enumerated through ORTA records?",
+"What happened to the physical samples at expiration of the sixty-month term: returned, retained, consumed in testing, or transferred?",
+"Who are the individuals under NDA to TTSA regarding provenance, and what does the NDA prohibit?"
+],
+"roles": [
+"reverse-engineering",
+"custody",
+"research",
+"concealment"
+],
+"whatItIs": "Cooperative Research and Development Agreement No. 19-15, titled 'Novel & Emerging Technology Exploitation (NETE),' between To The Stars Academy of Arts and Science, Inc. and the U.S. Army Combat Capabilities Development Command Ground Vehicle Systems Center at the Detroit Arsenal, Warren, Michigan. Executed under 15 U.S.C. section 3710a with a term of sixty months from the effective date, it committed TTSA to provide the Army with samples of metamaterial 'collected, obtained, or developed as part of its Field Operations' and the Army to provide laboratories, expertise and analysis, with no exchange of funds in either direction. TTSA's principal investigator of record was Luis Elizondo.",
+"whyImplicated": "This is the only publicly released, signed U.S. Government instrument in which a federal laboratory agrees to characterize material that the counterparty represented, in filings to the Securities and Exchange Commission, as coming from unidentified aerial phenomena. That makes it the board's hardest documentary bridge between the alleged recovery-and-exploitation enterprise and the ordinary federal technology-transfer system. The Joint Work Plan names the Government's actual interests, and the list is not generic materials science: 'inertial mass reduction, mechanical/structural metamaterials, electromagnetic metamaterial wave guides, quantum physics, quantum communications, and beamed energy propulsion.' Inertial mass reduction is not a ground-vehicle survivability requirement. The Collaborator principal investigator is Luis Elizondo, the former Office of the Under Secretary of Defense for Intelligence official associated with AATIP who left DoD in 2017 alleging excessive secrecy, meaning the same individual who publicly accused the Pentagon of concealment is, two years later, the named point of contact delivering anomalous material back into an Army laboratory under an agreement whose supporting records the Department of Defense then withheld under national-defense FOIA exemptions. Finally, the CRADA form itself is the point: it moves technology and creates invention rights without appropriated funds, without a contract, without competition and without a reportable obligation, and it carries a statutory information shield. It is a legal channel for moving exploitable material into and out of the Government that leaves almost no financial footprint."
+},
+"entityInfo": {
+"desc": "Full parameters as released by the Army: parties are the U.S. Army Ground Vehicle Systems Center (GVSC), part of Combat Capabilities Development Command under Army Futures Command, and To The Stars Academy of Arts & Science. Signed 10 October 2019 by Jeffery Langhout, GVSC Director, and Kari DeLonge for TTSA. Government principal investigators: Bean Soave and Dr. Joseph Cannon, Ground Vehicle Survivability and Protection. Collaborator principal investigator: Luis Elizondo, TTSA Director of Global Security & Special Programs. Term to 30 September 2023 with annual intellectual property reviews. Research areas as written: 'inertial mass reduction, mechanical/structural meta materials, electromagnetic meta material wave guides, quantum physics, quantum communications, and beamed energy propulsion'; applications named include Active Camouflage and Directed Photon Projection. 'The total value of the Collaborator's participation... is estimated at $1M' in in-kind contributions; Army in-kind support has been reported at not less than $750,000 in laboratories, expertise and resources. Announced 17 October 2019 by press release; agreement text released by CCDC 18 October 2019. On 21 February 2020 CCDC FOIA Officer Joy L. Linton denied in full 29 emails totalling 100 pages of associated correspondence under 5 U.S.C. § 552(b)(4) and (b)(5). No technical results have been published by either party.",
+"sources": [
+{
+"date": "2019-10-18",
+"name": "The War Zone — The Army Wants To Verify To The Stars Academy's Fantastic UFO Mystery Material Claims",
+"url": "https://www.twz.com/30498/the-army-wants-to-verify-to-the-stars-academys-fantastic-ufo-mystery-material-claims"
+},
+{
+"date": "2020-03-12",
+"name": "The Black Vault — Secrecy Deepens About U.S. Army Agreement To Analyze UFO Material",
+"url": "https://www.theblackvault.com/documentarchive/secrecy-deepens-about-u-s-army-agreement-to-analyze-ufo-material/"
+},
+{
+"date": "2026-08-12",
+"name": "Wikipedia — To The Stars Inc.",
+"url": "https://en.wikipedia.org/wiki/To_the_Stars_(company)."
+}
+]
+},
+"era": "3",
+"foia": {
+"questions": [
+1,
+2,
+4,
+5,
+7
+],
+"requests": [
+{
+"agency": "Army",
+"partial": [],
+"questions": [
+1,
+2,
+4,
+5,
+7
+],
+"request": "F5",
+"sendTo": "U.S. Army TACOM Life Cycle Management Command FOIA Office, Warren MI 48397, for DEVCOM Ground Vehicle Systems Center (formerly CCDC GVSC), 6501 E. 11 Mile Road, Warren MI. Cross-file with the DEVCOM Office of Research and Technology Applications (ORTA).",
+"status": "not filed",
+"title": "Army - CRADA 19-15 close-out report and test data"
+}
+]
+},
+"hl": null,
+"id": "ttsa-army-crada",
+"l0": true,
+"label": "CRADA between U.S. Army Ground Vehicle Systems Center and To The Stars Academy",
+"locLabel": null,
+"members": [
+{
+"cls": "document",
+"id": "aaro-metallic-specimen-analysis",
+"label": "AARO / ORNL Synopsis: Analysis of a Metallic Specimen",
+"tier": "B"
+},
+{
+"cls": "institution",
+"id": "ccdc-gvsc",
+"label": "U.S. Army Combat Capabilities Development Command, Ground Vehicle Systems Center",
+"tier": "C"
+},
+{
+"cls": "domain",
+"id": "d-contracting",
+"label": "Federal Contracting Mechanics",
+"tier": "B"
+},
+{
+"cls": "person",
+"id": "jeffery-langhout",
+"label": "Jeffery Langhout",
+"tier": "C"
+},
+{
+"cls": "person",
+"id": "joseph-cannon",
+"label": "Dr. Joseph Cannon",
+"tier": "B"
+},
+{
+"cls": "person",
+"id": "kari-delonge",
+"label": "Kari DeLonge",
+"tier": "C"
+},
+{
+"cls": "location",
+"id": "l-detroit-arsenal",
+"label": "Detroit Arsenal, Warren, Michigan",
+"tier": "B"
+},
+{
+"cls": "person",
+"id": "luis-elizondo",
+"label": "Luis D. Elizondo",
+"tier": "A"
+}
+],
+"short": "CRADA: U.S. Army – TTSA",
+"sources": [
+{
+"date": "2021-10-24",
+"name": "Archived: TTSA — CRADA FAQ (Wayback 2021-10-24)",
+"url": "https://web.archive.org/web/20211024221658/https://dpo.tothestarsacademy.com/blog/crada-faq"
+},
+{
+"date": "2019-11-15",
+"name": "Archived: TTSA — CRADA FAQ (Wayback 2019-11-15)",
+"url": "https://web.archive.org/web/20191115181458/https://dpo.tothestarsacademy.com/blog/crada-faq"
+},
+{
+"date": "2019-10-18",
+"name": "The War Zone — The Army Wants To Verify To The Stars Academy's Fantastic UFO Mystery Material Claims",
+"url": "https://www.twz.com/30498/the-army-wants-to-verify-to-the-stars-academys-fantastic-ufo-mystery-material-claims"
+},
+{
+"date": "2019-10-17",
+"name": "The War Zone — What We Know About The Army Teaming Up With Rockstar Tom DeLonge's UFO Research Company",
+"url": "https://www.twz.com/30481/what-we-know-about-the-army-teaming-up-with-rockstar-tom-delonges-ufo-research-company"
+},
+{
+"date": "2019-10-17",
+"name": "PR Newswire — TTSA Announces CRADA with the U.S. Army CCDC",
+"url": "https://www.prnewswire.com/news-releases/to-the-stars-academy-of-arts--science-announces-crada-with-the-us-army-combat-capabilities-development-command-to-advance-materiel-and-technology-innovations-300940211.html"
+},
+{
+"date": "2020-03-12",
+"name": "The Black Vault — Secrecy Deepens About U.S. Army Agreement To Analyze UFO Material",
+"url": "https://www.theblackvault.com/documentarchive/secrecy-deepens-about-u-s-army-agreement-to-analyze-ufo-material/"
+},
+{
+"date": "2019-10-18",
+"name": "TTSA — CRADA FAQ",
+"url": "https://dpo.tothestarsacademy.com/blog/crada-faq"
+},
+{
+"date": "2020-08-03",
+"name": "SEC EDGAR: To The Stars Academy of Arts and Science Form 1-A Exhibit 6.28 - CRADA 19-15 'Novel & Emerging Technology Exploitation' with U.S. Army CCDC Ground Vehicle Systems Center",
+"url": "https://www.sec.gov/Archives/edgar/data/1710274/000110465920089220/tm2023098d2_ex6-28.htm"
+},
+{
+"date": "2020-08-03",
+"name": "SEC EDGAR: TTSA Form 1-A Exhibit 6.26, Cooperative Marketing Agreement referencing the Army NETE CRADA",
+"url": "https://www.sec.gov/Archives/edgar/data/1710274/000110465920089220/tm2023098d2_ex6-26.htm"
+},
+{
+"date": "2024-03-08",
+"name": "AARO, 'Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP), Volume I'",
+"url": "https://documents2.theblackvault.com/documents/dod/AARO_Historical_Record_Report_Volume_1_2024.pdf"
+}
+],
+"sub": "Cooperative Research and Development Agreement, signed 10 October 2019",
+"tier": "A",
+"tierRationale": "Re-graded A on a global pass (rank 93 of 1027, score 64). 11 connections, 5 of them custody/witness/funding/programmatic. Axes C3/A1/D3.",
+"timeline": [
+{
+"date": "2019-01-01",
+"id": "pc-2019-crada",
+"label": "A private company signs a federal exploitation agreement over claimed exotic material",
+"precision": "year",
+"strand": "program",
+"text": "To The Stars Academy executes CRADA 19-15, 'Novel & Emerging Technology Exploitation,' with the US Army CCDC Ground Vehicle Systems Center. It is filed with the SEC the following year, making it the only fully documented private-custody chain in the file.",
+"tier": "A"
+},
+{
+"date": "2019-10-10",
+"id": "tl-2019-10-10-crada",
+"label": "TTSA-Army CRADA signed",
+"precision": "day",
+"strand": "program",
+"text": "Jeffery Langhout for the Army GVSC and Kari DeLonge for TTSA sign a five-year cooperative research agreement covering inertial mass reduction, metamaterials, quantum communications, beamed energy propulsion and active camouflage.",
+"tier": "A"
+},
+{
+"date": "2019-10-17",
+"id": "tl-2019-10-17-crada-announced",
+"label": "CRADA announced publicly",
+"precision": "day",
+"strand": "program",
+"text": "Dr. Joseph Cannon of Army Futures Command calls TTSA 'an exciting, non-traditional source for novel materials'. The Army releases the agreement text the next day.",
+"tier": "A"
+}
+]
+}

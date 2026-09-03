@@ -1,0 +1,77 @@
+{
+"A": 3,
+"C": 1,
+"D": 2,
+"band": null,
+"claims": [
+{
+"source": "https://www.govinfo.gov/content/pkg/PLAW-119publ75/html/PLAW-119publ75.htm",
+"text": "Section 8084(b), DoD Appropriations Act 2026, conditions NIP reprogramming or transfer under 50 U.S.C. 3024(d) that cumulatively increases or decreases 'the levels specified in the classified annex accompanying the Act' on 30 days advance notice to the congressional intelligence committees.",
+"tier": 1
+},
+{
+"source": "https://www.govinfo.gov/content/pkg/PLAW-119publ75/html/PLAW-119publ75.htm",
+"text": "The same subsection provides that 'this notification period may be reduced for urgent national security requirements.'",
+"tier": 1
+}
+],
+"cls": "legislation",
+"cluster": "ic",
+"connections": [
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": "2026-02-03",
+"direction": "out",
+"edgeLabel": "NIP reprogramming is measured against levels that exist only in the annex",
+"id": "classified-annex",
+"l0": true,
+"label": "The Classified Annex (NDAA and Defense Appropriations)",
+"note": "Section 8084(b) conditions NIP reprogramming notice on cumulative change to 'the levels specified in the classified annex accompanying the Act' - a public statute making the unpublished annex the operative baseline. Attested by the enacted text.",
+"sources": [
+{
+"date": "2026-02-03",
+"name": "DoD Appropriations Act 2026, Sec. 8084",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-119publ75/html/PLAW-119publ75.htm"
+}
+],
+"tier": "A",
+"type": "funding"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "2000",
+"deg": 1,
+"denials": [],
+"desc": "Section 8084(b) of the FY2026 Department of Defense Appropriations Act provides that no funds for the National Intelligence Program in that or any prior appropriations Act 'shall be available for obligation or expenditure through a reprogramming or transfer of funds in accordance with section 102A(d) of the National Security Act of 1947 (50 U.S.C. 3024(d)) that results in a cumulative increase or decrease of the levels specified in the classified annex accompanying the Act unless the congressional intelligence committees are notified 30 days in advance of such reprogramming of funds', and adds that 'this notification period may be reduced for urgent national security requirements.' It is worth reading what this establishes rather than what it restricts. It establishes, in public statutory text, that the operative funding levels for the National Intelligence Program are 'the levels specified in the classified annex' - not the levels in the printed bill, which do not exist for the NIP at all. It establishes that the DNI's transfer and reprogramming authority under 50 U.S.C. 3024(d) operates against that unpublished baseline. And it establishes that the notification period, already only thirty days and only to two committees, may be shortened at the executive's assessment of urgency.",
+"domains": [
+"w2-black-budget"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "2",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "sec-8084-nip-reprogramming",
+"l0": false,
+"label": "Section 8084 - NIP reprogramming notification against classified annex levels",
+"locLabel": null,
+"members": null,
+"short": "Section 8084 - NIP reprogramming notification against classified annex levels",
+"sources": [
+{
+"date": "2026-02-03",
+"name": "DoD Appropriations Act 2026 (P.L. 119-75), Sec. 8084",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-119publ75/html/PLAW-119publ75.htm"
+}
+],
+"sub": "The one place the classified annex is named as the baseline for intelligence spending changes",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 570 of 1027, score 27). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A3/D2.",
+"timeline": []
+}

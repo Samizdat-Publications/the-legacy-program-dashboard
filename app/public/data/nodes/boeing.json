@@ -1,0 +1,139 @@
+{
+"A": 3,
+"C": 1,
+"D": 1,
+"band": null,
+"claims": [
+{
+"source": "Ryan Graves, CHRG-118hhrg53022, 26 July 2023; Jeffrey Nuccetelli, CHRG-119hhrg61718, 9 September 2025",
+"text": "Boeing contractors at Vandenberg were the observers in the October 2003 'red square' incident described in sworn testimony at both the 2023 and 2025 hearings.",
+"tier": 1
+},
+{
+"source": "CHRG-118hhrg53022, exchange with Rep. Ocasio-Cortez, 26 July 2023",
+"text": "Asked whether contractors are required to report UAP sightings, Grusch answered 'In terms of the contractors? Not that I am aware of.'",
+"tier": 1
+},
+{
+"source": "Corporate merger record; McDonnell Douglas ceased independent existence in 1997",
+"text": "Boeing acquired McDonnell Douglas in 1997, inheriting its astronautics organisation and records.",
+"tier": 1
+}
+],
+"cls": "institution",
+"cluster": "contractor",
+"connections": [
+{
+"claimTier": 3,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "2023",
+"direction": "in",
+"edgeLabel": "Contractor thread: Boeing personnel named in the same hearing; Grusch's IR&D mechanism",
+"id": "david-grusch",
+"l0": false,
+"label": "David Charles Grusch",
+"note": "Ryan Graves named Boeing contractors as witnesses to the 2003 Vandenberg event, and Rep. Ocasio-Cortez used that to open the contractor line with Grusch, who described the metal benders doing specific performance on government contracts and IR&D as the unreported funding channel. Reasoning: Grusch named no company; the connection is the hearing's own sequence, not an attribution.",
+"sources": [
+{
+"date": "2023-07-26",
+"name": "House Oversight hearing transcript",
+"url": "https://www.congress.gov/118/meeting/house/116282/documents/HHRG-118-GO06-Transcript-20230726.pdf"
+}
+],
+"tier": "A",
+"type": "funding"
+},
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": "2025",
+"dateStart": "2003",
+"direction": "out",
+"edgeLabel": "Boeing contractors were the observers in the 2003 Vandenberg red square incident",
+"id": "hearing-2023-07-26",
+"l0": true,
+"label": "House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'",
+"note": "Ryan Graves described the incident in 2023 and Jeffrey Nuccetelli, who investigated it, testified to it in 2025. Rep. Ocasio-Cortez used the detail to open the question of contractor reporting obligations, and Grusch answered that none exist.",
+"sources": [
+{
+"date": "2023-07-26",
+"name": "House Oversight hearing transcript, 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency' (CHRG-118hhrg53022)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm"
+},
+{
+"date": "2025-09-09",
+"name": "House Oversight Task Force on the Declassification of Federal Secrets hearing transcript, 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection' (CHRG-119hhrg61718, Serial No. 119-44)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm"
+}
+],
+"tier": "A",
+"type": "witness-chain"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "1997",
+"direction": "out",
+"edgeLabel": "Boeing absorbed McDonnell Douglas in 1997, inheriting the Huntington Beach organisation and its records",
+"id": "mcdonnell-douglas",
+"l0": false,
+"label": "McDonnell Douglas Corporation",
+"note": "Any corporate record of the Wood study, and of anything else the astronautics organisation held, passed to Boeing. No committee has requested it.",
+"sources": [
+{
+"date": "2023-07-26",
+"name": "House Oversight hearing transcript, 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency' (CHRG-118hhrg53022)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm"
+}
+],
+"tier": "C",
+"type": "institutional"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "1916",
+"deg": 3,
+"denials": [],
+"desc": "Boeing enters this record through two doors. The first is testimonial: at the 26 July 2023 House Oversight hearing Ryan Graves described the October 2003 Vandenberg incident in which a large group of Boeing contractors working near a launch facility observed a red square roughly a hundred yards across hovering silently over missile defense sites - an account repeated in sworn testimony on 9 September 2025 by Jeffrey Nuccetelli, who investigated the events. Rep. Alexandria Ocasio-Cortez seized on the detail in 2023 to ask both witnesses about interactions between defense contractor companies and UAP programs, and Grusch answered that contractors have no obligation to report such encounters. The second door is corporate lineage: Boeing absorbed McDonnell Douglas in 1997, inheriting the Huntington Beach astronautics organisation where Robert Wood ran a company-funded study of unidentified craft in the late 1960s, along with whatever record that study generated. Boeing's Phantom Works is the direct analogue of Skunk Works. USAspending records prime contract obligations to Boeing entities exceeding $100 billion since FY2008.",
+"domains": [
+"primes-custody"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "boeing",
+"l0": false,
+"label": "The Boeing Company",
+"locLabel": null,
+"members": null,
+"short": "The Boeing Company",
+"sources": [
+{
+"date": "2023-07-26",
+"name": "House Oversight hearing transcript, 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency' (CHRG-118hhrg53022)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm"
+},
+{
+"date": "2025-09-09",
+"name": "House Oversight Task Force on the Declassification of Federal Secrets hearing transcript, 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection' (CHRG-119hhrg61718, Serial No. 119-44)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm"
+},
+{
+"date": "2026-08-12",
+"name": "USAspending.gov federal award search (prime contract obligations by recipient)",
+"url": "https://www.usaspending.gov/search"
+}
+],
+"sub": "Prime contractor; Phantom Works; successor to McDonnell Douglas",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 393 of 1027, score 33). 3 connections, 2 of them custody/witness/funding/programmatic. Axes C1/A3/D1.",
+"timeline": []
+}

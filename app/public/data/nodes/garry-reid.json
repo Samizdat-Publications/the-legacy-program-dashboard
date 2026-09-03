@@ -1,0 +1,192 @@
+{
+"A": 3,
+"C": 1,
+"D": 0,
+"affiliations": [
+"U.S. Special Operations Command / OSD SO-LIC",
+"OUSD(I&S), Director for Defense Intelligence (Intelligence & Security) (c.2015-2022)"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "2017-12-23",
+"event": "Memorandum for the Secretary of Defense responding to six questions about Elizondo, AATIP and the videos.",
+"precision": "day"
+},
+{
+"date": "2021-05-01",
+"event": "Named in Elizondo's DoD Inspector General complaint.",
+"precision": "month"
+},
+{
+"date": "2022-04-01",
+"event": "Removed from his post following substantiated DoD IG findings.",
+"precision": "month"
+}
+],
+"claims": [
+{
+"source": "OSD/JS FOIA 18-F-0324, released 17 August 2022",
+"text": "Wrote memoranda in December 2017 asserting Elizondo served as an action officer from 2008 to 2017 with no documented AATIP responsibilities, that AATIP terminated in 2012, and that Elizondo 'aggrandized his role'.",
+"tier": 1
+},
+{
+"source": "OSD/JS FOIA 18-F-0324",
+"text": "His memorandum answered six questions from the Secretary of Defense's office covering the abruptness of the resignation, the 'uncertain provenance' of the second resignation letter, Elizondo's claim of secretly working for the Secretary, video handling, and the TTSA press conference.",
+"tier": 1
+},
+{
+"source": "The Debrief, reporting on DoD IG findings",
+"text": "DoD IG investigations found he violated the Joint Ethics Regulation through a relationship creating a 'widespread perception of an inappropriate relationship and favoritism', used personal email for official business 65 times, and engaged in unwelcome physical contact with female subordinates; he was removed by April 2022.",
+"tier": 1
+},
+{
+"source": "The Debrief, 'Sex, Lies, and UFOs: Pentagon's Head of Counterintelligence and Security Ousted'",
+"text": "Defense officials told The Debrief that Reid 'played a central role in obfuscating information' about UAP and deliberately misled the public about Elizondo's program involvement.",
+"tier": 2
+}
+],
+"cls": "person",
+"cluster": "other",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 2,
+"cls": "document",
+"dateEnd": "2022",
+"dateStart": "2021",
+"direction": "in",
+"edgeLabel": "Named respondent; Reid removed from post by April 2022",
+"id": "elizondo-dodig-complaint-2021",
+"l0": false,
+"label": "Elizondo complaint to the DoD Inspector General, May 2021",
+"note": "Separate DoD IG investigations substantiated ethics and information-handling findings against Reid. Defense officials told The Debrief he 'played a central role in obfuscating information' about UAP.",
+"sources": [
+{
+"date": "2022-04-13",
+"name": "The Debrief",
+"url": "https://thedebrief.org/sex-lies-and-ufos-pentagons-head-of-counterintelligence-and-security-ousted/"
+}
+],
+"tier": "B",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "2017",
+"dateStart": "2017",
+"direction": "out",
+"edgeLabel": "Author of both December 2017 memoranda",
+"id": "garry-reid-memo-2017",
+"l0": false,
+"label": "Garry Reid memoranda on AATIP and Elizondo, December 2017",
+"note": "Reid wrote the memorandum for record and the memorandum for the Secretary asserting Elizondo 'aggrandized his role'.",
+"sources": [
+{
+"date": "2022-08-17",
+"name": "OSD/JS FOIA 18-F-0324",
+"url": "https://documents2.theblackvault.com/documents/osd/18-F-0324.pdf"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "2017",
+"dateStart": "2017",
+"direction": "in",
+"edgeLabel": "Secretary's office put six questions to Reid about Elizondo, Dec 2017",
+"id": "james-mattis",
+"l0": false,
+"label": "James N. Mattis",
+"note": "Rather than engaging Elizondo, the Secretary's office tasked the Director for Defense Intelligence to explain him. Reid's answer is the origin of the Department's counter-narrative.",
+"sources": [
+{
+"date": "2022-08-17",
+"name": "OSD/JS FOIA 18-F-0324",
+"url": "https://documents2.theblackvault.com/documents/osd/18-F-0324.pdf"
+}
+],
+"tier": "C",
+"type": "institutional"
+}
+],
+"date": "2017-12-23",
+"dateEnd": null,
+"dateStart": "2017-12-23",
+"deg": 3,
+"denials": [],
+"domains": [
+"_rs-archive-mirror",
+"elizondo-ttsa"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "garry-reid",
+"instId": "ousdi",
+"l0": false,
+"label": "Garry P. Reid",
+"loc": "Arlington, VA",
+"locId": "l-pentagon",
+"members": null,
+"narrative": "Reid is the author of the Department's internal counter-narrative. As Director for Defense Intelligence within OUSD(I) — the office running counterintelligence, security and law enforcement policy for the whole Department — he wrote the memoranda that first framed Elizondo as a man who 'aggrandized his role,' and those memoranda went to the Secretary of Defense. FOIA case 18-F-0324 released two of them: an undated memorandum for record on media reporting related to AATIP and Elizondo's actions, and a response to six questions put by the Secretary's office in late December 2017 concerning why Elizondo resigned, the 'uncertain provenance' of the second resignation letter, and the handling of the videos. Reid asserted that 'to the best of his knowledge' Elizondo 'had no job responsibilities related to the AATIP' — a formulation that became the Department's public line eighteen months later and has never been retracted. Reid is also the official Elizondo named in his May 2021 DoD Inspector General complaint. Reid was removed from his position by April 2022 after DoD IG investigations substantiated Joint Ethics Regulation violations, mishandling of controlled unclassified information via personal email on 65 occasions, and unwelcome physical contact with female subordinates. Defense officials told The Debrief that Reid 'played a central role in obfuscating information' about UAP.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Garry P. Reid",
+"sources": [
+{
+"date": "2026-02-01",
+"name": "Archived: DoD FOIA Reading Room — 18-F-0324 documents (Wayback 2026-02-01)",
+"url": "https://web.archive.org/web/20260201230017/https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/18-F-0324_Docs.pdf"
+},
+{
+"date": "2022-08-17",
+"name": "OSD/JS FOIA 18-F-0324 — Reid memoranda and Elizondo resignation letters",
+"url": "https://documents2.theblackvault.com/documents/osd/18-F-0324.pdf"
+},
+{
+"date": "2022-08-17",
+"name": "DoD FOIA Reading Room — 18-F-0324 documents",
+"url": "https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/18-F-0324_Docs.pdf"
+},
+{
+"date": "2022-08-22",
+"name": "The Black Vault — Ex-DoD Intelligence Officer's UFO Claims Spark Security Concerns And Confusion, Pentagon Memos Reveal",
+"url": "https://www.theblackvault.com/documentarchive/ex-dod-intelligence-officers-ufo-claims-spark-security-concerns-and-confusion-pentagon-memos-reveal/"
+},
+{
+"date": "2022-04-13",
+"name": "The Debrief — Sex, Lies, and UFOs: Pentagon's Head of Counterintelligence and Security Ousted",
+"url": "https://thedebrief.org/sex-lies-and-ufos-pentagons-head-of-counterintelligence-and-security-ousted/"
+}
+],
+"status": "active",
+"sub": "Director for Defense Intelligence (Intelligence & Security), OUSD(I)",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 549 of 1027, score 27). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A3/D0.",
+"timeline": [
+{
+"date": "2022-04-01",
+"id": "tl-2022-04-reid-ousted",
+"label": "Garry Reid removed",
+"precision": "month",
+"strand": "coverup",
+"text": "Reid is removed as Director for Defense Intelligence after DoD IG investigations substantiate ethics violations, 65 instances of official business on personal email, and unwelcome physical contact with subordinates.",
+"tier": "A"
+}
+],
+"unexplainedResidual": "Reid's memo says AATIP ended in 2012 and Elizondo had no role in it, yet it also records that Elizondo sought assistance in August 2017 to get the AATIP-associated videos cleared. The memo does not explain why an officer with no program responsibilities was the one processing the program's imagery five years after the program allegedly ended.",
+"unverified": [
+"Whether Reid personally directed the June 2019 public statements; the released May 2019 messaging emails show Neill Tipton originating the 'no assigned responsibilities' formulation, with Reid's role described by unnamed defense officials rather than documents."
+]
+}

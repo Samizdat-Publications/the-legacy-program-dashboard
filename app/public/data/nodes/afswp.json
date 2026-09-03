@@ -1,0 +1,159 @@
+{
+"A": 3,
+"C": 2,
+"D": 1,
+"band": null,
+"claims": [
+{
+"source": "War Department Memorandum No. 850-25-8, 18 March 1947, reproduced in Appendix D of Defense's Nuclear Agency 1947-1997, Defense Threat Reduction Agency, 2002, DTIC ADA412977, https://archive.org/download/DTIC_ADA412977/DTIC_ADA412977_djvu.txt",
+"text": "The charter is reproduced in the Department of Defense's own agency history: 'The Armed Forces Special Weapons Project established by joint directive of the Secretaries of War and Navy, effective as of midnight 31 December 1946, will operate directly under the Chief of Staff and the Chief of Naval Operations.'",
+"tier": 1
+},
+{
+"source": "War Department Memorandum No. 850-25-8, paras. 2, 3 and 5, in Defense's Nuclear Agency 1947-1997, Appendix D, https://archive.org/download/DTIC_ADA412977/DTIC_ADA412977_djvu.txt",
+"text": "AFSWP took the military half of the Manhattan Project. The charter makes it 'responsible for carrying on the military service functions of the Manhattan Project retained under control of the armed forces', including military participation in the development of atomic weapons of all types in coordination with the Atomic Energy Commission, and assigns to it as of 31 December 1946 the Army units that had been assigned to the Manhattan Engineer District.",
+"tier": 1
+},
+{
+"source": "War Department Memorandum No. 850-25-8, para. 6, in Defense's Nuclear Agency 1947-1997, Appendix D, https://archive.org/download/DTIC_ADA412977/DTIC_ADA412977_djvu.txt",
+"text": "The Atomic Energy Commission funded the military organisation. Paragraph 6 of the charter: funds for AFSWP other than military pay 'have been made available by working fund advances to War Department from the Atomic Energy Commission, utilizing funds formerly available to the Manhattan Project.'",
+"tier": 1
+},
+{
+"source": "Defense's Nuclear Agency 1947-1997, ch. 'The Post-War Transition, 1946 to 1948', p. 30, and Appendix C chronology, https://archive.org/download/DTIC_ADA412977/DTIC_ADA412977_djvu.txt",
+"text": "The founding memorandum was signed by Secretary of War Robert P. Patterson and Secretary of the Navy James V. Forrestal on 29 January 1947, and it directed that both the head of AFSWP and his deputy serve as members of the Military Liaison Committee to the AEC. Major General Leslie R. Groves became first Chief on 28 February 1947 and served one year to his retirement on 29 February 1948.",
+"tier": 1
+},
+{
+"source": "Records of the Defense Threat Reduction Agency, Record Group 374, sec. 374.2, Guide to Federal Records in the National Archives, https://www.archives.gov/research/guide-fed-records/groups/374.html",
+"text": "The National Archives states the same establishment independently: 'AFSWP established as an interservice agency, effective December 31, 1946, by a joint letter of the Secretaries of War and the Navy, January 29, 1947, with responsibility for discharging all military functions relating to atomic energy in coordination with the Atomic Energy Commission'.",
+"tier": 1
+},
+{
+"source": "Batch 17 file 03, 1:28;19-1:29;13, research/leads/area52-corpus-17.md; contradicted by War Department Memorandum No. 850-25-8, https://archive.org/download/DTIC_ADA412977/DTIC_ADA412977_djvu.txt",
+"text": "On Debriefed, episode 80, 20 March 2026, the guest Gerb said AFSWP 'was formed in between 1947 and 1948 at Los Alamos Z division which of course is San Dia base' and was 'a founded joint venture under it was the Navy and some element of IC', 'founded under James Forestall'. The opened record contradicts the date, the founding authority and the composition: it was effective 31 December 1946, it was an Army-Navy organisation with no intelligence component in its charter, and Forrestal signed jointly with the Secretary of War.",
+"tier": 2
+}
+],
+"cls": "institution",
+"cluster": "legacy",
+"connections": [
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "Funded by AEC working fund advances; Chief and Deputy sat on the Military Liaison Committee",
+"id": "atomic-energy-commission",
+"l0": true,
+"label": "Atomic Energy Commission",
+"note": "The charter provides that AFSWP funds other than military pay come by working fund advances to the War Department from the Atomic Energy Commission out of money formerly available to the Manhattan Project, and the founding memorandum places the Chief and Deputy Chief on the Military Liaison Committee to the Commission.",
+"sources": [
+{
+"date": "1947-03-18",
+"name": "War Department Memorandum No. 850-25-8, para. 6, in Defense's Nuclear Agency 1947-1997",
+"url": "https://archive.org/download/DTIC_ADA412977/DTIC_ADA412977_djvu.txt"
+}
+],
+"tier": "A",
+"type": "funding"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "Subsumed under the National Military Establishment in 1947 and the Department of Defense in 1949",
+"id": "dod",
+"l0": true,
+"label": "United States Department of Defense (secondary designation: Department of War)",
+"note": "The NARA record group description records AFSWP as an interservice agency from January to July 1947, under the National Military Establishment from July 1947 to August 1949, and under the Department of Defense from 1949 to 1959.",
+"sources": [
+{
+"date": "2026-09-02",
+"name": "Records of the Defense Threat Reduction Agency, RG 374, sec. 374.1 and 374.2",
+"url": "https://www.archives.gov/research/guide-fed-records/groups/374.html"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "Sandia Base operations and the 1947 split of security and intelligence duties with the AEC",
+"id": "sandia",
+"l0": true,
+"label": "Sandia National Laboratories",
+"note": "The agency history places AFSWP's training and assembly work at Sandia Base alongside AEC-controlled Z Division, and records that in March 1947 the AEC Santa Fe Office and AFSWP at Sandia Base divided security and intelligence responsibilities.",
+"sources": [
+{
+"date": "2002-01-01",
+"name": "Defense's Nuclear Agency 1947-1997, ch. 'The Post-War Transition' and Appendix C chronology",
+"url": "https://archive.org/download/DTIC_ADA412977/DTIC_ADA412977_djvu.txt"
+}
+],
+"tier": "A",
+"type": "geographic"
+}
+],
+"coords": null,
+"dateEnd": "1959-05-06",
+"dateStart": "1946-12-31",
+"deg": 3,
+"denials": [],
+"desc": "The Armed Forces Special Weapons Project was established by joint directive of the Secretaries of War and the Navy, effective midnight 31 December 1946, to carry on the military service functions of the Manhattan Project that were retained under armed forces control when the Atomic Energy Commission took the civil ones. It reported directly to the Army Chief of Staff and the Chief of Naval Operations, its Chief and Deputy Chief sat on the Military Liaison Committee to the AEC, and its funds came by working fund advances from the AEC out of money formerly available to the Manhattan Project. Major General Leslie R. Groves became its first Chief on 28 February 1947. It was redesignated the Defense Atomic Support Agency in 1959 and, through DNA and DSWA, is the ancestor of the Defense Threat Reduction Agency.",
+"domains": [
+"area52-2026-09-02"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "afswp",
+"l0": false,
+"label": "Armed Forces Special Weapons Project",
+"locLabel": null,
+"members": null,
+"short": "Armed Forces Special Weapons Project",
+"sources": [
+{
+"date": "2002-01-01",
+"name": "Defense's Nuclear Agency 1947-1997, Defense Threat Reduction Agency, U.S. Department of Defense, 2002, DTIC accession ADA412977",
+"url": "https://archive.org/details/DTIC_ADA412977"
+},
+{
+"date": "2002-01-01",
+"name": "OCR text layer of DTIC ADA412977",
+"url": "https://archive.org/download/DTIC_ADA412977/DTIC_ADA412977_djvu.txt"
+},
+{
+"date": "2026-09-02",
+"name": "Records of the Defense Threat Reduction Agency, Record Group 374, Guide to Federal Records in the National Archives",
+"url": "https://www.archives.gov/research/guide-fed-records/groups/374.html"
+}
+],
+"sub": "Joint Army-Navy atomic energy organisation, 1946-1959; military successor to the Manhattan Engineer District",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 219 of 1027, score 42). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A3/D1.",
+"timeline": [
+{
+"date": "1946-12-31",
+"id": "tl-1946-12-31-afswp-effective",
+"label": "The Armed Forces Special Weapons Project takes effect, holding the military half of the Manhattan Project",
+"precision": "day",
+"strand": "program",
+"text": "AFSWP is established by joint directive of the Secretaries of War and the Navy 'effective as of midnight 31 December 1946', operating directly under the Army Chief of Staff and the Chief of Naval Operations and responsible for carrying on the military service functions of the Manhattan Project retained under armed forces control. The founding memorandum is signed on 29 January 1947 by Robert P. Patterson and James V. Forrestal; Major General Leslie R. Groves becomes first Chief on 28 February 1947. Its funds come by working fund advances from the Atomic Energy Commission out of money formerly available to the Manhattan Project.",
+"tier": "B"
+}
+]
+}

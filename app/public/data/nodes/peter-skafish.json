@@ -1,0 +1,242 @@
+{
+"A": 1,
+"C": 0,
+"D": 3,
+"affiliations": [
+"The Sol Foundation (co-founder, Executive Director, Secretary of the Board)",
+"UAP Science Advisory Council (2026)",
+"Harvard University (visiting anthropologist)",
+"The Sol Foundation (co-founder and Executive Director, 2023- )",
+"UAP Science Advisory Council (2026- )"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "2022-01-01",
+"event": "Co-founds The Sol Foundation with Garry Nolan.",
+"precision": "year"
+},
+{
+"date": "2023-08-15",
+"event": "Co-founds The Sol Foundation with Garry Nolan.",
+"precision": "day"
+},
+{
+"date": "2023-11-17",
+"event": "Inaugural Sol Foundation conference at Stanford University.",
+"precision": "day"
+},
+{
+"date": "2023-11-17",
+"event": "Inaugural Sol Foundation symposium held at Stanford.",
+"precision": "day"
+},
+{
+"date": "2024-11-01",
+"event": "Publishes Sol white paper Vol. 1 No. 6 on executive-branch UAP secrecy and harm to Congress.",
+"precision": "month"
+},
+{
+"date": "2025-10-24",
+"event": "Speaks at the 2025 Sol Foundation Symposium, Lake Maggiore, Italy.",
+"precision": "day"
+},
+{
+"date": "2026-05-09",
+"event": "Issues Sol press statement on the 8 May 2026 Presidential UAP records release.",
+"precision": "day"
+},
+{
+"date": "2026-06-15",
+"event": "Named to the UAP Science Advisory Council.",
+"precision": "day"
+},
+{
+"date": "2026-06-22",
+"event": "Named with Nolan, Gallaudet, Haqq-Misra and Ross Howard to the ODNI/FBI UAP Science Advisory Council.",
+"precision": "day"
+},
+{
+"date": "2026-07-10",
+"event": "Co-signs Sol statement on new UAP releases as a member of leadership advising the executive branch.",
+"precision": "day"
+}
+],
+"claims": [
+{
+"source": "The Sol Foundation, People page, retrieved 12 August 2026",
+"text": "Skafish is Executive Director of The Sol Foundation and Secretary of its Board; Garry Nolan is Executive Director of the Board.",
+"tier": 1
+},
+{
+"source": "The Sol Foundation, Policy page, retrieved 12 August 2026",
+"text": "Since 2023 the Sol Foundation has advised members and committees of the US Senate and House - including the Senate Select Committee on Intelligence and the House Oversight and Government Reform Committee - and the Parliaments of the UK, Canada and Japan, the European Parliament, the European Commission and the Office of the Chief Science Adviser to Canada.",
+"tier": 1
+},
+{
+"source": "The Sol Foundation, 'Sol Foundation Co-Founders Named to U.S. Government's UAP Science Advisory Council', 22 June 2026",
+"text": "On 22 June 2026 ODNI, with FBI support, announced a UAP Science Advisory Council led by Avi Loeb and reporting to a higher-level interagency UAP Governance Board; Nolan, Skafish, Gallaudet, Jacob Haqq-Misra and Ross Howard were named to it, and all data shared with the council is to be unclassified.",
+"tier": 1
+},
+{
+"source": "The Sol Foundation, People page, retrieved 12 August 2026",
+"text": "The Sol Foundation employs Kirk McConnell, who retired from Congress after 37 years with the Senate Armed Services Committee, as Senior Legislative Affairs Officer.",
+"tier": 1
+},
+{
+"source": "The Sol Foundation white papers index",
+"text": "Skafish authored Sol Foundation white paper Vol. 1 No. 6, 'The Prospect of Executive Branch Unidentified Anomalous Phenomena Secrecy: The Harm to Congress and Potential Remedies' (November 2024).",
+"tier": 1
+},
+{
+"source": "Micah Hanks, The Debrief, 12 September 2023",
+"text": "Skafish co-founded The Sol Foundation with Garry Nolan on 15 August 2023.",
+"tier": 2
+},
+{
+"source": "The Sol Foundation announcement; Skeptics Society, 15 June 2026",
+"text": "Skafish was named to the UAP Science Advisory Council in June 2026.",
+"tier": 2
+}
+],
+"cls": "person",
+"cluster": "research",
+"conflicts": [
+"The Sol Foundation's own About page gives its founding as 2022, while contemporaneous reporting and the foundation's other materials give 15 August 2023 as the co-founding date. Recorded as a discrepancy, not resolved."
+],
+"connections": [
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "2026",
+"dateStart": "2022",
+"direction": "out",
+"edgeLabel": "Co-founder, Executive Director and Secretary of the Board",
+"id": "sol-foundation",
+"l0": true,
+"label": "The Sol Foundation",
+"note": "Skafish is the institutional architect of the foundation's science-plus-policy-plus-education structure and author of its November 2024 paper on executive-branch secrecy and harm to Congress.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "The Sol Foundation - People",
+"url": "https://thesolfoundation.org/people/"
+},
+{
+"date": "2026-08-12",
+"name": "The Sol Foundation",
+"url": "https://thesolfoundation.org/"
+},
+{
+"date": "2026-08-12",
+"name": "The Sol Foundation - White Papers and Policy Briefings index",
+"url": "https://thesolfoundation.org/white-papers/"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 2,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2026",
+"direction": "out",
+"edgeLabel": "Named as the council's cultural anthropologist",
+"id": "uap-science-advisory-council",
+"l0": true,
+"label": "UAP Science Advisory Council",
+"note": "Skafish's appointment completes the Sol Foundation's placement of its executive leadership on the federal advisory body.",
+"sources": [
+{
+"date": "2026-06-15",
+"name": "Skeptic / Skeptics Society, 'Michael Shermer Named to White House UAP Science Advisory Council'",
+"url": "https://www.skeptic.com/article/michael-shermer-named-to-white-house-uap-science-advisory-council/"
+},
+{
+"date": "2026-06-01",
+"name": "The Sol Foundation, 'Sol Foundation Co-Founders Named to UAP Science Advisory Council'",
+"url": "https://thesolfoundation.org/sol-foundation-co-founders-named-to-uap-science-advisory-council/"
+}
+],
+"tier": "A",
+"type": "institutional"
+}
+],
+"date": "2026-06-22",
+"dateEnd": null,
+"dateStart": "2026-06-22",
+"deg": 2,
+"denials": [],
+"domains": [
+"media-structure",
+"scientists-technical"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "peter-skafish",
+"instId": "sol-foundation",
+"l0": false,
+"label": "Peter Skafish",
+"loc": "Stanford, CA",
+"locId": "l-stanford",
+"members": null,
+"narrative": "Peter Skafish is the person who turned UAP advocacy into an institution with a policy shop. A sociocultural anthropologist and recent Harvard visiting anthropologist, he co-founded The Sol Foundation with Garry Nolan in 2022 and serves as its Executive Director and board Secretary. Under him Sol has done something no other body in this space managed: since 2023 it has provided scientific and policy advice on UAP directly to the Senate Select Committee on Intelligence and the House Oversight and Government Reform Committee, and to the Parliaments of the United Kingdom, Canada and Japan, the European Parliament, the European Commission and the Office of the Chief Science Adviser to Canada. It hired Kirk McConnell - thirty-seven years on the Senate Armed Services Committee - as Senior Legislative Affairs Officer, which is a professional lobbying hire, not an enthusiast's. The culmination came on 22 June 2026, when ODNI, with FBI support, announced a UAP Science Advisory Council led by Avi Loeb and reporting to an interagency UAP Governance Board; Skafish, Nolan, Tim Gallaudet, Jacob Haqq-Misra and Ross Howard were named to it. In under four years an advocacy non-profit was absorbed into the executive branch's advisory architecture. Whether that is capture of the government by disclosure advocates or capture of the advocates by the government is the open question, and it is the most important structural question of 2026.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Peter Skafish",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "The Sol Foundation - People",
+"url": "https://thesolfoundation.org/people/"
+},
+{
+"date": "2026-08-12",
+"name": "The Sol Foundation - Policy",
+"url": "https://thesolfoundation.org/policy/"
+},
+{
+"date": "2026-06-22",
+"name": "The Sol Foundation - Co-Founders Named to UAP Science Advisory Council",
+"url": "https://thesolfoundation.org/sol-foundation-co-founders-named-to-uap-science-advisory-council/"
+},
+{
+"date": "2026-08-12",
+"name": "The Sol Foundation",
+"url": "https://thesolfoundation.org/"
+},
+{
+"date": "2026-08-12",
+"name": "The Sol Foundation - White Papers and Policy Briefings index",
+"url": "https://thesolfoundation.org/white-papers/"
+},
+{
+"date": "2023-09-12",
+"name": "Micah Hanks, 'The Sol Foundation: How a New Think Tank of Academics is Applying Cutting-Edge Research to the UAP Mystery', The Debrief",
+"url": "https://thedebrief.org/the-sol-foundation-how-a-new-think-tank-of-academics-is-applying-cutting-edge-research-the-uap-mystery/"
+},
+{
+"date": "2026-06-15",
+"name": "Skeptic / Skeptics Society, 'Michael Shermer Named to White House UAP Science Advisory Council'",
+"url": "https://www.skeptic.com/article/michael-shermer-named-to-white-house-uap-science-advisory-council/"
+}
+],
+"status": "active",
+"sub": "Executive Director and co-founder, The Sol Foundation",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 457 of 1027, score 30). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D3.",
+"timeline": [],
+"unexplainedResidual": null,
+"unverified": [
+"The Sol Foundation's funders and donors are not disclosed on its public site; no primary funding record was located in this pass.",
+"The Sol Foundation's funders and their identities."
+]
+}

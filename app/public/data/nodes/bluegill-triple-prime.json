@@ -1,0 +1,164 @@
+{
+"A": 1,
+"C": 1,
+"D": 1,
+"band": null,
+"claims": [
+{
+"source": "DNA 6040F, Operation DOMINIC I--1962, Defense Nuclear Agency, 1 February 1983, https://archive.org/download/DTIC_ADA136820/DTIC_ADA136820_djvu.txt",
+"text": "The shot and its date: 'BLUEGILL Triple Prime (25 October 1962, 2359). The fourth attempt to launch the BLUEGILL device using a Thor missile was successful.'",
+"tier": 1
+},
+{
+"source": "DNA 6040F, Table 1, DOMINIC detonations, 1962, https://archive.org/download/DTIC_ADA136820/DTIC_ADA136820_djvu.txt",
+"text": "Its place in the test series, from the report's own summary table: '25 Oct / BLUE GILL / FISHBOWL shot, submegaton, tens of kilometers over Johnston Island', sourced there to Announced United States Nuclear Tests, NVO-29 (Rev. 1), Department of Energy, Nevada Operations Office, January 1980.",
+"tier": 1
+},
+{
+"source": "DNA 6040F, narrative for BLUEGILL Triple Prime, https://archive.org/download/DTIC_ADA136820/DTIC_ADA136820_djvu.txt",
+"text": "The force present: 'The Air Force arrayed 22 aircraft for the detonation', with WB-50 and U-2 weather aircraft, Navy P2Vs for surveillance and pod recovery and Marine helicopters, and nine Navy ships positioned to gather scientific data.",
+"tier": 1
+},
+{
+"source": "DNA 6040F, Air Force aircraft participation in DOMINIC, https://archive.org/download/DTIC_ADA136820/DTIC_ADA136820_djvu.txt",
+"text": "KETTLE is a DOMINIC aircraft call sign, not a film. The aircraft participation table lists '3 / KC-135 / Kettle / Photographic aircraft' alongside Cognac, Kibosh, Cordova, Caboodle, Abusive, Lambkin, Baxter/Byron, Hewstone and White Spot. The strings 'RC-135' and 'Cobra' do not appear anywhere in the report.",
+"tier": 1
+},
+{
+"source": "DNA 6040F, Operation DOMINIC I--1962, full-text search of the report, https://archive.org/download/DTIC_ADA136820/DTIC_ADA136820_djvu.txt",
+"text": "The report contains nothing of what is attached to this shot. It carries no reference to any unidentified object, unknown craft, anomalous observation, recovery or debris associated with the detonation; its only uses of 'unidentified' are an unidentified number of dosimetry analyses and one unidentified event in a fallout discussion. 'Gise' appears zero times in it, and so does Malmgren's name.",
+"tier": 1
+},
+{
+"source": "DNA 6039F, Operation ARGUS 1958, Defense Nuclear Agency, https://archive.org/download/DTIC_ADA122341/DTIC_ADA122341_djvu.txt",
+"text": "DNA 6039F is not the FISHBOWL report. Its cover and Report Documentation Page both read 'OPERATION ARGUS 1958'. FISHBOWL appears instead in DNA 6040F's own keyword list.",
+"tier": 1
+}
+],
+"cls": "event",
+"cluster": "legacy",
+"connections": [
+{
+"claimTier": 1,
+"cls": "domain",
+"dateEnd": "1962",
+"dateStart": "1962",
+"direction": "out",
+"edgeLabel": "A dated, documented high-altitude nuclear test",
+"id": "d-nuclear",
+"l0": false,
+"label": "Nuclear Security & Restricted Data",
+"note": "The board's nuclear-correlation thread runs largely on witness memory; this is an official operational record fixing a date, a location and a force disposition independently of any witness.",
+"sources": [
+{
+"date": "1983-02-01",
+"name": "DNA 6040F, Operation DOMINIC I--1962",
+"url": "https://archive.org/download/DTIC_ADA136820/DTIC_ADA136820_djvu.txt"
+}
+],
+"tier": "B",
+"type": "programmatic"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "1980",
+"dateStart": "1962",
+"direction": "out",
+"edgeLabel": "The detonation list is a Department of Energy publication",
+"id": "doe",
+"l0": true,
+"label": "United States Department of Energy",
+"note": "DNA 6040F sources its own table of DOMINIC detonations to Announced United States Nuclear Tests, NVO-29 (Rev. 1), Office of Public Affairs, Department of Energy, Nevada Operations Office, January 1980, so the authoritative date and yield description for this shot are held by DOE rather than by DoD.",
+"sources": [
+{
+"date": "1983-02-01",
+"name": "DNA 6040F, Table 1 source note",
+"url": "https://archive.org/download/DTIC_ADA136820/DTIC_ADA136820_djvu.txt"
+}
+],
+"tier": "A",
+"type": "custody"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "1962",
+"dateStart": "1962",
+"direction": "out",
+"edgeLabel": "Air Force flew the shot and its 22-aircraft array",
+"id": "usaf",
+"l0": true,
+"label": "United States Air Force",
+"note": "DNA 6040F records that the Air Force arrayed 22 aircraft for the detonation and names the call signs and missions of the KC-135, RC-121, B-47, C-118, C-130 and U-2 aircraft that flew DOMINIC.",
+"sources": [
+{
+"date": "1983-02-01",
+"name": "DNA 6040F, Operation DOMINIC I--1962",
+"url": "https://archive.org/download/DTIC_ADA136820/DTIC_ADA136820_djvu.txt"
+}
+],
+"tier": "A",
+"type": "institutional"
+}
+],
+"coords": null,
+"dateEnd": "1962-10-25",
+"dateStart": "1962-10-25",
+"deg": 3,
+"denials": [],
+"desc": "Bluegill Triple Prime was the fourth attempt to detonate the BLUEGILL device above Johnston Island, and the first that worked. Three earlier attempts failed: the 2 June 1962 launch was destroyed in flight after tracking was lost, BLUEGILL Prime burned on the pad, and BLUEGILL Double Prime failed on 15 October. The successful shot is recorded by the Defense Nuclear Agency at 25 October 1962, 2359 local, submegaton, tens of kilometres over Johnston Island, with 22 Air Force aircraft arrayed and nine Navy ships positioned to gather data. Four guests across four Michels lead maps attach a recovery story to it, and the record contradicts them in three places at once. The date is 25 October in the report's narrative and in its own Table 1, not 26 October, which is the GMT rendering of the same instant. DNA 6039F, cited for the shot in the candidates row, is Operation ARGUS 1958 and not the FISHBOWL report at all. And the report contains no unidentified object, no recovery, no debris, no RC-135 and no Cobra Ball: what it does carry is the call sign KETTLE, assigned to three KC-135 photographic aircraft, which is the documented origin of the Kettle film names the corpus uses. The node exists to hold the documented event so that the testimony has something dated to hang from.",
+"domains": [
+"michels-2026-09-02"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "bluegill-triple-prime",
+"l0": false,
+"label": "Bluegill Triple Prime",
+"locLabel": null,
+"members": null,
+"short": "Bluegill Triple Prime",
+"sources": [
+{
+"date": "1983-02-01",
+"name": "DNA 6040F, Operation DOMINIC I--1962, Defense Nuclear Agency / Kaman Tempo, report date 1 February 1983, DTIC ADA136820",
+"url": "https://archive.org/details/DTIC_ADA136820"
+},
+{
+"date": "1983-02-01",
+"name": "OCR full text of DNA 6040F, Operation DOMINIC I--1962",
+"url": "https://archive.org/download/DTIC_ADA136820/DTIC_ADA136820_djvu.txt"
+},
+{
+"date": "1982-04-30",
+"name": "DNA 6039F, Operation ARGUS 1958, Defense Nuclear Agency, DTIC ADA122341",
+"url": "https://archive.org/details/DTIC_ADA122341"
+},
+{
+"date": null,
+"name": "DNA 6039F, Operation ARGUS 1958, Defense Nuclear Agency",
+"url": "https://archive.org/download/DTIC_ADA122341/DTIC_ADA122341_djvu.txt"
+}
+],
+"sub": "FISHBOWL high-altitude shot, Operation DOMINIC I, Johnston Island, 25 October 1962",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 316 of 1027, score 36). 3 connections, 2 of them custody/witness/funding/programmatic. Axes C1/A1/D1.",
+"timeline": [
+{
+"date": "1962-10-25",
+"id": "tl-1962-10-25-bluegill-triple-prime",
+"label": "Bluegill Triple Prime detonates over Johnston Island",
+"precision": "day",
+"strand": "program",
+"text": "The Defense Nuclear Agency's Operation DOMINIC I report records the shot at 25 October 1962, 2359 local, the fourth and first successful attempt to launch the BLUEGILL device on a Thor missile, submegaton, tens of kilometres over Johnston Island, with 22 Air Force aircraft arrayed and nine Navy ships positioned. The report carries no unidentified object, no recovery and no debris, and the photographic aircraft were three KC-135s under the call sign KETTLE.",
+"tier": "C"
+}
+]
+}

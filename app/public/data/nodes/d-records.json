@@ -1,0 +1,185 @@
+{
+"A": 1,
+"C": 1,
+"D": 3,
+"band": null,
+"claims": [
+{
+"source": "P.L. 118-31, NDAA for Fiscal Year 2024, Subtitle C",
+"text": "NDAA FY2024 (P.L. 118-31), Subtitle C, Sections 1841-1843 establish the UAP Records Collection at NARA, the agency duty to review and transmit records, and the grounds for postponement of disclosure.",
+"tier": 1
+},
+{
+"source": "H.R. 2670 as passed by the Senate, Division I",
+"text": "The Senate-passed version of the FY2024 NDAA contained Division I, the 'Unidentified Anomalous Phenomena Disclosure Act of 2023' (Sections 9001-9010), including a Review Board and eminent domain over recovered technologies of unknown origin.",
+"tier": 1
+},
+{
+"source": "P.L. 102-526, 106 Stat. 3443",
+"text": "The President John F. Kennedy Assassination Records Collection Act of 1992 is the statutory template: a presumption of immediate disclosure, a defined collection at NARA, and an independent Review Board empowered to override agency withholding.",
+"tier": 1
+},
+{
+"source": "GAO/NSIAD-95-187",
+"text": "GAO reported in 1995 that Roswell AAF outgoing messages for 1946-1949 had been destroyed with no disposition authority and no destruction certificate.",
+"tier": 1
+}
+],
+"cls": "domain",
+"cluster": "oversight",
+"connections": [
+{
+"claimTier": 1,
+"cls": "domain",
+"dateEnd": null,
+"dateStart": "1947-01-01",
+"direction": "in",
+"edgeLabel": "Record destruction as concealment",
+"id": "d-coverup",
+"l0": false,
+"label": "The Cover-Up",
+"note": "GAO found Roswell AAF outgoing messages for 1946-1949 destroyed with no disposition authority and no destruction certificate - concealment executed through the records system.",
+"sources": [
+{
+"date": "1995-07-28",
+"name": "GAO/NSIAD-95-187",
+"url": "https://www.govinfo.gov/content/pkg/GAOREPORTS-NSIAD-95-187/html/GAOREPORTS-NSIAD-95-187.htm"
+}
+],
+"tier": "A",
+"type": "custody"
+},
+{
+"claimTier": 1,
+"cls": "domain",
+"dateEnd": null,
+"dateStart": "1967-07-04",
+"direction": "out",
+"edgeLabel": "Statutory collection versus request-by-request extraction",
+"id": "d-foia",
+"l0": false,
+"label": "Freedom of Information Practice",
+"note": "Before the FY2024 records provisions, FOIA was the only routine extraction mechanism; the NARA collection is an attempt to replace adversarial requesting with an affirmative duty.",
+"sources": [
+{
+"date": "2023-12-22",
+"name": "NDAA FY2024 (P.L. 118-31)",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm"
+}
+],
+"tier": "C",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "domain",
+"dateEnd": null,
+"dateStart": "1948-01-22",
+"direction": "in",
+"edgeLabel": "The corpus is what survives the records fight",
+"id": "d-history",
+"l0": false,
+"label": "Historiography",
+"note": "Almost every primary document in this field arrived through FOIA or archival release; historiography here is downstream of records law.",
+"sources": [
+{
+"date": "1995-07-28",
+"name": "GAO/NSIAD-95-187",
+"url": "https://www.govinfo.gov/content/pkg/GAOREPORTS-NSIAD-95-187/html/GAOREPORTS-NSIAD-95-187.htm"
+},
+{
+"date": "2023-12-22",
+"name": "NDAA FY2024 (P.L. 118-31)",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm"
+}
+],
+"tier": "C",
+"type": "research"
+},
+{
+"claimTier": 1,
+"cls": "domain",
+"dateEnd": null,
+"dateStart": "2023-12-22",
+"direction": "in",
+"edgeLabel": "Records law as the oversight instrument that worked",
+"id": "d-oversight",
+"l0": false,
+"label": "Congressional Oversight",
+"note": "Subtitle C of P.L. 118-31 is the only binding UAP transparency outcome Congress has produced, and it operates through records custody rather than through programme access.",
+"sources": [
+{
+"date": "2023-12-22",
+"name": "NDAA FY2024 (P.L. 118-31)",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm"
+}
+],
+"tier": "B",
+"type": "legislative"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "1992-10-26",
+"deg": 4,
+"denials": [],
+"desc": "Whoever controls the records controls the history, and this is the one front on which the disclosure movement has produced enacted law. Subtitle C of the FY2024 National Defense Authorization Act (P.L. 118-31) created, in Section 1841, an Unidentified Anomalous Phenomena Records Collection at the National Archives; in Section 1842, an affirmative duty on every government office to review, identify and transmit UAP records to NARA; and in Section 1843, grounds for postponement - a framework in which withholding is temporary and must be justified rather than permanent and unexplained. The model is the President John F. Kennedy Assassination Records Collection Act of 1992, which is why the Senate's original UAP Disclosure Act of 2023 also proposed an independent Review Board with the power to order release over agency objection; that Review Board and the eminent-domain provision over recovered material were stripped before enactment. What survived is a records statute without an independent adjudicator, which places the postponement decision back inside the agencies that hold the records. The stakes are set by the documented history: GAO found in 1995 that Roswell Army Air Field's outgoing messages for 1946-1949 had been destroyed with no destruction certificate. Scoring high on this domain means an entity holds, transfers, withholds or destroys records - or wrote the law governing those acts.",
+"domains": [
+"w2-taxonomy"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "1",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "d-records",
+"l0": false,
+"label": "Records & Archives",
+"locLabel": null,
+"members": null,
+"short": "Records & Archives",
+"sources": [
+{
+"date": "2023-12-22",
+"name": "NDAA FY2024 (P.L. 118-31), Subtitle C - Unidentified Anomalous Phenomena",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm"
+},
+{
+"date": "2023-07-27",
+"name": "H.R. 2670, NDAA FY2024 as passed by the Senate, Division I - Unidentified Anomalous Phenomena Disclosure Act of 2023",
+"url": "https://www.govinfo.gov/content/pkg/BILLS-118hr2670eas/html/BILLS-118hr2670eas.htm"
+},
+{
+"date": "1992-10-26",
+"name": "President John F. Kennedy Assassination Records Collection Act of 1992 (106 Stat. 3443)",
+"url": "https://www.govinfo.gov/content/pkg/STATUTE-106/pdf/STATUTE-106-Pg3443.pdf"
+},
+{
+"date": "2026-08-12",
+"name": "National Archives - JFK Assassination Records",
+"url": "https://www.archives.gov/research/jfk"
+},
+{
+"date": "1995-07-28",
+"name": "GAO/NSIAD-95-187",
+"url": "https://www.govinfo.gov/content/pkg/GAOREPORTS-NSIAD-95-187/html/GAOREPORTS-NSIAD-95-187.htm"
+}
+],
+"sub": "Legal-procedural domain - the statutory fight over custody, transfer and destruction of the paper",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 425 of 1027, score 32). 4 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A1/D3.",
+"timeline": [
+{
+"date": "2026-07-23",
+"id": "tx-2026-burlison-amdt",
+"label": "The House votes a records framework",
+"precision": "day",
+"strand": "oversight",
+"text": "The House approves an amendment offered by Rep. Eric Burlison creating a framework for UAP records disclosure - the records domain remaining the only front on which the disclosure movement reliably moves legislation.",
+"tier": 2
+}
+]
+}

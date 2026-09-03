@@ -1,0 +1,232 @@
+{
+"A": 0,
+"C": 0,
+"D": 2,
+"affiliations": [
+"NASA Ames Research Center (2001-2005)",
+"University at Albany (SUNY) (2005- ; Professor 2023)",
+"Entropy - Editor-in-Chief (2012- )",
+"UAPx - Vice President",
+"The Galileo Project - research affiliate",
+"Scientific Coalition for UAP Studies - collaborator"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "2001",
+"event": "Joins NASA Ames Research Center.",
+"precision": "year"
+},
+{
+"date": "2005",
+"event": "Joins the University at Albany as assistant professor.",
+"precision": "year"
+},
+{
+"date": "2012",
+"event": "Becomes Editor-in-Chief of Entropy.",
+"precision": "year"
+},
+{
+"date": "2019-08-22",
+"event": "Preprint of the flight-characteristics paper posted.",
+"precision": "day"
+},
+{
+"date": "2019-09-25",
+"event": "'Estimating Flight Characteristics of Anomalous Unidentified Aerial Vehicles' published in Entropy 21(10):939.",
+"precision": "day"
+},
+{
+"date": "2025-06-01",
+"event": "Co-authors the UAPx first-expedition results in Progress in Aerospace Sciences.",
+"precision": "month"
+}
+],
+"claims": [
+{
+"source": "Entropy, DOI 10.3390/e21100939",
+"text": "Knuth, Powell and Reali published 'Estimating Flight Characteristics of Anomalous Unidentified Aerial Vehicles' in Entropy 21(10):939 on 25 September 2019.",
+"tier": 1
+},
+{
+"source": "Progress in Aerospace Sciences, DOI 10.1016/j.paerosci.2025.101099",
+"text": "Knuth is a co-author of the 2025 UAPx field-expedition results paper in Progress in Aerospace Sciences.",
+"tier": 1
+},
+{
+"source": "Published biography",
+"text": "Knuth is Vice President of UAPx and a research affiliate of the Galileo Project.",
+"tier": 2
+}
+],
+"cls": "person",
+"cluster": "research",
+"conflicts": [
+"Knuth's editorship of Entropy, the journal in which the 2019 paper appeared, is a standing criticism of that paper."
+],
+"connections": [
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": "2025-06",
+"direction": "out",
+"edgeLabel": "Lead author of the 34-author UAP review",
+"id": "paper-knuth-2025-new-science",
+"l0": false,
+"label": "Knuth et al. (2025), 'The New Science of Unidentified Aerospace-Undersea Phenomena (UAP)', Progress in Aerospace Sciences",
+"note": "UAlbany: 'Knuth is lead author of the article, which was co-written by Szydagis and more than 30 other researchers from around the world.' Knuth, quoted in the same release: 'Given the longstanding, global nature of the UAP/UFO question, the air safety and security implications of their presence, and the potentially profound importance of their nature, studying and understanding these phenomena is of great and urgent importance.'",
+"sources": [
+{
+"date": "2025-06-04",
+"name": "UAlbany News Center, 'UAlbany Physicists Test Scientific Approach to UAP Research'",
+"url": "https://www.albany.edu/news-center/news/2025-ualbany-physicists-test-scientific-approach-uap-research"
+}
+],
+"tier": "C",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": "2019",
+"direction": "out",
+"edgeLabel": "Lead author of the Entropy kinematics paper",
+"id": "paper-knuth-powell-reali-2019",
+"l0": false,
+"label": "Knuth, Powell & Reali (2019), Entropy 21(10):939",
+"note": "Entropy 21(10):939 estimated accelerations, velocities and required power from documented cases including the 2004 Nimitz encounter.",
+"sources": [
+{
+"date": "2019-09-25",
+"name": "Knuth, Powell & Reali, 'Estimating Flight Characteristics of Anomalous Unidentified Aerial Vehicles', Entropy 21(10):939",
+"url": "https://doi.org/10.3390/e21100939"
+}
+],
+"tier": "C",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "2025-06-08",
+"dateStart": "2025-06-06",
+"direction": "out",
+"edgeLabel": "SCU's inaugural Distinguished Scholar Award, June 2025 - recognition, not an office",
+"id": "scu-uap-studies",
+"l0": false,
+"label": "Scientific Coalition for UAP Studies (SCU)",
+"note": "Presented at SCU's Sixth Annual Conference, Von Braun Center, Huntsville, Alabama, 6-8 June 2025, by SCU Executive Board member Rich Hoffman, who said: 'Dr. Knuth's leadership in advancing empirical, interdisciplinary UAP research exemplifies the mission of SCU.' IMPORTANT SCOPE LIMIT: this pass found no evidence that Knuth holds an SCU board seat, officer post or executive role. The board's pre-existing SCU connection to this cluster runs through Robert Powell, an SCU founding board member and Knuth's co-author on the 2019 Entropy paper. The award is a recognition edge, and is labelled as one.",
+"sources": [
+{
+"date": "2025-06-27",
+"name": "SCU press release, 'Scientific Coalition for UAP Studies honors Dr. Kevin Knuth with inaugural Distinguished Scholar Award'",
+"url": "https://www.explorescu.org/post/scientific-coalition-for-uap-studies-honors-dr-kevin-knuth-with-inaugural-distinguished-scholar-awa"
+}
+],
+"tier": "C",
+"type": "research"
+},
+{
+"claimTier": 2,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2021",
+"direction": "out",
+"edgeLabel": "Vice President of UAPx and co-author of the 2025 paper",
+"id": "uapx",
+"l0": false,
+"label": "UAPx",
+"note": "Knuth links UAPx to the Galileo Project, where he is a research affiliate, and to SCU through the Entropy collaboration with Powell.",
+"sources": [
+{
+"date": "2025-06-01",
+"name": "Szydagis, Knuth, Kugielsky & Levy, 'Initial results from the first field expedition of UAPx to study unidentified anomalous phenomena', Progress in Aerospace Sciences 156:101099",
+"url": "https://doi.org/10.1016/j.paerosci.2025.101099"
+},
+{
+"date": "2019-09-25",
+"name": "Knuth, Powell & Reali, 'Estimating Flight Characteristics of Anomalous Unidentified Aerial Vehicles', Entropy 21(10):939",
+"url": "https://doi.org/10.3390/e21100939"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2005",
+"direction": "in",
+"edgeLabel": "Employs Knuth; Professor of Physics since 2023, on the faculty since 2005",
+"id": "university-at-albany",
+"l0": true,
+"label": "University at Albany (SUNY), Department of Physics",
+"note": "The UAlbany Department of Physics faculty page lists Knuth's appointments as Assistant Professor 2005-2009, Associate Professor 2009-2023, Professor 2023-present, immediately following four years as a GS-14 Research Scientist in the Intelligent Systems Division at NASA Ames (2001-2005). The same page records him as Editor-in-Chief of Entropy (MDPI) since 2012, which is the journal that published the 2019 Nimitz kinematics paper. This is the primary reason the institution is on the board: it is the salaried academic post from which the peer-reviewed UAP kinematics and field-instrumentation literature was produced.",
+"sources": [
+{
+"date": "2026-08-21",
+"name": "University at Albany, Department of Physics - Kevin Knuth faculty page",
+"url": "https://www.albany.edu/physics/faculty/kevin-knuth"
+}
+],
+"tier": "B",
+"type": "institutional"
+}
+],
+"date": "2019-09-25",
+"dateEnd": null,
+"dateStart": "2019-09-25",
+"deg": 5,
+"denials": [],
+"domains": [
+"scientists-technical"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "kevin-knuth",
+"instId": "university-at-albany",
+"l0": false,
+"label": "Kevin H. Knuth",
+"loc": "Albany, NY",
+"locId": null,
+"members": null,
+"narrative": "Knuth wrote the paper that made the kinematics argument citable. A physicist with a PhD from Minnesota (1995) who spent 2001-2005 at NASA Ames designing AI algorithms for astrophysical data analysis before joining Albany in 2005, he is Editor-in-Chief of the MDPI journal Entropy and works in information physics and Bayesian inference. In September 2019 he published, with Robert Powell of the Scientific Coalition for UAP Studies and Peter Reali, 'Estimating Flight Characteristics of Anomalous Unidentified Aerial Vehicles' in Entropy 21(10):939, deriving accelerations, speeds and required power from four documented cases including the 2004 Nimitz encounter. Whatever one thinks of the inputs, the paper did something no amount of testimony could: it put numbers with error bars into a peer-reviewed physics journal, and every subsequent argument about whether the observed performance is achievable with known propulsion has had to engage with it. He is Vice President of UAPx, a research affiliate of the Galileo Project, and co-author of the 2025 UAPx field-expedition paper. The editorship of Entropy is worth noting plainly: a journal editor publishing in his own journal invites the obvious criticism, and the paper's critics have made it.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Kevin H. Knuth",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Wikipedia: Kevin Knuth",
+"url": "https://en.wikipedia.org/wiki/Kevin_Knuth"
+},
+{
+"date": "2019-09-25",
+"name": "Knuth, Powell & Reali, 'Estimating Flight Characteristics of Anomalous Unidentified Aerial Vehicles', Entropy 21(10):939",
+"url": "https://doi.org/10.3390/e21100939"
+},
+{
+"date": "2025-06-01",
+"name": "Szydagis, Knuth, Kugielsky & Levy, 'Initial results from the first field expedition of UAPx to study unidentified anomalous phenomena', Progress in Aerospace Sciences 156:101099",
+"url": "https://doi.org/10.1016/j.paerosci.2025.101099"
+}
+],
+"status": "active",
+"sub": "Professor of Physics, University at Albany (SUNY); former NASA Ames research scientist; Editor-in-Chief, Entropy; Vice President, UAPx; research affiliate, The Galileo Project",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 824 of 1027, score 17). 5 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D2.",
+"timeline": [],
+"unexplainedResidual": null,
+"unverified": []
+}

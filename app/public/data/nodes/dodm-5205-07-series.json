@@ -1,0 +1,268 @@
+{
+"A": 3,
+"C": 1,
+"D": 1,
+"band": null,
+"claims": [
+{
+"source": "https://web.archive.org/web/20191018064106/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol1.pdf",
+"text": "Volume 1: 'MANUAL NUMBER 5205.07, Volume 1, June 18, 2015, Incorporating Change 1, Effective February 12, 2018, USD(I). SUBJECT: DoD Special Access Program (SAP) Security Manual: General Procedures.' A later Change 2 is effective 30 September 2020 under USD(I&S). Vol 1 'Incorporates and cancels Revision 1 Department of Defense Overprint to the National Industrial Security Program (NISP) Operating Manual Supplement.'",
+"tier": 1
+},
+{
+"source": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507-V4p.PDF",
+"text": "Volume 2: 'MANUAL NUMBER 5205.07, Volume 2, November 24, 2015, Incorporating Change 2, Effective October 30, 2020, USD(I&S). SUBJECT: Special Access Program (SAP) Security Manual: Personnel Security.' Volume 3: 'MANUAL NUMBER 5205.07, Volume 3, April 23, 2015, Incorporating Change 2, Effective February 12, 2018. SUBJECT: DoD Special Access Program (SAP) Security Manual: Physical Security.' Volume 4: 'MANUAL NUMBER 5205.07, Volume 4, October 10, 2013, Incorporating Change 2, Effective September 8, 2020, USD(I&S). SUBJECT: Special Access Program (SAP) Security Manual: Marking.'",
+"tier": 1
+},
+{
+"source": "https://web.archive.org/web/20191018064106/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol1.pdf",
+"text": "THE CARVE-OUT'S OPERATIONAL CONTENT. DoDM 5205.07 Vol 1, Enclosure 2, para 2 (Director, DSS): 'Unless a carve-out provision is approved by the Secretary of Defense or the Deputy Secretary of Defense: (1) Performs SAP security inspections at cleared defense contractor locations in accordance with this volume, Reference (f), and the government contracting activity's completed DD Form 254 ... (2) Authorizes classified contractor SAP information systems (ISs) and the introduction of guest systems in contractor SAP facilities (SAPFs). (3) Coordinates with the designated counterintelligence (CI) component to provide cross-sharing of threat and incident information affecting the security of the facility or its defense information or cleared personnel.' A carve-out removes all three functions at once: physical inspection, IT accreditation, and CI information sharing.",
+"tier": 1
+},
+{
+"source": "https://web.archive.org/web/20191018064106/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol1.pdf",
+"text": "DoDM 5205.07 Vol 1 glossary: 'carve-out. A provision approved by the Secretary or Deputy Secretary of Defense that relieves DSS of its NISP obligation to perform industrial security oversight functions for a DoD SAP.'",
+"tier": 1
+},
+{
+"source": "https://web.archive.org/web/20191018064106/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol1.pdf",
+"text": "Vol 1 states that inspections 'will be coordinated among the SAPCOs and DSS when not carved out and conducted jointly to the greatest extent possible' -- confirming that when a SAP IS carved out, the only remaining inspection is the program's own self-inspection plus SAPCO-internal compliance inspection.",
+"tier": 1
+},
+{
+"source": "https://web.archive.org/web/20191018064106/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol1.pdf",
+"text": "WHISTLEBLOWING IS ROUTED BACK INSIDE. Vol 1, Enclosure 4, para 3: 'Government and industry FWAC SAP reporting involving SAP information will be accomplished through SAP channels. Collateral FWAC reporting channels must not be used for SAP information. b. The PSO will provide the telephone number for the current FWAC hotline for reporting SAP information. FWAC reporting information will be conspicuously posted in the SAP workspace. c. Employees do not need management approval before making reports.' Fraud, waste, abuse and corruption inside a SAP may not be reported through the ordinary DoD IG hotline; it must go through a SAP-channel hotline whose number is issued by the program's own security officer.",
+"tier": 1
+},
+{
+"source": "https://web.archive.org/web/20191018064106/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol1.pdf",
+"text": "Vol 1, Enclosure 4, para 4: 'The CUA documents areas of authorities and responsibilities between cognizant security offices (CSOs) when they share the same SAPF. ... The first CSO in an area, unless otherwise agreed upon, will be considered the host CSO responsible for all security oversight.' And, critically: 'For CUAs, the responsible organization will be identified for executing security cognizance with a carved-out SAP.' Multiple SAPs -- including carved-out ones -- can lawfully co-occupy one accredited facility under a written host/tenant agreement.",
+"tier": 1
+},
+{
+"source": "https://web.archive.org/web/20191018064106/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol1.pdf",
+"text": "Vol 1, Enclosure 4, para 7: 'PATENTS AND INTELLECTUAL PROPERTY. The CA SAPCO will develop procedures for processing patents and intellectual property involving SAP(s).' There is an explicit, standing policy channel for patents arising inside special access programs, delegated to each cognizant-authority SAP central office.",
+"tier": 1
+},
+{
+"source": "https://web.archive.org/web/20191018064106/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol1.pdf",
+"text": "Vol 1, Enclosure 4, para 8 (Arms Control and Treaties): 'DoD SAPs will be protected against unnecessary or inadvertent exposure during USG participation in authorized verification activities, confidence-building measures, and overflights.' Para 9 (Litigation and Public Proceedings): 'Threatened or actual litigation, administrative investigations or inquiries, or public proceedings at the international, federal, State, tribal, or local levels that may involve a SAP will be reported to CA SAPCO.'",
+"tier": 1
+},
+{
+"source": "https://web.archive.org/web/20191018064106/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol1.pdf",
+"text": "Vol 1 physical-security/visitor rules acknowledge the existence of undisclosed sites in operative text: 'Federal Government-affiliated identification cards will not be used for positive identification in unacknowledged locations.'",
+"tier": 1
+},
+{
+"source": "https://web.archive.org/web/20250305140253/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol2.pdf",
+"text": "DoDM 5205.07 Vol 2, para 5 (Polygraphs): 'The Deputy Secretary of Defense is the approval authority for the use of polygraph examination as a mandatory access determination requirement; the requirement must be consistently applied to all candidates in accordance with DoDI 5210.91. CI-Scope polygraph examination must not be used as the only basis for granting access to DoD SAPs. Exceptions to these requirements will only be granted by the Deputy Secretary of Defense. ... CI polygraph examinations are considered current when administered within the past 5 years.' Para 6 provides that 'CA SAPCOs may establish or authorize SAP billet structures or access quotas that assign individual access by organization and duty position to SAPs under their cognizance.'",
+"tier": 1
+},
+{
+"source": "DoDM 5205.07 Volume 1, para 1.a(2)",
+"text": "DoDM 5205.07 Volume 1 states that it 'Incorporates and cancels Revision 1 Department of Defense Overprint to the National Industrial Security Program (NISP) Operating Manual Supplement.'",
+"tier": 1
+},
+{
+"source": "DoDM 5205.07 Volume 1, para 2",
+"text": "DoDM 5205.07 Volume 1 applies to all DoD Components, to 'All DoD Component contractors and consultants who require access to DoD SAPs pursuant to the terms and conditions of the contract or agreement', and to non-DoD USG entities requiring access under an MOA.",
+"tier": 1
+},
+{
+"source": "Direct retrieval attempts, 12 August 2026",
+"text": "As of 12 August 2026 the published esd.whs.mil URLs for DoDM 5205.07 Volumes 1 through 4 do not return the documents to ordinary public retrieval; Volume 1 was obtainable only from an Internet Archive capture dated 18 October 2019.",
+"tier": 2
+}
+],
+"cls": "document",
+"cluster": "other",
+"connections": [
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "defines and operates the carve-out",
+"id": "carve-out",
+"l0": true,
+"label": "Carve-Out Provision (DCSA relief from NISP oversight)",
+"note": "The Manual is where the carve-out is defined and where it operates. Volume 1's glossary: 'carve-out. A provision approved by the Secretary or Deputy Secretary of Defense that relieves DSS of its NISP obligation to perform industrial security oversight.' Enclosure 2 para 2 carries the operational form of the same provision, and Volume 1 also states that inspections 'will be coordinated among the SAPCOs and DSS when not carved out' - which is the sentence establishing that a carved-out SAP is not so coordinated. Quotations are the verbatim ones already recorded on this node.",
+"sources": [
+{
+"date": "2026-05-18",
+"name": "Archived: DoDM 5205.07 Volume 4, 'Special Access Program (SAP) Security Manual: Marking', 10 Oct 2013, Incorporating Change 2, effective 8 September 2020 (Wayback 2026-05-18)",
+"url": "https://web.archive.org/web/20260518063205/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507-V4p.PDF"
+},
+{
+"date": "2018-02-12",
+"name": "DoDM 5205.07 Volume 1, 'DoD SAP Security Manual: General Procedures', 18 June 2015, Incorporating Change 1, 12 Feb 2018 (Internet Archive capture, 18 Oct 2019)",
+"url": "https://web.archive.org/web/20191018064106/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol1.pdf"
+}
+],
+"tier": "A",
+"type": "programmatic"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "relieves it of oversight",
+"id": "dcsa-nisp",
+"l0": false,
+"label": "DCSA as DoD Cognizant Security Office under the NISP",
+"note": "The carve-out's effect runs against this body: the Manual's own definition is that the provision 'relieves DSS of its NISP obligation to perform industrial security oversight'. DSS is the predecessor of DCSA, which now holds the cognizant-security-office role under the NISP. The Manual is the instrument by which the oversight body is stood down for a given programme.",
+"sources": [
+{
+"date": "2026-05-18",
+"name": "Archived: DoDM 5205.07 Volume 4, 'Special Access Program (SAP) Security Manual: Marking', 10 Oct 2013, Incorporating Change 2, effective 8 September 2020 (Wayback 2026-05-18)",
+"url": "https://web.archive.org/web/20260518063205/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507-V4p.PDF"
+},
+{
+"date": "2018-02-12",
+"name": "DoDM 5205.07 Volume 1, 'DoD SAP Security Manual: General Procedures', 18 June 2015, Incorporating Change 1, 12 Feb 2018 (Internet Archive capture, 18 Oct 2019)",
+"url": "https://web.archive.org/web/20191018064106/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol1.pdf"
+}
+],
+"tier": "B",
+"type": "programmatic"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "assigns it the patent and inspection roles",
+"id": "dod-sapco",
+"l0": true,
+"label": "DoD Special Access Program Central Office (DoD SAPCO)",
+"note": "Volume 1 Enclosure 4 para 7: 'PATENTS AND INTELLECTUAL PROPERTY. The CA SAPCO will develop procedures for processing patents and intellectual property involving SAP(s).' Volume 1 also routes inspections through the SAPCOs jointly with DSS where a programme is not carved out. Both are verbatim from this node's recorded quotations, and the patents provision is the one that matters most to this board: it is an explicit channel for intellectual property arising inside a special access programme.",
+"sources": [
+{
+"date": "2026-05-18",
+"name": "Archived: DoDM 5205.07 Volume 4, 'Special Access Program (SAP) Security Manual: Marking', 10 Oct 2013, Incorporating Change 2, effective 8 September 2020 (Wayback 2026-05-18)",
+"url": "https://web.archive.org/web/20260518063205/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507-V4p.PDF"
+},
+{
+"date": "2018-02-12",
+"name": "DoDM 5205.07 Volume 1, 'DoD SAP Security Manual: General Procedures', 18 June 2015, Incorporating Change 1, 12 Feb 2018 (Internet Archive capture, 18 Oct 2019)",
+"url": "https://web.archive.org/web/20191018064106/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol1.pdf"
+}
+],
+"tier": "A",
+"type": "programmatic"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "manual implements policy established in DoDD 5205.07",
+"id": "dodd-5205-07-2010",
+"l0": false,
+"label": "DoDD 5205.07, Special Access Program (SAP) Policy (1 Jul 2010, Chg 2 of 4 Feb 2020)",
+"note": "The Manual implements the Directive. The 2010 directive sets SAP policy and defines the carve-out in its glossary; the four-volume Manual carries the operating detail - Volume 1's Enclosure 2 on DSS oversight and its relief, Enclosure 4 on whistleblower routing through SAP channels, and the patents and intellectual property provision. Directive states the policy, Manual runs it.",
+"sources": [
+{
+"date": "2026-05-18",
+"name": "Archived: DoDM 5205.07 Volume 4, 'Special Access Program (SAP) Security Manual: Marking', 10 Oct 2013, Incorporating Change 2, effective 8 September 2020 (Wayback 2026-05-18)",
+"url": "https://web.archive.org/web/20260518063205/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507-V4p.PDF"
+},
+{
+"date": "2018-02-12",
+"name": "DoDM 5205.07 Volume 1, 'DoD SAP Security Manual: General Procedures', 18 June 2015, Incorporating Change 1, 12 Feb 2018 (Internet Archive capture, 18 Oct 2019)",
+"url": "https://web.archive.org/web/20191018064106/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol1.pdf"
+}
+],
+"tier": "A",
+"type": "programmatic"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": "2015-06-18",
+"direction": "out",
+"edgeLabel": "Volume 1 is the general procedures volume of the four-volume manual",
+"id": "dodm-5205-07-v1",
+"l0": false,
+"label": "DoDM 5205.07 Volume 1 — DoD SAP Security Manual: General Procedures",
+"note": "DoDM 5205.07 is issued in volumes; Volume 1 carries the responsibilities, general procedures, HVSACO rules and the glossary containing the carve-out definition.",
+"sources": [
+{
+"date": "2018-02-12",
+"name": "DoD Manual 5205.07 Volume 1, 18 June 2015, Change 1 12 February 2018",
+"url": "https://web.archive.org/web/20191018064106/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol1.pdf"
+}
+],
+"tier": "A",
+"type": "institutional"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "2012-01-01",
+"deg": 5,
+"denials": [],
+"desc": "The DoD SAP Security Manual is issued in four volumes under number 5205.07: Volume 1, General Procedures (18 June 2015, Change 1 12 February 2018); Volume 2, Personnel Security; Volume 3, Physical Security; and Volume 4, Marking. Volume 1 is the volume that carries the carve-out definition and the DSS relief provision, and is the only volume this board has been able to obtain in full from an archived copy of the DoD Issuances site; the current live URLs at esd.whs.mil for volumes 1 through 4 return errors to unauthenticated retrieval as of 12 August 2026, which is itself a finding worth recording. Volume 1 states its own lineage: it 'Assigns responsibilities, implements policy established in DoD Instruction (DoDI) 5205.11 ... and describes the general procedures for the administration of DoD SAP security' and 'Incorporates and cancels Revision 1 Department of Defense Overprint to the National Industrial Security Program (NISP) Operating Manual Supplement'. That last clause is the historical bridge: the security rules for contractor SAPs used to live as an overprint to the NISPOM Supplement, i.e. as a special-case annex to the industrial security system, and were pulled out into a standalone DoD manual - moving contractor SAP security further from the NISP baseline that DCSA inspects.",
+"domains": [
+"_rs-archive-mirror",
+"_rs-sap-docs",
+"w2-sap-architecture"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "2",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "dodm-5205-07-series",
+"l0": false,
+"label": "DoDM 5205.07 — DoD SAP Security Manual (Volumes 1-4)",
+"locLabel": null,
+"members": null,
+"short": "DoDM 5205.07 — DoD SAP Security Manual (Volumes 1-4)",
+"sources": [
+{
+"date": "2026-05-18",
+"name": "Archived: DoDM 5205.07 Volume 4, 'Special Access Program (SAP) Security Manual: Marking', 10 Oct 2013, Incorporating Change 2, effective 8 September 2020 (Wayback 2026-05-18)",
+"url": "https://web.archive.org/web/20260518063205/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507-V4p.PDF"
+},
+{
+"date": "2018-02-12",
+"name": "DoDM 5205.07 Volume 1, 'DoD SAP Security Manual: General Procedures', 18 June 2015, Incorporating Change 1, 12 Feb 2018 (Internet Archive capture, 18 Oct 2019)",
+"url": "https://web.archive.org/web/20191018064106/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol1.pdf"
+},
+{
+"date": "2020-09-30",
+"name": "DoDM 5205.07 Volume 1, General Procedures, Incorporating Change 2, effective 30 September 2020 (Internet Archive capture, 18 Oct 2020)",
+"url": "https://web.archive.org/web/20201018165753/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol01.pdf"
+},
+{
+"date": "2020-10-30",
+"name": "DoDM 5205.07 Volume 2, 'SAP Security Manual: Personnel Security', 24 Nov 2015, Incorporating Change 2, effective 30 Oct 2020 (Internet Archive capture, 5 Mar 2025)",
+"url": "https://web.archive.org/web/20250305140253/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol2.pdf"
+},
+{
+"date": "2018-02-12",
+"name": "DoDM 5205.07 Volume 3, 'DoD SAP Security Manual: Physical Security', 23 April 2015, Incorporating Change 2, effective 12 Feb 2018 (Internet Archive capture, 21 Oct 2020)",
+"url": "https://web.archive.org/web/20201021110139/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol3.pdf"
+},
+{
+"date": "2020-09-08",
+"name": "DoDM 5205.07 Volume 4, 'Special Access Program (SAP) Security Manual: Marking', 10 Oct 2013, Incorporating Change 2, effective 8 September 2020",
+"url": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507-V4p.PDF"
+}
+],
+"sub": "dod-issuance",
+"tier": "A",
+"tierRationale": "Re-graded A on a global pass (rank 65 of 1027, score 73). 5 connections, 4 of them custody/witness/funding/programmatic. Axes C1/A3/D1.",
+"timeline": []
+}

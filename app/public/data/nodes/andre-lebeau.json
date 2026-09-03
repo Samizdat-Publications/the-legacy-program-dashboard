@@ -1,0 +1,115 @@
+{
+"A": 1,
+"C": 0,
+"D": 2,
+"affiliations": [
+"cnes",
+"cometa"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "1999-07",
+"event": "Publishes forward to the COMETA report",
+"precision": "month"
+}
+],
+"claims": [
+{
+"source": "CNES CP009-2013, 28 February 2013 https://cnes.fr/sites/default/files/migration/automne/pPressReleases/2013_02/r7125_81_cp009-2013_-_hommage_andre_lebeau.pdf",
+"text": "CNES's own press release on Lebeau's death gives his career: he founded and directed the Groupe de recherches ionosphériques from 1961, became 'Directeur des programmes et du plan du CNES' in 1965 and then 'Directeur général adjoint, chargé des programmes et de la politique industrielle', joined ESA in 1975 rising to Deputy Director General, was Directeur de la Météorologie Nationale and then Directeur général de Météo France, President of Eumetsat from 1990, Vice-President of the World Meteorological Organization 1991-1994, and 'président du CNES (1995-1996)'.",
+"tier": 1
+},
+{
+"source": "CNES CP009-2013, 28 February 2013 https://cnes.fr/sites/default/files/migration/automne/pPressReleases/2013_02/r7125_81_cp009-2013_-_hommage_andre_lebeau.pdf",
+"text": "The same release records that he took part in the second French Antarctic expedition in 1958, building the Dumont d'Urville base in Adélie Land, was an alumnus of the École Normale Supérieure (Ulm), agrégé de sciences physiques and docteur ès sciences, held the chair of Space Techniques and Programmes at the CNAM for many years, and died aged 80 on 26 February 2013.",
+"tier": 1
+},
+{
+"source": "COMETA report (English edition), forward by Professor André Lebeau, 1999",
+"text": "Lebeau's forward is titled 'Stripping the UFO phenomenon of its irrational layer' and is signed 'Former chairman of the Centre National d'Etudes Spatiales (CNES)'.",
+"tier": 1
+},
+{
+"source": "COMETA report, Letty foreword, 1999",
+"text": "Letty: COMETA would not have been born without General Bernard Norlain and 'Mr. Andre Lebeau, former chairman of the Centre National d'Etudes Spatiales'.",
+"tier": 1
+}
+],
+"cls": "person",
+"cluster": "other",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "1999",
+"dateStart": "1999",
+"direction": "out",
+"edgeLabel": "former CNES chairman; wrote the forward",
+"id": "cometa",
+"l0": true,
+"label": "COMETA - Comité d'Études Approfondies",
+"note": "Letty states that without Norlain and Lebeau 'COMETA would not have been born'.",
+"sources": [
+{
+"date": "1999-07-01",
+"name": "COMETA report",
+"url": "https://ia800403.us.archive.org/17/items/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D.pdf"
+}
+],
+"tier": "A",
+"type": "institutional"
+}
+],
+"date": "1999-07-01",
+"dateEnd": null,
+"dateStart": "1999-07-01",
+"deg": 1,
+"denials": [],
+"domains": [
+"w16-thin-people",
+"w2-international"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "1",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "andre-lebeau",
+"instId": "cnes",
+"l0": false,
+"label": "Professeur André Lebeau",
+"loc": "Paris, France",
+"locId": "l-paris",
+"members": null,
+"narrative": "André Lebeau, a former chairman of the Centre National d'Études Spatiales - the French national space agency, and therefore of the parent body of GEPAN, SEPRA and GEIPAN - wrote the opening forward to the COMETA report under the title 'Stripping the UFO phenomenon of its irrational layer'. Denis Letty states in his own foreword that without Lebeau and Norlain 'COMETA would not have been born'. Lebeau's contribution matters because it is the head of the agency that actually holds France's official UAP case file lending his name to the argument that the subject is a legitimate object of science, and his forward opens by conceding the professional cost: 'It is not looked on highly in certain scientific circles to be preoccupied with phenomena that are deemed to come under the heading of popular mythology', and drawing the analogy to stones falling from the sky - meteorites - which science rejected for centuries before accepting. That analogy is picked up in the report's own conclusion.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Professeur André Lebeau",
+"sources": [
+{
+"date": "2026-08-25",
+"name": "CNES, communiqué de presse CP009-2013, 'Le CNES rend hommage à André Lebeau', 28 février 2013",
+"url": "https://cnes.fr/sites/default/files/migration/automne/pPressReleases/2013_02/r7125_81_cp009-2013_-_hommage_andre_lebeau.pdf"
+},
+{
+"date": "1999-07-01",
+"name": "COMETA report (English edition), Lebeau forward",
+"url": "https://ia800403.us.archive.org/17/items/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D.pdf"
+}
+],
+"status": "active",
+"sub": "Former President/Chairman of CNES; COMETA forward author",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 749 of 1027, score 20). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D2.",
+"timeline": [],
+"unexplainedResidual": null,
+"unverified": [
+"Lebeau's dates of birth and death and his exact CNES tenure were not confirmed from a CNES source in this pass; status recorded as dead on general knowledge and should be verified before publication."
+]
+}

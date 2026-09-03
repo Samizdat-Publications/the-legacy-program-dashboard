@@ -1,0 +1,174 @@
+{
+"A": 0,
+"C": 0,
+"D": 3,
+"band": null,
+"claims": [
+{
+"source": "The Debrief, About page, retrieved 12 August 2026",
+"text": "The Debrief's founders are Micah Hanks (Co-Founder/Creator, Editor-in-Chief), Tim McMillan (Co-Founder, Executive Director) and MJ Banias (Co-Founder, Content Director); staff include Chrissy Newton, Chris Plain and Steve McDaniel; contributors include Avi Loeb.",
+"tier": 1
+},
+{
+"source": "The Debrief; corroborated by Wikipedia entries for Leslie Kean and Ralph Blumenthal — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"text": "The Debrief published Kean and Blumenthal's David Grusch story on 5 June 2023.",
+"tier": 2
+},
+{
+"source": "The Debrief archive, retrieved 12 August 2026",
+"text": "The Debrief has published sustained coverage of the disclosure fight including 'Immaculate Constellation: UAP Bombshell or Disinformation?', 'The 2024 AARO Report', 'Where The Second UAP Disclosure Act Failure May Now Steer The Ark of Human History' and 'Former Officials Warn Lawmakers of Alleged Secret UAP Programs Operating Beyond Congressional Oversight'.",
+"tier": 1
+}
+],
+"cls": "institution",
+"cluster": "media",
+"connections": [
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "2023",
+"dateStart": "2023",
+"direction": "in",
+"edgeLabel": "The Debrief published the Grusch story the NYT did not run",
+"id": "leslie-kean",
+"l0": false,
+"label": "Leslie Kean",
+"note": "The same authors whose AATIP scoop the New York Times published in 2017 took the 2023 Grusch story to The Debrief. The placement, not the verification, is the notable fact.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "The Debrief - About",
+"url": "https://thedebrief.org/about/"
+}
+],
+"tier": "B",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "2026",
+"dateStart": "2020",
+"direction": "in",
+"edgeLabel": "Co-founder, Creator and Editor-in-Chief",
+"id": "micah-hanks",
+"l0": false,
+"label": "Micah Hanks",
+"note": "Named on The Debrief's About page.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "The Debrief - About",
+"url": "https://thedebrief.org/about/"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 3,
+"cls": "event",
+"dateEnd": "2023",
+"dateStart": "2017",
+"direction": "out",
+"edgeLabel": "Successor venue to the 2017 New York Times story",
+"id": "nyt-2017-12-16",
+"l0": true,
+"label": "New York Times, 'Glowing Auras and Black Money: The Pentagon's Mysterious U.F.O. Program'",
+"note": "The 2017 NYT article and the 2023 Debrief article share two of three authors and a continuous line of argument; the change of venue between them is a data point about institutional appetite, not about the reporting.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "The Debrief - About",
+"url": "https://thedebrief.org/about/"
+}
+],
+"tier": "A",
+"type": "temporal"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "2026",
+"dateStart": "2020",
+"direction": "in",
+"edgeLabel": "Co-founder and Executive Director",
+"id": "tim-mcmillan",
+"l0": false,
+"label": "Tim McMillan",
+"note": "Named on The Debrief's About page as Co-Founder and Executive Director.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "The Debrief - About",
+"url": "https://thedebrief.org/about/"
+}
+],
+"tier": "C",
+"type": "institutional"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "2020",
+"deg": 4,
+"denials": [],
+"desc": "The Debrief is the outlet of record for this subject, and the circumstances of its most important story tell you why an outlet of record was needed. Co-founded by Micah Hanks (Editor-in-Chief), Tim McMillan (Executive Director) and MJ Banias (Content Director), with Chrissy Newton, Chris Plain and contributors including Avi Loeb, it describes itself as 'Rebelliously Curious in Exploring Frontier Science and Innovative Technology' and commits to reporting that is 'intellectually honest; skeptical, but open-minded when evidence of new scientific possibilities exists; and grounded in evidence.' On 5 June 2023 The Debrief published Leslie Kean and Ralph Blumenthal's David Grusch story after the New York Times - which had carried the same authors' 2017 AATIP scoop - did not run it. That transfer is one of the cleanest documented illustrations of institutional press behaviour on this subject: the story did not fail verification, it failed placement. Since then The Debrief has maintained the continuous trade record the field lacks - Micah Hanks' 17 October 2024 Immaculate Constellation report, coverage of the AARO annual reports, analysis of the UAP Disclosure Act's repeated defeats, and reporting on the drone incursions over US bases.",
+"domains": [
+"media-structure"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "the-debrief",
+"l0": false,
+"label": "The Debrief",
+"locLabel": null,
+"members": null,
+"short": "The Debrief",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "The Debrief - About",
+"url": "https://thedebrief.org/about/"
+},
+{
+"date": "2024-10-17",
+"name": "The Debrief - Immaculate Constellation coverage",
+"url": "https://thedebrief.org/immaculate-constellation-uap-bombshell-or-disinformation/"
+},
+{
+"date": "2024-11-13",
+"name": "The Debrief - 'Former Officials Warn Lawmakers of Alleged Secret UAP Programs Operating Beyond Congressional Oversight'",
+"url": "https://thedebrief.org/former-officials-warn-lawmakers-of-alleged-secret-uap-programs-operating-beyond-congressional-oversight/"
+}
+],
+"sub": "Independent science and defence outlet",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 811 of 1027, score 18). 4 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.",
+"timeline": [
+{
+"date": "2023-06-05",
+"id": "ms-2023-grusch",
+"label": "Grusch story published by The Debrief",
+"precision": "day",
+"strand": "witness",
+"text": "Kean and Blumenthal publish David Grusch's claim that the US operates a multi-decade crash retrieval and reverse-engineering programme. The New York Times, which ran their 2017 scoop, does not run it; The Debrief does.",
+"tier": "A"
+},
+{
+"date": "2023-06-05",
+"id": "ms-cv-2023-nyt-decline",
+"label": "The paper of record declines the Grusch story",
+"precision": "day",
+"strand": "coverup",
+"text": "Leslie Kean and Ralph Blumenthal, whose 2017 AATIP scoop the New York Times published, take the David Grusch story to The Debrief instead. The story did not fail verification; it failed placement. The change of venue is an artefact of institutional appetite and belongs in the concealment record, not the journalism record.",
+"tier": "A"
+}
+]
+}

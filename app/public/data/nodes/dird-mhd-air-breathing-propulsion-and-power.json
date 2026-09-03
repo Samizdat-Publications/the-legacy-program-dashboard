@@ -1,0 +1,242 @@
+{
+"A": 0,
+"C": 0,
+"D": 0,
+"band": null,
+"claims": [
+{
+"source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237629/",
+"text": "Defense Intelligence Reference Document titled \"MHD Air Breathing Propulsion and Power for Aerospace Applications\", series \"Defense Futures\", published 2010-11-21 with an Intelligence Cut-Off Date (ICOD) of 2010-07-20, DIA document number DIA-08-1011-006. Released by DIA under FOIA and posted in the DIA FOIA Electronic Reading Room.",
+"tier": 1
+},
+{
+"source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237629/",
+"text": "Inside cover reads: \"This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency [redacted b(3) 10 USC 424] Advanced Aerospace Weapon System Applications (AAWSA) Program\" and directs questions to the \"AAWSA Program Manager, Defense Intelligence Agency, ATTN: [redacted], Bldg 6000, Washington, DC 20340-5100\".",
+"tier": 1
+},
+{
+"source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237629/",
+"text": "Author name is withheld in the DIA-released copy under FOIA exemption (b)(6); the \"Prepared by:\" line is withheld under (b)(3) 10 USC 424. The released cover therefore does not attribute the DIRD to a named author.",
+"tier": 1
+},
+{
+"source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_33-DIRD_MHD_Air_Breathing_Propulsion_and_Power_for_Aerospace_Applications.pdf",
+"text": "Cover page reads: '21 November 2010 / ICOD: 20 July 2010 / DIA-08-1011-006 / Defense Intelligence Reference Document / Defense Futures / MHD Air Breathing Propulsion and Power for Aerospace Applications'.",
+"tier": 1
+},
+{
+"source": "https://irp.fas.org/dia/aatip-list.pdf",
+"text": "Attributed on the DIA list of AATIP/AAWSAP products supplied to the Senate Armed Services Committee to 'Dr S Macheret, Lockheed Martin', where the title is given in full as 'Magnetohydrodynamics (MHD) Air Breathing Propulsion and Power for Aerospace Applications'.",
+"tier": 1
+},
+{
+"source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237629/",
+"text": "Also held in the DIA FOIA Electronic Reading Room as a 32-page released document.",
+"tier": 1
+}
+],
+"cls": "document",
+"cluster": "other",
+"connections": [
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "produced under the AAWSA/AAWSAP contract",
+"id": "aawsap",
+"l0": true,
+"label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)",
+"note": "The released document names the programme itself. Its inside cover reads 'This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency ... Advanced Aerospace Weapon System Applications (AAWSA) Program' - the redaction between them is (b)(3):10 USC 424. Verified by downloading this DIRD and scanning its full text on 23 August 2026. The scans are OCR-degraded, so the quotation is normalised from the damaged rendering.",
+"sources": [
+{
+"date": null,
+"name": "documents2.theblackvault.com",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_33-DIRD_MHD_Air_Breathing_Propulsion_and_Power_for_Aerospace_Applications.pdf"
+},
+{
+"date": "2010-11-21",
+"name": "DIA FOIA Reading Room — MHD Air Breathing Propulsion and Power for Aerospace Applications (PDF)",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237629/"
+}
+],
+"tier": "A",
+"type": "programmatic"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "DIRD",
+"id": "dird-series",
+"l0": true,
+"label": "The 38 Defense Intelligence Reference Documents (DIRDs)",
+"note": "Membership of the DIRD series is established by the released document itself: its cover page carries the Defense Intelligence Reference Document mark and the DIA Defense Futures banner. Publication date 21 November 2010 on the cover. 33 pages in the released copy. The cover of the scanned release is degraded, so a document number or date is asserted here only where it reads unambiguously.",
+"sources": [
+{
+"date": "2026-08-22",
+"name": "Released DIRD, 'MHD Air Breathing Propulsion and Power for Aerospace Applications' (FOIA copy, cover page read 22 August 2026)",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_33-DIRD_MHD_Air_Breathing_Propulsion_and_Power_for_Aerospace_Applications.pdf"
+},
+{
+"date": "2026-08-22",
+"name": "DIA FOIA Electronic Reading Room, AAWSAP/AATIP reference-document entry",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237629/"
+}
+],
+"tier": "A",
+"type": "programmatic"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "author's employer at time of writing (Skunk Works)",
+"id": "lockheed-martin",
+"l0": true,
+"label": "Lockheed Martin Corporation",
+"note": "Lockheed Martin is the affiliation recorded on the DIA congressional list. Macheret was a senior staff engineer at Lockheed Martin Aeronautics, Skunk Works, from 2006 to 2014, bracketing the document's ICOD and publication date. Lockheed Martin is credited with three of the 38 products on the DIA list.",
+"sources": [
+{
+"date": "2026-08-22",
+"name": "Released DIRD, 'MHD Air Breathing Propulsion and Power for Aerospace Applications' — FOIA copy, cover page read 22 August 2026",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_33-DIRD_MHD_Air_Breathing_Propulsion_and_Power_for_Aerospace_Applications.pdf"
+},
+{
+"date": "2026-08-22",
+"name": "DIA FOIA Electronic Reading Room entry for this reference document",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237629/"
+},
+{
+"date": "2026-08-23",
+"name": "DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations",
+"url": "https://fas.org/publication/aatip-list/"
+},
+{
+"date": null,
+"name": "https://irp.fas.org/dia/aatip-list.pdf",
+"url": "https://irp.fas.org/dia/aatip-list.pdf"
+},
+{
+"date": null,
+"name": "https://en.wikipedia.org/wiki/Sergey_Macheret",
+"url": "https://en.wikipedia.org/wiki/Sergey_Macheret"
+},
+{
+"date": null,
+"name": "https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk",
+"url": "https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "authored by",
+"id": "sergey-macheret",
+"l0": false,
+"label": "Sergey O. Macheret",
+"note": "The DIA congressional list credits 'Magnetohydrodynamics (MHD) Air Breathing Propulsion and Power for Aerospace Applications' to 'Dr S Macheret, Lockheed Martin'. Macheret is a plasma physicist (Ph.D., Kurchatov Institute) with a substantial peer-reviewed record in MHD flow control, and this DIRD is among the most conventionally grounded on the list.",
+"sources": [
+{
+"date": "2026-08-22",
+"name": "Released DIRD, 'MHD Air Breathing Propulsion and Power for Aerospace Applications' — FOIA copy, cover page read 22 August 2026",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_33-DIRD_MHD_Air_Breathing_Propulsion_and_Power_for_Aerospace_Applications.pdf"
+},
+{
+"date": "2026-08-22",
+"name": "DIA FOIA Electronic Reading Room entry for this reference document",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237629/"
+},
+{
+"date": "2026-08-23",
+"name": "DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations",
+"url": "https://fas.org/publication/aatip-list/"
+},
+{
+"date": null,
+"name": "https://irp.fas.org/dia/aatip-list.pdf",
+"url": "https://irp.fas.org/dia/aatip-list.pdf"
+},
+{
+"date": null,
+"name": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html",
+"url": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html"
+}
+],
+"tier": "C",
+"type": "research"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": null,
+"deg": 4,
+"denials": [],
+"desc": "DIA Defense Intelligence Reference Document (Defense Futures series), 2010-11-21, DIA-08-1011-006, produced under the Advanced Aerospace Weapon System Applications (AAWSA/AAWSAP) Program contract with BAASS. Released under FOIA.",
+"domains": [
+"_rs-aawsap-dirds",
+"_rs-archive-mirror",
+"w7-dirds-3"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "nd",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "dird-mhd-air-breathing-propulsion-and-power",
+"l0": false,
+"label": "MHD Air Breathing Propulsion and Power for Aerospace Applications",
+"locLabel": null,
+"members": null,
+"short": "MHD Air Breathing Propulsion and Power for Aerospace Applications",
+"sources": [
+{
+"date": "2010-11-21",
+"name": "DIA FOIA Reading Room — MHD Air Breathing Propulsion and Power for Aerospace Applications (PDF)",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237629/"
+},
+{
+"date": "2022-03",
+"name": "DIA FOIA Electronic Reading Room — AAWSAP/AATIP collection",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/"
+},
+{
+"date": "2026-01-16",
+"name": "Archived: DIA FOIA Reading Room — MHD Air Breathing Propulsion and Power for Aerospace Applications (PDF) (Wayback 2026-01-16)",
+"url": "https://web.archive.org/web/20260116164255/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170038/"
+},
+{
+"date": "2026-06-11",
+"name": "Archived: DIA FOIA Electronic Reading Room — AAWSAP/AATIP collection (Wayback 2026-06-11)",
+"url": "https://web.archive.org/web/20260611124158/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/"
+},
+{
+"date": null,
+"name": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_33-DIRD_MHD_Air_Breathing_Propulsion_and_Power_for_Aerospace_Applications.pdf",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_33-DIRD_MHD_Air_Breathing_Propulsion_and_Power_for_Aerospace_Applications.pdf"
+},
+{
+"date": null,
+"name": "https://irp.fas.org/dia/aatip-list.pdf",
+"url": "https://irp.fas.org/dia/aatip-list.pdf"
+}
+],
+"sub": "defense-intelligence-reference-document",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 522 of 1027, score 28). 4 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A0/D0.",
+"timeline": []
+}

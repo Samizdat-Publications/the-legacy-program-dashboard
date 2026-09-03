@@ -1,0 +1,160 @@
+{
+"A": 0,
+"C": 0,
+"D": 3,
+"band": null,
+"claims": [
+{
+"source": "The National Archives, UFO files page, June 2013",
+"text": "The final released tranche covers 'the final two years of the Ministry of Defence's UFO Desk (from late 2007 until November 2009)' and its stated highlights include 'the reasons behind the closure of the UFO desk' and 'the handling of the largest number of UFO sighting reports received in 30 years'.",
+"tier": 1
+},
+{
+"source": "Sky HISTORY, 'Remembering Nick Pope: 1965 - 2026', 2 May 2026",
+"text": "'The MoD eventually closed its UFO desk in 2009, having deemed it surplus to the UK's defence requirements.'",
+"tier": 2
+},
+{
+"source": "Inference from Condign Executive Summary para 15 and the TNA description of the closure files",
+"text": "The closure is the delayed execution of Condign's key recommendation rather than an independent 2009 judgement. Reasoning: Condign's key recommendation in 2000 was that DI55 should no longer be required to monitor UAP reports and that the database should not be maintained; the desk that fed that database was wound up in 2009 on the same stated ground of no defence value.",
+"tier": 3
+}
+],
+"cls": "event",
+"cluster": "oversight",
+"connections": [
+{
+"claimTier": 3,
+"cls": "document",
+"dateEnd": "2009-12",
+"dateStart": "2000",
+"direction": "in",
+"edgeLabel": "key recommendation executed nine years later",
+"id": "doc-condign-report",
+"l0": true,
+"label": "Unidentified Aerial Phenomena in the UK Air Defence Region (DIS Scientific & Technical Memorandum 55/2/00)",
+"note": "Condign's single key recommendation was that DI55 should no longer be required to monitor UAP reports and that the database should not be maintained; the desk that fed it closed in 2009 on the same stated ground.",
+"sources": [
+{
+"date": "2006-05-15",
+"name": "Condign Executive Summary",
+"url": "https://archive.org/download/condign-vol-2-1-258/uap_vol1_pgs87to99_ch4to5_djvu.txt"
+},
+{
+"date": "2013-06-01",
+"name": "TNA UFO files, June 2013",
+"url": "https://web.archive.org/web/20130701000000/http://www.nationalarchives.gov.uk/ufos/"
+}
+],
+"tier": "A",
+"type": "programmatic"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2013",
+"dateStart": "2009",
+"direction": "in",
+"edgeLabel": "principal public critic of the 2009 closure",
+"id": "nick-pope",
+"l0": false,
+"label": "Nick Pope",
+"note": "The National Archives records that the closure sparked a disclosure campaign; Pope was its most prominent voice and the only former desk officer speaking publicly.",
+"sources": [
+{
+"date": "2013-06-01",
+"name": "TNA UFO files, June 2013",
+"url": "https://web.archive.org/web/20130701000000/http://www.nationalarchives.gov.uk/ufos/"
+},
+{
+"date": "2026-05-02",
+"name": "Sky HISTORY",
+"url": "https://www.history.co.uk/articles/remembering-nick-pope"
+}
+],
+"tier": "C",
+"type": "denial"
+}
+],
+"coords": null,
+"dateEnd": "2009-12",
+"dateStart": "2009-11",
+"deg": 2,
+"denials": [
+{
+"by": {
+"id": "nick-pope",
+"label": "Nick Pope"
+},
+"claimTier": 2,
+"denialKind": "association",
+"label": "principal public critic of the 2009 closure",
+"note": "The National Archives records that the closure sparked a disclosure campaign; Pope was its most prominent voice and the only former desk officer speaking publicly.",
+"of": {
+"id": "ev-uk-ufo-desk-closure",
+"label": "Closure of the MoD UFO Desk, 1 December 2009"
+},
+"sources": [
+{
+"date": "2013-06-01",
+"name": "TNA UFO files, June 2013",
+"url": "https://web.archive.org/web/20130701000000/http://www.nationalarchives.gov.uk/ufos/"
+},
+{
+"date": "2026-05-02",
+"name": "Sky HISTORY",
+"url": "https://www.history.co.uk/articles/remembering-nick-pope"
+}
+]
+}
+],
+"desc": "The Ministry of Defence closed its UFO desk with effect from the end of 2009, ending the United Kingdom's public UAP reporting channel and its dedicated hotline. The National Archives' own framing of the final file tranche places the closure in November 2009 and records two things about it that matter: the desk was closed in the same period in which it was handling 'the largest number of UFO sighting reports received in 30 years', and the closure itself 'sparked' a 'disclosure campaign for the truth'. The closure implements, nine years later, the single key recommendation of the Defence Intelligence Staff's own Project Condign study - that it should no longer be a requirement for DI55 to monitor UAP reports - and it took effect just as the United States was standing its DIA advanced aerospace work up rather than down. Nick Pope, the desk's best-known former officer, became the principal public critic of the decision.",
+"domains": [
+"w2-international"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "2",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "ev-uk-ufo-desk-closure",
+"l0": false,
+"label": "Closure of the MoD UFO Desk, 1 December 2009",
+"locLabel": null,
+"members": null,
+"short": "Closure of the MoD UFO Desk, 1 December 2009",
+"sources": [
+{
+"date": "2013-06-01",
+"name": "TNA UFO files - June 2013 release",
+"url": "https://web.archive.org/web/20130701000000/http://www.nationalarchives.gov.uk/ufos/"
+},
+{
+"date": "2006-05-15",
+"name": "Condign Executive Summary - Study Recommendations",
+"url": "https://archive.org/download/condign-vol-2-1-258/uap_vol1_pgs87to99_ch4to5_djvu.txt"
+},
+{
+"date": "2026-05-02",
+"name": "Sky HISTORY - Remembering Nick Pope",
+"url": "https://www.history.co.uk/articles/remembering-nick-pope"
+}
+],
+"sub": "UK terminates its public UAP reporting channel",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 739 of 1027, score 21). 2 connections, 1 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D3.",
+"timeline": [
+{
+"date": "2009-12-01",
+"id": "tl-intl-2009-closure",
+"label": "The MoD closes the UFO desk",
+"precision": "day",
+"strand": "coverup",
+"text": "Britain terminates its public UAP reporting channel with effect from December 2009, in the same period in which it was handling the largest volume of sighting reports in thirty years. The National Archives records that the closure 'sparked' a disclosure campaign.",
+"tier": 1
+}
+]
+}

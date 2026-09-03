@@ -1,0 +1,129 @@
+{
+"A": 3,
+"C": 2,
+"D": 0,
+"band": null,
+"claims": [
+{
+"source": "NSF NCSES Master Government List of FFRDCs; CRS Report R44629 funding table",
+"text": "LLNL is a DOE FFRDC administered by Lawrence Livermore National Security, LLC since 1 October 2007 and was funded at approximately $2,188.8 million in FY2024.",
+"tier": 1
+},
+{
+"source": "LLNL institutional history",
+"text": "Edward Teller was a co-founder of the Livermore laboratory in 1952 and its director from 1958 to 1960.",
+"tier": 1
+},
+{
+"source": "Structural inference from US classification law",
+"text": "Restricted Data classification under the Atomic Energy Act is statutory rather than executive-order-derived, so material in that category is not released by a presidential declassification directive of the kind driving the 2026 PURSUE releases - making the DOE weapons laboratories the most durable remaining shelter for concealed technical work. Reasoning: legal structure of the Atomic Energy Act versus E.O. 13526; no evidence is offered that UAP material is so classified.",
+"tier": 3
+}
+],
+"cls": "institution",
+"cluster": "ffrdc",
+"connections": [
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "1952",
+"direction": "out",
+"edgeLabel": "DOE weapons laboratory operating under Atomic Energy Act classification authority",
+"id": "doe",
+"l0": true,
+"label": "United States Department of Energy",
+"note": "Restricted Data classification is statutory rather than executive-order-derived, and is therefore untouched by presidential declassification directives of the kind driving the 2026 PURSUE releases.",
+"sources": [
+{
+"date": "2026-05-15",
+"name": "CRS Report R44629",
+"url": "https://www.everycrsreport.com/reports/R44629.html"
+}
+],
+"tier": "A",
+"type": "funding"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "1952",
+"direction": "in",
+"edgeLabel": "DOE/NNSA management and operating contract; Lawrence Livermore",
+"id": "doe",
+"l0": true,
+"label": "United States Department of Energy",
+"note": "Livermore is an NNSA weapons laboratory operating under DOE classification authority rather than DoD SAP authority.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "NNSA - About NNSA",
+"url": "https://www.energy.gov/nnsa/about-nnsa"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "1960",
+"dateStart": "1952",
+"direction": "in",
+"edgeLabel": "Co-founder and director of the Livermore laboratory",
+"id": "edward-teller",
+"l0": false,
+"label": "Edward Teller",
+"note": "The scientist present at the first US conference on anomalous objects over nuclear sites went on to found the second weapons design laboratory.",
+"sources": [
+{
+"date": "2026-05-15",
+"name": "CRS Report R44629",
+"url": "https://www.everycrsreport.com/reports/R44629.html"
+}
+],
+"tier": "C",
+"type": "institutional"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "1952",
+"deg": 2,
+"denials": [],
+"desc": "Livermore is the second nuclear design laboratory, founded in 1952 at Edward Teller's urging as a competitor to Los Alamos, and administered since 1 October 2007 by Lawrence Livermore National Security, LLC - a consortium including the University of California and Bechtel. It was funded at approximately 2,188.8 million dollars in FY2024. Its place on this board is structural rather than evidentiary. Livermore holds the national capability in high-energy-density physics, advanced materials characterisation, and directed energy - precisely the disciplines any exploitation programme would need - and it operates under Q clearance and DOE's separate Restricted Data classification regime, which is the one authority in the US system that is not derived from executive order and therefore not reachable by a presidential declassification directive alone. That distinction matters enormously in 2026: the PURSUE releases proceed under executive authority, but material classified as Restricted Data under the Atomic Energy Act does not move on that authority. No document has been produced placing Livermore in any UAP programme. It is catalogued here because the Atomic Energy Act pathway is the most plausible remaining legal shelter for a concealed programme after the executive-order pathway has been opened, and Livermore is one of the three laboratories that live inside it.",
+"domains": [
+"ffrdcs"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "llnl",
+"l0": false,
+"label": "Lawrence Livermore National Laboratory",
+"locLabel": null,
+"members": null,
+"short": "Lawrence Livermore National Laboratory",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "NSF NCSES - Master Government List of Federally Funded R&D Centers",
+"url": "https://ncses.nsf.gov/resource/master-gov-lists-ffrdc"
+},
+{
+"date": "2026-05-15",
+"name": "CRS Report R44629 - Federally Funded Research and Development Centers (FFRDCs)",
+"url": "https://www.everycrsreport.com/reports/R44629.html"
+}
+],
+"sub": "DOE FFRDC administered by Lawrence Livermore National Security, LLC since 1 October 2007; Livermore, CA",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 478 of 1027, score 30). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A3/D0.",
+"timeline": []
+}

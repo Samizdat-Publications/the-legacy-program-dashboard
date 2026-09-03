@@ -1,0 +1,134 @@
+{
+"A": 1,
+"C": 1,
+"D": 3,
+"band": null,
+"claims": [
+{
+"source": "National Archives, archives.gov/uap",
+"text": "NARA established Record Group 615, the Unidentified Anomalous Phenomena Records Collection, pursuant to Secs. 1841-1843 of P.L. 118-31.",
+"tier": 1
+},
+{
+"source": "P.L. 118-31, Sec. 1841(b)(2), GPO",
+"text": "Sec. 1841(b)(2) requires records to be available for inspection at the National Archives within 30 days of transmission and online within a further 180 days.",
+"tier": 1
+},
+{
+"source": "National Archives, archives.gov/uap",
+"text": "NARA states it will add UAP records to RG 615 'on an ongoing, rolling basis as they are received from federal agencies' — the transmission trigger rests with the agencies, not the Archivist.",
+"tier": 1
+}
+],
+"cls": "institution",
+"cluster": "oversight",
+"connections": [
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2025-01-01",
+"direction": "in",
+"edgeLabel": "NARA holds and describes the FAA series at College Park, Electronic Records",
+"id": "faa",
+"l0": false,
+"label": "Federal Aviation Administration",
+"note": "NARA holds and describes the FAA series at the National Archives at College Park, Electronic Records, and publishes its metadata export.",
+"sources": [
+{
+"date": "2026-09-02",
+"name": "National Archives Catalog metadata export, NAID 493468575",
+"url": "https://catalog.archives.gov/medialz/bulk-downloads/uaps/JSON/catalog-export-493468575.json"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "1953",
+"direction": "in",
+"edgeLabel": "surviving records held in Record Group 330",
+"id": "research-development-board",
+"l0": false,
+"label": "Research and Development Board",
+"note": "NARA's finding aid lists, at 330.11.3, 'Minutes of meetings of the Executive Council, 1946-50' and 'Records of the Committee on Technical Information, 1946-53'.",
+"sources": [
+{
+"date": "2026-08-30",
+"name": "Guide to Federal Records in the National Archives, Record Group 330",
+"url": "https://www.archives.gov/research/guide-fed-records/groups/330.html"
+}
+],
+"tier": "B",
+"type": "custody"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2024",
+"direction": "out",
+"edgeLabel": "NARA is custodian without power to compel transmission",
+"id": "uap-records-collection-rg615",
+"l0": false,
+"label": "Unidentified Anomalous Phenomena Records Collection (NARA Record Group 615)",
+"note": "The Archivist must preserve, index and publish, but Secs. 1842 and 1843 put identification, transmission and postponement in the hands of the agencies and their original classification authorities.",
+"sources": [
+{
+"date": "2023-12-22",
+"name": "P.L. 118-31, FY2024 NDAA — GPO",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm"
+},
+{
+"date": "2025-04-24",
+"name": "National Archives — UAP records",
+"url": "https://www.archives.gov/uap"
+}
+],
+"tier": "B",
+"type": "custody"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "1934",
+"deg": 3,
+"denials": [],
+"desc": "NARA is the only executive-branch body given an affirmative disclosure duty by enacted UAP law. Under Sec. 1841 the Archivist must establish and maintain the Unidentified Anomalous Phenomena Records Collection, preserve physical integrity and original provenance or, where indeterminate, the earliest historical owner, publish a subject guidebook and index, maintain a central directory of identification aids, make records available for inspection within 30 days of transmission and online within 180 days thereafter, and charge only cost-recovery copying fees with waivers under the FOIA standard. NARA created Record Group 615 for the purpose and issued transfer guidance to agencies in April 2025. What NARA does not have is any power to make agencies send it anything: the identification, review and transmission duties in Sec. 1842 fall on the heads of Government offices, and the postponement decision in Sec. 1843 falls on the original classification authority. The Archivist is a custodian without a compulsion mechanism — which is exactly what the Review Board would have supplied.",
+"domains": [
+"congress-senate-legislation"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "national-archives",
+"l0": false,
+"label": "National Archives and Records Administration",
+"locLabel": null,
+"members": null,
+"short": "National Archives and Records Administration",
+"sources": [
+{
+"date": "2025-04-24",
+"name": "National Archives — UAP records",
+"url": "https://www.archives.gov/uap"
+},
+{
+"date": "2023-12-22",
+"name": "P.L. 118-31, Sec. 1841 — GPO",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm"
+}
+],
+"sub": "Custodian of the UAP Records Collection",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 444 of 1027, score 31). 3 connections, 2 of them custody/witness/funding/programmatic. Axes C1/A1/D3.",
+"timeline": []
+}

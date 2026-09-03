@@ -1,0 +1,108 @@
+{
+"A": 0,
+"C": 0,
+"D": 2,
+"band": null,
+"claims": [
+{
+"source": "Stringfield, Status Report VII, acknowledgements",
+"text": "Stringfield acknowledges past funding from the Fund for UFO Research in the acknowledgements to Status Report VII, February 1994.",
+"tier": 1
+},
+{
+"source": "The Roswell Report: Case Closed (1997), Section 1.4",
+"text": "The Air Force's 1997 report drew the Vern Maltais and Alice Knight statements it analysed from footage used to prepare the Fund for UFO Research video 'Recollections of Roswell Part II'.",
+"tier": 1
+},
+{
+"source": "Rodeghier and Whiting (1992), cited in the 1997 Air Force report",
+"text": "Fred Whiting of the Fund for UFO Research co-authored 'The Plains of San Agustin Controversy' (1992) with Mark Rodeghier of CUFOS, concluding against the reliability of Gerald Anderson.",
+"tier": 2
+}
+],
+"cls": "institution",
+"cluster": "research",
+"connections": [
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "1992",
+"dateStart": "1992",
+"direction": "out",
+"edgeLabel": "FUFOR co-authored the report against its own first-hand witness",
+"id": "gerald-anderson",
+"l0": false,
+"label": "Gerald Anderson",
+"note": "Fred Whiting for FUFOR with Mark Rodeghier for CUFOS. Cited at note 123 of the 1997 Air Force report.",
+"sources": [
+{
+"date": "1997-01-01",
+"name": "The Roswell Report: Case Closed (1997)",
+"url": "https://archive.org/details/AFD-101027-030"
+}
+],
+"tier": "C",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "1994-02",
+"dateStart": "1985",
+"direction": "out",
+"edgeLabel": "FUFOR funded Stringfield's later Status Reports",
+"id": "leonard-stringfield",
+"l0": false,
+"label": "Leonard H. Stringfield",
+"note": "Stringfield names the Fund for UFO Research first in the Status Report VII acknowledgements, thanking it for past funding.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Stringfield Status Reports 1-7 (scans)",
+"url": "https://archive.org/details/stringfield_Retrievals_Report_6_inner_sanctum_LQ"
+}
+],
+"tier": "C",
+"type": "funding"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "1979",
+"deg": 2,
+"denials": [],
+"desc": "The Fund for UFO Research was the civilian field's grant-maker, and its money and its affidavit programme are threaded through most of the primary material on this board. It funded Leonard Stringfield's later Status Reports, which he acknowledges by name in Status Report VII of February 1994. It ran the sworn-affidavit programme through which the Roswell witnesses - Walter Haut on 14 May 1993 among them - put their accounts into a form with legal consequences, an initiative that is the single most useful procedural innovation in the history of civilian UFO research, because it converted recollection into attestable statement. It produced the video 'Recollections of Roswell Part II', from which the Air Force's own 1997 report drew the Vern Maltais and Alice Knight footage it then used against the San Agustin claim. And, most creditably, its executive Fred Whiting joined Mark Rodeghier of CUFOS in 1992 to produce 'The Plains of San Agustin Controversy', an investigation that discredited the field's own star first-hand witness. That is the behaviour of a research organisation rather than an advocacy one, and it is why FUFOR material is graded higher on this board than most civilian output.",
+"domains": [
+"w2-retrieval-literature"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "1",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "fund-for-ufo-research",
+"l0": false,
+"label": "Fund for UFO Research",
+"locLabel": null,
+"members": null,
+"short": "Fund for UFO Research",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "UFO Crash Retrievals, Status Reports 1-7 by Leonard Stringfield - full scans",
+"url": "https://archive.org/details/stringfield_Retrievals_Report_6_inner_sanctum_LQ"
+},
+{
+"date": "1997-01-01",
+"name": "The Roswell Report: Case Closed (1997)",
+"url": "https://archive.org/details/AFD-101027-030"
+}
+],
+"sub": "US grant-making body for civilian UFO research, founded 1979",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 842 of 1027, score 17). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D2.",
+"timeline": []
+}

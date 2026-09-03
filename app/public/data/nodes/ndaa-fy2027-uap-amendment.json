@@ -1,0 +1,139 @@
+{
+"A": 0,
+"C": 0,
+"D": 3,
+"band": null,
+"claims": [
+{
+"source": "Newstalk KZRG, 23 July 2026",
+"text": "The House adopted Burlison's UAP records disclosure amendment as part of the FY2027 National Defense Authorization Act in July 2026; it would require agencies to identify, preserve and transfer UAP records to the National Archives on a statutory timeline and establish an independent UAP Records Review Board with Senate-confirmed members and subpoena authority.",
+"tier": 1
+},
+{
+"source": "Newstalk KZRG, 23 July 2026",
+"text": "The amendment's disclosure requirements extend to certain government contractors that possess covered records.",
+"tier": 1
+},
+{
+"source": "Disclosure advocacy reporting on the Rules Committee designation, 15 July 2026",
+"text": "The revised text was designated Version 2 on 15 July 2026 and made in order by the House Rules Committee.",
+"tier": 2
+}
+],
+"cls": "legislation",
+"cluster": "oversight",
+"connections": [
+{
+"claimTier": 1,
+"cls": "domain",
+"dateEnd": null,
+"dateStart": "2026",
+"direction": "out",
+"edgeLabel": "Would extend statutory disclosure to contractors holding covered records",
+"id": "d-ffrdc",
+"l0": false,
+"label": "The FFRDC Seam",
+"note": "The only proposed mechanism that would convert FFRDC holdings into records reachable by an independent review board with subpoena power, without sponsoring-agency consent.",
+"sources": [
+{
+"date": "2026-07-23",
+"name": "Newstalk KZRG",
+"url": "https://www.newstalkkzrg.com/2026/07/23/house-approves-burlison-amendment-creating-framework-for-uap-records-disclosure/"
+}
+],
+"tier": "B",
+"type": "legislative"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "2026",
+"direction": "in",
+"edgeLabel": "Author of the House-adopted UAP records disclosure amendment",
+"id": "eric-burlison",
+"l0": false,
+"label": "Eric Burlison",
+"note": "Revised text designated Version 2 on 15 July 2026 and adopted as part of the FY2027 NDAA later that month.",
+"sources": [
+{
+"date": "2026-07-23",
+"name": "Newstalk KZRG",
+"url": "https://www.newstalkkzrg.com/2026/07/23/house-approves-burlison-amendment-creating-framework-for-uap-records-disclosure/"
+}
+],
+"tier": "A",
+"type": "legislative"
+},
+{
+"claimTier": 2,
+"cls": "legislation",
+"dateEnd": null,
+"dateStart": "2026",
+"direction": "out",
+"edgeLabel": "Revives the review board and eminent-domain-era disclosure architecture stripped in 2023",
+"id": "uapda-2023",
+"l0": true,
+"label": "UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)",
+"note": "The FY2027 amendment restores the Senate-confirmed UAP Records Review Board with subpoena authority and a statutory transfer timeline to NARA.",
+"sources": [
+{
+"date": "2026-07-23",
+"name": "Newstalk KZRG",
+"url": "https://www.newstalkkzrg.com/2026/07/23/house-approves-burlison-amendment-creating-framework-for-uap-records-disclosure/"
+}
+],
+"tier": "A",
+"type": "legislative"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "2026",
+"deg": 3,
+"denials": [],
+"desc": "The legislative instrument that would close the FFRDC seam, and the reason the MITRE inquiry matters beyond one letter. Rep. Eric Burlison's revised UAP Disclosure Amendment was designated 'Version 2' on 15 July 2026, made in order by the House Rules Committee, and adopted by the House as part of the Fiscal Year 2027 National Defense Authorization Act in late July 2026. It would require federal agencies to identify, preserve and transfer UAP records to the National Archives on a statutory timeline, establish a permanent UAP records collection there, and create an independent UAP Records Review Board with Senate-confirmed members and subpoena authority to determine what is released and what stays classified. Critically for this domain, its disclosure requirements extend to certain government contractors that possess covered records - the provision that would convert FFRDC holdings from contractor records outside FOIA into covered federal records subject to a statutory review board. Burlison's stated rationale: 'The government belongs to the American people. For too long, UAP records have remained scattered.' The bill still has to survive the Senate and conference. Whether the contractor-records provision survives intact is the single most important open question on this board, because it is the only mechanism anyone has proposed that would reach inside an FFRDC without the sponsoring agency's consent.",
+"domains": [
+"ffrdcs"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "ndaa-fy2027-uap-amendment",
+"l0": false,
+"label": "Burlison UAP Records Disclosure Amendment, FY2027 NDAA",
+"locLabel": null,
+"members": null,
+"short": "Burlison UAP Records Disclosure Amendment, FY2027 NDAA",
+"sources": [
+{
+"date": "2026-07-23",
+"name": "Newstalk KZRG - House approves Burlison amendment creating framework for UAP records disclosure",
+"url": "https://www.newstalkkzrg.com/2026/07/23/house-approves-burlison-amendment-creating-framework-for-uap-records-disclosure/"
+},
+{
+"date": "2026-06-09",
+"name": "C-SPAN - Rep. Burlison and Others on UAP Declassification",
+"url": "https://www.c-span.org/program/news-conference/rep-burlison-and-others-on-uap-declassification/680727"
+}
+],
+"sub": "House-adopted amendment, July 2026; revised text designated Version 2, 15 July 2026, made in order by the House Rules Committee",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 829 of 1027, score 17). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.",
+"timeline": [
+{
+"date": "2026-07-23",
+"id": "tl-ffrdc-2026-amendment",
+"label": "House adopts the Burlison UAP records amendment",
+"precision": "day",
+"strand": "oversight",
+"text": "Attached to the FY2027 NDAA, it would require transfer of UAP records to NARA on a statutory timeline, create a Senate-confirmed Review Board with subpoena power, and extend disclosure duties to certain contractors holding covered records.",
+"tier": "A"
+}
+]
+}

@@ -1,0 +1,262 @@
+{
+"A": 0,
+"C": 0,
+"D": 0,
+"band": null,
+"claims": [
+{
+"source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237653/",
+"text": "Defense Intelligence Reference Document titled \"Cockpits in the Era of Breakthrough Flight\", series \"Defense Futures\", published 2010-11-01 with an Intelligence Cut-Off Date (ICOD) of 2010-07-08, DIA document number DIA-08-1011-002. Released by DIA under FOIA and posted in the DIA FOIA Electronic Reading Room.",
+"tier": 1
+},
+{
+"source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237653/",
+"text": "Inside cover reads: \"This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency [redacted b(3) 10 USC 424] Advanced Aerospace Weapon System Applications (AAWSA) Program\" and directs questions to the \"AAWSA Program Manager, Defense Intelligence Agency, ATTN: [redacted], Bldg 6000, Washington, DC 20340-5100\".",
+"tier": 1
+},
+{
+"source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237653/",
+"text": "Author name is withheld in the DIA-released copy under FOIA exemption (b)(6); the \"Prepared by:\" line is withheld under (b)(3) 10 USC 424. The released cover therefore does not attribute the DIRD to a named author.",
+"tier": 1
+},
+{
+"source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237653/",
+"text": "Released PDF is 57 pages, marked UNCLASSIFIED//FOR OFFICIAL USE ONLY (FOUO caveat partially illegible in the scan).",
+"tier": 1
+},
+{
+"source": "https://irp.fas.org/dia/aatip-list.pdf",
+"text": "The DIA list transmitted to the Senate Armed Services Committee on 9 January 2018 reads 'Cockpits in the Era of breakthrough Flight, Dr G Millis, Tau Zero.'",
+"tier": 1
+},
+{
+"source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_28-DIRD_Cockpits_in_the_Era_of_Breakthrough_Flight.pdf",
+"text": "The released cover page carries the date 1 November 2010, an Intelligence Cut-Off Date of 8 July 2010 and document number DIA-08-1011-002, under the 'Defense Futures' banner rather than 'Acquisition Threat Support'.",
+"tier": 1
+},
+{
+"source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_28-DIRD_Cockpits_in_the_Era_of_Breakthrough_Flight.pdf",
+"text": "The cover states the DIRD 'provides non-substantive but authoritative reference information related to intelligence topics or methodologies' and that the product is one of a series produced in FY 2009 under the DIA Advanced Aerospace Weapon System Applications (AAWSA) Program; the author field is redacted under (b)(6).",
+"tier": 1
+},
+{
+"source": "http://www.jbis.org.uk/paper.php?p=2013.66.278",
+"text": "An open-source counterpart, 'Cockpit considerations for Inertial-Affect and FTL Propulsion' by M. G. Millis, was published in the Journal of the British Interplanetary Society in 2013; its abstract addresses added degrees of motion, hover-to-superluminal speed range, new motion displays, and the loss of the pilot's inertial and visual cues.",
+"tier": 1
+}
+],
+"cls": "document",
+"cluster": "other",
+"connections": [
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "commissioned under AAWSAP, published in the 'Defense Futures' series",
+"id": "aawsap",
+"l0": true,
+"label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)",
+"note": "The cover carries DIA-08-1011-002, 1 November 2010, ICOD 8 July 2010, under the 'Defense Futures' banner. The administrative note confirms the product is one of a series produced in FY 2009 under the DIA Advanced Aerospace Weapon System Applications (AAWSA) Program. The shift from 'Acquisition Threat Support' to 'Defense Futures' across the later 2010 deliverables marks a change in the DIA office of record, from the Acquisition Support Division (DWO-3) to the Technology Warning Division (DWO-4) of the Defense Warning Office.",
+"sources": [
+{
+"date": null,
+"name": "documents2.theblackvault.com",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_28-DIRD_Cockpits_in_the_Era_of_Breakthrough_Flight.pdf"
+},
+{
+"date": "2010-11-01",
+"name": "DIA FOIA Reading Room — Cockpits in the Era of Breakthrough Flight (PDF)",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237653/"
+},
+{
+"date": null,
+"name": "https://earthtech.org/pubs/davis/",
+"url": "https://earthtech.org/pubs/davis/"
+}
+],
+"tier": "A",
+"type": "programmatic"
+},
+{
+"claimTier": 1,
+"cls": "domain",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "subject domain: crew-station design for breakthrough flight regimes",
+"id": "d-aerospace",
+"l0": false,
+"label": "Aerospace Engineering & Advanced Projects",
+"note": "The paper asks what a cockpit must look like once a vehicle has inertial control, a hover-to-superluminal speed range and no separation between near-ground, orbital and interstellar operating regimes, including the loss of the pilot's own inertia and visual motion cues. It is the only DIRD that reasons from observed flight behaviour back to onboard design constraints rather than to physics.",
+"sources": [
+{
+"date": "2026-08-22",
+"name": "Released DIRD, 'Cockpits in the Era of Breakthrough Flight' — FOIA copy, cover page read 22 August 2026",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_28-DIRD_Cockpits_in_the_Era_of_Breakthrough_Flight.pdf"
+},
+{
+"date": "2026-08-22",
+"name": "DIA FOIA Electronic Reading Room entry for this reference document",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237653/"
+},
+{
+"date": null,
+"name": "http://www.jbis.org.uk/paper.php?p=2013.66.278",
+"url": "http://www.jbis.org.uk/paper.php?p=2013.66.278"
+}
+],
+"tier": "B",
+"type": "research"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "DIRD",
+"id": "dird-series",
+"l0": true,
+"label": "The 38 Defense Intelligence Reference Documents (DIRDs)",
+"note": "Membership of the DIRD series is established by the released document itself: its cover page carries the Defense Intelligence Reference Document mark and the DIA Defense Futures banner. Publication date 01 November 2010 on the cover. 58 pages in the released copy. The cover of the scanned release is degraded, so a document number or date is asserted here only where it reads unambiguously.",
+"sources": [
+{
+"date": "2026-08-22",
+"name": "Released DIRD, 'Cockpits in the Era of Breakthrough Flight' (FOIA copy, cover page read 22 August 2026)",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_28-DIRD_Cockpits_in_the_Era_of_Breakthrough_Flight.pdf"
+},
+{
+"date": "2026-08-22",
+"name": "DIA FOIA Electronic Reading Room, AAWSAP/AATIP reference-document entry",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237653/"
+}
+],
+"tier": "A",
+"type": "programmatic"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "authored by Marc G. Millis, Tau Zero Foundation",
+"id": "marc-millis",
+"l0": false,
+"label": "Marc G. Millis",
+"note": "The DIA list of 9 January 2018 records 'Cockpits in the Era of breakthrough Flight, Dr G Millis, Tau Zero'. The released PDF's author block is redacted under (b)(6). Identification with Marc G. Millis, founder of the Tau Zero Foundation and former head of NASA's Breakthrough Propulsion Physics project, is supported by the Tau Zero affiliation on the DIA list, by the open-source counterpart published as 'M G Millis' in JBIS in 2013, and by The War Zone's identification of Marc Millis among the AATIP authors.",
+"sources": [
+{
+"date": "2026-08-22",
+"name": "Released DIRD, 'Cockpits in the Era of Breakthrough Flight' — FOIA copy, cover page read 22 August 2026",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_28-DIRD_Cockpits_in_the_Era_of_Breakthrough_Flight.pdf"
+},
+{
+"date": "2026-08-22",
+"name": "DIA FOIA Electronic Reading Room entry for this reference document",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237653/"
+},
+{
+"date": "2026-08-23",
+"name": "DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations",
+"url": "https://fas.org/publication/aatip-list/"
+},
+{
+"date": null,
+"name": "https://irp.fas.org/dia/aatip-list.pdf",
+"url": "https://irp.fas.org/dia/aatip-list.pdf"
+},
+{
+"date": null,
+"name": "http://www.jbis.org.uk/paper.php?p=2013.66.278",
+"url": "http://www.jbis.org.uk/paper.php?p=2013.66.278"
+},
+{
+"date": null,
+"name": "https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk",
+"url": "https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk"
+}
+],
+"tier": "B",
+"type": "research"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": null,
+"deg": 4,
+"denials": [],
+"desc": "DIA Defense Intelligence Reference Document (Defense Futures series), 2010-11-01, DIA-08-1011-002, produced under the Advanced Aerospace Weapon System Applications (AAWSA/AAWSAP) Program contract with BAASS. Released under FOIA.",
+"domains": [
+"_rs-aawsap-dirds",
+"_rs-archive-mirror",
+"w7-dirds-2"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "nd",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "dird-cockpits-in-the-era-of-breakthrough",
+"l0": false,
+"label": "Cockpits in the Era of Breakthrough Flight",
+"locLabel": null,
+"members": null,
+"short": "Cockpits in the Era of Breakthrough Flight",
+"sources": [
+{
+"date": "2010-11-01",
+"name": "DIA FOIA Reading Room — Cockpits in the Era of Breakthrough Flight (PDF)",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237653/"
+},
+{
+"date": "2022-03",
+"name": "DIA FOIA Electronic Reading Room — AAWSAP/AATIP collection",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/"
+},
+{
+"date": "2025-03-11",
+"name": "Archived: DIA FOIA Reading Room — Cockpits in the Era of Breakthrough Flight (PDF) (Wayback 2025-03-11)",
+"url": "https://web.archive.org/web/20250311131322/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170029/"
+},
+{
+"date": "2026-06-11",
+"name": "Archived: DIA FOIA Electronic Reading Room — AAWSAP/AATIP collection (Wayback 2026-06-11)",
+"url": "https://web.archive.org/web/20260611124158/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/"
+},
+{
+"date": null,
+"name": "https://irp.fas.org/dia/aatip-list.pdf",
+"url": "https://irp.fas.org/dia/aatip-list.pdf"
+},
+{
+"date": null,
+"name": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_28-DIRD_Cockpits_in_the_Era_of_Breakthrough_Flight.pdf",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_28-DIRD_Cockpits_in_the_Era_of_Breakthrough_Flight.pdf"
+},
+{
+"date": null,
+"name": "http://www.jbis.org.uk/paper.php?p=2013.66.278",
+"url": "http://www.jbis.org.uk/paper.php?p=2013.66.278"
+},
+{
+"date": null,
+"name": "https://ufos-scientificresearch.blogspot.com/2018/08/an-analysis-of-that-list-of-aawsapaatip.html",
+"url": "https://ufos-scientificresearch.blogspot.com/2018/08/an-analysis-of-that-list-of-aawsapaatip.html"
+},
+{
+"date": null,
+"name": "https://uap-blog.com/wordpress/wp-content/uploads/2022/04/FOIA-00159-2018-2.pdf",
+"url": "https://uap-blog.com/wordpress/wp-content/uploads/2022/04/FOIA-00159-2018-2.pdf"
+}
+],
+"sub": "defense-intelligence-reference-document",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 353 of 1027, score 34). 4 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A0/D0.",
+"timeline": []
+}

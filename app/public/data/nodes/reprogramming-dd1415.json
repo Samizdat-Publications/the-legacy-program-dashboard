@@ -1,0 +1,134 @@
+{
+"A": 2,
+"C": 1,
+"D": 2,
+"band": null,
+"claims": [
+{
+"source": "https://comptroller.war.gov/Portals/45/documents/fmr/current/03/03_06.pdf — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
+"text": "DoD FMR Volume 3 Chapter 6, 'Reprogramming of DoD Appropriated Funds' (September 2015), establishes Prior Approval Reprogramming (DD 1415-1), Letter Notification (DD 1415-2), Internal Reprogramming (DD 1415-3) and Below-Threshold Reprogramming.",
+"tier": 2
+},
+{
+"source": "https://comptroller.war.gov/Portals/45/documents/fmr/current/03/03_06.pdf — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
+"text": "Below-Threshold Reprogramming permits components to realign funds within prescribed cumulative annual limits without approval or notification.",
+"tier": 2
+},
+{
+"source": "https://comptroller.war.gov/Portals/45/documents/fmr/current/03/03_06.pdf — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
+"text": "Congressional approval thresholds: Military Personnel $10 million; Operation and Maintenance $15 million; Procurement $20 million or 20 percent of programme base, whichever is less; RDT&E $10 million or 20 percent of programme base, whichever is less.",
+"tier": 2
+},
+{
+"source": "https://comptroller.war.gov/Portals/45/documents/fmr/current/03/03_06.pdf — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
+"text": "Internal Reprogramming on DD Form 1415-3 is processed entirely within the Department as an audit-trail action, with no congressional action required.",
+"tier": 2
+}
+],
+"cls": "document",
+"cluster": "other",
+"connections": [
+{
+"claimTier": 3,
+"cls": "program",
+"dateEnd": null,
+"dateStart": "2015-09",
+"direction": "out",
+"edgeLabel": "Below-threshold and internal reprogramming are where the unsupported adjustments live",
+"id": "dod-agencywide-audit",
+"l0": true,
+"label": "DoD Agency-Wide Financial Statement Audit (FY2018-present)",
+"note": "The FMR permits internal reprogramming on DD 1415-3 with no congressional action and below-threshold realignment with none at all; the FY2025 audit found more than $859 billion of adjustments in two quarters that could not be supported. The inference is that the undocumented volume is concentrated in the layer that generates no external record.",
+"sources": [
+{
+"date": "2015-09-01",
+"name": "DoD FMR Vol 3 Ch 6; DOWIG-2026-081",
+"url": "https://comptroller.war.gov/Portals/45/documents/fmr/current/03/03_06.pdf"
+}
+],
+"tier": "B",
+"type": "behavioral"
+},
+{
+"claimTier": 1,
+"cls": "legislation",
+"dateEnd": null,
+"dateStart": "2015-09",
+"direction": "out",
+"edgeLabel": "The administrative layer beneath the statutory transfer authority",
+"id": "sec-8005-transfer",
+"l0": false,
+"label": "Section 8005 Transfer Authority (annual DoD Appropriations Act)",
+"note": "DoD FMR Volume 3 Chapter 6 implements reprogramming and transfer actions, including Below-Threshold Reprogramming which requires no approval or notification. Attested by the regulation.",
+"sources": [
+{
+"date": "2015-09-01",
+"name": "DoD FMR Volume 3, Chapter 6",
+"url": "https://comptroller.war.gov/Portals/45/documents/fmr/current/03/03_06.pdf"
+}
+],
+"tier": "B",
+"type": "institutional"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "2015-09",
+"deg": 2,
+"denials": [],
+"desc": "Below the statutory transfer authorities sits an administrative layer that does most of the actual work. Volume 3, Chapter 6 of the Department of Defense Financial Management Regulation, 'Reprogramming of DoD Appropriated Funds', dated September 2015, establishes four categories of action. Prior Approval Reprogramming, on DD Form 1415-1, requires written approval from the congressional committees before execution and covers major decisions and items of special congressional interest. Letter Notification, DD Form 1415-2, gives Congress thirty days advance notice with an opportunity to object. Internal Reprogramming, DD Form 1415-3, is an audit-trail action processed entirely within the Department for reclassifications between line items where the substance of the programme is unchanged. And Below-Threshold Reprogramming requires no approval and no notification at all: components may realign funds within prescribed cumulative annual limits at their own discretion. The thresholds at which congressional approval becomes necessary are: $10 million for Military Personnel, $15 million for Operation and Maintenance, $20 million or 20 percent of the programme base (whichever is less) for Procurement, and $10 million or 20 percent of the programme base (whichever is less) for Research, Development, Test and Evaluation. Against a Department managing more than $4.7 trillion in assets and executing hundreds of billions of dollars annually, a $10 million RDT&E threshold means that an enormous volume of money moves each year with no external record generated at all. This is the layer at which the audit trail is thinnest and at which the $859 billion of unsupported adjustments reported for the last two quarters of FY2025 lives.",
+"domains": [
+"_rs-archive-mirror",
+"w2-black-budget"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "2",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "reprogramming-dd1415",
+"l0": false,
+"label": "Reprogramming of DoD Appropriated Funds (DoD FMR Volume 3, Chapter 6; DD Form 1415 series)",
+"locLabel": null,
+"members": null,
+"short": "Reprogramming of DoD Appropriated Funds (DoD FMR Volume 3, Chapter 6; DD Form 1415 series)",
+"sources": [
+{
+"date": "2026-05-21",
+"name": "Archived: DoD Financial Management Regulation, Volume 3, Chapter 6 (Wayback 2026-05-21)",
+"url": "https://web.archive.org/web/20260521072448/https://comptroller.war.gov/Portals/45/documents/fmr/current/03/03_06.pdf"
+},
+{
+"date": "2026-05-22",
+"name": "Archived: Statement of Brett A. Mansfield, Deputy IG (Wayback 2026-05-22)",
+"url": "https://web.archive.org/web/20260522165323/https://media.defense.gov/2026/May/22/2003937005/-1/-1/1/MANSFIELD%20ORAL%20STATEMENT%205.13.26_FINAL.PDF"
+},
+{
+"date": "2015-09-01",
+"name": "DoD Financial Management Regulation, Volume 3, Chapter 6",
+"url": "https://comptroller.war.gov/Portals/45/documents/fmr/current/03/03_06.pdf"
+},
+{
+"date": "2026-05-13",
+"name": "Statement of Brett A. Mansfield, Deputy IG",
+"url": "https://media.defense.gov/2026/May/22/2003937005/-1/-1/1/MANSFIELD%20ORAL%20STATEMENT%205.13.26_FINAL.PDF"
+}
+],
+"sub": "The administrative machinery for moving money after appropriation, including below-threshold reprogramming",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 644 of 1027, score 24). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D2.",
+"timeline": [
+{
+"date": "2015-09",
+"id": "bb-tl-2015-fmr",
+"label": "DoD FMR Volume 3 Chapter 6 reissued",
+"precision": "month",
+"strand": "oversight",
+"text": "The Department's reprogramming regulation sets the four action types and the congressional approval thresholds - $10 million for military personnel, $15 million for operation and maintenance, $20 million or 20 percent for procurement, $10 million or 20 percent for RDT&E - and preserves Below-Threshold Reprogramming, which requires no approval and no notification at all.",
+"tier": "B"
+}
+]
+}

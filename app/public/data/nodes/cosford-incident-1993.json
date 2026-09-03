@@ -1,0 +1,149 @@
+{
+"A": 2,
+"C": 1,
+"D": 2,
+"band": null,
+"claims": [
+{
+"source": "The National Archives Discovery catalogue, DEFE 24/2086, https://discovery.nationalarchives.gov.uk/API/search/records (search query 'DEFE 24 2086')",
+"text": "The National Archives' catalogue gives the file as DEFE 24/2086, 'UFO reports of sightings, 30-31 March 1993', covering dates 1993 Mar 01 to 1993 Jun 30, held at The National Archives, Kew.",
+"tier": 1
+},
+{
+"source": "The National Archives Discovery catalogue records for DEFE 24/2086 and DEFE 24/2086/1, https://discovery.nationalarchives.gov.uk/API/search/records (search query 'DEFE 24 2086')",
+"text": "What is open is a redacted surrogate, not the file. DEFE 24/2086 carries closure status D with a record opening date of 01/01/2078; the open item is DEFE 24/2086/1, 'Digital copy of DEFE 24/2086: UFO reports sightings, 30/31 March 1993; with redactions', opened 17/08/2009.",
+"tier": 1
+},
+{
+"source": "The National Archives, 'Highlights Guide' to the August 2009 tranche of MoD UFO files, https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf",
+"text": "The National Archives' release guide describes the file: 'The file DEFE 24/2086 covers sightings of bright lights seen across central England in the early hours by police officers and military witnesses (including a police patrol at RAF Cosford, near Wolverhampton). The file includes more than 30 sightings during a six-hour period.'",
+"tier": 1
+},
+{
+"source": "The National Archives, 'Highlights Guide' to the August 2009 tranche, https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf",
+"text": "The same guide records the internal alarm and the explanation together: the radar replay 'found nothing unusual had been detected', the Assistant Chief of the Air Staff 'Sir Anthony Bagnall, was briefed that there was evidence a UFO had evaded UK defences', and then 'It soon emerged that the majority of sightings were caused by the Russian rocket that launched the Cosmos 2238 satellite, re-entering the earths atmosphere.'",
+"tier": 1
+},
+{
+"source": "AREA52 - DEBRIEFED, batch 14 file 03, 0:50:36-1:00:04, per research/leads/area52-corpus-14.md",
+"text": "On AREA52 - DEBRIEFED, file 03 of batch 14 (0:50:36 to 1:00:04), archival interview footage of an investigator addressed on camera as 'Nick', identified in the lead map as Nick Pope, describes interviewing an unnamed RAF airman witness to the Cosford events. No opened record names him in connection with the case.",
+"tier": 2
+}
+],
+"cls": "event",
+"cluster": "other",
+"connections": [
+{
+"claimTier": 3,
+"cls": "program",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "Three years before the policy review that commissioned Condign",
+"id": "project-condign",
+"l0": false,
+"label": "Project Condign",
+"note": "Reasoning: `project-condign`'s own text dates the commissioning policy review to 1996, and this is the named 1993 case in the released files. No opened record connects the two, and the edge is an inference from dates alone.",
+"sources": [
+{
+"date": "2009-08-17",
+"name": "TNA Highlights Guide, August 2009 tranche, read against the project-condign node",
+"url": "https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf"
+}
+],
+"tier": "B",
+"type": "temporal"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "DEFE 24/2086, closed to 2078, open only as a redacted digital copy",
+"id": "uk-defe24",
+"l0": false,
+"label": "DEFE 24 and DEFE 31 - MoD UFO record series, The National Archives, Kew",
+"note": "Discovery gives the paper piece closure status D with an opening date of 1 January 2078 and the open digital surrogate DEFE 24/2086/1 with an opening date of 17 August 2009.",
+"sources": [
+{
+"date": "2026-09-02",
+"name": "TNA Discovery catalogue, DEFE 24/2086 and DEFE 24/2086/1",
+"url": "https://discovery.nationalarchives.gov.uk/API/search/records"
+}
+],
+"tier": "C",
+"type": "custody"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "The UFO desk worked the case and asked for a radar replay",
+"id": "uk-mod-ufo-desk",
+"l0": false,
+"label": "Ministry of Defence UFO Desk (Secretariat (Air Staff) / Directorate of Air Staff)",
+"note": "The National Archives' guide says the MoD's UFO desk asked the RAF to replay radar tapes and that this found nothing unusual had been detected.",
+"sources": [
+{
+"date": "2009-08-17",
+"name": "TNA Highlights Guide, August 2009 tranche",
+"url": "https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf"
+}
+],
+"tier": "C",
+"type": "investigative"
+}
+],
+"coords": null,
+"dateEnd": "1993-03-31",
+"dateStart": "1993-03-31",
+"deg": 3,
+"denials": [],
+"desc": "On the night of 30 to 31 March 1993 more than thirty reports of bright lights over central England reached the Ministry of Defence within about six hours, from police officers and military witnesses including a police patrol at RAF Cosford. The MoD's UFO desk had the RAF replay radar tapes and nothing unusual had been detected. The Assistant Chief of the Air Staff, Sir Anthony Bagnall, was nonetheless briefed that there was evidence a UFO had evaded UK defences, and The National Archives' own guide to the release then records that the majority of the sightings turned out to have been caused by the re-entry of the Russian rocket that launched the Cosmos 2238 satellite. The node carries both halves because the second is the finding: the internal alarm and the mundane resolution are in the same paragraph of the same official guide. The file is DEFE 24/2086; the paper piece is closed until 2078 and only a redacted digital copy is open.",
+"domains": [
+"area52-2026-09-02"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "1",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "cosford-incident-1993",
+"l0": false,
+"label": "Cosford incident, 30-31 March 1993",
+"locLabel": null,
+"members": null,
+"short": "Cosford incident, 30-31 March 1993",
+"sources": [
+{
+"date": "2009-08-17",
+"name": "The National Archives, Highlights Guide to the MoD UFO files opened 17 August 2009",
+"url": "https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf"
+},
+{
+"date": "2026-09-02",
+"name": "The National Archives Discovery catalogue, DEFE 24/2086 and DEFE 24/2086/1",
+"url": "https://discovery.nationalarchives.gov.uk/API/search/records"
+}
+],
+"sub": "More than 30 sightings in six hours; ACAS briefed on an evasion, then attributed to a rocket re-entry",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 361 of 1027, score 34). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A2/D2.",
+"timeline": [
+{
+"date": "1993-03-31",
+"id": "tl-1993-03-31-cosford-incident",
+"label": "More than thirty sightings over central England in six hours, then a rocket re-entry",
+"precision": "day",
+"strand": "witness",
+"text": "The MoD's UFO desk had the RAF replay radar tapes and 'found nothing unusual had been detected'; the Assistant Chief of the Air Staff was nonetheless briefed 'that there was evidence a UFO had evaded UK defences'. The same official guide then records that 'It soon emerged that the majority of sightings were caused by the Russian rocket that launched the Cosmos 2238 satellite, re-entering the earths atmosphere.' Both halves are in one paragraph of one guide.",
+"tier": "C"
+}
+]
+}

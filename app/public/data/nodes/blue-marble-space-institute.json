@@ -1,0 +1,98 @@
+{
+"A": 0,
+"C": 0,
+"D": 0,
+"band": null,
+"claims": [
+{
+"source": "bmsis.org/about",
+"text": "BMSIS is a non-profit public charity organised under section 501(c)(3) of the US Internal Revenue Code, self-described as an international community engaged in building a sustainable future and nurturing scientific interest among the public.",
+"tier": 1
+},
+{
+"source": "bmsis.org/about",
+"text": "Its research programme spans planetary habitability, origin of life, space biology, climate change, sustainable development, human spaceflight and solar system exploration, published in academic journals and disseminated through podcasts, seminars and the SAGANet network; all projects must include educational outreach.",
+"tier": 1
+},
+{
+"source": "Inference",
+"text": "BMSIS's board significance is derivative rather than programmatic: it supplies an academically legitimate, government-independent affiliation for Jacob Haqq-Misra, allowing UAP-adjacent anomaly-search methodology to be published under an astrobiology institute's name. Reasoning: from the institute's stated remit combined with Haqq-Misra's recorded affiliation elsewhere on this board.",
+"tier": 3
+},
+{
+"source": "Board bookkeeping",
+"text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
+"tier": 3
+}
+],
+"cls": "institution",
+"cluster": "research",
+"connections": [
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "BMSIS research investigator seated on NASA's UAP independent study team",
+"id": "nasa",
+"l0": true,
+"label": "National Aeronautics and Space Administration",
+"note": "NASA's announcement of the 16-member independent study team describes Anamaria Berea as 'an associate professor of Computational and Data Science at George Mason University in Fairfax, Virginia', 'a research affiliate with the SETI Institute' and 'a research investigator with Blue Marble Space Institute of Science in Seattle'. Worth noting for anyone checking: the team's final report of September 2023 lists her affiliation as George Mason University alone, and does not mention Blue Marble or Seattle anywhere in its 36 pages. Both statements are NASA's; the Blue Marble tie is in the announcement, not the report.",
+"sources": [
+{
+"date": "2022-10-21",
+"name": "NASA, 'NASA Announces Unidentified Aerial Phenomena Study Team Members', 21 October 2022",
+"url": "https://www.nasa.gov/general/nasa-announces-unidentified-aerial-phenomena-study-team-members/"
+},
+{
+"date": "2023-09-14",
+"name": "NASA Unidentified Anomalous Phenomena Independent Study Team Report, September 2023",
+"url": "https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf"
+},
+{
+"date": null,
+"name": "NASA, 'NASA Announces Unidentified Aerial Phenomena Study Team Members,' October 21, 2022 -- https://www.nasa.gov/general/nasa-announces-unidentified-aerial-phenomena-study-team-members/",
+"url": ""
+}
+],
+"tier": "B",
+"type": "research"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": null,
+"deg": 1,
+"denials": [],
+"desc": "The Blue Marble Space Institute of Science is a Seattle-based non-profit public charity organised under section 501(c)(3), describing itself as an international community engaged in building a sustainable future and nurturing public scientific interest. Its research is interdisciplinary and centred on planetary habitability, the origin of life, space biology, climate, sustainable development, human spaceflight and solar system exploration, published in peer-reviewed journals and pushed outward through seminars, podcasts and its SAGANet network; every project it takes on is required to include an educational outreach component. It is not a UAP institute, and that is precisely why it matters here: it is the institutional home of the astrobiologist Jacob Haqq-Misra, whose work on technosignatures and on the methodology of anomaly search brought conventional astrobiology standards into direct contact with the UAP question, and who sits on the Sol Foundation advisory board and was named in June 2026 to the UAP Science Advisory Council. BMSIS therefore functions on this board as one of the bridges by which the phenomenon is being carried out of the classified world and into ordinary peer-reviewed science - a route that does not require any agency's permission and cannot be shut by reclassification.",
+"domains": [
+"_rs-stubs-known",
+"_stubs"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "nd",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "blue-marble-space-institute",
+"l0": false,
+"label": "Blue Marble Space Institute of Science",
+"locLabel": null,
+"members": null,
+"short": "Blue Marble Space Institute of Science",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Blue Marble Space Institute of Science - About (official)",
+"url": "https://bmsis.org/about/"
+}
+],
+"sub": "Research institute",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 1002 of 1027, score 9). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D0.",
+"timeline": []
+}

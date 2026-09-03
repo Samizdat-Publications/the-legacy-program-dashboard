@@ -1,0 +1,721 @@
+{
+"A": 2,
+"C": 3,
+"D": 1,
+"band": "research",
+"claims": [
+{
+"source": "American Alchemy with Jesse Michels, 'Top Physicist: There Was A Nuclear Catastrophe On Mars (ft. Dr. John Brandenburg)', published 13 March 2025, at 1:34:53",
+"text": "On American Alchemy with Jesse Michels, 13 March 2025, at 1:34:53, John Brandenburg said that 'there was a contract between Los Alamos and Battelle Memorial Institute in 1949 and it was around nitinol', that the work was 'declassified by Battelle in the 60s', and asked why Los Alamos had a contract with Battelle in 1949. The board's node dates the corresponding nickel-titanium work to 1948-49 under Wright-Patterson sponsorship. The two accounts name different sponsors for the same alloy in the same period, and no contract record was opened for either.",
+"tier": 2
+},
+{
+"source": "American Alchemy with Jesse Michels, 'Fake Alien Signals Drove Him Insane... (ft. Greg Bishop)', 5 July 2025, 0:59:04, and 'Air Force Officer: A UFO Shut Down 10 Nukes in Seconds (ft. Bob Salas)', 12 July 2025, 1:00:44",
+"text": "On American Alchemy with Jesse Michels, 5 July 2025 at 0:59:04 and again on 12 July 2025 at 1:00:44, Michels said that after Jacques Vallee found the Pentacle memo in the Blue Book files the memo could not be raised around the Robertson Panel: 'apparently you weren't allowed to mention the pentacle' and 'you were not supposed to bring this memo up'. Both tellings are the same speaker, neither cites a document for the instruction, and both describe Vallee putting it to J. Allen Hynek, who on Michels's account played dumb. The board carries the memo and Howard C. Cross's authorship but not this alleged instruction.",
+"tier": 2
+},
+{
+"source": "Primary document, released via CIA CREST (CIA-RDP81R00560R000100060001-5) and in the Department of War PURSUE Release 03",
+"text": "Project Blue Book Special Report No. 14, 'Analysis of Reports of Unidentified Aerial Objects', Project No. 10073, dated 5 May 1955, was produced for the Air Force by Battelle Memorial Institute.",
+"tier": 1
+},
+{
+"source": "CUFON transcription; Jacques Vallee, Forbidden Science",
+"text": "H. C. Cross of Battelle authored the 9 January 1953 memorandum to Miles E. Goll at Wright-Patterson AFB under Project Stork, reference G-1579-4, marked SECRET.",
+"tier": 1
+},
+{
+"source": "USAspending.gov federal award records; NSF NCSES Master Government List of FFRDCs",
+"text": "Battelle Memorial Institute holds the DOE management-and-operating contract for Pacific Northwest National Laboratory (DEAC0576RL01830), recorded on USAspending with obligations exceeding $30 billion across the life of the contract from 1978.",
+"tier": 1
+},
+{
+"source": "USAspending.gov federal award records",
+"text": "UT-Battelle LLC holds the Oak Ridge National Laboratory management-and-operating contract DEAC0500OR22725, recorded at approximately $42.3 billion, running from 1999 to 2030.",
+"tier": 1
+},
+{
+"source": "MITRE news release, 27 June 2024",
+"text": "Mark Peters moved from executive vice president for laboratory management and operations at Battelle Memorial Institute to president and CEO of MITRE, effective 3 September 2024.",
+"tier": 1
+},
+{
+"source": "Sarasota Herald-Tribune, 'Memory-metal files are missing', 21 May 2009; Bragalia's published research at UFO Explorations",
+"text": "Researchers including Anthony Bragalia have alleged that Wright-Patterson-sponsored Battelle reports on nickel-titanium alloy from 1948-49 - the research lineage of nitinol shape-memory metal - are missing from both Air Force and Battelle archives.",
+"tier": 2
+},
+{
+"source": "Synthesis of Special Report No. 14, AARO's ORNL contracting statement, and MITRE's 2024 CEO announcement",
+"text": "Battelle's presence at both the 1952-55 analysis of Air Force UFO data and the 2022-24 analysis of AARO's material specimen, plus its supply of MITRE's chief executive, indicates institutional continuity in the custody of anomalous-material analysis across seven decades. Reasoning: the connections are individually documented; the continuity claim is the inference drawn from them.",
+"tier": 3
+},
+{
+"source": "AARO, Historical Record Report Volume I, March 2024, Project BEAR section",
+"text": "Project BEAR was the contract Capt. Ruppelt created with the Battelle Memorial Institute to provide scientific support to Project GRUDGE; Battelle 'released a report under the cover of ATIC to maintain its anonymity,' completed in late 1954 as Special Report No. 14.",
+"tier": 1
+},
+{
+"source": "AARO/ORNL 'Synopsis: Analysis of a Metallic Specimen', released July 2024",
+"text": "AARO contracted Oak Ridge National Laboratory, operated by UT-Battelle, in 2022 to conduct materials testing on the magnesium alloy specimen alleged to be from a 1947 crash.",
+"tier": 1
+},
+{
+"source": "USAspending.gov recipient search, retrieved 12 August 2026",
+"text": "USAspending records approximately $91 billion in obligations across Battelle-named recipient entities since FY2008, dominated by UT-Battelle laboratory management.",
+"tier": 1
+}
+],
+"cls": "institution",
+"cluster": "other",
+"connections": [
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "2024",
+"dateStart": "2022",
+"direction": "out",
+"edgeLabel": "Oak Ridge, operated by UT-Battelle, analysed the alleged 1947 crash specimen for AARO",
+"id": "aaro-metallic-specimen-analysis",
+"l0": false,
+"label": "AARO / ORNL Synopsis: Analysis of a Metallic Specimen",
+"note": "AARO contracted ORNL in 2022; the laboratory assessed the specimen terrestrial in origin and incapable of functioning as a terahertz waveguide. Battelle thus appears at both ends of the file, in 1951 and in 2024.",
+"sources": [
+{
+"date": "2024-07-11",
+"name": "The Black Vault, 'AARO Releases Findings on Suspected Extraterrestrial Alloy' (ORNL analysis of the magnesium specimen)",
+"url": "https://www.theblackvault.com/documentarchive/aaro-releases-findings-on-suspected-extraterrestrial-alloy/"
+},
+{
+"date": "2024-03-08",
+"name": "AARO, 'Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP), Volume I'",
+"url": "https://documents2.theblackvault.com/documents/dod/AARO_Historical_Record_Report_Volume_1_2024.pdf"
+}
+],
+"tier": "B",
+"type": "custody"
+},
+{
+"claimTier": 2,
+"cls": "document",
+"dateEnd": "1955",
+"dateStart": "1952",
+"direction": "out",
+"edgeLabel": "Battelle performed the statistical analysis under contract",
+"id": "blue-book-special-report-14",
+"l0": true,
+"label": "Project Blue Book Special Report No. 14",
+"note": "Battelle Memorial Institute of Columbus is the contractor identified throughout the literature; the report's own front matter does not name a contractor, which is why this is graded tier 2.",
+"sources": [
+{
+"date": "1955-05-05",
+"name": "Project Blue Book Special Report No. 14",
+"url": "http://www.nicap.org/docs/pbbsr/BBA-PBSR14.pdf"
+}
+],
+"tier": "A",
+"type": "funding"
+},
+{
+"claimTier": 2,
+"cls": "document",
+"dateEnd": "2026",
+"dateStart": "1947",
+"direction": "in",
+"edgeLabel": "Alleges Battelle studied Roswell-derived shape-memory alloy",
+"id": "gerb-battelle-investigation",
+"l0": false,
+"label": "UAP Gerb - Battelle Memorial Institute investigation",
+"note": "Gerb argues, following Jacques Vallee's paper trail, that Battelle studied a shape-memory metallic alloy recovered at Roswell now referred to as nitinol, while also building the USAF's machine index of UFO reports and helping quell public interest.",
+"sources": [
+{
+"date": "2024-02-18",
+"name": "UAP Gerb - Battelle Memorial Institute investigation",
+"url": "https://www.youtube.com/watch?v=tISTJRPOqFo"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "1955",
+"dateStart": "1952",
+"direction": "in",
+"edgeLabel": "Battelle's Air Force liaison for Blue Book-related work",
+"id": "howard-c-cross",
+"l0": false,
+"label": "Howard C. Cross",
+"note": "Cross was the named point of contact between Battelle's Stork analysts and Wright-Patterson.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "CUFON",
+"url": "https://www.cufon.org/cufon/pentacle.htm"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "location",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "Battelle Memorial Institute headquarters",
+"id": "l-columbus-oh",
+"l0": false,
+"label": "Columbus, Ohio",
+"note": "Battelle Memorial Institute's own IRS Form 990 filings give its address as Columbus, Ohio. The FFRDCs it administers or co-administers sit at Idaho Falls, Richland and Aiken, none of them at Columbus, so the Columbus tie is the institute's own seat rather than a federal laboratory site.",
+"sources": [
+{
+"date": "2026-08-25",
+"name": "Battelle Memorial Institute IRS Form 990 filings, EIN 31-4379427 (ProPublica Nonprofit Explorer)",
+"url": "https://projects.propublica.org/nonprofits/organizations/314379427"
+},
+{
+"date": "2026-08-25",
+"name": "NSF NCSES Master Government List of FFRDCs",
+"url": "https://ncses.nsf.gov/resource/master-gov-lists-ffrdc"
+},
+{
+"date": null,
+"name": "https://cufos.org/resources/project-blue-book/",
+"url": "https://cufos.org/resources/project-blue-book/"
+}
+],
+"tier": "C",
+"type": "geographic"
+},
+{
+"claimTier": 2,
+"cls": "location",
+"dateEnd": "1949",
+"dateStart": "1948",
+"direction": "out",
+"edgeLabel": "Wright-Patterson-sponsored nickel-titanium alloy work, 1948-49",
+"id": "l-wright-patterson",
+"l0": false,
+"label": "Wright-Patterson Air Force Base, Ohio",
+"note": "The research lineage from which nitinol shape-memory alloy emerged; researchers including Anthony Bragalia allege the corresponding reports are missing from both Air Force and Battelle archives.",
+"sources": [
+{
+"date": "2009-05-21",
+"name": "Sarasota Herald-Tribune - Memory-metal files are missing",
+"url": "https://www.heraldtribune.com/story/news/2009/05/21/memory-metal-files-are-missing/28868099007/"
+},
+{
+"date": "2026-08-12",
+"name": "UFO Explorations",
+"url": "https://www.ufoexplorations.com/roswell-battelle-memory-metal-revel"
+}
+],
+"tier": "A",
+"type": "funding"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "2024",
+"dateStart": "2020",
+"direction": "in",
+"edgeLabel": "Came to MITRE directly from Battelle's executive suite",
+"id": "mark-peters",
+"l0": false,
+"label": "Mark Todd Peters",
+"note": "Peters was executive vice president for laboratory management and operations at Battelle Memorial Institute and previously president of Battelle Energy Alliance LLC and director of Idaho National Laboratory.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "MITRE - Mark Peters biography",
+"url": "https://www.mitre.org/who-we-are/our-people/mark-peters"
+},
+{
+"date": "2024-06-27",
+"name": "Virginia Business",
+"url": "https://virginiabusiness.com/mclean-based-mitre-names-new-president-and-ceo/"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 3,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2024",
+"direction": "out",
+"edgeLabel": "Executive pipeline from the 1950s UFO analysis contractor to the 2020s FFRDC under inquiry",
+"id": "mitre-corporation",
+"l0": true,
+"label": "The MITRE Corporation",
+"note": "Battelle ran Project Stork and produced Blue Book Special Report No. 14; seventy years later it supplied MITRE's chief executive. The connection is documented; the significance is inference.",
+"sources": [
+{
+"date": "2024-06-27",
+"name": "MITRE news release",
+"url": "https://www.mitre.org/news-insights/news-release/mark-peters-named-new-mitre-president-and-ceo"
+},
+{
+"date": "2020-09-17",
+"name": "The Black Vault - Special Report 14",
+"url": "https://www.theblackvault.com/documentarchive/project-blue-book-special-report-14-may-5-1955/"
+}
+],
+"tier": "A",
+"type": "behavioral"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2000",
+"direction": "out",
+"edgeLabel": "Battelle co-operates ORNL through UT-Battelle, LLC",
+"id": "oak-ridge-national-laboratory",
+"l0": false,
+"label": "Oak Ridge National Laboratory (UT-Battelle, LLC)",
+"note": "Contract DEAC0500OR22725, recorded at approximately $42.3 billion, running 1999-2030.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "USAspending.gov",
+"url": "https://www.usaspending.gov/"
+},
+{
+"date": "2026-08-12",
+"name": "NSF NCSES FFRDC master list",
+"url": "https://ncses.nsf.gov/resource/master-gov-lists-ffrdc"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": "1954",
+"dateStart": "1954",
+"direction": "in",
+"edgeLabel": "Battelle's authorship of Special Report No. 14 was deliberately concealed behind an ATIC cover",
+"id": "project-bear",
+"l0": false,
+"label": "Project BEAR (Battelle contract to Project GRUDGE)",
+"note": "AARO states that Battelle 'released a report under the cover of ATIC to maintain its anonymity.' The first public analytical product of the government's UFO investigation was ghost-written by a private contractor at the contractor's request.",
+"sources": [
+{
+"date": "2024-03-08",
+"name": "AARO, 'Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP), Volume I'",
+"url": "https://documents2.theblackvault.com/documents/dod/AARO_Historical_Record_Report_Volume_1_2024.pdf"
+}
+],
+"tier": "C",
+"type": "denial"
+},
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": "1954",
+"dateStart": "1951",
+"direction": "out",
+"edgeLabel": "Battelle held the Project BEAR contract supplying the science behind Project GRUDGE and BLUE BOOK",
+"id": "project-bear",
+"l0": false,
+"label": "Project BEAR (Battelle contract to Project GRUDGE)",
+"note": "AARO's own history records the contract, the questionnaire and punch-card work, and the resulting Special Report No. 14.",
+"sources": [
+{
+"date": "2024-03-08",
+"name": "AARO, 'Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP), Volume I'",
+"url": "https://documents2.theblackvault.com/documents/dod/AARO_Historical_Record_Report_Volume_1_2024.pdf"
+}
+],
+"tier": "C",
+"type": "programmatic"
+},
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": "1955",
+"dateStart": "1952",
+"direction": "out",
+"edgeLabel": "Battelle held the Air Force contract designated Project Stork",
+"id": "project-stork",
+"l0": false,
+"label": "Project Stork (Project White Stork)",
+"note": "Under Stork, Battelle performed the statistical analysis of Project Blue Book's case files that became Special Report No. 14.",
+"sources": [
+{
+"date": "2020-09-17",
+"name": "The Black Vault",
+"url": "https://www.theblackvault.com/documentarchive/project-blue-book-special-report-14-may-5-1955/"
+}
+],
+"tier": "A",
+"type": "programmatic"
+},
+{
+"claimTier": 2,
+"cls": "event",
+"dateEnd": "1949",
+"dateStart": "1947",
+"direction": "out",
+"edgeLabel": "Alleged analysis of Roswell 'memory metal' via Wright-Patterson contracts",
+"id": "roswell-1947",
+"l0": true,
+"label": "Roswell Incident",
+"note": "The allegation rests on the coincidence of timing between the 1947 recovery, the 1948-49 Battelle NiTi work, and the absence of the reports from both archives. No document connects the two directly.",
+"sources": [
+{
+"date": "2009-05-21",
+"name": "Sarasota Herald-Tribune",
+"url": "https://www.heraldtribune.com/story/news/2009/05/21/memory-metal-files-are-missing/28868099007/"
+}
+],
+"tier": "A",
+"type": "custody"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "1999-10-15",
+"direction": "in",
+"edgeLabel": "The two named partners in Brookhaven Science Associates LLC",
+"id": "stony-brook-university",
+"l0": false,
+"label": "Stony Brook University",
+"note": "Stony Brook and Battelle are the two named partners in Brookhaven Science Associates LLC, which holds the DOE management-and-operating contract for Brookhaven National Laboratory.",
+"sources": [
+{
+"date": "2026-09-02",
+"name": "Brookhaven National Laboratory, About Brookhaven",
+"url": "https://www.bnl.gov/about/"
+}
+],
+"tier": "C",
+"type": "institutional"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "1929",
+"deg": 13,
+"denials": [
+{
+"by": {
+"id": "project-bear",
+"label": "Project BEAR (Battelle contract to Project GRUDGE)"
+},
+"claimTier": 1,
+"denialKind": "undirected",
+"label": "Battelle's authorship of Special Report No. 14 was deliberately concealed behind an ATIC cover",
+"note": "AARO states that Battelle 'released a report under the cover of ATIC to maintain its anonymity.' The first public analytical product of the government's UFO investigation was ghost-written by a private contractor at the contractor's request.",
+"of": {
+"id": "battelle",
+"label": "Battelle Memorial Institute"
+},
+"sources": [
+{
+"date": "2024-03-08",
+"name": "AARO, 'Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP), Volume I'",
+"url": "https://documents2.theblackvault.com/documents/dod/AARO_Historical_Record_Report_Volume_1_2024.pdf"
+}
+]
+}
+],
+"desc": "Battelle is the oldest and most persistent institution on this board, and the only one that appears at both ends of the eighty-year arc. In 1952 the Air Force contracted Battelle to run the statistical analysis of Project Blue Book's UFO data under the codename Project Stork; the result, Project Blue Book Special Report No. 14, dated 5 May 1955, was the largest quantitative study of UFO reports ever performed and found that the best-documented cases were the ones least likely to be explained. On 9 January 1953, five days before the Robertson Panel convened, Battelle's Air Force liaison H. C. Cross wrote the memorandum Jacques Vallee later codenamed 'Pentacle', proposing that different types of aerial activity be secretly and purposefully scheduled in areas of high UFO reporting. Battelle also performed Wright-Patterson-sponsored metallurgical work on nickel-titanium alloys in 1948-49, the research lineage from which nitinol shape-memory alloy emerged, and researchers including Anthony Bragalia have argued since 2009 that the corresponding Battelle reports are missing from both Air Force and Battelle archives. Battelle today is the largest contractor-operator of DOE national laboratories in the country: sole operator of Pacific Northwest National Laboratory under contract DEAC0576RL01830, a management-and-operating relationship recorded on USAspending at more than 30 billion dollars since 1978; co-operator of Oak Ridge through UT-Battelle LLC; operator of Idaho National Laboratory through Battelle Energy Alliance; and a partner in NREL and Brookhaven. In 2022 AARO contracted Oak Ridge - a UT-Battelle laboratory - to test the magnesium alloy specimen alleged to originate from a 1947 crash. In 2024 MITRE hired Battelle's executive vice president for laboratory management, Mark Peters, as its chief executive. In December 2023 AARO's first director, Sean Kirkpatrick, left government for Oak Ridge. The institution that analysed the Air Force's UFO data in 1952 is the institution that analysed the Pentagon's UFO material in 2022, and it supplied the chief executive of the corporation Congress is now interrogating. That is not a coincidence that needs explaining away; it is a structure that needs mapping.",
+"domains": [
+"_rs-archive-mirror",
+"ffrdcs",
+"primes-custody"
+],
+"dossier": {
+"claims": [
+{
+"source": "http://www.cufon.org/cufon/robert.htm (Report of Meetings of Scientific Advisory Panel on Unidentified Flying Objects Convened by Office of Scientific Intelligence, CIA, 14-18 January 1953; Durant memorandum dated 16 February 1953, Tab B)",
+"text": "Tab B of the Durant Report lists as documentary evidence item 3 presented to the CIA Scientific Advisory Panel on 14-17 January 1953: \"Progress Reports of Project STORK (code name for Battelle Memorial Institute contract work supporting ATIC).\"",
+"tier": 1
+},
+{
+"source": "http://www.cufon.org/cufon/robert.htm (Durant Report, Part I, Thursday Morning session, p. 4)",
+"text": "On Thursday morning, 15 January 1953, J. Allen Hynek personally briefed the Robertson Panel on Battelle's role: \"The Project STORK support at Battelle Memorial Institute, Columbus, was described by Dr. Hynek.\"",
+"tier": 1
+},
+{
+"source": "http://www.cufon.org/cufon/robert.htm (Durant Report, Tab B, items 2-6)",
+"text": "Battelle's STORK progress reports were placed before the CIA panel alongside the ATIC status reports for Projects GRUDGE and BLUE BOOK, the Holloman AFB sightings summary, the USAF Cambridge Research Center Project TWINKLE green-fireball report, and the Kirtland AFB Project POUNCE outline.",
+"tier": 1
+},
+{
+"source": "https://documents2.theblackvault.com/documents/ufos/CIA-RDP81R00560R000100060001-5.pdf",
+"text": "Project Blue Book Special Report No. 14, the Battelle statistical analysis, is dated 5 May 1955 and runs 312 pages; the cleanest publicly available copy is the version held in CIA's declassified document holdings under identifier CIA-RDP81R00560R000100060001-5.",
+"tier": 1
+},
+{
+"source": "https://www.theblackvault.com/documentarchive/project-blue-book-special-report-14-may-5-1955/",
+"text": "Battelle's analysis classified about 22 percent of roughly 3,200 cases as \"unknown,\" about 69 percent as known or identified, and about 9 percent as insufficient information; a case required unanimous agreement of all four analysts to be classified unknown.",
+"tier": 2
+},
+{
+"source": "https://www.theblackvault.com/documentarchive/project-blue-book-special-report-14-may-5-1955/",
+"text": "The unknown rate rose with case quality: about 35 percent of excellent-quality cases were classified unknown versus about 18 percent of the poorest-quality cases.",
+"tier": 2
+},
+{
+"source": "https://www.theblackvault.com/documentarchive/project-blue-book-special-report-14-may-5-1955/",
+"text": "The summary section of Battelle's final report declared it \"highly improbable that any of the reports of unidentified aerial objects ... represent observations of technological developments outside the range of present-day knowledge,\" a conclusion at odds with the 240 charts, tables, graphs and maps in the body of the report.",
+"tier": 2
+},
+{
+"source": "https://www.theblackvault.com/documentarchive/project-blue-book-special-report-14-may-5-1955/",
+"text": "When the Air Force made Special Report No. 14 public in October 1955 it claimed the report scientifically proved UFOs did not exist and stated an unknown rate of 3 percent rather than the roughly 22 percent the study actually produced.",
+"tier": 2
+},
+{
+"source": "https://www.theblackvault.com/documentarchive/project-blue-book-special-report-14-may-5-1955/",
+"text": "Battelle's methodology included devising a standardized reporting form and coding about thirty characteristics per sighting for machine analysis — the first machine-assisted statistical treatment of the U.S. government's UFO corpus.",
+"tier": 2
+},
+{
+"source": "https://archives.library.rice.edu/repositories/2/archival_objects/332408",
+"text": "A file titled \"11. The Robertson Panel and the 'Pentacle Memorandum' — January 1953\" exists in Series III (Correspondence, Vallee group C, boxes 42-53) of the Jacques F. Vallee UFO and paranormal phenomena papers, MS 0672, Woodson Research Center, Rice University; the collection is donor-restricted, with Series I and II opening 24 January 2028 and Series III case files 1 January 2031.",
+"tier": 1
+},
+{
+"source": "https://www.battelle.org/laboratory-management",
+"text": "Battelle manages or co-manages eight U.S. national laboratories for the Departments of Energy and Homeland Security — Brookhaven (Brookhaven Science Associates, with Stony Brook), Idaho (Battelle Energy Alliance, Battelle sole member), Los Alamos (Triad National Security, with Texas A&M System and University of California), the National Biodefense Analysis and Countermeasures Center (Battelle National Biodefense Institute, sole member), the National Laboratory of the Rockies, Oak Ridge (UT-Battelle, with University of Tennessee), Pacific Northwest (managed by Battelle alone), and Savannah River (Battelle Savannah River Alliance, sole member) — and partners in managing Canadian Nuclear Laboratories.",
+"tier": 1
+},
+{
+"source": "https://www.battelle.org/laboratory-management",
+"text": "Battelle states that Los Alamos National Laboratory \"executes work for multiple government agencies including the U.S. Department of Energy, Department of War and Department of Homeland Security\" spanning \"nuclear security, intelligence, defense, emergency response, nonproliferation, counterterrorism, energy security, emerging threats and environmental management.\"",
+"tier": 1
+},
+{
+"source": "https://www.battelle.org/laboratory-management",
+"text": "Battelle self-describes its core expertise as \"advanced materials, biology and chemistry\" and lists a National Security market comprising Advanced Functional Materials, CBRNE Defense, Cyber, and Emerging Threat Mitigation.",
+"tier": 1
+}
+],
+"connections": [
+"Edward J. Ruppelt, Chief of the ATIC Aerial Phenomena Branch, initiated the Battelle relationship in late December 1951 and briefed the Robertson Panel for roughly forty minutes on 14 January 1953.",
+"J. Allen Hynek was the conduit: he described the STORK support to the CIA panel in 1953 as an associate member, and it was in his files that Vallee found the 9 January 1953 Battelle memorandum in 1967.",
+"Howard C. Cross of Battelle is the reported author of the Pentacle memorandum; Miles Goll at Wright-Patterson AFB is the reported addressee.",
+"Jacques Vallee — sole public custodian of the Pentacle text; his papers (Rice MS 0672) also contain field notes on cattle mutilations and on face-to-face meetings of NIDS and BAASS, linking the 1953 Battelle thread to the Bigelow thread in a single collection.",
+"Robertson Panel — consumed Battelle's product; the panel's debunking recommendation and Battelle's public-facing statistics operate as a matched pair two years apart.",
+"Air Technical Intelligence Center / Wright-Patterson AFB — the contracting activity; the same base the January 1985 USAF fact sheet uses to deny that extraterrestrial equipment was ever held there.",
+"Los Alamos National Laboratory — Battelle is a Triad LLC member; the Durant Report separately records that the 1952 map of unexplained sightings showed clusters \"in certain strategic areas such as Los Alamos\" which the panel could not explain.",
+"John B. Alexander ran non-lethal weapons work at Los Alamos before becoming a public face of Bigelow's NIDS, a personnel path from a Battelle-operated laboratory into private anomaly research.",
+"Secretary of the Air Force Donald Quarles is the named signatory of the October 1955 public framing of Battelle's data."
+],
+"denialPosture": "Battelle has issued no public statement about Project STORK, the Pentacle memorandum, or any materials-analysis role, and its corporate history pages do not mention the ATIC contract at all. The denial in this case is by omission: the institute's public account of its own past treats 1952-1955 as if the largest statistical study of UFO reports ever performed for the U.S. government was not its work.",
+"narrative": "The relationship began with an admission of institutional inadequacy. Captain Edward J. Ruppelt, running the Air Force's UFO desk at the Air Technical Intelligence Center at Wright-Patterson, concluded at the end of 1951 that the Air Force lacked the analytic capacity to do anything scientific with the report backlog. He went to Battelle Memorial Institute in Columbus, roughly a hundred and twenty miles away, and the resulting classified support contract was code-named Project STORK. Battelle built a standardized observer data sheet, encoded about thirty characteristics of each sighting onto IBM punched cards, and ran the first machine-assisted statistical analysis of the UFO corpus. It is important to hold the shape of this arrangement in view: the government's public UFO investigation had, from 1952 onward, a classified contractor layer underneath it that the public did not know existed and that Blue Book's own critics could not see.\n\nThe Robertson Panel is where that layer surfaces in the documentary record. F.C. Durant's 16 February 1953 memorandum to the CIA's Assistant Director for Scientific Intelligence records that on Thursday morning, 15 January 1953, \"The Project STORK support at Battelle Memorial Institute, Columbus, was described by Dr. Hynek.\" Tab B of the same document lists the STORK progress reports as evidence item 3, sitting alongside the Project GRUDGE and BLUE BOOK status reports, the Holloman Air Force Base sightings summary, Project TWINKLE, and Project POUNCE. The five-scientist panel that would recommend stripping UFOs \"of the special status they have been given\" was reading Battelle's work product.\n\nThe timing of the Pentacle memorandum is the part of this that will not settle. Vallee has stated for decades that in 1967, while organizing Hynek's files, he found a memorandum stamped SECRET dated 9 January 1953 — five days before the Robertson Panel's first session — written by Battelle's Howard C. Cross and addressed to Miles Goll at Wright-Patterson, and that it proposed agreement between Project Stork and ATIC on what could and could not be discussed in Washington on 14-16 January. Vallee's papers are now at Rice University's Woodson Research Center as MS 0672, and the finding aid lists a file titled \"11. The Robertson Panel and the 'Pentacle Memorandum' — January 1953\" in Series III. The collection is restricted: Series I and II open on 24 January 2028, Series III case files on 1 January 2031. The Department of Defense has never released the memorandum. Treat the document's existence as archivally attested and its full text as an open question, not a claim.\n\nSpecial Report No. 14, dated 5 May 1955, is the payoff. Battelle's analysts sorted about 3,200 cases into knowns, unknowns and insufficient information, graded each on a four-point quality scale, and required unanimity among four analysts before a case could be called unknown — an unusually stringent test that biases toward suppressing the unknown count. About 22 percent came back unknown. The quality gradient ran the wrong way for the debunking thesis: roughly 35 percent of excellent-quality cases were unknowns versus about 18 percent of the poorest. Battelle's own summary nevertheless declared it \"highly improbable\" that any of the reports represented technological developments outside present-day knowledge. When the Air Force released the study in October 1955 under Secretary Donald Quarles, the public framing was that the report scientifically disproved flying saucers, with an unknown rate cited as 3 percent. The report itself was not distributed; the press release was. The cleanest surviving copy of the 312-page report sits in CIA's declassified holdings as CIA-RDP81R00560R000100060001-5 — which is itself worth noting, since the document is nominally an Air Force product.\n\nWhat makes Battelle load-bearing for a recovery-and-exploitation thesis rather than merely for a history of statistical malpractice is what the institute became. Battelle's own site states it manages eight national laboratories for the Departments of Energy and Homeland Security under the government-owned, contractor-operated model, and partners in managing Canadian Nuclear Laboratories. It is the sole LLC member for Pacific Northwest National Laboratory, Idaho National Laboratory (via Battelle Energy Alliance), the National Biodefense Analysis and Countermeasures Center, and Savannah River National Laboratory; an LLC member of UT-Battelle for Oak Ridge; of Brookhaven Science Associates with Stony Brook; and of Triad National Security with the Texas A&M System and the University of California for Los Alamos, which Battelle describes as executing work for the Department of Energy, the Department of War and the Department of Homeland Security. Battelle's stated core competencies are advanced materials, biology and chemistry, and its national security portfolio includes an advanced functional materials line.\n\nThe analytic point is a continuity of institutional posture, not a proven chain of custody. The organization that in 1953 was negotiating with ATIC over what the CIA's scientists would be allowed to hear is the same organization that now holds the operating contracts for the laboratories where anomalous materials would plausibly be characterized. No public contract, appropriation line, or DD Form 254 has been produced connecting Battelle or any Battelle-operated laboratory to UAP materials exploitation. That absence is the research target, and Battelle's carve-out-eligible SAP work at those laboratories is exactly the space in which such an absence would be expected.",
+"openQuestions": [
+"The full text of the 9 January 1953 Battelle memorandum has never been released by DoD or Battelle; the only known copy sits in a Rice University collection restricted until 2031. What does the complete document say about what ATIC withheld from the CIA panel?",
+"What was the contract number, contracting activity and dollar value of Project STORK, and how long did it run after Special Report No. 14 was delivered?",
+"Battelle reportedly reacted with hostility when Hynek returned in 1967 to ask about the memorandum; no contemporaneous record of that exchange has surfaced.",
+"Did Battelle perform materials characterization on any recovered debris, at Columbus or at any Battelle-operated national laboratory? No contract, appropriation line, DD Form 254 or facility clearance record establishing this has been produced.",
+"Which Battelle-operated facilities hold SAP carve-out designations under 32 CFR 117.6, and does DCSA retain or lack industrial security cognizance over them?",
+"Why does the cleanest surviving copy of an Air Force report reside in CIA's document holdings rather than in the Air Force's own accession to NARA?",
+"Battelle's own corporate history omits the ATIC work entirely — was that omission a contract requirement, a classification consequence, or an editorial choice?"
+],
+"roles": [
+"research",
+"concealment",
+"custody"
+],
+"whatItIs": "Battelle Memorial Institute is a Columbus, Ohio applied-science nonprofit founded in 1929 that describes itself as the world's largest independent nonprofit applied science organization. From late 1951 it held the classified Air Technical Intelligence Center contract code-named Project STORK, out of which came Project Blue Book Special Report No. 14 (5 May 1955), the largest statistical study of UFO reports ever performed for the U.S. government. Today Battelle manages or co-manages eight U.S. national laboratories, including Los Alamos, Oak Ridge, Idaho, Pacific Northwest and Savannah River.",
+"whyImplicated": "Battelle is the single institution that sits on both sides of the mid-century split: it produced the numbers that the public debunking campaign was built on, and it is the contract operator of the laboratory system where exotic-materials characterization would actually be performed. The Durant Report's own list of documentary evidence placed before the CIA's Robertson Panel names, as item 3, \"Progress Reports of Project STORK (code name for Battelle Memorial Institute contract work supporting ATIC)\" — meaning a private contractor's classified analysis was the evidentiary substrate for the panel that recommended a national \"training and debunking\" program. Battelle's own analysis found roughly 22 percent of about 3,200 cases were unknowns, and that the higher the case quality the more likely it was to be unknown; the Air Force publicized the study in October 1955 as proof that flying saucers did not exist and cited a 3 percent unknown rate. Five days before the Robertson Panel convened, a Battelle memorandum dated 9 January 1953 — the document Jacques Vallee found in J. Allen Hynek's files in 1967 and calls the \"Pentacle memorandum\" — is reported to have proposed that Battelle and ATIC agree in advance on what could and could not be said to the CIA panel. Battelle is therefore not a neutral statistical vendor; it is the earliest documented instance of the pattern this board tracks, a cleared contractor mediating between what the government knew and what a public-facing scientific body was permitted to see."
+},
+"entityInfo": {
+"desc": "Battelle's laboratory portfolio is the largest single concentration of contractor-operated federal research capacity in the United States, and it is the reason the institution recurs at both ends of this board's chronology. Battelle Memorial Institute is sole operator of Pacific Northwest National Laboratory under DOE contract DEAC0576RL01830, on USAspending since 1978 with obligations exceeding $30.6 billion; co-operator of Oak Ridge National Laboratory through UT-Battelle LLC under DEAC0500OR22725, approximately $42.3 billion, 1999-2030; operator of Idaho National Laboratory through Battelle Energy Alliance LLC; a partner in the National Renewable Energy Laboratory and Brookhaven National Laboratory; and operator of the National Biodefense Analysis and Countermeasures Center for DHS. In FY2024 the Battelle-affiliated laboratories alone accounted for roughly $5.27 billion in FFRDC funding (ORNL $2,091.2m, INL $1,594.1m, PNNL $1,585.7m). The UFO record: Project Stork, the Air Force analytical contract, 1952-1955; Blue Book Special Report No. 14, 5 May 1955; the Pentacle Memorandum, 9 January 1953; Wright-Patterson-sponsored nickel-titanium alloy research in 1948-49 whose reports researchers allege are missing from both Air Force and Battelle archives; the ORNL analysis of AARO's magnesium specimen, contracted 2022, reported April 2024; Sean Kirkpatrick's move to ORNL in December 2023; and Mark Peters's move from Battelle headquarters to the MITRE chief executive's office in September 2024. Each link is individually documented. The board's claim about them collectively is a tier-3 inference stated as such: that custody of the government's anomalous-materials analysis capability has stayed inside one institutional family for seventy years, not because of conspiracy but because the government has never built the capability anywhere else.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "NSF NCSES - Master Government List of Federally Funded R&D Centers",
+"url": "https://ncses.nsf.gov/resource/master-gov-lists-ffrdc"
+},
+{
+"date": "2026-05-15",
+"name": "CRS Report R44629 FFRDC funding table",
+"url": "https://www.everycrsreport.com/reports/R44629.html"
+},
+{
+"date": "2026-08-12",
+"name": "USAspending.gov - Battelle Memorial Institute and UT-Battelle LLC awards",
+"url": "https://www.usaspending.gov/"
+},
+{
+"date": "2026-07-08",
+"name": "AARO - UAP Records / Information Papers",
+"url": "https://www.aaro.mil/UAP-Records/"
+}
+]
+},
+"era": "0",
+"foia": {
+"questions": [
+0,
+1,
+3,
+5
+],
+"requests": [
+{
+"agency": "Air Force and CIA",
+"partial": [],
+"questions": [
+0,
+1,
+3,
+5
+],
+"request": "F18",
+"sendTo": "Department of the Air Force FOIA (SAF/AAII) for the contracting and ATIC records; Central Intelligence Agency Information and Privacy Coordinator for the Office of Scientific Intelligence file.",
+"status": "not filed",
+"title": "Air Force and CIA - the Battelle Project STORK contract file"
+}
+]
+},
+"hl": null,
+"id": "battelle",
+"l0": true,
+"label": "Battelle Memorial Institute",
+"locLabel": null,
+"members": [
+{
+"cls": "document",
+"id": "aaro-metallic-specimen-analysis",
+"label": "AARO / ORNL Synopsis: Analysis of a Metallic Specimen",
+"tier": "B"
+},
+{
+"cls": "document",
+"id": "gerb-battelle-investigation",
+"label": "UAP Gerb - Battelle Memorial Institute investigation",
+"tier": "C"
+},
+{
+"cls": "person",
+"id": "howard-c-cross",
+"label": "Howard C. Cross",
+"tier": "C"
+},
+{
+"cls": "location",
+"id": "l-columbus-oh",
+"label": "Columbus, Ohio",
+"tier": "C"
+},
+{
+"cls": "location",
+"id": "l-wright-patterson",
+"label": "Wright-Patterson Air Force Base, Ohio",
+"tier": "A"
+},
+{
+"cls": "person",
+"id": "mark-peters",
+"label": "Mark Todd Peters",
+"tier": "C"
+},
+{
+"cls": "institution",
+"id": "oak-ridge-national-laboratory",
+"label": "Oak Ridge National Laboratory (UT-Battelle, LLC)",
+"tier": "A"
+},
+{
+"cls": "program",
+"id": "project-bear",
+"label": "Project BEAR (Battelle contract to Project GRUDGE)",
+"tier": "C"
+},
+{
+"cls": "program",
+"id": "project-stork",
+"label": "Project Stork (Project White Stork)",
+"tier": "A"
+},
+{
+"cls": "institution",
+"id": "stony-brook-university",
+"label": "Stony Brook University",
+"tier": "C"
+}
+],
+"short": "Battelle Memorial Institute",
+"sources": [
+{
+"date": "2025-03-13",
+"name": "American Alchemy with Jesse Michels, 'Top Physicist: There Was A Nuclear Catastrophe On Mars (ft. Dr. John Brandenburg)' (audio)",
+"url": "https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL3307125405.mp3?updated=1752179577"
+},
+{
+"date": "2025-07-05",
+"name": "American Alchemy with Jesse Michels, 'Fake Alien Signals Drove Him Insane... (ft. Greg Bishop)' (episode audio)",
+"url": "https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL6921419786.mp3?updated=1752608918"
+},
+{
+"date": "2025-07-12",
+"name": "American Alchemy with Jesse Michels, 'Air Force Officer: A UFO Shut Down 10 Nukes in Seconds (ft. Bob Salas)' (episode audio)",
+"url": "https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL8813107798.mp3?updated=1752514599"
+},
+{
+"date": "2026-07-23",
+"name": "Archived: Department of War PURSUE Release 03 - CIA-UAP-015 Project Blue Book Special Report No. 14 (Wayback 2026-07-23)",
+"url": "https://web.archive.org/web/20260723073603/https://www.war.gov/medialink/ufo/061226/release_03/documents/CIA-UAP-015-Project_Blue_Book_Special_Report_No_14.pdf"
+},
+{
+"date": "2020-09-17",
+"name": "The Black Vault - Project Blue Book Special Report #14, May 5, 1955",
+"url": "https://www.theblackvault.com/documentarchive/project-blue-book-special-report-14-may-5-1955/"
+},
+{
+"date": "1955-05-05",
+"name": "CIA CREST - Project Blue Book Special Report No. 14 (CIA-RDP81R00560R000100060001-5)",
+"url": "https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100060001-5.pdf"
+},
+{
+"date": "2026-06-12",
+"name": "Department of War PURSUE Release 03 - CIA-UAP-015 Project Blue Book Special Report No. 14",
+"url": "https://www.war.gov/medialink/ufo/061226/release_03/documents/CIA-UAP-015-Project_Blue_Book_Special_Report_No_14.pdf"
+},
+{
+"date": "2009-05-21",
+"name": "Sarasota Herald-Tribune - Memory-metal files are missing",
+"url": "https://www.heraldtribune.com/story/news/2009/05/21/memory-metal-files-are-missing/28868099007/"
+},
+{
+"date": "2026-08-12",
+"name": "UFO Explorations - Roswell, Battelle, & Memory Metal: New Revelations",
+"url": "https://www.ufoexplorations.com/roswell-battelle-memory-metal-revel"
+},
+{
+"date": "2026-08-12",
+"name": "NSF NCSES - Master Government List of Federally Funded R&D Centers",
+"url": "https://ncses.nsf.gov/resource/master-gov-lists-ffrdc"
+},
+{
+"date": "2024-03-08",
+"name": "AARO, 'Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP), Volume I'",
+"url": "https://documents2.theblackvault.com/documents/dod/AARO_Historical_Record_Report_Volume_1_2024.pdf"
+},
+{
+"date": "2024-07-11",
+"name": "The Black Vault, 'AARO Releases Findings on Suspected Extraterrestrial Alloy' (ORNL analysis of the magnesium specimen)",
+"url": "https://www.theblackvault.com/documentarchive/aaro-releases-findings-on-suspected-extraterrestrial-alloy/"
+},
+{
+"date": "2026-08-12",
+"name": "USAspending.gov federal award search (prime contract obligations by recipient)",
+"url": "https://www.usaspending.gov/search"
+}
+],
+"sub": "Private nonprofit applied science institute, Columbus, Ohio, est. 1929; operator or co-operator of PNNL, ORNL, INL, NREL, Brookhaven and NBACC",
+"tier": "A",
+"tierRationale": "Re-graded A on a global pass (rank 40 of 1027, score 87). 14 connections, 6 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C3/A2/D1.",
+"timeline": []
+}

@@ -1,0 +1,233 @@
+{
+"A": 2,
+"C": 1,
+"D": 2,
+"band": null,
+"claims": [
+{
+"source": "https://www.ecfr.gov/current/title-32/subtitle-A/chapter-I/subchapter-D/part-117/section-117.6",
+"text": "32 CFR 117.6(b): the Director, DCSA 'Oversees and manages DCSA, which serves as the DoD CSO', 'Administers the NISP as a separate program element on behalf of DoD GCAs and those agencies with agreements with DoD for security services', and 'Provides security oversight of the NISP as the DoD CSO on behalf of DoD components and those non-DoD executive branch agencies who enter into agreements with DoD' -- followed immediately by the carve-out sentence relieving the Director of that function for DoD SAPs on SecDef/DepSecDef approval.",
+"tier": 1
+},
+{
+"source": "https://web.archive.org/web/20191018064106/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol1.pdf",
+"text": "DoDM 5205.07 Vol 1, Enclosure 2, para 2.b (then DSS, now DCSA): 'Issues facility security clearances (FCLs) for defense contractors performing on all DoD classified contracts, to include contractors performing on DoD SAPs.' Facility clearance issuance is NOT carved out -- only inspection, IS authorization and CI cross-sharing are. A carved-out SAP contractor site still has a DCSA-issued FCL and therefore still exists in DCSA's facility records.",
+"tier": 1
+},
+{
+"source": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf",
+"text": "DoDI 5205.11 para 1.2.i: 'Defense Counterintelligence and Security Agency (DCSA) oversight for the administration of the National Industrial Security Program will be phased out in July 2029 in accordance with the carve-out provision.'",
+"tier": 1
+},
+{
+"source": "https://web.archive.org/web/20191018064106/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol1.pdf",
+"text": "Because the FCL function survives a carve-out (DoDM V1 Encl 2 para 2.b) while inspection does not, DCSA's facility clearance database remains the one government-wide index that lists a carved-out SAP contractor location as a cleared facility, even when no inspector may enter it. That makes FCL records a discovery surface that the carve-out does not close. Reasoning stated.",
+"tier": 3
+},
+{
+"source": "32 CFR 117.6(b)",
+"text": "32 CFR 117.6(b)(1)-(3): the Director, DCSA 'Oversees and manages DCSA, which serves as the DoD CSO', 'Administers the NISP as a separate program element', and 'Provides security oversight of the NISP as the DoD CSO' - subject to relief by an approved carve-out.",
+"tier": 1
+},
+{
+"source": "DoDM 5205.07 Volume 1, Enclosure 2, para 2.b",
+"text": "DoDM 5205.07-V1 Enclosure 2 para 2.b: the Director, DSS 'Issues facility security clearances (FCLs) for defense contractors performing on all DoD classified contracts, to include contractors performing on DoD SAPs.'",
+"tier": 1
+},
+{
+"source": "GAO-04-332, 3 March 2004",
+"text": "GAO-04-332 (3 March 2004) is titled 'Industrial Security: DOD Cannot Provide Adequate Assurances That Its Oversight Ensures the Protection of Classified Information' and found that DSS 'has not always followed required procedures when contractors have reported security violations and possible compromises of classified information.'",
+"tier": 1
+},
+{
+"source": "GAO-04-332, footnote 2",
+"text": "GAO-04-332 footnote 2: 'As agreed with committee staff, our review was limited to DSS's oversight of contractor facilities' protection of Confidential, Secret, and Top Secret information as defined in Executive Order no. 12958, as amended, and did not include DSS's oversight of special access programs at contractor facilities.'",
+"tier": 1
+},
+{
+"source": "GAO-04-332 footnote 2; search of the govinfo GAOREPORTS collection, 12 August 2026",
+"text": "The only published GAO audit of DoD's industrial security oversight of contractors carved special access programs out of its own scope by agreement with the requesting committee - meaning no public audit exists of the inspection regime for contractor SAPs, carved out or not. Reasoning: GAO-04-332 footnote 2 states the exclusion, and no later GAO product in the govinfo GAOREPORTS collection covers contractor SAP oversight.",
+"tier": 3
+}
+],
+"cls": "institution",
+"cluster": "other",
+"connections": [
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": null,
+"dateStart": "2015-06-18",
+"direction": "in",
+"edgeLabel": "Switches off the only external inspector of a contractor SAP facility",
+"id": "carve-out",
+"l0": true,
+"label": "Carve-Out Provision (DCSA relief from NISP oversight)",
+"note": "DoDM 5205.07-V1 Enclosure 2 para 2.c enumerates what DSS/DCSA does 'Unless a carve-out provision is approved' - inspections, IS authorisation and CI cross-sharing.",
+"sources": [
+{
+"date": "2018-02-12",
+"name": "DoD Manual 5205.07 Volume 1, 18 June 2015, Change 1 12 February 2018",
+"url": "https://web.archive.org/web/20191018064106/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol1.pdf"
+},
+{
+"date": "2026-08-12",
+"name": "32 CFR 117.6 (eCFR, current)",
+"url": "https://www.ecfr.gov/current/title-32/subtitle-A/chapter-I/subchapter-D/part-117/section-117.6"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "relieves DCSA of NISP industrial security oversight for a DoD SAP",
+"id": "carve-out",
+"l0": true,
+"label": "Carve-Out Provision (DCSA relief from NISP oversight)",
+"note": "The regulation names the office the carve-out acts on. 32 CFR 117.6(b) makes the Director, DCSA responsible for 'security oversight of the NISP as the DoD CSO', and then (b)(3) removes it: \"The Director, DCSA, will be relieved of this oversight function for DoD special access programs (SAPs) when the Secretary of Defense or the Deputy Secretary of Defense approves a carve-out provision in accordance with DoDD 5205.07, 'DoD SAP Policy'.\" So the effect is not that oversight passes to another body but that the cognizant security office's oversight function ceases for that programme, on the written approval of one of two named officials.",
+"sources": [
+{
+"date": "2026-08-22",
+"name": "32 CFR part 117 (NISPOM Rule), full text via the eCFR renderer API, read 22 August 2026; published at 85 FR 83312, 21 December 2020",
+"url": "https://www.ecfr.gov/api/renderer/v1/content/enhanced/current/title-32?part=117"
+}
+],
+"tier": "A",
+"type": "programmatic"
+},
+{
+"claimTier": 1,
+"cls": "legislation",
+"dateEnd": null,
+"dateStart": "2021-02-24",
+"direction": "out",
+"edgeLabel": "Designated the DoD Cognizant Security Office by regulation",
+"id": "cfr-32-117",
+"l0": false,
+"label": "32 CFR Part 117 — NISPOM Rule",
+"note": "32 CFR 117.6(b)(1): the Director, DCSA 'Oversees and manages DCSA, which serves as the DoD CSO.'",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "32 CFR 117.6 (eCFR, current)",
+"url": "https://www.ecfr.gov/current/title-32/subtitle-A/chapter-I/subchapter-D/part-117/section-117.6"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "relieves it of oversight",
+"id": "dodm-5205-07-series",
+"l0": false,
+"label": "DoDM 5205.07 — DoD SAP Security Manual (Volumes 1-4)",
+"note": "The carve-out's effect runs against this body: the Manual's own definition is that the provision 'relieves DSS of its NISP obligation to perform industrial security oversight'. DSS is the predecessor of DCSA, which now holds the cognizant-security-office role under the NISP. The Manual is the instrument by which the oversight body is stood down for a given programme.",
+"sources": [
+{
+"date": "2026-05-18",
+"name": "Archived: DoDM 5205.07 Volume 4, 'Special Access Program (SAP) Security Manual: Marking', 10 Oct 2013, Incorporating Change 2, effective 8 September 2020 (Wayback 2026-05-18)",
+"url": "https://web.archive.org/web/20260518063205/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507-V4p.PDF"
+},
+{
+"date": "2018-02-12",
+"name": "DoDM 5205.07 Volume 1, 'DoD SAP Security Manual: General Procedures', 18 June 2015, Incorporating Change 1, 12 Feb 2018 (Internet Archive capture, 18 Oct 2019)",
+"url": "https://web.archive.org/web/20191018064106/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol1.pdf"
+}
+],
+"tier": "A",
+"type": "programmatic"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "2004-03-03",
+"dateStart": "2004-03-03",
+"direction": "out",
+"edgeLabel": "GAO found DoD could not assure adequate industrial security oversight - and excluded SAPs",
+"id": "gao-04-332",
+"l0": false,
+"label": "GAO-04-332 — Industrial Security: DOD Cannot Provide Adequate Assurances That Its Oversight Ensures the Protection of Classified Information",
+"note": "GAO-04-332 title states the finding; its footnote 2 records that the review 'did not include DSS's oversight of special access programs at contractor facilities'.",
+"sources": [
+{
+"date": "2004-03-03",
+"name": "GAO-04-332, Industrial Security",
+"url": "https://www.govinfo.gov/content/pkg/GAOREPORTS-GAO-04-332/html/GAOREPORTS-GAO-04-332.htm"
+}
+],
+"tier": "B",
+"type": "investigative"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "1993-01-06",
+"deg": 4,
+"denials": [],
+"desc": "DCSA, the successor to the Defense Security Service, is designated by 32 CFR 117.6(b)(1) as the DoD Cognizant Security Office. It administers the National Industrial Security Program 'as a separate program element on behalf of DoD GCAs and those agencies with agreements with DoD for security services' and 'Provides security oversight of the NISP as the DoD CSO on behalf of DoD components and those non-DoD executive branch agencies who enter into agreements with DoD'. It issues facility clearances for defense contractors 'to include contractors performing on DoD SAPs'. It is the only recurring, external, adversarial security inspection that a cleared contractor facility receives - and it is the entity that the carve-out provision at 32 CFR 117.6(b)(3) switches off by a signature of the Secretary or Deputy Secretary of Defense. DCSA's own performance without any carve-out was found wanting by GAO in 2004: GAO-04-332 concluded that DoD 'cannot provide adequate assurances that its oversight ensures the protection of classified information' at contractor facilities. The report is doubly relevant because GAO expressly excluded SAPs from the review at the request of committee staff - so the only public audit of the industrial security inspection system deliberately did not look at the programs the board cares about.",
+"domains": [
+"_rs-archive-mirror",
+"_rs-sap-docs",
+"w2-sap-architecture"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "1",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "dcsa-nisp",
+"l0": false,
+"label": "DCSA as DoD Cognizant Security Office under the NISP",
+"locLabel": null,
+"members": null,
+"short": "DCSA as DoD Cognizant Security Office under the NISP",
+"sources": [
+{
+"date": "2025-08-09",
+"name": "Archived: DoDI 5205.11 (12 Sep 2024) (Wayback 2025-08-09)",
+"url": "https://web.archive.org/web/20250809023849/https://www.esd.whs.mil/portals/54/documents/dd/issuances/dodi/520511p.pdf"
+},
+{
+"date": "2026-08-12",
+"name": "32 CFR 117.6 (eCFR)",
+"url": "https://www.ecfr.gov/current/title-32/subtitle-A/chapter-I/subchapter-D/part-117/section-117.6"
+},
+{
+"date": "2018-02-12",
+"name": "DoDM 5205.07 Vol 1 (18 Jun 2015, Chg 1 12 Feb 2018) — Internet Archive capture",
+"url": "https://web.archive.org/web/20191018064106/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol1.pdf"
+},
+{
+"date": "2024-09-12",
+"name": "DoDI 5205.11 (12 Sep 2024)",
+"url": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf"
+},
+{
+"date": "2026-08-12",
+"name": "32 CFR Part 117 full rendered text (eCFR API, verified retrieval 12 Aug 2026) — canonical citation https://www.ecfr.gov/current/title-32/part-117",
+"url": "https://www.ecfr.gov/api/renderer/v1/content/enhanced/current/title-32?part=117"
+},
+{
+"date": "2004-03-03",
+"name": "GAO-04-332, Industrial Security: DOD Cannot Provide Adequate Assurances That Its Oversight Ensures the Protection of Classified Information",
+"url": "https://www.govinfo.gov/content/pkg/GAOREPORTS-GAO-04-332/html/GAOREPORTS-GAO-04-332.htm"
+}
+],
+"sub": "agency",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 161 of 1027, score 48). 5 connections, 2 of them custody/witness/funding/programmatic. Axes C1/A2/D2.",
+"timeline": []
+}

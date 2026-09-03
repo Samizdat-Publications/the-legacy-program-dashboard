@@ -1,0 +1,407 @@
+{
+"A": 0,
+"C": 0,
+"D": 3,
+"band": "retrieval",
+"claims": [
+{
+"source": "Title and copyright pages of the original printings, scanned at the Internet Archive — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"text": "Status Report II is dated January 1980 and was published by MUFON; Status Report IV is dated June 1985; Status Report V is dated January 1989; Status Report VI is dated July 1991 and was self-published by Stringfield at 4412 Grove Avenue, Cincinnati, Ohio 45227; Status Report VII is dated February 1994.",
+"tier": 2
+},
+{
+"source": "Stringfield, 'Retrievals of the Third Kind - Part 1', header note — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"text": "Status Report I was a paper delivered at the MUFON Symposium on 29 July 1978 and contributed to Flying Saucer Review, revised 20 July 1978, with Stringfield's address given as 4412 Grove Avenue, Cincinnati, Ohio 45227.",
+"tier": 2
+},
+{
+"source": "Stringfield, Status Report III, p. 125 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"text": "Status Report III carries the imprimatur of Dr. Peter Rank, Chief of Radiology, Methodist Hospital, and Richard H. Hall, former Assistant Director of NICAP 1958-1967 and editor of the MUFON UFO Journal, and prints a consolidated chronology of cases reported in Status Report II.",
+"tier": 2
+},
+{
+"source": "Stringfield, Status Report VII, acknowledgements, February 1994 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"text": "Status Report VII acknowledges past funding from the Fund for UFO Research and the cooperation of MUFON, the J. Allen Hynek Center for UFO Studies and the Mid-Ohio Research Associates.",
+"tier": 2
+},
+{
+"source": "Stringfield, Status Report III, case notes on Kingman",
+"text": "Status Report III records that Kingman, Arizona, 1953 was first investigated and reported by Raymond Fowler, that Stringfield wrote to Fowler on 11 August 1980 seeking access to Fowler's source 'Fritz Werner' (pseudonym), and that Werner's written answers are dated 2 September 1980.",
+"tier": 2
+}
+],
+"cls": "document",
+"cluster": "research",
+"connections": [
+{
+"claimTier": 2,
+"cls": "event",
+"dateEnd": "1989",
+"dateStart": "1978",
+"direction": "out",
+"edgeLabel": "Stringfield revived Aztec as a real retrieval in the late 1970s",
+"id": "aztec-1948",
+"l0": true,
+"label": "Aztec, New Mexico claim, March 1948",
+"note": "After two decades in which ufologists treated Aztec as dead, Stringfield argued the incident was real and that the craft was one of many held by the US military; Status Report V lists Aztec alongside Roswell, Kingman, El Yunque and Brown County.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Stringfield Status Reports 1-7 (scans)",
+"url": "https://archive.org/details/stringfield_Retrievals_Report_6_inner_sanctum_LQ"
+}
+],
+"tier": "A",
+"type": "research"
+},
+{
+"claimTier": 3,
+"cls": "document",
+"dateEnd": "1994",
+"dateStart": "1984",
+"direction": "in",
+"edgeLabel": "Documentary method versus anonymous-testimony method",
+"id": "clear-intent-1984",
+"l0": false,
+"label": "Clear Intent: The Government Coverup of the UFO Experience (1984)",
+"note": "The two bodies of work are contemporaneous and methodologically opposite: 'Clear Intent' sources every claim to a released government document, the Status Reports to protected anonymous informants. Reasoning: the difference in grade this board assigns them is entirely a difference in sourcing, not in subject matter.",
+"sources": [
+{
+"date": "1984-01-01",
+"name": "Fawcett and Greenwood, 'Clear Intent' (1984)",
+"url": "https://archive.org/details/clear-intent-the-government-coverup-of-the-ufo-experience"
+},
+{
+"date": "2026-08-12",
+"name": "Stringfield Status Reports 1-7 (scans)",
+"url": "https://archive.org/details/stringfield_Retrievals_Report_6_inner_sanctum_LQ"
+}
+],
+"tier": "C",
+"type": "research"
+},
+{
+"claimTier": 2,
+"cls": "event",
+"dateEnd": "1982",
+"dateStart": "1980-01",
+"direction": "out",
+"edgeLabel": "Status Report chronology indexes Del Rio as Item B-7",
+"id": "del-rio-1950",
+"l0": false,
+"label": "Del Rio / Mexican border claim, 1948 or 1950",
+"note": "The consolidated chronology in Status Report III lists Item B-7 of Status Report II as '1948 or 1950: Mexico, near Del Rio, Texas. Air Force officer observed crashed craft and one body.'",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Stringfield Status Reports 1-7 (scans)",
+"url": "https://archive.org/details/stringfield_Retrievals_Report_6_inner_sanctum_LQ"
+}
+],
+"tier": "C",
+"type": "research"
+},
+{
+"claimTier": 2,
+"cls": "event",
+"dateEnd": "1982",
+"dateStart": "1980-09-02",
+"direction": "out",
+"edgeLabel": "Status Report III printed the 1980 'Fritz Werner' Q&A on Kingman",
+"id": "kingman-1953",
+"l0": false,
+"label": "Kingman, Arizona claim, 1953",
+"note": "Stringfield wrote to Raymond Fowler on 11 August 1980 for access to Fowler's pseudonymous source; the answers are dated 2 September 1980 and are printed verbatim in Status Report III.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Stringfield Status Reports 1-7 (scans)",
+"url": "https://archive.org/details/stringfield_Retrievals_Report_6_inner_sanctum_LQ"
+}
+],
+"tier": "C",
+"type": "research"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "1994-02",
+"dateStart": "1978-07-29",
+"direction": "in",
+"edgeLabel": "Authored the seven-part Status Report series",
+"id": "leonard-stringfield",
+"l0": false,
+"label": "Leonard H. Stringfield",
+"note": "Stringfield wrote and self-published or placed all seven Status Reports between July 1978 and February 1994. Title and copyright pages of the original printings attest authorship, dates and, for Report VI, the Cincinnati imprint.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Stringfield Status Reports 1-7 (scans)",
+"url": "https://archive.org/details/stringfield_Retrievals_Report_6_inner_sanctum_LQ"
+}
+],
+"tier": "C",
+"type": "research"
+},
+{
+"claimTier": 3,
+"cls": "document",
+"dateEnd": "2005",
+"dateStart": "2005",
+"direction": "in",
+"edgeLabel": "The catalogue inherits Stringfield's case base",
+"id": "majic-eyes-only",
+"l0": false,
+"label": "Majic Eyes Only: Earth's Encounters with Extraterrestrial Technology (2005)",
+"note": "A substantial share of 'Majic Eyes Only' entries trace back through Stringfield's anonymised Status Report cases, so the catalogue inherits their provenance limits. Reasoning: an index cannot be graded above its sources.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Stringfield Status Reports 1-7 (scans)",
+"url": "https://archive.org/details/stringfield_Retrievals_Report_6_inner_sanctum_LQ"
+}
+],
+"tier": "C",
+"type": "research"
+}
+],
+"coords": null,
+"dateEnd": "1994-02",
+"dateStart": "1978-07-29",
+"deg": 6,
+"denials": [],
+"desc": "The seven UFO Crash/Retrieval Status Reports written by Leonard H. Stringfield between 1978 and 1994 are the founding corpus of the crash-retrieval literature and the reason the subject exists as a research field rather than as folklore. Status Report I is 'Retrievals of the Third Kind: A Case Study of Alleged UFOs and Occupants in Military Custody', delivered as a paper at the ninth annual MUFON Symposium in Dayton, Ohio on 29 July 1978 (revised 20 July 1978) and published in Flying Saucer Review; it grew out of the informant response to Stringfield's 1977 Doubleday book 'Situation Red, The UFO Siege'. Status Report II, 'The UFO Crash/Retrieval Syndrome: New Sources, New Data', is dated January 1980 and was published by MUFON; it introduced the letter-number case coding (Cases A-1 onward, Items B-1 onward) that structures the whole series, and included the first Del Rio and Wright-Patterson entries. Status Report III, 'Amassing the Evidence' (1982), carried endorsements from Dr. Peter Rank, Chief of Radiology at Methodist Hospital, and Richard H. Hall, former Assistant Director of NICAP and editor of the MUFON UFO Journal, and printed a consolidated chronology of every case reported in Status Report II - the field's first tabulated retrieval index. Status Report IV, 'The Fatal Encounter at Ft. Dix-McGuire: A Case Study' (June 1985), is a single-case monograph on an alleged 18 January 1978 incident at McGuire AFB and Fort Dix, developed from a USAF Security Police sergeant who had first appeared as Case A3 in Report III, and opens with a prologue titled 'The Burden of Proof' in which Stringfield states that public research does not possess proof and that affidavits, leaked documents and photographs are not proof. Status Report V, 'Is the Coverup Lid Lifting?' (January 1989), surveys Roswell, Aztec, Kingman, El Yunque and Brown County, Ohio, and argues that confirming any single retrieval would compel eventual sharing of alien propulsion and materials technology. Status Report VI, 'The Inner Sanctum' (July 1991), was self-published from 4412 Grove Avenue, Cincinnati, edited by Richard Hall and typed by Chris Coffey, and opens with the Humpty Dumpty verse from Through the Looking Glass. Status Report VII, 'Search for Proof in a Hall of Mirrors' (February 1994), acknowledges funding from the Fund for UFO Research and cooperation from MUFON, CUFOS and the Mid-Ohio Research Associates, opens with Walter Scott's 'I cannot tell how the truth may be; I say the tale as 'twas told to me', and closes the series ten months before Stringfield's death with a Roswell crash/retrieval update noting a source's placement of the site north of Roswell rather than on the Plains of San Augustin. The series' method - anonymous sources behind letter-number codes - is simultaneously the reason the material exists and the reason almost none of it can be graded above tier 2.",
+"domains": [
+"w2-retrieval-literature"
+],
+"dossier": {
+"claims": [
+{
+"source": "https://en.wikipedia.org/wiki/Leonard_H._Stringfield",
+"text": "Leonard H. Stringfield (1920 - 18 December 1994) self-published seven 'Status Report' monographs on alleged UFO crash retrievals between 1978 and 1994.",
+"tier": 2
+},
+{
+"source": "https://en.wikipedia.org/wiki/Leonard_H._Stringfield ; catalog record: https://search.worldcat.org/title/40244495",
+"text": "Status Report I was the paper 'Retrievals of the Third Kind: A case study of alleged UFOs and occupants in military custody,' presented at the Ninth Annual MUFON Symposium in Dayton, Ohio in July 1978.",
+"tier": 2
+},
+{
+"source": "https://en.wikipedia.org/wiki/Leonard_H._Stringfield",
+"text": "The full series titles are: I 'Retrievals of the Third Kind' (1978); II 'The UFO Crash/Retrieval Syndrome: New Sources, New Data' (1980); III 'Amassing the Evidence' (1982); IV 'The fatal encounter at Ft. Dix-McGuire: A case study' (1985); V 'Is the coverup lid lifting?' (1989); VI 'The Inner Sanctum' (1991); VII 'Search for Proof in a Hall of Mirrors' (1994).",
+"tier": 2
+},
+{
+"source": "https://en.wikipedia.org/wiki/Leonard_H._Stringfield",
+"text": "Stringfield founded Civilian Research, Interplanetary Flying Objects (CRIFO) in Cincinnati and published the monthly newsletter ORBIT.",
+"tier": 2
+},
+{
+"source": "https://en.wikipedia.org/wiki/Leonard_H._Stringfield",
+"text": "In 1957 Stringfield became public relations adviser to the National Investigations Committee on Aerial Phenomena under Donald Keyhoe, a friend since 1953.",
+"tier": 2
+},
+{
+"source": "https://en.wikipedia.org/wiki/Leonard_H._Stringfield ; NICAP biography: https://web.archive.org/web/20130912052144/http://www.nicap.org/bios/stringfield.htm",
+"text": "From 1967 to 1969 Stringfield served as an 'Early Warning Coordinator' for the Condon Committee at the University of Colorado, screening UFO reports for possible scientific study.",
+"tier": 2
+},
+{
+"source": "https://web.archive.org/web/20130912052144/http://www.nicap.org/bios/stringfield.htm",
+"text": "NICAP's biography states Stringfield worked in cooperation with the U.S. Air Force from 1953 to 1957 investigating and reporting UFO activity, having been assigned a special code number for reporting to the Air Defense Command in Columbus, Ohio.",
+"tier": 2
+},
+{
+"source": "https://en.wikipedia.org/wiki/Leonard_H._Stringfield",
+"text": "Stringfield's civilian employment was as Director of Public Relations and Marketing Services for DuBois Chemicals, a division of Chemed Corporation, Cincinnati.",
+"tier": 2
+},
+{
+"source": "https://en.wikipedia.org/wiki/Leonard_H._Stringfield",
+"text": "In 1978 Stringfield served as UFO research adviser to Grenadian Prime Minister Sir Eric Gairy, who that year pressed the United Nations to study UFOs.",
+"tier": 2
+},
+{
+"source": "https://podcastufo.com/leonard-stringfields-status-report-at-the-1978-mufon-symposium/",
+"text": "Stringfield served as Director of Public Relations and a board member of the Mutual UFO Network.",
+"tier": 3
+},
+{
+"source": "https://www.uapedia.ai/wiki/leonard-h-stringfield-architect-of-the-crash-retrieval-narrative/",
+"text": "The Status Reports present cases as numbered abstracts from unnamed informants; 'Abstract XXII: Biological data relating to retrieved alien bodies' is described in the text as a composite assembled from anonymous medical and military sources.",
+"tier": 3
+},
+{
+"source": "https://en.wikipedia.org/wiki/Leonard_H._Stringfield",
+"text": "Status Report IV (1985) departs from the abstract format to treat a single named case, the alleged fatal encounter at Fort Dix and McGuire Air Force Base, New Jersey, providing an installation-specific claim that is checkable against Army and Air Force records.",
+"tier": 2
+},
+{
+"source": "https://projectaquarius.mufon.com/private-collections-stringfield-files/",
+"text": "Stringfield's original research files survive as a discrete archival collection, listed by MUFON's Project Aquarius Library as the 'Stringfield Files' private collection.",
+"tier": 2
+},
+{
+"source": "https://www.amazon.com/UFO-Crash-Retrievals-Investigation-1978-1994/dp/0359685080",
+"text": "A 2019 compilation edition republished all seven Status Reports (1978-1994) in a single volume, ISBN 978-0359685080.",
+"tier": 2
+},
+{
+"source": "Assessed from the published texts and from the absence of any Stringfield case in the AARO Historical Record Report Volume 1: https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF",
+"text": "No claim within any Status Report identifies a source by name, and no published abstract has been independently corroborated by a released government document.",
+"tier": 2
+}
+],
+"connections": [
+"Stringfield's Air Defense Command reporting code (Columbus, Ohio, 1953-1957) places him inside the early USAF civilian-reporting apparatus alongside Project Blue Book-era filtering, making him a bridge between official 1950s reporting channels and the private crash-retrieval literature.",
+"His Condon Committee 'Early Warning Coordinator' role from 1967-1969 links him to the last official U.S. scientific study of UFOs before the subject was formally dropped by the Air Force.",
+"MUFON is both the venue for Status Report I and the current custodian of the Stringfield Files, making it the single institution holding the unredacted source material.",
+"The Fort Dix-McGuire case in Status Report IV is the only installation-and-date-specific claim in the series and is the natural target for FOIA against Army and Air Force security police records.",
+"The structural content of Stringfield's abstracts — recovery, transport, secure facility, autopsy of non-human remains, compartmented handling — is the same claim structure David Grusch presented to the House Oversight Committee in 2023 and that AARO attributes to KONA BLUE-derived misinterpretation.",
+"Donald Keyhoe and NICAP connect Stringfield to the 1950s-60s civilian pressure campaign for congressional hearings, the direct ancestor of the 2023-2025 Oversight hearings.",
+"Eric Gairy's 1978 UN initiative gives Stringfield a documented, if brief, foreign-government advisory role in the same year as Status Report I."
+],
+"denialPosture": "No U.S. government body has ever formally addressed the Stringfield Status Reports by name. AARO's 2024 Historical Record Report Volume 1 does not engage the Stringfield corpus, though it broadly asserts that alleged reverse-engineering and recovery programs described to it either do not exist or are misidentifications of authentic sensitive programs. The silence is itself notable given that the reports are the origin point for much of the claim structure AARO was chartered to resolve.",
+"narrative": "Stringfield's standing rests on a career that predates the crash-retrieval work by two decades. In 1954 he founded Civilian Research, Interplanetary Flying Objects (CRIFO) in Cincinnati and published the newsletter ORBIT. He wrote 'Inside Saucer Post...3-0 Blue: CRIFO Views the Status Quo' in 1957, the same year he became public relations adviser to Donald Keyhoe's National Investigations Committee on Aerial Phenomena. From 1967 to 1969 he served as an 'Early Warning Coordinator' for the Condon Committee at the University of Colorado, screening incoming reports for possible scientific study. He was later Director of Public Relations for the Mutual UFO Network. His day job, throughout, was Director of Public Relations and Marketing Services for DuBois Chemicals, a division of Chemed Corporation. He died of lung cancer on 18 December 1994.\n\nThe relevant biographical detail for a concealment analysis is the reporting arrangement. NICAP's own biography states that Stringfield worked in cooperation with the U.S. Air Force from 1953 to 1957 investigating and reporting UFO activity, having been assigned a special code number for reporting to the Air Defense Command in Columbus, Ohio. A civilian researcher holding an assigned reporting code to ADC is an unusual artifact and it explains why military personnel later approached him rather than a journalist.\n\nThe Status Report series, with titles and dates as published: Status Report I, 'Retrievals of the Third Kind: A case study of alleged UFOs and occupants in military custody' (1978, from the Ninth Annual MUFON Symposium, Dayton, Ohio, July 1978); Status Report II, 'The UFO Crash/Retrieval Syndrome: New Sources, New Data' (1980); Status Report III, 'UFO Crash/Retrievals: Amassing the Evidence' (1982); Status Report IV, 'The fatal encounter at Ft. Dix-McGuire: A case study' (1985); Status Report V, 'UFO Crash/Retrievals: Is the coverup lid lifting?' (1989); Status Report VI, 'UFO Crash/Retrievals: The Inner Sanctum' (1991); Status Report VII, 'UFO Crash/Retrievals: Search for Proof in a Hall of Mirrors' (1994). All were self-published. A 2019 compilation reissued all seven in one volume.\n\nThe method is the weakness and also the reason the corpus is worth auditing. Stringfield presented cases as numbered abstracts summarizing accounts from unnamed informants, most described as military or medical personnel. Some abstracts are explicitly composites; the widely cited 'Abstract XXII: Biological data relating to retrieved alien bodies' is described as a composite assembled from anonymous medical and military sources. No abstract in the published series can be independently verified from the text alone, because the text withholds the identifying information that would permit verification. That is a disqualifying defect for any individual claim and simultaneously the exact behavior one would expect from a researcher protecting serving personnel.\n\nStatus Report IV is the outlier and the best single entry point for an analyst. It abandons the abstract format for a single named case study, the alleged January 1978 incident at Fort Dix and McGuire Air Force Base in New Jersey, with a specific installation, a specific date window, and identifiable military police and security police units. That case is checkable against Army and Air Force records in a way the composite abstracts are not.\n\nThe physical archive survives. MUFON's Project Aquarius Library lists the Stringfield Files as a private collection. The underlying correspondence, informant notes and case files in that collection are the actual evidentiary object; the published monographs are only the redacted output. Whether the collection contains unredacted informant identities is the single most consequential unanswered question about this entity.\n\nWhat the record shows: a well-documented researcher with an unusual official reporting relationship who, over sixteen years, published seven monographs compiling anonymous military testimony about recoveries and autopsies, and who left an archive. What the record does not show: any named source, any document, any physical item, or any independent corroboration of a single abstract. Tiered honestly, the existence, authorship, dating and archival survival of the Status Reports are Tier 1 or 2; every substantive claim inside them is Tier 3 pending identification of sources.",
+"openQuestions": [
+"Do the Stringfield Files at MUFON contain unredacted informant identities, and under what access conditions?",
+"Was the special ADC reporting code assigned to Stringfield an official Air Force arrangement, and does a USAF record of it exist?",
+"One catalog record dates 'Retrievals of the Third Kind' to 5 April 1978 while the symposium was held in July 1978; which is the paper's actual first distribution date?",
+"Are any of Stringfield's abstracts traceable to individuals who later surfaced in the AATIP, KONA BLUE or AARO interview pools?",
+"Do Army or Air Force records substantiate any incident at Fort Dix-McGuire in the January 1978 window described in Status Report IV?",
+"Did Stringfield ever provide his files or informant identities to any federal entity, and was he ever contacted by one?",
+"How much of the corpus is independent testimony versus recirculation of a small number of original informants? No source-mapping of the seven reports has been published."
+],
+"roles": [
+"retrieval",
+"custody",
+"research",
+"disclosure"
+],
+"whatItIs": "The Status Reports are a series of seven self-published monographs by Cincinnati ufologist Leonard H. Stringfield (1920-1994), issued between 1978 and 1994, compiling anonymized first- and second-hand accounts of alleged U.S. military recoveries of crashed craft and occupant bodies. The first, 'Retrievals of the Third Kind: A Case Study of Alleged UFOs and Occupants in Military Custody,' was presented at the Ninth Annual MUFON Symposium in Dayton, Ohio in July 1978. The series is the foundational corpus of the modern crash-retrieval literature.",
+"whyImplicated": "Every modern claim about a legacy retrieval program is downstream of a source pool that Stringfield assembled first. His method — solicit military and medical personnel, strip identities, publish coded case abstracts — created a body of testimony in the late 1970s and 1980s whose content is structurally identical to what witnesses told the House Oversight Committee in 2023 and 2024: recovery of intact and damaged craft, transport to secure facilities, autopsy of non-human remains, compartmented handling outside normal channels. If those 2023 claims are a modern fabrication, the fabrication is forty-five years old and was published in monograph form by a MUFON public relations director with a documented Air Defense Command reporting relationship. If they are not, Stringfield's files are the earliest systematic index of the program's personnel. Either way, the corpus is a testable object: the sources are anonymous, but the cases carry dates, units and installations, and the underlying files exist as a physical archive. The honest tier here is low on the substance and high on the provenance."
+},
+"entityInfo": {
+"desc": "The seven Status Reports are the domain's founding corpus and its founding problem. Dated and titled precisely: I, 'Retrievals of the Third Kind', MUFON Symposium, Dayton, 29 July 1978 (revised 20 July 1978), also published in Flying Saucer Review; II, 'The UFO Crash/Retrieval Syndrome: New Sources, New Data', January 1980, published by MUFON; III, 'Amassing the Evidence', 1982, endorsed by Dr. Peter Rank of Methodist Hospital and Richard H. Hall, former Assistant Director of NICAP; IV, 'The Fatal Encounter at Ft. Dix-McGuire', June 1985; V, 'Is the Coverup Lid Lifting?', January 1989; VI, 'The Inner Sanctum', July 1991, self-published at 4412 Grove Avenue, Cincinnati, edited by Richard Hall; VII, 'Search for Proof in a Hall of Mirrors', February 1994. Complete scans of all seven are public. The corpus is the reason the crash-retrieval field exists and the reason it cannot be audited: the source-protection coding that made it possible to collect made it impossible to check.",
+"sources": []
+},
+"era": "1",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "stringfield-status-reports",
+"l0": true,
+"label": "UFO Crash/Retrieval Status Reports I-VII (Stringfield, 1978-1994)",
+"locLabel": null,
+"members": [
+{
+"cls": "document",
+"id": "clear-intent-1984",
+"label": "Clear Intent: The Government Coverup of the UFO Experience (1984)",
+"tier": "C"
+},
+{
+"cls": "event",
+"id": "del-rio-1950",
+"label": "Del Rio / Mexican border claim, 1948 or 1950",
+"tier": "C"
+},
+{
+"cls": "event",
+"id": "kingman-1953",
+"label": "Kingman, Arizona claim, 1953",
+"tier": "C"
+},
+{
+"cls": "person",
+"id": "leonard-stringfield",
+"label": "Leonard H. Stringfield",
+"tier": "C"
+},
+{
+"cls": "document",
+"id": "majic-eyes-only",
+"label": "Majic Eyes Only: Earth's Encounters with Extraterrestrial Technology (2005)",
+"tier": "C"
+}
+],
+"short": "UFO Crash/Retrieval Reports I-VII",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "UFO Crash Retrievals, Status Reports 1-7 by Leonard Stringfield - full scans",
+"url": "https://archive.org/details/stringfield_Retrievals_Report_6_inner_sanctum_LQ"
+},
+{
+"date": "2026-08-12",
+"name": "Retrievals of the Third Kind (1978) - scan",
+"url": "https://archive.org/details/leonard-stringfield-retrievals-of-the-third-kind"
+},
+{
+"date": "2026-08-12",
+"name": "Leonard Stringfield - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/Leonard_Stringfield"
+}
+],
+"sub": "Seven-part self-published monograph series, 1978-1994",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 712 of 1027, score 22). 6 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.",
+"timeline": [
+{
+"date": "1978-07-29",
+"id": "tl-1978-0729-stringfield",
+"label": "Retrievals of the Third Kind",
+"precision": "day",
+"strand": "program",
+"text": "Leonard Stringfield delivers Status Report I at the ninth annual MUFON Symposium in Dayton, Ohio. The crash-retrieval literature begins as a research field.",
+"tier": "A"
+},
+{
+"date": "1980-01",
+"id": "tl-1980-01-sr2",
+"label": "Status Report II",
+"precision": "month",
+"strand": "program",
+"text": "'The UFO Crash/Retrieval Syndrome: New Sources, New Data', published by MUFON, introduces the letter-number case coding and the first Del Rio and Wright-Patterson entries.",
+"tier": "A"
+},
+{
+"date": "1985-06",
+"id": "tl-1985-06-sr4",
+"label": "Status Report IV",
+"precision": "month",
+"strand": "program",
+"text": "'The Fatal Encounter at Ft. Dix-McGuire' opens with a prologue titled 'The Burden of Proof' in which Stringfield states that public research does not have proof and that affidavits, leaked documents and photographs are not proof.",
+"tier": "A"
+},
+{
+"date": "1989-01",
+"id": "tl-1989-01-sr5",
+"label": "Status Report V",
+"precision": "month",
+"strand": "program",
+"text": "'Is the Coverup Lid Lifting?' surveys Roswell, Aztec, Kingman, El Yunque and Brown County, Ohio, and argues that confirming a single retrieval would compel eventual sharing of alien propulsion and materials technology.",
+"tier": "A"
+},
+{
+"date": "1994-02",
+"id": "tl-1994-02-sr7",
+"label": "Status Report VII",
+"precision": "month",
+"strand": "program",
+"text": "'Search for Proof in a Hall of Mirrors', Stringfield's last, opens with Walter Scott's 'I say the tale as 'twas told to me' and acknowledges the Fund for UFO Research, MUFON, CUFOS and the Mid-Ohio Research Associates. He dies ten months later.",
+"tier": "A"
+},
+{
+"date": "2026-08-12",
+"id": "tl-2026-08-state",
+"label": "State of the record, August 2026",
+"precision": "day",
+"strand": "program",
+"text": "The retrieval literature stands where Stringfield left it: a large, internally consistent, unauditable testimony corpus. The nuclear-incursion strand stands materially higher, on FOIA-released NORAD, NMCC and Air Force paper plus named affiants. The only judicial findings in the domain are that a UFO injury claim fails on the pleadings and that a UFO records search was inadequate.",
+"tier": "A"
+}
+]
+}

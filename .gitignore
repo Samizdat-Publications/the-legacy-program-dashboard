@@ -32,3 +32,9 @@ research/.transcripts/
 # Exported transcripts. Same rule as the cache above: obtained and processed
 # for leads, never published. tools/export_transcripts.py writes here by default.
 dist/transcripts/
+
+# the new shell (app/)
+app/node_modules/
+app/dist/
+app/shots/
+app/.vite/

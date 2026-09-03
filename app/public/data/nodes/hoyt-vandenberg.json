@@ -1,0 +1,187 @@
+{
+"A": 3,
+"C": 1,
+"D": 0,
+"affiliations": [
+"Director of Central Intelligence (1946-1947)",
+"US Air Force Chief of Staff (1948-1953)"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "1946-06-10",
+"event": "Becomes Director of Central Intelligence",
+"precision": "day"
+},
+{
+"date": "1948-04-30",
+"event": "Becomes Air Force Chief of Staff",
+"precision": "day"
+},
+{
+"date": "1948-07-01",
+"event": "Project SIGN staff prepare the Top Secret 'Estimate of the Situation'",
+"precision": "month"
+},
+{
+"date": "1948-08-01",
+"event": "Rejects the Estimate and orders copies destroyed",
+"precision": "month"
+},
+{
+"date": "1949-02-11",
+"event": "Project SIGN is reconstituted as Project GRUDGE",
+"precision": "day"
+}
+],
+"claims": [
+{
+"source": "Condon Report, Section V Chapter 2, 'UFOs 1947-1968' (University of Colorado, USAF contract 44620-67-C-0035, 1968)",
+"text": "Staff prepared a classified 'Estimate of the Situation' in 1948 asserting UFOs were interplanetary vehicles; Vandenberg rejected it for lacking proof and copies were destroyed.",
+"tier": 1
+},
+{
+"source": "Ruppelt, 'The Report on Unidentified Flying Objects', 1956",
+"text": "The Estimate's existence and destruction were first published by Edward Ruppelt, the first Blue Book director, in 1956.",
+"tier": 2
+},
+{
+"source": "Condon Report, Section V Chapter 2",
+"text": "Project SIGN was reconstituted as Project GRUDGE on 11 February 1949 with a conclusion that reports were misinterpretation, mass hysteria and hoaxes posing 'no direct threat to national security.'",
+"tier": 1
+},
+{
+"source": "Inference linking Condon Sec. V Ch. 2 to GAO/NSIAD-95-187",
+"text": "The 1948 destruction is the earliest identifiable instance of the pattern the 1995 GAO report later documented at Roswell — records adverse to the official line disappearing without disposition authority.",
+"tier": 3
+}
+],
+"cls": "person",
+"cluster": "legacy",
+"conflicts": [
+"No copy of the Estimate of the Situation has ever surfaced; the Air Force has at times denied it existed, while its own contracted report records that it did"
+],
+"connections": [
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "1948",
+"dateStart": "1946",
+"direction": "out",
+"edgeLabel": "Vandenberg was DCI before becoming Air Force Chief of Staff",
+"id": "cia",
+"l0": true,
+"label": "Central Intelligence Agency",
+"note": "He directed Central Intelligence in 1946-1947 and then held the top Air Force post from 1948, arriving at the destruction decision already fluent in compartmentation.",
+"sources": [
+{
+"date": "1968-11-01",
+"name": "Condon Report Sec. V Ch. 2",
+"url": "https://files.ncas.org/condon/text/s5chap02.htm"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "1948",
+"dateStart": "1948",
+"direction": "out",
+"edgeLabel": "Vandenberg rejected the Estimate and ordered copies destroyed",
+"id": "estimate-of-the-situation",
+"l0": false,
+"label": "Estimate of the Situation (1948)",
+"note": "The Air Force Chief of Staff rejected the interplanetary conclusion for lacking proof and had the document destroyed — the earliest documented destruction of an adverse UAP record, attested in the Air Force's own contracted study.",
+"sources": [
+{
+"date": "1968-11-01",
+"name": "Condon Report Sec. V Ch. 2",
+"url": "https://files.ncas.org/condon/text/s5chap02.htm"
+},
+{
+"date": "1956-01-01",
+"name": "Ruppelt, The Report on Unidentified Flying Objects",
+"url": "https://www.gutenberg.org/ebooks/17346"
+}
+],
+"tier": "B",
+"type": "denial"
+}
+],
+"date": "1948-08-01",
+"dateEnd": null,
+"dateStart": "1948-08-01",
+"deg": 2,
+"denials": [
+{
+"by": {
+"id": "hoyt-vandenberg",
+"label": "Hoyt S. Vandenberg"
+},
+"claimTier": 1,
+"denialKind": "directed",
+"label": "Vandenberg rejected the Estimate and ordered copies destroyed",
+"note": "The Air Force Chief of Staff rejected the interplanetary conclusion for lacking proof and had the document destroyed — the earliest documented destruction of an adverse UAP record, attested in the Air Force's own contracted study.",
+"of": {
+"id": "estimate-of-the-situation",
+"label": "Estimate of the Situation (1948)"
+},
+"sources": [
+{
+"date": "1968-11-01",
+"name": "Condon Report Sec. V Ch. 2",
+"url": "https://files.ncas.org/condon/text/s5chap02.htm"
+},
+{
+"date": "1956-01-01",
+"name": "Ruppelt, The Report on Unidentified Flying Objects",
+"url": "https://www.gutenberg.org/ebooks/17346"
+}
+]
+}
+],
+"domains": [
+"history-1940s-1960s"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "hoyt-vandenberg",
+"instId": "dod",
+"l0": false,
+"label": "Hoyt S. Vandenberg",
+"loc": "Washington, DC",
+"locId": "l-dc",
+"members": null,
+"narrative": "General Hoyt Vandenberg is the first documented destroyer of an inconvenient UAP record. He had been Director of Central Intelligence in 1946-1947 before becoming Air Force Chief of Staff in April 1948, so he arrived at the top of the Air Force already fluent in compartmentation. In mid-1948 the Project SIGN staff at Wright Field produced a Top Secret 'Estimate of the Situation' concluding the objects were interplanetary. Vandenberg rejected it for lack of proof and ordered it destroyed. This is not a fringe claim: it is stated in the Air Force's own contractor study, the Condon Report, which records that the estimate was prepared, that Vandenberg rejected it, and that copies were destroyed. The consequence was immediate and structural — SIGN was reorganised into Project GRUDGE on 11 February 1949 with an explicitly debunking posture, and the institutional lesson taught to every subsequent analyst was that the extraterrestrial conclusion was career-ending. Vandenberg's action set the template that the Robertson Panel formalised in 1953 and the Condon Committee executed in 1968.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Hoyt S. Vandenberg",
+"sources": [
+{
+"date": "1968-11-01",
+"name": "Condon Report, Sec. V Ch. 2 — UFOs 1947-1968",
+"url": "https://files.ncas.org/condon/text/s5chap02.htm"
+},
+{
+"date": "1956-01-01",
+"name": "Ruppelt, The Report on Unidentified Flying Objects (1956), full text",
+"url": "https://www.gutenberg.org/ebooks/17346"
+}
+],
+"status": "dead",
+"sub": "Air Force Chief of Staff (1948-1953); former DCI",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 517 of 1027, score 28). 2 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D0.",
+"timeline": [],
+"unexplainedResidual": null,
+"unverified": []
+}

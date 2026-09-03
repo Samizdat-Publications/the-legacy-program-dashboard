@@ -1,0 +1,121 @@
+{
+"A": 3,
+"C": 3,
+"D": 1,
+"affiliations": [],
+"age": null,
+"band": null,
+"chronology": [],
+"claims": [
+{
+"source": "Foreign Relations of the United States, 1961-1963, Volume XXV, List of Persons, https://history.state.gov/historicaldocuments/frus1961-63v25/persons",
+"text": "The Department of State's own list of persons gives the office and its dates: 'Bronk, Detlev W., President of the National Academy of Sciences, 1950-1962.'",
+"tier": 1
+},
+{
+"source": "Memorandum From the President's Special Assistant for Science and Technology (Wiesner) to Secretary of State Rusk, 16 March 1962, NARA RG 59, Central Files, 1960-63, 110.10/3-1662; FRUS 1961-1963, Volume XXV, Document 348, https://history.state.gov/historicaldocuments/frus1961-63v25/d348",
+"text": "He chaired a White House science panel reporting on the State Department. The President's Special Assistant for Science and Technology to the Secretary of State, 16 March 1962: 'You recently mentioned your concern regarding the scientific activities in the Department of State, and I told you of the study being conducted by our International Science Panel chaired by Dr. Bronk.' The editorial footnote to the sentence identifies him as 'Dr. Detlev W. Bronk, President of the National Academy of Sciences.'",
+"tier": 1
+},
+{
+"source": "Fortieth Annual Report of the National Advisory Committee for Aeronautics, 1954, Part II, Committee Organization and Membership, GPO 1956, NASA Technical Reports Server 19930092186, https://ntrs.nasa.gov/api/citations/19930092186/downloads/19930092186.pdf",
+"text": "He was Vice Chairman of the National Advisory Committee for Aeronautics. The Committee's Fortieth Annual Report records that on 22 October 1954 Jerome C. Hunsaker was re-elected chairman and 'Dr. Detlev W. Bronk vice chairman of the NACA', and lists him in the membership as President of the Rockefeller Institute for Medical Research.",
+"tier": 1
+},
+{
+"source": "Fortieth Annual Report of the National Advisory Committee for Aeronautics, 1954, https://ntrs.nasa.gov/api/citations/19930092186/downloads/19930092186.pdf",
+"text": "NACA membership was a Presidential appointment and unpaid. The same report states that the members of the Committee 'are appointed by the President and serve as such without compensation', and that the seat formerly held ex officio by the chairman of the Research and Development Board was replaced by a Department of Defense representative after that Board's abolition under Reorganization Plan No. 6, effective 30 June 1953.",
+"tier": 1
+},
+{
+"source": "Thirty-Eighth Annual Report of the National Advisory Committee for Aeronautics, 1952, NASA Technical Reports Server 19930092104, https://ntrs.nasa.gov/api/citations/19930092104/downloads/19930092104.pdf",
+"text": "He was already a member two years earlier under his previous office: the Thirty-Eighth Annual Report for 1952 lists him in the Committee membership as President of Johns Hopkins University. The scan's OCR degrades his surname on that page, so the line is reported rather than quoted.",
+"tier": 1
+}
+],
+"cls": "person",
+"cluster": "research",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 3,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "Named as a panel member inside the disputed document",
+"id": "mj-12-documents",
+"l0": true,
+"label": "MJ-12 / Operation Majestic-12 Documents",
+"note": "Bronk is named as an MJ-12 member in the Eisenhower Briefing Document as read aloud on Area 52 DEBRIEFED and again by the host in a separate episode. No record opened for this node connects him to the subject; his offices are the reason he is on the board.",
+"sources": [
+{
+"date": "2026-09-02",
+"name": "Area 52 DEBRIEFED, lead maps research/leads/area52-corpus-01.md file 20, -02.md file 02 and -05.md file 02",
+"url": "https://history.state.gov/historicaldocuments/frus1961-63v25/persons"
+}
+],
+"tier": "B",
+"type": "investigative"
+}
+],
+"date": "1954-10-22",
+"dateEnd": null,
+"dateStart": "1954-10-22",
+"deg": 1,
+"denials": [],
+"domains": [
+"area52-2026-09-02"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "detlev-bronk",
+"instId": null,
+"l0": false,
+"label": "Detlev W. Bronk",
+"loc": null,
+"locId": null,
+"members": null,
+"narrative": "Bronk sat at the top of the postwar civilian science advisory structure for twelve years, and the board has no node anywhere on that structure. The Department of State's own list of persons gives him as President of the National Academy of Sciences from 1950 to 1962. Over the same period he was a Presidentially appointed member of the National Advisory Committee for Aeronautics and was re-elected its Vice Chairman on 22 October 1954, under Jerome C. Hunsaker as chairman, listed then as President of the Rockefeller Institute for Medical Research and in 1952 as President of Johns Hopkins University. In 1962 he chaired the President's Science Advisory Committee's International Science Panel, whose report on science and technology in the Department of State was forwarded to Secretary Rusk on 16 March 1962. He is named as an MJ-12 member in three Area 52 lead maps and in no opened record.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Detlev W. Bronk",
+"sources": [
+{
+"date": "2026-09-02",
+"name": "FRUS 1961-1963, Volume XXV, List of Persons",
+"url": "https://history.state.gov/historicaldocuments/frus1961-63v25/persons"
+},
+{
+"date": "1962-03-16",
+"name": "FRUS 1961-1963, Volume XXV, Document 348 (Wiesner to Rusk, International Science Panel report)",
+"url": "https://history.state.gov/historicaldocuments/frus1961-63v25/d348"
+},
+{
+"date": "1954-12-31",
+"name": "Fortieth Annual Report of the National Advisory Committee for Aeronautics, 1954",
+"url": "https://ntrs.nasa.gov/api/citations/19930092186/downloads/19930092186.pdf"
+},
+{
+"date": "1952-12-31",
+"name": "Thirty-Eighth Annual Report of the National Advisory Committee for Aeronautics, 1952",
+"url": "https://ntrs.nasa.gov/api/citations/19930092104/downloads/19930092104.pdf"
+}
+],
+"status": "former",
+"sub": "President, National Academy of Sciences 1950-1962; Vice Chairman, National Advisory Committee for Aeronautics",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 254 of 1027, score 39). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C3/A3/D1.",
+"timeline": [],
+"unexplainedResidual": null,
+"unverified": [
+"His chairmanship of the National Research Council. nasonline.org returns 403 to this environment and no government publication reached here names him in that post.",
+"Every MJ-12 attribution. He is named as a member in three Area 52 lead maps and in no opened record."
+]
+}

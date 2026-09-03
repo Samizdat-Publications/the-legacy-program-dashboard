@@ -1,0 +1,133 @@
+{
+"A": 1,
+"C": 1,
+"D": 3,
+"affiliations": [],
+"age": null,
+"band": null,
+"chronology": [],
+"claims": [
+{
+"source": "https://irp.fas.org/dia/aatip-list.pdf",
+"text": "The DIA letter of 9 January 2018 lists entry 6 as 'Biosensors and BioMEMS, Dr Bruce Towe, Univ of Arizona' and entry 17 as 'Biomaterials, Dr Bruce Towe, Univ of Arizona.'",
+"tier": 1
+},
+{
+"source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_20-DIRD_Biosensors_and_BioMEMS-A_Survey_of_the_Present_Field.pdf",
+"text": "The released DIRD bears document number DIA-08-1003-020, publication date 31 March 2010 and Intelligence Cut-Off Date 1 December 2009.",
+"tier": 1
+},
+{
+"source": "https://sbhse.engineering.asu.edu/2019/08/bruce-towe/",
+"text": "Towe's documented academic home is Arizona State University's School of Biological and Health Systems Engineering, where he researches neurostimulation, implantable microelectronics and bioelectronics - not the University of Arizona as recorded on the DIA list.",
+"tier": 2
+}
+],
+"cls": "person",
+"cluster": "research",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "authored by Bruce Towe",
+"id": "dird-biosensors-and-biomems-a-survey-of",
+"l0": false,
+"label": "Biosensors and BioMEMS: A Survey of the Present Field",
+"note": "Attribution rests on the DIA list of 38 AATIP products transmitted to the Senate Armed Services Committee on 9 January 2018, entry 6: 'Biosensors and BioMEMS, Dr Bruce Towe, Univ of Arizona.' The released PDF's own author block is redacted under FOIA exemption (b)(5), so the DIA list is the sole authority for authorship. Towe also wrote the 'Biomaterials' DIRD (entry 17).",
+"sources": [
+{
+"date": "2026-08-22",
+"name": "Released DIRD, 'Biosensors and BioMEMS: A Survey of the Present Field' — FOIA copy, cover page read 22 August 2026",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_20-DIRD_Biosensors_and_BioMEMS-A_Survey_of_the_Present_Field.pdf"
+},
+{
+"date": "2026-08-22",
+"name": "DIA FOIA Electronic Reading Room entry for this reference document",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237638/"
+},
+{
+"date": "2026-08-23",
+"name": "DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations",
+"url": "https://fas.org/publication/aatip-list/"
+},
+{
+"date": null,
+"name": "https://irp.fas.org/dia/aatip-list.pdf",
+"url": "https://irp.fas.org/dia/aatip-list.pdf"
+},
+{
+"date": null,
+"name": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html",
+"url": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html"
+}
+],
+"tier": "B",
+"type": "research"
+}
+],
+"date": "2010-03-31",
+"dateEnd": null,
+"dateStart": "2010-03-31",
+"deg": 1,
+"denials": [],
+"domains": [
+"w7-dirds-2"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "2",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "bruce-towe",
+"instId": null,
+"l0": false,
+"label": "Bruce C. Towe",
+"loc": null,
+"locId": null,
+"members": null,
+"narrative": "Towe is one of only four authors to write more than one DIRD, and the only one whose pair sits entirely on the biological side of the survey. The DIA list to the Senate Armed Services Committee names him at entry 6, 'Biosensors and BioMEMS', and entry 17, 'Biomaterials', both attributed to 'Univ of Arizona'. The released 'Biosensors and BioMEMS: A Survey of the Present Field' carries DIA-08-1003-020, publication date 31 March 2010 and an Intelligence Cut-Off Date of 1 December 2009. There is a documentable discrepancy worth flagging rather than smoothing: every located institutional record for Bruce Towe places him at Arizona State University's School of Biological and Health Systems Engineering, not the University of Arizona. The DIA list appears to have recorded the affiliation loosely; both the KLAS transcription and the 9 January 2018 letter carry the same 'Univ of Arizona' wording, so the error, if it is one, originates upstream in DIA's own list rather than in transcription. His documented field - implantable microelectronic biosensors, neurostimulation, brain-machine electrode fabrication - maps precisely onto the DIRD's contents, which run through brain-implanted BioMEMS neuroelectrodes, microelectrode array fabrication, retinal devices and therapeutic neurostimulation. Towe's papers matter to the board because they anchor the biomedical leg of AAWSAP alongside Kit Green's 'Field Effects on Biological Tissues' and Richard Genik's three neuro-interface deliverables. Puthoff's account of the Broad Area Announcement lists 'human effects' among the twelve threat areas DIA specified. Read together, the Towe, Green and Genik papers are the programme asking two questions at once: what does proximity to the phenomenon do to a human body, and what would a human-machine interface capable of flying such a vehicle have to look like.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Bruce C. Towe",
+"sources": [
+{
+"date": null,
+"name": "https://irp.fas.org/dia/aatip-list.pdf",
+"url": "https://irp.fas.org/dia/aatip-list.pdf"
+},
+{
+"date": null,
+"name": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html",
+"url": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html"
+},
+{
+"date": null,
+"name": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_20-DIRD_Biosensors_and_BioMEMS-A_Survey_of_the_Present_Field.pdf",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_20-DIRD_Biosensors_and_BioMEMS-A_Survey_of_the_Present_Field.pdf"
+},
+{
+"date": null,
+"name": "https://sbhse.engineering.asu.edu/2019/08/bruce-towe/",
+"url": "https://sbhse.engineering.asu.edu/2019/08/bruce-towe/"
+},
+{
+"date": null,
+"name": "https://search.asu.edu/profile/43292",
+"url": "https://search.asu.edu/profile/43292"
+}
+],
+"status": "active",
+"sub": "Biomedical engineer; author of two DIRDs, 'Biosensors and BioMEMS' (DIA-08-1003-020) and 'Biomaterials'",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 700 of 1027, score 22). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D3.",
+"timeline": [],
+"unexplainedResidual": null,
+"unverified": []
+}

@@ -1,0 +1,188 @@
+{
+"A": 3,
+"C": 2,
+"D": 3,
+"affiliations": [
+"U.S. Senate, Kentucky (1985- )",
+"Senate Republican Leader (2007-2025)"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "2023-11-27",
+"event": "Reported as supporting the effort to eliminate or alter the UAP Disclosure Act",
+"precision": "day"
+}
+],
+"claims": [
+{
+"source": "Micah Hanks, The Debrief, 27 November 2023",
+"text": "McConnell is named, with Speaker Mike Johnson, as supporting the Turner and Rogers effort against the UAP Disclosure Act.",
+"tier": 2
+},
+{
+"source": "S. 2226 as engrossed, Secs. 9003(10) and 9007(b)(3)(A), GPO",
+"text": "The UAPDA defines 'leadership of Congress' to include the minority leader of the Senate and gives that office the power to recommend Review Board nominees.",
+"tier": 1
+},
+{
+"source": "https://www.appropriations.senate.gov/subcommittees/defense",
+"text": "Mitch McConnell (R-KY) is listed as Chair of the Defense Subcommittee of the Senate Appropriations Committee on the subcommittee's official page.",
+"tier": 1
+},
+{
+"source": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim",
+"text": "The Defense Subcommittee of the Senate Committee on Appropriations is one of the six bodies expressly named as a 'defense committee' by 10 U.S.C. 119(g)(1), and therefore generates a 119(e)(2) notification entitlement for its chair and ranking minority member.",
+"tier": 1
+}
+],
+"cls": "person",
+"cluster": "oversight",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 2,
+"cls": "legislation",
+"dateEnd": "2023",
+"dateStart": "2023",
+"direction": "out",
+"edgeLabel": "Named as supporting the effort against the Act",
+"id": "uapda-2023",
+"l0": true,
+"label": "UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)",
+"note": "McConnell is named with Speaker Johnson as backing the Turner and Rogers effort, while three Senate Republicans were cosponsors of the same text.",
+"sources": [
+{
+"date": "2023-11-27",
+"name": "The Debrief — pushback from lawmakers",
+"url": "https://thedebrief.org/uap-disclosure-act-receives-pushback-from-lawmakers-on-capitol-hill-as-bipartisan-fight-for-transparency-continues/"
+}
+],
+"tier": "A",
+"type": "denial"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "seat 5 of 12 - Chair, Senate Appropriations Defense Subcommittee",
+"id": "waived-sap-notification-group",
+"l0": true,
+"label": "Waived SAP Notification Group",
+"note": "Previously a Gang of Eight member by virtue of Senate leadership office; now in the 119(e)(2) group by virtue of a subcommittee gavel. The two entitlements are disjoint.",
+"sources": [
+{
+"date": "2026-08-22",
+"name": "10 U.S.C. 119, Special Access Programs: congressional oversight — subsections (e)(2) and (g) (OLRC prelim text, read 22 August 2026)",
+"url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim"
+},
+{
+"date": "2026-08-22",
+"name": "50 U.S.C. 3093(c)(2), the Gang of Eight construct, for contrast with the section 119 group",
+"url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3093&num=0&edition=prelim"
+},
+{
+"date": "2026-08-22",
+"name": "U.S. Senate, Dates of Sessions of the Congress (convening dates used to date each seat)",
+"url": "https://www.senate.gov/legislative/DatesofSessionsofCongress.htm"
+},
+{
+"date": "2023-11-27",
+"name": "The Debrief — UAP Disclosure Act receives pushback from lawmakers",
+"url": "https://thedebrief.org/uap-disclosure-act-receives-pushback-from-lawmakers-on-capitol-hill-as-bipartisan-fight-for-transparency-continues/"
+},
+{
+"date": null,
+"name": "https://www.appropriations.senate.gov/subcommittees/defense",
+"url": "https://www.appropriations.senate.gov/subcommittees/defense"
+}
+],
+"tier": "A",
+"type": "institutional"
+}
+],
+"date": "2023-12-22",
+"dateEnd": null,
+"dateStart": "2023-12-22",
+"deg": 2,
+"denials": [
+{
+"by": {
+"id": "mitch-mcconnell",
+"label": "Mitch McConnell"
+},
+"claimTier": 2,
+"denialKind": "directed",
+"label": "Named as supporting the effort against the Act",
+"note": "McConnell is named with Speaker Johnson as backing the Turner and Rogers effort, while three Senate Republicans were cosponsors of the same text.",
+"of": {
+"id": "uapda-2023",
+"label": "UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)"
+},
+"sources": [
+{
+"date": "2023-11-27",
+"name": "The Debrief — pushback from lawmakers",
+"url": "https://thedebrief.org/uap-disclosure-act-receives-pushback-from-lawmakers-on-capitol-hill-as-bipartisan-fight-for-transparency-continues/"
+}
+]
+}
+],
+"domains": [
+"congress-senate-legislation",
+"w9-waived-sap-group"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "mitch-mcconnell",
+"instId": "us-senate",
+"l0": false,
+"label": "Mitch McConnell",
+"loc": "Washington, DC",
+"locId": "l-dc",
+"members": null,
+"narrative": "McConnell chairs the Senate Appropriations Defense Subcommittee, a body that 10 U.S.C. 119(g)(1) names explicitly as one of the six defense committees. This is the seat that distinguishes the section 119 group from the 10 U.S.C. 101(a)(16) definition of congressional defense committees, which does not reach the Defense Subcommittees. McConnell is in the waived-SAP circle because section 119 uses its own broader definition. McConnell is also the clearest illustration of how the two small groups diverge over time for the same person. As Senate majority leader and later minority leader he was a member of the Gang of Eight under 50 U.S.C. 3093(c)(2) by virtue of his leadership office, seeing covert action findings the armed services committees never saw. He now sits in the 119(e)(2) group by virtue of a subcommittee gavel, seeing waived DoD special access program material that the intelligence committees have no statutory entitlement to. The two entitlements are disjoint and neither implies the other. For a board arguing that a waived programme can be concealed from Congress, McConnell is the counter-example worth naming: a single member who has occupied seats in both restricted-notification regimes, and whose combined sight lines are still bounded by whether the activity in question was characterised as a DoD special access program at all.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Mitch McConnell",
+"sources": [
+{
+"date": "2023-11-27",
+"name": "The Debrief — UAP Disclosure Act receives pushback from lawmakers",
+"url": "https://thedebrief.org/uap-disclosure-act-receives-pushback-from-lawmakers-on-capitol-hill-as-bipartisan-fight-for-transparency-continues/"
+},
+{
+"date": "2023-07-27",
+"name": "S. 2226 (Engrossed in Senate), Division G — GPO",
+"url": "https://www.govinfo.gov/content/pkg/BILLS-118s2226es/html/BILLS-118s2226es.htm"
+},
+{
+"date": null,
+"name": "https://www.appropriations.senate.gov/subcommittees/defense",
+"url": "https://www.appropriations.senate.gov/subcommittees/defense"
+},
+{
+"date": null,
+"name": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim",
+"url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim"
+}
+],
+"status": "active",
+"sub": "R-KY; Senate Republican Leader 2007-2025",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 240 of 1027, score 40). 2 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D3.",
+"timeline": [],
+"unexplainedResidual": null,
+"unverified": [
+"No statement by McConnell on the UAP Disclosure Act appears in the Congressional Record or on his Senate press page."
+]
+}

@@ -1,0 +1,202 @@
+{
+"A": 0,
+"C": 2,
+"D": 2,
+"band": null,
+"claims": [
+{
+"source": "RNAAS DOI 10.3847/2515-5172/ad2370; Chemical Geology DOI 10.1016/j.chemgeo.2024.122415",
+"text": "Loeb et al. published 'Recovery and Classification of Spherules from the Pacific Ocean Site of the CNEOS 2014 January 8 (IM1) Bolide' in Research Notes of the AAS on 31 January 2024, and a chemical classification in Chemical Geology in December 2024.",
+"tier": 1
+},
+{
+"source": "Chemical Geology, DOI 10.1016/j.chemgeo.2025.122628",
+"text": "Rudraswami, Singh and Pandey published a re-evaluation of the spherules' proposed origin in Chemical Geology in March 2025.",
+"tier": 1
+},
+{
+"source": "Chemical Geology, DOI 10.1016/j.chemgeo.2025.122627",
+"text": "Hyung, Cherston, Jacobsen and Loeb published an investigation of the relationship between morphology and chemistry of the D-type spherules in Chemical Geology in March 2025.",
+"tier": 1
+},
+{
+"source": "Geophysical Journal International, March 2024; Research Notes of the AAS, October 2023",
+"text": "Fernando et al. showed in Geophysical Journal International (March 2024) that the seismic signal used to localise the search was consistent with truck traffic rather than an impact; Gallardo argued in Research Notes of the AAS (October 2023) for anthropogenic coal-ash contamination.",
+"tier": 2
+},
+{
+"source": "Published record of the Galileo Project expedition",
+"text": "The expedition was announced as fully funded in September 2022 with a budget of approximately $1.6 million.",
+"tier": 2
+}
+],
+"cls": "event",
+"cluster": "research",
+"connections": [
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2023",
+"dateStart": "2022",
+"direction": "in",
+"edgeLabel": "Siraj's interstellar-velocity and seismic localisation determined the search site",
+"id": "amir-siraj",
+"l0": false,
+"label": "Amir Siraj",
+"note": "The Astrophysical Journal paper of November 2022 identified CNEOS 2014-01-08 as apparently interstellar; the Signals paper of September 2023 localised it seismically. Fernando et al. later attributed that signal to truck traffic.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Wikipedia: CNEOS 2014-01-08",
+"url": "https://en.wikipedia.org/wiki/CNEOS_2014-01-08"
+}
+],
+"tier": "C",
+"type": "investigative"
+},
+{
+"claimTier": 3,
+"cls": "domain",
+"dateEnd": "2025",
+"dateStart": "2023",
+"direction": "out",
+"edgeLabel": "The control case: what a public physical-recovery attempt looks like, failures included",
+"id": "d-materials",
+"l0": false,
+"label": "Materials and custody analysis",
+"note": "Claim, rebuttal and re-analysis all appeared in the peer-reviewed literature within eighteen months. That is the benchmark against which seventy years of unpublished government custody should be judged.",
+"sources": [
+{
+"date": "2024-01-31",
+"name": "Loeb et al., 'Recovery and Classification of Spherules from the Pacific Ocean Site of the CNEOS 2014 January 8 (IM1) Bolide', Research Notes of the AAS",
+"url": "https://doi.org/10.3847/2515-5172/ad2370"
+},
+{
+"date": "2025-03-01",
+"name": "Rudraswami, Singh & Pandey, 'Re-evaluation of the spherules proposed origin recovered from the Pacific Ocean site of the CNEOS 2014-01-08 (IM1) bolide', Chemical Geology",
+"url": "https://doi.org/10.1016/j.chemgeo.2025.122628"
+},
+{
+"date": "2026-08-12",
+"name": "Wikipedia: CNEOS 2014-01-08",
+"url": "https://en.wikipedia.org/wiki/CNEOS_2014-01-08"
+}
+],
+"tier": "B",
+"type": "investigative"
+},
+{
+"claimTier": 2,
+"cls": "program",
+"dateEnd": "2023",
+"dateStart": "2022",
+"direction": "in",
+"edgeLabel": "Ran the $1.6m Pacific recovery expedition",
+"id": "galileo-project",
+"l0": true,
+"label": "The Galileo Project",
+"note": "A magnetic sled dragged across the seabed off Papua New Guinea at a location determined from seismometer data; several hundred sub-millimetre spherules recovered.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Wikipedia: CNEOS 2014-01-08",
+"url": "https://en.wikipedia.org/wiki/CNEOS_2014-01-08"
+},
+{
+"date": "2024-01-31",
+"name": "Loeb et al., 'Recovery and Classification of Spherules from the Pacific Ocean Site of the CNEOS 2014 January 8 (IM1) Bolide', Research Notes of the AAS",
+"url": "https://doi.org/10.3847/2515-5172/ad2370"
+}
+],
+"tier": "B",
+"type": "programmatic"
+}
+],
+"coords": null,
+"dateEnd": "2025",
+"dateStart": "2023",
+"deg": 3,
+"denials": [],
+"desc": "In June and July 2023 the Galileo Project conducted a fully funded expedition, budgeted at approximately $1.6 million, to the Pacific Ocean site of CNEOS 2014-01-08 - a 0.45-metre bolide that entered the atmosphere near the northeast coast of Papua New Guinea on 8 January 2014 and which Amir Siraj and Avi Loeb had argued, in The Astrophysical Journal in November 2022, had an apparently interstellar velocity. The team dragged a magnetic sled across the seabed at a location determined from seismometer data and recovered several hundred sub-millimetre spherules, which Loeb's group classified in Research Notes of the AAS (31 January 2024) and Chemical Geology (December 2024) as including a distinct composition they labelled 'BeLaU' - enriched in beryllium, lanthanum and uranium - which they argued was inconsistent with solar-system materials. The counter-argument arrived quickly and in the ordinary way. Patricio Gallardo argued in Research Notes of the AAS in October 2023 that anthropogenic coal ash could contaminate a micro-meteoritic underwater search. Steve Desch posted critiques in November 2023 and March 2024. Fernando et al. published in Geophysical Journal International in March 2024 showing that the seismic signal used to localise the search was more consistent with truck traffic than with an ocean impact - meaning the sled may have been dragged in the wrong place entirely. Rudraswami, Singh and Pandey published a re-evaluation of the spherules' proposed origin in Chemical Geology in March 2025. This expedition matters to the board as the control case: it is what a genuine, funded, public physical-recovery attempt looks like, including its failure modes, and every part of the argument - claim, rebuttal, re-analysis - happened in the peer-reviewed literature within eighteen months. That is the standard against which seventy years of unpublished government custody should be measured.",
+"domains": [
+"scientists-technical"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "im1-pacific-expedition-2023",
+"l0": false,
+"label": "Galileo Project Pacific Ocean expedition to the CNEOS 2014-01-08 (IM1) site, June-July 2023",
+"locLabel": null,
+"members": null,
+"short": "Galileo Project Pacific Ocean expedition to the CNEOS 2014-01-08 (IM1) site, June-July 2023",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Wikipedia: CNEOS 2014-01-08",
+"url": "https://en.wikipedia.org/wiki/CNEOS_2014-01-08"
+},
+{
+"date": "2024-01-31",
+"name": "Loeb et al., 'Recovery and Classification of Spherules from the Pacific Ocean Site of the CNEOS 2014 January 8 (IM1) Bolide', Research Notes of the AAS",
+"url": "https://doi.org/10.3847/2515-5172/ad2370"
+},
+{
+"date": "2024-12-01",
+"name": "Loeb, Jacobsen, Tagle et al., 'Chemical classification of spherules recovered from the Pacific Ocean site of the CNEOS 2014-01-08 (IM1) bolide', Chemical Geology",
+"url": "https://doi.org/10.1016/j.chemgeo.2024.122415"
+},
+{
+"date": "2025-03-01",
+"name": "Rudraswami, Singh & Pandey, 'Re-evaluation of the spherules proposed origin recovered from the Pacific Ocean site of the CNEOS 2014-01-08 (IM1) bolide', Chemical Geology",
+"url": "https://doi.org/10.1016/j.chemgeo.2025.122628"
+},
+{
+"date": "2025-03-01",
+"name": "Hyung, Cherston, Jacobsen & Loeb, 'An investigation of the relationship between morphology and chemistry of the D-type spherules...', Chemical Geology",
+"url": "https://doi.org/10.1016/j.chemgeo.2025.122627"
+},
+{
+"date": "2026-08-12",
+"name": "Wikipedia: The Galileo Project",
+"url": "https://en.wikipedia.org/wiki/The_Galileo_Project"
+}
+],
+"sub": "$1.6m magnetic-sled recovery of sub-millimetre spherules off Papua New Guinea",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 451 of 1027, score 31). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A0/D2.",
+"timeline": [
+{
+"date": "2023-06-01",
+"id": "st-2023-06-im1",
+"label": "IM1 Pacific expedition",
+"precision": "month",
+"strand": "program",
+"text": "The Galileo Project drags a magnetic sled across the seabed off Papua New Guinea, recovering several hundred sub-millimetre spherules from the CNEOS 2014-01-08 site.",
+"tier": "A"
+},
+{
+"date": "2024-01-31",
+"id": "st-2024-01-31",
+"label": "IM1 spherules classified",
+"precision": "day",
+"strand": "program",
+"text": "Loeb et al. publish the recovery and classification of the Pacific spherules in Research Notes of the AAS, claiming a distinct extrasolar composition.",
+"tier": "A"
+},
+{
+"date": "2024-03-01",
+"id": "st-2024-03-truck",
+"label": "Seismic signal attributed to a truck",
+"precision": "month",
+"strand": "program",
+"text": "Fernando et al. publish in Geophysical Journal International that the seismic signal used to localise the IM1 search was consistent with truck traffic, not an impact - the search may have been in the wrong place.",
+"tier": "A"
+}
+]
+}

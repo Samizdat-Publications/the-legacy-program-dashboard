@@ -1,0 +1,210 @@
+{
+"A": 3,
+"C": 1,
+"D": 0,
+"affiliations": [
+"Director, DIA (1992-1995)",
+"Under Secretary of Defense for Intelligence (2007-2010)",
+"Director of National Intelligence (2010-2017)"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "2007-04-11",
+"event": "Sworn in as Under Secretary of Defense for Intelligence",
+"precision": "day"
+},
+{
+"date": "2009-11-13",
+"event": "DIA memorandum 'Review of Special Access Program Request' finds insufficient grounds to classify the program",
+"precision": "day"
+},
+{
+"date": "2009-11-17",
+"event": "Packet presented to DEPSECDEF Lynn with Clapper recommending against establishing a SAP",
+"precision": "day"
+},
+{
+"date": "2010-08-09",
+"event": "Sworn in as Director of National Intelligence",
+"precision": "day"
+}
+],
+"claims": [
+{
+"source": "DIA/OSD packet presented to DEPSECDEF, 17 November 2009, released via FOIA",
+"text": "Clapper, as USD(I), recommended against establishing a Special Access Program 'at this time', citing insufficient justification based on FY09 deliverables and anticipated FY10 work.",
+"tier": 1
+},
+{
+"source": "DIA memo U-09-2660CE-IM, 13 November 2009",
+"text": "The supporting DIA memorandum of 13 November 2009 found 'insufficient grounds to classify this open program' and stated no report contained information 'sufficiently sensitive and vulnerable to require extra protection'.",
+"tier": 1
+},
+{
+"source": "Inference from the SAP denial documents read against the fact that 37 of 38 DIRDs were ultimately released unclassified",
+"text": "Refusing SAP status kept AAWSAP's deliverables in an unclassified/FOUO regime that could later be released in full to Congress and the public, while any genuinely compartmented material remained in programs the SAP request would have formally connected to the Reid appropriation — the practical effect was to sever the paper link between the appropriation and any waived-unacknowledged effort.",
+"tier": 3
+}
+],
+"cls": "person",
+"cluster": "ic",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "2009",
+"dateStart": "2009",
+"direction": "out",
+"edgeLabel": "USD(I) recommends against establishing a SAP",
+"id": "depsecdef-sap-packet-2009",
+"l0": false,
+"label": "Final Packet Presented to the Deputy Secretary of Defense on the SAP Request",
+"note": "Clapper's recommendation is the decision that severed the Reid appropriation from any compartmented protection; he became DNI nine months later.",
+"sources": [
+{
+"date": "2009-11-17",
+"name": "Packet presented to DEPSECDEF",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP/09117-Final_Packet_Presented_to_DepSecDef.pdf"
+}
+],
+"tier": "B",
+"type": "denial"
+},
+{
+"claimTier": 2,
+"cls": "event",
+"dateEnd": "1995",
+"dateStart": "1991",
+"direction": "out",
+"edgeLabel": "Clapper led the programme in the 1990s before becoming DNI",
+"id": "stargate-program",
+"l0": true,
+"label": "STAR GATE and predecessor remote viewing programs, 1970-1995",
+"note": "Clapper is recorded as a project leader in the 1990s; he later served as Director of National Intelligence.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Wikipedia - Stargate Project (U.S. Army unit)",
+"url": "https://en.wikipedia.org/wiki/Stargate_Project_(U.S._Army_unit)"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": null,
+"dateStart": "2009-11",
+"direction": "out",
+"edgeLabel": "USD(I) recommendation against SAP status for the AAWSAP effort, November 2009",
+"id": "waived-usap",
+"l0": true,
+"label": "Waived unacknowledged special access program (waived USAP)",
+"note": "Clapper as Under Secretary of Defense for Intelligence recommended against establishing a special access program in response to Senator Reid's June 2009 request. The refusal is the documented instance of the SAP decision being made against, not for, concealment.",
+"sources": [
+{
+"date": "2024-01-01",
+"name": "10 U.S.C. 119, Special access programs: congressional oversight",
+"url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim"
+}
+],
+"tier": "A",
+"type": "denial"
+}
+],
+"date": "2009-11-17",
+"dateEnd": null,
+"dateStart": "2009-11-17",
+"deg": 3,
+"denials": [
+{
+"by": {
+"id": "james-clapper",
+"label": "James R. Clapper Jr."
+},
+"claimTier": 1,
+"denialKind": "directed",
+"label": "USD(I) recommends against establishing a SAP",
+"note": "Clapper's recommendation is the decision that severed the Reid appropriation from any compartmented protection; he became DNI nine months later.",
+"of": {
+"id": "depsecdef-sap-packet-2009",
+"label": "Final Packet Presented to the Deputy Secretary of Defense on the SAP Request"
+},
+"sources": [
+{
+"date": "2009-11-17",
+"name": "Packet presented to DEPSECDEF",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP/09117-Final_Packet_Presented_to_DepSecDef.pdf"
+}
+]
+},
+{
+"by": {
+"id": "james-clapper",
+"label": "James R. Clapper Jr."
+},
+"claimTier": 1,
+"denialKind": "directed",
+"label": "USD(I) recommendation against SAP status for the AAWSAP effort, November 2009",
+"note": "Clapper as Under Secretary of Defense for Intelligence recommended against establishing a special access program in response to Senator Reid's June 2009 request. The refusal is the documented instance of the SAP decision being made against, not for, concealment.",
+"of": {
+"id": "waived-usap",
+"label": "Waived unacknowledged special access program (waived USAP)"
+},
+"sources": [
+{
+"date": "2024-01-01",
+"name": "10 U.S.C. 119, Special access programs: congressional oversight",
+"url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim"
+}
+]
+}
+],
+"domains": [
+"aawsap-aatip"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "2",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "james-clapper",
+"instId": "ousdi",
+"l0": false,
+"label": "James R. Clapper Jr.",
+"loc": "Washington, DC",
+"locId": "l-dc",
+"members": null,
+"narrative": "Clapper is the official who killed the Reid SAP request, and the fact that this decision sat with him rather than with DIA alone is the most underused fact in the AAWSAP record. The final packet presented to Deputy Secretary of Defense William Lynn III on 17 November 2009 carries Clapper, as Under Secretary of Defense for Intelligence, recommending against establishing a Special Access Program at that time, on the stated basis that the FY09 deliverables and anticipated FY10 work did not justify it. Seven months later he became Director of National Intelligence, a post he held until January 2017 — meaning the man who signed off on refusing SAP protection to the UAP program then ran the entire intelligence community through the period in which, per the whistleblower record, the recovery and reverse-engineering effort was being kept outside congressional reporting. Clapper has spoken publicly about UAP since 2017 in general terms and has never been asked on the record about the memorandum bearing his recommendation. The board records this as a decision node: a USD(I) told a Deputy Secretary that the deliverables from a program the Senate Majority Leader wanted compartmented were not sensitive enough to compartment.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "James R. Clapper Jr.",
+"sources": [
+{
+"date": "2009-11-17",
+"name": "Final packet presented to Deputy Secretary of Defense",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP/09117-Final_Packet_Presented_to_DepSecDef.pdf"
+},
+{
+"date": "2009-11-13",
+"name": "DIA — Review of Special Access Program Request (U-09-2660CE-IM)",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP/U-09-2660CE-IM-Review_of_Special_Access_Program_Request.pdf"
+}
+],
+"status": "former",
+"sub": "Under Secretary of Defense for Intelligence, 2007-2010; later DNI 2010-2017",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 429 of 1027, score 31). 3 connections, 0 of them custody/witness/funding/programmatic, 2 official denials recorded against it. Axes C1/A3/D0.",
+"timeline": [],
+"unexplainedResidual": null,
+"unverified": [
+"Whether Clapper was briefed on any material beyond the DIRD deliverables when he made the recommendation."
+]
+}

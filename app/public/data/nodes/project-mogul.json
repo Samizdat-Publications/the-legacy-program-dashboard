@@ -1,0 +1,224 @@
+{
+"A": 3,
+"C": 2,
+"D": 0,
+"band": null,
+"claims": [
+{
+"source": "GAO/NSIAD-95-187, p.5, quoting the USAF report; USAF, 'The Roswell Report: Fact vs. Fiction in the New Mexico Desert' (1995)",
+"text": "The Air Force's 1994-1995 report concluded 'the most likely source of the wreckage recovered was one of the project MOGUL balloon trains.'",
+"tier": 1
+},
+{
+"source": "USAF, 'The Roswell Report: Fact vs. Fiction in the New Mexico Desert' (1995)",
+"text": "MOGUL was a then-classified top-priority programme of balloon-borne experiments, described at length in the Air Force's 881-page 1995 report by Col. Richard Weaver and 1st Lt. James McAndrew.",
+"tier": 1
+},
+{
+"source": "AARO, 'Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena', Volume I, February 2024",
+"text": "AARO's 2024 historical report reaffirmed that materials recovered near Roswell 'were consistent with a balloon of the type used in the then-classified Project Mogul'.",
+"tier": 1
+},
+{
+"source": "Inference from GAO/NSIAD-95-187 p.3 read against the 1995 USAF report's methodology",
+"text": "The MOGUL attribution cannot be verified against the base's own message traffic because that traffic was destroyed without disposition authority, so the explanation rests entirely on reconstruction rather than on the contemporaneous record.",
+"tier": 3
+}
+],
+"cls": "program",
+"cluster": "other",
+"connections": [
+{
+"claimTier": 3,
+"cls": "document",
+"dateEnd": null,
+"dateStart": "1995",
+"direction": "out",
+"edgeLabel": "The MOGUL attribution cannot be tested against destroyed records",
+"id": "gao-nsiad-95-187",
+"l0": true,
+"label": "GAO/NSIAD-95-187 — Results of a Search for Records Concerning the 1947 Crash Near Roswell",
+"note": "GAO reported the base's message traffic for the relevant years was destroyed without disposition authority, so the Air Force's reconstruction rests on inference rather than on the contemporaneous record.",
+"sources": [
+{
+"date": "1995-07-28",
+"name": "GAO/NSIAD-95-187 (full PDF)",
+"url": "https://www.gao.gov/assets/nsiad-95-187.pdf"
+}
+],
+"tier": "B",
+"type": "investigative"
+},
+{
+"claimTier": 3,
+"cls": "person",
+"dateEnd": "1994",
+"dateStart": "1947",
+"direction": "in",
+"edgeLabel": "The AMC commander's 1947 assessment predates and undercuts the MOGUL account",
+"id": "nathan-twining",
+"l0": false,
+"label": "Nathan F. Twining",
+"note": "Twining wrote in September 1947 that the phenomenon was real while noting the lack of recovered exhibits; the Air Force's 1994 position requires that his own command's exploitation centre never connected the wave to a programme it was cleared for.",
+"sources": [
+{
+"date": "1947-09-23",
+"name": "Twining memorandum, 23 September 1947",
+"url": "https://www.nicap.org/docs/1947_Twining_memo.pdf"
+},
+{
+"date": "1995-01-01",
+"name": "USAF, The Roswell Report: Fact vs. Fiction (1995)",
+"url": "https://archive.org/details/DTIC_ADA326148"
+}
+],
+"tier": "B",
+"type": "denial"
+},
+{
+"claimTier": 2,
+"cls": "event",
+"dateEnd": "1994",
+"dateStart": "1994",
+"direction": "out",
+"edgeLabel": "Mogul is the Air Force's 1994 identification of the debris",
+"id": "roswell-1947",
+"l0": true,
+"label": "Roswell Incident",
+"note": "The 1994 USAF report attributed the debris to Project Mogul Flight No. 4, launched 4 June 1947 from Alamogordo, and acknowledged that the weather balloon account had been a cover story.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Wikipedia - Roswell incident",
+"url": "https://en.wikipedia.org/wiki/Roswell_incident"
+}
+],
+"tier": "A",
+"type": "denial"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "1997",
+"dateStart": "1994",
+"direction": "out",
+"edgeLabel": "MOGUL is the load-bearing element of the official explanation",
+"id": "usaf-roswell-reports",
+"l0": false,
+"label": "The Roswell Reports (USAF, 1994-1997)",
+"note": "The Air Force concluded the most likely source of the recovered wreckage was a Project MOGUL balloon train, replacing the weather balloon account it had maintained since 1947.",
+"sources": [
+{
+"date": "1995-07-28",
+"name": "GAO/NSIAD-95-187",
+"url": "https://www.gao.gov/assets/nsiad-95-187.pdf"
+},
+{
+"date": "1995-01-01",
+"name": "USAF, The Roswell Report: Fact vs. Fiction (1995)",
+"url": "https://archive.org/details/DTIC_ADA326148"
+}
+],
+"tier": "B",
+"type": "programmatic"
+}
+],
+"coords": null,
+"dateEnd": "1949",
+"dateStart": "1947",
+"deg": 4,
+"denials": [
+{
+"by": {
+"id": "nathan-twining",
+"label": "Nathan F. Twining"
+},
+"claimTier": 3,
+"denialKind": "association",
+"label": "The AMC commander's 1947 assessment predates and undercuts the MOGUL account",
+"note": "Twining wrote in September 1947 that the phenomenon was real while noting the lack of recovered exhibits; the Air Force's 1994 position requires that his own command's exploitation centre never connected the wave to a programme it was cleared for.",
+"of": {
+"id": "project-mogul",
+"label": "Project MOGUL"
+},
+"sources": [
+{
+"date": "1947-09-23",
+"name": "Twining memorandum, 23 September 1947",
+"url": "https://www.nicap.org/docs/1947_Twining_memo.pdf"
+},
+{
+"date": "1995-01-01",
+"name": "USAF, The Roswell Report: Fact vs. Fiction (1995)",
+"url": "https://archive.org/details/DTIC_ADA326148"
+}
+]
+},
+{
+"by": {
+"id": "project-mogul",
+"label": "Project MOGUL"
+},
+"claimTier": 2,
+"denialKind": "directed",
+"label": "Mogul is the Air Force's 1994 identification of the debris",
+"note": "The 1994 USAF report attributed the debris to Project Mogul Flight No. 4, launched 4 June 1947 from Alamogordo, and acknowledged that the weather balloon account had been a cover story.",
+"of": {
+"id": "roswell-1947",
+"label": "Roswell Incident"
+},
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Wikipedia - Roswell incident",
+"url": "https://en.wikipedia.org/wiki/Roswell_incident"
+}
+]
+}
+],
+"desc": "Project MOGUL was a genuinely classified New York University and Army Air Forces programme flying long trains of neoprene balloons carrying acoustic sensors, intended to detect Soviet nuclear tests by listening for their sound in the upper atmosphere. It was real, it was Top Secret, and NYU Flight 4 launched from Alamogordo in early June 1947 is the specific object the Air Force says was recovered at the Foster ranch. MOGUL is recorded on this board not as a debunking but as the load-bearing element of the official explanation, and it has three documented problems. First, it was produced as an explanation in 1994, forty-seven years after the event and only after Rep. Steven Schiff forced the matter — the Air Force's own prior position for decades had been the weather balloon story it now concedes was false. Second, the flight-log identification of Flight 4 is contested because no launch record for that flight survives. Third, and decisively, the records that could settle it were destroyed: GAO reported in 1995 that RAAF outgoing message traffic from October 1946 through December 1949 was gone with no disposition authority. MOGUL explains the debris field; it does not explain why an atomic bomb group's intelligence officer, its commanding general and its public information office behaved as they did on 8 July 1947, and it cannot be tested against the primary record because the primary record is not there.",
+"domains": [
+"_rs-archive-mirror",
+"history-1940s-1960s"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "project-mogul",
+"l0": false,
+"label": "Project MOGUL",
+"locLabel": null,
+"members": null,
+"short": "Project MOGUL",
+"sources": [
+{
+"date": "2026-05-08",
+"name": "Archived: AARO Historical Record Report, Volume I (Wayback 2026-05-08)",
+"url": "https://web.archive.org/web/20260508180210/https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf"
+},
+{
+"date": "1995-01-01",
+"name": "USAF, The Roswell Report: Fact vs. Fiction in the New Mexico Desert (1995)",
+"url": "https://archive.org/details/DTIC_ADA326148"
+},
+{
+"date": "1995-07-28",
+"name": "GAO/NSIAD-95-187 (full PDF)",
+"url": "https://www.gao.gov/assets/nsiad-95-187.pdf"
+},
+{
+"date": "2024-02-01",
+"name": "AARO Historical Record Report, Volume I",
+"url": "https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf"
+}
+],
+"sub": "Classified acoustic balloon surveillance programme (1947-1949)",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 215 of 1027, score 42). 4 connections, 1 of them custody/witness/funding/programmatic, 2 official denials recorded against it. Axes C2/A3/D0.",
+"timeline": []
+}

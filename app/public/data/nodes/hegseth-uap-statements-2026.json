@@ -1,0 +1,143 @@
+{
+"A": 2,
+"C": 0,
+"D": 3,
+"band": null,
+"claims": [
+{
+"source": "https://defensescoop.com/2026/02/25/hegseth-ufo-disclosure-trump-aaro-uap-caseload/",
+"text": "Hegseth, Louisville, Colorado, 23 February 2026: 'We're going to be in full compliance with that executive order, [and we're] eager to provide that for the president. So, there'll be more coming on that.'",
+"tier": 2
+},
+{
+"source": "https://defensescoop.com/2026/02/25/hegseth-ufo-disclosure-trump-aaro-uap-caseload/",
+"text": "Hegseth: 'I don't want to over-promise and under-deliver. So, we're going to take a little time.'",
+"tier": 2
+},
+{
+"source": "https://defensescoop.com/2026/02/25/hegseth-ufo-disclosure-trump-aaro-uap-caseload/",
+"text": "Pentagon spokesperson Sue Gough confirmed AARO has examined over 2,000 UAP cases, with approximately 1,000 reports lacking sufficient data retained in an Active Archive.",
+"tier": 2
+},
+{
+"source": "https://defensescoop.com/2026/02/20/trump-ufo-uap-government-files-disclosure/",
+"text": "Hegseth's reference to 'that executive order' is unmatched by any published order; the contemporaneous instrument is a Truth Social post. Either the Secretary characterised a social-media post as an executive order, or an unpublished order exists. Reasoning: no UAP declassification executive order appears in the Federal Register or on whitehouse.gov as of 12 August 2026.",
+"tier": 3
+}
+],
+"cls": "event",
+"cluster": "oversight",
+"connections": [
+{
+"claimTier": 3,
+"cls": "document",
+"dateEnd": null,
+"dateStart": "2026-02-23",
+"direction": "out",
+"edgeLabel": "characterises a social-media post as an executive order",
+"id": "trump-truth-social-post-2026-02-20",
+"l0": false,
+"label": "Trump Truth Social post directing release of UAP files (20 February 2026)",
+"note": "Hegseth's phrase 'that executive order' has no matching published instrument. Either the Secretary mischaracterised the post or an unpublished order exists; the board records the discrepancy rather than resolving it.",
+"sources": [
+{
+"date": "2026-02-25",
+"name": "DefenseScoop, Hegseth doubles down",
+"url": "https://defensescoop.com/2026/02/25/hegseth-ufo-disclosure-trump-aaro-uap-caseload/"
+},
+{
+"date": "2026-02-20",
+"name": "DefenseScoop, Trump UAP disclosure tease",
+"url": "https://defensescoop.com/2026/02/20/trump-ufo-uap-government-files-disclosure/"
+}
+],
+"tier": "B",
+"type": "denial"
+}
+],
+"coords": null,
+"dateEnd": "2026-02-23",
+"dateStart": "2026-02-23",
+"deg": 1,
+"denials": [
+{
+"by": {
+"id": "hegseth-uap-statements-2026",
+"label": "Hegseth's UAP disclosure statements, Louisville, 23 February 2026"
+},
+"claimTier": 3,
+"denialKind": "association",
+"label": "characterises a social-media post as an executive order",
+"note": "Hegseth's phrase 'that executive order' has no matching published instrument. Either the Secretary mischaracterised the post or an unpublished order exists; the board records the discrepancy rather than resolving it.",
+"of": {
+"id": "trump-truth-social-post-2026-02-20",
+"label": "Trump Truth Social post directing release of UAP files (20 February 2026)"
+},
+"sources": [
+{
+"date": "2026-02-25",
+"name": "DefenseScoop, Hegseth doubles down",
+"url": "https://defensescoop.com/2026/02/25/hegseth-ufo-disclosure-trump-aaro-uap-caseload/"
+},
+{
+"date": "2026-02-20",
+"name": "DefenseScoop, Trump UAP disclosure tease",
+"url": "https://defensescoop.com/2026/02/20/trump-ufo-uap-government-files-disclosure/"
+}
+]
+}
+],
+"desc": "On 23 February 2026, at a stop on his 'Arsenal of Freedom' tour in Louisville, Colorado - four days after the President's Truth Social direction - Secretary of War Pete Hegseth committed the Department to UAP disclosure in terms that have shaped everything since. He said the Department would 'be in full compliance with that executive order, [and we're] eager to provide that for the president. So, there'll be more coming on that,' and that 'We've got our people working on it right now...we're digging in.' He characterised the President as 'just committed to disclosure on lots of levels' and warned that 'It'll be a deliberative process' and 'I don't want to over-promise and under-deliver. So, we're going to take a little time.' The phrase 'that executive order' is the crux: no signed executive order on UAP declassification has appeared in the public record, and the contemporaneous reporting describes a social-media post. Either the Secretary of War mischaracterised a Truth Social post as an executive order in public, or an unpublished order exists. In the same reporting Pentagon spokesperson Sue Gough confirmed AARO had examined over 2,000 UAP cases, with approximately 1,000 reports lacking sufficient data held in an Active Archive - growth of at least 400 cases since late 2024. Jordan Flowers of the Disclosure Foundation urged expedited release of unclassified material and warned against 'misleadingly partial or incomplete disclosures.'",
+"domains": [
+"w2-2025-2026"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "hegseth-uap-statements-2026",
+"l0": false,
+"label": "Hegseth's UAP disclosure statements, Louisville, 23 February 2026",
+"locLabel": null,
+"members": null,
+"short": "Hegseth's UAP disclosure statements, Louisville, 23 February 2026",
+"sources": [
+{
+"date": "2026-02-25",
+"name": "DefenseScoop, 'Hegseth doubles-down on Trump's UAP disclosure promise as AARO's caseload exceeds 2,000'",
+"url": "https://defensescoop.com/2026/02/25/hegseth-ufo-disclosure-trump-aaro-uap-caseload/"
+},
+{
+"date": "2026-02-20",
+"name": "DefenseScoop, 'Transparency proponents meet Trump's UAP disclosure tease with hope - and caution'",
+"url": "https://defensescoop.com/2026/02/20/trump-ufo-uap-government-files-disclosure/"
+}
+],
+"sub": "'Arsenal of Freedom' tour; 'full compliance with that executive order'",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 651 of 1027, score 24). 1 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D3.",
+"timeline": [
+{
+"date": "2026-02-23",
+"id": "tl-hegseth-louisville",
+"label": "Hegseth commits the Department: 'full compliance with that executive order'",
+"precision": "day",
+"strand": "program",
+"text": "At an Arsenal of Freedom stop in Louisville, Colorado, the Secretary of War describes a deliberative process and declines a timeline. Sue Gough confirms AARO's caseload has passed 2,000, with about 1,000 reports in an Active Archive for insufficient data.",
+"tier": "2"
+},
+{
+"date": "2026-02-27",
+"id": "tl-dow-news",
+"label": "The Department of War publicly takes the file",
+"precision": "day",
+"strand": "program",
+"text": "Hegseth: 'We've got our people working on it right now... We're going to be in full compliance with [the president's request].' Asked about extraterrestrial life: 'We'll see. I get to do the review and find out along with you.' Press Secretary Kingsley Wilson says AARO is coordinating with the White House and across agencies to consolidate existing records.",
+"tier": "2"
+}
+]
+}

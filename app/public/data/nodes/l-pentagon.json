@@ -1,0 +1,88 @@
+{
+"A": 3,
+"C": 2,
+"D": 2,
+"band": null,
+"claims": [
+{
+"source": "Christopher Mellon in The Phenomenon (2020), via Vice",
+"text": "Christopher Mellon received the three video files 'in the Pentagon parking lot from a Defense Department official'.",
+"tier": 2
+},
+{
+"source": "Department of War website, verified August 2026",
+"text": "Department of Defense press releases from 2020, including the 27 April 2020 video release statement, now resolve to war.gov following the Department's renaming.",
+"tier": 1
+}
+],
+"cls": "location",
+"cluster": "other",
+"connections": [
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "2017",
+"dateStart": "2008",
+"direction": "in",
+"edgeLabel": "Worked in OUSD(I) offices, 2008-2017",
+"id": "luis-elizondo",
+"l0": false,
+"label": "Luis D. Elizondo",
+"note": "The New York Times placed AATIP on the Pentagon's fifth floor; the Pentagon parking lot is where Mellon says he received the video files.",
+"sources": [
+{
+"date": "2017-12-16",
+"name": "New York Times (NICAP copy)",
+"url": "https://www.nicap.org/reports2/2004_20171216_NYTArt_1.pdf"
+}
+],
+"tier": "A",
+"type": "institutional"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "1943",
+"deg": 1,
+"denials": [],
+"desc": "The building in which every institutional act in this domain occurred: OUSD(I)'s fifth-floor offices where Elizondo worked and where the New York Times placed AATIP; the office that produced the Reid memoranda and the 2019 messaging coordination; the public affairs shop that issued the Sherwood and Gough statements; and the parking lot in which, on Christopher Mellon's own account, three video files changed hands. In 2025 the Department was renamed the Department of War, and its web properties now resolve to war.gov — including the April 2020 statement authorising release of the videos.",
+"domains": [
+"_rs-archive-mirror",
+"elizondo-ttsa"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "l-pentagon",
+"l0": false,
+"label": "The Pentagon, Arlington, Virginia",
+"locLabel": null,
+"members": null,
+"short": "The Pentagon, Arlington, Virginia",
+"sources": [
+{
+"date": "2026-08-02",
+"name": "Archived: Department of Defense/War — Statement on the Release of Historical Navy Videos (Wayback 2026-08-02)",
+"url": "https://web.archive.org/web/20260802200608/https://www.war.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/"
+},
+{
+"date": "2020-04-27",
+"name": "Department of Defense/War — Statement on the Release of Historical Navy Videos",
+"url": "https://www.war.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos"
+},
+{
+"date": "2020-10-20",
+"name": "Vice — Ex Intel Official Says He Was the Source of the Pentagon's UFO Videos",
+"url": "https://www.vice.com/en/article/this-guy-says-he-was-the-source-of-the-pentagons-ufo-videos/"
+}
+],
+"sub": "Headquarters, U.S. Department of Defense / Department of War",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 559 of 1027, score 27). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A3/D2.",
+"timeline": []
+}

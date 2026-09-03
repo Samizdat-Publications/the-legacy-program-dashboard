@@ -1,0 +1,122 @@
+{
+"A": 2,
+"C": 1,
+"D": 3,
+"band": null,
+"claims": [
+{
+"source": "UK MoD / National Archives release record",
+"text": "The UK Ministry of Defence closed its UFO desk in December 2009 and released its UFO file series to the National Archives.",
+"tier": 1
+},
+{
+"source": "Board bookkeeping",
+"text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
+"tier": 3
+}
+],
+"cls": "location",
+"cluster": "other",
+"connections": [
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "UK-commissioned study of its own air defence region",
+"id": "doc-condign-report",
+"l0": true,
+"label": "Unidentified Aerial Phenomena in the UK Air Defence Region (DIS Scientific & Technical Memorandum 55/2/00)",
+"note": "The report is DI55's, and its title fixes its scope: 'Unidentified Aerial Phenomena in the UK Air Defence Region', completed in 2000. From that point onwards DI55 was removed from the distribution list of UFO reports received by the MoD. It is a state-commissioned assessment of the phenomenon over British territory with no American equivalent released to the public.",
+"sources": [
+{
+"date": "2013-01-01",
+"name": "The National Archives, 'Unidentified Flying Objects (UFOs)' research guide",
+"url": "https://cdn.nationalarchives.gov.uk/documents/ufo-research-guide-2013.pdf"
+},
+{
+"date": null,
+"name": "https://en.wikipedia.org/wiki/Project_Condign",
+"url": "https://en.wikipedia.org/wiki/Project_Condign"
+}
+],
+"tier": "A",
+"type": "geographic"
+},
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "incident location: Rendlesham Forest, Suffolk",
+"id": "rendlesham-1980",
+"l0": true,
+"label": "Rendlesham Forest Incident, RAF Woodbridge/Bentwaters",
+"note": "The National Archives records that the sightings 'took place over two nights late in December 1980 at RAF Woodbridge' in Suffolk, reported by USAF personnel stationed there. That the reports were made at this location is documented; the nature of what was seen remains unresolved.",
+"sources": [
+{
+"date": "2013-01-01",
+"name": "The National Archives, 'Unidentified Flying Objects (UFOs)' research guide",
+"url": "https://cdn.nationalarchives.gov.uk/documents/ufo-research-guide-2013.pdf"
+},
+{
+"date": null,
+"name": "https://en.wikipedia.org/wiki/Rendlesham_Forest_incident",
+"url": "https://en.wikipedia.org/wiki/Rendlesham_Forest_incident"
+},
+{
+"date": null,
+"name": "https://www.nbcnews.com/id/wbna32451823",
+"url": "https://www.nbcnews.com/id/wbna32451823"
+}
+],
+"tier": "A",
+"type": "geographic"
+}
+],
+"coords": [
+54.0,
+-2.0
+],
+"dateEnd": null,
+"dateStart": null,
+"deg": 2,
+"denials": [],
+"desc": "The United Kingdom occupies a specific argumentative position on this board: it is the state that did what the United States has not. The Ministry of Defence operated a UFO reporting desk from 1950 until December 2009, commissioned the classified Project Condign study of unidentified aerial phenomena in the UK air defence region, and subsequently released its entire UFO file series into the National Archives in successive public tranches. The Rendlesham Forest events of December 1980, involving US Air Force personnel at RAF Woodbridge and Bentwaters, remain the most heavily documented Anglo-American case. Nothing in the British release produced the harms the American concealment case depends on.",
+"domains": [
+"_stubs",
+"w2-taxonomy"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "nd",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "l-uk",
+"l0": false,
+"label": "United Kingdom",
+"locLabel": "United Kingdom",
+"members": null,
+"short": "United Kingdom",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Wikipedia - United Kingdom",
+"url": "https://en.wikipedia.org/wiki/United_Kingdom"
+},
+{
+"date": "2026-08-12",
+"name": "UK Government - Ministry of Defence",
+"url": "https://www.gov.uk/government/organisations/ministry-of-defence"
+}
+],
+"sub": "Sovereign state; the fullest official UFO file release by any government",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 715 of 1027, score 22). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D3.",
+"timeline": []
+}

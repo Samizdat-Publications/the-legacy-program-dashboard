@@ -1,0 +1,135 @@
+{
+"A": 2,
+"C": 0,
+"D": 3,
+"affiliations": [
+"Inspector General of the Intelligence Community (2011-2017)",
+"Compass Rose Legal Group, senior partner"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "2011-01-01",
+"event": "Becomes first Inspector General of the Intelligence Community",
+"precision": "year"
+},
+{
+"date": "2022-05-25",
+"event": "Files Grusch's urgent-concern complaint with the ICIG",
+"precision": "day"
+},
+{
+"date": "2023-06-13",
+"event": "Unclassified version of the reprisal complaint reported publicly",
+"precision": "day"
+}
+],
+"claims": [
+{
+"source": "Unclassified reprisal complaint as reported by Liberation Times, 13 June 2023; The Debrief, 5 June 2023",
+"text": "Filed Grusch's PPD-19 urgent-concern disclosure with the ICIG on 25 May 2022 as counsel of record.",
+"tier": 1
+},
+{
+"source": "Unclassified reprisal complaint, reported 13 June 2023",
+"text": "The complaint alleges Grusch's identity and his UAP-related communications with the DoD IG were disclosed to parties outside the IG's office, producing retaliation; it states Grusch 'communicated classified information about the improper withholding and/or concealment of classified material from the US Congress.'",
+"tier": 2
+}
+],
+"cls": "person",
+"cluster": "oversight",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "2022",
+"dateStart": "2022",
+"direction": "out",
+"edgeLabel": "Filed the complaint as counsel; former ICIG filing with the ICIG",
+"id": "grusch-icig-complaint",
+"l0": false,
+"label": "Grusch PPD-19 Urgent Concern Complaint to the ICIG",
+"note": "The first Inspector General of the Intelligence Community drafted and filed the urgent-concern complaint with the office he previously ran. This is the strongest structural credential in the file.",
+"sources": [
+{
+"date": "2023-06-05",
+"name": "The Debrief - Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin",
+"url": "https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 2,
+"cls": "event",
+"dateEnd": null,
+"dateStart": "2022-05",
+"direction": "out",
+"edgeLabel": "Counsel who filed the ICIG disclosure of urgent concern",
+"id": "grusch-misappropriation-allegation",
+"l0": true,
+"label": "The misappropriation allegation: Grusch's ICIG complaint and sworn testimony",
+"note": "McCullough, himself a former Intelligence Community Inspector General, filed the Disclosure of Urgent Concern(s) and Complaint of Reprisal on Grusch's behalf in May 2022. Attested by The Debrief.",
+"sources": [
+{
+"date": "2023-06-05",
+"name": "The Debrief, 5 June 2023",
+"url": "https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/"
+}
+],
+"tier": "A",
+"type": "witness-chain"
+}
+],
+"date": "2022-05-25",
+"dateEnd": null,
+"dateStart": "2022-05-25",
+"deg": 2,
+"denials": [],
+"domains": [
+"grusch"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "charles-mccullough-iii",
+"instId": "compass-rose-legal-group",
+"l0": false,
+"label": "Irvin Charles McCullough III",
+"loc": "Washington, DC",
+"locId": "l-dc",
+"members": null,
+"narrative": "McCullough was the first person to hold the office of Inspector General of the Intelligence Community and served through the Obama administration, administering the urgent-concern machinery in some of its most sensitive applications. He is now a senior partner at Compass Rose Legal Group, and on 25 May 2022 he filed David Grusch's PPD-19 urgent-concern complaint with the office he once ran. His involvement is the strongest structural argument against the confused-believer framing: the man who administered the IC's urgent-concern process took the case, filed it, and the office found it credible and urgent within roughly two months. He subsequently pursued the reprisal complaint alleging that Grusch's identity and his UAP-related communications with the DoD IG were improperly disclosed to DoD and IC entities outside the IG's office - naming, in the unclassified version reported in June 2023, officials and members including DNI Avril Haines, AARO director Sean Kirkpatrick, Pentagon spokesperson Susan Gough, Sen. Kirsten Gillibrand and Rep. Tim Burchett as recipients or actors in the information flow.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Irvin Charles McCullough III",
+"sources": [
+{
+"date": "2023-06-13",
+"name": "Liberation Times - Unclassified Version Of David Grusch's UFO-Related Reprisal Complaint Released",
+"url": "https://www.liberationtimes.com/home/unclassified-version-of-david-gruschs-ufo-related-reprisal-complaint-released"
+},
+{
+"date": "2023-06-05",
+"name": "The Debrief - Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin",
+"url": "https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/"
+}
+],
+"status": "active",
+"sub": "First Inspector General of the Intelligence Community; Grusch's counsel",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 697 of 1027, score 22). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A2/D3.",
+"timeline": [],
+"unexplainedResidual": null,
+"unverified": [
+"Whether McCullough still represents Grusch in the 2025-2026 reprisal matters; the disposition of the reprisal complaint."
+]
+}

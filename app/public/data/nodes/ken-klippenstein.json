@@ -1,0 +1,164 @@
+{
+"A": 0,
+"C": 0,
+"D": 2,
+"affiliations": [
+"The Intercept (2022-2024)",
+"Independent (2024- )"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "2023-08-09",
+"event": "Publishes Grusch's Loudoun County police and psychiatric-detention records in The Intercept",
+"precision": "day"
+}
+],
+"claims": [
+{
+"source": "The Intercept, 9 August 2023",
+"text": "Published Loudoun County Sheriff's Office records describing Grusch's 2014 and 2018 emergency custody episodes, obtained under Virginia FOIA.",
+"tier": 1
+},
+{
+"source": "Rep. Nancy Mace, Task Force on the Declassification of Federal Secrets hearing, 9 September 2025",
+"text": "Members of Congress characterize the leak as retaliation: 'We know they did that to Mr. Grusch. They leaked his private medical information, horrific things.'",
+"tier": 2
+}
+],
+"cls": "person",
+"cluster": "media",
+"conflicts": [
+"Grusch and multiple members of Congress characterize the release as a coordinated smear; a Virginia court found the release itself lawful, which resolves the legal question and not the question of who prompted the request."
+],
+"connections": [
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "2025",
+"dateStart": "2023",
+"direction": "out",
+"edgeLabel": "FOIA request that produced the records at issue in the suit",
+"id": "grusch-v-chapman",
+"l0": false,
+"label": "David C. Grusch v. Michael Chapman et al.",
+"note": "Klippenstein obtained Grusch's 2014 and 2018 Loudoun County emergency-custody police records under Virginia FOIA and published them in The Intercept on 9 August 2023; Grusch's civil action was against the Sheriff who released them, not the reporter.",
+"sources": [
+{
+"date": "2023-08-09",
+"name": "The Intercept - UFO Whistleblower Kept Security Clearance After Psychiatric Detention",
+"url": "https://theintercept.com/2023/08/09/ufo-david-grusch-clearance/"
+},
+{
+"date": "2024-07-25",
+"name": "Loudoun Times-Mirror - UFO whistleblower sues Sheriff's Office over records release",
+"url": "https://www.loudountimes.com/0local-or-not/1local/ufo-whistleblower-sues-sheriffs-office-over-records-release/article_b24005c4-490e-11ef-97d5-4bc65ae077be.html"
+}
+],
+"tier": "C",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "2025",
+"dateStart": "2025",
+"direction": "in",
+"edgeLabel": "Member of Congress characterizes the records leak as a discrediting operation",
+"id": "nancy-mace",
+"l0": false,
+"label": "Nancy Ruth Mace",
+"note": "At the 9 September 2025 Task Force hearing Mace told a witness: 'We know they did that to Mr. Grusch. They leaked his private medical information, horrific things.' The statement is in the official record; the identity of 'they' is not.",
+"sources": [
+{
+"date": "2025-09-09",
+"name": "Task Force hearing record, Serial No. 119-44",
+"url": "https://www.congress.gov/119/chrg/CHRG-119hhrg61718/CHRG-119hhrg61718.pdf"
+}
+],
+"tier": "A",
+"type": "denial"
+}
+],
+"date": "2023-08-09",
+"dateEnd": null,
+"dateStart": "2023-08-09",
+"deg": 2,
+"denials": [
+{
+"by": {
+"id": "nancy-mace",
+"label": "Nancy Ruth Mace"
+},
+"claimTier": 1,
+"denialKind": "directed",
+"label": "Member of Congress characterizes the records leak as a discrediting operation",
+"note": "At the 9 September 2025 Task Force hearing Mace told a witness: 'We know they did that to Mr. Grusch. They leaked his private medical information, horrific things.' The statement is in the official record; the identity of 'they' is not.",
+"of": {
+"id": "ken-klippenstein",
+"label": "Ken Klippenstein"
+},
+"sources": [
+{
+"date": "2025-09-09",
+"name": "Task Force hearing record, Serial No. 119-44",
+"url": "https://www.congress.gov/119/chrg/CHRG-119hhrg61718/CHRG-119hhrg61718.pdf"
+}
+]
+}
+],
+"domains": [
+"grusch"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "ken-klippenstein",
+"instId": "the-intercept",
+"l0": false,
+"label": "Ken Klippenstein",
+"loc": "Washington, DC",
+"locId": "l-dc",
+"members": null,
+"narrative": "Klippenstein obtained, by Virginia FOIA request to the Loudoun County Sheriff's Office, the police incident records of Grusch's 2014 and 2018 emergency custody episodes and published them in The Intercept on 9 August 2023, two weeks after the sworn testimony. The publication reframed the national conversation from what Grusch alleged to whether Grusch was well. Grusch sued the Sheriff over the release, not Klippenstein, and lost. Whatever the reporting's own merits, its timing and effect are the textbook shape of a whistleblower discrediting sequence, and members of Congress have said so on the record: at the 9 September 2025 hearing Rep. Nancy Mace told a subsequent witness, 'We know they did that to Mr. Grusch. They leaked his private medical information, horrific things.'",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Ken Klippenstein",
+"sources": [
+{
+"date": "2023-08-09",
+"name": "The Intercept - UFO Whistleblower Kept Security Clearance After Psychiatric Detention",
+"url": "https://theintercept.com/2023/08/09/ufo-david-grusch-clearance/"
+},
+{
+"date": "2025-09-09",
+"name": "Task Force on the Declassification of Federal Secrets hearing record, Serial No. 119-44",
+"url": "https://www.congress.gov/119/chrg/CHRG-119hhrg61718/CHRG-119hhrg61718.pdf"
+}
+],
+"status": "active",
+"sub": "Investigative reporter; obtained and published Grusch's county police records",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 877 of 1027, score 15). 2 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D2.",
+"timeline": [
+{
+"date": "2023-08-09",
+"id": "g-tl-2023-08-intercept",
+"label": "Grusch's psychiatric-detention records published",
+"precision": "day",
+"strand": "coverup",
+"text": "Ken Klippenstein publishes Loudoun County police records of Grusch's 2014 and 2018 emergency custody episodes, obtained under Virginia FOIA, two weeks after the sworn testimony. Members of Congress later describe the leak as a discrediting operation.",
+"tier": "A"
+}
+],
+"unexplainedResidual": null,
+"unverified": [
+"Who, if anyone, directed or suggested the FOIA request; whether any DoD or IC official had advance knowledge of it."
+]
+}

@@ -1,0 +1,124 @@
+{
+"A": 1,
+"C": 0,
+"D": 2,
+"band": null,
+"claims": [
+{
+"source": "CHRG-118hhrg57440, 13 November 2024",
+"text": "Co-chaired the 13 November 2024 joint UAP hearing; its chairwoman entered the 12-page Immaculate Constellation document into the Congressional Record.",
+"tier": 1
+}
+],
+"cls": "institution",
+"cluster": "oversight",
+"connections": [
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": "2024",
+"dateStart": "2024",
+"direction": "out",
+"edgeLabel": "Co-chaired the 13 November 2024 joint hearing",
+"id": "hearing-2024-11-13",
+"l0": true,
+"label": "House Oversight joint hearing, 13 November 2024 - 'Unidentified Anomalous Phenomena: Exposing the Truth'",
+"note": "Joint with the National Security subcommittee; Serial No. 118-135.",
+"sources": [
+{
+"date": "2024-11-13",
+"name": "U.S. GPO, Hearing transcript, Serial No. 118-135 (CHRG-118hhrg57440)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm"
+},
+{
+"date": "2024-11-13",
+"name": "House Oversight Committee, hearing page: UAP: Exposing the Truth",
+"url": "https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-exposing-the-truth/"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "2025",
+"dateStart": "2023",
+"direction": "in",
+"edgeLabel": "Parent committee of Mace's subcommittee",
+"id": "house-oversight-committee",
+"l0": true,
+"label": "U.S. House Committee on Oversight and Government Reform",
+"note": "Mace's Cybersecurity, IT and Government Innovation subcommittee co-chaired the 13 Nov 2024 joint UAP hearing.",
+"sources": [
+{
+"date": "2024-11-13",
+"name": "U.S. GPO, Hearing transcript, Serial No. 118-135 (CHRG-118hhrg57440)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "2025",
+"dateStart": "2023",
+"direction": "in",
+"edgeLabel": "Chairwoman; presided over the 2024 joint hearing",
+"id": "nancy-mace",
+"l0": false,
+"label": "Nancy Ruth Mace",
+"note": "Mace chaired the joint hearing and moved the Immaculate Constellation document into the record.",
+"sources": [
+{
+"date": "2024-11-13",
+"name": "U.S. GPO, Hearing transcript, Serial No. 118-135 (CHRG-118hhrg57440)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm"
+}
+],
+"tier": "A",
+"type": "institutional"
+}
+],
+"coords": null,
+"dateEnd": "2025",
+"dateStart": "2023",
+"deg": 3,
+"denials": [],
+"desc": "Nancy Mace's subcommittee, which co-chaired the 13 November 2024 joint UAP hearing with Grothman's National Security subcommittee. Mace used the chair to enter the 12-page Immaculate Constellation document into the Congressional Record and to submit Christopher Mellon's hearing letter. Her opening statement recorded, without naming names, that 'certain individuals... did not want this hearing to happen because they feared what might be disclosed.' The subcommittee's information-technology jurisdiction is what supplied the formal hook for a hearing about a programme alleged to consolidate imagery and measurement-and-signature intelligence.",
+"domains": [
+"congress-house"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "hoc-subcommittee-cybersecurity-it",
+"l0": false,
+"label": "Subcommittee on Cybersecurity, Information Technology, and Government Innovation",
+"locLabel": null,
+"members": null,
+"short": "Subcommittee on Cybersecurity, Information Technology, and Government Innovation",
+"sources": [
+{
+"date": "2024-11-13",
+"name": "U.S. GPO, Hearing transcript, Serial No. 118-135 (CHRG-118hhrg57440)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm"
+},
+{
+"date": "2024-11-13",
+"name": "House Oversight Committee, hearing page: UAP: Exposing the Truth",
+"url": "https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-exposing-the-truth/"
+}
+],
+"sub": "House Oversight subcommittee",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 926 of 1027, score 13). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D2.",
+"timeline": []
+}

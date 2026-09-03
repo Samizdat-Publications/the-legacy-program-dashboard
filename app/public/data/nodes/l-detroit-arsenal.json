@@ -1,0 +1,188 @@
+{
+"A": 1,
+"C": 2,
+"D": 2,
+"band": null,
+"claims": [
+{
+"source": "Executed CRADA between CCDC GVSC and TTSA, 10 October 2019",
+"text": "GVSC Director Jeffery Langhout signed a CRADA with To The Stars Academy dated 10 October 2019; the agreement text was released by the Army on 18 October 2019.",
+"tier": 1
+},
+{
+"source": "Army FOIA response to John Greenewald / The Black Vault",
+"text": "The Army located twenty-nine emails totalling one hundred pages of Dr. Joseph Cannon's correspondence with TTSA and withheld all of them in full under FOIA exemptions (b)(4) and (b)(5).",
+"tier": 1
+},
+{
+"source": "Dr. Joseph Cannon, quoted in TTSA announcement, 17 October 2019",
+"text": "'Our partnership with TTSA serves as an exciting, non-traditional source for novel materials and transformational technologies.'",
+"tier": 2
+},
+{
+"source": "Army public affairs statement, 2019",
+"text": "GVSP spokesman Doug Halleaux stated that because the Army's interest is in the potential for novel materials, 'any speculation as to their origin is (pardon the pun) immaterial.'",
+"tier": 2
+}
+],
+"cls": "location",
+"cluster": "contractor",
+"connections": [
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "2019-10-10",
+"dateStart": "2019-10-10",
+"direction": "in",
+"edgeLabel": "Langhout signed as GVSC Director",
+"id": "jeffery-langhout",
+"l0": false,
+"label": "Jeffery Langhout",
+"note": "The signature block is the documentary anchor: an executed federal instrument, not a press release.",
+"sources": [
+{
+"date": "2019-10-18",
+"name": "The Black Vault - Army/TTSA CRADA and FOIA records",
+"url": "https://www.theblackvault.com/documentarchive/u-s-army-releases-crada-with-to-the-stars-academy-of-arts-science/"
+},
+{
+"date": "2026-08-25",
+"name": "CRADA between CCDC Ground Vehicle Systems Center and To The Stars Academy, CRADA No. 19-15 (released PDF)",
+"url": "https://documents2.theblackvault.com/documents/army/TTSA-ARMY-CRADA.pdf"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "2020",
+"dateStart": "2019",
+"direction": "in",
+"edgeLabel": "Cannon was the named government principal investigator at GVSC",
+"id": "joseph-cannon",
+"l0": false,
+"label": "Dr. Joseph Cannon",
+"note": "The Army located twenty-nine emails totalling a hundred pages of Cannon's TTSA correspondence and withheld all of them under FOIA exemptions (b)(4) and (b)(5).",
+"sources": [
+{
+"date": "2019-10-18",
+"name": "The Black Vault - Army/TTSA CRADA and FOIA records",
+"url": "https://www.theblackvault.com/documentarchive/u-s-army-releases-crada-with-to-the-stars-academy-of-arts-science/"
+},
+{
+"date": "2026-08-25",
+"name": "CRADA between CCDC Ground Vehicle Systems Center and To The Stars Academy, CRADA No. 19-15 (released PDF)",
+"url": "https://documents2.theblackvault.com/documents/army/TTSA-ARMY-CRADA.pdf"
+}
+],
+"tier": "B",
+"type": "custody"
+},
+{
+"claimTier": 1,
+"cls": "location",
+"dateEnd": null,
+"dateStart": "1940",
+"direction": "out",
+"edgeLabel": "Detroit Arsenal is in Warren, thirteen miles north of Detroit",
+"id": "l-detroit",
+"l0": false,
+"label": "Detroit, Michigan",
+"note": "The installation sits in Warren, Michigan, within the Detroit metropolitan area that also holds Kit Green's post-agency academic base at Wayne State.",
+"sources": [
+{
+"date": "2019-10-18",
+"name": "The Black Vault - Army/TTSA CRADA and FOIA records",
+"url": "https://www.theblackvault.com/documentarchive/u-s-army-releases-crada-with-to-the-stars-academy-of-arts-science/"
+},
+{
+"date": "2026-08-25",
+"name": "CRADA between CCDC Ground Vehicle Systems Center and To The Stars Academy, CRADA No. 19-15 (released PDF)",
+"url": "https://documents2.theblackvault.com/documents/army/TTSA-ARMY-CRADA.pdf"
+}
+],
+"tier": "C",
+"type": "geographic"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "2019-10-10",
+"dateStart": "2019-10-10",
+"direction": "in",
+"edgeLabel": "The CRADA was executed at Detroit Arsenal",
+"id": "ttsa-army-crada",
+"l0": true,
+"label": "CRADA between U.S. Army Ground Vehicle Systems Center and To The Stars Academy",
+"note": "GVSC Director Jeffery Langhout signed the agreement on 10 October 2019; the Army released the text on 18 October 2019.",
+"sources": [
+{
+"date": "2019-10-18",
+"name": "The Black Vault - Army/TTSA CRADA and FOIA records",
+"url": "https://www.theblackvault.com/documentarchive/u-s-army-releases-crada-with-to-the-stars-academy-of-arts-science/"
+},
+{
+"date": "2026-08-25",
+"name": "CRADA between CCDC Ground Vehicle Systems Center and To The Stars Academy, CRADA No. 19-15 (released PDF)",
+"url": "https://documents2.theblackvault.com/documents/army/TTSA-ARMY-CRADA.pdf"
+}
+],
+"tier": "A",
+"type": "institutional"
+}
+],
+"coords": [
+42.557,
+-83.0413
+],
+"dateEnd": null,
+"dateStart": "1940",
+"deg": 4,
+"denials": [],
+"desc": "Detroit Arsenal in Warren, Michigan is the U.S. Army's ground vehicle research and acquisition centre, home to the Combat Capabilities Development Command Ground Vehicle Systems Center - formerly TARDEC - and to Program Executive Office Ground Combat Systems. It is on this board for one reason, and it is a documented one. On 10 October 2019 GVSC Director Jeffery Langhout signed a Cooperative Research and Development Agreement with To The Stars Academy of Arts and Science, a private company then publicly asserting possession of material from a craft of unknown origin. The agreement's stated research scope included inertial mass reduction, electromagnetic metamaterial waveguides, beamed energy propulsion, active camouflage and directed photon projection. Dr. Joseph Cannon of the Ground Vehicle Survivability and Protection directorate was the named government principal investigator, quoted in TTSA's 17 October 2019 announcement calling the partnership 'an exciting, non-traditional source for novel materials and transformational technologies.' GVSC released the CRADA text on 18 October 2019, then, when John Greenewald sought Cannon's correspondence with TTSA, located twenty-nine emails totalling a hundred pages and withheld all of them in full under FOIA exemptions (b)(4) and (b)(5). No characterisation results have ever been published. Warren, Michigan is therefore the only place in the United States where a federal laboratory's signature block is attached to an executed instrument to study material a private party claimed came from a craft of unknown origin - and where the resulting correspondence is being withheld in its entirety.",
+"domains": [
+"w2-places-events"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "l-detroit-arsenal",
+"l0": false,
+"label": "Detroit Arsenal, Warren, Michigan",
+"locLabel": "Detroit Arsenal, Michigan, USA",
+"members": null,
+"short": "Detroit Arsenal, Warren, Michigan",
+"sources": [
+{
+"date": "2019-10-18",
+"name": "The Black Vault - Army/TTSA CRADA and FOIA records",
+"url": "https://www.theblackvault.com/documentarchive/u-s-army-releases-crada-with-to-the-stars-academy-of-arts-science/"
+},
+{
+"date": "2026-08-25",
+"name": "CRADA between CCDC Ground Vehicle Systems Center and To The Stars Academy, CRADA No. 19-15 (released PDF)",
+"url": "https://documents2.theblackvault.com/documents/army/TTSA-ARMY-CRADA.pdf"
+}
+],
+"sub": "US Army installation in Warren, Michigan; DEVCOM Ground Vehicle Systems Center; PEO Ground Combat Systems",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 424 of 1027, score 32). 4 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A1/D2.",
+"timeline": [
+{
+"date": "2019-10-10",
+"id": "tl-2019-crada",
+"label": "The Army signs for the material",
+"precision": "day",
+"strand": "program",
+"text": "GVSC Director Jeffery Langhout signs a CRADA with To The Stars Academy at Detroit Arsenal covering inertial mass reduction and metamaterial waveguides. The text is released 18 October; all twenty-nine emails of correspondence are later withheld in full.",
+"tier": "A"
+}
+]
+}

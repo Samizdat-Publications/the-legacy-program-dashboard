@@ -1,0 +1,252 @@
+{
+"A": 0,
+"C": 0,
+"D": 0,
+"band": null,
+"claims": [
+{
+"source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237619/",
+"text": "Defense Intelligence Reference Document titled \"Pulsed High-Power Microwave Source Technology\", series \"Acquisition Threat Support\", published 2010-01-28 with an Intelligence Cut-Off Date (ICOD) of 2009-12-01, DIA document number DIA-08-0912-005. Released by DIA under FOIA and posted in the DIA FOIA Electronic Reading Room.",
+"tier": 1
+},
+{
+"source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237619/",
+"text": "Inside cover reads: \"This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency [redacted b(3) 10 USC 424] Advanced Aerospace Weapon System Applications (AAWSA) Program\" and directs questions to the \"AAWSA Program Manager, Defense Intelligence Agency, ATTN: [redacted], Bldg 6000, Washington, DC 20340-5100\".",
+"tier": 1
+},
+{
+"source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237619/",
+"text": "Author name is withheld in the DIA-released copy under FOIA exemption (b)(6); the \"Prepared by:\" line is withheld under (b)(3) 10 USC 424. The released cover therefore does not attribute the DIRD to a named author.",
+"tier": 1
+},
+{
+"source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_03-DIRD_Pulsed_High-Power_Microwave_Source_Technology.pdf",
+"text": "Cover page reads: '28 January 2010 / ICOD: 1 December 2009 / DIA-08-0912-005 / Defense Intelligence Reference Document / Acquisition Threat Support / Pulsed High-Power Microwave Source Technology'.",
+"tier": 1
+},
+{
+"source": "https://irp.fas.org/dia/aatip-list.pdf",
+"text": "Attributed on the DIA list of AATIP/AAWSAP products supplied to the Senate Armed Services Committee to 'Dr James Wells, J W Enterprises'.",
+"tier": 1
+},
+{
+"source": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html",
+"text": "The earlier George Knapp / KLAS-TV roster of 25 July 2018 gives the same author with the affiliation 'Northrop Grumman'. The DIA list is treated as authoritative; the discrepancy is recorded, not resolved.",
+"tier": 2
+},
+{
+"source": "https://www.theblackvault.com/documentarchive/the-advanced-aviation-threat-identification-program-aatip-dird-report-research/",
+"text": "Released copy runs 37 pages. Note the DIA document number prefix 0912, indicating a December 2009 assignment, earlier than any other document in this batch.",
+"tier": 1
+}
+],
+"cls": "document",
+"cluster": "other",
+"connections": [
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "produced under the AAWSA/AAWSAP contract",
+"id": "aawsap",
+"l0": true,
+"label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)",
+"note": "Tier 2, and the reason is worth stating. A full-text scan of this released DIRD on 23 August 2026 found NO occurrence of the programme name anywhere in the document - unlike 27 of the 32 scanned, whose inside cover names the Advanced Aerospace Weapon System Applications Program explicitly. The link therefore rests on the DIA's 9 January 2018 list to the Senate Armed Services Committee, which enumerates it among the 38 reference products, and not on the document's own text.",
+"sources": [
+{
+"date": null,
+"name": "documents2.theblackvault.com",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_03-DIRD_Pulsed_High-Power_Microwave_Source_Technology.pdf"
+},
+{
+"date": null,
+"name": "theblackvault.com",
+"url": "https://www.theblackvault.com/documentarchive/the-advanced-aviation-threat-identification-program-aatip-dird-report-research/"
+},
+{
+"date": "2026-08-23",
+"name": "DIA letter of 9 January 2018 to the Senate Armed Services Committee listing 38 AAWSAP/AATIP reference products (FAS Intelligence Resource Program)",
+"url": "https://fas.org/publication/aatip-list/"
+}
+],
+"tier": "A",
+"type": "programmatic"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "published, numbered and released by DIA as DIA-08-0912-005",
+"id": "dia",
+"l0": true,
+"label": "Defense Intelligence Agency",
+"note": "DIA commissioned, holds and released this document. It carries a DIA document number in the DIA-08-xxxx-xxx series on its cover and was released through the DIA FOIA Electronic Reading Room, whose FileId entry is cited here alongside the retrievable copy. Cover page read on 22 August 2026.",
+"sources": [
+{
+"date": null,
+"name": "documents2.theblackvault.com",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_03-DIRD_Pulsed_High-Power_Microwave_Source_Technology.pdf"
+},
+{
+"date": null,
+"name": "theblackvault.com",
+"url": "https://www.theblackvault.com/documentarchive/the-advanced-aviation-threat-identification-program-aatip-dird-report-research/"
+},
+{
+"date": null,
+"name": "https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk",
+"url": "https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk"
+}
+],
+"tier": "A",
+"type": "custody"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "DIRD",
+"id": "dird-series",
+"l0": true,
+"label": "The 38 Defense Intelligence Reference Documents (DIRDs)",
+"note": "Membership of the DIRD series is established by the released document itself: its cover page carries the Defense Intelligence Reference Document mark and the DIA Defense Futures banner. Publication date 28 January 2010 on the cover. 38 pages in the released copy. The cover of the scanned release is degraded, so a document number or date is asserted here only where it reads unambiguously.",
+"sources": [
+{
+"date": "2026-08-22",
+"name": "Released DIRD, 'Pulsed High-Power Microwave Source Technology' (FOIA copy, cover page read 22 August 2026)",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_03-DIRD_Pulsed_High-Power_Microwave_Source_Technology.pdf"
+},
+{
+"date": "2026-08-22",
+"name": "DIA FOIA Electronic Reading Room, AAWSAP/AATIP reference-document entry",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237619/"
+}
+],
+"tier": "A",
+"type": "programmatic"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "authored by",
+"id": "james-wells",
+"l0": false,
+"label": "James Wells",
+"note": "The DIA congressional list credits 'Pulsed High-Power Microwave Technology' to 'Dr James Wells, J W Enterprises'. The earlier Knapp/KLAS-TV roster gives the same author with the affiliation Northrop Grumman; the DIA list governs. No verified biography for this author has been located beyond the list entry.",
+"sources": [
+{
+"date": "2026-08-22",
+"name": "Released DIRD, 'Pulsed High-Power Microwave Source Technology' — FOIA copy, cover page read 22 August 2026",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_03-DIRD_Pulsed_High-Power_Microwave_Source_Technology.pdf"
+},
+{
+"date": "2026-08-22",
+"name": "DIA FOIA Electronic Reading Room entry for this reference document",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237619/"
+},
+{
+"date": "2026-08-23",
+"name": "DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations",
+"url": "https://fas.org/publication/aatip-list/"
+},
+{
+"date": null,
+"name": "https://irp.fas.org/dia/aatip-list.pdf",
+"url": "https://irp.fas.org/dia/aatip-list.pdf"
+},
+{
+"date": null,
+"name": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html",
+"url": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html"
+},
+{
+"date": null,
+"name": "https://www.theblackvault.com/documentarchive/the-advanced-aviation-threat-identification-program-aatip-dird-report-research/",
+"url": "https://www.theblackvault.com/documentarchive/the-advanced-aviation-threat-identification-program-aatip-dird-report-research/"
+}
+],
+"tier": "C",
+"type": "research"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": null,
+"deg": 4,
+"denials": [],
+"desc": "DIA Defense Intelligence Reference Document (Acquisition Threat Support series), 2010-01-28, DIA-08-0912-005, produced under the Advanced Aerospace Weapon System Applications (AAWSA/AAWSAP) Program contract with BAASS. Released under FOIA.",
+"domains": [
+"_rs-aawsap-dirds",
+"_rs-archive-mirror",
+"w7-dirds-3"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "nd",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "dird-pulsed-high-power-microwave-source-technology",
+"l0": false,
+"label": "Pulsed High-Power Microwave Source Technology",
+"locLabel": null,
+"members": null,
+"short": "Pulsed High-Power Microwave Source Technology",
+"sources": [
+{
+"date": "2010-01-28",
+"name": "DIA FOIA Reading Room — Pulsed High-Power Microwave Source Technology (PDF)",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237619/"
+},
+{
+"date": "2022-03",
+"name": "DIA FOIA Electronic Reading Room — AAWSAP/AATIP collection",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/"
+},
+{
+"date": "2025-03-12",
+"name": "Archived: DIA FOIA Reading Room — Pulsed High-Power Microwave Source Technology (PDF) (Wayback 2025-03-12)",
+"url": "https://web.archive.org/web/20250312120226/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170041/"
+},
+{
+"date": "2026-06-11",
+"name": "Archived: DIA FOIA Electronic Reading Room — AAWSAP/AATIP collection (Wayback 2026-06-11)",
+"url": "https://web.archive.org/web/20260611124158/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/"
+},
+{
+"date": null,
+"name": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_03-DIRD_Pulsed_High-Power_Microwave_Source_Technology.pdf",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_03-DIRD_Pulsed_High-Power_Microwave_Source_Technology.pdf"
+},
+{
+"date": null,
+"name": "https://irp.fas.org/dia/aatip-list.pdf",
+"url": "https://irp.fas.org/dia/aatip-list.pdf"
+},
+{
+"date": null,
+"name": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html",
+"url": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html"
+},
+{
+"date": null,
+"name": "https://www.theblackvault.com/documentarchive/the-advanced-aviation-threat-identification-program-aatip-dird-report-research/",
+"url": "https://www.theblackvault.com/documentarchive/the-advanced-aviation-threat-identification-program-aatip-dird-report-research/"
+}
+],
+"sub": "defense-intelligence-reference-document",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 382 of 1027, score 33). 4 connections, 3 of them custody/witness/funding/programmatic. Axes C0/A0/D0.",
+"timeline": []
+}

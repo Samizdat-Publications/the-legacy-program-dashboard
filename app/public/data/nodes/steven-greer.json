@@ -1,0 +1,242 @@
+{
+"A": 0,
+"C": 0,
+"D": 3,
+"affiliations": [
+"Center for the Study of Extraterrestrial Intelligence (founder, 1990)",
+"The Disclosure Project (founder, 1993)",
+"CSETI (founder, 1990)"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "1990-01-01",
+"event": "Founds CSETI.",
+"precision": "year"
+},
+{
+"date": "1993-01-01",
+"event": "Founds the Disclosure Project.",
+"precision": "year"
+},
+{
+"date": "1997-04-09",
+"event": "Briefs members of Congress and officials in Washington on the witness testimony.",
+"precision": "day"
+},
+{
+"date": "2001-05-09",
+"event": "Holds the Disclosure Project press conference at the National Press Club with about twenty former military and government witnesses.",
+"precision": "day"
+},
+{
+"date": "2001-05-09",
+"event": "Holds the National Press Club Disclosure Project event with twenty retired Air Force, FAA and intelligence officers.",
+"precision": "month"
+},
+{
+"date": "2013-04-22",
+"event": "Sirius premieres, presenting the Atacama skeleton; genetic analysis subsequently shows it to be human.",
+"precision": "day"
+},
+{
+"date": "2019-09-16",
+"event": "Clinton Library FOIA collection 2006-0474-F, consisting largely of Greer/CSETI submissions to the White House, is described in its published finding aid.",
+"precision": "day"
+},
+{
+"date": "2026-05-08",
+"event": "Holds a National Press Club event, discussed critically by UAP Gerb on 12 May 2026.",
+"precision": "day"
+}
+],
+"claims": [
+{
+"source": "Disclosure Project National Press Club event, Washington DC, 9 May 2001; contemporaneous international press coverage",
+"text": "On 9 May 2001 Greer presented roughly twenty former military, intelligence and government personnel at the National Press Club and stated that more than four hundred witnesses had provided testimony, calling for congressional hearings with subpoena power.",
+"tier": 2
+},
+{
+"source": "Clinton Digital Library collection finding aid, identifier 2006-0474-F",
+"text": "The Clinton Presidential Library's UFO FOIA collection 2006-0474-F 'consists of letters, correspondence tracking forms, memos, reports, email and cables relating to UFO's or extraterrestrial beings. A majority of the collection are documents which were sent to the White House by Steven M. Greer, the head of a nongovernmental organization called the Center for the Study of Extraterrestrial Intelligence (CSETI).'",
+"tier": 1
+},
+{
+"source": "Wikipedia, 'Steven M. Greer', retrieved 12 August 2026 — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"text": "Greer founded CSETI in 1990 and the Disclosure Project in 1993, and in May 2001 held a National Press Club press conference featuring 20 retired Air Force, FAA and intelligence officers.",
+"tier": 2
+},
+{
+"source": "Wikipedia, 'Steven M. Greer' — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"text": "The Atacama skeleton presented in Sirius was shown by genetic evidence to be human.",
+"tier": 2
+},
+{
+"source": "UAP Gerb livestream description, 12 May 2026",
+"text": "Greer held a National Press Club event on 8 May 2026.",
+"tier": 2
+}
+],
+"cls": "person",
+"cluster": "media",
+"conflicts": [
+"Greer's later claims - including assertions about non-human biological specimens - are unsupported and are routinely used to discredit the 2001 witness corpus as a whole.",
+"Central claims (Atacama skeleton, CE-5 contact) are disproven or unfalsifiable; treated by structural investigators as a discrediting vector rather than a source."
+],
+"connections": [
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2010",
+"dateStart": "1993",
+"direction": "in",
+"edgeLabel": "Sheehan served as counsel to Greer's Disclosure Project",
+"id": "daniel-sheehan",
+"l0": false,
+"label": "Daniel P. Sheehan",
+"note": "Recorded because it links the movement's current legal strategist to its most contested figure, a connection hostile reviewers will use.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Wikipedia - Daniel Sheehan (attorney)",
+"url": "https://en.wikipedia.org/wiki/Daniel_Sheehan_(attorney)"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 2,
+"cls": "program",
+"dateEnd": null,
+"dateStart": "1993",
+"direction": "out",
+"edgeLabel": "Greer founded and led the Disclosure Project",
+"id": "disclosure-project",
+"l0": false,
+"label": "The Disclosure Project",
+"note": "Greer founded CSETI in 1990 and the Disclosure Project in 1993, culminating in the 9 May 2001 National Press Club event.",
+"sources": [
+{
+"date": "2019-09-16",
+"name": "Clinton Digital Library, FOIA collection 2006-0474-F, 'Unidentified Flying Objects (UFO)' (Greer/CSETI correspondence)",
+"url": "https://clinton.presidentiallibraries.us/items/show/36386"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "2001",
+"dateStart": "1993",
+"direction": "out",
+"edgeLabel": "Greer's CSETI submissions form the majority of the Clinton White House UFO file",
+"id": "john-podesta",
+"l0": false,
+"label": "John D. Podesta",
+"note": "Clinton FOIA collection 2006-0474-F consists in the majority of documents sent to the White House by Greer - the material reached the building and was filed as correspondence.",
+"sources": [
+{
+"date": "2019-09-16",
+"name": "Clinton Digital Library, FOIA collection 2006-0474-F, 'Unidentified Flying Objects (UFO)' (Greer/CSETI correspondence)",
+"url": "https://clinton.presidentiallibraries.us/items/show/36386"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2026",
+"dateStart": "2026",
+"direction": "in",
+"edgeLabel": "Gerb publicly critiqued the 8 May 2026 Greer press-club event",
+"id": "uap-gerb",
+"l0": false,
+"label": "'UAP Gerb' (Sam)",
+"note": "Gerb's 12 May 2026 livestream discussed the 'Greer NPC' event critically. The structural investigators define themselves against Greer's model, and the split is itself a feature of the field.",
+"sources": [
+{
+"date": "2026-05-12",
+"name": "UAP Gerb Live - 12 May 2026",
+"url": "https://www.youtube.com/watch?v=iAWD4irLMZM"
+}
+],
+"tier": "A",
+"type": "behavioral"
+}
+],
+"date": "2001-05-09",
+"dateEnd": null,
+"dateStart": "2001-05-09",
+"deg": 4,
+"denials": [],
+"domains": [
+"history-1970s-2000s",
+"media-structure"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "2",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "steven-greer",
+"instId": "disclosure-project",
+"l0": false,
+"label": "Steven M. Greer",
+"loc": "Washington, DC",
+"locId": "l-dc",
+"members": null,
+"narrative": "Greer built the first mass witness-aggregation project and demonstrated both its power and its limits. A practising emergency physician, he founded the Center for the Study of Extraterrestrial Intelligence in 1990 and the Disclosure Project in 1993 with the explicit aim of assembling former military and government personnel willing to testify to Congress. On 9 May 2001 he convened roughly twenty of them at the National Press Club in Washington - radar operators, missile launch officers, air traffic controllers, FAA personnel - and announced that more than four hundred had given testimony, demanding congressional hearings with subpoena power and amnesty for witnesses. The event drew heavy international coverage and produced no hearing. Its consequence for the record is twofold. First, it created a large videotaped corpus of named former personnel making specific, dated, on-the-record claims, some of which - notably the missile-facility shutdown accounts - align with the FOIA-released overflight documents from 1975. Second, Greer's subsequent trajectory into claims that outran his evidence gave the institutions he was pressuring a durable reason to treat the whole category as unserious. The Clinton White House's own UFO FOIA collection (2006-0474-F) consists in the majority of documents Greer sent it, which is a precise measure of how the material was received: filed as correspondence.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Steven M. Greer",
+"sources": [
+{
+"date": "2019-09-16",
+"name": "Clinton Digital Library, FOIA collection 2006-0474-F, 'Unidentified Flying Objects (UFO)' (Greer/CSETI correspondence)",
+"url": "https://clinton.presidentiallibraries.us/items/show/36386"
+},
+{
+"date": "2019-09-16",
+"name": "Clinton Digital Library, FOIA collection 2006-0476-F, 'New Mexico Roswell'",
+"url": "https://clinton.presidentiallibraries.us/items/show/36328"
+},
+{
+"date": "2026-08-12",
+"name": "Wikipedia - Steven M. Greer",
+"url": "https://en.wikipedia.org/wiki/Steven_M._Greer"
+},
+{
+"date": "2026-05-12",
+"name": "UAP Gerb Live - 'UFO File Drop 1, Manhattan Project 2.0, Greer NPC, Highlighting Gatekeepers & QnA'",
+"url": "https://www.youtube.com/watch?v=iAWD4irLMZM"
+}
+],
+"status": "active",
+"sub": "Emergency physician; founder of CSETI (1990) and the Disclosure Project (1993); National Press Club event 9 May 2001",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 721 of 1027, score 21). 4 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.",
+"timeline": [
+{
+"date": "2001-05-09",
+"id": "ms-2001-npc",
+"label": "Greer's National Press Club event",
+"precision": "month",
+"strand": "witness",
+"text": "Steven Greer stages the Disclosure Project press conference with twenty retired Air Force, FAA and intelligence officers, creating the format every subsequent disclosure event has followed.",
+"tier": "C"
+}
+],
+"unexplainedResidual": null,
+"unverified": [
+"The full four-hundred-plus witness archive has never been independently catalogued or corroborated."
+]
+}

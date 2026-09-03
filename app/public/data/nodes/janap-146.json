@@ -1,0 +1,226 @@
+{
+"A": 3,
+"C": 1,
+"D": 1,
+"band": null,
+"claims": [
+{
+"source": "JANAP 146(C), Article 201(1)(c)",
+"text": "JANAP 146(C), dated 10 March 1954, requires airborne personnel to report 'Unidentified flying objects' under CIRVIS while in flight, except over foreign territory.",
+"tier": 1
+},
+{
+"source": "JANAP 146(C), Article 308(a)",
+"text": "Article 308(a) states 'The unauthorized transmission or revelation of the contents of MERINT reports in any manner is prohibited' and references 18 U.S. Code sections 793 and 794.",
+"tier": 1
+},
+{
+"source": "Bolender memorandum, 20 Oct 1969",
+"text": "The Bolender memorandum of 20 October 1969 states that UFO reports which could affect national security are made under JANAP 146 or AFM 55-11 and are not part of the Blue Book system.",
+"tier": 1
+},
+{
+"source": "Inference from JANAP 146(C) read against the USAF Blue Book fact sheet and the Bolender memo",
+"text": "Mandatory reporting under criminal penalty, running in parallel with a public program declaring the subject unimportant, is the operational definition of a two-track concealment structure.",
+"tier": 3
+},
+{
+"source": "JANAP 146(E) with Change No. 2, 17 May 1977, with the OSD FOIA release letter of 28 February 1994, ref 93-FOI-2428/L",
+"text": "JANAP 146(E), 'Canadian - United States Communications Instructions for Reporting Vital Intelligence Sightings (CIRVIS/MERINT)', complete with Change No. 2 promulgated 17 May 1977, still lists unidentified flying objects as a reportable category at Article 201 -- eight years after Project Blue Book closed. It was released on 28 February 1994 by the Assistant to the Secretary of Defense under FOIA reference 93-FOI-2428/L.",
+"tier": 1
+},
+{
+"source": "JANAP 146(E), Article 208",
+"text": "JANAP 146(E) Article 208 states: 'Any person who makes an unauthorized transmission or disclosure of such a report may be liable to prosecution under Title 18 of the US Code 793, Chapter 37, or the Canadian Official Secrets Act of 1939, as amended. This should not be construed as requiring classification of CIRVIS messages. The purpose is to emphasize the necessity for the handling of such information within official channels only.'",
+"tier": 1
+},
+{
+"source": "18 U.S.C. 793, source credit and amendment notes, Office of the Law Revision Counsel; read against JANAP 146(C) and (E)",
+"text": "JANAP states no dollar figure and no term of imprisonment in any revision read. It incorporates 18 U.S.C. 793, whose penalty from the Act of June 25, 1948 until 1994 was a fine of not more than $10,000 or imprisonment of not more than ten years, or both: the amendment note records that 'Pub. L. 103-322 substituted fined under this title for fined not more than $10,000'. The $10,000 figure must be attributed to 18 U.S.C. 793, never to JANAP 146.",
+"tier": 1
+},
+{
+"source": "JANAP 146(C), 10 March 1954, letter of promulgation",
+"text": "JANAP 146(C), 10 March 1954, was issued by the Joint Chiefs of Staff, Joint Communications-Electronics Committee, is 'an unclassified publication', and its letter of promulgation states that it 'supersedes JANAP 146 (B) ... and all other conflicting instructions. JANAP 146(B) shall be destroyed by burning.'",
+"tier": 1
+}
+],
+"cls": "document",
+"cluster": "legacy",
+"connections": [
+{
+"claimTier": 2,
+"cls": "document",
+"dateEnd": "1969",
+"dateStart": "1969",
+"direction": "out",
+"edgeLabel": "Bolender names JANAP 146 as the channel Blue Book was not",
+"id": "bolender-memo",
+"l0": false,
+"label": "Bolender Memorandum",
+"note": "The memorandum states national-security UFO reports are made under JANAP 146 or AFM 55-11 and are not part of the Blue Book system — an official concession that the public program was never the collection channel.",
+"sources": [
+{
+"date": "1969-10-20",
+"name": "Bolender memorandum, 20 October 1969 (scan)",
+"url": "https://www.nicap.org/docs/1969_10_20_Bolender_Memo.pdf"
+},
+{
+"date": "1954-03-10",
+"name": "JANAP 146(C), 10 March 1954",
+"url": "http://www.cufon.org/cufon/janp146c.htm"
+}
+],
+"tier": "B",
+"type": "programmatic"
+},
+{
+"claimTier": 3,
+"cls": "program",
+"dateEnd": "1969",
+"dateStart": "1954",
+"direction": "in",
+"edgeLabel": "The public statistics are the residue of a filter, not the corpus",
+"id": "project-blue-book",
+"l0": true,
+"label": "Project Blue Book",
+"note": "If national-security reports went up the JANAP channel as Bolender states, then the 12,618 sightings and 701 unknowns describe only what the filtered public program retained.",
+"sources": [
+{
+"date": "1969-10-20",
+"name": "Bolender memorandum, 20 October 1969",
+"url": "https://www.nicap.org/docs/1969_10_20_Bolender_Memo.pdf"
+},
+{
+"date": "2026-08-12",
+"name": "USAF Fact Sheet: Project Blue Book",
+"url": "https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/"
+}
+],
+"tier": "A",
+"type": "denial"
+},
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": "1969",
+"dateStart": "1954",
+"direction": "out",
+"edgeLabel": "JANAP created a parallel reporting channel outside Blue Book",
+"id": "project-blue-book",
+"l0": true,
+"label": "Project Blue Book",
+"note": "JANAP 146(C) made UFO sightings a mandatory CIRVIS report under espionage-statute penalties while Blue Book handled the public-facing residue. Bolender confirmed the split in 1969.",
+"sources": [
+{
+"date": "1954-03-10",
+"name": "JANAP 146(C), 10 March 1954",
+"url": "http://www.cufon.org/cufon/janp146c.htm"
+},
+{
+"date": "1969-10-20",
+"name": "Bolender memorandum, 20 October 1969",
+"url": "https://www.nicap.org/docs/1969_10_20_Bolender_Memo.pdf"
+}
+],
+"tier": "A",
+"type": "institutional"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "1954",
+"deg": 2,
+"denials": [
+{
+"by": {
+"id": "project-blue-book",
+"label": "Project Blue Book"
+},
+"claimTier": 3,
+"denialKind": "association",
+"label": "The public statistics are the residue of a filter, not the corpus",
+"note": "If national-security reports went up the JANAP channel as Bolender states, then the 12,618 sightings and 701 unknowns describe only what the filtered public program retained.",
+"of": {
+"id": "janap-146",
+"label": "JANAP 146 (CIRVIS/MERINT reporting)"
+},
+"sources": [
+{
+"date": "1969-10-20",
+"name": "Bolender memorandum, 20 October 1969",
+"url": "https://www.nicap.org/docs/1969_10_20_Bolender_Memo.pdf"
+},
+{
+"date": "2026-08-12",
+"name": "USAF Fact Sheet: Project Blue Book",
+"url": "https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/"
+}
+]
+}
+],
+"desc": "JANAP 146 is the legal architecture of the cover-up, and it is entirely uncontested because it is a published joint publication. The Joint Army-Navy-Air Force Publication governing Communication Instructions for Reporting Vital Intelligence Sightings — CIRVIS for military and civil aircraft, MERINT for shipborne observers — lists 'Unidentified flying objects' among the categories that airborne personnel are required to report immediately while in flight. It thereby made UFO sightings a mandatory military intelligence report at the same moment the Air Force was publicly telling the country there was nothing to report. Article 308 prohibits unauthorised transmission or revelation of the contents of such reports 'in any manner' and points to the espionage statutes at 18 U.S. Code sections 793 and 794 — meaning a pilot who described his own sighting publicly was exposed to felony liability. The 146(C) edition is dated 10 March 1954. Fifteen years later the Bolender memorandum confirmed the operational consequence: national-security UFO reports went up the JANAP channel and were 'not part of the Blue Book system.' Two channels existed, one public and one criminalised, and only the public one was ever closed.",
+"domains": [
+"history-1940s-1960s",
+"legacy-1947-86"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "janap-146",
+"l0": false,
+"label": "JANAP 146 (CIRVIS/MERINT reporting)",
+"locLabel": null,
+"members": null,
+"short": "JANAP 146 (CIRVIS/MERINT reporting)",
+"sources": [
+{
+"date": "1954-03-10",
+"name": "JANAP 146(C), 10 March 1954 (declassified text)",
+"url": "http://www.cufon.org/cufon/janp146c.htm"
+},
+{
+"date": "1969-10-20",
+"name": "Bolender memorandum, 20 October 1969 (scan)",
+"url": "https://www.nicap.org/docs/1969_10_20_Bolender_Memo.pdf"
+},
+{
+"date": "1977-05-17",
+"name": "JANAP 146(E) with Change No. 2 (17 May 1977) and the 28 February 1994 OSD FOIA release letter",
+"url": "https://www.cufon.org/cufon/janp1462.htm"
+},
+{
+"date": "2026-08-30",
+"name": "18 U.S.C. 793, Office of the Law Revision Counsel",
+"url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section793&num=0&edition=prelim"
+}
+],
+"sub": "Joint Army-Navy-Air Force Publication; JANAP 146(C) 10 March 1954",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 168 of 1027, score 47). 3 connections, 1 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D1.",
+"timeline": [
+{
+"date": "1954-03-10",
+"id": "tl-1954-03-10",
+"label": "JANAP 146(C) issued",
+"precision": "day",
+"strand": "coverup",
+"text": "Unidentified flying objects become a mandatory CIRVIS report for airborne personnel, with unauthorised disclosure of report contents prohibited under 18 U.S.C. 793 and 794.",
+"tier": "A"
+},
+{
+"date": "1977-05-17",
+"id": "tl-1977-janap-146e",
+"label": "JANAP 146 still lists UFOs, eight years after Blue Book closed",
+"precision": "day",
+"strand": "coverup",
+"text": "Change No. 2 to JANAP 146(E) is promulgated. Unidentified flying objects remain a reportable CIRVIS category at Article 201, and Article 208 continues to incorporate 18 U.S.C. 793 and the Canadian Official Secrets Act. Project Blue Book closed in December 1969. The document was released under FOIA on 28 February 1994.",
+"tier": "A"
+}
+]
+}

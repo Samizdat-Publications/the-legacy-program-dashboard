@@ -1,0 +1,87 @@
+{
+"A": 0,
+"C": 0,
+"D": 3,
+"band": null,
+"claims": [
+{
+"source": "Dolan, 'UFOs and the National Security State', vols. I and II",
+"text": "Volume I covers 1941-1973 and volume II covers 1973-1991, situating the UFO record within the documented development of the US national security apparatus.",
+"tier": 2
+},
+{
+"source": "Methodological inference from the two volumes",
+"text": "Dolan's institutional method is the correct one for this domain and this board adopts it: because special access programme architecture, appropriations structure and classification practice are documented, the question of concealment can be argued at tier 1 even where individual retrieval claims cannot rise above tier 2. Reasoning: the burden shifts from proving an event to accounting for a documented structure and its unaudited compartments.",
+"tier": 3
+}
+],
+"cls": "document",
+"cluster": "research",
+"connections": [
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2009",
+"dateStart": "2002",
+"direction": "in",
+"edgeLabel": "Authored the two-volume documentary chronology",
+"id": "richard-dolan",
+"l0": false,
+"label": "Richard M. Dolan",
+"note": "Dolan wrote 'Chronology of a Cover-Up, 1941-1973' (2002) and 'The Cover-Up Exposed, 1973-1991' (2009).",
+"sources": [
+{
+"date": "2009-10-31",
+"name": "Universal Talk 2009 interview with Richard M. Dolan (archived)",
+"url": "https://archive.org/details/UniversalTalk2009WithGuestRichardM.Dolan"
+}
+],
+"tier": "C",
+"type": "research"
+}
+],
+"coords": null,
+"dateEnd": "2009",
+"dateStart": "2002",
+"deg": 1,
+"denials": [],
+"desc": "Richard Dolan's two volumes - 'Chronology of a Cover-Up, 1941-1973' (2002) and 'The Cover-Up Exposed, 1973-1991' (2009) - are the closest thing this domain has to a standard scholarly history, and they changed the field's centre of gravity. The crash-retrieval literature that preceded them argued from witnesses: someone saw a craft, someone handled a body, and the concealment was inferred backwards from the testimony. Dolan argued forwards from the institutions: the National Security Act of 1947, the creation of the CIA and NSA, the special access programme architecture, the contractor black-programme economy, the classification and compartmentation regime, and the documented behaviour of those bodies on adjacent secrets. On that basis the concealment stops needing an exotic explanation and becomes a predictable output of a system built to produce exactly that result. Dolan also gave the field its most durable formulation, the 'breakaway civilisation' - a technologically and financially self-sustaining compartment operating outside public accountability. The volumes are extensively footnoted to declassified documents, agency histories, contemporaneous press and congressional material, which is why they survived the transition to the post-2017 congressional era while most of the 1990s literature did not: the substrate is documents, and documents keep.",
+"domains": [
+"w2-retrieval-literature"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "2",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "ufos-national-security-state",
+"l0": false,
+"label": "UFOs and the National Security State, vols. I-II (Dolan, 2002 and 2009)",
+"locLabel": null,
+"members": null,
+"short": "UFOs and the National Security State, vols. I-II (Dolan, 2002 and 2009)",
+"sources": [
+{
+"date": "2009-10-31",
+"name": "Universal Talk 2009 interview with Richard M. Dolan (archived)",
+"url": "https://archive.org/details/UniversalTalk2009WithGuestRichardM.Dolan"
+}
+],
+"sub": "Richard M. Dolan; documentary chronology 1941-1973 and 1973-1991",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 996 of 1027, score 10). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.",
+"timeline": [
+{
+"date": "2002",
+"id": "tl-2002-dolan",
+"label": "UFOs and the National Security State vol. I",
+"precision": "year",
+"strand": "program",
+"text": "Richard Dolan publishes 'Chronology of a Cover-Up, 1941-1973', moving the field's argument from witness testimony to the documented architecture of American secrecy.",
+"tier": "A"
+}
+]
+}

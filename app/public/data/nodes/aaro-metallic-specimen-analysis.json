@@ -1,0 +1,176 @@
+{
+"A": 2,
+"C": 2,
+"D": 2,
+"band": null,
+"claims": [
+{
+"source": "AARO/ORNL Synopsis: Analysis of a Metallic Specimen, released July 2024",
+"text": "'ORNL assessed this specimen to be terrestrial in origin and that it does not meet the theoretical requirements to function as a terahertz (THz) waveguide.'",
+"tier": 1
+},
+{
+"source": "AARO summary and Historical Record Report Volume I",
+"text": "AARO contracted ORNL in 2022 to conduct materials testing on the specimen after acquiring it, with stakeholder permission, from a private UAP organisation and the US Army.",
+"tier": 1
+},
+{
+"source": "AARO/ORNL Synopsis, July 2024",
+"text": "The reports acknowledge the specimen's 'undocumented chain of custody and conflicting personal accounts' leave its exact historical origin and purpose unclear.",
+"tier": 1
+}
+],
+"cls": "document",
+"cluster": "ic",
+"connections": [
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "2024",
+"dateStart": "2022",
+"direction": "in",
+"edgeLabel": "Oak Ridge, operated by UT-Battelle, analysed the alleged 1947 crash specimen for AARO",
+"id": "battelle",
+"l0": true,
+"label": "Battelle Memorial Institute",
+"note": "AARO contracted ORNL in 2022; the laboratory assessed the specimen terrestrial in origin and incapable of functioning as a terahertz waveguide. Battelle thus appears at both ends of the file, in 1951 and in 2024.",
+"sources": [
+{
+"date": "2024-07-11",
+"name": "The Black Vault, 'AARO Releases Findings on Suspected Extraterrestrial Alloy' (ORNL analysis of the magnesium specimen)",
+"url": "https://www.theblackvault.com/documentarchive/aaro-releases-findings-on-suspected-extraterrestrial-alloy/"
+},
+{
+"date": "2024-03-08",
+"name": "AARO, 'Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP), Volume I'",
+"url": "https://documents2.theblackvault.com/documents/dod/AARO_Historical_Record_Report_Volume_1_2024.pdf"
+}
+],
+"tier": "A",
+"type": "custody"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "2024",
+"dateStart": "2024",
+"direction": "out",
+"edgeLabel": "ORNL assessed the privately held 'crash' specimen as terrestrial",
+"id": "ttsa",
+"l0": true,
+"label": "To The Stars Academy of Arts & Science Inc. (later To The Stars Inc.)",
+"note": "The finding does not resolve the custody question it arose from: AARO notes the specimen's 'undocumented chain of custody and conflicting personal accounts' leave its historical origin unclear.",
+"sources": [
+{
+"date": "2024-07-11",
+"name": "The Black Vault, 'AARO Releases Findings on Suspected Extraterrestrial Alloy' (ORNL analysis of the magnesium specimen)",
+"url": "https://www.theblackvault.com/documentarchive/aaro-releases-findings-on-suspected-extraterrestrial-alloy/"
+}
+],
+"tier": "A",
+"type": "denial"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "2024",
+"dateStart": "2019",
+"direction": "in",
+"edgeLabel": "The privately held specimen passed from the company through the Army to AARO and then to ORNL",
+"id": "ttsa-army-crada",
+"l0": true,
+"label": "CRADA between U.S. Army Ground Vehicle Systems Center and To The Stars Academy",
+"note": "AARO confirms the organisation 'negotiated an agreement in 2019 with the U.S. Army to analyze the samples' and that AARO subsequently acquired the sample with stakeholder permission. This is the only fully documented custody chain in the entire domain.",
+"sources": [
+{
+"date": "2024-03-08",
+"name": "AARO, 'Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP), Volume I'",
+"url": "https://documents2.theblackvault.com/documents/dod/AARO_Historical_Record_Report_Volume_1_2024.pdf"
+},
+{
+"date": "2024-07-11",
+"name": "The Black Vault, 'AARO Releases Findings on Suspected Extraterrestrial Alloy' (ORNL analysis of the magnesium specimen)",
+"url": "https://www.theblackvault.com/documentarchive/aaro-releases-findings-on-suspected-extraterrestrial-alloy/"
+},
+{
+"date": "2020-08-03",
+"name": "SEC EDGAR: To The Stars Academy of Arts and Science Form 1-A Exhibit 6.28 - CRADA 19-15 'Novel & Emerging Technology Exploitation' with U.S. Army CCDC Ground Vehicle Systems Center",
+"url": "https://www.sec.gov/Archives/edgar/data/1710274/000110465920089220/tm2023098d2_ex6-28.htm"
+}
+],
+"tier": "A",
+"type": "custody"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "2024",
+"deg": 3,
+"denials": [
+{
+"by": {
+"id": "aaro-metallic-specimen-analysis",
+"label": "AARO / ORNL Synopsis: Analysis of a Metallic Specimen"
+},
+"claimTier": 1,
+"denialKind": "directed",
+"label": "ORNL assessed the privately held 'crash' specimen as terrestrial",
+"note": "The finding does not resolve the custody question it arose from: AARO notes the specimen's 'undocumented chain of custody and conflicting personal accounts' leave its historical origin unclear.",
+"of": {
+"id": "ttsa",
+"label": "To The Stars Academy of Arts & Science Inc. (later To The Stars Inc.)"
+},
+"sources": [
+{
+"date": "2024-07-11",
+"name": "The Black Vault, 'AARO Releases Findings on Suspected Extraterrestrial Alloy' (ORNL analysis of the magnesium specimen)",
+"url": "https://www.theblackvault.com/documentarchive/aaro-releases-findings-on-suspected-extraterrestrial-alloy/"
+}
+]
+}
+],
+"desc": "In 2022 AARO contracted Oak Ridge National Laboratory to analyse a magnesium alloy specimen publicly alleged to be a component recovered from a crashed extraterrestrial vehicle in 1947 and to function as a terahertz waveguide producing antigravity effects. ORNL ran isotopic ratio measurement, elemental composition analysis and structural characterisation, and concluded the specimen is terrestrial in origin - magnesium and lead isotopic composition within terrestrial ranges - and that its bismuth layers are intermixed with lead in a way that precludes waveguide function. AARO's summary notes the specimen's characteristics are consistent with mid-twentieth-century magnesium alloy research using zinc, lead and bismuth additives and with vapour deposition manufacturing of that era. The document matters to this domain for two reasons beyond its finding. It is the only case in which material held in private hands and claimed to be non-terrestrial has actually been surrendered, analysed by a national laboratory, and reported publicly - the working precedent for what the stripped eminent domain provision would have compelled. And it states plainly that the specimen's 'undocumented chain of custody and conflicting personal accounts' leave its actual historical origin unresolved, which is the recurring condition of every artifact in this file.",
+"domains": [
+"primes-custody"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "aaro-metallic-specimen-analysis",
+"l0": false,
+"label": "AARO / ORNL Synopsis: Analysis of a Metallic Specimen",
+"locLabel": null,
+"members": null,
+"short": "AARO / ORNL Synopsis: Analysis of a Metallic Specimen",
+"sources": [
+{
+"date": "2024-07-11",
+"name": "The Black Vault, 'AARO Releases Findings on Suspected Extraterrestrial Alloy' (ORNL analysis of the magnesium specimen)",
+"url": "https://www.theblackvault.com/documentarchive/aaro-releases-findings-on-suspected-extraterrestrial-alloy/"
+},
+{
+"date": "2024-03-08",
+"name": "AARO, 'Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP), Volume I'",
+"url": "https://documents2.theblackvault.com/documents/dod/AARO_Historical_Record_Report_Volume_1_2024.pdf"
+}
+],
+"sub": "Released July 2024; ORNL analysis of the alleged 1947 crash sample held privately",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 250 of 1027, score 40). 3 connections, 2 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C2/A2/D2.",
+"timeline": [
+{
+"date": "2024-07-11",
+"id": "pc-2024-07-ornl",
+"label": "ORNL reports the alleged crash specimen is terrestrial",
+"precision": "day",
+"strand": "program",
+"text": "AARO releases the Oak Ridge analysis of the magnesium alloy sample acquired from a private UAP organisation and the US Army: terrestrial isotopic composition, no waveguide capability, and an undocumented chain of custody.",
+"tier": "A"
+}
+]
+}

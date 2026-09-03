@@ -1,0 +1,87 @@
+{
+"A": 0,
+"C": 0,
+"D": 2,
+"band": null,
+"claims": [
+{
+"source": "https://solari.com/people/catherine-austin-fitts",
+"text": "Solari, Inc. is founded by Catherine Austin Fitts and publishes the Solari Report.",
+"tier": 2
+},
+{
+"source": "https://missingmoney.solari.com/wp-content/uploads/2018/08/Unsupported_Adjustments_Report_Final_4.pdf",
+"text": "The Missing Money archive hosts the Skidmore-Fitts summary report and preserves links to underlying OIG documents, noting that many original government URLs were disabled.",
+"tier": 2
+}
+],
+"cls": "institution",
+"cluster": "media",
+"connections": [
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "2000",
+"direction": "in",
+"edgeLabel": "Founder and president",
+"id": "catherine-austin-fitts",
+"l0": false,
+"label": "Catherine Austin Fitts",
+"note": "Fitts is founder and president of Solari, Inc., publisher of the Solari Report and the Missing Money archive. Attested by Solari's own biography page.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Solari, Catherine Austin Fitts",
+"url": "https://solari.com/people/catherine-austin-fitts"
+}
+],
+"tier": "C",
+"type": "institutional"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "2000",
+"deg": 1,
+"denials": [],
+"desc": "Solari, Inc. is the company founded by Catherine Austin Fitts which publishes the Solari Report and maintains the Missing Money archive at missingmoney.solari.com, where the September 2017 Skidmore-Fitts summary report and its supporting documentation are hosted. Solari's own framing of the material - 'the $21 Trillion dollars missing from the U.S. government' - is precisely the formulation that the underlying report does not support and that makes the analysis unusable in a hostile setting. The archive itself, however, is valuable: it preserves links to Inspector General documents whose original government URLs have been retired, and it is the only consolidated index of the underlying reports. A researcher should use Solari as a document repository and go to the primary reports it links, not adopt its framing.",
+"domains": [
+"w2-black-budget"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "2",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "solari",
+"l0": false,
+"label": "Solari, Inc. / The Solari Report",
+"locLabel": null,
+"members": null,
+"short": "Solari, Inc. / The Solari Report",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Solari, Catherine Austin Fitts",
+"url": "https://solari.com/people/catherine-austin-fitts"
+},
+{
+"date": "2026-08-12",
+"name": "Missing Money supporting documentation",
+"url": "https://missingmoney.solari.com/dod-and-hud-missing-money-supporting-documentation/"
+},
+{
+"date": null,
+"name": "missingmoney.solari.com",
+"url": "https://missingmoney.solari.com/wp-content/uploads/2018/08/Unsupported_Adjustments_Report_Final_4.pdf"
+}
+],
+"sub": "Publisher; host of the Missing Money archive and co-publisher of the Skidmore-Fitts compilation",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 1005 of 1027, score 9). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D2.",
+"timeline": []
+}

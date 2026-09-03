@@ -1,0 +1,101 @@
+{
+"A": 0,
+"C": 2,
+"D": 1,
+"band": null,
+"claims": [
+{
+"source": "Inference from the Berlitz-Moore transmission chain and GAO/NSIAD-95-187",
+"text": "The San Agustin strand of the Roswell corpus rests entirely on second-hand and late-recalled testimony with no supporting primary document. Reasoning: the Barnett account reached print only in 1980 via intermediaries, and GAO found the contemporaneous message traffic destroyed.",
+"tier": 3
+},
+{
+"source": "Board bookkeeping",
+"text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
+"tier": 3
+}
+],
+"cls": "location",
+"cluster": "legacy",
+"connections": [
+{
+"claimTier": 3,
+"cls": "event",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "alleged second recovery site (Barnett account)",
+"id": "roswell-1947",
+"l0": true,
+"label": "Roswell Incident",
+"note": "TIER 3, CONTESTED. The Plains of San Agustin entered the Roswell corpus through Grady 'Barney' Barnett's reported account, transmitted second-hand and published in Berlitz and Moore's 'The Roswell Incident' (1980). The Air Force's own 1995 records review corroborates the route the story travelled - it records that in 1978 'a UFO researcher, Stanton Friedman, met with Marcel and began investigating', and that Moore and Berlitz 'reported they interviewed a number of persons who claimed to have been present at Roswell in 1947 and professed to be either firsthand or secondhand witnesses'. It does not corroborate the site: 'San Agustin', 'Barnett' and 'Maltais' each appear zero times in the entire report. Kevin Randle, named in that review among the researchers, concludes on the evidence: 'It is for these reasons, that is the lack of first-hand corroboration of the Barnett tale, the inability of the first people to talk of what Barnett said to provide a location and date and that the only source of the information is Barnett that I say, with confidence, that nothing happened there in July 1947.' Roswell is July 1947, so that conclusion severs the link by dating rather than by geography.",
+"sources": [
+{
+"date": "1995-01-01",
+"name": "USAF, 'The Roswell Report: Fact versus Fiction in the New Mexico Desert' (1995), searched in full",
+"url": "https://archive.org/details/DTIC_ADA326148"
+},
+{
+"date": null,
+"name": "https://kevinrandle.blogspot.com/2015/02/the-plains-of-san-agustin-crash.html",
+"url": "https://kevinrandle.blogspot.com/2015/02/the-plains-of-san-agustin-crash.html"
+},
+{
+"date": null,
+"name": "https://ufologie.patrickgross.org/rw/w/fleckdanley.htm",
+"url": "https://ufologie.patrickgross.org/rw/w/fleckdanley.htm"
+}
+],
+"tier": "A",
+"type": "geographic"
+}
+],
+"coords": [
+33.85,
+-107.75
+],
+"dateEnd": null,
+"dateStart": null,
+"deg": 1,
+"denials": [],
+"desc": "The Plains of San Agustin is a large high-desert basin west of Socorro, New Mexico, best known today as the site of the Very Large Array. On this board it is the alleged second Roswell-adjacent recovery site, entering the record through Grady 'Barney' Barnett's reported account of coming upon a disc and bodies in July 1947, and later through Gerald Anderson's claimed childhood witness testimony. Both accounts are second-hand or contested in their provenance and neither is supported by a primary document; the site is retained because the Barnett account is one of the oldest strands in the Roswell corpus and its chain of transmission is itself a research object. GAO's 1995 records search found no surviving Roswell AAF message traffic that would corroborate or refute activity here.",
+"domains": [
+"_stubs",
+"w2-taxonomy"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "nd",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "l-san-agustin",
+"l0": false,
+"label": "Plains of San Agustin, New Mexico",
+"locLabel": "Plains of San Agustin, New Mexico, USA",
+"members": null,
+"short": "Plains of San Agustin, New Mexico",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Wikipedia - Plains of San Agustin",
+"url": "https://en.wikipedia.org/wiki/Plains_of_San_Agustin"
+},
+{
+"date": "1995-07-28",
+"name": "GAO/NSIAD-95-187",
+"url": "https://www.govinfo.gov/content/pkg/GAOREPORTS-NSIAD-95-187/html/GAOREPORTS-NSIAD-95-187.htm"
+},
+{
+"date": "1980-01-01",
+"name": "Berlitz and Moore, 'The Roswell Incident' (1980), Internet Archive",
+"url": "https://archive.org/details/charles-berlitz-william-l.-moore-the-roswell-incident-1980_202012"
+}
+],
+"sub": "High desert basin in Catron and Socorro Counties, New Mexico",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 935 of 1027, score 13). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A0/D1.",
+"timeline": []
+}

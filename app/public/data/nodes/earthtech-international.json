@@ -1,0 +1,754 @@
+{
+"A": 2,
+"C": 3,
+"D": 3,
+"band": "reverse-engineering",
+"claims": [
+{
+"source": "DIA letter to SASC, 9 January 2018, items 5, 8, 11, 14, 31, 34",
+"text": "EarthTech International personnel authored six of the 38 AAWSAP DIRDs: Puthoff on spacetime metric engineering and Davis on wormholes, antigravity, quantum vacuum energy, laser lightcraft nanosatellites and quantum tomography of negative energy states.",
+"tier": 1
+},
+{
+"source": "The War Zone, 18 January 2019",
+"text": "EarthTech's DIRD output was characterised in mainstream defence reporting as relying on borderline fringe science.",
+"tier": 2
+},
+{
+"source": "Inference from the DIRD authorship distribution",
+"text": "The concentration of six deliverables on exotic propulsion physics in one small private firm indicates a directed requirement rather than a competitive distribution of scientific topics.",
+"tier": 3
+},
+{
+"source": "SEC EDGAR, TTSA Regulation A offering exhibit, 24 July 2020",
+"text": "Named in TTSA's SEC offering materials as the research partner for the ADAM Research Project.",
+"tier": 1
+},
+{
+"source": "SEC EDGAR, TTSA Form 1-K Part II, filed April 2018",
+"text": "Harold Puthoff has been President and CEO of EarthTech International since 1985.",
+"tier": 1
+},
+{
+"source": "Cover page and administrative note, DIA-08-1004-004",
+"text": "EarthTech International Inc., 11855 Research Blvd, Austin TX 78759, is named on the cover of DIA-08-1004-004 as the author's organisation for an FY2009 product of the DIA Defense Warning Office AAWSA programme.",
+"tier": 1
+},
+{
+"source": "EarthTech International, About page",
+"text": "The Institute for Advanced Studies at Austin was founded by Puthoff in 1985 and incorporated under EarthTech International Inc. in 1991.",
+"tier": 1
+},
+{
+"source": "Cover page of the Green DIRD",
+"text": "The Institute for Advanced Studies at Austin imprint appears on the cover of Christopher Green's AAWSAP medical DIRD.",
+"tier": 1
+},
+{
+"source": "Daniel Oberhaus, Vice, 15 October 2018",
+"text": "To The Stars Academy 'partnered with research labs founded by Puthoff' to study the ADAM Research Project materials.",
+"tier": 2
+},
+{
+"source": "Inference from its corporate form and the absence of any published analytical output on held samples",
+"text": "EarthTech is the structural weak point in every published custody chain in this domain: as a private corporation it is outside FOIA, it has released no analytical reports on the samples it holds, and it sits between a government programme upstream and a public company downstream.",
+"tier": 3
+}
+],
+"cls": "institution",
+"cluster": "research",
+"connections": [
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": "2021",
+"dateStart": "2018",
+"direction": "in",
+"edgeLabel": "Research partnership from August 2018",
+"id": "adam-research-project",
+"l0": true,
+"label": "ADAM Research Project (Acquisition and Data Analysis of Materials)",
+"note": "Puthoff's Austin laboratory is where the specimens were characterised. No results have been published.",
+"sources": [
+{
+"date": "2020-07-24",
+"name": "SEC EDGAR — TTSA offering exhibit",
+"url": "https://www.sec.gov/Archives/edgar/data/1710274/000110465920089220/tm2023098d2_ex13-1.htm"
+},
+{
+"date": "2018-10-15",
+"name": "Vice — $37.4 Million Deficit",
+"url": "https://www.vice.com/en/article/tom-delonges-ufo-organization-is-37-million-in-debt/"
+}
+],
+"tier": "A",
+"type": "programmatic"
+},
+{
+"claimTier": 1,
+"cls": "domain",
+"dateEnd": "2010",
+"dateStart": "2008",
+"direction": "out",
+"edgeLabel": "the subcontract path - how work reached the government without a prime relationship",
+"id": "d-contracting",
+"l0": false,
+"label": "Federal Contracting Mechanics",
+"note": "The reference documents that reached DIA were commissioned by the prime and written substantially by EarthTech and other subcontractors, then delivered as Defense Intelligence Reference Documents. The DIA transmittal list to SASC and the published list of funded studies establish the subcontract layer, which is the layer at which visibility normally stops.",
+"sources": [
+{
+"date": "2018-01-09",
+"name": "DIA letter to the Senate Armed Services Committee listing the 38 AATIP/AAWSAP reference documents",
+"url": "https://documents.theblackvault.com/documents/dia/dia-aatip-reports.pdf"
+},
+{
+"date": "2019-01-18",
+"name": "The War Zone, 'Here's The List Of Studies The Military's Secretive UFO Program Funded'",
+"url": "https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "authored at EarthTech International",
+"id": "dird-advanced-space-propulsion-based-on-vacuum",
+"l0": false,
+"label": "Advanced Space Propulsion Based on Vacuum (Spacetime Metric) Engineering",
+"note": "The DIA list gives Puthoff's affiliation of record for this deliverable as EarthTech International, the Austin institute he founded and directs.",
+"sources": [
+{
+"date": "2026-08-22",
+"name": "Released DIRD, 'Advanced Space Propulsion Based on Vacuum (Spacetime Metric) Engineeri' — FOIA copy, cover page read 22 August 2026",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_15-DIRD_Advanced_Space_Propulsion_Based_on_Vacuum_Spacetime_Metric_Engineer.pdf"
+},
+{
+"date": "2026-08-22",
+"name": "DIA FOIA Electronic Reading Room entry for this reference document",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237647/"
+},
+{
+"date": "2026-08-23",
+"name": "DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations",
+"url": "https://fas.org/publication/aatip-list/"
+},
+{
+"date": null,
+"name": "https://irp.fas.org/dia/aatip-list.pdf",
+"url": "https://irp.fas.org/dia/aatip-list.pdf"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "authored at EarthTech International",
+"id": "dird-antigravity-for-aerospace-applications",
+"l0": false,
+"label": "Antigravity for Aerospace Applications",
+"note": "EarthTech International supplied six of the 38 DIRDs through Eric Davis plus one through Hal Puthoff, making it the single most represented institution on the author list.",
+"sources": [
+{
+"date": "2026-08-22",
+"name": "Released DIRD, 'Antigravity for Aerospace Applications' — FOIA copy, cover page read 22 August 2026",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_19-DIRD_Antigravity_for_Aerospace_Applications.pdf"
+},
+{
+"date": "2026-08-22",
+"name": "DIA FOIA Electronic Reading Room entry for this reference document",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237651/"
+},
+{
+"date": null,
+"name": "https://irp.fas.org/dia/aatip-list.pdf",
+"url": "https://irp.fas.org/dia/aatip-list.pdf"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "produced at EarthTech International, Austin",
+"id": "dird-concepts-for-extracting-energy-from-the",
+"l0": false,
+"label": "Concepts for Extracting Energy From the Quantum Vacuum",
+"note": "EarthTech, run by Hal Puthoff, was the largest single source of DIRDs, producing six of the 38. Puthoff has stated that BAASS 'connected me at EarthTech International to collaborate as a subcontractor' and that he then let the 38 contracts himself. The arrangement means EarthTech occupied both sides of the transaction on this document: commissioning agent and author's employer.",
+"sources": [
+{
+"date": "2026-08-22",
+"name": "Released DIRD, 'Concepts for Extracting Energy From the Quantum Vacuum' — FOIA copy, cover page read 22 August 2026",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_24-DIRD_Concepts_for_Extracting_Energy_from_the_Quantum_Vacuum.pdf"
+},
+{
+"date": "2026-08-22",
+"name": "DIA FOIA Electronic Reading Room entry for this reference document",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237645/"
+},
+{
+"date": null,
+"name": "https://earthtech.org/pubs/davis/",
+"url": "https://earthtech.org/pubs/davis/"
+},
+{
+"date": null,
+"name": "https://silvarecord.com/2019/01/17/38th-dird-title-surfaces-with-letter-addressed-to-mccain-armed-services-committee/",
+"url": "https://silvarecord.com/2019/01/17/38th-dird-title-surfaces-with-letter-addressed-to-mccain-armed-services-committee/"
+},
+{
+"date": null,
+"name": "https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk",
+"url": "https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "author's institutional affiliation at time of writing",
+"id": "dird-laser-lightcraft-nanosatellites",
+"l0": false,
+"label": "Laser Lightcraft Nanosatellites",
+"note": "EarthTech International of Austin, Texas is the affiliation recorded against this title on the DIA congressional list. EarthTech is the single largest institutional source on the list; Puthoff and Davis between them are primary authors on six of the 38 products.",
+"sources": [
+{
+"date": "2026-08-22",
+"name": "Released DIRD, 'Laser Lightcraft Nanosatellites' — FOIA copy, cover page read 22 August 2026",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_27-DIRD_Laser_Lightcraft_Nanosatellites.pdf"
+},
+{
+"date": "2026-08-22",
+"name": "DIA FOIA Electronic Reading Room entry for this reference document",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237641/"
+},
+{
+"date": "2026-08-23",
+"name": "DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations",
+"url": "https://fas.org/publication/aatip-list/"
+},
+{
+"date": null,
+"name": "https://irp.fas.org/dia/aatip-list.pdf",
+"url": "https://irp.fas.org/dia/aatip-list.pdf"
+},
+{
+"date": null,
+"name": "https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk",
+"url": "https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "author's institutional affiliation at time of writing",
+"id": "dird-quantum-tomography-of-negative-energy-states",
+"l0": false,
+"label": "Quantum Tomography of Negative Energy States in the Vacuum",
+"note": "EarthTech International, Austin, Texas — the affiliation recorded against this title on the DIA congressional list.",
+"sources": [
+{
+"date": "2026-08-22",
+"name": "Released DIRD, 'Quantum Tomography of Negative Energy States in the Vacuum' — FOIA copy, cover page read 22 August 2026",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_36-DIRD_Quantum_Tomography_of_Negative_Energy_States_in_the_Vacuum.pdf"
+},
+{
+"date": "2026-08-22",
+"name": "DIA FOIA Electronic Reading Room entry for this reference document",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237632/"
+},
+{
+"date": "2026-08-23",
+"name": "DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations",
+"url": "https://fas.org/publication/aatip-list/"
+},
+{
+"date": null,
+"name": "https://irp.fas.org/dia/aatip-list.pdf",
+"url": "https://irp.fas.org/dia/aatip-list.pdf"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "2010",
+"dateStart": "2008",
+"direction": "out",
+"edgeLabel": "largest single DIRD producer — six of 38",
+"id": "dird-series",
+"l0": true,
+"label": "The 38 Defense Intelligence Reference Documents (DIRDs)",
+"note": "A small Austin firm produced more of the deliverable set than any university or defence prime, indicating a directed rather than competed distribution.",
+"sources": [
+{
+"date": "2019-01-18",
+"name": "The War Zone",
+"url": "https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk"
+}
+],
+"tier": "A",
+"type": "funding"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "2010",
+"dateStart": "2009",
+"direction": "in",
+"edgeLabel": "Contractor of record: EarthTech International Inc., 11855 Research Blvd, Austin TX",
+"id": "dird-traversable-wormholes",
+"l0": false,
+"label": "DIA-08-1004-004: 'Traversable Wormholes, Stargates, and Negative Energy'",
+"note": "The author block on the released DIRD gives EarthTech's full street address, which makes the corporate performer identifiable and locatable rather than a generic 'contractor'.",
+"sources": [
+{
+"date": "2010-04-06",
+"name": "DIRD DIA-08-1004-004, 'Traversable Wormholes, Stargates, and Negative Energy' (Eric W. Davis, EarthTech International)",
+"url": "https://documents.theblackvault.com/documents/traversablewormholes-drdavis.pdf"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "author's affiliation of record; DIRD carried on EarthTech's own publications list",
+"id": "dird-traversable-wormholes-stargates-and-negative-energy",
+"l0": false,
+"label": "Traversable Wormholes, Stargates, and Negative Energy",
+"note": "EarthTech International lists six DIRDs by Eric Davis on its publications page, with DIA document numbers and the issuing division named as the Acquisition Support Division (DWO-3) or Technology Warning Division (DWO-4) of the Defense Warning Office. A contractor publishing its DIA reference-document numbers on an open website is itself part of how the DIRD series became documentable.",
+"sources": [
+{
+"date": "2026-08-22",
+"name": "Released DIRD, 'Traversable Wormholes, Stargates, and Negative Energy' — FOIA copy, cover page read 22 August 2026",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_18-DIRD_Traversible_Wormholes_Stargates_and_Negative_Energy.pdf"
+},
+{
+"date": "2026-08-22",
+"name": "DIA FOIA Electronic Reading Room entry for this reference document",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237636/"
+},
+{
+"date": null,
+"name": "http://earthtech.org/pubs/davis/",
+"url": "http://earthtech.org/pubs/davis/"
+},
+{
+"date": null,
+"name": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html",
+"url": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "1996",
+"direction": "in",
+"edgeLabel": "staff scientist",
+"id": "eric-davis",
+"l0": false,
+"label": "Eric W. Davis",
+"note": "Davis wrote all five of his DIRDs under the EarthTech banner.",
+"sources": [
+{
+"date": "2018-01-09",
+"name": "DIA letter to SASC",
+"url": "https://documents.theblackvault.com/documents/dia/dia-aatip-reports.pdf"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "1985",
+"direction": "in",
+"edgeLabel": "founder and president",
+"id": "harold-puthoff",
+"l0": false,
+"label": "Harold E. Puthoff",
+"note": "EarthTech is the vehicle through which Puthoff's four-decade federally funded research line continued into AAWSAP.",
+"sources": [
+{
+"date": "2018-01-09",
+"name": "DIA letter to SASC",
+"url": "https://documents.theblackvault.com/documents/dia/dia-aatip-reports.pdf"
+},
+{
+"date": "2018-04-30",
+"name": "SEC EDGAR — TTSA Form 1-K",
+"url": "https://www.sec.gov/Archives/edgar/data/1710274/000114420418023727/tv492460_partii.htm"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "1991",
+"direction": "in",
+"edgeLabel": "IASA (1985) incorporated under EarthTech International (1991)",
+"id": "institute-advanced-studies-austin",
+"l0": false,
+"label": "Institute for Advanced Studies at Austin",
+"note": "EarthTech's own About page states the corporate relationship; the two names are used interchangeably across the DIRD covers and the TTSA reporting.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "EarthTech International / Institute for Advanced Studies at Austin",
+"url": "https://www.earthtech.org/about/"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "location",
+"dateEnd": null,
+"dateStart": "1991",
+"direction": "in",
+"edgeLabel": "11855 Research Blvd - the address printed on a DIA reference document",
+"id": "l-austin",
+"l0": false,
+"label": "Austin, Texas - 11855 Research Blvd",
+"note": "The single street address connecting the DIA Defense Warning Office to the AAWSAP propulsion and medical documents and thence to the To The Stars metamaterials work.",
+"sources": [
+{
+"date": "2010-04-06",
+"name": "DIRD DIA-08-1004-004, 'Traversable Wormholes, Stargates, and Negative Energy' (Eric W. Davis, EarthTech International)",
+"url": "https://documents.theblackvault.com/documents/traversablewormholes-drdavis.pdf"
+},
+{
+"date": "2026-08-12",
+"name": "EarthTech International / Institute for Advanced Studies at Austin",
+"url": "https://www.earthtech.org/about/"
+}
+],
+"tier": "C",
+"type": "institutional"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "1985",
+"deg": 14,
+"denials": [],
+"desc": "EarthTech International Inc. is the private research corporation Harold Puthoff founded in Austin, Texas, in 1991 as the corporate vehicle for the Institute for Advanced Studies at Austin, which he had established in 1985. Its stated research programme covers theories of spacetime, gravity and cosmology, quantum-vacuum studies, modifications of standard electrodynamics, interstellar flight science and SETI, plus a 'Maverick Inventors Program'. That reads as a fringe-physics boutique until you read the cover of a Defense Intelligence Reference Document: DIA-08-1004-004, 'Traversable Wormholes, Stargates, and Negative Energy', dated 6 April 2010, names its author as Eric W. Davis, Ph.D. of EarthTech International Inc., 11855 Research Blvd, Austin TX 78759, and states that the product was produced in FY2009 under the Defense Intelligence Agency Defense Warning Office's Advanced Aerospace Weapon System Applications programme. EarthTech is therefore not an outside commentator on the programme - it is a named performer inside it, at a street address, with a document control number. Puthoff's own vacuum-engineering study appears on the same 38-title list the DIA released to the Federation of American Scientists on 16 January 2019. The Institute for Advanced Studies at Austin imprint also appears on the cover of Christopher Green's medical DIRD, whose preface quotes a November 2007 proposal addressed 'to Puthoff/Hathaway'. From 2017 EarthTech's laboratories became the analytical destination for To The Stars Academy's ADAM Research Project metamaterial samples. It is the smallest and least regulated node in the whole custody chain, and it is where the chain most often goes dark: it is a private company, not subject to FOIA, and it has published no analytical results on the samples it holds.",
+"domains": [
+"aawsap-aatip",
+"elizondo-ttsa",
+"scientists-technical"
+],
+"dossier": {
+"claims": [
+{
+"source": "https://earthtech.org/about/",
+"text": "The Institute for Advanced Studies at Austin was founded in 1985 by Harold E. Puthoff, PhD, and was later incorporated under EarthTech International, Inc., in 1991; both are based in Austin, Texas.",
+"tier": 2
+},
+{
+"source": "https://earthtech.org/team/",
+"text": "Harold E. Puthoff is president, CEO and chairman of the board of EarthTech International, Inc., and director of the Institute for Advanced Studies at Austin; he received his PhD from Stanford University in 1967 as a theoretical and experimental physicist specializing in lasers.",
+"tier": 2
+},
+{
+"source": "https://earthtech.org/team/ ; https://earthtech.org/pubs/davis/",
+"text": "Eric W. Davis, PhD, is chief science officer of EarthTech International, Inc. and the Institute for Advanced Studies at Austin, with declared specializations including breakthrough propulsion physics for interstellar flight, beamed energy propulsion, directed energy weapons, quantum gravity theories and SETI-xenoarchaeology.",
+"tier": 2
+},
+{
+"source": "https://earthtech.org/about/",
+"text": "EarthTech's declared research interests include theories of spacetime, gravity and cosmology; studies of the quantum vacuum; modifications of standard theories of electrodynamics; interstellar flight science; and SETI, specifically as applied to developing innovative space propulsion and sources of energy.",
+"tier": 2
+},
+{
+"source": "Vice, \"Newly-Released Documents Shed Light on Government-Funded Research Into Worm Holes, Anti-Gravity and Invisibility Cloaks,\" https://www.vice.com/en/article/newly-released-documents-shed-light-on-government-funded-research-into-worm-holes-anti-gravity-and-invisibility-cloaks/",
+"text": "EarthTech International was subcontracted by Bigelow Aerospace Advanced Space Studies to produce the written product of the DIA's Advanced Aerospace Weapon System Applications Program; Puthoff and his EarthTech colleague Eric W. Davis commissioned a series of 38 expert studies that DIA issued as Defense Intelligence Reference Documents.",
+"tier": 2
+},
+{
+"source": "Vice, https://www.vice.com/en/article/newly-released-documents-shed-light-on-government-funded-research-into-worm-holes-anti-gravity-and-invisibility-cloaks/",
+"text": "The Defense Intelligence Reference Documents produced under AAWSAP include studies of traversable wormholes, antigravity, and invisibility cloaking.",
+"tier": 2
+},
+{
+"source": "\"Advanced Aerospace Weapon System Applications Program (AAWSAP),\" WikiDisc, https://www.wikidisc.org/wiki/Advanced_Aerospace_Weapon_System_Applications_Program_(AAWSAP) ; see also Metabunk, \"The Origins of AAWSAP,\" https://www.metabunk.org/threads/the-origins-of-aawsap.12484/",
+"text": "AAWSAP was initiated in 2008 and awarded to Bigelow Aerospace Advanced Space Studies (BAASS) under a contract reported at up to $22 million over five years, with the stated purpose of investigating potential aerospace threats including advanced technologies potentially linked to UAP observations.",
+"tier": 3
+},
+{
+"source": "\"Advanced Aerospace Weapon System Applications Program (AAWSAP),\" WikiDisc, https://www.wikidisc.org/wiki/Advanced_Aerospace_Weapon_System_Applications_Program_(AAWSAP)",
+"text": "Harold Puthoff served as chief scientist of the AAWSAP program on the BAASS side and oversaw its scientific studies.",
+"tier": 3
+},
+{
+"source": "https://en.wikipedia.org/wiki/Harold_E._Puthoff",
+"text": "Before founding the Institute for Advanced Studies at Austin, Puthoff ran the SRI International remote-viewing research program with Russell Targ during the 1970s under U.S. intelligence-community sponsorship.",
+"tier": 3
+},
+{
+"source": "Ralph Blumenthal and Leslie Kean, \"No Longer in Shadows, Pentagon's U.F.O. Unit Will Make Some Findings Public,\" The New York Times, 23 July 2020; discussion and document trail at Metabunk, https://www.metabunk.org/threads/debunked-pentagon-has-evidence-of-off-world-vehicles-not-made-on-this-earth.11334/",
+"text": "The New York Times reported that Eric W. Davis, then a contractor with Aerospace Corporation, briefed a Department of Defense agency in October 2019 and, separately, Senate Armed Services Committee staff, on retrievals from \"off-world vehicles not made on this earth.\"",
+"tier": 3
+},
+{
+"source": "AARO Historical Record Report Volume 1 (2024), p. 9, https://en.wikisource.org/wiki/Page:AARO_Historical_Record_Report_Volume_1_2024.pdf/9",
+"text": "AARO's Historical Record Report Volume I attributes modern reverse-engineering claims largely to \"a consistent group of individuals who have been involved in various UAP-related endeavors since at least 2009,\" many of whom AARO says were \"involved in or supportive of a cancelled DIA program and the subsequent but failed attempt to reestablish this program under DHS, called KONA BLUE\" — a description that maps onto the AAWSAP/BAASS/EarthTech network without naming it.",
+"tier": 1
+},
+{
+"source": "AARO Historical Record Report Volume 1 (2024), p. 9, https://en.wikisource.org/wiki/Page:AARO_Historical_Record_Report_Volume_1_2024.pdf/9",
+"text": "AARO reports resolving a claimed anomalous material sample to magnesium \"and bismuth with some other trace elements, such as lead,\" on the basis of materials characterization.",
+"tier": 1
+},
+{
+"source": "https://disclosure.org/team/eric-davis ; Disclosure Foundation leadership per DefenseScoop, 10 December 2025, https://defensescoop.com/2025/12/10/uap-ufo-military-intercepts-north-america-fy-2026-ndaa/",
+"text": "Eric Davis is listed as a member of the team of the Disclosure Foundation, the advocacy organization chaired by former Deputy Assistant Secretary of Defense for Intelligence Christopher Mellon.",
+"tier": 2
+},
+{
+"source": "Douglas Dean Johnson, Mirador, 24 June 2023, quoting S. 2103 Sec. 1104, https://douglasjohnson.ghost.io/senate-intelligence-bill-gives-holders-of-non-earth-origin-six-months/",
+"text": "The FY2024 Intelligence Authorization Act's proposed covered-activity definition for UAP reverse-engineering reached work on \"any aerospace craft that uses propulsion technology other than chemical propellants, solar power, and electric ion thrust\" — the subject matter of the AAWSAP reference library that EarthTech curated.",
+"tier": 2
+}
+],
+"connections": [
+"Robert Bigelow / Bigelow Aerospace Advanced Space Studies (BAASS) — prime contractor on the DIA AAWSAP award; EarthTech was the subcontractor producing the study product.",
+"Defense Intelligence Agency — customer for AAWSAP and publisher of the 38 Defense Intelligence Reference Documents; the 'cancelled DIA program' in AARO's Volume I.",
+"KONA BLUE / Department of Homeland Security — AARO's named prospective special access program, described as the failed attempt to reestablish the cancelled DIA program.",
+"Vice Admiral Thomas Ray Wilson (USN, ret.), former DIA director — subject of Eric Davis's October 2002 meeting notes, the Wilson-Davis memo.",
+"Christopher Mellon and the Disclosure Foundation — Davis is on the team roster; Mellon's recommendations are mirrored in FY2026 NDAA UAP provisions.",
+"Sen. Kirsten Gillibrand's IAA amendment — the 'person currently or formerly under contract with the Federal Government' language is drafted to reach entities structurally identical to EarthTech.",
+"AARO Historical Record Report Volume I — the official rebuttal aimed at this network, and the Volume II that would have carried the underlying interview record.",
+"To The Stars Academy of Arts & Science — the 2017 vehicle where Puthoff, Luis Elizondo and Christopher Mellon overlapped publicly (relationship asserted in the popular record; see openQuestions)."
+],
+"denialPosture": "EarthTech does not publish denials; it publishes physics. Its public posture is that of an ordinary small research institute working on quantum vacuum energy and advanced propulsion, with no reference on its own site to crash retrieval, custody of material, or the programs its principals are alleged to have served. That silence is itself a posture: the entity most persistently named in reverse-engineering allegations has never issued a dated, attributable statement addressing them, which leaves the government's characterizations — AARO's unnamed 'consistent group of individuals' — as the only on-the-record account.",
+"narrative": "Harold E. Puthoff earned his PhD at Stanford in 1967 as a theoretical and experimental physicist working on lasers, and spent the 1970s running the SRI International parapsychology program with Russell Targ under intelligence-community sponsorship — the lineage that became Project STARGATE. In 1985 he founded the Institute for Advanced Studies at Austin; in 1991 it was incorporated under EarthTech International, Inc. Both remain co-located in Austin. Eric W. Davis, whose declared specializations include breakthrough propulsion physics, beamed energy propulsion, directed energy weapons, general relativity, quantum field theory, quantum gravity and what he calls SETI-xenoarchaeology, is chief science officer of both entities.\n\nThe institutional significance is not the physics. It is that EarthTech occupied, for four decades, a specific structural position: a small, privately held, security-cleared research house with no shareholders to answer to, no publication obligations, and a standing relationship with the parts of the defense and intelligence enterprise that buy speculative propulsion analysis. That is precisely the shape of entity a legacy program would need — small enough to compartment, technical enough to be credible, private enough to sit outside the FOIA perimeter.\n\nThe documented engagement is AAWSAP. In 2008 the Defense Intelligence Agency awarded a contract to Bigelow Aerospace Advanced Space Studies, reported at up to $22 million over five years, to assess advanced aerospace threats. Puthoff served as the program's chief scientist on the BAASS side, and EarthTech was subcontracted to produce the written product. Puthoff and Davis commissioned a series of thirty-eight expert studies, which DIA then issued as Defense Intelligence Reference Documents. The subjects released into the public record include traversable wormholes and negative energy, antigravity, metamaterials for aerospace applications, and invisibility cloaking. Whatever one makes of the science, the procurement fact is unambiguous: a U.S. intelligence agency paid, through a contractor and a subcontractor, for a reference library on how one would build and analyze a craft that violates the propulsion assumptions of every acquisition program in the department. Fifteen years later Congress drafted the covered-activity definition for UAP reverse-engineering as any aerospace craft using \"propulsion technology other than chemical propellants, solar power, and electric ion thrust\" — the DIRD library's subject matter, rendered as statutory text.\n\nDavis is also the pivot of the two most consequential unofficial documents in the modern record. In October 2002 he met with retired Vice Admiral Thomas Ray Wilson, former director of DIA; the handwritten notes of that conversation, describing a special access program under contractor control that had denied access to a senior flag officer, surfaced publicly in 2019 as the Wilson-Davis memo. In July 2020 the New York Times reported that Davis, then a contractor for Aerospace Corporation, had briefed a Defense Department agency in October 2019 and Senate Armed Services Committee staff about retrievals from \"off-world vehicles not made on this earth.\" Both items are contested; neither is invented. Both were produced by the chief science officer of EarthTech International.\n\nThe AARO response is where this entity becomes central rather than peripheral. Volume I never names EarthTech, Puthoff, Davis or Bigelow. It does not need to. It states that the modern reverse-engineering claims stem \"largely\" from \"a consistent group of individuals who have been involved in various UAP-related endeavors since at least 2009,\" and that many of them were \"involved in or supportive of a cancelled DIA program and the subsequent but failed attempt to reestablish this program under DHS, called KONA BLUE.\" The cancelled DIA program is AAWSAP. AARO's rebuttal is therefore built on the same population that AARO concedes staffed a real, funded DIA program and then attempted, unsuccessfully, to stand up a DHS prospective special access program to continue it. AARO also reports resolving a claimed anomalous material sample to magnesium \"and bismuth with some other trace elements, such as lead\" by materials characterization — the layered magnesium-bismuth specimen that has circulated through this network for decades and been analyzed by parties associated with it.\n\nThe network extends forward. Davis appears on the team roster of the Disclosure Foundation, the organization chaired by former Deputy Assistant Secretary of Defense for Intelligence Christopher Mellon, whose published recommendations two of the three FY2026 NDAA UAP provisions mirror. So the same technical population that wrote the DIA reference library, that AARO identifies as the source of the circular reporting, and that pitched KONA BLUE to DHS, is also inside the advocacy apparatus that now shapes what Congress writes into the defense authorization act. That is not a contradiction. It is what a closed technical community looks like when the subject matter has no other constituency.",
+"openQuestions": [
+"The DIA contract number and full obligation history for AAWSAP, and the subcontract instrument and dollar value flowing from BAASS to EarthTech International.",
+"The complete list of the 38 Defense Intelligence Reference Documents, their individual authors, and which remain unreleased.",
+"Whether EarthTech International has held prime contracts, grants or CRADAs with DoD, DOE, DIA, DARPA or the national laboratories independent of the BAASS subcontract.",
+"Whether EarthTech has at any time had physical custody of claimed anomalous material, under what chain of custody, and whether any of it was government-furnished.",
+"The provenance and current custodian of the layered magnesium-bismuth specimen AARO says it characterized.",
+"Whether Puthoff or Davis ever received the AARO notification the FY2024 IAA provision would have required, or would have been covered by it.",
+"The authenticated status of the Wilson-Davis memo: Wilson has publicly disputed it, and no independent authentication of the notes has been established.",
+"Puthoff's formal role and title at To The Stars Academy, and the corporate relationship, if any, between TTSA and EarthTech."
+],
+"roles": [
+"reverse-engineering",
+"research",
+"custody",
+"disclosure"
+],
+"whatItIs": "EarthTech International, Inc. is a private research company in Austin, Texas, incorporated in 1991 as the corporate vehicle for the Institute for Advanced Studies at Austin, which Harold E. Puthoff founded in 1985. Its declared research program covers spacetime and gravitation theory, the quantum vacuum and zero-point energy, modifications to standard electrodynamics, interstellar flight science, and SETI, framed as inputs to innovative space propulsion and energy generation. Puthoff is president, CEO and board chairman; Eric W. Davis is chief science officer.",
+"whyImplicated": "EarthTech is the intellectual clearinghouse where the legacy program's technical vocabulary was written down and then sold back to the government as reference literature. Under the Defense Intelligence Agency's Advanced Aerospace Weapon System Applications Program, EarthTech was subcontracted through Robert Bigelow's BAASS, and Puthoff and Davis commissioned the set of expert studies that DIA published as Defense Intelligence Reference Documents on traversable wormholes, antigravity, metamaterials and invisibility cloaking. That output supplied the exact conceptual frame — non-chemical propulsion, spacetime metric engineering, exotic materials — that Congress later wrote into statute as the boundary of a covered reverse-engineering program. AARO's Historical Record Report Volume I aims squarely at this network without naming it, attributing the reverse-engineering allegations to a group involved in UAP endeavors \"since at least 2009\" and tied to \"a cancelled DIA program and the subsequent but failed attempt to reestablish this program under DHS, called KONA BLUE.\" AARO's own account therefore places these people at the center of both the DIA program and its DHS successor attempt, while insisting nothing was ever recovered."
+},
+"entityInfo": null,
+"era": "1",
+"foia": {
+"questions": [
+0,
+1
+],
+"requests": [
+{
+"agency": "DIA",
+"partial": [],
+"questions": [
+0
+],
+"request": "F2",
+"sendTo": "Defense Intelligence Agency, FOIA Office (DAN-1A), 7400 Defense Pentagon, Washington DC 20301-7400.",
+"status": "not filed",
+"title": "DIA - the AAWSAP closeout property inventory and obligation history"
+},
+{
+"agency": "DIA",
+"partial": [],
+"questions": [
+1
+],
+"request": "F7",
+"sendTo": "Defense Intelligence Agency, FOIA Office (DAN-1A).",
+"status": "not filed",
+"title": "DIA - the 38th DIRD, the tasking memorandum and the distribution list"
+}
+]
+},
+"hl": null,
+"id": "earthtech-international",
+"l0": true,
+"label": "EarthTech International / Institute for Advanced Studies at Austin",
+"locLabel": null,
+"members": [
+{
+"cls": "domain",
+"id": "d-contracting",
+"label": "Federal Contracting Mechanics",
+"tier": "B"
+},
+{
+"cls": "document",
+"id": "dird-advanced-space-propulsion-based-on-vacuum",
+"label": "Advanced Space Propulsion Based on Vacuum (Spacetime Metric) Engineering",
+"tier": "B"
+},
+{
+"cls": "document",
+"id": "dird-antigravity-for-aerospace-applications",
+"label": "Antigravity for Aerospace Applications",
+"tier": "B"
+},
+{
+"cls": "document",
+"id": "dird-concepts-for-extracting-energy-from-the",
+"label": "Concepts for Extracting Energy From the Quantum Vacuum",
+"tier": "B"
+},
+{
+"cls": "document",
+"id": "dird-laser-lightcraft-nanosatellites",
+"label": "Laser Lightcraft Nanosatellites",
+"tier": "B"
+},
+{
+"cls": "document",
+"id": "dird-quantum-tomography-of-negative-energy-states",
+"label": "Quantum Tomography of Negative Energy States in the Vacuum",
+"tier": "C"
+},
+{
+"cls": "document",
+"id": "dird-traversable-wormholes",
+"label": "DIA-08-1004-004: 'Traversable Wormholes, Stargates, and Negative Energy'",
+"tier": "B"
+},
+{
+"cls": "document",
+"id": "dird-traversable-wormholes-stargates-and-negative-energy",
+"label": "Traversable Wormholes, Stargates, and Negative Energy",
+"tier": "B"
+},
+{
+"cls": "person",
+"id": "eric-davis",
+"label": "Eric W. Davis",
+"tier": "A"
+},
+{
+"cls": "person",
+"id": "harold-puthoff",
+"label": "Harold E. Puthoff",
+"tier": "A"
+},
+{
+"cls": "institution",
+"id": "institute-advanced-studies-austin",
+"label": "Institute for Advanced Studies at Austin",
+"tier": "C"
+},
+{
+"cls": "location",
+"id": "l-austin",
+"label": "Austin, Texas - 11855 Research Blvd",
+"tier": "C"
+}
+],
+"short": "EarthTech International",
+"sources": [
+{
+"date": "2018-01-09",
+"name": "DIA letter to SASC listing AATIP products",
+"url": "https://documents.theblackvault.com/documents/dia/dia-aatip-reports.pdf"
+},
+{
+"date": "2019-01-18",
+"name": "The War Zone — Here's The List Of Studies The Military's Secretive UFO Program Funded",
+"url": "https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk"
+},
+{
+"date": "2020-07-24",
+"name": "SEC EDGAR — TTSA Regulation A offering exhibit",
+"url": "https://www.sec.gov/Archives/edgar/data/1710274/000110465920089220/tm2023098d2_ex13-1.htm"
+},
+{
+"date": "2018-04-30",
+"name": "SEC EDGAR — TTSA Form 1-K Part II",
+"url": "https://www.sec.gov/Archives/edgar/data/1710274/000114420418023727/tv492460_partii.htm"
+},
+{
+"date": "2026-08-12",
+"name": "EarthTech International / Institute for Advanced Studies at Austin",
+"url": "https://www.earthtech.org/about/"
+},
+{
+"date": "2010-04-06",
+"name": "DIRD DIA-08-1004-004, 'Traversable Wormholes, Stargates, and Negative Energy' (Eric W. Davis, EarthTech International)",
+"url": "https://documents.theblackvault.com/documents/traversablewormholes-drdavis.pdf"
+},
+{
+"date": "2020-01-01",
+"name": "DIRD 'Clinical Medical Acute & Subacute Field Effects on Human Dermal & Neurological Tissues' (Christopher Green, Institute for Advanced Studies at Austin)",
+"url": "https://www.theblackvault.com/documentarchive/wp-content/uploads/2020/01/kitgreen-dird.pdf"
+},
+{
+"date": "2019-01-17",
+"name": "Federation of American Scientists, 'AATIP List' (Secrecy News)",
+"url": "https://fas.org/publication/aatip-list/"
+},
+{
+"date": "2026-08-12",
+"name": "DIA FOIA Electronic Reading Room - Advanced Aerospace Threat Identification Program",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FOIA-Reading-Room-Advanced-Aerospace-Threat-Identification-Program/"
+},
+{
+"date": "2026-08-12",
+"name": "Wikipedia: To The Stars Inc.",
+"url": "https://en.wikipedia.org/wiki/To_the_Stars_(company)."
+}
+],
+"sub": "Private research firm, Austin, TX; largest single DIRD producer",
+"tier": "A",
+"tierRationale": "Re-graded A on a global pass (rank 83 of 1027, score 68). 14 connections, 2 of them custody/witness/funding/programmatic. Axes C3/A2/D3.",
+"timeline": []
+}

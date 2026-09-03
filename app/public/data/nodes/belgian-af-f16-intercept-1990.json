@@ -1,0 +1,176 @@
+{
+"A": 2,
+"C": 1,
+"D": 2,
+"band": null,
+"claims": [
+{
+"source": "The National Archives, 'Highlights Guide' to the August 2009 tranche of MoD UFO files, section 'UFOs reported over Belgium - 1989-1990', https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf",
+"text": "The National Archives' guide to the MoD UFO files opened on 17 August 2009 states that the files 'reveal how in March 1990 the Belgian Air Force scrambled F-16 fighters to intercept UFOs reported by police officers and others.'",
+"tier": 1
+},
+{
+"source": "The National Archives, 'Highlights Guide', August 2009 tranche, https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf",
+"text": "The same guide places a four-page account in DEFE 24/1960 at pages 320 to 324 and describes it: 'The account, from General Wilfried de Brouwer, Chief of Operations, Belgian Air Staff confirms that F-16 pilots obtained \"lock-ons\" with their radars but were unable to explain the phenomena.' It records the UFOs as 'detected by NATO radars and F-16 fighters over Belgium in 1990, which remain unexplained.'",
+"tier": 1
+},
+{
+"source": "The National Archives, 'Highlights Guide', August 2009 tranche, https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf",
+"text": "The Belgian Air Force put its own account into British hands three and a half years later: 'An official statement from the Belgian Air Force sent to the MoD in November 1993 is at DEFE 24/1970 p86-87.'",
+"tier": 1
+},
+{
+"source": "The National Archives, 'Highlights Guide', August 2009 tranche, https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf",
+"text": "The UK's own position is in the same file series: 'A letter from Malcolm Rifkind to Lord Hill-Norton explains the MoD was not informed of the incident at the time and concluded there was no threat to the UK DEFE 24/1970 p58-59.'",
+"tier": 1
+},
+{
+"source": "Project Condign, 'Unidentified Aerial Phenomena in the UK Air Defence Region', Volume 2, OCR text, https://archive.org/download/condign-vol-2-1-258/Condign_Vol_2_1-258_djvu.txt",
+"text": "The UK Defence Intelligence Staff carried Belgian imagery of the event inside its own classified study: Project Condign Volume 2's figure list includes 'FIGURE 34: VIDEO FRAME - BELGIUM 31 MARCH 1990' and 'FIGURE 35: SHAPE UK, RUSSIA, BELGIUM', alongside a figure captioned for the Belgian location Eupen.",
+"tier": 1
+},
+{
+"source": "AREA52 - DEBRIEFED, batch 14 file 03, 0:50:36-1:00:04, per research/leads/area52-corpus-14.md, read against The National Archives' August 2009 Highlights Guide, https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf",
+"text": "On AREA52 - DEBRIEFED, file 03 of batch 14 (0:50:36 to 1:00:04), the host's own narration says General Wilfred De Brouwer deployed F-16s on the night of 30-31 March 1990 and publicly rejected the mass-hysteria explanation. No record opened for this pass supports the rank, the office as given, or any such public statement; the record that names him gives 'Wilfried de Brouwer, Chief of Operations, Belgian Air Staff'.",
+"tier": 2
+}
+],
+"cls": "event",
+"cluster": "other",
+"connections": [
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "Belgian imagery inside the Condign study, in Volume 2 rather than Volume 3",
+"id": "doc-condign-vol3",
+"l0": true,
+"label": "Project Condign Volume 3 - Potential for Exploitation of UAP-Associated Effects / UAP Work in Other Countries",
+"note": "Volume 2's figure list carries a video frame captioned Belgium 31 March 1990 and a comparative shape figure for the UK, Russia and Belgium. Volume 3 chapter 4's country sections are the Former Soviet Union, China, Spain, and the United States and Canada, and do not cover Belgium.",
+"sources": [
+{
+"date": "2000-01-01",
+"name": "Project Condign Volume 2 OCR text",
+"url": "https://archive.org/download/condign-vol-2-1-258/Condign_Vol_2_1-258_djvu.txt"
+}
+],
+"tier": "B",
+"type": "research"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "The Belgian material sits in named DEFE 24 pieces",
+"id": "uk-defe24",
+"l0": false,
+"label": "DEFE 24 and DEFE 31 - MoD UFO record series, The National Archives, Kew",
+"note": "The National Archives' guide places the Belgian Air Force's November 1993 statement at DEFE 24/1970 pages 86 to 87 and de Brouwer's four-page account at DEFE 24/1960 pages 320 to 324, with further references in DEFE 24/1962 and DEFE 24/1965.",
+"sources": [
+{
+"date": "2009-08-17",
+"name": "TNA Highlights Guide, August 2009 tranche",
+"url": "https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf"
+}
+],
+"tier": "C",
+"type": "custody"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "Not informed at the time, and no threat to the UK",
+"id": "uk-mod",
+"l0": false,
+"label": "United Kingdom Ministry of Defence",
+"note": "The guide summarises a letter from Malcolm Rifkind to Lord Hill-Norton saying the MoD was not informed of the incident at the time and concluded there was no threat to the UK.",
+"sources": [
+{
+"date": "2009-08-17",
+"name": "TNA Highlights Guide, August 2009 tranche",
+"url": "https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf"
+}
+],
+"tier": "B",
+"type": "denial"
+}
+],
+"coords": null,
+"dateEnd": "1990-03-31",
+"dateStart": "1990-03-31",
+"deg": 3,
+"denials": [
+{
+"by": {
+"id": "belgian-af-f16-intercept-1990",
+"label": "Belgian Air Force F-16 intercept and the 1989-90 Belgian wave"
+},
+"claimTier": 1,
+"denialKind": null,
+"label": "Not informed at the time, and no threat to the UK",
+"note": "The guide summarises a letter from Malcolm Rifkind to Lord Hill-Norton saying the MoD was not informed of the incident at the time and concluded there was no threat to the UK.",
+"of": {
+"id": "uk-mod",
+"label": "United Kingdom Ministry of Defence"
+},
+"sources": [
+{
+"date": "2009-08-17",
+"name": "TNA Highlights Guide, August 2009 tranche",
+"url": "https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf"
+}
+]
+}
+],
+"desc": "In March 1990 the Belgian Air Force scrambled F-16 fighters against objects reported by police officers and others during a wave of sightings running through 1989 and 1990. The Belgian Air Force sent the UK Ministry of Defence an official statement about it in November 1993, and a four-page account by General Wilfried de Brouwer, Chief of Operations of the Belgian Air Staff, sits in a released MoD file: it says the F-16 pilots obtained radar lock-ons and could not explain the phenomena, and that the events remain unexplained. The Secretary of State for Defence later told Lord Hill-Norton that the MoD had not been informed at the time and that there was no threat to the UK. This node rests on The National Archives' own guide to the August 2009 release and on Project Condign Volume 2; neither Belgian file nor either MoD file has been opened, and the node's date is the date the records give for the imagery and the scramble, not a date taken from a broadcast.",
+"domains": [
+"area52-2026-09-02"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "1",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "belgian-af-f16-intercept-1990",
+"l0": false,
+"label": "Belgian Air Force F-16 intercept and the 1989-90 Belgian wave",
+"locLabel": null,
+"members": null,
+"short": "Belgian Air Force F-16 intercept and the 1989-90 Belgian wave",
+"sources": [
+{
+"date": "2009-08-17",
+"name": "The National Archives, Highlights Guide to the MoD UFO files opened 17 August 2009",
+"url": "https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf"
+},
+{
+"date": "2000-01-01",
+"name": "Project Condign Volume 2 OCR text",
+"url": "https://archive.org/download/condign-vol-2-1-258/Condign_Vol_2_1-258_djvu.txt"
+}
+],
+"sub": "NATO air force scrambled, recorded and reported; the MoD was not told at the time",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 234 of 1027, score 41). 3 connections, 1 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D2.",
+"timeline": [
+{
+"date": "1990-03-31",
+"id": "tl-1990-03-31-belgian-f16-scramble",
+"label": "The Belgian Air Force scrambles F-16s during the Belgian wave",
+"precision": "day",
+"strand": "witness",
+"text": "The National Archives' guide to the MoD UFO files opened in August 2009 states that the files 'reveal how in March 1990 the Belgian Air Force scrambled F-16 fighters to intercept UFOs reported by police officers and others', and places a four-page account by General Wilfried de Brouwer, Chief of Operations, Belgian Air Staff, in DEFE 24/1960, confirming that the F-16 pilots obtained radar lock-ons but could not explain the phenomena. Malcolm Rifkind later told Lord Hill-Norton that the MoD was not informed at the time.",
+"tier": "C"
+}
+]
+}

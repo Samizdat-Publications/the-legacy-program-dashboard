@@ -1,0 +1,364 @@
+{
+"A": 1,
+"C": 0,
+"D": 2,
+"affiliations": [
+"Fair-Witness Project",
+"Co-author with Charles Berlitz, 'The Roswell Incident' (1980)"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "1980",
+"event": "'The Roswell Incident' published with Charles Berlitz by Grosset & Dunlap",
+"precision": "year"
+},
+{
+"date": "1984-12",
+"event": "With Jaime Shandera, receives an anonymous roll of 35mm film containing the MJ-12 Eisenhower Briefing Document",
+"precision": "month"
+},
+{
+"date": "1987",
+"event": "MJ-12 documents released publicly, triggering the Friedman-Randle-Klass dispute",
+"precision": "year"
+},
+{
+"date": "1989-07",
+"event": "At the MUFON symposium in Las Vegas, states publicly that he had cooperated with AFOSI personnel and passed disinformation to Paul Bennewitz",
+"precision": "month"
+}
+],
+"claims": [
+{
+"source": "William L. Moore, address to the MUFON Symposium, Las Vegas, July 1989",
+"text": "Moore publicly admitted at the 1989 MUFON symposium that he had cooperated with US Air Force counterintelligence and had knowingly passed false information to Paul Bennewitz.",
+"tier": 2
+},
+{
+"source": "Gerald K. Haines, 'CIA's Role in the Study of UFOs, 1947-90', endnote 93",
+"text": "Moore and Shandera published 'The MJ-12 Documents: An Analytical Report' as Fair-Witness Project Publication Number 1500 in 1990, and Moore and Friedman published 'Philip Klass and MJ-12: What are the Facts' as Publication Number 1290 in 1988 - both cited in CIA's own 1997 history of the Agency's UFO role.",
+"tier": 1
+},
+{
+"source": "Headquarters USAF, 'The Roswell Report: Fact versus Fiction in the New Mexico Desert' (1995) https://archive.org/details/DTIC_ADA326148",
+"text": "The US Air Force's 1995 Roswell report names 'The Roswell Incident (1980) by William Moore and Charles Berlitz' and 'Crashed Saucers: Evidence in Search of Proof (1985) by Moore' among the major works it reviewed to set the parameters of its records search, and describes Moore and Berlitz as having 'engaged in research which led them to publish' the 1980 book.",
+"tier": 1
+},
+{
+"source": "Publisher's imprint and library catalogue records",
+"text": "'The Roswell Incident' by Charles Berlitz and William Moore was published in New York by Grosset & Dunlap in 1980, ISBN 978-0448211992.",
+"tier": 1
+},
+{
+"source": "Moore's own statement to the 1989 MUFON symposium, subsequently published in full in MUFON and Focus/Fair-Witness materials",
+"text": "Moore stated at the 1989 MUFON symposium that he had cooperated with US Air Force Office of Special Investigations personnel from about 1980 and had knowingly passed disinformation to Paul Bennewitz.",
+"tier": 2
+},
+{
+"source": "Chronological overlay of Moore's admitted 1980-1989 cooperation window on the December 1984 MJ-12 delivery",
+"text": "The 1984 arrival of the MJ-12 film at Moore's address falls inside the window he later admitted was a period of cooperation with AFOSI, which is sufficient on its own to bar the MJ-12 corpus from tier 1 or tier 2 status regardless of any forensic analysis. Reasoning: the recipient of an anonymous delivery has admitted to being an operational channel for the agency most likely to have sent it.",
+"tier": 3
+}
+],
+"cls": "person",
+"cluster": "other",
+"conflicts": [
+"Friedman continued to regard the MJ-12 core documents as authentic after Moore's admission; Randle regarded the admission as conclusive against them."
+],
+"connections": [
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2002",
+"dateStart": "1989-07",
+"direction": "out",
+"edgeLabel": "Moore's 1989 AFOSI admission is Randle's strongest argument against MJ-12",
+"id": "kevin-randle",
+"l0": false,
+"label": "Kevin D. Randle",
+"note": "Moore stated publicly at the 1989 MUFON symposium that he had cooperated with AFOSI and passed disinformation to Paul Bennewitz; Randle's 'Conclusions on Operation Majestic Twelve' (1994) and 'Case MJ-12' (2002) treat the corpus as fabricated.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Stanton T. Friedman - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/Stanton_T._Friedman"
+}
+],
+"tier": "B",
+"type": "denial"
+},
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": "1999",
+"dateStart": "1984-12",
+"direction": "out",
+"edgeLabel": "The archive's core corpus entered the record through Moore's mailbox",
+"id": "majestic-documents-archive",
+"l0": false,
+"label": "The Majestic Documents archive (Wood and Wood)",
+"note": "The Eisenhower Briefing Document and Truman-Forrestal memorandum arrived as undeveloped 35mm film addressed to Moore and Shandera in December 1984; everything downstream in the corpus dates from that delivery.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "The Majestic Documents (Wood & Wood)",
+"url": "https://majesticdocuments.com/"
+}
+],
+"tier": "C",
+"type": "custody"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "1990",
+"dateStart": "1984",
+"direction": "out",
+"edgeLabel": "Moore controlled the MJ-12 material's release with Shandera and Friedman",
+"id": "mj-12-documents",
+"l0": true,
+"label": "MJ-12 / Operation Majestic-12 Documents",
+"note": "Moore and Shandera published 'The MJ-12 Documents: An Analytical Report' as Fair-Witness Project Publication 1500 in 1990, cited in CIA's own 1997 UFO history.",
+"sources": [
+{
+"date": "1997-01-01",
+"name": "Gerald K. Haines, 'CIA's Role in the Study of UFOs, 1947-90', Studies in Intelligence (CIA), archived copy",
+"url": "https://www.theblackvault.com/documentarchive/cias-role-in-the-study-of-ufos-1947-90/"
+},
+{
+"date": "2011-04-01",
+"name": "FBI Records: The Vault - 'Majestic 12'",
+"url": "https://vault.fbi.gov/Majestic%2012"
+}
+],
+"tier": "B",
+"type": "custody"
+},
+{
+"claimTier": 2,
+"cls": "institution",
+"dateEnd": "1989-07",
+"dateStart": "1989-07",
+"direction": "out",
+"edgeLabel": "Made the AFOSI disinformation admission from the MUFON platform",
+"id": "mufon",
+"l0": false,
+"label": "Mutual UFO Network (MUFON)",
+"note": "Moore chose the 1989 MUFON symposium in Las Vegas to state that he had cooperated with Air Force Office of Special Investigations personnel and passed disinformation to Paul Bennewitz.",
+"sources": [
+{
+"date": "1989-07-01",
+"name": "Moore's 1989 MUFON symposium statement, published in full in the MUFON and Fair-Witness literature",
+"url": "https://en.wikipedia.org/wiki/Stanton_T._Friedman"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "1989",
+"dateStart": "1980",
+"direction": "out",
+"edgeLabel": "Moore admitted in 1989 to feeding Bennewitz false information",
+"id": "paul-bennewitz",
+"l0": false,
+"label": "Paul Frederick Bennewitz",
+"note": "On 1 July 1989 William Moore stated publicly that he had attempted to push Bennewitz into a mental breakdown by feeding him false information about aliens.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Wikipedia - Paul Bennewitz",
+"url": "https://en.wikipedia.org/wiki/Paul_Bennewitz"
+}
+],
+"tier": "B",
+"type": "behavioral"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "1989",
+"dateStart": "1980",
+"direction": "in",
+"edgeLabel": "Moore admitted cooperating with AFOSI and passing disinformation to Bennewitz",
+"id": "richard-doty",
+"l0": false,
+"label": "Richard C. Doty",
+"note": "Moore told the 1989 MUFON symposium that he had worked with Air Force counterintelligence in exchange for access, and had knowingly fed Bennewitz false material.",
+"sources": [
+{
+"date": "1997-01-01",
+"name": "Gerald K. Haines, 'CIA's Role in the Study of UFOs, 1947-90', Studies in Intelligence (CIA), archived copy",
+"url": "https://www.theblackvault.com/documentarchive/cias-role-in-the-study-of-ufos-1947-90/"
+},
+{
+"date": "1988-01-01",
+"name": "Philip J. Klass, 'The MJ-12 Crashed-Saucer Documents', Skeptical Inquirer",
+"url": "https://skepticalinquirer.org/1988/01/the-mj-12-crashed-saucer-documents/"
+}
+],
+"tier": "B",
+"type": "behavioral"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "1996",
+"dateStart": "1984-12",
+"direction": "out",
+"edgeLabel": "Moore and Shandera's 1984 film delivery became Friedman's decade-long project",
+"id": "stanton-friedman",
+"l0": false,
+"label": "Stanton T. Friedman",
+"note": "Friedman became aware of the MJ-12 documents through Moore and Jaime Shandera in 1984 and defended their core authenticity through 'Top Secret/Majic' (1996).",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Stanton T. Friedman - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/Stanton_T._Friedman"
+}
+],
+"tier": "B",
+"type": "research"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "1980",
+"dateStart": "1980",
+"direction": "out",
+"edgeLabel": "Co-authored the founding Roswell book",
+"id": "the-roswell-incident-1980",
+"l0": false,
+"label": "The Roswell Incident (Berlitz and Moore, 1980)",
+"note": "Charles Berlitz and William L. Moore, Grosset & Dunlap, 1980, ISBN 978-0448211992.",
+"sources": [
+{
+"date": "1980-01-01",
+"name": "Berlitz and Moore, 'The Roswell Incident' (1980)",
+"url": "https://archive.org/details/charles-berlitz-william-l.-moore-the-roswell-incident-1980_202012"
+}
+],
+"tier": "C",
+"type": "research"
+}
+],
+"date": "1989-07-01",
+"dateEnd": null,
+"dateStart": "1989-07-01",
+"deg": 8,
+"denials": [
+{
+"by": {
+"id": "william-l-moore",
+"label": "William L. Moore"
+},
+"claimTier": 2,
+"denialKind": "association",
+"label": "Moore's 1989 AFOSI admission is Randle's strongest argument against MJ-12",
+"note": "Moore stated publicly at the 1989 MUFON symposium that he had cooperated with AFOSI and passed disinformation to Paul Bennewitz; Randle's 'Conclusions on Operation Majestic Twelve' (1994) and 'Case MJ-12' (2002) treat the corpus as fabricated.",
+"of": {
+"id": "kevin-randle",
+"label": "Kevin D. Randle"
+},
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Stanton T. Friedman - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/Stanton_T._Friedman"
+}
+]
+}
+],
+"domains": [
+"w16-thin-people",
+"w2-retrieval-literature"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "1",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "william-l-moore",
+"instId": null,
+"l0": false,
+"label": "William L. Moore",
+"loc": "Burbank, CA",
+"locId": null,
+"members": null,
+"narrative": "William L. Moore wrote the book that made Roswell a public case and then, nine years later, told a room full of ufologists that he had been working with Air Force counterintelligence. With Charles Berlitz he published 'The Roswell Incident' (Grosset & Dunlap, 1980), built on Stanton Friedman's 1978 contact with Jesse Marcel Sr. and on the second-hand Barney Barnett material, and it established the modern case. In December 1984 he and Jaime Shandera received in the post a roll of undeveloped 35mm film containing the Eisenhower Briefing Document and the Truman-Forrestal memorandum - the origin of the entire MJ-12 corpus that Friedman then spent a decade defending and Randle a decade attacking. At the 1989 MUFON symposium in Las Vegas, Moore stated publicly that from about 1980 he had cooperated with personnel of the Air Force Office of Special Investigations, and that he had knowingly passed disinformation to the Albuquerque physicist and businessman Paul Bennewitz, whose mental health collapsed under it. That admission is the single most consequential statement ever made by a researcher in this field, and this board treats it structurally rather than moralistically: it establishes, on the admission of the participant, that a US counterintelligence element used a civilian UFO researcher as a delivery channel for fabricated material into the UFO community. Any document, witness or claim entering the record through that channel between roughly 1980 and 1989 - and the MJ-12 papers arrived in the middle of it - carries a provenance problem that cannot be argued away.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "William L. Moore",
+"sources": [
+{
+"date": "1997-01-01",
+"name": "Gerald K. Haines, 'CIA's Role in the Study of UFOs, 1947-90', Studies in Intelligence (CIA), archived copy",
+"url": "https://www.theblackvault.com/documentarchive/cias-role-in-the-study-of-ufos-1947-90/"
+},
+{
+"date": "1988-01-01",
+"name": "Philip J. Klass, 'The MJ-12 Crashed-Saucer Documents', Skeptical Inquirer",
+"url": "https://skepticalinquirer.org/1988/01/the-mj-12-crashed-saucer-documents/"
+},
+{
+"date": "2011-04-01",
+"name": "FBI Records: The Vault - 'Majestic 12'",
+"url": "https://vault.fbi.gov/Majestic%2012"
+},
+{
+"date": "2026-08-25",
+"name": "Headquarters USAF, 'The Roswell Report: Fact versus Fiction in the New Mexico Desert' (1995), DTIC ADA326148",
+"url": "https://archive.org/details/DTIC_ADA326148"
+},
+{
+"date": "1980-01-01",
+"name": "Charles Berlitz and William L. Moore, 'The Roswell Incident' (1980) - copy at the Internet Archive",
+"url": "https://archive.org/details/charles-berlitz-william-l.-moore-the-roswell-incident-1980_202012"
+}
+],
+"status": "active",
+"sub": "Co-author, 'The Roswell Incident' (1980); first recipient of the MJ-12 film; self-confessed conduit for AFOSI disinformation",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 258 of 1027, score 39). 8 connections, 2 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D2.",
+"timeline": [
+{
+"date": "1984-12",
+"id": "tl-1984-12-mj12",
+"label": "The MJ-12 film arrives",
+"precision": "month",
+"strand": "coverup",
+"text": "William L. Moore and Jaime Shandera receive an anonymous roll of undeveloped 35mm film containing the Eisenhower Briefing Document and the Truman-Forrestal memorandum. The delivery falls inside the period Moore later says he was cooperating with AFOSI.",
+"tier": "B"
+},
+{
+"date": "1989-07",
+"id": "tl-1989-07-moore",
+"label": "Moore's AFOSI admission",
+"precision": "month",
+"strand": "coverup",
+"text": "At the MUFON symposium in Las Vegas, William L. Moore states publicly that he had cooperated with Air Force Office of Special Investigations personnel from about 1980 and had knowingly passed disinformation to Paul Bennewitz.",
+"tier": "B"
+},
+{
+"date": "1989-07-01",
+"id": "t-1989-moore",
+"label": "Moore admits the AFOSI collaboration",
+"precision": "month",
+"strand": "coverup",
+"text": "At the MUFON symposium Bill Moore tells the UFO community that he worked with Air Force counterintelligence and knowingly passed disinformation to Bennewitz in exchange for access.",
+"tier": "A"
+}
+],
+"unexplainedResidual": null,
+"unverified": [
+"The names of the AFOSI personnel Moore says he dealt with, and whether any AFOSI record of the relationship has ever been requested or released. Nothing responsive has surfaced."
+]
+}

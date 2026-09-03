@@ -1,0 +1,118 @@
+{
+"A": 2,
+"C": 1,
+"D": 3,
+"band": null,
+"claims": [
+{
+"source": "PR Newswire, To The Stars Academy Of Arts & Science Launches Today, 11 October 2017",
+"text": "Launched 11 October 2017 with DeLonge, Puthoff, Semivan, Justice, Elizondo and Mellon named in the announcement, and three divisions: Science, Aerospace (beamed energy and electrogravitics) and Entertainment.",
+"tier": 1
+},
+{
+"source": "PR Newswire, 11 October 2017",
+"text": "Elizondo was described at launch as 'former Director of Programs investigating Unidentified Aerial Threats for the Office of the Secretary of Defense'.",
+"tier": 1
+},
+{
+"source": "Inference from the 4 October resignation date, the 11 October launch date and the 16 December publication date",
+"text": "The seven-day interval between Elizondo's effective resignation date and the launch, and the two-month interval before the New York Times story, indicate the vehicle was assembled in advance of the departure rather than in response to it.",
+"tier": 3
+}
+],
+"cls": "event",
+"cluster": "contractor",
+"connections": [
+{
+"claimTier": 3,
+"cls": "document",
+"dateEnd": "2017",
+"dateStart": "2017",
+"direction": "in",
+"edgeLabel": "Seven days from resignation effective date to corporate launch",
+"id": "elizondo-resignation-letter-1",
+"l0": false,
+"label": "Elizondo Resignation Letter #1, 3 October 2017",
+"note": "The interval is short enough that the corporate vehicle must have been assembled before the departure. This is inference from dates, not from any document stating intent.",
+"sources": [
+{
+"date": "2022-08-17",
+"name": "OSD/JS FOIA 18-F-0324",
+"url": "https://documents2.theblackvault.com/documents/osd/18-F-0324.pdf"
+},
+{
+"date": "2017-10-11",
+"name": "PR Newswire — TTSA launch",
+"url": "https://www.prnewswire.com/news-releases/to-the-stars-academy-of-arts--science-launches-today-300534912.html"
+}
+],
+"tier": "C",
+"type": "temporal"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "2017",
+"dateStart": "2017",
+"direction": "out",
+"edgeLabel": "Public launch and Regulation A+ offering, 11 October 2017",
+"id": "ttsa",
+"l0": true,
+"label": "To The Stars Academy of Arts & Science Inc. (later To The Stars Inc.)",
+"note": "Seven days after Elizondo's resignation took effect and nine weeks before the NYT story.",
+"sources": [
+{
+"date": "2017-10-11",
+"name": "PR Newswire — TTSA launch",
+"url": "https://www.prnewswire.com/news-releases/to-the-stars-academy-of-arts--science-launches-today-300534912.html"
+}
+],
+"tier": "A",
+"type": "temporal"
+}
+],
+"coords": null,
+"dateEnd": "2017",
+"dateStart": "2017",
+"deg": 2,
+"denials": [],
+"desc": "On 11 October 2017, seven days after Elizondo's resignation took effect and nine weeks before the New York Times story, To The Stars Academy of Arts & Science launched publicly with a live-streamed event and a Regulation A+ equity offering. The announced roster is the point: Tom DeLonge as President and CEO; Harold Puthoff as VP Science and Technology; Jim Semivan, recently retired from the CIA's clandestine service, as VP Operations; Steve Justice, 31 years at Lockheed's Skunk Works and latterly Program Director for Advanced Systems, as Aerospace Division Director; Luis Elizondo, described as former Director of Programs investigating unidentified aerial threats for the Office of the Secretary of Defense, as Director of Global Security & Special Programs; and Christopher Mellon, former Deputy Assistant Secretary of Defense for Intelligence and Senate Intelligence Committee minority staff director, as National Security Affairs Advisor. Three divisions were announced: Science, Aerospace — explicitly including beamed energy and electrogravitics — and Entertainment. The timing means the corporate landing pad existed before the story broke.",
+"domains": [
+"elizondo-ttsa"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "ttsa-launch-2017",
+"l0": false,
+"label": "To The Stars Academy public launch, 11 October 2017",
+"locLabel": null,
+"members": null,
+"short": "To The Stars Academy public launch, 11 October 2017",
+"sources": [
+{
+"date": "2017-10-11",
+"name": "PR Newswire — To The Stars Academy Of Arts & Science Launches Today",
+"url": "https://www.prnewswire.com/news-releases/to-the-stars-academy-of-arts--science-launches-today-300534912.html"
+}
+],
+"sub": "Live-streamed launch event and Regulation A+ offering",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 614 of 1027, score 25). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D3.",
+"timeline": [
+{
+"date": "2017-10-11",
+"id": "tl-2017-10-11-ttsa",
+"label": "To The Stars Academy launches",
+"precision": "day",
+"strand": "program",
+"text": "DeLonge, Puthoff, Semivan, Justice, Elizondo and Mellon appear on one masthead, with a Regulation A+ offering targeting $50 million and divisions for Science, Aerospace and Entertainment.",
+"tier": "A"
+}
+]
+}

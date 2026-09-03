@@ -1,0 +1,368 @@
+{
+"A": 2,
+"C": 0,
+"D": 3,
+"affiliations": [
+"U.S. Senate, New York (2009- )",
+"Senate Armed Services Committee",
+"Chair, SASC Subcommittee on Personnel",
+"US Senate (NY)",
+"SASC Subcommittee on Emerging Threats and Capabilities, Chair"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "2021-12-27",
+"event": "Sec. 1683 of the FY2022 NDAA enacted as P.L. 117-81; codified 50 U.S.C. 3373",
+"precision": "day"
+},
+{
+"date": "2021-12-27",
+"event": "FY2022 NDAA (P.L. 117-81) establishes the statutory office and reporting regime she authored",
+"precision": "day"
+},
+{
+"date": "2022-12-23",
+"event": "IAA FY2023 Sec. 6802 restates Sec. 1683 and formally names the All-domain Anomaly Resolution Office",
+"precision": "day"
+},
+{
+"date": "2022-12-23",
+"event": "FY2023 NDAA (P.L. 117-263) codifies AARO and its public reporting mandate at 50 U.S.C. 3373",
+"precision": "day"
+},
+{
+"date": "2023-02-16",
+"event": "Leads 16 senators with Rubio demanding full AARO funding",
+"precision": "day"
+},
+{
+"date": "2023-04-19",
+"event": "Chairs the SASC ETC subcommittee open hearing on AARO's mission, activities, oversight and budget",
+"precision": "day"
+},
+{
+"date": "2023-07-13",
+"event": "Original cosponsor of S.Amdt. 797",
+"precision": "day"
+},
+{
+"date": "2024-11-19",
+"event": "Chairs the SASC ETC subcommittee hearing at which Kosloski testifies",
+"precision": "day"
+},
+{
+"date": "2025-07-15",
+"event": "Claims 'language to update congressional briefing requirements for UAP' among her FY2026 defense bill wins",
+"precision": "day"
+},
+{
+"date": "2026-05-08",
+"event": "Statement on the administration's release of UAP files",
+"precision": "day"
+}
+],
+"claims": [
+{
+"source": "CREC-2023-07-13-pt1-PgS2953",
+"text": "Cosponsor of S.Amdt. 797, the UAP Disclosure Act of 2023, submitted 13 July 2023.",
+"tier": 1
+},
+{
+"source": "P.L. 117-81, Sec. 1683, GPO",
+"text": "Sec. 1683 of the FY2022 NDAA (P.L. 117-81) directed establishment of the office within 180 days and is codified at 50 U.S.C. 3373.",
+"tier": 1
+},
+{
+"source": "P.L. 117-263, Sec. 6802, GPO",
+"text": "IAA FY2023 Sec. 6802 rewrote Sec. 1683 to designate the 'All-domain Anomaly Resolution Office' and added subsection (j), the Historical Record Report, due 540 days after enactment.",
+"tier": 1
+},
+{
+"source": "Gillibrand statement on release of UAP files, gillibrand.senate.gov, 8 May 2026",
+"text": "'Transparency is the only path to truth... I will continue to fight to ensure the administration finally meets its legal obligation to the American people.'",
+"tier": 2
+},
+{
+"source": "gillibrand.senate.gov, 15 July 2025",
+"text": "Her FY2026 defense bill announcement claims only 'language to update congressional briefing requirements for UAP' — matching Sec. 1671 of P.L. 119-60, not any disclosure mandate.",
+"tier": 2
+},
+{
+"source": "Public Laws 117-81 and 117-263; AARO annual reports cite 50 U.S.C. 3373(k)",
+"text": "AARO's legal authority and reporting obligations derive from the FY2022 NDAA (P.L. 117-81, 27 December 2021) and the FY2023 NDAA (P.L. 117-263, 23 December 2022), codified at 50 U.S.C. 3373.",
+"tier": 1
+},
+{
+"source": "Senate Armed Services Committee hearing record; congress.gov S.Hrg. 118-648",
+"text": "Gillibrand chaired the Senate Armed Services Emerging Threats and Capabilities Subcommittee hearing of 19 April 2023 on AARO's mission, activities, oversight and budget, published as S.Hrg. 118-648.",
+"tier": 1
+},
+{
+"source": "Gillibrand opening statements, SASC UAP hearings 2023 and 2024",
+"text": "Gillibrand's standing criticism is that AARO has been under-resourced and slow-walked by the Department relative to its statutory mandate.",
+"tier": 2
+}
+],
+"cls": "person",
+"cluster": "other",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2021",
+"direction": "out",
+"edgeLabel": "authored the statutory mandate and reporting regime AARO operates under",
+"id": "aaro",
+"l0": true,
+"label": "All-domain Anomaly Resolution Office (AARO)",
+"note": "Gillibrand's FY2022 NDAA and IAA provisions and the FY2023 NDAA codification at 50 U.S.C. 3373 create AARO's legal identity and its classified quarterly and unclassified annual reporting duties.",
+"sources": [
+{
+"date": "2023-04-19",
+"name": "Congress.gov - S.Hrg. 118-648",
+"url": "https://www.congress.gov/event/118th-congress/senate-event/LC74346/text"
+}
+],
+"tier": "A",
+"type": "legislative"
+},
+{
+"claimTier": 2,
+"cls": "event",
+"dateEnd": "2026",
+"dateStart": "2026",
+"direction": "out",
+"edgeLabel": "Author of the statute publicly states the obligation is unmet",
+"id": "dow-uap-file-release-2026",
+"l0": false,
+"label": "Department of War release of UAP files",
+"note": "Gillibrand: 'I will continue to fight to ensure the administration finally meets its legal obligation to the American people.'",
+"sources": [
+{
+"date": "2026-05-08",
+"name": "Gillibrand statement on release of UAP files",
+"url": "https://www.gillibrand.senate.gov/news/press/release/gillibrand-statement-on-release-of-uap-files/"
+},
+{
+"date": "2026-05-08",
+"name": "Department of War UAP file release (linked from Gillibrand)",
+"url": "https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/"
+}
+],
+"tier": "C",
+"type": "behavioral"
+},
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": "2023",
+"dateStart": "2023",
+"direction": "out",
+"edgeLabel": "chaired the hearing",
+"id": "hearing-2023-04-19",
+"l0": false,
+"label": "Senate Armed Services Emerging Threats subcommittee hearing, 19 April 2023 - 'The Mission, Activities, Oversight, and Budget of the All-Domain Anomaly Resolution Office'",
+"note": "Gillibrand chaired the Senate Armed Services Emerging Threats and Capabilities Subcommittee for both AARO oversight hearings.",
+"sources": [
+{
+"date": "2023-04-19",
+"name": "Senate Armed Services hearing page",
+"url": "https://www.armed-services.senate.gov/hearings/to-receive-testimony-on-the-mission-activities-oversight-and-budget-of-the-all-domain-anomaly-resolution-office"
+}
+],
+"tier": "B",
+"type": "legislative"
+},
+{
+"claimTier": 1,
+"cls": "legislation",
+"dateEnd": null,
+"dateStart": "2021",
+"direction": "out",
+"edgeLabel": "Author of the founding AARO authority",
+"id": "ndaa-fy2022-sec-1683",
+"l0": true,
+"label": "FY2022 NDAA Sec. 1683 (P.L. 117-81; 50 U.S.C. 3373)",
+"note": "Sec. 1683 of P.L. 117-81, codified at 50 U.S.C. 3373, is the statute every later UAP provision cross-references.",
+"sources": [
+{
+"date": "2021-12-27",
+"name": "P.L. 117-81 — GPO",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-117publ81/html/PLAW-117publ81.htm"
+}
+],
+"tier": "B",
+"type": "legislative"
+},
+{
+"claimTier": 2,
+"cls": "legislation",
+"dateEnd": "2025",
+"dateStart": "2025",
+"direction": "out",
+"edgeLabel": "Claims only the briefing-requirement update as her FY2026 UAP win",
+"id": "ndaa-fy2026",
+"l0": true,
+"label": "FY2026 NDAA, Public Law 119-60 - secs. 1671-1673, NORAD/NORTHCOM intercept briefings and UAP classification-guide accounting",
+"note": "Gillibrand's FY2026 announcement lists 'language to update congressional briefing requirements for UAP', matching Sec. 1671 rather than any disclosure mandate.",
+"sources": [
+{
+"date": "2025-07-15",
+"name": "Gillibrand announces FY2026 defense bill wins",
+"url": "https://www.gillibrand.senate.gov/news/press/release/gillibrand-announces-fy2026-defense-bill-wins/"
+},
+{
+"date": "2025-12-18",
+"name": "P.L. 119-60 — GPO",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-119publ60/html/PLAW-119publ60.htm"
+}
+],
+"tier": "A",
+"type": "legislative"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "2023",
+"dateStart": "2023",
+"direction": "out",
+"edgeLabel": "Original cosponsor, 13 July 2023",
+"id": "samdt-797",
+"l0": true,
+"label": "S.Amdt. 797 to S. 2226 (Schumer-Rounds UAP Disclosure Act amendment)",
+"note": "Gillibrand cosponsored Schumer's amendment while her own Sec. 1683 architecture was the statutory baseline it cross-referenced.",
+"sources": [
+{
+"date": "2023-07-13",
+"name": "Congress.gov — S.Amdt. 797",
+"url": "https://www.congress.gov/amendment/118th-congress/senate-amendment/797"
+}
+],
+"tier": "B",
+"type": "legislative"
+},
+{
+"claimTier": 1,
+"cls": "legislation",
+"dateEnd": null,
+"dateStart": "2023-07-13",
+"direction": "out",
+"edgeLabel": "cosponsor",
+"id": "uapda-2023",
+"l0": true,
+"label": "UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)",
+"note": "Named in the Congressional Record entry for SA 797.",
+"sources": [
+{
+"date": "2023-07-13",
+"name": "Congressional Record, 13 July 2023, Text of Senate Amendment 797 (CREC-2023-07-13-pt1-PgS2953)",
+"url": "https://www.govinfo.gov/content/pkg/CREC-2023-07-13/html/CREC-2023-07-13-pt1-PgS2953.htm"
+}
+],
+"tier": "A",
+"type": "programmatic"
+}
+],
+"date": "2021-12-27",
+"dateEnd": null,
+"dateStart": "2021-12-27",
+"deg": 7,
+"denials": [],
+"domains": [
+"_rs-legislation",
+"congress-senate-legislation",
+"uaptf-aaro"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "kirsten-gillibrand",
+"instId": "us-senate",
+"l0": false,
+"label": "Kirsten E. Gillibrand",
+"loc": "Washington, DC",
+"locId": "l-dc",
+"members": null,
+"narrative": "Gillibrand built the statutory machine that everything else in this domain hangs off. Section 1683 of the FY2022 NDAA, P.L. 117-81, signed 27 December 2021 and codified at 50 U.S.C. 3373, ordered the Secretary of Defense and the DNI to stand up a permanent office to absorb the UAP Task Force, to force reporting into a centralized repository, and to report to Congress. It was restated a year later by Section 6802 of the Intelligence Authorization Act for FY2023, enacted inside P.L. 117-263 on 23 December 2022, which named the office the All-domain Anomaly Resolution Office, put its Director reporting to the Deputy Secretary of Defense and the Principal Deputy DNI, and at subsection (j) demanded a written historical record report on the United States Government's dealings with UAP built from intelligence community records, oral history interviews and interviews of current and former officials. In February 2023 Gillibrand and Rubio led sixteen senators demanding full funding for AARO, arguing it 'provides the opportunity to integrate and resolve threats and hazards to the U.S., while also offering increased transparency.' She was an original cosponsor of S.Amdt. 797 in July 2023. Her posture is different from Schumer's: she legislates the plumbing, not the seizure. It is her plumbing — Sections 1841-1843 of the FY2024 NDAA — that survived when Schumer's Review Board did not, and it is that surviving language she invoked on 8 May 2026 when the administration began releasing files, saying the government must 'finally meet its legal obligation to the American people.'",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Kirsten E. Gillibrand",
+"sources": [
+{
+"date": "2023-07-13",
+"name": "Congressional Record, 13 July 2023, Text of Senate Amendment 797 (CREC-2023-07-13-pt1-PgS2953)",
+"url": "https://www.govinfo.gov/content/pkg/CREC-2023-07-13/html/CREC-2023-07-13-pt1-PgS2953.htm"
+},
+{
+"date": "2021-12-27",
+"name": "P.L. 117-81, FY2022 NDAA — GPO",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-117publ81/html/PLAW-117publ81.htm"
+},
+{
+"date": "2022-12-23",
+"name": "P.L. 117-263, IAA FY2023 Sec. 6802/6803 — GPO",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-117publ263/html/PLAW-117publ263.htm"
+},
+{
+"date": "2023-02-16",
+"name": "Gillibrand & Rubio lead 16 senators on AARO funding",
+"url": "https://www.gillibrand.senate.gov/news/press/release/gillibrand-rubio-lead-16-senators-in-bipartisan-push-for-full-funding-of-their-unidentified-aerial-phenomena-office-to-address-airborne-national-security-risks/"
+},
+{
+"date": "2026-05-08",
+"name": "Gillibrand statement on release of UAP files",
+"url": "https://www.gillibrand.senate.gov/news/press/release/gillibrand-statement-on-release-of-uap-files/"
+},
+{
+"date": "2025-07-15",
+"name": "Gillibrand announces FY2026 defense bill wins",
+"url": "https://www.gillibrand.senate.gov/news/press/release/gillibrand-announces-fy2026-defense-bill-wins/"
+},
+{
+"date": "2023-04-19",
+"name": "Senate Armed Services - Hearing on the mission, activities, oversight, and budget of AARO",
+"url": "https://www.armed-services.senate.gov/hearings/to-receive-testimony-on-the-mission-activities-oversight-and-budget-of-the-all-domain-anomaly-resolution-office"
+},
+{
+"date": "2023-04-19",
+"name": "Congress.gov - S.Hrg. 118-648, The Mission, Activities, Oversight, and Budget of AARO",
+"url": "https://www.congress.gov/event/118th-congress/senate-event/LC74346/text"
+},
+{
+"date": "2024-11-19",
+"name": "Senate Armed Services - Hearing on the activities of AARO (19 Nov 2024)",
+"url": "https://www.armed-services.senate.gov/hearings/to-receive-testimony-on-the-activities-of-the-all-domain-anomaly-resolution-office"
+},
+{
+"date": "2023-04-19",
+"name": "Sen. Gillibrand - Opening statement at Senate hearing on UAP",
+"url": "https://www.gillibrand.senate.gov/news/press/release/video-gillibrand-opening-statement-at-senate-hearing-on-unidentified-anomalous-phenomena"
+}
+],
+"status": "active",
+"sub": "D-NY; author of Sec. 1683, FY2022 NDAA (50 U.S.C. 3373)",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 198 of 1027, score 43). 7 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A2/D3.",
+"timeline": [
+{
+"date": "2023-02-16",
+"id": "cl-2023-02-16",
+"label": "Sixteen senators demand full AARO funding",
+"precision": "day",
+"strand": "oversight",
+"text": "Gillibrand and Rubio lead fourteen colleagues insisting AARO receive the amount in the classified attachment, arguing the office offers 'increased transparency to the American people.'",
+"tier": "B"
+}
+],
+"unexplainedResidual": null,
+"unverified": []
+}

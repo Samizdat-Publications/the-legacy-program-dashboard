@@ -1,0 +1,160 @@
+{
+"A": 2,
+"C": 1,
+"D": 0,
+"band": null,
+"claims": [
+{
+"source": "DoD Directive 5210.42, 25 May 1993, sections A and B, DTIC AD-A271698, https://archive.org/download/DTIC_ADA271698/DTIC_ADA271698_djvu.txt",
+"text": "Scope and purpose: the directive applies to 'DoD military and civilian personnel and contractor employees assigned to PRP positions or in training leading to assignment to PRP positions', and exists to 'ensure the highest possible standards of individual reliability in personnel performing duties associated with nuclear weapons and critical components.'",
+"tier": 1
+},
+{
+"source": "DoD Directive 5210.42, 25 May 1993, enclosure 4, DTIC AD-A271698, https://archive.org/download/DTIC_ADA271698/DTIC_ADA271698_djvu.txt",
+"text": "Disqualification reaches demeanour, not only conduct. Under 'Poor Attitude or Lack of Motivation' the directive lists 'aberrant attitude (arrogance, inflexibility, or suspiciousness), behavior (impulsiveness, destructiveness, or suicide threats), or mood (unusual happiness, sadness, or agitation).'",
+"tier": 1
+},
+{
+"source": "DoD Directive 5210.42, 25 May 1993, enclosure 4, DTIC AD-A271698, https://archive.org/download/DTIC_ADA271698/DTIC_ADA271698_djvu.txt",
+"text": "The medical file is open to the chain without consent: 'medical records may be disclosed to reviewing and certifying officials for this purpose without either a request from, or the consent of, the individuals to whom those records pertain', and the health record is 'marked to reflect assignment of an individual to a PRP position'.",
+"tier": 1
+},
+{
+"source": "DoD Directive 5210.42, 25 May 1993, enclosure 4, DTIC AD-A271698, https://archive.org/download/DTIC_ADA271698/DTIC_ADA271698_djvu.txt",
+"text": "The programme runs on self-reporting and peer review. The certifying official's personal interview must inform the individual of 'the individual's responsibility for self-reporting and peer review of factors and situations that could adversely affect job performance or reliability.'",
+"tier": 1
+},
+{
+"source": "American Alchemy, episode with Mario Woods, 02;41 to 03;36 and 59;33 to 1:00;25; and the Michael Shermer episode of 9 July 2026, 0:13:03",
+"text": "Speakers on the American Alchemy corpus describe PRP as a reason nuclear-site personnel did not report what they saw, and attach a figure of 167 to it. The 167 is Robert Hastings's count of nuclear-base witnesses, not a count of PRP personnel; no opened record supports either the figure or the reporting claim, and the directive contains no provision about reporting aerial phenomena.",
+"tier": 2
+}
+],
+"cls": "program",
+"cluster": "oversight",
+"connections": [
+{
+"claimTier": 3,
+"cls": "domain",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "The administrative alternative to classification",
+"id": "d-secrecy",
+"l0": false,
+"label": "Secrecy Law & Classification",
+"note": "The board's suppression argument usually runs through classification; PRP is the administrative alternative, a published rule that can remove a person from his job without any classification decision at all.",
+"sources": [
+{
+"date": "1993-05-25",
+"name": "DoD Directive 5210.42, 25 May 1993, DTIC AD-A271698",
+"url": "https://archive.org/download/DTIC_ADA271698/DTIC_ADA271698_djvu.txt"
+}
+],
+"tier": "B",
+"type": "programmatic"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "1993-05-25",
+"direction": "out",
+"edgeLabel": "Issued under ASD(C3I) authority and binding on every DoD component",
+"id": "dod",
+"l0": true,
+"label": "United States Department of Defense (secondary designation: Department of War)",
+"note": "The directive is issued under the authority of the Assistant Secretary of Defense (C3I) and binds every DoD component.",
+"sources": [
+{
+"date": "1993-05-25",
+"name": "DoD Directive 5210.42, 25 May 1993, DTIC AD-A271698",
+"url": "https://archive.org/download/DTIC_ADA271698/DTIC_ADA271698_djvu.txt"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 2,
+"cls": "location",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "A nuclear weapons installation inside the directive's stated scope",
+"id": "l-malmstrom",
+"l0": false,
+"label": "Malmstrom AFB and Minuteman Missile Fields, Montana",
+"note": "A nuclear weapons installation whose crews fall inside the directive's stated scope of personnel assigned to PRP positions.",
+"sources": [
+{
+"date": "1993-05-25",
+"name": "DoD Directive 5210.42, 25 May 1993, DTIC AD-A271698",
+"url": "https://archive.org/download/DTIC_ADA271698/DTIC_ADA271698_djvu.txt"
+}
+],
+"tier": "C",
+"type": "geographic"
+},
+{
+"claimTier": 3,
+"cls": "person",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "The administrative regime his testimony was given against",
+"id": "robert-salas",
+"l0": false,
+"label": "Capt. Robert L. Salas",
+"note": "Salas was a missile combat crew commander at a PRP site; the programme is the administrative regime his testimony was given against, which is an inference from the directive's scope and not a statement about him.",
+"sources": [
+{
+"date": "1993-05-25",
+"name": "DoD Directive 5210.42, 25 May 1993, DTIC AD-A271698",
+"url": "https://archive.org/download/DTIC_ADA271698/DTIC_ADA271698_djvu.txt"
+}
+],
+"tier": "B",
+"type": "witness-chain"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "1985-12-06",
+"deg": 4,
+"denials": [],
+"desc": "The published rule that decides whether a person on a nuclear weapons site keeps his access, and the reason the board can treat 'they were afraid to report' as something other than an anecdote. The directive opened here is the 25 May 1993 edition, distribution unlimited, which reissues an edition of 6 December 1985; the current manual could not be reached from this environment and nothing here should be read as describing it. Its force for this board is not what it says about UFOs, which is nothing, but what it says about who may find a person unreliable and on what evidence: a non-medical certifying official, with access to the individual's medical record without his consent, may act on 'aberrant behavior' or on mood described as unusual happiness, sadness or agitation. Every witness at a nuclear site whose testimony this board carries was subject to a rule of that shape. Two things the corpus attaches to the programme are not in the directive: the duty to report an over-the-counter analgesic, and the figure 167, which is Robert Hastings's count of nuclear-base witnesses rather than a count of PRP personnel.",
+"domains": [
+"michels-2026-09-02"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "1",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "prp-nuclear-weapon",
+"l0": false,
+"label": "DoD Nuclear Weapon Personnel Reliability Program (DoD Directive 5210.42)",
+"locLabel": null,
+"members": null,
+"short": "DoD Nuclear Weapon Personnel Reliability Program (DoD Directive 5210.42)",
+"sources": [
+{
+"date": "1993-05-25",
+"name": "DoD Directive 5210.42, Nuclear Weapon Personnel Reliability Program (PRP), 25 May 1993, DTIC accession AD-A271698",
+"url": "https://archive.org/download/DTIC_ADA271698/DTIC_ADA271698_djvu.txt"
+},
+{
+"date": null,
+"name": "DoD Directive 5210.42 through Change 2, FAS transcription",
+"url": "https://nuke.fas.org/guide/usa/doctrine/dod/dodd-5210_42.htm"
+}
+],
+"sub": "DoDD 5210.42, 25 May 1993, ASD(C3I); reissues the directive of 6 December 1985",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 365 of 1027, score 34). 4 connections, 2 of them custody/witness/funding/programmatic. Axes C1/A2/D0.",
+"timeline": []
+}

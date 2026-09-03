@@ -1,0 +1,87 @@
+{
+"A": 3,
+"C": 1,
+"D": 0,
+"band": null,
+"claims": [
+{
+"source": "S. 2103, Intelligence Authorization Act for FY2024 as reported by SSCI, 22 June 2023",
+"text": "S. 2103 Sec. 1104 would have withheld funds for propulsion technology 'based on or derived from or inspired by inspection, analysis, or reverse engineering of recovered unidentified anomalous phenomena craft or materials,' and for any aerospace craft using propulsion other than chemical, solar or electric ion thrust.",
+"tier": 1
+},
+{
+"source": "USAspending.gov recipient search, retrieved 12 August 2026",
+"text": "USAspending records approximately $8.7 billion in prime contract obligations to Aerojet Rocketdyne entities since FY2008.",
+"tier": 1
+}
+],
+"cls": "institution",
+"cluster": "contractor",
+"connections": [
+{
+"claimTier": 1,
+"cls": "legislation",
+"dateEnd": "2023",
+"dateStart": "2023",
+"direction": "in",
+"edgeLabel": "The provision named derived propulsion work as a defunding category",
+"id": "iaa-fy2024-sec1104",
+"l0": false,
+"label": "S. 2103 Sec. 1104 - SSCI contractor disclosure and immunity provision (stripped)",
+"note": "Sec. 1104(c) targets propulsion 'based on or derived from or inspired by inspection, analysis, or reverse engineering of recovered unidentified anomalous phenomena craft or materials,' and any aerospace craft using propulsion other than chemical, solar or electric ion thrust.",
+"sources": [
+{
+"date": "2023-06-22",
+"name": "S. 2103, Intelligence Authorization Act for Fiscal Year 2024, as reported by the Senate Select Committee on Intelligence (Sec. 1104)",
+"url": "https://www.govinfo.gov/content/pkg/BILLS-118s2103rs/html/BILLS-118s2103rs.htm"
+}
+],
+"tier": "C",
+"type": "legislative"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "1942",
+"deg": 1,
+"denials": [],
+"desc": "Aerojet Rocketdyne is the American propulsion house - solid and liquid rocket motors, hypersonic and advanced propulsion research - and propulsion is the specific technical category the Senate Intelligence Committee legislated about in 2023. Section 1104 of the reported Intelligence Authorization Act for FY2024 would have cut off funds for 'the development of propulsion technology, or aerospace craft that uses propulsion technology, systems, or subsystems, that is based on or derived from or inspired by inspection, analysis, or reverse engineering of recovered unidentified anomalous phenomena craft or materials,' and for 'any aerospace craft that uses propulsion technology other than chemical propellants, solar power, or electric ion thrust.' A Senate committee does not write that sentence about a category it believes to be empty. USAspending records roughly $8.7 billion in prime contract obligations to Aerojet entities since FY2008. The company was acquired by L3Harris in 2023, moving its propulsion portfolio and its historical records into a new corporate parent. No witness has named Aerojet Rocketdyne as a custodian of material; it is on the board as the industrial location where the legislated category of derived propulsion work would necessarily sit.",
+"domains": [
+"primes-custody"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "aerojet-rocketdyne",
+"l0": false,
+"label": "Aerojet Rocketdyne",
+"locLabel": null,
+"members": null,
+"short": "Aerojet Rocketdyne",
+"sources": [
+{
+"date": "2023-06-22",
+"name": "S. 2103, Intelligence Authorization Act for Fiscal Year 2024, as reported by the Senate Select Committee on Intelligence (Sec. 1104)",
+"url": "https://www.govinfo.gov/content/pkg/BILLS-118s2103rs/html/BILLS-118s2103rs.htm"
+},
+{
+"date": "2026-08-12",
+"name": "USAspending.gov federal award search (prime contract obligations by recipient)",
+"url": "https://www.usaspending.gov/search"
+},
+{
+"date": "2023-06-24",
+"name": "Christopher Sharp, 'Senate Intelligence Committee Proposes Amnesty to Defense Contractors for Disclosure of Non-Earth Origin or Exotic Materials,' Liberation Times",
+"url": "https://www.liberationtimes.com/home/senate-intelligence-committee-proposes-amnesty-to-defense-contractors-for-disclosure-of-non-earth-origin-or-exotic-materials-in-approved-ufo-language"
+}
+],
+"sub": "Propulsion prime; acquired by L3Harris in 2023",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 759 of 1027, score 20). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A3/D0.",
+"timeline": []
+}

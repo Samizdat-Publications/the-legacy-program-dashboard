@@ -1,0 +1,103 @@
+{
+"A": 1,
+"C": 2,
+"D": 3,
+"affiliations": [],
+"age": null,
+"band": null,
+"chronology": [],
+"claims": [
+{
+"source": "https://www.appropriations.senate.gov/subcommittees/defense",
+"text": "Christopher A. Coons (D-DE) is listed as Ranking Member of the Defense Subcommittee of the Senate Appropriations Committee on the subcommittee's official page.",
+"tier": 1
+},
+{
+"source": "https://www.appropriations.senate.gov/subcommittees/defense",
+"text": "The published jurisdiction of the Senate Appropriations Defense Subcommittee includes the Central Intelligence Agency, the Defense Intelligence Agency, the National Reconnaissance Office, the National Security Agency and the National Geospatial and Intelligence Agency alongside the military departments.",
+"tier": 1
+}
+],
+"cls": "person",
+"cluster": "oversight",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "seat 6 of 12 - Ranking Member, Senate Appropriations Defense Subcommittee",
+"id": "waived-sap-notification-group",
+"l0": true,
+"label": "Waived SAP Notification Group",
+"note": "As ranking member of the Defense Subcommittee of Senate Appropriations he holds one of the twelve seats. 10 U.S.C. 119(g) names that subcommittee separately from the full Appropriations Committee, which is precisely why the count is twelve and not eight. The subcommittee's published jurisdiction includes the CIA, DIA and NSA.",
+"sources": [
+{
+"date": "2026-08-22",
+"name": "U.S. Senate, Dates of Sessions of the Congress (convening dates: 111th 6 Jan 2009, 118th 3 Jan 2023, 119th 3 Jan 2025)",
+"url": "https://www.senate.gov/legislative/DatesofSessionsofCongress.htm"
+},
+{
+"date": null,
+"name": "appropriations.senate.gov",
+"url": "https://www.appropriations.senate.gov/subcommittees/defense"
+}
+],
+"tier": "A",
+"type": "institutional"
+}
+],
+"date": "2025-01-03",
+"dateEnd": null,
+"dateStart": "2025-01-03",
+"deg": 1,
+"denials": [],
+"domains": [
+"w9-waived-sap-group"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "chris-coons",
+"instId": null,
+"l0": false,
+"label": "Christopher A. Coons",
+"loc": null,
+"locId": null,
+"members": null,
+"narrative": "Coons is the ranking minority member of the Senate Appropriations Defense Subcommittee and therefore the twelfth-listed of the twelve statutory recipients on the Senate side. His entitlement under 10 U.S.C. 119(e)(2) is identical in scope to the chairman's: the withheld report information and the Secretary of Defense's justification for the waiver go to chair and ranking jointly, not to the chair alone. The joint character of the notification is a deliberate anti-capture feature of the statute and should be represented on the board as such - a waived-SAP notification cannot lawfully be given to one party's leadership only. What Coons does not have is any statutory right to widen the circle. Nothing in section 119 permits him to brief the rest of his subcommittee, and unlike his counterparts on the intelligence committees under 50 U.S.C. 3093(g), he has no assurance that his non-leadership colleagues will even be told that a limited notification occurred. Coons has no publicly documented UAP-specific record. His subcommittee's jurisdiction, as published by the Senate Appropriations Committee, extends across the Central Intelligence Agency, the National Reconnaissance Office, the National Security Agency, the Defense Intelligence Agency and the National Geospatial-Intelligence Agency in addition to the military departments, which makes the Defense Subcommittee seats unusually broad in practice relative to their narrow statutory description.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Christopher A. Coons",
+"sources": [
+{
+"date": "2026-08-22",
+"name": "U.S. Senate, Dates of Sessions of the Congress (convening dates: 111th 6 Jan 2009, 118th 3 Jan 2023, 119th 3 Jan 2025)",
+"url": "https://www.senate.gov/legislative/DatesofSessionsofCongress.htm"
+},
+{
+"date": null,
+"name": "https://www.appropriations.senate.gov/subcommittees/defense",
+"url": "https://www.appropriations.senate.gov/subcommittees/defense"
+},
+{
+"date": null,
+"name": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim",
+"url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim"
+}
+],
+"status": "active",
+"sub": "Ranking Member, Defense Subcommittee of the Senate Appropriations Committee (119th Congress, serving August 2026)",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 641 of 1027, score 24). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A1/D3.",
+"timeline": [],
+"unexplainedResidual": null,
+"unverified": []
+}

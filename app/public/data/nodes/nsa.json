@@ -1,0 +1,376 @@
+{
+"A": 3,
+"C": 1,
+"D": 1,
+"band": "disclosure",
+"claims": [
+{
+"source": "CAUS v. NSA, D.C. Circuit (1981); cert. denied (1982)",
+"text": "In Citizens Against UFO Secrecy v. National Security Agency (Civil Action No. 80-1562), NSA withheld its UFO-related holdings in full and supported the withholding with an in camera affidavit by Eugene F. Yeates, Chief of NSA's Office of Policy; the D.C. Circuit affirmed in 1981 and the Supreme Court denied certiorari in 1982.",
+"tier": 1
+},
+{
+"source": "ODNI Preliminary Assessment, 25 June 2021",
+"text": "NSA is named among the contributing elements to ODNI's 25 June 2021 Preliminary Assessment on UAP.",
+"tier": 1
+},
+{
+"source": "Inference from the procedural posture of CAUS v. NSA",
+"text": "The Yeates affidavit establishes, as a matter of adjudicated fact rather than allegation, that a US intelligence agency held a body of UFO material whose mere description was deemed to require classification. Reasoning: the courts sustained the withholding on the basis of the in camera showing, which necessarily means a showing of substantive content existed.",
+"tier": 3
+}
+],
+"cls": "institution",
+"cluster": "other",
+"connections": [
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "1981",
+"dateStart": "1977-07-05",
+"direction": "in",
+"edgeLabel": "Director of the National Security Agency from 5 July 1977",
+"id": "bobby-ray-inman",
+"l0": false,
+"label": "Adm. Bobby Ray Inman",
+"note": "Director of the National Security Agency from 5 July 1977, stated by him under oath at his 1981 confirmation hearing.",
+"sources": [
+{
+"date": "1981-02-03",
+"name": "Nomination of Admiral B.R. Inman to be Deputy Director of Central Intelligence, Senate Select Committee on Intelligence, 3 February 1981",
+"url": "https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-hearings-97inman.pdf"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": "1982",
+"dateStart": "1980",
+"direction": "out",
+"edgeLabel": "NSA withheld its UFO holdings in full and won on an in camera affidavit",
+"id": "caus-v-nsa",
+"l0": false,
+"label": "Citizens Against UFO Secrecy v. National Security Agency (Civil Action No. 80-1562)",
+"note": "NSA located responsive material, withheld it entirely, and supported the withholding with a classified affidavit by Eugene F. Yeates. The D.C. Circuit affirmed in 1981; certiorari was denied in 1982.",
+"sources": [
+{
+"date": "1981-11-03",
+"name": "Citizens Against UFO Secrecy v. NSA, D.C. Circuit (CourtListener)",
+"url": "https://www.courtlistener.com/opinion/400210/citizens-against-ufo-secrecy-v-nation-security-age/"
+}
+],
+"tier": "B",
+"type": "denial"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "1980",
+"direction": "in",
+"edgeLabel": "Chief of NSA's Office of Policy; executed the 1980 in camera affidavit",
+"id": "eugene-yeates",
+"l0": false,
+"label": "Eugene F. Yeates",
+"note": "The Yeates affidavit is the operative document by which a US intelligence agency established in court that it held UFO material it could not describe publicly.",
+"sources": [
+{
+"date": "1981-11-03",
+"name": "Citizens Against UFO Secrecy v. NSA, D.C. Circuit (CourtListener)",
+"url": "https://www.courtlistener.com/opinion/400210/citizens-against-ufo-secrecy-v-nation-security-age/"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": "1978",
+"dateStart": "1978",
+"direction": "in",
+"edgeLabel": "US NSA holds a contemporaneous assessment of GEPAN's 1978 report",
+"id": "gepan",
+"l0": false,
+"label": "GEPAN - Groupe d'Étude des Phénomènes Aérospatiaux Non-identifiés",
+"note": "A document in the NSA's declassified UFO collection assesses the June 1978 GEPAN report and states that its methods make 'the bulk of the Condon Report seem very poor by comparison'.",
+"sources": [
+{
+"date": "2024-02-24",
+"name": "NSA declassified UFO collection",
+"url": "https://web.archive.org/web/20240224094347/https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/french_gov_ufo_study.pdf"
+}
+],
+"tier": "C",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2025-04-24",
+"direction": "out",
+"edgeLabel": "Produced no records for the first statutory UAP transfer",
+"id": "nara-uap-collection",
+"l0": true,
+"label": "National Archives Unidentified Anomalous Phenomena Records Collection",
+"note": "NARA's 24 April 2025 release named only ODNI, OSD, the FAA and the Nuclear Regulatory Commission. NSA, which holds documented UAP equity, transferred nothing.",
+"sources": [
+{
+"date": "2025-04-24",
+"name": "National Archives press release nr25-07",
+"url": "https://www.archives.gov/press/press-releases/2025/nr25-07"
+}
+],
+"tier": "A",
+"type": "denial"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2021-06-25",
+"direction": "out",
+"edgeLabel": "Named contributor to the 2021 ODNI Preliminary Assessment on UAP",
+"id": "odni",
+"l0": true,
+"label": "Office of the Director of National Intelligence",
+"note": "ODNI's 25 June 2021 assessment names NSA among the contributing elements, establishing that this agency produced or held UAP-relevant reporting.",
+"sources": [
+{
+"date": "2021-06-25",
+"name": "ODNI, Preliminary Assessment: Unidentified Aerial Phenomena",
+"url": "https://archive.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 2,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "Released by NSA with its declassification markings on the pages",
+"id": "ukusa-agreement-1946",
+"l0": false,
+"label": "British-U.S. Communication Intelligence Agreement (UKUSA), 5 March 1946",
+"note": "The pages carry the NSA declassification exemption marking NSA25X6 with EO 1.4.(d), and the copy opened comes from a mirror of the National Security Agency's UKUSA release. NSA did not exist in 1946; STANCIB was the United States party. The claim that NSA and GCHQ released the file jointly in 2010 was not verified from any record opened by this pass.",
+"sources": [
+{
+"date": "1946-03-05",
+"name": "Outline of British-U.S. Communication Intelligence Agreement, page markings",
+"url": "https://documents.theblackvault.com/documents/ukusa/agreement_outline_5mar46.pdf"
+}
+],
+"tier": "B",
+"type": "institutional"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "1952-11-04",
+"deg": 7,
+"denials": [
+{
+"by": {
+"id": "nsa",
+"label": "National Security Agency"
+},
+"claimTier": 1,
+"denialKind": "directed",
+"label": "NSA withheld its UFO holdings in full and won on an in camera affidavit",
+"note": "NSA located responsive material, withheld it entirely, and supported the withholding with a classified affidavit by Eugene F. Yeates. The D.C. Circuit affirmed in 1981; certiorari was denied in 1982.",
+"of": {
+"id": "caus-v-nsa",
+"label": "Citizens Against UFO Secrecy v. National Security Agency (Civil Action No. 80-1562)"
+},
+"sources": [
+{
+"date": "1981-11-03",
+"name": "Citizens Against UFO Secrecy v. NSA, D.C. Circuit (CourtListener)",
+"url": "https://www.courtlistener.com/opinion/400210/citizens-against-ufo-secrecy-v-nation-security-age/"
+}
+]
+},
+{
+"by": {
+"id": "nsa",
+"label": "National Security Agency"
+},
+"claimTier": 1,
+"denialKind": "directed",
+"label": "Produced no records for the first statutory UAP transfer",
+"note": "NARA's 24 April 2025 release named only ODNI, OSD, the FAA and the Nuclear Regulatory Commission. NSA, which holds documented UAP equity, transferred nothing.",
+"of": {
+"id": "nara-uap-collection",
+"label": "National Archives Unidentified Anomalous Phenomena Records Collection"
+},
+"sources": [
+{
+"date": "2025-04-24",
+"name": "National Archives press release nr25-07",
+"url": "https://www.archives.gov/press/press-releases/2025/nr25-07"
+}
+]
+}
+],
+"desc": "NSA was established on 4 November 1952 by a classified memorandum from President Truman, and like the NRO it spent its early decades as an agency whose name the government preferred not to confirm. Its place in the UAP record is defined by a single piece of litigation that is still the most instructive FOIA case in the field. In Citizens Against UFO Secrecy v. National Security Agency, Civil Action No. 80-1562 in the District Court for the District of Columbia, CAUS sought NSA's UFO holdings; NSA responded by locating a body of responsive material and withholding it in its entirety, supporting the withholding with a classified in camera affidavit executed by Eugene F. Yeates, Chief of NSA's Office of Policy. The public version of the Yeates affidavit was released only in heavily redacted form - the district court reviewed the full text ex parte, the D.C. Circuit affirmed in 1981, and the Supreme Court denied certiorari in 1982. The operative fact is not that NSA won; it is what NSA's own filings conceded in order to win: that the Agency held UFO-related documents, that they were classified, and that the number and nature of them could not be disclosed even to a federal judge in open session. NSA has since released a set of these documents in redacted form, and it appears among the contributing elements listed in ODNI's June 2021 Preliminary Assessment on UAP - confirming that NSA signals collection continues to produce UAP-relevant reporting four decades after it told a court it could not describe what it held.",
+"domains": [
+"_rs-archive-mirror",
+"w2-agencies"
+],
+"dossier": {
+"claims": [
+{
+"source": "Citizens Against UFO Secrecy v. National Security Agency, U.S. Court of Appeals for the D.C. Circuit, https://www.courtlistener.com/opinion/400210/citizens-against-ufo-secrecy-v-nation-security-age/",
+"text": "In Citizens Against UFO Secrecy v. National Security Agency, Civil Action No. 80-1562, NSA withheld its UFO-related holdings in full and supported the withholding with an in camera affidavit by Eugene F. Yeates, Chief of NSA's Office of Policy; the D.C. Circuit affirmed in 1981.",
+"tier": 1
+},
+{
+"source": "Citizens Against UFO Secrecy v. National Security Agency, cert. denied, https://www.courtlistener.com/opinion/9037778/citizens-against-ufo-secrecy-v-national-security-agency/",
+"text": "The Supreme Court denied certiorari in the same case in 1982.",
+"tier": 1
+},
+{
+"source": "ODNI, Preliminary Assessment: Unidentified Aerial Phenomena, 25 June 2021, https://archive.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf",
+"text": "NSA is named among the contributing elements to ODNI's 25 June 2021 Preliminary Assessment on UAP.",
+"tier": 1
+},
+{
+"source": "National Archives press release nr25-07, 24 April 2025, https://www.archives.gov/press/press-releases/2025/nr25-07",
+"text": "The National Archives release of 24 April 2025, the first transfer into the statutory UAP records collection, named only ODNI, the Office of the Secretary of Defense, the FAA and the Nuclear Regulatory Commission. NSA transferred nothing.",
+"tier": 1
+},
+{
+"source": "NSA declassified UFO collection, assessment of the French government UFO study, https://web.archive.org/web/20240224094347/https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/french_gov_ufo_study.pdf",
+"text": "A document in NSA's declassified UFO collection assesses the June 1978 GEPAN report and states that its methods make 'the bulk of the Condon Report seem very poor by comparison'.",
+"tier": 1
+},
+{
+"source": "Inference from the procedural posture of CAUS v. NSA",
+"text": "The Yeates affidavit establishes, as a matter of adjudicated fact rather than allegation, that a US intelligence agency held a body of UFO material whose mere description was deemed to require classification, since the courts sustained the withholding on the basis of an in camera showing that necessarily had substantive content.",
+"tier": 3
+}
+],
+"connections": [
+"Directed denial on caus-v-nsa: the holdings were withheld in full on the Yeates affidavit.",
+"eugene-yeates was Chief of the Office of Policy and executed that affidavit.",
+"Directed denial on nara-uap-collection: no records transferred in the first statutory release.",
+"Named by odni as a contributing element to the 2021 Preliminary Assessment.",
+"Holds a contemporaneous assessment of gepan's June 1978 report in its declassified collection.",
+"bobby-ray-inman directed the Agency from 5 July 1977, stated by him under oath at his 1981 confirmation hearing."
+],
+"denialPosture": "Two directed denials are recorded on this node and both are refusals to describe rather than assertions that nothing exists. In court the Agency said it had located responsive material and would not characterise it, and won on a showing no member of the public has seen. In 2025 it returned nothing to a statutory records collection built for exactly this subject, while four other bodies returned something. Neither event is NSA saying UAP are not real; both are NSA saying the question of what it holds is not answerable in the open. That is the more informative posture of the two, because it is falsifiable in principle and has never been falsified in practice.",
+"narrative": "The three dated events read as one posture held across four decades, and each is a document rather than an allegation.\n\nIn 1980 the Agency answered a FOIA suit by conceding that responsive material existed and refusing to characterise it. The Yeates affidavit is the instrument by which a United States intelligence agency established in court that it held UFO material it could not describe publicly, and the public version of that affidavit was released only in heavily redacted form. On this board the resulting edge is graded a directed denial with NSA named as its issuer, because a refusal to describe is a dated, signed, attributable act by the refuser.\n\nIn 2021 ODNI's Preliminary Assessment listed NSA among the contributing elements, which is the government saying in its own publication that NSA collection produces UAP-relevant reporting. In 2025 the National Archives announced the first transfer under the statutory UAP records scheme and named only ODNI, the Office of the Secretary of Defense, the FAA and the Nuclear Regulatory Commission. An agency with documented equity in the subject produced nothing, and the board carries that null return as the second directed denial on this node.\n\nThe Agency's own declassified collection contains one document worth naming for a different reason. It assesses the June 1978 GEPAN report and says that GEPAN's methods make 'the bulk of the Condon Report seem very poor by comparison'. That is a signals agency, in an internal assessment, grading the United States government's own public explanation as the weaker piece of work.",
+"openQuestions": [
+"The number and nature of the documents NSA located in the CAUS litigation have never been disclosed. The public version of the Yeates affidavit is heavily redacted and the full text was seen only by the court.",
+"Whether NSA was asked for records under the statutory UAP collection and declined, or was never tasked, is not established. The National Archives release names who transferred, not who was approached.",
+"The GEPAN assessment is carried here from a Wayback capture of nsa.gov. Web.archive.org is unreachable from the build environment, so that capture cannot be re-opened from here to confirm the wording independently."
+],
+"roles": [
+"concealment",
+"disclosure"
+],
+"whatItIs": "The National Security Agency, established on 4 November 1952 by a classified memorandum from President Truman, and like the National Reconnaissance Office an agency whose name the government preferred for decades not to confirm. Its place in this record is defined by one piece of litigation, Citizens Against UFO Secrecy v. National Security Agency, Civil Action No. 80-1562 in the District Court for the District of Columbia, and by two later events: its appearance among the contributing elements of ODNI's Preliminary Assessment of 25 June 2021, and its absence from the first statutory transfer of UAP records to the National Archives on 24 April 2025.",
+"whyImplicated": "The operative fact is not that NSA won the case; it is what NSA conceded in order to win it. The Agency located a body of responsive material, withheld it in its entirety, and supported the withholding with a classified in camera affidavit executed by Eugene F. Yeates, Chief of the Office of Policy. The district court reviewed the full text ex parte, the D.C. Circuit affirmed in 1981 and the Supreme Court denied certiorari in 1982. What survives on the public record is therefore an adjudicated position that the Agency held UFO-related documents, that they were classified, and that their number and nature could not be described in open session. Forty years later ODNI named NSA among the elements contributing to the 2021 assessment, which places continuing signals-intelligence equity in the subject. Four years after that, NSA transferred nothing to the National Archives collection built for it."
+},
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "nsa",
+"l0": true,
+"label": "National Security Agency",
+"locLabel": null,
+"members": [
+{
+"cls": "person",
+"id": "bobby-ray-inman",
+"label": "Adm. Bobby Ray Inman",
+"tier": "B"
+},
+{
+"cls": "event",
+"id": "caus-v-nsa",
+"label": "Citizens Against UFO Secrecy v. National Security Agency (Civil Action No. 80-1562)",
+"tier": "B"
+},
+{
+"cls": "person",
+"id": "eugene-yeates",
+"label": "Eugene F. Yeates",
+"tier": "C"
+},
+{
+"cls": "program",
+"id": "gepan",
+"label": "GEPAN - Groupe d'Étude des Phénomènes Aérospatiaux Non-identifiés",
+"tier": "C"
+},
+{
+"cls": "document",
+"id": "ukusa-agreement-1946",
+"label": "British-U.S. Communication Intelligence Agreement (UKUSA), 5 March 1946",
+"tier": "B"
+}
+],
+"short": "National Security Agency",
+"sources": [
+{
+"date": "2026-08-11",
+"name": "Archived: ODNI, Preliminary Assessment: Unidentified Aerial Phenomena (Wayback 2026-08-11)",
+"url": "https://web.archive.org/web/20260811010946/https://archive.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf"
+},
+{
+"date": "2016-09-10",
+"name": "UFOs: The National Security Agency (NSA) Collection, incl. Yeates Affidavit and CAUS v. NSA litigation records (The Black Vault)",
+"url": "https://www.theblackvault.com/documentarchive/ufos-the-national-security-agency-nsa-collection/"
+},
+{
+"date": "1981-11-03",
+"name": "Citizens Against UFO Secrecy v. National Security Agency, U.S. Court of Appeals for the D.C. Circuit (CourtListener)",
+"url": "https://www.courtlistener.com/opinion/400210/citizens-against-ufo-secrecy-v-nation-security-age/"
+},
+{
+"date": "1982-03-08",
+"name": "Citizens Against UFO Secrecy v. National Security Agency, cert. denied (CourtListener)",
+"url": "https://www.courtlistener.com/opinion/9037778/citizens-against-ufo-secrecy-v-national-security-agency/"
+},
+{
+"date": "2021-06-25",
+"name": "ODNI, Preliminary Assessment: Unidentified Aerial Phenomena",
+"url": "https://archive.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf"
+}
+],
+"sub": "Signals intelligence and cybersecurity agency; established 4 November 1952 by classified presidential memorandum",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 288 of 1027, score 37). 7 connections, 0 of them custody/witness/funding/programmatic, 2 official denials recorded against it. Axes C1/A3/D1.",
+"timeline": [
+{
+"date": "1952-11-04",
+"id": "ag-tl-1952-nsa",
+"label": "NSA established by classified presidential memorandum",
+"precision": "day",
+"strand": "program",
+"text": "Truman creates the National Security Agency by a memorandum that is itself classified - the first of the two agencies on this board whose existence was a secret.",
+"tier": "A"
+},
+{
+"date": "1981-11-03",
+"id": "ag-tl-1981-causaff",
+"label": "D.C. Circuit affirms NSA's total withholding",
+"precision": "day",
+"strand": "coverup",
+"text": "The Court of Appeals sustains the withholding on the classified showing; the Supreme Court denies certiorari on 8 March 1982. A federal court has now confirmed that a US intelligence agency holds UFO material it cannot describe in public.",
+"tier": "A"
+}
+]
+}

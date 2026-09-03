@@ -1,0 +1,228 @@
+{
+"A": 2,
+"C": 1,
+"D": 1,
+"band": null,
+"claims": [
+{
+"source": "GAO-03-825R, Military Space Operations, 2 June 2003, govinfo, https://www.govinfo.gov/content/pkg/GAOREPORTS-GAO-03-825R/html/GAOREPORTS-GAO-03-825R.htm",
+"text": "GAO's description of the system and its dates: DSP is 'a strategic surveillance and warning satellite system with an infrared capability to detect ballistic missile launches', the programme commenced in 1967, the first operational satellite was deployed in 1971, the most recent launch was August 2001, and it 'provides near real-time detection information in support of DOD's integrated tactical warning and attack assessment (ITW/AA) mission'.",
+"tier": 1
+},
+{
+"source": "GAO-03-825R, Military Space Operations, 2 June 2003, and GAO/NSIAD-94-253, 16 August 1994, govinfo, https://www.govinfo.gov/content/pkg/GAOREPORTS-GAO-03-825R/html/GAOREPORTS-GAO-03-825R.htm",
+"text": "Replacement history: 'The SBIRS-High program is focused on replacing DSP', after the earlier Advanced Warning System, Follow-On Early Warning System and Alert, Locate, and Report Missiles programmes were abandoned as too expensive or technologically immature.",
+"tier": 1
+},
+{
+"source": "USNORTHCOM FOIA response, case FY14-19NOV2013-07, on a request of 19 November 2013, The Black Vault, https://documents.theblackvault.com/documents/ufos/fastwalkers/FY14-19NOV2013-07.pdf",
+"text": "A named command confirmed responsive records on the designation and withheld all of them: 'After performing a search of our systems of records we found two responsive USNORTHCOM documents. Upon review of the responsive documents we have determined that they are currently and properly classified in accordance with Executive Order 13526, section 1.4c and should remain exempt from public disclosure under the FOIA exemption (b)(1).'",
+"tier": 1
+},
+{
+"source": "USNORTHCOM FOIA response, case FY14-19NOV2013-07, The Black Vault, https://documents.theblackvault.com/documents/ufos/fastwalkers/FY14-19NOV2013-07.pdf",
+"text": "The same letter refuses to search a second command's holdings on structural grounds: 'Additionally, NORAD is exempt from FOIA requests as a bi-national organization; therefore no search was conducted for responsive NORAD documents.'",
+"tier": 1
+},
+{
+"source": "John Greenewald, 'Space Force Says Documents on \"Fastwalkers\" and \"Slowwalkers\" All \"Exempt from Disclosure\"', The Black Vault, 22 December 2023, https://www.theblackvault.com/documentarchive/space-force-says-documents-on-fastwalkers-and-slowwalkers-all-exempt-from-disclosure/",
+"text": "The Black Vault reports that the US Space Force, responding on 19 December 2023 to a July 2023 request for all procedures and manuals referencing 'Fastwalkers' and 'Slowwalkers', withheld the material in full under FOIA Exemption 1 and section 1.1(a) of Executive Order 13526. The response letter itself was not opened for this record.",
+"tier": 2
+}
+],
+"cls": "program",
+"cluster": "ic",
+"connections": [
+{
+"claimTier": 2,
+"cls": "document",
+"dateEnd": "2008",
+"dateStart": "2008",
+"direction": "out",
+"edgeLabel": "The thesis points at DSP without naming it",
+"id": "afit-townsend-2008",
+"l0": false,
+"label": "AFIT/GA/ENY/08-M06 - Space Based Satellite Tracking and Characterization Utilizing Non-Imaging Passive Sensors",
+"note": "The thesis's cited Osedacz database is drawn from ballistic missile early warning satellites in geosynchronous orbit, which is what DSP is; the thesis does not name DSP and no opened government document names it either, so the identification is attributed and not asserted.",
+"sources": [
+{
+"date": "2003-06-02",
+"name": "GAO-03-825R, Military Space Operations, 2 June 2003",
+"url": "https://www.govinfo.gov/content/pkg/GAOREPORTS-GAO-03-825R/html/GAOREPORTS-GAO-03-825R.htm"
+}
+],
+"tier": "C",
+"type": "research"
+},
+{
+"claimTier": 1,
+"cls": "legislation",
+"dateEnd": "2023",
+"dateStart": "2013",
+"direction": "out",
+"edgeLabel": "Both refusals rest on the same executive order",
+"id": "eo-13526",
+"l0": true,
+"label": "Executive Order 13526 — Classified National Security Information",
+"note": "Both refusals rest on the same executive order, cited at section 1.4c in 2013 and at section 1.1(a) in 2023.",
+"sources": [
+{
+"date": "2013-12-06",
+"name": "USNORTHCOM FOIA response letter, case FY14-19NOV2013-07",
+"url": "https://documents.theblackvault.com/documents/ufos/fastwalkers/FY14-19NOV2013-07.pdf"
+},
+{
+"date": "2023-12-22",
+"name": "Space Force Says Documents on Fastwalkers and Slowwalkers All Exempt from Disclosure, The Black Vault",
+"url": "https://www.theblackvault.com/documentarchive/space-force-says-documents-on-fastwalkers-and-slowwalkers-all-exempt-from-disclosure/"
+}
+],
+"tier": "A",
+"type": "legislative"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "2013-12-06",
+"dateStart": "2013-12-06",
+"direction": "out",
+"edgeLabel": "USNORTHCOM withheld two responsive fastwalker documents and refused to search NORAD",
+"id": "norad-northcom",
+"l0": false,
+"label": "NORAD and US Northern Command",
+"note": "USNORTHCOM located two responsive documents on the fastwalker designation and withheld both, and declined to search NORAD's holdings on the ground that NORAD sits outside FOIA.",
+"sources": [
+{
+"date": "2013-12-06",
+"name": "USNORTHCOM FOIA response letter, case FY14-19NOV2013-07",
+"url": "https://documents.theblackvault.com/documents/ufos/fastwalkers/FY14-19NOV2013-07.pdf"
+}
+],
+"tier": "B",
+"type": "denial"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "2023",
+"dateStart": "2013",
+"direction": "out",
+"edgeLabel": "Both refusals on this designation are public only because of The Black Vault",
+"id": "the-black-vault",
+"l0": false,
+"label": "The Black Vault",
+"note": "Both refusals on this designation, 2013 and 2023, were extracted by The Black Vault and are public only because of it.",
+"sources": [
+{
+"date": "2013-12-06",
+"name": "USNORTHCOM FOIA response letter, case FY14-19NOV2013-07",
+"url": "https://documents.theblackvault.com/documents/ufos/fastwalkers/FY14-19NOV2013-07.pdf"
+},
+{
+"date": "2023-12-22",
+"name": "Space Force Says Documents on Fastwalkers and Slowwalkers All Exempt from Disclosure, The Black Vault",
+"url": "https://www.theblackvault.com/documentarchive/space-force-says-documents-on-fastwalkers-and-slowwalkers-all-exempt-from-disclosure/"
+}
+],
+"tier": "C",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "1967",
+"direction": "out",
+"edgeLabel": "Flown by the Air Force before the constellation passed to the Space Force",
+"id": "usaf",
+"l0": true,
+"label": "United States Air Force",
+"note": "DSP is described by GAO as a Department of Defense strategic surveillance system flown by the Air Force before the constellation passed to the Space Force.",
+"sources": [
+{
+"date": "2003-06-02",
+"name": "GAO-03-825R, Military Space Operations, 2 June 2003",
+"url": "https://www.govinfo.gov/content/pkg/GAOREPORTS-GAO-03-825R/html/GAOREPORTS-GAO-03-825R.htm"
+}
+],
+"tier": "A",
+"type": "institutional"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "1967",
+"deg": 5,
+"denials": [
+{
+"by": {
+"id": "defense-support-program",
+"label": "Defense Support Program (DSP) missile early warning satellites"
+},
+"claimTier": 1,
+"denialKind": null,
+"label": "USNORTHCOM withheld two responsive fastwalker documents and refused to search NORAD",
+"note": "USNORTHCOM located two responsive documents on the fastwalker designation and withheld both, and declined to search NORAD's holdings on the ground that NORAD sits outside FOIA.",
+"of": {
+"id": "norad-northcom",
+"label": "NORAD and US Northern Command"
+},
+"sources": [
+{
+"date": "2013-12-06",
+"name": "USNORTHCOM FOIA response letter, case FY14-19NOV2013-07",
+"url": "https://documents.theblackvault.com/documents/ufos/fastwalkers/FY14-19NOV2013-07.pdf"
+}
+]
+}
+],
+"desc": "The infrared early-warning constellation that the board's fastwalker material comes off, and which the board did not carry. GAO describes DSP as a strategic surveillance and warning satellite system with an infrared capability to detect ballistic missile launches, feeding the integrated tactical warning and attack assessment mission, begun in 1967 with the first operational satellite in 1971 and now being replaced by SBIRS-High. Its place here is documentary rather than anomalous: the board already carries the AFIT thesis that defines 'fastwalker' as ordinary space-surveillance vocabulary and cites a 1972-onward observation database drawn from ballistic missile early warning satellites in geosynchronous orbit, which is this constellation. What the popular literature adds, that DSP is the system that sees UFOs, is not stated by any government document opened for this node; that equation is The Black Vault's own gloss. What the record does carry is a refusal: USNORTHCOM found two responsive documents on the fastwalker and slowwalker designations in 2013, withheld both, and declined to search NORAD's holdings at all on the ground that NORAD is a bi-national organisation outside FOIA.",
+"domains": [
+"michels-2026-09-02"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "defense-support-program",
+"l0": false,
+"label": "Defense Support Program (DSP) missile early warning satellites",
+"locLabel": null,
+"members": null,
+"short": "Defense Support Program (DSP) missile early warning satellites",
+"sources": [
+{
+"date": "2003-06-02",
+"name": "GAO-03-825R, Military Space Operations: Common Problems and Their Effects on Satellite and Related Acquisitions",
+"url": "https://www.govinfo.gov/content/pkg/GAOREPORTS-GAO-03-825R/html/GAOREPORTS-GAO-03-825R.htm"
+},
+{
+"date": "1994-08-16",
+"name": "GAO/NSIAD-94-253, National Space Issues: Observations on Defense Space Programs and Activities",
+"url": "https://www.govinfo.gov/content/pkg/GAOREPORTS-NSIAD-94-253/html/GAOREPORTS-NSIAD-94-253.htm"
+},
+{
+"date": "2013-12-06",
+"name": "USNORTHCOM FOIA response letter, case FY14-19NOV2013-07",
+"url": "https://documents.theblackvault.com/documents/ufos/fastwalkers/FY14-19NOV2013-07.pdf"
+},
+{
+"date": "2015-03-03",
+"name": "Fastwalkers and Slowwalkers, The Black Vault",
+"url": "https://www.theblackvault.com/documentarchive/fastwalkers-slowwalkers/"
+},
+{
+"date": "2023-12-22",
+"name": "Space Force Says Documents on Fastwalkers and Slowwalkers All Exempt from Disclosure, The Black Vault",
+"url": "https://www.theblackvault.com/documentarchive/space-force-says-documents-on-fastwalkers-and-slowwalkers-all-exempt-from-disclosure/"
+}
+],
+"sub": "USAF and later US Space Force strategic surveillance constellation; programme commenced 1967, first operational satellite 1971",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 342 of 1027, score 35). 5 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D1.",
+"timeline": []
+}

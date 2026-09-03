@@ -1,0 +1,364 @@
+{
+"A": 0,
+"C": 0,
+"D": 3,
+"affiliations": [
+"American Alchemy (2021-present)",
+"Thiel Capital (investor)",
+"American Alchemy Magazine / Substack"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "2024-11-14",
+"event": "Publishes same-day interview with Michael Shellenberger on the Immaculate Constellation report delivered to the House Oversight subcommittee 13 November 2024.",
+"precision": "day"
+},
+{
+"date": "2025-01-30",
+"event": "Publishes exclusive Jake Barber crash-retrieval interview; 1,010,989 views.",
+"precision": "day"
+},
+{
+"date": "2025-02-21",
+"event": "Publishes first UAP Gerb episode, touring FFRDCs, DUMBs and Air Force bases tied to reverse engineering; 450,091 views.",
+"precision": "day"
+},
+{
+"date": "2026-01-11",
+"event": "Publishes the structural episode with UAP Gerb: 'The Pentagon's UFO Program Is Real [Here's How It Works!]'; 514,729 views; 3h13m.",
+"precision": "day"
+},
+{
+"date": "2026-03-08",
+"event": "Publishes Eric Weinstein and Eric Davis joint episode covering the Wilson-Davis memo and crash-retrieval program structure; 766,314 views.",
+"precision": "day"
+},
+{
+"date": "2026-08-05",
+"event": "Publishes Dylan Borland interview - former USAF 1N1 geospatial intelligence specialist alleging a 2012 triangle craft sighting at Langley AFB.",
+"precision": "day"
+}
+],
+"claims": [
+{
+"source": "Jesse Michels, American Alchemy episode description, 'The Pentagon's UFO Program Is Real [Here's How It Works!] ft. UAPGerb', published 11 January 2026",
+"text": "Michels frames the effort as 'not one program' but 'a layered, compartmentalized system that grew out of the Manhattan Project, the Atomic Energy Commission, and Cold War intelligence structures.'",
+"tier": 2
+},
+{
+"source": "Jesse Michels, American Alchemy episode description, 11 January 2026",
+"text": "Michels states in the same episode description that former Vice President Dick Cheney is 'implicated in the American UFO reverse engineering program.'",
+"tier": 2
+},
+{
+"source": "Chapter list, American Alchemy episode 11 January 2026 (timestamps 43:04, 51:28, 1:22:01, 1:30:25, 1:32:56)",
+"text": "Michels' episode structure names MITRE, the Office of Global Access, the DOE NEST, the Y-12 Complex and the 1954 Atomic Energy Agreement as load-bearing components of the architecture.",
+"tier": 2
+},
+{
+"source": "Infinite Loops podcast episode 145 description; NASJAQ Ep.18 description",
+"text": "Michels is an investor at Thiel Capital and creator/host of American Alchemy.",
+"tier": 2
+}
+],
+"cls": "person",
+"cluster": "media",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 2,
+"cls": "program",
+"dateEnd": "2026",
+"dateStart": "2008",
+"direction": "out",
+"edgeLabel": "Episode establishes the AAWSAP clearance chain for Davis",
+"id": "aawsap",
+"l0": true,
+"label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)",
+"note": "Davis's AAWSAP clearances and DIA deputisation are the credential on which the episode's authority rests.",
+"sources": [
+{
+"date": "2026-03-08",
+"name": "American Alchemy - Weinstein/Davis episode",
+"url": "https://www.youtube.com/watch?v=xnxasfyHtfo"
+}
+],
+"tier": "A",
+"type": "programmatic"
+},
+{
+"claimTier": 2,
+"cls": "program",
+"dateEnd": "2026",
+"dateStart": "2021",
+"direction": "out",
+"edgeLabel": "Creator and host",
+"id": "american-alchemy",
+"l0": false,
+"label": "American Alchemy",
+"note": "American Alchemy is Michels' series and the venue for every episode in this domain.",
+"sources": [
+{
+"date": "2026-01-11",
+"name": "American Alchemy - 'The Pentagon's UFO Program Is Real [Here's How It Works!]'",
+"url": "https://www.youtube.com/watch?v=u7g5Sn1DJF4"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2026",
+"dateStart": "2026",
+"direction": "out",
+"edgeLabel": "Michels ran a three-episode Borland sequence, August 2026",
+"id": "dylan-borland",
+"l0": false,
+"label": "Dylan Borland",
+"note": "Published 5, 6 and 7 August 2026. Borland is a former USAF 1N1 geospatial intelligence specialist who describes witnessing a 100-to-150-foot black metallic triangle near the NASA hangar at Langley AFB in 2012; the episode chapters include 'ODNI and the leaked program name'.",
+"sources": [
+{
+"date": "2026-08-05",
+"name": "American Alchemy - 'A Top Government Official Told Me Aliens Run Everything!' - Dylan Borland",
+"url": "https://www.youtube.com/watch?v=K4gYHs84BIc"
+}
+],
+"tier": "A",
+"type": "witness-chain"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2026",
+"dateStart": "2026",
+"direction": "out",
+"edgeLabel": "Michels put Eric Davis on record with Eric Weinstein, 8 March 2026",
+"id": "eric-davis",
+"l0": false,
+"label": "Eric W. Davis",
+"note": "A four-hour session covering the Wilson-Davis memo (37:56), the count of crashes (48:00), crash retrieval program structure (2:28:43) and the legacy program (2:35:09); 766,314 views.",
+"sources": [
+{
+"date": "2026-03-08",
+"name": "American Alchemy - 'Eric Weinstein Demands UFO Secrets From Pentagon Scientist'",
+"url": "https://www.youtube.com/watch?v=xnxasfyHtfo"
+}
+],
+"tier": "A",
+"type": "investigative"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2025",
+"dateStart": "2025",
+"direction": "out",
+"edgeLabel": "Michels published Barber's crash-retrieval account",
+"id": "jake-barber",
+"l0": false,
+"label": "Jake Barber",
+"note": "Published 30 January 2025 to 1,010,989 views; Barber, a former intelligence officer, described helicopter-borne retrieval. Barber subsequently spoke at the 2025 Sol Foundation Symposium, moving from independent media into the institutional wing.",
+"sources": [
+{
+"date": "2025-01-30",
+"name": "American Alchemy - Jake Barber interview",
+"url": "https://www.youtube.com/watch?v=dnnpyNuPdXs"
+},
+{
+"date": "2025-10-24",
+"name": "The Sol Foundation - 2025 Symposium",
+"url": "https://thesolfoundation.org/events/the-2025-sol-foundation-symposium/"
+}
+],
+"tier": "B",
+"type": "witness-chain"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2026",
+"dateStart": "2026",
+"direction": "out",
+"edgeLabel": "Episode framing cites Lacatski's AAWSAP deputisation of Davis",
+"id": "james-lacatski",
+"l0": false,
+"label": "James T. Lacatski",
+"note": "The episode description states Davis held security clearances through AAWSAP and was formally deputised by DIA under program manager James Lacatski, 'who himself claims he has stepped inside a UFO and breached the hull.'",
+"sources": [
+{
+"date": "2026-03-08",
+"name": "American Alchemy - Weinstein/Davis episode",
+"url": "https://www.youtube.com/watch?v=xnxasfyHtfo"
+}
+],
+"tier": "A",
+"type": "witness-chain"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2024",
+"dateStart": "2024",
+"direction": "out",
+"edgeLabel": "Michels interviewed Shellenberger the day after the hearing",
+"id": "michael-shellenberger",
+"l0": false,
+"label": "Michael Shellenberger",
+"note": "Published 14 November 2024, recorded immediately after the 13 November hearing; 203,593 views. Michels was the first long-form venue for Shellenberger's account of the document.",
+"sources": [
+{
+"date": "2024-11-14",
+"name": "American Alchemy - 'Breaking UFO Story: Immaculate Constellation (Ft. Michael Shellenberger)'",
+"url": "https://www.youtube.com/watch?v=DPmO-2E7Ayg"
+}
+],
+"tier": "B",
+"type": "investigative"
+},
+{
+"claimTier": 2,
+"cls": "document",
+"dateEnd": "2026",
+"dateStart": "2026",
+"direction": "out",
+"edgeLabel": "Michels produced and hosted the structural episode",
+"id": "michels-gerb-structural-episode",
+"l0": true,
+"label": "'The Pentagon's UFO Program Is Real [Here's How It Works!]'",
+"note": "Michels is host and publisher of the 11 January 2026 episode whose description states the effort is 'not one program' but 'a layered, compartmentalized system that grew out of the Manhattan Project, the Atomic Energy Commission, and Cold War intelligence structures.'",
+"sources": [
+{
+"date": "2026-01-11",
+"name": "American Alchemy - 'The Pentagon's UFO Program Is Real [Here's How It Works!]'",
+"url": "https://www.youtube.com/watch?v=u7g5Sn1DJF4"
+}
+],
+"tier": "C",
+"type": "investigative"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2026",
+"dateStart": "2025",
+"direction": "out",
+"edgeLabel": "Michels platformed UAP Gerb twice for multi-hour structural interviews",
+"id": "uap-gerb",
+"l0": false,
+"label": "'UAP Gerb' (Sam)",
+"note": "Michels published 'UAPGerb: The New Area51 Is HERE in Utah!' on 21 February 2025 (450,091 views) and the three-hour structural episode 'The Pentagon's UFO Program Is Real [Here's How It Works!]' on 11 January 2026 (514,729 views). These two episodes are the primary public exposition of Gerb's structural model.",
+"sources": [
+{
+"date": "2026-01-11",
+"name": "American Alchemy - 'The Pentagon's UFO Program Is Real [Here's How It Works!]'",
+"url": "https://www.youtube.com/watch?v=u7g5Sn1DJF4"
+},
+{
+"date": "2025-02-21",
+"name": "American Alchemy - 'UAPGerb: The New Area51 Is HERE in Utah!'",
+"url": "https://www.youtube.com/watch?v=nTiFs8LudUo"
+}
+],
+"tier": "A",
+"type": "investigative"
+},
+{
+"claimTier": 2,
+"cls": "document",
+"dateEnd": "2026",
+"dateStart": "2026",
+"direction": "out",
+"edgeLabel": "Dedicated chapter on the Wilson-Davis memo with Davis present",
+"id": "wilson-davis-memo",
+"l0": true,
+"label": "The Wilson-Davis Notes (16 October 2002)",
+"note": "Chapter at 37:56 of the 8 March 2026 episode, with the memo's named author-participant in the room - the closest to a primary-source interrogation of that document yet conducted in public.",
+"sources": [
+{
+"date": "2026-03-08",
+"name": "American Alchemy - Weinstein/Davis episode",
+"url": "https://www.youtube.com/watch?v=xnxasfyHtfo"
+}
+],
+"tier": "A",
+"type": "investigative"
+}
+],
+"date": "2026-01-11",
+"dateEnd": null,
+"dateStart": "2026-01-11",
+"deg": 10,
+"denials": [],
+"domains": [
+"media-structure"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "jesse-michels",
+"instId": "american-alchemy",
+"l0": false,
+"label": "Jesse Michels",
+"loc": "Los Angeles, CA",
+"locId": "l-la",
+"members": null,
+"narrative": "Jesse Michels is the single most consequential independent interviewer in the modern disclosure movement and the reason this domain exists as a structural rather than anecdotal problem. A Thiel Capital investor who built the YouTube series American Alchemy, Michels has done what legacy outlets did not: he gave multi-hour, unedited platform time to the people who claim to know how the recovery and reverse-engineering effort is actually organised, and he pushed them to draw the org chart. On 11 January 2026 he published 'The Pentagon's UFO Program Is Real [Here's How It Works!]' with the researcher UAP Gerb - a three-hour-thirteen-minute structural reconstruction whose own description states the thesis plainly: 'This is not one program. It is a layered, compartmentalized system that grew out of the Manhattan Project, the Atomic Energy Commission, and Cold War intelligence structures.' Its chapter list is effectively a table of contents for the alleged architecture: 'The Pyramid of Contractors', 'Modern Majestic 12', 'The Administrators of Secrecy', 'The Office of Global Access', 'The Role of MITRE', 'The DOE NEST', 'The 1954 Atomic Energy Agreement', 'The Y-12 Complex'. That episode has 514,729 views. Michels had already run the same researcher a year earlier (21 February 2025, 'The New Area51 Is HERE in Utah!', 450,091 views), which toured Air Force bases, deep underground facilities and 'Federally Funded Research Organizations' associated with reverse engineering. He broke Jake Barber's crash-retrieval account on 30 January 2025 to over a million viewers, sat with Michael Shellenberger on 14 November 2024 the day after Shellenberger delivered the Immaculate Constellation report to Congress, and on 8 March 2026 put Eric Davis in a room with Eric Weinstein for a four-hour session that worked through the Wilson-Davis memo. Michels' method is the point: he does not adjudicate, he platforms at length and lets the structural claim accumulate in public, where it can be indexed, dated and cited. That is why the structure is now discussable at all.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Jesse Michels",
+"sources": [
+{
+"date": "2026-01-11",
+"name": "American Alchemy - 'The Pentagon's UFO Program Is Real [Here's How It Works!] ft. UAPGerb'",
+"url": "https://www.youtube.com/watch?v=u7g5Sn1DJF4"
+},
+{
+"date": "2025-02-21",
+"name": "American Alchemy - 'UAPGerb: The New Area51 Is HERE in Utah!'",
+"url": "https://www.youtube.com/watch?v=nTiFs8LudUo"
+},
+{
+"date": "2024-11-14",
+"name": "American Alchemy - 'Breaking UFO Story: Immaculate Constellation (Ft. Michael Shellenberger)'",
+"url": "https://www.youtube.com/watch?v=DPmO-2E7Ayg"
+},
+{
+"date": "2026-03-08",
+"name": "American Alchemy - 'Eric Weinstein Demands UFO Secrets From Pentagon Scientist'",
+"url": "https://www.youtube.com/watch?v=xnxasfyHtfo"
+},
+{
+"date": "2025-01-30",
+"name": "American Alchemy - 'I Retrieved a UFO With My Helicopter! - Jake Barber'",
+"url": "https://www.youtube.com/watch?v=dnnpyNuPdXs"
+}
+],
+"status": "active",
+"sub": "Host, American Alchemy; investor, Thiel Capital",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 304 of 1027, score 36). 10 connections, 4 of them custody/witness/funding/programmatic. Axes C0/A0/D3.",
+"timeline": [
+{
+"date": "2024-11-14",
+"id": "ms-2024-michels-shell",
+"label": "Michels interviews Shellenberger the next day",
+"precision": "day",
+"strand": "program",
+"text": "American Alchemy publishes the first long-form account of the document, one day after the hearing; 203,593 views.",
+"tier": "A"
+}
+],
+"unexplainedResidual": null,
+"unverified": [
+"Whether Michels' Thiel Capital role is current as of August 2026 is not established by a dated primary source."
+]
+}

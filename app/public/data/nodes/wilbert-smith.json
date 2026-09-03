@@ -1,0 +1,238 @@
+{
+"A": 2,
+"C": 1,
+"D": 3,
+"affiliations": [
+"canada-dot",
+"project-magnet",
+"project-second-storey"
+],
+"age": 52,
+"band": null,
+"chronology": [
+{
+"date": "1939",
+"event": "Joins the Canadian Department of Transport",
+"precision": "year"
+},
+{
+"date": "1947",
+"event": "Establishes Canada's far north ionospheric monitoring system",
+"precision": "year"
+},
+{
+"date": "1950",
+"event": "At the NARBA conference learns from Dr Robert Sarbacher of the US classification of the saucer question and of Vannevar Bush's role",
+"precision": "year"
+},
+{
+"date": "1950-11-21",
+"event": "Writes the 'Geo-Magnetics' memorandum to the Controller of Telecommunications, Department of Transport; classified Top Secret",
+"precision": "day"
+},
+{
+"date": "1950-12-02",
+"event": "Project Magnet formally approved",
+"precision": "day"
+},
+{
+"date": "1952",
+"event": "Project Magnet report concludes the vehicles are 'probably extra-terrestrial' and recommends acquisition of the technology",
+"precision": "year"
+},
+{
+"date": "1952-04",
+"event": "Appointed to Project Second Storey",
+"precision": "month"
+},
+{
+"date": "1952-10",
+"event": "Establishes the Shirley's Bay observatory outside Ottawa",
+"precision": "month"
+},
+{
+"date": "1954",
+"event": "Department of Transport terminates Project Magnet funding; Smith continues privately",
+"precision": "year"
+},
+{
+"date": "1962-12-27",
+"event": "Dies of cancer",
+"precision": "day"
+},
+{
+"date": "1969",
+"event": "The 1950 memorandum downgraded from Top Secret to Confidential",
+"precision": "year"
+}
+],
+"claims": [
+{
+"source": "Library and Archives Canada, online exhibition 'Canada's UFOs: The Search for the Unknown', Shirley's Bay / Project Magnet page, 2005",
+"text": "Library and Archives Canada quotes the memorandum: '...the existence of a different technology is borne out by the investigations which are being carried on at the present time in relation to flying saucers.... I feel that the correlation between our basic theory and the available information on saucers checks too closely to be mere coincidence' (Smith, Geo-Magnetics, Department of Transport, November 21, 1950).",
+"tier": 1
+},
+{
+"source": "Library and Archives Canada exhibition, quoting Smith, Project Magnet report, 1952, p.6",
+"text": "Project Magnet report, 1952, p.6: 'Taking these factors into account, it is difficult to reconcile this performance with the capabilities of our technology, and unless the technology of some terrestrial nation is much more advanced than is generally known, we are forced to the conclusion that the vehicles are probably extra-terrestrial, in spite of our prejudices to the contrary.'",
+"tier": 1
+},
+{
+"source": "Library and Archives Canada exhibition, quoting Smith, Project Magnet report, 1952",
+"text": "Smith recommended that the next step be a 'substantial effort towards the acquisition of as much as possible of this technology, which would without doubt be of great value to us'.",
+"tier": 1
+},
+{
+"source": "Wikipedia, 'Wilbert Brockhouse Smith', citing the Smith-Sarbacher interview record",
+"text": "'At the 1950 NARBA conference, Smith learned from US scientist Dr. Robert Sarbacher that Americans believed flying saucers were real and their investigations of them, led by Dr. Vannevar Bush, were more highly classified than information about the hydrogen bomb. After his return to Canada, Smith wrote a memo dated November 21, 1950 which became classified Top Secret until being downgraded to Confidential in 1969.'",
+"tier": 2
+},
+{
+"source": "Office of the Chief Science Advisor of Canada, Management of Public Reporting of Unidentified Aerial Phenomena in Canada, June 2025",
+"text": "Sky Canada Project report: 'In 1950, the Department of Transport granted one of their engineers, Wilbert Smith, permission to do part-time research to investigate whether some UFOs could use the power of Earth's magnetic field as a source of propulsion. This was called Project Magnet ... Unable to convince his colleagues of the merits of his research, Smith had to continue his work privately after the Department of Transport terminated Project Magnet in 1954.'",
+"tier": 1
+},
+{
+"source": "Wikipedia, 'Wilbert Brockhouse Smith', citing University of Ottawa Archives and Special Collections",
+"text": "Smith's other papers were acquired by retired Canadian military pilot Arthur Bray and later donated to the University of Ottawa (Arthur Bray fonds).",
+"tier": 2
+}
+],
+"cls": "person",
+"cluster": "legacy",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": "1962",
+"dateStart": "1950-11-21",
+"direction": "out",
+"edgeLabel": "author of the request that created Project Magnet",
+"id": "project-magnet",
+"l0": false,
+"label": "Project Magnet (Canada)",
+"note": "LAC's exhibition quotes the 21 November 1950 'Geo-Magnetics' memorandum as the origin of the project.",
+"sources": [
+{
+"date": "2005-08-11",
+"name": "Library and Archives Canada - Project Magnet page",
+"url": "https://web.archive.org/web/2006/http://www.collectionscanada.ca/ufo/002029-1400.01-e.html"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 2,
+"cls": "program",
+"dateEnd": "1954",
+"dateStart": "1952",
+"direction": "out",
+"edgeLabel": "appointed to the Defence Research Board committee in 1952",
+"id": "project-second-storey",
+"l0": false,
+"label": "Project Second Storey (Canada)",
+"note": "Smith reported Project Magnet's findings to Second Storey, chaired by NRC astronomer Peter Millman.",
+"sources": [
+{
+"date": "2025-06-01",
+"name": "Sky Canada Project report",
+"url": "https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "1983",
+"dateStart": "1950",
+"direction": "in",
+"edgeLabel": "Smith's 1950 notes name Sarbacher as their source; Sarbacher's own 1983 letter says he did not attend",
+"id": "robert-sarbacher",
+"l0": false,
+"label": "Robert I. Sarbacher",
+"note": "The 1983 letter is the only document in this chain that was opened. Smith's 21 November 1950 memorandum was not obtained -- Library and Archives Canada refuses this environment. Sarbacher's own words are 'I could not personally attend the meetings.'",
+"sources": [
+{
+"date": "1983-11-29",
+"name": "Sarbacher to Steinman, 29 November 1983, signed facsimile",
+"url": "https://ia802909.us.archive.org/9/items/majiall337/sarbacher-steinman-29nov83.pdf"
+}
+],
+"tier": "B",
+"type": "witness-chain"
+}
+],
+"date": "1962-12-27",
+"dateEnd": null,
+"dateStart": "1962-12-27",
+"deg": 3,
+"denials": [],
+"domains": [
+"w2-international"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "wilbert-smith",
+"instId": "canada-dot",
+"l0": false,
+"label": "Wilbert Brockhouse Smith",
+"loc": "Ottawa, Ontario, Canada",
+"locId": "l-ottawa",
+"members": null,
+"narrative": "Wilbert Brockhouse Smith (1910 - 27 December 1962) is the earliest named government official anywhere on record to have been told, and to have written down, that the American flying saucer question was classified above the hydrogen bomb and was being run by Vannevar Bush. Smith joined the Canadian Department of Transport in 1939, built Canada's far north ionospheric monitoring system in 1947, and was Canada's chief delegate to the North American Regional Broadcasting Agreement conferences of 1949 and 1950; by 1952 he was Senior Radio Engineer of the DOT's Broadcast and Measurements section, and in 1957 became Superintendent of Radio Regulations Engineering. At the 1950 NARBA conference in Washington he made enquiries of the American scientist Dr Robert Sarbacher and came away with four assertions which he set down in a memorandum, 'Geo-Magnetics', addressed to the Controller of Telecommunications and dated 21 November 1950: that the matter was the most highly classified subject in the United States government, rating higher even than the H-bomb; that flying saucers exist; that their modus operandi was unknown but that a concentrated effort was being made by a small group headed by Doctor Vannevar Bush; and that the entire matter was considered by US authorities to be of tremendous significance. That memorandum was classified Top Secret and was not downgraded to Confidential until 1969. Library and Archives Canada quotes the same memorandum in its own online exhibition: 'the existence of a different technology is borne out by the investigations which are being carried on at the present time in relation to flying saucers ... I feel that the correlation between our basic theory and the available information on saucers checks too closely to be mere coincidence.' The memorandum was the successful request that produced Project Magnet.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Wilbert Brockhouse Smith",
+"sources": [
+{
+"date": "2005-08-11",
+"name": "Library and Archives Canada - Canada's UFOs: The Search for the Unknown (Project Magnet page)",
+"url": "https://web.archive.org/web/2006/http://www.collectionscanada.ca/ufo/002029-1400.01-e.html"
+},
+{
+"date": "2005-08-11",
+"name": "Library and Archives Canada - exhibition introduction",
+"url": "https://web.archive.org/web/20060119031333/http://www.collectionscanada.ca/ufo/index-e.html"
+},
+{
+"date": "2025-06-01",
+"name": "Sky Canada Project report, June 2025",
+"url": "https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada"
+},
+{
+"date": "2026-01-01",
+"name": "Wilbert Brockhouse Smith - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/Wilbert_Brockhouse_Smith"
+}
+],
+"status": "dead",
+"sub": "Senior Radio Engineer, Canadian Department of Transport; head of Project Magnet 1950-1962",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 269 of 1027, score 38). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A2/D3.",
+"timeline": [
+{
+"date": "1950-11-21",
+"id": "tl-intl-1950-smith",
+"label": "Smith writes the 'Geo-Magnetics' memorandum",
+"precision": "day",
+"strand": "program",
+"text": "Wilbert Brockhouse Smith, Senior Radio Engineer of the Canadian Department of Transport, writes a Top Secret memorandum to the Controller of Telecommunications recording what he had been told in Washington: that the flying saucer question was the most highly classified subject in the United States government, rating higher than the H-bomb, and was being worked by a small group headed by Vannevar Bush. Library and Archives Canada quotes the same memorandum's operative line: 'the correlation between our basic theory and the available information on saucers checks too closely to be mere coincidence'.",
+"tier": 1
+}
+],
+"unexplainedResidual": null,
+"unverified": [
+"The four-point passage of the 21 November 1950 memorandum ('rating higher even than the H-bomb'; 'Flying saucers exist'; 'a small group headed by Doctor Vannevar Bush'; 'of tremendous significance') is universally reproduced in the literature but the exact Library and Archives Canada file citation for the memorandum itself was not confirmed in this pass. Researchers commonly cite Department of Transport records in RG 97; LAC's own exhibition cites Project Magnet material at RG 24, acc. 83-84/167, box 7523, file DRBS 3800-10-1, pt.1, which is the Defence Research Board file. The DOT file reference must be confirmed at LAC before the four-point quotation is used as tier 1.",
+"Whether Robert Sarbacher's account to Smith was ever corroborated by Sarbacher in writing was not established in this pass."
+]
+}

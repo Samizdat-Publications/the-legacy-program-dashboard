@@ -1,0 +1,138 @@
+{
+"A": 2,
+"C": 0,
+"D": 1,
+"band": null,
+"claims": [
+{
+"source": "Nature, 18 October 1974",
+"text": "Targ and Puthoff published 'Information transmission under conditions of sensory shielding' in Nature 251:602-607 on 18 October 1974.",
+"tier": 1
+},
+{
+"source": "FAS Intelligence Resource Program, Star Gate documentation; CIA FOIA Reading Room",
+"text": "The Star Gate programme documentation, including protocols and operational records, is held in the CIA electronic reading room and catalogued by FAS.",
+"tier": 1
+},
+{
+"source": "Declassified SRI protocol, via The Black Vault",
+"text": "The 'Standard Remote Viewing Protocol (Local Targets)' by Harold E. Puthoff and Russell Targ, dated November 1978, was subsequently declassified.",
+"tier": 1
+}
+],
+"cls": "domain",
+"cluster": "research",
+"connections": [
+{
+"claimTier": 1,
+"cls": "domain",
+"dateEnd": "1995-11-28",
+"dateStart": "1972-01-01",
+"direction": "out",
+"edgeLabel": "Twenty-three years of federal funding",
+"id": "d-consciousness",
+"l0": false,
+"label": "Consciousness & Observer Effects",
+"note": "Star Gate is the documented precedent that the US government funds anomalous-cognition research; the consciousness domain inherits its personnel and its framing.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "FAS - Star Gate documentation",
+"url": "https://irp.fas.org/program/collect/stargate.htm"
+}
+],
+"tier": "C",
+"type": "programmatic"
+},
+{
+"claimTier": 2,
+"cls": "domain",
+"dateEnd": null,
+"dateStart": "2008-08-18",
+"direction": "out",
+"edgeLabel": "Same investigators, later contract",
+"id": "d-paranormal",
+"l0": false,
+"label": "Anomalous Phenomena Adjacent to UAP",
+"note": "Principal investigators from the SRI-era programmes reappear in the AAWSAP deliverables three decades later, carrying the research framing with them.",
+"sources": [
+{
+"date": "2008-08-22",
+"name": "AAWSAP Statement of Work",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP/SOW_Aerospace.pdf"
+},
+{
+"date": "2026-08-12",
+"name": "FAS - Star Gate documentation",
+"url": "https://irp.fas.org/program/collect/stargate.htm"
+}
+],
+"tier": "C",
+"type": "programmatic"
+}
+],
+"coords": null,
+"dateEnd": "1995-11-28",
+"dateStart": "1972-01-01",
+"deg": 2,
+"denials": [],
+"desc": "This domain requires no argument about whether the government funds anomalous research, because the answer is a matter of public record for twenty-three years. Beginning in 1972 at Stanford Research Institute under Harold Puthoff and Russell Targ, and running through Army and DIA programmes known successively as Grill Flame, Center Lane, Sun Streak and finally Star Gate, the United States paid for controlled experiments in anomalous cognition and for operational intelligence tasking based on them. Puthoff and Targ published in Nature in October 1974; the programme's internal protocols, including the 1978 'Standard Remote Viewing Protocol', were later declassified; and thousands of pages sit in the CIA's electronic reading room. The programme was terminated in 1995 following an external evaluation, and CIA's public position is that it produced nothing of operational value - a denial that is itself a data point given the twenty-three-year expenditure. The relevance here is structural rather than substantive: the same principal investigators, the same institute, and in several cases the same individuals reappear in the AAWSAP era three decades later. Scoring high on this domain means an entity ran, funded, participated in or evaluated that work.",
+"domains": [
+"w2-taxonomy"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "1",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "d-remote-viewing",
+"l0": false,
+"label": "Remote Viewing & Anomalous Cognition",
+"locLabel": null,
+"members": null,
+"short": "Remote Viewing & Anomalous Cognition",
+"sources": [
+{
+"date": "1974-10-18",
+"name": "R. Targ & H. Puthoff, 'Information transmission under conditions of sensory shielding', Nature 251, 602-607",
+"url": "https://www.nature.com/articles/251602a0"
+},
+{
+"date": "2026-08-12",
+"name": "FAS - Star Gate documentation",
+"url": "https://irp.fas.org/program/collect/stargate.htm"
+},
+{
+"date": "2020-12-16",
+"name": "The Stargate Collection - CIA Program on Remote Viewing (The Black Vault)",
+"url": "https://www.theblackvault.com/documentarchive/the-stargate-collection/"
+},
+{
+"date": "1978-11-01",
+"name": "'Standard Remote Viewing Protocol (Local Targets)' by Puthoff and Targ, November 1978 (declassified)",
+"url": "https://www.theblackvault.com/documentarchive/standard-remote-viewing-protocol-local-targets-by-dr-harold-e-puthoff-and-russell-targ-november-1978/"
+},
+{
+"date": "2017-01-01",
+"name": "CIA FOIA Reading Room",
+"url": "https://www.cia.gov/readingroom/"
+}
+],
+"sub": "Program domain - the documented government psychic research effort, 1972 to 1995",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 626 of 1027, score 25). 2 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A2/D1.",
+"timeline": [
+{
+"date": "1972-01-01",
+"id": "tx-1972-sri-rv",
+"label": "Federal funding of anomalous cognition begins",
+"precision": "year",
+"strand": "program",
+"text": "Harold Puthoff and Russell Targ begin remote viewing work at Stanford Research Institute under federal sponsorship. The programme runs through Grill Flame, Center Lane, Sun Streak and Star Gate until 1995, establishing beyond argument that the US government funds research of this kind for decades at a time before terminating it and denying it produced anything.",
+"tier": 1
+}
+]
+}

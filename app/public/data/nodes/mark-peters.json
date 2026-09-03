@@ -1,0 +1,176 @@
+{
+"A": 2,
+"C": 1,
+"D": 0,
+"affiliations": [
+"Argonne National Laboratory (to 2015)",
+"Idaho National Laboratory / Battelle Energy Alliance LLC (2015-2020)",
+"Battelle Memorial Institute (2020-2024)",
+"The MITRE Corporation (2024-present)",
+"American Nuclear Society (President)"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "2015-01-01",
+"event": "Named Director of Idaho National Laboratory and President of Battelle Energy Alliance LLC",
+"precision": "year"
+},
+{
+"date": "2020-01-01",
+"event": "Becomes Executive Vice President for Laboratory Management and Operations at Battelle Memorial Institute",
+"precision": "year"
+},
+{
+"date": "2024-06-27",
+"event": "MITRE announces Peters as its 10th president and CEO",
+"precision": "day"
+},
+{
+"date": "2024-09-03",
+"event": "Takes office as MITRE president and CEO",
+"precision": "day"
+},
+{
+"date": "2026-05-22",
+"event": "Rep. Eric Burlison's 10-page UAP records production request is sent to MITRE under Peters' leadership",
+"precision": "day"
+}
+],
+"claims": [
+{
+"source": "MITRE news release, 27 June 2024; MITRE leadership biography page",
+"text": "Peters became MITRE's 10th president and CEO effective 3 September 2024, having come directly from the post of executive vice president for laboratory management and operations at Battelle Memorial Institute.",
+"tier": 1
+},
+{
+"source": "MITRE biography of Mark Peters; American Nuclear Society, June 2024",
+"text": "Before Battelle headquarters he was Director of Idaho National Laboratory and President of Battelle Energy Alliance LLC, the entity that holds the INL management-and-operating contract.",
+"tier": 1
+},
+{
+"source": "Inference from MITRE biography and NSF Master Government List of FFRDCs",
+"text": "The Battelle-to-MITRE chief-executive transfer is not incidental: it demonstrates that the same small pool of laboratory-management executives circulates between the institutions that have historically held Air Force UFO analysis contracts (Battelle) and the institution now under congressional interrogation for legacy-program records (MITRE). Reasoning: both organisations are contractor-operators of federally funded research entities drawing on the same executive labour market, and the Directors' Council Peters chaired formally coordinates that market.",
+"tier": 3
+}
+],
+"cls": "person",
+"cluster": "ffrdc",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "2024",
+"dateStart": "2020",
+"direction": "out",
+"edgeLabel": "Came to MITRE directly from Battelle's executive suite",
+"id": "battelle",
+"l0": true,
+"label": "Battelle Memorial Institute",
+"note": "Peters was executive vice president for laboratory management and operations at Battelle Memorial Institute and previously president of Battelle Energy Alliance LLC and director of Idaho National Laboratory.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "MITRE - Mark Peters biography",
+"url": "https://www.mitre.org/who-we-are/our-people/mark-peters"
+},
+{
+"date": "2024-06-27",
+"name": "Virginia Business",
+"url": "https://virginiabusiness.com/mclean-based-mitre-names-new-president-and-ceo/"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2024",
+"direction": "out",
+"edgeLabel": "President and CEO from 3 September 2024",
+"id": "mitre-corporation",
+"l0": true,
+"label": "The MITRE Corporation",
+"note": "Announced 27 June 2024 as MITRE's 10th president and CEO; the executive to whom Burlison's May 2026 request was ultimately addressed.",
+"sources": [
+{
+"date": "2024-06-27",
+"name": "MITRE news release",
+"url": "https://www.mitre.org/news-insights/news-release/mark-peters-named-new-mitre-president-and-ceo"
+}
+],
+"tier": "A",
+"type": "institutional"
+}
+],
+"date": "2024-09-03",
+"dateEnd": null,
+"dateStart": "2024-09-03",
+"deg": 2,
+"denials": [],
+"domains": [
+"ffrdcs"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "mark-peters",
+"instId": "mitre-corporation",
+"l0": false,
+"label": "Mark Todd Peters",
+"loc": "McLean, VA",
+"locId": "l-mclean",
+"members": null,
+"narrative": "Peters is the single cleanest illustration of how the FFRDC layer moves its own people between the seams. He is a geophysicist (BS geology, Auburn; PhD geophysical sciences, University of Chicago) who spent his career inside contractor-operated federal laboratories: Associate Laboratory Director for Energy and Global Security at Argonne, then Director of Idaho National Laboratory and President of Battelle Energy Alliance LLC, then Executive Vice President for Laboratory Management and Operations at Battelle Memorial Institute itself. On 27 June 2024 MITRE announced he would become its tenth president and CEO, effective 3 September 2024, succeeding Jason Providakes. That single move connects the two institutions that bracket this entire board's chronology: Battelle, which ran the Air Force's own statistical UFO study as Project Stork and produced Blue Book Special Report No. 14 in 1955 and whose Wright-Patterson metallurgical contracts sit at the centre of the Roswell memory-metal allegations, and MITRE, which Rep. Eric Burlison would formally interrogate about legacy crash-retrieval and reverse-engineering records less than two years later. Peters also chaired the National Laboratory Directors' Council, the body that coordinates and advises DOE across the entire contractor-operated laboratory complex, and sits on the National Academies Board on Human-Systems Integration. He is the executive who received Burlison's 22 May 2026 production request, and MITRE's public response - that it was reviewing its archives and would 'coordinate with the federal agencies responsible for the work' - is his corporation's answer, not a government one. That formulation is the whole problem in a sentence: the FFRDC does not decide what Congress sees; the sponsoring agency does.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Mark Todd Peters",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "MITRE - Mark Peters, Ph.D. (leadership biography)",
+"url": "https://www.mitre.org/who-we-are/our-people/mark-peters"
+},
+{
+"date": "2024-06-27",
+"name": "MITRE news release - Mark Peters Named New MITRE President and CEO",
+"url": "https://www.mitre.org/news-insights/news-release/mark-peters-named-new-mitre-president-and-ceo"
+},
+{
+"date": "2024-06-28",
+"name": "American Nuclear Society - Mark Peters named MITRE president and CEO",
+"url": "https://www.ans.org/news/article-6181/mark-peters-named-mitre-president-and-ceo/"
+},
+{
+"date": "2024-06-27",
+"name": "Virginia Business - Mitre names new president and CEO",
+"url": "https://virginiabusiness.com/mclean-based-mitre-names-new-president-and-ceo/"
+}
+],
+"status": "active",
+"sub": "10th President and CEO, The MITRE Corporation (from 3 Sep 2024); previously EVP for Laboratory Management and Operations, Battelle Memorial Institute; Director, Idaho National Laboratory",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 767 of 1027, score 19). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D0.",
+"timeline": [
+{
+"date": "2024-09-03",
+"id": "tl-ffrdc-2024-peters",
+"label": "Battelle's Mark Peters becomes MITRE CEO",
+"precision": "day",
+"strand": "program",
+"text": "MITRE's tenth president and CEO arrives directly from the post of executive vice president for laboratory management at Battelle Memorial Institute, having previously directed Idaho National Laboratory.",
+"tier": "A"
+}
+],
+"unexplainedResidual": null,
+"unverified": []
+}

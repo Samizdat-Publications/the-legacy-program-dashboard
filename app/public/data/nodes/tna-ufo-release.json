@@ -1,0 +1,185 @@
+{
+"A": 0,
+"C": 0,
+"D": 3,
+"band": null,
+"claims": [
+{
+"source": "The National Archives UFO files page, June 2013",
+"text": "June 2013 final tranche file list: DEFE 24/2448/1 through DEFE 24/2465/1 and DEFE 24/2623/1 through DEFE 24/2629/1.",
+"tier": 1
+},
+{
+"source": "The National Archives UFO files page, August 2011",
+"text": "August 2011 tranche note: 'Seven files in this tranche (DEFE 31/182/1-188/1) contain copies of numerous UFO reports made by members of the public and submitted to MoD between April 1993 and July 1996. These reports are duplicates of papers from tranche #4 of the UFO files, released by The National Archives in August 2009.'",
+"tier": 1
+},
+{
+"source": "The National Archives UFO files page, 2008-2013",
+"text": "Churchill epigraph carried on every version of the page: 'What does all this stuff about flying saucers amount to? What can it mean? What is the truth?' Sir Winston Churchill, July 1952, catalogue reference PREM 11/855.",
+"tier": 1
+}
+],
+"cls": "program",
+"cluster": "oversight",
+"connections": [
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "2013-06",
+"dateStart": "2008-05",
+"direction": "in",
+"edgeLabel": "wrote the highlights guide for every tranche",
+"id": "david-clarke-uk",
+"l0": false,
+"label": "Dr David Clarke",
+"note": "Each National Archives UFO release page credits Dr David Clarke's guide and carries his videocast or podcast.",
+"sources": [
+{
+"date": "2013-06-01",
+"name": "TNA UFO files",
+"url": "https://web.archive.org/web/20130701000000/http://www.nationalarchives.gov.uk/ufos/"
+}
+],
+"tier": "C",
+"type": "research"
+},
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": "2009-08",
+"dateStart": "2009-08",
+"direction": "out",
+"edgeLabel": "the August 2009 tranche carried the Rendlesham material",
+"id": "ev-rendlesham-files",
+"l0": false,
+"label": "Release of the Rendlesham Forest files, August 2009 (DEFE 24/1948)",
+"note": "The National Archives itself billed the tranche as containing 'Britain's very own Roswell - Rendlesham Forest in Suffolk'.",
+"sources": [
+{
+"date": "2009-08-01",
+"name": "TNA UFO files, August 2009",
+"url": "https://web.archive.org/web/2009/http://www.nationalarchives.gov.uk/ufos/"
+}
+],
+"tier": "C",
+"type": "custody"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2013",
+"dateStart": "2008",
+"direction": "in",
+"edgeLabel": "fronted the publicity for the file releases",
+"id": "nick-pope",
+"l0": false,
+"label": "Nick Pope",
+"note": "The MoD approached Pope to help with the publicity drive when it decided to declassify and release the files; he became, in the broadcaster's phrase, the face of the Ministry's new-found transparency.",
+"sources": [
+{
+"date": "2026-05-02",
+"name": "Sky HISTORY",
+"url": "https://www.history.co.uk/articles/remembering-nick-pope"
+}
+],
+"tier": "C",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "2013-06",
+"dateStart": "2008-05",
+"direction": "out",
+"edgeLabel": "released files placed in DEFE 24 and DEFE 31",
+"id": "uk-defe24",
+"l0": false,
+"label": "DEFE 24 and DEFE 31 - MoD UFO record series, The National Archives, Kew",
+"note": "Every tranche page lists the piece numbers transferred; the final June 2013 tranche is DEFE 24/2448-2465 and 2623-2629.",
+"sources": [
+{
+"date": "2013-06-01",
+"name": "TNA UFO files",
+"url": "https://web.archive.org/web/20130701000000/http://www.nationalarchives.gov.uk/ufos/"
+}
+],
+"tier": "C",
+"type": "custody"
+}
+],
+"coords": null,
+"dateEnd": "2013-06",
+"dateStart": "2008-05",
+"deg": 4,
+"denials": [],
+"desc": "Between May 2008 and June 2013 the Ministry of Defence transferred its UFO holdings to The National Archives at Kew in a sequenced public release programme, published tranche by tranche on a dedicated nationalarchives.gov.uk/ufos site with a highlights guide written for each tranche by Dr David Clarke and accompanying videocasts and podcasts. The identified tranches and coverage are: October 2008 (DEFE 24/1926-1930 onwards, covering 1986-1992); March 2009 (DEFE 24/1938 and DEFE 31/176-181, covering 1987-1993); August 2009 (DEFE 24/1948, 1959-1965, 1970-1976, 2086, covering 1981-1996, including Rendlesham material); February 2010 (Air Secretariat sighting reports 1996-1999); August 2010 (eighteen files DEFE 24/1973-2045, covering 1995-2003); August 2011 (twenty-six DEFE 24 files plus DEFE 31/182-188, covering 1985-2007); July 2012 (twenty-five files including DEFE 31/189-194, covering 1965-2008, described by the archive as showing 'the role of the UFO Desk Officers, what they really thought of alien visitors, their ideas to harness alien technology as a weapon, and their briefings to Tony Blair on UFO policy'); and the final tranche of June 2013 (DEFE 24/2448-2465 and DEFE 24/2623-2629), covering late 2007 to November 2009 and the closure of the desk. The archive's landing page carried Winston Churchill's July 1952 minute as its epigraph: 'What does all this stuff about flying saucers amount to? What can it mean? What is the truth?' (PREM 11/855).",
+"domains": [
+"w2-international"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "2",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "tna-ufo-release",
+"l0": false,
+"label": "The National Archives / MoD UFO File Release Programme (2008-2013)",
+"locLabel": null,
+"members": null,
+"short": "The National Archives / MoD UFO File Release Programme (2008-2013)",
+"sources": [
+{
+"date": "2013-06-01",
+"name": "TNA UFO files - June 2013",
+"url": "https://web.archive.org/web/20130701000000/http://www.nationalarchives.gov.uk/ufos/"
+},
+{
+"date": "2008-10-01",
+"name": "TNA UFO files - October 2008",
+"url": "https://web.archive.org/web/2008/http://www.nationalarchives.gov.uk/ufos/"
+},
+{
+"date": "2009-03-01",
+"name": "TNA UFO files - March 2009",
+"url": "https://web.archive.org/web/20090330000000/http://www.nationalarchives.gov.uk/ufos/"
+},
+{
+"date": "2009-08-01",
+"name": "TNA UFO files - August 2009",
+"url": "https://web.archive.org/web/2009/http://www.nationalarchives.gov.uk/ufos/"
+},
+{
+"date": "2010-08-01",
+"name": "TNA UFO files - August 2010",
+"url": "https://web.archive.org/web/2010/http://www.nationalarchives.gov.uk/ufos/"
+},
+{
+"date": "2011-08-01",
+"name": "TNA UFO files - August 2011",
+"url": "https://web.archive.org/web/20120310000000/http://www.nationalarchives.gov.uk/ufos/"
+},
+{
+"date": "2012-07-01",
+"name": "TNA UFO files - July 2012",
+"url": "https://web.archive.org/web/20120801000000/http://www.nationalarchives.gov.uk/ufos/"
+}
+],
+"sub": "Ten-tranche declassification of MoD UFO records into DEFE 24 and DEFE 31",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 624 of 1027, score 25). 4 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A0/D3.",
+"timeline": [
+{
+"date": "2008-05",
+"id": "tl-intl-2008-tna",
+"label": "The National Archives UFO release programme begins",
+"precision": "month",
+"strand": "oversight",
+"text": "The first of ten tranches of MoD UFO files is published at nationalarchives.gov.uk/ufos with a highlights guide by David Clarke. The programme runs to June 2013 and covers DEFE 24 and DEFE 31.",
+"tier": 1
+}
+]
+}

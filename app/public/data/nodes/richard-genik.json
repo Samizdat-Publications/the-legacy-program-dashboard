@@ -1,0 +1,345 @@
+{
+"A": 2,
+"C": 1,
+"D": 3,
+"affiliations": [],
+"age": null,
+"band": null,
+"chronology": [],
+"claims": [
+{
+"source": "Wayne State University School of Medicine News, 13 July 2009 https://today.wayne.edu/medicine/news/2009/07/13/richard-genik-phd-25514",
+"text": "Wayne State's title for Genik is director, not executive director: 'Richard J. Genik II, Ph.D., director of the Emergent Technology Research Division and assistant professor of the Department of Psychiatry and Behavioral Neurosciences for the Wayne State University School of Medicine'. Green held the executive directorship and had left it by April 2009; Genik is director by July 2009. The two titles are different and sequential, not competing.",
+"tier": 2
+},
+{
+"source": "Wayne State University School of Medicine News, 13 July 2009 https://today.wayne.edu/medicine/news/2009/07/13/richard-genik-phd-25514",
+"text": "The Army study Genik was selected for was requested by Tom Killion, deputy assistant secretary for Research and Technology and chief scientist for the U.S. Army, of the National Research Council. Genik chaired the technology group of the 20-month study and was one of four committee members on the briefing team, presenting at the Pentagon, the Board of Army Science and Technology, the Army Research Lab, the Army Research Institute, Medical Research and Material Command, Training and Doctrine Command, and the Office of Acquisition, Logistics and Technology. He was the only member of the briefing team to present at all three official briefings.",
+"tier": 2
+},
+{
+"source": "https://irp.fas.org/dia/aatip-list.pdf",
+"text": "The DIA letter of 9 January 2018 attributes three DIRDs to 'Dr R Genik, Wayne State Univ', including 'Cognitive Limits on Simultaneous Control of Multiple Unmanned Spacecraft.'",
+"tier": 1
+},
+{
+"source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_34-DIRD_Cognitive_Limits_on_Simultaneous_Control_of_Multiple_Unmanned_Spacecraft.pdf",
+"text": "The released DIRD bears document number DIA-08-1101-001, publication date 15 December 2010 and Intelligence Cut-Off Date 8 September 2010, in the 'Defense Futures' series.",
+"tier": 1
+},
+{
+"source": "https://today.wayne.edu/medicine/news/2009/07/13/richard-genik-phd-25514",
+"text": "Richard J. Genik II, Ph.D., was director of the Emergent Technology Research Division and assistant professor in the Department of Psychiatry and Behavioral Neurosciences at the Wayne State University School of Medicine, and was one of fifteen experts selected by the US Army to advise on two decades of neuroscience research funding.",
+"tier": 1
+},
+{
+"source": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"text": "Wayne State University accounts for four of the thirty-eight DIRDs across two authors - Genik's three and Kit Green's 'Field Effects on Biological Tissues' - the second-largest institutional concentration after EarthTech International.",
+"tier": 2
+},
+{
+"source": "https://irp.fas.org/dia/aatip-list.pdf",
+"text": "Named on the DIA list of AATIP/AAWSAP products supplied to the Senate Armed Services Committee as author of 'Quantum Computing and Utilizing Organic Molecules in Automation Technology', affiliation Wayne State University.",
+"tier": 1
+},
+{
+"source": "https://www.theblackvault.com/documentarchive/the-advanced-aviation-threat-identification-program-aatip-dird-report-research/",
+"text": "Named on the same DIA list as author of item 20, 'Technological Approaches to Controlling External Devices in the Absence of Limb-Operated Interfaces', affiliation Wayne State University — making him a multi-deliverable AAWSAP contributor.",
+"tier": 1
+},
+{
+"source": "https://today.wayne.edu/medicine/news/2009/07/13/richard-genik-phd-25514",
+"text": "Director of the Emergent Technology Research Division and assistant professor, Department of Psychiatry and Behavioral Neurosciences, Wayne State University School of Medicine; selected as one of fifteen experts advising the U.S. Army on two decades of neuroscience research investment.",
+"tier": 2
+},
+{
+"source": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"text": "The DIA letter of 9 January 2018 lists item 20 as \"Technological Applications to Controlling External Devices in the Absence of Limb-Operated Interfaces, Dr R Genik, Wayne State Univ.\"",
+"tier": 2
+},
+{
+"source": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"text": "The same DIA list credits Genik with two further DIRDs: item 28, \"Cognitive Limits on Simultaneous Control of Multiple Unmanned Spacecraft,\" and item 33, \"Quantum Computing and Utilizing Organic Molecules in Automation Technology.\" Three of the thirty-eight DIRDs are his.",
+"tier": 2
+},
+{
+"source": "https://today.wayne.edu/medicine/news/2009/07/13/richard-genik-phd-25514",
+"text": "Richard J. Genik II is director of the Emergent Technology Research Division and research assistant professor in the Department of Psychiatry and Behavioral Neurosciences at Wayne State University, with a PhD in physics from Michigan State University and a BS in applied physics from Wayne State.",
+"tier": 2
+},
+{
+"source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_12-DIRD_Technological_Approaches_to_Controlling_External_Devices.pdf",
+"text": "The released DIRD cover page carries \"Author: [redacted (b)(6)]\" and the administrative note \"This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency Advanced Aerospace Weapon System Applications (AAWSA) Program.\"",
+"tier": 1
+}
+],
+"cls": "person",
+"cluster": "other",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "authored by Richard J. Genik II",
+"id": "dird-cognitive-limits-on-simultaneous-control-of",
+"l0": false,
+"label": "Cognitive Limits on Simultaneous Control of Multiple Unmanned Spacecraft",
+"note": "The DIA list of 9 January 2018 records 'Cognitive Limits on Simultaneous Control of Multiple Unmanned Spacecraft, Dr R Genik, Wayne State Univ.' The released PDF's author block is redacted under (b)(6). Genik wrote three of the 38 DIRDs, the largest single-author block after Eric Davis's five.",
+"sources": [
+{
+"date": "2026-08-22",
+"name": "Released DIRD, 'Cognitive Limits on Simultaneous Control of Multiple Unmanned Spacecra' — FOIA copy, cover page read 22 August 2026",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_34-DIRD_Cognitive_Limits_on_Simultaneous_Control_of_Multiple_Unmanned_Spacecraft.pdf"
+},
+{
+"date": "2026-08-22",
+"name": "DIA FOIA Electronic Reading Room entry for this reference document",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237649/"
+},
+{
+"date": "2026-08-23",
+"name": "DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations",
+"url": "https://fas.org/publication/aatip-list/"
+},
+{
+"date": null,
+"name": "https://irp.fas.org/dia/aatip-list.pdf",
+"url": "https://irp.fas.org/dia/aatip-list.pdf"
+},
+{
+"date": null,
+"name": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html",
+"url": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html"
+},
+{
+"date": null,
+"name": "https://today.wayne.edu/medicine/news/2009/07/13/richard-genik-phd-25514",
+"url": "https://today.wayne.edu/medicine/news/2009/07/13/richard-genik-phd-25514"
+}
+],
+"tier": "B",
+"type": "research"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "authored by",
+"id": "dird-quantum-computing-and-utilizing-organic-molecules",
+"l0": false,
+"label": "Quantum Computing and Utilizing Organic Molecules in Automation Technology",
+"note": "The DIA congressional list credits 'Quantum Computing and Utilizing Organic Molecules in Automation Technology' to 'Dr R Genik, Wayne State Univ'. Genik is credited elsewhere on the same list with the brain-machine interface deliverable on controlling external devices without limb-operated interfaces, making him a multi-product AAWSAP contributor.",
+"sources": [
+{
+"date": "2026-08-22",
+"name": "Released DIRD, 'Quantum Computing and Utilizing Organic Molecules in Automation Techno' — FOIA copy, cover page read 22 August 2026",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_35-DIRD_Quantum_Computing_and_Utilizing_Organic_Molecules_in_Automation_Technology.pdf"
+},
+{
+"date": "2026-08-22",
+"name": "DIA FOIA Electronic Reading Room entry for this reference document",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237618/"
+},
+{
+"date": "2026-08-23",
+"name": "DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations",
+"url": "https://fas.org/publication/aatip-list/"
+},
+{
+"date": null,
+"name": "https://irp.fas.org/dia/aatip-list.pdf",
+"url": "https://irp.fas.org/dia/aatip-list.pdf"
+},
+{
+"date": null,
+"name": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html",
+"url": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html"
+}
+],
+"tier": "C",
+"type": "research"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "author of record on the DIA list",
+"id": "dird-technological-approaches-to-controlling-external-devices",
+"l0": false,
+"label": "Technological Approaches to Controlling External Devices in the Absence of Limb-Operated Interfaces",
+"note": "DIA list item 20: \"Technological Applications to Controlling External Devices in the Absence of Limb-Operated Interfaces, Dr R Genik, Wayne State Univ.\" The KLAS-TV list of July 2018 gives the same document the plainer title \"Brain-Machine Interfaces.\"",
+"sources": [
+{
+"date": "2026-08-22",
+"name": "Released DIRD, 'Technological Approaches to Controlling External Devices in the Absenc' — FOIA copy, cover page read 22 August 2026",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_12-DIRD_Technological_Approaches_to_Controlling_External_Devices.pdf"
+},
+{
+"date": "2026-08-22",
+"name": "DIA FOIA Electronic Reading Room entry for this reference document",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237621/"
+},
+{
+"date": "2026-08-23",
+"name": "DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations",
+"url": "https://fas.org/publication/aatip-list/"
+},
+{
+"date": null,
+"name": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html",
+"url": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html"
+},
+{
+"date": null,
+"name": "https://irp.fas.org/dia/aatip-list.pdf",
+"url": "https://irp.fas.org/dia/aatip-list.pdf"
+}
+],
+"tier": "B",
+"type": "research"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2011-01-01",
+"dateStart": "2009-01-01",
+"direction": "out",
+"edgeLabel": "co-affiliated AAWSAP authors at Wayne State University",
+"id": "kit-green",
+"l0": false,
+"label": "Christopher C. 'Kit' Green",
+"note": "The DIA congressional list records Wayne State University as the affiliation for both Genik's deliverables and for Kit Green's human biological tissue field-effects deliverable. This establishes a documented shared institutional affiliation on the same contract, not a documented working relationship — no primary source describing collaboration between them has been located, and the edge should not be read as one.",
+"sources": [
+{
+"date": null,
+"name": "https://irp.fas.org/dia/aatip-list.pdf",
+"url": "https://irp.fas.org/dia/aatip-list.pdf"
+},
+{
+"date": null,
+"name": "https://ufos-scientificresearch.blogspot.com/2018/08/an-analysis-of-that-list-of-aawsapaatip.html",
+"url": "https://ufos-scientificresearch.blogspot.com/2018/08/an-analysis-of-that-list-of-aawsapaatip.html"
+},
+{
+"date": null,
+"name": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html",
+"url": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2009-07-13",
+"direction": "out",
+"edgeLabel": "director, Emergent Technology Research Division; assistant professor of psychiatry and behavioral neurosciences",
+"id": "wayne-state-university",
+"l0": true,
+"label": "Wayne State University",
+"note": "Wayne State University School of Medicine identifies Genik as director of its Emergent Technology Research Division and an assistant professor in the Department of Psychiatry and Behavioral Neurosciences. Wayne State is the affiliation DIA recorded for him on the congressional list. The dateStart is the date of the university announcement establishing the role, not necessarily the start of his tenure.",
+"sources": [
+{
+"date": null,
+"name": "https://today.wayne.edu/medicine/news/2009/07/13/richard-genik-phd-25514",
+"url": "https://today.wayne.edu/medicine/news/2009/07/13/richard-genik-phd-25514"
+},
+{
+"date": null,
+"name": "https://irp.fas.org/dia/aatip-list.pdf",
+"url": "https://irp.fas.org/dia/aatip-list.pdf"
+}
+],
+"tier": "C",
+"type": "institutional"
+}
+],
+"date": "2010-12-15",
+"dateEnd": null,
+"dateStart": "2010-12-15",
+"deg": 5,
+"denials": [],
+"domains": [
+"w17-wayne-etrd",
+"w7-dirds-2",
+"w7-dirds-3",
+"w7-dirds-4"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "2",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "richard-genik",
+"instId": null,
+"l0": false,
+"label": "Richard J. Genik II",
+"loc": null,
+"locId": null,
+"members": null,
+"narrative": "Richard Genik wrote three of the thirty-eight DIRDs, more than anyone except Eric Davis, and all three are human-factors papers rather than physics papers. The DIA list credits him with \"Technological Applications to Controlling External Devices in the Absence of Limb-Operated Interfaces\" (item 20, released as \"Technological Approaches to...\"), \"Cognitive Limits on Simultaneous Control of Multiple Unmanned Spacecraft\" (item 28), and \"Quantum Computing and Utilizing Organic Molecules in Automation Technology\" (item 33). His affiliation on the list is Wayne State University, which is where the human-effects strand of AAWSAP concentrated.\n\nThat concentration is the reason he matters to this board. Wayne State is also the institution the DIA list gives for Christopher \"Kit\" Green, author of the field-effects-on-biological-tissues DIRD. Two of the thirty-eight papers, and three counting Genik's second and third, were written inside one medical school, and the human-effects line of AAWSAP inquiry runs through it. Genik is a physicist by training, with a PhD in physics from Michigan State University and a BS in applied physics from Wayne State, working in a psychiatry and behavioural neurosciences department on functional MRI measurement of cognitive workload in naturalistic multitasking environments. He directs Wayne State's Emergent Technology Research Division. He was one of fifteen experts selected by the US Army to advise on how the service should direct its neuroscience research funding over a twenty-year horizon.\n\nHis DIRD on limb-independent device control is DIA-08-1003-012, dated 23 March 2010 with an Intelligence Cut-Off Date of 1 December 2009, in the Acquisition Threat Support series. In substance it is a brain-machine interface survey; the KLAS-TV list of the same document, published July 2018, titles it simply \"Brain-Machine Interfaces.\" That is the shortest description of what AAWSAP wanted from Wayne State: a forecast of how a pilot might fly something without hands.\n\nGenik has no documented custody proximity and no documented special access. He is wired here as an author and as the connective tissue between the DIRD series and the Wayne State human-effects cluster.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Richard J. Genik II",
+"sources": [
+{
+"date": null,
+"name": "https://irp.fas.org/dia/aatip-list.pdf",
+"url": "https://irp.fas.org/dia/aatip-list.pdf"
+},
+{
+"date": null,
+"name": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html",
+"url": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html"
+},
+{
+"date": null,
+"name": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_34-DIRD_Cognitive_Limits_on_Simultaneous_Control_of_Multiple_Unmanned_Spacecraft.pdf",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_34-DIRD_Cognitive_Limits_on_Simultaneous_Control_of_Multiple_Unmanned_Spacecraft.pdf"
+},
+{
+"date": null,
+"name": "https://today.wayne.edu/medicine/news/2009/07/13/richard-genik-phd-25514",
+"url": "https://today.wayne.edu/medicine/news/2009/07/13/richard-genik-phd-25514"
+},
+{
+"date": null,
+"name": "https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk",
+"url": "https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk"
+},
+{
+"date": null,
+"name": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_35-DIRD_Quantum_Computing_and_Utilizing_Organic_Molecules_in_Automation_Technology.pdf",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_35-DIRD_Quantum_Computing_and_Utilizing_Organic_Molecules_in_Automation_Technology.pdf"
+},
+{
+"date": null,
+"name": "https://www.theblackvault.com/documentarchive/the-advanced-aviation-threat-identification-program-aatip-dird-report-research/",
+"url": "https://www.theblackvault.com/documentarchive/the-advanced-aviation-threat-identification-program-aatip-dird-report-research/"
+},
+{
+"date": "2010-03-23",
+"name": "Defense Intelligence Reference Document, \"Technological Approaches to Controlling External Devices in the Absence of Limb-Operated Interfaces\" (The Black Vault FOIA release)",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_12-DIRD_Technological_Approaches_to_Controlling_External_Devices.pdf"
+}
+],
+"status": "active",
+"sub": "Wayne State University School of Medicine; author of three DIRDs including 'Cognitive Limits on Simultaneous Control of Multiple Unmanned Spacecraft' (DIA-08-1101-001)",
+"tier": "A",
+"tierRationale": "Re-graded A on a global pass (rank 135 of 1027, score 53). 5 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D3.",
+"timeline": [],
+"unexplainedResidual": null,
+"unverified": []
+}

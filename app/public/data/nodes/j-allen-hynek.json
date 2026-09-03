@@ -1,0 +1,222 @@
+{
+"A": 2,
+"C": 1,
+"D": 3,
+"affiliations": [
+"Ohio State University (1936-1956)",
+"Project SIGN / GRUDGE / Blue Book, scientific consultant (1948-1969)",
+"Northwestern University, Department of Astronomy chair (1960-1978)",
+"Center for UFO Studies, founder (1973)"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "1948-01-01",
+"event": "Retained as scientific consultant to Project SIGN",
+"precision": "year"
+},
+{
+"date": "1966-03-01",
+"event": "Sent to Michigan after the Dexter and Hillsdale sightings; offers the swamp gas hypothesis at a Detroit press conference",
+"precision": "month"
+},
+{
+"date": "1968-07-29",
+"event": "Testifies before the House Committee on Science and Astronautics UFO symposium",
+"precision": "day"
+},
+{
+"date": "1968-10-01",
+"event": "Reports that Blue Book's efforts were 'totally inadequate'",
+"precision": "month"
+},
+{
+"date": "1969-12-17",
+"event": "Blue Book terminated",
+"precision": "day"
+},
+{
+"date": "1973-01-01",
+"event": "Founds the Center for UFO Studies",
+"precision": "year"
+}
+],
+"claims": [
+{
+"source": "US House Committee on Science and Astronautics, 'Symposium on Unidentified Flying Objects', 90th Congress, 2nd Session, 29 July 1968",
+"text": "Hynek testified before the House Committee on Science and Astronautics at its UFO symposium on 29 July 1968, alongside James E. McDonald, Carl Sagan, Robert L. Hall, James A. Harder and Robert M. L. Baker Jr.",
+"tier": 1
+},
+{
+"source": "Hynek, statements from the late 1960s and 'The UFO Experience: A Scientific Inquiry' (1972)",
+"text": "Hynek stated that Blue Book had become 'a public relations exercise' with 'little or no research undertaken using the scientific method.'",
+"tier": 2
+},
+{
+"source": "Hynek's own account in 'The UFO Experience' (1972) and contemporaneous press coverage",
+"text": "Hynek's March 1966 swamp gas explanation was offered as provisional and for only some cases, but was reported as a blanket dismissal; he later expressed regret.",
+"tier": 2
+},
+{
+"source": "Project Blue Book administrative records, NARA RG 341; Condon Report Sec. V Ch. 2",
+"text": "Hynek served as scientific consultant across Project SIGN (1947-1949), Project GRUDGE (1949-1951) and Project Blue Book (1952-1969).",
+"tier": 1
+}
+],
+"cls": "person",
+"cluster": "research",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 2,
+"cls": "event",
+"dateEnd": "1966",
+"dateStart": "1966",
+"direction": "out",
+"edgeLabel": "The swamp gas episode triggered the 1966 hearing",
+"id": "hearing-1966-04-05",
+"l0": false,
+"label": "House Armed Services Committee UFO Hearing",
+"note": "Hynek's March 1966 Michigan press conference explanation was reported as a blanket dismissal, produced a public backlash, and led directly to Gerald Ford's demand for congressional hearings.",
+"sources": [
+{
+"date": "1968-11-01",
+"name": "Scientific Study of Unidentified Flying Objects (Condon Report)",
+"url": "https://files.ncas.org/condon/"
+}
+],
+"tier": "C",
+"type": "witness-chain"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "1968",
+"dateStart": "1968",
+"direction": "out",
+"edgeLabel": "Both testified at the 29 July 1968 congressional symposium",
+"id": "james-mcdonald",
+"l0": false,
+"label": "James E. McDonald",
+"note": "The Air Force's own long-serving consultant and its most aggressive scientific critic appeared at the same hearing, both concluding the official program was inadequate.",
+"sources": [
+{
+"date": "1968-07-29",
+"name": "House Committee on Science and Astronautics, Symposium on UFOs, 29 July 1968",
+"url": "http://nicap.org/books/1968Sym/1968_UFO_Symposium.pdf"
+}
+],
+"tier": "B",
+"type": "witness-chain"
+},
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": "1969",
+"dateStart": "1948",
+"direction": "out",
+"edgeLabel": "Hynek was scientific consultant across SIGN, GRUDGE and Blue Book",
+"id": "project-blue-book",
+"l0": true,
+"label": "Project Blue Book",
+"note": "Twenty-one continuous years as the Air Force's own astronomer on the problem — longer than any other participant in the legacy system.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "NARA — Project Blue Book records",
+"url": "https://www.archives.gov/research/military/air-force/ufos"
+},
+{
+"date": "1968-11-01",
+"name": "Condon Report Sec. V Ch. 2",
+"url": "https://files.ncas.org/condon/text/s5chap02.htm"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 2,
+"cls": "program",
+"dateEnd": "1953",
+"dateStart": "1953",
+"direction": "out",
+"edgeLabel": "Hynek presented to the panel but was not a member",
+"id": "robertson-panel",
+"l0": true,
+"label": "Robertson Panel",
+"note": "The Air Force's scientific consultant briefed the CIA-convened panel; the formal membership was Robertson, Alvarez, Berkner, Goudsmit and Page.",
+"sources": [
+{
+"date": "1953-01-17",
+"name": "Robertson Panel report",
+"url": "http://www.cufon.org/cufon/robert.htm"
+}
+],
+"tier": "A",
+"type": "witness-chain"
+}
+],
+"date": "1968-07-29",
+"dateEnd": null,
+"dateStart": "1968-07-29",
+"deg": 4,
+"denials": [],
+"domains": [
+"history-1940s-1960s"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "j-allen-hynek",
+"instId": "atic",
+"l0": false,
+"label": "J. Allen Hynek",
+"loc": "Evanston, IL",
+"locId": "l-wright-patterson",
+"members": null,
+"narrative": "J. Allen Hynek was the Air Force's scientific consultant on unidentified objects continuously from Project SIGN in 1948 through Blue Book's termination in 1969 — twenty-one years, longer than anyone else in the system. He was hired to explain sightings away as astronomical misidentifications and did so effectively for a decade. His conversion is the single best-documented insider defection of the legacy era. In March 1966, sent to Michigan after mass sightings near Dexter and Hillsdale, he offered swamp gas as a possible explanation for some cases; the press stripped the qualifiers, the explanation became a national joke, and Hynek concluded he had been used as the front for an institutional posture rather than an inquiry. He testified to the House Committee on Science and Astronautics on 29 July 1968 and by then was stating publicly that Blue Book was procedurally inadequate, under-resourced and 'totally inadequate' as a research effort — a public relations exercise with 'little or no research undertaken using the scientific method.' Hynek is the proof that the Air Force's own scientist concluded the Air Force was not investigating.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "J. Allen Hynek",
+"sources": [
+{
+"date": "1968-07-29",
+"name": "House Committee on Science and Astronautics, Symposium on Unidentified Flying Objects, 29 July 1968 (full transcript PDF)",
+"url": "http://nicap.org/books/1968Sym/1968_UFO_Symposium.pdf"
+},
+{
+"date": "1968-11-01",
+"name": "Condon Report, Sec. V Ch. 2",
+"url": "https://files.ncas.org/condon/text/s5chap02.htm"
+},
+{
+"date": "2026-08-12",
+"name": "NARA — Project Blue Book records",
+"url": "https://www.archives.gov/research/military/air-force/ufos"
+}
+],
+"status": "dead",
+"sub": "Astronomer; USAF scientific consultant 1948-1969",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 257 of 1027, score 39). 4 connections, 3 of them custody/witness/funding/programmatic. Axes C1/A2/D3.",
+"timeline": [
+{
+"date": "1966-03-01",
+"id": "tl-1966-03",
+"label": "Michigan sightings and 'swamp gas'",
+"precision": "month",
+"strand": "witness",
+"text": "Mass sightings near Dexter and Hillsdale are met with J. Allen Hynek's provisional swamp gas explanation, reported as a blanket dismissal and met with public fury.",
+"tier": "B"
+}
+],
+"unexplainedResidual": null,
+"unverified": []
+}

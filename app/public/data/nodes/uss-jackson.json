@@ -1,0 +1,82 @@
+{
+"A": 1,
+"C": 1,
+"D": 2,
+"band": null,
+"claims": [
+{
+"source": "Alexandro Wiggins, written statement, House Oversight Task Force, 9 September 2025",
+"text": "USS Jackson's CIC recorded the 15 February 2023 encounter on a Star SAFIRE multi-spectral EO/IR system with intact platform metadata.",
+"tier": 2
+}
+],
+"cls": "institution",
+"cluster": "witness",
+"connections": [
+{
+"claimTier": 2,
+"cls": "event",
+"dateEnd": "2023",
+"dateStart": "2023",
+"direction": "in",
+"edgeLabel": "The ship whose EO/IR system produced the recording",
+"id": "uss-jackson-2023",
+"l0": false,
+"label": "USS Jackson (LCS-6) Encounter, 15 February 2023",
+"note": "The footage carries 'timestamps, lat/long, and platform readouts consistent with USS Jackson's location' - precisely the metadata the NASA study team said government UAP holdings lack.",
+"sources": [
+{
+"date": "2025-09-09",
+"name": "House Oversight - Wiggins written statement (PDF)",
+"url": "https://oversight.house.gov/wp-content/uploads/2025/09/Wiggins-Written-Statement.pdf"
+},
+{
+"date": "2023-09-14",
+"name": "NASA UAP Independent Study Team Final Report (PDF)",
+"url": "https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf"
+}
+],
+"tier": "C",
+"type": "institutional"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "2023",
+"deg": 1,
+"denials": [],
+"desc": "The littoral combat ship whose combat information center recorded four transmedium tic-tac-shaped objects in Warning Area W-291 off Southern California at approximately 1915 PST on 15 February 2023, using a Star SAFIRE multi-spectral electro-optical/infrared system. Senior Chief Operations Specialist Alexandro Wiggins testified to the House Oversight Task Force on 9 September 2025 that the footage carries 'timestamps, lat/long, and platform readouts consistent with USS Jackson's location' - metadata of exactly the kind the NASA Independent Study Team said the government's UAP holdings lack. The ship is significant to the board because of the disclosure path, not just the sighting: the recording reached the public through journalists, and the crew member carried it to Congress himself while still on active duty. No AARO case assessment of the Jackson footage has been published, and it is not identifiable in any released annual report.",
+"domains": [
+"aviators-incidents"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "uss-jackson",
+"l0": false,
+"label": "USS Jackson (LCS-6)",
+"locLabel": null,
+"members": null,
+"short": "USS Jackson (LCS-6)",
+"sources": [
+{
+"date": "2025-09-09",
+"name": "House Oversight - Wiggins written statement (PDF)",
+"url": "https://oversight.house.gov/wp-content/uploads/2025/09/Wiggins-Written-Statement.pdf"
+},
+{
+"date": "2025-04-17",
+"name": "The Debrief - Return of the Tic Tacs",
+"url": "https://thedebrief.org/return-of-the-tic-tacs/"
+}
+],
+"sub": "Independence-class littoral combat ship",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 904 of 1027, score 14). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D2.",
+"timeline": []
+}

@@ -1,0 +1,126 @@
+{
+"A": 2,
+"C": 0,
+"D": 1,
+"affiliations": [
+"US Senate (1963-2012)",
+"Chairman, Senate Appropriations Committee (2009-2012)",
+"Chairman, Defense Appropriations Subcommittee"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "2007-01-01",
+"event": "Joins Reid and Stevens in directing ~$22M to DIA through the classified defense appropriation",
+"precision": "year"
+},
+{
+"date": "2009-01-01",
+"event": "Becomes Chairman of the Senate Appropriations Committee",
+"precision": "year"
+},
+{
+"date": "2012-12-17",
+"event": "Dies in office",
+"precision": "day"
+}
+],
+"claims": [
+{
+"source": "Honolulu Civil Beat, 13 June 2021",
+"text": "Inouye, Reid and Stevens collaborated in 2007 to direct $22 million into the Pentagon's classified black budget for UFO-related research; Inouye's chairmanship of Appropriations was pivotal in bypassing Senate floor debate about the allocation.",
+"tier": 2
+},
+{
+"source": "AARO Historical Record Report Volume 1, 8 March 2024, p.22",
+"text": "The Defense Appropriations Acts of FY2008 and FY2010 appropriated $22 million to DIA at Reid's direction — the vehicle Inouye controlled.",
+"tier": 1
+},
+{
+"source": "Inference from the appropriations mechanism plus DIA's need to write a January 2018 letter introducing AATIP to the Senate Armed Services Committee",
+"text": "Placing the funds in the classified annex rather than an unclassified line item was a deliberate choice to avoid authorizing-committee review, which is why the House and Senate Armed Services Committees had no visibility on AAWSAP until 2017-2018.",
+"tier": 3
+}
+],
+"cls": "person",
+"cluster": "other",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 2,
+"cls": "legislation",
+"dateEnd": "2010",
+"dateStart": "2007",
+"direction": "out",
+"edgeLabel": "Appropriations chairman who provided the vehicle",
+"id": "defense-appropriations-aawsap",
+"l0": false,
+"label": "Defense Appropriations Acts FY2008 and FY2010 — the $22M AAWSAP appropriation",
+"note": "Inouye's control of the Senate Appropriations process allowed the $22M to be routed through the classified annex without floor debate on the allocation.",
+"sources": [
+{
+"date": "2021-06-13",
+"name": "Honolulu Civil Beat",
+"url": "https://www.civilbeat.org/2021/06/how-hawaii-sen-dan-inouye-helped-set-the-stage-for-ufo-research/"
+}
+],
+"tier": "B",
+"type": "funding"
+}
+],
+"date": "2007-01-01",
+"dateEnd": null,
+"dateStart": "2007-01-01",
+"deg": 1,
+"denials": [],
+"domains": [
+"_rs-archive-mirror",
+"aawsap-aatip"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "2",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "daniel-inouye",
+"instId": "us-senate",
+"l0": false,
+"label": "Daniel K. Inouye",
+"loc": "Washington, DC",
+"locId": "l-dc",
+"members": null,
+"narrative": "Inouye is the reason the money moved without a floor fight. As chairman of the Senate Appropriations Committee (and previously chair of Defense Appropriations) he controlled the vehicle through which discretionary defense spending is written, and his agreement let Reid and Ted Stevens route roughly $22 million into the classified annex of the FY2008 defense appropriation rather than into a line item anyone would have to defend publicly. The mechanism matters more than the man: an appropriation placed in the black budget by three senators, two of them the ranking figures of the appropriations process, is not subject to the authorizing committees' scrutiny and does not appear in any public budget justification. That is the precise structural gap the modern disclosure fight is about. Inouye had a decades-long record of pushing back on intelligence-community secrecy from inside the process — he co-chaired the Iran-Contra committee — which makes his participation here a deliberate act rather than a favour. He died in office on 17 December 2012, the same year AAWSAP/AATIP was terminated.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Daniel K. Inouye",
+"sources": [
+{
+"date": "2026-07-05",
+"name": "Archived: AARO Historical Record Report Volume 1 (Wayback 2026-07-05)",
+"url": "https://web.archive.org/web/20260705034310/https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF"
+},
+{
+"date": "2021-06-13",
+"name": "Honolulu Civil Beat — How Hawaii Sen. Dan Inouye Helped Set The Stage For UFO Research",
+"url": "https://www.civilbeat.org/2021/06/how-hawaii-sen-dan-inouye-helped-set-the-stage-for-ufo-research/"
+},
+{
+"date": "2024-03-08",
+"name": "AARO Historical Record Report Volume 1",
+"url": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF"
+}
+],
+"status": "active",
+"sub": "US Senator (D-HI); Chairman, Senate Appropriations Committee",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 792 of 1027, score 18). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A2/D1.",
+"timeline": [],
+"unexplainedResidual": null,
+"unverified": [
+"The specific appropriations bill language and account line into which the $22M was placed has never been released."
+]
+}

@@ -1,0 +1,129 @@
+{
+"A": 2,
+"C": 0,
+"D": 2,
+"band": null,
+"claims": [
+{
+"source": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm",
+"text": "Pub. L. 118-31, div. G, sec. 7606(c), verbatim: 'Agency Review of Special Access Programs.--Not later than 1 year after the date of the enactment of this Act, each head of an agency who is authorized to establish a special access program by Executive Order 13526 (50 U.S.C. 3161 note; relating to classified national security information), or successor order, shall-- (1) review the number of personnel of the agency eligible for access to such special access programs; and (2) submit to Congress, including the congressional intelligence committees, the Committee on Armed Services, the Committee on Homeland Security and Governmental Affairs, the Committee on Foreign Relations, the Committee on the Judiciary of the Senate, and the Committee on Armed Services, the Committee on Oversight and Accountability, the Committee on Foreign Affairs, and the Committee on the Judiciary of the House of Representatives, a report on how the agency head will ensure that the number of such personnel is limited to the minimum required.' Text at 137 Stat. 1099.",
+"tier": 1
+},
+{
+"source": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm",
+"text": "Sec. 7606(a)(3), verbatim: 'This subsection shall apply to the Secretary of Defense in the Secretary's capacity as the Executive Agent for the National Industrial Security Program, and the Secretary shall treat contractors, licensees, and grantees as personnel of the Department of Defense for purposes of the studies and reports required by this subsection.'",
+"tier": 1
+},
+{
+"source": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm",
+"text": "Section 7606(c) is the only enacted provision located here that requires a SAP-related report to go to the Judiciary, Foreign Relations/Affairs and Homeland Security/Oversight committees of both chambers -- committees entirely outside the 10 U.S.C. 119(g) 'defense committees' definition and outside the 50 U.S.C. 3091a audience. It reaches only headcount, not program identity, and carries no waiver clause. Reasoning stated from the text.",
+"tier": 3
+},
+{
+"source": "Public Law 118-31, div. G, sec. 7606(c), 137 Stat. 1099",
+"text": "FY2024 IAA sec. 7606(c): each head of an agency authorised to establish a special access program by E.O. 13526 must, within one year, review the number of personnel eligible for access to such programs and report to Congress including the House Committee on Oversight and Accountability on how the number will be limited to the minimum required.",
+"tier": 1
+},
+{
+"source": "Public Law 118-31, div. G, sec. 7606(a)(3)",
+"text": "FY2024 IAA sec. 7606(a)(3) applies the clearance study to the Secretary of Defense as Executive Agent for the National Industrial Security Program and directs that contractors, licensees and grantees be treated as DoD personnel for that purpose.",
+"tier": 1
+},
+{
+"source": "Public Law 118-31 enactment date and sec. 7606(c) deadline",
+"text": "Section 7606(c) reports were due by 22 December 2024 from each of the six E.O. 13526 SAP-creating officials; no such report has been publicly released. Reasoning: the one-year deadline runs from the 22 December 2023 enactment date and no public copy has surfaced.",
+"tier": 3
+}
+],
+"cls": "legislation",
+"cluster": "other",
+"connections": [
+{
+"claimTier": 1,
+"cls": "legislation",
+"dateEnd": null,
+"dateStart": "2023-12-22",
+"direction": "out",
+"edgeLabel": "Requires a personnel census from each of the six SAP-creating officials",
+"id": "eo-13526",
+"l0": true,
+"label": "Executive Order 13526 — Classified National Security Information",
+"note": "FY2024 IAA sec. 7606(c) addresses 'each head of an agency who is authorized to establish a special access program by Executive Order 13526', due within one year.",
+"sources": [
+{
+"date": "2023-12-22",
+"name": "Public Law 118-31, FY2024 NDAA (govinfo enrolled text)",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm"
+}
+],
+"tier": "A",
+"type": "legislative"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2023-12-22",
+"direction": "out",
+"edgeLabel": "Reports on SAP access populations are addressed to House Oversight among others",
+"id": "house-oversight-committee",
+"l0": true,
+"label": "U.S. House Committee on Oversight and Government Reform",
+"note": "Sec. 7606(c)(2) names the Committee on Oversight and Accountability of the House of Representatives among the recipients.",
+"sources": [
+{
+"date": "2023-12-22",
+"name": "Public Law 118-31, FY2024 NDAA (govinfo enrolled text)",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm"
+}
+],
+"tier": "B",
+"type": "legislative"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "2023-12-22",
+"deg": 2,
+"denials": [],
+"desc": "Section 7606 of the FY2024 Intelligence Authorization Act, headed 'Studies and Recommendations on Necessity of Security Clearances', contains at subsection (c) a provision that has attracted almost no attention and is directly useful to this board. It requires that 'Not later than 1 year after the date of the enactment of this Act, each head of an agency who is authorized to establish a special access program by Executive Order 13526 ... or successor order' shall review the number of agency personnel eligible for access to such special access programs and submit to Congress - including the intelligence committees, Senate Armed Services, Senate Homeland Security and Governmental Affairs, Senate Foreign Relations, Senate Judiciary, House Armed Services, House Oversight and Accountability, House Foreign Affairs and House Judiciary - a report on how the agency head will ensure that the number of such personnel is limited to the minimum required. The addressees are the six SAP-creating officials named in E.O. 13526 section 4.3. Subsection (a)(3) extends the parallel clearance study to industry: it 'shall apply to the Secretary of Defense in the Secretary's capacity as the Executive Agent for the National Industrial Security Program, and the Secretary shall treat contractors, licensees, and grantees as personnel of the Department of Defense'. The reports were due by 22 December 2024. Whether they were submitted, and what population figures they contain, is a live and answerable oversight question.",
+"domains": [
+"_rs-sap-docs",
+"w2-sap-architecture"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "ndaa-fy2024-7606",
+"l0": false,
+"label": "FY2024 IAA sec. 7606(c) — Agency Review of Special Access Programs",
+"locLabel": null,
+"members": null,
+"short": "FY2024 IAA sec. 7606(c) — Agency Review of Special Access Programs",
+"sources": [
+{
+"date": "2023-12-22",
+"name": "Public Law 118-31, National Defense Authorization Act for Fiscal Year 2024 (incl. div. G, Intelligence Authorization Act for FY2024) — full text, GPO",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm"
+}
+],
+"sub": "statute",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 585 of 1027, score 26). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A2/D2.",
+"timeline": [
+{
+"date": "2024-12-22",
+"id": "sap-tl-2024-7606x",
+"label": "Deadline passes for the SAP access population reports",
+"precision": "day",
+"strand": "oversight",
+"text": "Section 7606(c) of the FY2024 Intelligence Authorization Act required each of the six officials authorised by E.O. 13526 to establish special access programs to report to nine congressional committees, including House Oversight, on how the number of personnel eligible for SAP access will be limited to the minimum required. The one-year deadline expired on this date. No such report has been publicly released.",
+"tier": "B"
+}
+]
+}

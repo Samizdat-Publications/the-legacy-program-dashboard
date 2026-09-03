@@ -1,0 +1,88 @@
+{
+"A": 0,
+"C": 0,
+"D": 3,
+"band": null,
+"claims": [
+{
+"source": "https://www.war.gov/UFO/ — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
+"text": "Release 03's document bundle is 826MB and its video bundle 4.6GB, per the war.gov/UFO portal listing.",
+"tier": 2
+},
+{
+"source": "https://www.war.gov/UFO/ — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
+"text": "PURSUE video bundles are served from a CloudFront distribution (d34w7g4gy10iej.cloudfront.net), not from war.gov or aaro.mil.",
+"tier": 2
+},
+{
+"source": "https://www.war.gov/UFO/",
+"text": "The war.gov/UFO portal publishes no file counts for any release; every per-tranche count in circulation is a third-party inventory. Reasoning: direct inspection of the portal on 12 August 2026 shows only date, document bundle size and video bundle size per release.",
+"tier": 3
+}
+],
+"cls": "document",
+"cluster": "other",
+"connections": [
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": "2026-08-07",
+"dateStart": "2026-05-08",
+"direction": "in",
+"edgeLabel": "physical release locations",
+"id": "pursue-releases",
+"l0": true,
+"label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters",
+"note": "The portal lists date, document bundle size and video bundle size per release and nothing else; the bundle URLs are the only authoritative inventory the government provides.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Department of War, WAR.GOV/UFO portal",
+"url": "https://www.war.gov/UFO/"
+}
+],
+"tier": "A",
+"type": "custody"
+}
+],
+"coords": null,
+"dateEnd": "2026-08-07",
+"dateStart": "2026-05-08",
+"deg": 1,
+"denials": [],
+"desc": "The physical addresses of the PURSUE corpus, recorded here because the release programme itself publishes no manifest and because the split hosting is substantive. Release 01, 8 May 2026: documents 1.2GB at https://www.war.gov/medialink/ufo/bundle/Release_1.zip, video 1.3GB at https://d34w7g4gy10iej.cloudfront.net/uapvideos.zip. Release 02, 22 May 2026: documents 70.1MB at https://www.war.gov/medialink/ufo/052226/release_02/release_02_document_bundle.zip, video 5.6GB at https://d34w7g4gy10iej.cloudfront.net/uap052226.zip. Release 03, 12 June 2026: documents 826MB at https://www.war.gov/medialink/ufo/061226/release_03/release_03_documents.zip, video 4.6GB at https://d34w7g4gy10iej.cloudfront.net/release_03/uap_videos_061226.zip. Release 04, 10 July 2026: documents 227MB at https://www.war.gov/medialink/ufo/071026/release_04/release_04_documents_071026.zip, video 1.4GB at https://d34w7g4gy10iej.cloudfront.net/release_04/uap_release04_videos_071026.zip. Release 05, 7 August 2026: documents 130MB at https://www.war.gov/medialink/ufo/release_05/Aug_07/release_05_Aug_07_documents.zip, video 513MB at https://d34w7g4gy10iej.cloudfront.net/release_05/uap_videos_080726.zip. Cumulative published volume as of 12 August 2026: approximately 2.45GB of documents and 13.4GB of video. The first release's URL path - /bundle/Release_1.zip - has no date directory, while every later release does; the naming was regularised after the first drop, which is what an unplanned first tranche looks like in a URL scheme. The war.gov page states no per-release file counts, so every count on this board comes from third-party inventories rather than from the releasing authority.",
+"domains": [
+"_rs-archive-mirror",
+"w2-2025-2026"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "pursue-bundle-urls",
+"l0": false,
+"label": "PURSUE release bundle URLs (five tranches, documents and video)",
+"locLabel": null,
+"members": null,
+"short": "PURSUE release bundle URLs (five tranches, documents and video)",
+"sources": [
+{
+"date": "2026-08-10",
+"name": "Archived: Department of War, WAR.GOV/UFO PURSUE release portal (Wayback 2026-08-10)",
+"url": "https://web.archive.org/web/20260810202017/https://www.war.gov/UFO/"
+},
+{
+"date": "2026-08-12",
+"name": "Department of War, WAR.GOV/UFO PURSUE release portal",
+"url": "https://www.war.gov/UFO/"
+}
+],
+"sub": "The actual download locations; documents on war.gov, video on CloudFront",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 885 of 1027, score 15). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D3.",
+"timeline": []
+}

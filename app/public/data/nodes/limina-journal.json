@@ -1,0 +1,82 @@
+{
+"A": 0,
+"C": 0,
+"D": 2,
+"band": null,
+"claims": [
+{
+"source": "Crossref records for DOI prefix 10.59661",
+"text": "Limina publishes peer-reviewed UAP studies under DOI prefix 10.59661, including Ammon (January 2024), Szydagis (March 2025), Grosvenor, Hancock & Porritt on the US atomic warfare complex (March 2025) and Houran on government-sourced UAP data (July 2026).",
+"tier": 1
+}
+],
+"cls": "institution",
+"cluster": "research",
+"connections": [
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2025",
+"direction": "out",
+"edgeLabel": "Publishes the SCU atomic-warfare-complex analyses",
+"id": "scu-uap-studies",
+"l0": false,
+"label": "Scientific Coalition for UAP Studies (SCU)",
+"note": "Grosvenor, Hancock and Porritt's 'UAP Indications Analysis 1945-1975 United States Atomic Warfare Complex' appeared in Limina in March 2025 with a DOI.",
+"sources": [
+{
+"date": "2025-03-07",
+"name": "Matthew Szydagis, 'How much time do we have before catastrophic disclosure occurs?', Limina - The Journal of UAP Studies",
+"url": "https://doi.org/10.59661/001c.131700"
+}
+],
+"tier": "C",
+"type": "institutional"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "2024",
+"deg": 1,
+"denials": [],
+"desc": "Limina is a peer-reviewed journal dedicated to UAP studies with its own DOI prefix, publishing since 2024. Its output includes methodological and governance work - Daniel Ammon on the development, dissemination and revision of good scientific practice for UAP research (January 2024) and on the demarcation problem (July 2026), Matthew Szydagis on disclosure timelines (March 2025), Karen Engels on phenomenology, James Houran on a procedural roadmap for scientific studies of government-sourced UAP data (July 2026), and the SCU Grosvenor-Hancock-Porritt analysis of the 1945-1975 United States atomic warfare complex (March 2025). Its existence matters institutionally rather than evidentially: a field cannot accumulate knowledge without a venue that will referee it, and until Limina and the Journal of Astronomical Instrumentation special issue there was no such venue that a serious scientist could publish in without career cost. The journal is also where the argument about what would even count as government-sourced evidence is being conducted in print.",
+"domains": [
+"scientists-technical"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "limina-journal",
+"l0": false,
+"label": "Limina - The Journal of UAP Studies",
+"locLabel": null,
+"members": null,
+"short": "Limina - The Journal of UAP Studies",
+"sources": [
+{
+"date": "2025-03-07",
+"name": "Matthew Szydagis, 'How much time do we have before catastrophic disclosure occurs?', Limina - The Journal of UAP Studies",
+"url": "https://doi.org/10.59661/001c.131700"
+},
+{
+"date": "2025-03-07",
+"name": "Grosvenor, Hancock & Porritt, 'UAP Indications Analysis 1945-1975 United States Atomic Warfare Complex', Limina",
+"url": "https://doi.org/10.59661/001c.131854"
+},
+{
+"date": "2026-07-11",
+"name": "Houran, 'Forging a Procedural Roadmap for Scientific Studies of Government-Sourced UAP Data', Limina",
+"url": "https://doi.org/10.59661/001c.164486"
+}
+],
+"sub": "Peer-reviewed journal of UAP studies, DOI prefix 10.59661",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 1014 of 1027, score 8). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D2.",
+"timeline": []
+}

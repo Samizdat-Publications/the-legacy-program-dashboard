@@ -1,0 +1,124 @@
+{
+"A": 0,
+"C": 0,
+"D": 3,
+"band": null,
+"claims": [
+{
+"source": "Office of the Chief Science Advisor of Canada, Sky Canada Project report, June 2025",
+"text": "'While there is no single model or universally established operating standard, the processes in place in a few countries, notably the United States, France and Chile, provide interesting examples of coordinated, transparent, and scientifically driven approaches to UAP reporting.'",
+"tier": 1
+},
+{
+"source": "Sky Canada Project report, June 2025",
+"text": "'GEIPAN has a team of three full-time employees to manage the reporting process ... Reports are investigated through the efforts of over 20 trained volunteers throughout France.'",
+"tier": 1
+}
+],
+"cls": "domain",
+"cluster": "research",
+"connections": [
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "1997",
+"direction": "in",
+"edgeLabel": "the civil-aviation implementation of the same model",
+"id": "cefaa",
+"l0": true,
+"label": "CEFAA / SEFAA - Chilean anomalous aerial phenomena office, Dirección General de Aeronáutica Civil",
+"note": "SEFAA sits inside the DGAC, publishes monthly resolved-case bulletins and archives cases by year back to 2018.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "SEFAA - Historia",
+"url": "https://sefaa.dgac.gob.cl/historia/"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "1977",
+"direction": "in",
+"edgeLabel": "the reference implementation of a civil state UAP office",
+"id": "geipan",
+"l0": true,
+"label": "GEIPAN - Groupe d'Études et d'Informations sur les Phénomènes Aérospatiaux Non identifiés",
+"note": "Published classification, published case conclusions, national police feed, three full-time staff and twenty-plus trained volunteers.",
+"sources": [
+{
+"date": "2026-03-31",
+"name": "GEIPAN - Classification",
+"url": "https://www.geipan.fr/fr/node/58787"
+},
+{
+"date": "2025-06-01",
+"name": "Sky Canada Project report",
+"url": "https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": "2025-06",
+"dateStart": "2025-06",
+"direction": "in",
+"edgeLabel": "the report is the source of the three-office model",
+"id": "sky-canada-project",
+"l0": true,
+"label": "Sky Canada Project - Office of the Chief Science Advisor of Canada",
+"note": "This is the first time a G7 government has publicly named which other countries' arrangements it would copy.",
+"sources": [
+{
+"date": "2025-06-01",
+"name": "Sky Canada Project report",
+"url": "https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada"
+}
+],
+"tier": "B",
+"type": "research"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "1977",
+"deg": 3,
+"denials": [],
+"desc": "By 2025 exactly three national arrangements had been publicly endorsed by another government as models for handling UAP: the French GEIPAN inside CNES since 1977, the Chilean SEFAA inside the Dirección General de Aeronáutica Civil since 1997, and the American All-domain Anomaly Resolution Office inside the Department of Defense since 2022. The endorsement is in the Canadian Office of the Chief Science Advisor's Sky Canada Project report of June 2025, which surveyed G7 and Commonwealth approaches and concluded that 'the processes in place in a few countries, notably the United States, France and Chile, provide interesting examples of coordinated, transparent, and scientifically driven approaches to UAP reporting'. The common features of the two civilian models are instructive and are the opposite of the British and Canadian histories: a permanent office with a named director, statutory or organisational home in a civil rather than military body, a public intake channel, a published classification scheme, publication of individual case conclusions, and an explicit archive. GEIPAN runs on three full-time staff and more than twenty trained volunteers, with a steering committee chaired by an aerospace expert and including civil and military authorities. SEFAA publishes monthly resolved-case bulletins. Canada's report recommends building the same thing and partnering with all three.",
+"domains": [
+"w2-international"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "1",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "intl-uap-office-model",
+"l0": false,
+"label": "The three-office model: GEIPAN, SEFAA, AARO",
+"locLabel": null,
+"members": null,
+"short": "The three-office model: GEIPAN, SEFAA, AARO",
+"sources": [
+{
+"date": "2025-06-01",
+"name": "Sky Canada Project report",
+"url": "https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada"
+}
+],
+"sub": "The only national UAP arrangements a G7 government has endorsed as models",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 893 of 1027, score 15). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.",
+"timeline": []
+}

@@ -1,0 +1,413 @@
+{
+"A": 1,
+"C": 2,
+"D": 3,
+"band": "retrieval",
+"claims": [
+{
+"source": "GAO/NSIAD-95-187, p.3",
+"text": "'RAAF outgoing messages (from Oct. 1946 through Dec. 1949) were destroyed.'",
+"tier": 1
+},
+{
+"source": "GAO/NSIAD-95-187, p.3",
+"text": "'The document disposition form does not indicate what organization or person destroyed the records and when or under what authority the records were destroyed.'",
+"tier": 1
+},
+{
+"source": "GAO/NSIAD-95-187, p.3",
+"text": "RAAF administrative records from March 1945 through December 1949 were destroyed.",
+"tier": 1
+},
+{
+"source": "GAO/NSIAD-95-187, p.4",
+"text": "GAO recorded that on 8 July 1947 an Eighth Air Force headquarters official telephonically informed the FBI's Dallas office of the recovery near Roswell of 'a hexagonal-shaped disc suspended from a large balloon by cable' which 'resembled a high-altitude weather balloon with a radar reflector'.",
+"tier": 1
+},
+{
+"source": "GAO/NSIAD-95-187, p.6",
+"text": "The CIA's Executive Director stated that 'a search against the term Roswell, New Mexico, in all CIA databases produced no CIA documents related to the crash'.",
+"tier": 1
+},
+{
+"source": "GAO/NSIAD-95-187, transmittal and scope",
+"text": "The review was conducted at the request of Congressman Steven H. Schiff, from March 1994 to June 1995, and issued 28 July 1995.",
+"tier": 1
+},
+{
+"source": "Inference from the GAO findings and the requirements of the Federal Records Act",
+"text": "Destruction of a specific base's entire outgoing message traffic covering precisely the period of the alleged recovery, with no surviving disposition authority, is the strongest documented indicator of deliberate record removal in the legacy corpus.",
+"tier": 3
+}
+],
+"cls": "document",
+"cluster": "oversight",
+"connections": [
+{
+"claimTier": 3,
+"cls": "document",
+"dateEnd": null,
+"dateStart": "2024",
+"direction": "in",
+"edgeLabel": "AARO's legacy review does not address the documented records destruction",
+"id": "aaro-historical-record-vol1",
+"l0": true,
+"label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
+"note": "The report reaffirms the MOGUL conclusion without engaging GAO's 1995 finding that the relevant base records were destroyed with no disposition authority — the gap that makes the conclusion untestable.",
+"sources": [
+{
+"date": "2024-02-01",
+"name": "AARO Historical Record Report, Volume I",
+"url": "https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf"
+},
+{
+"date": "1995-07-28",
+"name": "GAO/NSIAD-95-187",
+"url": "https://www.gao.gov/assets/nsiad-95-187.pdf"
+}
+],
+"tier": "A",
+"type": "denial"
+},
+{
+"claimTier": 3,
+"cls": "program",
+"dateEnd": null,
+"dateStart": "1995",
+"direction": "in",
+"edgeLabel": "The MOGUL attribution cannot be tested against destroyed records",
+"id": "project-mogul",
+"l0": false,
+"label": "Project MOGUL",
+"note": "GAO reported the base's message traffic for the relevant years was destroyed without disposition authority, so the Air Force's reconstruction rests on inference rather than on the contemporaneous record.",
+"sources": [
+{
+"date": "1995-07-28",
+"name": "GAO/NSIAD-95-187 (full PDF)",
+"url": "https://www.gao.gov/assets/nsiad-95-187.pdf"
+}
+],
+"tier": "B",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "1995",
+"dateStart": "1995",
+"direction": "in",
+"edgeLabel": "The message traffic that would document the release was destroyed",
+"id": "raaf-press-release-1947",
+"l0": false,
+"label": "RAAF Press Release, 8 July 1947",
+"note": "RAAF outgoing messages from October 1946 through December 1949 were destroyed with no recorded disposition authority, removing the base's own record of the 8 July 1947 announcement and its retraction.",
+"sources": [
+{
+"date": "1995-07-28",
+"name": "GAO/NSIAD-95-187 (full PDF)",
+"url": "https://www.gao.gov/assets/nsiad-95-187.pdf"
+}
+],
+"tier": "B",
+"type": "custody"
+},
+{
+"claimTier": 3,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2024",
+"direction": "in",
+"edgeLabel": "The first statutory records mechanism descends from the destruction problem",
+"id": "rg-615-uap-records",
+"l0": false,
+"label": "NARA Record Group 615 — UAP Records Collection",
+"note": "RG 615 was created under PL 118-31 sections 1841-1843 after decades in which the only auditable finding was GAO's: that the relevant legacy records had been destroyed with no recorded authority.",
+"sources": [
+{
+"date": "2025-04-24",
+"name": "NARA — UAP research topic page",
+"url": "https://www.archives.gov/research/topics/uaps"
+},
+{
+"date": "1995-07-28",
+"name": "GAO/NSIAD-95-187",
+"url": "https://www.gao.gov/assets/nsiad-95-187.pdf"
+}
+],
+"tier": "B",
+"type": "legislative"
+},
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": "1995",
+"dateStart": "1995",
+"direction": "out",
+"edgeLabel": "GAO found the base's records for the event period destroyed",
+"id": "roswell-1947",
+"l0": true,
+"label": "Roswell Incident",
+"note": "RAAF outgoing messages Oct 1946 - Dec 1949 and administrative records Mar 1945 - Dec 1949 were destroyed, and the disposition form does not record who destroyed them, when, or under what authority.",
+"sources": [
+{
+"date": "1995-07-28",
+"name": "GAO/NSIAD-95-187 (full PDF)",
+"url": "https://www.gao.gov/assets/nsiad-95-187.pdf"
+},
+{
+"date": "1995-07-28",
+"name": "GAO/NSIAD-95-187",
+"url": "https://www.gao.gov/products/nsiad-95-187"
+}
+],
+"tier": "A",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "1995",
+"dateStart": "1994",
+"direction": "in",
+"edgeLabel": "Schiff tasked GAO after DoD refused to answer him",
+"id": "steven-schiff",
+"l0": false,
+"label": "Steven H. Schiff",
+"note": "A single member of Congress used the legislature's audit arm to go around an executive agency, producing the records-destruction finding no executive review has ever addressed.",
+"sources": [
+{
+"date": "1995-07-28",
+"name": "GAO/NSIAD-95-187 (landing page)",
+"url": "https://www.gao.gov/products/nsiad-95-187"
+},
+{
+"date": "1995-07-28",
+"name": "GAO/NSIAD-95-187 (full PDF)",
+"url": "https://www.gao.gov/assets/nsiad-95-187.pdf"
+}
+],
+"tier": "B",
+"type": "legislative"
+}
+],
+"coords": null,
+"dateEnd": "1995",
+"dateStart": "1995",
+"deg": 6,
+"denials": [
+{
+"by": {
+"id": "aaro-historical-record-vol1",
+"label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+},
+"claimTier": 3,
+"denialKind": "directed",
+"label": "AARO's legacy review does not address the documented records destruction",
+"note": "The report reaffirms the MOGUL conclusion without engaging GAO's 1995 finding that the relevant base records were destroyed with no disposition authority — the gap that makes the conclusion untestable.",
+"of": {
+"id": "gao-nsiad-95-187",
+"label": "GAO/NSIAD-95-187 — Results of a Search for Records Concerning the 1947 Crash Near Roswell"
+},
+"sources": [
+{
+"date": "2024-02-01",
+"name": "AARO Historical Record Report, Volume I",
+"url": "https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf"
+},
+{
+"date": "1995-07-28",
+"name": "GAO/NSIAD-95-187",
+"url": "https://www.gao.gov/assets/nsiad-95-187.pdf"
+}
+]
+}
+],
+"desc": "The most important single document in this domain and the one that survives any hostile audit. Requested by Rep. Steven H. Schiff after the Defense Department refused to answer him, the General Accounting Office worked the file from March 1994 to June 1995 and reported on 28 July 1995. GAO searched Air Force, Army, Navy, Defense Department, CIA, FBI, NSA, National Security Council and National Archives holdings. Its findings on the record itself are unambiguous and are stated in the government's own auditing language: 'RAAF outgoing messages (from Oct. 1946 through Dec. 1949) were destroyed', and RAAF administrative records from March 1945 through December 1949 were destroyed, and — the sentence this board treats as central — 'The document disposition form does not indicate what organization or person destroyed the records and when or under what authority the records were destroyed.' Federal records are not destroyed without disposition authority; that is the entire premise of the Federal Records Act. GAO also recorded the FBI's 8 July 1947 teletype from Dallas describing the recovery of 'a hexagonal-shaped disc suspended from a large balloon by cable', and the CIA Executive Director's statement that a search against 'Roswell, New Mexico' in all CIA databases produced no documents. Thirty-one years later no accountability review of the destruction has ever been conducted.",
+"domains": [
+"history-1940s-1960s"
+],
+"dossier": {
+"claims": [
+{
+"source": "GAO/NSIAD-95-187, 28 July 1995, https://www.gao.gov/assets/nsiad-95-187.pdf (full text also mirrored at https://www.globalsecurity.org/intell/library/reports/gao/nsi95187.htm)",
+"text": "GAO/NSIAD-95-187 (B-262046) is a letter report dated 28 July 1995, addressed to Representative Steven H. Schiff, signed by Richard Davis, Director, National Security Analysis; the review was conducted from March 1994 to June 1995.",
+"tier": 1
+},
+{
+"source": "GAO/NSIAD-95-187, 28 July 1995, https://www.gao.gov/assets/nsiad-95-187.pdf",
+"text": "GAO states the request originated because Rep. Schiff was \"Concerned that the Department of Defense (DOD) may not have provided you with all available information on the crash.\"",
+"tier": 1
+},
+{
+"source": "GAO/NSIAD-95-187, 28 July 1995, Results in Brief, https://www.gao.gov/assets/nsiad-95-187.pdf",
+"text": "GAO found that RAAF administrative records from March 1945 through December 1949 and RAAF outgoing messages from October 1946 through December 1949 were destroyed.",
+"tier": 1
+},
+{
+"source": "GAO/NSIAD-95-187, 28 July 1995, Results in Brief, https://www.gao.gov/assets/nsiad-95-187.pdf",
+"text": "GAO states: \"The document disposition form does not indicate what organization or person destroyed the records and when or under what authority the records were destroyed.\"",
+"tier": 1
+},
+{
+"source": "GAO/NSIAD-95-187, 28 July 1995, Search for Records, https://www.gao.gov/assets/nsiad-95-187.pdf",
+"text": "The Chief Archivist of the National Personnel Records Center told GAO that \"the document disposition form did not properly indicate the authority under which the disposal action was taken,\" and that from his personal experience \"many of the Air Force organizational records covering this time period were destroyed without entering a citation for the governing disposition authority.\"",
+"tier": 1
+},
+{
+"source": "GAO/NSIAD-95-187, 28 July 1995, Reporting Air Accidents, https://www.gao.gov/assets/nsiad-95-187.pdf",
+"text": "GAO states: \"In 1947, Army regulations required that air accident reports be maintained permanently.\" Air Force officials told GAO there was no requirement to prepare a report on the crash of a weather balloon.",
+"tier": 1
+},
+{
+"source": "GAO/NSIAD-95-187, 28 July 1995, https://www.gao.gov/assets/nsiad-95-187.pdf",
+"text": "GAO identified four Army Air Forces air accidents in New Mexico during July 1947, all involving military fighter or cargo aircraft and all occurring after 8 July 1947, at or near Hobbs, Albuquerque, Carrizozo and Alamogordo; the Navy reported none.",
+"tier": 1
+},
+{
+"source": "GAO/NSIAD-95-187, 28 July 1995, https://www.gao.gov/assets/nsiad-95-187.pdf",
+"text": "GAO \"could not locate any documentation indicating that records of the 1395th Military Police Company (Aviation) were ever retired to the National Personnel Records Center or its predecessor depositories,\" although 1953 disposition forms show the Walker AFB records officer transferred the histories of the 509th Bomb Group/RAAF, the 1st Air Transport Unit and the 427th Army Air Force Base Unit to the Army's Kansas City depository.",
+"tier": 1
+},
+{
+"source": "GAO/NSIAD-95-187, 28 July 1995, Appendix I, https://www.gao.gov/assets/nsiad-95-187.pdf",
+"text": "The July 1947 combined 509th Bomb Group and RAAF history states the RAAF public information office \"was kept quite busy . . . answering inquiries on the 'flying disc,' which was reported to be in [the] possession of the 509th Bomb Group. The object turned out to be a radar tracking balloon,\" certified by the commanding officer's signature as a complete and accurate account of RAAF activities in July 1947.",
+"tier": 1
+},
+{
+"source": "GAO/NSIAD-95-187, 28 July 1995, Appendix II, https://www.gao.gov/assets/nsiad-95-187.pdf",
+"text": "The FBI teletype of 8 July 1947 from the Dallas office recorded that an Eighth Air Force headquarters official telephonically reported the recovery near Roswell of \"a hexagonal-shaped disc suspended from a large balloon by cable,\" and that \"the disc and balloon were being sent to Wright Field . . . for examination\"; the FBI conducted no further investigation.",
+"tier": 1
+},
+{
+"source": "GAO/NSIAD-95-187, 28 July 1995, https://www.gao.gov/assets/nsiad-95-187.pdf",
+"text": "GAO states: \"we attempted to determine whether military regulations existed for handling such debris. We were unable to locate any applicable regulation.\"",
+"tier": 1
+},
+{
+"source": "GAO/NSIAD-95-187, 28 July 1995, https://www.gao.gov/assets/nsiad-95-187.pdf",
+"text": "GAO reviewed Air Materiel Command (Wright Field) records from 1947 to 1950 and \"found no records mentioning the Roswell crash or the examination by Air Materiel Command personnel of any debris recovered from the crash.\"",
+"tier": 1
+},
+{
+"source": "GAO/NSIAD-95-187, 28 July 1995, Appendix VIII, https://www.gao.gov/assets/nsiad-95-187.pdf",
+"text": "In March 1995 the CIA's Executive Director told GAO that it was \"unclear whether the CIA had ever conducted a search for records specifically relating to Roswell,\" then directed a comprehensive search; on 30 May 1995 he reported that a search of the term \"Roswell, New Mexico\" across all CIA databases produced no documents related to the crash.",
+"tier": 1
+},
+{
+"source": "GAO/NSIAD-95-187, 28 July 1995, Agency Comments and Scope and Methodology, https://www.gao.gov/assets/nsiad-95-187.pdf",
+"text": "DoD told GAO that the July 1994 Report of Air Force Research Regarding the Roswell Incident represented the extent of DoD records or information on the crash, and DoD \"offered no comments or suggested changes to the report\" when given GAO's draft. GAO's methodology section states: \"Our search of government records was complicated by the fact that some records we wanted to review were missing and there was not always an explanation.\"",
+"tier": 1
+}
+],
+"connections": [
+"Rep. Steven H. Schiff (R-NM) — requester; the member who told GAO in writing that he doubted DoD had given him everything. Schiff died in 1998.",
+"Richard Davis, GAO Director, National Security Analysis, and Gary K. Weeter, Assistant Director — the named GAO officials responsible for the report.",
+"Roswell Army Air Field / Walker Air Force Base, 509th Bomb Group, 1st Air Transport Unit, 427th AAF Base Unit, 1395th Military Police Company (Aviation) — the units whose records were destroyed, transferred, or never retired.",
+"Wright Field / Air Materiel Command (later Wright-Patterson AFB) — documented destination of the recovered disc and balloon per the FBI teletype, with no corresponding receipt or examination record 1947-1950. The historical anchor for every subsequent claim about Wright-Patterson as a custody node.",
+"Eighth Air Force headquarters, Fort Worth — source of the telephonic report to the FBI and of the same-day balloon retraction.",
+"FBI Dallas and Cincinnati field offices — originator and addressee of the only surviving contemporaneous federal record outside the unit history.",
+"Project MOGUL — the classified balloon program invoked in the Air Force's 1994 report as the explanation.",
+"National Personnel Records Center, St. Louis — custodian of the disposition forms that fail to cite destruction authority.",
+"ndaa-fy2026 — the records-destruction prohibition repeatedly stripped from the UAP Disclosure Act is the direct legislative remedy for the condition GAO documented in 1995.",
+"aaro-historical-record-vol2 — AARO's Section 6802 historical review covers 1 January 1945 forward, i.e., the same period whose primary records GAO found destroyed."
+],
+"denialPosture": "The Department of Defense's position, recorded in GAO's report, is that the July 1994 Report of Air Force Research Regarding the Roswell Incident — attributing the debris to a Project MOGUL balloon train — constitutes the entirety of the department's records and information on the subject, and DoD declined to comment on GAO's draft at all. The Air Force's 1994 report did not dispute that something happened near Roswell. The National Security Council, the White House Office of Science and Technology Policy and the Department of Energy each certified they held nothing. The CIA's denial is the most revealing: forty-eight years after the event its own Executive Director could not confirm that any Roswell-specific records search had ever been performed.",
+"narrative": "Representative Steven H. Schiff (R-NM) asked GAO for this work because, in GAO's own framing, he was \"Concerned that the Department of Defense (DOD) may not have provided you with all available information on the crash.\" That sentence, in a GAO letter report, is a member of Congress on the record stating that he did not believe the Pentagon's answers about Roswell. GAO's mandate was narrow — determine the reporting requirements for air accidents like the Roswell crash, and identify any government records concerning it — and GAO answered both.\n\nOn requirements: \"In 1947, Army regulations required that air accident reports be maintained permanently.\" GAO identified four air accidents reported by the Army Air Forces in New Mexico during July 1947, all involving military fighter or cargo aircraft, and all occurring after 8 July 1947 — the date the RAAF public information office announced the recovery of a flying disc. The Navy reported none. Air Force officials told GAO that under the record-keeping requirements then in effect, there was no requirement to prepare a report on the crash of a weather balloon. That is the pivot on which the official account rests: reclassify the object as a balloon and the permanent-retention requirement evaporates.\n\nOn records: GAO went to the National Personnel Records Center in St. Louis and obtained documentation showing that RAAF administrative records covering finance and accounting, supplies, buildings and grounds and other general administrative matters from March 1945 through December 1949, and RAAF outgoing messages from October 1946 through December 1949, were destroyed. GAO's finding on authority is stated twice, in two forms, and both are unambiguous. In Results in Brief: \"The document disposition form does not indicate what organization or person destroyed the records and when or under what authority the records were destroyed.\" In the body, attributed to the Center's Chief Archivist: \"the document disposition form did not properly indicate the authority under which the disposal action was taken.\" The Chief Archivist added, from personal experience, \"that many of the Air Force organizational records covering this time period were destroyed without entering a citation for the governing disposition authority,\" and GAO's own review of records control forms for other destroyed material — including outgoing RAAF messages for 1950 — supported that view.\n\nThat last detail deserves an analyst's attention, because it cuts both ways and should be handled honestly. GAO and the Chief Archivist offer a systemic explanation: sloppy Air Force records management across the whole period, not targeted destruction. But a systemic practice of destroying records without citing disposition authority is precisely the environment in which a targeted destruction becomes undetectable. GAO does not, and cannot, distinguish between the two. The report establishes that the records are gone and that the paper trail for their destruction is defective. It does not establish intent, and it does not need to for the record to be load-bearing.\n\nGAO further reports that document disposition forms show the Walker Air Force Base records officer transferred unit histories to the Army's Kansas City depository in 1953 — the 509th Bomb Group and RAAF for February to October 1947, the 1st Air Transport Unit for July 1946 to June 1947, the 427th Army Air Force Base Unit for January 1946 to February 1947. But: \"We could not locate any documentation indicating that records of the 1395th Military Police Company (Aviation) were ever retired to the National Personnel Records Center or its predecessor depositories.\" The military police company at the field where the recovery was announced has no retirement record at all.\n\nGAO's entire yield from 1947 was two documents. The July 1947 combined 509th Bomb Group/RAAF history states the public information office \"was kept quite busy . . . answering inquiries on the 'flying disc,' which was reported to be in [the] possession of the 509th Bomb Group. The object turned out to be a radar tracking balloon,\" certified by the commanding officer's signature as a complete and accurate account. And an FBI teletype of 8 July 1947 from the Dallas field office reporting that an Eighth Air Force headquarters official had telephonically advised of the recovery near Roswell of \"a hexagonal-shaped disc suspended from a large balloon by cable,\" that the recovered object resembled a high-altitude weather balloon with a radar reflector, and that \"the disc and balloon were being sent to Wright Field . . . for examination.\" The FBI conducted no further investigation.\n\nGAO then followed the debris. \"Because the FBI message reported that debris from the Roswell crash was being transported to Wright Field for examination, we attempted to determine whether military regulations existed for handling such debris. We were unable to locate any applicable regulation.\" And: GAO reviewed Air Materiel Command records from 1947 to 1950 and \"found no records mentioning the Roswell crash or the examination by Air Materiel Command personnel of any debris recovered from the crash.\" Material was documented as shipped to Wright Field. There is no governing regulation for how such material is handled, and no record at Wright Field that it arrived, was examined, or was disposed of. That is a custody gap of exactly the shape a legacy program requires at its origin.\n\nThe agency responses complete the picture. The NSC, OSTP and Department of Energy said they held nothing. DoD said the July 1994 Air Force Roswell report was the extent of its records, and offered no comments on GAO's draft. The CIA's Executive Director told GAO in March 1995 that \"it was unclear whether the CIA had ever conducted a search for records specifically relating to Roswell\" — forty-eight years after the event — and then ordered one; on 30 May 1995 he reported no documents. GAO's methodology section concedes the environment: \"Our search of government records was complicated by the fact that some records we wanted to review were missing and there was not always an explanation.\"",
+"openQuestions": [
+"Who destroyed the RAAF administrative records and outgoing messages, when, and under what claimed authority — the disposition form does not say and GAO could not determine it.",
+"Whether the 1395th Military Police Company (Aviation) records were destroyed, misfiled, retained elsewhere, or never created; GAO found no retirement documentation of any kind.",
+"Whether any Air Materiel Command receiving record for the shipment described in the 8 July 1947 FBI teletype exists in any classification or in any non-AMC file series.",
+"Why no military regulation governed the handling of recovered airborne debris in 1947, and whether a classified handling instruction existed outside the regulation system.",
+"What the Eighth Air Force official's name was, and whether the FBI's Dallas office recorded it; GAO does not name him.",
+"Whether GAO's underlying working papers for NSIAD-95-187 survive and are obtainable, including the classified documents GAO says it examined.",
+"Whether Rep. Schiff received any classified supplement or briefing beyond the public letter report.",
+"Whether the systemic non-citation of disposition authority the Chief Archivist described is documented anywhere as an Air Force records-management finding, or whether it exists only as his personal characterization to GAO."
+],
+"roles": [
+"concealment",
+"custody",
+"oversight",
+"retrieval"
+],
+"whatItIs": "GAO/NSIAD-95-187, B-262046, \"Government Records: Results of a Search for Records Concerning the 1947 Crash Near Roswell, New Mexico\" — a General Accounting Office letter report issued 28 July 1995 to Representative Steven H. Schiff of New Mexico. It documents a fifteen-month government-wide search for records on the Roswell events, conducted March 1994 to June 1995 across NARA, the National Personnel Records Center, the FBI, CIA, NSA, DoD, DOE, the National Security Council and the White House Office of Science and Technology Policy.",
+"whyImplicated": "This is the single strongest tier-one document on the board, because it is a congressional audit agency reporting, in its own voice and under its own signature, that the primary records of the unit at the center of the founding incident were destroyed and that nobody can say who destroyed them or under what authority. GAO found the administrative records of Roswell Army Air Field for March 1945 through December 1949 and its outgoing message traffic for October 1946 through December 1949 gone, with a disposition form that \"does not indicate what organization or person destroyed the records and when or under what authority the records were destroyed.\" It found that in 1947 Army regulations required air accident reports to be maintained permanently. It found no regulation governing the handling of the debris the FBI recorded as en route to Wright Field, and no Air Materiel Command record of that debris ever arriving or being examined. It found the records of the 1395th Military Police Company (Aviation) — the security unit — never retired to the records center at all. Every element of a documentary cover is present in a 1995 GAO letter report, and it has been sitting in the public record for thirty-one years."
+},
+"entityInfo": {
+"desc": "GAO/NSIAD-95-187 is the only place in the entire legacy-era record where an independent arm of the United States government audited the paper trail and reported what it found. The scope was set by Rep. Steven H. Schiff of New Mexico after the Defense Department declined to answer his inquiries. GAO searched Air Force, Army, Navy, Defense Department, CIA, FBI, NSA, National Security Council and National Archives records, and visited multiple National Archives facilities to review Air Force UFO papers and Army Counterintelligence Corps records for 1947-1949. The report's operative findings are three sentences long and have never been rebutted by any agency: RAAF outgoing messages from October 1946 through December 1949 were destroyed; RAAF administrative records from March 1945 through December 1949 were destroyed; and the document disposition form does not indicate what organization or person destroyed the records and when or under what authority the records were destroyed. The Federal Records Act requires a disposition authority for the destruction of federal records. Its absence here is not a filing irregularity — it is the removal of the entire contemporaneous documentary output of a specific installation across precisely the years in question, with no accountable party. GAO also captured two other facts of standing value: the FBI's 8 July 1947 Dallas teletype recording Eighth Air Force's description of a hexagonal disc suspended from a balloon by cable, and the CIA Executive Director's statement that a search against 'Roswell, New Mexico' in all CIA databases produced no documents. Thirty-one years later, no executive-branch review — including AARO's 2024 historical report — has addressed the destruction finding, and no accountability inquiry has been opened.",
+"sources": [
+{
+"date": "1995-07-28",
+"name": "GAO/NSIAD-95-187 (landing page)",
+"url": "https://www.gao.gov/products/nsiad-95-187"
+},
+{
+"date": "1995-07-28",
+"name": "GAO/NSIAD-95-187 (full PDF)",
+"url": "https://www.gao.gov/assets/nsiad-95-187.pdf"
+}
+]
+},
+"era": "1",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "gao-nsiad-95-187",
+"l0": true,
+"label": "GAO/NSIAD-95-187 — Results of a Search for Records Concerning the 1947 Crash Near Roswell",
+"locLabel": null,
+"members": [
+{
+"cls": "program",
+"id": "project-mogul",
+"label": "Project MOGUL",
+"tier": "B"
+},
+{
+"cls": "document",
+"id": "raaf-press-release-1947",
+"label": "RAAF Press Release, 8 July 1947",
+"tier": "B"
+},
+{
+"cls": "institution",
+"id": "rg-615-uap-records",
+"label": "NARA Record Group 615 — UAP Records Collection",
+"tier": "B"
+},
+{
+"cls": "person",
+"id": "steven-schiff",
+"label": "Steven H. Schiff",
+"tier": "B"
+}
+],
+"short": "GAO/NSIAD-95-187 — Results of a Search for Records Concerning the 1947 Crash Near Roswell",
+"sources": [
+{
+"date": "1995-07-28",
+"name": "GAO/NSIAD-95-187 (landing page)",
+"url": "https://www.gao.gov/products/nsiad-95-187"
+},
+{
+"date": "1995-07-28",
+"name": "GAO/NSIAD-95-187 (full PDF)",
+"url": "https://www.gao.gov/assets/nsiad-95-187.pdf"
+}
+],
+"sub": "General Accounting Office report, 28 July 1995",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 159 of 1027, score 49). 6 connections, 1 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C2/A1/D3.",
+"timeline": [
+{
+"date": "1995-07-28",
+"id": "tl-1995-07-28",
+"label": "GAO finds the records destroyed",
+"precision": "day",
+"strand": "oversight",
+"text": "GAO reports that RAAF outgoing messages (Oct 1946 - Dec 1949) and administrative records (Mar 1945 - Dec 1949) were destroyed, and that the disposition form does not record who destroyed them, when, or under what authority.",
+"tier": "A"
+}
+]
+}

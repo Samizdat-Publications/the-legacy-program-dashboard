@@ -1,0 +1,86 @@
+{
+"A": 1,
+"C": 3,
+"D": 1,
+"band": null,
+"claims": [
+{
+"source": "Contemporaneous press record; GAO/NSIAD-95-187 background",
+"text": "The Roswell debris was flown to Eighth Air Force headquarters at Fort Worth on 8 July 1947, where it was publicly identified as a weather balloon.",
+"tier": 1
+},
+{
+"source": "Board bookkeeping",
+"text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
+"tier": 3
+}
+],
+"cls": "location",
+"cluster": "legacy",
+"connections": [
+{
+"claimTier": 1,
+"cls": "domain",
+"dateEnd": "1947-07-08",
+"dateStart": "1947-07-08",
+"direction": "in",
+"edgeLabel": "Where the disc became a balloon",
+"id": "d-roswell",
+"l0": false,
+"label": "Roswell",
+"note": "The Roswell debris was flown to Eighth Air Force headquarters at Fort Worth, where it was presented to the press as a weather balloon the same day.",
+"sources": [
+{
+"date": "1995-07-28",
+"name": "GAO/NSIAD-95-187",
+"url": "https://www.govinfo.gov/content/pkg/GAOREPORTS-NSIAD-95-187/html/GAOREPORTS-NSIAD-95-187.htm"
+}
+],
+"tier": "B",
+"type": "custody"
+}
+],
+"coords": [
+32.7555,
+-97.3308
+],
+"dateEnd": null,
+"dateStart": null,
+"deg": 1,
+"denials": [],
+"desc": "Fort Worth is where the Roswell story was reversed. On 8 July 1947, hours after Roswell Army Air Field announced the recovery of a flying disc, the debris was flown to Eighth Air Force headquarters here, where Brigadier General Roger M. Ramey presented it to the press as a weather balloon and radar target - the photographs taken in Ramey's office that afternoon are the single most examined image set in the field. The city is scored for custody proximity because whatever was flown out of Roswell passed through this building, and for disclosure role because the substitution performed here set the template for every subsequent official explanation.",
+"domains": [
+"_stubs",
+"w2-taxonomy"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "nd",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "l-fort-worth-tx",
+"l0": false,
+"label": "Fort Worth, Texas",
+"locLabel": "Fort Worth, Texas, USA",
+"members": null,
+"short": "Fort Worth, Texas",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Wikipedia - Fort Worth, Texas",
+"url": "https://en.wikipedia.org/wiki/Fort_Worth,_Texas"
+},
+{
+"date": "1995-07-28",
+"name": "GAO/NSIAD-95-187",
+"url": "https://www.govinfo.gov/content/pkg/GAOREPORTS-NSIAD-95-187/html/GAOREPORTS-NSIAD-95-187.htm"
+}
+],
+"sub": "City in north Texas; site of Eighth Air Force headquarters at Fort Worth AAF (later Carswell AFB)",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 628 of 1027, score 25). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C3/A1/D1.",
+"timeline": []
+}

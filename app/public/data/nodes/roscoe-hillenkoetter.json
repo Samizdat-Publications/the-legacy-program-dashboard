@@ -1,0 +1,186 @@
+{
+"A": 2,
+"C": 3,
+"D": 3,
+"affiliations": [],
+"age": null,
+"band": null,
+"chronology": [],
+"claims": [
+{
+"source": "CIA-RDP68-00046R000200090025-2, Worcester Gazette, 1 June 1960, 'Congressional Action: Ex-C.I.A. Chief Wants UFO Probe' by Bulkley Griffin; declassified in part 2014-06-12",
+"text": "A Worcester (Mass.) Gazette clipping of 1 June 1960, held in CIA records, reports Hillenkoetter declaring of the so-called flying saucers: 'The unknown objects are operating under intelligent control. It is imperative that we learn where the UFO's (unidentified flying objects) come from and what their purpose is.'",
+"tier": 1
+},
+{
+"source": "CIA-RDP68-00046R000200090025-2, Worcester Gazette, 1 June 1960",
+"text": "The same document records that Hillenkoetter 'headed the Central Intelligence Agency from May 1947 to October 1950' and that he 'wants a Congressional investigation of the UFOs'. On the wartime and immediate post-war years he is quoted: 'I know that neither Russia nor this country had anything even approaching such high speeds and maneuvers.'",
+"tier": 1
+},
+{
+"source": "CIA-RDP68-00046R000200090028-9, Enquirer, 4 March 1960, editorial 'Flying Saucers Again'; declassified in part 2014-06-12",
+"text": "An Enquirer editorial of 4 March 1960, also held in CIA records, states that 'Admiral Hillenkoetter, former director of the Central Intelligence Agency, is a board member of the privately financed NICAP ... As such he has referred his conclusions to the Senate Space Committee, requesting an investigation.'",
+"tier": 1
+},
+{
+"source": "CIA-RDP68-00046R000200090028-9, Enquirer, 4 March 1960",
+"text": "The same editorial records its own disagreement with him: 'WE CANNOT wholly agree with the respected Vice Adm. R. H. Hillenkoetter (ret.) that the Air Force is deceiving the public' -- which preserves his position as well as the paper's.",
+"tier": 1
+},
+{
+"source": "FBI files on Roscoe H. Hillenkoetter, National Security Archive mirror; full-text search of the sections available",
+"text": "The National Security Archive's mirror of the FBI files on Hillenkoetter -- eighteen serials plus a main file -- contains, across the sections text-searched, zero occurrences of NICAP, 'flying saucer', 'unidentified flying', Keyhoe, or the year 1960. OCR quality on these scans is uneven, so this is a strong indication rather than a proof.",
+"tier": 2
+}
+],
+"cls": "person",
+"cluster": "ic",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "1950",
+"dateStart": "1947",
+"direction": "out",
+"edgeLabel": "first Director of Central Intelligence, May 1947 to October 1950",
+"id": "cia",
+"l0": true,
+"label": "Central Intelligence Agency",
+"note": "The dates are given in a CIA-held newspaper clipping of 1 June 1960, released in 2014: he 'headed the Central Intelligence Agency from May 1947 to October 1950'.",
+"sources": [
+{
+"date": "1960-06-01",
+"name": "CIA-RDP68-00046R000200090025-2, Worcester Gazette, 1 June 1960",
+"url": "https://archive.org/details/cia-readingroom-document-cia-rdp68-00046r000200090025-2"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "Long-time acquaintance; recruited a former DCI onto NICAP's Board of Governors",
+"id": "donald-keyhoe",
+"l0": false,
+"label": "Maj. Donald E. Keyhoe, USMC (Ret.)",
+"note": "NICAP's 1964 volume describes Hillenkoetter as 'a long-time acquaintance of Major Keyhoe' who served five years on the NICAP Board of Governors and in 1961 joined a majority of that Board in urging a Congressional investigation.",
+"sources": [
+{
+"date": "1964-05-01",
+"name": "The UFO Evidence, 1964, in CIA-RDP81R00560R000100010001-0",
+"url": "https://archive.org/details/cia-readingroom-document-cia-rdp81r00560r000100010001-0"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "1962",
+"dateStart": "1957",
+"direction": "out",
+"edgeLabel": "Served five years on the Board of Governors",
+"id": "nicap",
+"l0": true,
+"label": "National Investigations Committee on Aerial Phenomena (NICAP)",
+"note": "NICAP's own 1964 volume states that Hillenkoetter served on its Board of Governors for five years and that in 1961 he joined a majority of the board in urging a Congressional investigation.",
+"sources": [
+{
+"date": "1964-05-01",
+"name": "The UFO Evidence, NICAP, 1964, CIA filed copy CIA-RDP81R00560R000100010001-0",
+"url": "https://archive.org/details/cia-readingroom-document-cia-rdp81r00560r000100010001-0"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "Successive holders of the DCI post; in the same room at the NSC's first meeting",
+"id": "sidney-souers",
+"l0": false,
+"label": "Rear Adm. Sidney W. Souers",
+"note": "Souers held the Director of Central Intelligence post in 1946 and Hillenkoetter from 1 May 1947; the minutes of the National Security Council's first meeting on 26 September 1947 list Souers as Executive Secretary and Hillenkoetter as Director of Central Intelligence among those present.",
+"sources": [
+{
+"date": "1947-09-26",
+"name": "FRUS 1945-50 Intel, Doc. 225 and List of Persons",
+"url": "https://history.state.gov/historicaldocuments/frus1945-50Intel/d225"
+}
+],
+"tier": "B",
+"type": "institutional"
+}
+],
+"date": "1960-06-01",
+"dateEnd": null,
+"dateStart": "1960-06-01",
+"deg": 4,
+"denials": [],
+"domains": [
+"legacy-1947-86"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "roscoe-hillenkoetter",
+"instId": "cia",
+"l0": false,
+"label": "Roscoe H. Hillenkoetter",
+"loc": "Washington, DC",
+"locId": "l-dc",
+"members": null,
+"narrative": "The first Director of Central Intelligence went on the public record in 1960 saying that the objects were 'operating under intelligent control' and asking Congress to investigate, and the documents that establish it are held by the Central Intelligence Agency itself. A Worcester Gazette clipping of 1 June 1960, filed in CIA records and released in 2014, reports him declaring: 'The unknown objects are operating under intelligent control. It is imperative that we learn where the UFO's (unidentified flying objects) come from and what their purpose is.' The same clipping gives his tenure as DCI, May 1947 to October 1950, and reports that he wanted a congressional investigation. A second CIA-held clipping, an Enquirer editorial of 4 March 1960, independently records him as a board member of NICAP who 'has referred his conclusions to the Senate Space Committee, requesting an investigation' -- while itself disagreeing with him.\n\nNone of that requires MJ-12, and this board does not route him through it. The purported 1948 Hillenkoetter-to-Truman memo shown to be an emulation of a Marshall-to-Roosevelt letter is a claim about a document, not about the man, and nothing above depends on it. A negative finding points the same way as the Corso file: the National Security Archive's mirror of the FBI files on Hillenkoetter contains, across the sections searched, zero occurrences of NICAP, flying saucer, unidentified flying, Keyhoe, or the year 1960. His FBI file is not a UFO file.\n\nThe structural point is the ordering. A former DCI publicly contradicting the Air Force's public position, while sitting on the board of the organisation pressing for hearings, is a fact about the disclosure apparatus that the board should reach directly rather than through somebody else's narrative about a forgery.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Roscoe H. Hillenkoetter",
+"sources": [
+{
+"date": "1960-06-01",
+"name": "CIA-RDP68-00046R000200090025-2, Worcester Gazette, 1 June 1960",
+"url": "https://archive.org/details/cia-readingroom-document-cia-rdp68-00046r000200090025-2"
+},
+{
+"date": "1960-03-04",
+"name": "CIA-RDP68-00046R000200090028-9, Enquirer, 4 March 1960",
+"url": "https://archive.org/details/cia-readingroom-document-cia-rdp68-00046r000200090028-9"
+},
+{
+"date": "2026-08-30",
+"name": "FBI files on Roscoe H. Hillenkoetter, National Security Archive mirror",
+"url": "https://archive.org/details/RoscoeH.Hillenkoetter"
+}
+],
+"status": "dead",
+"sub": "First Director of Central Intelligence, May 1947 - October 1950; NICAP board member 1960",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 208 of 1027, score 42). 4 connections, 0 of them custody/witness/funding/programmatic. Axes C3/A2/D3.",
+"timeline": [
+{
+"date": "1960-06-01",
+"id": "tl-1960-hillenkoetter",
+"label": "The first DCI asks Congress to investigate",
+"precision": "day",
+"strand": "program",
+"text": "A Worcester Gazette report, filed in CIA records and released in 2014, quotes Adm. Roscoe H. Hillenkoetter, DCI from May 1947 to October 1950: 'The unknown objects are operating under intelligent control. It is imperative that we learn where the UFO's come from and what their purpose is.' He is by then a NICAP board member and has referred his conclusions to the Senate Space Committee.",
+"tier": "A"
+}
+],
+"unexplainedResidual": null,
+"unverified": []
+}

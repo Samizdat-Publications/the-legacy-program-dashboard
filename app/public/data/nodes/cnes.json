@@ -1,0 +1,92 @@
+{
+"A": 1,
+"C": 1,
+"D": 3,
+"band": null,
+"claims": [
+{
+"source": "COMETA report, Norlain preface, 1999 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"text": "Norlain: the IHEDN Auditors Association's first report 'favored the creation within CNES of the only civilian government agency known in the world dedicated to the study of UFOs'.",
+"tier": 2
+},
+{
+"source": "Wikipedia, 'COMETA report', citing Sillard et al. (2007)",
+"text": "Yves Sillard, former CNES director general, edited Phénomènes aérospatiaux non identifiés: un défi pour la science (Le Cherche Midi, 2007) with Jacques Arnould, Pierre Marx, François Parmentier, Jacques Patenet, Dominique Weinstein and Jean-Claude Ribes.",
+"tier": 2
+},
+{
+"source": "Wikipedia, 'GEIPAN'",
+"text": "'In March 2007, GEIPAN started to make its archives available online to the public.'",
+"tier": 2
+}
+],
+"cls": "institution",
+"cluster": "research",
+"connections": [
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "1977",
+"direction": "out",
+"edgeLabel": "GEIPAN is a unit of CNES at Toulouse",
+"id": "geipan",
+"l0": true,
+"label": "GEIPAN - Groupe d'Études et d'Informations sur les Phénomènes Aérospatiaux Non identifiés",
+"note": "The French office has been hosted inside the national space agency continuously since 1977, an arrangement Norlain called unique in the world.",
+"sources": [
+{
+"date": "2026-03-31",
+"name": "GEIPAN - Classification",
+"url": "https://www.geipan.fr/fr/node/58787"
+},
+{
+"date": "1999-07-01",
+"name": "COMETA report",
+"url": "https://ia800403.us.archive.org/17/items/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D.pdf"
+}
+],
+"tier": "A",
+"type": "institutional"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "1961",
+"deg": 1,
+"denials": [],
+"desc": "CNES is the French national space agency and the only space agency in the world that has hosted a permanent UAP office continuously for nearly fifty years. GEPAN was created inside it in 1977 under director general Yves Sillard, on the recommendation of the 1976 IHEDN committee; it became SEPRA in 1988 and GEIPAN in 2005. Norlain's preface to the COMETA report describes the result as 'the only civilian government agency known in the world dedicated to the study of UFOs'. The arrangement gives the office two things no Anglo-American body has had: routine national police reporting into a civil scientific agency, and access to a space agency's laboratory and imaging resources for physical-trace and image-authentication work. CNES also published, in 2007, the book Phénomènes aérospatiaux non identifiés: un défi pour la science under the editorship of Yves Sillard, the former director general who had authorised GEPAN's creation - a former head of the agency returning thirty years later to argue the subject is a challenge for science. In March 2007 GEIPAN opened its archives online.",
+"domains": [
+"w2-international"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "cnes",
+"l0": false,
+"label": "Centre National d'Études Spatiales (CNES)",
+"locLabel": null,
+"members": null,
+"short": "Centre National d'Études Spatiales (CNES)",
+"sources": [
+{
+"date": "1999-07-01",
+"name": "COMETA report",
+"url": "https://ia800403.us.archive.org/17/items/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D.pdf"
+},
+{
+"date": "2026-01-01",
+"name": "GEIPAN - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/GEIPAN"
+}
+],
+"sub": "French national space agency; host of GEPAN, SEPRA and GEIPAN since 1977",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 761 of 1027, score 20). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D3.",
+"timeline": []
+}

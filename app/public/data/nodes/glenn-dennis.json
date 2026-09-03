@@ -1,0 +1,163 @@
+{
+"A": 0,
+"C": 1,
+"D": 2,
+"affiliations": [
+"Ballard Funeral Home, Roswell (military mortuary contract with RAAF)",
+"International UFO Museum and Research Center, co-founder"
+],
+"age": 90,
+"band": null,
+"chronology": [
+{
+"date": "1946-12-22",
+"event": "Graduates from the San Francisco College of Mortuary Science; takes charge of Ballard Funeral Home's RAAF military contract",
+"precision": "day"
+},
+{
+"date": "1947-07-07",
+"event": "Alleged date of the phone calls from the base mortuary officer and of his ejection from the RAAF hospital",
+"precision": "day"
+},
+{
+"date": "1989",
+"event": "First comes forward to UFO researchers",
+"precision": "year"
+},
+{
+"date": "1992",
+"event": "Account features in Friedman and Berliner, 'Crash at Corona'",
+"precision": "year"
+},
+{
+"date": "1994",
+"event": "Account features in Randle and Schmitt, 'The Truth About the UFO Crash at Roswell'; calls the Unsolved Mysteries tip line",
+"precision": "year"
+},
+{
+"date": "1997",
+"event": "Air Force 'Case Closed' report identifies 1st Lt. Eileen M. Fanton as the probable basis for the 'missing nurse' and shows 'Naomi Maria Selff' never existed",
+"precision": "year"
+}
+],
+"claims": [
+{
+"source": "The Roswell Report: Case Closed (1997), Section 2.1, 'The Missing Nurse and the Pediatrician' — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"text": "A search of Roswell AAF Station Hospital morning reports and rosters, and of the National Personnel Records Center in St. Louis, found no record that a person named Naomi Maria Selff had ever served at Roswell AAF or in any branch of the US armed forces.",
+"tier": 2
+},
+{
+"source": "The Roswell Report: Case Closed (1997), Section 2.1, citing 427th AAFBU Squadron M morning reports — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"text": "The certified morning reports of the 427th AAF Base Unit Squadron 'M' show five Army Nurse Corps nurses at Roswell AAF in July 1947; none reassigned on 8 or 9 July 1947; one reassigned 23 July 1947 to Fort Worth AAF by normal rotation and on active duty there until March 1949; none transferred overseas or killed in a plane crash.",
+"tier": 2
+},
+{
+"source": "The Roswell Report: Case Closed (1997), Section 2.1 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"text": "The Air Force identified 1st Lt. Eileen M. Fanton - assigned to the Roswell AAF Station Hospital 26 December 1946 to 4 September 1947, single, 5'1\", 100 lb, black hair, dark eyes, Roman Catholic, later assigned to the 7510th USAF Hospital, APO 240 New York, in England from June 1952 to April 1955 - as matching Dennis's description of the 'missing nurse' in every particular except the name.",
+"tier": 2
+},
+{
+"source": "Carey and Schmitt, 'Witness to Roswell' (2007)",
+"text": "Dennis admitted to Carey and Schmitt that he had deliberately given investigators a false name for the nurse; they wrote that he 'must technically stand impeached as a witness'.",
+"tier": 2
+}
+],
+"cls": "person",
+"cluster": "witness",
+"conflicts": [
+"Carey and Schmitt, while conceding the impeachment, record other witnesses who say Dennis told them about the child-sized casket calls and the hospital incident long before Roswell became a public commercial subject."
+],
+"connections": [
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "1997",
+"dateStart": "1997",
+"direction": "out",
+"edgeLabel": "The 1997 report dismantled the 'missing nurse' account by name",
+"id": "roswell-report-case-closed",
+"l0": true,
+"label": "The Roswell Report: Case Closed (1997)",
+"note": "Section 2.1 uses 427th AAFBU Squadron 'M' morning reports and National Personnel Records Center searches to show 'Naomi Maria Selff' never served, and identifies 1st Lt. Eileen M. Fanton as matching every other particular.",
+"sources": [
+{
+"date": "1997-01-01",
+"name": "The Roswell Report: Case Closed (1997)",
+"url": "https://archive.org/details/AFD-101027-030"
+}
+],
+"tier": "B",
+"type": "denial"
+}
+],
+"date": "2015-04-28",
+"dateEnd": null,
+"dateStart": "2015-04-28",
+"deg": 1,
+"denials": [
+{
+"by": {
+"id": "roswell-report-case-closed",
+"label": "The Roswell Report: Case Closed (1997)"
+},
+"claimTier": 1,
+"denialKind": "directed",
+"label": "The 1997 report dismantled the 'missing nurse' account by name",
+"note": "Section 2.1 uses 427th AAFBU Squadron 'M' morning reports and National Personnel Records Center searches to show 'Naomi Maria Selff' never served, and identifies 1st Lt. Eileen M. Fanton as matching every other particular.",
+"of": {
+"id": "glenn-dennis",
+"label": "W. Glenn Dennis"
+},
+"sources": [
+{
+"date": "1997-01-01",
+"name": "The Roswell Report: Case Closed (1997)",
+"url": "https://archive.org/details/AFD-101027-030"
+}
+]
+}
+],
+"domains": [
+"w2-retrieval-literature"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "2",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "glenn-dennis",
+"instId": null,
+"l0": false,
+"label": "W. Glenn Dennis",
+"loc": "Roswell, NM",
+"locId": "l-roswell",
+"members": null,
+"narrative": "Glenn Dennis (24 March 1925 - 28 April 2015) was a 22-year-old embalmer at the Ballard Funeral Home, which held the mortuary contract with Roswell Army Air Field, when he says he received calls from the base mortuary officer in July 1947 asking about child-sized hermetically sealed caskets and about preserving bodies exposed to the elements. He came to researchers' attention in 1994 after telephoning an Unsolved Mysteries tip line, and became for a time the case's star witness on the strength of a story about being ejected from the base hospital and meeting a nurse who described small non-human autopsies. The story collapsed under exactly the kind of audit that this board treats as decisive. The Air Force's 1997 report obtained the certified daily morning reports of the 427th AAF Base Unit Squadron 'M', the unit to which all Roswell AAF medical personnel were assigned, and established that the Army Nurse Corps strength at the field in July 1947 was five nurses; none was transferred on 8 or 9 July, none was sent overseas and none was killed in a plane crash; the one nurse reassigned went to Fort Worth AAF on 23 July by normal rotation. The National Personnel Records Center found no record that a 'Naomi Maria Selff' had ever served in any branch of the US armed forces. Dennis later told Thomas Carey and Donald Schmitt that he had knowingly given them a false name, and they wrote in 'Witness to Roswell' that he 'must technically stand impeached as a witness.' What survives is narrow and worth keeping: independent people say Dennis told them about the child-sized casket calls and the hospital confrontation long before Roswell was a commercial subject.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "W. Glenn Dennis",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Glenn Dennis - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/Glenn_Dennis"
+},
+{
+"date": "1997-01-01",
+"name": "The Roswell Report: Case Closed (1997), HQ USAF/GPO - full text",
+"url": "https://archive.org/details/AFD-101027-030"
+}
+],
+"status": "dead",
+"sub": "Mortician, Ballard Funeral Home, Roswell, 1947; 'missing nurse' witness",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 726 of 1027, score 21). 1 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A0/D2.",
+"timeline": [],
+"unexplainedResidual": null,
+"unverified": [
+"Whether any Ballard Funeral Home or RAAF mortuary contract record from July 1947 corroborates a casket enquiry. No such record has been produced by any party."
+]
+}

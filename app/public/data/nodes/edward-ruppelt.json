@@ -1,0 +1,238 @@
+{
+"A": 2,
+"C": 2,
+"D": 3,
+"affiliations": [
+"Air Technical Intelligence Center, Wright-Patterson AFB (1951-1953)",
+"Project GRUDGE / Project Blue Book, director (1951-1953)",
+"Northrop Corporation (1954-1960)"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "1951-10-01",
+"event": "Placed in charge of the reconstituted Project GRUDGE at ATIC",
+"precision": "month"
+},
+{
+"date": "1952-03-01",
+"event": "Project renamed Blue Book under his direction; coins 'unidentified flying object'",
+"precision": "month"
+},
+{
+"date": "1952-07-19",
+"event": "Washington DC radar-visual sightings begin during his tenure",
+"precision": "day"
+},
+{
+"date": "1953-01-14",
+"event": "Attends the CIA-convened Robertson Panel",
+"precision": "day"
+},
+{
+"date": "1953-08-01",
+"event": "Leaves Blue Book",
+"precision": "month"
+},
+{
+"date": "1956-01-01",
+"event": "Publishes 'The Report on Unidentified Flying Objects'",
+"precision": "year"
+},
+{
+"date": "1960-09-15",
+"event": "Dies of a heart attack aged 37",
+"precision": "day"
+}
+],
+"claims": [
+{
+"source": "Ruppelt, 'The Report on Unidentified Flying Objects', 1956",
+"text": "Ruppelt published the existence of the 1948 Top Secret 'Estimate of the Situation' and its rejection and destruction by Gen. Vandenberg.",
+"tier": 2
+},
+{
+"source": "Condon Report, Section V Chapter 2",
+"text": "The Condon Report, produced under USAF contract, independently records that the Estimate was prepared, rejected by Vandenberg and destroyed.",
+"tier": 1
+},
+{
+"source": "USAF Project Blue Book records, NARA RG 341; Condon Report Sec. V Ch. 2",
+"text": "Ruppelt directed Blue Book from March 1952 through August 1953, the period covering the Washington flap and the Robertson Panel.",
+"tier": 1
+},
+{
+"source": "Ruppelt, 'The Report on Unidentified Flying Objects', 2nd edition, 1960",
+"text": "Ruppelt added sceptical chapters to the 1960 edition of his book, reversing tone shortly before his death.",
+"tier": 2
+}
+],
+"cls": "person",
+"cluster": "legacy",
+"conflicts": [
+"The 1960 edition's added chapters contradict the tone of the 1956 first edition; no record explains the reversal"
+],
+"connections": [
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": "1952",
+"direction": "in",
+"edgeLabel": "Ruppelt is the briefer on the recording",
+"id": "af-atic-film-0352",
+"l0": false,
+"label": "AF-ATIC-FILM, 03/52 ('flying saucer talk')",
+"note": "The Blue Book director briefing military officials and scientists in March 1952, four months before the Washington, DC radar intrusions.",
+"sources": [
+{
+"date": "2026-05-08",
+"name": "Burlison press release",
+"url": "https://burlison.house.gov/media/press-releases/burlison-requests-review-identified-1952-uap-recording"
+}
+],
+"tier": "B",
+"type": "witness-chain"
+},
+{
+"claimTier": 2,
+"cls": "document",
+"dateEnd": "1956",
+"dateStart": "1956",
+"direction": "out",
+"edgeLabel": "Ruppelt is the origin of public knowledge of the Estimate",
+"id": "estimate-of-the-situation",
+"l0": false,
+"label": "Estimate of the Situation (1948)",
+"note": "As a serving Blue Book director with access to the files, Ruppelt published the Estimate's existence and destruction in 1956; the Condon Report corroborated him twelve years later.",
+"sources": [
+{
+"date": "1956-01-01",
+"name": "Ruppelt, The Report on Unidentified Flying Objects",
+"url": "https://www.gutenberg.org/ebooks/17346"
+},
+{
+"date": "1968-11-01",
+"name": "Condon Report Sec. V Ch. 2",
+"url": "https://files.ncas.org/condon/text/s5chap02.htm"
+}
+],
+"tier": "B",
+"type": "witness-chain"
+},
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": "1953",
+"dateStart": "1952",
+"direction": "out",
+"edgeLabel": "Ruppelt was Blue Book's first director",
+"id": "project-blue-book",
+"l0": true,
+"label": "Project Blue Book",
+"note": "Ruppelt directed the project from March 1952 to August 1953, covering the Washington flap and the Robertson Panel, and later published the only insider account of the period.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "NARA — Project Blue Book records",
+"url": "https://www.archives.gov/research/military/air-force/ufos"
+},
+{
+"date": "1956-01-01",
+"name": "Ruppelt, The Report on Unidentified Flying Objects",
+"url": "https://www.gutenberg.org/ebooks/17346"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 2,
+"cls": "program",
+"dateEnd": "1956",
+"dateStart": "1953",
+"direction": "out",
+"edgeLabel": "Ruppelt attended the panel as Blue Book director and later described it",
+"id": "robertson-panel",
+"l0": true,
+"label": "Robertson Panel",
+"note": "Ruppelt was present at the January 1953 sessions in his official capacity and published his account of the panel's function three years later.",
+"sources": [
+{
+"date": "1956-01-01",
+"name": "Ruppelt, The Report on Unidentified Flying Objects",
+"url": "https://www.gutenberg.org/ebooks/17346"
+},
+{
+"date": "1953-01-17",
+"name": "Robertson Panel report",
+"url": "http://www.cufon.org/cufon/robert.htm"
+}
+],
+"tier": "A",
+"type": "witness-chain"
+}
+],
+"date": "1956-01-01",
+"dateEnd": null,
+"dateStart": "1956-01-01",
+"deg": 4,
+"denials": [],
+"domains": [
+"history-1940s-1960s"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "edward-ruppelt",
+"instId": "atic",
+"l0": false,
+"label": "Edward J. Ruppelt",
+"loc": "Dayton, OH",
+"locId": "l-wright-patterson",
+"members": null,
+"narrative": "Captain Edward Ruppelt ran Project Blue Book from March 1952 to August 1953 and is the only insider of the early era who wrote it down. He inherited Project GRUDGE at its most degraded, professionalised the reporting chain, coined the term 'unidentified flying object' to replace 'flying saucer,' and presided over the July 1952 Washington sightings and the January 1953 Robertson Panel — both of which he attended in an official capacity. His 1956 book, 'The Report on Unidentified Flying Objects,' is the origin of public knowledge about the 1948 Estimate of the Situation, about the Air Force's internal split between believers and debunkers, and about the Robertson Panel's function. He was not a crank: he was the serving officer in charge, describing the machinery from inside it. The Condon Report, working under Air Force contract twelve years later, corroborated his account of the Estimate and its destruction. Ruppelt added three sceptical chapters to a 1960 edition shortly before dying of a heart attack at 37, a reversal that is variously read as genuine disillusionment or as pressure; the board records both readings and resolves neither.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Edward J. Ruppelt",
+"sources": [
+{
+"date": "1956-01-01",
+"name": "Ruppelt, The Report on Unidentified Flying Objects (full text)",
+"url": "https://www.gutenberg.org/ebooks/17346"
+},
+{
+"date": "1968-11-01",
+"name": "Condon Report, Sec. V Ch. 2",
+"url": "https://files.ncas.org/condon/text/s5chap02.htm"
+},
+{
+"date": "2026-08-12",
+"name": "NARA — Project Blue Book records",
+"url": "https://www.archives.gov/research/military/air-force/ufos"
+}
+],
+"status": "dead",
+"sub": "First director, Project Blue Book",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 200 of 1027, score 43). 4 connections, 3 of them custody/witness/funding/programmatic. Axes C2/A2/D3.",
+"timeline": [
+{
+"date": "1952-03-01",
+"id": "tl-1952-03",
+"label": "Project Blue Book begins under Ruppelt",
+"precision": "month",
+"strand": "program",
+"text": "Capt. Edward Ruppelt renames and professionalises the project, coining the term 'unidentified flying object' to replace 'flying saucer'.",
+"tier": "A"
+}
+],
+"unexplainedResidual": null,
+"unverified": []
+}

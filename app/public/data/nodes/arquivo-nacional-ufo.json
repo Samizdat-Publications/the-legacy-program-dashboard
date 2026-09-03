@@ -1,0 +1,608 @@
+{
+"A": 0,
+"C": 1,
+"D": 3,
+"band": "research",
+"claims": [
+{
+"source": "Arquivo Nacional (Brasil), 'Conheça o fundo sobre OVNIs do Arquivo Nacional'",
+"text": "The Arquivo Nacional identifies the holding by name and reference: 'o Arquivo Nacional possui o Fundo Objeto Voador Não Identificado – OVNI (BR DFANBSB ARX)? O acervo sobre OVNIs é produzido pelo Comando da Aeronáutica do Brasil e está sob a guarda do Arquivo Nacional. Ele é composto de 743 registros que incluem relatos, questionários sobre ocorrências, correspondências, fotografias, desenhos, vídeos, áudios e recortes de jornais e revistas a respeito de objetos que foram vistos nos céus brasileiros ao longo dos anos.'",
+"tier": 1
+},
+{
+"source": "Senado Federal, RQS 193/2022",
+"text": "The Brazilian Senate's Requerimento 193/2022 dates the transfer route to 2007 and states that the Aeronáutica alone transferred, not the Army or the Navy: 'A partir de 2007, a Aeronáutica, mas não o Exército e nem a Marinha, passou a enviar seus papeis resultantes de suas pesquisas para o Arquivo Nacional, em Brasília. E ano após ano, até o momento, novos documentos ufológicos tiveram o mesmo destino, somando-se hoje mais de 20 mil páginas de arquivos liberados.' It also records that in August 2010 Brigadeiro Junichi Saito, then FAB commander, directed by decree published in the Diário Oficial da União that all FAB UFO cases be concentrated at COMDABRA for shipment to the Arquivo Nacional.",
+"tier": 1
+},
+{
+"source": "Arquivo Nacional, 'Conheça o fundo sobre OVNIs do Arquivo Nacional', published 13/09/2018 (https://www.gov.br/arquivonacional/pt-br/canais_atendimento/imprensa/noticias/conheca-o-fundo-sobre-ovnis-do-arquivo-nacional)",
+"text": "CONTRADICTION RESOLVED - the 2016 date is a stale description, not a fund closing date. The Arquivo Nacional's own statement - 'Ele é composto de 743 registros' and 'A primeira ocorrência do Fundo Objeto Voador Não Identificado data de 1952 e a mais recente de 2016' - appears on an institutional news item carrying the byline 'Publicado em 13/09/2018 18h25 Atualizado em 13/09/2018 18h27'. It is a snapshot as of September 2018 that has never been revised, not a description of an accession that ended.",
+"tier": 1
+},
+{
+"source": "Arquivo Nacional, 'Conheça o fundo sobre OVNIs do Arquivo Nacional', 13/09/2018, image caption",
+"text": "Verified item-level reference code format, published by the Arquivo Nacional itself: 'Ilustração elaborada a partir de relatos de aparição de objeto voador não identificado em Marília, São Paulo, agosto de 1968. Arquivo Nacional. Fundo Objeto Voador Não Identificado. BR_DFANBSB_ARX_0_0_25.' This confirms the BR_DFANBSB_ARX_0_0_nnn item numbering used elsewhere on the board.",
+"tier": 1
+},
+{
+"source": "Justiça Federal SC, Recurso Cível n. 5002417-48.2022.4.04.7200/SC, RELVOTO 27/2/2023, quoting Comando de Operações Especiais/Comando da Aeronáutica, evento 13, ANEXO2",
+"text": "The 2016 endpoint was still being repeated by COMAER in 2022 litigation, showing the lag is institutional and not confined to the Arquivo Nacional: 'a coleção filmográfica, iconográfica, sonora e textual referente aos anos de 1952 e 2016, produzida pelo COMAER, está disponível para consulta no acervo do Arquivo Nacional.'",
+"tier": 1
+},
+{
+"source": "Senado Federal, RQS 193/2022, justificação; and Arquivo Nacional news item 13/09/2018",
+"text": "HOLDING-COUNT DISCREPANCY RESOLVED - 743 and 758 count different things at different dates by different methods. 743 is the Arquivo Nacional's own 2018 description of the fund's registros. 758 is a SIAN search-hit count reported in 2022: 'Atualmente, no Arquivo Nacional, quando se pesquisa apenas o termo OVNI, se encontram 137 registros, mas se colocarmos na pesquisa um código de referência específico (BR DFANBSB ARX), encontraremos 758 documentos.' The same sentence yields 137 for a free-text search, proving these are query results, not holdings inventories. Neither number is a stable figure for an accruing fund.",
+"tier": 1
+},
+{
+"source": "Portaria nº 551/GC3, de 9 de agosto de 2010, Art. 3º, transcribed in Justiça Federal SC, Recurso Cível n. 5002417-48.2022.4.04.7200/SC, RELVOTO 27/2/2023",
+"text": "The mechanism that makes the fund open-ended is written into the governing order: Portaria 551/GC3 Art. 3 requires CENDOC to 'copiar, encadernar, arquivar cópias dos registros encaminhados pelo COMDABRA e enviar, periodicamente, os originais ao Arquivo Nacional.' The fund therefore grows by periodic recolhimentos; a fixed terminal year is structurally impossible while the Portaria is in force.",
+"tier": 1
+},
+{
+"source": "Câmara dos Deputados, RIC 679/2011, justificação and item 2.4, 22 June 2011, referencing RIC 4470/2009 answered by Minister Nelson Jobim via Ofício 4225-GM/Aspar-MD of 20 April 2010",
+"text": "Accession-by-accession structure is documented: a 2011 parliamentary requirement refers to 'o terceiro recolhimento do CENDOC (FAB) ao Arquivo Nacional (COREG)', citing 'envelope nº 2 do terceiro recolhimento', referring to the year 1981; and records that the Minister of Defence had stated CENDOC 'encerraria no dia 31 de agosto de 2010 a remessa de todo o seu acervo à Coordenação Regional do Arquivo Nacional no Distrito Federal (COREG)'.",
+"tier": 1
+},
+{
+"source": "André Rigue and Lauryn Amaral, CNN Brasil, 'Pilotos e controladores relataram 18 casos de OVNIs no Brasil em 2025', 12 August 2026, updated 14 August 2026 (https://www.cnnbrasil.com.br/ciencia/pilotos-e-controladores-relataram-18-casos-de-ovnis-no-brasil-em-2025/)",
+"text": "2025 records are demonstrably in the fund and being served: the Arquivo Nacional released FAB dossiers covering at least 18 unidentified-object reports made in Brazil during 2025 by pilots and air traffic controllers, including a 23 November 2025 Londrina control-tower report and a 1 September 2025 report by a LATAM captain over Guarulhos (SP). State distribution reported: Paraná 5, Ceará 4, Minas Gerais 2, São Paulo 2, Rio de Janeiro 2, Alagoas 1, Mato Grosso 1, undetermined 1.",
+"tier": 2
+},
+{
+"source": "BBC Brasil, 14 January 2022",
+"text": "'Por meio de nota, a Aeronáutica informou que todo o material disponível sobre óvnis já foi encaminhado ao Arquivo Nacional. E mais: não dispõe de profissionais especializados para realizar investigações científicas ou emitir parecer a respeito deste tipo de fenômeno aéreo.'",
+"tier": 2
+},
+{
+"source": "BBC Brasil, 14 January 2022",
+"text": "'Hoje, o acervo sobre óvnis é o segundo mais acessado do Arquivo Nacional - só perde para os relatórios da ditadura militar. O material abrange um período de 64 anos e vai de 1952 ... até 2016.'",
+"tier": 2
+},
+{
+"source": "EFE/Terra, 10 August 2010; Pedro Dantas, O Estado de S. Paulo, 14 August 2010",
+"text": "On 10 August 2010 EFE reported 'FAB cria normas para pilotos em caso de contato com ovnis'; on 14 August 2010 O Estado de S. Paulo reported 'Aeronáutica libera documentos sobre aparição de óvnis'.",
+"tier": 2
+},
+{
+"source": "Arquivo Nacional SIAN image server",
+"text": "Individual records are served with full archival references and page images, e.g. BR_DFANBSB_ARX_0_0_0249 for the 2 June 1986 Air Defence Command report.",
+"tier": 1
+}
+],
+"cls": "institution",
+"cluster": "other",
+"connections": [
+{
+"claimTier": 2,
+"cls": "document",
+"dateEnd": "2009-09-25",
+"dateStart": "2009-09-25",
+"direction": "in",
+"edgeLabel": "declassified into the National Archives on 25 September 2009",
+"id": "doc-fab-1986-report",
+"l0": false,
+"label": "Relatório de Ocorrências, Comando Aéreo de Defesa Aérea, 2 June 1986 (Arquivo Nacional BR_DFANBSB_ARX_0_0_0249)",
+"note": "Released 23 years after the minister promised a dossier in 30 days.",
+"sources": [
+{
+"date": "2022-01-14",
+"name": "BBC Brasil",
+"url": "https://www.bbc.com/portuguese/brasil-59953278"
+}
+],
+"tier": "B",
+"type": "custody"
+},
+{
+"claimTier": 2,
+"cls": "institution",
+"dateEnd": "2022",
+"dateStart": "2009",
+"direction": "in",
+"edgeLabel": "transferred its entire UAP holding and disclaimed competence",
+"id": "fab",
+"l0": true,
+"label": "Força Aérea Brasileira / Ministério da Aeronáutica",
+"note": "The Air Force told BBC Brasil that all available material has gone to the Arquivo Nacional and that it has no specialists able to investigate or opine on the phenomena.",
+"sources": [
+{
+"date": "2022-01-14",
+"name": "BBC Brasil",
+"url": "https://www.bbc.com/portuguese/brasil-59953278"
+}
+],
+"tier": "A",
+"type": "custody"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2010-08-09",
+"direction": "in",
+"edgeLabel": "Portaria 551/GC3 (9 Aug 2010): COMDABRA/COMAE catalogues, CENDOC forwards originals periodically",
+"id": "fab",
+"l0": true,
+"label": "Força Aérea Brasileira / Ministério da Aeronáutica",
+"note": "Art. 3 mandates periodic transfer of originals, which is why the fund has no terminal year. Published DOU 10 Aug 2010, Seção 1, p. 101. Revoked Nota C-002/MIN/ADM (13 Apr 1978) and Aviso S-001/MIN (28 Feb 1989). Successive accessions are documented at least to a 'terceiro recolhimento' covering 1981, with CENDOC's bulk remittance to COREG scheduled to close 31 Aug 2010; FAB states coverage now runs 1952-2025.",
+"sources": [
+{
+"date": null,
+"name": "https://www.migalhas.com.br/arquivos/2026/1/7F5E4CC12D7AE7_terceiraacao.pdf",
+"url": "https://www.migalhas.com.br/arquivos/2026/1/7F5E4CC12D7AE7_terceiraacao.pdf"
+},
+{
+"date": null,
+"name": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=891762&filename=RIC+679%2F2011",
+"url": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=891762&filename=RIC+679%2F2011"
+},
+{
+"date": null,
+"name": "https://www.cnnbrasil.com.br/ciencia/pilotos-e-controladores-relataram-18-casos-de-ovnis-no-brasil-em-2025/",
+"url": "https://www.cnnbrasil.com.br/ciencia/pilotos-e-controladores-relataram-18-casos-de-ovnis-no-brasil-em-2025/"
+},
+{
+"date": "1986-06-02",
+"name": "Relatório de Ocorrências (Arquivo Nacional)",
+"url": "http://imagem.sian.an.gov.br/acervo/derivadas/BR_DFANBSB_ARX/0/0/0249/BR_DFANBSB_ARX_0_0_0249_d0001de0001.pdf"
+},
+{
+"date": "2022-01-14",
+"name": "BBC Brasil",
+"url": "https://www.bbc.com/portuguese/brasil-59953278"
+}
+],
+"tier": "A",
+"type": "programmatic"
+},
+{
+"claimTier": 2,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "1977",
+"direction": "out",
+"edgeLabel": "COMPARISON: publish the raw record and disclaim competence, versus publish the adjudicated case file",
+"id": "geipan",
+"l0": true,
+"label": "GEIPAN - Groupe d'Études et d'Informations sur les Phénomènes Aérospatiaux Non identifiés",
+"note": "COMPARISON EDGE — no contact between the Arquivo Nacional and GEIPAN is claimed. Two different theories of state openness. GEIPAN is the investigating office itself publishing a searchable, four-tier-classified case database out of CNES; the Brazilian arrangement is the opposite shape — the military transfers scanned raw records into a civil archive and then says it has no specialists qualified to investigate or to offer an opinion. Brazil gives the citizen the primary document and no adjudication; France gives the citizen the adjudication. The board should not treat these as the same category of openness. Tier 2 because the comparison is analytic; the underlying facts on each side are separately sourced on the two nodes.",
+"sources": [
+{
+"date": null,
+"name": "Arquivo Nacional (Brasil), 'Conheça o fundo sobre OVNIs do Arquivo Nacional' — https://www.gov.br/arquivonacional/pt-br/canais_atendimento/imprensa/noticias/conheca-o-fundo-sobre-ovnis-do-arquivo-nacional",
+"url": ""
+},
+{
+"date": null,
+"name": "Office of the Chief Science Advisor of Canada, 'Management of Public Reporting of Unidentified Aerial Phenomena in Canada' (Sky Canada Project, 2025) — https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada",
+"url": ""
+},
+{
+"date": "2026-08-12",
+"name": "CNES - Cadastro Nacional de Estabelecimentos de Saúde, establishment record 2761041 (Ministério da Saúde open data API)",
+"url": "https://apidadosabertos.saude.gov.br/cnes/estabelecimentos/2761041"
+},
+{
+"date": "2026-08-12",
+"name": "Arquivo Nacional - portal",
+"url": "https://www.gov.br/arquivonacional/pt-br"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "location",
+"dateEnd": null,
+"dateStart": "2007",
+"direction": "in",
+"edgeLabel": "The UFO fund is held in Brasília and its reference code says so",
+"id": "l-brasilia",
+"l0": false,
+"label": "Brasilia, Federal District, Brazil",
+"note": "The Arquivo Nacional's own notice identifies the holding as 'o Fundo Objeto Voador Não Identificado – OVNI (BR DFANBSB ARX)', produced by the Comando da Aeronáutica and held by the Arquivo Nacional, comprising 743 registros. DFANBSB is the archival code for the Arquivo Nacional's Brasília unit. RQS 193/2022 states the transfer route directly: 'A partir de 2007, a Aeronáutica, mas não o Exército e nem a Marinha, passou a enviar seus papeis resultantes de suas pesquisas para o Arquivo Nacional, em Brasília.' [CORRECTED 14 Aug 2026: RQS 193/2022 is a request for a COMMEMORATIVE SPECIAL SESSION under Art. 199 RISF, approved 16 Mar 2022, held 24 Jun 2022 - not a records-seeking or compelling instrument. Its durable value is the content of its justificacao, which names Operacao Prato, the 1986 night, SIOANI and the archive reference BR DFANBSB ARX. These edges assert what the document NAMES, which is verifiable in its text and unaffected by its procedural nature, so the tier is unchanged. Any claim that the instrument COMPELLED disclosure would be false.]",
+"sources": [
+{
+"date": null,
+"name": "Arquivo Nacional (Brasil), 'Conheça o fundo sobre OVNIs do Arquivo Nacional' — https://www.gov.br/arquivonacional/pt-br/canais_atendimento/imprensa/noticias/conheca-o-fundo-sobre-ovnis-do-arquivo-nacional",
+"url": ""
+},
+{
+"date": null,
+"name": "Senado Federal (Brasil), Requerimento nº 193, de 2022 (RQS 193/2022), autoria do Senador Eduardo Girão (PODEMOS/CE) com Eliziane Gama, Alessandro Vieira, Izalci Lucas, Jorge Kajuru, Marcos do Val, Paulo Rocha e Reguffe — sessão especial para os 75 anos do Dia Mundial da Ufologia — https://legis.senado.leg.br/sdleg-getter/documento?dm=9089831&ts=1647523438292&disposition=inline",
+"url": ""
+},
+{
+"date": "2026-08-23",
+"name": "Senado Federal, Dados Abertos — official record of RQS 193/2022 (Código 152222): ementa 'Sessão especial destinada a comemorar os 75 anos do Dia Mundial da Ufologia', 16 March 2022, Sen. Eduardo Girão and seven co-signers",
+"url": "https://legis.senado.leg.br/dadosabertos/materia/pesquisa/lista?sigla=RQS&numero=193&ano=2022"
+},
+{
+"date": "1986-06-02",
+"name": "Relatório de Ocorrências (Arquivo Nacional PDF)",
+"url": "http://imagem.sian.an.gov.br/acervo/derivadas/BR_DFANBSB_ARX/0/0/0249/BR_DFANBSB_ARX_0_0_0249_d0001de0001.pdf"
+},
+{
+"date": "2026-08-12",
+"name": "Wikipedia - Brasilia",
+"url": "https://en.wikipedia.org/wiki/Bras%C3%ADlia"
+}
+],
+"tier": "C",
+"type": "custody"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2007",
+"direction": "out",
+"edgeLabel": "COMPARISON: a voluntary military transfer into a civil archive versus a statutory collection ordered by Congress",
+"id": "nara-rg615",
+"l0": true,
+"label": "National Archives Record Group 615 - UAP Records Collection",
+"note": "COMPARISON EDGE — no institutional contact between the Arquivo Nacional and NARA is claimed or evidenced. Brazil: from 2007 the Comando da Aeronáutica began sending its holdings to the Arquivo Nacional of its own motion, producing the Fundo Objeto Voador Não Identificado – OVNI (BR DFANBSB ARX), 743 registros, served online, with the service publicly disclaiming further competence. The United States: the UAP Records Collection in Record Group 615 exists only because sections 1841–1843 of Public Law 118-31 ordered it into being, with a statutory transfer deadline and with the independent review board stripped out in conference. Same archival endpoint, opposite mechanism — one service handed its record over, the other had to be legislated at. [CORRECTED 14 Aug 2026: RQS 193/2022 is a request for a COMMEMORATIVE SPECIAL SESSION under Art. 199 RISF, approved 16 Mar 2022, held 24 Jun 2022 - not a records-seeking or compelling instrument. Its durable value is the content of its justificacao, which names Operacao Prato, the 1986 night, SIOANI and the archive reference BR DFANBSB ARX. These edges assert what the document NAMES, which is verifiable in its text and unaffected by its procedural nature, so the tier is unchanged. Any claim that the instrument COMPELLED disclosure would be false.]",
+"sources": [
+{
+"date": null,
+"name": "Arquivo Nacional (Brasil), 'Conheça o fundo sobre OVNIs do Arquivo Nacional' — https://www.gov.br/arquivonacional/pt-br/canais_atendimento/imprensa/noticias/conheca-o-fundo-sobre-ovnis-do-arquivo-nacional",
+"url": ""
+},
+{
+"date": null,
+"name": "Senado Federal (Brasil), Requerimento nº 193, de 2022 (RQS 193/2022), autoria do Senador Eduardo Girão (PODEMOS/CE) com Eliziane Gama, Alessandro Vieira, Izalci Lucas, Jorge Kajuru, Marcos do Val, Paulo Rocha e Reguffe — sessão especial para os 75 anos do Dia Mundial da Ufologia — https://legis.senado.leg.br/sdleg-getter/documento?dm=9089831&ts=1647523438292&disposition=inline",
+"url": ""
+},
+{
+"date": null,
+"name": "FY2024 National Defense Authorization Act, Public Law 118-31, sections 1841–1843 (Unidentified Anomalous Phenomena Records Collection at NARA)",
+"url": ""
+},
+{
+"date": "2026-08-23",
+"name": "Senado Federal, Dados Abertos — official record of RQS 193/2022 (Código 152222): ementa 'Sessão especial destinada a comemorar os 75 anos do Dia Mundial da Ufologia', 16 March 2022, Sen. Eduardo Girão and seven co-signers",
+"url": "https://legis.senado.leg.br/dadosabertos/materia/pesquisa/lista?sigla=RQS&numero=193&ano=2022"
+},
+{
+"date": "1986-06-02",
+"name": "Relatório de Ocorrências (Arquivo Nacional PDF)",
+"url": "http://imagem.sian.an.gov.br/acervo/derivadas/BR_DFANBSB_ARX/0/0/0249/BR_DFANBSB_ARX_0_0_0249_d0001de0001.pdf"
+},
+{
+"date": "2026-08-12",
+"name": "Arquivo Nacional - portal",
+"url": "https://www.gov.br/arquivonacional/pt-br"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 2,
+"cls": "program",
+"dateEnd": null,
+"dateStart": "1990s",
+"direction": "in",
+"edgeLabel": "official documents held by the National Archives",
+"id": "operacao-prato",
+"l0": true,
+"label": "Operação Prato (Operation Saucer)",
+"note": "The operation's files were released and are served through the Arquivo Nacional's information system.",
+"sources": [
+{
+"date": "2026-01-01",
+"name": "Operação Prato - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Prato"
+}
+],
+"tier": "A",
+"type": "custody"
+},
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "SIAN search 'operação prato' returns 6 documents, none audiovisual",
+"id": "operacao-prato",
+"l0": true,
+"label": "Operação Prato (Operation Saucer)",
+"note": "Arquivo Nacional's own answer to a litigant, quoted in the 2023 federal judgment. Contrasts with the 2011 parliamentary finding that hundreds of photographs (of 500+) and hours of super 8 / super 16mm film were never transferred from I COMAR. The court found insufficient evidence that the audiovisual files exist; the parliamentary record asserts they did. Both positions are on the record and are not reconciled.",
+"sources": [
+{
+"date": null,
+"name": "https://www.migalhas.com.br/arquivos/2026/1/7F5E4CC12D7AE7_terceiraacao.pdf",
+"url": "https://www.migalhas.com.br/arquivos/2026/1/7F5E4CC12D7AE7_terceiraacao.pdf"
+},
+{
+"date": null,
+"name": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=891762&filename=RIC+679%2F2011",
+"url": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=891762&filename=RIC+679%2F2011"
+},
+{
+"date": "2026-01-01",
+"name": "Operação Prato - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Prato"
+},
+{
+"date": "2026-08-12",
+"name": "Arquivo Nacional - portal",
+"url": "https://www.gov.br/arquivonacional/pt-br"
+}
+],
+"tier": "A",
+"type": "programmatic"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "2022-06-24",
+"dateStart": "2022-03",
+"direction": "in",
+"edgeLabel": "The Senate's own 2022 instrument counts and cites the archive",
+"id": "senado-brasil",
+"l0": true,
+"label": "Senado Federal do Brasil",
+"note": "RQS 193/2022 recites the transfer route from 2007 onward, 'somando-se hoje mais de 20 mil páginas de arquivos liberados', names Brigadeiro Junichi Saito's August 2010 decree in the Diário Oficial da União directing that all FAB UFO cases be concentrated at COMDABRA for shipment to the Arquivo Nacional, and gives the archive's own search behaviour: 'quando se pesquisa apenas o termo OVNI, se encontram 137 registros, mas se colocarmos na pesquisa um código de referência específico (BR DFANBSB ARX), encontraremos 758 documentos.' A national legislature citing archival reference codes in a legislative instrument is the specific thing the US board has no equivalent of. [CORRECTED 14 Aug 2026: RQS 193/2022 is a request for a COMMEMORATIVE SPECIAL SESSION under Art. 199 RISF, approved 16 Mar 2022, held 24 Jun 2022 - not a records-seeking or compelling instrument. Its durable value is the content of its justificacao, which names Operacao Prato, the 1986 night, SIOANI and the archive reference BR DFANBSB ARX. These edges assert what the document NAMES, which is verifiable in its text and unaffected by its procedural nature, so the tier is unchanged. Any claim that the instrument COMPELLED disclosure would be false.]",
+"sources": [
+{
+"date": null,
+"name": "Senado Federal (Brasil), Requerimento nº 193, de 2022 (RQS 193/2022), autoria do Senador Eduardo Girão (PODEMOS/CE) com Eliziane Gama, Alessandro Vieira, Izalci Lucas, Jorge Kajuru, Marcos do Val, Paulo Rocha e Reguffe — sessão especial para os 75 anos do Dia Mundial da Ufologia — https://legis.senado.leg.br/sdleg-getter/documento?dm=9089831&ts=1647523438292&disposition=inline",
+"url": ""
+},
+{
+"date": null,
+"name": "Arquivo Nacional (Brasil), 'Conheça o fundo sobre OVNIs do Arquivo Nacional' — https://www.gov.br/arquivonacional/pt-br/canais_atendimento/imprensa/noticias/conheca-o-fundo-sobre-ovnis-do-arquivo-nacional",
+"url": ""
+},
+{
+"date": "2026-08-23",
+"name": "Senado Federal, Dados Abertos — official record of RQS 193/2022 (Código 152222): ementa 'Sessão especial destinada a comemorar os 75 anos do Dia Mundial da Ufologia', 16 March 2022, Sen. Eduardo Girão and seven co-signers",
+"url": "https://legis.senado.leg.br/dadosabertos/materia/pesquisa/lista?sigla=RQS&numero=193&ano=2022"
+},
+{
+"date": "1986-06-02",
+"name": "Relatório de Ocorrências (Arquivo Nacional PDF)",
+"url": "http://imagem.sian.an.gov.br/acervo/derivadas/BR_DFANBSB_ARX/0/0/0249/BR_DFANBSB_ARX_0_0_0249_d0001de0001.pdf"
+},
+{
+"date": "2026-08-12",
+"name": "Senado Federal - Dados Abertos, list of senators in exercise (official open-data service, 81 members)",
+"url": "https://legis.senado.leg.br/dadosabertos/senador/lista/atual"
+}
+],
+"tier": "C",
+"type": "legislative"
+},
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": "2025-06",
+"dateStart": "2022",
+"direction": "out",
+"edgeLabel": "COMPARISON: Canada surveyed the world's UAP-reporting models and did not mention Brazil once",
+"id": "sky-canada-project",
+"l0": true,
+"label": "Sky Canada Project - Office of the Chief Science Advisor of Canada",
+"note": "COMPARISON EDGE, and a second sourced negative. The Sky Canada Project report examined 'the management of UAP reporting in several countries' and concluded that 'the processes in place in a few countries, notably the United States, France and Chile, provide interesting examples of coordinated, transparent, and scientifically driven approaches'. Its recommendation 13 tells the future Canadian lead organisation to 'establish partnerships with international entities dedicated to UAPs, such as AARO and NASA (U.S.A.), GEIPAN (France), and SEFAA (Chile).' The word 'Brazil' does not occur in the report. The state that actually put its military UAP files in a public archive is absent from the survey of states that handle UAP reporting well — which is a finding about the survey as much as about Brazil.",
+"sources": [
+{
+"date": null,
+"name": "Office of the Chief Science Advisor of Canada, 'Management of Public Reporting of Unidentified Aerial Phenomena in Canada' (Sky Canada Project, 2025) — https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada",
+"url": ""
+},
+{
+"date": "2026-08-12",
+"name": "Arquivo Nacional - portal",
+"url": "https://www.gov.br/arquivonacional/pt-br"
+}
+],
+"tier": "B",
+"type": "institutional"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "2009",
+"deg": 8,
+"denials": [],
+"desc": "From 2009 the Brazilian Air Force transferred its UAP holdings to the Arquivo Nacional, the Brazilian National Archives, where they are served through the SIAN online image system with full archival references and downloadable page images - a materially more open arrangement than the paid-download model The National Archives at Kew used for the equivalent British files. The release began with the September 2009 declassification of the 1986 Air Defence Command report and continued through 2010, when O Estado de S. Paulo reported on 14 August 2010 that the Aeronáutica had released documents on UFO appearances and the news agency EFE reported on 10 August 2010 that the Air Force had created rules for pilots in case of contact with UFOs. The Air Force's own position, given to BBC Brasil, is that all material available on UFOs has already been sent to the Arquivo Nacional and that it 'does not have specialised professionals to carry out scientific investigations or to issue an opinion about this type of aerial phenomenon' - a denial that also functions as a permanent transfer of the question out of the military and into the archive. As of January 2022 the UFO collection was the second most consulted holding in the Arquivo Nacional, behind only the records of the military dictatorship, and spanned sixty-four years, from the 1952 Barra da Tijuca photographs published by O Cruzeiro to a 2016 Brazilian Air Force pilot sighting report.",
+"domains": [
+"w10-brazil",
+"w11-brazil-harden",
+"w2-international"
+],
+"dossier": {
+"claims": [
+{
+"source": "Arquivo Nacional, 'Conheca o fundo sobre OVNIs do Arquivo Nacional', https://www.gov.br/arquivonacional/pt-br/canais_atendimento/imprensa/noticias/conheca-o-fundo-sobre-ovnis-do-arquivo-nacional",
+"text": "The Arquivo Nacional holds the Fundo Objeto Voador Nao Identificado (OVNI) under reference code BR DFANBSB ARX, produced by the Comando da Aeronautica do Brasil.",
+"tier": 1
+},
+{
+"source": "Arquivo Nacional, 'Conheca o fundo sobre OVNIs do Arquivo Nacional', https://www.gov.br/arquivonacional/pt-br/canais_atendimento/imprensa/noticias/conheca-o-fundo-sobre-ovnis-do-arquivo-nacional",
+"text": "The Arquivo Nacional states that the fund is composed of 743 registros, including reports, occurrence questionnaires, correspondence, photographs, drawings, videos, audio and newspaper and magazine clippings.",
+"tier": 1
+},
+{
+"source": "Senado Federal, Requerimento no 193, de 2022, justificacao, presented 16 March 2022, https://legis.senado.leg.br/sdleg-getter/documento?dm=9089831&disposition=inline",
+"text": "The Brazilian Senate's record gives a different figure: searching the term OVNI alone in the Arquivo Nacional returns 137 registros, while searching the specific reference code BR DFANBSB ARX returns 758 documents. The 743 and 758 figures come from different bodies at different dates and neither has been reconciled to the other.",
+"tier": 1
+},
+{
+"source": "Arquivo Nacional, 'Conheca o fundo sobre OVNIs do Arquivo Nacional', https://www.gov.br/arquivonacional/pt-br/canais_atendimento/imprensa/noticias/conheca-o-fundo-sobre-ovnis-do-arquivo-nacional",
+"text": "The Arquivo Nacional states that the earliest occurrence in the fund dates from 1952 and the most recent from 2016.",
+"tier": 1
+},
+{
+"source": "Nota da Forca Aerea reproduced in CNN Brasil, 12 August 2026, https://www.cnnbrasil.com.br/ciencia/pilotos-e-controladores-relataram-18-casos-de-ovnis-no-brasil-em-2025/ ; compare Arquivo Nacional, https://www.gov.br/arquivonacional/pt-br/canais_atendimento/imprensa/noticias/conheca-o-fundo-sobre-ovnis-do-arquivo-nacional",
+"text": "The FAB states that its holdings for the period 1952 to 2025 have been transferred, which extends nine years beyond the terminal date the Arquivo Nacional gives for the fund.",
+"tier": 2
+},
+{
+"source": "Arquivo Nacional, 'Conheca o fundo sobre OVNIs do Arquivo Nacional', https://www.gov.br/arquivonacional/pt-br/canais_atendimento/imprensa/noticias/conheca-o-fundo-sobre-ovnis-do-arquivo-nacional",
+"text": "The fund is accessible to the public through the Sistema de Informacoes do Arquivo Nacional (SIAN) at http://sian.an.gov.br/sianex/consulta/login.asp, and a set of images from the collection is published on the Arquivo Nacional's Pinterest profile.",
+"tier": 1
+},
+{
+"source": "Arquivo Nacional, 'Conheca o fundo sobre OVNIs do Arquivo Nacional', https://www.gov.br/arquivonacional/pt-br/canais_atendimento/imprensa/noticias/conheca-o-fundo-sobre-ovnis-do-arquivo-nacional",
+"text": "The Arquivo Nacional attaches an explicit caveat to its description of the fund, stating that OVNI does not necessarily signify the existence of flying saucers or extraterrestrials and that the term designates any flying object whose origin was not immediately identified, which may include satellites, drones, balloons or natural phenomena.",
+"tier": 1
+},
+{
+"source": "Senado Federal, RQS 193/2022, justificacao, https://legis.senado.leg.br/sdleg-getter/documento?dm=9089831&disposition=inline",
+"text": "The Senate record states that from 2007 the Aeronautica, but not the Exercito and not the Marinha, began sending its papers to the Arquivo Nacional, and that the total released amounts to more than 20,000 pages.",
+"tier": 1
+},
+{
+"source": "Agencia Senado, 'Em homenagem no Plenario, ufologos cobram liberacao de documentos sobre ovnis', 24 June 2022, https://www12.senado.leg.br/noticias/materias/2022/06/24/em-homenagem-no-plenario-ufologos-cobram-liberacao-de-documentos-sobre-ovnis",
+"text": "Speaking in the Senate plenary on 24 June 2022, the ufologist and journalist A. J. Gevaerd stated that the Brazilian government and the Aeronautica had released more than 20,000 pages of documents now held at the Arquivo Nacional in Brasilia, and that the opening 'is not complete' but had a very fruitful beginning.",
+"tier": 1
+},
+{
+"source": "Nota da Forca Aerea reproduced in CNN Brasil, 12 August 2026, https://www.cnnbrasil.com.br/ciencia/pilotos-e-controladores-relataram-18-casos-de-ovnis-no-brasil-em-2025/",
+"text": "The mechanism sustaining accruals into the fund is Portaria do Comando da Aeronautica no 551/GC3 of 9 August 2010, under which COMAE-received reports are registered, catalogued and forwarded to the Arquivo Nacional for public consultation.",
+"tier": 2
+},
+{
+"source": "CNN Brasil, 'Pilotos e controladores relataram 18 casos de OVNIs no Brasil em 2025', 12 August 2026, https://www.cnnbrasil.com.br/ciencia/pilotos-e-controladores-relataram-18-casos-de-ovnis-no-brasil-em-2025/",
+"text": "The fund is a live series rather than a closed historical collection: documents released through the Arquivo Nacional and reported in August 2026 record at least 18 unidentified-object cases from 2025, distributed across Parana (5), Ceara (4), Minas Gerais (2), Sao Paulo (2), Rio de Janeiro (2), Alagoas (1), Mato Grosso (1) and one location undefined.",
+"tier": 2
+},
+{
+"source": "Arquivo Nacional, Dibrarq authority record, https://dibrarq.arquivonacional.gov.br/index.php/ministerio-da-defesa-brasil-comando-da-aeronautica;isaar?sf_culture=pt_BR",
+"text": "The producing body is registered in the Arquivo Nacional's authority-record system, Dibrarq, as Ministerio da Defesa (Brasil), Comando da Aeronautica.",
+"tier": 1
+},
+{
+"source": "Correio Braziliense, 'Arquivo Nacional guarda ao menos 743 relatos de ovnis no Brasil', February 2023, https://www.correiobraziliense.com.br/brasil/2023/02/5073573-arquivo-nacional-guarda-ao-menos-743-relatos-de-ovnis-no-brasil.html",
+"text": "An earliest item in the collection is a record of a sighting at Barra da Tijuca, in the west zone of Rio de Janeiro, in 1952.",
+"tier": 2
+},
+{
+"source": "Ministerio da Justica e Seguranca Publica, 'Acervo sobre OVNIs e um dos mais visitados no Arquivo Nacional', https://www.justica.gov.br/news/acervo-sobre-ovnis-e-um-dos-mais-visitados-no-arquivo-nacional",
+"text": "The Ministry of Justice and Public Security, the Arquivo Nacional's parent ministry, has publicly characterised the OVNI collection as among the most consulted holdings at the Arquivo Nacional.",
+"tier": 2
+}
+],
+"connections": [
+"Custodian of the records produced by the Forca Aerea Brasileira (fab) through CENDOC and COMDABRA/COMAE under Portaria 551/GC3.",
+"Holds the Operacao Prato (operacao-prato) file, including the 2009 CENDOC transfer and the GSI release of former SNI documents.",
+"Holds the 1986 Noite Oficial dos OVNIs (ev-noite-ovnis-1986) documentation and audio of pilot and control tower exchanges.",
+"Its reference code BR DFANBSB ARX and its holding count of 758 documents are cited verbatim in Senado Federal RQS 193/2022 (senado-brasil).",
+"Subordinate to the Ministerio da Justica e Seguranca Publica, which places custody of the records outside the defence establishment.",
+"The structural counterpart the United States lacks: there is no NARA record group equivalent for a live, annually accruing US military UAP reporting series."
+],
+"denialPosture": "The archive itself does not deny; it disclaims. Its public description states that OVNI does not necessarily mean flying saucers or extraterrestrials and that the label covers satellites, drones, balloons and natural phenomena. That is a records body inoculating itself against the reading its own holdings invite, and it is catalogued here as an institutional hedge attached to published material rather than as a reason for withholding it.",
+"narrative": "Brazil's national archive holds the world's most accessible body of military records on unidentified aerial objects, and it holds them under an ordinary archival reference code with an ordinary finding aid, which is precisely what makes it remarkable. The Arquivo Nacional describes the collection plainly on its own website: the Fundo Objeto Voador Nao Identificado, BR DFANBSB ARX, produced by the Comando da Aeronautica do Brasil and held in the archive's custody, composed of 743 registros comprising reports, occurrence questionnaires, correspondence, photographs, drawings, videos, audio and clippings from newspapers and magazines about objects seen in Brazilian skies over the years. The earliest occurrence in the fund dates from 1952 and, per the archive's own description, the most recent from 2016. Access runs through SIAN, the Sistema de Informacoes do Arquivo Nacional, and a curated image set is published on the archive's Pinterest account, which is not a detail one expects from a body of military intelligence records.\n\nThe holding count is contested and the board should present both figures rather than pick one. The Arquivo Nacional says 743 registros. The Brazilian Senate's own record, in the justification to RQS 193/2022, says that searching the term OVNI alone returns 137 records but that entering the specific reference code BR DFANBSB ARX returns 758 documents. These are almost certainly counting different things, registros as archival units versus digitised items as retrieved by a code search, and the gap may also reflect accruals between the two dates. Neither figure is wrong and neither is authoritative for the other's purpose. Both are cited here. Layered on top, the ufologist A. J. Gevaerd told the Senate plenary in June 2022 that the Brazilian government and the Aeronautica had released more than 20,000 pages, which is a page count rather than an item count and is not in conflict with either.\n\nThe collection's provenance runs through the FAB's documentation and archival machinery rather than through litigation or leak. From 2007 the Aeronautica began sending its papers to the archive. In April 2009 CENDOC forwarded the first Operacao Prato material. In August 2010 Portaria no 551/GC3 formalised the flow, making the archive the default destination for reports received through the aerospace operations command. The consequence is that the fund is not a historical dump frozen at a cut-off date but a live series. In August 2026 Brazilian media reporting off documents released through the archive identified at least eighteen unidentified-object cases reported in Brazil during 2025 by pilots, controllers and other aviation personnel, with five clustered at Londrina in Parana and four in Ceara, including a LATAM captain's report near Guarulhos on 1 September 2025 and a Londrina tower controller's 23 November 2025 report of a white, round object that appeared and disappeared on the traffic display. A citizen can read the form.\n\nThe archive is not an advocate, and its framing is worth cataloguing precisely because it is not. Its public page carries an explicit caveat that OVNI does not necessarily mean flying saucers or extraterrestrials, and that the term designates any flying object whose origin was not immediately identified, which may include satellites, drones, balloons or natural phenomena. On this board that sentence is an artefact rather than a rebuttal: it is the institutional hedge a records body attaches when it publishes material a defence ministry produced, and its presence tells you the archive expected the material to be read as more than administrative residue. The important thing is that the hedge is attached to published records rather than used as a reason not to publish.\n\nThe boundary of the collection is the sharpest single fact in this dossier. The Senate record states without qualification that from 2007 it was the Aeronautica, and not the Exercito and not the Marinha, that sent its papers. Brazilian researchers went to the Ministry of Defence in April 2013, at the invitation of then Foreign Minister Celso Amorim and before the service commanders, specifically to press for the Army and Navy holdings. Those holdings have not been released. So the Fundo OVNI is a one-service archive, which means Brazil's disclosure is real but partial, and means the comparison with the United States should be drawn carefully: Brazil is not a state that opened everything, it is a state where one armed service unilaterally chose publication as its default and the other two did not. That variance is the most useful thing about it, because it isolates the decision. The material did not force the outcome. The institution chose it. And in the United States, no service has chosen it, at any point, in any decade, for any category of this material.",
+"openQuestions": [
+"The 743 versus 758 discrepancy has not been reconciled. The two figures come from different bodies, are counting differently (archival registros versus documents returned by a reference-code search), and are separated in time. No authoritative reconciliation exists in the sources located.",
+"The Arquivo Nacional gives 2016 as the fund's most recent occurrence while the FAB states transfers run through 2025 and 2025 reports are demonstrably being released. Whether the archive page is simply out of date, or whether post-2016 accruals sit under a separate series, is unresolved.",
+"The Army and Navy holdings referred to in the Senate record and sought at the April 2013 Ministry of Defence meeting have not been released and their extent is unknown.",
+"Whether any material was withheld, redacted or reclassified during the transfers from CENDOC and GSI is not addressed in any located source.",
+"Whether the fund contains any material relating to physical residue, recovered objects or materials analysis has not been established from the finding aid."
+],
+"roles": [
+"custody",
+"disclosure",
+"research"
+],
+"whatItIs": "The Fundo Objeto Voador Nao Identificado (OVNI), reference code BR DFANBSB ARX, is a discrete archival collection held by Brazil's Arquivo Nacional, the national archives, and produced by the Comando da Aeronautica. It contains reports, occurrence questionnaires, correspondence, photographs, drawings, video, audio and press clippings concerning objects observed in Brazilian skies. It is open to the public and searchable online through SIAN, the Arquivo Nacional's information system.",
+"whyImplicated": "This is the physical answer to the question the US disclosure fight keeps asking in the abstract: what does it actually look like when a state moves its military UAP holdings into civilian custody and publishes them. It looks like a reference code, a finding aid, a login page and a holding count. The archive is the endpoint of the pipeline the FAB built through Portaria 551/GC3, and its existence dismantles the premise that this material is intrinsically unreleasable, because a NATO-adjacent air force with a real air defence mission released it and continues to accession into it annually. It is also honest about its own limits, and the board should be too: the collection covers one service, the Aeronautica, and not the Army or the Navy, and its holding count is reported differently by the archive and by the Senate. Those limits do not weaken the comparison. They sharpen it, because even a partial, imperfect, single-service release is more than the United States has produced in seventy-nine years."
+},
+"entityInfo": null,
+"era": "2",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "arquivo-nacional-ufo",
+"l0": true,
+"label": "Arquivo Nacional (Brazil) - UFO/UAP collection",
+"locLabel": null,
+"members": [
+{
+"cls": "document",
+"id": "doc-fab-1986-report",
+"label": "Relatório de Ocorrências, Comando Aéreo de Defesa Aérea, 2 June 1986 (Arquivo Nacional BR_DFANBSB_ARX_0_0_0249)",
+"tier": "B"
+},
+{
+"cls": "location",
+"id": "l-brasilia",
+"label": "Brasilia, Federal District, Brazil",
+"tier": "C"
+}
+],
+"short": "Arquivo Nacional (Brazil) - UFO/UAP collection",
+"sources": [
+{
+"date": null,
+"name": "Arquivo Nacional (Brasil), 'Conheça o fundo sobre OVNIs do Arquivo Nacional' — https://www.gov.br/arquivonacional/pt-br/canais_atendimento/imprensa/noticias/conheca-o-fundo-sobre-ovnis-do-arquivo-nacional",
+"url": ""
+},
+{
+"date": null,
+"name": "Senado Federal (Brasil), Requerimento nº 193, de 2022 (RQS 193/2022), autoria do Senador Eduardo Girão (PODEMOS/CE) com Eliziane Gama, Alessandro Vieira, Izalci Lucas, Jorge Kajuru, Marcos do Val, Paulo Rocha e Reguffe — sessão especial para os 75 anos do Dia Mundial da Ufologia — https://legis.senado.leg.br/sdleg-getter/documento?dm=9089831&ts=1647523438292&disposition=inline",
+"url": ""
+},
+{
+"date": null,
+"name": "https://www.gov.br/arquivonacional/pt-br/canais_atendimento/imprensa/noticias/conheca-o-fundo-sobre-ovnis-do-arquivo-nacional",
+"url": "https://www.gov.br/arquivonacional/pt-br/canais_atendimento/imprensa/noticias/conheca-o-fundo-sobre-ovnis-do-arquivo-nacional"
+},
+{
+"date": null,
+"name": "https://www.migalhas.com.br/arquivos/2026/1/7F5E4CC12D7AE7_terceiraacao.pdf",
+"url": "https://www.migalhas.com.br/arquivos/2026/1/7F5E4CC12D7AE7_terceiraacao.pdf"
+},
+{
+"date": null,
+"name": "https://legis.senado.leg.br/sdleg-getter/documento?dm=9089831&ts=1647523438292&disposition=inline",
+"url": "https://legis.senado.leg.br/sdleg-getter/documento?dm=9089831&ts=1647523438292&disposition=inline"
+},
+{
+"date": null,
+"name": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=891762&filename=RIC+679%2F2011",
+"url": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=891762&filename=RIC+679%2F2011"
+},
+{
+"date": null,
+"name": "https://www.cnnbrasil.com.br/ciencia/pilotos-e-controladores-relataram-18-casos-de-ovnis-no-brasil-em-2025/",
+"url": "https://www.cnnbrasil.com.br/ciencia/pilotos-e-controladores-relataram-18-casos-de-ovnis-no-brasil-em-2025/"
+},
+{
+"date": "2026-08-12",
+"name": "Arquivo Nacional - portal",
+"url": "https://www.gov.br/arquivonacional/pt-br"
+},
+{
+"date": "2022-01-14",
+"name": "BBC Brasil",
+"url": "https://www.bbc.com/portuguese/brasil-59953278"
+},
+{
+"date": "1986-06-02",
+"name": "SIAN image server - 1986 report",
+"url": "http://imagem.sian.an.gov.br/acervo/derivadas/BR_DFANBSB_ARX/0/0/0249/BR_DFANBSB_ARX_0_0_0249_d0001de0001.pdf"
+}
+],
+"sub": "Arquivo Nacional (Brazil), Fundo Objeto Voador Não Identificado – OVNI, reference BR DFANBSB ARX, 743 registros, produced by the Comando da Aeronáutica",
+"tier": "A",
+"tierRationale": "Re-graded A on a global pass (rank 68 of 1027, score 73). 10 connections, 6 of them custody/witness/funding/programmatic. Axes C1/A0/D3.",
+"timeline": [
+{
+"date": "2009-09-25",
+"id": "tl-intl-2009-brazil",
+"label": "Brazil declassifies the 1986 report",
+"precision": "day",
+"strand": "oversight",
+"text": "The Air Defence Command report of 2 June 1986 is released to the Arquivo Nacional. The Brazilian Air Force begins transferring its whole UAP holding to the National Archives; by 2022 it is the second most consulted collection there, behind only the records of the military dictatorship.",
+"tier": 2
+}
+]
+}

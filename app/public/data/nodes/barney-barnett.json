@@ -1,0 +1,125 @@
+{
+"A": 0,
+"C": 2,
+"D": 1,
+"affiliations": [
+"US Soil Conservation Service, engineer"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "1947-07",
+"event": "Alleged encounter with a crashed disc and bodies in open New Mexico country",
+"precision": "month"
+},
+{
+"date": "1969",
+"event": "Dies, never having been interviewed by a UFO researcher",
+"precision": "year"
+},
+{
+"date": "1980",
+"event": "Second-hand account published in Berlitz and Moore, 'The Roswell Incident'",
+"precision": "year"
+},
+{
+"date": "1992",
+"event": "Mark Rodeghier and Fred Whiting publish 'The Plains of San Agustin Controversy' for CUFOS and the Fund for UFO Research",
+"precision": "year"
+}
+],
+"claims": [
+{
+"source": "The Roswell Report: Case Closed (1997), Section 1.4, quoting FUFOR footage",
+"text": "Vern Maltais and Alice Knight, who knew Barnett, related his account on camera for the Fund for UFO Research video 'Recollections of Roswell Part II'; Knight stated 'I don't recall the date.'",
+"tier": 2
+},
+{
+"source": "The Roswell Report: Case Closed (1997), Section 1.1 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"text": "The Air Force's 1997 report states that the San Agustin claim rests on three testimonies - two second-hand (Maltais, Knight) and one first-hand (Gerald Anderson) - and that Barnett, the original alleged eyewitness, is deceased.",
+"tier": 2
+},
+{
+"source": "Inference from the state of the record",
+"text": "The San Agustin strand is unfalsifiable in its current form and should be treated as a research target rather than as evidence. Reasoning: no first-hand statement by Barnett exists in any medium, and the only first-hand claimant, Gerald Anderson, was shown to have submitted a forged document.",
+"tier": 3
+}
+],
+"cls": "person",
+"cluster": "witness",
+"conflicts": [
+"Barnett's own alleged account, as relayed, places a crash at a site 175 miles from Roswell, which is irreconcilable with a single-crash Roswell scenario and forced the literature into multi-crash constructions."
+],
+"connections": [
+{
+"claimTier": 3,
+"cls": "event",
+"dateEnd": "1969",
+"dateStart": "1947-07",
+"direction": "out",
+"edgeLabel": "Originating but never-interviewed eyewitness",
+"id": "plains-san-agustin-1947",
+"l0": false,
+"label": "Plains of San Agustin claim, July 1947",
+"note": "Every account of Barnett's experience is second-hand, relayed by Vern Maltais and Alice Knight after his death in 1969. Reasoning: no first-hand statement in any medium exists.",
+"sources": [
+{
+"date": "1997-01-01",
+"name": "The Roswell Report: Case Closed (1997)",
+"url": "https://archive.org/details/AFD-101027-030"
+}
+],
+"tier": "B",
+"type": "witness-chain"
+}
+],
+"date": "1969",
+"dateEnd": null,
+"dateStart": "1969",
+"deg": 1,
+"denials": [],
+"domains": [
+"w2-retrieval-literature"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "barney-barnett",
+"instId": null,
+"l0": false,
+"label": "Grady L. 'Barney' Barnett",
+"loc": "Socorro, NM",
+"locId": "l-san-agustin",
+"members": null,
+"narrative": "Grady L. 'Barney' Barnett was a soil conservation engineer who travelled widely in New Mexico and who, according to friends, described coming upon a crashed disc and small bodies in open country, with an archaeological field party present, before military personnel arrived and cleared everyone out. Barnett died in 1969, years before anyone thought to record him, and every version of his account reaching the literature is second-hand, given by Vern Maltais and Alice Knight decades later - Knight on camera saying flatly, 'I don't recall the date.' The account entered the record through Berlitz and Moore's 'The Roswell Incident' (1980) and became the load-bearing support for a second, separate 1947 crash on the Plains of San Agustin, 175 miles northwest of Roswell. The Air Force's 1997 report offers a specific and testable alternative: that Maltais and Knight, thirty-plus years on, confused the Plains of San Agustin with San Agustin Pass or San Agustin Peak in the San Agustin Mountains, immediately outside White Sands Missile Range and the Jornada Test Range, where numerous anthropomorphic dummy balloon flights terminated and were recovered by military teams. Barnett is the clearest case in the whole domain of an account that cannot be graded above tier 3 by construction: the only first-hand witness died before being interviewed.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Grady L. 'Barney' Barnett",
+"sources": [
+{
+"date": "1997-01-01",
+"name": "The Roswell Report: Case Closed (1997), HQ USAF/GPO - full text",
+"url": "https://archive.org/details/AFD-101027-030"
+},
+{
+"date": "2026-08-12",
+"name": "Plains of San Agustin - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/Plains_of_San_Agustin"
+}
+],
+"status": "dead",
+"sub": "Soil Conservation Service engineer; original claimed Plains of San Agustin eyewitness",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 770 of 1027, score 19). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A0/D1.",
+"timeline": [],
+"unexplainedResidual": null,
+"unverified": [
+"Barnett's exact death date; whether any contemporaneous diary or letter of his mentioning the event exists."
+]
+}

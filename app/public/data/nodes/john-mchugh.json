@@ -1,0 +1,159 @@
+{
+"A": 1,
+"C": 1,
+"D": 2,
+"affiliations": [],
+"age": null,
+"band": null,
+"chronology": [],
+"claims": [
+{
+"source": "https://democrats-armedservices.house.gov/2009/6/skelton-commends-mchugh-nomination-as-secretary-of-the-army",
+"text": "A House Armed Services Committee statement dated 2 June 2009 describes McHugh as 'House Armed Services Committee Ranking Member John M. McHugh (R-NY)' and states that 'Congressman McHugh took the reins as Ranking Member of the House Armed Services Committee in January.'",
+"tier": 1
+},
+{
+"source": "https://democrats-armedservices.house.gov/2009/6/skelton-congratulates-congressman-mckeon--new-hasc-ranking-member",
+"text": "McHugh had left the ranking seat by 16 June 2009, when Chairman Skelton issued a statement congratulating Buck McKeon on his election as the committee's Ranking Member.",
+"tier": 1
+},
+{
+"source": "https://www.army.mil/article/27650/hon_john_mchugh_takes_office_as_secretary_of_the_army",
+"text": "McHugh was sworn in as Secretary of the Army in 2009, after leaving the House Armed Services ranking seat.",
+"tier": 2
+}
+],
+"cls": "person",
+"cluster": "oversight",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 2,
+"cls": "institution",
+"dateEnd": "2009-09-21",
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "Representative, New York 23rd district, until 21 September 2009",
+"id": "us-house",
+"l0": true,
+"label": "United States House of Representatives",
+"note": "McHugh remained a member of the House for three months after leaving the ranking seat, which is why the resignation date and the 119(e)(2) succession date are not the same. Conflating them would attribute mid-2009 waived-SAP notifications to the wrong member.",
+"sources": [
+{
+"date": null,
+"name": "https://democrats-armedservices.house.gov/2009/6/skelton-commends-mchugh-nomination-as-secretary-of-the-army",
+"url": "https://democrats-armedservices.house.gov/2009/6/skelton-commends-mchugh-nomination-as-secretary-of-the-army"
+},
+{
+"date": null,
+"name": "https://www.army.mil/article/27650/hon_john_mchugh_takes_office_as_secretary_of_the_army",
+"url": "https://www.army.mil/article/27650/hon_john_mchugh_takes_office_as_secretary_of_the_army"
+},
+{
+"date": "2026-08-22",
+"name": "U.S. Senate, Dates of Sessions of the Congress (convening dates: 111th 6 Jan 2009, 118th 3 Jan 2023, 119th 3 Jan 2025)",
+"url": "https://www.senate.gov/legislative/DatesofSessionsofCongress.htm"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "2009-06-16",
+"dateStart": "2009-01-06",
+"direction": "out",
+"edgeLabel": "Ranking Member, House Armed Services Committee",
+"id": "waived-sap-notification-group",
+"l0": true,
+"label": "Waived SAP Notification Group",
+"note": "Held a 119(e)(2) seat from January 2009 until his replacement by McKeon in June 2009. The committee chairman's 2 June 2009 statement records that McHugh 'took the reins as Ranking Member ... in January'; the 16 June 2009 statement records McKeon in the seat. The start date is given as the convening of the 111th Congress; the exact day of the Republican Conference vote that seated McKeon is not stated in the committee record, so the end date is the date of the committee statement announcing it.",
+"sources": [
+{
+"date": null,
+"name": "https://democrats-armedservices.house.gov/2009/6/skelton-commends-mchugh-nomination-as-secretary-of-the-army",
+"url": "https://democrats-armedservices.house.gov/2009/6/skelton-commends-mchugh-nomination-as-secretary-of-the-army"
+},
+{
+"date": null,
+"name": "https://democrats-armedservices.house.gov/2009/6/skelton-congratulates-congressman-mckeon--new-hasc-ranking-member",
+"url": "https://democrats-armedservices.house.gov/2009/6/skelton-congratulates-congressman-mckeon--new-hasc-ranking-member"
+},
+{
+"date": "2026-08-22",
+"name": "10 U.S.C. 119, Special Access Programs: congressional oversight — subsections (e)(2) and (g) (OLRC prelim text, read 22 August 2026)",
+"url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim"
+},
+{
+"date": "2026-08-22",
+"name": "U.S. Senate, Dates of Sessions of the Congress (convening dates used to date each seat)",
+"url": "https://www.senate.gov/legislative/DatesofSessionsofCongress.htm"
+}
+],
+"tier": "A",
+"type": "institutional"
+}
+],
+"date": "2009-01-06",
+"dateEnd": null,
+"dateStart": "2009-01-06",
+"deg": 2,
+"denials": [],
+"domains": [
+"w10-notification-gaps"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "2",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "john-mchugh",
+"instId": null,
+"l0": false,
+"label": "John M. McHugh",
+"loc": null,
+"locId": null,
+"members": null,
+"narrative": "McHugh held one of the twelve 10 U.S.C. 119(e)(2) seats for roughly the first half of 2009, the year the board treats as load-bearing because of the Reid special access program request. As ranking minority member of the House Armed Services Committee he was entitled, jointly with Chairman Ike Skelton, to receive whatever the Secretary of Defense withheld from a section 119 report under the waiver authority together with the written justification for withholding it, and to the 119(f) notification that must precede the initiation of any special access program by thirty days. His tenure in the seat is short and precisely bracketed by two dated statements from the committee's own chairman. On 2 June 2009 Skelton described him as 'House Armed Services Committee Ranking Member John M. McHugh (R-NY)' and recorded that McHugh 'took the reins as Ranking Member of the House Armed Services Committee in January.' On 16 June 2009 Skelton congratulated Buck McKeon as the new ranking member. McHugh therefore held a 119(e)(2) seat from January 2009 until some point between 2 and 16 June 2009, and not thereafter, even though he remained a member of the House until 21 September 2009. That distinction matters for date-specific claims: a waived-SAP notification made in the spring of 2009 reached McHugh, and one made in the autumn of 2009 reached McKeon. McHugh's later trajectory is the reason this node is worth keeping rather than folding into a footnote. He moved from a seat entitled to receive waived DoD special access program information directly into the office of Secretary of the Army, the service secretariat that runs its own SAP portfolio. There is no public record of any UAP-specific statement by him in either capacity, and none would be expected: section 119 supplies no disclosure route on the congressional side and Army SAP holdings are not publicly enumerated.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "John M. McHugh",
+"sources": [
+{
+"date": "2026-08-22",
+"name": "U.S. Senate, Dates of Sessions of the Congress (convening dates: 111th 6 Jan 2009, 118th 3 Jan 2023, 119th 3 Jan 2025)",
+"url": "https://www.senate.gov/legislative/DatesofSessionsofCongress.htm"
+},
+{
+"date": null,
+"name": "https://democrats-armedservices.house.gov/2009/6/skelton-commends-mchugh-nomination-as-secretary-of-the-army",
+"url": "https://democrats-armedservices.house.gov/2009/6/skelton-commends-mchugh-nomination-as-secretary-of-the-army"
+},
+{
+"date": null,
+"name": "https://democrats-armedservices.house.gov/2009/6/skelton-congratulates-congressman-mckeon--new-hasc-ranking-member",
+"url": "https://democrats-armedservices.house.gov/2009/6/skelton-congratulates-congressman-mckeon--new-hasc-ranking-member"
+},
+{
+"date": null,
+"name": "https://www.army.mil/article/27650/hon_john_mchugh_takes_office_as_secretary_of_the_army",
+"url": "https://www.army.mil/article/27650/hon_john_mchugh_takes_office_as_secretary_of_the_army"
+},
+{
+"date": null,
+"name": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim",
+"url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim"
+}
+],
+"status": "active",
+"sub": "Ranking Member, House Armed Services Committee, January 2009 to June 2009; thereafter Secretary of the Army, 21 September 2009 to 1 November 2015",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 724 of 1027, score 21). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D2.",
+"timeline": [],
+"unexplainedResidual": null,
+"unverified": []
+}

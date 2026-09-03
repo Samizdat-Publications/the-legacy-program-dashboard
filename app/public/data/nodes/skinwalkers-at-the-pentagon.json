@@ -1,0 +1,202 @@
+{
+"A": 3,
+"C": 3,
+"D": 3,
+"band": null,
+"claims": [
+{
+"source": "'Skinwalkers at the Pentagon' (2021)",
+"text": "Lacatski, Kelleher and Knapp describe AAWSAP's Utah field operations, human physiological effects on personnel, and Lacatski's account of entering a craft of unknown origin.",
+"tier": 2
+},
+{
+"source": "DOPSR clearance noted in the published volume",
+"text": "The manuscript was cleared for publication through DoD prepublication review.",
+"tier": 1
+},
+{
+"source": "DIA FOIA-00023-2022, APP-00031-2022, and 2022 FOIA responses",
+"text": "DIA reported no records located for the 19 June 2007 Lacatski letter to Bigelow described in the book, and no records for the 'Utah Ranch Investigation: August 2009-February 2010' report.",
+"tier": 1
+},
+{
+"source": "Inference from the DOPSR clearance set against DoD's public position",
+"text": "DoD clearing a manuscript that describes a government officer entering a craft of unknown origin, while simultaneously maintaining there is no evidence of such craft, is an internal inconsistency that has never been reconciled on the record.",
+"tier": 3
+}
+],
+"cls": "document",
+"cluster": "legacy",
+"connections": [
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "2021",
+"dateStart": "2021",
+"direction": "in",
+"edgeLabel": "co-author, contractor side of the account",
+"id": "colm-kelleher",
+"l0": false,
+"label": "Colm A. Kelleher",
+"note": "Kelleher supplies the field-operations and human-effects record from the BAASS side.",
+"sources": [
+{
+"date": "2021-08-01",
+"name": "Goodreads — Skinwalkers at the Pentagon",
+"url": "https://www.goodreads.com/book/show/59410596"
+}
+],
+"tier": "A",
+"type": "witness-chain"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "2023",
+"dateStart": "2022",
+"direction": "in",
+"edgeLabel": "no records located for the documents the book describes",
+"id": "dia",
+"l0": true,
+"label": "Defense Intelligence Agency",
+"note": "DIA could locate neither the 19 June 2007 Lacatski letter nor the 'Utah Ranch Investigation: August 2009-February 2010' report, in a program contractually required to file monthly status reports.",
+"sources": [
+{
+"date": "2023-09-01",
+"name": "The Black Vault — FOIA-00023-2022",
+"url": "https://www.theblackvault.com/documentarchive/wp-content/uploads/2023/09/FOIA00023-2022.pdf"
+},
+{
+"date": "2022-03-01",
+"name": "The UFO Trail",
+"url": "https://ufotrail.blogspot.com/2022/03/dia-further-verifies-aawsap-award-to.html"
+}
+],
+"tier": "A",
+"type": "denial"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "2021",
+"dateStart": "2021",
+"direction": "in",
+"edgeLabel": "co-author with the program manager and the contractor's deputy",
+"id": "george-knapp",
+"l0": false,
+"label": "George Knapp",
+"note": "Knapp moves from reporter to co-author of the DOPSR-cleared insider account — and his earlier book is the proximate cause of the contract.",
+"sources": [
+{
+"date": "2021-08-01",
+"name": "KLAS Mystery Wire",
+"url": "https://www.8newsnow.com/mystery-wire/new-book-uncovers-secrets-of-government-funded-ufo-investigation-program-exclusive-interview/"
+}
+],
+"tier": "A",
+"type": "witness-chain"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2021",
+"dateStart": "2021",
+"direction": "in",
+"edgeLabel": "co-author; states he entered a craft of unknown origin",
+"id": "james-lacatski",
+"l0": false,
+"label": "James T. Lacatski",
+"note": "A former DIA program manager made this claim in a manuscript DoD cleared for publication.",
+"sources": [
+{
+"date": "2021-08-01",
+"name": "KLAS Mystery Wire",
+"url": "https://www.8newsnow.com/mystery-wire/new-book-uncovers-secrets-of-government-funded-ufo-investigation-program-exclusive-interview/"
+}
+],
+"tier": "A",
+"type": "witness-chain"
+}
+],
+"coords": null,
+"dateEnd": "2021",
+"dateStart": "2021",
+"deg": 4,
+"denials": [
+{
+"by": {
+"id": "dia",
+"label": "Defense Intelligence Agency"
+},
+"claimTier": 1,
+"denialKind": "directed",
+"label": "no records located for the documents the book describes",
+"note": "DIA could locate neither the 19 June 2007 Lacatski letter nor the 'Utah Ranch Investigation: August 2009-February 2010' report, in a program contractually required to file monthly status reports.",
+"of": {
+"id": "skinwalkers-at-the-pentagon",
+"label": "Skinwalkers at the Pentagon (Lacatski, Kelleher, Knapp, 2021)"
+},
+"sources": [
+{
+"date": "2023-09-01",
+"name": "The Black Vault — FOIA-00023-2022",
+"url": "https://www.theblackvault.com/documentarchive/wp-content/uploads/2023/09/FOIA00023-2022.pdf"
+},
+{
+"date": "2022-03-01",
+"name": "The UFO Trail",
+"url": "https://ufotrail.blogspot.com/2022/03/dia-further-verifies-aawsap-award-to.html"
+}
+]
+}
+],
+"desc": "The insider account, written by the DIA program manager, the contractor's deputy administrator and the reporter who broke the story, and cleared for publication through the Defense Office of Prepublication and Security Review. That clearance is the fact that matters institutionally: the Department of Defense read a manuscript in which its own former program manager describes what AAWSAP found and permitted its publication. The book supplies the origin narrative — Lacatski reading 'Hunt for the Skinwalker', writing to Bigelow on DIA letterhead on 19 June 2007 — and the account of the Utah field operations, the physiological effects on personnel, and Lacatski's statement that he entered a craft of unknown origin. DIA subsequently told a FOIA requester it could locate neither the 2007 letter nor the Utah ranch investigation report the book describes. AARO's 2024 history contradicts the book's framing without engaging its specifics. The board records the book as tier 2 throughout: named first-hand participants speaking on the record, with a government prepublication clearance attached, and no primary documents released to corroborate the field-work claims.",
+"domains": [
+"aawsap-aatip"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "skinwalkers-at-the-pentagon",
+"l0": false,
+"label": "Skinwalkers at the Pentagon (Lacatski, Kelleher, Knapp, 2021)",
+"locLabel": null,
+"members": null,
+"short": "Skinwalkers at the Pentagon (Lacatski, Kelleher, Knapp, 2021)",
+"sources": [
+{
+"date": "2021-08-01",
+"name": "KLAS Mystery Wire — New book uncovers secrets of government funded UFO investigation program",
+"url": "https://www.8newsnow.com/mystery-wire/new-book-uncovers-secrets-of-government-funded-ufo-investigation-program-exclusive-interview/"
+},
+{
+"date": "2023-09-01",
+"name": "The Black Vault — FOIA-00023-2022 (no records for the 2007 Lacatski letter)",
+"url": "https://www.theblackvault.com/documentarchive/wp-content/uploads/2023/09/FOIA00023-2022.pdf"
+},
+{
+"date": "2021-08-01",
+"name": "Goodreads — Skinwalkers at the Pentagon",
+"url": "https://www.goodreads.com/book/show/59410596"
+}
+],
+"sub": "DOPSR-cleared insider account of AAWSAP",
+"tier": "A",
+"tierRationale": "Re-graded A on a global pass (rank 137 of 1027, score 53). 4 connections, 3 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C3/A3/D3.",
+"timeline": [
+{
+"date": "2021-08-01",
+"id": "tl-2021-book",
+"label": "'Skinwalkers at the Pentagon' published",
+"precision": "month",
+"strand": "witness",
+"text": "The DIA program manager, the contractor's deputy administrator and the reporter who broke the story publish a DOPSR-cleared insider account including Lacatski's claim of entering a craft of unknown origin.",
+"tier": "A"
+}
+]
+}

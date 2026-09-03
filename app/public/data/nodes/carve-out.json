@@ -1,0 +1,634 @@
+{
+"A": 3,
+"C": 3,
+"D": 3,
+"band": "funding",
+"claims": [
+{
+"source": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf",
+"text": "DoDI 5205.11 (12 Sep 2024) glossary defines it: 'carve out: A provision approved by the Secretary of Defense or Deputy Secretary of Defense that relieves DCSA of its National Industrial Security Program obligation.'",
+"tier": 1
+},
+{
+"source": "https://www.ecfr.gov/current/title-32/subtitle-A/chapter-I/subchapter-D/part-117/section-117.6",
+"text": "The regulatory counterpart, 32 CFR 117.6(b): 'The Director, DCSA, will be relieved of this oversight function for DoD special access programs (SAPs) when the Secretary of Defense or the Deputy Secretary of Defense approves a carve-out provision in accordance with DoDD 5205.07.'",
+"tier": 1
+},
+{
+"source": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf",
+"text": "MAJOR CHANGE, 2024. DoDI 5205.11 para 1.2.i.: 'Defense Counterintelligence and Security Agency (DCSA) oversight for the administration of the National Industrial Security Program will be phased out in July 2029 in accordance with the carve-out provision.' The 2024 policy therefore schedules a blanket, enterprise-wide withdrawal of DCSA from DoD SAP industrial security by July 2029, rather than a case-by-case carve-out.",
+"tier": 1
+},
+{
+"source": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf",
+"text": "A programmed phase-out of DCSA oversight across the DoD SAP enterprise by July 2029 converts the carve-out from an exception requiring SecDef/DepSecDef signature into the default state. If accurate, after that date no independent DoD agency holds a routine inspection right at SAP contractor facilities, and the record of which facilities host which programs stops accumulating in DCSA's system. Reasoning stated from 1.2.i.",
+"tier": 3
+},
+{
+"source": "32 CFR 117.6(b)(3), eCFR renderer API, read 22 August 2026, https://www.ecfr.gov/api/renderer/v1/content/enhanced/current/title-32?part=117",
+"text": "The carve-out's authority runs to exactly two officials. 32 CFR 117.6(b)(3) conditions it on approval by 'the Secretary of Defense or the Deputy Secretary of Defense', and on no one else.",
+"tier": 1
+},
+{
+"source": "32 CFR 117.6(b)(3), eCFR renderer API, read 22 August 2026, https://www.ecfr.gov/api/renderer/v1/content/enhanced/current/title-32?part=117",
+"text": "The regulation ties the carve-out to DoDD 5205.07, 'DoD SAP Policy', by name and by URL, so the codified rule and the DoD directive are a matched pair rather than parallel authorities.",
+"tier": 1
+},
+{
+"source": "32 CFR 117.6(b)(3)",
+"text": "32 CFR 117.6(b)(3): 'The Director, DCSA, will be relieved of this oversight function for DoD special access programs (SAPs) when the Secretary of Defense or the Deputy Secretary of Defense approves a carve-out provision in accordance with DoDD 5205.07, \"DoD SAP Policy\".'",
+"tier": 1
+},
+{
+"source": "DoDD 5205.07 (2010) Glossary; DoDM 5205.07-V1 Enclosure 2 para 2.c; 32 CFR 117.6(b)(3)",
+"text": "The carve-out is approvable only by the Secretary of Defense or the Deputy Secretary of Defense - no delegation to a service secretary, component head or SAPCO director is provided for in DoDD 5205.07 (2010), DoDI 5205.11 or DoDM 5205.07 Volume 1.",
+"tier": 1
+},
+{
+"source": "DoDI 5205.11, Enclosure 6, para 5.a(8)",
+"text": "DoDI 5205.11 Enclosure 6 lists 'Proposals to relieve DSS of NISP security oversight responsibilities (carve-out) when required' among the actions that must be coordinated through the DoD SAPCO to the Deputy Secretary of Defense for decision.",
+"tier": 1
+},
+{
+"source": "DoDI 5205.11, Enclosure 2, para 2.k",
+"text": "DoDI 5205.11 requires DoD SAPCO to provide 'DSS confirmation of SAP facilities where the DSS has been carved out of security oversight functions', which means a list of carved-out facilities exists as an agency record.",
+"tier": 1
+},
+{
+"source": "DoDM 5205.07 Volume 1, Enclosure 2 para 2.c and Glossary definition of PSO",
+"text": "After a carve-out, the only recurring security inspection of the contractor facility is conducted by the Program Security Officer, who is 'appointed in writing by the appropriate Director CA SAPCO or designee' and exercises responsibilities 'on behalf of the SAPCO' - that is, by the program inspecting itself. Reasoning: DoDM 5205.07-V1 removes the DSS/DCSA inspection and its glossary defines the PSO's appointment chain as internal to the SAP structure.",
+"tier": 3
+},
+{
+"source": "DoDM 5205.07 Volume 1, Enclosure 2, para 2.c",
+"text": "A carved-out contractor SAP is the smallest documented configuration in U.S. law in which classified material can be physically held by a private company with no inspection by any official outside the program, no external accreditation of the computers holding the program's data, and no independent counterintelligence reporting line. Reasoning: enumeration of the three functions expressly suspended by DoDM 5205.07-V1 Enclosure 2 para 2.c.",
+"tier": 3
+}
+],
+"cls": "program",
+"cluster": "other",
+"connections": [
+{
+"claimTier": 1,
+"cls": "legislation",
+"dateEnd": null,
+"dateStart": "2021-02-24",
+"direction": "out",
+"edgeLabel": "The carve-out is codified in the NISPOM rule itself",
+"id": "cfr-32-117",
+"l0": false,
+"label": "32 CFR Part 117 — NISPOM Rule",
+"note": "32 CFR 117.6(b)(3) is the operative regulatory text relieving the Director, DCSA of NISP oversight for a carved-out DoD SAP.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "32 CFR 117.6 (eCFR, current)",
+"url": "https://www.ecfr.gov/current/title-32/subtitle-A/chapter-I/subchapter-D/part-117/section-117.6"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "legislation",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "32 CFR 117.6(b) writes the carve-out into regulation",
+"id": "cfr-32-117",
+"l0": false,
+"label": "32 CFR Part 117 — NISPOM Rule",
+"note": "The carve-out is in the codified federal regulation, not only in a DoD manual. 32 CFR 117.6(b)(3), 'Responsibilities': \"The Director, DCSA, will be relieved of this oversight function for DoD special access programs (SAPs) when the Secretary of Defense or the Deputy Secretary of Defense approves a carve-out provision in accordance with DoDD 5205.07, 'DoD SAP Policy'.\" The NISPOM Rule was published at 85 FR 83312 on 21 December 2020, so the provision relieving the oversight body has the force of a legislative rule rather than of internal DoD policy. Read from the eCFR renderer API on 22 August 2026.",
+"sources": [
+{
+"date": "2026-08-22",
+"name": "32 CFR part 117 (NISPOM Rule), full text via the eCFR renderer API, read 22 August 2026; published at 85 FR 83312, 21 December 2020",
+"url": "https://www.ecfr.gov/api/renderer/v1/content/enhanced/current/title-32?part=117"
+},
+{
+"date": "2020-12-21",
+"name": "National Industrial Security Program Operating Manual (NISPOM) final rule, 85 FR 83312, 21 December 2020",
+"url": "https://www.federalregister.gov/documents/2020/12/21/2020-27698/national-industrial-security-program-operating-manual-nispom"
+}
+],
+"tier": "A",
+"type": "programmatic"
+},
+{
+"claimTier": 1,
+"cls": "domain",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "the provision that removes a contractor facility from the government's own industrial security oversight",
+"id": "d-structure",
+"l0": false,
+"label": "Program structure and organisational mapping",
+"note": "Defined in DoD Directive 5205.07 and DoD Manual 5205.07 Volume 1 as a provision approved by the Secretary or Deputy Secretary of Defense relieving the defence security agency of its National Industrial Security Program oversight responsibilities at a contractor facility. It is the structural seam at which a programme held at a company stops being visible to any government security official outside the programme.",
+"sources": [
+{
+"date": "2026-05-18",
+"name": "Archived: DoD Directive 5205.07, 'Special Access Program (SAP) Policy' (12 Sep 2024) (Wayback 2026-05-18)",
+"url": "https://web.archive.org/web/20260518065512/https://www.esd.whs.mil/portals/54/documents/dd/issuances/dodd/520507p.pdf"
+},
+{
+"date": "2025-08-09",
+"name": "Archived: DoD Instruction 5205.11, 'Management, Administration, and Oversight of DoD Special Access Programs' (12 Sep 2024) (Wayback 2025-08-09)",
+"url": "https://web.archive.org/web/20250809023849/https://www.esd.whs.mil/portals/54/documents/dd/issuances/dodi/520511p.pdf"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 3,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "2023-07-26",
+"direction": "in",
+"edgeLabel": "Contractor custody without government inspection is the carve-out configuration",
+"id": "david-grusch",
+"l0": false,
+"label": "David Charles Grusch",
+"note": "Grusch has alleged material held at defence contractors; the carve-out is the documented mechanism by which a contractor SAP facility ceases to receive DCSA inspection, IS accreditation and CI cross-sharing.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "32 CFR 117.6 (eCFR, current)",
+"url": "https://www.ecfr.gov/current/title-32/subtitle-A/chapter-I/subchapter-D/part-117/section-117.6"
+},
+{
+"date": "2018-02-12",
+"name": "DoD Manual 5205.07 Volume 1, 18 June 2015, Change 1 12 February 2018",
+"url": "https://web.archive.org/web/20191018064106/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol1.pdf"
+}
+],
+"tier": "A",
+"type": "witness-chain"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2015-06-18",
+"direction": "out",
+"edgeLabel": "Switches off the only external inspector of a contractor SAP facility",
+"id": "dcsa-nisp",
+"l0": false,
+"label": "DCSA as DoD Cognizant Security Office under the NISP",
+"note": "DoDM 5205.07-V1 Enclosure 2 para 2.c enumerates what DSS/DCSA does 'Unless a carve-out provision is approved' - inspections, IS authorisation and CI cross-sharing.",
+"sources": [
+{
+"date": "2018-02-12",
+"name": "DoD Manual 5205.07 Volume 1, 18 June 2015, Change 1 12 February 2018",
+"url": "https://web.archive.org/web/20191018064106/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol1.pdf"
+},
+{
+"date": "2026-08-12",
+"name": "32 CFR 117.6 (eCFR, current)",
+"url": "https://www.ecfr.gov/current/title-32/subtitle-A/chapter-I/subchapter-D/part-117/section-117.6"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "relieves DCSA of NISP industrial security oversight for a DoD SAP",
+"id": "dcsa-nisp",
+"l0": false,
+"label": "DCSA as DoD Cognizant Security Office under the NISP",
+"note": "The regulation names the office the carve-out acts on. 32 CFR 117.6(b) makes the Director, DCSA responsible for 'security oversight of the NISP as the DoD CSO', and then (b)(3) removes it: \"The Director, DCSA, will be relieved of this oversight function for DoD special access programs (SAPs) when the Secretary of Defense or the Deputy Secretary of Defense approves a carve-out provision in accordance with DoDD 5205.07, 'DoD SAP Policy'.\" So the effect is not that oversight passes to another body but that the cognizant security office's oversight function ceases for that programme, on the written approval of one of two named officials.",
+"sources": [
+{
+"date": "2026-08-22",
+"name": "32 CFR part 117 (NISPOM Rule), full text via the eCFR renderer API, read 22 August 2026; published at 85 FR 83312, 21 December 2020",
+"url": "https://www.ecfr.gov/api/renderer/v1/content/enhanced/current/title-32?part=117"
+}
+],
+"tier": "B",
+"type": "programmatic"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2013-02-06",
+"direction": "out",
+"edgeLabel": "DoD SAPCO holds the list of carved-out facilities",
+"id": "dod-sapco",
+"l0": true,
+"label": "DoD Special Access Program Central Office (DoD SAPCO)",
+"note": "DoDI 5205.11 Enclosure 2 para 2.k requires DoD SAPCO to provide 'DSS confirmation of SAP facilities where the DSS has been carved out of security oversight functions'.",
+"sources": [
+{
+"date": "2018-08-31",
+"name": "DoD Instruction 5205.11, 6 February 2013, Change 1 31 August 2018",
+"url": "https://web.archive.org/web/20190916023050/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 3,
+"cls": "document",
+"dateEnd": null,
+"dateStart": "2024-09-12",
+"direction": "out",
+"edgeLabel": "Still cited by regulation, no longer defined by the directive it cites",
+"id": "dodd-5205-07-2024",
+"l0": false,
+"label": "DoDD 5205.07, DoD Special Access Program (SAP) Policy (12 Sep 2024)",
+"note": "32 CFR 117.6(b)(3) conditions the carve-out on approval 'in accordance with DoDD 5205.07', but the 12 September 2024 reissue of that directive contains no definition of carve-out.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "32 CFR 117.6 (eCFR, current)",
+"url": "https://www.ecfr.gov/current/title-32/subtitle-A/chapter-I/subchapter-D/part-117/section-117.6"
+},
+{
+"date": "2024-09-12",
+"name": "DoD Directive 5205.07, 12 September 2024",
+"url": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf"
+}
+],
+"tier": "A",
+"type": "denial"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "DoDI 5205.11 glossary definition of 'carve out'",
+"id": "dodi-5205-11",
+"l0": true,
+"label": "DoDI 5205.11 — Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)",
+"note": "DoDI 5205.11 Appendix 2 to Enclosure 6 item 11.d requires a 'Contract strategy (carve-out justification if applicable)'; Enclosure 7 requires the signed carve-out approval and the list of carved-out facilities in the program record file.",
+"sources": [
+{
+"date": "2018-08-31",
+"name": "DoD Instruction 5205.11, 6 February 2013, Change 1 31 August 2018",
+"url": "https://web.archive.org/web/20190916023050/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf"
+}
+],
+"tier": "A",
+"type": "programmatic"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "defines and operates the carve-out",
+"id": "dodm-5205-07-series",
+"l0": false,
+"label": "DoDM 5205.07 — DoD SAP Security Manual (Volumes 1-4)",
+"note": "The Manual is where the carve-out is defined and where it operates. Volume 1's glossary: 'carve-out. A provision approved by the Secretary or Deputy Secretary of Defense that relieves DSS of its NISP obligation to perform industrial security oversight.' Enclosure 2 para 2 carries the operational form of the same provision, and Volume 1 also states that inspections 'will be coordinated among the SAPCOs and DSS when not carved out' - which is the sentence establishing that a carved-out SAP is not so coordinated. Quotations are the verbatim ones already recorded on this node.",
+"sources": [
+{
+"date": "2026-05-18",
+"name": "Archived: DoDM 5205.07 Volume 4, 'Special Access Program (SAP) Security Manual: Marking', 10 Oct 2013, Incorporating Change 2, effective 8 September 2020 (Wayback 2026-05-18)",
+"url": "https://web.archive.org/web/20260518063205/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507-V4p.PDF"
+},
+{
+"date": "2018-02-12",
+"name": "DoDM 5205.07 Volume 1, 'DoD SAP Security Manual: General Procedures', 18 June 2015, Incorporating Change 1, 12 Feb 2018 (Internet Archive capture, 18 Oct 2019)",
+"url": "https://web.archive.org/web/20191018064106/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol1.pdf"
+}
+],
+"tier": "A",
+"type": "programmatic"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": "2015-06-18",
+"direction": "out",
+"edgeLabel": "Defined verbatim in the SAP Security Manual glossary",
+"id": "dodm-5205-07-v1",
+"l0": false,
+"label": "DoDM 5205.07 Volume 1 — DoD SAP Security Manual: General Procedures",
+"note": "'carve-out. A provision approved by the Secretary or Deputy Secretary of Defense that relieves DSS of its NISP obligation to perform industrial security oversight functions for a DoD SAP.'",
+"sources": [
+{
+"date": "2018-02-12",
+"name": "DoD Manual 5205.07 Volume 1, 18 June 2015, Change 1 12 February 2018",
+"url": "https://web.archive.org/web/20191018064106/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol1.pdf"
+}
+],
+"tier": "A",
+"type": "custody"
+},
+{
+"claimTier": 1,
+"cls": "legislation",
+"dateEnd": null,
+"dateStart": "2024-12-23",
+"direction": "in",
+"edgeLabel": "Congress prohibited moving a capability out of a CAP into a SAP without notice",
+"id": "usc-50-3091a",
+"l0": false,
+"label": "50 U.S.C. 3091a — Congressional Oversight of Controlled Access Programs",
+"note": "50 U.S.C. 3091a(b)(2)(A), added by section 6603 of Public Law 118-159, bars transfer of a capability from a CAP to a special access program until notice is submitted to the appropriate committees and leadership.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "50 U.S.C. 3091a",
+"url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3091a&num=0&edition=prelim"
+},
+{
+"date": "2024-12-23",
+"name": "Public Law 118-159, FY2025 NDAA incl. Intelligence Authorization Act (govinfo enrolled text)",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-118publ159/html/PLAW-118publ159.htm"
+}
+],
+"tier": "A",
+"type": "legislative"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "1993-01-06",
+"deg": 10,
+"denials": [
+{
+"by": {
+"id": "carve-out",
+"label": "Carve-Out Provision (DCSA relief from NISP oversight)"
+},
+"claimTier": 3,
+"denialKind": "association",
+"label": "Still cited by regulation, no longer defined by the directive it cites",
+"note": "32 CFR 117.6(b)(3) conditions the carve-out on approval 'in accordance with DoDD 5205.07', but the 12 September 2024 reissue of that directive contains no definition of carve-out.",
+"of": {
+"id": "dodd-5205-07-2024",
+"label": "DoDD 5205.07, DoD Special Access Program (SAP) Policy (12 Sep 2024)"
+},
+"sources": [
+{
+"date": "2026-08-12",
+"name": "32 CFR 117.6 (eCFR, current)",
+"url": "https://www.ecfr.gov/current/title-32/subtitle-A/chapter-I/subchapter-D/part-117/section-117.6"
+},
+{
+"date": "2024-09-12",
+"name": "DoD Directive 5205.07, 12 September 2024",
+"url": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf"
+}
+]
+}
+],
+"desc": "The carve-out is the most important single mechanism on this board, because it is the point at which a special access program held at a private company stops being visible to any government security official who is not inside the program. It is defined identically in DoD Directive 5205.07 (2010) and DoD Manual 5205.07 Volume 1: 'A provision approved by the Secretary or Deputy Secretary of Defense that relieves DSS of its National Industrial Security Program obligation to perform industrial security oversight functions for a DoD SAP.' It is codified in the National Industrial Security Program rule at 32 CFR 117.6(b)(3), which provides that 'The Director, DCSA, will be relieved of this oversight function for DoD special access programs (SAPs) when the Secretary of Defense or the Deputy Secretary of Defense approves a carve-out provision in accordance with DoDD 5205.07'. What is removed is specified in DoDM 5205.07 Volume 1: the SAP security inspections at cleared defense contractor locations, the authorisation of classified contractor SAP information systems and guest systems in contractor SAP facilities, and the coordination with the counterintelligence component for threat and incident cross-sharing. What replaces it is oversight by the cognizant authority's own Program Security Officer - an official appointed by and reporting to the SAP structure itself. The carve-out is requested as line 11.d of the SAP Approval Package Checklist ('Contract strategy (carve-out justification if applicable)'), recommended in the action memo to the Deputy Secretary, and, once approved, must be recorded in the program record file together with 'the identification of SAP facilities ... that have been carved-out based upon this authority'. Neither the number of carve-outs in force, nor the list of carved-out facilities, nor the identity of the approving official for any individual carve-out has ever been published. This is the precise mechanism that would permit a contractor to hold material under a DoD program with no external government inspector ever entering the vault.",
+"domains": [
+"_rs-archive-mirror",
+"_rs-sap-docs",
+"w12-nispom-carveout",
+"w2-sap-architecture"
+],
+"dossier": {
+"claims": [
+{
+"source": "https://www.law.cornell.edu/cfr/text/32/117.6 (32 CFR § 117.6, Responsibilities, paragraph (b)(3))",
+"text": "32 CFR 117.6(b)(3) provides: \"The Director, DCSA, will be relieved of this oversight function for DoD special access programs (SAPs) when the Secretary of Defense or the Deputy Secretary of Defense approves a carve-out provision in accordance with DoDD 5205.07, 'DoD SAP Policy.'\"",
+"tier": 1
+},
+{
+"source": "https://www.esd.whs.mil/portals/54/documents/dd/forms/dd/dd0254-Inst.pdf (DD Form 254 Instructions, April 2018, updated 20250711, Item 10f)",
+"text": "The operative definition is in the DD Form 254 Instructions: \"A 'carve-out' is a classified contract awarded by the GCA in connection with a SAP for which DCSA has been relieved of security and/or oversight responsibility by the Secretary or Deputy Secretary of Defense (DoDD 5205.07, 'Special Access Program (SAP) Policy').\"",
+"tier": 1
+},
+{
+"source": "https://www.esd.whs.mil/portals/54/documents/dd/forms/dd/dd0254-Inst.pdf (DD Form 254 Instructions, Item 10f(4))",
+"text": "At a carved-out facility DCSA's residual visibility is limited to the baseline facility clearance: \"NOTE: DCSA does retain oversight responsibility for the baseline FCL at which there is an approved carve-out.\" Inspection of the SAP itself is performed by a CSO identified by the SAP.",
+"tier": 1
+},
+{
+"source": "https://www.esd.whs.mil/portals/54/documents/dd/forms/dd/dd0254-Inst.pdf (DD Form 254 Instructions, Item 15 guidance)",
+"text": "Carve-out status is discretionary and program-controlled: \"Not all SAPs are 'carve-outs' because, in some instances, the program or supporting SAP Security Office will allow the DCSA CSO to retain inspection responsibility.\"",
+"tier": 1
+},
+{
+"source": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf (DoDD 5205.07, 12 September 2024, cover page)",
+"text": "DoDD 5205.07 was reissued effective 12 September 2024, approved by Deputy Secretary of Defense Kathleen H. Hicks; it reissues and cancels DoDD 5205.07 of 1 July 2010 as amended, and incorporates and cancels the Deputy Secretary of Defense Memorandum \"Implementation Guidance for DoD Special Access Program Enterprise Reform,\" 11 July 2023.",
+"tier": 1
+},
+{
+"source": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf (DoDD 5205.07, 12 September 2024, §3.2.g)",
+"text": "DoDD 5205.07 section 3.2.g provides: \"No DoD contractor entity, contractor employee, contractor representative, or consultant will provide SAP material to any members of Congress or their staff without Director, DoD SAPCO approval.\"",
+"tier": 1
+},
+{
+"source": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf (DoDD 5205.07, §1.2.e, §2.1.a(2), §3.2.a(2))",
+"text": "The Director, DoD SAPCO, is under the authority, direction and control of the Deputy Secretary of Defense, reports directly to the Deputy Secretary, serves as Executive Secretary of the SAP Oversight Committee (which the Deputy Secretary chairs) and of the Senior Review Group, and chairs the SAP Senior Working Group.",
+"tier": 1
+},
+{
+"source": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf (DoDD 5205.07, §2.1.b and §2.1.e)",
+"text": "The Director, DoD SAPCO \"has jurisdiction over the protection of information contained within DoD SAPs and is delegated TOP SECRET original classification authority for all DoD SAP information for purposes of issuing SAP security classification guides,\" and separately \"accredits congressional SAPFs\" and \"maintains records of DoD SAP information provided to Congress.\"",
+"tier": 1
+},
+{
+"source": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf (DoDD 5205.07, §3.1.d)",
+"text": "DoDD 5205.07 §3.1.d provides that \"Establishment of new SAP umbrellas and compartments will be by exception. Establishment of SAPs to protect new and novel CPI at all tiers of the SAP architecture requires Secretary of Defense or Deputy Secretary of Defense approval.\"",
+"tier": 1
+},
+{
+"source": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf (DoDD 5205.07, §2.7)",
+"text": "Under DoDD 5205.07 §2.7 the Director, DCSA has only two SAP responsibilities: developing SAP-related training courses and maintaining a proficient cadre, and supporting professional development and certification of SAP security professionals. DCSA has no inspection or oversight function assigned in the directive.",
+"tier": 1
+},
+{
+"source": "https://www.law.cornell.edu/uscode/text/10/119 (10 U.S.C. § 119(e), (g))",
+"text": "10 U.S.C. § 119(e) permits the Secretary of Defense to waive inclusion of information in SAP reports on national security grounds on a case-by-case basis, in which case the information and justification are provided \"jointly to the chairman and ranking minority member of each of the defense committees\" — that is, to twelve members across the Senate and House Armed Services and Appropriations Committees.",
+"tier": 1
+},
+{
+"source": "https://www.law.cornell.edu/uscode/text/10/119 (Statutory Notes, Termination of Reporting Requirements)",
+"text": "The annual special access program reporting requirements of 10 U.S.C. § 119(a) and (b) terminated effective 31 December 2021 pursuant to section 1061 of Public Law 114-328, per the Termination of Reporting Requirements note to the section.",
+"tier": 1
+},
+{
+"source": "https://www.law.cornell.edu/uscode/text/10/119 (10 U.S.C. § 119(f))",
+"text": "10 U.S.C. § 119(f) provides that a special access program may not be initiated until the defense committees are notified and thirty days elapse; the statute prescribes no penalty for non-notification and assigns no external auditor.",
+"tier": 1
+},
+{
+"source": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf (DoDD 5205.07, §2.1.a(6) and References)",
+"text": "DoDD 5205.07 names the same oversight body inconsistently within a single document: §2.1.a(6) calls it the \"Special Technical Activities Oversight Committee\" while the References section cites the Deputy Secretary of Defense Memorandum, \"Sensitive Technical Activities Oversight Committee (STAOC) Charter,\" 21 November 2020.",
+"tier": 1
+}
+],
+"connections": [
+"DCSA (formerly the Defense Security Service, renamed 20 June 2020) is the agency relieved; USD(I&S) is the Cognizant Security Agency for DoD and DCSA's chain of authority.",
+"DoD SAPCO and its director, reporting directly to the Deputy Secretary of Defense, is the single node through which SAP information reaches Congress and through which contractors must seek permission to speak to Congress.",
+"Kathleen H. Hicks signed the current DoDD 5205.07 on 12 September 2024 as Deputy Secretary of Defense — the office that is also one of the two carve-out approval authorities.",
+"Executive Order 13526 and Executive Order 12829 are the classification and industrial-security foundations; 32 CFR Part 2001 and 32 CFR Part 2004 are the implementing ISOO rules.",
+"The Special/Sensitive Technical Activities Oversight Committee, chartered by DepSecDef memorandum of 21 November 2020, is the least-documented body named in the directive.",
+"Integrated Joint Special Technical Operations (IJSTO), run by the CJCS with USD(P) oversight, is the process by which SAP-protected capabilities are apportioned to combatant commands — the operational half of the architecture.",
+"USD(C)/CFO \"leads all budget and execution reviews for DoD-funded capabilities and information activities protected by DoD SAPs\" — the funding node for any carve-out program.",
+"DD Form 254 is the artifact a FOIA or subpoena would seek: block 10f and block 15 on a specific contract would reveal whether a facility is carved out and who inspects it.",
+"Battelle-operated national laboratories, and any prime with SAP facilities, are the population to which carve-out designations would attach.",
+"AARO's FY2025 report claims statutory authority to receive UAP information \"regardless of any restrictive access controls, special access controls, or compartmented access programs\" — an assertion that runs directly against the DoDD 5205.07 §3.2.g prohibition on contractors providing SAP material without SAPCO approval."
+],
+"denialPosture": "There is no denial here, and that is the point: the carve-out is publicly promulgated regulation, published on the Directives Division website and cleared for public release. The Department has never had to deny the existence of a mechanism that relieves its own security inspectorate of oversight, because the mechanism is printed in the Code of Federal Regulations and in the instructions to a form every classified contract carries.",
+"narrative": "Start with the ordinary case. Under Executive Order 12829 and 32 CFR Part 117, the Under Secretary of Defense for Intelligence and Security acts as the Cognizant Security Agency for the Department of Defense, and DCSA serves as the DoD Cognizant Security Office. Section 117.6(b)(3) assigns DCSA the duty to \"provide security oversight of the NISP as the DoD CSO on behalf of DoD components and those non-DoD executive branch agencies who enter into agreements with DoD.\" Then comes the exception, in the same sentence-pair: \"The Director, DCSA, will be relieved of this oversight function for DoD special access programs (SAPs) when the Secretary of Defense or the Deputy Secretary of Defense approves a carve-out provision in accordance with DoDD 5205.07, 'DoD SAP Policy.'\"\n\nThe operative definition is not in the CFR; it is in the instructions to DD Form 254, the Contract Security Classification Specification that accompanies every classified contract. Item 10f: \"A 'carve-out' is a classified contract awarded by the GCA in connection with a SAP for which DCSA has been relieved of security and/or oversight responsibility by the Secretary or Deputy Secretary of Defense.\" The instructions add two operationally decisive notes. First: \"Check block 15 'Yes' if the contract is performed at the contractor facility and DCSA will be relieved of security cognizance (a carve-out), and identify the CSO for the SAP as it is responsible for inspection of the SAP. NOTE: DCSA does retain oversight responsibility for the baseline FCL at which there is an approved carve-out.\" Second: \"Not all SAPs are 'carve-outs' because, in some instances, the program or supporting SAP Security Office will allow the DCSA CSO to retain inspection responsibility.\" Read together: at a carved-out facility, DCSA still validates the company's baseline clearance but has no visibility into the program, and the program's own security office designates the inspecting authority. The inspector is chosen by the inspected.\n\nDoDD 5205.07 was reissued on 12 September 2024, approved by Deputy Secretary of Defense Kathleen H. Hicks. It cancels the July 1, 2010 directive and incorporates and cancels the Deputy Secretary of Defense Memorandum \"Implementation Guidance for DoD Special Access Program Enterprise Reform,\" 11 July 2023. Its governance architecture is a closed loop. The DoD SAP Central Office director sits under the authority, direction and control of the Deputy Secretary of Defense and reports directly to him or her; is Executive Secretary of the Special Access Program Oversight Committee, which the Deputy Secretary chairs; is Executive Secretary of the Senior Review Group; chairs the SAP Senior Working Group; is delegated TOP SECRET original classification authority for all DoD SAP information for purposes of issuing security classification guides; accredits congressional SAP facilities; and maintains the records of what SAP information Congress has been given. Establishment of new SAP umbrellas and compartments \"will be by exception,\" and establishment of SAPs to protect new and novel critical program information \"at all tiers of the SAP architecture requires Secretary of Defense or Deputy Secretary of Defense approval.\"\n\nDCSA's residual role under the same directive is limited to two lines in section 2.7: develop SAP-related training courses and maintain a cadre of proficient personnel, and support professional development and certification of SAP security professionals. The agency that oversees industrial security for the rest of the defense industrial base is, inside the SAP enterprise, a training provider.\n\nThe congressional-notification provision is the one that converts an administrative arrangement into a concealment mechanism. Section 3.2.g of DoDD 5205.07 requires all personnel accessed to DoD SAPs to notify the SAPCO director when briefing or providing SAP material to a member of Congress or staff, and then states flatly: \"No DoD contractor entity, contractor employee, contractor representative, or consultant will provide SAP material to any members of Congress or their staff without Director, DoD SAPCO approval.\" A contractor employee at a carved-out facility who believes a program has been improperly withheld from Congress is, by this directive, prohibited from doing anything about it without permission from the office nearest the Deputy Secretary.\n\nStatute does less work here than most people assume. 10 U.S.C. § 119 required annual reports on special access programs to the defense committees under subsections (a) and (b) — but a note to the section records that those reporting requirements terminated effective 31 December 2021 pursuant to section 1061 of Public Law 114-328. Subsection (e) permits the Secretary of Defense to waive inclusion of specified information in a report on national security grounds, in which case the information and the justification go \"jointly to the chairman and ranking minority member of each of the defense committees\" — a set of twelve members across six bodies. Subsection (f) forbids initiating a SAP until the defense committees are notified and thirty days elapse; there is no enforcement provision, no penalty, and no auditing body outside the executive branch positioned to detect a program that was never notified. 10 U.S.C. § 119a governs the parallel category of alternative compensatory control measures.\n\nOne loose thread in the directive itself is worth flagging to a downstream analyst. Section 2.1.a(6) makes the SAPCO director \"Executive Secretary of the Special Technical Activities Oversight Committee pursuant to the November 21, 2020 Deputy Secretary of Defense Memorandum,\" while the directive's own reference list names that memorandum \"Sensitive Technical Activities Oversight Committee (STAOC) Charter,\" 21 November 2020. The body is named twice, differently, in a single 2024 directive. That committee's charter has not been released.",
+"openQuestions": [
+"How many DoD SAPs currently hold approved carve-out provisions? The number has never been published, and 32 CFR 117.6 imposes no counting or reporting requirement.",
+"Who are the Cognizant Security Offices designated to inspect carved-out programs in lieu of DCSA, and are any of them staffed by the contractor's own personnel?",
+"The DepSecDef memorandum chartering the Special/Sensitive Technical Activities Oversight Committee (21 November 2020) has not been publicly released. What does it cover?",
+"What replaced the 10 U.S.C. § 119(a)-(b) annual SAP reports after they terminated on 31 December 2021, if anything?",
+"Does any statute or directive require notification to Congress of the approval of a carve-out provision itself, as distinct from establishment of the underlying SAP?",
+"DoDD 5205.07 §3.2.g prohibits contractors from providing SAP material to Congress without SAPCO approval. How is that provision reconciled with whistleblower protections and with AARO's claimed statutory access?",
+"Is there any record of a carve-out provision ever being denied or revoked by a Secretary or Deputy Secretary of Defense?",
+"Which office audits whether a program that should have been notified under § 119(f) actually was? The Assistant to the Secretary of Defense for Privacy, Civil Liberties, and Transparency is assigned audit functions under DoDD 5148.13, but the scope is not specified in 5205.07."
+],
+"roles": [
+"concealment",
+"oversight",
+"funding",
+"custody"
+],
+"whatItIs": "A \"carve-out\" is the regulatory provision under which the Director of the Defense Counterintelligence and Security Agency is relieved of industrial security oversight for a Department of Defense special access program. It is codified at 32 CFR 117.6(b)(3) — the National Industrial Security Program Operating Manual rule — and exercised in accordance with DoD Directive 5205.07, DoD Special Access Program Policy. Approval authority rests with exactly two officials: the Secretary of Defense or the Deputy Secretary of Defense.",
+"whyImplicated": "The carve-out is the mechanism that makes a concealed program administratively possible, and it is written down in the Code of Federal Regulations. Every cleared contractor facility in the United States is subject to DCSA oversight under the NISP; the carve-out is the single lawful exception, and once approved, DCSA retains cognizance only over the baseline facility clearance and not over the program. That means the government's own industrial security inspectorate — the body that would otherwise know which contractor holds what, in which vault, under which contract — is by design blind to the program. DoDD 5205.07 layers a second control on top: \"No DoD contractor entity, contractor employee, contractor representative, or consultant will provide SAP material to any members of Congress or their staff without Director, DoD SAPCO approval.\" A contractor holding carve-out material therefore faces an affirmative regulatory prohibition on telling Congress, enforced by an office whose director reports directly to the Deputy Secretary of Defense. And the statutory backstop weakened rather than strengthened: the annual special access program reports to the defense committees required by 10 U.S.C. § 119(a) and (b) terminated by operation of law effective 31 December 2021. This is the load-bearing structural claim of the entire board — not that concealment is possible in principle, but that the specific regulatory instruments exist, are named, are current, and route around both DCSA and Congress by design."
+},
+"entityInfo": {
+"desc": "How the carve-out maps onto the allegations, step by step. The central claim on this board is that recovered material is held and worked on by private defence contractors rather than by the government, and that no one outside the program can verify this. The carve-out is the documented mechanism that makes exactly that state of affairs lawful. Sequence: (1) A cognizant authority proposes a prospective SAP and includes, at item 11.d of the SAP Approval Package Checklist, a 'Contract strategy (carve-out justification if applicable)'. (2) The Director of DoD SAPCO sends an action memo to the Deputy Secretary of Defense recommending approval as an unacknowledged SAP and carve-out status - the unclassified template in DoDI 5205.11 Appendix 3 to Enclosure 6 reads, in terms, 'The Defense Security Service will be carved out from its normal industrial security oversight responsibilities.' (3) The Deputy Secretary signs. (4) By operation of 32 CFR 117.6(b)(3) the Director of DCSA is relieved of NISP oversight for that program. (5) By operation of DoDM 5205.07-V1 Enclosure 2 para 2.c, three specific things stop: DCSA no longer performs SAP security inspections at the contractor location; DCSA no longer authorises the classified contractor information systems or guest systems in the contractor SAP facility; DCSA no longer runs the counterintelligence threat and incident cross-sharing for that facility. (6) Oversight passes to a Program Security Officer appointed in writing by the cognizant authority SAPCO and exercising responsibilities 'on behalf of the SAPCO' - inside the program. (7) The signed carve-out approval and the list of carved-out facilities go into the program record file under DoDI 5205.11 Enclosure 7, and DoD SAPCO holds the confirmation of which facilities are carved out under Enclosure 2 para 2.k. Nothing in this chain is disputed, hypothetical or sourced to a witness. The only unknown is the content of two documents that are known by directive to exist: the carve-out approvals signed by Secretaries and Deputy Secretaries of Defense, and the facility list DoD SAPCO maintains.",
+"sources": []
+},
+"era": "1",
+"foia": {
+"questions": [
+2
+],
+"requests": [
+{
+"agency": "OSD",
+"partial": [],
+"questions": [
+2
+],
+"request": "F8",
+"sendTo": "OSD/JS FOIA Requester Service Center, with routing to DoD SAPCO for equity review. Expect a referral. File it anyway, because a referral creates a dated record that the document was located.",
+"status": "not filed",
+"title": "OSD - the Abba memorandum and the STAOC charter"
+}
+]
+},
+"hl": 7,
+"id": "carve-out",
+"l0": true,
+"label": "Carve-Out Provision (DCSA relief from NISP oversight)",
+"locLabel": null,
+"members": [
+{
+"cls": "legislation",
+"id": "cfr-32-117",
+"label": "32 CFR Part 117 — NISPOM Rule",
+"tier": "A"
+},
+{
+"cls": "domain",
+"id": "d-structure",
+"label": "Program structure and organisational mapping",
+"tier": "C"
+},
+{
+"cls": "person",
+"id": "david-grusch",
+"label": "David Charles Grusch",
+"tier": "A"
+},
+{
+"cls": "institution",
+"id": "dcsa-nisp",
+"label": "DCSA as DoD Cognizant Security Office under the NISP",
+"tier": "B"
+},
+{
+"cls": "document",
+"id": "dodd-5205-07-2024",
+"label": "DoDD 5205.07, DoD Special Access Program (SAP) Policy (12 Sep 2024)",
+"tier": "A"
+},
+{
+"cls": "document",
+"id": "dodm-5205-07-series",
+"label": "DoDM 5205.07 — DoD SAP Security Manual (Volumes 1-4)",
+"tier": "A"
+},
+{
+"cls": "document",
+"id": "dodm-5205-07-v1",
+"label": "DoDM 5205.07 Volume 1 — DoD SAP Security Manual: General Procedures",
+"tier": "A"
+},
+{
+"cls": "legislation",
+"id": "usc-50-3091a",
+"label": "50 U.S.C. 3091a — Congressional Oversight of Controlled Access Programs",
+"tier": "A"
+}
+],
+"short": "Carve-Out Provision (DCSA relief from NISP oversight)",
+"sources": [
+{
+"date": "2025-08-09",
+"name": "Archived: DoD Instruction 5205.11, 'Management, Administration, and Oversight of DoD Special Access Programs', effective 12 September 2024 (Wayback 2025-08-09)",
+"url": "https://web.archive.org/web/20250809023849/https://www.esd.whs.mil/portals/54/documents/dd/issuances/dodi/520511p.pdf"
+},
+{
+"date": "2026-05-18",
+"name": "Archived: DoD Directive 5205.07, 'DoD Special Access Program (SAP) Policy', effective 12 September 2024 (Wayback 2026-05-18)",
+"url": "https://web.archive.org/web/20260518065512/https://www.esd.whs.mil/portals/54/documents/dd/issuances/dodd/520507p.pdf"
+},
+{
+"date": "2026-08-12",
+"name": "32 CFR 117.6 Responsibilities (eCFR)",
+"url": "https://www.ecfr.gov/current/title-32/subtitle-A/chapter-I/subchapter-D/part-117/section-117.6"
+},
+{
+"date": "2024-09-12",
+"name": "DoD Instruction 5205.11, 'Management, Administration, and Oversight of DoD Special Access Programs', effective 12 September 2024",
+"url": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf"
+},
+{
+"date": "2024-09-12",
+"name": "DoD Directive 5205.07, 'DoD Special Access Program (SAP) Policy', effective 12 September 2024",
+"url": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf"
+},
+{
+"date": "2026-08-12",
+"name": "32 CFR Part 117 full rendered text (eCFR API, verified retrieval 12 Aug 2026) — canonical citation https://www.ecfr.gov/current/title-32/part-117",
+"url": "https://www.ecfr.gov/api/renderer/v1/content/enhanced/current/title-32?part=117"
+},
+{
+"date": "2018-02-12",
+"name": "DoD Manual 5205.07 Volume 1, Special Access Program (SAP) Security Manual: General Procedures, 18 June 2015, incorporating Change 1, 12 February 2018",
+"url": "https://web.archive.org/web/20191018064106/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol1.pdf"
+},
+{
+"date": "2018-08-31",
+"name": "DoD Instruction 5205.11, Management, Administration, and Oversight of DoD Special Access Programs (SAPs), 6 February 2013, incorporating Change 1, 31 August 2018",
+"url": "https://web.archive.org/web/20190916023050/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf"
+},
+{
+"date": "2018-08-31",
+"name": "DoD Directive 5205.07, Special Access Program (SAP) Policy, 1 July 2010, incorporating Change 1, 31 August 2018",
+"url": "https://web.archive.org/web/20190922210932/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf"
+}
+],
+"sub": "mechanism",
+"tier": "A",
+"tierRationale": "Re-graded A on a global pass (rank 35 of 1027, score 91). 12 connections, 6 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C3/A3/D3.",
+"timeline": []
+}

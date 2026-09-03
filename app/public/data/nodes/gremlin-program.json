@@ -1,0 +1,119 @@
+{
+"A": 2,
+"C": 1,
+"D": 1,
+"band": null,
+"claims": [
+{
+"source": "DefenseScoop, 8 March 2024",
+"text": "AARO disclosed GREMLIN, a prototype capability to collect real-time UAP data, at the Volume I rollout in March 2024.",
+"tier": 1
+},
+{
+"source": "Kosloski media roundtable, 14 November 2024; DefenseScoop",
+"text": "Kosloski said in November 2024 that GREMLIN was conducting a 90-day collection at a classified national security location to establish a baseline of normal activity.",
+"tier": 2
+},
+{
+"source": "AARO FY2025 Consolidated Annual Report on UAP",
+"text": "The FY2025 annual report, published July 2026, still states that a lack of timely and actionable sensor data constrains AARO's ability to resolve cases.",
+"tier": 1
+}
+],
+"cls": "program",
+"cluster": "other",
+"connections": [
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2024",
+"direction": "in",
+"edgeLabel": "AARO's prototype real-time UAP sensor platform",
+"id": "aaro",
+"l0": true,
+"label": "All-domain Anomaly Resolution Office (AARO)",
+"note": "Disclosed at the Volume I rollout in March 2024; a 90-day collection at a classified site was reported in November 2024.",
+"sources": [
+{
+"date": "2024-03-08",
+"name": "DefenseScoop - DOD developing 'Gremlin' capability",
+"url": "https://defensescoop.com/2024/03/08/embargo-10a-friday-dod-developing-gremlin-capability-to-help-personnel-collect-real-time-uap-data/"
+}
+],
+"tier": "A",
+"type": "programmatic"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "2026",
+"dateStart": "2024",
+"direction": "out",
+"edgeLabel": "two years after GREMLIN, the FY2025 report still cites lack of sensor data as the binding constraint",
+"id": "aaro-fy2025-annual-report",
+"l0": true,
+"label": "AARO FY2025 Consolidated Annual Report on UAP",
+"note": "AARO's stated remedy for its permanent excuse has produced no published result; the excuse is unchanged in the July 2026 report.",
+"sources": [
+{
+"date": "2026-07-21",
+"name": "AARO FY2025 Consolidated Annual Report",
+"url": "https://www.aaro.mil/Portals/136/PDFs/FY25%20UAP%20Annual%20Report/AARO_FY2025_Consolidated_Annual_Report_on_UAP.pdf"
+}
+],
+"tier": "A",
+"type": "temporal"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "2024",
+"deg": 2,
+"denials": [],
+"desc": "GREMLIN is AARO's prototype sensor platform for detecting and tracking UAP in real time, disclosed at the Volume I rollout in March 2024 and described further by Kosloski in November 2024, when the office reported it was conducting a 90-day collection period at a classified national security location to establish a baseline of what normal activity looks like. It is the office's answer to its own permanent excuse: every annual report from FY2023 through FY2025 attributes unresolved cases to a lack of timely and actionable sensor data, and GREMLIN is the only programme AARO has publicly named that would address that. The programme's disclosure is thin - no site, no cost, no published results in the FY2024 or FY2025 annual reports - and the FY2025 report, more than two years after GREMLIN was announced, still states that a lack of timely and actionable sensor data continues to constrain AARO's ability to resolve cases.",
+"domains": [
+"_rs-archive-mirror",
+"uaptf-aaro"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "gremlin-program",
+"l0": false,
+"label": "GREMLIN",
+"locLabel": null,
+"members": null,
+"short": "GREMLIN",
+"sources": [
+{
+"date": "2026-07-20",
+"name": "Archived: AARO FY2025 Consolidated Annual Report on UAP (Wayback 2026-07-20)",
+"url": "https://web.archive.org/web/20260720215350/https://www.aaro.mil/Portals/136/PDFs/FY25%20UAP%20Annual%20Report/AARO_FY2025_Consolidated_Annual_Report_on_UAP.pdf"
+},
+{
+"date": "2024-03-08",
+"name": "DefenseScoop - DOD developing 'Gremlin' capability to help personnel collect real-time UAP data",
+"url": "https://defensescoop.com/2024/03/08/embargo-10a-friday-dod-developing-gremlin-capability-to-help-personnel-collect-real-time-uap-data/"
+},
+{
+"date": "2024-11-14",
+"name": "DefenseScoop - New AARO chief unveils Pentagon's annual UAP caseload analysis, new efforts",
+"url": "https://defensescoop.com/2024/11/14/uap-aaro-chief-unveils-pentagon-annual-caseload-analysis-new-efforts/"
+},
+{
+"date": "2026-07-21",
+"name": "AARO FY2025 Consolidated Annual Report on UAP",
+"url": "https://www.aaro.mil/Portals/136/PDFs/FY25%20UAP%20Annual%20Report/AARO_FY2025_Consolidated_Annual_Report_on_UAP.pdf"
+}
+],
+"sub": "AARO prototype UAP sensor platform, disclosed March 2024",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 607 of 1027, score 25). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A2/D1.",
+"timeline": []
+}

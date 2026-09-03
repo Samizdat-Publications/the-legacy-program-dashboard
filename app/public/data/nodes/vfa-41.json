@@ -1,0 +1,87 @@
+{
+"A": 1,
+"C": 1,
+"D": 3,
+"band": null,
+"claims": [
+{
+"source": "Navy range fouler reports, Navy FOIA reading room, 13 January 2023",
+"text": "Navy range fouler documentation names the F/A-18 aircrew including Commander David Fravor and Lt. Cmdr. Alex Dietrich, describing the object as 'solid white, smooth, with no edges ... approximately 46 feet in length.'",
+"tier": 1
+},
+{
+"source": "David Fravor, written statement to House Oversight, 26 July 2023",
+"text": "'the incident was never investigated, none of my crew were ever questioned, tapes were never taken.'",
+"tier": 1
+}
+],
+"cls": "institution",
+"cluster": "witness",
+"connections": [
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": "2004",
+"dateStart": "2004",
+"direction": "out",
+"edgeLabel": "Squadron that flew the intercept and produced the FLIR1 footage",
+"id": "nimitz-2004",
+"l0": true,
+"label": "USS Nimitz Carrier Strike Group Encounters, 10-16 November 2004",
+"note": "VFA-41 put two sections into the event: the Fravor/Dietrich visual intercept and a follow-on aircraft whose ATFLIR produced FLIR1.",
+"sources": [
+{
+"date": "2023-01-14",
+"name": "The War Zone - Tic Tac incident in newly released range fouler reports",
+"url": "https://www.twz.com/tic-tac-uap-incident-included-in-72-newly-released-range-incursion-reports"
+},
+{
+"date": "2020-04-27",
+"name": "DoD statement releasing the three Navy videos",
+"url": "https://www.war.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/"
+}
+],
+"tier": "A",
+"type": "institutional"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "2004",
+"deg": 1,
+"denials": [],
+"desc": "The Navy squadron that flew the 14 November 2004 intercept. Commanded by David Fravor and embarked in USS Nimitz with Carrier Air Wing Eleven, VFA-41 put two F/A-18F sections into the encounter: Fravor and Alex Dietrich on the visual intercept, and a follow-on aircraft whose ATFLIR pod produced the footage released fourteen years later as FLIR1. The squadron is the point where the institutional failure is easiest to see. Fravor testified that 'the incident was never investigated, none of my crew were ever questioned, tapes were never taken' - meaning that the Navy neither debriefed nor collected from the aircrew who had just intercepted an unidentified 46-foot object inside a working range, but the event nonetheless generated a classified range fouler report that died at Third Fleet. Twenty years later the same squadron's aircrew are the two named witnesses in the FOIA-released Navy documentation of the incident, and the video their aircraft produced is one of three the Department of Defense has ever officially acknowledged.",
+"domains": [
+"aviators-incidents"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "2",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "vfa-41",
+"l0": false,
+"label": "Strike Fighter Squadron 41 (VFA-41 Black Aces)",
+"locLabel": null,
+"members": null,
+"short": "Strike Fighter Squadron 41 (VFA-41 Black Aces)",
+"sources": [
+{
+"date": "2023-01-14",
+"name": "The War Zone - range fouler reports release",
+"url": "https://www.twz.com/tic-tac-uap-incident-included-in-72-newly-released-range-incursion-reports"
+},
+{
+"date": "2023-07-26",
+"name": "House Oversight - Fravor written statement (PDF)",
+"url": "https://oversight.house.gov/wp-content/uploads/2023/07/David-Fravor-Statement-for-House-Oversight-Committee.pdf"
+}
+],
+"sub": "F/A-18F squadron, Carrier Air Wing Eleven, USS Nimitz",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 754 of 1027, score 20). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D3.",
+"timeline": []
+}

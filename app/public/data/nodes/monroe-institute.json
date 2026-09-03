@@ -1,0 +1,128 @@
+{
+"A": 2,
+"C": 0,
+"D": 1,
+"band": null,
+"claims": [
+{
+"source": "Analysis and Assessment of Gateway Process, US Army Operational Group, INSCOM, 9 June 1983, CIA-RDP96-00788R001700210016-5, CIA reading-room mirror, https://archive.org/details/cia-readingroom-document-cia-rdp96-00788r001700210016-5",
+"text": "A US Army intelligence command assessed the Institute's method in writing: a memorandum of 9 June 1983 from the US Army Operational Group, US Army Intelligence and Security Command, Fort George G. Meade, subject 'Analysis and Assessment of Gateway Process', addressed to the Commander, US Army Operational Group, and opening 'You tasked me to provide an assessment of the Gateway Experience in terms of its mechanics and ultimate practicality.'",
+"tier": 1
+},
+{
+"source": "Analysis and Assessment of Gateway Process, 9 June 1983, CIA-RDP96-00788R001700210016-5, https://archive.org/details/cia-readingroom-document-cia-rdp96-00788r001700210016-5",
+"text": "The memorandum states its readership as personnel under a training requirement: it was written to be 'a useful guide for other USAINSCOM personnel who are required to take the Gateway training or work with Gateway materials.'",
+"tier": 1
+},
+{
+"source": "Analysis and Assessment of Gateway Process, 9 June 1983, CIA-RDP96-00788R001700210016-5, https://archive.org/details/cia-readingroom-document-cia-rdp96-00788r001700210016-5",
+"text": "The subject of the assessment is named as the Institute's own technique: 'In order to describe the Monroe Institute technique for achieving altered states of consciousness(the \"Gateway Experience\") involving brain hemisphere synchronization or \"Hemi-Sync\"'. The bibliography identifies it as the Monroe Institute of Applied Sciences, Faber, Va, and cites Robert A. Monroe, Journeys Out of the Body, Doubleday, 1971.",
+"tier": 1
+},
+{
+"source": "Analysis and Assessment of Gateway Process, 9 June 1983, CIA-RDP96-00788R001700210016-5, https://archive.org/details/cia-readingroom-document-cia-rdp96-00788r001700210016-5",
+"text": "Remote viewing appears inside the Gateway technique itself: 'In addition, the energy bar tool is used as a portal for initiating a follow-on technique called \"remote viewing.\"'",
+"tier": 1
+},
+{
+"source": "Analysis and Assessment of Gateway Process, 9 June 1983, CIA-RDP96-00788R001700210016-5, https://archive.org/details/cia-readingroom-document-cia-rdp96-00788r001700210016-5",
+"text": "The Army's finding was favourable: 'There is a sound, rational basis in terms of physical science parameters for considering Gateway to be plausible in terms of its essential objectives', followed by a six-step phased programme for reaching conscious control of the out-of-body state. The same memorandum records the Institute's own trainers reporting that in cross-country out-of-body number-reading tests 'none have ever succeeded in getting all ten correct.'",
+"tier": 1
+}
+],
+"cls": "institution",
+"cluster": "research",
+"connections": [
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "INSCOM assessed the Institute's Gateway training in June 1983, inside CENTER LANE's span",
+"id": "center-lane",
+"l0": false,
+"label": "CENTER LANE",
+"note": "The memorandum is an INSCOM product of 9 June 1983 written for USAINSCOM personnel required to take Gateway training, and CENTER LANE is INSCOM's remote-viewing special access programme of 1983 to 1986; the assessment is contemporaneous with the programme and issued by the same command.",
+"sources": [
+{
+"date": "1983-06-09",
+"name": "Analysis and Assessment of Gateway Process, 9 June 1983, CIA-RDP96-00788R001700210016-5",
+"url": "https://archive.org/details/cia-readingroom-document-cia-rdp96-00788r001700210016-5"
+}
+],
+"tier": "B",
+"type": "programmatic"
+},
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "A private method brought inside the Army's remote-viewing effort as required training",
+"id": "stargate-program",
+"l0": true,
+"label": "STAR GATE and predecessor remote viewing programs, 1970-1995",
+"note": "The memorandum names remote viewing as a follow-on technique inside the Gateway Experience and was written for USAINSCOM personnel required to take that training, which places the Institute's method inside the programme chain the STAR GATE node covers.",
+"sources": [
+{
+"date": "1983-06-09",
+"name": "Analysis and Assessment of Gateway Process, 9 June 1983, CIA-RDP96-00788R001700210016-5",
+"url": "https://archive.org/details/cia-readingroom-document-cia-rdp96-00788r001700210016-5"
+}
+],
+"tier": "A",
+"type": "research"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "1983-06-09",
+"deg": 2,
+"denials": [],
+"desc": "The Monroe Institute is a private body at Faber, Virginia, founded around Robert A. Monroe's out-of-body work and the brain hemisphere synchronization technique it markets as Hemi-Sync. It matters to this board because a United States Army intelligence command put a written assessment of its method on the record. On 9 June 1983 the commander of Detachment O, US Army Operational Group, US Army Intelligence and Security Command at Fort George G. Meade, wrote a twenty-nine page memorandum analysing the Gateway Experience, on tasking from his own commander, and said explicitly that it was intended as a guide for other USAINSCOM personnel who were required to take the Gateway training. The memorandum concluded that Gateway is plausible in physical science terms and set out a six-step phased programme for bringing personnel to conscious control of the out-of-body state. The date places it inside CENTER LANE, INSCOM's remote-viewing special access programme of 1983 to 1986.",
+"domains": [
+"area52-2026-09-02"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "1",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "monroe-institute",
+"l0": false,
+"label": "The Monroe Institute",
+"locLabel": null,
+"members": null,
+"short": "The Monroe Institute",
+"sources": [
+{
+"date": "1983-06-09",
+"name": "Analysis and Assessment of Gateway Process, US Army Operational Group, USAINSCOM, 9 June 1983 (CIA-RDP96-00788R001700210016-5, 29 pages)",
+"url": "https://archive.org/details/cia-readingroom-document-cia-rdp96-00788r001700210016-5"
+},
+{
+"date": "1983-06-09",
+"name": "OCR text layer of the same document as published by the Internet Archive",
+"url": "https://archive.org/download/cia-readingroom-document-cia-rdp96-00788r001700210016-5/cia-rdp96-00788r001700210016-5_djvu.txt"
+}
+],
+"sub": "Private institute at Faber, Virginia; source of the Gateway Experience and Hemi-Sync, assessed in writing by INSCOM in 1983",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 532 of 1027, score 28). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A2/D1.",
+"timeline": [
+{
+"date": "1983-06-09",
+"id": "tl-1983-06-09-gateway-process-assessment",
+"label": "INSCOM puts a written assessment of the Monroe Institute's Gateway Process on the record",
+"precision": "day",
+"strand": "program",
+"text": "A twenty-nine page memorandum from the US Army Operational Group, US Army Intelligence and Security Command, Fort George G. Meade, analyses the Gateway Experience on tasking from its own commander and states that it is meant as 'a useful guide for other USAINSCOM personnel who are required to take the Gateway training or work with Gateway materials'. It names remote viewing as a follow-on technique inside the method and concludes that there is 'a sound, rational basis in terms of physical science parameters for considering Gateway to be plausible in terms of its essential objectives'.",
+"tier": "B"
+}
+]
+}

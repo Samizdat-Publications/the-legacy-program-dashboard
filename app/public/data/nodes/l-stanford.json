@@ -1,0 +1,80 @@
+{
+"A": 0,
+"C": 0,
+"D": 2,
+"band": null,
+"claims": [
+{
+"source": "Wikipedia, SRI International — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"text": "SRI International was founded by Stanford University trustees in 1946 and formally separated from the university in 1970 following protest over its defence contracting.",
+"tier": 2
+},
+{
+"source": "Inference from the SRI founding record and Nolan's documented affiliations",
+"text": "Stanford is the present academic node of the subject through Garry Nolan's laboratory and the Sol Foundation, and it is the same institution whose trustees created the contractor that hosted the CIA remote viewing programme. Reasoning: institutional continuity noted, not causal claim.",
+"tier": 3
+}
+],
+"cls": "location",
+"cluster": "research",
+"connections": [
+{
+"claimTier": 2,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2023",
+"direction": "in",
+"edgeLabel": "The Sol Foundation operates from the Stanford orbit",
+"id": "sol-foundation",
+"l0": true,
+"label": "The Sol Foundation",
+"note": "Garry Nolan of the Stanford School of Medicine co-founded the Sol Foundation with Peter Skafish; its symposia are the current academic venue for the subject.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Wikipedia - SRI International",
+"url": "https://en.wikipedia.org/wiki/SRI_International"
+}
+],
+"tier": "A",
+"type": "research"
+}
+],
+"coords": [
+37.4275,
+-122.1697
+],
+"dateEnd": null,
+"dateStart": "1946",
+"deg": 1,
+"denials": [],
+"desc": "Stanford is the current academic centre of gravity for serious UAP-adjacent research in the United States, through Garry P. Nolan, professor of pathology at the Stanford School of Medicine, and through the Sol Foundation, which Nolan co-founded with the anthropologist Peter Skafish and which holds annual symposia bringing together academics, former officials and technologists on the policy and scientific implications of the phenomenon. Nolan's contribution is specific and unusual: he has published imaging and isotopic analysis of anomalous materials and has worked on the brain imaging of personnel reporting injuries after alleged encounters, which is the same research line that Christopher 'Kit' Green pursued from CIA into Wayne State, and the same line AAWSAP funded through BAASS. Stanford's institutional history compounds the point: SRI International, six miles away in Menlo Park, was founded by Stanford trustees and hosted the CIA remote viewing programme from 1972 until the separation-era funding wound down. The university is thus at the centre of both the 1970s and the 2020s versions of the same problem - how a research university handles a subject the government funds privately and denies publicly - and the board notes that Stanford handled it in 1970 by severing the institute.",
+"domains": [
+"w2-places-events"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "l-stanford",
+"l0": false,
+"label": "Stanford, California",
+"locLabel": "Stanford, California, USA",
+"members": null,
+"short": "Stanford, California",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Wikipedia - SRI International",
+"url": "https://en.wikipedia.org/wiki/SRI_International"
+}
+],
+"sub": "Stanford University; Nolan Lab, Stanford School of Medicine; base of the Sol Foundation",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 1015 of 1027, score 8). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D2.",
+"timeline": []
+}

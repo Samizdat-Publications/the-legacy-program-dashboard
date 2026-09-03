@@ -1,0 +1,155 @@
+{
+"A": 2,
+"C": 0,
+"D": 3,
+"band": null,
+"claims": [
+{
+"source": "Statement for the Record, Dr. Jon Kosloski, SASC ETC Subcommittee, 19 November 2024",
+"text": "Kosloski testified on 19 November 2024 that AARO holds over 1,600 UAP reports and has discovered no verifiable evidence of extraterrestrial beings, activity, or technology.",
+"tier": 1
+},
+{
+"source": "Statement for the Record, 19 November 2024, full text",
+"text": "Kosloski's statement for the record makes no mention of whistleblowers, Immaculate Constellation, or Volume II of the Historical Record Report.",
+"tier": 1
+},
+{
+"source": "Kosloski media roundtable 14 November 2024 and SASC testimony 19 November 2024",
+"text": "Kosloski concurrently stated AARO is analysing several 'truly anomalous' cases he does not understand.",
+"tier": 2
+}
+],
+"cls": "event",
+"cluster": "oversight",
+"connections": [
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": "2024",
+"dateStart": "2024",
+"direction": "out",
+"edgeLabel": "Kosloski's statement for the record does not mention Immaculate Constellation",
+"id": "immaculate-constellation",
+"l0": true,
+"label": "Immaculate Constellation disclosure, October-November 2024",
+"note": "The alleged programme had been entered into the congressional record weeks earlier and described in an ODNI unclassified press item of 22 October 2024; AARO's director addressed the Senate six days after the House hearing without naming it.",
+"sources": [
+{
+"date": "2024-11-19",
+"name": "Kosloski statement for the record",
+"url": "https://www.armed-services.senate.gov/imo/media/doc/aaro_statement.pdf"
+},
+{
+"date": "2024-10-22",
+"name": "ODNI FOIA DF-2025-00021 - Immaculate Constellation description from unclassified press, 22 Oct 2024",
+"url": "https://archive.dni.gov/files/documents/FOIA/DF-2025-00021-Immaculate-Constellation-descrp-from-UNCLASS-Press-22-Oct-2024.pdf"
+}
+],
+"tier": "A",
+"type": "denial"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "2024",
+"dateStart": "2024",
+"direction": "in",
+"edgeLabel": "first congressional testimony as AARO director",
+"id": "jon-kosloski",
+"l0": false,
+"label": "Jon T. Kosloski",
+"note": "Kosloski's statement for the record puts holdings at over 1,600 reports and delivers the standard no-verifiable-evidence formula.",
+"sources": [
+{
+"date": "2024-11-19",
+"name": "Kosloski statement for the record",
+"url": "https://www.armed-services.senate.gov/imo/media/doc/aaro_statement.pdf"
+}
+],
+"tier": "A",
+"type": "institutional"
+}
+],
+"coords": null,
+"dateEnd": "2024",
+"dateStart": "2024",
+"deg": 2,
+"denials": [
+{
+"by": {
+"id": "hearing-2024-11-19",
+"label": "SASC hearing: Activities of the All-domain Anomaly Resolution Office"
+},
+"claimTier": 1,
+"denialKind": "directed",
+"label": "Kosloski's statement for the record does not mention Immaculate Constellation",
+"note": "The alleged programme had been entered into the congressional record weeks earlier and described in an ODNI unclassified press item of 22 October 2024; AARO's director addressed the Senate six days after the House hearing without naming it.",
+"of": {
+"id": "immaculate-constellation",
+"label": "Immaculate Constellation disclosure, October-November 2024"
+},
+"sources": [
+{
+"date": "2024-11-19",
+"name": "Kosloski statement for the record",
+"url": "https://www.armed-services.senate.gov/imo/media/doc/aaro_statement.pdf"
+},
+{
+"date": "2024-10-22",
+"name": "ODNI FOIA DF-2025-00021 - Immaculate Constellation description from unclassified press, 22 Oct 2024",
+"url": "https://archive.dni.gov/files/documents/FOIA/DF-2025-00021-Immaculate-Constellation-descrp-from-UNCLASS-Press-22-Oct-2024.pdf"
+}
+]
+}
+],
+"desc": "Jon Kosloski's first congressional testimony as AARO director, before the Senate Armed Services Subcommittee on Emerging Threats and Capabilities on 19 November 2024, six days after the House Oversight hearing at which Elizondo and Gallaudet testified and five days after the FY2024 annual report. His statement for the record put AARO's holdings at over 1,600 reports and delivered the standard formula: to date, AARO has discovered no verifiable evidence of extraterrestrial beings, activity, or technology, with most reports resolving to birds, balloons and unmanned systems and only a very small percentage potentially anomalous. What made the appearance notable was the concession alongside it - that AARO is analysing several cases that are truly anomalous and that he does not understand. The statement for the record makes no mention of whistleblowers, of Immaculate Constellation, or of the status of Historical Record Report Volume II.",
+"domains": [
+"uaptf-aaro"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "hearing-2024-11-19",
+"l0": false,
+"label": "SASC hearing: Activities of the All-domain Anomaly Resolution Office",
+"locLabel": null,
+"members": null,
+"short": "SASC hearing: Activities of the All-domain Anomaly Resolution Office",
+"sources": [
+{
+"date": "2024-11-19",
+"name": "Senate Armed Services - hearing page (19 Nov 2024)",
+"url": "https://www.armed-services.senate.gov/hearings/to-receive-testimony-on-the-activities-of-the-all-domain-anomaly-resolution-office"
+},
+{
+"date": "2024-11-19",
+"name": "Senate Armed Services - Kosloski statement for the record",
+"url": "https://www.armed-services.senate.gov/imo/media/doc/aaro_statement.pdf"
+},
+{
+"date": "2024-11-19",
+"name": "Senate Armed Services - AARO opening remarks 11/19/24",
+"url": "https://www.armed-services.senate.gov/imo/media/doc/aaro_opening_remarks.pdf"
+}
+],
+"sub": "Senate Armed Services ETC Subcommittee, 19 November 2024; Kosloski's first testimony",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 594 of 1027, score 26). 2 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D3.",
+"timeline": [
+{
+"date": "2024-11-19",
+"id": "tl-sasc-2024-11-19",
+"label": "Kosloski testifies to the Senate",
+"precision": "day",
+"strand": "oversight",
+"text": "Over 1,600 reports held; no verifiable evidence of extraterrestrial beings, activity or technology; several cases 'truly anomalous'. No mention of whistleblowers, Immaculate Constellation, or Volume II.",
+"tier": "A"
+}
+]
+}

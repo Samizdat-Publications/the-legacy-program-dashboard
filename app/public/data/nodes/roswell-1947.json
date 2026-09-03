@@ -1,0 +1,772 @@
+{
+"A": 2,
+"C": 3,
+"D": 3,
+"band": "retrieval",
+"claims": [
+{
+"source": "RAAF press release, 8 July 1947, reproduced in USAF, 'The Roswell Report: Fact vs. Fiction' (1995)",
+"text": "On 8 July 1947 RAAF announced that the intelligence office of the 509th Bomb Group had gained possession of a disc 'through the cooperation of one of the local ranchers and the sheriff's office of Chaves County'.",
+"tier": 1
+},
+{
+"source": "USAF, 'The Roswell Report: Fact vs. Fiction' (1995)",
+"text": "The announcement was retracted the same day at Fort Worth by Brig. Gen. Roger Ramey, with Col. Thomas DuBose and weather officer Irving Newton identifying the material as a weather balloon with a radar reflector.",
+"tier": 1
+},
+{
+"source": "GAO/NSIAD-95-187, p.5; USAF, 'The Roswell Report: Fact vs. Fiction' (1995)",
+"text": "The Air Force's 1994 report concluded the most likely source of the recovered wreckage was a Project MOGUL balloon train.",
+"tier": 1
+},
+{
+"source": "National Archives, Air Force UFO records page",
+"text": "NARA has been unable to locate any documentation among the Project Blue Book records discussing the 1947 Roswell incident.",
+"tier": 1
+},
+{
+"source": "GAO/NSIAD-95-187, p.3",
+"text": "The base's outgoing message traffic (Oct 1946 - Dec 1949) and administrative records (Mar 1945 - Dec 1949) were destroyed with no recorded disposition authority.",
+"tier": 1
+},
+{
+"source": "RAAF press release issued by 1st Lt. Walter Haut, 8 July 1947",
+"text": "'The many rumors regarding the flying disc became a reality yesterday when the intelligence office of the 509th Bomb group of the Eighth Air Force, Roswell Army Air Field, was fortunate enough to gain possession of a disc.'",
+"tier": 1
+},
+{
+"source": "Contemporaneous Fort Worth press conference photographs and wire copy, 8 July 1947",
+"text": "Brig. Gen. Roger M. Ramey retracted the statement the same day at Fort Worth Army Air Field with weather officer Irving Newton, presenting the debris as a weather balloon and radar target.",
+"tier": 1
+},
+{
+"source": "USAF, 'The Roswell Report: Fact Versus Fiction in the New Mexico Desert' (1994)",
+"text": "The 1994 USAF report attributed the debris to Project Mogul Flight No. 4, launched 4 June 1947 from Alamogordo, and acknowledged that the weather balloon explanation was a cover story.",
+"tier": 1
+},
+{
+"source": "USAF, 'The Roswell Report: Case Closed', 24 June 1997",
+"text": "'The Roswell Report: Case Closed' (24 June 1997) attributed accounts of recovered bodies to anthropomorphic parachute test dummies.",
+"tier": 1
+},
+{
+"source": "GAO/NSIAD-95-187, July 1995",
+"text": "GAO/NSIAD-95-187 found that RAAF outgoing messages from October 1946 through December 1949 had been destroyed, with no disposition authority located.",
+"tier": 1
+},
+{
+"source": "Inference from the 1994 USAF report and GAO/NSIAD-95-187",
+"text": "The durable claim from Roswell is that the government has admitted to fabricating a public account of a materiel recovery, and the relevant unit records were destroyed without traceable authority. Reasoning: the two official findings, taken together, establish concealment independent of the physical identification of the debris.",
+"tier": 3
+}
+],
+"cls": "event",
+"cluster": "legacy",
+"connections": [
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "509th intelligence office took possession of the Roswell debris",
+"id": "509th-bomb-group",
+"l0": false,
+"label": "509th Bomb Group",
+"note": "GAO records that 'On July 8, 1947, the Roswell Army Air Field (RAAF) public information office in Roswell, New Mexico, reported the crash and recovery of a \"flying disc\"' and that 'Army Air Forces personnel from the RAAF's 509th Bomb Group were credited with the recovery.' GAO's own search found only two 1947 records: a July 1947 history report by the combined 509th Bomb Group and RAAF, which noted the recovery of a 'flying disc' later determined by military officials to be a radar-tracking balloon, and an FBI teletype of 8 July 1947.",
+"sources": [
+{
+"date": "1995-07-28",
+"name": "GAO/NSIAD-95-187, 'Government Records: Results of a Search for Records Concerning the 1947 Crash Near Roswell, New Mexico', 28 July 1995",
+"url": "https://www.gao.gov/assets/nsiad-95-187.pdf"
+},
+{
+"date": null,
+"name": "GAO/NSIAD-95-187, 'Government Records: Results of a Search for Records Concerning the 1947 Crash Near Roswell, New Mexico,' July 28, 1995 -- https://sgp.fas.org/othergov/roswell.pdf",
+"url": ""
+},
+{
+"date": null,
+"name": "https://sgp.fas.org/othergov/roswell.html",
+"url": "https://sgp.fas.org/othergov/roswell.html"
+}
+],
+"tier": "C",
+"type": "custody"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "2024",
+"dateStart": "2024",
+"direction": "in",
+"edgeLabel": "AARO reaffirms MOGUL and finds no recovered extraterrestrial material",
+"id": "aaro-historical-record-vol1",
+"l0": true,
+"label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
+"note": "The February 2024 report concludes the Roswell materials were consistent with a then-classified Project Mogul balloon and that there is no evidence the USG recovered aliens or extraterrestrial material.",
+"sources": [
+{
+"date": "2024-02-01",
+"name": "AARO Historical Record Report, Volume I",
+"url": "https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf"
+}
+],
+"tier": "A",
+"type": "denial"
+},
+{
+"claimTier": 2,
+"cls": "event",
+"dateEnd": null,
+"dateStart": "1974",
+"direction": "in",
+"edgeLabel": "detail donor to later Roswell accounts",
+"id": "aztec-1948",
+"l0": true,
+"label": "Aztec, New Mexico claim, March 1948",
+"note": "After the story was revived in the 1970s, its specifics - small bodies, an intact hull, rapid military sanitisation of the site, storage at Wright-Patterson - migrated into allegedly first-hand Roswell testimony. A documented fraud became a supplier of narrative detail to the case the modern disclosure argument rests on, which is a contamination risk this board has to carry explicitly.",
+"sources": [
+{
+"date": null,
+"name": "https://en.wikipedia.org/wiki/Aztec_crashed_saucer_hoax",
+"url": "https://en.wikipedia.org/wiki/Aztec_crashed_saucer_hoax"
+},
+{
+"date": null,
+"name": "John Michael Greer, 'The UFO Phenomenon: Fact, Fantasy and Disinformation', Llewellyn Worldwide, 2009, pp. 119ff - https://archive.org/details/ufophenomenonfac0000gree",
+"url": ""
+}
+],
+"tier": "A",
+"type": "behavioral"
+},
+{
+"claimTier": 2,
+"cls": "institution",
+"dateEnd": "1949",
+"dateStart": "1947",
+"direction": "in",
+"edgeLabel": "Alleged analysis of Roswell 'memory metal' via Wright-Patterson contracts",
+"id": "battelle",
+"l0": true,
+"label": "Battelle Memorial Institute",
+"note": "The allegation rests on the coincidence of timing between the 1947 recovery, the 1948-49 Battelle NiTi work, and the absence of the reports from both archives. No document connects the two directly.",
+"sources": [
+{
+"date": "2009-05-21",
+"name": "Sarasota Herald-Tribune",
+"url": "https://www.heraldtribune.com/story/news/2009/05/21/memory-metal-files-are-missing/28868099007/"
+}
+],
+"tier": "A",
+"type": "custody"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "dedicated appendix on Roswell and disinformation",
+"id": "cometa",
+"l0": true,
+"label": "COMETA - Comité d'Études Approfondies",
+"note": "COMETA's Appendix 5 is titled 'The Roswell Affair - Disinformation'. A committee of retired French flag officers treating Roswell as a subject requiring an appendix in a defence study is itself part of what this edge records; the report's own framing places it under disinformation rather than under evidence.",
+"sources": [
+{
+"date": "1999-07-01",
+"name": "COMETA, 'UFOs and Defense: What Should We Prepare For?', 1999, Appendix 5",
+"url": "https://ia800403.us.archive.org/17/items/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D.pdf"
+}
+],
+"tier": "A",
+"type": "research"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "1995-07-28",
+"direction": "in",
+"edgeLabel": "Found Roswell AAF outgoing messages 1945-1949 destroyed without authorisation",
+"id": "gao",
+"l0": false,
+"label": "Government Accountability Office",
+"note": "GAO reported that the outgoing message traffic for March 1945 to December 1949 had been destroyed and that no destruction certificate authorising it could be located.",
+"sources": [
+{
+"date": "1995-07-28",
+"name": "GAO/NSIAD-95-187",
+"url": "https://www.gao.gov/assets/nsiad-95-187.pdf"
+}
+],
+"tier": "C",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "1995",
+"dateStart": "1995",
+"direction": "in",
+"edgeLabel": "GAO found the base's records for the event period destroyed",
+"id": "gao-nsiad-95-187",
+"l0": true,
+"label": "GAO/NSIAD-95-187 — Results of a Search for Records Concerning the 1947 Crash Near Roswell",
+"note": "RAAF outgoing messages Oct 1946 - Dec 1949 and administrative records Mar 1945 - Dec 1949 were destroyed, and the disposition form does not record who destroyed them, when, or under what authority.",
+"sources": [
+{
+"date": "1995-07-28",
+"name": "GAO/NSIAD-95-187 (full PDF)",
+"url": "https://www.gao.gov/assets/nsiad-95-187.pdf"
+},
+{
+"date": "1995-07-28",
+"name": "GAO/NSIAD-95-187",
+"url": "https://www.gao.gov/products/nsiad-95-187"
+}
+],
+"tier": "B",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "1947",
+"dateStart": "1947",
+"direction": "in",
+"edgeLabel": "Marcel physically handled the recovered debris",
+"id": "jesse-marcel",
+"l0": false,
+"label": "Jesse A. Marcel Sr.",
+"note": "The 509th's staff intelligence officer collected the Foster ranch material with CIC Capt. Sheridan Cavitt and carried it to Fort Worth. His custody role is documented in the Air Force's own 1995 report.",
+"sources": [
+{
+"date": "1995-01-01",
+"name": "USAF, The Roswell Report: Fact vs. Fiction (1995)",
+"url": "https://archive.org/details/DTIC_ADA326148"
+}
+],
+"tier": "A",
+"type": "custody"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "1947-07",
+"dateStart": "1947-07",
+"direction": "in",
+"edgeLabel": "Marcel was the 509th intelligence officer who recovered the debris",
+"id": "jesse-marcel",
+"l0": false,
+"label": "Jesse A. Marcel Sr.",
+"note": "Marcel and Cavitt were assigned by RAAF to retrieve the material from the Foster Ranch after Brazel reported it to Sheriff Wilcox on 6 July 1947.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Wikipedia - Roswell incident",
+"url": "https://en.wikipedia.org/wiki/Roswell_incident"
+}
+],
+"tier": "A",
+"type": "witness-chain"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "1947",
+"dateStart": "1947",
+"direction": "in",
+"edgeLabel": "Arnold's 24 June 1947 sighting opened the wave that Roswell fell inside",
+"id": "kenneth-arnold",
+"l0": false,
+"label": "Kenneth Arnold",
+"note": "The Cascades sighting on 24 June 1947 triggered the national wave; the Roswell recovery followed within two weeks and the Twining memo eleven weeks later.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "NICAP document archive index",
+"url": "https://www.nicap.org/docs/"
+},
+{
+"date": "1968-11-01",
+"name": "Condon Report Sec. V Ch. 2",
+"url": "https://files.ncas.org/condon/text/s5chap02.htm"
+}
+],
+"tier": "C",
+"type": "temporal"
+},
+{
+"claimTier": 2,
+"cls": "location",
+"dateEnd": "1947",
+"dateStart": "1947",
+"direction": "out",
+"edgeLabel": "The 1947 recovery was executed by Roswell Army Air Field",
+"id": "l-roswell",
+"l0": false,
+"label": "Roswell, New Mexico and the Foster Ranch, Lincoln County",
+"note": "Maj. Jesse Marcel of the 509th Bomb Group intelligence office and Capt. Sheridan Cavitt of the Counter Intelligence Corps were dispatched from RAAF to the Foster Ranch. Attested by the 1947 press record and the Air Force's own reports.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Wikipedia - Roswell incident",
+"url": "https://en.wikipedia.org/wiki/Roswell_incident"
+}
+],
+"tier": "B",
+"type": "geographic"
+},
+{
+"claimTier": 1,
+"cls": "location",
+"dateEnd": "1947",
+"dateStart": "1947",
+"direction": "out",
+"edgeLabel": "The 509th Bomb Group at Roswell AAF was the only atomic-armed unit in the world",
+"id": "l-roswell",
+"l0": false,
+"label": "Roswell, New Mexico and the Foster Ranch, Lincoln County",
+"note": "The recovery, the announcement and the destroyed records all belong to a single installation with the most restrictive information discipline in the US military.",
+"sources": [
+{
+"date": "1995-01-01",
+"name": "USAF, The Roswell Report: Fact vs. Fiction (1995)",
+"url": "https://archive.org/details/DTIC_ADA326148"
+},
+{
+"date": "1995-07-28",
+"name": "GAO/NSIAD-95-187",
+"url": "https://www.gao.gov/assets/nsiad-95-187.pdf"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 3,
+"cls": "location",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "alleged second recovery site (Barnett account)",
+"id": "l-san-agustin",
+"l0": false,
+"label": "Plains of San Agustin, New Mexico",
+"note": "TIER 3, CONTESTED. The Plains of San Agustin entered the Roswell corpus through Grady 'Barney' Barnett's reported account, transmitted second-hand and published in Berlitz and Moore's 'The Roswell Incident' (1980). The Air Force's own 1995 records review corroborates the route the story travelled - it records that in 1978 'a UFO researcher, Stanton Friedman, met with Marcel and began investigating', and that Moore and Berlitz 'reported they interviewed a number of persons who claimed to have been present at Roswell in 1947 and professed to be either firsthand or secondhand witnesses'. It does not corroborate the site: 'San Agustin', 'Barnett' and 'Maltais' each appear zero times in the entire report. Kevin Randle, named in that review among the researchers, concludes on the evidence: 'It is for these reasons, that is the lack of first-hand corroboration of the Barnett tale, the inability of the first people to talk of what Barnett said to provide a location and date and that the only source of the information is Barnett that I say, with confidence, that nothing happened there in July 1947.' Roswell is July 1947, so that conclusion severs the link by dating rather than by geography.",
+"sources": [
+{
+"date": "1995-01-01",
+"name": "USAF, 'The Roswell Report: Fact versus Fiction in the New Mexico Desert' (1995), searched in full",
+"url": "https://archive.org/details/DTIC_ADA326148"
+},
+{
+"date": null,
+"name": "https://kevinrandle.blogspot.com/2015/02/the-plains-of-san-agustin-crash.html",
+"url": "https://kevinrandle.blogspot.com/2015/02/the-plains-of-san-agustin-crash.html"
+},
+{
+"date": null,
+"name": "https://ufologie.patrickgross.org/rw/w/fleckdanley.htm",
+"url": "https://ufologie.patrickgross.org/rw/w/fleckdanley.htm"
+}
+],
+"tier": "C",
+"type": "geographic"
+},
+{
+"claimTier": 2,
+"cls": "program",
+"dateEnd": "1994",
+"dateStart": "1994",
+"direction": "in",
+"edgeLabel": "Mogul is the Air Force's 1994 identification of the debris",
+"id": "project-mogul",
+"l0": false,
+"label": "Project MOGUL",
+"note": "The 1994 USAF report attributed the debris to Project Mogul Flight No. 4, launched 4 June 1947 from Alamogordo, and acknowledged that the weather balloon account had been a cover story.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Wikipedia - Roswell incident",
+"url": "https://en.wikipedia.org/wiki/Roswell_incident"
+}
+],
+"tier": "B",
+"type": "denial"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "1947",
+"dateStart": "1947",
+"direction": "in",
+"edgeLabel": "The press release is the event's only uncontested artifact",
+"id": "raaf-press-release-1947",
+"l0": false,
+"label": "RAAF Press Release, 8 July 1947",
+"note": "Every subsequent official position — weather balloon, MOGUL, dummies — is a response to this single document issued by an atomic bomb group's own information office.",
+"sources": [
+{
+"date": "1995-01-01",
+"name": "USAF, The Roswell Report: Fact vs. Fiction (1995)",
+"url": "https://archive.org/details/DTIC_ADA326148"
+},
+{
+"date": "1995-07-28",
+"name": "GAO/NSIAD-95-187",
+"url": "https://www.gao.gov/assets/nsiad-95-187.pdf"
+}
+],
+"tier": "B",
+"type": "temporal"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "1947-07-08",
+"dateStart": "1947-07-08",
+"direction": "in",
+"edgeLabel": "Ramey retracted the RAAF statement the same day at Fort Worth",
+"id": "roger-ramey",
+"l0": false,
+"label": "Roger M. Ramey",
+"note": "Brig. Gen. Roger M. Ramey, commanding Eighth Air Force, presented the debris as a weather balloon and radar target with weather officer Irving Newton. The Air Force conceded in 1994 that this was a cover story.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Wikipedia - Roswell incident",
+"url": "https://en.wikipedia.org/wiki/Roswell_incident"
+}
+],
+"tier": "B",
+"type": "denial"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "1947-07-08",
+"dateStart": "1947-07-08",
+"direction": "in",
+"edgeLabel": "Haut issued the 8 July 1947 'flying disc' press release",
+"id": "walter-haut",
+"l0": false,
+"label": "Walter Haut",
+"note": "1st Lt. Walter Haut, RAAF public information officer, issued the release stating the 509th's intelligence office had gained possession of a disc.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Wikipedia - Roswell incident",
+"url": "https://en.wikipedia.org/wiki/Roswell_incident"
+}
+],
+"tier": "B",
+"type": "witness-chain"
+}
+],
+"coords": null,
+"dateEnd": "1947",
+"dateStart": "1947",
+"deg": 15,
+"denials": [
+{
+"by": {
+"id": "aaro-historical-record-vol1",
+"label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+},
+"claimTier": 1,
+"denialKind": "directed",
+"label": "AARO reaffirms MOGUL and finds no recovered extraterrestrial material",
+"note": "The February 2024 report concludes the Roswell materials were consistent with a then-classified Project Mogul balloon and that there is no evidence the USG recovered aliens or extraterrestrial material.",
+"of": {
+"id": "roswell-1947",
+"label": "Roswell Incident"
+},
+"sources": [
+{
+"date": "2024-02-01",
+"name": "AARO Historical Record Report, Volume I",
+"url": "https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf"
+}
+]
+},
+{
+"by": {
+"id": "project-mogul",
+"label": "Project MOGUL"
+},
+"claimTier": 2,
+"denialKind": "directed",
+"label": "Mogul is the Air Force's 1994 identification of the debris",
+"note": "The 1994 USAF report attributed the debris to Project Mogul Flight No. 4, launched 4 June 1947 from Alamogordo, and acknowledged that the weather balloon account had been a cover story.",
+"of": {
+"id": "roswell-1947",
+"label": "Roswell Incident"
+},
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Wikipedia - Roswell incident",
+"url": "https://en.wikipedia.org/wiki/Roswell_incident"
+}
+]
+},
+{
+"by": {
+"id": "roger-ramey",
+"label": "Roger M. Ramey"
+},
+"claimTier": 2,
+"denialKind": "directed",
+"label": "Ramey retracted the RAAF statement the same day at Fort Worth",
+"note": "Brig. Gen. Roger M. Ramey, commanding Eighth Air Force, presented the debris as a weather balloon and radar target with weather officer Irving Newton. The Air Force conceded in 1994 that this was a cover story.",
+"of": {
+"id": "roswell-1947",
+"label": "Roswell Incident"
+},
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Wikipedia - Roswell incident",
+"url": "https://en.wikipedia.org/wiki/Roswell_incident"
+}
+]
+}
+],
+"desc": "In late June 1947 rancher W. W. 'Mac' Brazel found debris scattered on the Foster Ranch near Corona, in Lincoln County, New Mexico, roughly seventy-five miles northwest of Roswell. On 6 July he reported it to Chaves County Sheriff George Wilcox, who called Roswell Army Air Field. RAAF dispatched Maj. Jesse A. Marcel Sr., intelligence officer of the 509th Bomb Group - at that date the only nuclear-capable bomb group in existence - and Capt. Sheridan Cavitt of the Counter Intelligence Corps. On 8 July 1947 the base public information officer, 1st Lt. Walter Haut, issued a press release stating that 'the intelligence office of the 509th Bomb group of the Eighth Air Force, Roswell Army Air Field, was fortunate enough to gain possession of a disc.' The story went out on the wires within hours. That same day Brig. Gen. Roger M. Ramey, commanding Eighth Air Force at Fort Worth Army Air Field, staged a press conference with weather officer Warrant Officer Irving Newton and presented the material as a weather balloon and a radar target reflector. The Air Force's own subsequent reports concede the essential structure: the 1994 report identified the debris as a Project Mogul balloon train, specifically Flight No. 4 launched 4 June 1947 from Alamogordo Army Air Field, and explicitly acknowledged that the weather balloon statement had been a cover story to divert attention from a classified programme; 'The Roswell Report: Case Closed', published 24 June 1997 and authored in part by declassification officer 1st Lt. James McAndrew, attributed accounts of recovered bodies to anthropomorphic parachute test dummies dropped in 1950s high-altitude programmes. Roswell's evidentiary value to this board does not depend on adjudicating what the debris was. It rests on two documented facts. First, the United States has conceded in writing that it issued a false public explanation for a materiel recovery in 1947. Second, when Rep. Steven H. Schiff asked GAO to audit the paper trail after the Defense Department declined to answer him, GAO/NSIAD-95-187 reported that RAAF outgoing messages from October 1946 through December 1949 had been destroyed and that no disposition authority for the destruction could be located. The unit's message traffic for the period covering the recovery no longer exists, and nobody has ever produced the authority that ordered it destroyed. That finding has never been rebutted by any agency.",
+"domains": [
+"history-1940s-1960s",
+"w2-places-events"
+],
+"dossier": {
+"claims": [
+{
+"source": "https://www.govinfo.gov/content/pkg/GAOREPORTS-NSIAD-95-187/html/GAOREPORTS-NSIAD-95-187.htm",
+"text": "GAO found that RAAF administrative records from March 1945 through December 1949 and RAAF outgoing messages from October 1946 through December 1949 were destroyed, and that \"the document disposition form does not indicate what organization or person destroyed the records and when or under what authority the records were destroyed.\"",
+"tier": 1
+},
+{
+"source": "https://www.govinfo.gov/content/pkg/GAOREPORTS-NSIAD-95-187/html/GAOREPORTS-NSIAD-95-187.htm",
+"text": "GAO's search of federal holdings yielded only two records originating in 1947: the July 1947 combined history report of the 509th Bomb Group and RAAF, and an FBI teletype dated 8 July 1947.",
+"tier": 1
+},
+{
+"source": "https://www.govinfo.gov/content/pkg/GAOREPORTS-NSIAD-95-187/html/GAOREPORTS-NSIAD-95-187.htm",
+"text": "GAO reported: \"We could not locate any documentation indicating that records of the 1395th Military Police Company (Aviation) were ever retired to the National Personnel Records Center or its predecessor depositories.\"",
+"tier": 1
+},
+{
+"source": "https://www.govinfo.gov/content/pkg/GAOREPORTS-NSIAD-95-187/html/GAOREPORTS-NSIAD-95-187.htm",
+"text": "The 8 July 1947 FBI teletype, whose authenticity an FBI spokesperson confirmed to GAO, states that an Eighth Air Force headquarters official reported the recovery near Roswell of a hexagonal-shaped disc suspended from a large balloon by cable, and that the disc and balloon \"were being sent to Wright Field . . . for examination.\"",
+"tier": 1
+},
+{
+"source": "https://www.govinfo.gov/content/pkg/GAOREPORTS-NSIAD-95-187/html/GAOREPORTS-NSIAD-95-187.htm",
+"text": "GAO reviewed Air Materiel Command (Wright Field) records from 1947 to 1950 and \"found no records mentioning the Roswell crash or the examination by Air Materiel Command personnel of any debris recovered from the crash.\"",
+"tier": 1
+},
+{
+"source": "https://www.govinfo.gov/content/pkg/GAOREPORTS-NSIAD-95-187/html/GAOREPORTS-NSIAD-95-187.htm",
+"text": "GAO attempted to identify the military regulations governing the handling of such debris and reported: \"We were unable to locate any applicable regulation.\"",
+"tier": 1
+},
+{
+"source": "https://www.govinfo.gov/content/pkg/GAOREPORTS-NSIAD-95-187/html/GAOREPORTS-NSIAD-95-187.htm",
+"text": "In March 1995 the CIA Executive Director told GAO it was \"unclear whether the CIA had ever conducted a search for records specifically relating to Roswell\" and ordered one; on 30 May 1995 he reported that a search on \"Roswell, New Mexico\" across all CIA databases produced no documents.",
+"tier": 1
+},
+{
+"source": "https://www.govinfo.gov/content/pkg/GAOREPORTS-NSIAD-95-187/html/GAOREPORTS-NSIAD-95-187.htm",
+"text": "GAO stated in its scope and methodology section: \"Our search of government records was complicated by the fact that some records we wanted to review were missing and there was not always an explanation.\"",
+"tier": 1
+},
+{
+"source": "https://www.govinfo.gov/content/pkg/GAOREPORTS-NSIAD-95-187/html/GAOREPORTS-NSIAD-95-187.htm",
+"text": "GAO found that in 1947 Army regulations required air accident reports to be maintained permanently, that no military service filed a report on the Roswell incident, and that Air Force officials stated there was no requirement to prepare a report on the crash of a weather balloon.",
+"tier": 1
+},
+{
+"source": "https://www.govinfo.gov/content/pkg/GAOREPORTS-NSIAD-95-187/html/GAOREPORTS-NSIAD-95-187.htm",
+"text": "DOD informed GAO that the July 1994 Report of Air Force Research Regarding the Roswell Incident \"represents the extent of DOD records or information concerning the Roswell crash,\" and that report concluded the most likely source of the wreckage was one of the Project MOGUL balloon trains.",
+"tier": 1
+},
+{
+"source": "https://www.af.mil/The-Roswell-Report/",
+"text": "The Air Force's 1997 report The Roswell Report: Case Closed concludes that \"Air Force activities which occurred over a period of many years have been consolidated and are now represented to have occurred in two or three days in July 1947,\" that reported \"aliens\" were anthropomorphic test dummies carried by high-altitude balloons, and that body claims at the RAAF hospital most likely combine a 1956 KC-97 accident killing eleven airmen and a 1959 manned balloon mishap injuring two pilots.",
+"tier": 1
+},
+{
+"source": "https://www.af.mil/The-Roswell-Report/",
+"text": "The anthropomorphic dummy drops and both mishaps relied on in the 1997 explanation postdate July 1947 by roughly seven to twelve years; the Air Force resolves the discrepancy by asserting temporal compression of witness memory rather than by producing contemporaneous 1947 documentation.",
+"tier": 2
+},
+{
+"source": "https://www.archives.gov/research/military/air-force/ufos",
+"text": "The National Archives states it \"has been unable to locate any documentation among the Project BLUE BOOK records that discuss the 1947 incident in Roswell, New Mexico,\" and that before the 1994 interviews Secretary Widnall released interviewees from any previous security obligations that may have restricted their statements.",
+"tier": 1
+}
+],
+"denialPosture": "Three official positions exist, each dated and attributable: Eighth Air Force, 9 July 1947, a radar-tracking weather balloon; the Office of the Secretary of the Air Force, 8 September 1994 under Secretary Sheila Widnall, a Project MOGUL balloon train; and Headquarters USAF, 24 June 1997, anthropomorphic test dummies plus a 1956 aircraft accident and a 1959 balloon mishap. The 1994 and 1997 reports also assert that Air Force research \"did not locate or develop any information that the 'Roswell Incident' was a UFO event nor was there any indication of a 'cover-up' by the Government.\" No official statement has ever explained the destruction of the 1945-1949 RAAF administrative and message files without a disposition authority.",
+"narrative": "Roswell is the origin node of the entire concealment argument, and the strongest evidence for it is not testimony. It is an audit report signed by a GAO director in 1995.\n\nThe sequence of public statements is short and well documented. On 8 July 1947 the RAAF public information office reported the recovery of a \"flying disc,\" credited to personnel of the 509th Bomb Group. Within a day the story was replaced: Eighth Air Force at Fort Worth announced a crashed radar-tracking balloon. The July 1947 combined history report of the 509th Bomb Group and RAAF, one of only two surviving 1947 documents, records that the public information office \"was kept quite busy . . . answering inquiries on the 'flying disc,' which was reported to be in [the] possession of the 509th Bomb Group. The object turned out to be a radar tracking balloon.\" The commanding officer certified by signature that the report was a complete and accurate account of RAAF activities for that month. The second surviving document is an FBI teletype from the Dallas field office dated 8 July 1947, whose authenticity an FBI spokesperson confirmed to GAO, reporting that an Eighth Air Force headquarters official had telephoned to describe the recovery near Roswell of \"a hexagonal-shaped disc suspended from a large balloon by cable,\" and that \"the disc and balloon were being sent to Wright Field . . . for examination.\"\n\nThat is the entire 1947 documentary record. Everything else was gone by the time anyone looked.\n\nGAO looked hard. Its team worked from March 1994 to June 1995 across the National Archives in Washington and at College Park, the records center at Suitland, the National Personnel Records Center in St. Louis, the Air Force Safety Agency at Kirtland, the Air Force History Support Office at Bolling, NSA at Fort Meade, the Army Central Security Facility, CIA at Langley, FBI headquarters and elsewhere, and queried the National Security Council, the Office of Science and Technology Policy, the Department of Energy, the FBI, DOD and CIA in writing. It reviewed classified material. What it reported was a hole shaped exactly like the event.\n\nThe Chief Archivist of the National Personnel Records Center documented for GAO that RAAF records covering finance and accounting, supplies, buildings and grounds and other general administrative matters from March 1945 through December 1949, together with RAAF outgoing messages from October 1946 through December 1949, had been destroyed, and that \"the document disposition form did not properly indicate the authority under which the disposal action was taken.\" GAO's flat summary sentence is the one that matters: \"although some of the records concerning Roswell activities had been destroyed, there was no information available regarding when or under what authority the records were destroyed.\" The Chief Archivist offered the mitigating view that many Air Force organizational records of that period were destroyed without a disposition citation, and GAO noted that its own review of the destruction forms for RAAF's 1950 outgoing messages supported that view. That is a fair caveat and it is in the record. It does not restore the messages.\n\nA separate gap sits underneath it. GAO specifically sought the records of the military units assigned to RAAF in 1947 - the 509th Bomb Group, the 1st Air Transport Unit, the 427th Army Air Force Base Unit, and the 1395th Military Police Company (Aviation). Disposition forms from St. Louis show a Walker Air Force Base records officer transferring the first three unit histories to the Army's Kansas City depository in 1953. Of the fourth, GAO wrote: \"We could not locate any documentation indicating that records of the 1395th Military Police Company (Aviation) were ever retired to the National Personnel Records Center or its predecessor depositories.\" The military police company is the unit that secures a crash site. Its paper is the only unit paper that does not exist.\n\nThe third gap closes the loop. Because the surviving FBI teletype says the material went to Wright Field, GAO tried to find the regulation governing how such debris should be handled and reported: \"We were unable to locate any applicable regulation.\" It then reviewed Air Materiel Command records at Wright Field from 1947 to 1950 and \"found no records mentioning the Roswell crash or the examination by Air Materiel Command personnel of any debris recovered from the crash.\" The item arrives nowhere. GAO also established that in 1947 Army regulations required air accident reports to be maintained permanently, that four air accidents were reported in New Mexico in July 1947 and all occurred after 8 July involving military aircraft, and that Air Force officials said no requirement existed to report a weather balloon crash - which is a clean explanation for the absence of an accident report and no explanation at all for the absence of the message traffic.\n\nCIA's answer is its own artifact. In March 1995 the Agency's Executive Director told GAO that earlier UFO record searches had produced nothing on Roswell but that \"it was unclear whether the CIA had ever conducted a search for records specifically relating to Roswell,\" and ordered one. On 30 May 1995 he reported that a search on the term \"Roswell, New Mexico\" across all CIA databases produced no documents. Forty-eight years after the event and one year into a congressional audit, the Agency was not sure it had ever looked.\n\nThe two Air Force reports arrived on either side of the GAO audit and moved the explanation twice. The 1994 report, announced by Secretary of the Air Force Sheila Widnall on 8 September 1994, concluded that the most likely source of the recovered wreckage was a Project MOGUL balloon train, a then-classified acoustic effort to detect Soviet nuclear tests; DOD told GAO that this report \"represents the extent of DOD records or information concerning the Roswell crash.\" The 1997 report, The Roswell Report: Case Closed, addressed the body reports and concluded that \"Air Force activities which occurred over a period of many years have been consolidated and are now represented to have occurred in two or three days in July 1947,\" that the \"aliens\" were anthropomorphic test dummies carried aloft by high-altitude balloons, and that claims of bodies at the RAAF hospital most likely combine a 1956 KC-97 accident that killed eleven airmen and a 1959 manned balloon mishap that injured two pilots. The dummy drops and both mishaps postdate July 1947 by between seven and twelve years. The Air Force's answer to that is that witness memory compressed the decade. It is a testable claim and it is on the record under signature, which is what makes it useful here.",
+"openQuestions": [
+"Who destroyed the RAAF administrative records and outgoing messages, when, and under what authority? GAO could not answer this and no agency has since.",
+"Where are the records of the 1395th Military Police Company (Aviation), and were they ever accessioned anywhere?",
+"If the FBI teletype is correct that the material went to Wright Field, why do Air Materiel Command files for 1947-1950 contain no receipt, examination or disposition entry?",
+"The July 1947 RAAF press release itself, as distributed, has not been located in primary form in the federal record; only the 509th unit history's paraphrase and press accounts survive.",
+"The so-called Ramey memo - the sheet of paper visible in the 8 July 1947 Fort Worth press photographs - has no authoritative government transcription. Any reading of it remains an interpretive claim and is deliberately excluded from the claims above.",
+"Whether any 1947 material relating to Roswell exists in still-classified compartmented series that GAO's 1994-95 access did not reach; GAO reviewed classified holdings but its access was not unlimited and it did not audit special access programs."
+],
+"roles": [
+"retrieval",
+"concealment",
+"custody"
+],
+"whatItIs": "On 8 July 1947 the Roswell Army Air Field public information office announced that personnel of the 509th Bomb Group had recovered a crashed \"flying disc\" on a ranch in the Roswell region. The following day the Commanding General of Eighth Air Force at Fort Worth announced the object was a radar-tracking weather balloon. The Air Force issued two further explanations decades later: a 1994 report attributing the debris to a Project MOGUL balloon train, and a 1997 report attributing reports of \"alien bodies\" to anthropomorphic test dummies and to two later aircraft and balloon mishaps.",
+"whyImplicated": "The argument here is not about what fell. It is about the file. When the General Accounting Office audited the record in 1994-95 at the request of Rep. Steven Schiff, it found that Roswell Army Air Field's administrative records for March 1945 through December 1949 and its outgoing messages for October 1946 through December 1949 had been destroyed, and that \"the document disposition form does not indicate what organization or person destroyed the records and when or under what authority.\" The unit records of the 1395th Military Police Company (Aviation), the unit that would have cordoned any site, could not be shown ever to have been retired to a records depository at all. Only two documents originating in 1947 survived the search. The FBI teletype that survives states the recovered object was being sent to Wright Field for examination, and GAO's review of Air Materiel Command records for 1947 to 1950 found nothing about the receipt or examination of any Roswell debris. A government that recovered a weather balloon does not lose four years of a bomb group's message traffic without a disposal authority, and does not fail to log the arrival of the item at the laboratory it says received it."
+},
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "roswell-1947",
+"l0": true,
+"label": "Roswell Incident",
+"locLabel": null,
+"members": [
+{
+"cls": "institution",
+"id": "509th-bomb-group",
+"label": "509th Bomb Group",
+"tier": "C"
+},
+{
+"cls": "institution",
+"id": "gao",
+"label": "Government Accountability Office",
+"tier": "C"
+},
+{
+"cls": "person",
+"id": "jesse-marcel",
+"label": "Jesse A. Marcel Sr.",
+"tier": "A"
+},
+{
+"cls": "person",
+"id": "kenneth-arnold",
+"label": "Kenneth Arnold",
+"tier": "C"
+},
+{
+"cls": "location",
+"id": "l-roswell",
+"label": "Roswell, New Mexico and the Foster Ranch, Lincoln County",
+"tier": "B"
+},
+{
+"cls": "location",
+"id": "l-san-agustin",
+"label": "Plains of San Agustin, New Mexico",
+"tier": "C"
+},
+{
+"cls": "program",
+"id": "project-mogul",
+"label": "Project MOGUL",
+"tier": "B"
+},
+{
+"cls": "document",
+"id": "raaf-press-release-1947",
+"label": "RAAF Press Release, 8 July 1947",
+"tier": "B"
+},
+{
+"cls": "person",
+"id": "roger-ramey",
+"label": "Roger M. Ramey",
+"tier": "B"
+},
+{
+"cls": "person",
+"id": "walter-haut",
+"label": "Walter Haut",
+"tier": "B"
+}
+],
+"short": "Roswell Incident",
+"sources": [
+{
+"date": "1995-07-28",
+"name": "GAO/NSIAD-95-187 (full PDF)",
+"url": "https://www.gao.gov/assets/nsiad-95-187.pdf"
+},
+{
+"date": "1995-01-01",
+"name": "USAF, The Roswell Report: Fact vs. Fiction in the New Mexico Desert (1995)",
+"url": "https://archive.org/details/DTIC_ADA326148"
+},
+{
+"date": "1997-06-24",
+"name": "USAF, The Roswell Report: Case Closed (1997)",
+"url": "https://archive.org/details/DTIC_ADA326147"
+},
+{
+"date": "2026-08-12",
+"name": "NARA — Project Blue Book / Air Force UFO records",
+"url": "https://www.archives.gov/research/military/air-force/ufos"
+},
+{
+"date": "2026-08-12",
+"name": "Wikipedia - Roswell incident",
+"url": "https://en.wikipedia.org/wiki/Roswell_incident"
+},
+{
+"date": "1995-07-28",
+"name": "GAO/NSIAD-95-187",
+"url": "https://www.gao.gov/products/nsiad-95-187"
+},
+{
+"date": "1997-06-24",
+"name": "USAF - The Roswell Report: Case Closed (PDF)",
+"url": "https://media.defense.gov/2010/Oct/27/2001330256/-1/-1/0/AFD-101027-030.pdf"
+}
+],
+"sub": "Recovery and retraction, 7-9 July 1947",
+"tier": "A",
+"tierRationale": "Re-graded A on a global pass (rank 29 of 1027, score 99). 17 connections, 5 of them custody/witness/funding/programmatic, 3 official denials recorded against it. Axes C3/A2/D3.",
+"timeline": [
+{
+"date": "1947-07-06",
+"id": "tl-1947-brazel",
+"label": "Brazel reports the Foster Ranch debris",
+"precision": "day",
+"strand": "program",
+"text": "Mac Brazel reports the debris to Chaves County Sheriff George Wilcox, who calls Roswell Army Air Field. Maj. Jesse Marcel of the 509th Bomb Group and Capt. Sheridan Cavitt of the CIC are sent to retrieve it.",
+"tier": "A"
+},
+{
+"date": "1947-07-08",
+"id": "tl-1947-haut",
+"label": "RAAF announces a disc, and takes it back the same day",
+"precision": "day",
+"strand": "coverup",
+"text": "1st Lt. Walter Haut issues the 'flying disc' release; within hours Brig. Gen. Roger Ramey presents the material at Fort Worth as a weather balloon. The Air Force will concede in 1994 that the balloon statement was a cover story.",
+"tier": "A"
+},
+{
+"date": "1995-07-28",
+"id": "tl-1995-gao",
+"label": "GAO finds the Roswell records destroyed",
+"precision": "day",
+"strand": "oversight",
+"text": "GAO/NSIAD-95-187 reports that RAAF outgoing messages from October 1946 to December 1949 were destroyed with no disposition authority located. No agency has ever rebutted it.",
+"tier": "A"
+}
+]
+}

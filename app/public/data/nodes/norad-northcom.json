@@ -1,0 +1,209 @@
+{
+"A": 3,
+"C": 0,
+"D": 2,
+"band": null,
+"claims": [
+{
+"source": "NORAD via The War Zone, 30 October 2024",
+"text": "NORAD recorded more than 600 drone reports above US military installations since 2022.",
+"tier": 2
+},
+{
+"source": "The War Zone, 30 October 2024",
+"text": "Guillot established Falcon Peak, a counter-drone demonstration with multiple vendors, and advocates a layered approach including directed energy.",
+"tier": 2
+},
+{
+"source": "NORAD Newsroom press releases, 2026",
+"text": "NORAD continued issuing intercept press releases through 2026, including multiple temporary flight restriction violation intercepts in the Northeast and over New Jersey.",
+"tier": 1
+}
+],
+"cls": "institution",
+"cluster": "other",
+"connections": [
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": "2013-12-06",
+"dateStart": "2013-12-06",
+"direction": "in",
+"edgeLabel": "USNORTHCOM withheld two responsive fastwalker documents and refused to search NORAD",
+"id": "defense-support-program",
+"l0": false,
+"label": "Defense Support Program (DSP) missile early warning satellites",
+"note": "USNORTHCOM located two responsive documents on the fastwalker designation and withheld both, and declined to search NORAD's holdings on the ground that NORAD sits outside FOIA.",
+"sources": [
+{
+"date": "2013-12-06",
+"name": "USNORTHCOM FOIA response letter, case FY14-19NOV2013-07",
+"url": "https://documents.theblackvault.com/documents/ufos/fastwalkers/FY14-19NOV2013-07.pdf"
+}
+],
+"tier": "B",
+"type": "denial"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "2024",
+"direction": "in",
+"edgeLabel": "Commander, NORAD and USNORTHCOM from February 2024",
+"id": "gregory-guillot",
+"l0": false,
+"label": "Gregory M. Guillot",
+"note": "Guillot's public statements on Langley and on the 2026 incursions are the command's authoritative position.",
+"sources": [
+{
+"date": "2024-10-30",
+"name": "The War Zone - NORAD commander on the Langley incursions",
+"url": "https://www.twz.com/air/heres-what-norads-commander-just-told-us-about-the-langley-afb-drone-incursions"
+},
+{
+"date": "2026-03-25",
+"name": "The War Zone - US battled drone incursions over key bases after Epic Fury",
+"url": "https://www.twz.com/news-features/u-s-battled-drone-incursions-over-key-bases-at-home-after-launch-of-epic-fury"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 2,
+"cls": "event",
+"dateEnd": "2024",
+"dateStart": "2023",
+"direction": "in",
+"edgeLabel": "Centrepiece of Guillot's 90-day counter-UAS assessment",
+"id": "langley-2023-incursions",
+"l0": true,
+"label": "Langley AFB Drone Incursions (December 2023)",
+"note": "Guillot testified the Langley incidents dominated his assessment on taking command in February 2024 and were 'the centerpiece' of his review.",
+"sources": [
+{
+"date": "2024-03-15",
+"name": "The War Zone - mysterious drones swarmed Langley AFB for weeks",
+"url": "https://www.twz.com/air/mysterious-drones-swarmed-langley-afb-for-weeks"
+},
+{
+"date": "2024-10-30",
+"name": "The War Zone - NORAD commander on the Langley incursions",
+"url": "https://www.twz.com/air/heres-what-norads-commander-just-told-us-about-the-langley-afb-drone-incursions"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 2,
+"cls": "legislation",
+"dateEnd": null,
+"dateStart": "2025-12-10",
+"direction": "in",
+"edgeLabel": "demands an intercept history since 2004",
+"id": "ndaa26-uap-provisions",
+"l0": false,
+"label": "NDAA FY2026 UAP provisions (Secs. 1671-1673)",
+"note": "AARO must brief Congress on the number, location and nature of UAP intercepts by NORAD and US Northern Command since 2004 and the data collected during them.",
+"sources": [
+{
+"date": "2025-12-10",
+"name": "DefenseScoop, FY2026 NDAA UAP provisions",
+"url": "https://defensescoop.com/2025/12/10/uap-ufo-military-intercepts-north-america-fy-2026-ndaa/"
+}
+],
+"tier": "A",
+"type": "legislative"
+},
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": "2023",
+"dateStart": "2023",
+"direction": "in",
+"edgeLabel": "NORAD-controlled fighters destroyed three unidentified objects in four days",
+"id": "shootdowns-feb-2023",
+"l0": false,
+"label": "February 2023 Alaska, Yukon and Lake Huron Shootdowns",
+"note": "Two F-16CMs of the Minnesota Air National Guard's 148th Fighter Wing destroyed the Lake Huron object with an AIM-9X at roughly 20,000 feet on 12 February 2023.",
+"sources": [
+{
+"date": "2026-05-22",
+"name": "The War Zone - we finally see the object shot down over Lake Huron",
+"url": "https://www.twz.com/air/we-finally-see-the-mysterious-object-shot-down-by-f-16s-over-lake-huron"
+}
+],
+"tier": "B",
+"type": "institutional"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "1958",
+"deg": 5,
+"denials": [
+{
+"by": {
+"id": "defense-support-program",
+"label": "Defense Support Program (DSP) missile early warning satellites"
+},
+"claimTier": 1,
+"denialKind": null,
+"label": "USNORTHCOM withheld two responsive fastwalker documents and refused to search NORAD",
+"note": "USNORTHCOM located two responsive documents on the fastwalker designation and withheld both, and declined to search NORAD's holdings on the ground that NORAD sits outside FOIA.",
+"of": {
+"id": "norad-northcom",
+"label": "NORAD and US Northern Command"
+},
+"sources": [
+{
+"date": "2013-12-06",
+"name": "USNORTHCOM FOIA response letter, case FY14-19NOV2013-07",
+"url": "https://documents.theblackvault.com/documents/ufos/fastwalkers/FY14-19NOV2013-07.pdf"
+}
+]
+}
+],
+"desc": "The command responsible for detecting and defeating air threats to North America, and the institution whose public statements since 2023 constitute the government's most damaging admissions on the observational record. NORAD counted more than 600 drone reports above US military installations since 2022. Its commander since February 2024, Gen. Gregory Guillot, made counter-UAS the centrepiece of a 90-day assessment driven by the Langley incursions, established the Falcon Peak counter-drone demonstration series, and stated on the record that he knew of no 'organized or unorganized foreign nexus' to Langley. In February 2023 NORAD-controlled fighters destroyed three unidentified objects over Alaska, the Yukon and Lake Huron in four days, none of which were recovered intact and two of which an allied government's own Secret memorandum described as unverified as to function and propulsion. By March 2026 Guillot confirmed detections over installations had increased year on year with roughly a quarter defeated. A homeland air defence command that cannot attribute persistent intrusions over its own bomber and fighter bases is the strongest available argument that the observational record is a live national-security problem rather than a historical curiosity.",
+"domains": [
+"_rs-archive-mirror",
+"aviators-incidents"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "norad-northcom",
+"l0": false,
+"label": "NORAD and US Northern Command",
+"locLabel": null,
+"members": null,
+"short": "NORAD and US Northern Command",
+"sources": [
+{
+"date": "2026-05-18",
+"name": "Archived: NORAD Newsroom - press releases (Wayback 2026-05-18)",
+"url": "https://web.archive.org/web/20260518213308/https://www.norad.mil/Newsroom/Press-Releases/"
+},
+{
+"date": "2024-10-30",
+"name": "The War Zone - NORAD commander on the Langley incursions",
+"url": "https://www.twz.com/air/heres-what-norads-commander-just-told-us-about-the-langley-afb-drone-incursions"
+},
+{
+"date": "2026-08-12",
+"name": "NORAD Newsroom - press releases",
+"url": "https://www.norad.mil/Newsroom/Press-Releases/"
+}
+],
+"sub": "Homeland air defence combatant command",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 491 of 1027, score 29). 5 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A3/D2.",
+"timeline": []
+}

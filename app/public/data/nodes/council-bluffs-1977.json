@@ -1,0 +1,111 @@
+{
+"A": 0,
+"C": 3,
+"D": 1,
+"band": null,
+"claims": [
+{
+"source": "Sol Foundation Policy Briefing No. 3, citing the Daily Nonpareil (18 December 1977) and Greg Jerrett, 'Mystery at Big Lake: Fire in the Sky', Daily Nonpareil, 16 May 2004",
+"text": "Five independent groups of witnesses observed a red luminous mass descending from approximately 500-600 feet near a park in Council Bluffs on the evening of 17 December 1977; the assistant fire chief described a roughly four-by-six-foot mass of molten metal 'running, boiling down the edges of the levee'; police photographed the scene.",
+"tier": 1
+},
+{
+"source": "Bud Appleby, 'Chunk of Molten Metal Found in Bluffs Has Residents Puzzled', Des Moines Register, 26 January 1978, cited in Sol Briefing No. 3",
+"text": "Materials analyses in the weeks after the incident found the metal consisted of high-carbon steel and slag.",
+"tier": 1
+}
+],
+"cls": "event",
+"cluster": "witness",
+"connections": [
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "2022",
+"dateStart": "1977",
+"direction": "in",
+"edgeLabel": "Subject of the analysis: the 17 December 1977 molten mass",
+"id": "paper-nolan-vallee-2022",
+"l0": true,
+"label": "Nolan, Vallee, Jiang & Lemke (2022), Progress in Aerospace Sciences 128:100788",
+"note": "Five independent witness groups, police photography, contemporaneous press coverage and a preserved sample - the only complete civil chain of custody in the published literature.",
+"sources": [
+{
+"date": "2026-04-01",
+"name": "The Sol Foundation Science and Policy Briefings No. 3, Marik von Rennenkampff, 'First Peer-Reviewed Scientific Analysis of Possible UAP Materials Employs State-of-the-Art Technologies'",
+"url": "https://thesolfoundation.org/wp-content/uploads/2026/04/Sol_Policy_Briefing_Number_3-1.pdf"
+},
+{
+"date": "2026-08-12",
+"name": "Richard Warner, 'Close Encounter at Big Lake Park', Historical Society of Pottawattamie County",
+"url": "https://www.thehistoricalsociety.org/h/ufo.html"
+}
+],
+"tier": "B",
+"type": "investigative"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "1977",
+"deg": 1,
+"denials": [],
+"desc": "On the evening of 17 December 1977, five independent groups of witnesses in the vicinity of Big Lake Park in Council Bluffs, Iowa observed a red luminous mass descending from approximately 500-600 feet to the ground. One witness described 'a big round thing hovering in the sky below the tree tops', 'hovering, it wasn't moving', with 'red lights around the perimeter... blinking in sequence'. One of the first people to reach the site described a pool of molten metal that 'looked like a great big sparkler at first', then 'it cooled down, and it seemed like lava, glowing and bubbling'. The city's assistant fire chief arrived about twenty minutes later and described a roughly four-by-six-foot mass 'running, boiling down the edges of the levee'. Police photographed the scene and interviewed witnesses; one of those photographs is reproduced in the 2022 peer-reviewed study. Contemporaneous newspaper coverage appeared in the Daily Nonpareil on 18 December 1977 and in the Des Moines Register on 26 January 1978, and analyses conducted within weeks identified the material as high-carbon steel and slag. The case is the anchor of the entire modern materials literature precisely because it has what almost nothing else in the field has: multiple independent civilian witnesses, an immediate official response, contemporaneous press documentation, police photography, and a preserved physical sample - a civil chain of custody, complete, from 1977 to a Stanford mass spectrometer.",
+"domains": [
+"scientists-technical"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "1",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "council-bluffs-1977",
+"l0": false,
+"label": "Council Bluffs, Iowa molten metal fall, 17 December 1977",
+"locLabel": null,
+"members": null,
+"short": "Council Bluffs, Iowa molten metal fall, 17 December 1977",
+"sources": [
+{
+"date": "2026-04-01",
+"name": "The Sol Foundation Science and Policy Briefings No. 3, Marik von Rennenkampff, 'First Peer-Reviewed Scientific Analysis of Possible UAP Materials Employs State-of-the-Art Technologies'",
+"url": "https://thesolfoundation.org/wp-content/uploads/2026/04/Sol_Policy_Briefing_Number_3-1.pdf"
+},
+{
+"date": "2026-08-12",
+"name": "Richard Warner, 'Close Encounter at Big Lake Park', Historical Society of Pottawattamie County",
+"url": "https://www.thehistoricalsociety.org/h/ufo.html"
+},
+{
+"date": "2022-01-01",
+"name": "Nolan, Vallee, Jiang & Lemke, 'Improved instrumental techniques, including isotopic analysis, applicable to the characterization of unusual materials with potential relevance to aerospace forensics', Progress in Aerospace Sciences 128:100788",
+"url": "https://doi.org/10.1016/j.paerosci.2021.100788"
+}
+],
+"sub": "Five independent witness groups; police photographs; ~four-by-six-foot molten mass",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 735 of 1027, score 21). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C3/A0/D1.",
+"timeline": [
+{
+"date": "1977-12-17",
+"id": "st-1977-cb",
+"label": "Council Bluffs fall",
+"precision": "day",
+"strand": "witness",
+"text": "Five independent witness groups see a luminous mass descend near Big Lake Park, Council Bluffs, Iowa; police photograph a four-by-six-foot molten metal mass. The sample survives into the modern literature.",
+"tier": "A"
+},
+{
+"date": "1978-01-26",
+"id": "st-1978-cb-analysis",
+"label": "First Council Bluffs analysis",
+"precision": "day",
+"strand": "program",
+"text": "The Des Moines Register reports the initial materials analyses identifying the metal as high-carbon steel and slag - the baseline the 2022 Stanford work would revisit.",
+"tier": "B"
+}
+]
+}

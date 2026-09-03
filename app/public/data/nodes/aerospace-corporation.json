@@ -1,0 +1,262 @@
+{
+"A": 3,
+"C": 2,
+"D": 1,
+"band": null,
+"claims": [
+{
+"source": "American Alchemy with Jesse Michels, 'Congressman: President Trump Was Briefed On Alien Hybrids!', 2 July 2026, 0:19:48 https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL2654068830.mp3",
+"text": "The corporation has now been questioned by Congress on the subject, on one member's account. On American Alchemy with Jesse Michels, 2 July 2026, Rep. Eric Burlison said his office wrote to The Aerospace Corporation from the House Oversight Committee, that the corporation sent two members of its executive team, that the interview took place in a SCIF during the Biden administration, and that they had no knowledge of UAP or reverse engineering: 'they knew nothing' (0:19:48). No document of that meeting has been opened for this board.",
+"tier": 2
+},
+{
+"source": "Aerospace Corporation, 'Dedicated to the Space Enterprise' and 'Value of Aerospace FFRDC'",
+"text": "The Aerospace Corporation was founded in 1960 and operates the only FFRDC committed exclusively to the space enterprise, now for the United States Space Force.",
+"tier": 1
+},
+{
+"source": "CRS Report R44629 funding table; USAspending.gov award records",
+"text": "The Aerospace FFRDC was funded at approximately $1,309.8 million in FY2024; its principal Space Force contract FA880219C0001 is recorded on USAspending at approximately $8.67 billion for 2018-2028.",
+"tier": 1
+},
+{
+"source": "USAspending.gov award records",
+"text": "Aerospace holds DOE contract 89233120CNA000134 for system engineering and integration support and independent technical and programmatic analysis for the Offices of Defense Nuclear Nonproliferation and Defense Programs.",
+"tier": 1
+},
+{
+"source": "OTA, 'A History of the Department of Defense Federally Funded Research and Development Centers', 1995",
+"text": "The Office of Technology Assessment's 1995 history records that the Air Force specifically insisted on restrictions in the Aerospace Corporation charter that it had not imposed on earlier FFRDCs.",
+"tier": 1
+},
+{
+"source": "Burlison quoted by NewsNation, 15 May 2026, and Cybernews, 25 June 2026",
+"text": "Rep. Eric Burlison has stated his investigation is following the trail into RAND, MITRE, Aerospace Corp, MIT Lincoln Labs and the prime contractors.",
+"tier": 2
+},
+{
+"source": "Aerospace Corporation corporate officers page, accessed 12 August 2026",
+"text": "The Aerospace Corporation's corporate officers page lists Tanya Pemberton as President and Chief Executive Officer.",
+"tier": 2
+},
+{
+"source": "Ralph Blumenthal, The New York Times, 23 July 2020",
+"text": "Eric W. Davis was working for The Aerospace Corporation at the time of the July 2020 New York Times report describing his classified briefings on retrievals.",
+"tier": 2
+},
+{
+"source": "Inference from the absence of any statement or release",
+"text": "No public document establishes whether The Aerospace Corporation had any institutional role in, or knowledge of, the retrievals Davis described, and the corporation has not addressed it publicly.",
+"tier": 3
+}
+],
+"cls": "institution",
+"cluster": "ffrdc",
+"connections": [
+{
+"claimTier": 1,
+"cls": "domain",
+"dateEnd": null,
+"dateStart": "1960",
+"direction": "out",
+"edgeLabel": "Operates the only FFRDC dedicated exclusively to the space enterprise",
+"id": "d-ffrdc",
+"l0": false,
+"label": "The FFRDC Seam",
+"note": "Founded 1960 at Air Force insistence after the Ramo-Wooldridge conflict-of-interest problem; FY2024 funding approximately $1,309.8 million.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Aerospace Corporation",
+"url": "https://aerospace.org/dedicated-space-enterprise"
+},
+{
+"date": "2026-05-15",
+"name": "CRS Report R44629",
+"url": "https://www.everycrsreport.com/reports/R44629.html"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "2026",
+"direction": "in",
+"edgeLabel": "Named as a target of his records investigation",
+"id": "eric-burlison",
+"l0": false,
+"label": "Eric Burlison",
+"note": "Aerospace holds the technical judgement on national security space sensing; no letter to Aerospace has been made public as of 12 August 2026.",
+"sources": [
+{
+"date": "2026-05-16",
+"name": "The Hill: House Republican requests UFO talk from private contractor",
+"url": "https://thehill.com/homenews/house/5880943-house-gop-ufo-programs-pentagon-private-contractors/"
+},
+{
+"date": "2026-05-15",
+"name": "NewsNation",
+"url": "https://www.newsnationnow.com/space/ufo/lawmaker-ufo-talk-private-contractor/"
+},
+{
+"date": "2026-06-25",
+"name": "Cybernews",
+"url": "https://cybernews.com/news/burlison-ufo-uap-project-blue/"
+}
+],
+"tier": "A",
+"type": "investigative"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "2019",
+"direction": "in",
+"edgeLabel": "Employed by the FFRDC operator at the time of the 2019-2020 briefings",
+"id": "eric-davis",
+"l0": false,
+"label": "Eric W. Davis",
+"note": "The New York Times identified Davis as working for Aerospace Corp. when reporting his classified briefings on retrievals. The corporation has never publicly addressed whether it had any institutional role.",
+"sources": [
+{
+"date": "2020-07-23",
+"name": "Ralph Blumenthal, 'No Longer in the Shadows, Pentagon's U.F.O. Unit Will Make Some Findings Public', The New York Times",
+"url": "https://www.nytimes.com/2020/07/23/us/politics/pentagon-ufo-harry-reid-navy.html"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 3,
+"cls": "document",
+"dateEnd": "2026",
+"dateStart": "1960",
+"direction": "in",
+"edgeLabel": "Groups Aerospace Corporation with MITRE as the FFRDC layer",
+"id": "gerb-mitre-investigation",
+"l0": true,
+"label": "UAP Gerb - The MITRE Corporation investigation",
+"note": "Gerb's FFRDC thesis treats MITRE and the Aerospace Corporation as parallel instances of the same mechanism; the Aerospace link is reinforced by Stephanie O'Sullivan's board membership there after ODNI. The specific allegation against Aerospace is inference from the model rather than a separately documented claim.",
+"sources": [
+{
+"date": "2026-08-07",
+"name": "UAP Gerb - The MITRE Corporation investigation",
+"url": "https://www.youtube.com/watch?v=107BtDYhTkA"
+},
+{
+"date": "2026-03-20",
+"name": "UAP Gerb - Northrop Grumman & TRW Vol.2",
+"url": "https://www.youtube.com/watch?v=0kLSp0lH-JQ"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 2,
+"cls": "document",
+"dateEnd": "2026",
+"dateStart": "1980",
+"direction": "in",
+"edgeLabel": "Traces Stephanie O'Sullivan from TRW to ODNI to the Aerospace board",
+"id": "gerb-northrop-trw-investigation",
+"l0": false,
+"label": "UAP Gerb - Northrop Grumman & TRW investigation (Vol.2)",
+"note": "O'Sullivan is a former TRW engineer, former Principal Deputy Director of National Intelligence and a current Aerospace Corporation board member - a single career spanning prime contractor, IC leadership and FFRDC governance.",
+"sources": [
+{
+"date": "2026-03-20",
+"name": "UAP Gerb - Northrop Grumman & TRW Vol.2",
+"url": "https://www.youtube.com/watch?v=0kLSp0lH-JQ"
+}
+],
+"tier": "B",
+"type": "institutional"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "1960",
+"deg": 5,
+"denials": [],
+"desc": "Aerospace is the FFRDC that owns the technical judgement on everything the United States puts into, or detects from, orbit - and it is the second named target of the congressional inquiry. It was created in 1960 at the Air Force's insistence, announced by Lt. Gen. Bernard Schriever, to provide dedicated scientific and technical planning for the military space and ballistic missile programmes after the conflict-of-interest problems of the earlier Ramo-Wooldridge arrangement. Congress's Office of Technology Assessment noted in its 1995 history of DoD FFRDCs that the Air Force insisted on specific restrictions in the Aerospace charter that it had not imposed elsewhere - the government designed this one to be structurally constrained precisely because it would sit at the centre of national security space. Today Aerospace operates the only FFRDC committed exclusively to the space enterprise, with roughly 4,800 employees, funded at approximately 1,309.8 million dollars in FY2024, under Space Force contract FA880219C0001 recorded on USAspending at approximately 8.67 billion dollars over 2018-2028. Its relevance to this board is direct: any persistent orbital or transmedium object detected by national security space sensors would be characterised technically by Aerospace, not by the Space Force in-house, and Aerospace also performs system engineering and integration for NNSA's Defense Nuclear Nonproliferation and Defense Programs offices under DOE contract 89233120CNA000134. Rep. Burlison has named Aerospace explicitly among the organisations his investigation is following, and Ross Coulthart has publicly raised Aerospace and MITRE in connection with the 2026 UAP Governance Board. No document has been produced placing Aerospace in a legacy programme. What is documented is that it holds the technical keys to the space sensor picture and that Congress has now put it on the list.",
+"domains": [
+"ffrdcs",
+"scientists-technical"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "aerospace-corporation",
+"l0": false,
+"label": "The Aerospace Corporation",
+"locLabel": null,
+"members": null,
+"short": "The Aerospace Corporation",
+"sources": [
+{
+"date": "2026-07-02",
+"name": "American Alchemy with Jesse Michels, 'Congressman: President Trump Was Briefed On Alien Hybrids!', episode audio",
+"url": "https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL2654068830.mp3"
+},
+{
+"date": "2026-08-12",
+"name": "The Aerospace Corporation - Dedicated to the Space Enterprise",
+"url": "https://aerospace.org/dedicated-space-enterprise"
+},
+{
+"date": "2026-08-12",
+"name": "The Aerospace Corporation - Value of Aerospace FFRDC",
+"url": "https://aerospace.org/article/value-aerospace-ffrdc"
+},
+{
+"date": "2026-08-12",
+"name": "The Aerospace Corporation - Corporate Officers",
+"url": "https://aerospace.org/leadership/corporate-officers"
+},
+{
+"date": "1995-06-01",
+"name": "OTA - A History of the Department of Defense Federally Funded Research and Development Centers",
+"url": "https://www.princeton.edu/~ota/disk1/1995/9501/950110.PDF"
+},
+{
+"date": "2026-05-15",
+"name": "NewsNation - Lawmaker requests UFO talk from private contractor",
+"url": "https://www.newsnationnow.com/space/ufo/lawmaker-ufo-talk-private-contractor/"
+},
+{
+"date": "2020-07-23",
+"name": "Ralph Blumenthal, 'No Longer in the Shadows, Pentagon's U.F.O. Unit Will Make Some Findings Public', The New York Times",
+"url": "https://www.nytimes.com/2020/07/23/us/politics/pentagon-ufo-harry-reid-navy.html"
+},
+{
+"date": "2020-07-23",
+"name": "Same NYT report republished, The Baltimore Sun",
+"url": "https://www.baltimoresun.com/news/nation-world/ct-nw-nyt-pentagon-ufo-unit-20200723-b3akzzy44zdgxc3bmhgko6nkgm-story.html"
+}
+],
+"sub": "Nonprofit operator of the Aerospace FFRDC for the US Space Force; El Segundo, CA; founded 1960",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 183 of 1027, score 45). 5 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A3/D1.",
+"timeline": [
+{
+"date": "1960-06-03",
+"id": "tl-ffrdc-1960-aerospace",
+"label": "The Aerospace Corporation founded",
+"precision": "month",
+"strand": "program",
+"text": "Announced by Lt. Gen. Bernard Schriever, Aerospace is created to provide dedicated technical planning for military space and ballistic missile programmes, with charter restrictions the Air Force had not imposed on earlier FFRDCs.",
+"tier": "B"
+}
+]
+}

@@ -1,0 +1,158 @@
+{
+"A": 1,
+"C": 0,
+"D": 2,
+"affiliations": [
+"McDonnell Douglas / NASA manned spaceflight programmes, aerospace engineer",
+"Project VISIT (Vehicle Internal Systems Investigative Team)",
+"MUFON, International Director 2000-2006"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "1981-02",
+"event": "Records the Parkway Hospital interview with Betty Cash and Vickie Landrum",
+"precision": "month"
+},
+{
+"date": "1981-02-28",
+"event": "Conducts the on-site investigation with Vickie and Colby Landrum",
+"precision": "day"
+},
+{
+"date": "1981-03-04",
+"event": "Files a 35-page preliminary report with MUFON on behalf of Project VISIT",
+"precision": "day"
+},
+{
+"date": "1984-07",
+"event": "Presents 'Cash-Landrum Case: Speculation About the Medical Effects' at the MUFON UFO Symposium",
+"precision": "month"
+},
+{
+"date": "1998",
+"event": "Publishes 'The Cash-Landrum UFO Incident'",
+"precision": "year"
+},
+{
+"date": "2000",
+"event": "Becomes MUFON International Director (to 2006)",
+"precision": "year"
+}
+],
+"claims": [
+{
+"source": "Cash-Landrum case document collection, index to the original case report",
+"text": "Schuessler and Project VISIT filed a 35-page preliminary report on the Cash-Landrum case with MUFON dated 4 March 1981, following an on-site investigation dated 28 February 1981 and a taped hospital interview in early February 1981.",
+"tier": 1
+},
+{
+"source": "Contemporary accounts and Schuessler's own report",
+"text": "Vickie Landrum was directed to Schuessler after telephoning NASA about the incident.",
+"tier": 2
+},
+{
+"source": "Philip J. Klass's analysis of Schuessler's published data, 1998",
+"text": "Schuessler found no radioactivity when he checked Betty Cash's car with a Geiger counter in early 1981.",
+"tier": 2
+}
+],
+"cls": "person",
+"cluster": "research",
+"conflicts": [
+"Sceptics including Philip Klass, Gary Posner, Robert Sheaffer and Brian Dunning have used Schuessler's own published medical records to argue the injuries pre-dated or were unrelated to the encounter."
+],
+"connections": [
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "1998",
+"dateStart": "1981-02",
+"direction": "out",
+"edgeLabel": "Investigator of record from February 1981",
+"id": "betty-cash",
+"l0": false,
+"label": "Betty Cash",
+"note": "Schuessler and Project VISIT taped the hospital interview in early February 1981, conducted the on-site investigation on 28 February 1981 and filed a 35-page report with MUFON on 4 March 1981; he published the case file in 1998.",
+"sources": [
+{
+"date": "2019-10-03",
+"name": "Curt Collins, Cash-Landrum UFO Case Document Collection",
+"url": "https://www.blueblurrylines.com/search?q=lawsuit+Cash+Landrum"
+}
+],
+"tier": "C",
+"type": "investigative"
+},
+{
+"claimTier": 2,
+"cls": "institution",
+"dateEnd": "2006",
+"dateStart": "1981",
+"direction": "out",
+"edgeLabel": "MUFON International Director 2000-2006 and case investigator",
+"id": "mufon",
+"l0": false,
+"label": "Mutual UFO Network (MUFON)",
+"note": "Schuessler investigated Cash-Landrum for MUFON from 1981 and served as its International Director from 2000 to 2006.",
+"sources": [
+{
+"date": "2019-10-03",
+"name": "Curt Collins, Cash-Landrum UFO Case Document Collection",
+"url": "https://www.blueblurrylines.com/search?q=lawsuit+Cash+Landrum"
+}
+],
+"tier": "C",
+"type": "institutional"
+}
+],
+"date": "2000-01-01",
+"dateEnd": null,
+"dateStart": "2000-01-01",
+"deg": 2,
+"denials": [],
+"domains": [
+"w2-retrieval-literature"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "2",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "john-schuessler",
+"instId": "mufon",
+"l0": false,
+"label": "John F. Schuessler",
+"loc": "Colorado",
+"locId": null,
+"members": null,
+"narrative": "John F. Schuessler is the reason the Cash-Landrum case has a documentary record at all. An aerospace engineer working on NASA manned spaceflight programmes through McDonnell Douglas, he was the person Vickie Landrum was steered to when she telephoned NASA in early 1981, and with his group Project VISIT he began investigating within weeks: a taped interview at Parkway Hospital in early February 1981, an on-site investigation on 28 February 1981, and a 35-page preliminary report to MUFON dated 4 March 1981. He then spent seventeen years accumulating the witnesses' medical records, radiological survey results, physician correspondence and legal papers, publishing them in 'The Cash-Landrum UFO Incident' (1998) - which is why sceptics such as Gary Posner and Brian Dunning have been able to argue against the case using Schuessler's own printed medical documentation. He served as MUFON International Director from 2000 to 2006. Schuessler is the type specimen of the credentialled contractor-engineer investigator, the same category as Robert M. Wood and Stanton Friedman, and his significance for this board is that he built the only major UFO case file assembled to something approaching a medico-legal standard - and that the case still failed in federal court, on evidence.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "John F. Schuessler",
+"sources": [
+{
+"date": "2019-10-03",
+"name": "Curt Collins, 'The Cash-Landrum UFO Case Document Collection', Blue Blurry Lines",
+"url": "https://www.blueblurrylines.com/search?q=lawsuit+Cash+Landrum"
+},
+{
+"date": "1986-08-21",
+"name": "The Cash-Landrum File: Civil Action No. H-84-348 - docket sheet, pleadings and Order of Dismissal (scan)",
+"url": "https://files.afu.se/Downloads/Books/Other/Quest_Publications/Quest_Publications_101-Cash_Landrum_File-Civil_Action.pdf"
+}
+],
+"status": "active",
+"sub": "NASA/McDonnell Douglas aerospace engineer; MUFON International Director 2000-2006; Cash-Landrum investigator",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 853 of 1027, score 16). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D2.",
+"timeline": [],
+"unexplainedResidual": null,
+"unverified": [
+"Schuessler's date of birth and the exact terms of his NASA contractor role."
+]
+}

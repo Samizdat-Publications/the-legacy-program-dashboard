@@ -1,0 +1,113 @@
+{
+"A": 0,
+"C": 0,
+"D": 2,
+"band": null,
+"claims": [
+{
+"source": "Initiative participants' contemporaneous accounts and the document's own distribution statement",
+"text": "'The Best Available Evidence' was compiled under Marie Galbraith with Stanton Friedman and Don Berliner, funded by Laurance Rockefeller, and distributed in 1995 to officials, legislators and heads of state.",
+"tier": 2
+}
+],
+"cls": "document",
+"cluster": "oversight",
+"connections": [
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "1995",
+"dateStart": "1993",
+"direction": "in",
+"edgeLabel": "Galbraith compiled 'The Best Available Evidence'",
+"id": "marie-galbraith",
+"l0": false,
+"label": "Marie 'Bootsie' Galbraith",
+"note": "Compiled with Stanton Friedman and Don Berliner under Rockefeller funding and distributed to legislators, officials and heads of state in 1995.",
+"sources": [
+{
+"date": "2019-09-16",
+"name": "Clinton Digital Library, FOIA collection 2006-0480-F, 'Laurance Rockefeller' (Clinton-Rockefeller correspondence)",
+"url": "https://clinton.presidentiallibraries.us/items/show/36323"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 2,
+"cls": "program",
+"dateEnd": "1995",
+"dateStart": "1995",
+"direction": "in",
+"edgeLabel": "The briefing document was the initiative's principal instrument",
+"id": "rockefeller-initiative",
+"l0": false,
+"label": "The Rockefeller UFO Disclosure Initiative",
+"note": "The document was deliberately written as a government-style assessment rather than a popular book.",
+"sources": [
+{
+"date": "2019-09-16",
+"name": "Clinton Digital Library, FOIA collection 2006-0480-F, 'Laurance Rockefeller' (Clinton-Rockefeller correspondence)",
+"url": "https://clinton.presidentiallibraries.us/items/show/36323"
+},
+{
+"date": "2019-09-16",
+"name": "Clinton Digital Library, FOIA collection 2006-0476-F, 'New Mexico Roswell'",
+"url": "https://clinton.presidentiallibraries.us/items/show/36328"
+}
+],
+"tier": "C",
+"type": "programmatic"
+}
+],
+"coords": null,
+"dateEnd": "1995",
+"dateStart": "1995",
+"deg": 2,
+"denials": [],
+"desc": "The Rockefeller Initiative's central artefact: a briefing document compiled under Marie Galbraith with Stanton Friedman and Don Berliner, funded by Laurance Rockefeller, and distributed in 1995 to members of Congress, senior officials and foreign heads of state. It was deliberately written in the register of a government assessment rather than a popular book - leading with instrumented, multiple-witness and officially documented cases, citing FOIA releases and naming officials. It is the direct methodological ancestor of everything this board does. It also demonstrates the ceiling of the private approach: a document of that quality, delivered by that messenger, to that distribution list, produced no policy response whatsoever, which tells you that the obstacle in 1995 was not the quality of the evidence or the credibility of the advocate.",
+"domains": [
+"history-1970s-2000s"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "1",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "best-available-evidence",
+"l0": false,
+"label": "UFO Briefing Document: The Best Available Evidence (1995)",
+"locLabel": null,
+"members": null,
+"short": "UFO Briefing Document: The Best Available Evidence (1995)",
+"sources": [
+{
+"date": "2019-09-16",
+"name": "Clinton Digital Library, FOIA collection 2006-0480-F, 'Laurance Rockefeller' (Clinton-Rockefeller correspondence)",
+"url": "https://clinton.presidentiallibraries.us/items/show/36323"
+},
+{
+"date": "2019-09-16",
+"name": "Clinton Digital Library, FOIA collection 2006-0476-F, 'New Mexico Roswell'",
+"url": "https://clinton.presidentiallibraries.us/items/show/36328"
+}
+],
+"sub": "Rockefeller-funded briefing paper for officials and heads of state",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 965 of 1027, score 11). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D2.",
+"timeline": [
+{
+"date": "1995-01-01",
+"id": "t-1995-bae",
+"label": "'The Best Available Evidence' distributed",
+"precision": "year",
+"strand": "oversight",
+"text": "Marie Galbraith's Rockefeller-funded briefing document goes to legislators, senior officials and heads of state. No policy response follows.",
+"tier": "B"
+}
+]
+}

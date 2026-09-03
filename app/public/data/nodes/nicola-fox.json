@@ -1,0 +1,174 @@
+{
+"A": 1,
+"C": 0,
+"D": 1,
+"affiliations": [
+"Johns Hopkins Applied Physics Laboratory (Parker Solar Probe project scientist)",
+"NASA Heliophysics Division Director (2018-2023)",
+"NASA Associate Administrator, Science Mission Directorate (2023- )"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "2023-09-14",
+"event": "Appears at the NASA UAP report briefing; NASA announces but does not name its Director of UAP Research",
+"precision": "day"
+}
+],
+"claims": [
+{
+"source": "Nicola Fox, NASA UAP report media briefing, 14 September 2023",
+"text": "'The language of scientists is data.'",
+"tier": 2
+},
+{
+"source": "The Debrief, 14 September 2023; NASA UAP briefing",
+"text": "NASA announced the appointment of a Director of UAP Research at the 14 September 2023 briefing but did not disclose the individual's name at that briefing; a subsequent statement identified Mark McInerney.",
+"tier": 1
+}
+],
+"cls": "person",
+"cluster": "research",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "2023",
+"dateStart": "2023",
+"direction": "out",
+"edgeLabel": "NASA announced the UAP research director but withheld the name at the briefing",
+"id": "mark-mcinerney",
+"l0": false,
+"label": "Mark McInerney",
+"note": "The agency that had spent a year arguing stigma prevents UAP science then shielded its own appointee from that stigma by not naming him; subsequent reporting identified Mark McInerney.",
+"sources": [
+{
+"date": "2023-09-14",
+"name": "The Debrief - NASA IST publishes findings, agency appoints UAP research director",
+"url": "https://thedebrief.org/nasas-uap-independent-study-team-publishes-its-findings-as-the-agency-appoints-a-new-nasa-director-of-uap-research/"
+}
+],
+"tier": "C",
+"type": "denial"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2023-09-14",
+"direction": "out",
+"edgeLabel": "Announced the appointment of a NASA Director of UAP Research",
+"id": "nasa",
+"l0": true,
+"label": "National Aeronautics and Space Administration",
+"note": "In the report foreword Fox, Associate Administrator for the Science Mission Directorate, wrote that 'NASA is appointing a Director of UAP Research to centralize communications'.",
+"sources": [
+{
+"date": "2023-09-14",
+"name": "NASA UAP Independent Study Team Report",
+"url": "https://smd-cms.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": "2023",
+"dateStart": "2023",
+"direction": "out",
+"edgeLabel": "NASA science chief at the report release briefing",
+"id": "nasa-uap-ist",
+"l0": true,
+"label": "NASA UAP Independent Study Team",
+"note": "Fox appeared at the 14 September 2023 briefing where NASA announced a Director of UAP Research without naming the appointee.",
+"sources": [
+{
+"date": "2023-09-14",
+"name": "The Debrief - NASA IST publishes findings, agency appoints UAP research director",
+"url": "https://thedebrief.org/nasas-uap-independent-study-team-publishes-its-findings-as-the-agency-appoints-a-new-nasa-director-of-uap-research/"
+}
+],
+"tier": "B",
+"type": "institutional"
+}
+],
+"date": "2023-09-14",
+"dateEnd": null,
+"dateStart": "2023-09-14",
+"deg": 3,
+"denials": [
+{
+"by": {
+"id": "nicola-fox",
+"label": "Nicola J. Fox"
+},
+"claimTier": 1,
+"denialKind": "directed",
+"label": "NASA announced the UAP research director but withheld the name at the briefing",
+"note": "The agency that had spent a year arguing stigma prevents UAP science then shielded its own appointee from that stigma by not naming him; subsequent reporting identified Mark McInerney.",
+"of": {
+"id": "mark-mcinerney",
+"label": "Mark McInerney"
+},
+"sources": [
+{
+"date": "2023-09-14",
+"name": "The Debrief - NASA IST publishes findings, agency appoints UAP research director",
+"url": "https://thedebrief.org/nasas-uap-independent-study-team-publishes-its-findings-as-the-agency-appoints-a-new-nasa-director-of-uap-research/"
+}
+]
+}
+],
+"domains": [
+"aviators-incidents"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "nicola-fox",
+"instId": "nasa",
+"l0": false,
+"label": "Nicola J. Fox",
+"loc": "Washington, DC",
+"locId": "l-dc",
+"members": null,
+"narrative": "Fox is the NASA science chief who stood on the stage on 14 September 2023 when the agency released the Independent Study Team report and announced it had appointed a Director of UAP Research - and then did not say who it was. Her framing of the agency's position was 'The language of scientists is data,' which is the correct scientific posture and also, in context, an admission that the data NASA could obtain was inadequate. The non-naming is the item that belongs on this board. NASA had just spent a year telling the public that stigma was the primary obstacle to studying UAP, and then withheld the identity of its own research director at the very briefing announcing the appointment. Subsequent reporting identified the appointee as Mark McInerney. The episode is a small, precisely dated demonstration of how the stigma structure reproduces itself inside the agency that was supposed to break it.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Nicola J. Fox",
+"sources": [
+{
+"date": "2023-09-14",
+"name": "The Debrief - NASA IST publishes findings, agency appoints UAP research director",
+"url": "https://thedebrief.org/nasas-uap-independent-study-team-publishes-its-findings-as-the-agency-appoints-a-new-nasa-director-of-uap-research/"
+},
+{
+"date": "2023-09-14",
+"name": "The Debrief - NASA UAP report key takeaways",
+"url": "https://thedebrief.org/nasas-unidentified-anomalous-phenomena-report-key-takeaways/"
+},
+{
+"date": "2026-08-12",
+"name": "NASA - UAP program page",
+"url": "https://science.nasa.gov/uap/"
+}
+],
+"status": "active",
+"sub": "Associate Administrator, NASA Science Mission Directorate (2023- )",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 818 of 1027, score 17). 3 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D1.",
+"timeline": [],
+"unexplainedResidual": null,
+"unverified": [
+"NASA's stated reason for withholding the director's name at the briefing has not been produced as a written agency statement."
+]
+}

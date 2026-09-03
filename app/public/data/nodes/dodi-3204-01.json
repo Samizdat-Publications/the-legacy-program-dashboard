@@ -1,0 +1,166 @@
+{
+"A": 2,
+"C": 0,
+"D": 2,
+"band": null,
+"claims": [
+{
+"source": "DoD Instruction 3204.01, 20 August 2014, incorporating Change 2, 9 July 2020",
+"text": "IR&D costs 'will be allowable as indirect expenses on covered contracts to the extent they are allocable and reasonable'; reporting is required only of major contractors allocating over $11 million in IR&D and B&P costs, via project summaries reviewed for cost allowability.",
+"tier": 1
+},
+{
+"source": "Public Law 118-31, Sec. 1687(b) (50 U.S.C. 3373 note)",
+"text": "NDAA FY2024 Sec. 1687(b) cites DoDI 3204.01 by number and change date and makes UAP-related IR&D unallowable as an indirect expense unless the material and information is made available to the appropriate congressional committees and congressional leadership.",
+"tier": 1
+}
+],
+"cls": "document",
+"cluster": "other",
+"connections": [
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2023",
+"dateStart": "2023",
+"direction": "in",
+"edgeLabel": "Grusch named contractor IR&D under oath as the funding channel for concealed UAP work",
+"id": "david-grusch",
+"l0": false,
+"label": "David Charles Grusch",
+"note": "Asked whether corporations overcharge government with the excess flowing to programs, Grusch answered 'Correct, through something called IR&D,' adding that 'IR&D is literally internal to the contractors... they do whatever they want.'",
+"sources": [
+{
+"date": "2023-07-26",
+"name": "House Oversight hearing transcript, 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency' (CHRG-118hhrg53022)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm"
+},
+{
+"date": "2020-07-09",
+"name": "DoD Instruction 3204.01, 'DoD Policy for Oversight of Independent Research and Development (IR&D)' (Change 2)",
+"url": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/320401p.pdf"
+}
+],
+"tier": "A",
+"type": "funding"
+},
+{
+"claimTier": 3,
+"cls": "institution",
+"dateEnd": "1997",
+"dateStart": "1968",
+"direction": "in",
+"edgeLabel": "Corporate self-funded UAP research is the historical precedent for the IR&D channel",
+"id": "mcdonnell-douglas",
+"l0": false,
+"label": "McDonnell Douglas Corporation",
+"note": "Robert Wood's late-1960s company-funded study at Huntington Beach is the earliest described instance of a prime studying the phenomenon on internal money with no reporting obligation - the pattern later formalised in IR&D policy. No company record of the study has been released.",
+"sources": [
+{
+"date": "2020-07-09",
+"name": "DoD Instruction 3204.01, 'DoD Policy for Oversight of Independent Research and Development (IR&D)' (Change 2)",
+"url": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/320401p.pdf"
+}
+],
+"tier": "C",
+"type": "funding"
+},
+{
+"claimTier": 1,
+"cls": "legislation",
+"dateEnd": null,
+"dateStart": "2023-12-22",
+"direction": "in",
+"edgeLabel": "Targets contractor independent research and development as a concealment route",
+"id": "ndaa-fy2024-1687",
+"l0": true,
+"label": "FY2024 NDAA sec. 1687 — Limitation on Use of Funds for Certain Unreported Programs",
+"note": "Sec. 1687(b) makes UAP-related IR&D unallowable as indirect expense under DoDI 3204.01 unless the material is made available to the committees and leadership.",
+"sources": [
+{
+"date": "2023-12-22",
+"name": "Public Law 118-31, FY2024 NDAA (govinfo enrolled text)",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm"
+}
+],
+"tier": "A",
+"type": "funding"
+},
+{
+"claimTier": 1,
+"cls": "legislation",
+"dateEnd": "2023",
+"dateStart": "2023",
+"direction": "out",
+"edgeLabel": "Congress legislated directly against the IR&D mechanism, citing the instruction by number and change date",
+"id": "ndaa-fy2024-1687",
+"l0": true,
+"label": "FY2024 NDAA sec. 1687 — Limitation on Use of Funds for Certain Unreported Programs",
+"note": "Sec. 1687(b) makes UAP-related IR&D unallowable as an indirect expense unless disclosed to the defense and intelligence committees and congressional leadership. A statute does not cite an accounting instruction that precisely unless someone has explained how it is being used.",
+"sources": [
+{
+"date": "2023-12-22",
+"name": "National Defense Authorization Act for Fiscal Year 2024, Public Law 118-31 (enacted text)",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm"
+},
+{
+"date": "2020-07-09",
+"name": "DoD Instruction 3204.01, 'DoD Policy for Oversight of Independent Research and Development (IR&D)' (Change 2)",
+"url": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/320401p.pdf"
+}
+],
+"tier": "A",
+"type": "legislative"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "2014",
+"deg": 3,
+"denials": [],
+"desc": "DoDI 3204.01 is the policy that makes the funding allegation legally coherent. It establishes that contractor independent research and development costs 'will be allowable as indirect expenses on covered contracts to the extent they are allocable and reasonable' - that is, a defense contractor's self-directed research is reimbursed by the taxpayer through contract overhead. Reporting obligations attach only to major contractors allocating more than $11 million in IR&D and bid-and-proposal costs, and consist of project summaries submitted to a Defense Innovation Marketplace portal for contracting officer and DCAA review of cost allowability, not of program disclosure to Congress. David Grusch named this exact mechanism under oath on 26 July 2023 - 'Correct, through something called IR&D... IR&D is literally internal to the contractors' - and Congress named the instruction by number, date and change number in NDAA FY2024 Sec. 1687(b) five months later, making UAP-related IR&D unallowable as an indirect expense unless disclosed to the defense and intelligence committees and congressional leadership. A statute does not cite an accounting instruction by its change date unless someone has explained precisely how it is being used.",
+"domains": [
+"_rs-archive-mirror",
+"primes-custody"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "2",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "dodi-3204-01",
+"l0": false,
+"label": "DoD Instruction 3204.01 - Oversight of Independent Research and Development",
+"locLabel": null,
+"members": null,
+"short": "DoD Instruction 3204.01 - Oversight of Independent Research and Development",
+"sources": [
+{
+"date": "2026-03-09",
+"name": "Archived: DoD Instruction 3204.01, 'DoD Policy for Oversight of Independent Research and Development (IR&D)' (Change 2) (Wayback 2026-03-09)",
+"url": "https://web.archive.org/web/20260309144222/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/320401p.pdf"
+},
+{
+"date": "2020-07-09",
+"name": "DoD Instruction 3204.01, 'DoD Policy for Oversight of Independent Research and Development (IR&D)' (Change 2)",
+"url": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/320401p.pdf"
+},
+{
+"date": "2023-12-22",
+"name": "National Defense Authorization Act for Fiscal Year 2024, Public Law 118-31 (enacted text)",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm"
+},
+{
+"date": "2023-07-26",
+"name": "House Oversight hearing transcript, 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency' (CHRG-118hhrg53022)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm"
+}
+],
+"sub": "The IR&D cost-allowability policy named in statute",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 493 of 1027, score 29). 4 connections, 3 of them custody/witness/funding/programmatic. Axes C0/A2/D2.",
+"timeline": []
+}

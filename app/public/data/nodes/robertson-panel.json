@@ -1,0 +1,721 @@
+{
+"A": 3,
+"C": 0,
+"D": 0,
+"band": "research",
+"claims": [
+{
+"source": "Robertson Panel report, declassified text",
+"text": "The panel was convened by the CIA Office of Scientific Intelligence and met 14-18 January 1953; its report is titled 'Report of Scientific Advisory Panel on Unidentified Flying Objects Convened by Office of Scientific Intelligence, CIA'.",
+"tier": 1
+},
+{
+"source": "Robertson Panel report, Recommendations",
+"text": "The panel recommended a public education programme with 'training' and 'debunking' aims, to be accomplished 'by mass media such as television, motion pictures, and popular articles'.",
+"tier": 1
+},
+{
+"source": "Robertson Panel report; Haines, CIA Studies in Intelligence 1997",
+"text": "The panel canvassed the Disney organisation and the US Navy Special Devices Center for production of debunking material and recommended monitoring civilian UFO organisations.",
+"tier": 1
+},
+{
+"source": "Gerald K. Haines, 'A Die-hard Issue: CIA's Role in the Study of UFOs, 1947-1990', Studies in Intelligence, 1997",
+"text": "'CIA officials wanted knowledge of any Agency interest in the subject of flying saucers carefully restricted, noting not only that the Robertson panel report was classified but also that any mention of CIA sponsorship of the panel was forbidden.'",
+"tier": 1
+},
+{
+"source": "Durant memorandum, 16 Feb 1953",
+"text": "The panel reviewed a curated selection of cases over four days and roughly twelve hours of formal session, then issued conclusions covering seventeen years of accumulated reporting.",
+"tier": 2
+}
+],
+"cls": "program",
+"cluster": "ic",
+"connections": [
+{
+"claimTier": 3,
+"cls": "document",
+"dateEnd": "1954",
+"dateStart": "1953",
+"direction": "out",
+"edgeLabel": "Panel recommendations became binding Air Force regulation",
+"id": "afr-200-2",
+"l0": false,
+"label": "Air Force Regulation 200-2",
+"note": "AFR 200-2 was issued 26 August 1953 and revised 12 August 1954, restricting public release on unexplained cases to the bare fact of ATIC analysis — the debunking recommendation converted into internal law within months of the panel reporting.",
+"sources": [
+{
+"date": "1954-08-12",
+"name": "AFR 200-2, 12 August 1954",
+"url": "http://www.cufon.org/cufon/afr200-2.htm"
+},
+{
+"date": "1953-01-17",
+"name": "Robertson Panel report",
+"url": "http://www.cufon.org/cufon/robert.htm"
+}
+],
+"tier": "B",
+"type": "programmatic"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "1953-03-13",
+"dateStart": "1953-03-13",
+"direction": "in",
+"edgeLabel": "Forwarded the panel report while saying the subject was not primarily CIA's concern",
+"id": "allen-w-dulles",
+"l0": false,
+"label": "Allen W. Dulles",
+"note": "The same signed letter that calls the panel's conclusions a matter of potential danger to national security states that the Agency does not consider flying saucer sightings primarily its concern, ten weeks after CIA convened the panel.",
+"sources": [
+{
+"date": "1953-03-13",
+"name": "Allen W. Dulles to the Secretary of Defense, 13 March 1953",
+"url": "https://archive.org/details/cia-readingroom-document-cia-rdp80b01676r001000160043-9"
+}
+],
+"tier": "B",
+"type": "denial"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "1953",
+"dateStart": "1953",
+"direction": "in",
+"edgeLabel": "CIA convened and sponsored the panel, and concealed that sponsorship",
+"id": "cia",
+"l0": true,
+"label": "Central Intelligence Agency",
+"note": "The panel was convened by the Office of Scientific Intelligence. The CIA's own history states that any mention of Agency sponsorship of the panel was forbidden.",
+"sources": [
+{
+"date": "1997-01-01",
+"name": "Haines, CIA's Role in the Study of UFOs, 1947-1990",
+"url": "https://www.cia.gov/resources/csi/studies-in-intelligence/studies-in-intelligence-1997/cias-role-in-the-study-of-ufos-1947-1990/"
+},
+{
+"date": "1953-01-17",
+"name": "Robertson Panel report",
+"url": "http://www.cufon.org/cufon/robert.htm"
+}
+],
+"tier": "A",
+"type": "funding"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "1953-01",
+"direction": "in",
+"edgeLabel": "CIA convened and staffed the January 1953 scientific advisory panel",
+"id": "cia",
+"l0": true,
+"label": "Central Intelligence Agency",
+"note": "Convened by the Office of Scientific Intelligence under H. P. Robertson; the panel recommended debunking and the monitoring of civilian UFO groups.",
+"sources": [
+{
+"date": "1953-01-17",
+"name": "Robertson Panel report, declassified text (CUFON)",
+"url": "http://www.cufon.org/cufon/robert.htm"
+},
+{
+"date": "1997-01-01",
+"name": "Haines, 'CIA's Role in the Study of UFOs, 1947-1990', Studies in Intelligence",
+"url": "https://www.cia.gov/resources/csi/studies-in-intelligence/studies-in-intelligence-1997/cias-role-in-the-study-of-ufos-1947-1990/"
+}
+],
+"tier": "A",
+"type": "programmatic"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "1956",
+"dateStart": "1953",
+"direction": "in",
+"edgeLabel": "Ruppelt attended the panel as Blue Book director and later described it",
+"id": "edward-ruppelt",
+"l0": false,
+"label": "Edward J. Ruppelt",
+"note": "Ruppelt was present at the January 1953 sessions in his official capacity and published his account of the panel's function three years later.",
+"sources": [
+{
+"date": "1956-01-01",
+"name": "Ruppelt, The Report on Unidentified Flying Objects",
+"url": "https://www.gutenberg.org/ebooks/17346"
+},
+{
+"date": "1953-01-17",
+"name": "Robertson Panel report",
+"url": "http://www.cufon.org/cufon/robert.htm"
+}
+],
+"tier": "B",
+"type": "witness-chain"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "1953",
+"dateStart": "1953",
+"direction": "in",
+"edgeLabel": "Durant was panel secretary and wrote the proceedings record",
+"id": "frederick-durant",
+"l0": false,
+"label": "Frederick C. Durant III",
+"note": "Durant's memorandum of 16 February 1953 to the Assistant Director for Scientific Intelligence is the only substantive record of what the panel actually discussed.",
+"sources": [
+{
+"date": "1953-02-16",
+"name": "Robertson Panel report and Durant record",
+"url": "http://www.cufon.org/cufon/robert.htm"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "1953",
+"dateStart": "1952",
+"direction": "in",
+"edgeLabel": "Chadwell assembled the panel with Robertson",
+"id": "h-marshall-chadwell",
+"l0": false,
+"label": "H. Marshall Chadwell",
+"note": "The CIA's own official history states that in January 1953 Chadwell and H. P. Robertson put together the panel of nonmilitary scientists to study the UFO issue.",
+"sources": [
+{
+"date": "1997-01-01",
+"name": "Haines, CIA's Role in the Study of UFOs, 1947-1990",
+"url": "https://www.cia.gov/resources/csi/studies-in-intelligence/studies-in-intelligence-1997/cias-role-in-the-study-of-ufos-1947-1990/"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "1958",
+"dateStart": "1956",
+"direction": "in",
+"edgeLabel": "CIA refused declassification and issued a sanitised version of the Robertson Panel report",
+"id": "haines-cia-history",
+"l0": false,
+"label": "A Die-hard Issue: CIA's Role in the Study of UFOs, 1947-1990",
+"note": "CIA 'prepared a sanitized version of the report which deleted any reference to CIA and avoided mention of any psychological warfare potential in the UFO controversy.'",
+"sources": [
+{
+"date": "1997-01-01",
+"name": "Gerald K. Haines, 'CIA's Role in the Study of UFOs, 1947-90', Studies in Intelligence (CIA), archived copy",
+"url": "https://www.theblackvault.com/documentarchive/cias-role-in-the-study-of-ufos-1947-90/"
+}
+],
+"tier": "A",
+"type": "denial"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "1997",
+"dateStart": "1997",
+"direction": "out",
+"edgeLabel": "CIA's official history documents the panel's debunking and concealment",
+"id": "haines-cia-history",
+"l0": false,
+"label": "A Die-hard Issue: CIA's Role in the Study of UFOs, 1947-1990",
+"note": "Haines records the mass media and Disney recommendations and states plainly that CIA sponsorship of the panel was forbidden from being mentioned.",
+"sources": [
+{
+"date": "1997-01-01",
+"name": "Haines, CIA's Role in the Study of UFOs, 1947-1990",
+"url": "https://www.cia.gov/resources/csi/studies-in-intelligence/studies-in-intelligence-1997/cias-role-in-the-study-of-ufos-1947-1990/"
+}
+],
+"tier": "A",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "1953",
+"dateStart": "1953",
+"direction": "in",
+"edgeLabel": "Robertson chaired the panel",
+"id": "howard-p-robertson",
+"l0": false,
+"label": "Howard P. Robertson",
+"note": "Robertson, a Caltech physicist and CIA consultant who had directed the DoD Weapons Systems Evaluation Group, chaired the 14-18 January 1953 sessions and signed the report.",
+"sources": [
+{
+"date": "1953-01-17",
+"name": "Robertson Panel report",
+"url": "http://www.cufon.org/cufon/robert.htm"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "1953",
+"dateStart": "1953",
+"direction": "in",
+"edgeLabel": "Hynek presented to the panel but was not a member",
+"id": "j-allen-hynek",
+"l0": false,
+"label": "J. Allen Hynek",
+"note": "The Air Force's scientific consultant briefed the CIA-convened panel; the formal membership was Robertson, Alvarez, Berkner, Goudsmit and Page.",
+"sources": [
+{
+"date": "1953-01-17",
+"name": "Robertson Panel report",
+"url": "http://www.cufon.org/cufon/robert.htm"
+}
+],
+"tier": "B",
+"type": "witness-chain"
+},
+{
+"claimTier": 3,
+"cls": "document",
+"dateEnd": null,
+"dateStart": "1953",
+"direction": "in",
+"edgeLabel": "Contradicts the panel's 1953 disposition of the same films",
+"id": "navy-pic-1953-film-analysis",
+"l0": false,
+"label": "1953 Navy Photographic Interpretation Center analysis of the Great Falls and Tremonton films",
+"note": "The Navy's own analysts assessed the Great Falls and Tremonton objects as intelligently controlled and not known technology in the same year the Robertson Panel recommended stripping the subject of special status.",
+"sources": [
+{
+"date": "2026-08-10",
+"name": "EarthSky - 5th batch of Pentagon UAP files: orbs and triangles",
+"url": "https://earthsky.org/human-world/pentagon-uap-files-batch-5-ufos-orbs-triangles/"
+},
+{
+"date": "2026-08-12",
+"name": "CIA FOIA Reading Room - UFOs: Fact or Fiction? collection",
+"url": "https://www.cia.gov/readingroom/collection/ufos-fact-or-fiction"
+}
+],
+"tier": "B",
+"type": "investigative"
+},
+{
+"claimTier": 2,
+"cls": "document",
+"dateEnd": "1953",
+"dateStart": "1953",
+"direction": "in",
+"edgeLabel": "Written five days before the panel met; per Vallee the panel was never briefed on its proposals",
+"id": "pentacle-memorandum",
+"l0": false,
+"label": "The Pentacle Memorandum",
+"note": "Vallee's conclusion is that a separate group had already decided what the panel could and could not discuss - contractor-side predetermination of an official scientific review.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "CUFON",
+"url": "https://www.cufon.org/cufon/pentacle.htm"
+},
+{
+"date": "2012-02-18",
+"name": "Bad UFOs analysis",
+"url": "https://badufos.blogspot.com/2012/02/jacques-vallee-j-allen-hynek-and.html"
+}
+],
+"tier": "B",
+"type": "denial"
+},
+{
+"claimTier": 3,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2026",
+"direction": "in",
+"edgeLabel": "third iteration of the external-scientific-panel pattern after Robertson (1953) and Condon (1966-68)",
+"id": "uap-science-advisory-council",
+"l0": true,
+"label": "UAP Science Advisory Council",
+"note": "Each prior panel supplied an authoritative dismissal on terms set by the sponsoring agency. Whether this one differs depends on its access to the Governance Board's classified holdings, which has not been publicly described.",
+"sources": [
+{
+"date": "2024-03-08",
+"name": "AARO Historical Record Report Volume I (covering Robertson and Condon)",
+"url": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF"
+}
+],
+"tier": "A",
+"type": "temporal"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "1953",
+"dateStart": "1953",
+"direction": "in",
+"edgeLabel": "Convened at his direction",
+"id": "walter-bedell-smith",
+"l0": false,
+"label": "Walter Bedell Smith",
+"note": "All three of Dulles's 13 March 1953 transmittal letters state that the panel 'was convened at the direction of General Smith, following the recommendation of the Intelligence Advisory Committee'.",
+"sources": [
+{
+"date": "1953-03-13",
+"name": "Allen W. Dulles to the Secretary of Defense, 13 March 1953",
+"url": "https://archive.org/details/cia-readingroom-document-cia-rdp80b01676r001000160043-9"
+}
+],
+"tier": "B",
+"type": "programmatic"
+}
+],
+"coords": null,
+"dateEnd": "1953",
+"dateStart": "1953",
+"deg": 13,
+"denials": [
+{
+"by": {
+"id": "allen-w-dulles",
+"label": "Allen W. Dulles"
+},
+"claimTier": 1,
+"denialKind": null,
+"label": "Forwarded the panel report while saying the subject was not primarily CIA's concern",
+"note": "The same signed letter that calls the panel's conclusions a matter of potential danger to national security states that the Agency does not consider flying saucer sightings primarily its concern, ten weeks after CIA convened the panel.",
+"of": {
+"id": "robertson-panel",
+"label": "Robertson Panel"
+},
+"sources": [
+{
+"date": "1953-03-13",
+"name": "Allen W. Dulles to the Secretary of Defense, 13 March 1953",
+"url": "https://archive.org/details/cia-readingroom-document-cia-rdp80b01676r001000160043-9"
+}
+]
+},
+{
+"by": {
+"id": "haines-cia-history",
+"label": "A Die-hard Issue: CIA's Role in the Study of UFOs, 1947-1990"
+},
+"claimTier": 1,
+"denialKind": null,
+"label": "CIA refused declassification and issued a sanitised version of the Robertson Panel report",
+"note": "CIA 'prepared a sanitized version of the report which deleted any reference to CIA and avoided mention of any psychological warfare potential in the UFO controversy.'",
+"of": {
+"id": "robertson-panel",
+"label": "Robertson Panel"
+},
+"sources": [
+{
+"date": "1997-01-01",
+"name": "Gerald K. Haines, 'CIA's Role in the Study of UFOs, 1947-90', Studies in Intelligence (CIA), archived copy",
+"url": "https://www.theblackvault.com/documentarchive/cias-role-in-the-study-of-ufos-1947-90/"
+}
+]
+},
+{
+"by": {
+"id": "pentacle-memorandum",
+"label": "The Pentacle Memorandum"
+},
+"claimTier": 2,
+"denialKind": "association",
+"label": "Written five days before the panel met; per Vallee the panel was never briefed on its proposals",
+"note": "Vallee's conclusion is that a separate group had already decided what the panel could and could not discuss - contractor-side predetermination of an official scientific review.",
+"of": {
+"id": "robertson-panel",
+"label": "Robertson Panel"
+},
+"sources": [
+{
+"date": "2026-08-12",
+"name": "CUFON",
+"url": "https://www.cufon.org/cufon/pentacle.htm"
+},
+{
+"date": "2012-02-18",
+"name": "Bad UFOs analysis",
+"url": "https://badufos.blogspot.com/2012/02/jacques-vallee-j-allen-hynek-and.html"
+}
+]
+}
+],
+"desc": "The Robertson Panel is the documented origin of the United States government's decision to manage public belief about unidentified flying objects rather than the objects themselves. Convened by the CIA's Office of Scientific Intelligence after the July 1952 Washington flap and assembled by H. Marshall Chadwell with H. P. Robertson, it sat from 14 to 18 January 1953 for roughly twelve hours of formal session. Members were Robertson (chair, Caltech), Luis Alvarez, Lloyd Berkner, Samuel Goudsmit and Thornton Page, with CIA officer Frederick Durant as secretary; Ruppelt and Hynek presented. The panel recommended that the national security agencies strip UFOs of their special status and mount a public education programme with two aims, 'training' and 'debunking' — the debunking to be accomplished 'by mass media such as television, motion pictures, and popular articles', with the Walt Disney organisation and the Navy Special Devices Center canvassed as production vehicles. It further recommended that civilian UFO groups be monitored because of their potential influence on mass thinking. The CIA's own official history states that any mention of Agency sponsorship of the panel was forbidden. This is a signed, dated government instruction to shape domestic opinion on a national security subject and to conceal the sponsor of that instruction.",
+"domains": [
+"history-1940s-1960s"
+],
+"dossier": {
+"claims": [
+{
+"source": "http://www.cufon.org/cufon/robert.htm (Durant Report, Part I, General)",
+"text": "The panel was convened at the direction of the Director of Central Intelligence following the 4 December 1952 meeting of the Intelligence Advisory Committee, which agreed the DCI would \"enlist the services of selected scientists to review and appraise the available evidence in the light of pertinent scientific theories.\"",
+"tier": 1
+},
+{
+"source": "http://www.cufon.org/cufon/robert.htm",
+"text": "The panel met 14-18 January 1953 in eight sessions; the record of proceedings is a memorandum dated 16 February 1953 from F.C. Durant to the Assistant Director for Scientific Intelligence, with the signed two-page panel report appended as Tab A and dated 17 January 1953.",
+"tier": 1
+},
+{
+"source": "http://www.cufon.org/cufon/robert.htm (Durant Report, Tab C)",
+"text": "Tab C lists the members and their fields of competency as: H.P. Robertson, California Institute of Technology, \"Physics, weapons systems\"; Luis W. Alvarez, University of California, \"Physics, radar\"; Lloyd V. Berkner, Associated Universities, Inc., geophysics; Samuel Goudsmit, Brookhaven National Laboratories, \"Atomic structure, statistical problems\"; Thornton Page, Office of Research Operations, Johns Hopkins University, astronomy and astrophysics. Associate members: J. Allen Hynek, Ohio State University, and Frederick C. Durant, Arthur D. Little, Inc.",
+"tier": 1
+},
+{
+"source": "http://www.cufon.org/cufon/robert.htm (Durant Report, Tab A, paragraph 4a)",
+"text": "The panel formally recommended \"that the national security agencies take immediate steps to strip the Unidentified Flying Objects of the special status they have been given and the aura of mystery they have unfortunately acquired.\"",
+"tier": 1
+},
+{
+"source": "http://www.cufon.org/cufon/robert.htm (Durant Report, Part II, Educational Program)",
+"text": "Durant's Part II records that the panel's concept of a broad educational program \"should have two major aims: training and 'debunking,'\" that \"this education could be accomplished by mass media such as television, motion pictures, and popular articles,\" and that such a program \"might be required for a minimum of one and a half to two years.\"",
+"tier": 1
+},
+{
+"source": "http://www.cufon.org/cufon/robert.htm (Durant Report, Part II, Educational Program)",
+"text": "Named candidate implementers for the debunking program included psychologist Hadley Cantril of Princeton, Don Marquis of the University of Michigan, Leo Roston, broadcaster Arthur Godfrey, the U.S. Navy (ONR) Special Devices Center at Sands Point, Long Island, the Jam Handy Co., and \"Walt Disney, Inc. animated cartoons.\"",
+"tier": 1
+},
+{
+"source": "http://www.cufon.org/cufon/robert.htm (Durant Report, Part II)",
+"text": "Under the heading \"UNOFFICIAL INVESTIGATING GROUPS\" the panel recommended surveillance of civilian organizations: \"It was believed that such organizations should be watched because of their potentially great influence on mass thinking if widespread sightings should occur. The apparent irresponsibility and the possible use of such groups for subversive purposes should be kept in mind.\" The Civilian Flying Saucer Investigators (Los Angeles) and the Aerial Phenomena Research Organization were named.",
+"tier": 1
+},
+{
+"source": "http://www.cufon.org/cufon/robert.htm (Durant Report, Part II, Air Force Reporting System)",
+"text": "Robertson explicitly grounded the panel's conclusion in the absence of recovered hardware, contrasting the UFO problem with Operation CROSSBOW: \"in this 1943-1944 intelligence operation (CROSSBOW), there was excellent intelligence and by June 1944 there was material evidence of the existence of 'hardware' obtained from crashed vehicles in Sweden. This evidence gave the investigating team a basis upon which to operate. The absence of any 'hardware' resulting from unexplained U.F.O. sightings lends a 'will-of-the wisp' nature to the ATIC problem.\"",
+"tier": 1
+},
+{
+"source": "http://www.cufon.org/cufon/robert.htm (Durant Report, Part II, Artifacts of Extraterrestrial Origin)",
+"text": "\"Artifacts of Extraterrestrial Origin\" was a standing section of the panel's deliberations (index, page 10). Goudsmit held that such artifacts \"if they did exist, are no cause for alarm\"; Durant records that \"this was an attitude in which Dr. Robertson did not concur, as he felt that such artifacts would be of immediate and great concern not only to the U.S. but to all countries.\"",
+"tier": 1
+},
+{
+"source": "http://www.cufon.org/cufon/robert.htm (Durant Report, Part II, Geographic Locations of Unidentified Sightings)",
+"text": "The ATIC map of officially reported unexplained sightings for 1952 \"showed clusters in certain strategic areas such as Los Alamos,\" while there had been \"no sightings in the vicinity of sensitive related AE establishments\"; the panel \"could find no ready explanation for these clusters.\"",
+"tier": 1
+},
+{
+"source": "http://www.cufon.org/cufon/robert.htm (Durant Report, Part II, Tremonton, Utah, Sighting)",
+"text": "The panel rejected the U.S. Navy Photo Interpretation Laboratory's finding that the Tremonton, Utah objects were \"self-luminous,\" despite the PIL team having expended approximately 1,000 professional and sub-professional man-hours on frame-by-frame plots, partly on the basis of a short film showing high reflectivity of seagulls in bright sunlight.",
+"tier": 1
+},
+{
+"source": "http://www.cufon.org/cufon/robert.htm (Durant Report, Part II, Artifacts of Extraterrestrial Origin)",
+"text": "Dewey J. Fournet, Jr., the Pentagon's UFO project officer for fifteen months, told the panel he had eliminated each known and probable cause of sightings, \"leaving him 'extra-terrestrial' as the only one remaining in many cases\"; the panel declined to accept any of his cases because they were \"raw, unevaluated reports.\"",
+"tier": 1
+},
+{
+"source": "http://www.cufon.org/cufon/robert.htm (CIA letter reproduced in full, reference F92-0970, 28 November 1994)",
+"text": "CIA responded to FOIA requests F91-1615, F91-2167, F92-0259/0260 and F92-0970 from Dale Goudie between 1991 and 1994 by referring him elsewhere and ultimately reporting no records; in a letter dated 28 November 1994, Information and Privacy Coordinator John H. Wright wrote: \"we feel it inappropriate to conduct yet another search on your behalf. Therefore, we are unable to assist you further and will not discuss this matter with you further.\"",
+"tier": 1
+},
+{
+"source": "http://www.cufon.org/cufon/robert.htm (CUFON editorial note preceding the document text)",
+"text": "Multiple non-identical versions of the report have been released by CIA over decades, differing in paper size, line spacing, typeface, pagination and redaction, and no released version carries the panel members' signatures.",
+"tier": 2
+}
+],
+"connections": [
+"Battelle Memorial Institute — Project STORK progress reports were evidence item 3 before the panel; Hynek briefed the panel on the Battelle work on 15 January 1953.",
+"The reported Pentacle memorandum of 9 January 1953 was written five days before the panel's first session and is said to concern what ATIC and Battelle would and would not disclose to it.",
+"Condon Committee — a sanitized version of the panel report was published as Appendix Y of the 1969 Condon Report, and Thornton Page sat on both the Robertson Panel and, later, publicly criticized Condon's logic in the American Journal of Physics.",
+"J. Allen Hynek — associate member here, Blue Book consultant, later the leading academic critic of the apparatus he helped staff.",
+"Edward J. Ruppelt — briefed the panel on ATIC methods and proposed the analyst staffing table Durant records; Ruppelt had initiated the Battelle contract thirteen months earlier.",
+"H. Marshall Chadwell (Assistant Director, O/SI, CIA), Ralph L. Clark (Deputy AD, O/SI) and Philip G. Strong (Chief, Operations Staff, O/SI) are the named CIA principals; Brig. Gen. William M. Garland was Commanding General of ATIC.",
+"Samuel Goudsmit came to the panel from Brookhaven National Laboratory, which Battelle now co-manages through Brookhaven Science Associates — a seventy-year institutional loop.",
+"Los Alamos appears in the panel's own geographic analysis as an unexplained sighting cluster; Los Alamos is now operated by Triad National Security, LLC, of which Battelle is a member.",
+"Project TWINKLE (AF Cambridge Research Center) and Project POUNCE (Kirtland AFB) are named in Tab B as parallel investigative efforts whose records the panel reviewed."
+],
+"denialPosture": "The panel's signed conclusion — that there is \"no residuum of cases which indicates phenomena which are attributable to foreign artifacts capable of hostile acts\" and \"no evidence that the phenomena indicates a need for the revision of current scientific concepts\" — is the template for every subsequent official denial, including AARO's. CIA's own posture is separately documented: it told a FOIA requester for three years that it held no records of a panel it had convened, then declined further discussion in a signed letter of 28 November 1994.",
+"narrative": "The Robertson Panel did not originate inside the Air Force. Durant records that \"after consideration of the subject of 'unidentified flying objects' at the 4 December meeting of the Intelligence Advisory Committee, the following action was agreed: 'The Director of Central Intelligence will: a. Enlist the services of selected scientists to review and appraise the available evidence in the light of pertinent scientific theories.'\" The action was delegated to the Assistant Director for Scientific Intelligence, H. Marshall Chadwell, and the panel was assembled with the cooperation of the Air Technical Intelligence Center. The five members were H.P. Robertson of Caltech, listed in Tab C under field of competency as \"Physics, weapons systems\"; Luis W. Alvarez of the University of California, \"Physics, radar\"; Lloyd V. Berkner of Associated Universities, Inc., geophysics; Samuel Goudsmit of Brookhaven National Laboratories, \"Atomic structure, statistical problems\"; and Thornton Page of the Office of Research Operations, Johns Hopkins University, astronomy and astrophysics. Associate members were J. Allen Hynek of Ohio State and F.C. Durant of Arthur D. Little, Inc. This is a weapons-and-radar panel with a nuclear-physics component, not an atmospheric-phenomena panel.\n\nThe panel sat for eight sessions across five days. It viewed the Tremonton, Utah and Great Falls, Montana films, heard Navy Photo Interpretation Laboratory analysts who had spent roughly a thousand professional and sub-professional man-hours plotting the Tremonton frames and concluded the objects were \"not reflections because there was no blinking while passing through 60 degrees of arc\" and were therefore \"self-luminous.\" The panel rejected that conclusion after watching a short film of seagulls in bright sunlight. It heard Ruppelt on ATIC procedure, Hynek on Battelle's Project STORK, Lt. Col. Frederick Oder on Project TWINKLE, and Dewey Fournet on fifteen months as Pentagon UFO project officer, during which Fournet had eliminated known and probable causes and been left with \"extra-terrestrial\" as the only remaining explanation in many cases. The panel declined to accept any of Fournet's cases on the grounds that they were \"raw, unevaluated reports.\"\n\nThe two-page formal report, Tab A, dated 17 January 1953 and signed by all five members, concluded that the evidence \"shows no indication that these phenomena constitute a direct physical threat to national security\" and that \"there is no residuum of cases which indicates phenomena which are attributable to foreign artifacts capable of hostile acts.\" The threat it identified was domestic and psychological: continued reporting \"does, in these parlous times, result in a threat to the orderly functioning of the protective organs of the body politic,\" through \"the clogging of channels of communication by irrelevant reports, the danger of being led by continued false alarms to ignore real indications of hostile action, and the cultivation of a morbid national psychology in which skillful hostile propaganda could induce hysterical behavior and harmful distrust of duly constituted authority.\"\n\nDurant's Part II — explicitly labeled \"an unofficial supplement to the official Panel Report ... setting forth comments and suggestions of the Panel Members which they believed were inappropriate for inclusion in the formal report\" — is where the operational content lives. The two-aim education program, the recommended engagement of a mass-psychology consultant (Hadley Cantril of Princeton, author of the study of the Orson Welles panic), the suggestion of an advertising expert, the Jam Handy Co. and Walt Disney Inc. as production channels, the Navy ONR Special Devices Center at Sands Point as an implementing organization, and the estimate that the program would need to run a minimum of one and a half to two years. And the surveillance recommendation regarding the Civilian Flying Saucer Investigators of Los Angeles and the Aerial Phenomena Research Organization.\n\nTwo passages deserve the board's attention above the rest. First, under the heading \"ARTIFACTS OF EXTRATERRESTRIAL ORIGIN\" — a standing agenda item, page 10 of the index — Durant records that \"none of the members of the Panel were loath to accept that this earth might be visited by extra-terrestrial intelligent beings of some sort, some day,\" that Goudsmit held such artifacts \"are no cause for alarm; rather, they are in the realm of natural phenomena subject to scientific study,\" and that \"this was an attitude in which Dr. Robertson did not concur, as he felt that such artifacts would be of immediate and great concern not only to the U.S. but to all countries.\" Second, the geographic analysis: the ATIC map of 1952 unexplained sightings \"showed clusters in certain strategic areas such as Los Alamos,\" and \"the Panel could find no ready explanation for these clusters.\"\n\nThe document's own release history is evidence. CUFON's Dale Goudie filed FOIA requests in September 1991, November 1991, March 1992 and April 1992. CIA told him the report had been released by the Air Force Office of Public Information on 9 April 1958 and referred him to the Air Force and NARA; NARA told him the Durant Report was in CIA custody. After a search initiated in June 1992, CIA informed him on 6 September 1994 that it was \"unable to locate the records requested,\" and on 28 November 1994 Information and Privacy Coordinator John H. Wright wrote that \"we feel it inappropriate to conduct yet another search on your behalf. Therefore, we are unable to assist you further and will not discuss this matter with you further.\" CUFON documents that multiple non-identical versions of the report — differing in pagination, spacing, typeface and redaction — circulated from CIA over the years, and that no version carries the panel members' signatures.",
+"openQuestions": [
+"Robertson drafted the panel report on the evening of Friday 16 January and Chadwell reported the next morning that he had shown the rough draft to the Director of Intelligence, USAF, \"whose reaction was favorable.\" Who else saw the draft before it was finalized, and was the conclusion negotiated?",
+"Berkner was absent until Friday afternoon yet had \"reviewed and approved\" the draft report earlier than the other members. How?",
+"What became of the recommended education program? No implementing directive, contract, or budget line for a training-and-debunking program has been produced.",
+"Was the surveillance recommendation regarding civilian UFO groups acted on, and by which agency? FBI and Air Force OSI files on APRO and NICAP exist but no document ties them to this recommendation.",
+"Why did CIA hold multiple non-identical, unsigned versions of a single 1953 memorandum, and where is the signed original?",
+"The panel treated the absence of hardware as dispositive. If recovered materiel existed under compartmented control in January 1953, who at CIA or ATIC knew, and was the panel deliberately kept below that access line?",
+"The final page of Part II is redacted after the sentence on expected increase in sightings. What was removed?"
+],
+"roles": [
+"concealment",
+"oversight",
+"research"
+],
+"whatItIs": "The Robertson Panel was a five-member scientific advisory panel convened by the CIA's Office of Scientific Intelligence, meeting 14-18 January 1953, to evaluate whether unidentified flying objects posed a threat to national security. Its proceedings were recorded in a memorandum dated 16 February 1953 from F.C. Durant to the Assistant Director for Scientific Intelligence, known as the Durant Report, with the two-page formal panel report appended as Tab A. It is the founding document of official U.S. UFO information policy.",
+"whyImplicated": "The Robertson Panel is the moment the U.S. government formally converted a collection problem into a perception-management problem, and it did so in writing. The panel recommended that national security agencies \"take immediate steps to strip the Unidentified Flying Objects of the special status they have been given and the aura of mystery they have unfortunately acquired,\" and Durant's supplement records the panel's concept of an education program with \"two major aims: training and 'debunking,'\" to be delivered through television, motion pictures and popular articles, with Walt Disney Inc. animated cartoons and broadcaster Arthur Godfrey named as candidate channels. It further recommended that civilian UFO groups \"should be watched\" for \"potentially great influence on mass thinking\" and \"possible use ... for subversive purposes.\" The panel's own reasoning turns on hardware: Robertson contrasted the UFO problem with the 1943-1944 CROSSBOW effort, in which \"by June 1944 there was material evidence of the existence of 'hardware' obtained from crashed vehicles in Sweden,\" and concluded that the \"absence of any 'hardware'\" gave ATIC's problem a \"will-of-the-wisp\" nature. If hardware existed and was compartmented away from ATIC, the panel's central premise was false and the panel was the instrument by which that falsity was made durable. The CIA then spent 1991 to 1994 telling a FOIA requester it held no records of the panel before finally closing the request."
+},
+"entityInfo": {
+"desc": "The Robertson Panel is the documentary hinge of this domain because it converts a question of belief into a question of policy. The panel did not conclude that unidentified flying objects were nothing; it concluded that public interest in them was a national security liability, and it recommended action against the interest rather than investigation of the objects. The two stated aims of the recommended education programme were 'training' and 'debunking', with the debunking to be delivered through mass media — television, motion pictures and popular articles — using case histories that had been puzzling at first and were later explained, so as to reduce what the panel called the gullibility of the public. The Walt Disney organisation and the US Navy Special Devices Center were canvassed as production vehicles. The panel further recommended that civilian UFO organisations be watched because of their potentially great influence on mass thinking. The CIA's own official history, published in Studies in Intelligence in 1997, adds the part that makes this a concealment rather than merely a policy: Agency officials required that the panel report be classified and that any mention of CIA sponsorship of the panel be forbidden. Seven months after the panel reported, AFR 200-2 turned its posture into binding internal Air Force law; the following March, JANAP 146(C) put criminal penalties behind unauthorised disclosure. Anyone assessing later official statements on this subject is assessing the output of a system this panel specified.",
+"sources": [
+{
+"date": "1953-01-17",
+"name": "Robertson Panel report (declassified text)",
+"url": "http://www.cufon.org/cufon/robert.htm"
+},
+{
+"date": "1997-01-01",
+"name": "Haines, CIA's Role in the Study of UFOs, 1947-1990",
+"url": "https://www.cia.gov/resources/csi/studies-in-intelligence/studies-in-intelligence-1997/cias-role-in-the-study-of-ufos-1947-1990/"
+},
+{
+"date": "1954-08-12",
+"name": "AFR 200-2, 12 August 1954",
+"url": "http://www.cufon.org/cufon/afr200-2.htm"
+},
+{
+"date": "1954-03-10",
+"name": "JANAP 146(C), 10 March 1954",
+"url": "http://www.cufon.org/cufon/janp146c.htm"
+}
+]
+},
+"era": "0",
+"foia": {
+"questions": [
+5
+],
+"requests": [
+{
+"agency": "Air Force and CIA",
+"partial": [],
+"questions": [
+5
+],
+"request": "F18",
+"sendTo": "Department of the Air Force FOIA (SAF/AAII) for the contracting and ATIC records; Central Intelligence Agency Information and Privacy Coordinator for the Office of Scientific Intelligence file.",
+"status": "not filed",
+"title": "Air Force and CIA - the Battelle Project STORK contract file"
+}
+]
+},
+"hl": null,
+"id": "robertson-panel",
+"l0": true,
+"label": "Robertson Panel",
+"locLabel": null,
+"members": [
+{
+"cls": "document",
+"id": "afr-200-2",
+"label": "Air Force Regulation 200-2",
+"tier": "B"
+},
+{
+"cls": "person",
+"id": "allen-w-dulles",
+"label": "Allen W. Dulles",
+"tier": "B"
+},
+{
+"cls": "person",
+"id": "edward-ruppelt",
+"label": "Edward J. Ruppelt",
+"tier": "B"
+},
+{
+"cls": "person",
+"id": "frederick-durant",
+"label": "Frederick C. Durant III",
+"tier": "C"
+},
+{
+"cls": "person",
+"id": "h-marshall-chadwell",
+"label": "H. Marshall Chadwell",
+"tier": "B"
+},
+{
+"cls": "document",
+"id": "haines-cia-history",
+"label": "A Die-hard Issue: CIA's Role in the Study of UFOs, 1947-1990",
+"tier": "A"
+},
+{
+"cls": "person",
+"id": "howard-p-robertson",
+"label": "Howard P. Robertson",
+"tier": "C"
+},
+{
+"cls": "person",
+"id": "j-allen-hynek",
+"label": "J. Allen Hynek",
+"tier": "B"
+},
+{
+"cls": "document",
+"id": "navy-pic-1953-film-analysis",
+"label": "1953 Navy Photographic Interpretation Center analysis of the Great Falls and Tremonton films",
+"tier": "B"
+},
+{
+"cls": "document",
+"id": "pentacle-memorandum",
+"label": "The Pentacle Memorandum",
+"tier": "B"
+},
+{
+"cls": "person",
+"id": "walter-bedell-smith",
+"label": "Walter Bedell Smith",
+"tier": "B"
+}
+],
+"short": "Robertson Panel",
+"sources": [
+{
+"date": "1953-01-17",
+"name": "Robertson Panel report (declassified text)",
+"url": "http://www.cufon.org/cufon/robert.htm"
+},
+{
+"date": "1997-01-01",
+"name": "Haines, CIA's Role in the Study of UFOs, 1947-1990 (CIA)",
+"url": "https://www.cia.gov/resources/csi/studies-in-intelligence/studies-in-intelligence-1997/cias-role-in-the-study-of-ufos-1947-1990/"
+},
+{
+"date": "1997-01-01",
+"name": "Haines article, mirrored full text",
+"url": "https://www.nicap.org/ciarole.htm"
+}
+],
+"sub": "CIA Office of Scientific Intelligence advisory panel, January 1953",
+"tier": "A",
+"tierRationale": "Re-graded A on a global pass (rank 84 of 1027, score 68). 15 connections, 6 of them custody/witness/funding/programmatic, 3 official denials recorded against it. Axes C0/A3/D0.",
+"timeline": [
+{
+"date": "1953-01-14",
+"id": "tl-1953-01-14",
+"label": "Robertson Panel convenes",
+"precision": "day",
+"strand": "coverup",
+"text": "A CIA Office of Scientific Intelligence panel sits for four days and recommends stripping UFOs of special status through a mass-media 'debunking' programme, canvassing Disney and the Navy Special Devices Center, and monitoring civilian UFO groups.",
+"tier": "A"
+},
+{
+"date": "1953-01-14",
+"id": "tl-ffrdc-1953-robertson",
+"label": "Robertson Panel convenes uninformed",
+"precision": "day",
+"strand": "coverup",
+"text": "The CIA-convened panel meets five days after the Pentacle memorandum. Per Jacques Vallee it is never briefed on the Battelle proposals - a separate body had already fixed the boundaries of what it could consider.",
+"tier": "A"
+}
+]
+}

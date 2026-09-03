@@ -1,0 +1,142 @@
+{
+"A": 0,
+"C": 1,
+"D": 1,
+"affiliations": [
+"To The Stars Academy of Arts & Science / To The Stars Inc., Chief Content Officer (2017-present)"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "2017-10-11",
+"event": "TTSA launches; she is Chief Content Officer.",
+"precision": "day"
+},
+{
+"date": "2019-06-01",
+"event": "States on TTSA's behalf that Elizondo took over AATIP as Director in 2010.",
+"precision": "day"
+},
+{
+"date": "2019-10-10",
+"event": "Signs the CRADA with the U.S. Army Ground Vehicle Systems Center.",
+"precision": "day"
+}
+],
+"claims": [
+{
+"source": "SEC EDGAR, TTSA Form 1-K Part II, filed April 2018",
+"text": "Listed in TTSA's Form 1-K as Chief Content Officer, age 35, with $100,000 FY2017 cash compensation and options on 5,000,000 shares at $0.003 valued at approximately $18.96 million.",
+"tier": 1
+},
+{
+"source": "CRADA document released by the U.S. Army CCDC, reported by Joseph Trevithick and Brett Tingley, The War Zone, 18 October 2019",
+"text": "Signed the TTSA-Army CRADA on 10 October 2019 as TTSA's corporate signatory, opposite GVSC Director Jeffery Langhout.",
+"tier": 1
+},
+{
+"source": "Keith Kloor, The Intercept, 1 June 2019",
+"text": "Told The Intercept that Elizondo 'took it over in 2010 as Director' and 'ran it out of the Office for the Secretary of Defense (OSD) under the Under Secretary of Defense for Intelligence (USDI).'",
+"tier": 2
+}
+],
+"cls": "person",
+"cluster": "media",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2017",
+"direction": "out",
+"edgeLabel": "Chief Content Officer; highest cash-compensated officer FY2017",
+"id": "ttsa",
+"l0": true,
+"label": "To The Stars Academy of Arts & Science Inc. (later To The Stars Inc.)",
+"note": "$100,000 cash and options on 5 million shares at $0.003 valued at about $18.96m — the entertainment side held the equity.",
+"sources": [
+{
+"date": "2018-04-30",
+"name": "SEC EDGAR — TTSA Form 1-K",
+"url": "https://www.sec.gov/Archives/edgar/data/1710274/000114420418023727/tv492460_partii.htm"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "2019",
+"dateStart": "2019",
+"direction": "out",
+"edgeLabel": "Signed for To The Stars Academy, 10 October 2019",
+"id": "ttsa-army-crada",
+"l0": true,
+"label": "CRADA between U.S. Army Ground Vehicle Systems Center and To The Stars Academy",
+"note": "The corporate signatory on a materials-science agreement with an Army laboratory was TTSA's Chief Content Officer — the entertainment company was the legal spine.",
+"sources": [
+{
+"date": "2019-10-18",
+"name": "The War Zone",
+"url": "https://www.twz.com/30498/the-army-wants-to-verify-to-the-stars-academys-fantastic-ufo-mystery-material-claims"
+}
+],
+"tier": "A",
+"type": "institutional"
+}
+],
+"date": "2019-10-10",
+"dateEnd": null,
+"dateStart": "2019-10-10",
+"deg": 2,
+"denials": [],
+"domains": [
+"elizondo-ttsa"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "kari-delonge",
+"instId": "ttsa",
+"l0": false,
+"label": "Kari DeLonge",
+"loc": "Encinitas, CA",
+"locId": "l-encinitas",
+"members": null,
+"narrative": "Kari DeLonge is listed in TTSA's Form 1-K as Chief Content Officer, age 35, the highest cash-compensated officer at $100,000 for FY2017, and the recipient of options over five million shares at a $0.003 exercise price valued at roughly $18.96 million. She is also, per the released agreement, the person who signed the CRADA with the U.S. Army Ground Vehicle Systems Center on 10 October 2019 on TTSA's behalf. That combination — a content executive as the corporate signatory on a materials-science research agreement with an Army laboratory — is one of the more revealing structural facts about TTSA: the entity's legal and financial spine was the entertainment company, and the aerospace and materials work was hung on it. She was also TTSA's public-relations voice in the June 2019 dispute, telling The Intercept that Elizondo 'took it over in 2010 as Director' and 'ran it out of the Office for the Secretary of Defense (OSD) under the Under Secretary of Defense for Intelligence (USDI).'",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Kari DeLonge",
+"sources": [
+{
+"date": "2018-04-30",
+"name": "SEC EDGAR — TTSA Form 1-K Part II",
+"url": "https://www.sec.gov/Archives/edgar/data/1710274/000114420418023727/tv492460_partii.htm"
+},
+{
+"date": "2019-10-18",
+"name": "The War Zone — The Army Wants To Verify To The Stars Academy's Fantastic UFO Mystery Material Claims",
+"url": "https://www.twz.com/30498/the-army-wants-to-verify-to-the-stars-academys-fantastic-ufo-mystery-material-claims"
+},
+{
+"date": "2019-06-01",
+"name": "The Intercept — The Media Loves This UFO Expert...",
+"url": "https://theintercept.com/2019/06/01/ufo-unidentified-history-channel-luis-elizondo-pentagon/"
+}
+],
+"status": "active",
+"sub": "Chief Content Officer, TTSA; signatory of the U.S. Army CRADA",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 846 of 1027, score 16). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A0/D1.",
+"timeline": [],
+"unexplainedResidual": null,
+"unverified": []
+}

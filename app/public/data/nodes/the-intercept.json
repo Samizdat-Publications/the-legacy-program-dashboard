@@ -1,0 +1,197 @@
+{
+"A": 0,
+"C": 0,
+"D": 0,
+"band": null,
+"claims": [
+{
+"source": "theintercept.com/about",
+"text": "The Intercept was established in 2014 as an investigative journalism organisation focused on national security, civil liberties, criminal justice, politics and technology, self-described as investigating powerful individuals and institutions to expose corruption and injustice.",
+"tier": 1
+},
+{
+"source": "theintercept.com/about",
+"text": "It operates as a non-profit funded primarily by reader and listener donations, accepts no advertising, and publishes impact reports and audited financial statements; leadership listed as editor-in-chief Ben Muessig and CEO Annie Chabel.",
+"tier": 1
+},
+{
+"source": "Inference from theintercept.com/about",
+"text": "Its founding purpose - publishing leaked classified material with the underlying documents attached - and its advertiser-free funding make it a low-friction destination for compartmented-programme documents. Reasoning: from its stated editorial model and ownership structure.",
+"tier": 3
+},
+{
+"source": "Board bookkeeping",
+"text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
+"tier": 3
+}
+],
+"cls": "institution",
+"cluster": "media",
+"connections": [
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "Pentagon confirmation of AATIP's existence obtained by The Intercept",
+"id": "aatip",
+"l0": true,
+"label": "Advanced Aerospace Threat Identification Program (AATIP / AAITP)",
+"note": "In the same piece the Pentagon confirmed to The Intercept that AATIP existed and 'did pursue research and investigation into unidentified aerial phenomena,' while declining to confirm the earlier Dana White statement that Elizondo ran it. The article is a primary source for the contradiction between DoD's public position and the TTSA account of AATIP's chain of command.",
+"sources": [
+{
+"date": "2019-06-01",
+"name": "Keith Kloor, The Intercept, 1 June 2019",
+"url": "https://theintercept.com/2019/06/01/ufo-unidentified-history-channel-luis-elizondo-pentagon/"
+},
+{
+"date": null,
+"name": "Keith Kloor, The Intercept, June 1, 2019 -- https://theintercept.com/2019/06/01/ufo-unidentified-history-channel-luis-elizondo-pentagon/",
+"url": ""
+}
+],
+"tier": "A",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "domain",
+"dateEnd": "2023-08-09",
+"dateStart": "2019-06-01",
+"direction": "out",
+"edgeLabel": "the adversarial counterweight inside the same substrate",
+"id": "d-media",
+"l0": false,
+"label": "Independent media as the disclosure substrate",
+"note": "The Intercept's contribution to this record is subtractive rather than additive: its June 2019 investigation found no discernible evidence that Luis Elizondo led AATIP and obtained a Pentagon statement in tension with the earlier one given to Politico, and in August 2023 it published FOIA'd records on David Grusch weeks after his testimony. A domain about the disclosure substrate that contains only friendly outlets is not a domain, it is a reading list.",
+"sources": [
+{
+"date": "2019-06-01",
+"name": "The Intercept, 'The Media Loves This UFO Expert Who Says He Worked for an Obscure Pentagon Program. Did He?'",
+"url": "https://theintercept.com/2019/06/01/ufo-unidentified-history-channel-luis-elizondo-pentagon/"
+},
+{
+"date": "2023-08-09",
+"name": "The Intercept, 'UFO Whistleblower Kept Security Clearance After Psychiatric Detention'",
+"url": "https://theintercept.com/2023/08/09/ufo-david-grusch-clearance/"
+}
+],
+"tier": "C",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "FOIA'd police records on Grusch published weeks after his testimony",
+"id": "david-grusch",
+"l0": false,
+"label": "David Charles Grusch",
+"note": "Klippenstein obtained Loudoun County Sheriff's Office incident reports under the Virginia Freedom of Information Act showing Grusch was detained under an emergency custody order on 1 October 2018 and transferred to Loudoun Adult Medical Psychiatric Services. The piece is explicit about provenance: 'The records were not confidential, medical, or leaked. They are publicly available law enforcement records obtained under a routine Virginia FOIA request to the Loudoun County Sheriff's Office.' Its argument is about the clearance process rather than about the witness - that clearances of the kind Grusch held carry strict requirements regarding psychological episodes and substance issues, and his was retained.",
+"sources": [
+{
+"date": "2023-08-09",
+"name": "Ken Klippenstein, 'UFO Whistleblower Kept Security Clearance After Psychiatric Detention', The Intercept, 9 August 2023",
+"url": "https://theintercept.com/2023/08/09/ufo-david-grusch-clearance/"
+},
+{
+"date": null,
+"name": "Ken Klippenstein, 'UFO Whistleblower Kept Security Clearance After Psychiatric Detention,' The Intercept, August 9, 2023 -- https://theintercept.com/2023/08/09/ufo-david-grusch-clearance/",
+"url": ""
+}
+],
+"tier": "A",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "First major press challenge to Elizondo's AATIP leadership claim",
+"id": "luis-elizondo",
+"l0": false,
+"label": "Luis D. Elizondo",
+"note": "Kloor's finding: 'There is no discernible evidence that Luis Elizondo ever worked for a government UFO program, much less led one.' He obtained a statement from Pentagon spokesperson Christopher Sherwood: 'Mr. Elizondo had no responsibilities with regard to the AATIP program while he worked in OUSDI... up until the time he resigned effective 10/4/2017.' The piece is the origin of the documented dispute over Elizondo's role, and the Pentagon's position in it has been restated since.",
+"sources": [
+{
+"date": "2019-06-01",
+"name": "Keith Kloor, 'The Media Loves This UFO Expert Who Says He Worked for an Obscure Pentagon Program. Did He?', The Intercept, 1 June 2019",
+"url": "https://theintercept.com/2019/06/01/ufo-unidentified-history-channel-luis-elizondo-pentagon/"
+},
+{
+"date": null,
+"name": "Keith Kloor, 'The Media Loves This UFO Expert Who Says He Worked for an Obscure Pentagon Program. Did He?', The Intercept, June 1, 2019 -- https://theintercept.com/2019/06/01/ufo-unidentified-history-channel-luis-elizondo-pentagon/",
+"url": ""
+}
+],
+"tier": "A",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "Scrutiny of To The Stars Academy's media apparatus and financing",
+"id": "ttsa",
+"l0": true,
+"label": "To The Stars Academy of Arts & Science Inc. (later To The Stars Inc.)",
+"note": "The piece documents what To The Stars Academy's own regulatory filings say it is: a 'Motion Picture & Video Tape Production' concern. It also reports the undisclosed relationship between the company and the programme promoting it - TTSA co-founder Tom DeLonge was executive producer of the History Channel's 'Unidentified', which featured Elizondo and fellow TTSA employee Chris Mellon without the ties being disclosed on screen.",
+"sources": [
+{
+"date": "2019-06-01",
+"name": "Keith Kloor, The Intercept, 1 June 2019",
+"url": "https://theintercept.com/2019/06/01/ufo-unidentified-history-channel-luis-elizondo-pentagon/"
+},
+{
+"date": null,
+"name": "Keith Kloor, The Intercept, June 1, 2019 -- https://theintercept.com/2019/06/01/ufo-unidentified-history-channel-luis-elizondo-pentagon/",
+"url": ""
+}
+],
+"tier": "A",
+"type": "investigative"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": null,
+"deg": 5,
+"denials": [],
+"desc": "The Intercept is an investigative news organisation founded in 2014 and built around adversarial reporting on national security, surveillance, civil liberties, criminal justice and technology. It runs as a non-profit funded by reader and listener donations, takes no advertising, and publishes impact reports and audited financial statements; its masthead is led by editor-in-chief Ben Muessig with Annie Chabel as chief executive, under a board that has included Maria Ressa. The outlet was created in the first instance to publish and contextualise leaked classified documents, and it has kept a document-forward house style in which the primary record is posted alongside the story rather than merely characterised. For this board its relevance is the same as POGO's but on the publication side: an institution with secure submission practice, counsel accustomed to classified-information litigation, and no advertiser or defence-contractor dependency, which makes it one of the outlets to which a programme insider can plausibly deliver documents. It is recorded here as part of the disclosure ecosystem's infrastructure, not as a source of UAP claims in itself.",
+"domains": [
+"_rs-stubs-known",
+"_stubs"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "nd",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "the-intercept",
+"l0": false,
+"label": "The Intercept",
+"locLabel": null,
+"members": null,
+"short": "The Intercept",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "The Intercept - About (official)",
+"url": "https://theintercept.com/about/"
+}
+],
+"sub": "News organisation",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 924 of 1027, score 13). 5 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D0.",
+"timeline": []
+}

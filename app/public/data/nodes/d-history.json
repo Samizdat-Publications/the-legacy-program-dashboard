@@ -1,0 +1,118 @@
+{
+"A": 0,
+"C": 0,
+"D": 2,
+"band": null,
+"claims": [
+{
+"source": "AARO Historical Record Report Volume I",
+"text": "AARO's Volume I report reconstructs USG UAP investigatory programmes since 1945 and assesses interviewee claims of hidden programmes in Sections IV through VII.",
+"tier": 1
+},
+{
+"source": "Condon Report, University of Colorado",
+"text": "The Condon Report, 'Scientific Study of Unidentified Flying Objects', was published in November 1968 and led directly to the termination of Project Blue Book.",
+"tier": 1
+},
+{
+"source": "Robertson Panel report, declassified text",
+"text": "The Robertson Panel report of January 1953 is a primary document in the official corpus and was itself declassified only in redacted stages.",
+"tier": 1
+}
+],
+"cls": "domain",
+"cluster": "other",
+"connections": [
+{
+"claimTier": 1,
+"cls": "domain",
+"dateEnd": null,
+"dateStart": "1948-01-22",
+"direction": "out",
+"edgeLabel": "The corpus is what survives the records fight",
+"id": "d-records",
+"l0": false,
+"label": "Records & Archives",
+"note": "Almost every primary document in this field arrived through FOIA or archival release; historiography here is downstream of records law.",
+"sources": [
+{
+"date": "1995-07-28",
+"name": "GAO/NSIAD-95-187",
+"url": "https://www.govinfo.gov/content/pkg/GAOREPORTS-NSIAD-95-187/html/GAOREPORTS-NSIAD-95-187.htm"
+},
+{
+"date": "2023-12-22",
+"name": "NDAA FY2024 (P.L. 118-31)",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm"
+}
+],
+"tier": "B",
+"type": "research"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "1948-01-22",
+"deg": 1,
+"denials": [],
+"desc": "The history of this subject is unusual in that its primary sources were almost entirely recovered by private citizens rather than by institutions, and that fact shapes everything downstream. The official corpus - Project Sign, Project Grudge, Project Blue Book, the 1953 Robertson Panel, the 1968 Condon Report, the 1997 Haines article, the 2024 AARO historical record report - is thin, internally inconsistent and repeatedly revised. The unofficial corpus, built by FOIA requesters and archivists over five decades, is far larger, and the whole discipline therefore depends on distinguishing between a document a government chose to release and a document a citizen forced it to release. AARO's own Volume I is a historiographical act as much as an investigative one: it reconstructs the record of USG UAP investigatory programmes since 1945 and assesses interviewee claims against it, which makes its scope choices - which programmes it examined, which it did not - the most consequential thing in it. Scoring high on this domain means an entity built, curated or reshaped the documentary record itself.",
+"domains": [
+"_rs-archive-mirror",
+"w2-taxonomy"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "d-history",
+"l0": false,
+"label": "Historiography",
+"locLabel": null,
+"members": null,
+"short": "Historiography",
+"sources": [
+{
+"date": "2026-05-08",
+"name": "Archived: AARO, Report on the Historical Record of U.S. Government Involvement with UAP, Volume I (Wayback 2026-05-08)",
+"url": "https://web.archive.org/web/20260508180210/https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf"
+},
+{
+"date": "2024-02-01",
+"name": "AARO, Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
+"url": "https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf"
+},
+{
+"date": "1968-11-01",
+"name": "Scientific Study of Unidentified Flying Objects (Condon Report)",
+"url": "https://files.ncas.org/condon/"
+},
+{
+"date": "1953-01-17",
+"name": "Robertson Panel report (declassified text)",
+"url": "http://www.cufon.org/cufon/robert.htm"
+},
+{
+"date": "1997-01-01",
+"name": "Gerald K. Haines, 'CIA's Role in the Study of UFOs, 1947-1990', Studies in Intelligence",
+"url": "https://www.cia.gov/resources/csi/studies-in-intelligence/studies-in-intelligence-1997/cias-role-in-the-study-of-ufos-1947-1990/"
+}
+],
+"sub": "Methodological domain - how the record of this subject was assembled, and by whom",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 901 of 1027, score 14). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D2.",
+"timeline": [
+{
+"date": "1968-11-01",
+"id": "tx-1968-condon",
+"label": "The Condon Report closes the official file",
+"precision": "month",
+"strand": "oversight",
+"text": "The University of Colorado study directed by Edward Condon publishes 'Scientific Study of Unidentified Flying Objects', including Martin Altschuler's chapter on atmospheric electricity and plasma interpretations. Project Blue Book is terminated the following year, ending official American investigation for the next four decades.",
+"tier": 1
+}
+]
+}

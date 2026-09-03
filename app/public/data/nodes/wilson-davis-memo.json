@@ -1,0 +1,531 @@
+{
+"A": 3,
+"C": 3,
+"D": 3,
+"band": "reverse-engineering",
+"claims": [
+{
+"source": "The Wilson-Davis notes, 16 Oct 2002, in public circulation since 2019",
+"text": "The notes record Wilson describing a 1997 attempt to gain access to a special access programme holding recovered non-human material in contractor custody, and being refused on need-to-know grounds by a programme security officer, a contractor programme manager and a lawyer.",
+"tier": 2
+},
+{
+"source": "Eric W. Davis, statements to journalists following the 2019 emergence of the notes",
+"text": "Eric W. Davis has confirmed to journalists that the handwritten notes are his own.",
+"tier": 2
+},
+{
+"source": "Thomas R. Wilson, statements to journalists, 2019 onward",
+"text": "Thomas R. Wilson denies that the meeting took place and denies the substance attributed to him.",
+"tier": 2
+},
+{
+"source": "House Permanent Select Committee on Intelligence subcommittee hearing, 17 May 2022; contemporaneous reporting",
+"text": "At the 17 May 2022 House Intelligence subcommittee UAP hearing, DoD witnesses were questioned about the Wilson-Davis memo and stated they were unaware of it.",
+"tier": 1
+}
+],
+"cls": "document",
+"cluster": "other",
+"connections": [
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "2024",
+"dateStart": "2024",
+"direction": "out",
+"edgeLabel": "AARO's 2024 review does not mention the Wilson-Davis notes or Admiral Wilson",
+"id": "aaro-historical-record-vol1",
+"l0": true,
+"label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
+"note": "The most specific custody allegation in the modern record, whose author and subject are both alive and identifiable, is absent from the government's historical review.",
+"sources": [
+{
+"date": "2024-03-08",
+"name": "AARO, 'Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP), Volume I' (DOPSR-2024-0263)",
+"url": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF"
+},
+{
+"date": "2022-08-01",
+"name": "The Debrief, 'Summer of the Saucers' (notes Wilson-Davis Memo raised at the 17 May 2022 House Intelligence UAP hearing)",
+"url": "https://thedebrief.org/summer-of-the-saucers/"
+}
+],
+"tier": "A",
+"type": "denial"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "2024",
+"dateStart": "2024",
+"direction": "out",
+"edgeLabel": "AARO's report independently catalogues the same structural allegation the memo describes",
+"id": "aaro-historical-record-vol1",
+"l0": true,
+"label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
+"note": "AARO records a senior military officer describing a craft floating in a building with roughly 150 people working on it, in a program kept 'outside of government so the technology could remain proprietary' - the memo's central claim, restated in a DoD publication.",
+"sources": [
+{
+"date": "2024-03-08",
+"name": "AARO, 'Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP), Volume I'",
+"url": "https://documents2.theblackvault.com/documents/dod/AARO_Historical_Record_Report_Volume_1_2024.pdf"
+}
+],
+"tier": "A",
+"type": "temporal"
+},
+{
+"claimTier": 3,
+"cls": "person",
+"dateEnd": "2023",
+"dateStart": "2002",
+"direction": "out",
+"edgeLabel": "The 2002 notes and the 2023 sworn testimony describe the same access-denial mechanism",
+"id": "david-grusch",
+"l0": false,
+"label": "David Charles Grusch",
+"note": "Both describe an appropriately cleared official being refused a read-on by programme security officers and contractor gatekeepers on need-to-know grounds. Twenty-one years apart, two officials describe the same wall.",
+"sources": [
+{
+"date": "2022-08-01",
+"name": "The Debrief, 'Summer of the Saucers' (notes Wilson-Davis Memo raised at the 17 May 2022 House Intelligence UAP hearing)",
+"url": "https://thedebrief.org/summer-of-the-saucers/"
+},
+{
+"date": "2024-03-08",
+"name": "AARO, 'Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP), Volume I' (DOPSR-2024-0263)",
+"url": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF"
+}
+],
+"tier": "A",
+"type": "witness-chain"
+},
+{
+"claimTier": 3,
+"cls": "institution",
+"dateEnd": "2002",
+"dateStart": "2002",
+"direction": "out",
+"edgeLabel": "The meeting is reported to have taken place at an EG&G facility in Las Vegas",
+"id": "eg-and-g",
+"l0": true,
+"label": "EG&G (Edgerton, Germeshausen and Grier)",
+"note": "EG&G held the Groom Lake support and personnel-transport contracts; the reported venue matters because it places the conversation inside the contractor perimeter it describes.",
+"sources": [
+{
+"date": "2022-08-01",
+"name": "The Debrief, 'Summer of the Saucers' (notes Wilson-Davis Memo raised at the 17 May 2022 House Intelligence UAP hearing)",
+"url": "https://thedebrief.org/summer-of-the-saucers/"
+}
+],
+"tier": "A",
+"type": "custody"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2019",
+"dateStart": "2002",
+"direction": "in",
+"edgeLabel": "Author of record of the notes of the alleged 16 October 2002 Wilson meeting",
+"id": "eric-davis",
+"l0": false,
+"label": "Eric W. Davis",
+"note": "Notes attributed to Davis describing a meeting with former DIA director Vice Adm. Thomas R. Wilson surfaced in 2019 among the estate papers of Edgar Mitchell. Provenance is a private estate, not a government release; Davis has not publicly repudiated authorship.",
+"sources": [
+{
+"date": "2020-07-23",
+"name": "Ralph Blumenthal, 'No Longer in the Shadows, Pentagon's U.F.O. Unit Will Make Some Findings Public', The New York Times",
+"url": "https://www.nytimes.com/2020/07/23/us/politics/pentagon-ufo-harry-reid-navy.html"
+}
+],
+"tier": "A",
+"type": "custody"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2019",
+"dateStart": "2002",
+"direction": "in",
+"edgeLabel": "author of the notes at the centre of the custody claim",
+"id": "eric-davis",
+"l0": false,
+"label": "Eric W. Davis",
+"note": "The memo records Vice Adm. Thomas Wilson being refused access to a program holding a recovered craft on the ground that it sat with a private aerospace contractor and he had no need to know. Davis has never authenticated it; Wilson has denied the meeting.",
+"sources": [
+{
+"date": "2019-01-18",
+"name": "The War Zone",
+"url": "https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk"
+},
+{
+"date": "2022-08-01",
+"name": "The Debrief, 'Summer of the Saucers' (notes Wilson-Davis Memo raised at the 17 May 2022 House Intelligence UAP hearing)",
+"url": "https://thedebrief.org/summer-of-the-saucers/"
+},
+{
+"date": "2021-05-10",
+"name": "Gideon Lewis-Kraus, 'How the Pentagon Started Taking U.F.O.s Seriously', The New Yorker",
+"url": "https://www.newyorker.com/magazine/2021/05/10/how-the-pentagon-started-taking-ufos-seriously"
+},
+{
+"date": "2024-03-08",
+"name": "AARO, 'Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP), Volume I'",
+"url": "https://documents2.theblackvault.com/documents/dod/AARO_Historical_Record_Report_Volume_1_2024.pdf"
+}
+],
+"tier": "A",
+"type": "witness-chain"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2026",
+"dateStart": "2026",
+"direction": "in",
+"edgeLabel": "Dedicated chapter on the Wilson-Davis memo with Davis present",
+"id": "jesse-michels",
+"l0": false,
+"label": "Jesse Michels",
+"note": "Chapter at 37:56 of the 8 March 2026 episode, with the memo's named author-participant in the room - the closest to a primary-source interrogation of that document yet conducted in public.",
+"sources": [
+{
+"date": "2026-03-08",
+"name": "American Alchemy - Weinstein/Davis episode",
+"url": "https://www.youtube.com/watch?v=xnxasfyHtfo"
+}
+],
+"tier": "B",
+"type": "investigative"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2019",
+"dateStart": "2019",
+"direction": "in",
+"edgeLabel": "The memo pages entered public circulation from Green's document holdings",
+"id": "kit-green",
+"l0": false,
+"label": "Christopher C. 'Kit' Green",
+"note": "Green has acknowledged that documents left his possession without vouching for their contents; the provenance chain between 2002 and 2019 has never been established.",
+"sources": [
+{
+"date": "2024-03-08",
+"name": "AARO, 'Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP), Volume I'",
+"url": "https://documents2.theblackvault.com/documents/dod/AARO_Historical_Record_Report_Volume_1_2024.pdf"
+},
+{
+"date": "2026-01-13",
+"name": "Christopher Sharp, 'UFO Allegedly Stored At East Coast Navy Facility As Material Transfer Claims Resurface,' Liberation Times",
+"url": "https://www.liberationtimes.com/home/ufo-allegedly-stored-at-east-coast-navy-facility-as-material-transfer-claims-resurface"
+}
+],
+"tier": "A",
+"type": "custody"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "2019",
+"direction": "in",
+"edgeLabel": "Wilson denies the meeting and the substance attributed to him",
+"id": "thomas-wilson",
+"l0": false,
+"label": "Thomas R. Wilson",
+"note": "Wilson's denial is recorded as a primary artefact. It is irreconcilable with Davis's confirmation of authorship, and no agency has attempted to resolve it.",
+"sources": [
+{
+"date": "2022-08-01",
+"name": "The Debrief, 'Summer of the Saucers' (notes Wilson-Davis Memo raised at the 17 May 2022 House Intelligence UAP hearing)",
+"url": "https://thedebrief.org/summer-of-the-saucers/"
+}
+],
+"tier": "C",
+"type": "denial"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "2002",
+"deg": 7,
+"denials": [
+{
+"by": {
+"id": "aaro-historical-record-vol1",
+"label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+},
+"claimTier": 1,
+"denialKind": "directed",
+"label": "AARO's 2024 review does not mention the Wilson-Davis notes or Admiral Wilson",
+"note": "The most specific custody allegation in the modern record, whose author and subject are both alive and identifiable, is absent from the government's historical review.",
+"of": {
+"id": "wilson-davis-memo",
+"label": "The Wilson-Davis Notes (16 October 2002)"
+},
+"sources": [
+{
+"date": "2024-03-08",
+"name": "AARO, 'Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP), Volume I' (DOPSR-2024-0263)",
+"url": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF"
+},
+{
+"date": "2022-08-01",
+"name": "The Debrief, 'Summer of the Saucers' (notes Wilson-Davis Memo raised at the 17 May 2022 House Intelligence UAP hearing)",
+"url": "https://thedebrief.org/summer-of-the-saucers/"
+}
+]
+},
+{
+"by": {
+"id": "thomas-wilson",
+"label": "Thomas R. Wilson"
+},
+"claimTier": 2,
+"denialKind": "directed",
+"label": "Wilson denies the meeting and the substance attributed to him",
+"note": "Wilson's denial is recorded as a primary artefact. It is irreconcilable with Davis's confirmation of authorship, and no agency has attempted to resolve it.",
+"of": {
+"id": "wilson-davis-memo",
+"label": "The Wilson-Davis Notes (16 October 2002)"
+},
+"sources": [
+{
+"date": "2022-08-01",
+"name": "The Debrief, 'Summer of the Saucers' (notes Wilson-Davis Memo raised at the 17 May 2022 House Intelligence UAP hearing)",
+"url": "https://thedebrief.org/summer-of-the-saucers/"
+}
+]
+}
+],
+"desc": "Fifteen pages of handwritten notes made by the astrophysicist Eric W. Davis on 16 October 2002, recording what retired Vice Admiral Thomas R. Wilson - former Joint Staff J-2 and, until months earlier, Director of the Defense Intelligence Agency - told him at a meeting reported to have taken place at an EG&G facility in Las Vegas. The notes describe Wilson learning in 1997 of a special access programme holding recovered material of non-human origin in the custody of an aerospace contractor; obtaining a meeting with the programme's gatekeepers, described as a programme security officer, a contractor programme manager and a lawyer; and being refused the read-on because he lacked need-to-know. The notes surfaced publicly in 2019 from material connected to the estate of Apollo 14 astronaut Edgar Mitchell. Davis has confirmed the notes are his. Wilson denies the meeting and its substance. Members of the House Intelligence subcommittee raised the memo directly with Pentagon witnesses at the 17 May 2022 UAP hearing and were told the witnesses were unaware of it. No official US government publication - including AARO's 2024 Historical Record Report Volume I - has ever addressed the document. The board records it in full because its central mechanism (a cleared senior official refused access by contractor gatekeepers) is the same mechanism sworn to by David Grusch in July 2023, and because a document whose author is alive and identified and whose subject is alive and identified is a resolvable question that no institution has chosen to resolve.",
+"domains": [
+"_rs-archive-mirror",
+"history-1970s-2000s"
+],
+"dossier": {
+"claims": [
+{
+"source": "https://archive.org/details/annotated_wilson_memo",
+"text": "The Internet Archive copy of the annotated memo identifies its provenance as \"Part of the US Congressional Record\" at https://www.congress.gov/117/meeting/house/114761/documents/HHRG-117-IG05-20220517-SD001.pdf, the document file for the 17 May 2022 House Permanent Select Committee on Intelligence subcommittee UAP hearing. Reporting indicates Rep. Mike Gallagher raised the document at that hearing and obtained unanimous consent to enter it into the record as SD001.",
+"tier": 1
+},
+{
+"source": "Wilson-Davis memo, 16 October 2002, p.1; full text at https://archive.org/stream/annotated_wilson_memo/annotated_wilson_memo_djvu.txt",
+"text": "The document is dated 10/16/02, headed \"Eric Davis Meeting with Adm. Wilson,\" and records the meeting as taking place at the EG&G Special Projects building at Grier and Paradise, with the conversation held in Wilson's car behind the EG&G building until 11:20 A.M.",
+"tier": 1
+},
+{
+"source": "Wilson-Davis memo, 16 October 2002, pp.12-13; https://archive.org/stream/annotated_wilson_memo/annotated_wilson_memo_djvu.txt",
+"text": "The memo records the contractor program manager stating the program was \"a reverse engineering program,\" that \"They had a craft - an intact craft they believed could fly,\" and that \"it was technology that was not of this Earth - not made by man - not by human hands.\"",
+"tier": 1
+},
+{
+"source": "Wilson-Davis memo, 16 October 2002, pp.6-7; https://archive.org/stream/annotated_wilson_memo/annotated_wilson_memo_djvu.txt",
+"text": "The memo names Maj. Gen. H. Marshal Ward and Secretary William Perry as the sources of the suggestion to search records-group files in OUSD(A&T), and identifies Paul Kaminski as Under Secretary of Defense (Acquisition and Technology) and Brig. Gen. Michael Kostelnik as director of special programs in OUSD(A&T), director of the Special Access Programs Coordination Office (SAPCO), executive secretary to the Special Access Programs Oversight Committee (SAPOC), and a member of the Senior Review Group. The memo states that what Wilson found there was \"a special projects record group not belonging to usual SAP - a special subset of the unacknowledged/carve-outs/waived programs - not belonging to usual SAP divisions as organized in '94 by Perry himself - set apart from rest but buried/covered by conventional SAPs.\"",
+"tier": 1
+},
+{
+"source": "Wilson-Davis memo, 16 October 2002, pp.7-8; https://archive.org/stream/annotated_wilson_memo/annotated_wilson_memo_djvu.txt",
+"text": "The memo records that program security spending ran \"like 2-3 times the program budget, but there were times when it went as high as 6-7 times core budget,\" that Perry wanted an investigation of the ratio and \"was told to drop it,\" and names Judith Daly, Assistant Deputy Under Secretary of Defense for Advanced Development, OUSD(A&T), as the official who explained the figures as cumulative rather than annual security budget reporting.",
+"tier": 1
+},
+{
+"source": "Wilson-Davis memo, 16 October 2002, pp.10-12; https://archive.org/stream/annotated_wilson_memo/annotated_wilson_memo_djvu.txt",
+"text": "The memo describes three contractor officials - a program director, a security director identified as NSA-retired and a counterintelligence expert, and a corporate attorney - who \"Called themselves 'the watch committee,' or gate keepers,\" and who told Wilson that access criteria were \"to be administered by contractor committee... irregardless of the tickets and position USG personnel possessed,\" and that \"Regulatory and statutory authority as Deputy Director DIA not relevant or pertinent to nature of their program.\"",
+"tier": 1
+},
+{
+"source": "Wilson-Davis memo, 16 October 2002, pp.11-13; https://archive.org/stream/annotated_wilson_memo/annotated_wilson_memo_djvu.txt",
+"text": "The memo records a bigot list \"several pages long - dated 1990, updated 1993,\" comprising mostly civilian program employees, containing no politicians, no White House names, no President, no Congressional people and no Congressional staffers, but including \"a handful of names\" of Pentagon individuals Wilson recognised - some from OUSD(A&T), one from another department and one at the National Security Council who was a Pentagon SES employee - and a workforce of \"about 400-800 (bigot list count) workers varying in number with funding or personnel changes.\"",
+"tier": 1
+},
+{
+"source": "Wilson-Davis memo, 16 October 2002, pp.8-9; https://archive.org/stream/annotated_wilson_memo/annotated_wilson_memo_djvu.txt",
+"text": "The memo records Wilson identifying the holder only as \"An aerospace technology contractor - one of the top ones in US,\" \"the best one of them,\" with intelligence \"In their corporate portfolio,\" and refusing to name it, the program compartment or the code name, each time on the grounds that it was a \"core secret.\"",
+"tier": 1
+},
+{
+"source": "Wilson-Davis memo, 16 October 2002, pp.13-14; https://archive.org/stream/annotated_wilson_memo/annotated_wilson_memo_djvu.txt",
+"text": "The memo records that after Wilson complained to the SAPOC Senior Review Group, its members sustained the contractor's access denial twice, told him \"to immediately drop the matter and let it go,\" and that the Senior Review Group chairman warned that if he did not comply he \"would not see Director DIA promotion, get early retirement, lose 1 or 2 stars along the way.\"",
+"tier": 1
+},
+{
+"source": "Wilson-Davis memo, 16 October 2002, p.14; https://archive.org/stream/annotated_wilson_memo/annotated_wilson_memo_djvu.txt",
+"text": "The memo records Wilson quoting incoming Under Secretary of Defense (Acquisition and Technology) Jacques Gansler, in a January 1998 conversation about the June 1997 meetings, as saying \"UFOs are real, so-called 'alien abductions' not real,\" and then telling Wilson to drop the matter.",
+"tier": 1
+},
+{
+"source": "Miller to Davis, 25 April 2002, reproduced in the Wilson-Davis memo package, pp.3-5; https://archive.org/stream/annotated_wilson_memo/annotated_wilson_memo_djvu.txt",
+"text": "The memo package includes an attached letter from Cmdr. Willard 'Will' Miller dated 25 April 2002, addressed to \"Dr. Eric W. Davis, CEO, Warp Drive Metrics, 4849 San Rafael Ave., Las Vegas, NV 89120,\" offering to supply \"A list of civilian government contractors who, by virtue of their past and current highly classified work... most likely have current involvement in and knowledge of USG work in alien-derived technologies, crashes, landing, and associated events\" at \"$180 per straight-time hour.\"",
+"tier": 1
+},
+{
+"source": "https://lifeinjonestown.substack.com/p/reviving-the-w-d-memo",
+"text": "Adm. Thomas Wilson has denied the meeting on the record, telling a reporter \"It's all fiction\" and \"I wouldn't know Eric Davis if he walked in right now... I don't remember him, and I definitely did not sit with him in a car for an hour in Las Vegas,\" and states he told both a Senate staffer and AARO that Davis is making it all up. Eric Davis has declined to comment publicly on the document.",
+"tier": 2
+},
+{
+"source": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF",
+"text": "AARO's Historical Record Report Volume 1 (8 March 2024) does not contain the name 'Wilson' anywhere in its text and does not address this document by name, while stating that \"AARO found no empirical evidence for claims that the USG and private companies have been reverse-engineering extraterrestrial technology\" and that the claim is \"in large part, the result of circular reporting from a group of individuals.\"",
+"tier": 1
+},
+{
+"source": "https://lifeinjonestown.substack.com/p/reviving-the-w-d-memo",
+"text": "Individuals identified in reporting as having set up the alleged meeting have stated they did not know Adm. Wilson and would not have facilitated a meeting between him and Davis; identifying and interviewing the 'Rich' and 'Doug' named in the memo as AFIO members who arranged the Nevada trip is the most direct available authentication test.",
+"tier": 3
+}
+],
+"connections": [
+"Vice Adm. Thomas R. Wilson: Deputy Director DIA and Assistant Joint Chief of Staff J-2 in 1997, Director of DIA 1999 to July 2002, succeeded by Vice Adm. Lowell E. Jacoby; his superior in 1997 was Lt. Gen. Patrick M. Hughes, then Director DIA",
+"Dr. Eric W. Davis: CEO of Warp Drive Metrics in 2002 per the attached Miller letter, later of EarthTech International with Harold Puthoff, and an author of AAWSAP Defense Intelligence Reference Documents",
+"Cmdr. Willard 'Will' Miller is the intermediary in both directions - present at the April 1997 Pentagon briefing with Wilson, and the author of the 25 April 2002 letter offering Davis a contractor target list for a fee",
+"Dr. Steven Greer and Dr. Edgar Mitchell gave the April 1997 Pentagon briefing per the memo; the document is said to have surfaced from Mitchell's estate after his death in February 2016",
+"Oke Shannon, described as a former Los Alamos National Laboratory program manager and attendee of the Advanced Theoretical Physics working group, is the vouching intermediary who made the meeting possible per the memo",
+"OUSD(A&T) governance chain named in the memo: William Perry, Paul Kaminski, Brig. Gen. Michael Kostelnik, Maj. Gen. H. Marshal Ward, Judith Daly, Jacques Gansler - plus SAPCO, SAPOC and the Senior Review Group as the institutional machinery",
+"EG&G, the Nevada Test Site and Groom Lake support contractor, is the meeting venue in the memo, tying the document to the Nevada special-projects infrastructure and to NNSA, which the memo says arranged Wilson's trip",
+"Harold Puthoff, Kit Green and Col. John Alexander appear in the memo's closing pages as the people Davis proposed Wilson speak to next, linking it to the remote viewing and NIDS/Bigelow networks",
+"Rep. Mike Gallagher and the 17 May 2022 HPSCI subcommittee hearing are the vector by which the document entered the congressional record",
+"Leslie Kean and the Boston Globe articles are named in the memo as the leak path that made Wilson furious with Miller"
+],
+"denialPosture": "Wilson denies both the meeting and its substance in unqualified terms and says he has repeated the denial to a Senate staffer and to AARO. The memo itself anticipates exactly this, recording Wilson saying \"If you blow my trust I'll deny meeting you, deny everything said, won't meet with any more people (without clearances) to talk about this topic\" - which makes the denial non-diagnostic in either direction. Davis has neither authenticated nor repudiated the document publicly. AARO's most detailed published treatment of the reverse-engineering allegations does not mention Wilson or the memo at all, disposing of the category by reference to circular reporting rather than by addressing the artifact.",
+"narrative": "The document must be handled as three separable things: an artifact with a physical history, a set of assertions about 1997, and a contested attribution. Keeping them separate is what makes it usable.\n\nAs an artifact, its most consequential fact is institutional. The Internet Archive copy of the annotated memo cites, as its provenance, the congressional document HHRG-117-IG05-20220517-SD001 posted at congress.gov under the 17 May 2022 hearing of the House Permanent Select Committee on Intelligence Subcommittee on Counterterrorism, Counterintelligence and Counterproliferation - the first open congressional UAP hearing in over fifty years. Reporting indicates Rep. Mike Gallagher raised the document with the Pentagon witnesses and obtained unanimous consent to enter it into the record. Whatever its authenticity, it is now a document in a congressional hearing file, and its assertions are therefore assertions Congress has formally received and not adjudicated.\n\nAs a set of assertions, the notes describe a search rather than a revelation. Wilson, then Deputy Director of DIA and Assistant JCS J-2, is depicted as acting after an April 1997 Pentagon conference-room briefing given by Steven Greer, Cmdr. Willard Miller and Edgar Mitchell, at which Adm. Mike Crawford and Wilson's superior Lt. Gen. Patrick Hughes were present. Wilson and Miller then spoke privately for two hours about, in the memo's phrasing, UFOs, MJ-12, Roswell, crashed UFOs and alien bodies. Wilson is described as already knowing of intelligence on US military and foreign government close encounters. Over roughly forty-five days he made calls, was pointed by Maj. Gen. Ward and by Perry toward the records groups in OUSD(A&T), located what he describes as a special projects record group that did not belong to the usual SAP divisions as organised by Perry in 1994, and read the index abstracts. He is described as being told by Kostelnik that program security costs ran two to three times the program budget and at times six to seven times core budget, that Perry had wanted an investigation of that ratio and was told to drop it, and that Judith Daly explained the discrepancy as a records-keeping artifact of cumulative versus annual reporting.\n\nWhat follows is the part that is genuinely novel in the UFO literature, because it is not about a craft. It is about jurisdiction. Wilson is described as making three calls to the program manager, one a conference call with a security director and a corporate attorney, and then flying out ten days later to meet the same three in a secure vault. They call themselves \"the watch committee\" or gatekeepers, and explain that they formed after an earlier audit investigation nearly exposed them, following which a formal agreement was struck with SAPOC establishing special access criteria administered by the contractor committee rather than by the government, such that no USG personnel gain access unless the contractor's criteria are met \"irregardless of the tickets and position USG personnel possessed.\" Wilson's regulatory and statutory authority as Deputy Director DIA is declared not relevant to their program. He is shown a bigot list several pages long, dated 1990 and updated 1993, mostly program employees, civilians, with a handful of recognisable Pentagon names from OUSD(A&T), one from another department, and one at the NSC who was a Pentagon SES employee. No politicians. No White House. No Congress.\n\nOnly then does the substance appear, and it is brief: the program manager states they are not a weapons, intelligence, special operations or logistics program; that they are a reverse engineering program; that something was recovered years ago; that they have an intact craft they believe could fly; that it did not come from overseas and could not have; that they did not know where it was from; that it was \"technology that was not of this Earth - not made by man - not by human hands\"; that progress had been agonisingly slow with painful lack of outside collaboration; and that the bigot-list workforce ran about 400 to 800 people varying with funding. On Roswell, Holloman, MJ-12 and Zamora and Bentwaters, they declined to discuss. Wilson threatened to escalate to SAPOC, did so, and the Senior Review Group sustained the contractor twice, told him to drop it, and - per the memo - the chairman warned he would not see the DIA director promotion, would get early retirement, and would lose one or two stars. In January 1998 Wilson is described as raising his June 1997 meetings with the new Under Secretary Jacques Gansler, who had somehow been briefed, and who said: \"UFOs are real, so-called 'alien abductions' not real.\"\n\nAs a contested attribution, the record is unambiguous on one side and silent on the other. Wilson has denied it directly, telling a reporter it is all fiction, that he would not know Eric Davis if he walked in, and that he did not sit in a car with him in Las Vegas for an hour; he says he told both a Senate staffer and AARO that Davis is making it up. Davis has declined to comment publicly on the document since it appeared. Individuals identified in the memo as arranging the meeting are reported to have denied knowing Wilson. And AARO's own Historical Record Report Volume 1, the government's most extensive published treatment of exactly these allegations, does not contain the name Wilson anywhere in its 1,500-plus lines of text - it disposes of the entire category by asserting that claims involving specific people, locations, tests and documents are inaccurate and largely the product of circular reporting, without engaging this document at all. A critical handling note: the widely circulated PDF is an annotated version, and the marginal identification of Lockheed Martin as the unnamed contractor is the anonymous annotator's inference, not anything attributed to Wilson in the notes.",
+"openQuestions": [
+"The chain of custody from the alleged 2002 note-taking to the Edgar Mitchell estate to the 2019 online release has never been documented",
+"Whether an unannotated original bearing Davis's handwriting exists and has been examined by anyone independent",
+"Whether the congressional submission was accompanied by any authentication, and who submitted it to the committee",
+"Whether Kostelnik, Ward, Daly, Gansler or Kaminski have ever been asked about the memo's assertions on the record or under oath",
+"Whether the OUSD(A&T) special projects record group the memo describes exists as an archival entity that could be requested by document control number",
+"Whether AARO interviewed Wilson, what he said, and why the Historical Record Report does not mention the document at all despite it being in a congressional hearing file",
+"The identity of the audit investigation the 'watch committee' says nearly exposed them, and the terms of the formal agreement with SAPOC that followed"
+],
+"roles": [
+"reverse-engineering",
+"concealment",
+"oversight",
+"custody"
+],
+"whatItIs": "A 15-page document consisting of meeting notes attributed to Dr. Eric W. Davis, headed \"Eric Davis Meeting with Adm. Wilson\" and dated 10/16/02, purporting to record an approximately seventy-minute conversation with recently retired Vice Adm. Thomas R. Wilson - former Deputy Director of the Defense Intelligence Agency and Assistant Joint Chief of Staff J-2, and Director of DIA from 1999 until July 2002. The notes place the conversation in Wilson's parked car behind the EG&G Special Projects building at Grier and Paradise in Las Vegas. The document is said to have surfaced from the estate of Apollo 14 astronaut Edgar Mitchell following his death in February 2016 and circulated online from 2019. Its provenance is contested and Wilson has denied the meeting on the record. Critical handling note: the version in general circulation is an annotated PDF prepared by an anonymous third party, and the marginal identifications of Lockheed Martin as the unnamed contractor and of Noel Longuemare Jr. as the Senior Review Group chairman are the annotator's inferences, not statements attributed to Wilson anywhere in the notes.",
+"whyImplicated": "If authentic, this is the single most operationally specific description in the open record of how a legacy retrieval and reverse-engineering effort would be insulated from oversight - and it is specific in ways that are checkable. It describes a special projects record group inside the Office of the Under Secretary of Defense for Acquisition and Technology that sat outside the SAP divisions William Perry reorganised in 1994. It names the officials Wilson allegedly worked through: Perry, Under Secretary Paul Kaminski, Brig. Gen. Michael Kostelnik as director of special programs and SAPCO director and executive secretary to SAPOC, Maj. Gen. H. Marshal Ward, Judith Daly at OUSD(A&T), and Jacques Gansler on arrival in December 1997. It describes a contractor-side committee of program director, security director and corporate attorney - calling itself \"the watch committee\" - administering access criteria that overrode a serving three-star's statutory need-to-know, and a bigot list dated 1990 and updated 1993 covering 400 to 800 workers containing no politicians, no White House names and no congressional staffers. And it describes the enforcement mechanism: the SAPOC Senior Review Group sustaining the contractor and warning Wilson he would lose his promotion and one or two stars. If it is a fabrication, that is equally load-bearing, because the fabricator understood SAP governance vocabulary well enough that the document was later entered into a congressional hearing record."
+},
+"entityInfo": {
+"desc": "What the notes are alleged to contain, and why the board keeps them at claim tier 2 rather than promoting or dismissing them. The document is fifteen pages of handwriting. It is dated 16 October 2002. Its author, Eric W. Davis, is alive, named, and has confirmed authorship. Its subject, Vice Admiral Thomas R. Wilson (ret.), is alive, named, and denies it. The substance recorded is: that in 1997, as Joint Staff J-2, Wilson learned from a colleague of a special access programme concerning recovered non-human material; that he traced it through the SAP oversight apparatus to a programme with an aerospace contractor as the custodian; that he obtained a meeting with the programme's gatekeepers - described as a security officer, a corporate programme manager and a lawyer; and that he was refused the read-on because he had no need to know, notwithstanding his position. Three things make this more than a rumour and less than proof. More: the mechanism it describes - contractor-held custody, access denial to a cleared senior official on need-to-know grounds - was independently described under oath by David Grusch to the House Oversight Committee on 26 July 2023, and Grusch had no access to Wilson. Less: there is no second witness, no corroborating document, and the chain of custody by which the notes reached the public in 2019 has never been established on the record. Neither DoD nor AARO has published anything about the document. Members of the House Intelligence subcommittee put it to Ronald Moultrie and Scott Bray on 17 May 2022 and were told the witnesses were unaware of it. Two men are alive who can settle this, and no institution with subpoena power has attempted to make them.",
+"sources": [
+{
+"date": "2022-08-01",
+"name": "The Debrief, 'Summer of the Saucers' (notes Wilson-Davis Memo raised at the 17 May 2022 House Intelligence UAP hearing)",
+"url": "https://thedebrief.org/summer-of-the-saucers/"
+},
+{
+"date": "2024-03-08",
+"name": "AARO, 'Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP), Volume I' (DOPSR-2024-0263)",
+"url": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF"
+},
+{
+"date": "2021-05-10",
+"name": "Gideon Lewis-Kraus, 'How the Pentagon Started Taking U.F.O.s Seriously', The New Yorker",
+"url": "https://www.newyorker.com/magazine/2021/05/10/how-the-pentagon-started-taking-ufos-seriously"
+}
+]
+},
+"era": "2",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": 11,
+"id": "wilson-davis-memo",
+"l0": true,
+"label": "The Wilson-Davis Notes (16 October 2002)",
+"locLabel": null,
+"members": [
+{
+"cls": "person",
+"id": "david-grusch",
+"label": "David Charles Grusch",
+"tier": "A"
+},
+{
+"cls": "person",
+"id": "eric-davis",
+"label": "Eric W. Davis",
+"tier": "A"
+},
+{
+"cls": "person",
+"id": "jesse-michels",
+"label": "Jesse Michels",
+"tier": "B"
+},
+{
+"cls": "person",
+"id": "kit-green",
+"label": "Christopher C. 'Kit' Green",
+"tier": "A"
+},
+{
+"cls": "person",
+"id": "thomas-wilson",
+"label": "Thomas R. Wilson",
+"tier": "C"
+}
+],
+"short": "The Wilson-Davis Notes (16 October 2002)",
+"sources": [
+{
+"date": "2026-07-05",
+"name": "Archived: AARO, 'Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP), Volume I' (DOPSR-2024-0263) (Wayback 2026-07-05)",
+"url": "https://web.archive.org/web/20260705034310/https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF"
+},
+{
+"date": "2022-08-01",
+"name": "The Debrief, 'Summer of the Saucers' (notes Wilson-Davis Memo raised at the 17 May 2022 House Intelligence UAP hearing)",
+"url": "https://thedebrief.org/summer-of-the-saucers/"
+},
+{
+"date": "2024-03-08",
+"name": "AARO, 'Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP), Volume I' (DOPSR-2024-0263)",
+"url": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF"
+},
+{
+"date": "2021-05-10",
+"name": "Gideon Lewis-Kraus, 'How the Pentagon Started Taking U.F.O.s Seriously', The New Yorker",
+"url": "https://www.newyorker.com/magazine/2021/05/10/how-the-pentagon-started-taking-ufos-seriously"
+}
+],
+"sub": "Fifteen handwritten pages by Eric W. Davis of a conversation with VADM Thomas R. Wilson (ret.)",
+"tier": "A",
+"tierRationale": "Re-graded A on a global pass (rank 82 of 1027, score 68). 9 connections, 5 of them custody/witness/funding/programmatic, 2 official denials recorded against it. Axes C3/A3/D3.",
+"timeline": [
+{
+"date": "2002-10-16",
+"id": "t-2002-wilson",
+"label": "The Wilson-Davis meeting",
+"precision": "day",
+"strand": "program",
+"text": "Eric Davis takes fifteen pages of handwritten notes recording Admiral Thomas Wilson describing being refused access, on need-to-know grounds, to a SAP holding recovered non-human material in contractor custody.",
+"tier": "C"
+},
+{
+"date": "2019-04-01",
+"id": "t-2019-wilsonnotes",
+"label": "Wilson-Davis notes surface",
+"precision": "month",
+"strand": "program",
+"text": "The fifteen pages enter public circulation. Davis confirms the notes are his; Wilson denies the meeting and its substance. No agency has attempted to reconcile the two.",
+"tier": "C"
+},
+{
+"date": "2022-05-17",
+"id": "t-2022-hearing",
+"label": "Congress asks DoD about the Wilson-Davis memo",
+"precision": "day",
+"strand": "oversight",
+"text": "At the House Intelligence subcommittee UAP hearing, Ronald Moultrie and Scott Bray are asked directly about the Wilson-Davis memo and the Malmstrom missile events and state they are unaware of them.",
+"tier": "A"
+}
+]
+}

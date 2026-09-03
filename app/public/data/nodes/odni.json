@@ -1,0 +1,717 @@
+{
+"A": 3,
+"C": 1,
+"D": 3,
+"band": "research",
+"claims": [
+{
+"source": "ODNI Preliminary Assessment, 25 June 2021",
+"text": "ODNI published 'Preliminary Assessment: Unidentified Aerial Phenomena' on 25 June 2021, analysing 144 reports from USG sources of which 80 involved multiple sensors, sorted into five explanatory categories.",
+"tier": 1
+},
+{
+"source": "ODNI Preliminary Assessment, 25 June 2021",
+"text": "The 2021 Preliminary Assessment names as contributors USD(I&S), DIA, FBI, NRO, NGA, NSA, Air Force, Army, Navy/ONI, DARPA, FAA, NOAA, ODNI/NIM-Emerging and Disruptive Technology, ODNI/NCSC and the National Intelligence Council.",
+"tier": 1
+},
+{
+"source": "ODNI Preliminary Assessment, 25 June 2021",
+"text": "The Preliminary Assessment states that 'The limited amount of high-quality reporting on unidentified aerial phenomena (UAP) hampers our ability to draw firm conclusions about the nature or intent of UAP.'",
+"tier": 1
+},
+{
+"source": "National Archives press release nr25-07, 24 April 2025",
+"text": "ODNI is one of four agencies (with OSD, FAA and the Nuclear Regulatory Commission) whose UAP records NARA announced on 24 April 2025 had been transferred into the statutory UAP Collection under sections 1841-1843 of Public Law 118-31.",
+"tier": 1
+}
+],
+"cls": "institution",
+"cluster": "other",
+"connections": [
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "2012-07-06",
+"direction": "in",
+"edgeLabel": "The DNI must concur in the appointment to the office she held",
+"id": "betty-sapp",
+"l0": false,
+"label": "Betty J. Sapp",
+"note": "The statutory route to the office she held requires the Director of National Intelligence to concur in the Secretary of Defense's recommendation to the President, per 50 U.S.C. 3041(b)(2)(B) as cited in the same CRS table.",
+"sources": [
+{
+"date": "2019-03-19",
+"name": "CRS IF10538 version 6, Table 1, citing 50 U.S.C. 3041(b)(2)(B)",
+"url": "https://www.congress.gov/crs_external_products/IF/PDF/IF10538/IF10538.6.pdf"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "Senior partner was ODNI's Intelligence Community Inspector General",
+"id": "compass-rose-legal-group",
+"l0": false,
+"label": "Compass Rose Legal Group",
+"note": "Compass Rose senior partner I. Charles McCullough III holds the tie to ODNI in his own right. Chairman Feinstein opened his confirmation hearing by describing its purpose: 'to consider the President's nomination of Charles McCullough to be the first Inspector General of the Intelligence Community.' McCullough told the Committee he was then 'serving on detail from the National Security Agency as the Deputy Inspector General at the Office of the Director of National Intelligence', and thanked Director Clapper for his support. The office he was confirmed into sits inside ODNI, which is the channel Grusch's complaint later ran through.",
+"sources": [
+{
+"date": "2011-09-22",
+"name": "S. Hrg. 112-309, 'Nomination of Irvin Charles McCullough III to be Inspector General of the Intelligence Community', Senate Select Committee on Intelligence, 22 September 2011",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-112shrg72745/html/CHRG-112shrg72745.htm"
+},
+{
+"date": null,
+"name": "https://compassrosepllc.com/mccullough/",
+"url": "https://compassrosepllc.com/mccullough/"
+},
+{
+"date": null,
+"name": "https://thedebrief.org/compass-rose-attorneys-formally-end-association-with-uap-whistleblower-david-grusch/",
+"url": "https://thedebrief.org/compass-rose-attorneys-formally-end-association-with-uap-whistleblower-david-grusch/"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2021-06-25",
+"direction": "in",
+"edgeLabel": "Named contributor to the 2021 ODNI Preliminary Assessment on UAP",
+"id": "darpa",
+"l0": false,
+"label": "Defense Advanced Research Projects Agency",
+"note": "ODNI's 25 June 2021 assessment names DARPA among the contributing elements, establishing that this agency produced or held UAP-relevant reporting.",
+"sources": [
+{
+"date": "2021-06-25",
+"name": "ODNI, Preliminary Assessment: Unidentified Aerial Phenomena",
+"url": "https://archive.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2021-06-25",
+"direction": "in",
+"edgeLabel": "Named contributor to the 2021 ODNI Preliminary Assessment on UAP",
+"id": "dia",
+"l0": true,
+"label": "Defense Intelligence Agency",
+"note": "ODNI's 25 June 2021 assessment names DIA among the contributing elements, establishing that this agency produced or held UAP-relevant reporting.",
+"sources": [
+{
+"date": "2021-06-25",
+"name": "ODNI, Preliminary Assessment: Unidentified Aerial Phenomena",
+"url": "https://archive.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "legislation",
+"dateEnd": null,
+"dateStart": "2023-12-22",
+"direction": "in",
+"edgeLabel": "Imposes the same funding condition on the Director of National Intelligence",
+"id": "iaa-fy2024-7343",
+"l0": true,
+"label": "FY2024 Intelligence Authorization Act sec. 7343 — Funding Limitations Relating to UAP",
+"note": "FY2024 IAA sec. 7343(b) bars obligation of division funds for UAP activity under special or restricted access limitation absent DNI disclosure to six committees and four leaders.",
+"sources": [
+{
+"date": "2023-12-22",
+"name": "Public Law 118-31, FY2024 NDAA (govinfo enrolled text)",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm"
+}
+],
+"tier": "A",
+"type": "legislative"
+},
+{
+"claimTier": 2,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2005",
+"direction": "in",
+"edgeLabel": "IC-side SAP control office enterprise under DNI authority",
+"id": "ic-sapco",
+"l0": false,
+"label": "Intelligence Community special access program control office enterprise",
+"note": "AARO names three distinct SAP control office enterprises - DoD, IC and DHS. The IC enterprise operates under the DNI's compartmentation authority and is not reported under 10 U.S.C. 119 to the defense committees.",
+"sources": [
+{
+"date": "2024-03-08",
+"name": "AARO Historical Record Report Volume I (DOPSR-2024-0263)",
+"url": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF"
+},
+{
+"date": "2024-01-01",
+"name": "10 U.S.C. 119, Special access programs: congressional oversight",
+"url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "location",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "ODNI headquarters at Liberty Crossing",
+"id": "l-mclean",
+"l0": false,
+"label": "McLean, Virginia",
+"note": "The Liberty Crossing intelligence campus, which houses ODNI alongside the National Counterterrorism Center, is in McLean, Virginia: an official federal record titles the President's 27 July 2021 remarks there 'Remarks at the Liberty Crossing Intelligence Campus and an Exchange With Reporters in McClean, Virginia' - the misspelling is the record's own. That record fixes where the campus is; it does not itself designate ODNI's headquarters, which is why this is tier 2.",
+"sources": [
+{
+"date": "2021-07-27",
+"name": "Compilation of Presidential Documents, DCPD-202100617, 'Remarks at the Liberty Crossing Intelligence Campus and an Exchange With Reporters in McClean, Virginia'",
+"url": "https://www.govinfo.gov/app/details/DCPD-202100617"
+},
+{
+"date": null,
+"name": "https://en.wikipedia.org/wiki/National_Counterterrorism_Center",
+"url": "https://en.wikipedia.org/wiki/National_Counterterrorism_Center"
+}
+],
+"tier": "C",
+"type": "geographic"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "transferred records",
+"id": "nara-rg615",
+"l0": true,
+"label": "National Archives Record Group 615 - UAP Records Collection",
+"note": "ODNI is one of seven RG 615 contributors; its electronic-records bulk download stood at 1.29MB as of the April 2025 inventory.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "National Archives, Record Group 615",
+"url": "https://www.archives.gov/research/topics/uaps/rg-615"
+},
+{
+"date": "2025-04-24",
+"name": "National Archives, UAP bulk downloads",
+"url": "https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download"
+}
+],
+"tier": "A",
+"type": "custody"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2025-04-24",
+"direction": "out",
+"edgeLabel": "ODNI transferred UAP records into the statutory collection",
+"id": "nara-uap-collection",
+"l0": true,
+"label": "National Archives Unidentified Anomalous Phenomena Records Collection",
+"note": "NARA's press release nr25-07 names ODNI as one of four transferring agencies, alongside OSD, the FAA and the Nuclear Regulatory Commission.",
+"sources": [
+{
+"date": "2025-04-24",
+"name": "National Archives press release nr25-07",
+"url": "https://www.archives.gov/press/press-releases/2025/nr25-07"
+}
+],
+"tier": "A",
+"type": "custody"
+},
+{
+"claimTier": 1,
+"cls": "legislation",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "office required to be established in coordination with the DNI",
+"id": "ndaa-fy2022",
+"l0": false,
+"label": "FY2022 NDAA, Public Law 117-81, Sec. 1683 (50 U.S.C. 3373) - statutory UAP office",
+"note": "The FY2022 NDAA 'was enacted with a provision that requires the Secretary of Defense to establish an office, in coordination with the Director of National Intelligence (DNI), with responsibilities that include those that were to be assigned to the AOIMSG'; the Deputy Secretary acted 'following coordination with the DNI', and copied the memorandum to the Director of National Intelligence. The coordination requirement is statutory, not discretionary.",
+"sources": [
+{
+"date": "2022-07-15",
+"name": "Deputy Secretary of Defense memorandum, 'Establishment of the All-domain Anomaly Resolution Office', 15 July 2022",
+"url": "https://media.defense.gov/2022/Jul/20/2003039074/-1/-1/1/ESTABLISHMENT-OF-THE-ALL-DOMAIN-ANOMALY-RESOLUTION-OFFICE.PDF"
+}
+],
+"tier": "C",
+"type": "legislative"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2021-06-25",
+"direction": "in",
+"edgeLabel": "Named contributor to the 2021 ODNI Preliminary Assessment on UAP",
+"id": "nga",
+"l0": false,
+"label": "National Geospatial-Intelligence Agency",
+"note": "ODNI's 25 June 2021 assessment names NGA among the contributing elements, establishing that this agency produced or held UAP-relevant reporting.",
+"sources": [
+{
+"date": "2021-06-25",
+"name": "ODNI, Preliminary Assessment: Unidentified Aerial Phenomena",
+"url": "https://archive.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2021-06-25",
+"direction": "in",
+"edgeLabel": "Named contributor to the 2021 ODNI Preliminary Assessment on UAP",
+"id": "nro",
+"l0": true,
+"label": "National Reconnaissance Office",
+"note": "ODNI's 25 June 2021 assessment names NRO among the contributing elements, establishing that this agency produced or held UAP-relevant reporting.",
+"sources": [
+{
+"date": "2021-06-25",
+"name": "ODNI, Preliminary Assessment: Unidentified Aerial Phenomena",
+"url": "https://archive.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2021-06-25",
+"direction": "in",
+"edgeLabel": "Named contributor to the 2021 ODNI Preliminary Assessment on UAP",
+"id": "nsa",
+"l0": true,
+"label": "National Security Agency",
+"note": "ODNI's 25 June 2021 assessment names NSA among the contributing elements, establishing that this agency produced or held UAP-relevant reporting.",
+"sources": [
+{
+"date": "2021-06-25",
+"name": "ODNI, Preliminary Assessment: Unidentified Aerial Phenomena",
+"url": "https://archive.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 2,
+"cls": "document",
+"dateEnd": null,
+"dateStart": "2026",
+"direction": "in",
+"edgeLabel": "ODNI-originated document inside a Department of War release",
+"id": "odni-uap-d001",
+"l0": false,
+"label": "ODNI-UAP-D001 - serving senior intelligence officer's UAP encounter narrative",
+"note": "The ODNI document numbering inside a war.gov tranche is the structural evidence that PURSUE is genuinely interagency rather than departmental.",
+"sources": [
+{
+"date": "2026-08-01",
+"name": "Disclosure Archives - Department of War files index",
+"url": "https://disclosurearchives.com/department-of-war-files"
+},
+{
+"date": "2026-05-09",
+"name": "Aerotime - US releases UFO files in UAP transparency push",
+"url": "https://www.aerotime.aero/articles/us-releases-ufo-uap-files"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2021-06-25",
+"direction": "in",
+"edgeLabel": "Named contributor to the 2021 ODNI Preliminary Assessment on UAP",
+"id": "oni",
+"l0": false,
+"label": "Office of Naval Intelligence",
+"note": "ODNI's 25 June 2021 assessment names Navy/ONI among the contributing elements, establishing that this agency produced or held UAP-relevant reporting.",
+"sources": [
+{
+"date": "2021-06-25",
+"name": "ODNI, Preliminary Assessment: Unidentified Aerial Phenomena",
+"url": "https://archive.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2021-06-25",
+"direction": "in",
+"edgeLabel": "Named contributor to the 2021 ODNI Preliminary Assessment",
+"id": "ousdi",
+"l0": true,
+"label": "Office of the Under Secretary of Defense for Intelligence",
+"note": "ODNI's assessment names USD(I&S) first among contributing elements, confirming the office's cognisance of the UAP reporting stream.",
+"sources": [
+{
+"date": "2021-06-25",
+"name": "ODNI, Preliminary Assessment: Unidentified Aerial Phenomena",
+"url": "https://archive.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "2022 Senate special session justified by the 2021 US UAP report",
+"id": "senado-brasil",
+"l0": true,
+"label": "Senado Federal do Brasil",
+"note": "Requerimento RQS 193/2022 (Sen. Eduardo Girao and seven co-signers) requested the Brazilian Senate special session on ufology, and its justification expressly cites the 2021 'Pentagon' UAP report covering 144 sightings of which only one was explained, plus FY2022 NDAA UAP research funding. The report described is the June 2021 Preliminary Assessment authored by the UAP Task Force and released by ODNI. The session was held in the Senate plenary on 24 June 2022 and ended with ufologists handing Girao the 'Carta de Brasilia' urging a permanent joint civil-military commission.",
+"sources": [
+{
+"date": "2026-08-23",
+"name": "Senado Federal, Dados Abertos — official record of RQS 193/2022 (Código 152222): ementa 'Sessão especial destinada a comemorar os 75 anos do Dia Mundial da Ufologia', 16 March 2022, Sen. Eduardo Girão and seven co-signers",
+"url": "https://legis.senado.leg.br/dadosabertos/materia/pesquisa/lista?sigla=RQS&numero=193&ano=2022"
+},
+{
+"date": "2026-08-12",
+"name": "Senado Federal - Dados Abertos, list of senators in exercise (official open-data service, 81 members)",
+"url": "https://legis.senado.leg.br/dadosabertos/senador/lista/atual"
+},
+{
+"date": null,
+"name": "https://legis.senado.leg.br/sdleg-getter/documento?dm=9089831&ts=1647523438292&disposition=inline",
+"url": "https://legis.senado.leg.br/sdleg-getter/documento?dm=9089831&ts=1647523438292&disposition=inline"
+},
+{
+"date": null,
+"name": "https://www12.senado.leg.br/noticias/materias/2022/06/24/em-homenagem-no-plenario-ufologos-cobram-liberacao-de-documentos-sobre-ovnis",
+"url": "https://www12.senado.leg.br/noticias/materias/2022/06/24/em-homenagem-no-plenario-ufologos-cobram-liberacao-de-documentos-sobre-ovnis"
+}
+],
+"tier": "C",
+"type": "legislative"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "2026",
+"dateStart": "2026",
+"direction": "in",
+"edgeLabel": "Established by ODNI with FBI support",
+"id": "uap-science-advisory-council",
+"l0": true,
+"label": "UAP Science Advisory Council",
+"note": "ODNI announced the council following the PURSUE records releases; the FBI is named as supporting.",
+"sources": [
+{
+"date": "2026-06-22",
+"name": "The Sol Foundation - UAP Science Advisory Council announcement",
+"url": "https://thesolfoundation.org/sol-foundation-co-founders-named-to-uap-science-advisory-council/"
+}
+],
+"tier": "A",
+"type": "institutional"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "2005-04-22",
+"deg": 18,
+"denials": [],
+"desc": "ODNI was created by the Intelligence Reform and Terrorism Prevention Act of 2004 (Public Law 108-458) and stood up on 22 April 2005, placing a Director of National Intelligence above the Intelligence Community elements that had previously answered to the Director of Central Intelligence. For the UAP record ODNI is the co-author of the modern disclosure regime: the Senate Select Committee on Intelligence's report accompanying the Intelligence Authorization Act for FY2021 directed the DNI, in consultation with the Secretary of Defense, to deliver a report on unidentified aerial phenomena, and on 25 June 2021 ODNI published 'Preliminary Assessment: Unidentified Aerial Phenomena'. That nine-page document analysed 144 reports from USG sources, of which 80 involved multiple sensors, and sorted them into five explanatory categories - airborne clutter, natural atmospheric phenomena, USG or U.S. industry developmental programs, foreign adversary systems, and a catch-all 'other'. Its contributor list is itself an intelligence product: USD(I&S), DIA, FBI, NRO, NGA, NSA, the Air Force, the Army, the Navy and ONI, DARPA, FAA, NOAA, ODNI's National Intelligence Manager for Emerging and Disruptive Technology, the National Counterintelligence and Security Center and the National Intelligence Council. ODNI thereafter became a statutory annual reporter on UAP under successive intelligence authorisation acts and NDAAs, and it is one of the four agencies whose records NARA identified in its 24 April 2025 release into the statutory UAP Collection. ODNI is also the parent of the Intelligence Community Inspector General, whose finding that David Grusch's complaint was 'credible and urgent' is the single most consequential procedural act in the modern record.",
+"domains": [
+"_rs-archive-mirror",
+"w2-agencies"
+],
+"dossier": {
+"claims": [
+{
+"source": "https://archive.dni.gov/files/documents/FOIA/DF-2021-00275-Preliminary-Assessment-Unidentified-Aerial-Phenomena.pdf",
+"text": "The 25 June 2021 'Preliminary Assessment: Unidentified Aerial Phenomena' was produced by ODNI in response to a provision in Senate Report 116-233 accompanying the Intelligence Authorization Act for Fiscal Year 2021, directing the DNI in consultation with the Secretary of Defense to assess the threat posed by UAP and the UAPTF's progress.",
+"tier": 1
+},
+{
+"source": "https://archive.dni.gov/files/documents/FOIA/DF-2021-00275-Preliminary-Assessment-Unidentified-Aerial-Phenomena.pdf",
+"text": "The assessment states it 'was drafted by the UAPTF and the ODNI National Intelligence Manager for Aviation, with input from USD(I&S), DIA, FBI, NRO, NGA, NSA, Air Force, Army, Navy, Marine Corps, DARPA, FAA, NASA, NOAA, ODNI/NIM-Emerging and Disruptive Technology, ODNI/National Counterintelligence and Security Center, and ODNI/National Intelligence Council.'",
+"tier": 1
+},
+{
+"source": "https://archive.dni.gov/files/documents/FOIA/DF-2021-00275-Preliminary-Assessment-Unidentified-Aerial-Phenomena.pdf",
+"text": "The assessment states: 'Most of the UAP reported probably do represent physical objects given that a majority of UAP registered across multiple sensors, to include radar, infrared, electro-optical, weapon seekers, and visual observation.'",
+"tier": 1
+},
+{
+"source": "https://archive.dni.gov/files/documents/FOIA/DF-2021-00275-Preliminary-Assessment-Unidentified-Aerial-Phenomena.pdf",
+"text": "The assessment states: 'The UAPTF has 11 reports of documented instances in which pilots reported near misses with a UAP.'",
+"tier": 1
+},
+{
+"source": "https://archive.dni.gov/files/documents/FOIA/DF-2021-00275-Preliminary-Assessment-Unidentified-Aerial-Phenomena.pdf",
+"text": "On the possibility that UAP are US black programs the assessment states: 'Some UAP observations could be attributable to classified USG aerospace programs or systems under development by commercial aerospace firms. We were unable to confirm, however, that these systems accounted for any of the UAP reports we collected.'",
+"tier": 1
+},
+{
+"source": "https://archive.dni.gov/files/documents/FOIA/DF-2021-00275-Preliminary-Assessment-Unidentified-Aerial-Phenomena.pdf",
+"text": "The assessment states: 'The UAPTF had no MASINT reporting on the events considered in this dataset.'",
+"tier": 1
+},
+{
+"source": "https://archive.dni.gov/files/documents/FOIA/DF-2021-00275-Preliminary-Assessment-Unidentified-Aerial-Phenomena.pdf",
+"text": "The assessment defines five explanatory categories into which resolved UAP incidents would fall: airborne clutter, natural atmospheric phenomena, USG or U.S. industry developmental programs, foreign adversary systems, and a catchall 'other' bin.",
+"tier": 1
+},
+{
+"source": "https://archive.dni.gov/files/documents/FOIA/DF-2021-00275-Preliminary-Assessment-Unidentified-Aerial-Phenomena.pdf",
+"text": "The dataset described in the assessment 'is currently limited primarily to USG reporting of incidents occurring from November 2004 to March 2021.'",
+"tier": 1
+},
+{
+"source": "https://archive.dni.gov/files/documents/FOIA/DF-2021-00275-Preliminary-Assessment-Unidentified-Aerial-Phenomena.pdf",
+"text": "The FOIA-released version of the assessment, approved for release by ODNI on 24 March 2022 under case DF-2021-00275, withholds material under exemptions (b)(1) and (b)(3), including the name of the UAPTF Director identified in the text as 'the official accountable for ensuring the timely collection and consolidation of data on UAP,' redacted under (b)(3) and (b)(6).",
+"tier": 1
+},
+{
+"source": "https://archive.dni.gov/files/documents/FOIA/DF-2021-00275-Preliminary-Assessment-Unidentified-Aerial-Phenomena.pdf",
+"text": "The assessment notes 'some UAP have been detected near military facilities or by aircraft carrying the USG's most advanced sensor systems.'",
+"tier": 1
+},
+{
+"source": "https://www.esd.whs.mil/portals/54/documents/dd/issuances/dodd/520507p.pdf",
+"text": "DoD Directive 5205.07, effective 12 September 2024 and approved by Deputy Secretary of Defense Kathleen H. Hicks, designates USD(I&S) as the office that 'serves as the primary interface for the Office of the Director of National Intelligence (ODNI) and members of the Intelligence Community (IC), including sharing with the DoD compartmented capabilities and information intended for inclusion and subsequent apportionment' — the same office in which AARO is housed.",
+"tier": 1
+},
+{
+"source": "https://www.law.cornell.edu/uscode/text/50/3373",
+"text": "50 U.S.C. 3373 requires the Secretary of Defense, in coordination with the Director of National Intelligence, to establish the office known as the All-domain Anomaly Resolution Office, and requires the secure UAP reporting mechanism to be established in consultation with the DNI.",
+"tier": 2
+},
+{
+"source": "https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf",
+"text": "In 2022 Intelligence Community Inspector General Thomas Monheim found David Grusch's PPD-19 urgent-concern complaint credible and urgent, and a summary was transmitted to the Director of National Intelligence and to the House and Senate intelligence committees; Grusch subsequently testified publicly to House Oversight in July 2023.",
+"tier": 2
+},
+{
+"source": "https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Shellenberger.pdf",
+"text": "Michael Shellenberger's November 2024 congressional testimony quotes DNI John Ratcliffe stating in 2021 that UAP demonstrated 'technologies that we don't have and, frankly, that we are not capable of defending against,' that analysts had 'high confidence' foreign adversaries were not behind the Tic Tac encounter, and that 'there are a lot more sightings than have been made public.'",
+"tier": 2
+},
+{
+"source": "https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF",
+"text": "The Fiscal Year 2024 Consolidated Annual Report on Unidentified Anomalous Phenomena, released 14 November 2024 and carried on the ODNI website, reports 757 UAP reports received, of which 485 occurred within the reporting period and 272 occurred in 2021-2022 but were reported late; 118 cases were resolved to prosaic objects and 21 remain unexplained.",
+"tier": 2
+},
+{
+"source": "https://www.archives.gov/research/topics/uaps/faqs",
+"text": "Sections 1841-1843 of the FY2024 NDAA, now codified at 44 U.S.C. 2107 note, require NARA to establish the Unidentified Anomalous Phenomena Records Collection consisting of 'copies of all Government, Government-provided, or Government-funded records relating to unidentified anomalous phenomena, technologies of unknown origin, and non-human intelligence'; NARA established Record Group 615 for it, creating a statutory transfer obligation that reaches every IC element ODNI coordinates.",
+"tier": 1
+}
+],
+"connections": [
+"ODNI to UAPTF to AARO: the same reporting lineage, with ODNI's National Intelligence Manager for Aviation as the drafting office in 2021 and AARO now lodged inside OUSD(I&S), ODNI's designated DoD interface under DoDD 5205.07.",
+"The 2021 drafting roster names every agency with a UAP equity as of that date — DIA, FBI, NRO, NGA, NSA, DARPA, FAA, NASA, NOAA, NCSC, NIC — and is therefore a target list for NARA Record Group 615 transfer compliance.",
+"The redacted UAPTF Director's name under (b)(6) is a specific, resolvable identity gap; the same office is the accountability node the Senate report demanded be identified.",
+"ICIG Thomas Monheim to DNI Avril Haines to the congressional intelligence committees is the documented Grusch referral path; the substance of what ODNI did with it is unaddressed in any public product.",
+"The assessment's statement that the UAPTF had no MASINT reporting sits in direct conflict with the Immaculate Constellation allegation that a parent USAP holds high-quality IMINT and MASINT — either the UAPTF was walled off from that collection, or one of the two statements is false.",
+"DNI John Ratcliffe's 2021 public statements are the most permissive on-record remarks by any DNI and are quoted into the congressional record by a November 2024 witness; DNI succession since (Haines, Gabbard, Clayton) is a change-of-posture axis worth tracking.",
+"Michael Gold's testimony connects ODNI's collection problem to NASA's Aviation Safety Reporting System and to CNES/GEIPAN as civil-side data sources the IC has not integrated."
+],
+"denialPosture": "ODNI has never denied that a legacy retrieval or reverse-engineering program exists; it has denied confirmation. Its 2021 assessment states it was 'unable to confirm' that US classified aerospace programs accounted for any collected UAP report, and that it 'currently lacks data' to attribute UAP to a foreign collection program. The characteristic ODNI posture is epistemic hedging plus redaction, not categorical denial — which is a materially different artifact from the flat DoD denials on this board.",
+"narrative": "ODNI's formal entry into the UAP file came through an appropriations rider rather than through the intelligence community's own initiative. Senate Report 116-233, accompanying the Intelligence Authorization Act for Fiscal Year 2021, directed the DNI, in consultation with the Secretary of Defense, to submit an intelligence assessment of the threat posed by unidentified aerial phenomena and of the progress the Department of Defense Unidentified Aerial Phenomena Task Force had made in understanding it. The resulting nine-page unclassified 'Preliminary Assessment: Unidentified Aerial Phenomena,' dated 25 June 2021, is the single most-cited government document on the subject, and it repays close reading of the FOIA copy rather than the sanitised public one.\n\nThe drafting roster alone is analytically valuable. The report was 'drafted by the UAPTF and the ODNI National Intelligence Manager for Aviation, with input from USD(I&S), DIA, FBI, NRO, NGA, NSA, Air Force, Army, Navy, Marine Corps, DARPA, FAA, NASA, NOAA, ODNI/NIM-Emerging and Disruptive Technology, ODNI/National Counterintelligence and Security Center, and ODNI/National Intelligence Council.' That is a list of every organisation with an equity in the file as of 2021, and it is a map of where records exist.\n\nThe substantive findings are hedged but not empty. 'Most of the UAP reported probably do represent physical objects given that a majority of UAP registered across multiple sensors, to include radar, infrared, electro-optical, weapon seekers, and visual observation.' The UAPTF 'has 11 reports of documented instances in which pilots reported near misses with a UAP.' The dataset is limited primarily to US government reporting of incidents from November 2004 to March 2021. The report proposes five explanatory bins — airborne clutter, natural atmospheric phenomena, USG or US industry developmental programs, foreign adversary systems, and a catchall 'other' — and then, on the third bin, delivers the sentence a program hypothesis must build on: 'Some UAP observations could be attributable to classified USG aerospace programs or systems under development by commercial aerospace firms. We were unable to confirm, however, that these systems accounted for any of the UAP reports we collected.' On foreign adversaries: 'We currently lack data to determine any UAP are part of a foreign collection program or indicative of a major technological advancement by a potential adversary.' On collection: 'The UAPTF had no MASINT reporting on the events considered in this dataset' — which stands in direct tension with the later Immaculate Constellation allegation that a parent USAP holds high-quality IMINT and MASINT of UAP.\n\nThe redaction pattern is itself evidence. The FOIA version, approved for release on 24 March 2022 under case DF-2021-00275, still withholds material under (b)(1) — properly classified national defence information — and (b)(3), statutory exemption. The sentence identifying the accountable official reads, in the released copy, 'The UAPTF Director, is the official accountable for ensuring the timely collection and consolidation of data on UAP,' with the name removed. Passages describing unusual flight characteristics, GEOINT and SIGINT collection, and specific incidents are blank. The unclassified public product is therefore a curated fraction of what Congress received, and the delta is where the argument lives.\n\nODNI's second role is structural. Under 50 U.S.C. 3373 the Secretary of Defense must act 'in coordination with the Director of National Intelligence' in establishing AARO, and the reporting mechanism must be established 'in consultation with the Director of National Intelligence.' AARO is housed inside OUSD(I&S). And DoDD 5205.07, effective 12 September 2024 and approved by Deputy Secretary of Defense Kathleen Hicks, designates USD(I&S) as the office that 'serves as the primary interface for the Office of the Director of National Intelligence (ODNI) and members of the Intelligence Community (IC), including sharing with the DoD compartmented capabilities and information intended for inclusion and subsequent apportionment.' In other words, the same office that hosts the body Congress created to find unreported UAP programs is the office through which IC compartmented capabilities are moved into and out of DoD special access programs. Whether that is an oversight design flaw or the point is the question the board exists to press.\n\nThe third role is the whistleblower channel. In 2022, while at the National Geospatial-Intelligence Agency, David Grusch filed a Presidential Policy Directive 19 urgent-concern complaint with the Intelligence Community Inspector General. Thomas Monheim, IC Inspector General from April 2020 to January 2025, found the complaint credible and urgent, and a summary went to the Director of National Intelligence and to the House and Senate intelligence committees. Grusch then testified publicly to House Oversight in July 2023. No ODNI product has since publicly addressed the substance of the referral.\n\nFinally, ODNI has been the co-publisher of record for the successor reporting. The Fiscal Year 2024 Consolidated Annual Report on Unidentified Anomalous Phenomena, released 14 November 2024 the day after the House Oversight hearing, reported 757 UAP reports received, 485 of which occurred within the reporting period and 272 of which occurred in 2021-2022 but were reported late; 118 cases resolved to prosaic objects; 21 unresolved. That report is a DoD/AARO product carried on the ODNI website, and under this board's sourcing rules it is a primary record of what the government said, not of what is true.\n\nWhat the record does not show is any ODNI statement about retrievals, materials, or reverse-engineering. There is no ODNI acknowledgement of a legacy program, and no public ODNI response to the Grusch referral.",
+"openQuestions": [
+"Who is the UAPTF Director redacted under (b)(6) in the FOIA copy of the 2021 assessment?",
+"What does the classified annex to the 2021 preliminary assessment contain, and who at ODNI has seen it?",
+"What action, if any, did ODNI or the DNI take on the ICIG's credible-and-urgent referral of the Grusch complaint?",
+"Has ODNI or any IC element transferred records to NARA Record Group 615, and what did they withhold?",
+"Which ODNI element holds equity in any UAP-related compartmented capability shared with DoD SAPs through the USD(I&S) interface?",
+"Why could the IC not deconflict its own UAP dataset against classified US aerospace programs — was the deconfliction attempted and refused, or never possible at the UAPTF's access level?"
+],
+"roles": [
+"oversight",
+"concealment",
+"disclosure",
+"research"
+],
+"whatItIs": "The Office of the Director of National Intelligence is the coordinating headquarters of the US Intelligence Community, created by the Intelligence Reform and Terrorism Prevention Act of 2004 and headed by the Director of National Intelligence. Since 2021 it has been the statutory co-owner of the government's UAP reporting machinery: it published the June 2021 'Preliminary Assessment: Unidentified Aerial Phenomena,' it is the office with which the Secretary of Defense must coordinate in establishing and running AARO, and it co-issues the annual consolidated UAP reports. Its Inspector General is also the channel through which UAP whistleblower complaints reach the congressional intelligence committees.",
+"whyImplicated": "ODNI sits on both sides of the ledger, and that is precisely what makes it useful. It is the office that publicly certified that most reported UAP 'probably do represent physical objects,' that eleven documented pilot near-misses exist, and — critically — that it could not confirm that any of the collected reports were attributable to classified US government or industry developmental programs. An intelligence headquarters that cannot deconflict a UAP dataset against its own black programs is either not being told, or is telling us it is not being told. At the same time, ODNI is the institutional counterparty for every DoD SAP that shares compartmented capabilities with the IC, and AARO is lodged inside the DoD office designated as ODNI's primary interface. Its Inspector General found David Grusch's complaint alleging concealed retrieval and reverse-engineering programs 'credible and urgent' and forwarded it to the DNI and both intelligence committees, after which nothing publicly followed. Even the FOIA-released version of its own 2021 assessment is redacted under (b)(1) and (b)(3), including the identity of the official it names as accountable."
+},
+"entityInfo": null,
+"era": "2",
+"foia": {
+"questions": [
+0,
+1,
+2,
+3,
+5
+],
+"requests": [
+{
+"agency": "NARA",
+"partial": [],
+"questions": [
+3
+],
+"request": "F1",
+"sendTo": "National Archives and Records Administration, FOIA Officer, Office of General Counsel, 8601 Adelphi Road, College Park MD 20740. Cross-file a copy with the National Declassification Center, which is the operational custodian of the collection.",
+"status": "not filed",
+"title": "NARA - the RG 615 compliance register"
+},
+{
+"agency": "ODNI",
+"partial": [],
+"questions": [
+0,
+1,
+2,
+5
+],
+"request": "F12",
+"sendTo": "Office of the Director of National Intelligence, Information Management Office, Washington DC 20511.",
+"status": "not filed",
+"title": "ODNI - the classified annex distribution record and the UAPTF Director's name"
+}
+]
+},
+"hl": null,
+"id": "odni",
+"l0": true,
+"label": "Office of the Director of National Intelligence",
+"locLabel": null,
+"members": [
+{
+"cls": "person",
+"id": "betty-sapp",
+"label": "Betty J. Sapp",
+"tier": "C"
+},
+{
+"cls": "institution",
+"id": "compass-rose-legal-group",
+"label": "Compass Rose Legal Group",
+"tier": "C"
+},
+{
+"cls": "institution",
+"id": "darpa",
+"label": "Defense Advanced Research Projects Agency",
+"tier": "C"
+},
+{
+"cls": "institution",
+"id": "ic-sapco",
+"label": "Intelligence Community special access program control office enterprise",
+"tier": "C"
+},
+{
+"cls": "location",
+"id": "l-mclean",
+"label": "McLean, Virginia",
+"tier": "C"
+},
+{
+"cls": "legislation",
+"id": "ndaa-fy2022",
+"label": "FY2022 NDAA, Public Law 117-81, Sec. 1683 (50 U.S.C. 3373) - statutory UAP office",
+"tier": "C"
+},
+{
+"cls": "institution",
+"id": "nga",
+"label": "National Geospatial-Intelligence Agency",
+"tier": "C"
+},
+{
+"cls": "document",
+"id": "odni-uap-d001",
+"label": "ODNI-UAP-D001 - serving senior intelligence officer's UAP encounter narrative",
+"tier": "B"
+},
+{
+"cls": "institution",
+"id": "oni",
+"label": "Office of Naval Intelligence",
+"tier": "B"
+}
+],
+"short": "ODNI",
+"sources": [
+{
+"date": "2026-08-11",
+"name": "Archived: ODNI, Preliminary Assessment: Unidentified Aerial Phenomena (Wayback 2026-08-11)",
+"url": "https://web.archive.org/web/20260811010946/https://archive.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf"
+},
+{
+"date": "2026-05-08",
+"name": "Archived: AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I (Wayback 2026-05-08)",
+"url": "https://web.archive.org/web/20260508180210/https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf"
+},
+{
+"date": "2021-06-25",
+"name": "ODNI, Preliminary Assessment: Unidentified Aerial Phenomena",
+"url": "https://archive.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf"
+},
+{
+"date": "2025-04-24",
+"name": "National Archives press release nr25-07",
+"url": "https://www.archives.gov/press/press-releases/2025/nr25-07"
+},
+{
+"date": "2024-03-08",
+"name": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
+"url": "https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf"
+}
+],
+"sub": "Head of the 18-element Intelligence Community; co-signatory of the UAP reporting regime",
+"tier": "A",
+"tierRationale": "Re-graded A on a global pass (rank 125 of 1027, score 55). 18 connections, 2 of them custody/witness/funding/programmatic. Axes C1/A3/D3.",
+"timeline": [
+{
+"date": "2021-06-25",
+"id": "ag-tl-2021-odni",
+"label": "ODNI Preliminary Assessment published",
+"precision": "day",
+"strand": "oversight",
+"text": "Nine pages, 144 reports, 80 with multiple sensors, five explanatory categories - and a contributor list naming NRO, NGA, NSA, DIA, Navy/ONI, DARPA, FAA and NOAA. The list is the most useful part of the document.",
+"tier": "A"
+}
+]
+}

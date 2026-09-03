@@ -1,0 +1,150 @@
+{
+"A": 1,
+"C": 1,
+"D": 1,
+"band": null,
+"claims": [
+{
+"source": "FBI Records: The Vault - 'Majestic 12'",
+"text": "The FBI maintains a public file on the Majestic 12 documents in its Vault reading room.",
+"tier": 1
+},
+{
+"source": "Klass, Skeptical Inquirer",
+"text": "Philip J. Klass published a forensic critique identifying document anomalies in Skeptical Inquirer in 1988.",
+"tier": 2
+},
+{
+"source": "The Majestic Documents (Wood & Wood)",
+"text": "Robert and Ryan Wood maintain the Majestic Documents archive, which catalogues and argues for the authenticity of substantial portions of the corpus.",
+"tier": 2
+}
+],
+"cls": "domain",
+"cluster": "legacy",
+"connections": [
+{
+"claimTier": 1,
+"cls": "domain",
+"dateEnd": null,
+"dateStart": "1984-12-11",
+"direction": "in",
+"edgeLabel": "The largest disputed document corpus",
+"id": "d-disinformation",
+"l0": false,
+"label": "Disinformation & Fabricated Documents",
+"note": "The FBI's Majestic 12 file records the investigation into the corpus's authenticity, making MJ-12 the principal case study for the disinformation domain.",
+"sources": [
+{
+"date": "2011-04-01",
+"name": "FBI Records: The Vault - 'Majestic 12'",
+"url": "https://vault.fbi.gov/Majestic%2012"
+}
+],
+"tier": "C",
+"type": "investigative"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "1987-12-29",
+"direction": "in",
+"edgeLabel": "The 1987 Lear document gives him a military rank his own office forbade",
+"id": "james-v-forrestal",
+"l0": false,
+"label": "James V. Forrestal",
+"note": "Read aloud on AREA52 - DEBRIEFED episode 20, 3 January 2025, the document twice calls him 'General James V. Forestall'. Section 202(a) of the National Security Act of 1947 requires the Secretary of Defense to be appointed from civilian life and disqualifies anyone who has been on active duty as a commissioned officer within ten years. The edge records the error, not the attribution.",
+"sources": [
+{
+"date": "1947-07-26",
+"name": "National Security Act of 1947, 61 Stat. 495, sec. 202(a)",
+"url": "https://www.govinfo.gov/content/pkg/STATUTE-61/pdf/STATUTE-61-Pg495.pdf"
+}
+],
+"tier": "B",
+"type": "denial"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "1984-12-11",
+"deg": 2,
+"denials": [
+{
+"by": {
+"id": "james-v-forrestal",
+"label": "James V. Forrestal"
+},
+"claimTier": 2,
+"denialKind": null,
+"label": "The 1987 Lear document gives him a military rank his own office forbade",
+"note": "Read aloud on AREA52 - DEBRIEFED episode 20, 3 January 2025, the document twice calls him 'General James V. Forestall'. Section 202(a) of the National Security Act of 1947 requires the Secretary of Defense to be appointed from civilian life and disqualifies anyone who has been on active duty as a commissioned officer within ten years. The edge records the error, not the attribution.",
+"of": {
+"id": "d-mj12",
+"label": "Majestic-12 Corpus"
+},
+"sources": [
+{
+"date": "1947-07-26",
+"name": "National Security Act of 1947, 61 Stat. 495, sec. 202(a)",
+"url": "https://www.govinfo.gov/content/pkg/STATUTE-61/pdf/STATUTE-61-Pg495.pdf"
+}
+]
+}
+],
+"desc": "The Majestic-12 corpus is a body of documents purporting to describe an Eisenhower-era control group for recovered craft, beginning with film delivered unsolicited to Jaime Shandera in December 1984 and growing over subsequent decades. The FBI investigated and its file, public in the Bureau's Vault reading room, records the Air Force Office of Special Investigations' assessment that the documents were bogus; Philip J. Klass published a forensic critique in Skeptical Inquirer in 1988 identifying typographic anomalies. This board records the corpus not as evidence of a control group but as an object with consequences: whoever produced these documents imposed a permanent evidentiary tax on every genuine record in the field, since any authentic paper now arrives under suspicion of belonging to the same family. The unresolved research question, and the reason the domain stays open, is whether some documents in the corpus are forgeries built on real classified content - a common counterintelligence construction, since a fabrication is most durable when its scaffolding is true. Scoring high on this domain means an entity authored, circulated, authenticated or debunked the corpus.",
+"domains": [
+"w2-taxonomy"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "1",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "d-mj12",
+"l0": false,
+"label": "Majestic-12 Corpus",
+"locLabel": null,
+"members": null,
+"short": "Majestic-12 Corpus",
+"sources": [
+{
+"date": "2011-04-01",
+"name": "FBI Records: The Vault - 'Majestic 12'",
+"url": "https://vault.fbi.gov/Majestic%2012"
+},
+{
+"date": "1988-01-01",
+"name": "Philip J. Klass, 'The MJ-12 Crashed-Saucer Documents', Skeptical Inquirer",
+"url": "https://skepticalinquirer.org/1988/01/the-mj-12-crashed-saucer-documents/"
+},
+{
+"date": "2026-08-12",
+"name": "The Majestic Documents - About",
+"url": "https://majesticdocuments.com/about/"
+},
+{
+"date": "2025-07-31",
+"name": "John Greenewald Jr., 'FBI File: Majestic-12', The Black Vault",
+"url": "https://www.theblackvault.com/documentarchive/majestic-12/"
+}
+],
+"sub": "Documentary domain - the disputed control-group papers and what their circulation accomplished",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 714 of 1027, score 22). 2 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A1/D1.",
+"timeline": [
+{
+"date": "1984-12-11",
+"id": "tx-1984-mj12",
+"label": "The Majestic-12 film arrives",
+"precision": "day",
+"strand": "coverup",
+"text": "Unsolicited film purporting to show an Eisenhower-era briefing document on recovered craft is delivered to Jaime Shandera. The FBI investigates and its file records an AFOSI assessment that the documents are bogus. Whatever their origin, their circulation imposes a permanent evidentiary tax on every genuine document in the field.",
+"tier": 1
+}
+]
+}

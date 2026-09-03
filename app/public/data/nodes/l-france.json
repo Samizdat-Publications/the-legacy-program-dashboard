@@ -1,0 +1,122 @@
+{
+"A": 2,
+"C": 1,
+"D": 3,
+"band": null,
+"claims": [
+{
+"source": "Board bookkeeping",
+"text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
+"tier": 3
+}
+],
+"cls": "location",
+"cluster": "other",
+"connections": [
+{
+"claimTier": 2,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "French private defence committee",
+"id": "cometa",
+"l0": true,
+"label": "COMETA - Comité d'Études Approfondies",
+"note": "The report states its own legal status on its title page: 'COMETA, an association governed by the Law of July 1, 1901', the French statute for non-profit associations. Its foreword, by former CNES chairman Andre Lebeau, and the account by the former director of the Institut des Hautes Etudes de Defense Nationale place its formation in the IHEDN Auditors Association after General Denis Letty approached IHEDN in March 1995.",
+"sources": [
+{
+"date": "1999-07-01",
+"name": "COMETA, 'UFOs and Defense: What Should We Prepare For?', 1999, title page and foreword",
+"url": "https://ia800403.us.archive.org/17/items/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D.pdf"
+},
+{
+"date": null,
+"name": "https://en.wikipedia.org/wiki/COMETA_report",
+"url": "https://en.wikipedia.org/wiki/COMETA_report"
+}
+],
+"tier": "A",
+"type": "geographic"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "French national UAP office, CNES Toulouse",
+"id": "geipan",
+"l0": true,
+"label": "GEIPAN - Groupe d'Études et d'Informations sur les Phénomènes Aérospatiaux Non identifiés",
+"note": "CNES describes GEIPAN as 'the French UAP research and information group created by CNES in 1977', based in Toulouse, overseen by COPEIPAN - a steering committee of gendarmerie, police, air and space force and academic representatives - with status 'In operation' and an indefinite lifetime.",
+"sources": [
+{
+"date": "2026-08-25",
+"name": "CNES, GEIPAN project page",
+"url": "https://www.cnes.fr/en/projects/geipan"
+},
+{
+"date": null,
+"name": "https://cnes.fr/en/projects/geipan",
+"url": "https://cnes.fr/en/projects/geipan"
+},
+{
+"date": null,
+"name": "https://cnes-geipan.fr/en/histoire-du-geipan",
+"url": "https://cnes-geipan.fr/en/histoire-du-geipan"
+}
+],
+"tier": "A",
+"type": "geographic"
+}
+],
+"coords": [
+46.6034,
+1.8883
+],
+"dateEnd": null,
+"dateStart": null,
+"deg": 2,
+"denials": [],
+"desc": "France is the only major state to have maintained a continuously funded public investigation unit for unidentified aerospace phenomena: GEIPAN, established within the national space agency CNES in 1977 and still operating from Toulouse, with a published classification scheme, published statistics and a publicly accessible case archive. France also produced the 1999 COMETA report, prepared by retired general officers and senior scientists under the auspices of a defence studies institute, which concluded that the extraterrestrial hypothesis could not be excluded - a document with no American equivalent from comparable figures. The French model is the board's principal answer to the claim that transparency on this subject is impossible.",
+"domains": [
+"_stubs",
+"w2-taxonomy"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "nd",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "l-france",
+"l0": false,
+"label": "France",
+"locLabel": "France",
+"members": null,
+"short": "France",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Wikipedia - France",
+"url": "https://en.wikipedia.org/wiki/France"
+},
+{
+"date": "2026-08-12",
+"name": "GEIPAN - accueil",
+"url": "https://www.geipan.fr/"
+},
+{
+"date": "2026-08-11",
+"name": "GEIPAN - Statistiques",
+"url": "https://www.geipan.fr/fr/stats"
+}
+],
+"sub": "Sovereign state; host of the only permanently funded state UAP investigation unit",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 790 of 1027, score 19). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D3.",
+"timeline": []
+}

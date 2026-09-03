@@ -1,0 +1,129 @@
+{
+"A": 0,
+"C": 0,
+"D": 2,
+"band": null,
+"claims": [
+{
+"source": "Progress in Aerospace Sciences / Crossref record",
+"text": "The paper is Progress in Aerospace Sciences 156 (2025) article 101099, DOI 10.1016/j.paerosci.2025.101099, published June 2025.",
+"tier": 1
+}
+],
+"cls": "document",
+"cluster": "research",
+"connections": [
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "2025-06-02",
+"direction": "in",
+"edgeLabel": "Co-author of the UAPx field-expedition results",
+"id": "cecilia-levy",
+"l0": false,
+"label": "Cecilia Levy",
+"note": "Fourth-named author on Szydagis, Knuth, Kugielsky & Levy (2025). The board's existing node label for this paper already carries her surname; until now she had no node behind it.",
+"sources": [
+{
+"date": "2025-06-04",
+"name": "UAlbany News Center, 'UAlbany Physicists Test Scientific Approach to UAP Research'",
+"url": "https://www.albany.edu/news-center/news/2025-ualbany-physicists-test-scientific-approach-uap-research"
+}
+],
+"tier": "C",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2025",
+"direction": "in",
+"edgeLabel": "First peer-reviewed UAP field-expedition results",
+"id": "uapx",
+"l0": false,
+"label": "UAPx",
+"note": "Progress in Aerospace Sciences 156:101099, June 2025 - a published field protocol against which any future government sensor release can be compared.",
+"sources": [
+{
+"date": "2025-06-01",
+"name": "Szydagis, Knuth, Kugielsky & Levy, 'Initial results from the first field expedition of UAPx to study unidentified anomalous phenomena', Progress in Aerospace Sciences 156:101099",
+"url": "https://doi.org/10.1016/j.paerosci.2025.101099"
+}
+],
+"tier": "C",
+"type": "programmatic"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2025-06-02",
+"direction": "in",
+"edgeLabel": "Three of four authors carry the UAlbany affiliation; the University publicised the result under its own name",
+"id": "university-at-albany",
+"l0": true,
+"label": "University at Albany (SUNY), Department of Physics",
+"note": "The UAlbany News Center release of 4 June 2025 states: 'Utilizing a diverse set of devices to capture different types of data on many channels, UAlbany authors Matthew Szydagis, Kevin Knuth and Cecilia Levy, along with Ben Kugielsky of UAPx, a non-profit scientific research organization, collected observable-light and infrared images during a field expedition in 2021 to Laguna Beach, California.' The release also records the outcome honestly - 'the UAlbany research team succeeded in plausibly explaining all but one of the potential anomalies detected' - and quotes Szydagis on the single unresolved ambiguity. A state university issuing a press release claiming a UAP field-instrumentation result as institutional output is the substantive reason this node belongs on the board.",
+"sources": [
+{
+"date": "2025-06-04",
+"name": "UAlbany News Center, 'UAlbany Physicists Test Scientific Approach to UAP Research'",
+"url": "https://www.albany.edu/news-center/news/2025-ualbany-physicists-test-scientific-approach-uap-research"
+},
+{
+"date": "2025-06-02",
+"name": "Szydagis, Knuth, Kugielsky & Levy, 'Initial results from the first field expedition of UAPx to study unidentified anomalous phenomena', Progress in Aerospace Sciences 156:101099",
+"url": "https://doi.org/10.1016/j.paerosci.2025.101099"
+}
+],
+"tier": "B",
+"type": "research"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "2025",
+"deg": 3,
+"denials": [],
+"desc": "Published in Progress in Aerospace Sciences volume 156, article 101099, in June 2025 (DOI 10.1016/j.paerosci.2025.101099) by Matthew Szydagis, Kevin H. Knuth, Benjamin Kugielsky and Cecilia Levy. It reports the results of UAPx's first instrumented field expedition, conducted off Catalina Island, California, using multi-band optical and other sensors with explicit treatment of instrumental artefacts and false positives. Its significance is not any single detection but the fact that the field now has a published, mainstream-journal field protocol written by particle physicists - a baseline against which any future government-released sensor data can be compared, and a template that no government programme has ever put in the public domain.",
+"domains": [
+"scientists-technical"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "paper-uapx-2025",
+"l0": false,
+"label": "Szydagis, Knuth, Kugielsky & Levy (2025), Progress in Aerospace Sciences 156:101099",
+"locLabel": null,
+"members": null,
+"short": "Szydagis, Knuth, Kugielsky & Levy (2025), Progress in Aerospace Sciences 156:101099",
+"sources": [
+{
+"date": "2025-06-01",
+"name": "Szydagis, Knuth, Kugielsky & Levy, 'Initial results from the first field expedition of UAPx to study unidentified anomalous phenomena', Progress in Aerospace Sciences 156:101099",
+"url": "https://doi.org/10.1016/j.paerosci.2025.101099"
+}
+],
+"sub": "'Initial results from the first field expedition of UAPx to study unidentified anomalous phenomena'",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 932 of 1027, score 13). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D2.",
+"timeline": [
+{
+"date": "2025-06-01",
+"id": "st-2025-06-uapx",
+"label": "UAPx field results published",
+"precision": "month",
+"strand": "program",
+"text": "Szydagis, Knuth, Kugielsky and Levy publish the first peer-reviewed UAP field-expedition results in Progress in Aerospace Sciences - a published protocol with explicit false-positive handling.",
+"tier": "A"
+}
+]
+}

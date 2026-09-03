@@ -1,0 +1,216 @@
+{
+"A": 3,
+"C": 1,
+"D": 1,
+"affiliations": [],
+"age": null,
+"band": null,
+"chronology": [],
+"claims": [
+{
+"source": "Pedlow and Welzenbach, The Central Intelligence Agency and Overhead Reconnaissance: The U-2 and OXCART Programs, 1954-1974, CIA History Staff, 2013 release, https://archive.org/download/cia-readingroom-document-0000190094/0000190094_djvu.txt",
+"text": "Dulles gave him the U-2 project by hand: 'On 26 November 1954, the day after Thanksgiving, Allen Dulles called his special assistant, Richard Bissell, into his office to tell him that President Eisenhower had just approved a very secret program and that Dulles wanted Bissell to take charge of it.'",
+"tier": 1
+},
+{
+"source": "Pedlow and Welzenbach, The Central Intelligence Agency and Overhead Reconnaissance: The U-2 and OXCART Programs, 1954-1974, CIA History Staff, 2013 release, https://archive.org/download/cia-readingroom-document-0000190094/0000190094_djvu.txt , chapter 2",
+"text": "He found the site personally and on a dated flight: 'On 12 April 1955 Richard Bissell and Col. Osmund Ritland (the senior Air Force officer on the project staff) flew over Nevada with Kelly Johnson in a small Beechcraft plane piloted by Lockheed's chief test pilot, Tony LeVier. They spotted what appeared to be an airstrip by a salt flat known as Groom Lake, near the northeast corner of the Atomic Energy Commission's (AEC) Nevada Proving Ground.'",
+"tier": 1
+},
+{
+"source": "Pedlow and Welzenbach, The Central Intelligence Agency and Overhead Reconnaissance: The U-2 and OXCART Programs, 1954-1974, CIA History Staff, 2013 release, https://archive.org/download/cia-readingroom-document-0000190094/0000190094_djvu.txt , chapter 2",
+"text": "Area 51 exists because he asked for it: 'Bissell and Miller asked the Atomic Energy Commission to add the Groom Lake area to its real estate holdings in Nevada. AEC Chairman Adm. Lewis Strauss readily agreed, and President Eisenhower also approved the addition of this strip of wasteland, known by its map designation as Area 51, to the Nevada Test Site.'",
+"tier": 1
+},
+{
+"source": "Pedlow and Welzenbach, The Central Intelligence Agency and Overhead Reconnaissance: The U-2 and OXCART Programs, 1954-1974, CIA History Staff, 2013 release, https://archive.org/download/cia-readingroom-document-0000190094/0000190094_djvu.txt , chapter 2, section 'U-2s, UFOs, and Operation BLUE BOOK'",
+"text": "His project staff serviced Blue Book and withheld the answer: 'BLUE BOOK investigators regularly called on the Agency's Project Staff in Washington to check reported UFO sightings against U-2 flight logs. This enabled the investigators to eliminate the majority of the UFO reports, although they could not reveal to the letter writers the true cause of the UFO sightings.'",
+"tier": 1
+},
+{
+"source": "Pedlow and Welzenbach, The Central Intelligence Agency and Overhead Reconnaissance: The U-2 and OXCART Programs, 1954-1974, CIA History Staff, 2013 release, https://archive.org/download/cia-readingroom-document-0000190094/0000190094_djvu.txt , chapter 1",
+"text": "He came to the Agency as an economist and a Marshall Plan administrator, not an operator: a Yale doctorate in 1939, a full professorship at MIT in 1948, executive officer of the Combined Shipping Adjustment Board in the war and deputy director of the Marshall Plan from 1948 to the end of 1951. 'Bissell joined the Agency in late January 1954.'",
+"tier": 1
+}
+],
+"cls": "person",
+"cluster": "ic",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "1954",
+"dateStart": "1954",
+"direction": "out",
+"edgeLabel": "Special Assistant to the DCI for Planning and Coordination from January 1954",
+"id": "cia",
+"l0": true,
+"label": "Central Intelligence Agency",
+"note": "The Agency's own history names him in that post and records Dulles handing him the U-2 project in November 1954.",
+"sources": [
+{
+"date": "2013-06-25",
+"name": "Pedlow and Welzenbach, The Central Intelligence Agency and Overhead Reconnaissance, 2013 release",
+"url": "https://archive.org/download/cia-readingroom-document-0000190094/0000190094_djvu.txt"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "location",
+"dateEnd": "1955",
+"dateStart": "1955",
+"direction": "out",
+"edgeLabel": "Asked the AEC to absorb the land that became Area 51",
+"id": "l-area51",
+"l0": false,
+"label": "Area 51 (Homey Airport / Groom Lake operating location)",
+"note": "On finding the site lay outside the proving ground he and Miller asked the Commission to add it to its Nevada holdings; Strauss agreed and Eisenhower approved the addition of the strip known by its map designation as Area 51.",
+"sources": [
+{
+"date": "2013-06-25",
+"name": "Pedlow and Welzenbach, The Central Intelligence Agency and Overhead Reconnaissance, 2013 release, chapter 2",
+"url": "https://archive.org/download/cia-readingroom-document-0000190094/0000190094_djvu.txt"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "location",
+"dateEnd": "1955-04-12",
+"dateStart": "1955-04-12",
+"direction": "out",
+"edgeLabel": "Selected the site on 12 April 1955",
+"id": "l-groom-lake",
+"l0": false,
+"label": "Groom Lake, Nevada",
+"note": "He and Ritland flew over Nevada with Kelly Johnson and Tony LeVier, landed on the lakebed and walked the strip, and the monograph notes that a landing on the airstrip itself would probably have killed the key figures in the project.",
+"sources": [
+{
+"date": "2013-06-25",
+"name": "Pedlow and Welzenbach, The Central Intelligence Agency and Overhead Reconnaissance, 2013 release, chapter 2",
+"url": "https://archive.org/download/cia-readingroom-document-0000190094/0000190094_djvu.txt"
+}
+],
+"tier": "B",
+"type": "geographic"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "1955",
+"dateStart": "1954",
+"direction": "out",
+"edgeLabel": "Ran the project Kelly Johnson built the aircraft for",
+"id": "lockheed-skunk-works",
+"l0": true,
+"label": "Lockheed Martin Advanced Development Programs (Skunk Works)",
+"note": "Kelly Johnson was on the 12 April 1955 site flight with Lockheed's chief test pilot, and named the resulting base the Paradise Ranch to make it sound better to his workers.",
+"sources": [
+{
+"date": "2013-06-25",
+"name": "Pedlow and Welzenbach, The Central Intelligence Agency and Overhead Reconnaissance, 2013 release, chapter 2",
+"url": "https://archive.org/download/cia-readingroom-document-0000190094/0000190094_djvu.txt"
+}
+],
+"tier": "B",
+"type": "programmatic"
+},
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": "1969",
+"dateStart": "1955",
+"direction": "out",
+"edgeLabel": "His project staff resolved Blue Book's reports and withheld the reason",
+"id": "project-blue-book",
+"l0": true,
+"label": "Project Blue Book",
+"note": "The CIA history states that Blue Book investigators checked reported sightings against U-2 flight logs held by the Agency's project staff and could not reveal the true cause to the people who had written in.",
+"sources": [
+{
+"date": "2013-06-25",
+"name": "Pedlow and Welzenbach, The Central Intelligence Agency and Overhead Reconnaissance, 2013 release, chapter 2",
+"url": "https://archive.org/download/cia-readingroom-document-0000190094/0000190094_djvu.txt"
+}
+],
+"tier": "A",
+"type": "denial"
+}
+],
+"date": "1955-04-12",
+"dateEnd": null,
+"dateStart": "1955-04-12",
+"deg": 5,
+"denials": [
+{
+"by": {
+"id": "richard-m-bissell-jr",
+"label": "Richard M. Bissell Jr."
+},
+"claimTier": 1,
+"denialKind": null,
+"label": "His project staff resolved Blue Book's reports and withheld the reason",
+"note": "The CIA history states that Blue Book investigators checked reported sightings against U-2 flight logs held by the Agency's project staff and could not reveal the true cause to the people who had written in.",
+"of": {
+"id": "project-blue-book",
+"label": "Project Blue Book"
+},
+"sources": [
+{
+"date": "2013-06-25",
+"name": "Pedlow and Welzenbach, The Central Intelligence Agency and Overhead Reconnaissance, 2013 release, chapter 2",
+"url": "https://archive.org/download/cia-readingroom-document-0000190094/0000190094_djvu.txt"
+}
+]
+}
+],
+"domains": [
+"michels-2026-09-02"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "richard-m-bissell-jr",
+"instId": "cia",
+"l0": false,
+"label": "Richard M. Bissell Jr.",
+"loc": "Washington, DC",
+"locId": "l-dc",
+"members": null,
+"narrative": "Richard Bissell is where the documented record of Area 51 begins, and the board's Nevada material has until now had no origin point. The CIA's own History Staff monograph, in its fuller 2013 release, records that Allen Dulles put him in charge of the U-2 project on 26 November 1954; that on 12 April 1955 he flew over Nevada with Osmund Ritland, Kelly Johnson and Tony LeVier and spotted the airstrip at Groom Lake; that on finding it lay outside the AEC's proving ground he asked the Commission to absorb it, which Chairman Lewis Strauss agreed to and Eisenhower approved; and that the strip's map designation was Area 51. The same monograph records that Blue Book investigators checked their UFO reports against the project's flight logs and were not permitted to tell correspondents the cause. Nothing in it touches the deathbed briefing claim the Michels corpus routes through him, and that claim must not travel with this node.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Richard M. Bissell Jr.",
+"sources": [
+{
+"date": "2013-06-25",
+"name": "Gregory W. Pedlow and Donald E. Welzenbach, The Central Intelligence Agency and Overhead Reconnaissance: The U-2 and OXCART Programs, 1954-1974, CIA History Staff, approved for release 25 June 2013 (CIA reading room document 0000190094)",
+"url": "https://archive.org/download/cia-readingroom-document-0000190094/0000190094_djvu.txt"
+},
+{
+"date": "2026-09-02",
+"name": "Same monograph, CIA Center for the Study of Intelligence copy (no text layer)",
+"url": "https://www.cia.gov/resources/csi/static/CIA-and-U2-Program.pdf"
+}
+],
+"status": "dead",
+"sub": "CIA Special Assistant for Planning and Coordination from 1954; ran the U-2 project and selected Groom Lake",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 209 of 1027, score 42). 5 connections, 1 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D1.",
+"timeline": [],
+"unexplainedResidual": null,
+"unverified": [
+"The 1933 Magenta briefing claim two Michels lead maps route through Bissell on a single deathbed account. His name appears 193 times in the CIA monograph and not once in any such context; the claim must not travel with this node."
+]
+}

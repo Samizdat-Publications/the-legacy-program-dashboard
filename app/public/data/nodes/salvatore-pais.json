@@ -1,0 +1,569 @@
+{
+"A": 1,
+"C": 2,
+"D": 1,
+"affiliations": [
+"Naval Air Warfare Center Aircraft Division (NAWCAD), NAS Patuxent River, Maryland",
+"Naval Air Systems Command (NAVAIR)",
+"US Navy Strategic Systems Programs (from 2019)",
+"United States Air Force (from 2021)"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "2015-03-06",
+"event": "Invention original date recorded on the PAX 205 briefing for the inertial mass reduction device.",
+"precision": "day"
+},
+{
+"date": "2015-07-24",
+"event": "Application 14/807943 filed, 'Electromagnetic field generator and method to generate an electromagnetic field'.",
+"precision": "day"
+},
+{
+"date": "2016-04-28",
+"event": "Application 15/141270 filed, 'Craft using an inertial mass reduction device' (Navy Case PAX 205).",
+"precision": "day"
+},
+{
+"date": "2016-05-02",
+"event": "Application referred by L&R for third-level security review; cleared without a secrecy order.",
+"precision": "day"
+},
+{
+"date": "2016-12-01",
+"event": "Approximate start of NAWCAD-funded experimental work on the IMRD test article, derived from Sheehy's statement in December 2017 that Pais was 'one year into the project'.",
+"precision": "day"
+},
+{
+"date": "2017-02-14",
+"event": "Application 15/431823 filed, 'High frequency gravitational wave generator'.",
+"precision": "day"
+},
+{
+"date": "2017-08-16",
+"event": "Application 15/678672 filed, 'Piezoelectricity-induced Room Temperature Superconductor'.",
+"precision": "day"
+},
+{
+"date": "2017-12-15",
+"event": "NAE Chief Technology Officer writes to the examiner directly (NAVAIR Ser 40T/33), conceding the concept is 'beyond the state of the possible, at least at present' and arguing the Navy should hold the patent regardless.",
+"precision": "day"
+},
+{
+"date": "2018-01-17",
+"event": "Telephonic examiner interview with Bonzell, Glut and Pais. No exhibit, no demonstration, no agreement.",
+"precision": "day"
+},
+{
+"date": "2018-03-22",
+"event": "Application 15/928703 filed, 'Plasma Compression Fusion Device'.",
+"precision": "day"
+},
+{
+"date": "2018-03-27",
+"event": "Final rejection of application 15/141,270.",
+"precision": "day"
+},
+{
+"date": "2018-05-11",
+"event": "Sheehy signs a declaration under 37 C.F.R. 1.132 asserting enablement; filed 24 May 2018 and re-filed unchanged in the Appeal Brief.",
+"precision": "day"
+},
+{
+"date": "2018-06-21",
+"event": "Notice of Appeal filed.",
+"precision": "day"
+},
+{
+"date": "2018-07-11",
+"event": "Advisory Action: the examiner agrees the math and physics are sound, holds the claims still not enabled, and asks for a demonstration.",
+"precision": "day"
+},
+{
+"date": "2018-08-21",
+"event": "Appeal Brief filed by NAWCAD Office of Counsel, re-filing the 11 May declaration in its Evidence Appendix.",
+"precision": "day"
+},
+{
+"date": "2018-11-20",
+"event": "US 10,135,366 granted.",
+"precision": "day"
+},
+{
+"date": "2018-12-04",
+"event": "US 10,144,532 granted.",
+"precision": "day"
+},
+{
+"date": "2019-06-18",
+"event": "US 10,322,827 granted.",
+"precision": "day"
+},
+{
+"date": "2023-01-09",
+"event": "US 10,144,532 expired for non-payment of maintenance fees under 37 CFR 1.362.",
+"precision": "day"
+}
+],
+"claims": [
+{
+"source": "American Alchemy with Jesse Michels, 'Congressman: President Trump Was Briefed On Alien Hybrids!', 2 July 2026, 0:36:49 https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL2654068830.mp3",
+"text": "On American Alchemy with Jesse Michels, 2 July 2026, Rep. Eric Burlison described an official visit to NAS Patuxent River at which he asked for and was granted a meeting with Pais, went down the list of the patents, and was told that one of them had been built and tested but that no definitive result was obtained. Burlison said Pais's position was 'that was not built to his specifications', and that Dr. Jon Kosloski was present and was the only other person in the room following the physics (0:36:49 to 0:39:35). Burlison hedged which patent was tested, saying only 'I believe the anti-gravitic one'.",
+"tier": 2
+},
+{
+"source": "American Alchemy with Jesse Michels, 'Congressman: President Trump Was Briefed On Alien Hybrids!', 2 July 2026, 0:37:47 https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL2654068830.mp3",
+"text": "In the same episode Jesse Michels, not Burlison, described Pais as fearful and hard to reach, said he had interviewed him in a motel near Pax River during which a camera failed, and said Pais stopped him at a point in the science with 'Jesse, stop right there' and declined to discuss it further (0:37:47 to 0:38:43). The lead map for this corpus attributes this account to Burlison; the transcript attributes it to Michels.",
+"tier": 2
+},
+{
+"source": "NAVAIR FOIA release 2021-003244, 'PAX 205 - INERTIAL MASS REDUCTION DEVICE', p. 1, https://www.navair.navy.mil/foia/sites/g/files/jejdrs566/files/document/%5Bfilename%5D/2021-003244%20FINAL%20VERSION%20PAX%20205%20-%20INERTIAL%20MASS%20REDUCTION%20DEVICE.pdf",
+"text": "The Navy invention-disclosure briefing for Navy Case PAX 205 identifies its author as 'Salvatore Cezar Pais, Ph.D., Department of Defense / Department of the Navy, Naval Air Systems Command / NAWCAD, NAS Patuxent River Maryland 20670', with competency code 4.4.5.1 and a salvatore.pais@navy.mil address.",
+"tier": 1
+},
+{
+"source": "NAVAIR FOIA release 2021-003244, PAX 205 briefing, slide 5",
+"text": "The PAX 205 briefing states the invention 'makes possible the design of a hybrid aerospace / undersea craft (HAUC), which due to the physical mechanisms enabled with the Inertial Mass Reduction Device (IMRD), can function as a submersible craft capable of extreme aerial and underwater speeds (lack of air/water-skin friction) and enhanced stealth capabilities (non-linear scattering of RF and sonar signals).'",
+"tier": 1
+},
+{
+"source": "NAVAIR FOIA release 2021-003244, PAX 205 briefing, slides 4 and 5",
+"text": "The PAX 205 briefing states the hybrid craft 'would move with great ease through the air / space / water mediums, by being enclosed in a Vacuum plasma bubble/sheath', and that 'Energy flux values of 10^33 Watts/m^2 (and beyond) are possible.'",
+"tier": 1
+},
+{
+"source": "NAVAIR FOIA release 2021-003244, PAX 205 briefing, slides 4 and 6",
+"text": "The PAX 205 briefing states twice that the invention 'is a theoretical concept - no prototype in existence, as yet', and gives the invention original date as 06/03/2015.",
+"tier": 1
+},
+{
+"source": "NAVAIR FOIA release 2021-003244, PAX 205 briefing, slide 6",
+"text": "The PAX 205 briefing proposes Section 219 NISE funding of 250,000 USD in anticipated labour and 250,000 USD in anticipated NAWCAD facility cost for experimental investigation of the concept, under a slide headed 'EXPERIMENT TRUMPS THEORY EVERYTIME!'",
+"tier": 1
+},
+{
+"source": "NAVAIR FOIA release 2021-003244, PAX 205 briefing, slide 5",
+"text": "The PAX 205 briefing states that 'it is possible to use the IMRD as an artificial gravitational wave generator (invention enables Gertsenshtein Effect)', that this 'has tremendous air and space military implications and applications (both offensive and defensive in nature)', and that 'Local spacetime modification on a grand scale (planetary-size disruption) is thus feasible.'",
+"tier": 1
+},
+{
+"source": "NAVAIR FOIA release 2021-003244, PAX 205 briefing, slide 3",
+"text": "The PAX 205 briefing opens by quoting VADM Paul Grosklags, Commander NAVAIR, dated 11-19-2015, and frames the device as delivering 'Battlefield Supremacy, against all foes'.",
+"tier": 1
+},
+{
+"source": "Patent bibliographic records for US10135366, US10144532, US10322827, US20190058105 and US20190295733 (FreePatentsOnline mirror of the USPTO full-text record), read 28 August 2026",
+"text": "Five patent filings between July 2015 and March 2018 name Pais as inventor and are assigned to the United States as represented by the Secretary of the Navy: applications 14/807943, 15/141270, 15/431823, 15/678672 and 15/928703. Three issued as US 10,135,366, US 10,144,532 and US 10,322,827.",
+"tier": 2
+},
+{
+"source": "Secondary reporting summarised at https://en.wikipedia.org/wiki/Salvatore_Pais citing FOIA-released NAWCAD records; the underlying release has not been obtained for this board",
+"text": "Reporting based on records released under FOIA states that NAWCAD funded testing of the claimed effect between 2016 and 2019 at a cost of roughly 500,000 USD and determined that it could not be demonstrated, with no further research conducted. The figure corresponds to the two 250,000 USD lines proposed in the PAX 205 briefing.",
+"tier": 2
+},
+{
+"source": "USPTO file wrapper, application 15/141,270 (PAX 205), retrieved from USPTO Patent Center 28 August 2026; document image JCTFAFUKPXXIFW1.pdf, NAVAIR Ser 40T/33 dated 15 December 2017; transcript at research/patents/wrapper/sheehy-letter-2017-12-15.txt",
+"text": "The Sheehy intervention is a real document and it is not what the secondary reporting describes. On 15 December 2017 the Chief Technology Officer of the Naval Aviation Enterprise wrote to the examiner by name on NAVAIR letterhead (Ser 40T/33, from AIR 4.0T, to 'Mr. Philip J. Bonzell, Primary Patent Examiner'). Rather than asserting the invention was operable, Sheehy opened by CONCEDING the examiner's point: 'Dr Pais has shared your review of his patent disclosure and I agree with your main point that this mode of acceleration/movement is beyond the state of the possible, at least at present.' He praised the examiner's work: 'It is clear from your review that you did invest the time and did follow the theory.'",
+"tier": 1
+},
+{
+"source": "NAVAIR FOIA release 2021-003244, PAX 205 briefing, slides 4-5, compared against the reported characteristics on this board",
+"text": "The PAX 205 description of a single craft combining transmedium air/space/water travel, extreme speed without skin friction, and low observability through non-linear scattering of RF and sonar tracks the flight characteristics reported by Navy aircrew in the same period more closely than any other document in the federal patent record. Reasoning: direct comparison of the briefing's own capability list against the reported characteristics; the correspondence is a matter of textual overlap and does not establish a causal direction in either direction.",
+"tier": 3
+},
+{
+"source": "USPTO file wrapper, application 15/141,270 (PAX 205), retrieved from USPTO Patent Center 28 August 2026; document image JCTFAFUKPXXIFW1.pdf, NAVAIR Ser 40T/33 dated 15 December 2017; transcript at research/patents/wrapper/sheehy-letter-2017-12-15.txt",
+"text": "The intervention is better read as an argument about TIMING and about ownership than as an assertion that the device works. Sheehy's own analogy is the ruby laser: the theory preceded the device, and 'the Army at Picatinny Arsenal had built the first ruby laser in 1958 but never sought a patent much to DoD's loss.' His stated conclusion is procurement economics, not physics: 'China is already investing significantly in this area and I would prefer we hold the patent as opposed to paying forever more to use this revolutionary technology.' Reasoning: stated inference from the letter's own structure, which spends four paragraphs on why a not-yet-possible thing should be patented anyway and none on why it is possible now. The competing reading, that this is ordinary agency advocacy for a favoured research line, is equally available and is not excluded.",
+"tier": 3
+},
+{
+"source": "NAVAIR FOIA release 2021-003244, PAX 205 briefing, slides 4 and 6",
+"text": "The argument that a cleared federal employee cannot confirm a working article, and so a denial from one carries little evidentiary weight, does not reach the 'no prototype in existence' statement in its strongest form, because that statement was not made to the public. It appears on an internal NAVAIR invention-disclosure slide addressed to the officials deciding whether to grant the author roughly 500,000 dollars to build an experiment. The incentive in that room runs the other way: an applicant who already possessed a working article would not gain by telling his own funding authority he had nothing. Reasoning: stated inference from the document's audience and purpose, which are visible on its face.",
+"tier": 3
+},
+{
+"source": "Stated inference; no primary record bears on the origin question either way",
+"text": "The clearance argument does survive against a narrower and more defensible claim: classification constrains what a cleared person may say about the ORIGIN of a concept, not about whether hardware sits on his bench. A person read into a compartment could write 'no prototype in existence' truthfully while being unable to state that he knew the effect to be real from data he was not free to cite. Nothing in the released record establishes that this is what happened, and nothing in it excludes the possibility. Reasoning: stated inference distinguishing two different questions the same sentence is often taken to answer.",
+"tier": 3
+},
+{
+"source": "USPTO application data for 15/141270 (product PTGRXML, data.uspto.gov), retrieved from the file wrapper 28 August 2026",
+"text": "US 10,144,532 is EXPIRED. USPTO application data gives application status 'Patent Expired Due to NonPayment of Maintenance Fees Under 37 CFR 1.362' with a status date of 9 January 2023, following a maintenance fee reminder mailed 25 July 2022. The Navy prosecuted the application through a formal appeal to obtain the grant in December 2018 and then did not pay the first maintenance fee, so the invention passed into the public domain.",
+"tier": 1
+},
+{
+"source": "USPTO application data for 15/141270 (product PTGRXML, data.uspto.gov), retrieved from the file wrapper 28 August 2026",
+"text": "The application was pulled for security screening at filing. USPTO events record 'Referred to Level 2 (LARS) by OIPE CSR' and 'Referred by L&R for Third-Level Security Review. Agency Referral Letter Generated', both dated 2 May 2016, with 'Waiting LR clearance' on 12 May 2016. It cleared; no secrecy order issued.",
+"tier": 1
+},
+{
+"source": "USPTO application data for 15/141270 (product PTGRXML, data.uspto.gov), retrieved from the file wrapper 28 August 2026",
+"text": "The grant was obtained through a formal appeal, not a letter. The recorded sequence is: non-final rejection 22 November 2017; applicant-initiated telephonic examiner interview 17 January 2018 at which 'no agreement was reached'; final rejection 27 March 2018; response after final 24 May 2018 carrying a declaration under 37 C.F.R. 1.132 signed by Dr James Sheehy on 11 May 2018; Notice of Appeal filed 21 June 2018; Advisory Action 11 July 2018 refusing to allow; Appeal Brief filed 21 August 2018, re-filing the SAME 11 May declaration in its Evidence Appendix rather than a second one; Appeal Brief Review Complete 5 September 2018; Reasons for Allowance 24 October 2018; Notice of Allowance 31 October 2018; granted 4 December 2018. The examiner allowed the application before the Patent Trial and Appeal Board ever ruled.",
+"tier": 1
+},
+{
+"source": "USPTO application data for 15/141270 (product PTGRXML, data.uspto.gov), retrieved from the file wrapper 28 August 2026",
+"text": "The examiner of record was Philip J. Bonzell, Group Art Unit 3642. The attorneys of record were Mark Glut (USPTO registration 38,161), Robert S. Gorman (41,790) and Rohit K. Dewan (74,007), all of the Department of the Navy, Naval Air Warfare Center Aircraft Division, Office of Counsel, 47076 Liljencrantz Road, Building 435, Patuxent River, Maryland.",
+"tier": 1
+},
+{
+"source": "USPTO application data for 15/141270 (product PTGRXML, data.uspto.gov), retrieved from the file wrapper 28 August 2026",
+"text": "The assignment of record is reel 38412, frame 0760: assignor PAIS, SALVATORE, execution date 27 April 2016, recorded 28 April 2016, assignee DEPARTMENT OF THE NAVY, attorney docket number PAX 205. This is the documentary link between the granted patent and the NAVAIR invention-disclosure briefing released under FOIA, which carries the same Navy case number.",
+"tier": 1
+},
+{
+"source": "Application 15/141,270 as filed, 'A Craft Using an Inertial Mass Reduction Device', Navy Case PAX 205",
+"text": "Paragraph [0020] of the application as filed credits the mechanism to a named figure already on this board: 'it is feasible to remove energy-mass from the system by enabling vacuum polarization, as discussed by Harold Puthoff; in that diminution of inertial (and thus gravitational) mass can be achieved via manipulation of quantum field fluctuations in the vacuum.'",
+"tier": 1
+},
+{
+"source": "Application 15/141,270 as filed, 'A Craft Using an Inertial Mass Reduction Device', Navy Case PAX 205",
+"text": "Paragraph [0037] of the application as filed states that the preferred electromagnetic generator for the craft is the one described in US application 14/807,943, 'incorporated by reference, and has the same inventor'. The inertial mass reduction craft and the electromagnetic field generator are therefore linked as components of one design by the filings themselves rather than by inference.",
+"tier": 1
+},
+{
+"source": "Application 15/141,270 as filed, 'A Craft Using an Inertial Mass Reduction Device', Navy Case PAX 205",
+"text": "The application as filed states the craft 'can be, but without limitation, a cone or lenticular triangle / delta wing configuration', and its two figures show a triangular craft and a diamond craft, each enclosed in the polarized vacuum boundary. The published drawings are the only depiction of the intended craft geometry in the federal record.",
+"tier": 1
+},
+{
+"source": "USPTO application data for 15/141270 (product PTGRXML, data.uspto.gov), retrieved from the file wrapper 28 August 2026",
+"text": "The combination of a two-year fight for the grant and a refusal to pay the first maintenance fee is consistent with the Navy wanting the examining authority's FINDING rather than the property right. The reason this now bites harder is that Sheehy stated the opposite rationale in writing: he wanted to 'hold the patent as opposed to paying forever more to use this revolutionary technology', which is a freedom-to-operate argument. But publication in November 2017 had already created permanent prior art, and prior art alone prevents anyone else from patenting the idea and charging the Navy for it. The granted claims added nothing to that protection; what they added was the reversal of an enablement rejection, which is the Patent Office ceasing to say the invention does not work. A maintenance fee buys only the right to exclude an infringer, which the Navy would never exercise. Reasoning: stated inference from the prosecution record and the letter; the alternative reading, that the docket simply lapsed after its inventor transferred out of NAWCAD in 2019, is equally available and is not excluded.",
+"tier": 3
+},
+{
+"source": "USPTO file wrapper, application 15/141,270 (PAX 205), retrieved from USPTO Patent Center 28 August 2026; document image JCTFAFUKPXXIFW1.pdf, NAVAIR Ser 40T/33 dated 15 December 2017; transcript at research/patents/wrapper/sheehy-letter-2017-12-15.txt",
+"text": "The December 2017 letter places the NAWCAD experimental programme on the record and dates it. Sheehy wrote that 'Dr. Pais is currently funded by NAWCAD to design a test article and instrumentation to demonstrate the experimental feasibility of achieving high electromagnetic (EM) field-energy and flux values', and that 'He is currently one year into the project and has already begun a series of experiments'. That places the start of funded experimental work in about December 2016 and corroborates, from a primary document, the secondary reporting that NAWCAD funded testing from 2016.",
+"tier": 1
+},
+{
+"source": "USPTO file wrapper, application 15/141,270 (PAX 205), retrieved from USPTO Patent Center 28 August 2026; document image JCTFAFUKPXXIFW1.pdf, NAVAIR Ser 40T/33 dated 15 December 2017; transcript at research/patents/wrapper/sheehy-letter-2017-12-15.txt",
+"text": "The letter describes the actual test rig in specific terms: 'tests using a battery to charge a 10 cm test sample spinning at up to 100,000 RPM and is able maintain charge on these batteries for dwell times of more than 25 minutes (at max RPM) without loss of load', with a fallback to 'a super-capacitor as the spinning test asset' and a test asset surface charge density 'on the order of one Coulomb/meter 2'. This is the only description of the apparatus located on this board that comes from a government document rather than from reporting.",
+"tier": 1
+},
+{
+"source": "USPTO file wrapper, application 15/141,270 (PAX 205), retrieved from USPTO Patent Center 28 August 2026; document image JHRQ6JRIRXEAPX0.pdf, declaration under 37 C.F.R. 1.132 signed 11 May 2018, faxed 24 May 2018; transcript at research/patents/wrapper/sheehy-declaration-2018-05-11.txt",
+"text": "Sheehy's declaration of 11 May 2018 states his credentials: a PhD in physiological optics from Pennsylvania State University, a master's in Human Factors Engineering from Rensselaer, a bachelor's from Kean University; a civilian Navy employee since 1985; formerly Chief Scientist of the Naval Air Systems Command; Chief Technology Officer of the Naval Aviation Enterprise for the preceding eleven years; promoted to the Senior Executive Service in November 2001; awarded the Presidential Rank Award in 2007. It is sworn under 18 U.S.C. 1001.",
+"tier": 1
+},
+{
+"source": "USPTO file wrapper, application 15/141,270 (PAX 205), retrieved from USPTO Patent Center 28 August 2026; document image JHRQ6JRIRXEAPX0.pdf, declaration under 37 C.F.R. 1.132 signed 11 May 2018, faxed 24 May 2018; transcript at research/patents/wrapper/sheehy-declaration-2018-05-11.txt",
+"text": "The declaration's operative assertion is narrow and rests on citation rather than on test data. Sheehy declares that he 'can be considered a person of ordinary skill in the art' and that 'the invention described in the above referenced patent application is enabled via the physics described in the patent application and the peer reviewed papers described in the Inventor Amendment dated January 23, 2018'. He does not state that a device was built or that any effect was measured, and the experiments described in his own December 2017 letter are not mentioned.",
+"tier": 1
+},
+{
+"source": "USPTO file wrapper, application 15/141,270 (PAX 205), retrieved from USPTO Patent Center 28 August 2026; document images JLZJWBOMRXEAPX0.pdf and JLZJWBOORXEAPX0.pdf, Appeal Brief under 37 C.F.R. 41.37 faxed 20 August 2018; notes at research/patents/wrapper/appeal-brief-2018-08-20.txt",
+"text": "Two of the five papers the enablement argument rests on are Pais's own conference papers: 'A Hybrid Craft using an Inertial Mass Modification Device', AIAA SPACE Forum, Orlando, 12-14 September 2017, and 'High Frequency Gravitational Waves - Induced Propulsion', SAE International 2017-01-2040, 19 September 2017. The other three are third-party technical papers on piezoelectric materials, Q-factor estimation and plasma channels, none of which concerns inertial mass reduction. The corroboration invoked is therefore in part the inventor citing himself.",
+"tier": 1
+},
+{
+"source": "USPTO file wrapper, application 15/141,270 (PAX 205), retrieved from USPTO Patent Center 28 August 2026; document image JJEEPSU2RXEAPX0.pdf, Advisory Action mailed 11 July 2018; transcript at research/patents/wrapper/advisory-action-2018-07-11.txt",
+"text": "The examiner conceded the theory and still refused the claims. The Advisory Action of 11 July 2018 says of the Sheehy declaration: 'While the Examiner agrees that the math and physics are sound in this application, the Examiner holds that the claims are still not enabled.' The distinction is the whole case: enablement asks whether a person skilled in the art could BUILD the thing, not whether the equations are consistent.",
+"tier": 1
+},
+{
+"source": "USPTO file wrapper, application 15/141,270 (PAX 205), retrieved from USPTO Patent Center 28 August 2026; document image JJEEPSU2RXEAPX0.pdf, Advisory Action mailed 11 July 2018; transcript at research/patents/wrapper/advisory-action-2018-07-11.txt",
+"text": "The examiner set an explicit condition for allowance and it was experimental. Rejecting the argument that microwave excitation of a copper resonant cavity makes the required fields feasible, he wrote: 'While obtaining high vibrational frequencies are possible this does not mean that the E-fields and B-fields that are required to polarize the quantum vacuum can be created. If this is so then the Examiner asks that the Applicant demonstrate these high vibrational frequencies to create a local polarized vacuum.' No such demonstration appears in the file wrapper as uploaded, and the application was nonetheless allowed on 31 October 2018.",
+"tier": 1
+},
+{
+"source": "USPTO file wrapper, application 15/141,270 (PAX 205), retrieved from USPTO Patent Center 28 August 2026; document image JJEEPSU2RXEAPX0.pdf, Advisory Action mailed 11 July 2018; transcript at research/patents/wrapper/advisory-action-2018-07-11.txt",
+"text": "The specific physical quantities in dispute are on the record. The applicant argued that vibrational frequencies above 10 GHz in a copper resonant cavity enable electromagnetic flux values of 10^33 Watts per square metre, 'equivalent to the generation of E-fields on the order of 10^18 V/m and B-fields on the order of 10^9 Tesla'. The examiner's rejection was that those field levels are not feasible with current technology.",
+"tier": 1
+},
+{
+"source": "USPTO file wrapper, application 15/141,270 (PAX 205), retrieved from USPTO Patent Center 28 August 2026; document image JCKKXW5GRXEAPX4.pdf, Applicant-Initiated Interview Summary mailed 22 January 2018; transcript at research/patents/wrapper/interview-summary-2018-01-17.txt",
+"text": "The 17 January 2018 examiner interview was telephonic, attended by examiner Philip J. Bonzell, attorney Mark Glut and Salvatore Pais personally. The summary records that no exhibit was shown and no demonstration conducted, and that 'The Examiner pointed out that he still felt that there were enablement issues. The Applicant to submit arguments to the contrary. No agreement was reached.'",
+"tier": 1
+},
+{
+"source": "USPTO file wrapper, application 15/141,270 (PAX 205), retrieved from USPTO Patent Center 28 August 2026; document images JLZJWBOMRXEAPX0.pdf and JLZJWBOORXEAPX0.pdf, Appeal Brief under 37 C.F.R. 41.37 faxed 20 August 2018; notes at research/patents/wrapper/appeal-brief-2018-08-20.txt",
+"text": "The Appeal Brief states the ownership position without qualification: 'The real party in interested is the United States Government represented by the Secretary of the Navy (The Department of the Navy). The inventor is a U.S.government employee who invented the invention during the course of his employment. As a result, Federal law provides all rights to this invention belong to the United States of America under 37 C.F.R. 501.6.' This is the Navy's own characterisation, in a filing signed by its Office of Counsel.",
+"tier": 1
+},
+{
+"source": "USPTO file wrapper, application 15/141,270 (PAX 205), retrieved from USPTO Patent Center 28 August 2026; document images JLZJWBOMRXEAPX0.pdf and JLZJWBOORXEAPX0.pdf, Appeal Brief under 37 C.F.R. 41.37 faxed 20 August 2018; notes at research/patents/wrapper/appeal-brief-2018-08-20.txt",
+"text": "The appeal was argued on burden of proof rather than on evidence of operability. The brief cites In re Rijckaert, 9 F.3d 1531 (Fed. Cir. 1993) and In re Oetiker, 977 F.2d 1443 (Fed. Cir. 1992) for the proposition that the burden of showing unpatentability rests on the Office and remains there even after a prima facie case. The Navy's legal position was that the examiner had not carried it, not that the device had been shown to work.",
+"tier": 1
+},
+{
+"source": "37 CFR 1.362, Time for payment of maintenance fees (CFR 2024, title 37, vol. 1) || https://www.govinfo.gov/content/pkg/CFR-2024-title37-vol1/xml/CFR-2024-title37-vol1-sec1-362.xml",
+"text": "A patent assigned to a federal agency owes maintenance fees on the ordinary schedule, which closes the question the expiry finding rested on. 37 CFR 1.362(a) requires them 'in all patents based on applications filed on or after December 12, 1980, except as noted in paragraph (b) of this section, to maintain a patent in force beyond 4, 8 and 12 years after the date of grant', and paragraph (b) gives the exemptions in full: 'Maintenance fees are not required for any plant patents or for any design patents.' Both Pais grants are utility patents from applications filed long after 1980. Neither was in an exempt class, and both owed the fee.",
+"tier": 1
+},
+{
+"source": "USPTO application data for 14/807943 and 15/141270 (product PTGRXML, data.uspto.gov), retrieved from the file wrappers 28 August 2026",
+"text": "Both granted Pais patents lapsed at the first maintenance fee, five weeks apart. US 10,135,366, granted 20 November 2018, is recorded expired for non-payment on 26 December 2022; US 10,144,532, granted 4 December 2018, is recorded expired for non-payment on 9 January 2023. USPTO mailed a maintenance fee reminder for each in the preceding July.",
+"tier": 1
+},
+{
+"source": "Stated inference from the two USPTO application-data records, with the competing readings recorded alongside it",
+"text": "That both grants lapsed the same way weakens the reading that either was an isolated docketing slip, and it also weakens the sharper reading that the Navy specifically wanted the finding on the craft and not the property right. An office that files, prosecutes and then renews nothing across a family is exhibiting a maintenance practice, and a practice is as consistent with routine cost control on patents the Navy would never sue to enforce as it is with a judgement about these particular inventions. What can be said without inference is that the Navy paid to obtain both patents, fought a two-year appeal for one of them, and then let both go.",
+"tier": 3
+},
+{
+"source": "USPTO file wrappers for applications 14/807,943 and 15/141,270, compared, read 28 August 2026",
+"text": "The two applications were treated very differently by the Office, and the comparison is the strongest thing this cluster now has. The electromagnetic field generator, filed 24 July 2015, drew one non-final rejection and was allowed by Thomas M. Dougherty in Art Unit 2837 because 'the prior art fails to show' the claimed generator, with enablement never raised. The craft, filed nine months later on 28 April 2016 and expressly incorporating that generator by reference, was rejected twice by Philip J. Bonzell in Art Units 3644 and 3642 as not enabled and impossible, and reached allowance only after a Notice of Appeal and an Appeal Brief. The same physics, the same inventor and the same office of counsel produced opposite results depending on whether the claim was to the component or to the craft.",
+"tier": 1
+}
+],
+"cls": "person",
+"cluster": "research",
+"conflicts": [
+"The strong reading of these filings, that they describe technology already understood from a recovered object, is in direct tension with the author's own written statement that no prototype existed and with NAWCAD's reported conclusion that the effect could not be demonstrated. Both the statement and the test result are part of the record and are recorded here.",
+"Two different questions are routinely collapsed into one when this record is discussed: whether a working article existed, and where the concept came from. The PAX 205 briefing speaks directly to the first and is silent on the second. Treating its answer to the first as an answer to the second is the most common error made about this cluster in both directions.",
+{
+"source": "USPTO file wrapper document image JCTFAFUKPXXIFW1.pdf against secondary summaries of the episode",
+"text": "The widely repeated account that Sheehy wrote to the patent office 'asserting the invention was operable' is contradicted by the letter itself, which opens by agreeing with the examiner that the concept is beyond present possibility. The board carried that version as Tier 2 until the primary document was read on 28 August 2026. Anyone citing the secondary version to a sceptical reader is handing them the rebuttal."
+}
+],
+"connections": [
+{
+"claimTier": 1,
+"cls": "location",
+"dateEnd": "2019-06-01",
+"dateStart": "2015-07-24",
+"direction": "out",
+"edgeLabel": "NAWCAD, NAS Patuxent River, at the time of filing",
+"id": "l-pax-river",
+"l0": false,
+"label": "Naval Air Station Patuxent River, Maryland",
+"note": "The PAX 205 briefing gives his station as NAS Patuxent River Maryland 20670.",
+"sources": [
+{
+"date": null,
+"name": "NAVAIR FOIA release 2021-003244, p. 1",
+"url": "https://www.navair.navy.mil/foia/sites/g/files/jejdrs566/files/document/%5Bfilename%5D/2021-003244%20FINAL%20VERSION%20PAX%20205%20-%20INERTIAL%20MASS%20REDUCTION%20DEVICE.pdf"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 2,
+"cls": "document",
+"dateEnd": "2019-09-26",
+"dateStart": "2018-03-22",
+"direction": "out",
+"edgeLabel": "Named inventor",
+"id": "pais-app-fusion",
+"l0": false,
+"label": "US Application 2019/0295733 - Plasma Compression Fusion Device",
+"note": "Application 15/928703, assigned to the Secretary of the Navy.",
+"sources": [
+{
+"date": null,
+"name": "US Application 2019/0295733",
+"url": "https://www.freepatentsonline.com/20190295733.html"
+}
+],
+"tier": "C",
+"type": "programmatic"
+},
+{
+"claimTier": 2,
+"cls": "document",
+"dateEnd": "2019-02-21",
+"dateStart": "2017-08-16",
+"direction": "out",
+"edgeLabel": "Named inventor",
+"id": "pais-app-superconductor",
+"l0": false,
+"label": "US Application 2019/0058105 - Piezoelectricity-induced Room Temperature Superconductor",
+"note": "Application 15/678672, assigned to the Secretary of the Navy.",
+"sources": [
+{
+"date": null,
+"name": "US Application 2019/0058105",
+"url": "https://www.freepatentsonline.com/20190058105.html"
+}
+],
+"tier": "C",
+"type": "programmatic"
+},
+{
+"claimTier": 2,
+"cls": "document",
+"dateEnd": "2018-11-20",
+"dateStart": "2015-07-24",
+"direction": "out",
+"edgeLabel": "Named inventor",
+"id": "pais-patent-emfg",
+"l0": false,
+"label": "US Patent 10,135,366 - Electromagnetic field generator",
+"note": "Application 14/807943, assigned to the Secretary of the Navy.",
+"sources": [
+{
+"date": null,
+"name": "US Patent 10,135,366",
+"url": "https://www.freepatentsonline.com/10135366.html"
+}
+],
+"tier": "B",
+"type": "programmatic"
+},
+{
+"claimTier": 2,
+"cls": "document",
+"dateEnd": "2019-06-18",
+"dateStart": "2017-02-14",
+"direction": "out",
+"edgeLabel": "Named inventor",
+"id": "pais-patent-hfgw",
+"l0": false,
+"label": "US Patent 10,322,827 - High frequency gravitational wave generator",
+"note": "Application 15/431823, assigned to the Secretary of the Navy.",
+"sources": [
+{
+"date": null,
+"name": "US Patent 10,322,827",
+"url": "https://www.freepatentsonline.com/10322827.html"
+}
+],
+"tier": "C",
+"type": "programmatic"
+},
+{
+"claimTier": 2,
+"cls": "document",
+"dateEnd": "2018-12-04",
+"dateStart": "2016-04-28",
+"direction": "out",
+"edgeLabel": "Named inventor",
+"id": "pais-patent-imrd",
+"l0": true,
+"label": "US Patent 10,144,532 - Craft using an inertial mass reduction device",
+"note": "Application 15/141270, assigned to the Secretary of the Navy.",
+"sources": [
+{
+"date": null,
+"name": "US Patent 10,144,532",
+"url": "https://www.freepatentsonline.com/10144532.html"
+}
+],
+"tier": "A",
+"type": "programmatic"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": "2015-03-06",
+"direction": "out",
+"edgeLabel": "Author of the Navy invention disclosure",
+"id": "pax-205-disclosure",
+"l0": false,
+"label": "NAVAIR Invention Disclosure Briefing, Navy Case PAX 205 (Inertial Mass Reduction Device)",
+"note": "The briefing names him as author with his NAWCAD competency code 4.4.5.1 and navy.mil address on its first page.",
+"sources": [
+{
+"date": null,
+"name": "NAVAIR FOIA release 2021-003244",
+"url": "https://www.navair.navy.mil/foia/sites/g/files/jejdrs566/files/document/%5Bfilename%5D/2021-003244%20FINAL%20VERSION%20PAX%20205%20-%20INERTIAL%20MASS%20REDUCTION%20DEVICE.pdf"
+}
+],
+"tier": "B",
+"type": "programmatic"
+}
+],
+"date": "2015-07-24",
+"dateEnd": null,
+"dateStart": "2015-07-24",
+"deg": 7,
+"denials": [],
+"domains": [
+"pais-patents"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "2",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "salvatore-pais",
+"instId": "us-navy",
+"l0": false,
+"label": "Salvatore Cezar Pais",
+"loc": "NAS Patuxent River, MD",
+"locId": "l-pax-river",
+"members": null,
+"narrative": "Pais is the only person in the open record who has put a description of a craft with the reported UAP flight characteristics into the United States patent system, with the United States Navy as assignee and his own name on the front. That is the entire reason he belongs on this board, and it is a documentary fact independent of whether anything he described works.\n\nBetween July 2015 and March 2018 he filed five applications from NAWCAD at NAS Patuxent River, every one of them assigned to 'The United States of America as represented by the Secretary of the Navy': an electromagnetic field generator, a craft using an inertial mass reduction device, a high frequency gravitational wave generator, a piezoelectricity-induced room temperature superconductor, and a plasma compression fusion device. Three were granted. Two published as applications.\n\nThe Navy's own invention-disclosure briefing for the inertial mass reduction device, Navy Case PAX 205, was released under FOIA and is the most useful document in the set because Pais wrote it for an internal audience rather than for an examiner. It describes a 'hybrid aerospace / undersea craft (HAUC)' that would 'move with great ease through the air / space / water mediums' enclosed in a 'Vacuum plasma bubble/sheath', achieving 'extreme aerial and underwater speeds (lack of air/water-skin friction) and enhanced stealth capabilities (non-linear scattering of RF and sonar signals)'. Set that description beside the flight characteristics the Navy's own aviators reported in the same decade and the overlap is not subtle: transmedium travel, extreme acceleration, and low observability, itemised in a Navy invention disclosure.\n\nThe same briefing is equally explicit about what did not exist. Pais states, twice, that this 'is a theoretical concept - no prototype in existence, as yet', gives the invention original date as 6 March 2015, and proposes Section 219 NISE funding of 250,000 dollars in labour and 250,000 dollars in NAWCAD facility cost to investigate it experimentally. A slide header reads 'EXPERIMENT TRUMPS THEORY EVERYTIME!'. Whatever else the documents are, on their face they are a proposal to test an idea, written by someone asking for money to test it.\n\nThat is where the record turns against the strong reading. NAWCAD did fund the work, and reporting based on documents released under FOIA says it spent roughly half a million dollars between 2016 and 2019 and concluded that the effect could not be demonstrated, with no further research conducted. The figure matches the two 250,000 dollar lines Pais proposed. A board that leaves that out is not making the case stronger, it is making it dismissible.\n\nWhat remains genuinely unusual, and is not disposed of by the negative test result, is the institutional behaviour around the filings. A patent examiner's job is to reject a claim that is not enabled, and the record as reported is that one was rejected on exactly that ground and then granted after the Naval Aviation Enterprise's chief technology officer wrote to the USPTO asserting operability and warning that China was pursuing the same capability. Agencies do not usually spend senior technical credibility forcing through a patent they believe describes nothing. Either the Navy believed the physics, or it wanted the priority date on the public record for reasons it has not stated. Both readings are live, and neither is established.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Salvatore Cezar Pais",
+"sources": [
+{
+"date": "2026-07-02",
+"name": "American Alchemy with Jesse Michels, 'Congressman: President Trump Was Briefed On Alien Hybrids!', episode audio",
+"url": "https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL2654068830.mp3"
+},
+{
+"date": null,
+"name": "NAVAIR FOIA release 2021-003244, 'PAX 205 - INERTIAL MASS REDUCTION DEVICE' (Navy invention-disclosure briefing, 6pp)",
+"url": "https://www.navair.navy.mil/foia/sites/g/files/jejdrs566/files/document/%5Bfilename%5D/2021-003244%20FINAL%20VERSION%20PAX%20205%20-%20INERTIAL%20MASS%20REDUCTION%20DEVICE.pdf"
+},
+{
+"date": null,
+"name": "US Patent 10,144,532, 'Craft using an inertial mass reduction device'",
+"url": "https://www.freepatentsonline.com/10144532.html"
+},
+{
+"date": null,
+"name": "US Patent 10,135,366, 'Electromagnetic field generator and method to generate an electromagnetic field'",
+"url": "https://www.freepatentsonline.com/10135366.html"
+},
+{
+"date": null,
+"name": "US Patent 10,322,827, 'High frequency gravitational wave generator'",
+"url": "https://www.freepatentsonline.com/10322827.html"
+},
+{
+"date": null,
+"name": "US Patent Application 2019/0058105, 'Piezoelectricity-induced Room Temperature Superconductor'",
+"url": "https://www.freepatentsonline.com/20190058105.html"
+},
+{
+"date": null,
+"name": "US Patent Application 2019/0295733, 'Plasma Compression Fusion Device'",
+"url": "https://www.freepatentsonline.com/20190295733.html"
+},
+{
+"date": null,
+"name": "Secondary reporting summarised at citing FOIA-released NAWCAD records; the underlying release has not been obtained for this board",
+"url": "https://en.wikipedia.org/wiki/Salvatore_Pais"
+},
+{
+"date": null,
+"name": "37 CFR 1.362, Time for payment of maintenance fees (CFR 2024, title 37, vol. 1) ||",
+"url": "https://www.govinfo.gov/content/pkg/CFR-2024-title37-vol1/xml/CFR-2024-title37-vol1-sec1-362.xml"
+}
+],
+"status": "active",
+"sub": "Aerospace engineer, NAWCAD, NAS Patuxent River (to 2019); named inventor on five Navy-assigned patent filings 2015-2019; later US Navy Strategic Systems Programs, then US Air Force",
+"tier": "A",
+"tierRationale": "Re-graded A on a global pass (rank 45 of 1027, score 83). 7 connections, 6 of them custody/witness/funding/programmatic. Axes C2/A1/D1.",
+"timeline": [
+{
+"date": "2017-12-15",
+"id": "tl-pais-sheehy-letter",
+"label": "NAVAIR's chief technology officer writes to the patent examiner",
+"precision": "day",
+"strand": "program",
+"text": "The Chief Technology Officer of the Naval Aviation Enterprise wrote directly to examiner Philip Bonzell about application 15/141,270, agreeing that the claimed mode of movement was 'beyond the state of the possible, at least at present', describing a funded NAWCAD test programme already a year old, and arguing that the Navy should hold the patent because 'China is already investing significantly in this area'.",
+"tier": "1"
+}
+],
+"unexplainedResidual": "Why the Navy pressed for grant of a filing an examiner had rejected for lack of enablement, and then funded a test that it concluded had failed, without withdrawing or disclaiming the granted patents.",
+"unverified": [
+"Whether Pais had any access to, or knowledge of, material from any recovery programme. Nothing in the released record connects him to AATIP, AAWSAP, KONA BLUE, any DIRD, or any material-custody chain on this board.",
+"His current office and title. Secondary reporting places him at US Navy Strategic Systems Programs from 2019, the US Air Force from 2021 and the Space Force more recently; no primary personnel record has been obtained.",
+"Whether Pais has stated in public interviews that the filings were speculative concepts, and whether any such statement is constrained by an active clearance. No transcript has been obtained for this board; long-form interview material exists and is unindexed here.",
+"Whether patents assigned to a United States government agency owe maintenance fees on the ordinary 37 CFR 1.362 schedule, or are treated differently. Until that is settled, the lapse of US 10,144,532 cannot be read confidently as a decision rather than a bookkeeping outcome. This is the first thing to check before the expiry is used as an argument.",
+"The Reasons for Allowance dated 24 October 2018 is still unread, and it is now known WHY: the file wrapper uploaded to this project stops at the Appeal Brief of 20-21 August 2018. Nothing after that date is present for application 15/141,270. It remains the most informative unobtained document on this node, because it is the examiner's own account of what reversed a rejection he had sustained twice. See research/patents/wrapper/MISSING.md.",
+"No demonstration of the effect appears anywhere in the file wrapper as uploaded, yet the examiner had made one an explicit condition in July 2018 and allowed the case in October 2018. Whether something was filed in between, or whether the examiner simply yielded on the burden-of-proof argument, cannot be determined without the papers listed in MISSING.md. Do not assert either."
+]
+}

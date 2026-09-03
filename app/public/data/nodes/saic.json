@@ -1,0 +1,155 @@
+{
+"A": 3,
+"C": 1,
+"D": 1,
+"band": null,
+"claims": [
+{
+"source": "USAspending.gov recipient search, retrieved 12 August 2026",
+"text": "USAspending records approximately $52 billion in prime contract obligations to Science Applications International Corporation entities since FY2008.",
+"tier": 1
+},
+{
+"source": "Documented history of the government remote viewing effort; SAIC held the research contract in the 1991-1995 period",
+"text": "The US government's remote viewing research program moved from SRI International to SAIC in 1991 and ran there until it was terminated following an external assessment in 1995.",
+"tier": 2
+},
+{
+"source": "Board inference",
+"text": "SAIC demonstrates the mechanism by which a deniable government research line is transferred to corporate custody without changing its nature. Reasoning: the remote viewing precedent is documented; no evidence connects SAIC to material custody.",
+"tier": 3
+}
+],
+"cls": "institution",
+"cluster": "contractor",
+"connections": [
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "1982",
+"direction": "in",
+"edgeLabel": "Director of SAIC since 1982 and a paid part-time employee since 1990",
+"id": "bobby-ray-inman",
+"l0": false,
+"label": "Adm. Bobby Ray Inman",
+"note": "Director of SAIC since 1982 and a paid part-time employee advising on strategic planning since 1990, per the company's 2003 proxy statement, which also names J. R. Beyster and not Inman as Chairman, Chief Executive Officer and President.",
+"sources": [
+{
+"date": "2003-05-28",
+"name": "Science Applications International Corporation definitive proxy statement (DEF 14A), 28 May 2003",
+"url": "https://www.sec.gov/Archives/edgar/data/353394/000104746903019902/a2110788zdef14a.htm"
+},
+{
+"date": "2003-04-14",
+"name": "SEC Form 4, Bobby R. Inman, Science Applications International Corporation, 10 April 2003",
+"url": "https://www.sec.gov/Archives/edgar/data/353394/000108287503000004/inm259.htm"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 2,
+"cls": "institution",
+"dateEnd": "1995",
+"dateStart": "1991",
+"direction": "out",
+"edgeLabel": "SAIC held the government's remote viewing research line after it left SRI",
+"id": "cia",
+"l0": true,
+"label": "Central Intelligence Agency",
+"note": "A documented instance of a deniable government research program in an anomalous subject moving wholesale into corporate custody, terminated after an external assessment.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "USAspending.gov federal award search (prime contract obligations by recipient)",
+"url": "https://www.usaspending.gov/search"
+}
+],
+"tier": "A",
+"type": "programmatic"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2013",
+"direction": "in",
+"edgeLabel": "Leidos is the government services business spun out of SAIC in 2013",
+"id": "leidos",
+"l0": false,
+"label": "Leidos Holdings, Inc.",
+"note": "The split moved the classified services portfolio, and whatever records attach to it, into a separate corporate entity.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "USAspending.gov federal award search (prime contract obligations by recipient)",
+"url": "https://www.usaspending.gov/search"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 2,
+"cls": "program",
+"dateEnd": "2015",
+"dateStart": "2013",
+"direction": "in",
+"edgeLabel": "Alleged SAIC and Sandia connections to the division",
+"id": "off-world-technologies-division",
+"l0": false,
+"label": "Off-World Technologies Division",
+"note": "Gerb links the alleged division to SAIC and Sandia National Laboratories; the escorting weapons instructor is described as a private contractor employee.",
+"sources": [
+{
+"date": "2024-07-17",
+"name": "UAP Gerb - 'Off-World Technologies Division'",
+"url": "https://www.youtube.com/watch?v=QJ215I85d5M"
+}
+],
+"tier": "B",
+"type": "institutional"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "1969",
+"deg": 4,
+"denials": [],
+"desc": "SAIC is the model for the technical services house that becomes indistinguishable from the agency it serves. Founded in 1969, employee-owned, it built its business on classified analytical and engineering support across DoD and the intelligence community, and by the 1990s held the government's most sensitive anomalous-phenomena research line: the remote viewing effort that began at SRI International moved to SAIC in 1991, where it ran until the CIA-commissioned 1995 assessment ended it. That is a documented instance of a government program in an inherently deniable subject area living inside a private corporation - the pattern this domain is about, executed in the open. SAIC split in 2013, spinning its government services business off as Leidos and retaining the SAIC name for the remainder. USAspending records roughly $52 billion in prime contract obligations to SAIC entities since FY2008. SAIC is named once in the 2023 House Oversight hearing record and has never been alleged by any sworn witness to hold recovered material; its place here is structural, as the demonstrated vehicle by which sensitive government research programs are moved into corporate custody.",
+"domains": [
+"primes-custody"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "saic",
+"l0": false,
+"label": "Science Applications International Corporation",
+"locLabel": null,
+"members": null,
+"short": "Science Applications International Corporation",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "USAspending.gov federal award search (prime contract obligations by recipient)",
+"url": "https://www.usaspending.gov/search"
+},
+{
+"date": "2023-07-26",
+"name": "House Oversight hearing transcript, 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency' (CHRG-118hhrg53022)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm"
+}
+],
+"sub": "Employee-owned technical services contractor; inherited the government remote viewing program",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 540 of 1027, score 28). 4 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A3/D1.",
+"timeline": []
+}

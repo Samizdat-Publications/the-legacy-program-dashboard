@@ -1,0 +1,203 @@
+{
+"A": 3,
+"C": 0,
+"D": 2,
+"affiliations": [
+"Inspector General of the Intelligence Community (2021-2025)",
+"NGA, General Counsel (prior)",
+"NSA and ODNI legal roles (prior)",
+"Inspector General of the Intelligence Community (2021- )",
+"NGA General Counsel (prior)",
+"National Security Agency (prior)"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "2021-01-01",
+"event": "Sworn in as Inspector General of the Intelligence Community",
+"precision": "year"
+},
+{
+"date": "2022-07-01",
+"event": "ICIG finds Grusch's complaint credible and urgent, triggering mandatory notification to the intelligence committees.",
+"precision": "month"
+},
+{
+"date": "2022-07-01",
+"event": "ICIG determines Grusch's complaint credible and urgent",
+"precision": "month"
+},
+{
+"date": "2024-01-12",
+"event": "Briefs House Oversight members on UAP for about ninety minutes at the Capitol; members emerge divided and largely unsatisfied.",
+"precision": "day"
+},
+{
+"date": "2024-01-13",
+"event": "ICIG briefs House Oversight subcommittee members on UAP transparency in closed session",
+"precision": "day"
+}
+],
+"claims": [
+{
+"source": "The Hill, 12 January 2024",
+"text": "Briefed House Oversight and Accountability Committee members in a closed-door session at the Capitol on 12 January 2024 for about ninety minutes, intended to improve transparency around the government's knowledge of UAP.",
+"tier": 2
+},
+{
+"source": "The Hill (opinion), 18 February 2025",
+"text": "The internal watchdog overseeing the intelligence agencies deemed Grusch's allegations that UAP information was inappropriately concealed from Congress 'credible and urgent,' triggering mandatory notifications to the intelligence committees.",
+"tier": 2
+},
+{
+"source": "Inference from The Hill reporting of 12 Jan 2024 and 18 Feb 2025 and Luna's 9 Sept 2025 statement on the read-in gate",
+"text": "The gap between a credible-and-urgent ICIG finding in July 2022 and a briefing eighteen months later that members described as substanceless indicates the finding was routed into a channel that could absorb it without producing disclosure. Reasoning: the finding legally compelled notification of the intelligence committees, not the Oversight Committee, and the Oversight briefing that eventually occurred was not a read-in.",
+"tier": 3
+},
+{
+"source": "Grusch sworn testimony, House Oversight, 26 July 2023; The Debrief, 5 June 2023",
+"text": "The ICIG found Grusch's urgent-concern complaint credible and urgent in July 2022, triggering transmission to the congressional intelligence committees.",
+"tier": 1
+},
+{
+"source": "Grusch answering Rep. Tim Burchett, House Oversight hearing transcript, 26 July 2023",
+"text": "Grusch testified there was no smooth process for the ICIG to provide his disclosure to the House and Senate Armed Services Committees despite Title 10 equities.",
+"tier": 2
+}
+],
+"cls": "person",
+"cluster": "ic",
+"conflicts": [
+"The ICIG's credible-and-urgent finding and AARO's no-verifiable-information posture are irreconcilable statements by two arms of the same executive branch; neither has ever been formally harmonized on the record."
+],
+"connections": [
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "2022",
+"direction": "out",
+"edgeLabel": "ICIG found Grusch's urgent-concern complaint credible and urgent, triggering notification of the intelligence committees",
+"id": "david-grusch",
+"l0": false,
+"label": "David Charles Grusch",
+"note": "This finding is the legal predicate for the entire House inquiry, and it routed to the intelligence committees rather than to Oversight.",
+"sources": [
+{
+"date": "2025-02-18",
+"name": "The Hill (opinion, Marik von Rennenkampff): House Republicans demand UFO transparency",
+"url": "https://thehill.com/opinion/national-security/5149386-house-republicans-demand-ufo-transparency/"
+}
+],
+"tier": "A",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2021",
+"direction": "out",
+"edgeLabel": "Inspector General of the Intelligence Community, 2021-present",
+"id": "icig",
+"l0": false,
+"label": "Inspector General of the Intelligence Community",
+"note": "Monheim held the office when the credible-and-urgent determination was made and when his office briefed House Oversight members in closed session on 13 January 2024.",
+"sources": [
+{
+"date": "2023-07-26",
+"name": "House Oversight hearing transcript, Serial No. 118-53",
+"url": "https://www.congress.gov/118/meeting/house/116282/documents/HHRG-118-GO06-Transcript-20230726.pdf"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 2,
+"cls": "event",
+"dateEnd": "2024",
+"dateStart": "2024",
+"direction": "out",
+"edgeLabel": "Briefed House Oversight members for about ninety minutes",
+"id": "icig-briefing-2024-01-12",
+"l0": false,
+"label": "Closed ICIG UAP briefing to House Oversight members",
+"note": "The only formal House encounter with the inspector general who found the Grusch complaint credible and urgent.",
+"sources": [
+{
+"date": "2024-01-12",
+"name": "The Hill: Classified UFO briefing — House members emerge with mixed feelings",
+"url": "https://thehill.com/homenews/house/4406059-classified-ufo-briefing-house-members-mixed-feelings/"
+}
+],
+"tier": "C",
+"type": "institutional"
+}
+],
+"date": "2024-01-12",
+"dateEnd": null,
+"dateStart": "2024-01-12",
+"deg": 3,
+"denials": [],
+"domains": [
+"congress-house",
+"grusch"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "thomas-monheim",
+"instId": "icig",
+"l0": false,
+"label": "Thomas A. Monheim",
+"loc": "Washington, DC",
+"locId": "l-dc",
+"members": null,
+"narrative": "Monheim is the official who stood between the Grusch complaint and Congress. As Inspector General of the Intelligence Community his office received Grusch's PPD-19 urgent-concern complaint through counsel in May 2022 and found it credible and urgent in July 2022, which triggered mandatory notification to the congressional intelligence committees. On 12 January 2024, at the Capitol, he gave a roughly ninety-minute closed briefing to House Oversight members - the House's first and only formal encounter with the watchdog who validated the complaint that started all of this. The result is documented and it is a null. Krishnamoorthi said he did not get the answers he hoped for. Burchett rated it four out of ten and said it was 'more of the same' and 'very compartmentalized.' Ogles said he asked very specific questions and was unable to get specific answers. Burlison and Garcia said it gave direction and probably new information. The most important structural fact is that a credible-and-urgent finding by the IC's own inspector general produced, eighteen months later, a briefing from which a bipartisan group of members emerged reporting they had learned essentially nothing about the substance.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Thomas A. Monheim",
+"sources": [
+{
+"date": "2024-01-12",
+"name": "The Hill: Classified UFO briefing — House members emerge with mixed feelings",
+"url": "https://thehill.com/homenews/house/4406059-classified-ufo-briefing-house-members-mixed-feelings/"
+},
+{
+"date": "2024-01-13",
+"name": "The Hill: Burchett — Classified UFO briefing 'energized' Congress on issue",
+"url": "https://thehill.com/homenews/house/4406775-burchett-classified-ufo-briefing-energized-congress/"
+},
+{
+"date": "2025-02-18",
+"name": "The Hill (opinion, Marik von Rennenkampff): House Republicans demand UFO transparency",
+"url": "https://thehill.com/opinion/national-security/5149386-house-republicans-demand-ufo-transparency/"
+},
+{
+"date": "2023-07-26",
+"name": "House Oversight hearing transcript, Serial No. 118-53",
+"url": "https://www.congress.gov/118/meeting/house/116282/documents/HHRG-118-GO06-Transcript-20230726.pdf"
+},
+{
+"date": "2023-06-05",
+"name": "The Debrief - Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin",
+"url": "https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/"
+}
+],
+"status": "active",
+"sub": "Inspector General of the Intelligence Community (2021-2025); briefed the House on UAP",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 579 of 1027, score 26). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A3/D2.",
+"timeline": [],
+"unexplainedResidual": null,
+"unverified": [
+"Whether the ICIG opened a substantive investigation into the underlying allegations or only into the reprisal claim."
+]
+}

@@ -1,0 +1,169 @@
+{
+"A": 3,
+"C": 2,
+"D": 0,
+"affiliations": [
+"Los Alamos National Laboratory, Director (1979-1985)",
+"Federal Bureau of Investigation, Assistant Director, Laboratory Division (1997-2001)",
+"National Reconnaissance Office, Director (2005-2007)",
+"Office of the Director of National Intelligence, PDDNI (2007-2009)",
+"MITRE Board of Trustees (Chairman from 2018)"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "1979-01-01",
+"event": "Becomes Director of Los Alamos National Laboratory",
+"precision": "year"
+},
+{
+"date": "2005-01-01",
+"event": "Becomes Director of the National Reconnaissance Office",
+"precision": "year"
+},
+{
+"date": "2007-10-01",
+"event": "Sworn in as Principal Deputy Director of National Intelligence",
+"precision": "month"
+},
+{
+"date": "2018-11-06",
+"event": "Elected chairman of MITRE's Board of Trustees",
+"precision": "day"
+}
+],
+"claims": [
+{
+"source": "WashingtonExec, 6 November 2018",
+"text": "MITRE's Board of Trustees elected former Principal Deputy Director of National Intelligence Donald Kerr as chairman, reported 6 November 2018, at the same meeting that elected former Rep. Mike Rogers, ex-chairman of the House Permanent Select Committee on Intelligence, as vice chairman.",
+"tier": 1
+},
+{
+"source": "Public ODNI and NRO biographical record, as summarised in WashingtonExec's 2018 report on his MITRE election",
+"text": "Kerr previously directed Los Alamos National Laboratory and the National Reconnaissance Office before becoming PDDNI.",
+"tier": 2
+},
+{
+"source": "S. Hrg. 110-452, 1 August 2007 https://www.govinfo.gov/content/pkg/CHRG-110shrg41206/html/CHRG-110shrg41206.htm",
+"text": "Kerr's career is recited on the record at his own confirmation hearing before the Senate Select Committee on Intelligence on 1 August 2007: 'Deputy Assistant Secretary for Defense Programs at the Department of Energy. Federal Bureau of Investigation's Assistant Director in Charge, Laboratory Division. Deputy Director for Science and Technology at the Central Intelligence Agency. Director of the National Reconnaissance Office, where he currently serves.'",
+"tier": 1
+},
+{
+"source": "S. Hrg. 110-452, 1 August 2007 https://www.govinfo.gov/content/pkg/CHRG-110shrg41206/html/CHRG-110shrg41206.htm",
+"text": "The same hearing records that 'Don began his government career at the Los Alamos National Lab in 1966 and worked his way up through the Lab and the Department of Energy, eventually becoming Director of Los Alamos'. The national-laboratory to black-space progression the board describes is therefore the Senate's own account of him, not an inference.",
+"tier": 1
+},
+{
+"source": "S. Hrg. 110-452, 1 August 2007, member statement https://www.govinfo.gov/content/pkg/CHRG-110shrg41206/html/CHRG-110shrg41206.htm",
+"text": "A committee member characterised the agency Kerr then led as 'the National Reconnaissance Office, which unfortunately is one of the more troubled and poorly performing agencies within the intelligence community.'",
+"tier": 2
+}
+],
+"cls": "person",
+"cluster": "ic",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 2,
+"cls": "institution",
+"dateEnd": "1985",
+"dateStart": "1979",
+"direction": "out",
+"edgeLabel": "Directed Los Alamos before the NRO and ODNI",
+"id": "lanl",
+"l0": false,
+"label": "Los Alamos National Laboratory",
+"note": "The same individual later chaired MITRE's board - a single career spanning the contractor-operated weapons laboratory, national overhead reconnaissance, and the FFRDC now under records demand.",
+"sources": [
+{
+"date": "2018-11-06",
+"name": "WashingtonExec",
+"url": "https://washingtonexec.com/2018/11/mitre-board-of-trustees-members-elect-former-rep-mike-rogers-vice-chairman/"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2018",
+"direction": "out",
+"edgeLabel": "Chairman of MITRE's Board of Trustees from November 2018",
+"id": "mitre-corporation",
+"l0": true,
+"label": "The MITRE Corporation",
+"note": "Former director of Los Alamos National Laboratory, former director of the National Reconnaissance Office, former PDDNI - elected chairman at the same meeting that made Mike Rogers vice chairman.",
+"sources": [
+{
+"date": "2018-11-06",
+"name": "WashingtonExec",
+"url": "https://washingtonexec.com/2018/11/mitre-board-of-trustees-members-elect-former-rep-mike-rogers-vice-chairman/"
+}
+],
+"tier": "A",
+"type": "institutional"
+}
+],
+"date": "2018-11-06",
+"dateEnd": null,
+"dateStart": "2018-11-06",
+"deg": 2,
+"denials": [],
+"domains": [
+"ffrdcs",
+"w16-thin-people"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "donald-kerr",
+"instId": "mitre-corporation",
+"l0": false,
+"label": "Donald M. Kerr",
+"loc": "McLean, VA",
+"locId": "l-mclean",
+"members": null,
+"narrative": "Kerr's career is the FFRDC-to-black-space pipeline in a single resume, and it runs straight through two of the locations this board cares about most. He directed Los Alamos National Laboratory - the contractor-operated DOE laboratory where the February 1949 green fireballs conference was convened and whose National Security Research Center still holds those minutes. He then served as Director of the National Reconnaissance Office, the agency that owns the overhead collection architecture through which any persistent anomalous object would be detected and, if desired, buried. He then became Principal Deputy Director of National Intelligence from 2007 to 2009. In November 2018 MITRE's Board of Trustees elected him its chairman. He was previously an FBI assistant director for the laboratory division and a senior executive at SAIC. Every rung of that ladder is an institution named in the legacy-programme allegations: LANL, NRO, ODNI, SAIC, MITRE. Kerr has never publicly said anything about UAP. The point is not that he has; the point is that when Congress finally addresses a records demand to MITRE, the board culture it is addressing was shaped by a man who ran the NRO.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Donald M. Kerr",
+"sources": [
+{
+"date": "2018-11-06",
+"name": "WashingtonExec - MITRE Board of Trustees Members Elect Former Rep. Mike Rogers Vice Chairman",
+"url": "https://washingtonexec.com/2018/11/mitre-board-of-trustees-members-elect-former-rep-mike-rogers-vice-chairman/"
+},
+{
+"date": "2026-08-25",
+"name": "U.S. Senate Select Committee on Intelligence, 'Nomination of Dr. Donald M. Kerr to be Principal Deputy Director of National Intelligence', S. Hrg. 110-452, hearing held 1 August 2007",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-110shrg41206/html/CHRG-110shrg41206.htm"
+}
+],
+"status": "former",
+"sub": "Former Chairman, MITRE Board of Trustees (elected 2018); former Principal Deputy Director of National Intelligence (2007-2009); former Director, National Reconnaissance Office; former Director, Los Alamos National Laboratory",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 402 of 1027, score 32). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A3/D0.",
+"timeline": [
+{
+"date": "2018-11-06",
+"id": "tl-ffrdc-2018-kerr",
+"label": "Former PDDNI Donald Kerr elected MITRE board chairman",
+"precision": "day",
+"strand": "program",
+"text": "MITRE's trustees elect a former director of Los Alamos and of the National Reconnaissance Office as chairman, and former House Intelligence Committee chairman Mike Rogers as vice chairman.",
+"tier": "A"
+}
+],
+"unexplainedResidual": null,
+"unverified": [
+"Whether Kerr held or holds any access to UAP-related compartments at LANL, NRO or ODNI has never been publicly addressed."
+]
+}

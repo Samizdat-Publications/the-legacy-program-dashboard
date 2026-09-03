@@ -1,0 +1,160 @@
+{
+"A": 2,
+"C": 0,
+"D": 3,
+"band": null,
+"claims": [
+{
+"source": "CHRG-119hhrg61718",
+"text": "Held the 9 September 2025 hearing 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'; record published as Serial No. 119-44.",
+"tier": 1
+},
+{
+"source": "Rep. Burlison press release, 27 March 2025",
+"text": "Grusch's role as Special Advisor to Rep. Burlison expressly includes service on the Task Force on the Declassification of Federal Secrets.",
+"tier": 1
+},
+{
+"source": "Fox News, 10 June 2026; Los Angeles Magazine, 9 June 2026",
+"text": "Hosted the 9 June 2026 Capitol press conference featuring Grusch and four members of Congress.",
+"tier": 2
+}
+],
+"cls": "institution",
+"cluster": "oversight",
+"connections": [
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "2025",
+"direction": "in",
+"edgeLabel": "Chairs the Task Force",
+"id": "anna-paulina-luna",
+"l0": false,
+"label": "Anna Paulina Luna",
+"note": "Luna chairs the standing Oversight task force that converted the ad hoc 2023-2024 UAP hearings into a permanent investigative vehicle.",
+"sources": [
+{
+"date": "2025-09-09",
+"name": "Task Force hearing record, Serial No. 119-44",
+"url": "https://www.congress.gov/119/chrg/CHRG-119hhrg61718/CHRG-119hhrg61718.pdf"
+}
+],
+"tier": "A",
+"type": "legislative"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "2025",
+"direction": "in",
+"edgeLabel": "Serves the Task Force via the Burlison advisory role",
+"id": "david-grusch",
+"l0": false,
+"label": "David Charles Grusch",
+"note": "Burlison's announcement states Grusch's role includes serving on the Task Force on the Declassification of Federal Secrets, the body that held the September 2025 UAP hearing and hosted the June 2026 press conference.",
+"sources": [
+{
+"date": "2025-03-27",
+"name": "Rep. Burlison press release",
+"url": "https://burlison.house.gov/media/press-releases/rep-burlison-welcomes-former-us-air-force-officer-david-grusch-special-advisor"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": "2025",
+"dateStart": "2025",
+"direction": "out",
+"edgeLabel": "Held the UAP transparency and whistleblower protection hearing",
+"id": "hearing-2025-09-09",
+"l0": true,
+"label": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'",
+"note": "The hearing where the Crane reprisal letter entered the record and where Knapp and Mace put ongoing retaliation against Grusch into the official transcript.",
+"sources": [
+{
+"date": "2025-09-09",
+"name": "House Oversight - Luna Opens Hearing on Restoring Public Trust Through UAP Transparency",
+"url": "https://oversight.house.gov/release/luna-opens-hearing-on-restoring-public-trust-through-uap-transparency/"
+}
+],
+"tier": "A",
+"type": "legislative"
+},
+{
+"claimTier": 2,
+"cls": "event",
+"dateEnd": "2026",
+"dateStart": "2026",
+"direction": "out",
+"edgeLabel": "Hosted the press conference",
+"id": "press-conf-2026-06-09",
+"l0": false,
+"label": "Capitol UAP Disclosure Press Conference",
+"note": "The Task Force staged the event on the Capitol steps with Luna, Burchett, Burlison and Moskowitz to pressure the White House to convert the February 2026 declassification announcement into actual releases.",
+"sources": [
+{
+"date": "2026-06-10",
+"name": "Fox News",
+"url": "https://www.foxnews.com/politics/ufo-whistleblower-claims-billions-secret-spending-hidden-from-congress"
+},
+{
+"date": "2026-06-09",
+"name": "Los Angeles Magazine",
+"url": "https://lamag.com/politics/ufo-whistleblower-david-grusch-returns-to-capitol-hill-tuesday/"
+}
+],
+"tier": "C",
+"type": "legislative"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "2025",
+"deg": 4,
+"denials": [],
+"desc": "Established in the 119th Congress under the Committee on Oversight and Government Reform and chaired by Rep. Anna Paulina Luna, with Rep. Jasmine Crockett as ranking member, the Task Force is the institutional successor to the ad hoc 2023-2024 UAP hearings and the body through which the Grusch matter now runs. It held the 9 September 2025 hearing on UAP transparency and whistleblower protection, where Rep. Eli Crane entered his reprisal letter about Grusch into the record; and it hosted the 9 June 2026 Capitol press conference at which Grusch, Luna, Burchett, Burlison and Moskowitz demanded whistleblower immunity, NDA waivers, and release of classified UAP records. Grusch serves as Special Advisor to Burlison with an explicit brief supporting the Task Force. This is the first time in the eighty-year record that the central whistleblower has been formally embedded in the oversight body investigating his own allegations.",
+"domains": [
+"grusch"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "task-force-declassification",
+"l0": false,
+"label": "House Task Force on the Declassification of Federal Secrets",
+"locLabel": null,
+"members": null,
+"short": "House Task Force on the Declassification of Federal Secrets",
+"sources": [
+{
+"date": "2025-09-09",
+"name": "Task Force on the Declassification of Federal Secrets hearing record, Serial No. 119-44",
+"url": "https://www.congress.gov/119/chrg/CHRG-119hhrg61718/CHRG-119hhrg61718.pdf"
+},
+{
+"date": "2026-08-12",
+"name": "House Oversight - Declassification of Federal Secrets",
+"url": "https://oversight.house.gov/category/declassification-of-federal-secrets"
+},
+{
+"date": "2025-03-27",
+"name": "Rep. Burlison - Grusch named Special Advisor",
+"url": "https://burlison.house.gov/media/press-releases/rep-burlison-welcomes-former-us-air-force-officer-david-grusch-special-advisor"
+}
+],
+"sub": "Select task force of the Committee on Oversight and Government Reform",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 647 of 1027, score 24). 4 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A2/D3.",
+"timeline": []
+}

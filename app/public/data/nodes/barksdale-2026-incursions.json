@@ -1,0 +1,159 @@
+{
+"A": 2,
+"C": 0,
+"D": 2,
+"band": null,
+"claims": [
+{
+"source": "Capt. Hunter Rininger, Chief of Public Affairs, Barksdale AFB, 9 March 2026",
+"text": "'Earlier this morning, Barksdale Air Force Base received a report of an unmanned aerial system operating over the installation.'",
+"tier": 1
+},
+{
+"source": "The Debrief, 9 March 2026",
+"text": "Barksdale raised force protection to FPCON Charlie and issued a shelter-in-place order via text alert on 9 March 2026.",
+"tier": 1
+},
+{
+"source": "The War Zone, 25 March 2026",
+"text": "Multiple waves of 12-15 drones were observed over sensitive areas including the flight line during the week of 9 March 2026; drones showed non-commercial signal characteristics and resistance to jamming.",
+"tier": 2
+},
+{
+"source": "The War Zone, 25 March 2026",
+"text": "The incursions followed the launch of Operation Epic Fury, the US bombing campaign against Iran involving B-52, B-1 and B-2 aircraft.",
+"tier": 2
+},
+{
+"source": "The War Zone, 25 March 2026",
+"text": "A NORTHCOM spokesman on 25 March 2026 declined to specify affected base locations for operational security and confirmed jamming protocols were deployed.",
+"tier": 2
+}
+],
+"cls": "event",
+"cluster": "witness",
+"connections": [
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2026",
+"dateStart": "2026",
+"direction": "in",
+"edgeLabel": "Confirmed year-on-year increase in detections over installations",
+"id": "gregory-guillot",
+"l0": false,
+"label": "Gregory M. Guillot",
+"note": "'We've seen an increase from last year in the number of detections over military installations,' with roughly a quarter now defeated versus almost none previously.",
+"sources": [
+{
+"date": "2026-03-25",
+"name": "The War Zone - US battled drone incursions over key bases after Epic Fury",
+"url": "https://www.twz.com/news-features/u-s-battled-drone-incursions-over-key-bases-at-home-after-launch-of-epic-fury"
+}
+],
+"tier": "C",
+"type": "investigative"
+},
+{
+"claimTier": 2,
+"cls": "institution",
+"dateEnd": "2026",
+"dateStart": "2026",
+"direction": "in",
+"edgeLabel": "The 2026 bomber-base incursions are the task force's live problem",
+"id": "jiatf-401",
+"l0": false,
+"label": "Joint Interagency Task Force 401 (JIATF-401)",
+"note": "Waves of 12-15 jam-resistant drones over a B-52 base during an active bombing campaign, with a single counter-drone fly-away kit fielded, define the capability gap DODIG-2026-045 described.",
+"sources": [
+{
+"date": "2026-03-25",
+"name": "The War Zone - US battled drone incursions over key bases after Epic Fury",
+"url": "https://www.twz.com/news-features/u-s-battled-drone-incursions-over-key-bases-at-home-after-launch-of-epic-fury"
+},
+{
+"date": "2026-01-30",
+"name": "The Debrief - Pentagon expands base commanders' counter-drone authority",
+"url": "https://thedebrief.org/pentagon-expands-base-commanders-authority-to-counter-rising-drone-threats-following-inspector-general-warning/"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "location",
+"dateEnd": "2026",
+"dateStart": "2026",
+"direction": "out",
+"edgeLabel": "Site of the March 2026 incursion waves and FPCON Charlie alert",
+"id": "l-barksdale",
+"l0": false,
+"label": "Barksdale Air Force Base, Louisiana",
+"note": "Barksdale raised force protection and issued a shelter-in-place order on 9 March 2026; base public affairs confirmed the UAS report and FAA involvement.",
+"sources": [
+{
+"date": "2026-03-09",
+"name": "The Debrief - Barksdale AFB mystery drone incident",
+"url": "https://thedebrief.org/u-s-officials-investigating-mystery-drone-incident-over-barksdale-air-force-base-that-prompted-security-alert/"
+},
+{
+"date": "2026-03-25",
+"name": "The War Zone - US battled drone incursions over key bases after Epic Fury",
+"url": "https://www.twz.com/news-features/u-s-battled-drone-incursions-over-key-bases-at-home-after-launch-of-epic-fury"
+}
+],
+"tier": "C",
+"type": "institutional"
+}
+],
+"coords": null,
+"dateEnd": "2026",
+"dateStart": "2026",
+"deg": 3,
+"denials": [],
+"desc": "In the week of 9 March 2026, Barksdale Air Force Base in Louisiana - a B-52 bomber base - reported waves of 12 to 15 drones over sensitive areas including the flight line, raised force protection to FPCON Charlie and issued a shelter-in-place order by text alert. Capt. Hunter Rininger, the base's chief of public affairs, confirmed that 'Earlier this morning, Barksdale Air Force Base received a report of an unmanned aerial system operating over the installation' and that the FAA and local authorities were assisting. The context is what makes this the most serious entry in the 2026 record: the incursions followed the launch of Operation Epic Fury, the US bombing campaign against Iran flown by B-52, B-1 and B-2 aircraft, and the drones displayed non-commercial signal characteristics and resistance to jamming, with flight patterns suggesting operators were testing security responses. Only one Anduril counter-drone fly-away kit was deployed at the time. Gen. Gregory Guillot confirmed detections over military installations had increased from the previous year, with roughly a quarter now defeated versus almost none before. The official line of December 2024 - hobbyists and misidentified stars - does not survive contact with jam-resistant swarms probing a nuclear-capable bomber base during a shooting war.",
+"domains": [
+"aviators-incidents"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "barksdale-2026-incursions",
+"l0": false,
+"label": "Barksdale AFB and Strategic Base Incursions (Feb-Mar 2026)",
+"locLabel": null,
+"members": null,
+"short": "Barksdale AFB and Strategic Base Incursions (Feb-Mar 2026)",
+"sources": [
+{
+"date": "2026-03-09",
+"name": "The Debrief - Barksdale AFB mystery drone incident",
+"url": "https://thedebrief.org/u-s-officials-investigating-mystery-drone-incident-over-barksdale-air-force-base-that-prompted-security-alert/"
+},
+{
+"date": "2026-03-25",
+"name": "The War Zone - US battled drone incursions over key bases after Epic Fury",
+"url": "https://www.twz.com/news-features/u-s-battled-drone-incursions-over-key-bases-at-home-after-launch-of-epic-fury"
+}
+],
+"sub": "Drone waves over nuclear-capable bomber bases after Operation Epic Fury",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 611 of 1027, score 25). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A2/D2.",
+"timeline": [
+{
+"date": "2026-03-09",
+"id": "av-2026-03-09",
+"label": "Barksdale raises FPCON Charlie",
+"precision": "day",
+"strand": "witness",
+"text": "A B-52 base issues a shelter-in-place order after drone reports over the installation; waves of 12-15 jam-resistant drones are later reported over the flight line, following the launch of Operation Epic Fury.",
+"tier": "A"
+}
+]
+}

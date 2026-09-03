@@ -1,0 +1,128 @@
+{
+"A": 2,
+"C": 1,
+"D": 2,
+"band": null,
+"claims": [
+{
+"source": "CIA FOIA Reading Room, UFOs: Fact or Fiction? collection, accessed 12 August 2026",
+"text": "The CIA reading room UFO collection contains 19 documents spanning the 1940s through the early 1990s, largely cables on foreign-media UFO reports and internal correspondence on public inquiries.",
+"tier": 1
+},
+{
+"source": "Disclosure Archives inventory of Release 03",
+"text": "PURSUE Release 03 included a less-redacted version of the CIA's 1953 Robertson Panel report and a CIA file on a 2008 disc-like object over Harare International Airport.",
+"tier": 2
+},
+{
+"source": "EarthSky, 10 August 2026",
+"text": "PURSUE Release 05 included a CIA report of an alleged November 1963 Brazil recovery of a metal sphere with a deceased occupant in a spacesuit, later deemed unsubstantiated by the American Consulate.",
+"tier": 2
+},
+{
+"source": "Inference from the Release 03 contents against the version long available in the CIA reading room",
+"text": "A less-redacted 1953 Robertson Panel record surfacing in 2026 establishes that the Agency's redactions on its own foundational UAP document survived seventy-three years of FOIA practice and fell to a single cabinet-level direction.",
+"tier": 3
+}
+],
+"cls": "document",
+"cluster": "oversight",
+"connections": [
+{
+"claimTier": 2,
+"cls": "event",
+"dateEnd": "2026",
+"dateStart": "2026",
+"direction": "in",
+"edgeLabel": "Released a less-redacted 1953 Robertson Panel record",
+"id": "pursue-release-03",
+"l0": false,
+"label": "PURSUE Release 03",
+"note": "A version of the Agency's own foundational UAP document less redacted than the one in its public reading room appeared seventy-three years later, by executive direction.",
+"sources": [
+{
+"date": "2026-08-01",
+"name": "Disclosure Archives - Department of War files index",
+"url": "https://disclosurearchives.com/department-of-war-files"
+},
+{
+"date": "2026-08-12",
+"name": "CIA FOIA Reading Room - UFOs: Fact or Fiction? collection",
+"url": "https://www.cia.gov/readingroom/collection/ufos-fact-or-fiction"
+}
+],
+"tier": "B",
+"type": "custody"
+},
+{
+"claimTier": 2,
+"cls": "event",
+"dateEnd": "2026",
+"dateStart": "2026",
+"direction": "in",
+"edgeLabel": "Released the 1963 Brazil sphere report",
+"id": "pursue-release-05",
+"l0": false,
+"label": "PURSUE Release 05",
+"note": "A CIA report of an alleged November 1963 recovery of a metal sphere with a deceased occupant, deemed unsubstantiated by the American Consulate, appears in Release 05 and not in the Agency's curated collection.",
+"sources": [
+{
+"date": "2026-08-10",
+"name": "EarthSky - 5th batch of Pentagon UAP files: orbs and triangles",
+"url": "https://earthsky.org/human-world/pentagon-uap-files-batch-5-ufos-orbs-triangles/"
+},
+{
+"date": "2026-08-12",
+"name": "CIA FOIA Reading Room - UFOs: Fact or Fiction? collection",
+"url": "https://www.cia.gov/readingroom/collection/ufos-fact-or-fiction"
+}
+],
+"tier": "A",
+"type": "custody"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "1978",
+"deg": 2,
+"denials": [],
+"desc": "The CIA's standing public UFO offering: a curated collection of nineteen documents spanning the 1940s to the early 1990s, consisting largely of cables reporting unverified UFO sightings carried in foreign media plus internal correspondence on how the Agency should answer public questions about them, accompanied by the 1997 Studies in Intelligence article 'CIA's Role in the Study of UFOs, 1947-90.' It is a collection about the Agency's press posture rather than its analysis. PURSUE Release 03 went past it in two ways: it published a less-redacted version of the Agency's 1953 Robertson Panel report - meaning the existing public version had remained partly withheld for seventy-three years and the withholding was reversible by executive direction - and a CIA file on a 2008 disc-like object over Harare International Airport in Zimbabwe. Release 05 added a CIA report of an alleged November 1963 recovery in Brazil of a metal sphere containing a deceased occupant in a spacesuit, subsequently deemed unsubstantiated by the American Consulate. None of these appear in the Agency's own curated collection.",
+"domains": [
+"releases-2023-2026"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "1",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "cia-readingroom-ufo",
+"l0": false,
+"label": "CIA FOIA Reading Room - UFO collection",
+"locLabel": null,
+"members": null,
+"short": "CIA FOIA Reading Room - UFO collection",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "CIA FOIA Reading Room - UFOs: Fact or Fiction? collection",
+"url": "https://www.cia.gov/readingroom/collection/ufos-fact-or-fiction"
+},
+{
+"date": "2026-08-01",
+"name": "Disclosure Archives - Department of War files index",
+"url": "https://disclosurearchives.com/department-of-war-files"
+},
+{
+"date": "2026-08-10",
+"name": "EarthSky - 5th batch of Pentagon UAP files: orbs and triangles",
+"url": "https://earthsky.org/human-world/pentagon-uap-files-batch-5-ufos-orbs-triangles/"
+}
+],
+"sub": "19 documents, 1940s-1990s; plus the 1997 Studies in Intelligence history",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 481 of 1027, score 30). 2 connections, 2 of them custody/witness/funding/programmatic. Axes C1/A2/D2.",
+"timeline": []
+}

@@ -1,0 +1,132 @@
+{
+"A": 3,
+"C": 1,
+"D": 0,
+"affiliations": [
+"US Air Force, Deputy Director of Development (1969)",
+"Air Force Systems Command"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "1969-10-20",
+"event": "Signs the memorandum recommending termination of Project Blue Book",
+"precision": "day"
+},
+{
+"date": "1969-12-17",
+"event": "Secretary of the Air Force Robert C. Seamans Jr. announces termination of Blue Book",
+"precision": "day"
+}
+],
+"claims": [
+{
+"source": "Bolender memorandum, 20 Oct 1969, scan in the NICAP document archive (file 1969_10_20_Bolender_Memo.pdf)",
+"text": "A memorandum dated 20 October 1969 by Brig. Gen. C. H. Bolender recommending termination of Project Blue Book exists and is preserved in scanned form in the public record.",
+"tier": 1
+},
+{
+"source": "Bolender memorandum, 20 Oct 1969, as quoted in the standard literature; the archived scan is an untranscribed image",
+"text": "The memorandum states that reports of unidentified flying objects which could affect national security are made under JANAP 146 or Air Force Manual 55-11 and 'are not part of the Blue Book system.'",
+"tier": 2
+},
+{
+"source": "JANAP 146(C), 10 March 1954, Articles 201 and 308",
+"text": "JANAP 146 did in fact establish a separate CIRVIS reporting channel requiring airborne and shipborne personnel to report unidentified flying objects, with unauthorised disclosure prohibited under the espionage statutes.",
+"tier": 1
+},
+{
+"source": "Inference from the Bolender memo read against JANAP 146 and the USAF Blue Book statistics",
+"text": "If the national-security cases were never in Blue Book, then the entire public record of 12,618 sightings and 701 unknowns is the residue of a filter, not the corpus — and the terminated program was never the program.",
+"tier": 3
+}
+],
+"cls": "person",
+"cluster": "other",
+"conflicts": [
+"The Air Force has never publicly identified what the separate channel produced, or where those reports were filed"
+],
+"connections": [
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "1969",
+"dateStart": "1969",
+"direction": "out",
+"edgeLabel": "Bolender authored the termination memorandum",
+"id": "bolender-memo",
+"l0": false,
+"label": "Bolender Memorandum",
+"note": "Brig. Gen. Bolender, USAF Deputy Director of Development, signed the 20 October 1969 memorandum recommending Blue Book's closure and explaining why closure cost the Air Force nothing operationally.",
+"sources": [
+{
+"date": "1969-10-20",
+"name": "Bolender memorandum, 20 October 1969 (scan)",
+"url": "https://www.nicap.org/docs/1969_10_20_Bolender_Memo.pdf"
+}
+],
+"tier": "B",
+"type": "institutional"
+}
+],
+"date": "1969-10-20",
+"dateEnd": null,
+"dateStart": "1969-10-20",
+"deg": 1,
+"denials": [],
+"domains": [
+"_rs-archive-mirror",
+"history-1940s-1960s"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "carroll-bolender",
+"instId": "dod",
+"l0": false,
+"label": "Carroll H. Bolender",
+"loc": "Washington, DC",
+"locId": "l-dc",
+"members": null,
+"narrative": "Brigadier General Carroll 'Rip' Bolender wrote the memorandum that closed Project Blue Book and, in the same breath, admitted the program had never been the real reporting channel. His 20 October 1969 memorandum recommending termination states that reports of unidentified flying objects which could affect national security are made in accordance with JANAP 146 or Air Force Manual 55-11 and 'are not part of the Blue Book system.' Read plainly, this says that from at least the JANAP era the significant cases went up a separate, classified channel while Blue Book handled the public-facing residue — and that shutting Blue Book down therefore terminated nothing operational. The memo is the hinge between the legacy era and everything the modern disclosure movement alleges: it is a general officer, in writing, describing a two-track system. Bolender had a serious operational career, including work on the lunar module programme, and there is no indication he intended a revelation; he was explaining to his own chain why closing the public office cost the Air Force nothing.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Carroll H. Bolender",
+"sources": [
+{
+"date": "2026-07-06",
+"name": "Archived: USAF Fact Sheet: Project Blue Book (Wayback 2026-07-06)",
+"url": "https://web.archive.org/web/20260706210652/https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/"
+},
+{
+"date": "1969-10-20",
+"name": "Bolender memorandum, 20 October 1969 (scan)",
+"url": "https://www.nicap.org/docs/1969_10_20_Bolender_Memo.pdf"
+},
+{
+"date": "1954-03-10",
+"name": "JANAP 146(C), 10 March 1954 (declassified text)",
+"url": "http://www.cufon.org/cufon/janp146c.htm"
+},
+{
+"date": "2026-08-12",
+"name": "USAF Fact Sheet: Project Blue Book",
+"url": "https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/"
+}
+],
+"status": "active",
+"sub": "Brigadier General, USAF Deputy Director of Development",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 657 of 1027, score 23). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A3/D0.",
+"timeline": [],
+"unexplainedResidual": "No records series has ever been identified corresponding to the national-security UFO reports Bolender says were made outside Blue Book.",
+"unverified": [
+"The archived Bolender scan carries no machine-readable text; the exact wording quoted here was not independently transcribed from the image"
+]
+}

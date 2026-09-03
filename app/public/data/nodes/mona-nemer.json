@@ -1,0 +1,149 @@
+{
+"A": 0,
+"C": 0,
+"D": 3,
+"affiliations": [
+"ocsa-canada"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "2025-01",
+"event": "Preliminary Sky Canada Project report published",
+"precision": "month"
+},
+{
+"date": "2025-06",
+"event": "Full report 'Management of Public Reporting of Unidentified Aerial Phenomena in Canada' published",
+"precision": "month"
+},
+{
+"date": "2025-07",
+"event": "Report enters wide news coverage; Canadian outlets report the recommendation to create a UAP reporting office",
+"precision": "month"
+}
+],
+"claims": [
+{
+"source": "Office of the Chief Science Advisor of Canada, Sky Canada Project report, June 2025, Recommendations",
+"text": "Report recommendation: 'Identify a lead: A federal department or agency responsible for managing public UAP data should be identified. Establish a dedicated service: This service would collect testimonies, investigate cases and post its analyses publicly.'",
+"tier": 1
+},
+{
+"source": "Sky Canada Project report, June 2025",
+"text": "Report recommendation on international collaboration: 'The lead organization should establish partnerships with international entities dedicated to UAPs, such as AARO and NASA (U.S.A.), GEIPAN (France), and SEFAA (Chile).'",
+"tier": 1
+},
+{
+"source": "Sky Canada Project report, June 2025, citing an Earnscliffe Strategies survey commissioned in 2024",
+"text": "Survey finding: 'one in four respondents say they have personally witnessed a UAP in their lifetime. However, only 10% reported their sightings and 40% of respondents would not know whom to contact for reporting.'",
+"tier": 1
+},
+{
+"source": "Office of the Chief Science Advisor of Canada, Sky Canada Project page, updated 3 December 2025",
+"text": "Report disclaimer: the project 'is not intended to access and collect first-hand data (like photos, testimonies, etc.) ... nor is it meant to prove or disprove the existence of extraterrestrial life or extraterrestrial visitors.'",
+"tier": 1
+}
+],
+"cls": "person",
+"cluster": "oversight",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 3,
+"cls": "person",
+"dateEnd": "2025-06",
+"dateStart": "2009-12",
+"direction": "out",
+"edgeLabel": "2025 Canadian recommendation versus the 2009 British closure",
+"id": "nick-pope",
+"l0": false,
+"label": "Nick Pope",
+"note": "Canada in 2025 recommends building the standing public UAP service that Britain abolished in 2009 and that Pope spent the intervening years arguing should not have been abolished. Reasoning: the two governments moved in opposite directions on the same question sixteen years apart.",
+"sources": [
+{
+"date": "2025-06-01",
+"name": "Sky Canada Project report",
+"url": "https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada"
+},
+{
+"date": "2026-05-02",
+"name": "Sky HISTORY",
+"url": "https://www.history.co.uk/articles/remembering-nick-pope"
+}
+],
+"tier": "C",
+"type": "temporal"
+},
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": "2025-06",
+"dateStart": "2022",
+"direction": "out",
+"edgeLabel": "Chief Science Advisor whose office produced the report",
+"id": "sky-canada-project",
+"l0": true,
+"label": "Sky Canada Project - Office of the Chief Science Advisor of Canada",
+"note": "The Office of the Chief Science Advisor led the project and published both the January 2025 preliminary and the June 2025 full report.",
+"sources": [
+{
+"date": "2025-06-01",
+"name": "Sky Canada Project report",
+"url": "https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada"
+}
+],
+"tier": "B",
+"type": "institutional"
+}
+],
+"date": "2025-07-01",
+"dateEnd": null,
+"dateStart": "2025-07-01",
+"deg": 2,
+"denials": [],
+"domains": [
+"w2-international"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "mona-nemer",
+"instId": "ocsa-canada",
+"l0": false,
+"label": "Dr Mona Nemer",
+"loc": "Ottawa, Ontario, Canada",
+"locId": "l-ottawa",
+"members": null,
+"narrative": "As Chief Science Advisor of Canada, Mona Nemer's office initiated and published the Sky Canada Project, the first Canadian federal review of UAP reporting since the National Research Council stopped collecting reports in 1995. A preliminary report appeared in January 2025 and the full report, 'Management of Public Reporting of Unidentified Aerial Phenomena in Canada', in June 2025, running to fifty-nine pages. The report is careful about what it is not - it disclaims any intention to prove or disprove extraterrestrial life or visitors, or to make the Office the point of contact for Canadians reporting sightings - and it is blunt about what it found. Canadians report an estimated 600 to 1,000 UAP sightings a year; a commissioned Earnscliffe Strategies survey found one in four Canadians say they have witnessed a UAP, only ten per cent reported it, and forty per cent would not know whom to contact. Federal departments receive reports but mostly do not compile them, so the government cannot even state how many it receives. The report's recommendations are structural: identify a lead department, establish a dedicated service that collects testimony, investigates and publishes its analyses, get Transport Canada and NAV CANADA to encourage pilots and controllers to report without stigma, open the data, and establish partnerships with AARO and NASA in the United States, GEIPAN in France and SEFAA in Chile. It is the clearest statement by any allied government that the American, French and Chilean models are the ones worth copying.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Dr Mona Nemer",
+"sources": [
+{
+"date": "2025-06-01",
+"name": "Sky Canada Project report, June 2025",
+"url": "https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada"
+},
+{
+"date": "2025-12-03",
+"name": "Sky Canada Project landing page",
+"url": "https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project"
+}
+],
+"status": "active",
+"sub": "Chief Science Advisor of Canada; commissioned and signed the Sky Canada Project report",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 750 of 1027, score 20). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.",
+"timeline": [],
+"unexplainedResidual": null,
+"unverified": [
+"Whether the Government of Canada has acted on any of the recommendations, and whether a lead department has been designated, was not established as at August 2026."
+]
+}

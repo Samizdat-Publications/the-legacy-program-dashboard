@@ -1,0 +1,180 @@
+{
+"A": 3,
+"C": 3,
+"D": 1,
+"band": null,
+"claims": [
+{
+"source": "History, 1127 USAF Field Activities Group (AFNIA), 1 January - 30 June 1967, doc. AFNIABA 014-67, contents page and title page",
+"text": "The unit's own semiannual history, 'HISTORY / 1127 USAF FIELD ACTIVITIES GROUP (AFNIA) / 1 January - 30 June 1967', document number AFNIABA 014-67, lists under FOREIGN MATERIEL PROGRAM: 'Project BLUE FLY' (p.29), 'MIG-17 Exploitation' (p.29) and 'Project MOON DUST' (p.30). It was classified SECRET and bears the struck-through markings 'RODCA MATERIAL / SPECIAL ACCESS REQUIRED / NO FOREIGN DISSEMINATION'.",
+"tier": 1
+},
+{
+"source": "History, 1127 USAF Field Activities Group, 1 Jan - 30 Jun 1967, p.29, Project BLUE FLY",
+"text": "Page 29 records that after the 7 April 1967 air battle, three MIG-21s that crashed in Jordan were exploited by 'personnel of Detachment 3, FTD', and that the Staff Operations Branch 'coordinated requirements necessary to deploy the FTD exploitation personnel and to airlift personnel and parts from site of acquisition to Wright-Patterson AFB. The take consisted of approximately three tons of aircraft parts and armament.'",
+"tier": 1
+},
+{
+"source": "History, 1127 USAF Field Activities Group, 1 Jan - 30 Jun 1967, p.29",
+"text": "The same page records that in February 1967 'the Joint Chiefs of Staff approved a one-year extension of the authority granted the USAF to apply Force/Activity Designator I (F/AD-I) priority to short-notice BLUE FLY airlift contingencies.'",
+"tier": 1
+},
+{
+"source": "History, 1127 USAF Field Activities Group, 1 Jan - 30 Jun 1967, p.30, Project MOON DUST",
+"text": "Page 30 records that 'The 1st Aerospace Control Squadron (SPADATS), Ent AFB, Colorado, notified AFNIAA of the deorbit of 37 Soviet space objects consisting of rocket bodies, payloads, and space platforms.' A redaction follows; the accompanying US figure is illegible in the scan at 340 dpi and is not reported.",
+"tier": 1
+},
+{
+"source": "History of the Assistant Chief of Staff, Intelligence, July - December 1967, p.62",
+"text": "The companion 'History of the Assistant Chief of Staff, Intelligence, July - December 1967' states at page 62 that the Operations Plans Branch 'received from the 1st Aerospace Control Squadron (SPADATS) at Ent, AFB, Colorado, notifications of the deorbit of 49 Soviet space objects (rocket bodies, payloads, and space platforms), and of 17 US space objects considered to be of special importance.' These are notifications of deorbit received, NOT objects recovered.",
+"tier": 1
+},
+{
+"source": "History of the Assistant Chief of Staff, Intelligence, July - December 1967, p.47",
+"text": "'Colonel Rudolph C. Koller, Jr., was Commander of the 1127 USAF Fld Acty Gp during the entire period of this report', with an authorised strength rising from 220 to 249 over the half-year.",
+"tier": 1
+}
+],
+"cls": "institution",
+"cluster": "legacy",
+"connections": [
+{
+"claimTier": 1,
+"cls": "location",
+"dateEnd": "1967",
+"dateStart": "1967",
+"direction": "out",
+"edgeLabel": "airlifted recovered foreign materiel to Wright-Patterson",
+"id": "l-wright-patterson",
+"l0": false,
+"label": "Wright-Patterson Air Force Base, Ohio",
+"note": "'coordinated requirements necessary to deploy the FTD exploitation personnel and to airlift personnel and parts from site of acquisition to Wright-Patterson AFB. The take consisted of approximately three tons of aircraft parts and armament.'",
+"sources": [
+{
+"date": "1967-06-30",
+"name": "History, 1127 USAF Field Activities Group, 1 Jan - 30 Jun 1967, doc. AFNIABA 014-67",
+"url": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB520-the-Pentagons-Spies/EBB-PS03a.pdf"
+}
+],
+"tier": "A",
+"type": "custody"
+},
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": "1967",
+"dateStart": "1967",
+"direction": "out",
+"edgeLabel": "ran BLUE FLY under the same Foreign Materiel Program",
+"id": "operation-blue-fly",
+"l0": false,
+"label": "Operation BLUE FLY",
+"note": "Listed at p.29 of the unit's own semiannual history, alongside MIG-17 Exploitation and Project MOON DUST. In February 1967 the Joint Chiefs extended F/AD-I priority for short-notice BLUE FLY airlift contingencies.",
+"sources": [
+{
+"date": "1967-06-30",
+"name": "History, 1127 USAF Field Activities Group, 1 Jan - 30 Jun 1967, doc. AFNIABA 014-67",
+"url": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB520-the-Pentagons-Spies/EBB-PS03a.pdf"
+}
+],
+"tier": "B",
+"type": "programmatic"
+},
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": "1967",
+"dateStart": "1967",
+"direction": "out",
+"edgeLabel": "ran MOON DUST under its Foreign Materiel Program",
+"id": "project-moon-dust",
+"l0": false,
+"label": "Project MOON DUST",
+"note": "The unit's own contents page lists Project MOON DUST at p.30 under FOREIGN MATERIEL PROGRAM. The page records SPADATS notifying the unit of the deorbit of 37 Soviet space objects -- notifications, not recoveries.",
+"sources": [
+{
+"date": "1967-06-30",
+"name": "History, 1127 USAF Field Activities Group, 1 Jan - 30 Jun 1967, doc. AFNIABA 014-67",
+"url": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB520-the-Pentagons-Spies/EBB-PS03a.pdf"
+}
+],
+"tier": "A",
+"type": "programmatic"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "1967",
+"dateStart": "1967",
+"direction": "out",
+"edgeLabel": "an Air Force unit reporting to the Assistant Chief of Staff, Intelligence",
+"id": "usaf",
+"l0": true,
+"label": "United States Air Force",
+"note": "The ACS/I's own semiannual history for July-December 1967 covers the 1127th as a subordinate and records Colonel Rudolph C. Koller, Jr. as its commander throughout, with authorised strength rising from 220 to 249.",
+"sources": [
+{
+"date": "1967-12-31",
+"name": "History of the Assistant Chief of Staff, Intelligence, July - December 1967",
+"url": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB520-the-Pentagons-Spies/EBB-PS03b.pdf"
+}
+],
+"tier": "A",
+"type": "institutional"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": null,
+"deg": 4,
+"denials": [],
+"desc": "This is the custody chain stated by the unit that ran it, about itself, in a document classified SECRET at the time. The 1127th USAF Field Activities Group's own semiannual history for 1 January to 30 June 1967, document number AFNIABA 014-67, prepared by Anita H. Beasey and approved by Colonel Rudolph C. Koller, Jr., lists on its contents page, under FOREIGN MATERIEL PROGRAM: 'Project BLUE FLY' (p.29), 'MIG-17 Exploitation' (p.29), 'Project MOON DUST' (p.30). The board has carried the Moon Dust and Blue Fly relationship as an inference; here it is an organisational fact, printed in a table of contents.\n\nThe BLUE FLY entry describes the mechanism end to end. After the air battle of 7 April 1967, three MIG-21s downed over Jordan were exploited by Detachment 3 of the Foreign Technology Division, and the Staff Operations Branch 'coordinated requirements necessary to deploy the FTD exploitation personnel and to airlift personnel and parts from site of acquisition to Wright-Patterson AFB. The take consisted of approximately three tons of aircraft parts and armament.' The Joint Chiefs had approved a one-year extension of Force/Activity Designator I priority for short-notice BLUE FLY airlift. That is recovery, transport priority and a named terminus, in one paragraph.\n\nThe MOON DUST entry, and the companion history of the Assistant Chief of Staff, Intelligence for July to December 1967, carry the figures usually quoted as recoveries. They are not recoveries. Both documents say the unit was NOTIFIED by SPADATS of DEORBITS -- 37 Soviet objects in the first half of 1967, and 49 Soviet plus 17 US objects in the second. Deorbit notification is the tasking trigger; recovery is a separate act neither document counts.",
+"domains": [
+"legacy-1947-86"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "nd",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "usaf-1127th-field-activities-group",
+"l0": false,
+"label": "1127th USAF Field Activities Group",
+"locLabel": null,
+"members": null,
+"short": "1127th USAF Field Activities Group",
+"sources": [
+{
+"date": "1967-06-30",
+"name": "History, 1127 USAF Field Activities Group (AFNIA), 1 January - 30 June 1967, doc. AFNIABA 014-67 (75-page Air Force FOIA release scan)",
+"url": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB520-the-Pentagons-Spies/EBB-PS03a.pdf"
+},
+{
+"date": "1967-12-31",
+"name": "History of the Assistant Chief of Staff, Intelligence, July - December 1967 (22-page Air Force FOIA release extract)",
+"url": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB520-the-Pentagons-Spies/EBB-PS03b.pdf"
+},
+{
+"date": "2026-08-30",
+"name": "National Security Archive Electronic Briefing Book 520, 'The Pentagon's Spies'",
+"url": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB520-the-Pentagons-Spies/"
+}
+],
+"sub": "Air Force intelligence unit running Project BLUE FLY and Project MOON DUST under its Foreign Materiel Program",
+"tier": "A",
+"tierRationale": "Re-graded A on a global pass (rank 134 of 1027, score 54). 4 connections, 3 of them custody/witness/funding/programmatic. Axes C3/A3/D1.",
+"timeline": [
+{
+"date": "1967-06-30",
+"id": "tl-1967-1127th",
+"label": "The 1127th's own history names the recovery pipeline",
+"precision": "day",
+"strand": "program",
+"text": "The 1127th USAF Field Activities Group's semiannual history, doc. AFNIABA 014-67, lists Project BLUE FLY, MIG-17 Exploitation and Project MOON DUST together under FOREIGN MATERIEL PROGRAM. It records exploitation personnel from FTD Detachment 3 deployed to crash sites and about three tons of parts airlifted to Wright-Patterson, and SPADATS notifying the unit of 37 Soviet deorbits.",
+"tier": "A"
+}
+]
+}

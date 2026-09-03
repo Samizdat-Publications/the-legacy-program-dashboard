@@ -1,0 +1,555 @@
+{
+"A": 0,
+"C": 0,
+"D": 3,
+"affiliations": [
+"The Black Vault, founder (1996-present)",
+"The Black Vault (founder, 1996-present)",
+"The Black Vault, founder (1996-)",
+"The Black Vault"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "1996-01-01",
+"event": "Founds The Black Vault; begins FOIA filings.",
+"precision": "year"
+},
+{
+"date": "1997-09-01",
+"event": "Receives DoD FOIA case 97-F-1677 release including the Halt memo and the November 1975 Malmstrom records.",
+"precision": "month"
+},
+{
+"date": "2013-07-01",
+"event": "Files a Mandatory Declassification Review of NSA's entire UFO holding.",
+"precision": "month"
+},
+{
+"date": "2017-12-17",
+"event": "Files FOIA request 18-F-0324 with OSD/JS, one day after the New York Times story.",
+"precision": "day"
+},
+{
+"date": "2019-06-13",
+"event": "Receives Susan Gough's statement reinforcing that Elizondo had no assigned AATIP responsibilities.",
+"precision": "day"
+},
+{
+"date": "2019-12-06",
+"event": "Receives Gough's statement that neither AATIP nor AAWSAP were UAP related.",
+"precision": "day"
+},
+{
+"date": "2020-02-21",
+"event": "Army denies his FOIA request for Joseph Cannon's TTSA correspondence in full.",
+"precision": "day"
+},
+{
+"date": "2021-05-20",
+"event": "Publishes Richard Doty's 321-page New Mexico State Police personnel file, obtained under state public-records law.",
+"precision": "day"
+},
+{
+"date": "2022-08-17",
+"event": "OSD issues final response to 18-F-0324, releasing the resignation letters and Reid memoranda.",
+"precision": "day"
+},
+{
+"date": "2024-03-08",
+"event": "Publishes the Volume I mirror and the Tim Phillips press briefing transcript",
+"precision": "day"
+},
+{
+"date": "2024-11-14",
+"event": "Publishes the Kosloski FY2024 media roundtable transcript",
+"precision": "day"
+},
+{
+"date": "2025-06-17",
+"event": "Files FOIA with OSD for the alleged spring 2023 'Yankee Blue' cessation memo.",
+"precision": "day"
+},
+{
+"date": "2025-09-16",
+"event": "OSD issues a no-records response in FOIA case 25-F-3514.",
+"precision": "day"
+},
+{
+"date": "2025-12-15",
+"event": "OSD appellate authority grants his appeal and remands for a further search.",
+"precision": "day"
+},
+{
+"date": "2026-05-11",
+"event": "Publishes the searchable PURSUE archive with a 2.0GB bulk download",
+"precision": "day"
+},
+{
+"date": "2026-06-16",
+"event": "Publishes the fourth interim release in DODIG-2021-000806",
+"precision": "day"
+},
+{
+"date": "2026-07-21",
+"event": "Reports that the FY2025 annual report was released months after its statutory deadline",
+"precision": "day"
+},
+{
+"date": "2026-07-21",
+"event": "Publishes and analyses AARO's FY2025 annual report",
+"precision": "day"
+}
+],
+"claims": [
+{
+"source": "DoD FOIA final response letter, 18-F-0324",
+"text": "FOIA case 18-F-0324 was requested on 17 December 2017 and received its final response on 17 August 2022 from Stephanie L. Carr, Chief of the DoD Freedom of Information Division, releasing eight responsive pages with (b)(6) redactions.",
+"tier": 1
+},
+{
+"source": "The Black Vault document archive",
+"text": "Obtained and published the DD Form 1910 for the GoFast, Gimbal and FLIR files, the Tipton messaging emails, the Elizondo-Gough correspondence, and the TTSA CRADA-related FOIA denials.",
+"tier": 1
+},
+{
+"source": "The Black Vault document archive, provenance statements on both releases",
+"text": "The Halt memo and the November 1975 Malmstrom AFB UFO records were released to The Black Vault by the Office of the Assistant Secretary of Defense in September 1997 under FOIA case 97-F-1677.",
+"tier": 1
+},
+{
+"source": "OSD FOIA final response, case 25-F-3514, September 2025",
+"text": "In September 2025 OSD responded in FOIA case 25-F-3514 that after 'thorough searches of the electronic records and files of CMD, no records of the kind you described could be identified' regarding the alleged Yankee Blue cessation memo.",
+"tier": 1
+},
+{
+"source": "AFOSI FOIA response, case 2025-06002-F, 2025",
+"text": "In case 2025-06002-F, AFOSI stated it found 'no records' of investigative reports, summaries or closure memos tied to 'Yankee Blue.'",
+"tier": 1
+},
+{
+"source": "Susan Gough, Department of War, emailed statement, 1 Oct 2025",
+"text": "On 1 October 2025 Pentagon spokesperson Susan Gough stated: 'Regarding the alleged memo: I cannot confirm the existence of any department-level memo as described in the article.'",
+"tier": 1
+},
+{
+"source": "The Black Vault document archive entry, 21 July 2026",
+"text": "The Black Vault hosts the working public copy of the AARO FY2025 Consolidated Annual Report and documented its release months past the statutory cadence.",
+"tier": 1
+},
+{
+"source": "documents2.theblackvault.com/documents/dod/AARO_Historical_Record_Report_Volume_1_2024.pdf",
+"text": "The Black Vault hosts the mirror of the AARO Historical Record Report Volume I relied on across published UAP research.",
+"tier": 1
+},
+{
+"source": "https://www.theblackvault.com/documentarchive/department-of-war-cites-national-security-to-hide-core-uap-evaluation-details/",
+"text": "Requester of record in Department of War OIG FOIA case DODIG-2021-000806, whose fourth interim release of five pages was published 16 June 2026 with approximately 245 pages still pending.",
+"tier": 1
+},
+{
+"source": "https://www.theblackvault.com/documentarchive/the-black-vault-launches-searchable-ufo-files-release-archive/",
+"text": "Many PDFs in the Department's release were password-protected, preventing OCR; The Black Vault removed the restrictions and processed the files into a usable, searchable format.",
+"tier": 2
+}
+],
+"cls": "person",
+"cluster": "media",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "2026",
+"dateStart": "2026",
+"direction": "out",
+"edgeLabel": "Established publicly that the FY2025 report was released months late",
+"id": "aaro-fy2025-annual-report",
+"l0": true,
+"label": "AARO FY2025 Consolidated Annual Report on UAP",
+"note": "The Black Vault, not the Department, documented that the statutory annual report missed its cadence, and hosts the working public copy.",
+"sources": [
+{
+"date": "2026-07-21",
+"name": "The Black Vault - AARO releases FY2025 UAP report months after statutory deadline",
+"url": "https://www.theblackvault.com/documentarchive/aaro-releases-fy2025-uap-report-months-after-statutory-deadline-citing-319-new-cases-and-expanded-satellite-analysis/"
+},
+{
+"date": "2026-07-21",
+"name": "AARO - FY2025 Consolidated Annual Report on UAP (PDF)",
+"url": "https://documents2.theblackvault.com/documents/osd/AARO_FY2025_Consolidated_Annual_Report_on_UAP.pdf"
+}
+],
+"tier": "A",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": "2024",
+"direction": "out",
+"edgeLabel": "Hosts the working public mirror of Volume I",
+"id": "aaro-historical-record-vol1",
+"l0": true,
+"label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
+"note": "The Black Vault copy is the version cited across published UAP research, alongside the defense.gov original.",
+"sources": [
+{
+"date": "2024-03-08",
+"name": "The Black Vault - AARO Historical Record Report Volume I (mirror)",
+"url": "https://documents2.theblackvault.com/documents/dod/AARO_Historical_Record_Report_Volume_1_2024.pdf"
+},
+{
+"date": "2024-03-08",
+"name": "AARO Historical Record Report Volume I (DOPSR-2024-0263)",
+"url": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF"
+}
+],
+"tier": "A",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "domain",
+"dateEnd": null,
+"dateStart": "1996",
+"direction": "out",
+"edgeLabel": "one private FOIA operation supplies the documentary base the rest of the substrate runs on",
+"id": "d-media",
+"l0": false,
+"label": "Independent media as the disclosure substrate",
+"note": "Greenewald has filed FOIA requests since 1996 and published well over two million pages through The Black Vault, including the OSD/JS 18-F-0324 release that anchors much of the AATIP record. The fact that the primary-document layer of this subject is held by a private individual rather than an institution is itself the domain's argument.",
+"sources": [
+{
+"date": "2022-08-17",
+"name": "OSD/JS FOIA case 18-F-0324, final response and released documents (The Black Vault)",
+"url": "https://documents2.theblackvault.com/documents/osd/18-F-0324.pdf"
+},
+{
+"date": "2026-08-21",
+"name": "The Black Vault, case file: To The Stars Academy, Tom DeLonge and the secret DoD UFO research program",
+"url": "https://www.theblackvault.com/casefiles/to-the-stars-academy-of-arts-science-tom-delonge-and-the-secret-dod-ufo-research-program/"
+}
+],
+"tier": "C",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": "2026-06-16",
+"direction": "out",
+"edgeLabel": "FOIA requester of record",
+"id": "dodig-2021-000806-foia",
+"l0": false,
+"label": "DoW OIG FOIA case DODIG-2021-000806 - the withheld UAP evaluation methodology",
+"note": "The fourth interim release of five pages, with approximately 245 pages still pending, shows the Department withholding its own UAP evaluation methodology.",
+"sources": [
+{
+"date": "2026-06-16",
+"name": "The Black Vault, DoW OIG FOIA release",
+"url": "https://www.theblackvault.com/documentarchive/department-of-war-cites-national-security-to-hide-core-uap-evaluation-details/"
+}
+],
+"tier": "B",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "Black Vault FOIA surfaced the AARO-Enigma correspondence",
+"id": "enigma-labs",
+"l0": false,
+"label": "Enigma Labs",
+"note": "The Black Vault filed the request in January 2023 and it was finalized on 3 July 2025, which makes Greenewald's FOIA practice the origin point for public knowledge that AARO and Enigma Labs were in contact at all. He is appealing the redactions. The relationship here is that of requester to subject: nothing in the release suggests any other tie.",
+"sources": [
+{
+"date": "2025-07-03",
+"name": "The Black Vault, FOIA case 23-F-0711 release and reporting",
+"url": "https://www.theblackvault.com/documentarchive/foia-response-reveals-contact-between-aaro-and-enigma-labs-details-remain-largely-redacted/"
+},
+{
+"date": null,
+"name": "The Black Vault, 'FOIA Response Reveals Contact Between AARO and Enigma Labs; Details Remain Largely Redacted' -- https://www.theblackvault.com/documentarchive/foia-response-reveals-contact-between-aaro-and-enigma-labs-details-remain-largely-redacted/",
+"url": ""
+}
+],
+"tier": "C",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "2022",
+"dateStart": "2017",
+"direction": "out",
+"edgeLabel": "Requested 17 Dec 2017; final response 17 Aug 2022",
+"id": "foia-18-f-0324",
+"l0": false,
+"label": "OSD/JS FOIA Case 18-F-0324",
+"note": "Four years and eight months to release eight pages describing an employee's resignation, during which the Department repeatedly characterised that employee in public.",
+"sources": [
+{
+"date": "2022-08-17",
+"name": "OSD/JS FOIA 18-F-0324",
+"url": "https://documents2.theblackvault.com/documents/osd/18-F-0324.pdf"
+}
+],
+"tier": "C",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "1997",
+"dateStart": "1997",
+"direction": "in",
+"edgeLabel": "Released to The Black Vault under DoD FOIA case 97-F-1677",
+"id": "halt-memo",
+"l0": false,
+"label": "Halt Memorandum, 'Unexplained Lights', 13 January 1981",
+"note": "The Office of the Assistant Secretary of Defense, Freedom of Information and Security Review Office released the memo in September 1997 under case 97-F-1677.",
+"sources": [
+{
+"date": "2021-11-11",
+"name": "The Halt Memo - Rendlesham Forest Incident (DoD FOIA case 97-F-1677, released Sept 1997)",
+"url": "https://www.theblackvault.com/documentarchive/the-halt-memo-the-rendlesham-forest-incident/"
+}
+],
+"tier": "B",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": "1997",
+"dateStart": "1997",
+"direction": "in",
+"edgeLabel": "Malmstrom records released to The Black Vault under FOIA case 97-F-1677",
+"id": "sac-overflights-1975",
+"l0": true,
+"label": "1975 SAC Nuclear-Base Overflights (Loring, Wurtsmith, Malmstrom, Minot)",
+"note": "The same September 1997 OASD release that produced the Halt memo produced the November 1975 Malmstrom overflight records.",
+"sources": [
+{
+"date": "2021-11-08",
+"name": "Unidentified Flying Objects over Malmstrom AFB, November 1975 (DoD FOIA case 97-F-1677)",
+"url": "https://www.theblackvault.com/documentarchive/unidentified-flying-objects-over-malmstrom-afb-november-1975/"
+},
+{
+"date": "2021-11-11",
+"name": "The Halt Memo - Rendlesham Forest Incident (DoD FOIA case 97-F-1677, released Sept 1997)",
+"url": "https://www.theblackvault.com/documentarchive/the-halt-memo-the-rendlesham-forest-incident/"
+}
+],
+"tier": "A",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "2019",
+"dateStart": "2019",
+"direction": "out",
+"edgeLabel": "Recipient of the 13 June 2019 and 6 December 2019 statements",
+"id": "susan-gough",
+"l0": false,
+"label": "Susan Gough",
+"note": "Both of the Department's pivotal statements were issued to a FOIA requester rather than at a podium.",
+"sources": [
+{
+"date": "2019-12-06",
+"name": "The Black Vault",
+"url": "https://www.theblackvault.com/documentarchive/the-pentagon-corrects-record-on-secret-ufo-program/"
+}
+],
+"tier": "A",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "1996",
+"direction": "out",
+"edgeLabel": "Founder and operator of the archive that produced the primary record",
+"id": "the-black-vault",
+"l0": false,
+"label": "The Black Vault",
+"note": "Nearly every document in this domain arrived through his requests.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "The Black Vault case file",
+"url": "https://www.theblackvault.com/casefiles/to-the-stars-academy-of-arts-science-tom-delonge-and-the-secret-dod-ufo-research-program/"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": "2025",
+"dateStart": "2025",
+"direction": "in",
+"edgeLabel": "Greenewald's FOIA requests and appeal are the test of the YANKEE BLUE claim",
+"id": "yankee-blue",
+"l0": true,
+"label": "YANKEE BLUE (alleged AFOSI indoctrination program)",
+"note": "OSD case 25-F-3514 returned no records in September 2025; AFOSI case 2025-06002-F returned no records; the appeal was granted and remanded on 15 December 2025.",
+"sources": [
+{
+"date": "2025-09-16",
+"name": "John Greenewald Jr., 'Pentagon Denies Existence of \"Yankee Blue\" Memo Reported by Wall Street Journal', The Black Vault",
+"url": "https://www.theblackvault.com/documentarchive/pentagon-denies-existence-of-yankee-blue-memo-reported-by-wall-street-journal/"
+},
+{
+"date": "2025-12-15",
+"name": "John Greenewald Jr., 'Pentagon Reopens Search for Alleged \"Yankee Blue\" Memo After Initial Denial', The Black Vault",
+"url": "https://www.theblackvault.com/documentarchive/pentagon-reopens-search-for-alleged-yankee-blue-memo-after-initial-denial/"
+}
+],
+"tier": "B",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "2016",
+"dateStart": "2013",
+"direction": "out",
+"edgeLabel": "2013 Mandatory Declassification Review forced further release of the NSA UFO holdings",
+"id": "yeates-affidavit",
+"l0": false,
+"label": "Yeates Affidavit (NSA, 1980)",
+"note": "NSA had released the COMINT records with most pages carrying only a few visible words, redacted in white-out; an MDR was required to obtain more.",
+"sources": [
+{
+"date": "2016-09-10",
+"name": "UFOs: The National Security Agency (NSA) Collection - incl. the Yeates Affidavit and CAUS v. NSA litigation records",
+"url": "https://www.theblackvault.com/documentarchive/ufos-the-national-security-agency-nsa-collection/"
+}
+],
+"tier": "B",
+"type": "investigative"
+}
+],
+"date": "2022-08-17",
+"dateEnd": null,
+"dateStart": "2022-08-17",
+"deg": 12,
+"denials": [],
+"domains": [
+"elizondo-ttsa",
+"history-1970s-2000s",
+"releases-2023-2026",
+"w2-2025-2026"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "john-greenewald",
+"instId": "the-black-vault",
+"l0": false,
+"label": "John Greenewald Jr.",
+"loc": "Los Angeles, CA",
+"locId": "l-la",
+"members": null,
+"narrative": "Greenewald is the private citizen who has done more than any institution to build the documentary base this board runs on. He began filing FOIA requests as a teenager in 1996 and has since obtained and published well over two million pages. Two of his releases are load-bearing for the 1970s-2000s era: DoD FOIA case 97-F-1677, processed by the Office of the Assistant Secretary of Defense in September 1997, which produced the Halt memorandum on Rendlesham and the November 1975 Malmstrom AFB overflight records; and his 2013 Mandatory Declassification Review of the entire NSA UFO holding, which forced further release of documents NSA had previously produced with only a few words visible per page. In 2025 he became the principal test of the Pentagon's own honesty about disinformation: after the Wall Street Journal reported that the Secretary of Defense's office had issued a spring 2023 memo ordering an end to an Air Force practice of falsely telling personnel they were on a reverse-engineering programme, Greenewald filed for the memo. OSD responded in September 2025 that no such record existed; AFOSI said it had no records of any such investigation; the Pentagon spokesperson said in October 2025 she could not confirm the memo existed. In December 2025 an OSD appellate authority granted his appeal and remanded for a new search. That sequence - press claim, government no-records finding, appeal, remand - is the mechanism by which this board's evidence is actually produced.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "John Greenewald Jr.",
+"sources": [
+{
+"date": "2022-08-17",
+"name": "OSD/JS FOIA 18-F-0324 final response and documents",
+"url": "https://documents2.theblackvault.com/documents/osd/18-F-0324.pdf"
+},
+{
+"date": "2026-08-12",
+"name": "The Black Vault — AATIP, Tom DeLonge, Luis Elizondo and the Claims of To The Stars Academy (case file)",
+"url": "https://www.theblackvault.com/casefiles/to-the-stars-academy-of-arts-science-tom-delonge-and-the-secret-dod-ufo-research-program/"
+},
+{
+"date": "2025-09-16",
+"name": "John Greenewald Jr., 'Pentagon Denies Existence of \"Yankee Blue\" Memo Reported by Wall Street Journal', The Black Vault",
+"url": "https://www.theblackvault.com/documentarchive/pentagon-denies-existence-of-yankee-blue-memo-reported-by-wall-street-journal/"
+},
+{
+"date": "2025-12-15",
+"name": "John Greenewald Jr., 'Pentagon Reopens Search for Alleged \"Yankee Blue\" Memo After Initial Denial', The Black Vault",
+"url": "https://www.theblackvault.com/documentarchive/pentagon-reopens-search-for-alleged-yankee-blue-memo-after-initial-denial/"
+},
+{
+"date": "2021-11-11",
+"name": "The Halt Memo - Rendlesham Forest Incident (DoD FOIA case 97-F-1677, released Sept 1997)",
+"url": "https://www.theblackvault.com/documentarchive/the-halt-memo-the-rendlesham-forest-incident/"
+},
+{
+"date": "2021-11-08",
+"name": "Unidentified Flying Objects over Malmstrom AFB, November 1975 (DoD FOIA case 97-F-1677)",
+"url": "https://www.theblackvault.com/documentarchive/unidentified-flying-objects-over-malmstrom-afb-november-1975/"
+},
+{
+"date": "2016-09-10",
+"name": "UFOs: The National Security Agency (NSA) Collection - incl. the Yeates Affidavit and CAUS v. NSA litigation records",
+"url": "https://www.theblackvault.com/documentarchive/ufos-the-national-security-agency-nsa-collection/"
+},
+{
+"date": "2021-05-20",
+"name": "Richard Doty Personnel File - New Mexico State Police [321 pages], NM Inspection of Public Records Act release",
+"url": "https://www.theblackvault.com/documentarchive/richard-doty-personnel-file-new-mexico-state-police/"
+},
+{
+"date": "2026-07-21",
+"name": "The Black Vault - AARO releases FY2025 UAP report months after statutory deadline",
+"url": "https://www.theblackvault.com/documentarchive/aaro-releases-fy2025-uap-report-months-after-statutory-deadline-citing-319-new-cases-and-expanded-satellite-analysis/"
+},
+{
+"date": "2024-03-08",
+"name": "The Black Vault - AARO Historical Record Report Volume I (mirror)",
+"url": "https://documents2.theblackvault.com/documents/dod/AARO_Historical_Record_Report_Volume_1_2024.pdf"
+},
+{
+"date": "2026-06-16",
+"name": "The Black Vault, DoW OIG FOIA release",
+"url": "https://www.theblackvault.com/documentarchive/department-of-war-cites-national-security-to-hide-core-uap-evaluation-details/"
+},
+{
+"date": "2026-05-11",
+"name": "The Black Vault searchable archive",
+"url": "https://www.theblackvault.com/documentarchive/the-black-vault-launches-searchable-ufo-files-release-archive/"
+}
+],
+"status": "active",
+"sub": "Founder, The Black Vault; FOIA requester of record on AATIP and Elizondo",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 166 of 1027, score 47). 12 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.",
+"timeline": [
+{
+"date": "1997-09-01",
+"id": "t-1997-foia",
+"label": "DoD FOIA case 97-F-1677 released",
+"precision": "month",
+"strand": "witness",
+"text": "The Office of the Assistant Secretary of Defense releases both the Halt memo and the November 1975 Malmstrom overflight records to The Black Vault in a single case.",
+"tier": "A"
+}
+],
+"unexplainedResidual": null,
+"unverified": [
+"Why the Department applied password protection to released PDFs, and whether it was a deliberate processing decision or an artefact of the export pipeline."
+]
+}

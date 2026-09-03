@@ -1,0 +1,130 @@
+{
+"A": 1,
+"C": 0,
+"D": 3,
+"affiliations": [
+"cometa",
+"ihedn",
+"Armée de l'Air (French Air Force)"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "1995-02",
+"event": "Organises a UAP conference within the Ecole de l'Air alumni association at which former pilots describe encounters",
+"precision": "month"
+},
+{
+"date": "1995-03",
+"event": "Presents the fact-finding committee project to General Bernard Norlain at IHEDN; referred to the IHEDN Auditors Association",
+"precision": "month"
+},
+{
+"date": "1996",
+"event": "COMETA begins operating informally",
+"precision": "year"
+},
+{
+"date": "1999-02-24",
+"event": "COMETA formally registered as a non-profit association under the French law of 1901",
+"precision": "day"
+},
+{
+"date": "1999-07",
+"event": "Report 'Les OVNI et la Défense: à quoi doit-on se préparer?' published in a special issue of VSD",
+"precision": "month"
+}
+],
+"claims": [
+{
+"source": "COMETA, UFOs and Defense: What Should We Prepare For?, foreword by Denis Letty, 1999 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"text": "Letty, foreword: 'The accumulation of well-documented sightings made by credible witnesses forces us to consider from now on all of the hypotheses regarding the origin of unidentified flying objects, or UFOs, and the extraterrestrial hypothesis, in particular.'",
+"tier": 2
+},
+{
+"source": "COMETA report, Letty foreword, 1999 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"text": "Letty credits Norlain and André Lebeau, former chairman of CNES, 'without whom COMETA would not have been born', and names Jean-Jacques Velasco, Head of SEPRA at CNES, among contributors.",
+"tier": 2
+},
+{
+"source": "Wikipedia, 'COMETA report', citing Kragel and Couprie, OVNIS, Enquête sur un secret d'état (2010)",
+"text": "COMETA was 'officially registered as a non-profit association under the French law of 1901 on February 24, 1999' and was chaired by retired French Air Force General Denis Letty.",
+"tier": 2
+}
+],
+"cls": "person",
+"cluster": "oversight",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "2006",
+"dateStart": "1996",
+"direction": "out",
+"edgeLabel": "founded and chaired COMETA",
+"id": "cometa",
+"l0": true,
+"label": "COMETA - Comité d'Études Approfondies",
+"note": "Letty signs the report's foreword as chairman of the association and names the members and contributors himself.",
+"sources": [
+{
+"date": "1999-07-01",
+"name": "COMETA report",
+"url": "https://ia800403.us.archive.org/17/items/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D.pdf"
+}
+],
+"tier": "A",
+"type": "institutional"
+}
+],
+"date": "1999-07-01",
+"dateEnd": null,
+"dateStart": "1999-07-01",
+"deg": 1,
+"denials": [],
+"domains": [
+"w2-international"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "1",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "denis-letty",
+"instId": "cometa",
+"l0": false,
+"label": "Général Denis Letty",
+"loc": "France",
+"locId": "l-france",
+"members": null,
+"narrative": "Denis Letty, a French Air Force general in the 2nd Section (the reserve of general officers) and an auditor of the Institut des Hautes Études de Défense Nationale, is the man who assembled the most senior group of serving-and-retired defence officials ever to publish a UAP report in a NATO country. In February 1995 he organised a conference on unidentified aerospace phenomena within the Air Force Academy alumni association at which former French military pilots publicly described their own encounters, the CNES officer responsible for the file presented his papers, and an astronomer set out a scientifically acceptable version of the extraterrestrial hypothesis. In March 1995 he took the project to General Bernard Norlain at Norlain's IHEDN office; Norlain referred him to the IHEDN Auditors Association, which backed it. The committee Letty then coordinated over close to three years was named COMETA, the Comité d'Études Approfondies, and was constituted as a French 1901-law association on 24 February 1999 with Letty as chairman. In his own foreword to the report Letty writes that the accumulation of well-documented sightings by credible witnesses 'forces us to consider from now on all of the hypotheses regarding the origin of unidentified flying objects, or UFOs, and the extraterrestrial hypothesis, in particular'. He names his contributors in the text - Jean-Jacques Velasco of SEPRA, pilots Jean-Charles Duboc, Jean-Pierre Fartek and René Giraud, Edmond Campagnac of Air France, Squadron Commander Michel Perrier of the Gendarmerie Nationale, and Air Force General Joseph Domange.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Général Denis Letty",
+"sources": [
+{
+"date": "1999-07-01",
+"name": "COMETA - UFOs and Defense: What Should We Prepare For? (English edition, full text)",
+"url": "https://ia800403.us.archive.org/17/items/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D.pdf"
+},
+{
+"date": "2026-01-01",
+"name": "COMETA report - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/COMETA_report"
+}
+],
+"status": "active",
+"sub": "French Air Force general (2nd Section); founder and chairman of COMETA",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 851 of 1027, score 16). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D3.",
+"timeline": [],
+"unexplainedResidual": null,
+"unverified": [
+"Letty's date of birth, current status and whether he is still living were not established in this pass."
+]
+}

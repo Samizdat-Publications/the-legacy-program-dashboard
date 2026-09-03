@@ -1,0 +1,271 @@
+{
+"A": 3,
+"C": 2,
+"D": 2,
+"band": null,
+"claims": [
+{
+"source": "DHS, About DHS, retrieved 12 August 2026",
+"text": "DHS was 'established in 2002, combining 22 different federal departments and agencies into a unified, integrated Cabinet agency' and employs 'more than 260,000 employees'.",
+"tier": 1
+},
+{
+"source": "AARO/DHS, 'History and Origin of KONA BLUE'",
+"text": "In 2011 the DHS Under Secretary for Science and Technology established KONA BLUE as a Prospective Special Access Program; approximately six months later the DHS Deputy Secretary disapproved and terminated it. KONA BLUE was 'never approved or formally established'.",
+"tier": 1
+},
+{
+"source": "AARO Historical Record Report Volume I, pp. 34-35",
+"text": "AARO states that interviewees claimed KONA BLUE 'was a sensitive DHS compartment to cover up the retrieval and exploitation of non-human biologics', and that after DIA cancelled AAWSAP/AATIP in 2012 'its supporters proposed to DHS that they create and fund a new version'.",
+"tier": 1
+},
+{
+"source": "AARO Historical Record Report Volume I, p. 34",
+"text": "AARO states it partnered with 'the Special Access Program Control Offices for the DoD, IC, and DHS' to review programs identified in interviews by name or description.",
+"tier": 1
+},
+{
+"source": "Inference from AARO/DHS, 'History and Origin of KONA BLUE'",
+"text": "The KONA BLUE record establishes that a US department was formally asked, at Under Secretary level and with the support of two sitting senators, to create a compartment for the exploitation of recovered non-human material. Whether the material existed is a separate question from whether the request was made; the request is documented. Reasoning: the AARO/DHS paper is itself the government's admission of the request.",
+"tier": 3
+}
+],
+"cls": "institution",
+"cluster": "other",
+"connections": [
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "2024-03",
+"dateStart": "2022-07",
+"direction": "in",
+"edgeLabel": "AARO's SAP review extended to the DHS control office enterprise",
+"id": "aaro",
+"l0": true,
+"label": "All-domain Anomaly Resolution Office (AARO)",
+"note": "AARO names DHS as the third SAP control office enterprise with which it partnered - the only public confirmation that DHS operates a SAP control office at all.",
+"sources": [
+{
+"date": "2024-03-08",
+"name": "AARO Historical Record Report Volume I (DOPSR-2024-0263)",
+"url": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF"
+}
+],
+"tier": "A",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": "2024-06",
+"direction": "out",
+"edgeLabel": "DHS co-authored the 2024 declassified KONA BLUE history",
+"id": "aaro-kona-blue-release",
+"l0": false,
+"label": "AARO/DHS release: History and Origin of KONA BLUE",
+"note": "The paper 'History and Origin of KONA BLUE' is published on AARO's UAP Records page as a joint AARO/DHS product.",
+"sources": [
+{
+"date": "2024-06-01",
+"name": "AARO/DHS, 'History and Origin of KONA BLUE'",
+"url": "https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/History_and_Origin_of_KONA_BLUE_FINAL_508.pdf"
+}
+],
+"tier": "B",
+"type": "custody"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2003",
+"direction": "in",
+"edgeLabel": "Science and Technology Directorate is the DHS R&D component",
+"id": "dhs-st",
+"l0": false,
+"label": "DHS Science and Technology Directorate",
+"note": "The Under Secretary for Science and Technology is a DHS component head; the KONA BLUE paper identifies that office as the one that established the prospective program.",
+"sources": [
+{
+"date": "2024-06-01",
+"name": "AARO/DHS, 'History and Origin of KONA BLUE'",
+"url": "https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/History_and_Origin_of_KONA_BLUE_FINAL_508.pdf"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": "2012",
+"dateStart": "2011",
+"direction": "out",
+"edgeLabel": "DHS Deputy Secretary disapproved and terminated KONA BLUE approximately six months later",
+"id": "kona-blue",
+"l0": true,
+"label": "KONA BLUE",
+"note": "The AARO/DHS paper states the Deputy Secretary disapproved and terminated the PSAP roughly six months after it was established, and that KONA BLUE was 'never approved or formally established'. Neither official is named in the released text.",
+"sources": [
+{
+"date": "2024-06-01",
+"name": "AARO/DHS, 'History and Origin of KONA BLUE'",
+"url": "https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/History_and_Origin_of_KONA_BLUE_FINAL_508.pdf"
+}
+],
+"tier": "A",
+"type": "denial"
+},
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": "2012",
+"dateStart": "2011",
+"direction": "in",
+"edgeLabel": "DHS prospective special access program, terminated 10 February 2012",
+"id": "kona-blue",
+"l0": true,
+"label": "KONA BLUE",
+"note": "DHS Acting Deputy Secretary Kristie Canegallo transmitted the declassified Kona Blue records to the Deputy Secretary of Defense on 5 February 2024.",
+"sources": [
+{
+"date": "2024-06-01",
+"name": "AARO DHS Kona Blue package",
+"url": "https://www.aaro.mil/Portals/136/PDFs/UAP_Records_Research/AARO_DHS_Kona_Blue.pdf"
+}
+],
+"tier": "A",
+"type": "programmatic"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2025-04-24",
+"direction": "out",
+"edgeLabel": "Produced no records for the first statutory UAP transfer",
+"id": "nara-uap-collection",
+"l0": true,
+"label": "National Archives Unidentified Anomalous Phenomena Records Collection",
+"note": "NARA's 24 April 2025 release named only ODNI, OSD, the FAA and the Nuclear Regulatory Commission. DHS, which holds documented UAP equity, transferred nothing.",
+"sources": [
+{
+"date": "2025-04-24",
+"name": "National Archives press release nr25-07",
+"url": "https://www.archives.gov/press/press-releases/2025/nr25-07"
+}
+],
+"tier": "A",
+"type": "denial"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "2002-11-25",
+"deg": 5,
+"denials": [
+{
+"by": {
+"id": "dhs",
+"label": "United States Department of Homeland Security"
+},
+"claimTier": 1,
+"denialKind": "directed",
+"label": "DHS Deputy Secretary disapproved and terminated KONA BLUE approximately six months later",
+"note": "The AARO/DHS paper states the Deputy Secretary disapproved and terminated the PSAP roughly six months after it was established, and that KONA BLUE was 'never approved or formally established'. Neither official is named in the released text.",
+"of": {
+"id": "kona-blue",
+"label": "KONA BLUE"
+},
+"sources": [
+{
+"date": "2024-06-01",
+"name": "AARO/DHS, 'History and Origin of KONA BLUE'",
+"url": "https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/History_and_Origin_of_KONA_BLUE_FINAL_508.pdf"
+}
+]
+},
+{
+"by": {
+"id": "dhs",
+"label": "United States Department of Homeland Security"
+},
+"claimTier": 1,
+"denialKind": "directed",
+"label": "Produced no records for the first statutory UAP transfer",
+"note": "NARA's 24 April 2025 release named only ODNI, OSD, the FAA and the Nuclear Regulatory Commission. DHS, which holds documented UAP equity, transferred nothing.",
+"of": {
+"id": "nara-uap-collection",
+"label": "National Archives Unidentified Anomalous Phenomena Records Collection"
+},
+"sources": [
+{
+"date": "2025-04-24",
+"name": "National Archives press release nr25-07",
+"url": "https://www.archives.gov/press/press-releases/2025/nr25-07"
+}
+]
+}
+],
+"desc": "DHS was established in 2002, 'combining 22 different federal departments and agencies into a unified, integrated Cabinet agency' with more than 260,000 employees, and its Office of Intelligence and Analysis is a full element of the Intelligence Community. For most of its existence DHS had no visible role in the UAP question. That changed with the declassification of KONA BLUE. According to the joint AARO/DHS paper 'History and Origin of KONA BLUE', KONA BLUE was 'a Prospective Special Access Program (PSAP) that had been proposed to DHS leadership but was never approved or formally established'; in 2011 the DHS Under Secretary for Science and Technology established KONA BLUE as a PSAP, and approximately six months later the DHS Deputy Secretary disapproved and terminated it. AARO's Historical Record Report Volume I states that after DIA cancelled AAWSAP/AATIP in 2012 'its supporters proposed to DHS that they create and fund a new version' to 'restart UAP investigations, paranormal research (including alleged human consciousness anomalies) and reverse-engineer any recovered off-world spacecraft', that interviewees claimed KONA BLUE 'was a sensitive DHS compartment to cover up the retrieval and exploitation of non-human biologics', and that 'Senators Lieberman and Reid asked that the PSAP be established with the promise of additional funding'. AARO's reading is that KONA BLUE proves the recovery narrative was a proposal that got rejected; the opposite reading, which the same document supports, is that a compartment to hold recovered non-human material was requested at Under Secretary level, formally stood up as a prospective program, and killed only when it reached the Deputy Secretary. DHS is also, per AARO, one of the three special access program control office enterprises - DoD, IC and DHS - with which AARO says it partnered to review named programs.",
+"domains": [
+"_rs-archive-mirror",
+"w2-agencies"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "2",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "dhs",
+"l0": false,
+"label": "United States Department of Homeland Security",
+"locLabel": null,
+"members": null,
+"short": "United States Department of Homeland Security",
+"sources": [
+{
+"date": "2026-05-08",
+"name": "Archived: AARO/DHS, 'History and Origin of KONA BLUE' (Wayback 2026-05-08)",
+"url": "https://web.archive.org/web/20260508180256/https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/History_and_Origin_of_KONA_BLUE_FINAL_508.pdf"
+},
+{
+"date": "2026-07-05",
+"name": "Archived: AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I (DOPSR-2024-0263) (Wayback 2026-07-05)",
+"url": "https://web.archive.org/web/20260705034310/https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF"
+},
+{
+"date": "2024-06-01",
+"name": "AARO/DHS, 'History and Origin of KONA BLUE'",
+"url": "https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/History_and_Origin_of_KONA_BLUE_FINAL_508.pdf"
+},
+{
+"date": "2026-08-12",
+"name": "Department of Homeland Security - About DHS",
+"url": "https://www.dhs.gov/about-dhs"
+},
+{
+"date": "2024-03-08",
+"name": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I (DOPSR-2024-0263)",
+"url": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF"
+}
+],
+"sub": "Cabinet department created 2002; the department that stood up and then killed KONA BLUE",
+"tier": "A",
+"tierRationale": "Re-graded A on a global pass (rank 133 of 1027, score 54). 6 connections, 2 of them custody/witness/funding/programmatic, 2 official denials recorded against it. Axes C2/A3/D2.",
+"timeline": [
+{
+"date": "2011-07-01",
+"id": "ag-tl-2011-kbkill",
+"label": "DHS Deputy Secretary terminates KONA BLUE",
+"precision": "ranged",
+"strand": "program",
+"text": "Approximately six months after it is established, the Deputy Secretary disapproves the prospective program. Neither the establishing nor the terminating official is named in the released paper.",
+"tier": "A"
+}
+]
+}

@@ -1,0 +1,155 @@
+{
+"A": 3,
+"C": 1,
+"D": 3,
+"band": null,
+"claims": [
+{
+"source": "UAP Gerb, 'The Hidden Wing' description, 30 January 2026",
+"text": "Alleged USAF legacy involvement is concentrated in SAF/AQ (with SAF/AQX, SAF/AQL Special Programs and SAF/AQR), SAF/AA, AF/TE and AFOSI.",
+"tier": 2
+},
+{
+"source": "UAP Gerb, 'The Hidden Wing' description, 30 January 2026",
+"text": "SAF/AAH (Sensitive Activities) and SAF/AZ and their directors Russell Wyler and William Maclure likely serve as the Air Force SES-2 gatekeeper mentioned by Christopher Mellon.",
+"tier": 2
+},
+{
+"source": "UAP Gerb, 'The Hidden Wing' description, 30 January 2026",
+"text": "AFOSI/PJ (Office of Special Projects) and its former director Terry Phillips, now Northrop Grumman VP for Security, are alleged operative nodes.",
+"tier": 2
+}
+],
+"cls": "document",
+"cluster": "research",
+"connections": [
+{
+"claimTier": 2,
+"cls": "institution",
+"dateEnd": "2026",
+"dateStart": "1947",
+"direction": "out",
+"edgeLabel": "Names AFOSI/PJ, the Office of Special Projects, as an operative node",
+"id": "afosi",
+"l0": true,
+"label": "Air Force Office of Special Investigations",
+"note": "Gerb identifies AFOSI/PJ and its former director Terry Phillips - now Northrop Grumman VP for Security - as a bridge between Air Force counterintelligence and contractor security.",
+"sources": [
+{
+"date": "2026-01-30",
+"name": "UAP Gerb - 'The Hidden Wing'",
+"url": "https://www.youtube.com/watch?v=-IXSZe4xVv4"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 2,
+"cls": "document",
+"dateEnd": "2026",
+"dateStart": "2026",
+"direction": "out",
+"edgeLabel": "Gerb cites the film's characterisation of the Air Force",
+"id": "age-of-disclosure",
+"l0": false,
+"label": "The Age of Disclosure (documentary, 2025)",
+"note": "The Hidden Wing description notes the Air Force being 'labeled as a critical Crash Retrieval element in 2025's Age of Disclosure', using the film as a corroborating reference.",
+"sources": [
+{
+"date": "2026-01-30",
+"name": "UAP Gerb - 'The Hidden Wing'",
+"url": "https://www.youtube.com/watch?v=-IXSZe4xVv4"
+}
+],
+"tier": "C",
+"type": "investigative"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2026",
+"dateStart": "2026",
+"direction": "out",
+"edgeLabel": "Identifies candidates for Mellon's unnamed Air Force SES-2 gatekeeper",
+"id": "christopher-mellon",
+"l0": false,
+"label": "Christopher K. Mellon",
+"note": "Gerb proposes that SAF/AAH (Sensitive Activities) and SAF/AZ and their directors Russell Wyler and William Maclure are the likely referents of the Air Force SES-2 gatekeeper Christopher Mellon has described publicly. This is Gerb's method in miniature: take a witness's unnamed role and resolve it against the published org chart.",
+"sources": [
+{
+"date": "2026-01-30",
+"name": "UAP Gerb - 'The Hidden Wing'",
+"url": "https://www.youtube.com/watch?v=-IXSZe4xVv4"
+}
+],
+"tier": "A",
+"type": "witness-chain"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2026",
+"dateStart": "2026",
+"direction": "in",
+"edgeLabel": "Gerb authored the USAF structural map",
+"id": "uap-gerb",
+"l0": false,
+"label": "'UAP Gerb' (Sam)",
+"note": "Published 30 January 2026; maps SAF/AQ, SAF/AQX, SAF/AQL, SAF/AQR, SAF/AA, SAF/AAH, SAF/AZ, AF/TE and AFOSI/PJ.",
+"sources": [
+{
+"date": "2026-01-30",
+"name": "UAP Gerb - 'The Hidden Wing'",
+"url": "https://www.youtube.com/watch?v=-IXSZe4xVv4"
+}
+],
+"tier": "A",
+"type": "investigative"
+}
+],
+"coords": null,
+"dateEnd": "2026",
+"dateStart": "2026",
+"deg": 4,
+"denials": [],
+"desc": "The most office-symbol-specific document in the domain. Published 30 January 2026, 'The Hidden Wing' deliberately departs from the testimony-review format and instead attempts to map the current, modern-day administrative and organizational structure of alleged Air Force clandestine UFO programs, working through the Department of the Air Force, Headquarters Air Force, MAJCOMs, Wings and Major Range and Test Facility Bases. Its executive summary names specific compartments: SAF/AQ (Acquisition) under the Secretariat, SAF/AA (Administrative Assistant to the Secretary of the Air Force), AF/TE (Test and Evaluation) under Compliance on the Air Staff, and AFOSI. Within SAF/AQ it names the directorates SAF/AQX (Acquisition Integration), SAF/AQL (Special Programs) and SAF/AQR (Science, Technology and Engineering). It alleges that SAF/AAH (Sensitive Activities) and SAF/AZ (Security, Special Programs Oversight and Information Protection), and their directors Russell Wyler and William Maclure, likely constitute the Air Force SES-2 gatekeeper Christopher Mellon has publicly referred to. It identifies AFOSI/PJ, the Office of Special Projects, and its former director Terry Phillips - now Northrop Grumman Vice President for Security - as an operative node. The value of this document is that every office symbol in it is real and checkable against Air Force organisational records; the allegation is about function, not existence.",
+"domains": [
+"media-structure"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "gerb-hidden-wing",
+"l0": false,
+"label": "UAP Gerb - 'The Hidden Wing' (USAF structure)",
+"locLabel": null,
+"members": null,
+"short": "UAP Gerb - 'The Hidden Wing' (USAF structure)",
+"sources": [
+{
+"date": "2026-01-30",
+"name": "UAP Gerb - 'The Hidden Wing - US Air Force UFO Reverse Engineering Programs'",
+"url": "https://www.youtube.com/watch?v=-IXSZe4xVv4"
+}
+],
+"sub": "Video investigation, 30 Jan 2026",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 420 of 1027, score 32). 4 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A3/D3.",
+"timeline": [
+{
+"date": "2026-01-30",
+"id": "ms-2026-hiddenwing",
+"label": "Gerb maps the Air Force",
+"precision": "day",
+"strand": "program",
+"text": "'The Hidden Wing' names SAF/AQ, SAF/AQL Special Programs, SAF/AA, SAF/AAH, SAF/AZ, AF/TE and AFOSI/PJ, and proposes Russell Wyler and William Maclure as the referents of Christopher Mellon's unnamed Air Force SES-2 gatekeeper.",
+"tier": "A"
+}
+]
+}

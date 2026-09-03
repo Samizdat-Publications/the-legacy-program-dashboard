@@ -1,0 +1,352 @@
+{
+"A": 2,
+"C": 0,
+"D": 2,
+"band": "oversight",
+"claims": [
+{
+"source": "National Archives, Information Security Oversight Office",
+"text": "ISOO is 'responsible to the President for policy and oversight of the Government-wide security classification system and the National Industrial Security Program', with authority from Executive Order 13526 and Executive Order 13556.",
+"tier": 1
+},
+{
+"source": "National Archives, Information Security Oversight Office",
+"text": "ISOO publishes an Annual Report to the President with statistics and analysis on Classified National Security Information and Controlled Unclassified Information; the FY2024 report is published.",
+"tier": 1
+},
+{
+"source": "Inference from ISOO's NISP responsibilities under EO 13526",
+"text": "ISOO's oversight of the National Industrial Security Program is the only government-wide mechanism that could detect a contractor-held program without a government sponsor of record, and it has never been directed at the UAP question. Reasoning: NISP covers classified work at cleared facilities regardless of which agency sponsors it.",
+"tier": 3
+}
+],
+"cls": "institution",
+"cluster": "oversight",
+"connections": [
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": "2011-12-30",
+"direction": "in",
+"edgeLabel": "ISOO advises the working group that produces the marking standard",
+"id": "capco-register",
+"l0": false,
+"label": "CAP Registry / CAPCO Register of control systems, compartments and sub-compartments",
+"note": "The CAPCO Register v5.1 lists NARA/Information Security Oversight Office among the IC Classification Markings Implementation Working Group advisors.",
+"sources": [
+{
+"date": "2012-03-30",
+"name": "IC Authorized Classification and Control Markings Register and Manual v5.1 (CAPCO)",
+"url": "https://web.archive.org/web/20241230231438/https://www.dni.gov/files/documents/FOIA/Public_CAPCO_Register%20and%20Manual%20v5.1.pdf"
+}
+],
+"tier": "B",
+"type": "research"
+},
+{
+"claimTier": 1,
+"cls": "domain",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "the office charged with counting the classification system, and therefore the boundary of the public map",
+"id": "d-structure",
+"l0": false,
+"label": "Program structure and organisational mapping",
+"note": "ISOO is housed at the National Archives and is responsible to the President for policy and oversight of the government-wide security classification system and the National Industrial Security Program, under Executive Orders 13526 and 13556. Where ISOO's annual reporting stops is where this domain's open-source organisational mapping has to switch to inference.",
+"sources": [
+{
+"date": "2026-08-21",
+"name": "National Archives - Information Security Oversight Office",
+"url": "https://www.archives.gov/isoo"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "legislation",
+"dateEnd": null,
+"dateStart": "2009-12-29",
+"direction": "in",
+"edgeLabel": "ISOO access to SAPs is granted and simultaneously conditioned",
+"id": "eo-13526",
+"l0": true,
+"label": "Executive Order 13526 — Classified National Security Information",
+"note": "Section 4.3(b) affords the ISOO Director access to special access programs 'consistent with the policies and procedures directed by the President' - a defeasible right.",
+"sources": [
+{
+"date": "2009-12-29",
+"name": "Executive Order 13526, Classified National Security Information",
+"url": "https://www.archives.gov/isoo/policy-documents/cnsi-eo.html"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2024",
+"direction": "in",
+"edgeLabel": "Both are components of the National Archives",
+"id": "nara-uap-collection",
+"l0": true,
+"label": "National Archives Unidentified Anomalous Phenomena Records Collection",
+"note": "NARA hosts both the statutory UAP collection and the Information Security Oversight Office, the body responsible to the President for the classification system.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "National Archives - Information Security Oversight Office",
+"url": "https://www.archives.gov/isoo"
+},
+{
+"date": "2025-04-24",
+"name": "National Archives press release nr25-07",
+"url": "https://www.archives.gov/press/press-releases/2025/nr25-07"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2015-10-17",
+"direction": "in",
+"edgeLabel": "ISOO requests about IC controlled access programs are routed through CAPCO",
+"id": "odni-capco",
+"l0": false,
+"label": "ODNI Controlled Access Program Coordination Office (CAPCO)",
+"note": "ICD 906 section D.9.c makes CAPCO responsible for coordinating 'requests from the Information Security Oversight Office' about CAPs.",
+"sources": [
+{
+"date": "2024-12-19",
+"name": "Intelligence Community Directive 906, Controlled Access Programs",
+"url": "https://web.archive.org/web/20250112183207/https://www.dni.gov/files/documents/ICD/ICD-906-Controlled-Access-Programs.pdf"
+}
+],
+"tier": "A",
+"type": "denial"
+},
+{
+"claimTier": 3,
+"cls": "program",
+"dateEnd": null,
+"dateStart": "1978",
+"direction": "out",
+"edgeLabel": "NISP oversight is the only government-wide window on contractor-held classified work",
+"id": "waived-usap",
+"l0": true,
+"label": "Waived unacknowledged special access program (waived USAP)",
+"note": "ISOO is 'responsible to the President for policy and oversight of the Government-wide security classification system and the National Industrial Security Program'. A contractor-held program with no government sponsor of record would be visible, if anywhere, through NISP - and ISOO has never been directed at the UAP question.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "National Archives - Information Security Oversight Office",
+"url": "https://www.archives.gov/isoo"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": null,
+"dateStart": "2009-12-29",
+"direction": "out",
+"edgeLabel": "The only external body with a claim of access, and the claim is conditional",
+"id": "waived-usap-mechanism",
+"l0": true,
+"label": "Waived Unacknowledged SAP (waived USAP) — the mechanism",
+"note": "E.O. 13526 sec. 4.3(b) affords the ISOO Director access to SAPs 'consistent with the policies and procedures directed by the President'.",
+"sources": [
+{
+"date": "2009-12-29",
+"name": "Executive Order 13526, Classified National Security Information",
+"url": "https://www.archives.gov/isoo/policy-documents/cnsi-eo.html"
+}
+],
+"tier": "A",
+"type": "investigative"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "1978",
+"deg": 7,
+"denials": [
+{
+"by": {
+"id": "odni-capco",
+"label": "ODNI Controlled Access Program Coordination Office (CAPCO)"
+},
+"claimTier": 1,
+"denialKind": "association",
+"label": "ISOO requests about IC controlled access programs are routed through CAPCO",
+"note": "ICD 906 section D.9.c makes CAPCO responsible for coordinating 'requests from the Information Security Oversight Office' about CAPs.",
+"of": {
+"id": "isoo",
+"label": "Information Security Oversight Office"
+},
+"sources": [
+{
+"date": "2024-12-19",
+"name": "Intelligence Community Directive 906, Controlled Access Programs",
+"url": "https://web.archive.org/web/20250112183207/https://www.dni.gov/files/documents/ICD/ICD-906-Controlled-Access-Programs.pdf"
+}
+]
+}
+],
+"desc": "ISOO is the office that is supposed to be able to count the secrets. Housed at the National Archives but 'responsible to the President for policy and oversight of the Government-wide security classification system and the National Industrial Security Program', ISOO derives its authority from Executive Order 13526 on Classified National Security Information and Executive Order 13556 on Controlled Unclassified Information, and it publishes an annual report to the President with statistics on classification and declassification activity across the executive branch - the FY2024 report being the most recent published as of this board. ISOO is the natural venue for the question this board asks, because the only government body chartered to audit whether the classification system is being used lawfully is ISOO, and ISOO's annual reports have for years documented that agencies self-report classification and declassification volumes with no independent verification. ISOO does not have unilateral access to special access program content; its oversight of SAPs runs through agency self-reporting and through the National Industrial Security Program on the contractor side, which is precisely the seam where a contractor-held program with no government sponsor of record would sit. No ISOO report has ever addressed UAP records as a category, and no ISOO director has testified at a UAP hearing.",
+"domains": [
+"w2-agencies"
+],
+"dossier": {
+"claims": [
+{
+"source": "Executive Order 13526, Sec. 5.2(a), Dec. 29, 2009, 75 F.R. 707 — https://www.archives.gov/isoo/policy-documents/cnsi-eo.html",
+"text": "The Information Security Oversight Office is established within the National Archives by Section 5.2(a) of Executive Order 13526, and its Director is appointed by the Archivist of the United States subject to the approval of the President.",
+"tier": 1
+},
+{
+"source": "Executive Order 13526, Sec. 4.3(b)(3) — https://www.archives.gov/isoo/policy-documents/cnsi-eo.html",
+"text": "E.O. 13526 Sec. 4.3(b)(3) permits an agency head to limit ISOO's access to a special access program to 'the Director of the Information Security Oversight Office and no more than one other employee of the Information Security Oversight Office or, for special access programs that are extraordinarily sensitive and vulnerable, to the Director only.'",
+"tier": 1
+},
+{
+"source": "Executive Order 13526, Sec. 5.2(b)(4) — https://www.archives.gov/isoo/policy-documents/cnsi-eo.html",
+"text": "E.O. 13526 Sec. 5.2(b)(4) provides that where an agency head recommends denial of ISOO access on grounds of 'exceptional national security risk,' the written justification goes to the President through the National Security Advisor within 60 days and 'Access shall be denied pending the response.'",
+"tier": 1
+},
+{
+"source": "Executive Order 13526, Sec. 4.3(b)(2) — https://www.archives.gov/isoo/policy-documents/cnsi-eo.html",
+"text": "Under E.O. 13526 Sec. 4.3(b)(2), the system of accounting for special access programs is maintained by each agency head, not by ISOO.",
+"tier": 1
+},
+{
+"source": "Executive Order 13526, Sec. 4.3(a) — https://www.archives.gov/isoo/policy-documents/cnsi-eo.html",
+"text": "Only the Secretaries of State, Defense, Energy and Homeland Security, the Attorney General, and the Director of National Intelligence, or the principal deputy of each, may create a special access program absent separate presidential authorization.",
+"tier": 1
+},
+{
+"source": "Executive Order 13526, Sec. 4.3(c) — https://www.archives.gov/isoo/policy-documents/cnsi-eo.html",
+"text": "E.O. 13526 Sec. 4.3(c) states in full: 'Nothing in this order shall supersede any requirement made by or under 10 U.S.C. 119,' preserving the statutory SAP reporting regime and its waiver mechanism intact against the classification order.",
+"tier": 1
+},
+{
+"source": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim",
+"text": "10 U.S.C. 119(e) authorizes the Secretary of Defense to waive, case by case, any requirement that specified information be included in a SAP report to the defense committees where inclusion 'would adversely affect the national security,' and to provide that information and the waiver justification only 'jointly to the chairman and ranking minority member of each of the defense committees.'",
+"tier": 1
+},
+{
+"source": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim (Statutory Notes, 'Termination of Reporting Requirements')",
+"text": "The annual SAP reporting requirements in 10 U.S.C. 119(a) and (b) were terminated effective 31 December 2021 by Section 1061 of Public Law 114-328, eliminating the recurring statutory inventory of DoD special access programs delivered to the defense committees.",
+"tier": 1
+},
+{
+"source": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim",
+"text": "10 U.S.C. 119(f) bars initiation of a special access program until the defense committees are notified and 30 days elapse — a notification requirement that survives the 2021 termination of the annual reports.",
+"tier": 1
+},
+{
+"source": "Executive Order 13526, Secs. 5.1(a) and 5.2(b)(8) — https://www.archives.gov/isoo/policy-documents/cnsi-eo.html",
+"text": "ISOO directives issued under E.O. 13526 Sec. 5.1(a) are 'binding on the agencies,' and Sec. 5.2(b)(8) requires the Director to report at least annually to the President on implementation of the order.",
+"tier": 1
+},
+{
+"source": "https://isoo-overview.blogs.archives.gov/2025/09/18/announcing-the-publication-of-isoos-fiscal-year-2024-annual-report-to-the-president/ ; report at https://www.archives.gov/files/isoo/reports/isoo-fy-2024-annual-report-final-508.pdf",
+"text": "ISOO transmitted its Fiscal Year 2024 Annual Report to the President in early August 2025 and publicly issued it on 18 September 2025; it was the first annual report of Director Michael D. Thomas's tenure and restructured ISOO's mission into four areas: Oversight and Compliance, Guidance and Implementation, Data Collection and Analysis, and Administration and Engagement.",
+"tier": 1
+},
+{
+"source": "https://www.archives.gov/isoo/reports/annual-report-archive.html ; see also https://isoo-overview.blogs.archives.gov/2025/09/18/announcing-the-publication-of-isoos-fiscal-year-2024-annual-report-to-the-president/ ('I studied our prior releases, dating all the way back to 1979')",
+"text": "ISOO's published annual reports run back to 1979, providing a continuous forty-five-year government-wide accounting of the classification system in which no recovery or exploitation program for non-human technology has been reported.",
+"tier": 2
+},
+{
+"source": "Executive Order 13526, Sec. 5.2(b)(6) — https://www.archives.gov/isoo/policy-documents/cnsi-eo.html",
+"text": "Under E.O. 13526 Sec. 5.2(b)(6), ISOO is required to 'consider and take action on complaints and suggestions from persons within or outside the Government' regarding administration of the classification program, providing a standing external channel that has not, on the public record, produced a UAP-related classification finding.",
+"tier": 1
+},
+{
+"source": "https://burlison.house.gov/media/press-releases/house-adopts-burlison-amendment-establishing-uap-disclosure-framework ; https://www.archives.gov/isoo",
+"text": "ISOO sits inside the same agency, NARA, that the FY2024 NDAA designated as custodian of the UAP Records Collection and that the FY2027 Burlison amendment would make the permanent home of that collection.",
+"tier": 2
+}
+],
+"connections": [
+"Michael D. Thomas, current ISOO Director, signatory of the FY2024 Annual Report to the President; predecessor Mark A. Bradley.",
+"Reports through the Archivist of the United States, who is also the statutory custodian of the UAP Records Collection under the FY2024 NDAA and under the Burlison FY2027 amendment.",
+"Directly linked to the Under Secretary of Defense for Intelligence and Security and the DoD Special Access Program Central Office (SAPCO), which run the DoD SAP accounting system that E.O. 13526 Sec. 4.3(b)(2) leaves in agency hands.",
+"The 10 U.S.C. 119(e) waiver channel routes SAP information to four individuals — the chairman and ranking member of the House and Senate Armed Services and Appropriations committees — which is the same narrow channel referenced in 50 U.S.C. 3373b(a)(4)(A) as the test for whether a program has been 'explicitly and clearly reported' to Congress.",
+"Chairs the National Industrial Security Program Policy Advisory Committee (NISPPAC), the contractor-facing side of the classification system and therefore the interface with the prime contractors named in reverse-engineering testimony.",
+"The Director serves as Executive Secretary of the Interagency Security Classification Appeals Panel (ISCAP) under E.O. 13526 Sec. 5.3(a)(4), the only body that can override an agency declassification denial."
+],
+"denialPosture": "ISOO does not deny the existence of a legacy program; it has never made an affirmative public statement on the subject either way. Its posture is structural silence — an annual report to the President that accounts for the classification system as agencies self-report it, produced by an office that E.O. 13526 permits any of six agency heads to lock out of the relevant compartment with a single memorandum to the National Security Advisor.",
+"narrative": "ISOO is the institution people point to when they say the classification system has oversight. Read the authorities and the picture inverts: ISOO is the institution that documents the boundary of what oversight cannot see.\n\nThe charter is Executive Order 13526, signed 29 December 2009. Section 5.2(a) places ISOO inside the National Archives and gives the Archivist the appointment power over its Director, subject to presidential approval. Section 5.2(b) lists nine functions: develop directives, oversee agency compliance, approve agency implementing regulations, conduct on-site reviews, review requests for original classification authority, take action on complaints, standardize forms, report annually to the President, and chair interagency meetings. Section 5.1(a) makes ISOO directives 'binding on the agencies.' On its face this is real authority.\n\nThen come the carve-outs, and they are written with unusual care.\n\nSection 5.2(b)(4) grants ISOO the authority to conduct on-site reviews of any agency program 'and to require of each agency those reports and information and other cooperation that may be necessary to fulfill its responsibilities.' The very next sentence is the trapdoor: 'If granting access to specific categories of classified information would pose an exceptional national security risk, the affected agency head or the senior agency official shall submit a written justification recommending the denial of access to the President through the National Security Advisor within 60 days of the request for access. Access shall be denied pending the response.' An agency head who wants to keep ISOO out of a compartment does not need to win an argument. He needs to file a paper and wait. Access is denied by default during the pendency, and the order sets no deadline for the President to respond.\n\nSection 4.3 is where the structure becomes specific to special access programs. Only six officials may create a SAP — the Secretaries of State, Defense, Energy and Homeland Security, the Attorney General, and the Director of National Intelligence, or the principal deputy of each. Section 4.3(b)(2) requires each agency head to 'establish and maintain a system of accounting for special access programs' — note that the accounting system is the agency's, not ISOO's. Section 4.3(b)(3) provides ISOO access, then caps it: 'An agency head may limit access to a special access program to the Director of the Information Security Oversight Office and no more than one other employee of the Information Security Oversight Office or, for special access programs that are extraordinarily sensitive and vulnerable, to the Director only.' A single human being, with no staff, no analysts, and no ability to delegate, is the entire oversight footprint for the most sensitive category of American secrecy.\n\nAnd then Section 4.3(c), one sentence, easy to skip: 'Nothing in this order shall supersede any requirement made by or under 10 U.S.C. 119.' Section 119 of Title 10 is the congressional SAP oversight statute. It requires annual reports to the defense committees identifying each SAP, its cost history, and its milestones — and subsection (e) lets the Secretary of Defense waive the content requirement 'if the Secretary determines that inclusion of that information in the report would adversely affect the national security,' delivering the information instead only 'jointly to the chairman and ranking minority member of each of the defense committees.' That is the statutory birth certificate of the waived SAP: a program known to four members of Congress and to no one else on the Hill. E.O. 13526 does not disturb it.\n\nThe oversight picture then gets worse, not better. The Office of Law Revision Counsel's note to 10 U.S.C. 119 records that the annual reporting requirements in subsections (a) and (b) — the SAP inventory and the new-program notification — were terminated effective 31 December 2021 by Section 1061 of Public Law 114-328. The one recurring, statutory, cross-committee accounting of DoD special access programs sunset four years ago, in the same window in which Congress was writing UAP oversight law on the assumption that unreported restricted-access programs existed.\n\nSo the analytical position is this. If a legacy recovery and reverse-engineering effort is carried as a waived unacknowledged SAP or under a non-DoD authority such as an Atomic Energy Act restricted-data compartment, ISOO would have no independent way to detect it. It has no access it cannot be denied, no staff it can bring, no inventory it maintains itself, and no statutory partner report to cross-check against since 2021. ISOO's annual report to the President — the FY2024 edition was transmitted in early August 2025 and publicly issued on 18 September 2025 by Director Michael D. Thomas, the first of his tenure, restructured around four areas of action — is an honest accounting of the classification system as agencies choose to describe it to ISOO.\n\nThat is the argument. ISOO is not a participant in concealment. ISOO is the measuring instrument that was built with a blind spot exactly the shape of the thing being hidden, and the blind spot was written into the order by the same executive branch that would be operating in it.",
+"openQuestions": [
+"How many times, if ever, has an agency head invoked the E.O. 13526 Sec. 5.2(b)(4) denial-of-access procedure against ISOO, and for which compartments? No public accounting of these filings has been identified.",
+"Whether ISOO's SAP oversight under Sec. 4.3(b)(3) has ever been exercised against a waived unacknowledged SAP, and whether any ISOO Director has ever been the single authorized reader of such a program.",
+"Whether the FY2024 or any prior ISOO annual report contains a count of special access programs across government; the reports were not read in full for this dossier.",
+"What replaced the terminated 10 U.S.C. 119(a) and (b) annual reports after 31 December 2021, if anything, and whether the defense committees receive any equivalent inventory today.",
+"Whether ISOO has any role in reviewing classification decisions applied to records transmitted to the NARA UAP Records Collection, or whether that review sits entirely with originating agencies.",
+"Whether restricted data compartments under the Atomic Energy Act of 1954 — which sit outside E.O. 13526's classification system entirely — are within ISOO's reach at all.",
+"Whether any ISOO Director has been briefed on a UAP-related program and, if so, whether that briefing appears in any ISOO record."
+],
+"roles": [
+"oversight",
+"concealment"
+],
+"whatItIs": "The Information Security Oversight Office, a component of the National Archives and Records Administration, established by Section 5.2 of Executive Order 13526 to develop implementing directives for the national security classification system, oversee agency compliance, and report at least annually to the President. Its Director is appointed by the Archivist of the United States subject to the approval of the President; the current Director is Michael D. Thomas, successor to Mark A. Bradley. ISOO is, on paper, the only government-wide civilian oversight body for classified information.",
+"whyImplicated": "ISOO is implicated by absence, not by action. In fifty years of annual reports to the President, ISOO has never reported the existence of a program engaged in the recovery or exploitation of non-human craft — and the reason is that the Executive Order that created ISOO also built the trapdoor through which such a program would fall. Section 4.3(b)(3) of E.O. 13526 says the ISOO Director 'shall be afforded access' to special access programs, then immediately permits an agency head to limit that access to the Director plus one employee, or, for programs deemed 'extraordinarily sensitive and vulnerable,' to the Director alone. Section 5.2(b)(4) goes further: an agency head who believes ISOO access would pose 'an exceptional national security risk' may recommend denial to the President through the National Security Advisor, and 'Access shall be denied pending the response.' The denial is self-executing. ISOO's oversight is therefore contingent on the consent of the agency being overseen. Every ISOO annual report is an accounting of the classification system that a concealed waived SAP would not appear in, and ISOO would not know it was missing."
+},
+"entityInfo": null,
+"era": "1",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "isoo",
+"l0": true,
+"label": "Information Security Oversight Office",
+"locLabel": null,
+"members": [
+{
+"cls": "document",
+"id": "capco-register",
+"label": "CAP Registry / CAPCO Register of control systems, compartments and sub-compartments",
+"tier": "B"
+},
+{
+"cls": "domain",
+"id": "d-structure",
+"label": "Program structure and organisational mapping",
+"tier": "C"
+},
+{
+"cls": "institution",
+"id": "odni-capco",
+"label": "ODNI Controlled Access Program Coordination Office (CAPCO)",
+"tier": "A"
+}
+],
+"short": "Information Security Oversight Office",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "National Archives - Information Security Oversight Office",
+"url": "https://www.archives.gov/isoo"
+}
+],
+"sub": "NARA component responsible to the President for the government-wide classification system",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 544 of 1027, score 28). 7 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D2.",
+"timeline": []
+}

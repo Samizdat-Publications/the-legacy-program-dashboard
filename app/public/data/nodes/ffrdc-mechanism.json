@@ -1,0 +1,170 @@
+{
+"A": 3,
+"C": 2,
+"D": 3,
+"band": null,
+"claims": [
+{
+"source": "MITRE Corporation official website, retrieved 12 August 2026 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"text": "MITRE operates six FFRDCs across defence and intelligence, aviation, civil systems, homeland security, health and cybersecurity, and describes itself as providing long-term strategic partnership and stability to government sponsors.",
+"tier": 2
+},
+{
+"source": "UAP Gerb, MITRE investigation, 7 August 2026",
+"text": "FFRDCs allow the government to technically vest programs outside the USG while retaining strict control over materials, breakthroughs, data and programs, and arbitrate what defense contractors are told about UFO programs.",
+"tier": 2
+},
+{
+"source": "NewsNation Reality Check chapter summary, 4 August 2026 (17:00)",
+"text": "Ross Coulthart devoted a dedicated segment of his 4 August 2026 Reality Check episode to 'FFRDCs, U-Arcs, and GOCOs' as the vehicle of the legacy program.",
+"tier": 2
+},
+{
+"source": "Inference from the documented FFRDC charter model; no primary record establishes such use.",
+"text": "The FFRDC model's prohibition on competing with industry, combined with single-sponsor loyalty and permanent institutional memory, would make it the optimal container for a programme intended to outlive every administration that oversees it.",
+"tier": 3
+}
+],
+"cls": "domain",
+"cluster": "contractor",
+"connections": [
+{
+"claimTier": 2,
+"cls": "document",
+"dateEnd": "2026",
+"dateStart": "1958",
+"direction": "in",
+"edgeLabel": "Establishes the FFRDC arbitration thesis",
+"id": "gerb-mitre-investigation",
+"l0": true,
+"label": "UAP Gerb - The MITRE Corporation investigation",
+"note": "Gerb's central structural claim: FFRDCs let the government vest programs outside the USG while retaining control of materials and data, and arbitrate what defense contractors are told about UFO programs.",
+"sources": [
+{
+"date": "2026-08-07",
+"name": "UAP Gerb - The MITRE Corporation investigation",
+"url": "https://www.youtube.com/watch?v=107BtDYhTkA"
+}
+],
+"tier": "B",
+"type": "programmatic"
+},
+{
+"claimTier": 2,
+"cls": "program",
+"dateEnd": "2026",
+"dateStart": "1994",
+"direction": "in",
+"edgeLabel": "The 1994 SAP restructuring vested control in a quasi-industry group",
+"id": "manhattan-project-2",
+"l0": true,
+"label": "'Manhattan Project 2.0' (alleged secrecy architecture)",
+"note": "Gerb argues the 1994 restructuring of the SAP enterprise permanently vested the portfolio in a quasi-government and industry control group - the point at which the FFRDC and contractor layer becomes the locus of control rather than the government.",
+"sources": [
+{
+"date": "2026-05-01",
+"name": "UAP Gerb - 'The Manhattan Project 2.0' Vol.1",
+"url": "https://www.youtube.com/watch?v=jR-h5p2bd-A"
+},
+{
+"date": "2026-06-19",
+"name": "UAP Gerb - 'Special Access Required' Vol.2",
+"url": "https://www.youtube.com/watch?v=6MsmPrpQqa8"
+}
+],
+"tier": "A",
+"type": "programmatic"
+},
+{
+"claimTier": 2,
+"cls": "institution",
+"dateEnd": "2026",
+"dateStart": "1958",
+"direction": "out",
+"edgeLabel": "MITRE is the exemplar instance of the mechanism",
+"id": "mitre-corporation",
+"l0": true,
+"label": "The MITRE Corporation",
+"note": "MITRE operates six FFRDCs and describes itself as providing long-term strategic partnership and stability to government sponsors - the documented properties on which the concealment thesis rests.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "MITRE Corporation - official site",
+"url": "https://www.mitre.org/"
+},
+{
+"date": "2026-08-07",
+"name": "UAP Gerb - The MITRE Corporation investigation",
+"url": "https://www.youtube.com/watch?v=107BtDYhTkA"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 2,
+"cls": "program",
+"dateEnd": "2026",
+"dateStart": "2026",
+"direction": "in",
+"edgeLabel": "Dedicated segment 'FFRDCs, U-Arcs, and GOCOs' at 17:00",
+"id": "newsnation-reality-check",
+"l0": false,
+"label": "Reality Check with Ross Coulthart (NewsNation)",
+"note": "The 4 August 2026 episode gave the FFRDC/UARC/GOCO mechanism its own broadcast segment - the first time the corporate-containment thesis was treated as a discrete topic on US cable news.",
+"sources": [
+{
+"date": "2026-08-04",
+"name": "NewsNation Reality Check - 'Inside Kona Blue'",
+"url": "https://www.youtube.com/watch?v=F2NfXgv8x1E"
+}
+],
+"tier": "C",
+"type": "investigative"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "1947",
+"deg": 4,
+"denials": [],
+"desc": "This is the structural core of the entire domain: the claim that Federally Funded Research and Development Centers, University Affiliated Research Centers and Government-Owned Contractor-Operated facilities are the legal and corporate vehicle by which the recovery and exploitation effort is held outside the federal government while remaining under federal control. The mechanism as described has three properties, each of which is independently useful to a concealer. First, vesting: work performed inside a non-profit FFRDC is not performed by federal employees, so it sits outside much of the federal records, FOIA and personnel apparatus while the sponsoring agency retains ownership of materials and data. Second, arbitration: the FFRDC sits between the government and the primes and decides what the primes are told, which means no single defense contractor ever holds the whole picture and none can be subpoenaed into producing it. Third, continuity: FFRDCs are chartered for long-term strategic partnership with a single sponsor and are prohibited from competing with industry, giving them institutional memory and a conflict-free posture that a rotating political appointee cannot disturb. UAP Gerb advances MITRE as the exemplar and names the same mechanism across the Aerospace Corporation, Sandia and RAND; Ross Coulthart devoted a segment of his 4 August 2026 Reality Check to 'FFRDCs, U-Arcs, and GOCOs'. What makes this the most auditable claim on the board is that the mechanism is entirely real and entirely documented - MITRE genuinely operates six FFRDCs, the vesting and arbitration properties are genuine features of the model - so the only contested proposition is what is inside it, not whether the container exists.",
+"domains": [
+"media-structure"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "ffrdc-mechanism",
+"l0": false,
+"label": "The FFRDC / UARC / GOCO mechanism",
+"locLabel": null,
+"members": null,
+"short": "The FFRDC / UARC / GOCO mechanism",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "MITRE Corporation - official site",
+"url": "https://www.mitre.org/"
+},
+{
+"date": "2026-08-07",
+"name": "UAP Gerb - The MITRE Corporation investigation",
+"url": "https://www.youtube.com/watch?v=107BtDYhTkA"
+},
+{
+"date": "2026-08-04",
+"name": "NewsNation Reality Check - Kona Blue episode",
+"url": "https://www.youtube.com/watch?v=F2NfXgv8x1E"
+}
+],
+"sub": "Alleged legal-corporate concealment vehicle",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 249 of 1027, score 40). 4 connections, 2 of them custody/witness/funding/programmatic. Axes C2/A3/D3.",
+"timeline": []
+}

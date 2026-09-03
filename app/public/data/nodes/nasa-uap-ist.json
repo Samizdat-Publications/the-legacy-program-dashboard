@@ -1,0 +1,394 @@
+{
+"A": 1,
+"C": 0,
+"D": 3,
+"band": "research",
+"claims": [
+{
+"source": "NASA UAP Independent Study Team Final Report; NASA UAP program page",
+"text": "The team was chaired by David Spergel with Daniel Evans as designated federal official, and its final report was released 14 September 2023.",
+"tier": 1
+},
+{
+"source": "NASA UAP Independent Study Team Final Report, 14 September 2023",
+"text": "'Analysis of UAP data is hampered by poor sensor calibration, the lack of multiple measurements, the lack of sensor metadata.'",
+"tier": 1
+},
+{
+"source": "NASA UAP Independent Study Team Final Report, 14 September 2023",
+"text": "The report recommends enhancing the Aviation Safety Reporting System for commercial pilot UAP reporting and developing crowdsourced smartphone-based citizen reporting.",
+"tier": 1
+},
+{
+"source": "The Debrief, 14 September 2023",
+"text": "NASA announced a Director of UAP Research at the 14 September 2023 briefing without naming the appointee; a subsequent statement identified Mark McInerney.",
+"tier": 1
+}
+],
+"cls": "program",
+"cluster": "research",
+"connections": [
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2023",
+"direction": "in",
+"edgeLabel": "Shared reporting-reform agenda: ASRS and FAA pilot reporting",
+"id": "americans-for-safe-aerospace",
+"l0": true,
+"label": "Americans for Safe Aerospace",
+"note": "The NASA study team recommended enhancing the Aviation Safety Reporting System for commercial pilot UAP reporting; ASA performs the equivalent intake function for aircrew outside the chain of command.",
+"sources": [
+{
+"date": "2023-09-14",
+"name": "NASA UAP Independent Study Team Final Report (PDF)",
+"url": "https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf"
+},
+{
+"date": "2023-07-26",
+"name": "House Oversight - Graves written testimony (PDF)",
+"url": "https://oversight.house.gov/wp-content/uploads/2023/07/Ryan-HOC-Testimony.pdf"
+}
+],
+"tier": "B",
+"type": "programmatic"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2023",
+"dateStart": "2022",
+"direction": "in",
+"edgeLabel": "Panel worked under sustained public harassment",
+"id": "david-spergel",
+"l0": false,
+"label": "David N. Spergel",
+"note": "Gold testified that designated federal officer Daniel Evans 'did an amazing job under difficult conditions' - the euphemism recording the abuse the panel absorbed.",
+"sources": [
+{
+"date": "2024-11-13",
+"name": "House Oversight - Gold written testimony (PDF)",
+"url": "https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Gold.pdf"
+}
+],
+"tier": "B",
+"type": "behavioral"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "2023",
+"dateStart": "2022",
+"direction": "in",
+"edgeLabel": "Chaired the NASA UAP Independent Study Team",
+"id": "david-spergel",
+"l0": false,
+"label": "David N. Spergel",
+"note": "Spergel chaired the sixteen-member panel whose final report was released 14 September 2023.",
+"sources": [
+{
+"date": "2023-09-14",
+"name": "NASA UAP Independent Study Team Final Report (PDF)",
+"url": "https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "2023",
+"dateStart": "2022",
+"direction": "in",
+"edgeLabel": "Member of the study team",
+"id": "michael-gold",
+"l0": false,
+"label": "Michael Gold",
+"note": "Gold is listed among the team's members and later testified to Congress on its findings.",
+"sources": [
+{
+"date": "2023-09-14",
+"name": "NASA UAP Independent Study Team Final Report (PDF)",
+"url": "https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf"
+},
+{
+"date": "2024-11-13",
+"name": "House Oversight - Gold written testimony (PDF)",
+"url": "https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Gold.pdf"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "2023-09-14",
+"dateStart": "2022-06-09",
+"direction": "in",
+"edgeLabel": "NASA chartered and published the Independent Study Team report",
+"id": "nasa",
+"l0": true,
+"label": "National Aeronautics and Space Administration",
+"note": "The 16-member panel reported on 14 September 2023 with findings on data curation, satellite assets and the classification obstacle.",
+"sources": [
+{
+"date": "2023-09-14",
+"name": "NASA UAP Independent Study Team Report",
+"url": "https://smd-cms.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf"
+}
+],
+"tier": "B",
+"type": "programmatic"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "2023",
+"dateStart": "2023",
+"direction": "in",
+"edgeLabel": "NASA science chief at the report release briefing",
+"id": "nicola-fox",
+"l0": false,
+"label": "Nicola J. Fox",
+"note": "Fox appeared at the 14 September 2023 briefing where NASA announced a Director of UAP Research without naming the appointee.",
+"sources": [
+{
+"date": "2023-09-14",
+"name": "The Debrief - NASA IST publishes findings, agency appoints UAP research director",
+"url": "https://thedebrief.org/nasas-uap-independent-study-team-publishes-its-findings-as-the-agency-appoints-a-new-nasa-director-of-uap-research/"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "2023",
+"dateStart": "2021",
+"direction": "out",
+"edgeLabel": "Both diagnose the same evidentiary deficit",
+"id": "odni-preliminary-assessment-2021",
+"l0": true,
+"label": "ODNI Preliminary Assessment: Unidentified Aerial Phenomena (25 June 2021)",
+"note": "ODNI: military sensors 'are not generally suited for identifying UAP.' NASA: analysis is 'hampered by poor sensor calibration, the lack of multiple measurements, the lack of sensor metadata.'",
+"sources": [
+{
+"date": "2021-06-25",
+"name": "ODNI Preliminary Assessment: Unidentified Aerial Phenomena (PDF)",
+"url": "https://archive.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf"
+},
+{
+"date": "2023-09-14",
+"name": "NASA UAP Independent Study Team Final Report (PDF)",
+"url": "https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf"
+}
+],
+"tier": "A",
+"type": "investigative"
+},
+{
+"claimTier": 2,
+"cls": "program",
+"dateEnd": "2026",
+"dateStart": "2026",
+"direction": "in",
+"edgeLabel": "Metadata stripping defeats the study team's core recommendation",
+"id": "pursue-releases",
+"l0": true,
+"label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters",
+"note": "NASA's panel identified missing sensor metadata as the principal obstacle to analysis; the 2026 releases removed exactly that metadata before publication.",
+"sources": [
+{
+"date": "2026-05-13",
+"name": "SCU - PURSUE Release #1 falls short of scientific transparency",
+"url": "https://www.explorescu.org/post/scientific-coalition-for-uap-studies-finds-pursue-release-1-falls-short-of-scientific-transparency"
+},
+{
+"date": "2023-09-14",
+"name": "NASA UAP Independent Study Team Final Report (PDF)",
+"url": "https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf"
+}
+],
+"tier": "A",
+"type": "behavioral"
+}
+],
+"coords": null,
+"dateEnd": "2023",
+"dateStart": "2022",
+"deg": 7,
+"denials": [],
+"desc": "A sixteen-member independent study team convened by NASA in 2022 and chaired by astrophysicist David Spergel, with a public meeting on 31 May 2023 and a final report released on 14 September 2023. Members included Anamaria Berea, Federica Bianco, Reggie Brothers, Paula Bontempi, Jennifer Buss, Nadia Drake, Mike Gold, David Grinspoon, Capt. Scott Kelly USN (Ret.), Matt Mountain, Warren Randolph (FAA), Walter Scott, Joshua Semeter, Karlin Toner (FAA) and Shelley Wright, with Daniel Evans as designated federal officer. The report's operative finding is about data quality, not phenomenology: 'Analysis of UAP data is hampered by poor sensor calibration, the lack of multiple measurements, the lack of sensor metadata.' Its recommendations are the aviator strand's policy agenda - enhance the Aviation Safety Reporting System for commercial pilot UAP reporting, apply machine learning to curated datasets, build FAIR data repositories, partner with commercial remote sensing, and advance air traffic management detection. At the release briefing NASA announced it had appointed a Director of UAP Research and declined to name the appointee; subsequent reporting identified Mark McInerney. Mike Gold later told Congress the study's designated federal officer had worked 'under difficult conditions,' the panel having absorbed public harassment throughout.",
+"domains": [
+"aviators-incidents"
+],
+"dossier": {
+"claims": [
+{
+"source": "NASA, 'Unidentified Anomalous Phenomena Independent Study Team Report,' 14 September 2023, front matter — https://smd-cms.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf",
+"text": "The NASA UAP Independent Study Team was chaired by Dr. David Spergel of the Simons Foundation, with Dr. Daniel Evans of NASA Headquarters as Designated Federal Official, and comprised 16 members.",
+"tier": 1
+},
+{
+"source": "NASA UAP Independent Study Team Report, 14 September 2023, member list — https://smd-cms.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf",
+"text": "Panel membership included two Federal Aviation Administration officials (Warren Randolph and Dr. Karlin Toner), Dr. Walter Scott of Maxar Technologies, Mr. Mike Gold of Redwire Space, and Dr. Reggie Brothers of AE Industrial Partners, alongside academic and journalist members.",
+"tier": 1
+},
+{
+"source": "NASA UAP Independent Study Team Report, 14 September 2023 — https://smd-cms.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf",
+"text": "The report states that much of the data collected by military sensors or intelligence satellites is classified 'often because of what the imagery could reveal about U.S. technical capabilities to our adversaries, and not because of what is actually in the images,' and that 'these classified observations enhance the sense of mystery and conspiracy surrounding UAP, and they present an obstacle to scientific inquiry.'",
+"tier": 1
+},
+{
+"source": "NASA UAP Independent Study Team Report, 14 September 2023 — https://smd-cms.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf",
+"text": "The report's evidentiary conclusion is bounded to the open literature: 'To date, in the peer-reviewed scientific literature, there is no conclusive evidence suggesting an extraterrestrial origin for UAP.'",
+"tier": 1
+},
+{
+"source": "NASA UAP Independent Study Team Report, 14 September 2023, 'Organization of this Report' — https://smd-cms.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf",
+"text": "The team deliberated its sub-panel reports in full at a public meeting held on 31 May 2023.",
+"tier": 1
+},
+{
+"source": "NASA UAP Independent Study Team Report, 14 September 2023 — https://smd-cms.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf",
+"text": "The report records that Dr. Sean Kirkpatrick reported at the panel's public meeting that AARO had collected more than 800 reported events, including FAA data, against 263 reports filed in the 17 years prior to March 2021.",
+"tier": 1
+},
+{
+"source": "NASA UAP Independent Study Team Report, 14 September 2023 — https://smd-cms.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf",
+"text": "The report documents that Study Team members received hate mail from colleagues due to their membership, were ridiculed and criticized on social media, and had firsthand knowledge of colleagues warned to stay away from extraterrestrial technosignature research because it 'could damage their scientific credibility and promotion potential.'",
+"tier": 1
+},
+{
+"source": "NASA UAP Independent Study Team Report, 14 September 2023, Acknowledgments — https://smd-cms.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf",
+"text": "The activity was administratively hosted by NASA's Earth Science Division under the Earth Science Advisory Committee, not by the Astrophysics or Planetary Science divisions.",
+"tier": 1
+},
+{
+"source": "NASA UAP Independent Study Team Report, 14 September 2023, Acknowledgments — https://smd-cms.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf",
+"text": "The report's acknowledgments name Administrator Bill Nelson, Science Mission Directorate Associate Administrator Dr. Nicky Fox and her predecessor Dr. Thomas Zurbuchen, and NASA UAP Press Secretary Katherine Rohloff.",
+"tier": 1
+},
+{
+"source": "NASA UAP Independent Study Team Report, 14 September 2023, Conclusions — https://smd-cms.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf",
+"text": "The panel recommended NASA use its Earth-observing assets to probe environmental conditions associated with UAP detected by other means and 'explore enhancing collaborations with the U.S. commercial remote-sensing industry, which offer powerful constellations of high-resolution Earth-observing satellites.'",
+"tier": 1
+},
+{
+"source": "NASA UAP Independent Study Team Report, 14 September 2023, Conclusions — https://smd-cms.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf",
+"text": "The panel recommended that the Aviation Safety Reporting System for commercial pilot UAP reporting be better leveraged as 'a critical database for the whole-of-government effort to understand UAP.'",
+"tier": 1
+},
+{
+"source": "The Hill, 'NASA identifies UFO chief despite threat concerns,' 14 September 2023 — https://thehill.com/homenews/administration/4207099-nasa-identifies-ufo-chief-despite-threat-concerns/; Space.com, 'NASA appoints new head of UFO research' — https://www.space.com/nasa-names-head-of-uap-research",
+"text": "On 14 September 2023 NASA announced a Director of UAP Research and Administrator Bill Nelson said the identity would be withheld to prevent harassment; NASA reversed the same day and identified the appointee as Mark McInerney, a former NASA liaison to the Pentagon on UAP matters.",
+"tier": 2
+},
+{
+"source": "NASA UAP Independent Study Team Report, 14 September 2023, Executive Summary and Framework of Recommendations — https://smd-cms.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf",
+"text": "The panel's charge and data basis were limited to unclassified sources: civilian government, commercial and other open data, with the report situating NASA's role inside a whole-of-government framework led by AARO.",
+"tier": 1
+},
+{
+"source": "50 U.S.C. 3373(c)(6) — https://uscode.house.gov/view.xhtml?req=%28title%3A50+section%3A3373+edition%3Aprelim%29; Burlison to MITRE, 22 May 2026, Enclosure Section II.3 — https://burlison.house.gov/sites/evo-subsites/burlison.house.gov/files/evo-media-document/mitre_uap-legislative-interrogatories_press.pdf",
+"text": "NASA is a statutorily named coordination partner for AARO under 50 U.S.C. 3373(c)(6), and Rep. Burlison's 22 May 2026 MITRE interrogatories demand identification of all UAP-related MITRE work performed for or with NASA.",
+"tier": 1
+}
+],
+"connections": [
+"AARO and Sean Kirkpatrick — briefed the panel's 31 May 2023 public meeting with the 800-plus event figure; the report positions NASA as a contributor to AARO's whole-of-government framework.",
+"Federal Aviation Administration — supplied two panel members (Randolph, Toner) and owns the Aviation Safety Reporting System that NASA operates and the panel recommended leveraging.",
+"Maxar Technologies, Redwire Space, AE Industrial Partners — commercial space and defense-investment firms represented on the panel by Walter Scott, Mike Gold and Reggie Brothers respectively; the panel's central data recommendation points at commercial remote-sensing constellations.",
+"Mark McInerney — named 14 September 2023 as NASA Director of UAP Research after NASA reversed its decision to withhold the name; previously NASA's liaison to the Pentagon on UAP.",
+"Bill Nelson, Nicola Fox, Thomas Zurbuchen, Daniel Evans, Katherine Rohloff — the NASA chain that chartered, hosted and communicated the study.",
+"50 U.S.C. 3373(c)(6) — the statutory hook requiring AARO-NASA coordination.",
+"Rep. Eric Burlison's MITRE interrogatories — treat NASA as one of the sponsors whose UAP-related contractor work must be enumerated.",
+"David Spergel — panel chair, president of the Simons Foundation; the only figure bridging the NASA panel and the broader astrophysics community's engagement with the question."
+],
+"denialPosture": "NASA's posture is not denial but bounded agnosticism: the report asserts only that the peer-reviewed literature contains no conclusive evidence of extraterrestrial origin, while simultaneously stating that the relevant military and intelligence data are classified and inaccessible. NASA's initial decision to withhold the name of its own UAP research director, reversed within hours, is a concealment artifact in its own right.",
+"narrative": "NASA's Independent Study Team was born of a specific institutional bet: that the agency with the most public trust and the least security baggage could drag UAP into normal science. The bet was placed by Administrator Bill Nelson and executed by the Science Mission Directorate under Nicola Fox, following her predecessor Thomas Zurbuchen, with the activity graciously hosted, in the report's own words, by NASA's Earth Science Division under the Earth Science Advisory Committee. That administrative placement is worth pausing on: a panel about unidentified objects in the airspace was parked in the division that studies the planet's surface and atmosphere. It kept the activity out of astrophysics and out of anything that would have implied a search for technology.\n\nThe roster reads as a deliberate coalition of civilian instrumentation. Chair David Spergel of the Simons Foundation. Anamaria Berea of George Mason, Federica Bianco of Delaware, Paula Bontempi of Rhode Island, Jennifer Buss of the Potomac Institute for Policy Studies, science journalist Nadia Drake, David Grinspoon of the Planetary Science Institute, retired astronaut Captain Scott Kelly, Matt Mountain of AURA, Joshua Semeter of Boston University, and Shelley Wright of UC San Diego. Then the operators: Warren Randolph and Karlin Toner from the Federal Aviation Administration, Walter Scott from Maxar Technologies, Mike Gold from Redwire Space, and Reggie Brothers from AE Industrial Partners. Two FAA officials, one commercial satellite imaging executive, one space infrastructure executive, and one defense-focused private equity operator who had previously been Under Secretary for Science and Technology at DHS. If the panel's recommendations pointed anywhere, they pointed at data these institutions own.\n\nAnd they did. The report recommends NASA leverage its Earth-observing assets to probe local environmental conditions associated with UAP detected by other means, and 'explore enhancing collaborations with the U.S. commercial remote-sensing industry, which offer powerful constellations of high-resolution Earth-observing satellites.' It recommends multispectral and hyperspectral acquisition, AI and machine learning applied to anomaly detection, a crowdsourcing system built on open-source smartphone apps, and better leveraging of the Aviation Safety Reporting System, which NASA operates for the FAA, as 'a critical database for the whole-of-government effort.' Every one of those recommendations routes future UAP data through civilian and commercial channels rather than military ones. Read charitably, that is a strategy for building an evidentiary base outside the classification perimeter. Read uncharitably, it is a strategy for building an evidentiary base that will never intersect the classification perimeter.\n\nThe panel's own frustration surfaces in the passage that matters most. Discussing why existing observations cannot resolve UAP, the report states: 'In addition, much of the data collected by military sensors or intelligence satellites are classified—often because of what the imagery could reveal about U.S. technical capabilities to our adversaries, and not because of what is actually in the images. While essential for security, these classified observations enhance the sense of mystery and conspiracy surrounding UAP, and they present an obstacle to scientific inquiry.' A federal advisory panel wrote, in a public report, that the government's classification practice is manufacturing the appearance of a cover-up and blocking the science that would dispel it. That sentence is a finding about the concealment architecture, delivered by scientists who could not see inside it.\n\nOn the evidence question the report is careful and narrow: 'To date, in the peer-reviewed scientific literature, there is no conclusive evidence suggesting an extraterrestrial origin for UAP.' The qualifier is doing work — peer-reviewed literature is precisely the corpus from which classified holdings are absent. The panel also recorded that then-AARO Director Sean Kirkpatrick reported at its 31 May 2023 public meeting that AARO had collected more than 800 reported events, against 263 reports filed in the 17 years before March 2021.\n\nThe cost of participation is documented in the report itself: team members received hate mail from colleagues, were ridiculed and criticized on social media, and had firsthand knowledge of colleagues warned away from technosignature research on the grounds that it could damage scientific credibility and promotion prospects. On 14 September 2023 NASA announced the creation of a Director of UAP Research and Administrator Nelson said the identity would be withheld to prevent harassment. NASA reversed within hours and named Mark McInerney, a former NASA liaison to the Department of Defense on UAP matters. The reversal is instructive twice over: it shows the agency's first instinct was concealment framed as protection, and it shows how quickly that instinct collapsed under press pressure — which is not how the Department of Defense's instances of the same instinct have behaved.\n\nThe statutory tie is direct. 50 U.S.C. 3373(c)(6) requires AARO to coordinate with NASA, among other agencies. Burlison's 22 May 2026 MITRE interrogatories demand identification of all UAP-related work MITRE performed for or with NASA. NASA sits inside the legal architecture of the program question while its own expert panel sat outside the data.",
+"openQuestions": [
+"Did any panel member hold clearances permitting review of AARO or SAP-controlled material, or was the entire panel unclassified? The report describes unclassified sourcing but does not state member clearance status.",
+"Who selected the sixteen members, and against what criteria did three commercial space and defense-investment executives and two FAA officials join a scientific advisory panel?",
+"What did NASA's Terms of Reference — the eight charge elements the report responds to — actually say? The full Terms of Reference text is not reproduced in the public report summary.",
+"Which colleagues warned other scientists away from technosignature research, and were any of those warnings institutional rather than personal?",
+"Has NASA implemented any of the panel's recommendations — commercial remote-sensing collaboration, crowdsourced smartphone data, ASRS integration — and with what budget line?",
+"What UAP-related work, if any, has MITRE or another FFRDC performed for NASA? Burlison asked; no answer is public.",
+"Who made the initial decision to withhold the UAP research director's name, and on what threat assessment?"
+],
+"roles": [
+"research",
+"disclosure",
+"oversight"
+],
+"whatItIs": "The NASA Unidentified Anomalous Phenomena Independent Study Team was a 16-member external panel convened by NASA in 2022 under the Earth Science Advisory Committee, chaired by astrophysicist David Spergel of the Simons Foundation, with Dr. Daniel Evans of NASA Headquarters as Designated Federal Official. It held a single public meeting on 31 May 2023 and delivered its final report on 14 September 2023. On the same day NASA created a Director of UAP Research position and initially declined to name the appointee.",
+"whyImplicated": "The panel is a study in the shape of a hole. It was chartered to advise NASA on UAP using only unclassified civilian, commercial and open-source data, and it says so plainly — which means the one body assembled to bring scientific rigor to the question was structurally barred from the classified holdings where the question actually lives. Its report says the quiet part in print: military and intelligence sensor data are classified 'often because of what the imagery could reveal about U.S. technical capabilities to our adversaries, and not because of what is actually in the images,' and that these classified observations 'enhance the sense of mystery and conspiracy surrounding UAP, and they present an obstacle to scientific inquiry.' That is a federally chartered panel, in an official NASA publication, stating that classification is generating the appearance of concealment. Three of its sixteen members came from commercial remote-sensing, space-hardware and private-equity defense firms — Maxar, Redwire and AE Industrial Partners — and two from the FAA, making the panel a map of who holds the civilian sensor data that would matter. And the harassment record around the panel and the withheld name of NASA's UAP research director are themselves artifacts: the cost of association was high enough that the agency initially treated the identity of a civil servant as a security matter."
+},
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "nasa-uap-ist",
+"l0": true,
+"label": "NASA UAP Independent Study Team",
+"locLabel": null,
+"members": [
+{
+"cls": "person",
+"id": "david-spergel",
+"label": "David N. Spergel",
+"tier": "B"
+},
+{
+"cls": "person",
+"id": "michael-gold",
+"label": "Michael Gold",
+"tier": "B"
+},
+{
+"cls": "person",
+"id": "nicola-fox",
+"label": "Nicola J. Fox",
+"tier": "C"
+}
+],
+"short": "NASA UAP Independent Study Team",
+"sources": [
+{
+"date": "2023-09-14",
+"name": "NASA UAP Independent Study Team Final Report (PDF)",
+"url": "https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf"
+},
+{
+"date": "2026-08-12",
+"name": "NASA - UAP program page",
+"url": "https://science.nasa.gov/uap/"
+},
+{
+"date": "2023-09-14",
+"name": "The Debrief - NASA IST publishes findings, agency appoints UAP research director",
+"url": "https://thedebrief.org/nasas-uap-independent-study-team-publishes-its-findings-as-the-agency-appoints-a-new-nasa-director-of-uap-research/"
+}
+],
+"sub": "Federal advisory study team, 2022-2023",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 335 of 1027, score 35). 8 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A1/D3.",
+"timeline": [
+{
+"date": "2023-09-14",
+"id": "av-2023-09-14",
+"label": "NASA report released; director unnamed",
+"precision": "day",
+"strand": "oversight",
+"text": "The UAP Independent Study Team report finds analysis 'hampered by poor sensor calibration, the lack of multiple measurements, the lack of sensor metadata.' NASA announces a Director of UAP Research and declines to name him at the briefing.",
+"tier": "A"
+}
+]
+}

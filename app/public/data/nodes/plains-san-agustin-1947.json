@@ -1,0 +1,161 @@
+{
+"A": 0,
+"C": 2,
+"D": 1,
+"band": null,
+"claims": [
+{
+"source": "The Roswell Report: Case Closed (1997), Section 1.1 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"text": "The Air Force's 1997 report states the San Agustin claim is supported by three principal testimonies, two second-hand (Maltais, Knight) and one first-hand (Anderson), and that the original alleged eyewitness Grady L. Barnett is deceased.",
+"tier": 2
+},
+{
+"source": "The Roswell Report: Case Closed (1997), Section 1.4 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"text": "The report proposes that the witnesses may have confused the Plains of San Agustin with San Agustin Pass or San Agustin Peak, areas just outside White Sands Missile Range and the Jornada Test Range where numerous anthropomorphic dummy balloon flights terminated and were recovered.",
+"tier": 2
+},
+{
+"source": "Rodeghier and Whiting (1992), cited at note 123 of the 1997 Air Force report",
+"text": "Mark Rodeghier (CUFOS) and Fred Whiting (Fund for UFO Research) published 'The Plains of San Agustin Controversy' in 1992, an investigation by the two leading civilian research bodies that concluded against their own first-hand witness.",
+"tier": 2
+},
+{
+"source": "Stringfield, Status Report VII (February 1994), Roswell Crash/Retrieval Update",
+"text": "Stringfield's Status Report VII records a source placing the 1947 event just north of Roswell and not on the Plains of San Augustin.",
+"tier": 2
+}
+],
+"cls": "event",
+"cluster": "witness",
+"connections": [
+{
+"claimTier": 3,
+"cls": "person",
+"dateEnd": "1969",
+"dateStart": "1947-07",
+"direction": "in",
+"edgeLabel": "Originating but never-interviewed eyewitness",
+"id": "barney-barnett",
+"l0": false,
+"label": "Grady L. 'Barney' Barnett",
+"note": "Every account of Barnett's experience is second-hand, relayed by Vern Maltais and Alice Knight after his death in 1969. Reasoning: no first-hand statement in any medium exists.",
+"sources": [
+{
+"date": "1997-01-01",
+"name": "The Roswell Report: Case Closed (1997)",
+"url": "https://archive.org/details/AFD-101027-030"
+}
+],
+"tier": "C",
+"type": "witness-chain"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "1992",
+"dateStart": "1990",
+"direction": "in",
+"edgeLabel": "Sole claimed first-hand witness to the San Agustin site",
+"id": "gerald-anderson",
+"l0": false,
+"label": "Gerald Anderson",
+"note": "Anderson came forward in 1990; the Air Force's 1997 report identifies him as the one first-hand testimony among the three supporting the claim.",
+"sources": [
+{
+"date": "1997-01-01",
+"name": "The Roswell Report: Case Closed (1997)",
+"url": "https://archive.org/details/AFD-101027-030"
+}
+],
+"tier": "C",
+"type": "witness-chain"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "1997",
+"dateStart": "1997",
+"direction": "in",
+"edgeLabel": "Air Force proposes San Agustin Pass confusion and dummy recoveries",
+"id": "roswell-report-case-closed",
+"l0": true,
+"label": "The Roswell Report: Case Closed (1997)",
+"note": "Section 1.4 argues that Maltais and Knight may have confused the Plains with San Agustin Pass or Peak, adjacent to White Sands and the Jornada Test Range, where numerous dummy flights terminated.",
+"sources": [
+{
+"date": "1997-01-01",
+"name": "The Roswell Report: Case Closed (1997)",
+"url": "https://archive.org/details/AFD-101027-030"
+}
+],
+"tier": "B",
+"type": "denial"
+}
+],
+"coords": null,
+"dateEnd": "1992",
+"dateStart": "1947-07",
+"deg": 3,
+"denials": [
+{
+"by": {
+"id": "roswell-report-case-closed",
+"label": "The Roswell Report: Case Closed (1997)"
+},
+"claimTier": 1,
+"denialKind": "directed",
+"label": "Air Force proposes San Agustin Pass confusion and dummy recoveries",
+"note": "Section 1.4 argues that Maltais and Knight may have confused the Plains with San Agustin Pass or Peak, adjacent to White Sands and the Jornada Test Range, where numerous dummy flights terminated.",
+"of": {
+"id": "plains-san-agustin-1947",
+"label": "Plains of San Agustin claim, July 1947"
+},
+"sources": [
+{
+"date": "1997-01-01",
+"name": "The Roswell Report: Case Closed (1997)",
+"url": "https://archive.org/details/AFD-101027-030"
+}
+]
+}
+],
+"desc": "The claim that a second craft came down in July 1947 on the Plains of San Agustin, a graben basin in Catron and Socorro Counties, New Mexico, about 175 miles northwest of Roswell, best known today as the site of the Very Large Array. It rests on three testimonies: two second-hand accounts from Vern Maltais and Alice Knight relaying what the soil conservation engineer Grady L. 'Barney' Barnett had told them before his death in 1969, and one first-hand account from Gerald Anderson, who came forward in 1990 claiming to have been a five-year-old rockhounding there. The claim entered the literature through Berlitz and Moore's 'The Roswell Incident' (1980), was central to Friedman and Berliner's 'Crash at Corona' (1992), and forced the Roswell literature into two-crash and three-crash constructions to reconcile a debris field near Corona with an intact craft 175 miles away. It was substantially dismantled from inside the field: Mark Rodeghier of CUFOS and Fred Whiting of the Fund for UFO Research published 'The Plains of San Agustin Controversy' in 1992 concluding against Anderson. The Air Force's 1997 report offers a specific alternative reading - that Maltais and Knight, three decades on, may have confused the Plains of San Agustin with San Agustin Pass or San Agustin Peak in the San Agustin Mountains, just outside White Sands Missile Range and the Jornada Test Range, where numerous anthropomorphic dummy balloon flights terminated and were recovered by uniformed teams who told civilians to leave.",
+"domains": [
+"w2-retrieval-literature"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "plains-san-agustin-1947",
+"l0": false,
+"label": "Plains of San Agustin claim, July 1947",
+"locLabel": null,
+"members": null,
+"short": "Plains of San Agustin claim, July 1947",
+"sources": [
+{
+"date": "1997-01-01",
+"name": "The Roswell Report: Case Closed (1997), HQ USAF/GPO - full text",
+"url": "https://archive.org/details/AFD-101027-030"
+},
+{
+"date": "2026-08-12",
+"name": "Plains of San Agustin - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/Plains_of_San_Agustin"
+},
+{
+"date": "2026-08-12",
+"name": "UFO Crash Retrievals, Status Reports 1-7 by Leonard Stringfield - full scans",
+"url": "https://archive.org/details/stringfield_Retrievals_Report_6_inner_sanctum_LQ"
+}
+],
+"sub": "Claimed second 1947 crash site, 175 miles northwest of Roswell",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 454 of 1027, score 31). 3 connections, 2 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C2/A0/D1.",
+"timeline": []
+}

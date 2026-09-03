@@ -1,0 +1,171 @@
+{
+"A": 3,
+"C": 1,
+"D": 1,
+"band": null,
+"claims": [
+{
+"source": "10 U.S.C. Sec. 119, Special access programs: congressional oversight",
+"text": "10 U.S.C. 119 requires congressional notification of special access programmes but permits the Secretary of Defense to waive that notification for a programme, reporting instead only to the chairs and ranking members of the defence committees.",
+"tier": 1
+},
+{
+"source": "50 U.S.C. 3510 (Cornell LII)",
+"text": "50 U.S.C. 3510 permits certain intelligence expenditures to be accounted for solely on the certificate of the agency head, with that certificate deemed a sufficient voucher.",
+"tier": 1
+},
+{
+"source": "DoD Directive 5205.07, Special Access Program (SAP) Policy",
+"text": "DoD Directive 5205.07 establishes the policy framework for acknowledged, unacknowledged and waived special access programmes and assigns the approval authority.",
+"tier": 1
+}
+],
+"cls": "domain",
+"cluster": "other",
+"connections": [
+{
+"claimTier": 1,
+"cls": "domain",
+"dateEnd": null,
+"dateStart": "1953-01-01",
+"direction": "in",
+"edgeLabel": "Directives implement classification authority",
+"id": "d-policy",
+"l0": false,
+"label": "Executive Policy & Directives",
+"note": "DoDD 5205.07 is the directive-layer implementation of authority that derives from executive order rather than statute.",
+"sources": [
+{
+"date": "2024-09-12",
+"name": "DoD Directive 5205.07",
+"url": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "domain",
+"dateEnd": null,
+"dateStart": "1960-01-01",
+"direction": "out",
+"edgeLabel": "Statutory basis for the access tier",
+"id": "d-sap",
+"l0": false,
+"label": "Special Access Programs",
+"note": "10 U.S.C. 119 and DoDD 5205.07 are the legal and policy instruments that create the special access programme category; the SAP domain is the applied form of the secrecy-law domain.",
+"sources": [
+{
+"date": "2024-01-01",
+"name": "10 U.S.C. Sec. 119",
+"url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim"
+},
+{
+"date": "2024-09-12",
+"name": "DoD Directive 5205.07",
+"url": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "legislation",
+"dateEnd": null,
+"dateStart": "1952",
+"direction": "in",
+"edgeLabel": "One of the three statutory layers of the secrecy architecture",
+"id": "invention-secrecy-act",
+"l0": false,
+"label": "Invention Secrecy Act of 1951 (Pub. L. 82-256, 66 Stat. 3), codified at 35 U.S.C. 181-188",
+"note": "The domain description already names this Act as one of the three statutory layers of the secrecy architecture and the board carried no node for it.",
+"sources": [
+{
+"date": "1952-02-01",
+"name": "66 Stat. 3, Act of February 1, 1952, ch. 4",
+"url": "https://www.govinfo.gov/content/pkg/STATUTE-66/pdf/STATUTE-66-Pg3.pdf"
+},
+{
+"date": null,
+"name": "35 U.S.C. 181, Secrecy of certain inventions and withholding of patent",
+"url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title35-section181&num=0&edition=prelim"
+}
+],
+"tier": "B",
+"type": "legislative"
+},
+{
+"claimTier": 3,
+"cls": "program",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "The administrative alternative to classification",
+"id": "prp-nuclear-weapon",
+"l0": false,
+"label": "DoD Nuclear Weapon Personnel Reliability Program (DoD Directive 5210.42)",
+"note": "The board's suppression argument usually runs through classification; PRP is the administrative alternative, a published rule that can remove a person from his job without any classification decision at all.",
+"sources": [
+{
+"date": "1993-05-25",
+"name": "DoD Directive 5210.42, 25 May 1993, DTIC AD-A271698",
+"url": "https://archive.org/download/DTIC_ADA271698/DTIC_ADA271698_djvu.txt"
+}
+],
+"tier": "B",
+"type": "programmatic"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "1946-08-01",
+"deg": 4,
+"denials": [],
+"desc": "Everything this board describes is, on its face, legal - and that is the point. Classification authority flows from executive order rather than statute for most national security information, which means the same executive branch that runs a programme also decides whether Congress and the courts may learn of it. Layered on top are the Atomic Energy Act's 'born classified' Restricted Data regime, the Invention Secrecy Act's power to impose secrecy orders on patent applications, and 50 U.S.C. 3510's authority for unvouchered and confidential expenditure certified by agency heads rather than audited. The dual-use route into a concealment programme is simple and requires no conspiracy: an activity placed inside a special access programme, then waived from ordinary congressional notification under the exception in 10 U.S.C. 119, is protected by exactly the same machinery whether it holds a stealth aircraft or a recovered craft, and the machinery cannot tell the difference. Scoring high on this domain means an entity is a wielder of classification authority - an original classification authority, a security officer, a programme security manager - rather than a person subject to it.",
+"domains": [
+"_rs-archive-mirror",
+"w2-taxonomy"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "d-secrecy",
+"l0": false,
+"label": "Secrecy Law & Classification",
+"locLabel": null,
+"members": null,
+"short": "Secrecy Law & Classification",
+"sources": [
+{
+"date": "2026-05-18",
+"name": "Archived: DoD Directive 5205.07, Special Access Program (SAP) Policy (Wayback 2026-05-18)",
+"url": "https://web.archive.org/web/20260518065512/https://www.esd.whs.mil/portals/54/documents/dd/issuances/dodd/520507p.pdf"
+},
+{
+"date": "2024-01-01",
+"name": "10 U.S.C. Sec. 119, Special access programs: congressional oversight",
+"url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim"
+},
+{
+"date": "2026-08-12",
+"name": "50 U.S.C. 3510 (Cornell Legal Information Institute)",
+"url": "https://www.law.cornell.edu/uscode/text/50/3510"
+},
+{
+"date": "2024-09-12",
+"name": "DoD Directive 5205.07, Special Access Program (SAP) Policy",
+"url": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf"
+}
+],
+"sub": "Legal domain - the statutory and executive machinery that makes concealment lawful",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 438 of 1027, score 31). 4 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A3/D1.",
+"timeline": []
+}

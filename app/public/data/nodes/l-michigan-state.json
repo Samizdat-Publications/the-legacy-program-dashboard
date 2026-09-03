@@ -1,0 +1,107 @@
+{
+"A": 0,
+"C": 0,
+"D": 2,
+"band": null,
+"claims": [
+{
+"source": "Board bookkeeping",
+"text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
+"tier": 3
+}
+],
+"cls": "location",
+"cluster": "other",
+"connections": [
+{
+"claimTier": 2,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "site of the DoD unsupported-adjustment study",
+"id": "dod",
+"l0": true,
+"label": "United States Department of Defense (secondary designation: Department of War)",
+"note": "Economist Mark Skidmore conducted the aggregation of unsupported journal voucher adjustments in DoD and HUD financial statements for 1998-2015 at Michigan State University. The aggregate figure is an accounting-adjustment total, not spending, and the distinction is why this is tier 2 rather than tier 1.",
+"sources": [
+{
+"date": "2017-09-01",
+"name": "Summary Report on Unsupported Journal Voucher Adjustments (PDF)",
+"url": "https://missingmoney.solari.com/wp-content/uploads/2018/08/Unsupported_Adjustments_Report_Final_4.pdf"
+},
+{
+"date": "2026-08-12",
+"name": "Missing Money supporting documentation index",
+"url": "https://missingmoney.solari.com/dod-and-hud-missing-money-supporting-documentation/"
+},
+{
+"date": "2026-01-13",
+"name": "Archived: DoD OIG report DODIG-2016-113 (Wayback 2026-01-13)",
+"url": "https://web.archive.org/web/20260113163643/https://www.dodig.mil/reports.html/Article/1119298/army-general-fund-adjustments-not-adequately-documented-or-supported/"
+},
+{
+"date": null,
+"name": "https://msutoday.msu.edu/news/2017/12/msu-scholars-find-21-trillion-in-unauthorized-government-spending-defense-department-to-conduct",
+"url": "https://msutoday.msu.edu/news/2017/12/msu-scholars-find-21-trillion-in-unauthorized-government-spending-defense-department-to-conduct"
+},
+{
+"date": null,
+"name": "https://www.forbes.com/sites/kotlikoff/2017/12/08/has-our-government-spent-21-trillion-of-our-money-without-telling-us/",
+"url": "https://www.forbes.com/sites/kotlikoff/2017/12/08/has-our-government-spent-21-trillion-of-our-money-without-telling-us/"
+}
+],
+"tier": "A",
+"type": "geographic"
+}
+],
+"coords": [
+42.7018,
+-84.4822
+],
+"dateEnd": null,
+"dateStart": null,
+"deg": 1,
+"denials": [],
+"desc": "Michigan State University at East Lansing is on this board as the academic base from which economist Mark Skidmore conducted the aggregation of unsupported adjustments reported in Department of Defense financial statements - the most-cited academic work underpinning the black-budget argument. The work matters here for a narrow and defensible reason: it established, from the Department's own published financial reports and its Inspector General's findings, that DoD cannot demonstrate the link between appropriation and expenditure at scale. That is an enabling condition for an unacknowledged programme rather than evidence of one, and the distinction is the whole discipline of the funding domain.",
+"domains": [
+"_rs-archive-mirror",
+"_stubs",
+"w2-taxonomy"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "nd",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "l-michigan-state",
+"l0": false,
+"label": "Michigan State University, East Lansing, Michigan",
+"locLabel": "East Lansing, Michigan, USA",
+"members": null,
+"short": "Michigan State University, East Lansing, Michigan",
+"sources": [
+{
+"date": "2026-01-13",
+"name": "Archived: DoD OIG report DODIG-2016-113 (Wayback 2026-01-13)",
+"url": "https://web.archive.org/web/20260113163643/https://www.dodig.mil/reports.html/Article/1119298/army-general-fund-adjustments-not-adequately-documented-or-supported/"
+},
+{
+"date": "2026-08-12",
+"name": "Wikipedia - Michigan State University",
+"url": "https://en.wikipedia.org/wiki/Michigan_State_University"
+},
+{
+"date": "2016-07-26",
+"name": "DoD OIG report DODIG-2016-113",
+"url": "https://www.dodig.mil/reports.html/Article/1119298/army-general-fund-adjustments-not-adequately-documented-or-supported/"
+}
+],
+"sub": "Public research university, East Lansing, Michigan",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 1023 of 1027, score 6). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D2.",
+"timeline": []
+}

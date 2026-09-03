@@ -1,0 +1,824 @@
+{
+"A": 3,
+"C": 3,
+"D": 0,
+"band": "reverse-engineering",
+"claims": [
+{
+"source": "NNSA, About NNSA",
+"text": "DOE's National Nuclear Security Administration was 'Established by Congress in 2000' as 'a semi-autonomous agency within the U.S. Department of Energy responsible for enhancing national security through the military application of nuclear science'.",
+"tier": 1
+},
+{
+"source": "AARO Historical Record Report Volume I, p. 30",
+"text": "AARO states that it 'sent guidance and requests to DoD, IC elements, DOE, and DHS to review and provide any NDAs pertaining to UAP'.",
+"tier": 1
+},
+{
+"source": "Los Alamos National Laboratory, 'FOIA requests at the National Security Research Center', 18 November 2024",
+"text": "Los Alamos National Laboratory's National Security Research Center holds and processes FOIA requests on the laboratory's classified historical record, including material on the 1949 green fireball investigations.",
+"tier": 1
+},
+{
+"source": "Atomic Energy Act of 1954, as amended, and DOE classification policy",
+"text": "Restricted Data and Formerly Restricted Data under the Atomic Energy Act of 1954 are classified by statute rather than by executive order, and are administered jointly by DOE and DoD outside the EO 13526 declassification framework.",
+"tier": 2
+},
+{
+"source": "Inference from the statutory basis of Restricted Data versus the executive basis of EO 13526",
+"text": "Any material-exploitation activity placed under DOE Restricted Data authority would be structurally immune to a presidential UAP declassification directive issued under Executive Order 13526, and would not appear in a DoD SAP list at all. Reasoning: the two classification systems are legally distinct, and a 2026 directive addressed to national security information does not reach born-classified atomic energy information.",
+"tier": 3
+}
+],
+"cls": "institution",
+"cluster": "other",
+"connections": [
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "2026",
+"dateStart": "2026",
+"direction": "in",
+"edgeLabel": "50 UAS notifications near nuclear infrastructure, nearly triple the prior period",
+"id": "aaro-fy2025-annual-report",
+"l0": true,
+"label": "AARO FY2025 Consolidated Annual Report on UAP",
+"note": "AARO's own FY2025 figures show unmanned system activity over nuclear infrastructure rising from 18 to 50 notifications, unresolved in the report.",
+"sources": [
+{
+"date": "2026-07-21",
+"name": "AARO FY2025 Consolidated Annual Report",
+"url": "https://www.aaro.mil/Portals/136/PDFs/FY25%20UAP%20Annual%20Report/AARO_FY2025_Consolidated_Annual_Report_on_UAP.pdf"
+}
+],
+"tier": "A",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "1974",
+"dateStart": "1974",
+"direction": "in",
+"edgeLabel": "Abolished 1974; functions passed through ERDA to the Department of Energy",
+"id": "atomic-energy-commission",
+"l0": true,
+"label": "Atomic Energy Commission",
+"note": "The Energy Reorganization Act of 1974 abolished the Commission and vested its functions in the ERDA Administrator, and the NARA record group description names the Department of Energy as the eventual holder of the research, development and production functions.",
+"sources": [
+{
+"date": "1974-10-11",
+"name": "Energy Reorganization Act of 1974, sec. 104(a)",
+"url": "https://www.govinfo.gov/content/pkg/STATUTE-88/pdf/STATUTE-88-Pg1233.pdf"
+},
+{
+"date": "2026-09-02",
+"name": "Records of the Atomic Energy Commission, Record Group 326, Guide to Federal Records in the National Archives",
+"url": "https://www.archives.gov/research/guide-fed-records/groups/326.html"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": "1980",
+"dateStart": "1962",
+"direction": "in",
+"edgeLabel": "The detonation list is a Department of Energy publication",
+"id": "bluegill-triple-prime",
+"l0": false,
+"label": "Bluegill Triple Prime",
+"note": "DNA 6040F sources its own table of DOMINIC detonations to Announced United States Nuclear Tests, NVO-29 (Rev. 1), Office of Public Affairs, Department of Energy, Nevada Operations Office, January 1980, so the authoritative date and yield description for this shot are held by DOE rather than by DoD.",
+"sources": [
+{
+"date": "1983-02-01",
+"name": "DNA 6040F, Table 1 source note",
+"url": "https://archive.org/download/DTIC_ADA136820/DTIC_ADA136820_djvu.txt"
+}
+],
+"tier": "B",
+"type": "custody"
+},
+{
+"claimTier": 3,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "1954",
+"direction": "out",
+"edgeLabel": "Restricted Data authority sits outside presidential EO declassification power",
+"id": "eop",
+"l0": false,
+"label": "Executive Office of the President",
+"note": "Restricted Data under the Atomic Energy Act is classified by statute, not by executive order. A UAP declassification directive operating on EO 13526 information cannot reach it. Reasoning: the two classification systems have separate legal foundations.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "NNSA - About NNSA",
+"url": "https://www.energy.gov/nnsa/about-nnsa"
+},
+{
+"date": "2025-09-05",
+"name": "Executive Order 14347, Restoring the United States Department of War",
+"url": "https://www.whitehouse.gov/presidential-actions/2025/09/restoring-the-united-states-department-of-war/"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": null,
+"dateStart": "1949-02",
+"direction": "out",
+"edgeLabel": "AEC laboratories convened the February 1949 green fireball conference",
+"id": "green-fireballs-conference-1949",
+"l0": false,
+"label": "Los Alamos Green Fireballs Conference",
+"note": "The green fireball events centred on the Los Alamos and Sandia complexes and produced a conference and the subsequent Project TWINKLE instrumented observation effort. Attested by the FBI and Air Force file material released through the 2026 PURSUE tranches.",
+"sources": [
+{
+"date": "2024-11-18",
+"name": "Los Alamos National Laboratory - FOIA requests at the National Security Research Center",
+"url": "https://www.lanl.gov/media/publications/the-vault/1124-foia-requests-at-the-national-security-research-center"
+}
+],
+"tier": "B",
+"type": "programmatic"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2019",
+"direction": "in",
+"edgeLabel": "NNSA rescued and now sponsors JASON after DoD declined renewal",
+"id": "jason-advisory-group",
+"l0": false,
+"label": "JASON",
+"note": "On 25-26 April 2019 NNSA issued a notice of intent to award a short-term sole source contract to MITRE for JASON management and logistics support, two weeks after OUSD(R&E) confirmed it was ending the contract.",
+"sources": [
+{
+"date": "2019-04-11",
+"name": "Defense News, 11 April 2019",
+"url": "https://www.defensenews.com/pentagon/2019/04/11/pentagon-confirms-it-is-ending-the-jason-advisory-contract-but-groups-work-may-continue/"
+},
+{
+"date": "2019-04-24",
+"name": "Science (AAAS)",
+"url": "https://www.science.org/content/article/jason-advisory-group-prepares-shut-down-us-contract-extension-seems-unlikely"
+}
+],
+"tier": "B",
+"type": "funding"
+},
+{
+"claimTier": 1,
+"cls": "location",
+"dateEnd": null,
+"dateStart": "1951",
+"direction": "out",
+"edgeLabel": "DOE operating authority over the Nevada National Security Site",
+"id": "l-nevada-test-site",
+"l0": false,
+"label": "Nevada Test Site / Nevada National Security Site",
+"note": "The Nevada test complex is DOE/NNSA property operated by contract, with its own protective force and clearance regime, and is named repeatedly in retrieval testimony.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "NNSA - About NNSA",
+"url": "https://www.energy.gov/nnsa/about-nnsa"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "1947",
+"direction": "out",
+"edgeLabel": "DOE/NNSA management and operating contract; Los Alamos",
+"id": "lanl",
+"l0": false,
+"label": "Los Alamos National Laboratory",
+"note": "Los Alamos is an NNSA laboratory operated under contract; its National Security Research Center holds and processes FOIA on the laboratory's classified historical record, including 1949 green fireball material.",
+"sources": [
+{
+"date": "2024-11-18",
+"name": "Los Alamos National Laboratory - FOIA requests at the National Security Research Center",
+"url": "https://www.lanl.gov/media/publications/the-vault/1124-foia-requests-at-the-national-security-research-center"
+},
+{
+"date": "2026-08-12",
+"name": "NNSA - About NNSA",
+"url": "https://www.energy.gov/nnsa/about-nnsa"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "1957",
+"dateStart": "1957",
+"direction": "in",
+"edgeLabel": "Held an AEC headquarters post in the line the DOE node records itself as succeeding",
+"id": "lawrence-p-gise",
+"l0": false,
+"label": "Lawrence P. Gise",
+"note": "The Register documents the AEC Division of Military Application post at Tier 1; the succession from AEC to DOE is the board's own doe node, so the edge itself is an inference and is graded accordingly.",
+"sources": [
+{
+"date": "1957-05-01",
+"name": "Official Register of the United States 1957, US Civil Service Commission",
+"url": "https://www.govinfo.gov/content/pkg/GOVPUB-CS1-a5ad60ca6d6113c71c09c45dce6b9952/pdf/GOVPUB-CS1-a5ad60ca6d6113c71c09c45dce6b9952.pdf"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "1952",
+"direction": "in",
+"edgeLabel": "DOE weapons laboratory operating under Atomic Energy Act classification authority",
+"id": "llnl",
+"l0": false,
+"label": "Lawrence Livermore National Laboratory",
+"note": "Restricted Data classification is statutory rather than executive-order-derived, and is therefore untouched by presidential declassification directives of the kind driving the 2026 PURSUE releases.",
+"sources": [
+{
+"date": "2026-05-15",
+"name": "CRS Report R44629",
+"url": "https://www.everycrsreport.com/reports/R44629.html"
+}
+],
+"tier": "B",
+"type": "funding"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "1952",
+"direction": "out",
+"edgeLabel": "DOE/NNSA management and operating contract; Lawrence Livermore",
+"id": "llnl",
+"l0": false,
+"label": "Lawrence Livermore National Laboratory",
+"note": "Livermore is an NNSA weapons laboratory operating under DOE classification authority rather than DoD SAP authority.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "NNSA - About NNSA",
+"url": "https://www.energy.gov/nnsa/about-nnsa"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 2,
+"cls": "program",
+"dateEnd": "2026",
+"dateStart": "1947",
+"direction": "in",
+"edgeLabel": "Alleges custody of recovered disks vested in AEC national laboratories",
+"id": "manhattan-project-2",
+"l0": true,
+"label": "'Manhattan Project 2.0' (alleged secrecy architecture)",
+"note": "Gerb argues Truman and Eisenhower placed recovered material inside Atomic Energy Commission laboratories - the institutional ancestors of today's DOE national labs - to obtain the Atomic Energy Act's statutory protections.",
+"sources": [
+{
+"date": "2026-05-01",
+"name": "UAP Gerb - 'The Manhattan Project 2.0' Vol.1",
+"url": "https://www.youtube.com/watch?v=jR-h5p2bd-A"
+},
+{
+"date": "2026-06-19",
+"name": "UAP Gerb - 'Special Access Required' Vol.2",
+"url": "https://www.youtube.com/watch?v=6MsmPrpQqa8"
+}
+],
+"tier": "A",
+"type": "custody"
+},
+{
+"claimTier": 2,
+"cls": "document",
+"dateEnd": "2026",
+"dateStart": "2026",
+"direction": "in",
+"edgeLabel": "Dedicated chapter 'The DOE NEST' at 1:22:01",
+"id": "michels-gerb-structural-episode",
+"l0": true,
+"label": "'The Pentagon's UFO Program Is Real [Here's How It Works!]'",
+"note": "The episode places the Department of Energy's Nuclear Emergency Support Team inside the crash-retrieval architecture, consistent with the AEC-custody thesis.",
+"sources": [
+{
+"date": "2026-01-11",
+"name": "American Alchemy - 'The Pentagon's UFO Program Is Real [Here's How It Works!]'",
+"url": "https://www.youtube.com/watch?v=u7g5Sn1DJF4"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2025-04-24",
+"direction": "out",
+"edgeLabel": "DOE produced nothing for the first statutory UAP records transfer",
+"id": "nara-uap-collection",
+"l0": true,
+"label": "National Archives Unidentified Anomalous Phenomena Records Collection",
+"note": "NARA's 24 April 2025 release named ODNI, OSD, FAA and the Nuclear Regulatory Commission. DOE - which holds the weapons complex and performed AARO's materials analysis - was not among them.",
+"sources": [
+{
+"date": "2025-04-24",
+"name": "National Archives press release nr25-07",
+"url": "https://www.archives.gov/press/press-releases/2025/nr25-07"
+}
+],
+"tier": "A",
+"type": "denial"
+},
+{
+"claimTier": 3,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2023",
+"direction": "in",
+"edgeLabel": "Both hold analytical capability that could resolve material claims and neither has been tasked publicly",
+"id": "nasa",
+"l0": true,
+"label": "National Aeronautics and Space Administration",
+"note": "NASA's report identifies the classification of military and intelligence data as the binding constraint; DOE laboratories hold the analytical instruments actually used by AARO. Reasoning: the capability exists and the tasking does not.",
+"sources": [
+{
+"date": "2023-09-14",
+"name": "NASA UAP Independent Study Team Report",
+"url": "https://smd-cms.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf"
+},
+{
+"date": "2026-08-12",
+"name": "NNSA - About NNSA",
+"url": "https://www.energy.gov/nnsa/about-nnsa"
+}
+],
+"tier": "B",
+"type": "research"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2000",
+"direction": "in",
+"edgeLabel": "Semi-autonomous agency within DOE established by Congress in 2000",
+"id": "nnsa",
+"l0": false,
+"label": "National Nuclear Security Administration",
+"note": "NNSA describes itself as 'a semi-autonomous agency within the U.S. Department of Energy responsible for enhancing national security through the military application of nuclear science'.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "NNSA - About NNSA",
+"url": "https://www.energy.gov/nnsa/about-nnsa"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "2024",
+"dateStart": "2022",
+"direction": "out",
+"edgeLabel": "DOE laboratory performed AARO's metallic specimen analysis",
+"id": "oak-ridge-national-laboratory",
+"l0": false,
+"label": "Oak Ridge National Laboratory (UT-Battelle, LLC)",
+"note": "AARO's published materials analysis synopsis was produced with Oak Ridge National Laboratory, a DOE laboratory - meaning DOE analytical capability was the government's chosen instrument for testing alleged recovered material.",
+"sources": [
+{
+"date": "2024-03-08",
+"name": "AARO Historical Record Report Volume I (DOPSR-2024-0263)",
+"url": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF"
+}
+],
+"tier": "A",
+"type": "research"
+},
+{
+"claimTier": 3,
+"cls": "document",
+"dateEnd": null,
+"dateStart": "2026-08-01",
+"direction": "in",
+"edgeLabel": "directed to release; absent from the statutory archive",
+"id": "odni-memo-es-2026-00818",
+"l0": true,
+"label": "ODNI Memorandum ES 2026-00818 - Preliminary Guidance for Implementation of NDA Waiver",
+"note": "The Director of the Office of Intelligence and Counterintelligence, Department of Energy, is an addressee of ES 2026-00818; DOE has no RG 615 series.",
+"sources": [
+{
+"date": "2026-08-01",
+"name": "ODNI Memorandum ES 2026-00818",
+"url": "https://burlison.house.gov/sites/evo-subsites/burlison.house.gov/files/evo-media-document/memorandum_2026.pdf"
+},
+{
+"date": "2026-08-12",
+"name": "National Archives, Record Group 615",
+"url": "https://www.archives.gov/research/topics/uaps/rg-615"
+}
+],
+"tier": "A",
+"type": "denial"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "1949",
+"direction": "out",
+"edgeLabel": "DOE/NNSA management and operating contract; Sandia",
+"id": "sandia",
+"l0": true,
+"label": "Sandia National Laboratories",
+"note": "Sandia is an NNSA laboratory adjacent to Kirtland AFB and the Manzano Weapons Storage Area, the site of the 1980 intrusions investigated by AFOSI.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "NNSA - About NNSA",
+"url": "https://www.energy.gov/nnsa/about-nnsa"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "2030-01-04",
+"dateStart": "1999-10-15",
+"direction": "in",
+"edgeLabel": "DOE is the contracting agency for both Brookhaven management-and-operating contracts",
+"id": "stony-brook-university",
+"l0": false,
+"label": "Stony Brook University",
+"note": "The Department of Energy is the contracting agency for both Brookhaven management-and-operating contracts, DEAC0298CH10886 and DESC0012704.",
+"sources": [
+{
+"date": "2026-09-02",
+"name": "USAspending.gov award search API, contracts DEAC0298CH10886 and DESC0012704",
+"url": "https://api.usaspending.gov/api/v2/search/spending_by_award/"
+}
+],
+"tier": "C",
+"type": "funding"
+},
+{
+"claimTier": 1,
+"cls": "legislation",
+"dateEnd": null,
+"dateStart": "1999-10-05",
+"direction": "in",
+"edgeLabel": "Governs special access programs of the nuclear weapons complex",
+"id": "usc-50-2426",
+"l0": false,
+"label": "50 U.S.C. 2426 — Congressional Oversight of DOE/NNSA Special Access Programs",
+"note": "50 U.S.C. 2426 imposes SAP reporting on the Administrator of the National Nuclear Security Administration, a semi-autonomous DOE agency.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "50 U.S.C. 2426",
+"url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2426&num=0&edition=prelim"
+}
+],
+"tier": "B",
+"type": "legislative"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "1977-10-01",
+"deg": 20,
+"denials": [
+{
+"by": {
+"id": "doe",
+"label": "United States Department of Energy"
+},
+"claimTier": 1,
+"denialKind": "directed",
+"label": "DOE produced nothing for the first statutory UAP records transfer",
+"note": "NARA's 24 April 2025 release named ODNI, OSD, FAA and the Nuclear Regulatory Commission. DOE - which holds the weapons complex and performed AARO's materials analysis - was not among them.",
+"of": {
+"id": "nara-uap-collection",
+"label": "National Archives Unidentified Anomalous Phenomena Records Collection"
+},
+"sources": [
+{
+"date": "2025-04-24",
+"name": "National Archives press release nr25-07",
+"url": "https://www.archives.gov/press/press-releases/2025/nr25-07"
+}
+]
+},
+{
+"by": {
+"id": "doe",
+"label": "United States Department of Energy"
+},
+"claimTier": 3,
+"denialKind": "directed",
+"label": "directed to release; absent from the statutory archive",
+"note": "The Director of the Office of Intelligence and Counterintelligence, Department of Energy, is an addressee of ES 2026-00818; DOE has no RG 615 series.",
+"of": {
+"id": "odni-memo-es-2026-00818",
+"label": "ODNI Memorandum ES 2026-00818 - Preliminary Guidance for Implementation of NDA Waiver"
+},
+"sources": [
+{
+"date": "2026-08-01",
+"name": "ODNI Memorandum ES 2026-00818",
+"url": "https://burlison.house.gov/sites/evo-subsites/burlison.house.gov/files/evo-media-document/memorandum_2026.pdf"
+},
+{
+"date": "2026-08-12",
+"name": "National Archives, Record Group 615",
+"url": "https://www.archives.gov/research/topics/uaps/rg-615"
+}
+]
+}
+],
+"desc": "DOE is the single most important agency on this board that has never testified about UAP, because DOE holds a classification authority that no executive order can reach. Created by the Department of Energy Organization Act of 1977 as successor to the Atomic Energy Commission and the Energy Research and Development Administration, DOE administers the Restricted Data and Formerly Restricted Data categories created by the Atomic Energy Act of 1954 - information that is 'born classified' by statute, outside the Executive Order 13526 framework, and therefore outside any presidential declassification directive that operates only on national security information. A president can order the release of UAP files under EO 13526; he cannot, by executive order alone, release Restricted Data. DOE's semi-autonomous National Nuclear Security Administration, established by Congress in 2000, runs the weapons complex: Los Alamos, Sandia and Lawrence Livermore national laboratories, the Nevada National Security Site, the Pantex Plant, Y-12 at Oak Ridge and the Savannah River Site - a distributed archipelago of guarded, instrumented, contractor-operated facilities with independent security regimes, its own police force, its own clearance system (the Q clearance) and a demonstrated capability to store and analyse anomalous material under a cover story. DOE's documented UAP footprint is old and specific: the 1948-1951 green fireball flap centred on Los Alamos and Sandia, prompting the February 1949 Los Alamos conference attended by Edward Teller, Lincoln LaPaz and AEC and Air Force personnel and the subsequent Project TWINKLE instrumented observation effort; the 1980 Kirtland AFB/Manzano Weapons Storage Area intrusions adjacent to the nuclear stockpile; and the modern materials-analysis work performed for AARO at Oak Ridge National Laboratory. AARO's Historical Record Report records only that 'AARO sent guidance and requests to DoD, IC elements, DOE, and DHS to review and provide any NDAs pertaining to UAP' - a records request, not an inspection. No DOE official has ever testified at a UAP hearing.",
+"domains": [
+"_rs-archive-mirror",
+"w2-agencies"
+],
+"dossier": {
+"claims": [
+{
+"source": "42 U.S.C. 2162, Classification and declassification of Restricted Data; https://uscode.house.gov/view.xhtml?req=granuleid%3AUSC-prelim-title42-section2162&num=0&edition=prelim",
+"text": "Restricted Data is classified under the Atomic Energy Act of 1954 rather than under an executive order, is not subject to automatic declassification, and requires affirmative review before declassification; the Act grants DOE government-wide authority over Restricted Data and its control.",
+"tier": 1
+},
+{
+"source": "https://www.federalregister.gov/documents/2018/12/21/2018-27344/nuclear-classification-and-declassification",
+"text": "DOE's implementing regulation for nuclear classification and declassification is 10 CFR Part 1045, overhauled by a final rule published in the Federal Register on 21 December 2018.",
+"tier": 1
+},
+{
+"source": "AARO FY2025 Consolidated Annual Report on UAP, Section II, quoting 50 U.S.C. 3373(k)(1)(B); https://www.aaro.mil/Portals/136/PDFs/FY25%20UAP%20Annual%20Report/AARO_FY2025_Consolidated_Annual_Report_on_UAP.pdf",
+"text": "Section 3373(k) of title 50, United States Code, requires AARO's annual report to include the results of consultation with the Administrator for Nuclear Security regarding reported incidents of UAP associated with facilities or assets involved in the production, transportation or storage of nuclear weapons or components.",
+"tier": 1
+},
+{
+"source": "AARO FY2025 Consolidated Annual Report on UAP, Section IV.F; https://www.aaro.mil/Portals/136/PDFs/FY25%20UAP%20Annual%20Report/AARO_FY2025_Consolidated_Annual_Report_on_UAP.pdf",
+"text": "In the reporting period ending 30 May 2025, AARO received 50 reports from the Administrator for Nuclear Security and the Chairman of the Nuclear Regulatory Commission regarding incidents near US nuclear infrastructure, weapons and launch sites, a 177.8 percent increase over the 18 reported the previous year. AARO states 'None of these incidents were reported as UAP.'",
+"tier": 1
+},
+{
+"source": "AARO FY2025 Consolidated Annual Report on UAP, Section IV.F; https://www.aaro.mil/Portals/136/PDFs/FY25%20UAP%20Annual%20Report/AARO_FY2025_Consolidated_Annual_Report_on_UAP.pdf",
+"text": "Of those 50 incidents, 47 occurred between 1700 and 0500 local time, five persisted for at least one hour and the longest was recorded at approximately three hours.",
+"tier": 1
+},
+{
+"source": "AARO Historical Record Report Volume I, March 2024, Scope and Methodology; https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF",
+"text": "AARO lists the Department of Energy among the agency archives it partnered with for the historical review, alongside DIA, CIA, NSA, NGA, the Services and the Combatant Commands.",
+"tier": 1
+},
+{
+"source": "AARO Historical Record Report Volume I, March 2024, Project GRUDGE section; https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF",
+"text": "AARO's Volume I records Captain Ruppelt of Project GRUDGE noting 'concentrations of cases in the Los Alamos-Albuquerque area, Oak Ridge, White Sands, Strategic Air Command locations, ports, and industrial sites.'",
+"tier": 1
+},
+{
+"source": "AARO Historical Record Report Volume I, March 2024; https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF",
+"text": "AARO's Volume I states it interviewed five former USAF members who served in and around US intercontinental ballistic missile silos at Malmstrom, Ellsworth and other sites regarding a narrative of UAP sightings near nuclear facilities causing malfunctioning missiles and a destroyed test reentry vehicle, and that AARO continues to investigate these cases because of their potential impact on the readiness of the US nuclear programme.",
+"tier": 1
+},
+{
+"source": "AARO Historical Record Report Volume I, March 2024, Scope; https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF",
+"text": "AARO interviewed approximately 30 people 'who claimed to have insight into alleged USG involvement in off-world technology exploitation or to possess knowledge of UAP that have allegedly disrupted U.S. nuclear facilities in the past,' making the nuclear complex an explicit scope element of the government's own historical review.",
+"tier": 1
+},
+{
+"source": "https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Elizondo.pdf",
+"text": "Luis Elizondo named the Department of Energy in sworn written testimony of 13 November 2024 among the agencies that 'play a role, but no one seems to be in charge, leading to unchecked power and corruption.'",
+"tier": 1
+},
+{
+"source": "https://www.archives.gov/research/topics/uaps/rg-615",
+"text": "The Department of Energy does not appear among the organisations with a records transmittal listed in the National Archives UAP Records Collection, Record Group 615, as of the collection page's 22 May 2026 review date.",
+"tier": 1
+},
+{
+"source": "https://www.history.com/articles/ufos-green-fireballs-nuclear-facilities-new-mexico and reporting on released Los Alamos records at https://www.8newsnow.com/mystery-wire/los-alamos-green-fireballs/",
+"text": "A conference on the green fireball phenomenon was held at Los Alamos Scientific Laboratory on 16 February 1949, attended by laboratory director Norris Bradbury, Edward Teller and Frederick Reines together with representatives of the FBI, the Atomic Energy Commission and the military, and by Lincoln LaPaz of the University of New Mexico Institute of Meteoritics.",
+"tier": 2
+},
+{
+"source": "https://www.newschannel10.com/2026/07/15/declassified-documents-detail-2015-silent-ufo-sighting-near-pantex-nuclear-facility/ and https://www.foxnews.com/politics/trump-ufo-file-dump-includes-military-footage-mysterious-star-shaped-object",
+"text": "A Department of Energy report describes security personnel at the Pantex nuclear weapons assembly and disassembly plant near Amarillo, Texas observing a diamond-shaped object in early September 2015; the object was tracked by ground radar, photographed from a nearby radar tower, and the imagery was analysed by DOE's Sandia National Laboratories. The report was released in fuller form during the 2026 executive-branch UAP disclosure tranches after earlier heavily redacted releases.",
+"tier": 2
+},
+{
+"source": "https://www.lanl.gov/media/publications/the-vault/1124-foia-requests-at-the-national-security-research-center",
+"text": "Los Alamos National Laboratory's National Security Research Center processes FOIA requests for laboratory holdings including historical UFO-related records, and is the most direct route to Manhattan Project era and early AEC material not routed through DOE headquarters.",
+"tier": 3
+}
+],
+"denialPosture": "DOE has issued no public denial of the legacy programme allegation and, unlike DoD, has not published a historical account of its involvement. Its posture is structural rather than rhetorical: it exercises a statutory classification authority that does not require it to deny anything, and its reporting to AARO categorises every recent incident near nuclear weapons infrastructure as an unmanned aerial system rather than as UAP.",
+"narrative": "The reason DOE belongs on a map of concealment has nothing to do with what anyone alleges and everything to do with statute. Restricted Data is defined by the Atomic Energy Act of 1954 and covers all data concerning the design, manufacture or utilisation of atomic weapons, the production of special nuclear material, and the use of special nuclear material in the production of energy. It is classified under the Act, not under an executive order. Everything else in the national security classification system flows from a presidential order, currently the 13526 lineage, and is therefore subject to automatic declassification at twenty-five years unless exempted. Restricted Data is not. It requires affirmative review before declassification, it cannot be declassified by an agency that did not originate it, and the authority is government-wide. DOE's implementing regulation is 10 CFR Part 1045, most recently overhauled by a final rule published in the Federal Register on 21 December 2018.\n\nThe practical consequence is that if a UAP incident occurred over a weapons production facility, a storage igloo, a transport convoy or a laboratory working on weapons physics, the record of it could be created as Restricted Data from the moment of its generation and would then be permanently outside the reach of the executive order declassification machinery that every UAP disclosure statute has assumed. The FY2024 NDAA's records collection provisions operate on federal records generally. They do not amend the Atomic Energy Act.\n\nThe history is dense. From late November 1948 through early 1951 a wave of green luminous objects was reported over New Mexico, concentrated near Los Alamos and Sandia and over other sensitive installations. On 16 February 1949 a conference at Los Alamos Scientific Laboratory brought together laboratory director Norris Bradbury, Edward Teller, Frederick Reines, representatives of the FBI, the Atomic Energy Commission and the military, and Lincoln LaPaz of the University of New Mexico Institute of Meteoritics, who had personally observed the objects. LaPaz, after interviewing more than a hundred witnesses, advised the military and the AEC that the fireballs were most likely either unconventional defensive devices being tested by the United States or Soviet reconnaissance devices. The Air Force ran Project Twinkle from 1949 to 1951 to instrument the phenomenon, never fully implemented it, and concluded the objects were probably natural.\n\nAARO's own Volume I preserves the pattern independently. It records Captain Edward Ruppelt of Project GRUDGE noting concentrations of cases in the Los Alamos and Albuquerque area, Oak Ridge, White Sands, Strategic Air Command locations, ports and industrial sites. It records that AARO interviewed five former Air Force members who served in and around intercontinental ballistic missile silos at Malmstrom, Ellsworth and elsewhere in connection with a narrative that UAP sightings near nuclear facilities resulted in malfunctioning missiles and a destroyed test reentry vehicle. It records that AARO continues to investigate these cases because of their potential impact on the readiness of the US nuclear programme. And it lists DOE among the agency archives AARO partnered with.\n\nCongress has legislated the nuclear connection into permanent statutory reporting. Section 3373(k) of title 50 requires AARO's annual report to include the number and description of incidents of UAP associated with military nuclear assets, and separately the results of consultation with the Administrator for Nuclear Security regarding incidents at facilities or assets associated with the production, transportation or storage of nuclear weapons or their components, and with the Chairman of the Nuclear Regulatory Commission regarding nuclear power stations and fuel storage sites. That is a standing legal obligation on the nuclear weapons enterprise to account, annually, for anomalous objects over its facilities.\n\nThe FY2025 report is the most recent execution of it and the number is striking. AARO received fifty reports from the Administrator for Nuclear Security and the NRC Chairman regarding unmanned aerial system incidents near US nuclear infrastructure, weapons and launch sites, a 177.8 percent increase over the eighteen reported the previous year. Forty-seven of the fifty occurred between 1700 and 0500 local. Five persisted at least an hour, the longest about three hours. AARO then adds the sentence that carries all the weight: none of these incidents were reported as UAP. The nuclear complex is reporting a rising volume of unexplained aerial activity over the most sensitive sites in the country and categorising all of it, in advance, as drones.\n\nThe 2015 Pantex incident is the clearest recent case. A Department of Energy report describes security personnel at the nuclear weapons assembly and disassembly plant near Amarillo observing a diamond-shaped object in September 2015, hovering and moving in a northerly trajectory at roughly ten to fifteen miles per hour, described by witnesses as around four feet tall and two feet wide at the base and thinner at the top, with conflicting colour descriptions. The object was tracked by ground radar and photographed from a nearby radar tower, and the imagery was analysed by DOE's Sandia National Laboratories. The report was released in more complete form during the 2026 executive-branch disclosure tranches after earlier heavily redacted releases.\n\nLuis Elizondo, testifying in November 2024, listed the Department of Energy among the White House, CIA, NASA and the Pentagon as agencies that play a role in the UAP issue while no one seems to be in charge, leading to unchecked power and corruption. As of the National Archives collection page's 22 May 2026 review, DOE had no transmittal listed in Record Group 615.",
+"openQuestions": [
+"DOE has not, on the public record, transmitted UAP records to the National Archives Record Group 615 under sections 1841-1843 of the FY2024 NDAA. Whether it has asserted that responsive material is Restricted Data and therefore outside the transfer obligation is undocumented and is the single highest-value question on this node.",
+"No released document establishes whether any UAP-related record has ever been classified as Restricted Data or Formerly Restricted Data. If one has, the FY2024 NDAA collection is structurally incomplete.",
+"AARO reports 50 incidents near nuclear weapons infrastructure from NNSA and NRC in a single year and states none were reported as UAP. The criteria by which the reporting agency classifies an unresolved object as an unmanned aerial system rather than a UAP have not been published.",
+"The Sandia National Laboratories imagery analysis of the 2015 Pantex object has not been released in full, and it is not known whether Sandia reached a conclusion on the object's identity.",
+"The complete record of the 16 February 1949 Los Alamos conference, the LaPaz interviews and the Project Twinkle instrument data has never been released as a set, and it is unclear which portions sit in DOE holdings versus Air Force holdings."
+],
+"roles": [
+"custody",
+"concealment",
+"reverse-engineering"
+],
+"whatItIs": "The Department of Energy is the successor to the Atomic Energy Commission and the custodian of the United States nuclear weapons complex, including Los Alamos, Sandia, Lawrence Livermore and the Pantex assembly and disassembly plant, operated through the National Nuclear Security Administration. Under the Atomic Energy Act of 1954 it holds a government-wide classification authority, Restricted Data, that exists entirely outside the executive order classification system and is not subject to automatic declassification.",
+"whyImplicated": "DOE holds the one classification authority in the United States government that a legacy programme could hide behind indefinitely, because Restricted Data is created by statute rather than by executive order, applies government-wide, and never automatically declassifies. Its facilities are also the physical centre of gravity of the phenomenon's own documented history: the green fireball wave of 1948 to 1951 concentrated over Los Alamos and Sandia, Project GRUDGE recorded case clusters in the Los Alamos and Albuquerque area and at Oak Ridge, and Congress now requires AARO to report annually on incidents at nuclear weapons production, transportation and storage facilities. In the most recent reporting year the Administrator for Nuclear Security and the Nuclear Regulatory Commission Chairman sent AARO fifty incident reports, a 177.8 percent increase over the prior year, every one of which AARO records as not reported as UAP. A former DoD official named DOE under oath as one of the agencies with a role and no accountability. DOE has not appeared among the agencies transmitting records to the statutory National Archives collection."
+},
+"entityInfo": {
+"desc": "Why DOE is the hardest problem on the board. Restricted Data and Formerly Restricted Data are created by the Atomic Energy Act of 1954 and are classified by operation of statute - 'born classified' - rather than by an original classification authority acting under an executive order. The practical consequences are three. First, a presidential declassification directive that operates on Executive Order 13526 information does not reach RD/FRD; the February 2026 UAP directive is such a directive. Second, RD/FRD is administered jointly by DOE and DoD under a separate procedure requiring DOE concurrence, so DoD cannot unilaterally release it either. Third, DOE's weapons complex - Los Alamos, Sandia, Livermore, the Nevada National Security Site, Pantex, Y-12, Savannah River - is contractor-operated on government land with its own clearance system, its own protective force and a legitimate mission that independently explains every observable security feature. Material held there requires no DoD SAP entry, appears in no 10 U.S.C. 119 report, and would not have been visible to AARO's SAPCO partnership, which AARO describes as covering 'the DoD, IC, and DHS'. DOE is not on that list. AARO's only recorded contact with DOE was a request that it 'review and provide any NDAs pertaining to UAP'.",
+"sources": []
+},
+"era": "1",
+"foia": {
+"questions": [
+0
+],
+"requests": [
+{
+"agency": "NARA",
+"partial": [],
+"questions": [
+0
+],
+"request": "F1",
+"sendTo": "National Archives and Records Administration, FOIA Officer, Office of General Counsel, 8601 Adelphi Road, College Park MD 20740. Cross-file a copy with the National Declassification Center, which is the operational custodian of the collection.",
+"status": "not filed",
+"title": "NARA - the RG 615 compliance register"
+}
+]
+},
+"hl": null,
+"id": "doe",
+"l0": true,
+"label": "United States Department of Energy",
+"locLabel": null,
+"members": [
+{
+"cls": "event",
+"id": "bluegill-triple-prime",
+"label": "Bluegill Triple Prime",
+"tier": "B"
+},
+{
+"cls": "institution",
+"id": "eop",
+"label": "Executive Office of the President",
+"tier": "B"
+},
+{
+"cls": "event",
+"id": "green-fireballs-conference-1949",
+"label": "Los Alamos Green Fireballs Conference",
+"tier": "B"
+},
+{
+"cls": "institution",
+"id": "jason-advisory-group",
+"label": "JASON",
+"tier": "B"
+},
+{
+"cls": "location",
+"id": "l-nevada-test-site",
+"label": "Nevada Test Site / Nevada National Security Site",
+"tier": "C"
+},
+{
+"cls": "institution",
+"id": "lanl",
+"label": "Los Alamos National Laboratory",
+"tier": "B"
+},
+{
+"cls": "person",
+"id": "lawrence-p-gise",
+"label": "Lawrence P. Gise",
+"tier": "B"
+},
+{
+"cls": "institution",
+"id": "llnl",
+"label": "Lawrence Livermore National Laboratory",
+"tier": "B"
+},
+{
+"cls": "institution",
+"id": "nnsa",
+"label": "National Nuclear Security Administration",
+"tier": "B"
+},
+{
+"cls": "institution",
+"id": "oak-ridge-national-laboratory",
+"label": "Oak Ridge National Laboratory (UT-Battelle, LLC)",
+"tier": "A"
+},
+{
+"cls": "institution",
+"id": "stony-brook-university",
+"label": "Stony Brook University",
+"tier": "C"
+},
+{
+"cls": "legislation",
+"id": "usc-50-2426",
+"label": "50 U.S.C. 2426 — Congressional Oversight of DOE/NNSA Special Access Programs",
+"tier": "B"
+}
+],
+"short": "United States Department of Energy",
+"sources": [
+{
+"date": "2026-07-05",
+"name": "Archived: AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I (DOPSR-2024-0263) (Wayback 2026-07-05)",
+"url": "https://web.archive.org/web/20260705034310/https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF"
+},
+{
+"date": "2026-08-06",
+"name": "Archived: Department of War PURSUE Release 01 - FBI file 62-HQ-83894 section 6 (Project Twinkle references) (Wayback 2026-08-06)",
+"url": "https://web.archive.org/web/20260806084012/https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_6.pdf"
+},
+{
+"date": "2026-08-12",
+"name": "National Nuclear Security Administration - About NNSA",
+"url": "https://www.energy.gov/nnsa/about-nnsa"
+},
+{
+"date": "2024-03-08",
+"name": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I (DOPSR-2024-0263)",
+"url": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF"
+},
+{
+"date": "2024-11-18",
+"name": "Los Alamos National Laboratory - FOIA requests at the National Security Research Center",
+"url": "https://www.lanl.gov/media/publications/the-vault/1124-foia-requests-at-the-national-security-research-center"
+},
+{
+"date": "2026-05-08",
+"name": "Department of War PURSUE Release 01 - FBI file 62-HQ-83894 section 6 (Project Twinkle references)",
+"url": "https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_6.pdf"
+},
+{
+"date": "2026-08-12",
+"name": "NSF NCSES - Master Government List of Federally Funded R&D Centers",
+"url": "https://ncses.nsf.gov/resource/master-gov-lists-ffrdc"
+}
+],
+"sub": "Successor to the Atomic Energy Commission; holder of Restricted Data authority independent of the executive classification system",
+"tier": "A",
+"tierRationale": "Re-graded A on a global pass (rank 50 of 1027, score 80). 21 connections, 6 of them custody/witness/funding/programmatic, 2 official denials recorded against it. Axes C3/A3/D0.",
+"timeline": [
+{
+"date": "1949-02-16",
+"id": "ag-tl-1949-fireballs",
+"label": "Los Alamos green fireball conference",
+"precision": "month",
+"strand": "program",
+"text": "AEC and Air Force personnel, with Edward Teller and Lincoln LaPaz, meet at Los Alamos over the green fireball incursions above the atomic complex. The Department of Energy's institutional predecessor is in the UAP record from the first decade.",
+"tier": "B"
+},
+{
+"date": "1954-08-30",
+"id": "ag-tl-1954-aea",
+"label": "Atomic Energy Act of 1954",
+"precision": "day",
+"strand": "program",
+"text": "Restricted Data is created as a category classified by statute rather than executive order. Any material placed under this authority becomes permanently beyond the reach of presidential declassification directives.",
+"tier": "A"
+}
+]
+}

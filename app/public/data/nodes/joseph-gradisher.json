@@ -1,0 +1,156 @@
+{
+"A": 1,
+"C": 0,
+"D": 1,
+"affiliations": [
+"U.S. Navy, Office of the Deputy Chief of Naval Operations for Information Warfare"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "2019-09-10",
+"event": "States the Navy designates the objects in the three videos as unidentified aerial phenomena, and that the videos were never released to the public.",
+"precision": "day"
+},
+{
+"date": "2020-04-27",
+"event": "DoD authorises the release of the three videos in an official statement.",
+"precision": "day"
+}
+],
+"claims": [
+{
+"source": "Joseph Gradisher, U.S. Navy, 10 September 2019",
+"text": "Stated: 'The Navy designates the objects contained in these videos as unidentified aerial phenomena.'",
+"tier": 1
+},
+{
+"source": "Joseph Gradisher, U.S. Navy, September 2019, via The Black Vault",
+"text": "Stated that 'neither the cognizant Navy offices nor DOPSR have record of any correspondence responding to a request for unrestricted release of the subject videos in 2017.'",
+"tier": 1
+}
+],
+"cls": "person",
+"cluster": "other",
+"conflicts": [
+"His statement that no unrestricted-release request exists is in tension with TTSA's public framing, though not with the text of the DD-1910 itself, which requested internal distribution only."
+],
+"connections": [
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "2019",
+"dateStart": "2019",
+"direction": "out",
+"edgeLabel": "'Neither the cognizant Navy offices nor DOPSR have record' of a 2017 unrestricted-release request",
+"id": "dd-form-1910-2017",
+"l0": false,
+"label": "DD Form 1910 for GoFast, Gimbal and FLIR video files",
+"note": "A denial that is narrowly correct: the DD-1910 sought internal distribution and expressly said 'not for publication'. It rebuts TTSA's framing without rebutting the form's existence.",
+"sources": [
+{
+"date": "2019-09-10",
+"name": "The Black Vault",
+"url": "https://www.theblackvault.com/documentarchive/u-s-navy-confirms-videos-depict-unidentified-aerial-phenomena-not-cleared-for-public-release/"
+}
+],
+"tier": "B",
+"type": "denial"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "2019",
+"dateStart": "2019",
+"direction": "out",
+"edgeLabel": "Navy designates the objects as unidentified aerial phenomena, 10 Sep 2019",
+"id": "navy-flir-gimbal-gofast-videos",
+"l0": false,
+"label": "FLIR1, Gimbal and GoFast Navy gun-camera videos",
+"note": "The single most consequential official concession of the period, made by a named service spokesman.",
+"sources": [
+{
+"date": "2019-09-10",
+"name": "The Black Vault",
+"url": "https://www.theblackvault.com/documentarchive/u-s-navy-confirms-videos-depict-unidentified-aerial-phenomena-not-cleared-for-public-release/"
+}
+],
+"tier": "B",
+"type": "institutional"
+}
+],
+"date": "2019-09-10",
+"dateEnd": null,
+"dateStart": "2019-09-10",
+"deg": 2,
+"denials": [
+{
+"by": {
+"id": "joseph-gradisher",
+"label": "Joseph Gradisher"
+},
+"claimTier": 1,
+"denialKind": "directed",
+"label": "'Neither the cognizant Navy offices nor DOPSR have record' of a 2017 unrestricted-release request",
+"note": "A denial that is narrowly correct: the DD-1910 sought internal distribution and expressly said 'not for publication'. It rebuts TTSA's framing without rebutting the form's existence.",
+"of": {
+"id": "dd-form-1910-2017",
+"label": "DD Form 1910 for GoFast, Gimbal and FLIR video files"
+},
+"sources": [
+{
+"date": "2019-09-10",
+"name": "The Black Vault",
+"url": "https://www.theblackvault.com/documentarchive/u-s-navy-confirms-videos-depict-unidentified-aerial-phenomena-not-cleared-for-public-release/"
+}
+]
+}
+],
+"domains": [
+"elizondo-ttsa"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "joseph-gradisher",
+"instId": "oni",
+"l0": false,
+"label": "Joseph Gradisher",
+"loc": "Arlington, VA",
+"locId": "l-pentagon",
+"members": null,
+"narrative": "Gradisher supplied the single most consequential official concession of the period and, in the same breath, the Navy's rebuttal of TTSA's release narrative. On 10 September 2019 he stated: 'The Navy designates the objects contained in these videos as unidentified aerial phenomena.' That sentence made FLIR1, Gimbal and GoFast officially unexplained. He simultaneously said 'The Navy has not released the videos to the general public' and that 'neither the cognizant Navy offices nor DOPSR have record of any correspondence responding to a request for unrestricted release of the subject videos in 2017' — directly undercutting the claim that the government had cleared the footage for publication. The DD Form 1910 Elizondo actually submitted supports Gradisher on the narrow point: it sought internal research and analysis distribution, expressly 'not for publication.' The two positions are reconcilable and both are in the record.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Joseph Gradisher",
+"sources": [
+{
+"date": "2019-09-10",
+"name": "The Black Vault — U.S. Navy Confirms Videos Depict 'Unidentified Aerial Phenomena'; Not Cleared For Public Release",
+"url": "https://www.theblackvault.com/documentarchive/u-s-navy-confirms-videos-depict-unidentified-aerial-phenomena-not-cleared-for-public-release/"
+}
+],
+"status": "former",
+"sub": "Spokesman, Deputy Chief of Naval Operations for Information Warfare",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 819 of 1027, score 17). 2 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D1.",
+"timeline": [
+{
+"date": "2019-09-10",
+"id": "tl-2019-09-10-gradisher",
+"label": "Navy designates the objects UAP",
+"precision": "day",
+"strand": "program",
+"text": "Joseph Gradisher: 'The Navy designates the objects contained in these videos as unidentified aerial phenomena' — while stating the Navy never released them and that no DOPSR record of an unrestricted-release request exists.",
+"tier": "A"
+}
+],
+"unexplainedResidual": null,
+"unverified": []
+}

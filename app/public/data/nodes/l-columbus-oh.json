@@ -1,0 +1,113 @@
+{
+"A": 1,
+"C": 2,
+"D": 0,
+"band": null,
+"claims": [
+{
+"source": "Battelle corporate materials; NSF NCSES FFRDC master list administrator entries",
+"text": "Battelle Memorial Institute is headquartered in Columbus, Ohio and was founded in 1929.",
+"tier": 1
+}
+],
+"cls": "location",
+"cluster": "ffrdc",
+"connections": [
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "Battelle Memorial Institute headquarters",
+"id": "battelle",
+"l0": true,
+"label": "Battelle Memorial Institute",
+"note": "Battelle Memorial Institute's own IRS Form 990 filings give its address as Columbus, Ohio. The FFRDCs it administers or co-administers sit at Idaho Falls, Richland and Aiken, none of them at Columbus, so the Columbus tie is the institute's own seat rather than a federal laboratory site.",
+"sources": [
+{
+"date": "2026-08-25",
+"name": "Battelle Memorial Institute IRS Form 990 filings, EIN 31-4379427 (ProPublica Nonprofit Explorer)",
+"url": "https://projects.propublica.org/nonprofits/organizations/314379427"
+},
+{
+"date": "2026-08-25",
+"name": "NSF NCSES Master Government List of FFRDCs",
+"url": "https://ncses.nsf.gov/resource/master-gov-lists-ffrdc"
+},
+{
+"date": null,
+"name": "https://cufos.org/resources/project-blue-book/",
+"url": "https://cufos.org/resources/project-blue-book/"
+}
+],
+"tier": "A",
+"type": "geographic"
+},
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "Project Stork / Blue Book Special Report No. 14 produced here",
+"id": "project-blue-book",
+"l0": true,
+"label": "Project Blue Book",
+"note": "TIER 3, INFERENTIAL, and the reason is worth stating. Project Blue Book Special Report No. 14, the statistical analysis of 1947-1952 sighting reports dated 5 May 1955, is attributed on its own title page to the Air Technical Intelligence Center at Wright-Patterson Air Force Base, Ohio, under Project No. 10073. Its summary says the study 'was prepared by a panel of scientists both in and out of the Air Force'. The released copy names no contractor at all: a full-text scan of all 313 pages finds no occurrence of 'Battelle', 'Columbus' or 'Memorial Institute'. The Columbus tie rests entirely on the secondary literature's Battelle attribution, which the primary record does not make.",
+"sources": [
+{
+"date": "1955-05-05",
+"name": "Project Blue Book Special Report No. 14, 5 May 1955 (CIA-RDP81R00560R000100060001-5, released copy, 313 pp.)",
+"url": "https://documents2.theblackvault.com/documents/ufos/CIA-RDP81R00560R000100060001-5.pdf"
+},
+{
+"date": null,
+"name": "https://archive.org/details/ProjectBlueBookSpecialReport14",
+"url": "https://archive.org/details/ProjectBlueBookSpecialReport14"
+},
+{
+"date": null,
+"name": "https://cufos.org/resources/project-blue-book/",
+"url": "https://cufos.org/resources/project-blue-book/"
+}
+],
+"tier": "A",
+"type": "geographic"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "1929",
+"deg": 2,
+"denials": [],
+"desc": "Battelle Memorial Institute has been headquartered in Columbus, Ohio since 1929. The distance from Columbus to Wright-Patterson Air Force Base in Dayton is roughly sixty-five miles - close enough that Battelle was the natural contractor for Air Force materials and analytical work throughout the 1940s and 1950s, including the nickel-titanium alloy research from which nitinol emerged and the Project Stork analysis of Project Blue Book's case files. Copy No. 35 of Blue Book Special Report No. 14 bears Ohio markings. The geography explains the persistence: the Air Force's technical intelligence centre and the country's largest private applied science institute sat an hour apart, and the analytical work on unidentified objects moved between them for a decade.",
+"domains": [
+"ffrdcs"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "l-columbus-oh",
+"l0": false,
+"label": "Columbus, Ohio",
+"locLabel": null,
+"members": null,
+"short": "Columbus, Ohio",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "NSF NCSES - Master Government List of Federally Funded R&D Centers",
+"url": "https://ncses.nsf.gov/resource/master-gov-lists-ffrdc"
+}
+],
+"sub": "Battelle Memorial Institute headquarters since 1929; ~65 miles from Wright-Patterson AFB",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 864 of 1027, score 16). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A1/D0.",
+"timeline": []
+}

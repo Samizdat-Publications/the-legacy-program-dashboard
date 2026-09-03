@@ -1,0 +1,155 @@
+{
+"A": 0,
+"C": 0,
+"D": 2,
+"band": null,
+"claims": [
+{
+"source": "The Hill search index, retrieved 12 August 2026",
+"text": "The Hill has published a run of UAP opinion pieces in its national security and technology sections, with live URLs confirmed via The Hill's own search index.",
+"tier": 1
+}
+],
+"cls": "institution",
+"cluster": "media",
+"connections": [
+{
+"claimTier": 2,
+"cls": "domain",
+"dateEnd": null,
+"dateStart": "2023",
+"direction": "out",
+"edgeLabel": "placement aimed at the congressional audience rather than original investigation",
+"id": "d-media",
+"l0": false,
+"label": "Independent media as the disclosure substrate",
+"note": "The Hill is read by congressional staff and has carried sustained UAP coverage and opinion aimed at that readership - the January 2024 classified briefing, the fight over the UAP amendment's inclusion in the FY2024 defence bill, and continuing coverage of Grusch. Graded Tier 2 because the sourced record shows placement and coverage, not original documentary investigation.",
+"sources": [
+{
+"date": "2024-01-12",
+"name": "The Hill, 'Classified UFO briefing: House members emerge with mixed feelings'",
+"url": "https://thehill.com/homenews/house/4406059-classified-ufo-briefing-house-members-mixed-feelings/"
+},
+{
+"date": "2023-11-30",
+"name": "The Hill, 'House lawmakers demand transparency from leaders on UAP amendment's inclusion in Defense bill'",
+"url": "https://thehill.com/policy/defense/4337149-house-lawmakers-demand-transparency-from-leaders-on-uap-amendments-inclusion-in-defense-bill/"
+}
+],
+"tier": "C",
+"type": "investigative"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "Continuing coverage of Grusch and congressional UAP transparency push",
+"id": "david-grusch",
+"l0": false,
+"label": "David Charles Grusch",
+"note": "The Hill has carried repeated reporting on Grusch's claims and on lawmakers' efforts to get him into a classified setting, including 'Congress continues to seek answers on UFOs' (Grusch/Burlison) and later coverage of Grusch joining lawmakers demanding release of UAP files. Article pages could not be fetched directly (site blocked automated fetch); edge rests on indexed headlines and URLs.",
+"sources": [
+{
+"date": null,
+"name": "https://thehill.com/homenews/house/5214211-david-grusch-eric-burlison-ufo-transparency/",
+"url": "https://thehill.com/homenews/house/5214211-david-grusch-eric-burlison-ufo-transparency/"
+},
+{
+"date": null,
+"name": "https://thehill.com/homenews/administration/5916231-government-aware-of-several-kinds-of-aliens-ufo-whistleblower/",
+"url": "https://thehill.com/homenews/administration/5916231-government-aware-of-several-kinds-of-aliens-ufo-whistleblower/"
+}
+],
+"tier": "A",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": null,
+"dateStart": "2024-11-13",
+"direction": "out",
+"edgeLabel": "Covered the November 2024 House UAP secrecy hearing",
+"id": "hearing-2024-11-13",
+"l0": true,
+"label": "House Oversight joint hearing, 13 November 2024 - 'Unidentified Anomalous Phenomena: Exposing the Truth'",
+"note": "The Hill reported the joint House Oversight subcommittee hearing of 13 November 2024 under the headline 'House panel hears of hidden UAP trove, secretive arms race', and also carried the live video of the proceeding. Hearing date independently confirmed by NPR's same-day report.",
+"sources": [
+{
+"date": null,
+"name": "https://thehill.com/homenews/house/4989539-house-uap-secrecy-hearing/",
+"url": "https://thehill.com/homenews/house/4989539-house-uap-secrecy-hearing/"
+},
+{
+"date": null,
+"name": "https://thehill.com/video-clips/4988090-watch-live-house-convenes-hearing-on-ufos/",
+"url": "https://thehill.com/video-clips/4988090-watch-live-house-convenes-hearing-on-ufos/"
+},
+{
+"date": null,
+"name": "https://www.npr.org/2024/11/13/nx-s1-5189426/ufo-uap-hearing-congress-2024",
+"url": "https://www.npr.org/2024/11/13/nx-s1-5189426/ufo-uap-hearing-congress-2024"
+}
+],
+"tier": "A",
+"type": "investigative"
+},
+{
+"claimTier": 2,
+"cls": "legislation",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "Reported the fight over the UAP amendment in the FY2024 defence bill",
+"id": "uapda-2023",
+"l0": true,
+"label": "UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)",
+"note": "The Hill covered House members demanding transparency from leadership over whether the UAP Disclosure Act amendment would be retained in the FY2024 National Defense Authorization Act. The article page could not be retrieved directly (the site blocked automated fetch), so this edge rests on the indexed headline and URL rather than a verified full text; date left null for that reason.",
+"sources": [
+{
+"date": null,
+"name": "https://thehill.com/policy/defense/4337149-house-lawmakers-demand-transparency-from-leaders-on-uap-amendments-inclusion-in-defense-bill/",
+"url": "https://thehill.com/policy/defense/4337149-house-lawmakers-demand-transparency-from-leaders-on-uap-amendments-inclusion-in-defense-bill/"
+}
+],
+"tier": "A",
+"type": "investigative"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "1994",
+"deg": 4,
+"denials": [],
+"desc": "The Hill is the trade publication read by congressional staff, and its opinion pages have carried a sustained run of UAP arguments aimed at the legislative audience - on whether the Pentagon spread false UFO stories, on H.R. McMaster's remarks, on the case the programme allegations make for the UAP Disclosure Act, and on drone incursions. Its function in this domain is placement rather than investigation: an argument published in The Hill reaches the staffers who draft the NDAA language, which is a different and in some ways more consequential distribution than a million YouTube views.",
+"domains": [
+"media-structure"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "1",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "the-hill",
+"l0": false,
+"label": "The Hill",
+"locLabel": null,
+"members": null,
+"short": "The Hill",
+"sources": [
+{
+"date": "2025-01-01",
+"name": "The Hill - 'Did the Pentagon spread false UFO stories? We're skeptical.'",
+"url": "https://thehill.com/opinion/national-security/5381851-did-the-pentagon-spread-false-ufo-stories-were-skeptical/"
+}
+],
+"sub": "Congressional trade publication",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 968 of 1027, score 11). 4 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D2.",
+"timeline": []
+}

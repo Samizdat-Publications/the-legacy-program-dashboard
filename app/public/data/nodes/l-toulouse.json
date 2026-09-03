@@ -1,0 +1,91 @@
+{
+"A": 1,
+"C": 1,
+"D": 3,
+"band": null,
+"claims": [
+{
+"source": "GEIPAN official site — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"text": "GEIPAN operates within CNES at Toulouse and publishes its classification scheme and case statistics publicly.",
+"tier": 2
+},
+{
+"source": "Board bookkeeping",
+"text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
+"tier": 3
+}
+],
+"cls": "location",
+"cluster": "other",
+"connections": [
+{
+"claimTier": 1,
+"cls": "domain",
+"dateEnd": null,
+"dateStart": "1977-05-01",
+"direction": "in",
+"edgeLabel": "GEIPAN's operating base",
+"id": "d-international",
+"l0": false,
+"label": "International & Allied Programs",
+"note": "GEIPAN has operated within CNES at Toulouse since 1977, publishing classifications and statistics openly.",
+"sources": [
+{
+"date": "2026-03-31",
+"name": "GEIPAN - Classification",
+"url": "https://www.geipan.fr/fr/node/58787"
+}
+],
+"tier": "C",
+"type": "geographic"
+}
+],
+"coords": [
+43.6047,
+1.4442
+],
+"dateEnd": null,
+"dateStart": null,
+"deg": 1,
+"denials": [],
+"desc": "Toulouse is the centre of the French aerospace industry and the site of the Centre National d'Etudes Spatiales, within which the GEIPAN unit has investigated unidentified aerospace phenomena on behalf of the French state since 1977. GEIPAN's importance to this board is that it is the working demonstration of an open official programme: it publishes its four-category classification scheme, publishes running statistics, and makes its case files publicly accessible, including the residual category of cases that remain unexplained after full investigation. Claude Poher, who founded the unit, and Jean-Jacques Velasco, who later directed it, both operated from here on the public record.",
+"domains": [
+"_stubs",
+"w2-taxonomy"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "nd",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "l-toulouse",
+"l0": false,
+"label": "Toulouse, France",
+"locLabel": "Toulouse, France",
+"members": null,
+"short": "Toulouse, France",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Wikipedia - Toulouse",
+"url": "https://en.wikipedia.org/wiki/Toulouse"
+},
+{
+"date": "2026-08-12",
+"name": "GEIPAN - accueil",
+"url": "https://www.geipan.fr/"
+},
+{
+"date": "2026-03-31",
+"name": "GEIPAN - Classification",
+"url": "https://www.geipan.fr/fr/node/58787"
+}
+],
+"sub": "City in Occitanie; headquarters of CNES and of GEIPAN",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 844 of 1027, score 17). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D3.",
+"timeline": []
+}

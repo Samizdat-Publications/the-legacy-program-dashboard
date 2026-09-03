@@ -1,0 +1,87 @@
+{
+"A": 0,
+"C": 1,
+"D": 2,
+"band": null,
+"claims": [
+{
+"source": "FBI, Guy Hottel memorandum, 22 March 1950, released on The Vault",
+"text": "The memorandum is dated 22 March 1950, authored by Guy Hottel, special agent in charge of the FBI's Washington Field Office, and describes three circular craft of approximately fifty feet diameter recovered in New Mexico, each with three humanoid bodies three feet tall in metallic cloth, attributed to high-powered radar interference; it concludes 'No further evaluation was attempted.'",
+"tier": 1
+},
+{
+"source": "FBI public statements on the Hottel memorandum",
+"text": "The FBI has described the memo as relaying a second- or third-hand claim that the Bureau never investigated, and it became the most-viewed document on The Vault after that reading room launched in April 2011.",
+"tier": 1
+},
+{
+"source": "Inference from the document's own closing line",
+"text": "The memo's evidentiary value is as a dated marker for the circulation of the multiple-disc recovery narrative in official channels before Scully's book was published, not as evidence of a recovery. Reasoning: the document self-reports that no evaluation was attempted, so it records a rumour's reach rather than a fact's verification.",
+"tier": 3
+}
+],
+"cls": "document",
+"cluster": "legacy",
+"connections": [
+{
+"claimTier": 3,
+"cls": "event",
+"dateEnd": "1950",
+"dateStart": "1950-03-22",
+"direction": "out",
+"edgeLabel": "The Hottel memo predates and partly parallels the Aztec narrative",
+"id": "aztec-1948",
+"l0": true,
+"label": "Aztec, New Mexico claim, March 1948",
+"note": "Hottel's memo of 22 March 1950 describes three fifty-foot discs with three-foot occupants two months before Scully's book described one ninety-nine-foot disc with sixteen. The narratives are related but not identical, so the memo is better read as evidence that the recovery rumour was already in official circulation than as independent confirmation of Aztec.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "FBI Records: The Vault (FOIA reading room) - Guy Hottel memorandum, 22 March 1950",
+"url": "https://vault.fbi.gov/"
+}
+],
+"tier": "A",
+"type": "custody"
+}
+],
+"coords": null,
+"dateEnd": "1950-03-22",
+"dateStart": "1950-03-22",
+"deg": 1,
+"denials": [],
+"desc": "A one-page memorandum written on 22 March 1950 by Guy Hottel, special agent in charge of the FBI's Washington Field Office, relaying a third-party account that an Air Force investigator had reported the recovery in New Mexico of three circular craft approximately fifty feet in diameter, each containing three humanoid bodies about three feet tall wearing metallic cloth, the recovery attributed to interference from a high-powered radar installation in the area. The memo ends: 'No further evaluation was attempted.' It became the most-viewed document on the FBI's Vault reading room when that was launched in April 2011, and the FBI has publicly characterised it as 'a second- or third-hand claim that we never investigated'. The document's status on this board is precise and should not be inflated: it is tier 1 as an artifact - a genuine FBI record of that date, publicly released, whose text says what it says - and tier 3 as evidence of a recovery, because its own author recorded that the Bureau did nothing with it. What it does establish is that by March 1950 an account of multiple recovered discs with small occupants was circulating at a level that reached an FBI field office SAC in writing, two months before Scully's book appeared, and that the Bureau's response was to file it.",
+"domains": [
+"w2-retrieval-literature"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "hottel-memo",
+"l0": false,
+"label": "Guy Hottel memorandum, 22 March 1950",
+"locLabel": null,
+"members": null,
+"short": "Guy Hottel memorandum, 22 March 1950",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "FBI Records: The Vault (FOIA reading room) - Guy Hottel memorandum, 22 March 1950",
+"url": "https://vault.fbi.gov/"
+},
+{
+"date": "2026-08-12",
+"name": "Aztec crashed saucer hoax - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/Aztec,_New_Mexico_UFO_incident"
+}
+],
+"sub": "FBI Washington Field Office memo on three recovered circular craft",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 789 of 1027, score 19). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A0/D2.",
+"timeline": []
+}

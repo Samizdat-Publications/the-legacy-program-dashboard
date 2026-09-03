@@ -1,0 +1,158 @@
+{
+"A": 0,
+"C": 0,
+"D": 3,
+"affiliations": [
+"Liberation Times, journalist and editor (2022-present)"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "2023-02-28",
+"event": "Publishes the O'Donnell / EG&G account and the D'Amato inquiry material",
+"precision": "day"
+},
+{
+"date": "2023-03-11",
+"event": "Publishes Corbell's call to audit Lockheed Martin SAPs with Elizondo's response",
+"precision": "day"
+},
+{
+"date": "2023-06-24",
+"event": "Documents the SSCI contractor amnesty language for non-earth origin material",
+"precision": "day"
+},
+{
+"date": "2024-11-13",
+"event": "His Lockheed-Bigelow-CIA reporting is read into a House Oversight hearing and confirmed by Elizondo",
+"precision": "day"
+},
+{
+"date": "2026-01-13",
+"event": "Reports the alleged long-term storage of an exotic vehicle at NAS Patuxent River",
+"precision": "day"
+},
+{
+"date": "2026-06-16",
+"event": "Reports the establishment and first meeting of the interagency UAP Governance Board",
+"precision": "day"
+}
+],
+"claims": [
+{
+"source": "CHRG-118hhrg57440, 13 November 2024, referencing Christopher Sharp's reporting",
+"text": "Sharp reported a material transfer between Lockheed Martin and Bigelow Aerospace that was blocked by CIA; Rep. Burlison read the reporting into the 13 November 2024 hearing and Elizondo confirmed 'it was blocked.'",
+"tier": 2
+},
+{
+"source": "Liberation Times, 13 January 2026",
+"text": "Sharp reported that an exotic vehicle of unknown origin has been stored for decades at NAS Patuxent River, and that contingency plans may exist to relocate it if the location were publicly identified.",
+"tier": 2
+},
+{
+"source": "Liberation Times, 16 June 2026",
+"text": "An ODNI official told Sharp that ODNI, with the FBI and the Department of War, established a UAP Governance Board that first met on 15 June 2026.",
+"tier": 2
+}
+],
+"cls": "person",
+"cluster": "media",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 2,
+"cls": "institution",
+"dateEnd": "2024",
+"dateStart": "2023",
+"direction": "out",
+"edgeLabel": "Sharp's reporting of the Lockheed-Bigelow transfer was read into a congressional hearing and confirmed",
+"id": "lockheed-martin",
+"l0": true,
+"label": "Lockheed Martin Corporation",
+"note": "Burlison attributed the reporting to Sharp by name on 13 November 2024 and Elizondo confirmed the block, making this the rare case of independent journalism validated on the record by the relevant witness.",
+"sources": [
+{
+"date": "2024-11-13",
+"name": "House Oversight hearing transcript, 'Unidentified Anomalous Phenomena: Exposing the Truth' (CHRG-118hhrg57440)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm"
+},
+{
+"date": "2026-01-13",
+"name": "Christopher Sharp, 'UFO Allegedly Stored At East Coast Navy Facility As Material Transfer Claims Resurface,' Liberation Times",
+"url": "https://www.liberationtimes.com/home/ufo-allegedly-stored-at-east-coast-navy-facility-as-material-transfer-claims-resurface"
+}
+],
+"tier": "A",
+"type": "investigative"
+}
+],
+"date": "2024-11-13",
+"dateEnd": null,
+"dateStart": "2024-11-13",
+"deg": 1,
+"denials": [],
+"domains": [
+"primes-custody"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "christopher-sharp",
+"instId": null,
+"l0": false,
+"label": "Christopher Sharp",
+"loc": "London, UK",
+"locId": "l-london",
+"members": null,
+"narrative": "Sharp's reporting is the connective tissue of this domain, and its reliability was tested in the most public way available: on 13 November 2024 Rep. Eric Burlison read Sharp's account of a Lockheed Martin - Bigelow Aerospace material transfer blocked by CIA into a congressional hearing and asked a former program director to describe it, and the witness confirmed the block. Sharp had earlier, in February and March 2023, published the two pieces that framed the contractor question before Congress took it up - the account of EG&G's Alfred O'Donnell and the recovered craft, and Jeremy Corbell's challenge to the Senate Appropriations Committee to audit Lockheed Martin's special access programs, in which Elizondo urged that the inquiry not be limited to one aerospace company 'but to several others that have likely played a key historical role in this endeavour.' In June 2023 he documented the Senate Intelligence Committee's proposed contractor amnesty for 'non-earth origin or exotic' material before that language was stripped in conference. In January 2026 he reported that an exotic vehicle has been stored for decades at Naval Air Station Patuxent River and that Elizondo's written congressional testimony placed Pax River among the sites prepared for the blocked Lockheed-Bigelow transfer. He also broke the June 2026 existence of the interagency UAP Governance Board via a named ODNI official.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Christopher Sharp",
+"sources": [
+{
+"date": "2023-03-11",
+"name": "Christopher Sharp, 'Lockheed Martin Challenged On UFO Legacy Programs, As Politicians Talk Hearings,' Liberation Times",
+"url": "https://www.liberationtimes.com/home/lockheed-martin-challenged-on-ufo-legacy-programs-as-politicians-talk-hearings"
+},
+{
+"date": "2023-02-28",
+"name": "Christopher Sharp, 'Former Chief For Defense Contractor That Ran Area 51 Claimed Knowledge Of Recovered Flying Saucer And Live Being,' Liberation Times",
+"url": "https://www.liberationtimes.com/home/former-chief-for-defense-contractor-that-ran-area-51-claimed-knowledge-of-recovered-flying-saucer-and-live-being-as-congress-looks-to-uncover-details-of-alleged-illegal-ufo-programs"
+},
+{
+"date": "2023-06-24",
+"name": "Christopher Sharp, 'Senate Intelligence Committee Proposes Amnesty to Defense Contractors for Disclosure of Non-Earth Origin or Exotic Materials,' Liberation Times",
+"url": "https://www.liberationtimes.com/home/senate-intelligence-committee-proposes-amnesty-to-defense-contractors-for-disclosure-of-non-earth-origin-or-exotic-materials-in-approved-ufo-language"
+},
+{
+"date": "2026-01-13",
+"name": "Christopher Sharp, 'UFO Allegedly Stored At East Coast Navy Facility As Material Transfer Claims Resurface,' Liberation Times",
+"url": "https://www.liberationtimes.com/home/ufo-allegedly-stored-at-east-coast-navy-facility-as-material-transfer-claims-resurface"
+},
+{
+"date": "2026-06-16",
+"name": "Christopher Sharp, 'US Establishes New Interagency UAP Governance Board To Coordinate Investigations And Declassification,' Liberation Times",
+"url": "https://www.liberationtimes.com/home/us-establishes-new-interagency-uap-governance-board-to-coordinate-investigations-and-declassification"
+},
+{
+"date": "2024-11-13",
+"name": "House Oversight hearing transcript, 'Unidentified Anomalous Phenomena: Exposing the Truth' (CHRG-118hhrg57440)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm"
+}
+],
+"status": "active",
+"sub": "Journalist and editor, Liberation Times",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 918 of 1027, score 13). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.",
+"timeline": [],
+"unexplainedResidual": null,
+"unverified": [
+"The identity of Sharp's sources for the Lockheed-Bigelow transfer and the Pax River storage claim."
+]
+}

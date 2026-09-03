@@ -1,0 +1,112 @@
+{
+"A": 2,
+"C": 1,
+"D": 0,
+"band": null,
+"claims": [
+{
+"source": "Schedule 14D-1 submission header, Raytheon Company and RTN Acquisition Corporation for E Systems Inc, accession 0000950109-95-001096, filed 3 April 1995, https://www.sec.gov/Archives/edgar/data/30875/0000950109-95-001096.txt",
+"text": "SEC EDGAR records E Systems Inc at central index key 0000030875, incorporated in Delaware, SIC 3812, with two former conformed names: LTV ELECTROSYSTEMS INC, date of name change 16 May 1972, and LTV ELECTROSYSTEMS INC GREENVILLE EMPLOY, date of name change 21 June 1973.",
+"tier": 1
+},
+{
+"source": "E Systems Inc Form 10-K, accession 0000912057-95-001713, filed 27 March 1995, https://www.sec.gov/Archives/edgar/data/30875/0000912057-95-001713.txt",
+"text": "E-Systems' Form 10-K for fiscal 1994 states that 'The Company was incorporated in Delaware in 1964' and, in its environmental disclosures, refers to 'the Company and its predecessor corporation, LTV'.",
+"tier": 1
+},
+{
+"source": "E Systems Inc Form 10-K, accession 0000912057-95-001713, filed 27 March 1995, https://www.sec.gov/Archives/edgar/data/30875/0000912057-95-001713.txt",
+"text": "The Form 10-K business description states that reconnaissance and surveillance systems and command, control and communications systems 'represented approximately 75% of the Company's sales in 1994', and that the company also designed and manufactured intelligence collection and processing systems.",
+"tier": 1
+},
+{
+"source": "Schedule 14D-1/A Amendment No. 4 (Final Amendment) and Exhibit (a)(9), accession 0000950130-95-000863, filed 1 May 1995, https://www.sec.gov/Archives/edgar/data/30875/0000950130-95-000863.txt",
+"text": "Raytheon Company, through RTN Acquisition Corporation, offered $64.00 per share in cash for all E-Systems shares under an Agreement and Plan of Merger dated as of 2 April 1995; the offer expired on 28 April 1995 with approximately 96.46 per cent of shares tendered, and Raytheon's press release of 1 May 1995 announced completion of a transaction 'valued at $2.3 billion'.",
+"tier": 1
+},
+{
+"source": "Schedule 14D-9, E-Systems Inc, accession 0000950109-95-001097, filed 3 April 1995, https://www.sec.gov/Archives/edgar/data/30875/0000950109-95-001097.txt",
+"text": "The ten directors of E-Systems listed in the Schedule 14D-9 information statement of 3 April 1995 are James A. Bitonti, S. Lee Kling, David R. Tacke, E. F. Buehring, Charles A. Gabriel, A. Lowell Lawson, C. Roland Haden, Martin R. Hoffmann, E. Gene Keiffer and Francine I. Neff. Edward C. Aldridge is not among them.",
+"tier": 1
+},
+{
+"source": "DEBRIEFED with Chris Ramsay, 'Jesse Michels, UAPGerb & Chris Ramsay - Flying Saucer Diner', 17 July 2026, 0:55:31, transcript in dist/transcripts/md/",
+"text": "On DEBRIEFED with Chris Ramsay, 17 July 2026, at 0:55:31, a panel speaker who self-identifies at 0:58:00 as the maker of 'my Air Force video' said of Edward C. 'Pete' Aldridge that 'He was a senior, I think, board member at LTV Aerospace, which was eventually transitioned to E systems, which was a CIA show company and then bought up by Raytheon.' The opened SEC filings name LTV Electrosystems, not LTV Aerospace, as the predecessor, list ten directors none of whom is Aldridge, and describe a listed NYSE contractor rather than a proprietary.",
+"tier": 2
+}
+],
+"cls": "institution",
+"cluster": "contractor",
+"connections": [
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "1995-05-01",
+"dateStart": "1995-05-01",
+"direction": "out",
+"edgeLabel": "Raytheon acquired E-Systems outright, completed 1 May 1995",
+"id": "raytheon",
+"l0": false,
+"label": "Raytheon (RTX Corporation)",
+"note": "Raytheon acquired E-Systems outright on 1 May 1995, taking its reconnaissance, surveillance and intelligence-collection business lines into the Raytheon node the board already carries.",
+"sources": [
+{
+"date": "1995-05-01",
+"name": "Schedule 14D-1/A Amendment No. 4 (Final Amendment) and Raytheon's press release of 1 May 1995, accession 0000950130-95-000863",
+"url": "https://www.sec.gov/Archives/edgar/data/30875/0000950130-95-000863.txt"
+}
+],
+"tier": "C",
+"type": "custody"
+}
+],
+"coords": null,
+"dateEnd": "1995-05-01",
+"dateStart": "1964-12-28",
+"deg": 1,
+"denials": [],
+"desc": "A Dallas defence electronics contractor, incorporated in Delaware in 1964 and acquired by Raytheon in a $2.3 billion cash tender offer completed on 1 May 1995. Its SEC filer record carries its own name history: it filed as LTV Electrosystems, Inc. until 1972. Three quarters of its 1994 sales were reconnaissance and surveillance systems and command, control and communications systems, and it also built intelligence collection and processing systems. It is drafted here because a podcast panel used it as the middle term of a custody chain running LTV Aerospace to E-Systems to Raytheon; the filings contradict the first link, naming LTV Electrosystems rather than LTV Aerospace as the predecessor, and place Edward C. Aldridge nowhere in the company's governance.",
+"domains": [
+"area52-2026-09-02"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "e-systems-inc",
+"l0": false,
+"label": "E-Systems, Inc.",
+"locLabel": null,
+"members": null,
+"short": "E-Systems, Inc.",
+"sources": [
+{
+"date": "1995-04-03",
+"name": "Schedule 14D-1, Raytheon Company and RTN Acquisition Corporation for E Systems Inc, accession 0000950109-95-001096",
+"url": "https://www.sec.gov/Archives/edgar/data/30875/0000950109-95-001096.txt"
+},
+{
+"date": "1995-04-03",
+"name": "Schedule 14D-9, E-Systems Inc, accession 0000950109-95-001097",
+"url": "https://www.sec.gov/Archives/edgar/data/30875/0000950109-95-001097.txt"
+},
+{
+"date": "1995-03-27",
+"name": "E Systems Inc Form 10-K for fiscal 1994, accession 0000912057-95-001713",
+"url": "https://www.sec.gov/Archives/edgar/data/30875/0000912057-95-001713.txt"
+},
+{
+"date": "1995-05-01",
+"name": "Schedule 14D-1/A Amendment No. 4 (Final Amendment) and Exhibit (a)(9), accession 0000950130-95-000863",
+"url": "https://www.sec.gov/Archives/edgar/data/30875/0000950130-95-000863.txt"
+}
+],
+"sub": "Dallas defence electronics contractor, incorporated in Delaware 1964 as LTV Electrosystems; acquired by Raytheon 1 May 1995",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 441 of 1027, score 31). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A2/D0.",
+"timeline": []
+}

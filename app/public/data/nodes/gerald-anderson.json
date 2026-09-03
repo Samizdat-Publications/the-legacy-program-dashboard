@@ -1,0 +1,181 @@
+{
+"A": 0,
+"C": 2,
+"D": 0,
+"affiliations": [],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "1947-07",
+"event": "Alleged childhood encounter on the Plains of San Agustin",
+"precision": "month"
+},
+{
+"date": "1990",
+"event": "Comes forward after a television broadcast",
+"precision": "year"
+},
+{
+"date": "1992",
+"event": "Account published in Friedman and Berliner, 'Crash at Corona'; Rodeghier and Whiting publish 'The Plains of San Agustin Controversy'",
+"precision": "year"
+},
+{
+"date": "1997",
+"event": "Interview transcript printed at Appendix C, page 187, of the Air Force's 'Case Closed'",
+"precision": "year"
+}
+],
+"claims": [
+{
+"source": "Headquarters USAF, 'The Roswell Report: Case Closed' (1997), Appendix C https://archive.org/details/DTIC_ADA326147",
+"text": "The USAF's 'Case Closed' prints Gerald Anderson's interview in full as Appendix C, beginning at page 187, noting it was 'excerpted in their entirety from unedited interviews used to prepare the video, Recollections of Roswell, Part II (1993)' and appears courtesy of the Fund for UFO Research. The Air Force also quotes him directly on the alleged bodies: 'I thought they were plastic dolls.'",
+"tier": 1
+},
+{
+"source": "The Roswell Report: Case Closed (1997), Appendix C",
+"text": "Anderson's interview transcript is reproduced at Appendix C, page 187, of the US Air Force's 1997 report.",
+"tier": 1
+},
+{
+"source": "The Roswell Report: Case Closed (1997), Section 1.4 and Conclusion",
+"text": "Anderson described the bodies as 'I thought they were plastic dolls' and described recovery procedures the Air Force found consistent with high-altitude balloon and anthropomorphic dummy launch and recovery.",
+"tier": 2
+},
+{
+"source": "Rodeghier and Whiting, 'The Plains of San Agustin Controversy' (1992), cited at note 123 of the 1997 Air Force report",
+"text": "Mark Rodeghier (CUFOS) and Fred Whiting (Fund for UFO Research) published a joint investigation, 'The Plains of San Agustin Controversy', concluding against Anderson's reliability.",
+"tier": 2
+}
+],
+"cls": "person",
+"cluster": "other",
+"conflicts": [
+"Friedman continued to defend elements of Anderson's account after the CUFOS/FUFOR report; Randle rejected it."
+],
+"connections": [
+{
+"claimTier": 2,
+"cls": "institution",
+"dateEnd": "1992",
+"dateStart": "1992",
+"direction": "out",
+"edgeLabel": "CUFOS and FUFOR investigated and discredited their own witness",
+"id": "cufos",
+"l0": false,
+"label": "J. Allen Hynek Center for UFO Studies (CUFOS)",
+"note": "Mark Rodeghier of CUFOS and Fred Whiting of the Fund for UFO Research published 'The Plains of San Agustin Controversy' concluding against Anderson's reliability.",
+"sources": [
+{
+"date": "1997-01-01",
+"name": "The Roswell Report: Case Closed (1997)",
+"url": "https://archive.org/details/AFD-101027-030"
+}
+],
+"tier": "C",
+"type": "investigative"
+},
+{
+"claimTier": 2,
+"cls": "institution",
+"dateEnd": "1992",
+"dateStart": "1992",
+"direction": "in",
+"edgeLabel": "FUFOR co-authored the report against its own first-hand witness",
+"id": "fund-for-ufo-research",
+"l0": false,
+"label": "Fund for UFO Research",
+"note": "Fred Whiting for FUFOR with Mark Rodeghier for CUFOS. Cited at note 123 of the 1997 Air Force report.",
+"sources": [
+{
+"date": "1997-01-01",
+"name": "The Roswell Report: Case Closed (1997)",
+"url": "https://archive.org/details/AFD-101027-030"
+}
+],
+"tier": "C",
+"type": "investigative"
+},
+{
+"claimTier": 2,
+"cls": "event",
+"dateEnd": "1992",
+"dateStart": "1990",
+"direction": "out",
+"edgeLabel": "Sole claimed first-hand witness to the San Agustin site",
+"id": "plains-san-agustin-1947",
+"l0": false,
+"label": "Plains of San Agustin claim, July 1947",
+"note": "Anderson came forward in 1990; the Air Force's 1997 report identifies him as the one first-hand testimony among the three supporting the claim.",
+"sources": [
+{
+"date": "1997-01-01",
+"name": "The Roswell Report: Case Closed (1997)",
+"url": "https://archive.org/details/AFD-101027-030"
+}
+],
+"tier": "B",
+"type": "witness-chain"
+}
+],
+"date": "1990",
+"dateEnd": null,
+"dateStart": "1990",
+"deg": 3,
+"denials": [],
+"domains": [
+"w16-thin-people",
+"w2-retrieval-literature"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "1",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "gerald-anderson",
+"instId": null,
+"l0": false,
+"label": "Gerald Anderson",
+"loc": "Springfield, MO",
+"locId": "l-san-agustin",
+"members": null,
+"narrative": "Gerald Anderson came forward in 1990, after a television broadcast, claiming that as a five-year-old he had been rockhounding with his family on the Plains of San Agustin in July 1947 and had walked up to a crashed disc with dead and one living occupant. He was the only claimed first-hand witness to the San Agustin site and was accordingly promoted hard by Stanton Friedman and Don Berliner in 'Crash at Corona' (1992). The case against him was made not by the Air Force but by other ufologists: Mark Rodeghier of CUFOS and Fred Whiting of the Fund for UFO Research produced a joint report, 'The Plains of San Agustin Controversy', which established among other things that a telephone bill Anderson submitted as corroboration had been altered. His own quoted words in the Air Force's 1997 report - 'I thought they were plastic dolls' - and his descriptions of the recovery procedures were read by the Air Force as accurate reporting of an anthropomorphic dummy balloon launch and recovery, of which numerous examples were flown and recovered in the region. Anderson matters to this board as the field's most instructive self-correction: two civilian research organisations audited their own star witness and published the result against interest.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Gerald Anderson",
+"sources": [
+{
+"date": "2026-08-25",
+"name": "Headquarters USAF, 'The Roswell Report: Case Closed' (1997), DTIC ADA326147",
+"url": "https://archive.org/details/DTIC_ADA326147"
+},
+{
+"date": "1997-01-01",
+"name": "The Roswell Report: Case Closed (1997), HQ USAF/GPO - full text",
+"url": "https://archive.org/details/AFD-101027-030"
+}
+],
+"status": "active",
+"sub": "Claimed first-hand child witness, Plains of San Agustin, 1947",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 637 of 1027, score 24). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A0/D0.",
+"timeline": [
+{
+"date": "1992",
+"id": "tl-1992-san-agustin",
+"label": "The Plains of San Agustin Controversy",
+"precision": "year",
+"strand": "witness",
+"text": "Mark Rodeghier of CUFOS and Fred Whiting of the Fund for UFO Research publish an investigation concluding against Gerald Anderson, the only claimed first-hand witness to the second 1947 crash site. The field audits its own star witness and publishes against interest.",
+"tier": "A"
+}
+],
+"unexplainedResidual": null,
+"unverified": [
+"The precise findings of the Rodeghier-Whiting document have not been read in the original here, only as cited by the Air Force report."
+]
+}

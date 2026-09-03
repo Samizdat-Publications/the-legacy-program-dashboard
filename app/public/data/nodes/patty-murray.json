@@ -1,0 +1,108 @@
+{
+"A": 1,
+"C": 2,
+"D": 3,
+"affiliations": [],
+"age": null,
+"band": null,
+"chronology": [],
+"claims": [
+{
+"source": "https://www.appropriations.senate.gov/about/members",
+"text": "Patty Murray (D-WA) is listed as Vice Chair of the Senate Appropriations Committee on the committee's official members page, which is the ranking minority position on that committee.",
+"tier": 1
+},
+{
+"source": "https://www.govinfo.gov/content/pkg/GPO-CPUB-118spub3/html/GPO-CPUB-118spub3.htm",
+"text": "Murray was Chairman of the Senate Appropriations Committee in the 118th Congress.",
+"tier": 1
+}
+],
+"cls": "person",
+"cluster": "oversight",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "seat 4 of 12 - Vice Chair (ranking minority member), Senate Appropriations",
+"id": "waived-sap-notification-group",
+"l0": true,
+"label": "Waived SAP Notification Group",
+"note": "The Senate Appropriations Committee styles its ranking minority member 'Vice Chair'. The title does not change the 119(e)(2) entitlement.",
+"sources": [
+{
+"date": "2026-08-22",
+"name": "10 U.S.C. 119, Special Access Programs: congressional oversight — subsections (e)(2) and (g) (OLRC prelim text, read 22 August 2026)",
+"url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim"
+},
+{
+"date": "2026-08-22",
+"name": "U.S. Senate, Dates of Sessions of the Congress (convening dates used to date each seat)",
+"url": "https://www.senate.gov/legislative/DatesofSessionsofCongress.htm"
+},
+{
+"date": null,
+"name": "https://www.appropriations.senate.gov/about/members",
+"url": "https://www.appropriations.senate.gov/about/members"
+}
+],
+"tier": "A",
+"type": "institutional"
+}
+],
+"date": "2023-01-03",
+"dateEnd": null,
+"dateStart": "2023-01-03",
+"deg": 1,
+"denials": [],
+"domains": [
+"w9-waived-sap-group"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "patty-murray",
+"instId": null,
+"l0": false,
+"label": "Patty Murray",
+"loc": null,
+"locId": null,
+"members": null,
+"narrative": "Murray holds the ranking minority position on the Senate Appropriations Committee, which that committee styles Vice Chair rather than Ranking Member. The title difference does not affect the statutory entitlement: 10 U.S.C. 119(e)(2) speaks of 'the ranking minority member of each of the defense committees,' and Murray is the senior member of the minority on the Senate Appropriations Committee, so the waived-SAP notification runs to her jointly with Chair Collins. A board rendering the group should be careful not to omit her on the ground that the Senate Appropriations minority leader is not called a ranking member. Murray and Collins have traded the chair and vice chair positions between the 118th and 119th Congresses, so both have held a 119(e)(2) seat continuously since at least January 2023 - Murray as chairman in 2023, vice chair thereafter. That means Murray held a seat entitling her to waived special access program notification at the time of the July 2023 Grusch testimony and at the time of the fiscal 2024 Unidentified Anomalous Phenomena Disclosure Act debate. She has no publicly documented UAP-specific record, and her committee has no public UAP jurisdiction, but the appropriations channel is where a waived programme's funding would necessarily surface in some form.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Patty Murray",
+"sources": [
+{
+"date": "2026-08-22",
+"name": "U.S. Senate, Dates of Sessions of the Congress (convening dates: 111th 6 Jan 2009, 118th 3 Jan 2023, 119th 3 Jan 2025)",
+"url": "https://www.senate.gov/legislative/DatesofSessionsofCongress.htm"
+},
+{
+"date": null,
+"name": "https://www.appropriations.senate.gov/about/members",
+"url": "https://www.appropriations.senate.gov/about/members"
+},
+{
+"date": null,
+"name": "https://www.govinfo.gov/content/pkg/GPO-CPUB-118spub3/html/GPO-CPUB-118spub3.htm",
+"url": "https://www.govinfo.gov/content/pkg/GPO-CPUB-118spub3/html/GPO-CPUB-118spub3.htm"
+}
+],
+"status": "active",
+"sub": "Vice Chair, Senate Appropriations Committee (119th Congress, serving August 2026); Chairman of that committee in the 118th Congress including 2023",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 640 of 1027, score 24). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A1/D3.",
+"timeline": [],
+"unexplainedResidual": null,
+"unverified": []
+}

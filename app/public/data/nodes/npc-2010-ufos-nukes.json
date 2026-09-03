@@ -1,0 +1,128 @@
+{
+"A": 2,
+"C": 0,
+"D": 3,
+"band": null,
+"claims": [
+{
+"source": "ufohastings.com; CNN coverage of the press conference, 27 September 2010",
+"text": "Seven US Air Force veterans discussed UFO incursions at nuclear weapons sites at the National Press Club on 27 September 2010; CNN streamed the event live and carried coverage.",
+"tier": 2
+},
+{
+"source": "CNN report on the press conference, 27 September 2010",
+"text": "Hastings said at the podium: 'Regarding the missile shut-down incidents, my opinion, their opinion, is that whoever are aboard this craft are sending a signal to both Washington and Moscow, among others, that we are playing with fire.'",
+"tier": 2
+},
+{
+"source": "ufohastings.com, 'Witness Affidavits' section",
+"text": "Signed affidavits from Robert Salas, Charles Halt, Patrick McDonough, Robert Jamison, Dwynne Arneson, Bruce Fenstermacher and Jerry Nelson are published in facsimile in the UFOs & Nukes document archive.",
+"tier": 2
+}
+],
+"cls": "event",
+"cluster": "witness",
+"connections": [
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2010-09-27",
+"dateStart": "2010-09-27",
+"direction": "in",
+"edgeLabel": "Convened and hosted the National Press Club event",
+"id": "robert-hastings",
+"l0": false,
+"label": "Robert L. Hastings",
+"note": "Hastings hosted the UFO-Nukes Connection press conference with seven USAF veterans; CNN streamed it live and quoted him from the podium.",
+"sources": [
+{
+"date": "2010-09-27",
+"name": "CNN coverage, National Press Club, 27 September 2010",
+"url": "https://archive.org/details/FullCnnCoverageOfPressConferenceufosAtNuclearWeaponBases"
+},
+{
+"date": "2026-08-12",
+"name": "UFOs & Nukes document archive",
+"url": "https://www.ufohastings.com/documents"
+}
+],
+"tier": "B",
+"type": "witness-chain"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2010-09-27",
+"dateStart": "2010-09-27",
+"direction": "in",
+"edgeLabel": "Spoke on the record and has a signed affidavit on file",
+"id": "robert-salas",
+"l0": false,
+"label": "Capt. Robert L. Salas",
+"note": "Salas is among the named affiants in the UFOs & Nukes archive and spoke at the 2010 event.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "UFOs & Nukes document archive",
+"url": "https://www.ufohastings.com/documents"
+},
+{
+"date": "2010-09-27",
+"name": "CNN coverage, National Press Club, 27 September 2010",
+"url": "https://archive.org/details/FullCnnCoverageOfPressConferenceufosAtNuclearWeaponBases"
+}
+],
+"tier": "B",
+"type": "witness-chain"
+}
+],
+"coords": null,
+"dateEnd": "2010-09-27",
+"dateStart": "2010-09-27",
+"deg": 2,
+"denials": [],
+"desc": "On 27 September 2010 Robert Hastings convened seven United States Air Force veterans at the National Press Club in Washington DC to describe unidentified aerial incursions at nuclear weapons sites during the Cold War, including missile malfunctions occurring moments after disc-shaped craft were observed near underground launch silos. CNN streamed the event live. This is the pivot event for the whole nuclear strand and the reason this board grades that strand higher than the crash-retrieval literature it sits beside: it converted anonymous and semi-anonymous testimony into named, identifiable former officers speaking on camera, with signed affidavits archived and published in facsimile. The affidavit set on Hastings's own document archive names Robert Salas, Charles Halt, Patrick McDonough, Robert Jamison, Dwynne Arneson, Bruce Fenstermacher and Jerry Nelson - seven witnesses, matching the seven veterans described as speaking. Hastings told the room that 'whoever are aboard this craft are sending a signal to both Washington and Moscow, among others, that we are playing with fire', and that the possession and threatened use of nuclear weapons 'threatens the human race and the integrity of the planetary environment'. The speakers urged the US government to reveal the facts. The evidentiary claim here is narrow and should stay narrow: what the event establishes is not that craft disabled missiles, but that a group of named commissioned and non-commissioned officers were willing to say under their own names, in a venue with legal consequences for defamation and with signed affidavits on file, that these incidents occurred.",
+"domains": [
+"w2-retrieval-literature"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "2",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "npc-2010-ufos-nukes",
+"l0": false,
+"label": "UFO-Nukes Connection press conference, National Press Club, 27 September 2010",
+"locLabel": null,
+"members": null,
+"short": "UFO-Nukes Connection press conference, National Press Club, 27 September 2010",
+"sources": [
+{
+"date": "2010-09-27",
+"name": "Full CNN coverage of press conference 'UFOs at Nuclear Weapon Bases' (archived)",
+"url": "https://archive.org/details/FullCnnCoverageOfPressConferenceufosAtNuclearWeaponBases"
+},
+{
+"date": "2026-08-12",
+"name": "UFOs & Nukes document and affidavit archive (Robert Hastings)",
+"url": "https://www.ufohastings.com/documents"
+}
+],
+"sub": "Seven named USAF veterans on the record; CNN live stream",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 596 of 1027, score 26). 2 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A2/D3.",
+"timeline": [
+{
+"date": "2010-09-27",
+"id": "tl-2010-0927-npc",
+"label": "UFO-Nukes Connection press conference",
+"precision": "day",
+"strand": "witness",
+"text": "Robert Hastings convenes seven named USAF veterans at the National Press Club. CNN streams it live. Signed affidavits from Salas, Halt, McDonough, Jamison, Arneson, Fenstermacher and Nelson are on file and published in facsimile. Anonymous testimony becomes on-the-record testimony.",
+"tier": "A"
+}
+]
+}

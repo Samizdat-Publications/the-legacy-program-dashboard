@@ -1,0 +1,72 @@
+{
+"A": 1,
+"C": 1,
+"D": 0,
+"band": null,
+"claims": [
+{
+"source": "https://www.freepatentsonline.com/20190058105.html",
+"text": "US Patent Application 2019/0058105, 'Piezoelectricity-induced Room Temperature Superconductor', application 15/678672, filed 16 August 2017, published 21 February 2019, assignee the United States as represented by the Secretary of the Navy.",
+"tier": 2
+}
+],
+"cls": "document",
+"cluster": "research",
+"connections": [
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2019-02-21",
+"dateStart": "2017-08-16",
+"direction": "in",
+"edgeLabel": "Named inventor",
+"id": "salvatore-pais",
+"l0": false,
+"label": "Salvatore Cezar Pais",
+"note": "Application 15/678672, assigned to the Secretary of the Navy.",
+"sources": [
+{
+"date": null,
+"name": "US Application 2019/0058105",
+"url": "https://www.freepatentsonline.com/20190058105.html"
+}
+],
+"tier": "A",
+"type": "programmatic"
+}
+],
+"coords": null,
+"dateEnd": "2019-02-21",
+"dateStart": "2017-08-16",
+"deg": 1,
+"denials": [],
+"desc": "Published application 15/678672, filed 16 August 2017 and published 21 February 2019, assigned to the United States as represented by the Secretary of the Navy. Room-temperature superconduction is the enabling condition for the field strengths the other filings assume, which is why it belongs in the set rather than beside it.",
+"domains": [
+"pais-patents"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "pais-app-superconductor",
+"l0": false,
+"label": "US Application 2019/0058105 - Piezoelectricity-induced Room Temperature Superconductor",
+"locLabel": null,
+"members": null,
+"short": "US Application 2019/0058105 - Piezoelectricity-induced Room Temperature Superconductor",
+"sources": [
+{
+"date": null,
+"name": "US Application 2019/0058105",
+"url": "https://www.freepatentsonline.com/20190058105.html"
+}
+],
+"sub": "Application 15/678672, filed 16 August 2017, published 21 February 2019; assignee the Secretary of the Navy",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 929 of 1027, score 13). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A1/D0.",
+"timeline": []
+}

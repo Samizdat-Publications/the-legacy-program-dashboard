@@ -1,0 +1,91 @@
+{
+"A": 2,
+"C": 0,
+"D": 3,
+"band": null,
+"claims": [
+{
+"source": "Board bookkeeping",
+"text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
+"tier": 3
+}
+],
+"cls": "location",
+"cluster": "other",
+"connections": [
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "produced at Whitehall, released via TNA at Kew",
+"id": "doc-condign-report",
+"l0": true,
+"label": "Unidentified Aerial Phenomena in the UK Air Defence Region (DIS Scientific & Technical Memorandum 55/2/00)",
+"note": "Both ends of the Condign story sit in London: the MoD secretariat that handled UFO material was at Whitehall, and the MoD's historical UFO files went to The National Archives at Kew under a five-year transfer programme whose releases run from August 2009 through 2013. The guide describes the transfer programme but does not date the reporting desk's closure, so that detail is not asserted here.",
+"sources": [
+{
+"date": "2013-01-01",
+"name": "The National Archives, 'Unidentified Flying Objects (UFOs)' research guide",
+"url": "https://cdn.nationalarchives.gov.uk/documents/ufo-research-guide-2013.pdf"
+},
+{
+"date": null,
+"name": "https://en.wikipedia.org/wiki/Project_Condign",
+"url": "https://en.wikipedia.org/wiki/Project_Condign"
+},
+{
+"date": null,
+"name": "https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf",
+"url": "https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf"
+}
+],
+"tier": "A",
+"type": "geographic"
+}
+],
+"coords": [
+51.5074,
+-0.1278
+],
+"dateEnd": null,
+"dateStart": null,
+"deg": 1,
+"denials": [],
+"desc": "London is the seat of the Ministry of Defence at Whitehall and, at Kew, of The National Archives through which the UK's complete UFO file series was released in public tranches from 2008 onward. The city therefore stands for the release model rather than for any incident: a defence ministry closing its reporting desk in December 2009 and transferring its holdings to a national archive on a published schedule is the procedural outcome the American records fight has been trying to reproduce since the FY2024 NDAA.",
+"domains": [
+"_stubs",
+"w2-taxonomy"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "nd",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "l-london",
+"l0": false,
+"label": "London, United Kingdom",
+"locLabel": "London, United Kingdom",
+"members": null,
+"short": "London, United Kingdom",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Wikipedia - London",
+"url": "https://en.wikipedia.org/wiki/London"
+},
+{
+"date": "2026-08-12",
+"name": "UK Government - Ministry of Defence",
+"url": "https://www.gov.uk/government/organisations/ministry-of-defence"
+}
+],
+"sub": "Capital of the United Kingdom; seat of the MoD and the National Archives release",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 913 of 1027, score 14). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A2/D3.",
+"timeline": []
+}

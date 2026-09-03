@@ -1,0 +1,155 @@
+{
+"A": 1,
+"C": 0,
+"D": 2,
+"band": null,
+"claims": [
+{
+"source": "Project Condign, Volume 3, Chapter 4, para 1, UK MoD, 2000 (released 2006) — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"text": "Project Condign Volume 3, Chapter 4, para 1: 'A \"UFO\" Commission was created under the USSR Union of Scientific and En[gi]neering Societies in 1989, tog[e]ther in 1990 with an Inte[r]-[I]ndustry Ufology Research Centre (SOYUZUFOSENTR) to co-ordinate records. This Centre had the rights of an Insit[u]te under the USSR Academy of Sciences, and was headed by V.G. AZAHAZHA (or AZHAZHA) an eminent researcher and former naval submariner.' Bracketed letters mark OCR damage in the released scan.",
+"tier": 2
+},
+{
+"source": "Project Condign, Volume 3, Chapter 4, para 4 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"text": "Condign Volume 3, Chapter 4, para 4: 'The Institute have reportedly developed light fi[l]ters, instrumentation, IR and UV photography to pursu[e] the topic. Unexplained imagery has reportedly been obtained including \"peculiar spheres, humanoid figures ... If the imagery exists, it has never been published.\"'",
+"tier": 2
+},
+{
+"source": "Gene Sticco, Blackgrove's Field Notes, 9 February 2026",
+"text": "A secondary analysis records SOYUZUFOTSENTR as established in 1990 as the first official Soviet public UFO organisation, with cosmonaut Pavel Popovich as president and Azhazha as director. Condign names only Azhazha; the Popovich presidency is not corroborated by the Condign text and rests on the secondary source alone.",
+"tier": 2
+},
+{
+"source": "Gene Sticco, Blackgrove's Field Notes, 9 February 2026, citing Huneeus and Kehoe — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"text": "Knapp's 1993 documents came from the Ministry of Defence via Colonel Boris Sokolov, not from the KGB 'Blue Folder' declassified 24 October 1991 and handed to Popovich. The two collections are distinct.",
+"tier": 2
+},
+{
+"source": "Board bookkeeping",
+"text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
+"tier": 3
+}
+],
+"cls": "institution",
+"cluster": "research",
+"connections": [
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": "2000",
+"direction": "in",
+"edgeLabel": "Condign's Former Soviet Union chapter names, dates and assesses SOYUZUFOTSENTR",
+"id": "doc-condign-vol3",
+"l0": true,
+"label": "Project Condign Volume 3 - Potential for Exploitation of UAP-Associated Effects / UAP Work in Other Countries",
+"note": "This is the reason the node exists at all. SOYUZUFOTSENTR reaches this board not through Russian ufology literature but through a UK SECRET UK EYES ONLY Defence Intelligence Staff assessment, which places the centre inside a paragraph opening 'It[s] clear that the Former Soviet Union has taken the study of UAPs seriously and th[a]t this may well be related to a programme of understanding and exploiting certain UAP-related natural phenomena, such as plasmas.' The same chapter runs on to Popovich's 1990 All Union Ufology Association at the Air Force Academy, General of Aviation Igor Maltsev's 1990 release of pilot reports, Vsevolod Troitsky of the Russian Academy of Sciences chairing a Commission for the Study of Anomalous Propagation and Phenomena, and Sokolov's account of Soviet aircraft incidents. Condign treats the public centre and the state effort as one national picture. Verified line by line against the released OCR.",
+"sources": [
+{
+"date": "2006-05-15",
+"name": "Project Condign Volume 3, Chapter 4, paras 1-8 - released MoD copy, OCR text",
+"url": "https://archive.org/download/condign-vol-2-1-258/Condign_Vol_3_1-48_djvu.txt"
+}
+],
+"tier": "B",
+"type": "investigative"
+},
+{
+"claimTier": 3,
+"cls": "program",
+"dateEnd": null,
+"dateStart": "1990",
+"direction": "out",
+"edgeLabel": "INFERENCE: the 1990 public centre stands up as the 1978-1990/91 state programme winds down, with Azhazha the common figure",
+"id": "setka-program",
+"l0": true,
+"label": "SETKA-AN / SETKA-MO (later Galaktika, then Gorizont) - Soviet state anomalous phenomena programme",
+"note": "READ THE LIMIT BEFORE USING THIS EDGE. No document located in this pass states any transfer of function, records, personnel or authority from SETKA-AN/SETKA-MO to SOYUZUFOTSENTR, and Project Condign - which describes both the Soviet state exploitation programme and SOYUZUFOTSENTR in the same chapter - does not name SETKA at all. What is documented is date adjacency and a shared principal: Condign dates SOYUZUFOTSENTR to 1990; the board dates the SETKA programmes 1978-1990/91; and the board already carries an edge vladimir-azhazha -> setka-program labelled 'ran the parallel public ufology centre after censorship lifted'. This edge makes that existing person-level assertion visible at institution level and nothing more. Reasoning, not evidence. If a later pass finds a document showing a formal succession, re-tier it; if a later pass finds the two were unconnected, delete it without loss.",
+"sources": [
+{
+"date": "2006-05-15",
+"name": "Project Condign Volume 3, Chapter 4, para 1 - released MoD copy, OCR text",
+"url": "https://archive.org/download/condign-vol-2-1-258/Condign_Vol_3_1-48_djvu.txt"
+},
+{
+"date": "2026-02-09",
+"name": "Gene Sticco, 'Knapp's \"Russian UFO files\" are mostly old news, even in 1993 Russia', Blackgrove's Field Notes",
+"url": "https://asirpjournal.substack.com/p/knapps-russian-ufo-files-are-mostly"
+}
+],
+"tier": "B",
+"type": "temporal"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "1990",
+"direction": "out",
+"edgeLabel": "Azhazha headed SOYUZUFOTSENTR; named as its head in the UK Defence Intelligence Staff's own report",
+"id": "vladimir-azhazha",
+"l0": false,
+"label": "Vladimir Georgievich Azhazha",
+"note": "Project Condign Volume 3, Chapter 4 ('UAP Work in Other Countries'), para 1, verified against the released MoD OCR text: 'A \"UFO\" Commission was created under the USSR Union of Scientific and En[gi]neering Societies in 1989, tog[e]ther in 1990 with an Inte[r]-[I]ndustry Ufology Research Centre (SOYUZUFOSENTR) to co-ordinate records. This Centre had the rights of an Insit[u]te under the USSR Academy of Sciences, and was headed by V.G. AZAHAZHA (or AZHAZHA) an eminent researcher and former naval submariner.' Bracketed letters mark OCR damage in the released scan; the transliteration SOYUZUFOSENTR is Condign's own, and differs from the board's node label. Para 4 adds that under Azhazha 'The Institute have reportedly developed light fi[l]ters, instrumentation, IR and UV photography to pursu[e] the topic', and that claimed imagery of 'peculiar spheres, humanoid figures' has, 'if the imagery exists ... never been published'. This edge closes a gap that was already implicit in the board's own data: the vladimir-azhazha node has carried instId 'soyuzufotsentr' and affiliations ['soyuzufotsentr'] all along, with no edge written.",
+"sources": [
+{
+"date": "2006-05-15",
+"name": "Project Condign Volume 3, Chapter 4, paras 1 and 4 - released MoD copy, OCR text",
+"url": "https://archive.org/download/condign-vol-2-1-258/Condign_Vol_3_1-48_djvu.txt"
+},
+{
+"date": "2006-05-15",
+"name": "Project Condign - Volumes 1-3 (Internet Archive item)",
+"url": "https://archive.org/details/condign-vol-2-1-258"
+}
+],
+"tier": "C",
+"type": "institutional"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": null,
+"deg": 3,
+"denials": [],
+"desc": "CORRECTED NODE - previously a bookkeeping stub with a null description and no sources. SOYUZUFOTSENTR is on this board because a UK Defence Intelligence Staff report classified SECRET UK EYES ONLY thought it worth naming. Project Condign Volume 3, Chapter 4 records that a 'UFO' Commission was created under the USSR Union of Scientific and Engineering Societies in 1989, and that in 1990 an Inter-Industry Ufology Research Centre - Condign transliterates it SOYUZUFOSENTR - was created to co-ordinate records; that the centre held the rights of an Institute under the USSR Academy of Sciences; and that it was headed by V. G. Azhazha, 'an eminent researcher and former naval submariner'. Condign records a ten-week school with terms of reference to study 'ufology as a science of unidentified flying objects and their interrelations with the universe and, in particular, with the biotechnosphere of the earth'; that the Institute developed light filters, instrumentation and IR and UV photography; and that claimed imagery of 'peculiar spheres, humanoid figures' was reported but, in Condign's dry formulation, 'if the imagery exists, it has never been published'. The centre sits at the hinge between the closed Soviet state effort and the open Russian ufology of the 1990s: it was founded in 1990, the year the SETKA programmes ended, and it was the first Soviet UFO organisation to operate publicly. It should NOT be confused with the KLAS-TV / George Knapp document story. Knapp's 1993 Moscow acquisition came from the Ministry of Defence via Colonel Boris Sokolov; the KGB 'Blue Folder' associated with Popovich and Azhazha is a separate collection. That distinction is why the obvious media edge from this node cannot be written.",
+"domains": [
+"_stubs",
+"w11-final-unattached"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "nd",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "soyuzufotsentr",
+"l0": false,
+"label": "SOYUZUFOTSENTR - USSR Inter-Industry Ufology Research Centre",
+"locLabel": null,
+"members": null,
+"short": "SOYUZUFOTSENTR - USSR Inter-Industry Ufology Research Centre",
+"sources": [
+{
+"date": "2006-05-15",
+"name": "Project Condign Volume 3, Chapter 4 - released MoD copy, OCR text",
+"url": "https://archive.org/download/condign-vol-2-1-258/Condign_Vol_3_1-48_djvu.txt"
+},
+{
+"date": "2006-05-15",
+"name": "Project Condign - Volumes 1-3 (Internet Archive item)",
+"url": "https://archive.org/details/condign-vol-2-1-258"
+},
+{
+"date": "2026-02-09",
+"name": "Gene Sticco, 'Knapp's \"Russian UFO files\" are mostly old news, even in 1993 Russia', Blackgrove's Field Notes",
+"url": "https://asirpjournal.substack.com/p/knapps-russian-ufo-files-are-mostly"
+}
+],
+"sub": "1990 Soviet ufology centre with USSR Academy of Sciences institute rights, headed by V. G. Azhazha; named in UK Project Condign",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 787 of 1027, score 19). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D2.",
+"timeline": []
+}

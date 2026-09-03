@@ -1,0 +1,80 @@
+{
+"A": 2,
+"C": 1,
+"D": 1,
+"band": null,
+"claims": [
+{
+"source": "Inference from Green's documented affiliations",
+"text": "Detroit's significance on this board is as the post-agency academic base of Christopher 'Kit' Green at Wayne State University, connecting CIA anomalous-phenomena work, NIDS/BAASS biomedical research and the modern Stanford circle. Reasoning: person-node inference; the city holds no independent installation role.",
+"tier": 3
+}
+],
+"cls": "location",
+"cluster": "ic",
+"connections": [
+{
+"claimTier": 1,
+"cls": "location",
+"dateEnd": null,
+"dateStart": "1940",
+"direction": "in",
+"edgeLabel": "Detroit Arsenal is in Warren, thirteen miles north of Detroit",
+"id": "l-detroit-arsenal",
+"l0": false,
+"label": "Detroit Arsenal, Warren, Michigan",
+"note": "The installation sits in Warren, Michigan, within the Detroit metropolitan area that also holds Kit Green's post-agency academic base at Wayne State.",
+"sources": [
+{
+"date": "2019-10-18",
+"name": "The Black Vault - Army/TTSA CRADA and FOIA records",
+"url": "https://www.theblackvault.com/documentarchive/u-s-army-releases-crada-with-to-the-stars-academy-of-arts-science/"
+},
+{
+"date": "2026-08-25",
+"name": "CRADA between CCDC Ground Vehicle Systems Center and To The Stars Academy, CRADA No. 19-15 (released PDF)",
+"url": "https://documents2.theblackvault.com/documents/army/TTSA-ARMY-CRADA.pdf"
+}
+],
+"tier": "B",
+"type": "geographic"
+}
+],
+"coords": [
+42.3314,
+-83.0458
+],
+"dateEnd": null,
+"dateStart": "1985",
+"deg": 1,
+"denials": [],
+"desc": "Detroit is carried on this board as the post-agency address of Christopher 'Kit' Green, the CIA analyst who ran the Agency's weird desk - the Life Sciences Division work on anomalous phenomena, including the parapsychology and remote viewing programmes - and who after leaving government took a position in the Wayne State University School of Medicine, where he built the neurological and biomedical side of the anomalous-exposure literature. Green is the connective tissue between the CIA's 1970s Stargate-adjacent work at SRI, the NIDS and BAASS effort under Bigelow, the AAWSAP biomedical papers on injuries associated with anomalous encounters, and the modern Sol Foundation and Stanford circle around Garry Nolan. Detroit is also, thirteen miles north in Warren, the location of Detroit Arsenal and the GVSC/TTSA agreement, which means the metropolitan area holds both the medical-effects research lineage and the only executed federal materials agreement with a claimed-custody private party. The city has no independent installation significance; it is a person node, and it is recorded as such rather than inflated.",
+"domains": [
+"w2-places-events"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "1",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "l-detroit",
+"l0": false,
+"label": "Detroit, Michigan",
+"locLabel": "Detroit, Michigan, USA",
+"members": null,
+"short": "Detroit, Michigan",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Wikipedia - Detroit",
+"url": "https://en.wikipedia.org/wiki/Detroit"
+}
+],
+"sub": "City in Wayne County; Wayne State University School of Medicine",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 909 of 1027, score 14). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D1.",
+"timeline": []
+}

@@ -1,0 +1,481 @@
+{
+"A": 3,
+"C": 1,
+"D": 2,
+"band": null,
+"claims": [
+{
+"source": "50 U.S.C. 3510",
+"text": "50 U.S.C. 3510 permits certain expenditures to be accounted for solely on the certificate of the agency head.",
+"tier": 1
+},
+{
+"source": "P.L. 119-75, DoD Appropriations Act 2026",
+"text": "The Department of Defense Appropriations Act for 2026 (P.L. 119-75) contains general transfer authority at Sections 8005-8009 permitting post-enactment movement of funds between accounts.",
+"tier": 1
+},
+{
+"source": "DODIG-2016-113",
+"text": "DoD OIG report DODIG-2016-113 found that Army General Fund adjustments were not adequately documented or supported.",
+"tier": 1
+},
+{
+"source": "DOWIG-2026-081",
+"text": "The DoD Inspector General published its explanation of the FY2025 Department of War financial statement audit as report DOWIG-2026-081 in May 2026.",
+"tier": 1
+}
+],
+"cls": "domain",
+"cluster": "other",
+"connections": [
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": "2012",
+"dateStart": "2008",
+"direction": "in",
+"edgeLabel": "the only case where money for a UAP programme has been traced from a classified appropriation to a named contract",
+"id": "aawsap",
+"l0": true,
+"label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)",
+"note": "Roughly $22 million was placed in the classified defense appropriation at the direction of Senate leadership and spent through DIA solicitation HHM402-08-R-0211 and the resulting prime contract. AAWSAP is therefore the domain's proof of concept: it establishes that money for exactly this subject can and did move through the classified channel, and that it becomes visible only when a contract number surfaces.",
+"sources": [
+{
+"date": "2017-12-16",
+"name": "New York Times, 'Glowing Auras and Black Money: The Pentagon's Mysterious U.F.O. Program'",
+"url": "https://www.nytimes.com/2017/12/16/us/politics/pentagon-program-ufo-harry-reid.html"
+},
+{
+"date": "2017-12-16",
+"name": "New York Times, 'Glowing Auras and Black Money' (NICAP archival copy)",
+"url": "https://www.nicap.org/reports2/2004_20171216_NYTArt_1.pdf"
+},
+{
+"date": "2008-08-18",
+"name": "FedBizOpps notice, Solicitation HHM402-08-R-0211, Advanced Aerospace Weapon System Applications Program (DIA FOIA release)",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237630/"
+},
+{
+"date": "2009-09-02",
+"name": "Amendment of Solicitation/Modification of Contract P00001 to HHM402-08-C-0072, Bigelow Aerospace Advanced Space Studies LLC (DIA FOIA release)",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237652/"
+}
+],
+"tier": "A",
+"type": "funding"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "2010",
+"dateStart": "2008-09-22",
+"direction": "in",
+"edgeLabel": "the one instrument on the board where the appropriation-to-contract path is fully documented",
+"id": "aawsap-contract-hhm402-08-c-0072",
+"l0": false,
+"label": "DIA Contract HHM402-08-C-0072 (AAWSAP / BAASS)",
+"note": "The AAWSAP prime contract, awarded 22 September 2008 to BAASS off solicitation HHM402-08-R-0211 through the DIA Virginia Contracting Activity, and released through DIA FOIA together with modification P00001. It is the concrete artefact that turns 'money moved through a classified channel' into a document with a number on it, which is what this domain exists to collect.",
+"sources": [
+{
+"date": "2009-09-02",
+"name": "Amendment of Solicitation/Modification of Contract P00001 to HHM402-08-C-0072, Bigelow Aerospace Advanced Space Studies LLC (DIA FOIA release)",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237652/"
+},
+{
+"date": "2008-08-18",
+"name": "FedBizOpps notice, Solicitation HHM402-08-R-0211, Advanced Aerospace Weapon System Applications Program (DIA FOIA release)",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237630/"
+}
+],
+"tier": "C",
+"type": "funding"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": "2026-02-03",
+"direction": "in",
+"edgeLabel": "the second set of numbers, given the same legal force and not printed in the Statutes at Large",
+"id": "classified-annex",
+"l0": true,
+"label": "The Classified Annex (NDAA and Defense Appropriations)",
+"note": "Sec. 8006 of the FY2026 DoD Appropriations Act (P.L. 119-75, 3 Feb 2026) provides that obligation and expenditure for the programs, projects and activities listed in the tables in the classified annex 'are hereby required by law to be carried out in the manner provided by such tables.' Money directed by a document the public cannot read, with statutory force, is the definitional case of an unaccounted fund.",
+"sources": [
+{
+"date": "2026-02-03",
+"name": "Public Law 119-75, Department of Defense Appropriations Act, 2026 (Secs. 8005-8006) (GPO)",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-119publ75/pdf/PLAW-119publ75.pdf"
+}
+],
+"tier": "A",
+"type": "funding"
+},
+{
+"claimTier": 1,
+"cls": "domain",
+"dateEnd": null,
+"dateStart": "1947-01-01",
+"direction": "in",
+"edgeLabel": "Vehicle and appropriation",
+"id": "d-contracting",
+"l0": false,
+"label": "Federal Contracting Mechanics",
+"note": "The contract vehicle is the visible end of the money; the appropriation and transfer authorities are the invisible end.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "50 U.S.C. 3510 (Cornell LII)",
+"url": "https://www.law.cornell.edu/uscode/text/50/3510"
+}
+],
+"tier": "B",
+"type": "funding"
+},
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": "2025",
+"dateStart": "2018",
+"direction": "in",
+"edgeLabel": "eight consecutive disclaimers of opinion are the measurable size of the gap this domain is about",
+"id": "dod-agencywide-audit",
+"l0": true,
+"label": "DoD Agency-Wide Financial Statement Audit (FY2018-present)",
+"note": "The Department has undergone full-scope financial statement audits since FY2018 and has received a disclaimer of opinion every year through FY2025 - eight in a row. A disclaimer means the auditors could not obtain sufficient appropriate evidence to form an opinion, which is the auditable fact that defines the boundary of what can be traced from appropriation to expenditure. This is the single hardest, least deniable member of this domain.",
+"sources": [
+{
+"date": "2026-01-15",
+"name": "CRS In Focus IF12627, 'Defense Primer: FY2025 Department of Defense Audit Results'",
+"url": "https://www.congress.gov/crs-product/IF12627"
+},
+{
+"date": "2025-12-18",
+"name": "DoD OIG press release, 'Independent Auditor's Reports on the DoD FY 2025 Financial Statements'",
+"url": "https://www.dodig.mil/In-the-Spotlight/Article/4365200/press-release-independent-auditors-reports-on-the-dod-fy-2025-financial-stateme/"
+}
+],
+"tier": "B",
+"type": "funding"
+},
+{
+"claimTier": 1,
+"cls": "legislation",
+"dateEnd": null,
+"dateStart": "2023-12-22",
+"direction": "in",
+"edgeLabel": "sec. 7343 conditions intelligence funding for UAP special- or restricted-access activity on prior disclosure to the committees",
+"id": "iaa-2024",
+"l0": false,
+"label": "Intelligence Authorization Act for FY2024 (Div. G of PL 118-31) - secs. 7341, 7343",
+"note": "Division G of P.L. 118-31 contains Sec. 7343, 'Funding limitations relating to unidentified anomalous phenomena.' The Joint Explanatory Statement records that it imposes a funding limitation for perceived insufficient transparency and a limitation on independent research and development indirect expenses, to be read consistently with DoDI 3204.01. This is a funding-channel provision, distinct from this act's membership of the enacted-statute domain.",
+"sources": [
+{
+"date": "2024-01-03",
+"name": "Senate Select Committee on Intelligence, Intelligence Authorization Act for FY2024, Division G of the NDAA for FY2024 (text, incl. Secs. 7341 and 7343)",
+"url": "https://www.intelligence.senate.gov/2024/01/03/legislation-intelligence-authorization-act-fiscal-year-2024-division-g-national-defense/"
+},
+{
+"date": "2023-12-14",
+"name": "Senate Select Committee on Intelligence, Joint Explanatory Statement to Accompany the Intelligence Authorization Act for Fiscal Year 2024",
+"url": "https://www.intelligence.senate.gov/2023/12/14/publications-joint-explanatory-statement-accompany-intelligence-authorization-act-fiscal-year-2024/"
+},
+{
+"date": "2023-12-22",
+"name": "Public Law 118-31, National Defense Authorization Act for FY2024, incl. Div. G (IAA FY2024) (GPO)",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm"
+}
+],
+"tier": "C",
+"type": "funding"
+},
+{
+"claimTier": 2,
+"cls": "legislation",
+"dateEnd": null,
+"dateStart": "2023-06-22",
+"direction": "in",
+"edgeLabel": "the Senate committee text that would have closed the channel at the contractor end",
+"id": "iaa-fy2024-sec-1102",
+"l0": true,
+"label": "IAA FY2024 Sec. 1102 — contractor turn-in of 'non-earth origin or exotic' UAP material",
+"note": "As reported by the Senate Select Committee on Intelligence, the IAA FY2024 UAP provision would have required any person currently or formerly under federal contract holding UAP material or information derived from the Government to notify the AARO Director within 60 days and to make it available within 180 days, alongside the funding and IR&D limitations. Tier 2 rather than Tier 1 because the enacted counterpart differed substantially from the Senate-approved text, and because the section number carried on this node does not match the reported bill (see unresolved).",
+"sources": [
+{
+"date": "2023-06-22",
+"name": "S. 2103, 118th Congress, Intelligence Authorization Act for Fiscal Year 2024, as reported (Congress.gov)",
+"url": "https://www.congress.gov/bill/118th-congress/senate-bill/2103/text"
+},
+{
+"date": "2023-12-24",
+"name": "Douglas Dean Johnson (Mirador), 'Senate Intelligence bill gives holders of \"non-earth origin or exotic UAP material\" six months to make it available to AARO'",
+"url": "https://douglasjohnson.ghost.io/senate-intelligence-bill-gives-holders-of-non-earth-origin-six-months/"
+},
+{
+"date": "2023-07-27",
+"name": "S. 2226, 118th Congress, Engrossed in Senate - Division G, UAP Disclosure Act of 2023 (GPO)",
+"url": "https://www.govinfo.gov/content/pkg/BILLS-118s2226es/html/BILLS-118s2226es.htm"
+}
+],
+"tier": "A",
+"type": "funding"
+},
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": null,
+"dateStart": "2010",
+"direction": "in",
+"edgeLabel": "the second named channel, under SECDEF and USD(I&S) rather than the DNI",
+"id": "mip",
+"l0": false,
+"label": "Military Intelligence Program (MIP)",
+"note": "The Military Intelligence Program is the defence-side counterpart to the NIP, managed by the Under Secretary of Defense for Intelligence and Security. DoD has disclosed a MIP appropriated topline annually since 2010 and request figures since 2012; the DoD Financial Management Regulation Vol. 2B Ch. 16 governs how intelligence programmes are budgeted and displayed. Topline-only disclosure is the same structural property as the NIP.",
+"sources": [
+{
+"date": "2026-08-21",
+"name": "ODNI, Intelligence Community Budget",
+"url": "https://www.odni.gov/index.php/what-we-do/ic-budget"
+},
+{
+"date": "2026-08-21",
+"name": "DoD Financial Management Regulation, Volume 2B, Chapter 16, 'Intelligence Programs/Activities'",
+"url": "https://comptroller.war.gov/Portals/45/documents/fmr/current/02b/02b_16.pdf"
+},
+{
+"date": "2024-09-26",
+"name": "CRS Report R44381, 'Intelligence Community Spending: Trends and Issues'",
+"url": "https://www.congress.gov/crs-product/R44381"
+}
+],
+"tier": "B",
+"type": "funding"
+},
+{
+"claimTier": 1,
+"cls": "legislation",
+"dateEnd": null,
+"dateStart": "2023-12-22",
+"direction": "in",
+"edgeLabel": "carries the first enacted funding limitation aimed at unreported UAP activity",
+"id": "ndaa-fy2024",
+"l0": true,
+"label": "FY2024 NDAA, Public Law 118-31 - Div. A, Title XVIII, Subtitle C (secs. 1841-1843), UAP Records Collection; Div. G (IAA FY2024) secs. 7341, 7343",
+"note": "Beyond the Subtitle C records collection, P.L. 118-31 carries funding-side provisions that bar the obligation of funds for UAP activity protected under special or restricted access that has not been disclosed to the congressional committees, and bar charging UAP-related independent research and development as an allowable indirect contract expense. Congress legislating on the funding channel is the strongest available evidence that the channel is real.",
+"sources": [
+{
+"date": "2023-12-22",
+"name": "Public Law 118-31, National Defense Authorization Act for FY2024, incl. Div. G (IAA FY2024) (GPO)",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm"
+},
+{
+"date": "2023-12-14",
+"name": "Senate Select Committee on Intelligence, Joint Explanatory Statement to Accompany the Intelligence Authorization Act for Fiscal Year 2024",
+"url": "https://www.intelligence.senate.gov/2023/12/14/publications-joint-explanatory-statement-accompany-intelligence-authorization-act-fiscal-year-2024/"
+},
+{
+"date": "2023-12-24",
+"name": "Douglas Dean Johnson (Mirador), 'Senate Intelligence bill gives holders of \"non-earth origin or exotic UAP material\" six months to make it available to AARO'",
+"url": "https://douglasjohnson.ghost.io/senate-intelligence-bill-gives-holders-of-non-earth-origin-six-months/"
+}
+],
+"tier": "A",
+"type": "legislative"
+},
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": null,
+"dateStart": "2007",
+"direction": "in",
+"edgeLabel": "one of the two named channels through which US intelligence money is appropriated",
+"id": "nip",
+"l0": true,
+"label": "National Intelligence Program (NIP)",
+"note": "The National Intelligence Program is the DNI-controlled channel. Since FY2007, sec. 601 of the Implementing Recommendations of the 9/11 Commission Act (P.L. 110-53) has required disclosure of the aggregate appropriated amount, and ODNI publishes request and appropriated toplines annually. Aggregate-only disclosure is precisely what makes it a channel this board can name but not itemise.",
+"sources": [
+{
+"date": "2026-08-21",
+"name": "ODNI, Intelligence Community Budget",
+"url": "https://www.odni.gov/index.php/what-we-do/ic-budget"
+},
+{
+"date": "2026-03-01",
+"name": "ODNI press release, 'DNI Releases FY 2027 Budget Request Figure for the National Intelligence Program'",
+"url": "https://www.dni.gov/index.php/newsroom/press-releases/press-releases-2026/4156-pr-07-26"
+},
+{
+"date": "2024-09-26",
+"name": "CRS Report R44381, 'Intelligence Community Spending: Trends and Issues'",
+"url": "https://www.congress.gov/crs-product/R44381"
+}
+],
+"tier": "B",
+"type": "funding"
+},
+{
+"claimTier": 1,
+"cls": "legislation",
+"dateEnd": null,
+"dateStart": "1987-12-04",
+"direction": "in",
+"edgeLabel": "the statute that fixes what Congress is told about SAP cost, and subsection (e) which suspends it",
+"id": "usc-10-119",
+"l0": true,
+"label": "10 U.S.C. 119 — Special Access Programs: Congressional Oversight",
+"note": "Sec. 119(a)-(c) requires the annual SAP report to the four defense committees to state actual historical costs and estimated future costs for each program. Sec. 119(e)(1) lets the Secretary waive any of that on a case-by-case national-security determination, with the information and the justification going instead 'jointly to the chairman and ranking minority member of each of the defense committees.' The cost visibility this domain measures is created and removed by this one section.",
+"sources": [
+{
+"date": "2026-08-21",
+"name": "10 U.S.C. 119 - Special access programs: congressional oversight (Office of the Law Revision Counsel)",
+"url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim"
+},
+{
+"date": "2024-01-05",
+"name": "10 U.S.C. 119 (U.S. Code 2023 Edition, GPO)",
+"url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title10/html/USCODE-2023-title10-subtitleA-partI-chap2-sec119.htm"
+}
+],
+"tier": "A",
+"type": "legislative"
+},
+{
+"claimTier": 2,
+"cls": "program",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "the access category whose costs reach four members rather than four committees",
+"id": "waived-usap",
+"l0": true,
+"label": "Waived unacknowledged special access program (waived USAP)",
+"note": "A waived unacknowledged SAP is the category to which the 10 U.S.C. 119(e) waiver is applied. Costs are not zero and are not unappropriated; they are reported to a group of four. The board's Tier 2 grading holds because the existence of the category and the reporting channel are documented in statute and DoD issuance, while the contents of any particular waived programme are not.",
+"sources": [
+{
+"date": "2026-08-21",
+"name": "10 U.S.C. 119 - Special access programs: congressional oversight (Office of the Law Revision Counsel)",
+"url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim"
+},
+{
+"date": "2026-05-18",
+"name": "Archived: DoD Directive 5205.07, 'Special Access Program (SAP) Policy' (12 Sep 2024) (Wayback 2026-05-18)",
+"url": "https://web.archive.org/web/20260518065512/https://www.esd.whs.mil/portals/54/documents/dd/issuances/dodd/520507p.pdf"
+},
+{
+"date": "2025-08-09",
+"name": "Archived: DoD Instruction 5205.11, 'Management, Administration, and Oversight of DoD Special Access Programs' (12 Sep 2024) (Wayback 2025-08-09)",
+"url": "https://web.archive.org/web/20250809023849/https://www.esd.whs.mil/portals/54/documents/dd/issuances/dodi/520511p.pdf"
+}
+],
+"tier": "A",
+"type": "funding"
+},
+{
+"claimTier": 2,
+"cls": "program",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "the stacked mechanism by which a funded activity can exist with no publicly reconcilable line",
+"id": "waived-usap-mechanism",
+"l0": true,
+"label": "Waived Unacknowledged SAP (waived USAP) — the mechanism",
+"note": "Unacknowledged existence (DoDI 5205.11 glossary), waived congressional reporting under 10 U.S.C. 119(e), and carve-out relief from industrial security oversight combine to produce an activity that is funded but not reconcilable from any public document. Every element is sourced to a statute or a DoD issuance rather than to an allegation; the inference that a legacy programme uses this stack is not.",
+"sources": [
+{
+"date": "2026-08-21",
+"name": "10 U.S.C. 119 - Special access programs: congressional oversight (Office of the Law Revision Counsel)",
+"url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim"
+},
+{
+"date": "2025-08-09",
+"name": "Archived: DoD Instruction 5205.11, 'Management, Administration, and Oversight of DoD Special Access Programs' (12 Sep 2024) (Wayback 2025-08-09)",
+"url": "https://web.archive.org/web/20250809023849/https://www.esd.whs.mil/portals/54/documents/dd/issuances/dodi/520511p.pdf"
+},
+{
+"date": "2026-05-18",
+"name": "Archived: DoD Directive 5205.07, 'Special Access Program (SAP) Policy' (12 Sep 2024) (Wayback 2026-05-18)",
+"url": "https://web.archive.org/web/20260518065512/https://www.esd.whs.mil/portals/54/documents/dd/issuances/dodd/520507p.pdf"
+}
+],
+"tier": "A",
+"type": "funding"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "1947-01-01",
+"deg": 13,
+"denials": [],
+"desc": "Money is the most auditable thing a concealed programme touches, and this is where the board's hardest evidence should eventually come from. The documented channels are all ordinary: classified programme elements carried in the defence budget as a single line with no descriptive text; general transfer authority, exercised annually under provisions such as Sections 8005 and 8006 of the Department of Defense Appropriations Acts, which lets the Department move substantial sums between accounts after enactment; Military Interdepartmental Purchase Requests, which move money between agencies without a new appropriation; contractor Independent Research and Development, which is company money reimbursed as an allowable overhead cost and is therefore government-funded work with no government line item; and the unvouchered expenditure authority of 50 U.S.C. 3510, under which the head of an agency may account for spending by certificate alone. The reason this is more than theory is that the Department of Defense has never passed a clean financial audit; the DoD Inspector General reported in 2016 that Army General Fund adjustments were not adequately documented or supported, and the audit findings have continued through the FY2025 cycle. Scoring high on this domain means an entity moves, certifies or conceals money.",
+"domains": [
+"_rs-archive-mirror",
+"_stubs",
+"w2-taxonomy"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "d-funding",
+"l0": false,
+"label": "Funding Channels",
+"locLabel": null,
+"members": null,
+"short": "Funding Channels",
+"sources": [
+{
+"date": "2026-01-13",
+"name": "Archived: DoD OIG report DODIG-2016-113, Army General Fund Adjustments Not Adequately Documented or Supported (Wayback 2026-01-13)",
+"url": "https://web.archive.org/web/20260113163643/https://www.dodig.mil/reports.html/Article/1119298/army-general-fund-adjustments-not-adequately-documented-or-supported/"
+},
+{
+"date": "2026-05-12",
+"name": "Archived: DOWIG-2026-081, The FY 2025 DoW Financial Statement Audit Explained (Wayback 2026-05-12)",
+"url": "https://web.archive.org/web/20260512215310/https://media.defense.gov/2026/May/12/2003929535/-1/-1/1/FY%202025%20DOW%20FINANCIAL%20STATEMENT%20AUDIT%20EXPLAINED_V6.PDF"
+},
+{
+"date": "2026-08-12",
+"name": "50 U.S.C. 3510 (Cornell Legal Information Institute)",
+"url": "https://www.law.cornell.edu/uscode/text/50/3510"
+},
+{
+"date": "2026-02-03",
+"name": "DoD Appropriations Act 2026 (P.L. 119-75), Secs. 8005-8009, 8084",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-119publ75/html/PLAW-119publ75.htm"
+},
+{
+"date": "2016-07-26",
+"name": "DoD OIG report DODIG-2016-113, Army General Fund Adjustments Not Adequately Documented or Supported",
+"url": "https://www.dodig.mil/reports.html/Article/1119298/army-general-fund-adjustments-not-adequately-documented-or-supported/"
+},
+{
+"date": "2026-05-12",
+"name": "DOWIG-2026-081, The FY 2025 DoW Financial Statement Audit Explained",
+"url": "https://media.defense.gov/2026/May/12/2003929535/-1/-1/1/FY%202025%20DOW%20FINANCIAL%20STATEMENT%20AUDIT%20EXPLAINED_V6.PDF"
+},
+{
+"date": "2026-08-12",
+"name": "FAS Intelligence Resource Program, Intelligence Budget Data",
+"url": "https://irp.fas.org/budget/index.html"
+},
+{
+"date": "2026-08-12",
+"name": "NSF master government list of FFRDCs",
+"url": "https://www.nsf.gov/statistics/ffrdclist/"
+},
+{
+"date": "2026-08-12",
+"name": "Domain definition written for this board; see SCHEMA.md",
+"url": ""
+}
+],
+"sub": "Financial domain - how money reaches an unacknowledged programme and why it cannot be traced",
+"tier": "A",
+"tierRationale": "Re-graded A on a global pass (rank 58 of 1027, score 75). 13 connections, 11 of them custody/witness/funding/programmatic. Axes C1/A3/D2.",
+"timeline": []
+}

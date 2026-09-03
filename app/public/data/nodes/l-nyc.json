@@ -1,0 +1,85 @@
+{
+"A": 0,
+"C": 0,
+"D": 3,
+"band": null,
+"claims": [
+{
+"source": "The New York Times, 16 December 2017",
+"text": "The New York Times published 'Glowing Auras and Black Money: The Pentagon's Mysterious U.F.O. Program' on 16 December 2017, by Helene Cooper, Ralph Blumenthal and Leslie Kean.",
+"tier": 1
+},
+{
+"source": "The Debrief, 5 June 2023",
+"text": "Blumenthal and Kean published David Grusch's allegations in The Debrief on 5 June 2023.",
+"tier": 1
+},
+{
+"source": "Inference from the chronology of official actions after 16 December 2017",
+"text": "The 2017 story changed the subject's institutional status without changing its evidentiary content; every subsequent official step is downstream of that editorial decision. Reasoning: the story disclosed a programme and two videos, not new physical evidence, yet the Navy designation, DoD release, Task Force, ODNI assessment and hearings all follow it in sequence.",
+"tier": 3
+}
+],
+"cls": "location",
+"cluster": "media",
+"connections": [
+{
+"claimTier": 3,
+"cls": "event",
+"dateEnd": "2017-12-16",
+"dateStart": "2017-12-16",
+"direction": "in",
+"edgeLabel": "The decisive act of the modern disclosure era was a New York editorial decision",
+"id": "nyt-2017-12-16",
+"l0": true,
+"label": "New York Times, 'Glowing Auras and Black Money: The Pentagon's Mysterious U.F.O. Program'",
+"note": "The story added institutional standing rather than new physical evidence; every subsequent official step follows it in sequence. Reasoning: chronological review of post-2017 official actions.",
+"sources": [
+{
+"date": "2017-12-16",
+"name": "The New York Times - Glowing Auras and Black Money",
+"url": "https://www.nytimes.com/2017/12/16/us/politics/pentagon-program-ufo-harry-reid.html"
+}
+],
+"tier": "A",
+"type": "geographic"
+}
+],
+"coords": [
+40.7128,
+-74.006
+],
+"dateEnd": null,
+"dateStart": "2017",
+"deg": 1,
+"denials": [],
+"desc": "New York is where the modern disclosure movement acquired institutional legitimacy, on a single date. On 16 December 2017 The New York Times published 'Glowing Auras and Black Money: The Pentagon's Mysterious U.F.O. Program' by Helene Cooper, Ralph Blumenthal and Leslie Kean, revealing the Advanced Aerospace Threat Identification Program, its roughly $22 million in funding, Luis Elizondo's resignation letter, and two of the Navy infrared videos. That story did not add a single new physical fact about any object; what it added was a masthead. Every subsequent institutional step - the Navy's 2019 designation of the objects as UAP, the 2020 Department of Defense release, the UAP Task Force, the ODNI assessment, the hearings, AARO - runs downstream of the decision made in a New York newsroom to treat the subject as a defence-accountability story rather than a curiosity. Blumenthal and Kean later moved much of their work to The Debrief, where on 5 June 2023 they published David Grusch's allegations after other outlets declined; Ross Coulthart's NewsNation reporting is produced from New York; The Intercept's Ken Klippenstein and Keith Kloor have run the sceptical counter-line from the same city. New York is therefore both the venue of the disclosure movement's decisive act and the venue of its most sustained internal argument about evidentiary standards.",
+"domains": [
+"w2-places-events"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "l-nyc",
+"l0": false,
+"label": "New York City",
+"locLabel": "New York, New York, USA",
+"members": null,
+"short": "New York City",
+"sources": [
+{
+"date": "2017-12-16",
+"name": "The New York Times - Glowing Auras and Black Money",
+"url": "https://www.nytimes.com/2017/12/16/us/politics/pentagon-program-ufo-harry-reid.html"
+}
+],
+"sub": "Media capital; The New York Times, NewsNation, The Debrief and The Intercept editorial bases",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 910 of 1027, score 14). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.",
+"timeline": []
+}

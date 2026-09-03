@@ -1,0 +1,103 @@
+{
+"A": 1,
+"C": 0,
+"D": 2,
+"affiliations": [
+"Blue Marble Space Institute of Science",
+"The Sol Foundation - advisory board",
+"UAP Science Advisory Council (2026- )"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "2026-06-15",
+"event": "Named to the UAP Science Advisory Council.",
+"precision": "day"
+}
+],
+"claims": [
+{
+"source": "The Sol Foundation, 'Sol Foundation Co-Founders Named to UAP Science Advisory Council'",
+"text": "Haqq-Misra, an astrobiologist and Sol Foundation advisory board member, was named to the UAP Science Advisory Council in June 2026.",
+"tier": 2
+},
+{
+"source": "The Sol Foundation announcement, June 2026",
+"text": "The Sol Foundation described the appointment of its co-founders, Gallaudet and Haqq-Misra to the government's scientific advisory body as 'a fulfillment of its founding mission'.",
+"tier": 2
+}
+],
+"cls": "person",
+"cluster": "research",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 2,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2026",
+"direction": "out",
+"edgeLabel": "Astrobiology seat, via the Sol Foundation advisory board",
+"id": "uap-science-advisory-council",
+"l0": true,
+"label": "UAP Science Advisory Council",
+"note": "One of five Sol-affiliated appointments announced by the foundation in June 2026.",
+"sources": [
+{
+"date": "2026-06-01",
+"name": "The Sol Foundation, 'Sol Foundation Co-Founders Named to UAP Science Advisory Council'",
+"url": "https://thesolfoundation.org/sol-foundation-co-founders-named-to-uap-science-advisory-council/"
+}
+],
+"tier": "A",
+"type": "institutional"
+}
+],
+"date": "2026-06-15",
+"dateEnd": null,
+"dateStart": "2026-06-15",
+"deg": 1,
+"denials": [],
+"domains": [
+"scientists-technical"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "jacob-haqq-misra",
+"instId": "blue-marble-space-institute",
+"l0": false,
+"label": "Jacob Haqq-Misra",
+"loc": "Seattle, WA",
+"locId": null,
+"members": null,
+"narrative": "Haqq-Misra is the astrobiology seat, and his appointment shows how the 2026 council was assembled: not from federal laboratories or FFRDCs, but from the civil research institutions - Sol, Galileo, SCU, UAPx - that spent the preceding five years building the only unclassified capability that existed. A senior research investigator at the Blue Marble Space Institute of Science and an editor in the technosignatures literature, he sat on the Sol Foundation's advisory board before being named to the UAP Science Advisory Council in June 2026 alongside Nolan, Skafish and Gallaudet. The Sol Foundation's own announcement framed the appointments as 'a fulfillment of its founding mission', which is an unusually candid statement of what happened: a private foundation founded in 2023 supplied a plurality of the government's outside science advisers within three years.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Jacob Haqq-Misra",
+"sources": [
+{
+"date": "2026-06-01",
+"name": "The Sol Foundation, 'Sol Foundation Co-Founders Named to UAP Science Advisory Council'",
+"url": "https://thesolfoundation.org/sol-foundation-co-founders-named-to-uap-science-advisory-council/"
+},
+{
+"date": "2026-06-15",
+"name": "Skeptic / Skeptics Society, 'Michael Shermer Named to White House UAP Science Advisory Council'",
+"url": "https://www.skeptic.com/article/michael-shermer-named-to-white-house-uap-science-advisory-council/"
+}
+],
+"status": "active",
+"sub": "Astrobiologist, Blue Marble Space Institute of Science; Sol Foundation advisory board; member, UAP Science Advisory Council (2026)",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 940 of 1027, score 12). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D2.",
+"timeline": [],
+"unexplainedResidual": null,
+"unverified": []
+}

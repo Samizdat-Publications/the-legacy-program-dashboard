@@ -1,0 +1,300 @@
+{
+"A": 3,
+"C": 1,
+"D": 3,
+"band": "funding",
+"claims": [
+{
+"source": "PLAW-118publ31 sec. 7343(b)",
+"text": "Enacted text, PL 118-31 sec. 7343(b), 137 Stat. 1064: 'None of the funds authorized to be appropriated or otherwise made available by this division may be obligated or expended in support of any activity involving unidentified anomalous phenomena protected under any form of special access or restricted access limitation unless the Director of National Intelligence has provided the details of the activity to the appropriate committees of Congress and congressional leadership, including for any activities described in a report released by the All-domain Anomaly Resolution Office in fiscal year 2024.'",
+"tier": 1
+},
+{
+"source": "PLAW-118publ31 sec. 7343(c)",
+"text": "Sec. 7343(c): 'Independent research and development funding relating to unidentified anomalous phenomena shall not be allowable as indirect expenses for purposes of contracts covered by such instruction, unless such material and information is made available to the appropriate congressional committees and leadership.'",
+"tier": 1
+},
+{
+"source": "Comparison of BILLS-118s2226es Div. M sec. 1102 with PLAW-118publ31 sec. 7343",
+"text": "Sec. 7343 is the truncated survivor of sec. 1102 of the Senate-passed IAA FY2024 division of S. 2226; the contractor turn-in obligation, the non-earth-origin materials list, and the liability shield were removed.",
+"tier": 1
+},
+{
+"source": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm",
+"text": "Pub. L. 118-31, div. G, sec. 7343(b), verbatim: 'None of the funds authorized to be appropriated or otherwise made available by this division may be obligated or expended in support of any activity involving unidentified anomalous phenomena protected under any form of special access or restricted access limitation unless the Director of National Intelligence has provided the details of the activity to the appropriate committees of Congress and congressional leadership, including for any activities described in a report released by the All-domain Anomaly Resolution Office in fiscal year 2024.' Text at 137 Stat. 1063-1064.",
+"tier": 1
+},
+{
+"source": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm",
+"text": "Sec. 7343(a)(1) defines 'appropriate committees of Congress' as SSCI, SASC and Senate Appropriations, and HPSCI, HASC and House Appropriations; (a)(2) adds the four congressional leaders. Sec. 7343(c) applies the same IR&D indirect-cost bar on the intelligence side.",
+"tier": 1
+},
+{
+"source": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm",
+"text": "Sections 1687 and 7343 are deliberately mirrored across the DoD/IC seam identified in 50 U.S.C. 3348(g)(2)(B) and ICD 906 C.3 -- one addressed to the Secretary of Defense and binding this Act's funds, the other to the DNI and binding this division's funds. Together they attempt to cover both sides of the jurisdictional gap that the SAP reporting statutes leave open. Neither reaches money appropriated in other Acts or in prior years. Reasoning stated.",
+"tier": 3
+},
+{
+"source": "Public Law 118-31, div. G, sec. 7343(b), 137 Stat. 1064",
+"text": "FY2024 IAA sec. 7343(b): 'None of the funds authorized to be appropriated or otherwise made available by this division may be obligated or expended in support of any activity involving unidentified anomalous phenomena protected under any form of special access or restricted access limitation unless the Director of National Intelligence has provided the details of the activity to the appropriate committees of Congress and congressional leadership.'",
+"tier": 1
+},
+{
+"source": "Public Law 118-31, div. G, sec. 7343(a)(1)",
+"text": "FY2024 IAA sec. 7343(a)(1) defines 'appropriate committees of Congress' as SSCI, SASC and Senate Appropriations, and HPSCI, HASC and House Appropriations.",
+"tier": 1
+},
+{
+"source": "Public Law 118-31, div. G, sec. 7343(c)",
+"text": "FY2024 IAA sec. 7343(c) prohibits independent research and development funding relating to UAP from being allowable as indirect expenses unless the material and information is made available to the appropriate congressional committees and leadership.",
+"tier": 1
+},
+{
+"source": "Public Law 118-31 secs. 1687 and 7343, read against 10 U.S.C. 119(e)",
+"text": "Sections 1687 and 7343 together create a subject-matter exception that overrides the ordinary compartment logic: for UAP specifically, disclosure to a named list of committees and leaders is a condition of spending, regardless of whether the program is acknowledged, unacknowledged or waived. Reasoning: neither section contains a saving clause for programs whose reporting has been waived under 10 U.S.C. 119(e).",
+"tier": 3
+}
+],
+"cls": "legislation",
+"cluster": "other",
+"connections": [
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "named as an appropriate committee",
+"id": "house-armed-services",
+"l0": false,
+"label": "House Armed Services Committee",
+"note": "The same definition at sec. 7343(a)(1) names the House Armed Services Committee among the six bodies constituting 'appropriate committees of Congress' for the section's funding limitation.",
+"sources": [
+{
+"date": "2023-12-22",
+"name": "Pub. L. 118-31 div. G sec. 7343 (FY2024 Intelligence Authorization Act), enacted text",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm"
+}
+],
+"tier": "C",
+"type": "legislative"
+},
+{
+"claimTier": 3,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "controlled-access counterpart",
+"id": "icd-906",
+"l0": false,
+"label": "ICD 906 — Controlled Access Programs (ODNI)",
+"note": "Tier 3, and recorded as a reading rather than a citation. The board's existing claim holds that secs. 1687 and 7343 are deliberately mirrored across the DoD/IC seam identified in 50 U.S.C. 3348(g)(2)(B) and ICD 906 C.3. ICD 906 is ODNI's controlled-access-programme directive and is the IC-side instrument the mirroring runs through. Neither text cites the other.",
+"sources": [
+{
+"date": "2023-12-22",
+"name": "Pub. L. 118-31 div. G sec. 7343 (FY2024 Intelligence Authorization Act), enacted text",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm"
+}
+],
+"tier": "A",
+"type": "legislative"
+},
+{
+"claimTier": 1,
+"cls": "legislation",
+"dateEnd": null,
+"dateStart": "2023-12-22",
+"direction": "out",
+"edgeLabel": "Twin provisions covering the defense and intelligence sides of the same gap",
+"id": "ndaa-fy2024-1687",
+"l0": true,
+"label": "FY2024 NDAA sec. 1687 — Limitation on Use of Funds for Certain Unreported Programs",
+"note": "Both were enacted in Public Law 118-31 on 22 December 2023 and both reference activities described in an AARO report released in fiscal year 2024.",
+"sources": [
+{
+"date": "2023-12-22",
+"name": "Public Law 118-31, FY2024 NDAA (govinfo enrolled text)",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm"
+}
+],
+"tier": "A",
+"type": "legislative"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2023-12-22",
+"direction": "out",
+"edgeLabel": "Imposes the same funding condition on the Director of National Intelligence",
+"id": "odni",
+"l0": true,
+"label": "Office of the Director of National Intelligence",
+"note": "FY2024 IAA sec. 7343(b) bars obligation of division funds for UAP activity under special or restricted access limitation absent DNI disclosure to six committees and four leaders.",
+"sources": [
+{
+"date": "2023-12-22",
+"name": "Public Law 118-31, FY2024 NDAA (govinfo enrolled text)",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm"
+}
+],
+"tier": "A",
+"type": "legislative"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "named as an appropriate committee",
+"id": "senate-armed-services",
+"l0": true,
+"label": "Senate Armed Services Committee",
+"note": "Sec. 7343(a)(1) defines 'appropriate committees of Congress' for this section as the Senate Select Committee on Intelligence, the Senate Armed Services Committee and Senate Appropriations, together with HPSCI, HASC and House Appropriations. SASC is therefore one of the six bodies to which a UAP-related programme must be reported before intelligence funds may be spent on it.",
+"sources": [
+{
+"date": "2023-12-22",
+"name": "Pub. L. 118-31 div. G sec. 7343 (FY2024 Intelligence Authorization Act), enacted text",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm"
+}
+],
+"tier": "B",
+"type": "legislative"
+},
+{
+"claimTier": 3,
+"cls": "legislation",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "the IC side of the same seam",
+"id": "usc-50-3348",
+"l0": false,
+"label": "50 U.S.C. 3348 — Reports Relating to Certain SAPs and Similar Programs",
+"note": "Tier 3: this is a reading of how the provisions sit together, not a cross-reference either text makes. Sec. 7343 is the intelligence-funds twin of NDAA sec. 1687, running through the DNI rather than the Secretary of Defense. The seam it straddles is the one 50 U.S.C. 3348(g)(2)(B) draws when it excludes DoD, the NNSA and IC agencies from its own SAP-reporting regime and routes each to a separate channel. 3348's text was read directly on 22 August 2026 and makes no reference to 7343; the connection is structural.",
+"sources": [
+{
+"date": "2023-12-22",
+"name": "Pub. L. 118-31 div. G sec. 7343 (FY2024 Intelligence Authorization Act), enacted text",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm"
+},
+{
+"date": "2026-08-22",
+"name": "50 U.S.C. 3348 (OLRC prelim, read 22 August 2026)",
+"url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3348&num=0&edition=prelim"
+}
+],
+"tier": "A",
+"type": "legislative"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "2023-12-22",
+"deg": 6,
+"denials": [],
+"desc": "Division G of Public Law 118-31 is the Intelligence Authorization Act for Fiscal Year 2024, and its section 7343 mirrors section 1687 on the intelligence side with a different addressee and a wider committee list. Subsection (b): 'None of the funds authorized to be appropriated or otherwise made available by this division may be obligated or expended in support of any activity involving unidentified anomalous phenomena protected under any form of special access or restricted access limitation unless the Director of National Intelligence has provided the details of the activity to the appropriate committees of Congress and congressional leadership, including for any activities described in a report released by the All-domain Anomaly Resolution Office in fiscal year 2024.' Its 'appropriate committees of Congress' are the Select Committee on Intelligence, the Committee on Armed Services and the Committee on Appropriations of the Senate, and the Permanent Select Committee on Intelligence, the Committee on Armed Services and the Committee on Appropriations of the House - six committees, plus the four congressional leaders. Subsection (c) carries the same independent research and development prohibition. Read together, sections 1687 and 7343 mean that as of 22 December 2023 both the Secretary of Defense and the Director of National Intelligence are under a statutory funding prohibition for unreported UAP special access activity, and both prohibitions run to a combined audience far wider than the 10 U.S.C. 119(e) waiver group. Congress did not repeal the waiver; it built a subject-matter carve-out around it.",
+"domains": [
+"_rs-legislation",
+"_rs-sap-docs",
+"w2-sap-architecture"
+],
+"dossier": {
+"claims": [
+{
+"source": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm",
+"text": "Enacted text, PL 118-31 sec. 7343(b), 137 Stat. 1064: 'None of the funds authorized to be appropriated or otherwise made available by this division may be obligated or expended in support of any activity involving unidentified anomalous phenomena protected under any form of special access or restricted access limitation' that has not been reported to the appropriate committees of Congress and congressional leadership.",
+"tier": 1
+},
+{
+"source": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm",
+"text": "Sec. 7343(c): 'Independent research and development funding relating to unidentified anomalous phenomena shall not be allowable as indirect expenses for purposes of contracts covered by' the relevant instruction, unless the material and information is made available.",
+"tier": 1
+},
+{
+"source": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm",
+"text": "Sec. 7343(a)(1) defines 'appropriate committees of Congress' as the Senate Select Committee on Intelligence, the Committee on Armed Services and the Committee on Appropriations of the Senate, and the House Permanent Select Committee on Intelligence, the Committee on Armed Services and the Committee on Appropriations of the House.",
+"tier": 1
+},
+{
+"source": "Comparison of the enacted division G text against the Senate-passed S.2226 division; the engrossed Sec. 1102 text itself has never been retrieved, per the 21 August research note",
+"text": "Sec. 7343 is the truncated survivor of sec. 1102 of the Senate-passed IAA division of S. 2226. The contractor turn-in obligation, the non-earth-origin materials list and the liability provision in that earlier text did not survive to enactment.",
+"tier": 2
+},
+{
+"source": "Full text of 10 U.S.C. 119 and 50 U.S.C. 3348, OLRC prelim, read 22 August 2026, https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3348&num=0&edition=prelim",
+"text": "10 U.S.C. 119 makes no cross-reference to 50 U.S.C. 3348, and 50 U.S.C. 3348 makes no reference to section 7343. The relationship between these instruments is structural rather than textual.",
+"tier": 1
+}
+],
+"connections": [
+"NDAA FY2024 sec. 1687 is its defence-side twin, imposing the same two limitations through the Secretary of Defense.",
+"50 U.S.C. 3348(g)(2)(B) excludes DoD, the NNSA and IC agencies from the general SAP-reporting regime, which is the seam this pair straddles.",
+"ICD 906 is the ODNI controlled-access-programme directive on the IC side of that seam."
+],
+"denialPosture": "No denial attaches to the section. The informative absence is that no intelligence element has publicly identified a UAP-related programme reported under it, and that the turn-in obligation which would have forced the question out of the reporting frame and into physical custody was removed before enactment.",
+"narrative": "The pairing is the point. Section 1687 addresses the Secretary of Defense and binds funds authorised by the NDAA; section 7343 addresses the Director of National Intelligence and binds funds authorised by the intelligence division. Read against 50 U.S.C. 3348(g)(2)(B), which excludes the Department of Defense, the NNSA and IC agencies from the general SAP-reporting statute and routes each to its own regime, the pair looks less like duplication and more like Congress closing both sides of a seam it had itself created.\n\nNeither text cites the other, and 3348 makes no reference to 7343. That was checked directly against the statutory text on 22 August 2026 rather than assumed, which is why the structural edges from this node are graded Tier 3.",
+"openQuestions": [
+"Whether any intelligence element has reported a UAP-related special or restricted access activity under 7343(b), and to which of the six named committees.",
+"Whether the IR&D allowability bar in (c) has ever been applied to a specific contract.",
+"The verbatim text of engrossed Sec. 1102, which remains unretrieved: every primary vehicle tried so far dies at the same extraction ceiling."
+],
+"roles": [
+"funding",
+"oversight",
+"concealment"
+],
+"whatItIs": "Section 7343 of the Intelligence Authorization Act for Fiscal Year 2024, enacted as division G of Pub. L. 118-31, 137 Stat. 1064, titled 'Funding Limitations Relating to Unidentified Anomalous Phenomena'. Subsection (b) bars obligation or expenditure of funds authorised by that division 'in support of any activity involving unidentified anomalous phenomena protected under any form of special access or restricted access limitation' that has not been reported to Congress. Subsection (c) makes UAP-related independent research and development unallowable as an indirect expense. Subsection (a)(1) defines 'appropriate committees of Congress' as SSCI, SASC and Senate Appropriations, plus HPSCI, HASC and House Appropriations; (a)(2) adds the four congressional leaders.",
+"whyImplicated": "7343 is the intelligence-community half of a matched pair. NDAA sec. 1687 imposes the same two limitations on defence funds through the Secretary of Defense; 7343 imposes them on intelligence funds through the Director of National Intelligence. Congress wrote the prohibition twice because the money and the authority run through two different chains, and a limitation binding only one of them would leave the other open. That is a legislative judgement about where UAP work could be hidden, expressed in enacted law rather than in testimony.\n\nIt is also the surviving fragment of something larger. 7343 is the truncated successor of sec. 1102 of the Senate-passed IAA division of S. 2226, which carried a contractor turn-in obligation, a list of non-earth-origin materials and a liability provision. None of that survived to enactment."
+},
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "iaa-fy2024-7343",
+"l0": true,
+"label": "FY2024 Intelligence Authorization Act sec. 7343 — Funding Limitations Relating to UAP",
+"locLabel": null,
+"members": [
+{
+"cls": "institution",
+"id": "house-armed-services",
+"label": "House Armed Services Committee",
+"tier": "C"
+},
+{
+"cls": "document",
+"id": "icd-906",
+"label": "ICD 906 — Controlled Access Programs (ODNI)",
+"tier": "A"
+},
+{
+"cls": "legislation",
+"id": "usc-50-3348",
+"label": "50 U.S.C. 3348 — Reports Relating to Certain SAPs and Similar Programs",
+"tier": "A"
+}
+],
+"short": "FY2024 IAA sec. 7343",
+"sources": [
+{
+"date": "2023-12-22",
+"name": "Public Law 118-31, National Defense Authorization Act for FY2024 (full text, GPO)",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm"
+},
+{
+"date": "2023-07-27",
+"name": "S. 2226, 118th Congress, Engrossed in Senate (BILLS-118s2226es) - contains DIVISION G, UAP Disclosure Act of 2023, secs. 9001-9015",
+"url": "https://www.govinfo.gov/content/pkg/BILLS-118s2226es/html/BILLS-118s2226es.htm"
+}
+],
+"sub": "statute",
+"tier": "A",
+"tierRationale": "Re-graded A on a global pass (rank 145 of 1027, score 51). 6 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A3/D3.",
+"timeline": []
+}

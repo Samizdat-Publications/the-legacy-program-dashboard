@@ -1,0 +1,81 @@
+{
+"A": 1,
+"C": 1,
+"D": 1,
+"band": null,
+"claims": [
+{
+"source": "Board bookkeeping",
+"text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
+"tier": 3
+}
+],
+"cls": "location",
+"cluster": "other",
+"connections": [
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": "1990",
+"dateStart": "1977-10",
+"direction": "in",
+"edgeLabel": "run from Moscow: Kremlin decision, MoD institute, IZMIRAN",
+"id": "setka-program",
+"l0": true,
+"label": "SETKA-AN / SETKA-MO (later Galaktika, then Gorizont) - Soviet state anomalous phenomena programme",
+"note": "The founding Scientific and Technical Council meeting of the Military-Industrial Commission was held in the Kremlin in October 1977; the lead military executor was 'one of the central military research institutes in the Moscow region'; and the academic branch was run from IZMIRAN, also in the Moscow region.",
+"sources": [
+{
+"date": null,
+"name": "http://www.debunker.com/historical/HistoryRussianUFOlogy.html",
+"url": "http://www.debunker.com/historical/HistoryRussianUFOlogy.html"
+}
+],
+"tier": "B",
+"type": "geographic"
+}
+],
+"coords": [
+55.7558,
+37.6173
+],
+"dateEnd": null,
+"dateStart": null,
+"deg": 1,
+"denials": [],
+"desc": "Moscow is the administrative centre of the Soviet Union's own state study of anomalous aerial phenomena - the programme conducted from 1978 under the Academy of Sciences and the Ministry of Defence, generally known by the codename Setka, whose principal scientific summariser Yuli Platov later published on it openly. The Soviet case is analytically valuable for a specific reason: a closed adversary state, with no domestic disclosure movement and every incentive to exploit any recovered advantage, ran a decade-long official study and concluded that most reports traced to its own rocket and military activity. That is a genuine constraint on the strong global-programme hypothesis and is recorded here as such.",
+"domains": [
+"_stubs",
+"w2-taxonomy"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "nd",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "l-moscow",
+"l0": false,
+"label": "Moscow, Russia",
+"locLabel": "Moscow, Russia",
+"members": null,
+"short": "Moscow, Russia",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Wikipedia - Moscow",
+"url": "https://en.wikipedia.org/wiki/Moscow"
+},
+{
+"date": "2024-02-24",
+"name": "NSA declassified UFO collection, French government UFO study (archived)",
+"url": "https://web.archive.org/web/20240224094347/https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/french_gov_ufo_study.pdf"
+}
+],
+"sub": "Capital of Russia; seat of the Soviet-era Setka programme",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 974 of 1027, score 11). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D1.",
+"timeline": []
+}

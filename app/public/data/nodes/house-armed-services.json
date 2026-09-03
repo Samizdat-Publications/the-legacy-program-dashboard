@@ -1,0 +1,171 @@
+{
+"A": 3,
+"C": 1,
+"D": 0,
+"band": null,
+"claims": [
+{
+"source": "P.L. 118-31, Sec. 1687(c)(1), GPO",
+"text": "Sec. 1687(c)(1) defines 'appropriate congressional committees' as the congressional defense committees plus HPSCI and SSCI, routing the remedy through committee channels only.",
+"tier": 1
+},
+{
+"source": "Micah Hanks, The Debrief, 27 November 2023",
+"text": "HASC Chairman Rogers is named with Turner as leading the effort against the UAP Disclosure Act.",
+"tier": 2
+}
+],
+"cls": "institution",
+"cluster": "oversight",
+"connections": [
+{
+"claimTier": 1,
+"cls": "legislation",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "named as an appropriate committee",
+"id": "iaa-fy2024-7343",
+"l0": true,
+"label": "FY2024 Intelligence Authorization Act sec. 7343 — Funding Limitations Relating to UAP",
+"note": "The same definition at sec. 7343(a)(1) names the House Armed Services Committee among the six bodies constituting 'appropriate committees of Congress' for the section's funding limitation.",
+"sources": [
+{
+"date": "2023-12-22",
+"name": "Pub. L. 118-31 div. G sec. 7343 (FY2024 Intelligence Authorization Act), enacted text",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm"
+}
+],
+"tier": "A",
+"type": "legislative"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "2023",
+"direction": "in",
+"edgeLabel": "Chairman during the FY2024 conference",
+"id": "mike-rogers-al",
+"l0": false,
+"label": "Mike D. Rogers",
+"note": "Rogers has chaired House Armed Services since January 2023 and was a conference principal on the NDAA.",
+"sources": [
+{
+"date": "2023-12-22",
+"name": "P.L. 118-31, FY2024 NDAA — GPO",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "1988",
+"direction": "in",
+"edgeLabel": "Defense committee receiving waived-SAP notification",
+"id": "oversight-congress",
+"l0": true,
+"label": "Congressional oversight of special access programs",
+"note": "Under 10 U.S.C. 119(e) the chairman and ranking minority member of each defense committee receive the waived program information and the waiver justification.",
+"sources": [
+{
+"date": "2024-01-01",
+"name": "10 U.S.C. 119, Special access programs: congressional oversight",
+"url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim"
+}
+],
+"tier": "B",
+"type": "legislative"
+},
+{
+"claimTier": 1,
+"cls": "legislation",
+"dateEnd": "2024",
+"dateStart": "2023",
+"direction": "out",
+"edgeLabel": "Retained remedy routes back to the committees",
+"id": "pl118-31-sec-1687",
+"l0": false,
+"label": "P.L. 118-31 Sec. 1687 — limitation on funds for unreported programs",
+"note": "Sec. 1687 does not open anything to the public; it compels description to the defence and intelligence committees and congressional leadership.",
+"sources": [
+{
+"date": "2023-12-22",
+"name": "P.L. 118-31, FY2024 NDAA — GPO",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "1947",
+"direction": "in",
+"edgeLabel": "One half of the read-in gate described by Chairwoman Luna",
+"id": "us-house",
+"l0": true,
+"label": "United States House of Representatives",
+"note": "HASC leadership approval is required, together with HAC-D leadership, for a non-committee member to view specific program material.",
+"sources": [
+{
+"date": "2025-09-09",
+"name": "CHRG-119hhrg61718, 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm"
+},
+{
+"date": "2024-01-01",
+"name": "10 U.S.C. 119, Special access programs: congressional oversight",
+"url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim"
+}
+],
+"tier": "B",
+"type": "institutional"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "1947",
+"deg": 5,
+"denials": [],
+"desc": "HASC held the House side of the NDAA conference through the stripping and is the committee whose jurisdiction the Senate's independent Review Board would most directly have displaced. The pattern of what survived tracks committee interest closely: every enacted UAP provision routes its remedy to 'the appropriate congressional committees and congressional leadership' — the defence and intelligence committees — while every removed provision routed authority to an independent agency, to the Archivist acting on a board's direction, or to a court. Sec. 1687, the funding limitation that did survive, is precisely the form of leverage that keeps the armed services committees as the gatekeeper: it does not open anything to the public, it compels description to the committees.",
+"domains": [
+"congress-senate-legislation"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "house-armed-services",
+"l0": false,
+"label": "House Armed Services Committee",
+"locLabel": null,
+"members": null,
+"short": "House Armed Services Committee",
+"sources": [
+{
+"date": "2023-12-22",
+"name": "P.L. 118-31, Sec. 1687 — GPO",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm"
+},
+{
+"date": "2023-11-27",
+"name": "The Debrief — UAP Disclosure Act receives pushback",
+"url": "https://thedebrief.org/uap-disclosure-act-receives-pushback-from-lawmakers-on-capitol-hill-as-bipartisan-fight-for-transparency-continues/"
+}
+],
+"sub": "HASC; conference principal under Chairman Rogers",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 676 of 1027, score 23). 5 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A3/D0.",
+"timeline": []
+}

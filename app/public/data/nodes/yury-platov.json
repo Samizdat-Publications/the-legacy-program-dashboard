@@ -1,0 +1,114 @@
+{
+"A": 2,
+"C": 0,
+"D": 1,
+"affiliations": [
+"izmiran",
+"setka-program"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "1978-10-18",
+"event": "Designated chief executive at IZMIRAN for SETKA-AN at the Academy of Sciences founding meeting",
+"precision": "day"
+},
+{
+"date": "1989",
+"event": "Censorship restrictions on the UFO subject removed in the USSR",
+"precision": "year"
+}
+],
+"claims": [
+{
+"source": "Stonehill and Mantle, 'Setka: A Secret Soviet UFO Research Program'",
+"text": "'Platov was to be the chief executive at the Izmiran for the SETKA-AN.'",
+"tier": 2
+},
+{
+"source": "Stonehill and Mantle, quoting Platov and Sokolov, History of State-directed UFO Research in the USSR",
+"text": "Platov and Sokolov's stated reasons for secrecy include 'possibilities that in case of successful completion of the raised tasks some of the UFO characteristics could be used for military purposes.'",
+"tier": 2
+},
+{
+"source": "Stonehill and Mantle",
+"text": "Critics quoted in the same account allege that 'SETKA-AN served as a powerful cover, creating a distraction away from the workings of the Ministry of Defense, whose SETKA-MO is said to have been ... more serious in its investigations than the academic group.'",
+"tier": 2
+}
+],
+"cls": "person",
+"cluster": "research",
+"conflicts": [
+{
+"text": "Platov and Sokolov present the Soviet programmes as having found nothing anomalous; Stonehill and Mantle, and Colonel Aleksandr Plaksin in Russian television and press interviews from 2000-2002, present the military side as substantive. Both positions are attributed; neither is settled from primary Russian archival record here."
+}
+],
+"connections": [
+{
+"claimTier": 2,
+"cls": "program",
+"dateEnd": "1991",
+"dateStart": "1978-10-18",
+"direction": "out",
+"edgeLabel": "chief executive for SETKA-AN at IZMIRAN",
+"id": "setka-program",
+"l0": true,
+"label": "SETKA-AN / SETKA-MO (later Galaktika, then Gorizont) - Soviet state anomalous phenomena programme",
+"note": "Designated at the founding meeting of 18 October 1978, with IZMIRAN as lead agency.",
+"sources": [
+{
+"date": "2010-11-19",
+"name": "Stonehill & Mantle - Setka",
+"url": "https://web.archive.org/web/20101119234133/http://aforteanosla.com.ar/Colaboraciones/internacional/Mantle,%20Philip/Stonehill,%20Paul%20and%20Mantle,%20Philip.%20Setka%20an%20article.pdf"
+}
+],
+"tier": "B",
+"type": "institutional"
+}
+],
+"date": "1989-01-01",
+"dateEnd": null,
+"dateStart": "1989-01-01",
+"deg": 1,
+"denials": [],
+"domains": [
+"w2-international"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "1",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "yury-platov",
+"instId": "izmiran",
+"l0": false,
+"label": "Yury Viktorovich Platov",
+"loc": "Moscow, Russia",
+"locId": "l-moscow",
+"members": null,
+"narrative": "Yury Platov of IZMIRAN, the USSR Academy of Sciences Institute of Terrestrial Magnetism and Radio Wave Propagation, was designated chief executive for SETKA-AN at the founding meeting of 18 October 1978 and remained the public scientific face of the Soviet programme. With Vladimir Migulin he published an appeal in the newspaper Nedelya asking members of the public who saw unusual phenomena first to rule out astronomical or familiar objects and then to send descriptions to the Academy's Department of General Physics and Astronomy. With Colonel Boris Sokolov he later co-wrote the 'History of State-directed UFO Research in the USSR', the official retrospective, which sets out the three reasons the programmes were kept secret - their formal status as defence-related activity, the initial assumption of a high probability of military-technical origin, and 'possibilities that in case of successful completion of the raised tasks some of the UFO characteristics could be used for military purposes'. That third reason is the important one: the official Soviet history states in its own words that the programme was concealed partly because its results might be militarily exploitable. Critics of the programme argue that the academic side functioned as a debunking and cover operation for the Ministry of Defence side.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Yury Viktorovich Platov",
+"sources": [
+{
+"date": "2010-11-19",
+"name": "Stonehill & Mantle - Setka",
+"url": "https://web.archive.org/web/20101119234133/http://aforteanosla.com.ar/Colaboraciones/internacional/Mantle,%20Philip/Stonehill,%20Paul%20and%20Mantle,%20Philip.%20Setka%20an%20article.pdf"
+}
+],
+"status": "active",
+"sub": "IZMIRAN physicist; chief executive of SETKA-AN and co-author of the official Soviet programme history",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 882 of 1027, score 15). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A2/D1.",
+"timeline": [],
+"unexplainedResidual": null,
+"unverified": [
+"Platov's current status was not established.",
+"No primary Russian-language archival citation for the SETKA founding documents was obtained in this pass."
+]
+}

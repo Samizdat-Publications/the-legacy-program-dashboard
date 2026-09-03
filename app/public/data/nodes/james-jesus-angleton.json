@@ -1,0 +1,147 @@
+{
+"A": 3,
+"C": 2,
+"D": 2,
+"affiliations": [],
+"age": null,
+"band": null,
+"chronology": [],
+"claims": [
+{
+"source": "S. Rept. 94-755, Book III, Supplementary Detailed Staff Reports on Intelligence Activities and the Rights of Americans, Senate Select Committee to Study Governmental Operations with Respect to Intelligence Activities, 1976, section on the Huston Plan, https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-94755-iii.pdf",
+"text": "The Committee states his office and its dates: 'James Angleton, who served as Chief of the CIA Counterintelligence Staff from 1954 to 1974 and was in charge of the CIA covert mail program from 1955 to its termination in 1973.'",
+"tier": 1
+},
+{
+"source": "S. Rept. 94-755, Book III, https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-94755-iii.pdf",
+"text": "He proposed the change from photographing mail to opening it and the transfer of the project to his own staff. 'In November 1955, James Angleton, the Chief of the Counterintelligence (CI) Staff, submitted a proposal to Richard Helms for the further expansion of the New York mail intercept project', recommending access to 'all mail traffic to and from the U.S.S.R. which enters, departs, or transits the United States through the Port of New York' and that 'primary responsibility for the project be transferred within the Plans Directorate from 0/S to the CI Staff.' Helms approved it on 7 December 1955.",
+"tier": 1
+},
+{
+"source": "S. Rept. 94-755, Book III, https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-94755-iii.pdf",
+"text": "The project sat outside the Agency's own approval and review machinery: it 'was never processed through the approval system and has no separate funds ... the normal programming procedures have not been followed for the project as a whole', and the Committee concluded that 'The security of the operation was enhanced by this exemption but the opportunity for critical evaluation by disinterested division heads was lost.'",
+"tier": 1
+},
+{
+"source": "S. Rept. 94-755, Book III, quoting Angleton testimony of 17 September 1975, https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-94755-iii.pdf",
+"text": "Angleton's own stated reason for the exemption was the number of people normal processing would have exposed: a typical project would need sign-off by many components and a project review board, giving 'this tremendous opening up of the activity to a great number of people. ... That is the reason why I think it was excepted from [the usual approval system], and that way it shortcircuited the normal project approval process.'",
+"tier": 1
+},
+{
+"source": "S. Rept. 94-755, Book III, public hearing exchange with Senator Church, https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-94755-iii.pdf",
+"text": "Asked in public session why the Agency continued the mail programme after the President revoked the authority, Angleton answered: 'I have no satisfactory answer or that.'",
+"tier": 1
+}
+],
+"cls": "person",
+"cluster": "ic",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "Testified in September 1975; the mail programme is documented largely through him",
+"id": "church-committee",
+"l0": true,
+"label": "Senate Select Committee to Study Governmental Operations with Respect to Intelligence Activities (Church Committee)",
+"note": "Book III cites Angleton testimony of 17 and 24 September 1975 more than fifty times and reproduces a public exchange with Senator Church on concealment from the President.",
+"sources": [
+{
+"date": "1976-04-23",
+"name": "S. Rept. 94-755, Book III",
+"url": "https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-94755-iii.pdf"
+}
+],
+"tier": "B",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "Chief of the Counterintelligence Staff, 1954 to 1974",
+"id": "cia",
+"l0": true,
+"label": "Central Intelligence Agency",
+"note": "The Church Committee's Book III states the office and its dates in its own narrative text and cites his testimony of 17 and 24 September 1975 throughout.",
+"sources": [
+{
+"date": "1976-04-23",
+"name": "S. Rept. 94-755, Book III",
+"url": "https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-94755-iii.pdf"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 3,
+"cls": "program",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "Documented precedent for an activity exempted from its own department's approval machinery",
+"id": "waived-usap",
+"l0": true,
+"label": "Waived unacknowledged special access program (waived USAP)",
+"note": "Reasoning: the board's structural claim is that a programme can be held outside the machinery meant to review it. Book III documents exactly that for a different subject, in an agency's own words, and the analogy is the board's, not the Committee's. No opened record connects Angleton to any DoD special access programme.",
+"sources": [
+{
+"date": "1976-04-23",
+"name": "S. Rept. 94-755, Book III, read against the waived-usap node",
+"url": "https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-94755-iii.pdf"
+}
+],
+"tier": "A",
+"type": "behavioral"
+}
+],
+"date": "1955-12-07",
+"dateEnd": null,
+"dateStart": "1955-12-07",
+"deg": 3,
+"denials": [],
+"domains": [
+"area52-2026-09-02"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "james-jesus-angleton",
+"instId": null,
+"l0": false,
+"label": "James Jesus Angleton",
+"loc": null,
+"locId": null,
+"members": null,
+"narrative": "Angleton was Chief of the CIA's Counterintelligence Staff from 1954 to 1974 and, on the Church Committee's finding, in charge of the Agency's covert mail programme from 1955 until its termination in 1973. In November 1955 he proposed moving the New York mail intercept from photographing envelopes to opening them, indexing and analysing the product, and shifting primary responsibility for the project from the Office of Security to his own staff. The Committee found that the project was never processed through the Agency's approval system, had no separate funds, and in twenty years was reviewed by disinterested components twice, both reviews' recommendations going unimplemented. Angleton's own explanation was that normal processing would have opened the activity to too many people, and that the arrangement short-circuited the project approval process. He is carried here as a documented precedent for records and activities held outside an agency's own approval and review machinery, and for nothing else: nothing in the Church Committee record connects him to any UFO-related holding.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "James Jesus Angleton",
+"sources": [
+{
+"date": "1976-04-23",
+"name": "S. Rept. 94-755, Book III, Supplementary Detailed Staff Reports on Intelligence Activities and the Rights of Americans",
+"url": "https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-94755-iii.pdf"
+}
+],
+"status": "former",
+"sub": "Chief, CIA Counterintelligence Staff, 1954-1974; ran the covert mail programme 1955-1973",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 255 of 1027, score 39). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A3/D2.",
+"timeline": [],
+"unexplainedResidual": null,
+"unverified": [
+"Any connection to a UFO-related holding or registry. The word 'registry' appears nowhere in Church Committee Book III, and nothing in that record connects him to this board's subject."
+]
+}

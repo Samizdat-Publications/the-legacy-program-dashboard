@@ -1,0 +1,149 @@
+{
+"A": 3,
+"C": 1,
+"D": 1,
+"affiliations": [
+"US Army Air Forces / USAF, Air Intelligence Requirements Division (1946-1948)"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "1947-09-23",
+"event": "Receives Twining's 'AMC Opinion Concerning Flying Discs'",
+"precision": "day"
+},
+{
+"date": "1947-10-28",
+"event": "Signs draft collection memorandum 'Intelligence Requirements on Flying Saucer Type Aircraft'",
+"precision": "day"
+},
+{
+"date": "1947-10-30",
+"event": "Collection memorandum distributed to intelligence collectors",
+"precision": "day"
+}
+],
+"claims": [
+{
+"source": "Schulgen, 'Intelligence Requirements on Flying Saucer Type Aircraft', draft collection memorandum, 28 Oct 1947 (distributed 30 Oct 1947)",
+"text": "Schulgen's collection memorandum instructed collectors to report on disc-type craft with 'extreme maneuverability and apparent ability to almost hover' and construction achieving 'extreme light weight.'",
+"tier": 1
+},
+{
+"source": "Same document, propulsion section",
+"text": "The memorandum lists 'Nuclear propulsion (atomic energy)' among the propulsion systems collectors were to investigate.",
+"tier": 1
+},
+{
+"source": "Same document, design origins section",
+"text": "The stated working hypothesis was Soviet exploitation of German Horten brothers designs, and collectors were asked to establish the Hortens' current whereabouts.",
+"tier": 1
+},
+{
+"source": "Inference from the collection requirements text",
+"text": "Asking field collectors about atomic propulsion in October 1947 is not consistent with a genuine belief that the objects were Soviet flying wings; it is consistent with an internal assessment that the performance envelope exceeded any known airframe.",
+"tier": 3
+}
+],
+"cls": "person",
+"cluster": "ic",
+"conflicts": [
+"The memorandum is dated 28 October 1947 but is frequently cited as the '30 October 1947' memo, which is its distribution date"
+],
+"connections": [
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "1947",
+"dateStart": "1947",
+"direction": "out",
+"edgeLabel": "Schulgen signed the flying saucer collection requirement",
+"id": "schulgen-memo",
+"l0": false,
+"label": "Schulgen Collection Memorandum: Intelligence Requirements on Flying Saucer Type Aircraft",
+"note": "As Chief of the Air Intelligence Requirements Division he signed 'Intelligence Requirements on Flying Saucer Type Aircraft' on 28 October 1947, distributed 30 October.",
+"sources": [
+{
+"date": "1947-10-28",
+"name": "Schulgen collection memorandum, 1947",
+"url": "https://www.nicap.org/schulgen.htm"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "1947",
+"dateStart": "1947",
+"direction": "in",
+"edgeLabel": "Addressed to Schulgen at Air Force intelligence requirements",
+"id": "twining-memo",
+"l0": false,
+"label": "Twining Memorandum: AMC Opinion Concerning \"Flying Discs\"",
+"note": "Schulgen was the named addressee. Five weeks later he issued the worldwide collection memorandum, making the causal chain from assessment to collection tasking explicit in the documentary record.",
+"sources": [
+{
+"date": "1947-09-23",
+"name": "Twining memorandum, 23 September 1947",
+"url": "https://www.nicap.org/docs/1947_Twining_memo.pdf"
+},
+{
+"date": "1947-10-28",
+"name": "Schulgen collection memorandum",
+"url": "https://www.nicap.org/schulgen.htm"
+}
+],
+"tier": "B",
+"type": "institutional"
+}
+],
+"date": "1947-10-28",
+"dateEnd": null,
+"dateStart": "1947-10-28",
+"deg": 2,
+"denials": [],
+"domains": [
+"history-1940s-1960s"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "george-schulgen",
+"instId": "dod",
+"l0": false,
+"label": "George F. Schulgen",
+"loc": "Washington, DC",
+"locId": "l-dc",
+"members": null,
+"narrative": "Brigadier General George F. Schulgen ran the Air Intelligence Requirements Division at Air Force headquarters in 1947 and was the addressee of the Twining memo. Five weeks later, on 28 October 1947, he signed the draft collection memorandum 'Intelligence Requirements on Flying Saucer Type Aircraft' — distributed 30 October — which is the moment the phenomenon became a formal worldwide intelligence collection target. The document is remarkable for what it asks collectors to look for: a plan form 'approximating that of an oval or disc with a dome shape,' a 'relatively flat bottom with extreme light-reflecting ability,' 'extreme maneuverability and apparent ability to almost hover,' composite and sandwich construction achieving 'extreme light weight,' and — listed among the propulsion options — 'Nuclear propulsion (atomic energy).' Schulgen framed the target as possible Soviet exploitation of German Horten brothers designs, and asked collectors to establish the Hortens' whereabouts. That framing is the standard cover story of the era, but the collection requirements themselves describe performance no 1947 airframe possessed. Schulgen also worked the FBI channel, and the resulting Bureau correspondence is the reason a parallel FBI file series on flying discs exists at all.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "George F. Schulgen",
+"sources": [
+{
+"date": "1947-10-28",
+"name": "Schulgen collection memorandum, 28/30 October 1947",
+"url": "https://www.nicap.org/schulgen.htm"
+},
+{
+"date": "2010-11-30",
+"name": "FBI Records: The Vault — UFO (16 parts, 1947-1954)",
+"url": "https://vault.fbi.gov/UFO"
+}
+],
+"status": "dead",
+"sub": "Chief, Air Intelligence Requirements Division",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 555 of 1027, score 27). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A3/D1.",
+"timeline": [],
+"unexplainedResidual": null,
+"unverified": []
+}

@@ -1,0 +1,203 @@
+{
+"A": 0,
+"C": 0,
+"D": 2,
+"affiliations": [
+"The Hill (opinion contributor)",
+"US Department of State (former)"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "2024-01-01",
+"event": "Publishes 'Shocking UFO allegations make the case for the Disclosure Act' in The Hill.",
+"precision": "year"
+},
+{
+"date": "2025-01-01",
+"event": "Publishes 'Did the Pentagon spread false UFO stories? We're skeptical.' in The Hill.",
+"precision": "year"
+}
+],
+"claims": [
+{
+"source": "The Hill, opinion/national-security and opinion/technology sections; URLs confirmed live via The Hill's own search index, 12 August 2026",
+"text": "The Hill has published a sustained series of UAP opinion pieces argued from the official record, including 'Did the Pentagon spread false UFO stories? We're skeptical.', 'Shocking UFO allegations make the case for the Disclosure Act', 'Pentagon still mystified as drone drama deepens' and 'Mysterious orbs demand scientific study'.",
+"tier": 2
+}
+],
+"cls": "person",
+"cluster": "media",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "Obama-administration DoD appointee",
+"id": "dod",
+"l0": true,
+"label": "United States Department of Defense (secondary designation: Department of War)",
+"note": "His Sol Foundation biography states he 'served as appointee in the US Department of Defense during the Obama administration and later worked in the US State Department.'",
+"sources": [
+{
+"date": "2025-01-01",
+"name": "The Hill - 'Did the Pentagon spread false UFO stories? We're skeptical.'",
+"url": "https://thehill.com/opinion/national-security/5381851-did-the-pentagon-spread-false-ufo-stories-were-skeptical/"
+},
+{
+"date": "2024-01-01",
+"name": "The Hill - 'Shocking UFO allegations make the case for the Disclosure Act'",
+"url": "https://thehill.com/opinion/technology/4962650-shocking-ufo-allegations-make-the-case-for-the-disclosure-act/"
+},
+{
+"date": null,
+"name": "https://thesolfoundation.org/wp-content/uploads/2026/04/Sol_Policy_Briefing_Number_3-1.pdf",
+"url": "https://thesolfoundation.org/wp-content/uploads/2026/04/Sol_Policy_Briefing_Number_3-1.pdf"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "2024-01-01",
+"direction": "out",
+"edgeLabel": "checked and rejected Kirkpatrick's balloon explanation",
+"id": "sean-kirkpatrick",
+"l0": false,
+"label": "Sean M. Kirkpatrick",
+"note": "After Kirkpatrick attributed tic-tac-shaped sightings to a Florida company's escaped helium balloons, von Rennenkampff wrote in The Hill: 'After calling the company, I found Kirkpatrick's statement to be implausible.' The Debrief quotes the op-ed and identifies him as a former State Department Bureau of International Security and Nonproliferation analyst.",
+"sources": [
+{
+"date": null,
+"name": "https://thedebrief.org/the-pentagons-former-chief-ufo-hunter-speaks-out-but-some-of-his-arguments-dont-hit-the-mark/",
+"url": "https://thedebrief.org/the-pentagons-former-chief-ufo-hunter-speaks-out-but-some-of-his-arguments-dont-hit-the-mark/"
+},
+{
+"date": null,
+"name": "https://thehill.com/opinion/technology/4432225-what-has-happened-to-the-pentagons-former-ufo-hunter/",
+"url": "https://thehill.com/opinion/technology/4432225-what-has-happened-to-the-pentagons-former-ufo-hunter/"
+}
+],
+"tier": "A",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": "2026-04-30",
+"direction": "out",
+"edgeLabel": "author of Sol Science and Policy Briefing No. 3",
+"id": "sol-briefing-3-2026",
+"l0": false,
+"label": "Sol Foundation Science and Policy Briefing No. 3 (April 2026)",
+"note": "Von Rennenkampff is the named author of 'First Peer-Reviewed Scientific Analysis of Possible UAP Materials Employs State-of-the-Art Technologies,' The Sol Foundation Science and Policy Briefings No. 3, April 2026.",
+"sources": [
+{
+"date": null,
+"name": "https://thesolfoundation.org/publications/first-peer-reviewed-scientific-analysis-of-possible-uap-materials-employs-state-of/",
+"url": "https://thesolfoundation.org/publications/first-peer-reviewed-scientific-analysis-of-possible-uap-materials-employs-state-of/"
+},
+{
+"date": null,
+"name": "https://thesolfoundation.org/wp-content/uploads/2026/04/Sol_Policy_Briefing_Number_3-1.pdf",
+"url": "https://thesolfoundation.org/wp-content/uploads/2026/04/Sol_Policy_Briefing_Number_3-1.pdf"
+}
+],
+"tier": "C",
+"type": "research"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "delivers the monthly Sol Briefing; authors Sol policy briefings",
+"id": "sol-foundation",
+"l0": true,
+"label": "The Sol Foundation",
+"note": "The Sol Foundation identifies von Rennenkampff as a Sol Foundation Fellow and carries his paper 'The Civilizational Risks of a UAP Technology Arms Race: Nonhuman Technology and Global Security', which argues for international cooperation on UAP technology development. Garry Nolan is listed as Executive Director of the Board. Tier 2: the foundation's public pages read here do not carry the Science and Policy Briefings series, so his role in it is not asserted from this source.",
+"sources": [
+{
+"date": "2026-08-25",
+"name": "The Sol Foundation",
+"url": "https://www.thesolfoundation.org/"
+},
+{
+"date": null,
+"name": "https://thesolfoundation.org/wp-content/uploads/2026/04/Sol_Policy_Briefing_Number_3-1.pdf",
+"url": "https://thesolfoundation.org/wp-content/uploads/2026/04/Sol_Policy_Briefing_Number_3-1.pdf"
+},
+{
+"date": null,
+"name": "https://thesolfoundation.org/white-papers/",
+"url": "https://thesolfoundation.org/white-papers/"
+}
+],
+"tier": "A",
+"type": "institutional"
+}
+],
+"date": "2025-06-01",
+"dateEnd": null,
+"dateStart": "2025-06-01",
+"deg": 4,
+"denials": [],
+"domains": [
+"media-structure"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "marik-von-rennenkampff",
+"instId": "the-hill",
+"l0": false,
+"label": "Marik von Rennenkampff",
+"loc": "Washington, DC",
+"locId": "l-dc",
+"members": null,
+"narrative": "Marik von Rennenkampff occupies a narrow but useful position: he writes about UAP for The Hill, the trade paper of Congress, which means his arguments land in front of staffers rather than subscribers. His columns have pressed on the specific institutional questions this board cares about - whether the Pentagon has spread false UFO stories, what H.R. McMaster's remarks imply, why the alleged programme allegations strengthen the case for the UAP Disclosure Act, and why anomalous 'orbs' warrant scientific study. His value is that he argues from the public record and from official statements rather than from witness testimony, which makes his pieces usable as citations in a way that video interviews are not. He is a former Obama administration official at the State Department, which is the credential that gets him the column inches.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Marik von Rennenkampff",
+"sources": [
+{
+"date": "2025-01-01",
+"name": "The Hill - 'Did the Pentagon spread false UFO stories? We're skeptical.'",
+"url": "https://thehill.com/opinion/national-security/5381851-did-the-pentagon-spread-false-ufo-stories-were-skeptical/"
+},
+{
+"date": "2024-01-01",
+"name": "The Hill - 'Shocking UFO allegations make the case for the Disclosure Act'",
+"url": "https://thehill.com/opinion/technology/4962650-shocking-ufo-allegations-make-the-case-for-the-disclosure-act/"
+},
+{
+"date": "2025-01-01",
+"name": "The Hill - 'Mysterious orbs demand scientific study'",
+"url": "https://thehill.com/opinion/national-security/5439336-mysterious-orbs-demand-scientific-study/"
+}
+],
+"status": "active",
+"sub": "Opinion contributor, The Hill; former State Department official",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 978 of 1027, score 10). 4 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D2.",
+"timeline": [],
+"unexplainedResidual": null,
+"unverified": [
+"thehill.com returns HTTP 403 to automated retrieval, so the byline on each of these specific pieces could not be re-verified in this pass; attribution to von Rennenkampff should be confirmed against the live page before citation.",
+"His exact State Department role and years of service are not established here."
+]
+}

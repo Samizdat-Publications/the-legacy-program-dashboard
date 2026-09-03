@@ -1,0 +1,175 @@
+{
+"A": 0,
+"C": 1,
+"D": 0,
+"affiliations": [],
+"age": null,
+"band": null,
+"chronology": [],
+"claims": [
+{
+"source": "https://irp.fas.org/dia/aatip-list.pdf",
+"text": "The 9 January 2018 DIA list credits item 26, \"Aneutronic Fusion Propulsion\", to \"Dr V Teofilo, Lockheed Martin\".",
+"tier": 1
+},
+{
+"source": "https://www.legacy.com/us/obituaries/name/vincent-teofilo-obituary?id=60785077",
+"text": "Teofilo held a PhD in physics from New York University, taught at Princeton where he operated the university nuclear reactor, worked on fusion reactor development at Westinghouse, Pacific Northwest National Laboratory, Physics International and Bechtel, and spent 28 years at Lockheed Martin Space Systems. He died 10 January 2026, aged 81.",
+"tier": 1
+},
+{
+"source": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"text": "Two other DIRDs on the DIA list were authored by Lockheed Martin staff: item 32, MHD Air Breathing Propulsion and Power for Aerospace Applications (Dr S Macheret), and item 35, Ultracapacitors as Energy and Power Storage Devices (Dr J Golightly).",
+"tier": 2
+}
+],
+"cls": "person",
+"cluster": "research",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "commissioned subject-matter author",
+"id": "aawsap",
+"l0": true,
+"label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)",
+"note": "Credited on DIA's list with 'Aneutronic Fusion Propulsion' (1 November 2010, DIA-08-1011-003), affiliation Lockheed Martin. Two reasons this stays tier 2: the document's 'Author' field is redacted under FOIA exemption (b)(6), and unlike most of the series this particular DIRD's released text does not name AAWSAP anywhere, so the document does not tie itself to the programme either.",
+"sources": [
+{
+"date": "2010-11-01",
+"name": "DIRD, 'Aneutronic Fusion Propulsion', 1 November 2010, 50 pp., DIA-08-1011-003 (DIA FOIA release)",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_30-DIRD_Aneutronic_Fusion_Propulsion.pdf"
+},
+{
+"date": "2022-03-25",
+"name": "DIA FOIA Electronic Reading Room entry",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237658/"
+},
+{
+"date": null,
+"name": "https://irp.fas.org/dia/aatip-list.pdf",
+"url": "https://irp.fas.org/dia/aatip-list.pdf"
+}
+],
+"tier": "A",
+"type": "funding"
+},
+{
+"claimTier": 2,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "authored (attribution by internal self-citation, see note)",
+"id": "dird-aneutronic-fusion-propulsion-2",
+"l0": false,
+"label": "Aneutronic Fusion Propulsion (DIA-08-1011-004)",
+"note": "TIER 2 AND DELIBERATELY SO. Cover author field is redacted under (b)(6) and reads \"Authors\" plural, so there may have been co-authors. Assigned to Teofilo because endnote 17 cites \"G. Miley, H. Momota, L. Wu, M. Reilley, V. Teofilo, R. Dell, and R. Hargus, Space Probe Application of IEC Thrusters, Fusion Science and Technology 56 1, 533-539, July 2009\" - the only occurrence of either candidate author's surname in either aneutronic document - immediately adjacent to a citation of AeroJet/Lockheed Martin Space Systems Hall thruster hardware that also appears in the body text. Paired with the Culbreth edge; if reversed, swap both.",
+"sources": [
+{
+"date": "2026-08-22",
+"name": "Released DIRD, 'Aneutronic Fusion Propulsion (DIA-08-1011-004)' — FOIA copy, cover page read 22 August 2026",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_37-DIRD_Aneutronic_Fusion_Propulsion_II.pdf"
+},
+{
+"date": "2026-08-22",
+"name": "DIA FOIA Electronic Reading Room entry for this reference document",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237644/"
+},
+{
+"date": null,
+"name": "https://irp.fas.org/dia/aatip-list.pdf",
+"url": "https://irp.fas.org/dia/aatip-list.pdf"
+}
+],
+"tier": "B",
+"type": "research"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "physicist, Lockheed Martin Space Systems, 28 years",
+"id": "lockheed-martin",
+"l0": true,
+"label": "Lockheed Martin Corporation",
+"note": "Spent 28 years at Lockheed Martin Space Systems, contributing to the Hubble Space Telescope and the Space-Based Infrared System, before and during the period he was commissioned for the DIRD. This is his affiliation of record on the DIA list.",
+"sources": [
+{
+"date": null,
+"name": "https://www.legacy.com/us/obituaries/name/vincent-teofilo-obituary?id=60785077",
+"url": "https://www.legacy.com/us/obituaries/name/vincent-teofilo-obituary?id=60785077"
+},
+{
+"date": null,
+"name": "https://irp.fas.org/dia/aatip-list.pdf",
+"url": "https://irp.fas.org/dia/aatip-list.pdf"
+}
+],
+"tier": "A",
+"type": "institutional"
+}
+],
+"date": "2010-01-01",
+"dateEnd": null,
+"dateStart": "2010-01-01",
+"deg": 3,
+"denials": [],
+"domains": [
+"w7-dirds-1"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "2",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "vincent-teofilo",
+"instId": null,
+"l0": false,
+"label": "Vincent L. Teofilo",
+"loc": null,
+"locId": null,
+"members": null,
+"narrative": "Vincent Louis Teofilo was a career industrial physicist whose path ran through almost every institution that has ever tried to build a fusion reactor in the United States. He took a bachelor's degree in electrical engineering at Manhattan College and a master's in nuclear engineering and a PhD in physics at New York University. He taught at Princeton and operated the university's nuclear reactor, then worked on fusion reactor development at Westinghouse, Pacific Northwest National Laboratory, Physics International and Bechtel. He then spent twenty-eight years at Lockheed Martin Space Systems, contributing to programmes including the Hubble Space Telescope and the Space-Based Infrared System. He died on 10 January 2026 at the age of 81.\n\nThat combination, deep fusion plasma physics plus long service inside a prime contractor's space division, is exactly the profile AAWSAP needed for a propulsion deliverable that had to be credible to a defence-warning audience rather than to a physics journal. Three of the 38 DIRDs went to Lockheed Martin staff, Teofilo on aneutronic fusion, S. Macheret on MHD air-breathing propulsion and J. Golightly on ultracapacitors, which makes Lockheed Martin the single most heavily represented corporate institution on the DIRD author list.\n\nTeofilo's DIRD is not a physics monograph. It runs from confinement schemes through Hall thrusters to a roadmap figure, surveys the funding levels of privately backed fusion start-ups, and closes by arguing that the physicists who pioneered the reactor technology must now work alongside the space systems companies. It reads as an industrial technology-transition assessment, which is what a Lockheed Martin space-systems physicist would be expected to produce. He is also recorded as a co-author of \"Review of Experimental Concepts for Studying the Quantum Vacuum Field\", placing him adjacent to the EarthTech vacuum-energy literature.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Vincent L. Teofilo",
+"sources": [
+{
+"date": null,
+"name": "https://irp.fas.org/dia/aatip-list.pdf",
+"url": "https://irp.fas.org/dia/aatip-list.pdf"
+},
+{
+"date": null,
+"name": "https://www.legacy.com/us/obituaries/name/vincent-teofilo-obituary?id=60785077",
+"url": "https://www.legacy.com/us/obituaries/name/vincent-teofilo-obituary?id=60785077"
+},
+{
+"date": null,
+"name": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html",
+"url": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html"
+},
+{
+"date": null,
+"name": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_37-DIRD_Aneutronic_Fusion_Propulsion_II.pdf",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_37-DIRD_Aneutronic_Fusion_Propulsion_II.pdf"
+}
+],
+"status": "active",
+"sub": "Physicist; 28 years at Lockheed Martin Space Systems; DIRD author on aneutronic fusion propulsion. 1944-2026",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 800 of 1027, score 18). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A0/D0.",
+"timeline": [],
+"unexplainedResidual": null,
+"unverified": []
+}

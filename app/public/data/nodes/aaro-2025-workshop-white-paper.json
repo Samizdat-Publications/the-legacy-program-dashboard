@@ -1,0 +1,97 @@
+{
+"A": 1,
+"C": 0,
+"D": 2,
+"band": null,
+"claims": [
+{
+"source": "https://disclosurearchives.com/aaro-releases",
+"text": "The August 2025 AARO data-standardisation workshop produced a white paper published in February 2026 recommending standardised metadata templates, AI with human oversight, and open narrative reporting.",
+"tier": 2
+},
+{
+"source": "https://www.theblackvault.com/documentarchive/the-black-vault-launches-searchable-ufo-files-release-archive/",
+"text": "The PURSUE releases beginning 8 May 2026 implement none of the workshop's three recommendations, which is evidence that the release programme was not designed on AARO's technical advice. Reasoning: the releases carry no metadata schema, many PDFs were password-protected against OCR, and no narrative context accompanies the files.",
+"tier": 3
+}
+],
+"cls": "document",
+"cluster": "research",
+"connections": [
+{
+"claimTier": 3,
+"cls": "program",
+"dateEnd": null,
+"dateStart": "2026-02",
+"direction": "out",
+"edgeLabel": "recommendations the release programme did not adopt",
+"id": "pursue-releases",
+"l0": true,
+"label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters",
+"note": "The February 2026 white paper recommended standardised metadata templates, AI with human oversight and open narrative reporting; the releases from May 2026 carried none of the three.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Disclosure Archives, AARO release chronology",
+"url": "https://disclosurearchives.com/aaro-releases"
+},
+{
+"date": "2026-05-11",
+"name": "The Black Vault searchable PURSUE archive",
+"url": "https://www.theblackvault.com/documentarchive/the-black-vault-launches-searchable-ufo-files-release-archive/"
+}
+],
+"tier": "A",
+"type": "research"
+}
+],
+"coords": null,
+"dateEnd": "2026-02",
+"dateStart": "2026-02",
+"deg": 1,
+"denials": [],
+"desc": "The published output of AARO's unannounced August 2025 data-standardisation workshop, issued in February 2026 - six months after the event and three months before the first PURSUE tranche. Its recommendations, as indexed in the Disclosure Archives chronology, are standardised metadata templates, the application of artificial intelligence with human oversight, and open narrative reporting. Each of those three is a direct answer to a defect the PURSUE releases would exhibit weeks later: PURSUE published without metadata templates, without machine-readable text (many PDFs were password-protected against OCR), and without narrative context. AARO's own convened expert body told the government in February 2026 what to do, and the release programme that started in May 2026 did none of it. That is the sharpest available demonstration that PURSUE was not run by AARO or on AARO's technical advice.",
+"domains": [
+"w2-2025-2026"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "aaro-2025-workshop-white-paper",
+"l0": false,
+"label": "AARO 2025 UAP workshop white paper (February 2026)",
+"locLabel": null,
+"members": null,
+"short": "AARO 2025 UAP workshop white paper (February 2026)",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Disclosure Archives, AARO release chronology",
+"url": "https://disclosurearchives.com/aaro-releases"
+},
+{
+"date": "2026-05-11",
+"name": "The Black Vault searchable archive announcement",
+"url": "https://www.theblackvault.com/documentarchive/the-black-vault-launches-searchable-ufo-files-release-archive/"
+}
+],
+"sub": "Product of the August 2025 Associated Universities workshop",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 969 of 1027, score 11). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D2.",
+"timeline": [
+{
+"date": "2026-02",
+"id": "tl-white-paper",
+"label": "AARO's workshop white paper recommends metadata standards",
+"precision": "month",
+"strand": "program",
+"text": "Standardised metadata templates, AI with human oversight and open narrative reporting - published three months before a release programme that adopted none of them.",
+"tier": "2"
+}
+]
+}

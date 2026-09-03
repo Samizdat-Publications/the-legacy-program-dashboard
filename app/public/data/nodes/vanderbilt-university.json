@@ -1,0 +1,139 @@
+{
+"A": 0,
+"C": 0,
+"D": 0,
+"band": null,
+"claims": [
+{
+"source": "Nature Portfolio record for s41598-025-21620-3",
+"text": "The October 2025 Scientific Reports paper on POSS-I transients lists Stephen Bruehl of Vanderbilt University Medical Center as an author, with Beatriz Villarroel of Nordita/KTH/Stockholm University; DOI 10.1038/s41598-025-21620-3, published 20 October 2025.",
+"tier": 1
+},
+{
+"source": "Scientific Reports, abstract",
+"text": "The paper reports transients were about 45% more likely on dates within +/- 1 day of nuclear testing, and an 8.5% increase in transient observations for each additional UAP report on a given date.",
+"tier": 1
+},
+{
+"source": "Inference",
+"text": "Publication of this analysis in a Nature Portfolio journal under a Vanderbilt medical affiliation marks a change in what the mainstream literature will accept, and it is the kind of result that cannot be retracted by an agency decision. Reasoning: from the venue and the institutional affiliation on the paper.",
+"tier": 3
+},
+{
+"source": "Board bookkeeping",
+"text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
+"tier": 3
+}
+],
+"cls": "institution",
+"cluster": "research",
+"connections": [
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "AATIP's 2017 disclosure pulled a Vanderbilt lab into UAP research",
+"id": "aatip",
+"l0": true,
+"label": "Advanced Aerospace Threat Identification Program (AATIP / AAITP)",
+"note": "Bruehl, a professor of Anesthesiology at Vanderbilt whose primary field is pain research, told his own institution that the December 2017 New York Times report revealing AATIP is what restarted his interest: 'My interest, honestly, has gone up and gone down over the years, and prior to 2017, I had kind of gotten bored with it and didn't really pay much attention to it. But the report in The New York Times got me thinking again.' What followed was a methodological judgement rather than a belief: 'That's when I realized that nobody's really studying this scientifically.'",
+"sources": [
+{
+"date": "2026-05-07",
+"name": "Vanderbilt Health News, 'The truth is out there, and Stephen Bruehl is bringing the scientific method to finding it', 7 May 2026",
+"url": "https://news.vumc.org/2026/05/07/the-truth-is-out-there-and-stephen-bruehl-is-bringing-the-scientific-method-to-finding-it/"
+},
+{
+"date": null,
+"name": "Vanderbilt Health News, May 7, 2026 -- https://news.vumc.org/2026/05/07/the-truth-is-out-there-and-stephen-bruehl-is-bringing-the-scientific-method-to-finding-it/",
+"url": ""
+},
+{
+"date": null,
+"name": "Bruehl and Villarroel, 'Transients in the Palomar Observatory Sky Survey may be Associated with Nuclear Testing and Reports of Unidentified Anomalous Phenomena,' Scientific Reports, October 20, 2025 -- https://www.nature.com/articles/s41598-025-21620-3",
+"url": ""
+}
+],
+"tier": "A",
+"type": "research"
+},
+{
+"claimTier": 2,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "Vanderbilt UAP statistician invited to a Pentagon-sponsored expert meeting",
+"id": "dod",
+"l0": true,
+"label": "United States Department of Defense (secondary designation: Department of War)",
+"note": "Vanderbilt University Medical Center reports that Stephen Bruehl, PhD, professor of Anesthesiology, 'was invited to attend a Pentagon-sponsored meeting for discussions with UAP experts from the government and academia' in August 2025, as his cluster analysis of 216 well-documented UAP cases (1947-2016) neared publication in World Futures. The sponsoring office is not named in the source.",
+"sources": [
+{
+"date": "2025-10-20",
+"name": "Bruehl S. & Villarroel B., 'Transients in the Palomar Observatory Sky Survey (POSS-I) may be associated with nuclear testing and reports of unidentified anomalous phenomena', Scientific Reports (Nature Portfolio)",
+"url": "https://doi.org/10.1038/s41598-025-21620-3"
+},
+{
+"date": "2025-10-20",
+"name": "Same paper, publisher record with author affiliations",
+"url": "https://www.nature.com/articles/s41598-025-21620-3"
+},
+{
+"date": null,
+"name": "Paul Govern, 'The truth is out there, and Stephen Bruehl is bringing the scientific method to finding it,' Vanderbilt Health News (VUMC), May 7, 2026 -- https://news.vumc.org/2026/05/07/the-truth-is-out-there-and-stephen-bruehl-is-bringing-the-scientific-method-to-finding-it/",
+"url": ""
+},
+{
+"date": null,
+"name": "Stephen Bruehl, cluster-analysis study of 216 UAP cases, World Futures, published online October 1, 2025 (title not given in the VUMC source) -- https://www.tandfonline.com/doi/full/10.1080/02604027.2025.2561724",
+"url": ""
+}
+],
+"tier": "A",
+"type": "research"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": null,
+"deg": 2,
+"denials": [],
+"desc": "Vanderbilt University and Vanderbilt University Medical Center in Nashville, Tennessee are on this board because of a single line of published work: Stephen Bruehl, professor in the Department of Anesthesiology at VUMC, is the lead author of the October 2025 Scientific Reports paper 'Transients in the Palomar Observatory Sky Survey (POSS-I) may be associated with nuclear testing and reports of unidentified anomalous phenomena', written with Beatriz Villarroel of Nordita. The paper reports that star-like transients on photographic plates from 1949-1957 were about 45 per cent more likely on dates within a day of nuclear testing, and that each additional UAP report on a given date corresponded to an 8.5 per cent increase in transient observations. Bruehl also authored the SCU cluster analysis of features in 216 selected UAP reports. What matters here is the venue and the affiliation, not only the result: a Nature Portfolio journal accepted a statistical association between nuclear testing, UAP reports and an archival astronomical dataset, submitted under a major American medical school's name. That is the phenomenon entering the ordinary peer-reviewed literature by a route no classification authority controls, and Vanderbilt is the institution whose name is on it.",
+"domains": [
+"_rs-stubs-known",
+"_stubs"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "nd",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "vanderbilt-university",
+"l0": false,
+"label": "Vanderbilt University",
+"locLabel": null,
+"members": null,
+"short": "Vanderbilt University",
+"sources": [
+{
+"date": "2025-10-20",
+"name": "Bruehl S. & Villarroel B., 'Transients in the Palomar Observatory Sky Survey (POSS-I) may be associated with nuclear testing and reports of unidentified anomalous phenomena', Scientific Reports (Nature Portfolio)",
+"url": "https://doi.org/10.1038/s41598-025-21620-3"
+},
+{
+"date": "2025-10-20",
+"name": "Same paper, publisher record with author affiliations",
+"url": "https://www.nature.com/articles/s41598-025-21620-3"
+}
+],
+"sub": "Academic",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 986 of 1027, score 10). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D0.",
+"timeline": []
+}

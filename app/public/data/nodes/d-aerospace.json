@@ -1,0 +1,166 @@
+{
+"A": 3,
+"C": 2,
+"D": 1,
+"band": null,
+"claims": [
+{
+"source": "Ben R. Rich and Leo Janos, 'Skunk Works: A Personal Memoir of My Years at Lockheed'",
+"text": "Lockheed's Advanced Development Projects designed and flew the U-2, A-12/SR-71 and F-117 under security regimes in which the aircraft's existence was officially denied while operational.",
+"tier": 1
+},
+{
+"source": "Haines, Studies in Intelligence (1997)",
+"text": "CIA's own historical account confirms that U-2 and OXCART overflights were the source of a majority of UFO reports in the late 1950s and 1960s, and that false explanations were issued to protect them.",
+"tier": 1
+},
+{
+"source": "Christopher Sharp, Liberation Times, 11 March 2023",
+"text": "Lockheed Martin was publicly challenged in March 2023 over allegations concerning UFO legacy programmes, in named-source reporting.",
+"tier": 2
+}
+],
+"cls": "domain",
+"cluster": "contractor",
+"connections": [
+{
+"claimTier": 2,
+"cls": "domain",
+"dateEnd": null,
+"dateStart": "1943-06-01",
+"direction": "out",
+"edgeLabel": "Advanced projects shops are the industrial home",
+"id": "d-contractor",
+"l0": false,
+"label": "Prime Contractor Custody",
+"note": "The organisations with facility clearances, SAP infrastructure and IRAD accounts are the only plausible industrial venue for an exploitation programme.",
+"sources": [
+{
+"date": "2004-03-03",
+"name": "GAO-04-332, Industrial Security",
+"url": "https://www.govinfo.gov/content/pkg/GAOREPORTS-GAO-04-332/html/GAOREPORTS-GAO-04-332.htm"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "domain",
+"dateEnd": "1990-12-31",
+"dateStart": "1955-01-01",
+"direction": "out",
+"edgeLabel": "Black aircraft generated real cover stories",
+"id": "d-coverup",
+"l0": false,
+"label": "The Cover-Up",
+"note": "CIA's own historian states that U-2 and OXCART flights accounted for over half of late-1950s and 1960s reports and that false explanations were issued to protect them.",
+"sources": [
+{
+"date": "1997-01-01",
+"name": "Haines, 'CIA's Role in the Study of UFOs, 1947-1990', Studies in Intelligence",
+"url": "https://www.cia.gov/resources/csi/studies-in-intelligence/studies-in-intelligence-1997/cias-role-in-the-study-of-ufos-1947-1990/"
+}
+],
+"tier": "A",
+"type": "denial"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "subject domain: crew-station design for breakthrough flight regimes",
+"id": "dird-cockpits-in-the-era-of-breakthrough",
+"l0": false,
+"label": "Cockpits in the Era of Breakthrough Flight",
+"note": "The paper asks what a cockpit must look like once a vehicle has inertial control, a hover-to-superluminal speed range and no separation between near-ground, orbital and interstellar operating regimes, including the loss of the pilot's own inertia and visual motion cues. It is the only DIRD that reasons from observed flight behaviour back to onboard design constraints rather than to physics.",
+"sources": [
+{
+"date": "2026-08-22",
+"name": "Released DIRD, 'Cockpits in the Era of Breakthrough Flight' — FOIA copy, cover page read 22 August 2026",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_28-DIRD_Cockpits_in_the_Era_of_Breakthrough_Flight.pdf"
+},
+{
+"date": "2026-08-22",
+"name": "DIA FOIA Electronic Reading Room entry for this reference document",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237653/"
+},
+{
+"date": null,
+"name": "http://www.jbis.org.uk/paper.php?p=2013.66.278",
+"url": "http://www.jbis.org.uk/paper.php?p=2013.66.278"
+}
+],
+"tier": "B",
+"type": "research"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "1943-06-01",
+"deg": 3,
+"denials": [
+{
+"by": {
+"id": "d-aerospace",
+"label": "Aerospace Engineering & Advanced Projects"
+},
+"claimTier": 1,
+"denialKind": "association",
+"label": "Black aircraft generated real cover stories",
+"note": "CIA's own historian states that U-2 and OXCART flights accounted for over half of late-1950s and 1960s reports and that false explanations were issued to protect them.",
+"of": {
+"id": "d-coverup",
+"label": "The Cover-Up"
+},
+"sources": [
+{
+"date": "1997-01-01",
+"name": "Haines, 'CIA's Role in the Study of UFOs, 1947-1990', Studies in Intelligence",
+"url": "https://www.cia.gov/resources/csi/studies-in-intelligence/studies-in-intelligence-1997/cias-role-in-the-study-of-ufos-1947-1990/"
+}
+]
+}
+],
+"desc": "Advanced projects organisations are the industrial layer at which secrecy and engineering are the same activity. Lockheed's Skunk Works is the documented archetype: a walled-off division with its own security, its own contracting relationship, and a demonstrated ability to design, build and fly aircraft - U-2, A-12, F-117 - that the government publicly denied existed while they were flying. Ben Rich's own memoir describes that regime from the inside. The reason this domain matters to the board is that the same organisations are the only plausible industrial home for an exploitation programme: they hold the facility clearances, the special access programme infrastructure, the machinists and metallurgists, and the independent research and development accounts through which company money can be spent without a government line item. The dual-use route is therefore not a route at all - the capability is identical, and only the input differs. Northrop Grumman, Lockheed Martin, Raytheon and Battelle Memorial Institute recur across witness accounts precisely because they are the entities that could do it. Scoring high on this domain means an entity is one of those organisations or worked at that level inside one.",
+"domains": [
+"w2-taxonomy"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "d-aerospace",
+"l0": false,
+"label": "Aerospace Engineering & Advanced Projects",
+"locLabel": null,
+"members": null,
+"short": "Aerospace Engineering & Advanced Projects",
+"sources": [
+{
+"date": "1994-01-01",
+"name": "Ben R. Rich and Leo Janos, 'Skunk Works: A Personal Memoir of My Years at Lockheed' (Internet Archive)",
+"url": "https://archive.org/details/skunkworks00benr"
+},
+{
+"date": "1997-01-01",
+"name": "Gerald K. Haines, 'CIA's Role in the Study of UFOs, 1947-1990', Studies in Intelligence",
+"url": "https://www.cia.gov/resources/csi/studies-in-intelligence/studies-in-intelligence-1997/cias-role-in-the-study-of-ufos-1947-1990/"
+},
+{
+"date": "2023-03-11",
+"name": "Christopher Sharp, 'Lockheed Martin Challenged On UFO Legacy Programs', Liberation Times",
+"url": "https://www.liberationtimes.com/home/lockheed-martin-challenged-on-ufo-legacy-programs-as-politicians-talk-hearings"
+}
+],
+"sub": "Industrial domain - the advanced projects shops where black aircraft and their cover stories are built",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 371 of 1027, score 34). 3 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D1.",
+"timeline": []
+}

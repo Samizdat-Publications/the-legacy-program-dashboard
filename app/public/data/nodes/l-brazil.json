@@ -1,0 +1,194 @@
+{
+"A": 1,
+"C": 2,
+"D": 3,
+"band": null,
+"claims": [
+{
+"source": "Board bookkeeping",
+"text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
+"tier": 3
+}
+],
+"cls": "location",
+"cluster": "other",
+"connections": [
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": "1986-05-19",
+"dateStart": "1986-05-19",
+"direction": "out",
+"edgeLabel": "The 1986 engagement ranged across four Brazilian states",
+"id": "ev-noite-ovnis-1986",
+"l0": true,
+"label": "Noite Oficial dos OVNIs - the Brazilian 'Night of the UFOs', 19 May 1986",
+"note": "São Paulo, Rio de Janeiro, Minas Gerais and Goiás. A national-scale event, which is why it reads as a state posture rather than a local incident. [CORRECTED 14 Aug 2026: RQS 193/2022 is a request for a COMMEMORATIVE SPECIAL SESSION under Art. 199 RISF, approved 16 Mar 2022, held 24 Jun 2022 - not a records-seeking or compelling instrument. Its durable value is the content of its justificacao, which names Operacao Prato, the 1986 night, SIOANI and the archive reference BR DFANBSB ARX. These edges assert what the document NAMES, which is verifiable in its text and unaffected by its procedural nature, so the tier is unchanged. Any claim that the instrument COMPELLED disclosure would be false.]",
+"sources": [
+{
+"date": null,
+"name": "Correio Braziliense, 'A noite em que 21 óvnis invadiram o espaço aéreo brasileiro e foram perseguidos por caças da FAB' — https://www.correiobraziliense.com.br/mundo/2026/05/7421517-a-noite-em-que-21-ovnis-invadiram-o-espaco-aereo-brasileiro-e-foram-perseguidos-por-cacas-da-fab.html",
+"url": ""
+},
+{
+"date": null,
+"name": "Senado Federal (Brasil), Requerimento nº 193, de 2022 (RQS 193/2022), autoria do Senador Eduardo Girão (PODEMOS/CE) com Eliziane Gama, Alessandro Vieira, Izalci Lucas, Jorge Kajuru, Marcos do Val, Paulo Rocha e Reguffe — sessão especial para os 75 anos do Dia Mundial da Ufologia — https://legis.senado.leg.br/sdleg-getter/documento?dm=9089831&ts=1647523438292&disposition=inline",
+"url": ""
+},
+{
+"date": "2026-08-23",
+"name": "Senado Federal, Dados Abertos — official record of RQS 193/2022 (Código 152222): ementa 'Sessão especial destinada a comemorar os 75 anos do Dia Mundial da Ufologia', 16 March 2022, Sen. Eduardo Girão and seven co-signers",
+"url": "https://legis.senado.leg.br/dadosabertos/materia/pesquisa/lista?sigla=RQS&numero=193&ano=2022"
+},
+{
+"date": "1986-06-02",
+"name": "Relatório de Ocorrências (Arquivo Nacional PDF)",
+"url": "http://imagem.sian.an.gov.br/acervo/derivadas/BR_DFANBSB_ARX/0/0/0249/BR_DFANBSB_ARX_0_0_0249_d0001de0001.pdf"
+}
+],
+"tier": "A",
+"type": "geographic"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "1941",
+"direction": "out",
+"edgeLabel": "The Força Aérea Brasileira is the air arm of the Brazilian state",
+"id": "fab",
+"l0": true,
+"label": "Força Aérea Brasileira / Ministério da Aeronáutica",
+"note": "Basic containment edge; the FAB is the institution that makes Brazil the board's counter-example. [CORRECTED 14 Aug 2026: RQS 193/2022 is a request for a COMMEMORATIVE SPECIAL SESSION under Art. 199 RISF, approved 16 Mar 2022, held 24 Jun 2022 - not a records-seeking or compelling instrument. Its durable value is the content of its justificacao, which names Operacao Prato, the 1986 night, SIOANI and the archive reference BR DFANBSB ARX. These edges assert what the document NAMES, which is verifiable in its text and unaffected by its procedural nature, so the tier is unchanged. Any claim that the instrument COMPELLED disclosure would be false.]",
+"sources": [
+{
+"date": null,
+"name": "Senado Federal (Brasil), Requerimento nº 193, de 2022 (RQS 193/2022), autoria do Senador Eduardo Girão (PODEMOS/CE) com Eliziane Gama, Alessandro Vieira, Izalci Lucas, Jorge Kajuru, Marcos do Val, Paulo Rocha e Reguffe — sessão especial para os 75 anos do Dia Mundial da Ufologia — https://legis.senado.leg.br/sdleg-getter/documento?dm=9089831&ts=1647523438292&disposition=inline",
+"url": ""
+},
+{
+"date": "2026-08-23",
+"name": "Senado Federal, Dados Abertos — official record of RQS 193/2022 (Código 152222): ementa 'Sessão especial destinada a comemorar os 75 anos do Dia Mundial da Ufologia', 16 March 2022, Sen. Eduardo Girão and seven co-signers",
+"url": "https://legis.senado.leg.br/dadosabertos/materia/pesquisa/lista?sigla=RQS&numero=193&ano=2022"
+},
+{
+"date": "1986-06-02",
+"name": "Relatório de Ocorrências (Arquivo Nacional PDF)",
+"url": "http://imagem.sian.an.gov.br/acervo/derivadas/BR_DFANBSB_ARX/0/0/0249/BR_DFANBSB_ARX_0_0_0249_d0001de0001.pdf"
+}
+],
+"tier": "A",
+"type": "geographic"
+},
+{
+"claimTier": 1,
+"cls": "location",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "Brasília is the federal capital of Brazil",
+"id": "l-brasilia",
+"l0": false,
+"label": "Brasilia, Federal District, Brazil",
+"note": "Structural containment edge. Both nodes stood at degree 0. [CORRECTED 14 Aug 2026: RQS 193/2022 is a request for a COMMEMORATIVE SPECIAL SESSION under Art. 199 RISF, approved 16 Mar 2022, held 24 Jun 2022 - not a records-seeking or compelling instrument. Its durable value is the content of its justificacao, which names Operacao Prato, the 1986 night, SIOANI and the archive reference BR DFANBSB ARX. These edges assert what the document NAMES, which is verifiable in its text and unaffected by its procedural nature, so the tier is unchanged. Any claim that the instrument COMPELLED disclosure would be false.]",
+"sources": [
+{
+"date": null,
+"name": "Senado Federal (Brasil), Requerimento nº 193, de 2022 (RQS 193/2022), autoria do Senador Eduardo Girão (PODEMOS/CE) com Eliziane Gama, Alessandro Vieira, Izalci Lucas, Jorge Kajuru, Marcos do Val, Paulo Rocha e Reguffe — sessão especial para os 75 anos do Dia Mundial da Ufologia — https://legis.senado.leg.br/sdleg-getter/documento?dm=9089831&ts=1647523438292&disposition=inline",
+"url": ""
+},
+{
+"date": "2026-08-23",
+"name": "Senado Federal, Dados Abertos — official record of RQS 193/2022 (Código 152222): ementa 'Sessão especial destinada a comemorar os 75 anos do Dia Mundial da Ufologia', 16 March 2022, Sen. Eduardo Girão and seven co-signers",
+"url": "https://legis.senado.leg.br/dadosabertos/materia/pesquisa/lista?sigla=RQS&numero=193&ano=2022"
+},
+{
+"date": "1986-06-02",
+"name": "Relatório de Ocorrências (Arquivo Nacional PDF)",
+"url": "http://imagem.sian.an.gov.br/acervo/derivadas/BR_DFANBSB_ARX/0/0/0249/BR_DFANBSB_ARX_0_0_0249_d0001de0001.pdf"
+},
+{
+"date": "2026-08-12",
+"name": "Wikipedia - Brasilia",
+"url": "https://en.wikipedia.org/wiki/Bras%C3%ADlia"
+}
+],
+"tier": "C",
+"type": "geographic"
+},
+{
+"claimTier": 2,
+"cls": "program",
+"dateEnd": "1978",
+"dateStart": "1977-10-20",
+"direction": "out",
+"edgeLabel": "Operação Prato was run on Colares, Pará, in northern Brazil",
+"id": "operacao-prato",
+"l0": true,
+"label": "Operação Prato (Operation Saucer)",
+"note": "Pratt's file: intelligence agents 'from the Air Force base in Belém in northern Brazil interviewed hundreds of witnesses in Colares and about thirty other villages north of Belém'.",
+"sources": [
+{
+"date": null,
+"name": "Bob Pratt, 'Operação Prato', MUFON/Pratt document set hosted by The Black Vault — https://documents.theblackvault.com/documents/MUFON/Pratt/prato.pdf",
+"url": ""
+},
+{
+"date": "2026-01-01",
+"name": "Operação Prato - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Prato"
+}
+],
+"tier": "A",
+"type": "geographic"
+}
+],
+"coords": [
+-14.235,
+-51.9253
+],
+"dateEnd": null,
+"dateStart": null,
+"deg": 4,
+"denials": [],
+"desc": "Brazil transferred substantial Air Force holdings on unidentified aerial phenomena into the Arquivo Nacional, making it one of very few states whose military UFO records sit in a citizen-accessible public archive rather than behind a classification review. Its documented cases are unusually strong: the 19 May 1986 incident, in which Brazilian Air Force fighters were scrambled against multiple radar-tracked objects and the Air Minister subsequently briefed the press, and the January 1996 Varginha episode, which in July 2026 became the subject of a formal US congressional request to the FBI and CIA. Brazil is the board's clearest example of records law working.",
+"domains": [
+"_stubs",
+"w2-taxonomy"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "nd",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "l-brazil",
+"l0": false,
+"label": "Brazil",
+"locLabel": "Brazil",
+"members": null,
+"short": "Brazil",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Wikipedia - Brazil",
+"url": "https://en.wikipedia.org/wiki/Brazil"
+},
+{
+"date": "2026-08-12",
+"name": "Arquivo Nacional (Brazil) - Sistema de Informacoes do Arquivo Nacional",
+"url": "https://sian.an.gov.br/"
+},
+{
+"date": "2026-01-01",
+"name": "Wikipedia - 1986 Brazilian UFO incident",
+"url": "https://en.wikipedia.org/wiki/1986_Brazilian_UFO_incident"
+}
+],
+"sub": "Sovereign state; military UFO files transferred to the national archive",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 716 of 1027, score 22). 4 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A1/D3.",
+"timeline": []
+}

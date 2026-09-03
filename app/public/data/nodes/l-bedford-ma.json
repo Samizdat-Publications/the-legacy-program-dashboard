@@ -1,0 +1,87 @@
+{
+"A": 1,
+"C": 1,
+"D": 0,
+"band": null,
+"claims": [
+{
+"source": "MITRE corporate materials and news releases",
+"text": "MITRE maintains dual headquarters in Bedford, Massachusetts and McLean, Virginia.",
+"tier": 1
+}
+],
+"cls": "location",
+"cluster": "ffrdc",
+"connections": [
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "MITRE founding site and original headquarters",
+"id": "mitre-corporation",
+"l0": true,
+"label": "The MITRE Corporation",
+"note": "Bedford, Massachusetts is the other of MITRE's two principal locations, at 202 Burlington Road. No MITRE-administered FFRDC is registered at Bedford on the NSF master list, so unlike McLean the Bedford tie is corporate rather than FFRDC-contractual.",
+"sources": [
+{
+"date": "2026-08-25",
+"name": "MITRE, Locations (202 Burlington Road, Bedford, MA 01730-1420)",
+"url": "https://www.mitre.org/locations"
+},
+{
+"date": "2026-08-25",
+"name": "NSF NCSES Master Government List of FFRDCs",
+"url": "https://ncses.nsf.gov/resource/master-gov-lists-ffrdc"
+},
+{
+"date": null,
+"name": "https://en.wikipedia.org/wiki/Mitre_Corporation",
+"url": "https://en.wikipedia.org/wiki/Mitre_Corporation"
+},
+{
+"date": null,
+"name": "https://clui.org/ludb/site/mitre-corporation-bedford-headquarters",
+"url": "https://clui.org/ludb/site/mitre-corporation-bedford-headquarters"
+}
+],
+"tier": "A",
+"type": "geographic"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "1958",
+"deg": 1,
+"denials": [],
+"desc": "MITRE's original home and one of its two headquarters, adjacent to Hanscom Air Force Base and a short distance from MIT Lincoln Laboratory in Lexington. The corporation was created here in July 1958 when Robert Everett and 485 Lincoln Laboratory staff moved across to continue SAGE systems engineering under Air Force sponsorship rather than university administration. The Bedford campus is the physical expression of the founding transaction that this domain turns on: an operational engineering authority being lifted out of a university and placed inside a permanent nonprofit answerable to a military customer.",
+"domains": [
+"ffrdcs"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "l-bedford-ma",
+"l0": false,
+"label": "Bedford, Massachusetts",
+"locLabel": null,
+"members": null,
+"short": "Bedford, Massachusetts",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "MITRE - SAGE timeline",
+"url": "https://sage.mitre.org/timeline/"
+}
+],
+"sub": "MITRE's Massachusetts headquarters, adjacent to Hanscom AFB",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 963 of 1027, score 11). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D0.",
+"timeline": []
+}

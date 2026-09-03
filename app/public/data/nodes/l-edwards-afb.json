@@ -1,0 +1,95 @@
+{
+"A": 2,
+"C": 1,
+"D": 0,
+"band": null,
+"claims": [
+{
+"source": "Wikipedia, Edwards Air Force Base — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"text": "Edwards AFB covers 470 square miles around Rogers Dry Lake; it was renamed from Muroc in December 1949 for Capt. Glen Edwards; it hosts the Air Force Test Center, the USAF Test Pilot School and NASA Armstrong Flight Research Center.",
+"tier": 2
+},
+{
+"source": "CIA U-2/OXCART history, released 25 June 2013; summarised in Wikipedia, Area 51 — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"text": "Groom Lake was selected in 1955 because U-2 flight test and pilot training could not be conducted at Edwards Air Force Base or Lockheed's Palmdale facility given the extreme secrecy of the project.",
+"tier": 2
+},
+{
+"source": "Inference; no primary source located",
+"text": "The alleged February 1954 Eisenhower meeting at Muroc/Edwards has no primary record and is carried as folklore. Reasoning: no contemporaneous document, log or credible firsthand attribution has ever been produced.",
+"tier": 3
+}
+],
+"cls": "location",
+"cluster": "legacy",
+"connections": [
+{
+"claimTier": 2,
+"cls": "location",
+"dateEnd": null,
+"dateStart": "1955",
+"direction": "out",
+"edgeLabel": "Edwards defines the acknowledged-testing boundary that Groom Lake was built to escape",
+"id": "l-groom-lake",
+"l0": false,
+"label": "Groom Lake, Nevada",
+"note": "Groom Lake exists because the U-2 could not be tested at Edwards. The pair therefore mark the boundary between the acknowledged and unacknowledged US flight test enterprise.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Wikipedia - Area 51",
+"url": "https://en.wikipedia.org/wiki/Area_51"
+},
+{
+"date": "2026-08-12",
+"name": "Wikipedia - Edwards Air Force Base",
+"url": "https://en.wikipedia.org/wiki/Edwards_Air_Force_Base"
+}
+],
+"tier": "B",
+"type": "institutional"
+}
+],
+"coords": [
+34.9054,
+-117.8837
+],
+"dateEnd": null,
+"dateStart": "1933",
+"deg": 1,
+"denials": [],
+"desc": "Edwards Air Force Base covers 470 square miles of the western Mojave in Kern County, California, built around Rogers Dry Lake, an endorheic salt pan whose hard surface functions as a natural extension of the runways. It began in 1933 as the Muroc Bombing and Gunnery Range and was renamed in December 1949 for Capt. Glen Edwards, killed in the crash of the Northrop YB-49 flying wing. It hosts the Air Force Test Center, the U.S. Air Force Test Pilot School and NASA's Armstrong Flight Research Center. Edwards is the acknowledged, white-world twin of Groom Lake: it is where American aircraft are flight tested when the government intends to admit they exist. That relationship is itself evidentiary. The CIA's own explanation for selecting Groom Lake in 1955 was explicit - flight test and pilot training for the U-2 could not be conducted at Edwards or at Lockheed's Palmdale facility given the extreme secrecy of the project. Edwards therefore defines the boundary condition: everything the United States is willing to acknowledge flies here, and the existence of a parallel unacknowledged test enterprise is established by the documented decision to move work away from this base. Edwards is also attached to one of the oldest and least substantiated claims in the field, the alleged February 1954 Muroc meeting between President Eisenhower and non-human occupants; the board records that claim as folklore with no primary record, and notes that its persistence has been useful to the concealment insofar as it makes the base's genuinely documented role harder to discuss seriously.",
+"domains": [
+"w2-places-events"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "l-edwards-afb",
+"l0": false,
+"label": "Edwards Air Force Base, California",
+"locLabel": "Edwards AFB, California, USA",
+"members": null,
+"short": "Edwards Air Force Base, California",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Wikipedia - Edwards Air Force Base",
+"url": "https://en.wikipedia.org/wiki/Edwards_Air_Force_Base"
+},
+{
+"date": "2026-08-12",
+"name": "Wikipedia - Area 51",
+"url": "https://en.wikipedia.org/wiki/Area_51"
+}
+],
+"sub": "470 sq mi USAF flight test centre on Rogers Dry Lake, Kern County; AFTC, USAF Test Pilot School, NASA Armstrong",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 871 of 1027, score 16). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D0.",
+"timeline": []
+}

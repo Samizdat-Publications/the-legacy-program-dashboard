@@ -1,0 +1,113 @@
+{
+"A": 0,
+"C": 0,
+"D": 2,
+"band": null,
+"claims": [
+{
+"source": "Keith Kloor, The Intercept, 1 June 2019; Wikipedia, Unidentified: Inside America's UFO Investigation",
+"text": "Premiered 31 May 2019 on History, executive produced by Tom DeLonge, portraying Elizondo as having led AATIP for eight years.",
+"tier": 2
+},
+{
+"source": "Keith Kloor, The Intercept, 1 June 2019 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"text": "The series prompted the Pentagon statement of 1 June 2019 that Elizondo had no AATIP responsibilities.",
+"tier": 2
+}
+],
+"cls": "event",
+"cluster": "media",
+"connections": [
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "2019",
+"dateStart": "2019",
+"direction": "out",
+"edgeLabel": "The series premiere prompted the 1 June 2019 Pentagon denial",
+"id": "christopher-sherwood",
+"l0": false,
+"label": "Christopher Sherwood",
+"note": "The Intercept tested the Department's position because the series presented Elizondo as having led AATIP for eight years. Media pressure produced the operative denial.",
+"sources": [
+{
+"date": "2019-06-01",
+"name": "The Intercept",
+"url": "https://theintercept.com/2019/06/01/ufo-unidentified-history-channel-luis-elizondo-pentagon/"
+}
+],
+"tier": "C",
+"type": "temporal"
+},
+{
+"claimTier": 2,
+"cls": "institution",
+"dateEnd": "2020",
+"dateStart": "2019",
+"direction": "out",
+"edgeLabel": "TTSA production, executive produced by Tom DeLonge, History Channel 2019-2020",
+"id": "ttsa",
+"l0": true,
+"label": "To The Stars Academy of Arts & Science Inc. (later To The Stars Inc.)",
+"note": "The Entertainment Division supplying distribution for the Aerospace and Science claims.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Wikipedia — Unidentified: Inside America's UFO Investigation",
+"url": "https://en.wikipedia.org/wiki/Unidentified:_Inside_America's_UFO_Investigation"
+}
+],
+"tier": "A",
+"type": "institutional"
+}
+],
+"coords": null,
+"dateEnd": "2020",
+"dateStart": "2019",
+"deg": 2,
+"denials": [],
+"desc": "A History Channel documentary series produced with TTSA and executive produced by Tom DeLonge, premiering 31 May 2019 and running two seasons. It presented Elizondo as the man who ran AATIP for eight years and followed him and Mellon as they pursued Navy witnesses and congressional contacts. Its significance is causal rather than evidentiary: the series is what prompted The Intercept to test the Department's position on Elizondo's role, which produced Christopher Sherwood's 1 June 2019 statement, which became the Department's fixed public line for the next seven years. TTSA's PR representative Kari DeLonge responded that Elizondo 'took it over in 2010 as Director' and 'ran it out of the Office for the Secretary of Defense (OSD) under the Under Secretary of Defense for Intelligence (USDI).'",
+"domains": [
+"elizondo-ttsa"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "unidentified-history-series",
+"l0": false,
+"label": "'Unidentified: Inside America's UFO Investigation' (History Channel)",
+"locLabel": null,
+"members": null,
+"short": "'Unidentified: Inside America's UFO Investigation' (History Channel)",
+"sources": [
+{
+"date": "2019-06-01",
+"name": "The Intercept — The Media Loves This UFO Expert Who Says He Worked for an Obscure Pentagon Program. Did He?",
+"url": "https://theintercept.com/2019/06/01/ufo-unidentified-history-channel-luis-elizondo-pentagon/"
+},
+{
+"date": "2026-08-12",
+"name": "Wikipedia — Unidentified: Inside America's UFO Investigation",
+"url": "https://en.wikipedia.org/wiki/Unidentified:_Inside_America's_UFO_Investigation"
+}
+],
+"sub": "Two-season documentary series, 2019-2020; TTSA production",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 988 of 1027, score 10). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D2.",
+"timeline": [
+{
+"date": "2019-05-31",
+"id": "tl-2019-05-31-unidentified",
+"label": "'Unidentified' premieres on History",
+"precision": "day",
+"strand": "program",
+"text": "The TTSA-produced series presents Elizondo as having run AATIP for eight years, prompting The Intercept to test the Department's position.",
+"tier": "B"
+}
+]
+}

@@ -1,0 +1,126 @@
+{
+"A": 3,
+"C": 1,
+"D": 0,
+"affiliations": [
+"Los Alamos Scientific Laboratory (1943-1951)",
+"Lawrence Livermore National Laboratory (co-founder 1952; Director 1958-1960)",
+"University of California Radiation Laboratory"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "1949-02-16",
+"event": "Attends the Los Alamos conference on green fireballs alongside Bradbury and Reines",
+"precision": "day"
+},
+{
+"date": "1952-09-02",
+"event": "Lawrence Livermore laboratory established with Teller as a founder",
+"precision": "day"
+}
+],
+"claims": [
+{
+"source": "Los Alamos National Laboratory, 'FOIA requests at the National Security Research Center', 18 November 2024",
+"text": "Teller attended the 16 February 1949 Los Alamos conference on green fireballs, together with Laboratory Director Norris Bradbury, Frederick Reines, and FBI, AEC and military representatives.",
+"tier": 1
+},
+{
+"source": "Inference from his documented positions; explicitly not evidenced",
+"text": "Teller's later position at the apex of the DOE weapons-laboratory complex means that if any laboratory-hosted exploitation activity existed in the 1950s-1970s he would have been positioned to know of it. Reasoning: laboratory directors hold Q clearance and programme visibility; no document establishes such knowledge.",
+"tier": 3
+}
+],
+"cls": "person",
+"cluster": "research",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": "1949",
+"dateStart": "1949",
+"direction": "out",
+"edgeLabel": "Attended the 16 February 1949 conference",
+"id": "green-fireballs-conference-1949",
+"l0": false,
+"label": "Los Alamos Green Fireballs Conference",
+"note": "Attendance confirmed by LANL alongside Norris Bradbury and Frederick Reines, with FBI, AEC and military representatives present.",
+"sources": [
+{
+"date": "2024-11-18",
+"name": "LANL National Security Research Center",
+"url": "https://www.lanl.gov/media/publications/the-vault/1124-foia-requests-at-the-national-security-research-center"
+}
+],
+"tier": "B",
+"type": "witness-chain"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "1960",
+"dateStart": "1952",
+"direction": "out",
+"edgeLabel": "Co-founder and director of the Livermore laboratory",
+"id": "llnl",
+"l0": false,
+"label": "Lawrence Livermore National Laboratory",
+"note": "The scientist present at the first US conference on anomalous objects over nuclear sites went on to found the second weapons design laboratory.",
+"sources": [
+{
+"date": "2026-05-15",
+"name": "CRS Report R44629",
+"url": "https://www.everycrsreport.com/reports/R44629.html"
+}
+],
+"tier": "B",
+"type": "institutional"
+}
+],
+"date": "1949-02-16",
+"dateEnd": null,
+"dateStart": "1949-02-16",
+"deg": 2,
+"denials": [],
+"domains": [
+"ffrdcs"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "edward-teller",
+"instId": "llnl",
+"l0": false,
+"label": "Edward Teller",
+"loc": "Los Alamos, NM",
+"locId": "l-los-alamos",
+"members": null,
+"narrative": "Teller's presence in the room at Los Alamos on 16 February 1949 is the documented fact, and Los Alamos National Laboratory itself is the source for it. That places one of the two or three most access-privileged physicists in the United States - a man who within three years would co-found the Livermore laboratory and spend half a century inside the most tightly compartmented weapons programmes the country ran - in the earliest recorded scientific conference on anomalous aerial objects over American nuclear facilities. LANL records that the conference concluded the green fireballs were ultimately dismissed as a national security threat. That conclusion did not stop the Air Force from standing up Project Twinkle ten months later to instrument them. Teller was later associated with the Livermore laboratory throughout the era in which, according to whistleblower testimony collected by AAWSAP and by David Grusch, materials exploitation work was distributed across the DOE laboratory complex and its industrial partners. No document has been produced placing Teller inside such a programme. What the record does show is that when the United States first convened scientists to discuss unexplained objects over its nuclear archipelago, it convened them inside the contractor-operated laboratory system and not inside the Air Force's public UFO project.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Edward Teller",
+"sources": [
+{
+"date": "2024-11-18",
+"name": "Los Alamos National Laboratory - FOIA requests at the National Security Research Center",
+"url": "https://www.lanl.gov/media/publications/the-vault/1124-foia-requests-at-the-national-security-research-center"
+}
+],
+"status": "dead",
+"sub": "Los Alamos physicist; co-founder and later Director of Lawrence Livermore National Laboratory; attendee of the 16 February 1949 Los Alamos green fireballs conference",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 695 of 1027, score 22). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A3/D0.",
+"timeline": [],
+"unexplainedResidual": null,
+"unverified": [
+"Any Teller involvement in materials exploitation of recovered objects is unsupported by any produced document."
+]
+}

@@ -1,0 +1,185 @@
+{
+"A": 1,
+"C": 1,
+"D": 3,
+"band": null,
+"claims": [
+{
+"source": "Comer and Burlison to Administrator Jared Isaacman, NASA, 20 April 2026, https://oversight.house.gov/wp-content/uploads/2026/04/NASA-Missing-Scientists-Letter_4.20.26.pdf ; the identical letter to Director Kash Patel, FBI, https://oversight.house.gov/wp-content/uploads/2026/04/FBI-Missing-Scientists-Letter_4.20.26.pdf",
+"text": "The Committee's own letters of 20 April 2026 say 'at least ten individuals', not eleven, and date the pattern to a year later than the board did: the letters carry the string 'began in 2023 with the death of Michael David Hicks'. Effectively identical letters went to NASA, the FBI, the Department of War and the Department of Energy over the signatures of Chairman James Comer and Subcommittee Chairman Eric Burlison, copied to Ranking Members Garcia and Frost, and set a response deadline of 27 April 2026.",
+"tier": 1
+},
+{
+"source": "Comer and Burlison to Administrator Jared Isaacman, NASA, 20 April 2026, https://oversight.house.gov/wp-content/uploads/2026/04/NASA-Missing-Scientists-Letter_4.20.26.pdf",
+"text": "The Committee does not adopt the reporting it relays. Its letters frame their own subject as 'recent unconfirmed public reporting' and footnote every factual assertion to the Daily Mail of 11 April 2026 and to New York Post pieces of 9 April, 18 March and 21 March 2026. They ask four agencies whether those reports are true. What the letters establish is that the Committee asked, and the deadline it set.",
+"tier": 1
+},
+{
+"source": "Fox News, 21 April 2026, https://www.foxnews.com/politics/missing-scientists-probe-sparked-after-ufo-general-disappeared-republican-lawmaker-reveals ; checked against the Committee letters of 20 April 2026, https://oversight.house.gov/wp-content/uploads/2026/04/NASA-Missing-Scientists-Letter_4.20.26.pdf",
+"text": "Fox News reported on 21 April 2026 that Chairman Comer and Rep. Burlison had launched a congressional probe into eleven individuals in nuclear or rocket technology who had died or vanished since 2022, requesting briefings from the FBI, the Department of War, NASA and the Department of Energy by 27 April 2026. The Committee's own letters, opened on 2 September 2026, say 'at least ten individuals' and date the pattern to 2023; the eleven and the 2022 are what Fox reported.",
+"tier": 2
+},
+{
+"source": "Comer and Burlison to Administrator Jared Isaacman, NASA, 20 April 2026, https://oversight.house.gov/wp-content/uploads/2026/04/NASA-Missing-Scientists-Letter_4.20.26.pdf",
+"text": "The letters name one of the individuals and describe the reported McCasland link in the Committee's own words: 'Another JPL alum, Monica Reza, who served as the director of the NASA Lab's Materials Processing Group, disappeared while hiking in California in June 2025 and remains missing.' They add that accounts 'have even alleged a direct link between Ms. Reza and General McCasland, characterizing them as having a \"close professional connection\" through an Air Force-funded research program in the early 2000s.' The Committee attributes both to unconfirmed public reporting.",
+"tier": 1
+},
+{
+"source": "Fox News, 21 April 2026",
+"text": "Burlison: 'How many people walk out their front door without their phone, their wallet, their keys, or anything? I don't go anywhere without my phone.'",
+"tier": 2
+},
+{
+"source": "Fox News, 21 April 2026",
+"text": "Burlison's staff had been attempting to contact Gen. McCasland regarding a separate congressional investigation before his disappearance.",
+"tier": 2
+}
+],
+"cls": "event",
+"cluster": "oversight",
+"connections": [
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "2026",
+"direction": "in",
+"edgeLabel": "Co-launched the probe; revealed the McCasland trigger",
+"id": "eric-burlison",
+"l0": false,
+"label": "Eric Burlison",
+"note": "Burlison's staff had been trying to reach McCasland about a separate congressional investigation before he vanished.",
+"sources": [
+{
+"date": "2026-04-21",
+"name": "Fox News: Missing scientists probe was sparked after 'UFO General' disappeared, Republican lawmaker reveals",
+"url": "https://www.foxnews.com/politics/missing-scientists-probe-sparked-after-ufo-general-disappeared-republican-lawmaker-reveals"
+}
+],
+"tier": "A",
+"type": "investigative"
+},
+{
+"claimTier": 2,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2026",
+"direction": "out",
+"edgeLabel": "Run by the same committee and the same member as the UAP inquiry",
+"id": "house-oversight-committee",
+"l0": true,
+"label": "U.S. House Committee on Oversight and Government Reform",
+"note": "The convergence of the two inquiries in one subcommittee chair is the structural link between this board and The Vanishing.",
+"sources": [
+{
+"date": "2026-04-21",
+"name": "Fox News: Missing scientists probe was sparked after 'UFO General' disappeared, Republican lawmaker reveals",
+"url": "https://www.foxnews.com/politics/missing-scientists-probe-sparked-after-ufo-general-disappeared-republican-lawmaker-reveals"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "2026",
+"direction": "in",
+"edgeLabel": "Co-launched the probe",
+"id": "james-comer",
+"l0": false,
+"label": "James Comer Jr.",
+"note": "Comer and Burlison opened the investigation on 21 April 2026.",
+"sources": [
+{
+"date": "2026-04-21",
+"name": "Fox News: Missing scientists probe was sparked after 'UFO General' disappeared, Republican lawmaker reveals",
+"url": "https://www.foxnews.com/politics/missing-scientists-probe-sparked-after-ufo-general-disappeared-republican-lawmaker-reveals"
+}
+],
+"tier": "C",
+"type": "investigative"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "2026",
+"direction": "in",
+"edgeLabel": "His February 2026 disappearance is the trigger for the probe",
+"id": "william-mccasland",
+"l0": false,
+"label": "William Neil McCasland",
+"note": "One of eleven people in nuclear or rocket technology who have died or vanished since 2022, per the committee.",
+"sources": [
+{
+"date": "2026-04-21",
+"name": "Fox News: Missing scientists probe was sparked after 'UFO General' disappeared, Republican lawmaker reveals",
+"url": "https://www.foxnews.com/politics/missing-scientists-probe-sparked-after-ufo-general-disappeared-republican-lawmaker-reveals"
+}
+],
+"tier": "A",
+"type": "temporal"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "2026",
+"deg": 4,
+"denials": [],
+"desc": "On 20 April 2026 Oversight Chairman James Comer and Rep. Eric Burlison, chair of the Subcommittee on Economic Growth, Energy Policy and Regulatory Affairs, wrote effectively identical letters to NASA, the FBI, the Department of War and the Department of Energy asking about deaths and disappearances among people with access to sensitive US scientific information. The letters say 'at least ten individuals' and say the pattern 'began in 2023 with the death of Michael David Hicks'; the board previously carried eleven people since 2022, which is the Fox News figure of 21 April 2026 and not the Committee's. The letters also frame their own subject as recent unconfirmed public reporting and footnote every factual assertion in them to the Daily Mail of 11 April 2026 and to New York Post pieces of 9 April, 18 March and 21 March 2026. What they establish is that the Committee asked, and the deadline it set, 27 April 2026. The trigger was the disappearance in February 2026 of retired Air Force Maj. Gen. William Neil McCasland, former commander of the Air Force Research Laboratory at Wright-Patterson, from his Albuquerque home, leaving behind his phone, glasses, hiking boots, wallet and a .38-calibre revolver. Burlison revealed that his own staff had been trying to reach McCasland about a separate congressional investigation before he disappeared; reporting on 28 April indicated the deadline passed without FBI answers. This is the point at which The Program and The Vanishing become the same investigation: the House committee running the UAP inquiry is now also running the missing-scientists inquiry, and the two were connected by the same member and the same disappearance.",
+"domains": [
+"congress-house"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "missing-scientists-probe-2026",
+"l0": false,
+"label": "House Oversight probe into deaths and disappearances of scientists, April 2026",
+"locLabel": null,
+"members": null,
+"short": "House Oversight probe into deaths and disappearances of scientists, April 2026",
+"sources": [
+{
+"date": "2026-04-20",
+"name": "Chairman James Comer and Subcommittee Chairman Eric Burlison to NASA Administrator Jared Isaacman, 20 April 2026, House Committee on Oversight and Government Reform",
+"url": "https://oversight.house.gov/wp-content/uploads/2026/04/NASA-Missing-Scientists-Letter_4.20.26.pdf"
+},
+{
+"date": "2026-04-20",
+"name": "The same letter to FBI Director Kash Patel, 20 April 2026",
+"url": "https://oversight.house.gov/wp-content/uploads/2026/04/FBI-Missing-Scientists-Letter_4.20.26.pdf"
+},
+{
+"date": "2026-04-20",
+"name": "Comer and Burlison Seek Information on Missing Nuclear and Rocket Scientists, press release carrying links to all four letters",
+"url": "https://burlison.house.gov/media/press-releases/comer-burlison-seek-information-missing-nuclear-and-rocket-scientists"
+},
+{
+"date": "2026-04-21",
+"name": "Fox News: Missing scientists probe was sparked after 'UFO General' disappeared, Republican lawmaker reveals",
+"url": "https://www.foxnews.com/politics/missing-scientists-probe-sparked-after-ufo-general-disappeared-republican-lawmaker-reveals"
+}
+],
+"sub": "Comer-Burlison investigation; triggered by Gen. McCasland",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 415 of 1027, score 32). 4 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D3.",
+"timeline": [
+{
+"date": "2026-04-21",
+"id": "ch-2026-04-21",
+"label": "The UFO General vanishes; Oversight opens a probe",
+"precision": "day",
+"strand": "coverup",
+"text": "Comer and Burlison open an investigation into eleven deaths and disappearances of people in nuclear and rocket work since 2022, triggered by the February 2026 disappearance of retired Maj. Gen. William Neil McCasland, former AFRL commander at Wright-Patterson. Burlison's staff had been trying to reach him about a separate congressional investigation.",
+"tier": "A"
+}
+]
+}

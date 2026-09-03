@@ -1,0 +1,90 @@
+{
+"A": 2,
+"C": 1,
+"D": 1,
+"band": null,
+"claims": [
+{
+"source": "USAspending.gov prime award data",
+"text": "Radiance Technologies is headquartered in Huntsville, Alabama; USAspending records approximately $2.6 billion in prime contract obligations to the firm since FY2008.",
+"tier": 1
+},
+{
+"source": "Science, June 2022",
+"text": "Science magazine reported in June 2022 that Travis S. Taylor 'was the chief scientist on the' Unidentified Aerial Phenomena Task Force.",
+"tier": 2
+},
+{
+"source": "House Oversight Task Force hearing, 9 September 2025",
+"text": "The House Oversight Task Force's 9 September 2025 hearing found that UAP-related spending flows to entities outside the reach of the Freedom of Information Act.",
+"tier": 1
+}
+],
+"cls": "location",
+"cluster": "contractor",
+"connections": [
+{
+"claimTier": 2,
+"cls": "program",
+"dateEnd": "2022",
+"dateStart": "2020",
+"direction": "out",
+"edgeLabel": "The Task Force's chief scientist was employed by a Huntsville contractor",
+"id": "uap-task-force",
+"l0": true,
+"label": "Unidentified Aerial Phenomena Task Force (UAPTF)",
+"note": "Science magazine reported in June 2022 that Travis S. Taylor, a principal research scientist at Huntsville-based Radiance Technologies, was chief scientist of the UAP Task Force.",
+"sources": [
+{
+"date": "2025-09-09",
+"name": "House Oversight - Restoring Public Trust Through UAP Transparency",
+"url": "https://oversight.house.gov/hearing/restoring-public-trust-through-uap-transparency-and-whistleblower-protection/"
+}
+],
+"tier": "A",
+"type": "institutional"
+}
+],
+"coords": [
+34.7304,
+-86.5861
+],
+"dateEnd": null,
+"dateStart": "1950",
+"deg": 1,
+"denials": [],
+"desc": "Huntsville is the American rocketry town: Redstone Arsenal received Wernher von Braun and the Operation Paperclip rocket team in 1950, became the Army Ballistic Missile Agency and then NASA's Marshall Space Flight Center, and today hosts the Missile Defense Agency, Army Aviation and Missile Command, the FBI's second-largest campus and a dense mid-tier defence engineering economy. On this board it functions as the contractor-adjacent node most likely to hold compartmented analytical work without attracting attention: Radiance Technologies, an employee-owned defence engineering firm headquartered here with roughly $2.6 billion in prime contract obligations since FY2008 across intelligence analysis, directed energy and sensors, is the employer of Travis S. Taylor, who holds doctorates in optical science and engineering (1999) and aerospace engineering (2012) from the University of Alabama in Huntsville and who Science magazine reported in June 2022 had been chief scientist of the Unidentified Aerial Phenomena Task Force. Huntsville is therefore the address where the government's UAP analytical head and a mid-tier defence contractor's payroll intersect - the exact structural arrangement that Congress found in September 2025 places UAP spending with entities outside the reach of FOIA.",
+"domains": [
+"w2-places-events"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "l-huntsville",
+"l0": false,
+"label": "Huntsville, Alabama",
+"locLabel": "Huntsville, Alabama, USA",
+"members": null,
+"short": "Huntsville, Alabama",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "USAspending.gov",
+"url": "https://www.usaspending.gov/"
+},
+{
+"date": "2025-09-09",
+"name": "House Oversight - Restoring Public Trust Through UAP Transparency",
+"url": "https://oversight.house.gov/hearing/restoring-public-trust-through-uap-transparency-and-whistleblower-protection/"
+}
+],
+"sub": "Madison County; Redstone Arsenal, Missile Defense Agency, Army Aviation and Missile Command, Radiance Technologies",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 740 of 1027, score 21). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D1.",
+"timeline": []
+}

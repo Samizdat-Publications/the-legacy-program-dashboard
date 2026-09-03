@@ -1,0 +1,441 @@
+{
+"A": 1,
+"C": 0,
+"D": 3,
+"band": "custody",
+"claims": [
+{
+"source": "Ryan Graves, written testimony, House Oversight, 26 July 2023",
+"text": "'It has been more than a decade since my squadron began witnessing advanced UAP demonstrating complex maneuvers on a regular basis.'",
+"tier": 1
+},
+{
+"source": "Ryan Graves, written testimony, House Oversight, 26 July 2023",
+"text": "Two jets 'only 100 feet apart, were forced to take evasive action' in Warning Area W-72.",
+"tier": 1
+},
+{
+"source": "Tim Gallaudet, written testimony, House Oversight, 13 November 2024",
+"text": "A January 2015 Fleet Forces Command all-commanders email titled 'URGENT SAFETY OF FLIGHT ISSUE' reported 'multiple near-midair collisions' and was deleted from all recipients' accounts the next day.",
+"tier": 2
+}
+],
+"cls": "event",
+"cluster": "witness",
+"connections": [
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2022",
+"direction": "in",
+"edgeLabel": "Created in direct response to the reporting failure the encounters exposed",
+"id": "americans-for-safe-aerospace",
+"l0": true,
+"label": "Americans for Safe Aerospace",
+"note": "Graves's testimony ties the founding to the fact that after his squadron's safety report 'there was no official acknowledgement of the incident and no further mechanism to report the sightings.'",
+"sources": [
+{
+"date": "2023-07-26",
+"name": "House Oversight - Graves written testimony (PDF)",
+"url": "https://oversight.house.gov/wp-content/uploads/2023/07/Ryan-HOC-Testimony.pdf"
+}
+],
+"tier": "B",
+"type": "behavioral"
+},
+{
+"claimTier": 2,
+"cls": "document",
+"dateEnd": "2015",
+"dateStart": "2015",
+"direction": "in",
+"edgeLabel": "Command-level reaction to the encounter series",
+"id": "gallaudet-2015-email",
+"l0": false,
+"label": "Fleet Forces Command 'URGENT SAFETY OF FLIGHT ISSUE' Email (Jan 2015, recalled)",
+"note": "The message describes exactly the problem Graves's squadron reported - repeated near-midairs with unidentified objects in working airspace - and was withdrawn within 24 hours.",
+"sources": [
+{
+"date": "2024-11-13",
+"name": "House Oversight - Gallaudet written testimony (PDF)",
+"url": "https://oversight.house.gov/wp-content/uploads/2024/11/Updated-Testimony-Gallaudet.pdf"
+},
+{
+"date": "2023-07-26",
+"name": "House Oversight - Graves written testimony (PDF)",
+"url": "https://oversight.house.gov/wp-content/uploads/2023/07/Ryan-HOC-Testimony.pdf"
+}
+],
+"tier": "B",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "2020",
+"dateStart": "2015",
+"direction": "in",
+"edgeLabel": "January 2015 ATFLIR artefact from the same operating environment",
+"id": "gimbal-video",
+"l0": false,
+"label": "GIMBAL (Navy ATFLIR video, January 2015)",
+"note": "DoD released GIMBAL on 27 April 2020 as authentic and unidentified; AARO's published case slides contain no GIMBAL assessment.",
+"sources": [
+{
+"date": "2020-04-27",
+"name": "DoD statement releasing the three Navy videos",
+"url": "https://www.war.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/"
+},
+{
+"date": "2024-11-19",
+"name": "AARO - SASC open hearing case slides (PDF)",
+"url": "https://www.aaro.mil/Portals/136/PDFs/SASC_AARO_Open_Hearing_Case_Slides_19Nov2024.pdf"
+}
+],
+"tier": "C",
+"type": "custody"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "2020",
+"dateStart": "2015",
+"direction": "in",
+"edgeLabel": "January 2015 ATFLIR artefact from the same operating environment",
+"id": "gofast-video",
+"l0": false,
+"label": "GO FAST (Navy ATFLIR video, January 2015)",
+"note": "GO FAST is the video Gallaudet says was attached to the recalled Fleet Forces Command safety message, and the one AARO later reanalysed on parallax grounds.",
+"sources": [
+{
+"date": "2020-04-27",
+"name": "DoD statement releasing the three Navy videos",
+"url": "https://www.war.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/"
+},
+{
+"date": "2024-11-13",
+"name": "House Oversight - Gallaudet written testimony (PDF)",
+"url": "https://oversight.house.gov/wp-content/uploads/2024/11/Updated-Testimony-Gallaudet.pdf"
+},
+{
+"date": "2024-11-19",
+"name": "AARO - SASC open hearing case slides (PDF)",
+"url": "https://www.aaro.mil/Portals/136/PDFs/SASC_AARO_Open_Hearing_Case_Slides_19Nov2024.pdf"
+}
+],
+"tier": "B",
+"type": "custody"
+},
+{
+"claimTier": 1,
+"cls": "location",
+"dateEnd": "2015",
+"dateStart": "2014",
+"direction": "in",
+"edgeLabel": "Site of the near-midair that anchors the safety case",
+"id": "l-w72",
+"l0": false,
+"label": "Warning Area W-72, off Virginia Beach",
+"note": "Restricted training airspace ten miles east of Virginia Beach where two F/A-18Fs 100 feet apart took evasive action around a stationary cube-in-sphere object.",
+"sources": [
+{
+"date": "2023-07-26",
+"name": "House Oversight - Graves written testimony (PDF)",
+"url": "https://oversight.house.gov/wp-content/uploads/2023/07/Ryan-HOC-Testimony.pdf"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "2015",
+"dateStart": "2014",
+"direction": "in",
+"edgeLabel": "VFA-11 aircrew during the 2014-2015 encounter series",
+"id": "ryan-graves",
+"l0": false,
+"label": "Ryan Graves",
+"note": "Graves testified in writing that his squadron 'began witnessing advanced UAP demonstrating complex maneuvers on a regular basis' after the AESA radar upgrade.",
+"sources": [
+{
+"date": "2023-07-26",
+"name": "House Oversight - Graves written testimony (PDF)",
+"url": "https://oversight.house.gov/wp-content/uploads/2023/07/Ryan-HOC-Testimony.pdf"
+}
+],
+"tier": "A",
+"type": "witness-chain"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "East Coast UAP encounters reported by Roosevelt-deployed Navy aircrew",
+"id": "us-navy",
+"l0": true,
+"label": "United States Navy",
+"note": "Two of the three videos the Department released in April 2020 are dated January 2015, and Graves's testimony places his squadron's encounters in the W-72 warning area off the east coast, beginning more than a decade before he testified: 'my squadron began witnessing advanced UAP demonstrating complex maneuvers on a regular basis'. Tier 2 because neither primary document names the USS Theodore Roosevelt. The carrier association is well attested elsewhere; it is not in the two documents cited here.",
+"sources": [
+{
+"date": "2020-04-27",
+"name": "Statement by the Department of Defense on the Release of Historical Navy Videos, 27 April 2020",
+"url": "https://www.war.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/"
+},
+{
+"date": "2023-07-26",
+"name": "Ryan Graves, written testimony to the House Oversight Subcommittee on National Security, the Border, and Foreign Affairs, 26 July 2023",
+"url": "https://oversight.house.gov/wp-content/uploads/2023/07/Ryan-HOC-Testimony.pdf"
+},
+{
+"date": null,
+"name": "Department of Defense, 'Statement by the Department of Defense on the Release of Historical Navy Videos,' April 27, 2020 -- https://www.defense.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/",
+"url": ""
+},
+{
+"date": null,
+"name": "Ryan Graves / Americans for Safe Aerospace written testimony, House Oversight subcommittee hearing, July 26, 2023 -- https://www.congress.gov/118/meeting/house/116282/witnesses/HHRG-118-GO06-Wstate-GravesR-20230726.pdf",
+"url": ""
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "2015",
+"dateStart": "2014",
+"direction": "in",
+"edgeLabel": "Squadron at the centre of the Atlantic encounter series",
+"id": "vfa-11",
+"l0": false,
+"label": "Strike Fighter Squadron 11 (VFA-11 Red Rippers)",
+"note": "Graves names VFA-11 and Warning Area W-72 in sworn testimony as the locus of the encounters and the near-midair.",
+"sources": [
+{
+"date": "2023-07-26",
+"name": "House Oversight - Graves written testimony (PDF)",
+"url": "https://oversight.house.gov/wp-content/uploads/2023/07/Ryan-HOC-Testimony.pdf"
+}
+],
+"tier": "C",
+"type": "institutional"
+}
+],
+"coords": null,
+"dateEnd": "2015",
+"dateStart": "2014",
+"deg": 8,
+"denials": [],
+"desc": "A sustained series of encounters during USS Theodore Roosevelt workups off the US East Coast, reported by VFA-11 and other Carrier Air Wing One aircrew from 2014 into 2015. Ryan Graves testified that after the fleet upgraded to the APG-79 AESA radar the squadron 'began witnessing advanced UAP demonstrating complex maneuvers on a regular basis,' and on 60 Minutes described the frequency as 'Every day. Every day for at least a couple years.' The defining incident was a near-midair in Warning Area W-72 ten miles east of Virginia Beach, where a pilot saw 'a dark gray cube inside of a clear sphere - motionless against the wind, fixed directly at the entry point,' and two jets 100 feet apart took evasive action. GIMBAL and GO FAST, both January 2015, are the surviving sensor artefacts. What separates this from a series of sightings is the command reaction Tim Gallaudet described: in January 2015 the operations officer of US Fleet Forces Command emailed all subordinate commanders under the subject 'URGENT SAFETY OF FLIGHT ISSUE' reporting 'multiple near-midair collisions' and threatening to shut down the exercise - and the message was pulled from every account the next day. The squadron filed a safety report and received no acknowledgement. That is the shape of the concealment on the aviator strand: not denial of the encounters, but suppression of the safety machinery that would have forced them into the open.",
+"domains": [
+"aviators-incidents"
+],
+"dossier": {
+"claims": [
+{
+"source": "Joseph Gradisher, spokesperson for the Deputy Chief of Naval Operations for Information Warfare, to The Black Vault, 11 September 2019: https://www.theblackvault.com/documentarchive/u-s-navy-releases-dates-of-three-officially-acknowledged-encounters-with-phenomena/",
+"text": "The U.S. Navy officially dated the three acknowledged videos: '[The] dates are 14 November 2004 for FLIR1 and 21 January 2015 for both Gimbal and GoFast,' establishing that GIMBAL and GOFAST were recorded on the same day. The Navy identifies the videos by observation date rather than by the To The Stars Academy names, and confirmed the footage was never cleared for public release when TTSA published it in December 2017 and March 2018.",
+"tier": 1
+},
+{
+"source": "https://www.theblackvault.com/documentarchive/u-s-navy-releases-dates-of-three-officially-acknowledged-encounters-with-phenomena/ (11 September 2019)",
+"text": "Gradisher stated: 'The Navy considers the phenomena contained/depicted in those 3 videos as unidentified.'",
+"tier": 1
+},
+{
+"source": "https://www.theblackvault.com/documentarchive/u-s-navy-releases-dates-of-three-officially-acknowledged-encounters-with-phenomena/ (11 September 2019)",
+"text": "Gradisher stated: 'The Navy has not publicly released characterizations or descriptions, nor released any hypothesis or conclusions, in regard to the objects contained in the referenced videos,' and refused location details: 'We will not be providing any details on individual reports.'",
+"tier": 1
+},
+{
+"source": "Written testimony of Ryan Graves, House Oversight Subcommittee on National Security, the Border, and Foreign Affairs, 26 July 2023: https://oversight.house.gov/wp-content/uploads/2023/07/Ryan-HOC-Testimony.pdf",
+"text": "Ryan Graves testified that in 2014, flying with VFA-11 near Virginia Beach, an upgrade to the squadron's radar system led to detection of unknown objects initially dismissed as software glitches, then corroborated with infrared sensors 'confirming their physical presence.'",
+"tier": 1
+},
+{
+"source": "https://oversight.house.gov/wp-content/uploads/2023/07/Ryan-HOC-Testimony.pdf (26 July 2023)",
+"text": "Graves testified that in Warning Area W-72, ten miles east of Virginia Beach, a pilot saw 'a dark gray cube inside of a clear sphere — motionless against the wind, fixed directly at the entry point,' that two jets 100 feet apart took evasive action and terminated the mission, and that 'Our squadron submitted a safety report, but there was no official acknowledgement of the incident and no further mechanism to report the sightings.'",
+"tier": 1
+},
+{
+"source": "https://oversight.house.gov/wp-content/uploads/2023/07/Ryan-HOC-Testimony.pdf (26 July 2023)",
+"text": "Graves testified the objects 'could accelerate at speeds up to Mach 1, hold their position against hurricane-force winds, and outlast our fighter jets, operating continuously throughout the day' with 'no visible means of lift, control surfaces or propulsion.'",
+"tier": 1
+},
+{
+"source": "https://oversight.house.gov/wp-content/uploads/2023/07/Ryan-HOC-Testimony.pdf (26 July 2023)",
+"text": "Graves entered into the congressional record Rear Admiral Tim Gallaudet's account that in 2015, while at Fleet Forces Command, Gallaudet received a classified SIPRNET email from the Operations Commander to all 1- and 2-star admiral subordinates titled 'Urgent safety of flight issue,' attaching the GO FAST video, citing multiple near mid-air collisions with UAP in the early warning area off Virginia Beach and raising the possibility of shutting down the exercise.",
+"tier": 1
+},
+{
+"source": "https://oversight.house.gov/wp-content/uploads/2023/07/Ryan-HOC-Testimony.pdf (26 July 2023)",
+"text": "Per the same testimony, the email was removed from Gallaudet's system and that of his deputy the following day, was never discussed despite routine in-person meetings of the same group, and Gallaudet 'presumes the email was removed in connection with a classified special access program.'",
+"tier": 1
+},
+{
+"source": "https://oversight.house.gov/wp-content/uploads/2023/07/Ryan-HOC-Testimony.pdf (26 July 2023)",
+"text": "Graves testified that 'all UAP videos since 2021 are classified Secret or above, which prevents the American people and even some Members of Congress from seeing UAP videos like the full GIMBAL video recorded by my squadron.'",
+"tier": 1
+},
+{
+"source": "https://oversight.house.gov/wp-content/uploads/2023/07/Ryan-HOC-Testimony.pdf (26 July 2023), citing https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf",
+"text": "Graves cited the 2021 UAP Task Force preliminary assessment reporting eleven near misses with UAP, and stated his understanding that the number had grown.",
+"tier": 1
+},
+{
+"source": "https://oversight.house.gov/wp-content/uploads/2023/07/Ryan-HOC-Testimony.pdf (26 July 2023)",
+"text": "Graves testified that in April 2022 the FAA issued an alert to its operations managers that a commercial aircraft over West Virginia experienced a double attitude and double autopilot failure while flying under a UAP.",
+"tier": 1
+},
+{
+"source": "https://oversight.house.gov/wp-content/uploads/2023/07/Ryan-HOC-Testimony.pdf (26 July 2023)",
+"text": "Graves testified that among witnesses reaching Americans for Safe Aerospace, 'in multiple cases, contemporaneous notifications were made up the chain of command, and in several, sensor data was escalated for analysis and there were profound irregularities in how the data was handled.'",
+"tier": 1
+},
+{
+"source": "https://www.theblackvault.com/documentarchive/u-s-navy-releases-dates-of-three-officially-acknowledged-encounters-with-phenomena/ (11 September 2019)",
+"text": "Filmmaker Dave Beaty used USS Normandy deck logs — the cruiser escorting the Roosevelt — to place the strike group on 21 January 2015 slightly more than 100 miles east, roughly equidistant between Jacksonville and Savannah, in the JAX operating area.",
+"tier": 2
+},
+{
+"source": "https://defensescoop.com/2026/06/17/new-science-advisory-council-forms-to-help-us-government-resolve-the-uap-mystery/ (17 June 2026); https://avi-loeb.medium.com/more-details-on-the-uap-science-advisory-council-825bd250d23c (16 June 2026)",
+"text": "Tim Gallaudet, whose deleted-email account is the central concealment allegation in this case, was named in June 2026 to the government's UAP Science Advisory Council, a body explicitly restricted to unclassified data.",
+"tier": 1
+}
+],
+"connections": [
+"Ryan Graves -> Americans for Safe Aerospace (nearly 5,000 members, 30+ witnesses) -> AIAA UAP Integration and Outreach Committee (~80 PhDs and engineers).",
+"Tim Gallaudet -> Fleet Forces Command 2015 -> Oceanographer of the Navy -> NOAA Assistant Secretary of Commerce -> ASA advisor -> UAP Science Advisory Council (June 2026).",
+"Joseph Gradisher -> Deputy Chief of Naval Operations for Information Warfare (N2/N6), the Navy office that owns the official position on the videos.",
+"To The Stars Academy (Tom DeLonge, Luis Elizondo, Hal Puthoff) published the videos without release clearance, connecting this case to the AAWSAP/DIRD personnel network.",
+"The 26 July 2023 hearing was driven by Reps. Tim Burchett and Anna Paulina Luna of the Congressional UAP Caucus, before Chairman Grothman and Ranking Member Garcia.",
+"AARO Director Sean Kirkpatrick's 'metallic orbs' remarks, delivered at a NASA Independent Study Team public meeting, are quoted in Graves's testimony — linking this case to both AARO and NASA.",
+"The 2021 ODNI/UAP Task Force preliminary assessment is the statistical anchor Graves used for near-miss counts.",
+"W-72 off Virginia Beach and the JAX operating area off Jacksonville/Savannah are the two geographic anchors; the Nimitz FLIR1 case of 14 November 2004 off San Diego is the West Coast counterpart the Navy dated in the same statement."
+],
+"denialPosture": "The Navy's posture is calibrated minimalism: it confirms the dates, confirms the objects are 'unidentified,' declines any characterization, hypothesis or conclusion, and refuses 'any details on individual reports.' It has never publicly explained why a squadron hazard report from W-72 produced no acknowledgement, why an urgent safety-of-flight email to flag officers vanished from SIPRNET within a day, or why the full GIMBAL video remains classified Secret or above eleven years after the encounter.",
+"narrative": "In 2014, Lieutenant Ryan Graves was flying F/A-18F Super Hornets with Strike Fighter Squadron 11 out of the Virginia Beach area. Following an upgrade to the squadron's radar, aircrews began detecting unknown objects in their operating airspace. The tracks were initially dismissed as software glitches until they were corroborated with infrared sensors, at which point, in Graves's words, the sightings \"became an open secret among our aircrew\" and \"were so frequent that they became part of daily briefs.\"\n\nThe pivotal incident occurred in Warning Area W-72, a block of restricted airspace ten miles east of Virginia Beach through which all traffic enters at a single GPS point and set altitude. Graves testified: \"Just at the moment the two jets crossed the threshold, one of the pilots saw a dark gray cube inside of a clear sphere — motionless against the wind, fixed directly at the entry point. The jets, only 100 feet apart, were forced to take evasive action. They terminated the mission immediately and returned to base. Our squadron submitted a safety report, but there was no official acknowledgement of the incident and no further mechanism to report the sightings.\" His description of the objects' performance is specific and falsifiable: they \"could accelerate at speeds up to Mach 1, hold their position against hurricane-force winds, and outlast our fighter jets, operating continuously throughout the day,\" with \"no visible means of lift, control surfaces or propulsion.\"\n\nThe cover-up allegation is Gallaudet's, and Graves put it in the record. While serving as an admiral at Fleet Forces Command, Gallaudet received a classified SIPRNET email in 2015 from his boss, the Operations Commander, addressed to all one- and two-star admiral subordinates. The subject line was \"Urgent safety of flight issue.\" Attached was the GO FAST video from a Navy F/A-18. The email asked whether anyone knew the objects' origin, expressed concern about multiple near mid-air collisions with UAP in the early warning area off Virginia Beach — the same airspace as Graves's encounters — and raised the possibility of shutting down the exercise for safety reasons. Gallaudet reviewed it with his deputy. The next day the email was gone from both their systems. Despite routine in-person meetings of that same group, no one ever discussed it. Gallaudet presumes it was removed in connection with a classified special access program, and has stated publicly that after seeing the report he did not believe the objects represented any known human technology.\n\nThe Navy's public position is a study in minimal concession. In September 2019, Joseph Gradisher, official spokesperson for the Deputy Chief of Naval Operations for Information Warfare, told The Black Vault that the Navy's official identifiers for the videos do not match the TTSA names FLIR1, Gimbal and GoFast — the Navy identifies them by the dates of the observations — and then supplied the dates: \"[The] dates are 14 November 2004 for 'FLIR1' and 21 January 2015 for both 'Gimbal' and 'GoFast.'\" That single sentence established for the first time that GIMBAL and GOFAST were recorded on the same day and may be two aspects of a single event. Gradisher went on: \"The Navy has not publicly released characterizations or descriptions, nor released any hypothesis or conclusions, in regard to the objects contained in the referenced videos,\" while conceding that \"The Navy considers the phenomena contained/depicted in those 3 videos as unidentified.\" Asked for the location, the answer was: \"We will not be providing any details on individual reports.\" The Navy also confirmed the footage had never been cleared for public release when To The Stars Academy published it in December 2017 and March 2018.\n\nGeography can be reconstructed anyway. Filmmaker Dave Beaty worked the deck logs of USS Normandy, the cruiser escorting the Roosevelt, and placed her on 21 January 2015 slightly more than 100 miles east, roughly equidistant between Jacksonville and Savannah — the JAX operating area. A cruiser stays with the carrier during operations, so the deck log fixes the approximate position of the encounter that the Navy declined to disclose.\n\nWhat happened afterward is the concealment argument's second half. Graves testified that \"all UAP videos since 2021 are classified Secret or above, which prevents the American people and even some Members of Congress from seeing UAP videos like the full GIMBAL video recorded by my squadron.\" The 2021 UAP Task Force preliminary assessment reported eleven near misses with UAP; Graves said he understood the number had grown. In April 2022 the FAA issued an alert to its operations managers that a commercial aircraft over West Virginia had experienced a double attitude and double autopilot failure while flying under a UAP. Graves founded Americans for Safe Aerospace, which by July 2023 had nearly 5,000 members and was working with more than 30 UAP witnesses, most of whom refuse to speak publicly for fear of professional consequences; he also chairs the American Institute of Aeronautics and Astronautics' UAP Integration and Outreach Committee with roughly 80 volunteer PhDs and aerospace engineers. In his testimony he noted that among the accounts reaching ASA, \"in several, sensor data was escalated for analysis and there were profound irregularities in how the data was handled\" — the same signature as the deleted email, reported independently by other witnesses.\n\nThe loop closes in June 2026. Gallaudet — the flag officer whose deleted email is the strongest public evidence that a special access program suppressed a UAP safety warning about this exact airspace — was named to the government's new UAP Science Advisory Council, seated for oceanography, and restricted to unclassified data.",
+"openQuestions": [
+"Who was the Fleet Forces Command Operations Commander who sent the 2015 'Urgent safety of flight issue' email, and under what authority was it deleted from flag officers' SIPRNET accounts?",
+"Which special access program does Gallaudet believe was responsible, and has any IG or congressional committee sought the audit logs for that deletion?",
+"Does the VFA-11 hazard report from the W-72 near-miss survive in Naval Safety Center records, and has it been produced to AARO or NARA?",
+"How many Range Fouler reports were filed by CVW-1 squadrons during 2014-2015, and where are they held?",
+"Why has the full unedited GIMBAL video never been released, and under what classification guide is it held Secret or above?",
+"Do the 2026 PURSUE tranches contain any Roosevelt-era East Coast records, and if not, why were they excluded from a release framed as covering unresolved cases?",
+"Were GIMBAL and GOFAST recorded by the same aircraft on the same sortie, as the shared date and similar voices suggest, and has the Navy ever confirmed or denied it?"
+],
+"roles": [
+"concealment",
+"custody",
+"disclosure",
+"oversight"
+],
+"whatItIs": "The sustained series of unidentified object encounters reported by U.S. Navy aircrews operating with Carrier Air Wing One and the USS Theodore Roosevelt carrier strike group off the U.S. East Coast from roughly the summer of 2014 through the Roosevelt's 2015 deployment work-ups. The episode produced the two ATFLIR infrared videos known publicly as GIMBAL and GOFAST, both of which the Navy has officially dated to 21 January 2015.",
+"whyImplicated": "This is the case in which a U.S. Navy fighter squadron documented an unidentified object corridor over an active training range for months, and the institutional response was to erase the paperwork rather than identify the objects. Ryan Graves testified under oath that after a near-collision at the W-72 entry point his squadron submitted a safety report and there was \"no official acknowledgement of the incident and no further mechanism to report the sightings.\" The stronger allegation, entered into the same congressional record, comes from Rear Admiral Tim Gallaudet: a 2015 SIPRNET email from the Fleet Forces operations commander to all one- and two-star admirals, titled \"Urgent safety of flight issue\" and attaching the GO FAST video, was removed from his and his deputy's classified systems the next day and never discussed — which he attributes to a classified special access program. That is a documented instance of a compartmented program reaching into a flag officer's classified mail to delete a safety-of-flight warning. Meanwhile the Navy's own on-record position is that it \"considers the phenomena contained/depicted in those 3 videos as unidentified\" and will provide \"no details on individual reports.\""
+},
+"entityInfo": null,
+"era": "2",
+"foia": {
+"questions": [
+2,
+3,
+5
+],
+"requests": [
+{
+"agency": "Navy",
+"partial": [],
+"questions": [
+2,
+3,
+5
+],
+"request": "F14",
+"sendTo": "Naval Safety Command FOIA Office, 375 A Street, Norfolk VA 23511, with a copy to the Department of the Navy FOIA/PA Office (DNS-36).",
+"status": "not filed",
+"title": "Navy - the W-72 hazard report and the Range Fouler reports"
+}
+]
+},
+"hl": null,
+"id": "roosevelt-2014-2015",
+"l0": true,
+"label": "USS Theodore Roosevelt Encounters (2014-2015)",
+"locLabel": null,
+"members": [
+{
+"cls": "document",
+"id": "gallaudet-2015-email",
+"label": "Fleet Forces Command 'URGENT SAFETY OF FLIGHT ISSUE' Email (Jan 2015, recalled)",
+"tier": "B"
+},
+{
+"cls": "document",
+"id": "gimbal-video",
+"label": "GIMBAL (Navy ATFLIR video, January 2015)",
+"tier": "C"
+},
+{
+"cls": "document",
+"id": "gofast-video",
+"label": "GO FAST (Navy ATFLIR video, January 2015)",
+"tier": "B"
+},
+{
+"cls": "location",
+"id": "l-w72",
+"label": "Warning Area W-72, off Virginia Beach",
+"tier": "C"
+},
+{
+"cls": "person",
+"id": "ryan-graves",
+"label": "Ryan Graves",
+"tier": "A"
+},
+{
+"cls": "institution",
+"id": "vfa-11",
+"label": "Strike Fighter Squadron 11 (VFA-11 Red Rippers)",
+"tier": "C"
+}
+],
+"short": "USS Theodore Roosevelt Encounters (2014-2015)",
+"sources": [
+{
+"date": "2023-07-26",
+"name": "House Oversight - Graves written testimony (PDF)",
+"url": "https://oversight.house.gov/wp-content/uploads/2023/07/Ryan-HOC-Testimony.pdf"
+},
+{
+"date": "2024-11-13",
+"name": "House Oversight - Gallaudet written testimony (PDF)",
+"url": "https://oversight.house.gov/wp-content/uploads/2024/11/Updated-Testimony-Gallaudet.pdf"
+},
+{
+"date": "2021-05-16",
+"name": "CBS News / 60 Minutes",
+"url": "https://www.cbsnews.com/news/ufo-military-intelligence-60-minutes-2021-05-16/"
+}
+],
+"sub": "Multi-aircrew UAP encounter series, Atlantic warning areas",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 363 of 1027, score 34). 8 connections, 3 of them custody/witness/funding/programmatic. Axes C0/A1/D3.",
+"timeline": [
+{
+"date": "2014-01-01",
+"id": "av-2014-vfa11",
+"label": "VFA-11 encounters begin",
+"precision": "year",
+"strand": "witness",
+"text": "After the fleet's APG-79 AESA radar upgrade, Ryan Graves's squadron begins witnessing UAP 'on a regular basis' off Virginia Beach during USS Theodore Roosevelt workups.",
+"tier": "A"
+}
+]
+}

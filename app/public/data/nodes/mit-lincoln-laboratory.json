@@ -1,0 +1,241 @@
+{
+"A": 3,
+"C": 2,
+"D": 2,
+"band": null,
+"claims": [
+{
+"source": "Rep. Burlison on X, 15 May 2026, quoted by The Hill/NewsNation, 16 May 2026",
+"text": "Lincoln Laboratory's attorneys agreed to comply within 30 days with Rep. Burlison's May 2026 demand for a classified 1952 briefing recording referenced as a 'flying saucer talk.'",
+"tier": 2
+},
+{
+"source": "The Hill/NewsNation, 29 June 2026",
+"text": "By 25 June 2026 Lincoln Laboratory had agreed to make the material available; the Disclosure Foundation describes it as a reel-to-reel audio recording relating to the July 1952 Washington sightings and says Lincoln Lab's lawyers confirm it exists.",
+"tier": 2
+},
+{
+"source": "The Hill/NewsNation, 16 May 2026",
+"text": "Founded in 1951 to build the SAGE air defense network; one of the oldest FFRDCs, a class of contractor with access to classified and proprietary information that for-profit contractors are legally barred from seeing.",
+"tier": 1
+},
+{
+"source": "NSF NCSES Master Government List of FFRDCs; CRS Report R44629 funding table",
+"text": "Lincoln Laboratory is an MIT-administered FFRDC sponsored by DoD USD(R&E), with the sponsor change recorded on 25 April 2011, funded at approximately $1,360.6 million in FY2024.",
+"tier": 1
+},
+{
+"source": "Burlison press release, 8 May 2026",
+"text": "On 8 May 2026 Rep. Burlison wrote to MIT Lincoln Laboratory requesting preservation and review of a reel-to-reel recording identified as 'AF-ATIC-FILM, 03/52' and labelled 'flying saucer talk', featuring Edward J. Ruppelt as briefer, and asked the laboratory to work with the National Archives on preservation and archival review.",
+"tier": 1
+},
+{
+"source": "MITRE's SAGE history site; MIT Lincoln Laboratory SAGE history page",
+"text": "MITRE was spun out of Lincoln Laboratory in 1958 to manage SAGE deployment, taking 485 Lincoln Laboratory employees with it.",
+"tier": 1
+},
+{
+"source": "Rep. Eric Burlison via X, reported by Cybernews, 25 June 2026",
+"text": "On 25 June 2026 Burlison announced that MIT Lincoln Laboratory had agreed to disclose the 1952 recording, quoting his own approach: 'We told MIT Lincoln Labs we know the exact video file you are holding, by name, and we want it.'",
+"tier": 2
+},
+{
+"source": "Burlison press release, 26 May 2026",
+"text": "Burlison's MITRE press release names the Beacon Hill Study alongside 'AF-ATIC-FILM, 03/52', MIT Lincoln Laboratory, NARA and Record Group 615.",
+"tier": 2
+}
+],
+"cls": "institution",
+"cluster": "ffrdc",
+"connections": [
+{
+"claimTier": 2,
+"cls": "document",
+"dateEnd": null,
+"dateStart": "1952",
+"direction": "out",
+"edgeLabel": "Holds the March 1952 Ruppelt 'flying saucer talk' recording",
+"id": "af-atic-film-0352",
+"l0": false,
+"label": "AF-ATIC-FILM, 03/52 ('flying saucer talk')",
+"note": "By 25 June 2026 Burlison announced the laboratory had agreed to disclose it - the first FFRDC-held UAP record obtained by Congress by naming the file.",
+"sources": [
+{
+"date": "2026-06-25",
+"name": "Cybernews",
+"url": "https://cybernews.com/news/burlison-ufo-uap-project-blue/"
+}
+],
+"tier": "B",
+"type": "custody"
+},
+{
+"claimTier": 2,
+"cls": "program",
+"dateEnd": "1952",
+"dateStart": "1952",
+"direction": "in",
+"edgeLabel": "Beacon Hill was convened in the MIT/Lincoln Laboratory complex for the Air Force",
+"id": "beacon-hill-study",
+"l0": false,
+"label": "Project Beacon Hill",
+"note": "The study shaped US overhead reconnaissance and its records sit in institutional rather than federal custody.",
+"sources": [
+{
+"date": "2026-05-26",
+"name": "Burlison press release",
+"url": "https://burlison.house.gov/media/press-releases/burlison-presses-mitre-answers-uap-records-ffrdc-accountability-and-compliance"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 2,
+"cls": "document",
+"dateEnd": null,
+"dateStart": "2026",
+"direction": "in",
+"edgeLabel": "Extracted an acknowledgment of existence and an agreement to produce from an FFRDC",
+"id": "burlison-mit-lincoln-letter-2026",
+"l0": false,
+"label": "Rep. Burlison letter to MIT Lincoln Laboratory, May 2026",
+"note": "By 25 June 2026 Lincoln Laboratory had agreed to make the material available - the first documented FFRDC production commitment in response to a UAP congressional demand.",
+"sources": [
+{
+"date": "2026-06-29",
+"name": "The Hill: 'Invasion of Washington' UFO tape may surface as lawmakers push release",
+"url": "https://thehill.com/homenews/5944717-ufo-washington-invasion-evidence/"
+}
+],
+"tier": "C",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "2026",
+"direction": "in",
+"edgeLabel": "8 May 2026 letter demanding the 1952 Ruppelt recording by file designation",
+"id": "eric-burlison",
+"l0": false,
+"label": "Eric Burlison",
+"note": "Burlison asked Lincoln Laboratory to determine the status of 'AF-ATIC-FILM, 03/52' and coordinate with NARA on preservation and archival review.",
+"sources": [
+{
+"date": "2026-05-08",
+"name": "Burlison press release",
+"url": "https://burlison.house.gov/media/press-releases/burlison-requests-review-identified-1952-uap-recording"
+}
+],
+"tier": "A",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "1958",
+"direction": "in",
+"edgeLabel": "MITRE was spun out of Lincoln Laboratory Division 6 in 1958",
+"id": "mitre-corporation",
+"l0": true,
+"label": "The MITRE Corporation",
+"note": "485 Lincoln Laboratory employees moved to the new corporation on incorporation, 21 July 1958, to continue SAGE systems engineering under Air Force sponsorship.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "MITRE SAGE timeline",
+"url": "https://sage.mitre.org/timeline/"
+},
+{
+"date": "2026-08-12",
+"name": "MIT Lincoln Laboratory SAGE history",
+"url": "https://www.ll.mit.edu/about/history/sage-semi-automatic-ground-environment-air-defense-system"
+}
+],
+"tier": "A",
+"type": "institutional"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "1951",
+"deg": 5,
+"denials": [],
+"desc": "Lincoln Laboratory is MITRE's parent and the first FFRDC in this domain to have publicly agreed to hand a UFO record to Congress. It was established in 1951 to build SAGE, the continental air defence system, and MITRE was spun out of its Division 6 in 1958 to carry that work forward. It is administered by MIT, sponsored by the Under Secretary of Defense for Research and Engineering since a sponsor change on 25 April 2011, and was funded at roughly 1.36 billion dollars in FY2024. In 1952 Lincoln Laboratory hosted the Beacon Hill Study, the classified summer study group on aerial reconnaissance that shaped American overhead collection for a generation. On 8 May 2026 Rep. Eric Burlison wrote to Lincoln Laboratory asking it to locate, preserve and arrange archival review of a reel-to-reel recording identified as 'AF-ATIC-FILM, 03/52', labelled 'flying saucer talk', in which Project Blue Book director Edward J. Ruppelt briefed the Beacon Hill group - months before the July 1952 Washington, DC radar incidents. By 25 June 2026 Burlison announced that Lincoln Laboratory had agreed to disclose it. That is the first documented case of an FFRDC producing a UAP record to Congress because Congress named the file by its exact designation. Burlison's own account of the method - 'We told MIT Lincoln Labs we know the exact video file you are holding, by name, and we want it' - is the operational lesson of this entire domain: FFRDC holdings are reachable only when the requester already knows what to ask for.",
+"domains": [
+"congress-house",
+"ffrdcs"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "mit-lincoln-laboratory",
+"l0": false,
+"label": "MIT Lincoln Laboratory",
+"locLabel": null,
+"members": null,
+"short": "MIT Lincoln Laboratory",
+"sources": [
+{
+"date": "2026-05-16",
+"name": "The Hill: House Republican requests UFO talk from private contractor",
+"url": "https://thehill.com/homenews/house/5880943-house-gop-ufo-programs-pentagon-private-contractors/"
+},
+{
+"date": "2026-06-29",
+"name": "The Hill: 'Invasion of Washington' UFO tape may surface as lawmakers push release",
+"url": "https://thehill.com/homenews/5944717-ufo-washington-invasion-evidence/"
+},
+{
+"date": "2026-05-08",
+"name": "Rep. Eric Burlison - Burlison Requests Review of Identified 1952 UAP Recording",
+"url": "https://burlison.house.gov/media/press-releases/burlison-requests-review-identified-1952-uap-recording"
+},
+{
+"date": "2026-06-25",
+"name": "Cybernews - Burlison: MIT Lincoln Laboratory agrees to release 1952 UFO video",
+"url": "https://cybernews.com/news/burlison-ufo-uap-project-blue/"
+},
+{
+"date": "2026-05-16",
+"name": "Newsmax - House GOP Letter Targets Private UFO Contractors",
+"url": "https://www.newsmax.com/newsfront/eric-burlison-gop-uap/2026/05/16/id/1256505/"
+},
+{
+"date": "2026-08-12",
+"name": "MIT Lincoln Laboratory - SAGE history",
+"url": "https://www.ll.mit.edu/about/history/sage-semi-automatic-ground-environment-air-defense-system"
+}
+],
+"sub": "FFRDC, est. 1951; Air Force sponsored",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 158 of 1027, score 49). 5 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A3/D2.",
+"timeline": [
+{
+"date": "1951-01-01",
+"id": "tl-ffrdc-1951-lincoln",
+"label": "MIT Lincoln Laboratory established",
+"precision": "year",
+"strand": "program",
+"text": "Lincoln Laboratory is created to build SAGE, the first continental air defence system - the architecture that determines what American airspace surveillance is built to see.",
+"tier": "B"
+},
+{
+"date": "2026-05-08",
+"id": "tl-ffrdc-2026-lincoln-letter",
+"label": "Burlison writes to MIT Lincoln Laboratory",
+"precision": "day",
+"strand": "oversight",
+"text": "Burlison asks Lincoln Laboratory to locate and preserve reel-to-reel recording AF-ATIC-FILM, 03/52 - naming the file by its exact designation - and to coordinate with NARA on archival review.",
+"tier": "A"
+}
+]
+}

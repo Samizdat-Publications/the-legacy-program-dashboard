@@ -1,0 +1,113 @@
+{
+"A": 0,
+"C": 0,
+"D": 2,
+"band": null,
+"claims": [
+{
+"source": "CourtListener, CAUS v. NSA",
+"text": "Citizens Against UFO Secrecy v. NSA was decided by the D.C. Circuit in November 1981; the Supreme Court denied certiorari on 8 March 1982.",
+"tier": 1
+},
+{
+"source": "CourtListener, CAUS v. DoD (9th Cir.)",
+"text": "Citizens Against UFO Secrecy, Inc. v. United States Department of Defense reached the Ninth Circuit, decided 14 November 2001.",
+"tier": 1
+},
+{
+"source": "Cash v. United States docket and Order of Dismissal",
+"text": "Cash v. United States, No. H-84-348 (S.D. Tex.), the Cash-Landrum tort suit, was dismissed by order dated 21 August 1986.",
+"tier": 1
+}
+],
+"cls": "domain",
+"cluster": "media",
+"connections": [
+{
+"claimTier": 1,
+"cls": "domain",
+"dateEnd": null,
+"dateStart": "1980-01-01",
+"direction": "in",
+"edgeLabel": "Appeal exhausted, suit filed",
+"id": "d-foia",
+"l0": false,
+"label": "Freedom of Information Practice",
+"note": "CAUS v. NSA is the canonical progression from FOIA request to appellate litigation, and the point at which the courts sustained withholding on a classified affidavit.",
+"sources": [
+{
+"date": "1981-11-03",
+"name": "Citizens Against UFO Secrecy v. NSA (CourtListener)",
+"url": "https://www.courtlistener.com/opinion/400210/citizens-against-ufo-secrecy-v-nation-security-age/"
+}
+],
+"tier": "C",
+"type": "investigative"
+},
+{
+"claimTier": 2,
+"cls": "domain",
+"dateEnd": null,
+"dateStart": "1978-01-01",
+"direction": "out",
+"edgeLabel": "Courtroom outcomes set the witness's risk calculus",
+"id": "d-legal",
+"l0": false,
+"label": "Legal Doctrine & Liability",
+"note": "The dismissal in Cash v. United States and the withholding sustained in CAUS v. NSA together define the practical ceiling on judicial remedies in this field.",
+"sources": [
+{
+"date": "1981-11-03",
+"name": "Citizens Against UFO Secrecy v. NSA (CourtListener)",
+"url": "https://www.courtlistener.com/opinion/400210/citizens-against-ufo-secrecy-v-nation-security-age/"
+}
+],
+"tier": "C",
+"type": "institutional"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "1978-01-01",
+"deg": 2,
+"denials": [],
+"desc": "Litigation is the only mechanism on this board that can compel a sworn answer from an unwilling government witness, which is why so much effort has gone into it and why the results are so thin. The canonical run is Citizens Against UFO Secrecy v. NSA, in which a FOIA suit reached the D.C. Circuit and the Supreme Court denied certiorari in March 1982, leaving intact NSA's refusal to release the substance of its holdings on the strength of a classified affidavit the plaintiffs never saw. CAUS returned to court against the Department of Defense and reached the Ninth Circuit in 2001. The other documented route is the tort claim: Betty Cash, Vickie Landrum and Colby Landrum sued the United States in the Southern District of Texas over injuries they attributed to a December 1980 encounter, and the case was dismissed in August 1986 on the government's showing that no such craft was operated by any agency. Both patterns illustrate the ceiling - a court will not order the production of a thing the government swears does not exist, and the swearing is itself unreviewable in practice. Scoring high on this domain means an entity brought, defended or decided such a case.",
+"domains": [
+"w2-taxonomy"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "1",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "d-litigation",
+"l0": false,
+"label": "Litigation",
+"locLabel": null,
+"members": null,
+"short": "Litigation",
+"sources": [
+{
+"date": "1981-11-03",
+"name": "Citizens Against UFO Secrecy v. NSA, D.C. Circuit (CourtListener)",
+"url": "https://www.courtlistener.com/opinion/400210/citizens-against-ufo-secrecy-v-nation-security-age/"
+},
+{
+"date": "2001-11-14",
+"name": "Citizens Against UFO Secrecy, Inc. v. United States Department of Defense (9th Cir.)",
+"url": "https://www.courtlistener.com/opinion/7176972/citizens-against-ufo-secrecy-inc-v-united-states-department-of-defense/"
+},
+{
+"date": "1986-08-21",
+"name": "Cash v. United States, No. H-84-348 - docket and Order of Dismissal",
+"url": "https://files.afu.se/Downloads/Books/Other/Quest_Publications/Quest_Publications_101-Cash_Landrum_File-Civil_Action.pdf"
+}
+],
+"sub": "Adversarial domain - the courtroom as a discovery instrument, and its documented ceiling",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 894 of 1027, score 15). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D2.",
+"timeline": []
+}

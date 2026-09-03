@@ -1,0 +1,543 @@
+{
+"A": 3,
+"C": 0,
+"D": 3,
+"band": "oversight",
+"claims": [
+{
+"source": "10 U.S.C. 119",
+"text": "10 U.S.C. 119 requires an annual SAP report to the defense committees not later than 1 March, notification of newly designated SAPs by 1 February, and 30 days notice before a new SAP is initiated.",
+"tier": 1
+},
+{
+"source": "10 U.S.C. 119",
+"text": "Where the Secretary of Defense waives SAP reporting, the statute requires the information and the justification to be provided 'jointly to the chairman and ranking minority member of each of the defense committees' rather than to the full committees.",
+"tier": 1
+},
+{
+"source": "DoD Directive 5205.07, 12 September 2024",
+"text": "DoDD 5205.07 requires notification to the Director, DoD SAPCO and OA SAPCO directors before briefing Congress or congressional staff with SAP material, and bars contractors from providing SAP material to Congress without specific approval.",
+"tier": 1
+},
+{
+"source": "Inference from the composition of 10 U.S.C. 119(e), DoDD 5205.07 and the read-in practice described in CHRG-119hhrg61718",
+"text": "The combination of the 10 U.S.C. 119 waiver, the DoDD 5205.07 notification requirement and the HASC/HAC-D read-in gate produces a lawful architecture in which a program can be concealed from 527 of 535 members of Congress indefinitely. Reasoning: each element is individually lawful and the composition has never been tested against a UAP-specific demand.",
+"tier": 3
+}
+],
+"cls": "institution",
+"cluster": "other",
+"connections": [
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "2025-09-09",
+"direction": "in",
+"edgeLabel": "Chairwoman stated the HASC/HAC-D read-in gate on the record",
+"id": "anna-paulina-luna",
+"l0": false,
+"label": "Anna Paulina Luna",
+"note": "'For a non-committee member to be allowed to view these documents and videos, individual members must be approved by the Chairman and Ranking Member of both HASC and HAC-D.'",
+"sources": [
+{
+"date": "2025-09-09",
+"name": "CHRG-119hhrg61718, 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm"
+}
+],
+"tier": "A",
+"type": "legislative"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "2009-06-16",
+"direction": "in",
+"edgeLabel": "House Armed Services leadership, 2009-2015",
+"id": "buck-mckeon",
+"l0": false,
+"label": "Howard P. \"Buck\" McKeon",
+"note": "Occupied one of the two House authorising seats in the section 119 channel across a change of party control, moving from ranking member to chairman without leaving the group.",
+"sources": [
+{
+"date": null,
+"name": "https://democrats-armedservices.house.gov/2009/6/skelton-congratulates-congressman-mckeon--new-hasc-ranking-member",
+"url": "https://democrats-armedservices.house.gov/2009/6/skelton-congratulates-congressman-mckeon--new-hasc-ranking-member"
+},
+{
+"date": "2026-08-22",
+"name": "10 U.S.C. 119(e)(2) and (g) (OLRC prelim text, read 22 August 2026)",
+"url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "1976",
+"dateStart": "1975",
+"direction": "in",
+"edgeLabel": "The historical benchmark, and the source of the board's sharpest statement of the limit",
+"id": "church-committee",
+"l0": true,
+"label": "Senate Select Committee to Study Governmental Operations with Respect to Intelligence Activities (Church Committee)",
+"note": "The committee found that 'Mechanisms for, and the practice of, congressional oversight have not been adequate', and recorded that in no instance had it examined an agency's files on its own.",
+"sources": [
+{
+"date": "1976-04-26",
+"name": "S. Rept. 94-755, Book I, Foreign and Military Intelligence",
+"url": "https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-94755-i.pdf"
+}
+],
+"tier": "B",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "domain",
+"dateEnd": null,
+"dateStart": "1987-12-04",
+"direction": "out",
+"edgeLabel": "the statutory oversight scheme, and the exception written into it",
+"id": "d-structure",
+"l0": false,
+"label": "Program structure and organisational mapping",
+"note": "Under 10 U.S.C. 119 the Secretary must report annually by 1 March to the four defense committees on every special access program, with a brief description, major milestones and costs - and under 119(e) may waive any of that on a case-by-case basis. The scheme and its exception are the same statute, which is why oversight belongs on the structural map rather than outside it.",
+"sources": [
+{
+"date": "2026-08-21",
+"name": "10 U.S.C. 119 - Special access programs: congressional oversight (Office of the Law Revision Counsel)",
+"url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim"
+},
+{
+"date": "2024-01-05",
+"name": "10 U.S.C. 119 (U.S. Code 2023 Edition, GPO)",
+"url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title10/html/USCODE-2023-title10-subtitleA-partI-chap2-sec119.htm"
+},
+{
+"date": "2026-05-18",
+"name": "Archived: DoD Directive 5205.07, 'Special Access Program (SAP) Policy' (12 Sep 2024) (Wayback 2026-05-18)",
+"url": "https://web.archive.org/web/20260518065512/https://www.esd.whs.mil/portals/54/documents/dd/issuances/dodd/520507p.pdf"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "1988",
+"direction": "in",
+"edgeLabel": "10 U.S.C. 119 annual SAP report to the four defense committees",
+"id": "dod",
+"l0": true,
+"label": "United States Department of Defense (secondary designation: Department of War)",
+"note": "The Secretary of Defense must report annually by 1 March on every special access program, notify newly designated SAPs by 1 February, and give 30 days notice before initiating a new SAP.",
+"sources": [
+{
+"date": "2024-01-01",
+"name": "10 U.S.C. 119, Special access programs: congressional oversight",
+"url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim"
+}
+],
+"tier": "A",
+"type": "legislative"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2010-07-01",
+"direction": "in",
+"edgeLabel": "Contractor disclosure to Congress requires the approval of the office being disclosed about",
+"id": "dod-sapco",
+"l0": true,
+"label": "DoD Special Access Program Central Office (DoD SAPCO)",
+"note": "DoDD 5205.07 (2010) para 4.e bars any contractor entity, employee, representative or consultant from providing SAP material to members of Congress or staff 'without Director, DoD SAPCO, approval'.",
+"sources": [
+{
+"date": "2018-08-31",
+"name": "DoD Directive 5205.07, 1 July 2010, Change 1 31 August 2018",
+"url": "https://web.archive.org/web/20190922210932/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf"
+}
+],
+"tier": "A",
+"type": "denial"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": "2023-08-15",
+"direction": "out",
+"edgeLabel": "The audit Congress has, and cannot read",
+"id": "dodig-2023-109",
+"l0": false,
+"label": "DoD OIG - Evaluation of the DoD's Actions Regarding Unidentified Anomalous Phenomena (DODIG-2023-109)",
+"note": "The only formal evaluation of DoD's UAP conduct is classified in full, so the oversight value available to members outside the cleared channels is an unclassified summary.",
+"sources": [
+{
+"date": "2023-08-15",
+"name": "DoD OIG, DODIG-2023-109",
+"url": "https://www.dodig.mil/Reports/Audits-and-Evaluations/Article/3496071/evaluation-of-the-dods-actions-regarding-unidentified-anomalous-phenomena-dodig/"
+}
+],
+"tier": "A",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "1988",
+"direction": "out",
+"edgeLabel": "Defense committee receiving waived-SAP notification",
+"id": "house-armed-services",
+"l0": false,
+"label": "House Armed Services Committee",
+"note": "Under 10 U.S.C. 119(e) the chairman and ranking minority member of each defense committee receive the waived program information and the waiver justification.",
+"sources": [
+{
+"date": "2024-01-01",
+"name": "10 U.S.C. 119, Special access programs: congressional oversight",
+"url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim"
+}
+],
+"tier": "C",
+"type": "legislative"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "1988",
+"direction": "out",
+"edgeLabel": "Defense committee receiving waived-SAP notification",
+"id": "senate-armed-services",
+"l0": true,
+"label": "Senate Armed Services Committee",
+"note": "Same statutory provision; four committees, eight members.",
+"sources": [
+{
+"date": "2024-01-01",
+"name": "10 U.S.C. 119, Special access programs: congressional oversight",
+"url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim"
+}
+],
+"tier": "B",
+"type": "legislative"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "2009-01-06",
+"direction": "in",
+"edgeLabel": "Senate appropriations leadership in 2009, the year of the Reid SAP request",
+"id": "thad-cochran",
+"l0": false,
+"label": "Thad Cochran",
+"note": "The Senate half of the 119(e)(2) group in 2009 comprised only four people filling six seats: Levin and McCain on armed services, Inouye and Cochran holding both appropriations pairs. Harry Reid, who made the 2009 SAP request, held none of them.",
+"sources": [
+{
+"date": null,
+"name": "https://www.govinfo.gov/content/pkg/GPO-CPUB-111spub13/html/GPO-CPUB-111spub13.htm",
+"url": "https://www.govinfo.gov/content/pkg/GPO-CPUB-111spub13/html/GPO-CPUB-111spub13.htm"
+},
+{
+"date": null,
+"name": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim",
+"url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim"
+},
+{
+"date": "2026-08-22",
+"name": "U.S. Senate, Dates of Sessions of the Congress (convening dates: 111th 6 Jan 2009, 118th 3 Jan 2023, 119th 3 Jan 2025)",
+"url": "https://www.senate.gov/legislative/DatesofSessionsofCongress.htm"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "the narrow aperture through which Congress sees waived DoD SAPs",
+"id": "waived-sap-notification-group",
+"l0": true,
+"label": "Waived SAP Notification Group",
+"note": "Section 119 contains no analogue to 50 U.S.C. 3093(g), which requires that the rest of the committee be told a limited notification occurred. Members of the defense committees outside the twelve are not informed that a waiver has been exercised.",
+"sources": [
+{
+"date": "2026-08-22",
+"name": "10 U.S.C. 119, Special Access Programs: congressional oversight — subsections (e)(2) and (g) (OLRC prelim text, read 22 August 2026)",
+"url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim"
+},
+{
+"date": "2026-05-18",
+"name": "Archived: DoD Directive 5205.07, Special Access Program (SAP) Policy (Wayback 2026-05-18)",
+"url": "https://web.archive.org/web/20260518065512/https://www.esd.whs.mil/portals/54/documents/dd/issuances/dodd/520507p.pdf"
+},
+{
+"date": null,
+"name": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3093&num=0&edition=prelim",
+"url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3093&num=0&edition=prelim"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": null,
+"dateStart": "1988",
+"direction": "out",
+"edgeLabel": "The 10 U.S.C. 119(e) waiver reduces notification to eight members",
+"id": "waived-usap",
+"l0": true,
+"label": "Waived unacknowledged special access program (waived USAP)",
+"note": "Where the Secretary waives reporting, the statute directs that the information and the justification go 'jointly to the chairman and ranking minority member of each of the defense committees'. This is the lawful mechanism by which a program can be hidden from the rest of Congress.",
+"sources": [
+{
+"date": "2024-01-01",
+"name": "10 U.S.C. 119, Special access programs: congressional oversight",
+"url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim"
+}
+],
+"tier": "A",
+"type": "legislative"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "1988",
+"deg": 12,
+"denials": [
+{
+"by": {
+"id": "dod-sapco",
+"label": "DoD Special Access Program Central Office (DoD SAPCO)"
+},
+"claimTier": 1,
+"denialKind": "association",
+"label": "Contractor disclosure to Congress requires the approval of the office being disclosed about",
+"note": "DoDD 5205.07 (2010) para 4.e bars any contractor entity, employee, representative or consultant from providing SAP material to members of Congress or staff 'without Director, DoD SAPCO, approval'.",
+"of": {
+"id": "oversight-congress",
+"label": "Congressional oversight of special access programs"
+},
+"sources": [
+{
+"date": "2018-08-31",
+"name": "DoD Directive 5205.07, 1 July 2010, Change 1 31 August 2018",
+"url": "https://web.archive.org/web/20190922210932/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf"
+}
+]
+}
+],
+"desc": "Congressional oversight of the Department's most sensitive activities is not a general power; it is a specific statutory scheme with a specific, legally sanctioned exception, and the exception is the whole story. Under 10 U.S.C. 119 the Secretary of Defense must report annually by 1 March to the four defense committees on every special access program, giving for each a brief description, major milestones, actual historical costs and estimated costs through the succeeding four fiscal years, and must notify the committees by 1 February of any newly designated SAP, and must notify them thirty days before initiating a new SAP. But subsection (e) permits the Secretary to waive that reporting where he determines disclosure would harm national security; in that case 'the Secretary shall provide the information described in that subsection with respect to the special access program concerned, and the justification for the waiver, jointly to the chairman and ranking minority member of each of the defense committees.' Eight members of Congress, and no one else. Layered on top of that is DoD Directive 5205.07, which requires any person briefing Congress with SAP material to notify the Director, DoD SAPCO first, and bars contractors from providing SAP material to Congress at all without approval. Layered on top of that is the practical gate described by Chairwoman Luna in September 2025, under which a non-committee member must be approved by the chairman and ranking member of both HASC and HAC-D to see specific material. The result is a structure in which the number of people who can lawfully learn of a waived unacknowledged program is small, fixed, and selected by the department being overseen - and in which a member who suspects a program exists cannot ask for it by name because, as Representative Mace put it, 'if you do not know it, you cannot get the information.' This is the mechanism David Grusch alleges was used, and it is a mechanism that does not require anyone to break the law.",
+"domains": [
+"_rs-archive-mirror",
+"w2-agencies"
+],
+"dossier": {
+"claims": [
+{
+"source": "U.S. House of Representatives, Committee on Oversight and Accountability, hearing transcript HHRG-118-GO06-Transcript-20230726 — https://www.congress.gov/118/meeting/house/116282/documents/HHRG-118-GO06-Transcript-20230726.pdf",
+"text": "On 26 July 2023 the House Oversight Committee held 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency,' with sworn testimony from David Grusch, Ryan Graves and David Fravor; the hearing transcript was printed as HHRG-118-GO06.",
+"tier": 1
+},
+{
+"source": "Roll Call, 'Whistleblower at UAP hearing claims US found non-human remains,' 26 July 2023 — https://rollcall.com/2023/07/26/whistleblower-at-uap-hearing-claims-non-human-remains/",
+"text": "At that hearing Grusch alleged a concealed multi-decade UAP crash-retrieval and reverse-engineering program, recovery of 'non-human biologics,' and misappropriation of funds to evade congressional oversight.",
+"tier": 2
+},
+{
+"source": "Rep. Eric Burlison to MIT Lincoln Laboratory, 7 May 2026, citing sections 1841-1843 and Record Group 615 — https://burlison.house.gov/sites/evo-subsites/burlison.house.gov/files/evo-media-document/mit-lincoln-lab_uap-tape-letter.pdf; NARA guidance at https://www.archives.gov/records-mgmt/uap-guidance",
+"text": "Sections 1841-1843 of the FY2024 NDAA (Public Law 118-31), codified at 44 U.S.C. 2107 note, require identification, review, organization and transmission of UAP records to NARA for inclusion in the UAP Records Collection, which NARA maintains as Record Group 615.",
+"tier": 1
+},
+{
+"source": "Douglas Dean Johnson, 'Quick guide to UAP-related provisions in the final FY 2024 National Defense Authorization Act' — https://douglasjohnson.ghost.io/quick-guide-to-uap-related-provisions-in-the-final-fy-2024-national-defense-authorization-act/; Covington, 'Implications of the UAP Amendment in the 2024 NDAA' — https://www.insidegovernmentcontracts.com/2024/01/implications-of-the-unidentified-anomalous-phenomena-uap-amendment-in-the-2024-national-defense-authorization-act-ndaa/",
+"text": "The Senate-passed UAP Disclosure Act provisions establishing an independent nine-member Review Board, a Review Board staff, federal eminent domain over recovered technologies of unknown origin held by private parties, and a controlled disclosure process were removed by the FY2024 NDAA conference committee and are not in the enacted law.",
+"tier": 2
+},
+{
+"source": "Pub. L. 118-31, div. A, title XVI, §1687(b), 22 December 2023, 137 Stat. 621, set out as a note under 50 U.S.C. 3373 — https://uscode.house.gov/view.xhtml?req=%28title%3A50+section%3A3373+edition%3Aprelim%29",
+"text": "Section 1687(b) of Public Law 118-31 provides that independent research and development funding relating to unidentified anomalous phenomena 'shall not be allowable as indirect expenses' on covered DoD contracts unless the material and information is made available to the congressional defense and intelligence committees and congressional leadership.",
+"tier": 1
+},
+{
+"source": "50 U.S.C. 3373(l)(4) — https://uscode.house.gov/view.xhtml?req=%28title%3A50+section%3A3373+edition%3Aprelim%29",
+"text": "50 U.S.C. 3373(l)(4) requires the AARO Director each briefing period to provide the chairs and ranking members of the Armed Services and Intelligence committees 'an enumeration of any instances in which data relating to unidentified anomalous phenomena was not provided to the Office because of classification restrictions on that data or for any other reason.'",
+"tier": 1
+},
+{
+"source": "Pub. L. 117-263, div. F, title LXVIII, §6803, 23 December 2022, 136 Stat. 3594, as amended by Pub. L. 118-159 §6802 — https://uscode.house.gov/view.xhtml?req=%28title%3A50+section%3A3373+edition%3Aprelim%29",
+"text": "Section 6803 of Public Law 117-263 directed the Comptroller General to identify cleared GAO personnel to audit the AARO historical record report process, including on-site work, and to brief the intelligence committees, defense committees and congressional leadership semiannually on AARO's progress and legislative compliance.",
+"tier": 1
+},
+{
+"source": "Pub. L. 119-60, div. A, title XVI, §1672(b), 18 December 2025, 139 Stat. 1202; amendment note to 50 U.S.C. 3373 — https://uscode.house.gov/view.xhtml?req=%28title%3A50+section%3A3373+edition%3Aprelim%29",
+"text": "Public Law 119-60, enacted 18 December 2025, amended 50 U.S.C. 3373(f)(1)(A) to require that each component of the Department of Defense — not only each element of the intelligence community — make UAP data immediately available to AARO.",
+"tier": 1
+},
+{
+"source": "Pub. L. 119-60, div. A, title XVI, §1671(a)-(b), 18 December 2025, 139 Stat. 1201-1202 — https://uscode.house.gov/view.xhtml?req=%28title%3A50+section%3A3373+edition%3Aprelim%29",
+"text": "Public Law 119-60 §1671 added 50 U.S.C. 3373(l)(5), requiring semiannual briefings to detail NORAD and USNORTHCOM UAP intercepts, with the first post-enactment briefing covering intercepts back to 1 January 2004 not previously provided.",
+"tier": 1
+},
+{
+"source": "Pub. L. 119-60, div. A, title XVI, §1673(a), 139 Stat. 1202, note to 50 U.S.C. 3373 — https://uscode.house.gov/view.xhtml?req=%28title%3A50+section%3A3373+edition%3Aprelim%29",
+"text": "Public Law 119-60 §1673(a) required the AARO Director, within 180 days of 18 December 2025, to make 'an accounting of security classification guides that apply to information used for reports and investigations of unidentified anomalous phenomena.'",
+"tier": 1
+},
+{
+"source": "House Committee on Oversight and Government Reform, 'Chairman Comer Taps Luna to Lead Task Force on Declassification and Transparency,' 11 February 2025 — https://oversight.house.gov/release/chairman-comer-taps-luna-to-lead-task-force-on-declassification-and-transparency",
+"text": "Chairman James Comer established the Task Force on the Declassification of Federal Secrets on 11 February 2025 under Rep. Anna Paulina Luna, authorized for six months pursuant to Committee Rules, and Comer and Luna transmitted 11 letters the same day.",
+"tier": 1
+},
+{
+"source": "House Oversight, 'Luna Opens Hearing on Restoring Public Trust Through UAP Transparency,' 9 September 2025 — https://oversight.house.gov/release/luna-opens-hearing-on-restoring-public-trust-through-uap-transparency",
+"text": "On 9 September 2025 Chairwoman Luna stated that DoD restricted UAP SAP read-ins to HASC and HAC-D members and that 'Independent SAP oversight has presented a consistent problem for Congress as the program's budgets are classified. Additionally, oversight reporting to Congress is classified, and is only provided to the authorizing and appropriations committees of jurisdiction.'",
+"tier": 1
+},
+{
+"source": "10 U.S.C. 119, Statutory Notes, 'Termination of Reporting Requirements' — https://uscode.house.gov/view.xhtml?req=granuleid%3AUSC-prelim-title10-section119&num=0&edition=prelim",
+"text": "The 10 U.S.C. 119 annual report to the defense committees enumerating every DoD special access program, its cost history and milestones, terminated effective 31 December 2021 under section 1061 of Public Law 114-328.",
+"tier": 1
+},
+{
+"source": "Congress.gov, S.Amdt.2610 to S.4638, 118th Congress — https://www.congress.gov/amendment/118th-congress/senate-amendment/2610/text; S.Amdt.3111 to S.2296, 119th Congress — https://www.congress.gov/amendment/119th-congress/senate-amendment/3111/text",
+"text": "Schumer and Rounds reintroduced the UAP Disclosure Act as Senate Amendment 2610 to S.4638 in the 118th Congress after the FY2024 conference strip-out, and a further version was offered as Senate Amendment 3111 to S.2296 in the 119th Congress.",
+"tier": 2
+}
+],
+"connections": [
+"David Grusch — 26 July 2023 sworn testimony is the proximate cause of the FY2024 NDAA UAP records provisions and of the Task Force's UAP line of inquiry.",
+"Sen. Chuck Schumer and Sen. Mike Rounds — authors of the UAP Disclosure Act; the eminent domain and Review Board provisions they wrote were stripped in the FY2024 conference and reintroduced as S.Amdt.2610 and S.Amdt.3111.",
+"Rep. Anna Paulina Luna, Rep. Eric Burlison, Rep. Tim Burchett, Chairman James Comer — the House Oversight axis; Burlison converted the Task Force's authority into contractor-directed interrogatories against MITRE and MIT Lincoln Laboratory in May 2026.",
+"AARO / 50 U.S.C. 3373 — the office Congress created and then repeatedly amended the statute to police, including the 2025 extension of the data mandate to DoD components.",
+"NARA and the Information Security Oversight Office — statutory custodian of Record Group 615; ISOO Director Michael D. Thomas was copied on Burlison's letters to both MIT Lincoln Laboratory and MITRE.",
+"GAO / Comptroller General — cleared auditors assigned by P.L. 117-263 §6803 to audit AARO's historical record report process.",
+"Chris Mellon, former Deputy Assistant Secretary of Defense for Intelligence — his characterization of AARO's report as 'the most error-ridden and unsatisfactory government report I can recall reading' was entered into the record by Luna on 9 September 2025.",
+"10 U.S.C. 119 and the DoD SAPCO architecture — the mechanism that keeps Oversight Committee members out of the material they are investigating."
+],
+"denialPosture": "Congress as an institution issues no denial; individual members and the Executive branch witnesses before them do. The operative denial in this lane is structural: DoD's response to congressional demands for UAP SAP access has been to invoke SAP read-in rules rather than to state that no such program exists, a posture Luna characterized on the record on 9 September 2025.",
+"narrative": "Congressional oversight of the legacy program problem has a structural defect that no amount of legislative will has cured: the committees with the appetite lack the access, and the committees with the access lack the appetite.\n\nThe modern sequence begins on 26 July 2023, when the House Oversight Committee's National Security subcommittee convened 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency.' Former National Reconnaissance Office and National Geospatial-Intelligence Agency officer David Grusch testified under oath alongside former Navy pilot Ryan Graves and retired Navy Commander David Fravor. Grusch alleged a decades-long crash-retrieval and reverse-engineering effort, recovery of non-human biologics, and misappropriation of funds to evade congressional oversight, and said the specifics required a classified setting. The hearing produced a printed transcript, a legislative wave, and no records.\n\nThe legislative wave crested in the FY2024 National Defense Authorization Act. Senators Chuck Schumer and Mike Rounds had drafted the Unidentified Anomalous Phenomena Disclosure Act, which passed the Senate with three teeth: a presidentially appointed nine-member Review Board, a Controlled Disclosure Campaign Plan, and federal eminent domain over recovered technologies of unknown origin and biological evidence of non-human intelligence held by private parties. Conference removed all three. What survived became sections 1841 through 1843 of Public Law 118-31, codified at 44 U.S.C. 2107 note: a UAP Records Collection at the National Archives, populated by 'copies of all Government, Government-provided, or Government-funded records relating to unidentified anomalous phenomena, technologies of unknown origin, and non-human intelligence,' housed by NARA in Record Group 615. The eminent domain provision — the only clause that would have compelled a private contractor to surrender physical material — was the one the private contractors did not have to face.\n\nWhat survived elsewhere in the same law is less discussed and arguably sharper. Section 1687(b) of P.L. 118-31 provides that, consistent with DoDI 3204.01, 'independent research and development funding relating to unidentified anomalous phenomena shall not be allowable as indirect expenses' on covered contracts 'unless such material and information is made available the appropriate congressional committees and congressional leadership.' Congress legislated, in the FY2024 NDAA, against a specific accounting mechanism by which a defense contractor could fund UAP work with taxpayer money routed through overhead and owe nobody an explanation. That provision is a fingerprint.\n\nThe permanent statute carries more. 50 U.S.C. 3373(l)(4) requires the AARO Director, every briefing period, to give the chairs and ranking members of the Armed Services and Intelligence committees 'an enumeration of any instances in which data relating to unidentified anomalous phenomena was not provided to the Office because of classification restrictions on that data or for any other reason.' Congress anticipated that its own office would be stonewalled by other parts of the Executive and built a tripwire. Section 3373(j) requires the Historical Record Report to reach back to 1 January 1945 and to itemize 'any program or activity that was protected by restricted access that has not been explicitly and clearly reported to Congress,' together with 'any efforts to obfuscate, manipulate public opinion, hide, or otherwise provide incorrect unclassified or classified information.' The Comptroller General was directed by section 6803 of P.L. 117-263 to audit that very report process with cleared GAO personnel and to brief Congress semiannually on it.\n\nCongress kept legislating. Public Law 119-60, enacted 18 December 2025, amended 50 U.S.C. 3373(f)(1)(A) so that the data-sharing mandate binds every component of the Department of Defense, not merely elements of the intelligence community — an amendment that would be pointless unless DoD components had been withholding under the old text. The same act added subsection (l)(5), requiring briefings to include details of NORAD and USNORTHCOM intercepts of UAP, with the first post-enactment briefing to reach back to 1 January 2004. Section 1673(a) ordered the AARO Director to make, within 180 days, 'an accounting of security classification guides that apply to information used for reports and investigations of unidentified anomalous phenomena.' Congress is now demanding an inventory of the classification instruments themselves.\n\nAgainst all of this stands the access problem. On 11 February 2025 Chairman James Comer created the Task Force on the Declassification of Federal Secrets under Rep. Anna Paulina Luna, authorized for six months under Committee Rules. On 9 September 2025 Luna told the public that DoD had informed her staff that only HASC and HAC-D members could be read into the relevant SAPs, and that any other Member required the approval of the chairman and ranking member of both. She added: 'Independent SAP oversight has presented a consistent problem for Congress as the program's budgets are classified.' That is the architecture of 10 U.S.C. 119 operating exactly as designed, against the committee investigating it.",
+"openQuestions": [
+"Has AARO ever actually delivered the 50 U.S.C. 3373(l)(4) enumeration of data withheld from it on classification grounds, and what did it contain? No unclassified version has surfaced.",
+"Did any defense contractor ever charge UAP-related IRAD to overhead prior to the FY2024 NDAA §1687(b) prohibition, and did any contracting officer disallow such charges afterward?",
+"Was the removal of eminent domain and the Review Board from the FY2024 NDAA driven by identifiable members, by contractor lobbying, or by Executive branch objection? The conference record does not attribute it.",
+"Which Members, if any, have been read into UAP-relevant waived SAPs through the 10 U.S.C. 119(e) twelve-member channel since 2021?",
+"Was the Task Force's six-month authorization renewed, and under what committee rule, given that it was still transmitting letters through Burlison in May 2026?",
+"Did GAO's cleared auditors identify compliance failures in AARO's historical record report process, and were those findings ever briefed in unclassified form?"
+],
+"roles": [
+"oversight",
+"disclosure",
+"concealment"
+],
+"whatItIs": "The congressional oversight apparatus for the legacy program question spans four venues with mismatched authorities: the House Committee on Oversight and Government Reform (broad jurisdiction, no SAP access), the House and Senate Armed Services and Appropriations committees (SAP access, narrow appetite), the two intelligence committees (Controlled Access Program access), and the twelve-member chairman-and-ranking-member channel through which waived Special Access Programs are reported under 10 U.S.C. 119(e). Since 2021 Congress has legislated repeatedly and specifically against concealment, and has been told, repeatedly and specifically, that there is nothing to conceal.",
+"whyImplicated": "Congress is not a bystander in this record; it is the party that wrote into permanent law the demand that the Executive account for 'any program or activity that was protected by restricted access that has not been explicitly and clearly reported to Congress.' That sentence exists in the United States Code because members with access to classified briefings concluded such programs might exist. Congress then legislated that AARO must enumerate every instance in which data was withheld from it on classification grounds, barred contractors from charging UAP-related independent research and development to overhead unless the material is furnished to Congress, and created a statutory UAP Records Collection at the National Archives. Each of those provisions is a countermeasure, and countermeasures are designed against something. What Congress has not obtained is compliance: the eminent-domain and Review Board provisions were stripped in conference, the annual SAP report requirement lapsed on 31 December 2021, and in September 2025 the chairwoman of the investigating task force told the public that DoD would not read her members in at all."
+},
+"entityInfo": null,
+"era": "1",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "oversight-congress",
+"l0": true,
+"label": "Congressional oversight of special access programs",
+"locLabel": null,
+"members": [
+{
+"cls": "person",
+"id": "anna-paulina-luna",
+"label": "Anna Paulina Luna",
+"tier": "A"
+},
+{
+"cls": "person",
+"id": "buck-mckeon",
+"label": "Howard P. \"Buck\" McKeon",
+"tier": "C"
+},
+{
+"cls": "domain",
+"id": "d-structure",
+"label": "Program structure and organisational mapping",
+"tier": "C"
+},
+{
+"cls": "document",
+"id": "dodig-2023-109",
+"label": "DoD OIG - Evaluation of the DoD's Actions Regarding Unidentified Anomalous Phenomena (DODIG-2023-109)",
+"tier": "A"
+},
+{
+"cls": "institution",
+"id": "house-armed-services",
+"label": "House Armed Services Committee",
+"tier": "C"
+},
+{
+"cls": "person",
+"id": "thad-cochran",
+"label": "Thad Cochran",
+"tier": "C"
+}
+],
+"short": "Congressional oversight of SAPs",
+"sources": [
+{
+"date": "2026-05-18",
+"name": "Archived: DoD Directive 5205.07, Special Access Program (SAP) Policy (Wayback 2026-05-18)",
+"url": "https://web.archive.org/web/20260518065512/https://www.esd.whs.mil/portals/54/documents/dd/issuances/dodd/520507p.pdf"
+},
+{
+"date": "2024-01-01",
+"name": "10 U.S.C. 119, Special access programs: congressional oversight",
+"url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim"
+},
+{
+"date": "2026-08-12",
+"name": "10 U.S.C. 119 (Cornell LII)",
+"url": "https://www.law.cornell.edu/uscode/text/10/119"
+},
+{
+"date": "2024-09-12",
+"name": "DoD Directive 5205.07, Special Access Program (SAP) Policy",
+"url": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf"
+},
+{
+"date": "2025-09-09",
+"name": "House Oversight Task Force on the Declassification of Federal Secrets, 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection' (CHRG-119hhrg61718, Serial No. 119-44)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm"
+}
+],
+"sub": "The statutory oversight mechanism, and the hole in it",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 227 of 1027, score 41). 12 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A3/D3.",
+"timeline": [
+{
+"date": "2025-09-09",
+"id": "ag-tl-2025-luna",
+"label": "Luna states the read-in gate on the record",
+"precision": "day",
+"strand": "oversight",
+"text": "'For a non-committee member to be allowed to view these documents and videos, individual members must be approved by the Chairman and Ranking Member of both HASC and HAC-D.' Mace adds: 'if you do not know it, you cannot get the information.'",
+"tier": "A"
+}
+]
+}

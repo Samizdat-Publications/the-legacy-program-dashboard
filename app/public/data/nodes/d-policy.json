@@ -1,0 +1,108 @@
+{
+"A": 2,
+"C": 0,
+"D": 2,
+"band": null,
+"claims": [
+{
+"source": "DoDD 5205.07",
+"text": "DoD Directive 5205.07 sets special access programme policy, categories and approval authority.",
+"tier": 1
+},
+{
+"source": "Avi Loeb, Medium, 1 July 2026",
+"text": "Avi Loeb published his own account of agreeing to lead a UAP Science Advisory Council for the US government, dated 1 July 2026.",
+"tier": 2
+},
+{
+"source": "Disclosure Foundation announcement",
+"text": "The Disclosure Foundation announced on 14 June 2026 that advisory board member Avi Loeb had been asked to assemble and lead a UAP Science Advisory Council of twelve scientists to support US government agencies with scientific analysis.",
+"tier": 2
+}
+],
+"cls": "domain",
+"cluster": "other",
+"connections": [
+{
+"claimTier": 1,
+"cls": "domain",
+"dateEnd": null,
+"dateStart": "1953-01-01",
+"direction": "out",
+"edgeLabel": "Directives implement classification authority",
+"id": "d-secrecy",
+"l0": false,
+"label": "Secrecy Law & Classification",
+"note": "DoDD 5205.07 is the directive-layer implementation of authority that derives from executive order rather than statute.",
+"sources": [
+{
+"date": "2024-09-12",
+"name": "DoD Directive 5205.07",
+"url": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf"
+}
+],
+"tier": "B",
+"type": "institutional"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "1953-01-01",
+"deg": 1,
+"denials": [],
+"desc": "Below statute and above practice sits the directive layer, and it is where most of the concealment rules actually live. DoD Directive 5205.07 defines what a special access programme is, who may approve one, and what the acknowledged, unacknowledged and waived categories mean in practice. Classification authority itself flows from executive order rather than from Congress, meaning the rules governing what may be hidden are written by the branch doing the hiding and can be rewritten without a vote. Reporting requirements imposed by NDAA are implemented through this layer, which gives the executive substantial control over what a statutory mandate actually produces - the difference between a report that answers a question and a report that satisfies a requirement. The 2025-2026 period added a further wrinkle with executive-branch initiative on the science side: the creation of a UAP Science Advisory Council, announced in mid-2026 and to be led by Harvard astronomer Avi Loeb, is a directive-layer act rather than a legislative one and can be unmade the same way. Scoring high on this domain means an entity signs, drafts or implements directives.",
+"domains": [
+"_rs-archive-mirror",
+"w2-taxonomy"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "d-policy",
+"l0": false,
+"label": "Executive Policy & Directives",
+"locLabel": null,
+"members": null,
+"short": "Executive Policy & Directives",
+"sources": [
+{
+"date": "2026-05-18",
+"name": "Archived: DoD Directive 5205.07, Special Access Program (SAP) Policy (Wayback 2026-05-18)",
+"url": "https://web.archive.org/web/20260518065512/https://www.esd.whs.mil/portals/54/documents/dd/issuances/dodd/520507p.pdf"
+},
+{
+"date": "2024-09-12",
+"name": "DoD Directive 5205.07, Special Access Program (SAP) Policy",
+"url": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf"
+},
+{
+"date": "2026-07-01",
+"name": "Avi Loeb - Why I Agreed to Lead the UAP Science Advisory Council for the U.S. Government",
+"url": "https://avi-loeb.medium.com/why-i-agreed-to-lead-the-uap-science-advisory-council-for-the-u-s-government-dde90610dfa2"
+},
+{
+"date": "2026-06-14",
+"name": "Disclosure Foundation - Advisory Board Member Avi Loeb to Lead New UAP Science Advisory Council",
+"url": "https://disclosure.org/news/uap-science-advisory-council"
+}
+],
+"sub": "Institutional domain - executive orders, DoD directives and agency instructions that set the rules",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 804 of 1027, score 18). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A2/D2.",
+"timeline": [
+{
+"date": "2026-07-01",
+"id": "tx-2026-loeb-council",
+"label": "An artifact-search advocate inside the tent",
+"precision": "month",
+"strand": "oversight",
+"text": "Avi Loeb publishes his account of agreeing to lead a UAP Science Advisory Council for the US government, after the Disclosure Foundation announced on 14 June 2026 that he had been asked to assemble and chair a twelve-member multidisciplinary council. It is a directive-layer creation rather than a statutory one, and can be unmade the same way.",
+"tier": 2
+}
+]
+}

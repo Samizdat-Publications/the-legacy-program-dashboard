@@ -1,0 +1,439 @@
+{
+"A": 3,
+"C": 1,
+"D": 3,
+"band": "funding",
+"claims": [
+{
+"source": "https://www.govinfo.gov/content/pkg/PLAW-119publ75/html/PLAW-119publ75.htm",
+"text": "Section 8006(a), DoD Appropriations Act 2026: the tables in the classified annex accompanying the Act are 'hereby required by law to be carried out in the manner provided by such tables to the same extent as if the tables were included in the text of this Act.'",
+"tier": 1
+},
+{
+"source": "https://www.govinfo.gov/content/pkg/PLAW-119publ60/html/PLAW-119publ60.htm",
+"text": "Section 4001(d), NDAA FY2026: 'Applicability to Classified Annex.--This section applies to any classified annex that accompanies this Act', where section 4001(a) authorises obligation and expenditure of any dollar amount specified in a funding table.",
+"tier": 1
+},
+{
+"source": "https://www.govinfo.gov/content/pkg/PLAW-119publ75/html/PLAW-119publ75.htm",
+"text": "Section 8059, DoD Appropriations Act 2026, directs a continuing classified quarterly report to the Appropriations Defense subcommittees 'on certain matters as directed in the classified annex accompanying this Act.'",
+"tier": 1
+},
+{
+"source": "https://www.govinfo.gov/content/pkg/PLAW-119publ60/html/PLAW-119publ60.htm",
+"text": "Section 5 of the NDAA FY2026 gives the joint explanatory statement printed in the Congressional Record on or about 10 December 2025 the same effect as a conference committee joint explanatory statement.",
+"tier": 1
+},
+{
+"source": "https://www.govinfo.gov/content/pkg/PLAW-119publ75/html/PLAW-119publ75.htm",
+"text": "The classified annex is the single mechanism by which an activity can be simultaneously funded by law and absent from every public document, because the statutory text incorporates it by reference without reproducing it. Reasoning: section 8006(a) equates the annex tables to statutory text; no publication requirement attaches to the annex; therefore an appropriation with full legal force exists that has no public expression at any level of detail.",
+"tier": 3
+}
+],
+"cls": "document",
+"cluster": "oversight",
+"connections": [
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": "2025-12-18",
+"direction": "in",
+"edgeLabel": "The one-word line item is the public face of the annex table",
+"id": "classified-programs-line",
+"l0": false,
+"label": "Line item 'CLASSIFIED PROGRAMS' / Program Element 9999999999",
+"note": "Section 4001 authorises obligation of amounts in the funding tables and applies to any classified annex accompanying the Act; the printed tables show only 'CLASSIFIED PROGRAMS' and a number, the annex shows the programme detail. Attested by the enacted text.",
+"sources": [
+{
+"date": "2025-12-18",
+"name": "NDAA FY2026, Secs. 4001, and Division D tables",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-119publ60/html/PLAW-119publ60.htm"
+}
+],
+"tier": "A",
+"type": "programmatic"
+},
+{
+"claimTier": 1,
+"cls": "domain",
+"dateEnd": null,
+"dateStart": "2026-02-03",
+"direction": "out",
+"edgeLabel": "the second set of numbers, given the same legal force and not printed in the Statutes at Large",
+"id": "d-funding",
+"l0": false,
+"label": "Funding Channels",
+"note": "Sec. 8006 of the FY2026 DoD Appropriations Act (P.L. 119-75, 3 Feb 2026) provides that obligation and expenditure for the programs, projects and activities listed in the tables in the classified annex 'are hereby required by law to be carried out in the manner provided by such tables.' Money directed by a document the public cannot read, with statutory force, is the definitional case of an unaccounted fund.",
+"sources": [
+{
+"date": "2026-02-03",
+"name": "Public Law 119-75, Department of Defense Appropriations Act, 2026 (Secs. 8005-8006) (GPO)",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-119publ75/pdf/PLAW-119publ75.pdf"
+}
+],
+"tier": "A",
+"type": "funding"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2024-09-12",
+"direction": "in",
+"edgeLabel": "DoDI 5205.11 para. 7.2.h - waived-programme justification materials go only to committee staff directors",
+"id": "dod-sapco",
+"l0": true,
+"label": "DoD Special Access Program Central Office (DoD SAPCO)",
+"note": "DoDI 5205.11 para. 7.2.h, 'Congressional Budget Justification Materials': 'The DoD will conform to all congressional reporting requirements. The DoD will submit to the congressional defense and intelligence committees such additional materials as are requested by the committees and are within the jurisdiction of each committee. Justification materials for waived programs will be presented only to the committee staff directors.' This is the best available primary evidence that DoD continued to route waived-programme justification material to the defense committees after the 31 December 2021 termination of 10 U.S.C. 119(a) and (b) - but note that it routes that material to staff directors rather than through the 119(e)(2) chair-and-ranking channel, and it rests on committee request rather than on a standing statutory reporting duty.",
+"sources": [
+{
+"date": null,
+"name": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf",
+"url": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf"
+},
+{
+"date": "2026-02-03",
+"name": "DoD Appropriations Act 2026 (P.L. 119-75), Secs. 8005-8009, 8059, 8084",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-119publ75/html/PLAW-119publ75.htm"
+},
+{
+"date": "2025-12-18",
+"name": "NDAA FY2026 (P.L. 119-60), Secs. 4, 5, 1001, 4001",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-119publ60/html/PLAW-119publ60.htm"
+}
+],
+"tier": "A",
+"type": "funding"
+},
+{
+"claimTier": 3,
+"cls": "person",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "The Comptroller executes the annex",
+"id": "michael-powers-comptroller",
+"l0": false,
+"label": "Michael Powers",
+"note": "The Under Secretary (Comptroller)/CFO is the official responsible for execution of appropriated funds including those directed by the classified annex tables under section 8006(a). Reasoned inference from the office's statutory functions; no document names the incumbent in connection with the annex.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Department of War Comptroller; DoD Appropriations Act 2026 Sec. 8006",
+"url": "https://comptroller.war.gov/"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "legislation",
+"dateEnd": null,
+"dateStart": "2025-12-18",
+"direction": "out",
+"edgeLabel": "Funding-table amounts, including the annex, do not count against the section 1001 ceiling",
+"id": "sec-1001-gta",
+"l0": false,
+"label": "Section 1001 General Transfer Authority (annual NDAA)",
+"note": "Section 4001(c) of the FY2026 NDAA states transfers or reprogrammings of funding-table amounts shall not count against the section 1001 ceiling unless funds move between appropriation accounts; section 4001(d) applies the section to any classified annex. Attested by the enacted text.",
+"sources": [
+{
+"date": "2025-12-18",
+"name": "NDAA FY2026, Sec. 4001",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-119publ60/html/PLAW-119publ60.htm"
+}
+],
+"tier": "C",
+"type": "legislative"
+},
+{
+"claimTier": 1,
+"cls": "legislation",
+"dateEnd": null,
+"dateStart": "2026-02-03",
+"direction": "out",
+"edgeLabel": "Annex tables are exempted from the section 8005 transfer ceiling",
+"id": "sec-8005-transfer",
+"l0": false,
+"label": "Section 8005 Transfer Authority (annual DoD Appropriations Act)",
+"note": "Section 8006(b) of the FY2026 Defense Appropriations Act provides that amounts in the classified annex tables are not subdivisions of appropriations for section 8005 purposes; section 8005 applies only to movements between appropriation accounts. Attested by the enacted statutory text.",
+"sources": [
+{
+"date": "2026-02-03",
+"name": "DoD Appropriations Act 2026, Secs. 8005-8006",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-119publ75/html/PLAW-119publ75.htm"
+}
+],
+"tier": "B",
+"type": "legislative"
+},
+{
+"claimTier": 1,
+"cls": "legislation",
+"dateEnd": null,
+"dateStart": "2026-02-03",
+"direction": "in",
+"edgeLabel": "NIP reprogramming is measured against levels that exist only in the annex",
+"id": "sec-8084-nip-reprogramming",
+"l0": false,
+"label": "Section 8084 - NIP reprogramming notification against classified annex levels",
+"note": "Section 8084(b) conditions NIP reprogramming notice on cumulative change to 'the levels specified in the classified annex accompanying the Act' - a public statute making the unpublished annex the operative baseline. Attested by the enacted text.",
+"sources": [
+{
+"date": "2026-02-03",
+"name": "DoD Appropriations Act 2026, Sec. 8084",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-119publ75/html/PLAW-119publ75.htm"
+}
+],
+"tier": "C",
+"type": "funding"
+},
+{
+"claimTier": 3,
+"cls": "document",
+"dateEnd": null,
+"dateStart": "2018-10-04",
+"direction": "in",
+"edgeLabel": "Accounting-side and appropriations-side concealment of the same activity",
+"id": "sffas-56",
+"l0": false,
+"label": "SFFAS 56 - Classified Activities (FASAB, 4 October 2018)",
+"note": "The classified annex conceals what was appropriated; SFFAS 56 permits the resulting spending to be reported in the wrong line of the public financial statement with no note. The inference is that the two together close the loop between authorisation and reporting; no document links them.",
+"sources": [
+{
+"date": "2018-10-04",
+"name": "SFFAS 56; DoD Appropriations Act 2026 Sec. 8006",
+"url": "https://files.fasab.gov/pdffiles/handbook_sffas_56.pdf"
+}
+],
+"tier": "B",
+"type": "programmatic"
+},
+{
+"claimTier": 2,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "four of the twelve seats are appropriations leadership",
+"id": "waived-sap-notification-group",
+"l0": true,
+"label": "Waived SAP Notification Group",
+"note": "The chair and ranking of both Appropriations Committees and both Defense Subcommittees sit in the 119(e)(2) group. This is the structural feature that distinguishes it from the Gang of Eight, which contains no appropriators, and it means the group's sight of a waived programme includes the money as well as the report.",
+"sources": [
+{
+"date": "2026-08-22",
+"name": "10 U.S.C. 119, Special Access Programs: congressional oversight — subsections (e)(2) and (g) (OLRC prelim text, read 22 August 2026)",
+"url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim"
+},
+{
+"date": "2026-02-03",
+"name": "DoD Appropriations Act 2026 (P.L. 119-75), Secs. 8005-8009, 8059, 8084",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-119publ75/html/PLAW-119publ75.htm"
+},
+{
+"date": null,
+"name": "https://www.appropriations.senate.gov/subcommittees/defense",
+"url": "https://www.appropriations.senate.gov/subcommittees/defense"
+}
+],
+"tier": "A",
+"type": "funding"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "1970",
+"deg": 9,
+"denials": [],
+"desc": "Every year Congress enacts two sets of numbers for the Department of Defense. One is printed in the United States Statutes at Large and can be read by anyone. The other is the classified annex, and it has been given, by express statutory text, exactly the same legal force. Section 8006(a) of the Department of Defense Appropriations Act for fiscal year 2026 (division of Public Law 119-75, approved 3 February 2026) provides that with regard to the programme, project and activity tables in the explanatory statement 'and the tables contained in the classified annex accompanying this Act, the obligation and expenditure of amounts appropriated or otherwise made available by this Act for those programs, projects, and activities are hereby required by law to be carried out in the manner provided by such tables to the same extent as if the tables were included in the text of this Act.' The authorisation side does the same thing: section 4001(d) of the National Defense Authorization Act for Fiscal Year 2026 (Public Law 119-60, approved 18 December 2025) states simply 'Applicability to Classified Annex.--This section applies to any classified annex that accompanies this Act', section 4001(a) having just provided that a dollar amount in a funding table is thereby authorised for obligation and expenditure. The annex is prepared by the four defense committees, is not printed in the Congressional Record, is not available to members who are not on the relevant committees without arrangement, and is never published. Its contents are the programme-element-level detail for classified activity: the actual line items, the actual dollar figures, the actual programme names. Section 8059 of the FY2026 appropriations act directs the Secretary of Defense to continue providing 'a classified quarterly report ... on certain matters as directed in the classified annex accompanying this Act' - the annex is thus itself the source of reporting requirements whose subject matter is unknown to the public. This is the structure that answers the question posed at the top of this board: money reaches a programme that does not appear as a budget line because the budget line exists, is legally binding, and is in a document nobody outside a small circle has read.",
+"domains": [
+"w2-black-budget"
+],
+"dossier": {
+"claims": [
+{
+"source": "Dakota S. Rudesill, \"Classified Legislation: Tracking Congress's Library of Secret Law,\" Lawfare, May 19, 2016, https://www.lawfaremedia.org/article/classified-legislation-tracking-congresss-library-secret-law",
+"text": "Congress attaches classified addenda to three annual national security acts -- the Intelligence Authorization Act, the National Defense Authorization Act, and the Department of Defense Appropriations Act -- and no addendum has ever been published, even in redacted form.",
+"tier": 1
+},
+{
+"source": "Rudesill, Lawfare, May 19, 2016, https://www.lawfaremedia.org/article/classified-legislation-tracking-congresss-library-secret-law",
+"text": "Over 36 years Congress wrote at least 124 provisions in 68 Public Laws that can reasonably be read to give classified addenda legal force; about half were full or partial incorporation provisions. Counting committee reports, Congress has produced at least 271 reports with classified addenda since 1977.",
+"tier": 1
+},
+{
+"source": "Rudesill, Lawfare, May 19, 2016, https://www.lawfaremedia.org/article/classified-legislation-tracking-congresss-library-secret-law",
+"text": "Virtually all annual Intelligence Authorization Acts stipulate at Section 102 that funding authorizations and personnel levels \"are those specified in the classified Schedule of Authorizations,\" and accompanying report language states that the classified Schedule \"is incorporated by reference in the Act and has the legal status of public law.\"",
+"tier": 1
+},
+{
+"source": "Rudesill, Lawfare, May 19, 2016, https://www.lawfaremedia.org/article/classified-legislation-tracking-congresss-library-secret-law",
+"text": "Congress has used annex-incorporation provisions to earmark specific sums invisibly, including $4.8 billion for \"classified programs, described...in the classified annex\" at the height of the Iraq war.",
+"tier": 1
+},
+{
+"source": "10 U.S.C. 119(e)(1), U.S. Code 2023 Edition, https://www.govinfo.gov/content/pkg/USCODE-2023-title10/html/USCODE-2023-title10-subtitleA-partI-chap2-sec119.htm",
+"text": "10 U.S.C. 119(e)(1) permits the Secretary of Defense to waive any requirement under subsections (a), (b) or (c) that certain information be included in a special access program report if the Secretary determines that inclusion \"would adversely affect the national security,\" on a case-by-case basis.",
+"tier": 1
+},
+{
+"source": "10 U.S.C. 119(e)(2), https://www.govinfo.gov/content/pkg/USCODE-2023-title10/html/USCODE-2023-title10-subtitleA-partI-chap2-sec119.htm",
+"text": "When the Secretary of Defense exercises the 10 U.S.C. 119(e) waiver, the withheld information and the waiver justification go only \"jointly to the chairman and ranking minority member of each of the defense committees\" -- twelve members of Congress.",
+"tier": 1
+},
+{
+"source": "Statutory note, \"Termination of Reporting Requirements,\" 10 U.S.C. 119, https://www.govinfo.gov/content/pkg/USCODE-2023-title10/html/USCODE-2023-title10-subtitleA-partI-chap2-sec119.htm",
+"text": "The annual DoD special access program report (10 U.S.C. 119(a)) and the annual new-SAP notice and justification (10 U.S.C. 119(b)) were terminated effective December 31, 2021 by section 1061 of Public Law 114-328, the FY2017 NDAA.",
+"tier": 1
+},
+{
+"source": "DoDI 5205.11, \"Management, Administration, and Oversight of DoD Special Access Programs (SAPs),\" February 6, 2013, Glossary, https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf",
+"text": "DoD Instruction 5205.11 defines a waived SAP as \"A SAP for which the SecDef has waived applicable reporting ... following a determination of adverse effect to national security. An unacknowledged SAP that has more restrictive reporting and access controls than other unacknowledged SAPs.\"",
+"tier": 1
+},
+{
+"source": "Hearing transcript, \"Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency,\" House Committee on Oversight and Accountability, Subcommittee on National Security, the Border, and Foreign Affairs, July 26, 2023, https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm",
+"text": "Asked in sworn testimony how a concealed UAP crash-retrieval program is funded, David Grusch answered: \"I will give you generalities. I can get very specific in a closed session. But misappropriation of funds and self-fund.\"",
+"tier": 1
+},
+{
+"source": "Leslie Kean and Ralph Blumenthal, \"Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin,\" The Debrief, June 5, 2023, https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/",
+"text": "In statements cleared for open publication by the DoD Office of Prepublication and Security Review on April 4 and 6, 2023, Grusch stated: \"When you have multiple agencies nesting UAP activities in conventional SAP/CAP programs, both as recipients of exploitation-related insights and for operational reasons, without appropriate reporting to various oversight authorities, you have a problem.\"",
+"tier": 2
+},
+{
+"source": "50 U.S.C. 3373b(a)(4)(B), https://uscode.house.gov/view.xhtml?req=(title:50+section:3373b)",
+"text": "50 U.S.C. 3373b(a)(4)(B), enacted as section 1673 of Public Law 117-263 on December 23, 2022, requires the Secretary of Defense within 72 hours to report to the congressional defense and intelligence committees and congressional leadership any authorized UAP disclosure relating to \"a restricted access activity, a special access program, or a compartmented access program that has not been explicitly and clearly reported\" to those committees.",
+"tier": 1
+},
+{
+"source": "AARO, \"Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP), Volume I,\" 2024, https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf",
+"text": "AARO's own historical review states: \"In 2021, without sufficient justification, the scope of an IC Controlled Access Program was expanded to protect UAP reverse-engineering. This program never recovered or reverse-engineered any UAP or extraterrestrial spacecraft. This IC program was disestablished due to its lack of merit.\"",
+"tier": 2
+},
+{
+"source": "Pub. L. 118-31, div. A, title XVIII, subtitle C, sec. 1843(a), Dec. 22, 2023, 137 Stat. 699, reproduced at https://www.archives.gov/about/laws/nara.html#uaps",
+"text": "Under section 1843(a) of the FY2024 NDAA, postponement of public disclosure of a UAP record is decided by \"the original classification authority\" -- the originating agency -- upon a determination of \"clear and convincing evidence\" of enumerated harms; the enacted subtitle creates no independent review board to test that determination.",
+"tier": 1
+}
+],
+"connections": [
+"10 U.S.C. 119 is the statutory hinge shared with dodi-5205-11: DoDI 5205.11 implements Section 119, and its 'waived SAP' category exists only because Section 119(e) authorizes the waiver.",
+"Section 1673 of the FY2023 NDAA (50 U.S.C. 3373b), drafted with input from David Grusch while he was in government, created the 72-hour tripwire for programs not reported to the defense or intelligence committees -- the direct legislative counterpart to grusch-misappropriation-allegation.",
+"Sections 1841-1843 of the FY2024 NDAA (nara-rg615) transplant the annex logic into the disclosure regime by leaving postponement to the original classification authority.",
+"Senate Majority Leader Chuck Schumer's UAP Disclosure Amendment, quoted at the July 26, 2023 hearing for the phrase 'technologies of unknown origins, non-human intelligence, and unexplainable phenomena,' was the legislative attempt to break the annex model.",
+"AARO's admitted 2021 expansion of an IC Controlled Access Program 'to protect UAP reverse-engineering' links this mechanism directly to manhattan-project-2 and to the AAWSAP/AATIP-KONA BLUE lineage.",
+"Christopher Mellon, former Deputy Assistant Secretary of Defense for Intelligence, arranged the first congressional staff briefings on retrievals (Senate Armed Services staff, October 21, 2019; Senate Intelligence staff two days later), working the same committee channel the annexes flow through."
+],
+"denialPosture": "There is no denial to catalogue here, because the mechanism is openly documented in statute and doctrine and defended on its merits: the Intelligence Community's chief lawyer has publicly agreed that classified schedules carry the legal status of public law. The concealment is not denied; it is legislated.",
+"narrative": "The classified annex is the least glamorous object on this board and the most important. It is the mechanism that makes the rest of the question -- who, where, under what authority, paid for how -- answerable in principle and unanswerable in practice.\n\nDakota Rudesill, a former Senate Budget Committee staffer and Intelligence Community official, published the only serious empirical study of the practice. His finding: over thirty-six years Congress wrote at least 124 provisions in 68 Public Laws that can reasonably be read to give classified addenda the force of law, and produced at least 271 committee reports carrying classified addenda since 1977. About half of the 124 were incorporation provisions -- statutory text whose entire operative content is a pointer to a document nobody outside the compartment will ever see. The standard formulation appears at Section 102 of virtually every Intelligence Authorization Act: the amounts authorized and the personnel ceilings \"are those specified in the classified Schedule of Authorizations.\" Accompanying report language routinely states that the Schedule \"is incorporated by reference in the Act and has the legal status of public law.\" The Intelligence Community's own top lawyer has agreed with that characterization.\n\nRudesill is careful, and his carefulness is itself evidence. He notes that nothing is publicly known about the length of any annex -- \"An individual addendum could be two pages long, or 20, or 200\" -- and that each committee invites members to read the addenda in a secure room, but \"few do.\" He also records that the practice accelerated: Congress wrote more force-of-law annex provisions in 2011-2015 than in the first eight Congresses of the practice combined, from 1977 to 1992. This is the shape of a mechanism that grew because it worked.\n\nThe second layer is statutory rather than procedural. 10 U.S.C. 119 is the SAP oversight statute. Subsection (a) requires an annual March 1 report to the six defense committees listing every DoD special access program, with descriptions, milestones, actual costs by year, and estimated costs across a six-year horizon. Subsection (b) requires a February 1 notice and justification for every new SAP. Subsection (f) forbids initiating a SAP until the defense committees are notified and thirty days elapse. On its face this is real oversight.\n\nSubsection (e) is the escape hatch. The Secretary of Defense \"may waive any requirement under subsection (a), (b), or (c) that certain information be included in a report\" upon determining that inclusion \"would adversely affect the national security.\" When he does, the information and the justification go \"jointly to the chairman and ranking minority member of each of the defense committees\" -- twelve members of Congress, no staff specified. DoD Instruction 5205.11 builds the corresponding category into doctrine: a waived SAP is \"An unacknowledged SAP that has more restrictive reporting and access controls than other unacknowledged SAPs.\"\n\nThe third layer is the one almost nobody has noticed. The U.S. Code note appended to Section 119 reads: \"For termination, effective Dec. 31, 2021, of provisions in subsecs. (a) and (b) of this section requiring submittal of annual report to Congress, see section 1061 of Pub. L. 114-328.\" The annual SAP report and the new-SAP notice -- the two provisions that produced a written, dated, comprehensive inventory of the black budget's program structure -- were swept away by a generic reporting-burden sunset enacted in the FY2017 NDAA. The subsection (e) waiver survives; the reports it was designed to abridge do not.\n\nAgainst that background, Congress in December 2022 legislated a tell. 50 U.S.C. 3373b(a)(4)(B) -- Section 1673 of the FY2023 NDAA -- requires the Secretary of Defense, within 72 hours, to report to the defense and intelligence committees and to congressional leadership any authorized UAP disclosure that relates to \"a restricted access activity, a special access program, or a compartmented access program that has not been explicitly and clearly reported to the congressional defense committees or the congressional intelligence committees.\" Congress does not write 72-hour tripwires for hypotheticals. The statute is a signed, dated legislative acknowledgment that unreported access programs are a live possibility.\n\nAARO has since conceded, in its own words, one instance: \"In 2021, without sufficient justification, the scope of an IC Controlled Access Program was expanded to protect UAP reverse-engineering.\" AARO adds that the program never recovered or reverse-engineered anything and was disestablished for lack of merit. Set aside the exculpatory half. The admitted half is that a controlled access program was expanded without sufficient justification, in 2021, specifically to protect UAP reverse-engineering -- which is precisely the nesting behavior Grusch described when he said agencies were \"nesting UAP activities in conventional SAP/CAP programs ... without appropriate reporting to various oversight authorities.\"\n\nFinally, the annex logic reappears in the disclosure statute itself. Under Section 1843 of the FY2024 NDAA, a UAP record may be withheld from the National Archives collection when \"the original classification authority makes a determination that there is clear and convincing evidence\" of enumerated harms. The original classification authority is the agency holding the record. The annex principle -- the withholder judges the withholding -- survived into the law written to end it.",
+"openQuestions": [
+"Whether any classified annex from 1944 to the present contains a line item, program identifier or nickname corresponding to a materials-retrieval or exploitation effort -- no annex has ever been released.",
+"Which specific SAPs, if any, have had 10 U.S.C. 119(e) waivers applied to them, and how many waivers have been issued in total; the statute requires no public accounting.",
+"Whether the December 31, 2021 termination of the 119(a) and 119(b) reporting requirements was substantively debated or was a drafting artifact of a generic reporting-burden sunset.",
+"Whether the DoD or IC has ever complied with the 72-hour notification requirement of 50 U.S.C. 3373b(a)(4)(B), and how many such notifications have been made.",
+"The identity of the IC Controlled Access Program whose scope AARO says was expanded in 2021 'without sufficient justification' to protect UAP reverse-engineering, and who authorized the expansion."
+],
+"roles": [
+"funding",
+"concealment",
+"oversight"
+],
+"whatItIs": "The classified addenda -- variously called annexes, schedules, appendices and supplements -- attached to the three annual national security statutes (Intelligence Authorization Act, National Defense Authorization Act, Department of Defense Appropriations Act) and to the committee reports that accompany them. Together with the classified notification channels of 10 U.S.C. 119, they are the legal machinery by which Congress appropriates money and issues binding direction to programs whose existence is not public. No classified annex has ever been published, in any form, redacted or otherwise.",
+"whyImplicated": "If a legacy retrieval and reverse-engineering effort has been funded for eight decades, the money moved through this channel, because there is no other channel that both carries the force of law and never surfaces. The annex system is not a leak in oversight; it is a purpose-built container that gives classified direction \"the legal status of public law\" while keeping it in a safe in a secure room that few members ever enter. Layered on top of it, 10 U.S.C. 119(e) lets the Secretary of Defense strip specified content out of the Special Access Program reports entirely and deliver it to only twelve people -- the chair and ranking member of six bodies. And the statutory backbone that forced annual SAP disclosure at all, 10 U.S.C. 119(a) and (b), was terminated effective December 31, 2021 by a sunset provision Congress itself enacted. David Grusch's sworn answer to the funding question -- \"misappropriation of funds and self-fund\" -- describes an abuse that this architecture is uniquely well designed to conceal, because the annex records what Congress intended to buy but the public record cannot be reconciled against it."
+},
+"entityInfo": null,
+"era": "1",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "classified-annex",
+"l0": true,
+"label": "The Classified Annex (NDAA and Defense Appropriations)",
+"locLabel": null,
+"members": [
+{
+"cls": "document",
+"id": "classified-programs-line",
+"label": "Line item 'CLASSIFIED PROGRAMS' / Program Element 9999999999",
+"tier": "A"
+},
+{
+"cls": "domain",
+"id": "d-funding",
+"label": "Funding Channels",
+"tier": "A"
+},
+{
+"cls": "person",
+"id": "michael-powers-comptroller",
+"label": "Michael Powers",
+"tier": "B"
+},
+{
+"cls": "legislation",
+"id": "sec-1001-gta",
+"label": "Section 1001 General Transfer Authority (annual NDAA)",
+"tier": "C"
+},
+{
+"cls": "legislation",
+"id": "sec-8005-transfer",
+"label": "Section 8005 Transfer Authority (annual DoD Appropriations Act)",
+"tier": "B"
+},
+{
+"cls": "legislation",
+"id": "sec-8084-nip-reprogramming",
+"label": "Section 8084 - NIP reprogramming notification against classified annex levels",
+"tier": "C"
+},
+{
+"cls": "document",
+"id": "sffas-56",
+"label": "SFFAS 56 - Classified Activities (FASAB, 4 October 2018)",
+"tier": "B"
+}
+],
+"short": "The Classified Annex (NDAA and Defense Appropriations)",
+"sources": [
+{
+"date": "2026-02-03",
+"name": "DoD Appropriations Act 2026 (P.L. 119-75), Secs. 8005-8009, 8059, 8084",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-119publ75/html/PLAW-119publ75.htm"
+},
+{
+"date": "2025-12-18",
+"name": "NDAA FY2026 (P.L. 119-60), Secs. 4, 5, 1001, 4001",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-119publ60/html/PLAW-119publ60.htm"
+}
+],
+"sub": "Unpublished companion document carrying the force of law over classified programme funding",
+"tier": "A",
+"tierRationale": "Re-graded A on a global pass (rank 111 of 1027, score 59). 9 connections, 6 of them custody/witness/funding/programmatic. Axes C1/A3/D3.",
+"timeline": [
+{
+"date": "2025-12-18",
+"id": "bb-tl-2025-12-18-ndaa26",
+"label": "FY2026 NDAA: classified annex given statutory force; UAP reporting trimmed",
+"precision": "day",
+"strand": "oversight",
+"text": "Public Law 119-60 is approved. Section 4001(d) applies the funding-table authorisation to 'any classified annex that accompanies this Act'; section 6102 provides that intelligence amounts 'are those specified in the classified Schedule of Authorizations' which the President 'shall not publicly disclose'. Section 1672 repeals 50 U.S.C. 3373a; section 1673 orders AARO to inventory the security classification guides covering UAP within 180 days.",
+"tier": "A"
+},
+{
+"date": "2026-02-03",
+"id": "bb-tl-2026-02-03-approps",
+"label": "FY2026 Defense Appropriations Act enacted",
+"precision": "day",
+"strand": "oversight",
+"text": "Public Law 119-75 is approved. Section 8005 carries $6 billion of transfer authority; section 8006(a) gives the classified annex tables the force of statutory text; section 8006(b) exempts annex line items from the transfer ceiling; section 8009 requires 30 days notice before initiating or materially modifying a special access program; section 8084(b) makes 'the levels specified in the classified annex' the baseline for NIP reprogramming.",
+"tier": "A"
+}
+]
+}

@@ -1,0 +1,193 @@
+{
+"A": 1,
+"C": 0,
+"D": 3,
+"affiliations": [
+"Rockefeller Brothers Fund",
+"Rockefeller Family & Associates",
+"Rockefeller Initiative (1993-1996)"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "1993-01-01",
+"event": "Begins funding and organising the UFO disclosure initiative through Rockefeller Family & Associates.",
+"precision": "year"
+},
+{
+"date": "1995-01-01",
+"event": "'The Best Available Evidence' briefing document is produced and distributed to officials and legislators worldwide.",
+"precision": "year"
+},
+{
+"date": "1995-07-28",
+"event": "GAO publishes its Roswell records report; the report is retained in the Clinton White House Roswell file (2006-0476-F).",
+"precision": "day"
+},
+{
+"date": "1995-08-21",
+"event": "President and Mrs Clinton visit Rockefeller's JY Ranch in Jackson, Wyoming - documented in Clinton Library FOIA collection 2006-0546-F.",
+"precision": "day"
+},
+{
+"date": "1996-01-01",
+"event": "Initiative winds down without a declassification decision.",
+"precision": "year"
+},
+{
+"date": "2004-07-11",
+"event": "Dies, aged 94.",
+"precision": "day"
+}
+],
+"claims": [
+{
+"source": "Clinton Digital Library collection finding aid, identifier 2006-0480-F",
+"text": "The Clinton Presidential Library holds a FOIA collection (2006-0480-F) consisting of correspondence between President Clinton and Laurance Rockefeller.",
+"tier": 1
+},
+{
+"source": "Clinton Digital Library collection finding aid, identifier 2006-0546-F",
+"text": "The Clinton Library holds photographs of the Clintons' 21 August 1995 visit to Laurance Rockefeller's JY Ranch, Jackson, Wyoming (2006-0546-F).",
+"tier": 1
+},
+{
+"source": "Clinton Digital Library collection finding aid, identifier 2006-0476-F",
+"text": "The Clinton White House maintained a Roswell file - FOIA collection 2006-0476-F - containing correspondence, reports and email regarding the July 1947 Roswell crash, including the July 1995 GAO report.",
+"tier": 1
+},
+{
+"source": "Contemporaneous accounts by initiative participants including Marie Galbraith; Clinton Library correspondence collections",
+"text": "Rockefeller funded and directed a sustained 1993-1996 effort to obtain presidential declassification of US government UFO records, working through the White House science adviser's office.",
+"tier": 2
+}
+],
+"cls": "person",
+"cluster": "other",
+"conflicts": [
+"No declassification order resulted. The White House files that were opened contain public correspondence and the unclassified GAO report rather than any intelligence-community material."
+],
+"connections": [
+{
+"claimTier": 3,
+"cls": "person",
+"dateEnd": "2001",
+"dateStart": "1993",
+"direction": "out",
+"edgeLabel": "The initiative worked the Clinton White House while Podesta was Staff Secretary and later Chief of Staff",
+"id": "john-podesta",
+"l0": false,
+"label": "John D. Podesta",
+"note": "Podesta held senior White House staff positions throughout the initiative's life and has since publicly and repeatedly demanded UFO declassification, including at the National Press Club on 22 October 2002.",
+"sources": [
+{
+"date": "2019-09-16",
+"name": "Clinton Digital Library, FOIA collection 2006-0480-F, 'Laurance Rockefeller' (Clinton-Rockefeller correspondence)",
+"url": "https://clinton.presidentiallibraries.us/items/show/36323"
+},
+{
+"date": "2019-09-16",
+"name": "Clinton Digital Library, FOIA collection 2006-0474-F, 'Unidentified Flying Objects (UFO)' (Greer/CSETI correspondence)",
+"url": "https://clinton.presidentiallibraries.us/items/show/36386"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 2,
+"cls": "program",
+"dateEnd": "1996",
+"dateStart": "1993",
+"direction": "out",
+"edgeLabel": "Rockefeller financed and directed the 1993-1996 disclosure initiative",
+"id": "rockefeller-initiative",
+"l0": false,
+"label": "The Rockefeller UFO Disclosure Initiative",
+"note": "Rockefeller Family & Associates funded the effort, its briefing document and its distribution to officials and heads of state.",
+"sources": [
+{
+"date": "2019-09-16",
+"name": "Clinton Digital Library, FOIA collection 2006-0480-F, 'Laurance Rockefeller' (Clinton-Rockefeller correspondence)",
+"url": "https://clinton.presidentiallibraries.us/items/show/36323"
+},
+{
+"date": "2019-09-16",
+"name": "Clinton Digital Library, FOIA collection 2006-0546-F, 'Laurance Rockefeller' (photographs, JY Ranch visit 21 Aug 1995)",
+"url": "https://clinton.presidentiallibraries.us/items/show/36326"
+}
+],
+"tier": "C",
+"type": "funding"
+}
+],
+"date": "1995-08-21",
+"dateEnd": null,
+"dateStart": "1995-08-21",
+"deg": 2,
+"denials": [],
+"domains": [
+"history-1970s-2000s"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "1",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "laurance-rockefeller",
+"instId": "rockefeller-initiative",
+"l0": false,
+"label": "Laurance S. Rockefeller",
+"loc": "New York, NY",
+"locId": "l-dc",
+"members": null,
+"narrative": "Rockefeller ran the only serious private attempt to force UFO declassification from inside the American establishment, and he did it with money, access and a written brief rather than a press conference. From 1993 he funded what became known as the Rockefeller Initiative: a coordinated effort to persuade President Clinton to declassify the government's UFO holdings. He financed the compilation of 'Unidentified Flying Objects Briefing Document: The Best Available Evidence,' produced under Marie 'Bootsie' Galbraith with Stanton Friedman and Don Berliner, and distributed it in 1995 to members of Congress, heads of state and senior officials. He raised the subject directly with the Clintons - the Clinton Library's own FOIA collections include a file of correspondence between President Clinton and Laurance Rockefeller (2006-0480-F) and a photographic collection documenting the Clintons' visit to Rockefeller's JY Ranch in Jackson, Wyoming on 21 August 1995 (2006-0546-F), the visit at which he is reported to have pressed the case. The initiative worked through the Office of Science and Technology Policy and the White House science adviser rather than the intelligence community, which is precisely why it failed: OSTP had no jurisdiction over the compartments. What it did produce is a documented record of a private citizen with unmatched access asking a sitting president to open the files, and the president's apparatus declining. The Roswell file the White House did assemble (2006-0476-F) contains the 1995 GAO report and public correspondence - the residue of a request that was routed to the unclassified surface.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Laurance S. Rockefeller",
+"sources": [
+{
+"date": "2019-09-16",
+"name": "Clinton Digital Library, FOIA collection 2006-0480-F, 'Laurance Rockefeller' (Clinton-Rockefeller correspondence)",
+"url": "https://clinton.presidentiallibraries.us/items/show/36323"
+},
+{
+"date": "2019-09-16",
+"name": "Clinton Digital Library, FOIA collection 2006-0546-F, 'Laurance Rockefeller' (photographs, JY Ranch visit 21 Aug 1995)",
+"url": "https://clinton.presidentiallibraries.us/items/show/36326"
+},
+{
+"date": "2019-09-16",
+"name": "Clinton Digital Library, FOIA collection 2006-0476-F, 'New Mexico Roswell'",
+"url": "https://clinton.presidentiallibraries.us/items/show/36328"
+},
+{
+"date": "1995-07-28",
+"name": "GAO/NSIAD-95-187, 'Government Records: Results of a Search for Records Concerning the 1947 Crash Near Roswell, New Mexico'",
+"url": "https://www.govinfo.gov/content/pkg/GAOREPORTS-NSIAD-95-187/html/GAOREPORTS-NSIAD-95-187.htm"
+}
+],
+"status": "dead",
+"sub": "Financier and philanthropist; funder of the 1993-1996 Rockefeller UFO Disclosure Initiative",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 601 of 1027, score 25). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A1/D3.",
+"timeline": [
+{
+"date": "1995-08-21",
+"id": "t-1995-jyranch",
+"label": "Clintons visit Rockefeller's JY Ranch",
+"precision": "day",
+"strand": "oversight",
+"text": "The President and First Lady visit Laurance Rockefeller in Jackson, Wyoming - documented in Clinton Library FOIA collection 2006-0546-F, and the occasion on which Rockefeller is reported to have pressed the disclosure case directly.",
+"tier": "A"
+}
+],
+"unexplainedResidual": null,
+"unverified": [
+"The substance of what Rockefeller said to Clinton at JY Ranch is not documented in any released record."
+]
+}

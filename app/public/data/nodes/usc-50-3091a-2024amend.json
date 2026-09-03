@@ -1,0 +1,113 @@
+{
+"A": 0,
+"C": 0,
+"D": 0,
+"band": null,
+"claims": [
+{
+"source": "https://www.govinfo.gov/content/pkg/PLAW-118publ159/html/PLAW-118publ159.htm",
+"text": "Sec. 6602 inserts a new 50 U.S.C. 3091a(c), verbatim: 'Limitation on Spending.--Funds authorized to be appropriated for the National Intelligence Program may not be obligated or expended for any controlled access program, or a compartment or subcompartment therein, until the head of the element of the intelligence community responsible for the establishment of such program, compartment, or subcompartment, submits the notification required by subsection (b).' Applies only to CAPs 'established on or after the date of the enactment of this Act.'",
+"tier": 1
+},
+{
+"source": "https://www.govinfo.gov/content/pkg/PLAW-118publ159/html/PLAW-118publ159.htm",
+"text": "THE CAP-TO-SAP LAUNDERING BAR. Sec. 6603 adds 50 U.S.C. 3091a(b)(2)(A), verbatim: 'Except as provided in subparagraph (B), a head of an element of the intelligence community may not transfer a capability from a controlled access program, including from a compartment or subcompartment therein to a compartment or subcompartment of another controlled access program, to a special access program (as defined in section 1152(g) of the National Defense Authorization Act for Fiscal Year 1994 (50 U.S.C. 3348(g))), or to anything else outside the controlled access program, until the head submits to the appropriate congressional committees and congressional leadership notice of the intent of the head to make such transfer.' Text at 138 STAT. 2507-2508.",
+"tier": 1
+},
+{
+"source": "https://www.govinfo.gov/content/pkg/PLAW-118publ159/html/PLAW-118publ159.htm",
+"text": "THE TWO EXITS. Sec. 6603 adds subparagraph (B), verbatim: 'Exception.--The head of an element of the intelligence community may make a transfer described in subparagraph (A) without prior congressional notification if the head determines that doing so-- (i) is required to mitigate an urgent counterintelligence issue; or (ii) is necessary to maintain access in the event of an organizational restructuring.' Neither exception carries a deadline for after-the-fact notice, a reporting requirement, or a time limit.",
+"tier": 1
+},
+{
+"source": "https://www.govinfo.gov/content/pkg/PLAW-118publ159/html/PLAW-118publ159.htm",
+"text": "Congress in December 2024 wrote an express statutory prohibition on moving a capability out of an IC controlled access program and into a DoD-style special access program without notice. That prohibition only makes sense as a response to a believed or feared practice; the statute is itself evidence that the CAP-to-SAP transfer route was live enough to legislate against. The two exceptions -- 'urgent counterintelligence issue' and 'organizational restructuring' -- are self-certified by the same official making the transfer and are exactly the two rationales a program seeking to move would assert. Reasoning stated from the text of 3091a(b)(2).",
+"tier": 3
+}
+],
+"cls": "legislation",
+"cluster": "other",
+"connections": [
+{
+"claimTier": 3,
+"cls": "domain",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "6603 bars CAP-to-SAP capability transfer without notice",
+"id": "sap-taxonomy",
+"l0": false,
+"label": "Acknowledged, unacknowledged and waived — the three states of a DoD SAP",
+"note": "Tier 3 because this is a reading of what the amendment does to the taxonomy, not a quotation about it. Sec. 6603's new 50 U.S.C. 3091a(b)(2)(A) bars the head of an IC element from transferring a capability out of a controlled access program, subject to the two exits at (B). The categories on this board are not merely descriptive after December 2024: Congress attached a statutory consequence to which box a capability sits in, which is what makes the CAP/SAP distinction load-bearing rather than nomenclature. The verbatim text of both subparagraphs is on the amendment node.",
+"sources": [
+{
+"date": "2024-12-23",
+"name": "Pub. L. 118-159 (FY2025 NDAA), secs. 6602 and 6603",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-118publ159/html/PLAW-118publ159.htm"
+}
+],
+"tier": "A",
+"type": "programmatic"
+},
+{
+"claimTier": 1,
+"cls": "legislation",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "Pub. L. 118-159 secs. 6602-6603",
+"id": "usc-50-3091a",
+"l0": false,
+"label": "50 U.S.C. 3091a — Congressional Oversight of Controlled Access Programs",
+"note": "Pub. L. 118-159 secs. 6602 and 6603, approved 23 December 2024, amend this section: 6602 inserts a new subsection (c) limiting National Intelligence Program spending, and 6603 adds subsection (b)(2)(A) with its exception at (B). The OLRC text carries the amendment note and records that subsection (c) 'shall apply with respect to controlled access programs ... that are established on or after the date of the enactment of this Act', so the new limit is prospective only and existing compartments are untouched by it. Statute read on 22 August 2026; the verbatim section text is already on the amendment node from the enacted public law.",
+"sources": [
+{
+"date": "2026-08-22",
+"name": "50 U.S.C. 3091a, Congressional oversight of controlled access programs (OLRC prelim, read 22 August 2026)",
+"url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3091a&num=0&edition=prelim"
+},
+{
+"date": "2024-12-23",
+"name": "Pub. L. 118-159 (FY2025 NDAA), secs. 6602 and 6603",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-118publ159/html/PLAW-118publ159.htm"
+}
+],
+"tier": "A",
+"type": "programmatic"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": null,
+"deg": 2,
+"denials": [],
+"desc": "FY2025 Intelligence Authorization Act (div. F of Pub. L. 118-159, 23 Dec 2024) amendments to 50 U.S.C. 3091a.",
+"domains": [
+"_rs-sap-docs"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "nd",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "usc-50-3091a-2024amend",
+"l0": false,
+"label": "Pub. L. 118-159 secs. 6602 & 6603 — CAP funding cutoff and the CAP-to-SAP transfer bar",
+"locLabel": null,
+"members": null,
+"short": "Pub. L. 118-159 secs. 6602 & 6603 — CAP funding cutoff and the CAP-to-SAP transfer bar",
+"sources": [
+{
+"date": "2024-12-23",
+"name": "Public Law 118-159, Servicemember Quality of Life Improvement and National Defense Authorization Act for Fiscal Year 2025 (incl. div. F, Intelligence Authorization Act for FY2025) — full text, GPO",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-118publ159/html/PLAW-118publ159.htm"
+}
+],
+"sub": "statute",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 806 of 1027, score 18). 2 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A0/D0.",
+"timeline": []
+}

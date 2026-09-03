@@ -1,0 +1,1391 @@
+{
+ "byNode": {
+  "aaro": [
+   {
+    "agency": "OSD",
+    "partial": [],
+    "questions": [
+     3
+    ],
+    "request": "F8",
+    "sendTo": "OSD/JS FOIA Requester Service Center, with routing to DoD SAPCO for equity review. Expect a referral. File it anyway, because a referral creates a dated record that the document was located.",
+    "status": "not filed",
+    "title": "OSD - the Abba memorandum and the STAOC charter"
+   },
+   {
+    "agency": "OSD / AARO",
+    "partial": [],
+    "questions": [
+     0
+    ],
+    "request": "F11",
+    "sendTo": "OSD/JS FOIA Requester Service Center, with AARO equity.",
+    "status": "not filed",
+    "title": "OSD / AARO - the Volume II working file"
+   }
+  ],
+  "aaro-fy2025-annual-report": [
+   {
+    "agency": "OSD",
+    "partial": [],
+    "questions": [
+     4
+    ],
+    "request": "F8",
+    "sendTo": "OSD/JS FOIA Requester Service Center, with routing to DoD SAPCO for equity review. Expect a referral. File it anyway, because a referral creates a dated record that the document was located.",
+    "status": "not filed",
+    "title": "OSD - the Abba memorandum and the STAOC charter"
+   }
+  ],
+  "aaro-historical-record-vol1": [
+   {
+    "agency": "OSD / AARO",
+    "partial": [],
+    "questions": [
+     0,
+     2,
+     3
+    ],
+    "request": "F11",
+    "sendTo": "OSD/JS FOIA Requester Service Center, with AARO equity.",
+    "status": "not filed",
+    "title": "OSD / AARO - the Volume II working file"
+   }
+  ],
+  "aaro-historical-record-vol2": [
+   {
+    "agency": "OSD / AARO",
+    "partial": [],
+    "questions": [
+     1,
+     2,
+     4,
+     6
+    ],
+    "request": "F11",
+    "sendTo": "OSD/JS FOIA Requester Service Center, with AARO equity.",
+    "status": "not filed",
+    "title": "OSD / AARO - the Volume II working file"
+   }
+  ],
+  "aatip": [
+   {
+    "agency": "DHS",
+    "partial": [],
+    "questions": [
+     1,
+     3
+    ],
+    "request": "F6",
+    "sendTo": "Department of Homeland Security, Science and Technology Directorate FOIA Office, 245 Murray Lane SW, Washington DC 20528. Cross-file with the DHS Privacy Office FOIA unit, which processed the original KONA BLUE package.",
+    "status": "not filed",
+    "title": "DHS - KONA BLUE enclosures and the Lute-tasked provenance paper"
+   },
+   {
+    "agency": "DIA",
+    "partial": [],
+    "questions": [
+     5
+    ],
+    "request": "F7",
+    "sendTo": "Defense Intelligence Agency, FOIA Office (DAN-1A).",
+    "status": "not filed",
+    "title": "DIA - the 38th DIRD, the tasking memorandum and the distribution list"
+   }
+  ],
+  "aawsap": [
+   {
+    "agency": "DIA",
+    "partial": [],
+    "questions": [
+     0,
+     1,
+     3,
+     4
+    ],
+    "request": "F2",
+    "sendTo": "Defense Intelligence Agency, FOIA Office (DAN-1A), 7400 Defense Pentagon, Washington DC 20301-7400.",
+    "status": "not filed",
+    "title": "DIA - the AAWSAP closeout property inventory and obligation history"
+   },
+   {
+    "agency": "DIA",
+    "partial": [],
+    "questions": [
+     2
+    ],
+    "request": "F9",
+    "sendTo": "Defense Intelligence Agency, FOIA Office (DAN-1A).",
+    "status": "not filed",
+    "title": "DIA - the BAASS Ten Month Report and the Comprehensive Integrated Threat Assessment"
+   }
+  ],
+  "adam-research-project": [
+   {
+    "agency": "Army",
+    "partial": [],
+    "questions": [
+     0,
+     5
+    ],
+    "request": "F5",
+    "sendTo": "U.S. Army TACOM Life Cycle Management Command FOIA Office, Warren MI 48397, for DEVCOM Ground Vehicle Systems Center (formerly CCDC GVSC), 6501 E. 11 Mile Road, Warren MI. Cross-file with the DEVCOM Office of Research and Technology Applications (ORTA).",
+    "status": "not filed",
+    "title": "Army - CRADA 19-15 close-out report and test data"
+   }
+  ],
+  "afosi": [
+   {
+    "agency": "Air Force",
+    "partial": [],
+    "questions": [
+     5
+    ],
+    "request": "F10",
+    "sendTo": "Department of the Air Force FOIA (SAF/AAII), 1000 Air Force Pentagon, Washington DC 20330. Cross-file a research request with the Air Force Historical Research Agency, 600 Chennault Circle, Maxwell AFB AL 36112, which holds the wing histories.",
+    "status": "not filed",
+    "title": "Air Force - the 1975 northern-tier overflight message traffic"
+   },
+   {
+    "agency": "Air Force and AFOSI",
+    "partial": [],
+    "questions": [
+     0,
+     3,
+     5
+    ],
+    "request": "F15",
+    "sendTo": "Department of the Air Force FOIA (SAF/AAII), and separately the Air Force Office of Special Investigations FOIA Office, Quantico VA. File two requests, not one, because the Air Force secretariat and AFOSI maintain separate FOIA queues and a single filing will be split anyway.",
+    "status": "not filed",
+    "title": "Air Force and AFOSI - the service-level YANKEE BLUE stop order"
+   }
+  ],
+  "baass": [
+   {
+    "agency": "DIA",
+    "partial": [],
+    "questions": [
+     0,
+     2
+    ],
+    "request": "F2",
+    "sendTo": "Defense Intelligence Agency, FOIA Office (DAN-1A), 7400 Defense Pentagon, Washington DC 20301-7400.",
+    "status": "not filed",
+    "title": "DIA - the AAWSAP closeout property inventory and obligation history"
+   },
+   {
+    "agency": "DIA",
+    "partial": [],
+    "questions": [
+     3
+    ],
+    "request": "F7",
+    "sendTo": "Defense Intelligence Agency, FOIA Office (DAN-1A).",
+    "status": "not filed",
+    "title": "DIA - the 38th DIRD, the tasking memorandum and the distribution list"
+   },
+   {
+    "agency": "DIA",
+    "partial": [],
+    "questions": [
+     2,
+     5
+    ],
+    "request": "F9",
+    "sendTo": "Defense Intelligence Agency, FOIA Office (DAN-1A).",
+    "status": "not filed",
+    "title": "DIA - the BAASS Ten Month Report and the Comprehensive Integrated Threat Assessment"
+   }
+  ],
+  "battelle": [
+   {
+    "agency": "Air Force and CIA",
+    "partial": [],
+    "questions": [
+     0,
+     1,
+     3,
+     5
+    ],
+    "request": "F18",
+    "sendTo": "Department of the Air Force FOIA (SAF/AAII) for the contracting and ATIC records; Central Intelligence Agency Information and Privacy Coordinator for the Office of Scientific Intelligence file.",
+    "status": "not filed",
+    "title": "Air Force and CIA - the Battelle Project STORK contract file"
+   }
+  ],
+  "blue-book-special-report-14": [
+   {
+    "agency": "Air Force and CIA",
+    "partial": [],
+    "questions": [
+     2,
+     4
+    ],
+    "request": "F18",
+    "sendTo": "Department of the Air Force FOIA (SAF/AAII) for the contracting and ATIC records; Central Intelligence Agency Information and Privacy Coordinator for the Office of Scientific Intelligence file.",
+    "status": "not filed",
+    "title": "Air Force and CIA - the Battelle Project STORK contract file"
+   }
+  ],
+  "carve-out": [
+   {
+    "agency": "OSD",
+    "partial": [],
+    "questions": [
+     2
+    ],
+    "request": "F8",
+    "sendTo": "OSD/JS FOIA Requester Service Center, with routing to DoD SAPCO for equity review. Expect a referral. File it anyway, because a referral creates a dated record that the document was located.",
+    "status": "not filed",
+    "title": "OSD - the Abba memorandum and the STAOC charter"
+   }
+  ],
+  "cia": [
+   {
+    "agency": "NARA",
+    "partial": [],
+    "questions": [
+     0
+    ],
+    "request": "F1",
+    "sendTo": "National Archives and Records Administration, FOIA Officer, Office of General Counsel, 8601 Adelphi Road, College Park MD 20740. Cross-file a copy with the National Declassification Center, which is the operational custodian of the collection.",
+    "status": "not filed",
+    "title": "NARA - the RG 615 compliance register"
+   }
+  ],
+  "dia": [
+   {
+    "agency": "NARA",
+    "partial": [],
+    "questions": [
+     0
+    ],
+    "request": "F1",
+    "sendTo": "National Archives and Records Administration, FOIA Officer, Office of General Counsel, 8601 Adelphi Road, College Park MD 20740. Cross-file a copy with the National Declassification Center, which is the operational custodian of the collection.",
+    "status": "not filed",
+    "title": "NARA - the RG 615 compliance register"
+   },
+   {
+    "agency": "DIA",
+    "partial": [],
+    "questions": [
+     1,
+     2
+    ],
+    "request": "F2",
+    "sendTo": "Defense Intelligence Agency, FOIA Office (DAN-1A), 7400 Defense Pentagon, Washington DC 20301-7400.",
+    "status": "not filed",
+    "title": "DIA - the AAWSAP closeout property inventory and obligation history"
+   },
+   {
+    "agency": "DIA",
+    "partial": [],
+    "questions": [
+     1,
+     3
+    ],
+    "request": "F9",
+    "sendTo": "Defense Intelligence Agency, FOIA Office (DAN-1A).",
+    "status": "not filed",
+    "title": "DIA - the BAASS Ten Month Report and the Comprehensive Integrated Threat Assessment"
+   }
+  ],
+  "dird-series": [
+   {
+    "agency": "DIA",
+    "partial": [],
+    "questions": [
+     0,
+     1,
+     2,
+     3
+    ],
+    "request": "F7",
+    "sendTo": "Defense Intelligence Agency, FOIA Office (DAN-1A).",
+    "status": "not filed",
+    "title": "DIA - the 38th DIRD, the tasking memorandum and the distribution list"
+   },
+   {
+    "agency": "DIA",
+    "partial": [],
+    "questions": [
+     4
+    ],
+    "request": "F9",
+    "sendTo": "Defense Intelligence Agency, FOIA Office (DAN-1A).",
+    "status": "not filed",
+    "title": "DIA - the BAASS Ten Month Report and the Comprehensive Integrated Threat Assessment"
+   }
+  ],
+  "dod-sapco": [
+   {
+    "agency": "OSD",
+    "partial": [],
+    "questions": [
+     1,
+     3,
+     4
+    ],
+    "request": "F8",
+    "sendTo": "OSD/JS FOIA Requester Service Center, with routing to DoD SAPCO for equity review. Expect a referral. File it anyway, because a referral creates a dated record that the document was located.",
+    "status": "not filed",
+    "title": "OSD - the Abba memorandum and the STAOC charter"
+   }
+  ],
+  "doe": [
+   {
+    "agency": "NARA",
+    "partial": [],
+    "questions": [
+     0
+    ],
+    "request": "F1",
+    "sendTo": "National Archives and Records Administration, FOIA Officer, Office of General Counsel, 8601 Adelphi Road, College Park MD 20740. Cross-file a copy with the National Declassification Center, which is the operational custodian of the collection.",
+    "status": "not filed",
+    "title": "NARA - the RG 615 compliance register"
+   }
+  ],
+  "earthtech-international": [
+   {
+    "agency": "DIA",
+    "partial": [],
+    "questions": [
+     0
+    ],
+    "request": "F2",
+    "sendTo": "Defense Intelligence Agency, FOIA Office (DAN-1A), 7400 Defense Pentagon, Washington DC 20301-7400.",
+    "status": "not filed",
+    "title": "DIA - the AAWSAP closeout property inventory and obligation history"
+   },
+   {
+    "agency": "DIA",
+    "partial": [],
+    "questions": [
+     1
+    ],
+    "request": "F7",
+    "sendTo": "Defense Intelligence Agency, FOIA Office (DAN-1A).",
+    "status": "not filed",
+    "title": "DIA - the 38th DIRD, the tasking memorandum and the distribution list"
+   }
+  ],
+  "hearing-2025-09-09": [
+   {
+    "agency": "DIA",
+    "partial": [],
+    "questions": [
+     2,
+     3
+    ],
+    "request": "F9",
+    "sendTo": "Defense Intelligence Agency, FOIA Office (DAN-1A).",
+    "status": "not filed",
+    "title": "DIA - the BAASS Ten Month Report and the Comprehensive Integrated Threat Assessment"
+   }
+  ],
+  "house-oversight-committee": [
+   {
+    "agency": "ODNI",
+    "partial": [],
+    "questions": [
+     4
+    ],
+    "request": "F12",
+    "sendTo": "Office of the Director of National Intelligence, Information Management Office, Washington DC 20511.",
+    "status": "not filed",
+    "title": "ODNI - the classified annex distribution record and the UAPTF Director's name"
+   }
+  ],
+  "kona-blue": [
+   {
+    "agency": "DHS",
+    "partial": [],
+    "questions": [
+     0,
+     1,
+     2,
+     4,
+     5
+    ],
+    "request": "F6",
+    "sendTo": "Department of Homeland Security, Science and Technology Directorate FOIA Office, 245 Murray Lane SW, Washington DC 20528. Cross-file with the DHS Privacy Office FOIA unit, which processed the original KONA BLUE package.",
+    "status": "not filed",
+    "title": "DHS - KONA BLUE enclosures and the Lute-tasked provenance paper"
+   }
+  ],
+  "langley-2023-incursions": [
+   {
+    "agency": "NASA",
+    "partial": [
+     6,
+     11
+    ],
+    "questions": [
+     3
+    ],
+    "request": "F4",
+    "sendTo": "NASA Langley Research Center FOIA Office, Mail Stop 166, Hampton VA 23681, with a copy to NASA Johnson Space Center (the WB-57F High Altitude Research Program is operated out of Ellington Field).",
+    "status": "not filed",
+    "title": "NASA - WB-57F N927NA tasking, 18 and 19 December 2023"
+   },
+   {
+    "agency": "FBI",
+    "partial": [],
+    "questions": [
+     4,
+     7
+    ],
+    "request": "F17",
+    "sendTo": "FBI Record/Information Dissemination Section, 170 Marcel Drive, Winchester VA 22602, naming the Norfolk Field Office as the likely originating office.",
+    "status": "not filed",
+    "title": "FBI - the Langley December 2023 investigative file"
+   }
+  ],
+  "manhattan-project-2": [
+   {
+    "agency": "DHS",
+    "partial": [],
+    "questions": [
+     3
+    ],
+    "request": "F6",
+    "sendTo": "Department of Homeland Security, Science and Technology Directorate FOIA Office, 245 Murray Lane SW, Washington DC 20528. Cross-file with the DHS Privacy Office FOIA unit, which processed the original KONA BLUE package.",
+    "status": "not filed",
+    "title": "DHS - KONA BLUE enclosures and the Lute-tasked provenance paper"
+   }
+  ],
+  "nara-rg615": [
+   {
+    "agency": "NARA",
+    "partial": [],
+    "questions": [
+     0,
+     1,
+     4
+    ],
+    "request": "F1",
+    "sendTo": "National Archives and Records Administration, FOIA Officer, Office of General Counsel, 8601 Adelphi Road, College Park MD 20740. Cross-file a copy with the National Declassification Center, which is the operational custodian of the collection.",
+    "status": "not filed",
+    "title": "NARA - the RG 615 compliance register"
+   }
+  ],
+  "nara-uap-collection": [
+   {
+    "agency": "NARA",
+    "partial": [],
+    "questions": [
+     0,
+     1,
+     2,
+     3
+    ],
+    "request": "F1",
+    "sendTo": "National Archives and Records Administration, FOIA Officer, Office of General Counsel, 8601 Adelphi Road, College Park MD 20740. Cross-file a copy with the National Declassification Center, which is the operational custodian of the collection.",
+    "status": "not filed",
+    "title": "NARA - the RG 615 compliance register"
+   }
+  ],
+  "nasa": [
+   {
+    "agency": "NASA",
+    "partial": [],
+    "questions": [
+     0,
+     1
+    ],
+    "request": "F4",
+    "sendTo": "NASA Langley Research Center FOIA Office, Mail Stop 166, Hampton VA 23681, with a copy to NASA Johnson Space Center (the WB-57F High Altitude Research Program is operated out of Ellington Field).",
+    "status": "not filed",
+    "title": "NASA - WB-57F N927NA tasking, 18 and 19 December 2023"
+   }
+  ],
+  "ndaa-fy2023-sec-6802": [
+   {
+    "agency": "OSD / AARO",
+    "partial": [],
+    "questions": [
+     0
+    ],
+    "request": "F11",
+    "sendTo": "OSD/JS FOIA Requester Service Center, with AARO equity.",
+    "status": "not filed",
+    "title": "OSD / AARO - the Volume II working file"
+   }
+  ],
+  "ndaa-fy2024": [
+   {
+    "agency": "NARA",
+    "partial": [],
+    "questions": [
+     1,
+     2
+    ],
+    "request": "F1",
+    "sendTo": "National Archives and Records Administration, FOIA Officer, Office of General Counsel, 8601 Adelphi Road, College Park MD 20740. Cross-file a copy with the National Declassification Center, which is the operational custodian of the collection.",
+    "status": "not filed",
+    "title": "NARA - the RG 615 compliance register"
+   }
+  ],
+  "nids": [
+   {
+    "agency": "DIA",
+    "partial": [],
+    "questions": [
+     7
+    ],
+    "request": "F2",
+    "sendTo": "Defense Intelligence Agency, FOIA Office (DAN-1A), 7400 Defense Pentagon, Washington DC 20301-7400.",
+    "status": "not filed",
+    "title": "DIA - the AAWSAP closeout property inventory and obligation history"
+   }
+  ],
+  "nimitz-2004": [
+   {
+    "agency": "Navy",
+    "partial": [
+     1
+    ],
+    "questions": [
+     0,
+     2,
+     4,
+     5
+    ],
+    "request": "F16",
+    "sendTo": "Department of the Navy FOIA/PA Office (DNS-36), 2000 Navy Pentagon, Washington DC 20350, with cross-files to Naval History and Heritage Command (deck logs) and Commander, Naval Surface Forces Pacific.",
+    "status": "not filed",
+    "title": "Navy - USS Princeton records and disposition certificates, November 2004"
+   }
+  ],
+  "nro": [
+   {
+    "agency": "NARA",
+    "partial": [],
+    "questions": [
+     0
+    ],
+    "request": "F1",
+    "sendTo": "National Archives and Records Administration, FOIA Officer, Office of General Counsel, 8601 Adelphi Road, College Park MD 20740. Cross-file a copy with the National Declassification Center, which is the operational custodian of the collection.",
+    "status": "not filed",
+    "title": "NARA - the RG 615 compliance register"
+   }
+  ],
+  "odni": [
+   {
+    "agency": "NARA",
+    "partial": [],
+    "questions": [
+     3
+    ],
+    "request": "F1",
+    "sendTo": "National Archives and Records Administration, FOIA Officer, Office of General Counsel, 8601 Adelphi Road, College Park MD 20740. Cross-file a copy with the National Declassification Center, which is the operational custodian of the collection.",
+    "status": "not filed",
+    "title": "NARA - the RG 615 compliance register"
+   },
+   {
+    "agency": "ODNI",
+    "partial": [],
+    "questions": [
+     0,
+     1,
+     2,
+     5
+    ],
+    "request": "F12",
+    "sendTo": "Office of the Director of National Intelligence, Information Management Office, Washington DC 20511.",
+    "status": "not filed",
+    "title": "ODNI - the classified annex distribution record and the UAPTF Director's name"
+   }
+  ],
+  "odni-preliminary-assessment-2021": [
+   {
+    "agency": "ODNI",
+    "partial": [],
+    "questions": [
+     0,
+     1,
+     2
+    ],
+    "request": "F12",
+    "sendTo": "Office of the Director of National Intelligence, Information Management Office, Washington DC 20511.",
+    "status": "not filed",
+    "title": "ODNI - the classified annex distribution record and the UAPTF Director's name"
+   }
+  ],
+  "robertson-panel": [
+   {
+    "agency": "Air Force and CIA",
+    "partial": [],
+    "questions": [
+     5
+    ],
+    "request": "F18",
+    "sendTo": "Department of the Air Force FOIA (SAF/AAII) for the contracting and ATIC records; Central Intelligence Agency Information and Privacy Coordinator for the Office of Scientific Intelligence file.",
+    "status": "not filed",
+    "title": "Air Force and CIA - the Battelle Project STORK contract file"
+   }
+  ],
+  "roosevelt-2014-2015": [
+   {
+    "agency": "Navy",
+    "partial": [],
+    "questions": [
+     2,
+     3,
+     5
+    ],
+    "request": "F14",
+    "sendTo": "Naval Safety Command FOIA Office, 375 A Street, Norfolk VA 23511, with a copy to the Department of the Navy FOIA/PA Office (DNS-36).",
+    "status": "not filed",
+    "title": "Navy - the W-72 hazard report and the Range Fouler reports"
+   }
+  ],
+  "sac-overflights-1975": [
+   {
+    "agency": "Air Force",
+    "partial": [],
+    "questions": [
+     0,
+     1,
+     3,
+     4,
+     5,
+     8
+    ],
+    "request": "F10",
+    "sendTo": "Department of the Air Force FOIA (SAF/AAII), 1000 Air Force Pentagon, Washington DC 20330. Cross-file a research request with the Air Force Historical Research Agency, 600 Chennault Circle, Maxwell AFB AL 36112, which holds the wing histories.",
+    "status": "not filed",
+    "title": "Air Force - the 1975 northern-tier overflight message traffic"
+   }
+  ],
+  "ttsa": [
+   {
+    "agency": "Army",
+    "partial": [],
+    "questions": [
+     0,
+     1
+    ],
+    "request": "F5",
+    "sendTo": "U.S. Army TACOM Life Cycle Management Command FOIA Office, Warren MI 48397, for DEVCOM Ground Vehicle Systems Center (formerly CCDC GVSC), 6501 E. 11 Mile Road, Warren MI. Cross-file with the DEVCOM Office of Research and Technology Applications (ORTA).",
+    "status": "not filed",
+    "title": "Army - CRADA 19-15 close-out report and test data"
+   }
+  ],
+  "ttsa-army-crada": [
+   {
+    "agency": "Army",
+    "partial": [],
+    "questions": [
+     1,
+     2,
+     4,
+     5,
+     7
+    ],
+    "request": "F5",
+    "sendTo": "U.S. Army TACOM Life Cycle Management Command FOIA Office, Warren MI 48397, for DEVCOM Ground Vehicle Systems Center (formerly CCDC GVSC), 6501 E. 11 Mile Road, Warren MI. Cross-file with the DEVCOM Office of Research and Technology Applications (ORTA).",
+    "status": "not filed",
+    "title": "Army - CRADA 19-15 close-out report and test data"
+   }
+  ],
+  "uap-task-force": [
+   {
+    "agency": "ODNI",
+    "partial": [],
+    "questions": [
+     1,
+     2
+    ],
+    "request": "F12",
+    "sendTo": "Office of the Director of National Intelligence, Information Management Office, Washington DC 20511.",
+    "status": "not filed",
+    "title": "ODNI - the classified annex distribution record and the UAPTF Director's name"
+   }
+  ],
+  "us-house": [
+   {
+    "agency": "NARA",
+    "partial": [],
+    "questions": [
+     0
+    ],
+    "request": "F1",
+    "sendTo": "National Archives and Records Administration, FOIA Officer, Office of General Counsel, 8601 Adelphi Road, College Park MD 20740. Cross-file a copy with the National Declassification Center, which is the operational custodian of the collection.",
+    "status": "not filed",
+    "title": "NARA - the RG 615 compliance register"
+   }
+  ],
+  "usc-10-119": [
+   {
+    "agency": "OSD",
+    "partial": [],
+    "questions": [
+     3
+    ],
+    "request": "F8",
+    "sendTo": "OSD/JS FOIA Requester Service Center, with routing to DoD SAPCO for equity review. Expect a referral. File it anyway, because a referral creates a dated record that the document was located.",
+    "status": "not filed",
+    "title": "OSD - the Abba memorandum and the STAOC charter"
+   }
+  ],
+  "yankee-blue": [
+   {
+    "agency": "OSD",
+    "partial": [
+     3
+    ],
+    "questions": [
+     0,
+     4
+    ],
+    "request": "F3",
+    "sendTo": "Office of the Secretary of Defense / Joint Staff FOIA Requester Service Center (FOID), 1155 Defense Pentagon, Washington DC 20301-1155.",
+    "status": "not filed",
+    "title": "OSD - the YANKEE BLUE remand search result"
+   },
+   {
+    "agency": "OSD / AARO",
+    "partial": [],
+    "questions": [
+     3
+    ],
+    "request": "F11",
+    "sendTo": "OSD/JS FOIA Requester Service Center, with AARO equity.",
+    "status": "not filed",
+    "title": "OSD / AARO - the Volume II working file"
+   },
+   {
+    "agency": "Air Force and AFOSI",
+    "partial": [],
+    "questions": [
+     2,
+     4
+    ],
+    "request": "F15",
+    "sendTo": "Department of the Air Force FOIA (SAF/AAII), and separately the Air Force Office of Special Investigations FOIA Office, Quantico VA. File two requests, not one, because the Air Force secretariat and AFOSI maintain separate FOIA queues and a single filing will be split anyway.",
+    "status": "not filed",
+    "title": "Air Force and AFOSI - the service-level YANKEE BLUE stop order"
+   }
+  ]
+ },
+ "generated": "2026-09-02",
+ "letters": "notes/FOIA-LETTERS-2026-08-29.md",
+ "requests": [
+  {
+   "agency": "NARA",
+   "id": "F1",
+   "nodes": [
+    {
+     "node": "nara-uap-collection",
+     "partial": [],
+     "questions": [
+      0,
+      1,
+      2,
+      3
+     ]
+    },
+    {
+     "node": "nara-rg615",
+     "partial": [],
+     "questions": [
+      0,
+      1,
+      4
+     ]
+    },
+    {
+     "node": "ndaa-fy2024",
+     "partial": [],
+     "questions": [
+      1,
+      2
+     ]
+    },
+    {
+     "node": "us-house",
+     "partial": [],
+     "questions": [
+      0
+     ]
+    },
+    {
+     "node": "doe",
+     "partial": [],
+     "questions": [
+      0
+     ]
+    },
+    {
+     "node": "cia",
+     "partial": [],
+     "questions": [
+      0
+     ]
+    },
+    {
+     "node": "dia",
+     "partial": [],
+     "questions": [
+      0
+     ]
+    },
+    {
+     "node": "odni",
+     "partial": [],
+     "questions": [
+      3
+     ]
+    },
+    {
+     "node": "nro",
+     "partial": [],
+     "questions": [
+      0
+     ]
+    }
+   ],
+   "sendTo": "National Archives and Records Administration, FOIA Officer, Office of General Counsel, 8601 Adelphi Road, College Park MD 20740. Cross-file a copy with the National Declassification Center, which is the operational custodian of the collection.",
+   "status": "not filed",
+   "title": "NARA - the RG 615 compliance register"
+  },
+  {
+   "agency": "DIA",
+   "id": "F2",
+   "nodes": [
+    {
+     "node": "aawsap",
+     "partial": [],
+     "questions": [
+      0,
+      1,
+      3,
+      4
+     ]
+    },
+    {
+     "node": "baass",
+     "partial": [],
+     "questions": [
+      0,
+      2
+     ]
+    },
+    {
+     "node": "dia",
+     "partial": [],
+     "questions": [
+      1,
+      2
+     ]
+    },
+    {
+     "node": "earthtech-international",
+     "partial": [],
+     "questions": [
+      0
+     ]
+    },
+    {
+     "node": "nids",
+     "partial": [],
+     "questions": [
+      7
+     ]
+    }
+   ],
+   "sendTo": "Defense Intelligence Agency, FOIA Office (DAN-1A), 7400 Defense Pentagon, Washington DC 20301-7400.",
+   "status": "not filed",
+   "title": "DIA - the AAWSAP closeout property inventory and obligation history"
+  },
+  {
+   "agency": "OSD",
+   "id": "F3",
+   "nodes": [
+    {
+     "node": "yankee-blue",
+     "partial": [
+      3
+     ],
+     "questions": [
+      0,
+      4
+     ]
+    }
+   ],
+   "sendTo": "Office of the Secretary of Defense / Joint Staff FOIA Requester Service Center (FOID), 1155 Defense Pentagon, Washington DC 20301-1155.",
+   "status": "not filed",
+   "title": "OSD - the YANKEE BLUE remand search result"
+  },
+  {
+   "agency": "NASA",
+   "id": "F4",
+   "nodes": [
+    {
+     "node": "langley-2023-incursions",
+     "partial": [
+      6,
+      11
+     ],
+     "questions": [
+      3
+     ]
+    },
+    {
+     "node": "nasa",
+     "partial": [],
+     "questions": [
+      0,
+      1
+     ]
+    }
+   ],
+   "sendTo": "NASA Langley Research Center FOIA Office, Mail Stop 166, Hampton VA 23681, with a copy to NASA Johnson Space Center (the WB-57F High Altitude Research Program is operated out of Ellington Field).",
+   "status": "not filed",
+   "title": "NASA - WB-57F N927NA tasking, 18 and 19 December 2023"
+  },
+  {
+   "agency": "Army",
+   "id": "F5",
+   "nodes": [
+    {
+     "node": "ttsa-army-crada",
+     "partial": [],
+     "questions": [
+      1,
+      2,
+      4,
+      5,
+      7
+     ]
+    },
+    {
+     "node": "adam-research-project",
+     "partial": [],
+     "questions": [
+      0,
+      5
+     ]
+    },
+    {
+     "node": "ttsa",
+     "partial": [],
+     "questions": [
+      0,
+      1
+     ]
+    }
+   ],
+   "sendTo": "U.S. Army TACOM Life Cycle Management Command FOIA Office, Warren MI 48397, for DEVCOM Ground Vehicle Systems Center (formerly CCDC GVSC), 6501 E. 11 Mile Road, Warren MI. Cross-file with the DEVCOM Office of Research and Technology Applications (ORTA).",
+   "status": "not filed",
+   "title": "Army - CRADA 19-15 close-out report and test data"
+  },
+  {
+   "agency": "DHS",
+   "id": "F6",
+   "nodes": [
+    {
+     "node": "kona-blue",
+     "partial": [],
+     "questions": [
+      0,
+      1,
+      2,
+      4,
+      5
+     ]
+    },
+    {
+     "node": "aatip",
+     "partial": [],
+     "questions": [
+      1,
+      3
+     ]
+    },
+    {
+     "node": "manhattan-project-2",
+     "partial": [],
+     "questions": [
+      3
+     ]
+    }
+   ],
+   "sendTo": "Department of Homeland Security, Science and Technology Directorate FOIA Office, 245 Murray Lane SW, Washington DC 20528. Cross-file with the DHS Privacy Office FOIA unit, which processed the original KONA BLUE package.",
+   "status": "not filed",
+   "title": "DHS - KONA BLUE enclosures and the Lute-tasked provenance paper"
+  },
+  {
+   "agency": "DIA",
+   "id": "F7",
+   "nodes": [
+    {
+     "node": "dird-series",
+     "partial": [],
+     "questions": [
+      0,
+      1,
+      2,
+      3
+     ]
+    },
+    {
+     "node": "aatip",
+     "partial": [],
+     "questions": [
+      5
+     ]
+    },
+    {
+     "node": "baass",
+     "partial": [],
+     "questions": [
+      3
+     ]
+    },
+    {
+     "node": "earthtech-international",
+     "partial": [],
+     "questions": [
+      1
+     ]
+    }
+   ],
+   "sendTo": "Defense Intelligence Agency, FOIA Office (DAN-1A).",
+   "status": "not filed",
+   "title": "DIA - the 38th DIRD, the tasking memorandum and the distribution list"
+  },
+  {
+   "agency": "OSD",
+   "id": "F8",
+   "nodes": [
+    {
+     "node": "dod-sapco",
+     "partial": [],
+     "questions": [
+      1,
+      3,
+      4
+     ]
+    },
+    {
+     "node": "carve-out",
+     "partial": [],
+     "questions": [
+      2
+     ]
+    },
+    {
+     "node": "aaro",
+     "partial": [],
+     "questions": [
+      3
+     ]
+    },
+    {
+     "node": "aaro-fy2025-annual-report",
+     "partial": [],
+     "questions": [
+      4
+     ]
+    },
+    {
+     "node": "usc-10-119",
+     "partial": [],
+     "questions": [
+      3
+     ]
+    }
+   ],
+   "sendTo": "OSD/JS FOIA Requester Service Center, with routing to DoD SAPCO for equity review. Expect a referral. File it anyway, because a referral creates a dated record that the document was located.",
+   "status": "not filed",
+   "title": "OSD - the Abba memorandum and the STAOC charter"
+  },
+  {
+   "agency": "DIA",
+   "id": "F9",
+   "nodes": [
+    {
+     "node": "aawsap",
+     "partial": [],
+     "questions": [
+      2
+     ]
+    },
+    {
+     "node": "dia",
+     "partial": [],
+     "questions": [
+      1,
+      3
+     ]
+    },
+    {
+     "node": "hearing-2025-09-09",
+     "partial": [],
+     "questions": [
+      2,
+      3
+     ]
+    },
+    {
+     "node": "baass",
+     "partial": [],
+     "questions": [
+      2,
+      5
+     ]
+    },
+    {
+     "node": "dird-series",
+     "partial": [],
+     "questions": [
+      4
+     ]
+    }
+   ],
+   "sendTo": "Defense Intelligence Agency, FOIA Office (DAN-1A).",
+   "status": "not filed",
+   "title": "DIA - the BAASS Ten Month Report and the Comprehensive Integrated Threat Assessment"
+  },
+  {
+   "agency": "Air Force",
+   "id": "F10",
+   "nodes": [
+    {
+     "node": "sac-overflights-1975",
+     "partial": [],
+     "questions": [
+      0,
+      1,
+      3,
+      4,
+      5,
+      8
+     ]
+    },
+    {
+     "node": "afosi",
+     "partial": [],
+     "questions": [
+      5
+     ]
+    }
+   ],
+   "sendTo": "Department of the Air Force FOIA (SAF/AAII), 1000 Air Force Pentagon, Washington DC 20330. Cross-file a research request with the Air Force Historical Research Agency, 600 Chennault Circle, Maxwell AFB AL 36112, which holds the wing histories.",
+   "status": "not filed",
+   "title": "Air Force - the 1975 northern-tier overflight message traffic"
+  },
+  {
+   "agency": "OSD / AARO",
+   "id": "F11",
+   "nodes": [
+    {
+     "node": "aaro-historical-record-vol2",
+     "partial": [],
+     "questions": [
+      1,
+      2,
+      4,
+      6
+     ]
+    },
+    {
+     "node": "aaro-historical-record-vol1",
+     "partial": [],
+     "questions": [
+      0,
+      2,
+      3
+     ]
+    },
+    {
+     "node": "aaro",
+     "partial": [],
+     "questions": [
+      0
+     ]
+    },
+    {
+     "node": "yankee-blue",
+     "partial": [],
+     "questions": [
+      3
+     ]
+    },
+    {
+     "node": "ndaa-fy2023-sec-6802",
+     "partial": [],
+     "questions": [
+      0
+     ]
+    }
+   ],
+   "sendTo": "OSD/JS FOIA Requester Service Center, with AARO equity.",
+   "status": "not filed",
+   "title": "OSD / AARO - the Volume II working file"
+  },
+  {
+   "agency": "ODNI",
+   "id": "F12",
+   "nodes": [
+    {
+     "node": "odni",
+     "partial": [],
+     "questions": [
+      0,
+      1,
+      2,
+      5
+     ]
+    },
+    {
+     "node": "odni-preliminary-assessment-2021",
+     "partial": [],
+     "questions": [
+      0,
+      1,
+      2
+     ]
+    },
+    {
+     "node": "uap-task-force",
+     "partial": [],
+     "questions": [
+      1,
+      2
+     ]
+    },
+    {
+     "node": "house-oversight-committee",
+     "partial": [],
+     "questions": [
+      4
+     ]
+    }
+   ],
+   "sendTo": "Office of the Director of National Intelligence, Information Management Office, Washington DC 20511.",
+   "status": "not filed",
+   "title": "ODNI - the classified annex distribution record and the UAPTF Director's name"
+  },
+  {
+   "agency": "Navy",
+   "id": "F14",
+   "nodes": [
+    {
+     "node": "roosevelt-2014-2015",
+     "partial": [],
+     "questions": [
+      2,
+      3,
+      5
+     ]
+    }
+   ],
+   "sendTo": "Naval Safety Command FOIA Office, 375 A Street, Norfolk VA 23511, with a copy to the Department of the Navy FOIA/PA Office (DNS-36).",
+   "status": "not filed",
+   "title": "Navy - the W-72 hazard report and the Range Fouler reports"
+  },
+  {
+   "agency": "Air Force and AFOSI",
+   "id": "F15",
+   "nodes": [
+    {
+     "node": "yankee-blue",
+     "partial": [],
+     "questions": [
+      2,
+      4
+     ]
+    },
+    {
+     "node": "afosi",
+     "partial": [],
+     "questions": [
+      0,
+      3,
+      5
+     ]
+    }
+   ],
+   "sendTo": "Department of the Air Force FOIA (SAF/AAII), and separately the Air Force Office of Special Investigations FOIA Office, Quantico VA. File two requests, not one, because the Air Force secretariat and AFOSI maintain separate FOIA queues and a single filing will be split anyway.",
+   "status": "not filed",
+   "title": "Air Force and AFOSI - the service-level YANKEE BLUE stop order"
+  },
+  {
+   "agency": "Navy",
+   "id": "F16",
+   "nodes": [
+    {
+     "node": "nimitz-2004",
+     "partial": [
+      1
+     ],
+     "questions": [
+      0,
+      2,
+      4,
+      5
+     ]
+    }
+   ],
+   "sendTo": "Department of the Navy FOIA/PA Office (DNS-36), 2000 Navy Pentagon, Washington DC 20350, with cross-files to Naval History and Heritage Command (deck logs) and Commander, Naval Surface Forces Pacific.",
+   "status": "not filed",
+   "title": "Navy - USS Princeton records and disposition certificates, November 2004"
+  },
+  {
+   "agency": "FBI",
+   "id": "F17",
+   "nodes": [
+    {
+     "node": "langley-2023-incursions",
+     "partial": [],
+     "questions": [
+      4,
+      7
+     ]
+    }
+   ],
+   "sendTo": "FBI Record/Information Dissemination Section, 170 Marcel Drive, Winchester VA 22602, naming the Norfolk Field Office as the likely originating office.",
+   "status": "not filed",
+   "title": "FBI - the Langley December 2023 investigative file"
+  },
+  {
+   "agency": "Air Force and CIA",
+   "id": "F18",
+   "nodes": [
+    {
+     "node": "battelle",
+     "partial": [],
+     "questions": [
+      0,
+      1,
+      3,
+      5
+     ]
+    },
+    {
+     "node": "blue-book-special-report-14",
+     "partial": [],
+     "questions": [
+      2,
+      4
+     ]
+    },
+    {
+     "node": "robertson-panel",
+     "partial": [],
+     "questions": [
+      5
+     ]
+    }
+   ],
+   "sendTo": "Department of the Air Force FOIA (SAF/AAII) for the contracting and ATIC records; Central Intelligence Agency Information and Privacy Coordinator for the Office of Scientific Intelligence file.",
+   "status": "not filed",
+   "title": "Air Force and CIA - the Battelle Project STORK contract file"
+  }
+ ],
+ "source": "687756664d3a",
+ "status": "None of these requests has been filed. Stewart, 29 August 2026: 'The FOIA will have to happen way later but keep them there and ready.'"
+}

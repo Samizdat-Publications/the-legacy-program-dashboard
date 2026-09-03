@@ -1,0 +1,531 @@
+{
+"A": 1,
+"C": 0,
+"D": 2,
+"affiliations": [
+"U.S. House of Representatives, SC-1 (2021- )",
+"House Oversight Subcommittee on Cybersecurity, Information Technology and Government Innovation, Chairwoman (2023-2025)",
+"Task Force on the Declassification of Federal Secrets (2025- )",
+"US House of Representatives, SC-01 (2021- )",
+"House Oversight Committee",
+"US House of Representatives (2021-present)",
+"House Committee on Oversight and Accountability"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "2023-07-26",
+"event": "Asks Grusch whether officials unlawfully withheld information from Congress and subverted oversight authority; draws the non-human biologics answer.",
+"precision": "day"
+},
+{
+"date": "2023-07-26",
+"event": "Elicits the nonhuman biologics answer and the offer of a cooperative and hostile witness list",
+"precision": "day"
+},
+{
+"date": "2024-11-12",
+"event": "Cosponsors H.R. 10111, the UAP Whistleblower Protection Act.",
+"precision": "day"
+},
+{
+"date": "2024-11-13",
+"event": "Co-chairs the joint hearing; enters the 12-page Immaculate Constellation report into the Congressional Record; submits the Mellon hearing letter.",
+"precision": "day"
+},
+{
+"date": "2024-11-13",
+"event": "Elicits Elizondo's confirmation that material is allocated to contractors by domain expertise",
+"precision": "day"
+},
+{
+"date": "2025-02-11",
+"event": "Named to the Task Force on the Declassification of Federal Secrets.",
+"precision": "day"
+},
+{
+"date": "2025-09-09",
+"event": "States on the record that Grusch's medical information was leaked to discredit him",
+"precision": "day"
+}
+],
+"claims": [
+{
+"source": "CHRG-118hhrg57440 INDEX OF DOCUMENTS and proceedings",
+"text": "Chaired the 13 November 2024 joint hearing and entered the 12-page Pentagon 'Immaculate Constellation' document into the record: 'Report, Pentagon, \"Immaculate Constellation\"; submitted by Rep. Mace' appears in the printed INDEX OF DOCUMENTS, as does 'Mellon Hearing Letter; submitted by Rep. Mace'.",
+"tier": 1
+},
+{
+"source": "CHRG-118hhrg53022, testimony of David Grusch",
+"text": "Questioned David Grusch under oath at the 26 July 2023 hearing on recovered craft and biologics.",
+"tier": 1
+},
+{
+"source": "Chairwoman Nancy Mace, opening statement, 13 November 2024, GPO CHRG-118hhrg57440",
+"text": "'I am not going to name names, but there are certain individuals who did not want this hearing to happen because they feared what might be disclosed. But we stood firm.'",
+"tier": 1
+},
+{
+"source": "CHRG-118hhrg57440, 13 November 2024",
+"text": "Moved the 12-page Pentagon Immaculate Constellation document into the Congressional Record, describing it as covering 'the unacknowledged special access program called Immaculate Constellation' and 'USG imagery intelligence.'",
+"tier": 1
+},
+{
+"source": "CHRG-118hhrg53022, 26 July 2023",
+"text": "Asked Grusch under oath whether officials at the highest levels 'have unlawfully withheld information from Congress and subverted our oversight authority.'",
+"tier": 1
+},
+{
+"source": "CHRG-118hhrg53022, 26 July 2023",
+"text": "Drew Grusch's answer that 'biologics came with some of these recoveries' and that they were assessed 'Nonhuman... by people with direct knowledge on the program I talked to that are currently still on the program.'",
+"tier": 1
+},
+{
+"source": "CHRG-118hhrg57440, 13 November 2024",
+"text": "Submitted the Christopher Mellon hearing letter into the record of the 13 November 2024 hearing (Index of Documents: 'Mellon Hearing Letter; submitted by Rep. Mace').",
+"tier": 1
+},
+{
+"source": "House Oversight hearing transcript, 26 July 2023",
+"text": "Elicited: 'biologics came with some of these recoveries... Nonhuman, and that was the assessment of people with direct knowledge on the program I talked to that are currently still on the program.'",
+"tier": 1
+},
+{
+"source": "House Oversight hearing transcript, 26 July 2023",
+"text": "Elicited Grusch's offer to provide 'a specific cooperative and hostile witness list of specific individuals' after the hearing.",
+"tier": 1
+},
+{
+"source": "Task Force on the Declassification of Federal Secrets hearing record, 9 September 2025",
+"text": "'We know they did that to Mr. Grusch. They leaked his private medical information, horrific things.'",
+"tier": 1
+},
+{
+"source": "CHRG-118hhrg57440, 13 November 2024",
+"text": "Mace asked whether material is given to particular contractors because of their expertise, offering General Dynamics for undersea propulsion; Elizondo answered 'Yes, ma'am, absolutely correct.'",
+"tier": 1
+}
+],
+"cls": "person",
+"cluster": "other",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "2023",
+"dateStart": "2023",
+"direction": "out",
+"edgeLabel": "Drew the non-human biologics answer and the unlawful-withholding question under oath",
+"id": "david-grusch",
+"l0": false,
+"label": "David Charles Grusch",
+"note": "The two most consequential exchanges of the 2023 hearing.",
+"sources": [
+{
+"date": "2023-07-26",
+"name": "U.S. GPO, Hearing transcript, Serial No. 118-53 (CHRG-118hhrg53022)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm"
+}
+],
+"tier": "A",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "2023",
+"dateStart": "2023",
+"direction": "out",
+"edgeLabel": "Elicited the nonhuman biologics answer and the offer of a witness list",
+"id": "david-grusch",
+"l0": false,
+"label": "David Charles Grusch",
+"note": "Mace drew the biologics testimony and Grusch's offer of 'a specific cooperative and hostile witness list of specific individuals' to be provided after the hearing. The list has never surfaced publicly.",
+"sources": [
+{
+"date": "2023-07-26",
+"name": "House Oversight hearing transcript",
+"url": "https://www.congress.gov/118/meeting/house/116282/documents/HHRG-118-GO06-Transcript-20230726.pdf"
+}
+],
+"tier": "A",
+"type": "legislative"
+},
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": "2024",
+"dateStart": "2024",
+"direction": "in",
+"edgeLabel": "Chaired the joint subcommittee hearing",
+"id": "hearing-2024-11-13",
+"l0": true,
+"label": "House Oversight joint hearing, 13 November 2024 - 'Unidentified Anomalous Phenomena: Exposing the Truth'",
+"note": "Joint hearing of the Cybersecurity/IT/Government Innovation and National Security/Border/Foreign Affairs subcommittees, with Rep. Glenn Grothman co-chairing.",
+"sources": [
+{
+"date": "2024-11-13",
+"name": "Congress.gov — House event 117721",
+"url": "https://www.congress.gov/event/118th-congress/house-event/117721"
+}
+],
+"tier": "A",
+"type": "legislative"
+},
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": null,
+"dateStart": "2024-11-13",
+"direction": "out",
+"edgeLabel": "presiding chair; entered Immaculate Constellation into the record",
+"id": "hearing-2024-11-13",
+"l0": true,
+"label": "House Oversight joint hearing, 13 November 2024 - 'Unidentified Anomalous Phenomena: Exposing the Truth'",
+"note": "INDEX OF DOCUMENTS: 'Report, Pentagon, \"Immaculate Constellation\"; submitted by Rep. Mace.'",
+"sources": [
+{
+"date": "2024-11-13",
+"name": "CHRG-118hhrg57440, printed hearing transcript, 'Unidentified Anomalous Phenomena: Exposing the Truth', Serial No. 118-135",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/pdf/CHRG-118hhrg57440.pdf"
+}
+],
+"tier": "A",
+"type": "programmatic"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "2025",
+"dateStart": "2023",
+"direction": "out",
+"edgeLabel": "Chairwoman; presided over the 2024 joint hearing",
+"id": "hoc-subcommittee-cybersecurity-it",
+"l0": false,
+"label": "Subcommittee on Cybersecurity, Information Technology, and Government Innovation",
+"note": "Mace chaired the joint hearing and moved the Immaculate Constellation document into the record.",
+"sources": [
+{
+"date": "2024-11-13",
+"name": "U.S. GPO, Hearing transcript, Serial No. 118-135 (CHRG-118hhrg57440)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "legislation",
+"dateEnd": null,
+"dateStart": "2024",
+"direction": "out",
+"edgeLabel": "Cosponsor",
+"id": "hr-10111-uap-whistleblower-protection-act",
+"l0": false,
+"label": "H.R. 10111 - UAP Whistleblower Protection Act (118th Congress)",
+"note": "Congress.gov cosponsor record.",
+"sources": [
+{
+"date": "2024-11-12",
+"name": "Congress.gov, H.R. 10111 — UAP Whistleblower Protection Act (118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/10111"
+}
+],
+"tier": "C",
+"type": "legislative"
+},
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": "2024-11-13",
+"dateStart": "2024-11-13",
+"direction": "out",
+"edgeLabel": "Mace entered the twelve-page report into the Congressional Record",
+"id": "immaculate-constellation",
+"l0": true,
+"label": "Immaculate Constellation disclosure, October-November 2024",
+"note": "Mace announced from the dais that committee staff had asked her to enter the document; it appears in the hearing's Index of Documents as 'Report, Pentagon, Immaculate Constellation; submitted by Rep. Mace.'",
+"sources": [
+{
+"date": "2024-11-13",
+"name": "GPO transcript CHRG-118hhrg57440",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm"
+}
+],
+"tier": "A",
+"type": "legislative"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": "2024",
+"direction": "out",
+"edgeLabel": "Moved the document into the Congressional Record from the chair",
+"id": "immaculate-constellation-12-page-report",
+"l0": true,
+"label": "Immaculate Constellation 12-page report entered into the Congressional Record",
+"note": "Index of Documents: 'Report, Pentagon, Immaculate Constellation; submitted by Rep. Mace.'",
+"sources": [
+{
+"date": "2024-11-13",
+"name": "U.S. GPO, Hearing transcript, Serial No. 118-135 (CHRG-118hhrg57440)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm"
+}
+],
+"tier": "A",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "2025",
+"dateStart": "2025",
+"direction": "out",
+"edgeLabel": "Member of Congress characterizes the records leak as a discrediting operation",
+"id": "ken-klippenstein",
+"l0": false,
+"label": "Ken Klippenstein",
+"note": "At the 9 September 2025 Task Force hearing Mace told a witness: 'We know they did that to Mr. Grusch. They leaked his private medical information, horrific things.' The statement is in the official record; the identity of 'they' is not.",
+"sources": [
+{
+"date": "2025-09-09",
+"name": "Task Force hearing record, Serial No. 119-44",
+"url": "https://www.congress.gov/119/chrg/CHRG-119hhrg61718/CHRG-119hhrg61718.pdf"
+}
+],
+"tier": "C",
+"type": "denial"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "2024",
+"dateStart": "2024",
+"direction": "out",
+"edgeLabel": "Mace elicited the only public description of a distributed contractor custody model",
+"id": "luis-elizondo",
+"l0": false,
+"label": "Luis D. Elizondo",
+"note": "The exchange converts the allegation from a claim about one company into a described system of allocation by technical domain across multiple primes.",
+"sources": [
+{
+"date": "2024-11-13",
+"name": "House Oversight hearing transcript, 'Unidentified Anomalous Phenomena: Exposing the Truth' (CHRG-118hhrg57440)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm"
+}
+],
+"tier": "A",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "Immaculate Constellation document hosted on Mace's House site",
+"id": "public-substack",
+"l0": false,
+"label": "Public",
+"note": "The hearing's own index of documents records the route the material took into the record: 'Report, Pentagon, ``Immaculate Constellation``; submitted by Rep. Mace.' Mace chaired the sitting - Shellenberger's statement opens by addressing her as Chairwoman - and it was she, not the witness, who entered the document.",
+"sources": [
+{
+"date": "2024-11-13",
+"name": "Joint House Oversight subcommittee hearing, 13 November 2024 (CHRG-118hhrg57440)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm"
+},
+{
+"date": null,
+"name": "https://www.npr.org/2024/11/13/nx-s1-5189426/ufo-uap-hearing-congress-2024",
+"url": "https://www.npr.org/2024/11/13/nx-s1-5189426/ufo-uap-hearing-congress-2024"
+},
+{
+"date": null,
+"name": "https://mace.house.gov/immaculateconstellation",
+"url": "https://mace.house.gov/immaculateconstellation"
+}
+],
+"tier": "C",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "House Armed Services member but not chair or ranking - no 119(e)(2) entitlement",
+"id": "waived-sap-notification-group",
+"l0": true,
+"label": "Waived SAP Notification Group",
+"note": "Mace sits on the House Armed Services Committee, one of the six defense committees, yet receives nothing under section 119(e)(2), which names only the chairman and ranking minority member. She would also not be told under section 119 that a waiver had been exercised at all. This is the clearest single illustration of how narrow the aperture is even inside a defense committee.",
+"sources": [
+{
+"date": "2026-08-22",
+"name": "10 U.S.C. 119, Special Access Programs: congressional oversight — subsections (e)(2) and (g) (OLRC prelim text, read 22 August 2026)",
+"url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim"
+},
+{
+"date": "2026-08-22",
+"name": "U.S. Senate, Dates of Sessions of the Congress (convening dates used to date each seat)",
+"url": "https://www.senate.gov/legislative/DatesofSessionsofCongress.htm"
+},
+{
+"date": "2024-11-13",
+"name": "CHRG-118hhrg57440, printed hearing transcript, 'Unidentified Anomalous Phenomena: Exposing the Truth', Serial No. 118-135",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/pdf/CHRG-118hhrg57440.pdf"
+},
+{
+"date": null,
+"name": "https://armedservices.house.gov/about/members.htm",
+"url": "https://armedservices.house.gov/about/members.htm"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": null,
+"dateStart": "2025-09-09",
+"direction": "out",
+"edgeLabel": "Stated the compartmentation trap in a public hearing",
+"id": "waived-usap",
+"l0": true,
+"label": "Waived unacknowledged special access program (waived USAP)",
+"note": "'only certain people know the name of the program, and if you do not know it, you cannot get the information.' This is the operational definition of an unacknowledged program from the oversight side.",
+"sources": [
+{
+"date": "2025-09-09",
+"name": "CHRG-119hhrg61718, 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm"
+}
+],
+"tier": "A",
+"type": "legislative"
+}
+],
+"date": "2024-11-13",
+"dateEnd": null,
+"dateStart": "2024-11-13",
+"deg": 11,
+"denials": [
+{
+"by": {
+"id": "nancy-mace",
+"label": "Nancy Ruth Mace"
+},
+"claimTier": 1,
+"denialKind": "directed",
+"label": "Member of Congress characterizes the records leak as a discrediting operation",
+"note": "At the 9 September 2025 Task Force hearing Mace told a witness: 'We know they did that to Mr. Grusch. They leaked his private medical information, horrific things.' The statement is in the official record; the identity of 'they' is not.",
+"of": {
+"id": "ken-klippenstein",
+"label": "Ken Klippenstein"
+},
+"sources": [
+{
+"date": "2025-09-09",
+"name": "Task Force hearing record, Serial No. 119-44",
+"url": "https://www.congress.gov/119/chrg/CHRG-119hhrg61718/CHRG-119hhrg61718.pdf"
+}
+]
+}
+],
+"domains": [
+"_rs-legislation",
+"congress-house",
+"grusch",
+"primes-custody"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "nancy-mace",
+"instId": "house-oversight-committee",
+"l0": false,
+"label": "Nancy Ruth Mace",
+"loc": "Charleston, SC",
+"locId": null,
+"members": null,
+"narrative": "Mace chaired the hearing at which the Immaculate Constellation document entered the Congressional Record. As Chairwoman of the Cybersecurity, Information Technology and Government Innovation subcommittee she co-chaired the 13 November 2024 joint hearing with Grothman, and opened it by saying plainly that people had tried to stop it: 'I am not going to name names, but there are certain individuals who did not want this hearing to happen because they feared what might be disclosed. But we stood firm.' She read Karl Nell's 'nonhuman intelligence exists' statement and H.R. McMaster's remarks into the record, and then personally moved the 12-page Immaculate Constellation report - delivered to Congress that morning by Michael Shellenberger - into the record, noting Luna's warning that saying the name aloud would put her 'on some list. Maybe a FISA warrant. So, come at me bro, I guess.' At the 2023 hearing she had already put the core oversight question to Grusch directly: 'Do you believe that officials at the highest levels of our national security apparatus have unlawfully withheld information from Congress and subverted our oversight authority?' and drew from him the answer that non-human biologics came with some recoveries. She closed by asking which agencies and contractors should be called next - the question that Burlison's 2026 FFRDC letters eventually answered in practice. She is a cosponsor of H.R. 10111 and sits on the Task Force.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Nancy Ruth Mace",
+"sources": [
+{
+"date": "2024-11-13",
+"name": "CHRG-118hhrg57440, printed hearing transcript, 'Unidentified Anomalous Phenomena: Exposing the Truth', Serial No. 118-135",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/pdf/CHRG-118hhrg57440.pdf"
+},
+{
+"date": "2023-07-26",
+"name": "CHRG-118hhrg53022, printed hearing transcript, 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency', Serial No. 118-53",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/pdf/CHRG-118hhrg53022.pdf"
+},
+{
+"date": "2023-07-26",
+"name": "U.S. GPO, Hearing transcript, Serial No. 118-53 (CHRG-118hhrg53022)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm"
+},
+{
+"date": "2024-11-13",
+"name": "U.S. GPO, Hearing transcript, Serial No. 118-135 (CHRG-118hhrg57440)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm"
+},
+{
+"date": "2024-11-13",
+"name": "House Oversight Committee, hearing page: UAP: Exposing the Truth",
+"url": "https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-exposing-the-truth/"
+},
+{
+"date": "2026-08-12",
+"name": "House Oversight Committee, Task Force on the Declassification of Federal Secrets — membership page",
+"url": "https://oversight.house.gov/subcommittee/task-force-on-the-declassification-of-federal-secrets/"
+},
+{
+"date": "2024-11-12",
+"name": "Congress.gov, H.R. 10111 — UAP Whistleblower Protection Act (118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/10111"
+},
+{
+"date": "2023-07-26",
+"name": "House Oversight hearing transcript, Serial No. 118-53",
+"url": "https://www.congress.gov/118/meeting/house/116282/documents/HHRG-118-GO06-Transcript-20230726.pdf"
+},
+{
+"date": "2025-09-09",
+"name": "Task Force on the Declassification of Federal Secrets hearing record, Serial No. 119-44",
+"url": "https://www.congress.gov/119/chrg/CHRG-119hhrg61718/CHRG-119hhrg61718.pdf"
+}
+],
+"status": "active",
+"sub": "U.S. Rep. (R-SC-1); chaired the 13 Nov 2024 UAP hearing",
+"tier": "A",
+"tierRationale": "Re-graded A on a global pass (rank 103 of 1027, score 60). 13 connections, 1 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D2.",
+"timeline": [
+{
+"date": "2024-11-13",
+"id": "ch-2024-11-13c",
+"label": "'You'll be on some list'",
+"precision": "day",
+"strand": "coverup",
+"text": "Luna warns Mace from the dais that saying 'Immaculate Constellation' aloud will put her on a list. Mace says it anyway.",
+"tier": "A"
+}
+],
+"unexplainedResidual": "A sworn witness offered Congress a named list of cooperative and hostile individuals inside an alleged illegal program. Three years later there is no public evidence the list was ever acted on.",
+"unverified": [
+"Whether Grusch delivered the witness list to Mace or the committee, and where it now resides."
+]
+}

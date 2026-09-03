@@ -1,0 +1,128 @@
+{
+"A": 2,
+"C": 1,
+"D": 2,
+"affiliations": [
+"McDonnell Douglas Astronautics Company (1956-1993)",
+"majesticdocuments.com, co-founder with Ryan S. Wood"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "1956",
+"event": "Joins Douglas Aircraft, later McDonnell Douglas Astronautics",
+"precision": "year"
+},
+{
+"date": "1968",
+"event": "Initiates a company-funded study of unidentified craft and their propulsion at the Huntington Beach facility",
+"precision": "year"
+},
+{
+"date": "1993",
+"event": "Retires from McDonnell Douglas",
+"precision": "year"
+},
+{
+"date": "1999",
+"event": "Launches the majesticdocuments.com archive with Ryan S. Wood",
+"precision": "year"
+}
+],
+"claims": [
+{
+"source": "Robert M. Wood's own repeated public account, including via the majesticdocuments.com archive he co-founded",
+"text": "Wood spent his career at McDonnell Douglas Astronautics and ran a company-funded study of unidentified craft from the Huntington Beach facility in the late 1960s.",
+"tier": 2
+},
+{
+"source": "Board inference from Wood's account and DoDI 3204.01 IR&D structure",
+"text": "McDonnell Douglas's interest was corporate self-protection - a prime contractor conducting proprietary research into an aerospace capability it did not possess. Reasoning: this matches the incentive structure later codified in DoD IR&D policy and named by Grusch, but no McDonnell Douglas internal record of the study has been released.",
+"tier": 3
+}
+],
+"cls": "person",
+"cluster": "other",
+"conflicts": [
+"Wood is the principal proponent of the authenticity of the Majestic-12 documents, a contested body of material; his corporate testimony and his documents work should be graded separately."
+],
+"connections": [
+{
+"claimTier": 2,
+"cls": "institution",
+"dateEnd": "1970",
+"dateStart": "1968",
+"direction": "out",
+"edgeLabel": "Wood ran a company-funded study of unidentified craft at McDonnell Douglas Astronautics",
+"id": "mcdonnell-douglas",
+"l0": false,
+"label": "McDonnell Douglas Corporation",
+"note": "Wood spent his career at the Huntington Beach astronautics organisation and has repeatedly described initiating an internal study on the reasoning that a prime could not afford to be last to know if the propulsion were real.",
+"sources": [
+{
+"date": "2020-07-09",
+"name": "DoD Instruction 3204.01, 'DoD Policy for Oversight of Independent Research and Development (IR&D)' (Change 2)",
+"url": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/320401p.pdf"
+}
+],
+"tier": "C",
+"type": "institutional"
+}
+],
+"date": "1970-01-01",
+"dateEnd": null,
+"dateStart": "1970-01-01",
+"deg": 1,
+"denials": [],
+"domains": [
+"_rs-archive-mirror",
+"primes-custody"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "1",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "robert-wood",
+"instId": "mcdonnell-douglas",
+"l0": false,
+"label": "Robert M. Wood",
+"loc": "Newport Beach, CA",
+"locId": null,
+"members": null,
+"narrative": "Wood is the documented instance of a prime contractor spending its own money to study the phenomenon - the IR&D pattern in its earliest and most benign form. A Cornell physics PhD, he spent his career at McDonnell Douglas Astronautics in Southern California on missile and space systems, and in the late 1960s ran a company-funded study of unidentified craft out of the Huntington Beach facility, on the reasoning that if the propulsion were real the company needed to know about it before a competitor did. That study is the direct ancestor of every later corporate 'internal interest' in the subject: not a government contract, not congressionally visible, funded from within the firm. After retiring in 1993 Wood turned to the documentary record, building with his son Ryan the majesticdocuments.com archive and applying forensic tests - typography, paper, security markings, terminology dating - to the Majestic-12 and related papers. That work is contested and the board treats the documents themselves as unresolved. Wood's value here is structural rather than evidentiary: he is a named senior engineer at a prime contractor who confirms from the inside that the primes looked, that they looked on their own dime, and that what they found was not reported anywhere Congress could see it.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Robert M. Wood",
+"sources": [
+{
+"date": "2026-03-09",
+"name": "Archived: DoD Instruction 3204.01, 'DoD Policy for Oversight of Independent Research and Development (IR&D)' (Change 2) (Wayback 2026-03-09)",
+"url": "https://web.archive.org/web/20260309144222/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/320401p.pdf"
+},
+{
+"date": "2026-08-12",
+"name": "The Majestic Documents archive (Robert M. Wood and Ryan S. Wood)",
+"url": "https://www.majesticdocuments.com/about/"
+},
+{
+"date": "2020-07-09",
+"name": "DoD Instruction 3204.01, 'DoD Policy for Oversight of Independent Research and Development (IR&D)' (Change 2)",
+"url": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/320401p.pdf"
+}
+],
+"status": "active",
+"sub": "Physicist and R&D manager, McDonnell Douglas Astronautics, 1956-1993; co-founder, majesticdocuments.com",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 794 of 1027, score 18). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D2.",
+"timeline": [],
+"unexplainedResidual": null,
+"unverified": [
+"Any McDonnell Douglas internal document authorising or reporting the study.",
+"Whether the study was charged to IR&D overhead or to discretionary corporate funds."
+]
+}

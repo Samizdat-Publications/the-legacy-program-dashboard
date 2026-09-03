@@ -1,0 +1,296 @@
+{
+"A": 3,
+"C": 1,
+"D": 2,
+"band": "funding",
+"claims": [
+{
+"source": "Nature 251, 602-607; CIA STARGATE collection",
+"text": "Puthoff and Targ's SRI remote-viewing work produced both open-literature publication in Nature (18 October 1974) and classified programme documentation later declassified in the CIA STARGATE release, including their November 1978 'Standard Remote Viewing Protocol (Local Targets).'",
+"tier": 1
+},
+{
+"source": "The Stargate Collection, CIA programme description",
+"text": "The programmes hosted at SRI were 'primarily handled by the DIA and CIA' and ran 'from the 1970s through 1995,' following early psychical research at SRI and SAIC.",
+"tier": 1
+}
+],
+"cls": "institution",
+"cluster": "ffrdc",
+"connections": [
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": "1983",
+"dateStart": "1978",
+"direction": "out",
+"edgeLabel": "SRI methodology transferred into the Army/DIA GRILL FLAME programme",
+"id": "grill-flame",
+"l0": false,
+"label": "GRILL FLAME",
+"note": "GRILL FLAME formalised operational remote viewing at Fort Meade using the SRI protocols, with SRI continuing as the research contractor.",
+"sources": [
+{
+"date": "2020-12-16",
+"name": "The Stargate Collection - CIA Program on Remote Viewing",
+"url": "https://www.theblackvault.com/documentarchive/the-stargate-collection/"
+},
+{
+"date": "1978-11-01",
+"name": "'Standard Remote Viewing Protocol (Local Targets)' by Harold E. Puthoff and Russell Targ, November 1978 (declassified)",
+"url": "https://www.theblackvault.com/documentarchive/standard-remote-viewing-protocol-local-targets-by-dr-harold-e-puthoff-and-russell-targ-november-1978/"
+}
+],
+"tier": "B",
+"type": "funding"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "1985",
+"dateStart": "1972",
+"direction": "in",
+"edgeLabel": "Puthoff founded and led the SRI psychoenergetics programme",
+"id": "harold-puthoff",
+"l0": false,
+"label": "Harold E. Puthoff",
+"note": "CIA's Office of Technical Service funded the work from 1972; it was later sponsored by Army INSCOM and DIA under successive codenames.",
+"sources": [
+{
+"date": "2020-12-16",
+"name": "The Stargate Collection - CIA Program on Remote Viewing",
+"url": "https://www.theblackvault.com/documentarchive/the-stargate-collection/"
+},
+{
+"date": "1974-10-18",
+"name": "R. Targ & H. Puthoff, 'Information transmission under conditions of sensory shielding', Nature 251, 602-607",
+"url": "https://www.nature.com/articles/251602a0"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "Army Intelligence obligated $75K for SRI selection and training of INSCOM personnel",
+"id": "inscom",
+"l0": true,
+"label": "US Army Intelligence and Security Command (INSCOM)",
+"note": "The 1978 talking paper records the ACSI and the commanding general agreeing that Army Intelligence would obligate seventy-five thousand dollars to support an SRI subject selection and training programme for INSCOM personnel, with initial orientation at SRI International on 15 to 17 November 1978.",
+"sources": [
+{
+"date": "1978-11-24",
+"name": "INSCOM Involvement in Remote Viewing (DoD Project GRILL FLAME), Nov 1978",
+"url": "https://archive.org/download/cia-readingroom-document-cia-rdp96-00788r001200410023-0/cia-rdp96-00788r001200410023-0_djvu.txt"
+}
+],
+"tier": "A",
+"type": "funding"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "1985",
+"dateStart": "1972",
+"direction": "in",
+"edgeLabel": "Green was CIA's monitor for the SRI psychoenergetics work",
+"id": "kit-green",
+"l0": false,
+"label": "Christopher C. 'Kit' Green",
+"note": "Green served in CIA's Office of Scientific Intelligence, Life Sciences Division, and has stated he was the officer to whom anomalous-phenomena reporting was routed.",
+"sources": [
+{
+"date": "2020-12-16",
+"name": "The Stargate Collection - CIA Program on Remote Viewing",
+"url": "https://www.theblackvault.com/documentarchive/the-stargate-collection/"
+},
+{
+"date": "1974-10-18",
+"name": "R. Targ & H. Puthoff, 'Information transmission under conditions of sensory shielding', Nature 251, 602-607",
+"url": "https://www.nature.com/articles/251602a0"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "1982",
+"dateStart": "1972",
+"direction": "in",
+"edgeLabel": "Targ was co-principal investigator at SRI 1972-1982",
+"id": "russell-targ",
+"l0": false,
+"label": "Russell Targ",
+"note": "Targ co-authored both the 1974 Nature paper and the November 1978 SRI remote-viewing protocol released in the STARGATE declassification.",
+"sources": [
+{
+"date": "1974-10-18",
+"name": "R. Targ & H. Puthoff, 'Information transmission under conditions of sensory shielding', Nature 251, 602-607",
+"url": "https://www.nature.com/articles/251602a0"
+},
+{
+"date": "1978-11-01",
+"name": "'Standard Remote Viewing Protocol (Local Targets)' by Harold E. Puthoff and Russell Targ, November 1978 (declassified)",
+"url": "https://www.theblackvault.com/documentarchive/standard-remote-viewing-protocol-local-targets-by-dr-harold-e-puthoff-and-russell-targ-november-1978/"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 2,
+"cls": "event",
+"dateEnd": "1986",
+"dateStart": "1972",
+"direction": "in",
+"edgeLabel": "SRI held the science half of the remote viewing effort from 1972",
+"id": "stargate-program",
+"l0": true,
+"label": "STAR GATE and predecessor remote viewing programs, 1970-1995",
+"note": "Puthoff and Targ began CIA-sponsored work at SRI's Artificial Intelligence Center in 1972 and continued with intelligence community funding until they left in the mid-1980s.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Wikipedia - SRI International",
+"url": "https://en.wikipedia.org/wiki/SRI_International"
+},
+{
+"date": "2026-08-12",
+"name": "Wikipedia - Stargate Project (U.S. Army unit)",
+"url": "https://en.wikipedia.org/wiki/Stargate_Project_(U.S._Army_unit)"
+}
+],
+"tier": "A",
+"type": "research"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "1946",
+"deg": 6,
+"denials": [],
+"desc": "SRI was the private vehicle through which the United States ran a compartmented human-intelligence-collection experiment for nearly two decades without acknowledging it. Spun out of Stanford University, SRI held large volumes of classified defence work; from 1972 its Radio Physics Laboratory hosted Harold Puthoff and Russell Targ's psychoenergetics programme, funded initially by CIA's Office of Technical Service and later by Army INSCOM and DIA under successive codenames. The arrangement is the archetype this board tracks: a nonprofit research institute with a security apparatus, a government sponsor with deniability, published open-literature output where convenient (Nature, October 1974) and a classified programme record that took until 1995 to declassify. When the programme was finally exposed to independent evaluation and terminated, the personnel did not leave the field - Puthoff went on to the Institute for Advanced Studies at Austin, then NIDS, then BAASS, then To The Stars Academy. SRI is where the template of government-funded, privately-housed, unacknowledged anomalous research was proven to work.",
+"domains": [
+"history-1970s-2000s"
+],
+"dossier": {
+"claims": [
+{
+"source": "R. Targ and H. Puthoff, Nature 251, 602-607, https://www.nature.com/articles/251602a0 ; 'Standard Remote Viewing Protocol (Local Targets)', November 1978, https://www.theblackvault.com/documentarchive/standard-remote-viewing-protocol-local-targets-by-dr-harold-e-puthoff-and-russell-targ-november-1978/",
+"text": "Puthoff and Targ's SRI remote-viewing work produced both open-literature publication in Nature on 18 October 1974 and classified programme documentation later declassified in the CIA STARGATE release, including their November 1978 'Standard Remote Viewing Protocol (Local Targets).'",
+"tier": 1
+},
+{
+"source": "The Stargate Collection, CIA programme description, https://www.theblackvault.com/documentarchive/the-stargate-collection/",
+"text": "The programmes hosted at SRI were 'primarily handled by the DIA and CIA' and ran 'from the 1970s through 1995,' following early psychical research at SRI and SAIC.",
+"tier": 1
+},
+{
+"source": "Talking paper, 'INSCOM Involvement in Remote Viewing (DoD Project GRILL FLAME)', with milestone attachment dated 24 Nov 78, CIA-RDP96-00788R001200410023-0, https://archive.org/download/cia-readingroom-document-cia-rdp96-00788r001200410023-0/cia-rdp96-00788r001200410023-0_djvu.txt",
+"text": "Army Intelligence obligated seventy-five thousand dollars to support 'an SRI Subject selection and training program for INSCOM personnel over the next year', the money to train a project manager and three subjects, with initial orientation at SRI International on 15 to 17 November 1978 and the contract let via AMSAA.",
+"tier": 1
+},
+{
+"source": "The Stargate Collection, CIA programme description, https://www.theblackvault.com/documentarchive/the-stargate-collection/",
+"text": "Kit Green served in CIA's Office of Scientific Intelligence, Life Sciences Division, and has stated he was the officer to whom anomalous-phenomena reporting was routed while the SRI work was running.",
+"tier": 2
+}
+],
+"connections": [
+"Harold Puthoff founded and led the psychoenergetics programme here from 1972, and Russell Targ was co-principal investigator until 1982; both signed the 1974 Nature paper and the November 1978 protocol.",
+"SRI methodology transferred into grill-flame, which formalised operational remote viewing at Fort Meade using the SRI protocols while SRI continued as the research contractor.",
+"inscom paid for the selection and training of its own personnel here, on Army Intelligence money, in 1978.",
+"Kit Green is carried as CIA's monitor for the work at Tier 2, on his own account of where anomalous-phenomena reporting was routed.",
+"stargate-program is linked at Tier 2, covering the science half of the effort from 1972; that link rests on secondary encyclopedia sourcing and is graded accordingly."
+],
+"denialPosture": "The board records no denial link on this node in either direction, and no statement by the institute about the programme appears in any record opened here. SRI's posture in the file is not denial but absence: the sponsor's documents describe the work, the sponsor's release schedule governed when it became public, and the contractor is visible only where a government paper names it. That is a structural property of the arrangement rather than a choice anyone is recorded making.",
+"narrative": "The reason SRI sits at programme level on this board is that it is the earliest fully documented instance of the structure the rest of the board argues about. The government wanted a capability it could not be seen to want. It did not build the capability inside an agency. It put the money through a nonprofit institute in California, took the results back through intelligence channels, and let the researchers publish the uncontroversial half in Nature while the operational half sat behind codenames for twenty years. The CIA's own programme description says the arrangement plainly enough: the work hosted there was 'primarily handled by the DIA and CIA' and ran 'from the 1970s through 1995.'\n\nThe Army side of the file shows how small and how ordinary the mechanism was. Seventy-five thousand dollars, obligated by Army Intelligence, bought the selection and training of a project manager and three INSCOM subjects, with initial orientation at SRI on 15 to 17 November 1978 and the contract let through AMSAA. That is a line item, not a conspiracy, and it is the point: the institute supplied a method and a set of trained people to a command that then ran the operational work under a Secretary of the Army designated special access programme. The research house never had to hold the compartment. It only had to hold the technique.\n\nThe board's own record here is thinner than the node's importance, and the file says so. Two claims of its own, both Tier 1, and a founding date carried on the node with nothing opened behind it. What SRI is doing on this map rests on documents belonging to its sponsors, which is exactly the condition a private research contractor produces: the institution is legible only through the agencies that paid it.",
+"openQuestions": [
+"The node carries a start date of 1946 with nothing opened behind it. SRI's own founding record, corporate documents and charter have not been obtained for this board.",
+"No contract instrument is in hand. The seventy-five thousand dollar obligation is documented from the Army's side; the SRI contract itself, its scope and its deliverables are not.",
+"The record here is two claims of its own, against a node the board treats as an archetype. The succession from SRI to SAIC is named only inside CIA's programme description, and the terms on which the work moved have not been established."
+],
+"roles": [
+"research",
+"funding",
+"concealment"
+],
+"whatItIs": "An independent nonprofit research institute, spun out of Stanford University, holding large volumes of classified defence work. From 1972 its Radio Physics Laboratory hosted the psychoenergetics programme run by Harold Puthoff and Russell Targ, funded first by CIA's Office of Technical Service and later by Army INSCOM and the Defense Intelligence Agency under a series of codenames. The programme produced open-literature publication where that was convenient, in Nature on 18 October 1974, and a classified programme record that was not declassified until 1995.",
+"whyImplicated": "SRI is where the arrangement this board tracks everywhere else was first proven to work: a nonprofit research house with its own security apparatus, a government sponsor that keeps deniability, a published face and a compartmented record. It is not implicated by allegation. The relationship is documented from the sponsor's side, in Army paperwork that names SRI as the contractor and gives the figure, and from the Agency's side, in the description of the programmes it hosted. The personnel line matters as much as the institution: when the work was finally evaluated and terminated, Puthoff did not leave the field, moving on to the Institute for Advanced Studies at Austin, then NIDS, then BAASS, then To The Stars Academy. The template outlived the contract."
+},
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "sri-international",
+"l0": true,
+"label": "SRI International (Stanford Research Institute)",
+"locLabel": null,
+"members": [
+{
+"cls": "program",
+"id": "grill-flame",
+"label": "GRILL FLAME",
+"tier": "B"
+},
+{
+"cls": "person",
+"id": "harold-puthoff",
+"label": "Harold E. Puthoff",
+"tier": "A"
+},
+{
+"cls": "person",
+"id": "kit-green",
+"label": "Christopher C. 'Kit' Green",
+"tier": "A"
+},
+{
+"cls": "person",
+"id": "russell-targ",
+"label": "Russell Targ",
+"tier": "C"
+}
+],
+"short": "SRI International (Stanford Research Institute)",
+"sources": [
+{
+"date": "1974-10-18",
+"name": "R. Targ & H. Puthoff, 'Information transmission under conditions of sensory shielding', Nature 251, 602-607",
+"url": "https://www.nature.com/articles/251602a0"
+},
+{
+"date": "1978-11-01",
+"name": "'Standard Remote Viewing Protocol (Local Targets)' by Harold E. Puthoff and Russell Targ, November 1978 (declassified)",
+"url": "https://www.theblackvault.com/documentarchive/standard-remote-viewing-protocol-local-targets-by-dr-harold-e-puthoff-and-russell-targ-november-1978/"
+},
+{
+"date": "2020-12-16",
+"name": "The Stargate Collection - CIA Program on Remote Viewing",
+"url": "https://www.theblackvault.com/documentarchive/the-stargate-collection/"
+}
+],
+"sub": "Independent nonprofit research institute; host of the CIA/DIA psychoenergetics programme 1972-1990",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 341 of 1027, score 35). 6 connections, 2 of them custody/witness/funding/programmatic. Axes C1/A3/D2.",
+"timeline": [
+{
+"date": "1972-01-01",
+"id": "t-1972-sri",
+"label": "CIA funds SRI psychoenergetics",
+"precision": "year",
+"strand": "program",
+"text": "Harold Puthoff and Russell Targ begin CIA-funded remote-viewing research at Stanford Research Institute - the start of a 23-year compartmented programme in a publicly ridiculed domain.",
+"tier": "A"
+}
+]
+}

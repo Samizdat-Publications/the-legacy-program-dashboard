@@ -1,0 +1,115 @@
+{
+"A": 2,
+"C": 0,
+"D": 1,
+"affiliations": [
+"US Senate (1968-2009)",
+"Chairman, Senate Appropriations Committee (1997-2005)",
+"President pro tempore (2003-2007)"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "2007-01-01",
+"event": "Joins Reid and Inouye in backing the ~$22M DIA appropriation",
+"precision": "year"
+},
+{
+"date": "2008-11-18",
+"event": "Loses re-election following indictment later vacated for prosecutorial misconduct",
+"precision": "day"
+},
+{
+"date": "2010-08-09",
+"event": "Killed in a plane crash near Dillingham, Alaska",
+"precision": "day"
+}
+],
+"claims": [
+{
+"source": "Honolulu Civil Beat, 13 June 2021; Harry Reid interviews with KLAS/Mystery Wire",
+"text": "Stevens was one of three senators — with Reid and Inouye — who directed $22 million into the defense black budget in 2007 for what became AAWSAP.",
+"tier": 2
+},
+{
+"source": "Inference from the FY2008 and FY2010 appropriations spanning a change in majority and administration",
+"text": "Stevens's participation converted the earmark from a partisan favour into a leadership consensus, which is why it survived the 2008 change in Senate control without challenge.",
+"tier": 3
+}
+],
+"cls": "person",
+"cluster": "oversight",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 2,
+"cls": "legislation",
+"dateEnd": "2008",
+"dateStart": "2007",
+"direction": "out",
+"edgeLabel": "provided bipartisan cover for the earmark",
+"id": "defense-appropriations-aawsap",
+"l0": false,
+"label": "Defense Appropriations Acts FY2008 and FY2010 — the $22M AAWSAP appropriation",
+"note": "Stevens, the senior Republican appropriator and former committee chairman, is consistently named with Reid and Inouye as one of the three senators behind the appropriation.",
+"sources": [
+{
+"date": "2021-06-13",
+"name": "Honolulu Civil Beat",
+"url": "https://www.civilbeat.org/2021/06/how-hawaii-sen-dan-inouye-helped-set-the-stage-for-ufo-research/"
+}
+],
+"tier": "B",
+"type": "funding"
+}
+],
+"date": "2007-01-01",
+"dateEnd": null,
+"dateStart": "2007-01-01",
+"deg": 1,
+"denials": [],
+"domains": [
+"aawsap-aatip"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "2",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "ted-stevens",
+"instId": "us-senate",
+"l0": false,
+"label": "Theodore F. Stevens",
+"loc": "Washington, DC",
+"locId": "l-dc",
+"members": null,
+"narrative": "Stevens supplied the bipartisan cover and the second half of the appropriations muscle. He had chaired Senate Appropriations from 1997 to 2005 and remained its most senior Republican in 2007, and his sign-off is what made the AAWSAP earmark a leadership consensus item rather than a Democratic Majority Leader's personal project. Reid has said Stevens had a personal interest in the subject dating to his service as a wartime pilot, an account that is in Reid's telling only. Stevens matters to the board structurally: the AAWSAP appropriation is a textbook case of the appropriations-leadership triad creating a classified program that the authorizing committees never saw, and Stevens is one third of that triad. He lost his seat in 2008 following a prosecution later vacated for government misconduct, and died in a plane crash in Alaska on 9 August 2010, while AAWSAP was still running.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Theodore F. Stevens",
+"sources": [
+{
+"date": "2021-06-13",
+"name": "Honolulu Civil Beat — How Hawaii Sen. Dan Inouye Helped Set The Stage For UFO Research",
+"url": "https://www.civilbeat.org/2021/06/how-hawaii-sen-dan-inouye-helped-set-the-stage-for-ufo-research/"
+},
+{
+"date": "2021-05-01",
+"name": "KLAS 8 News Now — Former Sen. Harry Reid talks UFOs in sit-down interview",
+"url": "https://www.8newsnow.com/investigators/i-team-former-sen-harry-reid-talks-ufos-in-sit-down-interview/"
+}
+],
+"status": "dead",
+"sub": "US Senator (R-AK); former Chairman, Senate Appropriations Committee",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 875 of 1027, score 15). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A2/D1.",
+"timeline": [],
+"unexplainedResidual": null,
+"unverified": [
+"Reid's account of Stevens's personal wartime sighting interest is single-sourced to Reid."
+]
+}

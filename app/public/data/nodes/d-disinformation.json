@@ -1,0 +1,118 @@
+{
+"A": 1,
+"C": 1,
+"D": 1,
+"band": null,
+"claims": [
+{
+"source": "FBI Records: The Vault - 'Majestic 12'",
+"text": "The FBI maintains a public file on the Majestic 12 documents, released through its Vault reading room, recording the investigation of their authenticity.",
+"tier": 1
+},
+{
+"source": "Klass, 'The MJ-12 Crashed-Saucer Documents', Skeptical Inquirer",
+"text": "Philip J. Klass published a detailed forensic critique of the MJ-12 documents in Skeptical Inquirer in 1988, identifying typographic and formatting anomalies.",
+"tier": 2
+},
+{
+"source": "Inference from the documented MJ-12 controversy",
+"text": "The circulation of fabricated documents produces an evidentiary tax on all genuine documents in the same subject area, which is a benefit accruing specifically to the party concealing genuine records. Reasoning: no other party gains from the contamination.",
+"tier": 3
+}
+],
+"cls": "domain",
+"cluster": "ic",
+"connections": [
+{
+"claimTier": 1,
+"cls": "domain",
+"dateEnd": null,
+"dateStart": "1984-12-11",
+"direction": "out",
+"edgeLabel": "The largest disputed document corpus",
+"id": "d-mj12",
+"l0": false,
+"label": "Majestic-12 Corpus",
+"note": "The FBI's Majestic 12 file records the investigation into the corpus's authenticity, making MJ-12 the principal case study for the disinformation domain.",
+"sources": [
+{
+"date": "2011-04-01",
+"name": "FBI Records: The Vault - 'Majestic 12'",
+"url": "https://vault.fbi.gov/Majestic%2012"
+}
+],
+"tier": "C",
+"type": "investigative"
+},
+{
+"claimTier": 2,
+"cls": "domain",
+"dateEnd": null,
+"dateStart": "1980-01-01",
+"direction": "in",
+"edgeLabel": "Fabricated material as the delivery vehicle",
+"id": "d-psyop",
+"l0": false,
+"label": "Psychological Operations & Perception Management",
+"note": "The Bennewitz episode, in which AFOSI personnel supplied fabricated documents, is the documented case linking perception management to forged records; Doty's own personnel file is public.",
+"sources": [
+{
+"date": "2021-05-20",
+"name": "Richard Doty Personnel File - New Mexico State Police [321 pages]",
+"url": "https://www.theblackvault.com/documentarchive/richard-doty-personnel-file-new-mexico-state-police/"
+}
+],
+"tier": "B",
+"type": "programmatic"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "1984-12-11",
+"deg": 2,
+"denials": [],
+"desc": "A body of fabricated documents is the most efficient way to poison an evidentiary well, and this field has one of the largest such bodies on record. The Majestic-12 papers - first surfacing on unsolicited film delivered to Jaime Shandera in December 1984, purporting to be an Eisenhower-era briefing on recovered craft - were investigated by the FBI, whose file on the matter is public in the Bureau's Vault reading room and records the Air Force Office of Special Investigations' assessment that the documents were bogus. Whether any given MJ-12 document is a forgery, a forgery built on real classified content, or a genuine record does not change the structural point: once fabricated material enters circulation, every genuine document acquires the burden of proving it is not one of them, and that burden is the concealment dividend. This board therefore treats forged documents as evidence of an act - someone made them, at a cost, for a purpose - and asks who benefited from their circulation. Scoring high on this domain means an entity authored, distributed, authenticated or debunked fabricated material, all four of which are consequential roles.",
+"domains": [
+"w2-taxonomy"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "1",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "d-disinformation",
+"l0": false,
+"label": "Disinformation & Fabricated Documents",
+"locLabel": null,
+"members": null,
+"short": "Disinformation & Fabricated Documents",
+"sources": [
+{
+"date": "2011-04-01",
+"name": "FBI Records: The Vault - 'Majestic 12'",
+"url": "https://vault.fbi.gov/Majestic%2012"
+},
+{
+"date": "2025-07-31",
+"name": "John Greenewald Jr., 'FBI File: Majestic-12', The Black Vault",
+"url": "https://www.theblackvault.com/documentarchive/majestic-12/"
+},
+{
+"date": "1988-01-01",
+"name": "Philip J. Klass, 'The MJ-12 Crashed-Saucer Documents', Skeptical Inquirer",
+"url": "https://skepticalinquirer.org/1988/01/the-mj-12-crashed-saucer-documents/"
+},
+{
+"date": "2026-08-12",
+"name": "The Majestic Documents (Wood & Wood)",
+"url": "https://majesticdocuments.com/"
+}
+],
+"sub": "Evidentiary domain - forged and salted records as a concealment instrument",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 762 of 1027, score 20). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A1/D1.",
+"timeline": []
+}

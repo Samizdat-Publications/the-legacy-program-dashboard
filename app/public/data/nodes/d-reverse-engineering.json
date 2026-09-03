@@ -1,0 +1,129 @@
+{
+"A": 3,
+"C": 3,
+"D": 2,
+"band": null,
+"claims": [
+{
+"source": "House Oversight Committee hearing, 26 July 2023",
+"text": "David Grusch testified under oath on 26 July 2023 that a multi-decade reverse-engineering programme exists and that he referred named witnesses to the ICIG and to Congress.",
+"tier": 2
+},
+{
+"source": "AARO Historical Record Report Volume I",
+"text": "AARO's Volume I report (February 2024) states that it found no empirical evidence for reverse engineering of extraterrestrial technology by the USG or private companies.",
+"tier": 1
+},
+{
+"source": "AARO Aluminum Materials Analysis Supplement, document 26-P-0218",
+"text": "AARO's January 2026 Aluminum Materials Analysis Supplement reports that Oak Ridge National Laboratory analysis of a specimen recovered near Flint Ridge, Ohio found it consistent with conventional aluminium-silicon casting alloys, with no radioactive emissions detected.",
+"tier": 1
+}
+],
+"cls": "domain",
+"cluster": "other",
+"connections": [
+{
+"claimTier": 2,
+"cls": "domain",
+"dateEnd": null,
+"dateStart": "1947-07-01",
+"direction": "in",
+"edgeLabel": "Exploitation is the programme's purpose",
+"id": "d-legacy",
+"l0": false,
+"label": "Legacy Program",
+"note": "The legacy claim and the reverse-engineering claim are the same claim stated at different stages; AARO addresses and rejects both in Volume I.",
+"sources": [
+{
+"date": "2024-02-01",
+"name": "AARO, Historical Record Report Volume I",
+"url": "https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf"
+}
+],
+"tier": "B",
+"type": "programmatic"
+},
+{
+"claimTier": 1,
+"cls": "domain",
+"dateEnd": null,
+"dateStart": "1947-07-08",
+"direction": "out",
+"edgeLabel": "Exploitation begins with characterisation",
+"id": "d-materials",
+"l0": false,
+"label": "Materials and custody analysis",
+"note": "Materials characterisation is the first step of any exploitation workflow and the only step whose outputs have been released - so far all conventional.",
+"sources": [
+{
+"date": "2022-01-01",
+"name": "Nolan, Vallee, Jiang & Lemke, Progress in Aerospace Sciences 128:100788",
+"url": "https://doi.org/10.1016/j.paerosci.2021.100788"
+},
+{
+"date": "2026-01-01",
+"name": "AARO - Aluminum Materials Analysis Supplement (Jan 2026)",
+"url": "https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Aluminum_Materials_Analysis_Supplement_Jan2026.pdf"
+}
+],
+"tier": "B",
+"type": "research"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "1947-07-01",
+"deg": 2,
+"denials": [],
+"desc": "Reverse engineering is a mature, unremarkable defence discipline - the United States has run foreign materiel exploitation on captured Soviet aircraft, missiles and radars for eight decades, with dedicated organisations, facilities and a documented workflow: teardown, materials characterisation, functional analysis, then reproduction attempts. The claim this board tracks is not that the discipline is exotic but that it was applied to an artifact of unknown origin, which changes only the input. The workflow's signature is what makes it researchable: exploitation requires metallurgists, spectroscopists, structural engineers and test facilities, and those people leave publication gaps, clearance records, and unexplained capability jumps in adjacent unclassified fields. AARO's Volume I report addresses the claim directly and rejects it; David Grusch's sworn July 2023 testimony asserts it directly. The honest statement of the evidentiary position is that no artifact has been produced for independent examination, and every materials analysis released to date - including AARO's own January 2026 supplement on an aluminium specimen analysed by Oak Ridge National Laboratory - has returned a conventional result. Scoring high on this domain means an entity is alleged or documented to have performed exploitation work.",
+"domains": [
+"_rs-archive-mirror",
+"w2-taxonomy"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "d-reverse-engineering",
+"l0": false,
+"label": "Reverse Engineering",
+"locLabel": null,
+"members": null,
+"short": "Reverse Engineering",
+"sources": [
+{
+"date": "2026-05-08",
+"name": "Archived: AARO, Report on the Historical Record of U.S. Government Involvement with UAP, Volume I (Wayback 2026-05-08)",
+"url": "https://web.archive.org/web/20260508180210/https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf"
+},
+{
+"date": "2026-05-08",
+"name": "Archived: AARO - Aluminum Materials Analysis Supplement (Jan 2026) (Wayback 2026-05-08)",
+"url": "https://web.archive.org/web/20260508180257/https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Aluminum_Materials_Analysis_Supplement_Jan2026.pdf"
+},
+{
+"date": "2024-02-01",
+"name": "AARO, Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
+"url": "https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf"
+},
+{
+"date": "2026-01-01",
+"name": "AARO - Aluminum Materials Analysis Supplement (Jan 2026)",
+"url": "https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Aluminum_Materials_Analysis_Supplement_Jan2026.pdf"
+},
+{
+"date": "2023-07-27",
+"name": "NPR - U.S. recovered non-human biologics from UFO crash sites, former intel official says",
+"url": "https://www.npr.org/2023/07/27/1190390376/ufo-hearing-non-human-biologics-uaps"
+}
+],
+"sub": "Technical domain - exploitation of a recovered artifact into reproducible engineering",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 273 of 1027, score 38). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C3/A3/D2.",
+"timeline": []
+}

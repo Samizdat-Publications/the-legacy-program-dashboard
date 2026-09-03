@@ -1,0 +1,150 @@
+{
+"A": 0,
+"C": 0,
+"D": 0,
+"band": null,
+"claims": [
+{
+"source": "enigmalabs.io/about (company self-description)",
+"text": "Enigma Labs states it is a private company operating 'the world's first platform dedicated to Unidentified Anomalous Phenomena', with a searchable database of over 50,000 sighting reports, an interactive map, and more than 560,000 real-time sighting alerts sent to users.",
+"tier": 2
+},
+{
+"source": "enigmalabs.io/about",
+"text": "The company states it remains neutral on the origins of the phenomenon and describes itself as an aggregator of people's sighting experiences.",
+"tier": 2
+},
+{
+"source": "Inference from enigmalabs.io/about",
+"text": "The published About material describes no verification, validation or de-duplication protocol, so the Enigma corpus should be treated as raw public intake with unknown signal-to-noise, valuable for volume and geography rather than for individual case strength. Reasoning: absence of any stated methodology on the company's own descriptive page.",
+"tier": 3
+},
+{
+"source": "Inference",
+"text": "A privately held report corpus of this size is structurally outside the reach of classification authority, which makes it the natural control set against which government-released datasets can be tested for omissions. Reasoning: from ownership structure, not from any audit performed here.",
+"tier": 3
+},
+{
+"source": "Board bookkeeping",
+"text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
+"tier": 3
+}
+],
+"cls": "institution",
+"cluster": "media",
+"connections": [
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "Documented AARO contact with Enigma Labs, released heavily redacted",
+"id": "aaro",
+"l0": true,
+"label": "All-domain Anomaly Resolution Office (AARO)",
+"note": "DoD released 50 pages of emails and internal correspondence between AARO and Enigma Labs under FOIA case 23-F-0711, finalized 3 July 2025, with the majority redacted under exemptions (b)(5) and (b)(6). The documents record multiple virtual and in-person meetings including then-Director Sean Kirkpatrick. One unredacted passage, apparently from Enigma Labs, reads: 'We have a team of 20 engineers, data scientists, and ex service vets with clearance who have built this rigorous product.' Set against that, the company's public position is 'We are not part of any country's government or military. We have no signed partnerships or collaborations to date.' Contact is documented; partnership is denied; the two are not in conflict, and the edge records the former.",
+"sources": [
+{
+"date": "2025-07-03",
+"name": "The Black Vault, 'FOIA Response Reveals Contact Between AARO and Enigma Labs; Details Remain Largely Redacted' (DoD FOIA case 23-F-0711, 50 pages, finalized 3 July 2025)",
+"url": "https://www.theblackvault.com/documentarchive/foia-response-reveals-contact-between-aaro-and-enigma-labs-details-remain-largely-redacted/"
+},
+{
+"date": null,
+"name": "The Black Vault, 'FOIA Response Reveals Contact Between AARO and Enigma Labs; Details Remain Largely Redacted' (DoD FOIA case 23-F-0711, response finalized July 3, 2025) -- https://www.theblackvault.com/documentarchive/foia-response-reveals-contact-between-aaro-and-enigma-labs-details-remain-largely-redacted/",
+"url": ""
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "Black Vault FOIA surfaced the AARO-Enigma correspondence",
+"id": "john-greenewald",
+"l0": false,
+"label": "John Greenewald Jr.",
+"note": "The Black Vault filed the request in January 2023 and it was finalized on 3 July 2025, which makes Greenewald's FOIA practice the origin point for public knowledge that AARO and Enigma Labs were in contact at all. He is appealing the redactions. The relationship here is that of requester to subject: nothing in the release suggests any other tie.",
+"sources": [
+{
+"date": "2025-07-03",
+"name": "The Black Vault, FOIA case 23-F-0711 release and reporting",
+"url": "https://www.theblackvault.com/documentarchive/foia-response-reveals-contact-between-aaro-and-enigma-labs-details-remain-largely-redacted/"
+},
+{
+"date": null,
+"name": "The Black Vault, 'FOIA Response Reveals Contact Between AARO and Enigma Labs; Details Remain Largely Redacted' -- https://www.theblackvault.com/documentarchive/foia-response-reveals-contact-between-aaro-and-enigma-labs-details-remain-largely-redacted/",
+"url": ""
+}
+],
+"tier": "B",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "Enigma cross-referencing PURSUE files against its civilian sighting database",
+"id": "pursue-releases",
+"l0": true,
+"label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters",
+"note": "PURSUE publishes what the Department describes as 'unresolved cases, meaning the government is unable to make a definitive determination on the nature of the observed phenomena', on a rolling basis. Its own release index dates the first tranche to 8 May 2026 and runs through Release 05 on 7 August 2026. Tier 2 because the government page establishes the releases and their dates but says nothing about Enigma Labs; the statement that Enigma was folding PURSUE material into its maps and app comes from a consultant's remark that no primary source read here carries.",
+"sources": [
+{
+"date": "2026-08-25",
+"name": "U.S. Department of War, 'Presidential Unsealing and Reporting System for UAP Encounters' (PURSUE)",
+"url": "https://www.war.gov/UFO/"
+},
+{
+"date": null,
+"name": "Brandi Vincent, ''Data alone is not disclosure': UAP research community reacts to Trump's first PURSUE file drop,' DefenseScoop, May 14, 2026 -- https://defensescoop.com/2026/05/14/uap-trump-first-pursue-ufo-file-drop/",
+"url": ""
+}
+],
+"tier": "A",
+"type": "investigative"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": null,
+"deg": 3,
+"denials": [],
+"desc": "Enigma Labs is a privately held company operating what it calls the world's first platform dedicated to unidentified anomalous phenomena: a mobile and web system that takes sighting reports from the public, pushes real-time proximity alerts, plots an interactive map and exposes a searchable database that it states exceeds 50,000 reports with more than 560,000 alerts sent. It is staffed as a full-time commercial team rather than a volunteer network, and it states editorial neutrality on the origin question - positioning itself as an aggregator of sighting experiences that will 'follow the science wherever it leads'. Its board relevance is custodial: it is one of the few large UAP report corpora held entirely outside government, which means it cannot be classified, reorganised out of existence or narrowed by an agency deciding what counts as a case. The analyst Alejandro Rojas works with Enigma and its dataset has been used to characterise what the government file releases of 2025-2026 do and do not contain. The caveat recorded here is real: the company publishes little about its verification protocol, so the corpus is best treated as an unfiltered intake stream rather than an adjudicated case file.",
+"domains": [
+"_rs-stubs-known",
+"_stubs"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "nd",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "enigma-labs",
+"l0": false,
+"label": "Enigma Labs",
+"locLabel": null,
+"members": null,
+"short": "Enigma Labs",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Enigma Labs - About (official)",
+"url": "https://enigmalabs.io/about"
+}
+],
+"sub": "UAP reporting platform",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 985 of 1027, score 10). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D0.",
+"timeline": []
+}

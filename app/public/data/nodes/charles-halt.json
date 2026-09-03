@@ -1,0 +1,167 @@
+{
+"A": 2,
+"C": 1,
+"D": 3,
+"affiliations": [
+"United States Air Force (1965-1991)",
+"81st Combat Support Group, RAF Bentwaters/Woodbridge (1980-1981)"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "1980-12-26",
+"event": "USAF security patrolmen at the RAF Woodbridge east gate report lights descending into Rendlesham Forest; three patrolmen proceed on foot.",
+"precision": "day"
+},
+{
+"date": "1980-12-28",
+"event": "Halt personally leads a party into the forest with a Geiger counter and a portable tape recorder; records the sighting live.",
+"precision": "day"
+},
+{
+"date": "1981-01-13",
+"event": "Halt signs the memorandum 'Unexplained Lights' to RAF/CC.",
+"precision": "day"
+},
+{
+"date": "1983-01-01",
+"event": "Halt memo first released publicly under US FOIA, years before the UK MoD acknowledged its own file.",
+"precision": "year"
+},
+{
+"date": "1997-09-01",
+"event": "Memo re-released by OASD(PA) FOIA under case 97-F-1677 to The Black Vault.",
+"precision": "month"
+},
+{
+"date": "2010-06-01",
+"event": "Halt executes a notarized affidavit stating the objects were not man-made and that the incident was officially suppressed.",
+"precision": "month"
+},
+{
+"date": "2020-12-26",
+"event": "On the 40th anniversary Halt continues to maintain the account publicly in BBC and researcher interviews.",
+"precision": "day"
+}
+],
+"claims": [
+{
+"source": "Halt memorandum, 'Unexplained Lights,' 13 Jan 81, released under DoD FOIA case 97-F-1677",
+"text": "Halt's memo states the object was 'metalic in appearance and triangular in shape, approximately two to three meters across the base and approximately two meters high,' and that it 'illuminated the entire forest with a white light.'",
+"tier": 1
+},
+{
+"source": "Halt memorandum, 13 Jan 81, paragraph 2",
+"text": "Halt's memo records physical trace evidence: three depressions 1.5 inches deep and 7 inches in diameter, and beta/gamma readings of 0.1 milliroentgens peaking in the depressions and at the centre of the triangle they formed.",
+"tier": 1
+},
+{
+"source": "Charles I. Halt, notarized affidavit, 2010; restated in BBC and researcher interviews on the 40th anniversary, 26 Dec 2020",
+"text": "Halt has stated in a notarized affidavit that the objects were under intelligent control, were not of terrestrial origin, and that the US and UK governments acted to suppress the incident.",
+"tier": 2
+}
+],
+"cls": "person",
+"cluster": "witness",
+"conflicts": [
+"UK MoD's contemporaneous position was that the events were of 'no defence significance'; astronomers have attributed elements of the 26 December sighting to a fireball and the Orfordness lighthouse. Halt has rejected both explanations and the MoD's own defence-significance finding was made without interviewing the American witnesses."
+],
+"connections": [
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "1981",
+"dateStart": "1981",
+"direction": "out",
+"edgeLabel": "Halt authored and signed the 'Unexplained Lights' memorandum",
+"id": "halt-memo",
+"l0": false,
+"label": "Halt Memorandum, 'Unexplained Lights', 13 January 1981",
+"note": "Halt was Deputy Base Commander of the 81st Combat Support Group and signed the memo on 13 Jan 81. The document is his; his authorship has never been disputed by the Air Force.",
+"sources": [
+{
+"date": "2021-11-11",
+"name": "The Halt Memo - Rendlesham Forest Incident (DoD FOIA case 97-F-1677, released Sept 1997)",
+"url": "https://www.theblackvault.com/documentarchive/the-halt-memo-the-rendlesham-forest-incident/"
+}
+],
+"tier": "B",
+"type": "witness-chain"
+},
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": "1980",
+"dateStart": "1980",
+"direction": "out",
+"edgeLabel": "Halt personally led the 28 December 1980 forest patrol",
+"id": "rendlesham-1980",
+"l0": true,
+"label": "Rendlesham Forest Incident, RAF Woodbridge/Bentwaters",
+"note": "Halt's own memo states 'Numerous individuals, including the undersigned, witnessed the activities in paragraphs 2 and 3.'",
+"sources": [
+{
+"date": "2021-11-11",
+"name": "The Halt Memo - Rendlesham Forest Incident (DoD FOIA case 97-F-1677, released Sept 1997)",
+"url": "https://www.theblackvault.com/documentarchive/the-halt-memo-the-rendlesham-forest-incident/"
+}
+],
+"tier": "A",
+"type": "witness-chain"
+}
+],
+"date": "1981-01-13",
+"dateEnd": null,
+"dateStart": "1981-01-13",
+"deg": 2,
+"denials": [],
+"domains": [
+"history-1970s-2000s"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "1",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "charles-halt",
+"instId": "dod",
+"l0": false,
+"label": "Charles I. Halt",
+"loc": "Woodbridge, Suffolk, UK",
+"locId": "l-raf-woodbridge",
+"members": null,
+"narrative": "Halt wrote the single most consequential UFO document ever produced by a serving US officer inside a NATO nuclear-capable installation. On 13 January 1981, as Deputy Base Commander of the 81st Combat Support Group at RAF Bentwaters/Woodbridge, he sent a one-page memorandum captioned 'Unexplained Lights' to the RAF station commander describing events of 26-28 December 1980: security patrolmen encountering a 'strange glowing object' that was 'metalic in appearance and triangular in shape, approximately two to three meters across the base'; three ground depressions 1.5 inches deep and 7 inches in diameter; and radiation readings of 0.1 milliroentgens beta/gamma peaking in the depressions. The memo is not a UFO buff's account - it is an official USAF memorandum, released to the public through the Office of the Assistant Secretary of Defense FOIA office and re-released under DoD FOIA case 97-F-1677 in September 1997. Halt personally led the 28 December patrol and tape-recorded it. He remained in the Air Force for another decade, retiring as a full colonel, and only after retirement began stating publicly that he believed the objects were under intelligent control and that base personnel had been debriefed under pressure. In 2010 he executed a notarized affidavit asserting that the objects were not of terrestrial origin and that USAF and UK authorities had worked to suppress the incident; he has since stated that airmen were subjected to what he characterized as drugged and hypnotic debriefings. The 45-year documentary life of the Halt memo is a case study in the board's central thesis: the record exists, it was written by the responsible officer at the time, and the institutional response has been to route it into a category ('unexplained lights') that requires no follow-up.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Charles I. Halt",
+"sources": [
+{
+"date": "2021-11-11",
+"name": "The Halt Memo - Rendlesham Forest Incident (DoD FOIA case 97-F-1677, released Sept 1997)",
+"url": "https://www.theblackvault.com/documentarchive/the-halt-memo-the-rendlesham-forest-incident/"
+},
+{
+"date": "2020-12-26",
+"name": "BBC News, 'Rendlesham Forest UFO: Are we any closer to the truth 40 years on?'",
+"url": "https://www.bbc.co.uk/news/uk-england-suffolk-54649675"
+},
+{
+"date": "2020-12-26",
+"name": "David Clarke, 'Rendlesham UFOs 40th anniversary: the man from the ministry speaks for the first time'",
+"url": "https://drdavidclarke.co.uk/2020/12/26/rendlesham-ufos-40th-anniversary-the-man-from-the-ministry-speaks-for-the-first-time/"
+}
+],
+"status": "active",
+"sub": "Lt Col USAF (later Col); Deputy Base Commander, RAF Bentwaters/Woodbridge 1980-81",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 404 of 1027, score 32). 2 connections, 2 of them custody/witness/funding/programmatic. Axes C1/A2/D3.",
+"timeline": [],
+"unexplainedResidual": "The radiation readings and ground depressions in Halt's memo have never been the subject of any published official analysis - the physical-trace annex referenced by the memo has never surfaced.",
+"unverified": [
+"Halt's later assertions that witnesses were drugged and hypnotically debriefed are not corroborated by any released document."
+]
+}

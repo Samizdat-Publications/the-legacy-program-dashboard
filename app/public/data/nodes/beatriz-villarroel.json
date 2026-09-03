@@ -1,0 +1,199 @@
+{
+"A": 0,
+"C": 0,
+"D": 2,
+"affiliations": [
+"Nordita (Nordic Institute for Theoretical Physics) / Stockholm University",
+"Instituto de Astrofisica de Canarias",
+"VASCO project - principal investigator",
+"ExoProbe project"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "2019-12-12",
+"event": "VASCO methodology paper published in The Astronomical Journal.",
+"precision": "day"
+},
+{
+"date": "2021-06-17",
+"event": "'Exploring nine simultaneously occurring transients on April 12th 1950' published in Scientific Reports.",
+"precision": "day"
+},
+{
+"date": "2022-05-01",
+"event": "'A glint in the eye: Photographic plate archive searches for non-terrestrial artefacts' published in Acta Astronautica.",
+"precision": "month"
+},
+{
+"date": "2025-07-25",
+"event": "Bruehl and Villarroel post the preprint associating POSS-I transients with above-ground nuclear testing and UAP reports.",
+"precision": "day"
+},
+{
+"date": "2025-10-20",
+"event": "The peer-reviewed version published in Scientific Reports.",
+"precision": "day"
+},
+{
+"date": "2026-01-01",
+"event": "The Sol Foundation issues Policy Briefing No. 1, 'Robust Evidence of Unidentified Anomalous Phenomena in Pre-Satellite Era Night-Sky Images'.",
+"precision": "month"
+}
+],
+"claims": [
+{
+"source": "American Alchemy with Jesse Michels, 'Top Astronomer: I Found 100,000 UFOs Above Earth! (ft. Beatriz Villarroel)', 25 October 2025, 0:22:14, https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL1307454785.mp3?updated=1761413167",
+"text": "On American Alchemy with Jesse Michels, 25 October 2025, at 0:22:14 to 0:23:09, Beatriz Villarroel said that since about the early 1960s there have been objects called uncorrelated targets, seen once or a few times on radar or optical sensors and then untrackable, and that these are subtracted from the background when the number of objects in space is calculated. She said the subtraction is not done by NASA or ESA themselves.",
+"tier": 2
+},
+{
+"source": "American Alchemy with Jesse Michels, 'Top Astronomer: I Found 100,000 UFOs Above Earth! (ft. Beatriz Villarroel)', 25 October 2025, 0:24:04",
+"text": "At 0:24:04 in the same episode Villarroel said the lists are held by the Space Force and are classified, including the earliest from the 1960s, and that what she wants is one such list of coordinates so she can test whether the objects vanish in the Earth's shadow. Asked how she knows, she answered 'I think that's what I heard from someone on the inside, yes.' The sourcing limit is hers, stated in the passage.",
+"tier": 2
+},
+{
+"source": "Scientific Reports, DOI 10.1038/s41598-025-21620-3",
+"text": "Bruehl and Villarroel, 'Transients in the Palomar Observatory Sky Survey (POSS-I) may be associated with nuclear testing and reports of unidentified anomalous phenomena', Scientific Reports, 20 October 2025.",
+"tier": 1
+},
+{
+"source": "Scientific Reports, DOI 10.1038/s41598-021-92162-7",
+"text": "Villarroel et al., 'Exploring nine simultaneously occurring transients on April 12th 1950', Scientific Reports, 17 June 2021.",
+"tier": 1
+},
+{
+"source": "The Astronomical Journal, DOI 10.3847/1538-3881/ab570f",
+"text": "The VASCO project methodology was published in The Astronomical Journal in December 2019.",
+"tier": 1
+},
+{
+"source": "Inference from the plate exposure dates (1949-1957, pre-Sputnik) and their civil archival custody",
+"text": "The POSS-I plates are the only surviving, uncontaminated, physically archived instrumental record of the sky over the United States during the exact window in which this board's programme is alleged to have begun, and they sit entirely outside government classification authority. That is why they matter more than their citation count suggests.",
+"tier": 3
+}
+],
+"cls": "person",
+"cluster": "research",
+"conflicts": [
+"Plate-defect and contamination explanations for POSS-I transients are the standing counter-argument; the 2021 and 2025 papers address them but do not close them."
+],
+"connections": [
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "2025",
+"direction": "out",
+"edgeLabel": "Co-authors on the 2025 Scientific Reports result",
+"id": "stephen-bruehl",
+"l0": false,
+"label": "Stephen Bruehl",
+"note": "An astronomer and a Vanderbilt anesthesiology professor with statistical training - an indication of how far outside conventional aerospace research the productive work has migrated.",
+"sources": [
+{
+"date": "2025-10-20",
+"name": "Bruehl & Villarroel, 'Transients in the Palomar Observatory Sky Survey (POSS-I) may be associated with nuclear testing and reports of unidentified anomalous phenomena', Scientific Reports",
+"url": "https://doi.org/10.1038/s41598-025-21620-3"
+}
+],
+"tier": "C",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": null,
+"dateStart": "2019",
+"direction": "out",
+"edgeLabel": "Principal investigator",
+"id": "vasco-project",
+"l0": false,
+"label": "VASCO - Vanishing and Appearing Sources during a Century of Observations",
+"note": "VASCO compares POSS-I plates exposed 1949-1957 against modern surveys; the pre-Sputnik exposure dates remove the satellite-glint confound entirely.",
+"sources": [
+{
+"date": "2021-06-17",
+"name": "Villarroel, Marcy, Geier et al., 'Exploring nine simultaneously occurring transients on April 12th 1950', Scientific Reports",
+"url": "https://doi.org/10.1038/s41598-021-92162-7"
+},
+{
+"date": "2025-10-20",
+"name": "Bruehl & Villarroel, 'Transients in the Palomar Observatory Sky Survey (POSS-I) may be associated with nuclear testing and reports of unidentified anomalous phenomena', Scientific Reports",
+"url": "https://doi.org/10.1038/s41598-025-21620-3"
+}
+],
+"tier": "C",
+"type": "programmatic"
+}
+],
+"date": "2025-10-20",
+"dateEnd": null,
+"dateStart": "2025-10-20",
+"deg": 2,
+"denials": [],
+"domains": [
+"scientists-technical"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "beatriz-villarroel",
+"instId": "vasco-project",
+"l0": false,
+"label": "Beatriz Villarroel",
+"loc": "Stockholm, Sweden",
+"locId": "l-stockholm",
+"members": null,
+"narrative": "Villarroel is running the one line of investigation that could produce hard evidence about the 1940s-1950s period without any cooperation from the US government at all, because her dataset predates the government's ability to classify it. VASCO compares the Palomar Observatory Sky Survey plates - exposed between 1949 and 1957, before any artificial satellite existed - against modern sky surveys, looking for point sources that appear in the old plates and are absent now. Anything genuinely transient and star-like on a pre-Sputnik plate cannot be a satellite glint, which makes the archive a clean natural experiment. Her group published the VASCO methodology in The Astronomical Journal in December 2019, then in June 2021 reported in Scientific Reports nine simultaneous transients on a single plate from 12 April 1950, and in 2022 published the 'glint in the eye' analysis in Acta Astronautica arguing photographic plate archives are a viable search space for non-terrestrial artefacts. Then, on 20 October 2025, she and Stephen Bruehl published in Scientific Reports the result that matters most for this board: transients in POSS-I 'may be associated with nuclear testing and reports of unidentified anomalous phenomena'. That is a peer-reviewed, Nature-portfolio paper drawing a statistical association between above-ground nuclear tests, contemporaneous UAP reports, and anomalous point sources on astronomical plates from the exact period this board treats as the programme's origin. The Sol Foundation made it the subject of its first policy briefing in January 2026.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Beatriz Villarroel",
+"sources": [
+{
+"date": "2025-10-25",
+"name": "American Alchemy with Jesse Michels, 'Top Astronomer: I Found 100,000 UFOs Above Earth! (ft. Beatriz Villarroel)' (episode audio)",
+"url": "https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL1307454785.mp3?updated=1761413167"
+},
+{
+"date": "2019-12-12",
+"name": "Villarroel et al., 'The Vanishing and Appearing Sources during a Century of Observations Project. I.', The Astronomical Journal",
+"url": "https://doi.org/10.3847/1538-3881/ab570f"
+},
+{
+"date": "2021-06-17",
+"name": "Villarroel, Marcy, Geier et al., 'Exploring nine simultaneously occurring transients on April 12th 1950', Scientific Reports",
+"url": "https://doi.org/10.1038/s41598-021-92162-7"
+},
+{
+"date": "2022-05-01",
+"name": "Villarroel, Mattsson, Guergouri, Solano, Geier et al., 'A glint in the eye: Photographic plate archive searches for non-terrestrial artefacts', Acta Astronautica",
+"url": "https://doi.org/10.1016/j.actaastro.2022.01.039"
+},
+{
+"date": "2025-10-20",
+"name": "Bruehl & Villarroel, 'Transients in the Palomar Observatory Sky Survey (POSS-I) may be associated with nuclear testing and reports of unidentified anomalous phenomena', Scientific Reports",
+"url": "https://doi.org/10.1038/s41598-025-21620-3"
+},
+{
+"date": "2026-08-12",
+"name": "The Sol Foundation - White Papers and Policy Briefings index",
+"url": "https://thesolfoundation.org/white-papers/"
+}
+],
+"status": "active",
+"sub": "Astronomer, Nordita / Stockholm University and Instituto de Astrofisica de Canarias; principal investigator, VASCO (Vanishing and Appearing Sources during a Century of Observations)",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 662 of 1027, score 23). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D2.",
+"timeline": [],
+"unexplainedResidual": "Nine star-like transients appearing and vanishing within a 50-minute plate window on 12 April 1950, on a pre-satellite photographic plate, remain unexplained.",
+"unverified": [
+"Whether any US agency has independently examined the POSS-I plate set for the same transients."
+]
+}

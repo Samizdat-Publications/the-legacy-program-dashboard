@@ -1,0 +1,425 @@
+{
+"A": 2,
+"C": 1,
+"D": 2,
+"band": "research",
+"claims": [
+{
+"source": "Primary document via CIA CREST, CIA-RDP81R00560R000100060001-5",
+"text": "Project Blue Book Special Report No. 14, 'Analysis of Reports of Unidentified Aerial Objects', Project No. 10073, is dated 5 May 1955 and marked FOR OFFICIAL USE ONLY.",
+"tier": 1
+},
+{
+"source": "The Black Vault document archive entry, 17 September 2020",
+"text": "The report was a massive statistical analysis undertaken by the US Air Force and Battelle Memorial Institute covering approximately 3,200 UFO reports.",
+"tier": 1
+},
+{
+"source": "Department of War PURSUE release document repository",
+"text": "The report was republished by the Department of War as CIA-UAP-015 in PURSUE Release 03 in June 2026.",
+"tier": 1
+},
+{
+"source": "Project Blue Book Special Report No. 14, title page",
+"text": "Special Report No. 14 was issued by the Air Technical Intelligence Center on 5 May 1955 under Project 10073, Study No. 102-EL-55/2-79.",
+"tier": 1
+},
+{
+"source": "Project Blue Book Special Report No. 14, statistical results",
+"text": "Approximately 4,000 reports were collected; the final statistical study covered 2,199 objects, of which 434 (19.7 per cent) were evaluated as 'Unknown'.",
+"tier": 1
+},
+{
+"source": "Project Blue Book Special Report No. 14, quality-of-report cross-tabulations",
+"text": "The report's data show a higher proportion of unknowns among the highest-quality reports than among the poorest, and statistically significant differences between knowns and unknowns.",
+"tier": 2
+},
+{
+"source": "Standard attribution in the Blue Book literature; the report front matter does not name the contractor",
+"text": "Battelle Memorial Institute performed the statistical analysis under contract to ATIC.",
+"tier": 2
+},
+{
+"source": "Inference from the report's own statistical tables against its summary language",
+"text": "A summary declaring extraterrestrial origin 'highly improbable' while the underlying tables show quality correlating positively with unexplainedness is an editorial conclusion imposed on the analysis rather than derived from it.",
+"tier": 3
+},
+{
+"source": "Project Blue Book Special Report No. 14, 5 May 1955, cover",
+"text": "The report's cover reads 'STUDY NO. 102-EL-55/2-79 / ANALYSIS OF REPORTS OF UNIDENTIFIED AERIAL OBJECTS / PROJECT NO. 10073 / 5 MAY 1955 / SPECIAL REPORT NO. 14', and it states 'No copyright material is contained in this publication.'",
+"tier": 1
+},
+{
+"source": "Project Blue Book Special Report No. 14, full-text search of the scan; six independent search terms, all returning nothing",
+"text": "The report does not name Battelle, or any contractor, anywhere on its own face. A full-text search returns no occurrence of Battelle, Columbus, Stork, contractor, 'prepared by' or 19741. The attribution rests entirely on the Project Stork status reports and the surrounding file.",
+"tier": 1
+}
+],
+"cls": "document",
+"cluster": "other",
+"connections": [
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "1955",
+"dateStart": "1955",
+"direction": "out",
+"edgeLabel": "ATIC issued Special Report No. 14",
+"id": "atic",
+"l0": true,
+"label": "Air Technical Intelligence Center",
+"note": "Issued 5 May 1955 under Project 10073, Study No. 102-EL-55/2-79 — the largest statistical study of UFO reports the US government ever produced.",
+"sources": [
+{
+"date": "1955-05-05",
+"name": "Project Blue Book Special Report No. 14",
+"url": "http://www.nicap.org/docs/pbbsr/BBA-PBSR14.pdf"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 2,
+"cls": "institution",
+"dateEnd": "1955",
+"dateStart": "1952",
+"direction": "in",
+"edgeLabel": "Battelle performed the statistical analysis under contract",
+"id": "battelle",
+"l0": true,
+"label": "Battelle Memorial Institute",
+"note": "Battelle Memorial Institute of Columbus is the contractor identified throughout the literature; the report's own front matter does not name a contractor, which is why this is graded tier 2.",
+"sources": [
+{
+"date": "1955-05-05",
+"name": "Project Blue Book Special Report No. 14",
+"url": "http://www.nicap.org/docs/pbbsr/BBA-PBSR14.pdf"
+}
+],
+"tier": "A",
+"type": "funding"
+},
+{
+"claimTier": 3,
+"cls": "program",
+"dateEnd": "1969",
+"dateStart": "1955",
+"direction": "out",
+"edgeLabel": "Both official studies buried an unexplained residue under dismissive conclusions",
+"id": "condon-committee",
+"l0": true,
+"label": "University of Colorado UFO Project (Condon Committee)",
+"note": "SR14 left 19.7 per cent unknown with quality correlating positively with unexplainedness; the Colorado project left roughly a third of its cases unexplained. Both summaries declared the subject unrewarding.",
+"sources": [
+{
+"date": "1955-05-05",
+"name": "Project Blue Book Special Report No. 14",
+"url": "http://www.nicap.org/docs/pbbsr/BBA-PBSR14.pdf"
+},
+{
+"date": "1968-11-01",
+"name": "Scientific Study of Unidentified Flying Objects (Condon Report)",
+"url": "https://files.ncas.org/condon/"
+}
+],
+"tier": "A",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": "1955",
+"dateStart": "1955",
+"direction": "out",
+"edgeLabel": "19.7 per cent of analysed objects were unknowns, rising with report quality",
+"id": "project-blue-book",
+"l0": true,
+"label": "Project Blue Book",
+"note": "434 of 2,199 objects were classified Unknown, and the better the report quality the higher the unknown rate — the inverse of what misidentification predicts.",
+"sources": [
+{
+"date": "1955-05-05",
+"name": "Project Blue Book Special Report No. 14",
+"url": "http://www.nicap.org/docs/pbbsr/BBA-PBSR14.pdf"
+}
+],
+"tier": "A",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": null,
+"dateStart": "1955",
+"direction": "in",
+"edgeLabel": "Stork produced Special Report No. 14, 5 May 1955",
+"id": "project-stork",
+"l0": false,
+"label": "Project Stork (Project White Stork)",
+"note": "A full-text search of Special Report No. 14 returns no occurrence of Battelle, Columbus, Stork, contractor, 'prepared by' or 19741. The attribution rests entirely on the seven status reports, which carry contract AF-19741 and designation PPS-100.",
+"sources": [
+{
+"date": "1955-05-05",
+"name": "CIA CREST",
+"url": "https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100060001-5.pdf"
+},
+{
+"date": "1952-11-10",
+"name": "Project Stork status reports, transcribed from NARA holdings",
+"url": "https://www.cufon.org/cufon/stork1-7.htm"
+},
+{
+"date": "1955-05-05",
+"name": "Project Blue Book Special Report No. 14, full OCR text",
+"url": "https://archive.org/download/ProjectBlueBookSpecialReport14/pbbsr14_djvu.txt"
+}
+],
+"tier": "A",
+"type": "programmatic"
+},
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": null,
+"dateStart": "2026",
+"direction": "out",
+"edgeLabel": "Republished by the Department of War as CIA-UAP-015 in PURSUE Release 03",
+"id": "pursue-releases",
+"l0": true,
+"label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters",
+"note": "The same 1955 Battelle report has now been published by the government three times across seventy years without the underlying case data ever being independently reanalysed.",
+"sources": [
+{
+"date": "2026-06-12",
+"name": "Department of War PURSUE Release 03",
+"url": "https://www.war.gov/medialink/ufo/061226/release_03/documents/CIA-UAP-015-Project_Blue_Book_Special_Report_No_14.pdf"
+}
+],
+"tier": "A",
+"type": "temporal"
+}
+],
+"coords": null,
+"dateEnd": "1955",
+"dateStart": "1955",
+"deg": 6,
+"denials": [],
+"desc": "The largest statistical study of UFO reports ever conducted by or for the United States government. Prepared by Battelle Memorial Institute under Project Stork and issued 5 May 1955 as Project No. 10073, it analysed roughly 3,200 reports, classified them by quality of evidence, and applied chi-square testing to determine whether the 'unknowns' were statistically distinguishable from the 'knowns'. They were. The report also found - and this is the part the Air Force's public summary buried - that the proportion of unknowns rose with the quality of the sighting: the better the observation, the less likely it was to be explained. The Air Force publicised the study as demonstrating that UFOs were of no consequence. The document itself does not support that reading. It is available today through CIA's CREST reading room as CIA-RDP81R00560R000100060001-5 and was re-released by the Department of War in PURSUE Release 03 in June 2026 as CIA-UAP-015 - meaning the government has now published the same 1955 Battelle report three separate times across seventy years while the underlying case data has never been reanalysed by an independent party. As an artifact this document is doubly useful: it is evidence about the phenomenon, and it is evidence about how a contractor's technical work is converted into an official denial.",
+"domains": [
+"_rs-archive-mirror",
+"ffrdcs",
+"history-1940s-1960s",
+"legacy-1947-86"
+],
+"dossier": {
+"claims": [
+{
+"source": "Special Report No. 14, Summary, p. vii, as photographically reproduced in Leon Davidson, ed., 'Flying Saucers: An Analysis of the Air Force Project Blue Book Special Report No. 14'; http://jfk.hood.edu/Collection/Weisberg%20Subject%20Index%20Files/D%20Disk/Davidson%20Leon%20Project%20Bluebook/Item%2002.pdf",
+"text": "Project Blue Book Special Report No. 14 is titled 'Analysis of Reports of Unidentified Aerial Objects' and is dated 5 May 1955; the study started in 1953, its information cut-off was the end of 1952, and per the report's own Summary, 'In these charts, 3201 cases have been used.'",
+"tier": 1
+},
+{
+"source": "DoD Office of Public Information, Washington 25, D.C., Release No. 1053-55, October 25, 1955, reproduced at http://jfk.hood.edu/Collection/Weisberg%20Subject%20Index%20Files/D%20Disk/Davidson%20Leon%20Project%20Bluebook/Item%2002.pdf",
+"text": "The report was released publicly on October 25, 1955 by Department of Defense Office of Public Information Release No. 1053-55, headlined 'AIR FORCE RELEASES STUDY ON UNIDENTIFIED AERIAL OBJECTS'.",
+"tier": 1
+},
+{
+"source": "DoD Release No. 1053-55, October 25, 1955; http://jfk.hood.edu/Collection/Weisberg%20Subject%20Index%20Files/D%20Disk/Davidson%20Leon%20Project%20Bluebook/Item%2002.pdf",
+"text": "The October 25, 1955 press release states flatly: 'No evidence of the existence of the popularly-termed \"flying saucers\" was found.'",
+"tier": 1
+},
+{
+"source": "DoD Release No. 1053-55, October 25, 1955; http://jfk.hood.edu/Collection/Weisberg%20Subject%20Index%20Files/D%20Disk/Davidson%20Leon%20Project%20Bluebook/Item%2002.pdf",
+"text": "The press release never names Battelle Memorial Institute, attributing the work only to 'study and analysis by a private scientific group under the supervision of the Air Technical Intelligence Center at Dayton, Ohio.'",
+"tier": 1
+},
+{
+"source": "DoD Release No. 1053-55, October 25, 1955; http://jfk.hood.edu/Collection/Weisberg%20Subject%20Index%20Files/D%20Disk/Davidson%20Leon%20Project%20Bluebook/Item%2002.pdf",
+"text": "The three per cent figure in the release refers to a different and much later sample: 'of the 131 sightings reported during the first four months of 1955 only three per cent were listed as unknown', not to the 3,201 cases analyzed in the report.",
+"tier": 1
+},
+{
+"source": "DoD Release No. 1053-55, October 25, 1955; http://jfk.hood.edu/Collection/Weisberg%20Subject%20Index%20Files/D%20Disk/Davidson%20Leon%20Project%20Bluebook/Item%2002.pdf",
+"text": "Secretary of the Air Force Donald A. Quarles is quoted in the release: 'On the basis of this study we believe that no objects such as those popularly described as flying saucers have overflown the United States. I feel certain that even the unknown three per cent could have been explained as conventional phenomena or illusions if more complete observational data had been available.'",
+"tier": 1
+},
+{
+"source": "Special Report No. 14, Summary, pp. vii-viii, reproduced at http://jfk.hood.edu/Collection/Weisberg%20Subject%20Index%20Files/D%20Disk/Davidson%20Leon%20Project%20Bluebook/Item%2002.pdf",
+"text": "The Summary distributed with the release gives category percentages for cases received before the end of 1952 that include 'Unknown - 9%', and for the later tranche 'Unknown - 3%'; neither is the unknown rate for the 3,201-case charted sample.",
+"tier": 1
+},
+{
+"source": "Special Report No. 14, Summary, p. vii, reproduced at http://jfk.hood.edu/Collection/Weisberg%20Subject%20Index%20Files/D%20Disk/Davidson%20Leon%20Project%20Bluebook/Item%2002.pdf",
+"text": "The report's own Summary records that 'The first step in the analysis of the data revealed the existence of certain apparent similarities between cases of objects definitely identified and those not identified. Statistical methods of testing when applied indicated a low probability that these apparent similarities were significant.'",
+"tier": 1
+},
+{
+"source": "Leon Davidson, 'Analysis of the Project Blue Book Report No. 14', p. D-4 of his photographic reprint edition; http://jfk.hood.edu/Collection/Weisberg%20Subject%20Index%20Files/D%20Disk/Davidson%20Leon%20Project%20Bluebook/Item%2002.pdf",
+"text": "Leon Davidson's published analysis of the report states that Figure 8 (original p. 24) shows Unknown sightings constituting 33.3% of all object sightings whose reliability is rated 'Excellent', and that Tables A1 through A3 (original pp. 107-108) show the Unknown percentage 'is not less than about 20%' even when lesser-reliability sightings are included.",
+"tier": 2
+},
+{
+"source": "Quarles letter, July 5, 1956, quoted in the Publisher's Statement of the Davidson reprint, p. D-2; http://jfk.hood.edu/Collection/Weisberg%20Subject%20Index%20Files/D%20Disk/Davidson%20Leon%20Project%20Bluebook/Item%2002.pdf",
+"text": "The Air Force did not distribute the full 316-page report; a letter from Air Force Secretary Donald A. Quarles dated July 5, 1956 states that 'It has been estimated that the cost of printing enough copies for distribution to the public through such outlets as libraries and academic institutions would be between $10 and $15 per copy.'",
+"tier": 1
+},
+{
+"source": "Leon Davidson, 'Analysis of the Project Blue Book Report No. 14', p. D-4; http://jfk.hood.edu/Collection/Weisberg%20Subject%20Index%20Files/D%20Disk/Davidson%20Leon%20Project%20Bluebook/Item%2002.pdf",
+"text": "The unavailability of the full text to the public was taken up in the Record of Hearings of the House Subcommittee on Government Information, Rep. John E. Moss chairman, on November 15, 1956.",
+"tier": 2
+},
+{
+"source": "Leon Davidson, analysis at p. D-10 discussing original p. 295, reproduced photographically; http://jfk.hood.edu/Collection/Weisberg%20Subject%20Index%20Files/D%20Disk/Davidson%20Leon%20Project%20Bluebook/Item%2002.pdf",
+"text": "On original page 295 of the report, in the codes for Final Identification, typewritten strikeovers show that the category originally called 'Rockets and Missiles' was changed to 'Insufficient Information', and the category originally called 'Electromagnetic Phenomenon' was changed to 'Unknown'.",
+"tier": 2
+},
+{
+"source": "https://cufos.org/resources/project-blue-book/ (Center for UFO Studies; full report PDF at https://cufos.org/PDFs/books/Air_Force_Project_Blue_Book_Special_Report_14R.pdf)",
+"text": "Special Report No. 14 is the Blue Book report 'most important for UFO research, as it contained the study by Battelle Memorial Institute that analyzed the characteristics of UFOs in sightings that were unidentified'; the Battelle consulting work supporting Blue Book was performed under the designations Project Stork and Project Henry.",
+"tier": 2
+},
+{
+"source": "Special Report No. 14, Summary, p. vii, reproduced at http://jfk.hood.edu/Collection/Weisberg%20Subject%20Index%20Files/D%20Disk/Davidson%20Leon%20Project%20Bluebook/Item%2002.pdf",
+"text": "The report's Summary concludes that a thorough re-examination and re-evaluation of the cases of objects not originally identified 'led to the conclusion that this probability was very small', referring to the probability that any of the UNKNOWNS represented observations of technological developments not known to this country.",
+"tier": 1
+}
+],
+"connections": [
+"Battelle Memorial Institute performed the analysis; Battelle later formed UT-Battelle, the operator of Oak Ridge National Laboratory, and Battelle is named in Rep. Burlison's May 2026 MITRE interrogatories",
+"Air Technical Intelligence Center (ATIC), Wright-Patterson AFB, supervised the study; the ATIC designator also appears in the film reel 'AF-ATIC-FILM, 03/52' that Burlison demanded from MIT Lincoln Laboratory",
+"Secretary of the Air Force Donald A. Quarles is the named author of both the October 25, 1955 public conclusion and the July 5, 1956 letter justifying non-distribution",
+"J. Allen Hynek worked on Blue Book consulting under Project Stork and later told the House Armed Services Committee in 1966 that Air Force practice showed a poverty of hypotheses",
+"Leon Davidson, a chemical engineer formerly at Los Alamos Scientific Laboratory, is the private citizen who forced the document into public circulation",
+"The House Subcommittee on Government Information under Rep. John E. Moss is the earliest congressional body on record challenging the withholding",
+"The Robertson Panel (January 1953) and the later Condon Committee bracket this report as the other two outsourced scientific reviews used to close the question"
+],
+"denialPosture": "The official denial is the October 25, 1955 release itself and Secretary Quarles's attached statement, which is exactly why it is evidence rather than argument. It is dated, numbered (Release No. 1053-55), signed by a named Cabinet-level official, and its central statistical assertion can be checked against the document it purports to summarize. The Air Force position that no objects such as those popularly described as flying saucers have overflown the United States was published simultaneously with, and contradicted by, the report's own reliability-stratified unknown rates.",
+"narrative": "Start with what the report says about itself. Its own Summary states that the special study started in 1953, that to provide the study group with a complete set of files the information cut-off date was established as of the end of 1952, and that in these charts, 3201 cases have been used. It describes a three-part analytic method: a systematic attempt to find distinguishing characteristics in the data, a study of any trend or pattern, and an attempt to determine the probability that any of the UNKNOWNS represented observations of technological developments not known to this country. On the first of these it records a genuinely load-bearing finding: 'The first step in the analysis of the data revealed the existence of certain apparent similarities between cases of objects definitely identified and those not identified. Statistical methods of testing when applied indicated a low probability that these apparent similarities were significant.' Read plainly, Battelle tested whether the unknowns looked like the knowns and found that the resemblance did not hold up. That is the opposite of the conclusion the public was handed. The report then walks it back through re-evaluation, concluding that the probability the unknowns represented unknown technology was very small.\n\nNow the release. Department of Defense Office of Public Information Release No. 1053-55, dated October 25, 1955 and headlined 'AIR FORCE RELEASES STUDY ON UNIDENTIFIED AERIAL OBJECTS', opens with the flat assertion that no evidence of the existence of the popularly-termed flying saucers was found. It attributes the work to a private scientific group under the supervision of the Air Technical Intelligence Center at Dayton, Ohio, and never says the word Battelle. It then executes the substitution: since the instigation of the investigation more than seven years ago, methods and procedures have been so refined that of the 131 sightings reported during the first four months of 1955 only three per cent were listed as unknown. Secretary Quarles then attaches his name to that number: 'On the basis of this study we believe that no objects such as those popularly described as flying saucers have overflown the United States. I feel certain that even the unknown three per cent could have been explained as conventional phenomena or illusions if more complete observational data had been available.' The phrase on the basis of this study is doing enormous work. The study is the 3,201-case Battelle analysis. The three per cent is from a 131-case sample the study did not analyze, collected three years after the study's own cut-off date. The two are welded together in a single sentence and a Cabinet-level official signs it.\n\nThe attached Summary makes the substitution visible in its own numbers. For cases received before the end of 1952 it gives Unknown at 9 per cent; for the more recent tranche it gives Unknown at 3 per cent. Neither figure is the rate for the 3,201 cases whose charts and tables make up the report.\n\nThe body tells a different story, which is why the body was hard to get. Leon Davidson, a chemical engineer who had worked at Los Alamos Scientific Laboratory and who reprinted the report photographically beginning in 1956, wrote in his publisher's analysis that the key to the answer is contained in Fig. 8 (orig. p. 24) and Tables A1, A2, and A3 (orig. pp. 107 and 108); that Fig. 8 shows Unknown sightings constitute 33.3 per cent of all the object sightings for which the reliability of the sighting is considered Excellent; and that Tables A1 through A3 agree, with the percentage of Unknown sightings not less than about 20 per cent even when sightings of lesser reliability are included. The distribution runs the wrong way for the official framing: the better the witness, the more likely the object stayed unidentified.\n\nDistribution was the second layer of the concealment. Davidson reproduces a letter from Air Force Secretary Donald A. Quarles dated July 5, 1956 stating that it has been estimated that the cost of printing enough copies for distribution to the public through such outlets as libraries and academic institutions would be between $10 and $15 per copy. The 316-page full report was therefore never distributed. The non-availability became a matter of congressional record at the House Subcommittee on Government Information under Rep. John E. Moss on November 15, 1956. Davidson's privately financed edition, reproduced photographically page by page with the main text intact, is why the document exists in public hands at all.\n\nOne further anomaly sits in the photographic reproduction. Davidson points to original page 295, where the codes for Final Identification carry typewritten strikeovers: the category originally called Rockets and Missiles in the early analytic work was changed to read Insufficient Information, and the category originally called Electromagnetic Phenomenon was changed to read Unknown. If that reading of the page is correct, then the report's residual category was not an empty bin for the unexplained. It was a renamed bin for a hypothesis.\n\nBattelle is the connective tissue. The same institute later formed UT-Battelle, the operator of Oak Ridge National Laboratory, which per contemporary allegations received AARO's 2024 material analysis work. Battelle is also one of the entities Rep. Burlison named in his May 2026 MITRE interrogatories, alongside Lockheed Martin, Northrop Grumman, Raytheon, Boeing, General Dynamics, SAIC, Leidos, The Aerospace Corporation, Booz Allen Hamilton, BAE Systems and Bigelow Aerospace. The organization that wrote the government's founding public statistical assessment of the phenomenon has never left the file.",
+"openQuestions": [
+"The widely circulated figure of 21.5% unknowns among the 3,201 cases could not be verified against a legible primary table in the sources retrieved; the verifiable primary-adjacent figures are 33.3% for Excellent-reliability sightings and not less than about 20% overall, per Davidson's reading of Tables A1 through A3",
+"Whether the significance tests Battelle ran are recoverable from the surviving full tables, and at what confidence level the knowns and unknowns were found to differ",
+"Who inside ATIC or the Office of Public Information decided to substitute the 1955 131-case three per cent figure for the study's own unknown rate, and whether that decision is documented",
+"Who authorized the strikeover changes to the Final Identification codes on original page 295, and when",
+"Whether the Battelle contract file, deliverables and the intermediate Project STORK status reports survive, and in whose custody",
+"Whether Battelle's institutional records on this work fall within the scope of Rep. Burlison's 2026 FFRDC and contractor records campaign"
+],
+"roles": [
+"research",
+"concealment",
+"disclosure"
+],
+"whatItIs": "Project Blue Book Special Report No. 14, formally titled 'Analysis of Reports of Unidentified Aerial Objects,' dated 5 May 1955, is the largest statistical study of UFO reports the U.S. government has ever produced. The analysis was performed under contract by Battelle Memorial Institute of Columbus, Ohio, under a project designation reported as Project STORK, using 3,201 cases with an information cut-off of the end of 1952. It was released publicly on October 25, 1955 through Department of Defense Office of Public Information Release No. 1053-55.",
+"whyImplicated": "The gap between what the study found and what the government said it found is the cleanest documented instance of deliberate framing in the entire record, and it is verifiable from two documents that were published together. The press release and Secretary of the Air Force Donald Quarles's accompanying statement told the public that the unknowns amounted to three per cent, a figure drawn from 131 sightings in the first four months of 1955, not from the 3,201-case study sample the report actually analyzed. The report body shows unknowns running far higher, and highest precisely where witness reliability was rated Excellent. The release also declined to name Battelle, describing the analysis only as the work of a private scientific group under the supervision of the Air Technical Intelligence Center at Dayton, Ohio. The full 316-page report was then not distributed, on stated grounds of printing cost, until a private citizen reprinted it. Every element of a concealment operation is present and dated: a suppressed dataset, a substituted statistic, an unnamed contractor, and a restricted distribution."
+},
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [
+2,
+4
+],
+"requests": [
+{
+"agency": "Air Force and CIA",
+"partial": [],
+"questions": [
+2,
+4
+],
+"request": "F18",
+"sendTo": "Department of the Air Force FOIA (SAF/AAII) for the contracting and ATIC records; Central Intelligence Agency Information and Privacy Coordinator for the Office of Scientific Intelligence file.",
+"status": "not filed",
+"title": "Air Force and CIA - the Battelle Project STORK contract file"
+}
+]
+},
+"hl": null,
+"id": "blue-book-special-report-14",
+"l0": true,
+"label": "Project Blue Book Special Report No. 14",
+"locLabel": null,
+"members": [
+{
+"cls": "program",
+"id": "project-stork",
+"label": "Project Stork (Project White Stork)",
+"tier": "A"
+}
+],
+"short": "Blue Book Special Report No. 14",
+"sources": [
+{
+"date": "2026-07-23",
+"name": "Archived: Department of War - PURSUE Release 03 (CIA-UAP-015) (Wayback 2026-07-23)",
+"url": "https://web.archive.org/web/20260723073603/https://www.war.gov/medialink/ufo/061226/release_03/documents/CIA-UAP-015-Project_Blue_Book_Special_Report_No_14.pdf"
+},
+{
+"date": "1955-05-05",
+"name": "CIA CREST - Project Blue Book Special Report No. 14",
+"url": "https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100060001-5.pdf"
+},
+{
+"date": "2020-09-17",
+"name": "The Black Vault - Project Blue Book Special Report #14, May 5, 1955",
+"url": "https://www.theblackvault.com/documentarchive/project-blue-book-special-report-14-may-5-1955/"
+},
+{
+"date": "2026-06-12",
+"name": "Department of War - PURSUE Release 03 (CIA-UAP-015)",
+"url": "https://www.war.gov/medialink/ufo/061226/release_03/documents/CIA-UAP-015-Project_Blue_Book_Special_Report_No_14.pdf"
+},
+{
+"date": "2026-08-12",
+"name": "Internet Archive - Full text of Project Blue Book Special Report #14",
+"url": "https://archive.org/stream/ProjectBlueBookSpecialReport14/pbbsr14_djvu.txt"
+},
+{
+"date": "1955-05-05",
+"name": "Project Blue Book Special Report No. 14 (ATIC, 5 May 1955), full PDF",
+"url": "http://www.nicap.org/docs/pbbsr/BBA-PBSR14.pdf"
+},
+{
+"date": "2026-08-12",
+"name": "Project Blue Book Special Reports 1-12 (searchable PDF)",
+"url": "https://www.nicap.org/docs/pbbsr/nicap_pbr1-12_srch.pdf"
+},
+{
+"date": "1955-05-05",
+"name": "Project Blue Book Special Report No. 14, 5 May 1955, full OCR text",
+"url": "https://archive.org/download/ProjectBlueBookSpecialReport14/pbbsr14_djvu.txt"
+}
+],
+"sub": "'Analysis of Reports of Unidentified Aerial Objects', Project No. 10073, 5 May 1955; prepared by Battelle Memorial Institute",
+"tier": "A",
+"tierRationale": "Re-graded A on a global pass (rank 141 of 1027, score 52). 6 connections, 2 of them custody/witness/funding/programmatic. Axes C1/A2/D2.",
+"timeline": [
+{
+"date": "1955-05-05",
+"id": "tl-1955-05-05",
+"label": "Blue Book Special Report No. 14",
+"precision": "day",
+"strand": "program",
+"text": "ATIC issues the largest statistical study of UFO reports ever produced by the US government: 434 of 2,199 objects unknown, with unknown rates rising with report quality.",
+"tier": "A"
+},
+{
+"date": "1955-05-05",
+"id": "tl-ffrdc-1955-sr14",
+"label": "Blue Book Special Report No. 14 issued",
+"precision": "day",
+"strand": "program",
+"text": "Battelle delivers the largest statistical study of UFO reports ever performed for the US government, Project No. 10073. The proportion of unknowns rises with the quality of the sighting; the Air Force publicises the opposite conclusion.",
+"tier": "A"
+},
+{
+"date": "2026-06-12",
+"id": "tl-ffrdc-2026-sr14-repub",
+"label": "Special Report No. 14 republished in PURSUE Release 03",
+"precision": "day",
+"strand": "program",
+"text": "The Department of War publishes the 1955 Battelle report again as CIA-UAP-015 - the third government publication of the same document in seventy years, with the underlying case data still never independently reanalysed.",
+"tier": "B"
+}
+]
+}

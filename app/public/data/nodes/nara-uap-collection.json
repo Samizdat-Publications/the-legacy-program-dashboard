@@ -1,0 +1,782 @@
+{
+"A": 1,
+"C": 0,
+"D": 3,
+"band": "custody",
+"claims": [
+{
+"source": "National Archives press release nr25-07, 24 April 2025",
+"text": "NARA announced on 24 April 2025 a release of UAP records transferred from ODNI, OSD, the FAA and the NRC, under sections 1841-1843 of the FY2024 NDAA (Public Law 118-31), with rolling additions.",
+"tier": 1
+},
+{
+"source": "National Archives press release nr25-07, 24 April 2025",
+"text": "NARA announced on 24 April 2025 the release of UAP records transferred from ODNI, the Office of the Secretary of Defense, the FAA and the Nuclear Regulatory Commission, under sections 1841-1843 of the 2024 NDAA (Public Law 118-31), with rolling additions.",
+"tier": 1
+},
+{
+"source": "National Archives press release nr25-07, 24 April 2025",
+"text": "NARA states it 'will continue to add UAP records to the Collection and make them available online through the National Archives Catalog on an ongoing, rolling basis'.",
+"tier": 1
+},
+{
+"source": "NARA Catalog, Record Group 615",
+"text": "The collection is organised at NARA as Record Group 615.",
+"tier": 1
+},
+{
+"source": "Inference from comparing the nr25-07 transfer list with the contributor list in the 2021 ODNI Preliminary Assessment",
+"text": "The absence of CIA, NSA, NRO, NGA, DIA, DOE, DHS and the military departments from the first statutory transfer is the most testable indicator on this board: either those agencies hold no UAP records, which is contradicted by ODNI's own 2021 contributor list, or they have not transferred them. Reasoning: ODNI named NRO, NGA, NSA, DIA, ONI and DARPA as contributors of UAP reporting in 2021, so responsive records demonstrably exist at agencies that produced nothing for the collection.",
+"tier": 3
+},
+{
+"source": "https://www.archives.gov/research/topics/uaps/rg-615; https://catalog.archives.gov/id/656595571",
+"text": "The Department of the Air Force is the eighth contributor listed on NARA's Record Group 615 page and the first military department to appear as a contributor in its own right, as series 'Records from the Department of the Air Force Relating to Unidentified Anomalous Phenomena', National Archives Identifier 656595571.",
+"tier": 1
+},
+{
+"source": "https://catalog.archives.gov/id/656595571",
+"text": "The Air Force series carries accession number TR-0615-2026-0003, was described from NARA descriptive file NAC_2026-08-27_23.116_DESC_0001.xml and entered the catalog index on 28 August 2026 at 08:30 UTC.",
+"tier": 1
+},
+{
+"source": "https://catalog.archives.gov/id/656595571",
+"text": "The Air Force series holds 30 items with an extent of '30 Portable Document Format (PDF) files', inclusive dates 25 October 1945 to 31 December 1969, access restriction Unrestricted and use restriction Unrestricted, under disposition authority DAA-GRS-2024-0002-0001.",
+"tier": 1
+},
+{
+"source": "https://catalog.archives.gov/id/656595571",
+"text": "NARA's scope note states the Air Force series 'consists of records compiled in response to the 2024 National Defense Authorization Act (Public Law 118-31) and received from the Department of the Air Force pursuant to the Unidentified Anomalous Phenomena Records Collection Act, 44 U.S.C. 2107 note.'",
+"tier": 1
+},
+{
+"source": "https://catalog.archives.gov/id/656595571",
+"text": "All 30 items carry contiguous UAP Record Identifiers 342UAP00001 through 342UAP00030, and each has exactly one attached PDF digital object; all 30 object URLs were fetched on 28 August 2026 and returned PDF content.",
+"tier": 1
+},
+{
+"source": "https://catalog.archives.gov/medialz/electronic-records/rg-615/656595571/00258350_Estimate_of_the_Situation.pdf",
+"text": "The declassification block printed on item 342UAP00005 reads 'Department of the Air Force / Air Force Declassification Office / Authority: FY24 NDAA, now codified at 44 U.S.C. 2107 / Date: 5/05/2025 / Declassified in Full: X / Case Number: 342UAP00005', showing that the Air Force ran the transfer as a declassification action under the UAP records statute and used the UAP Record Identifier as the declassification case number.",
+"tier": 1
+},
+{
+"source": "https://catalog.archives.gov/medialz/electronic-records/rg-615/656595571/00258350_Estimate_of_the_Situation.pdf",
+"text": "Item 342UAP00005, catalogued as 'Estimate of the Situation, September 8, 1948', is Headquarters Fifth Air Force, Office of the AC of S, A-2, APO 710, 'Estimate of the Situation' covering 7 August to 4 September 1948, 21 pages, published for Fifth Air Force Division and Wing-Base Commanders, with a table of contents covering Japan, Korea, China, the Philippines and Malaya. It is a periodic Far East theatre intelligence estimate and is not the Air Materiel Command estimate of 1948 that Ruppelt described.",
+"tier": 1
+}
+],
+"cls": "institution",
+"cluster": "other",
+"connections": [
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2025-04-24",
+"direction": "in",
+"edgeLabel": "Produced no records for the first statutory UAP transfer",
+"id": "cia",
+"l0": true,
+"label": "Central Intelligence Agency",
+"note": "NARA's 24 April 2025 release named only ODNI, OSD, the FAA and the Nuclear Regulatory Commission. CIA, which holds documented UAP equity, transferred nothing.",
+"sources": [
+{
+"date": "2025-04-24",
+"name": "National Archives press release nr25-07",
+"url": "https://www.archives.gov/press/press-releases/2025/nr25-07"
+}
+],
+"tier": "A",
+"type": "denial"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2025-04-24",
+"direction": "in",
+"edgeLabel": "Produced no records for the first statutory UAP transfer",
+"id": "dhs",
+"l0": false,
+"label": "United States Department of Homeland Security",
+"note": "NARA's 24 April 2025 release named only ODNI, OSD, the FAA and the Nuclear Regulatory Commission. DHS, which holds documented UAP equity, transferred nothing.",
+"sources": [
+{
+"date": "2025-04-24",
+"name": "National Archives press release nr25-07",
+"url": "https://www.archives.gov/press/press-releases/2025/nr25-07"
+}
+],
+"tier": "A",
+"type": "denial"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2025-04-24",
+"direction": "in",
+"edgeLabel": "Produced no records for the first statutory UAP transfer",
+"id": "dia",
+"l0": true,
+"label": "Defense Intelligence Agency",
+"note": "NARA's 24 April 2025 release named only ODNI, OSD, the FAA and the Nuclear Regulatory Commission. DIA, which holds documented UAP equity, transferred nothing.",
+"sources": [
+{
+"date": "2025-04-24",
+"name": "National Archives press release nr25-07",
+"url": "https://www.archives.gov/press/press-releases/2025/nr25-07"
+}
+],
+"tier": "A",
+"type": "denial"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2025-04-24",
+"direction": "in",
+"edgeLabel": "DOE produced nothing for the first statutory UAP records transfer",
+"id": "doe",
+"l0": true,
+"label": "United States Department of Energy",
+"note": "NARA's 24 April 2025 release named ODNI, OSD, FAA and the Nuclear Regulatory Commission. DOE - which holds the weapons complex and performed AARO's materials analysis - was not among them.",
+"sources": [
+{
+"date": "2025-04-24",
+"name": "National Archives press release nr25-07",
+"url": "https://www.archives.gov/press/press-releases/2025/nr25-07"
+}
+],
+"tier": "A",
+"type": "denial"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2024",
+"direction": "out",
+"edgeLabel": "Both are components of the National Archives",
+"id": "isoo",
+"l0": true,
+"label": "Information Security Oversight Office",
+"note": "NARA hosts both the statutory UAP collection and the Information Security Oversight Office, the body responsible to the President for the classification system.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "National Archives - Information Security Oversight Office",
+"url": "https://www.archives.gov/isoo"
+},
+{
+"date": "2025-04-24",
+"name": "National Archives press release nr25-07",
+"url": "https://www.archives.gov/press/press-releases/2025/nr25-07"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "legislation",
+"dateEnd": null,
+"dateStart": "2024",
+"direction": "out",
+"edgeLabel": "Collection created by sections 1841-1843 of the FY2024 NDAA",
+"id": "ndaa-fy2024",
+"l0": true,
+"label": "FY2024 NDAA, Public Law 118-31 - Div. A, Title XVIII, Subtitle C (secs. 1841-1843), UAP Records Collection; Div. G (IAA FY2024) secs. 7341, 7343",
+"note": "The surviving remnant of the Schumer-Rounds UAP Disclosure Act. The 24 April 2025 release drew records from ODNI, OSD, the FAA and the NRC, with rolling additions - the statutory machinery any executive declassification directive must eventually run through.",
+"sources": [
+{
+"date": "2025-04-24",
+"name": "National Archives press release nr25-07",
+"url": "https://www.archives.gov/press/press-releases/2025/nr25-07"
+}
+],
+"tier": "A",
+"type": "legislative"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2025-04-24",
+"direction": "in",
+"edgeLabel": "Named 2021 UAP contributor that produced nothing for the statutory collection",
+"id": "nga",
+"l0": false,
+"label": "National Geospatial-Intelligence Agency",
+"note": "ODNI named NGA as a contributor of UAP reporting in June 2021; NARA's April 2025 transfer list does not include NGA, CIA, NSA, NRO, DIA, DOE or DHS.",
+"sources": [
+{
+"date": "2025-04-24",
+"name": "National Archives press release nr25-07",
+"url": "https://www.archives.gov/press/press-releases/2025/nr25-07"
+},
+{
+"date": "2021-06-25",
+"name": "ODNI, Preliminary Assessment: Unidentified Aerial Phenomena",
+"url": "https://archive.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf"
+}
+],
+"tier": "C",
+"type": "denial"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2025-04-24",
+"direction": "in",
+"edgeLabel": "Produced no records for the first statutory UAP transfer",
+"id": "nro",
+"l0": true,
+"label": "National Reconnaissance Office",
+"note": "NARA's 24 April 2025 release named only ODNI, OSD, the FAA and the Nuclear Regulatory Commission. NRO, which holds documented UAP equity, transferred nothing.",
+"sources": [
+{
+"date": "2025-04-24",
+"name": "National Archives press release nr25-07",
+"url": "https://www.archives.gov/press/press-releases/2025/nr25-07"
+}
+],
+"tier": "A",
+"type": "denial"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2025-04-24",
+"direction": "in",
+"edgeLabel": "Produced no records for the first statutory UAP transfer",
+"id": "nsa",
+"l0": true,
+"label": "National Security Agency",
+"note": "NARA's 24 April 2025 release named only ODNI, OSD, the FAA and the Nuclear Regulatory Commission. NSA, which holds documented UAP equity, transferred nothing.",
+"sources": [
+{
+"date": "2025-04-24",
+"name": "National Archives press release nr25-07",
+"url": "https://www.archives.gov/press/press-releases/2025/nr25-07"
+}
+],
+"tier": "B",
+"type": "denial"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2025-04-24",
+"direction": "in",
+"edgeLabel": "ODNI transferred UAP records into the statutory collection",
+"id": "odni",
+"l0": true,
+"label": "Office of the Director of National Intelligence",
+"note": "NARA's press release nr25-07 names ODNI as one of four transferring agencies, alongside OSD, the FAA and the Nuclear Regulatory Commission.",
+"sources": [
+{
+"date": "2025-04-24",
+"name": "National Archives press release nr25-07",
+"url": "https://www.archives.gov/press/press-releases/2025/nr25-07"
+}
+],
+"tier": "A",
+"type": "custody"
+},
+{
+"claimTier": 3,
+"cls": "document",
+"dateEnd": null,
+"dateStart": "2023-12-22",
+"direction": "out",
+"edgeLabel": "The statutory UAP records collection reaches records the SAP report describes",
+"id": "sap-annual-report",
+"l0": false,
+"label": "The annual DoD special access program report to Congress",
+"note": "Sections 1841-1843 of Public Law 118-31 require transmission of UAP records regardless of classification; the annual SAP report and waived-program list are agency records that would fall within the definition if UAP-related.",
+"sources": [
+{
+"date": "2023-12-22",
+"name": "Public Law 118-31, FY2024 NDAA (govinfo enrolled text)",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm"
+}
+],
+"tier": "A",
+"type": "research"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2023-12-22",
+"direction": "out",
+"edgeLabel": "Created by sections 1841-1843 of Public Law 118-31",
+"id": "us-senate",
+"l0": false,
+"label": "United States Senate",
+"note": "The collection is the surviving remnant of the Schumer-Rounds UAP Disclosure Act after the review board and eminent domain provisions were removed in conference.",
+"sources": [
+{
+"date": "2025-04-24",
+"name": "National Archives press release nr25-07",
+"url": "https://www.archives.gov/press/press-releases/2025/nr25-07"
+}
+],
+"tier": "C",
+"type": "legislative"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "1976",
+"direction": "in",
+"edgeLabel": "Project BLUE BOOK records are held at the National Archives",
+"id": "usaf",
+"l0": true,
+"label": "United States Air Force",
+"note": "94 rolls of 35mm microfilm, T-1206, permanently transferred to NARA - the Air Force is the one agency whose UFO records were fully accessioned, and they stop in 1969.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "National Archives - Unidentified Flying Objects / Project BLUE BOOK",
+"url": "https://www.archives.gov/research/military/air-force/ufos"
+}
+],
+"tier": "A",
+"type": "custody"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "2024",
+"deg": 13,
+"denials": [
+{
+"by": {
+"id": "cia",
+"label": "Central Intelligence Agency"
+},
+"claimTier": 1,
+"denialKind": "directed",
+"label": "Produced no records for the first statutory UAP transfer",
+"note": "NARA's 24 April 2025 release named only ODNI, OSD, the FAA and the Nuclear Regulatory Commission. CIA, which holds documented UAP equity, transferred nothing.",
+"of": {
+"id": "nara-uap-collection",
+"label": "National Archives Unidentified Anomalous Phenomena Records Collection"
+},
+"sources": [
+{
+"date": "2025-04-24",
+"name": "National Archives press release nr25-07",
+"url": "https://www.archives.gov/press/press-releases/2025/nr25-07"
+}
+]
+},
+{
+"by": {
+"id": "dhs",
+"label": "United States Department of Homeland Security"
+},
+"claimTier": 1,
+"denialKind": "directed",
+"label": "Produced no records for the first statutory UAP transfer",
+"note": "NARA's 24 April 2025 release named only ODNI, OSD, the FAA and the Nuclear Regulatory Commission. DHS, which holds documented UAP equity, transferred nothing.",
+"of": {
+"id": "nara-uap-collection",
+"label": "National Archives Unidentified Anomalous Phenomena Records Collection"
+},
+"sources": [
+{
+"date": "2025-04-24",
+"name": "National Archives press release nr25-07",
+"url": "https://www.archives.gov/press/press-releases/2025/nr25-07"
+}
+]
+},
+{
+"by": {
+"id": "dia",
+"label": "Defense Intelligence Agency"
+},
+"claimTier": 1,
+"denialKind": "directed",
+"label": "Produced no records for the first statutory UAP transfer",
+"note": "NARA's 24 April 2025 release named only ODNI, OSD, the FAA and the Nuclear Regulatory Commission. DIA, which holds documented UAP equity, transferred nothing.",
+"of": {
+"id": "nara-uap-collection",
+"label": "National Archives Unidentified Anomalous Phenomena Records Collection"
+},
+"sources": [
+{
+"date": "2025-04-24",
+"name": "National Archives press release nr25-07",
+"url": "https://www.archives.gov/press/press-releases/2025/nr25-07"
+}
+]
+},
+{
+"by": {
+"id": "doe",
+"label": "United States Department of Energy"
+},
+"claimTier": 1,
+"denialKind": "directed",
+"label": "DOE produced nothing for the first statutory UAP records transfer",
+"note": "NARA's 24 April 2025 release named ODNI, OSD, FAA and the Nuclear Regulatory Commission. DOE - which holds the weapons complex and performed AARO's materials analysis - was not among them.",
+"of": {
+"id": "nara-uap-collection",
+"label": "National Archives Unidentified Anomalous Phenomena Records Collection"
+},
+"sources": [
+{
+"date": "2025-04-24",
+"name": "National Archives press release nr25-07",
+"url": "https://www.archives.gov/press/press-releases/2025/nr25-07"
+}
+]
+},
+{
+"by": {
+"id": "nga",
+"label": "National Geospatial-Intelligence Agency"
+},
+"claimTier": 1,
+"denialKind": "directed",
+"label": "Named 2021 UAP contributor that produced nothing for the statutory collection",
+"note": "ODNI named NGA as a contributor of UAP reporting in June 2021; NARA's April 2025 transfer list does not include NGA, CIA, NSA, NRO, DIA, DOE or DHS.",
+"of": {
+"id": "nara-uap-collection",
+"label": "National Archives Unidentified Anomalous Phenomena Records Collection"
+},
+"sources": [
+{
+"date": "2025-04-24",
+"name": "National Archives press release nr25-07",
+"url": "https://www.archives.gov/press/press-releases/2025/nr25-07"
+},
+{
+"date": "2021-06-25",
+"name": "ODNI, Preliminary Assessment: Unidentified Aerial Phenomena",
+"url": "https://archive.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf"
+}
+]
+},
+{
+"by": {
+"id": "nro",
+"label": "National Reconnaissance Office"
+},
+"claimTier": 1,
+"denialKind": "directed",
+"label": "Produced no records for the first statutory UAP transfer",
+"note": "NARA's 24 April 2025 release named only ODNI, OSD, the FAA and the Nuclear Regulatory Commission. NRO, which holds documented UAP equity, transferred nothing.",
+"of": {
+"id": "nara-uap-collection",
+"label": "National Archives Unidentified Anomalous Phenomena Records Collection"
+},
+"sources": [
+{
+"date": "2025-04-24",
+"name": "National Archives press release nr25-07",
+"url": "https://www.archives.gov/press/press-releases/2025/nr25-07"
+}
+]
+},
+{
+"by": {
+"id": "nsa",
+"label": "National Security Agency"
+},
+"claimTier": 1,
+"denialKind": "directed",
+"label": "Produced no records for the first statutory UAP transfer",
+"note": "NARA's 24 April 2025 release named only ODNI, OSD, the FAA and the Nuclear Regulatory Commission. NSA, which holds documented UAP equity, transferred nothing.",
+"of": {
+"id": "nara-uap-collection",
+"label": "National Archives Unidentified Anomalous Phenomena Records Collection"
+},
+"sources": [
+{
+"date": "2025-04-24",
+"name": "National Archives press release nr25-07",
+"url": "https://www.archives.gov/press/press-releases/2025/nr25-07"
+}
+]
+}
+],
+"desc": "The UAP Records Collection is what survived the Unidentified Anomalous Phenomena Disclosure Act. Sections 1841 to 1843 of the FY2024 National Defense Authorization Act, Public Law 118-31, directed the creation at the National Archives of a collection of United States Government records relating to unidentified anomalous phenomena, modelled on the JFK Assassination Records Collection - but stripped in conference of the independent review board with subpoena power and of the eminent domain provision that would have compelled private holders of recovered material to surrender it. NARA established the collection as Record Group 615 and announced on 24 April 2025 that it had released records transferred from four agencies - the Office of the Director of National Intelligence, the Office of the Secretary of Defense, the Federal Aviation Administration and the Nuclear Regulatory Commission - and that it 'will continue to add UAP records to the Collection and make them available online through the National Archives Catalog on an ongoing, rolling basis'. The composition of that first transfer is itself evidence: two of the four contributing agencies are civilian regulators. Absent from the transfer are CIA, NSA, NRO, NGA, DIA, DOE, DHS and the military departments - that is, every agency with custody proximity. The collection is nonetheless the correct measurable for this board, because it is the one place where a statutory obligation to produce records collides with the agencies alleged to be holding them, and because any presidential declassification directive must eventually deposit here.",
+"domains": [
+"_rs-archive-mirror",
+"grusch",
+"w2-agencies"
+],
+"dossier": {
+"claims": [
+{
+"source": "https://www.archives.gov/research/topics/uaps/faqs",
+"text": "Sections 1841 to 1843 of the FY2024 National Defense Authorization Act, now codified at 44 U.S.C. 2107 note, require NARA to establish the Unidentified Anomalous Phenomena Records Collection and require each federal agency to review, identify and organise each UAP record in its custody for disclosure and transmission to the National Archives.",
+"tier": 1
+},
+{
+"source": "https://www.archives.gov/research/topics/uaps/faqs",
+"text": "The statutory scope is 'copies of all Government, Government-provided, or Government-funded records relating to unidentified anomalous phenomena, technologies of unknown origin, and non-human intelligence (or equivalent subjects by any other name with the specific and sole exclusion of temporarily non-attributed objects).'",
+"tier": 1
+},
+{
+"source": "https://www.archives.gov/research/topics/uaps/rg-615",
+"text": "NARA established Record Group 615 as the Unidentified Anomalous Phenomena Records Collection and will accept only digital copies of UAP records from agencies.",
+"tier": 1
+},
+{
+"source": "https://www.archives.gov/research/topics/uaps/faqs",
+"text": "Agencies were required to identify and organise UAP records by 20 October 2024 and to initiate transfer of publicly releasable records in advance of 30 September 2025, with metadata prescribed by NARA guidance in memorandum AC 26.2024.",
+"tier": 1
+},
+{
+"source": "https://www.archives.gov/research/topics/uaps/faqs",
+"text": "Where a publicly releasable record includes redactions, agencies must simultaneously transfer both redacted and unredacted copies to NARA, meaning the National Archives holds unredacted originals of redacted UAP records that it does not publish.",
+"tier": 1
+},
+{
+"source": "https://www.archives.gov/research/topics/uaps/rg-615",
+"text": "As of the Record Group 615 page's stated review date of 22 May 2026, the collection lists transmittals from seven organisations: the Federal Aviation Administration, the Nuclear Regulatory Commission, the Office of the Director of National Intelligence, the Office of the Secretary of Defense, the National Security Agency, the Department of State and the Federal Bureau of Investigation.",
+"tier": 1
+},
+{
+"source": "https://www.archives.gov/research/topics/uaps/rg-615",
+"text": "The Central Intelligence Agency, the Department of Energy, the Defense Intelligence Agency, NASA and the Departments of the Army, Navy and Air Force do not appear among the organisations with transmittals listed in Record Group 615 as of 22 May 2026.",
+"tier": 1
+},
+{
+"source": "https://www.insidegovernmentcontracts.com/2024/01/implications-of-the-unidentified-anomalous-phenomena-uap-amendment-in-the-2024-national-defense-authorization-act-ndaa/",
+"text": "The eminent domain mandate over privately held recovered technologies of unknown origin and biological evidence of non-human intelligence, and the independent Review Board, were contained in the Senate-passed UAP Disclosure Act of 2023 but were removed in conference and are not part of Public Law 118-31.",
+"tier": 2
+},
+{
+"source": "AARO Historical Record Report Volume I, March 2024, Scope and Methodology; https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF",
+"text": "AARO lists 'Partner with the U.S. National Archives on locating UAP data, refining requests based on the discovery of new leads' as one of its four stated lines of effort for the historical review.",
+"tier": 1
+},
+{
+"source": "https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download",
+"text": "NARA maintains a bulk catalog download facility for UAP records alongside the Record Group 615 series listings, allowing the collection's contents to be enumerated independently of NARA's own summaries.",
+"tier": 1
+},
+{
+"source": "https://defensescoop.com/2026/02/25/hegseth-ufo-disclosure-trump-aaro-uap-caseload/",
+"text": "In February 2026 a War Department official stated that AARO 'has made progress to make UAP information available and transfer those records to the National Archives in accordance with federal law,' while AARO's own historical and annual reports remained unpublished and overdue.",
+"tier": 2
+},
+{
+"source": "https://defensescoop.com/2026/02/25/hegseth-ufo-disclosure-trump-aaro-uap-caseload/",
+"text": "Jordan Flowers, executive director of the Disclosure Foundation, stated in February 2026 that 'Congress already has passed laws establishing a public UAP records collection at the National Archives' and that the existing statutory framework provided the administration a path it was not using, while warning that classification nuances risked misleadingly partial or incomplete disclosures.",
+"tier": 2
+},
+{
+"source": "https://defensescoop.com/2026/05/14/uap-trump-first-pursue-ufo-file-drop/ and https://defensescoop.com/2026/02/25/hegseth-ufo-disclosure-trump-aaro-uap-caseload/",
+"text": "A presidential directive issued in February 2026 established a multiagency UAP records release effort with a centralised repository on the Department of War website, releasing material in periodic tranches beginning May 2026, operating alongside and outside the statutory National Archives collection.",
+"tier": 2
+},
+{
+"source": "https://www.archives.gov/records-mgmt/uap-guidance",
+"text": "NARA's guidance to agencies on identifying, preparing and transferring UAP records is published as a records management guidance page and in agency memoranda AC 26.2024 and AC 04.2025.",
+"tier": 1
+},
+{
+"source": "https://www.archives.gov/research/topics/uaps/rg-615; https://catalog.archives.gov/id/656595571",
+"text": "The Department of the Air Force is the eighth contributor listed on NARA's Record Group 615 page and the first military department to appear as a contributor in its own right, as series 'Records from the Department of the Air Force Relating to Unidentified Anomalous Phenomena', National Archives Identifier 656595571.",
+"tier": 1
+},
+{
+"source": "https://catalog.archives.gov/id/656595571",
+"text": "The Air Force series carries accession number TR-0615-2026-0003, was described from NARA descriptive file NAC_2026-08-27_23.116_DESC_0001.xml and entered the catalog index on 28 August 2026 at 08:30 UTC.",
+"tier": 1
+},
+{
+"source": "https://catalog.archives.gov/id/656595571",
+"text": "The Air Force series holds 30 items with an extent of '30 Portable Document Format (PDF) files', inclusive dates 25 October 1945 to 31 December 1969, access restriction Unrestricted and use restriction Unrestricted, under disposition authority DAA-GRS-2024-0002-0001.",
+"tier": 1
+},
+{
+"source": "https://catalog.archives.gov/id/656595571",
+"text": "NARA's scope note states the Air Force series 'consists of records compiled in response to the 2024 National Defense Authorization Act (Public Law 118-31) and received from the Department of the Air Force pursuant to the Unidentified Anomalous Phenomena Records Collection Act, 44 U.S.C. 2107 note.'",
+"tier": 1
+},
+{
+"source": "https://catalog.archives.gov/id/656595571",
+"text": "All 30 items carry contiguous UAP Record Identifiers 342UAP00001 through 342UAP00030, and each has exactly one attached PDF digital object; all 30 object URLs were fetched on 28 August 2026 and returned PDF content.",
+"tier": 1
+},
+{
+"source": "https://catalog.archives.gov/medialz/electronic-records/rg-615/656595571/00258350_Estimate_of_the_Situation.pdf",
+"text": "The declassification block printed on item 342UAP00005 reads 'Department of the Air Force / Air Force Declassification Office / Authority: FY24 NDAA, now codified at 44 U.S.C. 2107 / Date: 5/05/2025 / Declassified in Full: X / Case Number: 342UAP00005', showing that the Air Force ran the transfer as a declassification action under the UAP records statute and used the UAP Record Identifier as the declassification case number.",
+"tier": 1
+},
+{
+"source": "https://catalog.archives.gov/medialz/electronic-records/rg-615/656595571/00258350_Estimate_of_the_Situation.pdf",
+"text": "Item 342UAP00005, catalogued as 'Estimate of the Situation, September 8, 1948', is Headquarters Fifth Air Force, Office of the AC of S, A-2, APO 710, 'Estimate of the Situation' covering 7 August to 4 September 1948, 21 pages, published for Fifth Air Force Division and Wing-Base Commanders, with a table of contents covering Japan, Korea, China, the Philippines and Malaya. It is a periodic Far East theatre intelligence estimate and is not the Air Materiel Command estimate of 1948 that Ruppelt described.",
+"tier": 1
+}
+],
+"denialPosture": "NARA has made no substantive claim about the phenomenon and issues no denials; it is a records custodian executing a statute. Its published position is procedural, that it receives records from agencies on a rolling basis and will add to Record Group 615 as they are transferred. The absence of denial is itself significant: NARA has never stated that any agency has certified it holds no UAP records, and it publishes no compliance register.",
+"narrative": "The Unidentified Anomalous Phenomena Disclosure Act, sponsored by Senators Schumer and Rounds, passed the Senate in July 2023 as an amendment to the FY2024 NDAA. In its Senate form it would have created an independent Review Board with authority over agency withholding decisions, and it would have directed the federal government to exercise eminent domain over any recovered technologies of unknown origin and biological evidence of non-human intelligence held by private persons or entities. Neither survived conference. What was enacted in Public Law 118-31 on 22 December 2023 was the records collection framework alone.\n\nWhat survived is still remarkable as legislative drafting. The statute directs NARA to build a collection consisting of copies of all Government, Government-provided, or Government-funded records relating to unidentified anomalous phenomena, technologies of unknown origin, and non-human intelligence, or equivalent subjects by any other name, with the specific and sole exclusion of temporarily non-attributed objects. Congress wrote three categories into federal records law. Unidentified anomalous phenomena is the neutral one. Technologies of unknown origin and non-human intelligence are not neutral at all; they are the categories a legacy recovery programme would generate. The clause about equivalent subjects by any other name is anti-evasion drafting aimed at codeword renaming. The exclusion of temporarily non-attributed objects is there to keep routine drone and balloon traffic out. Legislatures do not build statutory taxonomies for things they believe do not exist.\n\nNARA implemented it. It established Record Group 615, issued guidance to agencies through memoranda AC 26.2024 and AC 04.2025, and set the mechanics: agencies identify all UAP records in any format, make digital copies, attach prescribed metadata, and transfer. NARA accepts only digital versions. Agencies were to complete identification and organisation by 20 October 2024 and to initiate transfer in advance of 30 September 2025. One provision deserves particular attention. Where a publicly releasable record includes redactions, the agency must simultaneously transfer redacted and unredacted copies to NARA. The National Archives therefore holds unredacted originals of redacted UAP records that it does not publish, which makes NARA itself a custody node with material it is sitting on.\n\nThe results are the story. As of the Record Group 615 page's stated review date of 22 May 2026, the collection lists transmittals from seven organisations: the Federal Aviation Administration, the Nuclear Regulatory Commission, the Office of the Director of National Intelligence, the Office of the Secretary of Defense, the National Security Agency, the Department of State and the Federal Bureau of Investigation. That list is as notable for its absences as its contents. The Central Intelligence Agency, whose own historian documented decades of UFO cover story management, is absent. The Department of Energy, which holds the nuclear complex and the Restricted Data authority, is absent. The Defense Intelligence Agency, which AARO has confirmed holds the AAWSAP archive, is absent. NASA is absent. The Departments of the Army and Navy are absent. The Department of the Air Force was absent too until 28 August 2026, when it transferred thirty records as catalog series 656595571 -- the first military department to appear in the collection in its own right, and the service that ran Project SIGN, Project GRUDGE and Project Blue Book. AARO itself, whose Volume I lists partnering with the National Archives on locating UAP data as one of its four lines of effort, appears only through OSD.\n\nThe statutory architecture explains why. The Act imposes an obligation on agencies to identify their own records and to decide what is publicly releasable. There is no Review Board, no independent adjudicator of withholding, and no penalty for a null return. Independent tracking of the transfer deadline found that most agencies approached with records requests either produced nothing or did not respond at all. A statute that asks the holders of a secret to declare it, and provides no mechanism when they do not, produces exactly the collection that exists.\n\nThe 2026 development compounds rather than fixes this. A presidential directive in February 2026 launched a multiagency effort to identify, review, declassify and publicly release UAP records, with a centralised repository opened in May 2026 on the Department of War's own website and material issued in periodic tranches. The releases have included previously unseen material, including a Department of Energy report on a 2015 incident over the Pantex nuclear weapons plant. But the channel is executive, discretionary, and controlled by the departments whose compliance with the statutory channel was the problem. Jordan Flowers of the Disclosure Foundation made the point directly in February 2026, noting that Congress had already passed laws establishing a public UAP records collection at the National Archives and that the existing statutory framework gave the administration a path it was not using, while warning that classification nuances could produce misleadingly partial or incomplete disclosures.\n\nThe collection is therefore best understood on this board as an instrument that works and a compliance record that does not. The statute is the strongest UAP disclosure law ever enacted and it names the categories precisely. Record Group 615 is real, it is growing, and NARA is holding unredacted copies the public cannot see. Eight agencies have delivered, the eighth on 28 August 2026. The agencies at the centre of the argument still have not, and the Air Force transfer costs them their best remaining excuse: a military department has now done it.",
+"openQuestions": [
+"NARA publishes no register of which agencies have certified compliance, which have made null returns, and which have not responded at all. Without it, the eight listed transmittals cannot be distinguished from a near total failure of compliance.",
+"The statutory transfer deadline of 30 September 2025 has passed. No enforcement action, referral or public accounting of non-compliance has been identified.",
+"NARA holds unredacted copies of redacted UAP records under the simultaneous transfer requirement. The volume of that unpublished holding is not disclosed anywhere.",
+"Whether records classified as Restricted Data under the Atomic Energy Act are treated as within or outside the transfer obligation has never been addressed by NARA guidance, which matters directly for DOE and the nuclear weapons complex.",
+"The relationship between the statutory Record Group 615 collection and the 2026 executive-branch release channel is undefined. It is not established whether material released through the executive channel is also being accessioned into RG 615, or whether it substitutes for it.",
+"The Senate-passed Review Board and eminent domain provisions have not been reintroduced and enacted. Whether any subsequent NDAA restores them is a live tracking item."
+],
+"roles": [
+"disclosure",
+"custody",
+"oversight"
+],
+"whatItIs": "The Unidentified Anomalous Phenomena Records Collection is a statutory records collection at the National Archives and Records Administration, created by sections 1841 to 1843 of the FY2024 National Defense Authorization Act and codified at 44 U.S.C. 2107 note. NARA established it as Record Group 615. Every federal agency was required to review, identify and organise its UAP records for disclosure and transmission, and to transfer publicly releasable digital copies in advance of 30 September 2025.",
+"whyImplicated": "The collection is the concealment argument reduced to an inventory problem, and the inventory is nearly empty. Congress wrote a statutory definition that expressly reaches records concerning technologies of unknown origin and non-human intelligence, which is a legislature drafting for the existence of the thing rather than the possibility of it. It then stripped out the two provisions that would have given the statute teeth, the eminent domain power over privately held recovered material and the independent Review Board modelled on the JFK Act, leaving agencies to grade their own homework. What arrived is the measure of what compliance is worth: as of May 2026 the collection listed transmittals from seven organisations, none of them a military department, and on 28 August 2026 the Department of the Air Force became the eighth and the first service to transfer in its own right. The Central Intelligence Agency, the Department of Energy, the Defense Intelligence Agency, NASA, the Army and the Navy are still not among them. A parallel executive-branch release channel opened in 2026 that routes disclosures around the statutory collection entirely."
+},
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [
+0,
+1,
+2,
+3
+],
+"requests": [
+{
+"agency": "NARA",
+"partial": [],
+"questions": [
+0,
+1,
+2,
+3
+],
+"request": "F1",
+"sendTo": "National Archives and Records Administration, FOIA Officer, Office of General Counsel, 8601 Adelphi Road, College Park MD 20740. Cross-file a copy with the National Declassification Center, which is the operational custodian of the collection.",
+"status": "not filed",
+"title": "NARA - the RG 615 compliance register"
+}
+]
+},
+"hl": null,
+"id": "nara-uap-collection",
+"l0": true,
+"label": "National Archives Unidentified Anomalous Phenomena Records Collection",
+"locLabel": null,
+"members": [
+{
+"cls": "institution",
+"id": "dhs",
+"label": "United States Department of Homeland Security",
+"tier": "A"
+},
+{
+"cls": "institution",
+"id": "nga",
+"label": "National Geospatial-Intelligence Agency",
+"tier": "C"
+},
+{
+"cls": "document",
+"id": "sap-annual-report",
+"label": "The annual DoD special access program report to Congress",
+"tier": "A"
+},
+{
+"cls": "institution",
+"id": "us-senate",
+"label": "United States Senate",
+"tier": "C"
+}
+],
+"short": "National Archives UAP Collection",
+"sources": [
+{
+"date": "2026-08-11",
+"name": "Archived: ODNI, Preliminary Assessment: Unidentified Aerial Phenomena (Wayback 2026-08-11)",
+"url": "https://web.archive.org/web/20260811010946/https://archive.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf"
+},
+{
+"date": "2025-04-24",
+"name": "National Archives press release nr25-07",
+"url": "https://www.archives.gov/press/press-releases/2025/nr25-07"
+},
+{
+"date": "2025-04-24",
+"name": "National Archives News - RFK files and UAP records, April 2025",
+"url": "https://www.archives.gov/news/articles/rfk-files-uap-records-april-2025"
+},
+{
+"date": "2025-04-24",
+"name": "National Archives - Unidentified Anomalous Phenomena (UAP) research topic page",
+"url": "https://www.archives.gov/research/topics/uaps"
+},
+{
+"date": "2026-08-12",
+"name": "NARA Catalog - Record Group 615, Unidentified Anomalous Phenomena Records Collection",
+"url": "https://catalog.archives.gov/id/445887258"
+},
+{
+"date": "2021-06-25",
+"name": "ODNI, Preliminary Assessment: Unidentified Aerial Phenomena",
+"url": "https://archive.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf"
+},
+{
+"date": null,
+"name": "archives.gov",
+"url": "https://www.archives.gov/research/topics/uaps/rg-615"
+},
+{
+"date": null,
+"name": "catalog.archives.gov",
+"url": "https://catalog.archives.gov/id/656595571"
+},
+{
+"date": null,
+"name": "catalog.archives.gov",
+"url": "https://catalog.archives.gov/medialz/electronic-records/rg-615/656595571/00258350_Estimate_of_the_Situation.pdf"
+}
+],
+"sub": "Statutory collection under 2024 NDAA secs. 1841-1843",
+"tier": "A",
+"tierRationale": "Re-graded A on a global pass (rank 38 of 1027, score 90). 13 connections, 2 of them custody/witness/funding/programmatic, 7 official denials recorded against it. Axes C0/A1/D3.",
+"timeline": [
+{
+"date": "2023-12-22",
+"id": "ag-tl-2023-ndaa",
+"label": "Sections 1841-1843 of Public Law 118-31 enacted",
+"precision": "day",
+"strand": "oversight",
+"text": "The UAP Disclosure Act is cut down in conference: the National Archives collection survives, the review board with subpoena power and the eminent domain provision over recovered technologies do not.",
+"tier": "A"
+},
+{
+"date": "2025-04-24",
+"id": "ag-tl-2025-nara",
+"label": "First statutory UAP records transfer",
+"precision": "day",
+"strand": "oversight",
+"text": "NARA releases records from ODNI, OSD, the FAA and the Nuclear Regulatory Commission. CIA, NSA, NRO, NGA, DIA, DOE, DHS and the military departments transfer nothing.",
+"tier": "A"
+},
+{
+"date": "2025-04-24",
+"id": "g-tl-2025-04-nara",
+"label": "National Archives releases UAP records from four agencies",
+"precision": "day",
+"strand": "oversight",
+"text": "Under sections 1841-1843 of the FY2024 NDAA, NARA publishes records transferred from ODNI, OSD, the FAA and the NRC into the Unidentified Anomalous Phenomena Collection, with rolling additions promised.",
+"tier": "A"
+}
+]
+}

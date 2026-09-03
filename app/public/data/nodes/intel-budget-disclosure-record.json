@@ -1,0 +1,168 @@
+{
+"A": 1,
+"C": 0,
+"D": 3,
+"band": null,
+"claims": [
+{
+"source": "https://irp.fas.org/budget/index.html",
+"text": "The 1997 disclosure of $26.6 billion for FY1997 was the first release of the total US intelligence budget in fifty years and followed FOIA litigation brought by FAS with the assistance of Kate Martin of the Center for National Security Studies.",
+"tier": 1
+},
+{
+"source": "https://irp.fas.org/budget/index.html",
+"text": "The DCI disclosed $26.7 billion for FY1998 and then ceased disclosure; publication did not resume until the DNI released the FY2007 NIP figure.",
+"tier": 1
+},
+{
+"source": "https://irp.fas.org/budget/index.html",
+"text": "MIP figures were first disclosed alongside NIP totals for FY2010.",
+"tier": 1
+},
+{
+"source": "https://irp.fas.org/budget/index.html",
+"text": "Combined NIP+MIP totals by fiscal year: 2007 $63.5bn, 2008 $70.4bn, 2009 $76.2bn, 2010 $80.1bn, 2011 $78.6bn, 2012 $75.4bn, 2013 $71.9bn, 2014 $67.9bn, 2015 $66.8bn, 2016 $70.7bn, 2017 $73.0bn, 2018 $81.5bn, 2019 $81.7bn, 2020 $85.8bn, 2021 $84.1bn, 2022 $89.8bn, 2023 $99.6bn, 2024 $106.3bn, 2025 $101.1bn.",
+"tier": 1
+},
+{
+"source": "https://irp.fas.org/budget/index.html",
+"text": "The FY2026 request was $81.9 billion NIP and $33.6 billion MIP.",
+"tier": 1
+},
+{
+"source": "https://www.odni.gov/index.php/what-we-do/ic-budget",
+"text": "The published intelligence aggregate cannot be reconciled to the published defense budget by any external party, because NIP and MIP money is appropriated inside Department of Defense accounts whose classified line items are not broken out. Reasoning: the only public defense-side classified figures are the 'CLASSIFIED PROGRAMS' rows in the funding tables, which total roughly $96 billion for FY2026 across all appropriations and are not identified as NIP, MIP or neither.",
+"tier": 3
+}
+],
+"cls": "document",
+"cluster": "ic",
+"connections": [
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "1976",
+"dateStart": "1976",
+"direction": "in",
+"edgeLabel": "Recommended annual publication of the aggregate national intelligence figure, and lost its own budget chapter",
+"id": "church-committee",
+"l0": true,
+"label": "Senate Select Committee to Study Governmental Operations with Respect to Intelligence Activities (Church Committee)",
+"note": "The committee recommended publication of the aggregate figure while the chapter titled 'Budgetary Oversight' was deleted from the published report at the agencies' request.",
+"sources": [
+{
+"date": "1976-04-26",
+"name": "S. Rept. 94-755, Book I, Foreign and Military Intelligence",
+"url": "https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-94755-i.pdf"
+}
+],
+"tier": "B",
+"type": "legislative"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "1997",
+"direction": "in",
+"edgeLabel": "Created the first segment of the record by litigation",
+"id": "steven-aftergood",
+"l0": false,
+"label": "Steven Aftergood",
+"note": "Aftergood was the plaintiff in the 1997 FAS FOIA suit against the CIA that forced the first release of the total intelligence budget in fifty years, $26.6 billion for FY1997. Attested by FAS and by the FAS Intelligence Resource Program budget page.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "FAS, Steven Aftergood",
+"url": "https://fas.org/expert/steven-aftergood/"
+}
+],
+"tier": "C",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "legislation",
+"dateEnd": null,
+"dateStart": "2007-08-03",
+"direction": "in",
+"edgeLabel": "The statute that produced the second segment of the disclosure record",
+"id": "usc-50-3306",
+"l0": false,
+"label": "50 U.S.C. 3306 - Public disclosure of NIP aggregate amounts",
+"note": "Section 601 of P.L. 110-53, codified at 50 U.S.C. 3306, compels the annual aggregate NIP disclosures that resumed with FY2007 after a nine-year gap. Attested by the statute and by the ODNI and FAS compilations.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "50 U.S.C. 3306; FAS Intelligence Budget Data",
+"url": "https://irp.fas.org/budget/index.html"
+}
+],
+"tier": "C",
+"type": "legislative"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "1997",
+"deg": 3,
+"denials": [],
+"desc": "The complete public record of what the United States spends on intelligence consists of two numbers per year, and it exists in two segments separated by a nine-year gap. The first segment was created by litigation: following a FOIA suit brought by the Federation of American Scientists with the assistance of Kate Martin of the Center for National Security Studies, the Director of Central Intelligence declassified the total intelligence budget for the first time in fifty years in 1997 - $26.6 billion for FY1997 - and again in 1998 - $26.7 billion for FY1998. Then disclosure stopped. Nothing further was released until 2007, when the newly created Director of National Intelligence began publishing the National Intelligence Program aggregate under statutory compulsion. Military Intelligence Program figures were first published alongside the NIP for FY2010. The combined series, as compiled by the FAS Intelligence Resource Program: FY2007 $43.5bn NIP and $20bn MIP, total $63.5bn; FY2008 $47.5/$22.9/$70.4; FY2009 $49.8/$26.4/$76.2; FY2010 $53.1/$27.0/$80.1; FY2011 $54.6/$24.0/$78.6; FY2012 $53.9/$21.5/$75.4; FY2013 $52.7/$19.2/$71.9; FY2014 $50.5/$17.4/$67.9; FY2015 $50.3/$16.5/$66.8; FY2016 $53.0/$17.7/$70.7; FY2017 $54.6/$18.4/$73.0; FY2018 $59.4/$22.1/$81.5; FY2019 $60.2/$21.5/$81.7; FY2020 $62.7/$23.1/$85.8; FY2021 $60.8/$23.3/$84.1; FY2022 $65.7/$24.1/$89.8; FY2023 $71.7/$27.9/$99.6; FY2024 $76.5/$29.8/$106.3; FY2025 $73.3/$27.8/$101.1; and for FY2026 a request of $81.9bn NIP and $33.6bn MIP. That is the whole of it. There is no agency line, no programme line, no discipline line and no reconciliation to the Department of Defense budget in which most of the money is appropriated.",
+"domains": [
+"w2-black-budget"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "1",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "intel-budget-disclosure-record",
+"l0": false,
+"label": "The intelligence budget disclosure record, FY1997-FY2026",
+"locLabel": null,
+"members": null,
+"short": "The intelligence budget disclosure record, FY1997-FY2026",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "FAS Intelligence Resource Program, Intelligence Budget Data",
+"url": "https://irp.fas.org/budget/index.html"
+},
+{
+"date": "2026-08-12",
+"name": "ODNI, Intelligence Community Budget",
+"url": "https://www.odni.gov/index.php/what-we-do/ic-budget"
+},
+{
+"date": "2026-08-12",
+"name": "Federation of American Scientists, Steven Aftergood",
+"url": "https://fas.org/expert/steven-aftergood/"
+}
+],
+"sub": "Every published NIP and MIP figure, and the litigation and statutes that produced them",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 545 of 1027, score 28). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D3.",
+"timeline": [
+{
+"date": "1998",
+"id": "bb-tl-1998-second",
+"label": "Second and last DCI disclosure, then nine years of silence",
+"precision": "year",
+"strand": "oversight",
+"text": "The DCI discloses $26.7 billion for FY1998 and then stops. No intelligence budget figure is published again until 2007, and then only because Congress compels it by statute.",
+"tier": "A"
+},
+{
+"date": "2010",
+"id": "bb-tl-2010-mipfirst",
+"label": "MIP topline published for the first time",
+"precision": "year",
+"strand": "oversight",
+"text": "Military Intelligence Program figures are disclosed alongside the NIP for FY2010: $27.0 billion MIP against $53.1 billion NIP, a combined $80.1 billion. No breakdown of either accompanies the figures, then or since.",
+"tier": "B"
+}
+]
+}

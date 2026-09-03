@@ -1,0 +1,77 @@
+{
+"A": 0,
+"C": 2,
+"D": 0,
+"band": null,
+"claims": [
+{
+"source": "Stringfield, Status Report III, 'Chronology of cases reported in the UFO Crash/Retrieval Syndrome, Status Report II', p. 125 ff.",
+"text": "Stringfield's consolidated chronology lists as Item B-7 of Status Report II: '1948 or 1950: Mexico, near Del Rio, Texas. Air Force officer observed crashed craft and one body.'",
+"tier": 2
+},
+{
+"source": "Inference from the state of the record",
+"text": "Del Rio cannot be graded above tier 3 by construction because its own index entry offers two candidate years and an ambiguous country, and no version of the account has been stated consistently by any named source. Reasoning: an event that cannot be fixed in time or jurisdiction cannot be searched for in any records system.",
+"tier": 3
+}
+],
+"cls": "event",
+"cluster": "witness",
+"connections": [
+{
+"claimTier": 2,
+"cls": "document",
+"dateEnd": "1982",
+"dateStart": "1980-01",
+"direction": "in",
+"edgeLabel": "Status Report chronology indexes Del Rio as Item B-7",
+"id": "stringfield-status-reports",
+"l0": true,
+"label": "UFO Crash/Retrieval Status Reports I-VII (Stringfield, 1978-1994)",
+"note": "The consolidated chronology in Status Report III lists Item B-7 of Status Report II as '1948 or 1950: Mexico, near Del Rio, Texas. Air Force officer observed crashed craft and one body.'",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Stringfield Status Reports 1-7 (scans)",
+"url": "https://archive.org/details/stringfield_Retrievals_Report_6_inner_sanctum_LQ"
+}
+],
+"tier": "C",
+"type": "research"
+}
+],
+"coords": null,
+"dateEnd": "1950",
+"dateStart": "1948",
+"deg": 1,
+"denials": [],
+"desc": "One of the oldest claims in the retrieval corpus and one of the weakest, retained here because Stringfield indexed it and because it is a worked example of what an unresolvable case looks like. It appears in Stringfield's consolidated chronology as Item B-7 of Status Report II, entered as '1948 or 1950: Mexico, near Del Rio, Texas. Air Force officer observed crashed craft and one body' - a claim that cannot be dated to a year, cannot be placed on a side of an international border, and rests on a single unnamed source. The most-cited version in the wider literature is attributed to a retired officer, Robert B. Willingham, who over several decades gave accounts of a disc down near the Texas-Mexico border, with the date, the location and his own claimed rank and role varying materially between tellings and his stated service history contested against his record. This board does not carry the Willingham account as a claim because it cannot state a version of it that its own source has not contradicted. What Del Rio is good for is calibration: it is a case with no document, no named first-hand witness whose statements are stable, and no fixed date, and it has nevertheless been recycled through the literature for fifty years - which is the reason a tiering discipline is necessary.",
+"domains": [
+"w2-retrieval-literature"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "del-rio-1950",
+"l0": false,
+"label": "Del Rio / Mexican border claim, 1948 or 1950",
+"locLabel": null,
+"members": null,
+"short": "Del Rio / Mexican border claim, 1948 or 1950",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "UFO Crash Retrievals, Status Reports 1-7 by Leonard Stringfield - full scans",
+"url": "https://archive.org/details/stringfield_Retrievals_Report_6_inner_sanctum_LQ"
+}
+],
+"sub": "Claimed crashed craft and one body observed by an Air Force officer",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 951 of 1027, score 12). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A0/D0.",
+"timeline": []
+}

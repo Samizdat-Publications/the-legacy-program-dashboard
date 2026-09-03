@@ -1,0 +1,155 @@
+{
+"A": 0,
+"C": 0,
+"D": 3,
+"band": null,
+"claims": [
+{
+"source": "https://irp.fas.org/budget/index.html",
+"text": "FAS brought the 1997 FOIA litigation, with the assistance of Kate Martin of the Center for National Security Studies, that forced the first disclosure of the total intelligence budget in fifty years.",
+"tier": 1
+},
+{
+"source": "https://fas.org/expert/steven-aftergood/",
+"text": "Steven Aftergood joined FAS in 1989 and directed its Project on Government Secrecy from 1991 to 2021.",
+"tier": 1
+}
+],
+"cls": "institution",
+"cluster": "research",
+"connections": [
+{
+"claimTier": 1,
+"cls": "legislation",
+"dateEnd": null,
+"dateStart": "1952",
+"direction": "in",
+"edgeLabel": "FAS publishes the only public series on how often the Act is used",
+"id": "invention-secrecy-act",
+"l0": false,
+"label": "Invention Secrecy Act of 1951 (Pub. L. 82-256, 66 Stat. 3), codified at 35 U.S.C. 181-188",
+"note": "FAS obtains and publishes the annual secrecy-order counts from the Patent and Trademark Office, which is the only public series on how often the Act is used.",
+"sources": [
+{
+"date": null,
+"name": "Invention Secrecy Statistics, FAS Project on Government Secrecy",
+"url": "https://sgp.fas.org/othergov/invention/stats.html"
+}
+],
+"tier": "B",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": "2013-08-29",
+"direction": "in",
+"edgeLabel": "FAS hosts the excerpts and the redacted FOIA budget justifications",
+"id": "nip-fy2013-summary-disclosure",
+"l0": false,
+"label": "National Intelligence Program Summary for FY2013 (excerpts) - the 2013 black budget disclosure",
+"note": "The FAS Intelligence Resource Program budget page indexes the FY2013 NIP Summary excerpts alongside redacted Congressional Budget Justifications for ODNI, NRO, NGA and the MIP. Attested by the page itself.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "FAS Intelligence Resource Program, Intelligence Budget Data",
+"url": "https://irp.fas.org/budget/index.html"
+}
+],
+"tier": "B",
+"type": "custody"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2006",
+"direction": "out",
+"edgeLabel": "2006 FOIA suit forced release of unclassified NRO budget records",
+"id": "nro",
+"l0": true,
+"label": "National Reconnaissance Office",
+"note": "Aftergood, for FAS, won a FOIA suit against the National Reconnaissance Office securing release of unclassified budget records. Attested by the FAS expert page.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "FAS, Steven Aftergood",
+"url": "https://fas.org/expert/steven-aftergood/"
+}
+],
+"tier": "A",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "1989",
+"direction": "in",
+"edgeLabel": "Directed the Project on Government Secrecy 1991-2021",
+"id": "steven-aftergood",
+"l0": false,
+"label": "Steven Aftergood",
+"note": "Aftergood joined FAS in 1989 and directed the Project on Government Secrecy from 1991 to 2021. Attested by the FAS expert page.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "FAS, Steven Aftergood",
+"url": "https://fas.org/expert/steven-aftergood/"
+}
+],
+"tier": "C",
+"type": "institutional"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "1945",
+"deg": 4,
+"denials": [],
+"desc": "The Federation of American Scientists, founded in 1945 by Manhattan Project scientists, runs the Government Secrecy Project and the Intelligence Resource Program. It is the organisation that brought the 1997 FOIA suit against the Central Intelligence Agency, with the assistance of Kate Martin of the Center for National Security Studies, which forced the first declassification of the total United States intelligence budget in fifty years, and the 2006 suit against the National Reconnaissance Office that produced unclassified NRO budget records. Its Intelligence Resource Program maintains the only consolidated public series of NIP and MIP toplines. For a board built on the premise of deliberate concealment, FAS is the institutional counter-example that proves the rule: everything the public knows about the size of the intelligence budget exists because a small non-profit sued for it, and nothing below the aggregate has ever been obtained by anyone.",
+"domains": [
+"w2-black-budget"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "fas",
+"l0": false,
+"label": "Federation of American Scientists",
+"locLabel": null,
+"members": null,
+"short": "Federation of American Scientists",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "FAS Intelligence Resource Program, Intelligence Budget Data",
+"url": "https://irp.fas.org/budget/index.html"
+},
+{
+"date": "2026-08-12",
+"name": "FAS, Steven Aftergood",
+"url": "https://fas.org/expert/steven-aftergood/"
+}
+],
+"sub": "Non-governmental organisation; litigant that forced the first intelligence budget disclosures",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 788 of 1027, score 19). 4 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D3.",
+"timeline": [
+{
+"date": "2006",
+"id": "bb-tl-2006-nro-foia",
+"label": "FAS wins FOIA suit against the NRO",
+"precision": "year",
+"strand": "oversight",
+"text": "Aftergood, for FAS, secures release of unclassified National Reconnaissance Office budget records - the only occasion on which any component-level intelligence budget material has been prised loose by litigation.",
+"tier": "B"
+}
+]
+}

@@ -1,0 +1,902 @@
+{
+"A": 1,
+"C": 1,
+"D": 3,
+"band": "custody",
+"claims": [
+{
+"source": "US Navy range fouler report on the 14 Nov 2004 incident, released to the Navy FOIA reading room 12 January 2023",
+"text": "'Solid white, smooth, with no edges. It was uniformly colored with no nacelles, pylons, or wings. It was approximately 46 feet in length.'",
+"tier": 1
+},
+{
+"source": "US Navy range fouler report, released 12 January 2023",
+"text": "'Pilots reported the incident through Intelligence Personnel. Reporting terminated at 3rd Fleet, there was no process to share the reporting.'",
+"tier": 1
+},
+{
+"source": "David Fravor, written statement to House Oversight, 26 July 2023",
+"text": "'They had been observing these objects on their Aegis combat system for the previous 2 weeks,' descending from above 80,000 ft rapidly down to 20,000 ft.",
+"tier": 2
+},
+{
+"source": "David Fravor, written statement to House Oversight, 26 July 2023",
+"text": "'What is shocking is that the incident was never investigated, none of my crew were ever questioned, tapes were never taken.'",
+"tier": 2
+},
+{
+"source": "DoD statement on the release of historical Navy videos, 27 April 2020",
+"text": "The Department of Defense released FLIR1 with the two January 2015 videos on 27 April 2020, stating that 'the aerial phenomena observed in the videos remain characterized as unidentified.'",
+"tier": 1
+},
+{
+"source": "Public interviews by Kevin Day, Gary Voorhis and Jason Turner, 2018-2019; no primary record located",
+"text": "Recording media covering the Princeton's tracks were removed or ordered wiped by unidentified personnel within roughly 48 hours of 14 November 2004. Reasoning: three Princeton crewmen in different billets - Day, Voorhis and Turner - have given consistent independent public accounts since 2018, and the Navy has never produced Princeton sensor data for the date; but no primary record naming the personnel or the authority has been located as of August 2026.",
+"tier": 3
+},
+{
+"source": "Inference from AARO's published product set",
+"text": "AARO has published parallax and sensor-artefact rebuttals for GO FAST, Aguadilla and Mount Etna but has never published an assessment of FLIR1. Reasoning: review of AARO's published case products and information papers through August 2026.",
+"tier": 3
+}
+],
+"cls": "event",
+"cluster": "other",
+"connections": [
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "2004",
+"dateStart": "2004",
+"direction": "in",
+"edgeLabel": "Flew wing on the 14 Nov 2004 intercept; observed the object for about five minutes",
+"id": "alex-dietrich",
+"l0": false,
+"label": "Alex Dietrich",
+"note": "Dietrich and her WSO observed the object from roughly 8,000 feet above for about five minutes. She is named in the Navy range fouler report released 12 January 2023.",
+"sources": [
+{
+"date": "2023-01-14",
+"name": "The War Zone - Tic Tac incident in newly released range fouler reports",
+"url": "https://www.twz.com/tic-tac-uap-incident-included-in-72-newly-released-range-incursion-reports"
+},
+{
+"date": "2021-05-16",
+"name": "CBS News / 60 Minutes",
+"url": "https://www.cbsnews.com/news/ufo-military-intelligence-60-minutes-2021-05-16/"
+}
+],
+"tier": "C",
+"type": "witness-chain"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "2004",
+"dateStart": "2004",
+"direction": "in",
+"edgeLabel": "Intercepted the object as CO of VFA-41 on 14 Nov 2004",
+"id": "david-fravor",
+"l0": false,
+"label": "David Fravor",
+"note": "Fravor's sworn written statement to House Oversight places him as commanding officer of VFA-41 flying the intercept; the Navy's own range fouler report names him as aircrew.",
+"sources": [
+{
+"date": "2023-07-26",
+"name": "House Oversight - Fravor written statement (PDF)",
+"url": "https://oversight.house.gov/wp-content/uploads/2023/07/David-Fravor-Statement-for-House-Oversight-Committee.pdf"
+},
+{
+"date": "2023-01-14",
+"name": "The War Zone - Tic Tac incident in newly released range fouler reports",
+"url": "https://www.twz.com/tic-tac-uap-incident-included-in-72-newly-released-range-incursion-reports"
+}
+],
+"tier": "B",
+"type": "witness-chain"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "2020",
+"dateStart": "2004",
+"direction": "in",
+"edgeLabel": "Primary sensor artefact of the 2004 encounter, released by DoD in 2020",
+"id": "flir1-video",
+"l0": false,
+"label": "FLIR1 (Nimitz ATFLIR video, 14 Nov 2004)",
+"note": "The video leaked in 2007, was published by the New York Times on 16 December 2017, and was formally released by DoD on 27 April 2020 with the objects 'characterized as unidentified'.",
+"sources": [
+{
+"date": "2020-04-27",
+"name": "DoD statement releasing the three Navy videos",
+"url": "https://www.war.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/"
+},
+{
+"date": "2017-12-16",
+"name": "The New York Times - Glowing Auras and Black Money",
+"url": "https://www.nytimes.com/2017/12/16/us/politics/pentagon-program-ufo-harry-reid.html"
+}
+],
+"tier": "B",
+"type": "custody"
+},
+{
+"claimTier": 3,
+"cls": "person",
+"dateEnd": "2004-11-18",
+"dateStart": "2004-11-15",
+"direction": "in",
+"edgeLabel": "Voorhis describes removal or wiping of Princeton recording media",
+"id": "gary-voorhis",
+"l0": false,
+"label": "Gary Voorhis",
+"note": "Voorhis, a CEC/Aegis technician, has said in public interviews since 2018 that he was directed to hand over or wipe recording media and that unrecognised personnel were aboard collecting. Reasoning: no primary record naming those personnel has been located.",
+"sources": [
+{
+"date": "2023-01-13",
+"name": "The War Zone - Tic Tac incident in newly released range fouler reports",
+"url": "https://www.twz.com/tic-tac-uap-incident-included-in-72-newly-released-range-incursion-reports"
+}
+],
+"tier": "C",
+"type": "custody"
+},
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": "2023-07-26",
+"dateStart": "2023-07-26",
+"direction": "out",
+"edgeLabel": "Fravor testified to the 2004 encounter under oath in 2023",
+"id": "hearing-2023-07-26",
+"l0": true,
+"label": "House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'",
+"note": "Fravor's written statement placed on the record that the incident was never investigated, no crew were questioned and no tapes were taken.",
+"sources": [
+{
+"date": "2023-07-26",
+"name": "David Fravor written statement (PDF)",
+"url": "https://oversight.house.gov/wp-content/uploads/2023/07/David-Fravor-Statement-for-House-Oversight-Committee.pdf"
+},
+{
+"date": "2023-07-26",
+"name": "House Oversight hearing page",
+"url": "https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/"
+}
+],
+"tier": "A",
+"type": "witness-chain"
+},
+{
+"claimTier": 3,
+"cls": "person",
+"dateEnd": "2004-11-18",
+"dateStart": "2004-11-15",
+"direction": "in",
+"edgeLabel": "Turner independently corroborates the confiscation window",
+"id": "jason-turner",
+"l0": false,
+"label": "Jason Turner",
+"note": "Turner is one of several Princeton crewmen in different divisions describing the same 48-hour window in the same terms. The convergence is evidentiary weight short of proof; no document confirms it.",
+"sources": [
+{
+"date": "2023-01-13",
+"name": "The War Zone - Tic Tac incident in newly released range fouler reports",
+"url": "https://www.twz.com/tic-tac-uap-incident-included-in-72-newly-released-range-incursion-reports"
+}
+],
+"tier": "C",
+"type": "custody"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2004",
+"dateStart": "2004",
+"direction": "in",
+"edgeLabel": "Ran the Princeton air picture and vectored the intercept",
+"id": "kevin-day",
+"l0": false,
+"label": "Kevin Day",
+"note": "As Senior Chief Operations Specialist Day was the air warfare coordinator holding the tracks. Fravor's sworn statement corroborates the substance of the radar picture Day describes.",
+"sources": [
+{
+"date": "2023-07-26",
+"name": "House Oversight - Fravor written statement (PDF)",
+"url": "https://oversight.house.gov/wp-content/uploads/2023/07/David-Fravor-Statement-for-House-Oversight-Committee.pdf"
+}
+],
+"tier": "C",
+"type": "witness-chain"
+},
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": null,
+"dateStart": "2019",
+"direction": "in",
+"edgeLabel": "Same operating areas, fifteen years apart, same failure to attribute",
+"id": "kidd-russell-2019",
+"l0": false,
+"label": "July 2019 Drone Swarms, USS Kidd / USS Russell and CSG ships off California",
+"note": "Both events occurred in the instrumented Southern California naval training space, both were documented in Navy records, and neither produced an attribution.",
+"sources": [
+{
+"date": "2021-05-23",
+"name": "The War Zone - destroyers swarmed off California",
+"url": "https://www.twz.com/39913/multiple-destroyers-were-swarmed-by-mysterious-drones-off-california-over-numerous-nights"
+},
+{
+"date": "2023-01-14",
+"name": "The War Zone - Tic Tac incident in newly released range fouler reports",
+"url": "https://www.twz.com/tic-tac-uap-incident-included-in-72-newly-released-range-incursion-reports"
+}
+],
+"tier": "C",
+"type": "temporal"
+},
+{
+"claimTier": 1,
+"cls": "location",
+"dateEnd": "2004-11-16",
+"dateStart": "2004-11-10",
+"direction": "out",
+"edgeLabel": "The encounters occurred in the Southern California operating areas",
+"id": "l-socal-oparea",
+"l0": false,
+"label": "Southern California Operating Areas (W-291 and Baja approaches)",
+"note": "The Nimitz Carrier Strike Group was working up in the W-291 warning area and Baja approaches when Princeton began holding the tracks.",
+"sources": [
+{
+"date": "2023-07-26",
+"name": "David Fravor written statement (PDF)",
+"url": "https://oversight.house.gov/wp-content/uploads/2023/07/David-Fravor-Statement-for-House-Oversight-Committee.pdf"
+},
+{
+"date": "2023-01-13",
+"name": "The War Zone - Tic Tac incident in newly released range fouler reports",
+"url": "https://www.twz.com/tic-tac-uap-incident-included-in-72-newly-released-range-incursion-reports"
+}
+],
+"tier": "C",
+"type": "geographic"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "2023",
+"dateStart": "2004",
+"direction": "out",
+"edgeLabel": "The 2004 incident is formally documented in the Navy's own range fouler reporting",
+"id": "navy-range-fouler-reports",
+"l0": false,
+"label": "Navy Range Fouler Reports (72 reports, 2004-2021)",
+"note": "The January 2023 FOIA release proves the encounter was reported inside the Navy through intelligence personnel and then died at Third Fleet with no dissemination process.",
+"sources": [
+{
+"date": "2023-01-14",
+"name": "The War Zone - Tic Tac incident in newly released range fouler reports",
+"url": "https://www.twz.com/tic-tac-uap-incident-included-in-72-newly-released-range-incursion-reports"
+}
+],
+"tier": "B",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "legislation",
+"dateEnd": null,
+"dateStart": "2025",
+"direction": "in",
+"edgeLabel": "Congress set 1 January 2004 as the retroactive intercept floor",
+"id": "ndaa-fy2026",
+"l0": true,
+"label": "FY2026 NDAA, Public Law 119-60 - secs. 1671-1673, NORAD/NORTHCOM intercept briefings and UAP classification-guide accounting",
+"note": "The first briefing under Sec. 1671 must cover intercepts 'during the period beginning on January 1, 2004' — the year of the Nimitz encounters.",
+"sources": [
+{
+"date": "2025-12-18",
+"name": "P.L. 119-60 — GPO",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-119publ60/html/PLAW-119publ60.htm"
+}
+],
+"tier": "A",
+"type": "temporal"
+},
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": "2017-12-16",
+"dateStart": "2017-12-16",
+"direction": "out",
+"edgeLabel": "The Nimitz footage was the visual centrepiece of the 2017 disclosure",
+"id": "nyt-2017-12-16",
+"l0": true,
+"label": "New York Times, 'Glowing Auras and Black Money: The Pentagon's Mysterious U.F.O. Program'",
+"note": "The New York Times published the November 2004 footage alongside the AATIP revelation, converting a shelved incident into a national accountability story.",
+"sources": [
+{
+"date": "2017-12-16",
+"name": "The New York Times - Glowing Auras and Black Money",
+"url": "https://www.nytimes.com/2017/12/16/us/politics/pentagon-program-ufo-harry-reid.html"
+}
+],
+"tier": "A",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "2021",
+"dateStart": "2021",
+"direction": "in",
+"edgeLabel": "Assessment window opens with the Nimitz encounter",
+"id": "odni-preliminary-assessment-2021",
+"l0": true,
+"label": "ODNI Preliminary Assessment: Unidentified Aerial Phenomena (25 June 2021)",
+"note": "The assessment's date range begins November 2004 - the month of the Nimitz intercept - and it resolved only one of 144 reports with high confidence.",
+"sources": [
+{
+"date": "2021-06-25",
+"name": "ODNI Preliminary Assessment: Unidentified Aerial Phenomena (PDF)",
+"url": "https://archive.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": "2019",
+"direction": "in",
+"edgeLabel": "Nimitz encounter analysed quantitatively in a peer-reviewed physics journal",
+"id": "paper-knuth-powell-reali-2019",
+"l0": false,
+"label": "Knuth, Powell & Reali (2019), Entropy 21(10):939",
+"note": "A companion paper in the MaxEnt 2019 proceedings treated the Nimitz case specifically; this is the point at which the 2004 encounter entered the physics literature rather than the news cycle.",
+"sources": [
+{
+"date": "2019-09-25",
+"name": "Knuth, Powell & Reali, 'Estimating Flight Characteristics of Anomalous Unidentified Aerial Vehicles', Entropy 21(10):939",
+"url": "https://doi.org/10.3390/e21100939"
+}
+],
+"tier": "C",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "Raytheon-built ATFLIR pod produced the FLIR1 record",
+"id": "raytheon",
+"l0": false,
+"label": "Raytheon (RTX Corporation)",
+"note": "The Advanced Targeting Forward Looking Infrared pod is built by Raytheon and is, in the Navy's own words, 'the primary weapons delivery targeting sensor for the U.S. Navy' on F/A-18 C, E and F variants. The Department released three genuine Navy videos in April 2020, one of them from November 2004. Tier 2 because neither document states which sensor produced that video: the contractor's own page on the subject returns 404 and navair.navy.mil returns 403, so the specific tie between the pod and the FLIR1 footage is inference from the aircraft type and the period, not a documented statement.",
+"sources": [
+{
+"date": "2020-05-20",
+"name": "U.S. Navy, 'NAVSUP Weapon Systems Support Awards $325 Million ATFLIR Contract to Raytheon', 20 May 2020",
+"url": "https://www.navy.mil/Press-Office/News-Stories/Article/2283958/navsup-weapon-systems-support-awards-325-million-atflir-contract-to-raytheon/"
+},
+{
+"date": "2020-04-27",
+"name": "Statement by the Department of Defense on the Release of Historical Navy Videos, 27 April 2020",
+"url": "https://www.war.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/"
+},
+{
+"date": null,
+"name": "https://en.wikipedia.org/wiki/AN/ASQ-228_ATFLIR",
+"url": "https://en.wikipedia.org/wiki/AN/ASQ-228_ATFLIR"
+},
+{
+"date": null,
+"name": "https://uapedia.ai/wiki/uss-nimitz-uap-encounters-case-file-2004/",
+"url": "https://uapedia.ai/wiki/uss-nimitz-uap-encounters-case-file-2004/"
+}
+],
+"tier": "C",
+"type": "custody"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "Nimitz encounter was a Navy carrier strike group event; Navy released the FLIR video",
+"id": "us-navy",
+"l0": true,
+"label": "United States Navy",
+"note": "The Department authorised release of three unclassified Navy videos, one from November 2004 and two from January 2015, stating that 'the U.S. Navy previously acknowledged that these videos circulating in the public domain were indeed Navy videos' and releasing them 'in order to clear up any misconceptions by the public on whether or not the footage that has been circulating was real'. The Department's own characterisation of what they show has not moved: 'The aerial phenomena observed in the videos remain characterized as unidentified.'",
+"sources": [
+{
+"date": "2020-04-27",
+"name": "Statement by the Department of Defense on the Release of Historical Navy Videos, 27 April 2020",
+"url": "https://www.war.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/"
+},
+{
+"date": null,
+"name": "Department of Defense, 'Statement by the Department of Defense on the Release of Historical Navy Videos,' April 27, 2020 -- https://www.defense.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/",
+"url": ""
+},
+{
+"date": null,
+"name": "https://www.theblackvault.com/documentarchive/navy-officially-releases-ufo-uap-videos-calls-them-historical/",
+"url": "https://www.theblackvault.com/documentarchive/navy-officially-releases-ufo-uap-videos-calls-them-historical/"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 2,
+"cls": "event",
+"dateEnd": null,
+"dateStart": "2023",
+"direction": "in",
+"edgeLabel": "Same warning-area complex, same object morphology, nineteen years later",
+"id": "uss-jackson-2023",
+"l0": false,
+"label": "USS Jackson (LCS-6) Encounter, 15 February 2023",
+"note": "A transmedium tic-tac-shaped object in W-291 in February 2023 repeats the November 2004 description in the same Southern California naval training space, with no published government assessment of either sensor record.",
+"sources": [
+{
+"date": "2025-09-09",
+"name": "House Oversight - Wiggins written statement (PDF)",
+"url": "https://oversight.house.gov/wp-content/uploads/2025/09/Wiggins-Written-Statement.pdf"
+},
+{
+"date": "2023-01-14",
+"name": "The War Zone - Tic Tac incident in newly released range fouler reports",
+"url": "https://www.twz.com/tic-tac-uap-incident-included-in-72-newly-released-range-incursion-reports"
+}
+],
+"tier": "C",
+"type": "temporal"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2004",
+"direction": "in",
+"edgeLabel": "Generated the primary sensor record of the encounter; no such data has ever been released",
+"id": "uss-princeton",
+"l0": false,
+"label": "USS Princeton (CG-59)",
+"note": "Fravor testified Princeton tracked the objects on Aegis for two weeks. No Princeton radar or CEC data for 14 Nov 2004 has appeared in any release, and the range fouler report says reporting 'terminated at 3rd Fleet.'",
+"sources": [
+{
+"date": "2023-07-26",
+"name": "House Oversight - Fravor written statement (PDF)",
+"url": "https://oversight.house.gov/wp-content/uploads/2023/07/David-Fravor-Statement-for-House-Oversight-Committee.pdf"
+},
+{
+"date": "2023-01-14",
+"name": "The War Zone - Tic Tac incident in newly released range fouler reports",
+"url": "https://www.twz.com/tic-tac-uap-incident-included-in-72-newly-released-range-incursion-reports"
+}
+],
+"tier": "B",
+"type": "custody"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "2004-11-14",
+"dateStart": "2004-11-01",
+"direction": "in",
+"edgeLabel": "Princeton's SPY-1B held the tracks and vectored the intercept",
+"id": "uss-princeton",
+"l0": false,
+"label": "USS Princeton (CG-59)",
+"note": "Princeton had been observing the objects on Aegis for approximately two weeks, descending from above 80,000 ft to 20,000 ft, before vectoring the VFA-41 section.",
+"sources": [
+{
+"date": "2023-07-26",
+"name": "David Fravor written statement (PDF)",
+"url": "https://oversight.house.gov/wp-content/uploads/2023/07/David-Fravor-Statement-for-House-Oversight-Committee.pdf"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 2,
+"cls": "event",
+"dateEnd": "2004",
+"dateStart": "2004",
+"direction": "in",
+"edgeLabel": "Same year, opposite ocean, same record-destruction behaviour",
+"id": "uss-reagan-2004",
+"l0": false,
+"label": "USS Ronald Reagan Encounter and Logbook Tampering (2003-2004)",
+"note": "Reagan watchstanders describe deck log pages being torn out on a senior officer's order; Princeton crew describe recording media removed. Deck logs are federal records.",
+"sources": [
+{
+"date": "2022-05-09",
+"name": "The Debrief - Navy witnesses describe 2004 encounter aboard USS Ronald Reagan",
+"url": "https://thedebrief.org/incident-aboard-the-uss-ronald-reagan-navy-witnesses-describe-2004-encounter-with-uap/"
+},
+{
+"date": "2023-01-14",
+"name": "The War Zone - Tic Tac incident in newly released range fouler reports",
+"url": "https://www.twz.com/tic-tac-uap-incident-included-in-72-newly-released-range-incursion-reports"
+}
+],
+"tier": "C",
+"type": "temporal"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "2004",
+"dateStart": "2004",
+"direction": "in",
+"edgeLabel": "Squadron that flew the intercept and produced the FLIR1 footage",
+"id": "vfa-41",
+"l0": false,
+"label": "Strike Fighter Squadron 41 (VFA-41 Black Aces)",
+"note": "VFA-41 put two sections into the event: the Fravor/Dietrich visual intercept and a follow-on aircraft whose ATFLIR produced FLIR1.",
+"sources": [
+{
+"date": "2023-01-14",
+"name": "The War Zone - Tic Tac incident in newly released range fouler reports",
+"url": "https://www.twz.com/tic-tac-uap-incident-included-in-72-newly-released-range-incursion-reports"
+},
+{
+"date": "2020-04-27",
+"name": "DoD statement releasing the three Navy videos",
+"url": "https://www.war.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/"
+}
+],
+"tier": "C",
+"type": "institutional"
+}
+],
+"coords": null,
+"dateEnd": "2004-11-16",
+"dateStart": "2004-11-10",
+"deg": 20,
+"denials": [],
+"desc": "Between roughly 10 and 16 November 2004 the Nimitz Carrier Strike Group, working up off southern California in the W-291 warning area and the Baja approaches, generated the most completely corroborated UAP encounter in the American record: radar, multiple aircrew eyewitnesses, and an infrared recording, on separate platforms, inside a controlled military exercise area. The guided-missile cruiser USS Princeton (CG-59), running a freshly upgraded SPY-1B, had been holding anomalous tracks on its Aegis combat system for approximately two weeks; Senior Chief Operations Specialist Kevin Day ran the air picture. Fravor's sworn statement to House Oversight describes the objects descending from above 80,000 feet 'rapidly down to 20,000ft', loitering for hours, then ascending. On 14 November 2004 Princeton vectored two VFA-41 Black Aces F/A-18Fs off a training event to a contact. Cdr. David Fravor, the squadron's commanding officer, and his weapons systems officer flew the lead; Lt. Cdr. Alex Dietrich and her WSO flew high cover from about 8,000 feet above. Fravor found a small white object, no rotors, no rotor wash, no visible control surfaces, moving erratically over an area of white water in an otherwise calm sea, its long axis initially north-south. Four aircrew watched it for roughly five minutes. As Fravor descended in a spiral to intercept, the object mirrored his turn, then accelerated out of sight; Princeton reacquired it at the CAP point roughly 60 miles away in under a minute. A follow-on sortie that day, flown with a functioning ATFLIR pod and credited to Lt. Cdr. Chad Underwood, produced the infrared footage now known as FLIR1 - the video that leaked in 2007, was published by The New York Times on 16 December 2017, and was formally released by the Department of Defense on 27 April 2020 with the statement that the phenomena 'remain characterized as unidentified.' What happened afterwards is the part that matters institutionally. The Navy's own range fouler report on the incident, released to the Navy FOIA reading room on 12 January 2023, describes the object as 'solid white, smooth, with no edges ... uniformly colored with no nacelles, pylons, or wings ... approximately 46 feet in length', names Fravor and Dietrich, and records the disposition in one sentence: 'Pilots reported the incident through Intelligence Personnel. Reporting terminated at 3rd Fleet, there was no process to share the reporting.' Fravor testified under oath on 26 July 2023 that 'the incident was never investigated, none of my crew were ever questioned, tapes were never taken.' Against that, three USS Princeton crewmen in different divisions - Kevin Day, CEC/Aegis technician Gary Voorhis and Jason Turner - have described in public interviews since 2018 that within roughly 48 hours personnel who did not identify themselves came aboard and removed or ordered wiped the recording media covering the tracks, and that crew were told to stop discussing it. No FOIA release, visit log, deck-log entry or message traffic has ever been produced identifying those personnel or the authority under which they acted, and the Navy has never produced Princeton sensor data for 14 November 2004. The two accounts are not necessarily in conflict - Fravor speaks for the aircrew and the squadron's tapes, the Princeton crew speak for the ship's recorded data - but the confiscation account remains the single most consequential unanchored claim in the modern record, and it is graded here as an inference, not a fact.",
+"domains": [
+"_rs-archive-mirror",
+"w2-places-events"
+],
+"dossier": {
+"claims": [
+{
+"source": "https://oversight.house.gov/wp-content/uploads/2023/07/David-Fravor-Statement-for-House-Oversight-Committee.pdf",
+"text": "In sworn written testimony to the House Oversight Committee for the 26 July 2023 hearing, Cdr. David Fravor (USN, ret.) states that on launch his flight was told \"that training was going to be suspended for real world tasking.\"",
+"tier": 1
+},
+{
+"source": "https://oversight.house.gov/wp-content/uploads/2023/07/David-Fravor-Statement-for-House-Oversight-Committee.pdf",
+"text": "Fravor's statement records that the USS Princeton \"had been observing these objects on their Aegis combat system for the previous 2 weeks. They had been descending from above 80,000ft and coming rapidly down to 20,000ft would stay for hours and then go straight back up.\"",
+"tier": 1
+},
+{
+"source": "https://oversight.house.gov/wp-content/uploads/2023/07/David-Fravor-Statement-for-House-Oversight-Committee.pdf",
+"text": "Fravor describes an object with \"no Rotors, No Rotor wash, or any visible flight control surfaces like wings\" that aligned its longitudinal axis with his aircraft, then \"rapidly accelerated and disappeared right in front of our aircraft\" at approximately half a mile.",
+"tier": 1
+},
+{
+"source": "https://oversight.house.gov/wp-content/uploads/2023/07/David-Fravor-Statement-for-House-Oversight-Committee.pdf",
+"text": "Fravor states the object reappeared on the Princeton's SPY-1 radar at the flight's CAP point roughly 60 miles east, having covered that distance \"in a very short period of time (less than a minute).\"",
+"tier": 1
+},
+{
+"source": "https://oversight.house.gov/wp-content/uploads/2023/07/David-Fravor-Statement-for-House-Oversight-Committee.pdf",
+"text": "Fravor states that a second recording exists and has never been shown: \"What is not seen is the Radar tape that showed the jamming of the APG-73 radar in the aircraft.\"",
+"tier": 1
+},
+{
+"source": "https://oversight.house.gov/wp-content/uploads/2023/07/David-Fravor-Statement-for-House-Oversight-Committee.pdf",
+"text": "Fravor states: \"What is shocking is that the incident was never investigated, none of my crew were ever questioned, tapes were never taken, and after a couple of days, it turned into a great story to tell friends.\"",
+"tier": 1
+},
+{
+"source": "https://oversight.house.gov/wp-content/uploads/2023/07/David-Fravor-Statement-for-House-Oversight-Committee.pdf",
+"text": "Fravor states that the first government approach came in 2009 from Jay Stratton, who \"was part of the ATIP . . . program led by Lue Elizondo out of the DOD,\" and that the resulting document circulated as what he calls \"the Unofficial Official Report.\"",
+"tier": 1
+},
+{
+"source": "https://oversight.house.gov/wp-content/uploads/2023/07/David-Fravor-Statement-for-House-Oversight-Committee.pdf",
+"text": "Fravor states that Lt. Cdr. Alex Dietrich, the other pilot in the flight, \"had been invited to the Pentagon multiple times to discuss the event and view other videos of UAPs\" while he himself had not been contacted after 2009.",
+"tier": 1
+},
+{
+"source": "https://oversight.house.gov/wp-content/uploads/2023/07/David-Fravor-Statement-for-House-Oversight-Committee.pdf",
+"text": "Fravor's closing testimony asserts an oversight gap: \"even Unacknowledged Waived programs have some level of oversight by the appropriate committee members in the House and Senate and this work that is said to be occurring from Whistleblower testimonies should not be exempt.\"",
+"tier": 1
+},
+{
+"source": "https://www.defense.gov/News/Releases/Release/article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/",
+"text": "The Department of Defense stated on 27 April 2020 that it authorised release of three unclassified Navy videos, one taken in November 2004, and that \"the aerial phenomena observed in the videos remain characterized as 'unidentified.'\"",
+"tier": 1
+},
+{
+"source": "https://www.defense.gov/News/Releases/Release/article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/",
+"text": "The same DoD statement records that \"the U.S. Navy previously acknowledged that these videos circulating in the public domain were indeed Navy videos,\" that they had circulated \"after unauthorized releases in 2007 and 2017,\" and that the released files were posted to the Naval Air Systems Command FOIA reading room.",
+"tier": 1
+},
+{
+"source": "https://www.defense.gov/News/Releases/Release/article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/",
+"text": "The same statement concedes the existence of an ongoing investigative effort, saying release \"does not impinge on any subsequent investigations of military air space incursions by unidentified aerial phenomena.\"",
+"tier": 1
+},
+{
+"source": "House Committee on Oversight and Accountability, hearing transcript HHRG-118-GO06-Transcript-20230726, 26 July 2023, https://www.congress.gov/118/meeting/house/116282/documents/HHRG-118-GO06-Transcript-20230726.pdf",
+"text": "Fravor testified under oath alongside Ryan Graves and David Grusch before the House Oversight Subcommittee on National Security, the Border, and Foreign Affairs on 26 July 2023 in the hearing \"Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency.\"",
+"tier": 1
+},
+{
+"source": "https://www.theblackvault.com/casefiles/the-vault-files-the-tic-tac-incident-november-14-2004/",
+"text": "Former crew members including Gary Voorhis, Patrick \"PJ\" Hughes and Kevin Day have stated in interviews since 2019 that unidentified individuals arrived by helicopter shortly after the encounter and collected Aegis data recordings, combat engagement centre recorders and E-2 aircraft data drives. No document supports this and no Navy statement addresses it; the compiled case file that reports these accounts states expressly that the point \"remains anecdotal and is not confirmed by documentation.\"",
+"tier": 3
+},
+{
+"source": "https://www.theblackvault.com/casefiles/the-vault-files-the-tic-tac-incident-november-14-2004/",
+"text": "The FLIR1 video was recorded on a later sortie the same day by a weapons systems officer, Lt. Cdr. Chad Underwood, using an ATFLIR pod; Underwood did not see the object visually.",
+"tier": 2
+}
+],
+"denialPosture": "There is effectively no denial to catalogue, and that is itself the finding. The Navy acknowledged the videos' authenticity in 2019 and the Department of Defense formally released them on 27 April 2020 while stating that the phenomena \"remain characterized as 'unidentified.'\" No component has denied the Princeton's Aegis tracks, denied the encounter, or produced a resolution. The only official position that has ever been asserted about Nimitz is that the imagery is real and the object is unexplained.",
+"narrative": "The Nimitz encounter is the case that made the modern era possible, and the reason it belongs on a map of the legacy programme is not the object. It is the handling.\n\nFravor's sworn statement to the House Oversight Committee, filed for the hearing of 26 July 2023, is the cleanest primary account and it is worth reading for the operational detail rather than the spectacle. He was commanding officer of Strike Fighter Squadron 41 attached to Carrier Air Wing Eleven, roughly two weeks into an at-sea period, briefed to lead a two-versus-two air combat training exercise controlled by Princeton. On launch, \"we were told that training was going to be suspended for real world tasking.\" His flight was vectored west of the combat air patrol point. Critically, he records what the controller told him about the preceding fortnight: the Princeton \"had been observing these objects on their Aegis combat system for the previous 2 weeks. They had been descending from above 80,000ft and coming rapidly down to 20,000ft would stay for hours and then go straight back up.\" This is not a single sighting. It is a two-week radar campaign by a cruiser's air defence system that generated no public record and no known written report.\n\nAt the merge the aircrew saw disturbed white water, then a small white object with its longitudinal axis pointed north-south, moving abruptly above it, with \"no Rotors, No Rotor wash, or any visible flight control surfaces like wings.\" Fravor descended in a clockwise turn; the object shifted its axis to align with his aircraft and began a climbing turn in the same direction. At roughly half a mile it \"rapidly accelerated and disappeared right in front of our aircraft,\" and the disturbed water was gone with it. The flight turned back toward the CAP point sixty miles east and the controller reported that the object had reappeared there on the Princeton's SPY-1 radar, having covered that distance in \"less than a minute.\"\n\nBack aboard Nimitz they mentioned it to the crew preparing to launch. That crew took the roughly ninety-second infrared video that would be released by the government in 2017. Fravor adds a detail about a second recording that has never surfaced: \"What is not seen is the Radar tape that showed the jamming of the APG-73 radar in the aircraft.\" An electronic attack on a fighter's fire control radar off the coast of California is, by any ordinary standard, a reportable event.\n\nAnd then, on his account, nothing. \"What is shocking is that the incident was never investigated, none of my crew were ever questioned, tapes were never taken, and after a couple of days, it turned into a great story to tell friends. Not until 2009 did Jay Stratton contact me to investigate what we observed. Unbeknownst to all of us, Jay was part of the ATIP . . . program led by Lue Elizondo out of the DOD.\" That single paragraph is the whole argument in miniature. The Navy's normal machinery - safety reporting, intelligence debrief, mishap investigation - did not engage. Five years later a compartmented Defense Department effort did, without announcing itself, and the resulting document circulated for years as what Fravor calls \"the Unofficial Official Report.\" Fravor also notes that Lt. Cdr. Alex Dietrich, the other pilot in the flight, had been invited to the Pentagon multiple times to discuss the event and view other UAP videos while he had heard from no one at all - which means the government knew where the aircrew were and chose which of them to talk to.\n\nAgainst that, there is a competing testimonial strand that must be tiered honestly. Petty Officer Gary Voorhis, aviation technician Patrick \"PJ\" Hughes and Senior Chief Kevin Day have described, in interviews and documentaries from roughly 2019 onward, unidentified individuals arriving by helicopter within about a day and taking Aegis data recordings, combat engagement centre recorders, optical drives holding radio communications and E-2 Hawkeye data bricks, with Voorhis instructed to erase even blank tapes. No document has ever been produced for this and no official Navy statement has addressed it. It is also not in tension with Fravor as often assumed: Fravor speaks for his aircrew and his squadron's tapes, the enlisted witnesses speak about the cruiser and the carrier's data systems. Both can be true. Neither is documented.\n\nWhat is documented is the government's slow, deliberate concession of the artifact. On 27 April 2020 the Department of Defense issued a formal statement authorising release of three unclassified Navy videos, \"one taken in November 2004 and the other two in January 2015, which have been circulating in the public domain after unauthorized releases in 2007 and 2017.\" It confirmed that \"the U.S. Navy previously acknowledged that these videos circulating in the public domain were indeed Navy videos,\" stated that release \"does not reveal any sensitive capabilities or systems, and does not impinge on any subsequent investigations of military air space incursions by unidentified aerial phenomena,\" and closed with the line that matters: \"The aerial phenomena observed in the videos remain characterized as 'unidentified.'\" Two things are conceded in that paragraph. The video is real, and there are subsequent investigations of airspace incursions by unidentified phenomena that a release could in principle impinge upon.\n\nFravor's closing testimony frames the oversight question the way this board frames it. He is explicit that the issue \"is not about full public disclosure that could undermine national security\" but about checks and balances, and he makes the structural point directly: \"even Unacknowledged Waived programs have some level of oversight by the appropriate committee members in the House and Senate and this work that is said to be occurring from Whistleblower testimonies should not be exempt.\" That is a retired commander with a Top Gun background telling Congress, under oath, that he believes there is an activity operating outside the waived-programme oversight floor. Nimitz is on this map because it is the point where the sensor data, the missing file and the oversight gap all converge in one afternoon off San Diego.",
+"openQuestions": [
+"Do the USS Princeton's Aegis SPY-1 recordings and combat information centre logs for 10-16 November 2004 still exist, and under what disposition authority were they retained or destroyed?",
+"Does the APG-73 radar tape Fravor describes, showing jamming of his aircraft's fire control radar, exist in any Navy holding?",
+"Was any contemporaneous 2004 report of any kind generated - safety, intelligence, mishap or operational - and if not, under what authority was reporting waived for a two-week Aegis track and a fighter radar jamming event?",
+"What is the provenance, classification history and custodian of the document Fravor calls the \"Unofficial Official Report,\" prepared following Jay Stratton's 2009 contact?",
+"Who directed the collection of data recordings from Princeton and Nimitz, if it occurred, and under what authority? No FOIA release has yet produced tasking, travel or custody documentation.",
+"Why was Lt. Cdr. Dietrich brought to the Pentagon repeatedly while the flight lead was not contacted at all, and which office issued those invitations?"
+],
+"roles": [
+"concealment",
+"disclosure",
+"oversight",
+"custody"
+],
+"whatItIs": "On 14 November 2004, during pre-deployment workups off southern California, the USS Princeton (CG-59) vectored two F/A-18F Super Hornets from VFA-41 aboard USS Nimitz (CVN-68) onto a radar contact. Four aircrew, including squadron commanding officer Cdr. David Fravor, visually observed a white, wingless, roughly forty-foot object above a patch of disturbed water. A later sortie captured the infrared video now known as FLIR1, which the Department of Defense formally released as an authentic unclassified Navy video on 27 April 2020.",
+"whyImplicated": "Nimitz is the modern case that cannot be argued away on witness quality, because the observation was multi-platform: an Aegis SPY-1 radar track held over weeks, four aircrew in two aircraft, and an ATFLIR recording. What happened to that data afterwards is the point. Fravor testified under oath in July 2023 that \"the incident was never investigated, none of my crew were ever questioned, tapes were never taken,\" and that no one from the government contacted him about it until Jay Stratton did so in 2009 on behalf of a Defense Department programme he had never heard of. Enlisted personnel from the Princeton and the Nimitz have separately said that unidentified individuals arrived by helicopter within a day and collected Aegis and aircraft data recordings; that account is testimonial and undocumented. Either way, the United States possessed the highest-quality sensor capture of an unexplained object in its history and produced no investigation, no incident report and no data package - until a compartmented programme quietly reached out five years later. That gap between the sensor and the file is the same architecture Bolender described in 1969."
+},
+"entityInfo": {
+"desc": "The 14 November 2004 encounter between Carrier Strike Group 11 and an unidentified object roughly 30 miles off Baja California is the founding event of the modern observational record, and this board treats it as the clearest available cross-section of how the concealment works in practice. Four things are documented beyond argument. First, the object existed and was described in an official Navy record: the range fouler report released via FOIA on 13 January 2023 calls it 'solid white, smooth, with no edges ... uniformly colored with no nacelles, pylons, or wings ... approximately 46 feet in length.' Second, it was tracked for two weeks by a US Navy Aegis cruiser descending from above 80,000 feet, per Fravor's sworn statement. Third, its infrared signature was captured by a US Navy targeting pod and, sixteen years later, the Department of Defense authenticated the footage while declining to explain it. Fourth, the reporting went nowhere: 'Reporting terminated at 3rd Fleet, there was no process to share the reporting.' Around that documented core sit two contested claims that pull in opposite directions. Fravor testified under his own name that 'the incident was never investigated, none of my crew were ever questioned, tapes were never taken.' Princeton crewmen Kevin Day and Gary Voorhis say recording media were removed by personnel who did not identify themselves within about 48 hours. Both can be true if collection was aimed at the ship's sensor archive rather than at the squadron - which would be the more sophisticated behaviour, not the less. What is certain is the outcome: two decades on, no Princeton radar data, no CEC recording, and no investigative file for the incident exists in any public release, while the object's own infrared portrait hangs in the Pentagon's press archive labelled 'unidentified.'",
+"sources": [
+{
+"date": "2023-01-14",
+"name": "The War Zone - Tic Tac incident in newly released range fouler reports",
+"url": "https://www.twz.com/tic-tac-uap-incident-included-in-72-newly-released-range-incursion-reports"
+},
+{
+"date": "2023-07-26",
+"name": "House Oversight - Fravor written statement (PDF)",
+"url": "https://oversight.house.gov/wp-content/uploads/2023/07/David-Fravor-Statement-for-House-Oversight-Committee.pdf"
+},
+{
+"date": "2020-04-27",
+"name": "DoD statement releasing the three Navy videos",
+"url": "https://www.war.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/"
+}
+]
+},
+"era": "2",
+"foia": {
+"questions": [
+0,
+1,
+2,
+4,
+5
+],
+"requests": [
+{
+"agency": "Navy",
+"partial": [
+1
+],
+"questions": [
+0,
+2,
+4,
+5
+],
+"request": "F16",
+"sendTo": "Department of the Navy FOIA/PA Office (DNS-36), 2000 Navy Pentagon, Washington DC 20350, with cross-files to Naval History and Heritage Command (deck logs) and Commander, Naval Surface Forces Pacific.",
+"status": "not filed",
+"title": "Navy - USS Princeton records and disposition certificates, November 2004"
+}
+]
+},
+"hl": null,
+"id": "nimitz-2004",
+"l0": true,
+"label": "USS Nimitz Carrier Strike Group Encounters, 10-16 November 2004",
+"locLabel": null,
+"members": [
+{
+"cls": "person",
+"id": "alex-dietrich",
+"label": "Alex Dietrich",
+"tier": "C"
+},
+{
+"cls": "person",
+"id": "david-fravor",
+"label": "David Fravor",
+"tier": "B"
+},
+{
+"cls": "document",
+"id": "flir1-video",
+"label": "FLIR1 (Nimitz ATFLIR video, 14 Nov 2004)",
+"tier": "B"
+},
+{
+"cls": "person",
+"id": "gary-voorhis",
+"label": "Gary Voorhis",
+"tier": "C"
+},
+{
+"cls": "person",
+"id": "jason-turner",
+"label": "Jason Turner",
+"tier": "C"
+},
+{
+"cls": "person",
+"id": "kevin-day",
+"label": "Kevin Day",
+"tier": "C"
+},
+{
+"cls": "event",
+"id": "kidd-russell-2019",
+"label": "July 2019 Drone Swarms, USS Kidd / USS Russell and CSG ships off California",
+"tier": "C"
+},
+{
+"cls": "location",
+"id": "l-socal-oparea",
+"label": "Southern California Operating Areas (W-291 and Baja approaches)",
+"tier": "C"
+},
+{
+"cls": "document",
+"id": "navy-range-fouler-reports",
+"label": "Navy Range Fouler Reports (72 reports, 2004-2021)",
+"tier": "B"
+},
+{
+"cls": "document",
+"id": "paper-knuth-powell-reali-2019",
+"label": "Knuth, Powell & Reali (2019), Entropy 21(10):939",
+"tier": "C"
+},
+{
+"cls": "institution",
+"id": "raytheon",
+"label": "Raytheon (RTX Corporation)",
+"tier": "C"
+},
+{
+"cls": "event",
+"id": "uss-jackson-2023",
+"label": "USS Jackson (LCS-6) Encounter, 15 February 2023",
+"tier": "C"
+},
+{
+"cls": "institution",
+"id": "uss-princeton",
+"label": "USS Princeton (CG-59)",
+"tier": "B"
+},
+{
+"cls": "event",
+"id": "uss-reagan-2004",
+"label": "USS Ronald Reagan Encounter and Logbook Tampering (2003-2004)",
+"tier": "C"
+},
+{
+"cls": "institution",
+"id": "vfa-41",
+"label": "Strike Fighter Squadron 41 (VFA-41 Black Aces)",
+"tier": "C"
+}
+],
+"short": "USS Nimitz encounters, Nov 2004",
+"sources": [
+{
+"date": "2026-08-02",
+"name": "Archived: DoD statement on the release of historical Navy videos (Wayback 2026-08-02)",
+"url": "https://web.archive.org/web/20260802200608/https://www.war.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/"
+},
+{
+"date": "2023-07-26",
+"name": "David Fravor written statement to House Oversight (PDF)",
+"url": "https://oversight.house.gov/wp-content/uploads/2023/07/David-Fravor-Statement-for-House-Oversight-Committee.pdf"
+},
+{
+"date": "2023-01-13",
+"name": "The War Zone - Tic Tac incident in newly released range fouler reports",
+"url": "https://www.twz.com/tic-tac-uap-incident-included-in-72-newly-released-range-incursion-reports"
+},
+{
+"date": "2020-04-27",
+"name": "DoD statement on the release of historical Navy videos",
+"url": "https://www.war.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/"
+},
+{
+"date": "2021-05-16",
+"name": "CBS 60 Minutes - Dietrich and Fravor interviews",
+"url": "https://www.cbsnews.com/news/ufo-military-intelligence-60-minutes-2021-05-16/"
+}
+],
+"sub": "Multi-platform radar/visual/infrared UAP encounters, Southern California Operating Area; the 'Tic Tac'",
+"tier": "A",
+"tierRationale": "Re-graded A on a global pass (rank 54 of 1027, score 76). 21 connections, 9 of them custody/witness/funding/programmatic. Axes C1/A1/D3.",
+"timeline": [
+{
+"date": "2004-11-14",
+"id": "av-2004-11-14",
+"label": "Nimitz Tic Tac intercept",
+"precision": "day",
+"strand": "witness",
+"text": "VFA-41 CO David Fravor and Lt. Cmdr. Alex Dietrich intercept a white 46-foot object with no control surfaces about 30 miles off Baja California; a follow-on aircraft records the ATFLIR footage later released as FLIR1.",
+"tier": "A"
+},
+{
+"date": "2004-11-14",
+"id": "tl-2004-nimitz",
+"label": "The Nimitz intercept",
+"precision": "day",
+"strand": "witness",
+"text": "Princeton vectors two VFA-41 F/A-18Fs to a contact it has held on Aegis for two weeks. Fravor, Dietrich and their WSOs watch a 46-foot white object for about five minutes; it departs and reappears at the CAP point 60 miles away in under a minute. A follow-on sortie records FLIR1.",
+"tier": "A"
+},
+{
+"date": "2004-11-16",
+"id": "tl-2004-confiscation",
+"label": "The Princeton data goes missing",
+"precision": "day",
+"strand": "coverup",
+"text": "Three Princeton crewmen in different divisions - Day, Voorhis and Turner - describe unidentified personnel coming aboard within roughly 48 hours and removing or ordering wiped the recording media. No FOIA release, visit log or message traffic has ever identified them.",
+"tier": "C"
+},
+{
+"date": "2009-01-01",
+"id": "av-2009-stratton",
+"label": "Stratton reopens the Nimitz case",
+"precision": "year",
+"strand": "program",
+"text": "Fravor testifies that Jay Stratton contacted him in 2009 to investigate the 2004 sighting as part of a DoD program - five years after the Navy declined to investigate it.",
+"tier": "A"
+},
+{
+"date": "2020-04-27",
+"id": "tl-2020-dodrelease",
+"label": "The Department releases FLIR1",
+"precision": "day",
+"strand": "oversight",
+"text": "DoD authorises release of the three Navy videos, stating the phenomena 'remain characterized as unidentified' - the government authenticating the artefact and declining to explain it.",
+"tier": "A"
+},
+{
+"date": "2023-01-12",
+"id": "tl-2023-rangefouler",
+"label": "The Navy's own report on the Tic Tac surfaces",
+"precision": "day",
+"strand": "oversight",
+"text": "72 range fouler reports posted to the Navy FOIA reading room include the 14 November 2004 incident: a 46-foot object with no nacelles, pylons or wings, and the disposition line 'Reporting terminated at 3rd Fleet, there was no process to share the reporting.'",
+"tier": "A"
+}
+]
+}

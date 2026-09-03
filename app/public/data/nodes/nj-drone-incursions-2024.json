@@ -1,0 +1,220 @@
+{
+"A": 2,
+"C": 0,
+"D": 2,
+"band": null,
+"claims": [
+{
+"source": "Joint federal statement, 17 December 2024, reported by The Debrief",
+"text": "Joint statement of 17 December 2024 by DoD, DHS, FBI and FAA: 'We have not identified anything anomalous, and do not assess the activity to date to present a national security or public safety risk over the civilian airspace in New Jersey or other states.'",
+"tier": 1
+},
+{
+"source": "Joint federal statement, 17 December 2024",
+"text": "The FBI received over 5,000 drone reports; officials analysed roughly 100 specific leads and attributed them to commercial, hobbyist and law enforcement drones, manned aircraft, helicopters and stars.",
+"tier": 1
+},
+{
+"source": "The Debrief, 17 December 2024",
+"text": "The assessment acknowledged limited recent sightings over military facilities in restricted airspace, contradicting earlier White House statements denying such incidents.",
+"tier": 1
+},
+{
+"source": "The Debrief, 17 December 2024",
+"text": "Wright-Patterson Air Force Base closed its airspace for nearly four hours on 14-15 December 2024 due to unauthorized drone activity.",
+"tier": 1
+}
+],
+"cls": "event",
+"cluster": "other",
+"connections": [
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "2024",
+"dateStart": "2024",
+"direction": "out",
+"edgeLabel": "Four-agency joint statement of 17 December 2024",
+"id": "dod",
+"l0": true,
+"label": "United States Department of Defense (secondary designation: Department of War)",
+"note": "DoD, DHS, FBI and FAA: 'We have not identified anything anomalous, and do not assess the activity to date to present a national security or public safety risk.' The same statement conceded limited sightings over restricted military airspace, contradicting earlier White House denials.",
+"sources": [
+{
+"date": "2024-12-17",
+"name": "The Debrief - Pentagon says mystery drones are common UAS and misidentifications",
+"url": "https://thedebrief.org/pentagon-says-mystery-drones-are-common-unmanned-aerial-systems-and-misidentifications-pose-no-security-threat/"
+}
+],
+"tier": "A",
+"type": "denial"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2025",
+"direction": "in",
+"edgeLabel": "Task force stood up in August 2025 after two years of unattributed incursions",
+"id": "jiatf-401",
+"l0": false,
+"label": "Joint Interagency Task Force 401 (JIATF-401)",
+"note": "A standing joint interagency task force under a general officer is the institutional refutation of the hobbyist explanation issued eight months earlier.",
+"sources": [
+{
+"date": "2026-01-30",
+"name": "The Debrief - Pentagon expands base commanders' counter-drone authority",
+"url": "https://thedebrief.org/pentagon-expands-base-commanders-authority-to-counter-rising-drone-threats-following-inspector-general-warning/"
+},
+{
+"date": "2024-12-17",
+"name": "The Debrief - Pentagon says mystery drones are common UAS and misidentifications",
+"url": "https://thedebrief.org/pentagon-says-mystery-drones-are-common-unmanned-aerial-systems-and-misidentifications-pose-no-security-threat/"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "location",
+"dateEnd": "2024",
+"dateStart": "2024",
+"direction": "out",
+"edgeLabel": "Wright-Patterson closed its airspace for nearly four hours during the wave",
+"id": "l-wright-patterson",
+"l0": false,
+"label": "Wright-Patterson Air Force Base, Ohio",
+"note": "The 14-15 December 2024 airspace closure over unauthorized drone activity occurred days before the federal statement that nothing anomalous had been identified.",
+"sources": [
+{
+"date": "2024-12-17",
+"name": "The Debrief - Pentagon says mystery drones are common UAS and misidentifications",
+"url": "https://thedebrief.org/pentagon-says-mystery-drones-are-common-unmanned-aerial-systems-and-misidentifications-pose-no-security-threat/"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": "2024",
+"dateStart": "2023",
+"direction": "in",
+"edgeLabel": "Twelve months apart; the second wave was publicly resolved, the first never was",
+"id": "langley-2023-incursions",
+"l0": true,
+"label": "Langley AFB Drone Incursions (December 2023)",
+"note": "Langley produced no attribution and no public explanation; New Jersey produced a four-agency statement attributing 5,000 reports to hobbyists and misidentifications on the basis of about 100 leads.",
+"sources": [
+{
+"date": "2024-03-15",
+"name": "The War Zone - mysterious drones swarmed Langley AFB for weeks",
+"url": "https://www.twz.com/air/mysterious-drones-swarmed-langley-afb-for-weeks"
+},
+{
+"date": "2024-12-17",
+"name": "The Debrief - Pentagon says mystery drones are common UAS and misidentifications",
+"url": "https://thedebrief.org/pentagon-says-mystery-drones-are-common-unmanned-aerial-systems-and-misidentifications-pose-no-security-threat/"
+}
+],
+"tier": "B",
+"type": "temporal"
+}
+],
+"coords": null,
+"dateEnd": "2024",
+"dateStart": "2024",
+"deg": 4,
+"denials": [
+{
+"by": {
+"id": "dod",
+"label": "United States Department of Defense (secondary designation: Department of War)"
+},
+"claimTier": 1,
+"denialKind": "directed",
+"label": "Four-agency joint statement of 17 December 2024",
+"note": "DoD, DHS, FBI and FAA: 'We have not identified anything anomalous, and do not assess the activity to date to present a national security or public safety risk.' The same statement conceded limited sightings over restricted military airspace, contradicting earlier White House denials.",
+"of": {
+"id": "nj-drone-incursions-2024",
+"label": "New Jersey and East Coast Drone Wave (Nov-Dec 2024)"
+},
+"sources": [
+{
+"date": "2024-12-17",
+"name": "The Debrief - Pentagon says mystery drones are common UAS and misidentifications",
+"url": "https://thedebrief.org/pentagon-says-mystery-drones-are-common-unmanned-aerial-systems-and-misidentifications-pose-no-security-threat/"
+}
+]
+}
+],
+"desc": "From mid-November into December 2024 a wave of nocturnal drone sightings over New Jersey and neighbouring states produced more than 5,000 reports to the FBI and a political crisis. On 17 December 2024 the Department of Defense, Department of Homeland Security, FBI and FAA issued a joint statement: 'We have not identified anything anomalous, and do not assess the activity to date to present a national security or public safety risk over the civilian airspace in New Jersey or other states.' Officials said they had run down about 100 specific leads and found 'commercial drones, hobbyist drones, and law enforcement drones, as well as manned fixed-wing aircraft, helicopters, and stars mistakenly reported as drones.' Two features make this a coverup-strand item rather than a debunking. First, the same assessment conceded 'limited' sightings over military facilities in restricted airspace, contradicting earlier White House statements that there had been none. Second, it landed while Wright-Patterson Air Force Base had closed its airspace for nearly four hours on 14-15 December over unauthorized drone activity. A four-agency statement that resolves 100 of 5,000 reports and generalises the result to all of them is not an investigation finding; it is a communications posture, and it is recorded here as one.",
+"domains": [
+"aviators-incidents"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "nj-drone-incursions-2024",
+"l0": false,
+"label": "New Jersey and East Coast Drone Wave (Nov-Dec 2024)",
+"locLabel": null,
+"members": null,
+"short": "New Jersey and East Coast Drone Wave (Nov-Dec 2024)",
+"sources": [
+{
+"date": "2024-12-17",
+"name": "The Debrief - Pentagon says mystery drones are common UAS and misidentifications",
+"url": "https://thedebrief.org/pentagon-says-mystery-drones-are-common-unmanned-aerial-systems-and-misidentifications-pose-no-security-threat/"
+},
+{
+"date": "2024-12-19",
+"name": "The Debrief - Pentagon's assessment leaves more questions than answers",
+"url": "https://thedebrief.org/pentagons-assessment-of-recent-drone-sightings-leaves-more-questions-than-answers/"
+},
+{
+"date": "2024-12-10",
+"name": "The Debrief - mystery drones invading New Jersey airspace",
+"url": "https://thedebrief.org/mystery-drones-invading-new-jersey-airspace-are-keeping-officials-on-edge-as-feds-probe-for-answers/"
+}
+],
+"sub": "Mass sighting wave; four-agency joint denial",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 476 of 1027, score 30). 4 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D2.",
+"timeline": [
+{
+"date": "2024-12-10",
+"id": "av-2024-12-10",
+"label": "New Jersey drone wave peaks",
+"precision": "day",
+"strand": "witness",
+"text": "Nocturnal drone sightings across New Jersey and neighbouring states generate more than 5,000 reports to the FBI.",
+"tier": "A"
+},
+{
+"date": "2024-12-14",
+"id": "av-2024-12-14",
+"label": "Wright-Patterson closes its airspace",
+"precision": "day",
+"strand": "witness",
+"text": "The base closes airspace for nearly four hours over unauthorized drone activity, days before the federal statement that nothing anomalous had been identified.",
+"tier": "A"
+},
+{
+"date": "2024-12-17",
+"id": "av-2024-12-17",
+"label": "Four-agency joint denial",
+"precision": "day",
+"strand": "coverup",
+"text": "DoD, DHS, FBI and FAA: 'We have not identified anything anomalous.' About 100 of more than 5,000 reports were run down and attributed to commercial, hobbyist and law enforcement drones, manned aircraft, helicopters and stars.",
+"tier": "A"
+}
+]
+}

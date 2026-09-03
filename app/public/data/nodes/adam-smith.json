@@ -1,0 +1,118 @@
+{
+"A": 1,
+"C": 3,
+"D": 3,
+"affiliations": [],
+"age": null,
+"band": null,
+"chronology": [],
+"claims": [
+{
+"source": "https://armedservices.house.gov/about/members.htm",
+"text": "Adam Smith (D-WA 09) is listed as Ranking Member of the House Armed Services Committee on the committee's official members page.",
+"tier": 1
+},
+{
+"source": "https://www.govinfo.gov/content/pkg/CDIR-2020-07-22/html/CDIR-2020-07-22-HOUSECOMMITTEES.htm",
+"text": "Smith was Chairman of the House Armed Services Committee in the 116th Congress, with Mac Thornberry as the senior Republican.",
+"tier": 1
+}
+],
+"cls": "person",
+"cluster": "oversight",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "seat 8 of 12 - Ranking Member, House Armed Services",
+"id": "waived-sap-notification-group",
+"l0": true,
+"label": "Waived SAP Notification Group",
+"note": "Continuously in the group across 2020 (chairman) and 2023 through 2026 (ranking).",
+"sources": [
+{
+"date": "2026-08-22",
+"name": "10 U.S.C. 119, Special Access Programs: congressional oversight — subsections (e)(2) and (g) (OLRC prelim text, read 22 August 2026)",
+"url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim"
+},
+{
+"date": "2026-08-22",
+"name": "U.S. Senate, Dates of Sessions of the Congress (convening dates used to date each seat)",
+"url": "https://www.senate.gov/legislative/DatesofSessionsofCongress.htm"
+},
+{
+"date": null,
+"name": "https://armedservices.house.gov/about/members.htm",
+"url": "https://armedservices.house.gov/about/members.htm"
+},
+{
+"date": null,
+"name": "https://www.govinfo.gov/content/pkg/CDIR-2020-07-22/html/CDIR-2020-07-22-HOUSECOMMITTEES.htm",
+"url": "https://www.govinfo.gov/content/pkg/CDIR-2020-07-22/html/CDIR-2020-07-22-HOUSECOMMITTEES.htm"
+}
+],
+"tier": "A",
+"type": "institutional"
+}
+],
+"date": "2023-01-03",
+"dateEnd": null,
+"dateStart": "2023-01-03",
+"deg": 1,
+"denials": [],
+"domains": [
+"w9-waived-sap-group"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "adam-smith",
+"instId": null,
+"l0": false,
+"label": "Adam Smith",
+"loc": null,
+"locId": null,
+"members": null,
+"narrative": "Smith is the House-side equivalent of Jack Reed: the member whose occupancy of a 10 U.S.C. 119(e)(2) seat spans the board's load-bearing moments regardless of which party held the House. He chaired the House Armed Services Committee in 2020, when the Unidentified Aerial Phenomena Task Force was established, and has been its ranking member throughout the 118th and 119th Congresses, covering the 2023 Grusch testimony and the period since. In every one of those configurations he was one of the twelve members entitled to receive waived special access program information and the Secretary of Defense's justification for withholding it from a section 119 report. Smith's continuity matters for the board's central argument. The claim that a waived unacknowledged programme can be concealed from Congress because notification runs to only a handful of members is testable in part against whether those handful of members have been stable over time. On the armed services side they have been remarkably stable: Reed and Smith between them have held a 119(e)(2) seat without interruption across three Congresses in which control of both chambers changed. There is no public record of Smith stating what he has or has not been notified of under section 119. The statute gives him no route to make such a statement.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Adam Smith",
+"sources": [
+{
+"date": "2026-08-22",
+"name": "U.S. Senate, Dates of Sessions of the Congress (convening dates: 111th 6 Jan 2009, 118th 3 Jan 2023, 119th 3 Jan 2025)",
+"url": "https://www.senate.gov/legislative/DatesofSessionsofCongress.htm"
+},
+{
+"date": null,
+"name": "https://armedservices.house.gov/about/members.htm",
+"url": "https://armedservices.house.gov/about/members.htm"
+},
+{
+"date": null,
+"name": "https://www.govinfo.gov/content/pkg/CDIR-2020-07-22/html/CDIR-2020-07-22-HOUSECOMMITTEES.htm",
+"url": "https://www.govinfo.gov/content/pkg/CDIR-2020-07-22/html/CDIR-2020-07-22-HOUSECOMMITTEES.htm"
+},
+{
+"date": null,
+"name": "https://armedservices.house.gov/news/press-releases/rogers-smith-announce-subcommittee-rosters-118th-congress",
+"url": "https://armedservices.house.gov/news/press-releases/rogers-smith-announce-subcommittee-rosters-118th-congress"
+}
+],
+"status": "active",
+"sub": "Ranking Member, House Armed Services Committee (118th and 119th Congresses, serving August 2026); Chairman of the same committee in the 116th Congress including 2020",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 521 of 1027, score 28). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C3/A1/D3.",
+"timeline": [],
+"unexplainedResidual": null,
+"unverified": []
+}

@@ -1,0 +1,139 @@
+{
+"A": 1,
+"C": 1,
+"D": 2,
+"band": null,
+"claims": [
+{
+"source": "Navy range fouler report released 13 January 2023",
+"text": "The 14 November 2004 intercept occurred approximately 30 miles off Baja California's coast in the Pacific.",
+"tier": 1
+},
+{
+"source": "Alexandro Wiggins written statement, 9 September 2025",
+"text": "The USS Jackson encounter of 15 February 2023 occurred in Warning Area W-291 off the Southern California coast.",
+"tier": 2
+},
+{
+"source": "The War Zone reporting on FOIA-released deck logs",
+"text": "The July 2019 multi-ship drone swarm events occurred off the Southern California coast, documented in ships' deck logs obtained under FOIA.",
+"tier": 1
+}
+],
+"cls": "location",
+"cluster": "witness",
+"connections": [
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": "2019",
+"dateStart": "2019",
+"direction": "in",
+"edgeLabel": "Multi-night unattributed swarms against destroyers in the SoCal operating areas",
+"id": "kidd-russell-2019",
+"l0": false,
+"label": "July 2019 Drone Swarms, USS Kidd / USS Russell and CSG ships off California",
+"note": "Deck logs from USS Kidd, Rafael Peralta, Russell and John Finn, obtained under FOIA and cross-checked against AIS tracking, document the July 2019 events.",
+"sources": [
+{
+"date": "2021-05-23",
+"name": "The War Zone - destroyers swarmed off California",
+"url": "https://www.twz.com/39913/multiple-destroyers-were-swarmed-by-mysterious-drones-off-california-over-numerous-nights"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": "2004-11-16",
+"dateStart": "2004-11-10",
+"direction": "in",
+"edgeLabel": "The encounters occurred in the Southern California operating areas",
+"id": "nimitz-2004",
+"l0": true,
+"label": "USS Nimitz Carrier Strike Group Encounters, 10-16 November 2004",
+"note": "The Nimitz Carrier Strike Group was working up in the W-291 warning area and Baja approaches when Princeton began holding the tracks.",
+"sources": [
+{
+"date": "2023-07-26",
+"name": "David Fravor written statement (PDF)",
+"url": "https://oversight.house.gov/wp-content/uploads/2023/07/David-Fravor-Statement-for-House-Oversight-Committee.pdf"
+},
+{
+"date": "2023-01-13",
+"name": "The War Zone - Tic Tac incident in newly released range fouler reports",
+"url": "https://www.twz.com/tic-tac-uap-incident-included-in-72-newly-released-range-incursion-reports"
+}
+],
+"tier": "A",
+"type": "geographic"
+},
+{
+"claimTier": 2,
+"cls": "event",
+"dateEnd": "2023",
+"dateStart": "2023",
+"direction": "out",
+"edgeLabel": "W-291 encounter occurred in the same operating-area complex",
+"id": "uss-jackson-2023",
+"l0": false,
+"label": "USS Jackson (LCS-6) Encounter, 15 February 2023",
+"note": "Wiggins's statement places the event in Warning Area W-291 off Southern California.",
+"sources": [
+{
+"date": "2025-09-09",
+"name": "House Oversight - Wiggins written statement (PDF)",
+"url": "https://oversight.house.gov/wp-content/uploads/2025/09/Wiggins-Written-Statement.pdf"
+}
+],
+"tier": "C",
+"type": "institutional"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "2004",
+"deg": 3,
+"denials": [],
+"desc": "The block of Pacific warning areas and range complexes off Southern California and the Baja approaches in which the two most significant American maritime UAP encounters occurred nineteen years apart. Carrier Strike Group 11 was working up here in November 2004 when USS Princeton tracked objects descending from above 80,000 feet and VFA-41 intercepted the Tic Tac roughly 30 miles off Baja California. The July 2019 drone swarms against USS Kidd, USS Rafael Peralta, USS Russell and USS John Finn occurred in the same operating environment. On 15 February 2023, USS Jackson recorded four transmedium tic-tac objects in Warning Area W-291. The geographic persistence is a datum in itself: three distinct classes of event - a single high-performance object, a coordinated multi-platform swarm, and a transmedium group - concentrated in the same instrumented, heavily surveilled naval training space over two decades, with the Navy's own range fouler reporting confirming the first and its own deck logs the second.",
+"domains": [
+"aviators-incidents"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "2",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "l-socal-oparea",
+"l0": false,
+"label": "Southern California Operating Areas (W-291 and Baja approaches)",
+"locLabel": null,
+"members": null,
+"short": "Southern California Operating Areas (W-291 and Baja approaches)",
+"sources": [
+{
+"date": "2023-01-14",
+"name": "The War Zone - range fouler reports release",
+"url": "https://www.twz.com/tic-tac-uap-incident-included-in-72-newly-released-range-incursion-reports"
+},
+{
+"date": "2025-09-09",
+"name": "House Oversight - Wiggins written statement (PDF)",
+"url": "https://oversight.house.gov/wp-content/uploads/2025/09/Wiggins-Written-Statement.pdf"
+},
+{
+"date": "2021-05-23",
+"name": "The War Zone - destroyers swarmed off California",
+"url": "https://www.twz.com/39913/multiple-destroyers-were-swarmed-by-mysterious-drones-off-california-over-numerous-nights"
+}
+],
+"sub": "US Navy warning areas, Pacific",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 709 of 1027, score 22). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D2.",
+"timeline": []
+}

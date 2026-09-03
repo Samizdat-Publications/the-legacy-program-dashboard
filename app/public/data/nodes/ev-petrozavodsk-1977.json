@@ -1,0 +1,97 @@
+{
+"A": 1,
+"C": 0,
+"D": 2,
+"band": null,
+"claims": [
+{
+"source": "Wikipedia, 'Petrozavodsk phenomenon', citing the 1977 Academy of Sciences preliminary report",
+"text": "'In the same year, a preliminary report for the Academy of Sciences of the USSR was made ... It concluded that based on the available data, it is unfeasible to satisfactorily understand the observed phenomenon.'",
+"tier": 2
+},
+{
+"source": "Wikipedia, 'Petrozavodsk phenomenon'",
+"text": "'Government officials from northern European countries sent letters to Anatoly Aleksandrov, president of the Academy of Sciences of the USSR, expressing concern about whether the observed phenomenon was caused by Soviet weapons testing.'",
+"tier": 2
+},
+{
+"source": "Wikipedia, 'Petrozavodsk phenomenon'",
+"text": "'The phrase unidentified flying object in the Soviet Union was substituted by the term anomalous phenomenon for research purposes.'",
+"tier": 2
+}
+],
+"cls": "event",
+"cluster": "legacy",
+"connections": [
+{
+"claimTier": 2,
+"cls": "program",
+"dateEnd": "1978-10-18",
+"dateStart": "1977-09-20",
+"direction": "out",
+"edgeLabel": "the 1977 event triggered the Soviet programmes",
+"id": "setka-program",
+"l0": true,
+"label": "SETKA-AN / SETKA-MO (later Galaktika, then Gorizont) - Soviet state anomalous phenomena programme",
+"note": "Stonehill and Mantle: the sharp increase in activity in 1977-78, 'especially, the Petrozavodsk Case', forced the Academy of Sciences to agree to the research programme.",
+"sources": [
+{
+"date": "2010-11-19",
+"name": "Stonehill & Mantle - Setka",
+"url": "https://web.archive.org/web/20101119234133/http://aforteanosla.com.ar/Colaboraciones/internacional/Mantle,%20Philip/Stonehill,%20Paul%20and%20Mantle,%20Philip.%20Setka%20an%20article.pdf"
+}
+],
+"tier": "B",
+"type": "programmatic"
+}
+],
+"coords": null,
+"dateEnd": "1978-12-30",
+"dateStart": "1977-09-20",
+"deg": 1,
+"denials": [],
+"desc": "On 20 September 1977 a luminous object was reported over an area running from Copenhagen and Helsinki to Vladivostok, and most spectacularly over the Karelian capital of Petrozavodsk, where the TASS correspondent Nikolai Milov described in the mainstream Soviet press - Pravda, Izvestiya, Selskaya Zhizn and Sotsialisticheskaya Industriya - a 'huge star' that flared in the dark sky and spread out 'in the form of a jellyfish, showering the city with a multitude of very fine rays'. Government officials from northern European countries wrote to Anatoly Aleksandrov, president of the USSR Academy of Sciences, asking whether the phenomenon was caused by Soviet weapons testing and whether it threatened the region's environment - which made the event a diplomatic problem as well as a scientific one. A preliminary report to the Academy of Sciences in 1977, assembling visual observations, radiolocation reports, physical measurements and meteorological data, concluded that 'based on the available data, it is unfeasible to satisfactorily understand the observed phenomenon'. By 30 December 1978 Soviet researchers had collected eighty-five reports. The event is the direct trigger for the creation of SETKA-AN and SETKA-MO. It is often attributed to the launch of the satellite Kosmos-955.",
+"domains": [
+"w2-international"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "1",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "ev-petrozavodsk-1977",
+"l0": false,
+"label": "Petrozavodsk phenomenon, 20 September 1977",
+"locLabel": null,
+"members": null,
+"short": "Petrozavodsk phenomenon, 20 September 1977",
+"sources": [
+{
+"date": "2026-01-01",
+"name": "Petrozavodsk phenomenon - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/Petrozavodsk_phenomenon"
+},
+{
+"date": "2010-11-19",
+"name": "Stonehill & Mantle - Setka",
+"url": "https://web.archive.org/web/20101119234133/http://aforteanosla.com.ar/Colaboraciones/internacional/Mantle,%20Philip/Stonehill,%20Paul%20and%20Mantle,%20Philip.%20Setka%20an%20article.pdf"
+}
+],
+"sub": "Mass sighting from Copenhagen to Vladivostok; trigger for the Soviet SETKA programmes",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 839 of 1027, score 17). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A1/D2.",
+"timeline": [
+{
+"date": "1977-09-20",
+"id": "tl-intl-1977-petro",
+"label": "The Petrozavodsk phenomenon",
+"precision": "day",
+"strand": "witness",
+"text": "A luminous object is reported from Copenhagen and Helsinki to Vladivostok. Northern European governments write to the president of the USSR Academy of Sciences asking whether it was Soviet weapons testing. The Academy's own preliminary report concludes that 'based on the available data, it is unfeasible to satisfactorily understand the observed phenomenon'.",
+"tier": 2
+}
+]
+}

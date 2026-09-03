@@ -1,0 +1,126 @@
+{
+"A": 2,
+"C": 0,
+"D": 1,
+"affiliations": [
+"US Air Force, Brigadier General",
+"Joint Interagency Task Force 401, Director (Aug 2025- )"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "2025-08-01",
+"event": "Joint Interagency Task Force 401 established; Ross named director",
+"precision": "month"
+},
+{
+"date": "2026-01-21",
+"event": "DoD Inspector General publishes DODIG-2026-045 on counter-drone readiness at ten installations",
+"precision": "day"
+},
+{
+"date": "2026-01-30",
+"event": "Department announces expanded base commander counter-drone authorities",
+"precision": "day"
+}
+],
+"claims": [
+{
+"source": "The Debrief reporting on the January 2026 counter-drone policy change, 30 January 2026",
+"text": "Joint Interagency Task Force 401 (JIATF-401) was established in August 2025 and is directed by Brigadier General Matt Ross.",
+"tier": 1
+},
+{
+"source": "DoD Office of Inspector General report DODIG-2026-045, reported 30 January 2026",
+"text": "DODIG-2026-045, dated 21 January 2026, evaluated ten installations with drone incursions and interviewed officials from 31 DoD components and 4 federal agencies, finding inconsistent policies and approval processes that delayed counter-drone deployment.",
+"tier": 1
+},
+{
+"source": "The Debrief, 30 January 2026",
+"text": "Updated guidance announced 30 January 2026 removed the 'fence-line' limitation, defined 'unauthorized surveillance' as an explicit threat, and gave commanders 'totality of circumstances' discretion.",
+"tier": 1
+},
+{
+"source": "Reported figure cited in The Debrief, 30 January 2026",
+"text": "Restricted-airspace drone sightings rose 26 percent in 2025.",
+"tier": 2
+}
+],
+"cls": "person",
+"cluster": "oversight",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2025",
+"direction": "out",
+"edgeLabel": "Director of JIATF-401 from its establishment",
+"id": "jiatf-401",
+"l0": false,
+"label": "Joint Interagency Task Force 401 (JIATF-401)",
+"note": "Brig. Gen. Matt Ross directs the counter-drone joint interagency task force established in August 2025.",
+"sources": [
+{
+"date": "2026-01-30",
+"name": "The Debrief - Pentagon expands base commanders' counter-drone authority",
+"url": "https://thedebrief.org/pentagon-expands-base-commanders-authority-to-counter-rising-drone-threats-following-inspector-general-warning/"
+}
+],
+"tier": "C",
+"type": "institutional"
+}
+],
+"date": "2025-08-01",
+"dateEnd": null,
+"dateStart": "2025-08-01",
+"deg": 1,
+"denials": [],
+"domains": [
+"aviators-incidents"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "matt-ross",
+"instId": "jiatf-401",
+"l0": false,
+"label": "Matt Ross",
+"loc": "United States",
+"locId": "l-dc",
+"members": null,
+"narrative": "Ross directs Joint Interagency Task Force 401, the counter-drone organisation the Department stood up in August 2025 after two years of unattributed incursions over US military installations that no existing command structure could stop. JIATF-401's creation is the institutional admission that the December 2023 Langley swarms and the December 2024 New Jersey wave were not a public-misperception problem: a standing joint interagency task force with a general officer at its head is not what a government builds to handle hobbyist quadcopters. The task force's first year coincided with the Department of Defense Inspector General's evaluation of counter-drone readiness at ten installations, published as DODIG-2026-045 on 21 January 2026, which found inconsistent policies, unclear designation of 'covered' facilities under federal law, and approval processes that delayed deployment of systems bases already had. Nine days later, on 30 January 2026, the Department issued updated guidance removing the 'fence-line' limitation on base commanders' response authority, defining 'unauthorized surveillance' as an explicit threat, and letting commanders judge threat by 'totality of circumstances.' Ross's task force is the node where the observational record stops being a disclosure argument and becomes a force-protection line item.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Matt Ross",
+"sources": [
+{
+"date": "2026-01-30",
+"name": "The Debrief - Pentagon expands base commanders' counter-drone authority after IG warning",
+"url": "https://thedebrief.org/pentagon-expands-base-commanders-authority-to-counter-rising-drone-threats-following-inspector-general-warning/"
+},
+{
+"date": "2026-03-25",
+"name": "The War Zone - drone incursions over key bases after Epic Fury",
+"url": "https://www.twz.com/news-features/u-s-battled-drone-incursions-over-key-bases-at-home-after-launch-of-epic-fury"
+}
+],
+"status": "active",
+"sub": "Brigadier General, USAF; Director, Joint Interagency Task Force 401 (Aug 2025- )",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 746 of 1027, score 20). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A2/D1.",
+"timeline": [],
+"unexplainedResidual": null,
+"unverified": [
+"The full unredacted DODIG-2026-045 report (the released version is redacted).",
+"JIATF-401's establishing directive, funding line, and reporting chain.",
+"Which ten installations the IG evaluated."
+]
+}

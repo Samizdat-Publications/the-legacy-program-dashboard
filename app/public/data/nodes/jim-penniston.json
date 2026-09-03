@@ -1,0 +1,125 @@
+{
+"A": 1,
+"C": 2,
+"D": 2,
+"affiliations": [
+"United States Air Force, 81st Security Police Squadron (1980-1981)"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "1980-12-26",
+"event": "Responds to reported lights outside RAF Woodbridge east gate; records notebook entries describing a 'craft of unknown origin.'",
+"precision": "day"
+},
+{
+"date": "1981-01-01",
+"event": "Signs USAF witness statement in support of the Halt inquiry.",
+"precision": "month"
+},
+{
+"date": "1994-01-01",
+"event": "Begins speaking publicly about the encounter after retirement.",
+"precision": "year"
+}
+],
+"claims": [
+{
+"source": "James Penniston, repeated public statements and interviews from the 1990s onward",
+"text": "Penniston states he physically touched the object and that it was warm, smooth and bore raised symbols on its surface.",
+"tier": 2
+},
+{
+"source": "Penniston notebook, reproduced by researchers; discussed in BBC 40th-anniversary coverage, 26 Dec 2020",
+"text": "Penniston's contemporaneous notebook records the phrase 'craft of unknown origin.'",
+"tier": 2
+}
+],
+"cls": "person",
+"cluster": "witness",
+"conflicts": [
+"Other witnesses present on 26 December did not corroborate a landed craft; John Burroughs described following a light toward what proved to be a lighthouse beam."
+],
+"connections": [
+{
+"claimTier": 2,
+"cls": "event",
+"dateEnd": "1980",
+"dateStart": "1980",
+"direction": "out",
+"edgeLabel": "First responder, 26 December 1980",
+"id": "rendlesham-1980",
+"l0": true,
+"label": "Rendlesham Forest Incident, RAF Woodbridge/Bentwaters",
+"note": "Penniston was the senior security police NCO who entered the forest; his notebook records 'craft of unknown origin' and he signed a USAF witness statement.",
+"sources": [
+{
+"date": "2020-12-26",
+"name": "BBC News, 'Rendlesham Forest UFO: Are we any closer to the truth 40 years on?'",
+"url": "https://www.bbc.co.uk/news/uk-england-suffolk-54649675"
+},
+{
+"date": "2020-12-26",
+"name": "David Clarke, 'Rendlesham UFOs 40th anniversary: the man from the ministry speaks for the first time'",
+"url": "https://drdavidclarke.co.uk/2020/12/26/rendlesham-ufos-40th-anniversary-the-man-from-the-ministry-speaks-for-the-first-time/"
+}
+],
+"tier": "A",
+"type": "witness-chain"
+}
+],
+"date": "1980-12-26",
+"dateEnd": null,
+"dateStart": "1980-12-26",
+"deg": 1,
+"denials": [],
+"domains": [
+"history-1970s-2000s"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "1",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "jim-penniston",
+"instId": "dod",
+"l0": false,
+"label": "James W. Penniston",
+"loc": "Woodbridge, Suffolk, UK",
+"locId": "l-raf-woodbridge",
+"members": null,
+"narrative": "Penniston was the senior security police NCO who went outside the RAF Woodbridge east gate in the early hours of 26 December 1980. His contemporaneous notebook - later released by him and reproduced by researchers - contains sketches and the phrase 'craft of unknown origin.' He has stated on the record that he approached the object, walked around it, and physically touched a warm, glass-smooth surface bearing raised symbols, and that he and John Burroughs were subsequently subjected to lengthy debriefings by personnel he could not identify. He signed an official USAF witness statement in January 1981 which, in its released form, is markedly less detailed than his notebook. The gap between the notebook and the official statement is the evidentiary point: it is a documented instance of a first-hand military account being compressed as it moved up the chain, in exactly the manner the concealment thesis predicts. Penniston's later claims - including a binary-code download experienced during the encounter - have made him easier to dismiss, which is itself a familiar pattern in this record: the most exposed witnesses accumulate the most discrediting material.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "James W. Penniston",
+"sources": [
+{
+"date": "2020-12-26",
+"name": "BBC News, 'Rendlesham Forest UFO: Are we any closer to the truth 40 years on?'",
+"url": "https://www.bbc.co.uk/news/uk-england-suffolk-54649675"
+},
+{
+"date": "2021-11-11",
+"name": "The Halt Memo - Rendlesham Forest Incident (DoD FOIA case 97-F-1677, released Sept 1997)",
+"url": "https://www.theblackvault.com/documentarchive/the-halt-memo-the-rendlesham-forest-incident/"
+},
+{
+"date": "2020-12-26",
+"name": "David Clarke, 'Rendlesham UFOs 40th anniversary: the man from the ministry speaks for the first time'",
+"url": "https://drdavidclarke.co.uk/2020/12/26/rendlesham-ufos-40th-anniversary-the-man-from-the-ministry-speaks-for-the-first-time/"
+}
+],
+"status": "active",
+"sub": "USAF SSgt, 81st Security Police Squadron; first responder, Rendlesham 26 Dec 1980",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 658 of 1027, score 23). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A1/D2.",
+"timeline": [],
+"unexplainedResidual": null,
+"unverified": [
+"The 'binary code' account, which post-dates the incident by roughly two decades, has no documentary support."
+]
+}

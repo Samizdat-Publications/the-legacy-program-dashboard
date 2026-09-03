@@ -1,0 +1,297 @@
+{
+"A": 1,
+"C": 2,
+"D": 3,
+"affiliations": [
+"509th Bomb Group, Roswell Army Air Field (1946-1948)",
+"International UFO Museum and Research Center, co-founder (1991-2005)",
+"509th Bomb Group, Roswell Army Air Field, public information officer",
+"International UFO Museum and Research Center, co-founder (1991) and president to 1996"
+],
+"age": 83,
+"band": null,
+"chronology": [
+{
+"date": "1922-06-03",
+"event": "Born in Chicago",
+"precision": "day"
+},
+{
+"date": "1946",
+"event": "At Operation Crossroads drops instrument packages to record bomb blast data",
+"precision": "year"
+},
+{
+"date": "1947-07-08",
+"event": "Issues the RAAF press release announcing recovery of a disc",
+"precision": "day"
+},
+{
+"date": "1947-07-08",
+"event": "Announcement retracted the same day at Fort Worth Army Air Field",
+"precision": "day"
+},
+{
+"date": "1947-07-08",
+"event": "Writes and distributes the RAAF press release announcing possession of a flying disc, on Col. Blanchard's order",
+"precision": "day"
+},
+{
+"date": "1989-03",
+"event": "Interview: says he knew 'nothing' of what was recovered, and that his request to see it was refused",
+"precision": "month"
+},
+{
+"date": "1991",
+"event": "Co-founds the International UFO Museum and Research Center in Roswell with Max Littell and Glenn Dennis",
+"precision": "year"
+},
+{
+"date": "1991-01-01",
+"event": "Co-founds the International UFO Museum and Research Center, Roswell",
+"precision": "year"
+},
+{
+"date": "1993-05-14",
+"event": "Signs sworn affidavit stating Blanchard saw the material and could not have mistaken it for a weather balloon",
+"precision": "day"
+},
+{
+"date": "2002-12",
+"event": "Signs the affidavit drafted and emailed by Donald Schmitt, embargoed until after his death",
+"precision": "month"
+},
+{
+"date": "2002-12-26",
+"event": "Executes sealed affidavit describing a craft and bodies, to be opened after his death",
+"precision": "day"
+},
+{
+"date": "2005-12-15",
+"event": "Dies; affidavit released in 2007",
+"precision": "day"
+},
+{
+"date": "2005-12-15",
+"event": "Dies aged 83",
+"precision": "day"
+},
+{
+"date": "2007",
+"event": "The 2002 document is published as the 'Sealed Affidavit of Walter G. Haut' in Carey and Schmitt, 'Witness to Roswell'",
+"precision": "year"
+}
+],
+"claims": [
+{
+"source": "RAAF press release, 8 July 1947, reproduced in USAF, 'The Roswell Report: Fact vs. Fiction in the New Mexico Desert' (1995)",
+"text": "On 8 July 1947 RAAF publicly announced that the intelligence office of the 509th Bomb Group 'was fortunate enough to gain possession of a disc through the cooperation of one of the local ranchers and the sheriff's office of Chaves County.'",
+"tier": 1
+},
+{
+"source": "GAO/NSIAD-95-187, p.4, describing the FBI teletype of 8 July 1947",
+"text": "On 8 July 1947 an Eighth Air Force headquarters official telephonically informed the FBI's Dallas office of the recovery near Roswell of 'a hexagonal-shaped disc suspended from a large balloon by cable.'",
+"tier": 1
+},
+{
+"source": "Walter Haut affidavit, executed 2002, released 2007",
+"text": "Haut stated in a sealed affidavit executed 26 December 2002 and released after his 2005 death that he saw a craft and bodies and that Col. Blanchard ordered the press release.",
+"tier": 2
+},
+{
+"source": "RAAF press release, 8 July 1947; Roswell Daily Record, 8 July 1947",
+"text": "Haut authored and released the 8 July 1947 Roswell Army Air Field press release announcing that the 509th Bomb Group had come into possession of a flying disc.",
+"tier": 1
+},
+{
+"source": "Haut affidavit, 14 May 1993 (Fund for UFO Research affidavit series)",
+"text": "In an affidavit signed 14 May 1993 Haut stated that Col. Blanchard had seen the material, that there was no chance Blanchard would have mistaken it for a weather balloon, and no chance Marcel would have been mistaken.",
+"tier": 2
+},
+{
+"source": "Interviews quoted in Berlitz and Moore (1980) and Randle and Schmitt, 'UFO Crash at Roswell' (1991)",
+"text": "In 1979 and in a March 1989 interview Haut said he knew nothing about what was recovered and was refused permission to see it - directly inconsistent with the 2002 document's first-hand claims.",
+"tier": 2
+},
+{
+"source": "Schmitt's and the Haut family's own account of the document's creation",
+"text": "The 2002 'sealed affidavit' should be treated as Schmitt's composition attested by Haut rather than as Haut's testimony, because Schmitt composed and emailed the text and the release was embargoed until Haut could not be questioned about it. Reasoning: stated on the record by Schmitt himself as to authorship and by the family as to the embargo.",
+"tier": 3
+}
+],
+"cls": "person",
+"cluster": "witness",
+"conflicts": [
+"Haut's 2002 affidavit contains details absent from, and in tension with, his own interviews from the 1980s and 1990s",
+"Haut's 1979/1989 statements, his 1993 affidavit and the 2002 document are mutually inconsistent as to whether he saw anything. The 2007 book was criticised for presenting the 2002 document as an affidavit and for the inconsistencies."
+],
+"connections": [
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2007",
+"dateStart": "2002-12",
+"direction": "out",
+"edgeLabel": "Schmitt drafted and embargoed the 2002 Haut affidavit",
+"id": "don-schmitt",
+"l0": false,
+"label": "Donald R. Schmitt",
+"note": "Schmitt composed and emailed the text; Haut signed it at the International UFO Museum before his daughter Julie Shuster and a notary; it was withheld until after Haut's death in 2005 and published in 'Witness to Roswell' (2007).",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Walter Haut - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/Walter_Haut"
+}
+],
+"tier": "C",
+"type": "witness-chain"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "1947-07-08",
+"dateStart": "1947-07-08",
+"direction": "out",
+"edgeLabel": "Haut's 8 July 1947 press release named Marcel as the recovering officer",
+"id": "jesse-marcel",
+"l0": false,
+"label": "Jesse A. Marcel Sr.",
+"note": "The Roswell Army Air Field release, written by PIO Walter Haut on Col. Blanchard's order, identified the intelligence officer responsible. This is the only same-week official document naming a custodian of the material.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Walter Haut - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/Walter_Haut"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "1947",
+"dateStart": "1947",
+"direction": "out",
+"edgeLabel": "Haut issued the 8 July 1947 press release",
+"id": "raaf-press-release-1947",
+"l0": false,
+"label": "RAAF Press Release, 8 July 1947",
+"note": "As RAAF public information officer Haut issued the announcement that the 509th Bomb Group had gained possession of a disc; the release is reproduced in the Air Force's own 1995 report.",
+"sources": [
+{
+"date": "1995-01-01",
+"name": "USAF, The Roswell Report: Fact vs. Fiction (1995)",
+"url": "https://archive.org/details/DTIC_ADA326148"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 2,
+"cls": "event",
+"dateEnd": "1947-07-08",
+"dateStart": "1947-07-08",
+"direction": "out",
+"edgeLabel": "Haut issued the 8 July 1947 'flying disc' press release",
+"id": "roswell-1947",
+"l0": true,
+"label": "Roswell Incident",
+"note": "1st Lt. Walter Haut, RAAF public information officer, issued the release stating the 509th's intelligence office had gained possession of a disc.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Wikipedia - Roswell incident",
+"url": "https://en.wikipedia.org/wiki/Roswell_incident"
+}
+],
+"tier": "A",
+"type": "witness-chain"
+}
+],
+"date": "1947-07-08",
+"dateEnd": null,
+"dateStart": "1947-07-08",
+"deg": 4,
+"denials": [],
+"domains": [
+"history-1940s-1960s",
+"w2-retrieval-literature"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "walter-haut",
+"instId": "dod",
+"l0": false,
+"label": "Walter Haut",
+"loc": "Roswell, NM",
+"locId": "l-roswell",
+"members": null,
+"narrative": "Walter G. Haut (3 June 1922 - 15 December 2005) wrote the sentence that started all of it. A bombardier who flew thirty-five missions against Japan and dropped instrument packages at the Bikini tests in 1946, he became public information officer for the 509th Bomb Group at Roswell Army Air Field, and on 8 July 1947 base commander Col. William H. Blanchard - a close personal friend - told him to write and distribute a release stating the field had come into possession of a flying disc. He did, and the story went round the world before Fort Worth retracted it the same day. Haut's own testimony evolved in a documented, dateable sequence that this board records in full because the sequence is the evidence. In 1980's 'The Roswell Incident' he is explicitly 'not a witness.' In 1979 and again in a March 1989 interview he said he knew nothing of what was recovered and had been refused when he asked to see it. In a sworn affidavit signed 14 May 1993 he added that Blanchard must have seen the material himself and that neither Blanchard nor Marcel could have mistaken it for a weather balloon. Then, in December 2002, Donald Schmitt composed and emailed a further affidavit which Haut signed at the International UFO Museum in front of his daughter Julie Shuster and a notary, on the agreement that it would not be released until after his death; it asserts first-hand sight of a craft and bodies. Haut died in 2005 and the document was published by Carey and Schmitt in 'Witness to Roswell' (2007). A witness whose claims escalate monotonically over twenty-two years, with the largest escalation drafted by his interviewer and embargoed until he could not be cross-examined, is a specific kind of evidence, and this board grades it as such.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Walter Haut",
+"sources": [
+{
+"date": "1995-01-01",
+"name": "USAF, The Roswell Report: Fact vs. Fiction in the New Mexico Desert (1995)",
+"url": "https://archive.org/details/DTIC_ADA326148"
+},
+{
+"date": "1995-07-28",
+"name": "GAO/NSIAD-95-187, Government Records: Results of a Search for Records Concerning the 1947 Crash Near Roswell, New Mexico",
+"url": "https://www.gao.gov/assets/nsiad-95-187.pdf"
+},
+{
+"date": "2026-08-12",
+"name": "Walter Haut - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/Walter_Haut"
+}
+],
+"status": "dead",
+"sub": "Public information officer, 509th Bomb Group, RAAF",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 199 of 1027, score 43). 4 connections, 2 of them custody/witness/funding/programmatic. Axes C2/A1/D3.",
+"timeline": [
+{
+"date": "1947-07-08",
+"id": "tl-1947-0708-haut",
+"label": "RAAF press release",
+"precision": "day",
+"strand": "witness",
+"text": "Walter Haut, public information officer of the 509th Bomb Group, writes and distributes the release announcing that Roswell Army Air Field has come into possession of a flying disc, naming Maj. Jesse Marcel Sr. as the recovering officer. Fort Worth retracts it the same day.",
+"tier": "A"
+},
+{
+"date": "1993-05-14",
+"id": "tl-1993-0514-haut",
+"label": "Haut's sworn affidavit",
+"precision": "day",
+"strand": "witness",
+"text": "Walter Haut signs an affidavit stating that Col. Blanchard saw the material, that there is no chance Blanchard would have mistaken it for a weather balloon and none that Marcel would have been mistaken.",
+"tier": "B"
+},
+{
+"date": "2002-12",
+"id": "tl-2002-12-haut2",
+"label": "The sealed Haut affidavit",
+"precision": "month",
+"strand": "witness",
+"text": "Donald Schmitt composes and emails a further affidavit which Haut signs at the International UFO Museum before his daughter and a notary, embargoed until after his death. It asserts first-hand sight of a craft and bodies, contradicting his 1979, 1989 and 1993 statements.",
+"tier": "C"
+}
+],
+"unexplainedResidual": null,
+"unverified": [
+"The claim that Col. Blanchard personally dictated the press release rests on Haut's posthumous affidavit alone",
+"Whether the 2002 document was executed with the formalities of an affidavit under New Mexico law; the notarisation is attested but the jurat has not been examined here."
+]
+}

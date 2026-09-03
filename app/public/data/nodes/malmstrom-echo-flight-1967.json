@@ -1,0 +1,219 @@
+{
+"A": 2,
+"C": 0,
+"D": 3,
+"band": null,
+"claims": [
+{
+"source": "American Alchemy with Jesse Michels, 'Air Force Officer: A UFO Shut Down 10 Nukes in Seconds (ft. Bob Salas)', 12 July 2025, 0:28:33, https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL8813107798.mp3?updated=1752514599",
+"text": "On American Alchemy with Jesse Michels, 12 July 2025, at 0:28:33, Robert Salas said one of the documents received from the Air Force is a telex about the Echo Flight shutdown which names by name two individuals working for Boeing, in which SAC headquarters demanded a complete investigation and used the words 'this is of grave concern'. Salas says 'I've got that telex.' This is a different document from the 17 March 1967 Air Force teletype the board already cites.",
+"tier": 2
+},
+{
+"source": "American Alchemy with Jesse Michels, 'Air Force Officer: A UFO Shut Down 10 Nukes in Seconds (ft. Bob Salas)', 12 July 2025, 0:44:54 to 0:47:25",
+"text": "At 0:44:54 to 0:47:25 Salas described the Boeing bench-test result: an injected electrical signal of a given frequency, voltage and duration could make one guidance and control system shut down, but the testers 'had no idea on how that could be injected into this each missile separately within seconds'; the cable run was about eight to nine inches in diameter and 'triply shielded against EMI'; the report concluded an external signal caused the shutdowns while stating they could not explain how it got in; and Salas says he and James Klotz later reached the two named testers, who repeated that they could not explain it.",
+"tier": 2
+},
+{
+"source": "American Alchemy with Jesse Michels, 'Air Force Officer: A UFO Shut Down 10 Nukes in Seconds (ft. Bob Salas)', 12 July 2025, 0:39:39",
+"text": "At 0:39:39 Salas said he and James Klotz checked with the Department of Energy, cognizant of nuclear testing in Nevada, and that 'There were no nuclear tests on March 16th or March 24th', which on his account removes the nuclear-EMP explanation on the government's own records. He names no document number for the check.",
+"tier": 2
+},
+{
+"source": "American Alchemy with Jesse Michels, 'Air Force Officer: A UFO Shut Down 10 Nukes in Seconds (ft. Bob Salas)', 12 July 2025, 0:32:01, https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL8813107798.mp3?updated=1752514599",
+"text": "On American Alchemy with Jesse Michels, 12 July 2025, at 0:32:01, Robert Salas said that Ray Fowler was a manager under Sylvania Corporation, which held the contract for the electrical systems at Malmstrom, that Fowler's own contractor staff reported seeing the objects and being involved in the missile shutdowns, and that Fowler passed this to Roy Craig, the Colorado project's chief investigator, with names, dates, places and telephone numbers. Salas presents this as the reason Craig travelled to Malmstrom, and says at 0:32:49 that he holds the Chase interview on audio tape.",
+"tier": 2
+},
+{
+"source": "ufohastings.com document archive, af_teletype_1967-03-17_loss_of_strategic_alert — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"text": "An Air Force teletype dated 17 March 1967 concerning loss of strategic alert at Malmstrom AFB is published in facsimile under the heading 'Malmstrom AFB, March 16, 1967 (Echo Flight shutdown)'.",
+"tier": 2
+},
+{
+"source": "Fawcett and Greenwood, 'Clear Intent' (1984)",
+"text": "Fawcett and Greenwood wrote in 1984 that during the week of 20 March 1967 a flight of ten Malmstrom missiles developed problems while a UFO was in the area and confirmed on radar, that jet fighters were sent after it, and that later inquiries met with silence.",
+"tier": 2
+},
+{
+"source": "ufohastings.com, 'Letters' section",
+"text": "Col. Frederick Meiwald wrote to Robert Salas about the incident on 1 October 1996; Col. Robert Mansmann wrote about it to Lee Graham on 30 January 1983, to Peter Bons on 8 March 1983 and to T. Scott Crain on 6 May 1987. All are published in facsimile.",
+"tier": 2
+},
+{
+"source": "Inference from the declassification pattern for SAC unit histories",
+"text": "The dispute over Echo Flight versus Oscar Flight, and over 16 versus 24 March 1967, is resolvable from a single unreleased document - the 341st Strategic Missile Wing unit history and crew rosters for March 1967 - and its non-appearance after three decades of public argument is itself the most interesting fact about the case. Reasoning: unit histories for the period are routinely declassified for other subjects.",
+"tier": 3
+}
+],
+"cls": "event",
+"cluster": "witness",
+"connections": [
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": "1967-03-16",
+"dateStart": "1966-08-25",
+"direction": "in",
+"edgeLabel": "Minot 1966 precedes the Malmstrom shutdowns by seven months",
+"id": "minot-1966",
+"l0": false,
+"label": "Minot AFB incursions, 1966",
+"note": "Different wing, different state, same category of report. The sequence F. E. Warren 1965, Minot 1966, Malmstrom 1967 establishes recurrence rather than a single-site anomaly.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "UFOs & Nukes document archive",
+"url": "https://www.ufohastings.com/documents"
+}
+],
+"tier": "C",
+"type": "temporal"
+},
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": "1968-10-24",
+"dateStart": "1967-03-16",
+"direction": "in",
+"edgeLabel": "Minot 1968 extends the pattern with instrumented detection",
+"id": "minot-1968",
+"l0": false,
+"label": "Minot AFB B-52 incident, 24 October 1968",
+"note": "Where Malmstrom 1967 is a documented shutdown with contested causation, Minot 1968 adds ground radar, airborne radar, weather radar, visual observation, a four-minute radio failure and physical security alarms at Minuteman silos.",
+"sources": [
+{
+"date": "2010-11-24",
+"name": "NICAP/Project 1947 RADCAT: Minot AFB, 24 October 1968",
+"url": "https://www.nicap.org/681024minot_dir.htm"
+}
+],
+"tier": "C",
+"type": "temporal"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "2026",
+"dateStart": "1967-03-17",
+"direction": "out",
+"edgeLabel": "Hastings holds and publishes the 17 March 1967 teletype",
+"id": "robert-hastings",
+"l0": false,
+"label": "Robert L. Hastings",
+"note": "The document is published in facsimile in the UFOs & Nukes archive under the Echo Flight heading, and is the tier-1 anchor for the occurrence of the shutdown.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "UFOs & Nukes document archive",
+"url": "https://www.ufohastings.com/documents"
+}
+],
+"tier": "B",
+"type": "custody"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "1996",
+"dateStart": "1967-03",
+"direction": "in",
+"edgeLabel": "Principal named witness to the March 1967 shutdown",
+"id": "robert-salas",
+"l0": false,
+"label": "Capt. Robert L. Salas",
+"note": "Salas first went on the record in 1996 with the Great Falls Tribune, describing a security police report of a glowing red object over the front gate immediately before his flight's missiles went off alert.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "UFOs & Nukes document archive",
+"url": "https://www.ufohastings.com/documents"
+}
+],
+"tier": "B",
+"type": "witness-chain"
+},
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": "1975-11-08",
+"dateStart": "1975-11-07",
+"direction": "in",
+"edgeLabel": "The 1975 wave returned to Malmstrom on documented record",
+"id": "sac-overflights-1975",
+"l0": true,
+"label": "1975 SAC Nuclear-Base Overflights (Loring, Wurtsmith, Malmstrom, Minot)",
+"note": "The 24th NORAD Region Senior Director's log and the NMCC memorandum of 8 November 1975 place radar-tracked objects over Malmstrom missile sites eight years after the Echo Flight shutdown, this time with F-106 scrambles logged.",
+"sources": [
+{
+"date": "1984-01-01",
+"name": "Fawcett and Greenwood, 'Clear Intent' (1984)",
+"url": "https://archive.org/details/clear-intent-the-government-coverup-of-the-ufo-experience"
+}
+],
+"tier": "A",
+"type": "temporal"
+}
+],
+"coords": null,
+"dateEnd": "1967-03-24",
+"dateStart": "1967-03-16",
+"deg": 5,
+"denials": [],
+"desc": "On 16 March 1967 all ten Minuteman I missiles of Echo Flight, 341st Strategic Missile Wing, Malmstrom Air Force Base, Montana, went off alert status in rapid succession. That the shutdown happened is a matter of Air Force paper: Robert Hastings publishes in facsimile an Air Force teletype dated 17 March 1967 concerning loss of strategic alert. What is contested is why. Robert L. Salas, then a launch control officer, states that a topside security police officer reported a glowing red object hovering over the front gate immediately before his flight's missiles dropped off alert; he places his own experience at Oscar Flight and gives 24 March 1967 in some accounts. Fawcett and Greenwood, writing in 1984 with no knowledge of Salas, independently recorded that during the week of 20 March 1967 a flight of ten Malmstrom missiles developed problems while a UFO was in the area and was confirmed on radar, that jet fighters were scrambled, and that later inquiries met with silence. Salas's commander, Col. Frederick Meiwald, wrote to him about the incident on 1 October 1996; the letter is published in facsimile. Col. Robert Mansmann, who was involved in the technical investigation, wrote to Peter Bons on 8 March 1983, to Lee Graham on 30 January 1983 and to T. Scott Crain on 6 May 1987 about it, and those letters too are published in facsimile. Against all this stands a competing engineering account attributing the shutdown to a nearby electromagnetic pulse simulator test, and a sustained public challenge from James Carlson, son of the Echo Flight commander. This board grades the occurrence at tier 1 and the causal attribution at tier 2, and treats the unreleased 341st Strategic Missile Wing unit history for March 1967 as the document that would settle it.",
+"domains": [
+"w2-retrieval-literature"
+],
+"dossier": null,
+"entityInfo": {
+"desc": "The domain's cleanest illustration of the difference between an event and its explanation. That ten Minuteman missiles of Echo Flight went off alert on 16 March 1967 is Air Force paper. That an object caused it is testimony from a named officer with a signed affidavit and a corroborating letter from his own commander. That an electromagnetic pulse simulator test caused it is a competing engineering account. One unreleased document - the 341st Strategic Missile Wing unit history and crew rosters for March 1967 - would probably settle both the flight designation and the sequence, and it has not appeared in fifty-nine years.",
+"sources": []
+},
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "malmstrom-echo-flight-1967",
+"l0": false,
+"label": "Malmstrom AFB missile shutdowns, March 1967",
+"locLabel": null,
+"members": null,
+"short": "Malmstrom AFB missile shutdowns, March 1967",
+"sources": [
+{
+"date": "2025-07-12",
+"name": "American Alchemy with Jesse Michels, 'Air Force Officer: A UFO Shut Down 10 Nukes in Seconds (ft. Bob Salas)' (episode audio)",
+"url": "https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL8813107798.mp3?updated=1752514599"
+},
+{
+"date": "2026-08-12",
+"name": "UFOs & Nukes document and affidavit archive (Robert Hastings)",
+"url": "https://www.ufohastings.com/documents"
+},
+{
+"date": "1984-01-01",
+"name": "Fawcett and Greenwood, 'Clear Intent: The Government Coverup of the UFO Experience' (1984) - full text",
+"url": "https://archive.org/details/clear-intent-the-government-coverup-of-the-ufo-experience"
+},
+{
+"date": "2026-08-12",
+"name": "Robert Salas - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/Robert_Salas"
+}
+],
+"sub": "Echo Flight and Oscar Flight Minuteman off-alert events, 341st Strategic Missile Wing",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 280 of 1027, score 38). 5 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A2/D3.",
+"timeline": [
+{
+"date": "1967-03-16",
+"id": "tl-1967-0316-echo",
+"label": "Malmstrom Echo Flight shutdown",
+"precision": "day",
+"strand": "witness",
+"text": "All ten Minuteman missiles of Echo Flight, 341st Strategic Missile Wing, go off alert status. An Air Force teletype the following day concerns loss of strategic alert. Robert Salas would later attribute the cause to an object over the front gate.",
+"tier": "A"
+}
+]
+}

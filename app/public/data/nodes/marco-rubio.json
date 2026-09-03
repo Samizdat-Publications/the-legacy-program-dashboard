@@ -1,0 +1,256 @@
+{
+"A": 3,
+"C": 0,
+"D": 2,
+"affiliations": [
+"U.S. Senate, Florida (2011-2025)",
+"SSCI Acting Chairman (2020-2021); Vice Chairman (2021-2025)",
+"U.S. Secretary of State (2025- )"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "2021-03-24",
+"event": "Says on Fox Business that the objects are not U.S. property and exhibit attributes never seen before",
+"precision": "day"
+},
+{
+"date": "2023-02-16",
+"event": "Co-leads 16-senator AARO full-funding letter with Gillibrand",
+"precision": "day"
+},
+{
+"date": "2023-07-13",
+"event": "Original cosponsor of S.Amdt. 797",
+"precision": "day"
+},
+{
+"date": "2025-01-21",
+"event": "Resigns Senate seat on confirmation as Secretary of State",
+"precision": "day"
+}
+],
+"claims": [
+{
+"source": "CREC-2023-07-13-pt1-PgS2953",
+"text": "Cosponsor of S.Amdt. 797, the UAP Disclosure Act of 2023, submitted 13 July 2023.",
+"tier": 1
+},
+{
+"source": "Congress.gov cosponsor record, S.Amdt. 797, 118th Congress",
+"text": "Rubio is recorded as an original cosponsor of S.Amdt. 797, sponsorship date 13 July 2023.",
+"tier": 1
+},
+{
+"source": "Rubio on Fox Business, Mornings with Maria, 24 March 2021, reported by Micah Hanks, The Debrief",
+"text": "'It isn't ours. It isn't anything that's registered to the FAA, and in many cases exhibits attributes of things we've never seen.'",
+"tier": 2
+},
+{
+"source": "Joint statement, 16-senator AARO funding letter, 16 February 2023",
+"text": "Rubio and Gillibrand jointly argued AARO 'provides the opportunity to integrate and resolve threats and hazards to the U.S., while also offering increased transparency to the American people and reducing the stigma around this issue.'",
+"tier": 2
+}
+],
+"cls": "person",
+"cluster": "other",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 2,
+"cls": "document",
+"dateEnd": "2025",
+"dateStart": "2025",
+"direction": "in",
+"edgeLabel": "Rubio appears on record in the documentary",
+"id": "age-of-disclosure",
+"l0": false,
+"label": "The Age of Disclosure (documentary, 2025)",
+"note": "A sitting Secretary of State appearing in a film premised on an 80-year cover-up is a first-order fact about the coherence of the official denial posture.",
+"sources": [
+{
+"date": "2025-11-01",
+"name": "The Age of Disclosure - teaser",
+"url": "https://www.youtube.com/watch?v=AZo-Q-FXoXM"
+}
+],
+"tier": "C",
+"type": "witness-chain"
+},
+{
+"claimTier": 2,
+"cls": "document",
+"dateEnd": null,
+"dateStart": "2025",
+"direction": "in",
+"edgeLabel": "Addressed to the Secretary of State, who had publicly described UAP whistleblowers approaching Senate Intelligence",
+"id": "comer-luna-agency-letters-2025",
+"l0": false,
+"label": "Comer-Luna letters to Rubio, Hegseth and Ratcliffe on UAP records, February 2025",
+"note": "Rubio was one of five Senate cosponsors of the UAP Disclosure Act before joining the executive branch.",
+"sources": [
+{
+"date": "2025-02-18",
+"name": "The Hill (opinion, Marik von Rennenkampff): House Republicans demand UFO transparency",
+"url": "https://thehill.com/opinion/national-security/5149386-house-republicans-demand-ufo-transparency/"
+}
+],
+"tier": "C",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "2023",
+"dateStart": "2023",
+"direction": "out",
+"edgeLabel": "Original cosponsor while serving as SSCI Vice Chairman",
+"id": "samdt-797",
+"l0": true,
+"label": "S.Amdt. 797 to S. 2226 (Schumer-Rounds UAP Disclosure Act amendment)",
+"note": "Rubio cosponsored the eminent domain text while holding one of the eight most senior intelligence-access positions in Congress.",
+"sources": [
+{
+"date": "2023-07-13",
+"name": "Congress.gov — S.Amdt. 797",
+"url": "https://www.congress.gov/amendment/118th-congress/senate-amendment/797"
+}
+],
+"tier": "B",
+"type": "legislative"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "2025",
+"dateStart": "2021",
+"direction": "out",
+"edgeLabel": "Vice Chairman 2021-2025",
+"id": "senate-intelligence",
+"l0": false,
+"label": "Senate Select Committee on Intelligence",
+"note": "Rubio's Gang of Eight access is what makes his cosponsorship of the eminent domain text evidentially significant.",
+"sources": [
+{
+"date": "2023-07-13",
+"name": "Congress.gov — S.Amdt. 797",
+"url": "https://www.congress.gov/amendment/118th-congress/senate-amendment/797"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "legislation",
+"dateEnd": null,
+"dateStart": "2023-07-13",
+"direction": "out",
+"edgeLabel": "cosponsor",
+"id": "uapda-2023",
+"l0": true,
+"label": "UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)",
+"note": "Named in the Congressional Record entry for SA 797.",
+"sources": [
+{
+"date": "2023-07-13",
+"name": "Congressional Record, 13 July 2023, Text of Senate Amendment 797 (CREC-2023-07-13-pt1-PgS2953)",
+"url": "https://www.govinfo.gov/content/pkg/CREC-2023-07-13/html/CREC-2023-07-13-pt1-PgS2953.htm"
+}
+],
+"tier": "A",
+"type": "programmatic"
+},
+{
+"claimTier": 1,
+"cls": "legislation",
+"dateEnd": "2025",
+"dateStart": "2024",
+"direction": "out",
+"edgeLabel": "Absent from the 2024 refiling; left the Senate January 2025",
+"id": "uapda-2024-samdt-2610",
+"l0": false,
+"label": "UAP Disclosure Act of 2024 (S.Amdt. 2610 to S. 4638)",
+"note": "The 2024 amendment carries only Rounds and Schumer; Rubio, Gillibrand, Young and Heinrich are not on it, and Rubio left the Senate the following January.",
+"sources": [
+{
+"date": "2023-07-13",
+"name": "Congress.gov — S.Amdt. 797",
+"url": "https://www.congress.gov/amendment/118th-congress/senate-amendment/797"
+}
+],
+"tier": "B",
+"type": "temporal"
+}
+],
+"date": "2023-07-13",
+"dateEnd": null,
+"dateStart": "2023-07-13",
+"deg": 6,
+"denials": [],
+"domains": [
+"_rs-legislation",
+"congress-senate-legislation"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "marco-rubio",
+"instId": "us-senate",
+"l0": false,
+"label": "Marco Rubio",
+"loc": "Washington, DC",
+"locId": "l-dc",
+"members": null,
+"narrative": "Rubio matters here because of what he had access to. As Vice Chairman of the Senate Select Committee on Intelligence from February 2021 until he resigned his seat in January 2025 to become Secretary of State, he was one of eight people in the country entitled to be briefed on everything, and he used that position to say repeatedly and on the record that the accounts were coming from serious people. In March 2021, then already SSCI Vice Chair, he told Fox Business that objects were flying over military installations and that 'It isn't ours. It isn't anything that's registered to the FAA, and in many cases exhibits attributes of things we've never seen.' He was an original cosponsor of S.Amdt. 797 on 13 July 2023, the only member of the Gang of Eight other than Schumer to put his name on the eminent domain text. In February 2023 he co-led the sixteen-senator push with Gillibrand to fully fund AARO. His departure from the Senate in January 2025 removed the disclosure coalition's most senior intelligence-committee Republican, and the collapse of UAP provisions in the FY2026 and FY2027 authorization cycles begins immediately after it.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Marco Rubio",
+"sources": [
+{
+"date": "2023-07-13",
+"name": "Congressional Record, 13 July 2023, Text of Senate Amendment 797 (CREC-2023-07-13-pt1-PgS2953)",
+"url": "https://www.govinfo.gov/content/pkg/CREC-2023-07-13/html/CREC-2023-07-13-pt1-PgS2953.htm"
+},
+{
+"date": "2023-07-13",
+"name": "Congress.gov — S.Amdt. 797 cosponsors",
+"url": "https://www.congress.gov/amendment/118th-congress/senate-amendment/797"
+},
+{
+"date": "2021-03-24",
+"name": "The Debrief — Rubio: 'It isn't Ours'",
+"url": "https://thedebrief.org/it-isnt-ours-marco-rubio-says-the-government-is-taking-unidentified-aerial-phenomena-seriously/"
+},
+{
+"date": "2023-02-16",
+"name": "Gillibrand & Rubio lead 16 senators on AARO funding",
+"url": "https://www.gillibrand.senate.gov/news/press/release/gillibrand-rubio-lead-16-senators-in-bipartisan-push-for-full-funding-of-their-unidentified-aerial-phenomena-office-to-address-airborne-national-security-risks/"
+}
+],
+"status": "active",
+"sub": "R-FL; SSCI Vice Chair 2021-2025; cosponsor of the UAPDA; left Senate Jan 2025",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 319 of 1027, score 35). 6 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A3/D2.",
+"timeline": [
+{
+"date": "2025-01-21",
+"id": "cl-2025-01-21",
+"label": "Rubio leaves the Senate",
+"precision": "day",
+"strand": "oversight",
+"text": "The SSCI Vice Chairman who cosponsored the eminent domain text departs on confirmation as Secretary of State, removing the disclosure coalition's most senior intelligence-committee Republican.",
+"tier": "B"
+}
+],
+"unexplainedResidual": null,
+"unverified": [
+"Rubio is very widely quoted as saying that individuals with 'very high clearances and high positions within our government' have come forward with firsthand claims about non-human craft, in a NewsNation interview in June 2023. The interview is real and repeatedly cited, but no primary URL for it could be verified from this workstation; the quote is recorded here as unverified rather than sourced."
+]
+}

@@ -1,0 +1,166 @@
+{
+"A": 3,
+"C": 1,
+"D": 2,
+"band": null,
+"claims": [
+{
+"source": "Joseph Gradisher, U.S. Navy, via The Black Vault",
+"text": "The Navy stated in September 2019 that 'neither the cognizant Navy offices nor DOPSR have record of any correspondence responding to a request for unrestricted release of the subject videos in 2017.'",
+"tier": 1
+},
+{
+"source": "Luis Elizondo, sworn testimony, 13 November 2024",
+"text": "Reviewed Elizondo's Imminent for approximately one year prior to its August 2024 publication.",
+"tier": 2
+},
+{
+"source": "AARO Historical Record Report Volume 1, 8 March 2024",
+"text": "AARO's Historical Record Report Volume 1 carries the prepublication review number DOPSR-2024-0263.",
+"tier": 1
+},
+{
+"source": "DoD FOIA 23-F-0946 release; The Debrief, 5 June 2023",
+"text": "Cleared Grusch's two submissions for open publication on 4 April and 6 April 2023 (FOIA case 23-F-0946).",
+"tier": 1
+},
+{
+"source": "House Oversight hearing transcript, 26 July 2023",
+"text": "Grusch under oath: DOPSR review is a security review only - 'These are my own personal views and opinions, not the Department's.'",
+"tier": 1
+}
+],
+"cls": "institution",
+"cluster": "other",
+"connections": [
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "2019",
+"dateStart": "2017",
+"direction": "in",
+"edgeLabel": "Prepublication review chain for the video files",
+"id": "dd-form-1910-2017",
+"l0": false,
+"label": "DD Form 1910 for GoFast, Gimbal and FLIR video files",
+"note": "The Navy later said DOPSR held no record of a request for unrestricted release of the videos in 2017 — consistent with the form's 'not for publication' framing.",
+"sources": [
+{
+"date": "2019-09-10",
+"name": "The Black Vault",
+"url": "https://www.theblackvault.com/documentarchive/u-s-navy-confirms-videos-depict-unidentified-aerial-phenomena-not-cleared-for-public-release/"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "2023",
+"dateStart": "2023",
+"direction": "out",
+"edgeLabel": "Cleared Grusch's statements for open publication, 4 and 6 April 2023",
+"id": "grusch-dopsr-clearance",
+"l0": false,
+"label": "Grusch DOPSR Prepublication Clearance (FOIA 23-F-0946)",
+"note": "DoD's own prepublication review office read the specific words and released them. FOIA case 23-F-0946 documents the submissions of 7 March and 5 April 2023 and the approvals of 4 and 6 April 2023, along with internal reviewer correspondence.",
+"sources": [
+{
+"date": "2023-09-15",
+"name": "DoD FOIA 23-F-0946",
+"url": "https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/23-F-0946-0958-1317-David_Grusch_DOPSR_Request_09-15-23.pdf"
+},
+{
+"date": "2023-09-15",
+"name": "The Black Vault - DOPSR review documents",
+"url": "https://www.theblackvault.com/documentarchive/newly-released-documents-shed-light-on-ufo-whistleblower-david-gruschs-dopsr-review/"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 2,
+"cls": "document",
+"dateEnd": "2024",
+"dateStart": "2023",
+"direction": "in",
+"edgeLabel": "Manuscript reviewed and cleared by the Department's prepublication office",
+"id": "imminent-book",
+"l0": false,
+"label": "Imminent: Inside the Pentagon's Hunt for UFOs",
+"note": "A DOPSR clearance is not an endorsement of accuracy, but it is an affirmative Departmental determination that the assertions are not classified.",
+"sources": [
+{
+"date": "2024-11-13",
+"name": "HHRG-118-GO12 transcript",
+"url": "https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Transcript-20241113.pdf"
+}
+],
+"tier": "B",
+"type": "institutional"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "1980",
+"deg": 3,
+"denials": [],
+"desc": "DOPSR reviews material that current and former DoD-affiliated personnel propose to publish, and clears or withholds it strictly on security grounds. It is the office that cleared Grusch's statements for open publication on 4 and 6 April 2023 under the records released in FOIA case 23-F-0946. The significance is structural: DOPSR's clearance is not an endorsement of truth, and Grusch said so under oath, reminding the public that DOPSR looks only at security. But it establishes that the Department reviewed the specific words in advance and did not find that they disclosed classified information - which is a difficult position to hold simultaneously with the claim that the words describe programs that do not exist. Either the statements touched nothing real, in which case there was nothing to protect, or they touched something real and were released anyway. DOPSR still holds the full text of Grusch's submitted answers, withheld from FOIA release under exemption (b)(6).",
+"domains": [
+"_rs-archive-mirror",
+"elizondo-ttsa",
+"grusch"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "1",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "dopsr",
+"l0": false,
+"label": "Defense Office of Prepublication and Security Review",
+"locLabel": null,
+"members": null,
+"short": "Defense Office of Prepublication and Security Review",
+"sources": [
+{
+"date": "2026-07-05",
+"name": "Archived: AARO Historical Record Report Volume 1 (DOPSR-2024-0263) (Wayback 2026-07-05)",
+"url": "https://web.archive.org/web/20260705034310/https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF"
+},
+{
+"date": "2026-06-12",
+"name": "Archived: DoD FOIA 23-F-0946 - David Grusch DOPSR Request records (Wayback 2026-06-12)",
+"url": "https://web.archive.org/web/20260612141605/https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/23-F-0946-0958-1317-David_Grusch_DOPSR_Request_09-15-23.pdf"
+},
+{
+"date": "2024-03-08",
+"name": "AARO Historical Record Report Volume 1 (DOPSR-2024-0263)",
+"url": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF"
+},
+{
+"date": "2024-11-13",
+"name": "HHRG-118-GO12 hearing transcript",
+"url": "https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Transcript-20241113.pdf"
+},
+{
+"date": "2023-09-15",
+"name": "DoD FOIA 23-F-0946 - David Grusch DOPSR Request records",
+"url": "https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/23-F-0946-0958-1317-David_Grusch_DOPSR_Request_09-15-23.pdf"
+},
+{
+"date": "2023-09-15",
+"name": "The Black Vault - Newly Released Documents Shed Light on Grusch's DOPSR Review",
+"url": "https://www.theblackvault.com/documentarchive/newly-released-documents-shed-light-on-ufo-whistleblower-david-gruschs-dopsr-review/"
+}
+],
+"sub": "DoD office reviewing official information proposed for public release",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 356 of 1027, score 34). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A3/D2.",
+"timeline": []
+}

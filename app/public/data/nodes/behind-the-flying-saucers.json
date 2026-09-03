@@ -1,0 +1,118 @@
+{
+"A": 0,
+"C": 0,
+"D": 2,
+"band": null,
+"claims": [
+{
+"source": "Library catalogue record — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"text": "'Behind the Flying Saucers' was published by Henry Holt and Company, New York, in 1950 (OCLC 1467735) and became a bestseller.",
+"tier": 2
+},
+{
+"source": "Scully, 'Behind the Flying Saucers' (1950)",
+"text": "The book described a craft 99 feet in diameter containing sixteen humanoid bodies, said to have come from Venus and to work on magnetic principles, with every dimension divisible by nine.",
+"tier": 2
+},
+{
+"source": "Comparison of the 1950 text with later witness accounts",
+"text": "Aztec-specific details from this book - heat-proof material, bodies of 36 to 42 inches at about 40 pounds - later appear in supposedly first-hand accounts of unrelated sites, establishing that the crash-retrieval witness pool has been contaminated by published fiction since at least 1950. Reasoning: the details are datable to a single fraudulent 1950 source and post-date it in every account that repeats them.",
+"tier": 3
+}
+],
+"cls": "document",
+"cluster": "media",
+"connections": [
+{
+"claimTier": 2,
+"cls": "event",
+"dateEnd": "1950",
+"dateStart": "1949",
+"direction": "out",
+"edgeLabel": "The book is the sole origin of the Aztec claim",
+"id": "aztec-1948",
+"l0": true,
+"label": "Aztec, New Mexico claim, March 1948",
+"note": "No account of an Aztec crash predates Scully's 1949 Variety columns and the 1950 book; both derive from Silas Newton and Leo Gebauer, convicted of fraud in 1953.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Aztec crashed saucer hoax - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/Aztec,_New_Mexico_UFO_incident"
+}
+],
+"tier": "A",
+"type": "research"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "1950",
+"dateStart": "1950",
+"direction": "in",
+"edgeLabel": "Wrote the first crashed-saucer book",
+"id": "frank-scully",
+"l0": false,
+"label": "Frank Scully",
+"note": "Published by Henry Holt and Company, New York, 1950, out of two 1949 Variety columns.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Frank Scully - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/Frank_Scully"
+}
+],
+"tier": "C",
+"type": "research"
+}
+],
+"coords": null,
+"dateEnd": "1950",
+"dateStart": "1950",
+"deg": 2,
+"denials": [],
+"desc": "Frank Scully's 1950 bestseller is where the crash-retrieval genre begins, and its provenance is the genre's original sin. Built out of two 1949 Variety columns, it told a mass readership that recovered discs and dead occupants were in US military custody, and it supplied the specific narrative furniture that the field has been reusing ever since: a controlled landing rather than a crash, a small crew of humanoid bodies, an immediate military removal, exotic materials, magnetic propulsion, and complete official silence. Its named source Silas M. Newton and its unnamed 'scientist' Leo A. Gebauer were selling 'doodlebug' detection devices on the strength of claimed alien technology; J. P. Cahn of the San Francisco Chronicle exposed them in True in 1952 and 1956, and both were convicted of fraud in 1953. Martin Gardner catalogued the book's scientific howlers. None of that stopped the material propagating: descriptions of heat-proof material and of bodies between 36 and 42 inches tall weighing about 40 pounds - Aztec details - recur decades later in accounts of other sites given by people claiming first-hand knowledge, which is the clearest documented instance of narrative contamination in the entire domain.",
+"domains": [
+"w2-retrieval-literature"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "behind-the-flying-saucers",
+"l0": false,
+"label": "Behind the Flying Saucers (Scully, 1950)",
+"locLabel": null,
+"members": null,
+"short": "Behind the Flying Saucers (Scully, 1950)",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Frank Scully - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/Frank_Scully"
+},
+{
+"date": "2026-08-12",
+"name": "Aztec crashed saucer hoax - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/Aztec,_New_Mexico_UFO_incident"
+}
+],
+"sub": "Henry Holt and Company, New York, 1950; the first crashed-saucer book",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 971 of 1027, score 11). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D2.",
+"timeline": [
+{
+"date": "1950",
+"id": "tl-1950-bfs",
+"label": "Behind the Flying Saucers",
+"precision": "year",
+"strand": "coverup",
+"text": "Henry Holt publishes Scully's book: a 99-foot disc, sixteen bodies, Hart Canyon near Aztec, March 1948. It becomes a bestseller and supplies the genre's narrative furniture.",
+"tier": "B"
+}
+]
+}

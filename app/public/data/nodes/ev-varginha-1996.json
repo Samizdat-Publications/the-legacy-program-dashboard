@@ -1,0 +1,185 @@
+{
+"A": 1,
+"C": 3,
+"D": 3,
+"band": null,
+"claims": [
+{
+"source": "Brazilian military inquiry findings, 2010, as quoted in Wikipedia 'Varginha UFO incident' — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"text": "The 2010 Brazilian military inquiry concluded that 'this citizen, probably being dirty, due to the heavy rains and seen crouching by a wall, was mistaken by the three terrified girls as a space creature', and that the movements of Fire Brigade, Army and EsSA vehicles 'were real facts ... incorrectly interpreted'.",
+"tier": 2
+},
+{
+"source": "Leslie Kean and Ralph Blumenthal, The Debrief, 30 January 2026",
+"text": "Dr Ítalo Venturelli, 73, a neurosurgeon at Varginha Regional Hospital, told members of Congress on 15 January 2026 that he examined a patient for three or four minutes after a colleague, Dr Marcos Vinico Neves (died 2018), sutured a cranial wound: 'I've been a doctor for forty-six years and have performed thousands of surgeries. To me, it was obvious that this was not a human being.' He described lilac eyes, a teardrop-shaped cranium, three fingers and a thumb, white skin, no nipples, and 'I wouldn't say it communicated telepathically; it communicated empathetically, through its eyes.'",
+"tier": 2
+},
+{
+"source": "Leslie Kean and Ralph Blumenthal, The Debrief, 30 January 2026",
+"text": "Carlos de Sousa told the same meeting that a soldier aimed a gun at his head and said 'Leave now, or I'll split your skull'.",
+"tier": 2
+},
+{
+"source": "The Debrief, 30 January 2026",
+"text": "An anonymous videotaped witness said he was in the army in 1996 and helped transport the being from the Varginha hospital to Três Corações and thence to Campinas, and that on returning 'there was talk the Americans had the creature, having transported it to an undisclosed location'.",
+"tier": 2
+}
+],
+"cls": "event",
+"cluster": "legacy",
+"connections": [
+{
+"claimTier": 2,
+"cls": "event",
+"dateEnd": "2026-01-20",
+"dateStart": "2026-01-15",
+"direction": "out",
+"edgeLabel": "1996 witnesses testify to US legislators thirty years later",
+"id": "ev-varginha-capitol-2026",
+"l0": false,
+"label": "Varginha witnesses on Capitol Hill and at the National Press Club, 15 and 20 January 2026",
+"note": "Venturelli, Fortunato and de Sousa were brought to Washington by James Fox and briefed Burchett, Luna and Burlison on 15 January 2026.",
+"sources": [
+{
+"date": "2026-01-30",
+"name": "The Debrief",
+"url": "https://thedebrief.org/landmark-brazilian-ufo-case-reaches-capitol-hill-as-varginha-incident-turns-30/"
+}
+],
+"tier": "B",
+"type": "witness-chain"
+},
+{
+"claimTier": 2,
+"cls": "institution",
+"dateEnd": "1996-01",
+"dateStart": "1996-01",
+"direction": "in",
+"edgeLabel": "The hospital is a named custody point in the Varginha sequence",
+"id": "hospital-regional-varginha",
+"l0": false,
+"label": "Hospital Regional de Varginha",
+"note": "The facility registered in CNES as the Hospital Regional do Sul de Minas is the hospital named in the Varginha literature as a place to which an injured being was reportedly taken. Tier 2: the facility and its registry entry are verified fact, the custody sequence rests on witness testimony and journalism and on no hospital record obtained in this pass. The hospital node carried edges to the US congressional side of the story but, oddly, not to the 1996 event itself.",
+"sources": [
+{
+"date": null,
+"name": "Keith Basterfield, 'Investigative adventures in Brazil', Unidentified Anomalous Phenomena – scientific research, 22 July 2024, with update of 16 February 2025 — https://ufos-scientificresearch.blogspot.com/2024/07/investigative-adventures-in-brazil.html",
+"url": ""
+},
+{
+"date": "2026-08-12",
+"name": "CNES - Cadastro Nacional de Estabelecimentos de Saúde, establishment record 2761041 (Ministério da Saúde open data API)",
+"url": "https://apidadosabertos.saude.gov.br/cnes/estabelecimentos/2761041"
+},
+{
+"date": "2026-01-30",
+"name": "The Debrief - Landmark Brazilian UFO Case Reaches Capitol Hill",
+"url": "https://thedebrief.org/landmark-brazilian-ufo-case-reaches-capitol-hill-as-varginha-incident-turns-30/"
+}
+],
+"tier": "C",
+"type": "witness-chain"
+},
+{
+"claimTier": 3,
+"cls": "document",
+"dateEnd": "2010",
+"dateStart": "1996",
+"direction": "out",
+"edgeLabel": "Two official inquiries that explained the recovery activity without producing the logs",
+"id": "roswell-report-case-closed",
+"l0": true,
+"label": "The Roswell Report: Case Closed (1997)",
+"note": "The Brazilian Army's 2010 inquiry explained the Varginha vehicle movements as routine maintenance and school transport; the USAF's 1997 report explained the New Mexico recovery teams as dummy-recovery operations. Both are plausible and neither published the underlying unit movement records. Reasoning: an explanation of activity is not the same artifact as the activity log.",
+"sources": [
+{
+"date": "1997-01-01",
+"name": "The Roswell Report: Case Closed (1997)",
+"url": "https://archive.org/details/AFD-101027-030"
+}
+],
+"tier": "B",
+"type": "denial"
+}
+],
+"coords": null,
+"dateEnd": "1996-01-20",
+"dateStart": "1996-01-13",
+"deg": 3,
+"denials": [
+{
+"by": {
+"id": "ev-varginha-1996",
+"label": "Varginha incident, Minas Gerais, January 1996"
+},
+"claimTier": 3,
+"denialKind": "association",
+"label": "Two official inquiries that explained the recovery activity without producing the logs",
+"note": "The Brazilian Army's 2010 inquiry explained the Varginha vehicle movements as routine maintenance and school transport; the USAF's 1997 report explained the New Mexico recovery teams as dummy-recovery operations. Both are plausible and neither published the underlying unit movement records. Reasoning: an explanation of activity is not the same artifact as the activity log.",
+"of": {
+"id": "roswell-report-case-closed",
+"label": "The Roswell Report: Case Closed (1997)"
+},
+"sources": [
+{
+"date": "1997-01-01",
+"name": "The Roswell Report: Case Closed (1997)",
+"url": "https://archive.org/details/AFD-101027-030"
+}
+]
+}
+],
+"desc": "The Varginha case is the only Latin American event that alleges the full sequence this board is built around: a crash, a recovery, custody of biological material, and an American removal. On 13 January 1996, outside Varginha in Minas Gerais, geography teacher and ultralight pilot Carlos de Sousa reported seeing a cylindrical craft trailing smoke come down near a highway; he says he reached the site, smelled ammonia and rotten eggs, picked up a metal fragment that sprang back to shape after he crushed it, and was driven off at gunpoint by soldiers who arrived within minutes. On 20 January 1996 at about 15:20 three young women - Liliane Silva, then 14, her sister Valquíria, 16, and their friend Kátia Xavier, 21 - reported encountering a crouching brown, oily-skinned creature with red eyes, three fingers and a large head in a vacant lot on Rua Dr. Benevenuto Braz Vieira. In 2010 an official Brazilian military inquiry concluded the young women had seen a mentally disabled man nicknamed 'Mudinho', Luiz Antônio de Paula, and that the military vehicle movements were routine maintenance and Fire Brigade activity misinterpreted. Thirty years later the case reached the United States Congress.",
+"domains": [
+"w2-international"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "1",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "ev-varginha-1996",
+"l0": false,
+"label": "Varginha incident, Minas Gerais, January 1996",
+"locLabel": null,
+"members": null,
+"short": "Varginha incident, Minas Gerais, January 1996",
+"sources": [
+{
+"date": "2026-01-30",
+"name": "The Debrief - Landmark Brazilian UFO Case Reaches Capitol Hill",
+"url": "https://thedebrief.org/landmark-brazilian-ufo-case-reaches-capitol-hill-as-varginha-incident-turns-30/"
+},
+{
+"date": "2026-01-01",
+"name": "Varginha UFO incident - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/Varginha_UFO_incident"
+}
+],
+"sub": "Alleged craft crash, capture of nonhuman beings, and alleged US removal",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 223 of 1027, score 42). 3 connections, 2 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C3/A1/D3.",
+"timeline": [
+{
+"date": "1996-01-20",
+"id": "tl-intl-1996-varginha",
+"label": "The Varginha encounter",
+"precision": "day",
+"strand": "witness",
+"text": "Three young women in Varginha, Minas Gerais report a crouching creature with red eyes and three fingers; a week earlier an ultralight pilot reported a cylindrical craft coming down outside the town. Rumours of military recovery and of an American removal follow. A 2010 Brazilian military inquiry attributes the sighting to a mentally disabled man and routine vehicle movements.",
+"tier": 2
+},
+{
+"date": "2010",
+"id": "tl-2010-varginha",
+"label": "Brazilian Army inquiry on Varginha",
+"precision": "year",
+"strand": "coverup",
+"text": "The inquiry concludes the 1996 witnesses encountered Luiz Antonio de Paula, a mentally disabled man, and that the observed military vehicle movements were routine maintenance and Escola de Sargentos das Armas transport. The underlying unit movement logs are not published.",
+"tier": "B"
+}
+]
+}

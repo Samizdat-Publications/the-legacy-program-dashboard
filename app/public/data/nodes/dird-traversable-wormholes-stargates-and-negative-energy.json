@@ -1,0 +1,293 @@
+{
+"A": 0,
+"C": 0,
+"D": 0,
+"band": null,
+"claims": [
+{
+"source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237636/",
+"text": "Defense Intelligence Reference Document titled \"Traversable Wormholes, Stargates, and Negative Energy\", series \"Acquisition Threat Support\", published 2010-04-06 with an Intelligence Cut-Off Date (ICOD) of 2009-12-01, DIA document number DIA-08-1004-004. Released by DIA under FOIA and posted in the DIA FOIA Electronic Reading Room.",
+"tier": 1
+},
+{
+"source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237636/",
+"text": "Inside cover reads: \"This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency [redacted b(3) 10 USC 424] Advanced Aerospace Weapon System Applications (AAWSA) Program\" and directs questions to the \"AAWSA Program Manager, Defense Intelligence Agency, ATTN: [redacted], Bldg 6000, Washington, DC 20340-5100\".",
+"tier": 1
+},
+{
+"source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237636/",
+"text": "Author name is withheld in the DIA-released copy under FOIA exemption (b)(6); the \"Prepared by:\" line is withheld under (b)(3) 10 USC 424. The released cover therefore does not attribute the DIRD to a named author.",
+"tier": 1
+},
+{
+"source": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"text": "Author of record per the DIA letter of 9 January 2018, item 8: \"Traversable Wormholes, Stargates and Negative Energy, Dr Eric Davis, EarthTech International.\" The popular attribution to Davis is, in this case, correct and matches the government list.",
+"tier": 2
+},
+{
+"source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_18-DIRD_Traversible_Wormholes_Stargates_and_Negative_Energy.pdf",
+"text": "The released cover page reads \"6 April 2010 / ICOD: 1 December 2009 / DIA-08-1004-004.\" The author line is redacted under (b)(6).",
+"tier": 1
+},
+{
+"source": "http://earthtech.org/pubs/davis/",
+"text": "EarthTech International's own citation list records the paper as \"Davis, E. W. (2010), 'Traversable Wormholes, Stargates, and Negative Energy,' Defense Intelligence Reference Document, Acquisition Threat Support, DIA-08-1004-004, Acquisition Support Division (DWO-3), Defense Warning Office, Directorate for Analysis, Defense Intelligence Agency, Washington, DC.\"",
+"tier": 1
+},
+{
+"source": "https://ufos-scientificresearch.blogspot.com/2018/06/those-defense-intelligence-reference.html",
+"text": "This is one of the first two DIRDs to reach the public internet, appearing on a website operated by Corey Goode in an item dated 18 December 2017, before any FOIA release. Davis confirmed by email to the researcher Isaac Koi that the circulating copies were his documents.",
+"tier": 2
+}
+],
+"cls": "document",
+"cluster": "other",
+"connections": [
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "AAWSAP deliverable, Acquisition Support Division (DWO-3)",
+"id": "aawsap",
+"l0": true,
+"label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)",
+"note": "The released document names the programme itself. Its inside cover reads 'This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency ... Advanced Aerospace Weapon System Applications (AAWSA) Program' - the redaction between them is (b)(3):10 USC 424. Verified by downloading this DIRD and scanning its full text on 23 August 2026. The scans are OCR-degraded, so the quotation is normalised from the damaged rendering.",
+"sources": [
+{
+"date": "2010-04-06",
+"name": "Defense Intelligence Reference Document, \"Traversable Wormholes, Stargates, and Negative Energy\" (The Black Vault FOIA release)",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_18-DIRD_Traversible_Wormholes_Stargates_and_Negative_Energy.pdf"
+},
+{
+"date": "2010-04-06",
+"name": "DIA FOIA Reading Room — Traversable Wormholes, Stargates, and Negative Energy (PDF)",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237636/"
+},
+{
+"date": null,
+"name": "http://earthtech.org/pubs/davis/",
+"url": "http://earthtech.org/pubs/davis/"
+},
+{
+"date": null,
+"name": "https://ufos-scientificresearch.blogspot.com/2018/06/those-defense-intelligence-reference.html",
+"url": "https://ufos-scientificresearch.blogspot.com/2018/06/those-defense-intelligence-reference.html"
+}
+],
+"tier": "A",
+"type": "programmatic"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "published by DIA as DIA-08-1004-004, Acquisition Threat Support series",
+"id": "dia",
+"l0": true,
+"label": "Defense Intelligence Agency",
+"note": "DIA commissioned, holds and released this document. It carries a DIA document number in the DIA-08-xxxx-xxx series on its cover and was released through the DIA FOIA Electronic Reading Room, whose FileId entry is cited here alongside the retrievable copy. Cover page read on 22 August 2026.",
+"sources": [
+{
+"date": "2010-04-06",
+"name": "Defense Intelligence Reference Document, \"Traversable Wormholes, Stargates, and Negative Energy\" (The Black Vault FOIA release)",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_18-DIRD_Traversible_Wormholes_Stargates_and_Negative_Energy.pdf"
+},
+{
+"date": "2010-04-06",
+"name": "DIA FOIA Reading Room — Traversable Wormholes, Stargates, and Negative Energy (PDF)",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237636/"
+},
+{
+"date": null,
+"name": "http://earthtech.org/pubs/davis/",
+"url": "http://earthtech.org/pubs/davis/"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "DIRD",
+"id": "dird-series",
+"l0": true,
+"label": "The 38 Defense Intelligence Reference Documents (DIRDs)",
+"note": "Membership of the DIRD series is established by the released document itself: its cover page carries the Defense Intelligence Reference Document mark and the DIA Defense Futures banner. Publication date 6 April 2010 on the cover. 43 pages in the released copy. The cover of the scanned release is degraded, so a document number or date is asserted here only where it reads unambiguously.",
+"sources": [
+{
+"date": "2026-08-22",
+"name": "Released DIRD, 'Traversable Wormholes, Stargates, and Negative Energy' (FOIA copy, cover page read 22 August 2026)",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_18-DIRD_Traversible_Wormholes_Stargates_and_Negative_Energy.pdf"
+},
+{
+"date": "2026-08-22",
+"name": "DIA FOIA Electronic Reading Room, AAWSAP/AATIP reference-document entry",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237636/"
+}
+],
+"tier": "A",
+"type": "programmatic"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "author's affiliation of record; DIRD carried on EarthTech's own publications list",
+"id": "earthtech-international",
+"l0": true,
+"label": "EarthTech International / Institute for Advanced Studies at Austin",
+"note": "EarthTech International lists six DIRDs by Eric Davis on its publications page, with DIA document numbers and the issuing division named as the Acquisition Support Division (DWO-3) or Technology Warning Division (DWO-4) of the Defense Warning Office. A contractor publishing its DIA reference-document numbers on an open website is itself part of how the DIRD series became documentable.",
+"sources": [
+{
+"date": "2026-08-22",
+"name": "Released DIRD, 'Traversable Wormholes, Stargates, and Negative Energy' — FOIA copy, cover page read 22 August 2026",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_18-DIRD_Traversible_Wormholes_Stargates_and_Negative_Energy.pdf"
+},
+{
+"date": "2026-08-22",
+"name": "DIA FOIA Electronic Reading Room entry for this reference document",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237636/"
+},
+{
+"date": null,
+"name": "http://earthtech.org/pubs/davis/",
+"url": "http://earthtech.org/pubs/davis/"
+},
+{
+"date": null,
+"name": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html",
+"url": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "author of record on the DIA list and on EarthTech's own citation list",
+"id": "eric-davis",
+"l0": false,
+"label": "Eric W. Davis",
+"note": "DIA list item 8: \"Traversable Wormholes, Stargates and Negative Energy, Dr Eric Davis, EarthTech International.\" Unlike the warp-drive paper, the popular attribution to Davis is confirmed by the government list here. EarthTech's own bibliography carries the same citation with the document number DIA-08-1004-004.",
+"sources": [
+{
+"date": "2026-08-22",
+"name": "Released DIRD, 'Traversable Wormholes, Stargates, and Negative Energy' — FOIA copy, cover page read 22 August 2026",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_18-DIRD_Traversible_Wormholes_Stargates_and_Negative_Energy.pdf"
+},
+{
+"date": "2026-08-22",
+"name": "DIA FOIA Electronic Reading Room entry for this reference document",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237636/"
+},
+{
+"date": "2026-08-23",
+"name": "DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations",
+"url": "https://fas.org/publication/aatip-list/"
+},
+{
+"date": null,
+"name": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html",
+"url": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html"
+},
+{
+"date": null,
+"name": "http://earthtech.org/pubs/davis/",
+"url": "http://earthtech.org/pubs/davis/"
+},
+{
+"date": null,
+"name": "https://irp.fas.org/dia/aatip-list.pdf",
+"url": "https://irp.fas.org/dia/aatip-list.pdf"
+}
+],
+"tier": "A",
+"type": "research"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": null,
+"deg": 5,
+"denials": [],
+"desc": "DIA Defense Intelligence Reference Document (Acquisition Threat Support series), 2010-04-06, DIA-08-1004-004, produced under the Advanced Aerospace Weapon System Applications (AAWSA/AAWSAP) Program contract with BAASS. Released under FOIA.",
+"domains": [
+"_rs-aawsap-dirds",
+"_rs-archive-mirror",
+"w7-dirds-4"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "nd",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "dird-traversable-wormholes-stargates-and-negative-energy",
+"l0": false,
+"label": "Traversable Wormholes, Stargates, and Negative Energy",
+"locLabel": null,
+"members": null,
+"short": "Traversable Wormholes, Stargates, and Negative Energy",
+"sources": [
+{
+"date": "2010-04-06",
+"name": "DIA FOIA Reading Room — Traversable Wormholes, Stargates, and Negative Energy (PDF)",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237636/"
+},
+{
+"date": "2022-03",
+"name": "DIA FOIA Electronic Reading Room — AAWSAP/AATIP collection",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/"
+},
+{
+"date": "2025-07-25",
+"name": "Archived: DIA FOIA Reading Room — Traversable Wormholes, Stargates, and Negative Energy (PDF) (Wayback 2025-07-25)",
+"url": "https://web.archive.org/web/20250725033255/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170048/"
+},
+{
+"date": "2026-06-11",
+"name": "Archived: DIA FOIA Electronic Reading Room — AAWSAP/AATIP collection (Wayback 2026-06-11)",
+"url": "https://web.archive.org/web/20260611124158/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/"
+},
+{
+"date": "2010-04-06",
+"name": "Defense Intelligence Reference Document, \"Traversable Wormholes, Stargates, and Negative Energy\" (The Black Vault FOIA release)",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_18-DIRD_Traversible_Wormholes_Stargates_and_Negative_Energy.pdf"
+},
+{
+"date": null,
+"name": "EarthTech International, publications list for Eric W. Davis (DIRD citations)",
+"url": "http://earthtech.org/pubs/davis/"
+},
+{
+"date": "2019-01-17",
+"name": "Keith Basterfield, transcription of the DIA letter of 9 January 2018 and its three-page attachment",
+"url": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html"
+},
+{
+"date": "2018-06-02",
+"name": "Keith Basterfield, \"Those Defense Intelligence Reference Documents\" (provenance of the first leaked copies)",
+"url": "https://ufos-scientificresearch.blogspot.com/2018/06/those-defense-intelligence-reference.html"
+}
+],
+"sub": "defense-intelligence-reference-document",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 463 of 1027, score 30). 5 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A0/D0.",
+"timeline": []
+}

@@ -1,0 +1,181 @@
+{
+"A": 1,
+"C": 3,
+"D": 2,
+"band": null,
+"claims": [
+{
+"source": "GAO/NSIAD-95-187",
+"text": "GAO/NSIAD-95-187 (28 July 1995) reports that Roswell AAF outgoing messages for 1946-1949 were destroyed with no disposition authority and no destruction certificate.",
+"tier": 1
+},
+{
+"source": "USAF, The Roswell Report: Case Closed (1997); The Roswell Report: Fact vs. Fiction",
+"text": "The Air Force published 'The Roswell Report: Fact vs. Fiction in the New Mexico Desert' attributing the debris to Project MOGUL, and 'The Roswell Report: Case Closed' (24 June 1997) attributing body reports to anthropomorphic test dummies.",
+"tier": 1
+},
+{
+"source": "Berlitz and Moore, 'The Roswell Incident' (1980)",
+"text": "The 1980 Berlitz and Moore book 'The Roswell Incident' reopened the case publicly and is the origin of the modern witness corpus.",
+"tier": 2
+}
+],
+"cls": "domain",
+"cluster": "legacy",
+"connections": [
+{
+"claimTier": 1,
+"cls": "domain",
+"dateEnd": "1997-06-24",
+"dateStart": "1947-07-08",
+"direction": "out",
+"edgeLabel": "Four official explanations for one event",
+"id": "d-denial",
+"l0": false,
+"label": "Official Denial",
+"note": "Weather balloon in 1947, Project MOGUL in the mid-1990s, crash test dummies in 1997 - the sequence of explanations is itself the evidentiary object.",
+"sources": [
+{
+"date": "1995-07-28",
+"name": "GAO/NSIAD-95-187",
+"url": "https://www.govinfo.gov/content/pkg/GAOREPORTS-NSIAD-95-187/html/GAOREPORTS-NSIAD-95-187.htm"
+}
+],
+"tier": "B",
+"type": "denial"
+},
+{
+"claimTier": 1,
+"cls": "domain",
+"dateEnd": null,
+"dateStart": "1947-07-08",
+"direction": "out",
+"edgeLabel": "The founding case of the retrieval strand",
+"id": "d-recovery",
+"l0": false,
+"label": "Retrieval & Recovery Operations",
+"note": "Roswell is the origin of the crash-retrieval literature and the case against which every later retrieval claim is measured.",
+"sources": [
+{
+"date": "1995-07-28",
+"name": "GAO/NSIAD-95-187",
+"url": "https://www.govinfo.gov/content/pkg/GAOREPORTS-NSIAD-95-187/html/GAOREPORTS-NSIAD-95-187.htm"
+}
+],
+"tier": "B",
+"type": "temporal"
+},
+{
+"claimTier": 1,
+"cls": "location",
+"dateEnd": "1947-07-08",
+"dateStart": "1947-07-08",
+"direction": "out",
+"edgeLabel": "Where the disc became a balloon",
+"id": "l-fort-worth-tx",
+"l0": false,
+"label": "Fort Worth, Texas",
+"note": "The Roswell debris was flown to Eighth Air Force headquarters at Fort Worth, where it was presented to the press as a weather balloon the same day.",
+"sources": [
+{
+"date": "1995-07-28",
+"name": "GAO/NSIAD-95-187",
+"url": "https://www.govinfo.gov/content/pkg/GAOREPORTS-NSIAD-95-187/html/GAOREPORTS-NSIAD-95-187.htm"
+}
+],
+"tier": "C",
+"type": "custody"
+}
+],
+"coords": null,
+"dateEnd": "1997-06-24",
+"dateStart": "1947-07-02",
+"deg": 3,
+"denials": [
+{
+"by": {
+"id": "d-roswell",
+"label": "Roswell"
+},
+"claimTier": 1,
+"denialKind": "association",
+"label": "Four official explanations for one event",
+"note": "Weather balloon in 1947, Project MOGUL in the mid-1990s, crash test dummies in 1997 - the sequence of explanations is itself the evidentiary object.",
+"of": {
+"id": "d-denial",
+"label": "Official Denial"
+},
+"sources": [
+{
+"date": "1995-07-28",
+"name": "GAO/NSIAD-95-187",
+"url": "https://www.govinfo.gov/content/pkg/GAOREPORTS-NSIAD-95-187/html/GAOREPORTS-NSIAD-95-187.htm"
+}
+]
+}
+],
+"desc": "Roswell is not on this board because of what was recovered but because of what the government did afterwards, four times, over forty-eight years. On 8 July 1947 Roswell Army Air Field publicly announced that the 509th Bomb Group had come into possession of a flying disc; the same day the Eighth Air Force at Fort Worth, under Brigadier General Roger M. Ramey, replaced that with a weather balloon. In the mid-1990s the Air Force published 'The Roswell Report: Fact vs. Fiction in the New Mexico Desert', attributing the debris to Project MOGUL, a classified acoustic balloon programme for detecting Soviet nuclear tests; on 24 June 1997 it published 'The Roswell Report: Case Closed', attributing witness accounts of bodies to anthropomorphic crash test dummies dropped in the 1950s. GAO, asked by Congressman Steven Schiff to locate the underlying records, reported in July 1995 that the relevant Roswell AAF outgoing messages for 1946-1949 had been destroyed with no disposition authority and no destruction certificate on file. Four official explanations and one documented records gap is the actual evidentiary situation, and it is the reason the case remains load-bearing. Scoring high on this domain means an entity was present, investigated, or authored one of the explanations.",
+"domains": [
+"w2-taxonomy"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "d-roswell",
+"l0": false,
+"label": "Roswell",
+"locLabel": null,
+"members": null,
+"short": "Roswell",
+"sources": [
+{
+"date": "1995-07-28",
+"name": "GAO/NSIAD-95-187, Government Records: Results of a Search for Records Concerning the 1947 Crash Near Roswell, New Mexico",
+"url": "https://www.govinfo.gov/content/pkg/GAOREPORTS-NSIAD-95-187/html/GAOREPORTS-NSIAD-95-187.htm"
+},
+{
+"date": "1997-06-24",
+"name": "USAF - The Roswell Report: Case Closed (PDF)",
+"url": "https://media.defense.gov/2010/Oct/27/2001330256/-1/-1/0/AFD-101027-030.pdf"
+},
+{
+"date": "1995-01-01",
+"name": "USAF, The Roswell Report: Fact vs. Fiction (DTIC ADA326148)",
+"url": "https://archive.org/details/DTIC_ADA326148"
+},
+{
+"date": "1995-07-28",
+"name": "GAO/NSIAD-95-187 (full PDF)",
+"url": "https://www.gao.gov/assets/nsiad-95-187.pdf"
+},
+{
+"date": "1980-01-01",
+"name": "Berlitz and Moore, 'The Roswell Incident' (1980), Internet Archive",
+"url": "https://archive.org/details/charles-berlitz-william-l.-moore-the-roswell-incident-1980_202012"
+},
+{
+"date": "2019-09-16",
+"name": "Clinton Digital Library, FOIA collection 2006-0476-F, 'New Mexico Roswell'",
+"url": "https://clinton.presidentiallibraries.us/items/show/36328"
+}
+],
+"sub": "Case domain - the 1947 event and the four official explanations issued for it",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 298 of 1027, score 37). 3 connections, 1 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C3/A1/D2.",
+"timeline": [
+{
+"date": "1947-07-08",
+"id": "tx-1947-roswell-presser",
+"label": "Roswell announces, Fort Worth retracts",
+"precision": "day",
+"strand": "program",
+"text": "Roswell Army Air Field publicly announces that the 509th Bomb Group has come into possession of a flying disc. The material is flown to Eighth Air Force headquarters at Fort Worth, where it is presented to the press the same day as a weather balloon and radar target. Four official explanations for the event will follow over the next fifty years.",
+"tier": 1
+}
+]
+}

@@ -1,0 +1,102 @@
+{
+"A": 2,
+"C": 0,
+"D": 1,
+"affiliations": [
+"U.S. House of Representatives, WI-8 (2017-2024)",
+"House Armed Services Committee (2017-2024)",
+"House Permanent Select Committee on Intelligence (2019-2024)",
+"Select Committee on the CCP, Chairman (2023-2024)",
+"U.S. Marine Corps (2006-2013)"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "2023-01-01",
+"event": "Becomes Chairman of the Select Committee on the CCP while holding HASC and HPSCI seats.",
+"precision": "year"
+},
+{
+"date": "2024-04-19",
+"event": "Resigns from the House of Representatives.",
+"precision": "day"
+}
+],
+"claims": [
+{
+"source": "Inference from CHRG-119hhrg61718 (9 Sept 2025) and Gallagher's published committee assignments",
+"text": "Gallagher held simultaneous House Armed Services and House Intelligence assignments through the 118th Congress - the exact committee profile DoD told Oversight staff was required for read-in to UAP-relevant special access programs. Reasoning: Luna's 9 Sept 2025 statement identifies HASC and HAC-D membership as the read-in gate; HPSCI is the parallel intelligence authorising committee. Whether Gallagher was ever briefed on UAP SAPs is unresolved.",
+"tier": 3
+}
+],
+"cls": "person",
+"cluster": "oversight",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 3,
+"cls": "domain",
+"dateEnd": "2024",
+"dateStart": "2023",
+"direction": "out",
+"edgeLabel": "Held simultaneously the HASC and HPSCI seats that constitute the read-in tier Oversight was excluded from",
+"id": "sap-readin-gate",
+"l0": false,
+"label": "The HASC/HAC-D special access program read-in gate",
+"note": "Reasoning: Luna's 2025 statement identifies HASC and HAC-D membership as the read-in gate; Gallagher held HASC and HPSCI through the 118th Congress and chaired a select committee. Whether he was ever read in on UAP SAPs is unresolved and is a live research question.",
+"sources": [
+{
+"date": "2025-09-09",
+"name": "U.S. GPO, Hearing transcript, Serial No. 119-44 (CHRG-119hhrg61718)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm"
+}
+],
+"tier": "B",
+"type": "institutional"
+}
+],
+"date": "2024-04-19",
+"dateEnd": null,
+"dateStart": "2024-04-19",
+"deg": 1,
+"denials": [],
+"domains": [
+"congress-house"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "mike-gallagher",
+"instId": "house-oversight-committee",
+"l0": false,
+"label": "Michael John Gallagher",
+"loc": "Green Bay, WI",
+"locId": null,
+"members": null,
+"narrative": "Gallagher is included here as a structural node rather than an established actor, and the board should say so plainly. He was a Marine Corps intelligence officer, served on the House Armed Services Committee and the Permanent Select Committee on Intelligence, and chaired the Select Committee on the Strategic Competition between the United States and the Chinese Communist Party in the 118th Congress before resigning his seat on 19 April 2024. That combination - HASC and HPSCI seats simultaneously - is precisely the access profile that Luna's September 2025 statement identified as the gate: he was in the category of member eligible to be read in on the special access programs Oversight was told it could not reach. He does not appear as a speaker in any of the three House UAP hearing transcripts and no UAP-specific action by him was located in searches conducted for this domain. He is retained as a node because the intersection of his committee assignments with the SAP read-in gate is exactly the kind of thing later research should resolve, and because his absence from the disclosure caucus despite that access is itself a datum.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Michael John Gallagher",
+"sources": [
+{
+"date": "2025-09-09",
+"name": "U.S. GPO, Hearing transcript, Serial No. 119-44 (CHRG-119hhrg61718)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm"
+}
+],
+"status": "former",
+"sub": "Former U.S. Rep. (R-WI-8); Chair, Select Committee on the CCP; resigned April 2024",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 975 of 1027, score 10). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A2/D1.",
+"timeline": [],
+"unexplainedResidual": null,
+"unverified": [
+"No UAP-specific statement, letter, amendment or briefing attendance by Rep. Gallagher was located in the sources searched for this domain. Any UAP role attributed to him elsewhere should be treated as unsourced until a primary record is found."
+]
+}

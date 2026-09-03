@@ -1,0 +1,255 @@
+{
+"A": 1,
+"C": 0,
+"D": 3,
+"affiliations": [
+"U.S. House of Representatives, AZ-2 (2023- )",
+"Committee on Oversight and Government Reform (2025- )",
+"Task Force on the Declassification of Federal Secrets (2025- )",
+"U.S. Navy SEAL (2001-2013)",
+"US House of Representatives, AZ-02 (2023- )",
+"Task Force on the Declassification of Federal Secrets"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "2025-07-24",
+"event": "Writes the Department of Defense on behalf of Major David Charles Grusch regarding reprisal.",
+"precision": "day"
+},
+{
+"date": "2025-07-24",
+"event": "Writes to DoD on behalf of Grusch citing clearance removal, denied promotion and lost medical retirement",
+"precision": "day"
+},
+{
+"date": "2025-08-29",
+"event": "Cosponsors H.R. 5060, the UAP Whistleblower Protection Act.",
+"precision": "day"
+},
+{
+"date": "2025-09-09",
+"event": "Enters the Grusch reprisal letter into the hearing record; states DoD has not replied.",
+"precision": "day"
+},
+{
+"date": "2025-09-09",
+"event": "Enters the letter into the Task Force hearing record and reports no reply received",
+"precision": "day"
+}
+],
+"claims": [
+{
+"source": "CHRG-119hhrg61718 INDEX OF DOCUMENTS",
+"text": "Submitted for the record of the 9 September 2025 hearing a 'Letter to SECDEF Regarding Major David Charles Grusch Reprisal', listed in the printed INDEX OF DOCUMENTS of CHRG-119hhrg61718.",
+"tier": 1
+},
+{
+"source": "Rep. Eli Crane, 9 September 2025, GPO CHRG-119hhrg61718",
+"text": "'I would like to enter into the testimony a letter I sent to the DOD regarding the case of Major David Charles Grusch, a UAP whistleblower who has been extremely helpful to this Committee. Unfortunately, due to his participation in the disclosure of UAP, he suffered reprisal like the removal of his clearance, denial of promotion, and loss of medical retirement. I wrote the DOD on July 24, 2025, on behalf of Major Grusch, and I am still waiting for a reply.'",
+"tier": 1
+},
+{
+"source": "CHRG-119hhrg61718, Index of Documents",
+"text": "The hearing's printed Index of Documents lists 'Letter to SECDEF Regarding Major David Charles Grusch Reprisal; submitted by Rep. Crane.'",
+"tier": 1
+},
+{
+"source": "Congress.gov, H.R. 5060 (119th Congress), cosponsor record",
+"text": "Cosponsor of H.R. 5060, the UAP Whistleblower Protection Act, introduced 29 August 2025.",
+"tier": 1
+},
+{
+"source": "Rep. Eli Crane, Task Force on the Declassification of Federal Secrets hearing record, Serial No. 119-44, 9 September 2025",
+"text": "'I would like to enter into the testimony a letter I sent to the DOD regarding the case of Major David Charles Grusch, a UAP whistleblower who has been extremely helpful to this Committee. Unfortunately, due to his participation in the disclosure of UAP, he suffered reprisal like the removal of his clearance, denial of promotion, and loss of medical retirement. I wrote the DOD on July 24, 2025, on behalf of Major Grusch, and I am still waiting for a reply.'",
+"tier": 1
+},
+{
+"source": "Index of documents, Serial No. 119-44, 9 September 2025",
+"text": "The hearing's index of documents lists 'Letter to SECDEF Regarding Major David Charles Grusch Reprisal; submitted by Rep. Crane.'",
+"tier": 1
+}
+],
+"cls": "person",
+"cluster": "other",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "2025",
+"dateStart": "2025",
+"direction": "out",
+"edgeLabel": "Author; wrote DoD 24 July 2025 on Grusch's reprisal",
+"id": "crane-dod-reprisal-letter",
+"l0": false,
+"label": "Rep. Eli Crane letter to the Secretary of Defense re: Major David Charles Grusch reprisal",
+"note": "Crane enumerated three specific adverse actions - clearance removal, denial of promotion, loss of medical retirement - and entered the letter into the hearing record on 9 September 2025 reporting no reply.",
+"sources": [
+{
+"date": "2025-09-09",
+"name": "Task Force hearing record, Serial No. 119-44",
+"url": "https://www.congress.gov/119/chrg/CHRG-119hhrg61718/CHRG-119hhrg61718.pdf"
+}
+],
+"tier": "C",
+"type": "legislative"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": "2025",
+"direction": "out",
+"edgeLabel": "Author; entered it into the hearing record while still awaiting a reply",
+"id": "crane-secdef-grusch-reprisal-letter-2025",
+"l0": false,
+"label": "Rep. Crane letter to the Secretary of Defense on Grusch reprisal, 24 July 2025",
+"note": "Three enumerated adverse actions against the credible-and-urgent whistleblower.",
+"sources": [
+{
+"date": "2025-09-09",
+"name": "U.S. GPO, Hearing transcript, Serial No. 119-44 (CHRG-119hhrg61718)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm"
+}
+],
+"tier": "C",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2025",
+"direction": "in",
+"edgeLabel": "Did not answer his 24 July 2025 letter on the reprisal against Grusch",
+"id": "dod",
+"l0": true,
+"label": "United States Department of Defense (secondary designation: Department of War)",
+"note": "Crane stated on the record on 9 September 2025 that he was still waiting for a reply six weeks later.",
+"sources": [
+{
+"date": "2025-09-09",
+"name": "U.S. GPO, Hearing transcript, Serial No. 119-44 (CHRG-119hhrg61718)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm"
+}
+],
+"tier": "A",
+"type": "denial"
+},
+{
+"claimTier": 1,
+"cls": "legislation",
+"dateEnd": null,
+"dateStart": "2025",
+"direction": "out",
+"edgeLabel": "Cosponsor",
+"id": "hr-5060-uap-whistleblower-protection-act",
+"l0": false,
+"label": "H.R. 5060 - UAP Whistleblower Protection Act (119th Congress)",
+"note": "Congress.gov cosponsor record; Crane also entered the Grusch reprisal letter into the record of the hearing that followed.",
+"sources": [
+{
+"date": "2025-08-29",
+"name": "Congress.gov, H.R. 5060 — UAP Whistleblower Protection Act (119th Congress)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/5060"
+}
+],
+"tier": "C",
+"type": "legislative"
+}
+],
+"date": "2025-07-24",
+"dateEnd": null,
+"dateStart": "2025-07-24",
+"deg": 4,
+"denials": [
+{
+"by": {
+"id": "dod",
+"label": "United States Department of Defense (secondary designation: Department of War)"
+},
+"claimTier": 1,
+"denialKind": "directed",
+"label": "Did not answer his 24 July 2025 letter on the reprisal against Grusch",
+"note": "Crane stated on the record on 9 September 2025 that he was still waiting for a reply six weeks later.",
+"of": {
+"id": "eli-crane",
+"label": "Elijah Crane"
+},
+"sources": [
+{
+"date": "2025-09-09",
+"name": "U.S. GPO, Hearing transcript, Serial No. 119-44 (CHRG-119hhrg61718)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm"
+}
+]
+}
+],
+"domains": [
+"_rs-legislation",
+"congress-house",
+"grusch"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "eli-crane",
+"instId": "house-oversight-committee",
+"l0": false,
+"label": "Elijah Crane",
+"loc": "Oro Valley, AZ",
+"locId": null,
+"members": null,
+"narrative": "Crane produced the single most specific piece of documented retaliation evidence in the House record. A former Navy SEAL, he sits on the Task Force on the Declassification of Federal Secrets and cosponsored Burchett's H.R. 5060. On 24 July 2025 he wrote the Department of Defense on behalf of Major David Charles Grusch, and on 9 September 2025 he entered that letter into the hearing record while stating that he was still waiting for a reply. His description of what happened to Grusch is the operative fact: 'due to his participation in the disclosure of UAP, he suffered reprisal like the removal of his clearance, denial of promotion, and loss of medical retirement.' That is three discrete adverse actions against the government's own credible-and-urgent whistleblower, stated by a sitting member on a hearing record, with a letter to the Department unanswered for six weeks and counting. Crane also told the witnesses at that hearing that he had grown up thinking the subject was 'a little kooky' and had become a believer after hearing servicemembers testify and seeing the Yemen footage Burlison played.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Elijah Crane",
+"sources": [
+{
+"date": "2025-09-09",
+"name": "CHRG-119hhrg61718, printed hearing transcript, 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection', Serial No. 119-44",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/pdf/CHRG-119hhrg61718.pdf"
+},
+{
+"date": "2025-09-09",
+"name": "U.S. GPO, Hearing transcript, Serial No. 119-44 (CHRG-119hhrg61718)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm"
+},
+{
+"date": "2025-08-29",
+"name": "Congress.gov, H.R. 5060 — UAP Whistleblower Protection Act (119th Congress)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/5060"
+},
+{
+"date": "2025-08-29",
+"name": "U.S. GPO, H.R. 5060 (119th), UAP Whistleblower Protection Act, as introduced",
+"url": "https://www.govinfo.gov/content/pkg/BILLS-119hr5060ih/html/BILLS-119hr5060ih.htm"
+},
+{
+"date": "2025-09-08",
+"name": "MeriTalk: Reps. Reintroduce UAP Whistleblower Protection Bill",
+"url": "https://www.meritalk.com/articles/reps-reintroduce-uap-whistleblower-protection-bill/"
+},
+{
+"date": "2025-09-09",
+"name": "Task Force on the Declassification of Federal Secrets hearing record, Serial No. 119-44",
+"url": "https://www.congress.gov/119/chrg/CHRG-119hhrg61718/CHRG-119hhrg61718.pdf"
+}
+],
+"status": "active",
+"sub": "U.S. Rep. (R-AZ-2); wrote DoD on Grusch's reprisal; cosponsor H.R. 5060",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 320 of 1027, score 35). 4 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D3.",
+"timeline": [],
+"unexplainedResidual": "A sitting member formally notified the Secretary of Defense that a whistleblower had lost his clearance, his promotion and his medical retirement for making a protected disclosure - and got no answer on the record.",
+"unverified": [
+"Whether DoD ever replied to the 24 July 2025 letter; the date and authority of the clearance revocation."
+]
+}

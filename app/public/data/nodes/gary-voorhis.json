@@ -1,0 +1,180 @@
+{
+"A": 1,
+"C": 1,
+"D": 1,
+"affiliations": [
+"US Navy",
+"USS Princeton (CG-59), Carrier Strike Group 11 (2004)"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "2004-11-14",
+"event": "On board USS Princeton as CEC/Aegis technician during the Tic Tac intercept",
+"precision": "day"
+},
+{
+"date": "2004-11-15",
+"event": "Says he was directed to surrender or wipe recording media (attributed account, no primary record located)",
+"precision": "day"
+},
+{
+"date": "2018-01-01",
+"event": "Begins giving public interviews after the December 2017 FLIR1 release",
+"precision": "year"
+}
+],
+"claims": [
+{
+"source": "Gary Voorhis, public documentary and broadcast interviews from 2018; no primary record located as of Aug 2026",
+"text": "Data recording media covering the Princeton's tracking of the objects were collected or ordered wiped by unidentified personnel in the days after 14 Nov 2004. Reasoning: the account is independently given by two Princeton crewmen in different billets, and the Navy has never produced Princeton sensor data for the date despite the incident being formally documented in its own range fouler reporting - an absence consistent with, though not proof of, removal.",
+"tier": 3
+},
+{
+"source": "Navy range fouler reports, Navy FOIA reading room, 13 January 2023, reported by The War Zone",
+"text": "The 14 Nov 2004 incident is formally documented in Navy range fouler reporting released via FOIA in January 2023, which records that reporting terminated at 3rd Fleet with no process to share it.",
+"tier": 1
+}
+],
+"cls": "person",
+"cluster": "witness",
+"conflicts": [
+"Directly contradicts Fravor's sworn 'tapes were never taken' if read as a fleet-wide claim; compatible if read as Princeton-specific."
+],
+"connections": [
+{
+"claimTier": 3,
+"cls": "person",
+"dateEnd": "2004",
+"dateStart": "2004",
+"direction": "in",
+"edgeLabel": "Independent shipmate corroboration of the post-encounter data collection",
+"id": "kevin-day",
+"l0": false,
+"label": "Kevin Day",
+"note": "Two Princeton crewmen in unrelated divisions give converging accounts of unidentified personnel removing recorded material - evidentiary convergence short of documentary proof.",
+"sources": [
+{
+"date": "2023-01-14",
+"name": "The War Zone - Tic Tac incident in newly released range fouler reports",
+"url": "https://www.twz.com/tic-tac-uap-incident-included-in-72-newly-released-range-incursion-reports"
+}
+],
+"tier": "C",
+"type": "witness-chain"
+},
+{
+"claimTier": 3,
+"cls": "event",
+"dateEnd": "2004-11-18",
+"dateStart": "2004-11-15",
+"direction": "out",
+"edgeLabel": "Voorhis describes removal or wiping of Princeton recording media",
+"id": "nimitz-2004",
+"l0": true,
+"label": "USS Nimitz Carrier Strike Group Encounters, 10-16 November 2004",
+"note": "Voorhis, a CEC/Aegis technician, has said in public interviews since 2018 that he was directed to hand over or wipe recording media and that unrecognised personnel were aboard collecting. Reasoning: no primary record naming those personnel has been located.",
+"sources": [
+{
+"date": "2023-01-13",
+"name": "The War Zone - Tic Tac incident in newly released range fouler reports",
+"url": "https://www.twz.com/tic-tac-uap-incident-included-in-72-newly-released-range-incursion-reports"
+}
+],
+"tier": "A",
+"type": "custody"
+},
+{
+"claimTier": 3,
+"cls": "institution",
+"dateEnd": "2004",
+"dateStart": "2004",
+"direction": "out",
+"edgeLabel": "Says recording media were surrendered or wiped after 14 Nov 2004",
+"id": "uss-princeton",
+"l0": false,
+"label": "USS Princeton (CG-59)",
+"note": "The confiscation account rests on Voorhis and Day, in different billets, describing the same 48-hour window. No document, log entry or chain-of-custody form corroborating it has been located.",
+"sources": [
+{
+"date": "2023-01-14",
+"name": "The War Zone - Tic Tac incident in newly released range fouler reports",
+"url": "https://www.twz.com/tic-tac-uap-incident-included-in-72-newly-released-range-incursion-reports"
+}
+],
+"tier": "B",
+"type": "custody"
+},
+{
+"claimTier": 2,
+"cls": "institution",
+"dateEnd": "2004",
+"dateStart": "2004",
+"direction": "out",
+"edgeLabel": "CEC/Aegis systems technician aboard USS Princeton, Nov 2004",
+"id": "uss-princeton",
+"l0": false,
+"label": "USS Princeton (CG-59)",
+"note": "Voorhis's technical billet placed him at the node where the encounter's recorded machine data physically lived.",
+"sources": [
+{
+"date": "2023-01-14",
+"name": "The War Zone - Tic Tac incident in newly released range fouler reports",
+"url": "https://www.twz.com/tic-tac-uap-incident-included-in-72-newly-released-range-incursion-reports"
+}
+],
+"tier": "B",
+"type": "institutional"
+}
+],
+"date": "2004-11-15",
+"dateEnd": null,
+"dateStart": "2004-11-15",
+"deg": 3,
+"denials": [],
+"domains": [
+"aviators-incidents"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "2",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "gary-voorhis",
+"instId": "uss-princeton",
+"l0": false,
+"label": "Gary Voorhis",
+"loc": "United States",
+"locId": "l-socal-oparea",
+"members": null,
+"narrative": "Voorhis was a Cooperative Engagement Capability and Aegis systems technician aboard USS Princeton in November 2004, which put him at the exact node where the incident's machine record lived - the tapes and drives that captured what the SPY-1B and the CEC network saw. His public account, given repeatedly in documentary and broadcast interviews from 2018 onward, is that in the days after the intercept he was directed to hand over or wipe recording media, including data-tape cartridges, and that personnel he did not recognise were aboard doing the collecting. If accurate, it is the cleanest single instance of the program's evidence-handling behaviour in the entire modern aviator record: not a denial, not a classification decision anyone signed in public, but a physical removal of the primary sensor product within days. It has not been corroborated by any released document. The Navy has never produced Princeton radar data for 14 November 2004, and the FOIA-released range fouler report for the incident says only that reporting 'terminated at 3rd Fleet.' Voorhis is carried at tier C precisely because the claim is important enough that it must not be over-graded.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Gary Voorhis",
+"sources": [
+{
+"date": "2023-01-14",
+"name": "The War Zone - Tic Tac incident in newly released range fouler reports",
+"url": "https://www.twz.com/tic-tac-uap-incident-included-in-72-newly-released-range-incursion-reports"
+},
+{
+"date": "2023-07-26",
+"name": "House Oversight - Fravor written statement (PDF)",
+"url": "https://oversight.house.gov/wp-content/uploads/2023/07/David-Fravor-Statement-for-House-Oversight-Committee.pdf"
+}
+],
+"status": "active",
+"sub": "Petty Officer, CEC/Aegis computer and radar technician, USS Princeton (CG-59), Nov 2004",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 578 of 1027, score 26). 4 connections, 3 of them custody/witness/funding/programmatic. Axes C1/A1/D1.",
+"timeline": [],
+"unexplainedResidual": null,
+"unverified": [
+"Any documentary trace of the collection: chain-of-custody form, message, work order, or log entry.",
+"Whether Princeton's CEC recorded data for the period was retained, destroyed on a routine cycle, or removed."
+]
+}

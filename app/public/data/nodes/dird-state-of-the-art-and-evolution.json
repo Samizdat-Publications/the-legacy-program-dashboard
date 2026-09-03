@@ -1,0 +1,237 @@
+{
+"A": 0,
+"C": 0,
+"D": 0,
+"band": null,
+"claims": [
+{
+"source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237622/",
+"text": "Defense Intelligence Reference Document titled \"State of the Art and Evolution of High-Energy Laser Weapons\", series \"Acquisition Threat Support\", published 2010-03-31 with an Intelligence Cut-Off Date (ICOD) of 2009-12-01, DIA document number DIA-08-1003-019. Released by DIA under FOIA and posted in the DIA FOIA Electronic Reading Room.",
+"tier": 1
+},
+{
+"source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237622/",
+"text": "Inside cover reads: \"This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency [redacted b(3) 10 USC 424] Advanced Aerospace Weapon System Applications (AAWSA) Program\" and directs questions to the \"AAWSA Program Manager, Defense Intelligence Agency, ATTN: [redacted], Bldg 6000, Washington, DC 20340-5100\".",
+"tier": 1
+},
+{
+"source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237622/",
+"text": "Author name is withheld in the DIA-released copy under FOIA exemption (b)(6); the \"Prepared by:\" line is withheld under (b)(3) 10 USC 424. The released cover therefore does not attribute the DIRD to a named author.",
+"tier": 1
+},
+{
+"source": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"text": "Author of record per the DIA letter of 9 January 2018, which lists the paper twice: item 37 \"State of the Art and Evaluation of High Energy Laser Weapons, J Albertine, Directed technologies. (Formerly classified SECRET/NOFORN.)\" and item 38, the same title and author unclassified.",
+"tier": 2
+},
+{
+"source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_23-DIRD_State_of_the_Art_and_Evolution_of_High-Energy_Laser_Weapons.pdf",
+"text": "The released cover page reads \"31 March 2010 / ICOD: 1 December 2009 / DIA-08-1003-019,\" series \"Acquisition Threat Support.\" The author line is redacted under (b)(6).",
+"tier": 1
+},
+{
+"source": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"text": "The DIA list renders the title as \"State of the Art and Evaluation of High Energy Laser Weapons\" while the released document is titled \"State of the Art and Evolution of High-Energy Laser Weapons.\" Evaluation versus Evolution is an unresolved discrepancy between the government list and the government document.",
+"tier": 2
+},
+{
+"source": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"text": "This document accounts for the long-unexplained 38th entry on the AAWSAP deliverables list, which the earlier KLAS-TV list of July 2018 carried only as \"Redacted.\" It is the sole DIRD known to have had a classified version, making it the only classified deliverable in the set.",
+"tier": 2
+}
+],
+"cls": "document",
+"cluster": "other",
+"connections": [
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "AAWSAP deliverable; the only one with a classified version",
+"id": "aawsap",
+"l0": true,
+"label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)",
+"note": "The released document names the programme itself. Its inside cover reads 'This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency ... Advanced Aerospace Weapon System Applications (AAWSA) Program' - the redaction between them is (b)(3):10 USC 424. Verified by downloading this DIRD and scanning its full text on 23 August 2026. The scans are OCR-degraded, so the quotation is normalised from the damaged rendering.",
+"sources": [
+{
+"date": "2010-03-31",
+"name": "Defense Intelligence Reference Document, \"State of the Art and Evolution of High-Energy Laser Weapons\" (The Black Vault FOIA release)",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_23-DIRD_State_of_the_Art_and_Evolution_of_High-Energy_Laser_Weapons.pdf"
+},
+{
+"date": "2022-03-31",
+"name": "The Black Vault, AAWSAP DIRD directory index (37 released DIRDs plus FOIA case file 00159-2018)",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/"
+},
+{
+"date": null,
+"name": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html",
+"url": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html"
+}
+],
+"tier": "A",
+"type": "programmatic"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "published by DIA as DIA-08-1003-019, Acquisition Threat Support series",
+"id": "dia",
+"l0": true,
+"label": "Defense Intelligence Agency",
+"note": "DIA commissioned, holds and released this document. It carries a DIA document number in the DIA-08-xxxx-xxx series on its cover and was released through the DIA FOIA Electronic Reading Room, whose FileId entry is cited here alongside the retrievable copy. Cover page read on 22 August 2026.",
+"sources": [
+{
+"date": "2010-03-31",
+"name": "Defense Intelligence Reference Document, \"State of the Art and Evolution of High-Energy Laser Weapons\" (The Black Vault FOIA release)",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_23-DIRD_State_of_the_Art_and_Evolution_of_High-Energy_Laser_Weapons.pdf"
+},
+{
+"date": "2022-03-31",
+"name": "The Black Vault, AAWSAP DIRD directory index (37 released DIRDs plus FOIA case file 00159-2018)",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "DIRD",
+"id": "dird-series",
+"l0": true,
+"label": "The 38 Defense Intelligence Reference Documents (DIRDs)",
+"note": "Membership of the DIRD series is established by the released document itself: its cover page carries the Defense Intelligence Reference Document mark and the DIA Defense Futures banner. Publication date 31 March 2010 on the cover. 32 pages in the released copy. The cover of the scanned release is degraded, so a document number or date is asserted here only where it reads unambiguously.",
+"sources": [
+{
+"date": "2026-08-22",
+"name": "Released DIRD, 'State of the Art and Evolution of High-Energy Laser Weapons' (FOIA copy, cover page read 22 August 2026)",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_23-DIRD_State_of_the_Art_and_Evolution_of_High-Energy_Laser_Weapons.pdf"
+},
+{
+"date": "2026-08-22",
+"name": "DIA FOIA Electronic Reading Room, AAWSAP/AATIP reference-document entry",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237622/"
+}
+],
+"tier": "A",
+"type": "programmatic"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "author of record on the DIA list, both versions",
+"id": "john-albertine",
+"l0": false,
+"label": "J. Albertine",
+"note": "The DIA letter lists this paper twice, items 37 and 38, both credited to J Albertine of Directed Technologies: one formerly classified SECRET//NOFORN, one unclassified. The board node is labelled with the initial because no source consulted confirms the given name; the probable identification with John R. Albertine of the Navy High Energy Laser Program Office is carried as a tier-3 claim on the person node.",
+"sources": [
+{
+"date": "2026-08-22",
+"name": "Released DIRD, 'State of the Art and Evolution of High-Energy Laser Weapons' — FOIA copy, cover page read 22 August 2026",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_23-DIRD_State_of_the_Art_and_Evolution_of_High-Energy_Laser_Weapons.pdf"
+},
+{
+"date": "2026-08-22",
+"name": "DIA FOIA Electronic Reading Room entry for this reference document",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237622/"
+},
+{
+"date": "2026-08-23",
+"name": "DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations",
+"url": "https://fas.org/publication/aatip-list/"
+},
+{
+"date": null,
+"name": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html",
+"url": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html"
+},
+{
+"date": null,
+"name": "https://irp.fas.org/dia/aatip-list.pdf",
+"url": "https://irp.fas.org/dia/aatip-list.pdf"
+}
+],
+"tier": "C",
+"type": "research"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": null,
+"deg": 4,
+"denials": [],
+"desc": "DIA Defense Intelligence Reference Document (Acquisition Threat Support series), 2010-03-31, DIA-08-1003-019, produced under the Advanced Aerospace Weapon System Applications (AAWSA/AAWSAP) Program contract with BAASS. Released under FOIA.",
+"domains": [
+"_rs-aawsap-dirds",
+"_rs-archive-mirror",
+"w7-dirds-4"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "nd",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "dird-state-of-the-art-and-evolution",
+"l0": false,
+"label": "State of the Art and Evolution of High-Energy Laser Weapons",
+"locLabel": null,
+"members": null,
+"short": "State of the Art and Evolution of High-Energy Laser Weapons",
+"sources": [
+{
+"date": "2010-03-31",
+"name": "DIA FOIA Reading Room — State of the Art and Evolution of High-Energy Laser Weapons (PDF)",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237622/"
+},
+{
+"date": "2022-03",
+"name": "DIA FOIA Electronic Reading Room — AAWSAP/AATIP collection",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/"
+},
+{
+"date": "2025-03-12",
+"name": "Archived: DIA FOIA Reading Room — State of the Art and Evolution of High-Energy Laser Weapons (PDF) (Wayback 2025-03-12)",
+"url": "https://web.archive.org/web/20250312120228/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170045/"
+},
+{
+"date": "2026-06-11",
+"name": "Archived: DIA FOIA Electronic Reading Room — AAWSAP/AATIP collection (Wayback 2026-06-11)",
+"url": "https://web.archive.org/web/20260611124158/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/"
+},
+{
+"date": "2010-03-31",
+"name": "Defense Intelligence Reference Document, \"State of the Art and Evolution of High-Energy Laser Weapons\" (The Black Vault FOIA release)",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_23-DIRD_State_of_the_Art_and_Evolution_of_High-Energy_Laser_Weapons.pdf"
+},
+{
+"date": "2019-01-17",
+"name": "Keith Basterfield, transcription of the DIA letter of 9 January 2018 and its three-page attachment",
+"url": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html"
+},
+{
+"date": "2022-03-31",
+"name": "The Black Vault, AAWSAP DIRD directory index (37 released DIRDs plus FOIA case file 00159-2018)",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/"
+}
+],
+"sub": "defense-intelligence-reference-document",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 525 of 1027, score 28). 4 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A0/D0.",
+"timeline": []
+}

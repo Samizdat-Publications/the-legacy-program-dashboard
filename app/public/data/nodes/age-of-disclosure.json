@@ -1,0 +1,160 @@
+{
+"A": 1,
+"C": 0,
+"D": 3,
+"band": null,
+"claims": [
+{
+"source": "The Age of Disclosure official trailer and teaser descriptions, 2025",
+"text": "The film features 34 senior members of the US Government, military and intelligence community and reveals an alleged 80-year global cover-up of non-human intelligent life and a secret war.",
+"tier": 2
+},
+{
+"source": "The Age of Disclosure official teaser description",
+"text": "On-record participants include General James Clapper, Secretary Marco Rubio, Representative Andre Carson and Jay Stratton, former director of the US Government's UAP Task Force.",
+"tier": 2
+},
+{
+"source": "Contemporaneous festival preview coverage, March 2025",
+"text": "The film premiered at SXSW in Austin, Texas on 9 March 2025.",
+"tier": 2
+}
+],
+"cls": "document",
+"cluster": "media",
+"connections": [
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2025",
+"dateStart": "2025",
+"direction": "in",
+"edgeLabel": "Director and producer",
+"id": "dan-farah",
+"l0": false,
+"label": "Dan Farah",
+"note": "Farah directed and produced the film that premiered at SXSW on 9 March 2025.",
+"sources": [
+{
+"date": "2025-03-09",
+"name": "The Age of Disclosure - trailer",
+"url": "https://www.youtube.com/watch?v=DkU7ZqbADRs"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 2,
+"cls": "document",
+"dateEnd": "2026",
+"dateStart": "2026",
+"direction": "in",
+"edgeLabel": "Gerb cites the film's characterisation of the Air Force",
+"id": "gerb-hidden-wing",
+"l0": false,
+"label": "UAP Gerb - 'The Hidden Wing' (USAF structure)",
+"note": "The Hidden Wing description notes the Air Force being 'labeled as a critical Crash Retrieval element in 2025's Age of Disclosure', using the film as a corroborating reference.",
+"sources": [
+{
+"date": "2026-01-30",
+"name": "UAP Gerb - 'The Hidden Wing'",
+"url": "https://www.youtube.com/watch?v=-IXSZe4xVv4"
+}
+],
+"tier": "B",
+"type": "investigative"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2025",
+"dateStart": "2025",
+"direction": "out",
+"edgeLabel": "Former UAP Task Force director appears on record",
+"id": "jay-stratton",
+"l0": false,
+"label": "Jay Stratton",
+"note": "Stratton, former director of the government's UAP Task Force, is named in the film's promotional materials as a participant.",
+"sources": [
+{
+"date": "2025-11-01",
+"name": "The Age of Disclosure - teaser",
+"url": "https://www.youtube.com/watch?v=AZo-Q-FXoXM"
+}
+],
+"tier": "A",
+"type": "witness-chain"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2025",
+"dateStart": "2025",
+"direction": "out",
+"edgeLabel": "Rubio appears on record in the documentary",
+"id": "marco-rubio",
+"l0": false,
+"label": "Marco Rubio",
+"note": "A sitting Secretary of State appearing in a film premised on an 80-year cover-up is a first-order fact about the coherence of the official denial posture.",
+"sources": [
+{
+"date": "2025-11-01",
+"name": "The Age of Disclosure - teaser",
+"url": "https://www.youtube.com/watch?v=AZo-Q-FXoXM"
+}
+],
+"tier": "B",
+"type": "witness-chain"
+}
+],
+"coords": null,
+"dateEnd": "2025",
+"dateStart": "2025",
+"deg": 4,
+"denials": [],
+"desc": "The Age of Disclosure premiered at SXSW in Austin on 9 March 2025 and is the highest-status artefact the disclosure movement has produced. Directed and produced by Dan Farah, it features thirty-four senior members of the US government, military and intelligence community asserting an eighty-year global cover-up of non-human intelligent life and a secret war. The roster is what makes it structurally load-bearing rather than merely persuasive: former Director of National Intelligence James Clapper, Senator and Secretary of State Marco Rubio, Representative Andre Carson, and Jay Stratton, former director of the government's UAP Task Force, all appear. This is the point at which the denial posture becomes internally incoherent - the same government that maintains through AARO that no verifiable evidence of a concealed reverse-engineering programme exists has a sitting Secretary of State and a former DNI on camera in a film premised on exactly that concealment. UAP Gerb repeatedly cites the film as a reference point, including in his 30 January 2026 Hidden Wing investigation, which notes the Air Force being 'labeled as a critical Crash Retrieval element in 2025's Age of Disclosure'.",
+"domains": [
+"media-structure"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "age-of-disclosure",
+"l0": false,
+"label": "The Age of Disclosure (documentary, 2025)",
+"locLabel": null,
+"members": null,
+"short": "The Age of Disclosure (documentary, 2025)",
+"sources": [
+{
+"date": "2025-03-09",
+"name": "The Age of Disclosure - Official Trailer (2025)",
+"url": "https://www.youtube.com/watch?v=DkU7ZqbADRs"
+},
+{
+"date": "2025-11-01",
+"name": "The Age of Disclosure - Official Teaser",
+"url": "https://www.youtube.com/watch?v=AZo-Q-FXoXM"
+}
+],
+"sub": "Feature documentary, dir. Dan Farah",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 622 of 1027, score 25). 4 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A1/D3.",
+"timeline": [
+{
+"date": "2025-03-09",
+"id": "ms-2025-aod",
+"label": "The Age of Disclosure premieres at SXSW",
+"precision": "day",
+"strand": "program",
+"text": "Dan Farah's documentary premieres in Austin with 34 senior government, military and intelligence figures on record, including James Clapper, Marco Rubio, Andre Carson and Jay Stratton.",
+"tier": "A"
+}
+]
+}

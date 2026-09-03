@@ -1,0 +1,187 @@
+{
+"A": 3,
+"C": 3,
+"D": 1,
+"band": null,
+"claims": [
+{
+"source": "GAO-04-332, Industrial Security",
+"text": "GAO-04-332 found that DoD could not provide adequate assurances that its oversight ensures the protection of classified information at contractor facilities.",
+"tier": 1
+},
+{
+"source": "House Oversight Committee hearing, 26 July 2023",
+"text": "David Grusch testified on 26 July 2023 that material and programmes had been placed with defence contractors outside congressional oversight.",
+"tier": 2
+},
+{
+"source": "Newsmax, 16 May 2026",
+"text": "In May 2026 a group of House Republicans led by Rep. Eric Burlison sent a letter targeting private UFO contractors.",
+"tier": 2
+}
+],
+"cls": "domain",
+"cluster": "contractor",
+"connections": [
+{
+"claimTier": 2,
+"cls": "domain",
+"dateEnd": null,
+"dateStart": "1943-06-01",
+"direction": "in",
+"edgeLabel": "Advanced projects shops are the industrial home",
+"id": "d-aerospace",
+"l0": false,
+"label": "Aerospace Engineering & Advanced Projects",
+"note": "The organisations with facility clearances, SAP infrastructure and IRAD accounts are the only plausible industrial venue for an exploitation programme.",
+"sources": [
+{
+"date": "2004-03-03",
+"name": "GAO-04-332, Industrial Security",
+"url": "https://www.govinfo.gov/content/pkg/GAOREPORTS-GAO-04-332/html/GAOREPORTS-GAO-04-332.htm"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "domain",
+"dateEnd": null,
+"dateStart": "1947-01-01",
+"direction": "out",
+"edgeLabel": "The seam between government and industry",
+"id": "d-ffrdc-mechanism",
+"l0": false,
+"label": "The FFRDC Mechanism",
+"note": "FAR 35.017 gives the FFRDC access to both government classified holdings and contractor proprietary data - the only entity type that can see both sides of the compartment.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "FAR 35.017, Federally Funded Research and Development Centers",
+"url": "https://www.acquisition.gov/far/35.017"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 3,
+"cls": "domain",
+"dateEnd": null,
+"dateStart": "1967-07-04",
+"direction": "out",
+"edgeLabel": "Contractor records are outside the statute",
+"id": "d-foia",
+"l0": false,
+"label": "Freedom of Information Practice",
+"note": "FOIA reaches agency records; material moved into contractor custody leaves the statute's reach without any change in classification. Reasoning stated in the d-foia dossier.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "FAR 35.017, Federally Funded Research and Development Centers",
+"url": "https://www.acquisition.gov/far/35.017"
+},
+{
+"date": "2004-03-03",
+"name": "GAO-04-332, Industrial Security",
+"url": "https://www.govinfo.gov/content/pkg/GAOREPORTS-GAO-04-332/html/GAOREPORTS-GAO-04-332.htm"
+}
+],
+"tier": "C",
+"type": "denial"
+},
+{
+"claimTier": 2,
+"cls": "domain",
+"dateEnd": null,
+"dateStart": "1947-01-01",
+"direction": "in",
+"edgeLabel": "Analysis follows possession",
+"id": "d-materials",
+"l0": false,
+"label": "Materials and custody analysis",
+"note": "Material alleged to be held by primes cannot be independently analysed, which is why the custody question and the materials question cannot be separated.",
+"sources": [
+{
+"date": "2004-03-03",
+"name": "GAO-04-332, Industrial Security",
+"url": "https://www.govinfo.gov/content/pkg/GAOREPORTS-GAO-04-332/html/GAOREPORTS-GAO-04-332.htm"
+}
+],
+"tier": "B",
+"type": "custody"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "1947-01-01",
+"deg": 4,
+"denials": [
+{
+"by": {
+"id": "d-contractor",
+"label": "Prime Contractor Custody"
+},
+"claimTier": 3,
+"denialKind": "association",
+"label": "Contractor records are outside the statute",
+"note": "FOIA reaches agency records; material moved into contractor custody leaves the statute's reach without any change in classification. Reasoning stated in the d-foia dossier.",
+"of": {
+"id": "d-foia",
+"label": "Freedom of Information Practice"
+},
+"sources": [
+{
+"date": "2026-08-12",
+"name": "FAR 35.017, Federally Funded Research and Development Centers",
+"url": "https://www.acquisition.gov/far/35.017"
+},
+{
+"date": "2004-03-03",
+"name": "GAO-04-332, Industrial Security",
+"url": "https://www.govinfo.gov/content/pkg/GAOREPORTS-GAO-04-332/html/GAOREPORTS-GAO-04-332.htm"
+}
+]
+}
+],
+"desc": "Moving a programme into a prime contractor does not merely add secrecy - it changes the legal category of everything inside it. Contractor records are not agency records and so fall outside the Freedom of Information Act; contractor facilities are inspected by the Defense Counterintelligence and Security Agency rather than by congressional staff; and proprietary data markings restrict government-side circulation independently of classification. GAO reported in 2004 that DoD could not provide adequate assurance that its industrial security oversight was protecting classified information at contractor facilities - a finding about the mechanism's opacity from the government's own auditor. This is the structural reason the custody question and the contractor question are the same question: an object on a contractor's shelf is legally further from Congress than the same object on a government shelf, without any change in its classification. The named firms recur across sworn and named-source testimony rather than across documents, which is precisely why this domain is scored on the C axis and researched through contract data, facility clearance records and personnel movement. Scoring high here means an entity is alleged to hold material or to have managed those who do.",
+"domains": [
+"w2-taxonomy"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "d-contractor",
+"l0": false,
+"label": "Prime Contractor Custody",
+"locLabel": null,
+"members": null,
+"short": "Prime Contractor Custody",
+"sources": [
+{
+"date": "2004-03-03",
+"name": "GAO-04-332, Industrial Security",
+"url": "https://www.govinfo.gov/content/pkg/GAOREPORTS-GAO-04-332/html/GAOREPORTS-GAO-04-332.htm"
+},
+{
+"date": "2023-07-27",
+"name": "NPR - U.S. recovered non-human biologics from UFO crash sites, former intel official says",
+"url": "https://www.npr.org/2023/07/27/1190390376/ufo-hearing-non-human-biologics-uaps"
+},
+{
+"date": "2026-05-16",
+"name": "Newsmax - House GOP Letter Targets Private UFO Contractors",
+"url": "https://www.newsmax.com/newsfront/eric-burlison-gop-uap/2026/05/16/id/1256505/"
+}
+],
+"sub": "Industrial domain - the private firms alleged to hold material, and the legal shelter that creates",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 238 of 1027, score 41). 4 connections, 1 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C3/A3/D1.",
+"timeline": []
+}

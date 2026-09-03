@@ -1,0 +1,118 @@
+{
+"A": 0,
+"C": 0,
+"D": 3,
+"band": null,
+"claims": [
+{
+"source": "Publisher's imprint and library catalogue records — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"text": "'The Roswell Incident' by Charles Berlitz and William Moore was published in New York by Grosset & Dunlap in 1980, ISBN 978-0448211992.",
+"tier": 2
+},
+{
+"source": "Berlitz and Moore, 'The Roswell Incident' (1980), as cited in the Haut literature — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"text": "The book states that Walter Haut was 'not a witness'.",
+"tier": 2
+},
+{
+"source": "Structural inference from the 1980 text",
+"text": "The 1980 book's decision to combine the Foster ranch debris with the second-hand San Agustin account created the two-site problem that every subsequent Roswell scenario has had to solve, and none has. Reasoning: the sites are 175 miles apart and the combination was an editorial choice, not a witness claim.",
+"tier": 3
+}
+],
+"cls": "document",
+"cluster": "research",
+"connections": [
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "1980",
+"dateStart": "1978",
+"direction": "in",
+"edgeLabel": "Marcel's account is the spine of the 1980 book",
+"id": "jesse-marcel",
+"l0": false,
+"label": "Jesse A. Marcel Sr.",
+"note": "Berlitz and Moore built 'The Roswell Incident' on Friedman's Marcel material together with the second-hand Barney Barnett account.",
+"sources": [
+{
+"date": "1980-01-01",
+"name": "Charles Berlitz and William L. Moore, 'The Roswell Incident' (1980)",
+"url": "https://archive.org/details/charles-berlitz-william-l.-moore-the-roswell-incident-1980_202012"
+}
+],
+"tier": "A",
+"type": "witness-chain"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "1980",
+"dateStart": "1980",
+"direction": "in",
+"edgeLabel": "Co-authored the founding Roswell book",
+"id": "william-l-moore",
+"l0": false,
+"label": "William L. Moore",
+"note": "Charles Berlitz and William L. Moore, Grosset & Dunlap, 1980, ISBN 978-0448211992.",
+"sources": [
+{
+"date": "1980-01-01",
+"name": "Berlitz and Moore, 'The Roswell Incident' (1980)",
+"url": "https://archive.org/details/charles-berlitz-william-l.-moore-the-roswell-incident-1980_202012"
+}
+],
+"tier": "B",
+"type": "research"
+}
+],
+"coords": null,
+"dateEnd": "1980",
+"dateStart": "1980",
+"deg": 2,
+"denials": [],
+"desc": "The book that made Roswell a case. Charles Berlitz and William L. Moore built it on Stanton Friedman's February 1978 contact with Maj. Jesse Marcel Sr. and on the second-hand Barney Barnett material relayed by Vern Maltais, and its publication by Grosset & Dunlap in 1980 converted a thirty-three-year-old retracted press release into an active investigation that would eventually pull in a New Mexico congressman, the General Accounting Office, the Office of the Secretary of the Air Force and two official reports. Two features of the 1980 text are load-bearing for everything that followed. First, it introduced the two-site structure - debris on the Foster ranch, an intact craft elsewhere - by importing the San Agustin material, and that structural decision is the origin of the multi-crash constructions that later Roswell books could never reconcile. Second, it explicitly describes Walter Haut, the officer who wrote the 1947 press release, as 'not a witness' - a baseline against which Haut's subsequent 1989, 1993 and 2002 statements can be measured, and the reason his escalation is documentable rather than merely asserted. Moore's later admission that he had been cooperating with Air Force counterintelligence from around 1980 casts a provenance shadow over the whole publication window.",
+"domains": [
+"w2-retrieval-literature"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "1",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "the-roswell-incident-1980",
+"l0": false,
+"label": "The Roswell Incident (Berlitz and Moore, 1980)",
+"locLabel": null,
+"members": null,
+"short": "The Roswell Incident (Berlitz and Moore, 1980)",
+"sources": [
+{
+"date": "1980-01-01",
+"name": "Charles Berlitz and William L. Moore, 'The Roswell Incident' (1980) - copy at the Internet Archive",
+"url": "https://archive.org/details/charles-berlitz-william-l.-moore-the-roswell-incident-1980_202012"
+},
+{
+"date": "2026-08-12",
+"name": "Walter Haut - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/Walter_Haut"
+}
+],
+"sub": "Grosset & Dunlap, New York, 1980; ISBN 978-0448211992",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 872 of 1027, score 16). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D3.",
+"timeline": [
+{
+"date": "1980",
+"id": "tl-1980-roswell-incident",
+"label": "The Roswell Incident",
+"precision": "year",
+"strand": "program",
+"text": "Berlitz and Moore publish, combining Marcel's account with the second-hand Barney Barnett material and creating the two-site structure that no later Roswell scenario has reconciled. Haut is described in it as 'not a witness'.",
+"tier": "A"
+}
+]
+}

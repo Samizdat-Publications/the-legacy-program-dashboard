@@ -1,0 +1,87 @@
+{
+"A": 1,
+"C": 1,
+"D": 3,
+"band": null,
+"claims": [
+{
+"source": "The National Archives, UFO files page, August 2009",
+"text": "The National Archives' description of the August 2009 tranche: 'The files contain a wide range of UFO-related documents covering the years 1981-1996. Find out more about close encounters, stray satellites, bright lights and Britain's very own Roswell - Rendlesham Forest in Suffolk.'",
+"tier": 1
+},
+{
+"source": "The National Archives, UFO files page, August 2009",
+"text": "August 2009 tranche file list: DEFE 24/1948/1, 1959/1-1965/1, 1970/1, 1972/1, 1974/1-1976/1, 2086/1.",
+"tier": 1
+},
+{
+"source": "Inference from the Condign Volume 3 para 12 text and the location and personnel of the December 1980 events",
+"text": "The Rendlesham record is an unavoidable counter-example to Condign's denial of any UK-US collaboration on the topic, because the incident occurred at a US-operated base in the UK Air Defence Region and generated documents held on both sides. Reasoning: the physical facts of the case require at minimum that the two governments held overlapping records, whatever the DI55 staff's own access was.",
+"tier": 3
+}
+],
+"cls": "event",
+"cluster": "oversight",
+"connections": [
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": "2009-08",
+"dateStart": "2009-08",
+"direction": "in",
+"edgeLabel": "the August 2009 tranche carried the Rendlesham material",
+"id": "tna-ufo-release",
+"l0": false,
+"label": "The National Archives / MoD UFO File Release Programme (2008-2013)",
+"note": "The National Archives itself billed the tranche as containing 'Britain's very own Roswell - Rendlesham Forest in Suffolk'.",
+"sources": [
+{
+"date": "2009-08-01",
+"name": "TNA UFO files, August 2009",
+"url": "https://web.archive.org/web/2009/http://www.nationalarchives.gov.uk/ufos/"
+}
+],
+"tier": "C",
+"type": "custody"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "2009-08",
+"deg": 1,
+"denials": [],
+"desc": "The Rendlesham Forest incident of December 1980 - the events at RAF Woodbridge and RAF Bentwaters in Suffolk, then hosting United States Air Force units, that produced the Halt memorandum and the Halt tape - is the single case that dominates British UAP discussion, and The National Archives' own framing of the August 2009 tranche put it front and centre: the files, covering 1981 to 1996, invited the public to 'find out more about close encounters, stray satellites, bright lights and Britain's very own Roswell - Rendlesham Forest in Suffolk'. That tranche comprised DEFE 24/1948/1, DEFE 24/1959/1 to 1965/1, DEFE 24/1970/1 to 1976/1 and DEFE 24/2086/1. Rendlesham is the point at which the British and American records are physically the same record: the deputy base commander who wrote the memorandum was a United States Air Force officer, the base was a US-operated facility on British soil, and the MoD's own handling of the case sits inside DEFE 24. The case therefore sits directly across the sentence in Project Condign Volume 3 asserting that there is 'no intelligence exchange or access or collaboration of any sort' between the UK and the USA on the topic.",
+"domains": [
+"w2-international"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "2",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "ev-rendlesham-files",
+"l0": false,
+"label": "Release of the Rendlesham Forest files, August 2009 (DEFE 24/1948)",
+"locLabel": null,
+"members": null,
+"short": "Release of the Rendlesham Forest files, August 2009 (DEFE 24/1948)",
+"sources": [
+{
+"date": "2009-08-01",
+"name": "The National Archives - UFO files, August 2009 tranche",
+"url": "https://web.archive.org/web/2009/http://www.nationalarchives.gov.uk/ufos/"
+},
+{
+"date": "2006-05-15",
+"name": "Project Condign Volume 3 OCR",
+"url": "https://archive.org/download/condign-vol-2-1-258/Condign_Vol_3_1-48_djvu.txt"
+}
+],
+"sub": "MoD Rendlesham material released in the fourth National Archives tranche",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 653 of 1027, score 24). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A1/D3.",
+"timeline": []
+}

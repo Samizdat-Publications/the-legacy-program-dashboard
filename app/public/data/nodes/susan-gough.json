@@ -1,0 +1,894 @@
+{
+"A": 1,
+"C": 0,
+"D": 1,
+"affiliations": [
+"Office of the Assistant to the Secretary of Defense for Public Affairs (2017-2023)",
+"U.S. Army Reserve / psychological operations",
+"Office of the Assistant to the Secretary of Defense for Public Affairs, UAP spokesperson (c.2019-2024)",
+"Office of the Secretary of Defense, public affairs",
+"Office of the Secretary of Defense, Public Affairs"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "2017-10-01",
+"event": "Named recipient of Luis Elizondo's resignation correspondence, later released under FOIA",
+"precision": "month"
+},
+{
+"date": "2019-06-13",
+"event": "Authenticates the Reid 2009 SAP letter while reasserting that Elizondo had no assigned AATIP responsibilities",
+"precision": "day"
+},
+{
+"date": "2019-06-13",
+"event": "Tells The Black Vault the authenticated Reid memo 'makes no change to previous statements'; Elizondo 'had no assigned responsibilities for AATIP'.",
+"precision": "day"
+},
+{
+"date": "2019-12-06",
+"event": "States 'Neither AATIP nor AAWSAP were UAP related' and repudiates Sherwood's May 2019 acknowledgement.",
+"precision": "day"
+},
+{
+"date": "2020-06-03",
+"event": "Receives Elizondo's letter asserting he ran the program.",
+"precision": "day"
+},
+{
+"date": "2020-08-04",
+"event": "Announces establishment of the UAP Task Force on behalf of DoD",
+"precision": "day"
+},
+{
+"date": "2021-05-21",
+"event": "Issues an updated statement conceding AATIP research drew on UAP reports while denying UAP was its purpose.",
+"precision": "day"
+},
+{
+"date": "2023-01-01",
+"event": "Continues as DoD's designated UAP spokesperson through the AARO stand-up period",
+"precision": "year"
+},
+{
+"date": "2023-06-06",
+"event": "Issues the Department's statement that AARO has found no verifiable information substantiating reverse-engineering programme claims",
+"precision": "day"
+},
+{
+"date": "2023-06-07",
+"event": "Issues the standing AARO no-verifiable-information denial",
+"precision": "day"
+},
+{
+"date": "2023-07-28",
+"event": "Issues follow-up statements after the Grusch hearing addressing harm claims",
+"precision": "day"
+},
+{
+"date": "2025-06-06",
+"event": "Confirms to the Wall Street Journal that Yankee Blue findings will appear in Volume II of the Historical Record Report",
+"precision": "day"
+}
+],
+"claims": [
+{
+"source": "American Alchemy with Jesse Michels, 'The Wall Street Journal Is Gaslighting You On UFOs', 13 June 2025, 0:00:49, https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL4839772690.mp3?updated=1750950332",
+"text": "On American Alchemy with Jesse Michels, 13 June 2025, at 0:00:49, Michels said Gough was one of the primary sources of the Wall Street Journal article on Pentagon disinformation and UFO mythology, and alleged that her own LinkedIn profile 'along with independent sources' confirms a lead role in Booz Allen Hamilton's psychological operations consulting practice for the Department of Defense, her self-professed skills including strategic communication and psychological operations. The allegation rests on the speaker's reading of a profile page. No employment record was opened in this pass and nothing in the board's files corroborates it.",
+"tier": 2
+},
+{
+"source": "Sue Gough, quoted by DefenseScoop, 25 February 2026",
+"text": "AARO is examining over 2,000 UAP cases; approximately 1,000 reports lack sufficient data for analysis and remain in AARO's Active Archive for potential future review.",
+"tier": 2
+},
+{
+"source": "DoD statements attributed to Sue Gough in UAP coverage following the November 2024 hearing",
+"text": "The Department stated it has no record of a programme called Immaculate Constellation.",
+"tier": 2
+},
+{
+"source": "Inference from Gough's February 2026 figures set against the FY2024 and FY2025 report conclusions",
+"text": "A holding in which roughly half the reports are unanalysed for want of data is a holding that cannot support the department's own repeated negative finding, since the negative finding is drawn only from the analysed half.",
+"tier": 3
+},
+{
+"source": "Susan Gough to The Black Vault, 13 June 2019",
+"text": "'It makes no change to previous statements. Mr. Elizondo had no assigned responsibilities for AATIP while he was in OUSD(I). DIA administered AATIP, and Elizondo was never assigned to DIA. Elizondo did interact with the DIA office managing the program while the program was still ongoing, but he did not lead it.'",
+"tier": 1
+},
+{
+"source": "Textual analysis of the 13 June 2019 statement",
+"text": "Gough's statement is a limited denial that concedes the program's existence, its DIA administration and Elizondo's contact with it, and contests only the word 'led' — a construction consistent with protecting an org-chart technicality rather than refuting the substance.",
+"tier": 3
+},
+{
+"source": "Susan Gough to John Greenewald, The Black Vault, 13 June 2019",
+"text": "On 13 June 2019 stated: 'I can confirm that the memo you're referring to is authentic... It makes no change to previous statements. Mr. Elizondo had no assigned responsibilities for AATIP while he was in OUSD(I).'",
+"tier": 1
+},
+{
+"source": "Susan Gough, DoD statement to The Black Vault, 6 December 2019",
+"text": "On 6 December 2019 stated: 'Neither AATIP nor AAWSAP were UAP related. The purpose of AATIP was to investigate foreign advanced aerospace weapons system applications with future technology projections over the next 40 years,' and separately, 'when implemented, AATIP did not pursue research and investigation into unidentified aerial phenomena.'",
+"tier": 1
+},
+{
+"source": "Susan Gough, DoD statement, 21 May 2021, reported by Blue Blurry Lines",
+"text": "On 21 May 2021 stated that the AATIP contract 'allowed for research drawn from a wide variety of sources, including reports of UAPs. However, the examination of UAP observations was not the purpose of AATIP.'",
+"tier": 1
+},
+{
+"source": "OSD FOIA 21-F-0938 email release",
+"text": "Received Elizondo's 3 June 2020 letter stating 'The truth, as everyone involved in the program knows, is that I ran the program,' and noting she had corrected the AATIP/UAP statement but never corrected the statement about his involvement.",
+"tier": 1
+},
+{
+"source": "Inference from the June 2019, December 2019 and May 2021 statements read in sequence",
+"text": "The three-step sequence — flat denial that AATIP touched UAP, then partial concession that it did, with the denial of Elizondo's role held constant throughout — is the signature of a position maintained for reasons other than the facts. The variable that never moved is the one that would validate a named insider.",
+"tier": 3
+},
+{
+"source": "Susan Gough, DoD spokesperson, 7 June 2023",
+"text": "'To date, AARO has not discovered any verifiable information to substantiate claims that any programs regarding the possession or reverse-engineering of extraterrestrial materials have existed in the past or exist currently.'",
+"tier": 1
+},
+{
+"source": "Susan Gough, statement following the 26 July 2023 hearing, reported by DefenseScoop 31 July 2023",
+"text": "'The department has no information that any individual has been harmed or killed as a result of providing information to AARO,' with a warning that unsubstantiated harm claims discourage witnesses.",
+"tier": 1
+},
+{
+"source": "Unclassified reprisal complaint as reported by Liberation Times, 13 June 2023",
+"text": "Named in the unclassified version of Grusch's reprisal complaint among officials in the chain by which his identity and complaint were handled.",
+"tier": 2
+},
+{
+"source": "DoD statement attributed to Susan Gough, 6 June 2023, carried by Fox News and others",
+"text": "The Department's June 2023 statement responding to Grusch was issued in Gough's name and said AARO had not discovered verifiable information substantiating claims of a programme possessing or reverse-engineering extraterrestrial materials.",
+"tier": 1
+},
+{
+"source": "OSD/WHS FOIA release 21-F-0938, Elizondo emails",
+"text": "Elizondo's October 2017 resignation correspondence was addressed to Gough and released through the Washington Headquarters Services FOIA reading room (21-F-0938).",
+"tier": 1
+},
+{
+"source": "Wall Street Journal, 6 June 2025, as summarised in secondary coverage and the Yankee Blue record",
+"text": "Gough confirmed on the Department's behalf that findings on the fake Air Force alien-technology programme would appear in Volume II of the Historical Record Report, then scheduled for late 2025.",
+"tier": 2
+}
+],
+"cls": "person",
+"cluster": "other",
+"conflicts": [
+"Her 6 December 2019 statement directly contradicts Christopher Sherwood's 22 May 2019 statement; her 21 May 2021 statement partially contradicts her own December 2019 statement.",
+"The Department's Gough-issued denials are bounded by 'AARO has not discovered', which is not a statement that no such programme exists."
+],
+"connections": [
+{
+"claimTier": 2,
+"cls": "institution",
+"dateEnd": "2024",
+"dateStart": "2022",
+"direction": "out",
+"edgeLabel": "OSD Public Affairs handled AARO press matters; the office had no dedicated spokesperson",
+"id": "aaro",
+"l0": true,
+"label": "All-domain Anomaly Resolution Office (AARO)",
+"note": "Gough's February 2026 figures mean roughly half of AARO's holdings sit in an Active Archive without analysis, which bounds every negative finding the office publishes.",
+"sources": [
+{
+"date": "2024-09-01",
+"name": "Douglas Dean Johnson - What's next for AARO?",
+"url": "https://douglasjohnson.ghost.io/what-next-for-aaro/"
+},
+{
+"date": "2026-02-25",
+"name": "DefenseScoop - Hegseth doubles down on Trump's UAP disclosure promise as AARO's caseload exceeds 2,000",
+"url": "https://defensescoop.com/2026/02/25/hegseth-ufo-disclosure-trump-aaro-uap-caseload/"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": "2021",
+"dateStart": "2019",
+"direction": "out",
+"edgeLabel": "6 Dec 2019: 'Neither AATIP nor AAWSAP were UAP related'",
+"id": "aatip",
+"l0": true,
+"label": "Advanced Aerospace Threat Identification Program (AATIP / AAITP)",
+"note": "A direct reversal of her own colleague's May 2019 statement, justified on the ground that Sherwood was repeating what an earlier spokesperson had said and that spokesperson 'is no longer with my organization'.",
+"sources": [
+{
+"date": "2019-12-06",
+"name": "The Black Vault — The Pentagon Corrects Record",
+"url": "https://www.theblackvault.com/documentarchive/the-pentagon-corrects-record-on-secret-ufo-program/"
+}
+],
+"tier": "A",
+"type": "denial"
+},
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": "2021",
+"dateStart": "2021",
+"direction": "out",
+"edgeLabel": "21 May 2021 partial reversal: contract 'allowed for research... including reports of UAPs'",
+"id": "aatip",
+"l0": true,
+"label": "Advanced Aerospace Threat Identification Program (AATIP / AAITP)",
+"note": "Eighteen months after the flat denial, the Department conceded UAP reports were within AATIP's research scope while insisting they were not its purpose. The denial of Elizondo's role did not move.",
+"sources": [
+{
+"date": "2021-05-21",
+"name": "Blue Blurry Lines — The Pentagon's Updated Statement",
+"url": "https://www.blueblurrylines.com/2021/05/the-pentagons-updated-statement-aatip.html"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "2019",
+"dateStart": "2019",
+"direction": "out",
+"edgeLabel": "Repudiated Sherwood's acknowledgement as 'not entirely fact-based'",
+"id": "christopher-sherwood",
+"l0": false,
+"label": "Christopher Sherwood",
+"note": "The Department conceded Sherwood was accurately reported and then disowned what he said — while keeping his denial of Elizondo's role intact. One spokesman, two statements, one retained.",
+"sources": [
+{
+"date": "2019-12-06",
+"name": "The Black Vault",
+"url": "https://www.theblackvault.com/documentarchive/the-pentagon-corrects-record-on-secret-ufo-program/"
+}
+],
+"tier": "C",
+"type": "denial"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "2023",
+"direction": "out",
+"edgeLabel": "Standing DoD denial: AARO has not discovered any verifiable information",
+"id": "david-grusch",
+"l0": false,
+"label": "David Charles Grusch",
+"note": "Issued 7 June 2023, two days after The Debrief, and recycled since. Signatory: Susan Gough, DoD spokesperson. Note the boundary of the sentence: it asserts what one office has discovered, not what exists, and is silent on holdings outside AARO's access.",
+"sources": [
+{
+"date": "2023-06-07",
+"name": "Fox News - Pentagon denies secret UFO retrieval program after whistleblower bombshell",
+"url": "https://www.foxnews.com/us/pentagon-denies-secret-ufo-retrieval-program-after-whistleblower-bombshell"
+},
+{
+"date": "2023-06-06",
+"name": "Fox News - Pentagon denies secret UFO retrieval program after whistleblower bombshell",
+"url": "https://www.foxnews.com/us/pentagon-denies-secret-ufo-retrieval-program-after-whistleblower-bombshell.amp"
+}
+],
+"tier": "A",
+"type": "denial"
+},
+{
+"claimTier": 2,
+"cls": "document",
+"dateEnd": null,
+"dateStart": "2021",
+"direction": "in",
+"edgeLabel": "Named respondent",
+"id": "elizondo-dodig-complaint-2021",
+"l0": false,
+"label": "Elizondo complaint to the DoD Inspector General, May 2021",
+"note": "The Department's UAP spokesperson named in a whistleblower-reprisal complaint by the subject of her statements.",
+"sources": [
+{
+"date": "2025-03-01",
+"name": "The Black Vault — Elizondo DoD IG complaint archive",
+"url": "https://www.theblackvault.com/documentarchive/the-dod-inspector-general-complaint-of-luis-elizondo-a-document-archive/"
+}
+],
+"tier": "B",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "2021",
+"dateStart": "2021",
+"direction": "in",
+"edgeLabel": "FOIA release of the Elizondo-Gough correspondence",
+"id": "foia-21-f-0938",
+"l0": false,
+"label": "OSD FOIA Case 21-F-0938 — Elizondo/Gough correspondence",
+"note": "The Department's own reading room hosts the most detailed public rebuttal of the Department's position on Elizondo.",
+"sources": [
+{
+"date": "2021-01-01",
+"name": "DoD FOIA Reading Room — 21-F-0938",
+"url": "https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/Public_Affairs/21-F-0938-PA-Elizondo-Emails.pdf"
+}
+],
+"tier": "C",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": "2023",
+"dateStart": "2023",
+"direction": "out",
+"edgeLabel": "Post-hearing statement rebutting the harm claims",
+"id": "hearing-2023-07-26",
+"l0": true,
+"label": "House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'",
+"note": "Gough stated the Department has no information that any individual has been harmed or killed as a result of providing information to AARO, and warned that unsubstantiated harm claims discourage witnesses. Grusch's sworn claim was about harm in the concealment effort, not about providing information to AARO - the denial answers a question that was not asked.",
+"sources": [
+{
+"date": "2023-07-31",
+"name": "DefenseScoop - UAP hearing sparks clash between Pentagon officials, witnesses",
+"url": "https://defensescoop.com/2023/07/31/uap-hearing-sparks-clash-between-pentagon-officials-witnesses/"
+}
+],
+"tier": "A",
+"type": "denial"
+},
+{
+"claimTier": 2,
+"cls": "event",
+"dateEnd": "2026-08-12",
+"dateStart": "2024-11",
+"direction": "out",
+"edgeLabel": "The Department's response is a records assertion, not a denial of existence",
+"id": "immaculate-constellation",
+"l0": true,
+"label": "Immaculate Constellation disclosure, October-November 2024",
+"note": "Pentagon spokesperson Sue Gough has stated the Department has 'no record' of such a programme. The Department has not stated that the programme does not exist.",
+"sources": [
+{
+"date": "2024-11-13",
+"name": "GPO transcript CHRG-118hhrg57440",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm"
+}
+],
+"tier": "A",
+"type": "denial"
+},
+{
+"claimTier": 2,
+"cls": "document",
+"dateEnd": null,
+"dateStart": "2024",
+"direction": "out",
+"edgeLabel": "Department says it has no record of the programme",
+"id": "immaculate-constellation-12-page-report",
+"l0": true,
+"label": "Immaculate Constellation 12-page report entered into the Congressional Record",
+"note": "Gough's 'no record' statement is the Department's entire published response to a document in the Congressional Record; no documentary rebuttal has been produced.",
+"sources": [
+{
+"date": "2024-11-13",
+"name": "U.S. GPO - Hearing transcript, Serial No. 118-135 (CHRG-118hhrg57440)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm"
+},
+{
+"date": "2026-02-25",
+"name": "DefenseScoop - Hegseth doubles down on Trump's UAP disclosure promise as AARO's caseload exceeds 2,000",
+"url": "https://defensescoop.com/2026/02/25/hegseth-ufo-disclosure-trump-aaro-uap-caseload/"
+}
+],
+"tier": "A",
+"type": "denial"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "2019",
+"dateStart": "2019",
+"direction": "in",
+"edgeLabel": "Recipient of the 13 June 2019 and 6 December 2019 statements",
+"id": "john-greenewald",
+"l0": false,
+"label": "John Greenewald Jr.",
+"note": "Both of the Department's pivotal statements were issued to a FOIA requester rather than at a podium.",
+"sources": [
+{
+"date": "2019-12-06",
+"name": "The Black Vault",
+"url": "https://www.theblackvault.com/documentarchive/the-pentagon-corrects-record-on-secret-ufo-program/"
+}
+],
+"tier": "B",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "2020",
+"dateStart": "2019",
+"direction": "in",
+"edgeLabel": "Direct correspondence, 5 June 2019 and 3 June 2020: 'I ran the program'",
+"id": "luis-elizondo",
+"l0": false,
+"label": "Luis D. Elizondo",
+"note": "Released in the Department's own reading room under FOIA 21-F-0938. He also gave her a list of people who could confirm his role. The Department's response, if any, has not been released in full.",
+"sources": [
+{
+"date": "2021-01-01",
+"name": "DoD FOIA Reading Room — 21-F-0938",
+"url": "https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/Public_Affairs/21-F-0938-PA-Elizondo-Emails.pdf"
+},
+{
+"date": "2021-01-01",
+"name": "The Black Vault — Elizondo's letters to the Pentagon",
+"url": "https://www.theblackvault.com/documentarchive/luis-elizondo-and-his-letters-to-the-pentagon-about-his-claims-and-credibility/"
+},
+{
+"date": "2024-11-13",
+"name": "House Oversight — Written Testimony of Luis Elizondo",
+"url": "https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Elizondo.pdf"
+}
+],
+"tier": "A",
+"type": "behavioral"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "2019",
+"dateStart": "2019",
+"direction": "out",
+"edgeLabel": "'no assigned responsibilities for AATIP'",
+"id": "luis-elizondo",
+"l0": false,
+"label": "Luis D. Elizondo",
+"note": "Issued in response to the authenticated Harry Reid memorandum, with the assertion that the memo 'makes no change to previous statements'. She added that DIA administered AATIP and Elizondo was never assigned to DIA.",
+"sources": [
+{
+"date": "2019-06-13",
+"name": "The Black Vault",
+"url": "https://www.theblackvault.com/documentarchive/pentagon-reinforces-mr-luis-elizondo-had-no-responsibilities-on-aatip-senator-harry-reids-2009-memo-changes-nothing/"
+},
+{
+"date": "2021-01-01",
+"name": "OSD/WHS FOIA 21-F-0938 - Elizondo emails",
+"url": "https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/Public_Affairs/21-F-0938-PA-Elizondo-Emails.pdf"
+}
+],
+"tier": "A",
+"type": "denial"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "2019",
+"dateStart": "2019",
+"direction": "out",
+"edgeLabel": "authenticated the letter, denied its significance",
+"id": "reid-sap-letter-2009",
+"l0": false,
+"label": "Reid Letter to DEPSECDEF Requesting Restricted SAP Status",
+"note": "'It makes no change to previous statements.' DoD confirmed the document's authenticity in the same breath as dismissing it.",
+"sources": [
+{
+"date": "2019-06-13",
+"name": "The Black Vault",
+"url": "https://www.theblackvault.com/documentarchive/pentagon-reinforces-mr-luis-elizondo-had-no-responsibilities-on-aatip-senator-harry-reids-2009-memo-changes-nothing/"
+}
+],
+"tier": "B",
+"type": "denial"
+},
+{
+"claimTier": 2,
+"cls": "program",
+"dateEnd": "2025",
+"dateStart": "2025",
+"direction": "out",
+"edgeLabel": "named DoD spokeswoman who confirmed the fake-programme findings would be deferred to Volume II",
+"id": "yankee-blue",
+"l0": true,
+"label": "YANKEE BLUE (alleged AFOSI indoctrination program)",
+"note": "Gough's confirmation is the Department conceding on the record that the Air Force ran a fictitious alien-technology indoctrination practice, while deferring the official account indefinitely.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Wikipedia - Yankee Blue",
+"url": "https://en.wikipedia.org/wiki/Yankee_Blue"
+}
+],
+"tier": "B",
+"type": "denial"
+}
+],
+"date": "2019-06-13",
+"dateEnd": null,
+"dateStart": "2019-06-13",
+"deg": 13,
+"denials": [
+{
+"by": {
+"id": "susan-gough",
+"label": "Susan Gough"
+},
+"claimTier": 1,
+"denialKind": "directed",
+"label": "6 Dec 2019: 'Neither AATIP nor AAWSAP were UAP related'",
+"note": "A direct reversal of her own colleague's May 2019 statement, justified on the ground that Sherwood was repeating what an earlier spokesperson had said and that spokesperson 'is no longer with my organization'.",
+"of": {
+"id": "aatip",
+"label": "Advanced Aerospace Threat Identification Program (AATIP / AAITP)"
+},
+"sources": [
+{
+"date": "2019-12-06",
+"name": "The Black Vault — The Pentagon Corrects Record",
+"url": "https://www.theblackvault.com/documentarchive/the-pentagon-corrects-record-on-secret-ufo-program/"
+}
+]
+},
+{
+"by": {
+"id": "susan-gough",
+"label": "Susan Gough"
+},
+"claimTier": 1,
+"denialKind": "directed",
+"label": "Repudiated Sherwood's acknowledgement as 'not entirely fact-based'",
+"note": "The Department conceded Sherwood was accurately reported and then disowned what he said — while keeping his denial of Elizondo's role intact. One spokesman, two statements, one retained.",
+"of": {
+"id": "christopher-sherwood",
+"label": "Christopher Sherwood"
+},
+"sources": [
+{
+"date": "2019-12-06",
+"name": "The Black Vault",
+"url": "https://www.theblackvault.com/documentarchive/the-pentagon-corrects-record-on-secret-ufo-program/"
+}
+]
+},
+{
+"by": {
+"id": "susan-gough",
+"label": "Susan Gough"
+},
+"claimTier": 1,
+"denialKind": "directed",
+"label": "Standing DoD denial: AARO has not discovered any verifiable information",
+"note": "Issued 7 June 2023, two days after The Debrief, and recycled since. Signatory: Susan Gough, DoD spokesperson. Note the boundary of the sentence: it asserts what one office has discovered, not what exists, and is silent on holdings outside AARO's access.",
+"of": {
+"id": "david-grusch",
+"label": "David Charles Grusch"
+},
+"sources": [
+{
+"date": "2023-06-07",
+"name": "Fox News - Pentagon denies secret UFO retrieval program after whistleblower bombshell",
+"url": "https://www.foxnews.com/us/pentagon-denies-secret-ufo-retrieval-program-after-whistleblower-bombshell"
+},
+{
+"date": "2023-06-06",
+"name": "Fox News - Pentagon denies secret UFO retrieval program after whistleblower bombshell",
+"url": "https://www.foxnews.com/us/pentagon-denies-secret-ufo-retrieval-program-after-whistleblower-bombshell.amp"
+}
+]
+},
+{
+"by": {
+"id": "susan-gough",
+"label": "Susan Gough"
+},
+"claimTier": 1,
+"denialKind": "directed",
+"label": "Post-hearing statement rebutting the harm claims",
+"note": "Gough stated the Department has no information that any individual has been harmed or killed as a result of providing information to AARO, and warned that unsubstantiated harm claims discourage witnesses. Grusch's sworn claim was about harm in the concealment effort, not about providing information to AARO - the denial answers a question that was not asked.",
+"of": {
+"id": "hearing-2023-07-26",
+"label": "House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'"
+},
+"sources": [
+{
+"date": "2023-07-31",
+"name": "DefenseScoop - UAP hearing sparks clash between Pentagon officials, witnesses",
+"url": "https://defensescoop.com/2023/07/31/uap-hearing-sparks-clash-between-pentagon-officials-witnesses/"
+}
+]
+},
+{
+"by": {
+"id": "susan-gough",
+"label": "Susan Gough"
+},
+"claimTier": 2,
+"denialKind": "directed",
+"label": "The Department's response is a records assertion, not a denial of existence",
+"note": "Pentagon spokesperson Sue Gough has stated the Department has 'no record' of such a programme. The Department has not stated that the programme does not exist.",
+"of": {
+"id": "immaculate-constellation",
+"label": "Immaculate Constellation disclosure, October-November 2024"
+},
+"sources": [
+{
+"date": "2024-11-13",
+"name": "GPO transcript CHRG-118hhrg57440",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm"
+}
+]
+},
+{
+"by": {
+"id": "susan-gough",
+"label": "Susan Gough"
+},
+"claimTier": 2,
+"denialKind": null,
+"label": "Department says it has no record of the programme",
+"note": "Gough's 'no record' statement is the Department's entire published response to a document in the Congressional Record; no documentary rebuttal has been produced.",
+"of": {
+"id": "immaculate-constellation-12-page-report",
+"label": "Immaculate Constellation 12-page report entered into the Congressional Record"
+},
+"sources": [
+{
+"date": "2024-11-13",
+"name": "U.S. GPO - Hearing transcript, Serial No. 118-135 (CHRG-118hhrg57440)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm"
+},
+{
+"date": "2026-02-25",
+"name": "DefenseScoop - Hegseth doubles down on Trump's UAP disclosure promise as AARO's caseload exceeds 2,000",
+"url": "https://defensescoop.com/2026/02/25/hegseth-ufo-disclosure-trump-aaro-uap-caseload/"
+}
+]
+},
+{
+"by": {
+"id": "susan-gough",
+"label": "Susan Gough"
+},
+"claimTier": 1,
+"denialKind": "directed",
+"label": "'no assigned responsibilities for AATIP'",
+"note": "Issued in response to the authenticated Harry Reid memorandum, with the assertion that the memo 'makes no change to previous statements'. She added that DIA administered AATIP and Elizondo was never assigned to DIA.",
+"of": {
+"id": "luis-elizondo",
+"label": "Luis D. Elizondo"
+},
+"sources": [
+{
+"date": "2019-06-13",
+"name": "The Black Vault",
+"url": "https://www.theblackvault.com/documentarchive/pentagon-reinforces-mr-luis-elizondo-had-no-responsibilities-on-aatip-senator-harry-reids-2009-memo-changes-nothing/"
+},
+{
+"date": "2021-01-01",
+"name": "OSD/WHS FOIA 21-F-0938 - Elizondo emails",
+"url": "https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/Public_Affairs/21-F-0938-PA-Elizondo-Emails.pdf"
+}
+]
+},
+{
+"by": {
+"id": "susan-gough",
+"label": "Susan Gough"
+},
+"claimTier": 1,
+"denialKind": "directed",
+"label": "authenticated the letter, denied its significance",
+"note": "'It makes no change to previous statements.' DoD confirmed the document's authenticity in the same breath as dismissing it.",
+"of": {
+"id": "reid-sap-letter-2009",
+"label": "Reid Letter to DEPSECDEF Requesting Restricted SAP Status"
+},
+"sources": [
+{
+"date": "2019-06-13",
+"name": "The Black Vault",
+"url": "https://www.theblackvault.com/documentarchive/pentagon-reinforces-mr-luis-elizondo-had-no-responsibilities-on-aatip-senator-harry-reids-2009-memo-changes-nothing/"
+}
+]
+},
+{
+"by": {
+"id": "susan-gough",
+"label": "Susan Gough"
+},
+"claimTier": 2,
+"denialKind": "directed",
+"label": "named DoD spokeswoman who confirmed the fake-programme findings would be deferred to Volume II",
+"note": "Gough's confirmation is the Department conceding on the record that the Air Force ran a fictitious alien-technology indoctrination practice, while deferring the official account indefinitely.",
+"of": {
+"id": "yankee-blue",
+"label": "YANKEE BLUE (alleged AFOSI indoctrination program)"
+},
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Wikipedia - Yankee Blue",
+"url": "https://en.wikipedia.org/wiki/Yankee_Blue"
+}
+]
+}
+],
+"domains": [
+"_rs-archive-mirror",
+"aawsap-aatip",
+"elizondo-ttsa",
+"grusch",
+"uaptf-aaro"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "susan-gough",
+"instId": "dod",
+"l0": false,
+"label": "Susan Gough",
+"loc": "Arlington, VA",
+"locId": "l-pentagon",
+"members": null,
+"narrative": "Gough was, for roughly six years, the single voice through which the Department of Defense spoke on UAP, and the record of what she said is unusually complete because Elizondo wrote to her directly and those emails were released under FOIA 21-F-0938. On 13 June 2019 she told The Black Vault that Harry Reid's newly authenticated 2009 SAP-request memorandum 'makes no change to previous statements. Mr. Elizondo had no assigned responsibilities for AATIP while he was in OUSD(I).' On 6 December 2019 she went further and repudiated her own colleague, stating 'Neither AATIP nor AAWSAP were UAP related' and that 'when implemented, AATIP did not pursue research and investigation into unidentified aerial phenomena' — explaining that Christopher Sherwood had merely been 'repeating the information that had been provided by a previous spokesperson some two years earlier' and that the earlier spokesperson 'is no longer with my organization.' On 21 May 2021 she partially reversed again, conceding that the AATIP contract 'allowed for research drawn from a wide variety of sources, including reports of UAPs' while insisting 'the examination of UAP observations was not the purpose of AATIP.' Elizondo wrote to her on 3 June 2020: 'You released a statement claiming I had no assigned duties in the AATIP program. The truth, as everyone involved in the program knows, is that I ran the program.' In his November 2024 written testimony he told Congress that the Pentagon's use of 'a professional psychological operations officer' as its primary UAP contact was 'unacceptable' — a reference to Gough's career field.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Susan Gough",
+"sources": [
+{
+"date": "2025-06-13",
+"name": "American Alchemy with Jesse Michels, 'The Wall Street Journal Is Gaslighting You On UFOs' (episode audio)",
+"url": "https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL4839772690.mp3?updated=1750950332"
+},
+{
+"date": "2026-02-25",
+"name": "DefenseScoop - Hegseth doubles down on Trump's UAP disclosure promise as AARO's caseload exceeds 2,000",
+"url": "https://defensescoop.com/2026/02/25/hegseth-ufo-disclosure-trump-aaro-uap-caseload/"
+},
+{
+"date": "2026-07-21",
+"name": "AARO - FY2025 Consolidated Annual Report on UAP (PDF)",
+"url": "https://documents2.theblackvault.com/documents/osd/AARO_FY2025_Consolidated_Annual_Report_on_UAP.pdf"
+},
+{
+"date": "2026-02-01",
+"name": "Archived: OSD FOIA 21-F-0938 — Elizondo/Gough emails (Wayback 2026-02-01)",
+"url": "https://web.archive.org/web/20260201224805/https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/Public_Affairs/21-F-0938-PA-Elizondo-Emails.pdf"
+},
+{
+"date": "2019-06-13",
+"name": "The Black Vault — Pentagon Reinforces Mr. Luis Elizondo Had 'No Responsibilities' on AATIP",
+"url": "https://www.theblackvault.com/documentarchive/pentagon-reinforces-mr-luis-elizondo-had-no-responsibilities-on-aatip-senator-harry-reids-2009-memo-changes-nothing/"
+},
+{
+"date": "2019-06-14",
+"name": "The UFO Chronicles — AATIP: Pentagon Reinforces Previous Statement",
+"url": "https://www.theufochronicles.com/2019/06/aatip-pentagon-reinforces-previous-statement-elizondo.html"
+},
+{
+"date": "2021-01-01",
+"name": "OSD FOIA 21-F-0938 — Elizondo/Gough emails",
+"url": "https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/Public_Affairs/21-F-0938-PA-Elizondo-Emails.pdf"
+},
+{
+"date": "2019-12-06",
+"name": "The Black Vault — The Pentagon Corrects Record on 'Secret UFO Program'",
+"url": "https://www.theblackvault.com/documentarchive/the-pentagon-corrects-record-on-secret-ufo-program/"
+},
+{
+"date": "2021-05-21",
+"name": "Blue Blurry Lines — The Pentagon's Updated Statement: AATIP Studied UAPs",
+"url": "https://www.blueblurrylines.com/2021/05/the-pentagons-updated-statement-aatip.html"
+},
+{
+"date": "2023-06-07",
+"name": "Fox News - Pentagon denies secret UFO retrieval program after whistleblower bombshell",
+"url": "https://www.foxnews.com/us/pentagon-denies-secret-ufo-retrieval-program-after-whistleblower-bombshell"
+},
+{
+"date": "2023-07-31",
+"name": "DefenseScoop - UAP hearing sparks clash between Pentagon officials, witnesses",
+"url": "https://defensescoop.com/2023/07/31/uap-hearing-sparks-clash-between-pentagon-officials-witnesses/"
+},
+{
+"date": "2023-06-13",
+"name": "Liberation Times - Unclassified Version Of David Grusch's UFO-Related Reprisal Complaint Released",
+"url": "https://www.liberationtimes.com/home/unclassified-version-of-david-gruschs-ufo-related-reprisal-complaint-released"
+},
+{
+"date": "2023-06-06",
+"name": "Fox News - Pentagon denies secret UFO retrieval program after whistleblower bombshell",
+"url": "https://www.foxnews.com/us/pentagon-denies-secret-ufo-retrieval-program-after-whistleblower-bombshell.amp"
+},
+{
+"date": "2026-08-12",
+"name": "Wikipedia - Yankee Blue",
+"url": "https://en.wikipedia.org/wiki/Yankee_Blue"
+},
+{
+"date": "2024-09-01",
+"name": "Douglas Dean Johnson - What's next for AARO? (on AARO having no dedicated press officer)",
+"url": "https://douglasjohnson.ghost.io/what-next-for-aaro/"
+}
+],
+"status": "active",
+"sub": "DoD spokesperson for UAP matters, Office of the Assistant to the Secretary of Defense for Public Affairs",
+"tier": "A",
+"tierRationale": "Re-graded A on a global pass (rank 31 of 1027, score 96). 15 connections, 0 of them custody/witness/funding/programmatic, 9 official denials recorded against it. Axes C0/A1/D1.",
+"timeline": [
+{
+"date": "2019-06-13",
+"id": "tl-2019-06-13-gough",
+"label": "Gough authenticates the Reid memo and reaffirms the denial",
+"precision": "day",
+"strand": "coverup",
+"text": "'It makes no change to previous statements. Mr. Elizondo had no assigned responsibilities for AATIP while he was in OUSD(I).' She adds that DIA administered AATIP and Elizondo was never assigned to DIA.",
+"tier": "A"
+},
+{
+"date": "2019-06-13",
+"id": "tl-2019-gough",
+"label": "Pentagon authenticates Reid's letter, denies its meaning",
+"precision": "day",
+"strand": "coverup",
+"text": "Susan Gough confirms the 2009 SAP request is genuine while restating that Elizondo 'had no assigned responsibilities for AATIP while he was in OUSD(I)'.",
+"tier": "A"
+},
+{
+"date": "2019-12-06",
+"id": "tl-2019-12-06-gough-reversal",
+"label": "Gough reverses: 'Neither AATIP nor AAWSAP were UAP related'",
+"precision": "day",
+"strand": "coverup",
+"text": "The Department repudiates its own May 2019 acknowledgement, saying Sherwood was repeating an earlier spokesperson who 'is no longer with my organization', and that AATIP 'did not pursue research and investigation into unidentified aerial phenomena'.",
+"tier": "A"
+},
+{
+"date": "2021-05-21",
+"id": "tl-2021-05-21-gough-partial",
+"label": "Gough's partial re-reversal",
+"precision": "day",
+"strand": "coverup",
+"text": "The Department concedes the AATIP contract 'allowed for research drawn from a wide variety of sources, including reports of UAPs' while insisting UAP examination 'was not the purpose of AATIP'. The denial of Elizondo's role does not move.",
+"tier": "A"
+},
+{
+"date": "2023-06-06",
+"id": "tl-denial-2023-06-06",
+"label": "Department denies Grusch's claims",
+"precision": "day",
+"strand": "coverup",
+"text": "OSD Public Affairs, through Susan Gough, states AARO has not discovered verifiable information substantiating claims of a programme possessing or reverse-engineering extraterrestrial materials - a statement bounded by AARO's discoveries, not the Department's knowledge.",
+"tier": "A"
+},
+{
+"date": "2023-06-07",
+"id": "g-tl-2023-06-gough",
+"label": "Pentagon issues the standing denial",
+"precision": "day",
+"strand": "coverup",
+"text": "Susan Gough: AARO has not discovered any verifiable information to substantiate claims that any programs regarding the possession or reverse-engineering of extraterrestrial materials have existed in the past or exist currently. The sentence bounds itself to what one office has discovered.",
+"tier": "A"
+}
+],
+"unexplainedResidual": null,
+"unverified": [
+"Her exact departure date from the UAP spokesperson role.",
+"What internal coordination produced the 7 June 2023 language, and whether AARO cleared it."
+]
+}

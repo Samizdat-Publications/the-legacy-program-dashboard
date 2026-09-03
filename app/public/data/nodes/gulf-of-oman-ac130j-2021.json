@@ -1,0 +1,228 @@
+{
+"A": 3,
+"C": 1,
+"D": 3,
+"band": null,
+"claims": [
+{
+"source": "EarthSky, 10 August 2026, on PURSUE Release 05",
+"text": "Six videos from an AC-130J gunship and intelligence report DOW-UAP-D101 document approximately 25 instances of UAP over the Gulf of Oman on 8 September 2021.",
+"tier": 2
+},
+{
+"source": "EarthSky, 10 August 2026, summarising DOW-UAP-D101",
+"text": "The objects are described as cold orbs approximately four feet in diameter flying at lower altitudes between 250 and 1,300 mph, reportedly reacting to the aircraft's cannon fire.",
+"tier": 2
+},
+{
+"source": "Inference from the incident date against the reporting periods and contents of the FY2023 and FY2024 Consolidated Annual Reports",
+"text": "A 2021 multi-object gunship engagement with recorded object reaction to cannon fire falls inside the FY2023 and FY2024 AARO reporting periods and appears in neither, which is either a reporting omission or evidence the incident was held outside AARO's case system.",
+"tier": 3
+}
+],
+"cls": "event",
+"cluster": "other",
+"connections": [
+{
+"claimTier": 3,
+"cls": "document",
+"dateEnd": "2026",
+"dateStart": "2021",
+"direction": "out",
+"edgeLabel": "A 2021 gunship engagement absent from the reporting periods that cover it",
+"id": "aaro-fy2024-annual-report",
+"l0": true,
+"label": "AARO FY2024 Consolidated Annual Report on UAP",
+"note": "The 8 September 2021 incident falls inside the FY2023 and FY2024 reporting windows and appears in neither, which is either omission or evidence it sat outside AARO's case system.",
+"sources": [
+{
+"date": "2026-08-10",
+"name": "EarthSky - 5th batch of Pentagon UAP files: orbs and triangles",
+"url": "https://earthsky.org/human-world/pentagon-uap-files-batch-5-ufos-orbs-triangles/"
+},
+{
+"date": "2024-11-14",
+"name": "AARO - FY2024 Consolidated Annual Report on UAP (PDF)",
+"url": "https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF"
+},
+{
+"date": "2023-10-25",
+"name": "AARO - FY2023 Consolidated Annual Report on UAP (PDF)",
+"url": "https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf"
+}
+],
+"tier": "A",
+"type": "denial"
+},
+{
+"claimTier": 3,
+"cls": "event",
+"dateEnd": "2026-08-07",
+"dateStart": "2021-09-08",
+"direction": "in",
+"edgeLabel": "two documented US weapons engagements of unidentified objects",
+"id": "mq9-yemen-hellfire-video-2024",
+"l0": false,
+"label": "MQ-9 Hellfire engagement of an orb off Yemen (October 2024)",
+"note": "Yemen October 2024 (MQ-9, Hellfire) and the Gulf of Oman September 2021 (AC-130J, cannon fire, objects reportedly reacting) establish a pattern of engagement absent from every AARO annual report.",
+"sources": [
+{
+"date": "2025-09-09",
+"name": "DefenseScoop, 9 September 2025 hearing",
+"url": "https://defensescoop.com/2025/09/09/military-whistleblowers-share-new-evidence-alleged-uap-ufo-hearing/"
+},
+{
+"date": "2026-08-07",
+"name": "EarthSky, PURSUE batch 5",
+"url": "https://earthsky.org/human-world/pentagon-uap-files-batch-5-ufos-orbs-triangles/"
+}
+],
+"tier": "C",
+"type": "research"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": "2026-08-07",
+"direction": "in",
+"edgeLabel": "published the engagement record",
+"id": "pursue-r05-identifiers",
+"l0": false,
+"label": "PURSUE Release 05 file identifiers (7 August 2026)",
+"note": "DOW-UAP-PR122 and intelligence report DOW-UAP-D101 document the 8 September 2021 AC-130J encounter over the Gulf of Oman.",
+"sources": [
+{
+"date": "2026-08-07",
+"name": "EarthSky, PURSUE batch 5",
+"url": "https://earthsky.org/human-world/pentagon-uap-files-batch-5-ufos-orbs-triangles/"
+}
+],
+"tier": "B",
+"type": "custody"
+},
+{
+"claimTier": 2,
+"cls": "event",
+"dateEnd": "2026",
+"dateStart": "2026",
+"direction": "in",
+"edgeLabel": "Released the AC-130J gunship videos and DOW-UAP-D101",
+"id": "pursue-release-05",
+"l0": false,
+"label": "PURSUE Release 05",
+"note": "Six videos and an intelligence report documenting approximately 25 UAP instances over the Gulf of Oman on 8 September 2021, with objects reportedly reacting to cannon fire.",
+"sources": [
+{
+"date": "2026-08-10",
+"name": "EarthSky - 5th batch of Pentagon UAP files: orbs and triangles",
+"url": "https://earthsky.org/human-world/pentagon-uap-files-batch-5-ufos-orbs-triangles/"
+},
+{
+"date": "2026-08-07",
+"name": "Department of War - PURSUE portal (war.gov/UFO)",
+"url": "https://www.war.gov/UFO/"
+}
+],
+"tier": "A",
+"type": "custody"
+}
+],
+"coords": null,
+"dateEnd": "2026",
+"dateStart": "2021",
+"deg": 4,
+"denials": [
+{
+"by": {
+"id": "aaro-fy2024-annual-report",
+"label": "AARO FY2024 Consolidated Annual Report on UAP"
+},
+"claimTier": 3,
+"denialKind": "directed",
+"label": "A 2021 gunship engagement absent from the reporting periods that cover it",
+"note": "The 8 September 2021 incident falls inside the FY2023 and FY2024 reporting windows and appears in neither, which is either omission or evidence it sat outside AARO's case system.",
+"of": {
+"id": "gulf-of-oman-ac130j-2021",
+"label": "Gulf of Oman AC-130J UAP engagement, 8 September 2021"
+},
+"sources": [
+{
+"date": "2026-08-10",
+"name": "EarthSky - 5th batch of Pentagon UAP files: orbs and triangles",
+"url": "https://earthsky.org/human-world/pentagon-uap-files-batch-5-ufos-orbs-triangles/"
+},
+{
+"date": "2024-11-14",
+"name": "AARO - FY2024 Consolidated Annual Report on UAP (PDF)",
+"url": "https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF"
+},
+{
+"date": "2023-10-25",
+"name": "AARO - FY2023 Consolidated Annual Report on UAP (PDF)",
+"url": "https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf"
+}
+]
+}
+],
+"desc": "The most operationally significant single incident in the PURSUE corpus. On 8 September 2021 an AC-130J gunship over the Gulf of Oman encountered unidentified objects; the Department released six videos of the encounter together with intelligence report DOW-UAP-D101 in Release 05 on 7 August 2026. The report documents approximately 25 instances of UAP, describes them as cold orbs about four feet in diameter flying at low altitude at speeds between 250 and 1,300 mph, and records that the objects reportedly reacted to the aircraft's cannon fire. Every element of that is a category the government had previously kept out of the public record: a fixed-wing gunship, a weapons employment, a multiple-object event, an object reaction to ordnance, and a speed envelope. It is also a September 2021 incident released in August 2026 - which places it inside the reporting periods of the FY2023 and FY2024 AARO annual reports, neither of which describes anything resembling it, and behind the FY2024 report's finding that AARO's analytic constraint is a lack of timely and actionable sensor data.",
+"domains": [
+"_rs-archive-mirror",
+"releases-2023-2026"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "gulf-of-oman-ac130j-2021",
+"l0": false,
+"label": "Gulf of Oman AC-130J UAP engagement, 8 September 2021",
+"locLabel": null,
+"members": null,
+"short": "Gulf of Oman AC-130J UAP engagement, 8 September 2021",
+"sources": [
+{
+"date": "2026-08-10",
+"name": "Archived: Department of War - PURSUE portal (war.gov/UFO) (Wayback 2026-08-10)",
+"url": "https://web.archive.org/web/20260810202017/https://www.war.gov/UFO/"
+},
+{
+"date": "2026-08-08",
+"name": "Archived: AARO - FY2024 Consolidated Annual Report on UAP (PDF) (Wayback 2026-08-08)",
+"url": "https://web.archive.org/web/20260808222725/https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF"
+},
+{
+"date": "2026-05-08",
+"name": "Archived: AARO - FY2023 Consolidated Annual Report on UAP (PDF) (Wayback 2026-05-08)",
+"url": "https://web.archive.org/web/20260508180206/https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf"
+},
+{
+"date": "2026-08-10",
+"name": "EarthSky - 5th batch of Pentagon UAP files: orbs and triangles",
+"url": "https://earthsky.org/human-world/pentagon-uap-files-batch-5-ufos-orbs-triangles/"
+},
+{
+"date": "2026-08-07",
+"name": "Department of War - PURSUE portal (war.gov/UFO)",
+"url": "https://www.war.gov/UFO/"
+},
+{
+"date": "2024-11-14",
+"name": "AARO - FY2024 Consolidated Annual Report on UAP (PDF)",
+"url": "https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF"
+},
+{
+"date": "2023-10-25",
+"name": "AARO - FY2023 Consolidated Annual Report on UAP (PDF)",
+"url": "https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf"
+}
+],
+"sub": "Six videos and DOW-UAP-D101; released in PURSUE Release 05",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 271 of 1027, score 38). 4 connections, 2 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D3.",
+"timeline": []
+}

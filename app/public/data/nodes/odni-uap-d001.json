@@ -1,0 +1,150 @@
+{
+"A": 3,
+"C": 1,
+"D": 3,
+"band": null,
+"claims": [
+{
+"source": "Disclosure Archives inventory of the war.gov Release 02 posting",
+"text": "ODNI-UAP-D001, released in PURSUE Release 02 on 22 May 2026, is a first-person narrative by a serving senior intelligence officer of a one-hour, multi-witness UAP encounter from a military helicopter in late 2025.",
+"tier": 2
+},
+{
+"source": "Aerotime, 9 May 2026",
+"text": "Gabbard characterised PURSUE as an ongoing joint effort coordinated between intelligence and defence agencies.",
+"tier": 2
+},
+{
+"source": "Inference from the incident's stated duration and witness count against the resolution methodology in the FY2024 and FY2025 annual reports",
+"text": "A one-hour multi-witness encounter forecloses the two disposals AARO's annual reports rely on most - short duration and single-observer error - which is why its publication under an ODNI number rather than in an AARO case resolution matters.",
+"tier": 3
+}
+],
+"cls": "document",
+"cluster": "other",
+"connections": [
+{
+"claimTier": 2,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2026",
+"direction": "out",
+"edgeLabel": "ODNI-originated document inside a Department of War release",
+"id": "odni",
+"l0": true,
+"label": "Office of the Director of National Intelligence",
+"note": "The ODNI document numbering inside a war.gov tranche is the structural evidence that PURSUE is genuinely interagency rather than departmental.",
+"sources": [
+{
+"date": "2026-08-01",
+"name": "Disclosure Archives - Department of War files index",
+"url": "https://disclosurearchives.com/department-of-war-files"
+},
+{
+"date": "2026-05-09",
+"name": "Aerotime - US releases UFO files in UAP transparency push",
+"url": "https://www.aerotime.aero/articles/us-releases-ufo-uap-files"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 3,
+"cls": "document",
+"dateEnd": "2026-08-01",
+"dateStart": "2026-05-22",
+"direction": "out",
+"edgeLabel": "same originator, two months apart",
+"id": "odni-memo-es-2026-00818",
+"l0": true,
+"label": "ODNI Memorandum ES 2026-00818 - Preliminary Guidance for Implementation of NDA Waiver",
+"note": "ODNI put a serving officer's encounter narrative into the PURSUE corpus in May and directed the whole IC to release its UAP holdings to the PURSUE Task Force by August.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Disclosure Archives, DoW PURSUE file index",
+"url": "https://disclosurearchives.com/department-of-war-files"
+},
+{
+"date": "2026-08-01",
+"name": "ODNI Memorandum ES 2026-00818",
+"url": "https://burlison.house.gov/sites/evo-subsites/burlison.house.gov/files/evo-media-document/memorandum_2026.pdf"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": "2026",
+"dateStart": "2026",
+"direction": "in",
+"edgeLabel": "Published the serving officer's encounter narrative",
+"id": "pursue-release-02",
+"l0": false,
+"label": "PURSUE Release 02",
+"note": "A serving senior intelligence officer's first-person narrative of a one-hour, multi-witness encounter, published under an ODNI document number five months after the event.",
+"sources": [
+{
+"date": "2026-08-01",
+"name": "Disclosure Archives - Department of War files index",
+"url": "https://disclosurearchives.com/department-of-war-files"
+}
+],
+"tier": "B",
+"type": "custody"
+}
+],
+"coords": null,
+"dateEnd": "2026",
+"dateStart": "2025",
+"deg": 3,
+"denials": [],
+"desc": "An ODNI-numbered document published in PURSUE Release 02 on 22 May 2026: a first-person narrative written by a serving senior intelligence officer describing a one-hour, multi-witness UAP encounter observed from a military helicopter in late 2025. Four properties make it the most unusual item in the corpus. The witness is serving, not retired. The witness is a senior intelligence officer, not aircrew. The account is first-person narrative, not a case summary. And the encounter is an hour long with multiple witnesses, which removes the two disposals - brief duration and single observer - that AARO's annual reports use to close most cases. It is also the clearest structural evidence that PURSUE is genuinely interagency: ODNI put an operational account by one of its own serving officers into a Department of War release series, under an ODNI document number, five months after the encounter.",
+"domains": [
+"_rs-archive-mirror",
+"releases-2023-2026"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "odni-uap-d001",
+"l0": false,
+"label": "ODNI-UAP-D001 - serving senior intelligence officer's UAP encounter narrative",
+"locLabel": null,
+"members": null,
+"short": "ODNI-UAP-D001 - serving senior intelligence officer's UAP encounter narrative",
+"sources": [
+{
+"date": "2026-08-10",
+"name": "Archived: Department of War - PURSUE portal (war.gov/UFO) (Wayback 2026-08-10)",
+"url": "https://web.archive.org/web/20260810202017/https://www.war.gov/UFO/"
+},
+{
+"date": "2026-08-01",
+"name": "Disclosure Archives - Department of War files index",
+"url": "https://disclosurearchives.com/department-of-war-files"
+},
+{
+"date": "2026-05-09",
+"name": "Aerotime - US releases UFO files in UAP transparency push",
+"url": "https://www.aerotime.aero/articles/us-releases-ufo-uap-files"
+},
+{
+"date": "2026-08-07",
+"name": "Department of War - PURSUE portal (war.gov/UFO)",
+"url": "https://www.war.gov/UFO/"
+}
+],
+"sub": "Released in PURSUE Release 02, 22 May 2026; incident late 2025",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 468 of 1027, score 30). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A3/D3.",
+"timeline": []
+}

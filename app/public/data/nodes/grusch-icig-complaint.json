@@ -1,0 +1,235 @@
+{
+"A": 3,
+"C": 2,
+"D": 3,
+"band": null,
+"claims": [
+{
+"source": "Grusch sworn testimony 26 July 2023; The Debrief 5 June 2023; unclassified reprisal complaint reported 13 June 2023",
+"text": "Filed 25 May 2022 with the ICIG by counsel Charles McCullough III; found credible and urgent in July 2022.",
+"tier": 1
+},
+{
+"source": "House Oversight hearing transcript, 26 July 2023",
+"text": "Grusch's unclassified description of the complaint's subject: 'Both material acquisition and exploitation activity, also baselining the UAPs but not sharing it with intelligence professionals that are actually doing step briefs to pilots.'",
+"tier": 1
+},
+{
+"source": "Unclassified reprisal complaint reported by Liberation Times, 13 June 2023",
+"text": "The reprisal complaint alleges Grusch's identity and his DoD IG communications were disclosed to DoD and IC entities outside the IG's office.",
+"tier": 2
+}
+],
+"cls": "document",
+"cluster": "other",
+"connections": [
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "2022",
+"dateStart": "2022",
+"direction": "in",
+"edgeLabel": "Filed the complaint as counsel; former ICIG filing with the ICIG",
+"id": "charles-mccullough-iii",
+"l0": false,
+"label": "Irvin Charles McCullough III",
+"note": "The first Inspector General of the Intelligence Community drafted and filed the urgent-concern complaint with the office he previously ran. This is the strongest structural credential in the file.",
+"sources": [
+{
+"date": "2023-06-05",
+"name": "The Debrief - Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin",
+"url": "https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "2022",
+"dateStart": "2022",
+"direction": "in",
+"edgeLabel": "Complainant of record, PPD-19 urgent concern, 25 May 2022",
+"id": "david-grusch",
+"l0": false,
+"label": "David Charles Grusch",
+"note": "Grusch testified he 'became a whistleblower through a PPD-19 urgent concern filing in May 2022 with the intelligence community inspector general.' The Debrief dates the filing 25 May 2022 and identifies counsel.",
+"sources": [
+{
+"date": "2023-07-26",
+"name": "House Oversight hearing transcript, Serial No. 118-53",
+"url": "https://www.congress.gov/118/meeting/house/116282/documents/HHRG-118-GO06-Transcript-20230726.pdf"
+},
+{
+"date": "2023-06-13",
+"name": "Liberation Times - Unclassified Version Of Grusch's Reprisal Complaint Released",
+"url": "https://www.liberationtimes.com/home/unclassified-version-of-david-gruschs-ufo-related-reprisal-complaint-released"
+}
+],
+"tier": "A",
+"type": "witness-chain"
+},
+{
+"claimTier": 3,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2022-05-01",
+"direction": "out",
+"edgeLabel": "An urgent concern complaint enters a system whose SAP layer is itself compartmented",
+"id": "gang-of-eight",
+"l0": false,
+"label": "The Gang of Eight and the limited-notification convention",
+"note": "The ICIG PPD-19 route reaches the intelligence committees, but access to waived DoD programs is restricted by DoDD 5205.07 (2010) para 4.f to chairs, ranking members and staff directors.",
+"sources": [
+{
+"date": "2018-08-31",
+"name": "DoD Directive 5205.07, 1 July 2010, Change 1 31 August 2018",
+"url": "https://web.archive.org/web/20190922210932/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf"
+}
+],
+"tier": "B",
+"type": "witness-chain"
+},
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": "2023",
+"dateStart": "2022",
+"direction": "out",
+"edgeLabel": "Fourteen months from urgent-concern determination to public testimony",
+"id": "hearing-2023-07-26",
+"l0": true,
+"label": "House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'",
+"note": "The ICIG found the complaint credible and urgent in July 2022; Grusch testified publicly in July 2023 only after leaving government and clearing his statements through DOPSR. The intervening year is the period the reprisal complaint covers.",
+"sources": [
+{
+"date": "2023-07-26",
+"name": "House Oversight hearing transcript",
+"url": "https://www.congress.gov/118/meeting/house/116282/documents/HHRG-118-GO06-Transcript-20230726.pdf"
+},
+{
+"date": "2023-06-05",
+"name": "The Debrief",
+"url": "https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/"
+}
+],
+"tier": "A",
+"type": "temporal"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "2022",
+"dateStart": "2022",
+"direction": "in",
+"edgeLabel": "Determined the complaint credible and urgent, July 2022",
+"id": "icig",
+"l0": false,
+"label": "Inspector General of the Intelligence Community",
+"note": "The statutory urgent-concern finding by the IC's own watchdog, which obliges transmission to the congressional intelligence committees. It is the highest-grade institutional validation in the disclosure record and has never been withdrawn.",
+"sources": [
+{
+"date": "2023-07-26",
+"name": "House Oversight hearing transcript, Serial No. 118-53",
+"url": "https://www.congress.gov/118/meeting/house/116282/documents/HHRG-118-GO06-Transcript-20230726.pdf"
+},
+{
+"date": "2023-06-05",
+"name": "The Debrief",
+"url": "https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/"
+}
+],
+"tier": "B",
+"type": "institutional"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "2022",
+"deg": 5,
+"denials": [],
+"desc": "The founding document of the modern disclosure record. Filed 25 May 2022 with the Inspector General of the Intelligence Community by Irvin Charles McCullough III - the IC's first Inspector General - on behalf of David Grusch, under Presidential Policy Directive 19 and the urgent-concern statute. It followed an earlier July 2021 protected disclosure by Grusch to the DoD Inspector General. The preponderance of the complaint is classified; Grusch's unclassified characterization under oath is that it concerns 'both material acquisition and exploitation activity' and the withholding of UAP baselining data from the intelligence professionals who brief aircrews. In July 2022 the ICIG determined the complaint credible and urgent, the statutory trigger for transmission to the congressional intelligence committees. A companion reprisal complaint alleges Grusch's identity and his UAP communications with the DoD IG were disclosed outside the IG channel; the unclassified version reported in June 2023 names Avril Haines, Sean Kirkpatrick, Susan Gough, Sen. Kirsten Gillibrand and Rep. Tim Burchett in its account of how the information moved. Grusch testified that the ICIG had no smooth mechanism to route the disclosure to the Armed Services Committees despite Title 10 equities - meaning the substantive Title 10 allegations may never have reached the committees with jurisdiction over the alleged programs.",
+"domains": [
+"_rs-archive-mirror",
+"grusch"
+],
+"dossier": null,
+"entityInfo": {
+"desc": "Chain of custody for the complaint, as established by sworn testimony and reporting. July 2021: Grusch makes a protected disclosure of classified information to the DoD Inspector General concerning the improper withholding and concealment of UAP-related material from Congress. 25 May 2022: Irvin Charles McCullough III of Compass Rose Legal Group, the first Inspector General of the Intelligence Community, files a PPD-19 urgent-concern complaint with the ICIG on Grusch's behalf. July 2022: the ICIG determines the complaint credible and urgent, the statutory trigger for transmission to the congressional intelligence committees. A companion reprisal complaint alleges Grusch's identity and his DoD IG communications were disclosed to DoD and IC entities outside the IG's office; the unclassified version reported in June 2023 references DNI Avril Haines, AARO director Sean Kirkpatrick, DoD spokesperson Susan Gough, Sen. Kirsten Gillibrand and Rep. Tim Burchett in its account of how the information moved. Grusch's unclassified description of the underlying subject matter, given under oath to Chairman Grothman: 'Both material acquisition and exploitation activity, also baselining the UAPs but not sharing it with, you know, intelligence professionals that are actually doing step briefs to pilots.' He further testified that the preponderance of the complaint was classified, that he knows the exact locations of held material and provided them to the Inspector General and in part to the intelligence committees, and that he had the individuals with firsthand knowledge make their own protected disclosures. He also testified to a routing failure: PPD-19 and ICD 120 send such disclosures to the intelligence committees, and there was no good mechanism for the ICIG to provide his information to the House and Senate Armed Services Committees despite Title 10 equities being at play.",
+"sources": [
+{
+"date": "2023-07-26",
+"name": "House Oversight hearing transcript, Serial No. 118-53",
+"url": "https://www.congress.gov/118/meeting/house/116282/documents/HHRG-118-GO06-Transcript-20230726.pdf"
+},
+{
+"date": "2023-06-05",
+"name": "The Debrief - Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin",
+"url": "https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/"
+},
+{
+"date": "2023-06-13",
+"name": "Liberation Times - Unclassified Version Of David Grusch's UFO-Related Reprisal Complaint Released",
+"url": "https://www.liberationtimes.com/home/unclassified-version-of-david-gruschs-ufo-related-reprisal-complaint-released"
+}
+]
+},
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "grusch-icig-complaint",
+"l0": false,
+"label": "Grusch PPD-19 Urgent Concern Complaint to the ICIG",
+"locLabel": null,
+"members": null,
+"short": "Grusch PPD-19 Urgent Concern Complaint to the ICIG",
+"sources": [
+{
+"date": "2026-08-07",
+"name": "Archived: ODNI ICIG - Disclosure of Urgent Concern Form (Wayback 2026-08-07)",
+"url": "https://web.archive.org/web/20260807214055/https://www.dni.gov/files/ICIG/Documents/Hotline/Urgent%20Concern%20Disclosure%20Form.pdf"
+},
+{
+"date": "2023-06-13",
+"name": "Liberation Times - Unclassified Version Of David Grusch's UFO-Related Reprisal Complaint Released",
+"url": "https://www.liberationtimes.com/home/unclassified-version-of-david-gruschs-ufo-related-reprisal-complaint-released"
+},
+{
+"date": "2023-07-26",
+"name": "House Oversight hearing transcript, Serial No. 118-53",
+"url": "https://www.congress.gov/118/meeting/house/116282/documents/HHRG-118-GO06-Transcript-20230726.pdf"
+},
+{
+"date": "2023-06-05",
+"name": "ODNI ICIG - Disclosure of Urgent Concern Form",
+"url": "https://www.dni.gov/files/ICIG/Documents/Hotline/Urgent%20Concern%20Disclosure%20Form.pdf"
+}
+],
+"sub": "Whistleblower complaint, 25 May 2022",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 214 of 1027, score 42). 5 connections, 2 of them custody/witness/funding/programmatic. Axes C2/A3/D3.",
+"timeline": [
+{
+"date": "2021-07-01",
+"id": "g-tl-2021-07-dodig",
+"label": "First disclosure to the DoD Inspector General",
+"precision": "month",
+"strand": "witness",
+"text": "Grusch provides classified information to the DoD IG regarding the improper withholding and concealment of UAP-related material from Congress, ten months before the ICIG filing.",
+"tier": "A"
+},
+{
+"date": "2022-05-25",
+"id": "g-tl-2022-05-icig",
+"label": "PPD-19 urgent-concern complaint filed with the ICIG",
+"precision": "day",
+"strand": "witness",
+"text": "Charles McCullough III, the first Inspector General of the Intelligence Community, files Grusch's urgent-concern complaint with the office he once ran.",
+"tier": "A"
+}
+]
+}

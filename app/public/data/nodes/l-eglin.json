@@ -1,0 +1,170 @@
+{
+"A": 2,
+"C": 2,
+"D": 2,
+"band": null,
+"claims": [
+{
+"source": "GPO CHRG-118hhrg53022, 26 July 2023",
+"text": "Gaetz: the flight crew 'were out on a test mission that day over the Gulf of Mexico and when you are on a test mission you are supposed to have clear airspace... And they saw a sequence of four craft in a clear diamond formation for which there is a radar sequence that I and I alone have observed in the U.S. Congress.'",
+"tier": 1
+},
+{
+"source": "GPO CHRG-119hhrg61718, 9 September 2025",
+"text": "Luna: 'the infamous Eglin Air Force Base incident that occurred when myself and former Representative Matt Gates, as well as Representative Burchett, followed up on a lead from multiple active duty Air Force pilot whistleblowers that alleged that the United States Air Force was covering up UAP activity at Eglin Air Force Base.'",
+"tier": 1
+},
+{
+"source": "CHRG-118hhrg53022, 26 July 2023",
+"text": "Gaetz recommended that the Eglin radar images and crew photograph be provided to the Committee, 'subpoenaed if necessary'; no such production has been recorded.",
+"tier": 1
+}
+],
+"cls": "location",
+"cluster": "oversight",
+"connections": [
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "2023",
+"direction": "in",
+"edgeLabel": "Accompanied Gaetz to Eglin; described 'the infamous Eglin Air Force Base incident' in 2025",
+"id": "anna-paulina-luna",
+"l0": false,
+"label": "Anna Paulina Luna",
+"note": "Luna's 2025 opening statement attributes the lead to multiple active-duty Air Force pilot whistleblowers alleging an Air Force cover-up at Eglin.",
+"sources": [
+{
+"date": "2023-07-26",
+"name": "U.S. GPO, Hearing transcript, Serial No. 118-53 (CHRG-118hhrg53022)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm"
+},
+{
+"date": "2025-09-09",
+"name": "U.S. GPO, Hearing transcript, Serial No. 119-44 (CHRG-119hhrg61718)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm"
+}
+],
+"tier": "A",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": "2023",
+"dateStart": "2023",
+"direction": "out",
+"edgeLabel": "The Eglin radar sequence and imagery were requested from the dais, 'subpoenaed if necessary'",
+"id": "hearing-2023-07-26",
+"l0": true,
+"label": "House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'",
+"note": "No production of the Eglin material to the committee has been recorded as of August 2026.",
+"sources": [
+{
+"date": "2023-07-26",
+"name": "U.S. GPO, Hearing transcript, Serial No. 118-53 (CHRG-118hhrg53022)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm"
+}
+],
+"tier": "A",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "2023",
+"direction": "in",
+"edgeLabel": "Received a protected disclosure from Eglin and went to the base with Burchett and Luna",
+"id": "matt-gaetz",
+"l0": false,
+"label": "Matthew Louis Gaetz II",
+"note": "Initially refused images, radar and full crew access; obtained a photograph and one crew member after a discussion 'about how authorities flow in the United States of America.'",
+"sources": [
+{
+"date": "2023-07-26",
+"name": "U.S. GPO, Hearing transcript, Serial No. 118-53 (CHRG-118hhrg53022)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm"
+}
+],
+"tier": "C",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "2023",
+"direction": "in",
+"edgeLabel": "Accompanied Gaetz to Eglin on the protected disclosure",
+"id": "tim-burchett",
+"l0": false,
+"label": "Timothy Floyd Burchett",
+"note": "Named by Gaetz on the record and again by Luna in 2025.",
+"sources": [
+{
+"date": "2023-07-26",
+"name": "U.S. GPO, Hearing transcript, Serial No. 118-53 (CHRG-118hhrg53022)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm"
+},
+{
+"date": "2025-09-09",
+"name": "U.S. GPO, Hearing transcript, Serial No. 119-44 (CHRG-119hhrg61718)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm"
+}
+],
+"tier": "A",
+"type": "investigative"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "1935",
+"deg": 4,
+"denials": [],
+"desc": "The Air Force installation in Florida's first congressional district that produced the only UAP incident a member of Congress has personally investigated on site. Matt Gaetz's office received a protected disclosure from Eglin; he travelled there with Burchett and Luna and was initially refused images, radar and full flight-crew access before obtaining a photograph and an interview with one crew member. The incident involved a test mission over the Gulf of Mexico in airspace that was supposed to be clear, and a formation of four craft in a diamond plus an orb. Gaetz described the radar sequence as one he alone in Congress had seen and asked that the material be subpoenaed. Luna returned to Eglin in her September 2025 opening statement, describing 'the infamous Eglin Air Force Base incident' and stating that multiple active-duty Air Force pilot whistleblowers alleged that the Air Force was covering up UAP activity there. As of August 2026 the Eglin radar and imagery have not been produced to the committee.",
+"domains": [
+"congress-house"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "l-eglin",
+"l0": false,
+"label": "Eglin Air Force Base, Florida",
+"locLabel": null,
+"members": null,
+"short": "Eglin Air Force Base, Florida",
+"sources": [
+{
+"date": "2023-07-26",
+"name": "U.S. GPO, Hearing transcript, Serial No. 118-53 (CHRG-118hhrg53022)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm"
+},
+{
+"date": "2025-09-09",
+"name": "U.S. GPO, Hearing transcript, Serial No. 119-44 (CHRG-119hhrg61718)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm"
+}
+],
+"sub": "USAF installation; site of the 2023 protected disclosure",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 443 of 1027, score 31). 4 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A2/D2.",
+"timeline": [
+{
+"date": "2023-07-26",
+"id": "ch-2023-07-26d",
+"label": "Gaetz: the Eglin radar sequence",
+"precision": "day",
+"strand": "coverup",
+"text": "Gaetz describes being initially refused images, radar and full crew access at Eglin AFB, obtaining a photograph and one crew member after a discussion about how authorities flow, and asks that the radar material be subpoenaed. It never was.",
+"tier": "A"
+}
+]
+}

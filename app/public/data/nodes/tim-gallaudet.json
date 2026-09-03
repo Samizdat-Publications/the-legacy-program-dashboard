@@ -1,0 +1,451 @@
+{
+"A": 2,
+"C": 1,
+"D": 3,
+"affiliations": [
+"US Navy (1989-2017), Rear Admiral",
+"Commander, Naval Meteorology and Oceanography Command (2015)",
+"Oceanographer of the Navy",
+"NOAA Deputy Administrator / acting Administrator (2017-2019)",
+"Ocean STL Consulting, CEO",
+"US Navy, Rear Admiral (retired 2017)",
+"NOAA, Assistant Secretary and Acting Administrator (2017-2019)",
+"Ocean STL Consulting",
+"UAP Science Advisory Council",
+"formerly NOAA",
+"formerly US Navy"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "2015-01-01",
+"event": "Receives the 'URGENT SAFETY OF FLIGHT ISSUE' email from the Fleet Forces Command operations officer carrying the GO FAST video",
+"precision": "month"
+},
+{
+"date": "2015-01-02",
+"event": "Says the email vanished from his and other recipients' accounts the following day",
+"precision": "month"
+},
+{
+"date": "2017-01-01",
+"event": "Becomes NOAA Deputy Administrator; later acting Administrator",
+"precision": "year"
+},
+{
+"date": "2024-11-13",
+"event": "Testifies to House Oversight joint subcommittees about the recalled email",
+"precision": "day"
+},
+{
+"date": "2024-11-13",
+"event": "Testifies at House Oversight hearing 'UAP: Exposing the Truth'",
+"precision": "day"
+},
+{
+"date": "2026-02-20",
+"event": "'As with other promises made by Trump, I'll believe it when I see it.'",
+"precision": "day"
+},
+{
+"date": "2026-02-20",
+"event": "'I'll believe it when I see it' on the presidential UAP direction",
+"precision": "day"
+},
+{
+"date": "2026-05-14",
+"event": "Criticises PURSUE Release 01 for absent metadata",
+"precision": "day"
+},
+{
+"date": "2026-06-17",
+"event": "Named to the UAP Science Advisory Council",
+"precision": "day"
+}
+],
+"claims": [
+{
+"source": "CHRG-118hhrg57440 CONTENTS",
+"text": "Witness of record at the 13 November 2024 House Oversight joint hearing: 'Dr. Tim Gallaudet, Rear Admiral, U.S. Navy (RET.), Chief Executive Officer, Ocean STL Consulting, LLC'.",
+"tier": 1
+},
+{
+"source": "Tim Gallaudet, written testimony, House Oversight joint subcommittee hearing, 13 November 2024",
+"text": "In January 2015 the operations officer of Fleet Forces Command emailed all subordinate commanders under the subject 'URGENT SAFETY OF FLIGHT ISSUE,' attaching the GO FAST video and writing 'If any of you know what these are, tell me ASAP. We are having multiple near-midair collisions, and if we do not resolve it soon, we will have to shut down the exercise.'",
+"tier": 2
+},
+{
+"source": "Tim Gallaudet, written testimony, House Oversight, 13 November 2024",
+"text": "The email disappeared from his account and other recipients' accounts the next day without explanation.",
+"tier": 2
+},
+{
+"source": "Tim Gallaudet, written testimony, House Oversight, 13 November 2024",
+"text": "He concluded the information 'must have been classified within a special access program managed by an intelligence agency.'",
+"tier": 2
+},
+{
+"source": "Tim Gallaudet to DefenseScoop, 14 May 2026",
+"text": "'The fact that this was the first time that an administration openly admitted that UAP files have been shielded from the public was promising. However, the ambiguity of the video content in particular is concerning as no metadata was included.'",
+"tier": 2
+},
+{
+"source": "DefenseScoop, 14 May 2026",
+"text": "Gallaudet said the absence of metadata made it impossible to conclude that any released object was truly anomalous.",
+"tier": 2
+},
+{
+"source": "CHRG-118hhrg57440",
+"text": "Gallaudet testified as a witness at the 13 November 2024 House Oversight hearing printed as Serial No. 118-135.",
+"tier": 1
+},
+{
+"source": "https://defensescoop.com/2026/05/14/uap-trump-first-pursue-ufo-file-drop/",
+"text": "'The ambiguity of the video content in particular is concerning as no metadata was included.'",
+"tier": 2
+},
+{
+"source": "https://defensescoop.com/2026/02/20/trump-ufo-uap-government-files-disclosure/",
+"text": "'As with other promises made by Trump, I'll believe it when I see it,' referencing unreleased Epstein files.",
+"tier": 2
+},
+{
+"source": "https://defensescoop.com/2026/06/17/new-science-advisory-council-forms-to-help-us-government-resolve-the-uap-mystery/",
+"text": "Named a member of the UAP Science Advisory Council announced 17 June 2026.",
+"tier": 2
+}
+],
+"cls": "person",
+"cluster": "other",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 2,
+"cls": "institution",
+"dateEnd": "2024",
+"dateStart": "2015",
+"direction": "out",
+"edgeLabel": "Flag-officer corroboration of the safety-reporting failure ASA was built around",
+"id": "americans-for-safe-aerospace",
+"l0": true,
+"label": "Americans for Safe Aerospace",
+"note": "Gallaudet's recalled-email account and Graves's unacknowledged squadron safety report describe the same broken machinery from opposite ends of the chain of command.",
+"sources": [
+{
+"date": "2024-11-13",
+"name": "House Oversight - Gallaudet written testimony (PDF)",
+"url": "https://oversight.house.gov/wp-content/uploads/2024/11/Updated-Testimony-Gallaudet.pdf"
+},
+{
+"date": "2023-07-26",
+"name": "House Oversight - Graves written testimony (PDF)",
+"url": "https://oversight.house.gov/wp-content/uploads/2023/07/Ryan-HOC-Testimony.pdf"
+}
+],
+"tier": "B",
+"type": "programmatic"
+},
+{
+"claimTier": 2,
+"cls": "document",
+"dateEnd": "2024",
+"dateStart": "2015",
+"direction": "out",
+"edgeLabel": "Recipient of the message and the witness to its deletion",
+"id": "gallaudet-2015-email",
+"l0": false,
+"label": "Fleet Forces Command 'URGENT SAFETY OF FLIGHT ISSUE' Email (Jan 2015, recalled)",
+"note": "Gallaudet, then Commander of Naval Meteorology and Oceanography Command, testified the email vanished from his and other recipients' accounts the next day.",
+"sources": [
+{
+"date": "2024-11-13",
+"name": "House Oversight - Gallaudet written testimony (PDF)",
+"url": "https://oversight.house.gov/wp-content/uploads/2024/11/Updated-Testimony-Gallaudet.pdf"
+}
+],
+"tier": "B",
+"type": "witness-chain"
+},
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": null,
+"dateStart": "2024-11-13",
+"direction": "out",
+"edgeLabel": "sworn witness",
+"id": "hearing-2024-11-13",
+"l0": true,
+"label": "House Oversight joint hearing, 13 November 2024 - 'Unidentified Anomalous Phenomena: Exposing the Truth'",
+"note": "Listed in the printed hearing record as a witness.",
+"sources": [
+{
+"date": "2024-11-13",
+"name": "CHRG-118hhrg57440, printed hearing transcript, 'Unidentified Anomalous Phenomena: Exposing the Truth', Serial No. 118-135",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/pdf/CHRG-118hhrg57440.pdf"
+}
+],
+"tier": "A",
+"type": "programmatic"
+},
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": "2024",
+"dateStart": "2024",
+"direction": "out",
+"edgeLabel": "Testified before the House Oversight joint subcommittees",
+"id": "hearing-2024-11-13",
+"l0": true,
+"label": "House Oversight joint hearing, 13 November 2024 - 'Unidentified Anomalous Phenomena: Exposing the Truth'",
+"note": "Gallaudet's statement urged members to 'wield their subpoena power against hostile witnesses and prevent additional government funding to those UAP efforts that remain hidden from congressional oversight.'",
+"sources": [
+{
+"date": "2024-11-13",
+"name": "House Oversight - hearing page, 13 Nov 2024",
+"url": "https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-exposing-the-truth/"
+},
+{
+"date": "2024-11-13",
+"name": "House Oversight - Gallaudet written testimony (PDF)",
+"url": "https://oversight.house.gov/wp-content/uploads/2024/11/Updated-Testimony-Gallaudet.pdf"
+},
+{
+"date": "2024-11-13",
+"name": "U.S. GPO, Hearing transcript, Serial No. 118-135 (CHRG-118hhrg57440)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm"
+},
+{
+"date": "2024-11-13",
+"name": "HHRG-118-GO12 transcript",
+"url": "https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Transcript-20241113.pdf"
+}
+],
+"tier": "A",
+"type": "witness-chain"
+},
+{
+"claimTier": 2,
+"cls": "program",
+"dateEnd": null,
+"dateStart": "2026",
+"direction": "out",
+"edgeLabel": "Said the absence of metadata made it impossible to conclude any object was truly anomalous",
+"id": "pursue-releases",
+"l0": true,
+"label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters",
+"note": "A 2024 House witness assessing the 2026 executive release.",
+"sources": [
+{
+"date": "2026-05-14",
+"name": "DefenseScoop: 'Data alone is not disclosure' — UAP research community reacts to Trump's first PURSUE file drop",
+"url": "https://defensescoop.com/2026/05/14/uap-trump-first-pursue-ufo-file-drop/"
+}
+],
+"tier": "A",
+"type": "behavioral"
+},
+{
+"claimTier": 2,
+"cls": "program",
+"dateEnd": "2026",
+"dateStart": "2026",
+"direction": "out",
+"edgeLabel": "Identified the missing metadata as the disqualifying defect",
+"id": "pursue-releases",
+"l0": true,
+"label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters",
+"note": "Gallaudet welcomed the first open admission that UAP files had been shielded and said the absence of metadata made it impossible to conclude any object was truly anomalous.",
+"sources": [
+{
+"date": "2026-05-14",
+"name": "DefenseScoop - 'Data alone is not disclosure': UAP research community reacts to Trump's first PURSUE file drop",
+"url": "https://defensescoop.com/2026/05/14/uap-trump-first-pursue-ufo-file-drop/"
+},
+{
+"date": "2026-02-20",
+"name": "DefenseScoop - Transparency proponents meet Trump's UAP disclosure tease with hope and caution",
+"url": "https://defensescoop.com/2026/02/20/trump-ufo-uap-government-files-disclosure/"
+}
+],
+"tier": "A",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "2026",
+"dateStart": "2022",
+"direction": "in",
+"edgeLabel": "Gallaudet on Sol's Natural Sciences and US Government Advisory Boards",
+"id": "sol-foundation",
+"l0": true,
+"label": "The Sol Foundation",
+"note": "'Beneath the Surface: We May Learn More about UAP by Looking in the Ocean' opened the foundation's numbered series; Gallaudet was subsequently named to the 2026 advisory council.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "The Sol Foundation - People",
+"url": "https://thesolfoundation.org/people/"
+},
+{
+"date": "2026-06-22",
+"name": "The Sol Foundation - UAP Science Advisory Council announcement",
+"url": "https://thesolfoundation.org/sol-foundation-co-founders-named-to-uap-science-advisory-council/"
+},
+{
+"date": "2026-08-12",
+"name": "The Sol Foundation - White Papers and Policy Briefings index",
+"url": "https://thesolfoundation.org/white-papers/"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 2,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2026",
+"direction": "in",
+"edgeLabel": "Gallaudet named to the council as its oceanographer",
+"id": "uap-science-advisory-council",
+"l0": true,
+"label": "UAP Science Advisory Council",
+"note": "A retired rear admiral and former acting NOAA administrator, and a Sol Foundation senior adviser, seated on the government's outside science body.",
+"sources": [
+{
+"date": "2026-06-15",
+"name": "Skeptic / Skeptics Society, 'Michael Shermer Named to White House UAP Science Advisory Council'",
+"url": "https://www.skeptic.com/article/michael-shermer-named-to-white-house-uap-science-advisory-council/"
+},
+{
+"date": "2026-06-01",
+"name": "The Sol Foundation, 'Sol Foundation Co-Founders Named to UAP Science Advisory Council'",
+"url": "https://thesolfoundation.org/sol-foundation-co-founders-named-to-uap-science-advisory-council/"
+},
+{
+"date": "2026-05-14",
+"name": "DefenseScoop, 'Data alone is not disclosure'",
+"url": "https://defensescoop.com/2026/05/14/uap-trump-first-pursue-ufo-file-drop/"
+},
+{
+"date": "2026-06-17",
+"name": "DefenseScoop, UAP Science Advisory Council",
+"url": "https://defensescoop.com/2026/06/17/new-science-advisory-council-forms-to-help-us-government-resolve-the-uap-mystery/"
+}
+],
+"tier": "A",
+"type": "institutional"
+}
+],
+"date": "2024-11-13",
+"dateEnd": null,
+"dateStart": "2024-11-13",
+"deg": 6,
+"denials": [],
+"domains": [
+"_rs-archive-mirror",
+"_rs-legislation",
+"aviators-incidents",
+"releases-2023-2026",
+"w2-2025-2026"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "tim-gallaudet",
+"instId": "dod",
+"l0": false,
+"label": "Timothy Gallaudet",
+"loc": "Washington, DC",
+"locId": "l-dc",
+"members": null,
+"narrative": "Gallaudet is the flag officer who put the safety-of-flight coverup into the congressional record in the first person. Testifying before the joint House Oversight subcommittees on 13 November 2024, he described a January 2015 email from the operations officer of US Fleet Forces Command to all subordinate commanders with the subject line 'URGENT SAFETY OF FLIGHT ISSUE.' The email carried the GO FAST video and, in Gallaudet's account, asked: 'If any of you know what these are, tell me ASAP. We are having multiple near-midair collisions, and if we do not resolve it soon, we will have to shut down the exercise.' The next day, he testified, the email disappeared from his account and from other recipients' accounts without explanation. His conclusion in sworn written testimony is the sharpest available statement of the mechanism: the information 'must have been classified within a special access program managed by an intelligence agency.' This is the single most useful witness account on the board for the question of authority, because it describes not a leak or a rumour but an administrative action taken against an official Navy safety communication - a recall of a fleet-wide flight-safety warning. Gallaudet was Commander, Naval Meteorology and Oceanography Command in 2015, later Oceanographer of the Navy, then Assistant Secretary of Commerce and acting NOAA Administrator.",
+"photoCredit": null,
+"sequenceChain": [
+{
+"date": "2015-01-01",
+"event": "Receives the 'URGENT SAFETY OF FLIGHT ISSUE' email from the Fleet Forces Command operations officer carrying the GO FAST video",
+"isAnomalous": false,
+"source": "Tim Gallaudet, written testimony, House Oversight joint subcommittee hearing, 13 November 2024"
+},
+{
+"date": "2015-01-02",
+"event": "Says the email vanished from his and other recipients' accounts the following day",
+"isAnomalous": true,
+"source": "Tim Gallaudet, written testimony, House Oversight, 13 November 2024"
+},
+{
+"date": "2024-11-13",
+"event": "Testifies to House Oversight joint subcommittees about the recalled email",
+"isAnomalous": false,
+"source": "Tim Gallaudet, written testimony, House Oversight joint subcommittee hearing, 13 November 2024"
+}
+],
+"short": "Timothy Gallaudet",
+"sources": [
+{
+"date": "2026-08-02",
+"name": "Archived: DoD statement releasing the three Navy videos (Wayback 2026-08-02)",
+"url": "https://web.archive.org/web/20260802200608/https://www.war.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/"
+},
+{
+"date": "2024-11-13",
+"name": "CHRG-118hhrg57440, printed hearing transcript, 'Unidentified Anomalous Phenomena: Exposing the Truth', Serial No. 118-135",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/pdf/CHRG-118hhrg57440.pdf"
+},
+{
+"date": "2024-11-13",
+"name": "House Oversight - Gallaudet written testimony (PDF)",
+"url": "https://oversight.house.gov/wp-content/uploads/2024/11/Updated-Testimony-Gallaudet.pdf"
+},
+{
+"date": "2024-11-13",
+"name": "House Oversight - hearing page, 13 Nov 2024",
+"url": "https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-exposing-the-truth/"
+},
+{
+"date": "2020-04-27",
+"name": "DoD statement releasing the three Navy videos",
+"url": "https://www.war.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/"
+},
+{
+"date": "2026-05-14",
+"name": "DefenseScoop - 'Data alone is not disclosure': UAP research community reacts to Trump's first PURSUE file drop",
+"url": "https://defensescoop.com/2026/05/14/uap-trump-first-pursue-ufo-file-drop/"
+},
+{
+"date": "2026-02-20",
+"name": "DefenseScoop - Transparency proponents meet Trump's UAP disclosure tease with hope and caution",
+"url": "https://defensescoop.com/2026/02/20/trump-ufo-uap-government-files-disclosure/"
+},
+{
+"date": "2024-11-13",
+"name": "U.S. GPO - Hearing transcript, Serial No. 118-135 (CHRG-118hhrg57440)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm"
+},
+{
+"date": "2026-06-17",
+"name": "DefenseScoop, UAP Science Advisory Council",
+"url": "https://defensescoop.com/2026/06/17/new-science-advisory-council-forms-to-help-us-government-resolve-the-uap-mystery/"
+}
+],
+"status": "active",
+"sub": "Rear Admiral, USN (Ret.); former Oceanographer of the Navy; former acting NOAA Administrator",
+"tier": "A",
+"tierRationale": "Re-graded A on a global pass (rank 113 of 1027, score 58). 8 connections, 4 of them custody/witness/funding/programmatic. Axes C1/A2/D3.",
+"timeline": [],
+"unexplainedResidual": "A US Fleet Forces Command flight-safety message reporting 'multiple near-midair collisions' was withdrawn from the accounts of every recipient within 24 hours, and no agency has ever acknowledged doing so.",
+"unverified": [
+"The identity of the Fleet Forces Command operations officer who sent the January 2015 email.",
+"The exact date and message identifier of the email, and the authority under which it was recalled.",
+"Whether the recall was executed by Navy IT administrators, a Fleet Forces Command action, or an outside agency request.",
+"Whether council members are compensated, cleared, or bound by any agreement, given that all data shared with them is to be unclassified."
+]
+}

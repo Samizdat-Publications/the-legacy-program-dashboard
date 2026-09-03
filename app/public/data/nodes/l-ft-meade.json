@@ -1,0 +1,102 @@
+{
+"A": 3,
+"C": 1,
+"D": 1,
+"band": null,
+"claims": [
+{
+"source": "US Army Fort Meade installation page",
+"text": "NSA is headquartered at Fort George G. Meade, Maryland.",
+"tier": 1
+},
+{
+"source": "DefenseScoop, 26 August 2024",
+"text": "Jon Kosloski, a senior NSA researcher, was named to lead AARO in August 2024.",
+"tier": 1
+},
+{
+"source": "Board bookkeeping",
+"text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
+"tier": 3
+}
+],
+"cls": "location",
+"cluster": "other",
+"connections": [
+{
+"claimTier": 1,
+"cls": "domain",
+"dateEnd": null,
+"dateStart": "1952-11-04",
+"direction": "in",
+"edgeLabel": "NSA holdings and the FOIA wall",
+"id": "d-signals",
+"l0": false,
+"label": "Signals & Sensor Intelligence",
+"note": "The records at issue in CAUS v. NSA are held at Fort Meade, and AARO's current director came from the NSA research organisation based there.",
+"sources": [
+{
+"date": "1981-11-03",
+"name": "Citizens Against UFO Secrecy v. NSA (CourtListener)",
+"url": "https://www.courtlistener.com/opinion/400210/citizens-against-ufo-secrecy-v-nation-security-age/"
+}
+],
+"tier": "B",
+"type": "geographic"
+}
+],
+"coords": [
+39.1084,
+-76.7713
+],
+"dateEnd": null,
+"dateStart": null,
+"deg": 1,
+"denials": [],
+"desc": "Fort George G. Meade in Anne Arundel County, Maryland is the home of the National Security Agency, the Central Security Service and US Cyber Command, and is therefore the single most concentrated signals intelligence site in the United States. It is on this board because NSA's UAP-relevant holdings - the records at issue in Citizens Against UFO Secrecy v. NSA, in which the courts sustained withholding on the strength of the classified Yeates affidavit - are held here, and because the agency's Exemption 3 statutory shield makes Meade the hardest FOIA target in the federal government. In August 2024 a senior NSA researcher from this installation, Jon Kosloski, was appointed to lead AARO, moving the Pentagon's UAP analytic hub under a Meade-trained signals technologist.",
+"domains": [
+"_rs-archive-mirror",
+"_stubs",
+"w2-taxonomy"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "nd",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "l-ft-meade",
+"l0": false,
+"label": "Fort George G. Meade, Maryland",
+"locLabel": "Fort Meade, Maryland, USA",
+"members": null,
+"short": "Fort George G. Meade, Maryland",
+"sources": [
+{
+"date": "2026-07-14",
+"name": "Archived: U.S. Army Fort Meade (Wayback 2026-07-14)",
+"url": "https://web.archive.org/web/20260714170223/https://home.army.mil/meade/"
+},
+{
+"date": "2026-08-12",
+"name": "Wikipedia - Fort George G. Meade",
+"url": "https://en.wikipedia.org/wiki/Fort_George_G._Meade"
+},
+{
+"date": "2026-08-12",
+"name": "U.S. Army Fort Meade",
+"url": "https://home.army.mil/meade/"
+},
+{
+"date": "2024-08-26",
+"name": "DefenseScoop - Top NSA researcher tapped to lead Pentagon's UAP investigation hub",
+"url": "https://defensescoop.com/2024/08/26/leader-pentagon-uap-investigation-hub-jon-kosloski/"
+}
+],
+"sub": "Army installation; headquarters of NSA and US Cyber Command",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 671 of 1027, score 23). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A3/D1.",
+"timeline": []
+}

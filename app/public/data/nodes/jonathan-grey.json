@@ -1,0 +1,114 @@
+{
+"A": 2,
+"C": 2,
+"D": 2,
+"affiliations": [
+"National Air and Space Intelligence Center (serving)"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "2023-06-05",
+"event": "Pseudonymous on-record corroboration published in The Debrief",
+"precision": "day"
+}
+],
+"claims": [
+{
+"source": "'Jonathan Grey,' NASIC, quoted in The Debrief, 5 June 2023",
+"text": "'The non-human intelligence phenomenon is real. We are not alone.' Also: retrievals of this kind are not limited to the United States.",
+"tier": 2
+}
+],
+"cls": "person",
+"cluster": "ic",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2023",
+"dateStart": "2023",
+"direction": "out",
+"edgeLabel": "Serving NASIC officer corroborates on the record under pseudonym",
+"id": "david-grusch",
+"l0": false,
+"label": "David Charles Grusch",
+"note": "'The non-human intelligence phenomenon is real. We are not alone.' A currently serving Top Secret-cleared NASIC officer would corroborate but would not attach a name - itself evidence about the environment at Wright-Patterson.",
+"sources": [
+{
+"date": "2023-06-05",
+"name": "The Debrief",
+"url": "https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/"
+}
+],
+"tier": "A",
+"type": "witness-chain"
+},
+{
+"claimTier": 2,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2023",
+"direction": "out",
+"edgeLabel": "Serving intelligence officer at NASIC, Wright-Patterson AFB",
+"id": "nasic",
+"l0": false,
+"label": "National Air and Space Intelligence Center",
+"note": "Kean identifies Grey as a currently serving NASIC officer with Top Secret clearance; the installation is the historical center of gravity for every legacy custody allegation.",
+"sources": [
+{
+"date": "2023-06-05",
+"name": "The Debrief",
+"url": "https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/"
+}
+],
+"tier": "C",
+"type": "institutional"
+}
+],
+"date": "2023-06-05",
+"dateEnd": null,
+"dateStart": "2023-06-05",
+"deg": 2,
+"denials": [],
+"domains": [
+"grusch"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "jonathan-grey",
+"instId": "nasic",
+"l0": false,
+"label": "\"Jonathan Grey\" (pseudonym)",
+"loc": "Wright-Patterson AFB, OH",
+"locId": "l-wright-patterson",
+"members": null,
+"narrative": "Jonathan Grey is the pseudonym under which a currently serving Top Secret-cleared intelligence officer at the National Air and Space Intelligence Center, Wright-Patterson AFB, corroborated Grusch in the 5 June 2023 Debrief article. Grey stated that the non-human intelligence phenomenon is real, that we are not alone, and that retrievals of this kind are not limited to the United States - an assertion that widens the custody question past US jurisdiction and implicates allied and adversary recovery efforts. The use of a pseudonym is itself evidence about the environment: the officer's employer sits at the geographic center of the legacy program allegations, at the base where the 1947 material is alleged to have been taken, and the officer would not attach a name. Kean has said she verified his identity and employment. AARO has never addressed Grey's statement by name.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "\"Jonathan Grey\" (pseudonym)",
+"sources": [
+{
+"date": "2023-06-05",
+"name": "The Debrief - Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin",
+"url": "https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/"
+}
+],
+"status": "active",
+"sub": "Serving NASIC intelligence officer; pseudonymous on-record corroborator",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 598 of 1027, score 25). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A2/D2.",
+"timeline": [],
+"unexplainedResidual": null,
+"unverified": [
+"True identity; whether Grey was among the roughly 40 witnesses Grusch referred to the ICIG; whether NASIC took any action against him."
+]
+}

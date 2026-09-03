@@ -1,0 +1,208 @@
+{
+"A": 1,
+"C": 1,
+"D": 3,
+"band": null,
+"claims": [
+{
+"source": "AARO case slides, Senate Armed Services Committee open hearing, 19 November 2024",
+"text": "AARO assessed GO FAST as an object at approximately 13,000 feet travelling around 45 mph with 60-knot winds; it 'did not demonstrate any anomalous speeds or flight characteristics.'",
+"tier": 1
+},
+{
+"source": "Tim Gallaudet, written testimony, House Oversight, 13 November 2024",
+"text": "The GO FAST video was attached to a January 2015 US Fleet Forces Command all-commanders email titled 'URGENT SAFETY OF FLIGHT ISSUE' that was deleted from recipients' accounts the following day.",
+"tier": 2
+},
+{
+"source": "DoD statement, 27 April 2020",
+"text": "DoD released the video on 27 April 2020 with the phenomena 'characterized as unidentified.'",
+"tier": 1
+}
+],
+"cls": "document",
+"cluster": "other",
+"connections": [
+{
+"claimTier": 2,
+"cls": "document",
+"dateEnd": "2015",
+"dateStart": "2015",
+"direction": "in",
+"edgeLabel": "The recalled fleet safety message carried the GO FAST video",
+"id": "gallaudet-2015-email",
+"l0": false,
+"label": "Fleet Forces Command 'URGENT SAFETY OF FLIGHT ISSUE' Email (Jan 2015, recalled)",
+"note": "Gallaudet's written testimony states the January 2015 'URGENT SAFETY OF FLIGHT ISSUE' email attached the GO FAST video and cited 'multiple near-midair collisions.'",
+"sources": [
+{
+"date": "2024-11-13",
+"name": "House Oversight - Gallaudet written testimony (PDF)",
+"url": "https://oversight.house.gov/wp-content/uploads/2024/11/Updated-Testimony-Gallaudet.pdf"
+}
+],
+"tier": "B",
+"type": "custody"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "2024",
+"dateStart": "2024",
+"direction": "in",
+"edgeLabel": "AARO parallax reanalysis: no anomalous speed or flight characteristics",
+"id": "jon-kosloski",
+"l0": false,
+"label": "Jon T. Kosloski",
+"note": "AARO's SASC case slides place the object at roughly 13,000 feet at about 45 mph with 60-knot winds. The analysis addresses apparent speed; it does not address the recall of the fleet safety message built on the same footage.",
+"sources": [
+{
+"date": "2024-11-19",
+"name": "AARO - SASC open hearing case slides (PDF)",
+"url": "https://www.aaro.mil/Portals/136/PDFs/SASC_AARO_Open_Hearing_Case_Slides_19Nov2024.pdf"
+},
+{
+"date": "2024-11-13",
+"name": "House Oversight - Gallaudet written testimony (PDF)",
+"url": "https://oversight.house.gov/wp-content/uploads/2024/11/Updated-Testimony-Gallaudet.pdf"
+}
+],
+"tier": "A",
+"type": "denial"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "2021",
+"dateStart": "2021",
+"direction": "in",
+"edgeLabel": "18 of 144 incidents showed unusual movement patterns; sensors not designed to identify UAP",
+"id": "odni-preliminary-assessment-2021",
+"l0": true,
+"label": "ODNI Preliminary Assessment: Unidentified Aerial Phenomena (25 June 2021)",
+"note": "'In 18 incidents, described in 21 reports, observers reported unusual UAP movement patterns or flight characteristics,' and military sensors 'are not generally suited for identifying UAP.'",
+"sources": [
+{
+"date": "2021-06-25",
+"name": "ODNI Preliminary Assessment: Unidentified Aerial Phenomena (PDF)",
+"url": "https://archive.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": "2020",
+"dateStart": "2015",
+"direction": "out",
+"edgeLabel": "January 2015 ATFLIR artefact from the same operating environment",
+"id": "roosevelt-2014-2015",
+"l0": true,
+"label": "USS Theodore Roosevelt Encounters (2014-2015)",
+"note": "GO FAST is the video Gallaudet says was attached to the recalled Fleet Forces Command safety message, and the one AARO later reanalysed on parallax grounds.",
+"sources": [
+{
+"date": "2020-04-27",
+"name": "DoD statement releasing the three Navy videos",
+"url": "https://www.war.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/"
+},
+{
+"date": "2024-11-13",
+"name": "House Oversight - Gallaudet written testimony (PDF)",
+"url": "https://oversight.house.gov/wp-content/uploads/2024/11/Updated-Testimony-Gallaudet.pdf"
+},
+{
+"date": "2024-11-19",
+"name": "AARO - SASC open hearing case slides (PDF)",
+"url": "https://www.aaro.mil/Portals/136/PDFs/SASC_AARO_Open_Hearing_Case_Slides_19Nov2024.pdf"
+}
+],
+"tier": "B",
+"type": "custody"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "2015",
+"deg": 4,
+"denials": [
+{
+"by": {
+"id": "jon-kosloski",
+"label": "Jon T. Kosloski"
+},
+"claimTier": 1,
+"denialKind": "directed",
+"label": "AARO parallax reanalysis: no anomalous speed or flight characteristics",
+"note": "AARO's SASC case slides place the object at roughly 13,000 feet at about 45 mph with 60-knot winds. The analysis addresses apparent speed; it does not address the recall of the fleet safety message built on the same footage.",
+"of": {
+"id": "gofast-video",
+"label": "GO FAST (Navy ATFLIR video, January 2015)"
+},
+"sources": [
+{
+"date": "2024-11-19",
+"name": "AARO - SASC open hearing case slides (PDF)",
+"url": "https://www.aaro.mil/Portals/136/PDFs/SASC_AARO_Open_Hearing_Case_Slides_19Nov2024.pdf"
+},
+{
+"date": "2024-11-13",
+"name": "House Oversight - Gallaudet written testimony (PDF)",
+"url": "https://oversight.house.gov/wp-content/uploads/2024/11/Updated-Testimony-Gallaudet.pdf"
+}
+]
+}
+],
+"desc": "The third of the officially released Navy videos, filmed in January 2015 off Florida's east coast and released by the Department of Defense on 27 April 2020 as authentic and unidentified. GO FAST is the most contested artefact on this board because two official positions attach to it. The first is operational: Tim Gallaudet testified to House Oversight on 13 November 2024 that in January 2015 the operations officer of US Fleet Forces Command sent an all-commanders email titled 'URGENT SAFETY OF FLIGHT ISSUE' carrying this video and asking for identification because 'We are having multiple near-midair collisions, and if we do not resolve it soon, we will have to shut down the exercise' - and that the email was deleted from every recipient's account the next day. The second is analytical: AARO's case slides for the 19 November 2024 Senate Armed Services hearing assessed the object at roughly 13,000 feet moving at about 45 mph in 60-knot winds, concluding it 'did not demonstrate any anomalous speeds or flight characteristics.' Both can be true. The parallax finding resolves the apparent speed; it does not explain why a fleet-wide flight-safety warning built on the same footage was withdrawn within 24 hours, and no agency has ever acknowledged withdrawing it.",
+"domains": [
+"_rs-archive-mirror",
+"aviators-incidents"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "2",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "gofast-video",
+"l0": false,
+"label": "GO FAST (Navy ATFLIR video, January 2015)",
+"locLabel": null,
+"members": null,
+"short": "GO FAST (Navy ATFLIR video, January 2015)",
+"sources": [
+{
+"date": "2026-05-08",
+"name": "Archived: AARO - SASC open hearing case slides (PDF) (Wayback 2026-05-08)",
+"url": "https://web.archive.org/web/20260508180204/https://www.aaro.mil/Portals/136/PDFs/SASC_AARO_Open_Hearing_Case_Slides_19Nov2024.pdf"
+},
+{
+"date": "2026-08-02",
+"name": "Archived: DoD statement releasing the three Navy videos (Wayback 2026-08-02)",
+"url": "https://web.archive.org/web/20260802200608/https://www.war.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/"
+},
+{
+"date": "2024-11-19",
+"name": "AARO - SASC open hearing case slides (PDF)",
+"url": "https://www.aaro.mil/Portals/136/PDFs/SASC_AARO_Open_Hearing_Case_Slides_19Nov2024.pdf"
+},
+{
+"date": "2024-11-13",
+"name": "House Oversight - Gallaudet written testimony (PDF)",
+"url": "https://oversight.house.gov/wp-content/uploads/2024/11/Updated-Testimony-Gallaudet.pdf"
+},
+{
+"date": "2020-04-27",
+"name": "DoD statement releasing the three Navy videos",
+"url": "https://www.war.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/"
+}
+],
+"sub": "Officially released DoD UAP video; subject of AARO parallax rebuttal",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 332 of 1027, score 35). 4 connections, 2 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A1/D3.",
+"timeline": []
+}

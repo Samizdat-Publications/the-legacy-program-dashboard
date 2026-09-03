@@ -1,0 +1,92 @@
+{
+"A": 2,
+"C": 2,
+"D": 2,
+"band": null,
+"claims": [
+{
+"source": "UAP Gerb, Sandia investigation description, 1 November 2025",
+"text": "USAF MSgt Edgar Fouche claimed Sandia and Lawrence Livermore reverse-engineered the propulsion device for the TR-3B alien reproduction vehicle.",
+"tier": 2
+},
+{
+"source": "UAP Gerb, Sandia investigation description, 1 November 2025",
+"text": "Former New Mexico State Representative J. Andrew Kissner interviewed individuals within legacy programmes and learned that UFO materials were kept in the hands of AEC laboratories such as Sandia.",
+"tier": 2
+},
+{
+"source": "UAP Gerb, Sandia investigation description, 1 November 2025, restating public record — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"text": "Sandia is one of three NNSA R&D laboratories, is an FFRDC sponsored by the Department of Energy, was founded in 1949 and has management history involving AT&T, Lockheed Martin and Honeywell.",
+"tier": 2
+}
+],
+"cls": "document",
+"cluster": "research",
+"connections": [
+{
+"claimTier": 2,
+"cls": "program",
+"dateEnd": "2026",
+"dateStart": "2025",
+"direction": "in",
+"edgeLabel": "Sandia investigation is the evidentiary bridge for AEC custody",
+"id": "manhattan-project-2",
+"l0": true,
+"label": "'Manhattan Project 2.0' (alleged secrecy architecture)",
+"note": "The Sandia investigation predates the Manhattan Project 2.0 series by six months and supplies its named-laboratory case.",
+"sources": [
+{
+"date": "2025-11-01",
+"name": "UAP Gerb - Sandia investigation",
+"url": "https://www.youtube.com/watch?v=mHkPHd_eOXI"
+}
+],
+"tier": "A",
+"type": "programmatic"
+}
+],
+"coords": null,
+"dateEnd": "2025",
+"dateStart": "2025",
+"deg": 1,
+"denials": [],
+"desc": "Published 1 November 2025, this investigation takes Sandia National Laboratories as the archetype of the national-laboratory custody claim. Sandia is one of three R&D laboratories of the Department of Energy's semi-autonomous National Nuclear Security Administration and is itself an FFRDC; founded in 1949 with immediate ties to the Manhattan Project, it has been a pillar of US nuclear weapons science. Gerb assembles the accusations of deep ties to crash retrieval and material exploitation: USAF Master Sergeant Edgar Fouche's claim that Sandia and Lawrence Livermore reverse-engineered the propulsion device for the TR-3B alien reproduction vehicle; former New Mexico State Representative J. Andrew Kissner's interviews with individuals inside the programmes, from which he concluded that recovered materials were held by AEC laboratories such as Sandia; and the significance of Sandia's management passing between AT&T, Lockheed Martin and Honeywell. The investigation is the direct evidentiary bridge between the 'Manhattan Project 2.0' thesis - that custody was vested in AEC laboratories under the Atomic Energy Act - and a named, operating institution.",
+"domains": [
+"media-structure"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "gerb-sandia-investigation",
+"l0": false,
+"label": "UAP Gerb - Sandia National Laboratories investigation",
+"locLabel": null,
+"members": null,
+"short": "UAP Gerb - Sandia National Laboratories investigation",
+"sources": [
+{
+"date": "2025-11-01",
+"name": "UAP Gerb - Sandia National Laboratories investigation",
+"url": "https://www.youtube.com/watch?v=mHkPHd_eOXI"
+}
+],
+"sub": "Video investigation, 1 Nov 2025",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 539 of 1027, score 28). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A2/D2.",
+"timeline": [
+{
+"date": "2025-11-01",
+"id": "ms-2025-sandia",
+"label": "Gerb publishes the Sandia investigation",
+"precision": "day",
+"strand": "program",
+"text": "The named-laboratory case for the AEC-custody thesis, citing Edgar Fouche on the TR-3B propulsion device and former New Mexico State Representative J. Andrew Kissner on materials held by AEC laboratories.",
+"tier": "A"
+}
+]
+}

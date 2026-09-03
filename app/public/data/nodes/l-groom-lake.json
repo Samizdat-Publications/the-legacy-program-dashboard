@@ -1,0 +1,379 @@
+{
+"A": 3,
+"C": 2,
+"D": 2,
+"band": null,
+"claims": [
+{
+"source": "CIA, 'The Central Intelligence Agency and Overhead Reconnaissance: The U-2 and OXCART Programs, 1954-1974', released 25 June 2013; National Security Archive — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"text": "On 25 June 2013 the CIA released an official history of the U-2 and OXCART projects acknowledging testing at Area 51, in response to a 2005 FOIA request filed by Jeffrey T. Richelson of the National Security Archive.",
+"tier": 2
+},
+{
+"source": "Presidential determination on the Groom Lake exemption; Wikipedia, Area 51 — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"text": "In 1995 President Clinton issued a presidential determination exempting the Air Force's operating location near Groom Lake, Nevada from environmental disclosure laws; the determination is reissued annually.",
+"tier": 2
+},
+{
+"source": "Kasza v. Browner, 133 F.3d 1159 (9th Cir. 1998); Wikipedia, Area 51 — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"text": "Kasza v. Browner and Frost v. Perry (filed 1994) alleged exposure to hazardous waste burned in open pits at Groom Lake; Rutgers biochemists found elevated dioxin, dibenzofuran and trichloroethylene in claimants' body fat; District Judge Philip Pro rejected the government's state secrets claim before the suits were dismissed for lack of evidence.",
+"tier": 2
+},
+{
+"source": "CIA OXCART history; Wikipedia, Area 51 — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"text": "Project AQUATONE was established in April 1955 with the first U-2 arriving 24 July 1955; Project OXCART was established August 1959 with the first A-12 arriving 28 February 1962; HAVE BLUE first flew December 1977; TACIT BLUE first flew 5 February 1982.",
+"tier": 2
+},
+{
+"source": "Inference from the CIA 2013 release and its stated FOIA provenance",
+"text": "Groom Lake is the empirical benchmark for how long the United States can hold a physical installation off the public record: fifty-eight years from establishment in 1955 to specific acknowledgement in 2013, and the acknowledgement was forced by a FOIA request, not volunteered. Reasoning: dates are documented; the 2013 release is explicitly a FOIA response.",
+"tier": 3
+}
+],
+"cls": "location",
+"cluster": "legacy",
+"connections": [
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "1955",
+"dateStart": "1955",
+"direction": "in",
+"edgeLabel": "Absorbed Groom Lake into its Nevada real estate at CIA request, 1955",
+"id": "atomic-energy-commission",
+"l0": true,
+"label": "Atomic Energy Commission",
+"note": "The CIA's own overhead reconnaissance history records that after the April 1955 overflight Bissell found Groom Lake was not part of the AEC proving ground, and that he and Miller asked the Commission to add it, which Chairman Lewis Strauss agreed to do.",
+"sources": [
+{
+"date": "2013-06-25",
+"name": "Pedlow and Welzenbach, The Central Intelligence Agency and Overhead Reconnaissance, 2013 release, chapter 2",
+"url": "https://archive.org/download/cia-readingroom-document-0000190094/0000190094_djvu.txt"
+}
+],
+"tier": "A",
+"type": "geographic"
+},
+{
+"claimTier": 2,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "1955",
+"direction": "in",
+"edgeLabel": "EG&G provided the classified site services and personnel transport for the Groom Lake operating location",
+"id": "eg-and-g",
+"l0": true,
+"label": "EG&G (Edgerton, Germeshausen and Grier)",
+"note": "The relationship is documented indirectly through the Groom Lake worker litigation and the annual presidential environmental exemptions rather than through any acknowledgment of the facility.",
+"sources": [
+{
+"date": "1998-01-08",
+"name": "Kasza v. Browner, 133 F.3d 1159 (9th Cir. 1998) (CourtListener)",
+"url": "https://www.courtlistener.com/opinion/7058198/kasza-v-browner/"
+},
+{
+"date": "1995-10-10",
+"name": "Presidential Determination on Classified Information Concerning the Air Force's Operating Location Near Groom Lake, Nevada, 60 FR 52823",
+"url": "https://www.federalregister.gov/documents/1995/10/10/95-25244/presidential-determination-on-classified-information-concerning-the-air-forces-operating-location"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": "1995",
+"direction": "in",
+"edgeLabel": "Annual presidential determinations exempt the Groom Lake operating location from environmental disclosure",
+"id": "groom-lake-presidential-determination",
+"l0": false,
+"label": "Presidential Determinations on the Air Force's Operating Location Near Groom Lake",
+"note": "Published in the Federal Register every year since 1995, the determinations never name the facility or describe its contents - the cleanest documentary proof of a contractor-operated site legally exempted from statutory disclosure.",
+"sources": [
+{
+"date": "1995-10-10",
+"name": "Presidential Determination on Classified Information Concerning the Air Force's Operating Location Near Groom Lake, Nevada, 60 FR 52823",
+"url": "https://www.federalregister.gov/documents/1995/10/10/95-25244/presidential-determination-on-classified-information-concerning-the-air-forces-operating-location"
+},
+{
+"date": "2000-10-05",
+"name": "Classified Information Concerning the Air Force's Operating Location Near Groom Lake, Nevada (Presidential Determination)",
+"url": "https://www.federalregister.gov/documents/2000/10/05/00-25742/classified-information-concerning-the-air-forces-operating-location-near-groom-lake-nevada"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 2,
+"cls": "location",
+"dateEnd": null,
+"dateStart": "1955",
+"direction": "in",
+"edgeLabel": "Area 51 is the named facility on the Groom Lake shore",
+"id": "l-area51",
+"l0": false,
+"label": "Area 51 (Homey Airport / Groom Lake operating location)",
+"note": "The operating location is carried on charts as Homey Airport and sits on the southwest shore of the Groom Lake salt flat inside R-4808N.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Wikipedia - Area 51",
+"url": "https://en.wikipedia.org/wiki/Area_51"
+}
+],
+"tier": "B",
+"type": "geographic"
+},
+{
+"claimTier": 2,
+"cls": "location",
+"dateEnd": null,
+"dateStart": "1955",
+"direction": "in",
+"edgeLabel": "Edwards defines the acknowledged-testing boundary that Groom Lake was built to escape",
+"id": "l-edwards-afb",
+"l0": false,
+"label": "Edwards Air Force Base, California",
+"note": "Groom Lake exists because the U-2 could not be tested at Edwards. The pair therefore mark the boundary between the acknowledged and unacknowledged US flight test enterprise.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Wikipedia - Area 51",
+"url": "https://en.wikipedia.org/wiki/Area_51"
+},
+{
+"date": "2026-08-12",
+"name": "Wikipedia - Edwards Air Force Base",
+"url": "https://en.wikipedia.org/wiki/Edwards_Air_Force_Base"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 3,
+"cls": "location",
+"dateEnd": null,
+"dateStart": "1972",
+"direction": "out",
+"edgeLabel": "The Groom and Tonopah workforce commutes from Las Vegas",
+"id": "l-las-vegas",
+"l0": false,
+"label": "Las Vegas, Nevada",
+"note": "The unmarked JANET fleet operates from a dedicated terminal at the Las Vegas airport. Reasoning: publicly observable daily operations; no primary personnel or contract record has been obtained.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Wikipedia - Area 51",
+"url": "https://en.wikipedia.org/wiki/Area_51"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 2,
+"cls": "location",
+"dateEnd": "1995",
+"dateStart": "1955",
+"direction": "out",
+"edgeLabel": "Groom Lake was administratively carried as part of the Nellis complex",
+"id": "l-nellis",
+"l0": false,
+"label": "Nellis Air Force Base and the Nevada Test and Training Range",
+"note": "Until the 1995 presidential determination, the official position was that Groom Lake was simply another part of the Nellis Air Force Base complex.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Wikipedia - Area 51",
+"url": "https://en.wikipedia.org/wiki/Area_51"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 2,
+"cls": "location",
+"dateEnd": "1982",
+"dateStart": "1973",
+"direction": "out",
+"edgeLabel": "Programmes matured from Groom Lake to operational basing at Tonopah",
+"id": "l-tonopah",
+"l0": false,
+"label": "Tonopah Test Range, Nevada",
+"note": "HAVE IDEA moved to Tonopah in May 1973; the 4450th Tactical Group moved from Groom Lake to Tonopah beginning 17 May 1982 to operate the F-117A.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Wikipedia - Area 51",
+"url": "https://en.wikipedia.org/wiki/Area_51"
+}
+],
+"tier": "C",
+"type": "programmatic"
+},
+{
+"claimTier": 2,
+"cls": "institution",
+"dateEnd": "1982",
+"dateStart": "1955",
+"direction": "in",
+"edgeLabel": "Skunk Works aircraft were tested at Groom Lake because they could not be tested at Edwards",
+"id": "lockheed-skunk-works",
+"l0": true,
+"label": "Lockheed Martin Advanced Development Programs (Skunk Works)",
+"note": "The CIA's own history records that U-2 flight test and pilot training could not be conducted at Edwards or Palmdale given the secrecy of the project. The U-2, A-12, HAVE BLUE and F-117 all flew first at Groom.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Wikipedia - Area 51",
+"url": "https://en.wikipedia.org/wiki/Area_51"
+}
+],
+"tier": "B",
+"type": "programmatic"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "1955-04-12",
+"dateStart": "1955-04-12",
+"direction": "in",
+"edgeLabel": "Selected the site on 12 April 1955",
+"id": "richard-m-bissell-jr",
+"l0": false,
+"label": "Richard M. Bissell Jr.",
+"note": "He and Ritland flew over Nevada with Kelly Johnson and Tony LeVier, landed on the lakebed and walked the strip, and the monograph notes that a landing on the airstrip itself would probably have killed the key figures in the project.",
+"sources": [
+{
+"date": "2013-06-25",
+"name": "Pedlow and Welzenbach, The Central Intelligence Agency and Overhead Reconnaissance, 2013 release, chapter 2",
+"url": "https://archive.org/download/cia-readingroom-document-0000190094/0000190094_djvu.txt"
+}
+],
+"tier": "B",
+"type": "geographic"
+},
+{
+"claimTier": 3,
+"cls": "event",
+"dateEnd": "2017",
+"dateStart": "1955",
+"direction": "out",
+"edgeLabel": "Both are demonstrations of decades-long concealment ending in bulk declassification",
+"id": "stargate-program",
+"l0": true,
+"label": "STAR GATE and predecessor remote viewing programs, 1970-1995",
+"note": "Groom Lake ran 58 years to specific acknowledgement via FOIA; STAR GATE ran 25 years to bulk CREST publication in 2017. Reasoning: structural comparison of two documented concealment lifecycles.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Wikipedia - Area 51",
+"url": "https://en.wikipedia.org/wiki/Area_51"
+},
+{
+"date": "2026-08-12",
+"name": "Wikipedia - Stargate Project (U.S. Army unit)",
+"url": "https://en.wikipedia.org/wiki/Stargate_Project_(U.S._Army_unit)"
+}
+],
+"tier": "A",
+"type": "temporal"
+}
+],
+"coords": [
+37.235,
+-115.8111
+],
+"dateEnd": null,
+"dateStart": "1955",
+"deg": 11,
+"denials": [],
+"desc": "Groom Lake is a salt flat roughly 3.75 miles north-south by 3 miles east-west at about 4,409 feet elevation in the Groom Lake Valley of Lincoln County, Nevada, 83 miles north-northwest of Las Vegas and 25 miles south of Rachel. The flight test facility on its southwest shore sits inside Restricted Area 4808 North, the 'Groom box' - a 23-by-25-mile block of restricted airspace enclosing the original 6-by-10-mile rectangular withdrawal - and abuts Yucca Flat, where 739 of the 928 Nevada Test Site nuclear detonations occurred. Its acknowledgement history is the reason it belongs on this board as a case study in how the United States conceals a physical installation for decades and then concedes it in fragments. The CIA established the site in April 1955 for Project AQUATONE, the U-2; the first U-2 arrived on 24 July 1955. Project OXCART, the A-12, was established in August 1959, construction of the 8,500-foot runway began in September 1960, the first A-12 arrived 28 February 1962 and flew on 26 April 1962. HAVE BLUE, the Lockheed stealth demonstrator, first flew here in December 1977; the YF-117A first flew on 18 June 1981 with Lockheed test pilot Hal Farley; Northrop's TACIT BLUE first flew 5 February 1982 with Richard G. Thomas. Exploited foreign aircraft were flown here from the late 1960s under HAVE DOUGHNUT, HAVE DRILL, HAVE IDEA and HAVE GLIB. Against that record, the government's disclosure posture is instructive: no acknowledgement of any kind until 1995, when President Clinton issued a presidential determination exempting 'the Air Force's operating location near Groom Lake, Nevada' from environmental disclosure laws - a determination reissued annually since - which arose out of Kasza v. Browner and Frost v. Perry, the 1994 suits by contractors and by the widows of Walter Kasza and Robert Frost alleging exposure to chemicals burned in open pits, in which Rutgers biochemists found elevated dioxin, dibenzofuran and trichloroethylene in claimants' body fat. District Judge Philip Pro rejected the state secrets claim; the suits were dismissed for lack of evidence; the Ninth Circuit affirmed; the Supreme Court declined review. The Air Force acknowledged the site's existence in 1998. Only on 25 June 2013, answering a 2005 FOIA request by Jeffrey T. Richelson of the National Security Archive, did the CIA release the U-2 and OXCART history naming Area 51 and admitting specific activity there. That is fifty-eight years from establishment to specific acknowledgement, achieved by FOIA litigation rather than by voluntary disclosure - the template against which every current UAP disclosure claim should be measured. The cover story function matters too: Groom's own historians note the U-2's high-altitude operations generated a wave of civilian UFO reports in the late 1950s that the Air Force did not correct, meaning a real black programme was knowingly allowed to be absorbed into the UFO explanation space.",
+"domains": [
+"w2-places-events"
+],
+"dossier": null,
+"entityInfo": {
+"desc": "Acknowledgement chronology, stated plainly because it is the board's benchmark: facility established April 1955; no acknowledgement of any kind 1955-1995; 1995 presidential determination exempting 'the Air Force's operating location near Groom Lake, Nevada' from environmental disclosure law, issued in the shadow of Kasza v. Browner and reissued annually; 1998 USAF acknowledgement that the site exists; 25 June 2013 CIA release of the U-2/OXCART history naming Area 51 and admitting specific activity, in response to a FOIA request filed in 2005 by Jeffrey T. Richelson of the National Security Archive. Fifty-eight years from establishment to specific acknowledgement, and the concession was compelled by a records request rather than volunteered. Any claim that a programme of this kind 'could not stay secret' has to be measured against this chronology.",
+"sources": []
+},
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "l-groom-lake",
+"l0": false,
+"label": "Groom Lake, Nevada",
+"locLabel": "Groom Lake, Nevada, USA",
+"members": null,
+"short": "Groom Lake, Nevada",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Wikipedia - Area 51",
+"url": "https://en.wikipedia.org/wiki/Area_51"
+},
+{
+"date": "2013-06-25",
+"name": "National Security Archive - CIA OXCART/U-2 history release",
+"url": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB434/"
+}
+],
+"sub": "Dry lakebed and USAF/CIA flight test facility, Lincoln County, Nevada; R-4808N; 83 mi NNW of Las Vegas",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 171 of 1027, score 47). 11 connections, 2 of them custody/witness/funding/programmatic. Axes C2/A3/D2.",
+"timeline": [
+{
+"date": "1955-04-01",
+"id": "tl-1955-groom",
+"label": "The CIA establishes the Groom Lake facility",
+"precision": "month",
+"strand": "program",
+"text": "Project AQUATONE selects the site because U-2 testing cannot be conducted at Edwards or Palmdale given the secrecy of the project. The first U-2 arrives 24 July 1955.",
+"tier": "A"
+},
+{
+"date": "1977-12-01",
+"id": "tl-1977-haveblue",
+"label": "HAVE BLUE flies at Groom Lake",
+"precision": "month",
+"strand": "program",
+"text": "Lockheed's stealth demonstrator first flies from a facility whose existence the government will not acknowledge for another twenty-one years.",
+"tier": "B"
+},
+{
+"date": "1994-01-01",
+"id": "tl-1994-kasza",
+"label": "Groom Lake contractors sue",
+"precision": "year",
+"strand": "oversight",
+"text": "Kasza v. Browner and Frost v. Perry allege exposure to hazardous waste burned in open pits. Judge Philip Pro rejects the state secrets claim; the suits are dismissed for lack of evidence and the Ninth Circuit affirms.",
+"tier": "A"
+},
+{
+"date": "1995-01-01",
+"id": "tl-1995-clinton",
+"label": "The President exempts a place that officially does not exist",
+"precision": "year",
+"strand": "coverup",
+"text": "Clinton issues a determination exempting 'the Air Force's operating location near Groom Lake, Nevada' from environmental disclosure law - the only formal recognition to that date that Groom Lake is more than part of the Nellis complex. It is reissued annually.",
+"tier": "A"
+},
+{
+"date": "1998-01-01",
+"id": "tl-1998-a51",
+"label": "The Air Force concedes the site exists",
+"precision": "year",
+"strand": "oversight",
+"text": "Forty-three years after establishment, the USAF acknowledges the existence of the operating location at Groom Lake - without describing anything done there.",
+"tier": "A"
+}
+]
+}

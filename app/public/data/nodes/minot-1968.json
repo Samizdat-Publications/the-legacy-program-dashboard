@@ -1,0 +1,150 @@
+{
+"A": 2,
+"C": 0,
+"D": 2,
+"band": null,
+"claims": [
+{
+"source": "Project Blue Book case file and associated USAF message traffic, catalogued by NICAP/Project 1947 RADCAT",
+"text": "USAF Minot AFB ground radar tracked an unidentified object and radioed it to B-52H JAG 31 at 2,000 feet on a 290-degree heading; at 3:52 a.m. base weather radar was also tracking the target at 3 miles; at 3:58 a.m. Minot requested IFF identification and the B-52H's radio transmitter failed for four minutes.",
+"tier": 1
+},
+{
+"source": "NICAP/Project 1947 RADCAT case directory, citing the Blue Book file and unit reporting",
+"text": "Minuteman ICBM sites of N, O, J and M Flights, 91st Strategic Missile Wing, reported sightings and electromagnetic effects including security alarms activated at outer and inner silo rings, an outer door opened and the combination lock of an inner door moved.",
+"tier": 1
+},
+{
+"source": "NICAP/Project 1947 RADCAT case directory, Fran Ridge editorial note, updated 24 November 2010",
+"text": "Dan Wilson located 108 documents on the case for RADCAT; NARCAP identified 141; Project Blue Book did not send field investigators despite the interest of Strategic Air Command generals including 15th Air Force's Maj. Gen. Nichols.",
+"tier": 1
+},
+{
+"source": "Jan Aldrich, quoted in the NICAP/Project 1947 RADCAT case directory",
+"text": "Researcher Jan Aldrich's assessment: 'Taken against the BB files, it is obvious that the AF obfuscated this case, but that it is such a poor job, that you can see that they mucked up their cover, but good.'",
+"tier": 2
+}
+],
+"cls": "event",
+"cluster": "witness",
+"connections": [
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": "1968-10-24",
+"dateStart": "1967-03-16",
+"direction": "out",
+"edgeLabel": "Minot 1968 extends the pattern with instrumented detection",
+"id": "malmstrom-echo-flight-1967",
+"l0": false,
+"label": "Malmstrom AFB missile shutdowns, March 1967",
+"note": "Where Malmstrom 1967 is a documented shutdown with contested causation, Minot 1968 adds ground radar, airborne radar, weather radar, visual observation, a four-minute radio failure and physical security alarms at Minuteman silos.",
+"sources": [
+{
+"date": "2010-11-24",
+"name": "NICAP/Project 1947 RADCAT: Minot AFB, 24 October 1968",
+"url": "https://www.nicap.org/681024minot_dir.htm"
+}
+],
+"tier": "B",
+"type": "temporal"
+},
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": "1969",
+"dateStart": "1968-10-24",
+"direction": "out",
+"edgeLabel": "Blue Book declined to field-investigate an instrumented nuclear-site case",
+"id": "project-blue-book",
+"l0": true,
+"label": "Project Blue Book",
+"note": "The RADCAT directory records that Project Blue Book personnel did not send field investigators and the incident was written off despite interest from SAC generals including 15th Air Force's Maj. Gen. Nichols.",
+"sources": [
+{
+"date": "2010-11-24",
+"name": "NICAP/Project 1947 RADCAT: Minot AFB, 24 October 1968",
+"url": "https://www.nicap.org/681024minot_dir.htm"
+}
+],
+"tier": "A",
+"type": "denial"
+}
+],
+"coords": null,
+"dateEnd": "1968-10-24",
+"dateStart": "1968-10-24",
+"deg": 2,
+"denials": [
+{
+"by": {
+"id": "project-blue-book",
+"label": "Project Blue Book"
+},
+"claimTier": 1,
+"denialKind": "directed",
+"label": "Blue Book declined to field-investigate an instrumented nuclear-site case",
+"note": "The RADCAT directory records that Project Blue Book personnel did not send field investigators and the incident was written off despite interest from SAC generals including 15th Air Force's Maj. Gen. Nichols.",
+"of": {
+"id": "minot-1968",
+"label": "Minot AFB B-52 incident, 24 October 1968"
+},
+"sources": [
+{
+"date": "2010-11-24",
+"name": "NICAP/Project 1947 RADCAT: Minot AFB, 24 October 1968",
+"url": "https://www.nicap.org/681024minot_dir.htm"
+}
+]
+}
+],
+"desc": "The best-instrumented nuclear-site incursion case in the American record, and the one where the number of independent detection channels is the argument. In the early hours of 24 October 1968, about thirty miles northwest of Minot AFB, North Dakota, USAF ground radar tracked an unidentified object correlated with an orange glow and passed it to the crew of a B-52H, call sign JAG 31, at 2,000 feet on a 290-degree heading: a target at the one o'clock position at 24 miles at about 3:30 a.m. CDT, 15 miles by 3:35 a.m., and by 3:52 a.m. also being tracked by base weather radar at 3 miles. At 3:58 a.m. Minot requested IFF transponder identification and the B-52H's radio transmitter failed for four minutes. The bomber's own radar tracked a bright red-orange object, and the object was reported down at a location logged as 'AA-43' for some forty-five minutes. Simultaneously, Minuteman ICBM launch facilities of the 91st Strategic Missile Wing designated N, O, J and M Flights reported sightings and electromagnetic effects including security alarms triggered at both the outer and inner rings of a silo, an outer door opened and the combination lock of an inner door moved. Named witnesses include Maj. Bradford Runyon, S/Sgt Bond and S/Sgt Smith. Dan Wilson located 108 documents on the case and NARCAP found 141. Project Blue Book did not send field investigators, and Jan Aldrich's assessment of the Blue Book file is that the Air Force obfuscated the case badly enough that the obfuscation itself is visible in the paper. Richard Haines analysed the B-52H radar imagery. Minot 1968 is the case where the phrase 'threat to a primary nuclear offense system' is not rhetoric: radio failure, radar correlation and physical security breaches at a nuclear launch facility on the same night.",
+"domains": [
+"w2-retrieval-literature"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "minot-1968",
+"l0": false,
+"label": "Minot AFB B-52 incident, 24 October 1968",
+"locLabel": null,
+"members": null,
+"short": "Minot AFB B-52 incident, 24 October 1968",
+"sources": [
+{
+"date": "2010-11-24",
+"name": "NICAP/Project 1947 RADCAT case directory: Minot AFB, 24 October 1968",
+"url": "https://www.nicap.org/681024minot_dir.htm"
+},
+{
+"date": "2010-01-01",
+"name": "Richard Haines, radar analysis of the B-52H case (PDF)",
+"url": "https://www.nicap.org/reports/ufo_B52H_radar_analysis.pdf"
+},
+{
+"date": "2026-08-12",
+"name": "Tom Tulien, historical case study of the 24 October 1968 Minot AFB case",
+"url": "http://www.minotb52ufo.com/"
+}
+],
+"sub": "Ground radar, airborne radar, visual and Minuteman site security events, 91st SMW",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 573 of 1027, score 27). 2 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D2.",
+"timeline": [
+{
+"date": "1968-10-24",
+"id": "tl-1968-1024-minot",
+"label": "Minot B-52 incident",
+"precision": "day",
+"strand": "witness",
+"text": "Ground radar, base weather radar, airborne radar and visual observation converge on an object near B-52H JAG 31; the bomber's transmitter fails for four minutes; Minuteman sites of N, O, J and M Flights report alarms and an inner door combination lock moved. Blue Book sends no field investigators.",
+"tier": "A"
+}
+]
+}

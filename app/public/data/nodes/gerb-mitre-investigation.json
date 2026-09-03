@@ -1,0 +1,405 @@
+{
+"A": 0,
+"C": 0,
+"D": 3,
+"band": "research",
+"claims": [
+{
+"source": "UAP Gerb, MITRE investigation description, 7 August 2026",
+"text": "FFRDCs are the missing link: they allow the USG to technically vest programs outside the government while retaining strict control over materials, breakthroughs, data and programs, and they arbitrate what and how much information about UFO programs is shared with defense contractors.",
+"tier": 2
+},
+{
+"source": "UAP Gerb, MITRE investigation description, 7 August 2026",
+"text": "MITRE has been central to a program reverse-engineering and maturing non-human technologies from late-1940s recoveries since its 1958 inception.",
+"tier": 2
+},
+{
+"source": "UAP Gerb, MITRE investigation description, 7 August 2026",
+"text": "MITRE processes all-source data for the tracking and monitoring of an enormous USO ('tic tac factory') with permanent or semi-permanent station in the Atlantic.",
+"tier": 2
+},
+{
+"source": "UAP Gerb, MITRE investigation description, 7 August 2026",
+"text": "A legacy program briefing restriction was initiated in 2011 to cease historical briefings on program incumbents.",
+"tier": 2
+},
+{
+"source": "MITRE Corporation official website, retrieved 12 August 2026 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"text": "MITRE operates six FFRDCs: the National Security Engineering Center; the Center for Advanced Aviation System Development; the Center for Enterprise Modernization; the Homeland Security Systems Engineering and Development Institute; the Health FFRDC; and the National Cybersecurity FFRDC.",
+"tier": 2
+}
+],
+"cls": "document",
+"cluster": "research",
+"connections": [
+{
+"claimTier": 3,
+"cls": "institution",
+"dateEnd": "2026",
+"dateStart": "1960",
+"direction": "out",
+"edgeLabel": "Groups Aerospace Corporation with MITRE as the FFRDC layer",
+"id": "aerospace-corporation",
+"l0": false,
+"label": "The Aerospace Corporation",
+"note": "Gerb's FFRDC thesis treats MITRE and the Aerospace Corporation as parallel instances of the same mechanism; the Aerospace link is reinforced by Stephanie O'Sullivan's board membership there after ODNI. The specific allegation against Aerospace is inference from the model rather than a separately documented claim.",
+"sources": [
+{
+"date": "2026-08-07",
+"name": "UAP Gerb - The MITRE Corporation investigation",
+"url": "https://www.youtube.com/watch?v=107BtDYhTkA"
+},
+{
+"date": "2026-03-20",
+"name": "UAP Gerb - Northrop Grumman & TRW Vol.2",
+"url": "https://www.youtube.com/watch?v=0kLSp0lH-JQ"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 2,
+"cls": "domain",
+"dateEnd": "2026",
+"dateStart": "1958",
+"direction": "out",
+"edgeLabel": "Establishes the FFRDC arbitration thesis",
+"id": "ffrdc-mechanism",
+"l0": false,
+"label": "The FFRDC / UARC / GOCO mechanism",
+"note": "Gerb's central structural claim: FFRDCs let the government vest programs outside the USG while retaining control of materials and data, and arbitrate what defense contractors are told about UFO programs.",
+"sources": [
+{
+"date": "2026-08-07",
+"name": "UAP Gerb - The MITRE Corporation investigation",
+"url": "https://www.youtube.com/watch?v=107BtDYhTkA"
+}
+],
+"tier": "B",
+"type": "programmatic"
+},
+{
+"claimTier": 2,
+"cls": "institution",
+"dateEnd": "2026",
+"dateStart": "2011",
+"direction": "out",
+"edgeLabel": "Alleged 2011 restriction on historical briefings about program incumbents",
+"id": "mitre-corporation",
+"l0": true,
+"label": "The MITRE Corporation",
+"note": "A policy act alleged to prevent even cleared personnel from being briefed on the programme's own history - concealment directed inward at the programme's own workforce rather than outward at the public.",
+"sources": [
+{
+"date": "2026-08-07",
+"name": "UAP Gerb - The MITRE Corporation investigation",
+"url": "https://www.youtube.com/watch?v=107BtDYhTkA"
+}
+],
+"tier": "A",
+"type": "denial"
+},
+{
+"claimTier": 2,
+"cls": "institution",
+"dateEnd": "2026",
+"dateStart": "1958",
+"direction": "out",
+"edgeLabel": "Names MITRE as the central FFRDC node of the legacy portfolio",
+"id": "mitre-corporation",
+"l0": true,
+"label": "The MITRE Corporation",
+"note": "The investigation alleges MITRE's founding in 1958 carried a hidden second impetus beyond SAGE systems engineering: constructing a trusted long-term partner answerable only to its DoD customer to spearhead reverse engineering of recovered craft.",
+"sources": [
+{
+"date": "2026-08-07",
+"name": "UAP Gerb - The MITRE Corporation investigation",
+"url": "https://www.youtube.com/watch?v=107BtDYhTkA"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 2,
+"cls": "institution",
+"dateEnd": "2026",
+"dateStart": "1958",
+"direction": "out",
+"edgeLabel": "Alleges MITRE support to two Navy-spearheaded legacy programs",
+"id": "oni",
+"l0": false,
+"label": "Office of Naval Intelligence",
+"note": "The two alleged programs: reverse engineering and maturation of technologies from late-1940s recoveries, and tracking of a large USO with semi-permanent Atlantic station, with all-source data processed by MITRE. Gerb notes the oddity that MITRE was founded by and modelled on USAF structures yet is intimately involved in Navy secret programs.",
+"sources": [
+{
+"date": "2026-08-07",
+"name": "UAP Gerb - The MITRE Corporation investigation",
+"url": "https://www.youtube.com/watch?v=107BtDYhTkA"
+}
+],
+"tier": "B",
+"type": "programmatic"
+},
+{
+"claimTier": 2,
+"cls": "institution",
+"dateEnd": "1958",
+"dateStart": "1958",
+"direction": "out",
+"edgeLabel": "MITRE founded as the Air Force's successor to RAND",
+"id": "rand-corporation",
+"l0": true,
+"label": "RAND Corporation",
+"note": "The investigation restates the documented history that MITRE was established in 1958 as the Air Force's spiritual successor to RAND, tasked with systems engineering for SAGE.",
+"sources": [
+{
+"date": "2026-08-07",
+"name": "UAP Gerb - The MITRE Corporation investigation",
+"url": "https://www.youtube.com/watch?v=107BtDYhTkA"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2026",
+"dateStart": "2026",
+"direction": "in",
+"edgeLabel": "Gerb authored and published the MITRE investigation",
+"id": "uap-gerb",
+"l0": false,
+"label": "'UAP Gerb' (Sam)",
+"note": "Published 7 August 2026; the named priority document for this board. Two hours, seven chapters, building explicitly on eight prior Gerb investigations.",
+"sources": [
+{
+"date": "2026-08-07",
+"name": "UAP Gerb - The MITRE Corporation investigation",
+"url": "https://www.youtube.com/watch?v=107BtDYhTkA"
+}
+],
+"tier": "A",
+"type": "investigative"
+}
+],
+"coords": null,
+"dateEnd": "2026",
+"dateStart": "2026",
+"deg": 6,
+"denials": [
+{
+"by": {
+"id": "mitre-corporation",
+"label": "The MITRE Corporation"
+},
+"claimTier": 2,
+"denialKind": "directed",
+"label": "Alleged 2011 restriction on historical briefings about program incumbents",
+"note": "A policy act alleged to prevent even cleared personnel from being briefed on the programme's own history - concealment directed inward at the programme's own workforce rather than outward at the public.",
+"of": {
+"id": "gerb-mitre-investigation",
+"label": "UAP Gerb - The MITRE Corporation investigation"
+},
+"sources": [
+{
+"date": "2026-08-07",
+"name": "UAP Gerb - The MITRE Corporation investigation",
+"url": "https://www.youtube.com/watch?v=107BtDYhTkA"
+}
+]
+}
+],
+"desc": "The named priority document for this board. Published 7 August 2026, this two-hour investigation argues that MITRE and the FFRDC model generally are 'the missing link' in the whole legacy program question. Its structural thesis: FFRDCs let the US government technically vest programs outside the government while retaining strict control over materials, breakthroughs, data and programs, and - the sharper claim - the FFRDCs arbitrate what and how much information about UFO programs is shared with defense contractors. That inverts the usual picture in which primes hold the secrets; here the non-profit systems-engineering intermediary is the gate. The investigation traces MITRE's acknowledged founding in 1958 as the Air Force's successor to RAND, tasked with systems engineering for SAGE, and alleges a second impetus: constructing a trusted long-term partner answerable only to its DoD customer to spearhead reverse engineering of recovered craft. It alleges MITRE's role in two Navy-spearheaded programs - the exploitation and maturation of technologies from late-1940s recoveries, central to MITRE's portfolio since 1958; and the tracking and possible collection-tasking against an enormous USO, a 'tic tac factory', with permanent or semi-permanent station in the Atlantic, with all-source data processed by MITRE. It further alleges a briefing restriction initiated in 2011 to cease historical briefings on program incumbents. Chapters: INTRO, FFRDC PRIMER (17:49), THE MITRE CORPORATION (29:44), MITRE & UFO LEGACY PROGRAMS (46:40), MITRE GATEKEEPERS (1:38:15), MITRE INTERROGATIVE (1:50:15), CONCLUSION (1:57:26). It explicitly builds on Gerb's prior Navy, Sandia, Hidden Wing, Corso/Army, Manhattan Project 2.0, Special Access Required, NRO and Northrop/TRW investigations.",
+"domains": [
+"media-structure"
+],
+"dossier": {
+"claims": [
+{
+"source": "https://burlison.house.gov/media/press-releases/burlison-presses-mitre-answers-uap-records-ffrdc-accountability-and-compliance (press release dated May 26, 2026)",
+"text": "Rep. Eric Burlison (MO-07) transmitted legislative interrogatories and production requests to The MITRE Corporation seeking answers on MITRE's potential custody, control, analysis, transfer, destruction, or withholding of records related to UAP, anomalous aerospace or undersea events, recovered materials, technologies of unknown origin, and alleged legacy crash-retrieval or reverse-engineering programs.",
+"tier": 1
+},
+{
+"source": "https://defensescoop.com/2026/05/27/rep-eric-burlison-request-for-uap-records-mitre/ (Brandi Vincent, DefenseScoop, May 27, 2026)",
+"text": "The correspondence is dated May 22, 2026, runs ten pages, and its enclosure lists more than 40 specific production requests covering records collections and transfers, contracts, task orders, classified access and special programs, analysis and identification activities, AI models, technology exploitation, health and safety data, and secure facilities.",
+"tier": 1
+},
+{
+"source": "https://defensescoop.com/2026/05/27/rep-eric-burlison-request-for-uap-records-mitre/",
+"text": "Burlison asked MITRE to supply records dating back to 1930.",
+"tier": 1
+},
+{
+"source": "https://defensescoop.com/2026/05/27/rep-eric-burlison-request-for-uap-records-mitre/ (direct quotation of the letter)",
+"text": "The letter demands information about any UAP-related work involving Lockheed Martin, Northrop Grumman, Raytheon/RRTX, Boeing, General Dynamics, SAIC, Leidos, Battelle, The Aerospace Corporation, Booz Allen Hamilton, BAE Systems, Bigelow Aerospace or its successors/affiliates, or any other aerospace, defense, intelligence, science, engineering, biomedical, or materials-analysis entity.",
+"tier": 1
+},
+{
+"source": "https://defensescoop.com/2026/05/27/rep-eric-burlison-request-for-uap-records-mitre/",
+"text": "All unclassified responsive records are to be delivered in native electronic format with complete metadata within 45 days; if no responsive records exist, MITRE must provide a certification describing search methodology, repositories searched, custodians contacted, search terms used, date ranges, and the responsible MITRE official who supervised the search.",
+"tier": 1
+},
+{
+"source": "https://burlison.house.gov/media/press-releases/burlison-presses-mitre-answers-uap-records-ffrdc-accountability-and-compliance",
+"text": "The interrogatories seek information on Special Access Programs, Controlled Access Programs, national programs, activities under Alternative Compensatory Control Measures, classification guides, nondisclosure instruments, contractor-held federal records, sensor data, materials analysis, third-party relationships, budgetary mechanisms, and internal disclosures or retaliation concerns related to UAP records or programs.",
+"tier": 1
+},
+{
+"source": "https://burlison.house.gov/media/press-releases/burlison-presses-mitre-answers-uap-records-ffrdc-accountability-and-compliance",
+"text": "The MITRE requests build on Burlison's earlier letter to MIT Lincoln Laboratory concerning historical UAP-related records associated with the Beacon Hill Study and a reel-to-reel recording identified as 'AF-ATIC-FILM, 03/52', which asked Lincoln Laboratory to identify, preserve, digitize and coordinate transfer of responsive records to NARA for the UAP Records Collection.",
+"tier": 1
+},
+{
+"source": "https://burlison.house.gov/media/press-releases/burlison-presses-mitre-answers-uap-records-ffrdc-accountability-and-compliance",
+"text": "Burlison stated on the record: 'Federally funded research and development centers occupy a unique position of public trust... They cannot become private vaults for federal records, especially records Congress has directed to be identified, preserved, reviewed, and transferred for public release.'",
+"tier": 1
+},
+{
+"source": "https://burlison.house.gov/media/press-releases/burlison-presses-mitre-answers-uap-records-ffrdc-accountability-and-compliance",
+"text": "Burlison wrote: 'It requires MITRE to tell Congress what it knows, what it holds, what it has held, what it has transferred, what it has destroyed or was directed to destroy, and which federal sponsors or classification authorities control any responsive records.'",
+"tier": 1
+},
+{
+"source": "https://defensescoop.com/2026/05/27/rep-eric-burlison-request-for-uap-records-mitre/",
+"text": "A member of Burlison's team told DefenseScoop that the letter was informed by 'advice from many whistleblowers, disclosure advocacy organizations, and those working at FFRDCs.'",
+"tier": 1
+},
+{
+"source": "https://www.ibtimes.co.uk/uap-whistleblower-gerb-exposes-secret-club-running-americas-ufo-cover-1771604 (IBTimes UK, January 17, 2026, reporting Gerb's claims)",
+"text": "UAP Gerb alleges that AARO contracted Oak Ridge National Laboratory in 2024 to examine a metallic specimen recovered from private land in Ohio, that AARO later issued a brief statement suggesting the sample was ordinary, and that the full Oak Ridge analysis has never been publicly released.",
+"tier": 3
+},
+{
+"source": "https://www.ibtimes.co.uk/uap-whistleblower-gerb-exposes-secret-club-running-americas-ufo-cover-1771604",
+"text": "UAP Gerb alleges that former AARO director Sean Kirkpatrick left government in December 2023 to become Chief Technology Officer for Defence and Intelligence Programs at Oak Ridge National Laboratory, that Oak Ridge later removed the webpage announcing the appointment, and that Kirkpatrick did not list the position on his public CV.",
+"tier": 3
+},
+{
+"source": "https://www.ibtimes.co.uk/uap-whistleblower-gerb-exposes-secret-club-running-americas-ufo-cover-1771604",
+"text": "UAP Gerb alleges that former Under Secretary of Defense for Intelligence and Security Ronald Moultrie deleted his prior position on Battelle's board from his official biography, and notes that Oak Ridge National Laboratory is operated by UT-Battelle, a Battelle entity, producing what Gerb calls a 'closed loop of power' over funding, research and public narrative.",
+"tier": 3
+},
+{
+"source": "https://www.wikidisc.org/wiki/UAP_Gerb (WikiDisc entry, last edited July 1, 2026, citing Danny Jones Podcast #320, August 4, 2025)",
+"text": "UAP Gerb's central structural thesis, stated on the Danny Jones Podcast (episode #320, August 4, 2025), is that 'The DOE NEST had the authority under the 1954 Atomic Energy Act, which also governs how UFO materials are classified as transclassified foreign nuclear materials', placing recovered material outside the reach of congressional intelligence committees.",
+"tier": 3
+}
+],
+"connections": [
+"Rep. Eric Burlison (MO-07), House Oversight and Government Reform Committee and Task Force on the Declassification of Federal Secrets, is the signatory of the May 22, 2026 MITRE interrogatories and of the earlier MIT Lincoln Laboratory letter",
+"MIT Lincoln Laboratory, the Beacon Hill Study, and the reel-to-reel recording designated AF-ATIC-FILM, 03/52 are the named prior target of the same records campaign",
+"Battelle Memorial Institute connects the 1955 Blue Book Special Report No. 14 statistical study to UT-Battelle, the operator of Oak Ridge National Laboratory, which per Gerb received AARO's 2024 Ohio specimen",
+"Sean Kirkpatrick (AARO director to December 2023) and Ronald Moultrie (USD(I&S)) are the two named individuals in Gerb's revolving-door allegation",
+"The letter's named contractor list (Lockheed Martin, Northrop Grumman, Raytheon/RTX, Boeing, General Dynamics, SAIC, Leidos, Battelle, The Aerospace Corporation, Booz Allen Hamilton, BAE Systems, Bigelow Aerospace) is effectively a congressional target map of the suspected custody network",
+"NARA Record Group 615 and the UAP Records Collection created by FY2024 NDAA sections 1841-1843 are the statutory hook Burlison uses to assert that MITRE holds transferable federal records",
+"The Atomic Energy Act of 1954 and DOE/NEST are Gerb's proposed alternative custody chain, bypassing the DoD SAP system entirely"
+],
+"denialPosture": "MITRE's only attributable public statement is conditional and agency-deferring: 'If any relevant material is found, we will coordinate with the federal agencies responsible for the work to determine how to best provide any assets.' That is not a denial that records exist; it is a commitment to route any discovery back through the sponsoring classification authority, which is the same authority whose control is the subject of the inquiry.",
+"narrative": "The investigation has two halves that need to be tiered separately, because they are not equally evidenced.\n\nThe first half is the independent research. UAP Gerb is a pseudonymous researcher and documentarian who produces multi-hour, heavily sourced video investigations into crash retrieval, reverse-engineering facilities and the contractor and laboratory network around them. His signature thesis is not about craft at all but about legal architecture: that the Department of Energy, not the Pentagon, is the load-bearing custodian, that the Nuclear Emergency Support Team has a classified retrieval mission alongside its public one, and that the Atomic Energy Act of 1954 supplies the classification vehicle by designating recovered material as trans-classified foreign nuclear material, a category that sits outside the reach of the congressional intelligence committees. In his August 2025 Danny Jones Podcast appearance he put it directly: the DOE NEST had authority under the 1954 Atomic Energy Act, which also governs how UFO materials are classified as transclassified foreign nuclear materials. This matters because it is a falsifiable structural claim about statute, not a witness anecdote, and because it explains a specific documented behavior, namely why UAP disclosure amendments keep naming the 1954 Act as an obstacle.\n\nThe second, and more consequential, half of the investigation is Gerb's January 2026 attack on the AARO to Oak Ridge to Battelle circuit. As reported by IBTimes UK on January 17, 2026, Gerb alleges that in 2024 AARO contracted Oak Ridge National Laboratory to examine a metallic specimen recovered from private land in Ohio; that AARO subsequently issued a brief statement suggesting the sample was ordinary while the full Oak Ridge analysis was never released; that former AARO director Sean Kirkpatrick left government in December 2023 to become Chief Technology Officer for Defense and Intelligence Programs at Oak Ridge, the same laboratory that received material he had previously decided to send out for analysis; that Oak Ridge subsequently removed the webpage announcing his appointment and that he did not list the position on his public CV; and that former Under Secretary of Defense for Intelligence and Security Ronald Moultrie removed his prior Battelle board service from his official biography. The structural point behind the personnel allegations is the one that survives regardless of motive: Oak Ridge is operated by UT-Battelle, a Battelle entity, and Battelle is the same institution that performed the statistical analysis published as Project Blue Book Special Report No. 14 in 1955. The organization that wrote the government's foundational public assessment of the phenomenon in the 1950s operates the laboratory that assessed its recovered material in the 2020s. That is not a coincidence anyone has been asked to explain on the record.\n\nThe third half, the one that turns research into leverage, is Burlison. Reports in the research community indicate Burlison invited Gerb to dinner, and by May 2026 Burlison had transmitted to MITRE a document whose enclosure lists more than forty specific requests. The letter instructs MITRE to designate a senior official, issue a preservation hold, provide a records-location index, produce unclassified responsive records in native electronic format with complete metadata within 45 days, identify classified or sponsor-controlled material, and coordinate a classified briefing for cleared committee staff. It asks MITRE to identify all work involving detection, tracking, correlation, characterization, data fusion, anomaly detection or attribution of UAP-related signatures across air, space, maritime, undersea, cyber, electromagnetic, acoustic, radar, optical, infrared, nuclear, biological, chemical or multi-intelligence domains. And it includes the trapdoor clause: if no responsive records exist, MITRE must certify the search methodology, repositories searched, custodians contacted, search terms used, date ranges and the responsible MITRE official who supervised the search. That converts a null answer into an attributable, signed, falsifiable statement by a named person, which is exactly the property that a denial needs in order to become evidence.\n\nThe MITRE demand did not arrive alone. Burlison's press release states it builds on his earlier letter to MIT Lincoln Laboratory concerning historical UAP records associated with the Beacon Hill Study and a reel-to-reel recording identified as AF-ATIC-FILM, 03/52. A film reel identified by an Air Technical Intelligence Center designator and a March 1952 date, held at an MIT laboratory rather than at the National Archives, is the single most specific artifact anyone in Congress has publicly named in this line of inquiry.\n\nWhat the record does not yet contain is any MITRE production. As of the reporting, MITRE has said only that insiders are reviewing archives and that if relevant material is found it will coordinate with the responsible federal agencies. That is a conditional, agency-deferring non-answer, which is the standard posture of a contractor that intends to route any responsive material back through the classification authority that created it.",
+"openQuestions": [
+"Has MITRE produced anything responsive, and has any certification of a null search been signed by a named MITRE official?",
+"Which federal sponsor or classification authority does MITRE identify as controlling any responsive material?",
+"Does the Beacon Hill Study record set at MIT Lincoln Laboratory still contain AF-ATIC-FILM, 03/52, and has it been transferred to NARA?",
+"Was there in fact a 2024 AARO contract or task order to Oak Ridge National Laboratory for analysis of material recovered in Ohio, and what is its contract number?",
+"Is Sean Kirkpatrick's Oak Ridge appointment documented in any surviving primary record, and why was the announcement page removed?",
+"Is 'trans-classified foreign nuclear material' an actual DOE classification category in current use, and does any UAP-related material sit in it?",
+"The identity, nationality and prior professional background of UAP Gerb are unknown, which caps independent verification of his sourcing"
+],
+"roles": [
+"custody",
+"concealment",
+"oversight",
+"disclosure",
+"research"
+],
+"whatItIs": "An open-source investigation by the pseudonymous researcher known as UAP Gerb into The MITRE Corporation and the wider federally funded research and development center (FFRDC) layer as custodians of UAP-related material, which in 2026 converged with a formal congressional records demand. On May 22, 2026 Rep. Eric Burlison (MO-07) transmitted ten pages of legislative interrogatories and production requests to MITRE covering its possible custody, control, analysis, transfer, destruction or withholding of records on UAP, recovered materials, technologies of unknown origin and alleged legacy crash-retrieval or reverse-engineering programs. MITRE confirmed publicly that it is reviewing its archives.",
+"whyImplicated": "The FFRDC is the structural blind spot in the whole concealment architecture: it holds government-funded records, sits inside classified programs, and is largely shielded from FOIA. Burlison's letter names the exact mechanism the record has always lacked a demand for, asking MITRE to identify Special Access Programs, Controlled Access Programs, activities under Alternative Compensatory Control Measures, classification guides, nondisclosure instruments, contractor-held federal records, budgetary mechanisms and internal retaliation complaints. It asks for records back to 1930, which is a date choice that only makes sense if the requester believes the paper trail predates Roswell. It explicitly asks MITRE to describe UAP-related work conducted with Lockheed Martin, Northrop Grumman, Raytheon/RTX, Boeing, General Dynamics, SAIC, Leidos, Battelle, The Aerospace Corporation, Booz Allen Hamilton, BAE Systems and Bigelow Aerospace or its successors, which converts the letter into a map of the suspected contractor network. And a member of Burlison's own staff told DefenseScoop the letter was informed by advice from whistleblowers, disclosure advocacy organizations and people working at FFRDCs, meaning an independent researcher's target list has been laundered into a congressional production request."
+},
+"entityInfo": {
+"desc": "CHAPTER STRUCTURE (verbatim from the published description, 7 August 2026): 0:00 INTRO / 17:49 FFRDC PRIMER / 29:44 THE MITRE CORPORATION / 46:40 MITRE & UFO LEGACY PROGRAMS / 1:38:15 MITRE GATEKEEPERS / 1:50:15 MITRE INTERROGATIVE / 1:57:26 CONCLUSION.\n\nPRIOR WORK THE INVESTIGATION EXPLICITLY BUILDS ON, as listed in its own description: US Navy UFO Crash Retrieval & Reverse Engineering; Sandia National Laboratories; The Hidden Wing (US Air Force); Philip J. Corso (US Army); The Manhattan Project 2.0; Special Access Required; National Reconnaissance Office; Northrop Grumman & TRW.\n\nWITNESS SOLICITATION: the description carries a standing appeal - 'If you have any first-hand experience or direct knowledge of UFO material exploitation and crash retrieval programs, please contact: UAPGERB@protonmail.com' - which is worth recording as a live intake channel.\n\nTAG SET, which functions as an index of the entities the investigation touches: Battelle, Lockheed, Skunkworks, Lockheed Martin, Ross Coulthart, Kingman, Nick Redfern, Grusch, Michael Herrera, USO, Timothy Gallaudet, Greer, Kecksburg, NASA, Edwards, USAF, Elizondo, McCandlish, Immaculate Constellation, Edgar Fouche, TR-3B, ARV, Dugway, Navy, Weygandt, SAIC, Aztec, Sandia, NRO, Sol Foundation, Karl Nell, Condon Committee, J. Allen Hynek, Project Sign, Project Grudge, Project Blue Book.",
+"sources": [
+{
+"date": "2026-08-07",
+"name": "UAP Gerb - The MITRE Corporation investigation",
+"url": "https://www.youtube.com/watch?v=107BtDYhTkA"
+}
+]
+},
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "gerb-mitre-investigation",
+"l0": true,
+"label": "UAP Gerb - The MITRE Corporation investigation",
+"locLabel": null,
+"members": [
+{
+"cls": "institution",
+"id": "aerospace-corporation",
+"label": "The Aerospace Corporation",
+"tier": "B"
+},
+{
+"cls": "domain",
+"id": "ffrdc-mechanism",
+"label": "The FFRDC / UARC / GOCO mechanism",
+"tier": "B"
+},
+{
+"cls": "institution",
+"id": "oni",
+"label": "Office of Naval Intelligence",
+"tier": "B"
+},
+{
+"cls": "person",
+"id": "uap-gerb",
+"label": "'UAP Gerb' (Sam)",
+"tier": "A"
+}
+],
+"short": "UAP Gerb - The MITRE Corporation investigation",
+"sources": [
+{
+"date": "2026-08-07",
+"name": "UAP Gerb - The MITRE Corporation investigation",
+"url": "https://www.youtube.com/watch?v=107BtDYhTkA"
+},
+{
+"date": "2026-08-12",
+"name": "MITRE Corporation - official site (FFRDC list)",
+"url": "https://www.mitre.org/"
+}
+],
+"sub": "Video investigation, 7 Aug 2026",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 392 of 1027, score 33). 7 connections, 2 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D3.",
+"timeline": [
+{
+"date": "2011-01-01",
+"id": "ms-cv-2011-briefing",
+"label": "Alleged 2011 restriction on historical briefings",
+"precision": "year",
+"strand": "coverup",
+"text": "UAP Gerb alleges a legacy program briefing restriction initiated in 2011 to cease historical briefings on program incumbents - i.e. a policy act specifically designed to prevent newly cleared personnel from learning the programme's own history. If real, it is documentable as a memorandum or classification guide change.",
+"tier": "B"
+},
+{
+"date": "2026-08-07",
+"id": "ms-2026-mitre",
+"label": "Gerb publishes the MITRE investigation",
+"precision": "day",
+"strand": "program",
+"text": "The FFRDC arbitration thesis in full: MITRE as the missing link, two alleged Navy-spearheaded programs, an Atlantic USO tracking mission, and a 2011 restriction on historical briefings about program incumbents.",
+"tier": "A"
+}
+]
+}

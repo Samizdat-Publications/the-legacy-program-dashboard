@@ -1,0 +1,98 @@
+{
+"A": 0,
+"C": 0,
+"D": 2,
+"band": null,
+"claims": [
+{
+"source": "Congress.gov H.R. 1187 (119th); GPO BILLS-119hr1187ih",
+"text": "Introduced 11 February 2025 by Rep. Tim Burchett; cosponsors Jared Moskowitz and Anna Paulina Luna; referred to the House Committee on Oversight and Government Reform.",
+"tier": 1
+}
+],
+"cls": "legislation",
+"cluster": "oversight",
+"connections": [
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "2025",
+"direction": "in",
+"edgeLabel": "Cosponsor - the bipartisan half",
+"id": "jared-moskowitz",
+"l0": false,
+"label": "Jared Evan Moskowitz",
+"note": "Congress.gov cosponsor record.",
+"sources": [
+{
+"date": "2025-02-11",
+"name": "Congress.gov, H.R. 1187 — UAP Transparency Act (119th Congress)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/1187"
+}
+],
+"tier": "B",
+"type": "legislative"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "2025",
+"direction": "in",
+"edgeLabel": "Sponsor",
+"id": "tim-burchett",
+"l0": false,
+"label": "Timothy Floyd Burchett",
+"note": "Introduced 11 February 2025, the day the Task Force was announced.",
+"sources": [
+{
+"date": "2025-02-11",
+"name": "Congress.gov, H.R. 1187 — UAP Transparency Act (119th Congress)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/1187"
+}
+],
+"tier": "A",
+"type": "legislative"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "2025",
+"deg": 2,
+"denials": [],
+"desc": "Burchett's transparency bill in the 119th Congress, introduced 11 February 2025 - the same day Chairman Comer announced the Task Force on the Declassification of Federal Secrets - and cosponsored by Jared Moskowitz and Anna Paulina Luna. Its bipartisan cosponsor pairing is the point: one Republican and one Democrat from Florida alongside a Tennessee Republican, filed into the Committee on Oversight and Government Reform where Burchett, Luna and Moskowitz all sit. It was referred and has not moved. It is the successor to H.R. 8424 of 16 May 2024, which met the same fate.",
+"domains": [
+"congress-house"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "hr-1187-uap-transparency-act",
+"l0": false,
+"label": "H.R. 1187 - UAP Transparency Act (119th Congress)",
+"locLabel": null,
+"members": null,
+"short": "H.R. 1187 - UAP Transparency Act (119th Congress)",
+"sources": [
+{
+"date": "2025-02-11",
+"name": "Congress.gov, H.R. 1187 — UAP Transparency Act (119th Congress)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/1187"
+},
+{
+"date": "2025-02-11",
+"name": "U.S. GPO, H.R. 1187 (119th), UAP Transparency Act, as introduced",
+"url": "https://www.govinfo.gov/content/pkg/BILLS-119hr1187ih/html/BILLS-119hr1187ih.htm"
+}
+],
+"sub": "Introduced 11 Feb 2025; referred; pending",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 1003 of 1027, score 9). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D2.",
+"timeline": []
+}

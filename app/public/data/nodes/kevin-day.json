@@ -1,0 +1,196 @@
+{
+"A": 1,
+"C": 1,
+"D": 2,
+"affiliations": [
+"US Navy (retired Senior Chief Operations Specialist)",
+"USS Princeton (CG-59), Carrier Strike Group 11 (2004)"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "2004-11-10",
+"event": "Begins tracking anomalous contacts on Princeton's SPY-1B radar during CSG-11 workups",
+"precision": "month"
+},
+{
+"date": "2004-11-14",
+"event": "Vectors VFA-41 aircraft onto the contact that becomes the Tic Tac intercept",
+"precision": "day"
+},
+{
+"date": "2004-11-15",
+"event": "Says unidentified personnel came aboard and removed recording media (attributed account, no primary record located)",
+"precision": "day"
+},
+{
+"date": "2019-03-01",
+"event": "Account circulated widely through documentary and broadcast interviews after the FLIR1 release",
+"precision": "year"
+}
+],
+"claims": [
+{
+"source": "David Fravor, written statement to House Oversight, 26 July 2023 (corroborating the Princeton radar picture Day ran)",
+"text": "Princeton tracked the objects on Aegis for roughly two weeks before the intercept, observing descents from above 80,000 ft to 20,000 ft.",
+"tier": 1
+},
+{
+"source": "Navy range fouler reports released via Navy FOIA reading room 13 Jan 2023, quoted by The War Zone, 14 Jan 2023",
+"text": "The Navy's own range fouler report on the 14 Nov 2004 incident states 'Reporting terminated at 3rd Fleet, there was no process to share the reporting.'",
+"tier": 1
+},
+{
+"source": "Kevin Day, public documentary and broadcast interviews, 2018-2019; no primary record located as of Aug 2026",
+"text": "Recording media documenting the Princeton radar tracks were removed by personnel who did not identify themselves within roughly 48 hours of the intercept. Reasoning: the account is consistent across Day's public interviews and with Gary Voorhis's independent account of being ordered to reformat/hand over data, and it is compatible with - not contradicted by - Fravor's statement that no tapes were taken from his aircrew, since the two men describe collection aimed at different platforms. It remains inference until a visit log, message, or FOIA release names the personnel.",
+"tier": 3
+}
+],
+"cls": "person",
+"cluster": "witness",
+"conflicts": [
+"Fravor testified under his own name that 'tapes were never taken.' Day says media were taken from Princeton. The reconciliation is platform-specific collection, but the conflict is real and should be presented, not smoothed."
+],
+"connections": [
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "2004",
+"direction": "in",
+"edgeLabel": "Direct conflict over whether data was taken",
+"id": "david-fravor",
+"l0": false,
+"label": "David Fravor",
+"note": "Fravor testified under his own name that 'tapes were never taken'; Day says media were removed from Princeton. The conflict resolves only if collection was platform-specific, and it is recorded here unresolved.",
+"sources": [
+{
+"date": "2023-07-26",
+"name": "House Oversight - Fravor written statement (PDF)",
+"url": "https://oversight.house.gov/wp-content/uploads/2023/07/David-Fravor-Statement-for-House-Oversight-Committee.pdf"
+},
+{
+"date": "2023-01-14",
+"name": "The War Zone - Tic Tac incident in newly released range fouler reports",
+"url": "https://www.twz.com/tic-tac-uap-incident-included-in-72-newly-released-range-incursion-reports"
+}
+],
+"tier": "B",
+"type": "behavioral"
+},
+{
+"claimTier": 3,
+"cls": "person",
+"dateEnd": "2004",
+"dateStart": "2004",
+"direction": "out",
+"edgeLabel": "Independent shipmate corroboration of the post-encounter data collection",
+"id": "gary-voorhis",
+"l0": false,
+"label": "Gary Voorhis",
+"note": "Two Princeton crewmen in unrelated divisions give converging accounts of unidentified personnel removing recorded material - evidentiary convergence short of documentary proof.",
+"sources": [
+{
+"date": "2023-01-14",
+"name": "The War Zone - Tic Tac incident in newly released range fouler reports",
+"url": "https://www.twz.com/tic-tac-uap-incident-included-in-72-newly-released-range-incursion-reports"
+}
+],
+"tier": "C",
+"type": "witness-chain"
+},
+{
+"claimTier": 2,
+"cls": "event",
+"dateEnd": "2004",
+"dateStart": "2004",
+"direction": "out",
+"edgeLabel": "Ran the Princeton air picture and vectored the intercept",
+"id": "nimitz-2004",
+"l0": true,
+"label": "USS Nimitz Carrier Strike Group Encounters, 10-16 November 2004",
+"note": "As Senior Chief Operations Specialist Day was the air warfare coordinator holding the tracks. Fravor's sworn statement corroborates the substance of the radar picture Day describes.",
+"sources": [
+{
+"date": "2023-07-26",
+"name": "House Oversight - Fravor written statement (PDF)",
+"url": "https://oversight.house.gov/wp-content/uploads/2023/07/David-Fravor-Statement-for-House-Oversight-Committee.pdf"
+}
+],
+"tier": "A",
+"type": "witness-chain"
+},
+{
+"claimTier": 2,
+"cls": "institution",
+"dateEnd": "2004",
+"dateStart": "2004",
+"direction": "out",
+"edgeLabel": "Senior Chief Operations Specialist aboard USS Princeton, Nov 2004",
+"id": "uss-princeton",
+"l0": false,
+"label": "USS Princeton (CG-59)",
+"note": "Day's billet is the reason his account of the radar record and its removal carries weight; he is the man who owned the air picture.",
+"sources": [
+{
+"date": "2023-07-26",
+"name": "House Oversight - Fravor written statement (PDF)",
+"url": "https://oversight.house.gov/wp-content/uploads/2023/07/David-Fravor-Statement-for-House-Oversight-Committee.pdf"
+}
+],
+"tier": "B",
+"type": "institutional"
+}
+],
+"date": "2004-11-14",
+"dateEnd": null,
+"dateStart": "2004-11-14",
+"deg": 4,
+"denials": [],
+"domains": [
+"aviators-incidents"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "2",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "kevin-day",
+"instId": "uss-princeton",
+"l0": false,
+"label": "Kevin Day",
+"loc": "Oregon",
+"locId": "l-socal-oparea",
+"members": null,
+"narrative": "Day was the Senior Chief Operations Specialist running the air picture in USS Princeton's combat information center during the two weeks of contacts that culminated in the 14 November 2004 intercept. His role is the load-bearing one for the radar side of the case: the Princeton's SPY-1B, freshly upgraded, was the sensor that established the objects were descending from above 80,000 feet, that they were numerous, and that they were not tracks the Aegis library recognised. Fravor's own sworn statement to House Oversight corroborates the substance of Day's picture - that Princeton 'had been observing these objects on their Aegis combat system for the previous 2 weeks' descending 'from above 80,000ft ... rapidly down to 20,000ft.' Day has said publicly in documentary and broadcast interviews that within a day or two of the intercept, personnel who did not identify themselves arrived aboard Princeton and removed recording media, and that he was told to stop discussing it. That confiscation account is the pivot of the whole coverup strand for this incident and it has not yet been anchored to a primary record - no FOIA release, no visit log, no message traffic identifying the personnel or the authority under which they acted has surfaced. It is recorded here as a tier-2 attributed account with the primary-record gap stated plainly, because a fabricated citation would destroy exactly the claim that most needs to survive audit.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Kevin Day",
+"sources": [
+{
+"date": "2023-07-26",
+"name": "House Oversight - Fravor written statement (PDF)",
+"url": "https://oversight.house.gov/wp-content/uploads/2023/07/David-Fravor-Statement-for-House-Oversight-Committee.pdf"
+},
+{
+"date": "2023-01-14",
+"name": "The War Zone - Tic Tac incident in newly released range fouler reports",
+"url": "https://www.twz.com/tic-tac-uap-incident-included-in-72-newly-released-range-incursion-reports"
+}
+],
+"status": "active",
+"sub": "Senior Chief Operations Specialist / Air Warfare Coordinator, USS Princeton (CG-59), Nov 2004",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 515 of 1027, score 28). 4 connections, 2 of them custody/witness/funding/programmatic. Axes C1/A1/D2.",
+"timeline": [],
+"unexplainedResidual": null,
+"unverified": [
+"The identity, service, and authorising command of the personnel Day says came aboard USS Princeton.",
+"Any Princeton visit log, quarterdeck log entry, or message traffic for 14-17 Nov 2004 covering an unscheduled embarkation.",
+"Whether Princeton's SPY-1B recorded data tapes for that period exist in any Navy archive."
+]
+}

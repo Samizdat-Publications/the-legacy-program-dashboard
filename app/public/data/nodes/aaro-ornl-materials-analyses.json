@@ -1,0 +1,209 @@
+{
+"A": 3,
+"C": 2,
+"D": 2,
+"band": null,
+"claims": [
+{
+"source": "AARO UAP Records / Information Papers listings, accessed 12 August 2026",
+"text": "AARO published an ORNL synopsis analysing a metallic (magnesium) specimen in April 2024 with an AARO supplement, and an ORNL analysis of an aluminium specimen with an AARO supplement dated January 2026.",
+"tier": 1
+},
+{
+"source": "AARO Historical Record Report Volume I",
+"text": "Volume I determined that an alleged extraterrestrial spacecraft sample was a manufactured terrestrial alloy of magnesium, zinc and bismuth with trace elements.",
+"tier": 1
+},
+{
+"source": "AARO FY2025 Consolidated Annual Report on UAP",
+"text": "The FY2025 report states no entity has ever captured or exploited UAP-derived materials while noting AARO is developing procedures for handling such materials should they come into USG possession.",
+"tier": 1
+},
+{
+"source": "Inference from the scope of the ORNL analyses against Volume I's reliance on voluntary corporate denials",
+"text": "Two laboratory characterisations of voluntarily surrendered specimens cannot bear the weight of a general negative on custody, because the allegation concerns holdings AARO has never inspected and has no authority to compel.",
+"tier": 3
+}
+],
+"cls": "document",
+"cluster": "other",
+"connections": [
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "2026",
+"dateStart": "2024",
+"direction": "in",
+"edgeLabel": "The materials line of effort and its published scope",
+"id": "aaro-historical-record-vol1",
+"l0": true,
+"label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
+"note": "Volume I's magnesium-zinc-bismuth finding and the ORNL magnesium and aluminium analyses are the only physical-specimen work AARO has published.",
+"sources": [
+{
+"date": "2024-03-08",
+"name": "AARO Historical Record Report Volume I (DOPSR-2024-0263)",
+"url": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF"
+},
+{
+"date": "2026-01-01",
+"name": "AARO/ORNL - Analysis of an Aluminum Specimen",
+"url": "https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/ORNL_ANALYSIS_OF_AN_ALUMINUM_SPECIMEN.pdf"
+},
+{
+"date": "2026-01-01",
+"name": "AARO - Aluminum Materials Analysis Supplement (Jan 2026)",
+"url": "https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Aluminum_Materials_Analysis_Supplement_Jan2026.pdf"
+}
+],
+"tier": "A",
+"type": "investigative"
+},
+{
+"claimTier": 3,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "2026-04",
+"direction": "in",
+"edgeLabel": "competing materials programme",
+"id": "garry-nolan",
+"l0": false,
+"label": "Garry Nolan",
+"note": "The Sol Foundation's April 2026 peer-reviewed atomic and isotopic analysis of possible UAP material is the private-sector counterpart to AARO's two ORNL specimen studies, both of which resolved to terrestrial manufacture.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "The Sol Foundation",
+"url": "https://www.thesolfoundation.org/"
+},
+{
+"date": "2026-04",
+"name": "Sol Foundation Briefing No. 3",
+"url": "https://thesolfoundation.org/publications/first-peer-reviewed-scientific-analysis-of-possible-uap-materials-employs-state-of/"
+}
+],
+"tier": "A",
+"type": "research"
+},
+{
+"claimTier": 3,
+"cls": "person",
+"dateEnd": "2026-01",
+"dateStart": "2023-12",
+"direction": "in",
+"edgeLabel": "former director at the laboratory that tests the specimens",
+"id": "sean-kirkpatrick",
+"l0": false,
+"label": "Sean M. Kirkpatrick",
+"note": "Recorded for proximity, not impropriety: the ORNL aluminium analysis and AARO supplement appeared in January 2026 while Kirkpatrick was CTO for defense and intelligence programs there.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Wikipedia, All-domain Anomaly Resolution Office",
+"url": "https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office"
+},
+{
+"date": "2026-01",
+"name": "AARO Aluminum Materials Analysis Supplement, January 2026",
+"url": "https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Aluminum_Materials_Analysis_Supplement_Jan2026.pdf"
+}
+],
+"tier": "A",
+"type": "research"
+}
+],
+"coords": null,
+"dateEnd": "2026",
+"dateStart": "2024",
+"deg": 3,
+"denials": [],
+"desc": "AARO's materials programme in public: two Oak Ridge National Laboratory analyses of specimens alleged to be of non-terrestrial origin, with AARO supplements. The magnesium specimen synopsis appeared in April 2024, alongside Volume I's finding that a putative extraterrestrial sample was a manufactured terrestrial magnesium-zinc-bismuth alloy. The aluminium specimen analysis and its AARO supplement appeared in January 2026, in the same weeks as the PR-011 and PR-013 imagery releases and three months before PURSUE. This is the one line of AARO work that is genuinely primary-document disclosure: a national laboratory's characterisation of a physical specimen, published with a supplement. It is also the narrowest. Two specimens, both resolved as terrestrial manufactures, against an allegation set that concerns material alleged to be held by contractors AARO has never inspected and cannot compel. The FY2025 report's formulation is the giveaway - no evidence any entity has ever captured or exploited UAP-derived materials, and the office is simultaneously developing procedures for handling such material should it ever come into US Government possession.",
+"domains": [
+"_rs-archive-mirror",
+"releases-2023-2026"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "aaro-ornl-materials-analyses",
+"l0": false,
+"label": "AARO / Oak Ridge National Laboratory materials analyses",
+"locLabel": null,
+"members": null,
+"short": "AARO / Oak Ridge National Laboratory materials analyses",
+"sources": [
+{
+"date": "2026-05-08",
+"name": "Archived: AARO/ORNL - Analysis of an Aluminum Specimen (Wayback 2026-05-08)",
+"url": "https://web.archive.org/web/20260508180256/https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/ORNL_ANALYSIS_OF_AN_ALUMINUM_SPECIMEN.pdf"
+},
+{
+"date": "2026-05-08",
+"name": "Archived: AARO - Aluminum Materials Analysis Supplement (Jan 2026) (Wayback 2026-05-08)",
+"url": "https://web.archive.org/web/20260508180257/https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Aluminum_Materials_Analysis_Supplement_Jan2026.pdf"
+},
+{
+"date": "2026-07-14",
+"name": "Archived: AARO - UAP Records page (Wayback 2026-07-14)",
+"url": "https://web.archive.org/web/20260714192654/https://www.aaro.mil/UAP-Records/"
+},
+{
+"date": "2026-07-05",
+"name": "Archived: AARO Historical Record Report Volume I (DOPSR-2024-0263) (Wayback 2026-07-05)",
+"url": "https://web.archive.org/web/20260705034310/https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF"
+},
+{
+"date": "2026-01-01",
+"name": "AARO/ORNL - Analysis of an Aluminum Specimen",
+"url": "https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/ORNL_ANALYSIS_OF_AN_ALUMINUM_SPECIMEN.pdf"
+},
+{
+"date": "2026-01-01",
+"name": "AARO - Aluminum Materials Analysis Supplement (Jan 2026)",
+"url": "https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Aluminum_Materials_Analysis_Supplement_Jan2026.pdf"
+},
+{
+"date": "2026-08-12",
+"name": "AARO - UAP Records page",
+"url": "https://www.aaro.mil/UAP-Records/"
+},
+{
+"date": "2024-03-08",
+"name": "AARO Historical Record Report Volume I (DOPSR-2024-0263)",
+"url": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF"
+},
+{
+"date": "2026-07-21",
+"name": "AARO - FY2025 Consolidated Annual Report on UAP (PDF)",
+"url": "https://documents2.theblackvault.com/documents/osd/AARO_FY2025_Consolidated_Annual_Report_on_UAP.pdf"
+}
+],
+"sub": "Magnesium specimen (Apr 2024); aluminium specimen and supplement (Jan 2026)",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 357 of 1027, score 34). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A3/D2.",
+"timeline": [
+{
+"date": "2024-04-01",
+"id": "rel-2024-04-01",
+"label": "ORNL magnesium specimen analysis",
+"precision": "month",
+"strand": "program",
+"text": "AARO publishes the Oak Ridge synopsis of a metallic specimen with its own supplement - the first of only two physical-specimen characterisations it has released.",
+"tier": "B"
+},
+{
+"date": "2026-01-01",
+"id": "rel-2026-01-15",
+"label": "ORNL aluminium specimen analysis",
+"precision": "month",
+"strand": "program",
+"text": "AARO publishes the Oak Ridge analysis of an aluminium specimen with a January 2026 supplement, its second and last published materials characterisation.",
+"tier": "C"
+}
+]
+}

@@ -1,0 +1,134 @@
+{
+"A": 3,
+"C": 2,
+"D": 2,
+"band": null,
+"claims": [
+{
+"source": "AARO/DHS, 'History and Origin of KONA BLUE'",
+"text": "'In 2011 the DHS Under Secretary for Science and Technology (S&T) established KONA BLUE as a PSAP'; the DHS Deputy Secretary disapproved and terminated it approximately six months later, and it was 'never approved or formally established'.",
+"tier": 1
+},
+{
+"source": "AARO Historical Record Report Volume I, p. 35",
+"text": "AARO records that 'Senators Lieberman and Reid asked that the PSAP be established with the promise of additional funding'.",
+"tier": 1
+},
+{
+"source": "Inference from the redaction pattern of the released AARO/DHS KONA BLUE paper",
+"text": "The names of the DHS Under Secretary for S&T who established KONA BLUE and the DHS Deputy Secretary who terminated it are withheld from the released paper and are the highest-value identifiable FOIA targets in the DHS record. Reasoning: both officials made a formal written determination about a compartment for recovered material, and those determinations are agency records.",
+"tier": 3
+}
+],
+"cls": "institution",
+"cluster": "other",
+"connections": [
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2003",
+"direction": "out",
+"edgeLabel": "Science and Technology Directorate is the DHS R&D component",
+"id": "dhs",
+"l0": false,
+"label": "United States Department of Homeland Security",
+"note": "The Under Secretary for Science and Technology is a DHS component head; the KONA BLUE paper identifies that office as the one that established the prospective program.",
+"sources": [
+{
+"date": "2024-06-01",
+"name": "AARO/DHS, 'History and Origin of KONA BLUE'",
+"url": "https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/History_and_Origin_of_KONA_BLUE_FINAL_508.pdf"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": null,
+"dateStart": "2011",
+"direction": "out",
+"edgeLabel": "DHS Under Secretary for S&T established KONA BLUE as a Prospective SAP in 2011",
+"id": "kona-blue",
+"l0": true,
+"label": "KONA BLUE",
+"note": "'In 2011 the DHS Under Secretary for Science and Technology (S&T) established KONA BLUE as a PSAP' - the government's own words in the joint AARO/DHS paper.",
+"sources": [
+{
+"date": "2024-06-01",
+"name": "AARO/DHS, 'History and Origin of KONA BLUE'",
+"url": "https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/History_and_Origin_of_KONA_BLUE_FINAL_508.pdf"
+}
+],
+"tier": "A",
+"type": "programmatic"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "2003-03-01",
+"deg": 2,
+"denials": [],
+"desc": "The Science and Technology Directorate is the Department of Homeland Security's research and development arm, and it is the specific office inside DHS at which the post-AAWSAP recovery program proposal landed. According to the joint AARO/DHS paper 'History and Origin of KONA BLUE', in 2011 'the DHS Under Secretary for Science and Technology (S&T) established KONA BLUE as a PSAP' - a Prospective Special Access Program - and approximately six months later the DHS Deputy Secretary disapproved it and terminated it, so that KONA BLUE was 'never approved or formally established'. AARO's Historical Record Report adds that the proposal was to 'restart UAP investigations, paranormal research (including alleged human consciousness anomalies) and reverse-engineer any recovered off-world spacecraft', that interviewees described it as 'a sensitive DHS compartment to cover up the retrieval and exploitation of non-human biologics', and that 'Senators Lieberman and Reid asked that the PSAP be established with the promise of additional funding'. S&T is therefore the only office in the United States government for which there is a released government document stating that it created, however briefly and however provisionally, a compartment intended to hold recovered non-human material. The identity of the Under Secretary who signed is not stated in the released paper; the identity of the Deputy Secretary who killed it is not stated either. Those two names are the highest-value outstanding FOIA targets in this domain.",
+"domains": [
+"_rs-archive-mirror",
+"w2-agencies"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "2",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "dhs-st",
+"l0": false,
+"label": "DHS Science and Technology Directorate",
+"locLabel": null,
+"members": null,
+"short": "DHS Science and Technology Directorate",
+"sources": [
+{
+"date": "2026-05-08",
+"name": "Archived: AARO/DHS, 'History and Origin of KONA BLUE' (Wayback 2026-05-08)",
+"url": "https://web.archive.org/web/20260508180256/https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/History_and_Origin_of_KONA_BLUE_FINAL_508.pdf"
+},
+{
+"date": "2026-07-05",
+"name": "Archived: AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I (DOPSR-2024-0263) (Wayback 2026-07-05)",
+"url": "https://web.archive.org/web/20260705034310/https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF"
+},
+{
+"date": "2024-06-01",
+"name": "AARO/DHS, 'History and Origin of KONA BLUE'",
+"url": "https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/History_and_Origin_of_KONA_BLUE_FINAL_508.pdf"
+},
+{
+"date": "2024-03-08",
+"name": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I (DOPSR-2024-0263)",
+"url": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF"
+},
+{
+"date": "2026-08-12",
+"name": "DHS - About DHS",
+"url": "https://www.dhs.gov/about-dhs"
+}
+],
+"sub": "DHS research and development component; the office that established KONA BLUE as a prospective SAP",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 384 of 1027, score 33). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A3/D2.",
+"timeline": [
+{
+"date": "2011-01-01",
+"id": "ag-tl-2011-konablue",
+"label": "DHS Under Secretary for S&T establishes KONA BLUE as a prospective SAP",
+"precision": "year",
+"strand": "program",
+"text": "On the government's own account, a DHS component head creates a prospective special access program that supporters intended to use to reverse-engineer recovered craft and exploit non-human biologics. Senators Lieberman and Reid ask that it be established.",
+"tier": "A"
+}
+]
+}

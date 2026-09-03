@@ -1,0 +1,129 @@
+{
+"A": 3,
+"C": 2,
+"D": 2,
+"band": null,
+"claims": [
+{
+"source": "https://www.law.cornell.edu/uscode/text/50/3510",
+"text": "50 U.S.C. 3510(b): 'The sums made available to the Agency may be expended without regard to the provisions of law and regulations relating to the expenditure of Government funds; and for objects of a confidential, extraordinary, or emergency nature, such expenditures to be accounted for solely on the certificate of the Director and every such certificate shall be deemed a sufficient voucher for the amount therein certified.'",
+"tier": 1
+},
+{
+"source": "https://www.law.cornell.edu/uscode/text/50/3510",
+"text": "The provision originates as section 8 of the Central Intelligence Agency Act of 1949, enacted 20 June 1949.",
+"tier": 1
+}
+],
+"cls": "legislation",
+"cluster": "ic",
+"connections": [
+{
+"claimTier": 2,
+"cls": "legislation",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "Paired instruments, one hiding an invention and the other an expenditure",
+"id": "invention-secrecy-act",
+"l0": false,
+"label": "Invention Secrecy Act of 1951 (Pub. L. 82-256, 66 Stat. 3), codified at 35 U.S.C. 181-188",
+"note": "Two statutory instruments of the same architecture, one hiding an invention and the other hiding an expenditure; the pairing is the board's argument, not either statute's text.",
+"sources": [
+{
+"date": null,
+"name": "35 U.S.C. 181, Secrecy of certain inventions and withholding of patent",
+"url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title35-section181&num=0&edition=prelim"
+}
+],
+"tier": "B",
+"type": "legislative"
+},
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": null,
+"dateStart": "1949-06-20",
+"direction": "out",
+"edgeLabel": "Unvouchered CIA spending sits inside the NIP and outside all expenditure law",
+"id": "nip",
+"l0": true,
+"label": "National Intelligence Program (NIP)",
+"note": "50 U.S.C. 3510(b) permits Agency sums to be expended without regard to laws and regulations governing expenditure of government funds, accounted for solely on the Director's certificate. The CIA is funded within the National Intelligence Program. Attested by the statute.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "50 U.S.C. 3510",
+"url": "https://www.law.cornell.edu/uscode/text/50/3510"
+}
+],
+"tier": "B",
+"type": "funding"
+},
+{
+"claimTier": 3,
+"cls": "legislation",
+"dateEnd": null,
+"dateStart": "1949-06-20",
+"direction": "out",
+"edgeLabel": "An activity funded from unvouchered CIA money never touches the appropriations SAP tripwire",
+"id": "sec-8009-sap-notice",
+"l0": false,
+"label": "Section 8009 - 30-day advance notice before initiating or materially modifying a special access program",
+"note": "Section 8009 binds only funds appropriated by the annual Defense Appropriations Act; unvouchered Agency spending under 50 U.S.C. 3510 is neither DoD appropriated funds nor subject to normal expenditure law. Reasoned inference from the two texts; no document asserts this has occurred.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "50 U.S.C. 3510; DoD Appropriations Act 2026 Sec. 8009",
+"url": "https://www.law.cornell.edu/uscode/text/50/3510"
+}
+],
+"tier": "C",
+"type": "behavioral"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "1949-06-20",
+"deg": 3,
+"denials": [],
+"desc": "Enacted as section 8 of the Central Intelligence Agency Act of 1949 on 20 June 1949, this is the oldest and bluntest black-budget instrument in American law, and it has never been repealed or narrowed. The operative text: 'The sums made available to the Agency may be expended without regard to the provisions of law and regulations relating to the expenditure of Government funds; and for objects of a confidential, extraordinary, or emergency nature, such expenditures to be accounted for solely on the certificate of the Director and every such certificate shall be deemed a sufficient voucher for the amount therein certified.' Two clauses, two different powers. The first disapplies the whole body of federal expenditure law to Agency spending. The second provides that for confidential, extraordinary or emergency objects the Director's own signature is the entire accounting record - no receipt, no contract file, no audit trail, and by statute nothing further may be demanded. The provision dates from 1949, which places it squarely inside the period in which the alleged recovery programme is said to have been established and in which the institutional architecture of concealment was being built. Any account of how a programme could be financed for decades without appearing in any auditable record must begin here, because Congress wrote the answer in 1949 and has left it on the books ever since.",
+"domains": [
+"w2-black-budget"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "usc-50-3510",
+"l0": false,
+"label": "50 U.S.C. 3510 - CIA unvouchered funds (CIA Act of 1949, sec. 8)",
+"locLabel": null,
+"members": null,
+"short": "50 U.S.C. 3510 - CIA unvouchered funds (CIA Act of 1949, sec. 8)",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "50 U.S.C. 3510 (Cornell LII)",
+"url": "https://www.law.cornell.edu/uscode/text/50/3510"
+}
+],
+"sub": "Statutory authority to spend appropriated money outside all normal accounting law",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 395 of 1027, score 33). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A3/D2.",
+"timeline": [
+{
+"date": "1949-06-20",
+"id": "bb-tl-1949-ciaact",
+"label": "CIA Act of 1949 creates unvouchered spending",
+"precision": "day",
+"strand": "program",
+"text": "Section 8 of the Central Intelligence Agency Act, now 50 U.S.C. 3510(b), permits Agency sums to be 'expended without regard to the provisions of law and regulations relating to the expenditure of Government funds', with confidential, extraordinary or emergency objects 'accounted for solely on the certificate of the Director'. The oldest and bluntest black-budget instrument in American law, enacted two years after Roswell and never narrowed.",
+"tier": "A"
+}
+]
+}

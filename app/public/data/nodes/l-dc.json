@@ -1,0 +1,200 @@
+{
+"A": 3,
+"C": 1,
+"D": 3,
+"band": null,
+"claims": [
+{
+"source": "House Oversight Committee hearing pages and GPO hearing transcripts",
+"text": "The House Oversight Committee held UAP hearings on 26 July 2023, 13 November 2024 and 9 September 2025.",
+"tier": 1
+},
+{
+"source": "ODNI, Preliminary Assessment: Unidentified Aerial Phenomena",
+"text": "ODNI published the Preliminary Assessment: Unidentified Aerial Phenomena on 25 June 2021.",
+"tier": 1
+},
+{
+"source": "ICIG determination letter, 26 July 2022",
+"text": "The Intelligence Community Inspector General found David Grusch's complaint credible and urgent on 26 July 2022.",
+"tier": 1
+},
+{
+"source": "Inference from the documented locus of the UAP Disclosure Act edits, the FOIA denials and the AARO reporting chain",
+"text": "The concealment is administrative rather than geographic: the instruments that maintain it - classification decisions, contract vehicles, FOIA exemptions, conference-committee edits - are all executed in this city by identifiable officeholders. Reasoning: every documented act of restriction in the modern record traces to a Washington signature, not to a field site.",
+"tier": 3
+},
+{
+"source": "Inference from reference counts in the research corpus",
+"text": "l-washington-dc and l-dc denote the same location and should be merged, with l-dc retained as canonical on volume of inbound references (142 versus 2). Reasoning: reference counts across the wave-1 corpus.",
+"tier": 3
+},
+{
+"source": "Board bookkeeping",
+"text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
+"tier": 3
+}
+],
+"cls": "location",
+"cluster": "oversight",
+"connections": [
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "1962",
+"dateStart": "1958",
+"direction": "in",
+"edgeLabel": "Addressed at the Department of the Army, Washington 25, D. C.",
+"id": "arthur-g-trudeau",
+"l0": false,
+"label": "Lt. Gen. Arthur G. Trudeau",
+"note": "Both letters address him at the Department of the Army, Washington 25, D. C.",
+"sources": [
+{
+"date": "1958-01-18",
+"name": "CIA-RDP80M01009A000500610124-1, Allen W. Dulles to Lt. Gen. Arthur Trudeau, 18 January 1958",
+"url": "https://archive.org/details/cia-readingroom-document-cia-rdp80m01009a000500610124-1"
+},
+{
+"date": "1962-03-12",
+"name": "CIA-RDP80B01676R003000130017-9, Trudeau to McCone 24 February 1962 and McCone to Trudeau 12 March 1962",
+"url": "https://archive.org/details/cia-readingroom-document-cia-rdp80b01676r003000130017-9"
+}
+],
+"tier": "B",
+"type": "geographic"
+},
+{
+"claimTier": 1,
+"cls": "domain",
+"dateEnd": null,
+"dateStart": "2023-07-26",
+"direction": "in",
+"edgeLabel": "Where the hearings happen",
+"id": "d-oversight",
+"l0": false,
+"label": "Congressional Oversight",
+"note": "The July 2023 and September 2025 House Oversight UAP hearings, and the NARA records collection created by P.L. 118-31, are all seated in the District of Columbia.",
+"sources": [
+{
+"date": "2025-09-09",
+"name": "House Oversight - Restoring Public Trust Through UAP Transparency and Whistleblower Protection",
+"url": "https://oversight.house.gov/hearing/restoring-public-trust-through-uap-transparency-and-whistleblower-protection/"
+},
+{
+"date": "2023-12-22",
+"name": "NDAA FY2024 (P.L. 118-31)",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm"
+}
+],
+"tier": "B",
+"type": "geographic"
+},
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": "2025-09-09",
+"dateStart": "2023-07-26",
+"direction": "out",
+"edgeLabel": "All three modern UAP hearings were held on Capitol Hill",
+"id": "hearing-2023-07-26",
+"l0": true,
+"label": "House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'",
+"note": "2154 Rayburn on 26 July 2023 and 13 November 2024; HVC-210 on 9 September 2025.",
+"sources": [
+{
+"date": "2023-07-26",
+"name": "House Oversight hearing page",
+"url": "https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/"
+},
+{
+"date": "2024-11-13",
+"name": "House Oversight hearing page",
+"url": "https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-exposing-the-truth/"
+},
+{
+"date": "2025-09-09",
+"name": "House Oversight hearing page",
+"url": "https://oversight.house.gov/hearing/restoring-public-trust-through-uap-transparency-and-whistleblower-protection/"
+}
+],
+"tier": "A",
+"type": "geographic"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "1962",
+"dateStart": "1954",
+"direction": "in",
+"edgeLabel": "posted to the Operations Coordinating Board and then to OCRD, both in Washington",
+"id": "philip-corso",
+"l0": false,
+"label": "Philip J. Corso",
+"note": "His DA Form 66 records '8720 DU, ArmySec, Opr Coordinating Bd, Wash DC' from 24 February 1954, and 'Foreign Technology Div, OCRD USA (8556) Wash DC' from 20 July 1961, as Chief from 18 April 1962.",
+"sources": [
+{
+"date": "1998-04-01",
+"name": "DA Form 66, Officer's Qualification Record, Philip J. Corso",
+"url": "https://www.theblackvault.com/documents/ufos/corso/corso.pdf"
+}
+],
+"tier": "A",
+"type": "geographic"
+}
+],
+"coords": [
+38.8951,
+-77.0364
+],
+"dateEnd": null,
+"dateStart": "1947",
+"deg": 4,
+"denials": [],
+"desc": "Washington is the board's densest node - 115 of wave 1's people are placed here - because it is where every instrument that could open the record is held and every instrument that has kept it closed was signed. Within a few miles sit the Pentagon in Arlington, where AATIP, the UAP Task Force, AOIMSG and AARO have all been hosted and where Christopher Mellon has said on the record he received the Navy videos from a Defense Department official in the parking lot; the Capitol, where the Schumer-Rounds UAP Disclosure Act was written into the FY2024 NDAA and stripped of its eminent-domain and Review Board provisions in conference, where the House Oversight Committee held the hearings of 26 July 2023, 13 November 2024 and 9 September 2025, and where Rep. Eric Burlison's disclosure amendment was adopted into the FY2027 NDAA on 23 July 2026; the Office of the Director of National Intelligence, which published the preliminary assessment of 25 June 2021; the Intelligence Community Inspector General, which found David Grusch's complaint credible and urgent on 26 July 2022; DIA at Bolling, which contracted AAWSAP and still holds the unreleased BAASS papers; CIA at Langley just across the river; and the National Archives, which established the UAP Records Collection as Record Group 615. Washington is also where the denials are issued: Pentagon spokesperson Sue Gough's statements, the Department's 'no record' response on Immaculate Constellation, and AARO's Historical Record Report Volume I of March 2024. The city is the correct venue for the board's central structural claim - that the concealment is not a technical secret held in a desert but an administrative arrangement maintained in these buildings by people whose names are known.",
+"domains": [
+"_stubs",
+"w2-places-events",
+"w2-taxonomy"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "l-dc",
+"l0": false,
+"label": "Washington, D.C.",
+"locLabel": "Washington, DC, USA",
+"members": null,
+"short": "Washington, D.C.",
+"sources": [
+{
+"date": "2023-07-26",
+"name": "House Oversight - UAP: Implications on National Security, Public Safety and Government Transparency",
+"url": "https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/"
+},
+{
+"date": "2024-11-13",
+"name": "House Oversight - UAP: Exposing the Truth",
+"url": "https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-exposing-the-truth/"
+},
+{
+"date": "2025-09-09",
+"name": "House Oversight - Restoring Public Trust Through UAP Transparency",
+"url": "https://oversight.house.gov/hearing/restoring-public-trust-through-uap-transparency-and-whistleblower-protection/"
+},
+{
+"date": "2026-08-12",
+"name": "Wikipedia - Washington, D.C.",
+"url": "https://en.wikipedia.org/wiki/Washington,_D.C."
+}
+],
+"sub": "Federal seat: the Pentagon (Arlington), Capitol Hill, ODNI, DIA, CIA (Langley), OSD, NARA",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 347 of 1027, score 35). 4 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A3/D3.",
+"timeline": []
+}

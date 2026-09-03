@@ -1,0 +1,2890 @@
+{
+"A": 3,
+"C": 2,
+"D": 3,
+"affiliations": [
+"National Geospatial-Intelligence Agency",
+"National Reconnaissance Office",
+"UAP Task Force (NGA representative)",
+"US Air Force / Air National Guard / Reserve, Major (2009-2023)",
+"21st Operations Group, Space Control Intelligence Cell (2009-2011)",
+"3d Space Experimentation Squadron (2011-2013)",
+"Space Security & Defense Program (2013-2016)",
+"National Reconnaissance Office (2016-2021)",
+"UAP Task Force, NRO representative (2019-2021)",
+"National Geospatial-Intelligence Agency (2021-2023)",
+"The Sol Foundation, COO (2023- )",
+"Office of Rep. Eric Burlison, Special Advisor (2025- )",
+"US Air Force (2009-2019)",
+"National Reconnaissance Office, Senior Intelligence Officer (2016-2021)",
+"National Geospatial-Intelligence Agency, GS-15 (2021-2023)",
+"Office of Rep. Eric Burlison",
+"formerly National Geospatial-Intelligence Agency",
+"formerly National Reconnaissance Office"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "2009-06-01",
+"event": "Space Control Intelligence Cell OIC, 21st Operations Group",
+"precision": "month"
+},
+{
+"date": "2013-12-01",
+"event": "Chief, Intelligence Integration Division, Space Security & Defense Program",
+"precision": "month"
+},
+{
+"date": "2016-04-01",
+"event": "Senior Intelligence Officer, NRO; Director's briefing staff, PDB coordination",
+"precision": "month"
+},
+{
+"date": "2019-01-01",
+"event": "NRO representative to the UAP Task Force; tasked by the Task Force Director to identify all SAPs and CAPs relevant to the congressional mandate",
+"precision": "year"
+},
+{
+"date": "2019-01-01",
+"event": "Detailed as NRO representative to the UAP Task Force; tasked to inventory relevant special access programmes",
+"precision": "year"
+},
+{
+"date": "2021-07-01",
+"event": "First protected disclosure of classified UAP concealment information to the DoD Inspector General",
+"precision": "month"
+},
+{
+"date": "2021-11-01",
+"event": "Joins NGA as GS-15; becomes agency co-lead for UAP and trans-medium object analysis",
+"precision": "month"
+},
+{
+"date": "2022-04-01",
+"event": "Classified conversation with Sean Kirkpatrick, three months before Kirkpatrick took over AARO",
+"precision": "month"
+},
+{
+"date": "2022-05-25",
+"event": "PPD-19 urgent-concern complaint filed with the ICIG by counsel Charles McCullough III",
+"precision": "day"
+},
+{
+"date": "2022-05-25",
+"event": "Files PPD-19 urgent-concern complaint with the Intelligence Community Inspector General",
+"precision": "day"
+},
+{
+"date": "2022-07-01",
+"event": "ICIG finds the complaint credible and urgent",
+"precision": "month"
+},
+{
+"date": "2023-03-07",
+"event": "First DOPSR submission of interview questions (FOIA case 23-F-0946 record)",
+"precision": "day"
+},
+{
+"date": "2023-04-04",
+"event": "DOPSR clears first submission for open publication",
+"precision": "day"
+},
+{
+"date": "2023-04-06",
+"event": "DOPSR clears second submission for open publication",
+"precision": "day"
+},
+{
+"date": "2023-04-07",
+"event": "Leaves federal service",
+"precision": "day"
+},
+{
+"date": "2023-06-05",
+"event": "Allegations of a concealed crash-retrieval and reverse-engineering programme published",
+"precision": "day"
+},
+{
+"date": "2023-06-05",
+"event": "The Debrief publishes Kean and Blumenthal's account of his allegations",
+"precision": "day"
+},
+{
+"date": "2023-06-05",
+"event": "Public claims published; Department responds within a day through Susan Gough",
+"precision": "day"
+},
+{
+"date": "2023-06-11",
+"event": "First television interview, NewsNation, with Ross Coulthart",
+"precision": "day"
+},
+{
+"date": "2023-07-13",
+"event": "S.Amdt. 797 filed, defining 'legacy program' and 'controlling authority' to reach private holders",
+"precision": "day"
+},
+{
+"date": "2023-07-26",
+"event": "Testifies under oath before the House Oversight Committee",
+"precision": "day"
+},
+{
+"date": "2023-07-26",
+"event": "Sworn testimony, House Oversight Subcommittee on National Security, the Border, and Foreign Affairs",
+"precision": "day"
+},
+{
+"date": "2023-07-26",
+"event": "Sworn testimony to House Oversight identifying IR&D and misappropriation as the funding mechanisms",
+"precision": "day"
+},
+{
+"date": "2023-08-09",
+"event": "The Intercept publishes his 2014 and 2018 police and psychiatric records obtained by FOIA from Loudoun County",
+"precision": "day"
+},
+{
+"date": "2023-11-14",
+"event": "Does not appear for the scheduled AARO interview in Arlington, VA",
+"precision": "day"
+},
+{
+"date": "2023-11-14",
+"event": "Does not attend an AARO interview he had agreed to on 10 November",
+"precision": "day"
+},
+{
+"date": "2023-12-22",
+"event": "NDAA FY2024 Sec. 1687(b) enacted, restricting UAP-related IR&D as an allowable indirect expense",
+"precision": "day"
+},
+{
+"date": "2024-01-08",
+"event": "AARO memorandum for record documents its interview attempts; later released under FOIA 24-F-0266",
+"precision": "day"
+},
+{
+"date": "2024-07-15",
+"event": "Files suit in Loudoun County Circuit Court against Sheriff Michael Chapman over the records release",
+"precision": "day"
+},
+{
+"date": "2025-03-27",
+"event": "Named Special Advisor to Rep. Eric Burlison",
+"precision": "day"
+},
+{
+"date": "2025-07-24",
+"event": "Rep. Eli Crane writes DoD on his behalf citing clearance removal, denied promotion, lost medical retirement",
+"precision": "day"
+},
+{
+"date": "2025-08-06",
+"event": "Chapman suit dismissed with prejudice",
+"precision": "day"
+},
+{
+"date": "2025-09-09",
+"event": "Attends the Task Force on Declassification hearing; George Knapp references reprisal against him in recent days from the witness table",
+"precision": "day"
+},
+{
+"date": "2026-05-05",
+"event": "Judicial Watch On Watch interview with Chris Farrell",
+"precision": "day"
+},
+{
+"date": "2026-06-09",
+"event": "Capitol press conference with Luna, Burchett, Burlison and Moskowitz",
+"precision": "day"
+},
+{
+"date": "2026-06-09",
+"event": "Speaks at a Capitol-steps press conference organised with Rep. Luna; describes a continuum of alleged non-human life and references four species",
+"precision": "day"
+},
+{
+"date": "2026-08-01",
+"event": "His principal in Congress, Rep. Burlison, publishes ODNI memorandum ES 2026-00818 waiving UAP NDAs across the Intelligence Community",
+"precision": "day"
+}
+],
+"claims": [
+{
+"source": "American Alchemy with Jesse Michels, 'CIA Scientist: George Bush Was Briefed on UFOs (ft. Eric Davis)', 13 December 2024, 0:07:12 to 0:08:08, https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/TOE7341687364.mp3?updated=1752173868",
+"text": "On American Alchemy with Jesse Michels, 13 December 2024, at 0:07:12, Eric Davis described three separate acts against Grusch after his whistleblower complaint and before his testimony: he 'got harassed by, by someone in the National Reconnaissance Office', then 'got physically harassed at his home and in his vehicles by people unknown', then somebody leaked a PTSD episode from his private medical files. Davis names an institution only for the first. The three have three different actors and should not be merged.",
+"tier": 2
+},
+{
+"source": "CHRG-118hhrg53022 CONTENTS; docs.house.gov EventID 116282",
+"text": "Listed in the printed hearing record of 26 July 2023 as 'Mr. David Grusch, Former National Reconnaissance Office Representative, Unidentified Aerial Phenomena Task Force, Department of Defense'; his written statement, Truth in Testimony form and bio are in the House Committee Repository under event 116282.",
+"tier": 1
+},
+{
+"source": "CHRG-118hhrg53022, testimony of David Grusch",
+"text": "Sworn testimony, 26 July 2023: 'I was informed in the course of my official duties of a multi-decade UAP crash retrieval and reverse engineering program to which I was denied access to those additional read-ons when I requested it. I made the decision based on the data I collected to report this information to my superiors and multiple inspectors general and, in effect, becoming a whistleblower. As you know, I have suffered retaliation for my decision'.",
+"tier": 2
+},
+{
+"source": "CHRG-118hhrg53022, testimony of David Grusch",
+"text": "Sworn testimony, 26 July 2023, on recovered biological material: asked by Rep. Mace whether the biologics recovered were 'human or nonhuman', Grusch answered 'Nonhuman, and that was the assessment of people with direct knowledge on the program I talked to that are currently still on the program.'",
+"tier": 2
+},
+{
+"source": "CHRG-119hhrg61718 INDEX OF DOCUMENTS",
+"text": "A 'Letter to SECDEF Regarding Major David Charles Grusch Reprisal; submitted by Rep. Crane' is listed in the INDEX OF DOCUMENTS of the 9 September 2025 hearing record, CHRG-119hhrg61718.",
+"tier": 1
+},
+{
+"source": "S. 2226 as engrossed, Sec. 9003(11), GPO",
+"text": "The UAPDA defines 'legacy program' as reaching 'commercial industry, academic, and private sector endeavors to collect, exploit, or reverse engineer technologies of unknown origin or examine biological evidence of living or deceased non-human intelligence.'",
+"tier": 1
+},
+{
+"source": "S. 2226 as engrossed, Sec. 9003(5), GPO",
+"text": "The UAPDA defines 'controlling authority' to include any 'commercial company, academic institution, or private sector entity in physical possession of technologies of unknown origin or biological evidence of non-human intelligence.'",
+"tier": 1
+},
+{
+"source": "Inference from the 5 June 2023 publication date and the 13 July 2023 filing date of S.Amdt. 797",
+"text": "The 38-day interval between publication of the allegations and the filing of an amendment containing bespoke definitions for privately held recovered material indicates the text was drafted in direct response to them.",
+"tier": 3
+},
+{
+"source": "House Oversight Committee published witness biography, HHRG-118-GO06-Bio-GruschD-20230726, 26 July 2023",
+"text": "Held an active TOP SECRET//SCI clearance with CI and lifestyle polygraph; served as NRO representative to the UAP Task Force 2019-2021 and NGA co-lead for UAP analysis.",
+"tier": 1
+},
+{
+"source": "House Oversight hearing transcript HHRG-118-GO06-Transcript-20230726, opening statement",
+"text": "Sworn: 'I was informed in the course of my official duties of a multi-decade UAP crash retrieval and reverse engineering program to which I was denied access to those additional read-ons when I requested it.'",
+"tier": 1
+},
+{
+"source": "House Oversight hearing transcript, 26 July 2023",
+"text": "Sworn, to Ranking Member Robert Garcia, on whether the government possesses UAP: 'Absolutely, based on interviewing over 40 witnesses over 4 years.' Added he knows the exact locations and provided them to the Inspector General and in part to the intelligence committees, and that he had the firsthand-knowledge people make their own protected disclosures.",
+"tier": 1
+},
+{
+"source": "House Oversight hearing transcript, 26 July 2023",
+"text": "Sworn, to Rep. Nancy Mace: 'biologics came with some of these recoveries. Yes.' Asked human or nonhuman: 'Nonhuman, and that was the assessment of people with direct knowledge on the program I talked to that are currently still on the program.'",
+"tier": 1
+},
+{
+"source": "House Oversight hearing transcript, 26 July 2023",
+"text": "Sworn, to Rep. Jared Moskowitz, on how such a program is funded: 'misappropriation of funds and self-fund,' with contractor internal research and development identified as the vehicle - 'IR&D is literally internal to the contractors. So, as long as it is money, either profits, private investment, et cetera, they do whatever they want.'",
+"tier": 1
+},
+{
+"source": "House Oversight hearing transcript, 26 July 2023",
+"text": "Sworn, to Rep. Tim Burchett: has personal knowledge of people harmed or injured in efforts to cover up or conceal the technology; on murder, 'I have to be careful answering that question. I directed people with that knowledge to the appropriate authorities.'",
+"tier": 1
+},
+{
+"source": "House Oversight hearing transcript, 26 July 2023",
+"text": "Sworn: told Rep. Anna Paulina Luna he had a classified conversation with Sean Kirkpatrick in April 2022, before Kirkpatrick took over AARO in July 2022, and gave him concerns and counsel on where to look.",
+"tier": 1
+},
+{
+"source": "Grusch answering Rep. Virginia Foxx, House Oversight hearing transcript, 26 July 2023",
+"text": "Sworn: Kirkpatrick's prior congressional testimony that there is 'no credible evidence thus far of extraterrestrial activity' is 'not accurate'; Grusch said he had interviewed some of the same individuals who went to AARO and had evaluated what they provided.",
+"tier": 1
+},
+{
+"source": "DoD FOIA case 23-F-0946 release, OSD/JS Executive Services Directorate reading room; analysis by The Black Vault",
+"text": "His public statements were cleared for open publication by DoD Prepublication and Security Review on 4 April and 6 April 2023; internal DOPSR emails show reviewers Michelle Whigham and Don Kluzik discussing his reference to sensitive areas and concluding vague references were not a problem.",
+"tier": 1
+},
+{
+"source": "David Grusch to Ross Coulthart, NewsNation, June 2023",
+"text": "'Sometimes you encounter dead pilots and believe it or not, as fantastical as that sounds, it's true.'",
+"tier": 2
+},
+{
+"source": "Grusch at the Capitol press conference hosted by the House Task Force on the Declassification of Federal Secrets, 9 June 2026; Fox News, 10 June 2026",
+"text": "Alleges he found 'slush funds to the tune of billions of dollars per annum for these activities,' calling it 'a real fraud, waste and abuse issue,' and accuses DIA of obstructing congressional oversight by withholding documents.",
+"tier": 2
+},
+{
+"source": "Grusch, Capitol press conference, 9 June 2026, NewsNation coverage",
+"text": "States the US government is aware of 'several' kinds of non-human intelligence, ranging in complexity; calls for whistleblower immunity, NDA waivers, and declassification including records on the 1996 Varginha incident.",
+"tier": 2
+},
+{
+"source": "Rep. Eli Crane, letter to the Department of Defense dated 24 July 2025, entered into the record of the 9 September 2025 Task Force hearing",
+"text": "Suffered reprisal including removal of security clearance, denial of promotion, and loss of medical retirement.",
+"tier": 2
+},
+{
+"source": "Inference from Grusch sworn testimony 26 July 2023 plus public reporting on Stratton's UAPTF directorship",
+"text": "The 'UAP Task Force Director' who in 2019 tasked Grusch to inventory all SAPs and CAPs is Jay Stratton. Reasoning: Grusch's sworn testimony fixes the tasking to 2019 and to the Task Force Director; Stratton is the person publicly identified as directing that effort in that window. Grusch has never made the identification himself on the record.",
+"tier": 3
+},
+{
+"source": "David Grusch, sworn testimony, House Oversight Committee, 26 July 2023",
+"text": "Asked how an unreported program is funded: 'misappropriation of funds and self-fund.' Asked whether corporations overcharge government and divert the excess: 'Correct, through something called IR&D.'",
+"tier": 2
+},
+{
+"source": "CHRG-118hhrg53022, exchange with Rep. Ocasio-Cortez, 26 July 2023",
+"text": "'But IR&D is literally internal to the contractors. So, as long as it is money, either profits, private investment, et cetera, they do whatever they want.'",
+"tier": 2
+},
+{
+"source": "Kean and Blumenthal, The Debrief, 5 June 2023",
+"text": "Recoveries 'of partial fragments through and up to intact vehicles have been made for decades through the present day by the government, its allies, and defense contractors.'",
+"tier": 2
+},
+{
+"source": "10 U.S.C. Sec. 119(e); CHRG-118hhrg53022",
+"text": "Grusch described 10 U.S.C. Sec. 119 waiver authority and Gang-of-Eight notification as the oversight architecture being abused; the statute he cited exists and contains the waiver provision he described.",
+"tier": 1
+},
+{
+"source": "Sworn testimony, House Oversight Committee, 26 July 2023",
+"text": "Grusch testified that the UAP Task Force Director tasked him in 2019 to identify all SAPs relevant to the Task Force mission and that he was denied the read-ons.",
+"tier": 2
+},
+{
+"source": "AARO Memorandum for Record, 8 January 2024, released as FOIA 24-F-0266",
+"text": "AARO documented at least eight distinct approaches to Grusch between June 2023 and January 2024 and concluded he had no intention of providing information.",
+"tier": 1
+},
+{
+"source": "DoD statement attributed to Susan Gough, 6 June 2023",
+"text": "The Department's June 2023 response was that AARO 'has not discovered any verifiable information' substantiating a possession or reverse-engineering programme - a statement about AARO's discoveries, not about the Department's knowledge.",
+"tier": 1
+},
+{
+"source": "https://en.wikipedia.org/wiki/David_Grusch",
+"text": "'I certainly don't have the compendium it's a continuum from corporeal bipedal type life to what I would consider as sentient plasmoid life but there are several which the US government is aware of.'",
+"tier": 2
+},
+{
+"source": "https://en.wikipedia.org/wiki/David_Grusch",
+"text": "Asked how many alien species he was aware of, Grusch referenced four different alien species at the 9 June 2026 press conference.",
+"tier": 2
+},
+{
+"source": "https://burlison.house.gov/media/press-releases",
+"text": "Grusch's role as Special Advisor to Rep. Burlison places the 2023 whistleblower inside the office that generated the cycle's most aggressive records demands - the MITRE letter, the Varginha letters and the FY2027 NDAA amendment. Reasoning: the advisory role is recorded in wave-1 sourcing on this board and the four instruments are all Burlison products within fourteen months.",
+"tier": 3
+}
+],
+"cls": "person",
+"cluster": "other",
+"conflicts": [
+"AARO's Historical Record Report Volume I (8 March 2024) states alleged reverse-engineering programs do not exist, are misidentified authentic national security programs, or were disestablished, and that none of AARO's interviewees had firsthand knowledge - directly contradicting Grusch's sworn account of over 40 witnesses, some with firsthand knowledge who filed their own protected disclosures.",
+"AARO's memorandum for record documents nine contacts between June 2023 and January 2024 seeking to interview Grusch, including a 14 November 2023 Arlington appointment he did not attend. Grusch cites legal and security exposure; AARO uses the non-appearance as its central impeachment.",
+"The Intercept's 9 August 2023 publication of his 2014 and 2018 emergency-custody records is treated by Grusch and by members of Congress as a targeted smear; the underlying records are authentic county documents, and a Virginia court held their release lawful.",
+"AARO says Grusch refused to cooperate; Grusch's position is that he had already lawfully routed his concerns through the ICIG and that AARO was not an independent venue."
+],
+"connections": [
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "2024",
+"dateStart": "2023",
+"direction": "out",
+"edgeLabel": "Declined nine AARO interview approaches; missed the 14 November 2023 appointment",
+"id": "aaro",
+"l0": true,
+"label": "All-domain Anomaly Resolution Office (AARO)",
+"note": "AARO's own memorandum documents the sequence. Grusch has cited legal and security exposure; AARO makes the non-appearance the centerpiece of its impeachment. Both facts are in the same document.",
+"sources": [
+{
+"date": "2024-01-08",
+"name": "DoD FOIA 24-F-0266",
+"url": "https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/24-F-0266_AARO_Invitations_to_Interview_Mr._David_Grusch.pdf"
+},
+{
+"date": "2024-01-25",
+"name": "NewsNation - Whistleblower David Grusch refused to meet with Pentagon UFO office",
+"url": "https://www.newsnationnow.com/space/ufo/grusch-refused-meeting-ufo-office/"
+}
+],
+"tier": "A",
+"type": "denial"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "2024",
+"dateStart": "2024",
+"direction": "in",
+"edgeLabel": "AARO concluded Grusch 'had no intention of providing AARO with information'",
+"id": "aaro-grusch-interview-memo-2024",
+"l0": false,
+"label": "AARO Memorandum for Record: Invitations to Interview Mr. David Grusch (8 Jan 2024)",
+"note": "The office's own file is the primary evidence for the Department's central procedural argument against its most consequential witness; it records no offer of an ICIG or congressional-counsel venue.",
+"sources": [
+{
+"date": "2024-01-08",
+"name": "OSD/WHS FOIA 24-F-0266",
+"url": "https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/24-F-0266_AARO_Invitations_to_Interview_Mr._David_Grusch.pdf"
+},
+{
+"date": "2024-02-01",
+"name": "NewsNation - Whistleblower David Grusch refused to meet with Pentagon UFO office",
+"url": "https://www.newsnationnow.com/space/ufo/grusch-refused-meeting-ufo-office/"
+}
+],
+"tier": "C",
+"type": "denial"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "2024",
+"dateStart": "2024",
+"direction": "in",
+"edgeLabel": "Formal DoD rebuttal: no firsthand knowledge, programs do not exist or were disestablished",
+"id": "aaro-historical-record-vol1",
+"l0": true,
+"label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
+"note": "Released 8 March 2024, presented by Pentagon Press Secretary Maj. Gen. Pat Ryder. It asserts that none of AARO's interviewees had firsthand knowledge - a claim that does not engage Grusch's sworn statement that firsthand witnesses filed their own protected disclosures with the ICIG, nor Karl Nell's named corroboration.",
+"sources": [
+{
+"date": "2024-03-08",
+"name": "AARO Historical Record Report Volume I",
+"url": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF"
+},
+{
+"date": "2024-03-08",
+"name": "Roll Call - No evidence of extraterrestrial technology, report finds",
+"url": "https://rollcall.com/2024/03/08/no-evidence-of-extraterrestrial-technology-report-finds/"
+},
+{
+"date": "2023-07-26",
+"name": "House Oversight hearing transcript",
+"url": "https://www.congress.gov/118/meeting/house/116282/documents/HHRG-118-GO06-Transcript-20230726.pdf"
+},
+{
+"date": "2024-02-01",
+"name": "AARO Historical Record Report, Volume I",
+"url": "https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf"
+},
+{
+"date": "2024-01-08",
+"name": "AARO Memorandum for Record, FOIA 24-F-0266",
+"url": "https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/24-F-0266_AARO_Invitations_to_Interview_Mr._David_Grusch.pdf"
+}
+],
+"tier": "A",
+"type": "denial"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "2023",
+"dateStart": "2023",
+"direction": "in",
+"edgeLabel": "Established that contractors have no UAP reporting duty and IR&D escapes notification",
+"id": "alexandria-ocasio-cortez",
+"l0": false,
+"label": "Alexandria Ocasio-Cortez",
+"note": "AOC pushed past the phenomenon to the notification architecture, establishing that SAP and CAP equities flow through Periodic Program Review while contractor IR&D is internal and unreported - the legal shape of an invisible program.",
+"sources": [
+{
+"date": "2023-07-26",
+"name": "House Oversight hearing transcript",
+"url": "https://www.congress.gov/118/meeting/house/116282/documents/HHRG-118-GO06-Transcript-20230726.pdf"
+}
+],
+"tier": "B",
+"type": "funding"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "2023",
+"dateStart": "2023",
+"direction": "in",
+"edgeLabel": "Pursued the IR&D and congressional-notification loophole",
+"id": "alexandria-ocasio-cortez",
+"l0": false,
+"label": "Alexandria Ocasio-Cortez",
+"note": "'Is this through an email to, hypothetically, a dead email box?'",
+"sources": [
+{
+"date": "2023-07-26",
+"name": "U.S. GPO, Hearing transcript, Serial No. 118-53 (CHRG-118hhrg53022)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm"
+}
+],
+"tier": "B",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "pressed Grusch on Phoenix Lights and withheld information",
+"id": "andy-biggs",
+"l0": false,
+"label": "Andy Biggs",
+"note": "Biggs put the 1997 Phoenix Lights case to Grusch directly - 'I am going to take you to specific instances around the Phoenix Valley because that is where I live' - and asked whether he knew anything beyond the official explanation of a military training range off Luke and the Barry Goldwater range. Grusch: 'Only what is in the public vernacular about it. That was outside the scope of my duties.'",
+"sources": [
+{
+"date": "2023-07-26",
+"name": "House Oversight and Accountability Committee hearing, 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency', 26 July 2023 (CHRG-118hhrg53022)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm"
+}
+],
+"tier": "C",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "2023",
+"direction": "in",
+"edgeLabel": "Established the April 2022 Kirkpatrick conversation and the DOPSR clearance on the record",
+"id": "anna-paulina-luna",
+"l0": false,
+"label": "Anna Paulina Luna",
+"note": "Luna's questioning put two facts in the transcript that AARO's later messaging has to work around: that Grusch briefed Kirkpatrick in a classified setting before Kirkpatrick led AARO, and that DoD cleared his public statements in advance.",
+"sources": [
+{
+"date": "2023-07-26",
+"name": "House Oversight hearing transcript",
+"url": "https://www.congress.gov/118/meeting/house/116282/documents/HHRG-118-GO06-Transcript-20230726.pdf"
+}
+],
+"tier": "A",
+"type": "legislative"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2026-06-09",
+"dateStart": "2026-06-09",
+"direction": "in",
+"edgeLabel": "organised the platform for his June 2026 claims",
+"id": "anna-paulina-luna",
+"l0": false,
+"label": "Anna Paulina Luna",
+"note": "Luna helped organise the Capitol-steps press conference at which Grusch described a continuum from corporeal bipedal life to sentient plasmoid life.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Wikipedia, David Grusch",
+"url": "https://en.wikipedia.org/wiki/David_Grusch"
+}
+],
+"tier": "A",
+"type": "witness-chain"
+},
+{
+"claimTier": 3,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2023",
+"direction": "out",
+"edgeLabel": "Contractor thread: Boeing personnel named in the same hearing; Grusch's IR&D mechanism",
+"id": "boeing",
+"l0": false,
+"label": "The Boeing Company",
+"note": "Ryan Graves named Boeing contractors as witnesses to the 2003 Vandenberg event, and Rep. Ocasio-Cortez used that to open the contractor line with Grusch, who described the metal benders doing specific performance on government contracts and IR&D as the unreported funding channel. Reasoning: Grusch named no company; the connection is the hearing's own sequence, not an attribution.",
+"sources": [
+{
+"date": "2023-07-26",
+"name": "House Oversight hearing transcript",
+"url": "https://www.congress.gov/118/meeting/house/116282/documents/HHRG-118-GO06-Transcript-20230726.pdf"
+}
+],
+"tier": "B",
+"type": "funding"
+},
+{
+"claimTier": 3,
+"cls": "institution",
+"dateEnd": "2023",
+"dateStart": "2019",
+"direction": "in",
+"edgeLabel": "The access architecture that denied Grusch his read-ons is largely contractor-built and contractor-maintained",
+"id": "booz-allen",
+"l0": false,
+"label": "Booz Allen Hamilton",
+"note": "Grusch was tasked to inventory the SAPs and CAPs relevant to the Task Force's congressional mandate and was refused. The billet lists, access rosters and classification guides that execute such refusals are administered in substantial part by security-support primes. No committee has requested those rosters.",
+"sources": [
+{
+"date": "2023-07-26",
+"name": "House Oversight hearing transcript, 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency' (CHRG-118hhrg53022)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm"
+},
+{
+"date": "2023-07-26",
+"name": "David Grusch, written statement to the House Committee on Oversight and Accountability",
+"url": "https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf"
+},
+{
+"date": "2026-08-12",
+"name": "USAspending.gov federal award search (prime contract obligations by recipient)",
+"url": "https://www.usaspending.gov/search"
+}
+],
+"tier": "C",
+"type": "behavioral"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "2023-06-24",
+"direction": "in",
+"edgeLabel": "co-host holding an unaired Grusch 'pre-interview'",
+"id": "bryce-zabel",
+"l0": false,
+"label": "Bryce Zabel",
+"note": "In the Need To Know episode 'David Grusch: He's Still Here' (24 June 2023), hosted by Zabel with Ross Coulthart, the episode note states: 'And Bryce adds: there's a second interview - actually the pre-interview - that Need to Know controls.'",
+"sources": [
+{
+"date": null,
+"name": "https://podcasts.apple.com/us/podcast/david-grusch-hes-still-here/id1600409359?i=1000618172003",
+"url": "https://podcasts.apple.com/us/podcast/david-grusch-hes-still-here/id1600409359?i=1000618172003"
+}
+],
+"tier": "C",
+"type": "investigative"
+},
+{
+"claimTier": 3,
+"cls": "document",
+"dateEnd": null,
+"dateStart": "2026",
+"direction": "out",
+"edgeLabel": "Grusch's contractor-custody thesis is the stated basis of Burlison's FFRDC campaign",
+"id": "burlison-mitre-letter-2026",
+"l0": true,
+"label": "Rep. Burlison records demand to MITRE, 22 May 2026",
+"note": "Reasoning: Burlison paraphrases Grusch's testimony directly - 'If you really want to hide something from Congress, you don't put it in a government file cabinet. You hand it to a private contractor' - and then names the FFRDCs he is writing to.",
+"sources": [
+{
+"date": "2026-05-16",
+"name": "The Hill: House Republican requests UFO talk from private contractor",
+"url": "https://thehill.com/homenews/house/5880943-house-gop-ufo-programs-pentagon-private-contractors/"
+},
+{
+"date": "2023-07-26",
+"name": "U.S. GPO, Hearing transcript, Serial No. 118-53 (CHRG-118hhrg53022)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm"
+}
+],
+"tier": "A",
+"type": "programmatic"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": "2026",
+"direction": "out",
+"edgeLabel": "The letter reflects concerns raised by whistleblowers alleging contractor-held programmes",
+"id": "burlison-mitre-letter-2026",
+"l0": true,
+"label": "Rep. Burlison records demand to MITRE, 22 May 2026",
+"note": "DefenseScoop reports the correspondence reflects whistleblower concerns; Grusch's central allegation is that programmes were compartmented inside private entities beyond congressional oversight.",
+"sources": [
+{
+"date": "2026-05-27",
+"name": "DefenseScoop",
+"url": "https://defensescoop.com/2026/05/27/rep-eric-burlison-request-for-uap-records-mitre/"
+}
+],
+"tier": "A",
+"type": "witness-chain"
+},
+{
+"claimTier": 2,
+"cls": "event",
+"dateEnd": "2026",
+"dateStart": "2026",
+"direction": "out",
+"edgeLabel": "Returned to Capitol Hill and said political appointees have not complied with the disclosure law",
+"id": "capitol-disclosure-event-2026-06-09",
+"l0": false,
+"label": "Capitol UAP disclosure event, 9 June 2026",
+"note": "His first Capitol appearance with lawmakers since the 2023 testimony.",
+"sources": [
+{
+"date": "2026-06-09",
+"name": "The Hill: Government aware of 'several' kinds of aliens — UFO whistleblower",
+"url": "https://thehill.com/homenews/administration/5916231-government-aware-of-several-kinds-of-aliens-ufo-whistleblower/"
+}
+],
+"tier": "B",
+"type": "witness-chain"
+},
+{
+"claimTier": 3,
+"cls": "program",
+"dateEnd": null,
+"dateStart": "2023-07-26",
+"direction": "out",
+"edgeLabel": "Contractor custody without government inspection is the carve-out configuration",
+"id": "carve-out",
+"l0": true,
+"label": "Carve-Out Provision (DCSA relief from NISP oversight)",
+"note": "Grusch has alleged material held at defence contractors; the carve-out is the documented mechanism by which a contractor SAP facility ceases to receive DCSA inspection, IS accreditation and CI cross-sharing.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "32 CFR 117.6 (eCFR, current)",
+"url": "https://www.ecfr.gov/current/title-32/subtitle-A/chapter-I/subchapter-D/part-117/section-117.6"
+},
+{
+"date": "2018-02-12",
+"name": "DoD Manual 5205.07 Volume 1, 18 June 2015, Change 1 12 February 2018",
+"url": "https://web.archive.org/web/20191018064106/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol1.pdf"
+}
+],
+"tier": "A",
+"type": "witness-chain"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "2023",
+"direction": "in",
+"edgeLabel": "Corroborates the existence of a class of well-placed sources; facilitated congressional briefings",
+"id": "christopher-mellon",
+"l0": false,
+"label": "Christopher K. Mellon",
+"note": "Grusch referred roughly 40 witnesses to the ICIG; Mellon independently states well-placed officials shared detailed information with him and has facilitated classified congressional briefings. Reasoning: the two streams are described separately in the same article, and no document establishes overlap - but they converge on the same committees.",
+"sources": [
+{
+"date": "2023-06-05",
+"name": "The Debrief",
+"url": "https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/"
+}
+],
+"tier": "A",
+"type": "witness-chain"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "Firm that filed Grusch's statutory ICIG whistleblower complaint",
+"id": "compass-rose-legal-group",
+"l0": false,
+"label": "Compass Rose Legal Group",
+"note": "Grusch retained Compass Rose Legal Group (senior partner I. Charles McCullough III, the first Intelligence Community Inspector General) to file and pursue his statutory whistleblower and reprisal complaint with the sitting ICIG. The Debrief reported the firm formally concluded its representation in November 2023, and stressed that Grusch's public crash-retrieval claims were always outside the scope of that representation.",
+"sources": [
+{
+"date": null,
+"name": "https://thedebrief.org/compass-rose-attorneys-formally-end-association-with-uap-whistleblower-david-grusch/",
+"url": "https://thedebrief.org/compass-rose-attorneys-formally-end-association-with-uap-whistleblower-david-grusch/"
+},
+{
+"date": null,
+"name": "https://compassrosepllc.com/mccullough/",
+"url": "https://compassrosepllc.com/mccullough/"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": "2025",
+"direction": "out",
+"edgeLabel": "Subject of the reprisal enumeration",
+"id": "crane-dod-reprisal-letter",
+"l0": false,
+"label": "Rep. Eli Crane letter to the Secretary of Defense re: Major David Charles Grusch reprisal",
+"note": "The only document in the public record that itemizes the adverse actions against Grusch. Each of the three actions generates its own internal DoD paper trail that has never been produced.",
+"sources": [
+{
+"date": "2025-09-09",
+"name": "Task Force hearing record, Serial No. 119-44",
+"url": "https://www.congress.gov/119/chrg/CHRG-119hhrg61718/CHRG-119hhrg61718.pdf"
+}
+],
+"tier": "C",
+"type": "witness-chain"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": "2025",
+"direction": "in",
+"edgeLabel": "The only congressional document enumerating the reprisal actions taken against Grusch",
+"id": "crane-secdef-grusch-reprisal-letter-2025",
+"l0": false,
+"label": "Rep. Crane letter to the Secretary of Defense on Grusch reprisal, 24 July 2025",
+"note": "Clearance removal, denial of promotion, loss of medical retirement.",
+"sources": [
+{
+"date": "2025-09-09",
+"name": "U.S. GPO, Hearing transcript, Serial No. 119-44 (CHRG-119hhrg61718)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm"
+}
+],
+"tier": "C",
+"type": "witness-chain"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "2023",
+"dateStart": "2023",
+"direction": "out",
+"edgeLabel": "Co-witness, 26 July 2023 hearing panel",
+"id": "david-fravor",
+"l0": false,
+"label": "David Fravor",
+"note": "Fravor testified alongside Grusch and Graves, providing the operational encounter testimony that framed Grusch's programmatic allegations for the committee.",
+"sources": [
+{
+"date": "2023-07-26",
+"name": "House Oversight hearing transcript",
+"url": "https://www.congress.gov/118/meeting/house/116282/documents/HHRG-118-GO06-Transcript-20230726.pdf"
+}
+],
+"tier": "B",
+"type": "witness-chain"
+},
+{
+"claimTier": 2,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2026",
+"direction": "out",
+"edgeLabel": "Accuses DIA of obstructing congressional oversight by withholding documents",
+"id": "dia",
+"l0": true,
+"label": "Defense Intelligence Agency",
+"note": "Made at the 9 June 2026 Capitol press conference. DIA is the agency that housed AAWSAP and the historical thread most directly implicated in the legacy record; the allegation is specific to document production, not to phenomenon.",
+"sources": [
+{
+"date": "2026-06-10",
+"name": "Fox News - UAP whistleblower David Grusch accuses agencies of hiding billions",
+"url": "https://www.foxnews.com/politics/ufo-whistleblower-claims-billions-secret-spending-hidden-from-congress"
+}
+],
+"tier": "A",
+"type": "denial"
+},
+{
+"claimTier": 2,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2025",
+"direction": "in",
+"edgeLabel": "Clearance removal, denial of promotion and loss of medical retirement following his disclosure",
+"id": "dod",
+"l0": true,
+"label": "United States Department of Defense (secondary designation: Department of War)",
+"note": "Enumerated by Rep. Crane on the hearing record and in his letter to the Secretary of Defense.",
+"sources": [
+{
+"date": "2025-09-09",
+"name": "U.S. GPO, Hearing transcript, Serial No. 119-44 (CHRG-119hhrg61718)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm"
+}
+],
+"tier": "A",
+"type": "denial"
+},
+{
+"claimTier": 2,
+"cls": "institution",
+"dateEnd": "2021",
+"dateStart": "2021",
+"direction": "out",
+"edgeLabel": "First protected disclosure to the DoD Inspector General, July 2021",
+"id": "dod",
+"l0": true,
+"label": "United States Department of Defense (secondary designation: Department of War)",
+"note": "The Debrief records that Grusch provided classified information to the DoD IG in July 2021 regarding the concealment of UAP-related material from Congress, ten months before the ICIG filing. The reprisal complaint alleges his identity and those communications were later disclosed outside the IG channel.",
+"sources": [
+{
+"date": "2023-06-05",
+"name": "The Debrief",
+"url": "https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/"
+},
+{
+"date": "2023-06-13",
+"name": "Liberation Times",
+"url": "https://www.liberationtimes.com/home/unclassified-version-of-david-gruschs-ufo-related-reprisal-complaint-released"
+}
+],
+"tier": "A",
+"type": "witness-chain"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2010-07-01",
+"direction": "out",
+"edgeLabel": "The office that must approve any contractor's provision of SAP material to Congress",
+"id": "dod-sapco",
+"l0": true,
+"label": "DoD Special Access Program Central Office (DoD SAPCO)",
+"note": "DoDD 5205.07 (2010) para 4.e requires DoD SAPCO approval before any contractor provides SAP material to a member of Congress - the structural barrier a contractor witness would face.",
+"sources": [
+{
+"date": "2018-08-31",
+"name": "DoD Directive 5205.07, 1 July 2010, Change 1 31 August 2018",
+"url": "https://web.archive.org/web/20190922210932/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf"
+}
+],
+"tier": "A",
+"type": "denial"
+},
+{
+"claimTier": 2,
+"cls": "institution",
+"dateEnd": "2023-07-26",
+"dateStart": "2021",
+"direction": "out",
+"edgeLabel": "Grusch alleges programs were withheld from the reporting mechanism SAPCO administers",
+"id": "dod-sapco",
+"l0": true,
+"label": "DoD Special Access Program Central Office (DoD SAPCO)",
+"note": "Grusch's sworn testimony to House Oversight on 26 July 2023 alleges a multi-decade materials acquisition and exploitation activity concealed from Congress. In statutory terms the allegation is that programs were not reported under 10 U.S.C. 119 or were reported only under the waiver.",
+"sources": [
+{
+"date": "2023-07-26",
+"name": "CHRG-118hhrg53022, House Oversight UAP hearing transcript",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm"
+},
+{
+"date": "2024-01-01",
+"name": "10 U.S.C. 119, Special access programs: congressional oversight",
+"url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim"
+}
+],
+"tier": "A",
+"type": "witness-chain"
+},
+{
+"claimTier": 2,
+"cls": "document",
+"dateEnd": "2023",
+"dateStart": "2023",
+"direction": "out",
+"edgeLabel": "Grusch named contractor IR&D under oath as the funding channel for concealed UAP work",
+"id": "dodi-3204-01",
+"l0": false,
+"label": "DoD Instruction 3204.01 - Oversight of Independent Research and Development",
+"note": "Asked whether corporations overcharge government with the excess flowing to programs, Grusch answered 'Correct, through something called IR&D,' adding that 'IR&D is literally internal to the contractors... they do whatever they want.'",
+"sources": [
+{
+"date": "2023-07-26",
+"name": "House Oversight hearing transcript, 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency' (CHRG-118hhrg53022)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm"
+},
+{
+"date": "2020-07-09",
+"name": "DoD Instruction 3204.01, 'DoD Policy for Oversight of Independent Research and Development (IR&D)' (Change 2)",
+"url": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/320401p.pdf"
+}
+],
+"tier": "B",
+"type": "funding"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "2025",
+"dateStart": "2025",
+"direction": "out",
+"edgeLabel": "Hired as senior adviser on UAP issues for a four-month term from March 2025",
+"id": "eric-burlison",
+"l0": false,
+"label": "Eric Burlison",
+"note": "The first time the central whistleblower in this record has been formally embedded in the legislative branch, with an explicit brief on UAP transparency and service on the Task Force on the Declassification of Federal Secrets.",
+"sources": [
+{
+"date": "2025-03-26",
+"name": "The Hill: Congress continues to seek answers on UFOs (Grusch hired as Burlison senior adviser)",
+"url": "https://thehill.com/homenews/house/5214211-david-grusch-eric-burlison-ufo-transparency/"
+},
+{
+"date": "2025-03-27",
+"name": "Rep. Burlison press release",
+"url": "https://burlison.house.gov/media/press-releases/rep-burlison-welcomes-former-us-air-force-officer-david-grusch-special-advisor"
+},
+{
+"date": "2026-08-12",
+"name": "Rep. Eric Burlison press releases",
+"url": "https://burlison.house.gov/media/press-releases"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "2023",
+"direction": "in",
+"edgeLabel": "Sol Foundation co-founder; Grusch served as chief operating officer",
+"id": "garry-nolan",
+"l0": false,
+"label": "Garry Nolan",
+"note": "Grusch's House Oversight biography lists him as COO of The Sol Foundation from May 2023 - the academic-adjacent institution co-founded by Nolan that became his landing place immediately on leaving government.",
+"sources": [
+{
+"date": "2023-07-26",
+"name": "House Oversight witness biography",
+"url": "https://docs.house.gov/meetings/GO/GO06/20230726/116282/HHRG-118-GO06-Bio-GruschD-20230726.pdf"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "2023",
+"direction": "in",
+"edgeLabel": "Nolan vouched for Grusch before the July 2023 hearing",
+"id": "garry-nolan",
+"l0": false,
+"label": "Garry Nolan",
+"note": "Leslie Kean told Ezra Klein in June 2023 that Nolan 'knows David Grusch very well and vouches for him' - the technical layer's credibility being lent to the whistleblower strand.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Wikipedia: Garry Nolan",
+"url": "https://en.wikipedia.org/wiki/Garry_Nolan"
+}
+],
+"tier": "A",
+"type": "witness-chain"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "2025",
+"dateStart": "2025",
+"direction": "in",
+"edgeLabel": "Sworn statement that extra-legal reprisal against Grusch was ongoing in September 2025",
+"id": "george-knapp",
+"l0": false,
+"label": "George Knapp",
+"note": "From the witness table Knapp told the Task Force that such acts are carried out by persons unknown, 'as Mr. Dave Grusch, sitting up at the top of the room, knows all too well, including events in recent days to - that have happened to him.' No member asked what he meant and the record contains no follow-up.",
+"sources": [
+{
+"date": "2025-09-09",
+"name": "Task Force hearing record, Serial No. 119-44",
+"url": "https://www.congress.gov/119/chrg/CHRG-119hhrg61718/CHRG-119hhrg61718.pdf"
+}
+],
+"tier": "A",
+"type": "witness-chain"
+},
+{
+"claimTier": 2,
+"cls": "document",
+"dateEnd": "2026",
+"dateStart": "2024",
+"direction": "in",
+"edgeLabel": "Built on Grusch's statements about Clapper and O'Sullivan",
+"id": "gerb-northrop-trw-investigation",
+"l0": false,
+"label": "UAP Gerb - Northrop Grumman & TRW investigation (Vol.2)",
+"note": "Gerb extrapolates from Grusch's remarks on Megyn Kelly and from Grusch's statement that James Clapper and Stephanie O'Sullivan managed the crash retrieval issue at ODNI.",
+"sources": [
+{
+"date": "2026-03-20",
+"name": "UAP Gerb - Northrop Grumman & TRW Vol.2",
+"url": "https://www.youtube.com/watch?v=0kLSp0lH-JQ"
+}
+],
+"tier": "B",
+"type": "witness-chain"
+},
+{
+"claimTier": 2,
+"cls": "document",
+"dateEnd": "2026",
+"dateStart": "2023",
+"direction": "in",
+"edgeLabel": "Built around Grusch's NRO and NGA service and UAPTF liaison role",
+"id": "gerb-nro-investigation",
+"l0": false,
+"label": "UAP Gerb - National Reconnaissance Office investigation",
+"note": "Gerb frames the NRO's entry into the discussion through Grusch, who served in both the NRO and NGA and acted as liaison from those agencies to the UAP Task Force.",
+"sources": [
+{
+"date": "2025-12-13",
+"name": "UAP Gerb - NRO investigation",
+"url": "https://www.youtube.com/watch?v=GM1Qx9vuo2c"
+}
+],
+"tier": "B",
+"type": "witness-chain"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "2022",
+"dateStart": "2022",
+"direction": "out",
+"edgeLabel": "Complainant of record, PPD-19 urgent concern, 25 May 2022",
+"id": "grusch-icig-complaint",
+"l0": false,
+"label": "Grusch PPD-19 Urgent Concern Complaint to the ICIG",
+"note": "Grusch testified he 'became a whistleblower through a PPD-19 urgent concern filing in May 2022 with the intelligence community inspector general.' The Debrief dates the filing 25 May 2022 and identifies counsel.",
+"sources": [
+{
+"date": "2023-07-26",
+"name": "House Oversight hearing transcript, Serial No. 118-53",
+"url": "https://www.congress.gov/118/meeting/house/116282/documents/HHRG-118-GO06-Transcript-20230726.pdf"
+},
+{
+"date": "2023-06-13",
+"name": "Liberation Times - Unclassified Version Of Grusch's Reprisal Complaint Released",
+"url": "https://www.liberationtimes.com/home/unclassified-version-of-david-gruschs-ufo-related-reprisal-complaint-released"
+}
+],
+"tier": "B",
+"type": "witness-chain"
+},
+{
+"claimTier": 2,
+"cls": "event",
+"dateEnd": "2023-07-26",
+"dateStart": "2022-05",
+"direction": "out",
+"edgeLabel": "The named complainant, under oath and under an IG complaint",
+"id": "grusch-misappropriation-allegation",
+"l0": true,
+"label": "The misappropriation allegation: Grusch's ICIG complaint and sworn testimony",
+"note": "Grusch filed the ICIG urgent-concern complaint in May 2022 through counsel, was found credible and urgent in July 2022, went on the record in June 2023 and testified under oath on 26 July 2023. Attested by The Debrief reporting and the House Oversight hearing record.",
+"sources": [
+{
+"date": "2023-06-05",
+"name": "The Debrief, 5 June 2023; House Oversight hearing page",
+"url": "https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/"
+}
+],
+"tier": "A",
+"type": "witness-chain"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "2025",
+"dateStart": "2024",
+"direction": "out",
+"edgeLabel": "Plaintiff; suit dismissed with prejudice 6 August 2025",
+"id": "grusch-v-chapman",
+"l0": false,
+"label": "David C. Grusch v. Michael Chapman et al.",
+"note": "Filed 15 July 2024 in Loudoun County Circuit Court against Sheriff Mike Chapman and a Sheriff's Office employee. Dismissed with prejudice on 6 August 2025 on the reasoning that Virginia's mental health confidentiality statute reaches court files rather than police records. The outcome establishes that no legal shield protected the whistleblower's most sensitive records.",
+"sources": [
+{
+"date": "2024-07-25",
+"name": "Loudoun Times-Mirror",
+"url": "https://www.loudountimes.com/0local-or-not/1local/ufo-whistleblower-sues-sheriffs-office-over-records-release/article_b24005c4-490e-11ef-97d5-4bc65ae077be.html"
+},
+{
+"date": "2025-08-12",
+"name": "Unknown Country - Grusch's Privacy Lawsuit has been Dismissed",
+"url": "https://unknowncountry.com/headline-news/gruschs-privacy-lawsuit-has-been-dismissed-what-does-this-say-about-protections-for-future-uap-whistleblowers/"
+}
+],
+"tier": "C",
+"type": "behavioral"
+},
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": "2023",
+"dateStart": "2023",
+"direction": "in",
+"edgeLabel": "Same hearing paired the aviator record with the recovery-program allegations",
+"id": "hearing-2023-07-26",
+"l0": true,
+"label": "House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'",
+"note": "The committee deliberately seated two aviator witnesses beside a whistleblower alleging a concealed retrieval program, framing the observational record as the visible surface of a hidden effort.",
+"sources": [
+{
+"date": "2023-07-26",
+"name": "House Oversight - hearing page, 26 July 2023",
+"url": "https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/"
+},
+{
+"date": "2023-07-26",
+"name": "House Oversight hearing transcript, 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency' (CHRG-118hhrg53022)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm"
+},
+{
+"date": "2023-07-26",
+"name": "David Grusch, written statement to the House Committee on Oversight and Accountability",
+"url": "https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": null,
+"dateStart": "2023-07-26",
+"direction": "out",
+"edgeLabel": "sworn witness",
+"id": "hearing-2023-07-26",
+"l0": true,
+"label": "House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'",
+"note": "Listed in the printed hearing record as a witness; testified under oath.",
+"sources": [
+{
+"date": "2023-07-26",
+"name": "CHRG-118hhrg53022, printed hearing transcript, 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency', Serial No. 118-53",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/pdf/CHRG-118hhrg53022.pdf"
+}
+],
+"tier": "A",
+"type": "programmatic"
+},
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": null,
+"dateStart": "2023",
+"direction": "out",
+"edgeLabel": "Sworn witness; testified to non-human biologics, named SAPs he could not disclose, and harm to persons",
+"id": "hearing-2023-07-26",
+"l0": true,
+"label": "House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'",
+"note": "Grusch testified under oath before the House Oversight national security subcommittee, producing the 40-witness figure, the nonhuman biologics answer, the harm and murder exchanges, and the misappropriation and IR&D funding answers.",
+"sources": [
+{
+"date": "2023-07-26",
+"name": "U.S. GPO, Hearing transcript, Serial No. 118-53 (CHRG-118hhrg53022)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm"
+},
+{
+"date": "2023-07-26",
+"name": "David Grusch, opening statement, House Oversight",
+"url": "https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf"
+},
+{
+"date": "2023-07-26",
+"name": "House Oversight hearing transcript, Serial No. 118-53",
+"url": "https://www.congress.gov/118/meeting/house/116282/documents/HHRG-118-GO06-Transcript-20230726.pdf"
+},
+{
+"date": "2023-07-26",
+"name": "House Oversight hearing page",
+"url": "https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/"
+}
+],
+"tier": "A",
+"type": "witness-chain"
+},
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": "2025",
+"dateStart": "2025",
+"direction": "out",
+"edgeLabel": "Present in the room as reprisal against him is entered into the record",
+"id": "hearing-2025-09-09",
+"l0": true,
+"label": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'",
+"note": "Grusch did not testify but attended; Knapp referenced him directly from the witness table, Crane entered the reprisal letter, and Mace described the medical-records leak. The hearing is the reprisal file's official home.",
+"sources": [
+{
+"date": "2025-09-09",
+"name": "Task Force hearing record, Serial No. 119-44",
+"url": "https://www.congress.gov/119/chrg/CHRG-119hhrg61718/CHRG-119hhrg61718.pdf"
+}
+],
+"tier": "A",
+"type": "temporal"
+},
+{
+"claimTier": 3,
+"cls": "legislation",
+"dateEnd": "2023",
+"dateStart": "2023",
+"direction": "out",
+"edgeLabel": "Warner's contractor turn-in targets the same private holders",
+"id": "iaa-fy2024-sec-1102",
+"l0": true,
+"label": "IAA FY2024 Sec. 1102 — contractor turn-in of 'non-earth origin or exotic' UAP material",
+"note": "Sec. 1102 orders contractors to surrender a list of 'non-earth origin or exotic' material, the category Grusch alleged had been moved to industry.",
+"sources": [
+{
+"date": "2023-07-27",
+"name": "S. 2226 (Engrossed in Senate) — GPO",
+"url": "https://www.govinfo.gov/content/pkg/BILLS-118s2226es/html/BILLS-118s2226es.htm"
+}
+],
+"tier": "A",
+"type": "witness-chain"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "2023",
+"dateStart": "2023",
+"direction": "in",
+"edgeLabel": "Asked whether contractor overcharging funds the concealed programs",
+"id": "jared-moskowitz",
+"l0": false,
+"label": "Jared Evan Moskowitz",
+"note": "Moskowitz's questioning produced the only sworn statement on how an unacknowledged program is paid for: misappropriation plus contractor internal research and development money that carries no congressional notification duty.",
+"sources": [
+{
+"date": "2023-07-26",
+"name": "U.S. GPO, Hearing transcript, Serial No. 118-53 (CHRG-118hhrg53022)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm"
+},
+{
+"date": "2023-07-26",
+"name": "House Oversight hearing transcript",
+"url": "https://www.congress.gov/118/meeting/house/116282/documents/HHRG-118-GO06-Transcript-20230726.pdf"
+}
+],
+"tier": "B",
+"type": "funding"
+},
+{
+"claimTier": 3,
+"cls": "person",
+"dateEnd": "2019",
+"dateStart": "2019",
+"direction": "in",
+"edgeLabel": "UAP Task Force Director tasked Grusch to identify all SAPs and CAPs (2019)",
+"id": "jay-stratton",
+"l0": false,
+"label": "Jay Stratton",
+"note": "Grusch swore that in 2019 'the UAP Task Force Director asked me to identify all special access programs and controlled access programs... we needed to satisfy our congressionally mandated mission.' Stratton is the individual publicly identified as directing that effort in that period. Grusch has never made the identification himself, so this is a reasoned inference, not a documented one.",
+"sources": [
+{
+"date": "2023-07-26",
+"name": "House Oversight hearing transcript, Serial No. 118-53",
+"url": "https://www.congress.gov/118/meeting/house/116282/documents/HHRG-118-GO06-Transcript-20230726.pdf"
+},
+{
+"date": "2024-09-01",
+"name": "Deadline - HarperCollins Acquires Rights To Bombshell Memoir From Jay Stratton",
+"url": "https://deadline.com/2024/09/jay-stratton-uap-memoir-william-morrow-farah-films-acquire-rights-1236083182/"
+}
+],
+"tier": "A",
+"type": "programmatic"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2021",
+"dateStart": "2019",
+"direction": "in",
+"edgeLabel": "UAPTF Director tasked Grusch to identify all relevant SAPs",
+"id": "jay-stratton",
+"l0": false,
+"label": "Jay Stratton",
+"note": "Grusch testified under oath that the UAP Task Force Director gave him this tasking and that the read-ons were then refused. Stratton is the publicly identified holder of that post.",
+"sources": [
+{
+"date": "2023-07-26",
+"name": "House Oversight hearing, 26 July 2023",
+"url": "https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/"
+}
+],
+"tier": "A",
+"type": "witness-chain"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2023",
+"dateStart": "2023",
+"direction": "in",
+"edgeLabel": "Serving NASIC officer corroborates on the record under pseudonym",
+"id": "jonathan-grey",
+"l0": false,
+"label": "\"Jonathan Grey\" (pseudonym)",
+"note": "'The non-human intelligence phenomenon is real. We are not alone.' A currently serving Top Secret-cleared NASIC officer would corroborate but would not attach a name - itself evidence about the environment at Wright-Patterson.",
+"sources": [
+{
+"date": "2023-06-05",
+"name": "The Debrief",
+"url": "https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/"
+}
+],
+"tier": "C",
+"type": "witness-chain"
+},
+{
+"claimTier": 2,
+"cls": "institution",
+"dateEnd": "2026",
+"dateStart": "2026",
+"direction": "out",
+"edgeLabel": "May 2026 On Watch interview restating the concealment allegation",
+"id": "judicial-watch",
+"l0": false,
+"label": "Judicial Watch",
+"note": "Interviewed by Chris Farrell for Judicial Watch's On Watch on 5 May 2026, restating that elements of the US government thwarted congressional oversight, withheld information from proper executive branch officials, and illegally concealed recovery and reverse-engineering programs. It is the immediate precursor to the June 2026 Capitol press conference.",
+"sources": [
+{
+"date": "2026-05-05",
+"name": "Judicial Watch - UAP Whistleblower David Grusch on Non-human Biologics and Craft",
+"url": "https://www.judicialwatch.org/videos/uap-whistleblower-david-grusch-on-non-human-biologics-craft/"
+}
+],
+"tier": "C",
+"type": "behavioral"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "2023",
+"direction": "in",
+"edgeLabel": "On-record corroboration: 'beyond reproach' and the arms race is 'fundamentally correct'",
+"id": "karl-nell",
+"l0": false,
+"label": "Karl E. Nell",
+"note": "A named retired Army colonel who served as the Army's UAP Task Force liaison affirmed both Grusch's character and the substance of the eighty-year reverse-engineering allegation, in print, on the record, on 5 June 2023. AARO has never addressed this statement by name.",
+"sources": [
+{
+"date": "2023-06-05",
+"name": "The Debrief",
+"url": "https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/"
+},
+{
+"date": "2024-05-27",
+"name": "A Very Exciting Time - Karl Nell at SALT",
+"url": "https://veryexcitingtime.com/episodes/2024/45-nell-salt/"
+}
+],
+"tier": "B",
+"type": "witness-chain"
+},
+{
+"claimTier": 3,
+"cls": "location",
+"dateEnd": null,
+"dateStart": "2023",
+"direction": "out",
+"edgeLabel": "Corroborating NASIC officer sits at the installation at the center of the legacy custody claims",
+"id": "l-wright-patterson",
+"l0": false,
+"label": "Wright-Patterson Air Force Base, Ohio",
+"note": "Grusch testified he knows the exact locations of held material and provided them to the Inspector General; the one corroborator whose duty station is public serves at NASIC, Wright-Patterson. Reasoning: the geography is suggestive and no document places Grusch's locations at Wright-Patterson.",
+"sources": [
+{
+"date": "2023-06-05",
+"name": "The Debrief",
+"url": "https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/"
+},
+{
+"date": "2023-07-26",
+"name": "House Oversight hearing transcript",
+"url": "https://www.congress.gov/118/meeting/house/116282/documents/HHRG-118-GO06-Transcript-20230726.pdf"
+}
+],
+"tier": "A",
+"type": "custody"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2023",
+"dateStart": "2023",
+"direction": "in",
+"edgeLabel": "Kean and Blumenthal broke Grusch's crash-retrieval claims",
+"id": "leslie-kean",
+"l0": false,
+"label": "Leslie Kean",
+"note": "On 5 June 2023 they reported Grusch's claim that the US holds a secret UFO retrieval programme with multiple vehicles of non-human origin and records of dead pilots.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Wikipedia - Leslie Kean",
+"url": "https://en.wikipedia.org/wiki/Leslie_Kean"
+}
+],
+"tier": "B",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "2024",
+"dateStart": "2017",
+"direction": "in",
+"edgeLabel": "Successive OUSD(I)/IC witnesses making the same structural allegation seven years apart",
+"id": "luis-elizondo",
+"l0": false,
+"label": "Luis D. Elizondo",
+"note": "At the 13 November 2024 hearing Elizondo told Rep. Burchett he had worked with Grusch at US Space Force and answered 'Yes, sir' when asked whether he agreed with Grusch's multi-decade crash-retrieval testimony - a second former senior DoD official affirming the core claim under oath.",
+"sources": [
+{
+"date": "2024-11-13",
+"name": "HHRG-118-GO12 transcript",
+"url": "https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Transcript-20241113.pdf"
+},
+{
+"date": "2024-11-13",
+"name": "House Oversight hearing record, Serial No. 118-140",
+"url": "https://www.congress.gov/118/chrg/CHRG-118hhrg57440/CHRG-118hhrg57440.pdf"
+}
+],
+"tier": "A",
+"type": "witness-chain"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2023",
+"dateStart": "2023",
+"direction": "in",
+"edgeLabel": "Chairman of the Joint Chiefs: no evidence of alien craft or coverup",
+"id": "mark-milley",
+"l0": false,
+"label": "Mark A. Milley",
+"note": "Stated 6 August 2023. Recorded as an artifact: under 10 U.S.C. 119 the Deputy Secretary may waive congressional reporting for a SAP with only Gang of Eight notification, so a Chairman's non-knowledge is consistent with the program existing and is data about compartmentation.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Wikipedia - David Grusch UFO whistleblower claims (denials, with contemporaneous citations)",
+"url": "https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims"
+}
+],
+"tier": "C",
+"type": "denial"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "2023",
+"dateStart": "2023",
+"direction": "in",
+"edgeLabel": "Drew the non-human biologics answer and the unlawful-withholding question under oath",
+"id": "nancy-mace",
+"l0": false,
+"label": "Nancy Ruth Mace",
+"note": "The two most consequential exchanges of the 2023 hearing.",
+"sources": [
+{
+"date": "2023-07-26",
+"name": "U.S. GPO, Hearing transcript, Serial No. 118-53 (CHRG-118hhrg53022)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm"
+}
+],
+"tier": "A",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "2023",
+"dateStart": "2023",
+"direction": "in",
+"edgeLabel": "Elicited the nonhuman biologics answer and the offer of a witness list",
+"id": "nancy-mace",
+"l0": false,
+"label": "Nancy Ruth Mace",
+"note": "Mace drew the biologics testimony and Grusch's offer of 'a specific cooperative and hostile witness list of specific individuals' to be provided after the hearing. The list has never surfaced publicly.",
+"sources": [
+{
+"date": "2023-07-26",
+"name": "House Oversight hearing transcript",
+"url": "https://www.congress.gov/118/meeting/house/116282/documents/HHRG-118-GO06-Transcript-20230726.pdf"
+}
+],
+"tier": "A",
+"type": "legislative"
+},
+{
+"claimTier": 2,
+"cls": "legislation",
+"dateEnd": "2022",
+"dateStart": "2022",
+"direction": "out",
+"edgeLabel": "Helped draft the UAP whistleblower protection language",
+"id": "ndaa-fy2023",
+"l0": false,
+"label": "FY2023 NDAA, Public Law 117-263 - Sec. 1673 (50 U.S.C. 3373b) UAP reporting/whistleblower protection; Div. F secs. 6802-6803 establishing AARO",
+"note": "The Debrief reports Grusch helped draft the UAP language in the FY2023 NDAA, signed December 2022, which permits authorized UAP disclosures without retaliation regardless of prior nondisclosure agreements - written by the person who would then need it.",
+"sources": [
+{
+"date": "2023-06-05",
+"name": "The Debrief",
+"url": "https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/"
+}
+],
+"tier": "B",
+"type": "legislative"
+},
+{
+"claimTier": 1,
+"cls": "legislation",
+"dateEnd": null,
+"dateStart": "2022",
+"direction": "in",
+"edgeLabel": "The statute legislates the exact programme category he alleges",
+"id": "ndaa-fy2023-sec-1673",
+"l0": false,
+"label": "FY2023 NDAA Sec. 1673 (P.L. 117-263; 50 U.S.C. 3373b)",
+"note": "Sec. 1673(a)(1)(B) creates a reporting channel for programmes involving 'material retrieval, material analysis, reverse engineering' — Congress legislating for a category of activity it does not officially acknowledge.",
+"sources": [
+{
+"date": "2022-12-23",
+"name": "P.L. 117-263 — GPO",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-117publ263/html/PLAW-117publ263.htm"
+}
+],
+"tier": "A",
+"type": "programmatic"
+},
+{
+"claimTier": 2,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2023-06-11",
+"direction": "in",
+"edgeLabel": "Broke Grusch's first on-camera whistleblower interview",
+"id": "newsnation",
+"l0": false,
+"label": "NewsNation",
+"note": "NewsNation published/aired 'We are not alone: The UFO whistleblower speaks' on 11 June 2023, the first television interview with David Grusch, conducted by Ross Coulthart, NewsNation's senior special investigations correspondent.",
+"sources": [
+{
+"date": null,
+"name": "https://www.newsnationnow.com/space/ufo/we-are-not-alone-the-ufo-whistleblower-speaks/",
+"url": "https://www.newsnationnow.com/space/ufo/we-are-not-alone-the-ufo-whistleblower-speaks/"
+},
+{
+"date": null,
+"name": "https://en.wikipedia.org/wiki/Ross_Coulthart",
+"url": "https://en.wikipedia.org/wiki/Ross_Coulthart"
+}
+],
+"tier": "C",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "2023",
+"dateStart": "2021",
+"direction": "out",
+"edgeLabel": "GS-15 Senior GEOINT Capabilities Requirements Officer; agency co-lead for UAP analysis",
+"id": "nga",
+"l0": false,
+"label": "National Geospatial-Intelligence Agency",
+"note": "From November 2021 to April 2023 Grusch was a GS-15 at NGA and, in his sworn words, 'my agency's co-lead in unidentified anomalous phenomena and trans medium object analysis as well as reporting to the UAP Task Force and eventually, once it was established, the All-Domain Anomaly Resolution Office.' He also testified that reviewing overhead collection of such events was one of his primary NGA tasks.",
+"sources": [
+{
+"date": "2023-07-26",
+"name": "House Oversight hearing transcript, Serial No. 118-53",
+"url": "https://www.congress.gov/118/meeting/house/116282/documents/HHRG-118-GO06-Transcript-20230726.pdf"
+},
+{
+"date": "2023-07-26",
+"name": "House Oversight witness biography",
+"url": "https://docs.house.gov/meetings/GO/GO06/20230726/116282/HHRG-118-GO06-Bio-GruschD-20230726.pdf"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "2021",
+"dateStart": "2016",
+"direction": "out",
+"edgeLabel": "Senior Intelligence Officer, NRO, 2016-2021; Director's briefing staff",
+"id": "nro",
+"l0": true,
+"label": "National Reconnaissance Office",
+"note": "Grusch's published House Oversight biography places him at the National Reconnaissance Office from April 2016 to November 2021, serving on the NRO Operations Center Director's briefing staff including coordination of the President's Daily Brief. This is the access baseline for everything that follows.",
+"sources": [
+{
+"date": "2023-07-26",
+"name": "House Oversight witness biography of David C. Grusch",
+"url": "https://docs.house.gov/meetings/GO/GO06/20230726/116282/HHRG-118-GO06-Bio-GruschD-20230726.pdf"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 2,
+"cls": "event",
+"dateEnd": "2023",
+"dateStart": "2023",
+"direction": "in",
+"edgeLabel": "The New York Times did not publish the 2023 Grusch story",
+"id": "nyt-2017-12-16",
+"l0": true,
+"label": "New York Times, 'Glowing Auras and Black Money: The Pentagon's Mysterious U.F.O. Program'",
+"note": "The same two authors who wrote the paper's 2017 AATIP revelation took the 2023 crash-retrieval story elsewhere. Recorded as a denial-type edge because the decision not to publish is itself an act by an institution, and one that shaped what the public record looks like.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "The Debrief - About",
+"url": "https://thedebrief.org/about/"
+},
+{
+"date": "2026-08-12",
+"name": "Wikipedia - Leslie Kean",
+"url": "https://en.wikipedia.org/wiki/Leslie_Kean"
+}
+],
+"tier": "A",
+"type": "denial"
+},
+{
+"claimTier": 2,
+"cls": "event",
+"dateEnd": "2026",
+"dateStart": "2026",
+"direction": "out",
+"edgeLabel": "Escalates from concealment to fraud: 'slush funds to the tune of billions of dollars per annum'",
+"id": "press-conf-2026-06-09",
+"l0": false,
+"label": "Capitol UAP Disclosure Press Conference",
+"note": "At the Capitol press conference Grusch reframed the matter as fraud, waste and abuse, accused DIA of obstructing oversight, and said the government is aware of several kinds of non-human intelligence. Framed beforehand as 'moving from testimony to action.'",
+"sources": [
+{
+"date": "2026-06-10",
+"name": "Fox News - UAP whistleblower David Grusch accuses agencies of hiding billions",
+"url": "https://www.foxnews.com/politics/ufo-whistleblower-claims-billions-secret-spending-hidden-from-congress"
+},
+{
+"date": "2026-06-09",
+"name": "Los Angeles Magazine",
+"url": "https://lamag.com/politics/ufo-whistleblower-david-grusch-returns-to-capitol-hill-tuesday/"
+}
+],
+"tier": "C",
+"type": "witness-chain"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "2023",
+"dateStart": "2023",
+"direction": "in",
+"edgeLabel": "Elicited the 40-witnesses-over-4-years answer and the protected disclosure chain",
+"id": "robert-garcia",
+"l0": false,
+"label": "Robert Garcia",
+"note": "Garcia's questioning established that Grusch had the firsthand-knowledge individuals file their own protected disclosures with the Inspector General - the fact that makes the witness chain more than hearsay.",
+"sources": [
+{
+"date": "2023-07-26",
+"name": "House Oversight hearing transcript",
+"url": "https://www.congress.gov/118/meeting/house/116282/documents/HHRG-118-GO06-Transcript-20230726.pdf"
+}
+],
+"tier": "C",
+"type": "legislative"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "2023",
+"dateStart": "2023",
+"direction": "in",
+"edgeLabel": "First television interview; origin of the biologics and dead pilots statements",
+"id": "ross-coulthart",
+"l0": false,
+"label": "Ross Coulthart",
+"note": "Grusch's NewsNation interview with Coulthart produced the dead pilots statement and the biologics claim that he then ratified under oath five weeks later when Rep. Mace asked about bodies.",
+"sources": [
+{
+"date": "2023-06-11",
+"name": "NewsNation - Military whistleblower claims US has UFO retrieval program",
+"url": "https://www.newsnationnow.com/space/military-whistleblowe-us-ufo-retrieval-program/"
+},
+{
+"date": "2023-07-26",
+"name": "House Oversight hearing transcript",
+"url": "https://www.congress.gov/118/meeting/house/116282/documents/HHRG-118-GO06-Transcript-20230726.pdf"
+},
+{
+"date": "2026-07-26",
+"name": "Wikipedia - Ross Coulthart",
+"url": "https://en.wikipedia.org/wiki/Ross_Coulthart"
+}
+],
+"tier": "C",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "2023",
+"dateStart": "2023",
+"direction": "out",
+"edgeLabel": "Co-witness, 26 July 2023 hearing panel",
+"id": "ryan-graves",
+"l0": false,
+"label": "Ryan Graves",
+"note": "Graves testified on the reporting gap for military and commercial aircrew; his Vandenberg account, sourced to a witness through Americans for Safe Aerospace, put contractor personnel into the same hearing record as Grusch's contractor allegations.",
+"sources": [
+{
+"date": "2023-07-26",
+"name": "House Oversight hearing transcript",
+"url": "https://www.congress.gov/118/meeting/house/116282/documents/HHRG-118-GO06-Transcript-20230726.pdf"
+}
+],
+"tier": "A",
+"type": "witness-chain"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "2023",
+"dateStart": "2023",
+"direction": "in",
+"edgeLabel": "'The central source of those allegations has refused to speak with AARO'",
+"id": "sean-kirkpatrick",
+"l0": false,
+"label": "Sean M. Kirkpatrick",
+"note": "Posted by Kirkpatrick after the 26 July 2023 hearing and authenticated by the Pentagon, calling the hearing insulting to DoD and IC officers. Signatory: Sean M. Kirkpatrick, then AARO director. It contradicts nothing Grusch swore to; it substitutes a procedural complaint for a substantive rebuttal.",
+"sources": [
+{
+"date": "2023-07-31",
+"name": "DefenseScoop - UAP hearing sparks clash between Pentagon officials, witnesses",
+"url": "https://defensescoop.com/2023/07/31/uap-hearing-sparks-clash-between-pentagon-officials-witnesses/"
+},
+{
+"date": "2023-07-26",
+"name": "House Oversight hearing transcript, 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency' (CHRG-118hhrg53022)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm"
+}
+],
+"tier": "A",
+"type": "denial"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "2022",
+"dateStart": "2022",
+"direction": "out",
+"edgeLabel": "Classified conversation April 2022, before Kirkpatrick took over AARO",
+"id": "sean-kirkpatrick",
+"l0": false,
+"label": "Sean M. Kirkpatrick",
+"note": "Grusch swore: 'Him and I had a classified conversation in April 2022 before he took over AARO in July 2022 and I provided him some concerns I had.' Kirkpatrick has never publicly denied the meeting, and no AARO line of inquiry visibly followed from it.",
+"sources": [
+{
+"date": "2023-07-26",
+"name": "House Oversight hearing transcript",
+"url": "https://www.congress.gov/118/meeting/house/116282/documents/HHRG-118-GO06-Transcript-20230726.pdf"
+}
+],
+"tier": "A",
+"type": "witness-chain"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2023",
+"direction": "out",
+"edgeLabel": "Chief Operating Officer from May 2023",
+"id": "sol-foundation",
+"l0": true,
+"label": "The Sol Foundation",
+"note": "Listed as his current position in the biography the House Oversight Committee published on the day of his testimony.",
+"sources": [
+{
+"date": "2023-07-26",
+"name": "House Oversight witness biography",
+"url": "https://docs.house.gov/meetings/GO/GO06/20230726/116282/HHRG-118-GO06-Bio-GruschD-20230726.pdf"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "2023",
+"direction": "in",
+"edgeLabel": "Standing DoD denial: AARO has not discovered any verifiable information",
+"id": "susan-gough",
+"l0": false,
+"label": "Susan Gough",
+"note": "Issued 7 June 2023, two days after The Debrief, and recycled since. Signatory: Susan Gough, DoD spokesperson. Note the boundary of the sentence: it asserts what one office has discovered, not what exists, and is silent on holdings outside AARO's access.",
+"sources": [
+{
+"date": "2023-06-07",
+"name": "Fox News - Pentagon denies secret UFO retrieval program after whistleblower bombshell",
+"url": "https://www.foxnews.com/us/pentagon-denies-secret-ufo-retrieval-program-after-whistleblower-bombshell"
+},
+{
+"date": "2023-06-06",
+"name": "Fox News - Pentagon denies secret UFO retrieval program after whistleblower bombshell",
+"url": "https://www.foxnews.com/us/pentagon-denies-secret-ufo-retrieval-program-after-whistleblower-bombshell.amp"
+}
+],
+"tier": "A",
+"type": "denial"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2025",
+"direction": "out",
+"edgeLabel": "Serves the Task Force via the Burlison advisory role",
+"id": "task-force-declassification",
+"l0": false,
+"label": "House Task Force on the Declassification of Federal Secrets",
+"note": "Burlison's announcement states Grusch's role includes serving on the Task Force on the Declassification of Federal Secrets, the body that held the September 2025 UAP hearing and hosted the June 2026 press conference.",
+"sources": [
+{
+"date": "2025-03-27",
+"name": "Rep. Burlison press release",
+"url": "https://burlison.house.gov/media/press-releases/rep-burlison-welcomes-former-us-air-force-officer-david-grusch-special-advisor"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 2,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "Continuing coverage of Grusch and congressional UAP transparency push",
+"id": "the-hill",
+"l0": false,
+"label": "The Hill",
+"note": "The Hill has carried repeated reporting on Grusch's claims and on lawmakers' efforts to get him into a classified setting, including 'Congress continues to seek answers on UFOs' (Grusch/Burlison) and later coverage of Grusch joining lawmakers demanding release of UAP files. Article pages could not be fetched directly (site blocked automated fetch); edge rests on indexed headlines and URLs.",
+"sources": [
+{
+"date": null,
+"name": "https://thehill.com/homenews/house/5214211-david-grusch-eric-burlison-ufo-transparency/",
+"url": "https://thehill.com/homenews/house/5214211-david-grusch-eric-burlison-ufo-transparency/"
+},
+{
+"date": null,
+"name": "https://thehill.com/homenews/administration/5916231-government-aware-of-several-kinds-of-aliens-ufo-whistleblower/",
+"url": "https://thehill.com/homenews/administration/5916231-government-aware-of-several-kinds-of-aliens-ufo-whistleblower/"
+}
+],
+"tier": "C",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "FOIA'd police records on Grusch published weeks after his testimony",
+"id": "the-intercept",
+"l0": false,
+"label": "The Intercept",
+"note": "Klippenstein obtained Loudoun County Sheriff's Office incident reports under the Virginia Freedom of Information Act showing Grusch was detained under an emergency custody order on 1 October 2018 and transferred to Loudoun Adult Medical Psychiatric Services. The piece is explicit about provenance: 'The records were not confidential, medical, or leaked. They are publicly available law enforcement records obtained under a routine Virginia FOIA request to the Loudoun County Sheriff's Office.' Its argument is about the clearance process rather than about the witness - that clearances of the kind Grusch held carry strict requirements regarding psychological episodes and substance issues, and his was retained.",
+"sources": [
+{
+"date": "2023-08-09",
+"name": "Ken Klippenstein, 'UFO Whistleblower Kept Security Clearance After Psychiatric Detention', The Intercept, 9 August 2023",
+"url": "https://theintercept.com/2023/08/09/ufo-david-grusch-clearance/"
+},
+{
+"date": null,
+"name": "Ken Klippenstein, 'UFO Whistleblower Kept Security Clearance After Psychiatric Detention,' The Intercept, August 9, 2023 -- https://theintercept.com/2023/08/09/ufo-david-grusch-clearance/",
+"url": ""
+}
+],
+"tier": "C",
+"type": "investigative"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "2022",
+"direction": "in",
+"edgeLabel": "ICIG found Grusch's urgent-concern complaint credible and urgent, triggering notification of the intelligence committees",
+"id": "thomas-monheim",
+"l0": false,
+"label": "Thomas A. Monheim",
+"note": "This finding is the legal predicate for the entire House inquiry, and it routed to the intelligence committees rather than to Oversight.",
+"sources": [
+{
+"date": "2025-02-18",
+"name": "The Hill (opinion, Marik von Rennenkampff): House Republicans demand UFO transparency",
+"url": "https://thehill.com/opinion/national-security/5149386-house-republicans-demand-ufo-transparency/"
+}
+],
+"tier": "C",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "2023",
+"direction": "in",
+"edgeLabel": "Elicited the harm, injury and murder answers; recorded the SCIF denial",
+"id": "tim-burchett",
+"l0": false,
+"label": "Timothy Floyd Burchett",
+"note": "Burchett drew Grusch's 'Yes, personally' on knowledge of people harmed in the concealment effort and his careful non-answer on murder, then stated on the record that members had been denied SCIF access.",
+"sources": [
+{
+"date": "2023-07-26",
+"name": "House Oversight hearing transcript",
+"url": "https://www.congress.gov/118/meeting/house/116282/documents/HHRG-118-GO06-Transcript-20230726.pdf"
+}
+],
+"tier": "A",
+"type": "legislative"
+},
+{
+"claimTier": 3,
+"cls": "document",
+"dateEnd": null,
+"dateStart": "2026",
+"direction": "in",
+"edgeLabel": "The waiver reproduces the channel that failed Grusch",
+"id": "uap-nda-waiver-directive-2026",
+"l0": false,
+"label": "Presidential directive waiving UAP-related nondisclosure agreements",
+"note": "The directive unbinds witnesses only inside the executive channel controlled by the institution they would accuse, which is the structure that ended Grusch's career after his ICIG-channel disclosure.",
+"sources": [
+{
+"date": "2026-07-21",
+"name": "Fox News - Trump directs agencies to waive NDAs for UAP whistleblowers",
+"url": "https://www.foxnews.com/politics/long-hidden-ufo-information-center-trump-push-free-former-officials"
+},
+{
+"date": "2026-07-29",
+"name": "Rep. Eric Burlison - Statement on President Trump's UAP NDA Directive",
+"url": "https://burlison.house.gov/media/press-releases/rep-eric-burlison-releases-statement-president-trumps-uap-nda-directive"
+}
+],
+"tier": "B",
+"type": "behavioral"
+},
+{
+"claimTier": 3,
+"cls": "document",
+"dateEnd": null,
+"dateStart": "2026",
+"direction": "in",
+"edgeLabel": "NDA waiver regime addresses the exact obstacle Grusch's witnesses faced",
+"id": "uap-nda-waiver-directive-2026",
+"l0": false,
+"label": "Presidential directive waiving UAP-related nondisclosure agreements",
+"note": "Grusch swore in 2023 that witnesses would come forward only behind closed doors and with assurances that breaking NDAs would not be prosecuted. The July 2026 directive waives UAP-related NDAs for disclosures to cleared AARO or PURSUE officials. Reasoning: the directive's mechanism maps directly onto the barrier Grusch described under oath, though no document ties the two.",
+"sources": [
+{
+"date": "2026-07-21",
+"name": "Fox News - Trump directs agencies to waive NDAs for UAP whistleblowers",
+"url": "https://www.foxnews.com/politics/long-hidden-ufo-information-center-trump-push-free-former-officials"
+},
+{
+"date": "2023-07-26",
+"name": "House Oversight hearing transcript",
+"url": "https://www.congress.gov/118/meeting/house/116282/documents/HHRG-118-GO06-Transcript-20230726.pdf"
+}
+],
+"tier": "B",
+"type": "programmatic"
+},
+{
+"claimTier": 2,
+"cls": "program",
+"dateEnd": "2021",
+"dateStart": "2019",
+"direction": "out",
+"edgeLabel": "NRO representative to the UAP Task Force, 2019-2021",
+"id": "uap-task-force",
+"l0": true,
+"label": "Unidentified Aerial Phenomena Task Force (UAPTF)",
+"note": "Grusch held the National Reconnaissance Office's billet to the Task Force and testified that its Director tasked him to inventory relevant special access programmes.",
+"sources": [
+{
+"date": "2023-07-26",
+"name": "House Oversight hearing, 26 July 2023",
+"url": "https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": "2021",
+"dateStart": "2019",
+"direction": "out",
+"edgeLabel": "NRO representative to the UAP Task Force, 2019-2021",
+"id": "uap-task-force",
+"l0": true,
+"label": "Unidentified Aerial Phenomena Task Force (UAPTF)",
+"note": "Grusch swore he was a member of the UAP Task Force from 2019 to 2021 in his Air Force NRO reservist capacity; his published biography and The Debrief both record the same billet. This is the seat from which he was tasked to inventory SAPs and CAPs.",
+"sources": [
+{
+"date": "2023-07-26",
+"name": "House Oversight hearing transcript, Serial No. 118-53",
+"url": "https://www.congress.gov/118/meeting/house/116282/documents/HHRG-118-GO06-Transcript-20230726.pdf"
+}
+],
+"tier": "A",
+"type": "programmatic"
+},
+{
+"claimTier": 3,
+"cls": "legislation",
+"dateEnd": "2023",
+"dateStart": "2023",
+"direction": "out",
+"edgeLabel": "The Act's definitions are drafted around his allegations",
+"id": "uapda-2023",
+"l0": true,
+"label": "UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)",
+"note": "Grusch's allegations were published 5 June 2023; S.Amdt. 797 was filed 38 days later containing bespoke definitions of 'legacy program' and 'controlling authority' reaching private and academic holders.",
+"sources": [
+{
+"date": "2023-07-27",
+"name": "S. 2226 (Engrossed in Senate) — GPO",
+"url": "https://www.govinfo.gov/content/pkg/BILLS-118s2226es/html/BILLS-118s2226es.htm"
+},
+{
+"date": "2023-07-13",
+"name": "Congressional Record, 13 July 2023 — S.Amdt. 797",
+"url": "https://www.govinfo.gov/content/pkg/CREC-2023-07-13/html/CREC-2023-07-13-pt1-PgS2953.htm"
+}
+],
+"tier": "A",
+"type": "witness-chain"
+},
+{
+"claimTier": 2,
+"cls": "legislation",
+"dateEnd": "2023",
+"dateStart": "2023",
+"direction": "in",
+"edgeLabel": "Grusch identified the Sec. 119 waiver as the statutory route by which programs escape committee reporting",
+"id": "usc-10-119",
+"l0": true,
+"label": "10 U.S.C. 119 — Special Access Programs: Congressional Oversight",
+"note": "Grusch described the Secretary's ability to waive congressional reporting and the Gang of Eight backstop for a waived unacknowledged SAP; subsection (e) of the statute contains exactly the waiver he described.",
+"sources": [
+{
+"date": "2024-01-01",
+"name": "10 U.S.C. Sec. 119, Special access programs: congressional oversight",
+"url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim"
+},
+{
+"date": "2023-07-26",
+"name": "House Oversight hearing transcript, 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency' (CHRG-118hhrg53022)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm"
+}
+],
+"tier": "A",
+"type": "legislative"
+},
+{
+"claimTier": 3,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "allegations of a programme withheld from the statutory notification channel",
+"id": "waived-sap-notification-group",
+"l0": true,
+"label": "Waived SAP Notification Group",
+"note": "Grusch's 26 July 2023 testimony was given to a House Oversight subcommittee, which holds no entitlement under section 119. The twelve members who did hold 119(e)(2) seats on that date were Reed, Wicker, Murray, Collins, Tester, Rogers of Alabama, Smith, Granger, DeLauro, Calvert and McCollum - eleven distinct individuals, because Collins held both Senate appropriations seats. None has made a public statement about what, if anything, was notified to them under section 119.",
+"sources": [
+{
+"date": "2026-08-22",
+"name": "10 U.S.C. 119, Special Access Programs: congressional oversight — subsections (e)(2) and (g) (OLRC prelim text, read 22 August 2026)",
+"url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim"
+},
+{
+"date": "2026-06-12",
+"name": "Archived: DoD FOIA 23-F-0946 - Grusch DOPSR request records (Wayback 2026-06-12)",
+"url": "https://web.archive.org/web/20260612141605/https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/23-F-0946-0958-1317-David_Grusch_DOPSR_Request_09-15-23.pdf"
+},
+{
+"date": null,
+"name": "https://www.govinfo.gov/content/pkg/GPO-CPUB-118spub3/html/GPO-CPUB-118spub3.htm",
+"url": "https://www.govinfo.gov/content/pkg/GPO-CPUB-118spub3/html/GPO-CPUB-118spub3.htm"
+},
+{
+"date": null,
+"name": "https://democrats-appropriations.house.gov/subcommittees/defense-118th-congress",
+"url": "https://democrats-appropriations.house.gov/subcommittees/defense-118th-congress"
+},
+{
+"date": null,
+"name": "https://armedservices.house.gov/news/press-releases/rogers-smith-announce-subcommittee-rosters-118th-congress",
+"url": "https://armedservices.house.gov/news/press-releases/rogers-smith-announce-subcommittee-rosters-118th-congress"
+}
+],
+"tier": "A",
+"type": "investigative"
+},
+{
+"claimTier": 2,
+"cls": "program",
+"dateEnd": null,
+"dateStart": "2023-07-26",
+"direction": "out",
+"edgeLabel": "Grusch's allegation is an allegation about this specific legal category",
+"id": "waived-usap-mechanism",
+"l0": true,
+"label": "Waived Unacknowledged SAP (waived USAP) — the mechanism",
+"note": "Grusch's sworn testimony of 26 July 2023 concerned a multi-decade recovery and reverse-engineering effort concealed from Congress; the waived unacknowledged SAP is the only lawful configuration in which DoD reporting is removed from the committees by design.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "10 U.S.C. 119",
+"url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim"
+},
+{
+"date": "2018-08-31",
+"name": "DoD Directive 5205.07, 1 July 2010, Change 1 31 August 2018",
+"url": "https://web.archive.org/web/20190922210932/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf"
+}
+],
+"tier": "A",
+"type": "witness-chain"
+},
+{
+"claimTier": 3,
+"cls": "document",
+"dateEnd": "2023",
+"dateStart": "2002",
+"direction": "in",
+"edgeLabel": "The 2002 notes and the 2023 sworn testimony describe the same access-denial mechanism",
+"id": "wilson-davis-memo",
+"l0": true,
+"label": "The Wilson-Davis Notes (16 October 2002)",
+"note": "Both describe an appropriately cleared official being refused a read-on by programme security officers and contractor gatekeepers on need-to-know grounds. Twenty-one years apart, two officials describe the same wall.",
+"sources": [
+{
+"date": "2022-08-01",
+"name": "The Debrief, 'Summer of the Saucers' (notes Wilson-Davis Memo raised at the 17 May 2022 House Intelligence UAP hearing)",
+"url": "https://thedebrief.org/summer-of-the-saucers/"
+},
+{
+"date": "2024-03-08",
+"name": "AARO, 'Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP), Volume I' (DOPSR-2024-0263)",
+"url": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF"
+}
+],
+"tier": "A",
+"type": "witness-chain"
+}
+],
+"date": "2023-07-26",
+"dateEnd": null,
+"dateStart": "2023-07-26",
+"deg": 67,
+"denials": [
+{
+"by": {
+"id": "aaro-grusch-interview-memo-2024",
+"label": "AARO Memorandum for Record: Invitations to Interview Mr. David Grusch (8 Jan 2024)"
+},
+"claimTier": 1,
+"denialKind": "directed",
+"label": "AARO concluded Grusch 'had no intention of providing AARO with information'",
+"note": "The office's own file is the primary evidence for the Department's central procedural argument against its most consequential witness; it records no offer of an ICIG or congressional-counsel venue.",
+"of": {
+"id": "david-grusch",
+"label": "David Charles Grusch"
+},
+"sources": [
+{
+"date": "2024-01-08",
+"name": "OSD/WHS FOIA 24-F-0266",
+"url": "https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/24-F-0266_AARO_Invitations_to_Interview_Mr._David_Grusch.pdf"
+},
+{
+"date": "2024-02-01",
+"name": "NewsNation - Whistleblower David Grusch refused to meet with Pentagon UFO office",
+"url": "https://www.newsnationnow.com/space/ufo/grusch-refused-meeting-ufo-office/"
+}
+]
+},
+{
+"by": {
+"id": "aaro-historical-record-vol1",
+"label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+},
+"claimTier": 1,
+"denialKind": "directed",
+"label": "Formal DoD rebuttal: no firsthand knowledge, programs do not exist or were disestablished",
+"note": "Released 8 March 2024, presented by Pentagon Press Secretary Maj. Gen. Pat Ryder. It asserts that none of AARO's interviewees had firsthand knowledge - a claim that does not engage Grusch's sworn statement that firsthand witnesses filed their own protected disclosures with the ICIG, nor Karl Nell's named corroboration.",
+"of": {
+"id": "david-grusch",
+"label": "David Charles Grusch"
+},
+"sources": [
+{
+"date": "2024-03-08",
+"name": "AARO Historical Record Report Volume I",
+"url": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF"
+},
+{
+"date": "2024-03-08",
+"name": "Roll Call - No evidence of extraterrestrial technology, report finds",
+"url": "https://rollcall.com/2024/03/08/no-evidence-of-extraterrestrial-technology-report-finds/"
+},
+{
+"date": "2023-07-26",
+"name": "House Oversight hearing transcript",
+"url": "https://www.congress.gov/118/meeting/house/116282/documents/HHRG-118-GO06-Transcript-20230726.pdf"
+},
+{
+"date": "2024-02-01",
+"name": "AARO Historical Record Report, Volume I",
+"url": "https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf"
+},
+{
+"date": "2024-01-08",
+"name": "AARO Memorandum for Record, FOIA 24-F-0266",
+"url": "https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/24-F-0266_AARO_Invitations_to_Interview_Mr._David_Grusch.pdf"
+}
+]
+},
+{
+"by": {
+"id": "david-grusch",
+"label": "David Charles Grusch"
+},
+"claimTier": 1,
+"denialKind": "directed",
+"label": "Declined nine AARO interview approaches; missed the 14 November 2023 appointment",
+"note": "AARO's own memorandum documents the sequence. Grusch has cited legal and security exposure; AARO makes the non-appearance the centerpiece of its impeachment. Both facts are in the same document.",
+"of": {
+"id": "aaro",
+"label": "All-domain Anomaly Resolution Office (AARO)"
+},
+"sources": [
+{
+"date": "2024-01-08",
+"name": "DoD FOIA 24-F-0266",
+"url": "https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/24-F-0266_AARO_Invitations_to_Interview_Mr._David_Grusch.pdf"
+},
+{
+"date": "2024-01-25",
+"name": "NewsNation - Whistleblower David Grusch refused to meet with Pentagon UFO office",
+"url": "https://www.newsnationnow.com/space/ufo/grusch-refused-meeting-ufo-office/"
+}
+]
+},
+{
+"by": {
+"id": "david-grusch",
+"label": "David Charles Grusch"
+},
+"claimTier": 1,
+"denialKind": "association",
+"label": "The office that must approve any contractor's provision of SAP material to Congress",
+"note": "DoDD 5205.07 (2010) para 4.e requires DoD SAPCO approval before any contractor provides SAP material to a member of Congress - the structural barrier a contractor witness would face.",
+"of": {
+"id": "dod-sapco",
+"label": "DoD Special Access Program Central Office (DoD SAPCO)"
+},
+"sources": [
+{
+"date": "2018-08-31",
+"name": "DoD Directive 5205.07, 1 July 2010, Change 1 31 August 2018",
+"url": "https://web.archive.org/web/20190922210932/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf"
+}
+]
+},
+{
+"by": {
+"id": "dia",
+"label": "Defense Intelligence Agency"
+},
+"claimTier": 2,
+"denialKind": "directed",
+"label": "Accuses DIA of obstructing congressional oversight by withholding documents",
+"note": "Made at the 9 June 2026 Capitol press conference. DIA is the agency that housed AAWSAP and the historical thread most directly implicated in the legacy record; the allegation is specific to document production, not to phenomenon.",
+"of": {
+"id": "david-grusch",
+"label": "David Charles Grusch"
+},
+"sources": [
+{
+"date": "2026-06-10",
+"name": "Fox News - UAP whistleblower David Grusch accuses agencies of hiding billions",
+"url": "https://www.foxnews.com/politics/ufo-whistleblower-claims-billions-secret-spending-hidden-from-congress"
+}
+]
+},
+{
+"by": {
+"id": "dod",
+"label": "United States Department of Defense (secondary designation: Department of War)"
+},
+"claimTier": 2,
+"denialKind": "directed",
+"label": "Clearance removal, denial of promotion and loss of medical retirement following his disclosure",
+"note": "Enumerated by Rep. Crane on the hearing record and in his letter to the Secretary of Defense.",
+"of": {
+"id": "david-grusch",
+"label": "David Charles Grusch"
+},
+"sources": [
+{
+"date": "2025-09-09",
+"name": "U.S. GPO, Hearing transcript, Serial No. 119-44 (CHRG-119hhrg61718)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm"
+}
+]
+},
+{
+"by": {
+"id": "mark-milley",
+"label": "Mark A. Milley"
+},
+"claimTier": 2,
+"denialKind": "directed",
+"label": "Chairman of the Joint Chiefs: no evidence of alien craft or coverup",
+"note": "Stated 6 August 2023. Recorded as an artifact: under 10 U.S.C. 119 the Deputy Secretary may waive congressional reporting for a SAP with only Gang of Eight notification, so a Chairman's non-knowledge is consistent with the program existing and is data about compartmentation.",
+"of": {
+"id": "david-grusch",
+"label": "David Charles Grusch"
+},
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Wikipedia - David Grusch UFO whistleblower claims (denials, with contemporaneous citations)",
+"url": "https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims"
+}
+]
+},
+{
+"by": {
+"id": "nyt-2017-12-16",
+"label": "New York Times, 'Glowing Auras and Black Money: The Pentagon's Mysterious U.F.O. Program'"
+},
+"claimTier": 2,
+"denialKind": "directed",
+"label": "The New York Times did not publish the 2023 Grusch story",
+"note": "The same two authors who wrote the paper's 2017 AATIP revelation took the 2023 crash-retrieval story elsewhere. Recorded as a denial-type edge because the decision not to publish is itself an act by an institution, and one that shaped what the public record looks like.",
+"of": {
+"id": "david-grusch",
+"label": "David Charles Grusch"
+},
+"sources": [
+{
+"date": "2026-08-12",
+"name": "The Debrief - About",
+"url": "https://thedebrief.org/about/"
+},
+{
+"date": "2026-08-12",
+"name": "Wikipedia - Leslie Kean",
+"url": "https://en.wikipedia.org/wiki/Leslie_Kean"
+}
+]
+},
+{
+"by": {
+"id": "sean-kirkpatrick",
+"label": "Sean M. Kirkpatrick"
+},
+"claimTier": 1,
+"denialKind": "directed",
+"label": "'The central source of those allegations has refused to speak with AARO'",
+"note": "Posted by Kirkpatrick after the 26 July 2023 hearing and authenticated by the Pentagon, calling the hearing insulting to DoD and IC officers. Signatory: Sean M. Kirkpatrick, then AARO director. It contradicts nothing Grusch swore to; it substitutes a procedural complaint for a substantive rebuttal.",
+"of": {
+"id": "david-grusch",
+"label": "David Charles Grusch"
+},
+"sources": [
+{
+"date": "2023-07-31",
+"name": "DefenseScoop - UAP hearing sparks clash between Pentagon officials, witnesses",
+"url": "https://defensescoop.com/2023/07/31/uap-hearing-sparks-clash-between-pentagon-officials-witnesses/"
+},
+{
+"date": "2023-07-26",
+"name": "House Oversight hearing transcript, 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency' (CHRG-118hhrg53022)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm"
+}
+]
+},
+{
+"by": {
+"id": "susan-gough",
+"label": "Susan Gough"
+},
+"claimTier": 1,
+"denialKind": "directed",
+"label": "Standing DoD denial: AARO has not discovered any verifiable information",
+"note": "Issued 7 June 2023, two days after The Debrief, and recycled since. Signatory: Susan Gough, DoD spokesperson. Note the boundary of the sentence: it asserts what one office has discovered, not what exists, and is silent on holdings outside AARO's access.",
+"of": {
+"id": "david-grusch",
+"label": "David Charles Grusch"
+},
+"sources": [
+{
+"date": "2023-06-07",
+"name": "Fox News - Pentagon denies secret UFO retrieval program after whistleblower bombshell",
+"url": "https://www.foxnews.com/us/pentagon-denies-secret-ufo-retrieval-program-after-whistleblower-bombshell"
+},
+{
+"date": "2023-06-06",
+"name": "Fox News - Pentagon denies secret UFO retrieval program after whistleblower bombshell",
+"url": "https://www.foxnews.com/us/pentagon-denies-secret-ufo-retrieval-program-after-whistleblower-bombshell.amp"
+}
+]
+}
+],
+"domains": [
+"_rs-archive-mirror",
+"_rs-legislation",
+"congress-senate-legislation",
+"grusch",
+"primes-custody",
+"uaptf-aaro",
+"w2-2025-2026"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "david-grusch",
+"instId": "nro",
+"l0": false,
+"label": "David Charles Grusch",
+"loc": "Washington, DC",
+"locId": "l-dc",
+"members": null,
+"narrative": "Grusch is the hinge of the modern disclosure record: the first person holding a current TS//SCI clearance with CI and lifestyle polygraph and a UAP Task Force billet to state under oath that the United States runs a multi-decade UAP crash-retrieval and reverse-engineering effort concealed from Congress. His resume is documentary, not anecdotal. The House Oversight Committee published his biography: intelligence officer 2009-2023; 21st Operations Group Space Control Intelligence Cell; 3d Space Experimentation Squadron; Chief, Intelligence Integration Division, Space Security and Defense Program 2013-2016; Senior Intelligence Officer at the National Reconnaissance Office 2016-2021 on the Director's briefing staff coordinating the President's Daily Brief; then GS-15 Senior GEOINT Capabilities Requirements Officer at the National Geospatial-Intelligence Agency from November 2021 to April 2023. He was NRO's representative to the UAP Task Force 2019-2021 and NGA's co-lead for UAP and trans-medium object analysis from late 2021 into 2022. He testified that in 2019 the UAP Task Force Director tasked him to identify every special access program and controlled access program needed to satisfy the Task Force's congressionally mandated mission; that he was then informed in the course of official duties of a multi-decade crash-retrieval and reverse-engineering program; and that he was denied the read-ons when he requested them. That denial - a cleared officer legally tasked to inventory SAPs being refused - is the structural fact this board turns on. He disclosed to the DoD Inspector General in July 2021 and filed a PPD-19 urgent-concern complaint with the Intelligence Community Inspector General on 25 May 2022 through counsel Charles McCullough III, the IC's first Inspector General; ICIG found it credible and urgent in July 2022. DoD's own Prepublication and Security Review cleared his statements for open publication on 4 and 6 April 2023 - the Pentagon's security apparatus signed off on the words the Pentagon's press office later called unsubstantiated. He went public through Leslie Kean and Ralph Blumenthal in The Debrief on 5 June 2023, on NewsNation with Ross Coulthart days later, and under oath before House Oversight on 26 July 2023, where he stated he had interviewed over 40 witnesses over four years, that biologics came with some recoveries and were nonhuman, that he has personal knowledge of people harmed in the concealment effort, and that the programs run on misappropriation of funds and contractor IR&D self-funding. He has since suffered documented reprisal - clearance revocation, denied promotion, loss of medical retirement per Rep. Eli Crane's 24 July 2025 letter to DoD - and the FOIA leak of his 2014 and 2018 emergency-custody police records to The Intercept in August 2023, which he litigated and lost. Since 27 March 2025 he has been Special Advisor to Rep. Eric Burlison and a fixture of the House Task Force on the Declassification of Federal Secrets, appearing at the 9 June 2026 Capitol press conference where he alleged slush funds of billions of dollars per annum and said the government is aware of several kinds of non-human intelligence.",
+"photoCredit": null,
+"sequenceChain": [
+{
+"date": "2021-07-01",
+"event": "First protected disclosure of classified UAP concealment information to the DoD Inspector General",
+"isAnomalous": false,
+"source": "House Oversight hearing transcript, 26 July 2023"
+},
+{
+"date": "2022-05-25",
+"event": "PPD-19 urgent-concern complaint filed with the ICIG by counsel Charles McCullough III",
+"isAnomalous": false,
+"source": null
+},
+{
+"date": "2022-07-01",
+"event": "ICIG finds the complaint credible and urgent",
+"isAnomalous": false,
+"source": null
+},
+{
+"date": "2023-04-04",
+"event": "DOPSR clears first submission for open publication",
+"isAnomalous": false,
+"source": "DoD FOIA case 23-F-0946 release, OSD/JS Executive Services Directorate reading room; analysis by The Black Vault"
+},
+{
+"date": "2023-06-05",
+"event": "The Debrief publishes Kean and Blumenthal's account of his allegations",
+"isAnomalous": false,
+"source": "Kean and Blumenthal, The Debrief, 5 June 2023"
+},
+{
+"date": "2023-07-26",
+"event": "Testifies under oath before the House Oversight Committee",
+"isAnomalous": false,
+"source": "CHRG-118hhrg53022 CONTENTS; docs.house.gov EventID 116282"
+},
+{
+"date": "2023-08-09",
+"event": "The Intercept publishes his 2014 and 2018 police and psychiatric records obtained by FOIA from Loudoun County",
+"isAnomalous": true,
+"source": null
+},
+{
+"date": "2025-07-24",
+"event": "Rep. Eli Crane writes DoD on his behalf citing clearance removal, denied promotion, lost medical retirement",
+"isAnomalous": true,
+"source": "Rep. Eli Crane, letter to the Department of Defense dated 24 July 2025, entered into the record of the 9 September 2025 Task Force hearing"
+},
+{
+"date": "2026-06-09",
+"event": "Speaks at a Capitol-steps press conference organised with Rep. Luna; describes a continuum of alleged non-human life and references four species",
+"isAnomalous": false,
+"source": "Grusch at the Capitol press conference hosted by the House Task Force on the Declassification of Federal Secrets, 9 June 2026; Fox News, 10 June 2026"
+}
+],
+"short": "David Charles Grusch",
+"sources": [
+{
+"date": "2024-12-13",
+"name": "American Alchemy with Jesse Michels, 'CIA Scientist: George Bush Was Briefed on UFOs (ft. Eric Davis)' (episode audio)",
+"url": "https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/TOE7341687364.mp3?updated=1752173868"
+},
+{
+"date": "2026-06-12",
+"name": "Archived: DoD FOIA 23-F-0946 - Grusch DOPSR request records (Wayback 2026-06-12)",
+"url": "https://web.archive.org/web/20260612141605/https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/23-F-0946-0958-1317-David_Grusch_DOPSR_Request_09-15-23.pdf"
+},
+{
+"date": "2026-06-12",
+"name": "Archived: AARO Memorandum for Record - Invitations to Interview Mr. David Grusch (FOIA 24-F-0266) (Wayback 2026-06-12)",
+"url": "https://web.archive.org/web/20260612141626/https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/24-F-0266_AARO_Invitations_to_Interview_Mr._David_Grusch.pdf"
+},
+{
+"date": "2023-07-26",
+"name": "CHRG-118hhrg53022, printed hearing transcript, 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency', Serial No. 118-53",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/pdf/CHRG-118hhrg53022.pdf"
+},
+{
+"date": "2023-07-26",
+"name": "docs.house.gov meeting repository, House Oversight Subcommittee on National Security, the Border, and Foreign Affairs, Event 116282 (26 July 2023) - witness statements, Truth in Testimony forms, official transcript",
+"url": "https://docs.house.gov/Committee/Calendar/ByEvent.aspx?EventID=116282"
+},
+{
+"date": "2023-09-08",
+"name": "Official hearing transcript PDF, HHRG-118-GO06-Transcript-20230726.pdf (docs.house.gov)",
+"url": "https://docs.house.gov/meetings/GO/GO06/20230726/116282/HHRG-118-GO06-Transcript-20230726.pdf"
+},
+{
+"date": "2023-07-27",
+"name": "S. 2226 (Engrossed in Senate), Division G definitions — GPO",
+"url": "https://www.govinfo.gov/content/pkg/BILLS-118s2226es/html/BILLS-118s2226es.htm"
+},
+{
+"date": "2023-07-13",
+"name": "Congressional Record, 13 July 2023 — text of S.Amdt. 797",
+"url": "https://www.govinfo.gov/content/pkg/CREC-2023-07-13/html/CREC-2023-07-13-pt1-PgS2953.htm"
+},
+{
+"date": "2023-07-26",
+"name": "House Oversight Committee - witness biography of David C. Grusch",
+"url": "https://docs.house.gov/meetings/GO/GO06/20230726/116282/HHRG-118-GO06-Bio-GruschD-20230726.pdf"
+},
+{
+"date": "2023-07-26",
+"name": "House Oversight hearing transcript, Serial No. 118-53",
+"url": "https://www.congress.gov/118/meeting/house/116282/documents/HHRG-118-GO06-Transcript-20230726.pdf"
+},
+{
+"date": "2023-07-26",
+"name": "Grusch opening statement as submitted (House Oversight)",
+"url": "https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf"
+},
+{
+"date": "2023-06-05",
+"name": "The Debrief - Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin",
+"url": "https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/"
+},
+{
+"date": "2023-06-11",
+"name": "NewsNation - Military whistleblower claims US has UFO retrieval program",
+"url": "https://www.newsnationnow.com/space/military-whistleblowe-us-ufo-retrieval-program/"
+},
+{
+"date": "2023-09-15",
+"name": "DoD FOIA 23-F-0946 - Grusch DOPSR request records",
+"url": "https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/23-F-0946-0958-1317-David_Grusch_DOPSR_Request_09-15-23.pdf"
+},
+{
+"date": "2025-03-27",
+"name": "Rep. Burlison - Burlison Welcomes Former US Air Force Officer David Grusch as Special Advisor",
+"url": "https://burlison.house.gov/media/press-releases/rep-burlison-welcomes-former-us-air-force-officer-david-grusch-special-advisor"
+},
+{
+"date": "2025-09-09",
+"name": "Task Force on the Declassification of Federal Secrets hearing record, Serial No. 119-44",
+"url": "https://www.congress.gov/119/chrg/CHRG-119hhrg61718/CHRG-119hhrg61718.pdf"
+},
+{
+"date": "2026-06-10",
+"name": "Fox News - UAP whistleblower David Grusch accuses agencies of hiding billions",
+"url": "https://www.foxnews.com/politics/ufo-whistleblower-claims-billions-secret-spending-hidden-from-congress"
+},
+{
+"date": "2026-05-05",
+"name": "Judicial Watch - UAP Whistleblower David Grusch on Non-human Biologics and Craft",
+"url": "https://www.judicialwatch.org/videos/uap-whistleblower-david-grusch-on-non-human-biologics-craft/"
+},
+{
+"date": "2023-07-26",
+"name": "House Oversight hearing transcript, 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency' (CHRG-118hhrg53022)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm"
+},
+{
+"date": "2024-01-01",
+"name": "10 U.S.C. Sec. 119, Special access programs: congressional oversight",
+"url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim"
+},
+{
+"date": "2024-01-08",
+"name": "AARO Memorandum for Record - Invitations to Interview Mr. David Grusch (FOIA 24-F-0266)",
+"url": "https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/24-F-0266_AARO_Invitations_to_Interview_Mr._David_Grusch.pdf"
+},
+{
+"date": "2024-02-01",
+"name": "The Black Vault - FOIA documents reveal AARO's authorized and repeated attempts to engage with David Grusch",
+"url": "https://www.theblackvault.com/documentarchive/foia-documents-reveal-aaros-authorized-and-repeated-attempts-to-engage-with-david-grusch/"
+},
+{
+"date": "2024-02-01",
+"name": "NewsNation - Whistleblower David Grusch refused to meet with Pentagon UFO office",
+"url": "https://www.newsnationnow.com/space/ufo/grusch-refused-meeting-ufo-office/"
+},
+{
+"date": "2023-07-26",
+"name": "House Oversight - Unidentified Anomalous Phenomena: Implications on National Security, Public Safety and Government Transparency (hearing)",
+"url": "https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/"
+},
+{
+"date": "2026-08-12",
+"name": "Wikipedia, David Grusch (citing NewsNation, 9 June 2026)",
+"url": "https://en.wikipedia.org/wiki/David_Grusch"
+},
+{
+"date": "2026-08-12",
+"name": "Rep. Eric Burlison press releases",
+"url": "https://burlison.house.gov/media/press-releases"
+}
+],
+"status": "active",
+"sub": "Former NGA/NRO officer; ICIG complainant; the proximate cause of the UAPDA",
+"tier": "A",
+"tierRationale": "Re-graded A on a global pass (rank 1 of 1027, score 208). 80 connections, 39 of them custody/witness/funding/programmatic, 10 official denials recorded against it. Axes C2/A3/D3.",
+"timeline": [
+{
+"date": "2019-01-01",
+"id": "g-tl-2019-denial",
+"label": "Read-on request denied",
+"precision": "ranged",
+"strand": "coverup",
+"text": "Grusch testifies he was informed in the course of official duties of a multi-decade UAP crash retrieval and reverse engineering program and was denied the additional read-ons when he requested them. No official account has ever explained the denial or its authority.",
+"tier": "A"
+},
+{
+"date": "2019-01-01",
+"id": "g-tl-2019-taskforce",
+"label": "Grusch joins UAPTF; tasked to inventory SAPs",
+"precision": "year",
+"strand": "program",
+"text": "As NRO's representative to the UAP Task Force, Grusch is asked by the Task Force Director to identify all special access programs and controlled access programs needed to satisfy the Task Force's congressionally mandated mission. He is, in his sworn words, cleared to literally all relevant compartments.",
+"tier": "A"
+},
+{
+"date": "2021-11-01",
+"id": "g-tl-2021-11-nga",
+"label": "Grusch becomes NGA co-lead for UAP analysis",
+"precision": "month",
+"strand": "program",
+"text": "Joins NGA as a GS-15 Senior GEOINT Capabilities Requirements Officer and becomes the agency's co-lead for UAP and trans-medium object analysis, reporting to the UAPTF and later to AARO. Reviewing overhead collection of such events is one of his primary tasks.",
+"tier": "A"
+},
+{
+"date": "2023-04-07",
+"id": "g-tl-2023-04-departure",
+"label": "Grusch leaves federal service",
+"precision": "day",
+"strand": "witness",
+"text": "He departs NGA and the government to pursue accountability through public disclosure, his information cutoff date for anything he can attest to from inside.",
+"tier": "A"
+},
+{
+"date": "2023-07-26",
+"id": "ch-2023-07-26c",
+"label": "Non-human biologics, under oath",
+"precision": "day",
+"strand": "witness",
+"text": "Answering Mace, Grusch testifies that biologics came with some recoveries and that they were assessed non-human by people with direct knowledge still on the program.",
+"tier": "A"
+},
+{
+"date": "2023-07-26",
+"id": "cl-2023-07-26",
+"label": "House Oversight hearing",
+"precision": "day",
+"strand": "witness",
+"text": "Grusch testifies under oath, thirteen days after the amendment premised on his allegations is filed.",
+"tier": "A"
+},
+{
+"date": "2023-07-26",
+"id": "tl-hoc-2023-07-26",
+"label": "Grusch testifies under oath",
+"precision": "day",
+"strand": "witness",
+"text": "House Oversight hearing at which Grusch testifies that the UAP Task Force Director tasked him to inventory relevant SAPs and that the read-ons were refused.",
+"tier": "A"
+},
+{
+"date": "2026-05-05",
+"id": "g-tl-2026-05-judicialwatch",
+"label": "Judicial Watch On Watch interview",
+"precision": "day",
+"strand": "witness",
+"text": "Grusch restates to Chris Farrell that elements of the US government thwarted congressional oversight, withheld information from proper executive branch officials, and illegally concealed recovery and reverse-engineering programs.",
+"tier": "B"
+},
+{
+"date": "2026-06-09",
+"id": "tl-ffrdc-2026-grusch-presser",
+"label": "Grusch joins Task Force members on UAP declassification",
+"precision": "day",
+"strand": "oversight",
+"text": "David Grusch appears with bipartisan members of the House Oversight Task Force on the Declassification of Federal Secrets, arguing agencies continue to resist congressional efforts and that spending has been hidden.",
+"tier": "B"
+},
+{
+"date": "2026-06-09",
+"id": "tl-grusch-presser",
+"label": "Grusch speaks on the Capitol steps at a Luna press conference",
+"precision": "day",
+"strand": "witness",
+"text": "David Grusch tells reporters the government is aware of 'several' kinds of alien life, describing 'a continuum from corporeal bipedal type life to what I would consider as sentient plasmoid life,' and references four different species. It is his most specific public claim about biology.",
+"tier": "2"
+}
+],
+"unexplainedResidual": "A GS-15 with PDB-level access was formally tasked to enumerate all SAPs and CAPs bearing on a congressionally mandated mission - and was refused. No official account has ever explained what he was refused access to, or under whose authority the refusal was issued.",
+"unverified": [
+"The name of the multi-decade program he was denied read-on to has never been placed on the public record.",
+"The cooperative and hostile witness list of specific individuals he offered Rep. Mace after the 26 July 2023 hearing has never been made public.",
+"His statement that he has personal knowledge of people harmed, and his deflection on murder, remain untested outside classified channels.",
+"Whether any of the roughly 40 witnesses have been deposed by any committee, in open or closed session.",
+"The specific contractors Grusch identified to the Inspectors General and in closed session.",
+"The dollar scale of the alleged IR&D diversion.",
+"Whether AARO ever offered a venue with ICIG or congressional counsel present.",
+"The direct NewsNation URL for the 9 June 2026 report (cited here via the Wikipedia footnote).",
+"Whether Grusch has himself used the NDA-waiver channel established by ODNI ES 2026-00818."
+]
+}

@@ -1,0 +1,165 @@
+{
+"A": 2,
+"C": 2,
+"D": 1,
+"band": null,
+"claims": [
+{
+"source": "AFOSI FOIA release archived by NICAP",
+"text": "AFOSI documented sightings at Kirtland AFB between 8 August and 3 September 1980 on a complaint form dated 9 September 1980 filed by Special Agent Richard C. Doty, District File No. 8017D93-0/29.",
+"tier": 1
+},
+{
+"source": "AFOSI FOIA release archived by NICAP",
+"text": "Named observers were SSgt Stephen Ferenz (area supervisor), ATC Martin W. Rist and AMN Anthony D. Frazier of the 1608 Security Police Squadron, reporting at approximately 23:50 on 8 August 1980.",
+"tier": 1
+},
+{
+"source": "AFOSI FOIA release archived by NICAP",
+"text": "A Sandia security guard reported a round disc-shaped object near an alarmed structure at approximately 00:20 on 9 August 1980; his radio malfunctioned during the encounter.",
+"tier": 1
+}
+],
+"cls": "event",
+"cluster": "legacy",
+"connections": [
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "1983",
+"dateStart": "1980",
+"direction": "in",
+"edgeLabel": "AFOSI investigated the 1980 intrusions at the nuclear weapons storage area",
+"id": "afosi",
+"l0": true,
+"label": "Air Force Office of Special Investigations",
+"note": "The intrusions occurred at the Manzano Weapons Storage Area adjacent to Sandia National Laboratories; AFOSI ran the investigation and simultaneously ran the Bennewitz operation.",
+"sources": [
+{
+"date": "2021-05-20",
+"name": "Richard Doty Personnel File - New Mexico State Police [321 pages]",
+"url": "https://www.theblackvault.com/documentarchive/richard-doty-personnel-file-new-mexico-state-police/"
+},
+{
+"date": "2026-08-12",
+"name": "NICAP - 1980 Kirtland AFB, NM FOIA document files",
+"url": "https://www.nicap.org/foia_003.htm"
+}
+],
+"tier": "B",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "location",
+"dateEnd": "1980",
+"dateStart": "1980",
+"direction": "out",
+"edgeLabel": "Occurred at the Manzano Weapons Storage Area and Coyote Canyon",
+"id": "l-kirtland",
+"l0": false,
+"label": "Kirtland Air Force Base and Albuquerque, New Mexico",
+"note": "Manzano is a nuclear weapons storage area on the Kirtland footprint shared with Sandia National Laboratories.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "NICAP - Kirtland AFB FOIA files",
+"url": "https://www.nicap.org/foia_003.htm"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "1980",
+"direction": "in",
+"edgeLabel": "Filed the AFOSI complaint form documenting the incident",
+"id": "richard-doty",
+"l0": false,
+"label": "Richard C. Doty",
+"note": "Complaint form dated 9 September 1980, District File No. 8017D93-0/29, 'alleged sighting of unidentified aerial lights in restricted test range'.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "NICAP - Kirtland AFB FOIA files",
+"url": "https://www.nicap.org/foia_003.htm"
+}
+],
+"tier": "B",
+"type": "custody"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "1980",
+"dateStart": "1980",
+"direction": "out",
+"edgeLabel": "A Sandia security guard is a named reporting party in the AFOSI file",
+"id": "sandia",
+"l0": true,
+"label": "Sandia National Laboratories",
+"note": "A Sandia guard reported a round disc-shaped object near an alarmed structure at approximately 00:20 on 9 August 1980, with radio malfunction.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "NICAP - Kirtland AFB FOIA files",
+"url": "https://www.nicap.org/foia_003.htm"
+}
+],
+"tier": "A",
+"type": "witness-chain"
+}
+],
+"coords": null,
+"dateEnd": "1980",
+"dateStart": "1980",
+"deg": 4,
+"denials": [],
+"desc": "On the night of 8 August 1980 three members of the 1608th Security Police Squadron at Kirtland Air Force Base - SSgt Stephen Ferenz, ATC Martin W. Rist and AMN Anthony D. Frazier - watched a very bright light approximately three miles north-north-east of their position perform stop-and-go manoeuvres inconsistent with a helicopter, descend into Coyote Canyon, and later depart straight up at high speed. Shortly after midnight a Sandia Laboratories security guard reported a round disc-shaped object near an alarmed structure, with his radio failing during the encounter. A further incident was recorded on 13 August. AFOSI Special Agent Richard C. Doty documented the reports on a complaint form dated 9 September 1980 under District File No. 8017D93-0/29, describing the 'alleged sighting of unidentified aerial lights in restricted test range'. Manzano is a nuclear weapons storage area. The case matters here because of who is in the file: an Air Force counterintelligence agent, a nuclear storage site security detachment, and a Department of Energy contractor laboratory's own guard force. Within a year the same AFOSI office was running material at Paul Bennewitz. The Kirtland file is where the anomalous-object record, the nuclear weapons complex and the disinformation apparatus visibly overlap.",
+"domains": [
+"ffrdcs"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "1",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "kirtland-manzano-1980",
+"l0": false,
+"label": "Kirtland AFB / Manzano Weapons Storage Area incident",
+"locLabel": null,
+"members": null,
+"short": "Kirtland AFB / Manzano Weapons Storage Area incident",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "NICAP - 1980 Kirtland AFB, NM FOIA document files",
+"url": "https://www.nicap.org/foia_003.htm"
+},
+{
+"date": "2026-08-12",
+"name": "UFO Evidence - Kirtland Air Force Base 1980 UFO Landing",
+"url": "http://www.ufoevidence.org/cases/case218.htm"
+}
+],
+"sub": "8-9 August 1980, Coyote Canyon and Manzano, Kirtland AFB, New Mexico",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 339 of 1027, score 35). 4 connections, 2 of them custody/witness/funding/programmatic. Axes C2/A2/D1.",
+"timeline": [
+{
+"date": "1980-08-08",
+"id": "tl-ffrdc-1980-kirtland",
+"label": "Kirtland AFB / Manzano incident",
+"precision": "day",
+"strand": "witness",
+"text": "Three 1608 SPS airmen watch an object make stop-and-go manoeuvres near the Manzano restricted test range, descend into Coyote Canyon and depart vertically at high speed; a Sandia security guard reports a disc near an alarmed structure hours later.",
+"tier": "A"
+}
+]
+}

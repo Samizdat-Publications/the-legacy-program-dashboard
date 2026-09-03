@@ -1,0 +1,116 @@
+{
+"A": 1,
+"C": 2,
+"D": 3,
+"band": null,
+"claims": [
+{
+"source": "CIA U-2/OXCART history, released 25 June 2013; Wikipedia, Area 51 — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"text": "Lockheed's Skunk Works at Burbank produced the U-2, A-12, HAVE BLUE and F-117, all of which were tested at Groom Lake rather than at Edwards or Palmdale because of programme secrecy.",
+"tier": 2
+},
+{
+"source": "George Knapp, written testimony, House Oversight Task Force, 9 September 2025",
+"text": "Bigelow negotiated with a senior Lockheed executive to acquire unusual material safeguarded in California; analysis found no unknown elements but a composition suggesting fabrication in zero gravity; the agreement was never completed.",
+"tier": 2
+},
+{
+"source": "Army FOIA response to John Greenewald / The Black Vault",
+"text": "The Army withheld twenty-nine emails totalling a hundred pages of GVSC/TTSA correspondence in full in response to a Black Vault FOIA request filed from Los Angeles.",
+"tier": 1
+}
+],
+"cls": "location",
+"cluster": "media",
+"connections": [
+{
+"claimTier": 2,
+"cls": "institution",
+"dateEnd": "2025-09-09",
+"dateStart": "2009",
+"direction": "in",
+"edgeLabel": "The most-repeated custody allegation names Lockheed and California",
+"id": "lockheed-martin",
+"l0": true,
+"label": "Lockheed Martin Corporation",
+"note": "Knapp testified that Bigelow negotiated with a senior Lockheed executive for unusual material safeguarded in California; analysis found no unknown elements but a composition suggesting fabrication in zero gravity. The agreement was never completed.",
+"sources": [
+{
+"date": "2025-09-09",
+"name": "George Knapp written testimony (PDF)",
+"url": "https://oversight.house.gov/wp-content/uploads/2025/09/George-Knapp-Written-Testimony.pdf"
+}
+],
+"tier": "A",
+"type": "custody"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "1996",
+"direction": "in",
+"edgeLabel": "The Black Vault runs the private FOIA archive from Los Angeles",
+"id": "the-black-vault",
+"l0": false,
+"label": "The Black Vault",
+"note": "John Greenewald Jr.'s requests produced the GVSC/TTSA correspondence denial and much of the released AARO record.",
+"sources": [
+{
+"date": "2019-10-18",
+"name": "The Black Vault - Army/TTSA CRADA and FOIA records",
+"url": "https://www.theblackvault.com/documentarchive/u-s-army-releases-crada-with-to-the-stars-academy-of-arts-science/"
+},
+{
+"date": "2026-08-25",
+"name": "CRADA between CCDC Ground Vehicle Systems Center and To The Stars Academy, CRADA No. 19-15 (released PDF)",
+"url": "https://documents2.theblackvault.com/documents/army/TTSA-ARMY-CRADA.pdf"
+}
+],
+"tier": "C",
+"type": "investigative"
+}
+],
+"coords": [
+34.0522,
+-118.2437
+],
+"dateEnd": null,
+"dateStart": "1943",
+"deg": 2,
+"denials": [],
+"desc": "Los Angeles County holds two entirely different strands of this board and they should not be confused. The first is industrial: Lockheed's Advanced Development Projects - the Skunk Works - was at Burbank until it moved to Palmdale in 1990, and it is the corporate origin of the U-2, the A-12, HAVE BLUE and the F-117, all of which were tested at Groom Lake precisely because they could not be tested at Edwards or Palmdale. Lockheed is also the company named in the most-repeated custody allegation in the field: George Knapp testified in September 2025 that Bigelow negotiated with a senior Lockheed executive to obtain unusual material safeguarded in California, that analysis found no unknown elements but a composition suggesting fabrication in zero gravity, and that the agreement was never completed. The second strand is documentary and archival: John Greenewald Jr. runs The Black Vault from Los Angeles and has been the single most productive private FOIA requester in this subject for three decades, holding the Army/TTSA CRADA correspondence denials, the AARO products and much of the release record; Jeremy Corbell, Jesse Michels, Bryce Zabel and Dan Farah produce here; and Burbank is where William L. Moore and Jaime Shandera received the MJ-12 documents in 1984. Los Angeles is thus simultaneously the birthplace of the aircraft that provided the cover stories and the base of the archive that keeps trying to get behind them.",
+"domains": [
+"w2-places-events"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "l-la",
+"l0": false,
+"label": "Los Angeles and Burbank, California",
+"locLabel": "Los Angeles, California, USA",
+"members": null,
+"short": "Los Angeles and Burbank, California",
+"sources": [
+{
+"date": "2025-09-09",
+"name": "George Knapp written testimony (PDF)",
+"url": "https://oversight.house.gov/wp-content/uploads/2025/09/George-Knapp-Written-Testimony.pdf"
+},
+{
+"date": "2026-08-12",
+"name": "The Black Vault",
+"url": "https://www.theblackvault.com/"
+}
+],
+"sub": "Los Angeles County; Lockheed Skunk Works (Burbank), The Black Vault, documentary and podcast production base",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 509 of 1027, score 29). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A1/D3.",
+"timeline": []
+}

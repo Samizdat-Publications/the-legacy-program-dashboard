@@ -1,0 +1,274 @@
+{
+"A": 2,
+"C": 3,
+"D": 1,
+"band": null,
+"claims": [
+{
+"source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237660/",
+"text": "USD(I) memorandum to DEPSECDEF: 'The sole bid for the contract was from Bigelow Aerospace Advance Space Studies located in Las Vegas, NV.'",
+"tier": 1
+},
+{
+"source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237626/",
+"text": "DIA Info Memo U-10-2552: 'DIA awarded a contract to the Bigelow Aerospace Advanced Space Studies LLC (BAASS), the only bid, headquartered in North Las Vegas, Nevada.'",
+"tier": 1
+},
+{
+"source": "NASA BEAM program records, 2016",
+"text": "Bigelow Aerospace holds a NASA relationship including the Bigelow Expandable Activity Module attached to the ISS in 2016, establishing it as a genuine aerospace prime rather than a study contractor.",
+"tier": 1
+},
+{
+"source": "DIA contract HHM402-08-C-0072 awardee block",
+"text": "The AAWSAP contract was held by the separately registered Bigelow Aerospace Advanced Space Studies, LLC, not by Bigelow Aerospace itself.",
+"tier": 2
+},
+{
+"source": "Inference from the distinct DUNS and CAGE codes on the DIA award",
+"text": "Maintaining BAASS as a distinct LLC from the ISS-contracting parent indicates deliberate corporate separation of the intelligence work from the NASA-facing business.",
+"tier": 3
+},
+{
+"source": "AARO, Historical Record Report Volume I, March 2024",
+"text": "AAWSAP/AATIP was 'funded through a special appropriation and executed by its primary contractor, a private sector organization'; the contractor team conducted UAP and paranormal research at a property owned by that organisation.",
+"tier": 1
+},
+{
+"source": "George Knapp, sworn testimony, 9 September 2025",
+"text": "BAASS was to receive 'a quantity of unusual material that had been stashed away and protected at a facility in California.'",
+"tier": 2
+},
+{
+"source": "Luis Elizondo, sworn testimony, 13 November 2024",
+"text": "The divestment of 1950s-collected material to Bigelow Aerospace 'was blocked'; a required Secretary of the Air Force memorandum never issued.",
+"tier": 2
+}
+],
+"cls": "institution",
+"cluster": "other",
+"connections": [
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "2012",
+"dateStart": "2007",
+"direction": "in",
+"edgeLabel": "separately registered LLC under the Bigelow umbrella",
+"id": "baass",
+"l0": true,
+"label": "Bigelow Aerospace Advanced Space Studies (BAASS), LLC",
+"note": "BAASS holds its own DUNS and CAGE codes distinct from Bigelow Aerospace, isolating the intelligence contract from the NASA-facing business.",
+"sources": [
+{
+"date": "2022-10-13",
+"name": "DIA AAWSAP contract (FOIA-00349-2018)",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP/FOIA-00349-2018.pdf"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "BAASS LLC, North Las Vegas NV",
+"id": "baass",
+"l0": true,
+"label": "Bigelow Aerospace Advanced Space Studies (BAASS), LLC",
+"note": "The contract vehicle is the link. Contract modification P00001, effective 2 September 2009 to contract HHM402-08-C-0072, names the contractor as Bigelow Aerospace Advanced Space Studies, and the USD(I) memorandum to the Deputy Secretary records that 'the sole bid for the contract was from Bigelow Aerospace Advance Space Studies located in Las Vegas'. The institutional edge on this pair records the separate DUNS and CAGE codes; this one records that the DIA money went to the subsidiary.",
+"sources": [
+{
+"date": "2009-09-02",
+"name": "Amendment of Solicitation/Modification of Contract P00001 to HHM402-08-C-0072, Bigelow Aerospace Advanced Space Studies LLC (DIA FOIA release)",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237652/"
+},
+{
+"date": "2009",
+"name": "DIA briefing 'Aerospace Contract Status — Performance by Bigelow Aerospace Advanced Space Studies (BAASS)' (DIA FOIA release)",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237642/"
+}
+],
+"tier": "A",
+"type": "programmatic"
+},
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": "2012",
+"dateStart": "2011",
+"direction": "in",
+"edgeLabel": "KONA BLUE was proposed by AAWSAP's contractor team after DIA cancelled the program",
+"id": "kona-blue",
+"l0": true,
+"label": "KONA BLUE",
+"note": "AARO records that when DIA cancelled AAWSAP/AATIP its supporters proposed a new version to DHS under a special access program, with lines of effort closely mirroring those the private sector organisation had conducted.",
+"sources": [
+{
+"date": "2024-03-08",
+"name": "AARO, 'Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP), Volume I'",
+"url": "https://documents2.theblackvault.com/documents/dod/AARO_Historical_Record_Report_Volume_1_2024.pdf"
+},
+{
+"date": "2024-06-01",
+"name": "The Black Vault, 'DoD Releases KONA BLUE Documents'",
+"url": "https://www.theblackvault.com/documentarchive/dod-releases-kona-blue-documents/"
+}
+],
+"tier": "A",
+"type": "programmatic"
+},
+{
+"claimTier": 2,
+"cls": "institution",
+"dateEnd": "2010",
+"dateStart": "2009",
+"direction": "in",
+"edgeLabel": "Alleged negotiated transfer of non-terrestrial material from a Lockheed California facility to BAASS",
+"id": "lockheed-martin",
+"l0": true,
+"label": "Lockheed Martin Corporation",
+"note": "George Knapp testified under oath on 9 September 2025 that Robert Bigelow and an AAWSAP colleague negotiated with senior Lockheed Martin executives for material 'stashed away and protected at a facility in California' that 'was not made here.' Luis Elizondo confirmed to the House on 13 November 2024 that the transfer was blocked.",
+"sources": [
+{
+"date": "2025-09-09",
+"name": "House Oversight Task Force on the Declassification of Federal Secrets hearing transcript, 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection' (CHRG-119hhrg61718, Serial No. 119-44)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm"
+},
+{
+"date": "2024-11-13",
+"name": "House Oversight hearing transcript, 'Unidentified Anomalous Phenomena: Exposing the Truth' (CHRG-118hhrg57440)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm"
+}
+],
+"tier": "A",
+"type": "custody"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2024",
+"dateStart": "2024",
+"direction": "in",
+"edgeLabel": "Elizondo identified Bigelow Aerospace as the intended recipient of the divested material",
+"id": "luis-elizondo",
+"l0": false,
+"label": "Luis D. Elizondo",
+"note": "Asked by Rep. Burlison 'That is the Bigelow Aerospace, correct?', Elizondo answered 'Yes, sir.' He described later conversations with contract personnel who told him the account was accurate.",
+"sources": [
+{
+"date": "2024-11-13",
+"name": "House Oversight hearing transcript, 'Unidentified Anomalous Phenomena: Exposing the Truth' (CHRG-118hhrg57440)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm"
+}
+],
+"tier": "A",
+"type": "programmatic"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "1999",
+"deg": 4,
+"denials": [],
+"desc": "Bigelow Aerospace Advanced Space Studies was the prime contractor executing the Defense Intelligence Agency's AAWSAP program from 2008, funded by a special appropriation obtained through Senator Harry Reid. AARO's own report concedes that the contractor team, with at least one supportive government program manager, conducted UAP and paranormal research at a property owned by the private sector organisation, and that when DIA cancelled the effort its advocates proposed KONA BLUE to DHS - a program whose explicit purpose was to 'reverse-engineer any recovered off-world spacecraft that they hoped to acquire.' BAASS is the pivot of the custody allegation because it is the entity to which material was allegedly to move. George Knapp testified under oath in 2025 that Bigelow and an AAWSAP colleague negotiated with senior Lockheed Martin executives for material held at a California facility; Luis Elizondo testified in 2024 that an aerospace contractor sought to divest itself of material collected in the 1950s, that the transfer required a Secretary of the Air Force memorandum that never came, and that the transfer was blocked. AARO records, without names, an allegation that an organisation possessed off-world material in 2009-2010 and that a former senior CIA official quashed the proposal to remove it from the corporation. USAspending records roughly $30 million in federal prime obligations to Bigelow Aerospace LLC since FY2008.",
+"domains": [
+"_rs-aawsap-dirds",
+"_rs-archive-mirror",
+"aawsap-aatip",
+"primes-custody"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "1",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "bigelow-aerospace",
+"l0": false,
+"label": "Bigelow Aerospace",
+"locLabel": null,
+"members": null,
+"short": "Bigelow Aerospace",
+"sources": [
+{
+"date": "2009",
+"name": "USD(I) Memorandum for the Deputy Secretary of Defense, 'Senator Harry Reid's Request to Put the Advanced Aerospace Threat and Identification Program (AAITP) under Special Access Protection' (DIA FOIA release)",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237660/"
+},
+{
+"date": "2009-09-02",
+"name": "Amendment of Solicitation/Modification of Contract P00001 to HHM402-08-C-0072, Bigelow Aerospace Advanced Space Studies LLC (DIA FOIA release)",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237652/"
+},
+{
+"date": "2010",
+"name": "DIA Info Memo U-10-2552 to USD(AT&L), 'Advanced Aerospace Threat and Identification Program' (DIA FOIA release)",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237626/"
+},
+{
+"date": "2026-04-11",
+"name": "Archived: USD(I) Memorandum for the Deputy Secretary of Defense, 'Senator Harry Reid's Request to Put the Advanced Aerospace Threat and Identification Program (AAITP) under Special Access Protection' (DIA FOIA release) (Wayback 2026-04-11)",
+"url": "https://web.archive.org/web/20260411145317/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170015/"
+},
+{
+"date": "2025-05-15",
+"name": "Archived: Amendment of Solicitation/Modification of Contract P00001 to HHM402-08-C-0072, Bigelow Aerospace Advanced Space Studies LLC (DIA FOIA release) (Wayback 2025-05-15)",
+"url": "https://web.archive.org/web/20250515030045/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170017/"
+},
+{
+"date": "2025-03-17",
+"name": "Archived: DIA Info Memo U-10-2552 to USD(AT&L), 'Advanced Aerospace Threat and Identification Program' (DIA FOIA release) (Wayback 2025-03-17)",
+"url": "https://web.archive.org/web/20250317081516/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170059/"
+},
+{
+"date": "2022-10-13",
+"name": "DIA AAWSAP contract (FOIA-00349-2018)",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP/FOIA-00349-2018.pdf"
+},
+{
+"date": "2017-05-30",
+"name": "Space.com — Aliens Have Visited Earth, Robert Bigelow Believes",
+"url": "https://www.space.com/37062-aliens-have-visited-earth-robert-bigelow-says.html"
+},
+{
+"date": "2024-03-08",
+"name": "AARO, 'Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP), Volume I'",
+"url": "https://documents2.theblackvault.com/documents/dod/AARO_Historical_Record_Report_Volume_1_2024.pdf"
+},
+{
+"date": "2025-09-09",
+"name": "House Oversight Task Force on the Declassification of Federal Secrets hearing transcript, 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection' (CHRG-119hhrg61718, Serial No. 119-44)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm"
+},
+{
+"date": "2024-11-13",
+"name": "House Oversight hearing transcript, 'Unidentified Anomalous Phenomena: Exposing the Truth' (CHRG-118hhrg57440)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm"
+},
+{
+"date": "2026-08-12",
+"name": "USAspending.gov federal award search (prime contract obligations by recipient)",
+"url": "https://www.usaspending.gov/search"
+}
+],
+"sub": "contractor",
+"tier": "A",
+"tierRationale": "Re-graded A on a global pass (rank 122 of 1027, score 56). 5 connections, 4 of them custody/witness/funding/programmatic. Axes C3/A2/D1.",
+"timeline": [
+{
+"date": "2008-01-01",
+"id": "pc-2008-aawsap",
+"label": "DIA money flows to a private contractor",
+"precision": "year",
+"strand": "program",
+"text": "Bigelow Aerospace Advanced Space Studies wins the DIA AAWSAP contract on a special appropriation obtained through Sen. Harry Reid. Government-funded UAP research moves onto private premises.",
+"tier": "A"
+}
+]
+}

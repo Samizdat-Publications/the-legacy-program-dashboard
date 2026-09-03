@@ -1,0 +1,145 @@
+{
+"A": 3,
+"C": 3,
+"D": 1,
+"affiliations": [
+"dod",
+"dod-sapco"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "2024-09-12",
+"event": "DoDD 5205.07 reissued, confirming DoD SAPCO under the authority, direction and control of the Deputy Secretary of Defense",
+"precision": "day"
+},
+{
+"date": "2025",
+"event": "Confirmed as Deputy Secretary of Defense",
+"precision": "year"
+}
+],
+"claims": [
+{
+"source": "war.gov About page, retrieved 12 August 2026",
+"text": "The Department lists Steve Feinberg as Deputy Secretary of Defense under Secretary Pete Hegseth.",
+"tier": 1
+},
+{
+"source": "DoD Directive 5205.07, 12 September 2024",
+"text": "DoDD 5205.07 places DoD SAPCO under the authority, direction and control of the Deputy Secretary of Defense, with the SAPCO Director reporting directly to that office.",
+"tier": 1
+},
+{
+"source": "Inference from DoDD 5205.07",
+"text": "The Deputy Secretary of Defense is the lowest-ranking official who can answer, from position alone, whether any waived unacknowledged SAP relates to UAP. Reasoning: DoDD 5205.07 gives the office unmediated visibility of the full SAP portfolio.",
+"tier": 3
+}
+],
+"cls": "person",
+"cluster": "other",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "Deputy Secretary of Defense",
+"id": "dod",
+"l0": true,
+"label": "United States Department of Defense (secondary designation: Department of War)",
+"note": "The Senate voted 59-40 on 14 March 2025 to confirm Stephen A. Feinberg as Deputy Secretary of Defense, the department's number-two official and the office that has historically signed the memoranda standing up DoD UAP bodies. No sourced UAP, AARO or PURSUE role for Feinberg personally was found.",
+"sources": [
+{
+"date": "2026-08-10",
+"name": "Archived: Department of War (Department of Defense) - About (Wayback 2026-08-10)",
+"url": "https://web.archive.org/web/20260810202005/https://www.war.gov/About/"
+},
+{
+"date": "2026-05-18",
+"name": "Archived: DoD Directive 5205.07, Special Access Program (SAP) Policy (Wayback 2026-05-18)",
+"url": "https://web.archive.org/web/20260518065512/https://www.esd.whs.mil/portals/54/documents/dd/issuances/dodd/520507p.pdf"
+},
+{
+"date": null,
+"name": "https://defensescoop.com/2025/03/14/stephen-feinberg-deputy-secretary-defense-senate-confirmed-trump/",
+"url": "https://defensescoop.com/2025/03/14/stephen-feinberg-deputy-secretary-defense-senate-confirmed-trump/"
+},
+{
+"date": null,
+"name": "https://www.armed-services.senate.gov/hearings/to-consider-the-nomination-of-mr-stephen-a-feinberg-to-be-deputy-secretary-of-defense",
+"url": "https://www.armed-services.senate.gov/hearings/to-consider-the-nomination-of-mr-stephen-a-feinberg-to-be-deputy-secretary-of-defense"
+}
+],
+"tier": "A",
+"type": "institutional"
+}
+],
+"date": "2025-01-01",
+"dateEnd": null,
+"dateStart": "2025-01-01",
+"deg": 1,
+"denials": [],
+"domains": [
+"_rs-archive-mirror",
+"w2-agencies"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "steve-feinberg",
+"instId": "dod",
+"l0": false,
+"label": "Stephen A. Feinberg",
+"loc": "The Pentagon, Arlington, Virginia",
+"locId": "l-pentagon",
+"members": null,
+"narrative": "Steve Feinberg is listed on the Department's own site as Deputy Secretary of Defense alongside Secretary Pete Hegseth, and that single organisational fact makes him the most structurally important living official on this board. DoD Directive 5205.07, reissued 12 September 2024, places the DoD Special Access Program Central Office 'under the authority, direction, and control of the Deputy Secretary of Defense', with the SAPCO Director reporting directly to him. The Deputy Secretary is therefore the officer who sees the whole DoD special access program portfolio, including any unacknowledged or waived compartment, without needing anyone's permission. The office has form on this specific question: it was the Deputy Secretary of Defense who in 2009 received the packet resolving Senator Harry Reid's request for restricted special access program status for the DIA advanced aerospace effort; it was the Deputy Secretary of Defense who on 4 August 2020 established the Unidentified Aerial Phenomena Task Force under Navy lead; and, at DHS, it was the Deputy Secretary who disapproved and terminated KONA BLUE. Feinberg, a private-equity founder confirmed into the post in 2025, has made no public statement on UAP and has not appeared before any UAP hearing. He is the one official who could answer the central question of this board - whether any waived unacknowledged special access program relates to UAP - from personal knowledge and without consulting anyone.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Stephen A. Feinberg",
+"sources": [
+{
+"date": "2026-08-10",
+"name": "Archived: Department of War (Department of Defense) - About (Wayback 2026-08-10)",
+"url": "https://web.archive.org/web/20260810202005/https://www.war.gov/About/"
+},
+{
+"date": "2026-05-18",
+"name": "Archived: DoD Directive 5205.07, Special Access Program (SAP) Policy (Wayback 2026-05-18)",
+"url": "https://web.archive.org/web/20260518065512/https://www.esd.whs.mil/portals/54/documents/dd/issuances/dodd/520507p.pdf"
+},
+{
+"date": "2026-08-12",
+"name": "Department of War (Department of Defense) - About",
+"url": "https://www.war.gov/About/"
+},
+{
+"date": "2024-09-12",
+"name": "DoD Directive 5205.07, Special Access Program (SAP) Policy",
+"url": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf"
+},
+{
+"date": "2024-01-01",
+"name": "10 U.S.C. 119, Special access programs: congressional oversight",
+"url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim"
+}
+],
+"status": "active",
+"sub": "Deputy Secretary of Defense",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 428 of 1027, score 31). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C3/A3/D1.",
+"timeline": [],
+"unexplainedResidual": null,
+"unverified": [
+"Whether Feinberg has been briefed on any UAP-related special access program since taking office; no such briefing has been confirmed or denied."
+]
+}

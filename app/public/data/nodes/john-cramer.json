@@ -1,0 +1,118 @@
+{
+"A": 0,
+"C": 0,
+"D": 1,
+"affiliations": [],
+"age": null,
+"band": null,
+"chronology": [],
+"claims": [
+{
+"source": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"text": "The DIA letter of 9 January 2018 lists item 25 as \"Space_Communication Implications of Quantum Entanglement and Nonlocality, Dr J Cramer, Univ of Washington.\"",
+"tier": 2
+},
+{
+"source": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html",
+"text": "The KLAS-TV list of the same thirty-eight DIRDs, published 25 July 2018 by George Knapp and Matt Adams and confirmed genuine by Luis Elizondo, gives the same document as \"Quantum Entanglement Communication, Dr J Cramer, Univ of Washington.\"",
+"tier": 2
+},
+{
+"source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_16-DIRD_The_Space_Communication_Implications_of_Quantum_Entanglement_and_Nonlocality.pdf",
+"text": "The released DIRD is dated 30 March 2010, carries an Intelligence Cut-Off Date of 1 December 2009 and the document number DIA-08-1003-016, and sits in the Acquisition Threat Support series. The author line on the cover page is redacted under (b)(6).",
+"tier": 1
+}
+],
+"cls": "person",
+"cluster": "research",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "author of record on the DIA list",
+"id": "dird-the-space-communication-implications-of-quantum",
+"l0": false,
+"label": "The Space-Communication Implications of Quantum Entanglement and Nonlocality",
+"note": "DIA list item 25: \"Space_Communication Implications of Quantum Entanglement and Nonlocality, Dr J Cramer, Univ of Washington.\" A mainstream university physicist, not a programme insider.",
+"sources": [
+{
+"date": "2026-08-22",
+"name": "Released DIRD, 'The Space-Communication Implications of Quantum Entanglement and Nonlo' — FOIA copy, cover page read 22 August 2026",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_16-DIRD_The_Space_Communication_Implications_of_Quantum_Entanglement_and_Nonlocality.pdf"
+},
+{
+"date": "2026-08-22",
+"name": "DIA FOIA Electronic Reading Room entry for this reference document",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237623/"
+},
+{
+"date": "2026-08-23",
+"name": "DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations",
+"url": "https://fas.org/publication/aatip-list/"
+},
+{
+"date": null,
+"name": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html",
+"url": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html"
+},
+{
+"date": null,
+"name": "https://irp.fas.org/dia/aatip-list.pdf",
+"url": "https://irp.fas.org/dia/aatip-list.pdf"
+}
+],
+"tier": "C",
+"type": "research"
+}
+],
+"date": "2010-01-01",
+"dateEnd": null,
+"dateStart": "2010-01-01",
+"deg": 1,
+"denials": [],
+"domains": [
+"w7-dirds-4"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "2",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "john-cramer",
+"instId": null,
+"l0": false,
+"label": "John G. Cramer",
+"loc": null,
+"locId": null,
+"members": null,
+"narrative": "The DIA list credits \"Space-Communication Implications of Quantum Entanglement and Nonlocality\" to Dr J Cramer, University of Washington. Cramer is a mainstream experimental nuclear physicist at the University of Washington who is known outside his field for the transactional interpretation of quantum mechanics, an advanced-and-retarded-wave reading of the quantum formalism that he has developed since the 1980s, and for a long-running attempt to test whether nonlocal correlations could be made to carry a signal.\n\nThat is exactly the question AAWSAP bought. The DIRD, DIA-08-1003-016, is dated 30 March 2010 with an Intelligence Cut-Off Date of 1 December 2009, in the Acquisition Threat Support series. The KLAS-TV version of the list titles it \"Quantum Entanglement Communication,\" which states the tasking plainly: could entanglement be used as a communications channel, and if so what would that mean for space communication. The orthodox answer is that it cannot, because the no-communication theorem forbids it, and a defence warning office commissioning a survey on the point from the physicist most publicly associated with probing that boundary is a legible act rather than a strange one.\n\nCramer is the cleanest example in this batch of an AAWSAP author with an entirely conventional academic standing and no involvement in the UAP question before or after. He holds no documented special access, has no proximity to any custody claim, and has not to date been drawn into the disclosure argument that the DIRDs became the paper trail for. His node exists to hold the document to a real person and to record that the quantum-communications strand of AAWSAP was contracted to a named university physicist rather than to the programme's inner circle of consultants.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "John G. Cramer",
+"sources": [
+{
+"date": "2019-01-17",
+"name": "Keith Basterfield, \"Back to those 38 Defense Intelligence Reference Documents (DIRDs)\" — verbatim transcription of the DIA letter of 9 January 2018",
+"url": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html"
+},
+{
+"date": "2010-03-30",
+"name": "Defense Intelligence Reference Document, \"The Space-Communication Implications of Quantum Entanglement and Nonlocality\" (The Black Vault FOIA release)",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_16-DIRD_The_Space_Communication_Implications_of_Quantum_Entanglement_and_Nonlocality.pdf"
+}
+],
+"status": "active",
+"sub": "Professor Emeritus of Physics, University of Washington; author of the transactional interpretation of quantum mechanics",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 982 of 1027, score 10). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D1.",
+"timeline": [],
+"unexplainedResidual": null,
+"unverified": []
+}

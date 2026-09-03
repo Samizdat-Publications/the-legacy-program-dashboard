@@ -1,0 +1,223 @@
+{
+"A": 3,
+"C": 1,
+"D": 2,
+"band": null,
+"claims": [
+{
+"source": "Condon Report, Section V Chapter 2, 'UFOs 1947-1968' (University of Colorado, USAF contract 44620-67-C-0035, 1968)",
+"text": "'Staff members prepared a classified Estimate of the Situation in July 1948 asserting UFOs were interplanetary vehicles. Air Force Chief of Staff Gen. Vandenberg rejected it for lacking proof, and copies were destroyed.'",
+"tier": 1
+},
+{
+"source": "Ruppelt, 'The Report on Unidentified Flying Objects', 1956",
+"text": "Ruppelt first published the existence, content and destruction of the Estimate in 1956 based on his tenure as Blue Book director.",
+"tier": 2
+},
+{
+"source": "Congressional and Air Force statements catalogued in the secondary literature on Project SIGN",
+"text": "Air Force representatives and Rep. L. Mendel Rivers have asserted that no such Estimate ever existed.",
+"tier": 2
+},
+{
+"source": "Inference from the conflict between Condon Sec. V Ch. 2 and later official denials",
+"text": "A government-contracted official report and official denials cannot both be correct; the contracted report was written with access to Air Force files and the denials were made publicly, which favours the report.",
+"tier": 3
+}
+],
+"cls": "document",
+"cluster": "legacy",
+"connections": [
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": "1968",
+"dateStart": "1968",
+"direction": "in",
+"edgeLabel": "The Condon Report is the primary documentary record of the Estimate's destruction",
+"id": "condon-committee",
+"l0": true,
+"label": "University of Colorado UFO Project (Condon Committee)",
+"note": "Section V Chapter 2 records the estimate's preparation, Vandenberg's rejection and the destruction of copies — the Air Force paying to put its own suppression on the record.",
+"sources": [
+{
+"date": "1968-11-01",
+"name": "Condon Report Sec. V Ch. 2",
+"url": "https://files.ncas.org/condon/text/s5chap02.htm"
+}
+],
+"tier": "A",
+"type": "investigative"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "1956",
+"dateStart": "1956",
+"direction": "in",
+"edgeLabel": "Ruppelt is the origin of public knowledge of the Estimate",
+"id": "edward-ruppelt",
+"l0": false,
+"label": "Edward J. Ruppelt",
+"note": "As a serving Blue Book director with access to the files, Ruppelt published the Estimate's existence and destruction in 1956; the Condon Report corroborated him twelve years later.",
+"sources": [
+{
+"date": "1956-01-01",
+"name": "Ruppelt, The Report on Unidentified Flying Objects",
+"url": "https://www.gutenberg.org/ebooks/17346"
+},
+{
+"date": "1968-11-01",
+"name": "Condon Report Sec. V Ch. 2",
+"url": "https://files.ncas.org/condon/text/s5chap02.htm"
+}
+],
+"tier": "B",
+"type": "witness-chain"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "1948",
+"dateStart": "1948",
+"direction": "in",
+"edgeLabel": "Vandenberg rejected the Estimate and ordered copies destroyed",
+"id": "hoyt-vandenberg",
+"l0": false,
+"label": "Hoyt S. Vandenberg",
+"note": "The Air Force Chief of Staff rejected the interplanetary conclusion for lacking proof and had the document destroyed — the earliest documented destruction of an adverse UAP record, attested in the Air Force's own contracted study.",
+"sources": [
+{
+"date": "1968-11-01",
+"name": "Condon Report Sec. V Ch. 2",
+"url": "https://files.ncas.org/condon/text/s5chap02.htm"
+},
+{
+"date": "1956-01-01",
+"name": "Ruppelt, The Report on Unidentified Flying Objects",
+"url": "https://www.gutenberg.org/ebooks/17346"
+}
+],
+"tier": "C",
+"type": "denial"
+},
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": "1949",
+"dateStart": "1948",
+"direction": "out",
+"edgeLabel": "Destruction of the Estimate preceded GRUDGE's dismissive posture by six months",
+"id": "project-grudge",
+"l0": false,
+"label": "Project GRUDGE",
+"note": "SIGN became GRUDGE on 11 February 1949, months after the Estimate was destroyed, and GRUDGE's founding conclusions ran directly counter to it.",
+"sources": [
+{
+"date": "1968-11-01",
+"name": "Condon Report Sec. V Ch. 2",
+"url": "https://files.ncas.org/condon/text/s5chap02.htm"
+}
+],
+"tier": "C",
+"type": "temporal"
+},
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": "1948",
+"dateStart": "1948",
+"direction": "in",
+"edgeLabel": "SIGN staff produced the 1948 Estimate",
+"id": "project-sign",
+"l0": false,
+"label": "Project SIGN",
+"note": "Project SIGN personnel wrote a Top Secret estimate concluding the objects were interplanetary. The Condon Report, written under Air Force contract, records that it was prepared.",
+"sources": [
+{
+"date": "1968-11-01",
+"name": "Condon Report Sec. V Ch. 2",
+"url": "https://files.ncas.org/condon/text/s5chap02.htm"
+}
+],
+"tier": "B",
+"type": "programmatic"
+}
+],
+"coords": null,
+"dateEnd": "1948",
+"dateStart": "1948",
+"deg": 5,
+"denials": [
+{
+"by": {
+"id": "hoyt-vandenberg",
+"label": "Hoyt S. Vandenberg"
+},
+"claimTier": 1,
+"denialKind": "directed",
+"label": "Vandenberg rejected the Estimate and ordered copies destroyed",
+"note": "The Air Force Chief of Staff rejected the interplanetary conclusion for lacking proof and had the document destroyed — the earliest documented destruction of an adverse UAP record, attested in the Air Force's own contracted study.",
+"of": {
+"id": "estimate-of-the-situation",
+"label": "Estimate of the Situation (1948)"
+},
+"sources": [
+{
+"date": "1968-11-01",
+"name": "Condon Report Sec. V Ch. 2",
+"url": "https://files.ncas.org/condon/text/s5chap02.htm"
+},
+{
+"date": "1956-01-01",
+"name": "Ruppelt, The Report on Unidentified Flying Objects",
+"url": "https://www.gutenberg.org/ebooks/17346"
+}
+]
+}
+],
+"desc": "In mid-1948 the Project SIGN staff at Wright Field completed a Top Secret document, in the standard military 'estimate of the situation' format, concluding that the objects under investigation were interplanetary in origin. It went up the chain to Air Force Chief of Staff Gen. Hoyt Vandenberg, who rejected it on the grounds that it lacked proof and directed that copies be destroyed. No copy has ever surfaced. This board treats the Estimate as the single most consequential missing document of the twentieth century on this subject, and its status is stronger than folklore: the Condon Report — commissioned and paid for by the Air Force under contract 44620-67-C-0035 — states in Section V Chapter 2 that the estimate was prepared, that Vandenberg rejected it, and that copies were destroyed. Edward Ruppelt, the first Blue Book director, published the same account in 1956 from personal knowledge. Against this, Air Force spokesmen and members of Congress have at times asserted no such estimate ever existed. The conflict is itself the datum: the government's own contracted history records a document the government elsewhere denies. It also establishes, twenty years before the Bolender memo and forty-seven before the GAO records finding, that destruction was the standard disposition for adverse conclusions.",
+"domains": [
+"history-1940s-1960s"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "estimate-of-the-situation",
+"l0": false,
+"label": "Estimate of the Situation (1948)",
+"locLabel": null,
+"members": null,
+"short": "Estimate of the Situation (1948)",
+"sources": [
+{
+"date": "1968-11-01",
+"name": "Condon Report, Sec. V Ch. 2 — UFOs 1947-1968",
+"url": "https://files.ncas.org/condon/text/s5chap02.htm"
+},
+{
+"date": "1956-01-01",
+"name": "Ruppelt, The Report on Unidentified Flying Objects (full text)",
+"url": "https://www.gutenberg.org/ebooks/17346"
+}
+],
+"sub": "Top Secret Project SIGN assessment; destroyed",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 246 of 1027, score 40). 5 connections, 2 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D2.",
+"timeline": [
+{
+"date": "1948-07-01",
+"id": "tl-1948-07",
+"label": "Estimate of the Situation written and destroyed",
+"precision": "month",
+"strand": "coverup",
+"text": "Project SIGN staff conclude the objects are interplanetary. Air Force Chief of Staff Gen. Hoyt Vandenberg rejects the estimate for lacking proof and orders copies destroyed. The Condon Report records this twenty years later.",
+"tier": "A"
+}
+]
+}

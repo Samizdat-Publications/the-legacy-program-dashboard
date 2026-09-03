@@ -1,0 +1,128 @@
+{
+"A": 2,
+"C": 2,
+"D": 3,
+"band": null,
+"claims": [
+{
+"source": "DIA solicitation HHM402-08-R-0211, v.3, released via The Black Vault",
+"text": "Solicitation number HHM402-08-R-0211, posted 18 August 2008 by DIA Virginia Contracting Activity (ZD50), contracting officer Jennifer Sylvestre, Government Project Leader Dr. James T. Lacatski.",
+"tier": 1
+},
+{
+"source": "HHM402-08-R-0211 statement of work",
+"text": "'The objective of this program is to understand the physics and engineering of these applications as they apply to the foreign threat out to the far term, i.e., from now through the year 2050.'",
+"tier": 1
+},
+{
+"source": "HHM402-08-R-0211 statement of work",
+"text": "The statement of work specifies eleven technical areas including 'spatial/temporal translation', 'signature reduction', 'human interface' and 'human effects'.",
+"tier": 1
+},
+{
+"source": "Inference from the statement of work language",
+"text": "'Spatial/temporal translation' as a required study area is not a category any conventional foreign-threat assessment would contain; its presence in a public federal solicitation indicates the requirement was written around observed phenomena rather than adversary capability.",
+"tier": 3
+}
+],
+"cls": "document",
+"cluster": "legacy",
+"connections": [
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "2008",
+"dateStart": "2008",
+"direction": "out",
+"edgeLabel": "solicitation HHM402-08-R-0211 led to award HHM402-08-C-0072",
+"id": "aawsap-contract",
+"l0": false,
+"label": "DIA Contract HHM402-08-C-0072 (BAASS)",
+"note": "Posted 18 August 2008, awarded 22 September 2008 — a five-week competition on an eleven-topic statement of work reaching to 2050.",
+"sources": [
+{
+"date": "2022-10-13",
+"name": "DIA AAWSAP contract (FOIA-00349-2018)",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP/FOIA-00349-2018.pdf"
+}
+],
+"tier": "A",
+"type": "programmatic"
+},
+{
+"claimTier": 3,
+"cls": "institution",
+"dateEnd": "2008",
+"dateStart": "2008",
+"direction": "out",
+"edgeLabel": "requirement written to a capability only BAASS held",
+"id": "baass",
+"l0": true,
+"label": "Bigelow Aerospace Advanced Space Studies (BAASS), LLC",
+"note": "An eleven-topic statement of work including spatial/temporal translation, human interface and human effects, competed for five weeks, awarded to the one firm with a decade of exactly that field practice.",
+"sources": [
+{
+"date": "2008-08-18",
+"name": "The Black Vault — AAWSAP Original Bid Solicitation",
+"url": "https://www.theblackvault.com/documentarchive/advanced-aerospace-weapon-systems-applications-program-aawsap-original-bid-solicitation/"
+}
+],
+"tier": "A",
+"type": "behavioral"
+}
+],
+"coords": null,
+"dateEnd": "2008",
+"dateStart": "2008",
+"deg": 2,
+"denials": [],
+"desc": "The solicitation is the founding public document of the funded lineage and the only place in the entire record where DIA names the program manager without redaction. Posted 18 August 2008 by the DIA Virginia Contracting Activity (ZD50) in Washington DC, with contracting officer Jennifer Sylvestre at (202) 231-1246 and 'Government Project Leader: Dr. James T. Lacatski', it solicited advanced aerospace weapon systems technical studies across eleven areas — lift, propulsion, control, power generation, spatial/temporal translation, materials, configuration and structure, signature reduction across multiple spectra, human interface, human effects, and armament — under the stated objective 'to understand the physics and engineering of these applications as they apply to the foreign threat out to the far term, i.e., from now through the year 2050.' It contemplated a firm fixed price award with a base year plus four one-year options running to 30 September 2013. The document was posted openly on FedBizOpps, which is why it survived: everything downstream of it was later redacted under 10 USC 424, but this was published to the world before anyone thought to.",
+"domains": [
+"aawsap-aatip"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "2",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "aawsap-solicitation",
+"l0": false,
+"label": "DIA Solicitation HHM402-08-R-0211",
+"locLabel": null,
+"members": null,
+"short": "DIA Solicitation HHM402-08-R-0211",
+"sources": [
+{
+"date": "2008-08-18",
+"name": "The Black Vault — AAWSAP Original Bid Solicitation",
+"url": "https://www.theblackvault.com/documentarchive/advanced-aerospace-weapon-systems-applications-program-aawsap-original-bid-solicitation/"
+},
+{
+"date": "2008-08-18",
+"name": "AAWSAP solicitation full text (v.3)",
+"url": "https://documents2.theblackvault.com/documents/dia/HHM402-08-R-0211v3.pdf"
+},
+{
+"date": "2008-08-22",
+"name": "AAWSAP Statement of Work (SOW_Aerospace.pdf)",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP/SOW_Aerospace.pdf"
+}
+],
+"sub": "Public bid notice and statement of work, 18 August 2008",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 334 of 1027, score 35). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A2/D3.",
+"timeline": [
+{
+"date": "2008-08-18",
+"id": "tl-2008-solicit",
+"label": "DIA posts solicitation HHM402-08-R-0211",
+"precision": "day",
+"strand": "program",
+"text": "The DIA Virginia Contracting Activity publicly solicits advanced aerospace weapon system studies across eleven areas out to 2050, naming Dr. James T. Lacatski as Government Project Leader.",
+"tier": "A"
+}
+]
+}

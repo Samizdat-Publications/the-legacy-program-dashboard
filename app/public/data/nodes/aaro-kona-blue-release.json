@@ -1,0 +1,134 @@
+{
+"A": 3,
+"C": 1,
+"D": 2,
+"band": null,
+"claims": [
+{
+"source": "AARO UAP Records page, accessed 12 August 2026",
+"text": "AARO's UAP Records page hosts a DHS KONA BLUE information release describing a proposed but never-approved programme concerning 'non-human biologics'.",
+"tier": 1
+},
+{
+"source": "AARO Historical Record Report Volume I",
+"text": "Volume I concluded that no extraterrestrial craft or bodies were ever collected and that the material 'was only assumed to exist by KONA BLUE advocates.'",
+"tier": 1
+},
+{
+"source": "Inference from AARO's published UAP Records holdings against Volume I's own concessions",
+"text": "AARO has published a dedicated documentary package for a programme that was rejected and none for the IC controlled access programme it concedes was expanded in 2021 to a UAP reverse-engineering mission, which is a selection pattern rather than a records-availability pattern.",
+"tier": 3
+}
+],
+"cls": "document",
+"cluster": "other",
+"connections": [
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2024",
+"direction": "in",
+"edgeLabel": "A dedicated documentary package for a rejected programme",
+"id": "aaro",
+"l0": true,
+"label": "All-domain Anomaly Resolution Office (AARO)",
+"note": "AARO assembled and published a full KONA BLUE release while publishing no comparable package for the IC controlled access programme Volume I concedes was expanded in 2021 to a UAP reverse-engineering mission.",
+"sources": [
+{
+"date": "2024-06-01",
+"name": "AARO/DHS - History and Origin of KONA BLUE",
+"url": "https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/History_and_Origin_of_KONA_BLUE_FINAL_508.pdf"
+},
+{
+"date": "2024-03-08",
+"name": "AARO Historical Record Report Volume I (DOPSR-2024-0263)",
+"url": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2024-06",
+"direction": "in",
+"edgeLabel": "DHS co-authored the 2024 declassified KONA BLUE history",
+"id": "dhs",
+"l0": false,
+"label": "United States Department of Homeland Security",
+"note": "The paper 'History and Origin of KONA BLUE' is published on AARO's UAP Records page as a joint AARO/DHS product.",
+"sources": [
+{
+"date": "2024-06-01",
+"name": "AARO/DHS, 'History and Origin of KONA BLUE'",
+"url": "https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/History_and_Origin_of_KONA_BLUE_FINAL_508.pdf"
+}
+],
+"tier": "A",
+"type": "custody"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "2024",
+"deg": 2,
+"denials": [],
+"desc": "A dedicated AARO release, hosted on its UAP Records page, on KONA BLUE - the prospective special access programme proposed to the Department of Homeland Security and never approved, whose lines of effort mirrored AAWSAP and AATIP and which contemplated the handling of 'non-human biologics.' Volume I had already disclosed KONA BLUE in narrative form and concluded that no extraterrestrial craft or bodies were ever collected and that the material 'was only assumed to exist by KONA BLUE advocates.' The dedicated release is worth recording as a release-behaviour datum rather than a revelation: it shows the office will assemble and publish a documentary package quickly when the package supports the conclusion that a programme was proposed and rejected. No comparable documentary package has been published for any programme AARO concedes did exist - including the intelligence community controlled access programme Volume I says was expanded in 2021 to include a UAP reverse-engineering mission and later disestablished.",
+"domains": [
+"_rs-archive-mirror",
+"releases-2023-2026"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "aaro-kona-blue-release",
+"l0": false,
+"label": "AARO/DHS release: History and Origin of KONA BLUE",
+"locLabel": null,
+"members": null,
+"short": "AARO/DHS release: History and Origin of KONA BLUE",
+"sources": [
+{
+"date": "2026-05-08",
+"name": "Archived: AARO/DHS - History and Origin of KONA BLUE (Wayback 2026-05-08)",
+"url": "https://web.archive.org/web/20260508180256/https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/History_and_Origin_of_KONA_BLUE_FINAL_508.pdf"
+},
+{
+"date": "2026-07-14",
+"name": "Archived: AARO - UAP Records page (Wayback 2026-07-14)",
+"url": "https://web.archive.org/web/20260714192654/https://www.aaro.mil/UAP-Records/"
+},
+{
+"date": "2026-07-05",
+"name": "Archived: AARO Historical Record Report Volume I (DOPSR-2024-0263) (Wayback 2026-07-05)",
+"url": "https://web.archive.org/web/20260705034310/https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF"
+},
+{
+"date": "2024-06-01",
+"name": "AARO/DHS - History and Origin of KONA BLUE",
+"url": "https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/History_and_Origin_of_KONA_BLUE_FINAL_508.pdf"
+},
+{
+"date": "2026-08-12",
+"name": "AARO - UAP Records page",
+"url": "https://www.aaro.mil/UAP-Records/"
+},
+{
+"date": "2024-03-08",
+"name": "AARO Historical Record Report Volume I (DOPSR-2024-0263)",
+"url": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF"
+}
+],
+"sub": "AARO UAP Records research release on the never-approved DHS SAP",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 495 of 1027, score 29). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A3/D2.",
+"timeline": []
+}

@@ -1,0 +1,193 @@
+{
+"A": 2,
+"C": 0,
+"D": 3,
+"band": null,
+"claims": [
+{
+"source": "DoD OIG, DODIG-2023-109",
+"text": "DODIG-2023-109, 'Evaluation of the DoD's Actions Regarding Unidentified Anomalous Phenomena', was issued 15 August 2023 with the objective of evaluating 'how the DoD, military services, defense agencies, and military department counterintelligence organizations took intelligence, counterintelligence, and force protection actions to detect, report, collect, analyze, and identify UAP'.",
+"tier": 1
+},
+{
+"source": "DoD OIG report page and press release",
+"text": "The full DODIG-2023-109 report is classified; the OIG released only an unclassified summary, and issued a press release on 25 January 2024.",
+"tier": 1
+},
+{
+"source": "Inference from the classification status of DODIG-2023-109",
+"text": "A classified evaluation whose scope cannot be verified publicly cannot discharge the oversight function it appears to discharge; DODIG-2023-109 functions in the public record as an assurance rather than as evidence. Reasoning: the findings, the components reviewed and the SAP access obtained are all withheld.",
+"tier": 3
+}
+],
+"cls": "institution",
+"cluster": "other",
+"connections": [
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "1982",
+"direction": "in",
+"edgeLabel": "Statutory internal oversight body within the Department",
+"id": "dod",
+"l0": true,
+"label": "United States Department of Defense (secondary designation: Department of War)",
+"note": "The DoD OIG is the Department's independent inspector general and the author of DODIG-2023-109, the only formal evaluation of the Department's UAP conduct.",
+"sources": [
+{
+"date": "2023-08-15",
+"name": "DoD OIG, DODIG-2023-109",
+"url": "https://www.dodig.mil/Reports/Audits-and-Evaluations/Article/3496071/evaluation-of-the-dods-actions-regarding-unidentified-anomalous-phenomena-dodig/"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": "2023-08-15",
+"direction": "out",
+"edgeLabel": "DoD OIG issued the only formal audit of the Department's UAP conduct",
+"id": "dodig-2023-109",
+"l0": false,
+"label": "DoD OIG - Evaluation of the DoD's Actions Regarding Unidentified Anomalous Phenomena (DODIG-2023-109)",
+"note": "The evaluation examined 'how the DoD, military services, defense agencies, and military department counterintelligence organizations took intelligence, counterintelligence, and force protection actions to detect, report, collect, analyze, and identify UAP'. The full report is classified.",
+"sources": [
+{
+"date": "2023-08-15",
+"name": "DoD OIG, DODIG-2023-109",
+"url": "https://www.dodig.mil/Reports/Audits-and-Evaluations/Article/3496071/evaluation-of-the-dods-actions-regarding-unidentified-anomalous-phenomena-dodig/"
+}
+],
+"tier": "A",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": "2015-06-18",
+"direction": "out",
+"edgeLabel": "SAP fraud and abuse complaints must not use collateral reporting channels",
+"id": "dodm-5205-07-v1",
+"l0": false,
+"label": "DoDM 5205.07 Volume 1 — DoD SAP Security Manual: General Procedures",
+"note": "DoDM 5205.07-V1 Enclosure 4 para 3.a: SAP FWAC reporting 'will be accomplished through SAP channels. Collateral FWAC reporting channels must not be used for SAP information.'",
+"sources": [
+{
+"date": "2018-02-12",
+"name": "DoD Manual 5205.07 Volume 1, 18 June 2015, Change 1 12 February 2018",
+"url": "https://web.archive.org/web/20191018064106/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol1.pdf"
+}
+],
+"tier": "A",
+"type": "denial"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "2021-05",
+"direction": "in",
+"edgeLabel": "Elizondo complaint to the DoD Inspector General, May 2021",
+"id": "luis-elizondo",
+"l0": false,
+"label": "Luis D. Elizondo",
+"note": "Elizondo submitted a complaint to the DoD OIG alleging reprisal and improper handling; the OIG is the same body whose UAP evaluation remains classified.",
+"sources": [
+{
+"date": "2023-08-15",
+"name": "DoD OIG, DODIG-2023-109",
+"url": "https://www.dodig.mil/Reports/Audits-and-Evaluations/Article/3496071/evaluation-of-the-dods-actions-regarding-unidentified-anomalous-phenomena-dodig/"
+}
+],
+"tier": "A",
+"type": "witness-chain"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "1982",
+"deg": 4,
+"denials": [
+{
+"by": {
+"id": "dod-oig",
+"label": "Department of Defense Office of Inspector General"
+},
+"claimTier": 1,
+"denialKind": "association",
+"label": "SAP fraud and abuse complaints must not use collateral reporting channels",
+"note": "DoDM 5205.07-V1 Enclosure 4 para 3.a: SAP FWAC reporting 'will be accomplished through SAP channels. Collateral FWAC reporting channels must not be used for SAP information.'",
+"of": {
+"id": "dodm-5205-07-v1",
+"label": "DoDM 5205.07 Volume 1 — DoD SAP Security Manual: General Procedures"
+},
+"sources": [
+{
+"date": "2018-02-12",
+"name": "DoD Manual 5205.07 Volume 1, 18 June 2015, Change 1 12 February 2018",
+"url": "https://web.archive.org/web/20191018064106/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol1.pdf"
+}
+]
+}
+],
+"desc": "The DoD Office of Inspector General is the Department's statutory internal watchdog, created by the Inspector General Act, and it is the body that produced the only formal audit of the Department's UAP conduct. On 15 August 2023 - three weeks after David Grusch's testimony - the DoD OIG issued DODIG-2023-109, 'Evaluation of the DoD's Actions Regarding Unidentified Anomalous Phenomena', whose stated objective was to determine 'how the DoD, military services, defense agencies, and military department counterintelligence organizations took intelligence, counterintelligence, and force protection actions to detect, report, collect, analyze, and identify UAP'. The report itself is classified; only an unclassified summary was released, and the OIG issued a press release on 25 January 2024. The OIG is also the office to which Luis Elizondo submitted a complaint in May 2021 alleging reprisal and mishandling. The structural point for this board is that DoD OIG is subject to the same access architecture as everyone else: an inspector general who is not read into a waived unacknowledged special access program cannot audit it, and DODIG-2023-109's classified status means the public cannot determine whether the audit reached the SAP enterprise at all.",
+"domains": [
+"_rs-archive-mirror",
+"w2-agencies"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "1",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "dod-oig",
+"l0": false,
+"label": "Department of Defense Office of Inspector General",
+"locLabel": null,
+"members": null,
+"short": "Department of Defense Office of Inspector General",
+"sources": [
+{
+"date": "2025-12-08",
+"name": "Archived: DoD OIG, Evaluation of the DoD's Actions Regarding UAP (DODIG-2023-109) (Wayback 2025-12-08)",
+"url": "https://web.archive.org/web/20251208001109/https://www.dodig.mil/Reports/Audits-and-Evaluations/Article/3496071/evaluation-of-the-dods-actions-regarding-unidentified-anomalous-phenomena-dodig/"
+},
+{
+"date": "2026-07-29",
+"name": "Archived: DoD OIG press release - Evaluation of the DoD's Actions Regarding UAP (Wayback 2026-07-29)",
+"url": "https://web.archive.org/web/20260729024353/https://www.dodig.mil/In-the-Spotlight/Article/3656428/press-release-evaluation-of-the-dods-actions-regarding-unidentified-anomalous-p/"
+},
+{
+"date": "2023-08-15",
+"name": "DoD OIG, Evaluation of the DoD's Actions Regarding UAP (DODIG-2023-109)",
+"url": "https://www.dodig.mil/Reports/Audits-and-Evaluations/Article/3496071/evaluation-of-the-dods-actions-regarding-unidentified-anomalous-phenomena-dodig/"
+},
+{
+"date": "2024-01-25",
+"name": "DoD OIG press release - Evaluation of the DoD's Actions Regarding UAP",
+"url": "https://www.dodig.mil/In-the-Spotlight/Article/3656428/press-release-evaluation-of-the-dods-actions-regarding-unidentified-anomalous-p/"
+}
+],
+"sub": "Statutory independent oversight body within DoD; author of DODIG-2023-109",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 470 of 1027, score 30). 4 connections, 1 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D3.",
+"timeline": [
+{
+"date": "2023-08-15",
+"id": "ag-tl-2023-dodig",
+"label": "DODIG-2023-109 issued and classified",
+"precision": "day",
+"strand": "oversight",
+"text": "The DoD Inspector General completes the only formal evaluation of the Department's UAP conduct three weeks after Grusch testifies. The report is classified; only an unclassified summary is released.",
+"tier": "A"
+}
+]
+}

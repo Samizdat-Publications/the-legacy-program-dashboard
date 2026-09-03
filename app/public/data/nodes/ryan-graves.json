@@ -1,0 +1,442 @@
+{
+"A": 1,
+"C": 0,
+"D": 3,
+"affiliations": [
+"US Navy (2009-2019)",
+"VFA-11 Red Rippers, USS Theodore Roosevelt (2014-2015)",
+"Americans for Safe Aerospace, founder and Executive Director (2022-)",
+"Scientific Coalition for UAP Studies / AIAA UAP community engagement",
+"US Navy F/A-18F pilot, VFA-11 (2009-2019)",
+"Americans for Safe Aerospace, founder (2022-)",
+"Scientific Coalition for UAP Studies",
+"Americans for Safe Aerospace",
+"formerly US Navy VFA-11"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "2014-01-01",
+"event": "VFA-11 begins encountering UAP regularly off Virginia Beach after the APG-79 AESA upgrade",
+"precision": "year"
+},
+{
+"date": "2015-01-01",
+"event": "GIMBAL and GO FAST captured by F/A-18 ATFLIR in the Atlantic operating areas",
+"precision": "month"
+},
+{
+"date": "2019-05-26",
+"event": "Named in New York Times reporting on Navy pilots' repeated encounters off the East Coast",
+"precision": "day"
+},
+{
+"date": "2021-05-16",
+"event": "On CBS 60 Minutes: 'Every day. Every day for at least a couple years.'",
+"precision": "day"
+},
+{
+"date": "2022-01-01",
+"event": "Founds Americans for Safe Aerospace",
+"precision": "year"
+},
+{
+"date": "2023-07-26",
+"event": "Testifies before House Oversight subcommittee with Fravor and Grusch",
+"precision": "day"
+},
+{
+"date": "2023-07-26",
+"event": "Sworn testimony at House Oversight UAP hearing",
+"precision": "day"
+},
+{
+"date": "2026-05-14",
+"event": "Sets out the four-element test for a useful UAP release",
+"precision": "day"
+},
+{
+"date": "2026-05-14",
+"event": "Publicly criticises the first PURSUE tranche for lacking the surrounding data pilots need",
+"precision": "day"
+}
+],
+"claims": [
+{
+"source": "CHRG-118hhrg53022 CONTENTS; docs.house.gov EventID 116282",
+"text": "Witness of record at the 26 July 2023 House Oversight hearing: 'Mr. Ryan Graves, Executive Director, Americans for Safe Aerospace'. Written statement, Truth in Testimony form and bio filed in the House Committee Repository, event 116282.",
+"tier": 1
+},
+{
+"source": "Ryan Graves, written testimony, House Oversight subcommittee, 26 July 2023",
+"text": "'A pivotal incident occurred during an air combat training mission in Warning Area W-72, an exclusive block of airspace ten miles east of Virginia Beach' where 'one of the pilots saw a dark gray cube inside of a clear sphere' and 'The jets, only 100 feet apart, were forced to take evasive action.'",
+"tier": 1
+},
+{
+"source": "Ryan Graves, written testimony, House Oversight subcommittee, 26 July 2023",
+"text": "'Our squadron submitted a safety report, but there was no official acknowledgement of the incident and no further mechanism to report the sightings.'",
+"tier": 1
+},
+{
+"source": "Ryan Graves, written testimony, House Oversight subcommittee, 26 July 2023",
+"text": "Americans for Safe Aerospace had 'nearly 5,000 members' and was 'actively working with more than 30 UAP witnesses' as of July 2023.",
+"tier": 1
+},
+{
+"source": "Ryan Graves, CBS 60 Minutes, 16 May 2021",
+"text": "Sightings occurred 'Every day. Every day for at least a couple years.'",
+"tier": 2
+},
+{
+"source": "Ryan Graves to DefenseScoop, 14 May 2026",
+"text": "'The most useful releases are not simply the clips that appear unusual. The real value is in records that include clear provenance, sensor context, metadata, chain of custody.'",
+"tier": 2
+},
+{
+"source": "DefenseScoop, 14 May 2026, quoting a War Department official",
+"text": "A War Department official said of PURSUE: 'We are not providing any comment or assessment on the files overall or on any specific file, so that the American people can make up their own minds regarding the files.'",
+"tier": 1
+},
+{
+"source": "Inference from the Department's stated no-comment posture set against Graves's four-element test",
+"text": "The Department's stated refusal to assess or contextualise is functionally a decision to release material in the one form in which it cannot be independently validated, which converts a transparency act into an unfalsifiable one.",
+"tier": 3
+},
+{
+"source": "https://defensescoop.com/2026/05/14/uap-trump-first-pursue-ufo-file-drop/",
+"text": "'Ambiguous imagery without that surrounding data is hard for pilots, researchers, or the public to evaluate responsibly.'",
+"tier": 2
+}
+],
+"cls": "person",
+"cluster": "other",
+"conflicts": [
+"AARO's 19 November 2024 SASC case slides assess GO FAST as showing an object at roughly 13,000 feet moving at about 45 mph with 60-knot winds, i.e. 'did not demonstrate any anomalous speeds or flight characteristics.' Graves's testimony does not rest on GO FAST's speed but on the near-midair in W-72 and the absence of a reporting mechanism, neither of which AARO's parallax analysis addresses."
+],
+"connections": [
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2022",
+"direction": "out",
+"edgeLabel": "Founder and Executive Director",
+"id": "americans-for-safe-aerospace",
+"l0": true,
+"label": "Americans for Safe Aerospace",
+"note": "Graves founded the organisation in 2022 to build the aircrew reporting channel the Navy did not provide, and appeared before Congress in that capacity in July 2023.",
+"sources": [
+{
+"date": "2023-07-26",
+"name": "House Oversight - Graves written testimony (PDF)",
+"url": "https://oversight.house.gov/wp-content/uploads/2023/07/Ryan-HOC-Testimony.pdf"
+},
+{
+"date": "2023-07-26",
+"name": "House Oversight - hearing page, 26 July 2023",
+"url": "https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "2023",
+"dateStart": "2023",
+"direction": "in",
+"edgeLabel": "Co-witness, 26 July 2023 hearing panel",
+"id": "david-grusch",
+"l0": false,
+"label": "David Charles Grusch",
+"note": "Graves testified on the reporting gap for military and commercial aircrew; his Vandenberg account, sourced to a witness through Americans for Safe Aerospace, put contractor personnel into the same hearing record as Grusch's contractor allegations.",
+"sources": [
+{
+"date": "2023-07-26",
+"name": "House Oversight hearing transcript",
+"url": "https://www.congress.gov/118/meeting/house/116282/documents/HHRG-118-GO06-Transcript-20230726.pdf"
+}
+],
+"tier": "A",
+"type": "witness-chain"
+},
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": null,
+"dateStart": "2023-07-26",
+"direction": "out",
+"edgeLabel": "sworn witness",
+"id": "hearing-2023-07-26",
+"l0": true,
+"label": "House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'",
+"note": "Listed in the printed hearing record as a witness.",
+"sources": [
+{
+"date": "2023-07-26",
+"name": "CHRG-118hhrg53022, printed hearing transcript, 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency', Serial No. 118-53",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/pdf/CHRG-118hhrg53022.pdf"
+}
+],
+"tier": "A",
+"type": "programmatic"
+},
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": "2023",
+"dateStart": "2023",
+"direction": "out",
+"edgeLabel": "Lead witness at the July 2023 House Oversight hearing",
+"id": "hearing-2023-07-26",
+"l0": true,
+"label": "House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'",
+"note": "Graves testified alongside David Fravor and David Grusch; his written statement is in the committee record.",
+"sources": [
+{
+"date": "2023-07-26",
+"name": "House Oversight - hearing page, 26 July 2023",
+"url": "https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/"
+},
+{
+"date": "2023-07-26",
+"name": "House Oversight - Graves written testimony (PDF)",
+"url": "https://oversight.house.gov/wp-content/uploads/2023/07/Ryan-HOC-Testimony.pdf"
+},
+{
+"date": "2023-07-26",
+"name": "U.S. GPO, Hearing transcript, Serial No. 118-53 (CHRG-118hhrg53022)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm"
+}
+],
+"tier": "A",
+"type": "witness-chain"
+},
+{
+"claimTier": 3,
+"cls": "legislation",
+"dateEnd": "2025",
+"dateStart": "2024",
+"direction": "out",
+"edgeLabel": "His hearing testimony on the reporting gap is the bill's origin",
+"id": "hr-6967-safe-airspace-for-americans-act",
+"l0": false,
+"label": "H.R. 6967 - Safe Airspace for Americans Act (118th Congress)",
+"note": "Reasoning: Garcia's 26 July 2023 questioning of Graves concentrated entirely on the absence of a civilian reporting channel and pilot stigma, and the bill creates exactly that channel six months later.",
+"sources": [
+{
+"date": "2023-07-26",
+"name": "U.S. GPO, Hearing transcript, Serial No. 118-53 (CHRG-118hhrg53022)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm"
+},
+{
+"date": "2024-01-12",
+"name": "The Hill: Classified UFO briefing — House members emerge with mixed feelings",
+"url": "https://thehill.com/homenews/house/4406059-classified-ufo-briefing-house-members-mixed-feelings/"
+}
+],
+"tier": "C",
+"type": "programmatic"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "questioned Graves on scientific advisory board and NASA reporting",
+"id": "maxwell-frost",
+"l0": false,
+"label": "Maxwell Alejandro Frost",
+"note": "Frost asked Graves two questions: 'can you discuss the importance of seeking scientists to sit on your advisory board?' and 'how might Congress help to facilitate partnerships between the scientific community and the UAP focus groups within government?' Graves answered that this 'is going to be a scientific problem, and not only that, it is also an engineering problem', and pointed to his work with the American Institute of Aeronautics and Astronautics to stand up a UAP integration committee.",
+"sources": [
+{
+"date": "2023-07-26",
+"name": "House Oversight hearing, 26 July 2023 (CHRG-118hhrg53022)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm"
+}
+],
+"tier": "C",
+"type": "investigative"
+},
+{
+"claimTier": 2,
+"cls": "program",
+"dateEnd": null,
+"dateStart": "2026-05-14",
+"direction": "out",
+"edgeLabel": "operational critique of the release format",
+"id": "pursue-releases",
+"l0": true,
+"label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters",
+"note": "'Ambiguous imagery without that surrounding data is hard for pilots, researchers, or the public to evaluate responsibly.'",
+"sources": [
+{
+"date": "2026-05-14",
+"name": "DefenseScoop, 'Data alone is not disclosure'",
+"url": "https://defensescoop.com/2026/05/14/uap-trump-first-pursue-ufo-file-drop/"
+}
+],
+"tier": "A",
+"type": "behavioral"
+},
+{
+"claimTier": 2,
+"cls": "program",
+"dateEnd": "2026",
+"dateStart": "2026",
+"direction": "out",
+"edgeLabel": "Set the four-element test: provenance, sensor context, metadata, chain of custody",
+"id": "pursue-releases",
+"l0": true,
+"label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters",
+"note": "Graves specified what a useful release contains; the Department's stated refusal to comment on or assess any file means PURSUE meets none of the four.",
+"sources": [
+{
+"date": "2026-05-14",
+"name": "DefenseScoop - 'Data alone is not disclosure': UAP research community reacts to Trump's first PURSUE file drop",
+"url": "https://defensescoop.com/2026/05/14/uap-trump-first-pursue-ufo-file-drop/"
+}
+],
+"tier": "A",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": "2015",
+"dateStart": "2014",
+"direction": "out",
+"edgeLabel": "VFA-11 aircrew during the 2014-2015 encounter series",
+"id": "roosevelt-2014-2015",
+"l0": true,
+"label": "USS Theodore Roosevelt Encounters (2014-2015)",
+"note": "Graves testified in writing that his squadron 'began witnessing advanced UAP demonstrating complex maneuvers on a regular basis' after the AESA radar upgrade.",
+"sources": [
+{
+"date": "2023-07-26",
+"name": "House Oversight - Graves written testimony (PDF)",
+"url": "https://oversight.house.gov/wp-content/uploads/2023/07/Ryan-HOC-Testimony.pdf"
+}
+],
+"tier": "B",
+"type": "witness-chain"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "Navy F/A-18F pilot turned first active-duty-era witness before Congress",
+"id": "us-navy",
+"l0": true,
+"label": "United States Navy",
+"note": "In his own words: 'My name is Ryan \"FOBS\" Graves and I am a former F-18 pilot with over a decade of service in the U.S. Navy, including two deployments in Operation Enduring Freedom and Operation Inherent Resolve.' He joined the Navy in 2009, describes the encounters in the W-72 warning area, and states 'I founded Americans for Safe Aerospace to create a center of support, research, and public education for aircrew impacted by UAP encounters', reporting nearly 5,000 members and more than 30 witnesses working with the organisation.",
+"sources": [
+{
+"date": "2023-07-26",
+"name": "Ryan Graves, written testimony to the House Oversight Subcommittee on National Security, the Border, and Foreign Affairs, 26 July 2023",
+"url": "https://oversight.house.gov/wp-content/uploads/2023/07/Ryan-HOC-Testimony.pdf"
+},
+{
+"date": null,
+"name": "Ryan Graves written testimony, House Oversight and Accountability Subcommittee on National Security, the Border, and Foreign Affairs, July 26, 2023 -- https://www.congress.gov/118/meeting/house/116282/witnesses/HHRG-118-GO06-Wstate-GravesR-20230726.pdf",
+"url": ""
+}
+],
+"tier": "C",
+"type": "witness-chain"
+}
+],
+"date": "2023-07-26",
+"dateEnd": null,
+"dateStart": "2023-07-26",
+"deg": 8,
+"denials": [],
+"domains": [
+"_rs-archive-mirror",
+"_rs-legislation",
+"aviators-incidents",
+"releases-2023-2026",
+"w2-2025-2026"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "ryan-graves",
+"instId": "americans-for-safe-aerospace",
+"l0": false,
+"label": "Ryan Graves",
+"loc": "Virginia Beach, VA",
+"locId": "l-w72",
+"members": null,
+"narrative": "Graves converted the 2014-2015 USS Theodore Roosevelt workup encounters from an anecdote into an institutional safety problem, which is why he is the aviator the disclosure movement could not be talked out of. In his written statement to House Oversight on 26 July 2023 he testified: 'In 2014, I was near Virginia Beach as part of VFA-11, a Navy Fighter/Attack Squadron made up of F/A-18F Super Hornets,' and that his squadron 'began witnessing advanced UAP demonstrating complex maneuvers on a regular basis' after the fleet upgraded to the APG-79 AESA radar. The pivotal event he described occurred in Warning Area W-72, 'an exclusive block of airspace ten miles east of Virginia Beach,' where 'one of the pilots saw a dark gray cube inside of a clear sphere - motionless against the wind, fixed directly at the entry point,' and two jets 'only 100 feet apart, were forced to take evasive action.' The institutional failure is the part that indicts: 'Our squadron submitted a safety report, but there was no official acknowledgement of the incident and no further mechanism to report the sightings.' Two of the three videos the Department of Defense formally released on 27 April 2020 - GIMBAL and GO FAST, both filmed in January 2015 - came out of this operating area. Graves founded Americans for Safe Aerospace to build the reporting channel the Navy did not provide, telling Congress in July 2023 that it had 'nearly 5,000 members' and was 'actively working with more than 30 UAP witnesses.'",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Ryan Graves",
+"sources": [
+{
+"date": "2026-08-10",
+"name": "Archived: Department of War - PURSUE portal (war.gov/UFO) (Wayback 2026-08-10)",
+"url": "https://web.archive.org/web/20260810202017/https://www.war.gov/UFO/"
+},
+{
+"date": "2023-07-26",
+"name": "CHRG-118hhrg53022, printed hearing transcript, 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency', Serial No. 118-53",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/pdf/CHRG-118hhrg53022.pdf"
+},
+{
+"date": "2023-07-26",
+"name": "docs.house.gov meeting repository, House Oversight Subcommittee on National Security, the Border, and Foreign Affairs, Event 116282 (26 July 2023) - witness statements, Truth in Testimony forms, official transcript",
+"url": "https://docs.house.gov/Committee/Calendar/ByEvent.aspx?EventID=116282"
+},
+{
+"date": "2023-07-26",
+"name": "House Oversight - Graves written testimony (PDF)",
+"url": "https://oversight.house.gov/wp-content/uploads/2023/07/Ryan-HOC-Testimony.pdf"
+},
+{
+"date": "2023-07-26",
+"name": "House Oversight - hearing page, 26 July 2023",
+"url": "https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/"
+},
+{
+"date": "2021-05-16",
+"name": "CBS News / 60 Minutes",
+"url": "https://www.cbsnews.com/news/ufo-military-intelligence-60-minutes-2021-05-16/"
+},
+{
+"date": "2022-12-31",
+"name": "The Debrief - Graves op-ed on stigma",
+"url": "https://thedebrief.org/as-a-former-fighter-pilot-who-encountered-uap-we-need-science-not-stigmas-and-conspiracies-to-solve-this-mystery/"
+},
+{
+"date": "2026-05-14",
+"name": "DefenseScoop - 'Data alone is not disclosure': UAP research community reacts to Trump's first PURSUE file drop",
+"url": "https://defensescoop.com/2026/05/14/uap-trump-first-pursue-ufo-file-drop/"
+},
+{
+"date": "2026-08-07",
+"name": "Department of War - PURSUE portal (war.gov/UFO)",
+"url": "https://www.war.gov/UFO/"
+}
+],
+"status": "active",
+"sub": "Lt, USN (Ret.), VFA-11 Red Rippers; Executive Director, Americans for Safe Aerospace",
+"tier": "A",
+"tierRationale": "Re-graded A on a global pass (rank 106 of 1027, score 59). 10 connections, 6 of them custody/witness/funding/programmatic. Axes C0/A1/D3.",
+"timeline": [],
+"unexplainedResidual": "A stationary dark cube inside a clear sphere, holding position against the wind at a fixed airspace entry point, has no assessed explanation in any released AARO product.",
+"unverified": [
+"The squadron safety report Graves says VFA-11 submitted after the W-72 near-miss has never been released; its Navy Safety Center or hazard-report control number is unknown.",
+"Whether Americans for Safe Aerospace's aircrew reports have been ingested into AARO's case system, and under what arrangement."
+]
+}

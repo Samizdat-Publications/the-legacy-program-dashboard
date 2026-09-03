@@ -1,0 +1,103 @@
+{
+"A": 3,
+"C": 2,
+"D": 1,
+"band": null,
+"claims": [
+{
+"source": "CRS Report R44629 summarising FAR 35.017",
+"text": "FAR 35.017 permits initial FFRDC contracts of up to five years, renewable in similar increments, expressly to provide stability and continuity and to allow the FFRDC to attract high-quality personnel.",
+"tier": 1
+},
+{
+"source": "SAM.gov notice of intent to award a sole source contract for MITRE-operated FFRDC support services, 1 August 2025",
+"text": "Federal contracting notices for MITRE's FFRDC support services have been posted as notices of intent to award a sole source contract.",
+"tier": 1
+}
+],
+"cls": "legislation",
+"cluster": "oversight",
+"connections": [
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": "2026",
+"direction": "in",
+"edgeLabel": "The letter's legal theory rests on the FFRDC access provisions",
+"id": "burlison-mitre-letter-2026",
+"l0": true,
+"label": "Rep. Burlison records demand to MITRE, 22 May 2026",
+"note": "Burlison argues FFRDCs 'often receive special access to government facilities, data, sponsor requirements, and sensitive technical information that ordinary private contractors may not receive' and therefore cannot be private vaults for federal records.",
+"sources": [
+{
+"date": "2026-05-29",
+"name": "MeriTalk",
+"url": "https://www.meritalk.com/articles/rep-burlison-presses-mitre-to-produce-uap-records/"
+}
+],
+"tier": "A",
+"type": "legislative"
+},
+{
+"claimTier": 1,
+"cls": "domain",
+"dateEnd": null,
+"dateStart": "1984",
+"direction": "in",
+"edgeLabel": "FAR 35.017 is the regulation that creates the seam",
+"id": "d-ffrdc",
+"l0": false,
+"label": "The FFRDC Seam",
+"note": "The subpart grants FFRDCs access to government and supplier data beyond a normal contractual relationship while requiring disclosure only to the sponsoring agency.",
+"sources": [
+{
+"date": "2026-05-15",
+"name": "CRS Report R44629",
+"url": "https://www.everycrsreport.com/reports/R44629.html"
+}
+],
+"tier": "B",
+"type": "institutional"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "1984",
+"deg": 2,
+"denials": [],
+"desc": "The regulatory instrument that creates the seam. FAR 35.017 defines what an FFRDC is, requires a sponsoring agency to justify its existence, sets the terms of the sponsoring agreement, and grants the operator its extraordinary access. The operative language for this board is the access clause - an FFRDC 'has access to government and supplier data, including sensitive and proprietary information, and to employees and facilities beyond that common in a normal contractual relationship' - and the disclosure clause, which requires the FFRDC to fully disclose its activities to its sponsoring agency. Nothing in FAR 35.017 requires disclosure to Congress, to the public, to GAO, or to any other agency. The sponsor is simultaneously the customer, the classification authority, and the only body entitled to a full account of what the FFRDC does. Contracts may be awarded for up to five years and renewed indefinitely in like increments, and are routinely awarded sole-source: the government's own notices for MITRE's aviation FFRDC in 2025 were posted as notices of intent to award a sole source contract. In return the FFRDC is forbidden to compete for federal R&D work against industry and must operate free of organisational conflicts of interest. Read as a whole, the subpart constructs an entity with the government's access, the private sector's records status, and no independent auditor. It is the legal chassis on which every entity in this domain sits.",
+"domains": [
+"ffrdcs"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "1",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "far-35-017",
+"l0": false,
+"label": "FAR 35.017 - Federally Funded Research and Development Centers",
+"locLabel": null,
+"members": null,
+"short": "FAR 35.017 - Federally Funded Research and Development Centers",
+"sources": [
+{
+"date": "2026-05-15",
+"name": "CRS Report R44629 - Federally Funded Research and Development Centers (FFRDCs)",
+"url": "https://www.everycrsreport.com/reports/R44629.html"
+},
+{
+"date": "2025-08-01",
+"name": "SAM.gov - Notice of intent to award a sole source contract (MITRE FFRDC support services)",
+"url": "https://sam.gov/opp/3a6675cb0ef1482aaea64dbdb6eaf2f8/view"
+}
+],
+"sub": "Federal Acquisition Regulation subpart; 48 CFR 35.017",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 567 of 1027, score 27). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A3/D1.",
+"timeline": []
+}

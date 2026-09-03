@@ -1,0 +1,188 @@
+{
+"A": 3,
+"C": 1,
+"D": 2,
+"band": null,
+"claims": [
+{
+"source": "UK MoD Publication Scheme, 15 May 2006",
+"text": "MoD publication scheme metadata for the Condign executive summary: 'Author: DAS; Owner: Ministry of Defence; Freedom of Information Organisation area: Directorate of Air Staff; Freedom of Information Information class: Unidentified Flying Objects.'",
+"tier": 1
+},
+{
+"source": "MoD release note accompanying the Condign report",
+"text": "MoD statement of the study's purpose: 'to determine the potential value, if any, of such reports to Defence Intelligence ... principally to ascertain whether there is any evidence of a threat to the UK, and secondly, should the opportunity arise, to identify any potential military technologies of interest.'",
+"tier": 1
+}
+],
+"cls": "institution",
+"cluster": "legacy",
+"connections": [
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "Not informed at the time, and no threat to the UK",
+"id": "belgian-af-f16-intercept-1990",
+"l0": false,
+"label": "Belgian Air Force F-16 intercept and the 1989-90 Belgian wave",
+"note": "The guide summarises a letter from Malcolm Rifkind to Lord Hill-Norton saying the MoD was not informed of the incident at the time and concluded there was no threat to the UK.",
+"sources": [
+{
+"date": "2009-08-17",
+"name": "TNA Highlights Guide, August 2009 tranche",
+"url": "https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf"
+}
+],
+"tier": "B",
+"type": "denial"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "2006-05-15",
+"dateStart": "2000",
+"direction": "in",
+"edgeLabel": "records a flat denial of any US/Canada exchange, then redacts four lines",
+"id": "doc-condign-vol3",
+"l0": true,
+"label": "Project Condign Volume 3 - Potential for Exploitation of UAP-Associated Effects / UAP Work in Other Countries",
+"note": "Volume 3 para 12: 'There is no intelligence exchange or access or collaboration of any sort on the topic of UFOs' - followed by approximately four redacted lines.",
+"sources": [
+{
+"date": "2006-05-15",
+"name": "Condign Volume 3",
+"url": "https://archive.org/download/condign-vol-2-1-258/Condign_Vol_3_1-48_djvu.txt"
+}
+],
+"tier": "B",
+"type": "denial"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "1992",
+"dateStart": "1950",
+"direction": "in",
+"edgeLabel": "Ministry of Defence imagery-intelligence unit with Operations Record Books at Kew, 1950-1992",
+"id": "jaric",
+"l0": false,
+"label": "Joint Air Reconnaissance Intelligence Centre (JARIC)",
+"note": "The unit's Operations Record Books are catalogued in the Air Ministry and Ministry of Defence series AIR 29, from RAF Nuneham Park in 1950 to RAF Brampton in 1992, with a separate administrative history at AIR 14/4103.",
+"sources": [
+{
+"date": "2026-09-02",
+"name": "The National Archives Discovery catalogue",
+"url": "https://discovery.nationalarchives.gov.uk/API/search/records?sps.searchQuery=%22Joint%20Air%20Reconnaissance%20Intelligence%20Centre%22"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 2,
+"cls": "program",
+"dateEnd": "1951-06",
+"dateStart": "1950",
+"direction": "in",
+"edgeLabel": "first British body on the question, 1950-1951",
+"id": "uk-fs-working-party",
+"l0": false,
+"label": "Flying Saucer Working Party (UK)",
+"note": "The Flying Saucer Working Party precedes the UFO desk and reached the same self-terminating conclusion Condign would reach fifty years later.",
+"sources": [
+{
+"date": "2026-03-19",
+"name": "Project Condign - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/Project_Condign"
+}
+],
+"tier": "C",
+"type": "temporal"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "1964",
+"deg": 4,
+"denials": [
+{
+"by": {
+"id": "belgian-af-f16-intercept-1990",
+"label": "Belgian Air Force F-16 intercept and the 1989-90 Belgian wave"
+},
+"claimTier": 1,
+"denialKind": null,
+"label": "Not informed at the time, and no threat to the UK",
+"note": "The guide summarises a letter from Malcolm Rifkind to Lord Hill-Norton saying the MoD was not informed of the incident at the time and concluded there was no threat to the UK.",
+"of": {
+"id": "uk-mod",
+"label": "United Kingdom Ministry of Defence"
+},
+"sources": [
+{
+"date": "2009-08-17",
+"name": "TNA Highlights Guide, August 2009 tranche",
+"url": "https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf"
+}
+]
+},
+{
+"by": {
+"id": "uk-mod",
+"label": "United Kingdom Ministry of Defence"
+},
+"claimTier": 1,
+"denialKind": "directed",
+"label": "records a flat denial of any US/Canada exchange, then redacts four lines",
+"note": "Volume 3 para 12: 'There is no intelligence exchange or access or collaboration of any sort on the topic of UFOs' - followed by approximately four redacted lines.",
+"of": {
+"id": "doc-condign-vol3",
+"label": "Project Condign Volume 3 - Potential for Exploitation of UAP-Associated Effects / UAP Work in Other Countries"
+},
+"sources": [
+{
+"date": "2006-05-15",
+"name": "Condign Volume 3",
+"url": "https://archive.org/download/condign-vol-2-1-258/Condign_Vol_3_1-48_djvu.txt"
+}
+]
+}
+],
+"desc": "The Ministry of Defence is the department that ran the British side of the question from the 1950s to 2009 and that released, under compulsion, the two most substantial British artefacts: the Project Condign report in May 2006 and roughly sixty thousand pages of UFO desk files through The National Archives between May 2008 and June 2013. Its public position throughout was that UAP reports were of no defence significance. Its internal position, as recorded in its own released documents, was that a 1996 policy review commissioned a classified Defence Intelligence Staff study whose second stated objective was 'to identify any potential military technologies of interest'; that the study's chapter on potential related military technology and its paragraph on related military applications were withheld under the defence exemption; and that its chapter on other countries recorded the flat statement that there was 'no intelligence exchange or access or collaboration of any sort' with the United States and Canada on the topic - followed by four redacted lines. The Ministry's Directorate of Air Staff is recorded as the author organisation of the Condign report; its Air Secretariat and Secretariat (Air Staff) held the desk.",
+"domains": [
+"w2-international"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "uk-mod",
+"l0": false,
+"label": "United Kingdom Ministry of Defence",
+"locLabel": null,
+"members": null,
+"short": "United Kingdom Ministry of Defence",
+"sources": [
+{
+"date": "2006-05-15",
+"name": "MoD Publication Scheme - Condign executive summary",
+"url": "https://web.archive.org/web/20060515083956/http://www.mod.uk/DefenceInternet/FreedomOfInformation/PublicationScheme/SearchPublicationScheme/UapInTheUkAirDefenceRegionExecutiveSummary.htm"
+},
+{
+"date": "2013-06-01",
+"name": "The National Archives - UFO files",
+"url": "https://web.archive.org/web/20130701000000/http://www.nationalarchives.gov.uk/ufos/"
+}
+],
+"sub": "UK defence department; owner of the UFO desk, DI55 and Project Condign",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 346 of 1027, score 35). 4 connections, 0 of them custody/witness/funding/programmatic, 2 official denials recorded against it. Axes C1/A3/D2.",
+"timeline": []
+}

@@ -1,0 +1,260 @@
+{
+"A": 3,
+"C": 2,
+"D": 3,
+"band": null,
+"claims": [
+{
+"source": "S. 2226 as engrossed, Sec. 9007(a)-(b), GPO",
+"text": "Sec. 9007(a) establishes the Review Board 'as an independent agency' with nine members appointed by the President by and with the advice and consent of the Senate.",
+"tier": 1
+},
+{
+"source": "S. 2226 as engrossed, Sec. 9007(b)(4)(A), GPO",
+"text": "Sec. 9007(b)(4)(A) bars anyone with 'any previous or current involvement with any legacy program or controlling authority relating to the collection, exploitation, or reverse engineering of technologies of unknown origin.'",
+"tier": 1
+},
+{
+"source": "S. 2226 as engrossed, Sec. 9009(c)(1), GPO",
+"text": "Sec. 9009(c)(1) requires disclosure absent 'clear and convincing evidence' for postponement, inverting the default classification presumption.",
+"tier": 1
+},
+{
+"source": "P.L. 118-31, Sec. 1843(a), GPO",
+"text": "In enacted law the equivalent judgement is made not by an independent board but by 'the original classification authority' under Sec. 1843(a) of P.L. 118-31.",
+"tier": 1
+}
+],
+"cls": "program",
+"cluster": "oversight",
+"connections": [
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "2023",
+"dateStart": "2023",
+"direction": "out",
+"edgeLabel": "The Board must produce the Plan under Sec. 9009(c)(3)",
+"id": "controlled-disclosure-campaign-plan",
+"l0": false,
+"label": "Controlled Disclosure Campaign Plan",
+"note": "The Controlled Disclosure Campaign Plan exists only as a Review Board product; removing the Board removed the Plan.",
+"sources": [
+{
+"date": "2023-07-27",
+"name": "S. 2226 (Engrossed in Senate) — GPO",
+"url": "https://www.govinfo.gov/content/pkg/BILLS-118s2226es/html/BILLS-118s2226es.htm"
+}
+],
+"tier": "B",
+"type": "programmatic"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "2023",
+"dateStart": "2023",
+"direction": "in",
+"edgeLabel": "The Board was designed to bypass the intelligence committees",
+"id": "house-intelligence",
+"l0": false,
+"label": "House Permanent Select Committee on Intelligence",
+"note": "Sec. 9007(b)(3)(A) routes nominations through congressional leadership, DoD, the National Academy of Sciences, nonprofit UAP research bodies and the American Historical Association — never through HPSCI or SSCI.",
+"sources": [
+{
+"date": "2023-07-27",
+"name": "S. 2226 (Engrossed in Senate) — GPO",
+"url": "https://www.govinfo.gov/content/pkg/BILLS-118s2226es/html/BILLS-118s2226es.htm"
+}
+],
+"tier": "C",
+"type": "denial"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2023",
+"dateStart": "2023",
+"direction": "in",
+"edgeLabel": "Named as demanding removal of the Board's subpoena power",
+"id": "mike-turner",
+"l0": false,
+"label": "Michael R. Turner",
+"note": "The Board survives in no form in enacted law; Sheehan attributes the demand to Turner, and the conference produced no document naming who struck what.",
+"sources": [
+{
+"date": "2023-11-27",
+"name": "The Debrief — pushback from lawmakers",
+"url": "https://thedebrief.org/uap-disclosure-act-receives-pushback-from-lawmakers-on-capitol-hill-as-bipartisan-fight-for-transparency-continues/"
+},
+{
+"date": "2023-12-22",
+"name": "P.L. 118-31, FY2024 NDAA — GPO",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm"
+}
+],
+"tier": "B",
+"type": "denial"
+},
+{
+"claimTier": 1,
+"cls": "legislation",
+"dateEnd": null,
+"dateStart": "2023",
+"direction": "in",
+"edgeLabel": "Postponement authority returned to the original classifier",
+"id": "ndaa-fy2024-subtitle-c",
+"l0": false,
+"label": "P.L. 118-31 Subtitle C — Secs. 1841-1843 (what survived)",
+"note": "Sec. 1843(a) vests the clear-and-convincing determination in 'the original classification authority' — the very offices the Review Board was created to review.",
+"sources": [
+{
+"date": "2023-12-22",
+"name": "P.L. 118-31, FY2024 NDAA — GPO",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm"
+},
+{
+"date": "2023-07-27",
+"name": "S. 2226 (Engrossed in Senate) — GPO",
+"url": "https://www.govinfo.gov/content/pkg/BILLS-118s2226es/html/BILLS-118s2226es.htm"
+}
+],
+"tier": "B",
+"type": "denial"
+},
+{
+"claimTier": 1,
+"cls": "legislation",
+"dateEnd": "2023",
+"dateStart": "2023",
+"direction": "in",
+"edgeLabel": "Secs. 9007-9009 create the Board as an independent agency",
+"id": "uapda-2023",
+"l0": true,
+"label": "UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)",
+"note": "The Act's enforcement rests entirely on the Review Board: it orders disclosure absent clear and convincing evidence and examines recovered material under Sec. 9010(b).",
+"sources": [
+{
+"date": "2023-07-27",
+"name": "S. 2226 (Engrossed in Senate) — GPO",
+"url": "https://www.govinfo.gov/content/pkg/BILLS-118s2226es/html/BILLS-118s2226es.htm"
+}
+],
+"tier": "A",
+"type": "programmatic"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "2023",
+"deg": 5,
+"denials": [
+{
+"by": {
+"id": "house-intelligence",
+"label": "House Permanent Select Committee on Intelligence"
+},
+"claimTier": 1,
+"denialKind": "association",
+"label": "The Board was designed to bypass the intelligence committees",
+"note": "Sec. 9007(b)(3)(A) routes nominations through congressional leadership, DoD, the National Academy of Sciences, nonprofit UAP research bodies and the American Historical Association — never through HPSCI or SSCI.",
+"of": {
+"id": "uap-records-review-board",
+"label": "Unidentified Anomalous Phenomena Records Review Board"
+},
+"sources": [
+{
+"date": "2023-07-27",
+"name": "S. 2226 (Engrossed in Senate) — GPO",
+"url": "https://www.govinfo.gov/content/pkg/BILLS-118s2226es/html/BILLS-118s2226es.htm"
+}
+]
+},
+{
+"by": {
+"id": "mike-turner",
+"label": "Michael R. Turner"
+},
+"claimTier": 2,
+"denialKind": "directed",
+"label": "Named as demanding removal of the Board's subpoena power",
+"note": "The Board survives in no form in enacted law; Sheehan attributes the demand to Turner, and the conference produced no document naming who struck what.",
+"of": {
+"id": "uap-records-review-board",
+"label": "Unidentified Anomalous Phenomena Records Review Board"
+},
+"sources": [
+{
+"date": "2023-11-27",
+"name": "The Debrief — pushback from lawmakers",
+"url": "https://thedebrief.org/uap-disclosure-act-receives-pushback-from-lawmakers-on-capitol-hill-as-bipartisan-fight-for-transparency-continues/"
+},
+{
+"date": "2023-12-22",
+"name": "P.L. 118-31, FY2024 NDAA — GPO",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm"
+}
+]
+},
+{
+"by": {
+"id": "ndaa-fy2024-subtitle-c",
+"label": "P.L. 118-31 Subtitle C — Secs. 1841-1843 (what survived)"
+},
+"claimTier": 1,
+"denialKind": "association",
+"label": "Postponement authority returned to the original classifier",
+"note": "Sec. 1843(a) vests the clear-and-convincing determination in 'the original classification authority' — the very offices the Review Board was created to review.",
+"of": {
+"id": "uap-records-review-board",
+"label": "Unidentified Anomalous Phenomena Records Review Board"
+},
+"sources": [
+{
+"date": "2023-12-22",
+"name": "P.L. 118-31, FY2024 NDAA — GPO",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm"
+},
+{
+"date": "2023-07-27",
+"name": "S. 2226 (Engrossed in Senate) — GPO",
+"url": "https://www.govinfo.gov/content/pkg/BILLS-118s2226es/html/BILLS-118s2226es.htm"
+}
+]
+}
+],
+"desc": "The Review Board is the JFK Records Act transplant at the centre of the UAPDA and the thing the conference was most determined to prevent. Section 9007 establishes it 'as an independent agency' — outside the Department of Defense, outside the intelligence community, outside the armed services and intelligence committees. The President appoints nine citizens 'by and with the advice and consent of the Senate,' with nominations due within 90 days of enactment and a replacement nomination required within 30 days of any Senate rejection. Nominees are drawn from recommendations by the four congressional leaders, the Secretary of Defense, the National Academy of Sciences, 'established nonprofit research organizations relating to unidentified anomalous phenomena,' and the American Historical Association. The disqualification in Section 9007(b)(4)(A) is the operative clause: members 'shall be impartial citizens, none of whom shall have had any previous or current involvement with any legacy program or controlling authority relating to the collection, exploitation, or reverse engineering of technologies of unknown origin or the examination of biological evidence of living or deceased non-human intelligence.' The composition is mandated to include a national security official, a foreign service official, a scientist or engineer, an economist, a professional historian and a sociologist. Under Section 9009(c)(1) the Board must order disclosure 'in the absence of clear and convincing evidence' for postponement — reversing the ordinary classification presumption. Under Section 9010(b) recovered material must be made available to it for personal examination. The Board was removed in conference and does not exist. Nothing in enacted law performs its function: under Section 1843 of P.L. 118-31 the postponement decision is made by 'the original classification authority.'",
+"domains": [
+"congress-senate-legislation"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "uap-records-review-board",
+"l0": false,
+"label": "Unidentified Anomalous Phenomena Records Review Board",
+"locLabel": null,
+"members": null,
+"short": "Unidentified Anomalous Phenomena Records Review Board",
+"sources": [
+{
+"date": "2023-07-27",
+"name": "S. 2226 (Engrossed in Senate), Secs. 9007-9009 — GPO",
+"url": "https://www.govinfo.gov/content/pkg/BILLS-118s2226es/html/BILLS-118s2226es.htm"
+},
+{
+"date": "2023-12-22",
+"name": "P.L. 118-31, Sec. 1843 — GPO",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm"
+}
+],
+"sub": "Independent agency, authorised by the Senate, never constituted",
+"tier": "A",
+"tierRationale": "Re-graded A on a global pass (rank 115 of 1027, score 58). 5 connections, 2 of them custody/witness/funding/programmatic, 3 official denials recorded against it. Axes C2/A3/D3.",
+"timeline": []
+}

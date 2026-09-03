@@ -1,0 +1,92 @@
+{
+"A": 2,
+"C": 1,
+"D": 2,
+"band": null,
+"claims": [
+{
+"source": "https://www.govinfo.gov/content/pkg/PLAW-119publ60/html/PLAW-119publ60.htm",
+"text": "Section 1001, NDAA FY2026: transfer authority on the Secretary's determination that action 'is necessary in the national interest', capped at $6,000,000,000, excluding military personnel transfers.",
+"tier": 1
+},
+{
+"source": "https://www.govinfo.gov/content/pkg/PLAW-119publ60/html/PLAW-119publ60.htm",
+"text": "Section 1001(d) requires only that 'The Secretary shall promptly notify Congress of each transfer made under subsection (a).'",
+"tier": 1
+},
+{
+"source": "https://www.govinfo.gov/content/pkg/PLAW-118publ159/html/PLAW-118publ159.htm",
+"text": "Section 1001 of the NDAA FY2025 (P.L. 118-159, enacted 23 December 2024) carried the identical $6,000,000,000 ceiling and identical conditions.",
+"tier": 1
+},
+{
+"source": "https://www.govinfo.gov/content/pkg/PLAW-119publ60/html/PLAW-119publ60.htm",
+"text": "Section 4001(c), NDAA FY2026: transfer or reprogramming of a funding-table amount 'shall not count against a ceiling on such transfers or reprogrammings under section 1001 of this Act or any other provision of law, unless such transfer or reprogramming would move funds between appropriation accounts.'",
+"tier": 1
+}
+],
+"cls": "legislation",
+"cluster": "oversight",
+"connections": [
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": "2025-12-18",
+"direction": "in",
+"edgeLabel": "Funding-table amounts, including the annex, do not count against the section 1001 ceiling",
+"id": "classified-annex",
+"l0": true,
+"label": "The Classified Annex (NDAA and Defense Appropriations)",
+"note": "Section 4001(c) of the FY2026 NDAA states transfers or reprogrammings of funding-table amounts shall not count against the section 1001 ceiling unless funds move between appropriation accounts; section 4001(d) applies the section to any classified annex. Attested by the enacted text.",
+"sources": [
+{
+"date": "2025-12-18",
+"name": "NDAA FY2026, Sec. 4001",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-119publ60/html/PLAW-119publ60.htm"
+}
+],
+"tier": "A",
+"type": "legislative"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "1990",
+"deg": 1,
+"denials": [],
+"desc": "The authorisation-side twin of section 8005. Section 1001 of the National Defense Authorization Act for Fiscal Year 2026 provides that 'Upon determination by the Secretary of Defense that such action is necessary in the national interest, the Secretary may transfer amounts of authorizations made available to the Department of Defense in this division for fiscal year 2026 between any such authorizations for that fiscal year (or any subdivisions thereof)', capped at $6,000,000,000, excluding transfers among military personnel authorisations, limited to higher-priority items, barred for items Congress denied, and subject only to a duty to 'promptly notify Congress of each transfer made'. The FY2025 NDAA (Public Law 118-159, 23 December 2024) carried the identical $6 billion ceiling and identical text. The trigger is the Secretary's own determination of the national interest; there is no external finding, no OMB concurrence on this side, and no prior notification. Read alongside section 4001(c), which exempts intra-account movements of funding-table amounts from counting against the section 1001 ceiling, the authorisation-side picture matches the appropriations-side picture: a large, self-certified, after-the-fact-reported authority to move money, sitting on top of a classified table of line items that is itself unpublished.",
+"domains": [
+"w2-black-budget"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "1",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "sec-1001-gta",
+"l0": false,
+"label": "Section 1001 General Transfer Authority (annual NDAA)",
+"locLabel": null,
+"members": null,
+"short": "Section 1001 General Transfer Authority (annual NDAA)",
+"sources": [
+{
+"date": "2025-12-18",
+"name": "NDAA FY2026 (P.L. 119-60), Secs. 1001 and 4001",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-119publ60/html/PLAW-119publ60.htm"
+},
+{
+"date": "2024-12-23",
+"name": "NDAA FY2025 (P.L. 118-159), Sec. 1001",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-118publ159/html/PLAW-118publ159.htm"
+}
+],
+"sub": "$6 billion of authorization-side transfer authority on a national-interest determination",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 569 of 1027, score 27). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D2.",
+"timeline": []
+}

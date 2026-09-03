@@ -1,0 +1,147 @@
+{
+"A": 0,
+"C": 0,
+"D": 2,
+"affiliations": [
+"Independent television production, Los Angeles",
+"Fair-Witness Project (with William Moore)"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "1984-12-11",
+"event": "Receives an anonymous roll of undeveloped 35mm film postmarked Albuquerque, New Mexico.",
+"precision": "day"
+},
+{
+"date": "1985-07-01",
+"event": "With Moore, locates the Cutler-Twining memorandum during a search of Record Group 341 at the National Archives.",
+"precision": "month"
+},
+{
+"date": "1987-05-29",
+"event": "MJ-12 material released publicly.",
+"precision": "day"
+}
+],
+"claims": [
+{
+"source": "Jaime Shandera and William Moore, consistent public accounts from 1987 onward",
+"text": "The MJ-12 film arrived anonymously at Shandera's residence on 11 December 1984 bearing an Albuquerque postmark.",
+"tier": 2
+},
+{
+"source": "National Archives, 'Majestic 12 (MJ-12) Reference Report'",
+"text": "A memorandum for General Twining from Robert Cutler, Special Assistant to the President, subject 'NSC/MJ-12 Special Studies Project,' dated 14 July 1954, was located at the National Archives in Record Group 341, entry 267, folder T4-1846 - the only document in NARA's custody bearing the term MJ-12.",
+"tier": 1
+}
+],
+"cls": "person",
+"cluster": "research",
+"conflicts": [
+"NARA's conservation and provenance analysis found the Cutler-Twining memo bore no Top Secret register number, no letterhead or watermark, and used a security marking ('Top Secret Restricted Information') that NSC's own FOIA office says did not come into use until the Nixon administration."
+],
+"connections": [
+{
+"claimTier": 2,
+"cls": "document",
+"dateEnd": "1984",
+"dateStart": "1984",
+"direction": "out",
+"edgeLabel": "Received the anonymous 35mm film on 11 December 1984",
+"id": "mj-12-documents",
+"l0": true,
+"label": "MJ-12 / Operation Majestic-12 Documents",
+"note": "The film arrived at Shandera's Los Angeles home postmarked Albuquerque, New Mexico - the same city as the AFOSI operation running against Bennewitz.",
+"sources": [
+{
+"date": "2011-04-01",
+"name": "FBI Records: The Vault - 'Majestic 12'",
+"url": "https://vault.fbi.gov/Majestic%2012"
+},
+{
+"date": "1988-01-01",
+"name": "Philip J. Klass, 'The MJ-12 Crashed-Saucer Documents', Skeptical Inquirer",
+"url": "https://skepticalinquirer.org/1988/01/the-mj-12-crashed-saucer-documents/"
+}
+],
+"tier": "B",
+"type": "custody"
+},
+{
+"claimTier": 2,
+"cls": "institution",
+"dateEnd": "2026-08-21",
+"dateStart": "2026-08-21",
+"direction": "in",
+"edgeLabel": "Doty says Shandera was an NIS asset shortly before the MJ-12 dead drop",
+"id": "naval-criminal-investigative-service",
+"l0": false,
+"label": "Naval Criminal Investigative Service",
+"note": "Richard Doty states that Shandera was an NIS asset on an unrelated operation shortly before the MJ-12 film was dead-dropped, a Tier 2 claim no opened NIS record corroborates.",
+"sources": [
+{
+"date": "2026-08-21",
+"name": "DEBRIEFED with Chris Ramsay, 'Former Counterintelligence Agent Shares Wild Alien Encounters - Richard Doty', 21 August 2026, 1:17:09",
+"url": ""
+}
+],
+"tier": "C",
+"type": "witness-chain"
+}
+],
+"date": "1984-12-11",
+"dateEnd": null,
+"dateStart": "1984-12-11",
+"deg": 2,
+"denials": [],
+"domains": [
+"history-1970s-2000s"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "1",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "jaime-shandera",
+"instId": null,
+"l0": false,
+"label": "Jaime H. Shandera",
+"loc": "Burbank, CA",
+"locId": "l-la",
+"members": null,
+"narrative": "Shandera was a Los Angeles television producer working with Bill Moore when, on 11 December 1984, an unmarked envelope postmarked Albuquerque arrived at his home containing a roll of undeveloped 35mm black-and-white film. Developed, it showed eight pages: a briefing document dated 18 November 1952 prepared for President-elect Eisenhower on 'Operation Majestic-12,' listing twelve named officials and describing the recovery of a crashed disc and four bodies near Roswell. The Albuquerque postmark is the detail that will not go away - it points at the same city and the same window as the AFOSI Kirtland operation against Bennewitz. Shandera, Moore and Stanton Friedman held the material for two and a half years, made a National Archives search that produced the Cutler-Twining memorandum in 1985, and released the package publicly in May 1987. Shandera died in 2019. His role is that of the receiving end of a channel: whoever sent that film chose a producer with a documented connection to a researcher with a documented connection to AFOSI.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Jaime H. Shandera",
+"sources": [
+{
+"date": "2016-08-15",
+"name": "National Archives, 'Project BLUE BOOK - Unidentified Flying Objects' reference report (incl. MJ-12 / Cutler-Twining findings)",
+"url": "https://www.archives.gov/research/military/air-force/ufos"
+},
+{
+"date": "2011-04-01",
+"name": "FBI Records: The Vault - 'Majestic 12'",
+"url": "https://vault.fbi.gov/Majestic%2012"
+},
+{
+"date": "1988-01-01",
+"name": "Philip J. Klass, 'The MJ-12 Crashed-Saucer Documents', Skeptical Inquirer",
+"url": "https://skepticalinquirer.org/1988/01/the-mj-12-crashed-saucer-documents/"
+}
+],
+"status": "dead",
+"sub": "Television producer; recipient of the anonymous MJ-12 film, December 1984",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 821 of 1027, score 17). 2 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A0/D2.",
+"timeline": [],
+"unexplainedResidual": "A document planted in a NARA record group is a federal records offence; no investigation of how the Cutler-Twining memo entered RG 341 has ever been released.",
+"unverified": [
+"The identity of the sender of the December 1984 film has never been established."
+]
+}

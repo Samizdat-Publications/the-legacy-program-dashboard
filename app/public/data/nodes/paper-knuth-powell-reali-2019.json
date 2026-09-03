@@ -1,0 +1,139 @@
+{
+"A": 0,
+"C": 0,
+"D": 2,
+"band": null,
+"claims": [
+{
+"source": "Entropy / Crossref record",
+"text": "The paper is Entropy 21(10):939, DOI 10.3390/e21100939, published 25 September 2019.",
+"tier": 1
+},
+{
+"source": "Proceedings, DOI 10.3390/proceedings2019033026",
+"text": "A companion paper, 'Estimating Flight Characteristics of Anomalous Unidentified Aerial Vehicles in the 2004 Nimitz Encounter', appeared in the proceedings of the 39th International Workshop on Bayesian Inference and Maximum Entropy Methods in December 2019.",
+"tier": 1
+}
+],
+"cls": "document",
+"cluster": "research",
+"connections": [
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "2019",
+"direction": "in",
+"edgeLabel": "Lead author of the Entropy kinematics paper",
+"id": "kevin-knuth",
+"l0": false,
+"label": "Kevin H. Knuth",
+"note": "Entropy 21(10):939 estimated accelerations, velocities and required power from documented cases including the 2004 Nimitz encounter.",
+"sources": [
+{
+"date": "2019-09-25",
+"name": "Knuth, Powell & Reali, 'Estimating Flight Characteristics of Anomalous Unidentified Aerial Vehicles', Entropy 21(10):939",
+"url": "https://doi.org/10.3390/e21100939"
+}
+],
+"tier": "C",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": null,
+"dateStart": "2019",
+"direction": "out",
+"edgeLabel": "Nimitz encounter analysed quantitatively in a peer-reviewed physics journal",
+"id": "nimitz-2004",
+"l0": true,
+"label": "USS Nimitz Carrier Strike Group Encounters, 10-16 November 2004",
+"note": "A companion paper in the MaxEnt 2019 proceedings treated the Nimitz case specifically; this is the point at which the 2004 encounter entered the physics literature rather than the news cycle.",
+"sources": [
+{
+"date": "2019-09-25",
+"name": "Knuth, Powell & Reali, 'Estimating Flight Characteristics of Anomalous Unidentified Aerial Vehicles', Entropy 21(10):939",
+"url": "https://doi.org/10.3390/e21100939"
+}
+],
+"tier": "A",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "2019",
+"direction": "in",
+"edgeLabel": "Co-author; brought the SCU case reconstructions",
+"id": "robert-powell",
+"l0": false,
+"label": "Robert M. Powell",
+"note": "Powell's FOIA-derived sensor reconstructions supplied the case inputs for the kinematic estimates.",
+"sources": [
+{
+"date": "2019-09-25",
+"name": "Knuth, Powell & Reali, 'Estimating Flight Characteristics of Anomalous Unidentified Aerial Vehicles', Entropy 21(10):939",
+"url": "https://doi.org/10.3390/e21100939"
+},
+{
+"date": "2015-08-06",
+"name": "Powell, Beall, Cates, Paulson & Hoffman, '2013 Aguadilla Puerto Rico UAP', SCU (Zenodo)",
+"url": "https://doi.org/10.5281/zenodo.7844175"
+}
+],
+"tier": "C",
+"type": "investigative"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "2019",
+"deg": 3,
+"denials": [],
+"desc": "Published in Entropy on 25 September 2019 (DOI 10.3390/e21100939) by Kevin H. Knuth of the University at Albany, Robert Powell of the Scientific Coalition for UAP Studies and Peter Reali, following an August 2019 preprint, this is the paper that put numbers on the problem. It estimates accelerations, velocities and required power from documented cases including the 2004 Nimitz encounter, and it did something no volume of testimony could: it forced the question of whether the observed performance is achievable by known propulsion into a peer-reviewed physics venue where it can be contested on its inputs and error bars rather than dismissed on its provenance. A companion contribution appeared in the proceedings of the 39th International Workshop on Bayesian Inference and Maximum Entropy Methods in December 2019, specifically on the Nimitz encounter. The standing criticism - that Knuth is Editor-in-Chief of the journal in which it appeared - is fair and should be recorded; it does not dispose of the analysis.",
+"domains": [
+"scientists-technical"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "paper-knuth-powell-reali-2019",
+"l0": false,
+"label": "Knuth, Powell & Reali (2019), Entropy 21(10):939",
+"locLabel": null,
+"members": null,
+"short": "Knuth, Powell & Reali (2019), Entropy 21(10):939",
+"sources": [
+{
+"date": "2019-09-25",
+"name": "Knuth, Powell & Reali, 'Estimating Flight Characteristics of Anomalous Unidentified Aerial Vehicles', Entropy 21(10):939",
+"url": "https://doi.org/10.3390/e21100939"
+},
+{
+"date": "2019-12-16",
+"name": "Knuth, Powell & Reali, 'Estimating Flight Characteristics of Anomalous Unidentified Aerial Vehicles in the 2004 Nimitz Encounter', MaxEnt 2019 Proceedings",
+"url": "https://doi.org/10.3390/proceedings2019033026"
+}
+],
+"sub": "'Estimating Flight Characteristics of Anomalous Unidentified Aerial Vehicles'",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 931 of 1027, score 13). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D2.",
+"timeline": [
+{
+"date": "2019-09-25",
+"id": "st-2019-09-entropy",
+"label": "Entropy kinematics paper",
+"precision": "day",
+"strand": "program",
+"text": "Knuth, Powell and Reali publish 'Estimating Flight Characteristics of Anomalous Unidentified Aerial Vehicles' - the first quantitative UAP performance analysis in a peer-reviewed physics journal.",
+"tier": "A"
+}
+]
+}

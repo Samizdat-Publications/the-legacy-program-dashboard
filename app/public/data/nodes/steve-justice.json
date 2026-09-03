@@ -1,0 +1,176 @@
+{
+"A": 3,
+"C": 2,
+"D": 2,
+"affiliations": [
+"Lockheed Martin Advanced Development Programs (Skunk Works), 31 years, Program Director Advanced Systems",
+"To The Stars Academy of Arts & Science, Aerospace Division Director then COO (2017-2020)"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "2017-10-11",
+"event": "Announced as TTSA Aerospace Division Director at launch.",
+"precision": "day"
+},
+{
+"date": "2019-07-25",
+"event": "Publicly characterises ADAM metamaterial specimens as not matching any known military or commercial application.",
+"precision": "day"
+},
+{
+"date": "2019-10-17",
+"event": "Quoted in TTSA's announcement of the CRADA with U.S. Army Combat Capabilities Development Command.",
+"precision": "day"
+},
+{
+"date": "2020-12-01",
+"event": "Departs TTSA with Elizondo and Mellon.",
+"precision": "month"
+}
+],
+"claims": [
+{
+"source": "SEC EDGAR, TTSA Form 1-K Part II, filed April 2018",
+"text": "Listed in TTSA's Form 1-K as Director of Advanced Programs and Technology, age 61, part-time, recently retired as a Program Director from Lockheed Martin Advanced Development Programs (Skunk Works) after 31 years.",
+"tier": 1
+},
+{
+"source": "TTSA ADAM Research Project announcement, July 2019, as reported by Wikipedia's To The Stars Inc. entry and contemporaneous coverage",
+"text": "Stated of the ADAM specimens that their 'structure and composition are not from any known existing military or commercial application.'",
+"tier": 2
+},
+{
+"source": "PR Newswire, 17 October 2019",
+"text": "Quoted in TTSA's 17 October 2019 CRADA press release: 'This cooperative research agreement brings additional, critically important expertise.'",
+"tier": 2
+}
+],
+"cls": "person",
+"cluster": "contractor",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 2,
+"cls": "program",
+"dateEnd": null,
+"dateStart": "2019",
+"direction": "in",
+"edgeLabel": "Justice, ex-Lockheed Skunk Works Advanced Systems director, fronted the acquisition",
+"id": "adam-research-project",
+"l0": true,
+"label": "ADAM Research Project (Acquisition and Data Analysis of Materials)",
+"note": "Justice said the structure and composition 'are not from any known existing military or commercial application' and conceded the materials came from sources 'with varying levels of chain-of-custody documentation'.",
+"sources": [
+{
+"date": "2019-07-26",
+"name": "M.J. Banias, 'Tom DeLonge's UFO Organization Says It's Obtained Exotic Metals Unknown to Science', Vice",
+"url": "https://www.vice.com/en/article/tom-delonges-ufo-organization-says-its-obtained-exotic-metals-unknown-to-science/"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 2,
+"cls": "program",
+"dateEnd": "2020",
+"dateStart": "2019",
+"direction": "out",
+"edgeLabel": "Public technical voice: material 'not from any known existing military or commercial application'",
+"id": "adam-research-project",
+"l0": true,
+"label": "ADAM Research Project (Acquisition and Data Analysis of Materials)",
+"note": "A former Skunk Works program director staking his name on the claim is what gave ADAM standing with an Army laboratory.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Wikipedia — To The Stars Inc.",
+"url": "https://en.wikipedia.org/wiki/To_the_Stars_(company)."
+},
+{
+"date": "2019-07-26",
+"name": "The Singular Fortean Society",
+"url": "https://www.singularfortean.com/news/2019/7/26/metamaterials-acquired-by-ttsa-reportedly-come-from-an-advanced-aerospace-vehicle-of-unknown-origin"
+}
+],
+"tier": "A",
+"type": "programmatic"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "2020",
+"dateStart": "2017",
+"direction": "out",
+"edgeLabel": "Aerospace Division Director then COO (2017-2020)",
+"id": "ttsa",
+"l0": true,
+"label": "To The Stars Academy of Arts & Science Inc. (later To The Stars Inc.)",
+"note": "31 years at Lockheed's Skunk Works, latterly Program Director for Advanced Systems, per the company's own filing.",
+"sources": [
+{
+"date": "2018-04-30",
+"name": "SEC EDGAR — TTSA Form 1-K",
+"url": "https://www.sec.gov/Archives/edgar/data/1710274/000114420418023727/tv492460_partii.htm"
+}
+],
+"tier": "A",
+"type": "institutional"
+}
+],
+"date": "2019-10-17",
+"dateEnd": null,
+"dateStart": "2019-10-17",
+"deg": 2,
+"denials": [],
+"domains": [
+"elizondo-ttsa"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "steve-justice",
+"instId": "ttsa",
+"l0": false,
+"label": "Steve Justice",
+"loc": "Encinitas, CA",
+"locId": "l-encinitas",
+"members": null,
+"narrative": "Justice is the black-aerospace credential in the TTSA roster. He retired from Lockheed Martin Advanced Development Programs — the Skunk Works — after 31 years, latterly as Program Director for Advanced Systems, and joined TTSA at launch in October 2017 as Aerospace Division Director, later Chief Operating Officer. He is the officer who publicly characterised the ADAM Research Project specimens, saying their 'structure and composition are not from any known existing military or commercial application,' and he is quoted in the October 2019 CRADA announcement saying the Army agreement 'brings additional, critically important expertise.' The technology list he put his name to in that agreement — inertial mass reduction, mechanical and structural metamaterials, electromagnetic metamaterial waveguides, quantum communications, beamed energy propulsion, active camouflage — is the closest thing in the open record to a legacy-program wish list submitted to a U.S. Army laboratory by a private company staffed with former SAP personnel. He departed TTSA in late 2020 with Elizondo and Mellon.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Steve Justice",
+"sources": [
+{
+"date": "2018-04-30",
+"name": "SEC EDGAR — TTSA Form 1-K Part II",
+"url": "https://www.sec.gov/Archives/edgar/data/1710274/000114420418023727/tv492460_partii.htm"
+},
+{
+"date": "2019-10-17",
+"name": "PR Newswire — TTSA Announces CRADA with the U.S. Army Combat Capabilities Development Command",
+"url": "https://www.prnewswire.com/news-releases/to-the-stars-academy-of-arts--science-announces-crada-with-the-us-army-combat-capabilities-development-command-to-advance-materiel-and-technology-innovations-300940211.html"
+},
+{
+"date": "2026-08-12",
+"name": "Wikipedia — To The Stars Inc.",
+"url": "https://en.wikipedia.org/wiki/To_the_Stars_(company)."
+}
+],
+"status": "former",
+"sub": "TTSA COO and Aerospace Division Director; 31 years at Lockheed Martin Skunk Works",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 348 of 1027, score 34). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A3/D2.",
+"timeline": [],
+"unexplainedResidual": null,
+"unverified": [
+"Justice's exact departure date from TTSA; reporting places it in December 2020 alongside Elizondo and Mellon but no SEC 8-K equivalent has been located."
+]
+}

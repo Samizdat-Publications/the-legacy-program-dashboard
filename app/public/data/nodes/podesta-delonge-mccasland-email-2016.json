@@ -1,0 +1,216 @@
+{
+"A": 2,
+"C": 2,
+"D": 1,
+"band": null,
+"claims": [
+{
+"source": "WikiLeaks, The Podesta Emails, email id 3099, released 10 October 2016, https://wikileaks.org/podesta-emails/emailid/3099",
+"text": "DeLonge wrote to Podesta on 25 January 2016 under the subject 'General McCasland': 'When Roswell crashed, they shipped it to the laboratory at Wright Patterson Air Force Base. General McCasland was in charge of that exact laboratory up to a couple years ago.' The raw source gives the date as Mon, 25 Jan 2016 10:04:29 -0800 and the message id as E8428167-CF1B-4CC3-95D2-977A277CC5CB@me.com.",
+"tier": 1
+},
+{
+"source": "WikiLeaks, The Podesta Emails, email id 3099, https://wikileaks.org/podesta-emails/emailid/3099",
+"text": "In the same email DeLonge told Podesta the general was not the sceptic he had been described as: 'I've been working with him for four months. I just got done giving him a four hour presentation on the entire project a few weeks ago', and that 'He not only knows what I'm trying to achieve, he helped assemble my advisory team.'",
+"tier": 1
+},
+{
+"source": "WikiLeaks, The Podesta Emails, email ids 51979 and 9501, https://wikileaks.org/podesta-emails/emailid/51979 ; https://wikileaks.org/podesta-emails/emailid/9501",
+"text": "The general was a correspondent, not only a subject. The 'DeLonge/Podesta Meeting' thread of 24 and 25 January 2016 runs between Podesta and neilmcc79@gmail.com, who signs 'Neil McC' and whom the Google calendar invitation names as Neil McCasland, copied to t.delonge@me.com, mfisher@hillaryclinton.com, rob.f.weiss@lmco.com and carey.mjd@gmail.com. Podesta organised the meeting as a Google Hangout and moved it to 12:30 Eastern after a blizzard.",
+"tier": 1
+},
+{
+"source": "WikiLeaks, The Podesta Emails, email id 15486, https://wikileaks.org/podesta-emails/emailid/15486",
+"text": "DeLonge names the Lockheed leg himself. On 22 February 2016, under the subject 'Advisors', he wrote to Podesta: 'Mr. Weiss from Lockheed SkunkWorks just emailed me asking if there were any updates. I am not expecting much, but if there is anything I can tell him and the General, however small, I would like to respectfully pass it along.'",
+"tier": 1
+},
+{
+"source": "WikiLeaks, The Podesta Emails, corpus search, https://wikileaks.org/podesta-emails/?q=prometheus and https://wikileaks.org/podesta-emails/?q=moulton",
+"text": "Neither Prometheus nor Linda Moulton Howe appears in the release. A search of the WikiLeaks Podesta Emails interface for 'prometheus' returns five emails, all of them American Bar Association technology transfer law circulars addressed to podesta@LAW.GEORGETOWN.EDU, and a search for 'moulton' returns sixteen, none of them hers and none from DeLonge. Thirteen emails in the release were sent from t.delonge@me.com and none of them is among either set.",
+"tier": 1
+},
+{
+"source": "Batch 18 file 01, 0:29:08-0:30:00, research/leads/area52-corpus-18.md; checked against https://wikileaks.org/podesta-emails/?q=prometheus",
+"text": "On Debriefed, episode 82, 3 April 2026, Michael Phillip said the Prometheus and Greek mythology framing reached him through 'the conversations between Podesta and McCaslin and dalong and then by way of dalong lavenda' in the WikiLeaks release, while stating in the same passage that 'I don't know verbatim what he actually said. I'm sort of regurgitating this from talking to lavenda.' The release contains the correspondence he names and does not contain the content he attributes to it.",
+"tier": 2
+}
+],
+"cls": "document",
+"cluster": "media",
+"connections": [
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "Addressee of the McCasland email and organiser of the 25 January 2016 meeting",
+"id": "john-podesta",
+"l0": false,
+"label": "John D. Podesta",
+"note": "The email is addressed to john.podesta@gmail.com, and Podesta organised the 'DeLonge/Podesta Meeting' Google Hangout to which the general and DeLonge were both invited.",
+"sources": [
+{
+"date": "2016-01-25",
+"name": "WikiLeaks, The Podesta Emails, email ids 3099 and 51979",
+"url": "https://wikileaks.org/podesta-emails/emailid/3099"
+}
+],
+"tier": "C",
+"type": "witness-chain"
+},
+{
+"claimTier": 2,
+"cls": "location",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "DeLonge's written assertion that the Roswell material went to the Wright-Patterson laboratory",
+"id": "l-wright-patterson",
+"l0": false,
+"label": "Wright-Patterson Air Force Base, Ohio",
+"note": "The email asserts to Podesta that 'When Roswell crashed, they shipped it to the laboratory at Wright Patterson Air Force Base' and that the general ran that laboratory until a couple of years earlier. The record establishes that DeLonge asserted this in writing in January 2016, not that it happened.",
+"sources": [
+{
+"date": "2016-01-25",
+"name": "WikiLeaks, The Podesta Emails, email id 3099",
+"url": "https://wikileaks.org/podesta-emails/emailid/3099"
+}
+],
+"tier": "A",
+"type": "custody"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "Rob Weiss of Lockheed Skunk Works copied on the meeting thread and named by DeLonge",
+"id": "lockheed-skunk-works",
+"l0": true,
+"label": "Lockheed Martin Advanced Development Programs (Skunk Works)",
+"note": "rob.f.weiss@lmco.com is a copy recipient on the 24 and 25 January 2016 meeting thread, and on 22 February 2016 DeLonge wrote to Podesta of 'Mr. Weiss from Lockheed SkunkWorks' asking whether there were any updates for him and the General.",
+"sources": [
+{
+"date": "2016-02-22",
+"name": "WikiLeaks, The Podesta Emails, email ids 51979 and 15486",
+"url": "https://wikileaks.org/podesta-emails/emailid/15486"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "Author of the email and of the surrounding correspondence",
+"id": "tom-delonge",
+"l0": false,
+"label": "Thomas Matthew DeLonge",
+"note": "Thirteen emails in the Podesta release were sent from t.delonge@me.com, including this one, signed Tom DeLonge, Founder, To The Stars Media.",
+"sources": [
+{
+"date": "2016-01-25",
+"name": "WikiLeaks, The Podesta Emails, email id 3099",
+"url": "https://wikileaks.org/podesta-emails/emailid/3099"
+}
+],
+"tier": "C",
+"type": "witness-chain"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "Subject of the email and party to the meeting thread, as 'General McCasland' and 'Neil McCasland'",
+"id": "william-mccasland",
+"l0": false,
+"label": "William Neil McCasland",
+"note": "The email names General McCasland and the meeting thread runs through neilmcc79@gmail.com, signing 'Neil McC'. The email gives no rank, service or middle name, so the identification with the board's William Neil McCasland rests on the name and on the node's own Air Force biography, not on the email.",
+"sources": [
+{
+"date": "2016-01-25",
+"name": "WikiLeaks, The Podesta Emails, email ids 3099, 51979 and 9501",
+"url": "https://wikileaks.org/podesta-emails/emailid/3099"
+}
+],
+"tier": "A",
+"type": "witness-chain"
+}
+],
+"coords": null,
+"dateEnd": "2016-01-25",
+"dateStart": "2016-01-25",
+"deg": 5,
+"denials": [],
+"desc": "On 25 January 2016 Tom DeLonge emailed John Podesta under the subject line 'General McCasland'. The email disputes a description of the general as a sceptic, says DeLonge had been working with him for four months and had given him a four hour presentation on the project, asserts that the Roswell material was shipped to the laboratory at Wright-Patterson Air Force Base and that General McCasland had been in charge of that laboratory until a couple of years earlier, and says the general helped assemble DeLonge's advisory team. It was published by WikiLeaks in the Podesta Emails on 10 October 2016. The same day's calendar thread for a 'DeLonge/Podesta Meeting' is between Podesta and neilmcc79@gmail.com, signing 'Neil McC', copied to DeLonge, to a Hillary Clinton campaign address and to Rob Weiss at Lockheed Martin, so the general is a party to the correspondence and not only its subject.",
+"domains": [
+"area52-2026-09-02"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "2",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "podesta-delonge-mccasland-email-2016",
+"l0": false,
+"label": "DeLonge to Podesta, 'General McCasland', 25 January 2016 (WikiLeaks Podesta Emails 3099)",
+"locLabel": null,
+"members": null,
+"short": "DeLonge to Podesta, 'General McCasland', 25 January 2016 (WikiLeaks Podesta Emails 3099)",
+"sources": [
+{
+"date": "2016-01-25",
+"name": "WikiLeaks, The Podesta Emails, email id 3099, 'General McCasland'",
+"url": "https://wikileaks.org/podesta-emails/emailid/3099"
+},
+{
+"date": "2016-01-25",
+"name": "WikiLeaks, The Podesta Emails, email id 51979, 'Re: Invitation: DeLonge/Podesta Meeting'",
+"url": "https://wikileaks.org/podesta-emails/emailid/51979"
+},
+{
+"date": "2016-01-25",
+"name": "WikiLeaks, The Podesta Emails, email id 9501, same thread",
+"url": "https://wikileaks.org/podesta-emails/emailid/9501"
+},
+{
+"date": "2016-02-22",
+"name": "WikiLeaks, The Podesta Emails, email id 15486, 'Advisors'",
+"url": "https://wikileaks.org/podesta-emails/emailid/15486"
+},
+{
+"date": null,
+"name": "WikiLeaks, The Podesta Emails, corpus search, and",
+"url": "https://wikileaks.org/podesta-emails/?q=prometheus"
+},
+{
+"date": null,
+"name": "WikiLeaks, The Podesta Emails, corpus search, and",
+"url": "https://wikileaks.org/podesta-emails/?q=moulton"
+}
+],
+"sub": "The written record joining DeLonge, Podesta and a General McCasland, released October 2016",
+"tier": "A",
+"tierRationale": "Re-graded A on a global pass (rank 150 of 1027, score 50). 5 connections, 4 of them custody/witness/funding/programmatic. Axes C2/A2/D1.",
+"timeline": [
+{
+"date": "2016-01-25",
+"id": "tl-2016-01-25-delonge-podesta-mccasland",
+"label": "DeLonge names Wright-Patterson and McCasland to Podesta in writing",
+"precision": "day",
+"strand": "witness",
+"text": "Under the subject line 'General McCasland', Tom DeLonge writes to John Podesta: 'When Roswell crashed, they shipped it to the laboratory at Wright Patterson Air Force Base. General McCasland was in charge of that exact laboratory up to a couple years ago.' The same day's calendar thread for a DeLonge/Podesta meeting runs between Podesta and an address signing 'Neil McC', copied to DeLonge, a Clinton campaign address and Rob Weiss of Lockheed Martin. Neither Prometheus nor Linda Moulton Howe appears anywhere in the release.",
+"tier": "B"
+}
+]
+}

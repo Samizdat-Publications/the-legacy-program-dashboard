@@ -1,0 +1,255 @@
+{
+"A": 0,
+"C": 0,
+"D": 3,
+"affiliations": [
+"ufohastings.com",
+"UFOs and Nukes (book and documentary)"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "1981",
+"event": "Begins lecturing on the UFO-nuclear weapons connection at colleges and universities",
+"precision": "year"
+},
+{
+"date": "2008",
+"event": "First edition of 'UFOs and Nukes: Extraordinary Encounters at Nuclear Weapons Sites'",
+"precision": "year"
+},
+{
+"date": "2010-09-27",
+"event": "Hosts the UFO-Nukes Connection press conference at the National Press Club, Washington DC, with seven USAF veterans; CNN streams it live",
+"precision": "day"
+},
+{
+"date": "2026-06-20",
+"event": "Publishes an article on David Grusch's statement regarding sentient plasmoid life",
+"precision": "day"
+}
+],
+"claims": [
+{
+"source": "American Alchemy with Jesse Michels, 'Did Oppenheimer Work on UFOs?', 19 October 2024, 0:34:57, and 'UFOs Are Monitoring Nuclear Weapons GLOBALLY (ft. Robert Hastings)', 24 December 2024, 2:07:40",
+"text": "On American Alchemy with Jesse Michels, 19 October 2024, at 0:34:57, Michels gave Hastings's figure as '167 UFO sighting cases at nuclear bases', and in the same breath as '167 ICBM security personnel, radar operators, people who work at these nuclear sites'. On 24 December 2024 at 2:07:40, with Hastings present, he described the same body of testimony as 'almost 200 stand-up patriots'.",
+"tier": 2
+},
+{
+"source": "American Alchemy with Jesse Michels, 'UFO Believer vs. UFO Skeptic: Are Aliens Visiting Earth?' (ft. Mick West and Marik von Rennenkampff), 27 January 2025, 3:07:08, https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/TOE9180015195.mp3?updated=1738087523",
+"text": "On the same show on 27 January 2025 at 3:07:08 Michels said he had overstated the case and that Hastings emailed him a correction: 'it was only like 12 to 15. I don't remember the exact number. But radar operators, the rest were ICBM security personnel'. In the same passage he gives the overall total as 170. The correction concerns the composition of the witness population, not only its size.",
+"tier": 2
+},
+{
+"source": "ufohastings.com document archive, retrieved 12 August 2026",
+"text": "Hastings publishes the primary documents underlying his cases, including FBI memoranda on Los Alamos (December 1948) and Los Alamos/Sandia (August 1950), F. E. Warren AFB documents of 1 August 1965, Minot AFB documents of 25 August 1966 and 6 December 1966, an Air Force teletype of 17 March 1967 headed loss of strategic alert, and 1975 Malmstrom material.",
+"tier": 1
+},
+{
+"source": "ufohastings.com; CNN coverage of the press conference, 27 September 2010",
+"text": "On 27 September 2010 Hastings convened seven US Air Force veterans at the National Press Club to describe UFO incursions at nuclear weapons sites; CNN carried the event.",
+"tier": 2
+},
+{
+"source": "ufohastings.com, 'Witness Affidavits' section",
+"text": "Hastings holds signed witness affidavits from Robert Salas, Charles Halt, Patrick McDonough, Robert Jamison, Dwynne Arneson, Bruce Fenstermacher and Jerry Nelson, published in facsimile.",
+"tier": 2
+},
+{
+"source": "Hastings, ufohastings.com and 'UFOs and Nukes' (2nd ed.)",
+"text": "Hastings states he has interviewed more than 150 military veterans about UFO-related incidents at US missile sites, weapons storage facilities and nuclear test ranges.",
+"tier": 2
+}
+],
+"cls": "person",
+"cluster": "research",
+"conflicts": [
+"Air Force historians and sceptics including James Carlson have contested the Malmstrom Echo Flight interpretation specifically, attributing the March 1967 shutdown to an engineering fault and, in a later analysis, to a nearby electromagnetic pulse simulator test."
+],
+"connections": [
+{
+"claimTier": 3,
+"cls": "document",
+"dateEnd": "2010",
+"dateStart": "1984",
+"direction": "out",
+"edgeLabel": "Hastings extended the Fawcett-Greenwood documentary method with named witnesses",
+"id": "clear-intent-1984",
+"l0": false,
+"label": "Clear Intent: The Government Coverup of the UFO Experience (1984)",
+"note": "Hastings pairs the FOIA paper that 'Clear Intent' established with signed affidavits from named officers, which is the step the 1984 book could not take. Reasoning: comparison of the two evidence bases.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "UFOs & Nukes document archive",
+"url": "https://www.ufohastings.com/documents"
+},
+{
+"date": "1984-01-01",
+"name": "Fawcett and Greenwood, 'Clear Intent' (1984)",
+"url": "https://archive.org/details/clear-intent-the-government-coverup-of-the-ufo-experience"
+}
+],
+"tier": "C",
+"type": "research"
+},
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": "2026",
+"dateStart": "1967-03-17",
+"direction": "in",
+"edgeLabel": "Hastings holds and publishes the 17 March 1967 teletype",
+"id": "malmstrom-echo-flight-1967",
+"l0": false,
+"label": "Malmstrom AFB missile shutdowns, March 1967",
+"note": "The document is published in facsimile in the UFOs & Nukes archive under the Echo Flight heading, and is the tier-1 anchor for the occurrence of the shutdown.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "UFOs & Nukes document archive",
+"url": "https://www.ufohastings.com/documents"
+}
+],
+"tier": "B",
+"type": "custody"
+},
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": "2026",
+"dateStart": "1966-08-25",
+"direction": "out",
+"edgeLabel": "Publishes the 25 August 1966 Minot documents in facsimile",
+"id": "minot-1966",
+"l0": false,
+"label": "Minot AFB incursions, 1966",
+"note": "Three Air Force documents dated 25 August 1966 and Minot Daily News coverage of 6 December 1966 are reproduced in the archive.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "UFOs & Nukes document archive",
+"url": "https://www.ufohastings.com/documents"
+}
+],
+"tier": "C",
+"type": "custody"
+},
+{
+"claimTier": 2,
+"cls": "event",
+"dateEnd": "2010-09-27",
+"dateStart": "2010-09-27",
+"direction": "out",
+"edgeLabel": "Convened and hosted the National Press Club event",
+"id": "npc-2010-ufos-nukes",
+"l0": false,
+"label": "UFO-Nukes Connection press conference, National Press Club, 27 September 2010",
+"note": "Hastings hosted the UFO-Nukes Connection press conference with seven USAF veterans; CNN streamed it live and quoted him from the podium.",
+"sources": [
+{
+"date": "2010-09-27",
+"name": "CNN coverage, National Press Club, 27 September 2010",
+"url": "https://archive.org/details/FullCnnCoverageOfPressConferenceufosAtNuclearWeaponBases"
+},
+{
+"date": "2026-08-12",
+"name": "UFOs & Nukes document archive",
+"url": "https://www.ufohastings.com/documents"
+}
+],
+"tier": "C",
+"type": "witness-chain"
+},
+{
+"claimTier": 3,
+"cls": "person",
+"dateEnd": "2026",
+"dateStart": "2002",
+"direction": "in",
+"edgeLabel": "Dolan's institutional frame and Hastings's nuclear casework are complementary",
+"id": "richard-dolan",
+"l0": false,
+"label": "Richard M. Dolan",
+"note": "Dolan argues concealment from the documented secrecy architecture; Hastings supplies the best-documented category of incident occurring inside the most heavily compartmented part of that architecture. Reasoning: the nuclear weapons complex is where SAP density and incident documentation coincide.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "UFOs & Nukes document archive",
+"url": "https://www.ufohastings.com/documents"
+}
+],
+"tier": "C",
+"type": "research"
+}
+],
+"date": "2026-06-20",
+"dateEnd": null,
+"dateStart": "2026-06-20",
+"deg": 5,
+"denials": [],
+"domains": [
+"w2-retrieval-literature"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "robert-hastings",
+"instId": null,
+"l0": false,
+"label": "Robert L. Hastings",
+"loc": "Albuquerque, NM",
+"locId": null,
+"members": null,
+"narrative": "Robert Hastings has spent more than forty years doing one thing: locating and interviewing US Air Force personnel who were present at nuclear weapons sites during unexplained aerial incursions, and pairing their testimony with declassified documents obtained under FOIA. He states he has interviewed over 150 military veterans involved in such incidents at missile sites, weapons storage facilities and bomb test ranges, and he has published the underlying paper - FBI memoranda on Los Alamos in December 1948 and on Los Alamos and Sandia in August 1950, F. E. Warren AFB documents from 1 August 1965, Minot AFB material from 1966, the 17 March 1967 Air Force teletype reporting loss of strategic alert at Malmstrom, and 1975 Malmstrom documents - alongside signed witness affidavits. On 27 September 2010 he hosted the UFO-Nukes Connection press conference at the National Press Club in Washington DC, at which seven US Air Force veterans described incursions at nuclear weapons sites; CNN streamed the event live. That event is the single most important item in this section of the board, because it converted a body of anonymous or semi-anonymous claims into named, on-the-record testimony from identifiable former officers with signed affidavits on file - which is the difference between tier 3 and tier 2. His book 'UFOs and Nukes: Extraordinary Encounters at Nuclear Weapons Sites' is in a revised second edition of 580 pages, and his documentary 'UFOs and Nukes: The Secret Link Revealed' followed. He has lectured at more than 500 colleges and universities since 1981 and continues publishing, most recently on Grusch-era material in June 2026.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Robert L. Hastings",
+"sources": [
+{
+"date": "2024-10-19",
+"name": "American Alchemy with Jesse Michels, 'Did Oppenheimer Work on UFOs?' (episode audio)",
+"url": "https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/TOE7249545573.mp3?updated=1751915004"
+},
+{
+"date": "2024-12-24",
+"name": "American Alchemy with Jesse Michels, 'UFOs Are Monitoring Nuclear Weapons GLOBALLY (ft. Robert Hastings)' (episode audio)",
+"url": "https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/TOE4049919963.mp3?updated=1752173281"
+},
+{
+"date": "2025-01-27",
+"name": "American Alchemy with Jesse Michels, 'UFO Believer vs. UFO Skeptic: Are Aliens Visiting Earth?' (ft. Mick West and Marik von Rennenkampff) (episode audio)",
+"url": "https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/TOE9180015195.mp3?updated=1738087523"
+},
+{
+"date": "2026-08-12",
+"name": "UFOs & Nukes - document and affidavit archive (Robert Hastings)",
+"url": "https://www.ufohastings.com/documents"
+},
+{
+"date": "2026-08-12",
+"name": "UFOs & Nukes - Robert Hastings",
+"url": "https://www.ufohastings.com/"
+},
+{
+"date": "2010-09-27",
+"name": "Full CNN coverage of press conference 'UFOs at Nuclear Weapon Bases' (archived)",
+"url": "https://archive.org/details/FullCnnCoverageOfPressConferenceufosAtNuclearWeaponBases"
+}
+],
+"status": "active",
+"sub": "Researcher, UFO incursions at US nuclear weapons sites; author, 'UFOs and Nukes'",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 377 of 1027, score 33). 5 connections, 3 of them custody/witness/funding/programmatic. Axes C0/A0/D3.",
+"timeline": [],
+"unexplainedResidual": null,
+"unverified": [
+"Hastings's date of birth. The identity of the seventh speaker at the 2010 press conference is inferred here from the affidavit set on his own site rather than from a programme."
+]
+}

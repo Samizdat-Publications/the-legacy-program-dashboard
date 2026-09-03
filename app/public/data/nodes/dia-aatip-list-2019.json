@@ -1,0 +1,123 @@
+{
+"A": 2,
+"C": 1,
+"D": 3,
+"band": null,
+"claims": [
+{
+"source": "Federation of American Scientists, 'AATIP List'; DIA letter to Aftergood",
+"text": "DIA released a 38-title list of AATIP research products to FAS on 16 January 2019, covering work funded 2007-2012 at approximately $22 million; the list had been provided to Congress in January 2018.",
+"tier": 1
+}
+],
+"cls": "document",
+"cluster": "ic",
+"connections": [
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": null,
+"dateStart": "2019",
+"direction": "in",
+"edgeLabel": "The 38-title list is the only official enumeration of the series",
+"id": "aawsap-dird-series",
+"l0": false,
+"label": "AAWSAP Defense Intelligence Reference Document series",
+"note": "DIA released the list to Steven Aftergood of FAS on 16 January 2019 under FOIA; it had been provided to Congress in January 2018. Without this release the series would be known only from leaks.",
+"sources": [
+{
+"date": "2019-01-17",
+"name": "Federation of American Scientists, 'AATIP List' (Secrecy News)",
+"url": "https://fas.org/publication/aatip-list/"
+},
+{
+"date": "2019-01-16",
+"name": "DIA letter to Steven Aftergood listing 38 AATIP reference products",
+"url": "https://irp.fas.org/dia/aatip-list.pdf"
+}
+],
+"tier": "B",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "domain",
+"dateEnd": null,
+"dateStart": "2019",
+"direction": "out",
+"edgeLabel": "Converted an oral controversy into an enumerated procurement record",
+"id": "d-custody",
+"l0": false,
+"label": "Chain of custody",
+"note": "Whatever else AATIP/AAWSAP was, the FOIA release proves it bought 38 named studies on wormholes, warp drive, metamaterials, metallic glasses, negative mass propulsion and clinical injury pathology for roughly $22 million.",
+"sources": [
+{
+"date": "2019-01-17",
+"name": "Federation of American Scientists, 'AATIP List' (Secrecy News)",
+"url": "https://fas.org/publication/aatip-list/"
+},
+{
+"date": "2019-01-16",
+"name": "DIA letter to Steven Aftergood listing 38 AATIP reference products",
+"url": "https://irp.fas.org/dia/aatip-list.pdf"
+}
+],
+"tier": "A",
+"type": "investigative"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "2019",
+"deg": 2,
+"denials": [],
+"desc": "On 16 January 2019 the Defense Intelligence Agency responded to a FOIA request from Steven Aftergood, director of the Federation of American Scientists' Project on Government Secrecy, with a letter listing 38 research titles funded by the Advanced Aerospace Threat Identification Program between 2007 and 2012 at a cost of approximately $22 million. The same list had been provided to Congress in January 2018. FAS published it the following day. Its importance is that it converted an oral controversy into an enumerated procurement record: whatever else AATIP/AAWSAP was, it was an organisation that bought 38 named technical studies on wormholes, warp drive, invisibility cloaking, metamaterials, metallic glasses, programmable matter, negative mass propulsion and clinical injury pathology. Aftergood's own comment - that the contract 'sounds like it was a good deal for the contractor' but that it would be hard to argue the military or the public got their money's worth - is the standard sceptical reading, and it is worth recording precisely because the same release is the primary evidence for the programme's subject matter.",
+"domains": [
+"scientists-technical"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "dia-aatip-list-2019",
+"l0": false,
+"label": "DIA letter to Steven Aftergood listing 38 AATIP reference products (16 January 2019)",
+"locLabel": null,
+"members": null,
+"short": "DIA letter to Steven Aftergood listing 38 AATIP reference products (16 January 2019)",
+"sources": [
+{
+"date": "2019-01-17",
+"name": "Federation of American Scientists, 'AATIP List' (Secrecy News)",
+"url": "https://fas.org/publication/aatip-list/"
+},
+{
+"date": "2019-01-16",
+"name": "DIA letter to Steven Aftergood listing 38 AATIP reference products",
+"url": "https://irp.fas.org/dia/aatip-list.pdf"
+},
+{
+"date": "2026-08-12",
+"name": "Wikipedia: Advanced Aerospace Threat Identification Program",
+"url": "https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program"
+}
+],
+"sub": "FOIA release; the first official enumeration of what the programme actually paid for",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 733 of 1027, score 21). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D3.",
+"timeline": [
+{
+"date": "2019-01-16",
+"id": "st-2019-01-16",
+"label": "DIA releases the 38-title list",
+"precision": "day",
+"strand": "oversight",
+"text": "DIA responds to Steven Aftergood's FOIA request with the list of 38 AATIP research titles funded 2007-2012 at approximately $22 million, previously provided to Congress in January 2018.",
+"tier": "A"
+}
+]
+}

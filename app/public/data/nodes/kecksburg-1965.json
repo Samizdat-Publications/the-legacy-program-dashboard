@@ -1,0 +1,179 @@
+{
+"A": 0,
+"C": 2,
+"D": 3,
+"band": null,
+"claims": [
+{
+"source": "Greensburg Tribune-Review, December 1965",
+"text": "The Greensburg Tribune-Review reported at the time that the landing area was immediately sealed off on the order of US Army and State Police officials in anticipation of a close inspection.",
+"tier": 1
+},
+{
+"source": "NASA statement, December 2005",
+"text": "NASA stated in December 2005 that experts had examined metallic fragments from the area and determined they were from a Soviet satellite, but that records of their findings were lost in the 1980s.",
+"tier": 1
+},
+{
+"source": "NASA Space Science Data Coordinated Archive entry on Cosmos 96",
+"text": "NASA's later published position states that the fireball's atmospheric path was probably too steep to be consistent with a spacecraft re-entering from Earth orbit, that USAF tracking data indicate Cosmos 96's orbit decayed earlier than 21:43 UT on 9 December 1965, and that other analyses definitively indicate it could not have been Cosmos 96.",
+"tier": 1
+},
+{
+"source": "Testimony in Kean v. NASA, reported October 2007",
+"text": "NASA public liaison officer Steve McConnell testified in the Kean litigation that two boxes of papers from the time of the Kecksburg incident were missing.",
+"tier": 2
+}
+],
+"cls": "event",
+"cluster": "witness",
+"connections": [
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": "2009-08-24",
+"dateStart": "2003-01-31",
+"direction": "in",
+"edgeLabel": "The litigation was about the Kecksburg records specifically",
+"id": "kean-v-nasa",
+"l0": false,
+"label": "Kean v. NASA, No. 1:03-cv-02509 (D.D.C.)",
+"note": "The underlying FOIA request of 31 January 2003 sought records on Kecksburg, the 9 December 1965 incident, the Fragology Files 1962-1967, Richard M. Schulherr, Project Moon Dust and Cosmos 96.",
+"sources": [
+{
+"date": "2007-03-27",
+"name": "Memorandum Opinion, Kean v. NASA, 27 March 2007",
+"url": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.106063/gov.uscourts.dcd.106063.45.0.pdf"
+}
+],
+"tier": "C",
+"type": "investigative"
+},
+{
+"claimTier": 2,
+"cls": "location",
+"dateEnd": "1965-12-10",
+"dateStart": "1965-12-09",
+"direction": "out",
+"edgeLabel": "Event and site",
+"id": "l-kecksburg",
+"l0": false,
+"label": "Kecksburg, Westmoreland County, Pennsylvania",
+"note": "The claimed recovery occurred in woodland at Kecksburg, Westmoreland County, Pennsylvania, on the evening of 9 December 1965.",
+"sources": [
+{
+"date": "1965-12-10",
+"name": "Greensburg Tribune-Review, December 1965 (as quoted in the case literature)",
+"url": "https://en.wikipedia.org/wiki/Kecksburg_UFO_incident"
+}
+],
+"tier": "C",
+"type": "geographic"
+},
+{
+"claimTier": 2,
+"cls": "event",
+"dateEnd": "1967-10-04",
+"dateStart": "1965-12-09",
+"direction": "in",
+"edgeLabel": "Two documented official responses to undocumented objects, twenty-two months apart",
+"id": "shag-harbour-1967",
+"l0": false,
+"label": "Shag Harbour incident, 4 October 1967",
+"note": "At Kecksburg the cordon is in the contemporaneous press and the object is in no record; at Shag Harbour the RCAF Air Desk telex, the Navy tasking and the Fleet Diving Unit Atlantic search are all in Department of National Defence files and the object is in none.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Shag Harbour UFO incident - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident"
+}
+],
+"tier": "C",
+"type": "temporal"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2014",
+"dateStart": "1965-12-09",
+"direction": "in",
+"edgeLabel": "Principal field investigator of the Kecksburg witness pool",
+"id": "stan-gordon",
+"l0": false,
+"label": "Stan Gordon",
+"note": "Gordon collected local first-hand accounts over four decades, supplying the witnesses used by Unsolved Mysteries (1990) and the Sci Fi Channel documentary (2003).",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Kecksburg UFO incident - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/Kecksburg_UFO_incident"
+}
+],
+"tier": "C",
+"type": "investigative"
+}
+],
+"coords": null,
+"dateEnd": "1965-12-10",
+"dateStart": "1965-12-09",
+"deg": 4,
+"denials": [],
+"desc": "At about 4:44 p.m. EST on 9 December 1965 a brilliant fireball crossed Michigan, Ontario, Ohio, Pennsylvania, New York, Indiana, Idaho and West Virginia; the FAA logged twenty-three pilot reports beginning at 4:44 p.m. and a seismograph twenty-five miles southwest of Detroit recorded the shock wave. Around 4:46 p.m., residents of Kecksburg, thirty miles southeast of Pittsburgh, reported blue smoke, vibration and a thump, and that something had come down in the woods. The Greensburg Tribune-Review reported that the area was 'immediately sealed off on the order of U.S. Army and State Police officials, in anticipation of a close inspection' and that state police had roped it off pending the arrival of Army engineers and possibly civilian scientists; a later edition ran 'Searchers Fail to Find Object'. Local witnesses collected over decades by Stan Gordon describe an acorn-shaped object about the size of a Volkswagen bearing hieroglyph-like markings, removed by flatbed truck. In December 2005 NASA stated that experts had examined metallic fragments from the area and determined they came from a Soviet satellite that had re-entered and broken up, but that the records of those findings had been lost in the 1980s. That statement is why the litigation happened. NASA's own current position undermines the satellite explanation: analysis of the fireball's photographs and sightings indicates a path too steep to be consistent with orbital re-entry, US Air Force tracking data indicate Cosmos 96's orbit decayed earlier than 21:43 UT on 9 December, and other analyses indicate definitively that it could not have been Cosmos 96. The structural fact this board records is that the cordon is documented in the contemporaneous local press, and the disposition of whatever was inside it is documented nowhere.",
+"domains": [
+"w2-retrieval-literature"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "kecksburg-1965",
+"l0": false,
+"label": "Kecksburg incident, 9 December 1965",
+"locLabel": null,
+"members": null,
+"short": "Kecksburg incident, 9 December 1965",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Kecksburg UFO incident - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/Kecksburg_UFO_incident"
+},
+{
+"date": "2007-03-27",
+"name": "Memorandum Opinion, Kean v. NASA, Dkt. 45, 27 March 2007",
+"url": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.106063/gov.uscourts.dcd.106063.45.0.pdf"
+},
+{
+"date": "2026-08-12",
+"name": "Kean v. NASA, No. 1:03-cv-02509 (D.D.C.) - full docket",
+"url": "https://www.courtlistener.com/docket/4707805/kean-v-national-aeronautics-and-space-administration/"
+}
+],
+"sub": "Claimed object recovery, Westmoreland County, Pennsylvania",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 510 of 1027, score 29). 4 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A0/D3.",
+"timeline": [
+{
+"date": "1965-12-09",
+"id": "tl-1965-1209-kecksburg",
+"label": "Kecksburg",
+"precision": "day",
+"strand": "witness",
+"text": "A fireball crosses eight states at about 4:44pm EST. Kecksburg residents report an object down in the woods. The Greensburg Tribune-Review reports the area 'immediately sealed off on the order of U.S. Army and State Police officials'. A later edition: 'Searchers Fail to Find Object.'",
+"tier": "A"
+},
+{
+"date": "2005-12",
+"id": "tl-2005-12-nasa",
+"label": "NASA's satellite statement",
+"precision": "month",
+"strand": "coverup",
+"text": "Before the fortieth anniversary NASA states that experts examined metallic fragments from Kecksburg and determined they came from a Soviet satellite, but that the records of those findings were lost in the 1980s. NASA's own later position is that Cosmos 96 could not have been responsible.",
+"tier": "A"
+}
+]
+}

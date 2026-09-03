@@ -1,0 +1,108 @@
+{
+"A": 3,
+"C": 3,
+"D": 2,
+"band": null,
+"claims": [
+{
+"source": "UAP Gerb, 'Off-World Technologies Division - UAP Technology Reverse Engineering', published 17 July 2024",
+"text": "A US Army Green Beret witness identified as 'RA' states that between 2013 and 2015 he was taken deep underground at a special weapons centre near Crane, Indiana to an 'Off-World Technologies Division' holding a basketball-sized sphere with an indentation and a clear tablet-like device projecting symbology, both described as weapons owing to energetic output when recovered from a craft, and both said to interact with human consciousness.",
+"tier": 2
+},
+{
+"source": "UAP Gerb, 17 July 2024",
+"text": "Gerb connects the division to SAIC and Sandia National Laboratories.",
+"tier": 2
+}
+],
+"cls": "program",
+"cluster": "legacy",
+"connections": [
+{
+"claimTier": 2,
+"cls": "institution",
+"dateEnd": "2015",
+"dateStart": "2013",
+"direction": "out",
+"edgeLabel": "Alleged SAIC and Sandia connections to the division",
+"id": "saic",
+"l0": false,
+"label": "Science Applications International Corporation",
+"note": "Gerb links the alleged division to SAIC and Sandia National Laboratories; the escorting weapons instructor is described as a private contractor employee.",
+"sources": [
+{
+"date": "2024-07-17",
+"name": "UAP Gerb - 'Off-World Technologies Division'",
+"url": "https://www.youtube.com/watch?v=QJ215I85d5M"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2024",
+"dateStart": "2024",
+"direction": "in",
+"edgeLabel": "Gerb documented the first-hand witness account",
+"id": "uap-gerb",
+"l0": false,
+"label": "'UAP Gerb' (Sam)",
+"note": "Published 17 July 2024 based on witness 'RA', a US Army Green Beret describing an underground division near Crane, Indiana holding two non-human artifacts, 2013-2015.",
+"sources": [
+{
+"date": "2024-07-17",
+"name": "UAP Gerb - 'Off-World Technologies Division'",
+"url": "https://www.youtube.com/watch?v=QJ215I85d5M"
+}
+],
+"tier": "A",
+"type": "investigative"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "2013",
+"deg": 2,
+"denials": [],
+"desc": "The Off-World Technologies Division is a programme named by a first-hand witness - a US Army Green Beret identified only as 'RA' - documented in UAP Gerb's investigation of 17 July 2024. RA's account: between 2013 and 2015 he was sent to a special weapons centre near Crane, Indiana to test foreign and domestic weaponry; because he held TS/SCI clearance, a weapons instructor employed by a private contractor took him and another soldier deep underground to this division. The division is said to have held two objects not made by human hand - a sphere roughly the size of a basketball with an indentation on top, and a clear tablet-like device projecting some form of symbology. RA was told both were classified as weapons owing to energetic output when recovered from a craft, and that both interacted with human consciousness. Gerb links the division to SAIC and Sandia National Laboratories. The location matters: Crane, Indiana is the site of Naval Surface Warfare Center Crane, a real Navy facility with a genuine special-weapons and energetics mission, and the account's specificity about clearance, escort and contractor employment is the kind of detail that is checkable in principle against personnel and visitor records.",
+"domains": [
+"media-structure"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "2",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "off-world-technologies-division",
+"l0": false,
+"label": "Off-World Technologies Division",
+"locLabel": null,
+"members": null,
+"short": "Off-World Technologies Division",
+"sources": [
+{
+"date": "2024-07-17",
+"name": "UAP Gerb - 'Off-World Technologies Division'",
+"url": "https://www.youtube.com/watch?v=QJ215I85d5M"
+}
+],
+"sub": "Alleged reverse-engineering division, Crane, Indiana",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 449 of 1027, score 31). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C3/A3/D2.",
+"timeline": [
+{
+"date": "2024-07-17",
+"id": "ms-2024-offworld",
+"label": "Off-World Technologies Division account published",
+"precision": "day",
+"strand": "witness",
+"text": "Gerb documents witness 'RA', a Green Beret describing two non-human artifacts held underground near Crane, Indiana between 2013 and 2015, with alleged SAIC and Sandia connections.",
+"tier": "B"
+}
+]
+}

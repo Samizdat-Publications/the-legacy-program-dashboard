@@ -1,0 +1,238 @@
+{
+"A": 1,
+"C": 0,
+"D": 0,
+"affiliations": [
+"Office of the Assistant to the Secretary of Defense for Public Affairs"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "2019-05-22",
+"event": "Tells the New York Post that AATIP 'did pursue research and investigation into unidentified aerial phenomena'.",
+"precision": "day"
+},
+{
+"date": "2019-06-01",
+"event": "Tells The Intercept that Elizondo 'had no responsibilities with regard to the AATIP program'.",
+"precision": "day"
+},
+{
+"date": "2019-12-06",
+"event": "His May statement is publicly repudiated by Susan Gough.",
+"precision": "day"
+}
+],
+"claims": [
+{
+"source": "Christopher Sherwood to the New York Post, 22 May 2019",
+"text": "Stated on 22 May 2019 that AATIP 'did pursue research and investigation into unidentified aerial phenomena'.",
+"tier": 1
+},
+{
+"source": "Keith Kloor, The Intercept, 1 June 2019",
+"text": "Stated on 1 June 2019: 'Mr. Elizondo had no responsibilities with regard to the AATIP program while he worked in OUSDI, up until the time he resigned effective 10/4/2017.'",
+"tier": 1
+}
+],
+"cls": "person",
+"cluster": "other",
+"conflicts": [
+"His own two 2019 statements sit uneasily together and the first was later disowned by the Department."
+],
+"connections": [
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": "2019",
+"dateStart": "2019",
+"direction": "out",
+"edgeLabel": "22 May 2019: AATIP 'did pursue research and investigation into unidentified aerial phenomena'",
+"id": "aatip",
+"l0": true,
+"label": "Advanced Aerospace Threat Identification Program (AATIP / AAITP)",
+"note": "The Department's first unambiguous acknowledgement that its aerospace-threat program looked at UAP. Repudiated by its own spokesperson six months later.",
+"sources": [
+{
+"date": "2019-12-06",
+"name": "The Black Vault — The Pentagon Corrects Record",
+"url": "https://www.theblackvault.com/documentarchive/the-pentagon-corrects-record-on-secret-ufo-program/"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "2019",
+"direction": "out",
+"edgeLabel": "1 June 2019: 'no responsibilities with regard to the AATIP program'",
+"id": "luis-elizondo",
+"l0": false,
+"label": "Luis D. Elizondo",
+"note": "Obtained by Keith Kloor for The Intercept in response to the History Channel series. This sentence has anchored every subsequent Departmental statement about Elizondo.",
+"sources": [
+{
+"date": "2019-06-01",
+"name": "The Intercept",
+"url": "https://theintercept.com/2019/06/01/ufo-unidentified-history-channel-luis-elizondo-pentagon/"
+}
+],
+"tier": "A",
+"type": "denial"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "2019",
+"dateStart": "2019",
+"direction": "in",
+"edgeLabel": "Repudiated Sherwood's acknowledgement as 'not entirely fact-based'",
+"id": "susan-gough",
+"l0": false,
+"label": "Susan Gough",
+"note": "The Department conceded Sherwood was accurately reported and then disowned what he said — while keeping his denial of Elizondo's role intact. One spokesman, two statements, one retained.",
+"sources": [
+{
+"date": "2019-12-06",
+"name": "The Black Vault",
+"url": "https://www.theblackvault.com/documentarchive/the-pentagon-corrects-record-on-secret-ufo-program/"
+}
+],
+"tier": "A",
+"type": "denial"
+},
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": "2019",
+"dateStart": "2019",
+"direction": "in",
+"edgeLabel": "The series premiere prompted the 1 June 2019 Pentagon denial",
+"id": "unidentified-history-series",
+"l0": false,
+"label": "'Unidentified: Inside America's UFO Investigation' (History Channel)",
+"note": "The Intercept tested the Department's position because the series presented Elizondo as having led AATIP for eight years. Media pressure produced the operative denial.",
+"sources": [
+{
+"date": "2019-06-01",
+"name": "The Intercept",
+"url": "https://theintercept.com/2019/06/01/ufo-unidentified-history-channel-luis-elizondo-pentagon/"
+}
+],
+"tier": "C",
+"type": "temporal"
+}
+],
+"date": "2019-06-01",
+"dateEnd": null,
+"dateStart": "2019-06-01",
+"deg": 4,
+"denials": [
+{
+"by": {
+"id": "christopher-sherwood",
+"label": "Christopher Sherwood"
+},
+"claimTier": 1,
+"denialKind": "directed",
+"label": "1 June 2019: 'no responsibilities with regard to the AATIP program'",
+"note": "Obtained by Keith Kloor for The Intercept in response to the History Channel series. This sentence has anchored every subsequent Departmental statement about Elizondo.",
+"of": {
+"id": "luis-elizondo",
+"label": "Luis D. Elizondo"
+},
+"sources": [
+{
+"date": "2019-06-01",
+"name": "The Intercept",
+"url": "https://theintercept.com/2019/06/01/ufo-unidentified-history-channel-luis-elizondo-pentagon/"
+}
+]
+},
+{
+"by": {
+"id": "susan-gough",
+"label": "Susan Gough"
+},
+"claimTier": 1,
+"denialKind": "directed",
+"label": "Repudiated Sherwood's acknowledgement as 'not entirely fact-based'",
+"note": "The Department conceded Sherwood was accurately reported and then disowned what he said — while keeping his denial of Elizondo's role intact. One spokesman, two statements, one retained.",
+"of": {
+"id": "christopher-sherwood",
+"label": "Christopher Sherwood"
+},
+"sources": [
+{
+"date": "2019-12-06",
+"name": "The Black Vault",
+"url": "https://www.theblackvault.com/documentarchive/the-pentagon-corrects-record-on-secret-ufo-program/"
+}
+]
+}
+],
+"domains": [
+"elizondo-ttsa"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "christopher-sherwood",
+"instId": "dod",
+"l0": false,
+"label": "Christopher Sherwood",
+"loc": "Arlington, VA",
+"locId": "l-pentagon",
+"members": null,
+"narrative": "Sherwood made two statements eleven days apart in 2019 that between them define the Department's problem. On 22 May 2019 he told the New York Post that AATIP 'did pursue research and investigation into unidentified aerial phenomena' — the first unambiguous official acknowledgement that the Pentagon's aerospace-threat program looked at UAP. On 1 June 2019 he told The Intercept's Keith Kloor that 'Mr. Elizondo had no responsibilities with regard to the AATIP program while he worked in OUSDI, up until the time he resigned effective 10/4/2017.' Six months later Susan Gough repudiated the first statement, telling reporters Sherwood had merely repeated what an earlier spokesperson had said and that his account was 'not entirely fact-based' — while keeping the second statement intact. The Department has therefore been in the position of saying one of its own spokesmen was wrong about the program but right about the man.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Christopher Sherwood",
+"sources": [
+{
+"date": "2019-06-01",
+"name": "The Intercept — The Media Loves This UFO Expert Who Says He Worked for an Obscure Pentagon Program. Did He?",
+"url": "https://theintercept.com/2019/06/01/ufo-unidentified-history-channel-luis-elizondo-pentagon/"
+},
+{
+"date": "2019-12-06",
+"name": "The Black Vault — The Pentagon Corrects Record on 'Secret UFO Program'",
+"url": "https://www.theblackvault.com/documentarchive/the-pentagon-corrects-record-on-secret-ufo-program/"
+}
+],
+"status": "former",
+"sub": "DoD spokesperson, Office of the Assistant to the Secretary of Defense for Public Affairs",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 717 of 1027, score 21). 4 connections, 0 of them custody/witness/funding/programmatic, 2 official denials recorded against it. Axes C0/A1/D0.",
+"timeline": [
+{
+"date": "2019-05-22",
+"id": "tl-2019-05-22-sherwood",
+"label": "Pentagon confirms AATIP studied UAP",
+"precision": "day",
+"strand": "coverup",
+"text": "Christopher Sherwood tells the New York Post that AATIP 'did pursue research and investigation into unidentified aerial phenomena'.",
+"tier": "A"
+},
+{
+"date": "2019-06-01",
+"id": "tl-2019-06-01-intercept",
+"label": "'No responsibilities with regard to the AATIP program'",
+"precision": "day",
+"strand": "coverup",
+"text": "Christopher Sherwood's statement to The Intercept becomes the Department's fixed position on Elizondo and remains so for the next seven years.",
+"tier": "A"
+}
+],
+"unexplainedResidual": null,
+"unverified": []
+}

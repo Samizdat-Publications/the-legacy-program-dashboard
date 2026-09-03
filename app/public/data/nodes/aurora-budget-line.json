@@ -1,0 +1,124 @@
+{
+"A": 1,
+"C": 1,
+"D": 3,
+"band": null,
+"claims": [
+{
+"source": "CIA-RDP90-00965R000807470050-4, Washington Post, 8 February 1985, 'Pentagon Seeks Billions For Classified Plane' by George C. Wilson",
+"text": "The Washington Post of 8 February 1985 reports: 'The Pentagon has said in a public document that it wants $2.3 billion for an Air Force plane called Aurora but responded yesterday that the plane -- if it really is a plane -- is classified.'",
+"tier": 1
+},
+{
+"source": "CIA-RDP90-00965R000807470050-4, Washington Post, 8 February 1985",
+"text": "The article names the disclosure mechanism: 'The secrecy cloak slipped off the spending plans for Aurora when the Pentagon compiled its unclassified shopping list, known as the P1 document. The P stands for procurement.'",
+"tier": 1
+},
+{
+"source": "CIA-RDP90-00965R000807470050-4, Washington Post, 8 February 1985",
+"text": "The article records the denial after publication: 'Reminded that Aurora has been put in the public domain by the Pentagon, an Air Force spokesman said his orders still were to say only: It's a classified program.'",
+"tier": 1
+},
+{
+"source": "CIA-RDP90-00965R000807470050-4, Washington Post, 8 February 1985 -- reporting the contents of the P-1, which was not independently obtained",
+"text": "The figures reported from the P-1 document are 'zero this fiscal year to $80 million in fiscal 1986 to $2.27 billion in fiscal 1987'. The $2.3 billion figure in the article's lede is its own rounding of $2.27bn. The P-1 document itself was not located or read; the chain is a named Washington Post defence correspondent, in a dated contemporaneous article, preserved in a US government declassified collection.",
+"tier": 2
+},
+{
+"source": "CIA-RDP90-00965R000807470050-4, Washington Post, 8 February 1985",
+"text": "'Other Pentagon sources, however, said that Aurora may have some connection with the Stealth plane -- to be designed to hide from enemy radar -- but that the really big money for Stealth is held in a different secret account.' The article attaches no anomalous craft claim to Aurora, and neither does this board.",
+"tier": 2
+}
+],
+"cls": "program",
+"cluster": "other",
+"connections": [
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "1985",
+"dateStart": "1985",
+"direction": "out",
+"edgeLabel": "the Air Force called Aurora classified after its own department published the figures",
+"id": "usaf",
+"l0": true,
+"label": "United States Air Force",
+"note": "'Reminded that Aurora has been put in the public domain by the Pentagon, an Air Force spokesman said his orders still were to say only: It's a classified program.' The denial is of disclosability, not of an anomalous craft -- the article's own sources point at Stealth.",
+"sources": [
+{
+"date": "1985-02-08",
+"name": "CIA-RDP90-00965R000807470050-4, Washington Post, 8 February 1985",
+"url": "https://archive.org/details/cia-readingroom-document-cia-rdp90-00965r000807470050-4"
+}
+],
+"tier": "A",
+"type": "denial"
+}
+],
+"coords": null,
+"dateEnd": "1987",
+"dateStart": "1985-02-08",
+"deg": 1,
+"denials": [
+{
+"by": {
+"id": "usaf",
+"label": "United States Air Force"
+},
+"claimTier": 1,
+"denialKind": "directed",
+"label": "the Air Force called Aurora classified after its own department published the figures",
+"note": "'Reminded that Aurora has been put in the public domain by the Pentagon, an Air Force spokesman said his orders still were to say only: It's a classified program.' The denial is of disclosability, not of an anomalous craft -- the article's own sources point at Stealth.",
+"of": {
+"id": "aurora-budget-line",
+"label": "Aurora (FY1986-FY1987 procurement line)"
+},
+"sources": [
+{
+"date": "1985-02-08",
+"name": "CIA-RDP90-00965R000807470050-4, Washington Post, 8 February 1985",
+"url": "https://archive.org/details/cia-readingroom-document-cia-rdp90-00965r000807470050-4"
+}
+]
+}
+],
+"desc": "Aurora belongs on this board as budget mechanics and nothing else. It is a documented instance of a classified programme becoming visible through the Pentagon's own unclassified paperwork and then being denied on the record by the service that published it -- a mechanism the board argues about elsewhere, here with a date and a document.\n\nThe Washington Post of 8 February 1985, preserved in the CIA's reading room as CIA-RDP90-00965R000807470050-4, reports: 'The Pentagon has said in a public document that it wants $2.3 billion for an Air Force plane called Aurora but responded yesterday that the plane -- if it really is a plane -- is classified.' It names the mechanism precisely: 'The secrecy cloak slipped off the spending plans for Aurora when the Pentagon compiled its unclassified shopping list, known as the P1 document. The P stands for procurement.' The figures in the body are exact: 'Spending for Aurora, according to this public document, shoots up from zero this fiscal year to $80 million in fiscal 1986 to $2.27 billion in fiscal 1987.' The $2.3 billion in the headline is the article's own rounding; the board uses $2.27bn.\n\nThe denial is in the same paragraph: 'Reminded that Aurora has been put in the public domain by the Pentagon, an Air Force spokesman said his orders still were to say only: It's a classified program.' This is five years before the Aviation Week story that usually gets the credit. No craft claim and no recovery claim attaches here: the article's own sources point at Stealth.",
+"domains": [
+"legacy-1947-86"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "1",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "aurora-budget-line",
+"l0": false,
+"label": "Aurora (FY1986-FY1987 procurement line)",
+"locLabel": null,
+"members": null,
+"short": "Aurora (FY1986-FY1987 procurement line)",
+"sources": [
+{
+"date": "1985-02-08",
+"name": "CIA-RDP90-00965R000807470050-4, Washington Post, 8 February 1985 (CIA Reading Room, declassified in part 2012-01-12)",
+"url": "https://archive.org/details/cia-readingroom-document-cia-rdp90-00965r000807470050-4"
+}
+],
+"sub": "A classified programme made visible by the Pentagon's own unclassified P-1 document, February 1985",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 448 of 1027, score 31). 1 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A1/D3.",
+"timeline": [
+{
+"date": "1985-02-08",
+"id": "tl-1985-aurora-p1",
+"label": "Aurora appears in the Pentagon's unclassified procurement list",
+"precision": "day",
+"strand": "coverup",
+"text": "The Washington Post reports that the Pentagon's own unclassified P-1 document shows spending on an Air Force programme called Aurora rising from zero to $80 million in FY1986 and $2.27 billion in FY1987. Reminded that its own department had published the figures, an Air Force spokesman said his orders were to say only 'It's a classified program.' Five years before the Aviation Week story.",
+"tier": "A"
+}
+]
+}

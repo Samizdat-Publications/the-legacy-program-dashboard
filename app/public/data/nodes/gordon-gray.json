@@ -1,0 +1,178 @@
+{
+"A": 2,
+"C": 2,
+"D": 1,
+"affiliations": [],
+"age": null,
+"band": null,
+"chronology": [],
+"claims": [
+{
+"source": "Directive by the President to the Secretary of State, the Secretary of Defense (Marshall), and the Director of Central Intelligence (Smith), 4 April 1951, file 100.4-PSB/4-451, FRUS 1951 vol. I doc. 16, https://history.state.gov/historicaldocuments/frus1951v01/d16",
+"text": "Truman established the Board by directive of 4 April 1951: 'It is the purpose of this directive to authorize and provide for the more effective planning, coordination and conduct, within the framework of approved national policies, of psychological operations.' The Board reports to the National Security Council and is composed of the Under Secretary of State, the Deputy Secretary of Defense and the Director of Central Intelligence.",
+"tier": 1
+},
+{
+"source": "FRUS 1951 vol. I doc. 16, footnote 3, https://history.state.gov/historicaldocuments/frus1951v01/d16",
+"text": "Gray was the first Director. The directive's own editorial footnote reads: 'Gordon Gray, President of the University of North Carolina and former Secretary of the Army, was appointed Director of the new board.'",
+"tier": 1
+},
+{
+"source": "FRUS 1951 vol. I doc. 16, https://history.state.gov/historicaldocuments/frus1951v01/d16",
+"text": "The Director's charter includes a standing claim on other departments: 'The participating departments and agencies shall afford to the Director and the staff such assistance and access to information as may be specifically requested by the Director in carrying out his assigned duties.' The same directive states: 'This directive does not authorize the Board nor the Director to perform any \"psychological operations\".'",
+"tier": 1
+},
+{
+"source": "Persons, FRUS 1950-1955, The Intelligence Community, https://history.state.gov/historicaldocuments/frus1950-55Intel/persons",
+"text": "Gray's offices and their dates, from the Office of the Historian's own persons list: 'Secretary of the Army from June 20, 1949 to April 12, 1950; Director of the Psychological Strategy Board from 1951 to 1952; ... Assistant Secretary of Defense for International Security Affairs from July 1955 to February 1957; Director of Defense Mobilization from March 1957 to July 1958; Special Assistant to the President for National Security Affairs from July 1958 to January 1961'.",
+"tier": 1
+},
+{
+"source": "Minutes of a Meeting of the Psychological Strategy Board, PSB M-2, 13 August 1951, FRUS 1950-1955 The Intelligence Community doc. 82, https://history.state.gov/historicaldocuments/frus1950-55Intel/d82",
+"text": "He is recorded chairing the Board's business in its own minutes: PSB M-2 of 13 August 1951 lists 'Mr. Gordon Gray, Director, Psychological Strategy Board' present with the Director of Central Intelligence as acting chairman, the Under Secretary of State and the Deputy Secretary of Defense.",
+"tier": 1
+},
+{
+"source": "AREA52 - DEBRIEFED with Chris Ramsay, ep. 22, 17 January 2025, 0:16:02",
+"text": "On AREA52 - DEBRIEFED with Chris Ramsay, episode 22, 17 January 2025, at 0:16:02, Ramsay read a prepared list describing Gray as having 'experience in managing information and propaganda during the cold war aligning with MJ12's need for controlling UFO related narratives' and as 'allegedly involved in developing policies to manage public perception of UFO phenomena'. No document opened for this node connects the Psychological Strategy Board to UFO matters.",
+"tier": 2
+}
+],
+"cls": "person",
+"cluster": "oversight",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "1952",
+"dateStart": "1951",
+"direction": "out",
+"edgeLabel": "Sat with the Director of Central Intelligence on the Psychological Strategy Board",
+"id": "cia",
+"l0": true,
+"label": "Central Intelligence Agency",
+"note": "The Board was composed of the Under Secretary of State, the Deputy Secretary of Defense and the Director of Central Intelligence, and the minutes of PSB M-2 of 13 August 1951 record Gray present as Director with Lt. General W. Bedell Smith, Director of Central Intelligence, as acting chairman.",
+"sources": [
+{
+"date": "1951-08-13",
+"name": "Minutes of a Meeting of the Psychological Strategy Board, PSB M-2, 13 August 1951",
+"url": "https://history.state.gov/historicaldocuments/frus1950-55Intel/d82"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "domain",
+"dateEnd": "1952",
+"dateStart": "1951",
+"direction": "out",
+"edgeLabel": "First Director of the Psychological Strategy Board, appointed 1951",
+"id": "d-psyop",
+"l0": false,
+"label": "Psychological Operations & Perception Management",
+"note": "Truman's directive of 4 April 1951 created the Board to formulate and promulgate 'over-all national psychological objectives, policies and programs' as guidance to the departments responsible for psychological operations, and its own footnote names Gray as the Director appointed to it.",
+"sources": [
+{
+"date": "1951-04-04",
+"name": "FRUS 1951 vol. I doc. 16, directive of 4 April 1951 and footnote 3",
+"url": "https://history.state.gov/historicaldocuments/frus1951v01/d16"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "1957-02",
+"dateStart": "1949-06-20",
+"direction": "out",
+"edgeLabel": "Secretary of the Army 1949-50; Assistant Secretary of Defense for International Security Affairs 1955-57",
+"id": "dod",
+"l0": true,
+"label": "United States Department of Defense (secondary designation: Department of War)",
+"note": "The Office of the Historian's persons list gives both appointments with dates, and the Deputy Secretary of Defense was a statutory member of the Board Gray later directed.",
+"sources": [
+{
+"date": "2026-09-02",
+"name": "Persons, FRUS 1950-1955, The Intelligence Community",
+"url": "https://history.state.gov/historicaldocuments/frus1950-55Intel/persons"
+}
+],
+"tier": "A",
+"type": "institutional"
+}
+],
+"date": "1951-04-04",
+"dateEnd": null,
+"dateStart": "1951-04-04",
+"deg": 3,
+"denials": [],
+"domains": [
+"area52-2026-09-02"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "gordon-gray",
+"instId": null,
+"l0": false,
+"label": "Gordon Gray",
+"loc": null,
+"locId": null,
+"members": null,
+"narrative": "Gordon Gray held, in sequence, four offices that between them cover the whole of this board's early period: Secretary of the Army, first Director of the Psychological Strategy Board, Assistant Secretary of Defense for International Security Affairs, and Special Assistant to the President for National Security Affairs. The Psychological Strategy Board is the one that matters here. President Truman established it by a secret directive of 4 April 1951 to coordinate the psychological operations of the whole government, sitting a Board of the Under Secretary of State, the Deputy Secretary of Defense and the Director of Central Intelligence over a Director designated by the President, and Gray was that Director. The directive gives the Director a claim on the participating departments for assistance and access to information, and in the same breath forbids the Board and the Director to conduct any psychological operations themselves. Gray reaches this corpus only as a name inside the MJ-12 attribution, and none of the documents opened here bears on that; the reason to carry him is the office.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Gordon Gray",
+"sources": [
+{
+"date": "1951-04-04",
+"name": "Directive by the President establishing the Psychological Strategy Board, 4 April 1951, FRUS 1951 vol. I doc. 16",
+"url": "https://history.state.gov/historicaldocuments/frus1951v01/d16"
+},
+{
+"date": "2026-09-02",
+"name": "Editorial Note on the establishment of the Psychological Strategy Board, FRUS 1950-1955 The Intelligence Community doc. 60",
+"url": "https://history.state.gov/historicaldocuments/frus1950-55Intel/d60"
+},
+{
+"date": "1951-08-13",
+"name": "Minutes of a Meeting of the Psychological Strategy Board, PSB M-2, 13 August 1951",
+"url": "https://history.state.gov/historicaldocuments/frus1950-55Intel/d82"
+},
+{
+"date": "2026-09-02",
+"name": "Persons, FRUS 1950-1955, The Intelligence Community",
+"url": "https://history.state.gov/historicaldocuments/frus1950-55Intel/persons"
+}
+],
+"status": "former",
+"sub": "First Director of the Psychological Strategy Board, appointed 1951; Secretary of the Army 1949-50; Special Assistant to the President for National Security Affairs 1958-61",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 302 of 1027, score 36). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A2/D1.",
+"timeline": [
+{
+"date": "1951-04-04",
+"id": "tl-1951-04-04-psychological-strategy-board",
+"label": "Truman establishes the Psychological Strategy Board by secret directive",
+"precision": "day",
+"strand": "coverup",
+"text": "A directive to the Secretary of State, the Secretary of Defense and the Director of Central Intelligence, classified secret, establishes a Board reporting to the National Security Council for the formulation of over-all national psychological objectives, policies and programmes. Its editorial footnote names the first Director: 'Gordon Gray, President of the University of North Carolina and former Secretary of the Army, was appointed Director of the new board.' The same directive forbids the Board and the Director to perform any psychological operations themselves.",
+"tier": "B"
+}
+],
+"unexplainedResidual": null,
+"unverified": [
+"That Gordon Gray was president of the University of North Carolina at Chapel Hill in 1957, or at any date after April 1951. The only opened record placing him at UNC is the FRUS footnote of April 1951, and the UNC department history of the Institute of Field Physics never names him.",
+"Every MJ-12 attribution. The 1987 Lear document names him as the last surviving original member and the corpus gives two different death years; nothing opened bears on either."
+]
+}

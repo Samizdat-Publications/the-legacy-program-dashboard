@@ -1,0 +1,123 @@
+{
+"A": 3,
+"C": 1,
+"D": 3,
+"band": null,
+"claims": [
+{
+"source": "DIA memo U-10-2552CE-IM-ATL, circa December 2010",
+"text": "DIA reported AATIP reports 'were of limited value to DIA' but 'could be of merit to other organizations' and that 'the project could be transitioned to another agency or component better suited'.",
+"tier": 1
+},
+{
+"source": "DIA memo U-10-2552CE-IM-ATL",
+"text": "The memorandum is addressed to the Under Secretary of Defense for Acquisition, Technology and Logistics and uses only the AATIP designation.",
+"tier": 1
+},
+{
+"source": "DIA FOIA-00255-2022 release",
+"text": "A four-page version was released under FOIA-00255-2022 bearing the date 1 December 2010.",
+"tier": 1
+},
+{
+"source": "Inference from the memo read against DoD's June 2019 statements",
+"text": "A DIA proposal to transition AATIP out of DIA in December 2010 is consistent with, and materially corroborates, Elizondo's account that the effort continued in OUSD(I) after DIA's contracted work wound down — while DoD's denial addresses only whether he was 'assigned' to it.",
+"tier": 3
+}
+],
+"cls": "document",
+"cluster": "legacy",
+"connections": [
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "2010",
+"dateStart": "2010",
+"direction": "in",
+"edgeLabel": "proposes transitioning AATIP out of DIA",
+"id": "dia",
+"l0": true,
+"label": "Defense Intelligence Agency",
+"note": "DIA tells USD(AT&L) the reports were of limited value to DIA but could merit other organisations and the project could move to a better-suited component.",
+"sources": [
+{
+"date": "2010-12-01",
+"name": "DIA memo U-10-2552CE-IM-ATL",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP/U-10-2552CE-IM-ATL.pdf"
+}
+],
+"tier": "A",
+"type": "programmatic"
+},
+{
+"claimTier": 3,
+"cls": "person",
+"dateEnd": "2011",
+"dateStart": "2010",
+"direction": "out",
+"edgeLabel": "documents the handoff Elizondo describes",
+"id": "luis-elizondo",
+"l0": false,
+"label": "Luis D. Elizondo",
+"note": "DIA proposed a transition in December 2010; Elizondo says he picked up the residual effort in OUSD(I) at that time. No charter has ever been released either way.",
+"sources": [
+{
+"date": "2010-12-01",
+"name": "DIA memo U-10-2552CE-IM-ATL",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP/U-10-2552CE-IM-ATL.pdf"
+}
+],
+"tier": "A",
+"type": "programmatic"
+}
+],
+"coords": null,
+"dateEnd": "2010",
+"dateStart": "2010",
+"deg": 2,
+"denials": [],
+"desc": "The transfer document. A DIA information memorandum addressed to the Under Secretary of Defense for Acquisition, Technology and Logistics, using the name Advanced Aerospace Threat and Identification Program throughout and never AAWSAP, reporting that the reports 'were of limited value to DIA' but suggesting 'they could be of merit to other organizations' and that 'the project could be transitioned to another agency or component better suited.' All sender and preparer names are redacted under 10 USC 424 and (b)(6). This memo is the documentary hinge of the AATIP-versus-AAWSAP question: it establishes, in DIA's own hand and on DIA's own timeline, that at the end of 2010 DIA was actively proposing to hand the program to another component — which is precisely the point at which Luis Elizondo says he picked it up in OUSD(I), and precisely what DoD's 2019 press guidance declines to address. Two versions exist in the public record, a two-page draft and a four-page final released under FOIA-00255-2022 dated 1 December 2010.",
+"domains": [
+"aawsap-aatip"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "2",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "ousdi-atl-memo-2010",
+"l0": false,
+"label": "DIA Info Memo to USD(AT&L) on AATIP (U-10-2552CE-IM-ATL)",
+"locLabel": null,
+"members": null,
+"short": "DIA Info Memo to USD(AT&L) on AATIP (U-10-2552CE-IM-ATL)",
+"sources": [
+{
+"date": "2010-12-01",
+"name": "DIA info memo U-10-2552CE-IM-ATL on AATIP (draft)",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP/U-10-2552CE-IM-ATL.pdf"
+},
+{
+"date": "2022-01-01",
+"name": "DIA FOIA-00255-2022 release (four-page final)",
+"url": "https://documents2.theblackvault.com/documents/dia/FOIA-00255-2022.pdf"
+}
+],
+"sub": "DIA information memorandum, circa December 2010",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 292 of 1027, score 37). 2 connections, 2 of them custody/witness/funding/programmatic. Axes C1/A3/D3.",
+"timeline": [
+{
+"date": "2010-12-01",
+"id": "tl-2010-transfer",
+"label": "DIA proposes moving AATIP out",
+"precision": "month",
+"strand": "program",
+"text": "A DIA info memo to USD(AT&L) says the reports were of limited value to DIA but could merit other organisations, and that the project could be transitioned to a better-suited component.",
+"tier": "A"
+}
+]
+}

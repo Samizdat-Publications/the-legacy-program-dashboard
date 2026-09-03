@@ -1,0 +1,134 @@
+{
+"A": 0,
+"C": 0,
+"D": 2,
+"band": null,
+"claims": [
+{
+"source": "UAlbany News Center, 4 June 2025",
+"text": "Knuth is lead author; the article was co-written by Szydagis and more than thirty other researchers, and published in a special edition of Progress in Aerospace Sciences in June 2025.",
+"tier": 1
+},
+{
+"source": "SCU press release, 27 June 2025",
+"text": "SCU records the paper as bringing together thirty-four authors, DOI 10.1016/j.paerosci.2025.101097.",
+"tier": 1
+}
+],
+"cls": "document",
+"cluster": "research",
+"connections": [
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "2025-06",
+"direction": "in",
+"edgeLabel": "Lead author of the 34-author UAP review",
+"id": "kevin-knuth",
+"l0": false,
+"label": "Kevin H. Knuth",
+"note": "UAlbany: 'Knuth is lead author of the article, which was co-written by Szydagis and more than 30 other researchers from around the world.' Knuth, quoted in the same release: 'Given the longstanding, global nature of the UAP/UFO question, the air safety and security implications of their presence, and the potentially profound importance of their nature, studying and understanding these phenomena is of great and urgent importance.'",
+"sources": [
+{
+"date": "2025-06-04",
+"name": "UAlbany News Center, 'UAlbany Physicists Test Scientific Approach to UAP Research'",
+"url": "https://www.albany.edu/news-center/news/2025-ualbany-physicists-test-scientific-approach-uap-research"
+}
+],
+"tier": "C",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "2025-06",
+"direction": "in",
+"edgeLabel": "Co-author of the 34-author UAP review",
+"id": "matthew-szydagis",
+"l0": false,
+"label": "Matthew Szydagis",
+"note": "Named by the University as co-writer alongside Knuth and more than thirty other researchers.",
+"sources": [
+{
+"date": "2025-06-04",
+"name": "UAlbany News Center, 'UAlbany Physicists Test Scientific Approach to UAP Research'",
+"url": "https://www.albany.edu/news-center/news/2025-ualbany-physicists-test-scientific-approach-uap-research"
+}
+],
+"tier": "C",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2025-06",
+"direction": "in",
+"edgeLabel": "Knuth lead-authored the 34-author UAP review from his UAlbany post; Szydagis co-authored",
+"id": "university-at-albany",
+"l0": true,
+"label": "University at Albany (SUNY), Department of Physics",
+"note": "Published in the same Progress in Aerospace Sciences special edition as the UAPx field results. The UAlbany release states 'Knuth is lead author of the article, which was co-written by Szydagis and more than 30 other researchers from around the world'; SCU's June 2025 press release gives the count as thirty-four authors and the DOI as 10.1016/j.paerosci.2025.101097.",
+"sources": [
+{
+"date": "2025-06-04",
+"name": "UAlbany News Center, 'UAlbany Physicists Test Scientific Approach to UAP Research'",
+"url": "https://www.albany.edu/news-center/news/2025-ualbany-physicists-test-scientific-approach-uap-research"
+},
+{
+"date": "2025-06-27",
+"name": "SCU press release, 'Scientific Coalition for UAP Studies honors Dr. Kevin Knuth with inaugural Distinguished Scholar Award'",
+"url": "https://www.explorescu.org/post/scientific-coalition-for-uap-studies-honors-dr-kevin-knuth-with-inaugural-distinguished-scholar-awa"
+}
+],
+"tier": "B",
+"type": "research"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": null,
+"deg": 3,
+"denials": [],
+"desc": "The companion piece to the UAPx field-expedition paper in the same Progress in Aerospace Sciences special edition, and the larger of the two. UAlbany's news office describes it as 'a comprehensive review of studies conducted on UAPs from 1933 to the present, including more than 20 historical government and privately funded projects as well as recent scientific research efforts in Ireland, France, Germany, Norway, Sweden and the United States', with Knuth as lead author 'co-written by Szydagis and more than 30 other researchers from around the world'. SCU's June 2025 press release puts the author count at thirty-four and gives the DOI as 10.1016/j.paerosci.2025.101097. Its stated aims, per the University, are to clarify the historical scientific narrative, to establish that UAP have been observed and recorded for well over 150 years and studied by astronomers, scientists and engineers, and to show that several serious academic efforts in multiple countries are currently collecting instrumented data. Its significance for this board is structural rather than evidentiary: a thirty-four-author review in a high-impact aerospace engineering journal, led from a state university physics department, is the closest thing the subject has to a conventional field-defining literature review, and it exists because two faculty members at a mid-sized SUNY campus were willing to put their names on it.",
+"domains": [
+"w11-final-unattached"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "nd",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "paper-knuth-2025-new-science",
+"l0": false,
+"label": "Knuth et al. (2025), 'The New Science of Unidentified Aerospace-Undersea Phenomena (UAP)', Progress in Aerospace Sciences",
+"locLabel": null,
+"members": null,
+"short": "Knuth et al. (2025), 'The New Science of Unidentified Aerospace-Undersea Phenomena (UAP)', Progress in Aerospace Sciences",
+"sources": [
+{
+"date": "2025-06-04",
+"name": "UAlbany News Center, 'UAlbany Physicists Test Scientific Approach to UAP Research'",
+"url": "https://www.albany.edu/news-center/news/2025-ualbany-physicists-test-scientific-approach-uap-research"
+},
+{
+"date": "2025-06-27",
+"name": "SCU press release, 'Scientific Coalition for UAP Studies honors Dr. Kevin Knuth with inaugural Distinguished Scholar Award'",
+"url": "https://www.explorescu.org/post/scientific-coalition-for-uap-studies-honors-dr-kevin-knuth-with-inaugural-distinguished-scholar-awa"
+},
+{
+"date": "2025-06-02",
+"name": "ScienceDirect article record (linked from the UAlbany release)",
+"url": "https://www.sciencedirect.com/science/article/pii/S0376042125000235"
+}
+],
+"sub": "34-author review of UAP studies 1933-present; Knuth lead author, Szydagis co-author",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 933 of 1027, score 13). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D2.",
+"timeline": []
+}

@@ -1,0 +1,164 @@
+{
+"A": 0,
+"C": 1,
+"D": 0,
+"affiliations": [],
+"age": null,
+"band": null,
+"chronology": [],
+"claims": [
+{
+"source": "https://irp.fas.org/dia/aatip-list.pdf",
+"text": "The 9 January 2018 DIA list credits item 15, \"An Introduction to the Statistical Drake Equation\", to \"Dr Claudio Maccone, International Academy of Astronautics\".",
+"tier": 1
+},
+{
+"source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_25-DIRD_An_Introduction_to_the_Statistical_Drake_Equation.pdf",
+"text": "The released DIRD reproduces at Appendix B the underlying conference paper \"The Statistical Drake Equation\" with the byline intact, reading \"Claudio Macc[one], Co-Vice Chair, SETI Permanent Study Group, International Academy of Astronautics\", corroborating the DIA list attribution from inside the document itself even though the cover author block is redacted under (b)(6). OCR of the scan is degraded; the surname renders as \"Maccolle\" and SETI as \"SHTI\".",
+"tier": 1
+},
+{
+"source": "https://www.seti.org/news/claudio-maccone/",
+"text": "Maccone was appointed Director for Scientific Space Exploration by the International Academy of Astronautics in 2010 and chaired the IAA SETI Permanent Committee from 2012; he died in 2025.",
+"tier": 1
+},
+{
+"source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_15-DIRD_Advanced_Space_Propulsion_Based_on_Vacuum_Spacetime_Metric_Engineer.pdf",
+"text": "Maccone co-authored with H. E. Puthoff and E. W. Davis, \"Levi-Civita effect in the polarizable vacuum (PV) representation of general relativity\", Gen. Relativ. Grav. 37, 483 (2005), which appears as reference 19 of Puthoff's own DIRD.",
+"tier": 1
+}
+],
+"cls": "person",
+"cluster": "research",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "commissioned subject-matter author",
+"id": "aawsap",
+"l0": true,
+"label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)",
+"note": "Credited with one of the 38 AAWSAP deliverables, 'An Introduction to the Statistical Drake Equation', dated 11 March 2010, whose released text names AAWSAP. Maccone is the only foreign-based academic on the author list alongside Ulf Leonhardt at St Andrews. Tier 2 because the released document's 'Author' field is redacted under FOIA exemption (b)(6); the attribution comes from the separate list of deliverables DIA transmitted to Congress, not from the document itself.",
+"sources": [
+{
+"date": "2010-03-11",
+"name": "DIRD, 'An Introduction to the Statistical Drake Equation', 11 March 2010, 56 pp. (DIA FOIA release)",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_25-DIRD_An_Introduction_to_the_Statistical_Drake_Equation.pdf"
+},
+{
+"date": "2022-03-25",
+"name": "DIA FOIA Electronic Reading Room entry",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237662/"
+},
+{
+"date": null,
+"name": "https://irp.fas.org/dia/aatip-list.pdf",
+"url": "https://irp.fas.org/dia/aatip-list.pdf"
+}
+],
+"tier": "A",
+"type": "funding"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "authored",
+"id": "dird-an-introduction-to-the-statistical-drake",
+"l0": false,
+"label": "An Introduction to the Statistical Drake Equation",
+"note": "DIA list item 15 names \"Dr Claudio Maccone, International Academy of Astronautics\". Independently corroborated by Appendix B of the released document, which reproduces his IAA conference paper with the byline intact.",
+"sources": [
+{
+"date": "2026-08-22",
+"name": "Released DIRD, 'An Introduction to the Statistical Drake Equation' — FOIA copy, cover page read 22 August 2026",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_25-DIRD_An_Introduction_to_the_Statistical_Drake_Equation.pdf"
+},
+{
+"date": "2026-08-22",
+"name": "DIA FOIA Electronic Reading Room entry for this reference document",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237662/"
+},
+{
+"date": "2026-08-23",
+"name": "DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations",
+"url": "https://fas.org/publication/aatip-list/"
+},
+{
+"date": null,
+"name": "https://irp.fas.org/dia/aatip-list.pdf",
+"url": "https://irp.fas.org/dia/aatip-list.pdf"
+}
+],
+"tier": "B",
+"type": "research"
+}
+],
+"date": "2010-01-01",
+"dateEnd": null,
+"dateStart": "2010-01-01",
+"deg": 2,
+"denials": [],
+"domains": [
+"w7-dirds-1"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "2",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "claudio-maccone",
+"instId": null,
+"l0": false,
+"label": "Claudio Maccone",
+"loc": null,
+"locId": null,
+"members": null,
+"narrative": "Claudio Maccone was an Italian space scientist, SETI astronomer and mathematician, and the only DIRD author in this batch whose deliverable is about the prevalence of extraterrestrial civilisations rather than about hardware. His central contribution, and the subject of his DIRD, was the Statistical Drake Equation: he replaced the seven fixed factors of Frank Drake's 1961 formula with seven positive random variables and showed that, by the central limit theorem applied multiplicatively, the resulting number of communicating civilisations must follow a lognormal distribution. That turns the Drake Equation from a rhetorical device into something with an error bar, and lets a mean and variance be propagated rather than a single indefensible point estimate. He later extended the machinery into what he called Evo-SETI, applying the same lognormal statistics to the evolution of life on Earth.\n\nHe was appointed Director for Scientific Space Exploration by the International Academy of Astronautics in Paris in 2010, and from 2012 chaired the IAA's SETI Permanent Committee. He died in 2025.\n\nHis presence on the AAWSAP author list is the clearest evidence that the contract's remit was not confined to foreign adversary hardware. A programme chartered to assess far-term aerospace threats commissioned a paper on how many technological civilisations the galaxy may hold, which only makes sense if the sponsor considered non-terrestrial technology a live category of \"advanced aerospace threat\". Maccone had also previously co-authored with Hal Puthoff and Eric Davis on the Levi-Civita effect in the polarizable-vacuum representation of general relativity, a paper cited in Puthoff's own DIRD, which places him inside the same small citation network as the EarthTech authors.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Claudio Maccone",
+"sources": [
+{
+"date": null,
+"name": "https://irp.fas.org/dia/aatip-list.pdf",
+"url": "https://irp.fas.org/dia/aatip-list.pdf"
+},
+{
+"date": null,
+"name": "https://www.seti.org/news/claudio-maccone/",
+"url": "https://www.seti.org/news/claudio-maccone/"
+},
+{
+"date": null,
+"name": "https://en.wikipedia.org/wiki/Claudio_Maccone",
+"url": "https://en.wikipedia.org/wiki/Claudio_Maccone"
+},
+{
+"date": null,
+"name": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_25-DIRD_An_Introduction_to_the_Statistical_Drake_Equation.pdf",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_25-DIRD_An_Introduction_to_the_Statistical_Drake_Equation.pdf"
+},
+{
+"date": null,
+"name": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_15-DIRD_Advanced_Space_Propulsion_Based_on_Vacuum_Spacetime_Metric_Engineer.pdf",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_15-DIRD_Advanced_Space_Propulsion_Based_on_Vacuum_Spacetime_Metric_Engineer.pdf"
+}
+],
+"status": "active",
+"sub": "Italian SETI astronomer and mathematician; International Academy of Astronautics (Chair, SETI Permanent Committee; Director for Scientific Space Exploration). 1948-2025",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 727 of 1027, score 21). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A0/D0.",
+"timeline": [],
+"unexplainedResidual": null,
+"unverified": []
+}

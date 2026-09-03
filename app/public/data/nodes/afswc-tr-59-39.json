@@ -1,0 +1,302 @@
+{
+"A": 1,
+"C": 3,
+"D": 2,
+"band": "research",
+"claims": [
+{
+"source": "AFSWC TR-59-39 Vol I, title page and report page, DDC AD 425380, https://archive.org/details/DTIC_AD0425380",
+"text": "The report is 'AFSWC-TR-59-39, TR 59-39 Vol I, A STUDY OF LUNAR RESEARCH FLIGHTS', issued by 'HEADQUARTERS AIR FORCE SPECIAL WEAPONS CENTER, AIR RESEARCH AND DEVELOPMENT COMMAND, KIRTLAND AIR FORCE BASE, NEW MEXICO', authored by L. Reiffel of the Armour Research Foundation, Illinois Institute of Technology, dated 19 June 1959, under Project Number 5776-57853 and Contract AF 29(601)-1164. Its title page marks the title '(Unclassified Title)'. The string 'A119' appears nowhere in the report.",
+"tier": 1
+},
+{
+"source": "AFSWC TR-59-39 Vol I, Abstract, https://archive.org/download/DTIC_AD0425380/DTIC_AD0425380_djvu.txt",
+"text": "The abstract opens: 'Nuclear detonations in the vicinity of the moon are considered in this report along with scientific information which might be obtained from such explosions. The military aspect is aided by investigation of space environment, detection of nuclear device testing, and capability of weapons in space.'",
+"tier": 1
+},
+{
+"source": "AFSWC TR-59-39 Vol I, Chapter I, Introduction, https://archive.org/download/DTIC_AD0425380/DTIC_AD0425380_djvu.txt",
+"text": "The introduction states the political motive in the report's own words: 'The motivation for such a detonation is clearly threefold: scientific, military and political... Obviously, however, specific positive effects would accrue to the nation first performing such a feat as a demonstration of advanced technological capability. It is also certain that, unless the climate of world opinion were well-prepared in advance, a considerable negative reaction could be stimulated.'",
+"tier": 1
+},
+{
+"source": "AFSWC TR-59-39 Vol I, report page and appendix on extraterrestrial-life panels, https://archive.org/download/DTIC_AD0425380/DTIC_AD0425380_djvu.txt",
+"text": "The contributor list on the report page includes 'C. E. Sagan' alongside ten others. The report's appendix separately lists 'C. Sagan, U. of Chicago, Astronomy' as a member of the National Academy of Sciences WESTEX group and 'C. Sagan, ARF - Yerkes, Astronomy' on the Armed Forces National Research Council Panel on Extraterrestrial Life. The document says nothing about his security clearance.",
+"tier": 1
+},
+{
+"source": "AFSWC TR-59-39 Vol I, DISTRIBUTION list, https://archive.org/download/DTIC_AD0425380/DTIC_AD0425380_djvu.txt",
+"text": "The distribution list sends copies to 'Director, Advanced Research Projects Agency, Department of Defense, ATTN: Ward Low, The Pentagon'; to 'US Atomic Energy Commission, ATTN: Technical Reports Library (Mrs. J. O'Leary, for DMA)'; to 'President, Sandia Corporation, ATTN: Document Control Division, Sandia Base, NMex'; to 'Director, Los Alamos Scientific Laboratory'; to 'Director, Lawrence Radiation Laboratory'; and to 'WADD, Wright-Patterson AFB, Ohio'.",
+"tier": 1
+},
+{
+"source": "AFSWC TR-59-39 Vol I, command page and publication review page, and Official Register of the United States 1957, p.629, https://www.govinfo.gov/content/pkg/GOVPUB-CS1-a5ad60ca6d6113c71c09c45dce6b9952/pdf/GOVPUB-CS1-a5ad60ca6d6113c71c09c45dce6b9952.pdf",
+"text": "The command page names 'Colonel Carey L. O'Bryan, Jr., Deputy Commander' of the Air Force Special Weapons Center, and the publication review page carries his name over 'USAF' and 'Deputy Commander'. The same officer is listed in the Official Register of the United States 1957, page 629, as Deputy Director of the Atomic Energy Commission's Division of Military Application, on the line directly above Gise's.",
+"tier": 1
+}
+],
+"cls": "document",
+"cluster": "research",
+"connections": [
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "1959",
+"dateStart": "1959",
+"direction": "out",
+"edgeLabel": "A copy went to the Director of ARPA at the Pentagon",
+"id": "darpa",
+"l0": false,
+"label": "Defense Advanced Research Projects Agency",
+"note": "The distribution list reads 'Director, Advanced Research Projects Agency, Department of Defense, ATTN: Ward Low, The Pentagon, Wash 25, DC'.",
+"sources": [
+{
+"date": "1959-06-19",
+"name": "AFSWC TR-59-39 Vol I, A Study of Lunar Research Flights, DDC AD 425380",
+"url": "https://archive.org/details/DTIC_AD0425380"
+}
+],
+"tier": "C",
+"type": "custody"
+},
+{
+"claimTier": 1,
+"cls": "location",
+"dateEnd": "1959",
+"dateStart": "1959",
+"direction": "out",
+"edgeLabel": "Issued from Kirtland Air Force Base, New Mexico",
+"id": "l-kirtland",
+"l0": false,
+"label": "Kirtland Air Force Base and Albuquerque, New Mexico",
+"note": "Headquarters Air Force Special Weapons Center is named on the title page with Kirtland as its station.",
+"sources": [
+{
+"date": "1959-06-19",
+"name": "AFSWC TR-59-39 Vol I, A Study of Lunar Research Flights, DDC AD 425380",
+"url": "https://archive.org/details/DTIC_AD0425380"
+}
+],
+"tier": "B",
+"type": "geographic"
+},
+{
+"claimTier": 1,
+"cls": "location",
+"dateEnd": "1959",
+"dateStart": "1959",
+"direction": "out",
+"edgeLabel": "A copy went to the Los Alamos Scientific Laboratory report library",
+"id": "l-los-alamos",
+"l0": false,
+"label": "Los Alamos, New Mexico",
+"note": "The distribution list names the Director, Los Alamos Scientific Laboratory, with two attention lines including 'Helen Redman, Report Library'.",
+"sources": [
+{
+"date": "1959-06-19",
+"name": "AFSWC TR-59-39 Vol I, A Study of Lunar Research Flights, DDC AD 425380",
+"url": "https://archive.org/details/DTIC_AD0425380"
+}
+],
+"tier": "B",
+"type": "custody"
+},
+{
+"claimTier": 1,
+"cls": "location",
+"dateEnd": "1959",
+"dateStart": "1959",
+"direction": "out",
+"edgeLabel": "A copy went to WADD at Wright-Patterson",
+"id": "l-wright-patterson",
+"l0": false,
+"label": "Wright-Patterson Air Force Base, Ohio",
+"note": "Listed under ARDC CENTERS as 'WADD, Wright-Patterson AFB, Ohio'.",
+"sources": [
+{
+"date": "1959-06-19",
+"name": "AFSWC TR-59-39 Vol I, A Study of Lunar Research Flights, DDC AD 425380",
+"url": "https://archive.org/details/DTIC_AD0425380"
+}
+],
+"tier": "A",
+"type": "custody"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "1959",
+"dateStart": "1959",
+"direction": "out",
+"edgeLabel": "A numbered copy went to Sandia's document control division",
+"id": "sandia",
+"l0": true,
+"label": "Sandia National Laboratories",
+"note": "The distribution list reads 'President, Sandia Corporation, ATTN: Document Control Division, Sandia Base, NMex'; the board's sandia node is the same site under its later name.",
+"sources": [
+{
+"date": "1959-06-19",
+"name": "AFSWC TR-59-39 Vol I, A Study of Lunar Research Flights, DDC AD 425380",
+"url": "https://archive.org/details/DTIC_AD0425380"
+}
+],
+"tier": "A",
+"type": "custody"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "1959",
+"dateStart": "1959",
+"direction": "out",
+"edgeLabel": "Commissioned and published by the Air Force Special Weapons Center under Air Research and Development Command",
+"id": "usaf",
+"l0": true,
+"label": "United States Air Force",
+"note": "The title page names the command and the station, and the publication review is signed by the Center's Deputy Commander.",
+"sources": [
+{
+"date": "1959-06-19",
+"name": "AFSWC TR-59-39 Vol I, A Study of Lunar Research Flights, DDC AD 425380",
+"url": "https://archive.org/details/DTIC_AD0425380"
+}
+],
+"tier": "A",
+"type": "programmatic"
+}
+],
+"coords": null,
+"dateEnd": "1959-06-19",
+"dateStart": "1959-06-19",
+"deg": 6,
+"denials": [],
+"desc": "A contractor study for the Air Force Special Weapons Center on what could be learned from detonating a nuclear weapon on or near the Moon, and on what it would cost politically. Its own introduction names three motivations, scientific, military and political, and says plainly that a nation performing the feat first would accrue positive effects as a demonstration of advanced technological capability. It is carried on this board as an instrument rather than an anecdote: a dated federal record of a plan whose public existence was, for decades, a matter of assertion. Its distribution list also documents who in the nuclear weapons complex received it. Two corrections the record forces on the corpus: the report is dated 19 June 1959, not 1958 and not May 1959, and the string A119 appears nowhere in it. C. E. Sagan is on its contributor list; the document says nothing about his security clearance.",
+"domains": [
+"michels-2026-09-02"
+],
+"dossier": {
+"claims": [
+{
+"source": "AFSWC TR-59-39 Vol I, title page and report page, DDC AD 425380, https://archive.org/details/DTIC_AD0425380",
+"text": "The report is 'AFSWC-TR-59-39, TR 59-39 Vol I, A STUDY OF LUNAR RESEARCH FLIGHTS', issued by 'HEADQUARTERS AIR FORCE SPECIAL WEAPONS CENTER, AIR RESEARCH AND DEVELOPMENT COMMAND, KIRTLAND AIR FORCE BASE, NEW MEXICO', authored by L. Reiffel of the Armour Research Foundation, Illinois Institute of Technology, dated 19 June 1959, under Project Number 5776-57853 and Contract AF 29(601)-1164. Its title page marks the title '(Unclassified Title)'. The string 'A119' appears nowhere in the report.",
+"tier": 1
+},
+{
+"source": "AFSWC TR-59-39 Vol I, Abstract, https://archive.org/download/DTIC_AD0425380/DTIC_AD0425380_djvu.txt",
+"text": "The abstract opens: 'Nuclear detonations in the vicinity of the moon are considered in this report along with scientific information which might be obtained from such explosions. The military aspect is aided by investigation of space environment, detection of nuclear device testing, and capability of weapons in space.'",
+"tier": 1
+},
+{
+"source": "AFSWC TR-59-39 Vol I, Chapter I, Introduction, https://archive.org/download/DTIC_AD0425380/DTIC_AD0425380_djvu.txt",
+"text": "The introduction states the political motive in the report's own words: 'The motivation for such a detonation is clearly threefold: scientific, military and political... Obviously, however, specific positive effects would accrue to the nation first performing such a feat as a demonstration of advanced technological capability. It is also certain that, unless the climate of world opinion were well-prepared in advance, a considerable negative reaction could be stimulated.'",
+"tier": 1
+},
+{
+"source": "AFSWC TR-59-39 Vol I, report page and appendix on extraterrestrial-life panels, https://archive.org/download/DTIC_AD0425380/DTIC_AD0425380_djvu.txt",
+"text": "The contributor list on the report page includes 'C. E. Sagan' alongside ten others. The report's appendix separately lists 'C. Sagan, U. of Chicago, Astronomy' as a member of the National Academy of Sciences WESTEX group and 'C. Sagan, ARF - Yerkes, Astronomy' on the Armed Forces National Research Council Panel on Extraterrestrial Life. The document says nothing about his security clearance.",
+"tier": 1
+},
+{
+"source": "AFSWC TR-59-39 Vol I, DISTRIBUTION list, https://archive.org/download/DTIC_AD0425380/DTIC_AD0425380_djvu.txt",
+"text": "The distribution list sends copies to 'Director, Advanced Research Projects Agency, Department of Defense, ATTN: Ward Low, The Pentagon'; to 'US Atomic Energy Commission, ATTN: Technical Reports Library (Mrs. J. O'Leary, for DMA)'; to 'President, Sandia Corporation, ATTN: Document Control Division, Sandia Base, NMex'; to 'Director, Los Alamos Scientific Laboratory'; to 'Director, Lawrence Radiation Laboratory'; and to 'WADD, Wright-Patterson AFB, Ohio'.",
+"tier": 1
+},
+{
+"source": "AFSWC TR-59-39 Vol I, command page and publication review page, and Official Register of the United States 1957, p.629, https://www.govinfo.gov/content/pkg/GOVPUB-CS1-a5ad60ca6d6113c71c09c45dce6b9952/pdf/GOVPUB-CS1-a5ad60ca6d6113c71c09c45dce6b9952.pdf",
+"text": "The command page names 'Colonel Carey L. O'Bryan, Jr., Deputy Commander' of the Air Force Special Weapons Center, and the publication review page carries his name over 'USAF' and 'Deputy Commander'. The same officer is listed in the Official Register of the United States 1957, page 629, as Deputy Director of the Atomic Energy Commission's Division of Military Application.",
+"tier": 1
+}
+],
+"connections": [
+"Commissioned and published by the Air Force Special Weapons Center under usaf.",
+"Issued from l-kirtland, named on the title page as the Center's station.",
+"A copy went to sandia, to its document control division.",
+"A copy went to l-los-alamos, to the report library.",
+"A copy went to darpa, then ARPA, attention Ward Low at the Pentagon.",
+"A copy went to WADD at l-wright-patterson."
+],
+"denialPosture": "No denial attaches to this document on this board, and the popular framing that one should is the thing the record refuses. The claim usually made about it, that its existence was maintained as non-existent for four decades before a forced declassification, is not gradeable from the copy read: the DDC copy carries UNCLASSIFIED markings, an expressly unclassified title, and no declassification stamp, downgrading instruction or distribution limitation anywhere in the OCR. That is not a finding that the study was never withheld. It is a finding that this board holds no document establishing that it was, which is a different sentence and the only one the record supports.",
+"narrative": "The document says the political part out loud. Chapter I: 'The motivation for such a detonation is clearly threefold: scientific, military and political... Obviously, however, specific positive effects would accrue to the nation first performing such a feat as a demonstration of advanced technological capability. It is also certain that, unless the climate of world opinion were well-prepared in advance, a considerable negative reaction could be stimulated.' The abstract is narrower and more technical, offering space environment investigation, detection of nuclear device testing and weapons capability in space as the military aspect.\n\nThree corrections this node forces on the wider corpus are the reason it is worth having. The string 'A119' appears nowhere in the report; the document identifies itself only by report number and contract. The date is 19 June 1959, not 1958 and not May 1959. And the claim that the study was denied and then declassified after four decades of maintained non-existence is not established by the copy read here: it carries UNCLASSIFIED markings on its cover pages, its title is expressly marked '(Unclassified Title)', and no declassification stamp, downgrading instruction or distribution limitation appears in the OCR. Whatever the classification history was, this copy does not carry it.\n\nThe Sagan question is answered only as far as the paper goes. C. E. Sagan is on the contributor list on the report page, and the appendix separately places C. Sagan on the National Academy of Sciences WESTEX group and on the Armed Forces National Research Council Panel on Extraterrestrial Life. The document says nothing whatever about his security clearance, and the fellowship-application story that usually travels with this report concerns a different document that has not been opened here.",
+"openQuestions": [
+"The classification history of the study is not established. The DDC copy read here carries no declassification stamp or downgrading instruction, so whether an earlier copy was classified, and at what level, is unknown from this board.",
+"The record here is Volume I. The board holds nothing on any further volume and has not established whether one exists.",
+"The 1959 fellowship application in which the work is said to have been disclosed has not been opened. Nothing about it is in this report and no claim on this board rests on it.",
+"Whether the copies sent to Sandia, Los Alamos, Lawrence Radiation Laboratory, ARPA and WADD survive in those institutions' records has not been tested by any request logged here."
+],
+"roles": [
+"research",
+"custody"
+],
+"whatItIs": "AFSWC-TR-59-39, TR 59-39 Vol I, A Study of Lunar Research Flights, dated 19 June 1959 and issued by Headquarters Air Force Special Weapons Center, Air Research and Development Command, Kirtland Air Force Base, New Mexico. It was written by L. Reiffel of the Armour Research Foundation at the Illinois Institute of Technology under Project Number 5776-57853 and Contract AF 29(601)-1164, with contributions from eleven others including C. E. Sagan. The copy read for this board is the Defense Documentation Center copy, AD 425380, read in full from the OCR text of the DTIC mirror.",
+"whyImplicated": "It is carried here as an instrument rather than as an anecdote. A dated federal record shows an Air Force laboratory paying a university research foundation to work out what could be learned from detonating a nuclear weapon on or near the Moon, and saying in its own introduction that one of the three motivations was political demonstration. The distribution list is the part with the most value to this board: it documents who in the nuclear weapons complex received a copy, which makes the report a custody record as well as a research study. Copies went to ARPA at the Pentagon, to the Atomic Energy Commission's technical reports library for the Division of Military Application, to Sandia Corporation's document control division, to Los Alamos, to Lawrence Radiation Laboratory and to WADD at Wright-Patterson."
+},
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "afswc-tr-59-39",
+"l0": true,
+"label": "AFSWC TR-59-39 Vol I, A Study of Lunar Research Flights, 19 June 1959",
+"locLabel": null,
+"members": [
+{
+"cls": "institution",
+"id": "darpa",
+"label": "Defense Advanced Research Projects Agency",
+"tier": "C"
+},
+{
+"cls": "location",
+"id": "l-kirtland",
+"label": "Kirtland Air Force Base and Albuquerque, New Mexico",
+"tier": "B"
+},
+{
+"cls": "location",
+"id": "l-los-alamos",
+"label": "Los Alamos, New Mexico",
+"tier": "B"
+},
+{
+"cls": "location",
+"id": "l-wright-patterson",
+"label": "Wright-Patterson Air Force Base, Ohio",
+"tier": "A"
+}
+],
+"short": "AFSWC TR-59-39 Lunar Research Flights",
+"sources": [
+{
+"date": "1959-06-19",
+"name": "AFSWC TR-59-39 Vol I, A Study of Lunar Research Flights, DDC AD 425380 (DTIC mirror)",
+"url": "https://archive.org/details/DTIC_AD0425380"
+},
+{
+"date": "1959-06-19",
+"name": "OCR full text of AFSWC TR-59-39 Vol I",
+"url": "https://archive.org/download/DTIC_AD0425380/DTIC_AD0425380_djvu.txt"
+},
+{
+"date": "1957-05-01",
+"name": "Official Register of the United States 1957, US Civil Service Commission",
+"url": "https://www.govinfo.gov/content/pkg/GOVPUB-CS1-a5ad60ca6d6113c71c09c45dce6b9952/pdf/GOVPUB-CS1-a5ad60ca6d6113c71c09c45dce6b9952.pdf"
+}
+],
+"sub": "Air Force Special Weapons Center, Kirtland AFB; L. Reiffel, Armour Research Foundation; contributor C. E. Sagan; DDC AD 425380",
+"tier": "A",
+"tierRationale": "Re-graded A on a global pass (rank 116 of 1027, score 58). 6 connections, 5 of them custody/witness/funding/programmatic. Axes C3/A1/D2.",
+"timeline": [
+{
+"date": "1959-06-19",
+"id": "tl-1959-06-19-lunar-research-flights",
+"label": "A Study of Lunar Research Flights delivered to the Air Force Special Weapons Center",
+"precision": "day",
+"strand": "program",
+"text": "AFSWC TR-59-39 Vol I, by L. Reiffel of the Armour Research Foundation with contributions including C. E. Sagan, is dated 19 June 1959 under Contract AF 29(601)-1164. Its introduction states that the motivation for detonating a nuclear weapon on or near the Moon is threefold, scientific, military and political, and that positive effects would accrue to the nation first performing the feat. Copies went to ARPA at the Pentagon, to the AEC for the Division of Military Application, to Sandia, to Los Alamos, to the Lawrence Radiation Laboratory and to WADD at Wright-Patterson. The string A119 appears nowhere in it.",
+"tier": "B"
+}
+]
+}

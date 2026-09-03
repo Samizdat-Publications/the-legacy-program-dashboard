@@ -1,0 +1,127 @@
+{
+"A": 2,
+"C": 1,
+"D": 2,
+"band": null,
+"claims": [
+{
+"source": "UK MoD / The National Archives UFO file releases",
+"text": "The UK Ministry of Defence operated a UFO reporting desk until its closure in December 2009 and released its UFO file series to the National Archives.",
+"tier": 1
+},
+{
+"source": "Board bookkeeping",
+"text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
+"tier": 3
+}
+],
+"cls": "location",
+"cluster": "other",
+"connections": [
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "Condign report held at MoD Main Building",
+"id": "doc-condign-report",
+"l0": true,
+"label": "Unidentified Aerial Phenomena in the UK Air Defence Region (DIS Scientific & Technical Memorandum 55/2/00)",
+"note": "DI55, which produced the report, is a Defence Intelligence branch of the Ministry of Defence; it inherited responsibility for inquiries into UFO incidents of possible defence significance in 1967. The National Archives guide places the MoD's UFO secretariat work at Whitehall but does not state where the Condign volumes were physically held, so the Whitehall tie here is institutional rather than a documented location of the report.",
+"sources": [
+{
+"date": "2013-01-01",
+"name": "The National Archives, 'Unidentified Flying Objects (UFOs)' research guide",
+"url": "https://cdn.nationalarchives.gov.uk/documents/ufo-research-guide-2013.pdf"
+},
+{
+"date": null,
+"name": "https://en.wikipedia.org/wiki/Project_Condign",
+"url": "https://en.wikipedia.org/wiki/Project_Condign"
+},
+{
+"date": null,
+"name": "https://archive.org/stream/396201-defe-24-2090-1/396201-defe-24-2090-1_djvu.txt",
+"url": "https://archive.org/stream/396201-defe-24-2090-1/396201-defe-24-2090-1_djvu.txt"
+}
+],
+"tier": "A",
+"type": "geographic"
+},
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "MoD UFO desk held and released the Rendlesham file",
+"id": "rendlesham-1980",
+"l0": true,
+"label": "Rendlesham Forest Incident, RAF Woodbridge/Bentwaters",
+"note": "Lt Col Charles Halt's official report on the incidents, titled 'Unexplained Lights', was sent to Defence Secretariat 8 at Whitehall; his original typewritten report and the MoD's follow-up inquiries are held at DEFE 24/1512. A file dedicated to Rendlesham, DEFE 24/1948/1, was opened at The National Archives in August 2009 and contains Halt's memo.",
+"sources": [
+{
+"date": "2013-01-01",
+"name": "The National Archives, 'Unidentified Flying Objects (UFOs)' research guide",
+"url": "https://cdn.nationalarchives.gov.uk/documents/ufo-research-guide-2013.pdf"
+},
+{
+"date": null,
+"name": "https://www.nbcnews.com/id/wbna32451823",
+"url": "https://www.nbcnews.com/id/wbna32451823"
+},
+{
+"date": null,
+"name": "https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf",
+"url": "https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf"
+}
+],
+"tier": "A",
+"type": "geographic"
+}
+],
+"coords": [
+51.5045,
+-0.1265
+],
+"dateEnd": null,
+"dateStart": null,
+"deg": 2,
+"denials": [],
+"desc": "The Ministry of Defence Main Building on Whitehall is the headquarters of the United Kingdom's defence establishment and the institutional home of the UK's UFO desk, which received and assessed public and military reports from 1950 until the desk was closed in December 2009. The UK is on this board as the clearest counter-example to the American position: the Ministry released its entire UFO file series to the National Archives in successive tranches, including the Rendlesham Forest material and the 2000 'Unidentified Aerial Phenomena in the UK Air Defence Region' study known as Project Condign. That release happened without the harms the American concealment argument depends on, which is why Whitehall is a scored node rather than background.",
+"domains": [
+"_stubs",
+"w2-taxonomy"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "nd",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "l-uk-mod-whitehall",
+"l0": false,
+"label": "Ministry of Defence Main Building, Whitehall, London",
+"locLabel": "Whitehall, London, United Kingdom",
+"members": null,
+"short": "Ministry of Defence Main Building, Whitehall, London",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Wikipedia - Ministry of Defence Main Building",
+"url": "https://en.wikipedia.org/wiki/Ministry_of_Defence_Main_Building"
+},
+{
+"date": "2026-08-12",
+"name": "UK Government - Ministry of Defence",
+"url": "https://www.gov.uk/government/organisations/ministry-of-defence"
+}
+],
+"sub": "UK Ministry of Defence headquarters, Whitehall, London",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 764 of 1027, score 20). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D2.",
+"timeline": []
+}

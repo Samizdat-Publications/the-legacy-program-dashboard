@@ -1,0 +1,149 @@
+{
+"A": 1,
+"C": 0,
+"D": 1,
+"affiliations": [
+"U.S. House of Representatives, AZ-5 (2017- )",
+"Committee on Oversight and Accountability / Government Reform"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "2023-07-26",
+"event": "Questions Grusch, Graves and Fravor; pursues the 1997 Phoenix Lights and hits the SCIF referral.",
+"precision": "day"
+},
+{
+"date": "2024-11-13",
+"event": "Questions witnesses at the joint Oversight subcommittee hearing.",
+"precision": "day"
+}
+],
+"claims": [
+{
+"source": "Rep. Andy Biggs, 26 July 2023, GPO CHRG-118hhrg53022",
+"text": "'If we wanted to find out more about that where would we go to find the files and where - and who would we address? I know you are going to tell me we need to go to a SCIF so you can tell us in a SCIF.' Fravor: 'I could potentially give you a vector on that... in a closed environment.'",
+"tier": 1
+}
+],
+"cls": "person",
+"cluster": "oversight",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "pressed Grusch on Phoenix Lights and withheld information",
+"id": "david-grusch",
+"l0": false,
+"label": "David Charles Grusch",
+"note": "Biggs put the 1997 Phoenix Lights case to Grusch directly - 'I am going to take you to specific instances around the Phoenix Valley because that is where I live' - and asked whether he knew anything beyond the official explanation of a military training range off Luke and the Barry Goldwater range. Grusch: 'Only what is in the public vernacular about it. That was outside the scope of my duties.'",
+"sources": [
+{
+"date": "2023-07-26",
+"name": "House Oversight and Accountability Committee hearing, 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency', 26 July 2023 (CHRG-118hhrg53022)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm"
+}
+],
+"tier": "A",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "questioned witnesses at the 26 July 2023 UAP hearing",
+"id": "hearing-2023-07-26",
+"l0": true,
+"label": "House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'",
+"note": "Chairman Grothman recognised Biggs, who questioned Grusch, Graves and Fravor on misdirection by the government regarding UAP, the 1997 Phoenix Lights, and the 2019 UAP classification guidelines. He is recorded in the transcript as a member of the Committee on Oversight and Accountability.",
+"sources": [
+{
+"date": "2023-07-26",
+"name": "House Oversight hearing, 26 July 2023 (CHRG-118hhrg53022)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm"
+},
+{
+"date": null,
+"name": "https://www.congress.gov/event/118th-congress/house-event/116282/text",
+"url": "https://www.congress.gov/event/118th-congress/house-event/116282/text"
+}
+],
+"tier": "A",
+"type": "legislative"
+},
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "elicited Grusch's authorship of the UAPTF 2019 classification guide",
+"id": "uap-task-force",
+"l0": true,
+"label": "Unidentified Aerial Phenomena Task Force (UAPTF)",
+"note": "Asked by Biggs whether the 2019 classification guidelines interfere with the government's ability to be transparent, Grusch answered: 'Yes, I am familiar with the UAP Task Force 2019 Security Classification guide. I think it is fair. I did actually help author that with the Director.' Biggs: 'Uh-oh. You got a bias then.' Grusch then characterised the practice rather than the guide - 'I will call it a lazy attitude about declassifying videos'. The witness co-authored the instrument he was being asked to criticise, and said so unprompted.",
+"sources": [
+{
+"date": "2023-07-26",
+"name": "House Oversight hearing, 26 July 2023 (CHRG-118hhrg53022)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm"
+}
+],
+"tier": "A",
+"type": "investigative"
+}
+],
+"date": "2023-07-26",
+"dateEnd": null,
+"dateStart": "2023-07-26",
+"deg": 3,
+"denials": [],
+"domains": [
+"congress-house"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "andy-biggs",
+"instId": "house-oversight-committee",
+"l0": false,
+"label": "Andy Biggs",
+"loc": "Gilbert, AZ",
+"locId": null,
+"members": null,
+"narrative": "Biggs questioned all three witnesses at the 2023 hearing and returned to the subject at the 2024 hearing. His most useful contribution is a small, exact demonstration of the SCIF trap the committee kept falling into: pursuing the 1997 Phoenix Lights in his own state, he asked Grusch and Fravor where he should go to find the files and whom to address, and pre-empted the answer himself - 'I know you are going to tell me we need to go to a SCIF so you can tell us in a SCIF.' Fravor replied that he could 'potentially give you a vector on that... in a closed environment.' Grusch said the Phoenix Lights were outside the scope of his duties and he knew only what was in the public vernacular. Biggs also pressed on the operational cost - whether UAP are affecting training ranges and what the administration considers doing about it.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Andy Biggs",
+"sources": [
+{
+"date": "2023-07-26",
+"name": "U.S. GPO, Hearing transcript, Serial No. 118-53 (CHRG-118hhrg53022)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm"
+},
+{
+"date": "2024-11-13",
+"name": "U.S. GPO, Hearing transcript, Serial No. 118-135 (CHRG-118hhrg57440)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm"
+}
+],
+"status": "active",
+"sub": "U.S. Rep. (R-AZ-5); questioned witnesses on training ranges and the Phoenix Lights",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 955 of 1027, score 11). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D1.",
+"timeline": [],
+"unexplainedResidual": null,
+"unverified": []
+}

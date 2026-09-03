@@ -1,0 +1,137 @@
+{
+"A": 0,
+"C": 0,
+"D": 3,
+"affiliations": [
+"Citizens Against UFO Secrecy (director, 1977-1990s)",
+"Private legal practice, New York and Arizona"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "1978-01-01",
+"event": "CAUS FOIA litigation against CIA produces the release of several hundred pages of Agency UFO documents.",
+"precision": "year"
+},
+{
+"date": "1980-06-01",
+"event": "Files Civil Action No. 80-1562 against NSA.",
+"precision": "month"
+},
+{
+"date": "1981-11-03",
+"event": "Loses on appeal at the D.C. Circuit.",
+"precision": "day"
+},
+{
+"date": "1995-07-28",
+"event": "GAO's Roswell records report lists NSA/Fort Meade holdings of 'FOIA records, Citizens Against UFO Secrecy' among the record sets searched.",
+"precision": "day"
+},
+{
+"date": "2001-11-14",
+"event": "Ninth Circuit decides Citizens Against UFO Secrecy, Inc. v. United States Department of Defense.",
+"precision": "day"
+}
+],
+"claims": [
+{
+"source": "GAO/NSIAD-95-187, appendix listing of records searched",
+"text": "GAO's July 1995 Roswell records report identifies, among the record sets searched, 'National Security Agency, Fort Meade, Md. - FOIA records, Citizens Against UFO Secrecy.'",
+"tier": 1
+},
+{
+"source": "Citizens Against UFO Secrecy, Inc. v. United States Department of Defense (9th Cir.)",
+"text": "CAUS litigation against the Department of Defense reached the Ninth Circuit as late as 14 November 2001.",
+"tier": 1
+}
+],
+"cls": "person",
+"cluster": "oversight",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 2,
+"cls": "institution",
+"dateEnd": "1995",
+"dateStart": "1977",
+"direction": "out",
+"edgeLabel": "Gersten directed CAUS and brought its FOIA litigation",
+"id": "caus",
+"l0": false,
+"label": "Citizens Against UFO Secrecy (CAUS)",
+"note": "Gersten's litigation against CIA, NSA and DoD is the origin of the document-first method in this field.",
+"sources": [
+{
+"date": "2016-09-10",
+"name": "UFOs: The National Security Agency (NSA) Collection - incl. the Yeates Affidavit and CAUS v. NSA litigation records",
+"url": "https://www.theblackvault.com/documentarchive/ufos-the-national-security-agency-nsa-collection/"
+},
+{
+"date": "2001-11-14",
+"name": "Citizens Against UFO Secrecy, Inc. v. United States Department of Defense, U.S. Court of Appeals for the Ninth Circuit (CourtListener)",
+"url": "https://www.courtlistener.com/opinion/7176972/citizens-against-ufo-secrecy-inc-v-united-states-department-of-defense/"
+}
+],
+"tier": "C",
+"type": "institutional"
+}
+],
+"date": "1980-06-01",
+"dateEnd": null,
+"dateStart": "1980-06-01",
+"deg": 1,
+"denials": [],
+"domains": [
+"history-1970s-2000s"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "1",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "peter-gersten",
+"instId": "caus",
+"l0": false,
+"label": "Peter A. Gersten",
+"loc": "New York, NY",
+"locId": "l-dc",
+"members": null,
+"narrative": "Gersten was the lawyer who turned the UFO question into a docket. As director of Citizens Against UFO Secrecy he brought the FOIA litigation that forced CIA to process UFO records in the late 1970s and then sued the National Security Agency in 1980, producing Civil Action No. 80-1562 - the case in which NSA conceded it held UFO-related records and defended withholding them with a classified affidavit reviewed only by the judge. CAUS lost on the merits but won the fact: the existence of the holdings is now a matter of judicial record rather than assertion. Gersten kept litigating for two decades; CAUS was still in the federal appellate courts against the Department of Defense as late as 2001. The GAO's 1995 Roswell records search lists the National Security Agency at Fort Meade under 'FOIA records, Citizens Against UFO Secrecy' as one of the locations searched - an unusual acknowledgement that a private citizens' litigation had become a recognised body of federal records in its own right.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Peter A. Gersten",
+"sources": [
+{
+"date": "1995-07-28",
+"name": "GAO/NSIAD-95-187, 'Government Records: Results of a Search for Records Concerning the 1947 Crash Near Roswell, New Mexico'",
+"url": "https://www.govinfo.gov/content/pkg/GAOREPORTS-NSIAD-95-187/html/GAOREPORTS-NSIAD-95-187.htm"
+},
+{
+"date": "1981-11-03",
+"name": "Citizens Against UFO Secrecy v. National Security Agency, U.S. Court of Appeals for the D.C. Circuit (CourtListener)",
+"url": "https://www.courtlistener.com/opinion/400210/citizens-against-ufo-secrecy-v-nation-security-age/"
+},
+{
+"date": "2001-11-14",
+"name": "Citizens Against UFO Secrecy, Inc. v. United States Department of Defense, U.S. Court of Appeals for the Ninth Circuit (CourtListener)",
+"url": "https://www.courtlistener.com/opinion/7176972/citizens-against-ufo-secrecy-inc-v-united-states-department-of-defense/"
+},
+{
+"date": "2016-09-10",
+"name": "UFOs: The National Security Agency (NSA) Collection - incl. the Yeates Affidavit and CAUS v. NSA litigation records",
+"url": "https://www.theblackvault.com/documentarchive/ufos-the-national-security-agency-nsa-collection/"
+}
+],
+"status": "active",
+"sub": "Attorney; director, Citizens Against UFO Secrecy; FOIA litigator against NSA, CIA and DoD",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 916 of 1027, score 13). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.",
+"timeline": [],
+"unexplainedResidual": null,
+"unverified": []
+}

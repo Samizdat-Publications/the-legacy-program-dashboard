@@ -1,0 +1,175 @@
+{
+"A": 3,
+"C": 2,
+"D": 3,
+"band": null,
+"claims": [
+{
+"source": "https://www.govinfo.gov/content/pkg/PLAW-119publ60/html/PLAW-119publ60.htm",
+"text": "The FY2026 NDAA funding tables contain 25 line items titled 'CLASSIFIED PROGRAMS' totalling $95.786 billion requested and $95.907 billion authorized (computed directly from the enacted text, Division D).",
+"tier": 1
+},
+{
+"source": "https://www.govinfo.gov/content/pkg/PLAW-119publ60/html/PLAW-119publ60.htm",
+"text": "FY2026 NDAA line 077A, Other Procurement, Air Force, 'CLASSIFIED PROGRAMS': $26,920,092 thousand requested and authorized; the adjacent line 077 'SPECIAL UPDATE PROGRAM' carries $1,178,397 thousand.",
+"tier": 1
+},
+{
+"source": "https://www.govinfo.gov/content/pkg/PLAW-119publ60/html/PLAW-119publ60.htm",
+"text": "Classified RDT&E appears under Program Element number 9999999999: FY2026 line 293A (Air Force) $22,264,031 thousand requested, $22,385,031 thousand authorized; line 259A (Navy) $2,554,769 thousand; line 298A $8,276,313 thousand.",
+"tier": 1
+},
+{
+"source": "https://www.govinfo.gov/content/pkg/PLAW-119publ60/html/PLAW-119publ60.htm",
+"text": "FY2026 line 530A, Operation and Maintenance Defense-Wide, 'CLASSIFIED PROGRAMS': $22,750,830 thousand; line 590A, Operation and Maintenance Army: $2,385,523 thousand.",
+"tier": 1
+},
+{
+"source": "https://www.govinfo.gov/content/pkg/PLAW-119publ60/html/PLAW-119publ60.htm",
+"text": "Comparable totals computed from the enacted funding tables: FY2024 (P.L. 118-31) 22 rows, $86.574 billion requested / $86.912 billion authorized; FY2025 (P.L. 118-159) 24 rows, $89.566 billion / $88.682 billion; FY2026 (P.L. 119-60) 25 rows, $95.786 billion / $95.907 billion.",
+"tier": 1
+},
+{
+"source": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm",
+"text": "The FY2024 equivalent of the Air Force Other Procurement classified line was line 072A at $25,456,490 thousand; the FY2025 equivalent was line 064A at $25,476,312 thousand requested and $25,048,079 thousand authorized.",
+"tier": 1
+},
+{
+"source": "https://www.govinfo.gov/content/pkg/PLAW-119publ60/html/PLAW-119publ60.htm",
+"text": "The $26.9 billion Other Procurement, Air Force classified line is the principal 'pass-through': it is carried on the Air Force's books and counted against the Air Force topline but is not the Air Force's money to spend. Reasoning: the sum vastly exceeds any plausible Air Force-controlled classified procurement requirement, the account has historically carried national reconnaissance funding, and the Air Force has repeatedly and publicly complained that its published topline overstates its actual resources by roughly this magnitude.",
+"tier": 3
+}
+],
+"cls": "document",
+"cluster": "legacy",
+"connections": [
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": "2025-12-18",
+"direction": "out",
+"edgeLabel": "The one-word line item is the public face of the annex table",
+"id": "classified-annex",
+"l0": true,
+"label": "The Classified Annex (NDAA and Defense Appropriations)",
+"note": "Section 4001 authorises obligation of amounts in the funding tables and applies to any classified annex accompanying the Act; the printed tables show only 'CLASSIFIED PROGRAMS' and a number, the annex shows the programme detail. Attested by the enacted text.",
+"sources": [
+{
+"date": "2025-12-18",
+"name": "NDAA FY2026, Secs. 4001, and Division D tables",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-119publ60/html/PLAW-119publ60.htm"
+}
+],
+"tier": "A",
+"type": "programmatic"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2025-12-18",
+"direction": "in",
+"edgeLabel": "The Department is the account holder for every published classified line",
+"id": "dod",
+"l0": true,
+"label": "United States Department of Defense (secondary designation: Department of War)",
+"note": "All 25 'CLASSIFIED PROGRAMS' rows in the FY2026 funding tables sit in Department of Defense appropriation accounts - Army, Navy, Air Force, Space Force, Defense-Wide and Special Operations. Attested by the enacted funding tables.",
+"sources": [
+{
+"date": "2025-12-18",
+"name": "NDAA FY2026, Division D",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-119publ60/html/PLAW-119publ60.htm"
+}
+],
+"tier": "A",
+"type": "funding"
+},
+{
+"claimTier": 3,
+"cls": "program",
+"dateEnd": null,
+"dateStart": "2025-12-18",
+"direction": "out",
+"edgeLabel": "Published classified line items are where MIP and NIP money physically sits in the defense budget",
+"id": "mip",
+"l0": false,
+"label": "Military Intelligence Program (MIP)",
+"note": "The FY2026 funding tables carry roughly $95.9 billion in rows titled only 'CLASSIFIED PROGRAMS'; the published MIP request for FY2026 is $33.6 billion and the NIP request $81.9 billion, neither of which appears as a named line anywhere. The inference is that the classified rows are the appropriation vehicle. No document states the mapping.",
+"sources": [
+{
+"date": "2025-12-18",
+"name": "NDAA FY2026 Division D; FAS Intelligence Budget Data",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-119publ60/html/PLAW-119publ60.htm"
+}
+],
+"tier": "B",
+"type": "funding"
+},
+{
+"claimTier": 3,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2025-12-18",
+"direction": "out",
+"edgeLabel": "The $26.9 billion Other Procurement, Air Force classified line is the historical pass-through",
+"id": "nro",
+"l0": true,
+"label": "National Reconnaissance Office",
+"note": "FY2026 line 077A carries $26,920,092 thousand in Other Procurement, Air Force, an account long understood by budget analysts to carry national reconnaissance funding that the Air Force does not control. Inference from the size of the line, the account's history, and the Air Force's own repeated public complaints about a pass-through of this magnitude; no document confirms the recipient.",
+"sources": [
+{
+"date": "2025-12-18",
+"name": "NDAA FY2026 Division D funding tables",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-119publ60/html/PLAW-119publ60.htm"
+}
+],
+"tier": "A",
+"type": "funding"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "1970",
+"deg": 4,
+"denials": [],
+"desc": "The most direct answer to how money reaches a programme that does not appear as a budget line is that it does appear as a budget line - a line whose title is the word 'CLASSIFIED' and whose only other content is a dollar figure. In the funding tables of the National Defense Authorization Act for Fiscal Year 2026 (Public Law 119-60, division D), twenty-five separate rows are titled 'CLASSIFIED PROGRAMS'. Summed, they carry $95.786 billion requested and $95.907 billion authorized. The largest single one is line 077A, Other Procurement, Air Force: $26,920,092 thousand - $26.92 billion of procurement money in one Air Force appropriation account, described by one word. Immediately above it sits line 077, 'SPECIAL UPDATE PROGRAM', at $1,178,397 thousand, an equally uninformative title with a long history in the Air Force budget. Other Procurement, Air Force is the account in which the intelligence community's aerial and space reconnaissance funding has historically been carried, and this row is what defense-budget analysts call the Air Force 'pass-through': money that appears in the Air Force's total obligational authority, counts against the Air Force topline, and is not spent by or controlled by the Air Force. On the research side the concealment is even more literal: classified research, development, test and evaluation appears under Program Element number 9999999999 - an all-nines placeholder in the Department's own programme element numbering system - with $22,264,031 thousand requested for the Air Force alone at line 293A in FY2026, and further nine-nines rows in the Navy ($2,554,769 thousand at line 259A) and Special Operations ($8,276,313 thousand at line 298A). Operation and Maintenance, Defense-Wide carries $22,750,830 thousand at line 530A; Operation and Maintenance, Army carries $2,385,523 thousand at line 590A. The three-year series computed directly from the enacted funding tables runs: FY2024, twenty-two rows, $86.912 billion authorized; FY2025, twenty-four rows, $88.682 billion; FY2026, twenty-five rows, $95.907 billion. These are the visible edges of the black budget. What they fund is in the classified annex.",
+"domains": [
+"w2-black-budget"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "1",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "classified-programs-line",
+"l0": false,
+"label": "Line item 'CLASSIFIED PROGRAMS' / Program Element 9999999999",
+"locLabel": null,
+"members": null,
+"short": "Line item 'CLASSIFIED PROGRAMS' / Program Element 9999999999",
+"sources": [
+{
+"date": "2025-12-18",
+"name": "NDAA FY2026 (P.L. 119-60), Division D funding tables",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-119publ60/html/PLAW-119publ60.htm"
+},
+{
+"date": "2023-12-22",
+"name": "NDAA FY2024 (P.L. 118-31), Division D funding tables",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm"
+},
+{
+"date": "2024-12-23",
+"name": "NDAA FY2025 (P.L. 118-159), Division D funding tables",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-118publ159/html/PLAW-118publ159.htm"
+}
+],
+"sub": "The published, legally binding budget lines that state a number and nothing else",
+"tier": "A",
+"tierRationale": "Re-graded A on a global pass (rank 117 of 1027, score 58). 4 connections, 4 of them custody/witness/funding/programmatic. Axes C2/A3/D3.",
+"timeline": []
+}

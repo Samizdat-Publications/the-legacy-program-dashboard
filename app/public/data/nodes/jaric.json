@@ -1,0 +1,138 @@
+{
+"A": 1,
+"C": 2,
+"D": 2,
+"band": null,
+"claims": [
+{
+"source": "The National Archives Discovery catalogue, search API, https://discovery.nationalarchives.gov.uk/API/search/records?sps.searchQuery=%22Joint%20Air%20Reconnaissance%20Intelligence%20Centre%22",
+"text": "The unit's record trail is continuous and official. The National Archives catalogue holds Operations Record Books for the Joint Air Reconnaissance Intelligence Centre (United Kingdom) from AIR 29/1361, RAF Station Nuneham Park, September to December 1950, to AIR 29/5764, RAF Brampton, 1992, in the series 'Air Ministry and Ministry of Defence: Operations Record Books, Miscellaneous Units', with 'JARIC (UK): administrative history', 1962-1972, at AIR 14/4103.",
+"tier": 1
+},
+{
+"source": "The National Archives Discovery catalogue record for DEFE 24/1940, https://discovery.nationalarchives.gov.uk/API/records/v1/details/C11483085",
+"text": "The Ministry of Defence UFO reports file covering the Calvine period is closed for another fifty years. DEFE 24/1940, 'UFO reports', 1 August 1990 to 31 January 1991, former reference D/Sec(AS)12/2 Part J, is held at Kew as a Public Record with closure code 84 under the closure criterion 'Personal information where the applicant is a 3rd party', a Freedom of Information Act exemption signed 7 June 2023, and a record opening date of 1 January 2076.",
+"tier": 1
+},
+{
+"source": "The National Archives Discovery catalogue, search API, https://discovery.nationalarchives.gov.uk/API/search/records?sps.searchQuery=UFO%20reports",
+"text": "The closure is the series norm rather than a singling out: DEFE 24/1938 and DEFE 24/1952 open in 2072 under code 82, DEFE 24/1939 in 2075 under code 84, and DEFE 24/1953 and DEFE 24/1954 in 2077 under code 84.",
+"tier": 1
+},
+{
+"source": "The National Archives Discovery catalogue record for DEFE 24/1940/1, https://discovery.nationalarchives.gov.uk/API/records/v1/details/C10130124",
+"text": "A redacted digital copy of the file has been open since 2008. DEFE 24/1940/1, 'Digital copy of DEFE 24/1940: UFO reports; with redactions', 1 August 1990 to 31 January 1991, is closure status open, flagged digitised, with a record opening date of 20 October 2008.",
+"tier": 1
+},
+{
+"source": "AREA52 - DEBRIEFED with Chris Ramsay, ep. 34, 18 April 2025, 1:25:17 and 1:26:06",
+"text": "On AREA52 - DEBRIEFED with Chris Ramsay, episode 34, 18 April 2025, at 1:25:17, Nick Pope said of the Calvine photographs: 'we had access to Jarrick, which was the joint air reconnaissance and intelligence center ... They looked at all this and they said, yeah, it's real. It's whatever it is. It's 75 feet across. It's a solid, structured craft, but we have no idea what it is.' At 1:26:06 he called it 'an official intelligence community analysis'. No JARIC assessment of these photographs has been opened, and the Ministry of Defence file covering the period is closed until 2076.",
+"tier": 2
+}
+],
+"cls": "institution",
+"cluster": "ic",
+"connections": [
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "2076-01-01",
+"dateStart": "1990-08-01",
+"direction": "out",
+"edgeLabel": "The Defence Secretariat file covering the claimed assessment is closed until 2076",
+"id": "uk-defe24",
+"l0": false,
+"label": "DEFE 24 and DEFE 31 - MoD UFO record series, The National Archives, Kew",
+"note": "DEFE 24/1940 is the UFO reports file for 1 August 1990 to 31 January 1991 and carries a record opening date of 1 January 2076 under a Freedom of Information Act exemption signed 7 June 2023; a redacted digital copy at DEFE 24/1940/1 has been open since 20 October 2008. The edge records where the assessment would sit, not that it is there.",
+"sources": [
+{
+"date": "2026-09-02",
+"name": "The National Archives Discovery catalogue records for DEFE 24/1940 and DEFE 24/1940/1",
+"url": "https://discovery.nationalarchives.gov.uk/API/records/v1/details/C11483085"
+}
+],
+"tier": "C",
+"type": "custody"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "1992",
+"dateStart": "1950",
+"direction": "out",
+"edgeLabel": "Ministry of Defence imagery-intelligence unit with Operations Record Books at Kew, 1950-1992",
+"id": "uk-mod",
+"l0": false,
+"label": "United Kingdom Ministry of Defence",
+"note": "The unit's Operations Record Books are catalogued in the Air Ministry and Ministry of Defence series AIR 29, from RAF Nuneham Park in 1950 to RAF Brampton in 1992, with a separate administrative history at AIR 14/4103.",
+"sources": [
+{
+"date": "2026-09-02",
+"name": "The National Archives Discovery catalogue",
+"url": "https://discovery.nationalarchives.gov.uk/API/search/records?sps.searchQuery=%22Joint%20Air%20Reconnaissance%20Intelligence%20Centre%22"
+}
+],
+"tier": "B",
+"type": "institutional"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "1950",
+"deg": 2,
+"denials": [],
+"desc": "JARIC is the United Kingdom's joint imagery-intelligence unit, and its institutional life is documented at The National Archives without reference to any UFO case: Operations Record Books run from RAF Nuneham Park in 1950 through RAF Brampton in 1992 in the Air Ministry and Ministry of Defence series, with an administrative history for 1962-1972 at AIR 14/4103. It reaches this board because Nick Pope says JARIC assessed the six Calvine photographs and their negatives and concluded the object was a solid structured craft about 75 feet across. No such assessment has been opened. The Defence Secretariat file covering the period, DEFE 24/1940, is closed at Kew until 1 January 2076 under a Freedom of Information Act exemption signed on 7 June 2023, on the same personal-information ground as every neighbouring file in the run; a redacted digital copy, DEFE 24/1940/1, has been open since 20 October 2008 and could not be downloaded from this environment.",
+"domains": [
+"area52-2026-09-02"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "jaric",
+"l0": false,
+"label": "Joint Air Reconnaissance Intelligence Centre (JARIC)",
+"locLabel": null,
+"members": null,
+"short": "Joint Air Reconnaissance Intelligence Centre (JARIC)",
+"sources": [
+{
+"date": "2026-09-02",
+"name": "The National Archives Discovery catalogue, records for the Joint Air Reconnaissance Intelligence Centre",
+"url": "https://discovery.nationalarchives.gov.uk/API/search/records?sps.searchQuery=%22Joint%20Air%20Reconnaissance%20Intelligence%20Centre%22"
+},
+{
+"date": "2026-09-02",
+"name": "The National Archives Discovery catalogue record, DEFE 24/1940, UFO reports, 1990-1991",
+"url": "https://discovery.nationalarchives.gov.uk/API/records/v1/details/C11483085"
+},
+{
+"date": "2026-09-02",
+"name": "The National Archives Discovery catalogue record, DEFE 24/1940/1, digital copy with redactions",
+"url": "https://discovery.nationalarchives.gov.uk/API/records/v1/details/C10130124"
+},
+{
+"date": null,
+"name": "The National Archives Discovery catalogue, search API",
+"url": "https://discovery.nationalarchives.gov.uk/API/search/records?sps.searchQuery=UFO%20reports"
+}
+],
+"sub": "UK imagery-intelligence unit, RAF Nuneham Park, Brampton, Wyton and Episkopi; Operations Record Books at Kew 1950-1992",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 360 of 1027, score 34). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A1/D2.",
+"timeline": [
+{
+"date": "2023-06-07",
+"id": "tl-2023-06-07-defe-24-1940-closure-signed",
+"label": "The MoD file covering the Calvine period is signed closed until 2076",
+"precision": "day",
+"strand": "coverup",
+"text": "DEFE 24/1940, 'UFO reports', 1 August 1990 to 31 January 1991, former reference D/Sec(AS)12/2 Part J, carries closure code 84 under the criterion 'Personal information where the applicant is a 3rd party', a Freedom of Information Act exemption instrument signed on 7 June 2023, and a record opening date of 1 January 2076. The closure is the series norm rather than a singling out: the neighbouring files open between 2072 and 2077 on the same basis. A redacted digital copy, DEFE 24/1940/1, has been open since 20 October 2008 and would not download from this environment.",
+"tier": "B"
+}
+]
+}

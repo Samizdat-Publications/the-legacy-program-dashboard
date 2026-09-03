@@ -1,0 +1,496 @@
+{
+"A": 3,
+"C": 1,
+"D": 2,
+"band": "funding",
+"claims": [
+{
+"source": "American Alchemy with Jesse Michels, 'Presidential Advisor: I Directly Handled UFO Material (Ft. Harald Malmgren)', published 23 April 2025, at 0:57:51",
+"text": "On American Alchemy with Jesse Michels, 23 April 2025, at 0:57:51, Michels said that 'in 1961, the RAND Corporation wrote a report called Some New Considerations Concerning the Nuclear Test Ban, which highlighted the susceptibility of the US ICBM re-entry vehicles to high-energy X-rays', and that this insight fed the Operation Dominic tests. The report was not opened: rand.org answers 403 to this environment and a search on the exact title returned nothing. If it exists it would place RAND in this material seven years before the 1968 Kocher draft with which the node's UFO record currently opens.",
+"tier": 2
+},
+{
+"source": "NSF NCSES Master Government List of FFRDCs, FY2026",
+"text": "RAND operates four FFRDCs - Project AIR FORCE (Air Force), Arroyo Center (Army), National Defense Research Institute (USD A&S), and the Homeland Security Operational Analysis Center (DHS S&T).",
+"tier": 1
+},
+{
+"source": "RAND publication page and PDF, DRU-1571",
+"text": "RAND published George Kocher's 'UFOs: What To Do?' as draft DRU-1571 in November 1968.",
+"tier": 1
+},
+{
+"source": "RAND report RRA2475-1",
+"text": "RAND published 'Mapping Public Reports of Unidentified Aerial Phenomena Across America' (RRA2475-1) on 25 July 2023, citing Kocher's DRU-1571.",
+"tier": 1
+},
+{
+"source": "USAspending.gov federal award records",
+"text": "RAND's FFRDC contracts recorded on USAspending include FA701406C0001 (Project AIR FORCE, approx. $467 million), W74V8H06C0001 (Arroyo, approx. $328 million) and W74V8H06C0002 (NDRI, approx. $308 million), with current NDRI task orders HQ003422F0012, HQ003423F0005 and HQ003424F0003.",
+"tier": 1
+},
+{
+"source": "MITRE corporate history; UAP Gerb investigation, 7 August 2026, restating the same point",
+"text": "MITRE was founded as the Air Force's systems engineering counterpart modelled on the RAND Corporation.",
+"tier": 2
+},
+{
+"source": "https://catalog.archives.gov/id/656595571",
+"text": "The Department of the Air Force's first transfer into NARA Record Group 615 (series 656595571, 30 items, accessioned 28 August 2026) contains two RAND items sixteen years apart: item 342UAP00003, the Curtis LeMay Collection 1945-1947, which carries a 5 August 1947 report naming Project RAND; and item 342UAP00025, RAND Memorandum RM-3178-PR of March 1963.",
+"tier": 1
+},
+{
+"source": "https://catalog.archives.gov/medialz/electronic-records/rg-615/656595571/00124399_Curtis_LeMay_Collection.pdf",
+"text": "A report headed 'Report on Evaluation of Military Worth Activities (Reports Control Symbol WDCSO-(OT)-50)', Operations Analysis AC/AS-3, dated 5 August 1947 and directed to the Deputy Chief of Air Staff for Research and Development, states that 'The principal AAF activity in this particular field is Project RAND (AAF Project MX-791).'",
+"tier": 1
+},
+{
+"source": "https://catalog.archives.gov/medialz/electronic-records/rg-615/656595571/00124399_Curtis_LeMay_Collection.pdf",
+"text": "The same 5 August 1947 report gives estimated man-days of work performed on Project RAND during June 1947 as: military personnel 30, civilian 10, contractor's personnel RAND proper 2,200 and RAND subcontractors 1,400, total 3,600 -- so contractor effort was roughly ninety times government effort at the point RAND was still inside Douglas Aircraft.",
+"tier": 1
+},
+{
+"source": "https://catalog.archives.gov/medialz/electronic-records/rg-615/656595571/00907058_A_Survey_of_Exobiology.pdf",
+"text": "Item 342UAP00025 of the Air Force RG 615 transfer is RAND Memorandum RM-3178-PR, 'A Survey of Exobiology' by Paul G. Seybold, March 1963, marked UNCLASSIFIED and 'PREPARED FOR: UNITED STATES AIR FORCE PROJECT RAND', bearing an Aerospace Studies Institute Archives Branch return stamp for Maxwell AFB, Alabama.",
+"tier": 1
+}
+],
+"cls": "institution",
+"cluster": "ffrdc",
+"connections": [
+{
+"claimTier": 1,
+"cls": "domain",
+"dateEnd": null,
+"dateStart": "1948",
+"direction": "out",
+"edgeLabel": "RAND invented the institutional form the whole domain rests on",
+"id": "d-ffrdc",
+"l0": false,
+"label": "The FFRDC Seam",
+"note": "Incorporated 1948 out of Project RAND inside Douglas Aircraft; now operates four FFRDCs for the Air Force, Army, OSD and DHS.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "NSF NCSES FFRDC master list",
+"url": "https://ncses.nsf.gov/resource/master-gov-lists-ffrdc"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "2026",
+"direction": "in",
+"edgeLabel": "Named as a target of his records investigation",
+"id": "eric-burlison",
+"l0": false,
+"label": "Eric Burlison",
+"note": "Burlison: 'my investigation is following the trail into RAND, MITRE, Aerospace Corp, MIT Lincoln Labs, and the Northrop Grummans of the world.' No letter to RAND has been made public.",
+"sources": [
+{
+"date": "2026-05-16",
+"name": "The Hill: House Republican requests UFO talk from private contractor",
+"url": "https://thehill.com/homenews/house/5880943-house-gop-ufo-programs-pentagon-private-contractors/"
+},
+{
+"date": "2026-06-25",
+"name": "Cybernews",
+"url": "https://cybernews.com/news/burlison-ufo-uap-project-blue/"
+}
+],
+"tier": "A",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "1968",
+"direction": "out",
+"edgeLabel": "Published Kocher's 'UFOs: What To Do?' as DRU-1571, November 1968",
+"id": "george-kocher",
+"l0": false,
+"label": "George Kocher",
+"note": "Issued two months before the Condon Committee report told the public the subject was closed; RAND has never withdrawn it.",
+"sources": [
+{
+"date": "1968-11-01",
+"name": "RAND DRU-1571",
+"url": "https://www.rand.org/pubs/drafts/DRU1571.html"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 2,
+"cls": "document",
+"dateEnd": "1958",
+"dateStart": "1958",
+"direction": "in",
+"edgeLabel": "MITRE founded as the Air Force's successor to RAND",
+"id": "gerb-mitre-investigation",
+"l0": true,
+"label": "UAP Gerb - The MITRE Corporation investigation",
+"note": "The investigation restates the documented history that MITRE was established in 1958 as the Air Force's spiritual successor to RAND, tasked with systems engineering for SAGE.",
+"sources": [
+{
+"date": "2026-08-07",
+"name": "UAP Gerb - The MITRE Corporation investigation",
+"url": "https://www.youtube.com/watch?v=107BtDYhTkA"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "2022",
+"direction": "in",
+"edgeLabel": "President and CEO, arriving from IARPA and the White House OSTP",
+"id": "jason-matheny",
+"l0": false,
+"label": "Jason Matheny",
+"note": "Another instance of the pattern: the person setting a nominally independent FFRDC operator's research agenda previously ran the Intelligence Community's research arm.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "RAND - Jason Matheny profile",
+"url": "https://www.rand.org/about/people/m/matheny_jason.html"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "location",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "RAND headquarters since its 1948 formation",
+"id": "l-santa-monica",
+"l0": false,
+"label": "Santa Monica, California",
+"note": "The NSF master list registers Project AIR FORCE, the Arroyo Center and the National Defense Research Institute at Santa Monica, California - three of RAND's four FFRDCs, the fourth being the Homeland Security Operational Analysis Center at Arlington, Virginia. This is where the contractor-operated analytical institution was invented.",
+"sources": [
+{
+"date": "2026-08-25",
+"name": "NSF NCSES Master Government List of FFRDCs",
+"url": "https://ncses.nsf.gov/resource/master-gov-lists-ffrdc"
+},
+{
+"date": null,
+"name": "https://en.wikipedia.org/wiki/RAND_Corporation",
+"url": "https://en.wikipedia.org/wiki/RAND_Corporation"
+},
+{
+"date": null,
+"name": "https://www.rand.org/about.html",
+"url": "https://www.rand.org/about.html"
+}
+],
+"tier": "C",
+"type": "geographic"
+},
+{
+"claimTier": 2,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "1958",
+"direction": "in",
+"edgeLabel": "MITRE was created on the RAND model as the Air Force's systems engineering counterpart",
+"id": "mitre-corporation",
+"l0": true,
+"label": "The MITRE Corporation",
+"note": "RAND, incorporated 1948 out of Project RAND, established the permanent contractor-operated analytical partner form; the Air Force replicated it for systems engineering in 1958.",
+"sources": [
+{
+"date": "1995-06-01",
+"name": "OTA - A History of DoD FFRDCs",
+"url": "https://www.princeton.edu/~ota/disk1/1995/9501/950110.PDF"
+},
+{
+"date": "2026-08-07",
+"name": "UAP Gerb MITRE investigation",
+"url": "https://www.youtube.com/watch?v=107BtDYhTkA"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "1990",
+"direction": "in",
+"edgeLabel": "Doctorate from the RAND Graduate School",
+"id": "samantha-ravich",
+"l0": false,
+"label": "Samantha F. Ravich",
+"note": "Another instance of FFRDC-operator interlock: a MITRE trustee credentialed by RAND and serving on Idaho National Laboratory's national security advisory committee.",
+"sources": [
+{
+"date": "2026-05-19",
+"name": "MITRE news release",
+"url": "https://www.mitre.org/news-insights/news-release/mitre-names-samantha-ravich-phd-board-trustees"
+}
+],
+"tier": "C",
+"type": "institutional"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "1946",
+"deg": 8,
+"denials": [],
+"desc": "RAND is the original. It began in 1946 as Project RAND inside Douglas Aircraft under Army Air Forces contract and was incorporated as an independent nonprofit in 1948, creating the institutional form - the permanent, contractor-operated, sole-source analytical partner to a military service - that every entity in this domain copies. MITRE was explicitly built on the RAND model twelve years later. RAND today operates four FFRDCs: Project AIR FORCE for the Air Force, the Arroyo Center for the Army, the National Defense Research Institute for the Under Secretary of Defense for Acquisition and Sustainment, and the Homeland Security Operational Analysis Center for DHS. Its UFO record is public and continuous. In November 1968 RAND issued George Kocher's draft DRU-1571, 'UFOs: What To Do?', examining UFO brightness, size and manoeuvres and recommending a course of action - two months before the Condon Committee report told the public the subject was closed. In July 2023 RAND published RRA2475-1, mapping public UAP reports across the United States and citing Kocher's 1968 draft. Its president and CEO, Jason Matheny, came from directing IARPA and from the White House OSTP. Its long-running FFRDC contracts are documented on USAspending: Project AIR FORCE under FA701406C0001, Arroyo under W74V8H06C0001, NDRI under W74V8H06C0002 and successors HQ003422F0012, HQ003423F0005 and HQ003424F0003. Burlison has named RAND among the organisations his investigation is following. RAND is the institution that invented the seam, has documented interest in the phenomenon spanning fifty-eight years, and has never been asked under oath what it holds.",
+"domains": [
+"ffrdcs"
+],
+"dossier": {
+"claims": [
+{
+"source": "\"A Brief History of the RAND Corporation,\" https://www.rand.org/about/history.html",
+"text": "The U.S. Army Air Forces created Project RAND in 1946 under contract with the Douglas Aircraft Company, to retain the civilian scientific talent assembled during the Second World War.",
+"tier": 2
+},
+{
+"source": "\"A Brief History of the RAND Corporation,\" https://www.rand.org/about/history.html",
+"text": "Project RAND's first assignment was to design a \"world-circling spaceship\" on a three-week deadline; \"Preliminary Design of an Experimental World-Circling Spaceship\" was released in May 1946.",
+"tier": 2
+},
+{
+"source": "\"RAND Corporation,\" INFORMS History of O.R. Excellence, https://www.informs.org/Explore/History-of-O.R.-Excellence/Non-Academic-Institutions/RAND-Corporation ; https://www.rand.org/about/history.html",
+"text": "RAND was incorporated as a nonprofit corporation under California law on 14 May 1948, and on 1 November 1948 the Project RAND contract was formally transferred from the Douglas Aircraft Company to the RAND Corporation; the Ford Foundation supplied initial capital for the spin-off.",
+"tier": 2
+},
+{
+"source": "https://www.rand.org/pubs/drafts/DRU1571.html",
+"text": "RAND published DRU-1571, \"UFOs: What To Do?\", by George Kocher, in 1968; the document is 43 pages and is filed in RAND's drafts series.",
+"tier": 1
+},
+{
+"source": "https://www.rand.org/pubs/drafts/DRU1571.html",
+"text": "RAND's own abstract for DRU-1571 states: \"We have enough data—both visual and photographic—on some of these sightings to know that the phenomenon is unambiguously extraordinary and clearly inexplicable in modern terms.\"",
+"tier": 1
+},
+{
+"source": "https://www.rand.org/pubs/drafts/DRU1571.html ; full text at https://www.rand.org/content/dam/rand/pubs/drafts/2007/DRU1571.pdf",
+"text": "Kocher's paper examines UFO brightness, size and maneuvers, discusses the frequency and location of sightings, and concludes by proposing standardized reporting so that times and locations of appearances may be anticipated and objective data obtained.",
+"tier": 1
+},
+{
+"source": "https://www.rand.org/pubs/drafts/DRU1571.html",
+"text": "RAND characterizes the drafts series containing DRU-1571 as unrestricted drafts that, although approved for circulation, \"were not usually formally edited or peer reviewed.\"",
+"tier": 1
+},
+{
+"source": "\"The RAND Corporation and UFOs (Pt. 2),\" Openminds.tv, http://www.openminds.tv/rand-corporation-and-ufos-pt-2/12330",
+"text": "The Kocher document was dated 27 November 1968 and stamped \"For RAND Use Only\" with instructions not to quote or cite it in external publications; RAND is reported to have declined to acknowledge the paper's existence and authenticity until 2000.",
+"tier": 3
+},
+{
+"source": "https://www.rand.org/pubs/research_reports/RRA2475-1.html",
+"text": "RAND published \"Not the X-Files: Mapping Public Reports of Unidentified Aerial Phenomena Across America,\" report RR-A2475-1, by Marek N. Posard, Ashley Gromis and Mary Lee.",
+"tier": 1
+},
+{
+"source": "https://www.rand.org/content/dam/rand/pubs/research_reports/RRA2400/RRA2475-1/RAND_RRA2475-1.pdf",
+"text": "The 2023 RAND UAP study was sponsored by the Office of the Secretary of Defense and conducted within the Acquisition and Technology Policy Program of the RAND National Security Research Division.",
+"tier": 1
+},
+{
+"source": "https://www.rand.org/pubs/research_reports/RRA2475-1.html",
+"text": "The study presented a geographic analysis of 101,151 public reports of UAP sightings across 12,783 U.S. Census Bureau locations.",
+"tier": 2
+},
+{
+"source": "Popular Science, \"The connection between UAP reports and Military Operations Areas,\" https://www.popsci.com/technology/rand-report-uap-military-operations-areas/",
+"text": "The study's principal finding is that unknown aircraft are most commonly reported near Military Operations Areas — blocks of airspace designated for military practice and maneuvering, which are not necessarily near air bases.",
+"tier": 2
+},
+{
+"source": "Popular Science, https://www.popsci.com/technology/rand-report-uap-military-operations-areas/ ; https://www.rand.org/pubs/research_reports/RRA2475-1.html",
+"text": "RAND completed the report in May 2023, sent it to the Department of Defense for review, and published it on 25 July 2023 — the day before the House Oversight Committee's 26 July 2023 UAP hearing.",
+"tier": 2
+},
+{
+"source": "https://www.rand.org/paf.html ; https://www.rand.org/nsrd.html ; https://www.rand.org/ard.html",
+"text": "RAND operates federally funded research and development centers for the Department of Defense through Project AIR FORCE, the National Defense Research Institute, and the RAND Army Research Division (Arroyo Center).",
+"tier": 2
+},
+{
+"source": "https://catalog.archives.gov/id/656595571",
+"text": "The Department of the Air Force's first transfer into NARA Record Group 615 (series 656595571, 30 items, accessioned 28 August 2026) contains two RAND items sixteen years apart: item 342UAP00003, the Curtis LeMay Collection 1945-1947, which carries a 5 August 1947 report naming Project RAND; and item 342UAP00025, RAND Memorandum RM-3178-PR of March 1963.",
+"tier": 1
+},
+{
+"source": "https://catalog.archives.gov/medialz/electronic-records/rg-615/656595571/00124399_Curtis_LeMay_Collection.pdf",
+"text": "A report headed 'Report on Evaluation of Military Worth Activities (Reports Control Symbol WDCSO-(OT)-50)', Operations Analysis AC/AS-3, dated 5 August 1947 and directed to the Deputy Chief of Air Staff for Research and Development, states that \"The principal AAF activity in this particular field is Project RAND (AAF Project MX-791).\"",
+"tier": 1
+},
+{
+"source": "https://catalog.archives.gov/medialz/electronic-records/rg-615/656595571/00124399_Curtis_LeMay_Collection.pdf",
+"text": "The same 5 August 1947 report gives estimated man-days of work performed on Project RAND during June 1947 as: military personnel 30, civilian 10, contractor's personnel RAND proper 2,200 and RAND subcontractors 1,400, total 3,600 -- so contractor effort was roughly ninety times government effort at the point RAND was still inside Douglas Aircraft.",
+"tier": 1
+},
+{
+"source": "https://catalog.archives.gov/medialz/electronic-records/rg-615/656595571/00907058_A_Survey_of_Exobiology.pdf",
+"text": "Item 342UAP00025 of the Air Force RG 615 transfer is RAND Memorandum RM-3178-PR, \"A Survey of Exobiology\" by Paul G. Seybold, March 1963, marked UNCLASSIFIED and \"PREPARED FOR: UNITED STATES AIR FORCE PROJECT RAND\", bearing an Aerospace Studies Institute Archives Branch return stamp for Maxwell AFB, Alabama.",
+"tier": 1
+}
+],
+"connections": [
+"Douglas Aircraft Company — RAND's corporate parent 1946-1948, an airframe prime operating during the Roswell period; later McDonnell Douglas, then Boeing.",
+"Air Materiel Command / Wright Field — recipient of the Roswell debris per the FBI teletype recovered by GAO, and the command RAND's earliest aerospace work served; GAO found no AMC records 1947-1950 mentioning the crash (see gao-nsiad-95-187).",
+"Condon Committee and Project Blue Book — the Kocher draft was written in November 1968, weeks before the Condon report's release and Blue Book's termination.",
+"Office of the Secretary of Defense — sponsor of the 2023 RAND UAP study; the study was submitted to DoD for review before publication.",
+"Marek N. Posard, Ashley Gromis, Mary Lee — named RAND authors of RR-A2475-1.",
+"George Kocher — RAND analyst and author of DRU-1571.",
+"AARO — the 2023 RAND finding on Military Operations Areas is compatible with, and rhetorically useful to, AARO's misidentification framing in Historical Record Report Volume I.",
+"Ford Foundation — funder of RAND's 1948 independence, the mechanism by which a contractor's analysis shop became a nominally independent institution."
+],
+"denialPosture": "RAND has never publicly denied anything about UAP; its posture is non-engagement punctuated by two publications fifty-five years apart. The relevant artifact is the withholding: a 1968 internal paper by a RAND analyst declaring the phenomenon unambiguously extraordinary was stamped for internal use only and, per researchers who pursued it, was not acknowledged by RAND as authentic until 2000. The 2023 OSD-sponsored study restores RAND to the subject on terms that frame it entirely as a misidentification-geography problem and never touch recovery, materials or program structure.",
+"narrative": "Project RAND was created in 1946 under contract between the Army Air Forces and the Douglas Aircraft Company, expressly to retain the civilian scientific talent that had won the war. Its first assignment, delivered on a three-week deadline, was the design of a world-circling spaceship; the resulting \"Preliminary Design of an Experimental World-Circling Spaceship\" was released in May 1946. The organization incorporated as a California nonprofit on 14 May 1948, and on 1 November 1948 the Project RAND contract was formally transferred from Douglas Aircraft to the RAND Corporation, with the Ford Foundation supplying the initial capital for the spin-off.\n\nThat founding sequence is the point. RAND was a defense contractor's internal analysis shop that became a national institution by changing its corporate wrapper without changing its customer. The July 1947 Roswell events fall squarely inside the Douglas-contract period; the FBI teletype GAO later recovered records that the recovered disc and balloon were \"being sent to Wright Field... for examination\" — Wright Field being Air Materiel Command, the same enterprise for which Project RAND was doing its earliest work on exotic aerospace concepts. GAO in 1995 could find no Air Materiel Command records from 1947-1950 mentioning the crash or any examination of debris.\n\nRAND's documented engagement with the phenomenon comes in two widely separated bursts.\n\nThe first is DRU-1571, \"UFOs: What To Do?\", by George Kocher, 1968, forty-three pages. RAND's own abstract for the document is unusually direct: \"Since World War II, however, there seems to have been a drastic increase in the number of sightings. We have enough data — both visual and photographic — on some of these sightings to know that the phenomenon is unambiguously extraordinary and clearly inexplicable in modern terms.\" Kocher examines UFO brightness, size and maneuvers, discusses the frequency and location of sightings, and closes by proposing standardized reporting so that times and locations of appearances may be anticipated and objective data obtained. He recommended going beyond a national collection to worldwide data with intensive investigation of the most interesting reports. The document is dated 27 November 1968 and was stamped for RAND use only, with instructions not to quote or cite externally; researchers report that RAND did not acknowledge the paper's existence and authenticity until 2000. RAND now files it in a series it describes as unrestricted drafts that \"were not usually formally edited or peer reviewed\" — a retrospective classification that softens a document written by its own staff during the exact months the Air Force was preparing to shut down Project Blue Book on the strength of the Condon report.\n\nThe timing is the finding. In late 1968 the Air Force's analytic contractor produced an internal paper saying the phenomenon was real, extraordinary and inexplicable, and recommending a global standardized collection architecture. In January 1969 the Condon report was released and Blue Book was terminated. The Kocher draft was suppressed for a generation.\n\nThe second burst is 2023. RAND published \"Not the X-Files: Mapping Public Reports of Unidentified Aerial Phenomena Across America,\" report number RR-A2475-1, by Marek N. Posard, Ashley Gromis and Mary Lee. The research was sponsored by the Office of the Secretary of Defense and conducted within the Acquisition and Technology Policy Program of the RAND National Security Research Division. The authors analyzed 101,151 public UAP reports across 12,783 U.S. Census Bureau locations. The headline result is that reports cluster near Military Operations Areas — designated blocks of airspace for military training and maneuvering, not necessarily near airbases. RAND completed the report in May 2023, sent it to the Department of Defense for review, and published it on 25 July 2023 — the day before the House Oversight Committee's UAP hearing at which David Grusch testified.\n\nFor an analyst, the 2023 study is a two-edged artifact. Its finding is genuinely useful: whatever is being reported, it is being reported disproportionately where the military flies. That is consistent with misidentification of military activity, and it is equally consistent with the phenomenon exhibiting interest in military activity — the correlation does not discriminate. What the study does not do, and was not scoped to do, is ask a single question about recovery, custody, materials, or program structure. An OSD-sponsored study, reviewed by the Department before release, published the day before the most consequential UAP hearing in fifty years, framing the entire subject as a geography-of-misidentification problem, is exactly the deliverable a concealment posture would commission. That does not make the analysis wrong. It makes the timing and the scoping evidence about the sponsor.\n\nRAND's structural position remains what it was in 1946: an FFRDC operator with continuous classified access across Project AIR FORCE, the National Defense Research Institute and the Army Research Division, publishing an unclassified fraction of its output and disclaiming that its publications \"do not necessarily reflect the opinions of its research clients and sponsors.\" Between 1968 and 2023 the public record shows nothing. Fifty-five years of an FFRDC's silence on a subject its own analyst called unambiguously extraordinary is itself a data point.",
+"openQuestions": [
+"What classified RAND work on unidentified aerial objects exists between 1946 and 1968, and does any of it sit in the Project RAND contract files at Air Force History Support Office or NARA?",
+"Who inside RAND commissioned or approved the Kocher draft, who was on distribution, and why was it restricted to internal use?",
+"What explains RAND's reported thirty-two-year refusal to acknowledge DRU-1571, and who made that decision?",
+"Did Project RAND produce any product for Air Materiel Command relating to recovered materials or unconventional aerospace objects in 1947-1950?",
+"Did the Office of the Secretary of Defense scope the 2023 study to exclude recovery, custody and materials questions, and does the sponsor correspondence survive?",
+"What did DoD's pre-publication review of RR-A2475-1 change, and is a pre-review draft obtainable?",
+"Has RAND performed any classified UAP-related work for AARO, ODNI or OSD since 2020 under Project AIR FORCE or NDRI?"
+],
+"roles": [
+"research",
+"concealment",
+"funding"
+],
+"whatItIs": "The RAND Corporation is a nonprofit research institution created by the U.S. Army Air Forces in 1946 as Project RAND, operating under contract to the Douglas Aircraft Company, and spun out as an independent California nonprofit in 1948 with initial capital from the Ford Foundation. It operates federally funded research and development centers for the Department of Defense, including Project AIR FORCE, the National Defense Research Institute and the Army Research Division, and has published on unidentified aerial phenomena in both 1968 and 2023.",
+"whyImplicated": "RAND is the original defense-contractor-adjacent think tank, born inside an airframe manufacturer and chartered to think about things the Air Force could not think about in uniform. It sat at the center of the 1946-1968 window in which any recovery and exploitation effort would have needed exactly RAND's product: threat framing, capability assessment, and analytic cover. Its 1968 internal draft \"UFOs: What To Do?\" states flatly that the phenomenon is \"unambiguously extraordinary and clearly inexplicable in modern terms\" — a judgment produced inside the Air Force's own analytic arm during the same period the Condon Committee was preparing to declare the subject scientifically barren. RAND stamped that document for internal use only and reportedly refused to acknowledge its existence for thirty-two years. Fifty-five years later, RAND published an OSD-sponsored study whose central finding is that public UAP reports cluster around military operations areas — analytically useful, and also the most institutionally comfortable finding available, since it relocates the phenomenon inside U.S. military activity without ever addressing recovery or custody."
+},
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "rand-corporation",
+"l0": true,
+"label": "RAND Corporation",
+"locLabel": null,
+"members": [
+{
+"cls": "domain",
+"id": "d-ffrdc",
+"label": "The FFRDC Seam",
+"tier": "B"
+},
+{
+"cls": "person",
+"id": "eric-burlison",
+"label": "Eric Burlison",
+"tier": "A"
+},
+{
+"cls": "person",
+"id": "george-kocher",
+"label": "George Kocher",
+"tier": "C"
+},
+{
+"cls": "person",
+"id": "jason-matheny",
+"label": "Jason Matheny",
+"tier": "C"
+},
+{
+"cls": "location",
+"id": "l-santa-monica",
+"label": "Santa Monica, California",
+"tier": "C"
+},
+{
+"cls": "person",
+"id": "samantha-ravich",
+"label": "Samantha F. Ravich",
+"tier": "C"
+}
+],
+"short": "RAND Corporation",
+"sources": [
+{
+"date": "2025-04-23",
+"name": "American Alchemy with Jesse Michels, 'Presidential Advisor: I Directly Handled UFO Material (Ft. Harald Malmgren)' (audio)",
+"url": "https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL1090282889.mp3?updated=1752180350"
+},
+{
+"date": "1968-11-01",
+"name": "RAND - UFOs: What To Do? (DRU-1571)",
+"url": "https://www.rand.org/pubs/drafts/DRU1571.html"
+},
+{
+"date": "2023-07-25",
+"name": "RAND - Mapping Public Reports of Unidentified Aerial Phenomena Across America (RRA2475-1)",
+"url": "https://www.rand.org/content/dam/rand/pubs/research_reports/RRA2400/RRA2475-1/RAND_RRA2475-1.pdf"
+},
+{
+"date": "2026-08-12",
+"name": "NSF NCSES - Master Government List of Federally Funded R&D Centers",
+"url": "https://ncses.nsf.gov/resource/master-gov-lists-ffrdc"
+},
+{
+"date": "2026-08-12",
+"name": "RAND - Jason Matheny profile",
+"url": "https://www.rand.org/about/people/m/matheny_jason.html"
+},
+{
+"date": null,
+"name": "catalog.archives.gov",
+"url": "https://catalog.archives.gov/id/656595571"
+},
+{
+"date": null,
+"name": "catalog.archives.gov",
+"url": "https://catalog.archives.gov/medialz/electronic-records/rg-615/656595571/00124399_Curtis_LeMay_Collection.pdf"
+},
+{
+"date": null,
+"name": "catalog.archives.gov",
+"url": "https://catalog.archives.gov/medialz/electronic-records/rg-615/656595571/00907058_A_Survey_of_Exobiology.pdf"
+}
+],
+"sub": "Nonprofit operator of four FFRDCs (Project AIR FORCE, Arroyo Center, National Defense Research Institute, HSOAC); Santa Monica, CA; est. 1948 out of Project RAND (1946)",
+"tier": "A",
+"tierRationale": "Re-graded A on a global pass (rank 138 of 1027, score 53). 8 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A3/D2.",
+"timeline": [
+{
+"date": "1946-03-01",
+"id": "tl-ffrdc-1946-rand",
+"label": "Project RAND created",
+"precision": "month",
+"strand": "program",
+"text": "The Army Air Forces establish Project RAND inside Douglas Aircraft, inventing the contractor-operated analytical partner form that every institution in this domain would later copy.",
+"tier": "B"
+},
+{
+"date": "1948-05-14",
+"id": "tl-ffrdc-1948-rand-inc",
+"label": "RAND incorporated as an independent nonprofit",
+"precision": "month",
+"strand": "program",
+"text": "RAND separates from Douglas Aircraft and incorporates as a nonprofit, establishing the legal template: permanent, sole-source, answerable to a military customer, outside the civil service.",
+"tier": "B"
+}
+]
+}

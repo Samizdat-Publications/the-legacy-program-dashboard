@@ -1,0 +1,205 @@
+{
+"A": 1,
+"C": 1,
+"D": 3,
+"band": null,
+"claims": [
+{
+"source": "Senior Chief Alexandro Wiggins, written statement, House Oversight Task Force, 9 September 2025",
+"text": "The encounter occurred '15 February 2023 at approximately 1915 PST in the W-291 Warning Area off the Southern California coast'; a self-luminous tic-tac object emerged from the ocean and joined three similar objects.",
+"tier": 2
+},
+{
+"source": "Wiggins written statement, 9 September 2025",
+"text": "CIC personnel recorded the encounter on a Star SAFIRE multi-spectral EO/IR system; footage 'includes timestamps, lat/long, and platform readouts consistent with USS Jackson's location.'",
+"tier": 2
+},
+{
+"source": "Wiggins written statement, 9 September 2025; The Debrief, 17 April 2025",
+"text": "The stabilized footage and screenshots were published by journalists rather than released by the Navy or AARO.",
+"tier": 2
+}
+],
+"cls": "event",
+"cluster": "witness",
+"connections": [
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2025",
+"dateStart": "2023",
+"direction": "in",
+"edgeLabel": "Supervised the watch and the recording of the 15 Feb 2023 encounter",
+"id": "alexandro-wiggins",
+"l0": false,
+"label": "Alexandro Wiggins",
+"note": "Wiggins testified as an active-duty Senior Chief Operations Specialist that CIC recorded four objects on Star SAFIRE with intact position and time metadata.",
+"sources": [
+{
+"date": "2025-09-09",
+"name": "House Oversight - Wiggins written statement (PDF)",
+"url": "https://oversight.house.gov/wp-content/uploads/2025/09/Wiggins-Written-Statement.pdf"
+}
+],
+"tier": "A",
+"type": "witness-chain"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2025",
+"dateStart": "2023",
+"direction": "out",
+"edgeLabel": "Footage reached the public through journalists, not through the Navy or AARO",
+"id": "jeremy-corbell",
+"l0": false,
+"label": "Jeremy Kenyon Lockyer Corbell",
+"note": "Wiggins's statement records that the stabilized footage and screenshots were published by journalists Jeremy Corbell and George Knapp.",
+"sources": [
+{
+"date": "2025-09-09",
+"name": "House Oversight - Wiggins written statement (PDF)",
+"url": "https://oversight.house.gov/wp-content/uploads/2025/09/Wiggins-Written-Statement.pdf"
+}
+],
+"tier": "C",
+"type": "investigative"
+},
+{
+"claimTier": 2,
+"cls": "location",
+"dateEnd": "2023",
+"dateStart": "2023",
+"direction": "in",
+"edgeLabel": "W-291 encounter occurred in the same operating-area complex",
+"id": "l-socal-oparea",
+"l0": false,
+"label": "Southern California Operating Areas (W-291 and Baja approaches)",
+"note": "Wiggins's statement places the event in Warning Area W-291 off Southern California.",
+"sources": [
+{
+"date": "2025-09-09",
+"name": "House Oversight - Wiggins written statement (PDF)",
+"url": "https://oversight.house.gov/wp-content/uploads/2025/09/Wiggins-Written-Statement.pdf"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 2,
+"cls": "event",
+"dateEnd": null,
+"dateStart": "2023",
+"direction": "out",
+"edgeLabel": "Same warning-area complex, same object morphology, nineteen years later",
+"id": "nimitz-2004",
+"l0": true,
+"label": "USS Nimitz Carrier Strike Group Encounters, 10-16 November 2004",
+"note": "A transmedium tic-tac-shaped object in W-291 in February 2023 repeats the November 2004 description in the same Southern California naval training space, with no published government assessment of either sensor record.",
+"sources": [
+{
+"date": "2025-09-09",
+"name": "House Oversight - Wiggins written statement (PDF)",
+"url": "https://oversight.house.gov/wp-content/uploads/2025/09/Wiggins-Written-Statement.pdf"
+},
+{
+"date": "2023-01-14",
+"name": "The War Zone - Tic Tac incident in newly released range fouler reports",
+"url": "https://www.twz.com/tic-tac-uap-incident-included-in-72-newly-released-range-incursion-reports"
+}
+],
+"tier": "A",
+"type": "temporal"
+},
+{
+"claimTier": 2,
+"cls": "institution",
+"dateEnd": "2023",
+"dateStart": "2023",
+"direction": "out",
+"edgeLabel": "The ship whose EO/IR system produced the recording",
+"id": "uss-jackson",
+"l0": false,
+"label": "USS Jackson (LCS-6)",
+"note": "The footage carries 'timestamps, lat/long, and platform readouts consistent with USS Jackson's location' - precisely the metadata the NASA study team said government UAP holdings lack.",
+"sources": [
+{
+"date": "2025-09-09",
+"name": "House Oversight - Wiggins written statement (PDF)",
+"url": "https://oversight.house.gov/wp-content/uploads/2025/09/Wiggins-Written-Statement.pdf"
+},
+{
+"date": "2023-09-14",
+"name": "NASA UAP Independent Study Team Final Report (PDF)",
+"url": "https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf"
+}
+],
+"tier": "C",
+"type": "institutional"
+}
+],
+"coords": null,
+"dateEnd": "2023",
+"dateStart": "2023",
+"deg": 5,
+"denials": [],
+"desc": "On 15 February 2023 at approximately 1915 PST in Warning Area W-291 off Southern California, the crew of USS Jackson (LCS-6) observed and recorded four self-luminous tic-tac-shaped objects, one of which was tracked emerging from the ocean. Senior Chief Operations Specialist Alexandro Wiggins testified to the House Oversight Task Force on the Declassification of Federal Secrets on 9 September 2025 that the objects had 'no visible control surfaces and no exhaust plume - features inconsistent with conventional aircraft,' and that the combat information center recorded the event on a Star SAFIRE multi-spectral electro-optical/infrared system, with footage carrying 'timestamps, lat/long, and platform readouts consistent with USS Jackson's location.' This is the highest-quality maritime UAP recording in the public record with an active-duty witness attached to it - and it did not reach the public through the Navy or AARO. It reached the public through journalists Jeremy Corbell and George Knapp, after which Wiggins carried it to Congress under his own name while still serving. Nineteen years after the Nimitz, in adjacent Southern California warning areas, with an object of the same reported morphology and an intact calibrated sensor record, the government has published no assessment.",
+"domains": [
+"aviators-incidents"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "uss-jackson-2023",
+"l0": false,
+"label": "USS Jackson (LCS-6) Encounter, 15 February 2023",
+"locLabel": null,
+"members": null,
+"short": "USS Jackson (LCS-6) Encounter, 15 February 2023",
+"sources": [
+{
+"date": "2025-09-09",
+"name": "House Oversight - Wiggins written statement (PDF)",
+"url": "https://oversight.house.gov/wp-content/uploads/2025/09/Wiggins-Written-Statement.pdf"
+},
+{
+"date": "2025-04-17",
+"name": "The Debrief - Return of the Tic Tacs",
+"url": "https://thedebrief.org/return-of-the-tic-tacs/"
+},
+{
+"date": "2025-09-09",
+"name": "House Oversight - hearing page, 9 Sept 2025",
+"url": "https://oversight.house.gov/hearing/restoring-public-trust-through-uap-transparency-and-whistleblower-protection/"
+}
+],
+"sub": "Four transmedium objects recorded on Star SAFIRE EO/IR",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 565 of 1027, score 27). 5 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A1/D3.",
+"timeline": [
+{
+"date": "2023-02-15",
+"id": "av-2023-02-15",
+"label": "USS Jackson records four objects",
+"precision": "day",
+"strand": "witness",
+"text": "At about 1915 PST in Warning Area W-291, USS Jackson's CIC records four self-luminous tic-tac objects, one emerging from the ocean, on a Star SAFIRE EO/IR system with intact position and time metadata.",
+"tier": "A"
+},
+{
+"date": "2025-04-17",
+"id": "av-2025-04-17",
+"label": "USS Jackson footage surfaces publicly",
+"precision": "day",
+"strand": "witness",
+"text": "The 2023 W-291 recording and independent analysis of it reach the public through journalists rather than through the Navy or AARO.",
+"tier": "B"
+}
+]
+}

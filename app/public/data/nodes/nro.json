@@ -1,0 +1,591 @@
+{
+"A": 3,
+"C": 2,
+"D": 2,
+"band": "funding",
+"claims": [
+{
+"source": "House Committee on Oversight and Accountability hearing notice, 26 July 2023",
+"text": "David Grusch testified before the House Oversight Committee on 26 July 2023 with the official witness title 'Former National Reconnaissance Officer Representative, Unidentified Anomalous Phenomena Task Force, Department of Defense'.",
+"tier": 1
+},
+{
+"source": "ODNI Preliminary Assessment, 25 June 2021",
+"text": "NRO is listed among the contributing elements to ODNI's 25 June 2021 Preliminary Assessment on UAP.",
+"tier": 1
+},
+{
+"source": "NRO About page, retrieved 12 August 2026",
+"text": "NRO's published leadership as of August 2026 is Acting Director William B. Adkins; the agency describes its workforce as 31% NRO cadre, 34% detailed government personnel and 35% military.",
+"tier": 1
+},
+{
+"source": "NRO's own published declassified history and the 1992 DEPSECDEF disclosure decision",
+"text": "The fact of the NRO's existence was classified from its establishment in 1961 until its declassification in September 1992, a period of 31 years.",
+"tier": 2
+},
+{
+"source": "Inference from the documented 1961-1992 concealment of the NRO's existence",
+"text": "The NRO precedent defeats the strongest a priori objection to a concealed legacy program - that 'someone would have talked'. Reasoning: an agency with tens of thousands of cleared personnel and a multi-billion-dollar annual budget sustained total public non-existence for 31 years, so the leak-rate argument is empirically falsified.",
+"tier": 3
+}
+],
+"cls": "institution",
+"cluster": "other",
+"connections": [
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "2012-07-06",
+"direction": "in",
+"edgeLabel": "Director of the National Reconnaissance Office, sworn in 6 July 2012",
+"id": "betty-sapp",
+"l0": false,
+"label": "Betty J. Sapp",
+"note": "Director of the National Reconnaissance Office, sworn in 6 July 2012, per the CRS intelligence-community leadership roster of 19 March 2019.",
+"sources": [
+{
+"date": "2019-03-19",
+"name": "CRS IF10538 version 6, Table 1",
+"url": "https://www.congress.gov/crs_external_products/IF/PDF/IF10538/IF10538.6.pdf"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 3,
+"cls": "document",
+"dateEnd": null,
+"dateStart": "2025-12-18",
+"direction": "in",
+"edgeLabel": "The $26.9 billion Other Procurement, Air Force classified line is the historical pass-through",
+"id": "classified-programs-line",
+"l0": false,
+"label": "Line item 'CLASSIFIED PROGRAMS' / Program Element 9999999999",
+"note": "FY2026 line 077A carries $26,920,092 thousand in Other Procurement, Air Force, an account long understood by budget analysts to carry national reconnaissance funding that the Air Force does not control. Inference from the size of the line, the account's history, and the Air Force's own repeated public complaints about a pass-through of this magnitude; no document confirms the recipient.",
+"sources": [
+{
+"date": "2025-12-18",
+"name": "NDAA FY2026 Division D funding tables",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-119publ60/html/PLAW-119publ60.htm"
+}
+],
+"tier": "A",
+"type": "funding"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "2021",
+"dateStart": "2016",
+"direction": "in",
+"edgeLabel": "Senior Intelligence Officer, NRO, 2016-2021; Director's briefing staff",
+"id": "david-grusch",
+"l0": false,
+"label": "David Charles Grusch",
+"note": "Grusch's published House Oversight biography places him at the National Reconnaissance Office from April 2016 to November 2021, serving on the NRO Operations Center Director's briefing staff including coordination of the President's Daily Brief. This is the access baseline for everything that follows.",
+"sources": [
+{
+"date": "2023-07-26",
+"name": "House Oversight witness biography of David C. Grusch",
+"url": "https://docs.house.gov/meetings/GO/GO06/20230726/116282/HHRG-118-GO06-Bio-GruschD-20230726.pdf"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2006",
+"direction": "in",
+"edgeLabel": "2006 FOIA suit forced release of unclassified NRO budget records",
+"id": "fas",
+"l0": false,
+"label": "Federation of American Scientists",
+"note": "Aftergood, for FAS, won a FOIA suit against the National Reconnaissance Office securing release of unclassified budget records. Attested by the FAS expert page.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "FAS, Steven Aftergood",
+"url": "https://fas.org/expert/steven-aftergood/"
+}
+],
+"tier": "C",
+"type": "investigative"
+},
+{
+"claimTier": 2,
+"cls": "document",
+"dateEnd": "2026",
+"dateStart": "2000",
+"direction": "in",
+"edgeLabel": "Alleges NRO mission support to crash retrieval teams and a NTTR-based team",
+"id": "gerb-nro-investigation",
+"l0": false,
+"label": "UAP Gerb - National Reconnaissance Office investigation",
+"note": "Gerb alleges direct NRO mission support to legacy crash-retrieval teams and that in the 21st century the NRO spearheaded a retrieval team stationed out of the Nevada Test and Training Range.",
+"sources": [
+{
+"date": "2025-12-13",
+"name": "UAP Gerb - NRO investigation",
+"url": "https://www.youtube.com/watch?v=GM1Qx9vuo2c"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 2,
+"cls": "location",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "NRO headquarters, Westfields, Chantilly",
+"id": "l-virginia",
+"l0": false,
+"label": "Charlottesville and the Commonwealth of Virginia",
+"note": "Since 1995 the National Reconnaissance Office has occupied a 68-acre compound at the Westfields International Center in Chantilly, Virginia, part of the Northern Virginia intelligence corridor this node stands for.",
+"sources": [
+{
+"date": "2026-08-25",
+"name": "National Reconnaissance Office, Contact Us (14675 Lee Road, Chantilly, VA 20151-1715)",
+"url": "https://www.nro.gov/Contact-Us/"
+},
+{
+"date": null,
+"name": "https://en.wikipedia.org/wiki/National_Reconnaissance_Office",
+"url": "https://en.wikipedia.org/wiki/National_Reconnaissance_Office"
+}
+],
+"tier": "C",
+"type": "geographic"
+},
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": "2015",
+"dateStart": "1963",
+"direction": "in",
+"edgeLabel": "The NRO ran the DORIAN payload inside the Air Force programme",
+"id": "manned-orbiting-laboratory",
+"l0": false,
+"label": "Manned Orbiting Laboratory and the DORIAN / KH-10 reconnaissance payload",
+"note": "The NRO ran the DORIAN payload inside the Air Force programme and is the agency that declassified the collection in 2015.",
+"sources": [
+{
+"date": "2019-05-01",
+"name": "Spies in Space, NRO Center for the Study of National Reconnaissance, May 2019",
+"url": "https://www.govinfo.gov/content/pkg/GOVPUB-D-PURL-gpo123652/pdf/GOVPUB-D-PURL-gpo123652.pdf"
+}
+],
+"tier": "B",
+"type": "programmatic"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2025-04-24",
+"direction": "out",
+"edgeLabel": "Produced no records for the first statutory UAP transfer",
+"id": "nara-uap-collection",
+"l0": true,
+"label": "National Archives Unidentified Anomalous Phenomena Records Collection",
+"note": "NARA's 24 April 2025 release named only ODNI, OSD, the FAA and the Nuclear Regulatory Commission. NRO, which holds documented UAP equity, transferred nothing.",
+"sources": [
+{
+"date": "2025-04-24",
+"name": "National Archives press release nr25-07",
+"url": "https://www.archives.gov/press/press-releases/2025/nr25-07"
+}
+],
+"tier": "A",
+"type": "denial"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2021-06-25",
+"direction": "out",
+"edgeLabel": "Named contributor to the 2021 ODNI Preliminary Assessment on UAP",
+"id": "odni",
+"l0": true,
+"label": "Office of the Director of National Intelligence",
+"note": "ODNI's 25 June 2021 assessment names NRO among the contributing elements, establishing that this agency produced or held UAP-relevant reporting.",
+"sources": [
+{
+"date": "2021-06-25",
+"name": "ODNI, Preliminary Assessment: Unidentified Aerial Phenomena",
+"url": "https://archive.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 3,
+"cls": "document",
+"dateEnd": null,
+"dateStart": "2026-08-01",
+"direction": "in",
+"edgeLabel": "directed to release; absent from the statutory archive",
+"id": "odni-memo-es-2026-00818",
+"l0": true,
+"label": "ODNI Memorandum ES 2026-00818 - Preliminary Guidance for Implementation of NDA Waiver",
+"note": "The Director of the National Reconnaissance Office is an addressee of ES 2026-00818; NRO has no RG 615 series, and NRO launches are the setting of Nuccetelli's Vandenberg testimony.",
+"sources": [
+{
+"date": "2026-08-01",
+"name": "ODNI Memorandum ES 2026-00818",
+"url": "https://burlison.house.gov/sites/evo-subsites/burlison.house.gov/files/evo-media-document/memorandum_2026.pdf"
+},
+{
+"date": "2026-08-12",
+"name": "National Archives, Record Group 615",
+"url": "https://www.archives.gov/research/topics/uaps/rg-615"
+}
+],
+"tier": "A",
+"type": "denial"
+},
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": "2021",
+"dateStart": "2019",
+"direction": "out",
+"edgeLabel": "NRO seconded a representative to the UAP Task Force",
+"id": "uap-task-force",
+"l0": true,
+"label": "Unidentified Aerial Phenomena Task Force (UAPTF)",
+"note": "David Grusch's official House Oversight witness title was 'Former National Reconnaissance Officer Representative, Unidentified Anomalous Phenomena Task Force, Department of Defense'.",
+"sources": [
+{
+"date": "2023-07-26",
+"name": "House Oversight Committee hearing notice, 26 July 2023",
+"url": "https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "Principal Deputy Director, then Acting Director, NRO",
+"id": "william-b-adkins",
+"l0": false,
+"label": "William B. Adkins",
+"note": "NRO's official leadership page lists Adkins as 'Acting Director, NRO' and states he 'was appointed Principal Deputy Director, National Reconnaissance Office (PDDNRO), on 12 January 2026,' with 'overall day-to-day management of the NRO.'",
+"sources": [
+{
+"date": "2026-08-25",
+"name": "National Reconnaissance Office, leadership biography of William B. Adkins",
+"url": "https://www.nro.gov/About-NRO/Leadership/leadership-adkins/"
+},
+{
+"date": null,
+"name": "https://www.nro.gov/Portals/135/Documents/about/leadership/bios/2026_Adkins_Bio_Final.pdf",
+"url": "https://www.nro.gov/Portals/135/Documents/about/leadership/bios/2026_Adkins_Bio_Final.pdf"
+}
+],
+"tier": "C",
+"type": "institutional"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "1961",
+"deg": 12,
+"denials": [
+{
+"by": {
+"id": "nro",
+"label": "National Reconnaissance Office"
+},
+"claimTier": 1,
+"denialKind": "directed",
+"label": "Produced no records for the first statutory UAP transfer",
+"note": "NARA's 24 April 2025 release named only ODNI, OSD, the FAA and the Nuclear Regulatory Commission. NRO, which holds documented UAP equity, transferred nothing.",
+"of": {
+"id": "nara-uap-collection",
+"label": "National Archives Unidentified Anomalous Phenomena Records Collection"
+},
+"sources": [
+{
+"date": "2025-04-24",
+"name": "National Archives press release nr25-07",
+"url": "https://www.archives.gov/press/press-releases/2025/nr25-07"
+}
+]
+},
+{
+"by": {
+"id": "nro",
+"label": "National Reconnaissance Office"
+},
+"claimTier": 3,
+"denialKind": "directed",
+"label": "directed to release; absent from the statutory archive",
+"note": "The Director of the National Reconnaissance Office is an addressee of ES 2026-00818; NRO has no RG 615 series, and NRO launches are the setting of Nuccetelli's Vandenberg testimony.",
+"of": {
+"id": "odni-memo-es-2026-00818",
+"label": "ODNI Memorandum ES 2026-00818 - Preliminary Guidance for Implementation of NDA Waiver"
+},
+"sources": [
+{
+"date": "2026-08-01",
+"name": "ODNI Memorandum ES 2026-00818",
+"url": "https://burlison.house.gov/sites/evo-subsites/burlison.house.gov/files/evo-media-document/memorandum_2026.pdf"
+},
+{
+"date": "2026-08-12",
+"name": "National Archives, Record Group 615",
+"url": "https://www.archives.gov/research/topics/uaps/rg-615"
+}
+]
+}
+],
+"desc": "The NRO is the proof-of-concept for the central claim of this board: that the United States can build, fund and operate a multi-billion-dollar agency for three decades while denying that it exists. Established in 1961 as a joint DoD-CIA activity under a classified DoD directive, the very fact of the NRO's existence was a classified fact until the Deputy Secretary of Defense authorised its disclosure in September 1992; before that, the agency's name could not lawfully be spoken in an unclassified setting, its budget was hidden inside the National Reconnaissance Program, and its headquarters construction at Westfields, Virginia became a congressional scandal in 1994 precisely because the appropriators had not understood what they were funding. The NRO develops, acquires, launches and operates the nation's overhead reconnaissance systems; as of 2026 its published leadership is Acting Director William B. Adkins, and it describes its workforce as 31 percent NRO cadre, 34 percent government personnel detailed from other agencies and 35 percent military. For this board the NRO matters three times over. First, as precedent: an agency concealed for 31 years is the working template for concealment at scale. Second, as a collector: ODNI's 2021 Preliminary Assessment lists the NRO among the contributing elements, meaning NRO overhead systems have produced UAP-relevant data. Third, as the employer of the principal witness: David Grusch appeared before the House Oversight Committee on 26 July 2023 under the title 'Former National Reconnaissance Officer Representative, Unidentified Anomalous Phenomena Task Force, Department of Defense' - Grusch's access to the UAP Task Force was as the NRO's representative to it, which places the NRO inside the chain of custody of the modern allegation rather than outside it.",
+"domains": [
+"_rs-archive-mirror",
+"w2-agencies"
+],
+"dossier": {
+"claims": [
+{
+"source": "https://irp.fas.org/nro/dod091802.html (DoD Memorandum for Correspondents No. 264-M, September 18, 1992)",
+"text": "The Department of Defense announced the declassification of the existence of the National Reconnaissance Office on September 18, 1992, in Memorandum for Correspondents No. 264-M, attributed to Deputy Secretary of Defense Donald Atwood and made on the recommendation of the Director of Central Intelligence.",
+"tier": 1
+},
+{
+"source": "https://irp.fas.org/nro/dod091802.html",
+"text": "That 1992 memorandum ends with the sentence: \"No other information relating to the National Reconnaissance Office was declassified.\"",
+"tier": 1
+},
+{
+"source": "https://irp.fas.org/nro/dod091802.html",
+"text": "The 1992 memorandum states the NRO is \"organized as an agency of the Department of Defense and funded through a program known as the National Reconnaissance Program (NRP), which is the single, national program to meet U.S. Government intelligence needs through spaceborne and assigned airborne reconnaissance.\"",
+"tier": 1
+},
+{
+"source": "https://irp.fas.org/nro/dod091802.html",
+"text": "Per the same memorandum, the Director of the NRO reports directly to the Secretary of Defense; the DCI establishes collection priorities and requirements, jointly approves the NRP budget with the Secretary of Defense, and provides security policy guidance; and the Director executes NRO programs \"through the Department of Defense and the Central Intelligence Agency.\"",
+"tier": 1
+},
+{
+"source": "https://irp.fas.org/nro/dod091802.html",
+"text": "As of the 1992 declassification the Director of the NRO was Martin C. Faga, the Deputy Director was Jimmie D. Hill, and the Deputy Director for Military Support was Rear Admiral Daniel P. March, USN.",
+"tier": 1
+},
+{
+"source": "https://www.nro.gov/Portals/65/documents/about/50thanniv/The%20NRO%20at%2050%20Years%20-%20A%20Brief%20History%20-%20Second%20Edition.pdf",
+"text": "The management arrangements establishing the National Reconnaissance Program and the NRO were signed on 6 September 1961 by Acting Director of Central Intelligence General Charles P. Cabell and Deputy Secretary of Defense Roswell L. Gilpatric, consolidating CIA, Air Force and Navy overhead reconnaissance under a covert compartmented office.",
+"tier": 2
+},
+{
+"source": "https://sgp.fas.org/bulletin/sec39.html (Secrecy & Government Bulletin No. 39, Aug-Sep 1994); see also S. Hrg. 103-997, \"NRO Headquarters Project,\" Senate Select Committee on Intelligence, 103d Cong.",
+"text": "On August 8, 1994, members of the Senate Select Committee on Intelligence publicly disclosed a previously secret $310 million, approximately one-million-square-foot NRO headquarters complex in Chantilly, Virginia, and criticized the intelligence community for failing to properly inform them of its size and cost; the committee subsequently held a hearing on the project.",
+"tier": 1
+},
+{
+"source": "https://sgp.fas.org/bulletin/sec39.html",
+"text": "NRO headquarters project director Roger Marsh testified in the agency's first open public hearing: \"We have been negligent, clearly negligent, for not showing the budget breakout for this project.\"",
+"tier": 2
+},
+{
+"source": "https://sgp.fas.org/bulletin/sec39.html",
+"text": "Senator Daniel P. Moynihan said of the NRO during the 1994 headquarters controversy: \"This is not the first time such a thing has happened, nor will it be, I fear, the last.... This is an agency which has lied to Congress before. Egregiously.\"",
+"tier": 2
+},
+{
+"source": "https://sgp.fas.org/bulletin/sec39.html citing Cong. Rec., 8/10/94, p. S11142",
+"text": "The headquarters project escaped congressional scrutiny because it was presented within the \"base\" portion of the classified budget rather than as a new initiative; Senator John Warner noted on August 10, 1994 that the NRO had 25 people working budget matters while the Senate intelligence committee had one staff person assigned to the task, and the NRO's share of the intelligence budget was then roughly $6.5 billion.",
+"tier": 2
+},
+{
+"source": "https://sgp.fas.org/bulletin/sec39.html",
+"text": "In the immediate aftermath the Senate passed an amendment requiring that any intelligence construction project costing $300 million or more be identified as a specific line item within the classified budget request.",
+"tier": 2
+},
+{
+"source": "https://en.wikipedia.org/wiki/National_Reconnaissance_Office ; contemporaneous reporting summarized at https://www.spokesman.com/stories/1996/feb/27/congress-investigates-secrets-of-national-spy/",
+"text": "Reporting in 1995-1996 established that the NRO had accumulated large unreported unspent balances — figures reported from $1 billion to $1.7 billion initially and around $3.8 billion in total forward funding — without informing CIA, the Pentagon or Congress; NRO Director Jeffrey K. Harris left the post in February 1996.",
+"tier": 2
+},
+{
+"source": "https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/",
+"text": "David Grusch served as the NRO's representative to the Unidentified Aerial Phenomena Task Force from 2019 to 2021, and from late 2021 to July 2022 as NGA's co-lead for UAP analysis and its task force representative, before going public on June 5, 2023.",
+"tier": 2
+},
+{
+"source": "https://www.archives.gov/records-mgmt/uap-guidance ; Pub. L. 118-31 sec. 1842(c)(1)",
+"text": "As a \"Government office\" the NRO was subject to the FY2024 NDAA requirement that each agency review, identify and organize its UAP records for transmission to the National Archives by October 20, 2024; no public accounting exists of what the NRO transmitted or postponed.",
+"tier": 1
+}
+],
+"connections": [
+"David Grusch was the NRO's representative to the UAP Task Force 2019-2021; his allegations of a concealed retrieval and reverse-engineering program originate from that detail.",
+"Structurally joint with CIA: the DCI/DNI sets collection requirements and jointly approves the NRP budget, while the Director reports to the Secretary of Defense — a two-key arrangement that lets each principal point at the other.",
+"The 1994 headquarters affair is the archetype for the FY2024 NDAA sec. 1687 problem: money hidden not by lying but by aggregation inside a base budget line.",
+"Senate Select Committee on Intelligence (Moynihan, Warner, DeConcini, Kerrey, Wallop) as the oversight body that admitted it had not looked.",
+"DCI James Woolsey and Deputy Secretary of Defense John Deutch as the officials who declassified the headquarters only under White House pressure, per FAS.",
+"NRO is a covered 'Government office' under P.L. 118-31 secs. 1841-1843 and therefore a custodian of record within the UAP Records Collection regime administered by NARA."
+],
+"denialPosture": "The NRO has issued no public statement on UAP, no denial and no confirmation, and has never been examined on the subject in open session. Its institutional posture is the one modeled by its own 1992 declassification memorandum: acknowledge the container and refuse everything inside it.",
+"narrative": "Everything about the NRO is instructive for a board that asks not whether but how. Start with the birth certificate: not a statute, not a public charter, but management arrangements agreed on 6 September 1961 between the Acting Director of Central Intelligence and the Deputy Secretary of Defense, consolidating Air Force, CIA and Navy overhead reconnaissance programs into a single compartmented office. For thirty-one years the fact of the office was itself classified. It hired, contracted, launched, and spent, and the American public and most of the Congress did not know the name.\n\nThe 18 September 1992 declassification is worth reading closely because it is a study in minimum viable disclosure. Deputy Secretary of Defense Donald Atwood announced, in Memorandum for Correspondents No. 264-M, that there is an NRO, that it is an agency of the Department of Defense, that it is funded through the National Reconnaissance Program, that its mission is spaceborne and airborne collection, and that the Director reports directly to the Secretary of Defense while the Director of Central Intelligence sets collection priorities and jointly approves the budget. It named three officials — Faga, Hill, March — and gave a Pentagon mailing address and a phone number. Then it ended: \"No other information relating to the National Reconnaissance Office was declassified.\" That is the entire architecture of managed disclosure in one sentence. Acknowledge the container; classify the contents.\n\nThe 1994 headquarters affair is the second lesson. On 8 August 1994 members of the Senate Select Committee on Intelligence held a press conference to disclose the existence of a secret $310 million headquarters complex under construction in Chantilly, Virginia, and to attack the intelligence community for not properly informing them of its size and cost. Two days later DCI James Woolsey produced a paper trail sufficient to argue there had been no deliberate concealment — but the paper trail was not the point. The point, as the Federation of American Scientists documented at the time, was that the project had been buried in the \"base\" part of the budget rather than broken out as a new initiative, and that base programs go essentially unscrutinized. The NRO's own headquarters project director, Roger Marsh, conceded in the agency's first open hearing: \"We have been negligent, clearly negligent, for not showing the budget breakout for this project.\" Senator Daniel Patrick Moynihan was blunter: \"This is an agency which has lied to Congress before. Egregiously.\" Senator John Warner put the resource asymmetry on the record — the NRO had twenty-five people working budget matters; the Senate committee had one. The NRO's own share of the intelligence budget at the time was roughly $6.5 billion.\n\nThe third lesson is the money itself. Reporting in 1995 and 1996 established that the NRO had accumulated a very large pool of unspent forward funding — figures reported in the range of $1 billion to $1.7 billion initially, and ultimately around $3.8 billion — without informing CIA, the Pentagon or Congress. NRO Director Jeffrey K. Harris departed in February 1996. The relevance to a legacy recovery program is direct and mechanical: an agency inside the classified budget can accumulate carryover at a scale that would fund an entire concealed enterprise, and the discovery of that carryover required a scandal, not oversight.\n\nThe fourth lesson is personnel. David Grusch served as the NRO's representative to the Unidentified Aerial Phenomena Task Force from 2019 to 2021, and afterward as the National Geospatial-Intelligence Agency's co-lead for UAP analysis and its task-force representative into July 2022. His allegations, published by Leslie Kean and Ralph Blumenthal in The Debrief on 5 June 2023 and repeated under oath before the House Oversight Committee on 26 July 2023, did not originate with a UFO enthusiast off the street. They originated with the officer the NRO sent to the interagency table. Whatever one concludes about the substance, the provenance runs through this agency.\n\nWhat the NRO has not done is speak to UAP at all. It has issued no denial, no confirmation, no historical review. It is not named in AARO's public historical reporting as a subject of interest. It has never been asked in open session what it holds. Under sections 1841-1843 of the FY2024 NDAA the NRO is a \"Government office\" like any other and was obliged to review, identify and organize its UAP records for transmission to the National Archives by 20 October 2024; there is no public accounting of what it transmitted or withheld, and under section 1843 the postponement decision rests with its own original classification authority.\n\nFor an analyst, the NRO is best understood not as a suspect but as a calibration instrument. It tells you the maximum duration of full concealment achievable in the modern American system (thirty-one years), the mechanism (base-budget aggregation inside a compartmented program), the failure mode (a construction project too physically large to hide), the discovery mechanism (press and scandal rather than committee), and the recovery posture (declassify the container, refuse the contents). Any hypothesis about a legacy recovery program that requires less institutional capability than the NRO demonstrably possessed is, on the face of it, feasible.",
+"openQuestions": [
+"What, if anything, the NRO transmitted to the National Archives under sections 1841-1843, and how many of its records it postponed under section 1843.",
+"Whether the NRO holds or has held any special access program with UAP equities, and whether any such program is waived under 10 U.S.C. 119(e).",
+"What Grusch saw or was told in his capacity as NRO representative to the UAP Task Force, as distinct from what he was later told by others.",
+"Whether the forward-funding practice uncovered in 1995-96 was unique to the NRO or characteristic of compartmented programs generally, and whether any comparable audit has been performed since.",
+"The identity and disposition of NRO programs historically misidentified in the UAP record — AARO has asserted misattribution of classified U.S. programs generally but has not published an NRO-specific accounting."
+],
+"roles": [
+"concealment",
+"funding",
+"oversight",
+"research"
+],
+"whatItIs": "The National Reconnaissance Office is the joint Department of Defense / Intelligence Community agency that designs, builds, launches and operates United States reconnaissance satellites. Management arrangements creating it and the National Reconnaissance Program were signed on 6 September 1961 by Acting DCI General Charles P. Cabell and Deputy Secretary of Defense Roswell L. Gilpatric. Its very existence was classified for thirty-one years and was declassified only on 18 September 1992.",
+"whyImplicated": "The NRO is the existence proof for the central premise of this board: that the United States can operate a multi-billion-dollar technical enterprise for three decades with no public existence, no line item Congress could disaggregate, and no acknowledged budget. When it was finally pried open in August 1994 it emerged that the Senate Select Committee on Intelligence did not know the NRO had built a one-million-square-foot, $310 million headquarters in Chantilly, Virginia, because the money sat in the \"base\" portion of the budget rather than as a new initiative. By 1996 the agency was found to be sitting on billions of dollars in forward funding that had not been reported to CIA, the Pentagon, or Congress. It is also the agency that produced David Grusch, who served as the NRO's representative to the Unidentified Aerial Phenomena Task Force from 2019 to 2021 and whose subsequent complaint alleged a concealed multi-decade recovery and reverse-engineering effort. Finally, the NRO's own 1992 declassification memorandum is a template artifact of the concealment posture: it declassified the fact of the agency and then closed with a single sentence refusing everything else."
+},
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [
+0
+],
+"requests": [
+{
+"agency": "NARA",
+"partial": [],
+"questions": [
+0
+],
+"request": "F1",
+"sendTo": "National Archives and Records Administration, FOIA Officer, Office of General Counsel, 8601 Adelphi Road, College Park MD 20740. Cross-file a copy with the National Declassification Center, which is the operational custodian of the collection.",
+"status": "not filed",
+"title": "NARA - the RG 615 compliance register"
+}
+]
+},
+"hl": null,
+"id": "nro",
+"l0": true,
+"label": "National Reconnaissance Office",
+"locLabel": null,
+"members": [
+{
+"cls": "person",
+"id": "betty-sapp",
+"label": "Betty J. Sapp",
+"tier": "C"
+},
+{
+"cls": "document",
+"id": "classified-programs-line",
+"label": "Line item 'CLASSIFIED PROGRAMS' / Program Element 9999999999",
+"tier": "A"
+},
+{
+"cls": "person",
+"id": "david-grusch",
+"label": "David Charles Grusch",
+"tier": "A"
+},
+{
+"cls": "institution",
+"id": "fas",
+"label": "Federation of American Scientists",
+"tier": "C"
+},
+{
+"cls": "document",
+"id": "gerb-nro-investigation",
+"label": "UAP Gerb - National Reconnaissance Office investigation",
+"tier": "B"
+},
+{
+"cls": "location",
+"id": "l-virginia",
+"label": "Charlottesville and the Commonwealth of Virginia",
+"tier": "C"
+},
+{
+"cls": "program",
+"id": "manned-orbiting-laboratory",
+"label": "Manned Orbiting Laboratory and the DORIAN / KH-10 reconnaissance payload",
+"tier": "B"
+},
+{
+"cls": "person",
+"id": "william-b-adkins",
+"label": "William B. Adkins",
+"tier": "C"
+}
+],
+"short": "National Reconnaissance Office",
+"sources": [
+{
+"date": "2026-08-11",
+"name": "Archived: ODNI, Preliminary Assessment: Unidentified Aerial Phenomena (Wayback 2026-08-11)",
+"url": "https://web.archive.org/web/20260811010946/https://archive.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf"
+},
+{
+"date": "2026-08-12",
+"name": "National Reconnaissance Office - About NRO",
+"url": "https://www.nro.gov/About-NRO/"
+},
+{
+"date": "2021-06-25",
+"name": "ODNI, Preliminary Assessment: Unidentified Aerial Phenomena",
+"url": "https://archive.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf"
+},
+{
+"date": "2023-07-26",
+"name": "House Oversight Committee hearing - UAP: Implications on National Security, Public Safety, and Government Transparency",
+"url": "https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/"
+}
+],
+"sub": "Overhead reconnaissance agency whose existence was itself classified for 31 years",
+"tier": "A",
+"tierRationale": "Re-graded A on a global pass (rank 108 of 1027, score 59). 12 connections, 2 of them custody/witness/funding/programmatic, 2 official denials recorded against it. Axes C2/A3/D2.",
+"timeline": [
+{
+"date": "1961-09-06",
+"id": "ag-tl-1961-nro",
+"label": "NRO established as a classified entity",
+"precision": "month",
+"strand": "coverup",
+"text": "The National Reconnaissance Office is created as a joint DoD-CIA activity under a classified directive. Its existence will be an official secret for the next 31 years - the working proof that concealment at agency scale is achievable.",
+"tier": "A"
+},
+{
+"date": "1992-09-18",
+"id": "ag-tl-1992-nro",
+"label": "NRO's existence declassified",
+"precision": "month",
+"strand": "oversight",
+"text": "After 31 years the Deputy Secretary of Defense authorises acknowledgement that the National Reconnaissance Office exists. The precedent cuts both ways: it proves concealment at scale is possible, and it proves it eventually ends.",
+"tier": "B"
+},
+{
+"date": "2023-07-26",
+"id": "ag-tl-2023-grusch",
+"label": "Grusch testifies as the NRO's former representative to the UAP Task Force",
+"precision": "day",
+"strand": "witness",
+"text": "The House Oversight Committee takes sworn testimony in 2154 Rayburn. Grusch's official witness title places the National Reconnaissance Office inside the chain of custody of the modern allegation.",
+"tier": "A"
+}
+]
+}

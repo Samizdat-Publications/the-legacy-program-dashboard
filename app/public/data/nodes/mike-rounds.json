@@ -1,0 +1,238 @@
+{
+"A": 2,
+"C": 0,
+"D": 3,
+"affiliations": [
+"U.S. Senate, South Dakota (2015- )",
+"Senate Armed Services Committee",
+"Senate Select Committee on Intelligence",
+"Governor of South Dakota (2003-2011)"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "2023-07-13",
+"event": "Original cosponsor of S.Amdt. 797",
+"precision": "day"
+},
+{
+"date": "2024-07-11",
+"event": "Submits S.Amdt. 2610 to S. 4638 with Schumer; full UAPDA text; ordered to lie on the table",
+"precision": "day"
+},
+{
+"date": "2026-06-16",
+"event": "Announces his FY2027 NDAA wins from the SASC markup; no UAP provision among them",
+"precision": "day"
+},
+{
+"date": "2026-06-25",
+"event": "Speaks at the 2026 Disclosure Symposium; states he is again cosponsoring the UAPDA as an NDAA amendment",
+"precision": "day"
+}
+],
+"claims": [
+{
+"source": "CREC-2023-07-13-pt1-PgS2953",
+"text": "First-listed cosponsor of S.Amdt. 797, the UAP Disclosure Act of 2023, submitted 13 July 2023.",
+"tier": 1
+},
+{
+"source": "Congressional Record, 11 July 2024, S4577 et seq. (GPO)",
+"text": "S.Amdt. 2610 to S. 4638, submitted 11 July 2024, is captioned 'Mr. ROUNDS (for himself and Mr. Schumer)' and contains the complete UAP Disclosure Act of 2024 including the eminent domain subsection; it was 'ordered to lie on the table.'",
+"tier": 1
+},
+{
+"source": "Sen. Mike Rounds, Weekly Round[s] Up, 22-28 June 2026, rounds.senate.gov",
+"text": "'On Thursday, I spoke at the 2026 Disclosure Symposium, where I discussed the future of the Unidentified Anomalous Phenomena (UAP) Disclosure Act. I am once again cosponsoring as an amendment to this year's National Defense Authorization Act.'",
+"tier": 2
+},
+{
+"source": "Rounds, quoted in Micah Hanks, The Debrief, 14 July 2023",
+"text": "'Providing a central collection location and reputable review board to maintain the records adds to the credibility of any future investigations.'",
+"tier": 2
+},
+{
+"source": "rounds.senate.gov press release, 16 June 2026; S. 4784 (Reported in Senate), GPO",
+"text": "Rounds's own June 2026 list of provisions he secured in the SASC-reported FY2027 NDAA contains no UAP item, and the reported bill S. 4784 contains no UAP provisions.",
+"tier": 1
+}
+],
+"cls": "person",
+"cluster": "other",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 2,
+"cls": "event",
+"dateEnd": "2026",
+"dateStart": "2026",
+"direction": "out",
+"edgeLabel": "Announces a fourth filing at an outside conference",
+"id": "disclosure-symposium-2026",
+"l0": false,
+"label": "2026 Disclosure Symposium",
+"note": "Nine days after SASC reported a bill with no UAP content, Rounds announced the next UAPDA attempt at the 2026 Disclosure Symposium rather than in committee.",
+"sources": [
+{
+"date": "2026-06-28",
+"name": "Sen. Rounds — Weekly Round[s] Up, June 22-28, 2026",
+"url": "https://www.rounds.senate.gov/newsroom/weekly-rounds/weekly-rounds-up-june-22-28-2026"
+},
+{
+"date": "2026-06-15",
+"name": "S. 4784 (Reported in Senate) — GPO",
+"url": "https://www.govinfo.gov/content/pkg/BILLS-119s4784rs/html/BILLS-119s4784rs.htm"
+}
+],
+"tier": "C",
+"type": "behavioral"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "2023",
+"dateStart": "2023",
+"direction": "out",
+"edgeLabel": "Original cosponsor, 13 July 2023",
+"id": "samdt-797",
+"l0": true,
+"label": "S.Amdt. 797 to S. 2226 (Schumer-Rounds UAP Disclosure Act amendment)",
+"note": "Rounds is listed as an original cosponsor with sponsorship date 13 July 2023.",
+"sources": [
+{
+"date": "2023-07-13",
+"name": "Congress.gov — S.Amdt. 797",
+"url": "https://www.congress.gov/amendment/118th-congress/senate-amendment/797"
+}
+],
+"tier": "B",
+"type": "legislative"
+},
+{
+"claimTier": 1,
+"cls": "legislation",
+"dateEnd": null,
+"dateStart": "2023-07-13",
+"direction": "out",
+"edgeLabel": "lead cosponsor",
+"id": "uapda-2023",
+"l0": true,
+"label": "UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)",
+"note": "First-listed cosponsor in the Congressional Record entry for SA 797.",
+"sources": [
+{
+"date": "2023-07-13",
+"name": "Congressional Record, 13 July 2023, Text of Senate Amendment 797 (CREC-2023-07-13-pt1-PgS2953)",
+"url": "https://www.govinfo.gov/content/pkg/CREC-2023-07-13/html/CREC-2023-07-13-pt1-PgS2953.htm"
+}
+],
+"tier": "A",
+"type": "programmatic"
+},
+{
+"claimTier": 1,
+"cls": "legislation",
+"dateEnd": "2024",
+"dateStart": "2024",
+"direction": "out",
+"edgeLabel": "Lead sponsor of the 2024 refiling",
+"id": "uapda-2024-samdt-2610",
+"l0": false,
+"label": "UAP Disclosure Act of 2024 (S.Amdt. 2610 to S. 4638)",
+"note": "S.Amdt. 2610 was submitted 11 July 2024 by 'Mr. ROUNDS (for himself and Mr. Schumer)' with the full text and the eminent domain clause intact.",
+"sources": [
+{
+"date": "2024-07-11",
+"name": "Congressional Record, 11 July 2024 — SA 2610",
+"url": "https://www.govinfo.gov/content/pkg/CREC-2024-07-11/html/CREC-2024-07-11-pt1-PgS4577.htm"
+},
+{
+"date": "2024-07-11",
+"name": "Congress.gov — S.Amdt. 2610",
+"url": "https://www.congress.gov/amendment/118th-congress/senate-amendment/2610"
+}
+],
+"tier": "B",
+"type": "legislative"
+}
+],
+"date": "2024-07-11",
+"dateEnd": null,
+"dateStart": "2024-07-11",
+"deg": 4,
+"denials": [],
+"domains": [
+"_rs-legislation",
+"congress-senate-legislation"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "mike-rounds",
+"instId": "us-senate",
+"l0": false,
+"label": "Mike Rounds",
+"loc": "Washington, DC",
+"locId": "l-dc",
+"members": null,
+"narrative": "Rounds is the Republican half of the UAPDA and, unlike Schumer, he has never stopped filing it. He was an original cosponsor of S.Amdt. 797 on 13 July 2023. When the provision was gutted in conference he took over as lead sponsor: on 11 July 2024 the full text, eminent domain clause intact, was submitted to the FY2025 NDAA as S.Amdt. 2610, captioned 'Mr. ROUNDS (for himself and Mr. Schumer),' and printed in the Congressional Record for that day. It was ordered to lie on the table and was never called up; the FY2025 NDAA, P.L. 118-159, signed 23 December 2024, contains no UAP disclosure division at all. Rounds sits on both the Armed Services and Intelligence Committees, the two panels that would have to be rolled to move this, and his position on the inside is what makes his persistence significant rather than symbolic. As of 2026 he is still at it: in his own newsletter for the week of 22-28 June 2026 he wrote, 'On Thursday, I spoke at the 2026 Disclosure Symposium, where I discussed the future of the Unidentified Anomalous Phenomena (UAP) Disclosure Act. I am once again cosponsoring as an amendment to this year's National Defense Authorization Act.' That FY2027 NDAA, S. 4784, was reported by the Armed Services Committee in June 2026 containing no UAP provisions of any kind, which means the vehicle Rounds is aiming at has again been built without a place for him.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Mike Rounds",
+"sources": [
+{
+"date": "2023-07-13",
+"name": "Congressional Record, 13 July 2023, Text of Senate Amendment 797 (CREC-2023-07-13-pt1-PgS2953)",
+"url": "https://www.govinfo.gov/content/pkg/CREC-2023-07-13/html/CREC-2023-07-13-pt1-PgS2953.htm"
+},
+{
+"date": "2024-07-11",
+"name": "Congressional Record, 11 July 2024 — text of S.Amdt. 2610",
+"url": "https://www.govinfo.gov/content/pkg/CREC-2024-07-11/html/CREC-2024-07-11-pt1-PgS4577.htm"
+},
+{
+"date": "2024-07-11",
+"name": "Congress.gov — S.Amdt. 2610 to S. 4638",
+"url": "https://www.congress.gov/amendment/118th-congress/senate-amendment/2610"
+},
+{
+"date": "2026-06-28",
+"name": "Sen. Rounds — Weekly Round[s] Up, June 22-28, 2026",
+"url": "https://www.rounds.senate.gov/newsroom/weekly-rounds/weekly-rounds-up-june-22-28-2026"
+},
+{
+"date": "2026-06-16",
+"name": "Sen. Rounds — FY2027 NDAA committee wins",
+"url": "https://www.rounds.senate.gov/newsroom/press-releases/rounds-secures-national-defense-victories-in-senate-armed-services-committees-fiscal-year-2027-ndaa"
+},
+{
+"date": "2026-06-15",
+"name": "S. 4784 (Reported in Senate), FY2027 NDAA — GPO",
+"url": "https://www.govinfo.gov/content/pkg/BILLS-119s4784rs/html/BILLS-119s4784rs.htm"
+}
+],
+"status": "active",
+"sub": "R-SD; SASC and SSCI; lead Republican on the UAPDA",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 400 of 1027, score 32). 4 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A2/D3.",
+"timeline": [
+{
+"date": "2026-06-16",
+"id": "cl-2026-06-16",
+"label": "Rounds's markup wins contain no UAP item",
+"precision": "day",
+"strand": "oversight",
+"text": "Rounds announces roughly forty provisions he secured in the FY2027 committee markup. None concerns unidentified anomalous phenomena.",
+"tier": "B"
+}
+],
+"unexplainedResidual": null,
+"unverified": []
+}

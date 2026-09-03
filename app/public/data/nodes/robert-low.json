@@ -1,0 +1,181 @@
+{
+"A": 1,
+"C": 0,
+"D": 0,
+"affiliations": [
+"University of Colorado, assistant dean of the graduate school",
+"Colorado UFO Project, project coordinator (1966-1968)"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "1966-08-09",
+"event": "Writes the internal memorandum to University of Colorado administrators",
+"precision": "day"
+},
+{
+"date": "1966-10-06",
+"event": "Colorado UFO Project formally established; Low becomes coordinator",
+"precision": "day"
+},
+{
+"date": "1967-08-01",
+"event": "Memo discovered in project files by Saunders and Levine",
+"precision": "year"
+},
+{
+"date": "1968-05-01",
+"event": "Memo published by John G. Fuller in Look magazine as 'Flying Saucer Fiasco'",
+"precision": "month"
+}
+],
+"claims": [
+{
+"source": "American Alchemy with Jesse Michels, 'Air Force Officer: A UFO Shut Down 10 Nukes in Seconds (ft. Bob Salas)', 12 July 2025, 0:38:48 and 0:42:21, https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL8813107798.mp3?updated=1752514599",
+"text": "On American Alchemy with Jesse Michels, 12 July 2025, at 0:38:48 and 0:42:21, Robert Salas said he holds a handwritten note by Low recording that Low had spoken to the Air Force colonel the caption renders as 'Hitler', and that the colonel said the Air Force thought EMP from nuclear testing caused the Malmstrom shutdowns and that the matter was probably too highly classified for the Colorado project to look at. Salas says twice 'I've got it in writing'. The note is not published and was not opened here.",
+"tier": 2
+},
+{
+"source": "Robert J. Low to Lt Col Robert Hippler, 27 January 1967, University of Colorado, page 2, https://www.nicap.org/docs/HipplerLetters.pdf",
+"text": "Low replied to Hippler on 27 January 1967, copying Condon: 'On the second page, you indicate what you believe the Air Force wants of us, and I am very glad to have your opinion.' He adds that Hippler has 'answered quite directly the question that I asked' and that he had come back to that question a couple of times at their meeting on Thursday evening, 12 January. The project coordinator who wrote the 9 August 1966 trick memo is on the record five months later asking the Air Force what it wanted and thanking it for the answer.",
+"tier": 1
+},
+{
+"source": "Robert J. Low, internal memorandum to University of Colorado administrators, 9 Aug 1966",
+"text": "Low wrote on 9 August 1966: 'The trick would be, I think, to describe the project so that, to the public, it would appear a totally objective study but, to the scientific community, would present the image of a group of nonbelievers.'",
+"tier": 1
+},
+{
+"source": "Low memorandum, 9 Aug 1966",
+"text": "The same memo states the study 'would be conducted almost entirely by nonbelievers' who 'could and probably would add an impressive body of thick evidence that there is no reality to the observations.'",
+"tier": 1
+},
+{
+"source": "John G. Fuller, 'Flying Saucer Fiasco', Look, May 1968",
+"text": "Publication of the memo in Look magazine in May 1968 characterised the project as a '$500,000 trick' and precipitated the firing of Saunders and Levine.",
+"tier": 2
+},
+{
+"source": "Condon Report, Volume 1, introductory account of the project's formation https://archive.org/details/DTIC_AD0680975",
+"text": "The Condon Report states verbatim: 'Assistant Dean Robert J. Low of the Graduate School was appointed project coordinator.' The same passage names Condon as scientific director and Stuart Cook and Franklin E. Roach as principal investigators, placing Low's role in the project's own account of its structure.",
+"tier": 1
+},
+{
+"source": "Condon Report, Volume 3, index https://archive.org/details/DTIC_AD0680977",
+"text": "The Condon Report's index carries the entry 'Low, Robert J., 915-917', with subheadings 'appointed to Colorado project, viii' and 'quoted on Fuller article, 915' — the report itself indexes the controversy over Low's role.",
+"tier": 1
+}
+],
+"cls": "person",
+"cluster": "research",
+"conflicts": [
+"The university maintained the memo reflected administrative caution about institutional reputation rather than research design"
+],
+"connections": [
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "1968",
+"dateStart": "1968",
+"direction": "in",
+"edgeLabel": "Condon fired the investigators who surfaced Low's memo",
+"id": "edward-condon",
+"l0": false,
+"label": "Edward U. Condon",
+"note": "David Saunders and Norman Levine found the memo in project files and it reached Look magazine in May 1968; both were dismissed.",
+"sources": [
+{
+"date": "1968-11-01",
+"name": "Scientific Study of Unidentified Flying Objects (Condon Report)",
+"url": "https://files.ncas.org/condon/"
+}
+],
+"tier": "B",
+"type": "behavioral"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "1966",
+"dateStart": "1966",
+"direction": "out",
+"edgeLabel": "Low wrote the memo two months before the contract was signed",
+"id": "low-memo",
+"l0": false,
+"label": "Low Memorandum (\"the trick would be...\")",
+"note": "Written 9 August 1966 to University of Colorado administrators, before the 6 October 1966 project formation — the design predates the data.",
+"sources": [
+{
+"date": "1968-11-01",
+"name": "Scientific Study of Unidentified Flying Objects (Condon Report)",
+"url": "https://files.ncas.org/condon/"
+}
+],
+"tier": "C",
+"type": "institutional"
+}
+],
+"date": "1966-08-09",
+"dateEnd": null,
+"dateStart": "1966-08-09",
+"deg": 2,
+"denials": [],
+"domains": [
+"history-1940s-1960s",
+"w16-thin-people"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "robert-low",
+"instId": "condon-committee",
+"l0": false,
+"label": "Robert J. Low",
+"loc": "Boulder, CO",
+"locId": "l-boulder-co",
+"members": null,
+"narrative": "Robert Low was assistant dean of the graduate school at the University of Colorado and became project coordinator of the UFO study. On 9 August 1966 — before the contract was signed — he wrote an internal memorandum to two university administrators laying out how to take the Air Force money without academic risk. The operative passage is the most self-incriminating document in the history of official UFO study: 'The trick would be, I think, to describe the project so that, to the public, it would appear a totally objective study but, to the scientific community, would present the image of a group of nonbelievers.' The memo was found in project files by investigators David Saunders and Norman Levine, passed to James McDonald and then to John Fuller, and published in Look magazine in May 1968 under the headline 'Flying Saucer Fiasco.' Saunders and Levine were fired. The Low memo does not prove the Colorado study reached a predetermined result; it proves the study's coordinator designed it to look like one thing to the public and another to the scientific community, which is the definition of a managed outcome.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Robert J. Low",
+"sources": [
+{
+"date": "2025-07-12",
+"name": "American Alchemy with Jesse Michels, 'Air Force Officer: A UFO Shut Down 10 Nukes in Seconds (ft. Bob Salas)' (episode audio)",
+"url": "https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL8813107798.mp3?updated=1752514599"
+},
+{
+"date": "1967-01-27",
+"name": "Hippler to Condon, 16 January 1967, with Low to Hippler, 27 January 1967 (NICAP document archive scan)",
+"url": "https://www.nicap.org/docs/HipplerLetters.pdf"
+},
+{
+"date": "1968-11-01",
+"name": "Scientific Study of Unidentified Flying Objects (the Condon Report), full text",
+"url": "https://files.ncas.org/condon/"
+},
+{
+"date": "2026-08-25",
+"name": "Edward U. Condon (dir.), 'Scientific Study of Unidentified Flying Objects' (the Condon Report), Volume 1, University of Colorado for USAF/AFOSR, 1968 — DTIC AD0680975",
+"url": "https://archive.org/details/DTIC_AD0680975"
+},
+{
+"date": "2026-08-25",
+"name": "Condon Report, Volume 3 (index) — DTIC AD0680977",
+"url": "https://archive.org/details/DTIC_AD0680977"
+}
+],
+"status": "dead",
+"sub": "Project coordinator, Colorado UFO Project",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 636 of 1027, score 24). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D0.",
+"timeline": [],
+"unexplainedResidual": null,
+"unverified": []
+}

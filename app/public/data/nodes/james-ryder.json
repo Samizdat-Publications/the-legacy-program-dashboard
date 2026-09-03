@@ -1,0 +1,116 @@
+{
+"A": 2,
+"C": 2,
+"D": 0,
+"affiliations": [
+"Lockheed Martin Corporation"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "2025-09-09",
+"event": "Named by George Knapp in sworn testimony before the House Oversight Task Force on the Declassification of Federal Secrets",
+"precision": "day"
+}
+],
+"claims": [
+{
+"source": "George Knapp, sworn testimony, CHRG-119hhrg61718, 9 September 2025",
+"text": "'Well, one of them was named Dr. James Ryder at Lockheed.' - response to a request to name specific gatekeepers of the alleged UAP special access program network.",
+"tier": 2
+}
+],
+"cls": "person",
+"cluster": "contractor",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2025",
+"dateStart": "2025",
+"direction": "in",
+"edgeLabel": "Knapp named Ryder to Congress as a program gatekeeper at Lockheed",
+"id": "george-knapp",
+"l0": false,
+"label": "George Knapp",
+"note": "Asked by Rep. Nick Begich to name specific gatekeepers, Knapp answered 'Well, one of them was named Dr. James Ryder at Lockheed.' This is the only naming of a private individual inside a prime contractor in any congressional UAP record.",
+"sources": [
+{
+"date": "2025-09-09",
+"name": "House Oversight Task Force on the Declassification of Federal Secrets hearing transcript, 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection' (CHRG-119hhrg61718, Serial No. 119-44)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm"
+}
+],
+"tier": "A",
+"type": "witness-chain"
+},
+{
+"claimTier": 2,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2025",
+"direction": "out",
+"edgeLabel": "Ryder is identified in sworn testimony as a Lockheed Martin figure",
+"id": "lockheed-martin",
+"l0": true,
+"label": "Lockheed Martin Corporation",
+"note": "The only public source for the association is Knapp's sworn testimony; no corporate record confirming Ryder's role, dates or portfolio has been located, and neither Ryder nor Lockheed Martin has publicly responded.",
+"sources": [
+{
+"date": "2025-09-09",
+"name": "House Oversight Task Force on the Declassification of Federal Secrets hearing transcript, 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection' (CHRG-119hhrg61718, Serial No. 119-44)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm"
+}
+],
+"tier": "A",
+"type": "institutional"
+}
+],
+"date": "2025-09-09",
+"dateEnd": null,
+"dateStart": "2025-09-09",
+"deg": 2,
+"denials": [],
+"domains": [
+"primes-custody"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "james-ryder",
+"instId": "lockheed-martin",
+"l0": false,
+"label": "Dr. James Ryder",
+"loc": "Palo Alto, CA",
+"locId": "l-plant-42",
+"members": null,
+"narrative": "Ryder exists on this board for one reason: on 9 September 2025 Rep. Nick Begich asked George Knapp to name specific gatekeepers 'within the root cell of the UAP SAP federation,' and Knapp answered, under oath, 'Well, one of them was named Dr. James Ryder at Lockheed.' That single sentence is the only time a private individual inside a prime contractor has been named to a congressional committee as a custodian of the alleged program. Knapp immediately qualified it - 'I do not fault these contractors for doing what they were asked to do by our government. They are supposed to lie if people ask about it' - and attributed the original tasking to the intelligence agencies, CIA primarily. The board records the naming precisely because it is on the record and because it is testable: Lockheed Martin's research organisation is a matter of public corporate record, and a Congress that wanted to resolve this could resolve it with a letter. What the board does not do is assert anything about Ryder beyond the fact of the naming. There is no released document, contract, complaint or corporate statement connecting him to recovered material, and no response from him or from Lockheed Martin has been published. This entry is a placeholder for an investigative thread, not a finding.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Dr. James Ryder",
+"sources": [
+{
+"date": "2025-09-09",
+"name": "House Oversight Task Force on the Declassification of Federal Secrets hearing transcript, 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection' (CHRG-119hhrg61718, Serial No. 119-44)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm"
+}
+],
+"status": "active",
+"sub": "Lockheed Martin executive named in sworn congressional testimony as a program gatekeeper",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 723 of 1027, score 21). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A2/D0.",
+"timeline": [],
+"unexplainedResidual": null,
+"unverified": [
+"Ryder's position, dates and portfolio at Lockheed Martin.",
+"Any response by Ryder or by Lockheed Martin to the naming.",
+"Any documentary link between Ryder and recovered material."
+]
+}

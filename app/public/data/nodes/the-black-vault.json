@@ -1,0 +1,181 @@
+{
+"A": 0,
+"C": 0,
+"D": 3,
+"band": null,
+"claims": [
+{
+"source": "The Black Vault document archive and case files",
+"text": "Obtained and published OSD/JS FOIA case 18-F-0324, the DD Form 1910 release, the OUSD(I) messaging emails, and the CCDC FOIA denial regarding the TTSA CRADA correspondence.",
+"tier": 1
+}
+],
+"cls": "institution",
+"cluster": "media",
+"connections": [
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": "2023",
+"dateStart": "2013",
+"direction": "in",
+"edgeLabel": "Both refusals on this designation are public only because of The Black Vault",
+"id": "defense-support-program",
+"l0": false,
+"label": "Defense Support Program (DSP) missile early warning satellites",
+"note": "Both refusals on this designation, 2013 and 2023, were extracted by The Black Vault and are public only because of it.",
+"sources": [
+{
+"date": "2013-12-06",
+"name": "USNORTHCOM FOIA response letter, case FY14-19NOV2013-07",
+"url": "https://documents.theblackvault.com/documents/ufos/fastwalkers/FY14-19NOV2013-07.pdf"
+},
+{
+"date": "2023-12-22",
+"name": "Space Force Says Documents on Fastwalkers and Slowwalkers All Exempt from Disclosure, The Black Vault",
+"url": "https://www.theblackvault.com/documentarchive/space-force-says-documents-on-fastwalkers-and-slowwalkers-all-exempt-from-disclosure/"
+}
+],
+"tier": "B",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "1996",
+"direction": "in",
+"edgeLabel": "Founder and operator of the archive that produced the primary record",
+"id": "john-greenewald",
+"l0": false,
+"label": "John Greenewald Jr.",
+"note": "Nearly every document in this domain arrived through his requests.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "The Black Vault case file",
+"url": "https://www.theblackvault.com/casefiles/to-the-stars-academy-of-arts-science-tom-delonge-and-the-secret-dod-ufo-research-program/"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "location",
+"dateEnd": null,
+"dateStart": "1996",
+"direction": "out",
+"edgeLabel": "The Black Vault runs the private FOIA archive from Los Angeles",
+"id": "l-la",
+"l0": false,
+"label": "Los Angeles and Burbank, California",
+"note": "John Greenewald Jr.'s requests produced the GVSC/TTSA correspondence denial and much of the released AARO record.",
+"sources": [
+{
+"date": "2019-10-18",
+"name": "The Black Vault - Army/TTSA CRADA and FOIA records",
+"url": "https://www.theblackvault.com/documentarchive/u-s-army-releases-crada-with-to-the-stars-academy-of-arts-science/"
+},
+{
+"date": "2026-08-25",
+"name": "CRADA between CCDC Ground Vehicle Systems Center and To The Stars Academy, CRADA No. 19-15 (released PDF)",
+"url": "https://documents2.theblackvault.com/documents/army/TTSA-ARMY-CRADA.pdf"
+}
+],
+"tier": "B",
+"type": "investigative"
+},
+{
+"claimTier": 2,
+"cls": "program",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "The American reporter's Prato dossier sits in Greenewald's archive",
+"id": "operacao-prato",
+"l0": true,
+"label": "Operação Prato (Operation Saucer)",
+"note": "A file titled 'Operação Prato', written by the US journalist Bob Pratt, is served publicly in the MUFON/Pratt document set at documents.theblackvault.com. It opens: 'Operação Prato, a Brazilian Air Force investigation of a prolonged UFO flap in 1977-78'. It names Captain Uyrangê Hollanda and his six sergeants, names Brigadier Protázio Lopes de Oliveira as the Belém base commander who shut the operation down after four months, and describes the interviews of hundreds of witnesses in Colares and about thirty other villages. This is the concrete answer to whether Prato material reached US hands: it did, through a working reporter, and it is now in the same FOIA archive that carries the Elizondo and Grusch-era US paper.",
+"sources": [
+{
+"date": null,
+"name": "Bob Pratt, 'Operação Prato', MUFON/Pratt document set hosted by The Black Vault — https://documents.theblackvault.com/documents/MUFON/Pratt/prato.pdf",
+"url": ""
+},
+{
+"date": "2026-01-01",
+"name": "Operação Prato - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Prato"
+}
+],
+"tier": "A",
+"type": "custody"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "1979-02",
+"direction": "in",
+"edgeLabel": "Hollanda's account to an American reporter is preserved in the Pratt file",
+"id": "uyrange-hollanda",
+"l0": false,
+"label": "Capitão Uyrangê Bolívar Soares Nogueira de Hollanda Lima",
+"note": "Basterfield records that Pratt 'visited Colares for the first time in February 1979, then twice after that. He interviewed Captain Uyrange Hollanda, who had led the official investigation in the Colares region. Pratt was later able to secure brief summaries of 281 incidents in Colares and surrounding areas, plus maps, and twenty photographs.' Hollanda told him his team 'took about three hundred photos and we photographed eight different types of UFOs.' Tier 2: the interview and the 281 summaries are reported by a named researcher quoting Pratt's 1996 book, and the Pratt file at The Black Vault is the surviving public artefact of that chain.",
+"sources": [
+{
+"date": null,
+"name": "Keith Basterfield, 'Investigative adventures in Brazil', Unidentified Anomalous Phenomena – scientific research, 22 July 2024, with update of 16 February 2025 — https://ufos-scientificresearch.blogspot.com/2024/07/investigative-adventures-in-brazil.html",
+"url": ""
+},
+{
+"date": null,
+"name": "Bob Pratt, 'Operação Prato', MUFON/Pratt document set hosted by The Black Vault — https://documents.theblackvault.com/documents/MUFON/Pratt/prato.pdf",
+"url": ""
+},
+{
+"date": "2026-01-01",
+"name": "Operação Prato - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Prato"
+}
+],
+"tier": "B",
+"type": "witness-chain"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "1996",
+"deg": 5,
+"denials": [],
+"desc": "The Black Vault is the private FOIA archive through which the overwhelming majority of primary documents in this domain reached the public: the Elizondo resignation letters, the Garry Reid memoranda, the DD Form 1910, the Neill Tipton messaging emails, the Elizondo-Gough correspondence, the Army's denial of the TTSA CRADA correspondence, and the DoD Inspector General files. It is not aligned with the disclosure movement's conclusions and has publicly contested several of them, which is what gives its releases their evidentiary force — these are documents extracted by an adversarial requester, not supplied by an interested party.",
+"domains": [
+"elizondo-ttsa"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "1",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "the-black-vault",
+"l0": false,
+"label": "The Black Vault",
+"locLabel": null,
+"members": null,
+"short": "The Black Vault",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "The Black Vault — AATIP, Tom DeLonge, Luis Elizondo and the Claims of To The Stars Academy (case file)",
+"url": "https://www.theblackvault.com/casefiles/to-the-stars-academy-of-arts-science-tom-delonge-and-the-secret-dod-ufo-research-program/"
+}
+],
+"sub": "FOIA document archive founded by John Greenewald Jr., 1996",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 757 of 1027, score 20). 5 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A0/D3.",
+"timeline": []
+}

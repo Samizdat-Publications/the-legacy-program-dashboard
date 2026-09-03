@@ -1,0 +1,87 @@
+{
+"A": 1,
+"C": 1,
+"D": 3,
+"band": null,
+"claims": [
+{
+"source": "The Hill/NewsNation, 29 June 2026",
+"text": "Held 25 June 2026, sponsored by the Disclosure Foundation, billed as a first-of-its-kind gathering of lawmakers, UAP researchers and whistleblowers.",
+"tier": 2
+},
+{
+"source": "The Hill/NewsNation, 29 June 2026",
+"text": "Rep. Burlison announced at the forum that MIT Lincoln Laboratory had agreed to make available a 1952 UFO briefing recording.",
+"tier": 2
+}
+],
+"cls": "event",
+"cluster": "oversight",
+"connections": [
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2026",
+"dateStart": "2026",
+"direction": "in",
+"edgeLabel": "Announced the Lincoln Laboratory production at the forum",
+"id": "eric-burlison",
+"l0": false,
+"label": "Eric Burlison",
+"note": "Jordan Flowers credited Burlison with shaking the artifact loose: 'He's stopped asking politely.'",
+"sources": [
+{
+"date": "2026-06-29",
+"name": "The Hill: 'Invasion of Washington' UFO tape may surface as lawmakers push release",
+"url": "https://thehill.com/homenews/5944717-ufo-washington-invasion-evidence/"
+}
+],
+"tier": "A",
+"type": "behavioral"
+}
+],
+"coords": null,
+"dateEnd": "2026",
+"dateStart": "2026",
+"deg": 1,
+"denials": [],
+"desc": "Billed as the first gathering of its kind bringing lawmakers, UAP researchers and whistleblowers together in Washington, sponsored by the Disclosure Foundation and held on 25 June 2026. Its concrete output was Eric Burlison's announcement that MIT Lincoln Laboratory had agreed to make available a 1952 recording relating to the Washington, D.C. sightings. Disclosure Foundation executive director Jordan Flowers used the occasion to describe the change in method: 'The gloves are coming off, in terms of pushing for transparency, and knowing where these things are and pulling them out of the right structures.' The forum matters to this domain because it marks the point at which the House effort stopped being organised around hearings - which require witnesses willing to be exposed - and started being organised around records demands aimed at named institutions, which do not.",
+"domains": [
+"congress-house"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "uap-disclosure-forum-2026",
+"l0": false,
+"label": "Disclosure Forum 2026",
+"locLabel": null,
+"members": null,
+"short": "Disclosure Forum 2026",
+"sources": [
+{
+"date": "2026-06-29",
+"name": "The Hill: 'Invasion of Washington' UFO tape may surface as lawmakers push release",
+"url": "https://thehill.com/homenews/5944717-ufo-washington-invasion-evidence/"
+}
+],
+"sub": "Washington, DC, 25 June 2026; Disclosure Foundation",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 808 of 1027, score 18). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D3.",
+"timeline": [
+{
+"date": "2026-06-25",
+"id": "ch-2026-06-25",
+"label": "Disclosure Forum 2026",
+"precision": "day",
+"strand": "oversight",
+"text": "Burlison announces at the first Disclosure Forum that MIT Lincoln Laboratory has agreed to make the 1952 Washington sightings recording available.",
+"tier": "B"
+}
+]
+}

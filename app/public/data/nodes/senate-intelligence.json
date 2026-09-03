@@ -1,0 +1,176 @@
+{
+"A": 3,
+"C": 2,
+"D": 2,
+"band": null,
+"claims": [
+{
+"source": "P.L. 117-263; S. 2226 as engrossed Division M; P.L. 118-31; P.L. 118-159, GPO",
+"text": "The Intelligence Authorization Act for FY2023 (Secs. 6802, 6803), FY2024 (Sec. 1102 Senate / Sec. 7343 enacted) and FY2025 (Secs. 6801, 6802) all carried UAP provisions.",
+"tier": 1
+},
+{
+"source": "Full-text search of P.L. 119-60 Division F, GPO",
+"text": "The Intelligence Authorization Act for FY2026, Division F of P.L. 119-60, contains no UAP provisions.",
+"tier": 1
+},
+{
+"source": "Congressional Record, 13 July 2023 (SA 666 and SA 797), GPO",
+"text": "SSCI Chairman Warner authored the contractor turn-in and Vice Chairman Rubio cosponsored the eminent domain amendment, both filed 13 July 2023.",
+"tier": 1
+}
+],
+"cls": "institution",
+"cluster": "ic",
+"connections": [
+{
+"claimTier": 2,
+"cls": "institution",
+"dateEnd": "1976",
+"dateStart": "1976",
+"direction": "in",
+"edgeLabel": "Recommended the permanent oversight committee that followed it",
+"id": "church-committee",
+"l0": true,
+"label": "Senate Select Committee to Study Governmental Operations with Respect to Intelligence Activities (Church Committee)",
+"note": "Book I says 'a strong and effective oversight committee is an essential first step' and refers throughout to 'any successor oversight committee'; the establishing resolution for the Senate Select Committee on Intelligence was not opened for this pass, so the succession itself is graded Tier 2.",
+"sources": [
+{
+"date": "1976-04-26",
+"name": "S. Rept. 94-755, Book I, Foreign and Military Intelligence",
+"url": "https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-94755-i.pdf"
+}
+],
+"tier": "B",
+"type": "legislative"
+},
+{
+"claimTier": 1,
+"cls": "legislation",
+"dateEnd": "2023",
+"dateStart": "2023",
+"direction": "out",
+"edgeLabel": "SSCI produced the contractor turn-in language",
+"id": "iaa-fy2024-sec-1102",
+"l0": true,
+"label": "IAA FY2024 Sec. 1102 — contractor turn-in of 'non-earth origin or exotic' UAP material",
+"note": "Sec. 1102 rode in the Intelligence Authorization Act for FY2024, Division M of the engrossed Senate bill.",
+"sources": [
+{
+"date": "2023-07-27",
+"name": "S. 2226 (Engrossed in Senate) — GPO",
+"url": "https://www.govinfo.gov/content/pkg/BILLS-118s2226es/html/BILLS-118s2226es.htm"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "2025",
+"dateStart": "2021",
+"direction": "in",
+"edgeLabel": "Vice Chairman 2021-2025",
+"id": "marco-rubio",
+"l0": false,
+"label": "Marco Rubio",
+"note": "Rubio's Gang of Eight access is what makes his cosponsorship of the eminent domain text evidentially significant.",
+"sources": [
+{
+"date": "2023-07-13",
+"name": "Congress.gov — S.Amdt. 797",
+"url": "https://www.congress.gov/amendment/118th-congress/senate-amendment/797"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "2025",
+"dateStart": "2021",
+"direction": "in",
+"edgeLabel": "Chairman 2021-2025",
+"id": "mark-warner",
+"l0": false,
+"label": "Mark R. Warner",
+"note": "Warner chaired SSCI when it produced the contractor turn-in and the Historical Record Report requirement.",
+"sources": [
+{
+"date": "2022-12-23",
+"name": "P.L. 117-263 — GPO",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-117publ263/html/PLAW-117publ263.htm"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "1976",
+"direction": "in",
+"edgeLabel": "Committee of jurisdiction for intelligence community programs",
+"id": "us-senate",
+"l0": false,
+"label": "United States Senate",
+"note": "SSCI's report language accompanying the FY2021 Intelligence Authorization Act produced the June 2021 ODNI Preliminary Assessment.",
+"sources": [
+{
+"date": "2021-06-25",
+"name": "ODNI, Preliminary Assessment: Unidentified Aerial Phenomena",
+"url": "https://archive.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf"
+}
+],
+"tier": "C",
+"type": "institutional"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "1976",
+"deg": 5,
+"denials": [],
+"desc": "SSCI is where the sharpest UAP language originates and where it dies. Its annual Intelligence Authorization Act has carried, in successive years: Sec. 6802 of the FY2023 IAA restating AARO into existence and demanding the Historical Record Report; Sec. 6803 putting GAO auditors on that report; Sec. 1102 of the FY2024 IAA ordering contractors to surrender a list of non-earth origin material with immunity; Sec. 7343, the enacted remnant of that; and Secs. 6801-6802 of the FY2025 IAA. Its leadership through the critical period — Chairman Warner and Vice Chairman Rubio — wrote or cosponsored every major UAP instrument of 2023, with Warner authoring the contractor turn-in and Rubio cosponsoring the eminent domain text. That combination of committee access and legislative aggression is the strongest single piece of circumstantial evidence on this board: the two members entitled to the most complete intelligence briefings in the Senate both moved, in the same month, to compel production of physical material from private hands. Rubio left the Senate in January 2025 and Warner moved to Vice Chairman; the FY2026 Intelligence Authorization Act, riding in Division F of P.L. 119-60, contains no UAP provisions at all.",
+"domains": [
+"congress-senate-legislation"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "1",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "senate-intelligence",
+"l0": false,
+"label": "Senate Select Committee on Intelligence",
+"locLabel": null,
+"members": null,
+"short": "Senate Select Committee on Intelligence",
+"sources": [
+{
+"date": "2022-12-23",
+"name": "P.L. 117-263, IAA FY2023 — GPO",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-117publ263/html/PLAW-117publ263.htm"
+},
+{
+"date": "2023-07-27",
+"name": "S. 2226 (Engrossed in Senate), Division M — GPO",
+"url": "https://www.govinfo.gov/content/pkg/BILLS-118s2226es/html/BILLS-118s2226es.htm"
+},
+{
+"date": "2025-12-18",
+"name": "P.L. 119-60 — GPO",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-119publ60/html/PLAW-119publ60.htm"
+}
+],
+"sub": "SSCI; author of the IAA UAP provisions",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 336 of 1027, score 35). 5 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A3/D2.",
+"timeline": []
+}

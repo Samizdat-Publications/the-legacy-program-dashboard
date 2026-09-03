@@ -1,0 +1,133 @@
+{
+"A": 2,
+"C": 1,
+"D": 0,
+"affiliations": [
+"U.S. Army Combat Capabilities Development Command, Ground Vehicle Systems Center, Director"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "2019-10-10",
+"event": "Signs the CRADA with To The Stars Academy on behalf of the U.S. Army GVSC.",
+"precision": "day"
+}
+],
+"claims": [
+{
+"source": "CRADA document released by U.S. Army CCDC, reported by The War Zone, 18 October 2019",
+"text": "Signed the TTSA CRADA on 10 October 2019 as Director of the Army Ground Vehicle Systems Center.",
+"tier": 1
+},
+{
+"source": "U.S. Army, 17 January 2021 https://www.army.mil/article/242480/langhout_returns_to_helm_aviation_missile_center",
+"text": "The Army's own announcement records that Langhout 'served in a variety of leadership roles at AvMC from April 2013 to October 2018, when he became the director of the DEVCOM Ground Vehicle Systems Center in Warren, Michigan' (the article prints his surname as 'Langout' at that point), and that he 'assumed the duties of DEVCOM Aviation & Missile Center director Jan. 17' 2021.",
+"tier": 1
+},
+{
+"source": "U.S. Army, 17 January 2021 https://www.army.mil/article/242480/langhout_returns_to_helm_aviation_missile_center ; CRADA itself per the existing twz.com citation",
+"text": "His AvMC leadership from April 2013 spans the October 2017 CRADA with To The Stars Academy, which the board records him signing for the Army. The Army article does not mention the CRADA; it establishes only that he held leadership roles there across that period.",
+"tier": 2
+}
+],
+"cls": "person",
+"cluster": "other",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 1,
+"cls": "location",
+"dateEnd": "2019-10-10",
+"dateStart": "2019-10-10",
+"direction": "out",
+"edgeLabel": "Langhout signed as GVSC Director",
+"id": "l-detroit-arsenal",
+"l0": false,
+"label": "Detroit Arsenal, Warren, Michigan",
+"note": "The signature block is the documentary anchor: an executed federal instrument, not a press release.",
+"sources": [
+{
+"date": "2019-10-18",
+"name": "The Black Vault - Army/TTSA CRADA and FOIA records",
+"url": "https://www.theblackvault.com/documentarchive/u-s-army-releases-crada-with-to-the-stars-academy-of-arts-science/"
+},
+{
+"date": "2026-08-25",
+"name": "CRADA between CCDC Ground Vehicle Systems Center and To The Stars Academy, CRADA No. 19-15 (released PDF)",
+"url": "https://documents2.theblackvault.com/documents/army/TTSA-ARMY-CRADA.pdf"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "2019",
+"dateStart": "2019",
+"direction": "out",
+"edgeLabel": "Signed for the United States Army, 10 October 2019",
+"id": "ttsa-army-crada",
+"l0": true,
+"label": "CRADA between U.S. Army Ground Vehicle Systems Center and To The Stars Academy",
+"note": "The federal signature block is what makes the agreement citable as a government act.",
+"sources": [
+{
+"date": "2019-10-18",
+"name": "The War Zone",
+"url": "https://www.twz.com/30498/the-army-wants-to-verify-to-the-stars-academys-fantastic-ufo-mystery-material-claims"
+}
+],
+"tier": "A",
+"type": "institutional"
+}
+],
+"date": "2019-10-10",
+"dateEnd": null,
+"dateStart": "2019-10-10",
+"deg": 2,
+"denials": [],
+"domains": [
+"elizondo-ttsa",
+"w16-thin-people"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "jeffery-langhout",
+"instId": "ccdc-gvsc",
+"l0": false,
+"label": "Jeffery Langhout",
+"loc": "Warren, MI",
+"locId": "l-detroit-arsenal",
+"members": null,
+"narrative": "Langhout signed the CRADA for the United States Army. As Director of the Ground Vehicle Systems Center he is the federal official whose signature, dated 10 October 2019, put the Army's name to an agreement whose stated research scope includes inertial mass reduction, electromagnetic metamaterial waveguides, beamed energy propulsion, active camouflage and directed photon projection. Whatever the Army's public framing, the signature block is the documentary anchor: this was a real, executed federal instrument, not a press release.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Jeffery Langhout",
+"sources": [
+{
+"date": "2019-10-18",
+"name": "The War Zone — The Army Wants To Verify To The Stars Academy's Fantastic UFO Mystery Material Claims",
+"url": "https://www.twz.com/30498/the-army-wants-to-verify-to-the-stars-academys-fantastic-ufo-mystery-material-claims"
+},
+{
+"date": "2026-08-25",
+"name": "U.S. Army, 'Langhout returns to helm Aviation, Missile Center', 17 January 2021",
+"url": "https://www.army.mil/article/242480/langhout_returns_to_helm_aviation_missile_center"
+}
+],
+"status": "former",
+"sub": "Director, U.S. Army Ground Vehicle Systems Center; CRADA signatory",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 747 of 1027, score 20). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D0.",
+"timeline": [],
+"unexplainedResidual": null,
+"unverified": []
+}

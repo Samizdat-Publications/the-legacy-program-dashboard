@@ -1,0 +1,314 @@
+{
+"A": 1,
+"C": 2,
+"D": 3,
+"band": "oversight",
+"claims": [
+{
+"source": "S. Rept. 94-755, Book I, title page and Part I section A, https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-94755-i.pdf",
+"text": "'On January 27, 1975, Senate Resolution 21 established a select committee \"to conduct an investigation and study of governmental operations with respect to intelligence activities and of the extent, if any, to which illegal, improper, or unethical activities were engaged in by any agency of the Federal Government.\"' Book I of the final report, Senate Report 94-755, was filed on 'APRIL 26 (legislative day, APRIL 14), 1976'.",
+"tier": 1
+},
+{
+"source": "S. Rept. 94-755, Book I, Part I section C, 'The Focus and Scope of the Committee's Inquiry and Obstacles Encountered', https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-94755-i.pdf",
+"text": "The committee's own account of the obstacles it met: 'Despite its legal Senate mandate, and the issuance of subpoenas, in no instance has the Committee been able to examine the agencies' files on its own. In all the agencies, whether CIA, FBI, NSA, INR, DIA, or the NSC, documents and evidence have been presented through the filter of the agency itself.' It adds that 'the Central Intelligence Agency and other agencies of the executive branch have limited the Committee's access to the full record.'",
+"tier": 1
+},
+{
+"source": "S. Rept. 94-755, Book I, NOTE following the Letter of Transmittal, https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-94755-i.pdf",
+"text": "The report's own publication note records that it 'has been reviewed and declassified by the appropriate executive agencies' and that 'At the request of the agencies, the Committee deleted three chapters from this report: \"Cover,\" \"Espionage,\" and \"Budgetary Oversight.\"' Two sections of the covert-action chapter and one section of the State Department chapter were also deleted at agency request.",
+"tier": 1
+},
+{
+"source": "S. Rept. 94-755, Book I, committee page and Part I section C, https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-94755-i.pdf",
+"text": "The committee was chaired by Frank Church of Idaho with John G. Tower of Texas as Vice Chairman, and had eleven members, six from the majority and five from the minority. 'The Committee staff of 100, including 60 professionals, has assisted the 11 members of the Committee in this indepth inquiry which involved more than 800 interviews, over 250 executive hearings, and documentation in excess of 110,000 pages.'",
+"tier": 1
+},
+{
+"source": "S. Rept. 94-755, Book I, Findings and Recommendations, https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-94755-i.pdf",
+"text": "Among its findings: 'The Committee finds that Congress has failed to provide the necessary statutory guidelines to ensure that intelligence agencies carry out their missions in accord with constitutional processes. Mechanisms for, and the practice of, congressional oversight have not been adequate.' And on money: 'Congress' failure as a whole to monitor the intelligence agencies' expenditures has been a major element in the ineffective legislative oversight of the intelligence community.'",
+"tier": 1
+},
+{
+"source": "michels-corpus-02.md file 02 at 13;52 and 14;51 (Shellenberger); michels-corpus-05.md file 04 at 18;41 (West)",
+"text": "Two Michels-corpus speakers who agree on very little else, Michael Shellenberger and Mick West, each name the Church Committee as the model for what oversight of a compartmented programme should look like. The committee's own report describes an inquiry whose every document arrived through the filter of the agency that held it.",
+"tier": 2
+}
+],
+"cls": "institution",
+"cluster": "oversight",
+"connections": [
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "1976",
+"dateStart": "1975",
+"direction": "out",
+"edgeLabel": "Named by the committee as having limited its access to the full record",
+"id": "cia",
+"l0": true,
+"label": "Central Intelligence Agency",
+"note": "The report says 'the Central Intelligence Agency and other agencies of the executive branch have limited the Committee's access to the full record', in some instances by assertion of executive privilege.",
+"sources": [
+{
+"date": "1976-04-26",
+"name": "S. Rept. 94-755, Book I, Foreign and Military Intelligence",
+"url": "https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-94755-i.pdf"
+}
+],
+"tier": "A",
+"type": "denial"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "1976",
+"dateStart": "1976",
+"direction": "out",
+"edgeLabel": "Recommended annual publication of the aggregate national intelligence figure, and lost its own budget chapter",
+"id": "intel-budget-disclosure-record",
+"l0": false,
+"label": "The intelligence budget disclosure record, FY1997-FY2026",
+"note": "The committee recommended publication of the aggregate figure while the chapter titled 'Budgetary Oversight' was deleted from the published report at the agencies' request.",
+"sources": [
+{
+"date": "1976-04-26",
+"name": "S. Rept. 94-755, Book I, Foreign and Military Intelligence",
+"url": "https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-94755-i.pdf"
+}
+],
+"tier": "C",
+"type": "legislative"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "Testified in September 1975; the mail programme is documented largely through him",
+"id": "james-jesus-angleton",
+"l0": false,
+"label": "James Jesus Angleton",
+"note": "Book III cites Angleton testimony of 17 and 24 September 1975 more than fifty times and reproduces a public exchange with Senator Church on concealment from the President.",
+"sources": [
+{
+"date": "1976-04-23",
+"name": "S. Rept. 94-755, Book III",
+"url": "https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-94755-iii.pdf"
+}
+],
+"tier": "B",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "1976",
+"dateStart": "1975",
+"direction": "out",
+"edgeLabel": "The historical benchmark, and the source of the board's sharpest statement of the limit",
+"id": "oversight-congress",
+"l0": true,
+"label": "Congressional oversight of special access programs",
+"note": "The committee found that 'Mechanisms for, and the practice of, congressional oversight have not been adequate', and recorded that in no instance had it examined an agency's files on its own.",
+"sources": [
+{
+"date": "1976-04-26",
+"name": "S. Rept. 94-755, Book I, Foreign and Military Intelligence",
+"url": "https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-94755-i.pdf"
+}
+],
+"tier": "B",
+"type": "investigative"
+},
+{
+"claimTier": 2,
+"cls": "institution",
+"dateEnd": "1976",
+"dateStart": "1976",
+"direction": "out",
+"edgeLabel": "Recommended the permanent oversight committee that followed it",
+"id": "senate-intelligence",
+"l0": false,
+"label": "Senate Select Committee on Intelligence",
+"note": "Book I says 'a strong and effective oversight committee is an essential first step' and refers throughout to 'any successor oversight committee'; the establishing resolution for the Senate Select Committee on Intelligence was not opened for this pass, so the succession itself is graded Tier 2.",
+"sources": [
+{
+"date": "1976-04-26",
+"name": "S. Rept. 94-755, Book I, Foreign and Military Intelligence",
+"url": "https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-94755-i.pdf"
+}
+],
+"tier": "B",
+"type": "legislative"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "1976",
+"dateStart": "1975",
+"direction": "out",
+"edgeLabel": "Created as a select committee of the Senate by S. Res. 21 of 27 January 1975",
+"id": "us-senate",
+"l0": false,
+"label": "United States Senate",
+"note": "The report states the resolution, the date and the mandate in its own opening section.",
+"sources": [
+{
+"date": "1976-04-26",
+"name": "S. Rept. 94-755, Book I, Foreign and Military Intelligence",
+"url": "https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-94755-i.pdf"
+}
+],
+"tier": "C",
+"type": "legislative"
+}
+],
+"coords": null,
+"dateEnd": "1976-04-26",
+"dateStart": "1975-01-27",
+"deg": 6,
+"denials": [
+{
+"by": {
+"id": "church-committee",
+"label": "Senate Select Committee to Study Governmental Operations with Respect to Intelligence Activities (Church Committee)"
+},
+"claimTier": 1,
+"denialKind": null,
+"label": "Named by the committee as having limited its access to the full record",
+"note": "The report says 'the Central Intelligence Agency and other agencies of the executive branch have limited the Committee's access to the full record', in some instances by assertion of executive privilege.",
+"of": {
+"id": "cia",
+"label": "Central Intelligence Agency"
+},
+"sources": [
+{
+"date": "1976-04-26",
+"name": "S. Rept. 94-755, Book I, Foreign and Military Intelligence",
+"url": "https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-94755-i.pdf"
+}
+]
+}
+],
+"desc": "The only thorough congressional investigation ever made of the United States intelligence system, and the benchmark this board's oversight view has lacked. Eleven senators, a hundred staff, more than eight hundred interviews and over a hundred and ten thousand pages of documents. It is carried here for what its own final report concedes rather than for what it achieved: that it never once examined an agency's files on its own, that the CIA and other executive agencies limited its access to the record, and that three chapters of its published findings, including the chapter on budgetary oversight, were deleted at the request of the agencies it was investigating. Two Michels-corpus speakers who agree on almost nothing else, Michael Shellenberger and Mick West, each name the committee as the template for a successful congressional penetration of a compartmented programme. The committee's own report says the penetration was mediated throughout, and that is the finding.",
+"domains": [
+"michels-2026-09-02"
+],
+"dossier": {
+"claims": [
+{
+"source": "S. Rept. 94-755, Book I, Foreign and Military Intelligence, https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-94755-i.pdf",
+"text": "'On January 27, 1975, Senate Resolution 21 established a select committee \"to conduct an investigation and study of governmental operations with respect to intelligence activities and of the extent, if any, to which illegal, improper, or unethical activities were engaged in by any agency of the Federal Government.\"' Book I of the final report, Senate Report 94-755, was filed on 'APRIL 26 (legislative day, APRIL 14), 1976'.",
+"tier": 1
+},
+{
+"source": "S. Rept. 94-755, Book I, Foreign and Military Intelligence, https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-94755-i.pdf",
+"text": "The committee's own account of the obstacles it met: 'Despite its legal Senate mandate, and the issuance of subpoenas, in no instance has the Committee been able to examine the agencies' files on its own. In all the agencies, whether CIA, FBI, NSA, INR, DIA, or the NSC, documents and evidence have been presented through the filter of the agency itself.' It adds that 'the Central Intelligence Agency and other agencies of the executive branch have limited the Committee's access to the full record.'",
+"tier": 1
+},
+{
+"source": "S. Rept. 94-755, Book I, Foreign and Military Intelligence, https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-94755-i.pdf",
+"text": "The report's own publication note records that it 'has been reviewed and declassified by the appropriate executive agencies' and that 'At the request of the agencies, the Committee deleted three chapters from this report: \"Cover,\" \"Espionage,\" and \"Budgetary Oversight.\"' Two sections of the covert-action chapter and one section of the State Department chapter were also deleted at agency request.",
+"tier": 1
+},
+{
+"source": "S. Rept. 94-755, Book I, Foreign and Military Intelligence, https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-94755-i.pdf",
+"text": "The committee was chaired by Frank Church of Idaho with John G. Tower of Texas as Vice Chairman, and had eleven members, six from the majority and five from the minority. 'The Committee staff of 100, including 60 professionals, has assisted the 11 members of the Committee in this indepth inquiry which involved more than 800 interviews, over 250 executive hearings, and documentation in excess of 110,000 pages.'",
+"tier": 1
+},
+{
+"source": "S. Rept. 94-755, Book I, Foreign and Military Intelligence, https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-94755-i.pdf",
+"text": "Among its findings: 'The Committee finds that Congress has failed to provide the necessary statutory guidelines to ensure that intelligence agencies carry out their missions in accord with constitutional processes. Mechanisms for, and the practice of, congressional oversight have not been adequate.' And on money: 'Congress' failure as a whole to monitor the intelligence agencies' expenditures has been a major element in the ineffective legislative oversight of the intelligence community.'",
+"tier": 1
+},
+{
+"source": "michels-corpus-02.md file 02 at 13;52 and 14;51 (Shellenberger); michels-corpus-05.md file 04 at 18;41 (West)",
+"text": "Two Michels-corpus speakers who agree on very little else, Michael Shellenberger and Mick West, each name the Church Committee as the model for what oversight of a compartmented programme should look like. The committee's own report describes an inquiry whose every document arrived through the filter of the agency that held it.",
+"tier": 2
+}
+],
+"connections": [
+"Created as a select committee of us-senate by S. Res. 21 of 27 January 1975.",
+"Named cia among the executive-branch agencies that limited its access to the full record; the direction of that denial link is not established by the record and the board does not publish one.",
+"Stands in oversight-congress as the historical benchmark and as the source of the board's sharpest statement of the limit: mechanisms for and the practice of congressional oversight have not been adequate, and in no instance did the committee examine an agency's files on its own.",
+"Recommended annual publication of the aggregate national intelligence figure, the thread carried here as intel-budget-disclosure-record, while losing its own chapter titled 'Budgetary Oversight' to agency request.",
+"Recommended the permanent oversight body that followed it, carried at Tier 2 to senate-intelligence because the establishing resolution for that committee was not opened for this pass.",
+"James Jesus Angleton testified on 17 and 24 September 1975, and Book III documents the mail programme largely through him."
+],
+"denialPosture": "The board carries one denial link on this node and does not assert its direction, because the record does not establish one. What the record does establish is a self-report: the committee's own final report names the Central Intelligence Agency and other executive-branch agencies as having limited its access to the full record, in some instances by asserting executive privilege, and records that three chapters were deleted at the agencies' request. That is a committee describing what was done to it, published in the document the agencies reviewed before it went out. The board treats it as a documented behaviour with the direction left open, rather than converting a self-report into a directed act.",
+"narrative": "The committee is carried here for what it concedes rather than for what it achieved, and the concession is in its own words: 'Despite its legal Senate mandate, and the issuance of subpoenas, in no instance has the Committee been able to examine the agencies' files on its own. In all the agencies, whether CIA, FBI, NSA, INR, DIA, or the NSC, documents and evidence have been presented through the filter of the agency itself.' That sentence is the sharpest statement on this board of the structural problem every subsequent oversight claim inherits. Subpoena power did not produce unmediated access. What reached the Senate was what the holder of the file elected to hand over.\n\nThe money follows the same pattern twice. Among the committee's findings: 'Congress' failure as a whole to monitor the intelligence agencies' expenditures has been a major element in the ineffective legislative oversight of the intelligence community,' and more broadly that 'Mechanisms for, and the practice of, congressional oversight have not been adequate.' The committee recommended annual publication of the aggregate national intelligence figure. Then the published report's own note records that 'At the request of the agencies, the Committee deleted three chapters from this report: \"Cover,\" \"Espionage,\" and \"Budgetary Oversight.\"' The chapter on budgetary oversight was removed at the request of the agencies whose budgets it examined. Two sections of the covert-action chapter and one section of the State Department chapter went the same way.\n\nThe board uses this node as a calibration point. When a witness says a compartmented programme can be reached by a determined congressional committee, this is the strongest instance available, and it is documented failing on exactly the two axes that matter to this board: file access and money. What it did produce was permanent. It recommended the standing oversight committee that followed it, and the record of its own obstruction survives in the published volumes because the committee chose to print the obstruction alongside the findings.",
+"openQuestions": [
+"The three deleted chapters, 'Cover', 'Espionage' and 'Budgetary Oversight', have not been located in any later release. The board knows they existed and knows who asked for their removal, and holds none of their text.",
+"The board reads Book I directly and Book III through the Angleton citations. Books II, IV, V and VI have not been opened for this node.",
+"The succession to the permanent Senate Select Committee on Intelligence is graded Tier 2 because the establishing resolution was not opened. The committee's own report refers throughout to 'any successor oversight committee', which is intent, not enactment."
+],
+"roles": [
+"oversight",
+"disclosure",
+"concealment"
+],
+"whatItIs": "The Senate Select Committee to Study Governmental Operations with Respect to Intelligence Activities, established by Senate Resolution 21 on 27 January 1975 'to conduct an investigation and study of governmental operations with respect to intelligence activities and of the extent, if any, to which illegal, improper, or unethical activities were engaged in by any agency of the Federal Government.' Eleven senators, six from the majority and five from the minority, chaired by Frank Church of Idaho with John G. Tower of Texas as Vice Chairman. A staff of 100, including 60 professionals, conducted more than 800 interviews and over 250 executive hearings across documentation in excess of 110,000 pages. Book I of the final report, Senate Report 94-755, was filed on 26 April 1976.",
+"whyImplicated": "It is the benchmark, and it is the benchmark's own limit case. Two speakers in the Michels corpus who agree on almost nothing else, Michael Shellenberger and Mick West, each name this committee as the model for what congressional penetration of a compartmented programme should look like. The committee's report describes a penetration that was mediated at every step. It never once examined an agency's files on its own. The CIA and other executive agencies limited its access to the full record, in some instances by asserting executive privilege. And three chapters of its findings, one of them the chapter on budgetary oversight, were deleted from the published report at the request of the agencies it was investigating. The most thorough inquiry ever made into the American intelligence system reported that it could not see the files and could not publish what it found about the money."
+},
+"entityInfo": null,
+"era": "1",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "church-committee",
+"l0": true,
+"label": "Senate Select Committee to Study Governmental Operations with Respect to Intelligence Activities (Church Committee)",
+"locLabel": null,
+"members": [
+{
+"cls": "document",
+"id": "intel-budget-disclosure-record",
+"label": "The intelligence budget disclosure record, FY1997-FY2026",
+"tier": "C"
+},
+{
+"cls": "person",
+"id": "james-jesus-angleton",
+"label": "James Jesus Angleton",
+"tier": "B"
+},
+{
+"cls": "institution",
+"id": "senate-intelligence",
+"label": "Senate Select Committee on Intelligence",
+"tier": "B"
+},
+{
+"cls": "institution",
+"id": "us-senate",
+"label": "United States Senate",
+"tier": "C"
+}
+],
+"short": "Church Committee (Senate, 1975-76)",
+"sources": [
+{
+"date": "1976-04-26",
+"name": "S. Rept. 94-755, Book I, Foreign and Military Intelligence, Final Report of the Select Committee to Study Governmental Operations with Respect to Intelligence Activities",
+"url": "https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-94755-i.pdf"
+}
+],
+"sub": "Established by S. Res. 21, 27 January 1975; final report S. Rept. 94-755, six books, 1976",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 194 of 1027, score 44). 6 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C2/A1/D3.",
+"timeline": [
+{
+"date": "1976-04-26",
+"id": "tl-1976-04-26-church-report-book-i",
+"label": "Church Committee files Book I and records that it never examined an agency file itself",
+"precision": "day",
+"strand": "oversight",
+"text": "Senate Report 94-755, Book I, Foreign and Military Intelligence, is filed. Its section on the obstacles the committee met states that despite its legal Senate mandate and the issuance of subpoenas, in no instance had the committee been able to examine the agencies' files on its own. Its publication note records that three chapters, Cover, Espionage and Budgetary Oversight, were deleted at the request of the agencies.",
+"tier": "A"
+}
+]
+}

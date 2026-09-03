@@ -1,0 +1,124 @@
+{
+"A": 3,
+"C": 2,
+"D": 3,
+"band": null,
+"claims": [
+{
+"source": "PLAW-118publ31 sec. 7343(b)",
+"text": "Enacted text, PL 118-31 sec. 7343(b), 137 Stat. 1064: 'None of the funds authorized to be appropriated or otherwise made available by this division may be obligated or expended in support of any activity involving unidentified anomalous phenomena protected under any form of special access or restricted access limitation unless the Director of National Intelligence has provided the details of the activity to the appropriate committees of Congress and congressional leadership, including for any activities described in a report released by the All-domain Anomaly Resolution Office in fiscal year 2024.'",
+"tier": 1
+},
+{
+"source": "PLAW-118publ31 sec. 7343(c)",
+"text": "Sec. 7343(c): 'Independent research and development funding relating to unidentified anomalous phenomena shall not be allowable as indirect expenses for purposes of contracts covered by such instruction, unless such material and information is made available to the appropriate congressional committees and leadership.'",
+"tier": 1
+},
+{
+"source": "Comparison of BILLS-118s2226es Div. M sec. 1102 with PLAW-118publ31 sec. 7343",
+"text": "Sec. 7343 is the truncated survivor of sec. 1102 of the Senate-passed IAA FY2024 division of S. 2226; the contractor turn-in obligation, the non-earth-origin materials list, and the liability shield were removed.",
+"tier": 1
+},
+{
+"source": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm",
+"text": "Section 7343(b) of P.L. 118-31 Division F bars use of funds authorised by that division for UAP activity under special or restricted access limitation unless the DNI has provided details to the intelligence, armed services and appropriations committees of both chambers and to congressional leadership.",
+"tier": 1
+},
+{
+"source": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm",
+"text": "Section 7343(c) repeats the IR&D indirect-cost prohibition but omits the antecedent reference to DoD Instruction 3204.01, leaving 'contracts covered by such instruction' undefined in the enrolled text.",
+"tier": 1
+},
+{
+"source": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm",
+"text": "Enacting the identical bar twice, once naming the Secretary of Defense and once naming the DNI, is consistent with congressional uncertainty as to whether the activity sits in the Military Intelligence Program or the National Intelligence Program. Reasoning: a drafter certain of the programme's home would legislate once against the controlling official.",
+"tier": 3
+}
+],
+"cls": "legislation",
+"cluster": "other",
+"connections": [
+{
+"claimTier": 1,
+"cls": "legislation",
+"dateEnd": null,
+"dateStart": "2023-12-22",
+"direction": "in",
+"edgeLabel": "The same bar enacted twice, once for SECDEF and once for the DNI",
+"id": "ndaa-fy2024-1687",
+"l0": true,
+"label": "FY2024 NDAA sec. 1687 — Limitation on Use of Funds for Certain Unreported Programs",
+"note": "Sections 1687 and 7343 of P.L. 118-31 impose parallel funding limitations, the first running through the Secretary of Defense, the second through the Director of National Intelligence. Attested by the enacted text of both.",
+"sources": [
+{
+"date": "2023-12-22",
+"name": "P.L. 118-31, Secs. 1687 and 7343",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm"
+}
+],
+"tier": "A",
+"type": "legislative"
+},
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": "2024-09-30",
+"dateStart": "2023-12-22",
+"direction": "out",
+"edgeLabel": "Binds funds authorised by the intelligence division",
+"id": "nip",
+"l0": true,
+"label": "National Intelligence Program (NIP)",
+"note": "Section 7343(b) bars use of funds authorised by Division F for UAP activity under special or restricted access limitation absent DNI disclosure to six committees and congressional leadership. Attested by the statute.",
+"sources": [
+{
+"date": "2023-12-22",
+"name": "IAA FY2024, Sec. 7343",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm"
+}
+],
+"tier": "B",
+"type": "legislative"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "2023-12-22",
+"deg": 2,
+"denials": [],
+"desc": "Division F of Public Law 118-31, the Intelligence Authorization Act for Fiscal Year 2024, contains at section 7343 the mirror image of section 1687. Subsection (b) bars obligation or expenditure of funds authorised by that division 'in support of any activity involving unidentified anomalous phenomena protected under any form of special access or restricted access limitation unless the Director of National Intelligence has provided the details of the activity to the appropriate committees of Congress and congressional leadership, including for any activities described in a report released by the All-domain Anomaly Resolution Office in fiscal year 2024.' The 'appropriate committees' are defined more broadly than in section 1687: the Select and Permanent Select Committees on Intelligence, the Armed Services Committees and, notably, the Appropriations Committees of both chambers. Subsection (c) repeats the IR&D prohibition, but in the enrolled text the reference to DoD Instruction 3204.01 has been dropped, leaving the clause reading 'for purposes of contracts covered by such instruction' with no antecedent - a dangling cross-reference in enacted law. The pairing matters: Congress wrote the same funding bar twice, once for the Secretary of Defense and once for the Director of National Intelligence, which indicates the drafters did not know, or would not assume, on which side of the NIP/MIP line the activity they were legislating against sat.",
+"domains": [
+"_rs-legislation",
+"w2-black-budget"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "iaa24-sec7343",
+"l0": false,
+"label": "IAA FY2024 Section 7343 - Funding Limitations Relating to Unidentified Anomalous Phenomena",
+"locLabel": null,
+"members": null,
+"short": "IAA FY2024 Section 7343 - Funding Limitations Relating to Unidentified Anomalous Phenomena",
+"sources": [
+{
+"date": "2023-12-22",
+"name": "Public Law 118-31, National Defense Authorization Act for FY2024 (full text, GPO)",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm"
+},
+{
+"date": "2023-07-27",
+"name": "S. 2226, 118th Congress, Engrossed in Senate (BILLS-118s2226es) - contains DIVISION G, UAP Disclosure Act of 2023, secs. 9001-9015",
+"url": "https://www.govinfo.gov/content/pkg/BILLS-118s2226es/html/BILLS-118s2226es.htm"
+}
+],
+"sub": "The intelligence-side twin of Section 1687, running through the DNI",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 230 of 1027, score 41). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A3/D3.",
+"timeline": []
+}

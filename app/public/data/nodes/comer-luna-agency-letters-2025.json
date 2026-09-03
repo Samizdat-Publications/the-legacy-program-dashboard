@@ -1,0 +1,140 @@
+{
+"A": 1,
+"C": 0,
+"D": 2,
+"band": null,
+"claims": [
+{
+"source": "The Hill (opinion), 18 February 2025",
+"text": "Comer and Luna sent letters to Secretary of State Marco Rubio, Secretary of Defense Pete Hegseth and CIA Director John Ratcliffe requesting a briefing on all UAP-related records in their possession, with the goal of 'deliver[ing] transparency to the American people.'",
+"tier": 2
+}
+],
+"cls": "document",
+"cluster": "oversight",
+"connections": [
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "2025",
+"direction": "in",
+"edgeLabel": "Co-author",
+"id": "anna-paulina-luna",
+"l0": false,
+"label": "Anna Paulina Luna",
+"note": "Requesting a briefing on all UAP-related records in the recipients' possession.",
+"sources": [
+{
+"date": "2025-02-18",
+"name": "The Hill (opinion, Marik von Rennenkampff): House Republicans demand UFO transparency",
+"url": "https://thehill.com/opinion/national-security/5149386-house-republicans-demand-ufo-transparency/"
+}
+],
+"tier": "A",
+"type": "investigative"
+},
+{
+"claimTier": 2,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2025",
+"direction": "out",
+"edgeLabel": "Addressed to Director Ratcliffe",
+"id": "cia",
+"l0": true,
+"label": "Central Intelligence Agency",
+"note": "Ratcliffe had said as DNI that UAP exhibit technologies the United States does not have.",
+"sources": [
+{
+"date": "2025-02-18",
+"name": "The Hill (opinion, Marik von Rennenkampff): House Republicans demand UFO transparency",
+"url": "https://thehill.com/opinion/national-security/5149386-house-republicans-demand-ufo-transparency/"
+}
+],
+"tier": "A",
+"type": "investigative"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "2025",
+"direction": "in",
+"edgeLabel": "Co-author of the Task Force's opening records demand to State, Defense and CIA",
+"id": "james-comer",
+"l0": false,
+"label": "James Comer Jr.",
+"note": "Sent on establishment of the Task Force in February 2025.",
+"sources": [
+{
+"date": "2025-02-18",
+"name": "The Hill (opinion, Marik von Rennenkampff): House Republicans demand UFO transparency",
+"url": "https://thehill.com/opinion/national-security/5149386-house-republicans-demand-ufo-transparency/"
+}
+],
+"tier": "C",
+"type": "investigative"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "2025",
+"direction": "out",
+"edgeLabel": "Addressed to the Secretary of State, who had publicly described UAP whistleblowers approaching Senate Intelligence",
+"id": "marco-rubio",
+"l0": false,
+"label": "Marco Rubio",
+"note": "Rubio was one of five Senate cosponsors of the UAP Disclosure Act before joining the executive branch.",
+"sources": [
+{
+"date": "2025-02-18",
+"name": "The Hill (opinion, Marik von Rennenkampff): House Republicans demand UFO transparency",
+"url": "https://thehill.com/opinion/national-security/5149386-house-republicans-demand-ufo-transparency/"
+}
+],
+"tier": "B",
+"type": "investigative"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "2025",
+"deg": 4,
+"denials": [],
+"desc": "The Task Force's opening move. On establishing the Task Force on the Declassification of Federal Secrets on 11 February 2025, Chairman James Comer and Chairwoman Anna Paulina Luna sent letters to Secretary of State Marco Rubio, Secretary of Defense Pete Hegseth and CIA Director John Ratcliffe requesting a briefing on all UAP-related records in their possession, with the stated goal of delivering transparency to the American people. The choice of recipients is itself an argument: Rubio was one of five Senate cosponsors of the Unidentified Anomalous Phenomena Disclosure Act and had said publicly that officials with very high clearances approached the Senate Intelligence Committee alleging secret retrieval and reverse-engineering programmes; Ratcliffe had said as DNI that UAP exhibit technologies the United States does not have. The letters put the question to three officials who had already answered it, in public, from the other side of the executive-legislative line.",
+"domains": [
+"congress-house"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "comer-luna-agency-letters-2025",
+"l0": false,
+"label": "Comer-Luna letters to Rubio, Hegseth and Ratcliffe on UAP records, February 2025",
+"locLabel": null,
+"members": null,
+"short": "Comer-Luna letters to Rubio, Hegseth and Ratcliffe on UAP records, February 2025",
+"sources": [
+{
+"date": "2025-02-18",
+"name": "The Hill (opinion, Marik von Rennenkampff): House Republicans demand UFO transparency",
+"url": "https://thehill.com/opinion/national-security/5149386-house-republicans-demand-ufo-transparency/"
+},
+{
+"date": "2026-08-12",
+"name": "House Oversight Committee, Task Force on the Declassification of Federal Secrets — membership page",
+"url": "https://oversight.house.gov/subcommittee/task-force-on-the-declassification-of-federal-secrets/"
+}
+],
+"sub": "Task Force opening records demand",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 927 of 1027, score 13). 4 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D2.",
+"timeline": []
+}

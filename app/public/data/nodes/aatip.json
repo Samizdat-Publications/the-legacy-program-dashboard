@@ -1,0 +1,917 @@
+{
+"A": 3,
+"C": 3,
+"D": 3,
+"band": "reverse-engineering",
+"claims": [
+{
+"source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237611/",
+"text": "DIA Info Memo U-09-2660 (13 Nov 2009) frames the two names as the same thing: it evaluates 'a request from Senator Harry Reid (enclosure 1) to establish a restricted special access program (SAP) for the Advanced Aerospace Weapon System Application Program Contract, referred to in Senator Reid's letter as the Advanced Aerospace Threat and Identification Program (AAITP).'",
+"tier": 1
+},
+{
+"source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237660/",
+"text": "The DIA release consistently spells it 'AAITP' (Advanced Aerospace Threat and Identification Program) in 2009 documents, not the later-familiar 'AATIP'. The USD(I) memorandum subject line reads: 'Senator Harry Reid's Request to Put the Advanced Aerospace Threat and Identification Program (AAITP) under Special Access Protection'.",
+"tier": 1
+},
+{
+"source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237628/",
+"text": "DIA Read Ahead for the 19 Nov 2009 meeting states the DIA position: 'the content of the deliverables from the Advanced Aerospace Weapon System Application Program contract, referred to by Senator Reid as the AATIP, for FY09 and those expected in FY10, do not meet the criteria as specified in DoD 5200.1-R to justify the additional protection provided by a SAP.'",
+"tier": 1
+},
+{
+"source": "https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf",
+"text": "AARO Vol. I records that AAWSAP 'was also known [as] AATIP' and that DIA cancelled the program in 2012; supporters then proposed a follow-on program, KONA BLUE, to DHS, which DHS rejected.",
+"tier": 1
+},
+{
+"source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237611/",
+"text": "The concealment-relevant fact is not that AATIP was fake but that it was administratively real and deliberately kept out of SAP channels. DIA's own recommendation against a SAP (Nov 2009) is what later allowed officials to characterise AATIP as low-significance: a program denied special protection leaves no SAP paper trail to point at.",
+"tier": 3
+},
+{
+"source": "https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf",
+"text": "AARO Historical Record Report Vol. I states: 'Unlike AAWSAP, AATIP was never an official DoD program. However, after AAWSAP was cancelled, the AATIP moniker was used by some individuals associated with an informal, unofficial UAP community of interest within DoD that researched UAP sightings from military observers as part of their ancillary job duties.'",
+"tier": 1
+},
+{
+"source": "https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf",
+"text": "AARO's formulation is the load-bearing denial artifact: it concedes an actual DoD community of interest researching military UAP sightings, then denies it program status on a naming technicality. DIA's own 2009 correspondence uses 'AAITP' and 'AAWSAP' interchangeably for the same contract, so the 'never an official DoD program' line depends entirely on which of the two names is treated as canonical.",
+"tier": 3
+},
+{
+"source": "Packet presented to DEPSECDEF, 17 November 2009",
+"text": "A single DoD packet records three names for the same effort: official title AAWSAP, Senator Reid's usage AAITP (Advanced Aerospace Threat and Identification Program), and unclassified nickname AATIP.",
+"tier": 1
+},
+{
+"source": "DIA letter to SASC, 9 January 2018, signed Brian L. Jenkins",
+"text": "DIA told the Senate Armed Services Committee that 'the purpose of AATIP was to investigate foreign advanced aerospace weapon threats from the present out to the next 40 years' and enclosed a list of 38 products.",
+"tier": 1
+},
+{
+"source": "DIA memo U-10-2552CE-IM-ATL, circa December 2010",
+"text": "A DIA info memo to USD(AT&L) states AATIP reports were of limited value to DIA but could be of merit to other organizations and the project 'could be transitioned to another agency or component better suited'.",
+"tier": 1
+},
+{
+"source": "Inference from the coexistence of all three names in the November 2009 packet and DoD's 2019 press guidance",
+"text": "The naming divergence is functional, not accidental: AAWSAP is the contract, AATIP is the mission, and DoD's ability to say Elizondo had 'no assigned responsibilities for AATIP' depends on which of the two designations any given document happens to carry.",
+"tier": 3
+},
+{
+"source": "New York Times, 16 December 2017, quoting Pentagon spokesman Thomas Crosson",
+"text": "Existed and was terminated in 2012 on the Department's own account, with roughly $22 million appropriated from late 2008 through 2011 and most of it going to Bigelow Aerospace.",
+"tier": 1
+},
+{
+"source": "Reid memorandum, authenticated by Susan Gough on 13 June 2019; New York Times, 16 December 2017",
+"text": "Senator Harry Reid sought Special Access Program status for it in a 24 July 2009 memorandum to Deputy Secretary of Defense William Lynn III; the request was denied.",
+"tier": 1
+},
+{
+"source": "AARO Historical Record Report Volume 1, DOPSR-2024-0263, 8 March 2024",
+"text": "AARO's March 2024 Historical Record Report Volume 1 identifies 2009 as the standup year for AAWSAP and AATIP and states that 'none of the programs mentioned by interviewees are UAP reverse-engineering programs.'",
+"tier": 1
+},
+{
+"source": "Luis Elizondo, in TTSA statements and in Imminent (2024)",
+"text": "Elizondo's account is that AATIP grew out of AAWSAP, that he directed it from about 2010, and that only its funding ended in 2012 while the effort continued to his 2017 resignation.",
+"tier": 2
+},
+{
+"source": "Inference from the September 2017 emails and the 9 August 2017 DD Form 1910, both released under FOIA",
+"text": "The Department's own record contains an unresolved contradiction: September 2017 emails show Elizondo drafting a memorandum for Neill Tipton to 'assume the new responsibilities for AATIP', and the August 2017 DD-1910 for the AATIP-associated videos was submitted by Elizondo. Something bearing the AATIP name was live inside OUSD(I) in 2017.",
+"tier": 3
+}
+],
+"cls": "program",
+"cluster": "other",
+"connections": [
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "2024",
+"dateStart": "2024",
+"direction": "in",
+"edgeLabel": "March 2024: 'no evidence for the USG reverse-engineering narrative provided by interviewees'",
+"id": "aaro-historical-record-vol1",
+"l0": true,
+"label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
+"note": "AARO's report treats 2009 as the standup year for AAWSAP and AATIP and rejects the reverse-engineering account. It is itself a DOPSR-reviewed document, DOPSR-2024-0263.",
+"sources": [
+{
+"date": "2024-03-08",
+"name": "AARO Historical Record Report Volume 1",
+"url": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF"
+}
+],
+"tier": "A",
+"type": "denial"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "AARO: 'AATIP was never an official DoD program'",
+"id": "aaro-historical-record-vol1",
+"l0": true,
+"label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
+"note": "The report is where the Department's own account of AATIP sits. Volume I records that AAWSAP 'was also known [as] AATIP' and that DIA cancelled the programme in 2012, then that supporters proposed KONA BLUE to DHS as a follow-on. That is the programmatic relation: the report covers the programme's lifecycle. The denial edge on this pair is separate and records the report's rejection of the reverse-engineering account.",
+"sources": [
+{
+"date": "2024-03-08",
+"name": "AARO, Report on the Historical Record of U.S. Government Involvement with UAP, Volume I (Feb 2024) - DOPSR-cleared PDF, media.defense.gov",
+"url": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF"
+},
+{
+"date": "2026-08-11",
+"name": "Wayback snapshot of DOPSR-cleared HRR Volume I PDF (media.defense.gov)",
+"url": "https://web.archive.org/web/20260811042323id_/https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF"
+}
+],
+"tier": "A",
+"type": "programmatic"
+},
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "AAWSAP is the official name; AATIP/AAITP is Reid's name for it",
+"id": "aawsap",
+"l0": true,
+"label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)",
+"note": "Elizondo's account is that AATIP grew out of AAWSAP; AARO's 2024 historical report treats 2009 as the standup year for both. The Department has treated them as one contract and two labels, alternately.",
+"sources": [
+{
+"date": "2024-03-08",
+"name": "AARO Historical Record Report Volume 1",
+"url": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF"
+},
+{
+"date": "2021-05-21",
+"name": "Blue Blurry Lines",
+"url": "https://www.blueblurrylines.com/2021/05/the-pentagons-updated-statement-aatip.html"
+}
+],
+"tier": "A",
+"type": "programmatic"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "2019",
+"dateStart": "2019",
+"direction": "in",
+"edgeLabel": "22 May 2019: AATIP 'did pursue research and investigation into unidentified aerial phenomena'",
+"id": "christopher-sherwood",
+"l0": false,
+"label": "Christopher Sherwood",
+"note": "The Department's first unambiguous acknowledgement that its aerospace-threat program looked at UAP. Repudiated by its own spokesperson six months later.",
+"sources": [
+{
+"date": "2019-12-06",
+"name": "The Black Vault — The Pentagon Corrects Record",
+"url": "https://www.theblackvault.com/documentarchive/the-pentagon-corrects-record-on-secret-ufo-program/"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "2009",
+"dateStart": "2009",
+"direction": "in",
+"edgeLabel": "records three concurrent names for one program",
+"id": "depsecdef-sap-packet-2009",
+"l0": false,
+"label": "Final Packet Presented to the Deputy Secretary of Defense on the SAP Request",
+"note": "AAWSAP as the contract title, AAITP as Reid's usage, AATIP as the unclassified nickname — the naming divergence originates in a single DoD document.",
+"sources": [
+{
+"date": "2009-11-17",
+"name": "Packet presented to DEPSECDEF",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP/09117-Final_Packet_Presented_to_DepSecDef.pdf"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "2012",
+"dateStart": "2009",
+"direction": "in",
+"edgeLabel": "Named in the 2009 Reid SAP-request memorandum",
+"id": "harold-puthoff",
+"l0": false,
+"label": "Harold E. Puthoff",
+"note": "Puthoff's name appears in the memorandum requesting Special Access Program status, originally redacted, later released — placing him inside the program's founding paperwork.",
+"sources": [
+{
+"date": "2019-06-13",
+"name": "The Black Vault — Reid memo",
+"url": "https://www.theblackvault.com/documentarchive/pentagon-reinforces-mr-luis-elizondo-had-no-responsibilities-on-aatip-senator-harry-reids-2009-memo-changes-nothing/"
+}
+],
+"tier": "A",
+"type": "programmatic"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "2009",
+"dateStart": "2009",
+"direction": "in",
+"edgeLabel": "24 July 2009 memorandum to DepSecDef Lynn seeking SAP status; denied",
+"id": "harry-reid",
+"l0": false,
+"label": "Harry M. Reid",
+"note": "Susan Gough authenticated the memorandum on 13 June 2019. Elizondo's and Puthoff's names were originally redacted from it and later released.",
+"sources": [
+{
+"date": "2019-06-13",
+"name": "The Black Vault — Reid memo",
+"url": "https://www.theblackvault.com/documentarchive/pentagon-reinforces-mr-luis-elizondo-had-no-responsibilities-on-aatip-senator-harry-reids-2009-memo-changes-nothing/"
+}
+],
+"tier": "A",
+"type": "legislative"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2017",
+"dateStart": "2010",
+"direction": "in",
+"edgeLabel": "Ran the program from c.2010 to 2017 (asserted); role denied by DoD",
+"id": "luis-elizondo",
+"l0": false,
+"label": "Luis D. Elizondo",
+"note": "Elizondo states he ran AATIP; TTSA said he took it over as Director in 2010. The Department has denied he had assigned responsibilities since June 2019 without ever addressing why he processed the program's imagery in 2017.",
+"sources": [
+{
+"date": "2021-01-01",
+"name": "OSD FOIA 21-F-0938 Elizondo emails",
+"url": "https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/Public_Affairs/21-F-0938-PA-Elizondo-Emails.pdf"
+},
+{
+"date": "2019-06-01",
+"name": "The Intercept",
+"url": "https://theintercept.com/2019/06/01/ufo-unidentified-history-channel-luis-elizondo-pentagon/"
+}
+],
+"tier": "A",
+"type": "programmatic"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2017",
+"dateStart": "2017",
+"direction": "in",
+"edgeLabel": "Sept 2017: Elizondo drafts a memo helping Tipton 'assume the new responsibilities for AATIP'",
+"id": "neill-tipton",
+"l0": false,
+"label": "Neill Tipton",
+"note": "Five years after the Department says the program ended, and by the account of the man who says Elizondo had nothing to do with it. This is the sharpest internal contradiction in the record.",
+"sources": [
+{
+"date": "2023-01-01",
+"name": "The Black Vault",
+"url": "https://www.theblackvault.com/documentarchive/new-emails-reveal-pentagon-effort-to-align-messaging-on-aatip-and-luis-elizondo/"
+}
+],
+"tier": "B",
+"type": "programmatic"
+},
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": "2017",
+"dateStart": "2017",
+"direction": "in",
+"edgeLabel": "Broke the program's existence, funding and Reid origin",
+"id": "nyt-2017-12-16",
+"l0": true,
+"label": "New York Times, 'Glowing Auras and Black Money: The Pentagon's Mysterious U.F.O. Program'",
+"note": "Cooper, Blumenthal and Kean disclosed the programme, the appropriation arranged by Sen. Harry Reid at Robert Bigelow's urging, and Elizondo's resignation.",
+"sources": [
+{
+"date": "2017-12-16",
+"name": "New York Times (NICAP copy)",
+"url": "https://www.nicap.org/reports2/2004_20171216_NYTArt_1.pdf"
+},
+{
+"date": "2017-12-16",
+"name": "The New York Times - Glowing Auras and Black Money",
+"url": "https://www.nytimes.com/2017/12/16/us/politics/pentagon-program-ufo-harry-reid.html"
+}
+],
+"tier": "A",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "2011",
+"dateStart": "2008",
+"direction": "out",
+"edgeLabel": "Most of the ~$22m went to Bigelow Aerospace, 2008-2011",
+"id": "robert-bigelow",
+"l0": false,
+"label": "Robert T. Bigelow",
+"note": "Reported by the New York Times with Bigelow on record describing modified Las Vegas buildings for storing recovered metal alloys.",
+"sources": [
+{
+"date": "2017-12-16",
+"name": "New York Times (NICAP copy)",
+"url": "https://www.nicap.org/reports2/2004_20171216_NYTArt_1.pdf"
+}
+],
+"tier": "A",
+"type": "funding"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "2021",
+"dateStart": "2019",
+"direction": "in",
+"edgeLabel": "6 Dec 2019: 'Neither AATIP nor AAWSAP were UAP related'",
+"id": "susan-gough",
+"l0": false,
+"label": "Susan Gough",
+"note": "A direct reversal of her own colleague's May 2019 statement, justified on the ground that Sherwood was repeating what an earlier spokesperson had said and that spokesperson 'is no longer with my organization'.",
+"sources": [
+{
+"date": "2019-12-06",
+"name": "The Black Vault — The Pentagon Corrects Record",
+"url": "https://www.theblackvault.com/documentarchive/the-pentagon-corrects-record-on-secret-ufo-program/"
+}
+],
+"tier": "A",
+"type": "denial"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "2021",
+"dateStart": "2021",
+"direction": "in",
+"edgeLabel": "21 May 2021 partial reversal: contract 'allowed for research... including reports of UAPs'",
+"id": "susan-gough",
+"l0": false,
+"label": "Susan Gough",
+"note": "Eighteen months after the flat denial, the Department conceded UAP reports were within AATIP's research scope while insisting they were not its purpose. The denial of Elizondo's role did not move.",
+"sources": [
+{
+"date": "2021-05-21",
+"name": "Blue Blurry Lines — The Pentagon's Updated Statement",
+"url": "https://www.blueblurrylines.com/2021/05/the-pentagons-updated-statement-aatip.html"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "Pentagon confirmation of AATIP's existence obtained by The Intercept",
+"id": "the-intercept",
+"l0": false,
+"label": "The Intercept",
+"note": "In the same piece the Pentagon confirmed to The Intercept that AATIP existed and 'did pursue research and investigation into unidentified aerial phenomena,' while declining to confirm the earlier Dana White statement that Elizondo ran it. The article is a primary source for the contradiction between DoD's public position and the TTSA account of AATIP's chain of command.",
+"sources": [
+{
+"date": "2019-06-01",
+"name": "Keith Kloor, The Intercept, 1 June 2019",
+"url": "https://theintercept.com/2019/06/01/ufo-unidentified-history-channel-luis-elizondo-pentagon/"
+},
+{
+"date": null,
+"name": "Keith Kloor, The Intercept, June 1, 2019 -- https://theintercept.com/2019/06/01/ufo-unidentified-history-channel-luis-elizondo-pentagon/",
+"url": ""
+}
+],
+"tier": "C",
+"type": "investigative"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2017",
+"dateStart": "2017",
+"direction": "in",
+"edgeLabel": "Confirmed the program existed and was shut down in 2012",
+"id": "thomas-crosson",
+"l0": false,
+"label": "Thomas Crosson",
+"note": "The Department's original December 2017 position was acknowledgement with a budgetary rationale — 'other, higher priority issues that merit' the funding — not denial.",
+"sources": [
+{
+"date": "2017-12-16",
+"name": "New York Times (NICAP copy)",
+"url": "https://www.nicap.org/reports2/2004_20171216_NYTArt_1.pdf"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "AATIP's 2017 disclosure pulled a Vanderbilt lab into UAP research",
+"id": "vanderbilt-university",
+"l0": false,
+"label": "Vanderbilt University",
+"note": "Bruehl, a professor of Anesthesiology at Vanderbilt whose primary field is pain research, told his own institution that the December 2017 New York Times report revealing AATIP is what restarted his interest: 'My interest, honestly, has gone up and gone down over the years, and prior to 2017, I had kind of gotten bored with it and didn't really pay much attention to it. But the report in The New York Times got me thinking again.' What followed was a methodological judgement rather than a belief: 'That's when I realized that nobody's really studying this scientifically.'",
+"sources": [
+{
+"date": "2026-05-07",
+"name": "Vanderbilt Health News, 'The truth is out there, and Stephen Bruehl is bringing the scientific method to finding it', 7 May 2026",
+"url": "https://news.vumc.org/2026/05/07/the-truth-is-out-there-and-stephen-bruehl-is-bringing-the-scientific-method-to-finding-it/"
+},
+{
+"date": null,
+"name": "Vanderbilt Health News, May 7, 2026 -- https://news.vumc.org/2026/05/07/the-truth-is-out-there-and-stephen-bruehl-is-bringing-the-scientific-method-to-finding-it/",
+"url": ""
+},
+{
+"date": null,
+"name": "Bruehl and Villarroel, 'Transients in the Palomar Observatory Sky Survey may be Associated with Nuclear Testing and Reports of Unidentified Anomalous Phenomena,' Scientific Reports, October 20, 2025 -- https://www.nature.com/articles/s41598-025-21620-3",
+"url": ""
+}
+],
+"tier": "C",
+"type": "research"
+}
+],
+"coords": null,
+"dateEnd": "2012",
+"dateStart": "2009",
+"deg": 14,
+"denials": [
+{
+"by": {
+"id": "aaro-historical-record-vol1",
+"label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+},
+"claimTier": 1,
+"denialKind": "directed",
+"label": "March 2024: 'no evidence for the USG reverse-engineering narrative provided by interviewees'",
+"note": "AARO's report treats 2009 as the standup year for AAWSAP and AATIP and rejects the reverse-engineering account. It is itself a DOPSR-reviewed document, DOPSR-2024-0263.",
+"of": {
+"id": "aatip",
+"label": "Advanced Aerospace Threat Identification Program (AATIP / AAITP)"
+},
+"sources": [
+{
+"date": "2024-03-08",
+"name": "AARO Historical Record Report Volume 1",
+"url": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF"
+}
+]
+},
+{
+"by": {
+"id": "susan-gough",
+"label": "Susan Gough"
+},
+"claimTier": 1,
+"denialKind": "directed",
+"label": "6 Dec 2019: 'Neither AATIP nor AAWSAP were UAP related'",
+"note": "A direct reversal of her own colleague's May 2019 statement, justified on the ground that Sherwood was repeating what an earlier spokesperson had said and that spokesperson 'is no longer with my organization'.",
+"of": {
+"id": "aatip",
+"label": "Advanced Aerospace Threat Identification Program (AATIP / AAITP)"
+},
+"sources": [
+{
+"date": "2019-12-06",
+"name": "The Black Vault — The Pentagon Corrects Record",
+"url": "https://www.theblackvault.com/documentarchive/the-pentagon-corrects-record-on-secret-ufo-program/"
+}
+]
+}
+],
+"desc": "AATIP is the program at the centre of the 2017 break and the object of the Department's most contorted public statements. The New York Times reported on 16 December 2017 that it ran from late 2008 through 2011 on roughly $22 million, most of it to Robert Bigelow's Bigelow Aerospace, and that Senator Harry Reid initiated it in 2007. Pentagon spokesman Thomas Crosson confirmed its existence and said it was shut down in 2012 because 'there were other, higher priority issues that merit' the funding. On 24 July 2009 Reid wrote to Deputy Secretary of Defense William Lynn III seeking Special Access Program status for it; the request was denied, and the names of Elizondo and Harold Puthoff in that memorandum were originally redacted before later release. Elizondo's position is that AATIP grew out of AAWSAP, that he ran it from roughly 2010, that government funding rather than the program ceased in 2012, and that it morphed into what became the UAP Task Force. The Department's position has moved three times: acknowledged as UAP-related by Christopher Sherwood on 22 May 2019, flatly denied as UAP-related by Susan Gough on 6 December 2019, and partially conceded again on 21 May 2021 when Gough allowed that the contract 'allowed for research drawn from a wide variety of sources, including reports of UAPs' while denying that was its purpose. AARO's 2024 Historical Record Report Volume 1 treats 2009 as the standup year for AAWSAP and AATIP and concludes it found 'no evidence for the USG reverse-engineering narrative provided by interviewees'.",
+"domains": [
+"_rs-aawsap-dirds",
+"_rs-archive-mirror",
+"aawsap-aatip",
+"elizondo-ttsa"
+],
+"dossier": {
+"claims": [
+{
+"source": "DIA INFO MEMO U-10-2552/CE, LTG Ronald L. Burgess Jr. to USD(AT&L), 3 December 2010, released in the KONA BLUE declassification package: https://documents2.theblackvault.com/documents/osd/konablue-release1.pdf",
+"text": "AATIP was first sponsored in the FY2008 Defense Supplemental Appropriation Act by Senators Reid and Inouye with a $10 million add, per DIA's own info memo.",
+"tier": 1
+},
+{
+"source": "DIA INFO MEMO U-10-2552/CE, 3 December 2010: https://documents2.theblackvault.com/documents/osd/konablue-release1.pdf",
+"text": "The FY2010 Defense Appropriations Act included a $12 million add for the project.",
+"tier": 1
+},
+{
+"source": "DIA INFO MEMO U-10-2552/CE, 3 December 2010: https://documents2.theblackvault.com/documents/osd/konablue-release1.pdf",
+"text": "DIA's RFP identified twelve technical areas to be studied: lift, propulsion, control, armament, signatures reduction, materials, configuration, power generation, temporal translation, human effects, human interface, and technology integration.",
+"tier": 1
+},
+{
+"source": "DIA INFO MEMO U-10-2552/CE, 3 December 2010: https://documents2.theblackvault.com/documents/osd/konablue-release1.pdf",
+"text": "DIA awarded the contract to Bigelow Aerospace Advanced Space Studies LLC (BAASS) of North Las Vegas, Nevada, which was the only bid.",
+"tier": 1
+},
+{
+"source": "DIA INFO MEMO U-10-2552/CE, 3 December 2010: https://documents2.theblackvault.com/documents/osd/konablue-release1.pdf",
+"text": "BAASS produced 26 technical reports by June 2009, all delivered to DIA by September 2009; twelve additional reports followed after the FY2010 add, for 38 total.",
+"tier": 1
+},
+{
+"source": "DIA INFO MEMO U-10-2552/CE, 3 December 2010, enclosure 2: https://documents2.theblackvault.com/documents/osd/konablue-release1.pdf",
+"text": "One of the 26 initial reports, 'Advanced Space Propulsion Based on Vacuum (Spacetime Metric) Engineering,' was published in March 2010 and was attached to the Burgess memo as the exemplar deliverable.",
+"tier": 1
+},
+{
+"source": "DHS Action Memo, Dr. Tara O'Toole to Deputy Secretary Lute, 'KONA BLUE, Establishment of DHS Science & Technology Directorate SAP,' 28 November 2011, DHS-003-6-0004/11: https://documents2.theblackvault.com/documents/osd/konablue-release1.pdf",
+"text": "Total funding for the two-year contract was $22M, with deliverables of 38 research papers and a searchable database of more than 100,000 entries; at the conclusion of the initial program in December 2010 the research data was placed in contractor-secured storage.",
+"tier": 1
+},
+{
+"source": "DHS Action Memo, O'Toole to Lute, 28 November 2011, DHS-003-6-0004/11: https://documents2.theblackvault.com/documents/osd/konablue-release1.pdf",
+"text": "In May 2008 Senators Reid, Inouye and Stevens invited a DIA program manager (name redacted in the release) to meet with them to establish a research program involving 'exotic sciences'; in July 2008 DIA Director LTG Michael Maples was briefed by Senator Reid on the proposed effort.",
+"tier": 1
+},
+{
+"source": "Letter, Sen. Harry Reid to Hon. William Lynn III, 24 June 2009, released in the KONA BLUE package: https://documents2.theblackvault.com/documents/osd/konablue-release1.pdf",
+"text": "On 24 June 2009 Senator Harry Reid wrote to Deputy Secretary of Defense William Lynn III requesting establishment of a Restricted Special Access Program with a Bigoted Access List for portions of AATIP, specifically to protect 'The methodology used to identify, acquire, study, and engineer the advanced technologies associated with AATIP.'",
+"tier": 1
+},
+{
+"source": "Letter, Sen. Harry Reid to Hon. William Lynn III, 24 June 2009, Attachment 1: https://documents2.theblackvault.com/documents/osd/konablue-release1.pdf",
+"text": "Attachment 1 to the Reid letter designates the proposed SAP Category as 'Intelligence, DoD Acquisition,' program length FY09-FY13, and lists BAASS first on the preliminary bigoted list of contractor personnel.",
+"tier": 1
+},
+{
+"source": "DIA INFO MEMO U-10-2552/CE, 3 December 2010: https://documents2.theblackvault.com/documents/osd/konablue-release1.pdf",
+"text": "In November 2009, at the request of the Under Secretary of Defense for Intelligence, DIA reviewed the program and determined that 'insufficient grounds existed to classify the program, invoke an ACCM, or establish a restricted SAP.'",
+"tier": 1
+},
+{
+"source": "DIA INFO MEMO U-10-2552/CE, 3 December 2010: https://documents2.theblackvault.com/documents/osd/konablue-release1.pdf",
+"text": "Burgess wrote that after he and Lynn met Reid in November 2009 they determined the reports were of limited value to DIA, but that Burgess suggested 'upon the completion of the DIA contract, the project could be transitioned to another agency or component better suited to oversee the project.'",
+"tier": 1
+},
+{
+"source": "https://www.theblackvault.com/documentarchive/aatip-memo-unveiled-after-foia-battle-dod-inconsistencies-exposed/ (DoD FOIA cases 21-FR-0964 and 21-F-1154)",
+"text": "A 2017 draft memorandum authored by Luis Elizondo for issuance by Deputy Secretary Patrick Shanahan describes AATIP's strategic focus as 'beyond next generation technologies in the areas of lift, propulsion, cloaking, and human effects' and would have required all DoD elements to send data on 'unexplained or unknown aerial systems' to the Director of Defense Intelligence for Technical Collection and Special Programs (then Neill Tipton).",
+"tier": 2
+},
+{
+"source": "https://www.theblackvault.com/documentarchive/aatip-memo-unveiled-after-foia-battle-dod-inconsistencies-exposed/",
+"text": "DoD told The Black Vault in December 2021 that no responsive records existed for Elizondo-Tipton AATIP correspondence; the same office later released the memo and the email thread on 'responsibilities for AATIP' after appeal, with the release letter dated 29 March 2024 and delivered 21 August 2024.",
+"tier": 2
+},
+{
+"source": "https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/History_and_Origin_of_KONA_BLUE_FINAL_508.pdf",
+"text": "AARO states that AAWSAP/AATIP was managed by DIA from 2009-2012, funded through congressional earmarks, with Bigelow Aerospace as the primary contractor, and that DIA terminated the program citing 'a cited lack of merit and lack of utility in the products Bigelow produced for DIA's mission.'",
+"tier": 2
+},
+{
+"source": "https://www.theblackvault.com/documentarchive/the-advanced-aerospace-weapon-system-applications-program-aawsap-documentation/",
+"text": "In January 2018 DIA transmitted a list of the products created under the program to the Senate Armed Services Committee leadership; The Black Vault subsequently obtained the title breakdown via FOIA-0033-2019 and 37 of the 38 Defense Intelligence Reference Documents via FOIA-0159-2018, completed 25 March 2022.",
+"tier": 2
+}
+],
+"connections": [
+"Harry Reid, Daniel Inouye and Ted Stevens as the appropriations trio; Robert T. Herbert of Reid's staff appears by name on the FY10 bigoted list, making him a live interview target.",
+"William Lynn III (DepSecDef) received the SAP request; Patrick Shanahan (DepSecDef) was the intended signer of the 2017 Elizondo memo. Two Deputy Secretaries, eight years apart, are the intended authority for compartmenting the same nickname.",
+"LTG Michael Maples and LTG Ronald Burgess Jr. are the two DIA directors of record; Burgess authored the memo that documents both the SAP refusal and the recommendation to hand the project to another agency.",
+"Robert Bigelow and BAASS hold the contract, the data, and — per the DHS memo — the physical custody of the research corpus in 'contractor-secured storage' after December 2010. Contractor custody of a federally funded corpus is a recurring pattern on this board.",
+"Hal Puthoff and EarthTech International authored DIRD deliverables under this contract and later ran materials analysis for the ADAM Research Project. Same principal, government side then private side.",
+"The Burgess 'transition to another agency' recommendation is the direct causal link to KONA BLUE at DHS S&T.",
+"David Grusch's 2023 testimony and Elizondo's 2024 testimony both trade on the AATIP lineage; the UAP Task Force is the institutional successor within DoD.",
+"Neill Tipton, Director of Defense Intelligence (Technical Collection and Special Programs), is the intended collection node in the 2017 memo and the counterparty in the withheld email thread."
+],
+"denialPosture": "Pentagon spokesperson Susan Gough, in comment to The Black Vault in August 2024: \"Luis Elizondo had no assigned responsibilities for AATIP. As noted in the Historical Record Report Volume 1, available on www.aaro.mil, AATIP was never an official, recognized DoD program. The draft, unsigned 'memo for the record' that you reference was crafted by Mr. Elizondo and appears to have been unsolicited.\" On the FOIA contradiction Gough said only: \"As indicated in the response letter to you dated December 14, 2021, regarding 21-F-0964, the initial FOIA search did not yield responsive records.\" The denial is narrow, attacks the person and the program label, and never addresses the Reid, Lynn or Burgess documents.",
+"narrative": "The origin is documented to the appropriation. LTG Ronald L. Burgess Jr., Director of DIA, wrote to the Under Secretary of Defense for Acquisition, Technology and Logistics in an info memo dated 3 December 2010 (U-10-2552/CE) that \"The Advanced Aerospace Threat Identification Program was first sponsored in the Fiscal Year (FY) 2008 Defense Supplemental Appropriation Act by Senators Reid and Inouye with a $10 million add,\" for the purpose of investigating \"foreign advanced aerospace weapon threats from the present out to the next 40 years\" and to \"build an infrastructure to house a center of expertise on advanced aerospace technologies.\" The FY2010 Defense Appropriations Act added $12 million more. DIA issued an RFP naming twelve technical areas: lift, propulsion, control, armament, signatures reduction, materials, configuration, power generation, temporal translation, human effects, human interface, and technology integration. The contract went to BAASS, which Burgess notes was \"the only bid.\" A separate DHS memo dated 28 November 2011 puts the two-year total at $22M, the deliverables at 38 research papers, and describes \"an active, searchable database (now with greater than 100,000+ entries).\"\n\nThe procurement history in that DHS memo adds names the DoD record does not volunteer. In May 2008 Senators Reid, Inouye and Stevens invited a DIA program manager (name redacted in the release) to meet with them about a research program involving 'exotic sciences.' In July 2008 LTG Michael Maples, then Director of DIA, was briefed by Reid directly. The redacted program manager is widely identified in secondary literature as James Lacatski; the released document does not name him.\n\nThe Reid letter of 24 June 2009 to Deputy Secretary William Lynn III is the load-bearing artifact. Reid asks for a Restricted SAP with a Bigoted Access List for specific portions of AATIP, and enumerates what needs protecting. First, \"The methodology used to identify, acquire, study, and engineer the advanced technologies associated with AATIP.\" Second, allocation of personnel, support and oversight, because \"Protection of industry partnerships and participation is critical. Public awareness of an industry's AATIP affiliation may discourage that industry's further participation with the U.S. Government in this program.\" Third, \"Application and engineering\" — where Reid writes that \"The nuanced manner in which some of these technologies will be collected, engineered and applied by the U.S. may require senior level government approval\" and that access to \"the 'big picture' or overall intent of the program\" should be restricted to a strict Bigoted List. Attachment 1 to the letter designates SAP Category \"Intelligence, DoD Acquisition,\" program length FY09-FY13, and lists a preliminary bigoted list beginning with Lynn, Reid, Inouye, and Robert T. Herbert of the U.S. Senate; the contractor list begins with BAASS.\n\nDIA said no. Burgess writes that in November 2009, at the request of the Under Secretary of Defense for Intelligence, DIA reviewed the program and \"determined that, based on classification levels of current and projected deliverables, insufficient grounds existed to classify the program, invoke an ACCM, or establish a restricted SAP.\" He and Lynn then met Reid in November 2009, \"determined the reports were of limited value to DIA,\" and Burgess suggested transition to another agency. That is the documented push that lands at DHS as KONA BLUE in 2011.\n\nThe second life of the name begins in 2017. On 16 December 2017 the New York Times identified AATIP and Luis Elizondo, who had resigned from OUSD(I) effective 4 October 2017. From 2019 onward Pentagon spokeswoman Susan Gough has said Elizondo \"had no assigned responsibilities for AATIP.\" In August 2024, after a three-year FOIA fight, The Black Vault obtained a 2017 draft memorandum authored by Elizondo and intended for issuance by Deputy Secretary Patrick Shanahan. The memo describes AATIP's strategic focus as \"beyond next generation technologies in the areas of lift, propulsion, cloaking, and human effects,\" states that \"DoD continues to consider AATIP a priority,\" and directs that \"all DoD elements are hereby required to provide a courtesy copy of any data and information obtained from the field that related to unexplained or unknown aerial systems to the Director of Defense Intelligence for Technical Collection and Special Programs\" — the position then held by Neill Tipton. DoD had told The Black Vault in December 2021 that no such records existed.\n\nWho matters by name: Reid, Inouye, Stevens; Robert T. Herbert (Reid staff); Lynn; Maples; Burgess; Lacatski (per secondary sourcing); Robert Bigelow and BAASS; Hal Puthoff and Eric Davis as DIRD authors; Elizondo; Tipton; Shanahan; Gough. The record shows an earmarked, contractor-executed technology-exploitation effort whose sponsor asked in writing for engineering-grade compartmentation and was refused. The record does not show DIA ever taking custody of physical material under this contract, and does not resolve whether the OUSD(I) 'AATIP' Elizondo describes was the same activity or a successor riding the same nickname.",
+"openQuestions": [
+"The DHS memo redacts the name of the DIA program manager who met Reid, Inouye and Stevens in May 2008. Who is it on the unredacted original, and does DIA hold the meeting record?",
+"Enclosure 1 to the 28 November 2011 O'Toole memo is an 'AATI Program History, dated 23 Nov 2011.' That document has not surfaced. Where is it?",
+"Reid's letter says government and military personnel 'already involved with this program' should be assigned to support it in a Restricted SAP capacity, with names at Attachment 1 items 5 through 11 redacted. Who are they?",
+"If DIA refused a restricted SAP in November 2009 for want of classified deliverables, what changed by May 2011 such that DHS S&T was 'informed that there is a body of previous work held by other entities that requires a SAP level classification to access it'? Which entities?",
+"Was the OUSD(I) activity Elizondo describes a distinct effort from the DIA contract, a residual coordination function, or a renaming? No released document settles this.",
+"The 38th DIRD was withheld from the FOIA release. What is it?"
+],
+"roles": [
+"research",
+"funding",
+"reverse-engineering",
+"concealment",
+"custody"
+],
+"whatItIs": "AATIP is the unclassified nickname attached to a Defense Intelligence Agency effort that ran on congressional earmarks from FY2008 through roughly 2012, executed under contract by Bigelow Aerospace Advanced Space Studies LLC (BAASS) of North Las Vegas. Primary documents show the name used in at least three incompatible ways: as the DIA contract line (Advanced Aerospace Threat and Identification Program), as the internal DIA program office designation (AAWSAP, the Advanced Aerospace Weapon System Applications Program), and as a later OUSD(I) activity that Luis Elizondo says he ran and that DoD public affairs says never officially existed. The naming collision is not trivia; it is the seam along which the whole custody question runs.",
+"whyImplicated": "AATIP is the only publicly documented instance in which a sitting Senate Majority Leader wrote to a Deputy Secretary of Defense asking for a Restricted SAP with a Bigoted Access List to protect, in his own words, \"the methodology used to identify, acquire, study, and engineer the advanced technologies associated with AATIP.\" Acquire and engineer are custody and reverse-engineering verbs, and Reid put them in a signed letter dated 24 June 2009 to William Lynn III. DIA's own December 2010 info memo from LTG Ronald Burgess to USD(AT&L) confirms the SAP request, confirms DIA refused it in November 2009 for lack of classification grounds, and then confirms Burgess told Reid the work \"could be transitioned to another agency or component better suited to oversee the project.\" That single sentence is the hinge: it is DIA, in writing, describing the handoff that becomes KONA BLUE eighteen months later. Everything the Pentagon has said since 2017 about AATIP has been an argument about the name rather than a denial of the paper trail, and the paper trail is signed by Reid, Lynn, Burgess and Maples."
+},
+"entityInfo": {
+"desc": "The Department of Defense's public position on AATIP in strict chronological order, which is the single most useful artifact this domain produces. (1) 16 December 2017, Thomas Crosson: the program existed and was shut down in 2012 because 'there were other, higher priority issues that merit' the funding. (2) 22 May 2019, Christopher Sherwood: AATIP 'did pursue research and investigation into unidentified aerial phenomena'. (3) 1 June 2019, Sherwood: 'Mr. Elizondo had no responsibilities with regard to the AATIP program while he worked in OUSDI, up until the time he resigned effective 10/4/2017.' (4) 13 June 2019, Susan Gough: the authenticated Reid memo 'makes no change to previous statements. Mr. Elizondo had no assigned responsibilities for AATIP while he was in OUSD(I)'; DIA administered AATIP and Elizondo was never assigned to DIA. (5) 6 December 2019, Gough: 'Neither AATIP nor AAWSAP were UAP related'; Sherwood's May statement was accurately reported but 'not entirely fact-based' because he was repeating a previous spokesperson who 'is no longer with my organization'. (6) 21 May 2021, Gough: the contract 'allowed for research drawn from a wide variety of sources, including reports of UAPs. However, the examination of UAP observations was not the purpose of AATIP.' (7) 8 March 2024, AARO Historical Record Report Volume 1: 2009 is the standup year for AAWSAP and AATIP, and 'none of the programs mentioned by interviewees are UAP reverse-engineering programs.' Across seven years the position on whether AATIP touched UAP moved twice; the position on whether Elizondo had a role in it never moved at all.",
+"sources": [
+{
+"date": "2009-11-17",
+"name": "Final packet presented to Deputy Secretary of Defense (all three names)",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP/09117-Final_Packet_Presented_to_DepSecDef.pdf"
+},
+{
+"date": "2009-06-24",
+"name": "Reid to DEPSECDEF Lynn (AAITP usage)",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP/20090624_Reid_to_DEPSECDEF_ref_AAITP_in_SAP.pdf"
+},
+{
+"date": "2024-03-08",
+"name": "AARO Historical Record Report Volume 1 (AAWSAP/AATIP compound)",
+"url": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF"
+},
+{
+"date": "2017-12-16",
+"name": "New York Times — Glowing Auras and 'Black Money' (NICAP copy)",
+"url": "https://www.nicap.org/reports2/2004_20171216_NYTArt_1.pdf"
+},
+{
+"date": "2019-06-01",
+"name": "The Intercept",
+"url": "https://theintercept.com/2019/06/01/ufo-unidentified-history-channel-luis-elizondo-pentagon/"
+},
+{
+"date": "2019-06-13",
+"name": "The Black Vault — Pentagon Reinforces",
+"url": "https://www.theblackvault.com/documentarchive/pentagon-reinforces-mr-luis-elizondo-had-no-responsibilities-on-aatip-senator-harry-reids-2009-memo-changes-nothing/"
+},
+{
+"date": "2019-12-06",
+"name": "The Black Vault — The Pentagon Corrects Record",
+"url": "https://www.theblackvault.com/documentarchive/the-pentagon-corrects-record-on-secret-ufo-program/"
+},
+{
+"date": "2021-05-21",
+"name": "Blue Blurry Lines — The Pentagon's Updated Statement",
+"url": "https://www.blueblurrylines.com/2021/05/the-pentagons-updated-statement-aatip.html"
+}
+]
+},
+"era": "2",
+"foia": {
+"questions": [
+1,
+3,
+5
+],
+"requests": [
+{
+"agency": "DHS",
+"partial": [],
+"questions": [
+1,
+3
+],
+"request": "F6",
+"sendTo": "Department of Homeland Security, Science and Technology Directorate FOIA Office, 245 Murray Lane SW, Washington DC 20528. Cross-file with the DHS Privacy Office FOIA unit, which processed the original KONA BLUE package.",
+"status": "not filed",
+"title": "DHS - KONA BLUE enclosures and the Lute-tasked provenance paper"
+},
+{
+"agency": "DIA",
+"partial": [],
+"questions": [
+5
+],
+"request": "F7",
+"sendTo": "Defense Intelligence Agency, FOIA Office (DAN-1A).",
+"status": "not filed",
+"title": "DIA - the 38th DIRD, the tasking memorandum and the distribution list"
+}
+]
+},
+"hl": null,
+"id": "aatip",
+"l0": true,
+"label": "Advanced Aerospace Threat Identification Program (AATIP / AAITP)",
+"locLabel": null,
+"members": [
+{
+"cls": "person",
+"id": "christopher-sherwood",
+"label": "Christopher Sherwood",
+"tier": "C"
+},
+{
+"cls": "document",
+"id": "depsecdef-sap-packet-2009",
+"label": "Final Packet Presented to the Deputy Secretary of Defense on the SAP Request",
+"tier": "B"
+},
+{
+"cls": "person",
+"id": "harold-puthoff",
+"label": "Harold E. Puthoff",
+"tier": "A"
+},
+{
+"cls": "person",
+"id": "harry-reid",
+"label": "Harry M. Reid",
+"tier": "A"
+},
+{
+"cls": "person",
+"id": "luis-elizondo",
+"label": "Luis D. Elizondo",
+"tier": "A"
+},
+{
+"cls": "person",
+"id": "neill-tipton",
+"label": "Neill Tipton",
+"tier": "B"
+},
+{
+"cls": "person",
+"id": "robert-bigelow",
+"label": "Robert T. Bigelow",
+"tier": "A"
+},
+{
+"cls": "person",
+"id": "susan-gough",
+"label": "Susan Gough",
+"tier": "A"
+},
+{
+"cls": "institution",
+"id": "the-intercept",
+"label": "The Intercept",
+"tier": "C"
+},
+{
+"cls": "person",
+"id": "thomas-crosson",
+"label": "Thomas Crosson",
+"tier": "C"
+},
+{
+"cls": "institution",
+"id": "vanderbilt-university",
+"label": "Vanderbilt University",
+"tier": "C"
+}
+],
+"short": "AATIP",
+"sources": [
+{
+"date": "2009-06-24",
+"name": "Letter, Sen. Harry Reid to Deputy Secretary of Defense William J. Lynn III, 24 June 2009 (DIA FOIA release)",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237659/"
+},
+{
+"date": "2009",
+"name": "USD(I) Memorandum for the Deputy Secretary of Defense, 'Senator Harry Reid's Request to Put the Advanced Aerospace Threat and Identification Program (AAITP) under Special Access Protection' (DIA FOIA release)",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237660/"
+},
+{
+"date": "2009-11-13",
+"name": "DIA Info Memo U-09-2660, 'Review of Special Access Program Request', 13 Nov 2009 (DIA FOIA release)",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237611/"
+},
+{
+"date": "2010",
+"name": "DIA Info Memo U-10-2552 to USD(AT&L), 'Advanced Aerospace Threat and Identification Program' (DIA FOIA release)",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237626/"
+},
+{
+"date": "2009-11-19",
+"name": "DIA Read Ahead, 'DIA visit with Senator Harry Reid', 19 Nov 09, Capitol SVC-217 (DIA FOIA release)",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237628/"
+},
+{
+"date": "2024-03-08",
+"name": "AARO, Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP), Volume I",
+"url": "https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf"
+},
+{
+"date": "2025-03-13",
+"name": "Archived: Letter, Sen. Harry Reid to Deputy Secretary of Defense William J. Lynn III, 24 June 2009 (DIA FOIA release) (Wayback 2025-03-13)",
+"url": "https://web.archive.org/web/20250313031154/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170016/"
+},
+{
+"date": "2026-04-11",
+"name": "Archived: USD(I) Memorandum for the Deputy Secretary of Defense, 'Senator Harry Reid's Request to Put the Advanced Aerospace Threat and Identification Program (AAITP) under Special Access Protection' (DIA FOIA release) (Wayback 2026-04-11)",
+"url": "https://web.archive.org/web/20260411145317/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170015/"
+},
+{
+"date": "2025-03-11",
+"name": "Archived: DIA Info Memo U-09-2660, 'Review of Special Access Program Request', 13 Nov 2009 (DIA FOIA release) (Wayback 2025-03-11)",
+"url": "https://web.archive.org/web/20250311131406/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170058/"
+},
+{
+"date": "2025-03-17",
+"name": "Archived: DIA Info Memo U-10-2552 to USD(AT&L), 'Advanced Aerospace Threat and Identification Program' (DIA FOIA release) (Wayback 2025-03-17)",
+"url": "https://web.archive.org/web/20250317081516/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170059/"
+},
+{
+"date": "2025-03-10",
+"name": "Archived: DIA Read Ahead, 'DIA visit with Senator Harry Reid', 19 Nov 09, Capitol SVC-217 (DIA FOIA release) (Wayback 2025-03-10)",
+"url": "https://web.archive.org/web/20250310024204/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170056/"
+},
+{
+"date": "2026-05-08",
+"name": "Archived: AARO, Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP), Volume I (Wayback 2026-05-08)",
+"url": "https://web.archive.org/web/20260508180210/https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf"
+},
+{
+"date": "2026-07-05",
+"name": "Archived: AARO Historical Record Report Volume 1 (Wayback 2026-07-05)",
+"url": "https://web.archive.org/web/20260705034310/https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF"
+},
+{
+"date": "2009-11-17",
+"name": "Final packet presented to Deputy Secretary of Defense",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP/09117-Final_Packet_Presented_to_DepSecDef.pdf"
+},
+{
+"date": "2018-01-09",
+"name": "DIA letter to SASC listing AATIP products",
+"url": "https://documents.theblackvault.com/documents/dia/dia-aatip-reports.pdf"
+},
+{
+"date": "2010-12-01",
+"name": "DIA info memo U-10-2552CE-IM-ATL on AATIP",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP/U-10-2552CE-IM-ATL.pdf"
+},
+{
+"date": "2017-12-16",
+"name": "New York Times — Glowing Auras and 'Black Money' (NICAP archival copy)",
+"url": "https://www.nicap.org/reports2/2004_20171216_NYTArt_1.pdf"
+},
+{
+"date": "2024-03-08",
+"name": "AARO Historical Record Report Volume 1",
+"url": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF"
+},
+{
+"date": "2019-06-13",
+"name": "The Black Vault — Pentagon Reinforces Mr. Luis Elizondo Had 'No Responsibilities' on AATIP; Senator Harry Reid's 2009 Memo Changes Nothing",
+"url": "https://www.theblackvault.com/documentarchive/pentagon-reinforces-mr-luis-elizondo-had-no-responsibilities-on-aatip-senator-harry-reids-2009-memo-changes-nothing/"
+},
+{
+"date": "2021-05-21",
+"name": "Blue Blurry Lines — The Pentagon's Updated Statement: AATIP Studied UAPs",
+"url": "https://www.blueblurrylines.com/2021/05/the-pentagons-updated-statement-aatip.html"
+}
+],
+"sub": "dia-program",
+"tier": "A",
+"tierRationale": "Re-graded A on a global pass (rank 21 of 1027, score 108). 16 connections, 6 of them custody/witness/funding/programmatic, 2 official denials recorded against it. Axes C3/A3/D3.",
+"timeline": [
+{
+"date": "2007-01-01",
+"id": "tl-2007-reid-initiates",
+"label": "Reid initiates AATIP",
+"precision": "year",
+"strand": "program",
+"text": "Senator Harry Reid, prompted by Robert Bigelow, sets in motion the program that becomes AATIP. Funding of roughly $22 million flows from late 2008 through 2011, most of it to Bigelow Aerospace.",
+"tier": "A"
+},
+{
+"date": "2009-07-24",
+"id": "tl-2009-reid-sap",
+"label": "Reid seeks SAP status",
+"precision": "day",
+"strand": "program",
+"text": "Reid writes to Deputy Secretary of Defense William Lynn III requesting Special Access Program status for AATIP. The request is denied. Elizondo's and Puthoff's names in the memo are originally redacted.",
+"tier": "A"
+},
+{
+"date": "2012-01-01",
+"id": "tl-2012-funding-ends",
+"label": "AATIP funding ends",
+"precision": "year",
+"strand": "program",
+"text": "The Department's position is that AATIP terminated in 2012. Elizondo's position is that only government funding ceased and the effort continued to his 2017 departure.",
+"tier": "A"
+}
+]
+}

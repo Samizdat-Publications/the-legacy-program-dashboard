@@ -1,0 +1,134 @@
+{
+"A": 1,
+"C": 2,
+"D": 0,
+"band": null,
+"claims": [
+{
+"source": "https://www.navair.navy.mil/foia/sites/g/files/jejdrs566/files/document/%5Bfilename%5D/2021-003244%20FINAL%20VERSION%20PAX%20205%20-%20INERTIAL%20MASS%20REDUCTION%20DEVICE.pdf",
+"text": "The document is a six-page Navy briefing headed 'INERTIAL MASS REDUCTION DEVICE, Navy Case PAX 205', released by NAVAIR under FOIA case 2021-003244.",
+"tier": 1
+},
+{
+"source": "NAVAIR FOIA release 2021-003244, slide 4",
+"text": "Its 'Description of Invention' slide asserts that 'It is possible to reduce the inertial mass and hence the gravitational mass, of a system/object in motion, by an abrupt perturbation of the non-linear background of local Spacetime', with the mechanism attributed to negative pressure in a polarized local vacuum energy state achieved by coupling accelerated high frequency vibration with accelerated high frequency axial spin of an electrically charged object.",
+"tier": 1
+},
+{
+"source": "NAVAIR FOIA release 2021-003244, slide 5",
+"text": "The briefing answers 'Is there the potential for commercial use' with 'YES', citing the design of energy generation machinery with power output levels much higher than those currently achievable by conventional means.",
+"tier": 1
+}
+],
+"cls": "document",
+"cluster": "research",
+"connections": [
+{
+"claimTier": 2,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "Four of five itemised as design goals",
+"id": "five-observables",
+"l0": false,
+"label": "The five observables (UAP performance taxonomy)",
+"note": "Trans-medium travel, hypersonic velocity without signatures, low observability and lift without flight surfaces all appear as goals in the Navy briefing. Sudden acceleration does not. The edge is Tier 2 because the taxonomy half rests on reporting, even though the briefing half is Tier 1.",
+"sources": [
+{
+"date": null,
+"name": "NAVAIR FOIA release 2021-003244, PAX 205 briefing, slides 4-5",
+"url": "https://www.navair.navy.mil/foia/sites/g/files/jejdrs566/files/document/%5Bfilename%5D/2021-003244%20FINAL%20VERSION%20PAX%20205%20-%20INERTIAL%20MASS%20REDUCTION%20DEVICE.pdf"
+}
+],
+"tier": "B",
+"type": "research"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "2018-12-04",
+"dateStart": "2015-03-06",
+"direction": "out",
+"edgeLabel": "Internal disclosure underlying the granted patent",
+"id": "pais-patent-imrd",
+"l0": true,
+"label": "US Patent 10,144,532 - Craft using an inertial mass reduction device",
+"note": "Both are the inertial mass reduction device; the briefing carries the Navy case number PAX 205 and the patent is the filing that resulted.",
+"sources": [
+{
+"date": null,
+"name": "NAVAIR FOIA release 2021-003244",
+"url": "https://www.navair.navy.mil/foia/sites/g/files/jejdrs566/files/document/%5Bfilename%5D/2021-003244%20FINAL%20VERSION%20PAX%20205%20-%20INERTIAL%20MASS%20REDUCTION%20DEVICE.pdf"
+}
+],
+"tier": "A",
+"type": "programmatic"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "2015-03-06",
+"direction": "in",
+"edgeLabel": "Author of the Navy invention disclosure",
+"id": "salvatore-pais",
+"l0": false,
+"label": "Salvatore Cezar Pais",
+"note": "The briefing names him as author with his NAWCAD competency code 4.4.5.1 and navy.mil address on its first page.",
+"sources": [
+{
+"date": null,
+"name": "NAVAIR FOIA release 2021-003244",
+"url": "https://www.navair.navy.mil/foia/sites/g/files/jejdrs566/files/document/%5Bfilename%5D/2021-003244%20FINAL%20VERSION%20PAX%20205%20-%20INERTIAL%20MASS%20REDUCTION%20DEVICE.pdf"
+}
+],
+"tier": "A",
+"type": "programmatic"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "2015-03-06",
+"deg": 3,
+"denials": [],
+"desc": "The internal Navy briefing that underlies US 10,144,532, released under NAVAIR FOIA case 2021-003244. It is more informative than the patent because it was written for a Navy audience deciding whether to fund the work rather than for an examiner deciding whether to grant it. It names the author, his NAWCAD competency code and his navy.mil address; quotes the Commander of NAVAIR; describes a hybrid aerospace / undersea craft moving through air, space and water in a vacuum plasma sheath with extreme speed and non-linear RF and sonar scattering; asserts that the same device enables an artificial gravitational wave generator via the Gertsenshtein Effect and that planetary-scale spacetime modification is feasible; and states plainly, twice, that there is no prototype in existence and that Section 219 NISE funding of 500,000 USD in total is to be applied for to test the concept experimentally.",
+"domains": [
+"pais-patents"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "2",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "pax-205-disclosure",
+"l0": false,
+"label": "NAVAIR Invention Disclosure Briefing, Navy Case PAX 205 (Inertial Mass Reduction Device)",
+"locLabel": null,
+"members": null,
+"short": "NAVAIR Invention Disclosure Briefing, Navy Case PAX 205 (Inertial Mass Reduction Device)",
+"sources": [
+{
+"date": null,
+"name": "NAVAIR FOIA release 2021-003244, PAX 205 briefing",
+"url": "https://www.navair.navy.mil/foia/sites/g/files/jejdrs566/files/document/%5Bfilename%5D/2021-003244%20FINAL%20VERSION%20PAX%20205%20-%20INERTIAL%20MASS%20REDUCTION%20DEVICE.pdf"
+}
+],
+"sub": "Six-slide NAWCAD invention-disclosure briefing by S.C. Pais, released under NAVAIR FOIA 2021-003244",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 504 of 1027, score 29). 3 connections, 2 of them custody/witness/funding/programmatic. Axes C2/A1/D0.",
+"timeline": [
+{
+"date": "2015-03-06",
+"id": "tl-pais-pax205-origin",
+"label": "Invention original date recorded for the Inertial Mass Reduction Device",
+"precision": "day",
+"strand": "program",
+"text": "The NAVAIR invention-disclosure briefing for Navy Case PAX 205 records the invention original date as 06/03/2015 and states that the concept is theoretical with no prototype in existence.",
+"tier": "1"
+}
+]
+}

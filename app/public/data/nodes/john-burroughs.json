@@ -1,0 +1,162 @@
+{
+"A": 1,
+"C": 2,
+"D": 3,
+"affiliations": [
+"United States Air Force, 81st Security Police Squadron (1979-1981)",
+"US Department of Veterans Affairs claimant (2010s)"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "1980-12-26",
+"event": "Present at RAF Woodbridge east gate; enters Rendlesham Forest with Penniston and Cabansag.",
+"precision": "day"
+},
+{
+"date": "2013-01-01",
+"event": "Pursues VA disability claim; reports that his December 1980-January 1981 service medical records cannot be located.",
+"precision": "year"
+},
+{
+"date": "2015-01-01",
+"event": "VA grants service-connected disability benefits after congressional intervention.",
+"precision": "year"
+},
+{
+"date": "2020-12-26",
+"event": "Participates in 40th-anniversary media coverage of the incident.",
+"precision": "day"
+}
+],
+"claims": [
+{
+"source": "John Burroughs, public statements and interviews, 2013-2015",
+"text": "Burroughs states that his USAF medical records covering the December 1980-January 1981 period were not produced when he requested them for a VA claim.",
+"tier": 2
+},
+{
+"source": "John Burroughs and counsel, public statements 2015; reiterated in 40th-anniversary coverage",
+"text": "Burroughs was granted service-connected VA disability benefits in 2015 following congressional inquiries on his behalf.",
+"tier": 2
+},
+{
+"source": "John Burroughs, quoted in Rendlesham witness-statement analysis",
+"text": "Burroughs said of the 26 December sighting that they 'followed it for about 2 miles before we could see it was coming from a lighthouse' - a statement that cuts against the landed-craft account and demonstrates he has not tailored his testimony.",
+"tier": 2
+}
+],
+"cls": "person",
+"cluster": "witness",
+"conflicts": [
+"Burroughs' own account of the 26 December light differs from Penniston's; he has been consistent that part of what they chased was the Orfordness lighthouse."
+],
+"connections": [
+{
+"claimTier": 2,
+"cls": "location",
+"dateEnd": "2015",
+"dateStart": "2013",
+"direction": "out",
+"edgeLabel": "Service medical records for the incident window could not be produced",
+"id": "l-raf-woodbridge",
+"l0": false,
+"label": "RAF Woodbridge / RAF Bentwaters, Suffolk, England",
+"note": "Burroughs reported that his USAF medical records for December 1980-January 1981 were unavailable when he sought them for a VA disability claim; the claim was granted in 2015 after congressional intervention.",
+"sources": [
+{
+"date": "2020-12-26",
+"name": "BBC News, 'Rendlesham Forest UFO: Are we any closer to the truth 40 years on?'",
+"url": "https://www.bbc.co.uk/news/uk-england-suffolk-54649675"
+},
+{
+"date": "2020-12-26",
+"name": "David Clarke, 'Rendlesham UFOs 40th anniversary: the man from the ministry speaks for the first time'",
+"url": "https://drdavidclarke.co.uk/2020/12/26/rendlesham-ufos-40th-anniversary-the-man-from-the-ministry-speaks-for-the-first-time/"
+}
+],
+"tier": "C",
+"type": "custody"
+},
+{
+"claimTier": 2,
+"cls": "event",
+"dateEnd": "1980",
+"dateStart": "1980",
+"direction": "out",
+"edgeLabel": "First responder, 26 December 1980",
+"id": "rendlesham-1980",
+"l0": true,
+"label": "Rendlesham Forest Incident, RAF Woodbridge/Bentwaters",
+"note": "Burroughs was with Penniston at the east gate; his account differs in detail from Penniston's, which the board treats as a marker of independence rather than contradiction.",
+"sources": [
+{
+"date": "2020-12-26",
+"name": "BBC News, 'Rendlesham Forest UFO: Are we any closer to the truth 40 years on?'",
+"url": "https://www.bbc.co.uk/news/uk-england-suffolk-54649675"
+},
+{
+"date": "2020-12-26",
+"name": "David Clarke, 'Rendlesham UFOs 40th anniversary: the man from the ministry speaks for the first time'",
+"url": "https://drdavidclarke.co.uk/2020/12/26/rendlesham-ufos-40th-anniversary-the-man-from-the-ministry-speaks-for-the-first-time/"
+}
+],
+"tier": "A",
+"type": "witness-chain"
+}
+],
+"date": "2015-01-01",
+"dateEnd": null,
+"dateStart": "2015-01-01",
+"deg": 2,
+"denials": [],
+"domains": [
+"history-1970s-2000s"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "2",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "john-burroughs",
+"instId": "dod",
+"l0": false,
+"label": "John Burroughs",
+"loc": "Woodbridge, Suffolk, UK",
+"locId": "l-raf-woodbridge",
+"members": null,
+"narrative": "Burroughs matters less for what he saw than for what happened when he tried to get his own medical file. He was one of the airmen at the east gate on 26 December 1980. Decades later, suffering a cardiac condition, he sought Department of Veterans Affairs disability benefits and needed his December 1980-January 1981 service medical records to establish an in-service exposure. He and his counsel reported that the records could not be produced, and the case became a multi-year administrative fight that ran through congressional offices - Senator John McCain's staff among them - before the VA granted him service-connected benefits in 2015. The VA's grant did not adjudicate what he encountered; it adjudicated that something happened in service. That is the load-bearing fact. The Burroughs matter converts Rendlesham from a sightings story into a records story: a US government department paid a claim that turns on an event the Air Force has never formally acknowledged, while the medical documentation from the relevant window was not available through normal channels. Missing records with no destruction authority is the same signature GAO found in the Roswell files in 1995.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "John Burroughs",
+"sources": [
+{
+"date": "2020-12-26",
+"name": "BBC News, 'Rendlesham Forest UFO: Are we any closer to the truth 40 years on?'",
+"url": "https://www.bbc.co.uk/news/uk-england-suffolk-54649675"
+},
+{
+"date": "2020-12-26",
+"name": "David Clarke, 'Rendlesham UFOs 40th anniversary: the man from the ministry speaks for the first time'",
+"url": "https://drdavidclarke.co.uk/2020/12/26/rendlesham-ufos-40th-anniversary-the-man-from-the-ministry-speaks-for-the-first-time/"
+},
+{
+"date": "2021-11-11",
+"name": "The Halt Memo - Rendlesham Forest Incident (DoD FOIA case 97-F-1677, released Sept 1997)",
+"url": "https://www.theblackvault.com/documentarchive/the-halt-memo-the-rendlesham-forest-incident/"
+}
+],
+"status": "active",
+"sub": "USAF Airman 1st Class, 81st Security Police Squadron; Rendlesham witness; VA benefits claimant",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 430 of 1027, score 31). 2 connections, 2 of them custody/witness/funding/programmatic. Axes C2/A1/D3.",
+"timeline": [],
+"unexplainedResidual": "No released document explains the absence of the December 1980-January 1981 medical records.",
+"unverified": [
+"The precise administrative basis on which the VA granted the claim has not been published; the file is a private medical record."
+]
+}

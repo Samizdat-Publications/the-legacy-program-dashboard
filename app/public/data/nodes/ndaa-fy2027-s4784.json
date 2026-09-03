@@ -1,0 +1,168 @@
+{
+"A": 1,
+"C": 0,
+"D": 2,
+"band": null,
+"claims": [
+{
+"source": "S. 4784 (Reported in Senate) full text, GPO",
+"text": "S. 4784 as reported, Report No. 119-127, contains zero occurrences of 'unidentified', 'UAP', 'Anomaly Resolution' or a citation to 50 U.S.C. 3373.",
+"tier": 1
+},
+{
+"source": "rounds.senate.gov press release, 16 June 2026",
+"text": "Rounds's 16 June 2026 announcement of provisions secured in the SASC-reported FY2027 NDAA contains no UAP provision.",
+"tier": 1
+},
+{
+"source": "Sen. Mike Rounds, Weekly Round[s] Up, 22-28 June 2026",
+"text": "Rounds stated in his newsletter for 22-28 June 2026 that he is 'once again cosponsoring' the UAP Disclosure Act as an NDAA amendment.",
+"tier": 2
+}
+],
+"cls": "legislation",
+"cluster": "oversight",
+"connections": [
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": null,
+"dateStart": "2026",
+"direction": "in",
+"edgeLabel": "Target vehicle contains no UAP provisions to amend",
+"id": "disclosure-symposium-2026",
+"l0": false,
+"label": "2026 Disclosure Symposium",
+"note": "Rounds's stated plan is to attach the Act to the FY2027 NDAA; the reported bill has no UAP subtitle and his own markup announcement lists no UAP win.",
+"sources": [
+{
+"date": "2026-06-15",
+"name": "S. 4784 (Reported in Senate) — GPO",
+"url": "https://www.govinfo.gov/content/pkg/BILLS-119s4784rs/html/BILLS-119s4784rs.htm"
+},
+{
+"date": "2026-06-16",
+"name": "Sen. Rounds — FY2027 NDAA committee wins",
+"url": "https://www.rounds.senate.gov/newsroom/press-releases/rounds-secures-national-defense-victories-in-senate-armed-services-committees-fiscal-year-2027-ndaa"
+}
+],
+"tier": "C",
+"type": "temporal"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "2026",
+"direction": "in",
+"edgeLabel": "Reported an FY2027 NDAA containing no UAP provisions",
+"id": "roger-wicker",
+"l0": false,
+"label": "Roger F. Wicker",
+"note": "S. 4784 as reported returns zero occurrences of 'unidentified', 'UAP' or a citation to 50 U.S.C. 3373.",
+"sources": [
+{
+"date": "2026-06-15",
+"name": "S. 4784 (Reported in Senate) — GPO",
+"url": "https://www.govinfo.gov/content/pkg/BILLS-119s4784rs/html/BILLS-119s4784rs.htm"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 3,
+"cls": "legislation",
+"dateEnd": null,
+"dateStart": "2026-07-22",
+"direction": "in",
+"edgeLabel": "House-adopted amendment against a Senate base text with no UAP provisions",
+"id": "uapda-fy2027-house-adopted",
+"l0": true,
+"label": "Unidentified Anomalous Phenomena Disclosure Act - Burlison amendment to the FY2027 NDAA",
+"note": "The House framework must survive conference against a Senate reported bill (S. 4784, S. Rept. 119-127) containing zero UAP provisions - the second consecutive cycle in which the subject is absent from the Senate base text. The 2023 precedent is that the eminent-domain and review-board provisions were stripped in conference.",
+"sources": [
+{
+"date": "2026-07-22",
+"name": "Burlison, House Adopts UAP Disclosure Framework",
+"url": "https://burlison.house.gov/media/press-releases/house-adopts-burlison-amendment-establishing-uap-disclosure-framework"
+},
+{
+"date": "2026-07-23",
+"name": "NewsTalk KZRG, House approves Burlison amendment",
+"url": "https://www.newstalkkzrg.com/2026/07/23/house-approves-burlison-amendment-creating-framework-for-uap-records-disclosure/"
+}
+],
+"tier": "B",
+"type": "legislative"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "2026",
+"deg": 3,
+"denials": [],
+"desc": "S. 4784 is the current state of play and the thinnest point in the record. Introduced by Chairman Wicker and reported by the Senate Armed Services Committee in June 2026 as Calendar No. 436, Report No. 119-127, the FY2027 NDAA contains no unidentified anomalous phenomena provisions whatsoever. A full-text search of the reported bill returns zero occurrences of 'unidentified', zero of 'UAP', zero of 'Anomaly Resolution' and zero citations to 50 U.S.C. 3373. The eleven occurrences of 'anomalous' in the bill all concern Anomalous Health Incidents, an unrelated subject, or anomalous behaviour of software agents and autonomous weapons. Senator Rounds's own 16 June 2026 announcement of roughly forty provisions he secured in the committee markup contains no UAP item. This is the second consecutive authorisation cycle in which the subject has been excluded from the Senate's base text, which leaves only the floor-amendment route — and the FY2026 precedent is that there was no open amendment process at all, the bill being disposed of with seventeen amendments in total. Senator Rounds nonetheless stated in late June 2026 that he is 'once again cosponsoring' the UAP Disclosure Act as an amendment to this year's NDAA.",
+"domains": [
+"congress-senate-legislation"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "ndaa-fy2027-s4784",
+"l0": false,
+"label": "FY2027 NDAA as reported (S. 4784, S. Rept. 119-127)",
+"locLabel": null,
+"members": null,
+"short": "FY2027 NDAA as reported (S. 4784, S. Rept. 119-127)",
+"sources": [
+{
+"date": "2026-06-15",
+"name": "S. 4784 (Reported in Senate) — GPO",
+"url": "https://www.govinfo.gov/content/pkg/BILLS-119s4784rs/html/BILLS-119s4784rs.htm"
+},
+{
+"date": "2026-06-15",
+"name": "Congress.gov — S. 4784",
+"url": "https://www.congress.gov/bill/119th-congress/senate-bill/4784"
+},
+{
+"date": "2026-06-16",
+"name": "Sen. Rounds — FY2027 NDAA committee wins",
+"url": "https://www.rounds.senate.gov/newsroom/press-releases/rounds-secures-national-defense-victories-in-senate-armed-services-committees-fiscal-year-2027-ndaa"
+},
+{
+"date": "2026-06-28",
+"name": "Sen. Rounds — Weekly Round[s] Up, June 22-28, 2026",
+"url": "https://www.rounds.senate.gov/newsroom/weekly-rounds/weekly-rounds-up-june-22-28-2026"
+}
+],
+"sub": "Reported by SASC June 2026; contains no UAP provisions",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 809 of 1027, score 18). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D2.",
+"timeline": [
+{
+"date": "2026-06",
+"id": "tl-senate-silence",
+"label": "The Senate's FY2027 base text contains no UAP provisions",
+"precision": "month",
+"strand": "oversight",
+"text": "S. 4784 as reported (S. Rept. 119-127) returns zero occurrences of 'unidentified', 'UAP' or 'Anomaly Resolution'. The House-adopted disclosure framework must survive conference against a chamber that did not legislate on the subject at all.",
+"tier": "1"
+},
+{
+"date": "2026-06-15",
+"id": "cl-2026-06-15",
+"label": "FY2027 NDAA reported with no UAP provisions",
+"precision": "day",
+"strand": "coverup",
+"text": "S. 4784, Report No. 119-127, is reported by the Armed Services Committee containing zero occurrences of 'unidentified', 'UAP' or a citation to 50 U.S.C. 3373. Second consecutive cycle in which the subject is absent from the Senate base text.",
+"tier": "A"
+}
+]
+}

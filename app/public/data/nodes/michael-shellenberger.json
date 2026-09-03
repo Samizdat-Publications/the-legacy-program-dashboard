@@ -1,0 +1,332 @@
+{
+"A": 0,
+"C": 1,
+"D": 3,
+"affiliations": [
+"Public (co-founder)",
+"University of Austin (faculty, 2026)",
+"Environmental Progress",
+"Breakthrough Institute (founder, 2003)",
+"Public (Substack), founder",
+"Environmental Progress, founder",
+"University of Austin, professor of politics"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "2024-10-17",
+"event": "The Debrief reports on Shellenberger's account of an alleged insider describing the USAP 'Immaculate Constellation'.",
+"precision": "day"
+},
+{
+"date": "2024-10-17",
+"event": "Immaculate Constellation reporting circulates; The Debrief assesses it",
+"precision": "day"
+},
+{
+"date": "2024-11-13",
+"event": "Testifies to a House Oversight subcommittee and submits a twelve-page Immaculate Constellation report to the congressional record.",
+"precision": "day"
+},
+{
+"date": "2024-11-13",
+"event": "Delivers the 12-page report to Congress and testifies to its contents",
+"precision": "day"
+},
+{
+"date": "2024-11-14",
+"event": "Interviewed by Jesse Michels on American Alchemy the day after the hearing.",
+"precision": "day"
+},
+{
+"date": "2025-01-01",
+"event": "A separate self-identified whistleblower ties the name to a 2018 Schriever Wargame folder",
+"precision": "year"
+}
+],
+"claims": [
+{
+"source": "CHRG-118hhrg57440 CONTENTS and statement of Rep. Mace",
+"text": "Witness of record at the 13 November 2024 House Oversight joint hearing: 'Mr. Michael Shellenberger, Founder of Public'. Chairwoman Mace stated on the record that the 12-page Pentagon document describing the unacknowledged special access program 'Immaculate Constellation' was the document 'that Michael Shellenberger brought today', and entered it into the record without objection.",
+"tier": 1
+},
+{
+"source": "Micah Hanks, The Debrief, 'Immaculate Constellation: UAP Bombshell or Disinformation?', 17 October 2024",
+"text": "Shellenberger reported the allegations of an alleged US government insider who claims they discovered evidence of an unacknowledged special access program codenamed 'Immaculate Constellation' that has been secretly collecting data on UAP encounters.",
+"tier": 2
+},
+{
+"source": "Contemporaneous video coverage of the 13 November 2024 hearing; Jesse Michels interview published 14 November 2024",
+"text": "On 13 November 2024 Shellenberger handed a twelve-page document to a House Oversight subcommittee.",
+"tier": 2
+},
+{
+"source": "Wikipedia, 'Michael Shellenberger', retrieved 12 August 2026 — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"text": "Shellenberger is co-founder of Public and, as of 2026, on the faculty of the University of Austin.",
+"tier": 2
+},
+{
+"source": "GPO CHRG-118hhrg57440, Index of Documents",
+"text": "The hearing's Index of Documents records 'Report, Pentagon, Immaculate Constellation; submitted by Rep. Mace.'",
+"tier": 1
+},
+{
+"source": "Michael Shellenberger, sworn testimony, 13 November 2024",
+"text": "'Immaculate Constellation serves as a central or parent USAP that consolidates observations of UAPs by both tasked and untasked collection platforms.'",
+"tier": 2
+},
+{
+"source": "DoD statements as reported in UAP coverage, 2024-2026",
+"text": "Pentagon spokesperson Sue Gough said the Department has no record of such a programme; Sean Kirkpatrick also denied its existence.",
+"tier": 2
+},
+{
+"source": "Jason Colavito, jasoncolavito.com, as cited in the Wikipedia Schriever wargame article",
+"text": "In 2025 a self-identified whistleblower said he found the programme in a folder labelled '2018 Schriever Wargame'; Jason Colavito concluded the claimant 'apparently mistook fictitious wargame documents for secret UFO revelations.'",
+"tier": 2
+},
+{
+"source": "Inference from the distinct provenance chains of the 2024 document and the 2025 claim",
+"text": "The Schriever attribution addresses a 2025 claimant's account of where he found the name; it does not by itself account for the 12-page document delivered in November 2024 or explain why no AARO product has ever addressed the name entered into the Record.",
+"tier": 3
+}
+],
+"cls": "person",
+"cluster": "other",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 2,
+"cls": "event",
+"dateEnd": "2024",
+"dateStart": "2024",
+"direction": "out",
+"edgeLabel": "Testified and submitted the report at the 13 November 2024 hearing",
+"id": "hearing-2024-11-13",
+"l0": true,
+"label": "House Oversight joint hearing, 13 November 2024 - 'Unidentified Anomalous Phenomena: Exposing the Truth'",
+"note": "The hearing is the fixed, dateable event at which the Immaculate Constellation document entered the record.",
+"sources": [
+{
+"date": "2024-11-14",
+"name": "American Alchemy - Shellenberger interview recorded after the hearing",
+"url": "https://www.youtube.com/watch?v=DPmO-2E7Ayg"
+}
+],
+"tier": "A",
+"type": "legislative"
+},
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": null,
+"dateStart": "2024-11-13",
+"direction": "out",
+"edgeLabel": "sworn witness; delivered the Immaculate Constellation document",
+"id": "hearing-2024-11-13",
+"l0": true,
+"label": "House Oversight joint hearing, 13 November 2024 - 'Unidentified Anomalous Phenomena: Exposing the Truth'",
+"note": "Chairwoman Mace on the record: the 12-page Pentagon document 'that Michael Shellenberger brought today'.",
+"sources": [
+{
+"date": "2024-11-13",
+"name": "CHRG-118hhrg57440, printed hearing transcript, 'Unidentified Anomalous Phenomena: Exposing the Truth', Serial No. 118-135",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/pdf/CHRG-118hhrg57440.pdf"
+}
+],
+"tier": "A",
+"type": "programmatic"
+},
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": null,
+"dateStart": "2024",
+"direction": "out",
+"edgeLabel": "Delivered the Immaculate Constellation document to Congress the morning of the hearing",
+"id": "hearing-2024-11-13",
+"l0": true,
+"label": "House Oversight joint hearing, 13 November 2024 - 'Unidentified Anomalous Phenomena: Exposing the Truth'",
+"note": "Mace announced from the dais that Shellenberger had delivered the 12-page document that morning and moved it into the record.",
+"sources": [
+{
+"date": "2024-11-13",
+"name": "U.S. GPO, Hearing transcript, Serial No. 118-135 (CHRG-118hhrg57440)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm"
+},
+{
+"date": "2024-11-13",
+"name": "Michael Shellenberger, written testimony, House Oversight",
+"url": "https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Shellenberger.pdf"
+},
+{
+"date": "2024-11-13",
+"name": "HHRG-118-GO12 transcript",
+"url": "https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Transcript-20241113.pdf"
+}
+],
+"tier": "A",
+"type": "witness-chain"
+},
+{
+"claimTier": 2,
+"cls": "event",
+"dateEnd": "2024",
+"dateStart": "2024",
+"direction": "out",
+"edgeLabel": "Brought the alleged USAP into the congressional record",
+"id": "immaculate-constellation",
+"l0": true,
+"label": "Immaculate Constellation disclosure, October-November 2024",
+"note": "On 13 November 2024 Shellenberger testified to a House Oversight subcommittee and submitted a twelve-page report, sourced to an alleged insider, describing an unacknowledged special access program collecting UAP data outside acknowledged reporting channels.",
+"sources": [
+{
+"date": "2024-11-13",
+"name": "House Oversight - Shellenberger written testimony (PDF)",
+"url": "https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Shellenberger.pdf"
+},
+{
+"date": "2024-10-17",
+"name": "The Debrief - 'Immaculate Constellation: UAP Bombshell or Disinformation?'",
+"url": "https://thedebrief.org/immaculate-constellation-uap-bombshell-or-disinformation/"
+},
+{
+"date": "2024-11-14",
+"name": "American Alchemy - Shellenberger interview",
+"url": "https://www.youtube.com/watch?v=DPmO-2E7Ayg"
+},
+{
+"date": "2024-11-13",
+"name": "GPO transcript CHRG-118hhrg57440",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm"
+}
+],
+"tier": "A",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": "2024",
+"direction": "out",
+"edgeLabel": "Delivered the document to Congress on the morning of the hearing and testified to its contents",
+"id": "immaculate-constellation-12-page-report",
+"l0": true,
+"label": "Immaculate Constellation 12-page report entered into the Congressional Record",
+"note": "Shellenberger supplied the 12-page report that Chairwoman Mace moved into the Congressional Record, and testified to its contents under oath.",
+"sources": [
+{
+"date": "2024-11-13",
+"name": "U.S. GPO, Hearing transcript, Serial No. 118-135 (CHRG-118hhrg57440)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm"
+},
+{
+"date": "2024-11-13",
+"name": "Michael Shellenberger, written testimony, House Oversight",
+"url": "https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Shellenberger.pdf"
+}
+],
+"tier": "A",
+"type": "witness-chain"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2024",
+"dateStart": "2024",
+"direction": "in",
+"edgeLabel": "Michels interviewed Shellenberger the day after the hearing",
+"id": "jesse-michels",
+"l0": false,
+"label": "Jesse Michels",
+"note": "Published 14 November 2024, recorded immediately after the 13 November hearing; 203,593 views. Michels was the first long-form venue for Shellenberger's account of the document.",
+"sources": [
+{
+"date": "2024-11-14",
+"name": "American Alchemy - 'Breaking UFO Story: Immaculate Constellation (Ft. Michael Shellenberger)'",
+"url": "https://www.youtube.com/watch?v=DPmO-2E7Ayg"
+}
+],
+"tier": "B",
+"type": "investigative"
+}
+],
+"date": "2024-11-13",
+"dateEnd": null,
+"dateStart": "2024-11-13",
+"deg": 4,
+"denials": [],
+"domains": [
+"_rs-legislation",
+"media-structure",
+"releases-2023-2026"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "michael-shellenberger",
+"instId": "public-substack",
+"l0": false,
+"label": "Michael Shellenberger",
+"loc": "Austin, TX",
+"locId": "l-austin",
+"members": null,
+"narrative": "Shellenberger is the person who put a purported unacknowledged special access program into the Congressional Record. On the morning of 13 November 2024 he delivered to Congress a twelve-page document describing Immaculate Constellation as a central or parent USAP consolidating UAP observations from tasked and untasked collection platforms and holding high-quality imagery and measurement-and-signature intelligence; Chairwoman Nancy Mace moved it into the Record from the dais during the hearing, where it appears in the Index of Documents as 'Report, Pentagon, Immaculate Constellation; submitted by Rep. Mace.' Under adversarial questioning from Rep. Clay Higgins he confirmed he knows the author and the sources, has confidence in them, and was withholding their identity by choice. The Pentagon, through spokesperson Sue Gough, says it has no record of such a programme; former AARO director Sean Kirkpatrick denied its existence. Neither AARO annual report since - FY2024 or FY2025 - addresses it, and Kosloski's Senate statement for the record does not mention it. In 2025 a separate self-identified whistleblower claimed to have found the programme inside a folder labelled '2018 Schriever Wargame'; analyst Jason Colavito argued that person had mistaken fictitious wargame scenario documents for a real programme. That claim goes to the 2025 claimant's provenance story, not automatically to the 2024 twelve-page report, and the distinction is one the board keeps open rather than collapsing in either direction.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Michael Shellenberger",
+"sources": [
+{
+"date": "2024-11-13",
+"name": "CHRG-118hhrg57440, printed hearing transcript, 'Unidentified Anomalous Phenomena: Exposing the Truth', Serial No. 118-135",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/pdf/CHRG-118hhrg57440.pdf"
+},
+{
+"date": "2024-10-17",
+"name": "The Debrief - 'Immaculate Constellation: UAP Bombshell or Disinformation?' (Micah Hanks)",
+"url": "https://thedebrief.org/immaculate-constellation-uap-bombshell-or-disinformation/"
+},
+{
+"date": "2024-11-14",
+"name": "American Alchemy - 'Breaking UFO Story: Immaculate Constellation (Ft. Michael Shellenberger)'",
+"url": "https://www.youtube.com/watch?v=DPmO-2E7Ayg"
+},
+{
+"date": "2026-08-12",
+"name": "Wikipedia - Michael Shellenberger",
+"url": "https://en.wikipedia.org/wiki/Michael_Shellenberger"
+},
+{
+"date": "2024-11-13",
+"name": "U.S. GPO - Hearing transcript, Serial No. 118-135 (CHRG-118hhrg57440)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm"
+},
+{
+"date": "2024-11-13",
+"name": "Michael Shellenberger, written testimony, House Oversight",
+"url": "https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Shellenberger.pdf"
+},
+{
+"date": "2026-08-12",
+"name": "Wikipedia - Immaculate Constellation (redirects to Schriever wargame article)",
+"url": "https://en.wikipedia.org/wiki/Immaculate_Constellation"
+}
+],
+"status": "active",
+"sub": "Co-founder, Public; University of Austin faculty",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 189 of 1027, score 44). 6 connections, 3 of them custody/witness/funding/programmatic. Axes C1/A0/D3.",
+"timeline": [],
+"unexplainedResidual": null,
+"unverified": [
+"The identity of the Immaculate Constellation source has not been publicly established.",
+"AARO's formal written response to the Immaculate Constellation submission was not retrieved in this pass."
+]
+}

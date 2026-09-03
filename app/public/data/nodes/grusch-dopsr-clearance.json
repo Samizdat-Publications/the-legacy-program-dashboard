@@ -1,0 +1,129 @@
+{
+"A": 2,
+"C": 1,
+"D": 3,
+"band": null,
+"claims": [
+{
+"source": "DoD FOIA case 23-F-0946 release; The Debrief, 5 June 2023",
+"text": "DOPSR cleared Grusch's submissions for open publication on 4 April 2023 and 6 April 2023.",
+"tier": 1
+},
+{
+"source": "DoD FOIA 23-F-0946 release, analyzed by The Black Vault",
+"text": "Internal DOPSR correspondence: reviewer Michelle Whigham raised the sensitive-areas references; Don Kluzik responded that vague references of that kind are not a problem.",
+"tier": 1
+},
+{
+"source": "House Oversight hearing transcript, 26 July 2023",
+"text": "Grusch confirmed the clearance under oath: 'Correct, through DODSR - DoD Prepublication and Security Review.'",
+"tier": 1
+}
+],
+"cls": "document",
+"cluster": "other",
+"connections": [
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "2023",
+"dateStart": "2023",
+"direction": "out",
+"edgeLabel": "Clearance preceded publication by two months",
+"id": "debrief-2023-06-05",
+"l0": false,
+"label": "The Debrief: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin",
+"note": "DOPSR approvals of 4 and 6 April 2023 preceded the 5 June 2023 Debrief publication. Kean and Blumenthal confirmed the clearance before publishing, which is why the Pentagon's response contested substantiation rather than authorization.",
+"sources": [
+{
+"date": "2023-06-05",
+"name": "The Debrief",
+"url": "https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/"
+}
+],
+"tier": "B",
+"type": "temporal"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "2023",
+"dateStart": "2023",
+"direction": "in",
+"edgeLabel": "Cleared Grusch's statements for open publication, 4 and 6 April 2023",
+"id": "dopsr",
+"l0": false,
+"label": "Defense Office of Prepublication and Security Review",
+"note": "DoD's own prepublication review office read the specific words and released them. FOIA case 23-F-0946 documents the submissions of 7 March and 5 April 2023 and the approvals of 4 and 6 April 2023, along with internal reviewer correspondence.",
+"sources": [
+{
+"date": "2023-09-15",
+"name": "DoD FOIA 23-F-0946",
+"url": "https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/23-F-0946-0958-1317-David_Grusch_DOPSR_Request_09-15-23.pdf"
+},
+{
+"date": "2023-09-15",
+"name": "The Black Vault - DOPSR review documents",
+"url": "https://www.theblackvault.com/documentarchive/newly-released-documents-shed-light-on-ufo-whistleblower-david-gruschs-dopsr-review/"
+}
+],
+"tier": "B",
+"type": "institutional"
+}
+],
+"coords": null,
+"dateEnd": "2023",
+"dateStart": "2023",
+"deg": 2,
+"denials": [],
+"desc": "The Department of Defense's own Office of Prepublication and Security Review read David Grusch's proposed public statements and stamped them cleared for open publication on 4 April and 6 April 2023, weeks before The Debrief published. Records released under DoD FOIA case 23-F-0946 show a first submission on 7 March 2023 and a second on 5 April 2023, with security review specialist Michelle Whigham flagging that Grusch made reference to sensitive areas without divulging specifics and colleague Don Kluzik replying that vague references to sensitive areas like this are not a problem. The substantive answers Grusch submitted were withheld under FOIA exemption (b)(6). This document set is the strongest single rebuttal to the framing that Grusch went rogue: the security apparatus of the department that later called his claims unsubstantiated reviewed the words in advance and released them. It also means the government holds, in its own files, the full text of what Grusch proposed to say - a set of answers the public has never seen.",
+"domains": [
+"_rs-archive-mirror",
+"grusch"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "grusch-dopsr-clearance",
+"l0": false,
+"label": "Grusch DOPSR Prepublication Clearance (FOIA 23-F-0946)",
+"locLabel": null,
+"members": null,
+"short": "Grusch DOPSR Prepublication Clearance (FOIA 23-F-0946)",
+"sources": [
+{
+"date": "2026-06-12",
+"name": "Archived: DoD FOIA 23-F-0946 - David Grusch DOPSR Request records (Wayback 2026-06-12)",
+"url": "https://web.archive.org/web/20260612141605/https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/23-F-0946-0958-1317-David_Grusch_DOPSR_Request_09-15-23.pdf"
+},
+{
+"date": "2023-09-15",
+"name": "DoD FOIA 23-F-0946 - David Grusch DOPSR Request records",
+"url": "https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/23-F-0946-0958-1317-David_Grusch_DOPSR_Request_09-15-23.pdf"
+},
+{
+"date": "2023-09-15",
+"name": "The Black Vault - Newly Released Documents Shed Light on David Grusch's DOPSR Review",
+"url": "https://www.theblackvault.com/documentarchive/newly-released-documents-shed-light-on-ufo-whistleblower-david-gruschs-dopsr-review/"
+}
+],
+"sub": "DoD security review approvals, 4 and 6 April 2023",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 560 of 1027, score 27). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D3.",
+"timeline": [
+{
+"date": "2023-04-04",
+"id": "g-tl-2023-04-dopsr",
+"label": "DoD clears Grusch's statements for open publication",
+"precision": "day",
+"strand": "oversight",
+"text": "DOPSR approves his first submission on 4 April and his second on 6 April 2023. Internal reviewer correspondence in the FOIA release shows the sensitive-areas references were raised and judged not a problem.",
+"tier": "A"
+}
+]
+}

@@ -1,0 +1,176 @@
+{
+"A": 2,
+"C": 0,
+"D": 1,
+"band": null,
+"claims": [
+{
+"source": "The Debrief, 30 January 2026",
+"text": "JIATF-401 was established in August 2025 and is directed by Brig. Gen. Matt Ross.",
+"tier": 1
+},
+{
+"source": "DoD Inspector General, DODIG-2026-045, reported 30 January 2026",
+"text": "DODIG-2026-045 (21 January 2026) evaluated ten installations with drone incursions and interviewed officials from 31 DoD components and 4 federal agencies.",
+"tier": 1
+},
+{
+"source": "The Debrief, 30 January 2026",
+"text": "Guidance announced 30 January 2026 removed the 'fence-line' limitation, defined 'unauthorized surveillance' as an explicit threat, and granted commanders 'totality of circumstances' discretion.",
+"tier": 1
+},
+{
+"source": "Cited in The Debrief, 30 January 2026",
+"text": "Restricted-airspace drone sightings rose 26 percent in 2025.",
+"tier": 2
+}
+],
+"cls": "institution",
+"cluster": "oversight",
+"connections": [
+{
+"claimTier": 2,
+"cls": "event",
+"dateEnd": "2026",
+"dateStart": "2026",
+"direction": "out",
+"edgeLabel": "The 2026 bomber-base incursions are the task force's live problem",
+"id": "barksdale-2026-incursions",
+"l0": false,
+"label": "Barksdale AFB and Strategic Base Incursions (Feb-Mar 2026)",
+"note": "Waves of 12-15 jam-resistant drones over a B-52 base during an active bombing campaign, with a single counter-drone fly-away kit fielded, define the capability gap DODIG-2026-045 described.",
+"sources": [
+{
+"date": "2026-03-25",
+"name": "The War Zone - US battled drone incursions over key bases after Epic Fury",
+"url": "https://www.twz.com/news-features/u-s-battled-drone-incursions-over-key-bases-at-home-after-launch-of-epic-fury"
+},
+{
+"date": "2026-01-30",
+"name": "The Debrief - Pentagon expands base commanders' counter-drone authority",
+"url": "https://thedebrief.org/pentagon-expands-base-commanders-authority-to-counter-rising-drone-threats-following-inspector-general-warning/"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "2025",
+"direction": "in",
+"edgeLabel": "Director of JIATF-401 from its establishment",
+"id": "matt-ross",
+"l0": false,
+"label": "Matt Ross",
+"note": "Brig. Gen. Matt Ross directs the counter-drone joint interagency task force established in August 2025.",
+"sources": [
+{
+"date": "2026-01-30",
+"name": "The Debrief - Pentagon expands base commanders' counter-drone authority",
+"url": "https://thedebrief.org/pentagon-expands-base-commanders-authority-to-counter-rising-drone-threats-following-inspector-general-warning/"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": null,
+"dateStart": "2025",
+"direction": "out",
+"edgeLabel": "Task force stood up in August 2025 after two years of unattributed incursions",
+"id": "nj-drone-incursions-2024",
+"l0": false,
+"label": "New Jersey and East Coast Drone Wave (Nov-Dec 2024)",
+"note": "A standing joint interagency task force under a general officer is the institutional refutation of the hobbyist explanation issued eight months earlier.",
+"sources": [
+{
+"date": "2026-01-30",
+"name": "The Debrief - Pentagon expands base commanders' counter-drone authority",
+"url": "https://thedebrief.org/pentagon-expands-base-commanders-authority-to-counter-rising-drone-threats-following-inspector-general-warning/"
+},
+{
+"date": "2024-12-17",
+"name": "The Debrief - Pentagon says mystery drones are common UAS and misidentifications",
+"url": "https://thedebrief.org/pentagon-says-mystery-drones-are-common-unmanned-aerial-systems-and-misidentifications-pose-no-security-threat/"
+}
+],
+"tier": "B",
+"type": "institutional"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "2025",
+"deg": 3,
+"denials": [],
+"desc": "The joint interagency task force the Department stood up in August 2025, directed by Brig. Gen. Matt Ross, to handle unmanned aircraft incursions over US installations after two years in which no existing command could stop them. Its creation is the institutional concession that the 2023-2024 incursions were a real, persistent, unattributed operational problem rather than a public-misperception problem. The Department of Defense Inspector General's report DODIG-2026-045, dated 21 January 2026, evaluated ten installations that had experienced drone incursions and interviewed officials from 31 DoD components and four federal agencies, finding inconsistent policies and approval processes, unclear designation of 'covered' facilities under federal law leaving some installations without counter-drone authority, and approval requirements that delayed deployment of systems bases already possessed. Nine days later, on 30 January 2026, the Department issued guidance removing the 'fence-line' limitation on commanders' response authority, defining 'unauthorized surveillance' as an explicit threat, and granting 'totality of circumstances' discretion. Restricted-airspace sightings had risen 26 percent in 2025.",
+"domains": [
+"aviators-incidents"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "jiatf-401",
+"l0": false,
+"label": "Joint Interagency Task Force 401 (JIATF-401)",
+"locLabel": null,
+"members": null,
+"short": "Joint Interagency Task Force 401 (JIATF-401)",
+"sources": [
+{
+"date": "2026-01-30",
+"name": "The Debrief - Pentagon expands base commanders' counter-drone authority after IG warning",
+"url": "https://thedebrief.org/pentagon-expands-base-commanders-authority-to-counter-rising-drone-threats-following-inspector-general-warning/"
+}
+],
+"sub": "DoD counter-UAS joint interagency task force, est. Aug 2025",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 708 of 1027, score 22). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A2/D1.",
+"timeline": [
+{
+"date": "2025-08-01",
+"id": "av-2025-08-01",
+"label": "JIATF-401 established",
+"precision": "month",
+"strand": "program",
+"text": "The Department stands up Joint Interagency Task Force 401 under Brig. Gen. Matt Ross to handle drone incursions over US installations.",
+"tier": "A"
+},
+{
+"date": "2025-12-31",
+"id": "av-2025-trend",
+"label": "Restricted-airspace sightings up 26 percent",
+"precision": "year",
+"strand": "program",
+"text": "Drone sightings in restricted airspace rose 26 percent during 2025.",
+"tier": "B"
+},
+{
+"date": "2026-01-21",
+"id": "av-2026-01-21",
+"label": "DODIG-2026-045 issued",
+"precision": "day",
+"strand": "oversight",
+"text": "The DoD Inspector General evaluates ten installations with drone incursions and 31 DoD components, finding inconsistent policies, unclear 'covered facility' designations and approval processes that delayed counter-drone deployment.",
+"tier": "A"
+},
+{
+"date": "2026-01-30",
+"id": "av-2026-01-30",
+"label": "Base commanders' authorities expanded",
+"precision": "day",
+"strand": "program",
+"text": "Updated guidance removes the fence-line limitation, defines unauthorized surveillance as an explicit threat and grants commanders 'totality of circumstances' discretion.",
+"tier": "A"
+}
+]
+}

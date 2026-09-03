@@ -1,0 +1,134 @@
+{
+"A": 3,
+"C": 3,
+"D": 2,
+"band": null,
+"claims": [
+{
+"source": "House Oversight Committee hearing, 26 July 2023; NPR contemporaneous report",
+"text": "David Grusch testified under oath to the House Oversight Committee on 26 July 2023 that he was informed of a multi-decade UAP crash retrieval and reverse-engineering programme, and that he made a protected disclosure to the ICIG.",
+"tier": 2
+},
+{
+"source": "AARO Historical Record Report Volume I",
+"text": "AARO's Volume I historical record report (February 2024) states it found no empirical evidence for claims of USG or private-company reverse engineering of extraterrestrial technology, and describes its interview and programme-review methodology in Sections V and VI.",
+"tier": 1
+},
+{
+"source": "DoD OIG DODIG-2023-109",
+"text": "The DoD Inspector General's DODIG-2023-109 evaluation of DoD actions regarding UAP was initiated following personnel complaints and released in unclassified summary on 25 January 2024.",
+"tier": 1
+}
+],
+"cls": "domain",
+"cluster": "other",
+"connections": [
+{
+"claimTier": 2,
+"cls": "domain",
+"dateEnd": null,
+"dateStart": "1947-07-08",
+"direction": "out",
+"edgeLabel": "Retrieval is the programme's input stage",
+"id": "d-recovery",
+"l0": false,
+"label": "Retrieval & Recovery Operations",
+"note": "Grusch's sworn July 2023 account describes retrieval feeding a multi-decade exploitation effort; AARO's Volume I rejects the claim. Both are on the record.",
+"sources": [
+{
+"date": "2024-02-01",
+"name": "AARO, Historical Record Report Volume I",
+"url": "https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf"
+}
+],
+"tier": "B",
+"type": "programmatic"
+},
+{
+"claimTier": 2,
+"cls": "domain",
+"dateEnd": null,
+"dateStart": "1947-07-01",
+"direction": "out",
+"edgeLabel": "Exploitation is the programme's purpose",
+"id": "d-reverse-engineering",
+"l0": false,
+"label": "Reverse Engineering",
+"note": "The legacy claim and the reverse-engineering claim are the same claim stated at different stages; AARO addresses and rejects both in Volume I.",
+"sources": [
+{
+"date": "2024-02-01",
+"name": "AARO, Historical Record Report Volume I",
+"url": "https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf"
+}
+],
+"tier": "B",
+"type": "programmatic"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "1947-07-01",
+"deg": 2,
+"denials": [],
+"desc": "This is the board's central claim expressed as a research domain: that a recovery, exploitation and reverse-engineering effort was stood up in the late 1940s, was subsequently moved outside ordinary acquisition and oversight channels, and has run continuously since - the word 'legacy' being the term used by the witnesses themselves for a programme that predates every currently serving official. The claim's highest-grade attestation is sworn: on 26 July 2023 David Grusch told the House Oversight Committee, under oath and after having filed a protected disclosure with the Intelligence Community Inspector General, that he was informed by named individuals of a multi-decade crash retrieval and reverse-engineering programme, and that he provided that information with witnesses to the ICIG and to Congress. The government's own answer is on the record too: AARO's February 2024 Volume I report found 'no empirical evidence' for the reverse-engineering claim, having interviewed approximately thirty individuals and investigated named programmes. Both documents belong on this board, and the disagreement between them is the research problem rather than its resolution. Scoring high on this domain means an entity is placed inside that continuity by testimony or by document - and the C axis, custody proximity, is the axis that most directly tests it.",
+"domains": [
+"_rs-archive-mirror",
+"w2-taxonomy"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "d-legacy",
+"l0": false,
+"label": "Legacy Program",
+"locLabel": null,
+"members": null,
+"short": "Legacy Program",
+"sources": [
+{
+"date": "2026-05-08",
+"name": "Archived: AARO, Report on the Historical Record of U.S. Government Involvement with UAP, Volume I (Wayback 2026-05-08)",
+"url": "https://web.archive.org/web/20260508180210/https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf"
+},
+{
+"date": "2026-02-06",
+"name": "Archived: DoD OIG - DODIG-2023-109 unclassified summary (Wayback 2026-02-06)",
+"url": "https://web.archive.org/web/20260206140359/https://media.defense.gov/2024/Jan/25/2003381266/-1/-1/1/UNCLASSIFIED%20SUMMARY_UNIDENTIFIED%20ANOMALOUS%20PHENOMENA%20SECURE.PDF"
+},
+{
+"date": "2023-07-27",
+"name": "NPR - U.S. recovered non-human biologics from UFO crash sites, former intel official says",
+"url": "https://www.npr.org/2023/07/27/1190390376/ufo-hearing-non-human-biologics-uaps"
+},
+{
+"date": "2024-02-01",
+"name": "AARO, Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
+"url": "https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf"
+},
+{
+"date": "2024-01-25",
+"name": "DoD OIG - DODIG-2023-109 unclassified summary",
+"url": "https://media.defense.gov/2024/Jan/25/2003381266/-1/-1/1/UNCLASSIFIED%20SUMMARY_UNIDENTIFIED%20ANOMALOUS%20PHENOMENA%20SECURE.PDF"
+}
+],
+"sub": "Core domain - the alleged continuous recovery and reverse-engineering effort, 1940s to present",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 228 of 1027, score 41). 2 connections, 2 of them custody/witness/funding/programmatic. Axes C3/A3/D2.",
+"timeline": [
+{
+"date": "1950-11-21",
+"id": "tx-1950-smith-memo",
+"label": "A foreign official records the American classification level",
+"precision": "day",
+"strand": "program",
+"text": "Wilbert B. Smith, a radio engineer in Canada's Department of Transport, writes an internal memorandum to the Controller of Telecommunications stating that the flying saucer subject is classified higher in the United States than the hydrogen bomb and that a small group is studying it. Its evidentiary value is its provenance: a foreign government official reporting internally, not a claimant addressing the public.",
+"tier": 1
+}
+]
+}

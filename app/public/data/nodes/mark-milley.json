@@ -1,0 +1,126 @@
+{
+"A": 3,
+"C": 1,
+"D": 1,
+"affiliations": [
+"Chairman of the Joint Chiefs of Staff (2019-2023)"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "2023-08-06",
+"event": "States publicly he has seen no evidence of alien craft or a coverup",
+"precision": "day"
+}
+],
+"claims": [
+{
+"source": "Gen. Mark Milley, public remarks, 6 August 2023",
+"text": "Stated he had never encountered evidence supporting claims of alien craft or of a government coverup.",
+"tier": 2
+},
+{
+"source": "CHRG-118hhrg54637 [H.A.S.C. No. 118-20], 29 March 2023 https://www.govinfo.gov/content/pkg/CHRG-118hhrg54637/html/CHRG-118hhrg54637.htm",
+"text": "Milley testified as Chairman of the Joint Chiefs of Staff before House Armed Services on 29 March 2023, listed in the transcript as 'Milley, General Mark A., USA, Chairman, Joint Chiefs of Staff' with his prepared statement printed in the Appendix at page 122. This is the primary record of the office he held across the period Grusch served on the UAP Task Force.",
+"tier": 1
+}
+],
+"cls": "person",
+"cluster": "ic",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2023",
+"dateStart": "2023",
+"direction": "out",
+"edgeLabel": "Chairman of the Joint Chiefs: no evidence of alien craft or coverup",
+"id": "david-grusch",
+"l0": false,
+"label": "David Charles Grusch",
+"note": "Stated 6 August 2023. Recorded as an artifact: under 10 U.S.C. 119 the Deputy Secretary may waive congressional reporting for a SAP with only Gang of Eight notification, so a Chairman's non-knowledge is consistent with the program existing and is data about compartmentation.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Wikipedia - David Grusch UFO whistleblower claims (denials, with contemporaneous citations)",
+"url": "https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims"
+}
+],
+"tier": "A",
+"type": "denial"
+}
+],
+"date": "2023-08-06",
+"dateEnd": null,
+"dateStart": "2023-08-06",
+"deg": 1,
+"denials": [
+{
+"by": {
+"id": "mark-milley",
+"label": "Mark A. Milley"
+},
+"claimTier": 2,
+"denialKind": "directed",
+"label": "Chairman of the Joint Chiefs: no evidence of alien craft or coverup",
+"note": "Stated 6 August 2023. Recorded as an artifact: under 10 U.S.C. 119 the Deputy Secretary may waive congressional reporting for a SAP with only Gang of Eight notification, so a Chairman's non-knowledge is consistent with the program existing and is data about compartmentation.",
+"of": {
+"id": "david-grusch",
+"label": "David Charles Grusch"
+},
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Wikipedia - David Grusch UFO whistleblower claims (denials, with contemporaneous citations)",
+"url": "https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims"
+}
+]
+}
+],
+"domains": [
+"grusch",
+"w16-thin-people"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "mark-milley",
+"instId": "dod",
+"l0": false,
+"label": "Mark A. Milley",
+"loc": "Arlington, VA",
+"locId": "l-pentagon",
+"members": null,
+"narrative": "Milley, as Chairman of the Joint Chiefs during the entire period Grusch served on the UAP Task Force, said publicly on 6 August 2023 that he had never encountered evidence supporting the alien claims or a coverup. The denial is worth recording precisely because of its structure: a Chairman is not automatically read on to waived unacknowledged special access programs, and the Chairman's ignorance of a program is therefore consistent with the program existing. Grusch's own testimony describes the mechanism - 10 U.S.C. 119 permits the Deputy Secretary of Defense to waive congressional reporting, with only the Gang of Eight nominally notified. A denial from the top of the uniformed chain is data about compartmentation, not about existence.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Mark A. Milley",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Wikipedia - David Grusch UFO whistleblower claims (denials section, with contemporaneous citations)",
+"url": "https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims"
+},
+{
+"date": "2026-08-25",
+"name": "U.S. House Committee on Armed Services, 'Fiscal Year 2024 Defense Budget Request' [H.A.S.C. No. 118-20], hearing held 29 March 2023 (CHRG-118hhrg54637)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg54637/html/CHRG-118hhrg54637.htm"
+}
+],
+"status": "former",
+"sub": "Gen., US Army; Chairman of the Joint Chiefs of Staff 2019-2023",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 599 of 1027, score 25). 1 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D1.",
+"timeline": [],
+"unexplainedResidual": null,
+"unverified": [
+"Whether Milley was ever read on to any waived unacknowledged SAP touching UAP material."
+]
+}

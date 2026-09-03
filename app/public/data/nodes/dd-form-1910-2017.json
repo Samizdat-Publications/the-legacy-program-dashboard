@@ -1,0 +1,200 @@
+{
+"A": 3,
+"C": 2,
+"D": 3,
+"band": null,
+"claims": [
+{
+"source": "DD Form 1910 released under FOIA, published by Blue Blurry Lines, 17 August 2019",
+"text": "Submitted by Luis D. Elizondo, Director, National Programs Special Management Staff, OUSD(I), on 9 August 2017 and approved 24 August 2017, covering three .mpg files: GoFast, Gimbal and FLIR.",
+"tier": 1
+},
+{
+"source": "DD Form 1910, FOIA release",
+"text": "States the purpose as 'Not for publication. Research and analysis ONLY and info sharing with other USG and industry partners for the purposes of developing a database to help identify, analyze, and ultimately defeat UAS threats.'",
+"tier": 1
+},
+{
+"source": "Blue Blurry Lines, 17 August 2019",
+"text": "The version originally published by George Knapp had Elizondo's name and DoD title redacted; the unredacted FOIA copy identifies him.",
+"tier": 2
+}
+],
+"cls": "document",
+"cluster": "witness",
+"connections": [
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "2019",
+"dateStart": "2017",
+"direction": "out",
+"edgeLabel": "Prepublication review chain for the video files",
+"id": "dopsr",
+"l0": false,
+"label": "Defense Office of Prepublication and Security Review",
+"note": "The Navy later said DOPSR held no record of a request for unrestricted release of the videos in 2017 — consistent with the form's 'not for publication' framing.",
+"sources": [
+{
+"date": "2019-09-10",
+"name": "The Black Vault",
+"url": "https://www.theblackvault.com/documentarchive/u-s-navy-confirms-videos-depict-unidentified-aerial-phenomena-not-cleared-for-public-release/"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "2019",
+"dateStart": "2019",
+"direction": "in",
+"edgeLabel": "'Neither the cognizant Navy offices nor DOPSR have record' of a 2017 unrestricted-release request",
+"id": "joseph-gradisher",
+"l0": false,
+"label": "Joseph Gradisher",
+"note": "A denial that is narrowly correct: the DD-1910 sought internal distribution and expressly said 'not for publication'. It rebuts TTSA's framing without rebutting the form's existence.",
+"sources": [
+{
+"date": "2019-09-10",
+"name": "The Black Vault",
+"url": "https://www.theblackvault.com/documentarchive/u-s-navy-confirms-videos-depict-unidentified-aerial-phenomena-not-cleared-for-public-release/"
+}
+],
+"tier": "C",
+"type": "denial"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "2017",
+"dateStart": "2017",
+"direction": "in",
+"edgeLabel": "Submitted the clearance request for the three video files, 9 Aug 2017",
+"id": "luis-elizondo",
+"l0": false,
+"label": "Luis D. Elizondo",
+"note": "The form bears his name and OUSD(I) title. It is the documentary link between him and the AATIP-associated imagery, and it was approved 24 August 2017.",
+"sources": [
+{
+"date": "2019-08-17",
+"name": "Blue Blurry Lines — DD Form 1910 FOIA release",
+"url": "https://www.blueblurrylines.com/2019/08/documents-released-via-foia-on-aatip.html"
+}
+],
+"tier": "A",
+"type": "custody"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "2017",
+"dateStart": "2017",
+"direction": "out",
+"edgeLabel": "Cleared the GoFast, Gimbal and FLIR files for internal distribution only",
+"id": "navy-flir-gimbal-gofast-videos",
+"l0": false,
+"label": "FLIR1, Gimbal and GoFast Navy gun-camera videos",
+"note": "The form's stated purpose expressly excludes publication: research and analysis only, for a UAS threat database. This is the narrow basis on which the Navy later said no unrestricted release was ever authorised.",
+"sources": [
+{
+"date": "2019-08-17",
+"name": "Blue Blurry Lines",
+"url": "https://www.blueblurrylines.com/2019/08/documents-released-via-foia-on-aatip.html"
+}
+],
+"tier": "B",
+"type": "custody"
+}
+],
+"coords": null,
+"dateEnd": "2017",
+"dateStart": "2017",
+"deg": 4,
+"denials": [
+{
+"by": {
+"id": "joseph-gradisher",
+"label": "Joseph Gradisher"
+},
+"claimTier": 1,
+"denialKind": "directed",
+"label": "'Neither the cognizant Navy offices nor DOPSR have record' of a 2017 unrestricted-release request",
+"note": "A denial that is narrowly correct: the DD-1910 sought internal distribution and expressly said 'not for publication'. It rebuts TTSA's framing without rebutting the form's existence.",
+"of": {
+"id": "dd-form-1910-2017",
+"label": "DD Form 1910 for GoFast, Gimbal and FLIR video files"
+},
+"sources": [
+{
+"date": "2019-09-10",
+"name": "The Black Vault",
+"url": "https://www.theblackvault.com/documentarchive/u-s-navy-confirms-videos-depict-unidentified-aerial-phenomena-not-cleared-for-public-release/"
+}
+]
+}
+],
+"desc": "A Department of Defense Clearance Request for Public Release of Department of Defense Information, submitted by Luis D. Elizondo in his capacity as Director, National Programs Special Management Staff, OUSD(I), on 9 August 2017 and approved on 24 August 2017. It covers three .mpg files named 'GoFast', 'Gimbal' and 'FLIR'. The stated purpose is precise and, read carefully, does not authorise publication: 'Not for publication. Research and analysis ONLY and info sharing with other USG and industry partners for the purposes of developing a database to help identify, analyze, and ultimately defeat UAS threats.' The subject matter is described in terms of UAV, balloons and other unmanned aircraft systems, with no reference to unidentified phenomena. This one form carries most of the weight in the dispute over how the videos entered the public record: it proves Elizondo processed the AATIP-associated imagery from inside OUSD(I) in August 2017, and it simultaneously undercuts the claim that the government cleared the footage for public release. The Navy's Joseph Gradisher later stated that neither the cognizant Navy offices nor DOPSR had any record of a request for unrestricted release in 2017.",
+"domains": [
+"elizondo-ttsa"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "dd-form-1910-2017",
+"l0": false,
+"label": "DD Form 1910 for GoFast, Gimbal and FLIR video files",
+"locLabel": null,
+"members": null,
+"short": "DD Form 1910 for GoFast, Gimbal and FLIR video files",
+"sources": [
+{
+"date": "2019-08-17",
+"name": "Blue Blurry Lines — Documents Released via FOIA on the AATIP UFO Videos",
+"url": "https://www.blueblurrylines.com/2019/08/documents-released-via-foia-on-aatip.html"
+},
+{
+"date": "2019-09-10",
+"name": "The Black Vault — U.S. Navy Confirms Videos Depict 'Unidentified Aerial Phenomena'; Not Cleared For Public Release",
+"url": "https://www.theblackvault.com/documentarchive/u-s-navy-confirms-videos-depict-unidentified-aerial-phenomena-not-cleared-for-public-release/"
+}
+],
+"sub": "Clearance request submitted 9 August 2017, approved 24 August 2017",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 182 of 1027, score 45). 4 connections, 2 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D3.",
+"timeline": [
+{
+"date": "2017-08-09",
+"id": "tl-2017-08-09-dd1910",
+"label": "DD Form 1910 submitted",
+"precision": "day",
+"strand": "program",
+"text": "Elizondo, as Director of the National Programs Special Management Staff, submits a clearance request for three .mpg files — GoFast, Gimbal and FLIR — for research and analysis only, expressly 'not for publication'.",
+"tier": "A"
+},
+{
+"date": "2017-08-24",
+"id": "tl-2017-08-24-dd1910-approved",
+"label": "DD Form 1910 approved",
+"precision": "day",
+"strand": "program",
+"text": "The clearance request is approved. Forty-one days later Elizondo resigns; six weeks after that the files appear in the New York Times.",
+"tier": "A"
+},
+{
+"date": "2019-08-17",
+"id": "tl-2019-08-17-dd1910-public",
+"label": "DD Form 1910 released via FOIA",
+"precision": "day",
+"strand": "oversight",
+"text": "The unredacted form is published, identifying Elizondo by name and OUSD(I) title as the officer who cleared the three video files in August 2017.",
+"tier": "A"
+}
+]
+}

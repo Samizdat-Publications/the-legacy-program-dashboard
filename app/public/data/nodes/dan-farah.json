@@ -1,0 +1,112 @@
+{
+"A": 0,
+"C": 0,
+"D": 3,
+"affiliations": [
+"The Age of Disclosure (director/producer)",
+"Farah Films"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "2025-03-09",
+"event": "The Age of Disclosure premieres at SXSW, Austin, Texas.",
+"precision": "day"
+}
+],
+"claims": [
+{
+"source": "The Age of Disclosure, official trailer description, 2025",
+"text": "The Age of Disclosure features 34 senior members of the US Government, military and intelligence community and asserts an 80-year global cover-up of non-human intelligent life and a secret war.",
+"tier": 2
+},
+{
+"source": "The Age of Disclosure, official teaser description",
+"text": "On-record participants include General James Clapper, Secretary Marco Rubio, Representative Andre Carson and Jay Stratton, former director of the UAP Task Force.",
+"tier": 2
+},
+{
+"source": "Contemporaneous festival preview coverage, March 2025",
+"text": "The film premiered at the SXSW festival in Austin, Texas on Sunday 9 March 2025.",
+"tier": 2
+}
+],
+"cls": "person",
+"cluster": "media",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 2,
+"cls": "document",
+"dateEnd": "2025",
+"dateStart": "2025",
+"direction": "out",
+"edgeLabel": "Director and producer",
+"id": "age-of-disclosure",
+"l0": false,
+"label": "The Age of Disclosure (documentary, 2025)",
+"note": "Farah directed and produced the film that premiered at SXSW on 9 March 2025.",
+"sources": [
+{
+"date": "2025-03-09",
+"name": "The Age of Disclosure - trailer",
+"url": "https://www.youtube.com/watch?v=DkU7ZqbADRs"
+}
+],
+"tier": "C",
+"type": "institutional"
+}
+],
+"date": "2025-03-09",
+"dateEnd": null,
+"dateStart": "2025-03-09",
+"deg": 1,
+"denials": [],
+"domains": [
+"media-structure"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "dan-farah",
+"instId": "age-of-disclosure",
+"l0": false,
+"label": "Dan Farah",
+"loc": "Los Angeles, CA",
+"locId": "l-la",
+"members": null,
+"narrative": "Dan Farah directed and produced The Age of Disclosure, which premiered at SXSW in Austin on 9 March 2025 and is the highest-status artefact the movement has produced: a documentary featuring thirty-four senior members of the US government, military and intelligence community speaking on camera about an eighty-year cover-up of non-human intelligence. The on-record roster is what makes it structurally significant rather than merely persuasive - it includes former Director of National Intelligence James Clapper, Senator and Secretary of State Marco Rubio, Representative Andre Carson, and Jay Stratton, former director of the government's UAP Task Force. When a sitting Secretary of State and a former DNI appear in the same film asserting the existence of a concealed programme, the denial posture becomes very hard to sustain, and the film has functioned since as a citation of first resort for the claim that senior officials themselves believe it.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Dan Farah",
+"sources": [
+{
+"date": "2025-03-09",
+"name": "The Age of Disclosure - Official Trailer (2025)",
+"url": "https://www.youtube.com/watch?v=DkU7ZqbADRs"
+},
+{
+"date": "2025-11-01",
+"name": "The Age of Disclosure - Official Teaser",
+"url": "https://www.youtube.com/watch?v=AZo-Q-FXoXM"
+},
+{
+"date": "2026-07-01",
+"name": "VICE News / The Age of Disclosure - 'Who Actually Controls the UAP Secrets? w/ Dan Farah'",
+"url": "https://www.youtube.com/watch?v=MWM5AtR3n9o"
+}
+],
+"status": "active",
+"sub": "Director/producer, The Age of Disclosure",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 917 of 1027, score 13). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.",
+"timeline": [],
+"unexplainedResidual": null,
+"unverified": []
+}

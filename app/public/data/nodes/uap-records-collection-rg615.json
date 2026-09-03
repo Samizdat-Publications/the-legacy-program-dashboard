@@ -1,0 +1,164 @@
+{
+"A": 1,
+"C": 1,
+"D": 3,
+"band": null,
+"claims": [
+{
+"source": "National Archives, UAP records research page, archives.gov/uap",
+"text": "The collection is designated Record Group 615 and was established pursuant to Secs. 1841-1843 of the FY2024 NDAA, P.L. 118-31.",
+"tier": 1
+},
+{
+"source": "National Archives, UAP records research page, archives.gov/uap",
+"text": "NARA issued guidance to federal agencies on 'Transfer of Publicly Releasable Unidentified Anomalous Phenomena (UAP) Records' dated April 2025.",
+"tier": 1
+},
+{
+"source": "P.L. 118-31, Sec. 1841(d)(2), GPO",
+"text": "Sec. 1841(d)(2) requires the NARA National Security Program Office, with the Information Security Oversight Office, to run a security programme for the postponed and yet-to-be-disclosed portion of the collection.",
+"tier": 1
+},
+{
+"source": "Inference from the April 2025 guidance date against the deadline computed from the 22 December 2023 enactment date",
+"text": "That NARA's transfer guidance is dated April 2025, roughly six months after the statutory 300-day agency deadline of 17 October 2024, indicates the agency review requirement was not met on time.",
+"tier": 3
+}
+],
+"cls": "institution",
+"cluster": "oversight",
+"connections": [
+{
+"claimTier": 3,
+"cls": "event",
+"dateEnd": "2026",
+"dateStart": "2024",
+"direction": "out",
+"edgeLabel": "Agency compliance ran nineteen months past the statutory deadline",
+"id": "dow-uap-file-release-2026",
+"l0": false,
+"label": "Department of War release of UAP files",
+"note": "The Sec. 1842(c)(1) agency review deadline fell on 17 October 2024; NARA's transfer guidance is dated April 2025 and the author of the statute described the May 2026 release as the administration only beginning to meet its legal obligation.",
+"sources": [
+{
+"date": "2023-12-22",
+"name": "P.L. 118-31, FY2024 NDAA — GPO",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm"
+},
+{
+"date": "2025-04-24",
+"name": "National Archives — UAP records",
+"url": "https://www.archives.gov/uap"
+},
+{
+"date": "2026-05-08",
+"name": "Gillibrand statement on release of UAP files",
+"url": "https://www.gillibrand.senate.gov/news/press/release/gillibrand-statement-on-release-of-uap-files/"
+}
+],
+"tier": "C",
+"type": "temporal"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2024",
+"direction": "in",
+"edgeLabel": "NARA is custodian without power to compel transmission",
+"id": "national-archives",
+"l0": false,
+"label": "National Archives and Records Administration",
+"note": "The Archivist must preserve, index and publish, but Secs. 1842 and 1843 put identification, transmission and postponement in the hands of the agencies and their original classification authorities.",
+"sources": [
+{
+"date": "2023-12-22",
+"name": "P.L. 118-31, FY2024 NDAA — GPO",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm"
+},
+{
+"date": "2025-04-24",
+"name": "National Archives — UAP records",
+"url": "https://www.archives.gov/uap"
+}
+],
+"tier": "B",
+"type": "custody"
+},
+{
+"claimTier": 1,
+"cls": "legislation",
+"dateEnd": null,
+"dateStart": "2024",
+"direction": "in",
+"edgeLabel": "Secs. 1841-1843 created RG 615 at the National Archives",
+"id": "ndaa-fy2024-subtitle-c",
+"l0": false,
+"label": "P.L. 118-31 Subtitle C — Secs. 1841-1843 (what survived)",
+"note": "The collection is the only concrete institution produced by the entire UAPDA fight.",
+"sources": [
+{
+"date": "2025-04-24",
+"name": "National Archives — UAP records",
+"url": "https://www.archives.gov/uap"
+},
+{
+"date": "2023-12-22",
+"name": "P.L. 118-31, FY2024 NDAA — GPO",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm"
+}
+],
+"tier": "B",
+"type": "institutional"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "2024",
+"deg": 3,
+"denials": [],
+"desc": "RG 615 is the only thing the UAPDA fight actually built. Established under Sections 1841-1843 of P.L. 118-31, it is a dedicated National Archives record group into which every Federal agency is required to transmit copies of its UAP records, with the Archivist obliged to preserve physical integrity and original provenance, publish a subject guidebook and index, make records available for inspection within 30 days of transmission and online within a further 180 days, and maintain a central directory of identification aids. The National Security Program Office at NARA, working with the Information Security Oversight Office, is required to run a security programme for the postponed, still-classified portion. NARA issued guidance to agencies on transferring publicly releasable UAP records in April 2025 — sixteen months after enactment and roughly six months after the statutory 300-day agency review deadline of 17 October 2024 had already passed — and states that records will be added 'on an ongoing, rolling basis as they are received from federal agencies.' The collection is the measurable test of the enacted statute: it exists, it is real, and its rate of fill is the honest metric for whether Sections 1841-1843 accomplish anything without the Review Board that was supposed to force them.",
+"domains": [
+"congress-senate-legislation"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "uap-records-collection-rg615",
+"l0": false,
+"label": "Unidentified Anomalous Phenomena Records Collection (NARA Record Group 615)",
+"locLabel": null,
+"members": null,
+"short": "Unidentified Anomalous Phenomena Records Collection (NARA Record Group 615)",
+"sources": [
+{
+"date": "2025-04-24",
+"name": "National Archives — UAP records",
+"url": "https://www.archives.gov/uap"
+},
+{
+"date": "2023-12-22",
+"name": "P.L. 118-31, Sec. 1841 — GPO",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm"
+}
+],
+"sub": "National Archives collection created under Secs. 1841-1843",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 501 of 1027, score 29). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A1/D3.",
+"timeline": [
+{
+"date": "2025-04-01",
+"id": "cl-2025-04-01",
+"label": "NARA issues transfer guidance",
+"precision": "month",
+"strand": "oversight",
+"text": "Sixteen months after enactment and roughly six months after the statutory agency deadline, the National Archives issues guidance on transferring publicly releasable UAP records into Record Group 615.",
+"tier": "B"
+}
+]
+}

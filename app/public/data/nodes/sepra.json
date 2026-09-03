@@ -1,0 +1,124 @@
+{
+"A": 1,
+"C": 1,
+"D": 2,
+"band": null,
+"claims": [
+{
+"source": "Wikipedia, 'GEIPAN', citing Kreidler, Skeptical Inquirer (2009)",
+"text": "GEPAN was renamed SEPRA (Service d'Expertise des Phénomènes de Rentrée Atmosphérique) in 1988, then to Service d'Expertise des Phénomènes Rares Aérospatiaux in 2000, then to GEIPAN in 2005.",
+"tier": 2
+},
+{
+"source": "COMETA report, recommendation 2, 1999 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"text": "COMETA recommendation 2 targets SEPRA directly, asking that it 'collect information relating to all UFO manifestations, both in Europe and throughout the world' and 'boost its representation and foreign relations status'.",
+"tier": 2
+}
+],
+"cls": "program",
+"cluster": "research",
+"connections": [
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": "1999-07",
+"direction": "in",
+"edgeLabel": "recommended boosting SEPRA's resources and foreign relations status",
+"id": "doc-cometa-report",
+"l0": false,
+"label": "Les OVNI et la Défense: à quoi doit-on se préparer? (COMETA report, July 1999)",
+"note": "Recommendation 2 asks the French state to expand the very office whose serving head had contributed to the report.",
+"sources": [
+{
+"date": "1999-07-01",
+"name": "COMETA report",
+"url": "https://ia800403.us.archive.org/17/items/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D.pdf"
+}
+],
+"tier": "B",
+"type": "legislative"
+},
+{
+"claimTier": 2,
+"cls": "institution",
+"dateEnd": "2005",
+"dateStart": "2005",
+"direction": "out",
+"edgeLabel": "renamed GEIPAN in 2005",
+"id": "geipan",
+"l0": true,
+"label": "GEIPAN - Groupe d'Études et d'Informations sur les Phénomènes Aérospatiaux Non identifiés",
+"note": "Jacques Patenet succeeded Velasco under the GEIPAN name.",
+"sources": [
+{
+"date": "2026-01-01",
+"name": "GEIPAN - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/GEIPAN"
+}
+],
+"tier": "A",
+"type": "temporal"
+},
+{
+"claimTier": 2,
+"cls": "program",
+"dateEnd": "1988",
+"dateStart": "1988",
+"direction": "in",
+"edgeLabel": "renamed SEPRA in 1988",
+"id": "gepan",
+"l0": false,
+"label": "GEPAN - Groupe d'Étude des Phénomènes Aérospatiaux Non-identifiés",
+"note": "GEPAN became SEPRA in 1988 and the acronym was redefined in 2000 before the 2005 renaming to GEIPAN.",
+"sources": [
+{
+"date": "2026-01-01",
+"name": "GEIPAN - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/GEIPAN"
+}
+],
+"tier": "C",
+"type": "temporal"
+}
+],
+"coords": null,
+"dateEnd": "2004",
+"dateStart": "1988",
+"deg": 3,
+"denials": [],
+"desc": "SEPRA is the name GEPAN carried from 1988 to 2004 and the name under which the French service appears in the COMETA report. The renaming is itself informative: the office was rebadged in 1988 as the Atmospheric Re-entry Phenomena Expertise Department, a title that describes space-debris re-entry rather than UAP, and only in 2000 was the acronym redefined to Service d'Expertise des Phénomènes Rares Aérospatiaux, rare aerospace phenomena. Jean-Jacques Velasco headed it throughout. The Gendarmerie routing arrangement continued, giving SEPRA access to a national database of reports, and CNES technical resources remained available for physical-trace cases such as Trans-en-Provence in 1981. COMETA's second recommendation was directed squarely at this office: boost SEPRA's human and material resources, extend its collection to all of Europe and worldwide, maintain and develop its databases, and raise its foreign-relations status. The service was renamed GEIPAN in 2005 and Velasco was succeeded by Jacques Patenet.",
+"domains": [
+"w2-international"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "1",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "sepra",
+"l0": false,
+"label": "SEPRA - Service d'Expertise des Phénomènes de Rentrée Atmosphérique / Phénomènes Rares Aérospatiaux",
+"locLabel": null,
+"members": null,
+"short": "SEPRA - Service d'Expertise des Phénomènes de Rentrée Atmosphérique / Phénomènes Rares Aérospatiaux",
+"sources": [
+{
+"date": "2026-01-01",
+"name": "GEIPAN - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/GEIPAN"
+},
+{
+"date": "1999-07-01",
+"name": "COMETA report",
+"url": "https://ia800403.us.archive.org/17/items/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D.pdf"
+}
+],
+"sub": "CNES successor to GEPAN, 1988-2004",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 813 of 1027, score 18). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D2.",
+"timeline": []
+}

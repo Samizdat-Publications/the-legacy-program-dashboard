@@ -1,0 +1,350 @@
+{
+"A": 1,
+"C": 0,
+"D": 3,
+"band": null,
+"claims": [
+{
+"source": "H.R. 2670 (EAS), Division I",
+"text": "Division I of H.R. 2670 as passed by the Senate on 27 July 2023 was the 'Unidentified Anomalous Phenomena Disclosure Act of 2023', Sections 9001-9010, including a Review Board and eminent domain over recovered technologies of unknown origin.",
+"tier": 1
+},
+{
+"source": "P.L. 118-31",
+"text": "The enacted FY2024 NDAA (P.L. 118-31) contains Subtitle C, Sections 1841-1843, establishing the UAP Records Collection at NARA without the Review Board or eminent domain provisions.",
+"tier": 1
+},
+{
+"source": "P.L. 118-159, Sec. 6802",
+"text": "NDAA FY2025 (P.L. 118-159) Section 6802 is titled 'Sunset of requirements relating to audits of unidentified anomalous phenomena historical record report'.",
+"tier": 1
+},
+{
+"source": "The Debrief, 'A Dramatic Dilution', 22 December 2023",
+"text": "The dilution of the Schumer-Rounds disclosure language during the FY2024 conference was reported contemporaneously as a deliberate weakening rather than a drafting accident.",
+"tier": 2
+}
+],
+"cls": "domain",
+"cluster": "oversight",
+"connections": [
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2023-08-22",
+"direction": "in",
+"edgeLabel": "the member bloc that forces briefings and carries amendments outside committee jurisdiction",
+"id": "congressional-uap-caucus",
+"l0": true,
+"label": "Congressional UAP Caucus",
+"note": "Launched by Rep. Tim Burchett on 22 August 2023 alongside a caucus letter to the Intelligence Community Inspector General, with documented members including Burchett, Luna, Burlison, Moskowitz and Ogles. Its confirmed operational achievement is the 12 January 2024 closed briefing; Ogles is a member without an Oversight seat, which is how the caucus extends reach beyond the committee.",
+"sources": [
+{
+"date": "2023-08-22",
+"name": "Rep. Tim Burchett, 'Rep. Burchett Launches UAP Caucus, Leads Letter to Intelligence Community Inspector General'",
+"url": "https://burchett.house.gov/media/press-releases/rep-burchett-launches-uap-caucus-leads-letter-intelligence-community-inspector"
+},
+{
+"date": "2024-01-12",
+"name": "The Hill, 'Classified UFO briefing: House members emerge with mixed feelings'",
+"url": "https://thehill.com/homenews/house/4406059-classified-ufo-briefing-house-members-mixed-feelings/"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "domain",
+"dateEnd": "2023-12-22",
+"dateStart": "2023-07-27",
+"direction": "out",
+"edgeLabel": "Proposal versus enactment",
+"id": "d-legislation",
+"l0": false,
+"label": "Enacted Statute",
+"note": "Division I of the Senate-passed H.R. 2670 contained a Review Board and eminent domain; P.L. 118-31 as enacted did not. The gap between these two documents is the domain boundary.",
+"sources": [
+{
+"date": "2023-07-27",
+"name": "H.R. 2670 (EAS), Division I - UAP Disclosure Act of 2023",
+"url": "https://www.govinfo.gov/content/pkg/BILLS-118hr2670eas/html/BILLS-118hr2670eas.htm"
+},
+{
+"date": "2023-12-22",
+"name": "NDAA FY2024 (P.L. 118-31)",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm"
+}
+],
+"tier": "C",
+"type": "legislative"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "2025-09-09",
+"dateStart": "2023-07-26",
+"direction": "in",
+"edgeLabel": "the venue where the record is made under oath, and the only House committee with unilateral subpoena power in the chair's hands",
+"id": "house-oversight-committee",
+"l0": true,
+"label": "U.S. House Committee on Oversight and Government Reform",
+"note": "Oversight held the 26 July 2023 hearing, the 13 November 2024 hearing and, through its declassification task force, the 9 September 2025 hearing. Sworn testimony taken in this committee is the mechanism by which allegations enter the legislative process at all, which is a different function from enacting text.",
+"sources": [
+{
+"date": "2023-07-26",
+"name": "House Oversight hearing transcript, 'UAP: Implications on National Security, Public Safety, and Government Transparency' (CHRG-118hhrg53022)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm"
+},
+{
+"date": "2024-11-13",
+"name": "House Oversight hearing transcript, 'UAP: Exposing the Truth' (CHRG-118hhrg57440)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm"
+},
+{
+"date": "2025-09-09",
+"name": "House Oversight Task Force hearing transcript, 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection' (CHRG-119hhrg61718)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 2,
+"cls": "legislation",
+"dateEnd": "2023-12-22",
+"dateStart": "2023-06-22",
+"direction": "in",
+"edgeLabel": "a committee-reported provision that did not survive conference in the form reported",
+"id": "iaa-fy2024-sec-1102",
+"l0": true,
+"label": "IAA FY2024 Sec. 1102 — contractor turn-in of 'non-earth origin or exotic' UAP material",
+"note": "The Senate Select Committee on Intelligence's UAP provision in the reported IAA FY2024 would have compelled contractor turn-in of UAP material within 180 days. The enacted counterpart in Division G of P.L. 118-31 differed substantially from the text approved by Senate committees and by the full Senate. Its home is the process domain because what is interesting about it is the gap between what was reported and what was enacted.",
+"sources": [
+{
+"date": "2023-06-22",
+"name": "S. 2103, 118th Congress, Intelligence Authorization Act for Fiscal Year 2024, as reported (Congress.gov)",
+"url": "https://www.congress.gov/bill/118th-congress/senate-bill/2103/text"
+},
+{
+"date": "2023-12-24",
+"name": "Douglas Dean Johnson (Mirador), 'Senate Intelligence bill gives holders of \"non-earth origin or exotic UAP material\" six months to make it available to AARO'",
+"url": "https://douglasjohnson.ghost.io/senate-intelligence-bill-gives-holders-of-non-earth-origin-six-months/"
+},
+{
+"date": "2023-12-22",
+"name": "Public Law 118-31, National Defense Authorization Act for FY2024, incl. Div. G (IAA FY2024) (GPO)",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm"
+}
+],
+"tier": "A",
+"type": "legislative"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": "2023-07-13",
+"direction": "in",
+"edgeLabel": "the filing instrument - where the process starts and where its text is fixed",
+"id": "samdt-797",
+"l0": true,
+"label": "S.Amdt. 797 to S. 2226 (Schumer-Rounds UAP Disclosure Act amendment)",
+"note": "Submitted 13 July 2023 by Senator Schumer for himself and Senators Rounds, Rubio, Gillibrand, Young and Heinrich, ordered to lie on the table, text printed in the Congressional Record at pages S2953-S2959. The amendment, not the bill, is the object that carries the disclosure text, which is the process fact this domain exists to record.",
+"sources": [
+{
+"date": "2023-07-13",
+"name": "Congressional Record, 13 July 2023, text of S.Amdt. 797 (CREC-2023-07-13-pt1-PgS2953)",
+"url": "https://www.govinfo.gov/content/pkg/CREC-2023-07-13/html/CREC-2023-07-13-pt1-PgS2953.htm"
+},
+{
+"date": "2023-07-27",
+"name": "S. 2226, 118th Congress, Engrossed in Senate - Division G, UAP Disclosure Act of 2023 (GPO)",
+"url": "https://www.govinfo.gov/content/pkg/BILLS-118s2226es/html/BILLS-118s2226es.htm"
+}
+],
+"tier": "B",
+"type": "legislative"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2023",
+"direction": "in",
+"edgeLabel": "owns the only vehicle the disclosure text has ever ridden, and has never reported it",
+"id": "senate-armed-services",
+"l0": true,
+"label": "Senate Armed Services Committee",
+"note": "Every version of the Act - 2023, 2024 and the announced later attempts - has reached the floor as an amendment to a SASC bill rather than as a committee product, which means no committee report, no markup record and no members professionally invested in defending it in conference. A committee's non-action is a process fact and belongs in this domain.",
+"sources": [
+{
+"date": "2023-12-22",
+"name": "Public Law 118-31, National Defense Authorization Act for FY2024, incl. Div. G (IAA FY2024) (GPO)",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm"
+},
+{
+"date": "2026-06-15",
+"name": "S. 4784, 119th Congress, reported in Senate (GPO)",
+"url": "https://www.govinfo.gov/content/pkg/BILLS-119s4784rs/html/BILLS-119s4784rs.htm"
+},
+{
+"date": "2023-07-13",
+"name": "Congressional Record, 13 July 2023, text of S.Amdt. 797 (CREC-2023-07-13-pt1-PgS2953)",
+"url": "https://www.govinfo.gov/content/pkg/CREC-2023-07-13/html/CREC-2023-07-13-pt1-PgS2953.htm"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "legislation",
+"dateEnd": "2023-12-22",
+"dateStart": "2023-07-13",
+"direction": "in",
+"edgeLabel": "passed one chamber, stripped in conference - the domain's instructive defeat",
+"id": "uapda-2023",
+"l0": true,
+"label": "UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)",
+"note": "The only text ever passed by a chamber of Congress legislating on the assumption that recovered non-human technology exists and is held in part by private entities. It rode to the Senate floor as an amendment, cleared the Senate as a division of S. 2226, and did not survive conference into P.L. 118-31 in that form. The mechanism of the defeat is the lesson, which is why it belongs to process rather than to statute.",
+"sources": [
+{
+"date": "2023-07-27",
+"name": "S. 2226, 118th Congress, Engrossed in Senate - Division G, UAP Disclosure Act of 2023 (GPO)",
+"url": "https://www.govinfo.gov/content/pkg/BILLS-118s2226es/html/BILLS-118s2226es.htm"
+},
+{
+"date": "2023-07-13",
+"name": "Congressional Record, 13 July 2023, text of S.Amdt. 797 (CREC-2023-07-13-pt1-PgS2953)",
+"url": "https://www.govinfo.gov/content/pkg/CREC-2023-07-13/html/CREC-2023-07-13-pt1-PgS2953.htm"
+},
+{
+"date": "2023-12-22",
+"name": "Public Law 118-31, National Defense Authorization Act for FY2024, incl. Div. G (IAA FY2024) (GPO)",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm"
+}
+],
+"tier": "A",
+"type": "legislative"
+},
+{
+"claimTier": 1,
+"cls": "legislation",
+"dateEnd": null,
+"dateStart": "2026-07-22",
+"direction": "in",
+"edgeLabel": "the successor framework, and the first time such a text has cleared the House floor",
+"id": "uapda-fy2027-house-adopted",
+"l0": true,
+"label": "Unidentified Anomalous Phenomena Disclosure Act - Burlison amendment to the FY2027 NDAA",
+"note": "Adopted by the House on 22 July 2026 as an amendment to the FY2027 NDAA, after a similar proposal failed to advance in the previous defence-bill cycle. As of this pass it is an adopted House amendment, not law, which is precisely the status distinction this domain is for.",
+"sources": [
+{
+"date": "2026-07-22",
+"name": "Rep. Eric Burlison, 'House Adopts Burlison Amendment Establishing UAP Disclosure Framework'",
+"url": "https://burlison.house.gov/media/press-releases/house-adopts-burlison-amendment-establishing-uap-disclosure-framework"
+}
+],
+"tier": "B",
+"type": "legislative"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "2026-07-22",
+"dateStart": "2023-07-26",
+"direction": "in",
+"edgeLabel": "the chamber where the text was stripped in 2023 and where a successor passed in 2026",
+"id": "us-house",
+"l0": true,
+"label": "United States House of Representatives",
+"note": "The House is where UAP oversight became public through the July 2023 Oversight hearing, where House leadership's role in the conference removal of the disclosure title became a contested question, and where the Burlison amendment was adopted on 22 July 2026. Both the defeat and the advance ran through the same chamber.",
+"sources": [
+{
+"date": "2023-07-26",
+"name": "House Oversight hearing transcript, 'UAP: Implications on National Security, Public Safety, and Government Transparency' (CHRG-118hhrg53022)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm"
+},
+{
+"date": "2023-11-30",
+"name": "The Hill, 'House lawmakers demand transparency from leaders on UAP amendment's inclusion in Defense bill'",
+"url": "https://thehill.com/policy/defense/4337149-house-lawmakers-demand-transparency-from-leaders-on-uap-amendments-inclusion-in-defense-bill/"
+},
+{
+"date": "2026-07-22",
+"name": "Rep. Eric Burlison, 'House Adopts Burlison Amendment Establishing UAP Disclosure Framework'",
+"url": "https://burlison.house.gov/media/press-releases/house-adopts-burlison-amendment-establishing-uap-disclosure-framework"
+}
+],
+"tier": "B",
+"type": "institutional"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "2021-12-27",
+"deg": 9,
+"denials": [],
+"desc": "Legislation is where the disclosure fight has produced its only binding outcomes and its most instructive defeats, and the mechanism of the defeats matters more than their fact. The UAP Disclosure Act of 2023, carried as Division I of the Senate-passed FY2024 NDAA with ten sections, would have created an independent Review Board with authority to compel release and an eminent domain provision over recovered technologies of unknown origin held by any person. What emerged from conference and became law in P.L. 118-31 was Subtitle C - a records collection at NARA, a duty to transmit, and postponement grounds - with the Review Board and eminent domain removed. The removal happened in conference, where authorship is diffuse and no recorded vote attaches, which is the characteristic signature of this domain: UAP provisions rarely lose on the floor, they lose in the seam between chambers. The fight continued through the FY2025 NDAA's Section 6802 sunset of the historical-record audit requirements and into the FY2026 and FY2027 cycles. Scoring high on this domain means an entity drafts, sponsors, amends or strips this language - and stripping counts as much as sponsoring.",
+"domains": [
+"w2-taxonomy"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "d-legislative",
+"l0": false,
+"label": "Legislative Process (proposed and pending)",
+"locLabel": null,
+"members": null,
+"short": "Legislative Process (proposed and pending)",
+"sources": [
+{
+"date": "2023-07-27",
+"name": "H.R. 2670, NDAA FY2024 as passed by the Senate, Division I",
+"url": "https://www.govinfo.gov/content/pkg/BILLS-118hr2670eas/html/BILLS-118hr2670eas.htm"
+},
+{
+"date": "2023-12-22",
+"name": "NDAA FY2024 (P.L. 118-31)",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm"
+},
+{
+"date": "2024-12-23",
+"name": "NDAA FY2025 (P.L. 118-159), Sec. 6802",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-118publ159/html/PLAW-118publ159.htm"
+},
+{
+"date": "2023-12-22",
+"name": "The Debrief - A Dramatic Dilution of the Disclosure Process",
+"url": "https://thedebrief.org/a-dramatic-dilution-of-the-disclosure-process-a-temporary-shore-break-against-the-waves-of-change-schumer-amendment/"
+},
+{
+"date": "2024-07-11",
+"name": "Congress.gov - S.Amdt. 2610 (118th Congress)",
+"url": "https://www.congress.gov/amendment/118th-congress/senate-amendment/2610"
+}
+],
+"sub": "Bills, amendments and the actors that move them. Deliberately distinct from d-legislation (Enacted Statute): the gap between what passed the Senate and what survived conference is one of this board's central substantive findings, and collapsing the two would erase it.",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 511 of 1027, score 29). 9 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D3.",
+"timeline": [
+{
+"date": "2023-12-22",
+"id": "tx-2023-ndaa-strip",
+"label": "The Review Board is stripped in conference",
+"precision": "day",
+"strand": "oversight",
+"text": "P.L. 118-31 is enacted with Subtitle C - a UAP Records Collection at NARA, an agency duty to transmit, and grounds for postponement. The independent Review Board and the eminent domain provision over recovered technologies, both passed by the Senate as Division I of H.R. 2670, are removed in conference where no recorded vote attaches.",
+"tier": 1
+}
+]
+}

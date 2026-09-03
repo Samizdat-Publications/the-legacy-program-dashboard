@@ -1,0 +1,208 @@
+{
+"A": 2,
+"C": 1,
+"D": 2,
+"band": null,
+"claims": [
+{
+"source": "https://www.aaro.mil/About/Leaders/ — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
+"text": "Dr. Jon T. Kosloski is Director of AARO; his background is technical and leadership positions within the Research Directorate of the National Security Agency, with a Johns Hopkins PhD in electrical engineering focused on quantum optics devices for receiving weak phase-encoded signals.",
+"tier": 2
+},
+{
+"source": "https://www.aaro.mil/",
+"text": "AARO's homepage carries a banner for 'Presidential Unsealing and Reporting System for UAP Encounters (PURSUE)' linking to war.gov/UFO, and a banner for 'UAP Records from NARA'.",
+"tier": 1
+},
+{
+"source": "https://defensescoop.com/2026/03/16/dod-ufo-workshop-uap-research-aaro/",
+"text": "AARO sponsored an invite-only UAP research workshop in the Washington DC area in early August 2025, officially hosted by Associated Universities, Inc., with roughly 40 government, academic and independent researchers; Pentagon spokesperson Sue Gough said AARO recognises 'input from the scientific and academic community is critical to its work.'",
+"tier": 2
+},
+{
+"source": "https://www.aaro.mil/About/Leaders/",
+"text": "AARO's Leaders page names only the Director; no deputy director, chief scientist or historian is publicly identified as of 12 August 2026. Reasoning: direct inspection of aaro.mil/About/Leaders/.",
+"tier": 3
+}
+],
+"cls": "institution",
+"cluster": "other",
+"connections": [
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": "2026-07-21",
+"direction": "in",
+"edgeLabel": "no evidence of captured or exploited UAP materials, while writing custody procedures for them",
+"id": "aaro-fy2025-annual-report",
+"l0": true,
+"label": "AARO FY2025 Consolidated Annual Report on UAP",
+"note": "The report rejects claims that the USG possesses recovered UAP material while stating AARO is developing procedures for handling such material should it come into USG possession.",
+"sources": [
+{
+"date": "2026-07-21",
+"name": "The Black Vault, AARO FY2025 report",
+"url": "https://www.theblackvault.com/documentarchive/aaro-releases-fy2025-uap-report-months-after-statutory-deadline-citing-319-new-cases-and-expanded-satellite-analysis/"
+}
+],
+"tier": "A",
+"type": "denial"
+},
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": null,
+"dateStart": "2025-05-21",
+"direction": "in",
+"edgeLabel": "first purpose-built case system, solicited May 2025",
+"id": "aaro-jwics-case-management-2025",
+"l0": false,
+"label": "AARO JWICS case management system (sources sought, May 2025)",
+"note": "A Sources Sought Notice for a JWICS-hosted case management system establishes that AARO had no purpose-built case system three years after standing up.",
+"sources": [
+{
+"date": "2025-05-21",
+"name": "DefenseScoop, AARO case management system",
+"url": "https://defensescoop.com/2025/05/21/ufo-uap-pentagon-aaro-exploring-new-options-track-manage-reports/"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "2024-08-26",
+"direction": "in",
+"edgeLabel": "directs",
+"id": "jon-kosloski",
+"l0": false,
+"label": "Jon T. Kosloski",
+"note": "Kosloski has led AARO since 26 August 2024; the Leaders page names no other official.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "AARO Leaders page",
+"url": "https://www.aaro.mil/About/Leaders/"
+},
+{
+"date": "2026-08-12",
+"name": "Wikipedia, All-domain Anomaly Resolution Office",
+"url": "https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": "2026-05-08",
+"direction": "out",
+"edgeLabel": "signposts users to a channel it does not run",
+"id": "war-gov-ufo-portal",
+"l0": false,
+"label": "war.gov/UFO release portal",
+"note": "AARO's homepage carries a PURSUE banner linking to war.gov/UFO and a NARA banner linking to archives.gov, directing the public away from its own EFOIA reading room.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "AARO homepage",
+"url": "https://www.aaro.mil/"
+}
+],
+"tier": "C",
+"type": "institutional"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "2022-07-20",
+"deg": 4,
+"denials": [
+{
+"by": {
+"id": "aaro-fy2025-annual-report",
+"label": "AARO FY2025 Consolidated Annual Report on UAP"
+},
+"claimTier": 1,
+"denialKind": "directed",
+"label": "no evidence of captured or exploited UAP materials, while writing custody procedures for them",
+"note": "The report rejects claims that the USG possesses recovered UAP material while stating AARO is developing procedures for handling such material should it come into USG possession.",
+"of": {
+"id": "aaro-2026-posture",
+"label": "AARO in 2025-2026 - Kosloski's office as PURSUE's silent partner"
+},
+"sources": [
+{
+"date": "2026-07-21",
+"name": "The Black Vault, AARO FY2025 report",
+"url": "https://www.theblackvault.com/documentarchive/aaro-releases-fy2025-uap-report-months-after-statutory-deadline-citing-319-new-cases-and-expanded-satellite-analysis/"
+}
+]
+}
+],
+"desc": "AARO's public posture in the current cycle is defined by what its own homepage does. The office is led by Dr. Jon T. Kosloski, previously of the National Security Agency's Research Directorate, with bachelor's degrees in mathematics and physics from California State University San Bernardino and a Johns Hopkins PhD in electrical engineering on quantum optics devices for receiving weak phase-encoded signals - a signals-intelligence physicist running the government's UAP office. AARO's Leaders page names him alone; no deputy, chief scientist or historian is publicly identified. The homepage carries a promotional banner for 'Presidential Unsealing and Reporting System for UAP Encounters (PURSUE)' that links out to war.gov/UFO, and a second banner for 'UAP Records from NARA' that links out to archives.gov. The statutory UAP office therefore signposts users to two release channels it does not control and away from its own EFOIA Reading Room. Its own UAP Records page lists NARA, the 2023 NASA independent study, and the DHS KONA BLUE material, and makes no mention of Historical Record Report Volume II. AARO's stated mission remains unchanged: 'Minimize technical and intelligence surprise by synchronizing scientific, intelligence, and operational detection identification, attribution, and mitigation of unidentified anomalous phenomena in the vicinity of national security areas.' The office's substantive 2025-2026 activity has been analytic and convening rather than disclosive: an invite-only workshop of roughly forty government, academic and independent researchers in the Washington DC area in early August 2025, hosted by Associated Universities, Inc. and sponsored by AARO, on standardising the capture and study of UAP data, which the Department neither announced beforehand nor published an attendee list for.",
+"domains": [
+"_rs-archive-mirror",
+"w2-2025-2026"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "aaro-2026-posture",
+"l0": false,
+"label": "AARO in 2025-2026 - Kosloski's office as PURSUE's silent partner",
+"locLabel": null,
+"members": null,
+"short": "AARO in 2025-2026 - Kosloski's office as PURSUE's silent partner",
+"sources": [
+{
+"date": "2026-07-07",
+"name": "Archived: AARO, Leaders page (Wayback 2026-07-07)",
+"url": "https://web.archive.org/web/20260707082244/https://www.aaro.mil/About/Leaders/"
+},
+{
+"date": "2026-08-08",
+"name": "Archived: AARO homepage (Wayback 2026-08-08)",
+"url": "https://web.archive.org/web/20260808214743/https://www.aaro.mil/"
+},
+{
+"date": "2026-06-04",
+"name": "Archived: AARO Mission and Vision (Wayback 2026-06-04)",
+"url": "https://web.archive.org/web/20260604082329/https://www.aaro.mil/About/Mission-Vision/"
+},
+{
+"date": "2026-08-12",
+"name": "AARO, Leaders page",
+"url": "https://www.aaro.mil/About/Leaders/"
+},
+{
+"date": "2026-08-12",
+"name": "AARO homepage",
+"url": "https://www.aaro.mil/"
+},
+{
+"date": "2026-08-12",
+"name": "AARO Mission and Vision",
+"url": "https://www.aaro.mil/About/Mission-Vision/"
+},
+{
+"date": "2026-03-16",
+"name": "DefenseScoop, 'Pentagon's AARO quietly held an invite-only workshop'",
+"url": "https://defensescoop.com/2026/03/16/dod-ufo-workshop-uap-research-aaro/"
+}
+],
+"sub": "Director Dr. Jon T. Kosloski; homepage points to war.gov/UFO",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 469 of 1027, score 30). 4 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D2.",
+"timeline": []
+}

@@ -1,0 +1,160 @@
+{
+"A": 1,
+"C": 0,
+"D": 3,
+"band": null,
+"claims": [
+{
+"source": "The National Archives, UFO files release page, June 2013",
+"text": "The final tranche of released files covers 'the final two years of the Ministry of Defence's UFO Desk (from late 2007 until November 2009)' and documents 'the reasons behind the closure of the UFO desk, the handling of the largest number of UFO sighting reports received in 30 years and the disclosure campaign for the truth, which was sparked by the closure of the UFO Desk'.",
+"tier": 1
+},
+{
+"source": "The National Archives, UFO files release page, July 2012",
+"text": "The July 2012 tranche is described as showing 'the role of the UFO Desk Officers, what they really thought of alien visitors, their ideas to harness alien technology as a weapon, and their briefings to Tony Blair on UFO policy'.",
+"tier": 1
+},
+{
+"source": "Sky HISTORY, 'Remembering Nick Pope: 1965 - 2026', 2 May 2026",
+"text": "'The MoD eventually closed its UFO desk in 2009, having deemed it surplus to the UK's defence requirements.'",
+"tier": 2
+}
+],
+"cls": "institution",
+"cluster": "oversight",
+"connections": [
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "The UFO desk worked the case and asked for a radar replay",
+"id": "cosford-incident-1993",
+"l0": false,
+"label": "Cosford incident, 30-31 March 1993",
+"note": "The National Archives' guide says the MoD's UFO desk asked the RAF to replay radar tapes and that this found nothing unusual had been detected.",
+"sources": [
+{
+"date": "2009-08-17",
+"name": "TNA Highlights Guide, August 2009 tranche",
+"url": "https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf"
+}
+],
+"tier": "B",
+"type": "investigative"
+},
+{
+"claimTier": 3,
+"cls": "institution",
+"dateEnd": "2009-12",
+"dateStart": "1977",
+"direction": "out",
+"edgeLabel": "the two opposite answers to the same problem",
+"id": "geipan",
+"l0": true,
+"label": "GEIPAN - Groupe d'Études et d'Informations sur les Phénomènes Aérospatiaux Non identifiés",
+"note": "France put the file in a civil science agency with a public archive and it is still running; Britain kept it in a defence secretariat with no project name and closed it. Reasoning: contrasting institutional siting and survival of the two arrangements over the same period.",
+"sources": [
+{
+"date": "2026-03-31",
+"name": "GEIPAN - Classification",
+"url": "https://www.geipan.fr/fr/node/58787"
+},
+{
+"date": "2013-06-01",
+"name": "TNA UFO files",
+"url": "https://web.archive.org/web/20130701000000/http://www.nationalarchives.gov.uk/ufos/"
+}
+],
+"tier": "A",
+"type": "research"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "1994",
+"dateStart": "1991",
+"direction": "in",
+"edgeLabel": "ran the UFO desk 1991-1994",
+"id": "nick-pope",
+"l0": false,
+"label": "Nick Pope",
+"note": "Sky HISTORY, the broadcaster he worked for, records that he joined the MoD in 1985 and 'boarded its UFO programme in 1991', staying three years.",
+"sources": [
+{
+"date": "2026-05-02",
+"name": "Sky HISTORY - Remembering Nick Pope",
+"url": "https://www.history.co.uk/articles/remembering-nick-pope"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "2000",
+"dateStart": "1960s",
+"direction": "out",
+"edgeLabel": "public desk fed the intelligence section's database",
+"id": "uk-di55",
+"l0": false,
+"label": "DI55 - Defence Intelligence Staff, Directorate of Scientific and Technical Intelligence",
+"note": "Condign's database was built from approximately 10,000 reports accumulated by DI55 from the reporting stream the desk handled.",
+"sources": [
+{
+"date": "2006-05-15",
+"name": "Condign Executive Summary",
+"url": "https://archive.org/download/condign-vol-2-1-258/uap_vol1_pgs87to99_ch4to5_djvu.txt"
+}
+],
+"tier": "C",
+"type": "institutional"
+}
+],
+"coords": null,
+"dateEnd": "2009-12-01",
+"dateStart": "1953",
+"deg": 4,
+"denials": [],
+"desc": "The 'UFO desk' was the Ministry of Defence's public-facing single point of entry for unidentified aerial phenomena reports from the British public, police, military and civil aviation. It sat within the Secretariat (Air Staff) and latterly the Directorate of Air Staff, and its defining characteristic - attested by its own last desk officer to hold the post publicly, Nick Pope, and by The National Archives' description of the released files - is that it was deliberately never given a project name of the Project Blue Book kind, because the government wished to play down the extent of its interest. The desk's formal public line for five decades was that UAP reports were of no defence significance. The files released by The National Archives between 2008 and 2013 show that the desk simultaneously routed material to the Defence Intelligence Staff section DI55, briefed ministers, answered parliamentary questions, and in the last years handled the largest volume of sighting reports in thirty years. The National Archives' description of the final June 2013 tranche states plainly that it covers 'the final two years of the Ministry of Defence's UFO Desk (from late 2007 until November 2009)' and invites researchers to 'discover the reasons behind the closure of the UFO desk ... and the disclosure campaign for the truth, which was sparked by the closure of the UFO Desk'. The desk was closed on 1 December 2009, the MoD having, in the broadcaster's later summary, 'deemed it surplus to the UK's defence requirements'. The closure took effect nine years after the Defence Intelligence Staff's own Project Condign study had made exactly that recommendation as its single key recommendation.",
+"domains": [
+"w2-international"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "uk-mod-ufo-desk",
+"l0": false,
+"label": "Ministry of Defence UFO Desk (Secretariat (Air Staff) / Directorate of Air Staff)",
+"locLabel": null,
+"members": null,
+"short": "Ministry of Defence UFO Desk (Secretariat (Air Staff) / Directorate of Air Staff)",
+"sources": [
+{
+"date": "2013-06-01",
+"name": "The National Archives - UFO files (June 2013 release)",
+"url": "https://web.archive.org/web/20130701000000/http://www.nationalarchives.gov.uk/ufos/"
+},
+{
+"date": "2012-07-01",
+"name": "The National Archives - UFO files (July 2012 release)",
+"url": "https://web.archive.org/web/20120801000000/http://www.nationalarchives.gov.uk/ufos/"
+},
+{
+"date": "2026-05-02",
+"name": "Sky HISTORY - Remembering Nick Pope",
+"url": "https://www.history.co.uk/articles/remembering-nick-pope"
+}
+],
+"sub": "UK civil-service desk receiving and triaging public UAP reports, c.1950s-2009",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 738 of 1027, score 21). 4 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D3.",
+"timeline": []
+}

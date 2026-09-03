@@ -1,0 +1,264 @@
+{
+"A": 2,
+"C": 1,
+"D": 3,
+"affiliations": [
+"fab",
+"Ministério da Aeronáutica"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "1986-05-19",
+"event": "'Night of the UFOs' - 21 radar plots, five FAB fighters scrambled across four states",
+"precision": "day"
+},
+{
+"date": "1986-05-23",
+"event": "Holds press conference at 16:30 with the five pilots and the controllers; states the Air Force has no explanation; promises a full dossier in 30 days",
+"precision": "day"
+},
+{
+"date": "1986-06-02",
+"event": "Air Defence Command report on the night signed by Brigadier José Pessoa Cavalcanti de Albuquerque, classified CONFIDENCIAL",
+"precision": "day"
+},
+{
+"date": "2009-09-25",
+"event": "That report is finally declassified and released",
+"precision": "day"
+},
+{
+"date": "2011",
+"event": "Dies",
+"precision": "year"
+}
+],
+"claims": [
+{
+"source": "Brigadeiro Octávio Júlio Moreira Lima, press conference, Brasília, 23 May 1986, quoted by BBC Brasil, 14 January 2022",
+"text": "'Não se trata de acreditar ou não [em seres extraterrestres ou em discos voadores]. Só podemos dar informações técnicas. As suposições são várias. Tecnicamente, diria aos senhores que não temos explicação.'",
+"tier": 2
+},
+{
+"source": "André Bernardo, BBC Brasil, 14 January 2022",
+"text": "The press conference was held at 16:30 on 23 May 1986, attended by the five FAB pilots and the air traffic controllers on duty that night; the minister said the episode would be investigated and a full dossier released within 30 days.",
+"tier": 2
+},
+{
+"source": "BBC Brasil, 14 January 2022",
+"text": "Moreira Lima's dates are given as 1926-2011.",
+"tier": 2
+}
+],
+"cls": "person",
+"cluster": "legacy",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 2,
+"cls": "document",
+"dateEnd": "1986-06-02",
+"dateStart": "1986-05-23",
+"direction": "out",
+"edgeLabel": "The classified report was produced inside the ministry ten days after his public 'no explanation'",
+"id": "doc-fab-1986-report",
+"l0": false,
+"label": "Relatório de Ocorrências, Comando Aéreo de Defesa Aérea, 2 June 1986 (Arquivo Nacional BR_DFANBSB_ARX_0_0_0249)",
+"note": "Moreira Lima told the press on 23 May 1986 that the armed forces had no technical explanation; the Air Defence Command's CONFIDENCIAL Relatório de Ocorrências, dated 10 days later on 2 June 1986, recorded internally that the phenomena were solid and reflected a form of intelligence, and was not released until 25 September 2009. Tier 2 because the two facts are separately sourced and the report is addressed to the Comandante-Geral do Ar rather than to the minister personally; no document obtained in this pass shows the report reaching his desk. What the pairing establishes is the gap between the public formulation and the contemporaneous classified one, inside the same ministry.",
+"sources": [
+{
+"date": null,
+"name": "Correio Braziliense, 'A noite em que 21 óvnis invadiram o espaço aéreo brasileiro e foram perseguidos por caças da FAB' — https://www.correiobraziliense.com.br/mundo/2026/05/7421517-a-noite-em-que-21-ovnis-invadiram-o-espaco-aereo-brasileiro-e-foram-perseguidos-por-cacas-da-fab.html",
+"url": ""
+},
+{
+"date": null,
+"name": "Arquivo Nacional, Fundo Objeto Voador Não Identificado – OVNI, reference BR DFANBSB ARX; the 1986 Air Defence Command report carries the item reference BR_DFANBSB_ARX_0_0_0249 (board node doc-fab-1986-report)",
+"url": ""
+},
+{
+"date": "1986-06-02",
+"name": "Relatório de Ocorrências (Arquivo Nacional PDF)",
+"url": "http://imagem.sian.an.gov.br/acervo/derivadas/BR_DFANBSB_ARX/0/0/0249/BR_DFANBSB_ARX_0_0_0249_d0001de0001.pdf"
+},
+{
+"date": "2022-01-14",
+"name": "BBC Brasil - 'A noite em que 21 óvnis invadiram o espaço aéreo brasileiro'",
+"url": "https://www.bbc.com/portuguese/brasil-59953278"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 2,
+"cls": "event",
+"dateEnd": "1986-05-23",
+"dateStart": "1986-05-23",
+"direction": "out",
+"edgeLabel": "held the 23 May 1986 press conference stating the Air Force had no explanation",
+"id": "ev-noite-ovnis-1986",
+"l0": true,
+"label": "Noite Oficial dos OVNIs - the Brazilian 'Night of the UFOs', 19 May 1986",
+"note": "The minister produced the five pilots and the controllers in person and promised a full dossier within 30 days that never appeared.",
+"sources": [
+{
+"date": "2022-01-14",
+"name": "BBC Brasil",
+"url": "https://www.bbc.com/portuguese/brasil-59953278"
+}
+],
+"tier": "A",
+"type": "denial"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "1990",
+"dateStart": "1985",
+"direction": "in",
+"edgeLabel": "Moreira Lima was Minister of Aeronautics, the FAB's own political head",
+"id": "fab",
+"l0": true,
+"label": "Força Aérea Brasileira / Ministério da Aeronáutica",
+"note": "Octávio Júlio Moreira Lima held the Ministério da Aeronáutica, the ministry of which the Força Aérea Brasileira was the service arm, at the time of the 19 May 1986 engagement and of the 23 May 1986 press conference at which he produced the intercept pilots and the controllers and said the armed forces had no technical explanation.",
+"sources": [
+{
+"date": null,
+"name": "Correio Braziliense, 'A noite em que 21 óvnis invadiram o espaço aéreo brasileiro e foram perseguidos por caças da FAB' — https://www.correiobraziliense.com.br/mundo/2026/05/7421517-a-noite-em-que-21-ovnis-invadiram-o-espaco-aereo-brasileiro-e-foram-perseguidos-por-cacas-da-fab.html",
+"url": ""
+},
+{
+"date": "1986-06-02",
+"name": "Relatório de Ocorrências (Arquivo Nacional PDF)",
+"url": "http://imagem.sian.an.gov.br/acervo/derivadas/BR_DFANBSB_ARX/0/0/0249/BR_DFANBSB_ARX_0_0_0249_d0001de0001.pdf"
+},
+{
+"date": "2022-01-14",
+"name": "BBC Brasil - 'A noite em que 21 óvnis invadiram o espaço aéreo brasileiro'",
+"url": "https://www.bbc.com/portuguese/brasil-59953278"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 2,
+"cls": "location",
+"dateEnd": "1986-05-23",
+"dateStart": "1986-05-23",
+"direction": "in",
+"edgeLabel": "The minister's press conference was given from the capital",
+"id": "l-brasilia",
+"l0": false,
+"label": "Brasilia, Federal District, Brazil",
+"note": "Moreira Lima convened the 23 May 1986 press conference as Minister of Aeronautics with the pilots and controllers present. Tier 2 on the location specifically: the sourcing confirms the press conference, the minister and the date, and the ministry sat in Brasília, but no source obtained in this pass names the room.",
+"sources": [
+{
+"date": null,
+"name": "Correio Braziliense, 'A noite em que 21 óvnis invadiram o espaço aéreo brasileiro e foram perseguidos por caças da FAB' — https://www.correiobraziliense.com.br/mundo/2026/05/7421517-a-noite-em-que-21-ovnis-invadiram-o-espaco-aereo-brasileiro-e-foram-perseguidos-por-cacas-da-fab.html",
+"url": ""
+},
+{
+"date": "1986-06-02",
+"name": "Relatório de Ocorrências (Arquivo Nacional PDF)",
+"url": "http://imagem.sian.an.gov.br/acervo/derivadas/BR_DFANBSB_ARX/0/0/0249/BR_DFANBSB_ARX_0_0_0249_d0001de0001.pdf"
+},
+{
+"date": "2026-08-12",
+"name": "Wikipedia - Brasilia",
+"url": "https://en.wikipedia.org/wiki/Bras%C3%ADlia"
+},
+{
+"date": "2022-01-14",
+"name": "BBC Brasil - 'A noite em que 21 óvnis invadiram o espaço aéreo brasileiro'",
+"url": "https://www.bbc.com/portuguese/brasil-59953278"
+}
+],
+"tier": "C",
+"type": "geographic"
+}
+],
+"date": "2011",
+"dateEnd": null,
+"dateStart": "2011",
+"deg": 4,
+"denials": [
+{
+"by": {
+"id": "otavio-moreira-lima",
+"label": "Brigadeiro Octávio Júlio Moreira Lima"
+},
+"claimTier": 2,
+"denialKind": "directed",
+"label": "held the 23 May 1986 press conference stating the Air Force had no explanation",
+"note": "The minister produced the five pilots and the controllers in person and promised a full dossier within 30 days that never appeared.",
+"of": {
+"id": "ev-noite-ovnis-1986",
+"label": "Noite Oficial dos OVNIs - the Brazilian 'Night of the UFOs', 19 May 1986"
+},
+"sources": [
+{
+"date": "2022-01-14",
+"name": "BBC Brasil",
+"url": "https://www.bbc.com/portuguese/brasil-59953278"
+}
+]
+}
+],
+"domains": [
+"w2-international"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "2",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "otavio-moreira-lima",
+"instId": "fab",
+"l0": false,
+"label": "Brigadeiro Octávio Júlio Moreira Lima",
+"loc": "Brasília, Brazil",
+"locId": "l-brasilia",
+"members": null,
+"narrative": "Octávio Júlio Moreira Lima (1926-2011) was Brazil's Minister of Aeronautics on 19 May 1986, the night on which air traffic control at São José dos Campos, the CINDACTA radar network and five scrambled Brazilian Air Force fighters - two F-5Es from Santa Cruz Air Base and three Mirage IIIEs from Anápolis - engaged twenty-one unidentified radar plots over São Paulo, Rio de Janeiro, Minas Gerais and Goiás. Four days later, at 16:30 on 23 May 1986, he convened a press conference in Brasília and did something no defence minister of a major state had done before or has done since: he produced the intercept pilots and the air traffic controllers in person, confirmed the events, and said on the record that the armed forces had no explanation. His formulation was careful and complete: 'It is not a question of believing or not believing [in extraterrestrials or flying saucers]. We can only give technical information. There are several hypotheses. Technically, I would tell you gentlemen that we have no explanation.' He undertook to investigate and to publish a full dossier within thirty days. The dossier did not appear. The Air Defence Command's own report on the night, dated 2 June 1986 and signed by Brigadier José Pessoa Cavalcanti de Albuquerque, was classified CONFIDENCIAL and not released until 25 September 2009 - twenty-three years later.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Brigadeiro Octávio Júlio Moreira Lima",
+"sources": [
+{
+"date": "2022-01-14",
+"name": "BBC Brasil - 'A noite em que 21 óvnis invadiram o espaço aéreo brasileiro'",
+"url": "https://www.bbc.com/portuguese/brasil-59953278"
+},
+{
+"date": "2026-01-01",
+"name": "1986 Brazilian UFO incident - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/1986_Brazilian_UFO_incident"
+}
+],
+"status": "dead",
+"sub": "Minister of Aeronautics of Brazil; held the 23 May 1986 'Night of the UFOs' press conference",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 460 of 1027, score 30). 4 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D3.",
+"timeline": [
+{
+"date": "1986-05-23",
+"id": "tl-intl-1986-presser",
+"label": "Moreira Lima's press conference",
+"precision": "day",
+"strand": "coverup",
+"text": "At 16:30 the Brazilian Minister of Aeronautics convenes the press with the five intercept pilots and the air traffic controllers and says: 'It is not a question of believing or not believing. We can only give technical information. There are several hypotheses. Technically, I would tell you gentlemen that we have no explanation.' He promises a full dossier within thirty days. It never appears.",
+"tier": 2
+}
+],
+"unexplainedResidual": null,
+"unverified": [
+"The promised 30-day dossier was never published so far as the record shows; whether one was written and withheld was not established."
+]
+}

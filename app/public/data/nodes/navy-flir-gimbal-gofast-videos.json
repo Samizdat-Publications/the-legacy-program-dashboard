@@ -1,0 +1,182 @@
+{
+"A": 2,
+"C": 2,
+"D": 3,
+"band": null,
+"claims": [
+{
+"source": "Department of Defense statement, 27 April 2020",
+"text": "On 27 April 2020 DoD authorised the release of three unclassified Navy videos, one taken in November 2004 and two in January 2015, stating 'the aerial phenomena observed in the videos remain characterized as unidentified.'",
+"tier": 1
+},
+{
+"source": "U.S. Navy statement, 10 September 2019",
+"text": "Navy spokesman Joseph Gradisher stated on 10 September 2019: 'The Navy designates the objects contained in these videos as unidentified aerial phenomena.'",
+"tier": 1
+},
+{
+"source": "Christopher Mellon in The Phenomenon (2020), reported by Vice, 20 October 2020",
+"text": "Christopher Mellon stated he received the videos from a Defense Department official in the Pentagon parking lot and provided them to the New York Times.",
+"tier": 2
+}
+],
+"cls": "document",
+"cluster": "other",
+"connections": [
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2017",
+"dateStart": "2017",
+"direction": "in",
+"edgeLabel": "Received the three files in the Pentagon parking lot and passed them to the NYT",
+"id": "christopher-mellon",
+"l0": false,
+"label": "Christopher K. Mellon",
+"note": "Mellon's own on-record account in The Phenomenon: 'I received the videos, the now famous videos in the Pentagon parking lot from a Defense Department official.' The handing official has never been identified.",
+"sources": [
+{
+"date": "2020-10-20",
+"name": "Vice — Ex Intel Official Says He Was the Source of the Pentagon's UFO Videos",
+"url": "https://www.vice.com/en/article/this-guy-says-he-was-the-source-of-the-pentagons-ufo-videos/"
+}
+],
+"tier": "A",
+"type": "custody"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "2017",
+"dateStart": "2017",
+"direction": "in",
+"edgeLabel": "Cleared the GoFast, Gimbal and FLIR files for internal distribution only",
+"id": "dd-form-1910-2017",
+"l0": false,
+"label": "DD Form 1910 for GoFast, Gimbal and FLIR video files",
+"note": "The form's stated purpose expressly excludes publication: research and analysis only, for a UAS threat database. This is the narrow basis on which the Navy later said no unrestricted release was ever authorised.",
+"sources": [
+{
+"date": "2019-08-17",
+"name": "Blue Blurry Lines",
+"url": "https://www.blueblurrylines.com/2019/08/documents-released-via-foia-on-aatip.html"
+}
+],
+"tier": "B",
+"type": "custody"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "2020",
+"dateStart": "2020",
+"direction": "in",
+"edgeLabel": "DoD authorises release, 27 April 2020; phenomena 'remain characterized as unidentified'",
+"id": "dod-video-release-2020",
+"l0": false,
+"label": "DoD Statement on the Release of Historical Navy Videos, 27 April 2020",
+"note": "The Department also characterised the 2007 and 2017 public appearances as 'unauthorized releases' — a formal acknowledgement that material left the building improperly.",
+"sources": [
+{
+"date": "2020-04-27",
+"name": "DoD/War — Statement on Release of Historical Navy Videos",
+"url": "https://www.war.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "2019",
+"dateStart": "2019",
+"direction": "in",
+"edgeLabel": "Navy designates the objects as unidentified aerial phenomena, 10 Sep 2019",
+"id": "joseph-gradisher",
+"l0": false,
+"label": "Joseph Gradisher",
+"note": "The single most consequential official concession of the period, made by a named service spokesman.",
+"sources": [
+{
+"date": "2019-09-10",
+"name": "The Black Vault",
+"url": "https://www.theblackvault.com/documentarchive/u-s-navy-confirms-videos-depict-unidentified-aerial-phenomena-not-cleared-for-public-release/"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 2,
+"cls": "institution",
+"dateEnd": "2020",
+"dateStart": "2017",
+"direction": "in",
+"edgeLabel": "Hosted and distributed the three videos from 2017-2018",
+"id": "ttsa",
+"l0": true,
+"label": "To The Stars Academy of Arts & Science Inc. (later To The Stars Inc.)",
+"note": "TTSA published the footage on its own platform, framing it as officially cleared — a framing the Navy contested in September 2019.",
+"sources": [
+{
+"date": "2019-09-10",
+"name": "The Black Vault — Navy confirms videos depict UAP",
+"url": "https://www.theblackvault.com/documentarchive/u-s-navy-confirms-videos-depict-unidentified-aerial-phenomena-not-cleared-for-public-release/"
+}
+],
+"tier": "A",
+"type": "custody"
+}
+],
+"coords": null,
+"dateEnd": "2020",
+"dateStart": "2004",
+"deg": 5,
+"denials": [],
+"desc": "Three unclassified U.S. Navy infrared targeting-pod recordings — one captured in November 2004 during the USS Nimitz encounters and two in January 2015 associated with the USS Theodore Roosevelt operating area. Elizondo cleared the three files internally on a DD Form 1910 on 9 August 2017, approved 24 August 2017. Christopher Mellon has said on the record that he received the videos from a Defense Department official in the Pentagon parking lot and gave them to the New York Times. Two appeared with the Times story of 16 December 2017 and the third, GoFast, was published in March 2018; TTSA hosted them. On 10 September 2019 the Navy's Joseph Gradisher stated that 'the Navy designates the objects contained in these videos as unidentified aerial phenomena' while also saying the Navy had never released them publicly. On 27 April 2020 the Department of Defense authorised their release outright, stating that 'the aerial phenomena observed in the videos remain characterized as unidentified.' That is the full arc: cleared internally, leaked, published by a private company, designated UAP by the Navy, and finally released by the Department itself.",
+"domains": [
+"_rs-archive-mirror",
+"elizondo-ttsa"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "2",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "navy-flir-gimbal-gofast-videos",
+"l0": false,
+"label": "FLIR1, Gimbal and GoFast Navy gun-camera videos",
+"locLabel": null,
+"members": null,
+"short": "FLIR1, Gimbal and GoFast Navy gun-camera videos",
+"sources": [
+{
+"date": "2026-08-02",
+"name": "Archived: Department of Defense — Statement by the Department of Defense on the Release of Historical Navy Videos (Wayback 2026-08-02)",
+"url": "https://web.archive.org/web/20260802200608/https://www.war.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/"
+},
+{
+"date": "2020-04-27",
+"name": "Department of Defense — Statement by the Department of Defense on the Release of Historical Navy Videos",
+"url": "https://www.war.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos"
+},
+{
+"date": "2019-09-10",
+"name": "The Black Vault — U.S. Navy Confirms Videos Depict 'Unidentified Aerial Phenomena'; Not Cleared For Public Release",
+"url": "https://www.theblackvault.com/documentarchive/u-s-navy-confirms-videos-depict-unidentified-aerial-phenomena-not-cleared-for-public-release/"
+},
+{
+"date": "2020-10-20",
+"name": "Vice — Ex Intel Official Says He Was the Source of the Pentagon's UFO Videos",
+"url": "https://www.vice.com/en/article/this-guy-says-he-was-the-source-of-the-pentagons-ufo-videos/"
+}
+],
+"sub": "Three ATFLIR clips: one from November 2004, two from January 2015",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 213 of 1027, score 42). 5 connections, 3 of them custody/witness/funding/programmatic. Axes C2/A2/D3.",
+"timeline": []
+}

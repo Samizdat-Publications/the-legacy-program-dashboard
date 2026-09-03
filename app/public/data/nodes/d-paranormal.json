@@ -1,0 +1,134 @@
+{
+"A": 2,
+"C": 1,
+"D": 1,
+"band": null,
+"claims": [
+{
+"source": "AAWSAP solicitation and statement of work, DIA FOIA release",
+"text": "DIA solicited AAWSAP in August 2008 and the resulting contract file, statement of work and deliverables were released under FOIA.",
+"tier": 1
+},
+{
+"source": "Kelleher and Lacatski, 'Skinwalkers at the Pentagon' (2021)",
+"text": "Colm Kelleher and James Lacatski published 'Skinwalkers at the Pentagon' in 2021, describing federally funded collection of anomalous phenomena reports at Skinwalker Ranch under the AAWSAP effort, with Lacatski named as the DIA official who initiated it.",
+"tier": 2
+},
+{
+"source": "Journal of Scientific Exploration 37(1)",
+"text": "Barry Greenwood published a critical review of 'Skinwalkers at the Pentagon' in the Journal of Scientific Exploration 37(1):127-131 in May 2023.",
+"tier": 2
+}
+],
+"cls": "domain",
+"cluster": "research",
+"connections": [
+{
+"claimTier": 1,
+"cls": "domain",
+"dateEnd": "2010-12-31",
+"dateStart": "2008-08-18",
+"direction": "out",
+"edgeLabel": "Anomalous phenomena inside a defence contract",
+"id": "d-program",
+"l0": false,
+"label": "Program Structure & Management",
+"note": "The AAWSAP statement of work and its deliverables are the tier-1 basis for treating this material as a programme domain rather than folklore.",
+"sources": [
+{
+"date": "2008-08-22",
+"name": "AAWSAP Statement of Work",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP/SOW_Aerospace.pdf"
+}
+],
+"tier": "B",
+"type": "funding"
+},
+{
+"claimTier": 2,
+"cls": "domain",
+"dateEnd": null,
+"dateStart": "2008-08-18",
+"direction": "in",
+"edgeLabel": "Same investigators, later contract",
+"id": "d-remote-viewing",
+"l0": false,
+"label": "Remote Viewing & Anomalous Cognition",
+"note": "Principal investigators from the SRI-era programmes reappear in the AAWSAP deliverables three decades later, carrying the research framing with them.",
+"sources": [
+{
+"date": "2008-08-22",
+"name": "AAWSAP Statement of Work",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP/SOW_Aerospace.pdf"
+},
+{
+"date": "2026-08-12",
+"name": "FAS - Star Gate documentation",
+"url": "https://irp.fas.org/program/collect/stargate.htm"
+}
+],
+"tier": "C",
+"type": "programmatic"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "2008-08-18",
+"deg": 2,
+"denials": [],
+"desc": "The reason this domain exists on a national security board is a contract. When DIA solicited the Advanced Aerospace Weapon System Applications Program in August 2008 and awarded it to Bigelow Aerospace Advanced Space Studies, the resulting work programme extended well beyond aerodynamics: the effort included investigation of Skinwalker Ranch in Utah, and the account published by Colm Kelleher and James Lacatski in 'Skinwalkers at the Pentagon' (2021) describes a federally funded programme collecting reports of poltergeist-type activity, apparitions and animal effects, with Lacatski identified as the DIA official who initiated the programme. Whether one treats those reports as data about the world or as data about the reporters, the fact that they were collected under a Defense Intelligence Agency contract is tier-1 and is the reason the domain cannot simply be excluded. Barry Greenwood's critical review in the Journal of Scientific Exploration in 2023 is recorded here as the counterweight from inside the research community. Scoring high on this domain means an entity collected, funded or reported this class of material under official auspices.",
+"domains": [
+"_stubs",
+"w2-taxonomy"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "2",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "d-paranormal",
+"l0": false,
+"label": "Anomalous Phenomena Adjacent to UAP",
+"locLabel": null,
+"members": null,
+"short": "Anomalous Phenomena Adjacent to UAP",
+"sources": [
+{
+"date": "2008-08-22",
+"name": "AAWSAP Statement of Work (SOW_Aerospace.pdf)",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP/SOW_Aerospace.pdf"
+},
+{
+"date": "2023-05-02",
+"name": "Barry Greenwood, review of 'Skinwalkers at the Pentagon', Journal of Scientific Exploration 37(1) 127-131",
+"url": "https://journalofscientificexploration.org/index.php/jse/article/view/2857"
+},
+{
+"date": "2023-05-25",
+"name": "The Debrief - Colm Kelleher, AAWSAP and the Skinwalker enigma",
+"url": "https://thedebrief.org/colm-kelleher-aawsap-and-the-skinwalker-enigma/"
+},
+{
+"date": "2026-08-12",
+"name": "Wikipedia - Skinwalker Ranch",
+"url": "https://en.wikipedia.org/wiki/Skinwalker_Ranch"
+},
+{
+"date": "2026-08-12",
+"name": "NSF master government list of FFRDCs",
+"url": "https://www.nsf.gov/statistics/ffrdclist/"
+},
+{
+"date": "2026-08-12",
+"name": "Domain definition written for this board; see SCHEMA.md",
+"url": ""
+}
+],
+"sub": "Contested domain - poltergeist, apparition and animal-effect reports inside a defence contract",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 576 of 1027, score 27). 2 connections, 2 of them custody/witness/funding/programmatic. Axes C1/A2/D1.",
+"timeline": []
+}

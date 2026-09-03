@@ -1,0 +1,128 @@
+{
+"A": 1,
+"C": 3,
+"D": 3,
+"affiliations": [],
+"age": null,
+"band": null,
+"chronology": [],
+"claims": [
+{
+"source": "https://democrats-appropriations.house.gov/subcommittees/defense-119th-congress",
+"text": "Ken Calvert (R-CA) is listed as Chair of the Defense Subcommittee of the House Appropriations Committee for the 119th Congress.",
+"tier": 1
+},
+{
+"source": "https://democrats-appropriations.house.gov/subcommittees/defense-118th-congress",
+"text": "Calvert was Chair of the House Appropriations Defense Subcommittee in the 118th Congress.",
+"tier": 1
+},
+{
+"source": "https://www.govinfo.gov/content/pkg/CDIR-2020-07-22/html/CDIR-2020-07-22-HOUSECOMMITTEES.htm",
+"text": "Calvert was the senior Republican on the House Appropriations Defense Subcommittee in the 116th Congress, when Peter J. Visclosky chaired it.",
+"tier": 1
+}
+],
+"cls": "person",
+"cluster": "oversight",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "seat 11 of 12 - Chair, House Appropriations Defense Subcommittee",
+"id": "waived-sap-notification-group",
+"l0": true,
+"label": "Waived SAP Notification Group",
+"note": "In the group in 2020 as ranking member and from 2023 as chair.",
+"sources": [
+{
+"date": "2026-08-22",
+"name": "10 U.S.C. 119, Special Access Programs: congressional oversight — subsections (e)(2) and (g) (OLRC prelim text, read 22 August 2026)",
+"url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim"
+},
+{
+"date": "2026-08-22",
+"name": "U.S. Senate, Dates of Sessions of the Congress (convening dates used to date each seat)",
+"url": "https://www.senate.gov/legislative/DatesofSessionsofCongress.htm"
+},
+{
+"date": null,
+"name": "https://democrats-appropriations.house.gov/subcommittees/defense-119th-congress",
+"url": "https://democrats-appropriations.house.gov/subcommittees/defense-119th-congress"
+},
+{
+"date": null,
+"name": "https://www.govinfo.gov/content/pkg/CDIR-2020-07-22/html/CDIR-2020-07-22-HOUSECOMMITTEES.htm",
+"url": "https://www.govinfo.gov/content/pkg/CDIR-2020-07-22/html/CDIR-2020-07-22-HOUSECOMMITTEES.htm"
+}
+],
+"tier": "A",
+"type": "institutional"
+}
+],
+"date": "2023-01-03",
+"dateEnd": null,
+"dateStart": "2023-01-03",
+"deg": 1,
+"denials": [],
+"domains": [
+"w9-waived-sap-group"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "ken-calvert",
+"instId": null,
+"l0": false,
+"label": "Ken Calvert",
+"loc": null,
+"locId": null,
+"members": null,
+"narrative": "Calvert is the third member of the twelve whose occupancy spans multiple load-bearing moments. He was the ranking minority member of the House Appropriations Defense Subcommittee in 2020, when Peter J. Visclosky chaired it and the Unidentified Aerial Phenomena Task Force was established, and he has chaired that subcommittee across the 118th and 119th Congresses, covering the 2023 Grusch testimony and the period through August 2026. In both roles he has held a 10 U.S.C. 119(e)(2) seat. The House Appropriations Defense Subcommittee is named expressly in 10 U.S.C. 119(g)(2) and its published jurisdiction runs to the Central Intelligence Agency and the Office of the Director of National Intelligence in addition to the military departments and defense agencies. That makes the subcommittee chair one of the few offices in Congress that combines a statutory waived-SAP entitlement with appropriations reach across both the defense and intelligence budgets. Calvert has no publicly documented UAP-specific record. On the board he is the strongest single candidate for the proposition that a small number of members have had sustained, lawful, multi-year sight of whatever waived DoD special access program material the Department has chosen to route through 119(e)(2) - and equally the strongest illustration that such sight produces no public trace, because the statute provides none.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Ken Calvert",
+"sources": [
+{
+"date": "2026-08-22",
+"name": "U.S. Senate, Dates of Sessions of the Congress (convening dates: 111th 6 Jan 2009, 118th 3 Jan 2023, 119th 3 Jan 2025)",
+"url": "https://www.senate.gov/legislative/DatesofSessionsofCongress.htm"
+},
+{
+"date": null,
+"name": "https://democrats-appropriations.house.gov/subcommittees/defense-119th-congress",
+"url": "https://democrats-appropriations.house.gov/subcommittees/defense-119th-congress"
+},
+{
+"date": null,
+"name": "https://democrats-appropriations.house.gov/subcommittees/defense-118th-congress",
+"url": "https://democrats-appropriations.house.gov/subcommittees/defense-118th-congress"
+},
+{
+"date": null,
+"name": "https://www.govinfo.gov/content/pkg/CDIR-2020-07-22/html/CDIR-2020-07-22-HOUSECOMMITTEES.htm",
+"url": "https://www.govinfo.gov/content/pkg/CDIR-2020-07-22/html/CDIR-2020-07-22-HOUSECOMMITTEES.htm"
+},
+{
+"date": null,
+"name": "https://appropriations.house.gov/news/press-releases/cole-calvert-statement-white-house-defense-supplemental-request",
+"url": "https://appropriations.house.gov/news/press-releases/cole-calvert-statement-white-house-defense-supplemental-request"
+}
+],
+"status": "active",
+"sub": "Chair, Defense Subcommittee of the House Appropriations Committee (118th and 119th Congresses, serving August 2026); Ranking Member of the same subcommittee in the 116th Congress including 2020",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 434 of 1027, score 31). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C3/A1/D3.",
+"timeline": [],
+"unexplainedResidual": null,
+"unverified": []
+}

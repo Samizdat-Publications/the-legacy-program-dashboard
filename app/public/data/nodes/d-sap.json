@@ -1,0 +1,176 @@
+{
+"A": 3,
+"C": 2,
+"D": 2,
+"band": null,
+"claims": [
+{
+"source": "DoD Directive 5205.07",
+"text": "DoD Directive 5205.07 establishes acknowledged, unacknowledged and waived SAP categories and the associated reporting regimes.",
+"tier": 1
+},
+{
+"source": "DIA release, OUSDI Info Memo on AATIP (Review of Special Access Program Request), via The Black Vault",
+"text": "An OUSD(I) information memorandum records a review of a special access program request relating to the Advanced Aerospace Threat Identification Program, dated November 2009.",
+"tier": 1
+},
+{
+"source": "10 U.S.C. Sec. 119",
+"text": "10 U.S.C. 119(e) permits waiver of SAP notification requirements, reducing reporting to the chairmen and ranking members of the defence committees.",
+"tier": 1
+}
+],
+"cls": "domain",
+"cluster": "other",
+"connections": [
+{
+"claimTier": 1,
+"cls": "domain",
+"dateEnd": null,
+"dateStart": "1987-01-01",
+"direction": "out",
+"edgeLabel": "Waived notification limits reporting to eight members",
+"id": "d-oversight",
+"l0": false,
+"label": "Congressional Oversight",
+"note": "The waiver authority in 10 U.S.C. 119(e) is the statutory provision congressional witnesses cite when describing why members cannot confirm a programme's existence.",
+"sources": [
+{
+"date": "2024-01-01",
+"name": "10 U.S.C. Sec. 119",
+"url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim"
+}
+],
+"tier": "B",
+"type": "legislative"
+},
+{
+"claimTier": 1,
+"cls": "domain",
+"dateEnd": null,
+"dateStart": "2009-11-01",
+"direction": "in",
+"edgeLabel": "Conversion from visible to invisible",
+"id": "d-program",
+"l0": false,
+"label": "Program Structure & Management",
+"note": "The November 2009 OUSD(I) memorandum reviewing a special access programme request for AATIP is the documented moment where a FOIA-visible programme was considered for conversion.",
+"sources": [
+{
+"date": "2009-11-01",
+"name": "DIA - OUSDI Info Memo on AATIP (Review of SAP Request)",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP/OUSDI_IM_on_AATIP_Final.pdf"
+}
+],
+"tier": "B",
+"type": "programmatic"
+},
+{
+"claimTier": 1,
+"cls": "domain",
+"dateEnd": null,
+"dateStart": "1960-01-01",
+"direction": "in",
+"edgeLabel": "Statutory basis for the access tier",
+"id": "d-secrecy",
+"l0": false,
+"label": "Secrecy Law & Classification",
+"note": "10 U.S.C. 119 and DoDD 5205.07 are the legal and policy instruments that create the special access programme category; the SAP domain is the applied form of the secrecy-law domain.",
+"sources": [
+{
+"date": "2024-01-01",
+"name": "10 U.S.C. Sec. 119",
+"url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim"
+},
+{
+"date": "2024-09-12",
+"name": "DoD Directive 5205.07",
+"url": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "domain",
+"dateEnd": null,
+"dateStart": "1960-01-01",
+"direction": "out",
+"edgeLabel": "SAP tiers implement compartmentation",
+"id": "d-secrecy-architecture",
+"l0": false,
+"label": "Secrecy Architecture",
+"note": "The acknowledged/unacknowledged/waived tier structure defined in DoDD 5205.07 is the concrete mechanism by which the compartmentation architecture is built.",
+"sources": [
+{
+"date": "2024-09-12",
+"name": "DoD Directive 5205.07",
+"url": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf"
+}
+],
+"tier": "B",
+"type": "institutional"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "1960-01-01",
+"deg": 4,
+"denials": [],
+"desc": "A special access programme is the mechanism by which the executive branch creates an information space with tighter controls than Top Secret and a smaller list of people who may enter it. The tier structure is documented policy, not speculation: acknowledged SAPs whose existence is public though their content is not; unacknowledged SAPs whose very existence is classified; and waived unacknowledged SAPs for which the Secretary of Defense has exercised the 10 U.S.C. 119 waiver so that notification runs only to the chairs and ranking members of the armed services and defence appropriations committees - eight members, typically without staff, typically orally. That last category is the load-bearing one for this board, because it is a lawful configuration in which a programme can run for decades while the overwhelming majority of Congress has no lawful means of learning it exists. In 2009 the Office of the Under Secretary of Defense for Intelligence prepared an information memorandum reviewing a request to convert DIA's advanced aerospace work into a special access programme - a documented instance of the transition being considered for exactly this subject matter. Scoring high on this domain means an entity held, granted, or was formally denied SAP-level access, and the denial is scored as heavily as the grant.",
+"domains": [
+"_rs-archive-mirror",
+"w2-taxonomy"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "d-sap",
+"l0": false,
+"label": "Special Access Programs",
+"locLabel": null,
+"members": null,
+"short": "Special Access Programs",
+"sources": [
+{
+"date": "2026-05-18",
+"name": "Archived: DoD Directive 5205.07, Special Access Program (SAP) Policy (Wayback 2026-05-18)",
+"url": "https://web.archive.org/web/20260518065512/https://www.esd.whs.mil/portals/54/documents/dd/issuances/dodd/520507p.pdf"
+},
+{
+"date": "2024-09-12",
+"name": "DoD Directive 5205.07, Special Access Program (SAP) Policy",
+"url": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf"
+},
+{
+"date": "2024-01-01",
+"name": "10 U.S.C. Sec. 119, Special access programs: congressional oversight",
+"url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim"
+},
+{
+"date": "2009-11-01",
+"name": "DIA - OUSDI Info Memo on AATIP (Review of Special Access Program Request)",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP/OUSDI_IM_on_AATIP_Final.pdf"
+}
+],
+"sub": "Access-control domain - the SAP/USAP/waived tier and its oversight carve-outs",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 289 of 1027, score 37). 4 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A3/D2.",
+"timeline": [
+{
+"date": "2009-11-01",
+"id": "tx-2009-sap-request",
+"label": "The conversion is considered",
+"precision": "month",
+"strand": "program",
+"text": "An Office of the Under Secretary of Defense for Intelligence information memorandum records review of a special access programme request relating to AATIP. This is the documented moment at which a FOIA-visible programme was considered for conversion into an invisible one.",
+"tier": 1
+}
+]
+}

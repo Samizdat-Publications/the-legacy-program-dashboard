@@ -1,0 +1,329 @@
+{
+"A": 3,
+"C": 1,
+"D": 3,
+"affiliations": [
+"Secretary of Defense / Secretary of War (2025-)",
+"Fox News (2014-2024)",
+"Army National Guard",
+"Secretary of War / Secretary of Defense (2025-present)"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "2026-02-19",
+"event": "President Trump publicly directs the Secretary of War to identify and release government files on UAP and extraterrestrial life",
+"precision": "day"
+},
+{
+"date": "2026-02-20",
+"event": "Responds publicly to Trump's UAP file-release directive",
+"precision": "day"
+},
+{
+"date": "2026-02-25",
+"event": "Tells reporters DoW will be in full compliance and will coordinate with ODNI",
+"precision": "day"
+},
+{
+"date": "2026-04-01",
+"event": "Receives Rep. Luna's letter demanding AARO's UAP video holdings",
+"precision": "day"
+},
+{
+"date": "2026-05-08",
+"event": "Department of War publishes PURSUE Release 01 at war.gov/UFO",
+"precision": "day"
+},
+{
+"date": "2026-05-08",
+"event": "PURSUE Release 01: 160 declassified files published at war.gov/UFO",
+"precision": "day"
+},
+{
+"date": "2026-05-22",
+"event": "PURSUE Release 02: 64 files, 51 sensor videos",
+"precision": "day"
+},
+{
+"date": "2026-06-12",
+"event": "PURSUE Release 03: 72 files across DoW, FBI, CIA and NASA holdings",
+"precision": "day"
+},
+{
+"date": "2026-07-10",
+"event": "PURSUE Release 04: previously unseen military videos and documents from the 1940s onward",
+"precision": "day"
+},
+{
+"date": "2026-08-07",
+"event": "PURSUE Release 05 published, 41 files",
+"precision": "day"
+},
+{
+"date": "2026-08-07",
+"event": "PURSUE Release 05",
+"precision": "day"
+}
+],
+"claims": [
+{
+"source": "war.gov/UFO portal, accessed 12 August 2026 — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
+"text": "Hegseth's signed statement on the PURSUE portal: the Department of War is 'in lockstep with President Trump to bring unprecedented transparency regarding our government's understanding of Unidentified Anomalous Phenomena.'",
+"tier": 2
+},
+{
+"source": "Hegseth to reporters, reported by DefenseScoop, 25 February 2026",
+"text": "'We're going to be in full compliance with that executive order, [and we're] eager to provide that for the president' and 'I don't want to over-promise and under-deliver.'",
+"tier": 2
+},
+{
+"source": "Department of War news story, 27 February 2026",
+"text": "Asked about extraterrestrial life: 'We'll see... I get to do the review and find out along with you.'",
+"tier": 2
+},
+{
+"source": "DefenseScoop, 25 February 2026",
+"text": "Hegseth committed the Department to work closely with ODNI to implement the release effort.",
+"tier": 2
+},
+{
+"source": "war.gov/UFO official release index, accessed August 2026",
+"text": "The Department of War hosts the PURSUE declassification programme at war.gov/UFO, with five releases published between 8 May and 7 August 2026.",
+"tier": 1
+},
+{
+"source": "war.gov/UFO official page",
+"text": "Hegseth's published statement is that the Department of War is 'in lockstep with President Trump to bring unprecedented transparency regarding our government's understanding of Unidentified Anomalous Phenomena.'",
+"tier": 1
+},
+{
+"source": "war.gov/UFO quoting the President; contemporaneous wire coverage 20 February 2026",
+"text": "President Trump stated on 19 February 2026 that he would direct the Secretary of War to begin identifying and releasing government files related to alien and extraterrestrial life.",
+"tier": 1
+}
+],
+"cls": "person",
+"cluster": "other",
+"conflicts": [
+"PURSUE releases material AARO's annual reports had described as insufficiently supported or unavailable; the two positions have never been reconciled by the Department."
+],
+"connections": [
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2026",
+"dateStart": "2026",
+"direction": "in",
+"edgeLabel": "1 April 2026 letter demanding AARO's video holdings",
+"id": "anna-paulina-luna",
+"l0": false,
+"label": "Anna Paulina Luna",
+"note": "Luna wrote to the Secretary of War seeking AARO's UAP video after the September 2025 testimony; the first PURSUE tranche with 29 sensor videos followed five weeks later.",
+"sources": [
+{
+"date": "2025-09-09",
+"name": "House Oversight - Restoring Public Trust Through UAP Transparency and Whistleblower Protection",
+"url": "https://oversight.house.gov/hearing/restoring-public-trust-through-uap-transparency-and-whistleblower-protection/"
+},
+{
+"date": "2026-08-07",
+"name": "Department of War - PURSUE portal (war.gov/UFO)",
+"url": "https://www.war.gov/UFO/"
+}
+],
+"tier": "A",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "2026",
+"dateStart": "2026",
+"direction": "in",
+"edgeLabel": "1 April 2026 letter demanding AARO's UAP video holdings",
+"id": "anna-paulina-luna",
+"l0": false,
+"label": "Anna Paulina Luna",
+"note": "Luna wrote to the Secretary of War for video files held by AARO after September 2025 witnesses told the Task Force AARO held additional records; the PURSUE releases followed within five weeks.",
+"sources": [
+{
+"date": "2026-04-01",
+"name": "House Oversight - Luna continues transparency investigation into UAPs",
+"url": "https://oversight.house.gov/release/luna-continues-transparency-investigation-into-uaps"
+},
+{
+"date": "2026-05-25",
+"name": "Sentinel News - The AARO Saga",
+"url": "https://www.sentinel-news.org/p/the-aaro-saga"
+},
+{
+"date": "2026-05-22",
+"name": "Department of War - war.gov/UFO",
+"url": "https://www.war.gov/UFO/"
+}
+],
+"tier": "A",
+"type": "legislative"
+},
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": null,
+"dateStart": "2026",
+"direction": "out",
+"edgeLabel": "Releasing authority; signed transparency statement on the portal",
+"id": "pursue-releases",
+"l0": true,
+"label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters",
+"note": "Hegseth, Louisville, 23 February 2026: 'We're going to be in full compliance with that executive order... there'll be more coming on that.' He set no timeline.",
+"sources": [
+{
+"date": "2026-08-07",
+"name": "Department of War - PURSUE portal (war.gov/UFO)",
+"url": "https://www.war.gov/UFO/"
+},
+{
+"date": "2026-02-25",
+"name": "DefenseScoop - Hegseth doubles down on Trump's UAP disclosure promise as AARO's caseload exceeds 2,000",
+"url": "https://defensescoop.com/2026/02/25/hegseth-ufo-disclosure-trump-aaro-uap-caseload/"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 2,
+"cls": "document",
+"dateEnd": null,
+"dateStart": "2026-02-20",
+"direction": "in",
+"edgeLabel": "directed to",
+"id": "trump-truth-social-post-2026-02-20",
+"l0": false,
+"label": "Trump Truth Social post directing release of UAP files (20 February 2026)",
+"note": "Trump named Secretary of War Hegseth and 'other departments' as the recipients of the direction; Hegseth accepted it publicly three days later.",
+"sources": [
+{
+"date": "2026-02-20",
+"name": "DefenseScoop, Trump UAP disclosure tease",
+"url": "https://defensescoop.com/2026/02/20/trump-ufo-uap-government-files-disclosure/"
+},
+{
+"date": "2026-02-25",
+"name": "DefenseScoop, Hegseth doubles down",
+"url": "https://defensescoop.com/2026/02/25/hegseth-ufo-disclosure-trump-aaro-uap-caseload/"
+}
+],
+"tier": "B",
+"type": "programmatic"
+},
+{
+"claimTier": 2,
+"cls": "document",
+"dateEnd": "2026",
+"dateStart": "2026",
+"direction": "out",
+"edgeLabel": "Named implementer; called it 'that executive order'",
+"id": "trump-uap-release-directive-2026",
+"l0": false,
+"label": "Presidential direction to identify and release UAP files (19-20 February 2026)",
+"note": "Hegseth told reporters on 25 February 2026 the department would be in full compliance with 'that executive order' and would coordinate with ODNI, while declining to give a schedule.",
+"sources": [
+{
+"date": "2026-02-25",
+"name": "DefenseScoop - Hegseth doubles down on Trump's UAP disclosure promise as AARO's caseload exceeds 2,000",
+"url": "https://defensescoop.com/2026/02/25/hegseth-ufo-disclosure-trump-aaro-uap-caseload/"
+}
+],
+"tier": "B",
+"type": "programmatic"
+}
+],
+"date": "2026-05-08",
+"dateEnd": null,
+"dateStart": "2026-05-08",
+"deg": 4,
+"denials": [],
+"domains": [
+"_rs-archive-mirror",
+"releases-2023-2026",
+"uaptf-aaro"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "pete-hegseth",
+"instId": "dod",
+"l0": false,
+"label": "Pete Hegseth",
+"loc": "Arlington, VA",
+"locId": "l-dc",
+"members": null,
+"narrative": "Hegseth is the named releasing authority for every PURSUE tranche. On 20 February 2026, hours after Trump's Truth Social post directing him to begin identifying and releasing UAP files, Hegseth answered publicly with a screenshot and emoji rather than a policy statement; on 25 February he told reporters the Department would be 'in full compliance with that executive order, [and we're] eager to provide that for the president,' while hedging on schedule - 'I don't want to over-promise and under-deliver. So, we're going to take a little time to make sure we assess what this should look like.' He also committed the Department to work 'closely with the Office of the Director of National Intelligence' on implementation, which is why ODNI-numbered documents appear inside a war.gov release series. His published statement on the PURSUE portal is that the Department is 'in lockstep with President Trump to bring unprecedented transparency regarding our government's understanding of Unidentified Anomalous Phenomena.' Between 8 May and 7 August 2026 his department published five tranches - roughly 400-plus files including well over a hundred sensor videos - through a portal that is not AARO's. That routing is the substantive fact about Hegseth in this domain: the material went out over the head of the statutory UAP office, from the Secretary's own web estate, with an explicit departmental refusal to characterise any of it. Asked directly whether extraterrestrial life exists, he said: 'We'll see... I get to do the review and find out along with you.'",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Pete Hegseth",
+"sources": [
+{
+"date": "2026-08-10",
+"name": "Archived: Department of War - PURSUE portal (war.gov/UFO) (Wayback 2026-08-10)",
+"url": "https://web.archive.org/web/20260810202017/https://www.war.gov/UFO/"
+},
+{
+"date": "2026-05-08",
+"name": "Archived: Department of War - This Week in DOW: Honoring Heroes, Patrolling Oceans, Uncovering Truth, Out There (Wayback 2026-05-08)",
+"url": "https://web.archive.org/web/20260508180209/https://www.war.gov/News/News-Stories/Article/Article/4418161/this-week-in-dow-honoring-heroes-patrolling-oceans-uncovering-truth-out-there/"
+},
+{
+"date": "2026-08-07",
+"name": "Department of War - PURSUE portal (war.gov/UFO)",
+"url": "https://www.war.gov/UFO/"
+},
+{
+"date": "2026-02-25",
+"name": "DefenseScoop - Hegseth doubles down on Trump's UAP disclosure promise as AARO's caseload exceeds 2,000",
+"url": "https://defensescoop.com/2026/02/25/hegseth-ufo-disclosure-trump-aaro-uap-caseload/"
+},
+{
+"date": "2026-02-27",
+"name": "Department of War - This Week in DOW: Honoring Heroes, Patrolling Oceans, Uncovering Truth, Out There",
+"url": "https://www.war.gov/News/News-Stories/Article/Article/4418161/this-week-in-dow-honoring-heroes-patrolling-oceans-uncovering-truth-out-there/"
+},
+{
+"date": "2026-02-20",
+"name": "DefenseScoop - Transparency proponents meet Trump's UAP disclosure tease with hope and caution",
+"url": "https://defensescoop.com/2026/02/20/trump-ufo-uap-government-files-disclosure/"
+},
+{
+"date": "2026-02-20",
+"name": "Malay Mail/AFP - Trump orders federal agencies to identify and release files on UFOs and aliens",
+"url": "https://www.malaymail.com/amp/news/world/2026/02/20/trump-orders-federal-agencies-to-identify-and-release-files-on-ufos-and-aliens/209702"
+},
+{
+"date": "2026-03-07",
+"name": "CNN - Trump vowed to release government files on aliens and UFOs",
+"url": "https://www.cnn.com/2026/03/07/us/aliens-ufos-files-release-trump"
+},
+{
+"date": "2026-08-10",
+"name": "EarthSky - 5th batch of Pentagon UAP files: Orbs and triangles",
+"url": "https://earthsky.org/human-world/pentagon-uap-files-batch-5-ufos-orbs-triangles/"
+}
+],
+"status": "active",
+"sub": "Secretary of War; releasing authority for PURSUE",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 165 of 1027, score 47). 5 connections, 2 of them custody/witness/funding/programmatic. Axes C1/A3/D3.",
+"timeline": [],
+"unexplainedResidual": null,
+"unverified": [
+"Whether any formal executive order text exists beyond the President's 19 February 2026 public direction."
+]
+}

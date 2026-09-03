@@ -1,0 +1,139 @@
+{
+"A": 1,
+"C": 0,
+"D": 2,
+"affiliations": [
+"U.S. House of Representatives, TX-30 (2023- )",
+"Committee on Oversight and Government Reform (2023- )",
+"Task Force on the Declassification of Federal Secrets, Ranking Member (2025- )"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "2025-02-11",
+"event": "Named Ranking Member of the Task Force on the Declassification of Federal Secrets.",
+"precision": "day"
+},
+{
+"date": "2025-09-09",
+"event": "Delivers the minority opening statement at the UAP transparency hearing; questions POGO's Spielberger on whistleblower protections.",
+"precision": "day"
+}
+],
+"claims": [
+{
+"source": "Ranking Member Jasmine Crockett, 9 September 2025, GPO CHRG-119hhrg61718",
+"text": "'The Federal Government has had a longstanding overclassification issue in general... from the assassinations of MLK and Malcolm X, to the FBI's Counterintelligence Program (COINTELPRO) and torture programs, to now UAPs.'",
+"tier": 1
+},
+{
+"source": "CHRG-119hhrg61718, 9 September 2025",
+"text": "'The reality is that we cause more harm than good when we allow a lack of transparency to fester. It allows for all types of conspiracy theories instead of us actually making the investments that we need to make to get the information and actually provide it to the American people.'",
+"tier": 1
+},
+{
+"source": "CHRG-119hhrg61718; oversight.house.gov Task Force page",
+"text": "Ranking Member of the Task Force on the Declassification of Federal Secrets as printed in the hearing record and on the committee's membership page.",
+"tier": 1
+}
+],
+"cls": "person",
+"cluster": "oversight",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "2025",
+"dateStart": "2025",
+"direction": "out",
+"edgeLabel": "Called him as the minority witness and devoted her round to whistleblower protection architecture",
+"id": "joe-spielberger",
+"l0": false,
+"label": "Joe Spielberger",
+"note": "The policy bridge from UAP allegations to H.R. 5060.",
+"sources": [
+{
+"date": "2025-09-09",
+"name": "U.S. GPO, Hearing transcript, Serial No. 119-44 (CHRG-119hhrg61718)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm"
+}
+],
+"tier": "C",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": null,
+"dateStart": "2025",
+"direction": "out",
+"edgeLabel": "Ranking Member",
+"id": "task-force-declassification-federal-secrets",
+"l0": true,
+"label": "Task Force on the Declassification of Federal Secrets",
+"note": "Printed as Ranking Member in the roster of CHRG-119hhrg61718.",
+"sources": [
+{
+"date": "2025-09-09",
+"name": "U.S. GPO, Hearing transcript, Serial No. 119-44 (CHRG-119hhrg61718)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm"
+},
+{
+"date": "2026-08-12",
+"name": "House Oversight Committee, Task Force on the Declassification of Federal Secrets — membership page",
+"url": "https://oversight.house.gov/subcommittee/task-force-on-the-declassification-of-federal-secrets/"
+}
+],
+"tier": "C",
+"type": "institutional"
+}
+],
+"date": "2025-09-09",
+"dateEnd": null,
+"dateStart": "2025-09-09",
+"deg": 2,
+"denials": [],
+"domains": [
+"congress-house"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "jasmine-crockett",
+"instId": "house-oversight-committee",
+"l0": false,
+"label": "Jasmine Felicia Crockett",
+"loc": "Dallas, TX",
+"locId": null,
+"members": null,
+"narrative": "Crockett is the Democratic ranking member of the Task Force and the reason the September 2025 hearing was a bipartisan proceeding rather than a partisan one. Her opening statement placed UAP secrecy inside the documented history of American overclassification rather than outside it: 'from the assassinations of MLK and Malcolm X, to the FBI's Counterintelligence Program (COINTELPRO) and torture programs, to now UAPs. The Federal Government has kept the American public in the dark about issues of immense public interest.' She declined to adopt the non-human hypothesis, noting NASA has found no evidence of extraterrestrial origin and that adversary capability is a likely explanation - and then argued that none of that reduces the government's obligation to disclose or its obligation to protect the people who report. Her questioning went entirely to Joe Spielberger of the Project On Government Oversight on whistleblower protection architecture. She closed by thanking Luna for 'focusing on governing, which should be about transparency' and warning that 'we cause more harm than good when we allow a lack of transparency to fester.'",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Jasmine Felicia Crockett",
+"sources": [
+{
+"date": "2025-09-09",
+"name": "U.S. GPO, Hearing transcript, Serial No. 119-44 (CHRG-119hhrg61718)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm"
+},
+{
+"date": "2026-08-12",
+"name": "House Oversight Committee, Task Force on the Declassification of Federal Secrets — membership page",
+"url": "https://oversight.house.gov/subcommittee/task-force-on-the-declassification-of-federal-secrets/"
+}
+],
+"status": "active",
+"sub": "U.S. Rep. (D-TX-30); Ranking Member, Task Force on the Declassification of Federal Secrets",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 796 of 1027, score 18). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D2.",
+"timeline": [],
+"unexplainedResidual": null,
+"unverified": []
+}

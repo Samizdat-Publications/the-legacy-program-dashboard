@@ -1,0 +1,82 @@
+{
+"A": 1,
+"C": 0,
+"D": 3,
+"band": null,
+"claims": [
+{
+"source": "Ryan Graves, written testimony, House Oversight, 26 July 2023",
+"text": "'A pivotal incident occurred during an air combat training mission in Warning Area W-72 ... The jets, only 100 feet apart, were forced to take evasive action.'",
+"tier": 1
+},
+{
+"source": "Ryan Graves, written testimony, House Oversight, 26 July 2023",
+"text": "'Our squadron submitted a safety report, but there was no official acknowledgement of the incident and no further mechanism to report the sightings.'",
+"tier": 1
+}
+],
+"cls": "institution",
+"cluster": "witness",
+"connections": [
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": "2015",
+"dateStart": "2014",
+"direction": "out",
+"edgeLabel": "Squadron at the centre of the Atlantic encounter series",
+"id": "roosevelt-2014-2015",
+"l0": true,
+"label": "USS Theodore Roosevelt Encounters (2014-2015)",
+"note": "Graves names VFA-11 and Warning Area W-72 in sworn testimony as the locus of the encounters and the near-midair.",
+"sources": [
+{
+"date": "2023-07-26",
+"name": "House Oversight - Graves written testimony (PDF)",
+"url": "https://oversight.house.gov/wp-content/uploads/2023/07/Ryan-HOC-Testimony.pdf"
+}
+],
+"tier": "B",
+"type": "institutional"
+}
+],
+"coords": null,
+"dateEnd": "2015",
+"dateStart": "2014",
+"deg": 1,
+"denials": [],
+"desc": "The squadron whose 2014-2015 encounters turned UAP from a single spectacular incident into a documented, repeated flight-safety problem. Ryan Graves testified that 'In 2014, I was near Virginia Beach as part of VFA-11, a Navy Fighter/Attack Squadron made up of F/A-18F Super Hornets,' and that after the fleet's upgrade to the APG-79 AESA radar the squadron 'began witnessing advanced UAP demonstrating complex maneuvers on a regular basis.' The defining event occurred in Warning Area W-72 ten miles east of Virginia Beach, where a pilot saw 'a dark gray cube inside of a clear sphere - motionless against the wind, fixed directly at the entry point' and two jets 'only 100 feet apart, were forced to take evasive action.' The squadron filed a safety report. Graves's testimony records the institutional response: 'there was no official acknowledgement of the incident and no further mechanism to report the sightings.' Two of the three DoD-released videos, GIMBAL and GO FAST, both from January 2015, came out of this operating environment, and Tim Gallaudet's account of a recalled January 2015 Fleet Forces Command safety message citing 'multiple near-midair collisions' describes the command-level reaction to exactly this squadron's problem.",
+"domains": [
+"aviators-incidents"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "2",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "vfa-11",
+"l0": false,
+"label": "Strike Fighter Squadron 11 (VFA-11 Red Rippers)",
+"locLabel": null,
+"members": null,
+"short": "Strike Fighter Squadron 11 (VFA-11 Red Rippers)",
+"sources": [
+{
+"date": "2023-07-26",
+"name": "House Oversight - Graves written testimony (PDF)",
+"url": "https://oversight.house.gov/wp-content/uploads/2023/07/Ryan-HOC-Testimony.pdf"
+},
+{
+"date": "2024-11-13",
+"name": "House Oversight - Gallaudet written testimony (PDF)",
+"url": "https://oversight.house.gov/wp-content/uploads/2024/11/Updated-Testimony-Gallaudet.pdf"
+}
+],
+"sub": "F/A-18F squadron, USS Theodore Roosevelt workups, 2014-2015",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 860 of 1027, score 16). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D3.",
+"timeline": []
+}

@@ -1,0 +1,124 @@
+{
+"A": 0,
+"C": 0,
+"D": 2,
+"band": null,
+"claims": [
+{
+"source": "majesticdocuments.com, site structure and copyright notice, retrieved 12 August 2026",
+"text": "majesticdocuments.com is operated by Dr. Robert M. Wood and Ryan S. Wood, carries a 1999-2026 copyright, publishes an 'Authenticity Ratings' scheme, and organises holdings by date band alongside sections for FOIA, NARA, Truman Library, British Public Record Office and NICAP material and for the Air Force/GAO investigations.",
+"tier": 1
+},
+{
+"source": "Chain-of-custody inference",
+"text": "The archive's forensic framework is the right instrument applied to a corpus whose chain of custody disqualifies it, which is why this board treats the MJ-12 material as evidence about the disinformation apparatus rather than about recovery operations. Reasoning: the December 1984 delivery falls inside the window Moore admitted to working with AFOSI.",
+"tier": 3
+}
+],
+"cls": "program",
+"cluster": "research",
+"connections": [
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "2026",
+"dateStart": "1999",
+"direction": "in",
+"edgeLabel": "Co-principal of the document archive and its rating scheme",
+"id": "robert-m-wood",
+"l0": false,
+"label": "Dr. Robert M. Wood",
+"note": "The site carries a 1999-2026 copyright in the name 'Majestic Documents Wood & Wood' and identifies Dr. Robert M. Wood and Ryan S. Wood as its principals.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "The Majestic Documents (Wood & Wood)",
+"url": "https://majesticdocuments.com/"
+}
+],
+"tier": "C",
+"type": "research"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "2026",
+"dateStart": "1999",
+"direction": "in",
+"edgeLabel": "Co-principal of the document archive",
+"id": "ryan-wood",
+"l0": false,
+"label": "Ryan S. Wood",
+"note": "Same copyright notice and About page attribution.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "The Majestic Documents (Wood & Wood)",
+"url": "https://majesticdocuments.com/"
+}
+],
+"tier": "C",
+"type": "research"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "1999",
+"dateStart": "1984-12",
+"direction": "in",
+"edgeLabel": "The archive's core corpus entered the record through Moore's mailbox",
+"id": "william-l-moore",
+"l0": false,
+"label": "William L. Moore",
+"note": "The Eisenhower Briefing Document and Truman-Forrestal memorandum arrived as undeveloped 35mm film addressed to Moore and Shandera in December 1984; everything downstream in the corpus dates from that delivery.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "The Majestic Documents (Wood & Wood)",
+"url": "https://majesticdocuments.com/"
+}
+],
+"tier": "B",
+"type": "custody"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "1999",
+"deg": 3,
+"denials": [],
+"desc": "majesticdocuments.com, operated by Dr. Robert M. Wood and Ryan S. Wood since 1999 and still active in 2026, is the only sustained attempt to treat the leaked-document corpus of this domain as a forensic problem rather than a matter of belief. It organises its holdings by date band - pre-1948, 1948-1959, 1960-1969, 1970-present - and applies a published authenticity-rating scheme, with separate sections for document sources, authentication articles, summary arguments and an explicit disclaimer. Alongside the contested MJ-12 material it aggregates uncontested official record sets: FOIA releases, National Archives and Truman Library holdings, British Public Record Office material, NICAP publications, and the Air Force and GAO Roswell reports. It also maintains a first-hand and second-hand witness index and an MJ-12 master list of named personnel. The archive's value to this board is double-edged and both edges should be stated. As a repository of official material and as a forensic framework it is genuinely useful and no government body has published a competing analysis. As a source of conclusions it is unusable for tier 1 or tier 2 purposes, because the core corpus arrived anonymously in December 1984 at the address of William L. Moore, who later stated publicly that he was cooperating with Air Force counterintelligence at the time.",
+"domains": [
+"w2-retrieval-literature"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "1",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "majestic-documents-archive",
+"l0": false,
+"label": "The Majestic Documents archive (Wood and Wood)",
+"locLabel": null,
+"members": null,
+"short": "The Majestic Documents archive (Wood and Wood)",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "The Majestic Documents (Wood & Wood)",
+"url": "https://majesticdocuments.com/"
+},
+{
+"date": "2026-08-12",
+"name": "The Majestic Documents - About",
+"url": "https://majesticdocuments.com/about/"
+}
+],
+"sub": "Online leaked-document repository with published authenticity ratings, 1999-present",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 911 of 1027, score 14). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D2.",
+"timeline": []
+}

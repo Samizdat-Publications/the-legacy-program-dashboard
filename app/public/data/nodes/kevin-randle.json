@@ -1,0 +1,314 @@
+{
+"A": 1,
+"C": 0,
+"D": 3,
+"affiliations": [
+"US Army, Vietnam (116th and 187th Assault Helicopter Companies)",
+"US Air Force / Air Force Reserve, intelligence officer",
+"Iowa National Guard, 234th Signal Battalion, Iraq 2003-2004",
+"J. Allen Hynek Center for UFO Studies"
+],
+"age": 77,
+"band": null,
+"chronology": [
+{
+"date": "1949-06-04",
+"event": "Born",
+"precision": "day"
+},
+{
+"date": "1972",
+"event": "Publishes first UFO article in Saga's Annual UFO Report",
+"precision": "year"
+},
+{
+"date": "1991",
+"event": "'UFO Crash at Roswell' with Donald R. Schmitt (Avon)",
+"precision": "year"
+},
+{
+"date": "1994",
+"event": "'The Truth About the UFO Crash at Roswell' with Schmitt; also 'Conclusions on Operation Majestic Twelve'",
+"precision": "year"
+},
+{
+"date": "1995",
+"event": "'A History of UFO Crashes'",
+"precision": "year"
+},
+{
+"date": "1999",
+"event": "'Project Moon Dust: Beyond Roswell'",
+"precision": "year"
+},
+{
+"date": "2002",
+"event": "'Case MJ-12: The True Story Behind the Government's UFO Conspiracies'",
+"precision": "year"
+},
+{
+"date": "2009",
+"event": "Retires from the Iowa National Guard as a lieutenant colonel",
+"precision": "year"
+},
+{
+"date": "2016",
+"event": "'Roswell in the 21st Century: the Evidence as it Exists Today'",
+"precision": "year"
+}
+],
+"claims": [
+{
+"source": "Library catalogue records mirrored at the Internet Archive (truthaboutufocra0000rand; ufocrashatroswel00rand) — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"text": "'The Truth About the UFO Crash at Roswell' by Kevin D. Randle and Donald R. Schmitt was published in 1994, 251 pages with bibliographical references and index; 'UFO Crash at Roswell' was published in 1991.",
+"tier": 2
+},
+{
+"source": "Robert Sheaffer interviews with Randle, Skeptical Inquirer",
+"text": "Randle told Skeptical Inquirer that he is 'getting more skeptical in my old age', that he sets 'a very high bar for the level of evidence required', and later that he is no longer sure what happened at Roswell and the case for extraterrestrial involvement is no longer robust.",
+"tier": 2
+},
+{
+"source": "Randle, 'Conclusions on Operation Majestic Twelve' (1994) and 'Case MJ-12' (2002)",
+"text": "Randle concluded the Majestic 12 documents were not authentic, in direct opposition to Stanton Friedman.",
+"tier": 2
+}
+],
+"cls": "person",
+"cluster": "research",
+"conflicts": [
+"Randle and Schmitt publicly split; Randle later repudiated several witnesses the two of them had jointly relied on, including Frank Kaufmann and Glenn Dennis."
+],
+"connections": [
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "1996",
+"dateStart": "1991",
+"direction": "out",
+"edgeLabel": "Co-authors of the two Roswell books, later estranged",
+"id": "don-schmitt",
+"l0": false,
+"label": "Donald R. Schmitt",
+"note": "'UFO Crash at Roswell' (1991) and 'The Truth About the UFO Crash at Roswell' (1994). Randle later broke with Schmitt over Schmitt's misrepresentation of his own background and withdrew support for witnesses they had jointly relied on.",
+"sources": [
+{
+"date": "1994-01-01",
+"name": "The truth about the UFO crash at Roswell (1994)",
+"url": "https://archive.org/details/truthaboutufocra0000rand"
+}
+],
+"tier": "C",
+"type": "research"
+},
+{
+"claimTier": 3,
+"cls": "person",
+"dateEnd": "2010",
+"dateStart": "1995",
+"direction": "in",
+"edgeLabel": "Randle's case-by-case surveys audit Stringfield's corpus",
+"id": "leonard-stringfield",
+"l0": false,
+"label": "Leonard H. Stringfield",
+"note": "'A History of UFO Crashes' (1995) and 'Crash: When UFOs Fall From the Sky' (2010) revisit the Status Report cases with named sourcing where it exists and rejection where it does not. Reasoning: comparison of case lists.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Stringfield Status Reports 1-7 (scans)",
+"url": "https://archive.org/details/stringfield_Retrievals_Report_6_inner_sanctum_LQ"
+}
+],
+"tier": "C",
+"type": "research"
+},
+{
+"claimTier": 3,
+"cls": "person",
+"dateEnd": "1997",
+"dateStart": "1991",
+"direction": "in",
+"edgeLabel": "The Air Force reports were the institutional response to the Randle-Schmitt books",
+"id": "richard-weaver-usaf",
+"l0": false,
+"label": "Col. Richard L. Weaver",
+"note": "The GAO inquiry that produced the Air Force reports was initiated by Rep. Steven Schiff after the 1991 book and the surrounding publicity; the 1997 report devotes appendices to rebutting the specific witnesses those books introduced. Reasoning: the report's structure tracks the books' witness list.",
+"sources": [
+{
+"date": "1997-01-01",
+"name": "The Roswell Report: Case Closed (1997)",
+"url": "https://archive.org/details/AFD-101027-030"
+}
+],
+"tier": "C",
+"type": "denial"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2019",
+"dateStart": "1987",
+"direction": "in",
+"edgeLabel": "Unresolved dispute over MJ-12 authenticity",
+"id": "stanton-friedman",
+"l0": false,
+"label": "Stanton T. Friedman",
+"note": "Friedman held there were no substantive grounds for dismissing the core documents while himself proving parts of the corpus faked; Randle concluded the whole was not authentic. Neither position has been settled by any released record.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Stanton T. Friedman - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/Stanton_T._Friedman"
+}
+],
+"tier": "B",
+"type": "denial"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2002",
+"dateStart": "1989-07",
+"direction": "in",
+"edgeLabel": "Moore's 1989 AFOSI admission is Randle's strongest argument against MJ-12",
+"id": "william-l-moore",
+"l0": false,
+"label": "William L. Moore",
+"note": "Moore stated publicly at the 1989 MUFON symposium that he had cooperated with AFOSI and passed disinformation to Paul Bennewitz; Randle's 'Conclusions on Operation Majestic Twelve' (1994) and 'Case MJ-12' (2002) treat the corpus as fabricated.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Stanton T. Friedman - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/Stanton_T._Friedman"
+}
+],
+"tier": "B",
+"type": "denial"
+}
+],
+"date": "1949-06-04",
+"dateEnd": null,
+"dateStart": "1949-06-04",
+"deg": 5,
+"denials": [
+{
+"by": {
+"id": "richard-weaver-usaf",
+"label": "Col. Richard L. Weaver"
+},
+"claimTier": 3,
+"denialKind": "directed",
+"label": "The Air Force reports were the institutional response to the Randle-Schmitt books",
+"note": "The GAO inquiry that produced the Air Force reports was initiated by Rep. Steven Schiff after the 1991 book and the surrounding publicity; the 1997 report devotes appendices to rebutting the specific witnesses those books introduced. Reasoning: the report's structure tracks the books' witness list.",
+"of": {
+"id": "kevin-randle",
+"label": "Kevin D. Randle"
+},
+"sources": [
+{
+"date": "1997-01-01",
+"name": "The Roswell Report: Case Closed (1997)",
+"url": "https://archive.org/details/AFD-101027-030"
+}
+]
+},
+{
+"by": {
+"id": "stanton-friedman",
+"label": "Stanton T. Friedman"
+},
+"claimTier": 2,
+"denialKind": "association",
+"label": "Unresolved dispute over MJ-12 authenticity",
+"note": "Friedman held there were no substantive grounds for dismissing the core documents while himself proving parts of the corpus faked; Randle concluded the whole was not authentic. Neither position has been settled by any released record.",
+"of": {
+"id": "kevin-randle",
+"label": "Kevin D. Randle"
+},
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Stanton T. Friedman - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/Stanton_T._Friedman"
+}
+]
+},
+{
+"by": {
+"id": "william-l-moore",
+"label": "William L. Moore"
+},
+"claimTier": 2,
+"denialKind": "association",
+"label": "Moore's 1989 AFOSI admission is Randle's strongest argument against MJ-12",
+"note": "Moore stated publicly at the 1989 MUFON symposium that he had cooperated with AFOSI and passed disinformation to Paul Bennewitz; Randle's 'Conclusions on Operation Majestic Twelve' (1994) and 'Case MJ-12' (2002) treat the corpus as fabricated.",
+"of": {
+"id": "kevin-randle",
+"label": "Kevin D. Randle"
+},
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Stanton T. Friedman - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/Stanton_T._Friedman"
+}
+]
+}
+],
+"domains": [
+"w2-retrieval-literature"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "kevin-randle",
+"instId": "cufos",
+"l0": false,
+"label": "Kevin D. Randle",
+"loc": "Cedar Rapids, IA",
+"locId": null,
+"members": null,
+"narrative": "Kevin Douglas Randle (born 4 June 1949) is the closest thing the retrieval literature has to an internal auditor with a security background. He flew UH-1s with the 116th and 187th Assault Helicopter Companies in Vietnam, served in the Air Force as a public affairs officer, general's aide and intelligence officer, completed Air Force Reserve service as a captain and director of intelligence for an airlift group, then joined the Iowa National Guard as an intelligence officer after 11 September 2001, deploying with the 234th Signal Battalion to Baghdad International Airport in June 2003 and retiring as a lieutenant colonel in 2009. With Donald R. Schmitt he wrote 'UFO Crash at Roswell' (1991) and 'The Truth About the UFO Crash at Roswell' (1994), the two books that drove Roswell into congressional attention and produced the Air Force counter-reports. Randle is important to this board precisely because he moved against the current: he demolished the Majestic 12 documents in 'Conclusions on Operation Majestic Twelve' (1994) and 'Case MJ-12' (2002) while Friedman defended them, he withdrew his and Schmitt's support for witnesses who did not hold up, and he later told Skeptical Inquirer's Robert Sheaffer that he sets a very high bar for evidence, that most abductees are describing sleep paralysis, and eventually that he was 'no longer sure what actually happened' at Roswell and that the case for extraterrestrial involvement 'is no longer robust.' He also wrote 'Project Moon Dust' (1999), 'A History of UFO Crashes' (1995) and 'Crash: When UFOs Fall From the Sky' (2010), which is the field's most systematic case-by-case survey.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Kevin D. Randle",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Kevin D. Randle - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/Kevin_D._Randle"
+},
+{
+"date": "2026-08-12",
+"name": "The truth about the UFO crash at Roswell (1994) - Internet Archive",
+"url": "https://archive.org/details/truthaboutufocra0000rand"
+},
+{
+"date": "2026-08-12",
+"name": "UFO crash at Roswell (1991) - Internet Archive",
+"url": "https://archive.org/details/ufocrashatroswel00rand"
+}
+],
+"status": "active",
+"sub": "Lt Col (ret.), USAF/Army/Iowa NG intelligence officer; Roswell author",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 407 of 1027, score 32). 5 connections, 0 of them custody/witness/funding/programmatic, 3 official denials recorded against it. Axes C0/A1/D3.",
+"timeline": [
+{
+"date": "1991",
+"id": "tl-1991-ufo-crash",
+"label": "UFO Crash at Roswell",
+"precision": "year",
+"strand": "program",
+"text": "Randle and Schmitt publish the book that drives Roswell into congressional attention. Haut, described as 'not a witness' in 1980, now appears as a witness, though not to the debris.",
+"tier": "A"
+}
+],
+"unexplainedResidual": null,
+"unverified": []
+}

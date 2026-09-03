@@ -1,0 +1,143 @@
+{
+"A": 3,
+"C": 0,
+"D": 2,
+"affiliations": [
+"U.S. Senate, Virginia (2009- )",
+"Chairman, Senate Select Committee on Intelligence (2021-2025); Vice Chairman (2025- )"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "2023-07-13",
+"event": "Submits S.Amdt. 666, the IAA for FY2024, containing Sec. 1102",
+"precision": "day"
+},
+{
+"date": "2023-07-27",
+"event": "Senate passes S. 2226 carrying Division M, Sec. 1102",
+"precision": "day"
+},
+{
+"date": "2023-12-22",
+"event": "Enacted as Sec. 7343 of P.L. 118-31 with the contractor turn-in and immunity removed",
+"precision": "day"
+}
+],
+"claims": [
+{
+"source": "S. 2226 as engrossed, Division M, Sec. 1102(d), GPO",
+"text": "Senate-passed IAA FY2024 Sec. 1102(d) required any current or former Federal contractor holding such material to notify the AARO Director within 60 days and within 180 days provide 'a comprehensive list of all non-earth origin or exotic unidentified anomalous phenomena material.'",
+"tier": 1
+},
+{
+"source": "S. 2226 as engrossed, Division M, Sec. 1102(e), GPO",
+"text": "Sec. 1102(e) granted immunity: 'No criminal or civil action may lie or be maintained in any Federal or State court against any person for receiving material or information described in subsection (d) if that person complies.'",
+"tier": 1
+},
+{
+"source": "S. 2226 as engrossed, Division M, Sec. 1102(c)(6), GPO",
+"text": "Sec. 1102(c)(6) reached 'any aerospace craft that uses propulsion technology other than chemical propellants, solar power, or electric ion thrust.'",
+"tier": 1
+},
+{
+"source": "P.L. 118-31, Sec. 7343, GPO",
+"text": "The enacted counterpart, Sec. 7343 of P.L. 118-31, contains no subsection (d), no immunity clause and no enumerated activities.",
+"tier": 1
+}
+],
+"cls": "person",
+"cluster": "ic",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 1,
+"cls": "legislation",
+"dateEnd": "2023",
+"dateStart": "2023",
+"direction": "out",
+"edgeLabel": "Author of the IAA FY2024 contractor turn-in",
+"id": "iaa-fy2024-sec-1102",
+"l0": true,
+"label": "IAA FY2024 Sec. 1102 — contractor turn-in of 'non-earth origin or exotic' UAP material",
+"note": "Warner submitted S.Amdt. 666 on 13 July 2023, which became Division M of the engrossed bill containing Sec. 1102.",
+"sources": [
+{
+"date": "2023-07-27",
+"name": "S. 2226 (Engrossed in Senate) — GPO",
+"url": "https://www.govinfo.gov/content/pkg/BILLS-118s2226es/html/BILLS-118s2226es.htm"
+}
+],
+"tier": "A",
+"type": "legislative"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "2025",
+"dateStart": "2021",
+"direction": "out",
+"edgeLabel": "Chairman 2021-2025",
+"id": "senate-intelligence",
+"l0": false,
+"label": "Senate Select Committee on Intelligence",
+"note": "Warner chaired SSCI when it produced the contractor turn-in and the Historical Record Report requirement.",
+"sources": [
+{
+"date": "2022-12-23",
+"name": "P.L. 117-263 — GPO",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-117publ263/html/PLAW-117publ263.htm"
+}
+],
+"tier": "B",
+"type": "institutional"
+}
+],
+"date": "2023-07-13",
+"dateEnd": null,
+"dateStart": "2023-07-13",
+"deg": 2,
+"denials": [],
+"domains": [
+"congress-senate-legislation"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "mark-warner",
+"instId": "us-senate",
+"l0": false,
+"label": "Mark R. Warner",
+"loc": "Washington, DC",
+"locId": "l-dc",
+"members": null,
+"narrative": "Warner is the author of the provision that goes furthest of anything Congress has ever passed toward acknowledging privately held recovered material. On 13 July 2023 he submitted S.Amdt. 666 to S. 2226, the Intelligence Authorization Act for FY2024, which became Division M of the engrossed bill. Its Section 1102 does three things no other enacted or passed text does. It cuts off all funds for UAP activity 'protected under any form of special access or restricted access limitations' that has not been 'formally, officially, explicitly, and specifically described, explained, and justified' to Congress, and then enumerates exactly what it means: recruiting and securing personnel whose mission is 'capturing, recovering, and securing unidentified anomalous phenomena craft or pieces and components of such craft'; analysing such craft to determine 'material composition, method of manufacture, origin'; 'reverse engineering or replicating unidentified anomalous phenomena technology'; and 'any aerospace craft that uses propulsion technology other than chemical propellants, solar power, or electric ion thrust.' Second, it orders any person under contract with the Government holding such material to notify the Director of AARO within 60 days and to hand over within 180 days 'a comprehensive list of all non-earth origin or exotic unidentified anomalous phenomena material,' with civil and criminal immunity for those who comply. Third, it disallows independent research and development funding on such material as an indirect expense unless it is surrendered. The Senate passed all of it on 27 July 2023. The enacted version, Section 7343 of P.L. 118-31, kept the funding limitation in generic form and deleted the enumerated activities, the contractor turn-in, the comprehensive list, and the immunity.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Mark R. Warner",
+"sources": [
+{
+"date": "2023-07-27",
+"name": "S. 2226 (Engrossed in Senate), Division M, Sec. 1102 — GPO",
+"url": "https://www.govinfo.gov/content/pkg/BILLS-118s2226es/html/BILLS-118s2226es.htm"
+},
+{
+"date": "2023-12-22",
+"name": "P.L. 118-31, Sec. 7343 as enacted — GPO",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm"
+}
+],
+"status": "active",
+"sub": "D-VA; SSCI Chairman 2021-2025; author of the IAA contractor turn-in",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 552 of 1027, score 27). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A3/D2.",
+"timeline": [],
+"unexplainedResidual": null,
+"unverified": []
+}

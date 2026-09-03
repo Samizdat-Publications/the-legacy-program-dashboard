@@ -1,0 +1,216 @@
+{
+"A": 1,
+"C": 2,
+"D": 2,
+"band": null,
+"claims": [
+{
+"source": "David Fravor, written statement to House Oversight, 26 July 2023",
+"text": "Princeton tracked the objects on Aegis for roughly two weeks before 14 Nov 2004, observing descents from above 80,000 ft to 20,000 ft.",
+"tier": 1
+},
+{
+"source": "Navy range fouler report on the 14 Nov 2004 incident, released via Navy FOIA reading room 13 January 2023",
+"text": "'Reporting terminated at 3rd Fleet, there was no process to share the reporting.'",
+"tier": 1
+},
+{
+"source": "Kevin Day and Gary Voorhis public accounts, 2018-2019; no primary record located as of Aug 2026",
+"text": "Princeton's recorded radar and CEC data for the encounter were removed or wiped. Reasoning: two crewmen in different billets describe the same collection, and no Princeton sensor data has ever been produced despite the incident being formally documented in Navy range fouler reporting.",
+"tier": 3
+}
+],
+"cls": "institution",
+"cluster": "witness",
+"connections": [
+{
+"claimTier": 3,
+"cls": "person",
+"dateEnd": "2004",
+"dateStart": "2004",
+"direction": "in",
+"edgeLabel": "Says recording media were surrendered or wiped after 14 Nov 2004",
+"id": "gary-voorhis",
+"l0": false,
+"label": "Gary Voorhis",
+"note": "The confiscation account rests on Voorhis and Day, in different billets, describing the same 48-hour window. No document, log entry or chain-of-custody form corroborating it has been located.",
+"sources": [
+{
+"date": "2023-01-14",
+"name": "The War Zone - Tic Tac incident in newly released range fouler reports",
+"url": "https://www.twz.com/tic-tac-uap-incident-included-in-72-newly-released-range-incursion-reports"
+}
+],
+"tier": "C",
+"type": "custody"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2004",
+"dateStart": "2004",
+"direction": "in",
+"edgeLabel": "CEC/Aegis systems technician aboard USS Princeton, Nov 2004",
+"id": "gary-voorhis",
+"l0": false,
+"label": "Gary Voorhis",
+"note": "Voorhis's technical billet placed him at the node where the encounter's recorded machine data physically lived.",
+"sources": [
+{
+"date": "2023-01-14",
+"name": "The War Zone - Tic Tac incident in newly released range fouler reports",
+"url": "https://www.twz.com/tic-tac-uap-incident-included-in-72-newly-released-range-incursion-reports"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 3,
+"cls": "person",
+"dateEnd": "2004",
+"dateStart": "2004",
+"direction": "in",
+"edgeLabel": "Crewman aboard USS Princeton, Nov 2004",
+"id": "jason-turner",
+"l0": false,
+"label": "Jason Turner",
+"note": "Turner is one of several Princeton enlisted crew who have publicly described the post-encounter arrival of outside personnel; his rate and division are not established from primary records.",
+"sources": [
+{
+"date": "2023-01-14",
+"name": "The War Zone - Tic Tac incident in newly released range fouler reports",
+"url": "https://www.twz.com/tic-tac-uap-incident-included-in-72-newly-released-range-incursion-reports"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2004",
+"dateStart": "2004",
+"direction": "in",
+"edgeLabel": "Senior Chief Operations Specialist aboard USS Princeton, Nov 2004",
+"id": "kevin-day",
+"l0": false,
+"label": "Kevin Day",
+"note": "Day's billet is the reason his account of the radar record and its removal carries weight; he is the man who owned the air picture.",
+"sources": [
+{
+"date": "2023-07-26",
+"name": "House Oversight - Fravor written statement (PDF)",
+"url": "https://oversight.house.gov/wp-content/uploads/2023/07/David-Fravor-Statement-for-House-Oversight-Committee.pdf"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": null,
+"dateStart": "2004",
+"direction": "out",
+"edgeLabel": "Generated the primary sensor record of the encounter; no such data has ever been released",
+"id": "nimitz-2004",
+"l0": true,
+"label": "USS Nimitz Carrier Strike Group Encounters, 10-16 November 2004",
+"note": "Fravor testified Princeton tracked the objects on Aegis for two weeks. No Princeton radar or CEC data for 14 Nov 2004 has appeared in any release, and the range fouler report says reporting 'terminated at 3rd Fleet.'",
+"sources": [
+{
+"date": "2023-07-26",
+"name": "House Oversight - Fravor written statement (PDF)",
+"url": "https://oversight.house.gov/wp-content/uploads/2023/07/David-Fravor-Statement-for-House-Oversight-Committee.pdf"
+},
+{
+"date": "2023-01-14",
+"name": "The War Zone - Tic Tac incident in newly released range fouler reports",
+"url": "https://www.twz.com/tic-tac-uap-incident-included-in-72-newly-released-range-incursion-reports"
+}
+],
+"tier": "A",
+"type": "custody"
+},
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": "2004-11-14",
+"dateStart": "2004-11-01",
+"direction": "out",
+"edgeLabel": "Princeton's SPY-1B held the tracks and vectored the intercept",
+"id": "nimitz-2004",
+"l0": true,
+"label": "USS Nimitz Carrier Strike Group Encounters, 10-16 November 2004",
+"note": "Princeton had been observing the objects on Aegis for approximately two weeks, descending from above 80,000 ft to 20,000 ft, before vectoring the VFA-41 section.",
+"sources": [
+{
+"date": "2023-07-26",
+"name": "David Fravor written statement (PDF)",
+"url": "https://oversight.house.gov/wp-content/uploads/2023/07/David-Fravor-Statement-for-House-Oversight-Committee.pdf"
+}
+],
+"tier": "A",
+"type": "institutional"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "2004",
+"deg": 4,
+"denials": [],
+"desc": "The Aegis cruiser that generated the machine record of the November 2004 encounter and, on the accounts of two of its crew, then lost it. Princeton was operating with Carrier Strike Group 11 off Baja California in the weeks before 14 November 2004 with a freshly upgraded SPY-1B radar and Cooperative Engagement Capability suite. Fravor's sworn statement to House Oversight confirms Princeton had been watching the objects 'on their Aegis combat system for the previous 2 weeks,' descending 'from above 80,000ft ... rapidly down to 20,000ft' and loitering for hours. Princeton's air warfare team, led by Senior Chief Operations Specialist Kevin Day, vectored the VFA-41 section onto the contact that became the Tic Tac intercept. What did not happen next is the story: the Navy's own range fouler report on the incident, released in January 2023, records that 'Reporting terminated at 3rd Fleet, there was no process to share the reporting,' and no Princeton radar or CEC data for the period has ever been produced. Two Princeton crewmen - Day and CEC/Aegis technician Gary Voorhis - have said publicly that recording media were collected by personnel who did not identify themselves within about 48 hours. No document corroborating that collection has surfaced. Princeton is therefore the board's cleanest example of a custody hole: the single richest sensor record of the founding modern case, held by a US warship, and absent from every release since.",
+"domains": [
+"aviators-incidents"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "2",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "uss-princeton",
+"l0": false,
+"label": "USS Princeton (CG-59)",
+"locLabel": null,
+"members": null,
+"short": "USS Princeton (CG-59)",
+"sources": [
+{
+"date": "2023-07-26",
+"name": "House Oversight - Fravor written statement (PDF)",
+"url": "https://oversight.house.gov/wp-content/uploads/2023/07/David-Fravor-Statement-for-House-Oversight-Committee.pdf"
+},
+{
+"date": "2023-01-14",
+"name": "The War Zone - range fouler reports release",
+"url": "https://www.twz.com/tic-tac-uap-incident-included-in-72-newly-released-range-incursion-reports"
+}
+],
+"sub": "Ticonderoga-class Aegis cruiser, Carrier Strike Group 11",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 362 of 1027, score 34). 6 connections, 2 of them custody/witness/funding/programmatic. Axes C2/A1/D2.",
+"timeline": [
+{
+"date": "2004-11-10",
+"id": "av-2004-11-10",
+"label": "Princeton tracks descents from 80,000 ft",
+"precision": "month",
+"strand": "program",
+"text": "USS Princeton's upgraded SPY-1B tracks objects descending from above 80,000 feet to 20,000 feet over roughly two weeks before the intercept.",
+"tier": "A"
+},
+{
+"date": "2004-11-15",
+"id": "av-2004-11-15",
+"label": "Princeton data collection alleged",
+"precision": "day",
+"strand": "coverup",
+"text": "Princeton crewmen Kevin Day and Gary Voorhis say unidentified personnel came aboard and removed or wiped recording media. No visit log, message or chain-of-custody document has been located.",
+"tier": "C"
+}
+]
+}

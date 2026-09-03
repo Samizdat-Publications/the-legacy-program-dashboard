@@ -1,0 +1,219 @@
+{
+"A": 0,
+"C": 0,
+"D": 3,
+"band": null,
+"claims": [
+{
+"source": "D.D.C. civil docket, No. 1:03-cv-02509",
+"text": "Case filed 9 December 2003; assigned to Judge Emmet G. Sullivan; nature of suit 895 Freedom of Information Act; jurisdiction type US Government Defendant; terminated 24 August 2009.",
+"tier": 1
+},
+{
+"source": "D.D.C. docket, minute orders of 22 February and 13 March 2007 and proceedings of 20 March 2007",
+"text": "On 22 February 2007 the court ordered NASA to submit its Exemption 5 withholdings to chambers for in camera review by 7 March 2007 and sua sponte scheduled a hearing; the hearing was heard on 20 March 2007 before Judge Sullivan, court reporter Elaine Merchant.",
+"tier": 1
+},
+{
+"source": "Order, Dkt. 44, 27 March 2007, and accompanying Memorandum Opinion, Dkt. 45",
+"text": "The 27 March 2007 order granted in part and denied in part without prejudice NASA's motion for summary judgment, denied Kean's cross-motions without prejudice, and required a joint proposal for search and documentation procedures.",
+"tier": 1
+},
+{
+"source": "D.D.C. docket entries 55, 56, 69 and the minute orders of 17 October 2007 and 24 August 2009",
+"text": "Stipulation of Settlement in Part signed 16 October 2007 and entered 17 October 2007, with joint status reports ordered every sixty days; case dismissed by minute order of 24 August 2009 granting the parties' joint motion, the court noting NASA's representations that it had met its obligations under the settlement.",
+"tier": 1
+}
+],
+"cls": "event",
+"cluster": "oversight",
+"connections": [
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": "2009-08-24",
+"dateStart": "1984-01-18",
+"direction": "out",
+"edgeLabel": "The domain's only two federal dockets, twenty years apart",
+"id": "cash-v-united-states",
+"l0": false,
+"label": "Cash v. United States, Civil Action No. H-84-348 (S.D. Tex.)",
+"note": "Cash (1984-1986) sought damages and was dismissed on the pleadings and summary judgment; Kean (2003-2009) sought records and obtained a finding of inadequate search plus a supervised re-search. The record case succeeded where the injury case did not.",
+"sources": [
+{
+"date": "1986-08-21",
+"name": "Cash v. United States, No. H-84-348 - docket and Order of Dismissal",
+"url": "https://files.afu.se/Downloads/Books/Other/Quest_Publications/Quest_Publications_101-Cash_Landrum_File-Civil_Action.pdf"
+},
+{
+"date": "2026-08-12",
+"name": "Kean v. NASA docket, No. 1:03-cv-02509 (D.D.C.)",
+"url": "https://www.courtlistener.com/docket/4707805/kean-v-national-aeronautics-and-space-administration/"
+}
+],
+"tier": "C",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": "2009-08-24",
+"dateStart": "2003-01-31",
+"direction": "out",
+"edgeLabel": "The litigation was about the Kecksburg records specifically",
+"id": "kecksburg-1965",
+"l0": false,
+"label": "Kecksburg incident, 9 December 1965",
+"note": "The underlying FOIA request of 31 January 2003 sought records on Kecksburg, the 9 December 1965 incident, the Fragology Files 1962-1967, Richard M. Schulherr, Project Moon Dust and Cosmos 96.",
+"sources": [
+{
+"date": "2007-03-27",
+"name": "Memorandum Opinion, Kean v. NASA, 27 March 2007",
+"url": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.106063/gov.uscourts.dcd.106063.45.0.pdf"
+}
+],
+"tier": "B",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "2009-08-24",
+"dateStart": "2003-12-09",
+"direction": "in",
+"edgeLabel": "Plaintiff who forced a court-supervised NASA records search",
+"id": "leslie-kean",
+"l0": false,
+"label": "Leslie Kean",
+"note": "Kean filed the complaint on 9 December 2003, obtained a 27 March 2007 finding that NASA had not shown its searches adequate, settled in part on 16 October 2007 and litigated status reports until dismissal on 24 August 2009.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Kean v. NASA docket, No. 1:03-cv-02509 (D.D.C.)",
+"url": "https://www.courtlistener.com/docket/4707805/kean-v-national-aeronautics-and-space-administration/"
+},
+{
+"date": "2007-03-27",
+"name": "Memorandum Opinion, Kean v. NASA, 27 March 2007",
+"url": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.106063/gov.uscourts.dcd.106063.45.0.pdf"
+}
+],
+"tier": "B",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": "2009",
+"dateStart": "2003-01-31",
+"direction": "out",
+"edgeLabel": "Project Moon Dust records were an express object of the FOIA request",
+"id": "project-moon-dust",
+"l0": false,
+"label": "Project MOON DUST",
+"note": "Moon Dust - the programme for recovery of foreign space and aerospace debris - is named in the request as reproduced in the court's Background section.",
+"sources": [
+{
+"date": "2007-03-27",
+"name": "Memorandum Opinion, Kean v. NASA, 27 March 2007",
+"url": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.106063/gov.uscourts.dcd.106063.45.0.pdf"
+}
+],
+"tier": "A",
+"type": "custody"
+}
+],
+"coords": null,
+"dateEnd": "2009-08-24",
+"dateStart": "2003-12-09",
+"deg": 4,
+"denials": [],
+"desc": "The only federal court case in which a US agency has been held to have failed its search obligations on UFO-related records. Leslie Kean, represented by Lobel, Novins & Lamont (Martin Lobel, Lee Ellen Helfrich), sued the National Aeronautics and Space Administration on 9 December 2003 in the United States District Court for the District of Columbia over NASA's handling of her 31 January 2003 FOIA request for records referring to Kecksburg, the 9 December 1965 incident, the 'Fragology Files' for 1962-1967, Richard M. Schulherr, Project Moon Dust and Cosmos 96. The case was assigned to Judge Emmet G. Sullivan, cause code '05:552 Freedom of Information Act', PACER case ID 106063. NASA ran four searches. The court's 27 March 2007 memorandum opinion records that 'plaintiff contends, and indeed NASA admits, that NASA's first two searches for responsive documents were inadequate', traces how a granted administrative appeal signed by Associate Deputy Administrator James Jennings on 18 June 2003 was simply not acted on because of poor tracking and an office move, and holds that NASA 'has not yet met its burden of demonstrating that the search for documents was adequate.' Summary judgment was granted to NASA only on the withholding of two emails between FOIA officer Stephen McConnell and NASA attorney Bierbower under Exemption 5, which the court reviewed in camera on its own 22 February 2007 order. The court then ordered the parties to propose search and documentation procedures that would create a proper record. A Stipulation of Settlement in Part was signed by Judge Sullivan on 16 October 2007; NASA searched under supervision and filed joint status reports every sixty days from December 2007 to August 2009; the case was dismissed on 24 August 2009 on the parties' joint motion, the court finding NASA had met its settlement obligations. Along the way, NASA public liaison officer Steve McConnell testified that two boxes of papers from the period of the Kecksburg incident were missing.",
+"domains": [
+"w2-retrieval-literature"
+],
+"dossier": null,
+"entityInfo": {
+"desc": "The only federal court finding in existence that a US agency failed its records-search obligations on a UFO matter. Docket 1:03-cv-02509 (D.D.C.), Judge Emmet G. Sullivan, filed 9 December 2003, dismissed 24 August 2009 after a court-supervised re-search under a stipulated settlement. The opinion's most quotable line for this domain is not about UFOs at all: 'Plaintiff contends, and indeed NASA admits, that NASA's first two searches for responsive documents were inadequate.' The template - request, appeal, sue, obtain a supervised search, litigate status reports for two years - is the only method that has ever forced a US agency to look again.",
+"sources": []
+},
+"era": "2",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "kean-v-nasa",
+"l0": false,
+"label": "Kean v. NASA, No. 1:03-cv-02509 (D.D.C.)",
+"locLabel": null,
+"members": null,
+"short": "Kean v. NASA, No. 1:03-cv-02509 (D.D.C.)",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Kean v. NASA, No. 1:03-cv-02509 (D.D.C.) - full docket",
+"url": "https://www.courtlistener.com/docket/4707805/kean-v-national-aeronautics-and-space-administration/"
+},
+{
+"date": "2007-03-27",
+"name": "Memorandum Opinion, Kean v. NASA, Dkt. 45, 27 March 2007",
+"url": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.106063/gov.uscourts.dcd.106063.45.0.pdf"
+},
+{
+"date": "2026-08-12",
+"name": "Kecksburg UFO incident - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/Kecksburg_UFO_incident"
+}
+],
+"sub": "Federal FOIA litigation over the Kecksburg records, 2003-2009",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 625 of 1027, score 25). 4 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D3.",
+"timeline": [
+{
+"date": "2003-01-31",
+"id": "tl-2003-0131-foia",
+"label": "Kean's FOIA request",
+"precision": "day",
+"strand": "oversight",
+"text": "Leslie Kean files with NASA for records on Kecksburg, the 9 December 1965 incident, the Fragology Files 1962-1967, Richard M. Schulherr, Project Moon Dust and Cosmos 96. NASA answers 'no records' on 11 April 2003.",
+"tier": "A"
+},
+{
+"date": "2003-12-09",
+"id": "tl-2003-1209-kean",
+"label": "Kean v. NASA filed",
+"precision": "day",
+"strand": "oversight",
+"text": "Thirty-eight years to the day after Kecksburg, Kean sues NASA in the District of Columbia. The case is assigned to Judge Emmet G. Sullivan.",
+"tier": "A"
+},
+{
+"date": "2007-03-27",
+"id": "tl-2007-0327-opinion",
+"label": "Court finds NASA's searches inadequate",
+"precision": "day",
+"strand": "oversight",
+"text": "Judge Sullivan holds that NASA 'has not yet met its burden of demonstrating that the search for documents was adequate', denies summary judgment in part, and orders the parties to propose search and documentation procedures creating a proper record. NASA had already admitted its first two searches were inadequate.",
+"tier": "A"
+},
+{
+"date": "2007-10-16",
+"id": "tl-2007-1016-settle",
+"label": "Stipulated settlement in part",
+"precision": "day",
+"strand": "oversight",
+"text": "Judge Sullivan signs the Stipulation of Settlement in Part and orders joint status reports every sixty days. NASA searches under court supervision for the next twenty-two months.",
+"tier": "A"
+},
+{
+"date": "2009-08-24",
+"id": "tl-2009-0824-dismiss",
+"label": "Kean v. NASA dismissed",
+"precision": "day",
+"strand": "oversight",
+"text": "On the parties' joint motion and NASA's representation that it had met its settlement obligations, the case is dismissed. The only federal finding of an inadequate UFO-related records search stands undisturbed.",
+"tier": "A"
+}
+]
+}

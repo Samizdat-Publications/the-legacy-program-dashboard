@@ -1,0 +1,139 @@
+{
+"A": 3,
+"C": 2,
+"D": 2,
+"band": null,
+"claims": [
+{
+"source": "AAWSAP solicitation full text (v.3), via The Black Vault",
+"text": "DIA solicitation HHM402-08-R-0211 for the Advanced Aerospace Weapon System Applications Program was issued in August 2008 and the full text is public.",
+"tier": 1
+},
+{
+"source": "AAWSAP Statement of Work (SOW_Aerospace.pdf)",
+"text": "The AAWSAP statement of work, dated 22 August 2008, specifies the required advanced aerospace research areas.",
+"tier": 1
+},
+{
+"source": "DIA - OUSDI Info Memo on AATIP",
+"text": "An OUSD(I) information memorandum of November 2009 records review of a special access program request relating to AATIP.",
+"tier": 1
+}
+],
+"cls": "domain",
+"cluster": "contractor",
+"connections": [
+{
+"claimTier": 1,
+"cls": "domain",
+"dateEnd": "2010-12-31",
+"dateStart": "2008-08-22",
+"direction": "out",
+"edgeLabel": "Tasking reveals expectation",
+"id": "d-exotic",
+"l0": false,
+"label": "Exotic Technology & Physics",
+"note": "The AAWSAP statement of work and the thirty-eight DIRDs are the tier-1 evidence that a government agency paid for study of the physics a recovered craft would require.",
+"sources": [
+{
+"date": "2008-08-22",
+"name": "AAWSAP Statement of Work",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP/SOW_Aerospace.pdf"
+}
+],
+"tier": "B",
+"type": "programmatic"
+},
+{
+"claimTier": 1,
+"cls": "domain",
+"dateEnd": "2010-12-31",
+"dateStart": "2008-08-18",
+"direction": "in",
+"edgeLabel": "Anomalous phenomena inside a defence contract",
+"id": "d-paranormal",
+"l0": false,
+"label": "Anomalous Phenomena Adjacent to UAP",
+"note": "The AAWSAP statement of work and its deliverables are the tier-1 basis for treating this material as a programme domain rather than folklore.",
+"sources": [
+{
+"date": "2008-08-22",
+"name": "AAWSAP Statement of Work",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP/SOW_Aerospace.pdf"
+}
+],
+"tier": "C",
+"type": "funding"
+},
+{
+"claimTier": 1,
+"cls": "domain",
+"dateEnd": null,
+"dateStart": "2009-11-01",
+"direction": "out",
+"edgeLabel": "Conversion from visible to invisible",
+"id": "d-sap",
+"l0": false,
+"label": "Special Access Programs",
+"note": "The November 2009 OUSD(I) memorandum reviewing a special access programme request for AATIP is the documented moment where a FOIA-visible programme was considered for conversion.",
+"sources": [
+{
+"date": "2009-11-01",
+"name": "DIA - OUSDI Info Memo on AATIP (Review of SAP Request)",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP/OUSDI_IM_on_AATIP_Final.pdf"
+}
+],
+"tier": "B",
+"type": "programmatic"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "1947-01-01",
+"deg": 3,
+"denials": [],
+"desc": "Programmes have shapes, and the shape is evidence. A concealed effort needs a chartering authority, a programme element or contract vehicle to carry money, a security classification guide, a government programme manager of record, and a contractor with a facility clearance - and every one of those is a documented artifact in some system even when the subject matter is not. The AAWSAP contract file, released by DIA under FOIA, is the best-documented example on this board: a solicitation (HHM402-08-R-0211) issued in August 2008, a statement of work specifying advanced aerospace weapon system applications, a competitively awarded contract to Bigelow Aerospace Advanced Space Studies, annual modifications, and a body of thirty-eight Defense Intelligence Reference Documents as deliverables. That file demonstrates the mechanism working in the open; the board's argument is that the same mechanism, run inside an unacknowledged SAP, produces no file at all. In November 2009 OUSD(I) reviewed a request to convert the successor effort into a special access programme, which is the documented moment where a visible programme structure is considered for conversion into an invisible one. Scoring high on this domain means an entity chartered, managed or concealed a programme rather than merely worked on one.",
+"domains": [
+"w2-taxonomy"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "d-program",
+"l0": false,
+"label": "Program Structure & Management",
+"locLabel": null,
+"members": null,
+"short": "Program Structure & Management",
+"sources": [
+{
+"date": "2008-08-18",
+"name": "AAWSAP solicitation full text (v.3)",
+"url": "https://documents2.theblackvault.com/documents/dia/HHM402-08-R-0211v3.pdf"
+},
+{
+"date": "2008-08-22",
+"name": "AAWSAP Statement of Work (SOW_Aerospace.pdf)",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP/SOW_Aerospace.pdf"
+},
+{
+"date": "2009-11-01",
+"name": "DIA - OUSDI Info Memo on AATIP (Review of Special Access Program Request)",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP/OUSDI_IM_on_AATIP_Final.pdf"
+},
+{
+"date": "2026-08-12",
+"name": "DIA FOIA Electronic Reading Room - Advanced Aerospace Threat Identification Program",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FOIA-Reading-Room-Advanced-Aerospace-Threat-Identification-Program/"
+}
+],
+"sub": "Structural domain - how a concealed effort is chartered, staffed, funded and hidden inside a portfolio",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 225 of 1027, score 42). 3 connections, 3 of them custody/witness/funding/programmatic. Axes C2/A3/D2.",
+"timeline": []
+}

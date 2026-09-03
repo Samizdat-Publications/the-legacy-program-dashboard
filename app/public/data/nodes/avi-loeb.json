@@ -1,0 +1,459 @@
+{
+"A": 1,
+"C": 1,
+"D": 3,
+"affiliations": [
+"Harvard University Department of Astronomy (1993- ; chair 2011-2020)",
+"Harvard-Smithsonian Center for Astrophysics, Institute for Theory and Computation (director, 2007- )",
+"The Galileo Project (founder, 2021- )",
+"UAP Science Advisory Council (chair, 2026- )",
+"Harvard University, Department of Astronomy",
+"Galileo Project",
+"UAP Science Advisory Council, chair (2026-)",
+"Harvard University",
+"UAP Science Advisory Council"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "2021-07-26",
+"event": "Founds The Galileo Project.",
+"precision": "day"
+},
+{
+"date": "2022-09-01",
+"event": "Announces the IM1 ocean expedition is fully funded at roughly $1.6 million.",
+"precision": "month"
+},
+{
+"date": "2023-01-01",
+"event": "Co-authors a paper with then-AARO director Sean Kirkpatrick",
+"precision": "year"
+},
+{
+"date": "2023-02-13",
+"event": "Publishes 'Overview of the Galileo Project' with Frank Laukien in the Journal of Astronomical Instrumentation.",
+"precision": "day"
+},
+{
+"date": "2023-07-05",
+"event": "Reports recovery of material from the Pacific expedition site.",
+"precision": "day"
+},
+{
+"date": "2024-01-31",
+"event": "'Recovery and Classification of Spherules from the Pacific Ocean Site of the CNEOS 2014 January 8 (IM1) Bolide' published in Research Notes of the AAS.",
+"precision": "day"
+},
+{
+"date": "2024-03-01",
+"event": "Fernando et al. publish in Geophysical Journal International that the guiding seismic signal was consistent with truck traffic.",
+"precision": "month"
+},
+{
+"date": "2024-12-01",
+"event": "'Chemical classification of spherules recovered from the Pacific Ocean site of the CNEOS 2014-01-08 (IM1) bolide' published in Chemical Geology.",
+"precision": "month"
+},
+{
+"date": "2025-03-01",
+"event": "Rudraswami, Singh & Pandey publish a re-evaluation of the spherules' proposed origin in Chemical Geology.",
+"precision": "month"
+},
+{
+"date": "2025-11-04",
+"event": "US government fields questions about interstellar object 3I/ATLAS during the shutdown; Loeb is the principal scientific voice in that debate",
+"precision": "day"
+},
+{
+"date": "2026-06-15",
+"event": "Named chair of the UAP Science Advisory Council formed at the request of the White House with AARO, ODNI and the FBI.",
+"precision": "day"
+},
+{
+"date": "2026-06-17",
+"event": "Announced as leader of the 12-member UAP Science Advisory Council advising the interagency UAP Governance Board",
+"precision": "day"
+},
+{
+"date": "2026-06-17",
+"event": "UAP Science Advisory Council announced under his leadership",
+"precision": "day"
+},
+{
+"date": "2026-06-29",
+"event": "Publishes his own account of the council's formation and core team on Medium.",
+"precision": "day"
+},
+{
+"date": "2026-07-01",
+"event": "Publishes his rationale for accepting the role",
+"precision": "month"
+}
+],
+"claims": [
+{
+"source": "Research Notes of the AAS, DOI 10.3847/2515-5172/ad2370",
+"text": "Loeb is lead author of 'Recovery and Classification of Spherules from the Pacific Ocean Site of the CNEOS 2014 January 8 (IM1) Bolide', Research Notes of the AAS, 31 January 2024.",
+"tier": 1
+},
+{
+"source": "Chemical Geology DOI 10.1016/j.chemgeo.2025.122628; Geophysical Journal International, March 2024",
+"text": "The IM1 spherule composition claims were contested in the peer-reviewed literature by Rudraswami, Singh & Pandey in Chemical Geology (March 2025) and by Fernando et al. in Geophysical Journal International (March 2024) on the seismic localisation.",
+"tier": 1
+},
+{
+"source": "Skeptics Society announcement, 15 June 2026; Avi Loeb, Medium, 29 June 2026; Associated Press, 30 June 2026",
+"text": "Loeb was named chair of a UAP Science Advisory Council formed at the request of the White House in coordination with AARO, ODNI, the FBI and other intelligence community members, announced 15 June 2026.",
+"tier": 2
+},
+{
+"source": "Avi Loeb, 'A UAP Science Advisory Council to the U.S.', Medium, 29 June 2026",
+"text": "Loeb wrote that 'over the past week, I was tasked by the above organizations to create a research team', naming the White House, AARO, ODNI, the FBI and all Intelligence Community members.",
+"tier": 2
+},
+{
+"source": "Associated Press, 30 June 2026, as summarised in the public record",
+"text": "The council has no budget and no access to classified material.",
+"tier": 2
+},
+{
+"source": "Inference from the council's stated terms - unclassified data only, no budget - stated in the reporting",
+"text": "A council chartered by the White House and four agencies, staffed by outside scientists, and denied both money and classified access is a containment structure, not an investigative one: it produces the appearance of scientific oversight while guaranteeing the advisers cannot reach the material the question turns on.",
+"tier": 3
+},
+{
+"source": "DefenseScoop, 17 June 2026; Loeb's own published account, June-July 2026",
+"text": "A 12-member UAP Science Advisory Council chaired by Avi Loeb was announced on 17 June 2026 to advise an interagency UAP Governance Board including ODNI, FBI and DoW representation.",
+"tier": 1
+},
+{
+"source": "Avi Loeb, Medium essays, June-July 2026",
+"text": "Loeb states the council's charge is to resolve the nature of UAP by scientific evidence and that it advises rather than reports to the office holding the data.",
+"tier": 2
+},
+{
+"source": "https://defensescoop.com/2026/06/17/new-science-advisory-council-forms-to-help-us-government-resolve-the-uap-mystery/",
+"text": "'The goal of the council is to advise the U.S. government on how to resolve the nature of UAP.'",
+"tier": 2
+},
+{
+"source": "https://defensescoop.com/2026/06/17/new-science-advisory-council-forms-to-help-us-government-resolve-the-uap-mystery/",
+"text": "'Since UAPs are physical objects that interact with humans, the council includes members with expertise in physical sciences as well as psychology and biology.'",
+"tier": 2
+},
+{
+"source": "https://thesolfoundation.org/sol-foundation-co-founders-named-to-uap-science-advisory-council/",
+"text": "All data shared with the council will be unclassified.",
+"tier": 2
+}
+],
+"cls": "person",
+"cluster": "research",
+"conflicts": [
+"The Guardian reported that scientific observers regarded Loeb's council picks as 'apparently similar minds', and the Associated Press characterised some members as 'UFO activists'. The Galileo Project's IM1 claims are contested in three separate peer-reviewed rebuttals.",
+"DefenseScoop reports Loeb formed and leads the council; the Sol Foundation states the council was announced by the Office of the Director of National Intelligence with the support of the FBI. The two accounts differ on whether the council is a private body advising the government or a government-chartered one."
+],
+"connections": [
+{
+"claimTier": 2,
+"cls": "program",
+"dateEnd": null,
+"dateStart": "2021",
+"direction": "out",
+"edgeLabel": "Founder, 26 July 2021",
+"id": "galileo-project",
+"l0": true,
+"label": "The Galileo Project",
+"note": "Founded four weeks after the ODNI preliminary assessment on the premise that the way past a classified impasse is to build unclassified instruments and publish.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Wikipedia: The Galileo Project",
+"url": "https://en.wikipedia.org/wiki/The_Galileo_Project"
+},
+{
+"date": "2026-08-12",
+"name": "The Galileo Project, Harvard University",
+"url": "https://projects.iq.harvard.edu/galileo"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "2026",
+"direction": "out",
+"edgeLabel": "Chair and member of the same 2026 advisory council",
+"id": "garry-nolan",
+"l0": false,
+"label": "Garry Nolan",
+"note": "The astronomer who built the unclassified instrumentation programme and the pathologist who published the materials analysis now sit on the same federally requested body - with neither given classified access.",
+"sources": [
+{
+"date": "2026-06-15",
+"name": "Skeptic / Skeptics Society, 'Michael Shermer Named to White House UAP Science Advisory Council'",
+"url": "https://www.skeptic.com/article/michael-shermer-named-to-white-house-uap-science-advisory-council/"
+},
+{
+"date": "2026-06-01",
+"name": "The Sol Foundation, 'Sol Foundation Co-Founders Named to UAP Science Advisory Council'",
+"url": "https://thesolfoundation.org/sol-foundation-co-founders-named-to-uap-science-advisory-council/"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "Loeb directs the Institute for Theory and Computation at the CfA",
+"id": "harvard-cfa",
+"l0": false,
+"label": "Harvard-Smithsonian Center for Astrophysics",
+"note": "The paper's affiliation block gives Loeb both affiliations at once - 'Abraham Loeb 1,2', where 1 is 'Harvard-Smithsonian Center for Astrophysics, 60 Garden Street, Cambridge, MA 02138' and 2 is the Galileo Project at the same address - and footnotes him 'Head of the Galileo Project'. This is his institutional home stated in a peer-reviewed record, not on a project page.",
+"sources": [
+{
+"date": "2025-01-28",
+"name": "Domine et al., 'Commissioning an All-Sky Infrared Camera Array for Detection of Airborne Objects', Sensors 2025, arXiv:2411.07956, author affiliations",
+"url": "https://arxiv.org/abs/2411.07956"
+},
+{
+"date": null,
+"name": "https://galileo.hsites.harvard.edu/people/avi-loeb",
+"url": "https://galileo.hsites.harvard.edu/people/avi-loeb"
+},
+{
+"date": null,
+"name": "https://www.cfa.harvard.edu/research/galileo-project",
+"url": "https://www.cfa.harvard.edu/research/galileo-project"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "location",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "Loeb's Harvard base; launched the project from here",
+"id": "l-cambridge-ma",
+"l0": false,
+"label": "Cambridge, Massachusetts (alias of l-cambridge)",
+"note": "The overview paper gives Loeb's affiliation as 'Head of the Galileo Project, Astronomy Department, Harvard University, 60 Garden Street, Cambridge, MA 02138', and dates the project's first year as August 2021 through July 2022.",
+"sources": [
+{
+"date": "2022-09-02",
+"name": "Loeb and Laukien, 'Overview of the Galileo Project', arXiv:2209.02479, author affiliations",
+"url": "https://arxiv.org/abs/2209.02479"
+},
+{
+"date": null,
+"name": "https://galileo.hsites.harvard.edu/",
+"url": "https://galileo.hsites.harvard.edu/"
+},
+{
+"date": null,
+"name": "https://www.scientificamerican.com/article/avi-loebs-galileo-project-will-search-for-evidence-of-alien-visitation/",
+"url": "https://www.scientificamerican.com/article/avi-loebs-galileo-project-will-search-for-evidence-of-alien-visitation/"
+}
+],
+"tier": "C",
+"type": "geographic"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2023",
+"dateStart": "2023",
+"direction": "out",
+"edgeLabel": "co-authored a paper with Kirkpatrick while Kirkpatrick was AARO director",
+"id": "sean-kirkpatrick",
+"l0": false,
+"label": "Sean M. Kirkpatrick",
+"note": "Recorded because the chair of the 2026 external review body previously published jointly with the first AARO director.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Wikipedia - Sean M. Kirkpatrick",
+"url": "https://en.wikipedia.org/wiki/Sean_M._Kirkpatrick"
+}
+],
+"tier": "A",
+"type": "investigative"
+},
+{
+"claimTier": 2,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2026",
+"direction": "out",
+"edgeLabel": "Chair, appointed June 2026",
+"id": "uap-science-advisory-council",
+"l0": true,
+"label": "UAP Science Advisory Council",
+"note": "DefenseScoop reports Loeb formed and leads the council; the Sol Foundation says it was announced by ODNI with FBI support. The two accounts differ on its legal character.",
+"sources": [
+{
+"date": "2026-06-15",
+"name": "Skeptic / Skeptics Society, 'Michael Shermer Named to White House UAP Science Advisory Council'",
+"url": "https://www.skeptic.com/article/michael-shermer-named-to-white-house-uap-science-advisory-council/"
+},
+{
+"date": "2026-06-29",
+"name": "Avi Loeb, 'A UAP Science Advisory Council to the U.S.', Medium",
+"url": "https://avi-loeb.medium.com/a-uap-science-advisory-council-to-the-u-s-f7262e57b0df"
+},
+{
+"date": "2026-06-30",
+"name": "Collin Binkley, 'Harvard professor with polarizing alien theories is picked to lead new White House UFO council', Associated Press",
+"url": "https://apnews.com/article/trump-ufo-council-avi-loeb-science-uaps-5798dd793b77aeb2d9baa99586ad8a85"
+},
+{
+"date": "2026-06-17",
+"name": "DefenseScoop - New science advisory council forms",
+"url": "https://defensescoop.com/2026/06/17/new-science-advisory-council-forms-to-help-us-government-resolve-the-uap-mystery/"
+},
+{
+"date": "2026-06-22",
+"name": "Sol Foundation, co-founders named to UAP Science Advisory Council",
+"url": "https://thesolfoundation.org/sol-foundation-co-founders-named-to-uap-science-advisory-council/"
+}
+],
+"tier": "A",
+"type": "institutional"
+}
+],
+"date": "2026-06-15",
+"dateEnd": null,
+"dateStart": "2026-06-15",
+"deg": 6,
+"denials": [],
+"domains": [
+"scientists-technical",
+"uaptf-aaro",
+"w2-2025-2026"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "avi-loeb",
+"instId": "harvard-cfa",
+"l0": false,
+"label": "Abraham 'Avi' Loeb",
+"loc": "Cambridge, MA",
+"locId": "l-cambridge",
+"members": null,
+"narrative": "Loeb is what happens when the technical layer refuses to wait for the classified system. Harvard astronomy faculty since 1993, tenured three years later, chair of the astronomy department 2011-2020, Baird Professor since 2012, and director of the Institute for Theory and Computation at the Harvard-Smithsonian Center for Astrophysics since 2007, he founded The Galileo Project on 26 July 2021 - four weeks after the ODNI preliminary assessment - on the explicit premise that the way out of a classified impasse is to build unclassified instruments and publish. The project raised roughly $1.8 million in its first year from donors including Frank Laukien of Bruker and William Linton of Promega, installed its first observatory at Harvard College Observatory in 2022, and published its instrumentation architecture in the Journal of Astronomical Instrumentation. In June-July 2023 he led a $1.6 million Pacific Ocean expedition off Papua New Guinea to recover fragments of CNEOS 2014-01-08 (IM1), returning with sub-millimetre spherules that his team classified as a distinct 'BeLaU' composition in Research Notes of the AAS and Chemical Geology. The scientific counter-attack was heavy and specific: Fernando et al. in Geophysical Journal International (March 2024) showed the guiding seismic signal was probably truck traffic; Gallardo argued coal-ash contamination in Research Notes of the AAS; Rudraswami et al. re-evaluated the spherules' origin in Chemical Geology in March 2025. Loeb conceded ground on 3I/ATLAS in 2025-2026 after speculating about its artificiality. Then on 15 June 2026 the position changed entirely: Loeb was named chair of a UAP Science Advisory Council formed at the request of the White House in coordination with AARO, ODNI, the FBI and other agencies - a council with, by contemporaneous reporting, no budget and no access to classified material.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Abraham 'Avi' Loeb",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Wikipedia: Avi Loeb",
+"url": "https://en.wikipedia.org/wiki/Avi_Loeb"
+},
+{
+"date": "2026-08-12",
+"name": "Wikipedia: The Galileo Project",
+"url": "https://en.wikipedia.org/wiki/The_Galileo_Project"
+},
+{
+"date": "2026-08-12",
+"name": "The Galileo Project, Harvard University",
+"url": "https://projects.iq.harvard.edu/galileo"
+},
+{
+"date": "2024-01-31",
+"name": "Loeb et al., 'Recovery and Classification of Spherules from the Pacific Ocean Site of the CNEOS 2014 January 8 (IM1) Bolide', Research Notes of the AAS",
+"url": "https://doi.org/10.3847/2515-5172/ad2370"
+},
+{
+"date": "2024-12-01",
+"name": "Loeb, Jacobsen, Tagle et al., 'Chemical classification of spherules recovered from the Pacific Ocean site of the CNEOS 2014-01-08 (IM1) bolide', Chemical Geology",
+"url": "https://doi.org/10.1016/j.chemgeo.2024.122415"
+},
+{
+"date": "2025-03-01",
+"name": "Rudraswami, Singh & Pandey, 'Re-evaluation of the spherules proposed origin recovered from the Pacific Ocean site of the CNEOS 2014-01-08 (IM1) bolide', Chemical Geology",
+"url": "https://doi.org/10.1016/j.chemgeo.2025.122628"
+},
+{
+"date": "2026-08-12",
+"name": "Wikipedia: CNEOS 2014-01-08",
+"url": "https://en.wikipedia.org/wiki/CNEOS_2014-01-08"
+},
+{
+"date": "2026-06-15",
+"name": "Skeptic / Skeptics Society, 'Michael Shermer Named to White House UAP Science Advisory Council'",
+"url": "https://www.skeptic.com/article/michael-shermer-named-to-white-house-uap-science-advisory-council/"
+},
+{
+"date": "2026-06-29",
+"name": "Avi Loeb, 'A UAP Science Advisory Council to the U.S.', Medium",
+"url": "https://avi-loeb.medium.com/a-uap-science-advisory-council-to-the-u-s-f7262e57b0df"
+},
+{
+"date": "2026-06-30",
+"name": "Collin Binkley, 'Harvard professor with polarizing alien theories is picked to lead new White House UFO council', Associated Press",
+"url": "https://apnews.com/article/trump-ufo-council-avi-loeb-science-uaps-5798dd793b77aeb2d9baa99586ad8a85"
+},
+{
+"date": "2023-02-13",
+"name": "Loeb & Laukien, 'Overview of the Galileo Project', Journal of Astronomical Instrumentation",
+"url": "https://doi.org/10.1142/S2251171723400032"
+},
+{
+"date": "2026-06-01",
+"name": "The Sol Foundation, 'Sol Foundation Co-Founders Named to UAP Science Advisory Council'",
+"url": "https://thesolfoundation.org/sol-foundation-co-founders-named-to-uap-science-advisory-council/"
+},
+{
+"date": "2026-06-17",
+"name": "DefenseScoop - New science advisory council forms to help US government 'resolve the UAP mystery'",
+"url": "https://defensescoop.com/2026/06/17/new-science-advisory-council-forms-to-help-us-government-resolve-the-uap-mystery/"
+},
+{
+"date": "2026-07-01",
+"name": "Avi Loeb - Why I Agreed to Lead the UAP Science Advisory Council for the U.S. Government",
+"url": "https://avi-loeb.medium.com/why-i-agreed-to-lead-the-uap-science-advisory-council-for-the-u-s-government-dde90610dfa2"
+},
+{
+"date": "2024-09-01",
+"name": "Avi Loeb - Are Both Lue Elizondo and AARO Sincere in Their Reports About UAPs?",
+"url": "https://avi-loeb.medium.com/are-both-lue-elizondo-and-aaro-sincere-in-their-reports-about-uaps-f0e9ebb3cae4"
+},
+{
+"date": "2025-11-04",
+"name": "DefenseScoop, 3I/ATLAS coverage",
+"url": "https://defensescoop.com/2025/11/04/3i-atlas-comet-us-government-monitoring-mysterious-interstellar-object/"
+}
+],
+"status": "active",
+"sub": "Frank B. Baird Jr. Professor of Science, Harvard University; Director, Institute for Theory and Computation, Harvard-Smithsonian CfA; founder, The Galileo Project; Chair, UAP Science Advisory Council (2026)",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 201 of 1027, score 43). 6 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D3.",
+"timeline": [],
+"unexplainedResidual": null,
+"unverified": [
+"The charter document, if any, establishing the UAP Science Advisory Council, and which office within the White House requested it.",
+"Whether the council reports to the 'UAP Governance Board' described by the Sol Foundation, and what that board is.",
+"The full membership roster of the 12-member council has not been published in a government document.",
+"Whether the council has a Federal Advisory Committee Act charter, a sponsoring agency of record, or appointed rather than invited membership."
+]
+}

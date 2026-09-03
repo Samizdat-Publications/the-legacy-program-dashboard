@@ -1,0 +1,142 @@
+{
+"A": 1,
+"C": 0,
+"D": 3,
+"affiliations": [
+"solari",
+"skidmore-fitts-report"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "1989",
+"event": "Serves as Assistant Secretary of Housing and Federal Housing Commissioner at HUD under President George H. W. Bush",
+"precision": "ranged"
+},
+{
+"date": "2017-09",
+"event": "Co-authors the Summary Report on Unsupported Journal Voucher Adjustments with Mark Skidmore",
+"precision": "month"
+}
+],
+"claims": [
+{
+"source": "https://solari.com/people/catherine-austin-fitts",
+"text": "Fitts was a managing director and board member of Dillon, Read and Co. Inc. and served as Assistant Secretary of Housing and Federal Housing Commissioner at HUD under President George H. W. Bush.",
+"tier": 2
+},
+{
+"source": "https://solari.com/people/catherine-austin-fitts",
+"text": "She founded Hamilton Securities Group and is founder and president of Solari, Inc., publisher of the Solari Report.",
+"tier": 2
+},
+{
+"source": "https://missingmoney.solari.com/wp-content/uploads/2018/08/Unsupported_Adjustments_Report_Final_4.pdf",
+"text": "She co-authored the September 2017 Summary Report on Unsupported Journal Voucher Adjustments with Mark Skidmore.",
+"tier": 2
+}
+],
+"cls": "person",
+"cluster": "research",
+"conflicts": [
+"Fitts's public commentary extends to claims well outside the documented record; only her HUD-era financial expertise and her documented co-authorship of the 2017 compilation are usable as evidence here."
+],
+"connections": [
+{
+"claimTier": 2,
+"cls": "document",
+"dateEnd": null,
+"dateStart": "2017-09",
+"direction": "out",
+"edgeLabel": "Co-author; originated the inquiry",
+"id": "skidmore-fitts-report",
+"l0": false,
+"label": "Summary Report on 'Unsupported Journal Voucher Adjustments' (Skidmore and Fitts, 2017)",
+"note": "Fitts co-authored the summary report and the Missing Money archive that hosts it and its supporting documentation. Attested by the report and the Solari archive.",
+"sources": [
+{
+"date": "2017-09-01",
+"name": "Skidmore-Fitts summary report",
+"url": "https://missingmoney.solari.com/wp-content/uploads/2018/08/Unsupported_Adjustments_Report_Final_4.pdf"
+}
+],
+"tier": "C",
+"type": "research"
+},
+{
+"claimTier": 2,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2000",
+"direction": "out",
+"edgeLabel": "Founder and president",
+"id": "solari",
+"l0": false,
+"label": "Solari, Inc. / The Solari Report",
+"note": "Fitts is founder and president of Solari, Inc., publisher of the Solari Report and the Missing Money archive. Attested by Solari's own biography page.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Solari, Catherine Austin Fitts",
+"url": "https://solari.com/people/catherine-austin-fitts"
+}
+],
+"tier": "C",
+"type": "institutional"
+}
+],
+"date": "2017-09-01",
+"dateEnd": null,
+"dateStart": "2017-09-01",
+"deg": 2,
+"denials": [],
+"domains": [
+"w2-black-budget"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "catherine-austin-fitts",
+"instId": "solari",
+"l0": false,
+"label": "Catherine Austin Fitts",
+"loc": "United States",
+"locId": null,
+"members": null,
+"narrative": "Catherine Austin Fitts was a managing director and board member of the Wall Street investment bank Dillon, Read and Co. Inc., and served as Assistant Secretary of Housing and Federal Housing Commissioner at the Department of Housing and Urban Development under President George H. W. Bush. She subsequently founded Hamilton Securities Group and later Solari, Inc., publisher of the Solari Report. Her position on this board is specific and should be stated with equal specificity: she is the person who first insisted, from inside knowledge of how a federal department's books actually work, that undocumented adjustments in federal financial statements are not clerical noise but a category of activity in their own right, and she is the co-author with Mark Skidmore of the September 2017 compilation that produced the $21 trillion figure. Her broader public commentary ranges far beyond what any documentary record supports, and a board that cites her must be disciplined about which Fitts it is citing: the former Federal Housing Commissioner who can read an agency financial statement and identify what is missing from it, or the Solari Report proprietor whose interpretive framework is not evidence. The former is a genuine and unusual qualification. She has held a Presidential appointment at a cabinet department, which means she has seen from the inside how the numbers that reach the public are assembled.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Catherine Austin Fitts",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Solari, Catherine Austin Fitts biography",
+"url": "https://solari.com/people/catherine-austin-fitts"
+},
+{
+"date": "2017-09-01",
+"name": "Summary Report on Unsupported Journal Voucher Adjustments",
+"url": "https://missingmoney.solari.com/wp-content/uploads/2018/08/Unsupported_Adjustments_Report_Final_4.pdf"
+},
+{
+"date": "2026-08-12",
+"name": "Missing Money supporting documentation",
+"url": "https://missingmoney.solari.com/dod-and-hud-missing-money-supporting-documentation/"
+}
+],
+"status": "active",
+"sub": "Former Assistant Secretary of Housing and Federal Housing Commissioner, HUD; founder, Solari Inc.",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 826 of 1027, score 17). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D3.",
+"timeline": [],
+"unexplainedResidual": null,
+"unverified": [
+"The exact years of her HUD appointment and of the founding of Hamilton Securities Group; the Solari biography gives the administration but not the dates."
+]
+}

@@ -1,0 +1,72 @@
+{
+"A": 1,
+"C": 0,
+"D": 2,
+"band": null,
+"claims": [
+{
+"source": "Wikipedia, 'George Knapp (television journalist)', retrieved 12 August 2026 — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"text": "George Knapp co-hosts the UFO-focused Weaponized podcast alongside Jeremy Corbell.",
+"tier": 2
+}
+],
+"cls": "program",
+"cluster": "media",
+"connections": [
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2026",
+"dateStart": "2022",
+"direction": "in",
+"edgeLabel": "Co-host",
+"id": "jeremy-corbell",
+"l0": false,
+"label": "Jeremy Kenyon Lockyer Corbell",
+"note": "The primary channel through which leaked Navy imagery has entered the public record.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Wikipedia - George Knapp",
+"url": "https://en.wikipedia.org/wiki/George_Knapp_(television_journalist)"
+}
+],
+"tier": "C",
+"type": "institutional"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "2022",
+"deg": 1,
+"denials": [],
+"desc": "Weaponized is the podcast George Knapp and Jeremy Corbell co-host, and it functions as the movement's primary leak-reception channel. Its significance is the pairing: Knapp brings four decades of Las Vegas investigative sourcing running back through NIDS, Bigelow and the Reid connection, while Corbell brings the pipeline through which serving and former military personnel have released imagery. Material that surfaces on Weaponized has repeatedly preceded official acknowledgement of provenance, which makes the programme a dateable marker for when specific items entered the public record. Its editorial posture is advocacy rather than adjudication, and it should be used as a chronological source rather than an analytic one.",
+"domains": [
+"media-structure"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "weaponized-podcast",
+"l0": false,
+"label": "Weaponized (Knapp & Corbell)",
+"locLabel": null,
+"members": null,
+"short": "Weaponized (Knapp & Corbell)",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Wikipedia - George Knapp (television journalist)",
+"url": "https://en.wikipedia.org/wiki/George_Knapp_(television_journalist)"
+}
+],
+"sub": "Investigative podcast",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 991 of 1027, score 10). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D2.",
+"timeline": []
+}

@@ -1,0 +1,87 @@
+{
+"A": 1,
+"C": 2,
+"D": 1,
+"band": null,
+"claims": [
+{
+"source": "Stringfield, Status Report III, Kingman case notes",
+"text": "Kingman, Arizona 1953 was first investigated and reported by Raymond Fowler; Stringfield referenced it at pages 178-185 of 'Situation Red, The UFO Siege' (Doubleday, 1977) and as Abstract 6 of 'Retrievals of the Third Kind' (1978).",
+"tier": 2
+},
+{
+"source": "Stringfield, Status Report III, Kingman Q&A",
+"text": "Stringfield wrote to Fowler on 11 August 1980 seeking permission to question Fowler's source 'Fritz Werner' (pseudonym); Werner's written answers are dated 2 September 1980 and are printed verbatim in Status Report III.",
+"tier": 2
+},
+{
+"source": "Stringfield, Status Report III, verbatim Q&A dated 2 September 1980",
+"text": "Asked in 1980 for facial detail on the entity, 'Werner' answered: 'Since it's been 27 years, details like this are pretty foggy and I may even be influenced by other descriptions I've seen or heard in the interim.'",
+"tier": 2
+},
+{
+"source": "Inference from the Werner answers of 2 September 1980",
+"text": "Kingman is the retrieval literature's best-documented example of a compartmented-examination account and simultaneously its clearest self-reported contamination admission, which is why it should be treated as a research target rather than as evidence. Reasoning: the source states in writing that his own recollection may be contaminated by intervening published descriptions.",
+"tier": 3
+}
+],
+"cls": "event",
+"cluster": "witness",
+"connections": [
+{
+"claimTier": 2,
+"cls": "document",
+"dateEnd": "1982",
+"dateStart": "1980-09-02",
+"direction": "in",
+"edgeLabel": "Status Report III printed the 1980 'Fritz Werner' Q&A on Kingman",
+"id": "stringfield-status-reports",
+"l0": true,
+"label": "UFO Crash/Retrieval Status Reports I-VII (Stringfield, 1978-1994)",
+"note": "Stringfield wrote to Raymond Fowler on 11 August 1980 for access to Fowler's pseudonymous source; the answers are dated 2 September 1980 and are printed verbatim in Status Report III.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Stringfield Status Reports 1-7 (scans)",
+"url": "https://archive.org/details/stringfield_Retrievals_Report_6_inner_sanctum_LQ"
+}
+],
+"tier": "C",
+"type": "research"
+}
+],
+"coords": null,
+"dateEnd": "1980-09-02",
+"dateStart": "1953",
+"deg": 1,
+"denials": [],
+"desc": "The 1953 Kingman, Arizona claim is the retrieval case with the cleanest documented chain of custody for its own testimony, and it is still only tier 2. It was first investigated and reported by the Massachusetts researcher Raymond E. Fowler, working from a source using the pseudonym 'Fritz Werner', an engineer who said he had been flown from an Air Force facility to a desert site under escort and shown a craft and a single small body, with each specialist restricted to his own area of examination and required to sign a secrecy agreement. Stringfield published the case as Abstract 6 in 'Retrievals of the Third Kind' (1978) and referenced it in 'Situation Red, The UFO Siege' (Doubleday, 1977) at pages 178-185. On 11 August 1980 Stringfield wrote to Fowler asking permission to put questions directly to Werner; the answers, dated 2 September 1980, are printed verbatim in Status Report III. Werner's replies are notable for what they concede: asked for facial detail on the deceased entity he answered that after twenty-seven years the details were 'pretty foggy' and that he might 'even be influenced by other descriptions I've seen or heard in the interim' - a witness volunteering, on the record, the exact contamination mechanism this board treats as the central problem of the retrieval corpus. The case is compartment-shaped in a way that fits the domain's premise - specialists shown only their own piece, sworn to secrecy, no one able to describe the whole - and it is unsupported by any document.",
+"domains": [
+"w2-retrieval-literature"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "kingman-1953",
+"l0": false,
+"label": "Kingman, Arizona claim, 1953",
+"locLabel": null,
+"members": null,
+"short": "Kingman, Arizona claim, 1953",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "UFO Crash Retrievals, Status Reports 1-7 by Leonard Stringfield - full scans",
+"url": "https://archive.org/details/stringfield_Retrievals_Report_6_inner_sanctum_LQ"
+}
+],
+"sub": "Claimed craft and single body recovery; source pseudonym 'Fritz Werner'",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 742 of 1027, score 21). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A1/D1.",
+"timeline": []
+}

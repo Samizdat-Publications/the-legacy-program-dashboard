@@ -1,0 +1,378 @@
+{
+"A": 0,
+"C": 0,
+"D": 0,
+"band": "research",
+"claims": [
+{
+"source": "DoD release, 27 April 2020",
+"text": "On 27 April 2020 the Department of Defense authorised the release of three unclassified Navy videos - one taken in November 2004 and two in January 2015 - stating it was releasing them 'in order to clear up any misconceptions by the public on whether or not the footage that has been circulating was real, or whether or not there is more to the videos'.",
+"tier": 1
+},
+{
+"source": "navy.mil/About",
+"text": "The Navy is organised under a Secretary of the Navy, Under Secretary, Chief of Naval Operations, Vice Chief and Chief of Naval Personnel, with the stated mission of global deployment to preserve peace, deter aggression and protect American interests without dependence on foreign land bases.",
+"tier": 1
+},
+{
+"source": "Inference from the text of the 27 April 2020 DoD release",
+"text": "The 2020 release is best read as damage control rather than disclosure: the Department confirmed authenticity, which it could no longer avoid, while declining to characterise the objects, and it released only footage already in public circulation. Reasoning: the release statement's own wording confines the purpose to correcting misconceptions about the existing circulating footage.",
+"tier": 3
+},
+{
+"source": "Board bookkeeping",
+"text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
+"tier": 3
+}
+],
+"cls": "institution",
+"cluster": "ic",
+"connections": [
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "Assigned by the Secretary of the Navy to the Special Projects Office, February 1964",
+"id": "deep-submergence-systems-project",
+"l0": false,
+"label": "Deep Submergence Systems Project (DSSP)",
+"note": "After the Deep-Submergence Systems Review Group reported in February 1964, the Secretary of the Navy assigned implementation of the programme, renamed DSSP, to the Navy's Special Projects Office; by 1967 it was a separate project within the Naval Material Command, and its project office carried the designator PM-11.",
+"sources": [
+{
+"date": "1965-03-01",
+"name": "David Taylor Model Basin Report 1985 (DTIC AD-614632) and Office of the Oceanographer of the Navy, September 1967 (DTIC AD-665974)",
+"url": "https://archive.org/details/DTIC_AD0614632"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "1947-09",
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "Secretary of the Navy until September 1947",
+"id": "james-v-forrestal",
+"l0": false,
+"label": "James V. Forrestal",
+"note": "The Office of the Historian's persons list gives 'Secretary of the Navy until September 1947' immediately before the Defense appointment.",
+"sources": [
+{
+"date": "2026-09-02",
+"name": "Persons, FRUS, Emergence of the Intelligence Establishment, 1945-1950",
+"url": "https://history.state.gov/historicaldocuments/frus1945-50Intel/persons"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "1994-06-09",
+"direction": "in",
+"edgeLabel": "Department of the Navy organisation; its head's title is fixed in 32 CFR 701.5",
+"id": "naval-criminal-investigative-service",
+"l0": false,
+"label": "Naval Criminal Investigative Service",
+"note": "NCIS is a Department of the Navy organisation whose head's title is fixed in the Navy's own codified regulations at 32 CFR part 701.",
+"sources": [
+{
+"date": "1994-06-09",
+"name": "Federal Register Doc 94-13966, amending 32 CFR 701.5(e)(2)(iii)(B)",
+"url": "https://www.federalregister.gov/documents/1994/06/09/94-13966/availability-of-department-of-the-navy-records-and-publication-of-department-of-the-navy-documents"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "Nimitz encounter was a Navy carrier strike group event; Navy released the FLIR video",
+"id": "nimitz-2004",
+"l0": true,
+"label": "USS Nimitz Carrier Strike Group Encounters, 10-16 November 2004",
+"note": "The Department authorised release of three unclassified Navy videos, one from November 2004 and two from January 2015, stating that 'the U.S. Navy previously acknowledged that these videos circulating in the public domain were indeed Navy videos' and releasing them 'in order to clear up any misconceptions by the public on whether or not the footage that has been circulating was real'. The Department's own characterisation of what they show has not moved: 'The aerial phenomena observed in the videos remain characterized as unidentified.'",
+"sources": [
+{
+"date": "2020-04-27",
+"name": "Statement by the Department of Defense on the Release of Historical Navy Videos, 27 April 2020",
+"url": "https://www.war.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/"
+},
+{
+"date": null,
+"name": "Department of Defense, 'Statement by the Department of Defense on the Release of Historical Navy Videos,' April 27, 2020 -- https://www.defense.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/",
+"url": ""
+},
+{
+"date": null,
+"name": "https://www.theblackvault.com/documentarchive/navy-officially-releases-ufo-uap-videos-calls-them-historical/",
+"url": "https://www.theblackvault.com/documentarchive/navy-officially-releases-ufo-uap-videos-calls-them-historical/"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "Created inside the Office of the Secretary of the Navy, 1 August 1946",
+"id": "office-of-naval-research",
+"l0": false,
+"label": "Office of Naval Research",
+"note": "Section 1 places ONR in the Office of the Secretary of the Navy and provides that its orders are to be considered as emanating from the Secretary and to have full force and effect as such.",
+"sources": [
+{
+"date": "1946-08-01",
+"name": "Public Law 79-588, 60 Stat. 779, sec. 1",
+"url": "https://www.govinfo.gov/content/pkg/STATUTE-60/pdf/STATUTE-60-Pg779.pdf"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 2,
+"cls": "document",
+"dateEnd": null,
+"dateStart": "2016-04-28",
+"direction": "out",
+"edgeLabel": "Assignee of record",
+"id": "pais-patent-imrd",
+"l0": true,
+"label": "US Patent 10,144,532 - Craft using an inertial mass reduction device",
+"note": "Assigned to 'The United States of America as represented by the Secretary of the Navy'.",
+"sources": [
+{
+"date": null,
+"name": "US Patent 10,144,532",
+"url": "https://www.freepatentsonline.com/10144532.html"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "East Coast UAP encounters reported by Roosevelt-deployed Navy aircrew",
+"id": "roosevelt-2014-2015",
+"l0": true,
+"label": "USS Theodore Roosevelt Encounters (2014-2015)",
+"note": "Two of the three videos the Department released in April 2020 are dated January 2015, and Graves's testimony places his squadron's encounters in the W-72 warning area off the east coast, beginning more than a decade before he testified: 'my squadron began witnessing advanced UAP demonstrating complex maneuvers on a regular basis'. Tier 2 because neither primary document names the USS Theodore Roosevelt. The carrier association is well attested elsewhere; it is not in the two documents cited here.",
+"sources": [
+{
+"date": "2020-04-27",
+"name": "Statement by the Department of Defense on the Release of Historical Navy Videos, 27 April 2020",
+"url": "https://www.war.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/"
+},
+{
+"date": "2023-07-26",
+"name": "Ryan Graves, written testimony to the House Oversight Subcommittee on National Security, the Border, and Foreign Affairs, 26 July 2023",
+"url": "https://oversight.house.gov/wp-content/uploads/2023/07/Ryan-HOC-Testimony.pdf"
+},
+{
+"date": null,
+"name": "Department of Defense, 'Statement by the Department of Defense on the Release of Historical Navy Videos,' April 27, 2020 -- https://www.defense.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/",
+"url": ""
+},
+{
+"date": null,
+"name": "Ryan Graves / Americans for Safe Aerospace written testimony, House Oversight subcommittee hearing, July 26, 2023 -- https://www.congress.gov/118/meeting/house/116282/witnesses/HHRG-118-GO06-Wstate-GravesR-20230726.pdf",
+"url": ""
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "Navy F/A-18F pilot turned first active-duty-era witness before Congress",
+"id": "ryan-graves",
+"l0": false,
+"label": "Ryan Graves",
+"note": "In his own words: 'My name is Ryan \"FOBS\" Graves and I am a former F-18 pilot with over a decade of service in the U.S. Navy, including two deployments in Operation Enduring Freedom and Operation Inherent Resolve.' He joined the Navy in 2009, describes the encounters in the W-72 warning area, and states 'I founded Americans for Safe Aerospace to create a center of support, research, and public education for aircrew impacted by UAP encounters', reporting nearly 5,000 members and more than 30 witnesses working with the organisation.",
+"sources": [
+{
+"date": "2023-07-26",
+"name": "Ryan Graves, written testimony to the House Oversight Subcommittee on National Security, the Border, and Foreign Affairs, 26 July 2023",
+"url": "https://oversight.house.gov/wp-content/uploads/2023/07/Ryan-HOC-Testimony.pdf"
+},
+{
+"date": null,
+"name": "Ryan Graves written testimony, House Oversight and Accountability Subcommittee on National Security, the Border, and Foreign Affairs, July 26, 2023 -- https://www.congress.gov/118/meeting/house/116282/witnesses/HHRG-118-GO06-Wstate-GravesR-20230726.pdf",
+"url": ""
+}
+],
+"tier": "A",
+"type": "witness-chain"
+},
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "Navy designated lead service for the UAP Task Force",
+"id": "uap-task-force",
+"l0": true,
+"label": "Unidentified Aerial Phenomena Task Force (UAPTF)",
+"note": "'Deputy Secretary of Defense David L. Norquist approved the establishment of an Unidentified Aerial Phenomena (UAP) Task Force (UAPTF)' on 4 August 2020, with the Department of the Navy leading it under the cognizance of the Office of the Under Secretary of Defense for Intelligence and Security. Its stated mission was 'to detect, analyze and catalog UAPs that could potentially pose a threat to U.S. national security'. The task force was disestablished two years later on the Deputy Secretary's direction when AARO stood up.",
+"sources": [
+{
+"date": "2020-08-14",
+"name": "U.S. Navy press release, 'Establishment of Unidentified Aerial Phenomena Task Force', 14 August 2020",
+"url": "https://www.navy.mil/Press-Office/Press-Releases/display-pressreleases/Article/2314280/establishment-of-unidentified-aerial-phenomena-task-force/"
+},
+{
+"date": null,
+"name": "U.S. Navy press release, 'Establishment of Unidentified Aerial Phenomena Task Force,' August 14, 2020 -- https://www.navy.mil/Press-Office/Press-Releases/display-pressreleases/Article/2314280/establishment-of-unidentified-aerial-phenomena-task-force/",
+"url": ""
+}
+],
+"tier": "A",
+"type": "institutional"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": null,
+"deg": 9,
+"denials": [],
+"desc": "The United States Navy is the maritime service of the Department of Defense, organised under a civilian Secretary of the Navy with the Chief of Naval Operations as senior uniformed officer, and it states its purpose as deploying combat-ready sailors, ships, aircraft and submarines worldwide without dependence on foreign land bases. It is the service that generated the modern evidentiary core of the UAP problem: carrier strike group encounters off southern California in November 2004 and off the eastern seaboard in 2014-2015, recorded by F/A-18 targeting pods, SPY-1 radar and aircrew who filed the reports through operational channels. On 27 April 2020 the Department authorised release of three unclassified Navy videos - one from November 2004 and two from January 2015 - and stated on the record that it was doing so to clear up public misconceptions about whether the circulating footage was real. That release is a hinge artifact for this board, because it converts material that had circulated as leak and rumour into acknowledged official product while conspicuously not addressing what the objects were. The Navy also holds the institutional position that matters for custody questions - it operates the fleet ranges where the encounters occurred, the aviation safety and hazard reporting systems into which aircrew reports flow, and the shore facilities repeatedly named in recovery and material-storage allegations elsewhere on this board.",
+"domains": [
+"_rs-stubs-known",
+"_stubs"
+],
+"dossier": {
+"claims": [
+{
+"source": "Statement by the Department of Defense on the Release of Historical Navy Videos, 27 April 2020, https://www.war.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/",
+"text": "On 27 April 2020 the Department of Defense authorised the release of three unclassified Navy videos, one taken in November 2004 and two in January 2015, stating it was releasing them 'in order to clear up any misconceptions by the public on whether or not the footage that has been circulating was real, or whether or not there is more to the videos', and that 'The aerial phenomena observed in the videos remain characterized as unidentified.'",
+"tier": 1
+},
+{
+"source": "U.S. Navy press release, 'Establishment of Unidentified Aerial Phenomena Task Force', 14 August 2020, https://www.navy.mil/Press-Office/Press-Releases/display-pressreleases/Article/2314280/establishment-of-unidentified-aerial-phenomena-task-force/",
+"text": "The Department of the Navy was made the lead for the UAP Task Force: 'Deputy Secretary of Defense David L. Norquist approved the establishment of an Unidentified Aerial Phenomena (UAP) Task Force (UAPTF)' on 4 August 2020, under the cognizance of the Office of the Under Secretary of Defense for Intelligence and Security, with the stated mission 'to detect, analyze and catalog UAPs that could potentially pose a threat to U.S. national security'.",
+"tier": 1
+},
+{
+"source": "Public Law 79-588, 60 Stat. 779, sec. 1, https://www.govinfo.gov/content/pkg/STATUTE-60/pdf/STATUTE-60-Pg779.pdf",
+"text": "The Office of Naval Research was placed inside the Office of the Secretary of the Navy by statute on 1 August 1946, with section 1 providing that its orders are to be considered as emanating from the Secretary and to have full force and effect as such.",
+"tier": 1
+},
+{
+"source": "US Patent 10,144,532, https://www.freepatentsonline.com/10144532.html",
+"text": "The Navy is the assignee of record on the Pais inertial mass reduction device patent, assigned to 'The United States of America as represented by the Secretary of the Navy'.",
+"tier": 2
+},
+{
+"source": "US Navy, About, https://www.navy.mil/About/",
+"text": "The service is organised under a Secretary of the Navy, Under Secretary, Chief of Naval Operations, Vice Chief and Chief of Naval Personnel, with the stated mission of global deployment to preserve peace, deter aggression and protect American interests without dependence on foreign land bases.",
+"tier": 1
+}
+],
+"connections": [
+"Named in the Department's 27 April 2020 release as the source of the November 2004 footage carried here as nimitz-2004, and of the January 2015 footage carried as roosevelt-2014-2015. The carrier association for the 2015 videos is graded Tier 2, because neither primary document names the USS Theodore Roosevelt.",
+"Designated lead service for uap-task-force on 4 August 2020, under the cognizance of the Under Secretary of Defense for Intelligence and Security.",
+"Parent of office-of-naval-research, created inside the Office of the Secretary of the Navy in 1946, and of naval-criminal-investigative-service, whose head's title is fixed in 32 CFR 701.5.",
+"The Secretary of the Navy assigned deep-submergence-systems-project to the Special Projects Office in February 1964.",
+"Assignee of record on pais-patent-imrd.",
+"James V. Forrestal held the office of Secretary of the Navy until September 1947, immediately before the Defense appointment.",
+"Ryan Graves flew F/A-18Fs in this service and became the first witness of the active-duty era to testify before Congress."
+],
+"denialPosture": "The board records no denial link on this node in either direction. The posture the record does establish is confirmation without characterisation: the Department confirmed the videos were genuine Navy product and stated in the same release that what they show remains unidentified. The board's own reading of that as damage control rather than disclosure is carried as a Tier 3 inference from the release's wording, and is not treated as a denial by anyone.",
+"narrative": "The Navy's position on this board is unusual because it is the one institution here that has conceded the evidentiary question in public and declined the interpretive one in the same sentence. The April 2020 release states that the Department was acting 'in order to clear up any misconceptions by the public on whether or not the footage that has been circulating was real, or whether or not there is more to the videos', and in the same document holds that 'The aerial phenomena observed in the videos remain characterized as unidentified.' That is a hinge: material that had circulated as leak became acknowledged official product, and the acknowledgement carried no characterisation with it. The board's own record notes the reading that this was damage control rather than disclosure, and grades that reading Tier 3, because it is an inference from the wording of the release and nothing more.\n\nWhat gives the service structural weight rather than merely evidentiary weight is what sits under it. The Office of Naval Research was created inside the Office of the Secretary of the Navy with the provision that its orders be considered as emanating from the Secretary and have full force and effect as such. The Deep Submergence Systems Project was assigned by the Secretary to the Special Projects Office and by 1967 was a separate project inside Naval Material Command with its own project designator. The Pais patent names the Secretary of the Navy as the assignee. These are the ordinary mechanics of a service that can commission research, place it under a project office and hold title to what comes out, and they are the mechanics that any custody account of anomalous material would have to run through.\n\nThe honest statement of this node is that the board has the outputs and not the interior. Its degree here is nine, its Tier 1 claims number two, and its own research record is a known stub filled in from public description. The Navy is on the map because everything downstream of the 2004 and 2015 encounters passes through it, not because any opened record shows what it did with them.",
+"openQuestions": [
+"This node's own research record is a filled stub. It carries four claims, two of them Tier 1, and the board's node letters for consequence, access and disclosure are all zero. A service of this size with this position in the record should not be thinner than its own subordinate offices.",
+"The Navy's aviation safety and hazard reporting systems are the channel every aircrew report entered, and no record of those filings has been opened here. The board asserts the channel exists and holds none of its contents.",
+"Shore facilities under Navy control are repeatedly named in recovery and material-storage allegations elsewhere on this board. Nothing opened for this node names a facility, a programme or a date, and no claim here rests on those allegations."
+],
+"roles": [
+"disclosure",
+"custody",
+"research"
+],
+"whatItIs": "The maritime service of the Department of Defense, organised under a civilian Secretary of the Navy with the Chief of Naval Operations as senior uniformed officer, and stating its own purpose as deploying combat-ready sailors, ships, aircraft and submarines worldwide without dependence on foreign land bases. The board holds it through its component parts rather than as a monolith: the Office of Naval Research, placed inside the Office of the Secretary of the Navy by Public Law 79-588 on 1 August 1946; the Deep Submergence Systems Project, assigned by the Secretary to the Special Projects Office after the review group reported in February 1964; the Naval Criminal Investigative Service, a Department of the Navy organisation whose head's title is fixed in the Navy's own codified regulations at 32 CFR part 701; and James V. Forrestal, Secretary of the Navy until September 1947.",
+"whyImplicated": "The Navy generated the modern evidentiary core of the problem this board maps, and then became the office that handled it. The encounters that anchor the contemporary record are Navy carrier aviation events: off southern California in November 2004 and off the eastern seaboard in 2014-2015, recorded through targeting pods and radar and filed by aircrew through operational channels. On 27 April 2020 the Department authorised release of three unclassified Navy videos and said why, and on 4 August 2020 the Deputy Secretary made the Department of the Navy the lead for the UAP Task Force. It is also an assignee of record: the Pais inertial mass reduction device patent is assigned to the United States of America as represented by the Secretary of the Navy. Acknowledgement, custody of the reporting channel and ownership of the exotic-propulsion paperwork are all in the same service."
+},
+"entityInfo": null,
+"era": "nd",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "us-navy",
+"l0": true,
+"label": "United States Navy",
+"locLabel": null,
+"members": [
+{
+"cls": "program",
+"id": "deep-submergence-systems-project",
+"label": "Deep Submergence Systems Project (DSSP)",
+"tier": "B"
+},
+{
+"cls": "person",
+"id": "james-v-forrestal",
+"label": "James V. Forrestal",
+"tier": "B"
+},
+{
+"cls": "institution",
+"id": "naval-criminal-investigative-service",
+"label": "Naval Criminal Investigative Service",
+"tier": "C"
+},
+{
+"cls": "institution",
+"id": "office-of-naval-research",
+"label": "Office of Naval Research",
+"tier": "B"
+},
+{
+"cls": "person",
+"id": "ryan-graves",
+"label": "Ryan Graves",
+"tier": "A"
+}
+],
+"short": "United States Navy",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "US Navy - About (official navy.mil)",
+"url": "https://www.navy.mil/About/"
+},
+{
+"date": "2020-04-27",
+"name": "Statement by the Department of Defense on the Release of Historical Navy Videos (official DoD release, article 2165713)",
+"url": "https://www.defense.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/"
+}
+],
+"sub": "Military service",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 753 of 1027, score 20). 9 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D0.",
+"timeline": []
+}

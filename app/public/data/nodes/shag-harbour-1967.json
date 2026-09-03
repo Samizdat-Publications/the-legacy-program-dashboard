@@ -1,0 +1,97 @@
+{
+"A": 0,
+"C": 2,
+"D": 2,
+"band": null,
+"claims": [
+{
+"source": "Department of National Defence file summary held at Library and Archives Canada — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"text": "RCC Halifax sent a priority telex to the RCAF Air Desk in Ottawa the following morning stating that all conventional explanations had been dismissed, and the report was labelled a 'UFO Report'; the Air Desk telexed RCN headquarters recommending an underwater search and Fleet Diving Unit Atlantic was tasked.",
+"tier": 2
+},
+{
+"source": "The Chronicle-Herald, Halifax, 7 and 9 October 1967 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"text": "The Chronicle-Herald of 7 October 1967 published Ray MacLeod's front-page story quoting Squadron Leader Bain of the RCAF Air Desk saying the Shag Harbour incident 'is one of the few where we may get something concrete on it'; the 9 October follow-up reported the Navy found 'not a trace... not a clue... not a bit of anything.'",
+"tier": 2
+},
+{
+"source": "Canadian Forces Fleet Diving Unit Atlantic search report, October 1967 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"text": "Divers from Fleet Diving Unit Atlantic searched the seafloor of the Gulf of Maine for three days beginning two days after the incident; the final report states no trace of an object was found.",
+"tier": 2
+},
+{
+"source": "Randle interviewed by Robert Sheaffer, Skeptical Inquirer",
+"text": "Kevin Randle, who has grown notably more sceptical about Roswell, has stated that Shag Harbour is one of the two cases he still regards as possibly involving a genuine crash.",
+"tier": 2
+}
+],
+"cls": "event",
+"cluster": "witness",
+"connections": [
+{
+"claimTier": 2,
+"cls": "event",
+"dateEnd": "1967-10-04",
+"dateStart": "1965-12-09",
+"direction": "out",
+"edgeLabel": "Two documented official responses to undocumented objects, twenty-two months apart",
+"id": "kecksburg-1965",
+"l0": false,
+"label": "Kecksburg incident, 9 December 1965",
+"note": "At Kecksburg the cordon is in the contemporaneous press and the object is in no record; at Shag Harbour the RCAF Air Desk telex, the Navy tasking and the Fleet Diving Unit Atlantic search are all in Department of National Defence files and the object is in none.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Shag Harbour UFO incident - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident"
+}
+],
+"tier": "B",
+"type": "temporal"
+}
+],
+"coords": null,
+"dateEnd": "1967-10-09",
+"dateStart": "1967-10-04",
+"deg": 1,
+"denials": [],
+"desc": "At about 11:20 p.m. Atlantic Daylight Time on 4 October 1967 at least eleven people saw a low-flying lit object descend into the water off Shag Harbour, Nova Scotia; witnesses reported a whistling sound, a whoosh and a loud bang. Laurie Wickens and four companions, driving on Highway 3, reported to the RCMP detachment at Barrington Passage that a large aircraft had gone into the water. Two RCMP officers reached the scene within about fifteen minutes and the Rescue Coordination Centre in Halifax was alerted; the object, still lit, sank before any rescue attempt. Local fishing boats and a Canadian Coast Guard cutter from Clark's Harbour searched and found no survivors, bodies or debris. By the next morning RCC Halifax had established that no commercial, private or military aircraft were missing anywhere along the eastern seaboard, in the Atlantic provinces or in New England, and sent a priority telex to the Royal Canadian Air Force 'Air Desk' in Ottawa - the office handling all civilian and military UFO reports - explicitly stating that conventional explanations had been dismissed and labelling it a UFO Report. The head of the Air Desk telexed Royal Canadian Navy headquarters recommending an underwater search, and the Navy tasked Fleet Diving Unit Atlantic, which combed the seafloor of the Gulf of Maine for three days beginning two days after the event. The final report says no trace was found. The Chronicle-Herald of 7 October 1967 ran Ray MacLeod's front-page story 'Could Be Something Concrete in Shag Harbour UFO - RCAF', quoting Squadron Leader Bain of the Air Desk saying the Air Force was 'very interested' and that 'the Shag Harbour incident is one of the few where we may get something concrete on it.' The 9 October follow-up, 'UFO Search Called Off', quoted the Navy: 'Not a trace... not a clue... not a bit of anything.' A summary of the event from Department of National Defence files is held at Library and Archives Canada. Shag Harbour is the strongest case in the whole retrieval literature on the criterion this board cares about most - the response is documented in government paper even though the object is not.",
+"domains": [
+"w2-retrieval-literature"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "shag-harbour-1967",
+"l0": false,
+"label": "Shag Harbour incident, 4 October 1967",
+"locLabel": null,
+"members": null,
+"short": "Shag Harbour incident, 4 October 1967",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Shag Harbour UFO incident - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident"
+}
+],
+"sub": "Object impact and Canadian military underwater search, Nova Scotia",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 741 of 1027, score 21). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A0/D2.",
+"timeline": [
+{
+"date": "1967-10-04",
+"id": "tl-1967-1004-shag",
+"label": "Shag Harbour",
+"precision": "day",
+"strand": "witness",
+"text": "An object enters the water off Shag Harbour, Nova Scotia at about 11:20pm ADT before at least eleven witnesses. RCC Halifax telexes the RCAF Air Desk in Ottawa having eliminated all aircraft; the Navy tasks Fleet Diving Unit Atlantic to a three-day underwater search. Nothing is found.",
+"tier": "A"
+}
+]
+}

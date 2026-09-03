@@ -1,0 +1,160 @@
+{
+"A": 3,
+"C": 1,
+"D": 2,
+"affiliations": [
+"Deputy Secretary of Defense (2019-2021)",
+"DoD Comptroller/CFO (2017-2019)",
+"DHS CFO",
+"dod",
+"dod-agencywide-audit"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "2018",
+"event": "As USD(Comptroller)/CFO, signs the FY2018 Agency Financial Report reporting the Department's first full-scope audit and its disclaimer of opinion",
+"precision": "year"
+},
+{
+"date": "2020-08-04",
+"event": "Approves establishment of the UAP Task Force",
+"precision": "day"
+},
+{
+"date": "2020-08-14",
+"event": "Navy publicly announces the Task Force",
+"precision": "day"
+}
+],
+"claims": [
+{
+"source": "US Navy press release, 14 August 2020",
+"text": "Norquist approved the establishment of the UAP Task Force on 4 August 2020, under the Department of the Navy with OUSD(I&S) cognizance.",
+"tier": 1
+},
+{
+"source": "https://comptroller.war.gov/Portals/45/Documents/afr/fy2018/3-Financial_Section.pdf — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
+"text": "Norquist signed the FY2018 DoD Agency Financial Report message as Under Secretary of Defense (Comptroller)/Chief Financial Officer, writing: 'In FY 2018, the Department underwent its first full-scope financial statement audit. As anticipated, our independent auditor, the Department of Defense Office of Inspector General, issued a Disclaimer of Opinion as the result of the audit.'",
+"tier": 2
+}
+],
+"cls": "person",
+"cluster": "other",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": null,
+"dateStart": "2018",
+"direction": "out",
+"edgeLabel": "Signed the FY2018 report announcing the first full-scope audit and its disclaimer",
+"id": "dod-agencywide-audit",
+"l0": true,
+"label": "DoD Agency-Wide Financial Statement Audit (FY2018-present)",
+"note": "Norquist, as USD(Comptroller)/CFO, wrote that 'In FY 2018, the Department underwent its first full-scope financial statement audit' and that the OIG 'issued a Disclaimer of Opinion'. Attested by his own signed message in the FY2018 Agency Financial Report.",
+"sources": [
+{
+"date": "2018-11-15",
+"name": "DoD AFR FY2018, Financial Section",
+"url": "https://comptroller.war.gov/Portals/45/Documents/afr/fy2018/3-Financial_Section.pdf"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": "2020",
+"dateStart": "2020",
+"direction": "out",
+"edgeLabel": "approved establishment of the UAP Task Force",
+"id": "uap-task-force",
+"l0": true,
+"label": "Unidentified Aerial Phenomena Task Force (UAPTF)",
+"note": "Norquist, as Deputy Secretary of Defense, formally approved the UAPTF on 4 August 2020; the Navy announced it on 14 August.",
+"sources": [
+{
+"date": "2020-08-14",
+"name": "US Navy press release",
+"url": "https://www.navy.mil/Press-Office/Press-Releases/display-pressreleases/Article/2314280/establishment-of-unidentified-aerial-phenomena-task-force/"
+}
+],
+"tier": "A",
+"type": "institutional"
+}
+],
+"date": "2020-08-04",
+"dateEnd": null,
+"dateStart": "2020-08-04",
+"deg": 2,
+"denials": [],
+"domains": [
+"_rs-archive-mirror",
+"uaptf-aaro",
+"w2-black-budget"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "david-norquist",
+"instId": "dod",
+"l0": false,
+"label": "David L. Norquist",
+"loc": "Washington, DC",
+"locId": "l-dc",
+"members": null,
+"narrative": "David L. Norquist signed the message from the Under Secretary of Defense (Comptroller) and Chief Financial Officer in the Department of Defense Agency Financial Report for fiscal year 2018, the report accompanying the first full-scope financial statement audit the Department had ever undergone. His words in that message are the founding document of the modern audit record: 'In FY 2018, the Department underwent its first full-scope financial statement audit. As anticipated, our independent auditor, the Department of Defense Office of Inspector General, issued a Disclaimer of Opinion as the result of the audit.' Norquist subsequently became Deputy Secretary of Defense - the office which, under DoD Directive 5205.07, holds authority, direction and control over the entire Department special access program enterprise through the DoD Special Access Program Central Office. That combination is unusual and worth recording plainly: the same official ran the Department's books at the moment they were first declared unauditable, and then held the office with complete visibility over the Department's compartmented programme portfolio. He has made no public statement connecting the two.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "David L. Norquist",
+"sources": [
+{
+"date": "2026-05-19",
+"name": "Archived: US Navy - Establishment of Unidentified Aerial Phenomena Task Force (Wayback 2026-05-19)",
+"url": "https://web.archive.org/web/20260519012412/https://www.navy.mil/Press-Office/Press-Releases/display-pressreleases/Article/2314280/establishment-of-unidentified-aerial-phenomena-task-force/"
+},
+{
+"date": "2026-04-13",
+"name": "Archived: DoD Agency Financial Report FY2018, Financial Section (Wayback 2026-04-13)",
+"url": "https://web.archive.org/web/20260413163028/https://comptroller.war.gov/Portals/45/Documents/afr/fy2018/3-Financial_Section.pdf"
+},
+{
+"date": "2020-08-14",
+"name": "US Navy - Establishment of Unidentified Aerial Phenomena Task Force",
+"url": "https://www.navy.mil/Press-Office/Press-Releases/display-pressreleases/Article/2314280/establishment-of-unidentified-aerial-phenomena-task-force/"
+},
+{
+"date": "2018-11-15",
+"name": "DoD Agency Financial Report FY2018, Financial Section",
+"url": "https://comptroller.war.gov/Portals/45/Documents/afr/fy2018/3-Financial_Section.pdf"
+}
+],
+"status": "active",
+"sub": "Deputy Secretary of Defense (2019-2021); approved the UAP Task Force",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 631 of 1027, score 24). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A3/D2.",
+"timeline": [
+{
+"date": "2018-11",
+"id": "bb-tl-2018-11-audit1",
+"label": "First full-scope DoD audit: disclaimer of opinion",
+"precision": "month",
+"strand": "oversight",
+"text": "David L. Norquist, Under Secretary of Defense (Comptroller) and Chief Financial Officer, writes in the FY2018 Agency Financial Report: 'In FY 2018, the Department underwent its first full-scope financial statement audit. As anticipated, our independent auditor, the Department of Defense Office of Inspector General, issued a Disclaimer of Opinion as the result of the audit.' It will be the first of eight.",
+"tier": "A"
+}
+],
+"unexplainedResidual": null,
+"unverified": [
+"The exact dates of Norquist's service as USD(Comptroller) and as Deputy Secretary of Defense were not confirmed from a primary source in this pass."
+]
+}

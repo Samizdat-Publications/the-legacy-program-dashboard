@@ -1,0 +1,82 @@
+{
+"A": 2,
+"C": 0,
+"D": 2,
+"band": null,
+"claims": [
+{
+"source": "US Air Force / Langley AFB statement to The War Zone, 15 March 2024",
+"text": "'The installation first observed UAS activities the evening of December 6 [2023] and experienced multiple incursions throughout the month of December.'",
+"tier": 1
+},
+{
+"source": "The War Zone, 9 October 2024",
+"text": "Protective netting to shield F-22s was under consideration by October 2024.",
+"tier": 2
+}
+],
+"cls": "location",
+"cluster": "witness",
+"connections": [
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": "2023",
+"dateStart": "2023",
+"direction": "in",
+"edgeLabel": "Site of the December 2023 incursions",
+"id": "langley-2023-incursions",
+"l0": true,
+"label": "Langley AFB Drone Incursions (December 2023)",
+"note": "The Air Force confirmed activity beginning the evening of 6 December 2023 and continuing through the month, prompting F-16 CAPs, NASA WB-57F orbits and FBI coordination.",
+"sources": [
+{
+"date": "2024-03-15",
+"name": "The War Zone - mysterious drones swarmed Langley AFB for weeks",
+"url": "https://www.twz.com/air/mysterious-drones-swarmed-langley-afb-for-weeks"
+}
+],
+"tier": "B",
+"type": "institutional"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "2023",
+"deg": 1,
+"denials": [],
+"desc": "Home to front-line F-22 Raptors and, from the evening of 6 December 2023, the site of the most consequential unattributed airspace intrusion on US soil in the modern record. The Air Force confirmed 'multiple incursions throughout the month of December' by unmanned aircraft that 'ranged in size/configuration' and fluctuated in number. The response - F-16 combat air patrols with tanker support, NASA WB-57F high-altitude surveillance orbits, FBI coordination through NORTHCOM - is not what a base does about hobbyists. Gen. Mark Kelly described at least one drone as roughly 20 feet long at more than 100 mph and 3,000 to 4,000 feet. F-22s were relocated, and by October 2024 the Air Force was evaluating protective netting for the aircraft. Gen. Gregory Guillot made Langley the centrepiece of his 90-day counter-UAS assessment on taking NORAD/NORTHCOM command in February 2024 and stated he knew of no foreign nexus. Langley is also where the aviator strand and the incursion strand converge: the same restricted airspace regime that failed to identify the 2004 and 2015 objects failed again, at home, over a stealth fighter base, for seventeen nights.",
+"domains": [
+"aviators-incidents"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "l-langley",
+"l0": false,
+"label": "Joint Base Langley-Eustis, Virginia",
+"locLabel": null,
+"members": null,
+"short": "Joint Base Langley-Eustis, Virginia",
+"sources": [
+{
+"date": "2024-03-15",
+"name": "The War Zone - mysterious drones swarmed Langley AFB for weeks",
+"url": "https://www.twz.com/air/mysterious-drones-swarmed-langley-afb-for-weeks"
+},
+{
+"date": "2024-10-09",
+"name": "The War Zone - protective nets eyed for F-22s",
+"url": "https://www.twz.com/air/protective-nets-to-shield-f-22s-eyed-for-airbase-swarmed-by-mystery-drones"
+}
+],
+"sub": "F-22 Raptor base; site of the December 2023 incursions",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 861 of 1027, score 16). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A2/D2.",
+"timeline": []
+}

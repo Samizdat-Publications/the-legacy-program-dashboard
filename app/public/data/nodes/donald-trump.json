@@ -1,0 +1,194 @@
+{
+"A": 3,
+"C": 0,
+"D": 3,
+"affiliations": [
+"President of the United States (2017-2021, 2025-)"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "2026-02-19",
+"event": "Truth Social post directing the Secretary of War to identify and release UAP files",
+"precision": "day"
+},
+{
+"date": "2026-05-08",
+"event": "First PURSUE tranche published under the direction",
+"precision": "day"
+},
+{
+"date": "2026-07-21",
+"event": "Reported directive waiving UAP-related NDAs for former employees and contractors",
+"precision": "day"
+}
+],
+"claims": [
+{
+"source": "DefenseScoop, 20 February 2026, quoting the Truth Social post",
+"text": "Trump posted on Truth Social that he would direct Hegseth and relevant departments to 'begin the process of identifying and releasing Government files related to alien and extraterrestrial life, unidentified aerial phenomena (UAP), and unidentified flying objects (UFOs).'",
+"tier": 2
+},
+{
+"source": "war.gov/UFO, accessed 12 August 2026",
+"text": "The Department of War's PURSUE portal attributes the release programme to the President's direction to the Secretary of War.",
+"tier": 1
+},
+{
+"source": "Fox News, 21 July 2026",
+"text": "In July 2026 the administration directed DoW and the IC to waive UAP-related NDAs for former employees and contractors speaking with authorised investigators; officials stressed it is 'not a declassification directive.'",
+"tier": 2
+},
+{
+"source": "Inference from the absence of any EO citation on war.gov/UFO, in AARO's materials, or in DefenseScoop's February 2026 reporting, against Hegseth's verbal reference to 'that executive order'",
+"text": "No published executive order establishing PURSUE has surfaced; the programme appears to rest on informal presidential direction plus departmental implementation, which leaves its scope and durability entirely discretionary.",
+"tier": 3
+}
+],
+"cls": "person",
+"cluster": "other",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "2026-02",
+"dateStart": "2025-09-05",
+"direction": "out",
+"edgeLabel": "Signed EO 14347 and issued the 2026 UAP release directives",
+"id": "eop",
+"l0": false,
+"label": "Executive Office of the President",
+"note": "EO 14347 is signed; the February 2026 UAP directives are attested by contemporary reporting and by the Department's subsequent PURSUE releases.",
+"sources": [
+{
+"date": "2025-09-05",
+"name": "Executive Order 14347, Restoring the United States Department of War",
+"url": "https://www.whitehouse.gov/presidential-actions/2025/09/restoring-the-united-states-department-of-war/"
+},
+{
+"date": "2026-08-07",
+"name": "Department of War - PURSUE portal (war.gov/UFO)",
+"url": "https://www.war.gov/UFO/"
+},
+{
+"date": "2026-05-08",
+"name": "Department of War releases UAP files",
+"url": "https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 2,
+"cls": "document",
+"dateEnd": "2026",
+"dateStart": "2026",
+"direction": "out",
+"edgeLabel": "Issued the direction that created PURSUE",
+"id": "trump-uap-release-directive-2026",
+"l0": false,
+"label": "Presidential direction to identify and release UAP files (19-20 February 2026)",
+"note": "Trump's 19-20 February 2026 Truth Social post directing Hegseth and relevant agencies to begin identifying and releasing UAP files is the sole originating instrument for the release programme.",
+"sources": [
+{
+"date": "2026-02-20",
+"name": "DefenseScoop - Transparency proponents meet Trump's UAP disclosure tease with hope and caution",
+"url": "https://defensescoop.com/2026/02/20/trump-ufo-uap-government-files-disclosure/"
+},
+{
+"date": "2026-08-07",
+"name": "Department of War - PURSUE portal (war.gov/UFO)",
+"url": "https://www.war.gov/UFO/"
+}
+],
+"tier": "B",
+"type": "programmatic"
+},
+{
+"claimTier": 2,
+"cls": "document",
+"dateEnd": "2026",
+"dateStart": "2026",
+"direction": "out",
+"edgeLabel": "Directed the NDA waiver in July 2026",
+"id": "uap-nda-waiver-directive-2026",
+"l0": false,
+"label": "Presidential directive waiving UAP-related nondisclosure agreements",
+"note": "The administration directed DoW and the IC to waive UAP-related NDAs for former employees and contractors speaking with authorised investigators; officials stressed it is not a declassification directive.",
+"sources": [
+{
+"date": "2026-07-21",
+"name": "Fox News - Trump directs agencies to waive NDAs for UAP whistleblowers",
+"url": "https://www.foxnews.com/politics/long-hidden-ufo-information-center-trump-push-free-former-officials"
+}
+],
+"tier": "B",
+"type": "programmatic"
+}
+],
+"date": "2026-02-19",
+"dateEnd": null,
+"dateStart": "2026-02-19",
+"deg": 3,
+"denials": [],
+"domains": [
+"_rs-archive-mirror",
+"releases-2023-2026"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "donald-trump",
+"instId": "dod",
+"l0": false,
+"label": "Donald J. Trump",
+"loc": "Washington, DC",
+"locId": "l-dc",
+"members": null,
+"narrative": "The entire 2026 release architecture rests on a single social-media post. On 19-20 February 2026 Trump posted on Truth Social that he would direct Secretary of War Pete Hegseth and other relevant departments and agencies to 'begin the process of identifying and releasing Government files related to alien and extraterrestrial life, unidentified aerial phenomena (UAP), and unidentified flying objects (UFOs), and any and all other information connected to these highly complex, but extremely interesting and important, matters.' The programme that followed - PURSUE, the Presidential Unsealing and Reporting System for UAP Encounters - takes its name from that direction and is described on the Department of War's own portal as standing on it. Hegseth referred to the direction as an 'executive order' in remarks five days later, but the contemporaneous DefenseScoop reporting on the announcement records a Truth Social post and no signed order, and no executive order text has surfaced in the public record as of 12 August 2026. That gap matters: a programme releasing hundreds of files under presidential direction, with no published instrument establishing scope, standards, review authority or exemptions, is a programme whose limits are set entirely by the executive that runs it and can be withdrawn as informally as it was created. In July 2026 the same channel produced a second directive - the waiver of UAP-related nondisclosure agreements for former employees and contractors speaking to authorised government investigators - which officials were careful to describe as 'not a declassification directive.'",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Donald J. Trump",
+"sources": [
+{
+"date": "2026-08-10",
+"name": "Archived: Department of War - PURSUE portal (war.gov/UFO) (Wayback 2026-08-10)",
+"url": "https://web.archive.org/web/20260810202017/https://www.war.gov/UFO/"
+},
+{
+"date": "2026-02-20",
+"name": "DefenseScoop - Transparency proponents meet Trump's UAP disclosure tease with hope and caution",
+"url": "https://defensescoop.com/2026/02/20/trump-ufo-uap-government-files-disclosure/"
+},
+{
+"date": "2026-08-07",
+"name": "Department of War - PURSUE portal (war.gov/UFO)",
+"url": "https://www.war.gov/UFO/"
+},
+{
+"date": "2026-07-21",
+"name": "Fox News - Trump directs agencies to waive NDAs for UAP whistleblowers",
+"url": "https://www.foxnews.com/politics/long-hidden-ufo-information-center-trump-push-free-former-officials"
+},
+{
+"date": "2026-02-25",
+"name": "DefenseScoop - Hegseth doubles down on Trump's UAP disclosure promise as AARO's caseload exceeds 2,000",
+"url": "https://defensescoop.com/2026/02/25/hegseth-ufo-disclosure-trump-aaro-uap-caseload/"
+}
+],
+"status": "active",
+"sub": "President; source of the PURSUE directive",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 399 of 1027, score 32). 3 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A3/D3.",
+"timeline": [],
+"unexplainedResidual": null,
+"unverified": []
+}

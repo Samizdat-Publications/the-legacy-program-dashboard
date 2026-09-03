@@ -1,0 +1,161 @@
+{
+"A": 3,
+"C": 2,
+"D": 1,
+"band": null,
+"claims": [
+{
+"source": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf",
+"text": "DoDD 5205.07 (2024) names the Director, DoD SAPCO as Executive Secretary of both the SAPOC and the SRG, placing the working-level review body under the same office that runs congressional liaison.",
+"tier": 1
+},
+{
+"source": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf",
+"text": "DoDI 5205.11 (2024) governs SRG procedure; para 3.6.b: 'CA SAPCOs will submit proposed SAP governance actions to the Director' -- proposals to establish, modify or disestablish reach the Deputy Secretary only through the DoD SAPCO-chaired governance chain. Para 4.2.b: 'Proposals to disestablish SAP umbrellas will be submitted to the Deputy Secretary.'",
+"tier": 1
+},
+{
+"source": "DoDI 5205.11, Enclosure 3, para 3",
+"text": "DoDI 5205.11 Enclosure 3 para 3: 'The SRG is the principal working-level body executing the governance process and performing oversight and management of DoD SAPs. Unanimous recommendations of the SRG may be forwarded directly to the DepSecDef for decision.'",
+"tier": 1
+},
+{
+"source": "DoDI 5205.11, Enclosure 3, para 3.a",
+"text": "DoDI 5205.11 Enclosure 3 para 3.a: SRG Chair is the Principal Deputy Under Secretary of Defense for AT&L; Vice Chair the Director, DoD SAPCO; Executive Secretary the Deputy Director, DoD SAPCO.",
+"tier": 1
+},
+{
+"source": "DoDI 5205.11, Enclosure 3, para 3.b(1)",
+"text": "DoDI 5205.11 Enclosure 3 para 3.b(1) lists SRG review of proposals to establish or disestablish SAPs, designation of oversight and cognizant authorities, removal of programs from special access controls, IJSTO apportionment, alteration of a SAP's scope, category or type, and review of foreign access and participation.",
+"tier": 1
+},
+{
+"source": "DoDI 5205.11, Enclosure 3",
+"text": "DoDI 5205.11 Enclosure 3 para 3.b(4)-(5): the SRG 'Reviews all waived DoD SAPs annually' and 'Ensures the accuracy of the SAP list submitted to Congress prior to submission of the SAP annual report.'",
+"tier": 1
+}
+],
+"cls": "institution",
+"cluster": "other",
+"connections": [
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": "2013-02-06",
+"direction": "in",
+"edgeLabel": "Makes the SRG the working-level body that reviews every waived program annually",
+"id": "dodi-5205-11",
+"l0": true,
+"label": "DoDI 5205.11 — Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)",
+"note": "DoDI 5205.11 Enclosure 3 para 3.b(4)-(5): the SRG 'Reviews all waived DoD SAPs annually' and 'Ensures the accuracy of the SAP list submitted to Congress'.",
+"sources": [
+{
+"date": "2018-08-31",
+"name": "DoD Instruction 5205.11, 6 February 2013, Change 1 31 August 2018",
+"url": "https://web.archive.org/web/20190916023050/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2013-02-06",
+"direction": "out",
+"edgeLabel": "Unanimous SRG recommendations bypass the SAPOC entirely",
+"id": "sapoc",
+"l0": false,
+"label": "Special Access Program Oversight Committee (SAPOC)",
+"note": "DoDI 5205.11 Enclosure 3 para 3: 'Unanimous recommendations of the SRG may be forwarded directly to the DepSecDef for decision.'",
+"sources": [
+{
+"date": "2018-08-31",
+"name": "DoD Instruction 5205.11, 6 February 2013, Change 1 31 August 2018",
+"url": "https://web.archive.org/web/20190916023050/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": null,
+"dateStart": "2013-02-06",
+"direction": "in",
+"edgeLabel": "Every waived program is reviewed once a year by a named standing body",
+"id": "waived-usap-mechanism",
+"l0": true,
+"label": "Waived Unacknowledged SAP (waived USAP) — the mechanism",
+"note": "DoDI 5205.11 Enclosure 3 para 3.b(4) assigns the SRG the annual review of all waived DoD SAPs and recommendations on continued waived status.",
+"sources": [
+{
+"date": "2018-08-31",
+"name": "DoD Instruction 5205.11, 6 February 2013, Change 1 31 August 2018",
+"url": "https://web.archive.org/web/20190916023050/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf"
+}
+],
+"tier": "A",
+"type": "institutional"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "2010-07-01",
+"deg": 3,
+"denials": [],
+"desc": "The Senior Review Group is described in DoDI 5205.11 as 'the principal working-level body executing the governance process and performing oversight and management of DoD SAPs', and its unanimous recommendations 'may be forwarded directly to the DepSecDef for decision' - bypassing the SAPOC entirely. It is chaired by the Principal Deputy Under Secretary of Defense for Acquisition, Technology and Logistics, vice-chaired by the Director of DoD SAPCO and with the Deputy Director of DoD SAPCO as executive secretary; its members are the primary or alternate representatives designated in writing by each SAPOC member, with the Army, Navy and Air Force each casting a single vote. It convenes at the direction of the Deputy Secretary to review proposals to establish or disestablish SAPs, designate cognizant and oversight authorities, remove DoD programs from special access controls, apportion SAPs into and out of integrated joint special technical operations, alter the scope, category or type of a SAP, approve the use of DoD resources to support DoD and non-DoD SAPs, and review foreign access and participation. Two of its enumerated functions are decisive for this board: it 'Reviews all waived DoD SAPs annually' and provides recommendations on continued waived status, and it 'Ensures the accuracy of the SAP list submitted to Congress prior to submission of the SAP annual report'. If a waived program existed that was not on the list submitted to Congress, the SRG is the body that would have had to certify a list it knew to be incomplete - or the body from which the program was itself concealed.",
+"domains": [
+"_rs-archive-mirror",
+"_rs-sap-docs",
+"w2-sap-architecture"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "2",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "srg-dod",
+"l0": false,
+"label": "Senior Review Group (DoD SAP governance)",
+"locLabel": null,
+"members": null,
+"short": "Senior Review Group (DoD SAP governance)",
+"sources": [
+{
+"date": "2025-08-09",
+"name": "Archived: DoDI 5205.11 (12 Sep 2024) (Wayback 2025-08-09)",
+"url": "https://web.archive.org/web/20250809023849/https://www.esd.whs.mil/portals/54/documents/dd/issuances/dodi/520511p.pdf"
+},
+{
+"date": "2026-05-18",
+"name": "Archived: DoDD 5205.07 (12 Sep 2024) (Wayback 2026-05-18)",
+"url": "https://web.archive.org/web/20260518065512/https://www.esd.whs.mil/portals/54/documents/dd/issuances/dodd/520507p.pdf"
+},
+{
+"date": "2024-09-12",
+"name": "DoDI 5205.11 (12 Sep 2024)",
+"url": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf"
+},
+{
+"date": "2024-09-12",
+"name": "DoDD 5205.07 (12 Sep 2024)",
+"url": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf"
+},
+{
+"date": "2018-08-31",
+"name": "DoD Instruction 5205.11, Management, Administration, and Oversight of DoD Special Access Programs (SAPs), 6 February 2013, incorporating Change 1, 31 August 2018",
+"url": "https://web.archive.org/web/20190916023050/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf"
+}
+],
+"sub": "oversight-body",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 241 of 1027, score 40). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A3/D1.",
+"timeline": []
+}

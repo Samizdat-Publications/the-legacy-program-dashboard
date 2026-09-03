@@ -1,0 +1,120 @@
+{
+"A": 1,
+"C": 1,
+"D": 3,
+"affiliations": [
+"cefaa",
+"dgac-chile",
+"Fuerza Aérea de Chile (FACh)"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "1997",
+"event": "Becomes Director of the Escuela Técnica Aeronáutica and takes over direction of CEFAA",
+"precision": "year"
+},
+{
+"date": "1997-10-03",
+"event": "CEFAA created by DGAC Director General de Aviación Gonzalo Miranda Aguirre",
+"precision": "day"
+},
+{
+"date": "2014-11",
+"event": "Chilean Navy helicopter records the FLIR footage that CEFAA will analyse",
+"precision": "month"
+},
+{
+"date": "2016",
+"event": "Leaves the CEFAA directorship",
+"precision": "year"
+},
+{
+"date": "2017-01",
+"event": "CEFAA releases the Navy helicopter footage publicly",
+"precision": "month"
+}
+],
+"claims": [
+{
+"source": "SEFAA (Dirección General de Aeronáutica Civil de Chile), 'Historia', official site",
+"text": "'El año 1997 asume como Director de la Escuela Técnica Aeronáutica, el General de Brigada Aérea (A), Ricardo Bermúdez Sanhueza, quien a su vez asumió la Dirección del Comité de Estudios de Fenómenos Aéreos Anómalos y se desempeñó en él hasta el año 2016.'",
+"tier": 1
+}
+],
+"cls": "person",
+"cluster": "research",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "2016",
+"dateStart": "1997",
+"direction": "out",
+"edgeLabel": "directed CEFAA 1997-2016",
+"id": "cefaa",
+"l0": true,
+"label": "CEFAA / SEFAA - Chilean anomalous aerial phenomena office, Dirección General de Aeronáutica Civil",
+"note": "SEFAA's own official history records his simultaneous appointment to the Escuela Técnica Aeronáutica and the CEFAA directorship.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "SEFAA - Historia",
+"url": "https://sefaa.dgac.gob.cl/historia/"
+}
+],
+"tier": "A",
+"type": "institutional"
+}
+],
+"date": "2017-01-01",
+"dateEnd": null,
+"dateStart": "2017-01-01",
+"deg": 1,
+"denials": [],
+"domains": [
+"w2-international"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "ricardo-bermudez",
+"instId": "cefaa",
+"l0": false,
+"label": "General de Brigada Aérea (A) Ricardo Bermúdez Sanhueza",
+"loc": "Santiago, Chile",
+"locId": "l-santiago",
+"members": null,
+"narrative": "Ricardo Bermúdez Sanhueza, an air brigade general of the Chilean Air Force, became director of the Escuela Técnica Aeronáutica in 1997 and simultaneously took over the direction of the Comité de Estudios de Fenómenos Aéreos Anómalos, the UAP committee that the Director General of Civil Aviation had created on 3 October 1997. He held the CEFAA directorship until 2016 - nineteen years, making him the longest-serving national UAP office head in the Americas and the counterpart of France's Jean-Jacques Velasco. Under Bermúdez, CEFAA operated inside the Dirección General de Aeronáutica Civil rather than the armed forces, convened multidisciplinary scientific panels including astronomers, meteorologists, physicists and image analysts to adjudicate cases, and did something no US body did in the same period: it released the raw sensor product. The case that made this internationally visible is the Chilean Navy helicopter FLIR video of November 2014, which CEFAA analysed for two years before publishing. Bermúdez's tenure is the model that Canada's own Office of the Chief Science Advisor identified in June 2025 as one of only three worth copying, alongside the American AARO and the French GEIPAN.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "General de Brigada Aérea (A) Ricardo Bermúdez Sanhueza",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "SEFAA - Historia (official DGAC Chile)",
+"url": "https://sefaa.dgac.gob.cl/historia/"
+},
+{
+"date": "2025-06-01",
+"name": "Sky Canada Project report (identifies Chile as a model)",
+"url": "https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada"
+}
+],
+"status": "active",
+"sub": "Director, CEFAA (Chile), 1997-2016; Director of the Chilean Air Force Technical School",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 827 of 1027, score 17). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D3.",
+"timeline": [],
+"unexplainedResidual": null,
+"unverified": [
+"Bermúdez's date of birth and current status were not established."
+]
+}

@@ -1,0 +1,160 @@
+{
+"A": 0,
+"C": 0,
+"D": 3,
+"band": null,
+"claims": [
+{
+"source": "NewsNation Reality Check episode credits, 4 August 2026; Wikipedia, 'Ross Coulthart' — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"text": "NewsNation employs Ross Coulthart as senior special investigations correspondent and produces Reality Check with a credited team including executive producer Andy Gipson, editorial producer Meagan Medick and research producer Rob Jones.",
+"tier": 2
+}
+],
+"cls": "institution",
+"cluster": "media",
+"connections": [
+{
+"claimTier": 2,
+"cls": "domain",
+"dateEnd": null,
+"dateStart": "2021",
+"direction": "out",
+"edgeLabel": "the only US broadcaster to make the legacy programme a standing beat rather than an occasional segment",
+"id": "d-media",
+"l0": false,
+"label": "Independent media as the disclosure substrate",
+"note": "NewsNation carries Ross Coulthart as special correspondent with a dedicated programme, Reality Check, built around long-form UAP investigation, and in 2026 ran a multi-part series with UAP Gerb covering FFRDCs, gatekeeping and the alleged Kona Blue material transfer. Broadcast participation in this domain reduces, in practice, to one correspondent at one network.",
+"sources": [
+{
+"date": "2026-08-21",
+"name": "NewsNation, Ross Coulthart correspondent page",
+"url": "https://www.newsnationnow.com/author/ross-coulthart/"
+},
+{
+"date": "2026-08-21",
+"name": "NewsNation, 'Reality Check with Ross Coulthart' programme page",
+"url": "https://www.newsnationnow.com/podcasts-newsnation/reality-check/"
+}
+],
+"tier": "C",
+"type": "investigative"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "2023-06-11",
+"direction": "out",
+"edgeLabel": "Broke Grusch's first on-camera whistleblower interview",
+"id": "david-grusch",
+"l0": false,
+"label": "David Charles Grusch",
+"note": "NewsNation published/aired 'We are not alone: The UFO whistleblower speaks' on 11 June 2023, the first television interview with David Grusch, conducted by Ross Coulthart, NewsNation's senior special investigations correspondent.",
+"sources": [
+{
+"date": null,
+"name": "https://www.newsnationnow.com/space/ufo/we-are-not-alone-the-ufo-whistleblower-speaks/",
+"url": "https://www.newsnationnow.com/space/ufo/we-are-not-alone-the-ufo-whistleblower-speaks/"
+},
+{
+"date": null,
+"name": "https://en.wikipedia.org/wiki/Ross_Coulthart",
+"url": "https://en.wikipedia.org/wiki/Ross_Coulthart"
+}
+],
+"tier": "A",
+"type": "investigative"
+},
+{
+"claimTier": 2,
+"cls": "event",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "Carried and explained the Immaculate Constellation report",
+"id": "immaculate-constellation",
+"l0": true,
+"label": "Immaculate Constellation disclosure, October-November 2024",
+"note": "NewsNation ran explainer and news coverage of the alleged unacknowledged special access program named in the whistleblower brief that Michael Shellenberger delivered to Congress in autumn 2024.",
+"sources": [
+{
+"date": null,
+"name": "https://www.newsnationnow.com/space/ufo/report-immaculate-constellation-uap-journalist/",
+"url": "https://www.newsnationnow.com/space/ufo/report-immaculate-constellation-uap-journalist/"
+},
+{
+"date": null,
+"name": "https://www.newsnationnow.com/space/ufo/what-is-immaculate-constellation/",
+"url": "https://www.newsnationnow.com/space/ufo/what-is-immaculate-constellation/"
+}
+],
+"tier": "A",
+"type": "investigative"
+},
+{
+"claimTier": 2,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "Aired the Jake Barber / Skywatcher 'psionic retrieval' special",
+"id": "skywatcher",
+"l0": false,
+"label": "Skywatcher",
+"note": "In January 2025 Ross Coulthart interviewed former US intelligence operative Jake Barber on NewsNation's Reality Check; the special introduced Barber's Skywatcher team and its claimed psionic 'summoning' operations and egg-shaped object footage. NewsNation has continued to be the primary outlet for Skywatcher updates. Barber's claims remain unverified by official sources.",
+"sources": [
+{
+"date": null,
+"name": "https://www.newsnationnow.com/space/ufo/hfr-uap-recovery-video-egg-shaped-object-exclusive/",
+"url": "https://www.newsnationnow.com/space/ufo/hfr-uap-recovery-video-egg-shaped-object-exclusive/"
+},
+{
+"date": null,
+"name": "https://en.wikipedia.org/wiki/Ross_Coulthart",
+"url": "https://en.wikipedia.org/wiki/Ross_Coulthart"
+},
+{
+"date": null,
+"name": "https://www.newsnationnow.com/space/ufo/ross-coulthart-qa-skywatcher-didnt-disappear-it-went-government/",
+"url": "https://www.newsnationnow.com/space/ufo/ross-coulthart-qa-skywatcher-didnt-disappear-it-went-government/"
+}
+],
+"tier": "C",
+"type": "investigative"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "2021",
+"deg": 4,
+"denials": [],
+"desc": "NewsNation is the US cable network that made the legacy program a standing beat rather than an occasional segment. It hired Ross Coulthart as senior special investigations correspondent, built Reality Check around him with a credited production and research team, and in 2026 ran a multi-part series with the pseudonymous researcher UAP Gerb that put FFRDCs, UARCs and GOCOs, gatekeeping, and the question of whether the legacy program constitutes a 'deep state' into broadcast segments. Its editorial posture on this subject is not neutral - it published a segment headlined 'Ross Coulthart on UAP Gerb's claims: I think he's on the money' - and that partisanship is precisely what allowed the structural argument to reach a mass broadcast audience when no other network would carry it.",
+"domains": [
+"media-structure"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "newsnation",
+"l0": false,
+"label": "NewsNation",
+"locLabel": null,
+"members": null,
+"short": "NewsNation",
+"sources": [
+{
+"date": "2026-08-04",
+"name": "NewsNation Reality Check - Kona Blue episode",
+"url": "https://www.youtube.com/watch?v=F2NfXgv8x1E"
+}
+],
+"sub": "US cable news network",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 946 of 1027, score 12). 4 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.",
+"timeline": []
+}

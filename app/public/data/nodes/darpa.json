@@ -1,0 +1,161 @@
+{
+"A": 2,
+"C": 0,
+"D": 1,
+"band": null,
+"claims": [
+{
+"source": "DARPA, About, retrieved 12 August 2026",
+"text": "DARPA states it was 'Created in response to the launch of Sputnik in 1957' and is 'an independent research and development agency within the U.S. Department of War (DOW)', with six technical offices.",
+"tier": 1
+},
+{
+"source": "DARPA, About, retrieved 12 August 2026",
+"text": "DARPA's published budget figures as of 2026 are a President's FY2027 request of $5.039 billion and an FY2026 enacted level of $4.322 billion.",
+"tier": 1
+},
+{
+"source": "ODNI Preliminary Assessment, 25 June 2021",
+"text": "DARPA is named among the contributing elements to ODNI's 25 June 2021 Preliminary Assessment on UAP.",
+"tier": 1
+}
+],
+"cls": "institution",
+"cluster": "other",
+"connections": [
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "1959",
+"dateStart": "1959",
+"direction": "in",
+"edgeLabel": "A copy went to the Director of ARPA at the Pentagon",
+"id": "afswc-tr-59-39",
+"l0": true,
+"label": "AFSWC TR-59-39 Vol I, A Study of Lunar Research Flights, 19 June 1959",
+"note": "The distribution list reads 'Director, Advanced Research Projects Agency, Department of Defense, ATTN: Ward Low, The Pentagon, Wash 25, DC'.",
+"sources": [
+{
+"date": "1959-06-19",
+"name": "AFSWC TR-59-39 Vol I, A Study of Lunar Research Flights, DDC AD 425380",
+"url": "https://archive.org/details/DTIC_AD0425380"
+}
+],
+"tier": "A",
+"type": "custody"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "1959",
+"dateStart": "1959",
+"direction": "in",
+"edgeLabel": "Held the ARPA post of Assistant Director, Administration",
+"id": "lawrence-p-gise",
+"l0": false,
+"label": "Lawrence P. Gise",
+"note": "The Official Register of the United States 1959 places him in that post as of 1 May 1959, on the same page as Director Roy W. Johnson.",
+"sources": [
+{
+"date": "1959-05-01",
+"name": "Official Register of the United States 1959, US Civil Service Commission",
+"url": "https://www.govinfo.gov/content/pkg/GOVPUB-CS1-301ae7b075ad3435b3a7dca00e78e8ff/pdf/GOVPUB-CS1-301ae7b075ad3435b3a7dca00e78e8ff.pdf"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2021-06-25",
+"direction": "out",
+"edgeLabel": "Named contributor to the 2021 ODNI Preliminary Assessment on UAP",
+"id": "odni",
+"l0": true,
+"label": "Office of the Director of National Intelligence",
+"note": "ODNI's 25 June 2021 assessment names DARPA among the contributing elements, establishing that this agency produced or held UAP-relevant reporting.",
+"sources": [
+{
+"date": "2021-06-25",
+"name": "ODNI, Preliminary Assessment: Unidentified Aerial Phenomena",
+"url": "https://archive.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 3,
+"cls": "program",
+"dateEnd": null,
+"dateStart": "1958",
+"direction": "out",
+"edgeLabel": "The open counterfactual to a concealed breakthrough-technology effort",
+"id": "waived-usap",
+"l0": true,
+"label": "Waived unacknowledged special access program (waived USAP)",
+"note": "DARPA runs breakthrough research with named program managers, published solicitations and a public budget of $4.322 billion enacted for FY2026. Reasoning: a concealed eighty-year exploitation effort producing no transitions is either failing or structured specifically to avoid DARPA-style visibility.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "DARPA - About",
+"url": "https://www.darpa.mil/about"
+}
+],
+"tier": "A",
+"type": "research"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "1958-02-07",
+"deg": 4,
+"denials": [],
+"desc": "DARPA describes itself as 'an independent research and development agency within the U.S. Department of War' and states it was 'Created in response to the launch of Sputnik in 1957' as 'our nation's commitment to never again face a strategic technical surprise'. It runs six technical offices, and its published budget figures as of 2026 are a President's FY2027 request of $5.039 billion against an FY2026 enacted level of $4.322 billion. DARPA's relevance to this board is twofold and mostly negative-space. First, it is named among the contributing elements to ODNI's June 2021 Preliminary Assessment on UAP - the only pure R&D organisation on that list, which implies it was consulted on the 'USG or U.S. industry developmental programs' explanatory category, the category that exists to reconcile UAP reports against black aerospace projects. Second, DARPA is the institutional counterfactual against which the legacy program allegation is measured: DARPA is what an American breakthrough-technology effort looks like when it is run in the open, with named program managers on fixed terms, published solicitations and a public budget. Any organisation performing eighty years of exotic materials exploitation without producing a single DARPA-style transition to a fielded system is either failing or is structured to avoid exactly that visibility.",
+"domains": [
+"_rs-archive-mirror",
+"w2-agencies"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "darpa",
+"l0": false,
+"label": "Defense Advanced Research Projects Agency",
+"locLabel": null,
+"members": null,
+"short": "Defense Advanced Research Projects Agency",
+"sources": [
+{
+"date": "2026-08-03",
+"name": "Archived: DARPA - About (Wayback 2026-08-03)",
+"url": "https://web.archive.org/web/20260803012944/https://www.darpa.mil/about"
+},
+{
+"date": "2026-08-11",
+"name": "Archived: ODNI, Preliminary Assessment: Unidentified Aerial Phenomena (Wayback 2026-08-11)",
+"url": "https://web.archive.org/web/20260811010946/https://archive.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf"
+},
+{
+"date": "2026-08-12",
+"name": "DARPA - About",
+"url": "https://www.darpa.mil/about"
+},
+{
+"date": "2021-06-25",
+"name": "ODNI, Preliminary Assessment: Unidentified Aerial Phenomena",
+"url": "https://archive.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf"
+}
+],
+"sub": "Independent R&D agency created in response to Sputnik; contributor to the 2021 UAP assessment",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 643 of 1027, score 24). 4 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A2/D1.",
+"timeline": []
+}

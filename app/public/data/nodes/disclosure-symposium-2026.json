@@ -1,0 +1,123 @@
+{
+"A": 0,
+"C": 0,
+"D": 3,
+"band": null,
+"claims": [
+{
+"source": "Sen. Mike Rounds, Weekly Round[s] Up, 22-28 June 2026, rounds.senate.gov",
+"text": "'On Thursday, I spoke at the 2026 Disclosure Symposium, where I discussed the future of the Unidentified Anomalous Phenomena (UAP) Disclosure Act. I am once again cosponsoring as an amendment to this year's National Defense Authorization Act.'",
+"tier": 2
+},
+{
+"source": "Inference from the newsletter's stated date range",
+"text": "The Thursday referred to in a newsletter covering 22-28 June 2026 is 25 June 2026.",
+"tier": 3
+}
+],
+"cls": "event",
+"cluster": "oversight",
+"connections": [
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2026",
+"dateStart": "2026",
+"direction": "in",
+"edgeLabel": "Announces a fourth filing at an outside conference",
+"id": "mike-rounds",
+"l0": false,
+"label": "Mike Rounds",
+"note": "Nine days after SASC reported a bill with no UAP content, Rounds announced the next UAPDA attempt at the 2026 Disclosure Symposium rather than in committee.",
+"sources": [
+{
+"date": "2026-06-28",
+"name": "Sen. Rounds — Weekly Round[s] Up, June 22-28, 2026",
+"url": "https://www.rounds.senate.gov/newsroom/weekly-rounds/weekly-rounds-up-june-22-28-2026"
+},
+{
+"date": "2026-06-15",
+"name": "S. 4784 (Reported in Senate) — GPO",
+"url": "https://www.govinfo.gov/content/pkg/BILLS-119s4784rs/html/BILLS-119s4784rs.htm"
+}
+],
+"tier": "B",
+"type": "behavioral"
+},
+{
+"claimTier": 1,
+"cls": "legislation",
+"dateEnd": null,
+"dateStart": "2026",
+"direction": "out",
+"edgeLabel": "Target vehicle contains no UAP provisions to amend",
+"id": "ndaa-fy2027-s4784",
+"l0": false,
+"label": "FY2027 NDAA as reported (S. 4784, S. Rept. 119-127)",
+"note": "Rounds's stated plan is to attach the Act to the FY2027 NDAA; the reported bill has no UAP subtitle and his own markup announcement lists no UAP win.",
+"sources": [
+{
+"date": "2026-06-15",
+"name": "S. 4784 (Reported in Senate) — GPO",
+"url": "https://www.govinfo.gov/content/pkg/BILLS-119s4784rs/html/BILLS-119s4784rs.htm"
+},
+{
+"date": "2026-06-16",
+"name": "Sen. Rounds — FY2027 NDAA committee wins",
+"url": "https://www.rounds.senate.gov/newsroom/press-releases/rounds-secures-national-defense-victories-in-senate-armed-services-committees-fiscal-year-2027-ndaa"
+}
+],
+"tier": "C",
+"type": "temporal"
+}
+],
+"coords": null,
+"dateEnd": "2026",
+"dateStart": "2026",
+"deg": 2,
+"denials": [],
+"desc": "During the week of 22-28 June 2026 Senator Rounds spoke at the 2026 Disclosure Symposium and used it to announce that the UAP Disclosure Act would be filed again. In his own newsletter he wrote: 'On Thursday, I spoke at the 2026 Disclosure Symposium, where I discussed the future of the Unidentified Anomalous Phenomena (UAP) Disclosure Act. I am once again cosponsoring as an amendment to this year's National Defense Authorization Act.' The Thursday of that week was 25 June 2026. The significance is the venue and the timing together: nine days after the Armed Services Committee reported an FY2027 NDAA containing no UAP provisions at all, the ranking Republican advocate announced the next attempt not in committee, not in a bill, and not on the Senate floor, but at an outside disclosure conference. The pattern established in 2023, 2024 and 2025 is that the Act is filed as a leadership-level floor amendment and disposed of without a vote; the 2026 announcement indicates a fourth iteration of the same approach against a bill whose committee product has been built without a place for it.",
+"domains": [
+"congress-senate-legislation"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "disclosure-symposium-2026",
+"l0": false,
+"label": "2026 Disclosure Symposium",
+"locLabel": null,
+"members": null,
+"short": "2026 Disclosure Symposium",
+"sources": [
+{
+"date": "2026-06-28",
+"name": "Sen. Rounds — Weekly Round[s] Up, June 22-28, 2026",
+"url": "https://www.rounds.senate.gov/newsroom/weekly-rounds/weekly-rounds-up-june-22-28-2026"
+},
+{
+"date": "2026-06-15",
+"name": "S. 4784 (Reported in Senate) — GPO",
+"url": "https://www.govinfo.gov/content/pkg/BILLS-119s4784rs/html/BILLS-119s4784rs.htm"
+}
+],
+"sub": "Late June 2026; Rounds announces a new UAPDA amendment",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 962 of 1027, score 11). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.",
+"timeline": [
+{
+"date": "2026-06-25",
+"id": "cl-2026-06-25",
+"label": "Rounds announces a fourth attempt",
+"precision": "day",
+"strand": "program",
+"text": "At the 2026 Disclosure Symposium Rounds says he is 'once again cosponsoring' the UAP Disclosure Act as an amendment to this year's NDAA — nine days after the committee reported a bill with nothing in it to amend.",
+"tier": "B"
+}
+]
+}

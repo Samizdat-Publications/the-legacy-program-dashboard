@@ -1,0 +1,277 @@
+{
+"A": 2,
+"C": 0,
+"D": 3,
+"affiliations": [
+"U.S. Senate, New York (1999- )",
+"Senate Majority Leader (2021-2025)",
+"Senate Minority Leader (2025- )"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "2023-07-13",
+"event": "Submits S.Amdt. 797 to S. 2226 for himself, Rounds, Rubio, Gillibrand, Young and Heinrich; text printed at 169 Cong. Rec. S2953-S2959",
+"precision": "day"
+},
+{
+"date": "2023-07-27",
+"event": "Senate passes S. 2226 carrying Division G, Unidentified Anomalous Phenomena Disclosure",
+"precision": "day"
+},
+{
+"date": "2023-12-22",
+"event": "FY2024 NDAA signed as P.L. 118-31 with Division G reduced to Subtitle C, Sections 1841-1843",
+"precision": "day"
+},
+{
+"date": "2024-07-11",
+"event": "Full UAPDA text re-filed as S.Amdt. 2610, 'Mr. ROUNDS (for himself and Mr. Schumer)'; ordered to lie on the table",
+"precision": "day"
+}
+],
+"claims": [
+{
+"source": "CREC-2023-07-13-pt1-PgS2953; congress.gov S.Amdt.797",
+"text": "Sponsor of record of S.Amdt. 797 to S. 2226: congress.gov lists 'Sponsor: Sen. Schumer, Charles E. [D-NY] (Submitted 07/13/2023)'. The Congressional Record entry reads 'SA 797. Mr. SCHUMER (for himself, Mr. Rounds, Mr. Rubio, Mrs. Gillibrand, Mr. Young, and Mr. Heinrich) submitted an amendment intended to be proposed by him to the bill S. 2226 ... which was ordered to lie on the table'.",
+"tier": 1
+},
+{
+"source": "BILLS-118s2226es Div. G",
+"text": "The amendment Schumer submitted is the text enacted in the Senate as Division G of S. 2226, secs. 9001-9015, containing the eminent-domain provision (sec. 9010) and the nine-member Review Board (sec. 9007).",
+"tier": 1
+},
+{
+"source": "Congress.gov amendment record, S.Amdt. 797, 118th Congress; text printed 169 Cong. Rec. S2953 (13 July 2023)",
+"text": "Schumer is the sponsor of S.Amdt. 797 to S. 2226, submitted 13 July 2023, with Rounds, Rubio, Gillibrand, Young and Heinrich as original cosponsors.",
+"tier": 1
+},
+{
+"source": "S. 2226 as engrossed in the Senate, Division G, Sec. 9010(a), GPO",
+"text": "The text he submitted commands the Federal Government to 'exercise eminent domain over any and all recovered technologies of unknown origin and biological evidence of non-human intelligence that may be controlled by private persons or entities.'",
+"tier": 1
+},
+{
+"source": "Schumer, quoted in Micah Hanks, The Debrief, 14 July 2023",
+"text": "'Americans have a right to learn about technologies of unknown origins, non-human intelligence, and unexplainable phenomena.'",
+"tier": 2
+},
+{
+"source": "Schumer, quoted in J.P. Hague, The Debrief, 22 December 2023",
+"text": "'It is really an outrage the House didn't work with us on adopting our proposal for a review board.'",
+"tier": 2
+}
+],
+"cls": "person",
+"cluster": "other",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2023",
+"dateStart": "2023",
+"direction": "out",
+"edgeLabel": "Schumer names Reid as the legacy he is continuing",
+"id": "harry-reid",
+"l0": false,
+"label": "Harry M. Reid",
+"note": "Schumer publicly framed the UAPDA as inheriting from Reid, who had funded AAWSAP through leadership discretion rather than committee process.",
+"sources": [
+{
+"date": "2023-07-14",
+"name": "The Debrief — UAP Disclosure Act of 2023",
+"url": "https://thedebrief.org/the-uap-disclosure-act-of-2023-what-we-know-about-chuck-schumer-and-the-senates-new-push-for-uap-transparency/"
+}
+],
+"tier": "A",
+"type": "behavioral"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "2023",
+"dateStart": "2023",
+"direction": "out",
+"edgeLabel": "Moskowitz read Schumer's disclosure language into the House record",
+"id": "jared-moskowitz",
+"l0": false,
+"label": "Jared Evan Moskowitz",
+"note": "'The American public has a right to learn about technologies of unknown origins, nonhuman intelligence, and unexplainable phenomena.'",
+"sources": [
+{
+"date": "2023-07-26",
+"name": "U.S. GPO, Hearing transcript, Serial No. 118-53 (CHRG-118hhrg53022)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm"
+}
+],
+"tier": "B",
+"type": "legislative"
+},
+{
+"claimTier": 2,
+"cls": "legislation",
+"dateEnd": "2023",
+"dateStart": "2023",
+"direction": "out",
+"edgeLabel": "Publicly called the removal of the Review Board an outrage",
+"id": "ndaa-fy2024-subtitle-c",
+"l0": false,
+"label": "P.L. 118-31 Subtitle C — Secs. 1841-1843 (what survived)",
+"note": "Schumer said it was 'really an outrage the House didn't work with us on adopting our proposal for a review board' after the conference product removed it.",
+"sources": [
+{
+"date": "2023-12-22",
+"name": "The Debrief — A Dramatic Dilution",
+"url": "https://thedebrief.org/a-dramatic-dilution-of-the-disclosure-process-a-temporary-shore-break-against-the-waves-of-change-schumer-amendment/"
+}
+],
+"tier": "B",
+"type": "denial"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "2023",
+"dateStart": "2023",
+"direction": "out",
+"edgeLabel": "Sponsor of record; filed 13 July 2023",
+"id": "samdt-797",
+"l0": true,
+"label": "S.Amdt. 797 to S. 2226 (Schumer-Rounds UAP Disclosure Act amendment)",
+"note": "Congress.gov lists Schumer as the sole sponsor of S.Amdt. 797, submitted 13 July 2023, with the text printed at 169 Cong. Rec. S2953.",
+"sources": [
+{
+"date": "2023-07-13",
+"name": "Congress.gov — S.Amdt. 797",
+"url": "https://www.congress.gov/amendment/118th-congress/senate-amendment/797"
+},
+{
+"date": "2023-07-13",
+"name": "Congressional Record, 13 July 2023 — S.Amdt. 797",
+"url": "https://www.govinfo.gov/content/pkg/CREC-2023-07-13/html/CREC-2023-07-13-pt1-PgS2953.htm"
+}
+],
+"tier": "B",
+"type": "legislative"
+},
+{
+"claimTier": 1,
+"cls": "legislation",
+"dateEnd": null,
+"dateStart": "2023-07-13",
+"direction": "out",
+"edgeLabel": "sponsor of S.Amdt. 797",
+"id": "uapda-2023",
+"l0": true,
+"label": "UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)",
+"note": "congress.gov lists Sen. Schumer as sponsor of S.Amdt.797, submitted 07/13/2023; the Congressional Record entry names him as the submitting senator.",
+"sources": [
+{
+"date": "2023-07-13",
+"name": "Congressional Record, 13 July 2023, Text of Senate Amendment 797 (CREC-2023-07-13-pt1-PgS2953)",
+"url": "https://www.govinfo.gov/content/pkg/CREC-2023-07-13/html/CREC-2023-07-13-pt1-PgS2953.htm"
+},
+{
+"date": "2024-12-18",
+"name": "congress.gov, S.Amdt.797 to S.2226 overview (Wayback capture 2024-12-18)",
+"url": "https://web.archive.org/web/20241218191945/https://www.congress.gov/amendment/118th-congress/senate-amendment/797"
+}
+],
+"tier": "A",
+"type": "programmatic"
+}
+],
+"date": "2023-07-13",
+"dateEnd": null,
+"dateStart": "2023-07-13",
+"deg": 5,
+"denials": [
+{
+"by": {
+"id": "chuck-schumer",
+"label": "Charles E. Schumer"
+},
+"claimTier": 2,
+"denialKind": "association",
+"label": "Publicly called the removal of the Review Board an outrage",
+"note": "Schumer said it was 'really an outrage the House didn't work with us on adopting our proposal for a review board' after the conference product removed it.",
+"of": {
+"id": "ndaa-fy2024-subtitle-c",
+"label": "P.L. 118-31 Subtitle C — Secs. 1841-1843 (what survived)"
+},
+"sources": [
+{
+"date": "2023-12-22",
+"name": "The Debrief — A Dramatic Dilution",
+"url": "https://thedebrief.org/a-dramatic-dilution-of-the-disclosure-process-a-temporary-shore-break-against-the-waves-of-change-schumer-amendment/"
+}
+]
+}
+],
+"domains": [
+"_rs-legislation",
+"congress-senate-legislation"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "chuck-schumer",
+"instId": "us-senate",
+"l0": false,
+"label": "Charles E. Schumer",
+"loc": "Washington, DC",
+"locId": "l-dc",
+"members": null,
+"narrative": "Schumer is the author of the only piece of United States legislation ever drafted on the explicit premise that the Federal Government holds recovered non-human technology and has hidden it. On 13 July 2023, as Senate Majority Leader, he submitted S.Amdt. 797 to S. 2226, the FY2024 NDAA, for himself and Senators Rounds, Rubio, Gillibrand, Young and Heinrich; its text was printed in the Congressional Record at Vol. 169 No. 120, pages S2953-S2959. The amendment carried a legal definition of 'non-human intelligence,' a legal definition of 'legacy program' reaching private contractors and academic institutions, a nine-member Records Review Board appointed by the President with the advice and consent of the Senate, and — at Section __10(a), later Section 9010(a) of Division G of the engrossed bill — a command that 'The Federal Government shall exercise eminent domain over any and all recovered technologies of unknown origin and biological evidence of non-human intelligence that may be controlled by private persons or entities in the interests of the public good.' The Senate passed S. 2226 carrying that division on 27 July 2023. By the time the conference product was signed on 22 December 2023 the Review Board, the eminent domain clause, the Controlled Disclosure Campaign Plan and the $20,000,000 authorization were gone; only Sections 1841-1843 survived. Schumer framed the effort as inheriting Harry Reid's project, telling reporters he was 'honored to carry on the legacy of my mentor and dear friend Harry Reid,' and after the gutting said it was 'really an outrage the House didn't work with us on adopting our proposal for a review board.' He re-filed the full text through Rounds as S.Amdt. 2610 in July 2024. It never got a vote.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Charles E. Schumer",
+"sources": [
+{
+"date": "2023-07-13",
+"name": "Congressional Record, 13 July 2023, Text of Senate Amendment 797 (CREC-2023-07-13-pt1-PgS2953)",
+"url": "https://www.govinfo.gov/content/pkg/CREC-2023-07-13/html/CREC-2023-07-13-pt1-PgS2953.htm"
+},
+{
+"date": "2024-12-18",
+"name": "congress.gov, S.Amdt.797 to S.2226 overview (Wayback capture 2024-12-18)",
+"url": "https://web.archive.org/web/20241218191945/https://www.congress.gov/amendment/118th-congress/senate-amendment/797"
+},
+{
+"date": "2023-07-27",
+"name": "S. 2226, 118th Congress, Engrossed in Senate (BILLS-118s2226es) - contains DIVISION G, UAP Disclosure Act of 2023, secs. 9001-9015",
+"url": "https://www.govinfo.gov/content/pkg/BILLS-118s2226es/html/BILLS-118s2226es.htm"
+},
+{
+"date": "2023-07-13",
+"name": "Congress.gov — S.Amdt. 797 to S. 2226",
+"url": "https://www.congress.gov/amendment/118th-congress/senate-amendment/797"
+},
+{
+"date": "2023-07-14",
+"name": "The Debrief — 'The UAP Disclosure Act of 2023'",
+"url": "https://thedebrief.org/the-uap-disclosure-act-of-2023-what-we-know-about-chuck-schumer-and-the-senates-new-push-for-uap-transparency/"
+},
+{
+"date": "2023-12-22",
+"name": "The Debrief — 'A Dramatic Dilution of the Disclosure Process'",
+"url": "https://thedebrief.org/a-dramatic-dilution-of-the-disclosure-process-a-temporary-shore-break-against-the-waves-of-change-schumer-amendment/"
+}
+],
+"status": "active",
+"sub": "Senate Majority Leader (2021-2025); sponsor, UAP Disclosure Act",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 239 of 1027, score 40). 5 connections, 1 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D3.",
+"timeline": [],
+"unexplainedResidual": null,
+"unverified": [
+"Schumer has never given a floor speech on the UAP Disclosure Act on the day he filed it: a full-text search of the Congressional Record for 13 July 2023 returns the word 'anomalous' only inside printed amendment texts (SA 542, SA 666, SA 797), not in any transcribed Senate remarks."
+]
+}

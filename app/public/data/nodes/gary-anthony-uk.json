@@ -1,0 +1,103 @@
+{
+"A": 0,
+"C": 0,
+"D": 2,
+"affiliations": [
+"British UFO Research Association (BUFORA)"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "2005-09",
+"event": "Files FOI request with David Clarke for the DIS UAP study",
+"precision": "month"
+},
+{
+"date": "2006-05-15",
+"event": "MoD releases the Condign report",
+"precision": "day"
+}
+],
+"claims": [
+{
+"source": "Wikipedia, 'Project Condign', citing BBC News 7 May 2006 and The Guardian 25 September 2006",
+"text": "The Condign report 'was released into the public domain on 15 May 2006 after a September 2005 Freedom of Information Act request by UFO researchers David Clarke ... and Gary Anthony, a former BUFORA astronomical consultant'.",
+"tier": 2
+}
+],
+"cls": "person",
+"cluster": "research",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 2,
+"cls": "document",
+"dateEnd": "2006-05-15",
+"dateStart": "2005-09",
+"direction": "out",
+"edgeLabel": "co-requester of the Condign FOI",
+"id": "doc-condign-report",
+"l0": true,
+"label": "Unidentified Aerial Phenomena in the UK Air Defence Region (DIS Scientific & Technical Memorandum 55/2/00)",
+"note": "Named with Clarke as co-requester in the report's release history and in contemporaneous BBC and Guardian coverage.",
+"sources": [
+{
+"date": "2026-03-19",
+"name": "Project Condign - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/Project_Condign"
+}
+],
+"tier": "A",
+"type": "investigative"
+}
+],
+"date": "2006-05-15",
+"dateEnd": null,
+"dateStart": "2006-05-15",
+"deg": 1,
+"denials": [],
+"domains": [
+"w2-international"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "2",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "gary-anthony-uk",
+"instId": null,
+"l0": false,
+"label": "Gary Anthony",
+"loc": "United Kingdom",
+"locId": "l-uk",
+"members": null,
+"narrative": "Gary Anthony, a former astronomical consultant to the British UFO Research Association, filed the September 2005 Freedom of Information Act request jointly with David Clarke that produced the Ministry of Defence's release of the Project Condign report on 15 May 2006. He is the second name on the single most consequential FOI action in the British UAP record. Beyond the request itself the public record on him is thin, which is itself worth noting: the Condign release is routinely credited to Clarke alone in secondary coverage. The request was made under the Freedom of Information Act 2000, which had come fully into force on 1 January 2005 - eight months before the request was filed - so Condign is a direct artefact of the UK statutory access regime rather than of any voluntary MoD decision. The MoD did not release the report immediately; an internal review process is recorded in the Ministry's own disclosure log alongside the release, indicating the request was contested before it succeeded.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Gary Anthony",
+"sources": [
+{
+"date": "2026-03-19",
+"name": "Project Condign - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/Project_Condign"
+},
+{
+"date": "2006-05-15",
+"name": "MoD FOI disclosure log - UAP report letter to Dr Clarke",
+"url": "https://web.archive.org/web/20060515084211/http://www.mod.uk/DefenceInternet/FreedomOfInformation/DisclosureLog/SearchDisclosureLog/UapReportLetterToDrClarke.htm"
+}
+],
+"status": "active",
+"sub": "Co-requester of the Project Condign FOI release; former BUFORA astronomical consultant",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 1018 of 1027, score 7). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D2.",
+"timeline": [],
+"unexplainedResidual": null,
+"unverified": [
+"Anthony's full biography and any later FOI actions were not established."
+]
+}

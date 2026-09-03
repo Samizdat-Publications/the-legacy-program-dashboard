@@ -1,0 +1,125 @@
+{
+"A": 1,
+"C": 0,
+"D": 1,
+"affiliations": [
+"US Air Force, Major General",
+"Pentagon Press Secretary (2022- )"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "2024-03-08",
+"event": "Releases AARO Historical Record Report Volume I with the widest-possible-aperture framing",
+"precision": "day"
+}
+],
+"claims": [
+{
+"source": "Maj. Gen. Pat Ryder, Pentagon statement releasing AARO Historical Record Report Volume I, 8 March 2024",
+"text": "'AARO has approached this project with the widest possible aperture, thoroughly investigating these assertions and claims without any particular pre-conceived conclusion.'",
+"tier": 1
+}
+],
+"cls": "person",
+"cluster": "other",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "2024",
+"dateStart": "2024",
+"direction": "out",
+"edgeLabel": "Released and framed the report as 'the widest possible aperture'",
+"id": "aaro-historical-record-vol1",
+"l0": true,
+"label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
+"note": "Ryder is the named officer who put the Department's presentation on the record. The framing claim is unfalsifiable without publication of the underlying interview list, which AARO has not released.",
+"sources": [
+{
+"date": "2024-03-08",
+"name": "Roll Call - No evidence of extraterrestrial technology, report finds",
+"url": "https://rollcall.com/2024/03/08/no-evidence-of-extraterrestrial-technology-report-finds/"
+}
+],
+"tier": "A",
+"type": "denial"
+}
+],
+"date": "2024-03-08",
+"dateEnd": null,
+"dateStart": "2024-03-08",
+"deg": 1,
+"denials": [
+{
+"by": {
+"id": "pat-ryder",
+"label": "Patrick S. Ryder"
+},
+"claimTier": 1,
+"denialKind": "association",
+"label": "Released and framed the report as 'the widest possible aperture'",
+"note": "Ryder is the named officer who put the Department's presentation on the record. The framing claim is unfalsifiable without publication of the underlying interview list, which AARO has not released.",
+"of": {
+"id": "aaro-historical-record-vol1",
+"label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+},
+"sources": [
+{
+"date": "2024-03-08",
+"name": "Roll Call - No evidence of extraterrestrial technology, report finds",
+"url": "https://rollcall.com/2024/03/08/no-evidence-of-extraterrestrial-technology-report-finds/"
+}
+]
+}
+],
+"domains": [
+"_rs-archive-mirror",
+"grusch"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "pat-ryder",
+"instId": "dod",
+"l0": false,
+"label": "Patrick S. Ryder",
+"loc": "Arlington, VA",
+"locId": "l-pentagon",
+"members": null,
+"narrative": "Ryder is the officer who released AARO's Historical Record Report Volume I on 8 March 2024 on behalf of the Department, with the framing that AARO had approached the project with the widest possible aperture and without preconceived conclusion. He is the signatory of the public presentation of the government's formal rebuttal to Grusch. The report he released concludes that alleged reverse-engineering programs either do not exist, are misidentified authentic national security programs, or were disestablished - and that none of AARO's interviewees had firsthand knowledge, an assertion that cannot be reconciled with Grusch's sworn statement that firsthand witnesses filed their own protected disclosures with the Inspector General.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Patrick S. Ryder",
+"sources": [
+{
+"date": "2026-07-05",
+"name": "Archived: AARO Historical Record Report Volume I (Wayback 2026-07-05)",
+"url": "https://web.archive.org/web/20260705034310/https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF"
+},
+{
+"date": "2024-03-08",
+"name": "Roll Call - No evidence of extraterrestrial technology, report finds",
+"url": "https://rollcall.com/2024/03/08/no-evidence-of-extraterrestrial-technology-report-finds/"
+},
+{
+"date": "2024-03-08",
+"name": "AARO Historical Record Report Volume I",
+"url": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF"
+}
+],
+"status": "active",
+"sub": "Maj Gen, USAF; Pentagon Press Secretary",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 914 of 1027, score 13). 1 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D1.",
+"timeline": [],
+"unexplainedResidual": null,
+"unverified": []
+}

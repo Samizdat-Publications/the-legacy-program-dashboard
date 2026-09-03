@@ -1,0 +1,114 @@
+{
+"A": 3,
+"C": 3,
+"D": 0,
+"band": null,
+"claims": [
+{
+"source": "Air Force Research Laboratory official history",
+"text": "AFRL was established on 31 October 1997 by consolidating the Wright, Phillips, Rome and Armstrong laboratories and the Air Force Office of Scientific Research, headquartered at Wright-Patterson AFB, Ohio.",
+"tier": 2
+},
+{
+"source": "National Archives, Project BLUE BOOK reference material",
+"text": "Wright-Patterson AFB is the installation that housed the Air Technical Intelligence Center and the Foreign Technology Division, which ran Projects SIGN, GRUDGE and BLUE BOOK.",
+"tier": 1
+},
+{
+"source": "Inference from the ATIC-FTD-NASIC/AFRL institutional lineage at Wright-Patterson",
+"text": "AFRL is the continuity organisation for foreign materiel exploitation at Wright-Patterson, which makes it the most probable modern institutional home of any exploitation activity that began there in the 1940s. Reasoning: the mission, the physical plant and the clearance architecture were never relocated, only renamed.",
+"tier": 3
+}
+],
+"cls": "institution",
+"cluster": "other",
+"connections": [
+{
+"claimTier": 2,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "1997",
+"direction": "out",
+"edgeLabel": "Co-located at Wright-Patterson with the successor to the Foreign Technology Division",
+"id": "nasic",
+"l0": false,
+"label": "National Air and Space Intelligence Center",
+"note": "NASIC is the lineal successor to ATIC and FTD, the organisations that ran SIGN, GRUDGE and BLUE BOOK and exploited foreign aerospace materiel. AFRL and NASIC share the installation.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "National Archives - Unidentified Flying Objects / Project BLUE BOOK",
+"url": "https://www.archives.gov/research/military/air-force/ufos"
+}
+],
+"tier": "C",
+"type": "geographic"
+},
+{
+"claimTier": 2,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "1997-10-31",
+"direction": "out",
+"edgeLabel": "Single Air Force science and technology laboratory, Wright-Patterson AFB",
+"id": "usaf",
+"l0": true,
+"label": "United States Air Force",
+"note": "AFRL consolidated the Wright, Phillips, Rome and Armstrong laboratories and AFOSR at Wright-Patterson - the installation named in every retrieval account since 1947.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "National Archives - Unidentified Flying Objects / Project BLUE BOOK",
+"url": "https://www.archives.gov/research/military/air-force/ufos"
+}
+],
+"tier": "A",
+"type": "institutional"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "1997-10-31",
+"deg": 2,
+"denials": [],
+"desc": "AFRL was created on 31 October 1997 by consolidating the four Air Force laboratories - Wright, Phillips, Rome and Armstrong - and the Air Force Office of Scientific Research into a single organisation headquartered at Wright-Patterson Air Force Base, Ohio. Its geography is its significance. Wright-Patterson is the installation named in every crash-retrieval account since July 1947; it housed the Air Materiel Command that generated Lieutenant General Nathan Twining's 23 September 1947 memorandum finding that 'the phenomenon reported is something real and not visionary or fictitious'; it housed the Air Technical Intelligence Center and its successor the Foreign Technology Division, the organisations that ran Projects SIGN, GRUDGE and BLUE BOOK and that exploited recovered foreign aerospace hardware; and it houses AFRL today, together with the National Air and Space Intelligence Center. AFRL is therefore the modern incumbent of the exact institutional function - foreign materiel exploitation and advanced propulsion research at Wright-Patterson - that the legacy program allegation describes. AFRL's directorates include the Aerospace Systems Directorate and the Munitions Directorate; it manages a large classified portfolio and a large university and contractor research base. No AFRL official has testified at a UAP hearing, and no AFRL UAP-specific FOIA release has been published.",
+"domains": [
+"_rs-archive-mirror",
+"w2-agencies"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "1",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "afrl",
+"l0": false,
+"label": "Air Force Research Laboratory",
+"locLabel": null,
+"members": null,
+"short": "Air Force Research Laboratory",
+"sources": [
+{
+"date": "2026-07-05",
+"name": "Archived: AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I (DOPSR-2024-0263) (Wayback 2026-07-05)",
+"url": "https://web.archive.org/web/20260705034310/https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF"
+},
+{
+"date": "2026-08-12",
+"name": "National Archives - Unidentified Flying Objects / Project BLUE BOOK",
+"url": "https://www.archives.gov/research/military/air-force/ufos"
+},
+{
+"date": "2024-03-08",
+"name": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I (DOPSR-2024-0263)",
+"url": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF"
+}
+],
+"sub": "Single Air Force science and technology laboratory, headquartered at Wright-Patterson AFB, Ohio",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 496 of 1027, score 29). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C3/A3/D0.",
+"timeline": []
+}

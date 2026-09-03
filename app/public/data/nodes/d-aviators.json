@@ -1,0 +1,176 @@
+{
+"A": 1,
+"C": 1,
+"D": 3,
+"band": null,
+"claims": [
+{
+"source": "DoD statement on release of historical Navy videos",
+"text": "The Department of Defense formally released the FLIR1, GIMBAL and GOFAST videos on 27 April 2020, stating that the aerial phenomena in them remain characterised as unidentified.",
+"tier": 1
+},
+{
+"source": "House Oversight Committee witness statements",
+"text": "David Fravor and Ryan Graves submitted written statements to the House Oversight Committee for the 26 July 2023 hearing and testified under oath.",
+"tier": 1
+},
+{
+"source": "Proceedings 2019, doi:10.3390/proceedings2019033026",
+"text": "Knuth, Powell and Reali published an estimate of the flight characteristics of the 2004 Nimitz object in the MaxEnt 2019 proceedings.",
+"tier": 1
+},
+{
+"source": "CBS 60 Minutes, 16 May 2021",
+"text": "Alex Dietrich and David Fravor described the 2004 Nimitz encounter on the record to CBS 60 Minutes on 16 May 2021.",
+"tier": 2
+}
+],
+"cls": "domain",
+"cluster": "other",
+"connections": [
+{
+"claimTier": 3,
+"cls": "domain",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "Reported kinematics set the physics requirement",
+"id": "d-prop",
+"l0": false,
+"label": "Propulsion & Field Physics",
+"note": "Aviator accounts with sensor corroboration generate the acceleration and power figures that any propulsion hypothesis must satisfy.",
+"sources": [
+{
+"date": "2020-04-27",
+"name": "DoD statement on release of historical Navy videos",
+"url": "https://www.war.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/"
+}
+],
+"tier": "B",
+"type": "research"
+},
+{
+"claimTier": 3,
+"cls": "domain",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "Sensor corroboration is what makes the accounts arguable",
+"id": "d-signals",
+"l0": false,
+"label": "Signals & Sensor Intelligence",
+"note": "Radar tracks and targeting-pod video convert a pilot's account into a multi-sensor event; DoD authenticated the imagery in April 2020 while declining to explain it.",
+"sources": [
+{
+"date": "2020-04-27",
+"name": "DoD statement on release of historical Navy videos",
+"url": "https://www.war.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/"
+}
+],
+"tier": "B",
+"type": "research"
+},
+{
+"claimTier": 2,
+"cls": "location",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "Homeport of the Nimitz strike group",
+"id": "l-san-diego",
+"l0": false,
+"label": "San Diego, California",
+"note": "The 2004 encounters occurred in the Southern California Operating Area worked by San Diego-based fleet units.",
+"sources": [
+{
+"date": "2020-04-27",
+"name": "DoD statement on release of historical Navy videos",
+"url": "https://www.war.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/"
+}
+],
+"tier": "C",
+"type": "geographic"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "2004-11-14",
+"deg": 3,
+"denials": [],
+"desc": "Aviators are the highest-value witness class in this field for one reason: their observations arrive with instrumentation attached. A fighter pilot's account of an object is accompanied by radar tracks, targeting-pod video, wingman corroboration and, in the Navy's case, an entire carrier strike group's sensor picture - which converts a subjective report into a multi-sensor event that can be argued about technically. That is why the 2004 Nimitz encounter and the 2014-2015 Roosevelt encounters became the fulcrum of the modern disclosure period, and why the Department of Defense's formal release of the FLIR1, GIMBAL and GOFAST videos on 27 April 2020 mattered so much: the government authenticated the imagery while declining to explain it. Ryan Graves's testimony added the operational dimension that outlasts any single case - that objects were being encountered routinely off the eastern seaboard, that there was no functioning reporting mechanism, and that the stigma attached to reporting was itself a flight safety hazard. Knuth, Powell and Reali's peer-reviewed analysis of the Nimitz kinematics turned the accounts into numbers. Scoring high on this domain means an entity flew, controlled or commanded during such an event.",
+"domains": [
+"_rs-archive-mirror",
+"_stubs",
+"w2-taxonomy"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "2",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "d-aviators",
+"l0": false,
+"label": "Military Aviators & Operators",
+"locLabel": null,
+"members": null,
+"short": "Military Aviators & Operators",
+"sources": [
+{
+"date": "2026-08-02",
+"name": "Archived: DoD statement on release of historical Navy videos (Wayback 2026-08-02)",
+"url": "https://web.archive.org/web/20260802200608/https://www.war.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/"
+},
+{
+"date": "2020-04-27",
+"name": "DoD statement on release of historical Navy videos",
+"url": "https://www.war.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/"
+},
+{
+"date": "2023-07-26",
+"name": "David Fravor, statement for House Oversight Committee",
+"url": "https://oversight.house.gov/wp-content/uploads/2023/07/David-Fravor-Statement-for-House-Oversight-Committee.pdf"
+},
+{
+"date": "2023-07-26",
+"name": "Ryan Graves, written testimony, House Oversight",
+"url": "https://oversight.house.gov/wp-content/uploads/2023/07/Ryan-HOC-Testimony.pdf"
+},
+{
+"date": "2019-12-16",
+"name": "Knuth, Powell & Reali, MaxEnt 2019 Proceedings",
+"url": "https://doi.org/10.3390/proceedings2019033026"
+},
+{
+"date": "2021-05-16",
+"name": "CBS 60 Minutes - Dietrich and Fravor interviews",
+"url": "https://www.cbsnews.com/news/ufo-military-intelligence-60-minutes-2021-05-16/"
+},
+{
+"date": "2026-08-12",
+"name": "NSF master government list of FFRDCs",
+"url": "https://www.nsf.gov/statistics/ffrdclist/"
+},
+{
+"date": "2026-08-12",
+"name": "Domain definition written for this board; see SCHEMA.md",
+"url": ""
+}
+],
+"sub": "Witness domain - the trained observers whose accounts came with sensor corroboration",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 562 of 1027, score 27). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D3.",
+"timeline": [
+{
+"date": "2020-04-27",
+"id": "tx-2020-navy-videos",
+"label": "The Pentagon authenticates the imagery",
+"precision": "day",
+"strand": "witness",
+"text": "The Department of Defense formally releases FLIR1, GIMBAL and GOFAST, confirming the videos are genuine while stating the phenomena in them remain unidentified. The government thereby authenticates the evidence and declines to explain it - the exact posture the disclosure movement has been arguing against ever since.",
+"tier": 1
+}
+]
+}

@@ -1,0 +1,511 @@
+{
+"A": 1,
+"C": 2,
+"D": 3,
+"affiliations": [
+"Stanford University School of Medicine, Professor of Pathology",
+"The Sol Foundation, co-founder (2023- )",
+"Stanford University School of Medicine, Department of Pathology (Harris Professor, 2011- )",
+"Rigel Pharmaceuticals (founded 1996)",
+"Nodality (2003)",
+"BINA Technology (2010)",
+"Akoya Biosciences (2015)",
+"The Sol Foundation (co-founder, 2023- )",
+"UAP Science Advisory Council (2026- )",
+"Stanford University",
+"The Sol Foundation",
+"UAP Science Advisory Council"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "2011",
+"event": "Appointed Rachford and Carlota A. Harris Professor in Pathology, Stanford.",
+"precision": "year"
+},
+{
+"date": "2018-03-22",
+"event": "Publishes the genomic analysis resolving the Atacama 'Ata' skeleton as a human fetus with bone-development mutations - the work that made him the scientist people bring anomalous biological specimens to.",
+"precision": "day"
+},
+{
+"date": "2021-06-14",
+"event": "Tells KQED he was approached by representatives of the government and an aerospace corporation regarding medical harm from 'supposed interactions with an anomalous craft'.",
+"precision": "day"
+},
+{
+"date": "2022-01-01",
+"event": "Nolan, Vallee, Jiang and Lemke publish the SIMS/MIBI analysis of the Council Bluffs material in Progress in Aerospace Sciences 128:100788.",
+"precision": "month"
+},
+{
+"date": "2023-05-18",
+"event": "At SALT iConnections, states that governments have retrieved artefacts from extraterrestrial craft and gives '100 percent' probability to long-term visitation.",
+"precision": "month"
+},
+{
+"date": "2023-06-05",
+"event": "Quoted in The Debrief on the potential yield of exotic material analysis",
+"precision": "day"
+},
+{
+"date": "2023-08-15",
+"event": "Co-founds The Sol Foundation with Peter Skafish.",
+"precision": "day"
+},
+{
+"date": "2023-11-01",
+"event": "Co-founds The Sol Foundation; Grusch serves as COO",
+"precision": "month"
+},
+{
+"date": "2025-11-21",
+"event": "Appears in 'The Age of Disclosure', released theatrically and on Prime Video.",
+"precision": "day"
+},
+{
+"date": "2026-04",
+"event": "Sol Foundation Science and Policy Briefing No. 3 on peer-reviewed analysis of possible UAP materials",
+"precision": "month"
+},
+{
+"date": "2026-06-15",
+"event": "Named to the UAP Science Advisory Council formed at the request of the White House.",
+"precision": "day"
+},
+{
+"date": "2026-06-17",
+"event": "Named to the UAP Science Advisory Council",
+"precision": "day"
+}
+],
+"claims": [
+{
+"source": "Garry Nolan, quoted in The Debrief, 5 June 2023",
+"text": "Study of small samples of exotic material could yield 'hundreds of technology revolutions.'",
+"tier": 2
+},
+{
+"source": "House Oversight witness biography, 26 July 2023",
+"text": "Grusch's House Oversight biography lists him as Chief Operating Officer of The Sol Foundation from May 2023, the organization Nolan co-founded.",
+"tier": 1
+},
+{
+"source": "Progress in Aerospace Sciences, DOI 10.1016/j.paerosci.2021.100788",
+"text": "Nolan is senior author of 'Improved instrumental techniques, including isotopic analysis, applicable to the characterization of unusual materials with potential relevance to aerospace forensics', Progress in Aerospace Sciences 128 (2022) 100788, with Jacques F. Vallee, Sizun Jiang and Larry G. Lemke.",
+"tier": 1
+},
+{
+"source": "The Sol Foundation Science and Policy Briefings No. 3, April 2026, summarising the Nolan/Vallee paper",
+"text": "The Council Bluffs analysis found no anomalous isotopic values but incomplete mixing of the constituent metals, indicating an industrial process of unknown origin, and ruled out meteorite, satellite/spacecraft, aircraft-debris, molten-metal-dumping and thermite explanations.",
+"tier": 1
+},
+{
+"source": "Garry Nolan to Jon Brooks, KQED, 14 June 2021",
+"text": "Nolan says he was approached by 'some people representing the government and an aerospace corporation' to help them understand medical harm to individuals from 'supposed interactions with an anomalous craft'.",
+"tier": 2
+},
+{
+"source": "Nolan at SALT iConnections, reported by the New York Post, 23 May 2023",
+"text": "Nolan stated in May 2023 that some governments have retrieved artefacts from extraterrestrial craft and gave '100 percent' probability to long-term extraterrestrial visitation.",
+"tier": 2
+},
+{
+"source": "Inference from Nolan's own framing of the approach; the corporation has never been named by him or by any document",
+"text": "The 'aerospace corporation' Nolan will not name is a prime with a legacy materials role; the approach came through a government element that could not run the analysis in a federal laboratory without creating a record. That is the reason a Stanford pathology laboratory was used.",
+"tier": 3
+},
+{
+"source": "https://www.thesolfoundation.org/",
+"text": "Executive Director of the Board of the Sol Foundation, which he co-founded with Peter Skafish.",
+"tier": 1
+},
+{
+"source": "https://thesolfoundation.org/sol-foundation-co-founders-named-to-uap-science-advisory-council/",
+"text": "Named to the UAP Science Advisory Council alongside co-founder Peter Skafish in June 2026.",
+"tier": 2
+},
+{
+"source": "https://thesolfoundation.org/publications/first-peer-reviewed-scientific-analysis-of-possible-uap-materials-employs-state-of/",
+"text": "Sol Foundation Briefing No. 3 (April 2026) presents peer-reviewed atomic and isotopic analysis of possible UAP materials from a multi-witness event, conducted by Nolan.",
+"tier": 2
+}
+],
+"cls": "person",
+"cluster": "research",
+"conflicts": [
+"Nolan's brain-imaging findings - reported asymmetries in the caudate/putamen of people with claimed UAP-proximity exposure - have been described by him in interviews and on stage for several years but are not, as of August 2026, traceable to a peer-reviewed publication under his name. Recorded here as a tier-2 assertion pending publication."
+],
+"connections": [
+{
+"claimTier": 3,
+"cls": "document",
+"dateEnd": null,
+"dateStart": "2026-04",
+"direction": "out",
+"edgeLabel": "competing materials programme",
+"id": "aaro-ornl-materials-analyses",
+"l0": false,
+"label": "AARO / Oak Ridge National Laboratory materials analyses",
+"note": "The Sol Foundation's April 2026 peer-reviewed atomic and isotopic analysis of possible UAP material is the private-sector counterpart to AARO's two ORNL specimen studies, both of which resolved to terrestrial manufacture.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "The Sol Foundation",
+"url": "https://www.thesolfoundation.org/"
+},
+{
+"date": "2026-04",
+"name": "Sol Foundation Briefing No. 3",
+"url": "https://thesolfoundation.org/publications/first-peer-reviewed-scientific-analysis-of-possible-uap-materials-employs-state-of/"
+}
+],
+"tier": "B",
+"type": "research"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "2026",
+"direction": "in",
+"edgeLabel": "Chair and member of the same 2026 advisory council",
+"id": "avi-loeb",
+"l0": false,
+"label": "Abraham 'Avi' Loeb",
+"note": "The astronomer who built the unclassified instrumentation programme and the pathologist who published the materials analysis now sit on the same federally requested body - with neither given classified access.",
+"sources": [
+{
+"date": "2026-06-15",
+"name": "Skeptic / Skeptics Society, 'Michael Shermer Named to White House UAP Science Advisory Council'",
+"url": "https://www.skeptic.com/article/michael-shermer-named-to-white-house-uap-science-advisory-council/"
+},
+{
+"date": "2026-06-01",
+"name": "The Sol Foundation, 'Sol Foundation Co-Founders Named to UAP Science Advisory Council'",
+"url": "https://thesolfoundation.org/sol-foundation-co-founders-named-to-uap-science-advisory-council/"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 2,
+"cls": "domain",
+"dateEnd": null,
+"dateStart": "2021",
+"direction": "out",
+"edgeLabel": "Approached by unnamed government and aerospace-corporation representatives about casualty biology",
+"id": "d-custody",
+"l0": false,
+"label": "Chain of custody",
+"note": "Nolan told KQED he was approached about medical harm from 'supposed interactions with an anomalous craft'. Neither the government element nor the corporation has ever been named, which is where this chain goes dark at its first link.",
+"sources": [
+{
+"date": "2021-06-14",
+"name": "Jon Brooks, 'UFOs: SETI Astronomer, Stanford Researcher, Aerospace Expert Weigh In', KQED",
+"url": "https://www.kqed.org/science/1975185/ufos-seti-astronomer-stanford-researcher-aerospace-expert-weigh-in"
+}
+],
+"tier": "A",
+"type": "custody"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "2023",
+"direction": "out",
+"edgeLabel": "Sol Foundation co-founder; Grusch served as chief operating officer",
+"id": "david-grusch",
+"l0": false,
+"label": "David Charles Grusch",
+"note": "Grusch's House Oversight biography lists him as COO of The Sol Foundation from May 2023 - the academic-adjacent institution co-founded by Nolan that became his landing place immediately on leaving government.",
+"sources": [
+{
+"date": "2023-07-26",
+"name": "House Oversight witness biography",
+"url": "https://docs.house.gov/meetings/GO/GO06/20230726/116282/HHRG-118-GO06-Bio-GruschD-20230726.pdf"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "2023",
+"direction": "out",
+"edgeLabel": "Nolan vouched for Grusch before the July 2023 hearing",
+"id": "david-grusch",
+"l0": false,
+"label": "David Charles Grusch",
+"note": "Leslie Kean told Ezra Klein in June 2023 that Nolan 'knows David Grusch very well and vouches for him' - the technical layer's credibility being lent to the whistleblower strand.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Wikipedia: Garry Nolan",
+"url": "https://en.wikipedia.org/wiki/Garry_Nolan"
+}
+],
+"tier": "A",
+"type": "witness-chain"
+},
+{
+"claimTier": 3,
+"cls": "person",
+"dateEnd": "2021",
+"dateStart": "2009",
+"direction": "out",
+"edgeLabel": "Same problem, twelve years apart: casualty biology as a route to propulsion characterisation",
+"id": "kit-green",
+"l0": false,
+"label": "Christopher C. 'Kit' Green",
+"note": "Green's 2009 AAWSAP DIRD set out the hypothesis that human injury data could reverse-engineer aspects of the energy and propulsion systems. Nolan says he was later approached to assess medical harm from anomalous craft. No document connects the two engagements, but they are the same research programme stated twice.",
+"sources": [
+{
+"date": "2020-01-01",
+"name": "DIRD 'Clinical Medical Acute & Subacute Field Effects on Human Dermal & Neurological Tissues' (Christopher Green, Institute for Advanced Studies at Austin)",
+"url": "https://www.theblackvault.com/documentarchive/wp-content/uploads/2020/01/kitgreen-dird.pdf"
+},
+{
+"date": "2021-06-14",
+"name": "Jon Brooks, 'UFOs: SETI Astronomer, Stanford Researcher, Aerospace Expert Weigh In', KQED",
+"url": "https://www.kqed.org/science/1975185/ufos-seti-astronomer-stanford-researcher-aerospace-expert-weigh-in"
+}
+],
+"tier": "A",
+"type": "programmatic"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": "2022",
+"direction": "out",
+"edgeLabel": "Senior author of the first peer-reviewed UAP materials analysis",
+"id": "paper-nolan-vallee-2022",
+"l0": true,
+"label": "Nolan, Vallee, Jiang & Lemke (2022), Progress in Aerospace Sciences 128:100788",
+"note": "Progress in Aerospace Sciences 128:100788, applying SIMS and MIBI at 200 nm lateral resolution to the Council Bluffs material.",
+"sources": [
+{
+"date": "2022-01-01",
+"name": "Nolan, Vallee, Jiang & Lemke, 'Improved instrumental techniques, including isotopic analysis, applicable to the characterization of unusual materials with potential relevance to aerospace forensics', Progress in Aerospace Sciences 128:100788",
+"url": "https://doi.org/10.1016/j.paerosci.2021.100788"
+}
+],
+"tier": "B",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": "2026-04-30",
+"direction": "in",
+"edgeLabel": "briefing analyses Nolan's Council Bluffs materials study",
+"id": "sol-briefing-3-2026",
+"l0": false,
+"label": "Sol Foundation Science and Policy Briefing No. 3 (April 2026)",
+"note": "The briefing's subject is the SIMS and MIBI analysis led by Stanford professor Garry P. Nolan with Jacques Vallee, Sizun Jiang and Larry Lemke of the 1977 Council Bluffs, Iowa molten-metal sample, published in Progress in Aerospace Sciences 128 (2022).",
+"sources": [
+{
+"date": null,
+"name": "https://thesolfoundation.org/wp-content/uploads/2026/04/Sol_Policy_Briefing_Number_3-1.pdf",
+"url": "https://thesolfoundation.org/wp-content/uploads/2026/04/Sol_Policy_Briefing_Number_3-1.pdf"
+},
+{
+"date": null,
+"name": "https://www.sciencedirect.com/science/article/abs/pii/S0376042121000907",
+"url": "https://www.sciencedirect.com/science/article/abs/pii/S0376042121000907"
+}
+],
+"tier": "C",
+"type": "research"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "2026",
+"dateStart": "2022",
+"direction": "out",
+"edgeLabel": "Co-founder and Executive Director of the Board",
+"id": "sol-foundation",
+"l0": true,
+"label": "The Sol Foundation",
+"note": "Co-founded with Peter Skafish on 15 August 2023; the foundation's materials-research programme is built around the analytical capability Nolan brought.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "The Sol Foundation - People",
+"url": "https://thesolfoundation.org/people/"
+},
+{
+"date": "2023-09-12",
+"name": "Micah Hanks, 'The Sol Foundation: How a New Think Tank of Academics is Applying Cutting-Edge Research to the UAP Mystery', The Debrief",
+"url": "https://thedebrief.org/the-sol-foundation-how-a-new-think-tank-of-academics-is-applying-cutting-edge-research-the-uap-mystery/"
+},
+{
+"date": "2026-08-12",
+"name": "The Sol Foundation",
+"url": "https://thesolfoundation.org/"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 2,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2026",
+"direction": "out",
+"edgeLabel": "Named as the council's molecular biologist",
+"id": "uap-science-advisory-council",
+"l0": true,
+"label": "UAP Science Advisory Council",
+"note": "The scientist who published the first peer-reviewed UAP materials analysis is seated on a body with no access to the government's own materials.",
+"sources": [
+{
+"date": "2026-06-15",
+"name": "Skeptic / Skeptics Society, 'Michael Shermer Named to White House UAP Science Advisory Council'",
+"url": "https://www.skeptic.com/article/michael-shermer-named-to-white-house-uap-science-advisory-council/"
+},
+{
+"date": "2026-06-01",
+"name": "The Sol Foundation, 'Sol Foundation Co-Founders Named to UAP Science Advisory Council'",
+"url": "https://thesolfoundation.org/sol-foundation-co-founders-named-to-uap-science-advisory-council/"
+}
+],
+"tier": "A",
+"type": "institutional"
+}
+],
+"date": "2023-06-05",
+"dateEnd": null,
+"dateStart": "2023-06-05",
+"deg": 9,
+"denials": [],
+"domains": [
+"grusch",
+"scientists-technical",
+"w2-2025-2026"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "garry-nolan",
+"instId": "sol-foundation",
+"l0": false,
+"label": "Garry Nolan",
+"loc": "Stanford, CA",
+"locId": "l-stanford",
+"members": null,
+"narrative": "Nolan is the most credentialed working scientist to put his name to UAP materials analysis, and the reason the subject now has a peer-reviewed footprint at all. He has held the Harris endowed chair in pathology at Stanford since 2011, founded Rigel, Nodality, BINA Technology (sold to Roche for $107m) and Akoya Biosciences, and co-developed CODEX and multiplexed ion beam imaging (MIBI) with Michael Angelo and Sean Bendall - the same MIBI instrument he then turned on alleged UAP debris. His entry into the field was not voluntary in the ordinary sense: he told KQED in June 2021 that he was approached by 'some people representing the government and an aerospace corporation to help them understand the medical harm that had come to some individuals, related to supposed interactions with an anomalous craft', because 'they were interested in the kinds of blood analysis that my lab can do'. That is the crux for this board - an unnamed government element and an unnamed aerospace corporation walking human casualty material into a Stanford pathology laboratory. In January 2022 he published, with Jacques Vallee, Sizun Jiang and former NASA Ames engineer Larry Lemke, the first serious peer-reviewed instrumental study of alleged UAP material in Progress in Aerospace Sciences, applying SIMS and MIBI at 200 nm lateral resolution to the 1977 Council Bluffs, Iowa molten-metal mass. The finding is genuinely awkward for both camps: no anomalous isotope ratios, but incomplete mixing of the constituent metals indicating an industrial process of unknown origin, with meteoritic, satellite, aircraft, dumping and thermite explanations each argued away. In May 2023 at the SALT iConnections conference he said governments have retrieved artefacts from extraterrestrial craft and put the probability of long-term extraterrestrial visitation at '100 percent'. He co-founded The Sol Foundation with Peter Skafish on 15 August 2023, and in June 2026 was named to the White House-requested UAP Science Advisory Council.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Garry Nolan",
+"sources": [
+{
+"date": "2023-06-05",
+"name": "The Debrief - Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin",
+"url": "https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/"
+},
+{
+"date": "2023-07-26",
+"name": "House Oversight Committee - witness biography of David C. Grusch",
+"url": "https://docs.house.gov/meetings/GO/GO06/20230726/116282/HHRG-118-GO06-Bio-GruschD-20230726.pdf"
+},
+{
+"date": "2026-08-12",
+"name": "Wikipedia: Garry Nolan",
+"url": "https://en.wikipedia.org/wiki/Garry_Nolan"
+},
+{
+"date": "2021-06-14",
+"name": "Jon Brooks, 'UFOs: SETI Astronomer, Stanford Researcher, Aerospace Expert Weigh In', KQED",
+"url": "https://www.kqed.org/science/1975185/ufos-seti-astronomer-stanford-researcher-aerospace-expert-weigh-in"
+},
+{
+"date": "2023-05-23",
+"name": "Isabel Keane, 'Stanford prof Garry Nolan says aliens are 100% living among us', New York Post",
+"url": "https://nypost.com/2023/05/23/stanford-prof-says-aliens-are-100-living-among-us/"
+},
+{
+"date": "2022-01-01",
+"name": "Nolan, Vallee, Jiang & Lemke, 'Improved instrumental techniques, including isotopic analysis, applicable to the characterization of unusual materials with potential relevance to aerospace forensics', Progress in Aerospace Sciences 128:100788",
+"url": "https://doi.org/10.1016/j.paerosci.2021.100788"
+},
+{
+"date": "2026-04-01",
+"name": "The Sol Foundation Science and Policy Briefings No. 3, Marik von Rennenkampff, 'First Peer-Reviewed Scientific Analysis of Possible UAP Materials Employs State-of-the-Art Technologies'",
+"url": "https://thesolfoundation.org/wp-content/uploads/2026/04/Sol_Policy_Briefing_Number_3-1.pdf"
+},
+{
+"date": "2026-08-12",
+"name": "The Sol Foundation",
+"url": "https://thesolfoundation.org/"
+},
+{
+"date": "2026-06-15",
+"name": "Skeptic / Skeptics Society, 'Michael Shermer Named to White House UAP Science Advisory Council'",
+"url": "https://www.skeptic.com/article/michael-shermer-named-to-white-house-uap-science-advisory-council/"
+},
+{
+"date": "2023-09-12",
+"name": "Micah Hanks, 'The Sol Foundation: How a New Think Tank of Academics is Applying Cutting-Edge Research to the UAP Mystery', The Debrief",
+"url": "https://thedebrief.org/the-sol-foundation-how-a-new-think-tank-of-academics-is-applying-cutting-edge-research-the-uap-mystery/"
+},
+{
+"date": "2026-08-12",
+"name": "Wikipedia: The Age of Disclosure (2025 documentary)",
+"url": "https://en.wikipedia.org/wiki/The_Age_of_Disclosure"
+},
+{
+"date": "2026-08-12",
+"name": "The Sol Foundation",
+"url": "https://www.thesolfoundation.org/"
+},
+{
+"date": "2026-06-22",
+"name": "The Sol Foundation, 'Sol Foundation Co-Founders Named to UAP Science Advisory Council'",
+"url": "https://thesolfoundation.org/sol-foundation-co-founders-named-to-uap-science-advisory-council/"
+},
+{
+"date": "2026-04",
+"name": "The Sol Foundation, Science and Policy Briefing No. 3 (Marik von Rennenkampff, April 2026)",
+"url": "https://thesolfoundation.org/publications/first-peer-reviewed-scientific-analysis-of-possible-uap-materials-employs-state-of/"
+}
+],
+"status": "active",
+"sub": "Professor of Pathology, Stanford; Sol Foundation co-founder",
+"tier": "A",
+"tierRationale": "Re-graded A on a global pass (rank 107 of 1027, score 59). 10 connections, 3 of them custody/witness/funding/programmatic. Axes C2/A1/D3.",
+"timeline": [
+{
+"date": "2021-06-14",
+"id": "st-2021-06-14",
+"label": "Nolan says he was approached",
+"precision": "day",
+"strand": "program",
+"text": "Nolan tells KQED that representatives of the government and an aerospace corporation asked him to assess medical harm from 'supposed interactions with an anomalous craft'.",
+"tier": "A"
+}
+],
+"unexplainedResidual": "The incomplete mixing of metals in the Council Bluffs mass, with all the ordinary industrial and impact explanations argued away, is the residual: a sample that is terrestrial by isotope and unexplained by process.",
+"unverified": [
+"Whether Nolan has ever been offered access to material connected to the programs Grusch describes.",
+"The identity of the government element and the aerospace corporation that approached him.",
+"Whether any of the material Nolan has examined came with documented federal chain of custody, and where such documentation resides.",
+"The peer-reviewed status and location of his brain-imaging dataset.",
+"The identity of the multi-witness event whose material was analysed in Briefing No. 3, the chain of custody of the specimen, and the journal of peer-reviewed publication."
+]
+}

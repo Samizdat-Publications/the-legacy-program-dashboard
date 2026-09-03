@@ -1,0 +1,133 @@
+{
+"A": 0,
+"C": 0,
+"D": 2,
+"affiliations": [
+"The Debrief (co-founder, Editor-in-Chief)",
+"The Micah Hanks Program"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "2024-10-17",
+"event": "Publishes 'Immaculate Constellation: UAP Bombshell or Disinformation?' in The Debrief.",
+"precision": "day"
+}
+],
+"claims": [
+{
+"source": "The Debrief, About page, retrieved 12 August 2026",
+"text": "Micah Hanks is Co-Founder/Creator and Editor-in-Chief of The Debrief.",
+"tier": 1
+},
+{
+"source": "The Debrief byline and dateline, 17 October 2024",
+"text": "Hanks authored The Debrief's 17 October 2024 report on Immaculate Constellation.",
+"tier": 1
+}
+],
+"cls": "person",
+"cluster": "media",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": "2024",
+"dateStart": "2024",
+"direction": "out",
+"edgeLabel": "Hanks published the first general-readership account, 17 October 2024",
+"id": "immaculate-constellation",
+"l0": true,
+"label": "Immaculate Constellation disclosure, October-November 2024",
+"note": "The Debrief's 17 October 2024 piece framed the programme as an open question - 'UAP Bombshell or Disinformation?' - and predates the congressional submission by four weeks.",
+"sources": [
+{
+"date": "2024-10-17",
+"name": "The Debrief - Micah Hanks",
+"url": "https://thedebrief.org/immaculate-constellation-uap-bombshell-or-disinformation/"
+}
+],
+"tier": "A",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "2026",
+"dateStart": "2020",
+"direction": "out",
+"edgeLabel": "Co-founder, Creator and Editor-in-Chief",
+"id": "the-debrief",
+"l0": false,
+"label": "The Debrief",
+"note": "Named on The Debrief's About page.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "The Debrief - About",
+"url": "https://thedebrief.org/about/"
+}
+],
+"tier": "C",
+"type": "institutional"
+}
+],
+"date": "2024-10-17",
+"dateEnd": null,
+"dateStart": "2024-10-17",
+"deg": 2,
+"denials": [],
+"domains": [
+"media-structure"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "micah-hanks",
+"instId": "the-debrief",
+"l0": false,
+"label": "Micah Hanks",
+"loc": "United States",
+"locId": null,
+"members": null,
+"narrative": "Micah Hanks is co-founder, creator and Editor-in-Chief of The Debrief, and the author of much of its running coverage of the AARO era. He wrote the 17 October 2024 piece that first put Immaculate Constellation in front of a general readership, framed as an open question rather than a conclusion - 'UAP Bombshell or Disinformation?' - which is characteristic of the outlet's editorial posture of publishing the claim, naming the source, and leaving the adjudication visible. The Debrief under Hanks has also covered the AARO annual reports, the collapse of the UAP Disclosure Act's core provisions, and the drone incursions over US bases, giving the board a continuous, dated, searchable trade record where none otherwise exists.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Micah Hanks",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "The Debrief - About",
+"url": "https://thedebrief.org/about/"
+},
+{
+"date": "2024-10-17",
+"name": "The Debrief - 'Immaculate Constellation: UAP Bombshell or Disinformation?'",
+"url": "https://thedebrief.org/immaculate-constellation-uap-bombshell-or-disinformation/"
+}
+],
+"status": "active",
+"sub": "Co-founder and Editor-in-Chief, The Debrief",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 939 of 1027, score 12). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D2.",
+"timeline": [
+{
+"date": "2024-10-17",
+"id": "ms-2024-ic-debrief",
+"label": "The Debrief reports Immaculate Constellation",
+"precision": "day",
+"strand": "program",
+"text": "Micah Hanks publishes the first general-readership account of Shellenberger's alleged insider and the unacknowledged special access program, framed as an open question.",
+"tier": "A"
+}
+],
+"unexplainedResidual": null,
+"unverified": []
+}

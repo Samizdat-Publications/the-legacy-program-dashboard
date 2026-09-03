@@ -1,0 +1,138 @@
+{
+"A": 0,
+"C": 0,
+"D": 2,
+"affiliations": [],
+"age": null,
+"band": null,
+"chronology": [],
+"claims": [
+{
+"source": "https://irp.fas.org/dia/aatip-list.pdf",
+"text": "Named on the DIA list of AATIP/AAWSAP products supplied to the Senate Armed Services Committee as author of 'Pulsed High-Power Microwave Technology', affiliation 'J W Enterprises'.",
+"tier": 1
+},
+{
+"source": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html",
+"text": "The earlier George Knapp / KLAS-TV list of 25 July 2018 gives the same author with the affiliation 'Northrop Grumman' rather than J W Enterprises. The discrepancy is unresolved; the DIA list is treated as authoritative.",
+"tier": 2
+},
+{
+"source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_03-DIRD_Pulsed_High-Power_Microwave_Source_Technology.pdf",
+"text": "No verified biography, institutional affiliation page or publication record has been located for this author beyond the DIA list entry; the author line on the released DIRD cover page is redacted under (b)(6).",
+"tier": 2
+}
+],
+"cls": "person",
+"cluster": "research",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "authored by",
+"id": "dird-pulsed-high-power-microwave-source-technology",
+"l0": false,
+"label": "Pulsed High-Power Microwave Source Technology",
+"note": "The DIA congressional list credits 'Pulsed High-Power Microwave Technology' to 'Dr James Wells, J W Enterprises'. The earlier Knapp/KLAS-TV roster gives the same author with the affiliation Northrop Grumman; the DIA list governs. No verified biography for this author has been located beyond the list entry.",
+"sources": [
+{
+"date": "2026-08-22",
+"name": "Released DIRD, 'Pulsed High-Power Microwave Source Technology' — FOIA copy, cover page read 22 August 2026",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_03-DIRD_Pulsed_High-Power_Microwave_Source_Technology.pdf"
+},
+{
+"date": "2026-08-22",
+"name": "DIA FOIA Electronic Reading Room entry for this reference document",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237619/"
+},
+{
+"date": "2026-08-23",
+"name": "DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations",
+"url": "https://fas.org/publication/aatip-list/"
+},
+{
+"date": null,
+"name": "https://irp.fas.org/dia/aatip-list.pdf",
+"url": "https://irp.fas.org/dia/aatip-list.pdf"
+},
+{
+"date": null,
+"name": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html",
+"url": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html"
+},
+{
+"date": null,
+"name": "https://www.theblackvault.com/documentarchive/the-advanced-aviation-threat-identification-program-aatip-dird-report-research/",
+"url": "https://www.theblackvault.com/documentarchive/the-advanced-aviation-threat-identification-program-aatip-dird-report-research/"
+}
+],
+"tier": "B",
+"type": "research"
+}
+],
+"date": "2010-01-01",
+"dateEnd": null,
+"dateStart": "2010-01-01",
+"deg": 1,
+"denials": [],
+"domains": [
+"w7-dirds-3"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "2",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "james-wells",
+"instId": null,
+"l0": false,
+"label": "James Wells",
+"loc": null,
+"locId": null,
+"members": null,
+"narrative": "James Wells is credited on the DIA list of AATIP/AAWSAP products transmitted to the Senate Armed Services Committee as author of 'Pulsed High-Power Microwave Technology'. He is one of the least publicly traceable names on the list, and he is also the one clear instance in this batch where the two circulating versions of the DIRD roster disagree on affiliation.\n\nThe DIA list released to the Federation of American Scientists in January 2019 gives his affiliation as 'J W Enterprises'. The earlier list published by George Knapp and Matt Adams of KLAS-TV on 25 July 2018 — a near-complete roster whose authenticity was confirmed by former programme manager Luis Elizondo, but whose source was never disclosed — gives his affiliation as 'Northrop Grumman'. The DIA list is the authoritative document because it was prepared by the agency and transmitted to Congress; 'J W Enterprises' is therefore recorded here as the affiliation of record, with the Northrop Grumman variant preserved as a discrepancy rather than discarded. The two are not necessarily contradictory in substance — a named consultancy and a prime contractor could both be true of the same person at different points — but nothing sourced resolves it, and the difference should not be smoothed over.\n\nBeyond the list entry itself, no verified biography, institutional page or publication record has been located for him, and the released DIRD does not help: the author line on the cover page is redacted under (b)(6). What is firmly established is the document. 'Pulsed High-Power Microwave Source Technology' carries DIA document number DIA-08-0912-005, published 28 January 2010 with an Intelligence Cut-Off Date of 1 December 2009, in the 'Acquisition Threat Support' series. It runs 37 pages and was released by DIA in redacted form. Its subject — directed-energy source hardware — is among the most conventionally military topics in the entire series.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "James Wells",
+"sources": [
+{
+"date": null,
+"name": "https://irp.fas.org/dia/aatip-list.pdf",
+"url": "https://irp.fas.org/dia/aatip-list.pdf"
+},
+{
+"date": null,
+"name": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html",
+"url": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html"
+},
+{
+"date": null,
+"name": "https://ufos-scientificresearch.blogspot.com/2018/08/an-analysis-of-that-list-of-aawsapaatip.html",
+"url": "https://ufos-scientificresearch.blogspot.com/2018/08/an-analysis-of-that-list-of-aawsapaatip.html"
+},
+{
+"date": null,
+"name": "https://www.theblackvault.com/documentarchive/the-advanced-aviation-threat-identification-program-aatip-dird-report-research/",
+"url": "https://www.theblackvault.com/documentarchive/the-advanced-aviation-threat-identification-program-aatip-dird-report-research/"
+},
+{
+"date": null,
+"name": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_03-DIRD_Pulsed_High-Power_Microwave_Source_Technology.pdf",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_03-DIRD_Pulsed_High-Power_Microwave_Source_Technology.pdf"
+}
+],
+"status": "active",
+"sub": "Author, Pulsed High-Power Microwave Source Technology DIRD; affiliation given as J W Enterprises on the DIA list",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 941 of 1027, score 12). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D2.",
+"timeline": [],
+"unexplainedResidual": null,
+"unverified": []
+}

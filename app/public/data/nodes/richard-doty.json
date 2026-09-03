@@ -1,0 +1,406 @@
+{
+"A": 2,
+"C": 1,
+"D": 2,
+"affiliations": [
+"US Air Force Office of Special Investigations (c.1979-1988)",
+"New Mexico State Police (1990s-2000s)"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "1979-01-01",
+"event": "Assigned to AFOSI District 17, Kirtland AFB, New Mexico.",
+"precision": "year"
+},
+{
+"date": "1980-11-10",
+"event": "AFOSI Kirtland record documents unexplained aerial objects over Coyote Canyon; Doty is associated with the Kirtland UFO file.",
+"precision": "day"
+},
+{
+"date": "1983-04-01",
+"event": "Shows Linda Moulton Howe a purported government briefing paper at Kirtland AFB, describing it as authoritative; she is not permitted to retain a copy.",
+"precision": "month"
+},
+{
+"date": "1984-12-11",
+"event": "MJ-12 film arrives anonymously at Jaime Shandera's address; Doty is later linked to the Moore-Shandera channel.",
+"precision": "day"
+},
+{
+"date": "1988-01-01",
+"event": "Leaves AFOSI.",
+"precision": "year"
+},
+{
+"date": "1989-07-01",
+"event": "Bill Moore tells the MUFON symposium that he cooperated with AFOSI in feeding disinformation to Bennewitz.",
+"precision": "month"
+},
+{
+"date": "2021-05-20",
+"event": "321-page New Mexico State Police personnel file released under state public-records law and published.",
+"precision": "day"
+}
+],
+"claims": [
+{
+"source": "American Alchemy with Jesse Michels, 'Fake Alien Signals Drove Him Insane... (ft. Greg Bishop)', 5 July 2025, 0:23:44 to 0:24:30, https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL6921419786.mp3?updated=1752608918",
+"text": "On American Alchemy with Jesse Michels, 5 July 2025, at 0:23:44 to 0:24:30, the episode describes the 1977 Ellsworth Air Force Base case of missile security officer Mario Woods and cuts in Woods's own voice saying of his debrief 'Next to him was this new OSI guy named Rick Doty', and later that when he saw him again on television he thought 'I know that guy. He was at my debrief.' Michels and Greg Bishop then date it to a year or two before the Bennewitz operation. The transcript renders the name Dodi and Dodie throughout.",
+"tier": 2
+},
+{
+"source": "Richard Doty, on-record documentary and press interviews, 2005-2013",
+"text": "Doty has stated publicly that he provided false documents and false information to Paul Bennewitz as part of his AFOSI duties.",
+"tier": 2
+},
+{
+"source": "The Black Vault, Richard Doty personnel file release, 20 May 2021",
+"text": "Doty's complete releasable New Mexico State Police personnel file runs to 321 pages and was obtained under NMSA 14-2-1 et seq.",
+"tier": 1
+},
+{
+"source": "Linda Moulton Howe, contemporaneous notes and repeated public accounts from 1983 onward",
+"text": "Doty showed Linda Moulton Howe a document at Kirtland AFB in April 1983 that she has described as a government briefing paper on retrieved craft and occupants.",
+"tier": 2
+}
+],
+"cls": "person",
+"cluster": "other",
+"conflicts": [
+"AARO's 2024 Historical Record Report Volume I makes no mention of Doty, AFOSI, Bennewitz or Kirtland - an omission in a report whose stated purpose was to address the historical record of USG involvement with UAP."
+],
+"connections": [
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "1988",
+"dateStart": "1979",
+"direction": "in",
+"edgeLabel": "Doty served as an AFOSI special agent at the Kirtland detachment",
+"id": "afosi",
+"l0": true,
+"label": "Air Force Office of Special Investigations",
+"note": "The AFOSI Kirtland file and Doty's later New Mexico State Police personnel file, released in 321 pages, document his AFOSI service during the Manzano intrusion period.",
+"sources": [
+{
+"date": "2021-05-20",
+"name": "Richard Doty Personnel File - New Mexico State Police [321 pages]",
+"url": "https://www.theblackvault.com/documentarchive/richard-doty-personnel-file-new-mexico-state-police/"
+},
+{
+"date": "2026-08-12",
+"name": "NICAP - 1980 Kirtland AFB, NM FOIA document files",
+"url": "https://www.nicap.org/foia_003.htm"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 2,
+"cls": "document",
+"dateEnd": "1983",
+"dateStart": "1980",
+"direction": "out",
+"edgeLabel": "Doty was the AFOSI special agent associated with the Kirtland UFO file",
+"id": "afosi-kirtland-file",
+"l0": false,
+"label": "AFOSI Kirtland AFB UFO File (1980-1983)",
+"note": "Doty served in AFOSI at Kirtland from 1979 and is the agent identified with the Kirtland UFO documents and with the subsequent contact with Bennewitz and Howe.",
+"sources": [
+{
+"date": "2021-05-20",
+"name": "Richard Doty Personnel File - New Mexico State Police [321 pages], NM Inspection of Public Records Act release",
+"url": "https://www.theblackvault.com/documentarchive/richard-doty-personnel-file-new-mexico-state-police/"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "2021",
+"dateStart": "2021",
+"direction": "out",
+"edgeLabel": "321-page New Mexico State Police personnel file released 2021",
+"id": "doty-personnel-file",
+"l0": false,
+"label": "Richard Doty New Mexico State Police Personnel File [321 pages]",
+"note": "Obtained under NMSA 14-2-1 et seq. after federal channels produced nothing; state public-records law delivered what FOIA did not.",
+"sources": [
+{
+"date": "2021-05-20",
+"name": "Richard Doty Personnel File - New Mexico State Police [321 pages], NM Inspection of Public Records Act release",
+"url": "https://www.theblackvault.com/documentarchive/richard-doty-personnel-file-new-mexico-state-police/"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": null,
+"dateStart": "1980",
+"direction": "out",
+"edgeLabel": "Filed the AFOSI complaint form documenting the incident",
+"id": "kirtland-manzano-1980",
+"l0": false,
+"label": "Kirtland AFB / Manzano Weapons Storage Area incident",
+"note": "Complaint form dated 9 September 1980, District File No. 8017D93-0/29, 'alleged sighting of unidentified aerial lights in restricted test range'.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "NICAP - Kirtland AFB FOIA files",
+"url": "https://www.nicap.org/foia_003.htm"
+}
+],
+"tier": "B",
+"type": "custody"
+},
+{
+"claimTier": 2,
+"cls": "location",
+"dateEnd": "1988",
+"dateStart": "1980",
+"direction": "out",
+"edgeLabel": "Doty's AFOSI detachment ran the Bennewitz deception from Kirtland",
+"id": "l-kirtland",
+"l0": false,
+"label": "Kirtland Air Force Base and Albuquerque, New Mexico",
+"note": "Richard C. Doty, an AFOSI special agent at Kirtland, has said publicly he was tasked in the 1980s with hoaxing documents and feeding false information to UFO researchers including Bennewitz. A 1992 article held in the CIA library names Doty and William Moore.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Wikipedia - Paul Bennewitz",
+"url": "https://en.wikipedia.org/wiki/Paul_Bennewitz"
+}
+],
+"tier": "B",
+"type": "behavioral"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "1983",
+"dateStart": "1983",
+"direction": "out",
+"edgeLabel": "Doty showed Howe a purported classified briefing paper at Kirtland, April 1983",
+"id": "linda-moulton-howe",
+"l0": false,
+"label": "Linda Moulton Howe",
+"note": "Howe's contemporaneous notes record being permitted to read but not copy a document describing retrieved craft and biological entities, with a promise of film footage that was never delivered.",
+"sources": [
+{
+"date": "2021-05-20",
+"name": "Richard Doty Personnel File - New Mexico State Police [321 pages], NM Inspection of Public Records Act release",
+"url": "https://www.theblackvault.com/documentarchive/richard-doty-personnel-file-new-mexico-state-police/"
+},
+{
+"date": "2016-08-15",
+"name": "National Archives, 'Project BLUE BOOK - Unidentified Flying Objects' reference report (incl. MJ-12 / Cutler-Twining findings)",
+"url": "https://www.archives.gov/research/military/air-force/ufos"
+}
+],
+"tier": "C",
+"type": "behavioral"
+},
+{
+"claimTier": 2,
+"cls": "institution",
+"dateEnd": "2026-08-21",
+"dateStart": "2026-08-21",
+"direction": "in",
+"edgeLabel": "Doty is the sole source for both NIS episodes recorded on this node",
+"id": "naval-criminal-investigative-service",
+"l0": false,
+"label": "Naval Criminal Investigative Service",
+"note": "Doty, a former AFOSI special agent, is the sole source for both NIS episodes recorded here, the Shandera handling and an NCIS role in the Kirtland contractor confrontation.",
+"sources": [
+{
+"date": "2026-08-21",
+"name": "DEBRIEFED with Chris Ramsay, 'Former Counterintelligence Agent Shares Wild Alien Encounters - Richard Doty', 21 August 2026, 1:17:09 and 3:21:29",
+"url": ""
+}
+],
+"tier": "C",
+"type": "investigative"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "1985",
+"dateStart": "1980",
+"direction": "out",
+"edgeLabel": "Ran fabricated material at Bennewitz out of the same AFOSI office",
+"id": "paul-bennewitz",
+"l0": false,
+"label": "Paul Frederick Bennewitz",
+"note": "Doty has acknowledged on the record passing fabricated documents to Bennewitz while an AFOSI agent; Bennewitz's psychiatric collapse is the documented outcome. This is the field's baseline case for government-authored disinformation.",
+"sources": [
+{
+"date": "2014-05-13",
+"name": "HuffPost - Ex-Air Force Law Enforcement Agent Says He Hoaxed Major UFO Incident",
+"url": "https://www.huffpost.com/entry/exair-force-law-enforceme_b_5312650"
+},
+{
+"date": "2021-05-20",
+"name": "Richard Doty Personnel File - New Mexico State Police [321 pages], NM Inspection of Public Records Act release",
+"url": "https://www.theblackvault.com/documentarchive/richard-doty-personnel-file-new-mexico-state-police/"
+},
+{
+"date": "2024-03-08",
+"name": "AARO, 'Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP), Volume I' (DOPSR-2024-0263)",
+"url": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF"
+},
+{
+"date": "2026-08-12",
+"name": "NICAP - 1980 Kirtland AFB, NM FOIA document files",
+"url": "https://www.nicap.org/foia_003.htm"
+}
+],
+"tier": "B",
+"type": "behavioral"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "1989",
+"dateStart": "1980",
+"direction": "out",
+"edgeLabel": "Moore admitted cooperating with AFOSI and passing disinformation to Bennewitz",
+"id": "william-l-moore",
+"l0": false,
+"label": "William L. Moore",
+"note": "Moore told the 1989 MUFON symposium that he had worked with Air Force counterintelligence in exchange for access, and had knowingly fed Bennewitz false material.",
+"sources": [
+{
+"date": "1997-01-01",
+"name": "Gerald K. Haines, 'CIA's Role in the Study of UFOs, 1947-90', Studies in Intelligence (CIA), archived copy",
+"url": "https://www.theblackvault.com/documentarchive/cias-role-in-the-study-of-ufos-1947-90/"
+},
+{
+"date": "1988-01-01",
+"name": "Philip J. Klass, 'The MJ-12 Crashed-Saucer Documents', Skeptical Inquirer",
+"url": "https://skepticalinquirer.org/1988/01/the-mj-12-crashed-saucer-documents/"
+}
+],
+"tier": "B",
+"type": "behavioral"
+},
+{
+"claimTier": 3,
+"cls": "program",
+"dateEnd": "2023",
+"dateStart": "1980",
+"direction": "out",
+"edgeLabel": "The Bennewitz method and the alleged YANKEE BLUE practice are the same technique at different scale",
+"id": "yankee-blue",
+"l0": true,
+"label": "YANKEE BLUE (alleged AFOSI indoctrination program)",
+"note": "Doty's documented AFOSI activity - feeding fabricated alien-technology material to a target to protect classified programmes - is the same technique Yankee Blue applied internally to cleared personnel. The inference is about method, not about Doty's involvement in Yankee Blue.",
+"sources": [
+{
+"date": "2025-09-16",
+"name": "John Greenewald Jr., 'Pentagon Denies Existence of \"Yankee Blue\" Memo Reported by Wall Street Journal', The Black Vault",
+"url": "https://www.theblackvault.com/documentarchive/pentagon-denies-existence-of-yankee-blue-memo-reported-by-wall-street-journal/"
+},
+{
+"date": "2021-05-20",
+"name": "Richard Doty Personnel File - New Mexico State Police [321 pages], NM Inspection of Public Records Act release",
+"url": "https://www.theblackvault.com/documentarchive/richard-doty-personnel-file-new-mexico-state-police/"
+},
+{
+"date": "2025-06-10",
+"name": "Garber Files - From Mirage Men to Military Deception",
+"url": "https://garberfiles.substack.com/p/from-mirage-men-to-military-deception"
+},
+{
+"date": "2026-08-12",
+"name": "Wikipedia - Kirtland AFB UFO sighting",
+"url": "https://en.wikipedia.org/wiki/Kirtland_AFB_UFO_sighting"
+}
+],
+"tier": "B",
+"type": "behavioral"
+}
+],
+"date": "1983-04-01",
+"dateEnd": null,
+"dateStart": "1983-04-01",
+"deg": 10,
+"denials": [],
+"domains": [
+"_rs-archive-mirror",
+"history-1970s-2000s"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "1",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "richard-doty",
+"instId": "afosi",
+"l0": false,
+"label": "Richard C. Doty",
+"loc": "Albuquerque, NM",
+"locId": "l-kirtland",
+"members": null,
+"narrative": "Doty is the only US counterintelligence officer to have stated on camera and on the record that he personally ran disinformation about UFOs against American civilians as part of his official duties. As an AFOSI special agent at Kirtland AFB from 1979, he authored or handled the 1980-1983 Kirtland documents concerning unexplained objects over Coyote Canyon, fed fabricated material to Paul Bennewitz, and in April 1983 showed the documentary producer Linda Moulton Howe a briefing paper purporting to describe a government programme - the 'Project Aquarius' teletype - which she was not permitted to copy. He was also a conduit in the emergence of the MJ-12 material through Bill Moore. He left AFOSI in 1988 and later served as a New Mexico State Police officer; his 321-page state police personnel file was obtained under the New Mexico Inspection of Public Records Act and published in 2021, giving the first full documentary picture of his post-Air Force career. Doty's value to this board is not that his statements are reliable - they are not, and he has repeatedly changed them - but that his existence is the proof of concept. The United States assigned a counterintelligence officer to manage the UFO information environment. He has said so. Whatever else is in dispute, that is not.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Richard C. Doty",
+"sources": [
+{
+"date": "2025-07-05",
+"name": "American Alchemy with Jesse Michels, 'Fake Alien Signals Drove Him Insane... (ft. Greg Bishop)' (episode audio)",
+"url": "https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL6921419786.mp3?updated=1752608918"
+},
+{
+"date": "2026-07-05",
+"name": "Archived: AARO, 'Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP), Volume I' (DOPSR-2024-0263) (Wayback 2026-07-05)",
+"url": "https://web.archive.org/web/20260705034310/https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF"
+},
+{
+"date": "2021-05-20",
+"name": "Richard Doty Personnel File - New Mexico State Police [321 pages], NM Inspection of Public Records Act release",
+"url": "https://www.theblackvault.com/documentarchive/richard-doty-personnel-file-new-mexico-state-police/"
+},
+{
+"date": "2024-03-08",
+"name": "AARO, 'Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP), Volume I' (DOPSR-2024-0263)",
+"url": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF"
+},
+{
+"date": "1997-01-01",
+"name": "Gerald K. Haines, 'CIA's Role in the Study of UFOs, 1947-90', Studies in Intelligence (CIA), archived copy",
+"url": "https://www.theblackvault.com/documentarchive/cias-role-in-the-study-of-ufos-1947-90/"
+}
+],
+"status": "active",
+"sub": "USAF AFOSI Special Agent 1979-1988; later New Mexico State Police officer",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 300 of 1027, score 36). 10 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A2/D2.",
+"timeline": [
+{
+"date": "1980-09-09",
+"id": "tl-ffrdc-1980-doty",
+"label": "AFOSI complaint form filed by Richard Doty",
+"precision": "day",
+"strand": "coverup",
+"text": "District File No. 8017D93-0/29 documents the Kirtland sightings. The same AFOSI office would shortly begin running fabricated material at Albuquerque physicist Paul Bennewitz.",
+"tier": "A"
+}
+],
+"unexplainedResidual": "No US government document has ever acknowledged the authority under which an AFOSI agent conducted a multi-year disinformation campaign against a US citizen.",
+"unverified": [
+"Doty's varying claims about what he was shown or told inside AFOSI cannot be corroborated from any released document."
+]
+}

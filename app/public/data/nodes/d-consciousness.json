@@ -1,0 +1,118 @@
+{
+"A": 2,
+"C": 0,
+"D": 1,
+"band": null,
+"claims": [
+{
+"source": "FAS, Star Gate documentation; CIA reading room",
+"text": "The Star Gate anomalous cognition programme ran under federal contract from 1972 until its termination in 1995.",
+"tier": 1
+},
+{
+"source": "Kit Green DIRD, via The Black Vault",
+"text": "DIA commissioned a DIRD on clinical medical acute and subacute field effects on human dermal and neurological tissues, authored by Christopher Green.",
+"tier": 1
+},
+{
+"source": "Inference from the SRI, Star Gate and AAWSAP contract records",
+"text": "The consciousness framing entered the modern UAP research programmes through personnel continuity rather than through evidence, carried by principal investigators who worked both the 1970s anomalous cognition contracts and the 2000s aerospace contracts. Reasoning: Puthoff, Green and Vallee each appear in both eras on the documentary record.",
+"tier": 3
+}
+],
+"cls": "domain",
+"cluster": "research",
+"connections": [
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "1965",
+"dateStart": "1957",
+"direction": "in",
+"edgeLabel": "The subject on which a federal agency file names him",
+"id": "andrija-puharich",
+"l0": false,
+"label": "Andrija (Henry K.) Puharich",
+"note": "The FBI file that carries him is a release of cross references to extra-sensory perception, and his own patents are about routing sound into the nervous system without the ear.",
+"sources": [
+{
+"date": "1957-09-06",
+"name": "FBI Vault, Extra-Sensory Perception Part 01 (Final)",
+"url": "https://vault.fbi.gov/Extra-Sensory%20Perception/Extra-Sensory%20Perception%20Part%2001%20%28Final%29/view"
+},
+{
+"date": "1961-08-08",
+"name": "US Patent 2,995,633, Means for aiding hearing",
+"url": "https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/2995633"
+}
+],
+"tier": "B",
+"type": "research"
+},
+{
+"claimTier": 1,
+"cls": "domain",
+"dateEnd": "1995-11-28",
+"dateStart": "1972-01-01",
+"direction": "in",
+"edgeLabel": "Twenty-three years of federal funding",
+"id": "d-remote-viewing",
+"l0": false,
+"label": "Remote Viewing & Anomalous Cognition",
+"note": "Star Gate is the documented precedent that the US government funds anomalous-cognition research; the consciousness domain inherits its personnel and its framing.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "FAS - Star Gate documentation",
+"url": "https://irp.fas.org/program/collect/stargate.htm"
+}
+],
+"tier": "C",
+"type": "programmatic"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "1972-01-01",
+"deg": 2,
+"denials": [],
+"desc": "This is the domain where the board is most exposed and must be most disciplined. The claim - that the phenomenon interacts with observers, that experiencer accounts include a cognitive or precognitive component, and that this is a property of the phenomenon rather than of the witness - is not supportable from primary documents, and the board records it as a research direction rather than a finding. What is documented is that the government funded work in this space and kept funding it: the Star Gate anomalous cognition programme ran under federal contract from 1972 to 1995, and the AAWSAP reference documents commissioned by DIA in 2008-2010 include studies of field effects on human neurological tissue by Christopher Green, a former CIA analyst. The reason the domain will not close is that multiple independent principal investigators with clearances - Puthoff, Green, Vallée - moved between the psychic research programmes of the 1970s and the aerospace programmes of the 2000s, carrying the framing with them. That continuity is a documented fact about personnel even where the underlying claim is not documented at all. Scoring high on this domain means an entity advanced, funded or institutionalised this framing.",
+"domains": [
+"w2-taxonomy"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "1",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "d-consciousness",
+"l0": false,
+"label": "Consciousness & Observer Effects",
+"locLabel": null,
+"members": null,
+"short": "Consciousness & Observer Effects",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "FAS - Star Gate documentation",
+"url": "https://irp.fas.org/program/collect/stargate.htm"
+},
+{
+"date": "2020-01-01",
+"name": "DIRD 'Clinical Medical Acute & Subacute Field Effects on Human Dermal & Neurological Tissues' (Christopher Green)",
+"url": "https://www.theblackvault.com/documentarchive/wp-content/uploads/2020/01/kitgreen-dird.pdf"
+},
+{
+"date": "1974-10-18",
+"name": "R. Targ & H. Puthoff, Nature 251, 602-607",
+"url": "https://www.nature.com/articles/251602a0"
+}
+],
+"sub": "Contested domain - the claim that observation and intention are coupled to the phenomenon",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 763 of 1027, score 20). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A2/D1.",
+"timeline": []
+}

@@ -1,0 +1,291 @@
+{
+"A": 1,
+"C": 0,
+"D": 3,
+"affiliations": [
+"US Navy (1989-2006)",
+"VFA-41 Black Aces, Commanding Officer (2004)",
+"Carrier Air Wing Eleven / USS Nimitz (2004)"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "2004-11-14",
+"event": "Intercepts the Tic Tac object roughly 30 miles off Baja California while CO of VFA-41",
+"precision": "day"
+},
+{
+"date": "2009-01-01",
+"event": "Contacted by Jay Stratton to investigate the 2004 sighting for a DoD program",
+"precision": "year"
+},
+{
+"date": "2017-12-16",
+"event": "Named in the New York Times story that published the FLIR1 video",
+"precision": "day"
+},
+{
+"date": "2021-05-16",
+"event": "Interviewed on CBS 60 Minutes alongside Alex Dietrich and Ryan Graves",
+"precision": "day"
+},
+{
+"date": "2023-07-26",
+"event": "Testifies before House Oversight subcommittee alongside Ryan Graves and David Grusch",
+"precision": "day"
+}
+],
+"claims": [
+{
+"source": "CHRG-118hhrg53022 CONTENTS; docs.house.gov EventID 116282",
+"text": "Witness of record at the 26 July 2023 House Oversight hearing: 'Commander David Fravor (Ret.), Former Commanding Officer, United States Navy'. Written statement, Truth in Testimony form and bio filed in the House Committee Repository, event 116282.",
+"tier": 1
+},
+{
+"source": "David Fravor, written statement for the House Oversight Subcommittee on National Security, the Border and Foreign Affairs, 26 July 2023",
+"text": "'In Nov 2004, I was the Commanding Officer of Strike Fighter Squadron Forty-One' and encountered 'a small white Tic Tac shaped object ... There were no Rotors, No Rotor wash, or any visible flight control surfaces.'",
+"tier": 1
+},
+{
+"source": "David Fravor, written statement to House Oversight, 26 July 2023",
+"text": "'the incident was never investigated, none of my crew were ever questioned, tapes were never taken.'",
+"tier": 1
+},
+{
+"source": "David Fravor, written statement to House Oversight, 26 July 2023",
+"text": "USS Princeton had been tracking the objects on Aegis for two weeks, descending from above 80,000 ft to 20,000 ft.",
+"tier": 1
+},
+{
+"source": "David Fravor, CBS 60 Minutes, 16 May 2021",
+"text": "'It was aware we were there' and 'It just disappears. Like, gone.'",
+"tier": 2
+}
+],
+"cls": "person",
+"cluster": "other",
+"conflicts": [
+"Fravor's sworn statement that 'tapes were never taken' is in direct tension with the accounts attributed to USS Princeton crewmen Kevin Day and Gary Voorhis that recording media were removed by unidentified personnel who arrived by helicopter. Both can be true if the collection was aimed at Princeton's Aegis and CEC data and at Nimitz's ATFLIR tape library rather than at VFA-41 aircrew, whom Fravor confirms were never even debriefed."
+],
+"connections": [
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "2004",
+"dateStart": "2004",
+"direction": "out",
+"edgeLabel": "Section lead and wingman on the same intercept",
+"id": "alex-dietrich",
+"l0": false,
+"label": "Alex Dietrich",
+"note": "Both are named as aircrew in the same Navy range fouler report and both gave first-person accounts on 60 Minutes in 2021.",
+"sources": [
+{
+"date": "2023-01-14",
+"name": "The War Zone - Tic Tac incident in newly released range fouler reports",
+"url": "https://www.twz.com/tic-tac-uap-incident-included-in-72-newly-released-range-incursion-reports"
+},
+{
+"date": "2021-05-16",
+"name": "CBS News / 60 Minutes",
+"url": "https://www.cbsnews.com/news/ufo-military-intelligence-60-minutes-2021-05-16/"
+}
+],
+"tier": "C",
+"type": "witness-chain"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "2023",
+"dateStart": "2023",
+"direction": "in",
+"edgeLabel": "Co-witness, 26 July 2023 hearing panel",
+"id": "david-grusch",
+"l0": false,
+"label": "David Charles Grusch",
+"note": "Fravor testified alongside Grusch and Graves, providing the operational encounter testimony that framed Grusch's programmatic allegations for the committee.",
+"sources": [
+{
+"date": "2023-07-26",
+"name": "House Oversight hearing transcript",
+"url": "https://www.congress.gov/118/meeting/house/116282/documents/HHRG-118-GO06-Transcript-20230726.pdf"
+}
+],
+"tier": "A",
+"type": "witness-chain"
+},
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": null,
+"dateStart": "2023-07-26",
+"direction": "out",
+"edgeLabel": "sworn witness",
+"id": "hearing-2023-07-26",
+"l0": true,
+"label": "House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'",
+"note": "Listed in the printed hearing record as a witness.",
+"sources": [
+{
+"date": "2023-07-26",
+"name": "CHRG-118hhrg53022, printed hearing transcript, 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency', Serial No. 118-53",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/pdf/CHRG-118hhrg53022.pdf"
+}
+],
+"tier": "A",
+"type": "programmatic"
+},
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": "2023",
+"dateStart": "2023",
+"direction": "out",
+"edgeLabel": "Testified as former commanding officer, VFA-41",
+"id": "hearing-2023-07-26",
+"l0": true,
+"label": "House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'",
+"note": "Fravor's written statement to the subcommittee is the primary sworn account of the 2004 intercept.",
+"sources": [
+{
+"date": "2023-07-26",
+"name": "House Oversight - hearing page, 26 July 2023",
+"url": "https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/"
+},
+{
+"date": "2023-07-26",
+"name": "House Oversight - Fravor written statement (PDF)",
+"url": "https://oversight.house.gov/wp-content/uploads/2023/07/David-Fravor-Statement-for-House-Oversight-Committee.pdf"
+},
+{
+"date": "2023-07-26",
+"name": "U.S. GPO, Hearing transcript, Serial No. 118-53 (CHRG-118hhrg53022)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm"
+}
+],
+"tier": "A",
+"type": "witness-chain"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "2004",
+"direction": "out",
+"edgeLabel": "Direct conflict over whether data was taken",
+"id": "kevin-day",
+"l0": false,
+"label": "Kevin Day",
+"note": "Fravor testified under his own name that 'tapes were never taken'; Day says media were removed from Princeton. The conflict resolves only if collection was platform-specific, and it is recorded here unresolved.",
+"sources": [
+{
+"date": "2023-07-26",
+"name": "House Oversight - Fravor written statement (PDF)",
+"url": "https://oversight.house.gov/wp-content/uploads/2023/07/David-Fravor-Statement-for-House-Oversight-Committee.pdf"
+},
+{
+"date": "2023-01-14",
+"name": "The War Zone - Tic Tac incident in newly released range fouler reports",
+"url": "https://www.twz.com/tic-tac-uap-incident-included-in-72-newly-released-range-incursion-reports"
+}
+],
+"tier": "C",
+"type": "behavioral"
+},
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": "2004",
+"dateStart": "2004",
+"direction": "out",
+"edgeLabel": "Intercepted the object as CO of VFA-41 on 14 Nov 2004",
+"id": "nimitz-2004",
+"l0": true,
+"label": "USS Nimitz Carrier Strike Group Encounters, 10-16 November 2004",
+"note": "Fravor's sworn written statement to House Oversight places him as commanding officer of VFA-41 flying the intercept; the Navy's own range fouler report names him as aircrew.",
+"sources": [
+{
+"date": "2023-07-26",
+"name": "House Oversight - Fravor written statement (PDF)",
+"url": "https://oversight.house.gov/wp-content/uploads/2023/07/David-Fravor-Statement-for-House-Oversight-Committee.pdf"
+},
+{
+"date": "2023-01-14",
+"name": "The War Zone - Tic Tac incident in newly released range fouler reports",
+"url": "https://www.twz.com/tic-tac-uap-incident-included-in-72-newly-released-range-incursion-reports"
+}
+],
+"tier": "A",
+"type": "witness-chain"
+}
+],
+"date": "2023-07-26",
+"dateEnd": null,
+"dateStart": "2023-07-26",
+"deg": 5,
+"denials": [],
+"domains": [
+"_rs-legislation",
+"aviators-incidents"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "david-fravor",
+"instId": "vfa-41",
+"l0": false,
+"label": "David Fravor",
+"loc": "Windham, NH",
+"locId": "l-socal-oparea",
+"members": null,
+"narrative": "Fravor is the aviator whose single intercept broke the observational record open. In November 2004 he was Commanding Officer of Strike Fighter Squadron Forty-One, the Black Aces, attached to Carrier Air Wing Eleven aboard USS Nimitz. In his sworn written statement to the House Oversight Subcommittee on National Security, the Border and Foreign Affairs on 26 July 2023 he described being vectored off a training intercept to investigate a contact the cruiser USS Princeton had been tracking, and finding 'a small white Tic Tac shaped object with the longitudinal axis pointing N/S and moving very abruptly over the white water,' with 'no Rotors, No Rotor wash, or any visible flight control surfaces.' He testified the Princeton had been watching objects descend from above 80,000 feet to 20,000 feet 'for the previous 2 weeks.' The single most load-bearing line in his statement is a negative one: 'the incident was never investigated, none of my crew were ever questioned, tapes were never taken.' That sentence is not a denial of the coverup - it is evidence of the specific shape of it. The Navy's own range fouler report on the incident, released via FOIA on 13 January 2023, records that 'Reporting terminated at 3rd Fleet, there was no process to share the reporting.' The event stayed dormant until Jay Stratton contacted Fravor in 2009 to investigate it for a DoD program, and until the New York Times published the FLIR1 video in December 2017. Fravor told 60 Minutes on 16 May 2021 the object 'was aware we were there' and that 'it just disappears. Like, gone.'",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "David Fravor",
+"sources": [
+{
+"date": "2023-07-26",
+"name": "CHRG-118hhrg53022, printed hearing transcript, 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency', Serial No. 118-53",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/pdf/CHRG-118hhrg53022.pdf"
+},
+{
+"date": "2023-07-26",
+"name": "docs.house.gov meeting repository, House Oversight Subcommittee on National Security, the Border, and Foreign Affairs, Event 116282 (26 July 2023) - witness statements, Truth in Testimony forms, official transcript",
+"url": "https://docs.house.gov/Committee/Calendar/ByEvent.aspx?EventID=116282"
+},
+{
+"date": "2023-07-26",
+"name": "House Oversight - Fravor written statement (PDF)",
+"url": "https://oversight.house.gov/wp-content/uploads/2023/07/David-Fravor-Statement-for-House-Oversight-Committee.pdf"
+},
+{
+"date": "2023-07-26",
+"name": "House Oversight - hearing page, 26 July 2023",
+"url": "https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/"
+},
+{
+"date": "2021-05-16",
+"name": "CBS News / 60 Minutes",
+"url": "https://www.cbsnews.com/news/ufo-military-intelligence-60-minutes-2021-05-16/"
+},
+{
+"date": "2023-01-14",
+"name": "The War Zone - Tic Tac incident in newly released range fouler reports",
+"url": "https://www.twz.com/tic-tac-uap-incident-included-in-72-newly-released-range-incursion-reports"
+}
+],
+"status": "active",
+"sub": "CDR, USN (Ret.); Commanding Officer, VFA-41 Black Aces; 14 Nov 2004 Nimitz intercept",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 188 of 1027, score 44). 6 connections, 5 of them custody/witness/funding/programmatic. Axes C0/A1/D3.",
+"timeline": [],
+"unexplainedResidual": "A 46-foot object with no visible propulsion or control surfaces that departed the intercept faster than an F/A-18F could track, then reappeared at the squadron's undisclosed CAP point, remains unexplained in the Navy's own 2023 range fouler release.",
+"unverified": []
+}

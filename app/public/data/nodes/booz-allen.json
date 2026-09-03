@@ -1,0 +1,123 @@
+{
+"A": 3,
+"C": 0,
+"D": 1,
+"band": null,
+"claims": [
+{
+"source": "USAspending.gov recipient search, retrieved 12 August 2026",
+"text": "USAspending records approximately $97 billion in prime contract obligations to Booz Allen Hamilton recipient entities since FY2008.",
+"tier": 1
+},
+{
+"source": "David Grusch, written statement and testimony, House Oversight Committee, 26 July 2023",
+"text": "Grusch testified that he was tasked to identify the special access and controlled access programs needed to satisfy the UAP Task Force's congressional mandate and was denied the read-ons he requested.",
+"tier": 1
+}
+],
+"cls": "institution",
+"cluster": "contractor",
+"connections": [
+{
+"claimTier": 3,
+"cls": "person",
+"dateEnd": "2023",
+"dateStart": "2019",
+"direction": "out",
+"edgeLabel": "The access architecture that denied Grusch his read-ons is largely contractor-built and contractor-maintained",
+"id": "david-grusch",
+"l0": false,
+"label": "David Charles Grusch",
+"note": "Grusch was tasked to inventory the SAPs and CAPs relevant to the Task Force's congressional mandate and was refused. The billet lists, access rosters and classification guides that execute such refusals are administered in substantial part by security-support primes. No committee has requested those rosters.",
+"sources": [
+{
+"date": "2023-07-26",
+"name": "House Oversight hearing transcript, 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency' (CHRG-118hhrg53022)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm"
+},
+{
+"date": "2023-07-26",
+"name": "David Grusch, written statement to the House Committee on Oversight and Accountability",
+"url": "https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf"
+},
+{
+"date": "2026-08-12",
+"name": "USAspending.gov federal award search (prime contract obligations by recipient)",
+"url": "https://www.usaspending.gov/search"
+}
+],
+"tier": "A",
+"type": "behavioral"
+},
+{
+"claimTier": 3,
+"cls": "legislation",
+"dateEnd": null,
+"dateStart": "2000",
+"direction": "out",
+"edgeLabel": "Security-support primes administer the compartmentation the statute is supposed to make visible",
+"id": "usc-10-119",
+"l0": true,
+"label": "10 U.S.C. 119 — Special Access Programs: Congressional Oversight",
+"note": "Reasoning: Sec. 119 places the reporting duty on the Secretary of Defense, but the underlying program-protection and access records are held by contractors with no independent reporting obligation to Congress.",
+"sources": [
+{
+"date": "2024-01-01",
+"name": "10 U.S.C. Sec. 119, Special access programs: congressional oversight",
+"url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim"
+},
+{
+"date": "2026-08-12",
+"name": "USAspending.gov federal award search (prime contract obligations by recipient)",
+"url": "https://www.usaspending.gov/search"
+}
+],
+"tier": "A",
+"type": "institutional"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "1914",
+"deg": 2,
+"denials": [],
+"desc": "Booz Allen is the firm that staffs the secrecy itself. Its federal business - roughly $97 billion in prime contract obligations across Booz Allen recipient entities since FY2008 - is concentrated in intelligence community analytic support, security engineering, and the program-protection and special access program administration functions that determine who is read on to what. That is the choke point in this entire domain: David Grusch testified that he was tasked to identify every special access and controlled access program relevant to the UAP Task Force's congressional mandate and was refused the read-ons. The machinery that executes such a refusal - billet lists, access rosters, security classification guides, program-protection plans - is largely built and maintained by contractors, of which Booz Allen is the largest. No witness has alleged Booz Allen holds material. The board records it as the administrative infrastructure of compartmentation rather than as an alleged custodian, and flags as a gap that no committee has ever asked a security-support prime to produce the access rosters for the programs at issue.",
+"domains": [
+"primes-custody"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "booz-allen",
+"l0": false,
+"label": "Booz Allen Hamilton",
+"locLabel": null,
+"members": null,
+"short": "Booz Allen Hamilton",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "USAspending.gov federal award search (prime contract obligations by recipient)",
+"url": "https://www.usaspending.gov/search"
+},
+{
+"date": "2023-07-26",
+"name": "David Grusch, written statement to the House Committee on Oversight and Accountability",
+"url": "https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf"
+},
+{
+"date": "2023-07-26",
+"name": "House Oversight hearing transcript, 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency' (CHRG-118hhrg53022)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm"
+}
+],
+"sub": "Management and security consultancy; large-scale SAP and clearance support",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 785 of 1027, score 19). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A3/D1.",
+"timeline": []
+}

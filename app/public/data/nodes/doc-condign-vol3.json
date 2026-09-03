@@ -1,0 +1,384 @@
+{
+"A": 2,
+"C": 1,
+"D": 3,
+"band": "research",
+"claims": [
+{
+"source": "Project Condign, Volume 3, Chapter 4, para 12 (released MoD copy, OCR)",
+"text": "Volume 3, Chapter 4, para 12: 'USA & CANADA. The USA's widely publicised activities were described and contrasted with the UK effort at the beginning of Volume 1 of this report. There is no intelligence exchange or access or collaboration of any sort on the topic of UFOs.' - followed by approximately four lines of redaction.",
+"tier": 1
+},
+{
+"source": "Project Condign, Volume 3, Chapter 4, para 1",
+"text": "Volume 3, Chapter 4, para 1: 'It is clear that the Former Soviet Union has taken the study of UAPs seriously and that this may well be related to a programme of understanding and exploiting certain UAP-related natural phenomena, such as plasmas.'",
+"tier": 1
+},
+{
+"source": "Project Condign, Volume 3, Chapter 4, para 3",
+"text": "Volume 3, Chapter 4, para 3: 'Annex A summarises two russian scientific papers where, it appears, 20-30 scientists have pursued research for the prevention of air target detection' - followed by three redacted lines.",
+"tier": 1
+},
+{
+"source": "Project Condign, Volume 3, Chapter 4, para 11",
+"text": "Volume 3, Chapter 4, para 11: 'SPAIN The Spanish MoD have taken the UFO phenomenon seriously. Sixty six files have reportedly been released to the public. DI 55 Staff have not seen these files.'",
+"tier": 1
+},
+{
+"source": "Project Condign, Volume 3, Chapter 4, para 8",
+"text": "Volume 3, Chapter 4, para 8 quotes Sokolov on Soviet aircraft incidents: 'We had 40 cases where pilots encountered UFOs. Initially they were commanded to chase, then shoot. When our pilots would engage the UFO it would speed-up, our aircraft would give chase, lose control and crash. That happened 3 times and twice the pilots died. After that the pilots were told to observe and change course and get out.'",
+"tier": 1
+},
+{
+"source": "Inference from the released page image, Volume 3 Chapter 4 para 12",
+"text": "The denial of any US/Canada intelligence exchange 'of any sort' is immediately followed by four redacted lines, which is structurally odd: a true and complete negative requires no withheld continuation. Reasoning: redaction under a defence exemption is applied to withheld substance, not to the absence of substance.",
+"tier": 3
+}
+],
+"cls": "document",
+"cluster": "ic",
+"connections": [
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "Belgian imagery inside the Condign study, in Volume 2 rather than Volume 3",
+"id": "belgian-af-f16-intercept-1990",
+"l0": false,
+"label": "Belgian Air Force F-16 intercept and the 1989-90 Belgian wave",
+"note": "Volume 2's figure list carries a video frame captioned Belgium 31 March 1990 and a comparative shape figure for the UK, Russia and Belgium. Volume 3 chapter 4's country sections are the Former Soviet Union, China, Spain, and the United States and Canada, and do not cover Belgium.",
+"sources": [
+{
+"date": "2000-01-01",
+"name": "Project Condign Volume 2 OCR text",
+"url": "https://archive.org/download/condign-vol-2-1-258/Condign_Vol_2_1-258_djvu.txt"
+}
+],
+"tier": "B",
+"type": "research"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "2006-05-15",
+"dateStart": "2000",
+"direction": "in",
+"edgeLabel": "Volume 3 holds the material excluded from the RESTRICTED summary",
+"id": "doc-condign-report",
+"l0": true,
+"label": "Unidentified Aerial Phenomena in the UK Air Defence Region (DIS Scientific & Technical Memorandum 55/2/00)",
+"note": "Volume 3's own opening states that it 'primarily deals with sensitive matters associated with the UAP study which could not be placed in the RESTRICTED Executive Summary'.",
+"sources": [
+{
+"date": "2006-05-15",
+"name": "Condign Volume 3",
+"url": "https://archive.org/download/condign-vol-2-1-258/Condign_Vol_3_1-48_djvu.txt"
+}
+],
+"tier": "A",
+"type": "custody"
+},
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": "2000",
+"dateStart": "2000",
+"direction": "out",
+"edgeLabel": "assessed the Soviet programme as exploitation-driven",
+"id": "setka-program",
+"l0": true,
+"label": "SETKA-AN / SETKA-MO (later Galaktika, then Gorizont) - Soviet state anomalous phenomena programme",
+"note": "Condign Volume 3 chapter 4 states that Soviet study of UAP 'may well be related to a programme of understanding and exploiting certain UAP-related natural phenomena, such as plasmas'.",
+"sources": [
+{
+"date": "2006-05-15",
+"name": "Condign Volume 3",
+"url": "https://archive.org/download/condign-vol-2-1-258/Condign_Vol_3_1-48_djvu.txt"
+}
+],
+"tier": "B",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2000",
+"direction": "out",
+"edgeLabel": "Condign's Former Soviet Union chapter names, dates and assesses SOYUZUFOTSENTR",
+"id": "soyuzufotsentr",
+"l0": false,
+"label": "SOYUZUFOTSENTR - USSR Inter-Industry Ufology Research Centre",
+"note": "This is the reason the node exists at all. SOYUZUFOTSENTR reaches this board not through Russian ufology literature but through a UK SECRET UK EYES ONLY Defence Intelligence Staff assessment, which places the centre inside a paragraph opening 'It[s] clear that the Former Soviet Union has taken the study of UAPs seriously and th[a]t this may well be related to a programme of understanding and exploiting certain UAP-related natural phenomena, such as plasmas.' The same chapter runs on to Popovich's 1990 All Union Ufology Association at the Air Force Academy, General of Aviation Igor Maltsev's 1990 release of pilot reports, Vsevolod Troitsky of the Russian Academy of Sciences chairing a Commission for the Study of Anomalous Propagation and Phenomena, and Sokolov's account of Soviet aircraft incidents. Condign treats the public centre and the state effort as one national picture. Verified line by line against the released OCR.",
+"sources": [
+{
+"date": "2006-05-15",
+"name": "Project Condign Volume 3, Chapter 4, paras 1-8 - released MoD copy, OCR text",
+"url": "https://archive.org/download/condign-vol-2-1-258/Condign_Vol_3_1-48_djvu.txt"
+}
+],
+"tier": "C",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "2000",
+"dateStart": "2000",
+"direction": "out",
+"edgeLabel": "records the Spanish release and DI55's non-access",
+"id": "spain-mod-ufo-files",
+"l0": false,
+"label": "Spanish Ministry of Defence UFO file declassification",
+"note": "'Sixty six files have reportedly been released to the public. DI 55 Staff have not seen these files.'",
+"sources": [
+{
+"date": "2006-05-15",
+"name": "Condign Volume 3",
+"url": "https://archive.org/download/condign-vol-2-1-258/Condign_Vol_3_1-48_djvu.txt"
+}
+],
+"tier": "C",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "2006-05-15",
+"dateStart": "2000",
+"direction": "out",
+"edgeLabel": "records a flat denial of any US/Canada exchange, then redacts four lines",
+"id": "uk-mod",
+"l0": false,
+"label": "United Kingdom Ministry of Defence",
+"note": "Volume 3 para 12: 'There is no intelligence exchange or access or collaboration of any sort on the topic of UFOs' - followed by approximately four redacted lines.",
+"sources": [
+{
+"date": "2006-05-15",
+"name": "Condign Volume 3",
+"url": "https://archive.org/download/condign-vol-2-1-258/Condign_Vol_3_1-48_djvu.txt"
+}
+],
+"tier": "B",
+"type": "denial"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "2000",
+"dateStart": "2000",
+"direction": "out",
+"edgeLabel": "names Azhazha as head of SOYUZUFOTSENTR",
+"id": "vladimir-azhazha",
+"l0": false,
+"label": "Vladimir Georgievich Azhazha",
+"note": "Condign identifies 'V.G. AZAHAZHA (or AZHAZHA) an eminent researcher and former naval submariner' as head of the 1990 inter-industry ufology research centre.",
+"sources": [
+{
+"date": "2006-05-15",
+"name": "Condign Volume 3",
+"url": "https://archive.org/download/condign-vol-2-1-258/Condign_Vol_3_1-48_djvu.txt"
+}
+],
+"tier": "C",
+"type": "investigative"
+}
+],
+"coords": null,
+"dateEnd": "2006-05-15",
+"dateStart": "2000",
+"deg": 7,
+"denials": [
+{
+"by": {
+"id": "uk-mod",
+"label": "United Kingdom Ministry of Defence"
+},
+"claimTier": 1,
+"denialKind": "directed",
+"label": "records a flat denial of any US/Canada exchange, then redacts four lines",
+"note": "Volume 3 para 12: 'There is no intelligence exchange or access or collaboration of any sort on the topic of UFOs' - followed by approximately four redacted lines.",
+"of": {
+"id": "doc-condign-vol3",
+"label": "Project Condign Volume 3 - Potential for Exploitation of UAP-Associated Effects / UAP Work in Other Countries"
+},
+"sources": [
+{
+"date": "2006-05-15",
+"name": "Condign Volume 3",
+"url": "https://archive.org/download/condign-vol-2-1-258/Condign_Vol_3_1-48_djvu.txt"
+}
+]
+}
+],
+"desc": "Volume 3 is the volume that makes Condign an international document. Its own opening states that it 'primarily deals with sensitive matters associated with the UAP study which could not be placed in the RESTRICTED Executive Summary'. Chapter 3 is 'Potential for Exploitation of UAP-Associated Effects'; Chapter 4 is 'UAP Work in Other Countries', with sections on the Former Soviet Union, China, Spain, and the United States and Canada. On the Soviet Union it states: 'It is clear that the Former Soviet Union has taken the study of UAPs seriously and that this may well be related to a programme of understanding and exploiting certain UAP-related natural phenomena, such as plasmas', naming the 1989 UFO Commission under the USSR Union of Scientific and Engineering Societies, the 1990 inter-industry ufology research centre SOYUZUFOTSENTR headed by V. G. Azhazha, plasma research by '20-30 Russian scientists ... for the prevention of air target detection' followed by three redacted lines, the 1990 release of documents by General of Aviation Igor Maltsev, and Vsevolod Troitsky of the Russian Academy of Sciences chairing a Commission for the Study of Anomalous Propagation and Phenomena. On Spain it records that 'the Spanish MoD have taken the UFO phenomenon seriously. Sixty six files have reportedly been released to the public. DI 55 Staff have not seen these files'. And on the Anglo-American relationship it records the flat denial that is the most quotable line in the whole report.",
+"domains": [
+"w2-international"
+],
+"dossier": {
+"claims": [
+{
+"source": "Unidentified Aerial Phenomena in the UK Air Defence Region, Volume 3 - Miscellaneous Related Studies, Scientific & Technical Memorandum 55/2/00, contents page (released PDF p.5) and chapter headers at pp.35 and 39, released 15 May 2006. OCR text at https://ufotransparency.com/files/intl-uk-project-condign-volume-3-project-condign-vol3-pp1-48",
+"text": "Volume 3 of the Condign report is titled \"MISCELLANEOUS RELATED STUDIES\", not \"Potential for Exploitation\"; \"Potential for Exploitation of UAP-Associated Effects\" is the title of Chapter 3 within it, and \"UAP Work in Other Countries\" is Chapter 4.",
+"tier": 1
+},
+{
+"source": "Condign Volume 3, Preface, released PDF p.4 (document page ii). https://ufotransparency.com/files/intl-uk-project-condign-volume-3-project-condign-vol3-pp1-48",
+"text": "The Volume 3 preface states \"This is the third volume of a three-part report on the information held in DI55 on the subject of UAP\", is dated February 2000, and is issued by DI55, MoD DI(ST), Old War Office Building, Whitehall, London SW1A 2EU.",
+"tier": 1
+},
+{
+"source": "Condign Volume 3, Preface, released PDF p.4 (document page ii). https://ufotransparency.com/files/intl-uk-project-condign-volume-3-project-condign-vol3-pp1-48",
+"text": "The preface states the volume \"is classified overall SECRET, only because it contains performance values of the UKADR radars\", and adds that it was \"also a convenient place-holder for several other related findings\" arising from \"earlier DI55 interest ... focusing upon the potential technologies involved and their possible future military uses.\"",
+"tier": 1
+},
+{
+"source": "Condign Volume 3, Chapter 4 \"UAP Work in Other Countries\", paragraph 1, released PDF p.39 (chapter page 1). https://ufotransparency.com/files/intl-uk-project-condign-volume-3-project-condign-vol3-pp1-48",
+"text": "Volume 3 Chapter 4 paragraph 1 reads, verbatim: \"A 'UFO' Commission was created under the USSR Union of Scientific and Engineering Societies in 1989, together in 1990 with an Inter-Industry Ufology Research Centre (SOYUZUFOSENTR) to co-ordinate records. This Centre had the rights of an Institute under the USSR Academy of Sciences, and was headed by V.G. AZAHAZHA (or AZHAZHA) an eminent researcher and former naval submariner.\" The document spells the acronym SOYUZUFOSENTR, not Soyuzufotsentr.",
+"tier": 1
+},
+{
+"source": "Condign Volume 3, Chapter 4, paragraph 2, released PDF p.39. https://ufotransparency.com/files/intl-uk-project-condign-volume-3-project-condign-vol3-pp1-48",
+"text": "Chapter 4 paragraph 2 names V.V. ALEXANDROV (Senior Project Engineer) and Y.N. GLAZOV (astronaut, Hero of the Soviet Union, and Deputy Head of the Cosmonaut Training Centre in charge of science and testing) of the Test Centre (Tsenatr Podgotovki Kosmonatov) at the Scientific Production Association (Geophysics), and places a supporting laboratory at AKHTUBISK on the Volga.",
+"tier": 1
+},
+{
+"source": "Condign Volume 3, Chapter 4, paragraph 3, released PDF p.39. https://ufotransparency.com/files/intl-uk-project-condign-volume-3-project-condign-vol3-pp1-48",
+"text": "Chapter 4 paragraph 3 states that Annex A summarises \"two russian scientific papers where, it appears, 20-30 scientists have pursued research for the prevention of air target detection\", and the remainder of the paragraph is withheld under FOIA Section 26 (Defence).",
+"tier": 1
+},
+{
+"source": "Condign Volume 3, Chapter 4, paragraphs 5-6, released PDF pp.39-40. https://ufotransparency.com/files/intl-uk-project-condign-volume-3-project-condign-vol3-pp1-48",
+"text": "Chapter 4 paragraph 5 (\"Near Field Effects\") records 1991 Russian soil sampling at alleged landing sites where \"In all cases a local field developed over a period of three hours\" and \"Impairment of human senses were reportedly observed in every person studied who had been 'in the field'\"; the DI55 analyst's bracketed comment on the following page states \"It is possible, and confirmed from some other data that russian scientists may have discovered some new field types.\"",
+"tier": 1
+},
+{
+"source": "Condign Volume 3, Chapter 3 \"Potential for Exploitation of UAP-Associated Effects\", paragraph 1, released PDF p.35. https://ufotransparency.com/files/intl-uk-project-condign-volume-3-project-condign-vol3-pp1-48",
+"text": "Volume 3 Chapter 3 paragraph 1 states \"One of the reasons for making an analysis of UAP reports was that of identifying any phenomena which could be robustly generated and provide a military advantage\", and roughly fourteen lines of text following that sentence are withheld under FOIA Section 26.",
+"tier": 1
+},
+{
+"source": "Condign Volume 3, Chapter 3, paragraphs 2-3, released PDF p.35. https://ufotransparency.com/files/intl-uk-project-condign-volume-3-project-condign-vol3-pp1-48",
+"text": "Chapter 3 paragraph 2 states that \"the possibility of some sort of exotic vehicle, either terrestrial or from space could not be ruled out until all available evidence had been examined\", that \"the possibility of technologies beyond the scope of human engineering and conception could not initially be ruled out\", and that if extra-terrestrial technology were proven \"then (possibly) recommendations could be made as to the way ahead\"; paragraph 3 lists candidate technologies including \"propulsion by the use of anti-matter, gravitational or torsion fields\", and paragraph 2 states the reported performance \"appears to imply the negation of inertia\".",
+"tier": 1
+},
+{
+"source": "Condign Volume 3, Chapter 3, paragraph 8, released PDF pp.37-38. https://ufotransparency.com/files/intl-uk-project-condign-volume-3-project-condign-vol3-pp1-48",
+"text": "Chapter 3's POTENTIAL APPLICATIONS section, paragraph 8, states \"the radar detection aspects have shown that there are three possible related potential applications\" and the entire body of that page is withheld under Section 26; the following page (released PDF p.38) is withheld in full under Section 26 as well.",
+"tier": 1
+},
+{
+"source": "Condign Volume 3, Executive Summary, paragraph 9, released PDF p.8. https://ufotransparency.com/files/intl-uk-project-condign-volume-3-project-condign-vol3-pp1-48",
+"text": "The Volume 3 Executive Summary, paragraph 9 (\"Foreign Military Interest\"), states that \"DI55 does not have access to any other Government's classified reports, as there is no formal intelligence exchange on this topic\", and the identities of the countries known \"to have at least one member of staff active in this area\" are withheld under FOIA Section 27 (International Relations), not Section 26.",
+"tier": 1
+},
+{
+"source": "Condign Volume 3, Executive Summary, paragraphs 9-10 and bullets, released PDF pp.8-9. https://ufotransparency.com/files/intl-uk-project-condign-volume-3-project-condign-vol3-pp1-48",
+"text": "The Volume 3 Executive Summary records that \"Russian, Former Soviet Republics and Chinese authorities have made a co-ordinated effort to understand the UAP topic. Several aircraft have been destroyed and at least four pilots have been killed 'chasing UFOs'\", that astronauts, senior pilots and senior scientists were appointed to investigate, and that \"Russian investigators have measured (or at least detected) 'fields', which are reported to have caused human effects when they are located close to the phenomena.\"",
+"tier": 1
+},
+{
+"source": "UK MoD FOI internal review correspondence on Project Condign, TNA file DEFE 24/2090/1, release item 13 and internal-review annex dated 07/08/2006. Digitised full text: https://archive.org/stream/396201-defe-24-2090-1/396201-defe-24-2090-1_djvu.txt",
+"text": "MoD internal-review correspondence over the Condign redactions, held at The National Archives as DEFE 24/2090/1, records a challenge to Volume 3 Chapter 4 page 3 paragraph 12 in which the reviewer states that \"information regarding DIS, the CIA desk officer and DI51 must remain redacted\", and separately records that in August 2006 MoD released the partial sentence \"The Society for Scientific Exploration XXXXXXXXXXX have made a mid-1998 statement to the effect that the topic of UFOs should be studied - only in that it might expose some new scientific information\".",
+"tier": 1
+},
+{
+"source": "https://www.theblackvault.com/documentarchive/project-condign-the-full-condign-report/ (PDF: https://documents2.theblackvault.com/documents/ufos/projectcondignreport-full.pdf); https://en.wikipedia.org/wiki/Project_Condign",
+"text": "The Condign report was released into the public domain on 15 May 2006 following a September 2005 Freedom of Information Act request by Dr David Clarke of Sheffield Hallam University and Gary Anthony, and the full 465-page compilation is mirrored by The Black Vault.",
+"tier": 2
+}
+],
+"connections": [
+"Dr David Clarke (Sheffield Hallam University) and Gary Anthony - the FOIA requesters who forced the 15 May 2006 release and then fought the redactions through internal review, documented in TNA DEFE 24/2090/1.",
+"DI55 / DI(ST), Defence Intelligence Staff, Ministry of Defence - the UK organisational node that authored the report; the individual author's name is withheld under Section 40 throughout.",
+"SOYUZUFOSENTR (Inter-Industry Ufology Research Centre), the USSR Union of Scientific and Engineering Societies 'UFO' Commission (1989), and V.G. Azhazha - the Soviet institutional counterpart named in Chapter 4 paragraph 1, with the rights of an institute under the USSR Academy of Sciences.",
+"An unnamed CIA desk officer and DI51, both referenced in Volume 3 Chapter 4 page 3 paragraph 12 and both still redacted - the only explicit US intelligence linkage surfaced in the internal-review file.",
+"The Society for Scientific Exploration, cited in Chapter 4 paragraph 12 for its mid-1998 statement that UFO reports should be studied; the same organisation appears elsewhere on the board as a publishing venue for scientists who cannot place UAP work in mainstream journals.",
+"The Condon Report (University of Colorado, under US Air Force contract) - invoked by the requesters during internal review against the redaction of Volume 3 Chapter 4 paragraph 14.",
+"The plasma-stealth research line: Chapter 4 paragraph 3's \"20-30 scientists ... research for the prevention of air target detection\" ties Condign's Soviet chapter to the wider radar-cross-section and low-observables thread on the board.",
+"Volume 2 Working Paper No. 25, cross-referenced twice in Chapter 4 for physiological effects on humans in proximity to the phenomena - the UK analogue of the US anomalous-health-incident thread.",
+"University at Albany (university-at-albany): Project Condign is one of roughly twenty government studies catalogued in Knuth et al., \"The new science of Unidentified Aerospace-Undersea Phenomena (UAP)\", Progress in Aerospace Sciences 156, 101097 (2025)."
+],
+"denialPosture": "The MoD framed the whole exercise defensively: its own release note says the data \"was studied principally to ascertain whether there is any evidence of a threat to the UK, and secondly, should the opportunity arise, to identify any potential military technologies of interest\" - burying the exploitation objective in a subordinate clause. Volume 3 Chapter 3 paragraph 7 supplies the quotable disclaimer, \"there is no indication that craft of extra-terrestrial origin exist\", while the paragraphs enumerating the exploitation applications on the same and following pages remain blacked out under Section 26 two decades later.",
+"narrative": "The Condign report is usually reduced to a single soundbite - the plasma hypothesis - and Volume 3 is the volume that shows why that reduction is a mistake. Volume 1 carried the statistical analysis and the public-facing conclusions. Volume 2 carried the working papers. Volume 3 carried the material the study's author explicitly said \"could not be placed in the RESTRICTED Executive Summary\". Its own preface concedes the reason it is stamped SECRET is narrow and technical - it \"contains performance values of the UKADR radars\" - but then adds that the volume is \"also a convenient place-holder for several other related findings\" arising \"out of earlier DI55 interest in any reliable information connected with this topic and focusing upon the potential technologies involved and their possible future military uses.\" That is an intelligence organisation stating on paper that it had a standing interest in the technology question.\n\nChapter 3 is the exploitation chapter. Its first paragraph states the purpose without hedging: to identify \"any phenomena which could be robustly generated and provide a military advantage.\" What follows is redacted. Paragraph 2, \"Exotic Vehicles\", is remarkable for what a defence intelligence analyst was willing to commit to a classified page in 2000. It records that \"the possibility of some sort of exotic vehicle, either terrestrial or from space could not be ruled out until all available evidence had been examined\", that \"the possibility of technologies beyond the scope of human engineering and conception could not initially be ruled out\", and - critically - that had extra-terrestrial technology been proven, \"then (possibly) recommendations could be made as to the way ahead.\" It goes further, sketching what would be required: propulsion \"by the use of anti-matter, gravitational or torsion fields or of particle phenomena and fields or waves which are not currently known in science or technology\", and reported performance that \"appears to imply the negation of inertia\". The chapter's stated conclusion is negative - \"there is no indication that craft of extra-terrestrial origin exist\" - but the surrounding architecture is that of a reverse-engineering feasibility study, and the section headed POTENTIAL APPLICATIONS, which announces \"three possible related potential applications\", has its entire page body struck out under Section 26 and remains struck out today.\n\nChapter 4 is the foreign-programmes chapter, and it is where the board's Soviet thread anchors. Paragraph 1 states: \"It is clear that the Former Soviet Union has taken the study of UAPs seriously and that this may well be related to a programme of understanding and exploiting certain UAP-related natural phenomena, such as plasmas. A 'UFO' Commission was created under the USSR Union of Scientific and Engineering Societies in 1989, together in 1990 with an Inter-Industry Ufology Research Centre (SOYUZUFOSENTR) to co-ordinate records. This Centre had the rights of an Institute under the USSR Academy of Sciences, and was headed by V.G. AZAHAZHA (or AZHAZHA) an eminent researcher and former naval submariner.\" The paragraph goes on to record a ten-week school whose terms of reference were to study \"ufology as a science of unidentified flying objects and their inter-relations with the universe and, in particular, with the biotechnosphere of the earth\".\n\nThe chapter keeps naming things. Paragraph 2 identifies V.V. Alexandrov and cosmonaut Y.N. Glazov of the Cosmonaut Training Centre and the Scientific Production Association (Geophysics), and a supporting laboratory at Akhtubisk on the Volga. Paragraph 3, \"Plasma Research\", records that two Russian scientific papers summarised at Annex A appear to show \"20-30 scientists have pursued research for the prevention of air target detection\" - plasma stealth - and everything after that sentence is redacted under Section 26. Paragraph 5, \"Near Field Effects\", reports 1991 Russian soil sampling at alleged landing sites where \"in all cases a local field developed over a period of three hours\" and \"impairment of human senses were reportedly observed in every person studied who had been 'in the field'\". The DI55 analyst's own bracketed comment is the most telling line in the volume: \"It is possible, and confirmed from some other data that russian scientists may have discovered some new field types.\"\n\nThe Executive Summary makes the intelligence posture explicit. Under \"Foreign Military Interest\", paragraph 9 records that UAP \"are by no means confined to UK airspace\", that \"Other NATO nations, China, Russia and elsewhere frequently report the most extreme and puzzling incidents in the open press\", and that DI55 had no access to any other government's classified reports. The identities of the countries known \"to have at least one member of staff active in this area\" are withheld under Section 27 - the international-relations exemption, not the defence one. Paragraph 10 adds that \"Several governments have also been sufficiently concerned to set up Commissions and Institutes to examine the phenomena.\" The bullets on the following page state that Russian, Former Soviet Republic and Chinese authorities \"have made a co-ordinated effort to understand the UAP topic\", that \"Several aircraft have been destroyed and at least four pilots have been killed 'chasing UFOs'\", and that \"Russian investigators have measured (or at least detected) 'fields', which are reported to have caused human effects when they are located close to the phenomena.\"\n\nThe redaction fight that followed is itself part of the record. The MoD's internal-review correspondence, held at The National Archives as DEFE 24/2090/1 and digitised, shows Clarke and Anthony challenging specific Volume 3 withholdings paragraph by paragraph, including Chapter 4 page 3 paragraph 12, where the reviewer notes that \"information regarding DIS, the CIA desk officer and DI51 must remain redacted\" while conceding that the Society for Scientific Exploration statement in the same sentence was already public. A CIA desk officer appears in the UK's classified UAP chapter on foreign programmes, and his existence is still redacted. That is the shape of the concealment, drawn from the inside.",
+"openQuestions": [
+"What are the \"three possible related potential applications\" identified in Chapter 3 paragraph 8? The entire page body and the following page are still withheld under Section 26.",
+"Which countries are named in Executive Summary paragraph 9 as having staff active on UAP? Withheld under Section 27, meaning disclosure was judged to damage international relations rather than defence.",
+"Who is the CIA desk officer referenced in Volume 3 Chapter 4 page 3 paragraph 12, and what was DI51's role? Both remain redacted after internal review.",
+"The released 48-page Volume 3 file examined here ends mid-Chapter 4; the contents page lists further sections on Former Soviet Union Aircraft Incidents, an FSU/Russian Experimental Vehicle, and OTHER NATIONAL ACTIVITY covering CHINA, SPAIN and USA & CANADA. The USA & Canada section was not reached in this pass and its contents are unverified here.",
+"What are the two Russian scientific papers summarised at Volume 3 Annex A, and are they identifiable in the open literature?",
+"The Volume 3 preface is dated February 2000 while the report as a whole is commonly described as completed in December 2000; the discrepancy between the volume's own date stamp and the cited completion date is unresolved.",
+"Condign's stated conclusion is that no extra-terrestrial craft exist, yet Chapter 3 is structured as a feasibility study for exploiting effects the same chapter says cannot be replicated. Whether that structure reflects a genuine analytic dead end or a compartment the author could not write into an at-most-SECRET volume is not settled by the released text."
+],
+"roles": [
+"research",
+"concealment",
+"disclosure",
+"oversight"
+],
+"whatItIs": "Volume 3 of the UK Ministry of Defence Defence Intelligence Staff study \"Unidentified Aerial Phenomena in the UK Air Defence Region\", issued as Scientific & Technical Memorandum 55/2/00 by DI55 within DI(ST) from the Old War Office Building, Whitehall, and titled on its own contents page \"MISCELLANEOUS RELATED STUDIES\". Its preface is dated February 2000 and states plainly: \"This is the third volume of a three-part report on the information held in DI55 on the subject of UAP.\" Every page is header- and footer-stamped UK SECRET / UK EYES ONLY, and the volume was released to the public on 15 May 2006 under the Freedom of Information Act 2000 with redactions under sections 26, 27 and 40.",
+"whyImplicated": "Volume 3 is the volume where a NATO ally's defence intelligence staff wrote down, in a classified assessment, the two things the United States has spent seventy years insisting do not exist: a chapter titled \"POTENTIAL FOR EXPLOITATION OF UAP-ASSOCIATED EFFECTS\" and a chapter titled \"UAP WORK IN OTHER COUNTRIES\". Chapter 3 opens by stating that one of the reasons for analysing UAP reports at all \"was that of identifying any phenomena which could be robustly generated and provide a military advantage\" - and the fourteen lines that follow that sentence are blacked out under Section 26 (Defence), as is the entire body of the page listing what DI55 called \"three possible related potential applications\". Chapter 4 then catalogues what other states were doing, naming Russian institutions, scientists, cosmonauts, laboratories and a research centre by name, and confirming in the Executive Summary that \"DI55 does not have access to any other Government's classified reports, as there is no formal intelligence exchange on this topic.\" That last sentence is the load-bearing one for the board: the UK's own defence intelligence organisation, an ally inside the closest intelligence-sharing arrangement on earth, records that it was locked out of everyone else's UAP files - including, by necessary implication, Washington's. And the countries DI55 named as having staff active on the subject were redacted not under Defence but under Section 27, International Relations."
+},
+"entityInfo": null,
+"era": "2",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "doc-condign-vol3",
+"l0": true,
+"label": "Project Condign Volume 3 - Potential for Exploitation of UAP-Associated Effects / UAP Work in Other Countries",
+"locLabel": null,
+"members": [
+{
+"cls": "event",
+"id": "belgian-af-f16-intercept-1990",
+"label": "Belgian Air Force F-16 intercept and the 1989-90 Belgian wave",
+"tier": "B"
+},
+{
+"cls": "institution",
+"id": "soyuzufotsentr",
+"label": "SOYUZUFOTSENTR - USSR Inter-Industry Ufology Research Centre",
+"tier": "C"
+},
+{
+"cls": "document",
+"id": "spain-mod-ufo-files",
+"label": "Spanish Ministry of Defence UFO file declassification",
+"tier": "C"
+},
+{
+"cls": "institution",
+"id": "uk-mod",
+"label": "United Kingdom Ministry of Defence",
+"tier": "B"
+},
+{
+"cls": "person",
+"id": "vladimir-azhazha",
+"label": "Vladimir Georgievich Azhazha",
+"tier": "C"
+}
+],
+"short": "Project Condign Volume 3 - Potential for Exploitation of UAP-Associated Effects / UAP Work in Other Countries",
+"sources": [
+{
+"date": "2006-05-15",
+"name": "Project Condign Volume 3 OCR text",
+"url": "https://archive.org/download/condign-vol-2-1-258/Condign_Vol_3_1-48_djvu.txt"
+},
+{
+"date": "2006-05-15",
+"name": "Project Condign - Volumes 1-3 (Internet Archive)",
+"url": "https://archive.org/details/condign-vol-2-1-258"
+}
+],
+"sub": "UK SECRET UK EYES ONLY volume; the international-liaison chapter",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 175 of 1027, score 46). 7 connections, 1 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D3.",
+"timeline": []
+}

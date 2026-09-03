@@ -1,0 +1,205 @@
+{
+"A": 3,
+"C": 2,
+"D": 1,
+"band": null,
+"claims": [
+{
+"source": "Air Force Regulation 80-17, 'Research and Development - UNIDENTIFIED FLYING OBJECTS (UFO)', Department of the Air Force, 19 September 1966, https://nicap.org/afr80-17.htm",
+"text": "The Blue Book effort was assigned to FTD by regulation: 'The Air Force Systems Command will support the program with current resources within the Foreign Technology Division (FTD) at Wright-Patterson Air Force Base, Ohio, to continue Blue Book effort.'",
+"tier": 1
+},
+{
+"source": "Air Force Regulation 80-17, 19 September 1966, https://nicap.org/afr80-17.htm",
+"text": "FTD, not a base, was the terminal analytical office: 'FTD will: (1) Analyze and evaluate all information and evidence reported to bases on those UFOs which are not identified at the base level', and 'FTD, Wright-Patterson AFB, Ohio, will prepare a final case report on each sighting reported to it.'",
+"tier": 1
+},
+{
+"source": "Special Report of the USAF Scientific Advisory Board Ad Hoc Committee to Review Project 'Blue Book', March 1966, printed as Appendix A of the Condon Report, https://files.ncas.org/condon/text/appndx-a.htm",
+"text": "The USAF Scientific Advisory Board's ad hoc committee of March 1966 identified FTD as 'the AFSC Foreign Technology Division, which is the cognizant Air Force agency that collates information on UFO sightings and monitors investigations of individual cases', and recommended that it 'should continue to exercise its presently assigned responsibilities concerning UFOs.'",
+"tier": 1
+},
+{
+"source": "Special Report of the USAF Scientific Advisory Board Ad Hoc Committee to Review Project 'Blue Book', March 1966, Condon Report Appendix A, https://files.ncas.org/condon/text/appndx-a.htm",
+"text": "The same 1966 committee recorded the resources behind the whole Air Force UFO programme as 'only one officer, a sergeant, and secretary'.",
+"tier": 1
+},
+{
+"source": "'AEROSPACE TECHNICAL INTELLIGENCE CENTER', Department of the Air Force Organizational Histories compilation, created 10 December 2025, sourced to the Air Force Historical Research Agency, https://www.usafunithistory.com/PDF/A-E/AEROSPACE%20TECHNICAL%20INTELLIGENCE%20CENTER.pdf",
+"text": "The Air Force organizational-history lineage records a discontinuation and a new constitution rather than a renaming: 'Air Technical Intelligence Center established 21 May 1951; redesignated Aerospace Technical Intelligence Center, 21 September 1959; discontinued 1 July 1961. Foreign Technology Division constituted, activated, and organized 1 July 1961', with the mission and resources absorbed by FTD on that date. Tier 2 because the compilation carrying this text is a private site citing the Air Force Historical Research Agency, and AFHRA's own page returns HTTP 403 from this environment.",
+"tier": 2
+}
+],
+"cls": "institution",
+"cluster": "ic",
+"connections": [
+{
+"claimTier": 2,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "ATIC discontinued 1 July 1961; FTD constituted the same day and absorbed its mission",
+"id": "atic",
+"l0": true,
+"label": "Air Technical Intelligence Center",
+"note": "The lineage record says ATIC was redesignated Aerospace Technical Intelligence Center in 1959 and discontinued on 1 July 1961, with the mission and resources absorbed by the newly constituted Foreign Technology Division, so this is a succession rather than the renaming the board's prose describes.",
+"sources": [
+{
+"date": "2025-12-10",
+"name": "Aerospace Technical Intelligence Center, DAF Organizational Histories compilation sourced to AFHRA",
+"url": "https://www.usafunithistory.com/PDF/A-E/AEROSPACE%20TECHNICAL%20INTELLIGENCE%20CENTER.pdf"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "location",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "Stationed at Wright-Patterson AFB, Ohio",
+"id": "l-wright-patterson",
+"l0": false,
+"label": "Wright-Patterson Air Force Base, Ohio",
+"note": "AFR 80-17 names the station in the assignment itself: 'the Foreign Technology Division (FTD) at Wright-Patterson Air Force Base, Ohio'.",
+"sources": [
+{
+"date": "1966-09-19",
+"name": "AFR 80-17, 19 September 1966",
+"url": "https://nicap.org/afr80-17.htm"
+}
+],
+"tier": "A",
+"type": "geographic"
+},
+{
+"claimTier": 2,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "Same Wright-Patterson lineage; NASIC is the later name",
+"id": "nasic",
+"l0": false,
+"label": "National Air and Space Intelligence Center",
+"note": "The organizational-history compilation carries the FTD to NASIC lineage at the same station; no official Air Force page could be opened from here to raise this above Tier 2.",
+"sources": [
+{
+"date": "2025-12-10",
+"name": "Aerospace Technical Intelligence Center, DAF Organizational Histories compilation sourced to AFHRA",
+"url": "https://www.usafunithistory.com/PDF/A-E/AEROSPACE%20TECHNICAL%20INTELLIGENCE%20CENTER.pdf"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "Held the Blue Book effort by regulation from 19 September 1966",
+"id": "project-blue-book",
+"l0": true,
+"label": "Project Blue Book",
+"note": "AFR 80-17 assigns the Blue Book effort to FTD at Wright-Patterson, requires FTD to analyse every report not identified at base level, and requires FTD to write the final case report on each sighting.",
+"sources": [
+{
+"date": "1966-09-19",
+"name": "AFR 80-17, 19 September 1966",
+"url": "https://nicap.org/afr80-17.htm"
+}
+],
+"tier": "A",
+"type": "programmatic"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "Air Force Systems Command organisation under the DCS/Research and Development for the UFO programme",
+"id": "usaf",
+"l0": true,
+"label": "United States Air Force",
+"note": "AFR 80-17 makes the Deputy Chief of Staff, Research and Development responsible for the overall programme and Air Force Systems Command responsible for supporting it through FTD.",
+"sources": [
+{
+"date": "1966-09-19",
+"name": "AFR 80-17, 19 September 1966",
+"url": "https://nicap.org/afr80-17.htm"
+}
+],
+"tier": "A",
+"type": "institutional"
+}
+],
+"coords": null,
+"dateEnd": "1991",
+"dateStart": "1961-07-01",
+"deg": 5,
+"denials": [],
+"desc": "The Foreign Technology Division was the Air Force's foreign aerospace materiel exploitation centre at Wright-Patterson AFB, sitting between the Air Technical Intelligence Center and the National Air and Space Intelligence Center in the same lineage and at the same station. Air Force Regulation 80-17 of 19 September 1966 assigned it the Blue Book effort in its own name: FTD analysed and evaluated every report a base could not identify, and wrote the final case report on each. The USAF Scientific Advisory Board's ad hoc review committee of March 1966 called it the cognizant Air Force agency for UFO sightings and recommended it keep the job, while recording that the whole programme ran on one officer, a sergeant and a secretary. The board carries this organisation in prose twenty-one times and has never had a node for it.",
+"domains": [
+"area52-2026-09-02"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "foreign-technology-division",
+"l0": false,
+"label": "Foreign Technology Division, Wright-Patterson AFB",
+"locLabel": null,
+"members": null,
+"short": "Foreign Technology Division, Wright-Patterson AFB",
+"sources": [
+{
+"date": "1966-09-19",
+"name": "Air Force Regulation 80-17, Unidentified Flying Objects (UFO), 19 September 1966",
+"url": "https://nicap.org/afr80-17.htm"
+},
+{
+"date": "1966-03-01",
+"name": "Special Report of the USAF Scientific Advisory Board Ad Hoc Committee to Review Project 'Blue Book', March 1966 (Condon Report Appendix A)",
+"url": "https://files.ncas.org/condon/text/appndx-a.htm"
+},
+{
+"date": "2025-12-10",
+"name": "Aerospace Technical Intelligence Center, Department of the Air Force Organizational Histories compilation (private site, sourced to AFHRA)",
+"url": "https://www.usafunithistory.com/PDF/A-E/AEROSPACE%20TECHNICAL%20INTELLIGENCE%20CENTER.pdf"
+}
+],
+"sub": "Air Force Systems Command foreign materiel exploitation centre, 1961-1991; the office that held Project Blue Book",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 233 of 1027, score 41). 5 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A3/D1.",
+"timeline": [
+{
+"date": "1961-07-01",
+"id": "tl-1961-07-01-atic-discontinued-ftd-constituted",
+"label": "ATIC is discontinued and the Foreign Technology Division is constituted the same day",
+"precision": "day",
+"strand": "program",
+"text": "The Air Force organizational-history record gives a discontinuation and a new constitution rather than a renaming: 'Air Technical Intelligence Center established 21 May 1951; redesignated Aerospace Technical Intelligence Center, 21 September 1959; discontinued 1 July 1961. Foreign Technology Division constituted, activated, and organized 1 July 1961', with the mission and resources absorbed by FTD on that date. The board's prose in more than one node says ATIC 'became' FTD; the record calls it a discontinuation and an absorption. Carried at Tier 2 because the compilation is a private site citing the Air Force Historical Research Agency, whose own pages return 403 to this environment.",
+"tier": "C"
+},
+{
+"date": "1966-09-19",
+"id": "tl-1966-09-19-afr-80-17",
+"label": "AFR 80-17 assigns the Blue Book effort to the Foreign Technology Division by name",
+"precision": "day",
+"strand": "program",
+"text": "Air Force Regulation 80-17 provides that 'The Air Force Systems Command will support the program with current resources within the Foreign Technology Division (FTD) at Wright-Patterson Air Force Base, Ohio, to continue Blue Book effort', requires FTD to 'Analyze and evaluate all information and evidence reported to bases on those UFOs which are not identified at the base level', and requires FTD to 'prepare a final case report on each sighting reported to it'. Six months earlier the USAF Scientific Advisory Board's ad hoc committee had recorded the resources behind the whole programme as 'only one officer, a sergeant, and secretary'.",
+"tier": "B"
+}
+]
+}

@@ -1,0 +1,201 @@
+{
+"A": 2,
+"C": 1,
+"D": 2,
+"band": null,
+"claims": [
+{
+"source": "Los Alamos National Laboratory, 18 November 2024",
+"text": "A conference was organised at Los Alamos on 16 February 1949 attended by Norris Bradbury, Frederick Reines and Edward Teller with FBI, AEC and US military representatives; the National Security Research Center holds the conference minutes.",
+"tier": 1
+},
+{
+"source": "Los Alamos National Laboratory, 18 November 2024",
+"text": "The conference ultimately dismissed the notion that the green fireballs were a significant national security threat.",
+"tier": 1
+},
+{
+"source": "Contemporaneous Air Force records; FBI file 62-HQ-83894 material released in the Department of War PURSUE Release 01",
+"text": "In December 1949 Project Twinkle, a network of green fireball observation and photographic stations, was established but never fully implemented.",
+"tier": 2
+}
+],
+"cls": "event",
+"cluster": "other",
+"connections": [
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "1949-02",
+"direction": "in",
+"edgeLabel": "AEC laboratories convened the February 1949 green fireball conference",
+"id": "doe",
+"l0": true,
+"label": "United States Department of Energy",
+"note": "The green fireball events centred on the Los Alamos and Sandia complexes and produced a conference and the subsequent Project TWINKLE instrumented observation effort. Attested by the FBI and Air Force file material released through the 2026 PURSUE tranches.",
+"sources": [
+{
+"date": "2024-11-18",
+"name": "Los Alamos National Laboratory - FOIA requests at the National Security Research Center",
+"url": "https://www.lanl.gov/media/publications/the-vault/1124-foia-requests-at-the-national-security-research-center"
+}
+],
+"tier": "A",
+"type": "programmatic"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "1949",
+"dateStart": "1949",
+"direction": "in",
+"edgeLabel": "Attended the 16 February 1949 conference",
+"id": "edward-teller",
+"l0": false,
+"label": "Edward Teller",
+"note": "Attendance confirmed by LANL alongside Norris Bradbury and Frederick Reines, with FBI, AEC and military representatives present.",
+"sources": [
+{
+"date": "2024-11-18",
+"name": "LANL National Security Research Center",
+"url": "https://www.lanl.gov/media/publications/the-vault/1124-foia-requests-at-the-national-security-research-center"
+}
+],
+"tier": "C",
+"type": "witness-chain"
+},
+{
+"claimTier": 2,
+"cls": "location",
+"dateEnd": "1949-02-16",
+"dateStart": "1949-02-16",
+"direction": "out",
+"edgeLabel": "The green fireballs conference was convened at Los Alamos",
+"id": "l-los-alamos",
+"l0": false,
+"label": "Los Alamos, New Mexico",
+"note": "Edward Teller and Lincoln LaPaz were among the attendees; the laboratory's own account records that the phenomenon was ultimately dismissed as a national security threat.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Wikipedia - White Sands Missile Range",
+"url": "https://en.wikipedia.org/wiki/White_Sands_Missile_Range"
+}
+],
+"tier": "B",
+"type": "research"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "1949",
+"direction": "out",
+"edgeLabel": "Held at Los Alamos; LANL's National Security Research Center holds the minutes",
+"id": "lanl",
+"l0": false,
+"label": "Los Alamos National Laboratory",
+"note": "LANL confirms the 16 February 1949 conference and its custody of the minutes in its own published account.",
+"sources": [
+{
+"date": "2024-11-18",
+"name": "LANL National Security Research Center",
+"url": "https://www.lanl.gov/media/publications/the-vault/1124-foia-requests-at-the-national-security-research-center"
+}
+],
+"tier": "B",
+"type": "custody"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "1949",
+"dateStart": "1949",
+"direction": "in",
+"edgeLabel": "Brought in by Kirtland intelligence officers; his assessment drove the conference",
+"id": "lincoln-lapaz",
+"l0": false,
+"label": "Lincoln LaPaz",
+"note": "LaPaz concluded the fireballs did not behave like meteors despite superficially resembling them.",
+"sources": [
+{
+"date": "2024-11-18",
+"name": "LANL National Security Research Center",
+"url": "https://www.lanl.gov/media/publications/the-vault/1124-foia-requests-at-the-national-security-research-center"
+}
+],
+"tier": "B",
+"type": "witness-chain"
+}
+],
+"coords": null,
+"dateEnd": "1949",
+"dateStart": "1949",
+"deg": 5,
+"denials": [],
+"desc": "The first documented scientific conference convened by the United States government on unexplained aerial objects over its own nuclear installations. Held at Los Alamos Scientific Laboratory on 16 February 1949 and attended by Laboratory Director Norris Bradbury, Edward Teller, Frederick Reines and representatives of the FBI, the Atomic Energy Commission and the US military, it addressed the green fireballs that had been appearing over Los Alamos, Sandia, Kirtland and the surrounding weapons complex since December 1948. Lincoln LaPaz of the University of New Mexico's Institute of Meteoritics had been brought in by Kirtland intelligence officers because the objects superficially resembled meteors; his assessment was that they did not behave like them. Los Alamos National Laboratory confirms the conference took place and that its National Security Research Center holds the minutes. The conclusion recorded was that the fireballs were ultimately dismissed as a national security threat - which did not stop the Air Force establishing Project Twinkle ten months later to instrument them. Newly declassified records were publicised in July 2026. The jurisdictional fact is the durable one: this was handled inside the AEC's contractor-operated laboratory complex, not by the Air Force's public UFO project at Wright-Patterson, and the record ended up in a contractor archive rather than in federal custody.",
+"domains": [
+"_rs-archive-mirror",
+"ffrdcs"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "green-fireballs-conference-1949",
+"l0": false,
+"label": "Los Alamos Green Fireballs Conference",
+"locLabel": null,
+"members": null,
+"short": "Los Alamos Green Fireballs Conference",
+"sources": [
+{
+"date": "2026-08-06",
+"name": "Archived: Department of War PURSUE Release 01 - FBI file 62-HQ-83894 section 6 (Project Twinkle references) (Wayback 2026-08-06)",
+"url": "https://web.archive.org/web/20260806084012/https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_6.pdf"
+},
+{
+"date": "2024-11-18",
+"name": "Los Alamos National Laboratory - FOIA requests at the National Security Research Center",
+"url": "https://www.lanl.gov/media/publications/the-vault/1124-foia-requests-at-the-national-security-research-center"
+},
+{
+"date": "2026-05-08",
+"name": "Department of War PURSUE Release 01 - FBI file 62-HQ-83894 section 6 (Project Twinkle references)",
+"url": "https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_6.pdf"
+},
+{
+"date": "2026-07-10",
+"name": "Newsweek - UFO Files Reveal 1949 Los Alamos 'Green Fireball' Mystery",
+"url": "https://www.newsweek.com/ufo-files-1949-los-alamos-green-fireball-mystery-declassified-department-of-war-12181696"
+}
+],
+"sub": "16 February 1949, Los Alamos Scientific Laboratory, New Mexico",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 260 of 1027, score 39). 5 connections, 4 of them custody/witness/funding/programmatic. Axes C1/A2/D2.",
+"timeline": [
+{
+"date": "1949-02-16",
+"id": "tl-ffrdc-1949-lanl",
+"label": "Los Alamos green fireballs conference",
+"precision": "day",
+"strand": "program",
+"text": "Laboratory Director Norris Bradbury, Edward Teller and Frederick Reines meet at Los Alamos with FBI, AEC and military representatives on the green fireballs over the New Mexico nuclear complex. LANL still holds the minutes.",
+"tier": "A"
+},
+{
+"date": "2026-07-10",
+"id": "tl-ffrdc-2026-fireballs-declass",
+"label": "1949 Los Alamos green fireballs records publicised",
+"precision": "day",
+"strand": "program",
+"text": "Newly declassified records on the February 1949 conference reach mainstream reporting, confirming through federal release what LANL had already published on its own site in 2024.",
+"tier": "B"
+}
+]
+}

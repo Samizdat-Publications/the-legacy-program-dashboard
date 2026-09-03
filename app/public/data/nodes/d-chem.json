@@ -1,0 +1,103 @@
+{
+"A": 2,
+"C": 2,
+"D": 2,
+"band": null,
+"claims": [
+{
+"source": "Chemical Geology, doi:10.1016/j.chemgeo.2024.122415",
+"text": "Loeb, Jacobsen, Tagle and colleagues published 'Chemical classification of spherules recovered from the Pacific Ocean site of the CNEOS 2014-01-08 (IM1) bolide' in Chemical Geology in December 2024.",
+"tier": 1
+},
+{
+"source": "Chemical Geology, doi:10.1016/j.chemgeo.2025.122627",
+"text": "Hyung, Cherston, Jacobsen and Loeb published an investigation of the relationship between morphology and chemistry of D-type spherules in Chemical Geology in March 2025.",
+"tier": 1
+},
+{
+"source": "AARO Aluminum Materials Analysis Supplement",
+"text": "AARO's January 2026 aluminium analysis found composition matching Aluminum Association reference alloys 369.1 and A413.1, a conventional result.",
+"tier": 1
+}
+],
+"cls": "domain",
+"cluster": "other",
+"connections": [
+{
+"claimTier": 1,
+"cls": "domain",
+"dateEnd": null,
+"dateStart": "2022-01-01",
+"direction": "in",
+"edgeLabel": "Isotopics is the falsifiable test",
+"id": "d-materials",
+"l0": false,
+"label": "Materials and custody analysis",
+"note": "The Nolan-Vallee methodology paper specifies isotope ratio measurement as the discriminating test; the chemistry domain is where that test is run.",
+"sources": [
+{
+"date": "2022-01-01",
+"name": "Nolan, Vallee, Jiang & Lemke, Progress in Aerospace Sciences 128:100788",
+"url": "https://doi.org/10.1016/j.paerosci.2021.100788"
+}
+],
+"tier": "B",
+"type": "research"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "1957-09-14",
+"deg": 1,
+"denials": [],
+"desc": "Chemistry is the discipline that would deliver the verdict, and it is also the discipline most easily destroyed by a broken chain of custody. Isotope ratio measurement by secondary ion mass spectrometry or thermal ionisation mass spectrometry can distinguish terrestrial from non-terrestrial origin at high confidence for many elements - the technique is routine in cosmochemistry, where meteoritic material is identified by exactly this signature. The Ubatuba magnesium fragments, examined since the 1950s, are the field's oldest test case and remain unresolved because provenance was never established. The strongest modern work runs through Avi Loeb's group, which published elemental and isotopic classification of spherules recovered from the Pacific site of the CNEOS 2014-01-08 bolide in Chemical Geology in December 2024, followed in March 2025 by a study relating the morphology and chemistry of D-type spherules - a demonstration that the analytical approach works and that its conclusions are contestable in the open literature. The dual-use route into classified work runs through the national laboratories: the same mass spectrometry capability underpins nuclear forensics, where results are Restricted Data from the moment they are produced. Scoring high on this domain means an entity performed, commissioned or controlled compositional analysis.",
+"domains": [
+"_rs-archive-mirror",
+"w2-taxonomy"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "d-chem",
+"l0": false,
+"label": "Chemistry & Isotopics",
+"locLabel": null,
+"members": null,
+"short": "Chemistry & Isotopics",
+"sources": [
+{
+"date": "2026-05-08",
+"name": "Archived: AARO - Aluminum Materials Analysis Supplement (Jan 2026) (Wayback 2026-05-08)",
+"url": "https://web.archive.org/web/20260508180257/https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Aluminum_Materials_Analysis_Supplement_Jan2026.pdf"
+},
+{
+"date": "2024-12-01",
+"name": "Loeb, Jacobsen, Tagle et al., Chemical Geology",
+"url": "https://doi.org/10.1016/j.chemgeo.2024.122415"
+},
+{
+"date": "2025-03-01",
+"name": "Hyung, Cherston, Jacobsen & Loeb, Chemical Geology",
+"url": "https://doi.org/10.1016/j.chemgeo.2025.122627"
+},
+{
+"date": "2022-01-01",
+"name": "Nolan, Vallee, Jiang & Lemke, Progress in Aerospace Sciences 128:100788",
+"url": "https://doi.org/10.1016/j.paerosci.2021.100788"
+},
+{
+"date": "2026-01-01",
+"name": "AARO - Aluminum Materials Analysis Supplement (Jan 2026)",
+"url": "https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Aluminum_Materials_Analysis_Supplement_Jan2026.pdf"
+}
+],
+"sub": "Technical domain - elemental composition, isotope ratios and the chain of custody around a sample",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 528 of 1027, score 28). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A2/D2.",
+"timeline": []
+}

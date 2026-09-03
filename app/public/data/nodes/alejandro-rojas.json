@@ -1,0 +1,97 @@
+{
+"A": 0,
+"C": 0,
+"D": 2,
+"affiliations": [
+"Enigma Labs, consultant",
+"Open Minds / Debrief contributor"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "2026-05-14",
+"event": "Publishes assessment of missing metadata fields in PURSUE Release 01",
+"precision": "day"
+}
+],
+"claims": [
+{
+"source": "Alejandro Rojas to DefenseScoop, 14 May 2026",
+"text": "'Although there is a lot of information here, there is little context. Case summaries without coordinates, sensor parameters, or altitude data make independent analysis very difficult.'",
+"tier": 2
+}
+],
+"cls": "person",
+"cluster": "research",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 2,
+"cls": "program",
+"dateEnd": "2026",
+"dateStart": "2026",
+"direction": "out",
+"edgeLabel": "Catalogued the missing fields in the case summaries",
+"id": "pursue-releases",
+"l0": true,
+"label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters",
+"note": "Rojas identified absent coordinates, sensor parameters and altitude data as the specific omissions that block independent kinematic analysis.",
+"sources": [
+{
+"date": "2026-05-14",
+"name": "DefenseScoop - 'Data alone is not disclosure': UAP research community reacts to Trump's first PURSUE file drop",
+"url": "https://defensescoop.com/2026/05/14/uap-trump-first-pursue-ufo-file-drop/"
+}
+],
+"tier": "A",
+"type": "investigative"
+}
+],
+"date": "2026-05-14",
+"dateEnd": null,
+"dateStart": "2026-05-14",
+"deg": 1,
+"denials": [],
+"domains": [
+"releases-2023-2026"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "alejandro-rojas",
+"instId": "enigma-labs",
+"l0": false,
+"label": "Alejandro Rojas",
+"loc": "Phoenix, AZ",
+"locId": "l-dc",
+"members": null,
+"narrative": "Rojas is the analyst who catalogued precisely which fields were missing from the PURSUE case summaries. His assessment of Release 01: 'Although there is a lot of information here, there is little context. Case summaries without coordinates, sensor parameters, or altitude data make independent analysis very difficult.' Coordinates, sensor parameters and altitude are the three inputs that convert a video of a moving light into a kinematic claim; without them, no acceleration, no speed and no size can be derived, and every file in the tranche remains a picture rather than a measurement. Rojas works with Enigma Labs, one of the civilian platforms attempting to build a structured UAP dataset - which is the reason his objection is a data-engineering objection rather than a rhetorical one. His critique and Gallaudet's converge from different directions on the same finding: the release preserved the imagery and stripped the physics.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Alejandro Rojas",
+"sources": [
+{
+"date": "2026-05-14",
+"name": "DefenseScoop - 'Data alone is not disclosure': UAP research community reacts to Trump's first PURSUE file drop",
+"url": "https://defensescoop.com/2026/05/14/uap-trump-first-pursue-ufo-file-drop/"
+},
+{
+"date": "2026-05-08",
+"name": "Department of War, Presidential Unsealing and Reporting System for UAP Encounters (PURSUE) -- the release Rojas is assessing. 'The first tranche was released on May 8, 2026.'",
+"url": "https://www.war.gov/UFO/"
+}
+],
+"status": "active",
+"sub": "Enigma Labs consultant; UAP data analyst",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 1017 of 1027, score 7). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D2.",
+"timeline": [],
+"unexplainedResidual": null,
+"unverified": []
+}

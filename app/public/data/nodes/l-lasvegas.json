@@ -1,0 +1,185 @@
+{
+"A": 2,
+"C": 2,
+"D": 2,
+"band": null,
+"claims": [
+{
+"source": "Inference from reference counts in the research corpus",
+"text": "l-lasvegas and l-las-vegas denote the same city and should be merged, with l-las-vegas retained as canonical. Reasoning: reference counts across the wave-1 corpus.",
+"tier": 3
+}
+],
+"cls": "location",
+"cluster": "contractor",
+"connections": [
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "AAWSAP contract performed from Las Vegas",
+"id": "aawsap",
+"l0": true,
+"label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)",
+"note": "AAWSAP was performed by BAASS out of Robert Bigelow's Nevada base rather than from Washington, which is what puts this programme on a map of southern Nevada at all. Two limits keep it at tier 2. The federal award system places BIGELOW AEROSPACE LLC at North Las Vegas - a separate municipality from Las Vegas - on NASA contracts, not on the DIA contract; and searches of USASpending for 'Bigelow Aerospace Advanced Space Studies' and for 'BAASS' both return nothing, so the AAWSAP contract is not in the public award record under either name.",
+"sources": [
+{
+"date": "2026-08-25",
+"name": "USASpending.gov federal award records for BIGELOW AEROSPACE LLC (NNH13CH31C, NNH15CN82C), recipient location NORTH LAS VEGAS, NV",
+"url": "https://www.usaspending.gov/search"
+},
+{
+"date": "2026-08-25",
+"name": "Bigelow Aerospace, Contact (1899 W. Brooks Ave., North Las Vegas, NV 89032)",
+"url": "https://bigelowaerospace.com/pages/contact/"
+},
+{
+"date": null,
+"name": "https://www.8newsnow.com/news/i-team-documents-prove-secret-ufo-study-based-in-nevada/",
+"url": "https://www.8newsnow.com/news/i-team-documents-prove-secret-ufo-study-based-in-nevada/"
+}
+],
+"tier": "A",
+"type": "geographic"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "BAASS base of operations",
+"id": "baass",
+"l0": true,
+"label": "Bigelow Aerospace Advanced Space Studies (BAASS), LLC",
+"note": "Bigelow Aerospace gives its own address as 1899 W. Brooks Ave., North Las Vegas, Nevada 89032, and Bigelow Aerospace Advanced Space Studies operated from that base. Two caveats keep this at tier 2: the address is North Las Vegas rather than Las Vegas proper, and the company page does not name BAASS, so it fixes the Bigelow location rather than the contracting entity's.",
+"sources": [
+{
+"date": "2026-08-25",
+"name": "Bigelow Aerospace, Contact (1899 W. Brooks Ave., North Las Vegas, NV 89032)",
+"url": "https://bigelowaerospace.com/pages/contact/"
+},
+{
+"date": null,
+"name": "https://www.8newsnow.com/news/i-team-documents-prove-secret-ufo-study-based-in-nevada/",
+"url": "https://www.8newsnow.com/news/i-team-documents-prove-secret-ufo-study-based-in-nevada/"
+},
+{
+"date": null,
+"name": "https://www.theblackvault.com/casefiles/to-the-stars-academy-of-arts-science-tom-delonge-and-the-secret-dod-ufo-research-program/",
+"url": "https://www.theblackvault.com/casefiles/to-the-stars-academy-of-arts-science-tom-delonge-and-the-secret-dod-ufo-research-program/"
+}
+],
+"tier": "A",
+"type": "geographic"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "Reid's Nevada base; earmark performed by a Las Vegas constituent",
+"id": "harry-reid",
+"l0": false,
+"label": "Harry M. Reid",
+"note": "This is not merely a home-town link. AARO's official history names 'Senate Majority Leader Harry Reid (D-NV)' as having directed the appropriation, and the federal award record places Bigelow's company in Nevada; the money Reid secured was performed by a company in the state he represented. Tier 2 because the constituent relationship is the inference joining those two documented facts, not something either document states.",
+"sources": [
+{
+"date": "2024-03-08",
+"name": "AARO, Historical Record Report Volume 1, 8 March 2024",
+"url": "https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf"
+},
+{
+"date": "2026-08-25",
+"name": "USASpending.gov federal award records for BIGELOW AEROSPACE LLC, recipient location NORTH LAS VEGAS, NV",
+"url": "https://www.usaspending.gov/search"
+},
+{
+"date": null,
+"name": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237659/",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237659/"
+},
+{
+"date": null,
+"name": "https://www.theblackvault.com/casefiles/to-the-stars-academy-of-arts-science-tom-delonge-and-the-secret-dod-ufo-research-program/",
+"url": "https://www.theblackvault.com/casefiles/to-the-stars-academy-of-arts-science-tom-delonge-and-the-secret-dod-ufo-research-program/"
+}
+],
+"tier": "A",
+"type": "geographic"
+},
+{
+"claimTier": 2,
+"cls": "program",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "NIDS headquarters 1995-2004",
+"id": "nids",
+"l0": true,
+"label": "National Institute for Discovery Science (NIDS)",
+"note": "The National Institute for Discovery Science was established in 1995 by Robert T. Bigelow, described in contemporary reporting as a Las Vegas-based millionaire philanthropist and real estate developer, and it investigated both aerial phenomena and the survival of consciousness after death, running a reporting hotline and commissioning veterinary necropsies on animal-mutilation reports. It is the direct institutional predecessor of the BAASS staffing that later executed AAWSAP. Tier 2: the source places Bigelow in Las Vegas rather than stating NIDS's own registered address.",
+"sources": [
+{
+"date": "1998-08-10",
+"name": "Deseret News, 'Private UFO study takes a public turn', 10 August 1998",
+"url": "https://www.deseret.com/1998/8/10/19395824/private-ufo-study-takes-a-public-turn"
+},
+{
+"date": null,
+"name": "https://en.wikipedia.org/wiki/National_Institute_for_Discovery_Science",
+"url": "https://en.wikipedia.org/wiki/National_Institute_for_Discovery_Science"
+},
+{
+"date": null,
+"name": "https://www.8newsnow.com/mystery-wire/las-vegas-group-set-the-bar-for-ufo-investigations-30-years-ago/",
+"url": "https://www.8newsnow.com/mystery-wire/las-vegas-group-set-the-bar-for-ufo-investigations-30-years-ago/"
+}
+],
+"tier": "A",
+"type": "geographic"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": null,
+"deg": 4,
+"denials": [],
+"desc": "Alias identifier for Las Vegas, Nevada, which entered the corpus in two spellings. The place itself is materially important to this board: it is the headquarters city of Bigelow Aerospace and of Bigelow Aerospace Advanced Space Studies, the entity that won the DIA AAWSAP contract in 2008; the home of the National Institute for Discovery Science; the base from which journalist George Knapp reported the Bob Lazar story in 1989; and the nearest metropolitan area to the Nevada Test and Training Range. The merge pass should collapse this into l-las-vegas.",
+"domains": [
+"w2-taxonomy"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "nd",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "l-lasvegas",
+"l0": false,
+"label": "Las Vegas, Nevada (alias of l-las-vegas)",
+"locLabel": null,
+"members": null,
+"short": "Las Vegas, Nevada (alias of l-las-vegas)",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Wikipedia - Las Vegas",
+"url": "https://en.wikipedia.org/wiki/Las_Vegas"
+},
+{
+"date": "2008-08-22",
+"name": "AAWSAP Statement of Work (SOW_Aerospace.pdf)",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP/SOW_Aerospace.pdf"
+}
+],
+"sub": "City in Clark County, Nevada; duplicate identifier for the primary node l-las-vegas",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 691 of 1027, score 23). 4 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A2/D2.",
+"timeline": []
+}

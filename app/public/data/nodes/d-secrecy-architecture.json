@@ -1,0 +1,140 @@
+{
+"A": 3,
+"C": 2,
+"D": 1,
+"band": null,
+"claims": [
+{
+"source": "DoD Directive 5205.07",
+"text": "DoD Directive 5205.07 defines unacknowledged SAPs, in which the existence of the programme itself is protected, and waived SAPs, for which congressional reporting is limited to eight named members.",
+"tier": 1
+},
+{
+"source": "House Oversight Committee hearing, 26 July 2023",
+"text": "David Grusch testified before the House Oversight Committee on 26 July 2023 that he was denied access to programmes he had been directed to investigate, and that access denial itself was used as a concealment mechanism.",
+"tier": 2
+},
+{
+"source": "Inference from DoDD 5205.07 compartmentation policy and Manhattan Project security practice",
+"text": "Compartmentation predicts the exact evidentiary pattern the disclosure fight exhibits - many partial witnesses, no complete one - which means the absence of a single comprehensive whistleblower is a consequence of the architecture rather than evidence against the programme. Reasoning: this is the documented Manhattan Project effect applied to a smaller population.",
+"tier": 3
+}
+],
+"cls": "domain",
+"cluster": "other",
+"connections": [
+{
+"claimTier": 1,
+"cls": "domain",
+"dateEnd": null,
+"dateStart": "1960-01-01",
+"direction": "out",
+"edgeLabel": "Compartmentation defeats committee access",
+"id": "d-oversight",
+"l0": false,
+"label": "Congressional Oversight",
+"note": "10 U.S.C. 119's waiver provision reduces notification to eight members without staff, which is the specific point at which the secrecy architecture and congressional oversight collide.",
+"sources": [
+{
+"date": "2024-01-01",
+"name": "10 U.S.C. Sec. 119",
+"url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "domain",
+"dateEnd": null,
+"dateStart": "1960-01-01",
+"direction": "in",
+"edgeLabel": "SAP tiers implement compartmentation",
+"id": "d-sap",
+"l0": false,
+"label": "Special Access Programs",
+"note": "The acknowledged/unacknowledged/waived tier structure defined in DoDD 5205.07 is the concrete mechanism by which the compartmentation architecture is built.",
+"sources": [
+{
+"date": "2024-09-12",
+"name": "DoD Directive 5205.07",
+"url": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 2,
+"cls": "program",
+"dateEnd": "1969",
+"dateStart": "1963",
+"direction": "in",
+"edgeLabel": "A worked example of compartmentation: one workforce, two programmes",
+"id": "manned-orbiting-laboratory",
+"l0": false,
+"label": "Manned Orbiting Laboratory and the DORIAN / KH-10 reconnaissance payload",
+"note": "A worked example of the compartmentation the domain describes: one workforce, two programmes, and a BYEMAN boundary running through the middle of it.",
+"sources": [
+{
+"date": "2019-05-01",
+"name": "Spies in Space, NRO Center for the Study of National Reconnaissance, May 2019",
+"url": "https://www.govinfo.gov/content/pkg/GOVPUB-D-PURL-gpo123652/pdf/GOVPUB-D-PURL-gpo123652.pdf"
+}
+],
+"tier": "B",
+"type": "programmatic"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "1942-01-01",
+"deg": 3,
+"denials": [],
+"desc": "Compartmentation is not a synonym for secrecy; it is a specific engineering choice about who may hold which fragment, and it is the single most important structural fact on this board. The Manhattan Project is the documented ancestor: tens of thousands of workers at Oak Ridge and Hanford who could describe their own task precisely and had no authorised knowledge of the weapon, with compartmentation enforced by physical separation, need-to-know and a security apparatus reporting outside the technical chain. Applied to a recovery and reverse-engineering effort, the same architecture produces the effect witnesses repeatedly describe: a metallurgist who can characterise a sample without being told where it came from, a security officer who moves the container without being told what is in it, a programme manager who signs the contract without the read-in that would let him understand it. The consequence for evidence is severe and must be stated plainly - a compartmented programme generates almost no witness who can testify to the whole, only many witnesses who can each testify to a fragment, which is precisely the evidentiary signature critics cite as weakness. Scoring high here means an entity sits at a junction where fragments were assembled: a control officer, a security review authority, or a person read into more than one compartment at once.",
+"domains": [
+"_rs-archive-mirror",
+"w2-taxonomy"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "d-secrecy-architecture",
+"l0": false,
+"label": "Secrecy Architecture",
+"locLabel": null,
+"members": null,
+"short": "Secrecy Architecture",
+"sources": [
+{
+"date": "2026-05-18",
+"name": "Archived: DoD Directive 5205.07, Special Access Program (SAP) Policy (Wayback 2026-05-18)",
+"url": "https://web.archive.org/web/20260518065512/https://www.esd.whs.mil/portals/54/documents/dd/issuances/dodd/520507p.pdf"
+},
+{
+"date": "2024-09-12",
+"name": "DoD Directive 5205.07, Special Access Program (SAP) Policy",
+"url": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf"
+},
+{
+"date": "2024-01-01",
+"name": "10 U.S.C. Sec. 119, Special access programs: congressional oversight",
+"url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim"
+},
+{
+"date": "2004-03-03",
+"name": "GAO-04-332, Industrial Security: DOD Cannot Provide Adequate Assurances That Its Oversight Ensures the Protection of Classified Information",
+"url": "https://www.govinfo.gov/content/pkg/GAOREPORTS-GAO-04-332/html/GAOREPORTS-GAO-04-332.htm"
+}
+],
+"sub": "Structural domain - how compartments are stacked so that no single person sees the whole",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 439 of 1027, score 31). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A3/D1.",
+"timeline": []
+}

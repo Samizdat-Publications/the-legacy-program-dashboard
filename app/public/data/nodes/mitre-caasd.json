@@ -1,0 +1,113 @@
+{
+"A": 2,
+"C": 2,
+"D": 1,
+"band": null,
+"claims": [
+{
+"source": "MITRE CAASD page; NSF NCSES Master Government List of FFRDCs",
+"text": "CAASD is sponsored by the Federal Aviation Administration and provides data-driven engineering to enhance aviation safety and the efficiency of the National Airspace System.",
+"tier": 1
+},
+{
+"source": "USAspending.gov award records; SAM.gov notice",
+"text": "CAASD has been executed under FAA contracts DTFAWA10C00080 (approximately $1.70 billion) and 693KA822C00001 (approximately $761 million), with a sole-source intent notice posted on SAM.gov on 1 August 2025.",
+"tier": 1
+},
+{
+"source": "Structural inference from MITRE's sponsor list and FAR 35.017 access provisions",
+"text": "MITRE's simultaneous role as engineering authority for both the DoD/IC systems (NSEC) and the civil air surveillance system (CAASD) gives one corporation visibility across both sensor domains that no government office holds in a single place. Reasoning: the two FFRDCs have different sponsors, and neither sponsor sees the other's work, but the corporation employs both staffs.",
+"tier": 3
+}
+],
+"cls": "program",
+"cluster": "ffrdc",
+"connections": [
+{
+"claimTier": 3,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2022",
+"direction": "out",
+"edgeLabel": "FAA surveillance data - engineered by a MITRE FFRDC - is a named AARO data source",
+"id": "aaro",
+"l0": true,
+"label": "All-domain Anomaly Resolution Office (AARO)",
+"note": "AARO draws on FAA radar and reporting; the systems engineering authority over that data belongs to MITRE's CAASD. No claim of filtering is made; the dependency is the point.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "MITRE CAASD",
+"url": "https://www.mitre.org/our-impact/rd-centers/center-advanced-aviation-system-development"
+},
+{
+"date": "2026-08-12",
+"name": "AARO",
+"url": "https://www.aaro.mil/"
+}
+],
+"tier": "A",
+"type": "temporal"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "1990",
+"direction": "in",
+"edgeLabel": "MITRE operates CAASD for the FAA",
+"id": "mitre-corporation",
+"l0": true,
+"label": "The MITRE Corporation",
+"note": "CAASD gives MITRE the engineering authority over the civil air surveillance picture, under contracts DTFAWA10C00080 and 693KA822C00001.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "MITRE CAASD",
+"url": "https://www.mitre.org/our-impact/rd-centers/center-advanced-aviation-system-development"
+}
+],
+"tier": "A",
+"type": "institutional"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "1990",
+"deg": 2,
+"denials": [],
+"desc": "CAASD is why MITRE, uniquely among the FFRDC operators, sits on both sides of the UAP data problem. It is MITRE's FAA-sponsored centre, providing the systems engineering, research and analysis behind the National Airspace System - surveillance architecture, air traffic automation, conflict detection, and the data standards by which anomalous radar returns are recorded or discarded. The FAA is the civil agency that owns the continuous radar picture of American airspace and is a named data source for AARO. The same corporation that engineers the DoD and Intelligence Community's national security systems through NSEC also engineers the civil surveillance system through CAASD, under a separate sponsor with no visibility into the other. The contract history is large and long-running: DTFAWA10C00080, worth roughly 1.70 billion dollars, and its successor 693KA822C00001, worth roughly 761 million dollars, with a further sole-source notice posted in August 2025. There is a direct historical rhyme here: MITRE was born to do exactly this job for the Air Force in the form of SAGE, the first continental system built to detect and identify everything in North American airspace. The corporation has held the design authority over what America's air surveillance is built to see, in both its military and civil forms, continuously since 1958.",
+"domains": [
+"ffrdcs"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "1",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "mitre-caasd",
+"l0": false,
+"label": "Center for Advanced Aviation System Development (CAASD)",
+"locLabel": null,
+"members": null,
+"short": "Center for Advanced Aviation System Development (CAASD)",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "MITRE - Center for Advanced Aviation System Development",
+"url": "https://www.mitre.org/our-impact/rd-centers/center-advanced-aviation-system-development"
+},
+{
+"date": "2025-08-01",
+"name": "SAM.gov - Notice of intent to award a sole source contract (CAASD)",
+"url": "https://sam.gov/opp/3a6675cb0ef1482aaea64dbdb6eaf2f8/view"
+}
+],
+"sub": "MITRE-operated FFRDC; sponsor Department of Transportation / Federal Aviation Administration",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 615 of 1027, score 25). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A2/D1.",
+"timeline": []
+}

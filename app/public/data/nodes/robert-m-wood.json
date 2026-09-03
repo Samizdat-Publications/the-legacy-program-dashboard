@@ -1,0 +1,116 @@
+{
+"A": 2,
+"C": 0,
+"D": 2,
+"affiliations": [
+"McDonnell Douglas Corporation (43 years), manager of advanced research and development",
+"The Majestic Documents / majesticdocuments.com, co-principal with Ryan S. Wood"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "1999",
+"event": "majesticdocuments.com established with Ryan S. Wood to publish and rate the leaked-document corpus",
+"precision": "year"
+},
+{
+"date": "2026",
+"event": "The Majestic Documents site remains active, carrying a 1999-2026 copyright in the name 'Majestic Documents Wood & Wood'",
+"precision": "year"
+}
+],
+"claims": [
+{
+"source": "majesticdocuments.com site structure and copyright notice, retrieved 12 August 2026",
+"text": "majesticdocuments.com is operated by Dr. Robert M. Wood and Ryan S. Wood, carries a 1999-2026 copyright, and organises its holdings by date band with a published 'Authenticity Ratings' scheme, alongside sections for FOIA, NARA, Truman Library and British Public Record Office material.",
+"tier": 1
+},
+{
+"source": "Wood's own account, given in lectures and in the Majestic Documents materials",
+"text": "Wood managed advanced research at McDonnell Douglas for 43 years and directed a company study of field-propulsion effects related to UFO reports.",
+"tier": 2
+},
+{
+"source": "Comparison of published treatments of the MJ-12 corpus",
+"text": "The Wood forensic protocol is the correct methodological answer to the MJ-12 problem even where its conclusions are wrong, because it makes the documents falsifiable. Reasoning: every other treatment of the corpus - Friedman's defence, Klass's attack, the FBI's one-word 'BOGUS' annotation - asserts a verdict without publishing a repeatable test.",
+"tier": 3
+}
+],
+"cls": "person",
+"cluster": "research",
+"conflicts": [
+"The document corpus Wood rates as probably authentic is regarded by Kevin Randle, Philip Klass and most historians as fabricated. The FBI annotated related material 'BOGUS'."
+],
+"connections": [
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": "2026",
+"dateStart": "1999",
+"direction": "out",
+"edgeLabel": "Co-principal of the document archive and its rating scheme",
+"id": "majestic-documents-archive",
+"l0": false,
+"label": "The Majestic Documents archive (Wood and Wood)",
+"note": "The site carries a 1999-2026 copyright in the name 'Majestic Documents Wood & Wood' and identifies Dr. Robert M. Wood and Ryan S. Wood as its principals.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "The Majestic Documents (Wood & Wood)",
+"url": "https://majesticdocuments.com/"
+}
+],
+"tier": "C",
+"type": "research"
+}
+],
+"date": "2026-01-01",
+"dateEnd": null,
+"dateStart": "2026-01-01",
+"deg": 1,
+"denials": [],
+"domains": [
+"w2-retrieval-literature"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "robert-m-wood",
+"instId": "mcdonnell-douglas",
+"l0": false,
+"label": "Dr. Robert M. Wood",
+"loc": "Newport Beach, CA",
+"locId": null,
+"members": null,
+"narrative": "Robert M. Wood is the aerospace-industry end of the retrieval literature. He holds a doctorate in physics and spent forty-three years at McDonnell Douglas, where he managed advanced propulsion and effects research - including, on his own account, a company-funded study in the late 1960s and early 1970s into whether UFO field-propulsion effects could be replicated. That places him in the same institutional category as Stanton Friedman: a cleared contractor engineer who concluded from the inside that a compartmented programme was plausible. With his son Ryan S. Wood he built The Majestic Documents project, an online archive at majesticdocuments.com which since 1999 has collected, published, catalogued and applied a stated authenticity-rating scheme to the MJ-12 and related leaked-document corpus - including the Special Operations Manual SOM1-01, the 'Interplanetary Phenomenon Unit' material, and the Air Accident Report papers. The project's importance to this board is methodological rather than evidentiary: Wood insisted on treating the documents as forensic objects - typeface, paper, watermark, ink, format, security-marking convention and internal administrative plausibility - rather than as scripture, and published the ratings. Whether one accepts the conclusions, the framework is the only sustained forensic protocol ever applied to the leaked-document corpus, and no agency has ever published a competing analysis.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Dr. Robert M. Wood",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "The Majestic Documents (Wood & Wood)",
+"url": "https://majesticdocuments.com/"
+},
+{
+"date": "2026-08-12",
+"name": "The Majestic Documents - About",
+"url": "https://majesticdocuments.com/about/"
+}
+],
+"status": "active",
+"sub": "PhD physics; 43 years at McDonnell Douglas; co-principal, The Majestic Documents",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 828 of 1027, score 17). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A2/D2.",
+"timeline": [],
+"unexplainedResidual": null,
+"unverified": [
+"Wood's date of birth; the internal McDonnell Douglas project number or funding line for the field-propulsion study he describes."
+]
+}

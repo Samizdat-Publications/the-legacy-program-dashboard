@@ -1,0 +1,211 @@
+{
+"A": 0,
+"C": 0,
+"D": 0,
+"band": null,
+"claims": [
+{
+"source": "PL 118-31 sec. 7343(a), 137 Stat. 1063-1064",
+"text": "Sec. 7343(a) defines 'appropriate committees of Congress' as the Senate Select Intelligence, Armed Services and Appropriations Committees and the House Permanent Select Intelligence, Armed Services and Appropriations Committees, and 'congressional leadership' as the Senate majority and minority leaders and the Speaker and House minority leader; 'unidentified anomalous phenomena' takes the meaning in 50 U.S.C. 3373(n).",
+"tier": 1
+},
+{
+"source": "PL 118-31 sec. 7343(b), 137 Stat. 1064",
+"text": "Sec. 7343(b) bars obligation or expenditure of Division G funds 'in support of any activity involving unidentified anomalous phenomena protected under any form of special access or restricted access limitation' absent DNI disclosure of the details to those committees and leadership.",
+"tier": 1
+}
+],
+"cls": "legislation",
+"cluster": "other",
+"connections": [
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "AARO reporting change and UAP funding limitation",
+"id": "aaro",
+"l0": true,
+"label": "All-domain Anomaly Resolution Office (AARO)",
+"note": "Division G carries two UAP sections. Sec. 7341, 'Modification of reporting requirement for All-Domain Anomaly Resolution Office', amends section 1683(k)(1) of the FY2022 NDAA (50 U.S.C. 3373(k)(1)) as it had already been amended by sec. 6802(a) of the IAA for FY2023. Sec. 7343, 'Funding limitations relating to unidentified anomalous phenomena', bars division funds from any UAP activity 'protected under any form of special access or restricted access limitation unless the Director of National Intelligence has provided the details of the activity to the appropriate committees of Congress and congressional leadership' - the DNI is the discloser, not AARO, which the section names only in its trailing reference to 'activities described in a report released by the All-domain Anomaly Resolution Office in fiscal year 2024'. Subsection (c) goes further and at contractors: independent research and development funding relating to UAP 'shall not be allowable as indirect expenses' unless the material is made available to the same committees and leadership.",
+"sources": [
+{
+"date": "2023-12-22",
+"name": "Public Law 118-31, Division G (Intelligence Authorization Act for Fiscal Year 2024), secs. 7341 and 7343",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm"
+},
+{
+"date": null,
+"name": "https://www.intelligence.senate.gov/legislation/intelligence-authorization-act-fiscal-year-2024-division-g-national-defense",
+"url": "https://www.intelligence.senate.gov/legislation/intelligence-authorization-act-fiscal-year-2024-division-g-national-defense"
+}
+],
+"tier": "A",
+"type": "legislative"
+},
+{
+"claimTier": 1,
+"cls": "domain",
+"dateEnd": null,
+"dateStart": "2023-12-22",
+"direction": "out",
+"edgeLabel": "sec. 7343 conditions intelligence funding for UAP special- or restricted-access activity on prior disclosure to the committees",
+"id": "d-funding",
+"l0": false,
+"label": "Funding Channels",
+"note": "Division G of P.L. 118-31 contains Sec. 7343, 'Funding limitations relating to unidentified anomalous phenomena.' The Joint Explanatory Statement records that it imposes a funding limitation for perceived insufficient transparency and a limitation on independent research and development indirect expenses, to be read consistently with DoDI 3204.01. This is a funding-channel provision, distinct from this act's membership of the enacted-statute domain.",
+"sources": [
+{
+"date": "2024-01-03",
+"name": "Senate Select Committee on Intelligence, Intelligence Authorization Act for FY2024, Division G of the NDAA for FY2024 (text, incl. Secs. 7341 and 7343)",
+"url": "https://www.intelligence.senate.gov/2024/01/03/legislation-intelligence-authorization-act-fiscal-year-2024-division-g-national-defense/"
+},
+{
+"date": "2023-12-14",
+"name": "Senate Select Committee on Intelligence, Joint Explanatory Statement to Accompany the Intelligence Authorization Act for Fiscal Year 2024",
+"url": "https://www.intelligence.senate.gov/2023/12/14/publications-joint-explanatory-statement-accompany-intelligence-authorization-act-fiscal-year-2024/"
+},
+{
+"date": "2023-12-22",
+"name": "Public Law 118-31, National Defense Authorization Act for FY2024, incl. Div. G (IAA FY2024) (GPO)",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm"
+}
+],
+"tier": "A",
+"type": "funding"
+},
+{
+"claimTier": 1,
+"cls": "domain",
+"dateEnd": null,
+"dateStart": "2023-12-22",
+"direction": "out",
+"edgeLabel": "Division G of P.L. 118-31 - enacted intelligence-side UAP provisions",
+"id": "d-legislation",
+"l0": false,
+"label": "Enacted Statute",
+"note": "Division G carries Sec. 7341, modifying the AARO reporting requirement, and Sec. 7343, the funding limitation. The section list published by the Senate Select Committee on Intelligence confirms both as part of the enacted division. Its separate membership of the funding domain rests on 7343's substance, not on its status as law.",
+"sources": [
+{
+"date": "2024-01-03",
+"name": "Senate Select Committee on Intelligence, Intelligence Authorization Act for FY2024, Division G of the NDAA for FY2024 (text, incl. Secs. 7341 and 7343)",
+"url": "https://www.intelligence.senate.gov/2024/01/03/legislation-intelligence-authorization-act-fiscal-year-2024-division-g-national-defense/"
+},
+{
+"date": "2023-12-22",
+"name": "Public Law 118-31, National Defense Authorization Act for FY2024, incl. Div. G (IAA FY2024) (GPO)",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm"
+},
+{
+"date": "2023-12-14",
+"name": "Senate Select Committee on Intelligence, Joint Explanatory Statement to Accompany the Intelligence Authorization Act for Fiscal Year 2024",
+"url": "https://www.intelligence.senate.gov/2023/12/14/publications-joint-explanatory-statement-accompany-intelligence-authorization-act-fiscal-year-2024/"
+}
+],
+"tier": "C",
+"type": "legislative"
+},
+{
+"claimTier": 2,
+"cls": "legislation",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "section node of this act (section number needs verification)",
+"id": "iaa-fy2024-sec-1102",
+"l0": true,
+"label": "IAA FY2024 Sec. 1102 — contractor turn-in of 'non-earth origin or exotic' UAP material",
+"note": "The board's section node is filed under this act, and the filing carries a caution that is now confirmed rather than merely flagged. Searching the enacted 2.8-million-character text finds 'non-earth origin' zero times and 'exotic' zero times: the contractor turn-in mandate did not survive conference. What did survive is Division A, Title XVIII, Subtitle C - secs. 1841 to 1843, the unidentified anomalous phenomena records collection at the National Archives. The turn-in language belongs to the Senate-passed text, and the node's '1102' section number is still not confirmed against either version. Tier 2 because the edge records a filing relationship whose section number remains unverified.",
+"sources": [
+{
+"date": "2023-12-22",
+"name": "Public Law 118-31, full enacted text, searched for the turn-in language",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm"
+},
+{
+"date": null,
+"name": "https://www.intelligence.senate.gov/legislation/intelligence-authorization-act-fiscal-year-2024-division-g-national-defense",
+"url": "https://www.intelligence.senate.gov/legislation/intelligence-authorization-act-fiscal-year-2024-division-g-national-defense"
+},
+{
+"date": null,
+"name": "https://www.intelligence.senate.gov/2023/06/22/legislation-intelligence-authorization-act-fiscal-year-2024-reported-june-22-2023/",
+"url": "https://www.intelligence.senate.gov/2023/06/22/legislation-intelligence-authorization-act-fiscal-year-2024-reported-june-22-2023/"
+},
+{
+"date": null,
+"name": "https://defensescoop.com/2023/06/27/senates-intelligence-authorization-bill-questions-reverse-engineering-of-government-recovered-uaps/",
+"url": "https://defensescoop.com/2023/06/27/senates-intelligence-authorization-bill-questions-reverse-engineering-of-government-recovered-uaps/"
+}
+],
+"tier": "A",
+"type": "legislative"
+},
+{
+"claimTier": 1,
+"cls": "legislation",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "enacted as Division G of the FY2024 NDAA",
+"id": "ndaa-fy2024",
+"l0": true,
+"label": "FY2024 NDAA, Public Law 118-31 - Div. A, Title XVIII, Subtitle C (secs. 1841-1843), UAP Records Collection; Div. G (IAA FY2024) secs. 7341, 7343",
+"note": "The enacted law carries the heading 'DIVISION G--INTELLIGENCE AUTHORIZATION ACT FOR FISCAL YEAR 2024' inside the National Defense Authorization Act for Fiscal Year 2024, Public Law 118-31, enacted 22 December 2023. The intelligence authorisation is not a separate statute that year; it rides the defence bill, which is why its UAP sections are numbered in the 7000s while the NDAA's own UAP records sections are 1841 to 1843.",
+"sources": [
+{
+"date": "2023-12-22",
+"name": "Public Law 118-31, table of contents and Division G heading",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm"
+},
+{
+"date": null,
+"name": "https://www.intelligence.senate.gov/legislation/intelligence-authorization-act-fiscal-year-2024-division-g-national-defense",
+"url": "https://www.intelligence.senate.gov/legislation/intelligence-authorization-act-fiscal-year-2024-division-g-national-defense"
+},
+{
+"date": null,
+"name": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/pdf/PLAW-118publ31.pdf",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/pdf/PLAW-118publ31.pdf"
+}
+],
+"tier": "A",
+"type": "legislative"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": null,
+"deg": 5,
+"denials": [],
+"desc": "Division G of Public Law 118-31. Sec. 7341 moves the annual UAP report obligation onto the Director of AARO; sec. 7343 conditions all IC funding for UAP special-access or restricted-access activity on prior disclosure of the details to the intelligence, armed services and appropriations committees and congressional leadership, and bars UAP-related independent research and development from being charged as an allowable indirect contract expense unless disclosed to Congress.",
+"domains": [
+"_rs-legislation"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "nd",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "iaa-2024",
+"l0": false,
+"label": "Intelligence Authorization Act for FY2024 (Div. G of PL 118-31) - secs. 7341, 7343",
+"locLabel": null,
+"members": null,
+"short": "Intelligence Authorization Act for FY2024 (Div. G of PL 118-31) - secs. 7341, 7343",
+"sources": [
+{
+"date": "2023-12-22",
+"name": "Public Law 118-31, National Defense Authorization Act for FY2024 (full text, GPO)",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm"
+}
+],
+"sub": "authorizing-statutes",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 902 of 1027, score 14). 5 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D0.",
+"timeline": []
+}

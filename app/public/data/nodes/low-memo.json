@@ -1,0 +1,191 @@
+{
+"A": 1,
+"C": 0,
+"D": 3,
+"band": null,
+"claims": [
+{
+"source": "Robert J. Low memorandum to University of Colorado administrators, 9 August 1966",
+"text": "'The trick would be, I think, to describe the project so that, to the public, it would appear a totally objective study but, to the scientific community, would present the image of a group of nonbelievers.'",
+"tier": 1
+},
+{
+"source": "Low memorandum, 9 Aug 1966; Condon Report front matter on project formation",
+"text": "The memorandum is dated 9 August 1966, nearly two months before the project was formally established on 6 October 1966.",
+"tier": 1
+},
+{
+"source": "John G. Fuller, Look magazine, May 1968",
+"text": "The memo was published by John G. Fuller in Look magazine in May 1968 as 'Flying Saucer Fiasco', describing the project as a '$500,000 trick'; Saunders and Levine were subsequently fired.",
+"tier": 2
+},
+{
+"source": "Inference from the memorandum's date and text",
+"text": "The memo does not prove the Condon Report's conclusions were dictated, but it does establish that the project's coordinator planned differential presentation to the public and to scientists before any data were examined.",
+"tier": 3
+}
+],
+"cls": "document",
+"cluster": "research",
+"connections": [
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": "1968",
+"dateStart": "1966",
+"direction": "out",
+"edgeLabel": "The memo states the intent to present differently to public and scientists",
+"id": "condon-committee",
+"l0": true,
+"label": "University of Colorado UFO Project (Condon Committee)",
+"note": "'The trick would be, I think, to describe the project so that, to the public, it would appear a totally objective study but, to the scientific community, would present the image of a group of nonbelievers.'",
+"sources": [
+{
+"date": "1968-11-01",
+"name": "Scientific Study of Unidentified Flying Objects (Condon Report)",
+"url": "https://files.ncas.org/condon/"
+}
+],
+"tier": "A",
+"type": "behavioral"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "1968",
+"dateStart": "1967",
+"direction": "in",
+"edgeLabel": "McDonald was the conduit that put the memo into public circulation",
+"id": "james-mcdonald",
+"l0": false,
+"label": "James E. McDonald",
+"note": "McDonald received the memo from project staff and it reached John Fuller, who published it in Look in May 1968 as 'Flying Saucer Fiasco'.",
+"sources": [
+{
+"date": "1968-11-01",
+"name": "Scientific Study of Unidentified Flying Objects (Condon Report)",
+"url": "https://files.ncas.org/condon/"
+}
+],
+"tier": "B",
+"type": "investigative"
+},
+{
+"claimTier": 2,
+"cls": "location",
+"dateEnd": "1967-07",
+"dateStart": "1966-08-09",
+"direction": "out",
+"edgeLabel": "The Low memo shows the conclusion was framed before the study began",
+"id": "l-boulder-co",
+"l0": false,
+"label": "Boulder, Colorado",
+"note": "Low's 9 August 1966 memorandum proposed a study 'conducted almost entirely by non-believers' with 'almost zero expectation of finding a saucer'. James E. McDonald found it in the project files in July 1967.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Wikipedia - Condon Committee",
+"url": "https://en.wikipedia.org/wiki/Condon_Committee"
+}
+],
+"tier": "C",
+"type": "denial"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "1966",
+"dateStart": "1966",
+"direction": "in",
+"edgeLabel": "Low wrote the memo two months before the contract was signed",
+"id": "robert-low",
+"l0": false,
+"label": "Robert J. Low",
+"note": "Written 9 August 1966 to University of Colorado administrators, before the 6 October 1966 project formation — the design predates the data.",
+"sources": [
+{
+"date": "1968-11-01",
+"name": "Scientific Study of Unidentified Flying Objects (Condon Report)",
+"url": "https://files.ncas.org/condon/"
+}
+],
+"tier": "C",
+"type": "institutional"
+}
+],
+"coords": null,
+"dateEnd": "1966",
+"dateStart": "1966",
+"deg": 4,
+"denials": [
+{
+"by": {
+"id": "low-memo",
+"label": "Low Memorandum (\"the trick would be...\")"
+},
+"claimTier": 2,
+"denialKind": "directed",
+"label": "The Low memo shows the conclusion was framed before the study began",
+"note": "Low's 9 August 1966 memorandum proposed a study 'conducted almost entirely by non-believers' with 'almost zero expectation of finding a saucer'. James E. McDonald found it in the project files in July 1967.",
+"of": {
+"id": "l-boulder-co",
+"label": "Boulder, Colorado"
+},
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Wikipedia - Condon Committee",
+"url": "https://en.wikipedia.org/wiki/Condon_Committee"
+}
+]
+}
+],
+"desc": "A two-page internal memorandum written by Robert J. Low, assistant dean of the University of Colorado graduate school, on 9 August 1966 — two months before the Air Force contract for the UFO study was signed — advising two senior administrators on how the university could take the money without damaging its scientific reputation. Low writes that the study 'would be conducted almost entirely by nonbelievers' who 'could and probably would add an impressive body of thick evidence that there is no reality to the observations', and then the sentence that defines the document: 'The trick would be, I think, to describe the project so that, to the public, it would appear a totally objective study but, to the scientific community, would present the image of a group of nonbelievers.' Project investigators David Saunders and Norman Levine found it in the files, and it reached John G. Fuller, who published it in Look magazine in May 1968 under the title 'Flying Saucer Fiasco', characterising the project as a half-million-dollar trick. Condon fired both men. The memo did not stop the report being issued, adopted by the National Academy of Sciences, and used to shut down Project Blue Book. It is the clearest surviving evidence that the terminal official study of the legacy era was designed with a predetermined public posture.",
+"domains": [
+"history-1940s-1960s"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "low-memo",
+"l0": false,
+"label": "Low Memorandum (\"the trick would be...\")",
+"locLabel": null,
+"members": null,
+"short": "Low Memorandum (\"the trick would be...\")",
+"sources": [
+{
+"date": "1968-11-01",
+"name": "Scientific Study of Unidentified Flying Objects (the Condon Report), full text",
+"url": "https://files.ncas.org/condon/"
+}
+],
+"sub": "Robert J. Low to University of Colorado administrators, 9 August 1966",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 589 of 1027, score 26). 4 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D3.",
+"timeline": [
+{
+"date": "1966-08-09",
+"id": "tl-1966-08-09",
+"label": "The Low memo",
+"precision": "day",
+"strand": "coverup",
+"text": "Two months before the Air Force contract is signed, project coordinator Robert Low writes that 'the trick would be' to appear a totally objective study to the public while presenting the image of nonbelievers to scientists.",
+"tier": "A"
+},
+{
+"date": "1968-05-01",
+"id": "tl-1968-05",
+"label": "Look publishes 'Flying Saucer Fiasco'",
+"precision": "month",
+"strand": "oversight",
+"text": "John G. Fuller publishes the Low memo, calling the project a $500,000 trick. Condon fires investigators David Saunders and Norman Levine.",
+"tier": "B"
+}
+]
+}

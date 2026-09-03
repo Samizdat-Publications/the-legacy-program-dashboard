@@ -1,0 +1,619 @@
+{
+"A": 2,
+"C": 3,
+"D": 2,
+"affiliations": [
+"Budget Suites of America (1988-present)",
+"National Institute for Discovery Science (1995-2004)",
+"Bigelow Aerospace (1999-present)",
+"Bigelow Aerospace Advanced Space Studies (2007-2012)",
+"Bigelow Aerospace Space Operations / BAASS successor efforts (2012-present)",
+"Budget Suites of America (founder)",
+"National Institute for Discovery Science (founder, 1995-2004)",
+"Bigelow Aerospace (founder, 1999)",
+"Bigelow Aerospace Advanced Space Studies (2008-2012)",
+"Bigelow Institute for Consciousness Studies (2020-)",
+"Budget Suites of America, founder",
+"Bigelow Aerospace Advanced Space Studies / BAASS (2008-2010s)"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "1995-01-01",
+"event": "Founds the National Institute for Discovery Science",
+"precision": "year"
+},
+{
+"date": "1995-01-01",
+"event": "Founds the National Institute for Discovery Science; hires Puthoff among the consultants.",
+"precision": "year"
+},
+{
+"date": "1996-01-01",
+"event": "Purchases the Uintah Basin ranch later known as Skinwalker Ranch",
+"precision": "year"
+},
+{
+"date": "1996-01-01",
+"event": "Purchases the 480-acre Sherman ranch in Uintah County, Utah, with non-disclosure conditions on the sellers.",
+"precision": "year"
+},
+{
+"date": "1996-06-30",
+"event": "Deseret News reports the Sherman ranch sale and the arrival of a research team.",
+"precision": "day"
+},
+{
+"date": "1998-08-10",
+"event": "Gives his first interview on the ranch research to the Deseret News.",
+"precision": "day"
+},
+{
+"date": "2004-01-01",
+"event": "Shuts down NIDS; retains the ranch.",
+"precision": "year"
+},
+{
+"date": "2007-01-01",
+"event": "Receives a letter from a senior DIA official about Skinwalker Ranch; connects him onward to Senator Harry Reid.",
+"precision": "year"
+},
+{
+"date": "2008",
+"event": "BAASS awarded the DIA AAWSAP contract following a special appropriation sought by Sen. Harry Reid",
+"precision": "year"
+},
+{
+"date": "2008-01-01",
+"event": "BAASS wins the DIA advanced aerospace contract that becomes AAWSAP.",
+"precision": "year"
+},
+{
+"date": "2008-09-22",
+"event": "BAASS awarded DIA contract HHM402-08-C-0072",
+"precision": "day"
+},
+{
+"date": "2009",
+"event": "Alleged negotiations with senior Lockheed Martin executives over material held at a California facility",
+"precision": "year"
+},
+{
+"date": "2009-07-01",
+"event": "BAASS delivers the 494-page Ten Month Report to DIA",
+"precision": "month"
+},
+{
+"date": "2011",
+"event": "Advocates propose KONA BLUE to DHS as a prospective SAP to house recovered technology",
+"precision": "year"
+},
+{
+"date": "2012",
+"event": "DIA cancels AAWSAP/AATIP; DHS later rejects the KONA BLUE PSAP",
+"precision": "year"
+},
+{
+"date": "2016-01-01",
+"event": "Sells Skinwalker Ranch to Adamantium Real Estate LLC (Brandon Fugal)",
+"precision": "year"
+},
+{
+"date": "2017-05-28",
+"event": "Tells 60 Minutes he is 'absolutely convinced' of an ET presence on Earth",
+"precision": "day"
+},
+{
+"date": "2024-03-08",
+"event": "AARO Historical Record Vol 1 describes the Utah property as owned by 'the head of the private sector organization'",
+"precision": "day"
+},
+{
+"date": "2025-09-09",
+"event": "Knapp testifies to Congress that Bigelow negotiated the Lockheed material deal",
+"precision": "day"
+}
+],
+"claims": [
+{
+"source": "DIA contract release FOIA-00349-2018, released 13 Oct 2022",
+"text": "Bigelow Aerospace Advanced Space Studies, LLC, 4640 S. Eastern Ave, Las Vegas NV 89119, DUNS 827037768, CAGE 54JU7, was awarded firm-fixed-price contract HHM402-08-C-0072 on 22 September 2008 with a base value of $10,000,000.",
+"tier": 1
+},
+{
+"source": "AARO Historical Record Report Volume 1, 8 March 2024, p.23",
+"text": "DoD's own 2024 historical report states the contractor investigated 'an alleged hotspot of UAP and paranormal activity at a property in Utah — which at that time was owned by the head of the private sector organization.'",
+"tier": 1
+},
+{
+"source": "Robert Bigelow to Lara Logan, CBS 60 Minutes, 28 May 2017",
+"text": "Bigelow told CBS 60 Minutes he is 'absolutely convinced' of an extraterrestrial presence on Earth.",
+"tier": 2
+},
+{
+"source": "Inference from the 11-topic statement of work in HHM402-08-R-0211 read against BAASS's NIDS-derived staffing",
+"text": "The choice of a Nevada contractor with no prior aerospace-intelligence prime history, on a sole-source-shaped solicitation written around capabilities BAASS uniquely held, indicates the requirement was built to fit the intended awardee rather than competed on the open market.",
+"tier": 3
+},
+{
+"source": "Gideon Lewis-Kraus, The New Yorker, 10 May 2021, quoting NIDS' own description",
+"text": "Bigelow founded NIDS in 1995 as 'a privately funded science institute engaged in research of aerial phenomena, animal mutilations, and other related anomalous phenomena,' and purchased Skinwalker Ranch the following year.",
+"tier": 1
+},
+{
+"source": "Zack Van Eyck, Deseret News, 10 Aug 1998",
+"text": "As a condition of the 1996 purchase the Shermans agreed to keep quiet about what they had witnessed on the property.",
+"tier": 2
+},
+{
+"source": "Robert Bigelow, interview with the Deseret News, 10 Aug 1998",
+"text": "Bigelow said in August 1998 that anomalous aerial activity and unusual animal deaths had continued on and around the property: 'We wouldn't be there just for the weather.'",
+"tier": 2
+},
+{
+"source": "The New Yorker, 10 May 2021",
+"text": "In 2007 Bigelow received a letter from a senior Defense Intelligence Agency official curious about Skinwalker, and connected him to Senator Harry Reid.",
+"tier": 2
+},
+{
+"source": "AARO, Historical Record Report Volume I, March 2024, Section on KONA BLUE",
+"text": "BAASS was the prime contractor executing DIA's AAWSAP program, funded through a special appropriation; the contractor team conducted UAP and paranormal research at a property owned by the private sector organisation.",
+"tier": 1
+},
+{
+"source": "George Knapp, sworn testimony, 9 September 2025",
+"text": "Bigelow and an AAWSAP colleague 'met with and negotiated with senior executives at Lockheed Martin' for 'a quantity of unusual material that had been stashed away and protected at a facility in California.'",
+"tier": 2
+},
+{
+"source": "USAspending.gov recipient search, retrieved 12 August 2026",
+"text": "Federal prime contract obligations to Bigelow Aerospace LLC total approximately $30 million since FY2008.",
+"tier": 1
+}
+],
+"cls": "person",
+"cluster": "other",
+"conflicts": [
+"NIDS published almost nothing peer-reviewed from its nine years of operation; its data set has never been made available for independent examination.",
+"Bigelow was simultaneously a DIA contractor, a private funder of UAP research, and the intended private recipient of government-connected material."
+],
+"connections": [
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": "2011",
+"dateStart": "2008",
+"direction": "in",
+"edgeLabel": "Most of the ~$22m went to Bigelow Aerospace, 2008-2011",
+"id": "aatip",
+"l0": true,
+"label": "Advanced Aerospace Threat Identification Program (AATIP / AAITP)",
+"note": "Reported by the New York Times with Bigelow on record describing modified Las Vegas buildings for storing recovered metal alloys.",
+"sources": [
+{
+"date": "2017-12-16",
+"name": "New York Times (NICAP copy)",
+"url": "https://www.nicap.org/reports2/2004_20171216_NYTArt_1.pdf"
+}
+],
+"tier": "A",
+"type": "funding"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "2012",
+"dateStart": "2007",
+"direction": "out",
+"edgeLabel": "owner and principal",
+"id": "baass",
+"l0": true,
+"label": "Bigelow Aerospace Advanced Space Studies (BAASS), LLC",
+"note": "AARO refers to Bigelow only as 'the head of the private sector organization', confirming the relationship without the name.",
+"sources": [
+{
+"date": "2024-03-08",
+"name": "AARO Historical Record Report Volume 1",
+"url": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2010",
+"dateStart": "1996",
+"direction": "in",
+"edgeLabel": "Continuous employment across NIDS and BAASS under the same principal",
+"id": "colm-kelleher",
+"l0": false,
+"label": "Colm A. Kelleher",
+"note": "Kelleher's move from NIDS project manager to BAASS deputy administrator meant the DIA-funded programme inherited a pre-existing private case and sample archive rather than building one.",
+"sources": [
+{
+"date": "2020-02-14",
+"name": "Tim McMillan, 'Inside the Pentagon's Secret UFO Program', Popular Mechanics",
+"url": "https://www.popularmechanics.com/military/research/a30916275/government-secret-ufo-program-investigation/"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2007",
+"dateStart": "1996",
+"direction": "in",
+"edgeLabel": "Knapp introduced Harry Reid to Robert Bigelow",
+"id": "george-knapp",
+"l0": false,
+"label": "George Knapp",
+"note": "The single most causally consequential act by any journalist in this domain: the introduction that produced NIDS, then AAWSAP and BAASS, and therefore the entire modern Pentagon lineage.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Wikipedia - George Knapp",
+"url": "https://en.wikipedia.org/wiki/George_Knapp_(television_journalist)"
+}
+],
+"tier": "A",
+"type": "behavioral"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2012",
+"dateStart": "2007",
+"direction": "out",
+"edgeLabel": "constituent relationship behind the appropriation",
+"id": "harry-reid",
+"l0": false,
+"label": "Harry M. Reid",
+"note": "Reid has said publicly that Bigelow's interest and briefings prompted him to pursue the funding; both men are Nevadans and the contract went to a Nevada firm.",
+"sources": [
+{
+"date": "2021-05-01",
+"name": "KLAS 8 News Now — Reid interview",
+"url": "https://www.8newsnow.com/investigators/i-team-former-sen-harry-reid-talks-ufos-in-sit-down-interview/"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2010",
+"dateStart": "1996",
+"direction": "in",
+"edgeLabel": "NIDS consultant and Bigelow Aerospace scientific advisory board member",
+"id": "jacques-vallee",
+"l0": false,
+"label": "Jacques F. Vallee",
+"note": "Vallee's advisory position places the keeper of the largest private materials collection inside the Bigelow ecosystem that produced BAASS and the AAWSAP contract.",
+"sources": [
+{
+"date": "2022-01-01",
+"name": "Nolan, Vallee, Jiang & Lemke, 'Improved instrumental techniques, including isotopic analysis, applicable to the characterization of unusual materials with potential relevance to aerospace forensics', Progress in Aerospace Sciences 128:100788",
+"url": "https://doi.org/10.1016/j.paerosci.2021.100788"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2008",
+"dateStart": "2007",
+"direction": "in",
+"edgeLabel": "2007 approach that originated the contract",
+"id": "james-lacatski",
+"l0": false,
+"label": "James T. Lacatski",
+"note": "Per 'Skinwalkers at the Pentagon' Lacatski wrote to Bigelow on DIA letterhead on 19 June 2007; DIA reports no records of the letter.",
+"sources": [
+{
+"date": "2023-09-01",
+"name": "The Black Vault — FOIA-00023-2022",
+"url": "https://www.theblackvault.com/documentarchive/wp-content/uploads/2023/09/FOIA00023-2022.pdf"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 2,
+"cls": "document",
+"dateEnd": "2024",
+"dateStart": "2024",
+"direction": "in",
+"edgeLabel": "names Bigelow as the seeding influence behind the modern belief system",
+"id": "kirkpatrick-sciam-oped-2024",
+"l0": false,
+"label": "Kirkpatrick, 'Here's What I Learned as the U.S. Government's UFO Hunter' (Scientific American)",
+"note": "The op-ed's causal account routes the entire disclosure record back through Bigelow's funding of the AAWSAP/AATIP orbit.",
+"sources": [
+{
+"date": "2024-01-19",
+"name": "Scientific American op-ed",
+"url": "https://www.scientificamerican.com/article/heres-what-i-learned-as-the-u-s-governments-ufo-hunter/"
+}
+],
+"tier": "B",
+"type": "denial"
+},
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": "2012",
+"dateStart": "2011",
+"direction": "out",
+"edgeLabel": "Bigelow's organisation was the anticipated contract performer for the proposed program",
+"id": "kona-blue",
+"l0": true,
+"label": "KONA BLUE",
+"note": "AARO notes the material 'was only assumed to exist by KONA BLUE advocates and its anticipated contract performers,' and that the proposed lines of effort mirrored the private sector organisation's AAWSAP work.",
+"sources": [
+{
+"date": "2024-03-08",
+"name": "AARO, 'Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP), Volume I'",
+"url": "https://documents2.theblackvault.com/documents/dod/AARO_Historical_Record_Report_Volume_1_2024.pdf"
+}
+],
+"tier": "A",
+"type": "funding"
+},
+{
+"claimTier": 1,
+"cls": "location",
+"dateEnd": "2016",
+"dateStart": "1996",
+"direction": "out",
+"edgeLabel": "purchased the ranch in 1996 and owned it throughout the DIA contract",
+"id": "l-skinwalker",
+"l0": false,
+"label": "Skinwalker Ranch, Uintah Basin, Utah",
+"note": "The Deseret News reported the sale in June 1996 and Bigelow confirmed in August 1998 that the Shermans had agreed as a condition of purchase to keep quiet about what they had witnessed.",
+"sources": [
+{
+"date": "2024-03-08",
+"name": "AARO Historical Record Report Volume 1",
+"url": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF"
+},
+{
+"date": "1996-06-30",
+"name": "Zack Van Eyck, 'Frequent Fliers?', Deseret News",
+"url": "https://www.deseret.com/1996/6/30/19251541/frequent-fliers"
+},
+{
+"date": "1998-08-10",
+"name": "Zack Van Eyck, 'Private UFO study takes a public turn', Deseret News",
+"url": "https://www.deseret.com/1998/8/10/19395824/private-ufo-study-takes-a-public-turn"
+},
+{
+"date": "2026-08-12",
+"name": "Wikipedia - Skinwalker Ranch",
+"url": "https://en.wikipedia.org/wiki/Skinwalker_Ranch"
+}
+],
+"tier": "A",
+"type": "custody"
+},
+{
+"claimTier": 2,
+"cls": "program",
+"dateEnd": "2004",
+"dateStart": "1995",
+"direction": "out",
+"edgeLabel": "founded and privately funded NIDS 1995-2004",
+"id": "nids",
+"l0": true,
+"label": "National Institute for Discovery Science (NIDS)",
+"note": "NIDS described itself as a privately funded science institute studying aerial phenomena and animal mutilations; Bigelow shut it down in 2004.",
+"sources": [
+{
+"date": "2024-01-01",
+"name": "Wikipedia — NIDS",
+"url": "https://en.wikipedia.org/wiki/National_Institute_for_Discovery_Science"
+},
+{
+"date": "2021-05-10",
+"name": "Gideon Lewis-Kraus, 'How the Pentagon Started Taking U.F.O.s Seriously', The New Yorker",
+"url": "https://www.newyorker.com/magazine/2021/05/10/how-the-pentagon-started-taking-ufos-seriously"
+},
+{
+"date": "1998-08-10",
+"name": "Zack Van Eyck, 'Private UFO study takes a public turn', Deseret News",
+"url": "https://www.deseret.com/1998/8/10/19395824/private-ufo-study-takes-a-public-turn"
+}
+],
+"tier": "A",
+"type": "funding"
+}
+],
+"date": "2008-09-22",
+"dateEnd": null,
+"dateStart": "2008-09-22",
+"deg": 11,
+"denials": [
+{
+"by": {
+"id": "kirkpatrick-sciam-oped-2024",
+"label": "Kirkpatrick, 'Here's What I Learned as the U.S. Government's UFO Hunter' (Scientific American)"
+},
+"claimTier": 2,
+"denialKind": "directed",
+"label": "names Bigelow as the seeding influence behind the modern belief system",
+"note": "The op-ed's causal account routes the entire disclosure record back through Bigelow's funding of the AAWSAP/AATIP orbit.",
+"of": {
+"id": "robert-bigelow",
+"label": "Robert T. Bigelow"
+},
+"sources": [
+{
+"date": "2024-01-19",
+"name": "Scientific American op-ed",
+"url": "https://www.scientificamerican.com/article/heres-what-i-learned-as-the-u-s-governments-ufo-hunter/"
+}
+]
+}
+],
+"domains": [
+"_rs-archive-mirror",
+"aawsap-aatip",
+"history-1970s-2000s",
+"primes-custody"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "2",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "robert-bigelow",
+"instId": "bigelow-aerospace",
+"l0": false,
+"label": "Robert T. Bigelow",
+"loc": "Las Vegas, NV",
+"locId": "l-las-vegas",
+"members": null,
+"narrative": "Bigelow privatised the problem. A Las Vegas real-estate developer who built the Budget Suites of America extended-stay chain, he founded the National Institute for Discovery Science in 1995 as a privately funded research institute studying aerial phenomena, animal mutilations and related anomalies, and staffed it with people carrying federal clearances and federal programme histories - Hal Puthoff from the CIA/DIA remote-viewing programmes, Colonel John Alexander from Army INSCOM and Los Alamos, the biochemist Colm Kelleher, and Jacques Vallee. In 1996 he bought the 480-acre Sherman ranch in Uintah County, Utah - Skinwalker Ranch - as a permanent instrumented field site, requiring the sellers to sign non-disclosure conditions as part of the purchase. He told the Deseret News in August 1998, in his first interview on the subject, that the phenomena had continued and that 'we wouldn't be there just for the weather,' while declining to discuss specifics. NIDS operated a public reporting hotline and a veterinary necropsy response capability. He shut NIDS down in 2004 but kept the ranch. Three years later a senior Defense Intelligence Agency official wrote to him about Skinwalker, and that contact became the AAWSAP contract. Bigelow is therefore the mechanism by which a private billionaire's field programme was converted into a federally funded intelligence programme without changing the personnel - which is the single most important structural fact about how this subject was handled after Blue Book closed.",
+"photoCredit": null,
+"sequenceChain": [
+{
+"date": "1995-01-01",
+"event": "Founds the National Institute for Discovery Science",
+"isAnomalous": false,
+"source": "Gideon Lewis-Kraus, The New Yorker, 10 May 2021, quoting NIDS' own description"
+},
+{
+"date": "1996-01-01",
+"event": "Purchases the 480-acre Sherman ranch in Uintah County, Utah, with non-disclosure conditions on the sellers.",
+"isAnomalous": false,
+"source": "Gideon Lewis-Kraus, The New Yorker, 10 May 2021, quoting NIDS' own description"
+},
+{
+"date": "2008-09-22",
+"event": "BAASS awarded DIA contract HHM402-08-C-0072",
+"isAnomalous": false,
+"source": "DIA contract release FOIA-00349-2018, released 13 Oct 2022"
+},
+{
+"date": "2009-07-01",
+"event": "BAASS delivers the 494-page Ten Month Report to DIA",
+"isAnomalous": false,
+"source": null
+}
+],
+"short": "Robert T. Bigelow",
+"sources": [
+{
+"date": "2026-07-05",
+"name": "Archived: AARO Historical Record Report Volume 1 (Wayback 2026-07-05)",
+"url": "https://web.archive.org/web/20260705034310/https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF"
+},
+{
+"date": "2022-10-13",
+"name": "DIA AAWSAP contract (FOIA-00349-2018)",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP/FOIA-00349-2018.pdf"
+},
+{
+"date": "2024-03-08",
+"name": "AARO Historical Record Report Volume 1",
+"url": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF"
+},
+{
+"date": "2017-05-30",
+"name": "Space.com — Aliens Have Visited Earth, Robert Bigelow Believes",
+"url": "https://www.space.com/37062-aliens-have-visited-earth-robert-bigelow-says.html"
+},
+{
+"date": "2024-01-01",
+"name": "Wikipedia — National Institute for Discovery Science",
+"url": "https://en.wikipedia.org/wiki/National_Institute_for_Discovery_Science"
+},
+{
+"date": "1996-06-30",
+"name": "Zack Van Eyck, 'Frequent Fliers?', Deseret News",
+"url": "https://www.deseret.com/1996/6/30/19251541/frequent-fliers"
+},
+{
+"date": "1998-08-10",
+"name": "Zack Van Eyck, 'Private UFO study takes a public turn', Deseret News",
+"url": "https://www.deseret.com/1998/8/10/19395824/private-ufo-study-takes-a-public-turn"
+},
+{
+"date": "2021-05-10",
+"name": "Gideon Lewis-Kraus, 'How the Pentagon Started Taking U.F.O.s Seriously', The New Yorker",
+"url": "https://www.newyorker.com/magazine/2021/05/10/how-the-pentagon-started-taking-ufos-seriously"
+},
+{
+"date": "2018-03-22",
+"name": "'Harry Reid on What the Government Knows About UFOs', New York Magazine / Intelligencer",
+"url": "https://nymag.com/intelligencer/2018/03/harry-reid-on-what-the-government-knows-about-ufos.html"
+},
+{
+"date": "2023-05-02",
+"name": "Barry Greenwood, review of 'Skinwalkers at the Pentagon', Journal of Scientific Exploration 37(1) 127-131",
+"url": "https://journalofscientificexploration.org/index.php/jse/article/view/2857"
+},
+{
+"date": "2024-03-08",
+"name": "AARO, 'Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP), Volume I'",
+"url": "https://documents2.theblackvault.com/documents/dod/AARO_Historical_Record_Report_Volume_1_2024.pdf"
+},
+{
+"date": "2025-09-09",
+"name": "House Oversight Task Force on the Declassification of Federal Secrets hearing transcript, 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection' (CHRG-119hhrg61718, Serial No. 119-44)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm"
+},
+{
+"date": "2026-08-12",
+"name": "USAspending.gov federal award search (prime contract obligations by recipient)",
+"url": "https://www.usaspending.gov/search"
+},
+{
+"date": "2024-06-01",
+"name": "The Black Vault, 'DoD Releases KONA BLUE Documents'",
+"url": "https://www.theblackvault.com/documentarchive/dod-releases-kona-blue-documents/"
+}
+],
+"status": "active",
+"sub": "Founder, Budget Suites / Bigelow Aerospace / NIDS / BAASS",
+"tier": "A",
+"tierRationale": "Re-graded A on a global pass (rank 56 of 1027, score 75). 11 connections, 4 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C3/A2/D2.",
+"timeline": [
+{
+"date": "1998-08-10",
+"id": "t-1998-bigelow",
+"label": "Bigelow's first NIDS interview",
+"precision": "day",
+"strand": "program",
+"text": "Bigelow tells the Deseret News that anomalous aerial activity and animal deaths have continued around the ranch and that 'we wouldn't be there just for the weather,' while declining to discuss specifics.",
+"tier": "A"
+},
+{
+"date": "2017-05-28",
+"id": "tl-2017-60min",
+"label": "Bigelow on 60 Minutes",
+"precision": "day",
+"strand": "witness",
+"text": "Robert Bigelow tells CBS he is 'absolutely convinced' of an extraterrestrial presence on Earth, seven months before the program he was paid to run becomes public.",
+"tier": "B"
+}
+],
+"unexplainedResidual": null,
+"unverified": [
+"The full amount BAASS itself spent above the government obligation; Bigelow has said he spent far more of his own money than the contract paid.",
+"The disposition of NIDS' raw instrument and necropsy data after the 2004 shutdown is unknown.",
+"Whether any material was ever physically delivered to Bigelow Aerospace.",
+"The identity of the 'facility in California.'"
+]
+}

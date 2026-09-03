@@ -1,0 +1,181 @@
+{
+"A": 2,
+"C": 2,
+"D": 0,
+"affiliations": [
+"Battelle Memorial Institute, Columbus, Ohio",
+"Project Stork (Air Force contract) - Battelle liaison to Wright-Patterson AFB"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "1952-01-01",
+"event": "Battelle running Project Stork analytical work for the Air Force on Blue Book data",
+"precision": "year"
+},
+{
+"date": "1953-01-09",
+"event": "Writes the memorandum to Miles E. Goll at Wright-Patterson AFB, ref. G-1579-4, classified SECRET",
+"precision": "day"
+},
+{
+"date": "1953-01-14",
+"event": "Robertson Panel convenes; per Vallee, it is not briefed on the Pentacle proposals",
+"precision": "day"
+},
+{
+"date": "1967-06-18",
+"event": "Jacques Vallee finds the memo among J. Allen Hynek's papers and records it in his journal",
+"precision": "day"
+},
+{
+"date": "1992-01-01",
+"event": "Vallee publishes an account in Forbidden Science, using the codename 'Pentacle'",
+"precision": "year"
+}
+],
+"claims": [
+{
+"source": "Text and provenance published by the Computer UFO Network (CUFON); Jacques Vallee, Forbidden Science",
+"text": "A two-page memorandum dated 9 January 1953, reference G-1579-4, marked SECRET and unsigned, was addressed to Miles E. Goll at Wright-Patterson AFB under Project Stork; H. C. Cross of Battelle Memorial Institute was later identified as its author.",
+"tier": 1
+},
+{
+"source": "CUFON transcription of the Pentacle Memorandum",
+"text": "The memorandum proposes controlled experiments with observation posts in high-report areas and states that 'many different types of aerial activity should be secretly and purposefully scheduled within the area.'",
+"tier": 1
+},
+{
+"source": "Jacques Vallee, Forbidden Science (1992) and subsequent correspondence quoted by CUFON",
+"text": "Vallee holds that the Robertson Panel, which met 14-16 January 1953, was not briefed on the Pentacle proposals, and that a separate group had already determined the boundaries of what the panel could discuss.",
+"tier": 2
+}
+],
+"cls": "person",
+"cluster": "ffrdc",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 2,
+"cls": "institution",
+"dateEnd": "1955",
+"dateStart": "1952",
+"direction": "out",
+"edgeLabel": "Battelle's Air Force liaison for Blue Book-related work",
+"id": "battelle",
+"l0": true,
+"label": "Battelle Memorial Institute",
+"note": "Cross was the named point of contact between Battelle's Stork analysts and Wright-Patterson.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "CUFON",
+"url": "https://www.cufon.org/cufon/pentacle.htm"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": "1953",
+"direction": "out",
+"edgeLabel": "Author of the 9 January 1953 memorandum",
+"id": "pentacle-memorandum",
+"l0": false,
+"label": "The Pentacle Memorandum",
+"note": "Two pages, reference G-1579-4, SECRET, unsigned, to Miles E. Goll at Wright-Patterson AFB.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "CUFON",
+"url": "https://www.cufon.org/cufon/pentacle.htm"
+}
+],
+"tier": "B",
+"type": "custody"
+}
+],
+"date": "1953-01-09",
+"dateEnd": null,
+"dateStart": "1953-01-09",
+"deg": 2,
+"denials": [],
+"domains": [
+"ffrdcs"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "howard-c-cross",
+"instId": "battelle",
+"l0": false,
+"label": "Howard C. Cross",
+"loc": "Columbus, OH",
+"locId": "l-columbus-oh",
+"members": null,
+"narrative": "Cross is the earliest documented instance on this board of a contractor scientist proposing to manipulate the government's own UFO investigation rather than merely support it. He was Battelle Memorial Institute's liaison to the Air Force for the work that became Project Stork and Blue Book Special Report No. 14. On 9 January 1953 he wrote a two-page memorandum to Miles E. Goll at Wright-Patterson Air Force Base, reference G-1579-4, classified SECRET and unsigned. Jacques Vallee found it in 1967 in J. Allen Hynek's papers and, because Cross's identity was then unknown to him, gave the author the codename 'Pentacle'. The memo proposes a controlled large-scale experiment in areas of high UFO report concentration, with observation posts equipped for visual skywatch, radar and photography, and states that 'many different types of aerial activity should be secretly and purposefully scheduled within the area.' It was written five days before the CIA-convened Robertson Panel met on 14-16 January 1953 - the panel that produced the recommendation to strip UFO reports of their special status and debunk them. Vallee's conclusion, which this board adopts, is that the panel was never told about the Pentacle proposals, and that another group had already decided what could and could not be discussed. A private contractor, in writing, proposed to generate the very stimulus the official investigation would then be asked to explain. That is the template.",
+"photoCredit": null,
+"sequenceChain": [
+{
+"date": "1952-01-01",
+"event": "Battelle running Project Stork analytical work for the Air Force on Blue Book data",
+"isAnomalous": false,
+"source": null
+},
+{
+"date": "1953-01-09",
+"event": "Writes the memorandum to Miles E. Goll at Wright-Patterson AFB, ref. G-1579-4, classified SECRET",
+"isAnomalous": false,
+"source": "Text and provenance published by the Computer UFO Network (CUFON); Jacques Vallee, Forbidden Science"
+},
+{
+"date": "1953-01-14",
+"event": "Robertson Panel convenes; per Vallee, it is not briefed on the Pentacle proposals",
+"isAnomalous": true,
+"source": "Jacques Vallee, Forbidden Science (1992) and subsequent correspondence quoted by CUFON"
+},
+{
+"date": "1967-06-18",
+"event": "Jacques Vallee finds the memo among J. Allen Hynek's papers and records it in his journal",
+"isAnomalous": false,
+"source": "Text and provenance published by the Computer UFO Network (CUFON); Jacques Vallee, Forbidden Science"
+},
+{
+"date": "1992-01-01",
+"event": "Vallee publishes an account in Forbidden Science, using the codename 'Pentacle'",
+"isAnomalous": false,
+"source": "Text and provenance published by the Computer UFO Network (CUFON); Jacques Vallee, Forbidden Science"
+}
+],
+"short": "Howard C. Cross",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "CUFON - The 'Pentacle' Memorandum",
+"url": "https://www.cufon.org/cufon/pentacle.htm"
+},
+{
+"date": "2020-12-31",
+"name": "The Gralien Report - The Pentacle Memorandum: What a 1953 Secret Memo Tells Us About Government UFO Studies",
+"url": "https://www.gralienreport.com/ufos/the-pentacle-memorandum-what-a-1953-secret-memo-tells-us-about-government-ufo-studies/"
+}
+],
+"status": "dead",
+"sub": "Battelle Memorial Institute scientist; Battelle's liaison to the Air Force for Project Blue Book work; author of the 'Pentacle Memorandum'",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 554 of 1027, score 27). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A2/D0.",
+"timeline": [],
+"unexplainedResidual": "Why a contractor scientist believed he had standing to shape the terms of a CIA-convened scientific panel five days before it met.",
+"unverified": [
+"The original signed copy of the memorandum has never been produced by the Air Force or by Battelle."
+]
+}

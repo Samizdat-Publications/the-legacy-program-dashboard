@@ -1,0 +1,324 @@
+{
+"A": 3,
+"C": 2,
+"D": 1,
+"band": "custody",
+"claims": [
+{
+"source": "Atomic Energy Act of 1946, Public Law 79-585, 60 Stat. 755, sec. 2(a), approved 1 August 1946, https://www.govinfo.gov/content/pkg/STATUTE-60/pdf/STATUTE-60-Pg755.pdf",
+"text": "The Commission was created by statute: 'There is hereby established an Atomic Energy Commission (herein called the Commission), which shall be composed of five members.' Members are appointed by the President by and with the advice and consent of the Senate.",
+"tier": 1
+},
+{
+"source": "Atomic Energy Act of 1946, Public Law 79-585, 60 Stat. 755, sec. 9(a), https://www.govinfo.gov/content/pkg/STATUTE-60/pdf/STATUTE-60-Pg755.pdf",
+"text": "The Commission took statutory custody of the Manhattan Engineer District's holdings. Section 9(a) directs the transfer to the Commission of 'All fissionable material; all atomic weapons and parts thereof' and of 'Such other property owned by or in the custody or control of the Manhattan Engineer District or other Government agencies as the President may determine.'",
+"tier": 1
+},
+{
+"source": "Atomic Energy Act of 1946, Public Law 79-585, 60 Stat. 755, sec. 10(b)(1), https://www.govinfo.gov/content/pkg/STATUTE-60/pdf/STATUTE-60-Pg755.pdf",
+"text": "Classification runs by category rather than by decision. The 1946 Act defines restricted data as 'all data concerning the manufacture or utilization of atomic weapons, the production of fissionable material, or the use of fissionable material in the production of power, but shall not include any data which the Commission from time to time determines may be published without adversely affecting the common defense and security.'",
+"tier": 1
+},
+{
+"source": "Atomic Energy Act of 1946, sec. 2(a)(4)(B), https://www.govinfo.gov/content/pkg/STATUTE-60/pdf/STATUTE-60-Pg755.pdf ; Atomic Energy Act of 1954, Public Law 83-703, 68 Stat. 919, sec. 25, https://www.govinfo.gov/content/pkg/STATUTE-68/pdf/STATUTE-68-Pg919.pdf",
+"text": "A Division of Military Application under a serving officer was in the Commission from the start: the 1946 Act establishes it alongside Research, Production and Engineering and provides that 'The Director of the Division of Military Application shall be a member of the armed forces.' The 1954 Act carries it forward at section 25 with the Director required to be 'an active member of the Armed Forces.'",
+"tier": 1
+},
+{
+"source": "Energy Reorganization Act of 1974, Public Law 93-438, 88 Stat. 1233, secs. 104(a) and 312(a), approved 11 October 1974, https://www.govinfo.gov/content/pkg/STATUTE-88/pdf/STATUTE-88-Pg1233.pdf",
+"text": "The Commission was abolished by statute: 'The Atomic Energy Commission is hereby abolished.' Its functions vested in the Administrator of the Energy Research and Development Administration, and the Act took effect 120 days after enactment or on an earlier date the President might prescribe.",
+"tier": 1
+}
+],
+"cls": "institution",
+"cluster": "oversight",
+"connections": [
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "Funded by AEC working fund advances; Chief and Deputy sat on the Military Liaison Committee",
+"id": "afswp",
+"l0": false,
+"label": "Armed Forces Special Weapons Project",
+"note": "The charter provides that AFSWP funds other than military pay come by working fund advances to the War Department from the Atomic Energy Commission out of money formerly available to the Manhattan Project, and the founding memorandum places the Chief and Deputy Chief on the Military Liaison Committee to the Commission.",
+"sources": [
+{
+"date": "1947-03-18",
+"name": "War Department Memorandum No. 850-25-8, para. 6, in Defense's Nuclear Agency 1947-1997",
+"url": "https://archive.org/download/DTIC_ADA412977/DTIC_ADA412977_djvu.txt"
+}
+],
+"tier": "B",
+"type": "funding"
+},
+{
+"claimTier": 1,
+"cls": "legislation",
+"dateEnd": "1946",
+"dateStart": "1946",
+"direction": "in",
+"edgeLabel": "The instrument that created the Commission",
+"id": "atomic-energy-act-1946",
+"l0": false,
+"label": "Atomic Energy Act of 1946 (McMahon Act)",
+"note": "Section 2(a) of this Act establishes the Atomic Energy Commission and section 10 gives it the born-secret regime the Commission then ran for twenty-eight years.",
+"sources": [
+{
+"date": "1946-08-01",
+"name": "Atomic Energy Act of 1946, secs. 2(a) and 10",
+"url": "https://www.govinfo.gov/content/pkg/STATUTE-60/pdf/STATUTE-60-Pg755.pdf"
+}
+],
+"tier": "B",
+"type": "legislative"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "1974",
+"dateStart": "1974",
+"direction": "out",
+"edgeLabel": "Abolished 1974; functions passed through ERDA to the Department of Energy",
+"id": "doe",
+"l0": true,
+"label": "United States Department of Energy",
+"note": "The Energy Reorganization Act of 1974 abolished the Commission and vested its functions in the ERDA Administrator, and the NARA record group description names the Department of Energy as the eventual holder of the research, development and production functions.",
+"sources": [
+{
+"date": "1974-10-11",
+"name": "Energy Reorganization Act of 1974, sec. 104(a)",
+"url": "https://www.govinfo.gov/content/pkg/STATUTE-88/pdf/STATUTE-88-Pg1233.pdf"
+},
+{
+"date": "2026-09-02",
+"name": "Records of the Atomic Energy Commission, Record Group 326, Guide to Federal Records in the National Archives",
+"url": "https://www.archives.gov/research/guide-fed-records/groups/326.html"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "Holds nuclear test participation and radiation exposure records from the Commission's era, under Atomic Energy Act authority",
+"id": "dtra",
+"l0": false,
+"label": "Defense Threat Reduction Agency",
+"note": "DTRA's published Privacy Act inventory states it holds nuclear test participation and exposure records reaching back to 1945 and human radiation experimentation records reaching back to 1944, with the Atomic Energy Act of 1954 among its authorities. The Commission's own records are held separately by the National Archives as RG 326.",
+"sources": [
+{
+"date": "1998-12-14",
+"name": "63 FR 68736, systems HDTRA 010 and HDTRA 020",
+"url": "https://www.federalregister.gov/documents/1998/12/14/98-33042/privacy-act-of-1974-system-of-records"
+}
+],
+"tier": "B",
+"type": "custody"
+},
+{
+"claimTier": 1,
+"cls": "location",
+"dateEnd": "1955",
+"dateStart": "1955",
+"direction": "out",
+"edgeLabel": "Absorbed Groom Lake into its Nevada real estate at CIA request, 1955",
+"id": "l-groom-lake",
+"l0": false,
+"label": "Groom Lake, Nevada",
+"note": "The CIA's own overhead reconnaissance history records that after the April 1955 overflight Bissell found Groom Lake was not part of the AEC proving ground, and that he and Miller asked the Commission to add it, which Chairman Lewis Strauss agreed to do.",
+"sources": [
+{
+"date": "2013-06-25",
+"name": "Pedlow and Welzenbach, The Central Intelligence Agency and Overhead Reconnaissance, 2013 release, chapter 2",
+"url": "https://archive.org/download/cia-readingroom-document-0000190094/0000190094_djvu.txt"
+}
+],
+"tier": "B",
+"type": "geographic"
+},
+{
+"claimTier": 1,
+"cls": "location",
+"dateEnd": "1955",
+"dateStart": "1955",
+"direction": "out",
+"edgeLabel": "Area 51 was added to the Nevada Test Site by the Commission",
+"id": "l-nevada-test-site",
+"l0": false,
+"label": "Nevada Test Site / Nevada National Security Site",
+"note": "The same CIA history states that Eisenhower approved the addition of the strip known by its map designation as Area 51 to the Nevada Test Site, and DNA 6040F separately locates Groom Lake at the northeast corner of the AEC's Nevada Proving Ground.",
+"sources": [
+{
+"date": "2013-06-25",
+"name": "Pedlow and Welzenbach, The Central Intelligence Agency and Overhead Reconnaissance, 2013 release, chapter 2",
+"url": "https://archive.org/download/cia-readingroom-document-0000190094/0000190094_djvu.txt"
+}
+],
+"tier": "C",
+"type": "geographic"
+},
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": "1946",
+"dateStart": "1946",
+"direction": "out",
+"edgeLabel": "Statutory transfer of the Manhattan Engineer District's holdings",
+"id": "manhattan-project-2",
+"l0": true,
+"label": "'Manhattan Project 2.0' (alleged secrecy architecture)",
+"note": "Section 9(a) of the 1946 Act directs the President to transfer to the Commission all fissionable material, all atomic weapons and parts, all processes and technical information, and such other property in the custody or control of the Manhattan Engineer District as he may determine.",
+"sources": [
+{
+"date": "1946-08-01",
+"name": "Atomic Energy Act of 1946, sec. 9(a)",
+"url": "https://www.govinfo.gov/content/pkg/STATUTE-60/pdf/STATUTE-60-Pg755.pdf"
+}
+],
+"tier": "A",
+"type": "custody"
+}
+],
+"coords": null,
+"dateEnd": "1974-10-11",
+"dateStart": "1946-08-01",
+"deg": 7,
+"denials": [],
+"desc": "The Atomic Energy Commission was created by the Atomic Energy Act of 1946 and took statutory title to everything the Manhattan Engineer District had held: all fissionable material, all atomic weapons and parts, and all processes and technical information behind them. It ran the born-secret information regime, under which data in defined categories is classified by operation of statute and declassified only by an affirmative act of the Commission, and it gated every contractor employee's access behind an FBI investigation and a Commission determination. Its Division of Military Application was established in the founding statute and directed by a serving officer of the armed forces. The Energy Reorganization Act of 1974 abolished it and vested its functions in ERDA, from which they passed to the Department of Energy. Four guests across four Michels lead maps place the Commission at a custody point for recovered material; nothing in either statute or in the National Archives record group description says anything about recovered material, and the node carries the statute rather than the testimony.",
+"domains": [
+"michels-2026-09-02"
+],
+"dossier": {
+"claims": [
+{
+"source": "Atomic Energy Act of 1946, Public Law 79-585, 60 Stat. 755, sec. 2(a), approved 1 August 1946, https://www.govinfo.gov/content/pkg/STATUTE-60/pdf/STATUTE-60-Pg755.pdf",
+"text": "The Commission was created by statute: 'There is hereby established an Atomic Energy Commission (herein called the Commission), which shall be composed of five members.' Members are appointed by the President by and with the advice and consent of the Senate.",
+"tier": 1
+},
+{
+"source": "Atomic Energy Act of 1946, Public Law 79-585, 60 Stat. 755, sec. 9(a), https://www.govinfo.gov/content/pkg/STATUTE-60/pdf/STATUTE-60-Pg755.pdf",
+"text": "The Commission took statutory custody of the Manhattan Engineer District's holdings. Section 9(a) directs the transfer to the Commission of 'All fissionable material; all atomic weapons and parts thereof' and of 'Such other property owned by or in the custody or control of the Manhattan Engineer District or other Government agencies as the President may determine.'",
+"tier": 1
+},
+{
+"source": "Atomic Energy Act of 1946, Public Law 79-585, 60 Stat. 755, sec. 10(b)(1), https://www.govinfo.gov/content/pkg/STATUTE-60/pdf/STATUTE-60-Pg755.pdf",
+"text": "Classification runs by category rather than by decision. The 1946 Act defines restricted data as 'all data concerning the manufacture or utilization of atomic weapons, the production of fissionable material, or the use of fissionable material in the production of power, but shall not include any data which the Commission from time to time determines may be published without adversely affecting the common defense and security.'",
+"tier": 1
+},
+{
+"source": "Atomic Energy Act of 1946, sec. 2(a)(4)(B), https://www.govinfo.gov/content/pkg/STATUTE-60/pdf/STATUTE-60-Pg755.pdf ; Atomic Energy Act of 1954, Public Law 83-703, 68 Stat. 919, sec. 25, https://www.govinfo.gov/content/pkg/STATUTE-68/pdf/STATUTE-68-Pg919.pdf",
+"text": "A Division of Military Application under a serving officer was in the Commission from the start: the 1946 Act establishes it alongside Research, Production and Engineering and provides that 'The Director of the Division of Military Application shall be a member of the armed forces.' The 1954 Act carries it forward at section 25 with the Director required to be 'an active member of the Armed Forces.'",
+"tier": 1
+},
+{
+"source": "Pedlow and Welzenbach, The Central Intelligence Agency and Overhead Reconnaissance, 2013 release, chapter 2, https://archive.org/download/cia-readingroom-document-0000190094/0000190094_djvu.txt",
+"text": "The Commission absorbed Groom Lake into its Nevada real estate at CIA's request in 1955. The Agency's own overhead reconnaissance history records that after the April 1955 overflight Bissell found Groom Lake was not part of the proving ground, that he and Miller asked the Commission to add it, that Chairman Lewis Strauss agreed, and that Eisenhower approved the addition of the strip known by its map designation as Area 51 to the Nevada Test Site.",
+"tier": 1
+},
+{
+"source": "Energy Reorganization Act of 1974, Public Law 93-438, 88 Stat. 1233, secs. 104(a) and 312(a), approved 11 October 1974, https://www.govinfo.gov/content/pkg/STATUTE-88/pdf/STATUTE-88-Pg1233.pdf",
+"text": "The Commission was abolished by statute: 'The Atomic Energy Commission is hereby abolished.' Its functions vested in the Administrator of the Energy Research and Development Administration, and the Act took effect 120 days after enactment or on an earlier date the President might prescribe.",
+"tier": 1
+}
+],
+"connections": [
+"atomic-energy-act-1946 is the instrument that created it, and section 10 gave it the born-secret regime it ran for twenty-eight years.",
+"Took statutory transfer of the holdings of manhattan-project-2 under section 9(a) of the 1946 Act.",
+"Funded afswp by working fund advances to the War Department out of money formerly available to the Manhattan Project, with the Chief and Deputy Chief seated on the Military Liaison Committee to the Commission.",
+"dtra holds nuclear test participation and radiation exposure records from the Commission's era under Atomic Energy Act authority, while the Commission's own records sit separately at the National Archives as Record Group 326.",
+"Absorbed l-groom-lake at CIA's request in 1955, and l-nevada-test-site is the reservation into which the strip designated Area 51 was added.",
+"Abolished in 1974, with its functions passing through ERDA to doe."
+],
+"denialPosture": "The Commission is not recorded on this board as having denied anything, and no denial link touches this node in either direction. Its disclosure letter is the lowest on the map for a reason that is architectural rather than behavioural: a body operating a born-secret regime does not need to deny, because the statute withholds by default and release requires an affirmative act the Commission alone can take. The board's discipline on this node runs the same way. Guest testimony placing it at a custody point for recovered material is not carried as a claim, because the statute and the archival record say nothing to support it.",
+"narrative": "The Commission is on this board for what its statute permits, not for what any witness says it did. Section 9(a) transferred to it 'All fissionable material; all atomic weapons and parts thereof' and, in the same list, 'Such other property owned by or in the custody or control of the Manhattan Engineer District or other Government agencies as the President may determine.' That second clause is a custody instrument with no subject-matter limit in it. Any account that has recovered material moving into federal custody in the late 1940s has to explain which authority received it, and this is the authority whose founding statute was drafted to receive whatever the President said it should receive.\n\nThe classification regime is the second half of the same argument. Restricted data under the 1946 Act is 'all data concerning the manufacture or utilization of atomic weapons, the production of fissionable material, or the use of fissionable material in the production of power, but shall not include any data which the Commission from time to time determines may be published without adversely affecting the common defense and security.' The default runs the opposite way from every executive-order system on this board: information is secret because of what it is about, and it becomes public only by an affirmative act. A Division of Military Application, statutorily directed by a member of the armed forces, sat inside this civilian body from the first day. Civilian control with a uniformed division and a self-executing secrecy rule is a specific architecture, and it is the one the board keeps pointing at.\n\nThe geography closes the case for placement. CIA's own overhead reconnaissance history records that after the April 1955 overflight, Bissell found Groom Lake was not part of the proving ground, that he and Miller asked the Commission to add it, and that Chairman Lewis Strauss agreed. That is how the site got its jurisdiction. What the board declines to do is take the next step. Four guests across four Michels lead maps place the Commission at a custody point for recovered material. Nothing in either statute, and nothing in the National Archives description of Record Group 326, says anything of the kind. The node carries the statute, and the testimony stays off it.",
+"openQuestions": [
+"Nothing in the 1946 Act, the 1954 Act or the National Archives description of Record Group 326 speaks to recovered non-nuclear material. The statute permits a custody the record does not evidence, and the board holds only the permission.",
+"Four guests across four Michels lead maps place the Commission at a custody point for recovered material. Those assertions are named in the node's own record and deliberately not carried as claims; no document has been opened that would raise or refute them.",
+"The Commission's own series inside Record Group 326 have not been examined. The board cites the record group description, not the records."
+],
+"roles": [
+"custody",
+"concealment",
+"oversight"
+],
+"whatItIs": "The civilian atomic authority of the United States from 1 August 1946 to 11 October 1974. It was created by section 2(a) of the Atomic Energy Act of 1946 as a five-member commission appointed by the President with the advice and consent of the Senate, and it took statutory title under section 9(a) to everything the Manhattan Engineer District had held: all fissionable material, all atomic weapons and parts, and such other property in the custody or control of the District as the President might determine. It ran the born-secret information regime, it seated a Division of Military Application under a serving officer of the armed forces from the beginning, and it was abolished by the Energy Reorganization Act of 1974, its functions vesting in ERDA and passing from there to the Department of Energy.",
+"whyImplicated": "Three reasons, all statutory rather than testimonial. First, it is the only body in American law that has ever held a general custody title of the kind a recovery account requires, and the language of section 9(a) is broad enough to reach property that has nothing to do with fissionable material. Second, it ran the only classification regime in the United States where secrecy attaches by operation of statute rather than by an official's decision, so that a category of information is born classified and stays that way until the Commission affirmatively releases it. Third, it is the landlord: at CIA's request in 1955 it absorbed Groom Lake into its Nevada real estate, and the strip known by its map designation as Area 51 was added to the Nevada Test Site with the President's approval. The Commission's authority is the reason the most secure aviation site in the country sits inside an atomic reservation."
+},
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "atomic-energy-commission",
+"l0": true,
+"label": "Atomic Energy Commission",
+"locLabel": null,
+"members": [
+{
+"cls": "institution",
+"id": "afswp",
+"label": "Armed Forces Special Weapons Project",
+"tier": "B"
+},
+{
+"cls": "legislation",
+"id": "atomic-energy-act-1946",
+"label": "Atomic Energy Act of 1946 (McMahon Act)",
+"tier": "B"
+},
+{
+"cls": "institution",
+"id": "dtra",
+"label": "Defense Threat Reduction Agency",
+"tier": "B"
+},
+{
+"cls": "location",
+"id": "l-groom-lake",
+"label": "Groom Lake, Nevada",
+"tier": "B"
+},
+{
+"cls": "location",
+"id": "l-nevada-test-site",
+"label": "Nevada Test Site / Nevada National Security Site",
+"tier": "C"
+}
+],
+"short": "Atomic Energy Commission",
+"sources": [
+{
+"date": "1946-08-01",
+"name": "Atomic Energy Act of 1946, Public Law 79-585, 60 Stat. 755 (Ch. 724, S. 1717)",
+"url": "https://www.govinfo.gov/content/pkg/STATUTE-60/pdf/STATUTE-60-Pg755.pdf"
+},
+{
+"date": "1954-08-30",
+"name": "Atomic Energy Act of 1954, Public Law 83-703, 68 Stat. 919",
+"url": "https://www.govinfo.gov/content/pkg/STATUTE-68/pdf/STATUTE-68-Pg919.pdf"
+},
+{
+"date": "1974-10-11",
+"name": "Energy Reorganization Act of 1974, Public Law 93-438, 88 Stat. 1233",
+"url": "https://www.govinfo.gov/content/pkg/STATUTE-88/pdf/STATUTE-88-Pg1233.pdf"
+},
+{
+"date": "2026-09-02",
+"name": "Records of the Atomic Energy Commission, Record Group 326, Guide to Federal Records in the National Archives",
+"url": "https://www.archives.gov/research/guide-fed-records/groups/326.html"
+}
+],
+"sub": "Civilian atomic authority, 1946-1974; statutory custodian of fissionable material and atomic weapons",
+"tier": "A",
+"tierRationale": "Re-graded A on a global pass (rank 153 of 1027, score 50). 7 connections, 3 of them custody/witness/funding/programmatic. Axes C2/A3/D1.",
+"timeline": []
+}

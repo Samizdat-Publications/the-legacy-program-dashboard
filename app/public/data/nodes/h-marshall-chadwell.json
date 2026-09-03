@@ -1,0 +1,215 @@
+{
+"A": 3,
+"C": 1,
+"D": 0,
+"affiliations": [
+"CIA Office of Scientific Intelligence, Assistant Director (1951-1953)",
+"Atomic Energy Commission (prior)"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "1952-07-19",
+"event": "Washington DC radar-visual sightings begin; CIA attention escalates",
+"precision": "day"
+},
+{
+"date": "1952-09-11",
+"event": "Memorandum to the Director of Central Intelligence, subject 'Flying Saucers'",
+"precision": "day"
+},
+{
+"date": "1952-10-02",
+"event": "Further memorandum to the DCI on the flying saucer problem",
+"precision": "day"
+},
+{
+"date": "1952-12-02",
+"event": "Presses for a scientific panel; proposes Project Lincoln or Caltech as venues",
+"precision": "month"
+},
+{
+"date": "1953-01-14",
+"event": "Robertson Panel convenes under CIA Office of Scientific Intelligence auspices",
+"precision": "day"
+},
+{
+"date": "1953-01-27",
+"event": "Post-panel correspondence on implementing the panel's recommendations",
+"precision": "day"
+}
+],
+"claims": [
+{
+"source": "Chadwell memorandum to Director of Central Intelligence, subject: Flying Saucers, 11 Sep 1952 (declassified CIA document sampler)",
+"text": "Chadwell wrote to the DCI on 11 September 1952 that 'the flying saucer situation contains two elements of danger which... have national security implications.'",
+"tier": 1
+},
+{
+"source": "Same CIA 1952 memoranda series",
+"text": "CIA recorded that during July 1952 alone official reports of unidentified aerial phenomena totalled 250.",
+"tier": 1
+},
+{
+"source": "CIA Office of Scientific Intelligence memoranda, September-December 1952",
+"text": "Chadwell proposed a study group to analyse and systematise the factors, determine fields requiring investigation and make research recommendations, suggesting MIT's Project Lincoln or Caltech.",
+"tier": 1
+},
+{
+"source": "Gerald K. Haines, 'A Die-hard Issue: CIA's Role in the Study of UFOs, 1947-1990', Studies in Intelligence, 1997",
+"text": "'In January 1953, Chadwell and H. P. Robertson... put together a distinguished panel of nonmilitary scientists to study the UFO issue.'",
+"tier": 1
+}
+],
+"cls": "person",
+"cluster": "ic",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 2,
+"cls": "institution",
+"dateEnd": "1953",
+"dateStart": "1952",
+"direction": "out",
+"edgeLabel": "Assistant Director for Scientific Intelligence who drove the CIA's 1952-53 UFO effort",
+"id": "cia",
+"l0": true,
+"label": "Central Intelligence Agency",
+"note": "Chadwell's OSI memoranda are the internal record of CIA's decision to treat the subject as a security and public-opinion problem.",
+"sources": [
+{
+"date": "1997-01-01",
+"name": "Haines, 'CIA's Role in the Study of UFOs, 1947-1990', Studies in Intelligence",
+"url": "https://www.cia.gov/resources/csi/studies-in-intelligence/studies-in-intelligence-1997/cias-role-in-the-study-of-ufos-1947-1990/"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": "1953",
+"dateStart": "1952",
+"direction": "out",
+"edgeLabel": "Chadwell assembled the panel with Robertson",
+"id": "robertson-panel",
+"l0": true,
+"label": "Robertson Panel",
+"note": "The CIA's own official history states that in January 1953 Chadwell and H. P. Robertson put together the panel of nonmilitary scientists to study the UFO issue.",
+"sources": [
+{
+"date": "1997-01-01",
+"name": "Haines, CIA's Role in the Study of UFOs, 1947-1990",
+"url": "https://www.cia.gov/resources/csi/studies-in-intelligence/studies-in-intelligence-1997/cias-role-in-the-study-of-ufos-1947-1990/"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "1952",
+"dateStart": "1952",
+"direction": "out",
+"edgeLabel": "Chadwell's UFO memoranda were addressed to him and named him as approving authority",
+"id": "walter-bedell-smith",
+"l0": false,
+"label": "Walter Bedell Smith",
+"note": "Both the 2 October and 2 December 1952 memoranda are addressed to the Director of Central Intelligence through the Deputy Director for Intelligence, and the October routing page names Walter B. Smith as the approving authority on the Psychological Strategy Board recommendation.",
+"sources": [
+{
+"date": "1952-10-02",
+"name": "CIA document C00015339, Chadwell to the DCI, 2 October 1952",
+"url": "https://archive.org/details/cia-readingroom-document-0005515933"
+},
+{
+"date": "1952-12-02",
+"name": "Chadwell memorandum for the DCI, subject: Unidentified Flying Objects, 2 December 1952, with draft NSC memorandum and draft NSC directive (CIA C00015340)",
+"url": "https://archive.org/details/cia-readingroom-document-0005515935"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": "1952",
+"dateStart": "1952",
+"direction": "in",
+"edgeLabel": "The flap put the CIA's science directorate onto the problem",
+"id": "washington-flap-1952",
+"l0": false,
+"label": "1952 Washington DC Sightings",
+"note": "Within weeks of the July 1952 sightings Chadwell was writing to the DCI that reports totalled 250 in July alone and that the situation carried national security implications.",
+"sources": [
+{
+"date": "1952-09-11",
+"name": "CUFON 1952 CIA document sampler",
+"url": "http://www.cufon.org/cufon/cia-52-1.htm"
+}
+],
+"tier": "C",
+"type": "investigative"
+}
+],
+"date": "1952-12-02",
+"dateEnd": null,
+"dateStart": "1952-12-02",
+"deg": 4,
+"denials": [],
+"domains": [
+"history-1940s-1960s"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "h-marshall-chadwell",
+"instId": "cia",
+"l0": false,
+"label": "H. Marshall Chadwell",
+"loc": "Washington, DC",
+"locId": "l-dc",
+"members": null,
+"narrative": "H. Marshall Chadwell headed the CIA's Office of Scientific Intelligence in 1952 and is the man who moved the UFO problem out of the Air Force and into the intelligence community. After the July 1952 Washington flap he wrote a series of memoranda to the Director of Central Intelligence — 11 September and 2 October 1952 among them — noting that official reports had totalled 250 in July 1952 alone and that 'the flying saucer situation contains two elements of danger which... have national security implications.' The two elements were psychological warfare vulnerability and the saturation of air defence reporting channels. Chadwell proposed a study group to systematise the problem, floating MIT's Project Lincoln and Caltech as venues, and it was Chadwell who, with H. P. Robertson, assembled the January 1953 panel. His own agency's official history states that CIA sponsorship of that panel was forbidden from being mentioned. Chadwell is therefore the origin point of a documented US government decision to treat public belief, rather than the objects, as the thing to be managed.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "H. Marshall Chadwell",
+"sources": [
+{
+"date": "1952-09-11",
+"name": "CUFON 1952 CIA UFO-related document sampler (Chadwell memoranda)",
+"url": "http://www.cufon.org/cufon/cia-52-1.htm"
+},
+{
+"date": "1997-01-01",
+"name": "Haines, CIA's Role in the Study of UFOs, 1947-1990 (CIA Studies in Intelligence)",
+"url": "https://www.cia.gov/resources/csi/studies-in-intelligence/studies-in-intelligence-1997/cias-role-in-the-study-of-ufos-1947-1990/"
+}
+],
+"status": "dead",
+"sub": "Assistant Director, CIA Office of Scientific Intelligence",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 489 of 1027, score 29). 4 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A3/D0.",
+"timeline": [
+{
+"date": "1952-09-11",
+"id": "tl-1952-09-11",
+"label": "Chadwell memo to the DCI",
+"precision": "day",
+"strand": "coverup",
+"text": "CIA's Assistant Director for Scientific Intelligence tells the Director that July 1952 produced 250 official reports and that the situation 'contains two elements of danger' with national security implications.",
+"tier": "A"
+}
+],
+"unexplainedResidual": null,
+"unverified": []
+}

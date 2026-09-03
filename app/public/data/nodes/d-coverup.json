@@ -1,0 +1,245 @@
+{
+"A": 3,
+"C": 2,
+"D": 1,
+"band": null,
+"claims": [
+{
+"source": "Robertson Panel report, declassified text, CUFON",
+"text": "The Robertson Panel report (17 January 1953) recommends stripping UFOs of their 'special status' through mass-media debunking and recommends that civilian UFO groups be 'watched because of their potentially great influence on mass thinking'.",
+"tier": 1
+},
+{
+"source": "Haines, 'CIA's Role in the Study of UFOs, 1947-1990', Studies in Intelligence",
+"text": "CIA historian Gerald K. Haines, in Studies in Intelligence (1997), states that over half of all UFO reports in the late 1950s and 1960s were accounted for by U-2 and OXCART flights and that Air Force investigators knowingly provided false explanations to the public.",
+"tier": 1
+},
+{
+"source": "GAO/NSIAD-95-187, Government Records: Results of a Search for Records Concerning the 1947 Crash Near Roswell, New Mexico",
+"text": "GAO (NSIAD-95-187, 28 July 1995) reported that Roswell Army Air Field outgoing messages for 1946-1949 were destroyed without a disposition authority or destruction certificate.",
+"tier": 1
+},
+{
+"source": "Inference from the Robertson Panel report, the Haines article and GAO/NSIAD-95-187",
+"text": "A concealment effort sustained across eight decades and multiple agencies requires standing institutional machinery - security classification guides, cover-story doctrine, and personnel whose job is the maintenance of the cover - rather than repeated ad hoc decisions. Reasoning: the documented 1953 recommendation, the documented 1950s-60s false-explanation practice and the documented 1990s record gaps span three distinct institutional generations with no continuity of individual actors.",
+"tier": 3
+}
+],
+"cls": "domain",
+"cluster": "other",
+"connections": [
+{
+"claimTier": 1,
+"cls": "domain",
+"dateEnd": "1990-12-31",
+"dateStart": "1955-01-01",
+"direction": "in",
+"edgeLabel": "Black aircraft generated real cover stories",
+"id": "d-aerospace",
+"l0": false,
+"label": "Aerospace Engineering & Advanced Projects",
+"note": "CIA's own historian states that U-2 and OXCART flights accounted for over half of late-1950s and 1960s reports and that false explanations were issued to protect them.",
+"sources": [
+{
+"date": "1997-01-01",
+"name": "Haines, 'CIA's Role in the Study of UFOs, 1947-1990', Studies in Intelligence",
+"url": "https://www.cia.gov/resources/csi/studies-in-intelligence/studies-in-intelligence-1997/cias-role-in-the-study-of-ufos-1947-1990/"
+}
+],
+"tier": "B",
+"type": "denial"
+},
+{
+"claimTier": 1,
+"cls": "domain",
+"dateEnd": null,
+"dateStart": "1947-01-01",
+"direction": "out",
+"edgeLabel": "Denial is the public face of concealment",
+"id": "d-denial",
+"l0": false,
+"label": "Official Denial",
+"note": "CIA's own historian records that false explanations were issued knowingly to protect classified overflights; the denial is the output of the concealment activity.",
+"sources": [
+{
+"date": "1997-01-01",
+"name": "Haines, 'CIA's Role in the Study of UFOs, 1947-1990', Studies in Intelligence",
+"url": "https://www.cia.gov/resources/csi/studies-in-intelligence/studies-in-intelligence-1997/cias-role-in-the-study-of-ufos-1947-1990/"
+}
+],
+"tier": "B",
+"type": "denial"
+},
+{
+"claimTier": 1,
+"cls": "domain",
+"dateEnd": null,
+"dateStart": "1953-01-17",
+"direction": "in",
+"edgeLabel": "CIA convened the panel that recommended debunking",
+"id": "d-ic",
+"l0": false,
+"label": "Intelligence Community",
+"note": "The Robertson Panel was convened by CIA's Office of Scientific Intelligence, placing the recommendation inside the intelligence community rather than the Air Force.",
+"sources": [
+{
+"date": "1953-01-17",
+"name": "Robertson Panel report (declassified text)",
+"url": "http://www.cufon.org/cufon/robert.htm"
+}
+],
+"tier": "B",
+"type": "programmatic"
+},
+{
+"claimTier": 1,
+"cls": "domain",
+"dateEnd": null,
+"dateStart": "1953-01-17",
+"direction": "out",
+"edgeLabel": "Debunking recommended as a security measure",
+"id": "d-psyop",
+"l0": false,
+"label": "Psychological Operations & Perception Management",
+"note": "The Robertson Panel's January 1953 recommendation for a mass-media debunking programme is the documented point where concealment becomes an influence operation.",
+"sources": [
+{
+"date": "1953-01-17",
+"name": "Robertson Panel report (declassified text)",
+"url": "http://www.cufon.org/cufon/robert.htm"
+}
+],
+"tier": "B",
+"type": "programmatic"
+},
+{
+"claimTier": 1,
+"cls": "domain",
+"dateEnd": null,
+"dateStart": "1947-01-01",
+"direction": "out",
+"edgeLabel": "Record destruction as concealment",
+"id": "d-records",
+"l0": false,
+"label": "Records & Archives",
+"note": "GAO found Roswell AAF outgoing messages for 1946-1949 destroyed with no disposition authority and no destruction certificate - concealment executed through the records system.",
+"sources": [
+{
+"date": "1995-07-28",
+"name": "GAO/NSIAD-95-187",
+"url": "https://www.govinfo.gov/content/pkg/GAOREPORTS-NSIAD-95-187/html/GAOREPORTS-NSIAD-95-187.htm"
+}
+],
+"tier": "B",
+"type": "custody"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "1947-01-01",
+"deg": 5,
+"denials": [
+{
+"by": {
+"id": "d-aerospace",
+"label": "Aerospace Engineering & Advanced Projects"
+},
+"claimTier": 1,
+"denialKind": "association",
+"label": "Black aircraft generated real cover stories",
+"note": "CIA's own historian states that U-2 and OXCART flights accounted for over half of late-1950s and 1960s reports and that false explanations were issued to protect them.",
+"of": {
+"id": "d-coverup",
+"label": "The Cover-Up"
+},
+"sources": [
+{
+"date": "1997-01-01",
+"name": "Haines, 'CIA's Role in the Study of UFOs, 1947-1990', Studies in Intelligence",
+"url": "https://www.cia.gov/resources/csi/studies-in-intelligence/studies-in-intelligence-1997/cias-role-in-the-study-of-ufos-1947-1990/"
+}
+]
+},
+{
+"by": {
+"id": "d-coverup",
+"label": "The Cover-Up"
+},
+"claimTier": 1,
+"denialKind": "association",
+"label": "Denial is the public face of concealment",
+"note": "CIA's own historian records that false explanations were issued knowingly to protect classified overflights; the denial is the output of the concealment activity.",
+"of": {
+"id": "d-denial",
+"label": "Official Denial"
+},
+"sources": [
+{
+"date": "1997-01-01",
+"name": "Haines, 'CIA's Role in the Study of UFOs, 1947-1990', Studies in Intelligence",
+"url": "https://www.cia.gov/resources/csi/studies-in-intelligence/studies-in-intelligence-1997/cias-role-in-the-study-of-ufos-1947-1990/"
+}
+]
+}
+],
+"desc": "This board treats concealment as a discipline with doctrine, staffing and a budget line, because that is how the surviving record describes it. The 17 January 1953 Robertson Panel, convened by CIA's Office of Scientific Intelligence, did not merely conclude that sightings were harmless - it recommended that the national security agencies 'take immediate steps to strip the Unidentified Flying Objects of the special status they have been given and the aura of mystery they have unfortunately acquired', through a programme of mass-media debunking and the monitoring of civilian UFO groups. That is a covert influence recommendation written by an intelligence agency about its own public. Forty-four years later CIA historian Gerald K. Haines, writing in the agency's own classified-then-declassified journal Studies in Intelligence, admitted that Air Force officers had knowingly issued false explanations - natural phenomena, ice crystals, temperature inversions - to Congress and the public for sightings the Air Force knew were U-2 and OXCART overflights, and called this 'not the full story'. The documented route from ordinary secrecy into active concealment therefore runs through three mechanisms this board tracks separately: false official explanation, record destruction, and the redefinition of a programme so that the honest answer to a congressional question becomes technically 'no such programme exists'. GAO's 1995 search for Roswell records found that outgoing messages from Roswell Army Air Field for 1946-1949 had been destroyed with no disposition authority and no destruction certificate on file - a documented gap where the destruction itself is the evidence. To be scored highly on this domain is to be a producer of concealment rather than merely a person kept in the dark by it: an author of cover stories, a signatory on a destruction order, a briefer who gave a denial he knew to be false.",
+"domains": [
+"_rs-archive-mirror",
+"w2-taxonomy"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "d-coverup",
+"l0": false,
+"label": "The Cover-Up",
+"locLabel": null,
+"members": null,
+"short": "The Cover-Up",
+"sources": [
+{
+"date": "2026-05-08",
+"name": "Archived: AARO, Report on the Historical Record of U.S. Government Involvement with UAP, Volume I (Wayback 2026-05-08)",
+"url": "https://web.archive.org/web/20260508180210/https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf"
+},
+{
+"date": "1953-01-17",
+"name": "Robertson Panel report (declassified text)",
+"url": "http://www.cufon.org/cufon/robert.htm"
+},
+{
+"date": "1997-01-01",
+"name": "Gerald K. Haines, 'CIA's Role in the Study of UFOs, 1947-1990', Studies in Intelligence (CIA)",
+"url": "https://www.cia.gov/resources/csi/studies-in-intelligence/studies-in-intelligence-1997/cias-role-in-the-study-of-ufos-1947-1990/"
+},
+{
+"date": "1995-07-28",
+"name": "GAO/NSIAD-95-187, Government Records: Results of a Search for Records Concerning the 1947 Crash Near Roswell, New Mexico",
+"url": "https://www.govinfo.gov/content/pkg/GAOREPORTS-NSIAD-95-187/html/GAOREPORTS-NSIAD-95-187.htm"
+},
+{
+"date": "2024-02-01",
+"name": "AARO, Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
+"url": "https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf"
+}
+],
+"sub": "Operational domain - concealment run as a funded programme, not a passive silence",
+"tier": "A",
+"tierRationale": "Re-graded A on a global pass (rank 144 of 1027, score 51). 5 connections, 3 of them custody/witness/funding/programmatic, 2 official denials recorded against it. Axes C2/A3/D1.",
+"timeline": [
+{
+"date": "1997-01-01",
+"id": "tx-1997-haines",
+"label": "CIA concedes the false explanations",
+"precision": "year",
+"strand": "coverup",
+"text": "CIA historian Gerald K. Haines publishes 'CIA's Role in the Study of UFOs, 1947-90' in Studies in Intelligence, recording that U-2 and OXCART flights accounted for over half of late-1950s and 1960s reports and that Air Force investigators knowingly gave false explanations to the public. A documented admission of deliberate deception, from the deceiving agency.",
+"tier": 1
+}
+]
+}

@@ -1,0 +1,187 @@
+{
+"A": 2,
+"C": 2,
+"D": 0,
+"affiliations": [
+"U.S. Army Combat Capabilities Development Command, Ground Vehicle Systems Center / Ground Vehicle Survivability and Protection"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "2019-10-10",
+"event": "Named as government principal investigator in the executed CRADA.",
+"precision": "day"
+},
+{
+"date": "2019-10-17",
+"event": "Quoted in TTSA's CRADA announcement.",
+"precision": "day"
+},
+{
+"date": "2020-02-21",
+"event": "Army denies in full a FOIA request for his TTSA correspondence — 29 emails, 100 pages.",
+"precision": "day"
+}
+],
+"claims": [
+{
+"source": "CRADA document released by U.S. Army CCDC, 18 October 2019",
+"text": "Named as the U.S. Government principal investigator on the TTSA CRADA alongside Bean Soave.",
+"tier": 1
+},
+{
+"source": "PR Newswire, 17 October 2019",
+"text": "Quoted: 'Our partnership with TTSA serves as an exciting, non-traditional source for novel materials and transformational technologies.'",
+"tier": 1
+},
+{
+"source": "CCDC FOIA response to The Black Vault, 21 February 2020",
+"text": "On 21 February 2020 CCDC FOIA Officer Joy L. Linton wrote that 'there are twenty-nine (29) emails totaling one hundred (100) pages' of Cannon's TTSA correspondence, all withheld under exemptions (b)(4) and (b)(5).",
+"tier": 1
+}
+],
+"cls": "person",
+"cluster": "other",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2020",
+"direction": "in",
+"edgeLabel": "21 Feb 2020: Army withholds 29 emails / 100 pages of Cannon's TTSA correspondence in full",
+"id": "ccdc-gvsc",
+"l0": false,
+"label": "U.S. Army Combat Capabilities Development Command, Ground Vehicle Systems Center",
+"note": "CCDC FOIA Officer Joy L. Linton invoked exemptions (b)(4) and (b)(5) over an unclassified novel-materials collaboration the Army publicly described as origin-immaterial.",
+"sources": [
+{
+"date": "2020-03-12",
+"name": "The Black Vault — Secrecy Deepens",
+"url": "https://www.theblackvault.com/documentarchive/secrecy-deepens-about-u-s-army-agreement-to-analyze-ufo-material/"
+}
+],
+"tier": "C",
+"type": "denial"
+},
+{
+"claimTier": 1,
+"cls": "location",
+"dateEnd": "2020",
+"dateStart": "2019",
+"direction": "out",
+"edgeLabel": "Cannon was the named government principal investigator at GVSC",
+"id": "l-detroit-arsenal",
+"l0": false,
+"label": "Detroit Arsenal, Warren, Michigan",
+"note": "The Army located twenty-nine emails totalling a hundred pages of Cannon's TTSA correspondence and withheld all of them under FOIA exemptions (b)(4) and (b)(5).",
+"sources": [
+{
+"date": "2019-10-18",
+"name": "The Black Vault - Army/TTSA CRADA and FOIA records",
+"url": "https://www.theblackvault.com/documentarchive/u-s-army-releases-crada-with-to-the-stars-academy-of-arts-science/"
+},
+{
+"date": "2026-08-25",
+"name": "CRADA between CCDC Ground Vehicle Systems Center and To The Stars Academy, CRADA No. 19-15 (released PDF)",
+"url": "https://documents2.theblackvault.com/documents/army/TTSA-ARMY-CRADA.pdf"
+}
+],
+"tier": "B",
+"type": "custody"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "2023",
+"dateStart": "2019",
+"direction": "out",
+"edgeLabel": "Government principal investigator",
+"id": "ttsa-army-crada",
+"l0": true,
+"label": "CRADA between U.S. Army Ground Vehicle Systems Center and To The Stars Academy",
+"note": "Named in the agreement alongside Bean Soave and quoted in the announcement calling TTSA 'an exciting, non-traditional source for novel materials'.",
+"sources": [
+{
+"date": "2019-10-17",
+"name": "PR Newswire — CRADA announcement",
+"url": "https://www.prnewswire.com/news-releases/to-the-stars-academy-of-arts--science-announces-crada-with-the-us-army-combat-capabilities-development-command-to-advance-materiel-and-technology-innovations-300940211.html"
+}
+],
+"tier": "A",
+"type": "institutional"
+}
+],
+"date": "2019-10-17",
+"dateEnd": null,
+"dateStart": "2019-10-17",
+"deg": 3,
+"denials": [
+{
+"by": {
+"id": "ccdc-gvsc",
+"label": "U.S. Army Combat Capabilities Development Command, Ground Vehicle Systems Center"
+},
+"claimTier": 1,
+"denialKind": "directed",
+"label": "21 Feb 2020: Army withholds 29 emails / 100 pages of Cannon's TTSA correspondence in full",
+"note": "CCDC FOIA Officer Joy L. Linton invoked exemptions (b)(4) and (b)(5) over an unclassified novel-materials collaboration the Army publicly described as origin-immaterial.",
+"of": {
+"id": "joseph-cannon",
+"label": "Dr. Joseph Cannon"
+},
+"sources": [
+{
+"date": "2020-03-12",
+"name": "The Black Vault — Secrecy Deepens",
+"url": "https://www.theblackvault.com/documentarchive/secrecy-deepens-about-u-s-army-agreement-to-analyze-ufo-material/"
+}
+]
+}
+],
+"domains": [
+"elizondo-ttsa"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "joseph-cannon",
+"instId": "ccdc-gvsc",
+"l0": false,
+"label": "Dr. Joseph Cannon",
+"loc": "Warren, MI",
+"locId": "l-detroit-arsenal",
+"members": null,
+"narrative": "Cannon is the named U.S. Government principal investigator on the To The Stars Academy CRADA — the point at which a private company claiming custody of material from a craft of unknown origin was formally connected to an Army laboratory. He is quoted in TTSA's 17 October 2019 announcement: 'Our partnership with TTSA serves as an exciting, non-traditional source for novel materials and transformational technologies.' Army public affairs subsequently distanced the service from the provenance question, with GVSP spokesman Doug Halleaux saying that because 'the Army's interest is in the potential for novel materials and exploring the edges of materials science, any speculation as to their origin is (pardon the pun) immaterial.' When John Greenewald sought Cannon's correspondence with TTSA, the Army located twenty-nine emails totalling one hundred pages and withheld all of them in full under FOIA exemptions (b)(4) and (b)(5).",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Dr. Joseph Cannon",
+"sources": [
+{
+"date": "2019-10-17",
+"name": "PR Newswire — TTSA Announces CRADA with the U.S. Army CCDC",
+"url": "https://www.prnewswire.com/news-releases/to-the-stars-academy-of-arts--science-announces-crada-with-the-us-army-combat-capabilities-development-command-to-advance-materiel-and-technology-innovations-300940211.html"
+},
+{
+"date": "2020-03-12",
+"name": "The Black Vault — Secrecy Deepens About U.S. Army Agreement To Analyze UFO Material",
+"url": "https://www.theblackvault.com/documentarchive/secrecy-deepens-about-u-s-army-agreement-to-analyze-ufo-material/"
+}
+],
+"status": "active",
+"sub": "Government principal investigator, TTSA CRADA; U.S. Army Ground Vehicle Survivability and Protection",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 375 of 1027, score 33). 3 connections, 1 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C2/A2/D0.",
+"timeline": [],
+"unexplainedResidual": "The Army withheld 100 pages of correspondence about a materials collaboration it publicly described as routine. Deliberative-process and trade-secret exemptions over an unclassified novel-materials review is an unusually heavy posture for a partnership characterised as immaterial to origin.",
+"unverified": [
+"What, if anything, the Army actually tested, and what the results were. No technical output from the CRADA has been released."
+]
+}

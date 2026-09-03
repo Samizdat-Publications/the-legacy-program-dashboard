@@ -1,0 +1,147 @@
+{
+"A": 1,
+"C": 0,
+"D": 1,
+"affiliations": [
+"RAND Corporation"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "1968-11-01",
+"event": "'UFOs: What To Do?' issued as RAND draft DRU-1571",
+"precision": "month"
+},
+{
+"date": "1969-01-08",
+"event": "Condon Committee report released, recommending termination of Blue Book",
+"precision": "day"
+},
+{
+"date": "2023-07-25",
+"event": "RAND's own report RRA2475-1 on public UAP reports cites Kocher's 1968 draft",
+"precision": "day"
+}
+],
+"claims": [
+{
+"source": "RAND Corporation publication page and PDF for DRU-1571",
+"text": "RAND published 'UFOs: What To Do?' by George Kocher as draft DRU-1571, originally November 1968; the document examines UFO brightness, size and manoeuvres and discusses a recommended course of action.",
+"tier": 1
+},
+{
+"source": "RAND report RRA2475-1, 25 July 2023, footnote 9",
+"text": "RAND's 2023 report RRA2475-1, on mapping public reports of unidentified aerial phenomena across America, cites Kocher's DRU-1571.",
+"tier": 1
+}
+],
+"cls": "person",
+"cluster": "research",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": "1969",
+"dateStart": "1968",
+"direction": "out",
+"edgeLabel": "RAND was documenting the case for instrumented study as Condon was closing it down",
+"id": "condon-committee",
+"l0": true,
+"label": "University of Colorado UFO Project (Condon Committee)",
+"note": "DRU-1571 is dated November 1968; the Condon report recommending termination of Blue Book followed in January 1969.",
+"sources": [
+{
+"date": "1968-11-01",
+"name": "RAND DRU-1571 PDF",
+"url": "https://www.rand.org/content/dam/rand/pubs/drafts/2007/DRU1571.pdf"
+}
+],
+"tier": "A",
+"type": "temporal"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "1968",
+"direction": "in",
+"edgeLabel": "Published Kocher's 'UFOs: What To Do?' as DRU-1571, November 1968",
+"id": "rand-corporation",
+"l0": true,
+"label": "RAND Corporation",
+"note": "Issued two months before the Condon Committee report told the public the subject was closed; RAND has never withdrawn it.",
+"sources": [
+{
+"date": "1968-11-01",
+"name": "RAND DRU-1571",
+"url": "https://www.rand.org/pubs/drafts/DRU1571.html"
+}
+],
+"tier": "A",
+"type": "institutional"
+}
+],
+"date": "1968-11-01",
+"dateEnd": null,
+"dateStart": "1968-11-01",
+"deg": 2,
+"denials": [],
+"domains": [
+"ffrdcs"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "george-kocher",
+"instId": "rand-corporation",
+"l0": false,
+"label": "George Kocher",
+"loc": "Santa Monica, CA",
+"locId": "l-santa-monica",
+"members": null,
+"narrative": "Kocher wrote the document that proves RAND was studying UFOs seriously, in-house, at the exact moment the Air Force was using the Condon Committee to close the subject down. 'UFOs: What To Do?', issued as RAND draft DRU-1571 in November 1968, runs to roughly 48 pages and examines UFO brightness, size and manoeuvre characteristics before recommending a course of action. Its timing is the point: the Condon Committee's report, which recommended terminating Project Blue Book and declared further study unwarranted, was delivered in January 1969, two months later. RAND - the Air Force's own FFRDC, the institution MITRE was later modelled on - was internally documenting that the phenomenon merited instrumented study at the same moment the Air Force's contracted university study was concluding the opposite in public. RAND has never withdrawn the document; it remains on RAND's own website, and RAND's 2023 UAP mapping study cites it. The document is a standing rebuttal to the claim that no serious institution took the subject seriously before 2017.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "George Kocher",
+"sources": [
+{
+"date": "1968-11-01",
+"name": "RAND - UFOs: What To Do? (abstract page)",
+"url": "https://www.rand.org/pubs/drafts/DRU1571.html"
+},
+{
+"date": "1968-11-01",
+"name": "RAND - UFOs: What to Do? (full PDF, DRU-1571)",
+"url": "https://www.rand.org/content/dam/rand/pubs/drafts/2007/DRU1571.pdf"
+},
+{
+"date": "2023-07-25",
+"name": "RAND - Mapping Public Reports of Unidentified Aerial Phenomena Across America (RRA2475-1)",
+"url": "https://www.rand.org/content/dam/rand/pubs/research_reports/RRA2400/RRA2475-1/RAND_RRA2475-1.pdf"
+}
+],
+"status": "dead",
+"sub": "RAND Corporation analyst; author of 'UFOs: What To Do?' (RAND draft DRU-1571, November 1968)",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 915 of 1027, score 13). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D1.",
+"timeline": [
+{
+"date": "1968-11-01",
+"id": "tl-ffrdc-1968-kocher",
+"label": "RAND publishes 'UFOs: What To Do?'",
+"precision": "month",
+"strand": "program",
+"text": "George Kocher's draft DRU-1571 examines UFO brightness, size and manoeuvres and recommends a course of action - two months before the Condon report tells the public the subject is closed.",
+"tier": "A"
+}
+],
+"unexplainedResidual": null,
+"unverified": []
+}

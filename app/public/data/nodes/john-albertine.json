@@ -1,0 +1,133 @@
+{
+"A": 2,
+"C": 0,
+"D": 1,
+"affiliations": [],
+"age": null,
+"band": null,
+"chronology": [],
+"claims": [
+{
+"source": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"text": "The DIA letter of 9 January 2018 lists the high-energy laser weapons paper twice: item 37, \"State of the Art and Evaluation of High Energy Laser Weapons, J Albertine, Directed technologies. (Formerly classified SECRET/NOFORN.)\" and item 38, the unclassified version by the same author.",
+"tier": 2
+},
+{
+"source": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"text": "The earlier KLAS-TV list gave item 25 as \"Laser Weapons, J Albertine, M.S., Directed Technologies\" and left the 38th DIRD as \"Redacted.\" The DIA letter resolved the redacted item as the classified version of the same laser paper.",
+"tier": 2
+},
+{
+"source": "https://www.spiedigitallibrary.org/journals/optical-engineering/volume-52/issue-2/021001/Special-Section-Guest-Editorial--High-Energy-Laser-Systems-and/10.1117/1.OE.52.2.021001.full",
+"text": "John R. Albertine holds a BS in physics from Rose Polytechnic Institute and a master's in applied physics from Johns Hopkins; he was a senior staff physicist at the Johns Hopkins Applied Physics Laboratory Space Division and from 1976 to 1997 worked in the US Navy High Energy Laser Program Office, consulting afterwards for OSD, the Air Force, ONR and the Navy HEL programme office.",
+"tier": 2
+},
+{
+"source": "No attributed source on file",
+"text": "The identification of the DIA-listed \"J Albertine, M.S., Directed Technologies\" with John R. Albertine of the Navy HEL programme is an inference from the shared field, the matching M.S. credential and the consulting career, not a documented match. No source consulted names John R. Albertine as an employee of Directed Technologies or as an AAWSAP author.",
+"tier": 3
+},
+{
+"source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_23-DIRD_State_of_the_Art_and_Evolution_of_High-Energy_Laser_Weapons.pdf",
+"text": "The released unclassified version reads \"31 March 2010 / ICOD: 1 December 2009 / DIA-08-1003-019,\" Acquisition Threat Support series, author line redacted under (b)(6). Note that the DIA list title reads \"Evaluation\" where the released document reads \"Evolution.\"",
+"tier": 1
+}
+],
+"cls": "person",
+"cluster": "research",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "author of record on the DIA list, both versions",
+"id": "dird-state-of-the-art-and-evolution",
+"l0": false,
+"label": "State of the Art and Evolution of High-Energy Laser Weapons",
+"note": "The DIA letter lists this paper twice, items 37 and 38, both credited to J Albertine of Directed Technologies: one formerly classified SECRET//NOFORN, one unclassified. The board node is labelled with the initial because no source consulted confirms the given name; the probable identification with John R. Albertine of the Navy High Energy Laser Program Office is carried as a tier-3 claim on the person node.",
+"sources": [
+{
+"date": "2026-08-22",
+"name": "Released DIRD, 'State of the Art and Evolution of High-Energy Laser Weapons' — FOIA copy, cover page read 22 August 2026",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_23-DIRD_State_of_the_Art_and_Evolution_of_High-Energy_Laser_Weapons.pdf"
+},
+{
+"date": "2026-08-22",
+"name": "DIA FOIA Electronic Reading Room entry for this reference document",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237622/"
+},
+{
+"date": "2026-08-23",
+"name": "DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations",
+"url": "https://fas.org/publication/aatip-list/"
+},
+{
+"date": null,
+"name": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html",
+"url": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html"
+},
+{
+"date": null,
+"name": "https://irp.fas.org/dia/aatip-list.pdf",
+"url": "https://irp.fas.org/dia/aatip-list.pdf"
+}
+],
+"tier": "C",
+"type": "research"
+}
+],
+"date": "2010-01-01",
+"dateEnd": null,
+"dateStart": "2010-01-01",
+"deg": 1,
+"denials": [],
+"domains": [
+"w7-dirds-4"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "2",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "john-albertine",
+"instId": null,
+"l0": false,
+"label": "J. Albertine",
+"loc": null,
+"locId": null,
+"members": null,
+"narrative": "The DIA list names \"J Albertine, M.S., Directed Technologies\" as the author of the high-energy laser weapons DIRD, and it names him twice. Items 37 and 38 of the January 2018 attachment are the same paper in two versions, one unclassified and one formerly classified SECRET//NOFORN. That resolves what had been an open question in the public record: the thirty-eighth DIRD was not a missing exotic paper, it was the classified twin of the laser survey. Albertine is therefore the only author in the thirty-eight known to have produced a classified deliverable under AAWSAP, which is why his access score sits above the rest of the subject-matter author set.\n\nThe identification of \"J Albertine\" with John R. Albertine is a reasoned inference rather than a documented match and is recorded here as such. John R. Albertine holds a BS in physics from Rose Polytechnic Institute and a master's degree in applied physics from Johns Hopkins, which matches the \"M.S.\" the DIA list appends to the name. He was a senior staff physicist in the Space Division of the Johns Hopkins Applied Physics Laboratory, then from 1976 to 1997 worked in the US Navy's High Energy Laser Program Office directing Navy HEL programmes, retiring from civil service in 1997 and consulting thereafter for OSD, the Air Force, ONR, the Navy HEL programme office and Penn State in the directed-energy field. He guest-edited the high-energy laser systems and components special section of Optical Engineering in 2012. No public source consulted here links him by name to Directed Technologies or to AAWSAP, and that gap is recorded in unresolved[].\n\nThe unclassified version, DIA-08-1003-019, is dated 31 March 2010 with an Intelligence Cut-Off Date of 1 December 2009, in the Acquisition Threat Support series. It is the one straightforwardly operational weapons paper in the set, and it is the one the programme classified.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "J. Albertine",
+"sources": [
+{
+"date": "2019-01-17",
+"name": "Keith Basterfield, \"Back to those 38 Defense Intelligence Reference Documents (DIRDs)\" — verbatim transcription of the DIA letter of 9 January 2018",
+"url": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html"
+},
+{
+"date": "2012-11-29",
+"name": "John R. Albertine, \"Special Section Guest Editorial: High-Energy Laser Systems and Components,\" Optical Engineering 52(2), 021001 (biographical note)",
+"url": "https://www.spiedigitallibrary.org/journals/optical-engineering/volume-52/issue-2/021001/Special-Section-Guest-Editorial--High-Energy-Laser-Systems-and/10.1117/1.OE.52.2.021001.full"
+},
+{
+"date": "2010-03-31",
+"name": "Defense Intelligence Reference Document, \"State of the Art and Evolution of High-Energy Laser Weapons\" (The Black Vault FOIA release)",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_23-DIRD_State_of_the_Art_and_Evolution_of_High-Energy_Laser_Weapons.pdf"
+}
+],
+"status": "active",
+"sub": "Directed Technologies; high-energy laser physicist, M.S.; probably John R. Albertine, formerly of the US Navy High Energy Laser Program Office",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 773 of 1027, score 19). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A2/D1.",
+"timeline": [],
+"unexplainedResidual": null,
+"unverified": []
+}

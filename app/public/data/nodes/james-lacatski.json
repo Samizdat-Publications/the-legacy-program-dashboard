@@ -1,0 +1,420 @@
+{
+"A": 3,
+"C": 3,
+"D": 3,
+"affiliations": [
+"Defense Intelligence Agency, Defense Warning Office (1990s-2010s)",
+"AAWSAP Government Project Leader (2008-2010)"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "2007-06-19",
+"event": "Sends letter on DIA letterhead to Robert Bigelow (per 'Skinwalkers at the Pentagon'); DIA later reports no records located",
+"precision": "day"
+},
+{
+"date": "2008-08-18",
+"event": "Named as Government Project Leader on DIA solicitation HHM402-08-R-0211",
+"precision": "day"
+},
+{
+"date": "2008-09-22",
+"event": "AAWSAP contract HHM402-08-C-0072 awarded to BAASS; Lacatski runs it from DIA",
+"precision": "day"
+},
+{
+"date": "2009-10-30",
+"event": "DIA memo records that the program manager reviewed all 26 FY09 papers and concurred with reviewer assessments",
+"precision": "day"
+},
+{
+"date": "2021-08-01",
+"event": "Publishes 'Skinwalkers at the Pentagon' with Kelleher and Knapp",
+"precision": "month"
+},
+{
+"date": "2025-01-01",
+"event": "Publishes 'Inside the U.S. Government Covert UFO Program: New Insights'",
+"precision": "year"
+},
+{
+"date": "2026-04-08",
+"event": "Corbell conversation published: AAWSAP built 'the world's largest UFO data warehouse'; doubts files will ever be released",
+"precision": "day"
+}
+],
+"claims": [
+{
+"source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237636/",
+"text": "Every released DIRD carries the line: 'Comments or questions pertaining to this document should be addressed to [name redacted under (b)(3) 10 USC 424 and (b)(6)], AAWSA Program Manager, Defense Intelligence Agency, ATTN: [redacted], Bldg 6000, Washington, DC 20340-5100.' The AAWSAP program manager post is therefore documented in primary record; the incumbent's name is withheld in the DIA release.",
+"tier": 1
+},
+{
+"source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237617/",
+"text": "DIA Info Memo U-429-09 refers to 'The program manager, [redacted], has reviewed all of the papers and concurs with the reviews' — establishing a single named DIA officer who personally reviewed every FY2009 DIRD.",
+"tier": 1
+},
+{
+"source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237617/",
+"text": "Identification of the redacted AAWSA Program Manager as Dr. James T. Lacatski is not established by any primary document reached in this pass. It rests on his own published accounts and on secondary reporting. Treat the name as unconfirmed against the FOIA record until a document with the name unredacted (or a DIA org chart / personnel record) is located.",
+"tier": 3
+},
+{
+"source": "DIA solicitation HHM402-08-R-0211, posted 18 Aug 2008, released via The Black Vault",
+"text": "Lacatski is identified by name as 'Government Project Leader' on the DIA AAWSAP solicitation, the only unredacted appearance of the PM in the procurement record.",
+"tier": 1
+},
+{
+"source": "DIA FOIA-00023-2022 and APP-00031-2022, released via The Black Vault, 2023",
+"text": "DIA could locate no records responsive to a request for the 19 June 2007 Lacatski-to-Bigelow letter described in 'Skinwalkers at the Pentagon'; the appeal (APP-00031-2022) also returned no records.",
+"tier": 1
+},
+{
+"source": "Lacatski, Kelleher and Knapp, 'Skinwalkers at the Pentagon' (2021); repeated in Knapp/Mystery Wire interviews",
+"text": "Lacatski states he personally entered a craft of unknown origin while working the program.",
+"tier": 2
+},
+{
+"source": "Lacatski to Jeremy Corbell, published 8 April 2026",
+"text": "AAWSAP produced more than 100 thick, highly detailed reports of UFO case data — a body of work far larger than the 38 DIRDs released to Congress.",
+"tier": 2
+},
+{
+"source": "Inference from the FOIA-00023-2022 no-records response set against the volume of AAWSAP material DIA did release",
+"text": "DIA's inability to find the 2007 Bigelow letter, combined with its redaction of Lacatski's name under 10 USC 424 in every post-2008 release, indicates the origin correspondence was either never filed as an official record or was removed from the searchable file — the reasoning being that DIA found and released far more marginal 2008-2010 paperwork from the same office.",
+"tier": 3
+}
+],
+"cls": "person",
+"cluster": "other",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "AAWSA Program Manager (name redacted in release)",
+"id": "aawsap",
+"l0": true,
+"label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)",
+"note": "Named unredacted as Government Project Leader on the public DIA solicitation HHM402-08-R-0211; redacted under 10 USC 424 in every later release.",
+"sources": [
+{
+"date": "2008-08-18",
+"name": "The Black Vault — AAWSAP Original Bid Solicitation",
+"url": "https://www.theblackvault.com/documentarchive/advanced-aerospace-weapon-systems-applications-program-aawsap-original-bid-solicitation/"
+}
+],
+"tier": "A",
+"type": "programmatic"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2008",
+"dateStart": "2005",
+"direction": "in",
+"edgeLabel": "Kelleher's 2005 book led Lacatski to Bigelow and thence to the AAWSAP contract",
+"id": "colm-kelleher",
+"l0": false,
+"label": "Colm A. Kelleher",
+"note": "DIA official James Lacatski read 'Hunt for the Skinwalker' by Kelleher and George Knapp, contacted Bigelow, visited the ranch, and relayed the experience to Sen. Harry Reid; the two later co-authored 'Skinwalkers at the Pentagon' (2021).",
+"sources": [
+{
+"date": "2020-02-14",
+"name": "Tim McMillan, 'Inside the Pentagon's Secret UFO Program', Popular Mechanics",
+"url": "https://www.popularmechanics.com/military/research/a30916275/government-secret-ufo-program-investigation/"
+},
+{
+"date": "2026-08-12",
+"name": "Wikipedia: Advanced Aerospace Threat Identification Program",
+"url": "https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program"
+}
+],
+"tier": "A",
+"type": "witness-chain"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "2023",
+"dateStart": "2008",
+"direction": "in",
+"edgeLabel": "redacted the PM's name it had already published",
+"id": "dia",
+"l0": true,
+"label": "Defense Intelligence Agency",
+"note": "Lacatski is named in the public solicitation and redacted under 10 USC 424 in every post-award release — a records posture aimed at breaking the link between office and person.",
+"sources": [
+{
+"date": "2008-08-18",
+"name": "The Black Vault — AAWSAP Original Bid Solicitation",
+"url": "https://www.theblackvault.com/documentarchive/advanced-aerospace-weapon-systems-applications-program-aawsap-original-bid-solicitation/"
+},
+{
+"date": "2022-10-13",
+"name": "DIA AAWSAP contract (FOIA-00349-2018)",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP/FOIA-00349-2018.pdf"
+}
+],
+"tier": "A",
+"type": "behavioral"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "2010",
+"dateStart": "2009",
+"direction": "in",
+"edgeLabel": "Lacatski named as AAWSA Program Manager on the document's administrative note",
+"id": "dird-traversable-wormholes",
+"l0": false,
+"label": "DIA-08-1004-004: 'Traversable Wormholes, Stargates, and Negative Energy'",
+"note": "The administrative note directs comments to James T. Lacatski, D.Eng., AAWSA Program Manager, DIA, ATTN: CLAR/DWO-3, Bldg 6000, Washington DC 20340-5100 - naming the government official responsible for the series.",
+"sources": [
+{
+"date": "2010-04-06",
+"name": "DIRD DIA-08-1004-004, 'Traversable Wormholes, Stargates, and Negative Energy' (Eric W. Davis, EarthTech International)",
+"url": "https://documents.theblackvault.com/documents/traversablewormholes-drdavis.pdf"
+}
+],
+"tier": "B",
+"type": "programmatic"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2026",
+"dateStart": "2026",
+"direction": "in",
+"edgeLabel": "Episode framing cites Lacatski's AAWSAP deputisation of Davis",
+"id": "jesse-michels",
+"l0": false,
+"label": "Jesse Michels",
+"note": "The episode description states Davis held security clearances through AAWSAP and was formally deputised by DIA under program manager James Lacatski, 'who himself claims he has stepped inside a UFO and breached the hull.'",
+"sources": [
+{
+"date": "2026-03-08",
+"name": "American Alchemy - Weinstein/Davis episode",
+"url": "https://www.youtube.com/watch?v=xnxasfyHtfo"
+}
+],
+"tier": "B",
+"type": "witness-chain"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "Knapp co-authored two books with the AAWSAP originator",
+"id": "klas-tv",
+"l0": false,
+"label": "KLAS-TV (Las Vegas)",
+"note": "Knapp named Lacatski on the record as one of the people he has interviewed: 'There is a guy named Dr. James Lacatski, who was a career scientist with the Defense Intelligence Agency, who was the guy who initiated a program called AAWSAP, Advanced Aerospace Weapons Systems Application Program, which is, as far as we know, the largest acknowledged UFO program ever funded by the U.S. Government.'",
+"sources": [
+{
+"date": "2025-09-09",
+"name": "House Oversight Task Force hearing, 9 September 2025 (CHRG-119hhrg61718)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm"
+},
+{
+"date": null,
+"name": "https://oversight.house.gov/wp-content/uploads/2025/09/George-Knapp-Written-Testimony.pdf",
+"url": "https://oversight.house.gov/wp-content/uploads/2025/09/George-Knapp-Written-Testimony.pdf"
+}
+],
+"tier": "C",
+"type": "research"
+},
+{
+"claimTier": 2,
+"cls": "location",
+"dateEnd": "2008",
+"dateStart": "2007",
+"direction": "out",
+"edgeLabel": "Lacatski's visit is the documented link from the ranch to DIA",
+"id": "l-skinwalker",
+"l0": false,
+"label": "Skinwalker Ranch, Uintah Basin, Utah",
+"note": "Lacatski contacted Bigelow after reading 'Hunt for the Skinwalker', visited the ranch and reported an experience there; Bigelow relayed this to Sen. Harry Reid.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Wikipedia - Skinwalker Ranch",
+"url": "https://en.wikipedia.org/wiki/Skinwalker_Ranch"
+}
+],
+"tier": "A",
+"type": "witness-chain"
+},
+{
+"claimTier": 2,
+"cls": "document",
+"dateEnd": "2026",
+"dateStart": "2023",
+"direction": "out",
+"edgeLabel": "releasing AAWSAP material through trade publication",
+"id": "lacatski-book-series",
+"l0": false,
+"label": "Inside the U.S. Government Covert UFO Program (Lacatski, 2023-2026)",
+"note": "Three volumes 2023-2026, each DOPSR-cleared; Lacatski says he doubts the underlying files will ever be released and treats the books as the substitute.",
+"sources": [
+{
+"date": "2026-04-08",
+"name": "UFOs-Disclosure",
+"url": "https://ufos-disclosure.blogspot.com/2026/04/dr-james-lacatski-this-is-ufo.html"
+}
+],
+"tier": "B",
+"type": "behavioral"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2008",
+"dateStart": "2007",
+"direction": "out",
+"edgeLabel": "2007 approach that originated the contract",
+"id": "robert-bigelow",
+"l0": false,
+"label": "Robert T. Bigelow",
+"note": "Per 'Skinwalkers at the Pentagon' Lacatski wrote to Bigelow on DIA letterhead on 19 June 2007; DIA reports no records of the letter.",
+"sources": [
+{
+"date": "2023-09-01",
+"name": "The Black Vault — FOIA-00023-2022",
+"url": "https://www.theblackvault.com/documentarchive/wp-content/uploads/2023/09/FOIA00023-2022.pdf"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 2,
+"cls": "document",
+"dateEnd": "2021",
+"dateStart": "2021",
+"direction": "out",
+"edgeLabel": "co-author; states he entered a craft of unknown origin",
+"id": "skinwalkers-at-the-pentagon",
+"l0": false,
+"label": "Skinwalkers at the Pentagon (Lacatski, Kelleher, Knapp, 2021)",
+"note": "A former DIA program manager made this claim in a manuscript DoD cleared for publication.",
+"sources": [
+{
+"date": "2021-08-01",
+"name": "KLAS Mystery Wire",
+"url": "https://www.8newsnow.com/mystery-wire/new-book-uncovers-secrets-of-government-funded-ufo-investigation-program-exclusive-interview/"
+}
+],
+"tier": "A",
+"type": "witness-chain"
+}
+],
+"date": "2008-09-22",
+"dateEnd": null,
+"dateStart": "2008-09-22",
+"deg": 10,
+"denials": [],
+"domains": [
+"_rs-aawsap-dirds",
+"_rs-archive-mirror",
+"aawsap-aatip"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "2",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "james-lacatski",
+"instId": "dia",
+"l0": false,
+"label": "James T. Lacatski",
+"loc": "Washington, DC",
+"locId": "l-dc",
+"members": null,
+"narrative": "Lacatski is the single most load-bearing name in the funded lineage: he is the DIA official who conceived, wrote and ran the Advanced Aerospace Weapon System Applications Program. He is named in the open record as 'Government Project Leader, Dr. James T. Lacatski' on the August 2008 DIA solicitation HHM402-08-R-0211, which is the only place in the entire AAWSAP paper trail where the program manager is not redacted — DIA scrubbed his name from every later FOIA release under 10 USC 424 but missed it in the original public bid notice. A rocket scientist by training (D.Eng.), Lacatski approached Robert Bigelow in 2007 after reading Kelleher and Knapp's 'Hunt for the Skinwalker', and by his own account the June 19, 2007 letter he sent Bigelow on DIA letterhead is what set the whole thing in motion — DIA later told The Black Vault (FOIA-00023-2022) it could locate no such letter, a records outcome the board treats as an artifact rather than a refutation. He directed the 38 Defense Intelligence Reference Documents, personally reviewed all of them, and per DIA's own 30 October 2009 memo concurred with the outside reviewers' assessments. He is the co-author, with Colm Kelleher and George Knapp, of 'Skinwalkers at the Pentagon' (2021) and of the 'Inside the U.S. Government Covert UFO Program' series (2023, 2025, and 'Future Visions'), all cleared through DOPSR — meaning DoD read and passed the manuscripts. Lacatski has stated that he personally entered a craft of unknown origin, and in an April 2026 conversation with Jeremy Corbell he said AAWSAP 'created the world's largest UFO data warehouse' of more than 100 detailed reports, that he doubts the files will ever be released, and hinted that a smaller focused effort connected to the proposed KONA BLUE successor continued after AAWSAP ended.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "James T. Lacatski",
+"sources": [
+{
+"date": "2022-03",
+"name": "DIA FOIA Electronic Reading Room — AAWSAP/AATIP collection",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/"
+},
+{
+"date": "2010-04-06",
+"name": "DIRD inside-cover boilerplate naming the (redacted) AAWSA Program Manager",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237636/"
+},
+{
+"date": "2026-06-11",
+"name": "Archived: DIA FOIA Electronic Reading Room — AAWSAP/AATIP collection (Wayback 2026-06-11)",
+"url": "https://web.archive.org/web/20260611124158/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/"
+},
+{
+"date": "2025-07-25",
+"name": "Archived: DIRD inside-cover boilerplate naming the (redacted) AAWSA Program Manager (Wayback 2025-07-25)",
+"url": "https://web.archive.org/web/20250725033255/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170048/"
+},
+{
+"date": "2008-08-18",
+"name": "The Black Vault — AAWSAP Original Bid Solicitation",
+"url": "https://www.theblackvault.com/documentarchive/advanced-aerospace-weapon-systems-applications-program-aawsap-original-bid-solicitation/"
+},
+{
+"date": "2023-09-01",
+"name": "The Black Vault — AAWSAP Documentation archive",
+"url": "https://www.theblackvault.com/documentarchive/the-advanced-aerospace-weapon-system-applications-program-aawsap-documentation/"
+},
+{
+"date": "2009-10-30",
+"name": "DIA — Review of Advanced Aerospace Contract Deliverables (U-429-09-DWO-IM)",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP/U-429-09-DWO-IM.pdf"
+},
+{
+"date": "2026-04-08",
+"name": "UFOs-Disclosure — Dr. James Lacatski: This Is UFO Disclosure, As Far As It Can Go",
+"url": "https://ufos-disclosure.blogspot.com/2026/04/dr-james-lacatski-this-is-ufo.html"
+},
+{
+"date": "2025-01-01",
+"name": "Amazon — Inside the U.S. Government Covert UFO Program: New Insights",
+"url": "https://www.amazon.com/Inside-U-S-Government-Covert-Program/dp/B0FT4V8NDC"
+},
+{
+"date": null,
+"name": "dia.mil",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237617/"
+}
+],
+"status": "active",
+"sub": "DIA rocket scientist; AAWSAP government program manager",
+"tier": "A",
+"tierRationale": "Re-graded A on a global pass (rank 64 of 1027, score 73). 10 connections, 6 of them custody/witness/funding/programmatic. Axes C3/A3/D3.",
+"timeline": [
+{
+"date": "2007-06-19",
+"id": "tl-2007-letter",
+"label": "Lacatski writes to Bigelow",
+"precision": "day",
+"strand": "program",
+"text": "Per 'Skinwalkers at the Pentagon', Lacatski writes to Robert Bigelow on DIA letterhead, the act that originates the contract. DIA later reports no records of the letter.",
+"tier": "B"
+}
+],
+"unexplainedResidual": null,
+"unverified": [
+"The content of the 19 June 2007 Lacatski letter to Bigelow — no copy has been released and DIA reports no records."
+]
+}

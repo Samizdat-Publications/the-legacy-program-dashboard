@@ -1,0 +1,176 @@
+{
+"A": 3,
+"C": 2,
+"D": 1,
+"affiliations": [
+"Lockheed Corporation (1950-1991)",
+"Lockheed Advanced Development Projects / Skunk Works, Director (1975-1991)"
+],
+"age": 68,
+"band": null,
+"chronology": [
+{
+"date": "1975",
+"event": "Succeeds Clarence 'Kelly' Johnson as head of Lockheed's Advanced Development Projects (Skunk Works)",
+"precision": "year"
+},
+{
+"date": "1991",
+"event": "Retires from Lockheed after running the F-117 and successor black programs",
+"precision": "year"
+},
+{
+"date": "1993",
+"event": "Reported UCLA alumni talk containing the 'travel among the stars' remark; no recording or transcript has ever surfaced",
+"precision": "year"
+},
+{
+"date": "1994",
+"event": "Publishes 'Skunk Works: A Personal Memoir of My Years at Lockheed' with Leo Janos",
+"precision": "year"
+},
+{
+"date": "1995-01-05",
+"event": "Dies of cancer",
+"precision": "day"
+}
+],
+"claims": [
+{
+"source": "Ben R. Rich and Leo Janos, 'Skunk Works: A Personal Memoir of My Years at Lockheed' (Little, Brown, 1994)",
+"text": "Rich directed Lockheed's Advanced Development Projects from 1975 to 1991 and published a memoir describing how unacknowledged black programs were compartmented, staffed and funded at Burbank and Palmdale.",
+"tier": 1
+},
+{
+"source": "Secondhand recollections circulated by attendees of a 1993 UCLA alumni talk; no archival primary source located",
+"text": "Rich is alleged to have stated in 1993 that the means to travel among the stars already exist inside black programs. The board grades this tier 3: the reasoning is that multiple independent attendees have recounted variants of the remark over three decades, but no primary artifact - recording, transcript, or letter - has been produced.",
+"tier": 3
+}
+],
+"cls": "person",
+"cluster": "contractor",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 3,
+"cls": "institution",
+"dateEnd": "1995",
+"dateStart": "1993",
+"direction": "out",
+"edgeLabel": "Rich is the most-cited and least-documented source for the Lockheed custody allegation",
+"id": "lockheed-martin",
+"l0": true,
+"label": "Lockheed Martin Corporation",
+"note": "Reasoning: multiple independent attendees have recounted variants of his 1993 remark about star travel locked in black projects, but no recording, transcript or letter facsimile exists in any archive. The board records the attribution, not the fact.",
+"sources": [
+{
+"date": "1994-01-01",
+"name": "Ben R. Rich and Leo Janos, 'Skunk Works: A Personal Memoir of My Years at Lockheed' (Internet Archive)",
+"url": "https://archive.org/details/skunkworks00benr"
+},
+{
+"date": "2023-03-11",
+"name": "Christopher Sharp, 'Lockheed Martin Challenged On UFO Legacy Programs, As Politicians Talk Hearings,' Liberation Times",
+"url": "https://www.liberationtimes.com/home/lockheed-martin-challenged-on-ufo-legacy-programs-as-politicians-talk-hearings"
+}
+],
+"tier": "A",
+"type": "custody"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "1991",
+"dateStart": "1975",
+"direction": "out",
+"edgeLabel": "Rich directed Skunk Works through the F-117 era and into the RQ-170 lineage",
+"id": "lockheed-skunk-works",
+"l0": true,
+"label": "Lockheed Martin Advanced Development Programs (Skunk Works)",
+"note": "His memoir is the primary document on how unacknowledged programs were compartmented, staffed and funded inside the corporation.",
+"sources": [
+{
+"date": "1994-01-01",
+"name": "Ben R. Rich and Leo Janos, 'Skunk Works: A Personal Memoir of My Years at Lockheed' (Internet Archive)",
+"url": "https://archive.org/details/skunkworks00benr"
+}
+],
+"tier": "B",
+"type": "institutional"
+}
+],
+"date": "1995-01-05",
+"dateEnd": null,
+"dateStart": "1995-01-05",
+"deg": 2,
+"denials": [],
+"domains": [
+"primes-custody"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "1",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "ben-rich",
+"instId": "lockheed-skunk-works",
+"l0": false,
+"label": "Ben R. Rich",
+"loc": "Palmdale, CA",
+"locId": "l-plant-42",
+"members": null,
+"narrative": "Rich is the single most-cited contractor figure in the custody allegation, and the most poorly sourced - which is exactly why he needs a disciplined entry. His documented record is not in dispute: he succeeded Kelly Johnson as head of Lockheed's Advanced Development Projects in 1975, ran the F-117 stealth fighter program to operational capability, held the deepest black-program access available to a private citizen in the United States, and retired in 1991. His 1994 memoir with Leo Janos, written after retirement and cleared for publication, is a first-person account of how unacknowledged special access programs were actually run at Burbank and Palmdale - the physical security, the compartmented staffing, the funding lines invisible to the aircraft's own users. That book is the primary document; it is also the reason his later remarks carry weight with researchers. The remarks themselves - the reported 1993 UCLA alumni-association talk in which he is said to have stated that 'we already have the means to travel among the stars, but these technologies are locked up in black projects,' and the reported private letters to model-maker John Andrews - survive only through secondhand recollection by attendees and correspondents. No recording, transcript, or letter facsimile has been produced in a verifiable archive. The board records the attribution as an attribution, not as a fact: what Rich unquestionably represents is that the man with the most complete inventory of American black aerospace in the twentieth century spent his last years being asked this question, and that Lockheed has never released his program records. He died of cancer on 5 January 1995.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Ben R. Rich",
+"sources": [
+{
+"date": "1994-01-01",
+"name": "Ben R. Rich and Leo Janos, 'Skunk Works: A Personal Memoir of My Years at Lockheed' (Internet Archive)",
+"url": "https://archive.org/details/skunkworks00benr"
+},
+{
+"date": "1996-01-01",
+"name": "National Aviation Hall of Fame, enshrinee record for Benjamin 'Ben' Robert Rich -- states he was 'Selected by Kelly Johnson (enshrined 1974) to be the new \"Chief Skunk\" in 1975'",
+"url": "https://nationalaviation.org/enshrinee/benjamin-ben-robert-rich/"
+},
+{
+"date": null,
+"name": "Lockheed Martin corporate history, 'Ben Rich: The Invisible Man' -- Johnson 'planned to personally recommend Rich to take over as director of the Skunk Works', and dates his retirement banquet to 1991",
+"url": "https://www.lockheedmartin.com/en-us/news/features/history/rich.html"
+}
+],
+"status": "dead",
+"sub": "Director, Lockheed Advanced Development Projects (Skunk Works), 1975-1991",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 518 of 1027, score 28). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A3/D1.",
+"timeline": [
+{
+"date": "1975-01-01",
+"id": "pc-1975-rich",
+"label": "Ben Rich takes over Skunk Works",
+"precision": "year",
+"strand": "program",
+"text": "Rich succeeds Kelly Johnson as director of Lockheed's Advanced Development Projects, holding the deepest black-aerospace access available to a private citizen for the next sixteen years.",
+"tier": "B"
+},
+{
+"date": "1993-01-01",
+"id": "pc-1993-rich",
+"label": "The Rich remark",
+"precision": "year",
+"strand": "program",
+"text": "Ben Rich is reported to have told a UCLA alumni audience that the means to travel among the stars already exist but are locked inside black projects. No recording or transcript has ever been produced.",
+"tier": "C"
+}
+],
+"unexplainedResidual": null,
+"unverified": [
+"The 'we already have the means to travel among the stars' quotation - no recording, transcript or contemporaneous note has been located.",
+"Letters allegedly written by Rich to John Andrews of the Testors Corporation describing two categories of UFO - no verifiable facsimile in a public archive.",
+"Any claim that Rich personally handled recovered material."
+]
+}

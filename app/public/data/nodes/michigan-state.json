@@ -1,0 +1,72 @@
+{
+"A": 0,
+"C": 0,
+"D": 1,
+"band": null,
+"claims": [
+{
+"source": "https://mark-skidmore.com/about/",
+"text": "Mark Skidmore holds the Morris Chair in State and Local Government Finance and Policy at Michigan State University and is a Professor of Economics there.",
+"tier": 2
+}
+],
+"cls": "institution",
+"cluster": "research",
+"connections": [
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "Morris Chair in State and Local Government Finance and Policy",
+"id": "mark-skidmore",
+"l0": false,
+"label": "Mark Skidmore",
+"note": "Skidmore holds the Morris Chair and is Professor of Economics at Michigan State University. Attested by his own site.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Mark Skidmore, About",
+"url": "https://mark-skidmore.com/about/"
+}
+],
+"tier": "C",
+"type": "institutional"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "1855",
+"deg": 1,
+"denials": [],
+"desc": "Michigan State University is the institutional home of Mark Skidmore, who holds the Morris Chair in State and Local Government Finance and Policy and is a Professor of Economics there. The compilation of federal unsupported journal voucher adjustments that produced the $21 trillion aggregate was carried out from that position, with student assistance, using publicly available Inspector General and Government Accountability Office documents. The university's involvement is what gives the work its only claim to academic standing, and Skidmore's own website carries the standard disclaimer that the views expressed are his own and not those of his employer.",
+"domains": [
+"w2-black-budget"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "michigan-state",
+"l0": false,
+"label": "Michigan State University",
+"locLabel": null,
+"members": null,
+"short": "Michigan State University",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Mark Skidmore, About",
+"url": "https://mark-skidmore.com/about/"
+}
+],
+"sub": "University; institutional home of Mark Skidmore's unsupported-adjustment research",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 1026 of 1027, score 5). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D1.",
+"timeline": []
+}

@@ -1,0 +1,134 @@
+{
+"A": 1,
+"C": 1,
+"D": 0,
+"affiliations": [],
+"age": null,
+"band": null,
+"chronology": [],
+"claims": [
+{
+"source": "History of the Institute of Field Physics (1955-1959), UNC Physics and Astronomy department history https://physics.unc.edu/home/department-history/section-ii/",
+"text": "The UNC Physics and Astronomy department history names the Air Force route into the Institute of Field Physics as the Aeronautical Research Laboratory at Wright-Patterson Air Force Base, not the Wright Air Development Center: 'Joshua Goldberg was, at the time of the establishment of the IOFP and the conference, in charge of aspects of the Air Force's funding of general relativity, in the \"modern physics research branch\" (based at the Aeronautical Research Laboratory at Wright Patterson Air Force Base).' The page uses neither 'Wright Air Development Center' nor 'WADC'.",
+"tier": 1
+},
+{
+"source": "Trimble to Bryce DeWitt, 10 June 1955, quoted by Dean Rickles in the Edition Open Sources edition of the 1957 Chapel Hill conference report",
+"text": "In a letter to Bryce DeWitt dated 10 June 1955, Trimble wrote: 'It occurred to us some time ago that our industry was vitally concerned with gravity. As time goes on we become more and more concerned because we feel certain that sooner or later man will invade space and we see it as our job to do everything possible to speed this event. At least one category of the things one must study, when he desires to bring space flight to reality, is the laws of nature surrounding the force of gravity.'",
+"tier": 2
+},
+{
+"source": "Trimble to Bryce DeWitt, 10 June 1955, quoted by Dean Rickles",
+"text": "The same letter opens by recording a conversation with George Rideout, president of Roger Babson's Gravity Research Foundation, 'commiserating on the unfortunate state of the affairs that knowledgable folks do not wish to get mixed up in the field of gravity research.' Rickles adds that Trimble bemoans that most of those working on gravitation are 'madmen and quacks'.",
+"tier": 2
+},
+{
+"source": "Dean Rickles, 'The Chapel Hill Conference in Context'",
+"text": "Trimble described the body he proposed as an 'industrial version of the Institute for Advanced Study'. The Glenn L. Martin Company's institute was 'industry-sponsored, and not ensconced in a university', while the Institute of Field Physics was deliberately placed inside the University of North Carolina 'so as to avoid the conflict that physicists felt working in an industrial setting.'",
+"tier": 2
+},
+{
+"source": "Dean Rickles, 'The Chapel Hill Conference in Context'",
+"text": "Trimble and the Glenn L. Martin Company bought a Founder's Membership in the Institute of Field Physics for $5,000 and offered to help solicit further funding.",
+"tier": 2
+}
+],
+"cls": "person",
+"cluster": "research",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "1955",
+"direction": "in",
+"edgeLabel": "Trimble and the Glenn L. Martin Company bought a Founder's Membership for $5,000",
+"id": "institute-of-field-physics",
+"l0": false,
+"label": "Institute of Field Physics (UNC Chapel Hill)",
+"note": "The department history records that Trimble and the Glenn Martin Company purchased a Founder's Membership for the Institute for $5,000 and offered their support to solicit further funding.",
+"sources": [
+{
+"date": "2026-09-02",
+"name": "History of the Institute of Field Physics (1955-1959), Section II",
+"url": "https://physics.unc.edu/department-history/section-ii/"
+}
+],
+"tier": "B",
+"type": "funding"
+},
+{
+"claimTier": 2,
+"cls": "institution",
+"dateEnd": "1955",
+"dateStart": "1955",
+"direction": "in",
+"edgeLabel": "Trimble proposed RIAS as an industrial institute for advanced study",
+"id": "rias-inc",
+"l0": false,
+"label": "RIAS, Inc. (Research Institute for Advanced Studies)",
+"note": "Trimble to Bryce DeWitt, 10 June 1955, quoted by a named historian in a peer-published edition. The letter itself was not opened; the quotation is the historian's.",
+"sources": [
+{
+"date": "2011-01-01",
+"name": "Dean Rickles, 'The Chapel Hill Conference in Context'",
+"url": "https://edition-open-sources.org/sources/5/3/index.html"
+}
+],
+"tier": "C",
+"type": "institutional"
+}
+],
+"date": "1955-06-10",
+"dateEnd": null,
+"dateStart": "1955-06-10",
+"deg": 2,
+"denials": [],
+"domains": [
+"legacy-1947-86"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "george-trimble",
+"instId": null,
+"l0": false,
+"label": "George S. Trimble",
+"loc": "Baltimore, MD",
+"locId": null,
+"members": null,
+"narrative": "RIAS was Trimble's idea and gravity was explicitly its subject, and both facts come off his own dated letter. Writing to Bryce DeWitt on 10 June 1955 he opens: 'During a recent conversation with Mr. George Rideout, president of Roger Babson's Gravity Research Foundation, we were commiserating on the unfortunate state of the affairs that knowledgable folks do not wish to get mixed up in the field of gravity research.' He continues: 'It occurred to us some time ago that our industry was vitally concerned with gravity ... At least one category of the things one must study, when he desires to bring space flight to reality, is the laws of nature surrounding the force of gravity.' He described the proposed body as an 'industrial version of the Institute for Advanced Study'.\n\nThat is an aerospace prime's executive, in 1955, in writing, saying his industry needed gravity research and that respectable people would not touch it -- which is a documented statement of exactly the reputational mechanism this board maps elsewhere. Martin money also reached the university side: Trimble and the Glenn L. Martin Company bought a Founder's Membership in the Institute of Field Physics for $5,000 and offered to help solicit more.\n\nThe industrial and academic halves were deliberately kept apart, and the source says why. The Martin company's institute was 'industry-sponsored, and not ensconced in a university', while the Institute of Field Physics was placed inside UNC 'so as to avoid the conflict that physicists felt working in an industrial setting.' Note what is not carried here: no document read states that Trimble recruited Louis Witten, and this board draws no such edge.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "George S. Trimble",
+"sources": [
+{
+"date": "2026-09-02",
+"name": "History of the Institute of Field Physics (1955-1959), UNC Physics and Astronomy department history",
+"url": "https://physics.unc.edu/home/department-history/section-ii/"
+},
+{
+"date": "1955-06-10",
+"name": "Dean Rickles, 'The Chapel Hill Conference in Context', quoting Trimble to DeWitt, 10 June 1955",
+"url": "https://edition-open-sources.org/sources/5/3/index.html"
+},
+{
+"date": "1957-01-23",
+"name": "The Role of Gravitation in Physics: Report from the 1957 Chapel Hill Conference",
+"url": "https://edition-open-sources.org/sources/5/"
+}
+],
+"status": "dead",
+"sub": "Glenn L. Martin Company executive; proposed RIAS as an industrial institute for advanced study",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 659 of 1027, score 23). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A1/D0.",
+"timeline": [],
+"unexplainedResidual": null,
+"unverified": "RIAS's founding date and founder were not established from a primary record. A '1955, by George Bunker' attribution appears only in encyclopedia summaries and was not opened. Trimble's June 1955 letter describes the institute as still proposed, which is consistent with 1955 but does not establish it."
+}

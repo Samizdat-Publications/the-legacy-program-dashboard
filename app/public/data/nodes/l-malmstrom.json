@@ -1,0 +1,108 @@
+{
+"A": 2,
+"C": 1,
+"D": 3,
+"band": null,
+"claims": [
+{
+"source": "OASD FOIA release, case 97-F-1677, September 1997",
+"text": "DoD records released under FOIA case 97-F-1677 describe numerous unidentified craft over Malmstrom AFB in November 1975 and record that they could not be intercepted by multiple F-106 fighters.",
+"tier": 1
+}
+],
+"cls": "location",
+"cluster": "legacy",
+"connections": [
+{
+"claimTier": 2,
+"cls": "program",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "A nuclear weapons installation inside the directive's stated scope",
+"id": "prp-nuclear-weapon",
+"l0": false,
+"label": "DoD Nuclear Weapon Personnel Reliability Program (DoD Directive 5210.42)",
+"note": "A nuclear weapons installation whose crews fall inside the directive's stated scope of personnel assigned to PRP positions.",
+"sources": [
+{
+"date": "1993-05-25",
+"name": "DoD Directive 5210.42, 25 May 1993, DTIC AD-A271698",
+"url": "https://archive.org/download/DTIC_ADA271698/DTIC_ADA271698_djvu.txt"
+}
+],
+"tier": "B",
+"type": "geographic"
+},
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": "1975",
+"dateStart": "1975",
+"direction": "in",
+"edgeLabel": "Malmstrom AFB and its Minuteman fields were among the installations overflown",
+"id": "sac-overflights-1975",
+"l0": true,
+"label": "1975 SAC Nuclear-Base Overflights (Loring, Wurtsmith, Malmstrom, Minot)",
+"note": "DoD records released under FOIA case 97-F-1677 describe numerous unidentified craft over Malmstrom in November 1975.",
+"sources": [
+{
+"date": "2021-11-08",
+"name": "Unidentified Flying Objects over Malmstrom AFB, November 1975 (DoD FOIA case 97-F-1677)",
+"url": "https://www.theblackvault.com/documentarchive/unidentified-flying-objects-over-malmstrom-afb-november-1975/"
+}
+],
+"tier": "A",
+"type": "institutional"
+}
+],
+"coords": null,
+"dateEnd": "1975",
+"dateStart": "1975",
+"deg": 2,
+"denials": [],
+"desc": "Strategic Air Command installation at Great Falls, Montana, controlling Minuteman ICBM launch facilities across a wide area of the state, and the site of two of the most heavily documented nuclear-weapons-related UFO events in the American record: the March 1967 missile-facility incident and the November 1975 overflights. The 1975 records, released by the Office of the Assistant Secretary of Defense under FOIA case 97-F-1677, describe numerous unidentified craft over the base and its missile fields and record that F-106 interceptors were unable to acquire them. Six years earlier the Air Force had publicly closed Project Blue Book on the finding that no UFO had ever given any indication of threat to national security. Malmstrom is where that finding meets the Air Force's own operational message traffic.",
+"domains": [
+"history-1970s-2000s"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "1",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "l-malmstrom",
+"l0": false,
+"label": "Malmstrom AFB and Minuteman Missile Fields, Montana",
+"locLabel": null,
+"members": null,
+"short": "Malmstrom AFB and Minuteman Missile Fields, Montana",
+"sources": [
+{
+"date": "2021-11-08",
+"name": "Unidentified Flying Objects over Malmstrom AFB, November 1975 (DoD FOIA case 97-F-1677)",
+"url": "https://www.theblackvault.com/documentarchive/unidentified-flying-objects-over-malmstrom-afb-november-1975/"
+},
+{
+"date": "2016-08-15",
+"name": "National Archives, 'Project BLUE BOOK - Unidentified Flying Objects' reference report (incl. MJ-12 / Cutler-Twining findings)",
+"url": "https://www.archives.gov/research/military/air-force/ufos"
+}
+],
+"sub": "SAC ICBM installation; documented 1975 unidentified overflights",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 731 of 1027, score 21). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D3.",
+"timeline": [
+{
+"date": "1975-11-07",
+"id": "t-1975-malmstrom",
+"label": "Malmstrom AFB and Minuteman fields overflown",
+"precision": "day",
+"strand": "program",
+"text": "DoD records later released under FOIA case 97-F-1677 describe numerous unidentified craft over Malmstrom AFB and its missile fields, which multiple F-106 interceptors could not acquire.",
+"tier": "A"
+}
+]
+}

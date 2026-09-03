@@ -1,0 +1,139 @@
+{
+"A": 0,
+"C": 0,
+"D": 1,
+"affiliations": [
+"MIT/Woods Hole Oceanographic Institution Joint Program (PhD)",
+"Scientific Coalition for UAP Studies - board",
+"The Galileo Project - research affiliate"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "2023-12-07",
+"event": "Co-authors the SCU study on reported UAP characteristics.",
+"precision": "day"
+},
+{
+"date": "2025-11-26",
+"event": "Co-authors the Galileo Project geomagnetic variometer instrumentation paper.",
+"precision": "day"
+}
+],
+"claims": [
+{
+"source": "GI, DOI 10.5194/gi-14-335-2025",
+"text": "Little is a co-author of 'The deployment of a geomagnetic variometer station as auxiliary instrumentation for the study of Unidentified Aerial Phenomena', Geoscientific Instrumentation, Methods and Data Systems 14:335 (2025).",
+"tier": 1
+},
+{
+"source": "SCU, Zenodo DOI 10.5281/zenodo.10287332",
+"text": "Little is a co-author of the 2023 SCU study on reported UAP shape, size, kinematics, electromagnetic effects and sound.",
+"tier": 1
+}
+],
+"cls": "person",
+"cluster": "research",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": null,
+"dateStart": "2025",
+"direction": "out",
+"edgeLabel": "Co-author on the 2025 geomagnetic variometer instrumentation paper",
+"id": "galileo-project",
+"l0": true,
+"label": "The Galileo Project",
+"note": "Published in Geoscientific Instrumentation, Methods and Data Systems in November 2025 - a Copernicus geophysics journal publishing hardware installed specifically to look for UAP signatures.",
+"sources": [
+{
+"date": "2025-11-26",
+"name": "Vervelidou, Delacroix, Domine, Kelderman, Little et al., 'The deployment of a geomagnetic variometer station as auxiliary instrumentation for the study of Unidentified Aerial Phenomena', Geoscientific Instrumentation, Methods and Data Systems 14:335",
+"url": "https://doi.org/10.5194/gi-14-335-2025"
+}
+],
+"tier": "B",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2023",
+"direction": "out",
+"edgeLabel": "SCU board member and co-author of the 2023 characteristics study",
+"id": "scu-uap-studies",
+"l0": false,
+"label": "Scientific Coalition for UAP Studies (SCU)",
+"note": "Little is one of the few researchers who publishes with both SCU and the Galileo Project, which is a measure of how small the actual civil analytical bench is.",
+"sources": [
+{
+"date": "2023-12-07",
+"name": "Powell, Little, Hancock, Hasan & Truong, 'The Reported Shape, Size, Kinematics, Electromagnetic Effects, and Presence of Sound of Unidentified Aerial Phenomena', SCU (Zenodo)",
+"url": "https://doi.org/10.5281/zenodo.10287332"
+},
+{
+"date": "2025-11-26",
+"name": "Vervelidou, Delacroix, Domine, Kelderman, Little et al., 'The deployment of a geomagnetic variometer station as auxiliary instrumentation for the study of Unidentified Aerial Phenomena', Geoscientific Instrumentation, Methods and Data Systems 14:335",
+"url": "https://doi.org/10.5194/gi-14-335-2025"
+}
+],
+"tier": "C",
+"type": "institutional"
+}
+],
+"date": "2025-11-26",
+"dateEnd": null,
+"dateStart": "2025-11-26",
+"deg": 2,
+"denials": [],
+"domains": [
+"scientists-technical"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "sarah-little",
+"instId": "scu-uap-studies",
+"l0": false,
+"label": "Sarah Little",
+"loc": "Woods Hole, MA",
+"locId": null,
+"members": null,
+"narrative": "Little is one of the small number of people who work across both of the serious civil research programmes, which makes her a useful index of how thin the actual technical bench is. A marine biochemist trained through the MIT/Woods Hole Oceanographic Institution joint programme, she sits on the board of the Scientific Coalition for UAP Studies, where she co-authored the 2023 study of reported UAP shape, size, kinematics, electromagnetic effects and sound with Robert Powell and Larry Hancock, and she is a co-author on the Galileo Project's 2025 paper in Geoscientific Instrumentation, Methods and Data Systems describing the deployment of a geomagnetic variometer station as auxiliary instrumentation for UAP study. That paper is a small but important artefact: it is a mainstream Copernicus-published instrumentation paper, in a geophysics journal, about hardware installed specifically to look for UAP signatures. The transferable point is that the same handful of researchers - Little, Knuth, Cloete, Szydagis, Watters - appear across SCU, UAPx and Galileo, which is why the total civil analytical capacity is far smaller than the volume of public discussion implies.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Sarah Little",
+"sources": [
+{
+"date": "2025-11-26",
+"name": "Vervelidou, Delacroix, Domine, Kelderman, Little et al., 'The deployment of a geomagnetic variometer station as auxiliary instrumentation for the study of Unidentified Aerial Phenomena', Geoscientific Instrumentation, Methods and Data Systems 14:335",
+"url": "https://doi.org/10.5194/gi-14-335-2025"
+},
+{
+"date": "2023-12-07",
+"name": "Powell, Little, Hancock, Hasan & Truong, 'The Reported Shape, Size, Kinematics, Electromagnetic Effects, and Presence of Sound of Unidentified Aerial Phenomena', SCU (Zenodo)",
+"url": "https://doi.org/10.5281/zenodo.10287332"
+},
+{
+"date": "2026-08-12",
+"name": "Scientific Coalition for UAP Studies",
+"url": "https://www.explorescu.org/"
+}
+],
+"status": "active",
+"sub": "Marine biochemist (PhD, MIT/WHOI); board member, Scientific Coalition for UAP Studies; co-author, Galileo Project geomagnetic variometer instrumentation paper",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 980 of 1027, score 10). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D1.",
+"timeline": [],
+"unexplainedResidual": null,
+"unverified": []
+}

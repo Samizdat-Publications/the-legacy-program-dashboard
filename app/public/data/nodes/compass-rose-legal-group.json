@@ -1,0 +1,108 @@
+{
+"A": 1,
+"C": 0,
+"D": 2,
+"band": null,
+"claims": [
+{
+"source": "The Debrief, 5 June 2023; unclassified reprisal complaint reported 13 June 2023",
+"text": "Charles McCullough III, senior partner, filed Grusch's urgent-concern complaint with the ICIG on 25 May 2022.",
+"tier": 1
+}
+],
+"cls": "institution",
+"cluster": "oversight",
+"connections": [
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "Firm that filed Grusch's statutory ICIG whistleblower complaint",
+"id": "david-grusch",
+"l0": false,
+"label": "David Charles Grusch",
+"note": "Grusch retained Compass Rose Legal Group (senior partner I. Charles McCullough III, the first Intelligence Community Inspector General) to file and pursue his statutory whistleblower and reprisal complaint with the sitting ICIG. The Debrief reported the firm formally concluded its representation in November 2023, and stressed that Grusch's public crash-retrieval claims were always outside the scope of that representation.",
+"sources": [
+{
+"date": null,
+"name": "https://thedebrief.org/compass-rose-attorneys-formally-end-association-with-uap-whistleblower-david-grusch/",
+"url": "https://thedebrief.org/compass-rose-attorneys-formally-end-association-with-uap-whistleblower-david-grusch/"
+},
+{
+"date": null,
+"name": "https://compassrosepllc.com/mccullough/",
+"url": "https://compassrosepllc.com/mccullough/"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "Senior partner was ODNI's Intelligence Community Inspector General",
+"id": "odni",
+"l0": true,
+"label": "Office of the Director of National Intelligence",
+"note": "Compass Rose senior partner I. Charles McCullough III holds the tie to ODNI in his own right. Chairman Feinstein opened his confirmation hearing by describing its purpose: 'to consider the President's nomination of Charles McCullough to be the first Inspector General of the Intelligence Community.' McCullough told the Committee he was then 'serving on detail from the National Security Agency as the Deputy Inspector General at the Office of the Director of National Intelligence', and thanked Director Clapper for his support. The office he was confirmed into sits inside ODNI, which is the channel Grusch's complaint later ran through.",
+"sources": [
+{
+"date": "2011-09-22",
+"name": "S. Hrg. 112-309, 'Nomination of Irvin Charles McCullough III to be Inspector General of the Intelligence Community', Senate Select Committee on Intelligence, 22 September 2011",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-112shrg72745/html/CHRG-112shrg72745.htm"
+},
+{
+"date": null,
+"name": "https://compassrosepllc.com/mccullough/",
+"url": "https://compassrosepllc.com/mccullough/"
+},
+{
+"date": null,
+"name": "https://thedebrief.org/compass-rose-attorneys-formally-end-association-with-uap-whistleblower-david-grusch/",
+"url": "https://thedebrief.org/compass-rose-attorneys-formally-end-association-with-uap-whistleblower-david-grusch/"
+}
+],
+"tier": "A",
+"type": "institutional"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "2017",
+"deg": 2,
+"denials": [],
+"desc": "The firm where Charles McCullough III, the first Inspector General of the Intelligence Community, is a senior partner, and the firm through which Grusch's PPD-19 urgent-concern complaint was filed on 25 May 2022 and his reprisal complaint pursued. Its role in the record is a credentialing one: the complaint was drafted and filed by the person who previously ran the office receiving it, which is why the credible-and-urgent determination arrived within roughly two months rather than disappearing into intake.",
+"domains": [
+"grusch"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "compass-rose-legal-group",
+"l0": false,
+"label": "Compass Rose Legal Group",
+"locLabel": null,
+"members": null,
+"short": "Compass Rose Legal Group",
+"sources": [
+{
+"date": "2023-06-05",
+"name": "The Debrief - Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin",
+"url": "https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/"
+}
+],
+"sub": "National security whistleblower law firm, Washington DC",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 945 of 1027, score 12). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D2.",
+"timeline": []
+}

@@ -1,0 +1,152 @@
+{
+"A": 0,
+"C": 0,
+"D": 3,
+"band": null,
+"claims": [
+{
+"source": "NSA UFO FOIA collection litigation records",
+"text": "CAUS was the plaintiff in Civil Action No. 80-1562, Citizens Against Unidentified Flying Objects Secrecy v. National Security Agency, in which the presiding judge received in camera a Top Secret explanation for the withholding and ruled for NSA.",
+"tier": 1
+},
+{
+"source": "CourtListener case records",
+"text": "The D.C. Circuit decided the appeal on 3 November 1981; the Supreme Court denied certiorari on 8 March 1982.",
+"tier": 1
+},
+{
+"source": "GAO/NSIAD-95-187",
+"text": "GAO's 1995 Roswell records report lists NSA holdings of 'FOIA records, Citizens Against UFO Secrecy' among the record sets it searched.",
+"tier": 1
+}
+],
+"cls": "institution",
+"cluster": "oversight",
+"connections": [
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": "1982",
+"dateStart": "1980",
+"direction": "out",
+"edgeLabel": "CAUS was the plaintiff in Civil Action No. 80-1562",
+"id": "caus-v-nsa",
+"l0": false,
+"label": "Citizens Against UFO Secrecy v. National Security Agency (Civil Action No. 80-1562)",
+"note": "The organisation brought the case that produced judicial confirmation that NSA holds UFO-related records it will not release.",
+"sources": [
+{
+"date": "2016-09-10",
+"name": "UFOs: The National Security Agency (NSA) Collection - incl. the Yeates Affidavit and CAUS v. NSA litigation records",
+"url": "https://www.theblackvault.com/documentarchive/ufos-the-national-security-agency-nsa-collection/"
+},
+{
+"date": "1981-11-03",
+"name": "Citizens Against UFO Secrecy v. National Security Agency, U.S. Court of Appeals for the D.C. Circuit (CourtListener)",
+"url": "https://www.courtlistener.com/opinion/400210/citizens-against-ufo-secrecy-v-nation-security-age/"
+}
+],
+"tier": "B",
+"type": "legislative"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "1995",
+"dateStart": "1977",
+"direction": "in",
+"edgeLabel": "Gersten directed CAUS and brought its FOIA litigation",
+"id": "peter-gersten",
+"l0": false,
+"label": "Peter A. Gersten",
+"note": "Gersten's litigation against CIA, NSA and DoD is the origin of the document-first method in this field.",
+"sources": [
+{
+"date": "2016-09-10",
+"name": "UFOs: The National Security Agency (NSA) Collection - incl. the Yeates Affidavit and CAUS v. NSA litigation records",
+"url": "https://www.theblackvault.com/documentarchive/ufos-the-national-security-agency-nsa-collection/"
+},
+{
+"date": "2001-11-14",
+"name": "Citizens Against UFO Secrecy, Inc. v. United States Department of Defense, U.S. Court of Appeals for the Ninth Circuit (CourtListener)",
+"url": "https://www.courtlistener.com/opinion/7176972/citizens-against-ufo-secrecy-inc-v-united-states-department-of-defense/"
+}
+],
+"tier": "C",
+"type": "institutional"
+}
+],
+"coords": null,
+"dateEnd": "2005",
+"dateStart": "1977",
+"deg": 2,
+"denials": [],
+"desc": "CAUS was the first organisation to treat UFO secrecy as a litigable question rather than a belief question. Founded in 1977 and directed by the attorney Peter Gersten, it used the Freedom of Information Act and federal litigation against the CIA, NSA and Department of Defense, forcing the release of several hundred pages of CIA UFO records in the late 1970s and then bringing Civil Action No. 80-1562 against the National Security Agency. That case established the fact this board cares about: NSA located UFO-related records, withheld them under national-security exemptions, and defended the withholding with a classified affidavit reviewed only by the judge. CAUS lost every merits ruling and won the only thing that mattered - a judicial record that the material exists. The organisation was still in the federal appellate courts against DoD as late as November 2001. Its body of FOIA correspondence became sufficiently substantial that GAO listed 'National Security Agency, Fort Meade, Md. - FOIA records, Citizens Against UFO Secrecy' among the record sets it searched for the 1995 Roswell report.",
+"domains": [
+"history-1970s-2000s"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "1",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "caus",
+"l0": false,
+"label": "Citizens Against UFO Secrecy (CAUS)",
+"locLabel": null,
+"members": null,
+"short": "Citizens Against UFO Secrecy (CAUS)",
+"sources": [
+{
+"date": "2016-09-10",
+"name": "UFOs: The National Security Agency (NSA) Collection - incl. the Yeates Affidavit and CAUS v. NSA litigation records",
+"url": "https://www.theblackvault.com/documentarchive/ufos-the-national-security-agency-nsa-collection/"
+},
+{
+"date": "1981-11-03",
+"name": "Citizens Against UFO Secrecy v. National Security Agency, U.S. Court of Appeals for the D.C. Circuit (CourtListener)",
+"url": "https://www.courtlistener.com/opinion/400210/citizens-against-ufo-secrecy-v-nation-security-age/"
+},
+{
+"date": "1982-03-08",
+"name": "Citizens Against UFO Secrecy v. National Security Agency, Supreme Court of the United States (cert. denied) (CourtListener)",
+"url": "https://www.courtlistener.com/opinion/9037778/citizens-against-ufo-secrecy-v-national-security-agency/"
+},
+{
+"date": "2001-11-14",
+"name": "Citizens Against UFO Secrecy, Inc. v. United States Department of Defense, U.S. Court of Appeals for the Ninth Circuit (CourtListener)",
+"url": "https://www.courtlistener.com/opinion/7176972/citizens-against-ufo-secrecy-inc-v-united-states-department-of-defense/"
+},
+{
+"date": "1995-07-28",
+"name": "GAO/NSIAD-95-187, 'Government Records: Results of a Search for Records Concerning the 1947 Crash Near Roswell, New Mexico'",
+"url": "https://www.govinfo.gov/content/pkg/GAOREPORTS-NSIAD-95-187/html/GAOREPORTS-NSIAD-95-187.htm"
+}
+],
+"sub": "Private FOIA litigation organisation, 1977-2000s",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 831 of 1027, score 17). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.",
+"timeline": [
+{
+"date": "1977-01-01",
+"id": "t-1977-caus",
+"label": "CAUS founded",
+"precision": "year",
+"strand": "oversight",
+"text": "Citizens Against UFO Secrecy is established under attorney Peter Gersten and begins FOIA litigation against the CIA.",
+"tier": "B"
+},
+{
+"date": "2001-11-14",
+"id": "t-2001-caus9th",
+"label": "CAUS still litigating against DoD",
+"precision": "day",
+"strand": "oversight",
+"text": "The Ninth Circuit decides Citizens Against UFO Secrecy, Inc. v. United States Department of Defense - twenty-four years after the organisation was founded.",
+"tier": "B"
+}
+]
+}

@@ -1,0 +1,107 @@
+{
+"A": 2,
+"C": 1,
+"D": 3,
+"band": null,
+"claims": [
+{
+"source": "OSD FOIA 21-F-0938, DoD FOIA Reading Room",
+"text": "Contains Elizondo's 3 June 2020 statement to Gough: 'The truth, as everyone involved in the program knows, is that I ran the program.'",
+"tier": 1
+},
+{
+"source": "OSD FOIA 21-F-0938",
+"text": "Records Elizondo's assertion that Gough initially claimed 'Neither AATIP nor AAWSAP were UAP related', later corrected that, but never corrected the statement about his involvement.",
+"tier": 1
+},
+{
+"source": "OSD FOIA 21-F-0938",
+"text": "Records Elizondo's assertion that a DoD Press Secretary verified in 2017 that he was an OUSD(I) staff member, and that Sherwood had indicated the Department would release an exonerating statement.",
+"tier": 2
+}
+],
+"cls": "document",
+"cluster": "other",
+"connections": [
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "2021",
+"dateStart": "2021",
+"direction": "out",
+"edgeLabel": "FOIA release of the Elizondo-Gough correspondence",
+"id": "susan-gough",
+"l0": false,
+"label": "Susan Gough",
+"note": "The Department's own reading room hosts the most detailed public rebuttal of the Department's position on Elizondo.",
+"sources": [
+{
+"date": "2021-01-01",
+"name": "DoD FOIA Reading Room — 21-F-0938",
+"url": "https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/Public_Affairs/21-F-0938-PA-Elizondo-Emails.pdf"
+}
+],
+"tier": "A",
+"type": "investigative"
+}
+],
+"coords": null,
+"dateEnd": "2021",
+"dateStart": "2019",
+"deg": 1,
+"denials": [],
+"desc": "A DoD Public Affairs FOIA release, posted in the Department's own reading room, containing Luis Elizondo's correspondence with Pentagon spokesperson Susan Gough. It includes his letter of 3 June 2020 opening 'Ms. Gough, My name is Luis D. Elizondo, and I am a former...' and stating that she had released a statement claiming he had 'no assigned duties in the AATIP program' when 'the truth, as everyone involved in the program knows, is that I ran the program.' He notes that she had initially claimed 'Neither AATIP nor AAWSAP were UAP related', later corrected that, and never corrected the statement about him; that the Navy had publicly acknowledged his involvement; that a predecessor named Sherwood had indicated the Department would issue a statement exonerating him; and that a DoD Press Secretary had verified in 2017 that he was an OUSD(I) staff member. A further letter of 5 June 2019 emphasises his active role through his departure in October 2017 and references attached substantiating documentation, which the Department did not release. The Department's own reading room therefore hosts the most detailed public rebuttal of the Department's own position.",
+"domains": [
+"_rs-archive-mirror",
+"elizondo-ttsa"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "foia-21-f-0938",
+"l0": false,
+"label": "OSD FOIA Case 21-F-0938 — Elizondo/Gough correspondence",
+"locLabel": null,
+"members": null,
+"short": "OSD FOIA Case 21-F-0938 — Elizondo/Gough correspondence",
+"sources": [
+{
+"date": "2026-02-01",
+"name": "Archived: DoD FOIA Reading Room — 21-F-0938 Elizondo emails (Wayback 2026-02-01)",
+"url": "https://web.archive.org/web/20260201224805/https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/Public_Affairs/21-F-0938-PA-Elizondo-Emails.pdf"
+},
+{
+"date": "2021-01-01",
+"name": "DoD FOIA Reading Room — 21-F-0938 Elizondo emails",
+"url": "https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/Public_Affairs/21-F-0938-PA-Elizondo-Emails.pdf"
+}
+],
+"sub": "DoD Public Affairs email release",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 606 of 1027, score 25). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D3.",
+"timeline": [
+{
+"date": "2019-06-05",
+"id": "tl-2019-06-05-letter",
+"label": "Elizondo writes to DoD Public Affairs",
+"precision": "day",
+"strand": "witness",
+"text": "His 'final effort to avoid seeing this unfortunate situation escalate', with attached substantiating documents the Department did not release.",
+"tier": "A"
+},
+{
+"date": "2020-06-03",
+"id": "tl-2020-06-03-elizondo-gough",
+"label": "'The truth... is that I ran the program'",
+"precision": "day",
+"strand": "witness",
+"text": "Elizondo writes to Susan Gough noting she corrected the AATIP/UAP statement but never the statement about him. The letter sits in the Department's own FOIA reading room.",
+"tier": "A"
+}
+]
+}

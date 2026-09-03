@@ -1,0 +1,195 @@
+{
+"A": 2,
+"C": 0,
+"D": 3,
+"band": null,
+"claims": [
+{
+"source": "DefenseScoop, 20 February 2026",
+"text": "Trump posted on Truth Social on 19-20 February 2026 that he would direct Hegseth and relevant departments to begin identifying and releasing government files on alien and extraterrestrial life, UAP and UFOs.",
+"tier": 2
+},
+{
+"source": "DefenseScoop, 25 February 2026",
+"text": "Hegseth referred to the direction as 'that executive order' on 25 February 2026.",
+"tier": 2
+},
+{
+"source": "DefenseScoop, 20 February 2026",
+"text": "Sean Parnell said the department 'looks forward to working with the interagency to fulfill the president's directive.'",
+"tier": 2
+},
+{
+"source": "Inference from the absence of any cited EO number across the portal, AARO's materials and DefenseScoop's coverage",
+"text": "No executive order text establishing PURSUE has appeared on war.gov, aaro.mil or in the contemporaneous reporting; the programme appears to rest on informal direction, leaving its scope and continuation entirely discretionary.",
+"tier": 3
+}
+],
+"cls": "document",
+"cluster": "other",
+"connections": [
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2026",
+"dateStart": "2026",
+"direction": "in",
+"edgeLabel": "Issued the direction that created PURSUE",
+"id": "donald-trump",
+"l0": false,
+"label": "Donald J. Trump",
+"note": "Trump's 19-20 February 2026 Truth Social post directing Hegseth and relevant agencies to begin identifying and releasing UAP files is the sole originating instrument for the release programme.",
+"sources": [
+{
+"date": "2026-02-20",
+"name": "DefenseScoop - Transparency proponents meet Trump's UAP disclosure tease with hope and caution",
+"url": "https://defensescoop.com/2026/02/20/trump-ufo-uap-government-files-disclosure/"
+},
+{
+"date": "2026-08-07",
+"name": "Department of War - PURSUE portal (war.gov/UFO)",
+"url": "https://www.war.gov/UFO/"
+}
+],
+"tier": "B",
+"type": "programmatic"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2026",
+"dateStart": "2026",
+"direction": "in",
+"edgeLabel": "Named implementer; called it 'that executive order'",
+"id": "pete-hegseth",
+"l0": false,
+"label": "Pete Hegseth",
+"note": "Hegseth told reporters on 25 February 2026 the department would be in full compliance with 'that executive order' and would coordinate with ODNI, while declining to give a schedule.",
+"sources": [
+{
+"date": "2026-02-25",
+"name": "DefenseScoop - Hegseth doubles down on Trump's UAP disclosure promise as AARO's caseload exceeds 2,000",
+"url": "https://defensescoop.com/2026/02/25/hegseth-ufo-disclosure-trump-aaro-uap-caseload/"
+}
+],
+"tier": "B",
+"type": "programmatic"
+},
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": null,
+"dateStart": "2026",
+"direction": "out",
+"edgeLabel": "The directive is the stated basis of the release programme",
+"id": "pursue-releases",
+"l0": true,
+"label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters",
+"note": "The war.gov/UFO portal attributes PURSUE to the President's direction to the Secretary of War, and AARO's own homepage links to it under the PURSUE name.",
+"sources": [
+{
+"date": "2026-08-07",
+"name": "Department of War - PURSUE portal (war.gov/UFO)",
+"url": "https://www.war.gov/UFO/"
+},
+{
+"date": "2026-08-12",
+"name": "AARO homepage (links PURSUE at war.gov/UFO and NARA UAP records)",
+"url": "https://www.aaro.mil/"
+}
+],
+"tier": "A",
+"type": "programmatic"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2026",
+"dateStart": "2026",
+"direction": "in",
+"edgeLabel": "First departmental acknowledgement of the directive",
+"id": "sean-parnell",
+"l0": false,
+"label": "Sean Parnell",
+"note": "Parnell said the department 'looks forward to working with the interagency to fulfill the president's directive', framing PURSUE as interagency implementation rather than an AARO or congressional product.",
+"sources": [
+{
+"date": "2026-02-20",
+"name": "DefenseScoop - Transparency proponents meet Trump's UAP disclosure tease with hope and caution",
+"url": "https://defensescoop.com/2026/02/20/trump-ufo-uap-government-files-disclosure/"
+}
+],
+"tier": "C",
+"type": "institutional"
+}
+],
+"coords": null,
+"dateEnd": "2026",
+"dateStart": "2026",
+"deg": 4,
+"denials": [],
+"desc": "The originating instrument of PURSUE, and a thin one. On 19-20 February 2026 Trump posted on Truth Social that he would direct Secretary of War Hegseth and other relevant departments and agencies to begin the process of identifying and releasing government files related to alien and extraterrestrial life, UAP and UFOs, 'and any and all other information connected to these highly complex, but extremely interesting and important, matters.' Hegseth referred to it five days later as 'that executive order,' but the contemporaneous reporting describes a social-media post and no signed order has surfaced in the public record as of 12 August 2026. Chief Pentagon Spokesman Sean Parnell said the department 'looks forward to working with the interagency to fulfill the president's directive.' The consequence of the missing instrument is that PURSUE has no published scope, no defined universe of covered records, no declassification standard, no review authority named in writing, no compliance deadline and no reporting requirement - every one of which the Burlison FY2027 NDAA amendment would supply by statute. It is a release programme that exists at will.",
+"domains": [
+"_rs-archive-mirror",
+"releases-2023-2026"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "trump-uap-release-directive-2026",
+"l0": false,
+"label": "Presidential direction to identify and release UAP files (19-20 February 2026)",
+"locLabel": null,
+"members": null,
+"short": "Presidential direction to identify and release UAP files (19-20 February 2026)",
+"sources": [
+{
+"date": "2026-08-10",
+"name": "Archived: Department of War - PURSUE portal (war.gov/UFO) (Wayback 2026-08-10)",
+"url": "https://web.archive.org/web/20260810202017/https://www.war.gov/UFO/"
+},
+{
+"date": "2026-02-20",
+"name": "DefenseScoop - Transparency proponents meet Trump's UAP disclosure tease with hope and caution",
+"url": "https://defensescoop.com/2026/02/20/trump-ufo-uap-government-files-disclosure/"
+},
+{
+"date": "2026-02-25",
+"name": "DefenseScoop - Hegseth doubles down on Trump's UAP disclosure promise as AARO's caseload exceeds 2,000",
+"url": "https://defensescoop.com/2026/02/25/hegseth-ufo-disclosure-trump-aaro-uap-caseload/"
+},
+{
+"date": "2026-08-07",
+"name": "Department of War - PURSUE portal (war.gov/UFO)",
+"url": "https://www.war.gov/UFO/"
+}
+],
+"sub": "Truth Social post; no published executive order text",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 409 of 1027, score 32). 4 connections, 3 of them custody/witness/funding/programmatic. Axes C0/A2/D3.",
+"timeline": [
+{
+"date": "2026-02-19",
+"id": "rel-2026-02-19",
+"label": "The President orders a release",
+"precision": "day",
+"strand": "program",
+"text": "Trump posts on Truth Social that he will direct Hegseth and relevant departments to begin identifying and releasing government files on alien and extraterrestrial life, UAP and UFOs.",
+"tier": "A"
+},
+{
+"date": "2026-02-20",
+"id": "rel-2026-02-20",
+"label": "The department acknowledges the directive",
+"precision": "day",
+"strand": "program",
+"text": "Parnell says the department looks forward to working with the interagency to fulfil the directive. Mellon: 'This might be a consequential moment, but the impact will depend on the follow-through.'",
+"tier": "A"
+}
+]
+}

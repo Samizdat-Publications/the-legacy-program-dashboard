@@ -1,0 +1,156 @@
+{
+"A": 3,
+"C": 0,
+"D": 0,
+"affiliations": [
+"California Institute of Technology (1947-1961)",
+"Weapons Systems Evaluation Group, DoD, director (1950-1952)",
+"CIA consultant"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "1953-01-14",
+"event": "Robertson Panel convenes at CIA Office of Scientific Intelligence",
+"precision": "day"
+},
+{
+"date": "1953-01-17",
+"event": "Panel adopts its report and recommendations",
+"precision": "day"
+},
+{
+"date": "1953-02-16",
+"event": "Frederick Durant's memorandum recording the proceedings is issued",
+"precision": "day"
+},
+{
+"date": "1961-08-26",
+"event": "Dies following a car accident",
+"precision": "day"
+}
+],
+"claims": [
+{
+"source": "Robertson Panel report, declassified text",
+"text": "The panel report is titled 'Report of Scientific Advisory Panel on Unidentified Flying Objects Convened by Office of Scientific Intelligence, CIA' and covers meetings of 14-18 January 1953.",
+"tier": 1
+},
+{
+"source": "Robertson Panel report, Recommendations",
+"text": "The panel recommended a public education programme with 'training' and 'debunking' aims, stating 'this education could be accomplished by mass media such as television, motion pictures, and popular articles.'",
+"tier": 1
+},
+{
+"source": "Robertson Panel report; corroborated in Haines, CIA Studies in Intelligence, 1997",
+"text": "The panel canvassed the Walt Disney organisation and the US Navy Special Devices Center as vehicles for producing the debunking material.",
+"tier": 1
+},
+{
+"source": "Robertson Panel report, membership list",
+"text": "Panel membership was Robertson (chair, Caltech), Luis W. Alvarez, Lloyd V. Berkner, Samuel A. Goudsmit and Thornton Page, with Frederick C. Durant as secretary.",
+"tier": 1
+},
+{
+"source": "Durant memorandum, 16 Feb 1953, recording the schedule of proceedings",
+"text": "The panel reviewed only a curated case selection over roughly twelve hours of formal session across four days.",
+"tier": 2
+}
+],
+"cls": "person",
+"cluster": "research",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "1953-01",
+"direction": "out",
+"edgeLabel": "Chaired the CIA-convened panel of January 1953",
+"id": "cia",
+"l0": true,
+"label": "Central Intelligence Agency",
+"note": "Robertson chaired the panel at CIA's request; the report is the founding document of American UFO information management.",
+"sources": [
+{
+"date": "1953-01-17",
+"name": "Robertson Panel report, declassified text (CUFON)",
+"url": "http://www.cufon.org/cufon/robert.htm"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": "1953",
+"dateStart": "1953",
+"direction": "out",
+"edgeLabel": "Robertson chaired the panel",
+"id": "robertson-panel",
+"l0": true,
+"label": "Robertson Panel",
+"note": "Robertson, a Caltech physicist and CIA consultant who had directed the DoD Weapons Systems Evaluation Group, chaired the 14-18 January 1953 sessions and signed the report.",
+"sources": [
+{
+"date": "1953-01-17",
+"name": "Robertson Panel report",
+"url": "http://www.cufon.org/cufon/robert.htm"
+}
+],
+"tier": "A",
+"type": "institutional"
+}
+],
+"date": "1953-01-17",
+"dateEnd": null,
+"dateStart": "1953-01-17",
+"deg": 2,
+"denials": [],
+"domains": [
+"history-1940s-1960s"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "howard-p-robertson",
+"instId": "cia",
+"l0": false,
+"label": "Howard P. Robertson",
+"loc": "Pasadena, CA",
+"locId": "l-dc",
+"members": null,
+"narrative": "Howard Percy Robertson was a Caltech relativist, a CIA consultant, and director of the Weapons Systems Evaluation Group at the Defense Department — a man with simultaneous standing in physics, intelligence and weapons policy. He chaired the panel convened by the CIA Office of Scientific Intelligence from 14 to 18 January 1953, which sat for roughly twelve hours across four days, reviewed a curated selection of cases, and produced a report recommending that the national security agencies 'strip the Unidentified Flying Objects of the special status they have been given' through an education programme with 'training' and 'debunking' aims. The debunking aim was to be pursued via 'mass media such as television, motion pictures, and popular articles,' with the panel explicitly canvassing the Walt Disney organisation and the Navy Special Devices Center as production vehicles. The panel further recommended that civilian UFO groups be watched 'because of their potentially great influence on mass thinking.' This is a documented US government decision to run an information operation against its own population on this subject, signed by named scientists, and it is the legal and cultural foundation of every subsequent denial.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Howard P. Robertson",
+"sources": [
+{
+"date": "1953-01-17",
+"name": "Robertson Panel report (declassified text)",
+"url": "http://www.cufon.org/cufon/robert.htm"
+},
+{
+"date": "1997-01-01",
+"name": "Haines, CIA's Role in the Study of UFOs, 1947-1990",
+"url": "https://www.cia.gov/resources/csi/studies-in-intelligence/studies-in-intelligence-1997/cias-role-in-the-study-of-ufos-1947-1990/"
+}
+],
+"status": "dead",
+"sub": "Physicist, Caltech; CIA consultant; panel chairman",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 600 of 1027, score 25). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A3/D0.",
+"timeline": [],
+"unexplainedResidual": null,
+"unverified": [
+"Whether any Disney production was in fact commissioned; no contract record has surfaced"
+]
+}

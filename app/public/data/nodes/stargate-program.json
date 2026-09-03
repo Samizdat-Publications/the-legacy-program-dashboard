@@ -1,0 +1,566 @@
+{
+"A": 3,
+"C": 0,
+"D": 2,
+"band": "funding",
+"claims": [
+{
+"source": "Memorandum, CENTER LANE FY 86 - 90 GDIP Submission (U), 4 April 1984, CIA-RDP96-00788R001600450002-5, https://archive.org/download/cia-readingroom-document-cia-rdp96-00788r001600450002-5/cia-rdp96-00788r001600450002-5_djvu.txt",
+"text": "The CENTER LANE project office was the Security Support Detachment, not the Systems Exploitation Detachment. The memorandum submitting the CENTER LANE FY86 to FY90 General Defense Intelligence Program initiative is headed 'DEPARTMENT OF THE ARMY / SECURITY SUPPORT DETACHMENT / USAINSCOM, 902D MILITARY INTELLIGENCE GROUP / FORT GEORGE G. MEADE, MARYLAND 20755', office symbol IAGPA-F-SD, and is signed by a lieutenant colonel of Military Intelligence as CENTER LANE Project Manager. The same office symbol heads the July 1984 information paper on the project's cancellation.",
+"tier": 1
+},
+{
+"source": "Talking paper, INSCOM Involvement in Remote Viewing (DoD Project GRILL FLAME), with milestone attachment dated 24 Nov 78, CIA-RDP96-00788R001200410023-0, https://archive.org/download/cia-readingroom-document-cia-rdp96-00788r001200410023-0/cia-rdp96-00788r001200410023-0_djvu.txt ; Memorandum, CENTER LANE FY 86 - 90 GDIP Submission (U), 4 April 1984, CIA-RDP96-00788R001600450002-5, https://archive.org/download/cia-readingroom-document-cia-rdp96-00788r001600450002-5/cia-rdp96-00788r001600450002-5_djvu.txt",
+"text": "The Army staff started the work and paid for the first contract in 1978, and INSCOM dates its own entry to 1977. A talking paper records that 'ACSI & MG Rolya agreed that INSCOM would \"check out\" parapsychology phenomen[a], and that Army Intelligence would obligate $75 K to support an SRI Subject selection and training program for INSCOM personnel over the next year'. The 1984 GDIP memorandum states: 'Since the beginning of USAINSCOM's exploitation of psychoenergetics (PE) technology with Project GRILL FLAME in 1977 through the present effort under CENTER LANE, the project has been conducted on an ad hoc basis, using resources taken \"out of hide.\"'",
+"tier": 1
+},
+{
+"source": "American Alchemy with Jesse Michels, 'CIA Psychic Spy: Mars Used To Have Alien Life', published 2 March 2025, at 1:13:18 to 1:49:19",
+"text": "On American Alchemy with Jesse Michels, 2 March 2025, between 1:13:18 and 1:49:19, Joseph McMoneagle described his own route into the programme as a chain of individual postings rather than a fixed bureaucratic assignment: a chance contact on an Army base, intelligence school, Vietnam service, a red-team task at an Allied intelligence facility in Germany, an order to headquarters by a three-star general, a diversion into Mandarin training at the Defense Language Institute, and an abrupt reassignment by a different general to look at Grill Flame at SRI before being absorbed at Fort Meade. He presents this as evidence that the programme moved by the personal patronage of particular general officers.",
+"tier": 2
+},
+{
+"source": "American Institutes for Research, 'An Evaluation of Remote Viewing: Research and Applications', 29 September 1995, CIA-RDP96-00791R000200180006-4, title page and table of contents https://archive.org/download/cia-readingroom-document-cia-rdp96-00791r000200180006-4/cia-rdp96-00791r000200180006-4_djvu.txt",
+"text": "The 1995 evaluation that closed the programme is titled 'AN EVALUATION OF REMOTE VIEWING: RESEARCH AND APPLICATIONS', was prepared by the American Institutes for Research and is dated September 29, 1995; it is released as CIA-RDP96-00791R000200180006-4. Its authors are Michael D. Mumford, Andrew M. Rose and David A. Goslin. Jessica Utts and Ray Hyman are the two expert reviewers rather than authors: Chapter Three carries 'Review 1 (Dr. Jessica Utts)', 'Review 2 (Ray Hyman)' and 'The Reply (Dr. Jessica Utts)'.",
+"tier": 1
+},
+{
+"source": "American Institutes for Research, 'An Evaluation of Remote Viewing: Research and Applications', 29 September 1995, CIA-RDP96-00791R000200180006-4, Executive Summary pages E-4 to E-5 https://archive.org/download/cia-readingroom-document-cia-rdp96-00791r000200180006-4/cia-rdp96-00791r000200180006-4_djvu.txt",
+"text": "The report's Executive Summary states: 'Most importantly, the information provided by remote viewing is vague and ambiguous, making it difficult, if not impossible, for the technique to yield information of sufficient quality and accuracy for actionable intelligence.' It adds that in no case had the information provided ever been used to guide intelligence operations, and concludes that 'continued use of remote viewing in intelligence gathering operations is not warranted.'",
+"tier": 1
+},
+{
+"source": "Wikipedia, Stargate Project (U.S. Army unit), citing declassified programme records — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"text": "The programme ran under successive cryptonyms: SCANATE (c.1970, CIA), GONDOLA WISH (1977, Army ACSI SED), GRILL FLAME (mid-1978, INSCOM, Fort Meade Buildings 2560-2561), CENTER LANE (1983), SUN STREAK (late 1985, DIA S&TI), STAR GATE (1991).",
+"tier": 2
+},
+{
+"source": "Wikipedia, SRI International; CIA STAR GATE records, CREST archive — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"text": "In 1972 Harold Puthoff and Russell Targ began CIA-sponsored psychic research at SRI International in Menlo Park and coined the term 'remote viewing'; the work continued with intelligence community funding until they left SRI in the mid-1980s.",
+"tier": 2
+},
+{
+"source": "American Institutes for Research evaluation, 1995",
+"text": "The 1995 AIR evaluation concluded that 'the information provided by remote viewing is vague and ambiguous, making it difficult, if not impossible, for the technique to yield information of sufficient quality and accuracy for actionable intelligence'; CIA terminated the roughly $20 million programme in 1995.",
+"tier": 1
+},
+{
+"source": "CIA FOIA Reading Room / CREST",
+"text": "In January 2017 the CIA published the STAR GATE records online as part of the CREST archive.",
+"tier": 1
+},
+{
+"source": "Inference from the documented STAR GATE structure",
+"text": "STAR GATE is the closest documented structural analogue to the concealment architecture this board alleges for materiel exploitation: contractor science, compartmented military operations, intelligence funding, public disparagement, and terminal declassification decades later. Reasoning: structural comparison of documented programme features.",
+"tier": 3
+}
+],
+"cls": "event",
+"cluster": "ic",
+"connections": [
+{
+"claimTier": 2,
+"cls": "institution",
+"dateEnd": "1995",
+"dateStart": "1985",
+"direction": "out",
+"edgeLabel": "DIA held the programme from 1985 as SUN STREAK and STAR GATE",
+"id": "dia",
+"l0": true,
+"label": "Defense Intelligence Agency",
+"note": "The effort moved to DIA's Scientific and Technical Intelligence Directorate as SUN STREAK in late 1985 and was consolidated as STAR GATE in 1991.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Wikipedia - Stargate Project (U.S. Army unit)",
+"url": "https://en.wikipedia.org/wiki/Stargate_Project_(U.S._Army_unit)"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "1985",
+"dateStart": "1972",
+"direction": "in",
+"edgeLabel": "Ran the SRI International half of the government's psychoenergetics effort",
+"id": "harold-puthoff",
+"l0": false,
+"label": "Harold E. Puthoff",
+"note": "The same principal investigator ran the SRI remote viewing science, produced Defense Intelligence Reference Documents under AAWSAP, and co-founded To The Stars Academy, which signed the CRADA with the Army in 2019. Reasoning: continuity of a single documented career, not of a single programme.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Wikipedia: Advanced Aerospace Threat Identification Program",
+"url": "https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program"
+},
+{
+"date": "2026-08-12",
+"name": "Wikipedia - Stargate Project (U.S. Army unit)",
+"url": "https://en.wikipedia.org/wiki/Stargate_Project_(U.S._Army_unit)"
+},
+{
+"date": "2019-10-18",
+"name": "The Black Vault - Army/TTSA CRADA and FOIA records",
+"url": "https://www.theblackvault.com/documentarchive/u-s-army-releases-crada-with-to-the-stars-academy-of-arts-science/"
+},
+{
+"date": "2026-08-25",
+"name": "CRADA between CCDC Ground Vehicle Systems Center and To The Stars Academy, CRADA No. 19-15 (released PDF)",
+"url": "https://documents2.theblackvault.com/documents/army/TTSA-ARMY-CRADA.pdf"
+}
+],
+"tier": "A",
+"type": "programmatic"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "1985",
+"dateStart": "1972",
+"direction": "in",
+"edgeLabel": "Puthoff was principal investigator and project director",
+"id": "harold-puthoff",
+"l0": false,
+"label": "Harold E. Puthoff",
+"note": "Puthoff co-founded the SRI programme with Targ and directed the research phase before leaving in the mid-1980s.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Wikipedia - Stargate Project (U.S. Army unit)",
+"url": "https://en.wikipedia.org/wiki/Stargate_Project_(U.S._Army_unit)"
+}
+],
+"tier": "A",
+"type": "research"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "1995",
+"dateStart": "1991",
+"direction": "in",
+"edgeLabel": "Clapper led the programme in the 1990s before becoming DNI",
+"id": "james-clapper",
+"l0": false,
+"label": "James R. Clapper Jr.",
+"note": "Clapper is recorded as a project leader in the 1990s; he later served as Director of National Intelligence.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Wikipedia - Stargate Project (U.S. Army unit)",
+"url": "https://en.wikipedia.org/wiki/Stargate_Project_(U.S._Army_unit)"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 3,
+"cls": "person",
+"dateEnd": "1985",
+"dateStart": "1975",
+"direction": "out",
+"edgeLabel": "Green ran the CIA analytic side of the anomalous-phenomena portfolio",
+"id": "kit-green",
+"l0": false,
+"label": "Christopher C. 'Kit' Green",
+"note": "Green's CIA Life Sciences work on anomalous phenomena is the analytic counterpart to the SRI research, and his later Wayne State position carried the biomedical line into NIDS/BAASS and the modern Stanford circle. Reasoning: continuity of documented affiliations, not of a single programme.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Wikipedia - Stargate Project (U.S. Army unit)",
+"url": "https://en.wikipedia.org/wiki/Stargate_Project_(U.S._Army_unit)"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 3,
+"cls": "location",
+"dateEnd": "2017",
+"dateStart": "1955",
+"direction": "in",
+"edgeLabel": "Both are demonstrations of decades-long concealment ending in bulk declassification",
+"id": "l-groom-lake",
+"l0": false,
+"label": "Groom Lake, Nevada",
+"note": "Groom Lake ran 58 years to specific acknowledgement via FOIA; STAR GATE ran 25 years to bulk CREST publication in 2017. Reasoning: structural comparison of two documented concealment lifecycles.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Wikipedia - Area 51",
+"url": "https://en.wikipedia.org/wiki/Area_51"
+},
+{
+"date": "2026-08-12",
+"name": "Wikipedia - Stargate Project (U.S. Army unit)",
+"url": "https://en.wikipedia.org/wiki/Stargate_Project_(U.S._Army_unit)"
+}
+],
+"tier": "B",
+"type": "temporal"
+},
+{
+"claimTier": 2,
+"cls": "location",
+"dateEnd": "1986",
+"dateStart": "1972",
+"direction": "out",
+"edgeLabel": "The research was conducted at Menlo Park, California",
+"id": "l-sri",
+"l0": false,
+"label": "SRI International, Menlo Park, California",
+"note": "SRI International, founded 1946 by Stanford trustees and separated from the university in 1970, hosted the work at Menlo Park.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Wikipedia - SRI International",
+"url": "https://en.wikipedia.org/wiki/SRI_International"
+}
+],
+"tier": "C",
+"type": "geographic"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "A private method brought inside the Army's remote-viewing effort as required training",
+"id": "monroe-institute",
+"l0": false,
+"label": "The Monroe Institute",
+"note": "The memorandum names remote viewing as a follow-on technique inside the Gateway Experience and was written for USAINSCOM personnel required to take that training, which places the Institute's method inside the programme chain the STAR GATE node covers.",
+"sources": [
+{
+"date": "1983-06-09",
+"name": "Analysis and Assessment of Gateway Process, 9 June 1983, CIA-RDP96-00788R001700210016-5",
+"url": "https://archive.org/details/cia-readingroom-document-cia-rdp96-00788r001700210016-5"
+}
+],
+"tier": "C",
+"type": "research"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "1982",
+"dateStart": "1972",
+"direction": "in",
+"edgeLabel": "Targ co-founded the SRI remote viewing research",
+"id": "russell-targ",
+"l0": false,
+"label": "Russell Targ",
+"note": "Targ collaborated with Puthoff on the early SRI work and on the tests with Geller, Swann and Price.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Wikipedia - Stargate Project (U.S. Army unit)",
+"url": "https://en.wikipedia.org/wiki/Stargate_Project_(U.S._Army_unit)"
+}
+],
+"tier": "C",
+"type": "research"
+},
+{
+"claimTier": 2,
+"cls": "institution",
+"dateEnd": "1986",
+"dateStart": "1972",
+"direction": "out",
+"edgeLabel": "SRI held the science half of the remote viewing effort from 1972",
+"id": "sri-international",
+"l0": true,
+"label": "SRI International (Stanford Research Institute)",
+"note": "Puthoff and Targ began CIA-sponsored work at SRI's Artificial Intelligence Center in 1972 and continued with intelligence community funding until they left in the mid-1980s.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Wikipedia - SRI International",
+"url": "https://en.wikipedia.org/wiki/SRI_International"
+},
+{
+"date": "2026-08-12",
+"name": "Wikipedia - Stargate Project (U.S. Army unit)",
+"url": "https://en.wikipedia.org/wiki/Stargate_Project_(U.S._Army_unit)"
+}
+],
+"tier": "B",
+"type": "research"
+},
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": "1995",
+"dateStart": "1991",
+"direction": "in",
+"edgeLabel": "SUN STREAK became STARGATE, terminated 1995",
+"id": "sun-streak",
+"l0": false,
+"label": "SUN STREAK",
+"note": "CIA compiled and released roughly 12,000 pages of the programme record in 1995 after the American Institutes for Research evaluation.",
+"sources": [
+{
+"date": "2020-12-16",
+"name": "The Stargate Collection - CIA Program on Remote Viewing",
+"url": "https://www.theblackvault.com/documentarchive/the-stargate-collection/"
+}
+],
+"tier": "C",
+"type": "programmatic"
+}
+],
+"coords": null,
+"dateEnd": "1995",
+"dateStart": "1970",
+"deg": 10,
+"denials": [],
+"desc": "STAR GATE is the umbrella name applied in 1991 to a chain of United States government programmes investigating and attempting to operationalise remote viewing, running from 1970 to 1995 across CIA, Army and DIA sponsorship. The CIA initiated SCANATE - 'scan by coordinate' - around 1970 in response to assessments that the Soviet Union was spending heavily on psychotronic research. In 1972 physicists Harold E. Puthoff and Russell Targ began CIA-sponsored work at SRI International's Artificial Intelligence Center in Menlo Park, coining the term 'remote viewing' and working with Ingo Swann, Pat Price, Joseph McMoneagle and Uri Geller. The military side began as GONDOLA WISH in 1977 under the Army Assistant Chief of Staff for Intelligence's Systems Exploitation Detachment, became GRILL FLAME under INSCOM in mid-1978 in Buildings 2560-2561 at Fort Meade, was redesignated CENTER LANE in 1983, moved to DIA's Scientific and Technical Intelligence Directorate as SUN STREAK in late 1985, and was consolidated as STAR GATE in 1991. Maj. Gen. Albert Stubblebine sponsored the Fort Meade effort; Lt. Frederick 'Skip' Atwater oversaw the unit until 1987; James Clapper, later Director of National Intelligence, led the project in the 1990s; Edwin C. May ran the Cognitive Sciences Laboratory as principal investigator. In 1995 CIA commissioned the American Institutes for Research to evaluate the programme; statistician Jessica Utts concluded the laboratory results showed statistically significant effects, psychologist Ray Hyman concluded the opposite - 'the overwhelming amount of data generated by the viewers is vague, general, and way off target' - and the official finding was that remote viewing information 'is vague and ambiguous, making it difficult, if not impossible, for the technique to yield information of sufficient quality and accuracy for actionable intelligence.' CIA terminated the roughly $20 million programme in 1995 and published the records online in January 2017 through the CREST archive; Edwin May's donated 1972-1995 materials are held at the Archives of the Impossible at Rice University. STAR GATE belongs on this board for four reasons and only four. It is a documented case of the United States funding two decades of research into a phenomenon it publicly disparaged. It shows the exact contractor structure a concealed programme uses - a university-adjacent institute holding the science, a compartmented military unit holding the operations, and an intelligence sponsor holding the money. It establishes the personnel bridge that runs through Puthoff from SRI to EarthTech to the AAWSAP Defense Intelligence Reference Documents to To The Stars Academy and the 2019 Army CRADA, and through Christopher 'Kit' Green from the CIA weird desk to NIDS-adjacent biomedical work. And it is the precedent for how such a programme ends: not with a public admission, but with a commissioned evaluation that produces an unusable-for-intelligence finding, followed by termination and, twenty-two years later, bulk declassification.",
+"domains": [
+"w2-places-events"
+],
+"dossier": {
+"claims": [
+{
+"source": "https://www.cia.gov/readingroom/document/cia-rdp96-00791r000100160001-0 (CIA-RDP96-00791R000100160001-0, approved for release 2004/09/09)",
+"text": "A SECRET CIA memorandum titled 'Star Gate - Program Status and Proposed New Direction' records that a Congressionally Directed Action transferred the STAR GATE program to CIA, that the Executive Director approved CIA's recommended approach in late January 1995, and that the approach was 'formally transmitted to Congress and briefed to Richard D'Amato of the SAC staff on 27 March 1995.'",
+"tier": 1
+},
+{
+"source": "https://www.cia.gov/readingroom/document/cia-rdp96-00791r000100160001-0",
+"text": "The same CIA memorandum states that CIA 'have been working closely with DIA and their support contractor to identify all relevant documents pertaining to Star Gate and have made plans to declassify all but the most sensitive aspects of the program' - meaning the scope of the eventual public release was decided before the outside evaluation was performed.",
+"tier": 1
+},
+{
+"source": "https://www.cia.gov/readingroom/document/cia-rdp96-00791r000100160001-0",
+"text": "The same CIA memorandum records that the National Research Council declined to perform the evaluation by letter dated 5 May 1995, and that CIA was then referred to Dr. David Goslin, President of the American Institutes for Research.",
+"tier": 1
+},
+{
+"source": "https://www.cia.gov/readingroom/document/cia-rdp96-00791r000100160001-0",
+"text": "The same CIA memorandum recommends terminating before the review is performed: 'I recommend we adopt this alternative plan and ask Congress to agree that the program should NOT be transferred to CIA,' noting that even if AIR proceeded 'there exists a very strong possibility that AIR will merely reach the same conclusion firmly held by the NRC.'",
+"tier": 1
+},
+{
+"source": "https://www.cia.gov/readingroom/document/cia-rdp96-00791r000100160001-0",
+"text": "The same CIA memorandum states that 'neither the DO nor the DI were at all interested in having this program reside in their directorates,' and that a decision on the operational personnel then at DIA was deferred pending the blue-ribbon panel assessment.",
+"tier": 1
+},
+{
+"source": "https://irp.fas.org/program/collect/air1995.pdf (linked from https://irp.fas.org/program/collect/stargate.htm)",
+"text": "The American Institutes for Research final report, 'An Evaluation of Remote Viewing: Research and Applications,' is dated 29 September 1995 and was released to the public on 28 November 1995; its final recommendation was to terminate the STAR GATE effort.",
+"tier": 1
+},
+{
+"source": "https://irp.fas.org/program/collect/stargate.htm",
+"text": "STAR GATE was the last in a chain of renamed programs: SCANATE (CIA-funded from 1970), GONDOLA WISH (Army ACSI Systems Exploitation Detachment, 1977), GRILL FLAME (Army INSCOM 'Detachment G,' buildings 2560 and 2561 at Fort Meade, mid-1978), INSCOM CENTER LANE Project (1983), SUN STREAK (DIA Scientific and Technical Intelligence Directorate, office code DT-S, late 1985), STAR GATE (1991).",
+"tier": 2
+},
+{
+"source": "https://irp.fas.org/program/collect/stargate.htm",
+"text": "In 1991 the program transitioned to Science Applications International Corporation (SAIC) and was changed from a Special Access Program to a LIMDIS (limited dissemination) program; Edwin May presided over 70 percent of the total contractor budget and 85 percent of the program's data collection.",
+"tier": 2
+},
+{
+"source": "https://irp.fas.org/program/collect/stargate.htm",
+"text": "Remote viewing research began in 1972 at Stanford Research Institute in Menlo Park, California, conducted by Russell Targ and Harold Puthoff, initially focused on a small number of individuals including Ingo Swann.",
+"tier": 2
+},
+{
+"source": "https://irp.fas.org/program/collect/stargate.htm",
+"text": "Over more than two decades roughly $20 million was spent on STAR GATE and related activities, with about $11 million budgeted from the mid-1980s to the early 1990s; over forty personnel served in the program at various times, including about twenty-three remote viewers.",
+"tier": 2
+},
+{
+"source": "https://irp.fas.org/program/collect/stargate.htm",
+"text": "The FY1995 Defense Appropriations bill directed that the program be transferred to CIA and that CIA conduct a retrospective review of it.",
+"tier": 2
+},
+{
+"source": "https://irp.fas.org/program/collect/stargate.htm",
+"text": "The program's political survival depended on two named legislators: Senator Claiborne Pell (D-RI) and Representative Charles Rose (D-NC).",
+"tier": 2
+},
+{
+"source": "https://irp.fas.org/program/collect/stargate.htm",
+"text": "The existence of the then-highly-classified program was publicly reported by columnist Jack Anderson in April 1984; a 1984 National Academy of Sciences / National Research Council evaluation performed for the Army Research Institute returned unfavorable results.",
+"tier": 2
+},
+{
+"source": "https://irp.fas.org/program/collect/stargate.htm",
+"text": "The AIR evaluation contained a positive assessment by statistician Jessica Utts finding a statistically significant laboratory effect, offset by a negative assessment by psychologist Ray Hyman; CIA's public conclusion was that there was no case in which ESP had provided data used to guide intelligence operations.",
+"tier": 2
+},
+{
+"source": "CIA electronic reading room, STAR GATE records (example record: https://www.cia.gov/readingroom/document/cia-rdp96-00791r000100160001-0); collection-level page count not verified against a CIA-published figure",
+"text": "Next research step: establish the exact volume and cut-off criteria of the STAR GATE material released into CIA's electronic reading room through the January 2017 CREST expansion, and identify what categories of record are absent from it, against the 1995 decision to withhold 'the most sensitive aspects of the program.'",
+"tier": 3
+}
+],
+"connections": [
+"Harold Puthoff and Russell Targ ran the SRI research leg under CIA and later DIA sponsorship; Puthoff is a recurring node in the modern UAP-contracting record (NIDS, AAWSAP-era work, To The Stars Academy). His exact TTSA officer title and dates should be confirmed against SEC filings for CIK 0001710274.",
+"SAIC as STAR GATE prime contractor from 1991 to 1995 places the program inside the same cleared-contractor ecosystem as later phenomenon-adjacent work; SAIC's successor entities are standing nodes for the funding thread.",
+"DIA's Scientific and Technical Intelligence Directorate (DT-S) hosted the program from 1985 to 1991; DIA is the same agency that later hosted AAWSAP, making DIA the most persistent institutional host across both threads.",
+"Richard D'Amato, Senate Appropriations Committee staff, is the named congressional staff recipient of the 27 March 1995 CIA briefing, a specific and findable oversight contact point.",
+"Army INSCOM at Fort Meade is the operational home; INSCOM connects to the Army-side custody question raised by the TTSA-Army CRADA (ttsa-army-crada) four decades later.",
+"The pattern of serial renaming and inter-agency transfer is the template the board applies to the alleged legacy recovery program; STAR GATE is the control case where the template is documented rather than inferred.",
+"American Institutes for Research and its president David Goslin are the named third-party validators used to close the program, the same 'independent review' device later used with the NASA 2023 UAP study panel and AARO's Historical Record Report."
+],
+"denialPosture": "CIA's public position at termination was that remote viewing had never produced data used to guide an intelligence operation and that the program was scientifically unsupported, a verdict delivered through a contracted outside evaluator rather than in CIA's own voice. The 1995 internal memorandum shows that position was arrived at before the evaluation was contracted, and that the declassification package was scoped in parallel by CIA and DIA to exclude 'the most sensitive aspects of the program.'",
+"narrative": "The origin story is threat-mirroring. Between 1969 and 1971, U.S. intelligence concluded the Soviet Union was investing seriously in what it called psychotronics, with estimates running to 60 million rubles per year by 1970 and over 300 million by 1975. Whether or not the Soviets had anything, the money itself was treated as evidence, and CIA opened a research line in 1970 under the name SCANATE. In 1972 the research moved to Stanford Research Institute in Menlo Park, where Russell Targ and Harold Puthoff ran it, initially around a small set of gifted individuals including the artist Ingo Swann. The client requirement, per the FAS program file, was a minimum accuracy of 65 percent.\n\nThe operational side grew separately out of the Army. GONDOLA WISH, a 1977 Army Assistant Chief of Staff for Intelligence effort under the Systems Exploitation Detachment, was chartered to evaluate potential adversary applications of remote viewing. It became a collection project in mid-1978 as GRILL FLAME, INSCOM 'Detachment G,' housed in buildings 2560 and 2561 at Fort Meade, Maryland. The SRI research was folded into GRILL FLAME in early 1979, and hundreds of experiments were run at SRI through 1986. Renamed the INSCOM CENTER LANE Project in 1983, the unit adopted a written methodology developed by Swann and Puthoff meant to make the capability trainable rather than innate. Its existence surfaced publicly when columnist Jack Anderson reported on it in April 1984. That same year the National Academy of Sciences' National Research Council evaluated remote viewing for the Army Research Institute and returned an unfavorable verdict. When Army funding ended in late 1985, the unit did not die; it was redesignated SUN STREAK and moved to DIA's Scientific and Technical Intelligence Directorate under office code DT-S. In 1991 the contract moved to Science Applications International Corporation and the program became STAR GATE, downgraded from a Special Access Program to a LIMDIS, limited dissemination, program. Edwin May presided over roughly 70 percent of the total contractor budget and 85 percent of data collection. Over two decades the effort consumed on the order of $20 million, with about $11 million spent from the mid-1980s to the early 1990s, and involved more than forty personnel including about twenty-three remote viewers.\n\nThe end is where the concealment mechanics are legible. The FY1995 Defense Appropriations bill directed transfer to CIA and directed CIA to conduct a retrospective review. What happened next is documented in a SECRET memorandum, 'Star Gate - Program Status and Proposed New Direction,' now in the CIA reading room as CIA-RDP96-00791R000100160001-0. The Executive Director approved CIA's approach in late January 1995; it was transmitted to Congress and briefed to Richard D'Amato of the Senate Appropriations Committee staff on 27 March 1995. CIA transferred funds to the Army Research Institute to make it executive agent for a National Research Council blue-ribbon review. In parallel, and this is the sentence that matters for the board, CIA was 'working closely with DIA and their support contractor to identify all relevant documents pertaining to Star Gate' and had 'made plans to declassify all but the most sensitive aspects of the program.' The sorting of what the public would eventually see was underway before the verdict was in.\n\nNRC declined the review by letter dated 5 May 1995, citing its own 1988 report and quoting its conclusion that the case for remote viewing was 'not just very weak, but virtually nonexistent.' NRC referred CIA to Dr. David Goslin, president of the American Institutes for Research. The memo's author then recommended skipping the review entirely: 'in view of the strong position taken by the NRC... I want to propose at this point that we strongly consider the option of going back to Congress with the recommendation not to accept the Star Gate program from DIA,' adding that even if AIR proceeded 'there exists a very strong possibility that AIR will merely reach the same conclusion firmly held by the NRC.' He also recorded that 'neither the DO nor the DI were at all interested in having this program reside in their directorates,' and deferred any decision about the operational personnel still at DIA. The recommendation was explicit: 'ask Congress to agree that the program should NOT be transferred to CIA.'\n\nAIR did the review anyway. Its final report is dated 29 September 1995 and was released publicly on 28 November 1995. It contained two irreconcilable assessments, statistician Jessica Utts finding a statistically significant laboratory effect and psychologist Ray Hyman finding none, and a single recommendation to terminate. CIA's public line was that there was no case in which ESP had provided data used to guide intelligence operations. The program had been sustained politically for years by Senator Claiborne Pell of Rhode Island and Representative Charles Rose of North Carolina; with the program dead, the constituency dissolved.\n\nWhat the board should take from STAR GATE is not whether remote viewing worked. It is the demonstrated administrative repertoire: serial renaming across host commands, movement between Army, DIA and CIA, SAP-to-LIMDIS reclassification, contractor intermediation, a pre-cooked termination decision, a curated declassification, and a public verdict framed in the language of science rather than of budget politics. Every one of those moves is available to any program that wants to disappear while remaining funded, and every one is documented here in the government's own paper.",
+"openQuestions": [
+"What material was withheld under the 1995 decision to declassify 'all but the most sensitive aspects of the program,' and under whose signature was the withholding line drawn?",
+"Which DIA support contractor performed the 1995 document identification and declassification sorting alongside CIA?",
+"Did any part of the operational capability survive termination under a different name or host, and where does the FY1996 funding line go?",
+"What did Richard D'Amato and the Senate Appropriations Committee actually receive in the 27 March 1995 briefing, and does a staff memorandum of that briefing exist?",
+"Were STAR GATE viewers ever tasked against UAP or recovered-material targets, and if so are those session records inside or outside the released CREST collection?",
+"What was the disposition of the operational personnel at DIA whose future the memo explicitly deferred pending the blue-ribbon panel?",
+"Who authored and who received the 1995 memorandum? The released copy carries a SG1I marking in place of names."
+],
+"roles": [
+"research",
+"concealment",
+"funding",
+"oversight",
+"disclosure"
+],
+"whatItIs": "STAR GATE was the final code name for a U.S. government psychic-intelligence effort that ran from roughly 1970 to 1995 under a rotating series of names and host agencies: SCANATE (CIA-funded, from 1970), GONDOLA WISH (Army ACSI, 1977), GRILL FLAME (Army INSCOM Detachment G at Fort Meade, 1978), INSCOM CENTER LANE (1983), SUN STREAK (DIA Scientific and Technical Intelligence Directorate, office code DT-S, 1985), and STAR GATE (DIA with SAIC as prime contractor, 1991). It combined an operational collection unit that tasked trained remote viewers against real intelligence targets with a separately maintained contract research program run out of Stanford Research Institute. It was terminated in 1995 after a Congressionally Directed Action moved it to CIA and CIA declined to keep it.",
+"whyImplicated": "STAR GATE is the board's cleanest declassified proof-of-concept for the exact institutional pattern the legacy program is alleged to follow: a real, funded, operational, compartmented effort into a phenomenon the government publicly treated as nonsense, sustained across two decades and at least four host organizations by serial renaming, moved between Army, DIA and CIA in a way that defeats continuity of oversight, and run through a cleared contractor (SRI, then SAIC) rather than in-house. The 1995 CIA program-status memorandum shows the disposal mechanics with unusual clarity: CIA and DIA had already made 'plans to declassify all but the most sensitive aspects of the program' before any evaluation was complete, and the memo's author recommended asking Congress to agree the program should NOT transfer to CIA before the contracted review had even begun. That is a decision to terminate reached in advance of the evidence, followed by a curated declassification, which means the archive the public got is the residue of a deliberate sorting operation rather than a data dump. The program also demonstrates that a phenomenon-adjacent effort could be carried in the black for twenty-five years while officials denied its existence, and that its closure could be framed publicly as a scientific verdict rather than a bureaucratic one. Finally, STAR GATE is a personnel bridge: the scientists, contractors and case officers it credentialed are the same names that reappear in the NIDS, AAWSAP and To The Stars-era record, giving the board a documented lineage from Cold War compartmented research to the 2017-2026 disclosure fight."
+},
+"entityInfo": null,
+"era": "1",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "stargate-program",
+"l0": true,
+"label": "STAR GATE and predecessor remote viewing programs, 1970-1995",
+"locLabel": null,
+"members": [
+{
+"cls": "person",
+"id": "harold-puthoff",
+"label": "Harold E. Puthoff",
+"tier": "A"
+},
+{
+"cls": "person",
+"id": "james-clapper",
+"label": "James R. Clapper Jr.",
+"tier": "B"
+},
+{
+"cls": "person",
+"id": "kit-green",
+"label": "Christopher C. 'Kit' Green",
+"tier": "A"
+},
+{
+"cls": "location",
+"id": "l-groom-lake",
+"label": "Groom Lake, Nevada",
+"tier": "B"
+},
+{
+"cls": "location",
+"id": "l-sri",
+"label": "SRI International, Menlo Park, California",
+"tier": "C"
+},
+{
+"cls": "institution",
+"id": "monroe-institute",
+"label": "The Monroe Institute",
+"tier": "C"
+},
+{
+"cls": "person",
+"id": "russell-targ",
+"label": "Russell Targ",
+"tier": "C"
+},
+{
+"cls": "program",
+"id": "sun-streak",
+"label": "SUN STREAK",
+"tier": "C"
+}
+],
+"short": "STAR GATE and predecessors",
+"sources": [
+{
+"date": "1984-04-04",
+"name": "CENTER LANE FY 86 - 90 GDIP Submission (U), 4 April 1984, CIA-RDP96-00788R001600450002-5",
+"url": "https://archive.org/download/cia-readingroom-document-cia-rdp96-00788r001600450002-5/cia-rdp96-00788r001600450002-5_djvu.txt"
+},
+{
+"date": "1978-11-24",
+"name": "INSCOM Involvement in Remote Viewing (DoD Project GRILL FLAME), talking paper, Nov 1978, CIA-RDP96-00788R001200410023-0",
+"url": "https://archive.org/download/cia-readingroom-document-cia-rdp96-00788r001200410023-0/cia-rdp96-00788r001200410023-0_djvu.txt"
+},
+{
+"date": "2025-03-02",
+"name": "American Alchemy with Jesse Michels, 'CIA Psychic Spy: Mars Used To Have Alien Life' (audio)",
+"url": "https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/TOE9049615871.mp3?updated=1751593011"
+},
+{
+"date": "2026-09-02",
+"name": "American Institutes for Research, 'An Evaluation of Remote Viewing: Research and Applications', 29 September 1995, CIA-RDP96-00791R000200180006-4, full text via the archive.org mirror of the CIA reading room",
+"url": "https://archive.org/download/cia-readingroom-document-cia-rdp96-00791r000200180006-4/cia-rdp96-00791r000200180006-4_djvu.txt"
+},
+{
+"date": "2026-08-12",
+"name": "Wikipedia - Stargate Project (U.S. Army unit)",
+"url": "https://en.wikipedia.org/wiki/Stargate_Project_(U.S._Army_unit)"
+},
+{
+"date": "2026-08-12",
+"name": "FAS - Star Gate documentation",
+"url": "https://irp.fas.org/program/collect/stargate.htm"
+},
+{
+"date": "2017-01-01",
+"name": "CIA FOIA Reading Room",
+"url": "https://www.cia.gov/readingroom/"
+}
+],
+"sub": "CIA/Army/DIA psychoenergetics effort; SCANATE, GONDOLA WISH, GRILL FLAME, CENTER LANE, SUN STREAK, STAR GATE",
+"tier": "A",
+"tierRationale": "Re-graded A on a global pass (rank 130 of 1027, score 55). 11 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A3/D2.",
+"timeline": [
+{
+"date": "1970-01-01",
+"id": "tl-1970-scanate",
+"label": "SCANATE begins",
+"precision": "year",
+"strand": "program",
+"text": "The CIA initiates 'scan by coordinate' in response to assessments of Soviet psychotronic spending. SRI research under Puthoff and Targ follows in 1972.",
+"tier": "B"
+},
+{
+"date": "1995-01-01",
+"id": "t-1995-stargate",
+"label": "STARGATE declassified and terminated",
+"precision": "year",
+"strand": "program",
+"text": "CIA releases roughly 12,000 pages of the remote-viewing programme record and the effort is closed - the one case where a compartmented programme in a ridiculed domain was fully documented after the fact.",
+"tier": "A"
+},
+{
+"date": "1995-01-01",
+"id": "tl-1995-stargate",
+"label": "STAR GATE is terminated",
+"precision": "year",
+"strand": "coverup",
+"text": "CIA's AIR evaluation finds remote viewing information 'vague and ambiguous' and unusable for actionable intelligence. The roughly $20 million programme ends; the records are published to CREST in January 2017.",
+"tier": "A"
+}
+]
+}

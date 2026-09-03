@@ -1,0 +1,93 @@
+{
+"A": 0,
+"C": 0,
+"D": 3,
+"affiliations": [
+"The Debrief (co-founder, Executive Director)"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "2023-06-05",
+"event": "The Debrief publishes the Kean/Blumenthal David Grusch story.",
+"precision": "day"
+}
+],
+"claims": [
+{
+"source": "The Debrief, About page, retrieved 12 August 2026",
+"text": "Tim McMillan is a co-founder and Executive Director of The Debrief; Micah Hanks is co-founder and Editor-in-Chief; MJ Banias is co-founder and Content Director.",
+"tier": 1
+}
+],
+"cls": "person",
+"cluster": "media",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "2026",
+"dateStart": "2020",
+"direction": "out",
+"edgeLabel": "Co-founder and Executive Director",
+"id": "the-debrief",
+"l0": false,
+"label": "The Debrief",
+"note": "Named on The Debrief's About page as Co-Founder and Executive Director.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "The Debrief - About",
+"url": "https://thedebrief.org/about/"
+}
+],
+"tier": "C",
+"type": "institutional"
+}
+],
+"date": "2023-06-05",
+"dateEnd": null,
+"dateStart": "2023-06-05",
+"deg": 1,
+"denials": [],
+"domains": [
+"media-structure"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "tim-mcmillan",
+"instId": "the-debrief",
+"l0": false,
+"label": "Tim McMillan",
+"loc": "United States",
+"locId": null,
+"members": null,
+"narrative": "Tim McMillan co-founded The Debrief and serves as its Executive Director, and in doing so built the outlet that has done more sustained, document-driven reporting on the legacy program than any legacy newsroom. The Debrief's significance is structural rather than personal: when the New York Times would not run the David Grusch story in June 2023, The Debrief did. A publication founded by McMillan with Micah Hanks and MJ Banias absorbed a story the paper of record declined, and that transfer is one of the cleanest available illustrations of how the institutional press has handled this subject. McMillan, a former law enforcement officer turned investigative reporter, has reported extensively on the Pentagon's UAP effort and on the personnel moving between the task force, AARO and the contractor base.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Tim McMillan",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "The Debrief - About",
+"url": "https://thedebrief.org/about/"
+}
+],
+"status": "active",
+"sub": "Co-founder and Executive Director, The Debrief",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 977 of 1027, score 10). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.",
+"timeline": [],
+"unexplainedResidual": null,
+"unverified": [
+"McMillan's prior law-enforcement career was not re-verified against a primary record in this pass."
+]
+}

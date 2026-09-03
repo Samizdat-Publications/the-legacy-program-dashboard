@@ -1,0 +1,151 @@
+{
+"A": 0,
+"C": 0,
+"D": 2,
+"affiliations": [
+"Variety magazine, columnist",
+"The New York Sun (early career)"
+],
+"age": 72,
+"band": null,
+"chronology": [
+{
+"date": "1949",
+"event": "Publishes two Variety columns describing a recovered saucer and dead occupants",
+"precision": "year"
+},
+{
+"date": "1950",
+"event": "'Behind the Flying Saucers' published by Henry Holt and Company; becomes a bestseller",
+"precision": "year"
+},
+{
+"date": "1952",
+"event": "J. P. Cahn's exposure published in True magazine",
+"precision": "year"
+},
+{
+"date": "1953",
+"event": "Newton and Gebauer convicted of fraud",
+"precision": "year"
+},
+{
+"date": "1956",
+"event": "Cahn's follow-up in True identifies further victims of Newton and Gebauer",
+"precision": "year"
+},
+{
+"date": "1963",
+"event": "'In Armour Bright' repeats the crashed-saucer material",
+"precision": "year"
+},
+{
+"date": "1964-06-23",
+"event": "Dies",
+"precision": "day"
+}
+],
+"claims": [
+{
+"source": "Library catalogue record — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"text": "'Behind the Flying Saucers' was published by Henry Holt and Company, New York, in 1950 (OCLC 1467735).",
+"tier": 2
+},
+{
+"source": "Contemporary court record as reported by J. P. Cahn, True magazine, 1952 and 1956 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"text": "Silas M. Newton and Leo A. Gebauer were convicted of fraud in 1953 following charges pressed by Herman Flader over 'doodlebug' devices they claimed were based on recovered alien technology.",
+"tier": 2
+},
+{
+"source": "Scully, 'Behind the Flying Saucers' (1950)",
+"text": "Scully's account placed the Aztec crash in March 1948 at Hart Canyon, twelve miles northeast of Aztec, New Mexico, with a 99-foot craft and sixteen humanoid bodies.",
+"tier": 2
+}
+],
+"cls": "person",
+"cluster": "media",
+"conflicts": [
+"From the 1970s onward, ufologists including Leonard Stringfield, William Steinman and later Scott and Suzanne Ramsey have argued the Aztec event was real and that Newton and Gebauer's fraud conviction is a separate matter from the underlying story. No documentary support for the crash has been produced."
+],
+"connections": [
+{
+"claimTier": 2,
+"cls": "document",
+"dateEnd": "1950",
+"dateStart": "1950",
+"direction": "out",
+"edgeLabel": "Wrote the first crashed-saucer book",
+"id": "behind-the-flying-saucers",
+"l0": false,
+"label": "Behind the Flying Saucers (Scully, 1950)",
+"note": "Published by Henry Holt and Company, New York, 1950, out of two 1949 Variety columns.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Frank Scully - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/Frank_Scully"
+}
+],
+"tier": "C",
+"type": "research"
+}
+],
+"date": "1964-06-23",
+"dateEnd": null,
+"dateStart": "1964-06-23",
+"deg": 1,
+"denials": [],
+"domains": [
+"w2-retrieval-literature"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "frank-scully",
+"instId": null,
+"l0": false,
+"label": "Frank Scully",
+"loc": "Burbank, CA",
+"locId": "l-aztec",
+"members": null,
+"narrative": "Francis Joseph Xavier Scully (28 April 1892 - 23 June 1964), a Variety columnist and humorist, wrote the first crashed-saucer book. Two 1949 Variety columns and then 'Behind the Flying Saucers' (Henry Holt, 1950) told readers that in March 1948 a 99-foot disc containing sixteen small humanoid bodies had come down in Hart Canyon twelve miles northeast of Aztec, New Mexico, had been taken by the military for secret research, ran on magnetic principles, came from Venus, and had every dimension divisible by nine. Scully's named sources were Silas M. Newton and a scientist he described as having 'more degrees than a thermometer' - later identified as Leo A. Gebauer. The book was a bestseller and it set the template: crash, bodies, immediate military cordon, exotic material, total official silence. San Francisco Chronicle reporter J. P. Cahn published exposures in True magazine in 1952 and 1956 showing Newton and Gebauer were confidence men selling 'doodlebug' oil-finding devices they claimed were built on recovered alien technology; a metal sample they supplied Cahn was ordinary aluminium; and in 1953 both were convicted of fraud after millionaire Herman Flader pressed charges. Scully is on this board as the origin of the crash-retrieval genre and as the reason the genre carried a fraud provenance from its first page - a provenance that Leonard Stringfield, Ryan Wood and the Aztec revivalists have each had to argue around rather than through.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Frank Scully",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Frank Scully - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/Frank_Scully"
+},
+{
+"date": "2026-08-12",
+"name": "Aztec crashed saucer hoax - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/Aztec,_New_Mexico_UFO_incident"
+}
+],
+"status": "dead",
+"sub": "Variety columnist; author, 'Behind the Flying Saucers' (1950)",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 959 of 1027, score 11). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D2.",
+"timeline": [
+{
+"date": "1949",
+"id": "tl-1949-scully",
+"label": "Scully's Variety columns",
+"precision": "year",
+"strand": "coverup",
+"text": "Frank Scully publishes two Variety columns describing a recovered saucer and dead occupants, sourced to Silas M. Newton and Leo A. Gebauer.",
+"tier": "B"
+}
+],
+"unexplainedResidual": null,
+"unverified": [
+"Whether Scully knew his sources were confidence men."
+]
+}

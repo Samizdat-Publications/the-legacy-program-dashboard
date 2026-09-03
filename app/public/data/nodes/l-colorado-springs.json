@@ -1,0 +1,96 @@
+{
+"A": 2,
+"C": 1,
+"D": 1,
+"band": null,
+"claims": [
+{
+"source": "NORAD/USNORTHCOM public affairs",
+"text": "NORAD and US Northern Command are headquartered at Peterson Space Force Base, Colorado Springs; Cheyenne Mountain Space Force Station is the alternate command centre.",
+"tier": 1
+},
+{
+"source": "war.gov UAP release portal, PURSUE Release 05 index",
+"text": "PURSUE Release 05 on 7 August 2026 included FBI-UAP-D031, an FBI record concerning Colorado Springs.",
+"tier": 1
+},
+{
+"source": "Jason Colavito, as cited in the Wikipedia Schriever wargame article",
+"text": "A self-identified whistleblower said in 2025 that he located Immaculate Constellation material in a folder labelled '2018 Schriever Wargame'; Jason Colavito assessed that the claimant had mistaken fictitious wargame documents for secret UFO revelations.",
+"tier": 2
+}
+],
+"cls": "location",
+"cluster": "other",
+"connections": [
+{
+"claimTier": 2,
+"cls": "event",
+"dateEnd": null,
+"dateStart": "2025",
+"direction": "in",
+"edgeLabel": "The only provenance story ever attached to the report points at Schriever",
+"id": "immaculate-constellation",
+"l0": true,
+"label": "Immaculate Constellation disclosure, October-November 2024",
+"note": "A self-identified whistleblower said in 2025 he located the material in a folder labelled '2018 Schriever Wargame'; Jason Colavito assessed the claimant had mistaken wargame documents for UFO revelations. Schriever Space Force Base is at Colorado Springs.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Wikipedia - Immaculate Constellation (redirect to Schriever wargame)",
+"url": "https://en.wikipedia.org/wiki/Immaculate_Constellation"
+}
+],
+"tier": "A",
+"type": "geographic"
+}
+],
+"coords": [
+38.8339,
+-104.8214
+],
+"dateEnd": null,
+"dateStart": "1958",
+"deg": 1,
+"denials": [],
+"desc": "Colorado Springs is the command node of American aerospace warning. Peterson Space Force Base hosts the headquarters of the North American Aerospace Defense Command and United States Northern Command; Cheyenne Mountain Space Force Station, the hardened complex inside the granite of Cheyenne Mountain, remains the alternate command centre and the integration point for missile warning and space surveillance data; Schriever Space Force Base to the east operates satellite control. Any object that enters North American airspace and is detected by national sensors is, by design, a problem that resolves to this city. That makes Colorado Springs the correct address for the oversight question this board keeps returning to: NORAD's own commander, Gen. Gregory M. Guillot, has acknowledged domain awareness gaps at low altitude, and the institutional history of NORAD's UAP handling - what it detects, what it declines to correlate, what it passes to AARO - has never been the subject of a public accounting. Colorado Springs entered the release record directly on 7 August 2026, when the fifth PURSUE tranche included FBI-UAP-D031, an FBI file concerning Colorado Springs. The city is also where the 2018 Schriever Wargame was run, the exercise series later invoked by a self-identified whistleblower as the folder in which Immaculate Constellation material was found - a claim the board records because it is the only specific provenance allegation ever attached to that document, and because Schriever is here.",
+"domains": [
+"_rs-archive-mirror",
+"w2-places-events"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "l-colorado-springs",
+"l0": false,
+"label": "Colorado Springs, Colorado",
+"locLabel": "Colorado Springs, Colorado, USA",
+"members": null,
+"short": "Colorado Springs, Colorado",
+"sources": [
+{
+"date": "2026-08-10",
+"name": "Archived: war.gov UAP release portal (Wayback 2026-08-10)",
+"url": "https://web.archive.org/web/20260810202017/https://www.war.gov/UFO/"
+},
+{
+"date": "2026-08-07",
+"name": "war.gov UAP release portal",
+"url": "https://www.war.gov/UFO/"
+},
+{
+"date": "2026-08-12",
+"name": "Wikipedia - Immaculate Constellation (redirect to Schriever wargame)",
+"url": "https://en.wikipedia.org/wiki/Immaculate_Constellation"
+}
+],
+"sub": "El Paso County; Peterson SFB, Cheyenne Mountain SFS, Schriever SFB, NORAD/USNORTHCOM, US Space Command",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 729 of 1027, score 21). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D1.",
+"timeline": []
+}

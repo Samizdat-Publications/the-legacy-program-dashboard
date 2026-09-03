@@ -1,0 +1,635 @@
+{
+"A": 1,
+"C": 1,
+"D": 3,
+"band": "disclosure",
+"claims": [
+{
+"source": "New York Times, 16 December 2017 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"text": "Bylined Helene Cooper, Ralph Blumenthal and Leslie Kean and published 16 December 2017; reported AATIP's roughly $22 million funding from late 2008 through 2011 to Bigelow Aerospace and Harry Reid's origination of the program in 2007.",
+"tier": 2
+},
+{
+"source": "New York Times, 16 December 2017 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"text": "Reported that Elizondo ran AATIP from the Pentagon's fifth floor, resigned on 4 October in a letter to Defense Secretary Jim Mattis, and had joined To The Stars Academy with Puthoff and Mellon.",
+"tier": 2
+},
+{
+"source": "New York Times, 16 December 2017",
+"text": "Quoted Robert Bigelow saying he had modified Las Vegas buildings for storing recovered metal alloys, and 'Internationally, we are the most backward country on this.'",
+"tier": 2
+},
+{
+"source": "The New York Times, 16 December 2017 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"text": "The New York Times published 'Glowing Auras and Black Money: The Pentagon's Mysterious U.F.O. Program' on 16 December 2017 by Helene Cooper, Ralph Blumenthal and Leslie Kean, revealing AATIP, a $22 million appropriation over 2007-2012 arranged by Sen. Harry Reid, and Navy infrared videos.",
+"tier": 2
+},
+{
+"source": "Bryan Bender, Politico, 16 December 2017 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"text": "Pentagon spokeswoman Dana White confirmed to Politico that Luis Elizondo directed AATIP.",
+"tier": 2
+},
+{
+"source": "Michael Shellenberger, written testimony to House Oversight, 13 November 2024, reporting his whistleblower source",
+"text": "The alleged Immaculate Constellation programme was created by the Department of Defense in 2017 in response to the New York Times publication on AATIP.",
+"tier": 2
+},
+{
+"source": "Inference from the post-2017 chronology",
+"text": "The story changed the subject's institutional status without adding physical evidence; the Navy designation, DoD release, UAP Task Force, ODNI assessment, AARO and the three House hearings all follow it in sequence. Reasoning: chronological review of official actions after 16 December 2017.",
+"tier": 3
+}
+],
+"cls": "event",
+"cluster": "media",
+"connections": [
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": "2017",
+"dateStart": "2017",
+"direction": "out",
+"edgeLabel": "Broke the program's existence, funding and Reid origin",
+"id": "aatip",
+"l0": true,
+"label": "Advanced Aerospace Threat Identification Program (AATIP / AAITP)",
+"note": "Cooper, Blumenthal and Kean disclosed the programme, the appropriation arranged by Sen. Harry Reid at Robert Bigelow's urging, and Elizondo's resignation.",
+"sources": [
+{
+"date": "2017-12-16",
+"name": "New York Times (NICAP copy)",
+"url": "https://www.nicap.org/reports2/2004_20171216_NYTArt_1.pdf"
+},
+{
+"date": "2017-12-16",
+"name": "The New York Times - Glowing Auras and Black Money",
+"url": "https://www.nytimes.com/2017/12/16/us/politics/pentagon-program-ufo-harry-reid.html"
+}
+],
+"tier": "A",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": "2017",
+"dateStart": "2017",
+"direction": "in",
+"edgeLabel": "the program the New York Times revealed",
+"id": "aawsap",
+"l0": true,
+"label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)",
+"note": "The 16 December 2017 story named the program, the $22M, Reid and Bigelow, and forced DIA to write the Senate Armed Services Committee three weeks later.",
+"sources": [
+{
+"date": "2018-01-09",
+"name": "DIA letter to SASC",
+"url": "https://documents.theblackvault.com/documents/dia/dia-aatip-reports.pdf"
+}
+],
+"tier": "A",
+"type": "investigative"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2017",
+"dateStart": "2017",
+"direction": "in",
+"edgeLabel": "Supplied the videos published with the story",
+"id": "christopher-mellon",
+"l0": false,
+"label": "Christopher K. Mellon",
+"note": "Mellon says he provided the files to the Times; the Times separately stated the Department of Defense was its on-the-record source for them.",
+"sources": [
+{
+"date": "2020-10-20",
+"name": "Vice",
+"url": "https://www.vice.com/en/article/this-guy-says-he-was-the-source-of-the-pentagons-ufo-videos/"
+}
+],
+"tier": "A",
+"type": "custody"
+},
+{
+"claimTier": 1,
+"cls": "domain",
+"dateEnd": null,
+"dateStart": "2017-12-16",
+"direction": "out",
+"edgeLabel": "the baseline against which the substrate shift is measured",
+"id": "d-media",
+"l0": false,
+"label": "Independent media as the disclosure substrate",
+"note": "The 16 December 2017 story is the last time a US paper of record originated a legacy-programme disclosure. Every subsequent major disclosure - Grusch in 2023, Immaculate Constellation in 2024, the structural reconstruction in 2026 - went somewhere else first. This node is what makes the domain's central claim measurable rather than rhetorical.",
+"sources": [
+{
+"date": "2017-12-16",
+"name": "New York Times, 'Glowing Auras and Black Money: The Pentagon's Mysterious U.F.O. Program'",
+"url": "https://www.nytimes.com/2017/12/16/us/politics/pentagon-program-ufo-harry-reid.html"
+},
+{
+"date": "2017-12-16",
+"name": "New York Times, 'Glowing Auras and Black Money' (NICAP archival copy)",
+"url": "https://www.nicap.org/reports2/2004_20171216_NYTArt_1.pdf"
+}
+],
+"tier": "C",
+"type": "investigative"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2023",
+"dateStart": "2023",
+"direction": "out",
+"edgeLabel": "The New York Times did not publish the 2023 Grusch story",
+"id": "david-grusch",
+"l0": false,
+"label": "David Charles Grusch",
+"note": "The same two authors who wrote the paper's 2017 AATIP revelation took the 2023 crash-retrieval story elsewhere. Recorded as a denial-type edge because the decision not to publish is itself an act by an institution, and one that shaped what the public record looks like.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "The Debrief - About",
+"url": "https://thedebrief.org/about/"
+},
+{
+"date": "2026-08-12",
+"name": "Wikipedia - Leslie Kean",
+"url": "https://en.wikipedia.org/wiki/Leslie_Kean"
+}
+],
+"tier": "A",
+"type": "denial"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "Published by the New York Times, reopening the subject",
+"id": "flir1-video",
+"l0": false,
+"label": "FLIR1 (Nimitz ATFLIR video, 14 Nov 2004)",
+"note": "The DoD's own 2020 release statement acknowledges the videos circulated publicly after unauthorized disclosures in 2007 and 2017.",
+"sources": [
+{
+"date": "2020-04-27",
+"name": "DoD statement releasing the three Navy videos",
+"url": "https://www.war.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/"
+}
+],
+"tier": "B",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "2012",
+"dateStart": "2007",
+"direction": "out",
+"edgeLabel": "Identified Reid as the senator who initiated and funded AATIP",
+"id": "harry-reid",
+"l0": false,
+"label": "Harry M. Reid",
+"note": "Reid told the Times 'I'm not embarrassed or ashamed or sorry I got this thing going' and called the appropriation 'black money'.",
+"sources": [
+{
+"date": "2017-12-16",
+"name": "New York Times (NICAP copy)",
+"url": "https://www.nicap.org/reports2/2004_20171216_NYTArt_1.pdf"
+}
+],
+"tier": "A",
+"type": "funding"
+},
+{
+"claimTier": 2,
+"cls": "event",
+"dateEnd": "2017",
+"dateStart": "2017",
+"direction": "out",
+"edgeLabel": "The alleged programme is said to have been created in response to this story",
+"id": "immaculate-constellation",
+"l0": true,
+"label": "Immaculate Constellation disclosure, October-November 2024",
+"note": "Shellenberger's whistleblower alleges DoD created Immaculate Constellation in 2017 after the New York Times published on AATIP. The claim is attributed, not documented.",
+"sources": [
+{
+"date": "2024-11-13",
+"name": "Michael Shellenberger written testimony (PDF)",
+"url": "https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Shellenberger.pdf"
+}
+],
+"tier": "A",
+"type": "programmatic"
+},
+{
+"claimTier": 3,
+"cls": "location",
+"dateEnd": "2017-12-16",
+"dateStart": "2017-12-16",
+"direction": "out",
+"edgeLabel": "The decisive act of the modern disclosure era was a New York editorial decision",
+"id": "l-nyc",
+"l0": false,
+"label": "New York City",
+"note": "The story added institutional standing rather than new physical evidence; every subsequent official step follows it in sequence. Reasoning: chronological review of post-2017 official actions.",
+"sources": [
+{
+"date": "2017-12-16",
+"name": "The New York Times - Glowing Auras and Black Money",
+"url": "https://www.nytimes.com/2017/12/16/us/politics/pentagon-program-ufo-harry-reid.html"
+}
+],
+"tier": "C",
+"type": "geographic"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "2017",
+"dateStart": "2017",
+"direction": "out",
+"edgeLabel": "Co-byline with Helene Cooper and Ralph Blumenthal",
+"id": "leslie-kean",
+"l0": false,
+"label": "Leslie Kean",
+"note": "Kean and Blumenthal had cultivated the sources; Cooper supplied the Pentagon beat. The trio's byline is what moved the story from fringe to record.",
+"sources": [
+{
+"date": "2017-12-16",
+"name": "New York Times (NICAP copy)",
+"url": "https://www.nicap.org/reports2/2004_20171216_NYTArt_1.pdf"
+}
+],
+"tier": "B",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "2017",
+"dateStart": "2017",
+"direction": "out",
+"edgeLabel": "Named him as the official who ran AATIP",
+"id": "luis-elizondo",
+"l0": false,
+"label": "Luis D. Elizondo",
+"note": "The article identified him, quoted his resignation letter and reported his move to TTSA — the act that made him the Department's problem.",
+"sources": [
+{
+"date": "2017-12-16",
+"name": "New York Times (NICAP copy)",
+"url": "https://www.nicap.org/reports2/2004_20171216_NYTArt_1.pdf"
+}
+],
+"tier": "A",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "2017-12-16",
+"dateStart": "2017-12-16",
+"direction": "in",
+"edgeLabel": "Elizondo's resignation and the videos anchored the story",
+"id": "luis-elizondo",
+"l0": false,
+"label": "Luis D. Elizondo",
+"note": "Pentagon spokeswoman Dana White confirmed to Politico that Elizondo had directed AATIP.",
+"sources": [
+{
+"date": "2017-12-16",
+"name": "The New York Times - Glowing Auras and Black Money",
+"url": "https://www.nytimes.com/2017/12/16/us/politics/pentagon-program-ufo-harry-reid.html"
+}
+],
+"tier": "A",
+"type": "witness-chain"
+},
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": "2017-12-16",
+"dateStart": "2017-12-16",
+"direction": "in",
+"edgeLabel": "The Nimitz footage was the visual centrepiece of the 2017 disclosure",
+"id": "nimitz-2004",
+"l0": true,
+"label": "USS Nimitz Carrier Strike Group Encounters, 10-16 November 2004",
+"note": "The New York Times published the November 2004 footage alongside the AATIP revelation, converting a shelved incident into a national accountability story.",
+"sources": [
+{
+"date": "2017-12-16",
+"name": "The New York Times - Glowing Auras and Black Money",
+"url": "https://www.nytimes.com/2017/12/16/us/politics/pentagon-program-ufo-harry-reid.html"
+}
+],
+"tier": "A",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "2017",
+"dateStart": "2017",
+"direction": "out",
+"edgeLabel": "Co-byline, 16 December 2017",
+"id": "ralph-blumenthal",
+"l0": false,
+"label": "Ralph Blumenthal",
+"note": "Blumenthal shares the byline that broke AATIP and published two of the three videos.",
+"sources": [
+{
+"date": "2017-12-16",
+"name": "New York Times (NICAP copy)",
+"url": "https://www.nicap.org/reports2/2004_20171216_NYTArt_1.pdf"
+}
+],
+"tier": "C",
+"type": "investigative"
+},
+{
+"claimTier": 3,
+"cls": "institution",
+"dateEnd": "2023",
+"dateStart": "2017",
+"direction": "in",
+"edgeLabel": "Successor venue to the 2017 New York Times story",
+"id": "the-debrief",
+"l0": false,
+"label": "The Debrief",
+"note": "The 2017 NYT article and the 2023 Debrief article share two of three authors and a continuous line of argument; the change of venue between them is a data point about institutional appetite, not about the reporting.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "The Debrief - About",
+"url": "https://thedebrief.org/about/"
+}
+],
+"tier": "C",
+"type": "temporal"
+}
+],
+"coords": null,
+"dateEnd": "2017",
+"dateStart": "2017",
+"deg": 14,
+"denials": [
+{
+"by": {
+"id": "nyt-2017-12-16",
+"label": "New York Times, 'Glowing Auras and Black Money: The Pentagon's Mysterious U.F.O. Program'"
+},
+"claimTier": 2,
+"denialKind": "directed",
+"label": "The New York Times did not publish the 2023 Grusch story",
+"note": "The same two authors who wrote the paper's 2017 AATIP revelation took the 2023 crash-retrieval story elsewhere. Recorded as a denial-type edge because the decision not to publish is itself an act by an institution, and one that shaped what the public record looks like.",
+"of": {
+"id": "david-grusch",
+"label": "David Charles Grusch"
+},
+"sources": [
+{
+"date": "2026-08-12",
+"name": "The Debrief - About",
+"url": "https://thedebrief.org/about/"
+},
+{
+"date": "2026-08-12",
+"name": "Wikipedia - Leslie Kean",
+"url": "https://en.wikipedia.org/wiki/Leslie_Kean"
+}
+]
+}
+],
+"desc": "On 16 December 2017 The New York Times published 'Glowing Auras and Black Money: The Pentagon's Mysterious U.F.O. Program' by Helene Cooper, Ralph Blumenthal and Leslie Kean, together with a companion piece by Bryan Bender in Politico. The story disclosed the Advanced Aerospace Threat Identification Program; a roughly $22 million appropriation over five years from 2007 to 2012 arranged by Senate Majority Leader Harry Reid at the urging of Nevada businessman Robert Bigelow, most of which went to Bigelow's company; Luis Elizondo's role and his resignation letter protesting excessive secrecy and internal opposition; and two Navy infrared targeting-pod videos, including the November 2004 Nimitz footage. Pentagon spokeswoman Dana White confirmed to Politico that Elizondo had directed AATIP; officials confirmed the programme's existence while disputing its significance, and an anonymous former congressional staffer said 'after all of that there was really nothing there that we could find.' The Times also carried scepticism from James Oberg and Sara Seager. The board records this as the pivotal event of the modern era, and records precisely why: the story added no new physical evidence about any object. What it added was institutional standing. Every subsequent official act runs downstream of it - the Navy's September 2019 statement designating the objects in the videos as unidentified aerial phenomena, the Department's outright release of the three videos on 27 April 2020, the establishment of the UAP Task Force in August 2020, the ODNI preliminary assessment of 25 June 2021, AOIMSG, AARO, and the three House hearings. It is also the date the alleged Immaculate Constellation programme is said to have been created in response, according to Shellenberger's whistleblower: the claim is that the Department's answer to the 2017 exposure was not more transparency but a new consolidating compartment. That claim is unverified. The causal chain from 16 December 2017 to everything after it is not.",
+"domains": [
+"elizondo-ttsa",
+"w2-places-events"
+],
+"dossier": {
+"claims": [
+{
+"source": "https://www.nytimes.com/2017/12/16/us/politics/pentagon-program-ufo-harry-reid.html",
+"text": "'Glowing Auras and \"Black Money\": The Pentagon's Mysterious U.F.O. Program' was published by The New York Times on 16 December 2017 and written by Helene Cooper, Ralph Blumenthal and Leslie Kean.",
+"tier": 1
+},
+{
+"source": "https://paradigmresearchgroup.org/2017/12/16/glowing-auras-black-money-pentagons-mysterious-u-f-o-program/",
+"text": "The article opens: 'In the $600 billion annual Defense Department budgets, the $22 million spent on the Advanced Aerospace Threat Identification Program was almost impossible to find. Which was how the Pentagon wanted it.'",
+"tier": 1
+},
+{
+"source": "https://paradigmresearchgroup.org/2017/12/16/glowing-auras-black-money-pentagons-mysterious-u-f-o-program/",
+"text": "The article states the program 'was run by a military intelligence official, Luis Elizondo, on the fifth floor of the Pentagon's C Ring, deep within the building's maze.'",
+"tier": 1
+},
+{
+"source": "https://paradigmresearchgroup.org/2017/12/16/glowing-auras-black-money-pentagons-mysterious-u-f-o-program/",
+"text": "The article states: 'The Defense Department has never before acknowledged the existence of the program, which it says it shut down in 2012. But its backers say that, while the Pentagon ended funding for the effort at that time, the program remains in existence.'",
+"tier": 1
+},
+{
+"source": "https://paradigmresearchgroup.org/2017/12/16/glowing-auras-black-money-pentagons-mysterious-u-f-o-program/",
+"text": "The article states: 'For the past five years, they say, officials with the program have continued to investigate episodes brought to them by service members, while also carrying out their other Defense Department duties.'",
+"tier": 1
+},
+{
+"source": "https://paradigmresearchgroup.org/2017/12/16/glowing-auras-black-money-pentagons-mysterious-u-f-o-program/",
+"text": "The article's stated evidentiary basis is 'Defense Department officials, interviews with program participants and records obtained by The New York Times'; those records have never been published in full.",
+"tier": 1
+},
+{
+"source": "https://fas.org/publication/aatip-list/",
+"text": "The Federation of American Scientists, writing in January 2019 on the DIA's FOIA release of 38 funded research titles, corroborated that 'from 2007 to 2012, the DIA spent $22 million on the activity, formally known as the Advanced Aerospace Threat Identification Program' and that it was 'apparently initiated at the behest of then-Senate Majority Leader Harry Reid, with most of the funding directed to a Nevada constituent of his,' citing this article by name.",
+"tier": 2
+},
+{
+"source": "https://thedebrief.org/defense-intelligence-agency-paid-22-million-to-chase-ufos-and-werewolves/",
+"text": "The Debrief's January 2021 investigation into BAASS anchors the $22 million DIA-to-Bigelow figure directly to this New York Times article.",
+"tier": 2
+},
+{
+"source": "https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Shellenberger.pdf",
+"text": "Michael Shellenberger testified to House Oversight on 13 November 2024 that a whistleblower alleges DoD created the Unacknowledged Special Access Program IMMACULATE CONSTELLATION in 2017 'after the New York Times published an article describing an informal Pentagon UAP program called Advanced Aerospace Threat Identification Program, or AATIP.'",
+"tier": 1
+},
+{
+"source": "https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Shellenberger.pdf",
+"text": "DoD spokesperson Sue Gough responded to the Immaculate Constellation reporting with: 'The DOD has no record, present or historical, of any type of SAP called \"IMMACULATE CONSTELLATION.\"'",
+"tier": 1
+},
+{
+"source": "https://www.lesliekean.com/2017/12/16/new-york-times-glowing-auras-and-black-money-the-pentagons-mysterious-u-f-o-program-by-helene-cooper-ralph-blumenthal-and-leslie-kean/",
+"text": "Co-author Leslie Kean maintains a dated record of the article's publication on her own website under 16 December 2017.",
+"tier": 2
+},
+{
+"source": "https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Shellenberger.pdf",
+"text": "Shellenberger's testimony sets out a Pentagon program timeline in which AAWSAP ran 2009-2017 with reports ending in 2010 but running through 2012 'according to the DOD,' the UAP Task Force ran 2020-2022, and AARO began in 2022 by order of Congress — a chronology that conflicts with the 2007-2012 AATIP dating in the NYT article and in the FAS account.",
+"tier": 2
+},
+{
+"source": "https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Elizondo.pdf",
+"text": "Luis Elizondo, the official the article identified as running the program, testified to Congress on 13 November 2024 that in his last position he 'managed a Special Access Program on behalf of the White House and the National Security Council' and that 'the U.S. is in possession of UAP technologies.'",
+"tier": 1
+},
+{
+"source": "https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Gold.pdf",
+"text": "Michael Gold testified in November 2024 that Lt. Commander Alex Dietrich's USS Nimitz encounter might have been 'lost to history' but for AAWSAP, tying the program the article exposed to the 2004 Nimitz case whose video the article helped make public.",
+"tier": 1
+}
+],
+"connections": [
+"Luis Elizondo is the named program manager here and a sworn witness before House Oversight seven years later; the article is his standing credential.",
+"Harry Reid appears as the program's political originator, connecting the article to the DIA solicitation, to BAASS, and to Nevada contracting.",
+"The 38 Defense Intelligence Reference Documents released by DIA under FOIA in January 2019 are the article's documentary aftershock, and FAS explicitly links the two.",
+"The article is the alleged causal trigger for IMMACULATE CONSTELLATION in 2017 per the whistleblower report entered into the record at the 13 November 2024 hearing.",
+"It is the origin point for the sensor-data framing later adopted by ODNI's 2021 assessment, which describes UAP registering across radar, infrared, electro-optical and weapon seekers.",
+"Co-author Leslie Kean later co-reported the David Grusch allegations, making her a through-line from 2017 disclosure to 2023 whistleblower testimony.",
+"The unpublished 'records obtained by The New York Times' are a discrete, identifiable body of documents that no FOIA has surfaced and that would now fall within the scope of the NARA UAP Records Collection if they originated as government records."
+],
+"denialPosture": "The article itself records the Defense Department's position that the program was shut down in 2012, and simultaneously records that program backers say it continued — making the denial and its contradiction contemporaneous and jointly attributable. DoD's later flat denial of IMMACULATE CONSTELLATION, the program allegedly created in response to this article, is the second denial in the same chain.",
+"narrative": "The article is short on speculation and long on institutional fact, which is why it has held up. Its reporting basis is stated in the second paragraph: the program was documented 'according to Defense Department officials, interviews with program participants and records obtained by The New York Times.' Three sourcing streams, one of them documentary. Those records have never been published in full, and their contents remain one of the most valuable unexploited leads on the board.\n\nThe factual core is compact. The Advanced Aerospace Threat Identification Program was funded at $22 million within Defense Department budgets of roughly $600 billion a year. It was run by Luis Elizondo, a military intelligence official, from the fifth floor of the Pentagon's C Ring. The Defense Department had never previously acknowledged that it existed. DoD said it shut the program down in 2012. And — the sentence that does the most work — 'its backers say that, while the Pentagon ended funding for the effort at that time, the program remains in existence. For the past five years, they say, officials with the program have continued to investigate episodes brought to them by service members, while also carrying out their other Defense Department duties.'\n\nThat construction is the whole concealment argument in miniature. A program is funded through a line item that is hard to find. Its existence is not acknowledged. When it becomes inconvenient, funding is ended and the government says the program is over. The work continues anyway, distributed across officials' other duties, which is exactly the arrangement that makes a program invisible to the reporting requirements of 10 U.S.C. 119 — there is no new SAP to notify, no budget line to report, and no milestone schedule to submit. Whether that is what happened is not proven by the article. What the article proves is that people with direct knowledge asserted it on the record in December 2017, and that DoD's contrary position was already a matter of dispute at the moment of first disclosure.\n\nThe money trail the article opened has been independently corroborated by the government's own subsequent releases. Steven Aftergood, writing for the Federation of American Scientists in January 2019 on the occasion of DIA's FOIA release of the 38 funded research titles, described the same program in the same terms: 'From 2007 to 2012, the DIA spent $22 million on the activity, formally known as the Advanced Aerospace Threat Identification Program. It was apparently initiated at the behest of then-Senate Majority Leader Harry Reid, with most of the funding directed to a Nevada constituent of his' — and cited this article by name. The Debrief's 2021 investigation into BAASS likewise anchors its $22 million figure to this piece. So the article's central financial claim has been ratified by a FOIA release, by an arms-control watchdog, and by a subsequent investigative outlet using different documents.\n\nThe article's second, less-discussed effect was on the evidentiary record itself. It carried Navy infrared gun-camera footage into mainstream circulation, which the Navy later confirmed as authentic imagery of unidentified aerial phenomena. That transformed the subject from a testimony problem into a sensor-data problem, and it is the reason later official documents — including the 2021 ODNI assessment's observation that a majority of UAP 'registered across multiple sensors, to include radar, infrared, electro-optical, weapon seekers, and visual observation' — are framed in terms of instrumentation rather than eyewitnesses.\n\nThe third effect is the one that matters most for this board, and it is alleged rather than established. In written testimony to House Oversight on 13 November 2024, Michael Shellenberger reported that a whistleblower's report provided to congressional committees alleges that DoD created an Unacknowledged Special Access Program called IMMACULATE CONSTELLATION in 2017, after this article was published, to serve as a 'central or parent USAP' consolidating UAP observations and enforcing internal information security by detecting, quarantining and transferring collection incidents before they circulate within the Military Intelligence Enterprise. If true, this article did not merely expose a program — it caused a new and better-hidden one. DoD spokesperson Sue Gough has denied that any SAP by that name exists in its records.\n\nThere are also unresolved discrepancies that a careful analyst should hold onto. The article and FAS both date the program 2007-2012 and call it AATIP; the DIA contracting record dates the BAASS contract to 2008 and calls the effort AAWSAP; Shellenberger's testimony dates AAWSAP 2009-2017 with reports ending in 2010 and the program running through 2012. The government has never issued a clean, consistent account of the relationship between AATIP and AAWSAP, and that inconsistency is not incidental — it is the kind of ambiguity that survives only when nobody is compelled to resolve it.\n\nWhat the article does not do: it does not allege retrievals, materials, or reverse-engineering. It does not name a contractor in its lede. Its claims about the program's survival past 2012 are attributed to unnamed backers, and its documentary basis has never been made public.",
+"openQuestions": [
+"What were the 'records obtained by The New York Times,' who provided them, and do copies exist in government custody subject to the NARA Record Group 615 transfer obligation?",
+"Who were the 'backers' who said the program continued after 2012, and in what capacity did they continue investigating episodes?",
+"Are AATIP and AAWSAP the same program, sequential programs, or a program and a successor portfolio? The NYT, FAS, DIA contracting records and Shellenberger's testimony give three incompatible date ranges.",
+"Was the December 2017 disclosure an uncontrolled leak, or a sanctioned limited disclosure — and if the latter, who authorised it and what was it intended to protect?",
+"Did any DoD component conduct a leak investigation following publication, and does a record of it exist?"
+],
+"roles": [
+"disclosure",
+"concealment"
+],
+"whatItIs": "'Glowing Auras and \"Black Money\": The Pentagon's Mysterious U.F.O. Program,' a New York Times article published 16 December 2017 by Helene Cooper, Ralph Blumenthal and Leslie Kean. It revealed the existence of the Advanced Aerospace Threat Identification Program, its $22 million funding, its origin at the request of Senate Majority Leader Harry Reid, and its management by Luis Elizondo from the fifth floor of the Pentagon's C Ring. It was accompanied by the release of US Navy FLIR gun-camera footage.",
+"whyImplicated": "This is the date on which the concealment failed in public, and the article says so in its own lede: $22 million inside a $600 billion budget 'was almost impossible to find. Which was how the Pentagon wanted it.' The piece establishes three facts the program argument rests on: that the Defense Department had never before acknowledged the program's existence, that DoD said it shut down in 2012, and that the program's own backers said it did not — that officials continued to investigate episodes for five more years while carrying out other duties. That is a documented, contemporaneous dispute about whether a UAP program continued to run after the government said it had stopped. Every subsequent institutional response — the UAP Task Force, the 2021 ODNI assessment, AARO, the 2023 and 2024 hearings, the NARA records collection — is downstream of this article, and a whistleblower report given to Congress in 2024 alleges that a new Unacknowledged Special Access Program was created in 2017 in direct response to it."
+},
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "nyt-2017-12-16",
+"l0": true,
+"label": "New York Times, 'Glowing Auras and Black Money: The Pentagon's Mysterious U.F.O. Program'",
+"locLabel": null,
+"members": [
+{
+"cls": "person",
+"id": "christopher-mellon",
+"label": "Christopher K. Mellon",
+"tier": "A"
+},
+{
+"cls": "domain",
+"id": "d-media",
+"label": "Independent media as the disclosure substrate",
+"tier": "C"
+},
+{
+"cls": "person",
+"id": "david-grusch",
+"label": "David Charles Grusch",
+"tier": "A"
+},
+{
+"cls": "document",
+"id": "flir1-video",
+"label": "FLIR1 (Nimitz ATFLIR video, 14 Nov 2004)",
+"tier": "B"
+},
+{
+"cls": "person",
+"id": "harry-reid",
+"label": "Harry M. Reid",
+"tier": "A"
+},
+{
+"cls": "location",
+"id": "l-nyc",
+"label": "New York City",
+"tier": "C"
+},
+{
+"cls": "person",
+"id": "leslie-kean",
+"label": "Leslie Kean",
+"tier": "B"
+},
+{
+"cls": "person",
+"id": "luis-elizondo",
+"label": "Luis D. Elizondo",
+"tier": "A"
+},
+{
+"cls": "person",
+"id": "ralph-blumenthal",
+"label": "Ralph Blumenthal",
+"tier": "C"
+},
+{
+"cls": "institution",
+"id": "the-debrief",
+"label": "The Debrief",
+"tier": "C"
+}
+],
+"short": "NYT, 'Glowing Auras', Dec 2017",
+"sources": [
+{
+"date": "2017-12-16",
+"name": "New York Times — Glowing Auras and 'Black Money' (NICAP archival copy)",
+"url": "https://www.nicap.org/reports2/2004_20171216_NYTArt_1.pdf"
+},
+{
+"date": "2017-12-16",
+"name": "The New York Times - Glowing Auras and Black Money",
+"url": "https://www.nytimes.com/2017/12/16/us/politics/pentagon-program-ufo-harry-reid.html"
+},
+{
+"date": "2026-08-12",
+"name": "Wikipedia - Advanced Aerospace Threat Identification Program",
+"url": "https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program"
+}
+],
+"sub": "Published 16 December 2017 by Helene Cooper, Ralph Blumenthal and Leslie Kean",
+"tier": "A",
+"tierRationale": "Re-graded A on a global pass (rank 121 of 1027, score 57). 15 connections, 4 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A1/D3.",
+"timeline": [
+{
+"date": "2017-12-16",
+"id": "tl-2017-12-16-nyt",
+"label": "New York Times breaks AATIP",
+"precision": "day",
+"strand": "program",
+"text": "Cooper, Blumenthal and Kean publish 'Glowing Auras and Black Money', naming AATIP, its $22 million, Harry Reid, Bigelow Aerospace and Luis Elizondo, with two of the three videos.",
+"tier": "A"
+},
+{
+"date": "2017-12-16",
+"id": "tl-2017-nyt",
+"label": "New York Times reveals the program",
+"precision": "day",
+"strand": "witness",
+"text": "The Times names the program, the $22 million, Harry Reid and Bigelow Aerospace, and quotes Luis Elizondo as the official who ran it.",
+"tier": "A"
+},
+{
+"date": "2017-12-16",
+"id": "tl-2017-nytx",
+"label": "'Glowing Auras and Black Money'",
+"precision": "day",
+"strand": "oversight",
+"text": "Cooper, Blumenthal and Kean reveal AATIP, the $22 million appropriation, Elizondo's resignation and the Navy videos. No new physical evidence; decisive institutional standing. Every subsequent official act follows from this date.",
+"tier": "A"
+}
+]
+}

@@ -1,0 +1,176 @@
+{
+"A": 3,
+"C": 0,
+"D": 2,
+"band": null,
+"claims": [
+{
+"source": "AARO Declassification Information Paper, September 2025",
+"text": "AARO states it cannot declassify information independently and must request declassification review from the originating offices, with DOPSR reviewing redactions before public release.",
+"tier": 1
+},
+{
+"source": "AARO Declassification Information Paper, September 2025",
+"text": "'Information must remain classified when its disclosure could reasonably be expected to cause damage, serious damage, or exceptionally grave damage to national security.'",
+"tier": 1
+},
+{
+"source": "AARO Declassification Information Paper, September 2025",
+"text": "The paper states that classified UAP imagery protects platform capabilities, locations and collection methods, and that even footage of prosaic objects remains classified when derived from sensitive sources.",
+"tier": 1
+},
+{
+"source": "Inference from the September 2025 paper against the May-August 2026 PURSUE release record",
+"text": "The paper's account of an immovable process was falsified within eight months by its own department, which cleared five tranches and over a hundred sensor videos once directed to at cabinet level.",
+"tier": 3
+}
+],
+"cls": "document",
+"cluster": "other",
+"connections": [
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "2025",
+"dateStart": "2025",
+"direction": "in",
+"edgeLabel": "The office's own account of why it cannot declassify",
+"id": "aaro",
+"l0": true,
+"label": "All-domain Anomaly Resolution Office (AARO)",
+"note": "AARO states it cannot declassify independently, must request review from originating offices, and is bound by DOPSR - a description falsified within eight months by its own department.",
+"sources": [
+{
+"date": "2025-09-01",
+"name": "AARO - Declassification Information Paper (2025)",
+"url": "https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Declassification_Info_Paper_2025.pdf"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 3,
+"cls": "program",
+"dateEnd": "2026",
+"dateStart": "2025",
+"direction": "out",
+"edgeLabel": "Process described as immovable was moved by cabinet direction in weeks",
+"id": "pursue-releases",
+"l0": true,
+"label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters",
+"note": "The September 2025 paper's 'deliberate and time-intensive' declassification account is contradicted by five tranches and over a hundred sensor videos cleared between May and August 2026.",
+"sources": [
+{
+"date": "2025-09-01",
+"name": "AARO - Declassification Information Paper (2025)",
+"url": "https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Declassification_Info_Paper_2025.pdf"
+},
+{
+"date": "2026-08-07",
+"name": "Department of War - PURSUE portal (war.gov/UFO)",
+"url": "https://www.war.gov/UFO/"
+}
+],
+"tier": "A",
+"type": "denial"
+}
+],
+"coords": null,
+"dateEnd": "2025",
+"dateStart": "2025",
+"deg": 2,
+"denials": [
+{
+"by": {
+"id": "aaro-declassification-info-paper-2025",
+"label": "AARO Declassification Information Paper (September 2025)"
+},
+"claimTier": 3,
+"denialKind": "association",
+"label": "Process described as immovable was moved by cabinet direction in weeks",
+"note": "The September 2025 paper's 'deliberate and time-intensive' declassification account is contradicted by five tranches and over a hundred sensor videos cleared between May and August 2026.",
+"of": {
+"id": "pursue-releases",
+"label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters"
+},
+"sources": [
+{
+"date": "2025-09-01",
+"name": "AARO - Declassification Information Paper (2025)",
+"url": "https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Declassification_Info_Paper_2025.pdf"
+},
+{
+"date": "2026-08-07",
+"name": "Department of War - PURSUE portal (war.gov/UFO)",
+"url": "https://www.war.gov/UFO/"
+}
+]
+}
+],
+"desc": "An information paper published by AARO in September 2025 - one month before its first video releases and eight months before PURSUE - explaining why the office cannot release UAP material. Its argument: AARO cannot declassify anything independently because other government entities originated the classified data; it must request declassification review from originating offices such as the Military Departments; each review determines whether disclosure could cause damage, serious damage or exceptionally grave damage to national security, producing full release, partial release with redactions, or continued classification; and DOPSR reviews redactions before public release. It identifies the obstacles as protection of platform capabilities, locations and collection methods rather than the subject matter itself - noting that even footage of birds and balloons stays classified when derived from sensitive sources - and describes the process as 'deliberate and time-intensive.' Every sentence of that is defensible as a description of the classification system. What it is not is a description of an immovable constraint, and the proof is the eight months that followed: given a cabinet-level direction, the same department cleared and published five tranches containing well over a hundred sensor videos. The paper is the best single artefact of institutional friction masquerading as legal necessity.",
+"domains": [
+"_rs-archive-mirror",
+"releases-2023-2026"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "aaro-declassification-info-paper-2025",
+"l0": false,
+"label": "AARO Declassification Information Paper (September 2025)",
+"locLabel": null,
+"members": null,
+"short": "AARO Declassification Information Paper (September 2025)",
+"sources": [
+{
+"date": "2026-07-14",
+"name": "Archived: AARO - Declassification Information Paper (2025) (Wayback 2026-07-14)",
+"url": "https://web.archive.org/web/20260714192822/https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Declassification_Info_Paper_2025.pdf"
+},
+{
+"date": "2026-08-10",
+"name": "Archived: Department of War - PURSUE portal (war.gov/UFO) (Wayback 2026-08-10)",
+"url": "https://web.archive.org/web/20260810202017/https://www.war.gov/UFO/"
+},
+{
+"date": "2026-07-14",
+"name": "Archived: AARO - UAP Records page (Wayback 2026-07-14)",
+"url": "https://web.archive.org/web/20260714192654/https://www.aaro.mil/UAP-Records/"
+},
+{
+"date": "2025-09-01",
+"name": "AARO - Declassification Information Paper (2025)",
+"url": "https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Declassification_Info_Paper_2025.pdf"
+},
+{
+"date": "2026-08-07",
+"name": "Department of War - PURSUE portal (war.gov/UFO)",
+"url": "https://www.war.gov/UFO/"
+},
+{
+"date": "2026-08-12",
+"name": "AARO - UAP Records page",
+"url": "https://www.aaro.mil/UAP-Records/"
+}
+],
+"sub": "The office's own account of why it cannot declassify",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 494 of 1027, score 29). 2 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A3/D2.",
+"timeline": [
+{
+"date": "2025-09-01",
+"id": "rel-2025-09-30",
+"label": "AARO explains why it cannot declassify",
+"precision": "month",
+"strand": "coverup",
+"text": "AARO publishes a declassification information paper: it cannot declassify independently, must request review from originating offices, and is bound by DOPSR. The process is 'deliberate and time-intensive.'",
+"tier": "A"
+}
+]
+}

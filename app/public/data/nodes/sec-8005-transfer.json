@@ -1,0 +1,118 @@
+{
+"A": 2,
+"C": 1,
+"D": 2,
+"band": null,
+"claims": [
+{
+"source": "https://www.govinfo.gov/content/pkg/PLAW-119publ75/html/PLAW-119publ75.htm",
+"text": "Section 8005 of the DoD Appropriations Act 2026 permits transfer of not to exceed $6,000,000,000 of working capital funds or funds made available in the Act for military functions between appropriations or funds or any subdivision thereof, with OMB approval.",
+"tier": 1
+},
+{
+"source": "https://www.govinfo.gov/content/pkg/PLAW-119publ75/html/PLAW-119publ75.htm",
+"text": "Section 8005 requires only that the Secretary 'notify the Congress promptly of all transfers made pursuant to this authority or any other authority in this Act' - notification after the fact, not prior approval.",
+"tier": 1
+},
+{
+"source": "https://www.govinfo.gov/content/pkg/PLAW-119publ75/html/PLAW-119publ75.htm",
+"text": "Section 8006(b) provides that amounts in the explanatory-statement and classified-annex tables shall not be treated as subdivisions of appropriations for purposes of section 8005; section 8005 applies only when transfers occur between appropriation accounts.",
+"tier": 1
+},
+{
+"source": "https://www.govinfo.gov/content/pkg/PLAW-118publ47/html/PLAW-118publ47.htm",
+"text": "The FY2024 DoD Appropriations Act (P.L. 118-47) carried the same $6,000,000,000 section 8005 ceiling and the same conditions.",
+"tier": 1
+},
+{
+"source": "https://www.govinfo.gov/content/pkg/PLAW-119publ75/html/PLAW-119publ75.htm",
+"text": "The section 8006(b) carve-out means movements among classified-annex line items inside a single appropriation account are invisible both to the transfer ceiling and to the prompt-notification requirement. Reasoning: the notification duty in section 8005 attaches to transfers 'pursuant to this authority'; if the movement is not a section 8005 transfer because the annex tables are not subdivisions of appropriations, no section 8005 notice is triggered.",
+"tier": 3
+}
+],
+"cls": "legislation",
+"cluster": "oversight",
+"connections": [
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": "2026-02-03",
+"direction": "in",
+"edgeLabel": "Annex tables are exempted from the section 8005 transfer ceiling",
+"id": "classified-annex",
+"l0": true,
+"label": "The Classified Annex (NDAA and Defense Appropriations)",
+"note": "Section 8006(b) of the FY2026 Defense Appropriations Act provides that amounts in the classified annex tables are not subdivisions of appropriations for section 8005 purposes; section 8005 applies only to movements between appropriation accounts. Attested by the enacted statutory text.",
+"sources": [
+{
+"date": "2026-02-03",
+"name": "DoD Appropriations Act 2026, Secs. 8005-8006",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-119publ75/html/PLAW-119publ75.htm"
+}
+],
+"tier": "A",
+"type": "legislative"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": "2015-09",
+"direction": "in",
+"edgeLabel": "The administrative layer beneath the statutory transfer authority",
+"id": "reprogramming-dd1415",
+"l0": false,
+"label": "Reprogramming of DoD Appropriated Funds (DoD FMR Volume 3, Chapter 6; DD Form 1415 series)",
+"note": "DoD FMR Volume 3 Chapter 6 implements reprogramming and transfer actions, including Below-Threshold Reprogramming which requires no approval or notification. Attested by the regulation.",
+"sources": [
+{
+"date": "2015-09-01",
+"name": "DoD FMR Volume 3, Chapter 6",
+"url": "https://comptroller.war.gov/Portals/45/documents/fmr/current/03/03_06.pdf"
+}
+],
+"tier": "C",
+"type": "institutional"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "1970",
+"deg": 2,
+"denials": [],
+"desc": "Section 8005 is the standing provision of every Department of Defense Appropriations Act by which the Secretary of Defense, with the approval of the Director of the Office of Management and Budget, may move money that Congress appropriated for one purpose to a different purpose. In the FY2026 Act the ceiling is $6,000,000,000; the FY2024 Act carried the same figure. The conditions are that the transfer be to 'higher priority items, based on unforeseen military requirements', that it not be used for an item Congress has denied, and that the Secretary 'notify the Congress promptly of all transfers'. Two features make it structurally important here. First, notification is after the fact - the statute requires prompt notice of transfers made, not prior approval. Second, section 8006(b) of the FY2026 Act provides that amounts specified in the explanatory-statement and classified-annex tables 'shall not be treated as subdivisions of appropriations for purposes of section 8005', with section 8005 applying only when the movement crosses appropriation accounts; the identical carve-out appears at section 4001(c) of the NDAA, which states that transfer or reprogramming of an amount in a funding table 'shall not count against a ceiling on such transfers or reprogrammings under section 1001 of this Act or any other provision of law, unless such transfer or reprogramming would move funds between appropriation accounts.' In plain terms: movement of money among the specific programmes and projects listed in the classified annex, so long as it stays inside a single appropriation account, is neither counted against the transfer ceiling nor separately reported. Section 8005 was the authority the Department used in 2019 to move $2.5 billion to border wall construction, litigation over which produced a substantial body of case law on the meaning of 'unforeseen military requirements' and 'denied by the Congress' - the only sustained judicial examination of the mechanism.",
+"domains": [
+"w2-black-budget"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "1",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "sec-8005-transfer",
+"l0": false,
+"label": "Section 8005 Transfer Authority (annual DoD Appropriations Act)",
+"locLabel": null,
+"members": null,
+"short": "Section 8005 Transfer Authority (annual DoD Appropriations Act)",
+"sources": [
+{
+"date": "2026-02-03",
+"name": "DoD Appropriations Act 2026 (P.L. 119-75), Secs. 8005-8007",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-119publ75/html/PLAW-119publ75.htm"
+},
+{
+"date": "2024-03-23",
+"name": "DoD Appropriations Act 2024 (P.L. 118-47), Sec. 8005",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-118publ47/html/PLAW-118publ47.htm"
+}
+],
+"sub": "$6 billion per year of Secretary-level authority to move appropriated funds between accounts",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 507 of 1027, score 29). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D2.",
+"timeline": []
+}

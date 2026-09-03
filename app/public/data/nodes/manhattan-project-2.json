@@ -1,0 +1,511 @@
+{
+"A": 3,
+"C": 2,
+"D": 3,
+"band": "reverse-engineering",
+"claims": [
+{
+"source": "UAP Gerb, 'The Manhattan Project 2.0' Vol.1, 1 May 2026",
+"text": "A centralized UFO recovery and exploitation effort was founded in 1947 with a security apparatus taken directly from the Manhattan Project and the Atomic Energy Commission.",
+"tier": 2
+},
+{
+"source": "UAP Gerb, 'The Manhattan Project 2.0' Vol.1, 1 May 2026",
+"text": "Truman and Eisenhower vested custody of NHI disks within AEC national laboratories, established the control group under the NSC and its 5412 Committee, and safeguarded the programs under the Atomic Energy Act of 1954.",
+"tier": 2
+},
+{
+"source": "UAP Gerb, 'Special Access Required' Vol.2, 19 June 2026",
+"text": "In 1994 the SAP enterprise was restructured to gatekeep USG access and vest permanent control of the portfolio in a quasi-industry and government control group.",
+"tier": 2
+},
+{
+"source": "UAP Gerb, 'Special Access Required' Vol.2, 19 June 2026",
+"text": "The portfolio exploits loopholes in White House SAPs and NSC Covert Action Programs to operate 'Non-Covert Action Programs' with managed need-to-know access, full SAP security protocols and completely waived reporting and budgetary requirements.",
+"tier": 2
+},
+{
+"source": "Inference from the structure Gerb describes, combined with the documented pattern of committee non-notification testimony at the 26 July 2023 and 13 November 2024 hearings. Not established by any primary record.",
+"text": "If the Non-Covert Action Program mechanism exists as described, it would explain the persistent pattern in which SASC and SSCI professional staff report never having been briefed on programmes that multiple witnesses describe - lawful non-reporting rather than unlawful concealment.",
+"tier": 3
+}
+],
+"cls": "program",
+"cluster": "legacy",
+"connections": [
+{
+"claimTier": 1,
+"cls": "legislation",
+"dateEnd": "1946",
+"dateStart": "1946",
+"direction": "in",
+"edgeLabel": "Statutory transfer of the Manhattan Engineer District's holdings and its cleared people",
+"id": "atomic-energy-act-1946",
+"l0": false,
+"label": "Atomic Energy Act of 1946 (McMahon Act)",
+"note": "Section 9(a) directs the transfer of all fissionable material, all atomic weapons and parts and all processes and technical information, and section 10(b)(5)(B)(iii) lets anyone the Manhattan Engineer District had already cleared keep access pending the new investigation.",
+"sources": [
+{
+"date": "1946-08-01",
+"name": "Atomic Energy Act of 1946, secs. 9(a) and 10(b)(5)(B)(iii)",
+"url": "https://www.govinfo.gov/content/pkg/STATUTE-60/pdf/STATUTE-60-Pg755.pdf"
+}
+],
+"tier": "B",
+"type": "custody"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "1946",
+"dateStart": "1946",
+"direction": "in",
+"edgeLabel": "Statutory transfer of the Manhattan Engineer District's holdings",
+"id": "atomic-energy-commission",
+"l0": true,
+"label": "Atomic Energy Commission",
+"note": "Section 9(a) of the 1946 Act directs the President to transfer to the Commission all fissionable material, all atomic weapons and parts, all processes and technical information, and such other property in the custody or control of the Manhattan Engineer District as he may determine.",
+"sources": [
+{
+"date": "1946-08-01",
+"name": "Atomic Energy Act of 1946, sec. 9(a)",
+"url": "https://www.govinfo.gov/content/pkg/STATUTE-60/pdf/STATUTE-60-Pg755.pdf"
+}
+],
+"tier": "A",
+"type": "custody"
+},
+{
+"claimTier": 3,
+"cls": "domain",
+"dateEnd": "2026-06-19",
+"dateStart": "2026-05-01",
+"direction": "out",
+"edgeLabel": "the named model this domain is arguing about, and the reason to keep it graded Tier 3",
+"id": "d-structure",
+"l0": false,
+"label": "Program structure and organisational mapping",
+"note": "UAP Gerb's onion model of an indefinitely layered secrecy architecture, set out across two investigations published 1 May and 19 June 2026, is the most fully articulated structural hypothesis in circulation and is what the independent-media substrate has organised itself around. It is sourced only to those two videos and has no independent documentary corroboration, which is exactly why it belongs in this domain at Tier 3 rather than being excluded from it.",
+"sources": [
+{
+"date": "2026-05-01",
+"name": "UAP Gerb, 'The Manhattan Project 2.0' Vol. 1 (YouTube)",
+"url": "https://www.youtube.com/watch?v=jR-h5p2bd-A"
+},
+{
+"date": "2026-06-19",
+"name": "UAP Gerb, 'Special Access Required' Vol. 2 (YouTube)",
+"url": "https://www.youtube.com/watch?v=6MsmPrpQqa8"
+}
+],
+"tier": "C",
+"type": "research"
+},
+{
+"claimTier": 2,
+"cls": "institution",
+"dateEnd": "2026",
+"dateStart": "1947",
+"direction": "out",
+"edgeLabel": "Alleges custody of recovered disks vested in AEC national laboratories",
+"id": "doe",
+"l0": true,
+"label": "United States Department of Energy",
+"note": "Gerb argues Truman and Eisenhower placed recovered material inside Atomic Energy Commission laboratories - the institutional ancestors of today's DOE national labs - to obtain the Atomic Energy Act's statutory protections.",
+"sources": [
+{
+"date": "2026-05-01",
+"name": "UAP Gerb - 'The Manhattan Project 2.0' Vol.1",
+"url": "https://www.youtube.com/watch?v=jR-h5p2bd-A"
+},
+{
+"date": "2026-06-19",
+"name": "UAP Gerb - 'Special Access Required' Vol.2",
+"url": "https://www.youtube.com/watch?v=6MsmPrpQqa8"
+}
+],
+"tier": "A",
+"type": "custody"
+},
+{
+"claimTier": 2,
+"cls": "domain",
+"dateEnd": "2026",
+"dateStart": "1994",
+"direction": "out",
+"edgeLabel": "The 1994 SAP restructuring vested control in a quasi-industry group",
+"id": "ffrdc-mechanism",
+"l0": false,
+"label": "The FFRDC / UARC / GOCO mechanism",
+"note": "Gerb argues the 1994 restructuring of the SAP enterprise permanently vested the portfolio in a quasi-government and industry control group - the point at which the FFRDC and contractor layer becomes the locus of control rather than the government.",
+"sources": [
+{
+"date": "2026-05-01",
+"name": "UAP Gerb - 'The Manhattan Project 2.0' Vol.1",
+"url": "https://www.youtube.com/watch?v=jR-h5p2bd-A"
+},
+{
+"date": "2026-06-19",
+"name": "UAP Gerb - 'Special Access Required' Vol.2",
+"url": "https://www.youtube.com/watch?v=6MsmPrpQqa8"
+}
+],
+"tier": "B",
+"type": "programmatic"
+},
+{
+"claimTier": 2,
+"cls": "document",
+"dateEnd": "2026",
+"dateStart": "2025",
+"direction": "out",
+"edgeLabel": "Sandia investigation is the evidentiary bridge for AEC custody",
+"id": "gerb-sandia-investigation",
+"l0": false,
+"label": "UAP Gerb - Sandia National Laboratories investigation",
+"note": "The Sandia investigation predates the Manhattan Project 2.0 series by six months and supplies its named-laboratory case.",
+"sources": [
+{
+"date": "2025-11-01",
+"name": "UAP Gerb - Sandia investigation",
+"url": "https://www.youtube.com/watch?v=mHkPHd_eOXI"
+}
+],
+"tier": "C",
+"type": "programmatic"
+},
+{
+"claimTier": 2,
+"cls": "document",
+"dateEnd": "2026",
+"dateStart": "2026",
+"direction": "in",
+"edgeLabel": "The episode's thesis is the Manhattan Project 2.0 architecture",
+"id": "michels-gerb-structural-episode",
+"l0": true,
+"label": "'The Pentagon's UFO Program Is Real [Here's How It Works!]'",
+"note": "The episode description explicitly derives the modern system from the Manhattan Project, the Atomic Energy Commission and Cold War intelligence structures - the same lineage Gerb sets out at length in his May and June 2026 two-part series.",
+"sources": [
+{
+"date": "2026-01-11",
+"name": "American Alchemy - 'The Pentagon's UFO Program Is Real [Here's How It Works!]'",
+"url": "https://www.youtube.com/watch?v=u7g5Sn1DJF4"
+},
+{
+"date": "2026-05-01",
+"name": "UAP Gerb - 'The Manhattan Project 2.0' Vol.1",
+"url": "https://www.youtube.com/watch?v=jR-h5p2bd-A"
+},
+{
+"date": "2026-06-19",
+"name": "UAP Gerb - 'Special Access Required' Vol.2",
+"url": "https://www.youtube.com/watch?v=6MsmPrpQqa8"
+}
+],
+"tier": "C",
+"type": "programmatic"
+},
+{
+"claimTier": 2,
+"cls": "institution",
+"dateEnd": "2026",
+"dateStart": "1994",
+"direction": "out",
+"edgeLabel": "Non-Covert Action Programs alleged to carry waived reporting requirements",
+"id": "ousdi",
+"l0": true,
+"label": "Office of the Under Secretary of Defense for Intelligence",
+"note": "The operative concealment mechanism on Gerb's account: full SAP security protocols combined with completely waived reporting and budgetary requirements, which would make congressional ignorance lawful rather than the product of active deception.",
+"sources": [
+{
+"date": "2026-06-19",
+"name": "UAP Gerb - 'Special Access Required' Vol.2",
+"url": "https://www.youtube.com/watch?v=6MsmPrpQqa8"
+}
+],
+"tier": "B",
+"type": "denial"
+},
+{
+"claimTier": 2,
+"cls": "institution",
+"dateEnd": "2026",
+"dateStart": "1949",
+"direction": "out",
+"edgeLabel": "Sandia named as an AEC-lineage custodial laboratory",
+"id": "sandia",
+"l0": true,
+"label": "Sandia National Laboratories",
+"note": "Gerb's Sandia investigation of 1 November 2025 supplies the named-institution case for the AEC-custody thesis, citing Edgar Fouche and former New Mexico State Representative J. Andrew Kissner.",
+"sources": [
+{
+"date": "2025-11-01",
+"name": "UAP Gerb - Sandia investigation",
+"url": "https://www.youtube.com/watch?v=mHkPHd_eOXI"
+}
+],
+"tier": "A",
+"type": "custody"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2026",
+"dateStart": "2026",
+"direction": "in",
+"edgeLabel": "Gerb constructed and named the Manhattan Project 2.0 model",
+"id": "uap-gerb",
+"l0": false,
+"label": "'UAP Gerb' (Sam)",
+"note": "Set out across two investigations, 1 May and 19 June 2026, covering the 1947 founding, AEC custody, the NSC 5412 Committee, the Atomic Energy Act of 1954, the 1980s fracture, the 1994 SAP restructuring and modern Non-Covert Action Programs.",
+"sources": [
+{
+"date": "2026-05-01",
+"name": "UAP Gerb - 'The Manhattan Project 2.0' Vol.1",
+"url": "https://www.youtube.com/watch?v=jR-h5p2bd-A"
+},
+{
+"date": "2026-06-19",
+"name": "UAP Gerb - 'Special Access Required' Vol.2",
+"url": "https://www.youtube.com/watch?v=6MsmPrpQqa8"
+}
+],
+"tier": "A",
+"type": "investigative"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "1947",
+"deg": 10,
+"denials": [
+{
+"by": {
+"id": "manhattan-project-2",
+"label": "'Manhattan Project 2.0' (alleged secrecy architecture)"
+},
+"claimTier": 2,
+"denialKind": "undirected",
+"label": "Non-Covert Action Programs alleged to carry waived reporting requirements",
+"note": "The operative concealment mechanism on Gerb's account: full SAP security protocols combined with completely waived reporting and budgetary requirements, which would make congressional ignorance lawful rather than the product of active deception.",
+"of": {
+"id": "ousdi",
+"label": "Office of the Under Secretary of Defense for Intelligence"
+},
+"sources": [
+{
+"date": "2026-06-19",
+"name": "UAP Gerb - 'Special Access Required' Vol.2",
+"url": "https://www.youtube.com/watch?v=6MsmPrpQqa8"
+}
+]
+}
+],
+"desc": "'Manhattan Project 2.0' is UAP Gerb's name for the security architecture he argues has concealed the recovery and exploitation effort since 1947, set out across two investigations published 1 May and 19 June 2026. The model is an onion: the core holds materials, biologics, senior leadership and the actual truths, and an indefinite series of layers keeps even presidential administrations and 'temporary employees' one layer out. The founding claim is that a centralized recovery effort established in 1947 borrowed its secrecy apparatus wholesale from the Manhattan Project and the Atomic Energy Commission - compartmentalization, organizational architecture, physical security, classification and information control, and political shield. Custody of recovered disks is alleged to have been vested by Truman and Eisenhower in AEC national laboratories, with the control group established under the National Security Council and its 5412 Committee and statutory protection drawn from the Atomic Energy Act of 1954. Named architects are Vannevar Bush, who also built the modern military-scientific structure, and General George C. Marshall, whose Alsos Missions and T-Force are presented as the template for crash-retrieval teams. The Cold War, and specifically the 1980s, is said to have fractured a once-unified effort into today's siloed structure; a 1994 restructuring of the Special Access Program enterprise then vested permanent control in a quasi-industry-and-government control group. The modern-day claim is the operative one for oversight: that the portfolio hides inside 'Non-Covert Action Programs' run through White House SAP and NSC Covert Action Program loopholes - managed need-to-know access with full SAP security protocols but completely waived reporting and budgetary requirements. If accurate, that is the precise legal mechanism by which Congress can be lawfully kept ignorant.",
+"domains": [
+"media-structure"
+],
+"dossier": {
+"claims": [
+{
+"source": "Assessment of the sourced record as of August 2026; no primary document identified in AARO's 2024 historical review or in congressional testimony, https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf",
+"text": "The existence of a Manhattan Project-scale legacy retrieval and reverse-engineering architecture is an allegation carried by named proponents, not a documented programme; no document titled 'Manhattan Project II' or equivalent has been produced.",
+"tier": 3
+},
+{
+"source": "Tom Norton, \"Is US on the Verge of 'Catastrophic' UFO Leak? What We Know,\" Newsweek, November 22, 2023, https://www.newsweek.com/catastrophic-ufo-leak-uap-aliens-us-army-colonel-karl-nell-1846123",
+"text": "At the first Sol Foundation symposium at Stanford University in November 2023, retired Army Colonel Karl E. Nell called for a 'campaign plan' to force greater transparency and a 'Manhattan project' to reverse engineer recovered UAP.",
+"tier": 2
+},
+{
+"source": "Newsweek, November 22, 2023, https://www.newsweek.com/catastrophic-ufo-leak-uap-aliens-us-army-colonel-karl-nell-1846123",
+"text": "Nell's presented slides set a disclosure target date of October 1, 2030, acknowledged schedule risk, and listed intended outcomes including 'Proper Oversight Restored,' 'Catastrophic Disclosure Avoid[ed]' and 'Scientific Understanding Advanced'; he advocated 'restoration of proper Federal government oversight over all UAP legacy (and ongoing) program efforts.'",
+"tier": 2
+},
+{
+"source": "The Debrief, June 5, 2023, https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/; Newsweek, November 22, 2023, https://www.newsweek.com/catastrophic-ufo-leak-uap-aliens-us-army-colonel-karl-nell-1846123",
+"text": "Nell served as the Army's liaison for the UAP Task Force from 2021 to 2022 and listed his most recent position as Modernization Advisor to the Vice Chief of Staff of the Army; a 2022 performance evaluation by Deputy Chief of Staff for Intelligence Laura A. Potter described him as 'an officer with the strongest possible moral compass.'",
+"tier": 2
+},
+{
+"source": "The Debrief, June 5, 2023, https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/",
+"text": "Nell stated on the record that the assertion of 'a terrestrial arms race occurring sub-rosa over the past eighty years focused on reverse engineering technologies of unknown origin is fundamentally correct, as is the indisputable realization that at least some of these technologies of unknown origin derive from non-human intelligence.'",
+"tier": 2
+},
+{
+"source": "Newsweek, November 22, 2023, reporting on the Sol Foundation symposium, https://www.newsweek.com/catastrophic-ufo-leak-uap-aliens-us-army-colonel-karl-nell-1846123",
+"text": "At the same November 2023 Sol Foundation symposium, former CIA-affiliated physicist Hal Puthoff alleged that in 2004 a CIA think tank, the Defense Intelligence Agency and the Pentagon broadly agreed that information about UFOs should not be declassified, deeming the societal risks too great.",
+"tier": 3
+},
+{
+"source": "The Debrief, June 5, 2023, https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/",
+"text": "David Grusch described the alleged effort as a 'publicly unknown Cold War for recovered and exploited physical material -- a competition with near-peer adversaries over the years to identify UAP crashes/landings and retrieve the material for exploitation/reverse engineering to garner asymmetric national defense advantages,' and as an 'eighty-year arms race.'",
+"tier": 2
+},
+{
+"source": "The Debrief, June 5, 2023, https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/",
+"text": "Jonathan Grey, a UAP analyst at the National Air and Space Intelligence Center at Wright-Patterson AFB, stated on the record: 'The existence of complex historical programs involving the coordinated retrieval and study of exotic materials, dating back to the early 20th century, should no longer remain a secret.'",
+"tier": 2
+},
+{
+"source": "AARO, \"History and Origin of KONA BLUE,\" https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/History_and_Origin_of_KONA_BLUE_FINAL_508.pdf",
+"text": "AARO reports that multiple interviewees identified KONA BLUE as 'a Department of Homeland Security (DHS) sensitive compartment established to protect the retrieval and exploitation of \"non-human biologics.\"'",
+"tier": 2
+},
+{
+"source": "AARO, \"History and Origin of KONA BLUE,\" https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/History_and_Origin_of_KONA_BLUE_FINAL_508.pdf",
+"text": "In 2011 the DHS Under Secretary for Science and Technology established KONA BLUE as a Prospective Special Access Program 'based on claims that relevant information and material existed and required this level of protection,' citing congressional interest and possible homeland security impacts; six months later the Deputy Secretary of DHS disapproved it as a SAP and directed its immediate termination.",
+"tier": 2
+},
+{
+"source": "AARO, \"History and Origin of KONA BLUE,\" https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/History_and_Origin_of_KONA_BLUE_FINAL_508.pdf",
+"text": "AARO traces the KONA BLUE proposal to the Advanced Aerospace Weapon System Application Program / Advanced Aerospace Threat Identification Program, managed by the Defense Intelligence Agency from 2009 to 2012, funded through congressional earmarks, with Bigelow Aerospace of Nevada as primary contractor; DIA terminated it citing lack of merit and lack of utility in the delivered products.",
+"tier": 2
+},
+{
+"source": "AARO Historical Record Report Volume I, 2024, https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf",
+"text": "AARO states: 'In 2021, without sufficient justification, the scope of an IC Controlled Access Program was expanded to protect UAP reverse-engineering.'",
+"tier": 2
+},
+{
+"source": "AARO Historical Record Report Volume I, 2024, https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf",
+"text": "AARO reports that executives, scientists and chief technology officers of the companies named by interviewees met with the Director of AARO and 'denied on the record that they have ever recovered, possessed, or engaged in reverse-engineering of extraterrestrial technology.'",
+"tier": 2
+},
+{
+"source": "AARO Historical Record Report Volume I, 2024, section on programs that may have accounted for UAP sightings, https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf",
+"text": "AARO's own historical review supplies the analogy's factual anchor, noting that 'the USG started the Manhattan Project in 1942. This program operated in secrecy and led to the establishment of several \"secret cities\" across the United States to support the development of the nuclear bomb.'",
+"tier": 2
+}
+],
+"connections": [
+"Karl E. Nell is the load-bearing node: Army UAP Task Force liaison 2021-2022, colleague of David Grusch, on-record corroborator in grusch-misappropriation-allegation, and the named author of the 2030 disclosure campaign plan.",
+"Hal Puthoff and Garry Nolan connect this alleged architecture to the Sol Foundation and to Stanford as an academic venue for legacy-program advocacy.",
+"KONA BLUE links DHS Science and Technology, DIA, AAWSAP/AATIP and Bigelow Aerospace into a single documented chain -- the only such chain the government has itself published.",
+"The 2021 IC Controlled Access Program whose scope AARO says was expanded to protect UAP reverse-engineering is the direct mechanism link to classified-annex and dodi-5205-11.",
+"Christopher Mellon's reference to 'governing documents' of the alleged program is the closest anyone has come to asserting the existence of a charter document for the architecture.",
+"The Manhattan Project itself, begun 1942, is the template invoked and also the start of the 1944-2026 window this board covers.",
+"The 2026 PURSUE Task Force and the ODNI NDA-waiver memorandum are the first policy instruments that would, if implemented, allow participants in any such architecture to speak without legal jeopardy."
+],
+"denialPosture": "AARO's 2024 historical review states that it 'found no empirical evidence for claims that the USG and private companies have been reverse-engineering extraterrestrial technology,' that claims 'involving specific people, known locations, technological tests, and documents' are 'inaccurate,' that the narrative is 'in large part, the result of circular reporting from a group of individuals who believe this to be the case,' and that 'all the authentic programs have been properly notified and reported to Congress through the congressional defense and/or intelligence committees.' Pentagon spokesperson Sue Gough said the Department had found no 'verifiable information to substantiate claims that any programs regarding the possession or reverse-engineering of extraterrestrial materials have existed in the past or exist currently.' These are dated institutional denials whose own supporting documents concede a DHS compartment proposed to protect 'non-human biologics' and a 2021 IC access-program expansion made 'without sufficient justification' to protect UAP reverse-engineering.",
+"narrative": "The name is an analogy, and the analogy is doing analytical work, so it is worth stating precisely what is being claimed and what is not.\n\nWhat is not claimed: that a document exists bearing the title 'Manhattan Project II.' No such document has been produced. The phrase circulates in independent investigative work and podcasting, and its use there does not constitute evidence.\n\nWhat is claimed, by named individuals with attributable positions: that the United States has run, since roughly the 1940s, a compartmented effort to recover and exploit materials of non-human origin, structured to be invisible to ordinary oversight, and that the Manhattan Project is the correct organisational template for understanding it. The template matters because the Manhattan Project is the canonical American precedent for a state-scale industrial programme conducted in total secrecy -- AARO's own historical review notes that in 1942 'the USG started the Manhattan Project. This program operated in secrecy and led to the establishment of several \"secret cities\" across the United States to support the development of the nuclear bomb.' That is the model: not a hidden filing cabinet but a hidden industrial base.\n\nKarl E. Nell is the central named proponent. At the first symposium of the Sol Foundation, held at Stanford in November 2023, Nell called for a 'campaign plan' to force greater transparency and a 'Manhattan project' to reverse engineer recovered UAP. His presented slides set a disclosure target of October 1, 2030, acknowledged schedule risk, and listed the intended outcomes: 'Proper Oversight Restored,' 'Catastrophic Disclosure Avoid[ed],' and 'Scientific Understanding Advanced.' The operative line is his advocacy for 'restoration of proper Federal government oversight over all UAP legacy (and ongoing) program efforts.' The word 'restoration' presupposes that oversight was lost. The words 'legacy (and ongoing)' presuppose a continuous programme lineage.\n\nNell's credentials are not in dispute. He was the Army's liaison for the UAP Task Force from 2021 to 2022, working alongside Grusch. Lieutenant General Laura A. Potter, Deputy Chief of Staff for Intelligence, Headquarters, Department of the Army, described him in a 2022 performance evaluation as 'an officer with the strongest possible moral compass.' His most recent listed position was Modernization Advisor to the Vice Chief of Staff of the Army.\n\nThe second proponent is Hal Puthoff, the former CIA-affiliated physicist, who told the same Stanford symposium that in 2004 a CIA think tank, the Defense Intelligence Agency and the Pentagon broadly agreed that information about UFOs should not be declassified, deeming the societal risks too great. This is a reported claim about an unproduced 2004 decision, and it is tiered accordingly -- but note its structural role: it supplies a mechanism and a date for the maintenance of secrecy in the modern era rather than its origin.\n\nThe third is Grusch, who framed the same object financially and temporally: a 'publicly unknown Cold War for recovered and exploited physical material,' an 'eighty-year arms race' whose continuation in secrecy 'further inhibits the world populace to be prepared for an unexpected, non-human intelligence contact scenario.' The fourth is Jonathan Grey of the National Air and Space Intelligence Center at Wright-Patterson, who said on the record that 'the existence of complex historical programs involving the coordinated retrieval and study of exotic materials, dating back to the early 20th century, should no longer remain a secret.' The fifth is Christopher Mellon, who said officials had shared with him 'insights into the history, governing documents and the location where a craft was allegedly abandoned and recovered' -- governing documents being the phrase an analyst should mark.\n\nThe Department's counter-narrative is the KONA BLUE file, and it deserves close reading because it concedes more than it intends. AARO reports that multiple interviewees identified KONA BLUE as 'a Department of Homeland Security (DHS) sensitive compartment established to protect the retrieval and exploitation of \"non-human biologics.\"' AARO's correction is that KONA BLUE was a Prospective Special Access Program proposed to DHS leadership, never approved, never funded, never in receipt of material. But AARO also states that in 2011 the DHS Under Secretary for Science and Technology did establish KONA BLUE as a PSAP, citing claims that relevant information and material existed and required that level of protection, and citing congressional interest and possible homeland security impacts; and that six months later the Deputy Secretary of DHS disapproved it as a SAP and directed immediate termination over the adequacy of justification and the sufficiency of information including personnel and budget requirements. So: a Cabinet department stood up a protective compartment on the represented existence of retrieved non-human material, and a Deputy Secretary killed it. That is an architecture attempting to form and being caught mid-formation.\n\nAARO traces the proposal's lineage to AAWSAP/AATIP, managed by DIA from 2009 to 2012, funded through congressional earmarks, with Bigelow Aerospace of Nevada as prime contractor. And AARO separately concedes: 'In 2021, without sufficient justification, the scope of an IC Controlled Access Program was expanded to protect UAP reverse-engineering.'\n\nAARO's overall verdict is flat: 'AARO found no empirical evidence for claims that the USG and private companies have been reverse-engineering extraterrestrial technology,' the narrative being 'in large part, the result of circular reporting from a group of individuals who believe this to be the case,' and 'all the authentic programs have been properly notified and reported to Congress.' AARO also reports that executives, scientists and chief technology officers of the named companies met the Director of AARO and 'denied on the record that they have ever recovered, possessed, or engaged in reverse-engineering of extraterrestrial technology.' Those denials are artifacts with dates and signatories, and they are the most specific corporate denials on the record.",
+"openQuestions": [
+"Whether any charter, directive or governing document for a legacy retrieval and reverse-engineering effort exists, and whether Mellon's 'governing documents' refers to documents he has seen or has been told about.",
+"The identity of the 2004 CIA think tank Puthoff says participated in a decision not to declassify, and whether any record of that deliberation exists.",
+"Which companies were named to AARO by interviewees and whose executives then denied on the record -- AARO does not name them.",
+"Whether the KONA BLUE PSAP proposal identified specific holders of the material it was designed to protect, and what the DHS Under Secretary was shown in 2011 to justify establishing it.",
+"Whether Nell's October 1, 2030 disclosure timeline was his own construct or reflected an actual programme milestone he had been briefed on.",
+"How AARO reconciles its finding that 'all the authentic programs have been properly notified' with its own admission that a 2021 IC Controlled Access Program was expanded 'without sufficient justification.'"
+],
+"roles": [
+"reverse-engineering",
+"concealment",
+"funding",
+"research"
+],
+"whatItIs": "An alleged secrecy and industrial architecture -- not an established one -- in which a legacy U.S. materials-retrieval and reverse-engineering effort is said to have been run since the 1940s on the organisational model of the Manhattan Project: extreme compartmentalisation, industrial-scale contractor execution, and funding and reporting arrangements that keep the effort outside normal congressional visibility. The label is used descriptively by named proponents, chiefly retired Army Colonel Karl E. Nell, who has publicly called for an open 'Manhattan project' to reverse engineer recovered UAP precisely because he asserts a closed one already exists.",
+"whyImplicated": "This is the organising hypothesis that makes the rest of the board cohere, and it must be tiered honestly: the architecture's existence is a Tier 3 allegation carried by named, credentialed proponents, not a documented fact. What raises it above rumour is the specificity and the seniority of who says it. Nell was the Army's liaison officer to the UAP Task Force from 2021 to 2022 and later Modernization Advisor to the Vice Chief of Staff of the Army; he asserted on the record that an eighty-year sub-rosa arms race focused on reverse engineering technologies of unknown origin is 'fundamentally correct,' and he presented a dated campaign plan with an October 1, 2030 disclosure target and the explicit objective of restoring 'proper Federal government oversight over all UAP legacy (and ongoing) program efforts.' A serving-adjacent officer does not build a slide deck to restore oversight over programs he believes are imaginary. The Department's own rebuttal, meanwhile, concedes the shape of the thing while denying its content: AARO acknowledges a prospective DHS special access program built to protect the retrieval and exploitation of 'non-human biologics,' and a 2021 IC controlled access program expanded without sufficient justification to protect UAP reverse-engineering."
+},
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [
+3
+],
+"requests": [
+{
+"agency": "DHS",
+"partial": [],
+"questions": [
+3
+],
+"request": "F6",
+"sendTo": "Department of Homeland Security, Science and Technology Directorate FOIA Office, 245 Murray Lane SW, Washington DC 20528. Cross-file with the DHS Privacy Office FOIA unit, which processed the original KONA BLUE package.",
+"status": "not filed",
+"title": "DHS - KONA BLUE enclosures and the Lute-tasked provenance paper"
+}
+]
+},
+"hl": null,
+"id": "manhattan-project-2",
+"l0": true,
+"label": "'Manhattan Project 2.0' (alleged secrecy architecture)",
+"locLabel": null,
+"members": [
+{
+"cls": "legislation",
+"id": "atomic-energy-act-1946",
+"label": "Atomic Energy Act of 1946 (McMahon Act)",
+"tier": "B"
+},
+{
+"cls": "domain",
+"id": "d-structure",
+"label": "Program structure and organisational mapping",
+"tier": "C"
+},
+{
+"cls": "domain",
+"id": "ffrdc-mechanism",
+"label": "The FFRDC / UARC / GOCO mechanism",
+"tier": "B"
+},
+{
+"cls": "document",
+"id": "gerb-sandia-investigation",
+"label": "UAP Gerb - Sandia National Laboratories investigation",
+"tier": "C"
+},
+{
+"cls": "person",
+"id": "uap-gerb",
+"label": "'UAP Gerb' (Sam)",
+"tier": "A"
+}
+],
+"short": "'Manhattan Project 2.0' (alleged secrecy architecture)",
+"sources": [
+{
+"date": "2026-05-01",
+"name": "UAP Gerb - 'The Manhattan Project 2.0' Vol.1",
+"url": "https://www.youtube.com/watch?v=jR-h5p2bd-A"
+},
+{
+"date": "2026-06-19",
+"name": "UAP Gerb - 'Special Access Required' Vol.2",
+"url": "https://www.youtube.com/watch?v=6MsmPrpQqa8"
+}
+],
+"sub": "Alleged 1947-present secrecy construct",
+"tier": "A",
+"tierRationale": "Re-graded A on a global pass (rank 87 of 1027, score 67). 10 connections, 7 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D3.",
+"timeline": [
+{
+"date": "1994-01-01",
+"id": "ms-cv-1994-sap",
+"label": "The 1994 SAP restructuring",
+"precision": "year",
+"strand": "coverup",
+"text": "Gerb argues the Special Access Program enterprise was restructured in 1994 to gatekeep US government access and vest permanent control of the portfolio in a quasi-industry and government control group - the moment, on this account, at which the government ceased to be the controlling party in its own programme.",
+"tier": "B"
+},
+{
+"date": "2026-05-01",
+"id": "ms-2026-mp2",
+"label": "Gerb publishes 'Manhattan Project 2.0' Vol.1",
+"precision": "day",
+"strand": "program",
+"text": "The origin argument: a 1947 centralized effort borrowing the Manhattan Project's secrecy wholesale, AEC custody, the NSC 5412 Committee, the Atomic Energy Act of 1954, Vannevar Bush and George C. Marshall's Alsos Missions and T-Force.",
+"tier": "A"
+},
+{
+"date": "2026-06-19",
+"id": "ms-2026-sar",
+"label": "Gerb publishes 'Special Access Required' Vol.2",
+"precision": "day",
+"strand": "program",
+"text": "The legal-mechanism argument: the 1994 SAP restructuring, and the claim that the portfolio hides in 'Non-Covert Action Programs' with managed need-to-know access and completely waived reporting and budgetary requirements.",
+"tier": "A"
+}
+]
+}

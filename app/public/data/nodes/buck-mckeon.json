@@ -1,0 +1,144 @@
+{
+"A": 1,
+"C": 2,
+"D": 3,
+"affiliations": [],
+"age": null,
+"band": null,
+"chronology": [],
+"claims": [
+{
+"source": "https://democrats-armedservices.house.gov/2009/6/skelton-congratulates-congressman-mckeon--new-hasc-ranking-member",
+"text": "A House Armed Services Committee statement dated 16 June 2009 records that 'the House Republican Conference selected Congressman Howard P. \"Buck\" McKeon (R-CA) to serve as the Ranking Member of the House Armed Services Committee' and congratulates him 'on his election as the Ranking Member.'",
+"tier": 1
+},
+{
+"source": "https://www.govinfo.gov/content/pkg/CDIR-2009-12-01/html/CDIR-2009-12-01-HOUSECOMMITTEES.htm",
+"text": "The December 2009 Congressional Directory records Howard P. 'Buck' McKeon as the senior Republican on the House Armed Services Committee, consistent with a June 2009 succession.",
+"tier": 1
+},
+{
+"source": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim",
+"text": "The chairman and ranking minority member of the House Armed Services Committee are among the twelve offices entitled under 10 U.S.C. 119(e)(2) to receive information withheld from a section 119 report and the Secretary of Defense's justification for the waiver.",
+"tier": 1
+}
+],
+"cls": "person",
+"cluster": "oversight",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2009-06-16",
+"direction": "out",
+"edgeLabel": "House Armed Services leadership, 2009-2015",
+"id": "oversight-congress",
+"l0": true,
+"label": "Congressional oversight of special access programs",
+"note": "Occupied one of the two House authorising seats in the section 119 channel across a change of party control, moving from ranking member to chairman without leaving the group.",
+"sources": [
+{
+"date": null,
+"name": "https://democrats-armedservices.house.gov/2009/6/skelton-congratulates-congressman-mckeon--new-hasc-ranking-member",
+"url": "https://democrats-armedservices.house.gov/2009/6/skelton-congratulates-congressman-mckeon--new-hasc-ranking-member"
+},
+{
+"date": "2026-08-22",
+"name": "10 U.S.C. 119(e)(2) and (g) (OLRC prelim text, read 22 August 2026)",
+"url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2009-06-16",
+"direction": "out",
+"edgeLabel": "Ranking Member then Chairman, House Armed Services Committee",
+"id": "waived-sap-notification-group",
+"l0": true,
+"label": "Waived SAP Notification Group",
+"note": "Entered the twelve-member group on his election as ranking member, announced by the committee chairman on 16 June 2009, and remained in it as chairman through the 112th and 113th Congresses to January 2015. Longest continuous House Armed Services occupancy of a 119(e)(2) seat in the 2009-2015 window the board's current-holder roster does not cover.",
+"sources": [
+{
+"date": null,
+"name": "https://democrats-armedservices.house.gov/2009/6/skelton-congratulates-congressman-mckeon--new-hasc-ranking-member",
+"url": "https://democrats-armedservices.house.gov/2009/6/skelton-congratulates-congressman-mckeon--new-hasc-ranking-member"
+},
+{
+"date": null,
+"name": "https://www.govinfo.gov/content/pkg/CDIR-2009-12-01/html/CDIR-2009-12-01-HOUSECOMMITTEES.htm",
+"url": "https://www.govinfo.gov/content/pkg/CDIR-2009-12-01/html/CDIR-2009-12-01-HOUSECOMMITTEES.htm"
+},
+{
+"date": null,
+"name": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim",
+"url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim"
+},
+{
+"date": "2026-08-22",
+"name": "U.S. Senate, Dates of Sessions of the Congress (convening dates used to date each seat)",
+"url": "https://www.senate.gov/legislative/DatesofSessionsofCongress.htm"
+}
+],
+"tier": "A",
+"type": "institutional"
+}
+],
+"date": "2009-06-16",
+"dateEnd": null,
+"dateStart": "2009-06-16",
+"deg": 2,
+"denials": [],
+"domains": [
+"w10-notification-gaps"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "2",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "buck-mckeon",
+"instId": null,
+"l0": false,
+"label": "Howard P. \"Buck\" McKeon",
+"loc": null,
+"locId": null,
+"members": null,
+"narrative": "McKeon succeeded John McHugh in the House Armed Services ranking seat in June 2009 and thereby entered the twelve-member group designated by 10 U.S.C. 119(e)(2). The date is fixed by the committee's own record: Chairman Ike Skelton issued a statement dated 16 June 2009 congratulating McKeon 'on his election as the Ranking Member of the House Armed Services Committee' following his selection by the House Republican Conference, and noted that the full committee was marking up the annual defense authorization bill that same day. This closes the board's open question about the 2009 House Armed Services succession, and it closes it in a direction that matters: the handover happened in June 2009, not in September when McHugh resigned his seat to become Secretary of the Army. Any claim tied to a specific 2009 date should use McHugh for the first half of the year and McKeon for the second. McKeon's entitlement did not end there. He chaired the House Armed Services Committee across the 112th and 113th Congresses, so he occupied a 119(e)(2) seat from June 2009 continuously into January 2015 - first as ranking member, then as chairman. That is a five-and-a-half-year sight line into whatever waived DoD special access program material the Secretary of Defense chose to route through the section 119 channel, spanning the entire period between the Reid SAP request and the establishment of the Advanced Aerospace Threat Identification Program's successor arrangements. McKeon has no publicly documented UAP-specific record, and the absence is structurally expected rather than exculpatory. Section 119 gives the twelve recipients no staff-sharing right in the statute, no route to brief colleagues, and no sunset that would eventually force the material into wider committee view. On this board McKeon is best treated as a long-duration entitlement node covering the 2009-2015 window that the current-holder roster does not reach.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Howard P. \"Buck\" McKeon",
+"sources": [
+{
+"date": null,
+"name": "https://democrats-armedservices.house.gov/2009/6/skelton-congratulates-congressman-mckeon--new-hasc-ranking-member",
+"url": "https://democrats-armedservices.house.gov/2009/6/skelton-congratulates-congressman-mckeon--new-hasc-ranking-member"
+},
+{
+"date": null,
+"name": "https://www.govinfo.gov/content/pkg/CDIR-2009-12-01/html/CDIR-2009-12-01-HOUSECOMMITTEES.htm",
+"url": "https://www.govinfo.gov/content/pkg/CDIR-2009-12-01/html/CDIR-2009-12-01-HOUSECOMMITTEES.htm"
+},
+{
+"date": null,
+"name": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim",
+"url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim"
+}
+],
+"status": "active",
+"sub": "Ranking Member, House Armed Services Committee, from 16 June 2009; Chairman of the same committee in the 112th and 113th Congresses, January 2011 to January 2015",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 519 of 1027, score 28). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A1/D3.",
+"timeline": [],
+"unexplainedResidual": null,
+"unverified": []
+}

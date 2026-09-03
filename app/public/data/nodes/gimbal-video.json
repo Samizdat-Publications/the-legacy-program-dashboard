@@ -1,0 +1,108 @@
+{
+"A": 1,
+"C": 1,
+"D": 3,
+"band": null,
+"claims": [
+{
+"source": "DoD statement on the release of historical Navy videos, 27 April 2020",
+"text": "GIMBAL was filmed in January 2015 and released by DoD on 27 April 2020 with the phenomena 'characterized as unidentified.'",
+"tier": 1
+},
+{
+"source": "AARO SASC open hearing case slides, 19 November 2024",
+"text": "AARO's SASC case slides of 19 November 2024 present assessments of Aguadilla (2013), GO FAST (2015) and Mt Etna (2018); they do not include a GIMBAL case.",
+"tier": 1
+}
+],
+"cls": "document",
+"cluster": "other",
+"connections": [
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": "2020",
+"dateStart": "2015",
+"direction": "out",
+"edgeLabel": "January 2015 ATFLIR artefact from the same operating environment",
+"id": "roosevelt-2014-2015",
+"l0": true,
+"label": "USS Theodore Roosevelt Encounters (2014-2015)",
+"note": "DoD released GIMBAL on 27 April 2020 as authentic and unidentified; AARO's published case slides contain no GIMBAL assessment.",
+"sources": [
+{
+"date": "2020-04-27",
+"name": "DoD statement releasing the three Navy videos",
+"url": "https://www.war.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/"
+},
+{
+"date": "2024-11-19",
+"name": "AARO - SASC open hearing case slides (PDF)",
+"url": "https://www.aaro.mil/Portals/136/PDFs/SASC_AARO_Open_Hearing_Case_Slides_19Nov2024.pdf"
+}
+],
+"tier": "B",
+"type": "custody"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "2015",
+"deg": 1,
+"denials": [],
+"desc": "One of two January 2015 ATFLIR recordings from the Atlantic operating areas that the Department of Defense formally released on 27 April 2020 as authentic and 'unidentified.' GIMBAL is the video in which the object appears to rotate about its own axis while tracking against the wind, and in which aircrew audio records the crews' own reaction. It comes out of the same operating environment and the same period as Ryan Graves's VFA-11 encounters off Virginia Beach, and the same month as the Fleet Forces Command 'URGENT SAFETY OF FLIGHT ISSUE' message that Tim Gallaudet testified was recalled from all recipients' accounts within a day. AARO's public case work at the 19 November 2024 SASC hearing addressed GO FAST, Aguadilla and Mt Etna; the released case slides do not include a GIMBAL assessment. The video's status is therefore unchanged since April 2020: authenticated by the Department, unexplained by it.",
+"domains": [
+"_rs-archive-mirror",
+"aviators-incidents"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "2",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "gimbal-video",
+"l0": false,
+"label": "GIMBAL (Navy ATFLIR video, January 2015)",
+"locLabel": null,
+"members": null,
+"short": "GIMBAL (Navy ATFLIR video, January 2015)",
+"sources": [
+{
+"date": "2026-08-02",
+"name": "Archived: DoD statement releasing the three Navy videos (Wayback 2026-08-02)",
+"url": "https://web.archive.org/web/20260802200608/https://www.war.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/"
+},
+{
+"date": "2026-05-08",
+"name": "Archived: AARO - SASC open hearing case slides (PDF) (Wayback 2026-05-08)",
+"url": "https://web.archive.org/web/20260508180204/https://www.aaro.mil/Portals/136/PDFs/SASC_AARO_Open_Hearing_Case_Slides_19Nov2024.pdf"
+},
+{
+"date": "2020-04-27",
+"name": "DoD statement releasing the three Navy videos",
+"url": "https://www.war.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/"
+},
+{
+"date": "2024-11-19",
+"name": "AARO - SASC open hearing case slides (PDF)",
+"url": "https://www.aaro.mil/Portals/136/PDFs/SASC_AARO_Open_Hearing_Case_Slides_19Nov2024.pdf"
+}
+],
+"sub": "Officially released DoD UAP video",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 668 of 1027, score 23). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A1/D3.",
+"timeline": [
+{
+"date": "2015-01-01",
+"id": "av-2015-01-gimbal",
+"label": "GIMBAL and GO FAST recorded",
+"precision": "month",
+"strand": "program",
+"text": "Two ATFLIR recordings are made in the Atlantic operating areas; both are formally released by DoD five years later as authentic and unidentified.",
+"tier": "A"
+}
+]
+}

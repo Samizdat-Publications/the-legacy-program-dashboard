@@ -1,0 +1,92 @@
+{
+"A": 0,
+"C": 0,
+"D": 3,
+"band": null,
+"claims": [
+{
+"source": "Episode description, 11 January 2026",
+"text": "American Alchemy's 11 January 2026 episode with UAP Gerb frames the effort as 'not one program' but 'a layered, compartmentalized system that grew out of the Manhattan Project, the Atomic Energy Commission, and Cold War intelligence structures.'",
+"tier": 2
+},
+{
+"source": "YouTube view counts retrieved 12 August 2026 — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"text": "The 30 January 2025 Jake Barber episode has 1,010,989 views; the 11 January 2026 UAP Gerb episode 514,729; the 8 March 2026 Weinstein/Davis episode 766,314; the 21 February 2025 UAP Gerb episode 450,091; the 14 November 2024 Shellenberger episode 203,593.",
+"tier": 2
+}
+],
+"cls": "program",
+"cluster": "media",
+"connections": [
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2026",
+"dateStart": "2021",
+"direction": "in",
+"edgeLabel": "Creator and host",
+"id": "jesse-michels",
+"l0": false,
+"label": "Jesse Michels",
+"note": "American Alchemy is Michels' series and the venue for every episode in this domain.",
+"sources": [
+{
+"date": "2026-01-11",
+"name": "American Alchemy - 'The Pentagon's UFO Program Is Real [Here's How It Works!]'",
+"url": "https://www.youtube.com/watch?v=u7g5Sn1DJF4"
+}
+],
+"tier": "B",
+"type": "institutional"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "2021",
+"deg": 1,
+"denials": [],
+"desc": "American Alchemy is Jesse Michels' YouTube interview series and, since 2024, the single most important venue in which the alleged legacy program's structure has been laid out publicly at length. Its format is the mechanism: three- and four-hour unedited sessions, published with full timestamped chapter lists that function as retrievable indexes of structural claims. The series broke Jake Barber's crash-retrieval account to over a million viewers on 30 January 2025, hosted Michael Shellenberger the day after he delivered the Immaculate Constellation report to Congress, gave UAP Gerb two multi-hour platforms in February 2025 and January 2026, and on 8 March 2026 put Eric Davis and Eric Weinstein in a room together for four hours covering the Wilson-Davis memo. Its audience is not marginal - individual episodes run from 200,000 to over a million views - and its output is now cited by NewsNation and by the researchers it platforms. The series is monetised through consumer sponsorships, a Substack magazine, merchandise and a Whop membership, which is worth recording plainly: this is a commercial media business whose product is structural allegation, and that commercial incentive is a real analytic caveat, not a disqualifier.",
+"domains": [
+"media-structure"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "american-alchemy",
+"l0": false,
+"label": "American Alchemy",
+"locLabel": null,
+"members": null,
+"short": "American Alchemy",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "American Alchemy - channel feed",
+"url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCuG2KzrIMe3qoNcuDVpwnXw"
+},
+{
+"date": "2026-01-11",
+"name": "American Alchemy - structural episode",
+"url": "https://www.youtube.com/watch?v=u7g5Sn1DJF4"
+}
+],
+"sub": "Independent long-form interview series",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 967 of 1027, score 11). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.",
+"timeline": [
+{
+"date": "2025-01-30",
+"id": "ms-2025-barber",
+"label": "Michels breaks Jake Barber",
+"precision": "day",
+"strand": "witness",
+"text": "American Alchemy publishes Jake Barber's account of helicopter-borne craft retrieval; 1,010,989 views. An independent YouTube channel breaks a crash-retrieval whistleblower to a million people.",
+"tier": "A"
+}
+]
+}

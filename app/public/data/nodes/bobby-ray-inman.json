@@ -1,0 +1,191 @@
+{
+"A": 3,
+"C": 1,
+"D": 1,
+"affiliations": [],
+"age": null,
+"band": null,
+"chronology": [],
+"claims": [
+{
+"source": "Nomination of Admiral B.R. Inman, hearing before the Senate Select Committee on Intelligence, 97th Congress 1st session, 3 February 1981, GPO print 74-227 O, https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-hearings-97inman.pdf",
+"text": "He gave his own career to the Senate: 'Subsequent assignments included service as the fleet intelligence officer on the staff of the commander, 7th Fleet; attendance at the National War College; executive assistant and senior aide to the Vice Chief of Naval Operations; assistant chief of staff for intelligence to the commander in chief, U.S. Pacific Fleet; Director of Naval Intelligence; and Vice Director for Plans, Operations, and Support of the Defense Intelligence Agency.'",
+"tier": 1
+},
+{
+"source": "Nomination of Admiral B.R. Inman, Senate Select Committee on Intelligence, 3 February 1981, https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-hearings-97inman.pdf",
+"text": "He dates the NSA directorship himself and states the nomination: 'since July 5, 1977, I have had the pleasure of serving as Director, National Security Agency', and 'I have been nominated by the President to serve as the Deputy Director of Central Intelligence.'",
+"tier": 1
+},
+{
+"source": "Science Applications International Corporation, DEF 14A filed 28 May 2003, SEC EDGAR accession 0001047469-03-019902, https://www.sec.gov/Archives/edgar/data/353394/000104746903019902/a2110788zdef14a.htm",
+"text": "SAIC's own proxy records the relationship: 'B.R. Inman, age 72, Director, Director since 1982. Admiral Inman, USN (Ret.) joined the Company in 1990 as a part-time employee and, in that capacity, advises the Company on a wide variety of strategic planning issues.' He is listed as Chairperson of the Executive Committee and a member of the Nominating Committee, and received $132,129 of compensation under the part-time employee arrangement in fiscal 2003.",
+"tier": 1
+},
+{
+"source": "Science Applications International Corporation, DEF 14A filed 28 May 2003, SEC EDGAR accession 0001047469-03-019902, https://www.sec.gov/Archives/edgar/data/353394/000104746903019902/a2110788zdef14a.htm",
+"text": "He did not head SAIC. The same proxy names 'J.R. Beyster, age 78, Chairman of the Board, Chief Executive Officer and President, Director since 1969' and records that Beyster 'founded the Company in 1969 and has served as Chairman of the Board and Chief Executive Officer since that time'. The Michels corpus at corpus 12 file 3, 0:19:28 says Inman headed SAIC; the company's own proxy statement contradicts it.",
+"tier": 1
+},
+{
+"source": "SEC Form 4, EDGAR accession 0001082875-03-000004, filed 14 April 2003, https://www.sec.gov/Archives/edgar/data/353394/000108287503000004/inm259.htm",
+"text": "The directorship is independently on file as a Section 16 insider report: SEC Form 4 for INMAN, BOBBY R, statement for 10 April 2003, issuer Science Applications International Corporation, with the 'Director' box checked and 'Form filed by One Reporting Person'.",
+"tier": 1
+}
+],
+"cls": "person",
+"cluster": "other",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "1982",
+"dateStart": "1981",
+"direction": "out",
+"edgeLabel": "Nominated and heard as Deputy Director of Central Intelligence, 3 February 1981",
+"id": "cia",
+"l0": true,
+"label": "Central Intelligence Agency",
+"note": "Nominated and heard on 3 February 1981 to be Deputy Director of Central Intelligence, the post SAIC's own proxy later lists among his government service.",
+"sources": [
+{
+"date": "1981-02-03",
+"name": "Nomination of Admiral B.R. Inman to be Deputy Director of Central Intelligence, Senate Select Committee on Intelligence, 3 February 1981",
+"url": "https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-hearings-97inman.pdf"
+},
+{
+"date": "2003-05-28",
+"name": "Science Applications International Corporation definitive proxy statement (DEF 14A), 28 May 2003",
+"url": "https://www.sec.gov/Archives/edgar/data/353394/000104746903019902/a2110788zdef14a.htm"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "1977",
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "Vice Director for Plans, Operations and Support of DIA",
+"id": "dia",
+"l0": true,
+"label": "Defense Intelligence Agency",
+"note": "Vice Director for Plans, Operations and Support of the Defense Intelligence Agency before the NSA directorship, in his own testimony.",
+"sources": [
+{
+"date": "1981-02-03",
+"name": "Nomination of Admiral B.R. Inman to be Deputy Director of Central Intelligence, Senate Select Committee on Intelligence, 3 February 1981",
+"url": "https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-hearings-97inman.pdf"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "1981",
+"dateStart": "1977-07-05",
+"direction": "out",
+"edgeLabel": "Director of the National Security Agency from 5 July 1977",
+"id": "nsa",
+"l0": true,
+"label": "National Security Agency",
+"note": "Director of the National Security Agency from 5 July 1977, stated by him under oath at his 1981 confirmation hearing.",
+"sources": [
+{
+"date": "1981-02-03",
+"name": "Nomination of Admiral B.R. Inman to be Deputy Director of Central Intelligence, Senate Select Committee on Intelligence, 3 February 1981",
+"url": "https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-hearings-97inman.pdf"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "1982",
+"direction": "out",
+"edgeLabel": "Director of SAIC since 1982 and a paid part-time employee since 1990",
+"id": "saic",
+"l0": false,
+"label": "Science Applications International Corporation",
+"note": "Director of SAIC since 1982 and a paid part-time employee advising on strategic planning since 1990, per the company's 2003 proxy statement, which also names J. R. Beyster and not Inman as Chairman, Chief Executive Officer and President.",
+"sources": [
+{
+"date": "2003-05-28",
+"name": "Science Applications International Corporation definitive proxy statement (DEF 14A), 28 May 2003",
+"url": "https://www.sec.gov/Archives/edgar/data/353394/000104746903019902/a2110788zdef14a.htm"
+},
+{
+"date": "2003-04-14",
+"name": "SEC Form 4, Bobby R. Inman, Science Applications International Corporation, 10 April 2003",
+"url": "https://www.sec.gov/Archives/edgar/data/353394/000108287503000004/inm259.htm"
+}
+],
+"tier": "C",
+"type": "institutional"
+}
+],
+"date": "1981-02-03",
+"dateEnd": null,
+"dateStart": "1981-02-03",
+"deg": 4,
+"denials": [],
+"domains": [
+"michels-2026-09-02"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "1",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "bobby-ray-inman",
+"instId": "nsa",
+"l0": false,
+"label": "Adm. Bobby Ray Inman",
+"loc": "Washington, DC",
+"locId": "l-dc",
+"members": null,
+"narrative": "The documented officeholder who joins three institutions the board already carries and nothing currently connects through a person: NSA, CIA and SAIC. He told the Senate Select Committee on Intelligence on 3 February 1981 that he had been Director of Naval Intelligence, Vice Director for Plans, Operations and Support of the Defense Intelligence Agency, and Director of the National Security Agency since 5 July 1977, and he was there to be confirmed as Deputy Director of Central Intelligence. He joined SAIC's board in 1982, the year he retired from the Navy, and from 1990 was also a paid part-time employee of the company advising it on strategic planning while chairing its Executive Committee. He did not head SAIC: the transcript at corpus 12 file 3, 0:19:28 says he did, and SAIC's own 2003 proxy statement names J. R. Beyster as Chairman of the Board, Chief Executive Officer and President. That correction is the finding this node carries. He is on the board for the career, which is a single traceable line from signals intelligence to the deputy directorship of the CIA to the boardroom of the government's most sensitive technical services house. He is not on it for the anecdotes attached to him in the podcast corpus, none of which produced an artefact.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Adm. Bobby Ray Inman",
+"sources": [
+{
+"date": "1981-02-03",
+"name": "Nomination of Admiral B.R. Inman to be Deputy Director of Central Intelligence, Senate Select Committee on Intelligence, 3 February 1981",
+"url": "https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-hearings-97inman.pdf"
+},
+{
+"date": "2003-05-28",
+"name": "Science Applications International Corporation definitive proxy statement (DEF 14A), 28 May 2003",
+"url": "https://www.sec.gov/Archives/edgar/data/353394/000104746903019902/a2110788zdef14a.htm"
+},
+{
+"date": "2003-04-14",
+"name": "SEC Form 4, Bobby R. Inman, Science Applications International Corporation, 10 April 2003",
+"url": "https://www.sec.gov/Archives/edgar/data/353394/000108287503000004/inm259.htm"
+}
+],
+"status": "former",
+"sub": "Director, National Security Agency 1977-1981; Deputy Director of Central Intelligence 1981-1982; Director of SAIC from 1982",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 350 of 1027, score 34). 4 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A3/D1.",
+"timeline": [],
+"unexplainedResidual": null,
+"unverified": [
+"A recorded call in which Inman discussed UFOs with the researcher Bob Oechsler. No recording, transcript or date was opened.",
+"A cold call in which Inman denied knowledge of Andrija Puharich or Bob Beck. This is a documentary maker's account of his own telephone call and there is no artefact to grade.",
+"A video in which Inman refers to a National Underwater Reconnaissance Office. The recording was not located in this pass.",
+"That SAIC moved into psychotronic research and psychotronic weaponry under SDI funding. Not established by anything opened."
+]
+}

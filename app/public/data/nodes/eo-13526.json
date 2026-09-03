@@ -1,0 +1,447 @@
+{
+"A": 3,
+"C": 0,
+"D": 3,
+"band": "oversight",
+"claims": [
+{
+"source": "https://www.govinfo.gov/content/pkg/FR-2010-01-05/html/E9-31418.htm",
+"text": "Sec. 4.3(a) verbatim: 'Unless otherwise authorized by the President, only the Secretaries of State, Defense, Energy, and Homeland Security, the Attorney General, and the Director of National Intelligence, or the principal deputy of each, may create a special access program. For special access programs pertaining to intelligence sources, methods, and activities (but not including military operational, strategic, and tactical programs), this function shall be exercised by the Director of National Intelligence. These officials shall keep the number of these programs at an absolute minimum, and shall establish them only when the program is required by statute or upon a specific finding that: (1) the vulnerability of, or threat to, specific information is exceptional; and (2) the normal criteria for determining eligibility for access applicable to information classified at the same level are not deemed sufficient to protect the information from unauthorized disclosure.'",
+"tier": 1
+},
+{
+"source": "https://www.govinfo.gov/content/pkg/FR-2010-01-05/html/E9-31418.htm",
+"text": "Sec. 4.3(b)(1)-(2) verbatim: 'Special access programs shall be limited to programs in which the number of persons who ordinarily will have access will be reasonably small and commensurate with the objective of providing enhanced protection for the information involved. ... Each agency head shall establish and maintain a system of accounting for special access programs consistent with directives issued pursuant to this order.'",
+"tier": 1
+},
+{
+"source": "https://www.govinfo.gov/content/pkg/FR-2010-01-05/html/E9-31418.htm",
+"text": "THE ISOO ACCESS CAP. Sec. 4.3(b)(3) verbatim: 'Special access programs shall be subject to the oversight program established under section 5.4(d) of this order. In addition, the Director of the Information Security Oversight Office shall be afforded access to these programs, in accordance with the security requirements of each program, in order to perform the functions assigned to the Information Security Oversight Office under this order. An agency head may limit access to a special access program to the Director of the Information Security Oversight Office and no more than one other employee of the Information Security Oversight Office or, for special access programs that are extraordinarily sensitive and vulnerable, to the Director only.' The executive-branch oversight body for the entire classification system can lawfully be reduced to a single individual for the most sensitive SAPs.",
+"tier": 1
+},
+{
+"source": "https://www.govinfo.gov/content/pkg/FR-2010-01-05/html/E9-31418.htm",
+"text": "Sec. 4.3(b)(4)-(5) verbatim: 'The agency head or principal deputy shall review annually each special access program to determine whether it continues to meet the requirements of this order. ... Upon request, an agency head shall brief the National Security Advisor, or a designee, on any or all of the agency's special access programs.' Note the National Security Advisor briefing is on request only, not automatic.",
+"tier": 1
+},
+{
+"source": "https://www.govinfo.gov/content/pkg/FR-2010-01-05/html/E9-31418.htm",
+"text": "Sec. 4.3(b)(6) verbatim: \"For the purposes of this section, the term ``agency head'' refers only to the Secretaries of State, Defense, Energy, and Homeland Security, the Attorney General, and the Director of National Intelligence, or the principal deputy of each.\" SAP creation authority cannot be delegated below the deputy-secretary level.",
+"tier": 1
+},
+{
+"source": "https://www.govinfo.gov/content/pkg/FR-2010-01-05/html/E9-31418.htm",
+"text": "Sec. 4.3(c) verbatim, in its entirety: 'Nothing in this order shall supersede any requirement made by or under 10 U.S.C. 119.' The executive order expressly subordinates itself to the statutory SAP oversight scheme, including the section 119(e) waiver.",
+"tier": 1
+},
+{
+"source": "https://www.govinfo.gov/content/pkg/FR-2010-01-05/html/E9-31418.htm",
+"text": "Sec. 6.1(oo) verbatim: \"``Special access program'' means a program established for a specific class of classified information that imposes safeguarding and access requirements that exceed those normally required for information at the same classification level.\"",
+"tier": 1
+},
+{
+"source": "https://www.govinfo.gov/content/pkg/FR-2010-01-05/html/E9-31418.htm",
+"text": "Sec. 1.7(a) verbatim: 'In no case shall information be classified, continue to be maintained as classified, or fail to be declassified in order to: (1) conceal violations of law, inefficiency, or administrative error; (2) prevent embarrassment to a person, organization, or agency; (3) restrain competition; or (4) prevent or delay the release of information that does not require protection in the interest of the national security.' Sec. 1.7(b): 'Basic scientific research information not clearly related to the national security shall not be classified.'",
+"tier": 1
+},
+{
+"source": "https://www.govinfo.gov/content/pkg/FR-2010-01-05/html/E9-31418.htm",
+"text": "Sec. 1.7(a)(1) and 1.7(b) are the two provisions a whistleblower alleging an illegally concealed recovery program would invoke: (a)(1) makes classification to conceal a violation of law impermissible on its face, and (b) makes classification of basic scientific research not clearly related to national security impermissible. Neither carries an enforcement mechanism inside the order; the only remedy channel is the sec. 5.3 ISCAP / agency appeal process or the intelligence-community whistleblower statutes. Reasoning stated from the text.",
+"tier": 3
+},
+{
+"source": "EO 13526 sec. 4.3(a), 75 FR 707, https://www.govinfo.gov/content/pkg/FR-2010-01-05/html/E9-31418.htm",
+"text": "EO 13526 sec. 4.3(a): 'Unless otherwise authorized by the President, only the Secretaries of State, Defense, Energy, and Homeland Security, the Attorney General, and the Director of National Intelligence, or the principal deputy of each, may create a special access program.' For programmes pertaining to intelligence sources and methods, but not military operational, strategic and tactical programmes, the function is the DNI's.",
+"tier": 1
+},
+{
+"source": "EO 13526 sec. 4.3(a), 75 FR 707, https://www.govinfo.gov/content/pkg/FR-2010-01-05/html/E9-31418.htm",
+"text": "Sec. 4.3(a) permits establishment only where 'required by statute or upon a specific finding that: (1) the vulnerability of, or threat to, specific information is exceptional; and (2) the normal criteria for determining eligibility for access applicable to information classified at the same level are not deemed sufficient', and directs that these officials 'shall keep the number of these programs at an absolute minimum'.",
+"tier": 1
+},
+{
+"source": "EO 13526 sec. 4.3(b)(3), 75 FR 707, https://www.govinfo.gov/content/pkg/FR-2010-01-05/html/E9-31418.htm",
+"text": "THE EXECUTIVE-SIDE NARROWING. Sec. 4.3(b)(3): 'An agency head may limit access to a special access program to the Director of the Information Security Oversight Office and no more than one other employee of the Information Security Oversight Office or, for special access programs that are extraordinarily sensitive and vulnerable, to the Director only.' The oversight body's access to an extraordinarily sensitive SAP can therefore be reduced to a single person, at the agency head's discretion.",
+"tier": 1
+},
+{
+"source": "EO 13526 sec. 4.3(b)(4)-(5), 75 FR 707, https://www.govinfo.gov/content/pkg/FR-2010-01-05/html/E9-31418.htm",
+"text": "Sec. 4.3(b)(4) requires that 'The agency head or principal deputy shall review annually each special access program to determine whether it continues to meet the requirements of this order', and (b)(5) that 'Upon request, an agency head shall brief the National Security Advisor, or a designee, on any or all of the agency's special access programs.'",
+"tier": 1
+},
+{
+"source": "Reading of 10 U.S.C. 119(e), EO 13526 sec. 4.3(b)(3) and 32 CFR 117.6(b)(3) together; all three texts read from primary sources on 22 August 2026",
+"text": "Three separate instruments each narrow oversight of the same object, and none of them depends on the others. 10 U.S.C. 119(e) reduces the congressional readership of a waived SAP to twelve members. EO 13526 sec. 4.3(b)(3) can reduce ISOO's access to one person. 32 CFR 117.6(b)(3) relieves the Director, DCSA of NISP industrial-security oversight entirely on a carve-out. Congressional, executive and industrial-security oversight are narrowed by three different authorities, so closing any one of them would leave the other two intact.",
+"tier": 3
+},
+{
+"source": "Executive Order 13526, sec. 4.3(a)",
+"text": "E.O. 13526 sec. 4.3(a): 'Unless otherwise authorized by the President, only the Secretaries of State, Defense, Energy, and Homeland Security, the Attorney General, and the Director of National Intelligence, or the principal deputy of each, may create a special access program.'",
+"tier": 1
+},
+{
+"source": "Executive Order 13526, sec. 4.3(a)",
+"text": "E.O. 13526 sec. 4.3(a) provides that for programs pertaining to intelligence activities, including special activities, or intelligence sources or methods, this function shall be exercised by the Director of National Intelligence.",
+"tier": 1
+},
+{
+"source": "Executive Order 13526, sec. 4.3(b)",
+"text": "E.O. 13526 sec. 4.3(b) requires that special access programs be subject to the oversight program established under section 5.4(d) and that the Director of ISOO be afforded access to these programs, 'consistent with the policies and procedures directed by the President'.",
+"tier": 1
+},
+{
+"source": "Executive Order 13526, sec. 4.3",
+"text": "E.O. 13526 sec. 4.3 requires agency heads to keep the number of special access programs at an absolute minimum and to review each program annually to determine whether it continues to meet the criteria for creation.",
+"tier": 1
+},
+{
+"source": "Text of E.O. 13526 sec. 4.3(b)",
+"text": "The qualifier 'consistent with the policies and procedures directed by the President' in section 4.3(b) makes ISOO's access to any given SAP defeasible by presidential direction, so ISOO cannot warrant that it has seen the full SAP inventory. Reasoning: the access right is expressly conditioned rather than absolute.",
+"tier": 3
+}
+],
+"cls": "legislation",
+"cluster": "other",
+"connections": [
+{
+"claimTier": 1,
+"cls": "legislation",
+"dateEnd": "2009",
+"dateStart": "2009",
+"direction": "in",
+"edgeLabel": "The category this Act invented is the one the executive order cannot reach",
+"id": "atomic-energy-act-1946",
+"l0": false,
+"label": "Atomic Energy Act of 1946 (McMahon Act)",
+"note": "EO 13526 sec. 6.2(a) provides that nothing in the order supersedes any requirement made by or under the Atomic Energy Act of 1954 and that Restricted Data is handled and declassified only under that Act; the 1954 statute carried the category forward from this one.",
+"sources": [
+{
+"date": "2009-12-29",
+"name": "Executive Order 13526, sec. 6.2(a)",
+"url": "https://www.govinfo.gov/content/pkg/FR-2010-01-05/pdf/E9-31418.pdf"
+}
+],
+"tier": "B",
+"type": "legislative"
+},
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": "2023",
+"dateStart": "2013",
+"direction": "in",
+"edgeLabel": "Both refusals rest on the same executive order",
+"id": "defense-support-program",
+"l0": false,
+"label": "Defense Support Program (DSP) missile early warning satellites",
+"note": "Both refusals rest on the same executive order, cited at section 1.4c in 2013 and at section 1.1(a) in 2023.",
+"sources": [
+{
+"date": "2013-12-06",
+"name": "USNORTHCOM FOIA response letter, case FY14-19NOV2013-07",
+"url": "https://documents.theblackvault.com/documents/ufos/fastwalkers/FY14-19NOV2013-07.pdf"
+},
+{
+"date": "2023-12-22",
+"name": "Space Force Says Documents on Fastwalkers and Slowwalkers All Exempt from Disclosure, The Black Vault",
+"url": "https://www.theblackvault.com/documentarchive/space-force-says-documents-on-fastwalkers-and-slowwalkers-all-exempt-from-disclosure/"
+}
+],
+"tier": "B",
+"type": "legislative"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": "2009-12-29",
+"direction": "in",
+"edgeLabel": "ICD 906 is the DNI's exercise of the section 4.3 SAP authority",
+"id": "icd-906",
+"l0": false,
+"label": "ICD 906 — Controlled Access Programs (ODNI)",
+"note": "ICD 906 section B.1 establishes oversight of IC special access programs 'pursuant to EO 13526, Section 4.3', which assigns intelligence SAPs to the DNI.",
+"sources": [
+{
+"date": "2024-12-19",
+"name": "Intelligence Community Directive 906, Controlled Access Programs",
+"url": "https://web.archive.org/web/20250112183207/https://www.dni.gov/files/documents/ICD/ICD-906-Controlled-Access-Programs.pdf"
+},
+{
+"date": "2009-12-29",
+"name": "Executive Order 13526, Classified National Security Information",
+"url": "https://www.archives.gov/isoo/policy-documents/cnsi-eo.html"
+}
+],
+"tier": "A",
+"type": "legislative"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2009-12-29",
+"direction": "out",
+"edgeLabel": "ISOO access to SAPs is granted and simultaneously conditioned",
+"id": "isoo",
+"l0": true,
+"label": "Information Security Oversight Office",
+"note": "Section 4.3(b) affords the ISOO Director access to special access programs 'consistent with the policies and procedures directed by the President' - a defeasible right.",
+"sources": [
+{
+"date": "2009-12-29",
+"name": "Executive Order 13526, Classified National Security Information",
+"url": "https://www.archives.gov/isoo/policy-documents/cnsi-eo.html"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "legislation",
+"dateEnd": null,
+"dateStart": "2023-12-22",
+"direction": "in",
+"edgeLabel": "Requires a personnel census from each of the six SAP-creating officials",
+"id": "ndaa-fy2024-7606",
+"l0": false,
+"label": "FY2024 IAA sec. 7606(c) — Agency Review of Special Access Programs",
+"note": "FY2024 IAA sec. 7606(c) addresses 'each head of an agency who is authorized to establish a special access program by Executive Order 13526', due within one year.",
+"sources": [
+{
+"date": "2023-12-22",
+"name": "Public Law 118-31, FY2024 NDAA (govinfo enrolled text)",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm"
+}
+],
+"tier": "C",
+"type": "legislative"
+},
+{
+"claimTier": 1,
+"cls": "domain",
+"dateEnd": null,
+"dateStart": "2009-12-29",
+"direction": "out",
+"edgeLabel": "All SAP categories descend from a single executive order provision",
+"id": "sap-taxonomy",
+"l0": false,
+"label": "Acknowledged, unacknowledged and waived — the three states of a DoD SAP",
+"note": "Section 4.3(a) names the six officials who may create a SAP; the DoD taxonomy of acknowledged, unacknowledged and waived operates entirely below that grant.",
+"sources": [
+{
+"date": "2009-12-29",
+"name": "Executive Order 13526, Classified National Security Information",
+"url": "https://www.archives.gov/isoo/policy-documents/cnsi-eo.html"
+},
+{
+"date": "2018-08-31",
+"name": "DoD Directive 5205.07, 1 July 2010, Change 1 31 August 2018",
+"url": "https://web.archive.org/web/20190922210932/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf"
+}
+],
+"tier": "A",
+"type": "programmatic"
+},
+{
+"claimTier": 1,
+"cls": "legislation",
+"dateEnd": null,
+"dateStart": "2009-12-29",
+"direction": "out",
+"edgeLabel": "Creates the programs the statute then reports on",
+"id": "usc-10-119",
+"l0": true,
+"label": "10 U.S.C. 119 — Special Access Programs: Congressional Oversight",
+"note": "E.O. 13526 sec. 4.3 is the source of authority to create a SAP; 10 U.S.C. 119 only prescribes what must be told to Congress afterwards.",
+"sources": [
+{
+"date": "2009-12-29",
+"name": "Executive Order 13526, Classified National Security Information",
+"url": "https://www.archives.gov/isoo/policy-documents/cnsi-eo.html"
+},
+{
+"date": "2026-08-12",
+"name": "10 U.S.C. 119",
+"url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim"
+}
+],
+"tier": "A",
+"type": "legislative"
+},
+{
+"claimTier": 1,
+"cls": "legislation",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "Sec. 4.3(c): nothing in the order supersedes any requirement made by or under 10 U.S.C. 119",
+"id": "usc-10-119",
+"l0": true,
+"label": "10 U.S.C. 119 — Special Access Programs: Congressional Oversight",
+"note": "The order creates the object the statute reports on. EO 13526 sec. 4.3(a) is the authority to establish a special access program at all, and restricts it to six officials or their principal deputies: the Secretaries of State, Defense, Energy and Homeland Security, the Attorney General, and the Director of National Intelligence. 10 U.S.C. 119 then obliges the Secretary of Defense to report the DoD ones to Congress. Creation is executive and unilateral; reporting is statutory. Both texts were read on 22 August 2026, and neither cites the other - the relationship is that one supplies the programmes the other counts.",
+"sources": [
+{
+"date": "2026-08-22",
+"name": "Executive Order 13526, Classified National Security Information, 75 FR 707, 5 January 2010, sec. 4.3 (read from govinfo, 22 August 2026)",
+"url": "https://www.govinfo.gov/content/pkg/FR-2010-01-05/html/E9-31418.htm"
+},
+{
+"date": "2026-08-22",
+"name": "10 U.S.C. 119 (OLRC prelim, read 22 August 2026)",
+"url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim"
+}
+],
+"tier": "A",
+"type": "programmatic"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "2009-12-29",
+"deg": 7,
+"denials": [],
+"desc": "Executive Order 13526, signed by President Obama on 29 December 2009 and still the operative classification order in August 2026, is where special access programs actually come from. Section 4.3 provides that 'Unless otherwise authorized by the President, only the Secretaries of State, Defense, Energy, and Homeland Security, the Attorney General, and the Director of National Intelligence, or the principal deputy of each, may create a special access program' - and that for programs pertaining to intelligence activities, sources or methods, 'this function shall be exercised by the Director of National Intelligence'. The order requires that a SAP be created only on a specific finding that the vulnerability of, or threat to, the information is exceptional and that normal classification and safeguarding criteria are insufficient; that the number of programs be kept 'at an absolute minimum'; that each program be reviewed annually to determine whether it continues to meet the criteria; and, critically, that special access programs 'shall be subject to the oversight program established under section 5.4(d)' with the Director of the Information Security Oversight Office 'afforded access to these programs, consistent with the policies and procedures directed by the President'. Two structural facts follow. First, SAP creation authority is a delegated executive power that Congress has never legislated over, so the six creating officials can stand a program up without any statutory basis and 10 U.S.C. 119 only tells them what to report afterward. Second, the ISOO access right in section 4.3 is qualified by 'consistent with the policies and procedures directed by the President' - a clause that has been read to permit the President to withhold ISOO access to specific programs, which is the single most important limitation on independent oversight of the SAP enterprise.",
+"domains": [
+"_rs-sap-docs",
+"w12-eo13526",
+"w2-sap-architecture"
+],
+"dossier": {
+"claims": [
+{
+"source": "EO 13526 sec. 4.3(a), 75 FR 707, https://www.govinfo.gov/content/pkg/FR-2010-01-05/html/E9-31418.htm",
+"text": "Sec. 4.3(a): 'Unless otherwise authorized by the President, only the Secretaries of State, Defense, Energy, and Homeland Security, the Attorney General, and the Director of National Intelligence, or the principal deputy of each, may create a special access program.' For programmes pertaining to intelligence sources, methods and activities, but not military operational, strategic and tactical programmes, the function is exercised by the Director of National Intelligence.",
+"tier": 1
+},
+{
+"source": "EO 13526 sec. 4.3(a), 75 FR 707, https://www.govinfo.gov/content/pkg/FR-2010-01-05/html/E9-31418.htm",
+"text": "Sec. 4.3(a) permits establishment only where 'required by statute or upon a specific finding that: (1) the vulnerability of, or threat to, specific information is exceptional; and (2) the normal criteria for determining eligibility for access applicable to information classified at the same level are not deemed sufficient', and directs that these officials 'shall keep the number of these programs at an absolute minimum'.",
+"tier": 1
+},
+{
+"source": "EO 13526 sec. 4.3(b)(3), 75 FR 707, https://www.govinfo.gov/content/pkg/FR-2010-01-05/html/E9-31418.htm",
+"text": "Sec. 4.3(b)(3): 'An agency head may limit access to a special access program to the Director of the Information Security Oversight Office and no more than one other employee of the Information Security Oversight Office or, for special access programs that are extraordinarily sensitive and vulnerable, to the Director only.'",
+"tier": 1
+},
+{
+"source": "EO 13526 sec. 4.3(b)(4)-(5), 75 FR 707, https://www.govinfo.gov/content/pkg/FR-2010-01-05/html/E9-31418.htm",
+"text": "Sec. 4.3(b)(4) requires that 'The agency head or principal deputy shall review annually each special access program to determine whether it continues to meet the requirements of this order', and (b)(5) that 'Upon request, an agency head shall brief the National Security Advisor, or a designee, on any or all of the agency's special access programs.'",
+"tier": 1
+},
+{
+"source": "EO 13526 sec. 4.3(c), 75 FR 707, https://www.govinfo.gov/content/pkg/FR-2010-01-05/html/E9-31418.htm",
+"text": "Sec. 4.3(c), in its entirety: 'Nothing in this order shall supersede any requirement made by or under 10 U.S.C. 119.'",
+"tier": 1
+},
+{
+"source": "EO 13526 sec. 1.7, 75 FR 707, https://www.govinfo.gov/content/pkg/FR-2010-01-05/html/E9-31418.htm",
+"text": "Sec. 1.7(a): 'In no case shall information be classified, continue to be maintained as classified, or fail to be declassified in order to: (1) conceal violations of law, inefficiency, or administrative error; (2) prevent embarrassment to a person, organization, or agency; (3) restrain competition; or (4) prevent or delay the release of information that does not require protection in the interest of the national security.' Sec. 1.7(b): 'Basic scientific research information not clearly related to the national security shall not be classified.'",
+"tier": 1
+},
+{
+"source": "Executive Order 13526, sec. 6.2(a), https://www.govinfo.gov/content/pkg/FR-2010-01-05/pdf/E9-31418.pdf",
+"text": "Sec. 6.2(a) provides that nothing in the order supersedes any requirement made by or under the Atomic Energy Act of 1954, and that Restricted Data is handled and declassified only under that Act.",
+"tier": 1
+},
+{
+"source": "Reading of 10 U.S.C. 119(e), EO 13526 sec. 4.3(b)(3) and 32 CFR 117.6(b)(3) together; all three texts read from primary sources on 22 August 2026",
+"text": "Three separate instruments each narrow oversight of the same object and none depends on the others: 10 U.S.C. 119(e) on the congressional side, EO 13526 sec. 4.3(b)(3) on the executive side, and 32 CFR 117.6(b)(3) on the industrial-security side.",
+"tier": 3
+}
+],
+"connections": [
+"Sec. 4.3(c) subordinates the order to usc-10-119, which reports on the programmes the order creates.",
+"All of the sap-taxonomy, acknowledged, unacknowledged and waived, operates below the section 4.3(a) grant.",
+"Grants and simultaneously conditions isoo access to special access programs.",
+"icd-906 section B.1 is the DNI's exercise of the section 4.3 authority for intelligence programmes.",
+"ndaa-fy2024-7606 requires a personnel census from each head of an agency authorised to establish a SAP by this order.",
+"Sec. 6.2(a) leaves Restricted Data, the category carried forward from the atomic-energy-act-1946, outside the order's reach.",
+"Cited in both FOIA refusals recorded on defense-support-program, at sec. 1.4c in 2013 and sec. 1.1(a) in 2023."
+],
+"denialPosture": "An executive order does not deny; it is the instrument cited in denials, which is a different and more useful thing to be able to show. Two refusals on this board rest on it directly: USNORTHCOM's FOIA response in case FY14-19NOV2013-07, citing section 1.4c, and the Space Force position reported in December 2023 citing section 1.1(a). Both concern fastwalker and slowwalker material, both are exemption claims rather than assertions of non-existence, and both trace to the same document. The order's own section 1.7 makes several of the motives a reader might suspect impermissible on the face of the text, and supplies no way to test whether they were present.",
+"narrative": "The provision that matters most is the one that reads like housekeeping. Section 4.3(b)(3) grants the Director of ISOO access to special access programs and in the same breath says that 'An agency head may limit access to a special access program to the Director of the Information Security Oversight Office and no more than one other employee of the Information Security Oversight Office or, for special access programs that are extraordinarily sensitive and vulnerable, to the Director only.' The executive branch's own oversight body for the entire classification system can lawfully be reduced to a single individual, at the discretion of the person being overseen.\n\nThat is one of three narrowings, and the board's reading is that they are independent of each other. 10 U.S.C. 119(e) reduces the congressional readership of a waived SAP to twelve members. Section 4.3(b)(3) can reduce ISOO to one person. 32 CFR 117.6(b)(3) relieves the Director of the Defense Counterintelligence and Security Agency of industrial-security oversight on a carve-out. Congressional, executive and industrial-security oversight are each narrowed by a different authority, so closing any one of them would leave the other two intact.\n\nThe order also contains the provisions a whistleblower would reach for, and they have no teeth inside the order itself. Section 1.7(a) forbids classification to conceal violations of law, inefficiency or administrative error, to prevent embarrassment, to restrain competition or to delay release of information that does not require protection; section 1.7(b) forbids classifying basic scientific research not clearly related to national security. Neither carries an enforcement mechanism in the text. The only channels are the section 5.3 appeal process and the intelligence-community whistleblower statutes.",
+"openQuestions": [
+"How many special access programs exist is not established by anything on this board. The order requires each agency to keep an accounting system; no aggregate from one has been located.",
+"Whether the President has ever exercised the 'unless otherwise authorized by the President' clause in sec. 4.3(a), or directed that ISOO be denied access to a specific programme, is not established. The board holds no document either way.",
+"The annual reviews required by sec. 4.3(b)(4) and the on-request briefings under (b)(5) produce records by implication. None has been located, and no request for them is logged here."
+],
+"roles": [
+"concealment",
+"oversight"
+],
+"whatItIs": "Executive Order 13526, Classified National Security Information, signed on 29 December 2009 and published at 75 FR 707. It is the operative classification order and it is where special access programs come from. Section 4.3(a) restricts creation of a SAP to six officials or their principal deputies, the Secretaries of State, Defense, Energy and Homeland Security, the Attorney General and the Director of National Intelligence, and assigns intelligence SAPs to the DNI. Section 4.3(b) sets the internal rules: numbers kept at an absolute minimum, an accounting system in each agency, annual review, a briefing to the National Security Advisor on request, and access for the Director of the Information Security Oversight Office that the agency head may narrow. Section 4.3(c) subordinates the section to 10 U.S.C. 119, and section 6.2(a) subordinates the order to the Atomic Energy Act for Restricted Data.",
+"whyImplicated": "Creation is executive and unilateral; reporting is statutory and comes afterward. Congress has never legislated over the authority to establish a special access program, so the six creating officials can stand one up with no statutory basis at all and 10 U.S.C. 119 only tells them what to report once it exists. The order is therefore the instrument that makes the central structural claim on this board possible rather than merely alleged, and it is the instrument agencies cite when they refuse to answer: two FOIA refusals carried here rest on it, USNORTHCOM in 2013 at section 1.4c and the Space Force in 2023 at section 1.1(a)."
+},
+"entityInfo": null,
+"era": "2",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "eo-13526",
+"l0": true,
+"label": "Executive Order 13526 — Classified National Security Information",
+"locLabel": null,
+"members": [
+{
+"cls": "legislation",
+"id": "atomic-energy-act-1946",
+"label": "Atomic Energy Act of 1946 (McMahon Act)",
+"tier": "B"
+},
+{
+"cls": "program",
+"id": "defense-support-program",
+"label": "Defense Support Program (DSP) missile early warning satellites",
+"tier": "B"
+},
+{
+"cls": "document",
+"id": "icd-906",
+"label": "ICD 906 — Controlled Access Programs (ODNI)",
+"tier": "A"
+},
+{
+"cls": "legislation",
+"id": "ndaa-fy2024-7606",
+"label": "FY2024 IAA sec. 7606(c) — Agency Review of Special Access Programs",
+"tier": "C"
+},
+{
+"cls": "domain",
+"id": "sap-taxonomy",
+"label": "Acknowledged, unacknowledged and waived — the three states of a DoD SAP",
+"tier": "A"
+}
+],
+"short": "Executive Order 13526 — Classified National Security Information",
+"sources": [
+{
+"date": "2010-01-05",
+"name": "Executive Order 13526, Classified National Security Information, 29 Dec 2009 — full text as published, 75 FR 707",
+"url": "https://www.govinfo.gov/content/pkg/FR-2010-01-05/html/E9-31418.htm"
+},
+{
+"date": "2026-08-12",
+"name": "E.O. 13526 (ISOO / National Archives policy documents page)",
+"url": "https://www.archives.gov/isoo/policy-documents/cnsi-eo.html"
+}
+],
+"sub": "executive-order",
+"tier": "A",
+"tierRationale": "Re-graded A on a global pass (rank 61 of 1027, score 74). 8 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A3/D3.",
+"timeline": [
+{
+"date": "2009-12-29",
+"id": "sap-tl-2009-eo13526x",
+"label": "Executive Order 13526 fixes the six officials who may create a SAP",
+"precision": "day",
+"strand": "program",
+"text": "Section 4.3 limits SAP creation to the Secretaries of State, Defense, Energy and Homeland Security, the Attorney General and the DNI, or their principal deputies, requires the number to be kept at an absolute minimum, and affords the ISOO Director access 'consistent with the policies and procedures directed by the President'.",
+"tier": "A"
+}
+]
+}

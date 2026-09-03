@@ -1,0 +1,119 @@
+{
+"A": 2,
+"C": 1,
+"D": 2,
+"band": null,
+"claims": [
+{
+"source": "The War Zone, 30 October 2024",
+"text": "The NORAD commander publicly addressed the December 2023 unidentified incursions over Langley AFB in October 2024.",
+"tier": 2
+}
+],
+"cls": "location",
+"cluster": "other",
+"connections": [
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "DoD installation; NORAD/USNORTHCOM response",
+"id": "dod",
+"l0": true,
+"label": "United States Department of Defense (secondary designation: Department of War)",
+"note": "The response to the Langley incursions ran through NORAD and USNORTHCOM; NORAD commander Gen. Gregory Guillot addressed the incursions in testimony to the Senate Armed Services Committee on 14 March 2024 and again publicly in October 2024.",
+"sources": [
+{
+"date": "2026-05-18",
+"name": "Archived: NORAD Newsroom (Wayback 2026-05-18)",
+"url": "https://web.archive.org/web/20260518213308/https://www.norad.mil/Newsroom/Press-Releases/"
+},
+{
+"date": null,
+"name": "https://www.twz.com/air/heres-what-norads-commander-just-told-us-about-the-langley-afb-drone-incursions",
+"url": "https://www.twz.com/air/heres-what-norads-commander-just-told-us-about-the-langley-afb-drone-incursions"
+}
+],
+"tier": "A",
+"type": "geographic"
+},
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": null,
+"dateStart": "2023-12-06",
+"direction": "out",
+"edgeLabel": "site of the December 2023 incursions",
+"id": "langley-2023-incursions",
+"l0": true,
+"label": "Langley AFB Drone Incursions (December 2023)",
+"note": "Joint Base Langley-Eustis first observed unidentified uncrewed aerial systems over the installation on the evening of 6 December 2023, with multiple further incursions through the month. The episode is the location's whole reason for being on this board.",
+"sources": [
+{
+"date": null,
+"name": "https://www.twz.com/air/mysterious-drones-swarmed-langley-afb-for-weeks",
+"url": "https://www.twz.com/air/mysterious-drones-swarmed-langley-afb-for-weeks"
+},
+{
+"date": null,
+"name": "https://www.twz.com/air/heres-what-norads-commander-just-told-us-about-the-langley-afb-drone-incursions",
+"url": "https://www.twz.com/air/heres-what-norads-commander-just-told-us-about-the-langley-afb-drone-incursions"
+}
+],
+"tier": "B",
+"type": "geographic"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": null,
+"deg": 2,
+"denials": [],
+"desc": "Langley Air Force Base, now part of Joint Base Langley-Eustis at Hampton, Virginia, hosts F-22 Raptors and is one of the most sensitive air defence installations on the eastern seaboard. It appears on this board for the sustained series of unidentified aerial incursions over the base beginning in December 2023, which continued for weeks, prompted the movement of aircraft, and were publicly discussed by the NORAD commander in October 2024 - a rare instance of a four-star officer addressing unresolved incursions over a nuclear-capable air defence installation on the record. The episode is important because it collapses the distance between the historical UAP question and a current, acknowledged, unresolved air defence failure.",
+"domains": [
+"_rs-archive-mirror",
+"w2-taxonomy"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "nd",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "l-langley-afb",
+"l0": false,
+"label": "Langley Air Force Base / Joint Base Langley-Eustis, Virginia",
+"locLabel": null,
+"members": null,
+"short": "Langley Air Force Base / Joint Base Langley-Eustis, Virginia",
+"sources": [
+{
+"date": "2026-05-18",
+"name": "Archived: NORAD Newsroom (Wayback 2026-05-18)",
+"url": "https://web.archive.org/web/20260518213308/https://www.norad.mil/Newsroom/Press-Releases/"
+},
+{
+"date": "2026-08-12",
+"name": "Wikipedia - Langley Air Force Base",
+"url": "https://en.wikipedia.org/wiki/Langley_Air_Force_Base"
+},
+{
+"date": "2024-10-30",
+"name": "The War Zone - Here's What NORAD's Commander Just Told Us About The Langley AFB Drone Incursions",
+"url": "https://www.twz.com/air/heres-what-norads-commander-just-told-us-about-the-langley-afb-drone-incursions"
+},
+{
+"date": "2026-08-12",
+"name": "NORAD Newsroom",
+"url": "https://www.norad.mil/Newsroom/Press-Releases/"
+}
+],
+"sub": "Air Force installation, Hampton, Virginia; F-22 base and site of the 2023 incursions",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 805 of 1027, score 18). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D2.",
+"timeline": []
+}

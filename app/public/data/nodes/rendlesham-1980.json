@@ -1,0 +1,510 @@
+{
+"A": 1,
+"C": 2,
+"D": 3,
+"band": "retrieval",
+"claims": [
+{
+"source": "Halt memorandum, 'Unexplained Lights,' 13 Jan 81",
+"text": "Halt's memorandum records that on the day after the first sighting 'three depressions 1 1/2\" deep and 7\" in diameter were found where the object had been sighted on the ground' and that 'Beta/Gamma readings of 0.1 milliroentgens were recorded with peak reading in the three depressions and near the center of the triangle formed by the depressions.'",
+"tier": 1
+},
+{
+"source": "The Black Vault provenance statement on the Halt memo release",
+"text": "The memo was released by the Office of the Assistant Secretary of Defense, Freedom of Information and Security Review Office, under FOIA case 97-F-1677 in September 1997, having been released to other researchers earlier.",
+"tier": 1
+},
+{
+"source": "BBC News, 'Rendlesham Forest UFO: Are we any closer to the truth 40 years on?', 26 Dec 2020; David Clarke, 40th-anniversary account with the MoD desk officer, 26 Dec 2020",
+"text": "Forty years on, the incident's American witnesses have maintained their accounts publicly while the UK Ministry of Defence's original assessment of 'no defence significance' has been shown to have been reached without interviewing them.",
+"tier": 2
+}
+],
+"cls": "event",
+"cluster": "witness",
+"connections": [
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "2024",
+"dateStart": "2024",
+"direction": "out",
+"edgeLabel": "AARO's 2024 historical review does not mention Rendlesham",
+"id": "aaro-historical-record-vol1",
+"l0": true,
+"label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
+"note": "A congressionally directed review of the historical record omits the best-documented physical-trace incident at a NATO nuclear-capable base, for which the Pentagon's own FOIA office has released the commander's memorandum.",
+"sources": [
+{
+"date": "2024-03-08",
+"name": "AARO, 'Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP), Volume I' (DOPSR-2024-0263)",
+"url": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF"
+},
+{
+"date": "2021-11-11",
+"name": "The Halt Memo - Rendlesham Forest Incident (DoD FOIA case 97-F-1677, released Sept 1997)",
+"url": "https://www.theblackvault.com/documentarchive/the-halt-memo-the-rendlesham-forest-incident/"
+}
+],
+"tier": "A",
+"type": "denial"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "1980",
+"dateStart": "1980",
+"direction": "in",
+"edgeLabel": "Halt personally led the 28 December 1980 forest patrol",
+"id": "charles-halt",
+"l0": false,
+"label": "Charles I. Halt",
+"note": "Halt's own memo states 'Numerous individuals, including the undersigned, witnessed the activities in paragraphs 2 and 3.'",
+"sources": [
+{
+"date": "2021-11-11",
+"name": "The Halt Memo - Rendlesham Forest Incident (DoD FOIA case 97-F-1677, released Sept 1997)",
+"url": "https://www.theblackvault.com/documentarchive/the-halt-memo-the-rendlesham-forest-incident/"
+}
+],
+"tier": "B",
+"type": "witness-chain"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "1981",
+"dateStart": "1981",
+"direction": "in",
+"edgeLabel": "The memo is the primary official record of the incident",
+"id": "halt-memo",
+"l0": false,
+"label": "Halt Memorandum, 'Unexplained Lights', 13 January 1981",
+"note": "The memo is the only contemporaneous US government document describing the events; everything else in the case is witness statement or later recollection.",
+"sources": [
+{
+"date": "2021-11-11",
+"name": "The Halt Memo - Rendlesham Forest Incident (DoD FOIA case 97-F-1677, released Sept 1997)",
+"url": "https://www.theblackvault.com/documentarchive/the-halt-memo-the-rendlesham-forest-incident/"
+},
+{
+"date": "2020-12-26",
+"name": "BBC News, 'Rendlesham Forest UFO: Are we any closer to the truth 40 years on?'",
+"url": "https://www.bbc.co.uk/news/uk-england-suffolk-54649675"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "1980",
+"dateStart": "1980",
+"direction": "in",
+"edgeLabel": "First responder, 26 December 1980",
+"id": "jim-penniston",
+"l0": false,
+"label": "James W. Penniston",
+"note": "Penniston was the senior security police NCO who entered the forest; his notebook records 'craft of unknown origin' and he signed a USAF witness statement.",
+"sources": [
+{
+"date": "2020-12-26",
+"name": "BBC News, 'Rendlesham Forest UFO: Are we any closer to the truth 40 years on?'",
+"url": "https://www.bbc.co.uk/news/uk-england-suffolk-54649675"
+},
+{
+"date": "2020-12-26",
+"name": "David Clarke, 'Rendlesham UFOs 40th anniversary: the man from the ministry speaks for the first time'",
+"url": "https://drdavidclarke.co.uk/2020/12/26/rendlesham-ufos-40th-anniversary-the-man-from-the-ministry-speaks-for-the-first-time/"
+}
+],
+"tier": "C",
+"type": "witness-chain"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "1980",
+"dateStart": "1980",
+"direction": "in",
+"edgeLabel": "First responder, 26 December 1980",
+"id": "john-burroughs",
+"l0": false,
+"label": "John Burroughs",
+"note": "Burroughs was with Penniston at the east gate; his account differs in detail from Penniston's, which the board treats as a marker of independence rather than contradiction.",
+"sources": [
+{
+"date": "2020-12-26",
+"name": "BBC News, 'Rendlesham Forest UFO: Are we any closer to the truth 40 years on?'",
+"url": "https://www.bbc.co.uk/news/uk-england-suffolk-54649675"
+},
+{
+"date": "2020-12-26",
+"name": "David Clarke, 'Rendlesham UFOs 40th anniversary: the man from the ministry speaks for the first time'",
+"url": "https://drdavidclarke.co.uk/2020/12/26/rendlesham-ufos-40th-anniversary-the-man-from-the-ministry-speaks-for-the-first-time/"
+}
+],
+"tier": "B",
+"type": "witness-chain"
+},
+{
+"claimTier": 1,
+"cls": "location",
+"dateEnd": "1981",
+"dateStart": "1980",
+"direction": "out",
+"edgeLabel": "Incident occurred at and around a USAF-operated nuclear-capable NATO base",
+"id": "l-raf-woodbridge",
+"l0": false,
+"label": "RAF Woodbridge / RAF Bentwaters, Suffolk, England",
+"note": "RAF Woodbridge and RAF Bentwaters were operated by the USAF's 81st Tactical Fighter Wing under NATO arrangements.",
+"sources": [
+{
+"date": "2021-11-11",
+"name": "The Halt Memo - Rendlesham Forest Incident (DoD FOIA case 97-F-1677, released Sept 1997)",
+"url": "https://www.theblackvault.com/documentarchive/the-halt-memo-the-rendlesham-forest-incident/"
+},
+{
+"date": "2020-12-26",
+"name": "David Clarke, 'Rendlesham UFOs 40th anniversary: the man from the ministry speaks for the first time'",
+"url": "https://drdavidclarke.co.uk/2020/12/26/rendlesham-ufos-40th-anniversary-the-man-from-the-ministry-speaks-for-the-first-time/"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "location",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "incident location: Rendlesham Forest, Suffolk",
+"id": "l-uk",
+"l0": false,
+"label": "United Kingdom",
+"note": "The National Archives records that the sightings 'took place over two nights late in December 1980 at RAF Woodbridge' in Suffolk, reported by USAF personnel stationed there. That the reports were made at this location is documented; the nature of what was seen remains unresolved.",
+"sources": [
+{
+"date": "2013-01-01",
+"name": "The National Archives, 'Unidentified Flying Objects (UFOs)' research guide",
+"url": "https://cdn.nationalarchives.gov.uk/documents/ufo-research-guide-2013.pdf"
+},
+{
+"date": null,
+"name": "https://en.wikipedia.org/wiki/Rendlesham_Forest_incident",
+"url": "https://en.wikipedia.org/wiki/Rendlesham_Forest_incident"
+},
+{
+"date": null,
+"name": "https://www.nbcnews.com/id/wbna32451823",
+"url": "https://www.nbcnews.com/id/wbna32451823"
+}
+],
+"tier": "C",
+"type": "geographic"
+},
+{
+"claimTier": 1,
+"cls": "location",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "MoD UFO desk held and released the Rendlesham file",
+"id": "l-uk-mod-whitehall",
+"l0": false,
+"label": "Ministry of Defence Main Building, Whitehall, London",
+"note": "Lt Col Charles Halt's official report on the incidents, titled 'Unexplained Lights', was sent to Defence Secretariat 8 at Whitehall; his original typewritten report and the MoD's follow-up inquiries are held at DEFE 24/1512. A file dedicated to Rendlesham, DEFE 24/1948/1, was opened at The National Archives in August 2009 and contains Halt's memo.",
+"sources": [
+{
+"date": "2013-01-01",
+"name": "The National Archives, 'Unidentified Flying Objects (UFOs)' research guide",
+"url": "https://cdn.nationalarchives.gov.uk/documents/ufo-research-guide-2013.pdf"
+},
+{
+"date": null,
+"name": "https://www.nbcnews.com/id/wbna32451823",
+"url": "https://www.nbcnews.com/id/wbna32451823"
+},
+{
+"date": null,
+"name": "https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf",
+"url": "https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf"
+}
+],
+"tier": "C",
+"type": "geographic"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "Sheffield Hallam academic curated the MoD file release containing Rendlesham",
+"id": "sheffield-hallam",
+"l0": false,
+"label": "Sheffield Hallam University",
+"note": "Sheffield Hallam describes Clarke as its Journalism Reader and as 'media consultant and spokesperson for the transfer of 210 formerly classified files on UFOs from The Ministry of Defence archive' between 2008 and 2013. His own earlier role in prising the Rendlesham file loose is recorded at The National Archives by file reference: the guide notes that the Rendlesham papers were among the first released under the Code of Practice for Access to Government Information in 2001, and that the papers relating to that release sit at DEFE 24/2030/1 and DEFE 24/2031/1, catalogued as 'UFOs: Persistent Correspondence, Dr David Clarke, 2000-2001'. The custody relationship is documented in the archive's own catalogue entry, under his name.",
+"sources": [
+{
+"date": "2018-03-08",
+"name": "Sheffield Hallam University, C3RI Impact blog, 'Dr David Clarke presents UFO files at The National Archives', 8 March 2018",
+"url": "https://blogs.shu.ac.uk/c3riimpact/david-clarke-ufo-files-national-archives/"
+},
+{
+"date": "2013-01-01",
+"name": "The National Archives, 'Unidentified Flying Objects (UFOs)' research guide",
+"url": "https://cdn.nationalarchives.gov.uk/documents/ufo-research-guide-2013.pdf"
+},
+{
+"date": null,
+"name": "Dr David Clarke, 'National Archives UFO Files' -- https://drdavidclarke.co.uk/national-archives-ufo-files-7/",
+"url": ""
+},
+{
+"date": null,
+"name": "Sheffield Hallam University Research Archive (SHURA), 'National Archives Podcasts and Media - MoD UFO archives project 2008-2013' -- https://shura.shu.ac.uk/35070/",
+"url": ""
+},
+{
+"date": null,
+"name": "The National Archives UFO records podcast transcript, August 2009 -- https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf",
+"url": ""
+}
+],
+"tier": "C",
+"type": "custody"
+}
+],
+"coords": null,
+"dateEnd": "1981",
+"dateStart": "1980",
+"deg": 9,
+"denials": [
+{
+"by": {
+"id": "aaro-historical-record-vol1",
+"label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+},
+"claimTier": 1,
+"denialKind": "directed",
+"label": "AARO's 2024 historical review does not mention Rendlesham",
+"note": "A congressionally directed review of the historical record omits the best-documented physical-trace incident at a NATO nuclear-capable base, for which the Pentagon's own FOIA office has released the commander's memorandum.",
+"of": {
+"id": "rendlesham-1980",
+"label": "Rendlesham Forest Incident, RAF Woodbridge/Bentwaters"
+},
+"sources": [
+{
+"date": "2024-03-08",
+"name": "AARO, 'Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP), Volume I' (DOPSR-2024-0263)",
+"url": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF"
+},
+{
+"date": "2021-11-11",
+"name": "The Halt Memo - Rendlesham Forest Incident (DoD FOIA case 97-F-1677, released Sept 1997)",
+"url": "https://www.theblackvault.com/documentarchive/the-halt-memo-the-rendlesham-forest-incident/"
+}
+]
+}
+],
+"desc": "Over three nights at the end of December 1980, US Air Force personnel at the twin bases of RAF Woodbridge and RAF Bentwaters in Suffolk - then a nuclear-capable USAF installation under NATO command - reported an object in the adjacent forest and lights in the sky. The deputy base commander documented it in an official memorandum two weeks later. Three distinct evidentiary layers exist: Lt Col Charles Halt's 13 January 1981 memorandum with its physical-trace and radiation readings; Halt's own live audio recording made during the 28 December patrol; and the signed witness statements of the airmen, including SSgt James Penniston and A1C John Burroughs. The UK Ministry of Defence's contemporaneous position was that the events were of no defence significance, a conclusion reached without interviewing the American witnesses. The incident's later history is the more important part for this board: the memo was released under US FOIA in 1983 before the MoD acknowledged its own file; John Burroughs' US Department of Veterans Affairs claim in the 2010s ran into the unavailability of his service medical records for the relevant period and was ultimately granted; and Halt executed a notarized affidavit in 2010 asserting suppression. Rendlesham is the best-documented case in the world of a physical-trace event at a nuclear-capable NATO installation, and the official position remains that nothing of defence significance occurred.",
+"domains": [
+"history-1970s-2000s"
+],
+"dossier": {
+"claims": [
+{
+"source": "Halt memorandum, \"Unexplained Lights,\" 13 January 1981, full transcript at http://www.ianridpath.com/ufo/appendix.html; scan at https://www.theblackvault.com/documentarchive/the-halt-memo-the-rendlesham-forest-incident/",
+"text": "Lt Col Charles I. Halt, Deputy Base Commander, RAF Bentwaters, wrote a one-page memorandum to the UK Ministry of Defence dated 13 January 1981, headed \"Unexplained Lights,\" on official USAF letterhead and not classified in any way.",
+"tier": 1
+},
+{
+"source": "Halt memorandum, 13 January 1981, paragraph 1, http://www.ianridpath.com/ufo/appendix.html",
+"text": "The memo states that USAF security police reported \"a strange glowing object in the forest ... metallic in appearance and triangular in shape, approximately two to three meters across the base and approximately two meters high,\" with \"a pulsing red light on top and a bank(s) of blue lights underneath,\" \"hovering or on legs.\"",
+"tier": 1
+},
+{
+"source": "Halt memorandum, 13 January 1981, paragraph 2, http://www.ianridpath.com/ufo/appendix.html",
+"text": "The memo records three ground depressions 1.5 inches deep and 7 inches in diameter at the sighting location.",
+"tier": 1
+},
+{
+"source": "Halt memorandum, 13 January 1981, paragraph 2, http://www.ianridpath.com/ufo/appendix.html",
+"text": "The memo records radiological measurement: \"Beta/gamma readings of 0.1 milliroentgens were recorded with peak readings in the three depressions and near the center of the triangle formed by the depressions. A nearby tree had moderate (0.05-0.07) readings on the side of the tree toward the depressions.\"",
+"tier": 1
+},
+{
+"source": "Halt memorandum, 13 January 1981, paragraph 3 and signature block, http://www.ianridpath.com/ufo/appendix.html",
+"text": "Halt wrote that \"Numerous individuals, including the undersigned, witnessed the activities in paragraphs 2 and 3\" -- placing the deputy base commander among the witnesses in a signed official document.",
+"tier": 1
+},
+{
+"source": "Ian Ridpath, \"Appendix -- Col Halt's memo to the MoD,\" background note and reproduction of USAF covering letter, http://www.ianridpath.com/ufo/appendix.html",
+"text": "The memo was released under the U.S. Freedom of Information Act in June 1983 to Robert Todd of Citizens Against UFO Secrecy; the USAF covering letter to Todd states that the Air Force had discarded its own copy and had to obtain another from the British Ministry of Defence.",
+"tier": 2
+},
+{
+"source": "Ian Ridpath, \"Appendix -- Col Halt's memo to the MoD,\" http://www.ianridpath.com/ufo/appendix.html",
+"text": "The original Halt memorandum is held at The National Archives, Kew.",
+"tier": 2
+},
+{
+"source": "MoD file DEFE 24/1925, The National Archives, https://discovery.nationalarchives.gov.uk/details/r/C10023477; reproduced and described at http://www.ianridpath.com/ufo/trefgarne.html",
+"text": "A briefing paper prepared for UK defence minister Lord David Trefgarne ahead of an October 1985 private meeting with Lord Peter Hill-Norton, former Chief of the Defence Staff, survives as pages 115-116 of Ministry of Defence file DEFE 24/1925, released at The National Archives in May 2008.",
+"tier": 1
+},
+{
+"source": "Trefgarne briefing paper, DEFE 24/1925 pp. 115-116, quoted at http://www.ianridpath.com/ufo/trefgarne.html",
+"text": "Trefgarne's recorded position: \"Our own view also was that no additional action was required. We believe that the fact that Col. Halt did not report these occurrences to MoD for almost two weeks after the event, together with the relatively low-key manner in which he handled the matter, are indicative of the degree of importance in defence terms which should be attached to the incident.\"",
+"tier": 1
+},
+{
+"source": "http://www.ianridpath.com/ufo/trefgarne.html, citing DEFE 24/1925 and DEFE 31/174, The National Archives",
+"text": "Lord Hill-Norton's letter of 26 July 1985 listing the questions he wished to put to the MoD survives at pages 208-210 of DEFE 24/1925 and in duplicate at pages 259-261 and 280-282 of DEFE 31/174; Trefgarne annotated it \"Oh, dear.\"",
+"tier": 2
+},
+{
+"source": "David Clarke interview with Simon Weeden, quoted at http://www.ianridpath.com/ufo/trefgarne.html",
+"text": "Simon Weeden, the MoD desk officer who received the Halt memo, told journalist David Clarke that after basic checks found nothing on radar and no obvious air-defence threat, \"we decided no further action was needed\"; the MoD did not interview the witnesses.",
+"tier": 2
+},
+{
+"source": "Charles Halt notarised affidavit, June 2010, pages reproduced at http://www.ianridpath.com/ufo/download/halt-affidavit1.pdf and http://www.ianridpath.com/ufo/download/halt-affidavit2.pdf; analysis at http://www.ianridpath.com/ufo/Halt_affidavit.html",
+"text": "In June 2010 Halt wrote and signed a two-page notarised affidavit stating that an object moved overhead and sent a laser-like beam down to their feet, and that the object then moved toward Bentwaters and sent beams of light down into the Weapons Storage Area, with several airmen present reporting the beams. Neither element appears in the 1981 memo or on Halt's contemporaneous field tape.",
+"tier": 2
+},
+{
+"source": "http://www.ianridpath.com/ufo/rendlesham3.html, cited at http://www.ianridpath.com/ufo/Halt_affidavit.html",
+"text": "Airman Tim Egercic, on duty at the Bentwaters Weapons Storage Area at the time, has specifically denied that any beams came down into the WSA.",
+"tier": 3
+},
+{
+"source": "David Clarke, 'The Rendlesham Files,' quoted at http://www.ianridpath.com/ufo/Halt_affidavit.html",
+"text": "Col Ted Conrad, Halt's commanding officer, said of Halt's later account: \"He should be ashamed and embarrassed by his allegation that his country and England both conspired to deceive their citizens over this issue. He knows better,\" and said he saw nothing resembling Halt's descriptions while watching from outside his quarters at Woodbridge.",
+"tier": 2
+}
+],
+"connections": [
+"Rendlesham is the archetype for the 'documented event, undocumented follow-through' pattern that Grusch describes at programme scale in grusch-misappropriation-allegation.",
+"The Halt memo and the DEFE 24 files are exactly the class of record that Sections 1841-1843 of the FY2024 NDAA sweep into nara-rg615 -- records already publicly disclosed in unredacted form, which section 1842(a)(2)(B) forbids from being re-withheld or reclassified.",
+"Lord Peter Hill-Norton, former Chief of the Defence Staff and Chairman of the NATO Military Committee, is the highest-ranking serving-officer-turned-critic in the case file and pressed the MoD again in 2001 correspondence released under FOI in 2007.",
+"Robert Todd and Citizens Against UFO Secrecy obtained the memo through the U.S. FOIA in June 1983, establishing the FOIA route as the operative disclosure channel four decades before the UAP Records Collection Act.",
+"Charles Halt has remained a public claimant into the disclosure era, making his 2010 affidavit a bridge between the 1980 record and the 2023-2026 congressional cycle.",
+"The Weapons Storage Area at RAF Bentwaters, named in Halt's affidavit, ties the case to the recurring pattern of reported UAP activity over weapons-storage and nuclear infrastructure."
+],
+"denialPosture": "The British position, set out in the Trefgarne briefing paper of October 1985 (DEFE 24/1925 pp. 115-116) and defended for decades as the MoD's 'no defence significance' line, is that no additional action was required and that the incident's importance should be inferred from Halt's reporting delay and low-key handling. The U.S. position is expressed by omission: the Air Force generated no further report, took no further action, and did not retain its own copy of the memo. Col Ted Conrad's on-the-record repudiation of Halt supplies a named commanding officer's denial dated decades after the event.",
+"narrative": "The Halt memo is short enough to quote nearly in full, and its brevity is part of the case.\n\nParagraph 1: \"Early in the morning of 27 Dec 80 (approximately 0300L) two USAF security police patrolmen saw unusual lights outside the back gate at RAF Woodbridge. Thinking an aircraft might have crashed or been forced down, they called for permission to go outside the gate to investigate. The on-duty flight chief responded and allowed three patrolmen to proceed on foot. The individuals reported seeing a strange glowing object in the forest. The object was described as being metallic in appearance and triangular in shape, approximately two to three meters across the base and approximately two meters high. It illuminated the entire forest with a white light. The object itself had a pulsing red light on top and a bank(s) of blue lights underneath. The object was hovering or on legs. As the patrolmen approached the object, it maneuvered through the trees and disappeared. At this time the animals on a nearby farm went into a frenzy. The object was briefly sighted approximately an hour later near the back gate.\"\n\nParagraph 2: \"The next day, three depressions 1.5 inches deep and 7 inches in diameter were found where the object had been sighted on the ground. The following night (29 Dec 80) the area was checked for radiation. Beta/gamma readings of 0.1 milliroentgens were recorded with peak readings in the three depressions and near the center of the triangle formed by the depressions. A nearby tree had moderate (0.05-0.07) readings on the side of the tree toward the depressions.\"\n\nParagraph 3 describes the third night: a \"red sun-like light\" that \"appeared to throw off glowing particles and then broke into five separate white objects,\" then three star-like objects at about ten degrees elevation, two north and one south, moving \"in sharp, angular movements\" and displaying red, green and blue lights, the southern object \"visible for two or three hours\" and beaming \"down a stream of light from time to time.\" Halt closes: \"Numerous individuals, including the undersigned, witnessed the activities in paragraphs 2 and 3.\" Signed, Charles I. Halt, Lt Col, USAF, Deputy Base Commander.\n\nThis is a deputy base commander of a major forward USAF installation putting his name to a report of a landed object, physical ground traces, radiological readings taken with an instrument, and multiple military witnesses including himself. The memo was written on official USAF letterhead and was not classified in any way. It went to the British MoD. It was released under the U.S. Freedom of Information Act in June 1983 to Robert Todd of Citizens Against UFO Secrecy -- and the covering letter to Todd explains that the USAF had discarded its own copy and had to obtain another from the British MoD to satisfy the request. A U.S. Air Force base commander's report of a landed unknown craft was, by the institution's own account, not worth keeping.\n\nThe British disposition is documented with equal precision. In October 1985 the defence minister Lord David Trefgarne held a private, off-the-record meeting with Lord Peter Hill-Norton, the former Chief of the Defence Staff, who had been pressing the MoD on the case. The briefing paper prepared for Trefgarne survives as pages 115-116 of file DEFE 24/1925 at The National Archives, released in May 2008. Trefgarne's recorded view: \"Our own view also was that no additional action was required. We believe that the fact that Col. Halt did not report these occurrences to MoD for almost two weeks after the event, together with the relatively low-key manner in which he handled the matter, are indicative of the degree of importance in defence terms which should be attached to the incident.\" The reasoning is worth isolating: the MoD assessed the significance of a reported landing not from the reported facts but from the reporter's delay and demeanour. Trefgarne wrote \"Oh, dear\" at the top of Hill-Norton's letter of 26 July 1985, which survives at pages 208-210 of the same file and in duplicate at pages 259-261 and 280-282 of DEFE 31/174.\n\nSimon Weeden, the MoD desk officer who received the Halt memo, later described the disposition to journalist David Clarke: \"once we had been through all the basic checks and found there was nothing seen on radar, no obvious explanation, no obvious threat to air defence, we decided no further action was needed.\" No witness was interviewed. No further official report was made or action taken by the U.S. or U.K. authorities beyond the memo.\n\nIn June 2010 Halt wrote and signed a two-page notarised affidavit committing his then-current memory to paper. It goes materially beyond the memo. It says one of the objects moved overhead and sent a laser-like beam down to their feet; that the same object then moved back toward Bentwaters and sent beams of light down into the Weapons Storage Area; and that several airmen present reported seeing the beams. Neither the beam-to-their-feet event nor the Weapons Storage Area beams appear in the 1981 memo or on Halt's contemporaneous field tape.\n\nThe denials attached to the affidavit are themselves catalogued artifacts. Airman Tim Egercic, on duty at the Bentwaters Weapons Storage Area, has specifically denied that any beams came down into the WSA. Halt's superior officer Col Ted Conrad, who says he was watching from outside his quarters at Woodbridge and saw nothing resembling Halt's descriptions, said of him: \"He should be ashamed and embarrassed by his allegation that his country and England both conspired to deceive their citizens over this issue. He knows better.\" Conrad's statement is a dated, attributable denial by a named commanding officer -- which makes it evidence about the chain of command's posture, whatever it establishes about the lights.",
+"openQuestions": [
+"Whether any U.S. Air Force record of the incident beyond the Halt memo was ever created -- security police blotter entries, OSI reports, radiation survey logs, or the instrument readings themselves -- and where any such records are now.",
+"What was stored in the Bentwaters Weapons Storage Area in December 1980; neither the Halt memo nor the released MoD files establish the contents.",
+"Whether the radiological instrument used, its calibration, and the operator were ever identified in any official record.",
+"Why the memo was written on 13 January 1981, more than two weeks after the events, and at whose direction.",
+"Whether RAF Bentwaters or RAF Woodbridge records have been identified as UAP records under section 1842 of the FY2024 NDAA and transmitted to Record Group 615.",
+"Whether the alleged Halt field tape and any accompanying notes exist in any official U.S. or U.K. holding as opposed to private hands."
+],
+"roles": [
+"retrieval",
+"concealment",
+"custody",
+"research"
+],
+"whatItIs": "A series of encounters in and around Rendlesham Forest, Suffolk, England, in late December 1980, between the twin USAF bases RAF Bentwaters and RAF Woodbridge, in which USAF security police and, on a later night, the deputy base commander reported an unexplained illuminated object described as metallic and triangular, together with ground depressions and elevated radiation readings. The primary document is a one-page unclassified memorandum from Lt Col Charles I. Halt to the UK Ministry of Defence dated 13 January 1981 and headed \"Unexplained Lights.\"",
+"whyImplicated": "Rendlesham is the cleanest specimen on the board of an official, contemporaneous, signed U.S. military document describing a landed object of unknown origin at a nuclear-capable forward base -- and of the institutional machinery that made it go away. The memo was never classified, which is itself the tell: a document that is not secret cannot be leaked, and a document that is not investigated cannot generate a record. The USAF then threw away its own copy and had to obtain another from the British MoD when a FOIA requester asked for it in 1983. On the British side, a defence minister's briefing paper concluded in writing that \"no additional action was required,\" reasoning from Halt's two-week reporting delay and \"relatively low-key manner\" rather than from the physical evidence the memo describes. Rendlesham is therefore the paper trail of a non-investigation: everything that would have been generated by taking it seriously is absent, and the absence is documented."
+},
+"entityInfo": null,
+"era": "1",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "rendlesham-1980",
+"l0": true,
+"label": "Rendlesham Forest Incident, RAF Woodbridge/Bentwaters",
+"locLabel": null,
+"members": [
+{
+"cls": "person",
+"id": "charles-halt",
+"label": "Charles I. Halt",
+"tier": "B"
+},
+{
+"cls": "document",
+"id": "halt-memo",
+"label": "Halt Memorandum, 'Unexplained Lights', 13 January 1981",
+"tier": "B"
+},
+{
+"cls": "person",
+"id": "jim-penniston",
+"label": "James W. Penniston",
+"tier": "C"
+},
+{
+"cls": "person",
+"id": "john-burroughs",
+"label": "John Burroughs",
+"tier": "B"
+},
+{
+"cls": "location",
+"id": "l-raf-woodbridge",
+"label": "RAF Woodbridge / RAF Bentwaters, Suffolk, England",
+"tier": "C"
+},
+{
+"cls": "location",
+"id": "l-uk",
+"label": "United Kingdom",
+"tier": "C"
+},
+{
+"cls": "location",
+"id": "l-uk-mod-whitehall",
+"label": "Ministry of Defence Main Building, Whitehall, London",
+"tier": "C"
+},
+{
+"cls": "institution",
+"id": "sheffield-hallam",
+"label": "Sheffield Hallam University",
+"tier": "C"
+}
+],
+"short": "Rendlesham Forest, 1980",
+"sources": [
+{
+"date": "2021-11-11",
+"name": "The Halt Memo - Rendlesham Forest Incident (DoD FOIA case 97-F-1677, released Sept 1997)",
+"url": "https://www.theblackvault.com/documentarchive/the-halt-memo-the-rendlesham-forest-incident/"
+},
+{
+"date": "2020-12-26",
+"name": "BBC News, 'Rendlesham Forest UFO: Are we any closer to the truth 40 years on?'",
+"url": "https://www.bbc.co.uk/news/uk-england-suffolk-54649675"
+},
+{
+"date": "2020-12-26",
+"name": "David Clarke, 'Rendlesham UFOs 40th anniversary: the man from the ministry speaks for the first time'",
+"url": "https://drdavidclarke.co.uk/2020/12/26/rendlesham-ufos-40th-anniversary-the-man-from-the-ministry-speaks-for-the-first-time/"
+}
+],
+"sub": "26-28 December 1980; USAF-occupied NATO base, Suffolk, England",
+"tier": "A",
+"tierRationale": "Re-graded A on a global pass (rank 152 of 1027, score 50). 9 connections, 4 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C2/A1/D3.",
+"timeline": [
+{
+"date": "1980-12-26",
+"id": "t-1980-rendlesham",
+"label": "Rendlesham Forest incident begins",
+"precision": "day",
+"strand": "witness",
+"text": "USAF security patrolmen at the RAF Woodbridge east gate report lights descending into the forest; three enter on foot and report a metallic triangular object.",
+"tier": "A"
+}
+]
+}

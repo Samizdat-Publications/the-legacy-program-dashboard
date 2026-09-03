@@ -1,0 +1,113 @@
+{
+"A": 1,
+"C": 0,
+"D": 1,
+"affiliations": [
+"U.S. House of Representatives, CO-3 (2021-2025), CO-4 (2025- )",
+"Committee on Oversight and Accountability / Government Reform",
+"Task Force on the Declassification of Federal Secrets (2025- )"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "2024-11-13",
+"event": "Questions all four witnesses on an alleged DoD non-human genetic material program; all deny knowledge. Draws Shellenberger's 'Yes' on concerted Pentagon concealment from Congress.",
+"precision": "day"
+},
+{
+"date": "2025-09-09",
+"event": "Questions Wiggins, Nuccetelli, Borland and Spielberger at the Task Force hearing.",
+"precision": "day"
+}
+],
+"claims": [
+{
+"source": "Rep. Lauren Boebert, 13 November 2024, GPO CHRG-118hhrg57440",
+"text": "'There are rumors that have come up to the Hill of a secretive project within the Department of Defense involving the manipulation of human genetics with what is described as nonhuman genetic material potentially for the enhancement of human capabilities - hybrids. Are any of you familiar with that, yes or no?' All four witnesses answered no.",
+"tier": 1
+},
+{
+"source": "CHRG-118hhrg57440, 13 November 2024",
+"text": "Asked Shellenberger: 'Do you believe that there is a concerted effort by the Pentagon to keep Congress out of the loop regarding these UAP activities specifically in our waters?' Shellenberger: 'Yes.'",
+"tier": 1
+}
+],
+"cls": "person",
+"cluster": "oversight",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": "2024",
+"direction": "out",
+"edgeLabel": "Drew Shellenberger's 'Yes' on concerted Pentagon concealment from Congress in US waters",
+"id": "immaculate-constellation-12-page-report",
+"l0": true,
+"label": "Immaculate Constellation 12-page report entered into the Congressional Record",
+"note": "Also established that the program covers oceanic as well as terrestrial cases.",
+"sources": [
+{
+"date": "2024-11-13",
+"name": "U.S. GPO, Hearing transcript, Serial No. 118-135 (CHRG-118hhrg57440)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm"
+}
+],
+"tier": "A",
+"type": "investigative"
+}
+],
+"date": "2024-11-13",
+"dateEnd": null,
+"dateStart": "2024-11-13",
+"deg": 1,
+"denials": [],
+"domains": [
+"congress-house"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "lauren-boebert",
+"instId": "house-oversight-committee",
+"l0": false,
+"label": "Lauren Opal Boebert",
+"loc": "Windsor, CO",
+"locId": null,
+"members": null,
+"narrative": "Boebert sits on the Task Force on the Declassification of Federal Secrets and questioned witnesses at both the November 2024 and September 2025 hearings. Her 2024 round is worth preserving for two reasons. First, she answered Luna's 'you'll be on a list' warning by daring the surveillance apparatus outright before proceeding to name the program. Second, she asked all four witnesses, on the record, whether they were familiar with 'a secretive project within the Department of Defense involving the manipulation of human genetics with what is described as nonhuman genetic material potentially for the enhancement of human capabilities - hybrids.' All four - Gallaudet, Elizondo, Shellenberger and Gold - said no. That is a documented member-level rumour reaching the Hill and being tested under oath and coming back negative, which is exactly how the unverified layer should be handled. She also drew from Shellenberger the affirmative answer that Immaculate Constellation covers oceanic as well as terrestrial cases, and a flat 'Yes' to whether there is a concerted Pentagon effort to keep Congress out of the loop on UAP activity in US waters.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Lauren Opal Boebert",
+"sources": [
+{
+"date": "2024-11-13",
+"name": "U.S. GPO, Hearing transcript, Serial No. 118-135 (CHRG-118hhrg57440)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm"
+},
+{
+"date": "2025-09-09",
+"name": "U.S. GPO, Hearing transcript, Serial No. 119-44 (CHRG-119hhrg61718)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm"
+},
+{
+"date": "2026-08-12",
+"name": "House Oversight Committee, Task Force on the Declassification of Federal Secrets — membership page",
+"url": "https://oversight.house.gov/subcommittee/task-force-on-the-declassification-of-federal-secrets/"
+}
+],
+"status": "active",
+"sub": "U.S. Rep. (R-CO-4); Task Force member; asked about non-human genetic material",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 938 of 1027, score 12). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D1.",
+"timeline": [],
+"unexplainedResidual": null,
+"unverified": []
+}

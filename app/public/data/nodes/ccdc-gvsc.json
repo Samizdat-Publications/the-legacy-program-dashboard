@@ -1,0 +1,135 @@
+{
+"A": 1,
+"C": 3,
+"D": 1,
+"band": null,
+"claims": [
+{
+"source": "CRADA document and CCDC FOIA response, via The Black Vault and The War Zone",
+"text": "Executed the TTSA CRADA on 10 October 2019 and released the agreement text on 18 October 2019, while denying all 29 associated emails in full on 21 February 2020.",
+"tier": 1
+},
+{
+"source": "The Black Vault, 12 March 2020",
+"text": "GVSP public affairs officer Doug Halleaux stated 'we try not to release details on collaborative work until the work itself has reached a conclusion.'",
+"tier": 2
+}
+],
+"cls": "institution",
+"cluster": "other",
+"connections": [
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "2020",
+"direction": "out",
+"edgeLabel": "21 Feb 2020: Army withholds 29 emails / 100 pages of Cannon's TTSA correspondence in full",
+"id": "joseph-cannon",
+"l0": false,
+"label": "Dr. Joseph Cannon",
+"note": "CCDC FOIA Officer Joy L. Linton invoked exemptions (b)(4) and (b)(5) over an unclassified novel-materials collaboration the Army publicly described as origin-immaterial.",
+"sources": [
+{
+"date": "2020-03-12",
+"name": "The Black Vault — Secrecy Deepens",
+"url": "https://www.theblackvault.com/documentarchive/secrecy-deepens-about-u-s-army-agreement-to-analyze-ufo-material/"
+}
+],
+"tier": "B",
+"type": "denial"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "2023",
+"dateStart": "2019",
+"direction": "in",
+"edgeLabel": "Army counterparty; Detroit Arsenal ground vehicle laboratory",
+"id": "ttsa-army-crada",
+"l0": true,
+"label": "CRADA between U.S. Army Ground Vehicle Systems Center and To The Stars Academy",
+"note": "GVSC released the agreement text within a day of the announcement and withheld all associated correspondence four months later.",
+"sources": [
+{
+"date": "2020-03-12",
+"name": "The Black Vault — Secrecy Deepens",
+"url": "https://www.theblackvault.com/documentarchive/secrecy-deepens-about-u-s-army-agreement-to-analyze-ufo-material/"
+}
+],
+"tier": "A",
+"type": "institutional"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "2019",
+"deg": 2,
+"denials": [
+{
+"by": {
+"id": "ccdc-gvsc",
+"label": "U.S. Army Combat Capabilities Development Command, Ground Vehicle Systems Center"
+},
+"claimTier": 1,
+"denialKind": "directed",
+"label": "21 Feb 2020: Army withholds 29 emails / 100 pages of Cannon's TTSA correspondence in full",
+"note": "CCDC FOIA Officer Joy L. Linton invoked exemptions (b)(4) and (b)(5) over an unclassified novel-materials collaboration the Army publicly described as origin-immaterial.",
+"of": {
+"id": "joseph-cannon",
+"label": "Dr. Joseph Cannon"
+},
+"sources": [
+{
+"date": "2020-03-12",
+"name": "The Black Vault — Secrecy Deepens",
+"url": "https://www.theblackvault.com/documentarchive/secrecy-deepens-about-u-s-army-agreement-to-analyze-ufo-material/"
+}
+]
+}
+],
+"desc": "GVSC is the Army's ground vehicle research laboratory at Detroit Arsenal, part of Combat Capabilities Development Command under Army Futures Command. In October 2019 it became the only U.S. Government organisation ever to sign a public research agreement with a company asserting possession of material from a craft of unknown origin. Its Ground Vehicle Survivability and Protection directorate supplied the principal investigators, Bean Soave and Dr. Joseph Cannon. The laboratory released the CRADA text promptly, on 18 October 2019, but withheld the entire body of associated correspondence four months later, and has never published any characterisation results. Its public affairs posture — that origin is 'immaterial' and that 'we try not to release details on collaborative work until the work itself has reached a conclusion' — is a clean example of an agency holding a documented relationship at arm's length without denying it.",
+"domains": [
+"elizondo-ttsa"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "ccdc-gvsc",
+"l0": false,
+"label": "U.S. Army Combat Capabilities Development Command, Ground Vehicle Systems Center",
+"locLabel": null,
+"members": null,
+"short": "U.S. Army Combat Capabilities Development Command, Ground Vehicle Systems Center",
+"sources": [
+{
+"date": "2020-03-12",
+"name": "The Black Vault — Secrecy Deepens About U.S. Army Agreement To Analyze UFO Material",
+"url": "https://www.theblackvault.com/documentarchive/secrecy-deepens-about-u-s-army-agreement-to-analyze-ufo-material/"
+},
+{
+"date": "2019-10-18",
+"name": "The War Zone — The Army Wants To Verify To The Stars Academy's Fantastic UFO Mystery Material Claims",
+"url": "https://www.twz.com/30498/the-army-wants-to-verify-to-the-stars-academys-fantastic-ufo-mystery-material-claims"
+}
+],
+"sub": "Army laboratory, Detroit Arsenal, Warren, Michigan",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 535 of 1027, score 28). 2 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C3/A1/D1.",
+"timeline": [
+{
+"date": "2020-02-21",
+"id": "tl-2020-02-21-army-denial",
+"label": "Army withholds all CRADA correspondence",
+"precision": "day",
+"strand": "coverup",
+"text": "CCDC FOIA Officer Joy L. Linton locates 29 emails totalling 100 pages of TTSA-Army correspondence and denies all of them under exemptions (b)(4) and (b)(5).",
+"tier": "A"
+}
+]
+}

@@ -1,0 +1,144 @@
+{
+"A": 1,
+"C": 0,
+"D": 3,
+"band": null,
+"claims": [
+{
+"source": "H.R. 8197, 119th Congress; Newsweek 8 April 2026; Political Saucer analysis of the bill text — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"text": "H.R. 8197 was introduced by Rep. Tim Burchett on 6 April 2026 and would abolish AARO, bar any successor entity, and redistribute its functions to the military departments; it was referred to HASC and HPSCI.",
+"tier": 2
+},
+{
+"source": "Sentinel News, 'The AARO Saga'; contemporaneous reporting",
+"text": "Rep. Luna recommended AARO's complete defunding to the DOGE subcommittee in March 2026.",
+"tier": 2
+}
+],
+"cls": "legislation",
+"cluster": "oversight",
+"connections": [
+{
+"claimTier": 2,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2026",
+"direction": "out",
+"edgeLabel": "would abolish AARO outright and bar any successor entity",
+"id": "aaro",
+"l0": true,
+"label": "All-domain Anomaly Resolution Office (AARO)",
+"note": "The terminal congressional judgement that a centralised UAP office inside the Department is a mechanism of concealment rather than a remedy for it.",
+"sources": [
+{
+"date": "2026-04-10",
+"name": "Political Saucer - analysis of H.R. 8197",
+"url": "https://politicalsaucer.substack.com/p/all-domain-anomaly-resolution-office"
+}
+],
+"tier": "A",
+"type": "legislative"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2026",
+"dateStart": "2026",
+"direction": "in",
+"edgeLabel": "recommended AARO's complete defunding to the DOGE subcommittee in March 2026, weeks before the bill",
+"id": "anna-paulina-luna",
+"l0": false,
+"label": "Anna Paulina Luna",
+"note": "Luna's defunding recommendation and Burchett's abolition bill are the same judgement expressed through appropriations and authorisation respectively.",
+"sources": [
+{
+"date": "2026-05-25",
+"name": "Sentinel News - The AARO Saga",
+"url": "https://www.sentinel-news.org/p/the-aaro-saga"
+}
+],
+"tier": "A",
+"type": "legislative"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "2026",
+"direction": "in",
+"edgeLabel": "introduced the bill to abolish AARO, 6 April 2026",
+"id": "tim-burchett",
+"l0": false,
+"label": "Timothy Floyd Burchett",
+"note": "Four pages; abolishes the office, bars any successor, redistributes functions to the military departments, repeals the enabling statutes. Referred to HASC and HPSCI.",
+"sources": [
+{
+"date": "2026-04-08",
+"name": "Newsweek - Pentagon's UFO Office to Be Eliminated Under New Tim Burchett Bill",
+"url": "https://www.newsweek.com/pentagon-ufo-office-elimination-bill-burchett-uap-11801961"
+}
+],
+"tier": "A",
+"type": "legislative"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "2026",
+"deg": 3,
+"denials": [],
+"desc": "A four-page bill introduced by Rep. Tim Burchett on 6 April 2026 that would abolish the All-domain Anomaly Resolution Office outright rather than defund it, prohibit the establishment of any successor entity, redistribute the office's functions to the existing military departments, and repeal line by line the statutory architecture Congress built for it in the FY2022 and FY2023 NDAAs. Referred to the House Armed Services Committee and the House Permanent Select Committee on Intelligence. It is the terminal expression of a judgement that had been building in the House since 2023: that a centralised UAP office reporting inside the Department is not a solution to concealment but a mechanism for it. Rep. Anna Paulina Luna had recommended AARO's complete defunding to the DOGE subcommittee in March 2026, weeks earlier. That both members subsequently engaged constructively with Director Kosloski in May 2026 does not retire the bill's premise - it sharpens it, since the reversal followed the delivery of material Congress had been demanding for a year.",
+"domains": [
+"uaptf-aaro"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "hr-8197",
+"l0": false,
+"label": "H.R. 8197 (119th Congress) - bill to abolish AARO",
+"locLabel": null,
+"members": null,
+"short": "H.R. 8197 (119th Congress) - bill to abolish AARO",
+"sources": [
+{
+"date": "2026-04-08",
+"name": "Newsweek - Pentagon's UFO Office to Be Eliminated Under New Tim Burchett Bill",
+"url": "https://www.newsweek.com/pentagon-ufo-office-elimination-bill-burchett-uap-11801961"
+},
+{
+"date": "2026-04-10",
+"name": "Political Saucer - AARO: Four Years. Tens of Millions of Dollars. Two Thousand Open Cases. This Bill Will Shut it down.",
+"url": "https://politicalsaucer.substack.com/p/all-domain-anomaly-resolution-office"
+},
+{
+"date": "2026-04-09",
+"name": "UFONews - AARO Shutdown Bill Targets UAP Office Now",
+"url": "https://www.ufonews.co/post/aaro-shutdown-bill-targets-uap-office-now"
+},
+{
+"date": "2026-05-25",
+"name": "Sentinel News - The AARO Saga",
+"url": "https://www.sentinel-news.org/p/the-aaro-saga"
+}
+],
+"sub": "Introduced 6 April 2026 by Rep. Tim Burchett",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 866 of 1027, score 16). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D3.",
+"timeline": [
+{
+"date": "2026-04-06",
+"id": "tl-hr8197-2026-04-06",
+"label": "Bill introduced to abolish AARO",
+"precision": "day",
+"strand": "oversight",
+"text": "Rep. Tim Burchett introduces H.R. 8197: abolish the office, bar any successor, redistribute functions to the military departments, repeal the enabling statutes. Referred to HASC and HPSCI.",
+"tier": "A"
+}
+]
+}

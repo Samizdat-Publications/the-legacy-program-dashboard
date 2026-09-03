@@ -1,0 +1,103 @@
+{
+"A": 0,
+"C": 0,
+"D": 2,
+"affiliations": [
+"Rockefeller Initiative (1993-1996)"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "1993-01-01",
+"event": "Engaged by Rockefeller Family & Associates to produce a briefing document on the UFO evidence.",
+"precision": "year"
+},
+{
+"date": "1995-01-01",
+"event": "'The Best Available Evidence' completed and distributed.",
+"precision": "year"
+}
+],
+"claims": [
+{
+"source": "Marie Galbraith and initiative participants, contemporaneous accounts; document's own distribution statement",
+"text": "Galbraith compiled and distributed 'UFO Briefing Document: The Best Available Evidence' in 1995 under Laurance Rockefeller's funding, targeting government officials and legislators rather than the general public.",
+"tier": 2
+}
+],
+"cls": "person",
+"cluster": "research",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 2,
+"cls": "document",
+"dateEnd": "1995",
+"dateStart": "1993",
+"direction": "out",
+"edgeLabel": "Galbraith compiled 'The Best Available Evidence'",
+"id": "best-available-evidence",
+"l0": false,
+"label": "UFO Briefing Document: The Best Available Evidence (1995)",
+"note": "Compiled with Stanton Friedman and Don Berliner under Rockefeller funding and distributed to legislators, officials and heads of state in 1995.",
+"sources": [
+{
+"date": "2019-09-16",
+"name": "Clinton Digital Library, FOIA collection 2006-0480-F, 'Laurance Rockefeller' (Clinton-Rockefeller correspondence)",
+"url": "https://clinton.presidentiallibraries.us/items/show/36323"
+}
+],
+"tier": "C",
+"type": "institutional"
+}
+],
+"date": "1995-01-01",
+"dateEnd": null,
+"dateStart": "1995-01-01",
+"deg": 1,
+"denials": [],
+"domains": [
+"history-1970s-2000s"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "1",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "marie-galbraith",
+"instId": "rockefeller-initiative",
+"l0": false,
+"label": "Marie 'Bootsie' Galbraith",
+"loc": "New York, NY",
+"locId": "l-dc",
+"members": null,
+"narrative": "Galbraith was the person who actually built the Rockefeller Initiative's product. Working with Stanton Friedman and Don Berliner and funded by Laurance Rockefeller, she compiled 'Unidentified Flying Objects Briefing Document: The Best Available Evidence' - a document consciously written in the register of a government briefing paper rather than a UFO book, organised around multiple-witness, instrumented and official-record cases, and distributed in 1995 to legislators, officials and heads of state. Her husband Evan Galbraith had been US Ambassador to France, which is the access that made the distribution list possible. The Best Available Evidence is the closest thing the pre-2017 era produced to a prosecutorial brief, and its structure - lead with the documented cases, name the officials, cite the FOIA releases - is the template this board follows. It was ignored, which is data.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Marie 'Bootsie' Galbraith",
+"sources": [
+{
+"date": "2019-09-16",
+"name": "Clinton Digital Library, FOIA collection 2006-0480-F, 'Laurance Rockefeller' (Clinton-Rockefeller correspondence)",
+"url": "https://clinton.presidentiallibraries.us/items/show/36323"
+},
+{
+"date": "2019-09-16",
+"name": "Clinton Digital Library, FOIA collection 2006-0476-F, 'New Mexico Roswell'",
+"url": "https://clinton.presidentiallibraries.us/items/show/36328"
+}
+],
+"status": "active",
+"sub": "Editor/producer of 'UFO Briefing Document: The Best Available Evidence' (1995); Rockefeller Initiative principal",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 1016 of 1027, score 7). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D2.",
+"timeline": [],
+"unexplainedResidual": null,
+"unverified": [
+"No copy of the 1995 distribution list has been published."
+]
+}

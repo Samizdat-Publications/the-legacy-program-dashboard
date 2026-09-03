@@ -1,0 +1,181 @@
+{
+"A": 1,
+"C": 1,
+"D": 2,
+"band": null,
+"claims": [
+{
+"source": "UAP Gerb, Battelle investigation description, 18 February 2024",
+"text": "Battelle studied UAP material, likely a shape-memory metallic alloy found at the 1947 Roswell crash site and now referred to as nitinol, as documented by Jacques Vallee with a supporting paper trail.",
+"tier": 2
+},
+{
+"source": "UAP Gerb, Battelle investigation description, 18 February 2024",
+"text": "Battelle worked with the US government and USAF from the 1950s to create a machine index categorising UFO reports and to quell public interest in the phenomenon.",
+"tier": 2
+},
+{
+"source": "Citation list published in the video description, 18 February 2024 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"text": "The investigation cites retrievable primary records: CUFON's Project Stork progress reports, the CIA reading room copy of Special Report No. 14, a Black Vault release of the Second Progress Report on Titanium Alloys, AEC Research and Development Reports at the UNT digital library, and the Defense.gov Moultrie roundtable transcript.",
+"tier": 2
+}
+],
+"cls": "document",
+"cluster": "research",
+"connections": [
+{
+"claimTier": 2,
+"cls": "institution",
+"dateEnd": "2026",
+"dateStart": "1947",
+"direction": "out",
+"edgeLabel": "Alleges Battelle studied Roswell-derived shape-memory alloy",
+"id": "battelle",
+"l0": true,
+"label": "Battelle Memorial Institute",
+"note": "Gerb argues, following Jacques Vallee's paper trail, that Battelle studied a shape-memory metallic alloy recovered at Roswell now referred to as nitinol, while also building the USAF's machine index of UFO reports and helping quell public interest.",
+"sources": [
+{
+"date": "2024-02-18",
+"name": "UAP Gerb - Battelle Memorial Institute investigation",
+"url": "https://www.youtube.com/watch?v=tISTJRPOqFo"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2024",
+"dateStart": "2024",
+"direction": "out",
+"edgeLabel": "Relies on Vallee's documented nitinol paper trail",
+"id": "jacques-vallee",
+"l0": false,
+"label": "Jacques F. Vallee",
+"note": "Gerb explicitly credits Vallee as the source of the supporting documentary trail for the Battelle materials claim.",
+"sources": [
+{
+"date": "2024-02-18",
+"name": "UAP Gerb - Battelle Memorial Institute investigation",
+"url": "https://www.youtube.com/watch?v=tISTJRPOqFo"
+}
+],
+"tier": "B",
+"type": "witness-chain"
+},
+{
+"claimTier": 2,
+"cls": "program",
+"dateEnd": "1955",
+"dateStart": "1952",
+"direction": "out",
+"edgeLabel": "Battelle's Project Stork produced Special Report No. 14",
+"id": "project-blue-book",
+"l0": true,
+"label": "Project Blue Book",
+"note": "Project Stork was Battelle's contract supporting the Air Force UFO effort; it produced the statistical study issued as Special Report No. 14, a document available in the CIA reading room.",
+"sources": [
+{
+"date": "2024-02-18",
+"name": "UAP Gerb - Battelle Memorial Institute investigation",
+"url": "https://www.youtube.com/watch?v=tISTJRPOqFo"
+}
+],
+"tier": "A",
+"type": "programmatic"
+},
+{
+"claimTier": 3,
+"cls": "person",
+"dateEnd": "2024",
+"dateStart": "2022",
+"direction": "out",
+"edgeLabel": "Traces a modern line from Battelle to AARO messaging",
+"id": "sean-kirkpatrick",
+"l0": false,
+"label": "Sean M. Kirkpatrick",
+"note": "Gerb's stated aim is to 'connect the dots from Roswell to shadowy modern-day players pulling the strings of Sean Kirkpatrick to drive the UAP narrative.' This is an inference about influence, not a documented relationship.",
+"sources": [
+{
+"date": "2024-02-18",
+"name": "UAP Gerb - Battelle Memorial Institute investigation",
+"url": "https://www.youtube.com/watch?v=tISTJRPOqFo"
+}
+],
+"tier": "A",
+"type": "investigative"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2024",
+"dateStart": "2024",
+"direction": "in",
+"edgeLabel": "Gerb's first corporate investigation, with full primary citations",
+"id": "uap-gerb",
+"l0": false,
+"label": "'UAP Gerb' (Sam)",
+"note": "Published 18 February 2024 with a published citation list including CUFON's Project Stork reports, the CIA reading room copy of Special Report No. 14, a Black Vault titanium alloys release and the Defense.gov Moultrie roundtable transcript.",
+"sources": [
+{
+"date": "2024-02-18",
+"name": "UAP Gerb - Battelle Memorial Institute investigation",
+"url": "https://www.youtube.com/watch?v=tISTJRPOqFo"
+}
+],
+"tier": "A",
+"type": "investigative"
+}
+],
+"coords": null,
+"dateEnd": "2024",
+"dateStart": "2024",
+"deg": 5,
+"denials": [],
+"desc": "Gerb's first corporate investigation, published 18 February 2024, and the most primary-document-dense entry in his catalogue - which is why it is the best available test of his method. It traces Battelle Memorial Institute from the 1950s, when it worked with the US government and Air Force to build a machine index categorising UFO reports and, the investigation argues, to quell public interest; through Project Stork and the resulting Special Report No. 14; through Battelle's alleged direct study of UAP material, likely a shape-memory metallic alloy recovered at the 1947 Roswell site and now referred to as nitinol, a claim for which Jacques Vallee has assembled a supporting paper trail; to modern-day connections between Battelle and the personnel around Sean Kirkpatrick and the Pentagon's public UAP messaging. The description publishes its citations in full: CUFON's Progress Reports on Project Stork, a scan of Howard C. Cross's Project Stork material, the CIA reading room copy of Special Report No. 14, a Black Vault release of the Second Progress Report on Titanium Alloys, AEC Research and Development Reports at the University of North Texas digital library, a 1994 MUFON Ohio document, and the Defense.gov transcript of the Moultrie roundtable. It also candidly flags one missing citation: 'MISSING: UPDATE ON PROJECT STORK (HAVE PDF BUT NOT LINK)'. That admission is a good-faith marker worth recording.",
+"domains": [
+"media-structure"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "gerb-battelle-investigation",
+"l0": false,
+"label": "UAP Gerb - Battelle Memorial Institute investigation",
+"locLabel": null,
+"members": null,
+"short": "UAP Gerb - Battelle Memorial Institute investigation",
+"sources": [
+{
+"date": "2024-02-18",
+"name": "UAP Gerb - 'UFOs in the Private Sector - Battelle Memorial Institute'",
+"url": "https://www.youtube.com/watch?v=tISTJRPOqFo"
+},
+{
+"date": "2024-02-18",
+"name": "CUFON - Progress Reports on Project Stork",
+"url": "https://www.cufon.org/cufon/stork1-7.htm"
+}
+],
+"sub": "Video investigation, 18 Feb 2024",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 538 of 1027, score 28). 5 connections, 2 of them custody/witness/funding/programmatic. Axes C1/A1/D2.",
+"timeline": [
+{
+"date": "2024-02-18",
+"id": "ms-2024-battelle",
+"label": "Gerb publishes the Battelle investigation",
+"precision": "day",
+"strand": "program",
+"text": "UAP Gerb's first corporate investigation, published with a full primary-document citation list including Project Stork, Special Report No. 14 and the Defense.gov Moultrie roundtable transcript. The method that will define the domain is established.",
+"tier": "A"
+}
+]
+}

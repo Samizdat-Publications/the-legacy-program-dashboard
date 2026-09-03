@@ -1,0 +1,175 @@
+{
+"A": 3,
+"C": 2,
+"D": 1,
+"band": null,
+"claims": [
+{
+"source": "Deputy Secretary of Defense, Special Access Program Oversight Committee, Information Bulletin, November 1994, as transcribed at https://sgp.fas.org/othergov/sapoc.html",
+"text": "The change and its date: 'On January 5th, 1994, the Deputy Secretary of Defense (DEPSECDEF) significantly enhanced changes in the DoD Special Access Program (SAP) management and control structures. ... The plan standardized and formalized the SAP approval, termination, revalidation and restructuring process through the Special Access Program Oversight Committee (SAPOC). A Senior Review Group (SRG) was established to support the SAPOC principals.' Tier 2 because the text opened is a transcription published by the Federation of American Scientists and no scan of the original bulletin was found from this environment.",
+"tier": 2
+},
+{
+"source": "Deputy Secretary of Defense, SAPOC Information Bulletin, November 1994, https://sgp.fas.org/othergov/sapoc.html",
+"text": "The committee's membership in November 1994: 'The SAPOC is chaired by the Honorable John Deutch, DEPSECDEF, with permanent members the Honorable Paul Kaminski USD(A&T), the Honorable Walter Slocombe USD(P), ADM William A. Owens, VCJCS, and the Honorable Emmett Paige Jr., ASD(C3I). BGEN Mike Kostelnik, OUSD(A&T), serves as both member and executive secretary to the SAPOC in his capacity as director of the SAPCO (SAP Coordinating Office). SAPOC membership is not further delegable.'",
+"tier": 2
+},
+{
+"source": "Deputy Secretary of Defense, SAPOC Information Bulletin, November 1994, https://sgp.fas.org/othergov/sapoc.html",
+"text": "The annual review and the decision authority date from this change, not from the 2010 directive: 'All SAPs will be reviewed and validated annually for continued SAP status by the OSD SAPOC. ... The DEPSECDEF is the final decision maker in establishing, disestablishing or restructuring SAPs.'",
+"tier": 2
+},
+{
+"source": "Joint Security Commission, 'Redefining Security: A Report to the Secretary of Defense and the Director of Central Intelligence', 28 February 1994, chapter 2, https://sgp.fas.org/library/jsc/chap2.html",
+"text": "A commission chartered by the Secretary of Defense and the Director of Central Intelligence corroborated the formation within two months: 'Until recently there has been no procedure for centralized assessment of special program proposals submitted directly to the Deputy Secretary of Defense by the military departments. The recent formation of the DoD Special Access Program Oversight Committee, which the Commission fully supports, will ensure that every program is reviewed by a panel of senior officials prior to its establishment, and annually thereafter, to determine whether compartmentation for each program is still required.'",
+"tier": 1
+},
+{
+"source": "Joint Security Commission, 'Redefining Security', 28 February 1994, chapter 2, https://sgp.fas.org/library/jsc/chap2.html",
+"text": "The same chapter records the scale and the carve-outs the board's oversight view argues from: 'Some of the most sensitive DoD programs are \"waived\" or \"carved out\" from certain oversight and administrative requirements. There are over one hundred DoD SAPs, with many having numerous compartments and subcompartments', and each SAP manager 'is free to establish the security rules that will apply to his or her particular program.' On congressional reporting the Commission concluded it saw 'no need to modify existing reporting procedures'.",
+"tier": 1
+}
+],
+"cls": "event",
+"cluster": "oversight",
+"connections": [
+{
+"claimTier": 2,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "The SAPCO staffed the committee from the start",
+"id": "dod-sapco",
+"l0": true,
+"label": "DoD Special Access Program Central Office (DoD SAPCO)",
+"note": "The bulletin makes the director of the SAP Coordinating Office both a member of and executive secretary to the SAPOC, and says the SAPCO 'serves as the primary point of contact with Congress, the National Security Council, and other government agencies'.",
+"sources": [
+{
+"date": "1994-11-01",
+"name": "SAPOC Information Bulletin, November 1994",
+"url": "https://sgp.fas.org/othergov/sapoc.html"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 2,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "The later directive re-established a body of the same name",
+"id": "dodd-5205-07-2024",
+"l0": false,
+"label": "DoDD 5205.07, DoD Special Access Program (SAP) Policy (12 Sep 2024)",
+"note": "The 1994 bulletin and the 1994 commission report both describe a SAPOC chaired by the Deputy Secretary of Defense with an annual validation function, which is the function the later directive and instruction assign.",
+"sources": [
+{
+"date": "1994-11-01",
+"name": "SAPOC Information Bulletin, November 1994, read against the dodd-5205-07-2024 node",
+"url": "https://sgp.fas.org/othergov/sapoc.html"
+}
+],
+"tier": "A",
+"type": "temporal"
+},
+{
+"claimTier": 2,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "The committee the board dates to 2010 was running from January 1994",
+"id": "sapoc",
+"l0": false,
+"label": "Special Access Program Oversight Committee (SAPOC)",
+"note": "The November 1994 bulletin has the SAPOC chaired by the Deputy Secretary of Defense, reviewing and validating every SAP annually, sixteen years before the DoD Directive 5205.07 issuance the sapoc node cites as its establishment.",
+"sources": [
+{
+"date": "1994-11-01",
+"name": "SAPOC Information Bulletin, November 1994",
+"url": "https://sgp.fas.org/othergov/sapoc.html"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "Waived and carved-out programmes named in a chartered commission's report",
+"id": "waived-usap",
+"l0": true,
+"label": "Waived unacknowledged special access program (waived USAP)",
+"note": "The Joint Security Commission's chapter 2 states that some of the most sensitive DoD programmes are waived or carved out from certain oversight and administrative requirements, and that there are over one hundred DoD SAPs with numerous compartments.",
+"sources": [
+{
+"date": "1994-02-28",
+"name": "Joint Security Commission, Redefining Security, chapter 2",
+"url": "https://sgp.fas.org/library/jsc/chap2.html"
+}
+],
+"tier": "A",
+"type": "programmatic"
+}
+],
+"coords": null,
+"dateEnd": "1994-01-05",
+"dateStart": "1994-01-05",
+"deg": 4,
+"denials": [],
+"desc": "On 5 January 1994 the Deputy Secretary of Defense changed the Department's special access programme management and control structures, standardising the approval, termination, revalidation and restructuring of SAPs through a Special Access Program Oversight Committee chaired by the Deputy Secretary, with a Senior Review Group established to support the SAPOC principals and a Special Access Program Coordinating Office staffing both. By November 1994 the committee was chaired by Deputy Secretary John Deutch with the Under Secretary for Acquisition and Technology, the Under Secretary for Policy, the Vice Chairman of the Joint Chiefs of Staff and the Assistant Secretary for C3I as permanent, non-delegable members. The Joint Security Commission, reporting to the Secretary of Defense and the Director of Central Intelligence on 28 February 1994, described the committee as recently formed and supported it. This node exists because the board's sapoc node dates the committee to a 2010 directive, and the 2010 issuance re-established rather than created it.",
+"domains": [
+"area52-2026-09-02"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "1",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "dod-sap-reform-1994",
+"l0": false,
+"label": "DoD special access programme governance change, 5 January 1994",
+"locLabel": null,
+"members": null,
+"short": "DoD special access programme governance change, 5 January 1994",
+"sources": [
+{
+"date": "1994-11-01",
+"name": "Deputy Secretary of Defense, Special Access Program Oversight Committee Information Bulletin, November 1994 (FAS transcription)",
+"url": "https://sgp.fas.org/othergov/sapoc.html"
+},
+{
+"date": "1994-02-28",
+"name": "Joint Security Commission, Redefining Security: A Report to the Secretary of Defense and the Director of Central Intelligence, 28 February 1994",
+"url": "https://sgp.fas.org/library/jsc/index.html"
+},
+{
+"date": "1994-02-28",
+"name": "Joint Security Commission, Redefining Security, chapter 2, Classification Management",
+"url": "https://sgp.fas.org/library/jsc/chap2.html"
+}
+],
+"sub": "SAPOC, Senior Review Group and SAPCO stood up under the Deputy Secretary of Defense",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 275 of 1027, score 38). 4 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A3/D1.",
+"timeline": [
+{
+"date": "1994-01-05",
+"id": "tl-1994-01-05-dod-sap-governance-change",
+"label": "The Deputy Secretary of Defense stands up the SAPOC, sixteen years before the directive the board cites",
+"precision": "day",
+"strand": "oversight",
+"text": "'On January 5th, 1994, the Deputy Secretary of Defense (DEPSECDEF) significantly enhanced changes in the DoD Special Access Program (SAP) management and control structures. ... The plan standardized and formalized the SAP approval, termination, revalidation and restructuring process through the Special Access Program Oversight Committee (SAPOC). A Senior Review Group (SRG) was established to support the SAPOC principals.' The Joint Security Commission called the committee a 'recent formation' on 28 February 1994. The board's sapoc node dated the committee to DoD Directive 5205.07 of 1 July 2010; the 2010 issuance re-established a body that had run since 1994.",
+"tier": "B"
+}
+]
+}

@@ -1,0 +1,227 @@
+{
+"A": 1,
+"C": 0,
+"D": 2,
+"affiliations": [
+"U.S. House of Representatives, CA-42 (2023- )",
+"Subcommittee on National Security, the Border, and Foreign Affairs, Ranking Member (2023-2024)",
+"Committee on Oversight and Government Reform, Ranking Member (2025- )",
+"Mayor of Long Beach, California (2014-2022)",
+"US House of Representatives, CA-42 (2023- )",
+"House Oversight Committee, Ranking Member (2025- )"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "2023-07-26",
+"event": "Delivers Ranking Member opening statement; questions Graves on pilot reporting and stigma.",
+"precision": "day"
+},
+{
+"date": "2023-07-26",
+"event": "Elicits the 40-witnesses-over-4-years answer and the protected-disclosure chain",
+"precision": "day"
+},
+{
+"date": "2024-01-11",
+"event": "Introduces H.R. 6967, the Safe Airspace for Americans Act, with Rep. Grothman.",
+"precision": "day"
+},
+{
+"date": "2024-01-12",
+"event": "Attends the closed ICIG briefing with Thomas Monheim.",
+"precision": "day"
+},
+{
+"date": "2025-06",
+"event": "Becomes Ranking Member of the full Committee on Oversight and Government Reform.",
+"precision": "month"
+}
+],
+"claims": [
+{
+"source": "CHRG-118hhrg53022, 26 July 2023",
+"text": "Ranking Member of the subcommittee that held the 26 July 2023 hearing; opened it by crediting Burchett's leadership and framing UAP as a national-security and institutional-trust question.",
+"tier": 1
+},
+{
+"source": "H.R. 6967 (118th Congress), as introduced, GPO",
+"text": "Sponsor of H.R. 6967, the Safe Airspace for Americans Act, introduced 11 January 2024, to create an FAA-to-AARO civilian UAP reporting channel with legal safeguards.",
+"tier": 1
+},
+{
+"source": "The Hill, 12 January 2024",
+"text": "After the 12 January 2024 ICIG briefing: it is reasonable to contend that 'everyone that was in the room received probably new information.'",
+"tier": 2
+},
+{
+"source": "House Oversight hearing transcript, 26 July 2023",
+"text": "Elicited: 'Absolutely, based on interviewing over 40 witnesses over 4 years... I actually had the people with the firsthand knowledge provide a protected disclosure to the Inspector General.'",
+"tier": 1
+}
+],
+"cls": "person",
+"cluster": "oversight",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "2023",
+"dateStart": "2023",
+"direction": "out",
+"edgeLabel": "Elicited the 40-witnesses-over-4-years answer and the protected disclosure chain",
+"id": "david-grusch",
+"l0": false,
+"label": "David Charles Grusch",
+"note": "Garcia's questioning established that Grusch had the firsthand-knowledge individuals file their own protected disclosures with the Inspector General - the fact that makes the witness chain more than hearsay.",
+"sources": [
+{
+"date": "2023-07-26",
+"name": "House Oversight hearing transcript",
+"url": "https://www.congress.gov/118/meeting/house/116282/documents/HHRG-118-GO06-Transcript-20230726.pdf"
+}
+],
+"tier": "A",
+"type": "legislative"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "2025",
+"dateStart": "2023",
+"direction": "out",
+"edgeLabel": "Ranking Member at the 2023 hearing",
+"id": "hoc-subcommittee-national-security",
+"l0": false,
+"label": "Subcommittee on National Security, the Border, and Foreign Affairs",
+"note": "Garcia delivered the Ranking Member opening statement on 26 July 2023.",
+"sources": [
+{
+"date": "2023-07-26",
+"name": "U.S. GPO, Hearing transcript, Serial No. 118-53 (CHRG-118hhrg53022)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 2,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2025",
+"direction": "out",
+"edgeLabel": "Ranking Member of the full committee from 2025",
+"id": "house-oversight-committee",
+"l0": true,
+"label": "U.S. House Committee on Oversight and Government Reform",
+"note": "Garcia moved from subcommittee ranking member to full-committee ranking member in the 119th Congress; printed in the CHRG-119hhrg61718 roster.",
+"sources": [
+{
+"date": "2025-09-09",
+"name": "U.S. GPO, Hearing transcript, Serial No. 119-44 (CHRG-119hhrg61718)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "legislation",
+"dateEnd": "2025",
+"dateStart": "2024",
+"direction": "out",
+"edgeLabel": "Sponsor",
+"id": "hr-6967-safe-airspace-for-americans-act",
+"l0": false,
+"label": "H.R. 6967 - Safe Airspace for Americans Act (118th Congress)",
+"note": "Introduced 11 January 2024, the day before the ICIG briefing.",
+"sources": [
+{
+"date": "2024-01-11",
+"name": "Congress.gov, H.R. 6967 — Safe Airspace for Americans Act (118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/6967"
+},
+{
+"date": "2024-01-12",
+"name": "The Hill: Classified UFO briefing — House members emerge with mixed feelings",
+"url": "https://thehill.com/homenews/house/4406059-classified-ufo-briefing-house-members-mixed-feelings/"
+}
+],
+"tier": "C",
+"type": "legislative"
+}
+],
+"date": "2023-07-26",
+"dateEnd": null,
+"dateStart": "2023-07-26",
+"deg": 4,
+"denials": [],
+"domains": [
+"congress-house",
+"grusch"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "robert-garcia",
+"instId": "house-oversight-committee",
+"l0": false,
+"label": "Robert Garcia",
+"loc": "Long Beach, CA",
+"locId": null,
+"members": null,
+"narrative": "Garcia was Ranking Member of the National Security, the Border and Foreign Affairs subcommittee when it held the 26 July 2023 hearing, and his handling of it is why the hearing read as an oversight proceeding rather than a spectacle. He opened by thanking Burchett for the leadership that produced the hearing, framed the matter as national security and institutional trust, and anchored it to the December 2017 New York Times reporting on DIA-funded UAP research. His questioning concentrated on the reporting gap: Graves's estimate of the number of pilots he was working with, the absence of any usable reporting channel for aviators, and the stigma that suppresses reports. He converted that into legislation - on 11 January 2024 he introduced H.R. 6967, the Safe Airspace for Americans Act, to let civilian pilots and personnel report UAP encounters to the FAA for onward transmission to AARO with legal safeguards, co-led with Republican subcommittee chairman Glenn Grothman. He attended the 12 January 2024 closed ICIG briefing and said afterward that everyone in the room 'probably received new information.' He is now Ranking Member of the full Committee on Oversight and Government Reform in the 119th Congress, which places the ranking-member half of the committee's UAP posture with him.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Robert Garcia",
+"sources": [
+{
+"date": "2023-07-26",
+"name": "U.S. GPO, Hearing transcript, Serial No. 118-53 (CHRG-118hhrg53022)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm"
+},
+{
+"date": "2023-07-26",
+"name": "House Oversight Committee, hearing page: UAP: Implications on National Security, Public Safety, and Government Transparency",
+"url": "https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/"
+},
+{
+"date": "2024-01-11",
+"name": "U.S. GPO, H.R. 6967 (118th), Safe Airspace for Americans Act, as introduced",
+"url": "https://www.govinfo.gov/content/pkg/BILLS-118hr6967ih/html/BILLS-118hr6967ih.htm"
+},
+{
+"date": "2024-01-11",
+"name": "Congress.gov, H.R. 6967 — Safe Airspace for Americans Act (118th Congress)",
+"url": "https://www.congress.gov/bill/118th-congress/house-bill/6967"
+},
+{
+"date": "2024-01-12",
+"name": "The Hill: Classified UFO briefing — House members emerge with mixed feelings",
+"url": "https://thehill.com/homenews/house/4406059-classified-ufo-briefing-house-members-mixed-feelings/"
+},
+{
+"date": "2023-07-26",
+"name": "House Oversight hearing transcript, Serial No. 118-53",
+"url": "https://www.congress.gov/118/meeting/house/116282/documents/HHRG-118-GO06-Transcript-20230726.pdf"
+}
+],
+"status": "active",
+"sub": "U.S. Rep. (D-CA-42); Ranking Member, 2023 hearing; later Oversight Ranking Member",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 693 of 1027, score 22). 4 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D2.",
+"timeline": [],
+"unexplainedResidual": null,
+"unverified": [
+"How many of the roughly 40 witnesses actually filed their own protected disclosures, and whether the ICIG adjudicated any of them."
+]
+}

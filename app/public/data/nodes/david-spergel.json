@@ -1,0 +1,259 @@
+{
+"A": 1,
+"C": 0,
+"D": 2,
+"affiliations": [
+"Princeton University, Department of Astrophysical Sciences",
+"Simons Foundation, President (2021- )",
+"NASA UAP Independent Study Team, Chair (2022-2023)",
+"Princeton University, Department of Astrophysical Sciences (chair, 2006-2016)",
+"Flatiron Institute / Simons Foundation (President, 2021- )",
+"NASA UAP Independent Study Team - chair (2022-2023)"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "2022-05-24",
+"event": "NASA commissions the UAP Independent Study Team.",
+"precision": "day"
+},
+{
+"date": "2022-10-01",
+"event": "NASA convenes the UAP Independent Study Team; Spergel named chair",
+"precision": "month"
+},
+{
+"date": "2022-10-24",
+"event": "The team begins work.",
+"precision": "day"
+},
+{
+"date": "2023-05-31",
+"event": "The study team holds its public meeting",
+"precision": "day"
+},
+{
+"date": "2023-05-31",
+"event": "The team's only public meeting.",
+"precision": "day"
+},
+{
+"date": "2023-09-14",
+"event": "Final report released; NASA announces a Director of UAP Research but declines to name the person",
+"precision": "day"
+},
+{
+"date": "2023-09-14",
+"event": "Final report released; team dissolved; NASA announces a Director of UAP Research.",
+"precision": "day"
+}
+],
+"claims": [
+{
+"source": "American Alchemy with Jesse Michels, 'The Wall Street Journal Is Gaslighting You On UFOs', 13 June 2025, 0:15:15 and 0:16:09, https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL4839772690.mp3?updated=1750950332",
+"text": "On American Alchemy with Jesse Michels, 13 June 2025, at 0:15:15, Michels said a Wall Street Journal journalist he names only as Lena told him that Spergel 'is their de facto advisor on UFOs' and that on his account the objects are all space trash, light reflections and temperature inversions. Michels retold the same anecdote to Ross Coulthart on 21 June 2025 at 0:43:31 and to Richard Dolan on 28 June 2025 at 1:42:04. All three are the same speaker relaying the same unnamed journalist, not three independent sources, and Michels says in the first telling 'I have no smoking gun'.",
+"tier": 2
+},
+{
+"source": "NASA UAP Independent Study Team Final Report, 14 September 2023",
+"text": "'Analysis of UAP data is hampered by poor sensor calibration, the lack of multiple measurements, the lack of sensor metadata.'",
+"tier": 1
+},
+{
+"source": "NASA UAP Independent Study Team Final Report, 14 September 2023",
+"text": "The report recommends enhancing the Aviation Safety Reporting System for commercial pilot UAP reporting and applying AI/machine learning to curated datasets.",
+"tier": 1
+},
+{
+"source": "NASA UAP Independent Study Team Final Report, 14 September 2023",
+"text": "'To date, in the peer-reviewed scientific literature, there is no conclusive evidence suggesting an extraterrestrial origin for UAP.'",
+"tier": 1
+},
+{
+"source": "NASA UAP Independent Study Team final report and NASA announcements",
+"text": "Spergel chaired NASA's sixteen-member UAP Independent Study Team, commissioned 24 May 2022 and reporting 14 September 2023, with Daniel Evans as designated federal official.",
+"tier": 1
+},
+{
+"source": "NASA UAP Independent Study Team Final Report, 14 September 2023",
+"text": "The team's report concluded that no evidence of extraterrestrial origin was found and that poor-quality and limited data is the principal obstacle, recommending a rigorous evidence-based approach using AI and citizen observation.",
+"tier": 1
+},
+{
+"source": "Inference from the panel's terms of reference and the absence of any classified read-on",
+"text": "The panel's remit was structurally incapable of addressing the question it was convened for: it examined unclassified data only, while the entire dispute concerns classified holdings and contractor-held material. Its finding of insufficient data is therefore a description of its own access, not of the evidence.",
+"tier": 3
+}
+],
+"cls": "person",
+"cluster": "research",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "2023-09-14",
+"dateStart": "2022",
+"direction": "out",
+"edgeLabel": "Chaired the NASA UAP Independent Study Team",
+"id": "nasa",
+"l0": true,
+"label": "National Aeronautics and Space Administration",
+"note": "Spergel of the Simons Foundation chaired the 16-member panel.",
+"sources": [
+{
+"date": "2023-09-14",
+"name": "NASA UAP Independent Study Team Report",
+"url": "https://smd-cms.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf"
+}
+],
+"tier": "B",
+"type": "research"
+},
+{
+"claimTier": 2,
+"cls": "program",
+"dateEnd": "2023",
+"dateStart": "2022",
+"direction": "out",
+"edgeLabel": "Panel worked under sustained public harassment",
+"id": "nasa-uap-ist",
+"l0": true,
+"label": "NASA UAP Independent Study Team",
+"note": "Gold testified that designated federal officer Daniel Evans 'did an amazing job under difficult conditions' - the euphemism recording the abuse the panel absorbed.",
+"sources": [
+{
+"date": "2024-11-13",
+"name": "House Oversight - Gold written testimony (PDF)",
+"url": "https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Gold.pdf"
+}
+],
+"tier": "B",
+"type": "behavioral"
+},
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": "2023",
+"dateStart": "2022",
+"direction": "out",
+"edgeLabel": "Chaired the NASA UAP Independent Study Team",
+"id": "nasa-uap-ist",
+"l0": true,
+"label": "NASA UAP Independent Study Team",
+"note": "Spergel chaired the sixteen-member panel whose final report was released 14 September 2023.",
+"sources": [
+{
+"date": "2023-09-14",
+"name": "NASA UAP Independent Study Team Final Report (PDF)",
+"url": "https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": "2023",
+"dateStart": "2022",
+"direction": "out",
+"edgeLabel": "Chaired the sixteen-member NASA panel, 2022-2023",
+"id": "nasa-uapist",
+"l0": false,
+"label": "NASA Unidentified Anomalous Phenomena Independent Study Team",
+"note": "Commissioned 24 May 2022, one public meeting 31 May 2023, report delivered and team dissolved 14 September 2023.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Wikipedia: NASA Unidentified Anomalous Phenomena Independent Study Team",
+"url": "https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team"
+},
+{
+"date": "2023-09-14",
+"name": "NASA UAP Independent Study Team Final Report",
+"url": "https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf"
+}
+],
+"tier": "C",
+"type": "institutional"
+}
+],
+"date": "2023-09-14",
+"dateEnd": null,
+"dateStart": "2023-09-14",
+"deg": 3,
+"denials": [],
+"domains": [
+"aviators-incidents",
+"scientists-technical"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "david-spergel",
+"instId": "nasa-uap-ist",
+"l0": false,
+"label": "David N. Spergel",
+"loc": "New York, NY",
+"locId": "l-dc",
+"members": null,
+"narrative": "Spergel chaired the only formal scientific panel the US government has convened on this subject in the modern era, and the way that panel was constrained is itself evidence. NASA commissioned the Unidentified Anomalous Phenomena Independent Study Team on 24 May 2022; it began work on 24 October 2022, held a single public meeting on 31 May 2023, and delivered its report on 14 September 2023, the same day it dissolved. Its sixteen members were a genuinely serious cross-section - Federica Bianco, Joshua Semeter, Shelley Wright, Matt Mountain, Walter Scott of Maxar, Reggie Brothers, Mike Gold, Scott Kelly, plus FAA leadership in Warren Randolph and Karlin Toner. The report's conclusions were unremarkable by design: no evidence of extraterrestrial origin, data quality is the binding constraint, NASA should apply rigorous evidence-based methods including AI and crowdsourced observation, and NASA is well placed to lead. What the panel did not have was access to the classified holdings that the entire controversy is about. It was a study of the poverty of the unclassified record, conducted by people barred from the classified one, and NASA then declined at first to name the new director of UAP research it announced the same day. That is the shape of the concealment problem rendered in an organisation chart.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "David N. Spergel",
+"sources": [
+{
+"date": "2025-06-13",
+"name": "American Alchemy with Jesse Michels, 'The Wall Street Journal Is Gaslighting You On UFOs' (episode audio)",
+"url": "https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL4839772690.mp3?updated=1750950332"
+},
+{
+"date": "2025-06-21",
+"name": "American Alchemy with Jesse Michels, 'Ross Coulthart: I Located A UFO Base In Arizona!' (episode audio)",
+"url": "https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL3194990234.mp3?updated=1752180278"
+},
+{
+"date": "2025-06-28",
+"name": "American Alchemy with Jesse Michels, 'The UFO Kill List: Who Paid the Price? (Ft. Richard Dolan)' (episode audio)",
+"url": "https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL9096049904.mp3?updated=1752180025"
+},
+{
+"date": "2023-09-14",
+"name": "NASA UAP Independent Study Team Final Report (PDF)",
+"url": "https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf"
+},
+{
+"date": "2026-08-12",
+"name": "NASA - UAP program page",
+"url": "https://science.nasa.gov/uap/"
+},
+{
+"date": "2023-09-14",
+"name": "The Debrief - NASA IST publishes findings, agency appoints UAP research director",
+"url": "https://thedebrief.org/nasas-uap-independent-study-team-publishes-its-findings-as-the-agency-appoints-a-new-nasa-director-of-uap-research/"
+},
+{
+"date": "2026-08-12",
+"name": "Wikipedia: NASA Unidentified Anomalous Phenomena Independent Study Team",
+"url": "https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team"
+}
+],
+"status": "active",
+"sub": "Astrophysicist; President, Simons Foundation; Chair, NASA UAP Independent Study Team",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 487 of 1027, score 29). 4 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D2.",
+"timeline": [],
+"unexplainedResidual": null,
+"unverified": [
+"Whether the study team was given access to any classified DoD or IC UAP holdings; the report's own framing suggests it was not.",
+"Whether any panel member was read on to any classified UAP holding.",
+"The identity of the NASA Director of UAP Research announced on 14 September 2023 and that post's current status."
+]
+}

@@ -1,0 +1,217 @@
+{
+"A": 3,
+"C": 2,
+"D": 2,
+"band": null,
+"claims": [
+{
+"source": "Federation of American Scientists, 'AATIP List', 17 January 2019; DIA letter to Aftergood, 16 January 2019",
+"text": "DIA released a list of 38 AATIP/AAWSAP research titles to Steven Aftergood of FAS on 16 January 2019; the list had previously been provided to Congress in January 2018. The programme cost approximately $22 million and ran 2007-2012.",
+"tier": 1
+},
+{
+"source": "DIA FOIA Electronic Reading Room, AATIP index",
+"text": "The released DIRDs are hosted in the DIA FOIA Electronic Reading Room alongside the AAWSAP statement of work, four contract status briefs, Bigelow Aerospace contract records, the 'Final Packet Presented to DepSecDef', and correspondence including 'Reid To DEPSECDEF Ref AAITP In SAP' and 'U-09-2660CE IM Review Of Special Access Program Request'.",
+"tier": 1
+},
+{
+"source": "Administrative note, DIA-08-1004-004",
+"text": "DIA-08-1004-004 states that its product 'is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency, Defense Warning Office's Advanced Aerospace Weapon System Applications (AAWSA) Program', with questions to be addressed to James T. Lacatski, D.Eng., AAWSA Program Manager, ATTN: CLAR/DWO-3, Bldg 6000, Washington DC 20340-5100.",
+"tier": 1
+},
+{
+"source": "Inference from the full 38-title list",
+"text": "The composition of the series - propulsion physics, exotic materials, metamaterials, metallic glasses, spintronics, biomaterials and a clinical injury study - is the commissioning profile of an organisation attempting to characterise an artefact it possesses, not of an organisation surveying a future threat. No single document states this; the inference is from the set.",
+"tier": 3
+}
+],
+"cls": "program",
+"cluster": "ic",
+"connections": [
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": "2010",
+"dateStart": "2008",
+"direction": "out",
+"edgeLabel": "The DIRDs are the documentary output of the AAWSAP contract",
+"id": "aawsap",
+"l0": true,
+"label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)",
+"note": "Each released DIRD states it is 'one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency, Defense Warning Office's Advanced Aerospace Weapon System Applications (AAWSA) Program'.",
+"sources": [
+{
+"date": "2010-04-06",
+"name": "DIRD DIA-08-1004-004, 'Traversable Wormholes, Stargates, and Negative Energy' (Eric W. Davis, EarthTech International)",
+"url": "https://documents.theblackvault.com/documents/traversablewormholes-drdavis.pdf"
+},
+{
+"date": "2026-08-12",
+"name": "DIA FOIA Electronic Reading Room - Advanced Aerospace Threat Identification Program",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FOIA-Reading-Room-Advanced-Aerospace-Threat-Identification-Program/"
+}
+],
+"tier": "A",
+"type": "programmatic"
+},
+{
+"claimTier": 3,
+"cls": "domain",
+"dateEnd": "2010",
+"dateStart": "2008",
+"direction": "out",
+"edgeLabel": "Exhaustive on paper flow, silent on object flow",
+"id": "d-custody",
+"l0": false,
+"label": "Chain of custody",
+"note": "The released AAWSAP corpus documents control numbers, fiscal years, contract status, statements of work and named programme managers - and contains no record of the receipt, transfer or storage of any physical sample. The asymmetry is the finding.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "DIA FOIA Electronic Reading Room - Advanced Aerospace Threat Identification Program",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FOIA-Reading-Room-Advanced-Aerospace-Threat-Identification-Program/"
+},
+{
+"date": "2019-01-16",
+"name": "DIA letter to Steven Aftergood listing 38 AATIP reference products",
+"url": "https://irp.fas.org/dia/aatip-list.pdf"
+}
+],
+"tier": "A",
+"type": "behavioral"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": "2019",
+"direction": "out",
+"edgeLabel": "The 38-title list is the only official enumeration of the series",
+"id": "dia-aatip-list-2019",
+"l0": false,
+"label": "DIA letter to Steven Aftergood listing 38 AATIP reference products (16 January 2019)",
+"note": "DIA released the list to Steven Aftergood of FAS on 16 January 2019 under FOIA; it had been provided to Congress in January 2018. Without this release the series would be known only from leaks.",
+"sources": [
+{
+"date": "2019-01-17",
+"name": "Federation of American Scientists, 'AATIP List' (Secrecy News)",
+"url": "https://fas.org/publication/aatip-list/"
+},
+{
+"date": "2019-01-16",
+"name": "DIA letter to Steven Aftergood listing 38 AATIP reference products",
+"url": "https://irp.fas.org/dia/aatip-list.pdf"
+}
+],
+"tier": "C",
+"type": "investigative"
+}
+],
+"coords": null,
+"dateEnd": "2010",
+"dateStart": "2008",
+"deg": 3,
+"denials": [],
+"desc": "The DIRD series is the paper trail the programme left behind. Between roughly 2008 and 2010 the Defense Intelligence Agency's Defense Warning Office, through its Advanced Aerospace Weapon System Applications (AAWSA/AAWSAP) programme and its programme manager James T. Lacatski, D.Eng., commissioned 38 technical reference products from outside performers. On 16 January 2019 the DIA released the list of titles to Steven Aftergood of the Federation of American Scientists in response to a FOIA request; the same list had been provided to Congress in January 2018. The titles are exactly what a reverse-engineering effort would commission if it had hardware it could not explain: 'Advanced Space Propulsion Based on Vacuum (Spacetime Metric) Engineering' (Puthoff), 'Traversable Wormholes, Stargates, and Negative Energy' (Davis), 'Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions' (Obousy and Davis), 'Metamaterials for Aerospace Applications' (G. Shvets), 'Materials for Advanced Aerospace Platforms' (J. Williams), 'Metallic Glasses: Status and Prospects for Aerospace Applications' (T. Hufnagel), 'Metallic Spintronics' (M. Tsoi), 'Biomaterials' (Bruce Towe), 'Invisibility Cloaking: Theory and Experiments' (Ulf Leonhardt), 'Negative Mass Propulsion' (F. Winterberg), 'Detection and High Resolution Tracking of Vehicles at Hypersonic Velocities' (W. Culbreth), 'Aerospace Applications of Programmable Matter', 'Concepts for Extracting Energy from the Quantum Vacuum', 'The Role of Superconductors in Gravity Research', 'Quantum Tomography of Negative Energy States in the Vacuum', and the Green medical study. Read as a set, the series is a systematic literature survey of every physical mechanism you would need to understand if you were holding a vehicle whose performance violated your propulsion assumptions - plus a clinical study of the injuries it inflicts on bystanders. The DIA's own FOIA reading room now hosts the released documents alongside the AAWSAP statement of work, contract status briefs and the Reid correspondence on special access programme status.",
+"domains": [
+"scientists-technical"
+],
+"dossier": null,
+"entityInfo": {
+"desc": "Titles confirmed in the released record, with performers where documented: 'Advanced Space Propulsion Based on Vacuum (Spacetime Metric) Engineering' (Harold E. Puthoff); 'Traversable Wormholes, Stargates, and Negative Energy' (Eric W. Davis, EarthTech International, DIA-08-1004-004); 'Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions' (Richard K. Obousy and Eric W. Davis); 'Clinical Medical Acute & Subacute Field Effects on Human Dermal & Neurological Tissues' (Christopher 'Kit' Green, Institute for Advanced Studies at Austin); 'Invisibility Cloaking: Theory and Experiments' (Ulf Leonhardt); 'Biomaterials' (Bruce Towe); 'Metamaterials for Aerospace Applications' (G. Shvets); 'Metallic Glasses: Status and Prospects for Aerospace Applications' (T. Hufnagel); 'Metallic Spintronics' (M. Tsoi); 'Materials for Advanced Aerospace Platforms' (J. Williams); 'Detection and High Resolution Tracking of Vehicles at Hypersonic Velocities' (W. Culbreth); 'Negative Mass Propulsion' (F. Winterberg); 'State of the Art and Evolution of High Energy Laser Weapons' (J. Albertine). Further titles listed in the DIA FOIA reading room index without published performer attribution include 'Advanced Nuclear Propulsion for Manned Deep Space Missions', 'Aerospace Applications of Programmable Matter', 'An Introduction to the Statistical Drake Equation', 'Aneutronic Fusion Propulsion' (two volumes), 'Antigravity for Aerospace Applications', 'Biosensors and a Survey of the Present Field', 'Cockpits in the Era of Breakthrough Flight', 'Cognitive Limits on Simultaneous Control of Multiple Unmanned Spacecraft', 'Concepts for Extracting Energy from the Quantum Vacuum', 'High-Frequency Gravitational Wave Communications', 'Inertial Electrostatic Confinement Fusion', 'Laser Lightcraft Nanosatellites', 'Maverick Inventor Versus Corporate Inventor', 'MHD Air Breathing Propulsion and Power for Aerospace Applications', 'Positron Aerospace Propulsion', 'Pulsed High-Power Microwave Source Technology', 'Quantum Computing and Utilizing Organic Molecules in Automation Technology', 'Quantum Tomography of Negative Energy States in the Vacuum', 'Space Access: Where We've Been and Where We Could Go', 'Technological Approaches to Controlling...', 'The Role of Superconductors in Gravity Research', 'The Space Communication Implications of Quantum Entanglement' and 'Ultracapacitors as Energy and Power Storage Devices'.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "DIA FOIA Electronic Reading Room - Advanced Aerospace Threat Identification Program",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FOIA-Reading-Room-Advanced-Aerospace-Threat-Identification-Program/"
+},
+{
+"date": "2019-01-16",
+"name": "DIA letter to Steven Aftergood listing 38 AATIP reference products",
+"url": "https://irp.fas.org/dia/aatip-list.pdf"
+},
+{
+"date": "2026-08-12",
+"name": "Wikipedia: Advanced Aerospace Threat Identification Program",
+"url": "https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program"
+},
+{
+"date": "2010-04-06",
+"name": "DIRD DIA-08-1004-004, 'Traversable Wormholes, Stargates, and Negative Energy' (Eric W. Davis, EarthTech International)",
+"url": "https://documents.theblackvault.com/documents/traversablewormholes-drdavis.pdf"
+},
+{
+"date": "2020-01-01",
+"name": "DIRD 'Clinical Medical Acute & Subacute Field Effects on Human Dermal & Neurological Tissues' (Christopher Green, Institute for Advanced Studies at Austin)",
+"url": "https://www.theblackvault.com/documentarchive/wp-content/uploads/2020/01/kitgreen-dird.pdf"
+}
+]
+},
+"era": "2",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "aawsap-dird-series",
+"l0": false,
+"label": "AAWSAP Defense Intelligence Reference Document series",
+"locLabel": null,
+"members": null,
+"short": "AAWSAP Defense Intelligence Reference Document series",
+"sources": [
+{
+"date": "2019-01-17",
+"name": "Federation of American Scientists, 'AATIP List' (Secrecy News)",
+"url": "https://fas.org/publication/aatip-list/"
+},
+{
+"date": "2019-01-16",
+"name": "DIA letter to Steven Aftergood listing 38 AATIP reference products",
+"url": "https://irp.fas.org/dia/aatip-list.pdf"
+},
+{
+"date": "2026-08-12",
+"name": "DIA FOIA Electronic Reading Room - Advanced Aerospace Threat Identification Program",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FOIA-Reading-Room-Advanced-Aerospace-Threat-Identification-Program/"
+},
+{
+"date": "2010-04-06",
+"name": "DIRD DIA-08-1004-004, 'Traversable Wormholes, Stargates, and Negative Energy' (Eric W. Davis, EarthTech International)",
+"url": "https://documents.theblackvault.com/documents/traversablewormholes-drdavis.pdf"
+},
+{
+"date": "2020-01-01",
+"name": "DIRD 'Clinical Medical Acute & Subacute Field Effects on Human Dermal & Neurological Tissues' (Christopher Green, Institute for Advanced Studies at Austin)",
+"url": "https://www.theblackvault.com/documentarchive/wp-content/uploads/2020/01/kitgreen-dird.pdf"
+},
+{
+"date": "2026-08-12",
+"name": "Wikipedia: Advanced Aerospace Threat Identification Program",
+"url": "https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program"
+}
+],
+"sub": "38 technical reference products produced FY2008-FY2010 for the DIA Defense Warning Office",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 294 of 1027, score 37). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A3/D2.",
+"timeline": [
+{
+"date": "2008-09-01",
+"id": "st-2008-aawsap",
+"label": "AAWSAP awarded",
+"precision": "month",
+"strand": "program",
+"text": "The DIA awards the Advanced Aerospace Weapon System Applications contract to Bigelow Aerospace Advanced Space Studies; Colm Kelleher serves as deputy administrator.",
+"tier": "A"
+},
+{
+"date": "2009-01-01",
+"id": "st-2009-dirds",
+"label": "DIRD series produced",
+"precision": "year",
+"strand": "program",
+"text": "The FY2009 Defense Intelligence Reference Documents are produced under the DIA Defense Warning Office with James T. Lacatski as programme manager - propulsion physics, exotic materials and human injury pathology commissioned as one set.",
+"tier": "A"
+}
+]
+}

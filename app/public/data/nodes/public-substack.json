@@ -1,0 +1,170 @@
+{
+"A": 0,
+"C": 0,
+"D": 3,
+"band": null,
+"claims": [
+{
+"source": "Wikipedia, 'Michael Shellenberger', retrieved 12 August 2026 — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"text": "Shellenberger is co-founder of Public, a newsletter covering censorship, cities, mental health, addiction, energy and the environment.",
+"tier": 2
+}
+],
+"cls": "institution",
+"cluster": "media",
+"connections": [
+{
+"claimTier": 1,
+"cls": "domain",
+"dateEnd": "2024-11-13",
+"dateStart": "2024-10",
+"direction": "out",
+"edgeLabel": "a newsletter, not a newsroom, carried a named alleged programme into the congressional record",
+"id": "d-media",
+"l0": false,
+"label": "Independent media as the disclosure substrate",
+"note": "Michael Shellenberger reported the Immaculate Constellation allegations on Public and then entered the twelve-page report into the record as a witness before the House Committee on Oversight and Accountability on 13 November 2024. The chain runs leak to Substack to sworn testimony with no traditional newsroom in it, which is the domain's thesis stated as a single case.",
+"sources": [
+{
+"date": "2024-11-13",
+"name": "Michael Shellenberger, written testimony to the House Committee on Oversight and Accountability",
+"url": "https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Shellenberger.pdf"
+},
+{
+"date": "2024-11-13",
+"name": "House Oversight hearing transcript, 'UAP: Exposing the Truth' (CHRG-118hhrg57440)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm"
+}
+],
+"tier": "C",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "Founder Shellenberger testified as a hearing witness",
+"id": "hearing-2024-11-13",
+"l0": true,
+"label": "House Oversight joint hearing, 13 November 2024 - 'Unidentified Anomalous Phenomena: Exposing the Truth'",
+"note": "The transcript lists 'Mr. Michael Shellenberger, Founder of Public' as one of four witnesses, alongside Rear Admiral Timothy Gallaudet, Luis Elizondo and Michael Gold. His statement opens 'Chairwoman Mace, Chairman Grothman, Ranking Member Connolly, Ranking Member Garcia, Members of the Subcommittees' - a joint sitting of two subcommittees.",
+"sources": [
+{
+"date": "2024-11-13",
+"name": "Joint House Oversight subcommittee hearing, 'Unidentified Anomalous Phenomena: Exposing the Truth', 13 November 2024 (CHRG-118hhrg57440)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm"
+},
+{
+"date": null,
+"name": "https://www.npr.org/2024/11/13/nx-s1-5189426/ufo-uap-hearing-congress-2024",
+"url": "https://www.npr.org/2024/11/13/nx-s1-5189426/ufo-uap-hearing-congress-2024"
+},
+{
+"date": null,
+"name": "https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Shellenberger.pdf",
+"url": "https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Shellenberger.pdf"
+}
+],
+"tier": "A",
+"type": "witness-chain"
+},
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "Published the whistleblower brief naming the program",
+"id": "immaculate-constellation",
+"l0": true,
+"label": "Immaculate Constellation disclosure, October-November 2024",
+"note": "Shellenberger brought the Immaculate Constellation allegation to Congress, arguing 'there is a growing body of evidence that the U.S. Government is not being transparent about what it knows about unidentified anomalous phenomena and that elements within the military and the IC are in violation of their constitutional duty to notify Congress of their operations.' The name appears seventeen times across the printed hearing.",
+"sources": [
+{
+"date": "2024-11-13",
+"name": "Joint House Oversight subcommittee hearing, 13 November 2024 (CHRG-118hhrg57440)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm"
+},
+{
+"date": null,
+"name": "https://www.npr.org/2024/11/13/nx-s1-5189426/ufo-uap-hearing-congress-2024",
+"url": "https://www.npr.org/2024/11/13/nx-s1-5189426/ufo-uap-hearing-congress-2024"
+},
+{
+"date": null,
+"name": "https://www.public.news/p/pentagon-is-illegally-hiding-secret",
+"url": "https://www.public.news/p/pentagon-is-illegally-hiding-secret"
+}
+],
+"tier": "A",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "Immaculate Constellation document hosted on Mace's House site",
+"id": "nancy-mace",
+"l0": false,
+"label": "Nancy Ruth Mace",
+"note": "The hearing's own index of documents records the route the material took into the record: 'Report, Pentagon, ``Immaculate Constellation``; submitted by Rep. Mace.' Mace chaired the sitting - Shellenberger's statement opens by addressing her as Chairwoman - and it was she, not the witness, who entered the document.",
+"sources": [
+{
+"date": "2024-11-13",
+"name": "Joint House Oversight subcommittee hearing, 13 November 2024 (CHRG-118hhrg57440)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm"
+},
+{
+"date": null,
+"name": "https://www.npr.org/2024/11/13/nx-s1-5189426/ufo-uap-hearing-congress-2024",
+"url": "https://www.npr.org/2024/11/13/nx-s1-5189426/ufo-uap-hearing-congress-2024"
+},
+{
+"date": null,
+"name": "https://mace.house.gov/immaculateconstellation",
+"url": "https://mace.house.gov/immaculateconstellation"
+}
+],
+"tier": "A",
+"type": "investigative"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "2022",
+"deg": 4,
+"denials": [],
+"desc": "Public is the Substack newsletter co-founded by Michael Shellenberger covering censorship, cities, mental health, addiction, energy and the environment. Its relevance here is narrow and sharp: it is the outlet through which Shellenberger reported the Immaculate Constellation allegations before entering the twelve-page report into the congressional record on 13 November 2024. Public is a further instance of the pattern that defines this domain - the most consequential UAP reporting of the period was published on subscription platforms owned by individual journalists rather than by newsrooms.",
+"domains": [
+"media-structure"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "public-substack",
+"l0": false,
+"label": "Public",
+"locLabel": null,
+"members": null,
+"short": "Public",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Wikipedia - Michael Shellenberger",
+"url": "https://en.wikipedia.org/wiki/Michael_Shellenberger"
+}
+],
+"sub": "Substack newsletter",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 891 of 1027, score 15). 4 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D3.",
+"timeline": []
+}

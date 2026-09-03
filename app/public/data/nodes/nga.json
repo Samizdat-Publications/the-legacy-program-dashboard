@@ -1,0 +1,177 @@
+{
+"A": 3,
+"C": 1,
+"D": 0,
+"band": null,
+"claims": [
+{
+"source": "ODNI Preliminary Assessment, 25 June 2021",
+"text": "NGA is named among the contributing elements to ODNI's 25 June 2021 Preliminary Assessment on UAP.",
+"tier": 1
+},
+{
+"source": "AARO Historical Record Report Volume I",
+"text": "AARO's Historical Record Report Volume I lists NGA among the agencies with which AARO partnered or at which it conducted records research.",
+"tier": 1
+},
+{
+"source": "Inference from the absence of any NGA UAP release, testimony or litigation in the public record",
+"text": "NGA is the least-examined major IC element in the UAP record despite holding the exploitation product most capable of resolving ground-based recovery and storage claims. Reasoning: no UAP FOIA collection, no hearing appearance and no litigation history exist for NGA, while its mission set is directly responsive to the allegations.",
+"tier": 3
+}
+],
+"cls": "institution",
+"cluster": "other",
+"connections": [
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "2023",
+"dateStart": "2021",
+"direction": "in",
+"edgeLabel": "GS-15 Senior GEOINT Capabilities Requirements Officer; agency co-lead for UAP analysis",
+"id": "david-grusch",
+"l0": false,
+"label": "David Charles Grusch",
+"note": "From November 2021 to April 2023 Grusch was a GS-15 at NGA and, in his sworn words, 'my agency's co-lead in unidentified anomalous phenomena and trans medium object analysis as well as reporting to the UAP Task Force and eventually, once it was established, the All-Domain Anomaly Resolution Office.' He also testified that reviewing overhead collection of such events was one of his primary NGA tasks.",
+"sources": [
+{
+"date": "2023-07-26",
+"name": "House Oversight hearing transcript, Serial No. 118-53",
+"url": "https://www.congress.gov/118/meeting/house/116282/documents/HHRG-118-GO06-Transcript-20230726.pdf"
+},
+{
+"date": "2023-07-26",
+"name": "House Oversight witness biography",
+"url": "https://docs.house.gov/meetings/GO/GO06/20230726/116282/HHRG-118-GO06-Bio-GruschD-20230726.pdf"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2025-04-24",
+"direction": "out",
+"edgeLabel": "Named 2021 UAP contributor that produced nothing for the statutory collection",
+"id": "nara-uap-collection",
+"l0": true,
+"label": "National Archives Unidentified Anomalous Phenomena Records Collection",
+"note": "ODNI named NGA as a contributor of UAP reporting in June 2021; NARA's April 2025 transfer list does not include NGA, CIA, NSA, NRO, DIA, DOE or DHS.",
+"sources": [
+{
+"date": "2025-04-24",
+"name": "National Archives press release nr25-07",
+"url": "https://www.archives.gov/press/press-releases/2025/nr25-07"
+},
+{
+"date": "2021-06-25",
+"name": "ODNI, Preliminary Assessment: Unidentified Aerial Phenomena",
+"url": "https://archive.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf"
+}
+],
+"tier": "A",
+"type": "denial"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2021-06-25",
+"direction": "out",
+"edgeLabel": "Named contributor to the 2021 ODNI Preliminary Assessment on UAP",
+"id": "odni",
+"l0": true,
+"label": "Office of the Director of National Intelligence",
+"note": "ODNI's 25 June 2021 assessment names NGA among the contributing elements, establishing that this agency produced or held UAP-relevant reporting.",
+"sources": [
+{
+"date": "2021-06-25",
+"name": "ODNI, Preliminary Assessment: Unidentified Aerial Phenomena",
+"url": "https://archive.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf"
+}
+],
+"tier": "A",
+"type": "institutional"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "1996-10-01",
+"deg": 3,
+"denials": [
+{
+"by": {
+"id": "nga",
+"label": "National Geospatial-Intelligence Agency"
+},
+"claimTier": 1,
+"denialKind": "directed",
+"label": "Named 2021 UAP contributor that produced nothing for the statutory collection",
+"note": "ODNI named NGA as a contributor of UAP reporting in June 2021; NARA's April 2025 transfer list does not include NGA, CIA, NSA, NRO, DIA, DOE or DHS.",
+"of": {
+"id": "nara-uap-collection",
+"label": "National Archives Unidentified Anomalous Phenomena Records Collection"
+},
+"sources": [
+{
+"date": "2025-04-24",
+"name": "National Archives press release nr25-07",
+"url": "https://www.archives.gov/press/press-releases/2025/nr25-07"
+},
+{
+"date": "2021-06-25",
+"name": "ODNI, Preliminary Assessment: Unidentified Aerial Phenomena",
+"url": "https://archive.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf"
+}
+]
+}
+],
+"desc": "NGA is the Intelligence Community's geospatial intelligence element and a Department of Defense combat support agency, created as the National Imagery and Mapping Agency in 1996 out of the Defense Mapping Agency, the Central Imagery Office and CIA's National Photographic Interpretation Center, and renamed the National Geospatial-Intelligence Agency in the FY2004 National Defense Authorization Act. Its relevance to this board is exploitation rather than collection: NGA is the agency that turns NRO overhead product and commercial imagery into analysed geospatial intelligence, which makes it the natural custodian of any imagery-derived record of anomalous objects and of any imagery-derived record of a recovery operation. NGA is named among the contributing elements to ODNI's 25 June 2021 Preliminary Assessment on UAP, and AARO's March 2024 historical report lists NGA among the agencies at which it conducted research. NGA has not published a UAP-specific FOIA collection, has not appeared as a witness at any UAP hearing, and has not been the subject of any published FOIA litigation on the subject - a silence that is itself a research gap rather than an answer, because the agency's product line is precisely the kind that would resolve a claim about objects and installations on the ground.",
+"domains": [
+"_rs-archive-mirror",
+"w2-agencies"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "1",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "nga",
+"l0": false,
+"label": "National Geospatial-Intelligence Agency",
+"locLabel": null,
+"members": null,
+"short": "National Geospatial-Intelligence Agency",
+"sources": [
+{
+"date": "2026-08-11",
+"name": "Archived: ODNI, Preliminary Assessment: Unidentified Aerial Phenomena (Wayback 2026-08-11)",
+"url": "https://web.archive.org/web/20260811010946/https://archive.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf"
+},
+{
+"date": "2026-07-05",
+"name": "Archived: AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I (DOPSR-2024-0263) (Wayback 2026-07-05)",
+"url": "https://web.archive.org/web/20260705034310/https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF"
+},
+{
+"date": "2021-06-25",
+"name": "ODNI, Preliminary Assessment: Unidentified Aerial Phenomena",
+"url": "https://archive.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf"
+},
+{
+"date": "2024-03-08",
+"name": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I (DOPSR-2024-0263)",
+"url": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF"
+}
+],
+"sub": "Combat support agency and IC element for geospatial intelligence; successor to NIMA and the Defense Mapping Agency",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 561 of 1027, score 27). 3 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D0.",
+"timeline": []
+}

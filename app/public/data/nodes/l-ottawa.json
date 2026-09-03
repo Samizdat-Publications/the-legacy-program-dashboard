@@ -1,0 +1,111 @@
+{
+"A": 1,
+"C": 1,
+"D": 2,
+"band": null,
+"claims": [
+{
+"source": "Canadian Department of Transport memorandum, Library and Archives Canada Project Magnet holdings",
+"text": "Wilbert B. Smith's November 1950 memorandum to the Canadian Controller of Telecommunications states that the flying saucer subject was classified higher in the United States than the hydrogen bomb, and that a small group was studying it.",
+"tier": 1
+},
+{
+"source": "Sky Canada Project, Office of the Chief Science Advisor",
+"text": "Canada's Office of the Chief Science Advisor ran the Sky Canada Project, a federal review of how UAP reports are handled.",
+"tier": 1
+},
+{
+"source": "Board bookkeeping",
+"text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
+"tier": 3
+}
+],
+"cls": "location",
+"cluster": "other",
+"connections": [
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "Office of the Chief Science Advisor, Ottawa",
+"id": "sky-canada-project",
+"l0": true,
+"label": "Sky Canada Project - Office of the Chief Science Advisor of Canada",
+"note": "The Sky Canada Project is led by the Office of the Chief Science Advisor of Canada, which gives its address in the report as 235 Queen Street, Ottawa, Ontario K1A 0H5. The report, published June 2025 over the signature of Chief Science Advisor Mona Nemer, offers fourteen recommendations for improving UAP reporting and data collection in Canada.",
+"sources": [
+{
+"date": "2025-06-01",
+"name": "Report of the Sky Canada Project, Office of the Chief Science Advisor of Canada, June 2025 (Cat. No. Iu37-59/2025E-PDF)",
+"url": "https://science.gc.ca/site/science/sites/default/files/documents/sky-canada-report.pdf"
+},
+{
+"date": null,
+"name": "https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project",
+"url": "https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project"
+},
+{
+"date": null,
+"name": "https://ised-isde.canada.ca/site/science/sites/default/files/documents/Sky-Canada-Preview-January-2025.pdf",
+"url": "https://ised-isde.canada.ca/site/science/sites/default/files/documents/Sky-Canada-Preview-January-2025.pdf"
+}
+],
+"tier": "B",
+"type": "geographic"
+}
+],
+"coords": [
+45.4215,
+-75.6972
+],
+"dateEnd": null,
+"dateStart": null,
+"deg": 1,
+"denials": [],
+"desc": "Ottawa is where the Canadian federal government ran Project Magnet, the Department of Transport study of geomagnetic anomalies and unidentified objects headed by radio engineer Wilbert B. Smith from 1950. Smith's November 1950 memorandum to the Controller of Telecommunications - stating that the subject was the most highly classified matter in the United States, higher even than the hydrogen bomb, and that a small group was studying it - is one of the earliest primary documents asserting the existence of a concealed American programme, and it was written by a foreign government official reporting internally, not by a claimant. That provenance is why it still matters. Ottawa is also the seat of the federal chief science adviser's office.",
+"domains": [
+"_stubs",
+"w2-taxonomy"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "nd",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "l-ottawa",
+"l0": false,
+"label": "Ottawa, Ontario, Canada",
+"locLabel": "Ottawa, Ontario, Canada",
+"members": null,
+"short": "Ottawa, Ontario, Canada",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Wikipedia - Ottawa",
+"url": "https://en.wikipedia.org/wiki/Ottawa"
+},
+{
+"date": "2005-08-11",
+"name": "Library and Archives Canada - Project Magnet report page (archived)",
+"url": "https://web.archive.org/web/2006/http://www.collectionscanada.ca/ufo/002029-1401-e.html"
+},
+{
+"date": "2026-01-01",
+"name": "Wikipedia - Project Magnet (Canada)",
+"url": "https://en.wikipedia.org/wiki/Project_Magnet_(Canada)"
+},
+{
+"date": "2025-12-03",
+"name": "Sky Canada Project, Office of the Chief Science Advisor",
+"url": "https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project"
+}
+],
+"sub": "Capital of Canada; home of Project Magnet and the federal science establishment",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 791 of 1027, score 19). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D2.",
+"timeline": []
+}

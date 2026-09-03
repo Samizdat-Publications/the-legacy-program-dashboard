@@ -1,0 +1,95 @@
+{
+"A": 3,
+"C": 1,
+"D": 1,
+"band": null,
+"claims": [
+{
+"source": "Wikipedia, Area 51, citing USAF unit histories — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"text": "The 4450th Tactical Group was activated 15 October 1979 while physically located at Area 51; its move to Tonopah Test Range began 17 May 1982; Maj. Alton C. Whitley Jr. became the first USAF pilot to fly the F-117A on 15 October 1982.",
+"tier": 2
+},
+{
+"source": "Wikipedia, Area 51 — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"text": "HAVE IDEA, the exploited foreign aircraft programme, transitioned to the Tonopah Test Range in May 1973.",
+"tier": 2
+},
+{
+"source": "Inference from the 4450th TG and F-117A chronology",
+"text": "Tonopah is the scale reference for operational-phase concealment: a manned combat squadron flew from a hidden base for years before acknowledgement, which establishes that concealment of a contractor-staffed exploitation effort is within demonstrated US practice. Reasoning: documented activation, basing and acknowledgement dates for the F-117A programme.",
+"tier": 3
+}
+],
+"cls": "location",
+"cluster": "legacy",
+"connections": [
+{
+"claimTier": 2,
+"cls": "location",
+"dateEnd": "1982",
+"dateStart": "1973",
+"direction": "in",
+"edgeLabel": "Programmes matured from Groom Lake to operational basing at Tonopah",
+"id": "l-groom-lake",
+"l0": false,
+"label": "Groom Lake, Nevada",
+"note": "HAVE IDEA moved to Tonopah in May 1973; the 4450th Tactical Group moved from Groom Lake to Tonopah beginning 17 May 1982 to operate the F-117A.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Wikipedia - Area 51",
+"url": "https://en.wikipedia.org/wiki/Area_51"
+}
+],
+"tier": "B",
+"type": "programmatic"
+}
+],
+"coords": [
+37.7981,
+-116.7817
+],
+"dateEnd": null,
+"dateStart": "1957",
+"deg": 1,
+"denials": [],
+"desc": "The Tonopah Test Range occupies the northwest corner of the Nevada Test and Training Range in Nye County, is operated for the Department of Energy by Sandia National Laboratories for weapons ballistics and delivery testing, and hosts a USAF airfield that served as the operational base of the F-117A programme. Tonopah is the board's worked example of the second stage of black-programme concealment: not the prototype phase at Groom Lake, but the operational phase - a real combat squadron, real pilots, real sorties, real logistics, hidden in plain sight for a decade. The 4450th Tactical Group was activated on 15 October 1979 while physically at Groom Lake; the move to Tonopah began on 17 May 1982; Maj. Alton C. Whitley Jr. became the first USAF pilot to fly the F-117A on 15 October 1982. HAVE IDEA, the exploited-foreign-aircraft programme, transitioned from Groom to Tonopah in May 1973. The F-117 was not acknowledged until November 1988. What Tonopah proves is that the United States has demonstrably concealed not merely a technology but an entire manned operational flying unit, with its own base, its own night-only flying schedule and its own commuter airline out of Las Vegas, for six years after it entered service - which is the correct scale reference for evaluating claims about a concealed materiel exploitation programme with a contractor workforce.",
+"domains": [
+"w2-places-events"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "l-tonopah",
+"l0": false,
+"label": "Tonopah Test Range, Nevada",
+"locLabel": "Tonopah Test Range, Nevada, USA",
+"members": null,
+"short": "Tonopah Test Range, Nevada",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Wikipedia - Area 51",
+"url": "https://en.wikipedia.org/wiki/Area_51"
+}
+],
+"sub": "Sandia-operated test range and USAF airfield, Nye County, Nevada; F-117 operational basing 1982-1992",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 654 of 1027, score 24). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A3/D1.",
+"timeline": [
+{
+"date": "1982-05-17",
+"id": "tl-1982-tonopah",
+"label": "The F-117 moves to Tonopah",
+"precision": "day",
+"strand": "program",
+"text": "The 4450th Tactical Group relocates from Groom Lake to the Tonopah Test Range. A manned operational combat squadron will fly from a hidden base for six years before acknowledgement in November 1988.",
+"tier": "B"
+}
+]
+}

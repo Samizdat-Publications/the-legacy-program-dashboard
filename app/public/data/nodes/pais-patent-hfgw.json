@@ -1,0 +1,103 @@
+{
+"A": 1,
+"C": 1,
+"D": 0,
+"band": null,
+"claims": [
+{
+"source": "https://www.freepatentsonline.com/10322827.html",
+"text": "US Patent 10,322,827, 'High frequency gravitational wave generator', application 15/431823, filed 14 February 2017, published 18 June 2019, assignee 'The United States of America as represented by the Secretary of the Navy'.",
+"tier": 2
+}
+],
+"cls": "document",
+"cluster": "research",
+"connections": [
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": "2015-03-06",
+"direction": "in",
+"edgeLabel": "The disclosure says the IMRD enables the gravitational wave generator",
+"id": "pais-patent-imrd",
+"l0": true,
+"label": "US Patent 10,144,532 - Craft using an inertial mass reduction device",
+"note": "PAX 205 slide 5: 'it is possible to use the IMRD as an artificial gravitational wave generator (invention enables Gertsenshtein Effect)'.",
+"sources": [
+{
+"date": null,
+"name": "NAVAIR FOIA release 2021-003244, slide 5",
+"url": "https://www.navair.navy.mil/foia/sites/g/files/jejdrs566/files/document/%5Bfilename%5D/2021-003244%20FINAL%20VERSION%20PAX%20205%20-%20INERTIAL%20MASS%20REDUCTION%20DEVICE.pdf"
+}
+],
+"tier": "A",
+"type": "programmatic"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2019-06-18",
+"dateStart": "2017-02-14",
+"direction": "in",
+"edgeLabel": "Named inventor",
+"id": "salvatore-pais",
+"l0": false,
+"label": "Salvatore Cezar Pais",
+"note": "Application 15/431823, assigned to the Secretary of the Navy.",
+"sources": [
+{
+"date": null,
+"name": "US Patent 10,322,827",
+"url": "https://www.freepatentsonline.com/10322827.html"
+}
+],
+"tier": "A",
+"type": "programmatic"
+}
+],
+"coords": null,
+"dateEnd": "2019-06-18",
+"dateStart": "2017-02-14",
+"deg": 2,
+"denials": [],
+"desc": "The filing with the largest asserted consequences. Application 15/431823, filed 14 February 2017 and granted 18 June 2019, assigned to the Secretary of the Navy. The PAX 205 briefing links it directly to the inertial mass reduction device, stating that the IMRD can be used as an artificial gravitational wave generator by enabling the Gertsenshtein Effect, with offensive and defensive military applications and planetary-scale local spacetime modification described as feasible. Filing followed the first detection of gravitational waves, which the same briefing dates to February 2016.",
+"domains": [
+"pais-patents"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "pais-patent-hfgw",
+"l0": false,
+"label": "US Patent 10,322,827 - High frequency gravitational wave generator",
+"locLabel": null,
+"members": null,
+"short": "US Patent 10,322,827 - High frequency gravitational wave generator",
+"sources": [
+{
+"date": null,
+"name": "US Patent 10,322,827",
+"url": "https://www.freepatentsonline.com/10322827.html"
+}
+],
+"sub": "Application 15/431823, filed 14 February 2017, granted 18 June 2019; assignee the Secretary of the Navy",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 834 of 1027, score 17). 2 connections, 2 of them custody/witness/funding/programmatic. Axes C1/A1/D0.",
+"timeline": [
+{
+"date": "2019-06-18",
+"id": "tl-pais-hfgw-granted",
+"label": "US 10,322,827 granted",
+"precision": "day",
+"strand": "program",
+"text": "The high frequency gravitational wave generator patent issued to the Secretary of the Navy.",
+"tier": "2"
+}
+]
+}

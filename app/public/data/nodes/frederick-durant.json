@@ -1,0 +1,128 @@
+{
+"A": 3,
+"C": 0,
+"D": 1,
+"affiliations": [
+"CIA Office of Scientific Intelligence (1952-1954)",
+"American Rocket Society, president (1953)",
+"National Air and Space Museum, assistant director (1965-1980)"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "1953-01-14",
+"event": "Serves as secretary to the Robertson Panel",
+"precision": "day"
+},
+{
+"date": "1953-02-16",
+"event": "Issues memorandum to the Assistant Director for Scientific Intelligence recording the panel proceedings",
+"precision": "day"
+},
+{
+"date": "1965-01-01",
+"event": "Joins the National Air and Space Museum as assistant director",
+"precision": "year"
+}
+],
+"claims": [
+{
+"source": "Durant memorandum, 16 Feb 1953, CIA Office of Scientific Intelligence",
+"text": "Durant's 16 February 1953 memorandum to the Assistant Director for Scientific Intelligence is the primary record of the Robertson Panel's proceedings.",
+"tier": 1
+},
+{
+"source": "Durant memorandum / Robertson Panel report text",
+"text": "The Durant record documents panel concern about 'the cultivation of a morbid national psychology in which skilful hostile propaganda could induce hysterical behavior' and recommends monitoring civilian UFO groups.",
+"tier": 1
+},
+{
+"source": "Haines, CIA Studies in Intelligence 1997, on the classification history of the panel record",
+"text": "The Durant Report circulated for years in redacted form before fuller text was released, obscuring the panel's media recommendations.",
+"tier": 2
+}
+],
+"cls": "person",
+"cluster": "ic",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": "1953",
+"dateStart": "1953",
+"direction": "out",
+"edgeLabel": "Durant was panel secretary and wrote the proceedings record",
+"id": "robertson-panel",
+"l0": true,
+"label": "Robertson Panel",
+"note": "Durant's memorandum of 16 February 1953 to the Assistant Director for Scientific Intelligence is the only substantive record of what the panel actually discussed.",
+"sources": [
+{
+"date": "1953-02-16",
+"name": "Robertson Panel report and Durant record",
+"url": "http://www.cufon.org/cufon/robert.htm"
+}
+],
+"tier": "A",
+"type": "institutional"
+}
+],
+"date": "1953-02-16",
+"dateEnd": null,
+"dateStart": "1953-02-16",
+"deg": 1,
+"denials": [],
+"domains": [
+"history-1940s-1960s"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "frederick-durant",
+"instId": "cia",
+"l0": false,
+"label": "Frederick C. Durant III",
+"loc": "Washington, DC",
+"locId": "l-dc",
+"members": null,
+"narrative": "Frederick Durant was a rocket engineer, president of the American Rocket Society, and a CIA officer who served as secretary to the Robertson Panel. His memorandum of 16 February 1953 to the Assistant Director for Scientific Intelligence — the 'Durant Report' — is the only substantive record of what was actually said in the room over those four days, and it is more revealing than the panel's formal report. It records the panel's concern with 'the cultivation of a morbid national psychology in which skilful hostile propaganda could induce hysterical behavior,' its judgment that civilian UFO organisations should be watched, and the detail of the mass-media debunking scheme. Durant later became assistant director of the National Air and Space Museum, a career trajectory that placed a man who had helped design an official debunking programme in charge of how the public understood flight history. The Durant Report circulated in redacted form for decades before fuller declassification, and its release history is itself a case study in how the record on this era was metered out.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Frederick C. Durant III",
+"sources": [
+{
+"date": "1953-02-16",
+"name": "Robertson Panel report and Durant record (declassified text)",
+"url": "http://www.cufon.org/cufon/robert.htm"
+},
+{
+"date": "1997-01-01",
+"name": "Haines, CIA's Role in the Study of UFOs, 1947-1990",
+"url": "https://www.cia.gov/resources/csi/studies-in-intelligence/studies-in-intelligence-1997/cias-role-in-the-study-of-ufos-1947-1990/"
+}
+],
+"status": "dead",
+"sub": "CIA officer; secretary, Robertson Panel",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 748 of 1027, score 20). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A3/D1.",
+"timeline": [
+{
+"date": "1953-02-16",
+"id": "tl-1953-02-16",
+"label": "Durant records the proceedings",
+"precision": "day",
+"strand": "coverup",
+"text": "CIA officer Frederick Durant's memorandum to the Assistant Director for Scientific Intelligence becomes the only substantive account of what the panel actually discussed.",
+"tier": "A"
+}
+],
+"unexplainedResidual": null,
+"unverified": []
+}

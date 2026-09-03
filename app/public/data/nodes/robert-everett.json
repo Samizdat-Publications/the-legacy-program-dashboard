@@ -1,0 +1,113 @@
+{
+"A": 2,
+"C": 1,
+"D": 0,
+"affiliations": [
+"MIT Servomechanisms Laboratory / Project Whirlwind (1947-1951)",
+"MIT Lincoln Laboratory, Division 6 (1951-1958)",
+"The MITRE Corporation (1958-1986; Technical Director, then President)"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "1951-01-01",
+"event": "Lincoln Laboratory Division 6 formed around the Whirlwind digital computer work",
+"precision": "year"
+},
+{
+"date": "1958-07-21",
+"event": "The MITRE Corporation incorporated as a nonprofit; Everett joins as first technical director with 485 other Lincoln Laboratory staff",
+"precision": "day"
+}
+],
+"claims": [
+{
+"source": "MITRE's own SAGE history site, sage.mitre.org timeline",
+"text": "The MITRE Corporation was incorporated as a nonprofit organization on 21 July 1958, and Robert Everett joined as its first technical director along with 485 other Lincoln Laboratory employees.",
+"tier": 1
+},
+{
+"source": "sage.mitre.org; MIT Lincoln Laboratory SAGE history page",
+"text": "MITRE was created to continue as lead systems engineer for SAGE, the first continental air defence system, which was also the impetus for Lincoln Laboratory's own establishment.",
+"tier": 1
+}
+],
+"cls": "person",
+"cluster": "ffrdc",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "1986",
+"dateStart": "1958",
+"direction": "out",
+"edgeLabel": "First technical director; carried SAGE engineering authority across from MIT",
+"id": "mitre-corporation",
+"l0": true,
+"label": "The MITRE Corporation",
+"note": "Everett joined MITRE at incorporation as first technical director and later became its president.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "MITRE SAGE timeline",
+"url": "https://sage.mitre.org/timeline/"
+}
+],
+"tier": "A",
+"type": "institutional"
+}
+],
+"date": "1958-07-21",
+"dateEnd": null,
+"dateStart": "1958-07-21",
+"deg": 1,
+"denials": [],
+"domains": [
+"ffrdcs"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "robert-everett",
+"instId": "mitre-corporation",
+"l0": false,
+"label": "Robert R. Everett",
+"loc": "Bedford, MA",
+"locId": "l-bedford-ma",
+"members": null,
+"narrative": "Everett is the man who carried MITRE out of MIT. He was a principal of Project Whirlwind and then of Lincoln Laboratory's Division 6, the digital computer division built to deliver the Semi-Automatic Ground Environment air defence system - the continental radar and computing network designed to see and identify everything moving in North American airspace. When the Air Force decided that a university could not indefinitely hold an operational air defence engineering role, MITRE was incorporated as a nonprofit on 21 July 1958 and Everett joined as its first technical director along with 485 other Lincoln Laboratory employees. He later became MITRE's president. The founding fact matters more than the man: MITRE was created specifically to be the permanent, Air-Force-answerable custodian of the systems engineering for the nation's air surveillance architecture. Every unidentified track SAGE ever generated ran through the design authority Everett brought across from Lexington to Bedford. That is why the FFRDC layer, not the prime contractors, is where a concealed programme would have to live: the FFRDC is the entity that defines what the sensors are built to see and what they are built to ignore.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Robert R. Everett",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "MITRE - SAGE timeline",
+"url": "https://sage.mitre.org/timeline/"
+},
+{
+"date": "2026-08-12",
+"name": "MIT Lincoln Laboratory - SAGE: Semi-Automatic Ground Environment Air Defense System",
+"url": "https://www.ll.mit.edu/about/history/sage-semi-automatic-ground-environment-air-defense-system"
+},
+{
+"date": "1972-06-30",
+"name": "The Early History of the MITRE Corporation (MITRE report M72-110, June 1972)",
+"url": "http://bitsavers.trailing-edge.com/pdf/mit/mitre/M72-110_The_Early_History_of_the_MITRE_Corporation_Jun72.pdf"
+}
+],
+"status": "dead",
+"sub": "First Technical Director and later President of The MITRE Corporation; previously associate director of MIT Lincoln Laboratory Division 6 (Project Whirlwind / SAGE)",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 820 of 1027, score 17). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D0.",
+"timeline": [],
+"unexplainedResidual": null,
+"unverified": []
+}

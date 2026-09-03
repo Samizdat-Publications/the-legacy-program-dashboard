@@ -1,0 +1,113 @@
+{
+"A": 0,
+"C": 0,
+"D": 2,
+"band": null,
+"claims": [
+{
+"source": "Ryan S. Wood, 'Majic Eyes Only' (2005)",
+"text": "'Majic Eyes Only' catalogues claimed crash-retrieval events from the 1940s onward with dates, locations, source trails and numerical credibility weightings.",
+"tier": 2
+},
+{
+"source": "Inference from the book's stated method and citation base",
+"text": "The catalogue's credibility weightings should not be treated as a metric because the weighting function is not reproducible by a third party, and its source trail substantially recirculates Stringfield's anonymous informants and the Majestic Documents corpus. Reasoning: an index inherits the provenance of what it indexes.",
+"tier": 3
+}
+],
+"cls": "document",
+"cluster": "research",
+"connections": [
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2005",
+"dateStart": "2005",
+"direction": "in",
+"edgeLabel": "Compiled the crash-retrieval catalogue",
+"id": "ryan-wood",
+"l0": false,
+"label": "Ryan S. Wood",
+"note": "Ryan S. Wood authored 'Majic Eyes Only' (2005), converting the narrative retrieval literature into an indexed catalogue with credibility weightings.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Majic Eyes Only - Internet Archive copy",
+"url": "https://archive.org/details/majic-eyes-only-earths-encounters-with-extraterrestrial-ryan-s-wood-1st-edition-"
+}
+],
+"tier": "C",
+"type": "research"
+},
+{
+"claimTier": 3,
+"cls": "document",
+"dateEnd": "2005",
+"dateStart": "2005",
+"direction": "out",
+"edgeLabel": "The catalogue inherits Stringfield's case base",
+"id": "stringfield-status-reports",
+"l0": true,
+"label": "UFO Crash/Retrieval Status Reports I-VII (Stringfield, 1978-1994)",
+"note": "A substantial share of 'Majic Eyes Only' entries trace back through Stringfield's anonymised Status Report cases, so the catalogue inherits their provenance limits. Reasoning: an index cannot be graded above its sources.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Stringfield Status Reports 1-7 (scans)",
+"url": "https://archive.org/details/stringfield_Retrievals_Report_6_inner_sanctum_LQ"
+}
+],
+"tier": "C",
+"type": "research"
+}
+],
+"coords": null,
+"dateEnd": "2005",
+"dateStart": "2005",
+"deg": 2,
+"denials": [],
+"desc": "Ryan S. Wood's 2005 catalogue is the retrieval literature's attempt to become a database. Where Stringfield produced seven narrative monographs with anonymised letter-number case codes and Kevin Randle produced case-by-case essays in 'A History of UFO Crashes' (1995) and 'Crash: When UFOs Fall From the Sky' (2010), Wood produced rows: each claimed retrieval event given a date, a location, a source trail and a numerical credibility weighting, spanning from the 1940s forward and totalling seventy-plus entries. That structure is the book's contribution and its exposure. It is the fastest way to find out that a claim exists, when it was first made and by whom - which is a genuine research service in a field where the same story recirculates for decades under different names. It is not a way to find out whether a claim is true, because the weighting function is not published in a form a third party can re-run on the same inputs, and because a large share of the source trail terminates in either Stringfield's anonymous informants or the Wood family's own Majestic Documents corpus. This board uses 'Majic Eyes Only' as an index and grades its entries individually against their underlying sources.",
+"domains": [
+"w2-retrieval-literature"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "2",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "majic-eyes-only",
+"l0": false,
+"label": "Majic Eyes Only: Earth's Encounters with Extraterrestrial Technology (2005)",
+"locLabel": null,
+"members": null,
+"short": "Majic Eyes Only: Earth's Encounters with Extraterrestrial Technology (2005)",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Majic Eyes Only (Ryan S. Wood) - copy at the Internet Archive",
+"url": "https://archive.org/details/majic-eyes-only-earths-encounters-with-extraterrestrial-ryan-s-wood-1st-edition-"
+},
+{
+"date": "2026-08-12",
+"name": "The Majestic Documents (Wood & Wood)",
+"url": "https://majesticdocuments.com/"
+}
+],
+"sub": "Ryan S. Wood; indexed crash-retrieval catalogue with credibility weightings",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 1006 of 1027, score 9). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D2.",
+"timeline": [
+{
+"date": "2005",
+"id": "tl-2005-majic",
+"label": "Majic Eyes Only",
+"precision": "year",
+"strand": "program",
+"text": "Ryan S. Wood publishes the retrieval literature's first indexed catalogue, with dates, locations, source trails and credibility weightings.",
+"tier": "B"
+}
+]
+}

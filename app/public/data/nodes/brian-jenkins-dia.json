@@ -1,0 +1,106 @@
+{
+"A": 1,
+"C": 0,
+"D": 2,
+"affiliations": [
+"Defense Intelligence Agency, Records Management and Information Services"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "2018-01-09",
+"event": "Signs the DIA letter to SASC transmitting the list of 38 AATIP products",
+"precision": "day"
+}
+],
+"claims": [
+{
+"source": "DIA letter to Senate Armed Services Committee, 9 January 2018",
+"text": "Jenkins, as Chief of Records Management and Information Services at DIA, signed the 9 January 2018 letter to Senators McCain and Reed listing all 38 products produced under the program.",
+"tier": 1
+},
+{
+"source": "DIA letter to SASC, 9 January 2018",
+"text": "The letter states: 'The purpose of AATIP was to investigate foreign advanced aerospace weapon threats from the present out to the next 40 years.'",
+"tier": 1
+},
+{
+"source": "Inference from the letter's existence, date and addressees",
+"text": "That the Senate Armed Services Committee needed a records officer to send it a basic product list in 2018 indicates the committee had no prior visibility on a program funded from 2008, which is the structural failure the appropriations route was designed to produce.",
+"tier": 3
+}
+],
+"cls": "person",
+"cluster": "legacy",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "2018",
+"dateStart": "2018",
+"direction": "out",
+"edgeLabel": "signed the transmittal to the Senate Armed Services Committee",
+"id": "dia-aatip-letter-2018",
+"l0": false,
+"label": "DIA Letter to the Senate Armed Services Committee Listing AATIP Products",
+"note": "A records officer's signature is the only formal notification the authorizing committee ever received about a ten-year program.",
+"sources": [
+{
+"date": "2018-01-09",
+"name": "DIA letter to SASC",
+"url": "https://documents.theblackvault.com/documents/dia/dia-aatip-reports.pdf"
+}
+],
+"tier": "C",
+"type": "institutional"
+}
+],
+"date": "2018-01-09",
+"dateEnd": null,
+"dateStart": "2018-01-09",
+"deg": 1,
+"denials": [],
+"domains": [
+"aawsap-aatip"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "brian-jenkins-dia",
+"instId": "dia",
+"l0": false,
+"label": "Brian L. Jenkins",
+"loc": "Washington, DC",
+"locId": "l-dc",
+"members": null,
+"narrative": "Jenkins is a records officer whose signature carries disproportionate weight: he signed the 9 January 2018 DIA letter to Senate Armed Services Committee chairman John McCain and ranking member Jack Reed that transmitted the list of all 38 products produced under the program. That letter is the founding document of everything the public knows about the AAWSAP deliverables — it is where the phrase 'The purpose of AATIP was to investigate foreign advanced aerospace weapon threats from the present out to the next 40 years' comes from, and it is the list from which researchers subsequently extracted 37 of the 38 papers through FOIA. The circumstance is itself the story: in January 2018, three weeks after the New York Times story broke, the authorizing committee of jurisdiction had to be sent a basic inventory of a program that had been appropriated, executed and terminated without their ever seeing it. Jenkins's letter is the receipt for the oversight gap.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Brian L. Jenkins",
+"sources": [
+{
+"date": "2018-01-09",
+"name": "DIA letter to Senate Armed Services Committee listing AATIP products",
+"url": "https://documents.theblackvault.com/documents/dia/dia-aatip-reports.pdf"
+},
+{
+"date": "2019-01-18",
+"name": "The War Zone — Here's The List Of Studies The Military's Secretive UFO Program Funded",
+"url": "https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk"
+}
+],
+"status": "former",
+"sub": "Chief, Records Management and Information Services, Defense Intelligence Agency",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 876 of 1027, score 15). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D2.",
+"timeline": [],
+"unexplainedResidual": null,
+"unverified": []
+}

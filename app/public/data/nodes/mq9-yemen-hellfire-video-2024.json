@@ -1,0 +1,118 @@
+{
+"A": 2,
+"C": 2,
+"D": 3,
+"band": null,
+"claims": [
+{
+"source": "https://defensescoop.com/2025/09/09/military-whistleblowers-share-new-evidence-alleged-uap-ufo-hearing/",
+"text": "Rep. Burlison unveiled at the 9 September 2025 hearing video of a US MQ-9 firing a Hellfire missile at a high-speed orb off Yemen's coast in October 2024; the object appeared impacted but not destroyed.",
+"tier": 2
+},
+{
+"source": "https://earthsky.org/human-world/pentagon-uap-files-batch-5-ufos-orbs-triangles/",
+"text": "Taken with DOW-UAP-PR051 (MQ-9 weapons-quality lock, Jordan-Syria border) and the Gulf of Oman AC-130J set with DOW-UAP-D101, the record now contains multiple US weapons employments or weapons-grade engagements against unidentified objects that were not destroyed, none of which is characterised as an engagement in any AARO annual report. Reasoning: the three events are separately sourced and the FY2023-FY2025 annual reports contain no engagement category.",
+"tier": 3
+}
+],
+"cls": "event",
+"cluster": "witness",
+"connections": [
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "2025-09-09",
+"direction": "in",
+"edgeLabel": "first public showing",
+"id": "eric-burlison",
+"l0": false,
+"label": "Eric Burlison",
+"note": "Burlison played the MQ-9 Hellfire-versus-orb video at the 9 September 2025 hearing; the Department has not confirmed its provenance.",
+"sources": [
+{
+"date": "2025-09-09",
+"name": "DefenseScoop, 9 September 2025 hearing",
+"url": "https://defensescoop.com/2025/09/09/military-whistleblowers-share-new-evidence-alleged-uap-ufo-hearing/"
+}
+],
+"tier": "A",
+"type": "witness-chain"
+},
+{
+"claimTier": 3,
+"cls": "event",
+"dateEnd": "2026-08-07",
+"dateStart": "2021-09-08",
+"direction": "out",
+"edgeLabel": "two documented US weapons engagements of unidentified objects",
+"id": "gulf-of-oman-ac130j-2021",
+"l0": false,
+"label": "Gulf of Oman AC-130J UAP engagement, 8 September 2021",
+"note": "Yemen October 2024 (MQ-9, Hellfire) and the Gulf of Oman September 2021 (AC-130J, cannon fire, objects reportedly reacting) establish a pattern of engagement absent from every AARO annual report.",
+"sources": [
+{
+"date": "2025-09-09",
+"name": "DefenseScoop, 9 September 2025 hearing",
+"url": "https://defensescoop.com/2025/09/09/military-whistleblowers-share-new-evidence-alleged-uap-ufo-hearing/"
+},
+{
+"date": "2026-08-07",
+"name": "EarthSky, PURSUE batch 5",
+"url": "https://earthsky.org/human-world/pentagon-uap-files-batch-5-ufos-orbs-triangles/"
+}
+],
+"tier": "B",
+"type": "research"
+}
+],
+"coords": null,
+"dateEnd": "2025-09-09",
+"dateStart": "2024-10",
+"deg": 2,
+"denials": [],
+"desc": "On 9 September 2025, at the House Oversight Task Force hearing, Rep. Eric Burlison played video that had never been publicly shown: a US military MQ-9 Reaper firing a Hellfire missile at a high-speed orb off the coast of Yemen in October 2024. The object appeared to be impacted and was not destroyed. This is the first of what became, over the following year, a small set of documented US weapons employments against unidentified objects: PURSUE Release 02 of 22 May 2026 published DOW-UAP-PR051, an MQ-9 weapons-quality lock on an object over the Jordan-Syria border, and Release 05 of 7 August 2026 published six AC-130J videos and intelligence report DOW-UAP-D101 recording approximately 25 objects over the Gulf of Oman on 8 September 2021 that reportedly reacted to the aircraft's cannon fire. The pattern that emerges across those three is the single most operationally significant fact in the 2025-2026 record: the United States has shot at unidentified objects, on more than one occasion, in more than one theatre, with more than one platform, and the objects were not destroyed. None of these engagements appears in an AARO annual report as an engagement. The Yemen video's provenance, unit, chain of custody and declassification authority have not been made public, and the Department has not confirmed it.",
+"domains": [
+"w2-2025-2026"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "mq9-yemen-hellfire-video-2024",
+"l0": false,
+"label": "MQ-9 Hellfire engagement of an orb off Yemen (October 2024)",
+"locLabel": null,
+"members": null,
+"short": "MQ-9 Hellfire engagement of an orb off Yemen (October 2024)",
+"sources": [
+{
+"date": "2025-09-09",
+"name": "DefenseScoop, 9 September 2025 hearing",
+"url": "https://defensescoop.com/2025/09/09/military-whistleblowers-share-new-evidence-alleged-uap-ufo-hearing/"
+},
+{
+"date": "2026-08-07",
+"name": "EarthSky, PURSUE batch 5",
+"url": "https://earthsky.org/human-world/pentagon-uap-files-batch-5-ufos-orbs-triangles/"
+}
+],
+"sub": "Video first shown publicly by Rep. Burlison, 9 September 2025",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 543 of 1027, score 28). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A2/D3.",
+"timeline": [
+{
+"date": "2024-10",
+"id": "tl-yemen",
+"label": "An MQ-9 fires a Hellfire missile at an orb off Yemen",
+"precision": "month",
+"strand": "witness",
+"text": "The object appears struck and is not destroyed. The video is not shown publicly until Rep. Burlison plays it at a hearing eleven months later; the Department has never confirmed it.",
+"tier": "2"
+}
+]
+}

@@ -1,0 +1,82 @@
+{
+"A": 2,
+"C": 1,
+"D": 0,
+"band": null,
+"claims": [
+{
+"source": "NSF NCSES Master Government List of FFRDCs; MITRE R&D Centers page",
+"text": "HSSEDI is a MITRE-operated FFRDC sponsored by the DHS Science and Technology Directorate, created 5 March 2009 and located in McLean, Virginia.",
+"tier": 1
+},
+{
+"source": "Inference from the NSF FFRDC master list and AARO's Historical Record Report Volume I account of Kona Blue",
+"text": "DHS's dependence on MITRE (HSSEDI) and RAND (HSOAC) for systems engineering and operational analysis means the department that was approached to host Kona Blue routes its technical work through the same two FFRDC operators now under congressional inquiry. Reasoning: sponsor lists, not evidence of any HSSEDI role in Kona Blue.",
+"tier": 3
+}
+],
+"cls": "program",
+"cluster": "ffrdc",
+"connections": [
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2009",
+"direction": "in",
+"edgeLabel": "MITRE operates HSSEDI for DHS Science and Technology",
+"id": "mitre-corporation",
+"l0": true,
+"label": "The MITRE Corporation",
+"note": "Created 5 March 2009; the DHS engineering franchise sits with the same operator now under congressional UAP records demand.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "NSF NCSES Master Government List of FFRDCs",
+"url": "https://ncses.nsf.gov/resource/master-gov-lists-ffrdc"
+}
+],
+"tier": "A",
+"type": "institutional"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "2009",
+"deg": 1,
+"denials": [],
+"desc": "HSSEDI is MITRE's DHS-sponsored FFRDC, created on 5 March 2009 and run out of McLean under MITRE's Center for Securing the Homeland. It matters to this board for one specific reason: DHS is the department inside which the Kona Blue proposal - the successor UAP materials-exploitation effort documented in AARO's own historical record report - was pitched and, according to that report, never operationalised. Whatever the truth of Kona Blue, the department that was asked to host a UAP materials programme in the 2010s runs its systems engineering through a MITRE-operated FFRDC and through RAND's Homeland Security Operational Analysis Center. Both FFRDC operators named in Burlison's investigation therefore hold standing DHS engineering and analysis franchises. HSSEDI is included here as an access surface, not as an accusation: no document places HSSEDI in any UAP activity.",
+"domains": [
+"ffrdcs"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "2",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "mitre-hssedi",
+"l0": false,
+"label": "Homeland Security Systems Engineering and Development Institute (HSSEDI)",
+"locLabel": null,
+"members": null,
+"short": "Homeland Security Systems Engineering and Development Institute (HSSEDI)",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "NSF NCSES - Master Government List of Federally Funded R&D Centers",
+"url": "https://ncses.nsf.gov/resource/master-gov-lists-ffrdc"
+},
+{
+"date": "2026-08-12",
+"name": "MITRE - R&D Centers",
+"url": "https://www.mitre.org/our-impact/rd-centers"
+}
+],
+"sub": "MITRE-operated FFRDC; sponsor Department of Homeland Security, Science and Technology Directorate; created 5 March 2009",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 889 of 1027, score 15). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D0.",
+"timeline": []
+}

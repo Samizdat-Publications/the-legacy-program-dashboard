@@ -1,0 +1,395 @@
+{
+"A": 3,
+"C": 2,
+"D": 2,
+"band": "custody",
+"claims": [
+{
+"source": "Packet presented to DEPSECDEF, 17 November 2009",
+"text": "USD(I) James Clapper recommended against establishing a Special Access Program for the program in November 2009.",
+"tier": 1
+},
+{
+"source": "Susan Gough, 13 June 2019",
+"text": "DoD states 'Mr. Elizondo had no assigned responsibilities for AATIP while he was in OUSD(I). DIA administered AATIP, and Elizondo was never assigned to DIA.'",
+"tier": 1
+},
+{
+"source": "Inference from the absence of any such document across a decade of FOIA litigation and requests",
+"text": "No AATIP charter, tasking document or organisational chart covering the post-2010 period has ever been released by OUSD(I), which means DoD's denial of Elizondo's role rests entirely on press guidance rather than on any producible record.",
+"tier": 3
+},
+{
+"source": "Elizondo resignation letter, OSD/JS FOIA 18-F-0324",
+"text": "Elizondo's title within OUSD(I) at resignation was Director, National Programs Special Management Staff, effective date of resignation 4 October 2017.",
+"tier": 1
+},
+{
+"source": "DoD emails released under FOIA via The Black Vault",
+"text": "OUSD(I) officials coordinated public messaging on Elizondo and AATIP in May 2019, with an internal warning that 'the Department may be putting itself in an awkward position of both contradicting previous statements' and a directive that 'we will have to keep our messages in synch.'",
+"tier": 1
+}
+],
+"cls": "institution",
+"cluster": "ic",
+"connections": [
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "2023",
+"dateStart": "2022",
+"direction": "in",
+"edgeLabel": "originally placed under USD(I&S)",
+"id": "aaro",
+"l0": true,
+"label": "All-domain Anomaly Resolution Office (AARO)",
+"note": "The establishment memorandum directed USD(I&S) to establish the office and placed AARO in that chain until summer 2023.",
+"sources": [
+{
+"date": "2022-07-15",
+"name": "AARO establishment memorandum",
+"url": "https://media.defense.gov/2022/Jul/20/2003039074/-1/-1/1/ESTABLISHMENT-OF-THE-ALL-DOMAIN-ANOMALY-RESOLUTION-OFFICE.PDF"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "domain",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "the OSD element with policy authority over intelligence, counterintelligence, security and sensitive activities",
+"id": "d-structure",
+"l0": false,
+"label": "Program structure and organisational mapping",
+"note": "OUSD(I), since 2020 OUSD(I&S), is where the sensitive-activities policy authority sits and where the whole Elizondo/AATIP dispute takes place. It is also the office under which the Military Intelligence Program is managed, which makes it the point where this domain's organisational and funding threads meet.",
+"sources": [
+{
+"date": "2022-08-17",
+"name": "OSD/JS FOIA case 18-F-0324, final response and released documents (The Black Vault)",
+"url": "https://documents2.theblackvault.com/documents/osd/18-F-0324.pdf"
+},
+{
+"date": "2026-08-21",
+"name": "DoD Financial Management Regulation, Volume 2B, Chapter 16, 'Intelligence Programs/Activities'",
+"url": "https://comptroller.war.gov/Portals/45/documents/fmr/current/02b/02b_16.pdf"
+},
+{
+"date": "2026-05-18",
+"name": "Archived: DoD Directive 5205.07, 'Special Access Program (SAP) Policy' (12 Sep 2024) (Wayback 2026-05-18)",
+"url": "https://web.archive.org/web/20260518065512/https://www.esd.whs.mil/portals/54/documents/dd/issuances/dodd/520507p.pdf"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 2,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2003",
+"direction": "out",
+"edgeLabel": "OSD principal for intelligence and security policy in the SAP enterprise",
+"id": "dod-sapco",
+"l0": true,
+"label": "DoD Special Access Program Central Office (DoD SAPCO)",
+"note": "DoDD 5205.07 assigns SAP policy responsibilities across OSD principals including the Under Secretary of Defense for Intelligence and Security, while vesting central management in DoD SAPCO under DEPSECDEF.",
+"sources": [
+{
+"date": "2024-09-12",
+"name": "DoD Directive 5205.07, Special Access Program (SAP) Policy",
+"url": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "2017",
+"dateStart": "2008",
+"direction": "in",
+"edgeLabel": "served in OUSD(I) through October 2017",
+"id": "luis-elizondo",
+"l0": false,
+"label": "Luis D. Elizondo",
+"note": "His own resignation letter, released in FOIA 18-F-0324, states the title and the 4 October 2017 effective date. The Department has never disputed either.",
+"sources": [
+{
+"date": "2019-06-13",
+"name": "The Black Vault",
+"url": "https://www.theblackvault.com/documentarchive/pentagon-reinforces-mr-luis-elizondo-had-no-responsibilities-on-aatip-senator-harry-reids-2009-memo-changes-nothing/"
+},
+{
+"date": "2022-08-17",
+"name": "OSD/JS FOIA 18-F-0324",
+"url": "https://documents2.theblackvault.com/documents/osd/18-F-0324.pdf"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 2,
+"cls": "program",
+"dateEnd": "2026",
+"dateStart": "1994",
+"direction": "in",
+"edgeLabel": "Non-Covert Action Programs alleged to carry waived reporting requirements",
+"id": "manhattan-project-2",
+"l0": true,
+"label": "'Manhattan Project 2.0' (alleged secrecy architecture)",
+"note": "The operative concealment mechanism on Gerb's account: full SAP security protocols combined with completely waived reporting and budgetary requirements, which would make congressional ignorance lawful rather than the product of active deception.",
+"sources": [
+{
+"date": "2026-06-19",
+"name": "UAP Gerb - 'Special Access Required' Vol.2",
+"url": "https://www.youtube.com/watch?v=6MsmPrpQqa8"
+}
+],
+"tier": "A",
+"type": "denial"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "2019",
+"dateStart": "2010",
+"direction": "in",
+"edgeLabel": "Director for Defense Intelligence (Collection & Special Programs); Elizondo's superior c.2010-2012",
+"id": "neill-tipton",
+"l0": false,
+"label": "Neill Tipton",
+"note": "His own account places Elizondo under him during precisely the years Elizondo claims to have run AATIP.",
+"sources": [
+{
+"date": "2023-01-01",
+"name": "The Black Vault",
+"url": "https://www.theblackvault.com/documentarchive/new-emails-reveal-pentagon-effort-to-align-messaging-on-aatip-and-luis-elizondo/"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2021-06-25",
+"direction": "out",
+"edgeLabel": "Named contributor to the 2021 ODNI Preliminary Assessment",
+"id": "odni",
+"l0": true,
+"label": "Office of the Director of National Intelligence",
+"note": "ODNI's assessment names USD(I&S) first among contributing elements, confirming the office's cognisance of the UAP reporting stream.",
+"sources": [
+{
+"date": "2021-06-25",
+"name": "ODNI, Preliminary Assessment: Unidentified Aerial Phenomena",
+"url": "https://archive.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf"
+}
+],
+"tier": "A",
+"type": "institutional"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "2003",
+"deg": 7,
+"denials": [
+{
+"by": {
+"id": "manhattan-project-2",
+"label": "'Manhattan Project 2.0' (alleged secrecy architecture)"
+},
+"claimTier": 2,
+"denialKind": "undirected",
+"label": "Non-Covert Action Programs alleged to carry waived reporting requirements",
+"note": "The operative concealment mechanism on Gerb's account: full SAP security protocols combined with completely waived reporting and budgetary requirements, which would make congressional ignorance lawful rather than the product of active deception.",
+"of": {
+"id": "ousdi",
+"label": "Office of the Under Secretary of Defense for Intelligence"
+},
+"sources": [
+{
+"date": "2026-06-19",
+"name": "UAP Gerb - 'Special Access Required' Vol.2",
+"url": "https://www.youtube.com/watch?v=6MsmPrpQqa8"
+}
+]
+}
+],
+"desc": "OUSD(I) — since 2020 OUSD(I&S) — is the Office of the Secretary of Defense element responsible for intelligence, counterintelligence, security and sensitive activities policy across the Department, and it is the office in which the entire Elizondo dispute takes place. Elizondo worked there from 2008 until 4 October 2017, latterly as Director, National Programs Special Management Staff. Neill Tipton was its Director for Defense Intelligence (Collection & Special Programs); Garry Reid was its Director for Defense Intelligence (Intelligence & Security). It is the office that generated the December 2017 memoranda to the Secretary of Defense characterising Elizondo as having 'aggrandized his role', the office that in May 2019 coordinated the 'no assigned responsibilities' messaging line, and the office whose front office initiated the AFOSI inquiry into whether Elizondo had mishandled classified material. It is also, on Elizondo's account and on the face of his own DD Form 1910, the office from which the AATIP-associated video files were processed for clearance in August 2017 — five years after the Department says the program ended.",
+"domains": [
+"aawsap-aatip",
+"elizondo-ttsa"
+],
+"dossier": {
+"claims": [
+{
+"source": "DoD Directive 5143.01, 'Under Secretary of Defense for Intelligence and Security (USD(I&S))', Oct. 24, 2014, Incorporating Change 2, April 6, 2020 — https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/514301p.pdf",
+"text": "DoD Directive 5143.01, dated 24 October 2014 and incorporating Change 2 dated 6 April 2020, is the charter for the Under Secretary of Defense for Intelligence and Security, issued under 10 U.S.C. 113 and 137, 50 U.S.C. 3001 et seq., Public Law 108-458, and Executive Orders 12333, 13470 and 13869.",
+"tier": 1
+},
+{
+"source": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3373&num=0&edition=prelim",
+"text": "Under 50 U.S.C. 3373(b)(3)(B)(i), enacted by Section 6802(a) of the FY2023 NDAA, the Director of the All-domain Anomaly Resolution Office reports to the Under Secretary of Defense for Intelligence and Security on all administrative matters of the Office.",
+"tier": 1
+},
+{
+"source": "https://www.theblackvault.com/documentarchive/ex-dod-intelligence-officers-ufo-claims-spark-security-concerns-and-confusion-pentagon-memos-reveal/ (DoD memorandum for record released to The Black Vault under FOIA)",
+"text": "Garry Reid, then Director for Defense Intelligence at OUSD(I), wrote a memorandum for record in late December 2017 asserting that Luis Elizondo had 'aggrandized his role' in AATIP and that to the best of Reid's knowledge Elizondo 'had no job responsibilities related to the AATIP.'",
+"tier": 1
+},
+{
+"source": "https://www.theblackvault.com/documentarchive/ex-dod-intelligence-officers-ufo-claims-spark-security-concerns-and-confusion-pentagon-memos-reveal/",
+"text": "On 15 December 2017, the OUSD(I) Security Officer was notified that Elizondo may have 'misused government systems' and 'may intend to release [U.S. government] footage or information that he obtained during his employment with OUSD(I)' — a determination that presupposes he possessed such material.",
+"tier": 1
+},
+{
+"source": "https://www.theblackvault.com/documentarchive/ex-dod-intelligence-officers-ufo-claims-spark-security-concerns-and-confusion-pentagon-memos-reveal/",
+"text": "On 18 December 2017 OUSD(I) discovered a classified email sent by Elizondo in August 2017 to a Navy civilian requesting assistance to get one or more videos declassified, with the same videos then circulating in the media attached; on 21 December 2017 Reid met AFOSI agents to initiate a formal inquiry into Elizondo's possible mishandling of classified materials.",
+"tier": 1
+},
+{
+"source": "https://www.theblackvault.com/documentarchive/ex-dod-intelligence-officers-ufo-claims-spark-security-concerns-and-confusion-pentagon-memos-reveal/",
+"text": "A copy of Reid's memorandum for record bears handwritten marginal notes and initials dated '12/23' believed to be those of Secretary of Defense James N. Mattis, including a question whether Elizondo's 'sudden departure' constituted a 'counter-intelligence alarm?'",
+"tier": 2
+},
+{
+"source": "https://www.theblackvault.com/documentarchive/ex-dod-intelligence-officers-ufo-claims-spark-security-concerns-and-confusion-pentagon-memos-reveal/",
+"text": "DoD reached its internal determination about Elizondo's AATIP role in late December 2017 but did not make it public until June 2019, an eighteen-month interval for which no reason appears in the released records.",
+"tier": 1
+},
+{
+"source": "https://theintercept.com/2019/06/01/ufo-unidentified-history-channel-luis-elizondo-pentagon/ ; revision noted at https://www.theblackvault.com/documentarchive/ex-dod-intelligence-officers-ufo-claims-spark-security-concerns-and-confusion-pentagon-memos-reveal/",
+"text": "Pentagon spokesperson Christopher Sherwood stated publicly in June 2019 that Elizondo 'had no responsibilities with regard to the AATIP program while he worked in OUSDI... up until the time he resigned effective 10/4/2017'; the department later revised the formulation to 'no assigned responsibilities.'",
+"tier": 2
+},
+{
+"source": "https://www.theblackvault.com/documentarchive/ex-dod-intelligence-officers-ufo-claims-spark-security-concerns-and-confusion-pentagon-memos-reveal/",
+"text": "A previously unpublished Elizondo resignation letter received by his direct supervisor John Garrity III on 3 October 2017 surfaced in the FOIA release; the second, publicly known resignation letter was characterized in Reid's memo as having 'uncertain provenance' and as never delivered to the Secretary of Defense.",
+"tier": 1
+},
+{
+"source": "https://www.theblackvault.com/documentarchive/ex-dod-intelligence-officers-ufo-claims-spark-security-concerns-and-confusion-pentagon-memos-reveal/",
+"text": "Reid's first security concern predates the New York Times story: on 12 October 2017 he learned of the To The Stars Academy launch at which Elizondo, one week after resigning, announced plans to provide 'never-before-released footage from real U.S. government systems,' and Reid contacted AFOSI, which found no 'tangible indicators' of misconduct at that time.",
+"tier": 1
+},
+{
+"source": "https://thedebrief.org/sex-lies-and-ufos-pentagons-head-of-counterintelligence-and-security-ousted/",
+"text": "Garry Reid was removed from his position as Director for Defense Intelligence in April 2022 following a nearly two-year investigation by The Debrief; the stated cause was an inappropriate relationship and favoritism with a colleague rather than his handling of the Elizondo matter.",
+"tier": 2
+},
+{
+"source": "https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/Public_Affairs/21-F-0938-PA-Elizondo-Emails.pdf",
+"text": "Correspondence between Luis Elizondo and DoD spokesperson Susan Gough was released by the Office of the Secretary of Defense under FOIA case 21-F-0938.",
+"tier": 1
+},
+{
+"source": "https://www.executivegov.com/articles/bradley-hansell-dod-under-secretary-intel-security-confirmation",
+"text": "Bradley Hansell was confirmed by the Senate 61-35 as Under Secretary of Defense for Intelligence and Security and took office on 25 July 2025, succeeding acting Under Secretary Dustin Gard-Weiss.",
+"tier": 2
+},
+{
+"source": "DoD Manual 5205.07, 'Special Access Program (SAP) Security Manual' — https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507-V4p.PDF",
+"text": "The USD(I&S) carries out SAP responsibilities involving ODNI and intelligence community members in coordination with the Director of the DoD Special Access Program Central Office (SAPCO).",
+"tier": 2
+}
+],
+"connections": [
+"Garry Reid, Director for Defense Intelligence, OUSD(I) — author of the December 2017 memorandum for record; removed April 2022.",
+"Luis Elizondo — the subject of the memorandum; resigned effective 4 October 2017; later Director of Global Security and Special Programs at To The Stars Academy.",
+"John Garrity III — Elizondo's direct supervisor, recipient of the 3 October 2017 resignation letter.",
+"Neill Tipton — senior OUSD(I) official identified in released emails as stating Elizondo had no assigned responsibilities while also corresponding with him about AATIP.",
+"Christopher Sherwood and Susan Gough — DoD spokespeople who carried the public denial; Gough correspondence released under FOIA case 21-F-0938.",
+"Secretary of Defense James N. Mattis — believed author of the handwritten marginal notes and '12/23' initials on the Reid memorandum.",
+"Air Force Office of Special Investigations — the investigative arm Reid engaged twice, in October and December 2017.",
+"Christopher Mellon — recipient of the video packaging bearing 'L Elizondo' found on an open web directory in 2018.",
+"AARO — reports to USD(I&S) on all administrative matters under 50 U.S.C. 3373(b)(3)(B)(i), placing the investigative body's administration under the office that ran the counter-narrative.",
+"DoD SAPCO — the SAP coordination partner named in DoDM 5205.07, tying OUSD(I&S) to the compartment structure ISOO cannot independently inventory.",
+"Bradley Hansell, USD(I&S) since 25 July 2025; Dustin Gard-Weiss, acting predecessor."
+],
+"denialPosture": "OUSD(I&S) is the origin point of the central official denial in the modern UAP record: that Luis Elizondo had no responsibilities — later narrowed to 'no assigned responsibilities' — with regard to AATIP. That denial was formed internally in December 2017, withheld from the public for eighteen months, and issued through a departmental spokesperson rather than a signed official. It is contradicted in the same file by the department's own security officers, who feared Elizondo would release footage he had 'obtained during his employment with OUSD(I),' and by Reid's decision to open an AFOSI inquiry into his handling of that material.",
+"narrative": "OUSD(I&S) is where the security state's plumbing and its press strategy meet, and the December 2017 file shows both running at once.\n\nThe charter first. DoD Directive 5143.01, reissued 24 October 2014 and updated by Change 2 on 6 April 2020, sets the USD(I&S)'s responsibilities, functions, relationships and authorities pursuant to 10 U.S.C. 113 and 137, 50 U.S.C. 3001 et seq., Public Law 108-458, and Executive Orders 12333, 13470 and 13869. The 'and Security' in the title was added in 2019-2020 and is the whole point: this office does not merely produce intelligence, it writes the rules for who may know things. It coordinates with the Director of the DoD Special Access Program Central Office on SAP matters involving ODNI and the intelligence community, and it runs the department's counterintelligence, law enforcement and security enterprise. Under 50 U.S.C. 3373(b)(3)(B)(i), enacted by Section 6802 of the FY2023 NDAA, the Director of AARO 'shall report... to the Under Secretary of Defense for Intelligence and Security on all administrative matters of the Office.' Operational and security matters go to the Deputy Secretary and the Principal Deputy DNI; administration — staffing, funding, personnel, facilities — goes to OUSD(I&S). Congress placed the investigative body's housekeeping under the office whose predecessor had spent five years managing the Elizondo problem.\n\nNow the file. Records obtained by The Black Vault under FOIA establish the sequence.\n\n3 October 2017: Elizondo submits a resignation letter, received by his direct supervisor John Garrity III. A second, differently worded resignation letter — the one public since 2018 — is later characterized in Reid's memo as having 'uncertain provenance' and as never delivered to the Secretary of Defense.\n\n12 October 2017: Reid learns of the To The Stars Academy launch, at which Elizondo appears as Director of Global Security and Special Programs one week after leaving DoD and states that TTSA plans to provide 'never-before-released footage from real U.S. government systems.' Reid contacts the Air Force Office of Special Investigations. AFOSI finds no 'tangible indicators' of misconduct and declines to open a case.\n\n7 December 2017: The New York Times contacts DoD about AATIP and Elizondo.\n\n15 December 2017: The OUSD(I) Security Officer is notified that Elizondo may have 'misused government systems' and 'may intend to release [U.S. government] footage or information that he obtained during his employment with OUSD(I).'\n\n16 December 2017: 'Glowing Auras and Black Money' publishes, carrying the FLIR1 and Gimbal videos captioned as released by AATIP and courtesy of the Department of Defense. The same two videos appear on TTSA's YouTube channel.\n\n18 December 2017: OUSD(I) discovers a classified email Elizondo sent to a Navy civilian in August 2017 requesting assistance getting videos declassified, with the same videos attached.\n\n21 December 2017: Reid meets AFOSI agents to initiate a formal inquiry into Elizondo's possible mishandling of classified materials. AFOSI concludes the investigation in April 2018. No charges are known to have followed.\n\n23 December 2017: A copy of Reid's memorandum for record carries handwritten marginal notes and initials dated '12/23' believed to be those of Secretary of Defense James N. Mattis, including a question whether Elizondo's 'sudden departure' was a 'counter-intelligence alarm?'\n\nThe two propositions in that file cannot both be casually true. If Elizondo had no job responsibilities related to AATIP, the department's own security office had no reason to fear that he would release government footage 'obtained during his employment with OUSD(I),' and Reid had no reason to open a counterintelligence inquiry about material he possessed. The counter-narrative and the counterintelligence action are internally inconsistent, and both were produced by the same office in the same week.\n\nThe eighteen-month gap is the other artifact. The determination was reached in December 2017. It was not made public until June 2019, when spokesman Christopher Sherwood told The Intercept that Elizondo 'had no responsibilities with regard to the AATIP program while he worked in OUSDI... up until the time he resigned effective 10/4/2017.' That formulation was later revised to 'no assigned responsibilities' — a lawyer's edit, narrowing a claim about what a man did to a claim about what was written in his position description. Departments do not narrow their own denials unless the broader version is indefensible.\n\nReid himself was removed in April 2022, following a nearly two-year investigation by The Debrief; the stated cause was an inappropriate relationship and favoritism with a colleague, not the Elizondo matter, and sources described him as the person most directly responsible for preventing further UAP video releases and for retaliating against Elizondo. The office continued. Bradley Hansell was confirmed as USD(I&S) by the Senate 61-35 and took office 25 July 2025, succeeding acting Under Secretary Dustin Gard-Weiss.\n\nFor an analyst the significance is structural rather than personal. The record shows that when a UAP disclosure event occurred, the response was generated inside OUSD(I&S) by the Director for Defense Intelligence, coordinated with a service investigative agency, briefed to the Secretary of Defense within a week, and held in reserve for eighteen months before public deployment. That is not confusion. That is an information operation run through a security-policy office — and the same office now holds administrative authority over AARO and coordination authority over DoD SAPs.",
+"openQuestions": [
+"The exact date, control number and classification caveats of the Reid memorandum for record have not been established from the released copy; reporting places its classification at TS/ORCON but this was not verified against the document.",
+"Why the December 2017 determination about Elizondo's role was withheld from the public for eighteen months before being issued through a spokesperson in June 2019.",
+"Who authorized the change in wording from 'no responsibilities' to 'no assigned responsibilities,' and when.",
+"What the New York Times submitted to DoD on 7 December 2017 that caused the OUSD(I) Security Officer to be notified on 15 December that Elizondo may have misused government systems.",
+"Whether OUSD(I&S) or its predecessor exercised any authority over AATIP, AAWSAP or any successor effort beyond personnel administration, and whether any such authority is documented in a DoD issuance.",
+"The identity of the 'Navy civilian' to whom Elizondo's August 2017 classified declassification-assistance email was addressed.",
+"Whether the colleague who succeeded Reid after his April 2022 removal retained his UAP-related portfolio.",
+"What administrative controls OUSD(I&S) has exercised over AARO's staffing, funding and access under 50 U.S.C. 3373(b)(3)(B)(i), and whether any of those controls have constrained AARO's historical record work."
+],
+"roles": [
+"concealment",
+"oversight",
+"custody"
+],
+"whatItIs": "The Office of the Under Secretary of Defense for Intelligence and Security, the OSD principal staff element for defense intelligence, counterintelligence, and security policy, chartered by DoD Directive 5143.01 (24 October 2014, incorporating Change 2, 6 April 2020) under 10 U.S.C. 113 and 137 and Executive Orders 12333, 13470 and 13869. It owns DoD security policy, counterintelligence, and the department's interface with the DoD Special Access Program Central Office. Under 50 U.S.C. 3373(b)(3)(B)(i), the Director of AARO reports to the USD(I&S) on all administrative matters of the office.",
+"whyImplicated": "OUSD(I&S) is the office that produced the paper trail of the Elizondo counter-narrative, and that paper trail is the cleanest documentary evidence in the entire record of a deliberate, dated, signed effort by a defense component to control the public account of a UAP program. Its Director for Defense Intelligence, Garry Reid, wrote a memorandum for record in late December 2017 — within a week of the New York Times AATIP story — asserting that Luis Elizondo had 'aggrandized his role' and that to the best of Reid's knowledge Elizondo 'had no job responsibilities related to the AATIP,' while simultaneously initiating an AFOSI inquiry into Elizondo's handling of classified material. The Pentagon then sat on that determination for eighteen months before deploying it publicly through spokesman Christopher Sherwood in June 2019, and afterwards quietly amended the wording from 'no responsibilities' to 'no assigned responsibilities.' The same office holds administrative authority over AARO, the body Congress created to investigate the concealment, and it is the department's SAP security-policy owner. The entity that ran the counter-narrative also holds the keys to the compartments and supervises the investigators."
+},
+"entityInfo": null,
+"era": "2",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "ousdi",
+"l0": true,
+"label": "Office of the Under Secretary of Defense for Intelligence",
+"locLabel": null,
+"members": [
+{
+"cls": "domain",
+"id": "d-structure",
+"label": "Program structure and organisational mapping",
+"tier": "C"
+},
+{
+"cls": "person",
+"id": "luis-elizondo",
+"label": "Luis D. Elizondo",
+"tier": "A"
+},
+{
+"cls": "person",
+"id": "neill-tipton",
+"label": "Neill Tipton",
+"tier": "B"
+}
+],
+"short": "Under Sec of Defense for Intelligence",
+"sources": [
+{
+"date": "2009-11-17",
+"name": "Final packet presented to Deputy Secretary of Defense",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP/09117-Final_Packet_Presented_to_DepSecDef.pdf"
+},
+{
+"date": "2019-06-13",
+"name": "The Black Vault — Pentagon Reinforces Mr. Luis Elizondo Had 'No Responsibilities' on AATIP",
+"url": "https://www.theblackvault.com/documentarchive/pentagon-reinforces-mr-luis-elizondo-had-no-responsibilities-on-aatip-senator-harry-reids-2009-memo-changes-nothing/"
+},
+{
+"date": "2022-08-17",
+"name": "OSD/JS FOIA 18-F-0324",
+"url": "https://documents2.theblackvault.com/documents/osd/18-F-0324.pdf"
+},
+{
+"date": "2023-01-01",
+"name": "The Black Vault — New Emails Reveal Pentagon Effort to Align Messaging on AATIP and Luis Elizondo",
+"url": "https://www.theblackvault.com/documentarchive/new-emails-reveal-pentagon-effort-to-align-messaging-on-aatip-and-luis-elizondo/"
+}
+],
+"sub": "OSD staff element with authority over defence intelligence programs",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 181 of 1027, score 45). 7 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D2.",
+"timeline": []
+}

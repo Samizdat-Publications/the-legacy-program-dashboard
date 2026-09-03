@@ -1,0 +1,142 @@
+{
+"A": 3,
+"C": 1,
+"D": 2,
+"affiliations": [
+"Central Intelligence Agency, Directorate of Operations / National Clandestine Service (c.1982-2007, ~25 years)",
+"JimSem1, LLC",
+"To The Stars Academy of Arts & Science (2017-present)",
+"The Sol Foundation"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "2007",
+"event": "Retires from CIA at Senior Intelligence Service rank after roughly 25 years in the clandestine service.",
+"precision": "year"
+},
+{
+"date": "2017-10-11",
+"event": "Announced as co-founder and Vice President Operations of To The Stars Academy.",
+"precision": "day"
+},
+{
+"date": "2023",
+"event": "Associated with The Sol Foundation, the successor academic/policy institution.",
+"precision": "year"
+}
+],
+"claims": [
+{
+"source": "SEC EDGAR, TTSA Form 1-K Part II, filed April 2018",
+"text": "Listed in TTSA's Form 1-K as Vice President Operations, age 65, and one of three directors; described as retired from the CIA after 25 years in the Directorate of Operations.",
+"tier": 1
+},
+{
+"source": "The Sol Foundation official biography",
+"text": "Held Senior Intelligence Service status, served as Chief of Operations to the National Clandestine Service and chief of a key operational unit, and received the Agency's Career Intelligence Medal.",
+"tier": 2
+}
+],
+"cls": "person",
+"cluster": "ic",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2023",
+"direction": "out",
+"edgeLabel": "Continuity from TTSA into the successor policy institution",
+"id": "sol-foundation",
+"l0": true,
+"label": "The Sol Foundation",
+"note": "Semivan is listed among the Sol Foundation's people; the TTSA network reconstituted itself in academic and policy form after the company reverted to entertainment.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "The Sol Foundation — Jim Semivan",
+"url": "https://thesolfoundation.org/people/jim-semivan/"
+},
+{
+"date": "2026-08-12",
+"name": "The Sol Foundation - People",
+"url": "https://thesolfoundation.org/people/"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2017",
+"direction": "out",
+"edgeLabel": "Co-founder, VP Operations, director",
+"id": "ttsa",
+"l0": true,
+"label": "To The Stars Academy of Arts & Science Inc. (later To The Stars Inc.)",
+"note": "A retired CIA Senior Intelligence Service officer accepting a named directorship in an SEC-registered UFO company is a deliberate reputational commitment.",
+"sources": [
+{
+"date": "2018-04-30",
+"name": "SEC EDGAR — TTSA Form 1-K",
+"url": "https://www.sec.gov/Archives/edgar/data/1710274/000114420418023727/tv492460_partii.htm"
+}
+],
+"tier": "A",
+"type": "institutional"
+}
+],
+"date": "2017-10-11",
+"dateEnd": null,
+"dateStart": "2017-10-11",
+"deg": 2,
+"denials": [],
+"domains": [
+"elizondo-ttsa"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "jim-semivan",
+"instId": "ttsa",
+"l0": false,
+"label": "James 'Jim' Semivan",
+"loc": "Encinitas, CA",
+"locId": "l-encinitas",
+"members": null,
+"narrative": "Semivan is the CIA half of the TTSA founding triad and, with Puthoff and DeLonge, one of the three named directors on the company's SEC filings. He spent roughly 25 years in the CIA's clandestine service, retiring at Senior Intelligence Service rank, with overseas and headquarters assignments, work on foreign weapons systems and counterproliferation, service as Chief of Operations to the National Clandestine Service and as chief of a key operational unit, and receipt of the Agency's Career Intelligence Medal. In the 2018 Form 1-K he is listed as Vice President Operations, age 65, and as owner of the consulting firm JimSem1, LLC. His presence is the reason TTSA could not simply be dismissed as a musician's hobby: a retired SIS officer accepting a named corporate officership in a UFO company, and filing it with the SEC, is a deliberate reputational commitment. He remained after Elizondo, Mellon and Justice left in late 2020, and has since been a fixture of the successor institutional layer, appearing among the people of The Sol Foundation.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "James 'Jim' Semivan",
+"sources": [
+{
+"date": "2018-04-30",
+"name": "SEC EDGAR — TTSA Form 1-K Part II",
+"url": "https://www.sec.gov/Archives/edgar/data/1710274/000114420418023727/tv492460_partii.htm"
+},
+{
+"date": "2026-08-12",
+"name": "The Sol Foundation — Jim Semivan",
+"url": "https://thesolfoundation.org/people/jim-semivan/"
+}
+],
+"status": "active",
+"sub": "Co-founder and VP Operations, TTSA; 25-year CIA National Clandestine Service officer",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 635 of 1027, score 24). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A3/D2.",
+"timeline": [],
+"unexplainedResidual": null,
+"unverified": [
+"Specific CIA start and end years. His official biography gives duration (25 years) and seniority but no dated service record; CIA does not confirm employment dates."
+]
+}

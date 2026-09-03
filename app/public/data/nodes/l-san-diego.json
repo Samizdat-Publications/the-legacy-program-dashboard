@@ -1,0 +1,77 @@
+{
+"A": 1,
+"C": 1,
+"D": 2,
+"band": null,
+"claims": [],
+"cls": "location",
+"cluster": "other",
+"connections": [
+{
+"claimTier": 2,
+"cls": "domain",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "Homeport of the Nimitz strike group",
+"id": "d-aviators",
+"l0": false,
+"label": "Military Aviators & Operators",
+"note": "The 2004 encounters occurred in the Southern California Operating Area worked by San Diego-based fleet units.",
+"sources": [
+{
+"date": "2020-04-27",
+"name": "DoD statement on release of historical Navy videos",
+"url": "https://www.war.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/"
+}
+],
+"tier": "C",
+"type": "geographic"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": null,
+"deg": 1,
+"denials": [],
+"desc": "San Diego is the homeport of the Pacific Fleet's surface and carrier forces and the operational origin of the 2004 Nimitz Carrier Strike Group encounters off the southern California coast. It is on this board as the base city for serving and former Navy personnel who have given accounts of unidentified objects tracked by shipboard sensors, and as the shore end of the Southern California Operating Area where the most sensor-corroborated American cases occurred.",
+"domains": [
+"_rs-archive-mirror",
+"w2-taxonomy"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "nd",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "l-san-diego",
+"l0": false,
+"label": "San Diego, California",
+"locLabel": null,
+"members": null,
+"short": "San Diego, California",
+"sources": [
+{
+"date": "2026-08-02",
+"name": "Archived: DoD statement on release of historical Navy videos (Wayback 2026-08-02)",
+"url": "https://web.archive.org/web/20260802200608/https://www.war.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/"
+},
+{
+"date": "2026-08-12",
+"name": "Wikipedia - San Diego, California",
+"url": "https://en.wikipedia.org/wiki/San_Diego"
+},
+{
+"date": "2020-04-27",
+"name": "DoD statement on release of historical Navy videos",
+"url": "https://www.war.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/"
+}
+],
+"sub": "City in southern California; largest US Navy fleet concentration on the west coast",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 943 of 1027, score 12). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D2.",
+"timeline": []
+}

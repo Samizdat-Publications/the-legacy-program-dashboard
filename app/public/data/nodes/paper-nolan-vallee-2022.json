@@ -1,0 +1,409 @@
+{
+"A": 0,
+"C": 2,
+"D": 2,
+"band": "research",
+"claims": [
+{
+"source": "Progress in Aerospace Sciences / Crossref record",
+"text": "The paper is Progress in Aerospace Sciences 128 (2022) article 100788, DOI 10.1016/j.paerosci.2021.100788, authored by Nolan, Vallee, Jiang and Lemke.",
+"tier": 1
+},
+{
+"source": "Sol Foundation Policy Briefing No. 3, April 2026",
+"text": "The analysis found no anomalous isotopic values but incomplete mixing of the metals in the once-molten mass, indicating an industrial process of unknown origin.",
+"tier": 1
+},
+{
+"source": "Sol Foundation Policy Briefing No. 3, April 2026, summarising the paper",
+"text": "Meteorite, satellite/spacecraft debris, aircraft debris, dumped molten metal and thermite hypotheses were each examined and ruled out on physical grounds; the thermite exclusion rests on the absence of aluminium oxide in the SIMS diatomic analysis.",
+"tier": 1
+}
+],
+"cls": "document",
+"cluster": "research",
+"connections": [
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": "2022",
+"dateStart": "1977",
+"direction": "out",
+"edgeLabel": "Subject of the analysis: the 17 December 1977 molten mass",
+"id": "council-bluffs-1977",
+"l0": false,
+"label": "Council Bluffs, Iowa molten metal fall, 17 December 1977",
+"note": "Five independent witness groups, police photography, contemporaneous press coverage and a preserved sample - the only complete civil chain of custody in the published literature.",
+"sources": [
+{
+"date": "2026-04-01",
+"name": "The Sol Foundation Science and Policy Briefings No. 3, Marik von Rennenkampff, 'First Peer-Reviewed Scientific Analysis of Possible UAP Materials Employs State-of-the-Art Technologies'",
+"url": "https://thesolfoundation.org/wp-content/uploads/2026/04/Sol_Policy_Briefing_Number_3-1.pdf"
+},
+{
+"date": "2026-08-12",
+"name": "Richard Warner, 'Close Encounter at Big Lake Park', Historical Society of Pottawattamie County",
+"url": "https://www.thehistoricalsociety.org/h/ufo.html"
+}
+],
+"tier": "C",
+"type": "investigative"
+},
+{
+"claimTier": 3,
+"cls": "domain",
+"dateEnd": null,
+"dateStart": "2022",
+"direction": "out",
+"edgeLabel": "Establishes the standard the government's own holdings have never met",
+"id": "d-materials",
+"l0": false,
+"label": "Materials and custody analysis",
+"note": "A published sample, a published method, a published elimination of alternatives, and a stated residual. No government-held UAP material has ever been subjected to anything comparable in public.",
+"sources": [
+{
+"date": "2022-01-01",
+"name": "Nolan, Vallee, Jiang & Lemke, 'Improved instrumental techniques, including isotopic analysis, applicable to the characterization of unusual materials with potential relevance to aerospace forensics', Progress in Aerospace Sciences 128:100788",
+"url": "https://doi.org/10.1016/j.paerosci.2021.100788"
+},
+{
+"date": "2026-04-01",
+"name": "The Sol Foundation Science and Policy Briefings No. 3, Marik von Rennenkampff, 'First Peer-Reviewed Scientific Analysis of Possible UAP Materials Employs State-of-the-Art Technologies'",
+"url": "https://thesolfoundation.org/wp-content/uploads/2026/04/Sol_Policy_Briefing_Number_3-1.pdf"
+}
+],
+"tier": "B",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "2022",
+"direction": "in",
+"edgeLabel": "Senior author of the first peer-reviewed UAP materials analysis",
+"id": "garry-nolan",
+"l0": false,
+"label": "Garry Nolan",
+"note": "Progress in Aerospace Sciences 128:100788, applying SIMS and MIBI at 200 nm lateral resolution to the Council Bluffs material.",
+"sources": [
+{
+"date": "2022-01-01",
+"name": "Nolan, Vallee, Jiang & Lemke, 'Improved instrumental techniques, including isotopic analysis, applicable to the characterization of unusual materials with potential relevance to aerospace forensics', Progress in Aerospace Sciences 128:100788",
+"url": "https://doi.org/10.1016/j.paerosci.2021.100788"
+}
+],
+"tier": "A",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "2022",
+"direction": "in",
+"edgeLabel": "Co-author and source of the sample and its case file",
+"id": "jacques-vallee",
+"l0": false,
+"label": "Jacques F. Vallee",
+"note": "Vallee supplied both the physical material and the 45-year documentary case record - newspaper reports, police photographs, fire-department accounts - that makes the analysis interpretable.",
+"sources": [
+{
+"date": "2022-01-01",
+"name": "Nolan, Vallee, Jiang & Lemke, 'Improved instrumental techniques, including isotopic analysis, applicable to the characterization of unusual materials with potential relevance to aerospace forensics', Progress in Aerospace Sciences 128:100788",
+"url": "https://doi.org/10.1016/j.paerosci.2021.100788"
+},
+{
+"date": "2026-04-01",
+"name": "The Sol Foundation Science and Policy Briefings No. 3, Marik von Rennenkampff, 'First Peer-Reviewed Scientific Analysis of Possible UAP Materials Employs State-of-the-Art Technologies'",
+"url": "https://thesolfoundation.org/wp-content/uploads/2026/04/Sol_Policy_Briefing_Number_3-1.pdf"
+}
+],
+"tier": "B",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "2022",
+"direction": "in",
+"edgeLabel": "NASA Ames aerospace engineer supplying the exclusion arguments",
+"id": "larry-lemke",
+"l0": false,
+"label": "Larry G. Lemke",
+"note": "Lemke's engineering judgement underpins the rejection of reentry-debris and aircraft-component hypotheses on thermal-history and materials-selection grounds.",
+"sources": [
+{
+"date": "2022-01-01",
+"name": "Nolan, Vallee, Jiang & Lemke, 'Improved instrumental techniques, including isotopic analysis, applicable to the characterization of unusual materials with potential relevance to aerospace forensics', Progress in Aerospace Sciences 128:100788",
+"url": "https://doi.org/10.1016/j.paerosci.2021.100788"
+},
+{
+"date": "2026-04-01",
+"name": "The Sol Foundation Science and Policy Briefings No. 3, Marik von Rennenkampff, 'First Peer-Reviewed Scientific Analysis of Possible UAP Materials Employs State-of-the-Art Technologies'",
+"url": "https://thesolfoundation.org/wp-content/uploads/2026/04/Sol_Policy_Briefing_Number_3-1.pdf"
+}
+],
+"tier": "C",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "2022",
+"direction": "in",
+"edgeLabel": "Instrument operator and third author",
+"id": "sizun-jiang",
+"l0": false,
+"label": "Sizun Jiang",
+"note": "Jiang, then of the Nolan laboratory, ran the multiplexed ion beam imaging that produced the incomplete-mixing result.",
+"sources": [
+{
+"date": "2022-01-01",
+"name": "Nolan, Vallee, Jiang & Lemke, 'Improved instrumental techniques, including isotopic analysis, applicable to the characterization of unusual materials with potential relevance to aerospace forensics', Progress in Aerospace Sciences 128:100788",
+"url": "https://doi.org/10.1016/j.paerosci.2021.100788"
+}
+],
+"tier": "C",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2026",
+"direction": "in",
+"edgeLabel": "Sol Briefing No. 3 is the authoritative public exposition of the paper",
+"id": "sol-foundation",
+"l0": true,
+"label": "The Sol Foundation",
+"note": "The April 2026 briefing sets out the witness record, the 1978 initial identification, the SIMS/MIBI methodology and each hypothesis-elimination with its physical reason - work no journalism had done.",
+"sources": [
+{
+"date": "2026-04-01",
+"name": "The Sol Foundation Science and Policy Briefings No. 3, Marik von Rennenkampff, 'First Peer-Reviewed Scientific Analysis of Possible UAP Materials Employs State-of-the-Art Technologies'",
+"url": "https://thesolfoundation.org/wp-content/uploads/2026/04/Sol_Policy_Briefing_Number_3-1.pdf"
+}
+],
+"tier": "A",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "2022",
+"dateStart": "2021",
+"direction": "out",
+"edgeLabel": "Analysis performed with MIBI, a Stanford-developed instrument",
+"id": "stanford-nolan-lab",
+"l0": false,
+"label": "Nolan Laboratory, Stanford University School of Medicine",
+"note": "Multiplexed ion beam imaging, developed by Angelo, Bendall and Nolan for tissue biology, resolved the sample at 200 nm laterally and 5 nm in depth - the technique's first application to alleged UAP material.",
+"sources": [
+{
+"date": "2022-01-01",
+"name": "Nolan, Vallee, Jiang & Lemke, 'Improved instrumental techniques, including isotopic analysis, applicable to the characterization of unusual materials with potential relevance to aerospace forensics', Progress in Aerospace Sciences 128:100788",
+"url": "https://doi.org/10.1016/j.paerosci.2021.100788"
+},
+{
+"date": "2026-04-01",
+"name": "The Sol Foundation Science and Policy Briefings No. 3, Marik von Rennenkampff, 'First Peer-Reviewed Scientific Analysis of Possible UAP Materials Employs State-of-the-Art Technologies'",
+"url": "https://thesolfoundation.org/wp-content/uploads/2026/04/Sol_Policy_Briefing_Number_3-1.pdf"
+}
+],
+"tier": "C",
+"type": "institutional"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "2022",
+"deg": 8,
+"denials": [],
+"desc": "The first peer-reviewed instrumental analysis of physical material associated with a multi-witness UAP event to appear in a mainstream aerospace journal. Published in Progress in Aerospace Sciences volume 128, article 100788 (2022), DOI 10.1016/j.paerosci.2021.100788, by Garry P. Nolan, Jacques F. Vallee, Sizun Jiang and Larry G. Lemke. The subject is the Council Bluffs, Iowa mass of 17 December 1977. The methods are secondary ion mass spectrometry and multiplexed ion beam imaging. The results are deliberately unhelpful to both camps: the isotopic ratios contain no anomalies, so the material could have originated on Earth; but the metals within the once-molten mass are mixed incompletely, indicating an industrial process of unknown origin. The paper then works through the alternatives - meteorite (no cratering, wrong elemental composition, would not arrive molten, iron meteorites contain 5-40% nickel while the sample had only traces), satellite or spacecraft debris (cools and solidifies before impact, no structure, carbon steel is not a spacecraft material), aircraft debris (no incident reported at any regional airport or military facility), dumped molten metal (no foundries operating in the region that day, and the logistics of transporting metal above 2,500 degrees Fahrenheit undetected are formidable), and thermite (the necessary aluminium-oxide byproduct is absent from the SIMS diatomic analysis) - and rejects each. What survives is a residual: a terrestrial-isotope sample formed by an unknown industrial process, observed descending from a structured object by five independent witness groups and photographed by police.",
+"domains": [
+"scientists-technical"
+],
+"dossier": {
+"claims": [
+{
+"source": "DOI 10.1016/j.paerosci.2021.100788; NASA ADS bibcode 2022PrAeS.12800788N",
+"text": "The paper is Nolan, G.P., Vallee, J.F., Jiang, S., Lemke, L.G., \"Improved instrumental techniques, including isotopic analysis, applicable to the characterization of unusual materials with potential relevance to aerospace forensics,\" Progress in Aerospace Sciences, Vol. 128, January 2022, article 100788; made available online 9 December 2021.",
+"tier": 1
+},
+{
+"source": "https://ufos-scientificresearch.blogspot.com/2021/12/vallee-nolan-et-al-peer-reviewed.html",
+"text": "Progress in Aerospace Sciences is an Elsevier review journal that describes itself as an invitation-only international review journal, which means the paper was solicited rather than submitted cold.",
+"tier": 2
+},
+{
+"source": "https://ufos-scientificresearch.blogspot.com/2021/12/vallee-nolan-et-al-peer-reviewed.html",
+"text": "The paper's case study is the Council Bluffs, Iowa event of 17 December 1977 at approximately 1945 CST, in which a red luminous mass fell near the northern city limits and police and fire personnel arriving within about 15 minutes observed molten metal estimated at 35-55 pounds; investigators ruled out re-entering space debris, aircraft material, a meteorite and a hoax.",
+"tier": 2
+},
+{
+"source": "https://ufos-scientificresearch.blogspot.com/2021/12/vallee-nolan-et-al-peer-reviewed.html",
+"text": "The paper reports that \"All isotopic ratios were similar between the samples and did not show any statistically significant deviations from expected terrestrial normal except for 57Fe,\" and offers a conventional explanation for the 57Fe deviation.",
+"tier": 2
+},
+{
+"source": "https://ufos-scientificresearch.blogspot.com/2021/12/vallee-nolan-et-al-peer-reviewed.html",
+"text": "The analysed fragment is designated CB_JV-1 and was supplied by Vallee from his own retained portion of the 1977 material; the analysis used Secondary Ion Mass Spectrometry and Multiplexed Ion Beam Imaging (MIBI), an instrument capable of a broader isotope range than the 1977-78 analyses.",
+"tier": 2
+},
+{
+"source": "https://ufos-scientificresearch.blogspot.com/2021/12/vallee-nolan-et-al-peer-reviewed.html",
+"text": "The paper's published conclusion on the material is that \"The materials from Council Bluff show no evidence suggesting it was been engineered or designed. The material would not be expected to form naturally, and has been shown does have unusual inhomogeneity.\" (quoted with the paper's own grammatical errors).",
+"tier": 2
+},
+{
+"source": "https://ufos-scientificresearch.blogspot.com/2021/12/vallee-nolan-et-al-peer-reviewed.html",
+"text": "The paper states its purpose as open-source replication: \"The objective is to provide data in an open-source manner so that others might replicate the analytic approaches or divine a testable hypothesis of why and how such materials are deposited or left behind.\"",
+"tier": 2
+},
+{
+"source": "https://ufos-scientificresearch.blogspot.com/2021/12/vallee-nolan-et-al-peer-reviewed.html",
+"text": "On page 3 the paper cites a Defense Intelligence Reference Document produced under the DIA-funded AAWSAP program, specifically Maxim Tsoi's \"Metallic Spintronics\" (2010).",
+"tier": 2
+},
+{
+"source": "https://www.metabunk.org/threads/is-improved-instrumental-techniques-nolan-vallee-jiang-lemke-2022-a-useful-paper.13286/",
+"text": "The four most abundant elements identified in the paper's Figure 9 (page 15) are aluminium, silicon, iron and magnesium; the MIBI-SIMS configuration used could not detect oxygen because of its low mass.",
+"tier": 2
+},
+{
+"source": "https://www.metabunk.org/threads/is-improved-instrumental-techniques-nolan-vallee-jiang-lemke-2022-a-useful-paper.13286/",
+"text": "Subsamples 2 and 4 of five were excluded from the paper's Figure 8A because of low ion counts, which the authors attributed to possible oxidation.",
+"tier": 2
+},
+{
+"source": "https://www.metabunk.org/threads/is-improved-instrumental-techniques-nolan-vallee-jiang-lemke-2022-a-useful-paper.13286/",
+"text": "Approximately 350 words of the 2022 paper are reproduced near-verbatim from Vallee's 1998 paper \"Physical Analyses in Ten Cases of Unexplained Aerial Objects with Material Samples\" without being identified as reused text, including an unattributed quotation from a source identified only as \"J. Roser\" that in the 1998 paper referred to a different specimen (from Bogota).",
+"tier": 2
+},
+{
+"source": "https://www.metabunk.org/threads/is-improved-instrumental-techniques-nolan-vallee-jiang-lemke-2022-a-useful-paper.13286/",
+"text": "The paper's citation of Southall, H.L. and Oberly, C.E., \"System Considerations for Airborne, High-power Superconducting Generators\" (1979), is contested on the grounds that the cited paper concerns engine-driven superconducting generators for aircraft and contains no reference to liquid-metal technology or novel airborne platforms.",
+"tier": 2
+},
+{
+"source": "https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF",
+"text": "The US Government has run a parallel, non-public version of the same workflow: AARO's FY2024 report to Congress states that Oak Ridge National Laboratory \"provided analysis for a material claimed to be from a UAP\" and that AARO S&T, in coordination with ORNL, wrote a materials-analysis report and posted it on AARO's website, with supplemental data to follow.",
+"tier": 1
+},
+{
+"source": "https://ufos-scientificresearch.blogspot.com/2021/12/vallee-nolan-et-al-peer-reviewed.html",
+"text": "The authors state in the paper that they are conducting analyses on other pieces of unusual material beyond CB_JV-1, none of which had been published as of the 2022 article.",
+"tier": 3
+}
+],
+"connections": [
+"Garry P. Nolan (Stanford School of Medicine, Baxter Laboratory) is the analytical bridge between academic mass spectrometry and the private/contractor UAP materials network; his co-authorship with Vallee links the modern instrumentation to the 1960s-1990s physical-trace sample catalogue",
+"Jacques F. Vallee held custody of the Council Bluffs fragment from 1977 to the 2021 analysis; his 1998 paper 'Physical Analyses in Ten Cases of Unexplained Aerial Objects with Material Samples' is the source text partially reused in the 2022 paper",
+"Larry G. Lemke is a former NASA Ames Research Center engineer, which places a NASA-affiliated author on the paper",
+"Sizun Jiang was a member of the Nolan lab and provides the MIBI instrumentation lineage",
+"The paper cites an AAWSAP Defense Intelligence Reference Document ('Metallic Spintronics', Maxim Tsoi, 2010), connecting it directly to the DIA-funded AAWSAP/AATIP program lineage and to Bigelow Aerospace Advanced Space Studies",
+"Oak Ridge National Laboratory now performs the government-side equivalent analysis for AARO, per the FY2024 annual report - the same protocol run inside classification",
+"Frank Laukien, co-founder of the Galileo Project, is chairman and CEO of Bruker Corp., a manufacturer of exactly the mass-spectrometry and imaging instrumentation class reviewed in this paper"
+],
+"denialPosture": "The paper issues no denial and makes no claim of non-terrestrial origin; it explicitly refuses that framing and reports terrestrial isotope ratios. Its posture is one of deliberate under-claiming, which the authors themselves anticipate will feel \"incomplete or insufficient\" to readers on both sides.",
+"narrative": "The Council Bluffs event is one of the very few physical-trace cases in the UFO record with a same-night, multi-agency chain of custody. At approximately 1945 CST on 17 December 1977, two residents of Council Bluffs, Iowa, watched a red luminous mass descend near the northern city limits. When they reached the site they found ground covered by molten metal glowing red-orange and igniting grass. Police and fire personnel were on scene within roughly fifteen minutes and all of them saw the mass, which they estimated at 35 to 55 pounds. Investigators at the time ruled out re-entering space debris, falling aircraft material, a meteorite (there was no crater), and a hoax. Two of the eleven witnesses described a round object hovering in the sky edged with red blinking lights. Vallee took possession of a fragment. Forty-four years later Nolan's Stanford laboratory - which had developed Multiplexed Ion Beam Imaging (MIBI), a mass-spectrometric imaging technique built for tissue but capable of resolving a much broader isotope range than the 1978-era instruments - ran it again.\n\nThe result was not what either camp wanted. The paper reports that all isotopic ratios were similar between the samples and did not show statistically significant deviations from expected terrestrial normal, with one exception involving 57Fe for which the authors themselves offer a conventional explanation. In other words: the sample is made of Earth atoms. What the paper does not do is stop there. The elemental map shows local homogeneity inside individual measured grains but pronounced inhomogeneity across subsamples, which the authors read as incomplete mixing - the fingerprint of a process, not a natural formation. Their published summary of the Council Bluffs material is that it shows no evidence of having been engineered or designed, would not be expected to form naturally, and has unusual inhomogeneity. The origin, handling history and delivery mechanism remain unidentified.\n\nThe hostile reading of the paper is worth cataloguing because it is specific and it is on the record. The most detailed public critique, a long-form analysis at Metabunk, argues that the four most abundant elements identified in the paper's Figure 9 - aluminium, silicon, iron and magnesium - are the 3rd, 2nd, 4th and 7th most abundant elements in Earth's crust and are all consistent with a thermite or improvised-thermite reaction; that the MIBI-SIMS configuration used cannot detect oxygen, which would be the discriminating element for a redox reaction; that two of five subsamples returned compromised ion counts; that the paper's citation of Southall and Oberly's 1979 paper on airborne superconducting generators does not support the liquid-metal and novel-propulsion inferences drawn from it; and that roughly 350 words are reused near-verbatim from Vallee's own 1998 paper \"Physical Analyses in Ten Cases of Unexplained Aerial Objects with Material Samples\" without being marked as reused. None of these critiques have produced a retraction, and none of them contradict the isotopic finding. They are, for an analyst, a checklist of what a replication attempt has to close out.\n\nThe reason this paper matters to a board about a concealed program is structural rather than evidentiary. Every version of the legacy-program hypothesis reduces, eventually, to a claim about custody of physical material. Every official denial reduces to a claim about the absence of such material. Both claims are testable by exactly the instruments described here, and only by them. The Nolan-Vallee paper is therefore the open-literature specification of the test that the government has consistently declined to submit its holdings to - and, notably, the government has since begun performing a shadow version of the same test on its own terms. AARO's FY2024 annual report to Congress states plainly that Oak Ridge National Laboratory \"provided analysis for a material claimed to be from a UAP\" and that AARO S&T, in coordination with ORNL, wrote and posted a materials-analysis report on its website, with supplemental data promised. That is the same workflow, run inside the fence, with the sample provenance and the raw data controlled by the party with the strongest institutional interest in the answer.\n\nThe analyst-facing question the paper leaves open is not whether CB_JV-1 is alien. The authors expressly refuse that framing, writing that the objective is to provide data in an open-source manner so that others might replicate the analytic approaches or derive a testable hypothesis for how such materials are deposited. The question is who else has run this protocol, on what, and where those results went. Nolan has stated publicly that he has analysed other samples; the paper itself notes further analyses in progress. The gap between the published Council Bluffs work and whatever else has passed through that instrument is one of the more tractable research targets on this board.",
+"openQuestions": [
+"The chain of custody for CB_JV-1 between the 1977 recovery by Council Bluffs police/fire and Vallee's retained fragment is not documented in the public record",
+"The identity and institutional affiliation of 'J. Roser', quoted in both the 1998 and 2022 papers without citation, is unresolved",
+"What other samples the Nolan laboratory has run using this protocol, at whose request, and where those results went",
+"Whether the AARO/ORNL materials analysis used comparable isotopic methods, and whether its raw data has been released as promised",
+"Whether the thermite hypothesis raised in the Metabunk critique has ever been tested experimentally against the CB_JV-1 elemental profile"
+],
+"roles": [
+"research",
+"disclosure"
+],
+"whatItIs": "A peer-reviewed review article, \"Improved instrumental techniques, including isotopic analysis, applicable to the characterization of unusual materials with potential relevance to aerospace forensics,\" by Garry P. Nolan, Jacques F. Vallee, Sizun Jiang and Larry G. Lemke, published in Elsevier's Progress in Aerospace Sciences, Volume 128, January 2022, article 100788 (online 9 December 2021), DOI 10.1016/j.paerosci.2021.100788. Its first half reviews mass-spectrometry and imaging methods for characterizing unknown solids; its second half applies them to a preserved sample, designated CB_JV-1, from the 17 December 1977 molten-metal fall at Council Bluffs, Iowa. It is the first materials-analysis paper on a UAP-associated sample to appear in a mainstream aerospace journal.",
+"whyImplicated": "This paper is the methodological hinge of the entire material-evidence question. It puts on the record, in a journal that describes itself as invitation-only and that is read by the aerospace engineering community, a replicable protocol for exactly the task a legacy exploitation program would have been performing in secret for decades: determining whether a recovered solid was manufactured, by whom, and by what process. Its lead author, Garry Nolan, is a Stanford professor of pathology whose analytical lab work brought him into contact with the contractor-adjacent UAP community; its second author, Jacques Vallee, holds the sample catalogue that has been the reference set for physical-trace UFO cases since the 1960s. The paper cites, on page 3, one of the Defense Intelligence Reference Documents produced under the DIA-funded Advanced Aerospace Weapon System Applications Program (AAWSAP) - Maxim Tsoi's \"Metallic Spintronics\" (2010) - which drags a government UAP-program artifact into the open Elsevier literature and into a citation graph that can be followed. Finally, the paper's actual result is the inconvenient one: isotope ratios consistent with terrestrial norms, but an inhomogeneity pattern the authors say would not be expected to form naturally and that they cannot source to any identified industrial process. That is the shape of an evidentiary problem, not a claim of proof - which is what makes it usable."
+},
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "paper-nolan-vallee-2022",
+"l0": true,
+"label": "Nolan, Vallee, Jiang & Lemke (2022), Progress in Aerospace Sciences 128:100788",
+"locLabel": null,
+"members": [
+{
+"cls": "event",
+"id": "council-bluffs-1977",
+"label": "Council Bluffs, Iowa molten metal fall, 17 December 1977",
+"tier": "C"
+},
+{
+"cls": "domain",
+"id": "d-materials",
+"label": "Materials and custody analysis",
+"tier": "B"
+},
+{
+"cls": "person",
+"id": "garry-nolan",
+"label": "Garry Nolan",
+"tier": "A"
+},
+{
+"cls": "person",
+"id": "jacques-vallee",
+"label": "Jacques F. Vallee",
+"tier": "B"
+},
+{
+"cls": "person",
+"id": "larry-lemke",
+"label": "Larry G. Lemke",
+"tier": "C"
+},
+{
+"cls": "person",
+"id": "sizun-jiang",
+"label": "Sizun Jiang",
+"tier": "C"
+},
+{
+"cls": "institution",
+"id": "stanford-nolan-lab",
+"label": "Nolan Laboratory, Stanford University School of Medicine",
+"tier": "C"
+}
+],
+"short": "Nolan & Vallee 2022, Prog Aero Sci",
+"sources": [
+{
+"date": "2022-01-01",
+"name": "Nolan, Vallee, Jiang & Lemke, 'Improved instrumental techniques, including isotopic analysis, applicable to the characterization of unusual materials with potential relevance to aerospace forensics', Progress in Aerospace Sciences 128:100788",
+"url": "https://doi.org/10.1016/j.paerosci.2021.100788"
+},
+{
+"date": "2026-04-01",
+"name": "The Sol Foundation Science and Policy Briefings No. 3, Marik von Rennenkampff, 'First Peer-Reviewed Scientific Analysis of Possible UAP Materials Employs State-of-the-Art Technologies'",
+"url": "https://thesolfoundation.org/wp-content/uploads/2026/04/Sol_Policy_Briefing_Number_3-1.pdf"
+}
+],
+"sub": "'Improved instrumental techniques, including isotopic analysis, applicable to the characterization of unusual materials with potential relevance to aerospace forensics'",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 505 of 1027, score 29). 8 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A0/D2.",
+"timeline": [
+{
+"date": "2022-01-01",
+"id": "st-2022-01-paero",
+"label": "First peer-reviewed UAP materials analysis",
+"precision": "month",
+"strand": "program",
+"text": "Nolan, Vallee, Jiang and Lemke publish the SIMS and MIBI analysis of the Council Bluffs mass in Progress in Aerospace Sciences: no isotopic anomaly, but metals mixed incompletely by an industrial process of unknown origin.",
+"tier": "A"
+}
+]
+}

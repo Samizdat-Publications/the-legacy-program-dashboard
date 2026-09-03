@@ -1,0 +1,316 @@
+{
+"A": 0,
+"C": 0,
+"D": 3,
+"band": null,
+"claims": [
+{
+"source": "Wikipedia entries for Leslie Kean and Ralph Blumenthal; The Debrief, 5 June 2023 — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"text": "The 2017 AATIP story ran in the New York Times; the 2023 Grusch story by the same authors ran in The Debrief.",
+"tier": 2
+},
+{
+"source": "Inference from the monetisation disclosed in the episode descriptions themselves.",
+"text": "The commercial structure of independent long-form media - sponsorship reads, membership tiers, merchandise and tour revenue attached to episodes making structural allegations - creates an escalation incentive that must be weighed against the format's genuine advantage in allowing claims to be laid out at length and indexed.",
+"tier": 3
+}
+],
+"cls": "domain",
+"cluster": "media",
+"connections": [
+{
+"claimTier": 3,
+"cls": "domain",
+"dateEnd": "2026",
+"dateStart": "2023",
+"direction": "in",
+"edgeLabel": "The structural discipline is a product of the independent-media substrate",
+"id": "d-structure",
+"l0": false,
+"label": "Program structure and organisational mapping",
+"note": "The office-symbol-level structural work exists because a format existed that could carry two- and three-hour document-dense expositions. No broadcast or print outlet would have published it; the format created the discipline.",
+"sources": [
+{
+"date": "2026-01-11",
+"name": "American Alchemy - 'The Pentagon's UFO Program Is Real [Here's How It Works!]'",
+"url": "https://www.youtube.com/watch?v=u7g5Sn1DJF4"
+},
+{
+"date": "2026-08-07",
+"name": "UAP Gerb - The MITRE Corporation investigation",
+"url": "https://www.youtube.com/watch?v=107BtDYhTkA"
+}
+],
+"tier": "C",
+"type": "temporal"
+},
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": "2024-11-13",
+"dateStart": "2024-10",
+"direction": "in",
+"edgeLabel": "the case that proves the substrate: leak, newsletter, congressional record, no newsroom",
+"id": "immaculate-constellation",
+"l0": true,
+"label": "Immaculate Constellation disclosure, October-November 2024",
+"note": "An alleged unacknowledged special access program entered the public record in October 2024 through an independent journalist and the Congressional Record on 13 November 2024, via written testimony and the House Oversight hearing transcript. Whatever the underlying report is worth, the path it travelled is the clearest single demonstration of how disclosure is now produced and distributed.",
+"sources": [
+{
+"date": "2024-11-13",
+"name": "Michael Shellenberger, written testimony to the House Committee on Oversight and Accountability",
+"url": "https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Shellenberger.pdf"
+},
+{
+"date": "2024-11-13",
+"name": "House Oversight hearing transcript, 'UAP: Exposing the Truth' (CHRG-118hhrg57440)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm"
+}
+],
+"tier": "A",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "1996",
+"direction": "in",
+"edgeLabel": "one private FOIA operation supplies the documentary base the rest of the substrate runs on",
+"id": "john-greenewald",
+"l0": false,
+"label": "John Greenewald Jr.",
+"note": "Greenewald has filed FOIA requests since 1996 and published well over two million pages through The Black Vault, including the OSD/JS 18-F-0324 release that anchors much of the AATIP record. The fact that the primary-document layer of this subject is held by a private individual rather than an institution is itself the domain's argument.",
+"sources": [
+{
+"date": "2022-08-17",
+"name": "OSD/JS FOIA case 18-F-0324, final response and released documents (The Black Vault)",
+"url": "https://documents2.theblackvault.com/documents/osd/18-F-0324.pdf"
+},
+{
+"date": "2026-08-21",
+"name": "The Black Vault, case file: To The Stars Academy, Tom DeLonge and the secret DoD UFO research program",
+"url": "https://www.theblackvault.com/casefiles/to-the-stars-academy-of-arts-science-tom-delonge-and-the-secret-dod-ufo-research-program/"
+}
+],
+"tier": "B",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "1981",
+"direction": "in",
+"edgeLabel": "four decades of the record produced from a single local affiliate",
+"id": "klas-tv",
+"l0": false,
+"label": "KLAS-TV (Las Vegas)",
+"note": "KLAS-TV is where George Knapp has anchored and reported since 1981, where the Bob Lazar interviews aired in 1989, and the institutional capacity in which he testified before the House Oversight Task Force on 9 September 2025. A local CBS affiliate in a desert market holding a national investigative record for forty years is a structural fact about the substrate, not a curiosity.",
+"sources": [
+{
+"date": "2025-09-09",
+"name": "House Oversight Task Force hearing transcript, 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection' (CHRG-119hhrg61718)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm"
+},
+{
+"date": "2026-08-21",
+"name": "Wikipedia, George Knapp (television journalist)",
+"url": "https://en.wikipedia.org/wiki/George_Knapp_(television_journalist)"
+}
+],
+"tier": "C",
+"type": "investigative"
+},
+{
+"claimTier": 2,
+"cls": "document",
+"dateEnd": null,
+"dateStart": "2026-01-11",
+"direction": "in",
+"edgeLabel": "the most detailed structural reconstruction in circulation, published on a YouTube channel",
+"id": "michels-gerb-structural-episode",
+"l0": true,
+"label": "'The Pentagon's UFO Program Is Real [Here's How It Works!]'",
+"note": "A three-hour-plus American Alchemy episode published 11 January 2026 in which UAP Gerb walks Jesse Michels through air force bases, deep underground facilities and federally funded research organisations alleged to be involved in retrieval and exploitation. That the fullest available reconstruction exists as a podcast episode rather than a published investigation is the domain's defining fact.",
+"sources": [
+{
+"date": "2026-01-11",
+"name": "American Alchemy, 'The Pentagon's UFO Program Is Real [Here's How It Works!] ft. UAPGerb' (YouTube)",
+"url": "https://www.youtube.com/watch?v=u7g5Sn1DJF4"
+},
+{
+"date": "2026-01-11",
+"name": "American Alchemy with Jesse Michels, 'The Hidden UFO Program Is Real - Here's How It Works! (ft. UAPGerb)' (Apple Podcasts listing)",
+"url": "https://podcasts.apple.com/us/podcast/the-hidden-ufo-program-is-real-heres-how-it-works-ft-uapgerb/id1771917740?i=1000744706983"
+}
+],
+"tier": "C",
+"type": "investigative"
+},
+{
+"claimTier": 2,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2021",
+"direction": "in",
+"edgeLabel": "the only US broadcaster to make the legacy programme a standing beat rather than an occasional segment",
+"id": "newsnation",
+"l0": false,
+"label": "NewsNation",
+"note": "NewsNation carries Ross Coulthart as special correspondent with a dedicated programme, Reality Check, built around long-form UAP investigation, and in 2026 ran a multi-part series with UAP Gerb covering FFRDCs, gatekeeping and the alleged Kona Blue material transfer. Broadcast participation in this domain reduces, in practice, to one correspondent at one network.",
+"sources": [
+{
+"date": "2026-08-21",
+"name": "NewsNation, Ross Coulthart correspondent page",
+"url": "https://www.newsnationnow.com/author/ross-coulthart/"
+},
+{
+"date": "2026-08-21",
+"name": "NewsNation, 'Reality Check with Ross Coulthart' programme page",
+"url": "https://www.newsnationnow.com/podcasts-newsnation/reality-check/"
+}
+],
+"tier": "C",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": null,
+"dateStart": "2017-12-16",
+"direction": "in",
+"edgeLabel": "the baseline against which the substrate shift is measured",
+"id": "nyt-2017-12-16",
+"l0": true,
+"label": "New York Times, 'Glowing Auras and Black Money: The Pentagon's Mysterious U.F.O. Program'",
+"note": "The 16 December 2017 story is the last time a US paper of record originated a legacy-programme disclosure. Every subsequent major disclosure - Grusch in 2023, Immaculate Constellation in 2024, the structural reconstruction in 2026 - went somewhere else first. This node is what makes the domain's central claim measurable rather than rhetorical.",
+"sources": [
+{
+"date": "2017-12-16",
+"name": "New York Times, 'Glowing Auras and Black Money: The Pentagon's Mysterious U.F.O. Program'",
+"url": "https://www.nytimes.com/2017/12/16/us/politics/pentagon-program-ufo-harry-reid.html"
+},
+{
+"date": "2017-12-16",
+"name": "New York Times, 'Glowing Auras and Black Money' (NICAP archival copy)",
+"url": "https://www.nicap.org/reports2/2004_20171216_NYTArt_1.pdf"
+}
+],
+"tier": "A",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "2024-11-13",
+"dateStart": "2024-10",
+"direction": "in",
+"edgeLabel": "a newsletter, not a newsroom, carried a named alleged programme into the congressional record",
+"id": "public-substack",
+"l0": false,
+"label": "Public",
+"note": "Michael Shellenberger reported the Immaculate Constellation allegations on Public and then entered the twelve-page report into the record as a witness before the House Committee on Oversight and Accountability on 13 November 2024. The chain runs leak to Substack to sworn testimony with no traditional newsroom in it, which is the domain's thesis stated as a single case.",
+"sources": [
+{
+"date": "2024-11-13",
+"name": "Michael Shellenberger, written testimony to the House Committee on Oversight and Accountability",
+"url": "https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Shellenberger.pdf"
+},
+{
+"date": "2024-11-13",
+"name": "House Oversight hearing transcript, 'UAP: Exposing the Truth' (CHRG-118hhrg57440)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm"
+}
+],
+"tier": "C",
+"type": "investigative"
+},
+{
+"claimTier": 2,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2023",
+"direction": "in",
+"edgeLabel": "placement aimed at the congressional audience rather than original investigation",
+"id": "the-hill",
+"l0": false,
+"label": "The Hill",
+"note": "The Hill is read by congressional staff and has carried sustained UAP coverage and opinion aimed at that readership - the January 2024 classified briefing, the fight over the UAP amendment's inclusion in the FY2024 defence bill, and continuing coverage of Grusch. Graded Tier 2 because the sourced record shows placement and coverage, not original documentary investigation.",
+"sources": [
+{
+"date": "2024-01-12",
+"name": "The Hill, 'Classified UFO briefing: House members emerge with mixed feelings'",
+"url": "https://thehill.com/homenews/house/4406059-classified-ufo-briefing-house-members-mixed-feelings/"
+},
+{
+"date": "2023-11-30",
+"name": "The Hill, 'House lawmakers demand transparency from leaders on UAP amendment's inclusion in Defense bill'",
+"url": "https://thehill.com/policy/defense/4337149-house-lawmakers-demand-transparency-from-leaders-on-uap-amendments-inclusion-in-defense-bill/"
+}
+],
+"tier": "C",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "2023-08-09",
+"dateStart": "2019-06-01",
+"direction": "in",
+"edgeLabel": "the adversarial counterweight inside the same substrate",
+"id": "the-intercept",
+"l0": false,
+"label": "The Intercept",
+"note": "The Intercept's contribution to this record is subtractive rather than additive: its June 2019 investigation found no discernible evidence that Luis Elizondo led AATIP and obtained a Pentagon statement in tension with the earlier one given to Politico, and in August 2023 it published FOIA'd records on David Grusch weeks after his testimony. A domain about the disclosure substrate that contains only friendly outlets is not a domain, it is a reading list.",
+"sources": [
+{
+"date": "2019-06-01",
+"name": "The Intercept, 'The Media Loves This UFO Expert Who Says He Worked for an Obscure Pentagon Program. Did He?'",
+"url": "https://theintercept.com/2019/06/01/ufo-unidentified-history-channel-luis-elizondo-pentagon/"
+},
+{
+"date": "2023-08-09",
+"name": "The Intercept, 'UFO Whistleblower Kept Security Clearance After Psychiatric Detention'",
+"url": "https://theintercept.com/2023/08/09/ufo-david-grusch-clearance/"
+}
+],
+"tier": "C",
+"type": "investigative"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "2017",
+"deg": 10,
+"denials": [],
+"desc": "The domain covering how the disclosure record is actually produced and distributed. The defining fact of the 2023-2026 period is that the substrate moved: the New York Times carried the 2017 AATIP story but not the 2023 Grusch story, which went to The Debrief; the most detailed structural reconstruction of the alleged programme was published not by any newsroom but on a YouTube channel; and the mainstream broadcast contribution came from a single correspondent at a fourth-place cable network. The consequences cut both ways. Long-form independent media gave the structural argument the room it needed - three and four hours, with timestamped chapter indexes that make claims retrievable and dateable - which no broadcast format would have allowed. It also removed the editorial layer that would have forced sourcing discipline, and it attached the whole enterprise to advertising, membership and merchandise revenue models that reward escalation. Both facts belong in any assessment of this record.",
+"domains": [
+"media-structure"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "d-media",
+"l0": false,
+"label": "Independent media as the disclosure substrate",
+"locLabel": null,
+"members": null,
+"short": "Independent media as the disclosure substrate",
+"sources": [
+{
+"date": "2026-01-11",
+"name": "American Alchemy - episode descriptions showing sponsorship and membership monetisation",
+"url": "https://www.youtube.com/watch?v=u7g5Sn1DJF4"
+}
+],
+"sub": "Research domain",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 783 of 1027, score 19). 10 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.",
+"timeline": []
+}

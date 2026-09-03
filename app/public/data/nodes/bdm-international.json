@@ -1,0 +1,113 @@
+{
+"A": 1,
+"C": 1,
+"D": 1,
+"band": null,
+"claims": [
+{
+"source": "BDM International, Inc., Form 10-K for FY1995, filed 12 March 1996, CIK 0000870763",
+"text": "'The Company was formed in 1959 by Drs. Joseph V. Braddock, Bernard J. Dunn, and Daniel F. McDonald as Braddock, Dunn & McDonald, Incorporated, which was later reorganized as BDM International, Inc.'",
+"tier": 1
+},
+{
+"source": "BDM International, Inc., Form 10-K for FY1995",
+"text": "BDM was publicly held 1980-1988, 'when Ford Aerospace Corporation, then a wholly owned subsidiary of Ford Motor Company, acquired all of the outstanding stock of the Predecessor Company'; and 'In October 1990, on behalf of certain investors, The Carlyle Group, L.P. ... formed BDM Holdings, Inc.', which acquired substantially all the assets.",
+"tier": 1
+},
+{
+"source": "BDM International, Inc., Form 10-K for FY1995, SEC file number 000-23966",
+"text": "Its registered address is 1501 BDM Way, McLean, Virginia. In 1995 its revenue mix was approximately 37 per cent Department of Defense, 25 per cent international defence agencies, 23 per cent civil government and 15 per cent commercial. Vinnell Corporation is named among its subsidiaries.",
+"tier": 1
+},
+{
+"source": "Stated inference from reproduced scans of private papers; no institutional custody located, and no account by a named participant was read",
+"text": "Papers said to come from Jack Houck's private files after his death in 2013, published by a researcher, include a booking slip for the 'BDM McLean Secure Facility' for 20-25 May 1985, an undated May 1985 agenda, and presentation transparencies annotated in Houck's hand and dated 21 May 1985 bearing phrases including 'Threat', 'Abduction data base', 'Obtain technology spinoffs' and 'Have airtight security'. The provenance chain is private papers to researcher to publication; no institutional repository, government record or BDM record holds them.",
+"tier": 3
+}
+],
+"cls": "institution",
+"cluster": "contractor",
+"connections": [
+{
+"claimTier": 1,
+"cls": "location",
+"dateEnd": "1995",
+"dateStart": "1995",
+"direction": "out",
+"edgeLabel": "headquartered at 1501 BDM Way, McLean, Virginia",
+"id": "l-mclean",
+"l0": false,
+"label": "McLean, Virginia",
+"note": "From its own Form 10-K for FY1995. The May 1985 Advanced Theoretical Physics meeting is placed at a 'BDM McLean Secure Facility' only by papers from a private estate, and is carried on the node at Tier 3.",
+"sources": [
+{
+"date": "1996-03-12",
+"name": "BDM International, Inc., Form 10-K for FY1995",
+"url": "https://www.sec.gov/Archives/edgar/data/870763/0000950112-96-000762.txt"
+}
+],
+"tier": "C",
+"type": "geographic"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "1997",
+"dateStart": "1997",
+"direction": "in",
+"edgeLabel": "TRW acquired BDM by cash tender offer, 1997",
+"id": "trw-inc",
+"l0": false,
+"label": "TRW Inc.",
+"note": "BDM's own Schedule 14D-9 of 26 November 1997 recites the 20 November merger agreement with TRW Inc. and its subsidiary Systems Acquisition Inc. at $29.50 a share, and BDM filed a Form 15-12G on 29 December 1997.",
+"sources": [
+{
+"date": "1997-11-26",
+"name": "BDM International, Inc., Schedule 14D-9, 26 November 1997",
+"url": "https://www.sec.gov/Archives/edgar/data/870763/0000950152-97-008353.txt"
+}
+],
+"tier": "B",
+"type": "institutional"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "1959",
+"deg": 2,
+"denials": [],
+"desc": "BDM is on this board as a documented company with an ownership history that runs through exactly the places this board maps, and as the address of a 1985 meeting whose evidence is far weaker than the company's. From its own Form 10-K for FY1995: 'The Company was formed in 1959 by Drs. Joseph V. Braddock, Bernard J. Dunn, and Daniel F. McDonald as Braddock, Dunn & McDonald, Incorporated, which was later reorganized as BDM International, Inc.' It was public from 1980 to 1988, 'when Ford Aerospace Corporation, then a wholly owned subsidiary of Ford Motor Company, acquired all of the outstanding stock of the Predecessor Company', and in October 1990 The Carlyle Group formed BDM Holdings, Inc. to acquire substantially all the assets. In 1995 the Department of Defense was approximately 37 per cent of revenue, international defence agencies 25 per cent, civil government 23 per cent. Vinnell Corporation was a subsidiary.\n\nThe Advanced Theoretical Physics meeting of May 1985 is a different order of evidence and this node says so. The only source outside the interview literature is a set of scans said to come from Jack Houck's private files after his death in 2013, published on a research blog: a booking slip for the 'BDM McLean Secure Facility' for 20-25 May 1985, an undated May 1985 agenda, and transparencies annotated in Houck's hand. That chain is private papers to researcher to blog -- no institutional repository, no government record, no BDM record -- and it is carried at Tier 3, worded as what the papers are rather than as what the meeting was.",
+"domains": [
+"legacy-1947-86"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "bdm-international",
+"l0": false,
+"label": "BDM International, Inc.",
+"locLabel": null,
+"members": null,
+"short": "BDM International, Inc.",
+"sources": [
+{
+"date": "1996-03-12",
+"name": "BDM International, Inc., Form 10-K for FY1995, filed 12 March 1996",
+"url": "https://www.sec.gov/Archives/edgar/data/870763/0000950112-96-000762.txt"
+},
+{
+"date": "2026-08-30",
+"name": "SEC EDGAR company record, BDM INTERNATIONAL INC /DE, CIK 0000870763",
+"url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000870763&type=10-K"
+}
+],
+"sub": "Defence services contractor, McLean VA; Ford Aerospace 1988, Carlyle Group 1990",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 732 of 1027, score 21). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D1.",
+"timeline": []
+}

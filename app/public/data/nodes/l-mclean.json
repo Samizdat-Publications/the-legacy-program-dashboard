@@ -1,0 +1,155 @@
+{
+"A": 2,
+"C": 1,
+"D": 0,
+"band": null,
+"claims": [
+{
+"source": "NSF NCSES Master Government List of FFRDCs, FY2026",
+"text": "NSEC, CAASD, the Center for Enterprise Modernization and HSSEDI are all registered at McLean, Virginia on the NSF Master Government List of FFRDCs; NSEC's primary location was reassigned to McLean in 2025.",
+"tier": 1
+}
+],
+"cls": "location",
+"cluster": "ffrdc",
+"connections": [
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "1995",
+"dateStart": "1995",
+"direction": "in",
+"edgeLabel": "headquartered at 1501 BDM Way, McLean, Virginia",
+"id": "bdm-international",
+"l0": false,
+"label": "BDM International, Inc.",
+"note": "From its own Form 10-K for FY1995. The May 1985 Advanced Theoretical Physics meeting is placed at a 'BDM McLean Secure Facility' only by papers from a private estate, and is carried on the node at Tier 3.",
+"sources": [
+{
+"date": "1996-03-12",
+"name": "BDM International, Inc., Form 10-K for FY1995",
+"url": "https://www.sec.gov/Archives/edgar/data/870763/0000950112-96-000762.txt"
+}
+],
+"tier": "C",
+"type": "geographic"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "CIA headquarters at Langley, within McLean",
+"id": "cia",
+"l0": true,
+"label": "Central Intelligence Agency",
+"note": "Congress fixed this in statute. Public Law 105-272 sec. 309 provides that 'the headquarters compound of the Central Intelligence Agency located in Langley, Virginia, shall be known and designated as the George Bush Center for Intelligence'. Langley is a neighbourhood of McLean in Fairfax County, and is a different place from Langley Air Force Base at Hampton, Virginia.",
+"sources": [
+{
+"date": "1998-10-20",
+"name": "Public Law 105-272, sec. 309 (Intelligence Authorization Act for FY1999)",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-105publ272/html/PLAW-105publ272.htm"
+},
+{
+"date": null,
+"name": "https://en.wikipedia.org/wiki/Central_Intelligence_Agency",
+"url": "https://en.wikipedia.org/wiki/Central_Intelligence_Agency"
+}
+],
+"tier": "A",
+"type": "geographic"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "MITRE McLean headquarters campus",
+"id": "mitre-corporation",
+"l0": true,
+"label": "The MITRE Corporation",
+"note": "MITRE names McLean, Virginia as one of its two principal locations, with four buildings on Colshire Drive. McLean is where the defence and intelligence FFRDC work sits: the NSF master list registers the National Security Engineering Center, the Center for Advanced Aviation System Development, the Center for Enterprise Modernization and HSSEDI at McLean.",
+"sources": [
+{
+"date": "2026-08-25",
+"name": "MITRE, Locations ('MITRE has principal locations in Bedford, Massachusetts, and McLean, Virginia')",
+"url": "https://www.mitre.org/locations"
+},
+{
+"date": "2026-08-25",
+"name": "NSF NCSES Master Government List of FFRDCs",
+"url": "https://ncses.nsf.gov/resource/master-gov-lists-ffrdc"
+},
+{
+"date": null,
+"name": "https://en.wikipedia.org/wiki/Mitre_Corporation",
+"url": "https://en.wikipedia.org/wiki/Mitre_Corporation"
+}
+],
+"tier": "A",
+"type": "geographic"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "ODNI headquarters at Liberty Crossing",
+"id": "odni",
+"l0": true,
+"label": "Office of the Director of National Intelligence",
+"note": "The Liberty Crossing intelligence campus, which houses ODNI alongside the National Counterterrorism Center, is in McLean, Virginia: an official federal record titles the President's 27 July 2021 remarks there 'Remarks at the Liberty Crossing Intelligence Campus and an Exchange With Reporters in McClean, Virginia' - the misspelling is the record's own. That record fixes where the campus is; it does not itself designate ODNI's headquarters, which is why this is tier 2.",
+"sources": [
+{
+"date": "2021-07-27",
+"name": "Compilation of Presidential Documents, DCPD-202100617, 'Remarks at the Liberty Crossing Intelligence Campus and an Exchange With Reporters in McClean, Virginia'",
+"url": "https://www.govinfo.gov/app/details/DCPD-202100617"
+},
+{
+"date": null,
+"name": "https://en.wikipedia.org/wiki/National_Counterterrorism_Center",
+"url": "https://en.wikipedia.org/wiki/National_Counterterrorism_Center"
+}
+],
+"tier": "A",
+"type": "geographic"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "1958",
+"deg": 4,
+"denials": [],
+"desc": "McLean, Virginia is where four of MITRE's six FFRDCs are registered on the NSF's master list - the National Security Engineering Center (primary location reassigned here in 2025), the Center for Advanced Aviation System Development, the Center for Enterprise Modernization, and the Homeland Security Systems Engineering and Development Institute. It sits inside the Northern Virginia intelligence corridor between CIA headquarters at Langley and the Pentagon. MITRE's other headquarters is in Bedford, Massachusetts, adjacent to Hanscom Air Force Base and MIT Lincoln Laboratory, the corporation's point of origin. The two-campus structure is itself the story: the Massachusetts campus is the engineering inheritance from Lincoln Laboratory and SAGE; the Virginia campus is where the defence and intelligence customer relationships live.",
+"domains": [
+"ffrdcs"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "l-mclean",
+"l0": false,
+"label": "McLean, Virginia",
+"locLabel": null,
+"members": null,
+"short": "McLean, Virginia",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "NSF NCSES - Master Government List of Federally Funded R&D Centers",
+"url": "https://ncses.nsf.gov/resource/master-gov-lists-ffrdc"
+}
+],
+"sub": "MITRE co-headquarters; primary location of NSEC, CAASD, CEM and HSSEDI",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 830 of 1027, score 17). 4 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D0.",
+"timeline": []
+}

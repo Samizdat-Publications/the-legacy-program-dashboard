@@ -1,0 +1,169 @@
+{
+"A": 2,
+"C": 0,
+"D": 1,
+"affiliations": [
+"Stanford Research Institute / SRI International (1972-1982)",
+"Lockheed Missiles and Space Company (1985-1997)"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "1972-01-01",
+"event": "Joins Puthoff at SRI to establish the psychoenergetics programme.",
+"precision": "year"
+},
+{
+"date": "1974-10-18",
+"event": "Co-authors the Nature paper with Puthoff.",
+"precision": "day"
+},
+{
+"date": "1978-11-01",
+"event": "Co-authors 'Standard Remote Viewing Protocol (Local Targets)'.",
+"precision": "month"
+},
+{
+"date": "1982-01-01",
+"event": "Leaves SRI; later joins Lockheed Missiles and Space.",
+"precision": "year"
+}
+],
+"claims": [
+{
+"source": "Nature 251, 602-607; CIA STARGATE collection",
+"text": "Targ is co-author of the Nature paper of 18 October 1974 and of the November 1978 SRI remote-viewing protocol released in the CIA STARGATE declassification.",
+"tier": 1
+}
+],
+"cls": "person",
+"cluster": "research",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "1978",
+"dateStart": "1974",
+"direction": "in",
+"edgeLabel": "Co-authors of the Nature paper and the SRI remote-viewing protocol",
+"id": "harold-puthoff",
+"l0": false,
+"label": "Harold E. Puthoff",
+"note": "Nature 251, 602-607 (18 October 1974); 'Standard Remote Viewing Protocol (Local Targets),' SRI, November 1978.",
+"sources": [
+{
+"date": "1974-10-18",
+"name": "R. Targ & H. Puthoff, 'Information transmission under conditions of sensory shielding', Nature 251, 602-607",
+"url": "https://www.nature.com/articles/251602a0"
+},
+{
+"date": "1978-11-01",
+"name": "'Standard Remote Viewing Protocol (Local Targets)' by Harold E. Puthoff and Russell Targ, November 1978 (declassified)",
+"url": "https://www.theblackvault.com/documentarchive/standard-remote-viewing-protocol-local-targets-by-dr-harold-e-puthoff-and-russell-targ-november-1978/"
+}
+],
+"tier": "A",
+"type": "programmatic"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "1982",
+"dateStart": "1972",
+"direction": "out",
+"edgeLabel": "Targ was co-principal investigator at SRI 1972-1982",
+"id": "sri-international",
+"l0": true,
+"label": "SRI International (Stanford Research Institute)",
+"note": "Targ co-authored both the 1974 Nature paper and the November 1978 SRI remote-viewing protocol released in the STARGATE declassification.",
+"sources": [
+{
+"date": "1974-10-18",
+"name": "R. Targ & H. Puthoff, 'Information transmission under conditions of sensory shielding', Nature 251, 602-607",
+"url": "https://www.nature.com/articles/251602a0"
+},
+{
+"date": "1978-11-01",
+"name": "'Standard Remote Viewing Protocol (Local Targets)' by Harold E. Puthoff and Russell Targ, November 1978 (declassified)",
+"url": "https://www.theblackvault.com/documentarchive/standard-remote-viewing-protocol-local-targets-by-dr-harold-e-puthoff-and-russell-targ-november-1978/"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 2,
+"cls": "event",
+"dateEnd": "1982",
+"dateStart": "1972",
+"direction": "out",
+"edgeLabel": "Targ co-founded the SRI remote viewing research",
+"id": "stargate-program",
+"l0": true,
+"label": "STAR GATE and predecessor remote viewing programs, 1970-1995",
+"note": "Targ collaborated with Puthoff on the early SRI work and on the tests with Geller, Swann and Price.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Wikipedia - Stargate Project (U.S. Army unit)",
+"url": "https://en.wikipedia.org/wiki/Stargate_Project_(U.S._Army_unit)"
+}
+],
+"tier": "A",
+"type": "research"
+}
+],
+"date": "1974-10-18",
+"dateEnd": null,
+"dateStart": "1974-10-18",
+"deg": 3,
+"denials": [],
+"domains": [
+"history-1970s-2000s"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "1",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "russell-targ",
+"instId": "sri-international",
+"l0": false,
+"label": "Russell Targ",
+"loc": "Menlo Park, CA",
+"locId": "l-sri",
+"members": null,
+"narrative": "Targ was Puthoff's co-principal investigator at SRI from 1972 to 1982, a laser physicist by training who co-authored the 1974 Nature paper and the 1978 remote-viewing protocol document that survives in the declassified STARGATE corpus. He is included here because he is the corroborating half of the SRI record: two named scientists, one private research institute, a decade of federal intelligence funding, and a paper trail that CIA itself released. Targ has been consistently more willing than most participants to describe the funding chain in plain terms - CIA first, then Army INSCOM, then DIA - and his account of the programme's institutional history is the least embellished available from a principal. He left SRI in 1982 for Lockheed Missiles and Space Company, a transition that itself illustrates the porousness between the FFRDC/contract research world and the defence primes that this board tracks.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Russell Targ",
+"sources": [
+{
+"date": "1974-10-18",
+"name": "R. Targ & H. Puthoff, 'Information transmission under conditions of sensory shielding', Nature 251, 602-607",
+"url": "https://www.nature.com/articles/251602a0"
+},
+{
+"date": "1978-11-01",
+"name": "'Standard Remote Viewing Protocol (Local Targets)' by Harold E. Puthoff and Russell Targ, November 1978 (declassified)",
+"url": "https://www.theblackvault.com/documentarchive/standard-remote-viewing-protocol-local-targets-by-dr-harold-e-puthoff-and-russell-targ-november-1978/"
+},
+{
+"date": "2020-12-16",
+"name": "The Stargate Collection - CIA Program on Remote Viewing",
+"url": "https://www.theblackvault.com/documentarchive/the-stargate-collection/"
+}
+],
+"status": "active",
+"sub": "Laser physicist; co-founder with Puthoff of the SRI remote-viewing programme 1972-1982",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 822 of 1027, score 17). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A2/D1.",
+"timeline": [],
+"unexplainedResidual": null,
+"unverified": []
+}

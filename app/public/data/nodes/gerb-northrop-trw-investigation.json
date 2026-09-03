@@ -1,0 +1,186 @@
+{
+"A": 3,
+"C": 2,
+"D": 3,
+"band": null,
+"claims": [
+{
+"source": "UAP Gerb, Northrop Grumman & TRW Vol.2 description, 20 March 2026, extrapolating from David Grusch's statements on Megyn Kelly",
+"text": "Northrop Grumman may have used IRAD funds at the onset of the War on Terror to self-fund its own retrieval and exploitation programs, becoming unaccountable to its original government handler.",
+"tier": 2
+},
+{
+"source": "UAP Gerb, Northrop Grumman & TRW Vol.2 description, 20 March 2026, citing David Grusch",
+"text": "Stephanie O'Sullivan - former Principal Deputy DNI, former TRW engineer and current Aerospace Corporation board member - is stated by David Grusch to have managed the UFO crash retrieval issue alongside James Clapper at ODNI.",
+"tier": 2
+},
+{
+"source": "UAP Gerb, Northrop Grumman & TRW Vol.2 description, 20 March 2026",
+"text": "Northrop Grumman's modern UFO security apparatus is helmed by Terry Phillips, former director of AFOSI/PJ.",
+"tier": 2
+},
+{
+"source": "UAP Gerb, Northrop Grumman & TRW Vol.2 description, 20 March 2026",
+"text": "The Northrop Tejon radar cross-section facility was officially closed in 2011; Gerb questions whether clandestine underground operations continue beneath it.",
+"tier": 2
+}
+],
+"cls": "document",
+"cluster": "research",
+"connections": [
+{
+"claimTier": 2,
+"cls": "institution",
+"dateEnd": "2026",
+"dateStart": "1980",
+"direction": "out",
+"edgeLabel": "Traces Stephanie O'Sullivan from TRW to ODNI to the Aerospace board",
+"id": "aerospace-corporation",
+"l0": false,
+"label": "The Aerospace Corporation",
+"note": "O'Sullivan is a former TRW engineer, former Principal Deputy Director of National Intelligence and a current Aerospace Corporation board member - a single career spanning prime contractor, IC leadership and FFRDC governance.",
+"sources": [
+{
+"date": "2026-03-20",
+"name": "UAP Gerb - Northrop Grumman & TRW Vol.2",
+"url": "https://www.youtube.com/watch?v=0kLSp0lH-JQ"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2026",
+"dateStart": "2024",
+"direction": "out",
+"edgeLabel": "Built on Grusch's statements about Clapper and O'Sullivan",
+"id": "david-grusch",
+"l0": false,
+"label": "David Charles Grusch",
+"note": "Gerb extrapolates from Grusch's remarks on Megyn Kelly and from Grusch's statement that James Clapper and Stephanie O'Sullivan managed the crash retrieval issue at ODNI.",
+"sources": [
+{
+"date": "2026-03-20",
+"name": "UAP Gerb - Northrop Grumman & TRW Vol.2",
+"url": "https://www.youtube.com/watch?v=0kLSp0lH-JQ"
+}
+],
+"tier": "A",
+"type": "witness-chain"
+},
+{
+"claimTier": 2,
+"cls": "institution",
+"dateEnd": "2026",
+"dateStart": "2001",
+"direction": "out",
+"edgeLabel": "Alleges IRAD self-funding of a breakaway programme after 9/11",
+"id": "northrop-grumman",
+"l0": false,
+"label": "Northrop Grumman Corporation",
+"note": "The specific financial allegation: that Northrop used Independent Research and Development funds at the onset of the War on Terror to self-fund retrieval and exploitation, becoming unaccountable to its original government handler. IRAD is contractor-directed and only indirectly reimbursed, which makes it the mechanism that would allow exactly this.",
+"sources": [
+{
+"date": "2026-03-20",
+"name": "UAP Gerb - Northrop Grumman & TRW Vol.2",
+"url": "https://www.youtube.com/watch?v=0kLSp0lH-JQ"
+}
+],
+"tier": "B",
+"type": "funding"
+},
+{
+"claimTier": 2,
+"cls": "institution",
+"dateEnd": "2026",
+"dateStart": "2002",
+"direction": "in",
+"edgeLabel": "The subject of the 20 March 2026 corporate-breakaway argument",
+"id": "trw-inc",
+"l0": false,
+"label": "TRW Inc.",
+"note": "The video's whole case turns on the 2002 acquisition, which the filings document; its funding-mechanism proposition is an extrapolation and is not in any filing opened here.",
+"sources": [
+{
+"date": "2002-12-20",
+"name": "Northrop Grumman Corporation, Form 8-K, event 11 December 2002",
+"url": "https://www.sec.gov/Archives/edgar/data/1133421/000089843002004580/d8k.htm"
+}
+],
+"tier": "B",
+"type": "investigative"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2026",
+"dateStart": "2026",
+"direction": "in",
+"edgeLabel": "Gerb authored the Northrop/TRW breakaway analysis",
+"id": "uap-gerb",
+"l0": false,
+"label": "'UAP Gerb' (Sam)",
+"note": "Published 20 March 2026, following a Vol.1 Northrop investigation in 2025.",
+"sources": [
+{
+"date": "2026-03-20",
+"name": "UAP Gerb - Northrop Grumman & TRW Vol.2",
+"url": "https://www.youtube.com/watch?v=0kLSp0lH-JQ"
+}
+],
+"tier": "A",
+"type": "investigative"
+}
+],
+"coords": null,
+"dateEnd": "2026",
+"dateStart": "2026",
+"deg": 5,
+"denials": [],
+"desc": "Published 20 March 2026, this is the corporate-breakaway argument. It moves past whether Northrop Grumman engaged in retrieval and exploitation to the who, what, when, where and why, focusing on Northrop's 2002 acquisition of TRW. Its most consequential proposition is a funding-mechanism claim: extrapolating from David Grusch's remarks on Megyn Kelly, it asks whether Northrop Grumman used IRAD - Independent Research and Development funds, which are contractor-directed and only indirectly reimbursed - at the onset of the War on Terror to self-fund its own retrieval and exploitation programs, becoming unaccountable to its original government handler. That is the 'breakaway' thesis, and it is a specific, auditable financial allegation rather than a vague one. It further examines Stephanie O'Sullivan, former Principal Deputy Director of National Intelligence, former TRW engineer and Aerospace Corporation board member, whom Grusch has stated managed the crash retrieval issue alongside James Clapper at ODNI; Northrop and TRW's connections to Clapper, whom Grusch labelled as 'managing the crash retrieval issue'; the modern Northrop security apparatus under Terry Phillips; whether clandestine underground operations persist beneath the Northrop Tejon radar cross-section facility officially closed in 2011; and the fate of the Northrop Advanced Technology division, Northrop's answer to the Skunk Works. The O'Sullivan thread is structurally elegant: a single career running TRW engineering to ODNI's number-two position to the board of an FFRDC.",
+"domains": [
+"media-structure"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "gerb-northrop-trw-investigation",
+"l0": false,
+"label": "UAP Gerb - Northrop Grumman & TRW investigation (Vol.2)",
+"locLabel": null,
+"members": null,
+"short": "UAP Gerb - Northrop Grumman & TRW investigation (Vol.2)",
+"sources": [
+{
+"date": "2026-03-20",
+"name": "UAP Gerb - Northrop Grumman & TRW Vol.2",
+"url": "https://www.youtube.com/watch?v=0kLSp0lH-JQ"
+},
+{
+"date": "2025-01-01",
+"name": "UAP Gerb - 'UFO Legacy Programs - Northrop Grumman' (Vol.1)",
+"url": "https://www.youtube.com/watch?v=E-GleS2aGj0"
+}
+],
+"sub": "Video investigation, 20 Mar 2026",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 222 of 1027, score 42). 5 connections, 2 of them custody/witness/funding/programmatic. Axes C2/A3/D3.",
+"timeline": [
+{
+"date": "2026-03-20",
+"id": "ms-2026-northrop",
+"label": "Gerb publishes the Northrop/TRW breakaway analysis",
+"precision": "day",
+"strand": "program",
+"text": "Alleges Northrop used IRAD funds after 9/11 to self-fund its own retrieval and exploitation programs, unaccountable to its government handler; traces Stephanie O'Sullivan from TRW to Principal Deputy DNI to the Aerospace Corporation board.",
+"tier": "A"
+}
+]
+}

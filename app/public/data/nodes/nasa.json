@@ -1,0 +1,589 @@
+{
+"A": 1,
+"C": 0,
+"D": 3,
+"band": "research",
+"claims": [
+{
+"source": "NASA UAP Independent Study Team Report, 14 September 2023",
+"text": "NASA published the 'Unidentified Anomalous Phenomena Independent Study Team Report' on 14 September 2023, from a 16-member panel chaired by Dr David Spergel and including Capt. Scott Kelly (USN, ret.), Dr Anamaria Berea, Dr Federica Bianco and Dr David Grinspoon.",
+"tier": 1
+},
+{
+"source": "NASA UAP Independent Study Team Report, 14 September 2023",
+"text": "The report acknowledges that 'much of the data collected by military sensors or intelligence satellites are classified'.",
+"tier": 1
+},
+{
+"source": "NASA UAP Independent Study Team Report foreword, 14 September 2023",
+"text": "In the report's foreword, Associate Administrator Dr Nicola Fox states 'NASA is appointing a Director of UAP Research to centralize communications and leverage NASA's extensive resources and expertise to actively engage in the whole-of-government UAP initiative.'",
+"tier": 1
+},
+{
+"source": "NASA UAP Independent Study Team Report, 14 September 2023",
+"text": "The report recommends leveraging the Aviation Safety Reporting System, which NASA administers for the FAA and which receives approximately 100,000 reports annually, for UAP reporting.",
+"tier": 1
+}
+],
+"cls": "institution",
+"cluster": "research",
+"connections": [
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2023-09-14",
+"direction": "out",
+"edgeLabel": "Civil-agency complement to the DoD-led resolution office",
+"id": "aaro",
+"l0": true,
+"label": "All-domain Anomaly Resolution Office (AARO)",
+"note": "The Independent Study Team positioned NASA's expertise as supporting AARO within a 'whole-of-government framework', while acknowledging that much of the relevant military and intelligence data is classified.",
+"sources": [
+{
+"date": "2023-09-14",
+"name": "NASA UAP Independent Study Team Report",
+"url": "https://smd-cms.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf"
+}
+],
+"tier": "A",
+"type": "research"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "BMSIS research investigator seated on NASA's UAP independent study team",
+"id": "blue-marble-space-institute",
+"l0": false,
+"label": "Blue Marble Space Institute of Science",
+"note": "NASA's announcement of the 16-member independent study team describes Anamaria Berea as 'an associate professor of Computational and Data Science at George Mason University in Fairfax, Virginia', 'a research affiliate with the SETI Institute' and 'a research investigator with Blue Marble Space Institute of Science in Seattle'. Worth noting for anyone checking: the team's final report of September 2023 lists her affiliation as George Mason University alone, and does not mention Blue Marble or Seattle anywhere in its 36 pages. Both statements are NASA's; the Blue Marble tie is in the announcement, not the report.",
+"sources": [
+{
+"date": "2022-10-21",
+"name": "NASA, 'NASA Announces Unidentified Aerial Phenomena Study Team Members', 21 October 2022",
+"url": "https://www.nasa.gov/general/nasa-announces-unidentified-aerial-phenomena-study-team-members/"
+},
+{
+"date": "2023-09-14",
+"name": "NASA Unidentified Anomalous Phenomena Independent Study Team Report, September 2023",
+"url": "https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf"
+},
+{
+"date": null,
+"name": "NASA, 'NASA Announces Unidentified Aerial Phenomena Study Team Members,' October 21, 2022 -- https://www.nasa.gov/general/nasa-announces-unidentified-aerial-phenomena-study-team-members/",
+"url": ""
+}
+],
+"tier": "C",
+"type": "research"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "2023-09-14",
+"dateStart": "2022",
+"direction": "in",
+"edgeLabel": "Chaired the NASA UAP Independent Study Team",
+"id": "david-spergel",
+"l0": false,
+"label": "David N. Spergel",
+"note": "Spergel of the Simons Foundation chaired the 16-member panel.",
+"sources": [
+{
+"date": "2023-09-14",
+"name": "NASA UAP Independent Study Team Report",
+"url": "https://smd-cms.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf"
+}
+],
+"tier": "B",
+"type": "research"
+},
+{
+"claimTier": 3,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2023",
+"direction": "out",
+"edgeLabel": "Both hold analytical capability that could resolve material claims and neither has been tasked publicly",
+"id": "doe",
+"l0": true,
+"label": "United States Department of Energy",
+"note": "NASA's report identifies the classification of military and intelligence data as the binding constraint; DOE laboratories hold the analytical instruments actually used by AARO. Reasoning: the capability exists and the tasking does not.",
+"sources": [
+{
+"date": "2023-09-14",
+"name": "NASA UAP Independent Study Team Report",
+"url": "https://smd-cms.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf"
+},
+{
+"date": "2026-08-12",
+"name": "NNSA - About NNSA",
+"url": "https://www.energy.gov/nnsa/about-nnsa"
+}
+],
+"tier": "A",
+"type": "research"
+},
+{
+"claimTier": 1,
+"cls": "location",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "NASA field centre at Moffett Field",
+"id": "l-ames",
+"l0": false,
+"label": "NASA Ames Research Center, Mountain View, California",
+"note": "NASA describes Ames as 'one of ten NASA field centers ... located in the heart of California's Silicon Valley', gives its location as Moffett Field, California, and dates its establishment to 20 December 1939, before its absorption into NASA in 1958.",
+"sources": [
+{
+"date": "2026-08-25",
+"name": "NASA Ames Research Center",
+"url": "https://www.nasa.gov/ames/"
+},
+{
+"date": null,
+"name": "https://en.wikipedia.org/wiki/Ames_Research_Center",
+"url": "https://en.wikipedia.org/wiki/Ames_Research_Center"
+}
+],
+"tier": "C",
+"type": "geographic"
+},
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": "1969",
+"dateStart": "1969",
+"direction": "in",
+"edgeLabel": "After cancellation the younger MOL astronauts transferred to NASA",
+"id": "manned-orbiting-laboratory",
+"l0": false,
+"label": "Manned Orbiting Laboratory and the DORIAN / KH-10 reconnaissance payload",
+"note": "After cancellation the younger MOL astronauts transferred to NASA, which is why an intelligence programme's people are traceable in a civil agency's record.",
+"sources": [
+{
+"date": "2024-06-11",
+"name": "55 Years Ago: Manned Orbiting Laboratory Cancellation, NASA",
+"url": "https://www.nasa.gov/history/55-years-ago-manned-orbiting-laboratory-cancellation/"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "2023",
+"direction": "in",
+"edgeLabel": "NASA Director of UAP Research",
+"id": "mark-mcinerney",
+"l0": false,
+"label": "Mark McInerney",
+"note": "Appointment announced 14 September 2023; no public outputs from the role have been identified since.",
+"sources": [
+{
+"date": "2023-09-14",
+"name": "The Debrief - NASA IST publishes findings, agency appoints UAP research director",
+"url": "https://thedebrief.org/nasas-uap-independent-study-team-publishes-its-findings-as-the-agency-appoints-a-new-nasa-director-of-uap-research/"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "questioned Administrator Nelson on UAP; pressed NASA's role at hearing",
+"id": "maxwell-frost",
+"l0": false,
+"label": "Maxwell Alejandro Frost",
+"note": "Frost told the hearing: 'In fact, I sit on the Science, Space and Technology Committee and when we were doing a hearing with the NASA Administrator, Bill Nelson, I asked, you know, why NASA needed to be fully funded. And there were many great reasons, but one of them was actually--had to do with UAPs.' He tied it forward to the NASA independent study team and to Harvard standing up the Galileo Project in 2021.",
+"sources": [
+{
+"date": "2023-07-26",
+"name": "House Oversight hearing, 26 July 2023 (CHRG-118hhrg53022)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm"
+}
+],
+"tier": "C",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": "2023-09-14",
+"dateStart": "2022-06-09",
+"direction": "out",
+"edgeLabel": "NASA chartered and published the Independent Study Team report",
+"id": "nasa-uap-ist",
+"l0": true,
+"label": "NASA UAP Independent Study Team",
+"note": "The 16-member panel reported on 14 September 2023 with findings on data curation, satellite assets and the classification obstacle.",
+"sources": [
+{
+"date": "2023-09-14",
+"name": "NASA UAP Independent Study Team Report",
+"url": "https://smd-cms.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf"
+}
+],
+"tier": "B",
+"type": "programmatic"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "2023-09-14",
+"direction": "in",
+"edgeLabel": "Announced the appointment of a NASA Director of UAP Research",
+"id": "nicola-fox",
+"l0": false,
+"label": "Nicola J. Fox",
+"note": "In the report foreword Fox, Associate Administrator for the Science Mission Directorate, wrote that 'NASA is appointing a Director of UAP Research to centralize communications'.",
+"sources": [
+{
+"date": "2023-09-14",
+"name": "NASA UAP Independent Study Team Report",
+"url": "https://smd-cms.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "NASA's UAP study cited as precedent and named as a proposed partner",
+"id": "ocsa-canada",
+"l0": false,
+"label": "Office of the Chief Science Advisor of Canada",
+"note": "The report records that 'NASA released an independent study in September 2023 focused on how best to collect future UAP data to advance scientific study' and that 'following the release of this report, NASA announced the creation of a new position: Director of Unidentified Anomalous Phenomena Research'. NASA is one of the four international bodies its recommendation 13 names as partnership targets for the recommended Canadian lead organization.",
+"sources": [
+{
+"date": "2025-06-01",
+"name": "Report of the Sky Canada Project, Office of the Chief Science Advisor of Canada, June 2025",
+"url": "https://science.gc.ca/site/science/sites/default/files/documents/sky-canada-report.pdf"
+},
+{
+"date": null,
+"name": "Office of the Chief Science Advisor of Canada, Sky Canada Project report, 2025, Recommendation 13 and references -- https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada",
+"url": ""
+}
+],
+"tier": "C",
+"type": "research"
+},
+{
+"claimTier": 2,
+"cls": "event",
+"dateEnd": "2026",
+"dateStart": "2026",
+"direction": "in",
+"edgeLabel": "Released Apollo 12 and Apollo 17 mission records",
+"id": "pursue-release-01",
+"l0": false,
+"label": "PURSUE Release 01",
+"note": "Apollo mission records including cockpit transcript describing 'very bright particles or fragments' appear in the first tranche.",
+"sources": [
+{
+"date": "2026-05-09",
+"name": "Aerotime - US releases UFO files in UAP transparency push",
+"url": "https://www.aerotime.aero/articles/us-releases-ufo-uap-files"
+},
+{
+"date": "2026-08-01",
+"name": "Disclosure Archives - Department of War files index",
+"url": "https://disclosurearchives.com/department-of-war-files"
+}
+],
+"tier": "B",
+"type": "custody"
+},
+{
+"claimTier": 2,
+"cls": "event",
+"dateEnd": "2026",
+"dateStart": "2026",
+"direction": "in",
+"edgeLabel": "Released NASA Gemini-era crew debriefings",
+"id": "pursue-release-03",
+"l0": false,
+"label": "PURSUE Release 03",
+"note": "Gemini crew debriefings and 1962 Cronkite-Cooper interview audio were published in the third tranche.",
+"sources": [
+{
+"date": "2026-08-01",
+"name": "Disclosure Archives - Department of War files index",
+"url": "https://disclosurearchives.com/department-of-war-files"
+}
+],
+"tier": "B",
+"type": "custody"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "Staff Director, House Space and Aeronautics Subcommittee",
+"id": "william-b-adkins",
+"l0": false,
+"label": "William B. Adkins",
+"note": "Per the NRO biography: 'From 2000 to 2006, he served on the House Science Committee and was appointed Staff Director for the House Space and Aeronautics Subcommittee, where he led the subcommittee's legislative and oversight activities of NASA and other agencies involved in civilian space.' The relationship is oversight of NASA from the committee side, not employment by it.",
+"sources": [
+{
+"date": "2026-08-25",
+"name": "National Reconnaissance Office, leadership biography of William B. Adkins",
+"url": "https://www.nro.gov/About-NRO/Leadership/leadership-adkins/"
+},
+{
+"date": null,
+"name": "https://spacenews.com/william-adkins-named-staff-director-of-house-committee-on-sciences-space-and-aeronautics-subcommittee/",
+"url": "https://spacenews.com/william-adkins-named-staff-director-of-house-committee-on-sciences-space-and-aeronautics-subcommittee/"
+}
+],
+"tier": "C",
+"type": "institutional"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "1958-07-29",
+"deg": 14,
+"denials": [],
+"desc": "NASA was created by the National Aeronautics and Space Act of 1958 as an explicitly civilian agency, and for six decades its institutional answer on UFOs was that the subject belonged to the Air Force. That changed on 9 June 2022, when NASA announced an independent study of unidentified anomalous phenomena, and on 14 September 2023, when it published the 'Unidentified Anomalous Phenomena Independent Study Team Report'. The 16-member panel was chaired by Dr David Spergel of the Simons Foundation and included Dr Anamaria Berea, Dr Federica Bianco, Dr David Grinspoon and the retired NASA astronaut Captain Scott Kelly. The report's findings are notable less for what they concluded about UAP than for what they conceded about the data problem: that 'much of the data collected by military sensors or intelligence satellites are classified', that structured data curation 'plays a pivotal role' and is largely absent, and that NASA's Earth-observing fleet and the U.S. commercial remote-sensing industry have 'the collective potential to directly resolve UAP events'. In the foreword, Associate Administrator for the Science Mission Directorate Dr Nicola Fox announced that 'NASA is appointing a Director of UAP Research to centralize communications'. NASA's leverage on this board is that it is the one agency with world-class sensing capability, a statutory public mission and no SAP equity in the alleged recovery enterprise - which makes it the most plausible venue for an unclassified evidentiary standard, and the agency most conspicuously kept at arm's length from the classified holdings.",
+"domains": [
+"w2-agencies"
+],
+"dossier": {
+"claims": [
+{
+"source": "https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/ (NASA RELEASE 23-106, 14 September 2023)",
+"text": "On 14 September 2023, under release 23-106, NASA published the UAP Independent Study Team final report and announced the appointment of Mark McInerney as director of UAP research.",
+"tier": 1
+},
+{
+"source": "https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/ (14 September 2023)",
+"text": "The independent study team was chaired by David Spergel, president of the Simons Foundation, and comprised sixteen experts; it was set up outside NASA and used unclassified data from civilian government entities, commercial data and other sources.",
+"tier": 1
+},
+{
+"source": "https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/ (14 September 2023)",
+"text": "Spergel stated: 'Using unclassified data was essential for our team's fact-finding, open-communication collaboration, and for upholding scientific rigor to produce this report for NASA.'",
+"tier": 1
+},
+{
+"source": "https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/ (14 September 2023)",
+"text": "NASA states in the same release that 'The report is not a review or assessment of previous UAP incidents' — the study's charter excluded the historical record.",
+"tier": 1
+},
+{
+"source": "https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/ (14 September 2023)",
+"text": "Mark McInerney 'previously served as NASA's liaison to the Department of Defense covering limited UAP activities for the agency,' and has held positions at NASA's Goddard Space Flight Center, NOAA and the National Hurricane Center since 1996. Administrator Bill Nelson said the new director would apply 'artificial intelligence and machine learning to search the skies for anomalies' and that 'NASA will do this work transparently for the benefit of humanity.'",
+"tier": 1
+},
+{
+"source": "NASA Office of Communications, quoted verbatim at https://hm05uap.substack.com/p/2025-uap-records-in-review (31 December 2025)",
+"text": "NASA's Office of Communications stated in 2025: 'Per the requirements in Section 1841-1842 of the Fiscal Year 2024 National Defense Authorization Act for handling records related to unidentified anomalous phenomena (UAP), NASA does not have any records that meet the requirements to submit records to the National Archives. Any agency-related records associated with UAP, came from, and are owned by, the U.S. Department of Defense.'",
+"tier": 2
+},
+{
+"source": "https://hm05uap.substack.com/p/2025-uap-records-in-review (31 December 2025); collection at https://www.archives.gov/research/topics/uaps/rg-615",
+"text": "The only agencies that added UAP records to the National Archives online catalog (Record Group 615) during 2025 were the FAA, the Nuclear Regulatory Commission, the NSA, ODNI and the Office of the Secretary of Defense; NASA was not among them, despite a statutory transfer deadline of 30 September 2025.",
+"tier": 2
+},
+{
+"source": "https://www.foxnews.com/politics/nasa-chief-pulls-back-curtain-trump-ufo-files-after-bizarre-finds-surface-buried-fed-records (Fox News Digital interview, published 27 May 2026)",
+"text": "NASA Administrator Jared Isaacman stated on 27 May 2026: 'What's being surfaced isn't crashed ships or alien bodies, but real unexplained phenomena.'",
+"tier": 1
+},
+{
+"source": "https://www.foxnews.com/politics/nasa-chief-pulls-back-curtain-trump-ufo-files-after-bizarre-finds-surface-buried-fed-records (27 May 2026)",
+"text": "Isaacman stated: 'There's nothing I'm aware of in terms of alien bodies or spaceships.' — a personal-knowledge formulation rather than an institutional denial.",
+"tier": 1
+},
+{
+"source": "https://www.foxnews.com/politics/nasa-chief-pulls-back-curtain-trump-ufo-files-after-bizarre-finds-surface-buried-fed-records (27 May 2026)",
+"text": "Isaacman stated that federal agencies did not conduct UAP records searches until compelled: 'Government agencies really didn't take this quite as seriously in the past until President Trump put out the tweet, basically giving an order to government agencies and going out and saying, look, this time you better go through the files, you better start searching your databases and bring things up.'",
+"tier": 1
+},
+{
+"source": "https://www.foxnews.com/politics/nasa-chief-pulls-back-curtain-trump-ufo-files-after-bizarre-finds-surface-buried-fed-records (27 May 2026)",
+"text": "Isaacman identified NASA's own most significant contribution to the disclosure: 'I would say that some of the most interesting data that NASA has provided as part of the UAP disclosure was taken on the surface of the moon from Apollo 12 and 17. You can't be a moon landing denier and also believe that those photos captured unexplained phenomenon.'",
+"tier": 1
+},
+{
+"source": "https://www.foxnews.com/politics/nasa-chief-pulls-back-curtain-trump-ufo-files-after-bizarre-finds-surface-buried-fed-records (27 May 2026)",
+"text": "The PURSUE releases include astronaut and NASA-related accounts from the Apollo and Gemini eras describing strange lights and unidentified objects observed in space, alongside infrared footage from 2023 of an F-16 engaging a diamond-shaped object over Lake Huron and reports of unexplained objects near military operations in Iran, Syria, Iraq and Greece.",
+"tier": 2
+},
+{
+"source": "https://www.war.gov/UFO/ (Release 05 slideshow; file https://www.war.gov/portals/1/Interactive/2026/UFO/080726/Slideshow/DOW-UAP-D098_Film-Analysis-of-Unidentified-Objects_1953.jpg)",
+"text": "The Department of War's PURSUE Release 05 slideshow (7 August 2026) carries an image captioned as 'A photograph of an unidentified object in low-Earth orbit, taken from Space Shuttle Columbia in 1996' while the underlying file is named DOW-UAP-D098_Film-Analysis-of-Unidentified-Objects_1953.jpg — a 43-year date discrepancy inside the government's own release metadata.",
+"tier": 1
+},
+{
+"source": "https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk (18 January 2019)",
+"text": "Marc Millis, a former NASA propulsion engineer and founder of the Tau Zero Foundation, was among the authors of the 38 Defense Intelligence Reference Documents produced under the DIA's AAWSAP/AATIP contract to Bigelow Aerospace.",
+"tier": 2
+}
+],
+"connections": [
+"David Spergel -> Simons Foundation -> NASA UAP Independent Study Team (16 members, unclassified data only), the structural template later reused by the 2026 UAP Science Advisory Council chaired by Avi Loeb.",
+"Mark McInerney -> NASA's pre-existing DoD liaison billet for UAP -> NOAA and the National Hurricane Center, a NOAA lineage shared with Tim Gallaudet of the 2026 council.",
+"Bill Nelson -> Jared Isaacman: the Administrator transition between the 2023 study posture and the 2026 disclosure posture.",
+"AARO Director Sean Kirkpatrick's 'metallic orbs' remarks were delivered at a NASA Independent Study Team public meeting and cited by Ryan Graves in sworn testimony, making NASA's own forum the venue for AARO's most quoted admission.",
+"NASA's records position routes agency UAP holdings back to the Department of War, which then published Apollo- and Gemini-era material through war.gov/UFO rather than NARA Record Group 615.",
+"Marc Millis (ex-NASA) authored one of the 38 DIRDs, connecting NASA personnel to the DIA/Bigelow reverse-engineering research portfolio.",
+"FY2024 NDAA §§ 1841-1842 is the statute NASA declined to transfer under; the Congressional UAP Caucus wrote it and is now attempting to extend it to contractors via the FY2027 amendment."
+],
+"denialPosture": "NASA's denial operates in three layers, each with an escape hatch. The 2023 Independent Study Team found no evidence of extraterrestrial origin while working exclusively from unclassified data and explicitly excluding past incidents from its charter. The 2025 Office of Communications statement denies possession of transferable records by asserting DoD ownership rather than absence — a custody argument, not a factual one. And Administrator Isaacman's 2026 formulation, 'There's nothing I'm aware of in terms of alien bodies or spaceships,' limits the denial to the personal knowledge of an appointee with no read-in to the compartments in question. Each is technically defensible and none touches the underlying question.",
+"narrative": "NASA entered the modern UAP file formally in 2022, when it commissioned an outside Independent Study Team to advise on how the agency might contribute. The team's final report was published on 14 September 2023 under NASA release 23-106, chaired by David Spergel, president of the Simons Foundation, with sixteen members. Its overall recommendation was that NASA play a prominent role in the whole-of-government effort by using its open-source resources, technological expertise, data analysis techniques, federal and commercial partnerships, and Earth-observing assets to curate a better dataset for understanding future UAP. The report explicitly is not a review or assessment of previous UAP incidents. That boundary is the point: NASA's charter for the study excluded the historical record, which is where the legacy program question lives.\n\nSpergel described the methodological constraint as a virtue: \"Using unclassified data was essential for our team's fact-finding, open-communication collaboration, and for upholding scientific rigor to produce this report for NASA.\" The team reported that there are currently a limited number of high-quality observations of UAP, which make it impossible to draw firm scientific conclusions about their nature. The same architecture reappears three years later in the UAP Science Advisory Council chaired by Avi Loeb — unclassified data only, chartered to recommend how to get better data, structurally incapable of reaching a custody finding. NASA built the template.\n\nWith the report NASA named Mark McInerney its Director of UAP Research. McInerney had previously served as NASA's liaison to the Department of Defense \"covering limited UAP activities for the agency\" — meaning the agency's UAP function had already existed as a DoD liaison billet before it was given a public title. Administrator Bill Nelson framed the role in terms of instrumentation and analytics: the director would apply \"artificial intelligence and machine learning to search the skies for anomalies,\" and \"NASA will do this work transparently for the benefit of humanity.\" McInerney's career runs through NASA's Goddard Space Flight Center, NOAA and the National Hurricane Center since 1996 — a NOAA lineage he shares with Tim Gallaudet, the retired admiral now on the 2026 UAP Science Advisory Council.\n\nThen came the records question, and with it the most consequential NASA statement in the public record. The FY2024 NDAA, sections 1841-1842, required federal agencies to identify and transfer UAP records to a new collection at the National Archives, with digital transfers due by 30 September 2025. Record Group 615 was created to hold them. Over the course of 2025 the FAA, the Nuclear Regulatory Commission, the National Security Agency, ODNI and the Office of the Secretary of Defense transferred records into the online catalog. NASA did not. Asked why, NASA's Office of Communications replied: \"Per the requirements in Section 1841-1842 of the Fiscal Year 2024 National Defense Authorization Act for handling records related to unidentified anomalous phenomena (UAP), NASA does not have any records that meet the requirements to submit records to the National Archives. Any agency-related records associated with UAP, came from, and are owned by, the U.S. Department of Defense.\" That is not a denial of possession. It is an assertion of foreign ownership over material NASA holds — a jurisdictional argument that keeps agency UAP records outside a statutory public-release regime by routing their custody back into the Department of War.\n\nThe 2026 disclosure wave then produced the contradiction. On 27 May 2026, NASA Administrator Jared Isaacman told Fox News Digital that the newly declassified files show \"real unexplained phenomena\" but no recovered craft: \"What's being surfaced isn't crashed ships or alien bodies, but real unexplained phenomena,\" and \"There's nothing I'm aware of in terms of alien bodies or spaceships.\" Note the construction — personal awareness, from a political appointee without read-in to the compartments where such material would be held. In the same interview Isaacman said agencies \"really didn't take this quite as seriously in the past until President Trump put out the tweet, basically giving an order to government agencies and going out and saying, look, this time you better go through the files, you better start searching your databases and bring things up\" — a sitting NASA Administrator stating that federal agencies did not conduct records searches for UAP material until a presidential post compelled them.\n\nAnd on NASA's own contribution: \"I would say that some of the most interesting data that NASA has provided as part of the UAP disclosure was taken on the surface of the moon from Apollo 12 and 17. You can't be a moon landing denier and also believe that those photos captured unexplained phenomenon.\" Fox News reported that the PURSUE material includes astronaut and NASA-related accounts from the Apollo and Gemini eras describing strange lights and unidentified objects observed in space, alongside 2023 infrared footage of an F-16 engaging a diamond-shaped object over Lake Huron and reports from military operations in Iran, Syria, Iraq and Greece. Set against the 2025 Office of Communications statement — NASA has no qualifying records because DoD owns them — the position is that NASA's most interesting UAP data was released through the Department of War's website rather than deposited in the National Archives collection Congress created for exactly that purpose. One route is statutory, permanent and indexed; the other is a rolling, discretionary web publication controlled by the Secretary of War. NASA's material went down the second.\n\nA loose thread worth pulling: on the war.gov PURSUE page, the Release 05 slideshow of 7 August 2026 carries an image described as \"A photograph of an unidentified object in low-Earth orbit, taken from Space Shuttle Columbia in 1996,\" while the underlying file is named DOW-UAP-D098_Film-Analysis-of-Unidentified-Objects_1953.jpg. A 1996 Columbia photograph filed under a 1953 film analysis is either a metadata error or an indexing artifact, and either way it is a checkable discrepancy in the government's own release. The Columbia 1996 imagery in question is almost certainly from STS-75, the tethered satellite mission whose downlink footage has been argued over for thirty years — meaning the 2026 disclosure has quietly placed a long-contested NASA video into an official unresolved-case release.",
+"openQuestions": [
+"What UAP-related records does NASA physically hold that it characterises as DoD-owned, and who at NASA made that ownership determination?",
+"Was NASA's ownership position coordinated with the Department of Defense or the National Archives, and is there written correspondence recording it?",
+"Is Mark McInerney still serving as Director of UAP Research under Administrator Isaacman, and has the role been budgeted or staffed?",
+"Why does PURSUE Release 05 file DOW-UAP-D098 carry a 1953 film-analysis filename while being described as a 1996 Space Shuttle Columbia photograph, and is the underlying imagery from STS-75?",
+"Where are the original Apollo 12 and Apollo 17 lunar-surface negatives and the associated frame indices, and were any frames withheld from the PURSUE release?",
+"Did the NASA Independent Study Team request classified access and, if so, who denied it?",
+"Which NASA Gemini- and Apollo-era astronaut accounts entered PURSUE, through what channel, and were the astronauts or their estates consulted?"
+],
+"roles": [
+"research",
+"concealment",
+"disclosure",
+"custody"
+],
+"whatItIs": "The National Aeronautics and Space Administration, the U.S. civil space agency. Since 2022 it has been a formal participant in the government's UAP effort through a commissioned Independent Study Team, whose final report it published on 14 September 2023 alongside the appointment of a Director of UAP Research. Since 2026 it has been a contributing agency to the Presidential Unsealing and Reporting System for UAP Encounters, supplying Apollo- and Gemini-era imagery and astronaut accounts.",
+"whyImplicated": "NASA's role in the concealment architecture is not custody; it is certification. It is the civilian, scientifically credentialed institution that repeatedly states there is no evidence of extraterrestrial origin while holding, by its own design choices, no access to the compartmented material where the question would actually be settled — its Independent Study Team used unclassified data only, and its charter expressly excluded review of past incidents. The sharper fact is a custody claim. In 2025 NASA's Office of Communications told a records researcher that it has no UAP records qualifying for transfer to the National Archives under the FY2024 NDAA because \"any agency-related records associated with UAP, came from, and are owned by, the U.S. Department of Defense.\" That single sentence removes NASA's UAP holdings from the statutory records regime by attributing ownership to the department least likely to release them. Ten months later NASA's own Administrator publicly identified NASA-provided Apollo 12 and Apollo 17 lunar-surface imagery as \"some of the most interesting data that NASA has provided as part of the UAP disclosure.\" Both statements cannot sit comfortably together: an agency with nothing to transfer, holding the most interesting data."
+},
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [
+0,
+1
+],
+"requests": [
+{
+"agency": "NASA",
+"partial": [],
+"questions": [
+0,
+1
+],
+"request": "F4",
+"sendTo": "NASA Langley Research Center FOIA Office, Mail Stop 166, Hampton VA 23681, with a copy to NASA Johnson Space Center (the WB-57F High Altitude Research Program is operated out of Ellington Field).",
+"status": "not filed",
+"title": "NASA - WB-57F N927NA tasking, 18 and 19 December 2023"
+}
+]
+},
+"hl": null,
+"id": "nasa",
+"l0": true,
+"label": "National Aeronautics and Space Administration",
+"locLabel": null,
+"members": [
+{
+"cls": "institution",
+"id": "blue-marble-space-institute",
+"label": "Blue Marble Space Institute of Science",
+"tier": "C"
+},
+{
+"cls": "person",
+"id": "david-spergel",
+"label": "David N. Spergel",
+"tier": "B"
+},
+{
+"cls": "location",
+"id": "l-ames",
+"label": "NASA Ames Research Center, Mountain View, California",
+"tier": "C"
+},
+{
+"cls": "program",
+"id": "manned-orbiting-laboratory",
+"label": "Manned Orbiting Laboratory and the DORIAN / KH-10 reconnaissance payload",
+"tier": "B"
+},
+{
+"cls": "person",
+"id": "mark-mcinerney",
+"label": "Mark McInerney",
+"tier": "C"
+},
+{
+"cls": "person",
+"id": "maxwell-frost",
+"label": "Maxwell Alejandro Frost",
+"tier": "C"
+},
+{
+"cls": "person",
+"id": "nicola-fox",
+"label": "Nicola J. Fox",
+"tier": "C"
+},
+{
+"cls": "institution",
+"id": "ocsa-canada",
+"label": "Office of the Chief Science Advisor of Canada",
+"tier": "C"
+},
+{
+"cls": "event",
+"id": "pursue-release-01",
+"label": "PURSUE Release 01",
+"tier": "B"
+},
+{
+"cls": "event",
+"id": "pursue-release-03",
+"label": "PURSUE Release 03",
+"tier": "B"
+},
+{
+"cls": "person",
+"id": "william-b-adkins",
+"label": "William B. Adkins",
+"tier": "C"
+}
+],
+"short": "NASA",
+"sources": [
+{
+"date": "2023-09-14",
+"name": "NASA Unidentified Anomalous Phenomena Independent Study Team Report",
+"url": "https://smd-cms.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf"
+}
+],
+"sub": "Civil space agency; host of the 2023 UAP Independent Study Team",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 196 of 1027, score 44). 14 connections, 3 of them custody/witness/funding/programmatic. Axes C0/A1/D3.",
+"timeline": [
+{
+"date": "2023-09-14",
+"id": "ag-tl-2023-nasa",
+"label": "NASA publishes the Independent Study Team report",
+"precision": "day",
+"strand": "oversight",
+"text": "Spergel's 16-member panel concedes that 'much of the data collected by military sensors or intelligence satellites are classified' and Nicola Fox announces a NASA Director of UAP Research.",
+"tier": "A"
+}
+]
+}

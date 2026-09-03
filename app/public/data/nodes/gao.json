@@ -1,0 +1,160 @@
+{
+"A": 1,
+"C": 0,
+"D": 3,
+"band": null,
+"claims": [
+{
+"source": "GAO/NSIAD-95-187, 28 July 1995",
+"text": "GAO/NSIAD-95-187, issued 28 July 1995 at the request of Rep. Steven Schiff, reported that Roswell Army Air Field outgoing messages for March 1945 to December 1949 had been destroyed and that no destruction certificate authorising it could be located.",
+"tier": 1
+},
+{
+"source": "Inference from the provenance and findings of GAO/NSIAD-95-187",
+"text": "The unauthorised destruction of a single installation's outgoing message traffic covering the exact period at issue is the strongest surviving documentary anomaly in the Roswell record, and it was found by a legislative-branch auditor rather than by any executive-branch review. Reasoning: only GAO had both the access authority and the independence to look at records management rather than at the story.",
+"tier": 3
+}
+],
+"cls": "institution",
+"cluster": "oversight",
+"connections": [
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "1986",
+"dateStart": "1986",
+"direction": "in",
+"edgeLabel": "GAO produced and publicly released the testimony",
+"id": "gao-130581",
+"l0": false,
+"label": "GAO accession 130581 - Controls Over Classified Documents for a Special Access Program at Lockheed Corporation",
+"note": "The statement was delivered by Martin M. Ferber, Associate Director, National Security and International Affairs Division, and released on delivery at 10:00 a.m. on 24 July 1986.",
+"sources": [
+{
+"date": "1986-07-24",
+"name": "GAO accession 130581, testimony of 24 July 1986",
+"url": "https://www.gao.gov/assets/130581.pdf"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": null,
+"dateStart": "1990",
+"direction": "out",
+"edgeLabel": "GAO maintains the High-Risk List",
+"id": "gao-high-risk-dod-fm",
+"l0": false,
+"label": "GAO High-Risk List: DOD Financial Management",
+"note": "The High-Risk List is a GAO product, updated at the start of each Congress. Attested by GAO.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "GAO High-Risk List",
+"url": "https://www.gao.gov/high-risk-list"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": null,
+"dateStart": "1995-07-28",
+"direction": "out",
+"edgeLabel": "Found Roswell AAF outgoing messages 1945-1949 destroyed without authorisation",
+"id": "roswell-1947",
+"l0": true,
+"label": "Roswell Incident",
+"note": "GAO reported that the outgoing message traffic for March 1945 to December 1949 had been destroyed and that no destruction certificate authorising it could be located.",
+"sources": [
+{
+"date": "1995-07-28",
+"name": "GAO/NSIAD-95-187",
+"url": "https://www.gao.gov/assets/nsiad-95-187.pdf"
+}
+],
+"tier": "A",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "1995-07-28",
+"dateStart": "1994",
+"direction": "out",
+"edgeLabel": "GAO conducted the Roswell records search at Rep. Schiff's request",
+"id": "steven-schiff",
+"l0": false,
+"label": "Steven H. Schiff",
+"note": "Schiff turned to GAO after the Air Force declined to answer him directly; GAO/NSIAD-95-187 is the result.",
+"sources": [
+{
+"date": "1995-07-28",
+"name": "GAO/NSIAD-95-187",
+"url": "https://www.gao.gov/assets/nsiad-95-187.pdf"
+}
+],
+"tier": "B",
+"type": "investigative"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "1921-07-01",
+"deg": 4,
+"denials": [],
+"desc": "GAO is the audit arm of Congress and the only investigative body on this board that answers to the legislature rather than the executive. Its single most important product in this domain is GAO/NSIAD-95-187, 'Government Records: Results of a Search for Records Concerning the 1947 Crash Near Roswell, New Mexico', issued 28 July 1995 at the request of Representative Steven Schiff of New Mexico after the Air Force declined to give him a straight answer. GAO's finding is one of the load-bearing facts of the entire field: that the outgoing messages of Roswell Army Air Field for the period March 1945 to December 1949 had been destroyed, without any destruction certificate being located to authorise it. GAO could not determine who destroyed them or when. That is not a finding that the material existed; it is a finding that the record of the period was not kept in the manner required, at exactly the installation and exactly the period at issue. GAO's involvement also demonstrates the tool Congress has never fully used since: a legislative-branch auditor with statutory access authority, directed at the classification and records-management conduct of the agencies, rather than at the phenomenon.",
+"domains": [
+"w2-agencies"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "gao",
+"l0": false,
+"label": "Government Accountability Office",
+"locLabel": null,
+"members": null,
+"short": "Government Accountability Office",
+"sources": [
+{
+"date": "1995-07-28",
+"name": "GAO/NSIAD-95-187, Government Records: Results of a Search for Records Concerning the 1947 Crash Near Roswell, New Mexico",
+"url": "https://www.gao.gov/assets/nsiad-95-187.pdf"
+},
+{
+"date": "1995-07-28",
+"name": "GAO/NSIAD-95-187 landing page",
+"url": "https://www.gao.gov/products/nsiad-95-187"
+},
+{
+"date": "2026-08-12",
+"name": "National Archives - Unidentified Flying Objects / Project BLUE BOOK",
+"url": "https://www.archives.gov/research/military/air-force/ufos"
+}
+],
+"sub": "Legislative branch audit agency; author of the 1995 Roswell records search",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 838 of 1027, score 17). 4 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D3.",
+"timeline": [
+{
+"date": "1995-07-28",
+"id": "ag-tl-1995-gao",
+"label": "GAO reports Roswell message traffic destroyed",
+"precision": "day",
+"strand": "oversight",
+"text": "GAO/NSIAD-95-187, produced at Rep. Steven Schiff's request, finds that Roswell Army Air Field outgoing messages for March 1945 to December 1949 were destroyed with no destruction certificate located to authorise it.",
+"tier": "A"
+}
+]
+}

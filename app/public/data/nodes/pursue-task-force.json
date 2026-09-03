@@ -1,0 +1,149 @@
+{
+"A": 3,
+"C": 2,
+"D": 3,
+"band": null,
+"claims": [
+{
+"source": "https://burlison.house.gov/sites/evo-subsites/burlison.house.gov/files/evo-media-document/memorandum_2026.pdf",
+"text": "ODNI ES 2026-00818 names a 'PURSUE Task Force' with a 'review and declassification' function to which all IC UAP information is to be released.",
+"tier": 1
+},
+{
+"source": "https://burlison.house.gov/sites/evo-subsites/burlison.house.gov/files/evo-media-document/memorandum_2026.pdf",
+"text": "Every IC element must establish a 'PURSUE designee' within 30 days in coordination with ODNI; witnesses are told to report to AARO 'or to an authorized PURSUE representative.'",
+"tier": 1
+},
+{
+"source": "https://burlison.house.gov/media/press-releases/rep-eric-burlison-releases-statement-president-trumps-uap-nda-directive",
+"text": "Burlison: 'Independent congressional oversight is a critical part of UAP disclosure, and we are uncertain whether the abrogation of NDAs will apply to testimony received by Congress before referral to the executive branch.'",
+"tier": 2
+},
+{
+"source": "https://burlison.house.gov/sites/evo-subsites/burlison.house.gov/files/evo-media-document/memorandum_2026.pdf",
+"text": "No charter, executive order, roster, chair, budget line or location for the PURSUE Task Force is public as of 12 August 2026. Reasoning: it appears in the ODNI memorandum and in derivative reporting, and on no published organisational instrument at war.gov, aaro.mil, dni.gov or whitehouse.gov.",
+"tier": 3
+}
+],
+"cls": "institution",
+"cluster": "ic",
+"connections": [
+{
+"claimTier": 3,
+"cls": "event",
+"dateEnd": null,
+"dateStart": "2026-08-01",
+"direction": "out",
+"edgeLabel": "the executive channel that competes with the congressional one",
+"id": "hearing-2025-09-09",
+"l0": true,
+"label": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'",
+"note": "Burlison warned that it is uncertain whether the NDA abrogation applies to testimony given to Congress before referral to the executive branch - a witness routed to PURSUE may be routed away from a hearing room.",
+"sources": [
+{
+"date": "2026-07-29",
+"name": "Burlison statement on the UAP NDA directive",
+"url": "https://burlison.house.gov/media/press-releases/rep-eric-burlison-releases-statement-president-trumps-uap-nda-directive"
+},
+{
+"date": "2026-08-01",
+"name": "ODNI Memorandum ES 2026-00818",
+"url": "https://burlison.house.gov/sites/evo-subsites/burlison.house.gov/files/evo-media-document/memorandum_2026.pdf"
+}
+],
+"tier": "A",
+"type": "behavioral"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": "2026-08-01",
+"direction": "in",
+"edgeLabel": "establishes as an entity with declassification authority",
+"id": "odni-memo-es-2026-00818",
+"l0": true,
+"label": "ODNI Memorandum ES 2026-00818 - Preliminary Guidance for Implementation of NDA Waiver",
+"note": "The memorandum directs release of all IC UAP information to the 'PURSUE Task Force for review and declassification' - the first paper instrument naming PURSUE as a body rather than a website.",
+"sources": [
+{
+"date": "2026-08-01",
+"name": "ODNI Memorandum ES 2026-00818",
+"url": "https://burlison.house.gov/sites/evo-subsites/burlison.house.gov/files/evo-media-document/memorandum_2026.pdf"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 3,
+"cls": "legislation",
+"dateEnd": null,
+"dateStart": "2026-07-22",
+"direction": "out",
+"edgeLabel": "unchartered body versus Senate-confirmed board",
+"id": "uapda-fy2027-house-adopted",
+"l0": true,
+"label": "Unidentified Anomalous Phenomena Disclosure Act - Burlison amendment to the FY2027 NDAA",
+"note": "The amendment's Senate-confirmed Records Review Board is the constitutional answer to a task force exercising declassification authority with no published charter.",
+"sources": [
+{
+"date": "2026-08-01",
+"name": "ODNI Memorandum ES 2026-00818",
+"url": "https://burlison.house.gov/sites/evo-subsites/burlison.house.gov/files/evo-media-document/memorandum_2026.pdf"
+},
+{
+"date": "2026-07-22",
+"name": "Burlison, House Adopts UAP Disclosure Framework",
+"url": "https://burlison.house.gov/media/press-releases/house-adopts-burlison-amendment-establishing-uap-disclosure-framework"
+}
+],
+"tier": "B",
+"type": "legislative"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "2026",
+"deg": 3,
+"denials": [],
+"desc": "An entity whose existence is established by a single primary document and whose composition, charter, chair and location are unknown. ODNI Memorandum ES 2026-00818 of 2026 directs the release of all UAP information across the Intelligence Community to the 'Presidential Unsealing and Reporting System for UAP Encounters (PURSUE) Task Force for review and declassification', treats PURSUE as a presidential designee capable of receiving information that existing NDAs would otherwise bar, requires every IC element to name a PURSUE designee within 30 days, and refers to 'authorized PURSUE representative[s]' who may take witness reports in the same breath as AARO. That is a body with three powers: it receives compartmented information, it conducts declassification review, and it can waive secrecy obligations by virtue of being a presidential designee. No charter, executive order, membership roster, chair, staff, budget line or physical location for it has been published as of 12 August 2026. The public evidence of its output is the war.gov/UFO portal and its five tranches. The gap between those two facts - a body with declassification authority over the whole IC UAP holdings, and a website with no manifest - is the central structural finding of this domain in 2026. It also creates a new and unexamined risk that Burlison identified in his 29 July 2026 statement: a witness who tells a PURSUE representative what he knows may have satisfied the waiver while placing his account inside an executive-branch channel, and it is not established that the abrogation extends to testimony given to Congress before referral to the executive branch.",
+"domains": [
+"w2-2025-2026"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "pursue-task-force",
+"l0": false,
+"label": "PURSUE Task Force",
+"locLabel": null,
+"members": null,
+"short": "PURSUE Task Force",
+"sources": [
+{
+"date": "2026-08-01",
+"name": "ODNI Memorandum ES 2026-00818, 'Preliminary Guidance for Implementation of NDA Waiver', signed Aaron Lukas, PDDNI (released by Rep. Burlison 1 August 2026)",
+"url": "https://burlison.house.gov/sites/evo-subsites/burlison.house.gov/files/evo-media-document/memorandum_2026.pdf"
+},
+{
+"date": "2026-07-29",
+"name": "Rep. Eric Burlison, statement on President Trump's UAP NDA directive",
+"url": "https://burlison.house.gov/media/press-releases/rep-eric-burlison-releases-statement-president-trumps-uap-nda-directive"
+},
+{
+"date": "2026-08-01",
+"name": "Rep. Eric Burlison, 'Rep. Burlison Releases Administration Memorandum on President Trump's UAP NDA Directive'",
+"url": "https://burlison.house.gov/media/press-releases/rep-burlison-releases-administration-memorandum-president-trumps-uap-nda"
+}
+],
+"sub": "Presidential task force with declassification review function; named in ODNI ES 2026-00818",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 345 of 1027, score 35). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A3/D3.",
+"timeline": []
+}

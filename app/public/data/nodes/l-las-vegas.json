@@ -1,0 +1,132 @@
+{
+"A": 2,
+"C": 2,
+"D": 2,
+"band": null,
+"claims": [
+{
+"source": "George Knapp, written testimony, House Oversight Task Force, 9 September 2025",
+"text": "BAASS, headquartered in Las Vegas, was prime contractor for AAWSAP, recruited about 50 full-time investigators with top secret clearances, operated for 27 months, and produced more than three dozen preliminary reports and over 100 detailed research papers plus a 240,000-case data warehouse.",
+"tier": 2
+},
+{
+"source": "Wikipedia, Skinwalker Ranch — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"text": "Robert Bigelow founded the National Institute for Discovery Science and purchased Skinwalker Ranch in 1996 for $200,000.",
+"tier": 2
+},
+{
+"source": "KLAS-TV broadcast record; Wikipedia, Area 51",
+"text": "George Knapp broadcast the Robert Lazar interviews from KLAS-TV Las Vegas in May 1989.",
+"tier": 2
+}
+],
+"cls": "location",
+"cluster": "contractor",
+"connections": [
+{
+"claimTier": 2,
+"cls": "institution",
+"dateEnd": "2010",
+"dateStart": "2008",
+"direction": "in",
+"edgeLabel": "BAASS ran the AAWSAP field effort from Las Vegas",
+"id": "baass",
+"l0": true,
+"label": "Bigelow Aerospace Advanced Space Studies (BAASS), LLC",
+"note": "Knapp testified that BAASS recruited about 50 cleared investigators, operated for 27 months and produced over 100 research papers and a 240,000-case data warehouse designed by Jacques Vallee.",
+"sources": [
+{
+"date": "2025-09-09",
+"name": "George Knapp written testimony (PDF)",
+"url": "https://oversight.house.gov/wp-content/uploads/2025/09/George-Knapp-Written-Testimony.pdf"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "1989-05",
+"dateStart": "1989-05",
+"direction": "in",
+"edgeLabel": "Knapp broadcast the Lazar interviews from KLAS-TV Las Vegas in 1989",
+"id": "george-knapp",
+"l0": false,
+"label": "George Knapp",
+"note": "The May 1989 KLAS-TV interviews created the public reverse-engineering narrative attached to Area 51 and S-4.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Wikipedia - Area 51",
+"url": "https://en.wikipedia.org/wiki/Area_51"
+}
+],
+"tier": "A",
+"type": "investigative"
+},
+{
+"claimTier": 3,
+"cls": "location",
+"dateEnd": null,
+"dateStart": "1972",
+"direction": "in",
+"edgeLabel": "The Groom and Tonopah workforce commutes from Las Vegas",
+"id": "l-groom-lake",
+"l0": false,
+"label": "Groom Lake, Nevada",
+"note": "The unmarked JANET fleet operates from a dedicated terminal at the Las Vegas airport. Reasoning: publicly observable daily operations; no primary personnel or contract record has been obtained.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Wikipedia - Area 51",
+"url": "https://en.wikipedia.org/wiki/Area_51"
+}
+],
+"tier": "B",
+"type": "institutional"
+}
+],
+"coords": [
+36.1699,
+-115.1398
+],
+"dateEnd": null,
+"dateStart": "1989",
+"deg": 3,
+"denials": [],
+"desc": "Las Vegas is the operational hub of the private side of this entire subject. Robert Bigelow's businesses are headquartered here: Bigelow Aerospace, the National Institute for Discovery Science which ran the Skinwalker Ranch investigation from 1995, and Bigelow Aerospace Advanced Space Studies, the prime contractor on the Defense Intelligence Agency's AAWSAP award. BAASS recruited some fifty full-time investigators with top secret clearances in this city and ran for 27 months, producing more than three dozen preliminary reports, over a hundred detailed research papers and a data warehouse of more than 240,000 case files, most of which DIA has never released. Colm Kelleher was BAASS deputy administrator here. George Knapp has reported the story from KLAS-TV here since 1989, when he broadcast the Robert Lazar interviews that created the modern reverse-engineering narrative. And McCarran/Harry Reid International Airport is the departure point of the unmarked white-and-red Boeing 737 fleet operated under the callsign JANET that carries the Groom Lake and Tonopah workforce - the physical commute of the black world, visible daily from a public terminal. Sen. Harry Reid represented Nevada; the AAWSAP appropriation he arranged went to a Nevada company; the workforce it might have touched flies out of a Nevada airport. That concentration is not a coincidence and it is the reason Las Vegas rather than Washington is where the contractor-side record actually sits.",
+"domains": [
+"w2-places-events"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "1",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "l-las-vegas",
+"l0": false,
+"label": "Las Vegas, Nevada",
+"locLabel": "Las Vegas, Nevada, USA",
+"members": null,
+"short": "Las Vegas, Nevada",
+"sources": [
+{
+"date": "2025-09-09",
+"name": "George Knapp written testimony (PDF)",
+"url": "https://oversight.house.gov/wp-content/uploads/2025/09/George-Knapp-Written-Testimony.pdf"
+},
+{
+"date": "2026-08-12",
+"name": "Wikipedia - Skinwalker Ranch",
+"url": "https://en.wikipedia.org/wiki/Skinwalker_Ranch"
+}
+],
+"sub": "Clark County; Bigelow Aerospace, NIDS, BAASS, EG&G 'Janet' terminal, KLAS-TV",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 572 of 1027, score 27). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A2/D2.",
+"timeline": []
+}

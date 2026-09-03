@@ -1,0 +1,202 @@
+{
+"A": 3,
+"C": 1,
+"D": 1,
+"affiliations": [
+"United States Navy (1968-2002)",
+"Joint Staff J-2 (1994-1997)",
+"Defense Intelligence Agency (Director, 1999-2002)",
+"Private defence consulting (post-2002)"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "1994-01-01",
+"event": "Serves as Vice Director / Director for Intelligence (J-2), Joint Staff.",
+"precision": "year"
+},
+{
+"date": "1997-04-09",
+"event": "Per the Davis notes, is prompted by Greer's Washington briefing week to pursue the special access programme question.",
+"precision": "day"
+},
+{
+"date": "1999-07-01",
+"event": "Becomes Director of the Defense Intelligence Agency.",
+"precision": "month"
+},
+{
+"date": "2002-07-01",
+"event": "Retires from the Navy.",
+"precision": "month"
+},
+{
+"date": "2002-10-16",
+"event": "Date of the meeting recorded in the Davis notes.",
+"precision": "day"
+},
+{
+"date": "2019-04-01",
+"event": "The notes surface publicly; Wilson denies the meeting and its contents.",
+"precision": "month"
+}
+],
+"claims": [
+{
+"source": "Wilson-Davis notes, 16 Oct 2002",
+"text": "The Davis notes record Wilson stating he was refused access to a special access programme holding recovered non-human material, on the grounds that he lacked need-to-know, despite his position as Joint Staff J-2.",
+"tier": 2
+},
+{
+"source": "Thomas R. Wilson, statements to journalists, 2019 onward",
+"text": "Wilson has denied that the meeting recorded in the notes took place and has denied the substance attributed to him.",
+"tier": 2
+},
+{
+"source": "Inference from the correspondence between the 2002 notes and Grusch's 26 July 2023 sworn House Oversight testimony.",
+"text": "The refusal mechanism described in the notes - programme security officers and contractor gatekeepers denying a cleared senior official on need-to-know grounds - is the same mechanism described under oath by David Grusch in 2023, indicating a persistent access-control architecture rather than an isolated anecdote.",
+"tier": 3
+}
+],
+"cls": "person",
+"cluster": "other",
+"conflicts": [
+"Wilson's denial is flatly inconsistent with Davis's confirmation of authorship and with the notes' internal detail. One of the two accounts is false and the board does not have the document that would settle it."
+],
+"connections": [
+{
+"claimTier": 3,
+"cls": "program",
+"dateEnd": "1997",
+"dateStart": "1997",
+"direction": "in",
+"edgeLabel": "The Wilson notes place Wilson's 1997 inquiry immediately after exposure to Greer's Washington briefings",
+"id": "disclosure-project",
+"l0": false,
+"label": "The Disclosure Project",
+"note": "The Disclosure Project briefed members of Congress and officials in Washington in April 1997; the notes record Wilson beginning his search for the programme in the same period.",
+"sources": [
+{
+"date": "2022-08-01",
+"name": "The Debrief, 'Summer of the Saucers' (notes Wilson-Davis Memo raised at the 17 May 2022 House Intelligence UAP hearing)",
+"url": "https://thedebrief.org/summer-of-the-saucers/"
+},
+{
+"date": "2019-09-16",
+"name": "Clinton Digital Library, FOIA collection 2006-0474-F, 'Unidentified Flying Objects (UFO)' (Greer/CSETI correspondence)",
+"url": "https://clinton.presidentiallibraries.us/items/show/36386"
+}
+],
+"tier": "C",
+"type": "temporal"
+},
+{
+"claimTier": 2,
+"cls": "document",
+"dateEnd": null,
+"dateStart": "2019",
+"direction": "out",
+"edgeLabel": "Wilson denies the meeting and the substance attributed to him",
+"id": "wilson-davis-memo",
+"l0": true,
+"label": "The Wilson-Davis Notes (16 October 2002)",
+"note": "Wilson's denial is recorded as a primary artefact. It is irreconcilable with Davis's confirmation of authorship, and no agency has attempted to resolve it.",
+"sources": [
+{
+"date": "2022-08-01",
+"name": "The Debrief, 'Summer of the Saucers' (notes Wilson-Davis Memo raised at the 17 May 2022 House Intelligence UAP hearing)",
+"url": "https://thedebrief.org/summer-of-the-saucers/"
+}
+],
+"tier": "A",
+"type": "denial"
+}
+],
+"date": "2002-10-16",
+"dateEnd": null,
+"dateStart": "2002-10-16",
+"deg": 2,
+"denials": [
+{
+"by": {
+"id": "thomas-wilson",
+"label": "Thomas R. Wilson"
+},
+"claimTier": 2,
+"denialKind": "directed",
+"label": "Wilson denies the meeting and the substance attributed to him",
+"note": "Wilson's denial is recorded as a primary artefact. It is irreconcilable with Davis's confirmation of authorship, and no agency has attempted to resolve it.",
+"of": {
+"id": "wilson-davis-memo",
+"label": "The Wilson-Davis Notes (16 October 2002)"
+},
+"sources": [
+{
+"date": "2022-08-01",
+"name": "The Debrief, 'Summer of the Saucers' (notes Wilson-Davis Memo raised at the 17 May 2022 House Intelligence UAP hearing)",
+"url": "https://thedebrief.org/summer-of-the-saucers/"
+}
+]
+}
+],
+"domains": [
+"_rs-archive-mirror",
+"history-1970s-2000s"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "2",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "thomas-wilson",
+"instId": "dia",
+"l0": false,
+"label": "Thomas R. Wilson",
+"loc": "Washington, DC",
+"locId": "l-dc",
+"members": null,
+"narrative": "Wilson is the highest-ranking American intelligence officer alleged to have gone looking for the programme and been turned away at the door. His career is not in dispute: Vice Director for Intelligence and then Director of Intelligence (J-2) on the Joint Staff in the mid-1990s, Director of the Defense Intelligence Agency from 1999 to 2002. The Davis notes of 16 October 2002 record him describing an approach in 1997, prompted by information from Steven Greer's briefings and from a Joint Staff colleague, to a special access programme he was told held recovered non-human craft or material in the custody of an aerospace contractor; being granted a meeting with the programme's gatekeepers; and being refused the read-on because he had no need to know, notwithstanding that as J-2 he sat above almost everyone in the defence intelligence structure. Wilson has denied the meeting with Davis and denied the substance. That denial is recorded here as what the board treats it as - an artefact of the denier, made by a named principal, with no supporting documentation released either way. The structural claim in the notes has since been made independently and under oath by David Grusch in July 2023: that legally tasked, appropriately cleared officials are refused access by programme security officers operating through contractor vehicles. Two officials, twenty-one years apart, describing the same refusal mechanism, is not a coincidence a serious board can ignore.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Thomas R. Wilson",
+"sources": [
+{
+"date": "2026-07-05",
+"name": "Archived: AARO, 'Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP), Volume I' (DOPSR-2024-0263) (Wayback 2026-07-05)",
+"url": "https://web.archive.org/web/20260705034310/https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF"
+},
+{
+"date": "2022-08-01",
+"name": "The Debrief, 'Summer of the Saucers' (notes Wilson-Davis Memo raised at the 17 May 2022 House Intelligence UAP hearing)",
+"url": "https://thedebrief.org/summer-of-the-saucers/"
+},
+{
+"date": "2024-03-08",
+"name": "AARO, 'Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP), Volume I' (DOPSR-2024-0263)",
+"url": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF"
+}
+],
+"status": "active",
+"sub": "Vice Admiral USN (ret.); Director of Intelligence (J-2), Joint Staff 1994-1997; Director, Defense Intelligence Agency 1999-2002",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 577 of 1027, score 26). 2 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D1.",
+"timeline": [
+{
+"date": "1997-04-09",
+"id": "t-1997-wilson",
+"label": "Wilson's alleged SAP inquiry begins",
+"precision": "day",
+"strand": "program",
+"text": "Per the Davis notes, Joint Staff J-2 Vice Admiral Thomas Wilson - prompted by the Disclosure Project's Washington briefings - begins trying to locate a special access programme holding recovered non-human material.",
+"tier": "C"
+}
+],
+"unexplainedResidual": "A retired DIA Director's denial and a named astrophysicist's contemporaneous notes cannot both be accurate. No agency has attempted to reconcile them in any published document.",
+"unverified": [
+"No DoD, DIA or AARO publication has ever addressed the Wilson-Davis notes."
+]
+}

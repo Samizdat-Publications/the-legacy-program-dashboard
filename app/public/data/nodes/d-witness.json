@@ -1,0 +1,171 @@
+{
+"A": 2,
+"C": 2,
+"D": 3,
+"band": null,
+"claims": [
+{
+"source": "House Oversight Committee witness statements, 26 July 2023",
+"text": "The House Oversight Committee heard sworn testimony from David Grusch, David Fravor and Ryan Graves on 26 July 2023; written statements from Fravor and Graves are published on the committee's site.",
+"tier": 1
+},
+{
+"source": "DoD OIG DODIG-2023-109",
+"text": "The DoD Inspector General's DODIG-2023-109 evaluation was initiated following complaints from DoD personnel regarding UAP.",
+"tier": 1
+},
+{
+"source": "ODNI ICIG Urgent Concern Disclosure Form",
+"text": "The ICIG publishes a Disclosure of Urgent Concern form, the formal channel through which an intelligence community employee makes a protected complaint.",
+"tier": 1
+}
+],
+"cls": "domain",
+"cluster": "other",
+"connections": [
+{
+"claimTier": 3,
+"cls": "domain",
+"dateEnd": null,
+"dateStart": "1947-01-01",
+"direction": "in",
+"edgeLabel": "Clearance revocation as deterrent",
+"id": "d-counterintel",
+"l0": false,
+"label": "Counterintelligence",
+"note": "Administrative revocation of access is effectively unreviewable and can end a career without any finding; this is the inferred mechanism suppressing first-hand testimony.",
+"sources": [
+{
+"date": "2024-01-01",
+"name": "10 U.S.C. Sec. 119",
+"url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim"
+}
+],
+"tier": "C",
+"type": "behavioral"
+},
+{
+"claimTier": 3,
+"cls": "domain",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "NDAs and IG channels bound what a witness may say",
+"id": "d-legal",
+"l0": false,
+"label": "Legal Doctrine & Liability",
+"note": "DODIG-2023-109 exists because personnel used the Inspector General channel; the legal domain determines which disclosures are protected and which are prosecutable.",
+"sources": [
+{
+"date": "2024-01-25",
+"name": "DoD OIG - DODIG-2023-109 unclassified summary",
+"url": "https://media.defense.gov/2024/Jan/25/2003381266/-1/-1/1/UNCLASSIFIED%20SUMMARY_UNIDENTIFIED%20ANOMALOUS%20PHENOMENA%20SECURE.PDF"
+}
+],
+"tier": "C",
+"type": "behavioral"
+},
+{
+"claimTier": 1,
+"cls": "domain",
+"dateEnd": null,
+"dateStart": "2023-07-26",
+"direction": "in",
+"edgeLabel": "Sworn testimony is oversight's evidence-gathering act",
+"id": "d-oversight",
+"l0": false,
+"label": "Congressional Oversight",
+"note": "The 26 July 2023 and 9 September 2025 House Oversight hearings converted witness accounts into sworn congressional record.",
+"sources": [
+{
+"date": "2025-09-09",
+"name": "House Oversight - Restoring Public Trust Through UAP Transparency and Whistleblower Protection",
+"url": "https://oversight.house.gov/hearing/restoring-public-trust-through-uap-transparency-and-whistleblower-protection/"
+}
+],
+"tier": "B",
+"type": "witness-chain"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "1947-07-08",
+"deg": 3,
+"denials": [],
+"desc": "A compartmented programme cannot produce a witness who saw the whole of it, so the evidence available is necessarily a chain rather than a testimony, and the chain's links have to be graded individually. This board distinguishes four grades in descending order: sworn testimony before a congressional committee under penalty of perjury; a signed complaint to an Inspector General, which carries criminal exposure for false statements; an on-the-record statement to a named journalist; and an anonymous account, which is recorded but cannot be scored above tier 3. The 26 July 2023 House Oversight hearing is the field's highest-grade single event, putting David Grusch, David Fravor and Ryan Graves under oath on the same afternoon - two of them describing what they personally observed, the third describing what he was told by others he named to the Intelligence Community Inspector General. The structural weakness the board must state honestly is that most links are second-hand by design, because the people with first-hand knowledge are the ones whose non-disclosure agreements carry criminal penalties. Scoring high on this domain means an entity is a link in a documented chain - either as a source, a recipient, or the person who put it under oath.",
+"domains": [
+"_rs-archive-mirror",
+"_stubs",
+"w2-taxonomy"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "d-witness",
+"l0": false,
+"label": "Witness Chain",
+"locLabel": null,
+"members": null,
+"short": "Witness Chain",
+"sources": [
+{
+"date": "2026-02-06",
+"name": "Archived: DoD OIG - DODIG-2023-109 unclassified summary (Wayback 2026-02-06)",
+"url": "https://web.archive.org/web/20260206140359/https://media.defense.gov/2024/Jan/25/2003381266/-1/-1/1/UNCLASSIFIED%20SUMMARY_UNIDENTIFIED%20ANOMALOUS%20PHENOMENA%20SECURE.PDF"
+},
+{
+"date": "2026-08-07",
+"name": "Archived: ODNI ICIG - Disclosure of Urgent Concern Form (Wayback 2026-08-07)",
+"url": "https://web.archive.org/web/20260807214055/https://www.dni.gov/files/ICIG/Documents/Hotline/Urgent%20Concern%20Disclosure%20Form.pdf"
+},
+{
+"date": "2023-07-26",
+"name": "David Fravor, statement for House Oversight Committee",
+"url": "https://oversight.house.gov/wp-content/uploads/2023/07/David-Fravor-Statement-for-House-Oversight-Committee.pdf"
+},
+{
+"date": "2023-07-26",
+"name": "Ryan Graves, written testimony, House Oversight",
+"url": "https://oversight.house.gov/wp-content/uploads/2023/07/Ryan-HOC-Testimony.pdf"
+},
+{
+"date": "2024-01-25",
+"name": "DoD OIG - DODIG-2023-109 unclassified summary",
+"url": "https://media.defense.gov/2024/Jan/25/2003381266/-1/-1/1/UNCLASSIFIED%20SUMMARY_UNIDENTIFIED%20ANOMALOUS%20PHENOMENA%20SECURE.PDF"
+},
+{
+"date": "2023-06-05",
+"name": "ODNI ICIG - Disclosure of Urgent Concern Form",
+"url": "https://www.dni.gov/files/ICIG/Documents/Hotline/Urgent%20Concern%20Disclosure%20Form.pdf"
+},
+{
+"date": "2026-08-12",
+"name": "NSF master government list of FFRDCs",
+"url": "https://www.nsf.gov/statistics/ffrdclist/"
+},
+{
+"date": "2026-08-12",
+"name": "Domain definition written for this board; see SCHEMA.md",
+"url": ""
+}
+],
+"sub": "Evidentiary domain - who told whom, under what oath, and with what corroboration",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 333 of 1027, score 35). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A2/D3.",
+"timeline": [
+{
+"date": "2023-07-26",
+"id": "tx-2023-hearing",
+"label": "Three witnesses under oath",
+"precision": "day",
+"strand": "witness",
+"text": "David Grusch, David Fravor and Ryan Graves testify under oath before the House Oversight Committee. Grusch describes a multi-decade retrieval and reverse-engineering programme reported to him by individuals he named to the Intelligence Community Inspector General; Fravor and Graves describe what they personally observed with sensor corroboration.",
+"tier": 1
+}
+]
+}

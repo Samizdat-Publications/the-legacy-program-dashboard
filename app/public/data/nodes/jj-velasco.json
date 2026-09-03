@@ -1,0 +1,129 @@
+{
+"A": 1,
+"C": 1,
+"D": 3,
+"affiliations": [
+"cnes",
+"geipan",
+"cometa"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "1984",
+"event": "Becomes director of GEPAN",
+"precision": "year"
+},
+{
+"date": "1988",
+"event": "GEPAN renamed SEPRA; Velasco continues as head",
+"precision": "year"
+},
+{
+"date": "1999",
+"event": "Named as contributor to the COMETA report as Head of SEPRA at CNES",
+"precision": "year"
+},
+{
+"date": "2004",
+"event": "Leaves SEPRA; succeeded in 2005 by Jacques Patenet under the GEIPAN name",
+"precision": "year"
+}
+],
+"claims": [
+{
+"source": "COMETA report, Letty foreword, 1999 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"text": "Letty names 'Jean-Jacques Velasco, Head of SEPRA at CNES' among those who gave testimony or contributed to the COMETA study.",
+"tier": 2
+},
+{
+"source": "Wikipedia 'GEIPAN', citing Marc Kreidler, 'UFOs: an Assessment of Thirty Years of Official Studies in France', Skeptical Inquirer (2009)",
+"text": "Directors list: GEPAN 1984-1988 Jean-Jacques Velasco; SEPRA 1988-2004 Jean-Jacques Velasco.",
+"tier": 2
+},
+{
+"source": "Wikipedia, 'COMETA report' (flagged there as needing citation)",
+"text": "COMETA member Jean-Jacques Velasco personally handed the 90-page report to Prime Minister Lionel Jospin.",
+"tier": 2
+}
+],
+"cls": "person",
+"cluster": "research",
+"conflicts": [
+{
+"text": "The claim that Velasco personally delivered the report to Jospin is marked 'citation needed' on Wikipedia and was not corroborated from a primary source in this pass."
+}
+],
+"connections": [
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "1999",
+"dateStart": "1996",
+"direction": "out",
+"edgeLabel": "serving head of SEPRA contributed to the report",
+"id": "cometa",
+"l0": true,
+"label": "COMETA - Comité d'Études Approfondies",
+"note": "Letty names 'Jean-Jacques Velasco, Head of SEPRA at CNES' among those who gave testimony or contributed.",
+"sources": [
+{
+"date": "1999-07-01",
+"name": "COMETA report",
+"url": "https://ia800403.us.archive.org/17/items/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D.pdf"
+}
+],
+"tier": "A",
+"type": "witness-chain"
+}
+],
+"date": "2004-01-01",
+"dateEnd": null,
+"dateStart": "2004-01-01",
+"deg": 1,
+"denials": [],
+"domains": [
+"w2-international"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "2",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "jj-velasco",
+"instId": "cnes",
+"l0": false,
+"label": "Jean-Jacques Velasco",
+"loc": "Toulouse, France",
+"locId": "l-toulouse",
+"members": null,
+"narrative": "Jean-Jacques Velasco ran France's official UAP office for twenty years - as director of GEPAN from 1984 to 1988 and then of its successor SEPRA from 1988 to 2004 - which makes him the longest-serving government UAP official in the Western record and the direct counterpart of the American figures on this board. He held the file when the Gendarmerie Nationale was routing sighting reports to CNES by teletype and when CNES could deploy laboratory resources to physical-trace cases, of which the 1981 Trans-en-Provence landing case is the best documented. He was a contributor to COMETA, named in Letty's foreword as 'Jean-Jacques Velasco, Head of SEPRA at CNES', and Wikipedia's account of the report's delivery states that it was Velasco personally who handed the document to Prime Minister Lionel Jospin. He is therefore the hinge between the official French organ and the unofficial general officers' committee: the serving head of the state UAP service participated in a private report that recommended boosting his own service's resources and pressing Washington diplomatically.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Jean-Jacques Velasco",
+"sources": [
+{
+"date": "1999-07-01",
+"name": "COMETA report (English edition)",
+"url": "https://ia800403.us.archive.org/17/items/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D.pdf"
+},
+{
+"date": "2026-01-01",
+"name": "GEIPAN - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/GEIPAN"
+}
+],
+"status": "active",
+"sub": "Director of GEPAN 1984-1988 and of SEPRA 1988-2004; COMETA contributor",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 665 of 1027, score 23). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A1/D3.",
+"timeline": [],
+"unexplainedResidual": null,
+"unverified": [
+"Velasco's post-2004 activity and his current position on the extraterrestrial hypothesis were not established from a 2025-2026 source."
+]
+}

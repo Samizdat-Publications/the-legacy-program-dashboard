@@ -1,0 +1,137 @@
+{
+"A": 2,
+"C": 0,
+"D": 1,
+"affiliations": [
+"US Air Force, intelligence officer",
+"Office of the Secretary of the Air Force"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "1995",
+"event": "As a 1st Lt., writes Attachment 32 (the Project Mogul synopsis) of 'The Roswell Report: Fact Versus Fiction in the New Mexico Desert'",
+"precision": "year"
+},
+{
+"date": "1997",
+"event": "Publishes 'The Roswell Report: Case Closed' through Headquarters USAF and the GPO",
+"precision": "year"
+}
+],
+"claims": [
+{
+"source": "Library catalogue record and GPO imprint; Internet Archive AFD-101027-030 and roswellreportcas0000mcan",
+"text": "'The Roswell Report: Case Closed' (1997) is authored by James McAndrew, published in Washington DC by Headquarters United States Air Force for sale by the Superintendent of Documents, and runs to xii + 231 pages with bibliography and index.",
+"tier": 1
+},
+{
+"source": "The Roswell Report: Case Closed (1997), Introduction, 'The conclusions of the additional research are'",
+"text": "The report's conclusions are that Air Force activities spanning many years were consolidated into two or three days of July 1947; that the 'aliens' were probably anthropomorphic test dummies carried aloft by high altitude balloons; that the 'unusual' military activity was balloon launch and recovery; and that the hospital-bodies claims most likely combine a 1956 KC-97 crash in which eleven airmen died with a 1959 manned balloon mishap injuring two pilots.",
+"tier": 1
+},
+{
+"source": "The Roswell Report: Case Closed (1997), Appendices B and C",
+"text": "The report prints sworn witness statements from ten named Air Force personnel at Appendix B, including Col. Joseph W. Kittinger Jr., Col. Dan D. Fulgham, Bernard D. Gildenberg and Lt. Col. Raymond A. Madson, and full interview transcripts of five pro-UFO witnesses at Appendix C.",
+"tier": 1
+}
+],
+"cls": "person",
+"cluster": "oversight",
+"conflicts": [
+"The report's core chronological argument - that the dummy drops post-date 1947 by up to a decade - is accepted by critics as fatal to the bodies claims and rejected by Roswell researchers as a category error that assumes what it sets out to prove."
+],
+"connections": [
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "1995",
+"dateStart": "1994-07",
+"direction": "out",
+"edgeLabel": "Wrote Attachment 32, the Project Mogul synopsis",
+"id": "roswell-report-1995",
+"l0": false,
+"label": "The Roswell Report: Fact Versus Fiction in the New Mexico Desert (1995)",
+"note": "The DTIC abstract identifies Attachment 32 as McAndrew's synopsis describing Project Mogul as the explanation for the Roswell Incident.",
+"sources": [
+{
+"date": "1995-01-01",
+"name": "The Roswell Report: Fact versus Fiction (1995), DTIC ADA326148",
+"url": "https://archive.org/details/DTIC_ADA326148"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "1997",
+"dateStart": "1997",
+"direction": "out",
+"edgeLabel": "Sole author of the 1997 bodies report",
+"id": "roswell-report-case-closed",
+"l0": true,
+"label": "The Roswell Report: Case Closed (1997)",
+"note": "Published by Headquarters USAF through the GPO; McAndrew, born 1963, is the named author on the catalogue record.",
+"sources": [
+{
+"date": "1997-01-01",
+"name": "The Roswell Report: Case Closed (1997)",
+"url": "https://archive.org/details/AFD-101027-030"
+}
+],
+"tier": "B",
+"type": "institutional"
+}
+],
+"date": "1963",
+"dateEnd": null,
+"dateStart": "1963",
+"deg": 2,
+"denials": [],
+"domains": [
+"w2-retrieval-literature"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "james-mcandrew",
+"instId": "saf-aaz",
+"l0": false,
+"label": "Capt. James McAndrew",
+"loc": "Washington, DC",
+"locId": "l-pentagon",
+"members": null,
+"narrative": "James McAndrew, born 1963, was the junior officer who did the archival work on both Air Force Roswell reports and the sole named author of the second. As a first lieutenant he wrote Attachment 32 of the 1995 report - the Project Mogul synopsis that carries the Air Force's whole 1947 explanation. He then produced 'The Roswell Report: Case Closed' (1997), published by Headquarters United States Air Force through the Government Printing Office, a 231-page volume addressing the claims of alien bodies that the 1994-1995 report had not covered. His method is the reason that book matters on this board irrespective of whether one accepts its conclusion: rather than asserting a denial he went to the certified records - the 427th Army Air Forces Base Unit Squadron 'M' morning reports, the National Personnel Records Center, aircraft accident files, Alderson Laboratories dummy launch and recovery logs - and printed the documents, the anthropomorphic dummy launch and landing locations at Appendix A, the sworn witness statements of ten named Air Force personnel at Appendix B including Col. Joseph W. Kittinger Jr., and full interview transcripts of Gerald Anderson, Glenn Dennis, Alice Knight, Vern Maltais and James Ragsdale at Appendix C. In other words the government's denial published its own primary sources and named its own witnesses, which is the standard against which every claim on this board should be measured, including the claims this board finds persuasive.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Capt. James McAndrew",
+"sources": [
+{
+"date": "1997-01-01",
+"name": "The Roswell Report: Case Closed (1997), HQ USAF/GPO - full text",
+"url": "https://archive.org/details/AFD-101027-030"
+},
+{
+"date": "1997-01-01",
+"name": "The Roswell report: case closed - catalogue record",
+"url": "https://archive.org/details/roswellreportcas0000mcan"
+}
+],
+"status": "former",
+"sub": "USAF intelligence officer; author, 'The Roswell Report: Case Closed' (1997)",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 771 of 1027, score 19). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A2/D1.",
+"timeline": [],
+"unexplainedResidual": null,
+"unverified": [
+"McAndrew's later career and current status."
+]
+}

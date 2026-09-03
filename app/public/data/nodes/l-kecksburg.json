@@ -1,0 +1,98 @@
+{
+"A": 0,
+"C": 2,
+"D": 2,
+"band": null,
+"claims": [
+{
+"source": "Standard geographic reference — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"text": "Kecksburg lies about 30 miles (48 km) southeast of Pittsburgh in Westmoreland County, Pennsylvania.",
+"tier": 2
+},
+{
+"source": "Greensburg Tribune-Review, December 1965 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"text": "The Greensburg Tribune-Review reported that the area where the object landed was immediately sealed off on the order of US Army and State Police officials, with the area roped off pending the arrival of Army engineers and possibly civilian scientists.",
+"tier": 2
+}
+],
+"cls": "location",
+"cluster": "witness",
+"connections": [
+{
+"claimTier": 2,
+"cls": "event",
+"dateEnd": "1965-12-10",
+"dateStart": "1965-12-09",
+"direction": "in",
+"edgeLabel": "Event and site",
+"id": "kecksburg-1965",
+"l0": false,
+"label": "Kecksburg incident, 9 December 1965",
+"note": "The claimed recovery occurred in woodland at Kecksburg, Westmoreland County, Pennsylvania, on the evening of 9 December 1965.",
+"sources": [
+{
+"date": "1965-12-10",
+"name": "Greensburg Tribune-Review, December 1965 (as quoted in the case literature)",
+"url": "https://en.wikipedia.org/wiki/Kecksburg_UFO_incident"
+}
+],
+"tier": "B",
+"type": "geographic"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2014",
+"dateStart": "1965-12-09",
+"direction": "in",
+"edgeLabel": "Four decades of field investigation at the site",
+"id": "stan-gordon",
+"l0": false,
+"label": "Stan Gordon",
+"note": "Gordon, a Greensburg-area researcher, assembled the local witness pool at Kecksburg that supplied the 1990 and 2003 broadcasts and the factual premise of the Kean litigation.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Kecksburg UFO incident - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/Kecksburg_UFO_incident"
+}
+],
+"tier": "C",
+"type": "geographic"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "1965-12-09",
+"deg": 2,
+"denials": [],
+"desc": "An unincorporated village in Westmoreland County, Pennsylvania, about thirty miles southeast of Pittsburgh, and the claimed site of the 9 December 1965 recovery. The contemporaneous Greensburg Tribune-Review reported that the wooded area where something was said to have come down was immediately sealed off on the order of US Army and State Police officials in anticipation of a close inspection, with Army engineers and possibly civilian scientists expected; a subsequent edition reported that searchers failed to find any object. Local residents collected by Stan Gordon over four decades describe an acorn-shaped object roughly the size of a Volkswagen Beetle bearing markings resembling hieroglyphs, removed on a flatbed truck; a prop built for the 1990 Unsolved Mysteries episode remains on display in the village. Kecksburg is the geographic anchor of the only successful FOIA litigation in this domain: the records Leslie Kean sued NASA for in 2003 were records about this location and this date, and the court found in 2007 that NASA had not adequately searched for them.",
+"domains": [
+"w2-retrieval-literature"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "l-kecksburg",
+"l0": false,
+"label": "Kecksburg, Westmoreland County, Pennsylvania",
+"locLabel": null,
+"members": null,
+"short": "Kecksburg, Westmoreland County, Pennsylvania",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Kecksburg UFO incident - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/Kecksburg_UFO_incident"
+}
+],
+"sub": "Village 30 miles southeast of Pittsburgh; claimed 1965 recovery site",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 816 of 1027, score 18). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A0/D2.",
+"timeline": []
+}

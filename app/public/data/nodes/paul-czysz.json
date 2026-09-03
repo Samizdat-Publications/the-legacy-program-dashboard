@@ -1,0 +1,138 @@
+{
+"A": 1,
+"C": 0,
+"D": 1,
+"affiliations": [],
+"age": null,
+"band": null,
+"chronology": [],
+"claims": [
+{
+"source": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"text": "The DIA letter of 9 January 2018 to the Senate Armed Services Committee lists DIRD item 4 as \"Space Access, Dr P Czysz, HyperTech.\"",
+"tier": 2
+},
+{
+"source": "https://www.researchgate.net/profile/Paul-Czysz",
+"text": "Czysz was Professor Emeritus of Aerospace Engineering at Saint Louis University, former chief scientist on the National Aerospace Plane project, and president of HyperTech Concepts LLC; he was named a McDonnell Douglas Fellow in 1986 for work on hypersonic aircraft concepts.",
+"tier": 2
+},
+{
+"source": "https://www.legacy.com/us/obituaries/stltoday/name/paul-czysz-obituary?pid=166480027",
+"text": "Czysz died in 2013, before the public disclosure of AATIP in December 2017 and before the bulk FOIA release of the DIRDs in March 2022. He gave no public account of the AAWSAP tasking.",
+"tier": 2
+},
+{
+"source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_06-DIRD_Space_Access-Where_Weve_Been_and_Where_We_Could_Go.pdf",
+"text": "The released cover page of the Space Access DIRD redacts the author name under FOIA exemption (b)(6) and reads only \"Author: [redacted].\" The attribution to Czysz rests on the DIA list, not on the document.",
+"tier": 1
+}
+],
+"cls": "person",
+"cluster": "research",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "author of record on the DIA list",
+"id": "dird-space-access-where-we-ve-been",
+"l0": false,
+"label": "Space Access: Where We've Been and Where We Could Go",
+"note": "The DIA letter of 9 January 2018 to the Senate Armed Services Committee lists item 4 as \"Space Access, Dr P Czysz, HyperTech.\" The released document's own author line is redacted under FOIA exemption (b)(6), so the attribution rests entirely on the government list, not on the document.",
+"sources": [
+{
+"date": "2026-08-22",
+"name": "Released DIRD, 'Space Access: Where We've Been and Where We Could Go' — FOIA copy, cover page read 22 August 2026",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_06-DIRD_Space_Access-Where_Weve_Been_and_Where_We_Could_Go.pdf"
+},
+{
+"date": "2026-08-22",
+"name": "DIA FOIA Electronic Reading Room entry for this reference document",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237648/"
+},
+{
+"date": "2026-08-23",
+"name": "DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations",
+"url": "https://fas.org/publication/aatip-list/"
+},
+{
+"date": null,
+"name": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html",
+"url": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html"
+},
+{
+"date": null,
+"name": "https://irp.fas.org/dia/aatip-list.pdf",
+"url": "https://irp.fas.org/dia/aatip-list.pdf"
+}
+],
+"tier": "B",
+"type": "research"
+}
+],
+"date": "2010-01-01",
+"dateEnd": null,
+"dateStart": "2010-01-01",
+"deg": 1,
+"denials": [],
+"domains": [
+"w7-dirds-4"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "2",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "paul-czysz",
+"instId": null,
+"l0": false,
+"label": "Paul A. Czysz",
+"loc": null,
+"locId": null,
+"members": null,
+"narrative": "Paul Czysz is the author the DIA list names for \"Space Access,\" the AAWSAP survey of how the United States has reached orbit and how it might do so differently. He is the least exotic figure in the DIRD author set and that is precisely what makes him useful. Czysz was a McDonnell Douglas hypersonics man, named a McDonnell Douglas Fellow in 1986 for work on hypersonic aircraft concepts, and served as chief scientist on the National Aerospace Plane effort. He left industry for Saint Louis University, held the Oliver L. Parks Endowed Chair in the Department of Aerospace and Mechanical Engineering at Parks College, and ran his own consultancy, HyperTech Concepts LLC, which is the affiliation the DIA letter records against his name.\n\nHis DIRD, DIA-08-1001-006, is dated March 2010 with an Intelligence Cut-Off Date of 1 December 2009, and it sits in the Acquisition Threat Support series. Its contents are conventional aerospace engineering: hypersonic configuration concepts, thermodynamics and materials, rocket propulsion, launch options, operational cost of transatmospheric vehicles, landing ellipses for hypersonic gliders. There is no metric engineering in it and no anomalous physics. Its presence in the set matters for that reason. The thirty-eight DIRDs are routinely described as a wormhole-and-warp-drive catalogue; roughly half of them are ordinary technology forecasting of the kind a defence warning office commissions every year, and Czysz's paper is the clearest example. He is a control on the claim that AAWSAP was uniformly speculative.\n\nCzysz died in 2013, before the December 2017 disclosure of AATIP and well before the DIRDs surfaced in bulk in the 2022 FOIA release. He therefore never commented publicly on the programme, was never interviewed about it, and left no account of who commissioned the paper or what the tasking said. His custody proximity is nil and his access level was that of an unclassified subject-matter subcontractor. He is on the board as an author node, not as a witness.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Paul A. Czysz",
+"sources": [
+{
+"date": "2019-01-17",
+"name": "Keith Basterfield, \"Back to those 38 Defense Intelligence Reference Documents (DIRDs)\" — verbatim transcription of the DIA letter of 9 January 2018 and its attachment",
+"url": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html"
+},
+{
+"date": "2018-01-09",
+"name": "DIA, list of 38 AAWSAP/AATIP products transmitted to Congress, 9 January 2018 (FAS Intelligence Resource Program mirror)",
+"url": "https://irp.fas.org/dia/aatip-list.pdf"
+},
+{
+"date": "2010-03",
+"name": "Defense Intelligence Reference Document, \"Space Access: Where We've Been ... and Where We Could Go\" (The Black Vault FOIA release)",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_06-DIRD_Space_Access-Where_Weve_Been_and_Where_We_Could_Go.pdf"
+},
+{
+"date": null,
+"name": "Paul Czysz research profile, Saint Louis University, Department of Aerospace and Mechanical Engineering",
+"url": "https://www.researchgate.net/profile/Paul-Czysz"
+},
+{
+"date": "2013",
+"name": "Paul Czysz obituary, St. Louis Post-Dispatch",
+"url": "https://www.legacy.com/us/obituaries/stltoday/name/paul-czysz-obituary?pid=166480027"
+}
+],
+"status": "active",
+"sub": "Hypersonics engineer; President, HyperTech Concepts LLC; Professor Emeritus of Aerospace Engineering, Saint Louis University",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 884 of 1027, score 15). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D1.",
+"timeline": [],
+"unexplainedResidual": null,
+"unverified": []
+}

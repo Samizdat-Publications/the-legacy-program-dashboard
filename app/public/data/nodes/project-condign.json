@@ -1,0 +1,139 @@
+{
+"A": 2,
+"C": 1,
+"D": 3,
+"band": null,
+"claims": [
+{
+"source": "Ministry of Defence release note accompanying the Condign report, reproduced with the Internet Archive copy",
+"text": "MoD statement of origin and terms of reference: the study followed a 1996 policy review and was to determine the potential value of UAP reports to Defence Intelligence, to ascertain evidence of threat, 'and secondly, should the opportunity arise, to identify any potential military technologies of interest.'",
+"tier": 1
+},
+{
+"source": "Project Condign, Volume 1, Chapter 4 'Potential Related Military Technology', para 1",
+"text": "Study terms of reference explicitly included examining 'whether the phenomenon could be replicated and whether or not any other nation was attempting to exploit the same or derivatives of the phenomena', reported at Volume 3.",
+"tier": 1
+},
+{
+"source": "Project Condign, Volume 3, Chapter 3, para 8",
+"text": "Volume 3 Chapter 3 is titled 'Potential for Exploitation of UAP-Associated Effects' and its 'Potential Applications' paragraph 8 states 'the radar detection aspects have shown that there are three possible related potential applications' - the applications themselves being redacted under exemption s.26 (defence).",
+"tier": 1
+}
+],
+"cls": "program",
+"cluster": "ic",
+"connections": [
+{
+"claimTier": 3,
+"cls": "event",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "Three years before the policy review that commissioned Condign",
+"id": "cosford-incident-1993",
+"l0": false,
+"label": "Cosford incident, 30-31 March 1993",
+"note": "Reasoning: `project-condign`'s own text dates the commissioning policy review to 1996, and this is the named 1993 case in the released files. No opened record connects the two, and the edge is an inference from dates alone.",
+"sources": [
+{
+"date": "2009-08-17",
+"name": "TNA Highlights Guide, August 2009 tranche, read against the project-condign node",
+"url": "https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf"
+}
+],
+"tier": "B",
+"type": "temporal"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "2000",
+"dateStart": "2000",
+"direction": "out",
+"edgeLabel": "produced the four-volume report",
+"id": "doc-condign-report",
+"l0": true,
+"label": "Unidentified Aerial Phenomena in the UK Air Defence Region (DIS Scientific & Technical Memorandum 55/2/00)",
+"note": "Project Condign's output is 'Unidentified Aerial Phenomena in the UK Air Defence Region'.",
+"sources": [
+{
+"date": "2006-05-15",
+"name": "Project Condign - Internet Archive",
+"url": "https://archive.org/details/condign-vol-2-1-258"
+}
+],
+"tier": "A",
+"type": "programmatic"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "2000",
+"dateStart": "1996",
+"direction": "out",
+"edgeLabel": "study commissioned by and reporting on DI55",
+"id": "uk-di55",
+"l0": false,
+"label": "DI55 - Defence Intelligence Staff, Directorate of Scientific and Technical Intelligence",
+"note": "The product was issued as DIS Scientific & Technical Memorandum 55/2/00 and its key recommendation was addressed to DI55's own tasking.",
+"sources": [
+{
+"date": "2006-05-15",
+"name": "Condign Executive Summary",
+"url": "https://archive.org/download/condign-vol-2-1-258/uap_vol1_pgs87to99_ch4to5_djvu.txt"
+}
+],
+"tier": "C",
+"type": "programmatic"
+}
+],
+"coords": null,
+"dateEnd": "2000",
+"dateStart": "1996",
+"deg": 3,
+"denials": [],
+"desc": "Project Condign is the codename of the secret study run by the UK Defence Intelligence Staff between 1997 and 2000 whose product, 'Unidentified Aerial Phenomena in the UK Air Defence Region', is the most substantive government UAP analysis released by any American ally. The Ministry of Defence's own description of its origin is precise: 'During a policy review in 1996 into the handling of Unidentified Aerial Phenomena sighting reports received by the Ministry of Defence, a study was undertaken to determine the potential value, if any, of such reports to Defence Intelligence. Consistent with Ministry of Defence policy, the available data was studied principally to ascertain whether there is any evidence of a threat to the UK, and secondly, should the opportunity arise, to identify any potential military technologies of interest.' The second of those two objectives is the one that matters to this board: the British government commissioned a classified study explicitly to see whether UAP could be exploited militarily. The report was classified UK SECRET UK EYES ONLY in its sensitive volumes and UK RESTRICTED for the executive summary, ran to four volumes and roughly 400 pages, and drew on about 10,000 reports. Its author was never named; the MoD's publication-scheme record gives only 'DAS'. It was released on 15 May 2006 following a September 2005 FOI request by David Clarke and Gary Anthony.",
+"domains": [
+"w2-international"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "1",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "project-condign",
+"l0": false,
+"label": "Project Condign",
+"locLabel": null,
+"members": null,
+"short": "Project Condign",
+"sources": [
+{
+"date": "2006-05-15",
+"name": "Project Condign - Volumes 1-3 (Internet Archive)",
+"url": "https://archive.org/details/condign-vol-2-1-258"
+},
+{
+"date": "2006-05-15",
+"name": "Project Condign - Vol 1 Ch.4-5 OCR text",
+"url": "https://archive.org/download/condign-vol-2-1-258/uap_vol1_pgs87to99_ch4to5_djvu.txt"
+},
+{
+"date": "2006-05-15",
+"name": "Project Condign - Vol 3 OCR text",
+"url": "https://archive.org/download/condign-vol-2-1-258/Condign_Vol_3_1-48_djvu.txt"
+},
+{
+"date": "2006-05-15",
+"name": "MoD Publication Scheme - Executive Summary record",
+"url": "https://web.archive.org/web/20060515083956/http://www.mod.uk/DefenceInternet/FreedomOfInformation/PublicationScheme/SearchPublicationScheme/UapInTheUkAirDefenceRegionExecutiveSummary.htm"
+}
+],
+"sub": "UK Defence Intelligence Staff UAP study, 1997-2000",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 370 of 1027, score 34). 3 connections, 2 of them custody/witness/funding/programmatic. Axes C1/A2/D3.",
+"timeline": []
+}

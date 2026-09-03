@@ -1,0 +1,241 @@
+{
+"A": 1,
+"C": 1,
+"D": 2,
+"affiliations": [],
+"age": null,
+"band": null,
+"chronology": [],
+"claims": [
+{
+"source": "https://irp.fas.org/dia/aatip-list.pdf",
+"text": "The DIA list transmitted to the Senate Armed Services Committee on 9 January 2018 credits item 2, \"Advanced Nuclear Propulsion for Manned Deep Space Missions\", to \"Dr F Winterberg, Univ of Nevada-Reno\".",
+"tier": 1
+},
+{
+"source": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"text": "The same DIA list credits item 36, \"Negative Mass Propulsion\", to Dr F Winterberg, University of Nevada-Reno.",
+"tier": 2
+},
+{
+"source": "https://www.unr.edu/nevada-today/news/2009/physicists-findings-attract-notice-in-scientific-community",
+"text": "Winterberg is a research professor at the University of Nevada, Reno who received his PhD under Werner Heisenberg at the Max Planck Institute, Goettingen, and whose nuclear rocket propulsion work was recognised with the 1979 Hermann Oberth Gold Medal.",
+"tier": 1
+},
+{
+"source": "https://irp.fas.org/dia/aatip-list.pdf",
+"text": "Named on the DIA list of AATIP/AAWSAP products supplied to the Senate Armed Services Committee as author of 'Negative Mass Propulsion', affiliation University of Nevada, Reno.",
+"tier": 1
+},
+{
+"source": "https://www.theblackvault.com/documentarchive/the-advanced-aviation-threat-identification-program-aatip-dird-report-research/",
+"text": "Named on the same DIA list as author of item 2, 'Advanced Nuclear Propulsion for Manned Deep Space Missions', affiliation University of Nevada, Reno — making him a two-deliverable AAWSAP contributor.",
+"tier": 1
+},
+{
+"source": "https://ui.adsabs.harvard.edu/abs/2011JBIS...64....3W/abstract",
+"text": "German-American theoretical physicist and research professor at the University of Nevada, Reno, publishing in general relativity, Planck-scale physics, nuclear fusion and plasma physics; published related negative-mass propulsion work in the Journal of the British Interplanetary Society (2011).",
+"tier": 2
+}
+],
+"cls": "person",
+"cluster": "research",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "commissioned subject-matter author",
+"id": "aawsap",
+"l0": true,
+"label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)",
+"note": "Credited with two of the 38 AAWSAP deliverables: 'Advanced Nuclear Propulsion for Manned Deep Space Missions' (11 March 2010) and 'Negative Mass Propulsion' (3 January 2011, DIA-08-1101-023). Both released texts name AAWSAP. The work was contracted through the DIA/BAASS chain, not performed as a DIA employee. Tier 2: both documents have their 'Author' field redacted under FOIA exemption (b)(6), so the attribution rests on DIA's separate list of deliverables.",
+"sources": [
+{
+"date": "2010-03-11",
+"name": "DIRD, 'Advanced Nuclear Propulsion for Manned Deep Space Missions', 11 March 2010, 38 pp. (DIA FOIA release)",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_11-DIRD_Advanced_Nuclear_Propulsion_for_Manned_Deep_Space_Missions.pdf"
+},
+{
+"date": "2011-01-03",
+"name": "DIRD, 'Negative Mass Propulsion', 3 January 2011, 44 pp., DIA-08-1101-023 (DIA FOIA release)",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_29-DIRD_Negative_mass_Propulsion.pdf"
+},
+{
+"date": null,
+"name": "https://irp.fas.org/dia/aatip-list.pdf",
+"url": "https://irp.fas.org/dia/aatip-list.pdf"
+}
+],
+"tier": "A",
+"type": "funding"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "authored",
+"id": "dird-advanced-nuclear-propulsion-for-manned-deep",
+"l0": false,
+"label": "Advanced Nuclear Propulsion for Manned Deep Space Missions",
+"note": "Named as author on the DIA list of 38 AAWSAP products transmitted to the Senate Armed Services Committee, 9 January 2018, item 2. The released PDF redacts the author under (b)(6); the DIA list is the controlling source.",
+"sources": [
+{
+"date": "2026-08-22",
+"name": "Released DIRD, 'Advanced Nuclear Propulsion for Manned Deep Space Missions' — FOIA copy, cover page read 22 August 2026",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_11-DIRD_Advanced_Nuclear_Propulsion_for_Manned_Deep_Space_Missions.pdf"
+},
+{
+"date": "2026-08-22",
+"name": "DIA FOIA Electronic Reading Room entry for this reference document",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237657/"
+},
+{
+"date": "2026-08-23",
+"name": "DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations",
+"url": "https://fas.org/publication/aatip-list/"
+},
+{
+"date": null,
+"name": "https://irp.fas.org/dia/aatip-list.pdf",
+"url": "https://irp.fas.org/dia/aatip-list.pdf"
+}
+],
+"tier": "B",
+"type": "research"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "authored by",
+"id": "dird-negative-mass-propulsion",
+"l0": false,
+"label": "Negative Mass Propulsion",
+"note": "The DIA congressional list credits 'Negative Mass Propulsion' to 'Dr F Winterberg, Univ of Nevada-Reno'. Winterberg is also credited on the same list with 'Advanced Nuclear Propulsion for Manned Deep Space Missions', and published related negative-mass propulsion work in the Journal of the British Interplanetary Society in 2011.",
+"sources": [
+{
+"date": "2026-08-22",
+"name": "Released DIRD, 'Negative Mass Propulsion' — FOIA copy, cover page read 22 August 2026",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_29-DIRD_Negative_mass_Propulsion.pdf"
+},
+{
+"date": "2026-08-22",
+"name": "DIA FOIA Electronic Reading Room entry for this reference document",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237637/"
+},
+{
+"date": "2026-08-23",
+"name": "DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations",
+"url": "https://fas.org/publication/aatip-list/"
+},
+{
+"date": null,
+"name": "https://irp.fas.org/dia/aatip-list.pdf",
+"url": "https://irp.fas.org/dia/aatip-list.pdf"
+},
+{
+"date": null,
+"name": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html",
+"url": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html"
+},
+{
+"date": null,
+"name": "https://ui.adsabs.harvard.edu/abs/2011JBIS...64....3W/abstract",
+"url": "https://ui.adsabs.harvard.edu/abs/2011JBIS...64....3W/abstract"
+}
+],
+"tier": "B",
+"type": "research"
+}
+],
+"date": "2010-01-01",
+"dateEnd": null,
+"dateStart": "2010-01-01",
+"deg": 3,
+"denials": [],
+"domains": [
+"w7-dirds-1",
+"w7-dirds-3"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "2",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "friedwardt-winterberg",
+"instId": null,
+"l0": false,
+"label": "Friedwardt Winterberg",
+"loc": null,
+"locId": null,
+"members": null,
+"narrative": "Friedwardt Winterberg is a German-American theoretical physicist and research professor at the University of Nevada, Reno, with a long publication record spanning general relativity, Planck-scale physics, nuclear fusion and plasma physics. He appears twice on the DIA list of AATIP/AAWSAP products transmitted to the Senate Armed Services Committee: as author of item 2, 'Advanced Nuclear Propulsion for Manned Deep Space Missions', and as author of 'Negative Mass Propulsion', both with the affiliation University of Nevada, Reno.\n\nHis geographic placement matters to the shape of the programme. AAWSAP funding was directed by Senator Harry Reid toward a Nevada constituent, and the DIRD author list carries an unusually heavy Nevada concentration — Winterberg at UNR, and separate deliverables credited to the University of Nevada, Las Vegas. Winterberg is the only author on the list credited with two Nevada-institution papers, and both of his are propulsion physics rather than the anomalous-phenomena material that dominates the EarthTech contributions.\n\n'Negative Mass Propulsion' carries DIA document number DIA-08-1101-023, published 3 January 2011 with an Intelligence Cut-Off Date of 30 August 2010, in the 'Defense Futures' series, and its cover page identifies it as one of a series of advanced technology reports produced in FY 2010 under the AAWSA Program. The subject is the classic Bondi problem of runaway motion between positive and negative gravitational mass, considered as a propulsion concept: a vehicle accelerating without expelling reaction mass. Winterberg published closely related work in the peer-reviewed literature, which distinguishes his DIRD from several others on the list that have no independent scholarly footprint. The document was released by DIA under FOIA and posted to the DIA FOIA Electronic Reading Room; the author name is redacted on the released cover page under (b)(6), so the attribution rests on the congressional list rather than on the document itself.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Friedwardt Winterberg",
+"sources": [
+{
+"date": null,
+"name": "https://irp.fas.org/dia/aatip-list.pdf",
+"url": "https://irp.fas.org/dia/aatip-list.pdf"
+},
+{
+"date": null,
+"name": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html",
+"url": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html"
+},
+{
+"date": null,
+"name": "https://www.unr.edu/nevada-today/news/2009/physicists-findings-attract-notice-in-scientific-community",
+"url": "https://www.unr.edu/nevada-today/news/2009/physicists-findings-attract-notice-in-scientific-community"
+},
+{
+"date": null,
+"name": "https://en.wikipedia.org/wiki/Friedwardt_Winterberg",
+"url": "https://en.wikipedia.org/wiki/Friedwardt_Winterberg"
+},
+{
+"date": null,
+"name": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_11-DIRD_Advanced_Nuclear_Propulsion_for_Manned_Deep_Space_Missions.pdf",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_11-DIRD_Advanced_Nuclear_Propulsion_for_Manned_Deep_Space_Missions.pdf"
+},
+{
+"date": null,
+"name": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_29-DIRD_Negative_mass_Propulsion.pdf",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_29-DIRD_Negative_mass_Propulsion.pdf"
+},
+{
+"date": null,
+"name": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237637/",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237637/"
+},
+{
+"date": null,
+"name": "https://ui.adsabs.harvard.edu/abs/2011JBIS...64....3W/abstract",
+"url": "https://ui.adsabs.harvard.edu/abs/2011JBIS...64....3W/abstract"
+},
+{
+"date": null,
+"name": "theblackvault.com",
+"url": "https://www.theblackvault.com/documentarchive/the-advanced-aviation-threat-identification-program-aatip-dird-report-research/"
+}
+],
+"status": "active",
+"sub": "Theoretical physicist, Research Professor, University of Nevada, Reno; author of two AAWSAP DIRDs",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 378 of 1027, score 33). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A1/D2.",
+"timeline": [],
+"unexplainedResidual": null,
+"unverified": []
+}

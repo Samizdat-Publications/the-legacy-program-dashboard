@@ -1,0 +1,134 @@
+{
+"A": 3,
+"C": 1,
+"D": 3,
+"band": null,
+"claims": [
+{
+"source": "https://www.govinfo.gov/content/pkg/PLAW-119publ60/html/PLAW-119publ60.htm",
+"text": "Section 6101, IAA FY2026: 'Funds are hereby authorized to be appropriated for fiscal year 2026 for the conduct of the intelligence and intelligence-related activities of the Federal Government' - with no amount stated.",
+"tier": 1
+},
+{
+"source": "https://www.govinfo.gov/content/pkg/PLAW-119publ60/html/PLAW-119publ60.htm",
+"text": "Section 6102(a): the amounts authorised 'are those specified in the classified Schedule of Authorizations prepared to accompany this division.'",
+"tier": 1
+},
+{
+"source": "https://www.govinfo.gov/content/pkg/PLAW-119publ60/html/PLAW-119publ60.htm",
+"text": "Section 6102(b)(3): 'The President shall not publicly disclose the classified Schedule of Authorizations or any portion of such Schedule' except under 50 U.S.C. 3306(a), to the extent necessary to implement the budget, or as otherwise required by law.",
+"tier": 1
+},
+{
+"source": "https://www.govinfo.gov/content/pkg/PLAW-119publ60/html/PLAW-119publ60.htm",
+"text": "Section 6103 authorises $678,853,000 for the Intelligence Community Management Account in public text plus 'such additional amounts as are specified in the classified Schedule of Authorizations.'",
+"tier": 1
+},
+{
+"source": "https://www.govinfo.gov/content/pkg/PLAW-119publ60/html/PLAW-119publ60.htm",
+"text": "The classified Schedule is made available only to the two Appropriations Committees and the President, who distributes it within the executive branch.",
+"tier": 1
+}
+],
+"cls": "document",
+"cluster": "ic",
+"connections": [
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": null,
+"dateStart": "2025-12-18",
+"direction": "out",
+"edgeLabel": "The Schedule is the instrument by which the entire NIP is authorised",
+"id": "nip",
+"l0": true,
+"label": "National Intelligence Program (NIP)",
+"note": "Section 6102(a) of the FY2026 Intelligence Authorization Act provides that the amounts authorised for intelligence activities 'are those specified in the classified Schedule of Authorizations prepared to accompany this division'. Attested by the statute itself.",
+"sources": [
+{
+"date": "2025-12-18",
+"name": "IAA FY2026 (Division F, P.L. 119-60), Sec. 6102",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-119publ60/html/PLAW-119publ60.htm"
+}
+],
+"tier": "B",
+"type": "funding"
+},
+{
+"claimTier": 3,
+"cls": "document",
+"dateEnd": null,
+"dateStart": "2013-08-29",
+"direction": "in",
+"edgeLabel": "What the Schedule of Authorizations looks like from the inside",
+"id": "nip-fy2013-summary-disclosure",
+"l0": false,
+"label": "National Intelligence Program Summary for FY2013 (excerpts) - the 2013 black budget disclosure",
+"note": "The FY2013 excerpts show agency, programme and objective-level detail of the kind that section 6102 of the Intelligence Authorization Act keeps in the classified Schedule. The inference that the two documents describe the same structure is reasoned; no source states it.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "FAS Intelligence Resource Program, Intelligence Budget Data",
+"url": "https://irp.fas.org/budget/index.html"
+}
+],
+"tier": "B",
+"type": "programmatic"
+},
+{
+"claimTier": 1,
+"cls": "legislation",
+"dateEnd": null,
+"dateStart": "2025-12-18",
+"direction": "out",
+"edgeLabel": "Section 3306(a) is the sole affirmative exception to the bar on disclosing the Schedule",
+"id": "usc-50-3306",
+"l0": false,
+"label": "50 U.S.C. 3306 - Public disclosure of NIP aggregate amounts",
+"note": "Section 6102(b)(3)(A) names 50 U.S.C. 3306(a) as the one statutory route by which any portion of the classified Schedule may be publicly disclosed. Attested by the enacted text.",
+"sources": [
+{
+"date": "2025-12-18",
+"name": "IAA FY2026, Sec. 6102(b)(3)",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-119publ60/html/PLAW-119publ60.htm"
+}
+],
+"tier": "C",
+"type": "legislative"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "1978",
+"deg": 3,
+"denials": [],
+"desc": "On the intelligence side the concealment is even cleaner, and it is stated in the statute itself. Section 6101 of the Intelligence Authorization Act for Fiscal Year 2026 (division F of Public Law 119-60) reads in its entirety: 'Funds are hereby authorized to be appropriated for fiscal year 2026 for the conduct of the intelligence and intelligence-related activities of the Federal Government.' No amount. Section 6102 then supplies the missing numbers by reference: 'The amounts authorized to be appropriated under section 6101 for the conduct of the intelligence activities of the Federal Government are those specified in the classified Schedule of Authorizations prepared to accompany this division.' The Schedule is made available to the two Appropriations Committees and to the President; the President distributes it, or portions, within the executive branch; and section 6102(b)(3) provides that 'The President shall not publicly disclose the classified Schedule of Authorizations or any portion of such Schedule' except as provided in section 601(a) of the 9/11 Commission Act (50 U.S.C. 3306(a) - the aggregate topline), to the extent necessary to implement the budget, or as otherwise required by law. The same Act shows the technique at line level: section 6103 authorises $678,853,000 for the Intelligence Community Management Account in public text and then adds 'such additional amounts as are specified in the classified Schedule of Authorizations referred to in section 6102(a).' A published number, a secret number, and a statutory instruction to the President not to reveal which is which. For a board investigating how a programme is funded without appearing anywhere, this section is the answer written by Congress in its own hand.",
+"domains": [
+"w2-black-budget"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "1",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "classified-schedule-authorizations",
+"l0": false,
+"label": "The Classified Schedule of Authorizations (Intelligence Authorization Act)",
+"locLabel": null,
+"members": null,
+"short": "The Classified Schedule of Authorizations (Intelligence Authorization Act)",
+"sources": [
+{
+"date": "2025-12-18",
+"name": "NDAA FY2026 / IAA FY2026 (P.L. 119-60), Division F, Secs. 6101-6103",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-119publ60/html/PLAW-119publ60.htm"
+}
+],
+"sub": "The document in which the entire intelligence budget is actually authorised; never published",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 206 of 1027, score 43). 3 connections, 2 of them custody/witness/funding/programmatic. Axes C1/A3/D3.",
+"timeline": []
+}

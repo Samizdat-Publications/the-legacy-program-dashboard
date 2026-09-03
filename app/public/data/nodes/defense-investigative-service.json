@@ -1,0 +1,108 @@
+{
+"A": 1,
+"C": 1,
+"D": 3,
+"band": null,
+"claims": [
+{
+"source": "GAO accession 130581, statement of Martin M. Ferber, 24 July 1986",
+"text": "Special access contracts are 'carved out of the Defense Investigative Service's periodic inspection program', following a 1965 DoD decision that special access programs 'would be excluded from supervision by the Defense Investigative Service'.",
+"tier": 1
+},
+{
+"source": "GAO/NSIAD-86-191, B-223830, 7 August 1986, signed Frank C. Conahan",
+"text": "GAO told the Secretary of Defense that the Lockheed document-accountability failure 'may not have occurred if the Defense Investigative Service had been permitted to conduct semiannual inspections of the contract, as it does with other contracts at Lockheed' -- establishing that DIS inspected Lockheed's non-special-access work while excluded from the special access contract at the same company.",
+"tier": 1
+},
+{
+"source": "GAO accession 130581, 24 July 1986, describing GAO/GGD-83-43 -- the earlier report was not read",
+"text": "GAO/GGD-83-43 of 18 February 1983, 'Further Improvements Needed in Department of Defense Oversight of Special Access (Carve-Out) Contracts', recommended change and DoD refused. The 1986 testimony gives DoD's stated reasons, including that 'access by Service inspectors would proliferate access beyond the minimum number of persons necessary.' The 1983 report itself was not opened in this pass.",
+"tier": 2
+}
+],
+"cls": "institution",
+"cluster": "oversight",
+"connections": [
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "1986",
+"dateStart": "1986",
+"direction": "in",
+"edgeLabel": "documents the 1965 exclusion of special access programs from DIS supervision",
+"id": "gao-130581",
+"l0": false,
+"label": "GAO accession 130581 - Controls Over Classified Documents for a Special Access Program at Lockheed Corporation",
+"note": "'In 1965, DOD decided that special access programs, because of their especially sensitive nature and small number, would be excluded from supervision by the Defense Investigative Service.'",
+"sources": [
+{
+"date": "1986-07-24",
+"name": "GAO accession 130581, testimony of 24 July 1986",
+"url": "https://www.gao.gov/assets/130581.pdf"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "1986",
+"dateStart": "1965",
+"direction": "out",
+"edgeLabel": "inspected Lockheed's other contracts while excluded from its special access contract",
+"id": "lockheed-martin",
+"l0": true,
+"label": "Lockheed Martin Corporation",
+"note": "GAO to the Secretary of Defense: the failure 'may not have occurred if the Defense Investigative Service had been permitted to conduct semiannual inspections of the contract, as it does with other contracts at Lockheed.'",
+"sources": [
+{
+"date": "1986-08-07",
+"name": "GAO/NSIAD-86-191, 7 August 1986",
+"url": "https://www.gao.gov/assets/nsiad-86-191.pdf"
+}
+],
+"tier": "A",
+"type": "institutional"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": null,
+"deg": 2,
+"denials": [],
+"desc": "The Defense Investigative Service is the body whose absence the board keeps having to explain. It conducted the periodic industrial security inspections of cleared contractor facilities -- including, GAO says in terms, other contracts at Lockheed -- and it was excluded from special access programs by a Department of Defense decision in 1965. GAO's own vocabulary preserves the mechanism: special access contracts are called carve-out contracts 'because they are carved out of the Defense Investigative Service's periodic inspection program'.\n\nTwo GAO findings bracket what that exclusion cost. In February 1983, GAO/GGD-83-43 recommended improvements in DoD oversight of carve-out contracts and DoD refused, on stated grounds including that 'access by Service inspectors would proliferate access beyond the minimum number of persons necessary'. In August 1986, after the Lockheed document-control failure, GAO told the Secretary of Defense that the failure 'may not have occurred if the Defense Investigative Service had been permitted to conduct semiannual inspections of the contract, as it does with other contracts at Lockheed.' The board carries DIS because the argument it makes about custody is not that oversight failed but that oversight was structurally absent, and this is the office that was absent from it.",
+"domains": [
+"legacy-1947-86"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "nd",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "defense-investigative-service",
+"l0": false,
+"label": "Defense Investigative Service",
+"locLabel": null,
+"members": null,
+"short": "Defense Investigative Service",
+"sources": [
+{
+"date": "1986-07-24",
+"name": "GAO accession 130581, testimony of 24 July 1986",
+"url": "https://www.gao.gov/assets/130581.pdf"
+},
+{
+"date": "1986-08-07",
+"name": "GAO/NSIAD-86-191, 7 August 1986",
+"url": "https://www.gao.gov/assets/nsiad-86-191.pdf"
+}
+],
+"sub": "DoD industrial security inspectorate; excluded from special access programs by a 1965 decision",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 679 of 1027, score 23). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D3.",
+"timeline": []
+}

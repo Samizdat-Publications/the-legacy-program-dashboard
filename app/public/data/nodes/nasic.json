@@ -1,0 +1,135 @@
+{
+"A": 3,
+"C": 2,
+"D": 1,
+"band": null,
+"claims": [
+{
+"source": "The Debrief, 5 June 2023",
+"text": "A serving NASIC intelligence officer with Top Secret clearance corroborated Grusch on the record under the pseudonym Jonathan Grey.",
+"tier": 2
+}
+],
+"cls": "institution",
+"cluster": "ic",
+"connections": [
+{
+"claimTier": 2,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "1997",
+"direction": "in",
+"edgeLabel": "Co-located at Wright-Patterson with the successor to the Foreign Technology Division",
+"id": "afrl",
+"l0": false,
+"label": "Air Force Research Laboratory",
+"note": "NASIC is the lineal successor to ATIC and FTD, the organisations that ran SIGN, GRUDGE and BLUE BOOK and exploited foreign aerospace materiel. AFRL and NASIC share the installation.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "National Archives - Unidentified Flying Objects / Project BLUE BOOK",
+"url": "https://www.archives.gov/research/military/air-force/ufos"
+}
+],
+"tier": "B",
+"type": "geographic"
+},
+{
+"claimTier": 2,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "Same Wright-Patterson lineage; NASIC is the later name",
+"id": "foreign-technology-division",
+"l0": false,
+"label": "Foreign Technology Division, Wright-Patterson AFB",
+"note": "The organizational-history compilation carries the FTD to NASIC lineage at the same station; no official Air Force page could be opened from here to raise this above Tier 2.",
+"sources": [
+{
+"date": "2025-12-10",
+"name": "Aerospace Technical Intelligence Center, DAF Organizational Histories compilation sourced to AFHRA",
+"url": "https://www.usafunithistory.com/PDF/A-E/AEROSPACE%20TECHNICAL%20INTELLIGENCE%20CENTER.pdf"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "2023",
+"direction": "in",
+"edgeLabel": "Serving intelligence officer at NASIC, Wright-Patterson AFB",
+"id": "jonathan-grey",
+"l0": false,
+"label": "\"Jonathan Grey\" (pseudonym)",
+"note": "Kean identifies Grey as a currently serving NASIC officer with Top Secret clearance; the installation is the historical center of gravity for every legacy custody allegation.",
+"sources": [
+{
+"date": "2023-06-05",
+"name": "The Debrief",
+"url": "https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 2,
+"cls": "location",
+"dateEnd": null,
+"dateStart": "1993",
+"direction": "out",
+"edgeLabel": "NASIC is the current tenant institution at Wright-Patterson",
+"id": "l-wright-patterson",
+"l0": false,
+"label": "Wright-Patterson Air Force Base, Ohio",
+"note": "The National Air and Space Intelligence Center is a Wright-Patterson tenant and the direct institutional heir to ATIC/FTD's foreign materiel exploitation mission.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Wikipedia - Wright-Patterson Air Force Base",
+"url": "https://en.wikipedia.org/wiki/Wright-Patterson_Air_Force_Base"
+}
+],
+"tier": "A",
+"type": "institutional"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "1961",
+"deg": 4,
+"denials": [],
+"desc": "NASIC is the Air Force's foreign air and space capability analysis center, headquartered at Wright-Patterson AFB - the same installation at the center of every legacy custody allegation from 1947 forward, and the successor lineage to the Air Technical Intelligence Center that ran Project Sign, Grudge and Blue Book. Its relevance to the Grusch node is that a serving Top Secret-cleared NASIC intelligence officer, under the name Jonathan Grey, went on the record in the 5 June 2023 Debrief article to state that the non-human intelligence phenomenon is real and that retrievals are not limited to the United States. That an officer at this specific installation would corroborate, and would corroborate only under a pseudonym, is the single most geographically pointed data point in the article.",
+"domains": [
+"grusch"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "nasic",
+"l0": false,
+"label": "National Air and Space Intelligence Center",
+"locLabel": null,
+"members": null,
+"short": "National Air and Space Intelligence Center",
+"sources": [
+{
+"date": "2023-06-05",
+"name": "The Debrief - Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin",
+"url": "https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/"
+}
+],
+"sub": "USAF intelligence center, Wright-Patterson AFB",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 618 of 1027, score 25). 4 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A3/D1.",
+"timeline": []
+}

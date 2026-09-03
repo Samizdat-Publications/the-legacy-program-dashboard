@@ -1,0 +1,121 @@
+{
+"A": 0,
+"C": 1,
+"D": 1,
+"affiliations": [
+"US Navy",
+"USS Princeton (CG-59), Carrier Strike Group 11 (2004)"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "2004-11-14",
+"event": "Aboard USS Princeton during the Tic Tac intercept",
+"precision": "day"
+},
+{
+"date": "2004-11-15",
+"event": "Describes outside personnel aboard and material removed (attributed account, no primary record located)",
+"precision": "day"
+}
+],
+"claims": [
+{
+"source": "Public interviews by USS Princeton crew, 2018-2019; no primary record located as of Aug 2026",
+"text": "Multiple USS Princeton enlisted crewmen independently describe unidentified personnel removing recorded material within days of 14 Nov 2004. Reasoning: convergence of several separately given accounts from different divisions is evidentiary weight short of proof; it is graded as inference because no record has been produced.",
+"tier": 3
+}
+],
+"cls": "person",
+"cluster": "witness",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 3,
+"cls": "event",
+"dateEnd": "2004-11-18",
+"dateStart": "2004-11-15",
+"direction": "out",
+"edgeLabel": "Turner independently corroborates the confiscation window",
+"id": "nimitz-2004",
+"l0": true,
+"label": "USS Nimitz Carrier Strike Group Encounters, 10-16 November 2004",
+"note": "Turner is one of several Princeton crewmen in different divisions describing the same 48-hour window in the same terms. The convergence is evidentiary weight short of proof; no document confirms it.",
+"sources": [
+{
+"date": "2023-01-13",
+"name": "The War Zone - Tic Tac incident in newly released range fouler reports",
+"url": "https://www.twz.com/tic-tac-uap-incident-included-in-72-newly-released-range-incursion-reports"
+}
+],
+"tier": "A",
+"type": "custody"
+},
+{
+"claimTier": 3,
+"cls": "institution",
+"dateEnd": "2004",
+"dateStart": "2004",
+"direction": "out",
+"edgeLabel": "Crewman aboard USS Princeton, Nov 2004",
+"id": "uss-princeton",
+"l0": false,
+"label": "USS Princeton (CG-59)",
+"note": "Turner is one of several Princeton enlisted crew who have publicly described the post-encounter arrival of outside personnel; his rate and division are not established from primary records.",
+"sources": [
+{
+"date": "2023-01-14",
+"name": "The War Zone - Tic Tac incident in newly released range fouler reports",
+"url": "https://www.twz.com/tic-tac-uap-incident-included-in-72-newly-released-range-incursion-reports"
+}
+],
+"tier": "B",
+"type": "institutional"
+}
+],
+"date": "2004-11-15",
+"dateEnd": null,
+"dateStart": "2004-11-15",
+"deg": 2,
+"denials": [],
+"domains": [
+"aviators-incidents"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "2",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "jason-turner",
+"instId": "uss-princeton",
+"l0": false,
+"label": "Jason Turner",
+"loc": "United States",
+"locId": "l-socal-oparea",
+"members": null,
+"narrative": "Turner is one of the secondary USS Princeton crewmen who has publicly described the aftermath of the 14 November 2004 encounter, including the arrival of personnel who were not part of the strike group and the removal of recorded material. He matters less for what he saw in the air than for the corroboration structure: the confiscation account for the Nimitz incident does not rest on a single man. It rests on several enlisted crew in different divisions describing the same 48-hour window in the same terms. That is the pattern the board should hold onto - and it is also the pattern that most needs a document. No FOIA release, deck-log entry, or Navy statement has yet confirmed any part of it. Turner is carried here at tier C, as a named node in a witness chain, with the evidentiary hole stated rather than papered over.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Jason Turner",
+"sources": [
+{
+"date": "2023-01-14",
+"name": "The War Zone - Tic Tac incident in newly released range fouler reports",
+"url": "https://www.twz.com/tic-tac-uap-incident-included-in-72-newly-released-range-incursion-reports"
+}
+],
+"status": "active",
+"sub": "USS Princeton (CG-59) crewman, Nov 2004; secondary confiscation witness",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 937 of 1027, score 12). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A0/D1.",
+"timeline": [],
+"unexplainedResidual": null,
+"unverified": [
+"Turner's exact rate, division and billet aboard Princeton in Nov 2004.",
+"Any document corroborating an unscheduled embarkation of outside personnel."
+]
+}

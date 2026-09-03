@@ -1,0 +1,198 @@
+{
+"A": 3,
+"C": 2,
+"D": 0,
+"affiliations": [
+"nro",
+"odni"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "2026-08-12",
+"event": "Listed by NRO as Acting Director",
+"precision": "day"
+}
+],
+"claims": [
+{
+"source": "NRO About page, retrieved 12 August 2026",
+"text": "NRO lists William B. Adkins as Acting Director and describes its workforce as 31% NRO cadre, 34% detailed government personnel and 35% military.",
+"tier": 1
+},
+{
+"source": "ODNI Preliminary Assessment, 25 June 2021",
+"text": "NRO is named among the contributing elements to ODNI's 25 June 2021 Preliminary Assessment on UAP.",
+"tier": 1
+}
+],
+"cls": "person",
+"cluster": "other",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "CIA officer detailed to NRO advanced systems",
+"id": "cia",
+"l0": true,
+"label": "Central Intelligence Agency",
+"note": "The NRO's own biography states: 'From 1997 to 2000, Mr. Adkins worked for the Central Intelligence Agency and was assigned to the NRO in the Advanced Systems and Technology Directorate, where he managed several technology development projects.' The CIA employment and the NRO assignment are the same three years.",
+"sources": [
+{
+"date": "2026-08-25",
+"name": "National Reconnaissance Office, leadership biography of William B. Adkins",
+"url": "https://www.nro.gov/About-NRO/Leadership/leadership-adkins/"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "Staff Director, House Space and Aeronautics Subcommittee",
+"id": "nasa",
+"l0": true,
+"label": "National Aeronautics and Space Administration",
+"note": "Per the NRO biography: 'From 2000 to 2006, he served on the House Science Committee and was appointed Staff Director for the House Space and Aeronautics Subcommittee, where he led the subcommittee's legislative and oversight activities of NASA and other agencies involved in civilian space.' The relationship is oversight of NASA from the committee side, not employment by it.",
+"sources": [
+{
+"date": "2026-08-25",
+"name": "National Reconnaissance Office, leadership biography of William B. Adkins",
+"url": "https://www.nro.gov/About-NRO/Leadership/leadership-adkins/"
+},
+{
+"date": null,
+"name": "https://spacenews.com/william-adkins-named-staff-director-of-house-committee-on-sciences-space-and-aeronautics-subcommittee/",
+"url": "https://spacenews.com/william-adkins-named-staff-director-of-house-committee-on-sciences-space-and-aeronautics-subcommittee/"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "Principal Deputy Director, then Acting Director, NRO",
+"id": "nro",
+"l0": true,
+"label": "National Reconnaissance Office",
+"note": "NRO's official leadership page lists Adkins as 'Acting Director, NRO' and states he 'was appointed Principal Deputy Director, National Reconnaissance Office (PDDNRO), on 12 January 2026,' with 'overall day-to-day management of the NRO.'",
+"sources": [
+{
+"date": "2026-08-25",
+"name": "National Reconnaissance Office, leadership biography of William B. Adkins",
+"url": "https://www.nro.gov/About-NRO/Leadership/leadership-adkins/"
+},
+{
+"date": null,
+"name": "https://www.nro.gov/Portals/135/Documents/about/leadership/bios/2026_Adkins_Bio_Final.pdf",
+"url": "https://www.nro.gov/Portals/135/Documents/about/leadership/bios/2026_Adkins_Bio_Final.pdf"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "House Appropriations Defense subcommittee staff overseeing NRO/NSA/NGA",
+"id": "us-house",
+"l0": true,
+"label": "United States House of Representatives",
+"note": "Before becoming PDDNRO he 'served on the professional staff of the House Appropriations Committee, Subcommittee on Defense, where he led the subcommittee's oversight and legislative responsibility for the NRO, U.S. Space Force, U.S. Space Command, National Geospatial-Intelligence Agency, National Security Agency, and U.S. Cyber Command' - the panel that writes the classified defense appropriations annex.",
+"sources": [
+{
+"date": "2026-08-11",
+"name": "Archived: ODNI, Preliminary Assessment: Unidentified Aerial Phenomena (Wayback 2026-08-11)",
+"url": "https://web.archive.org/web/20260811010946/https://archive.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf"
+},
+{
+"date": "2026-08-12",
+"name": "National Reconnaissance Office - About NRO",
+"url": "https://www.nro.gov/About-NRO/"
+},
+{
+"date": null,
+"name": "https://www.nro.gov/About-NRO/Leadership/leadership-adkins/",
+"url": "https://www.nro.gov/About-NRO/Leadership/leadership-adkins/"
+}
+],
+"tier": "B",
+"type": "institutional"
+}
+],
+"date": "2026-08-12",
+"dateEnd": null,
+"dateStart": "2026-08-12",
+"deg": 4,
+"denials": [],
+"domains": [
+"_rs-archive-mirror",
+"w2-agencies"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "william-b-adkins",
+"instId": "nro",
+"l0": false,
+"label": "William B. Adkins",
+"loc": "Chantilly, Virginia",
+"locId": null,
+"members": null,
+"narrative": "William B. Adkins is listed by the National Reconnaissance Office as its Acting Director as of August 2026. The NRO he leads describes a workforce that is 31 percent NRO cadre, 34 percent government personnel detailed from other agencies and 35 percent military - a hybrid structure that is itself part of the concealment story, because it means most of the people who work there are on someone else's books. The NRO is the agency whose very existence was an official secret for three decades, the agency named among the contributing elements to ODNI's June 2021 Preliminary Assessment on UAP, and the agency that seconded David Grusch to the Unidentified Aerial Phenomena Task Force - Grusch's official House Oversight witness title on 26 July 2023 was 'Former National Reconnaissance Officer Representative, Unidentified Anomalous Phenomena Task Force, Department of Defense'. Despite that, the NRO has transferred no records to the statutory UAP collection at the National Archives, published no UAP FOIA collection, and put up no witness at any hearing. Adkins has made no public statement on UAP.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "William B. Adkins",
+"sources": [
+{
+"date": "2026-08-11",
+"name": "Archived: ODNI, Preliminary Assessment: Unidentified Aerial Phenomena (Wayback 2026-08-11)",
+"url": "https://web.archive.org/web/20260811010946/https://archive.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf"
+},
+{
+"date": "2026-08-12",
+"name": "National Reconnaissance Office - About NRO",
+"url": "https://www.nro.gov/About-NRO/"
+},
+{
+"date": "2021-06-25",
+"name": "ODNI, Preliminary Assessment: Unidentified Aerial Phenomena",
+"url": "https://archive.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf"
+},
+{
+"date": "2023-07-26",
+"name": "House Oversight Committee hearing notice, 26 July 2023",
+"url": "https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/"
+}
+],
+"status": "active",
+"sub": "Acting Director, National Reconnaissance Office",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 550 of 1027, score 27). 4 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A3/D0.",
+"timeline": [],
+"unexplainedResidual": null,
+"unverified": [
+"Whether a Senate-confirmed Director of the NRO was in place at any point in 2026; the agency's own page listed an Acting Director as of 12 August 2026."
+]
+}

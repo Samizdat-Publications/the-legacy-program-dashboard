@@ -1,0 +1,194 @@
+{
+"A": 3,
+"C": 1,
+"D": 3,
+"affiliations": [
+"US Army, Colonel (ret.)",
+"UAP Task Force, Army liaison (2021-2022)",
+"The Sol Foundation (advisory)",
+"UAP Disclosure Fund (board, resigned 2025)"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "2021-01-01",
+"event": "Serves as Army liaison to the UAP Task Force",
+"precision": "year"
+},
+{
+"date": "2023-06-05",
+"event": "On-record corroboration of Grusch in The Debrief",
+"precision": "day"
+},
+{
+"date": "2024-05-01",
+"event": "SALT iConnections remarks: 'There's zero doubt'",
+"precision": "month"
+},
+{
+"date": "2025-03-05",
+"event": "Reported to have stepped down from the UAP Disclosure Fund board",
+"precision": "day"
+}
+],
+"claims": [
+{
+"source": "Karl Nell to Leslie Kean and Ralph Blumenthal, The Debrief, 5 June 2023",
+"text": "'Beyond reproach' - Nell's on-record characterization of Grusch.",
+"tier": 2
+},
+{
+"source": "Karl Nell, on the record, The Debrief, 5 June 2023",
+"text": "Grusch's assertion of an eighty-year sub rosa arms race focused on reverse engineering technologies of unknown origin is 'fundamentally correct,' and at least some of those technologies derive from non-human intelligence.",
+"tier": 2
+},
+{
+"source": "Karl Nell, SALT iConnections conference, May 2024",
+"text": "'Non-human intelligence exists, non-human intelligence has been interacting with humanity. This interaction is not new, and it's been ongoing, and unelected people in the government are aware of that. There's zero doubt.'",
+"tier": 2
+}
+],
+"cls": "person",
+"cluster": "legacy",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "2023",
+"direction": "out",
+"edgeLabel": "On-record corroboration: 'beyond reproach' and the arms race is 'fundamentally correct'",
+"id": "david-grusch",
+"l0": false,
+"label": "David Charles Grusch",
+"note": "A named retired Army colonel who served as the Army's UAP Task Force liaison affirmed both Grusch's character and the substance of the eighty-year reverse-engineering allegation, in print, on the record, on 5 June 2023. AARO has never addressed this statement by name.",
+"sources": [
+{
+"date": "2023-06-05",
+"name": "The Debrief",
+"url": "https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/"
+},
+{
+"date": "2024-05-27",
+"name": "A Very Exciting Time - Karl Nell at SALT",
+"url": "https://veryexcitingtime.com/episodes/2024/45-nell-salt/"
+}
+],
+"tier": "A",
+"type": "witness-chain"
+},
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": "2024",
+"dateStart": "2024",
+"direction": "out",
+"edgeLabel": "Mace read his 'nonhuman intelligence exists' statement into the hearing record",
+"id": "hearing-2024-11-13",
+"l0": true,
+"label": "House Oversight joint hearing, 13 November 2024 - 'Unidentified Anomalous Phenomena: Exposing the Truth'",
+"note": "Nell did not testify; his May 2024 conference statement was quoted from the chair.",
+"sources": [
+{
+"date": "2024-11-13",
+"name": "U.S. GPO, Hearing transcript, Serial No. 118-135 (CHRG-118hhrg57440)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm"
+}
+],
+"tier": "A",
+"type": "witness-chain"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2025",
+"direction": "in",
+"edgeLabel": "Nell published 'The UFO Enigma: A Call for US Government Disclosure' through Sol in May 2025",
+"id": "sol-foundation",
+"l0": true,
+"label": "The Sol Foundation",
+"note": "The foundation's white-paper series is the venue through which former programme-adjacent officials put structured disclosure arguments into the public record under their own names.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "The Sol Foundation - White Papers and Policy Briefings index",
+"url": "https://thesolfoundation.org/white-papers/"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 2,
+"cls": "program",
+"dateEnd": "2022",
+"dateStart": "2021",
+"direction": "out",
+"edgeLabel": "Army liaison to the UAP Task Force, 2021-2022",
+"id": "uap-task-force",
+"l0": true,
+"label": "Unidentified Aerial Phenomena Task Force (UAPTF)",
+"note": "Nell's Task Force role is what converts his corroboration from opinion into positional testimony: he sat inside the same organization Grusch reported to.",
+"sources": [
+{
+"date": "2023-06-05",
+"name": "The Debrief",
+"url": "https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/"
+}
+],
+"tier": "A",
+"type": "institutional"
+}
+],
+"date": "2023-06-05",
+"dateEnd": null,
+"dateStart": "2023-06-05",
+"deg": 4,
+"denials": [],
+"domains": [
+"grusch"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "karl-nell",
+"instId": "uap-task-force",
+"l0": false,
+"label": "Karl E. Nell",
+"loc": "Washington, DC",
+"locId": "l-dc",
+"members": null,
+"narrative": "Nell is the most consequential corroborator in the Grusch record because he attached his own name to it while Grusch's credibility was still being contested. A retired Army colonel who served as the Army's liaison to the UAP Task Force from 2021 to 2022, Nell told Kean and Blumenthal on the record for the 5 June 2023 Debrief piece that Grusch is 'beyond reproach' and, more importantly, that Grusch's assertion concerning the existence of a terrestrial arms race occurring sub rosa over the past eighty years focused on reverse engineering technologies of unknown origin is fundamentally correct, as is the indisputable realization that at least some of those technologies derive from non-human intelligence. That is not a character reference; it is a Task Force liaison independently affirming the substance. He escalated in May 2024 at the SALT iConnections conference: non-human intelligence exists, has been interacting with humanity, the interaction is not new, unelected people in government are aware of it, and there is zero doubt. AARO's Historical Record Report never engages Nell's affirmation by name; it addresses interviewees in the aggregate and asserts none had firsthand knowledge - a formulation that does not answer a named Task Force liaison speaking in the first person.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Karl E. Nell",
+"sources": [
+{
+"date": "2023-06-05",
+"name": "The Debrief - Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin",
+"url": "https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/"
+},
+{
+"date": "2024-05-27",
+"name": "A Very Exciting Time - 'Zero Doubt': Karl Nell speaks about Non-Human Intelligence on Earth",
+"url": "https://veryexcitingtime.com/episodes/2024/45-nell-salt/"
+}
+],
+"status": "active",
+"sub": "Col. (ret.), US Army; Army liaison to the UAP Task Force 2021-2022",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 322 of 1027, score 35). 4 connections, 2 of them custody/witness/funding/programmatic. Axes C1/A3/D3.",
+"timeline": [],
+"unexplainedResidual": null,
+"unverified": [
+"Which specific programs or individuals underpin Nell's 'zero doubt' formulation - he has never enumerated them publicly."
+]
+}

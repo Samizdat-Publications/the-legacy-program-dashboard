@@ -1,0 +1,556 @@
+{
+"A": 3,
+"C": 1,
+"D": 3,
+"affiliations": [
+"Senate Select Committee on Intelligence, Minority Staff Director",
+"Deputy Assistant Secretary of Defense for Intelligence (Clinton/Bush)",
+"To The Stars Academy of Arts & Science, National Security Affairs Advisor (2017-2020)",
+"Sol Foundation advisory circle",
+"Senate Select Committee on Intelligence, minority staff director",
+"Deputy Assistant Secretary of Defense for Intelligence (Clinton administration)",
+"To The Stars Academy (2017-2020)",
+"Americans for Safe Aerospace / The Sol Foundation (advisory)",
+"Deputy Assistant Secretary of Defense for Intelligence (1999-2002)",
+"Minority Staff Director, Senate Select Committee on Intelligence",
+"To The Stars Academy (2017-2021)",
+"Disclosure Foundation",
+"formerly Office of the Secretary of Defense",
+"formerly Senate Select Committee on Intelligence"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "2017-10-11",
+"event": "Announced as TTSA National Security Affairs Advisor.",
+"precision": "day"
+},
+{
+"date": "2017-12-16",
+"event": "Cited in the New York Times story that breaks AATIP and publishes two of the three videos.",
+"precision": "day"
+},
+{
+"date": "2018-03-09",
+"event": "Publishes Washington Post op-ed, 'The military keeps encountering UFOs. Why doesn't the Pentagon care?'",
+"precision": "day"
+},
+{
+"date": "2020-10-20",
+"event": "Vice reports his on-record account of receiving the videos in the Pentagon parking lot.",
+"precision": "day"
+},
+{
+"date": "2020-12-01",
+"event": "Departs TTSA.",
+"precision": "month"
+},
+{
+"date": "2023-06-05",
+"event": "On-record corroboration in The Debrief that well-placed officials shared detailed information about the alleged program",
+"precision": "day"
+},
+{
+"date": "2024-03-08",
+"event": "Notes Volume I's findings were never ratified above the AARO level",
+"precision": "day"
+},
+{
+"date": "2025-09-09",
+"event": "Quoted at the Task Force on Declassification hearing calling an AARO report the most error-ridden he can recall reading",
+"precision": "day"
+},
+{
+"date": "2025-12-10",
+"event": "FY2026 NDAA UAP provisions reported as reflecting his and the Disclosure Foundation's recommendations",
+"precision": "day"
+},
+{
+"date": "2026-02-20",
+"event": "'This might be a consequential moment, but the impact will depend on the follow-through.'",
+"precision": "day"
+},
+{
+"date": "2026-02-20",
+"event": "Responds to the presidential direction: consequential, but it depends on the follow-through",
+"precision": "day"
+},
+{
+"date": "2026-05-14",
+"event": "'Data alone is not disclosure' verdict on PURSUE Release 01",
+"precision": "day"
+},
+{
+"date": "2026-05-14",
+"event": "'Data alone is not disclosure'",
+"precision": "day"
+}
+],
+"claims": [
+{
+"source": "SEC EDGAR, TTSA Form 1-K Part II, filed April 2018",
+"text": "Listed in TTSA's Form 1-K as an advisory board member, described as having served 20 years in federal government including as Deputy Assistant Secretary of Defense for Intelligence and as a former Senate staff director.",
+"tier": 1
+},
+{
+"source": "Christopher Mellon in The Phenomenon (2020), reported by MJ Banias, Vice, 20 October 2020",
+"text": "Stated: 'I received the videos, the now famous videos in the Pentagon parking lot from a Defense Department official,' and that he retains the original packaging.",
+"tier": 2
+},
+{
+"source": "Christopher Mellon, on the record, The Debrief, 5 June 2023",
+"text": "'A number of well-placed current and former officials have shared detailed information with me regarding this alleged program.'",
+"tier": 2
+},
+{
+"source": "Mellon, quoted in House Oversight release on the 9 September 2025 UAP transparency hearing",
+"text": "Characterized an AARO report as 'the most error-ridden and unsatisfactory government report I can recall reading.'",
+"tier": 2
+},
+{
+"source": "Christopher Mellon to DefenseScoop, 14 May 2026",
+"text": "'For years the public was told there was little to see. The scale of what exists is itself a revelation. That said, data alone is not disclosure.'",
+"tier": 2
+},
+{
+"source": "Christopher Mellon to DefenseScoop, 20 February 2026",
+"text": "'This might be a consequential moment, but the impact will depend on the follow-through.'",
+"tier": 2
+},
+{
+"source": "Inference from the Mellon quote against the file counts published at war.gov/UFO",
+"text": "Mellon's 'scale of what exists is itself a revelation' is the single most load-bearing inference available from PURSUE: the volume of retained material is an admission against interest, independent of what any individual file shows.",
+"tier": 3
+},
+{
+"source": "https://defensescoop.com/2026/05/14/uap-trump-first-pursue-ufo-file-drop/",
+"text": "'Data alone is not disclosure. Releasing raw files without context may confuse more than clarify.'",
+"tier": 2
+},
+{
+"source": "https://defensescoop.com/2026/02/20/trump-ufo-uap-government-files-disclosure/",
+"text": "'This might be a consequential moment, but the impact will depend on the follow-through... The public's trust has been eroded and must be restored.'",
+"tier": 2
+},
+{
+"source": "https://defensescoop.com/2025/12/10/uap-ufo-military-intercepts-north-america-fy-2026-ndaa/",
+"text": "The FY2026 NDAA's UAP provisions reflect recommendations from Mellon and the Disclosure Foundation.",
+"tier": 2
+}
+],
+"cls": "person",
+"cluster": "other",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 2,
+"cls": "document",
+"dateEnd": "2025",
+"dateStart": "2025",
+"direction": "out",
+"edgeLabel": "'The most error-ridden and unsatisfactory government report I can recall reading'",
+"id": "aaro-historical-record-vol1",
+"l0": true,
+"label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
+"note": "Mellon, a former Deputy Assistant Secretary of Defense for Intelligence and SSCI staff director, attacked the AARO report's quality at the September 2025 Task Force hearing - an oversight professional's judgment on the rebuttal's workmanship rather than on the phenomenon.",
+"sources": [
+{
+"date": "2025-09-09",
+"name": "House Oversight - Luna Opens Hearing on Restoring Public Trust Through UAP Transparency",
+"url": "https://oversight.house.gov/release/luna-opens-hearing-on-restoring-public-trust-through-uap-transparency/"
+}
+],
+"tier": "A",
+"type": "denial"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "2025",
+"dateStart": "2025",
+"direction": "out",
+"edgeLabel": "Luna read Mellon's demolition of AARO's historical report into her 2025 opening statement",
+"id": "anna-paulina-luna",
+"l0": false,
+"label": "Anna Paulina Luna",
+"note": "Mellon called it 'the most error-ridden and unsatisfactory government report I can recall reading after decades of government service.'",
+"sources": [
+{
+"date": "2025-09-09",
+"name": "U.S. GPO, Hearing transcript, Serial No. 119-44 (CHRG-119hhrg61718)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm"
+}
+],
+"tier": "A",
+"type": "investigative"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "2023",
+"direction": "out",
+"edgeLabel": "Corroborates the existence of a class of well-placed sources; facilitated congressional briefings",
+"id": "david-grusch",
+"l0": false,
+"label": "David Charles Grusch",
+"note": "Grusch referred roughly 40 witnesses to the ICIG; Mellon independently states well-placed officials shared detailed information with him and has facilitated classified congressional briefings. Reasoning: the two streams are described separately in the same article, and no document establishes overlap - but they converge on the same committees.",
+"sources": [
+{
+"date": "2023-06-05",
+"name": "The Debrief",
+"url": "https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/"
+}
+],
+"tier": "A",
+"type": "witness-chain"
+},
+{
+"claimTier": 2,
+"cls": "document",
+"dateEnd": "2026",
+"dateStart": "2026",
+"direction": "in",
+"edgeLabel": "Identifies candidates for Mellon's unnamed Air Force SES-2 gatekeeper",
+"id": "gerb-hidden-wing",
+"l0": false,
+"label": "UAP Gerb - 'The Hidden Wing' (USAF structure)",
+"note": "Gerb proposes that SAF/AAH (Sensitive Activities) and SAF/AZ and their directors Russell Wyler and William Maclure are the likely referents of the Air Force SES-2 gatekeeper Christopher Mellon has described publicly. This is Gerb's method in miniature: take a witness's unnamed role and resolve it against the published org chart.",
+"sources": [
+{
+"date": "2026-01-30",
+"name": "UAP Gerb - 'The Hidden Wing'",
+"url": "https://www.youtube.com/watch?v=-IXSZe4xVv4"
+}
+],
+"tier": "B",
+"type": "witness-chain"
+},
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": "2024",
+"dateStart": "2024",
+"direction": "out",
+"edgeLabel": "His hearing letter was submitted into the record by Rep. Mace",
+"id": "hearing-2024-11-13",
+"l0": true,
+"label": "House Oversight joint hearing, 13 November 2024 - 'Unidentified Anomalous Phenomena: Exposing the Truth'",
+"note": "Index of Documents: 'Mellon Hearing Letter; submitted by Rep. Mace.'",
+"sources": [
+{
+"date": "2024-11-13",
+"name": "U.S. GPO, Hearing transcript, Serial No. 118-135 (CHRG-118hhrg57440)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm"
+}
+],
+"tier": "A",
+"type": "investigative"
+},
+{
+"claimTier": 2,
+"cls": "document",
+"dateEnd": "2017",
+"dateStart": "2017",
+"direction": "out",
+"edgeLabel": "Received the three files in the Pentagon parking lot and passed them to the NYT",
+"id": "navy-flir-gimbal-gofast-videos",
+"l0": false,
+"label": "FLIR1, Gimbal and GoFast Navy gun-camera videos",
+"note": "Mellon's own on-record account in The Phenomenon: 'I received the videos, the now famous videos in the Pentagon parking lot from a Defense Department official.' The handing official has never been identified.",
+"sources": [
+{
+"date": "2020-10-20",
+"name": "Vice — Ex Intel Official Says He Was the Source of the Pentagon's UFO Videos",
+"url": "https://www.vice.com/en/article/this-guy-says-he-was-the-source-of-the-pentagons-ufo-videos/"
+}
+],
+"tier": "B",
+"type": "custody"
+},
+{
+"claimTier": 2,
+"cls": "legislation",
+"dateEnd": null,
+"dateStart": "2025-12-10",
+"direction": "out",
+"edgeLabel": "recommendations reflected in statute",
+"id": "ndaa26-uap-provisions",
+"l0": false,
+"label": "NDAA FY2026 UAP provisions (Secs. 1671-1673)",
+"note": "The FY2026 NDAA's three UAP provisions reflect recommendations from Mellon and the Disclosure Foundation.",
+"sources": [
+{
+"date": "2025-12-10",
+"name": "DefenseScoop, FY2026 NDAA UAP provisions",
+"url": "https://defensescoop.com/2025/12/10/uap-ufo-military-intercepts-north-america-fy-2026-ndaa/"
+}
+],
+"tier": "A",
+"type": "legislative"
+},
+{
+"claimTier": 2,
+"cls": "legislation",
+"dateEnd": null,
+"dateStart": "2025",
+"direction": "out",
+"edgeLabel": "Two of the three provisions mirror recommendations he championed",
+"id": "ndaa26-uap-provisions",
+"l0": false,
+"label": "NDAA FY2026 UAP provisions (Secs. 1671-1673)",
+"note": "Per Disclosure Foundation executive director Jordan Flowers.",
+"sources": [
+{
+"date": "2025-12-10",
+"name": "DefenseScoop: Congress wants to know more about the military's UAP intercepts around North America",
+"url": "https://defensescoop.com/2025/12/10/uap-ufo-military-intercepts-north-america-fy-2026-ndaa/"
+}
+],
+"tier": "A",
+"type": "programmatic"
+},
+{
+"claimTier": 2,
+"cls": "event",
+"dateEnd": "2017",
+"dateStart": "2017",
+"direction": "out",
+"edgeLabel": "Supplied the videos published with the story",
+"id": "nyt-2017-12-16",
+"l0": true,
+"label": "New York Times, 'Glowing Auras and Black Money: The Pentagon's Mysterious U.F.O. Program'",
+"note": "Mellon says he provided the files to the Times; the Times separately stated the Department of Defense was its on-the-record source for them.",
+"sources": [
+{
+"date": "2020-10-20",
+"name": "Vice",
+"url": "https://www.vice.com/en/article/this-guy-says-he-was-the-source-of-the-pentagons-ufo-videos/"
+}
+],
+"tier": "A",
+"type": "custody"
+},
+{
+"claimTier": 2,
+"cls": "program",
+"dateEnd": null,
+"dateStart": "2026",
+"direction": "out",
+"edgeLabel": "'Data alone is not disclosure'",
+"id": "pursue-releases",
+"l0": true,
+"label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters",
+"note": "Mellon's judgement six days after Release 01 became the framing for the entire research community's response.",
+"sources": [
+{
+"date": "2026-05-14",
+"name": "DefenseScoop: 'Data alone is not disclosure' — UAP research community reacts to Trump's first PURSUE file drop",
+"url": "https://defensescoop.com/2026/05/14/uap-trump-first-pursue-ufo-file-drop/"
+}
+],
+"tier": "A",
+"type": "behavioral"
+},
+{
+"claimTier": 2,
+"cls": "program",
+"dateEnd": "2026",
+"dateStart": "2026",
+"direction": "out",
+"edgeLabel": "'Data alone is not disclosure' - the framing the House adopted",
+"id": "pursue-releases",
+"l0": true,
+"label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters",
+"note": "Mellon conceded the scale of the retained holdings is itself a revelation while rejecting the sufficiency of context-free files.",
+"sources": [
+{
+"date": "2026-05-14",
+"name": "DefenseScoop - 'Data alone is not disclosure': UAP research community reacts to Trump's first PURSUE file drop",
+"url": "https://defensescoop.com/2026/05/14/uap-trump-first-pursue-ufo-file-drop/"
+}
+],
+"tier": "A",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "2020",
+"dateStart": "2017",
+"direction": "out",
+"edgeLabel": "National Security Affairs Advisor / advisory board (2017-2020)",
+"id": "ttsa",
+"l0": true,
+"label": "To The Stars Academy of Arts & Science Inc. (later To The Stars Inc.)",
+"note": "A former Deputy Assistant Secretary of Defense for Intelligence and SSCI minority staff director lending his name to the vehicle.",
+"sources": [
+{
+"date": "2018-04-30",
+"name": "SEC EDGAR — TTSA Form 1-K",
+"url": "https://www.sec.gov/Archives/edgar/data/1710274/000114420418023727/tv492460_partii.htm"
+},
+{
+"date": "2017-10-11",
+"name": "PR Newswire — TTSA launch",
+"url": "https://www.prnewswire.com/news-releases/to-the-stars-academy-of-arts--science-launches-today-300534912.html"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 3,
+"cls": "program",
+"dateEnd": "2022",
+"dateStart": "2018",
+"direction": "out",
+"edgeLabel": "Congressional advocacy channel from 2018 that fed the Task Force and AARO",
+"id": "uap-task-force",
+"l0": true,
+"label": "Unidentified Aerial Phenomena Task Force (UAPTF)",
+"note": "Mellon's March 2018 Washington Post op-ed and his subsequent Hill work are the bridge between the TTSA period and the formal government structures. The causal link is reasoned from sequence and his documented access, not from a single primary record.",
+"sources": [
+{
+"date": "2020-10-20",
+"name": "Vice",
+"url": "https://www.vice.com/en/article/this-guy-says-he-was-the-source-of-the-pentagons-ufo-videos/"
+},
+{
+"date": "2019-04-01",
+"name": "Issues in Science and Technology",
+"url": "https://issues.org/wp-content/uploads/2019/04/Kloor-UFOs-Wont-Go-Away-SP19-ISSUES-49-56.pdf"
+}
+],
+"tier": "A",
+"type": "programmatic"
+}
+],
+"date": "2017-12-16",
+"dateEnd": null,
+"dateStart": "2017-12-16",
+"deg": 11,
+"denials": [
+{
+"by": {
+"id": "christopher-mellon",
+"label": "Christopher K. Mellon"
+},
+"claimTier": 2,
+"denialKind": "association",
+"label": "'The most error-ridden and unsatisfactory government report I can recall reading'",
+"note": "Mellon, a former Deputy Assistant Secretary of Defense for Intelligence and SSCI staff director, attacked the AARO report's quality at the September 2025 Task Force hearing - an oversight professional's judgment on the rebuttal's workmanship rather than on the phenomenon.",
+"of": {
+"id": "aaro-historical-record-vol1",
+"label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+},
+"sources": [
+{
+"date": "2025-09-09",
+"name": "House Oversight - Luna Opens Hearing on Restoring Public Trust Through UAP Transparency",
+"url": "https://oversight.house.gov/release/luna-opens-hearing-on-restoring-public-trust-through-uap-transparency/"
+}
+]
+}
+],
+"domains": [
+"_rs-archive-mirror",
+"elizondo-ttsa",
+"grusch",
+"releases-2023-2026",
+"w2-2025-2026"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "christopher-mellon",
+"instId": "ttsa",
+"l0": false,
+"label": "Christopher K. Mellon",
+"loc": "Washington, DC",
+"locId": "l-dc",
+"members": null,
+"narrative": "Mellon is the strategist of the current cycle. He is Board Chair of the Disclosure Foundation, and the FY2026 NDAA's three UAP provisions - the NORAD/NORTHCOM intercept briefing requirement, the accounting for UAP security classification guides, and the streamlining of agency data-sharing with AARO - reflect recommendations from him and the Foundation. That is legislative drafting influence, not commentary, and the intercept provision in particular is the sharpest instrument in the current statutory record because it presumes and demands an operational history rather than a sighting inventory. On 20 February 2026, hours after the President's post, his assessment was 'This might be a consequential moment, but the impact will depend on the follow-through... The public's trust has been eroded and must be restored.' On 14 May 2026, six days after the first tranche, he delivered the judgement that has framed everything since: 'Data alone is not disclosure. Releasing raw files without context may confuse more than clarify.' Mellon is the figure who most clearly held both positions at once through 2026 - that the release programme is real and that it is not disclosure - and both of his 2026 statements have proved load-bearing on the record.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Christopher K. Mellon",
+"sources": [
+{
+"date": "2026-08-10",
+"name": "Archived: Department of War - PURSUE portal (war.gov/UFO) (Wayback 2026-08-10)",
+"url": "https://web.archive.org/web/20260810202017/https://www.war.gov/UFO/"
+},
+{
+"date": "2018-04-30",
+"name": "SEC EDGAR — TTSA Form 1-K Part II",
+"url": "https://www.sec.gov/Archives/edgar/data/1710274/000114420418023727/tv492460_partii.htm"
+},
+{
+"date": "2020-10-20",
+"name": "Vice — Ex Intel Official Says He Was the Source of the Pentagon's UFO Videos",
+"url": "https://www.vice.com/en/article/this-guy-says-he-was-the-source-of-the-pentagons-ufo-videos/"
+},
+{
+"date": "2017-10-11",
+"name": "PR Newswire — To The Stars Academy Of Arts & Science Launches Today",
+"url": "https://www.prnewswire.com/news-releases/to-the-stars-academy-of-arts--science-launches-today-300534912.html"
+},
+{
+"date": "2023-06-05",
+"name": "The Debrief - Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin",
+"url": "https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/"
+},
+{
+"date": "2025-09-09",
+"name": "House Oversight - Luna Opens Hearing on Restoring Public Trust Through UAP Transparency",
+"url": "https://oversight.house.gov/release/luna-opens-hearing-on-restoring-public-trust-through-uap-transparency/"
+},
+{
+"date": "2026-05-14",
+"name": "DefenseScoop - 'Data alone is not disclosure': UAP research community reacts to Trump's first PURSUE file drop",
+"url": "https://defensescoop.com/2026/05/14/uap-trump-first-pursue-ufo-file-drop/"
+},
+{
+"date": "2026-02-20",
+"name": "DefenseScoop - Transparency proponents meet Trump's UAP disclosure tease with hope and caution",
+"url": "https://defensescoop.com/2026/02/20/trump-ufo-uap-government-files-disclosure/"
+},
+{
+"date": "2026-08-07",
+"name": "Department of War - PURSUE portal (war.gov/UFO)",
+"url": "https://www.war.gov/UFO/"
+},
+{
+"date": "2025-12-10",
+"name": "DefenseScoop, FY2026 NDAA UAP provisions",
+"url": "https://defensescoop.com/2025/12/10/uap-ufo-military-intercepts-north-america-fy-2026-ndaa/"
+}
+],
+"status": "active",
+"sub": "Former Deputy Assistant Secretary of Defense for Intelligence; TTSA National Security Affairs Advisor",
+"tier": "A",
+"tierRationale": "Re-graded A on a global pass (rank 60 of 1027, score 74). 13 connections, 6 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D3.",
+"timeline": [
+{
+"date": "2018-03-09",
+"id": "tl-2018-03-mellon-oped",
+"label": "Mellon's Washington Post op-ed",
+"precision": "day",
+"strand": "witness",
+"text": "'The military keeps encountering UFOs. Why doesn't the Pentagon care?' — a former Deputy Assistant Secretary of Defense for Intelligence taking the question to the op-ed page.",
+"tier": "B"
+}
+],
+"unexplainedResidual": null,
+"unverified": [
+"The identity of the Defense Department official who handed him the files.",
+"The identities of the well-placed officials who briefed Mellon.",
+"Whether the NORAD/NORTHCOM intercept briefing required by the FY2026 NDAA has been delivered to Congress."
+]
+}

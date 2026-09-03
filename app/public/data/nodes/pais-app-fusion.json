@@ -1,0 +1,72 @@
+{
+"A": 1,
+"C": 1,
+"D": 0,
+"band": null,
+"claims": [
+{
+"source": "https://www.freepatentsonline.com/20190295733.html",
+"text": "US Patent Application 2019/0295733, 'Plasma Compression Fusion Device', application 15/928703, filed 22 March 2018, published 26 September 2019, assignee the United States as represented by the Secretary of the Navy.",
+"tier": 2
+}
+],
+"cls": "document",
+"cluster": "research",
+"connections": [
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2019-09-26",
+"dateStart": "2018-03-22",
+"direction": "in",
+"edgeLabel": "Named inventor",
+"id": "salvatore-pais",
+"l0": false,
+"label": "Salvatore Cezar Pais",
+"note": "Application 15/928703, assigned to the Secretary of the Navy.",
+"sources": [
+{
+"date": null,
+"name": "US Application 2019/0295733",
+"url": "https://www.freepatentsonline.com/20190295733.html"
+}
+],
+"tier": "A",
+"type": "programmatic"
+}
+],
+"coords": null,
+"dateEnd": "2019-09-26",
+"dateStart": "2018-03-22",
+"deg": 1,
+"denials": [],
+"desc": "Published application 15/928703, filed 22 March 2018 and published 26 September 2019, assigned to the United States as represented by the Secretary of the Navy. It is the power source the rest of the set implies: the briefing for the inertial mass reduction device asserts commercial potential in energy generation machinery with output far above conventional means, and this is the filing that names that machinery.",
+"domains": [
+"pais-patents"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "pais-app-fusion",
+"l0": false,
+"label": "US Application 2019/0295733 - Plasma Compression Fusion Device",
+"locLabel": null,
+"members": null,
+"short": "US Application 2019/0295733 - Plasma Compression Fusion Device",
+"sources": [
+{
+"date": null,
+"name": "US Application 2019/0295733",
+"url": "https://www.freepatentsonline.com/20190295733.html"
+}
+],
+"sub": "Application 15/928703, filed 22 March 2018, published 26 September 2019; assignee the Secretary of the Navy",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 930 of 1027, score 13). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A1/D0.",
+"timeline": []
+}

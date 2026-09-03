@@ -1,0 +1,124 @@
+{
+"A": 2,
+"C": 1,
+"D": 2,
+"band": null,
+"claims": [
+{
+"source": "ODNI Preliminary Assessment: Unidentified Aerial Phenomena",
+"text": "ODNI's Preliminary Assessment (25 June 2021) attributes the inability to characterise most incidents to limited and inconsistent reporting rather than to the phenomena.",
+"tier": 1
+},
+{
+"source": "Limina, doi:10.59661/001c.131854",
+"text": "Hancock, Porritt and Grosvenor applied formal indications analysis to UAP reporting against the US atomic warfare complex, published via SCU in 2023 and in Limina in 2025.",
+"tier": 1
+},
+{
+"source": "AARO Historical Record Report Volume I",
+"text": "AARO's Volume I report describes its methodology, including approximately thirty interviews and a review of named sensitive programmes, in Sections V and VI.",
+"tier": 1
+}
+],
+"cls": "domain",
+"cluster": "other",
+"connections": [
+{
+"claimTier": 3,
+"cls": "domain",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "Elements and tradecraft",
+"id": "d-ic",
+"l0": false,
+"label": "Intelligence Community",
+"note": "The federated IC structure determines which element collects and analyses, and the seams between elements are where an activity can be nobody's to report.",
+"sources": [
+{
+"date": "2024-02-01",
+"name": "AARO, Historical Record Report Volume I",
+"url": "https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "domain",
+"dateEnd": null,
+"dateStart": "2023-07-20",
+"direction": "in",
+"edgeLabel": "Indications analysis on the atomic complex",
+"id": "d-nuc",
+"l0": false,
+"label": "Nuclear Weapons Complex Nexus",
+"note": "Hancock, Porritt and Grosvenor applied formal intelligence indications methodology to UAP reporting against the US atomic warfare complex.",
+"sources": [
+{
+"date": "2025-03-07",
+"name": "Grosvenor, Hancock & Porritt, Limina",
+"url": "https://doi.org/10.59661/001c.131854"
+}
+],
+"tier": "B",
+"type": "research"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "1947-01-01",
+"deg": 2,
+"denials": [],
+"desc": "Intelligence analysis has a well-developed methodology for exactly this problem - a low-volume, high-consequence phenomenon with contaminated reporting - and applying it honestly is the discipline this board tries to import. The core tools are indications and warning analysis, source validation and the separation of collection gaps from analytic conclusions; the characteristic failure mode is treating an absence of collection as evidence of absence. ODNI's June 2021 preliminary assessment is an unusually candid document on precisely this point, stating that the limited and inconsistent quality of available reporting - not the phenomena themselves - was the principal obstacle to characterisation. The domain's most productive application in open literature is the indications analysis of UAP reporting against the United States atomic warfare complex published by Hancock, Porritt and Grosvenor, which uses a standard intelligence method on an unclassified corpus. The dual-use route is that the tradecraft used to validate a source is the same tradecraft used to discredit one, and a counterintelligence organisation possesses both. Scoring high on this domain means an entity did analytic work on the subject or managed collection against it.",
+"domains": [
+"_rs-archive-mirror",
+"w2-taxonomy"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "d-intel",
+"l0": false,
+"label": "Intelligence Tradecraft & Analysis",
+"locLabel": null,
+"members": null,
+"short": "Intelligence Tradecraft & Analysis",
+"sources": [
+{
+"date": "2026-08-11",
+"name": "Archived: ODNI, Preliminary Assessment: Unidentified Aerial Phenomena (Wayback 2026-08-11)",
+"url": "https://web.archive.org/web/20260811043206/https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf"
+},
+{
+"date": "2026-05-08",
+"name": "Archived: AARO, Report on the Historical Record of U.S. Government Involvement with UAP, Volume I (Wayback 2026-05-08)",
+"url": "https://web.archive.org/web/20260508180210/https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf"
+},
+{
+"date": "2021-06-25",
+"name": "ODNI, Preliminary Assessment: Unidentified Aerial Phenomena",
+"url": "https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf"
+},
+{
+"date": "2025-03-07",
+"name": "Grosvenor, Hancock & Porritt, Limina",
+"url": "https://doi.org/10.59661/001c.131854"
+},
+{
+"date": "2024-02-01",
+"name": "AARO, Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
+"url": "https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf"
+}
+],
+"sub": "Methodological domain - collection management, source validation and the analytic habits this subject breaks",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 609 of 1027, score 25). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D2.",
+"timeline": []
+}

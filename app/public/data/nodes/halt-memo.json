@@ -1,0 +1,139 @@
+{
+"A": 1,
+"C": 2,
+"D": 3,
+"band": null,
+"claims": [
+{
+"source": "Halt memorandum, 13 Jan 81, released under DoD FOIA case 97-F-1677",
+"text": "The memo's closing sentence reads: 'Numerous individuals, including the undersigned, witnessed the activities in paragraphs 2 and 3.' It is signed CHARLES I. HALT, Lt Col, USAF, Deputy Base Commander.",
+"tier": 1
+},
+{
+"source": "Halt memorandum, 13 Jan 81, paragraph 1",
+"text": "The memo describes the object as 'metalic in appearance and triangular in shape, approximately two to three meters across the base and approximately two meters high' and states 'It illuminated the entire forest with a white light.'",
+"tier": 1
+}
+],
+"cls": "document",
+"cluster": "witness",
+"connections": [
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "1981",
+"dateStart": "1981",
+"direction": "in",
+"edgeLabel": "Halt authored and signed the 'Unexplained Lights' memorandum",
+"id": "charles-halt",
+"l0": false,
+"label": "Charles I. Halt",
+"note": "Halt was Deputy Base Commander of the 81st Combat Support Group and signed the memo on 13 Jan 81. The document is his; his authorship has never been disputed by the Air Force.",
+"sources": [
+{
+"date": "2021-11-11",
+"name": "The Halt Memo - Rendlesham Forest Incident (DoD FOIA case 97-F-1677, released Sept 1997)",
+"url": "https://www.theblackvault.com/documentarchive/the-halt-memo-the-rendlesham-forest-incident/"
+}
+],
+"tier": "B",
+"type": "witness-chain"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "1997",
+"dateStart": "1997",
+"direction": "out",
+"edgeLabel": "Released to The Black Vault under DoD FOIA case 97-F-1677",
+"id": "john-greenewald",
+"l0": false,
+"label": "John Greenewald Jr.",
+"note": "The Office of the Assistant Secretary of Defense, Freedom of Information and Security Review Office released the memo in September 1997 under case 97-F-1677.",
+"sources": [
+{
+"date": "2021-11-11",
+"name": "The Halt Memo - Rendlesham Forest Incident (DoD FOIA case 97-F-1677, released Sept 1997)",
+"url": "https://www.theblackvault.com/documentarchive/the-halt-memo-the-rendlesham-forest-incident/"
+}
+],
+"tier": "B",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": "1981",
+"dateStart": "1981",
+"direction": "out",
+"edgeLabel": "The memo is the primary official record of the incident",
+"id": "rendlesham-1980",
+"l0": true,
+"label": "Rendlesham Forest Incident, RAF Woodbridge/Bentwaters",
+"note": "The memo is the only contemporaneous US government document describing the events; everything else in the case is witness statement or later recollection.",
+"sources": [
+{
+"date": "2021-11-11",
+"name": "The Halt Memo - Rendlesham Forest Incident (DoD FOIA case 97-F-1677, released Sept 1997)",
+"url": "https://www.theblackvault.com/documentarchive/the-halt-memo-the-rendlesham-forest-incident/"
+},
+{
+"date": "2020-12-26",
+"name": "BBC News, 'Rendlesham Forest UFO: Are we any closer to the truth 40 years on?'",
+"url": "https://www.bbc.co.uk/news/uk-england-suffolk-54649675"
+}
+],
+"tier": "A",
+"type": "institutional"
+}
+],
+"coords": null,
+"dateEnd": "1981",
+"dateStart": "1981",
+"deg": 3,
+"denials": [],
+"desc": "A single-page memorandum on Department of the Air Force letterhead, Headquarters Combat Support Group (USAFE), APO New York, dated 13 Jan 81, subject 'Unexplained Lights,' addressed to RAF/CC and signed by Charles I. Halt, Lt Col, USAF, Deputy Base Commander. Three numbered paragraphs describe: patrolmen at the RAF Woodbridge back gate seeing lights on 27 Dec 80 (the date Halt used, generally understood as the early hours of 26 December) and encountering an object 'metalic in appearance and triangular in shape, approximately two to three meters across the base and approximately two meters high' with 'a pulsing red light on top and a bank(s) of blue lights underneath'; ground depressions and radiation readings the following days; and, on a later night, a 'red sun-like light' that 'appeared to throw off glowing particles and then broke into five separate white objects,' plus star-like objects moving 'in sharp angular movements' and one that 'beamed down a stream of light from time to time,' witnessed by 'numerous individuals, including the undersigned.' It is the only official memorandum by a serving US field-grade officer describing a physical-trace UFO event at a NATO nuclear-capable base, and it is in the public domain through the Pentagon's own FOIA office.",
+"domains": [
+"history-1970s-2000s"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "1",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "halt-memo",
+"l0": false,
+"label": "Halt Memorandum, 'Unexplained Lights', 13 January 1981",
+"locLabel": null,
+"members": null,
+"short": "Halt Memorandum, 'Unexplained Lights', 13 January 1981",
+"sources": [
+{
+"date": "2021-11-11",
+"name": "The Halt Memo - Rendlesham Forest Incident (DoD FOIA case 97-F-1677, released Sept 1997)",
+"url": "https://www.theblackvault.com/documentarchive/the-halt-memo-the-rendlesham-forest-incident/"
+},
+{
+"date": "2020-12-26",
+"name": "BBC News, 'Rendlesham Forest UFO: Are we any closer to the truth 40 years on?'",
+"url": "https://www.bbc.co.uk/news/uk-england-suffolk-54649675"
+}
+],
+"sub": "USAF official memorandum, 81st Combat Support Group to RAF/CC",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 502 of 1027, score 29). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A1/D3.",
+"timeline": [
+{
+"date": "1981-01-13",
+"id": "t-1981-halt",
+"label": "Halt signs the 'Unexplained Lights' memo",
+"precision": "day",
+"strand": "witness",
+"text": "The deputy base commander documents the object, three ground depressions and beta/gamma readings of 0.1 milliroentgens in an official memorandum to the RAF station commander.",
+"tier": "A"
+}
+]
+}

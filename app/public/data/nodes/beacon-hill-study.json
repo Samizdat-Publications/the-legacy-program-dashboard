@@ -1,0 +1,98 @@
+{
+"A": 2,
+"C": 1,
+"D": 1,
+"band": null,
+"claims": [
+{
+"source": "Rep. Eric Burlison press release, 26 May 2026",
+"text": "Burlison's 26 May 2026 press release names the Beacon Hill Study together with 'AF-ATIC-FILM, 03/52', MIT Lincoln Laboratory, NARA and Record Group 615.",
+"tier": 1
+},
+{
+"source": "Inference from Burlison's press release pairing of the two items",
+"text": "Ruppelt's March 1952 briefing being held by Lincoln Laboratory and named alongside Beacon Hill indicates the Blue Book directorate briefed the reconnaissance study group directly. Reasoning: the film designation, date and custodian align with the study's timeframe and location; no minutes have been produced.",
+"tier": 3
+}
+],
+"cls": "program",
+"cluster": "legacy",
+"connections": [
+{
+"claimTier": 3,
+"cls": "document",
+"dateEnd": "1952",
+"dateStart": "1952",
+"direction": "in",
+"edgeLabel": "The briefing was given into the 1952 Beacon Hill reconnaissance study circle",
+"id": "af-atic-film-0352",
+"l0": false,
+"label": "AF-ATIC-FILM, 03/52 ('flying saucer talk')",
+"note": "Burlison's press release names both items together; the inference is that Blue Book briefed the group designing US strategic aerial reconnaissance. No minutes produced.",
+"sources": [
+{
+"date": "2026-05-26",
+"name": "Burlison press release",
+"url": "https://burlison.house.gov/media/press-releases/burlison-presses-mitre-answers-uap-records-ffrdc-accountability-and-compliance"
+}
+],
+"tier": "B",
+"type": "programmatic"
+},
+{
+"claimTier": 2,
+"cls": "institution",
+"dateEnd": "1952",
+"dateStart": "1952",
+"direction": "out",
+"edgeLabel": "Beacon Hill was convened in the MIT/Lincoln Laboratory complex for the Air Force",
+"id": "mit-lincoln-laboratory",
+"l0": false,
+"label": "MIT Lincoln Laboratory",
+"note": "The study shaped US overhead reconnaissance and its records sit in institutional rather than federal custody.",
+"sources": [
+{
+"date": "2026-05-26",
+"name": "Burlison press release",
+"url": "https://burlison.house.gov/media/press-releases/burlison-presses-mitre-answers-uap-records-ffrdc-accountability-and-compliance"
+}
+],
+"tier": "B",
+"type": "institutional"
+}
+],
+"coords": null,
+"dateEnd": "1952",
+"dateStart": "1952",
+"deg": 2,
+"denials": [],
+"desc": "The Beacon Hill Study was the 1952 classified summer study group convened for the Air Force in the Boston academic-defence complex to assess the future of aerial reconnaissance. Its recommendations shaped the American overhead collection programme that produced the U-2 and, ultimately, the National Reconnaissance Office. Rep. Eric Burlison named Beacon Hill in his 26 May 2026 press release alongside the AF-ATIC-FILM designation, which places Ruppelt's March 1952 'flying saucer talk' as a briefing given into the Beacon Hill circle. That connection is the earliest documented instance of the Air Force's UFO investigation being briefed directly into the group designing the nation's strategic reconnaissance architecture - the same architecture whose successor agencies (NRO, NGA) supply the sensor data at issue in every modern UAP dispute. The study group's records are held in the MIT/Lincoln Laboratory institutional archive rather than in federal custody, which is exactly the records-status problem Burlison's inquiry exists to address.",
+"domains": [
+"ffrdcs"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "beacon-hill-study",
+"l0": false,
+"label": "Project Beacon Hill",
+"locLabel": null,
+"members": null,
+"short": "Project Beacon Hill",
+"sources": [
+{
+"date": "2026-05-26",
+"name": "Rep. Eric Burlison - Burlison Presses MITRE for Answers on UAP Records, FFRDC Accountability, and Compliance",
+"url": "https://burlison.house.gov/media/press-releases/burlison-presses-mitre-answers-uap-records-ffrdc-accountability-and-compliance"
+}
+],
+"sub": "1952 classified summer study on aerial reconnaissance convened at MIT / Lincoln Laboratory for the Air Force",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 730 of 1027, score 21). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A2/D1.",
+"timeline": []
+}

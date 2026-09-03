@@ -1,0 +1,155 @@
+{
+"A": 1,
+"C": 0,
+"D": 1,
+"affiliations": [
+"U.S. House of Representatives, FL-10 (2023- )",
+"Committee on Oversight and Accountability / Government Reform (2023- )",
+"Task Force on the Declassification of Federal Secrets"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "2023-07-26",
+"event": "Questions Graves and Fravor on UAP reporting and stigma.",
+"precision": "day"
+},
+{
+"date": "2025-01-01",
+"event": "Listed as a Democratic member of the Task Force on the Declassification of Federal Secrets.",
+"precision": "year"
+}
+],
+"claims": [
+{
+"source": "GPO CHRG-118hhrg53022",
+"text": "Member of the Subcommittee on National Security, the Border, and Foreign Affairs at the 26 July 2023 hearing and a questioner of Graves and Fravor.",
+"tier": 1
+},
+{
+"source": "oversight.house.gov Task Force membership page",
+"text": "Listed as a Democratic member of the Task Force on the Declassification of Federal Secrets.",
+"tier": 1
+}
+],
+"cls": "person",
+"cluster": "oversight",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "questioned witnesses at the 26 July 2023 UAP hearing",
+"id": "hearing-2023-07-26",
+"l0": true,
+"label": "House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'",
+"note": "Frost used his round on the scientific and stigma dimension: NASA's independent study team, the Galileo Project, whether military pilots feeling empowered to speak had shifted scientific research goals, and how Congress might connect scientists to the government's UAP work. He closed: 'I think it is important that we keep our top scientific minds focused on this issue and look for ways to increase collaboration.'",
+"sources": [
+{
+"date": "2023-07-26",
+"name": "House Oversight hearing, 26 July 2023 (CHRG-118hhrg53022)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm"
+},
+{
+"date": null,
+"name": "https://www.congress.gov/event/118th-congress/house-event/116282/text",
+"url": "https://www.congress.gov/event/118th-congress/house-event/116282/text"
+}
+],
+"tier": "A",
+"type": "legislative"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "questioned Administrator Nelson on UAP; pressed NASA's role at hearing",
+"id": "nasa",
+"l0": true,
+"label": "National Aeronautics and Space Administration",
+"note": "Frost told the hearing: 'In fact, I sit on the Science, Space and Technology Committee and when we were doing a hearing with the NASA Administrator, Bill Nelson, I asked, you know, why NASA needed to be fully funded. And there were many great reasons, but one of them was actually--had to do with UAPs.' He tied it forward to the NASA independent study team and to Harvard standing up the Galileo Project in 2021.",
+"sources": [
+{
+"date": "2023-07-26",
+"name": "House Oversight hearing, 26 July 2023 (CHRG-118hhrg53022)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm"
+}
+],
+"tier": "B",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "questioned Graves on scientific advisory board and NASA reporting",
+"id": "ryan-graves",
+"l0": false,
+"label": "Ryan Graves",
+"note": "Frost asked Graves two questions: 'can you discuss the importance of seeking scientists to sit on your advisory board?' and 'how might Congress help to facilitate partnerships between the scientific community and the UAP focus groups within government?' Graves answered that this 'is going to be a scientific problem, and not only that, it is also an engineering problem', and pointed to his work with the American Institute of Aeronautics and Astronautics to stand up a UAP integration committee.",
+"sources": [
+{
+"date": "2023-07-26",
+"name": "House Oversight hearing, 26 July 2023 (CHRG-118hhrg53022)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm"
+}
+],
+"tier": "A",
+"type": "investigative"
+}
+],
+"date": "2023-07-26",
+"dateEnd": null,
+"dateStart": "2023-07-26",
+"deg": 3,
+"denials": [],
+"domains": [
+"congress-house"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "maxwell-frost",
+"instId": "house-oversight-committee",
+"l0": false,
+"label": "Maxwell Alejandro Frost",
+"loc": "Orlando, FL",
+"locId": null,
+"members": null,
+"narrative": "Frost sat on the National Security subcommittee for the 2023 hearing and is now a member of the Task Force on the Declassification of Federal Secrets. His questioning at the 2023 hearing concentrated on Graves and Fravor and on the practical failure of reporting - the same gap Ranking Member Garcia converted into H.R. 6967 six months later. He is one of the Democratic members whose continued presence keeps the House UAP inquiry from collapsing into a single-party exercise, and his membership on the Task Force means the minority is represented on the body with the declassification remit rather than only on the parent committee.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Maxwell Alejandro Frost",
+"sources": [
+{
+"date": "2023-07-26",
+"name": "U.S. GPO, Hearing transcript, Serial No. 118-53 (CHRG-118hhrg53022)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm"
+},
+{
+"date": "2026-08-12",
+"name": "House Oversight Committee, Task Force on the Declassification of Federal Secrets — membership page",
+"url": "https://oversight.house.gov/subcommittee/task-force-on-the-declassification-of-federal-secrets/"
+}
+],
+"status": "active",
+"sub": "U.S. Rep. (D-FL-10); questioned Graves and Fravor on the reporting gap",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 896 of 1027, score 14). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D1.",
+"timeline": [],
+"unexplainedResidual": null,
+"unverified": []
+}

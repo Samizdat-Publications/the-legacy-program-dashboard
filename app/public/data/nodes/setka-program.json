@@ -1,0 +1,512 @@
+{
+"A": 2,
+"C": 1,
+"D": 2,
+"band": "research",
+"claims": [
+{
+"source": "Paul Stonehill and Philip Mantle, 'Setka: A Secret Soviet UFO Research Program', Archivos Forteanos Latino Americanos",
+"text": "'A sharp increase in UFO activity in 1977-1978 (especially, the Petrozavodsk Case) had forced appropriate departments within the USSR Academy of Sciences to agree to a research program for anomalous atmospheric phenomena. The code name for this program was SETKA-AN ... The Soviet Ministry of Defense embarked on a similar program, dubbed SETKA-MO.'",
+"tier": 2
+},
+{
+"source": "Stonehill and Mantle, quoting Platov and Sokolov, History of State-directed UFO Research in the USSR",
+"text": "Programme secrecy justification, per Y. Platov and B. Sokolov's own 'History of State-directed UFO Research in the USSR': the programmes 'formally belonged to activities pertaining defense-related subjects; initial assumption that there is a high probability of military-technical origin of the observed strange phenomena; and possibilities that in case of successful completion of the raised tasks some of the UFO characteristics could be used for military purposes.'",
+"tier": 2
+},
+{
+"source": "Stonehill and Mantle, 'Setka: A Secret Soviet UFO Research Program'",
+"text": "Attendee list and institutional affiliations at the founding meeting of 18 October 1978, including Balashov and Volga representing 'the secret military unit 67947', with IZMIRAN as lead agency and Platov as chief executive for SETKA-AN.",
+"tier": 2
+},
+{
+"source": "Stonehill and Mantle",
+"text": "'In 1981, the SETKA research program was given another name, Galaktika ... and in 1986, the name was changed to Gorizont MO and AN. After the program ended ... a group of experts remained in the Department of General Physics and Astronomy of the Russian Academy of Sciences where they analyzed incoming reports until 1996.'",
+"tier": 2
+},
+{
+"source": "Stonehill and Mantle",
+"text": "'The Guidelines for the Soviet Navy had been dated March 7, 1980, and signed by Deputy Commander of the Main HQ of the Navy, Vice Admiral Saakyan.'",
+"tier": 2
+},
+{
+"source": "Project Condign, Volume 3, Chapter 4, para 1, UK MoD, 2000 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"text": "UK Defence Intelligence Staff assessment: 'It is clear that the Former Soviet Union has taken the study of UAPs seriously and that this may well be related to a programme of understanding and exploiting certain UAP-related natural phenomena, such as plasmas.'",
+"tier": 2
+},
+{
+"source": "Wikipedia, 'Petrozavodsk phenomenon', citing Stonehill and Mantle",
+"text": "'The Petrozavodsk phenomenon contributed to the creation of Setka AN, a Soviet research program for anomalous atmospheric phenomena.'",
+"tier": 2
+}
+],
+"cls": "program",
+"cluster": "ic",
+"connections": [
+{
+"claimTier": 3,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "1999-07",
+"direction": "in",
+"edgeLabel": "cites Soviet statistical distributions as comparable",
+"id": "cometa",
+"l0": true,
+"label": "COMETA - Comité d'Études Approfondies",
+"note": "TIER 3, INFERENTIAL. COMETA records that 'statistical studies in the USSR yielded distributions comparable to those determined by Claude Poher, the first head of GEPAN, from some 200 French cases, or 1,000 cases worldwide.' The report does not name the Setka programme, or any Soviet programme, anywhere in that passage. That the studies it refers to are Setka's is inference from the period and the scale, not citation, and this edge should not be read as COMETA citing Setka.",
+"sources": [
+{
+"date": "1999-07-01",
+"name": "COMETA, 'UFOs and Defense: What Should We Prepare For?', 1999, chapter 7.3",
+"url": "https://ia800403.us.archive.org/17/items/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D.pdf"
+}
+],
+"tier": "A",
+"type": "research"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "2000",
+"dateStart": "2000",
+"direction": "in",
+"edgeLabel": "assessed the Soviet programme as exploitation-driven",
+"id": "doc-condign-vol3",
+"l0": true,
+"label": "Project Condign Volume 3 - Potential for Exploitation of UAP-Associated Effects / UAP Work in Other Countries",
+"note": "Condign Volume 3 chapter 4 states that Soviet study of UAP 'may well be related to a programme of understanding and exploiting certain UAP-related natural phenomena, such as plasmas'.",
+"sources": [
+{
+"date": "2006-05-15",
+"name": "Condign Volume 3",
+"url": "https://archive.org/download/condign-vol-2-1-258/Condign_Vol_3_1-48_djvu.txt"
+}
+],
+"tier": "B",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "1990",
+"dateStart": "1980-01",
+"direction": "out",
+"edgeLabel": "opposite reporting posture: mandated versus stigmatised",
+"id": "dod",
+"l0": true,
+"label": "United States Department of Defense (secondary designation: Department of War)",
+"note": "A January 1980 Directive of the Soviet General Staff obliged every serviceman to report any inexplicable phenomenon in writing and routed the results to a single analysis centre, putting the army 'into the on-duty regime of observation' for thirteen years. The contrast with the US chain of command over the same period, where reporting carried career risk and no service-wide collection mandate existed, is the comparison this node exists to make. The Soviet side of the comparison is documented by the programme's own coordinators; no institutional contact between the two is claimed.",
+"sources": [
+{
+"date": "2010-11-19",
+"name": "Stonehill & Mantle - Setka: A Secret Soviet UFO Research Program",
+"url": "https://web.archive.org/web/20101119234133/http://aforteanosla.com.ar/Colaboraciones/internacional/Mantle,%20Philip/Stonehill,%20Paul%20and%20Mantle,%20Philip.%20Setka%20an%20article.pdf"
+},
+{
+"date": "2006-05-15",
+"name": "Project Condign Volume 3 (UK MoD assessment of FSU activity)",
+"url": "https://archive.org/download/condign-vol-2-1-258/Condign_Vol_3_1-48_djvu.txt"
+},
+{
+"date": null,
+"name": "http://www.debunker.com/historical/HistoryRussianUFOlogy.html",
+"url": "http://www.debunker.com/historical/HistoryRussianUFOlogy.html"
+}
+],
+"tier": "A",
+"type": "behavioral"
+},
+{
+"claimTier": 2,
+"cls": "event",
+"dateEnd": "1978-10-18",
+"dateStart": "1977-09-20",
+"direction": "in",
+"edgeLabel": "the 1977 event triggered the Soviet programmes",
+"id": "ev-petrozavodsk-1977",
+"l0": false,
+"label": "Petrozavodsk phenomenon, 20 September 1977",
+"note": "Stonehill and Mantle: the sharp increase in activity in 1977-78, 'especially, the Petrozavodsk Case', forced the Academy of Sciences to agree to the research programme.",
+"sources": [
+{
+"date": "2010-11-19",
+"name": "Stonehill & Mantle - Setka",
+"url": "https://web.archive.org/web/20101119234133/http://aforteanosla.com.ar/Colaboraciones/internacional/Mantle,%20Philip/Stonehill,%20Paul%20and%20Mantle,%20Philip.%20Setka%20an%20article.pdf"
+}
+],
+"tier": "C",
+"type": "programmatic"
+},
+{
+"claimTier": 3,
+"cls": "institution",
+"dateEnd": "1991",
+"dateStart": "1978",
+"direction": "out",
+"edgeLabel": "the same 1978-1991 apparatus under a Western naming convention",
+"id": "institute-22",
+"l0": false,
+"label": "'Institute 22' - Soviet Academy of Sciences / Ministry of Defence UFO organisation",
+"note": "Identical founding year, joint Academy of Sciences and Ministry of Defence sponsorship and dissolution with the USSR; no independent institutional record distinguishing them was located.",
+"sources": [
+{
+"date": "2026-01-01",
+"name": "Institute 22 - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/Institute_22"
+},
+{
+"date": "2010-11-19",
+"name": "Stonehill & Mantle",
+"url": "https://web.archive.org/web/20101119234133/http://aforteanosla.com.ar/Colaboraciones/internacional/Mantle,%20Philip/Stonehill,%20Paul%20and%20Mantle,%20Philip.%20Setka%20an%20article.pdf"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "1990",
+"dateStart": "1978",
+"direction": "out",
+"edgeLabel": "head institute of the Academy of Sciences branch",
+"id": "izmiran",
+"l0": false,
+"label": "IZMIRAN — Pushkov Institute of Terrestrial Magnetism",
+"note": "Academician V. Migulin, director of IZMIRAN and a radio physicist specialising in oscillation theory, radio wave propagation and radiolocation, was made scientific head of the academic branch, and IZMIRAN was designated head institute. The four-to-five person working group there was headed by Yu. Platov, co-author of the programme's published account.",
+"sources": [
+{
+"date": null,
+"name": "http://www.debunker.com/historical/HistoryRussianUFOlogy.html",
+"url": "http://www.debunker.com/historical/HistoryRussianUFOlogy.html"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "location",
+"dateEnd": "1990",
+"dateStart": "1977-10",
+"direction": "out",
+"edgeLabel": "run from Moscow: Kremlin decision, MoD institute, IZMIRAN",
+"id": "l-moscow",
+"l0": false,
+"label": "Moscow, Russia",
+"note": "The founding Scientific and Technical Council meeting of the Military-Industrial Commission was held in the Kremlin in October 1977; the lead military executor was 'one of the central military research institutes in the Moscow region'; and the academic branch was run from IZMIRAN, also in the Moscow region.",
+"sources": [
+{
+"date": null,
+"name": "http://www.debunker.com/historical/HistoryRussianUFOlogy.html",
+"url": "http://www.debunker.com/historical/HistoryRussianUFOlogy.html"
+}
+],
+"tier": "C",
+"type": "geographic"
+},
+{
+"claimTier": 2,
+"cls": "program",
+"dateEnd": "1990",
+"dateStart": "1977",
+"direction": "in",
+"edgeLabel": "COMPARISON: two military UAP field-collection programmes that ended in publication rather than burial",
+"id": "operacao-prato",
+"l0": true,
+"label": "Operação Prato (Operation Saucer)",
+"note": "COMPARISON EDGE — no contact between the Brazilian and Soviet programmes is claimed or evidenced, and none is likely. The pairing is structural: Operação Prato was a small dedicated Air Force and SNI field detachment run under a military dictatorship that closed with an official negative finding and whose files later went to a civil national archive; SETKA was a thirteen-year standing collection tasking laid on the whole Soviet armed forces, written up afterwards by the men who ran it and published in the Academy of Sciences' own journal. Both are counter-examples to the US pattern in the same way and by opposite routes — one through an archive law, one through its own operators publishing. [CORRECTED 14 Aug 2026: RQS 193/2022 is a request for a COMMEMORATIVE SPECIAL SESSION under Art. 199 RISF, approved 16 Mar 2022, held 24 Jun 2022 - not a records-seeking or compelling instrument. Its durable value is the content of its justificacao, which names Operacao Prato, the 1986 night, SIOANI and the archive reference BR DFANBSB ARX. These edges assert what the document NAMES, which is verifiable in its text and unaffected by its procedural nature, so the tier is unchanged. Any claim that the instrument COMPELLED disclosure would be false.]",
+"sources": [
+{
+"date": "2026-08-23",
+"name": "Senado Federal, Dados Abertos — official record of RQS 193/2022 (Código 152222): ementa 'Sessão especial destinada a comemorar os 75 anos do Dia Mundial da Ufologia', 16 March 2022, Sen. Eduardo Girão and seven co-signers",
+"url": "https://legis.senado.leg.br/dadosabertos/materia/pesquisa/lista?sigla=RQS&numero=193&ano=2022"
+},
+{
+"date": "1986-06-02",
+"name": "Relatório de Ocorrências (Arquivo Nacional PDF)",
+"url": "http://imagem.sian.an.gov.br/acervo/derivadas/BR_DFANBSB_ARX/0/0/0249/BR_DFANBSB_ARX_0_0_0249_d0001de0001.pdf"
+},
+{
+"date": "2026-01-01",
+"name": "Operação Prato - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Prato"
+},
+{
+"date": null,
+"name": "Bob Pratt, 'Operação Prato', MUFON/Pratt document set hosted by The Black Vault — https://documents.theblackvault.com/documents/MUFON/Pratt/prato.pdf",
+"url": ""
+},
+{
+"date": null,
+"name": "Senado Federal (Brasil), Requerimento nº 193, de 2022 (RQS 193/2022), autoria do Senador Eduardo Girão (PODEMOS/CE) com Eliziane Gama, Alessandro Vieira, Izalci Lucas, Jorge Kajuru, Marcos do Val, Paulo Rocha e Reguffe — sessão especial para os 75 anos do Dia Mundial da Ufologia — https://legis.senado.leg.br/sdleg-getter/documento?dm=9089831&ts=1647523438292&disposition=inline",
+"url": ""
+}
+],
+"tier": "A",
+"type": "programmatic"
+},
+{
+"claimTier": 3,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "1990",
+"direction": "in",
+"edgeLabel": "INFERENCE: the 1990 public centre stands up as the 1978-1990/91 state programme winds down, with Azhazha the common figure",
+"id": "soyuzufotsentr",
+"l0": false,
+"label": "SOYUZUFOTSENTR - USSR Inter-Industry Ufology Research Centre",
+"note": "READ THE LIMIT BEFORE USING THIS EDGE. No document located in this pass states any transfer of function, records, personnel or authority from SETKA-AN/SETKA-MO to SOYUZUFOTSENTR, and Project Condign - which describes both the Soviet state exploitation programme and SOYUZUFOTSENTR in the same chapter - does not name SETKA at all. What is documented is date adjacency and a shared principal: Condign dates SOYUZUFOTSENTR to 1990; the board dates the SETKA programmes 1978-1990/91; and the board already carries an edge vladimir-azhazha -> setka-program labelled 'ran the parallel public ufology centre after censorship lifted'. This edge makes that existing person-level assertion visible at institution level and nothing more. Reasoning, not evidence. If a later pass finds a document showing a formal succession, re-tier it; if a later pass finds the two were unconnected, delete it without loss.",
+"sources": [
+{
+"date": "2006-05-15",
+"name": "Project Condign Volume 3, Chapter 4, para 1 - released MoD copy, OCR text",
+"url": "https://archive.org/download/condign-vol-2-1-258/Condign_Vol_3_1-48_djvu.txt"
+},
+{
+"date": "2026-02-09",
+"name": "Gene Sticco, 'Knapp's \"Russian UFO files\" are mostly old news, even in 1993 Russia', Blackgrove's Field Notes",
+"url": "https://asirpjournal.substack.com/p/knapps-russian-ufo-files-are-mostly"
+}
+],
+"tier": "C",
+"type": "temporal"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "1991",
+"dateStart": "1989",
+"direction": "in",
+"edgeLabel": "ran the parallel public ufology centre after censorship lifted",
+"id": "vladimir-azhazha",
+"l0": false,
+"label": "Vladimir Georgievich Azhazha",
+"note": "SOYUZUFOTSENTR was created in 1990 with Academy of Sciences institute rights, after the removal of censorship on the subject in 1989.",
+"sources": [
+{
+"date": "2006-05-15",
+"name": "Condign Volume 3",
+"url": "https://archive.org/download/condign-vol-2-1-258/Condign_Vol_3_1-48_djvu.txt"
+},
+{
+"date": "2010-11-19",
+"name": "Stonehill & Mantle",
+"url": "https://web.archive.org/web/20101119234133/http://aforteanosla.com.ar/Colaboraciones/internacional/Mantle,%20Philip/Stonehill,%20Paul%20and%20Mantle,%20Philip.%20Setka%20an%20article.pdf"
+}
+],
+"tier": "C",
+"type": "research"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "1991",
+"dateStart": "1978-10-18",
+"direction": "in",
+"edgeLabel": "chief executive for SETKA-AN at IZMIRAN",
+"id": "yury-platov",
+"l0": false,
+"label": "Yury Viktorovich Platov",
+"note": "Designated at the founding meeting of 18 October 1978, with IZMIRAN as lead agency.",
+"sources": [
+{
+"date": "2010-11-19",
+"name": "Stonehill & Mantle - Setka",
+"url": "https://web.archive.org/web/20101119234133/http://aforteanosla.com.ar/Colaboraciones/internacional/Mantle,%20Philip/Stonehill,%20Paul%20and%20Mantle,%20Philip.%20Setka%20an%20article.pdf"
+}
+],
+"tier": "C",
+"type": "institutional"
+}
+],
+"coords": null,
+"dateEnd": "1991",
+"dateStart": "1978-10-18",
+"deg": 11,
+"denials": [],
+"desc": "SETKA - 'net' or 'grid' - was the codename for the Soviet Union's twin state programmes on anomalous phenomena, established at the end of 1978 after the sharp increase in reports in 1977-78 and in particular the Petrozavodsk event of 20 September 1977. SETKA-AN ran inside the USSR Academy of Sciences; SETKA-MO ran inside the Ministry of Defence; both were reportedly ordered by the Military-Industrial Commission, which decided to create two research centres that would aid each other and exchange information. A founding meeting took place in the Academy of Sciences on 18 October 1978, attended by Vladimir Migulin and Yury Platov of IZMIRAN (the Institute of Terrestrial Magnetism and Radio Wave Propagation, which became the lead agency), Georgiy Narimanov and Inna Petrovskaya of the Institute for Space Studies, Rem Varlamov of the Moscow Technological Institute, Victor Balashov and Vladimir Volga of secret military unit 67947, A. N. Makarov of the Department of General Physics and Astronomy, Lev Gindilis of the Shternberg State Astronomical Institute, and others including a colonel of the anti-aircraft forces. The programme was renamed Galaktika in 1981 and Gorizont in 1986, and ended around 1990-91, after which a group of experts continued analysing incoming reports in the Department of General Physics and Astronomy of the Russian Academy of Sciences until 1996. Soviet usage substituted 'anomalous phenomenon' for the forbidden term 'UFO'. Guidelines for the Soviet Navy were issued on 7 March 1980 over the signature of the Deputy Commander of the Main Headquarters of the Navy, Vice Admiral Saakyan.",
+"domains": [
+"w2-international"
+],
+"dossier": {
+"claims": [
+{
+"source": "Yu. V. Platov and B. A. Sokolov, translated from Vestnik Rossiiskoi Akademii Nauk, Vol. 70, No. 6, 2000, pp. 507-515 - http://www.debunker.com/historical/HistoryRussianUFOlogy.html",
+"text": "The Petrozavodsk phenomenon of 20 September 1977 was reported in Izvestia on 23 September 1977 under the title 'The Unidentified natural phenomenon', describing a 'huge \"star\" with impulsive beams of light coming to the ground' that hung over the town 'as a huge \"jellyfish\"'.",
+"tier": 1
+},
+{
+"source": "Platov and Sokolov (2000) - http://www.debunker.com/historical/HistoryRussianUFOlogy.html",
+"text": "Academy of Sciences President Anatoly Aleksandrov wrote to L. Smirnov, Vice-President of the government and Chairman of the Military-Industrial Commission, requesting urgent consideration of a complex research programme on anomalous phenomena involving Ministry of Defence and war-industry organisations.",
+"tier": 1
+},
+{
+"source": "Platov and Sokolov (2000) - http://www.debunker.com/historical/HistoryRussianUFOlogy.html",
+"text": "The MIC Scientific and Technical Council met 'in October, 1977 in Kremlin under the presidency of general - lieutenant B.A.Kijasov'; members noted that reports of extraordinary phenomena also reached Ministry of Defence organisations from servicemen and that 'during such events sometimes were marked the cases of violation in the operation of the means of maintenance of the army forces'.",
+"tier": 1
+},
+{
+"source": "Platov and Sokolov (2000) - http://www.debunker.com/historical/HistoryRussianUFOlogy.html",
+"text": "Two topics were entered in the 1978 defence research plan, verbatim: '\"Setka MO\" (Ministry of Defence) - \"Research of paranormal atmospheric and space phenomena and their influence on the operation of military technical equipment and personnel\"; \"Setka AS\" (Academy of Sciences) - \"Research of a physical nature and mechanisms of paranormal atmospheric and space phenomena\".'",
+"tier": 1
+},
+{
+"source": "Platov and Sokolov (2000) - http://www.debunker.com/historical/HistoryRussianUFOlogy.html",
+"text": "'Thus, in 1978 in the USSR the state program of studying the \"UFO\" phenomenon started, and proceeded without interruption for 13 years down to 1990.' Five-year defence research plans including the anomalous-phenomena work were approved again in 1981 and 1986.",
+"tier": 1
+},
+{
+"source": "Platov and Sokolov (2000) - http://www.debunker.com/historical/HistoryRussianUFOlogy.html",
+"text": "The military branch was led from 'one of the central military research institutes in the Moscow region', with its chief V. Balashov as scientific head and a working group of four to five people; roughly fifteen further Ministry of Defence and war-industry organisations participated voluntarily. The academic branch was headed by Academician V. Migulin, director of IZMIRAN, which was 'determined as the head institute in this field of activity', with a working group of four to five headed by Yu. Platov.",
+"tier": 1
+},
+{
+"source": "Platov and Sokolov (2000) - http://www.debunker.com/historical/HistoryRussianUFOlogy.html",
+"text": "'The budget financing of the research program included the salary of the experts occupied in these activities and the costs of business trips. All the money was coming from the budget of organisations - executors and there was no special financing of the research.' The programme was 'the most inexpensive one, if not the cheapest, among the scientific works on defensive subjects'.",
+"tier": 1
+},
+{
+"source": "Platov and Sokolov (2000) - http://www.debunker.com/historical/HistoryRussianUFOlogy.html",
+"text": "A document authorised by the Chief of the General Staff in January 1980 reached the troops as a General Staff Directive; it designated the central research institute as the collection, processing and analysis centre, named responsible institutes in all five arms, set the order for obtaining launch data needed for identification, and fixed rules for documenting and reporting detections by urgency.",
+"tier": 1
+},
+{
+"source": "Platov and Sokolov (2000) - http://www.debunker.com/historical/HistoryRussianUFOlogy.html",
+"text": "Verbatim: 'One can say that the noted directive for 13 years put the army into the on-duty regime of observation of the paranormal phenomena in the places of the army dislocation, i.e. practically on the whole territory of the USSR, and this means, anyway, approximately 1/6 of the Earth territory.' Each serviceman 'became (without knowing it) a potential participant of the program'.",
+"tier": 1
+},
+{
+"source": "Platov and Sokolov (2000) - http://www.debunker.com/historical/HistoryRussianUFOlogy.html",
+"text": "The research was classified for three stated reasons: it formally entered the classified defence plan; a military-technical origin for the effects was thought likely at the outset; and there was 'a capability of a military use of some probable properties of the UFO ... absence of a radar contrast, high manoeuvrability, etc.' In official documents 'the use of an abbreviation \"UFO\" was not accepted, instead of it the term \"paranormal phenomenon\" was used.'",
+"tier": 1
+},
+{
+"source": "Platov and Sokolov (2000) - http://www.debunker.com/historical/HistoryRussianUFOlogy.html",
+"text": "'During the work on the program (for 13 years) about three thousand of messages reporting about extraordinary phenomena have been obtained ... on the whole, more than 400 events were registered and identified as extraordinary or paranormal.' Over 90% were resolved as rocket-launch effects or high-altitude balloons, the balloon class accounting for 10-12% of messages. The Petrozavodsk phenomenon itself was attributed to 'the launch of an artificial Earth satellite \"Kosmos 955\" from the space range in Plesetsk'. Reports 'did not practically come' from units at or near test ranges, where such effects were familiar.",
+"tier": 1
+},
+{
+"source": "Platov and Sokolov (2000) - http://www.debunker.com/historical/HistoryRussianUFOlogy.html",
+"text": "Across the whole programme there was no message about a UFO landing, no message about contact with UFO occupants, and no message about abductions. The authors state the conclusion as a fork: 'either the territory of the USSR was, due to any reasons, closed for alien visitations during, at least, 13 years or that the hypothesis of an extraterrestrial origin of \"UFO\" is inconsistent.'",
+"tier": 1
+},
+{
+"source": "Platov and Sokolov (2000) - http://www.debunker.com/historical/HistoryRussianUFOlogy.html",
+"text": "The series of flight emergencies in 1984-87 at the Borisoglebsk air unit in Voronezh region, characterised by unknown objects on radar and visually observed by pilots in emergency zones, is left explicitly unresolved: 'So far there is no consensus of opinion as to the role played in these emergencies by the mysterious objects observed in the zone of flight, and we shall interpret these events as unidentified.'",
+"tier": 1
+},
+{
+"source": "Paul Stonehill and Philip Mantle, 'Setka: A Secret Soviet UFO Research Program - Dawn of the Secret Program' - https://www.ufoinfo.com/news/setka.shtml",
+"text": "Secondary accounts state that the SETKA designations were changed to 'Galaktika' (MO and AN) in 1981 and to 'Gorizont' (MO and AN) in 1986.",
+"tier": 3
+}
+],
+"connections": [],
+"denialPosture": "",
+"narrative": "SETKA is the largest state UAP data-collection effort ever run, and almost nothing about it looks like the American arrangement. It was created by a bureaucratic decision minuted at the Kremlin, funded out of nobody's budget, executed by fewer than a dozen people, mandated in writing to every Soviet serviceman, and - the part that matters here - written up afterwards by the two men who ran it and published in the Academy of Sciences' own journal.\n\nThe trigger was the Petrozavodsk phenomenon of 20 September 1977, a large-scale luminous event seen across the north-west USSR and into Finland by ambulance crews, militia, dockers, military personnel and airport staff, and reported in Izvestia three days later under the headline 'The Unidentified natural phenomenon'. Local authorities asked the Presidium of the Academy of Sciences to explain it; letters arrived from northern European governments asking whether the effects came from military-technical experiments and endangered the environment. Under that pressure the President of the Academy of Sciences, Academician Anatoly Aleksandrov, wrote to L. Smirnov, Vice-President of the government and Chairman of the Military-Industrial Commission, asking that a complex research programme on anomalous phenomena be started with Ministry of Defence and war-industry involvement. The MIC Scientific and Technical Council met in the Kremlin in October 1977 under Lieutenant-General B. A. Kijasov. Members noted that reports of extraordinary phenomena also reached Ministry of Defence organisations from servicemen, and had sometimes coincided with equipment failures.\n\nThe meeting recommended, and the MIC under the Council of Ministers adopted, the inclusion of two topics in the 1978 state plan of defence research: 'Setka MO' (Ministry of Defence) - 'Research of paranormal atmospheric and space phenomena and their influence on the operation of military technical equipment and personnel' - and 'Setka AS' (Academy of Sciences) - 'Research of a physical nature and mechanisms of paranormal atmospheric and space phenomena'. The programme ran without interruption for thirteen years, to 1990, and was re-approved in the five-year defence research plans of 1981 and 1986. Platov and Sokolov note that the October 1977 STC meeting 'was the first and last measure with a so high official level of the participants engaged in the problem'.\n\nThe execution was tiny. The military branch was led from one of the central military research institutes in the Moscow region, with its chief V. Balashov - an expert on radiation and other damaging factors on military equipment - as scientific head, and four to five specialists doing the collection, processing and analysis. Around fifteen further Ministry of Defence and war-industry organisations participated voluntarily and very limitedly. The academic branch was led by Academician V. Migulin, director of IZMIRAN, which was designated head institute; the working group there, also four to five people, was headed by Yu. Platov. Budget financing covered salaries and travel, drawn from the executing organisations' own budgets, with no special allocation - 'the most inexpensive one, if not the cheapest, among the scientific works on defensive subjects'.\n\nThe instrument that made it work was a document authorised by the Chief of the General Staff in January 1980 and distributed to the troops as a General Staff Directive. It designated the central military research institute as the collection, processing and analysis centre for all UAP information obtained by the military; named the research institutes responsible in all five arms; set the procedure by which the centre could obtain identification data, above all launch data for military aerospace systems; and fixed the rules for documenting detections and the reporting order by urgency. The authors' own summary is the sentence worth having verbatim: the directive 'for 13 years put the army into the on-duty regime of observation of the paranormal phenomena in the places of the army dislocation, i.e. practically on the whole territory of the USSR'. Every serviceman became, as they put it, 'without knowing it' a potential participant, obliged to report any inexplicable phenomenon in writing.\n\nThe work was classified for three stated reasons: it sat inside the classified defence research plan; a military-technical origin for the effects was thought likely at the outset; and there was a possible military application of properties such as absence of radar contrast and high manoeuvrability. The word 'UFO' was not used in official documents, which said 'anomalous phenomenon' instead - partly because it fitted the observations better, partly to keep clear of popular agitation about aliens arriving on flying saucers.\n\nThe results are what a large sensor network with a small analysis cell produces. Over thirteen years about three thousand messages arrived, describing more than 400 distinct events after mass-observation reports were consolidated. More than 90% were resolved as effects accompanying rocket and space launches - sunlight scattered off gas-and-dust clouds from rocket exhaust, visible over hundreds of kilometres in twilight geometry - or as high-altitude balloons, which accounted for 10-12% of messages. The Petrozavodsk event itself was attributed to the launch of Kosmos 955 from Plesetsk. Notably, reports did not come in from units at or near test ranges, where such effects were familiar. The 1984-87 series of flight emergencies at the Borisoglebsk air unit in Voronezh region, where unknown objects appeared on radar and were seen by pilots, the authors leave explicitly unidentified.\n\nAnd then the finding that makes the programme worth a node rather than a footnote. Across thirteen years of compulsory reporting spanning roughly a sixth of the Earth's land surface, the programme received no report of a landing, no report of contact with occupants, and no report of an abduction. Platov and Sokolov put the conclusion as a fork: either the USSR was closed to alien visitation for at least thirteen years, or the extraterrestrial-origin hypothesis is inconsistent. They also dismiss the 1990s wave of claims about 'KGB secret files' and 'classified capture of UFO' as absurd. Whatever one makes of the conclusions, the contrast with the American record is the point: the Soviet state ran the collection openly enough inside its own system to mandate it army-wide, and its coordinators published the account under their own names in Vestnik Rossiiskoi Akademii Nauk in 2000.",
+"openQuestions": [],
+"roles": [
+"research",
+"disclosure"
+],
+"whatItIs": "Twin USSR Academy of Sciences and Ministry of Defence programmes, 1978-1990. The Soviet Union turned its entire army into a standing UAP sensor network for thirteen years, and then published",
+"whyImplicated": "SETKA is the largest state UAP data-collection effort ever run, and almost nothing about it looks like the American arrangement. It was created by a bureaucratic decision minuted at the Kremlin, funded out of nobody's budget, executed by fewer than a dozen people, mandated in writing to every Soviet serviceman, and - the part that matters here - written up afterwards by the two men who ran it and published in the Academy of Sciences' own journal."
+},
+"entityInfo": null,
+"era": "1",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "setka-program",
+"l0": true,
+"label": "SETKA-AN / SETKA-MO (later Galaktika, then Gorizont) - Soviet state anomalous phenomena programme",
+"locLabel": null,
+"members": [
+{
+"cls": "event",
+"id": "ev-petrozavodsk-1977",
+"label": "Petrozavodsk phenomenon, 20 September 1977",
+"tier": "C"
+},
+{
+"cls": "institution",
+"id": "institute-22",
+"label": "'Institute 22' - Soviet Academy of Sciences / Ministry of Defence UFO organisation",
+"tier": "C"
+},
+{
+"cls": "institution",
+"id": "izmiran",
+"label": "IZMIRAN — Pushkov Institute of Terrestrial Magnetism",
+"tier": "C"
+},
+{
+"cls": "location",
+"id": "l-moscow",
+"label": "Moscow, Russia",
+"tier": "C"
+},
+{
+"cls": "institution",
+"id": "soyuzufotsentr",
+"label": "SOYUZUFOTSENTR - USSR Inter-Industry Ufology Research Centre",
+"tier": "C"
+},
+{
+"cls": "person",
+"id": "vladimir-azhazha",
+"label": "Vladimir Georgievich Azhazha",
+"tier": "C"
+},
+{
+"cls": "person",
+"id": "yury-platov",
+"label": "Yury Viktorovich Platov",
+"tier": "C"
+}
+],
+"short": "SETKA-AN / SETKA-MO",
+"sources": [
+{
+"date": "2010-11-19",
+"name": "Stonehill & Mantle - Setka: A Secret Soviet UFO Research Program",
+"url": "https://web.archive.org/web/20101119234133/http://aforteanosla.com.ar/Colaboraciones/internacional/Mantle,%20Philip/Stonehill,%20Paul%20and%20Mantle,%20Philip.%20Setka%20an%20article.pdf"
+},
+{
+"date": "2006-05-15",
+"name": "Project Condign Volume 3 (UK MoD assessment of FSU activity)",
+"url": "https://archive.org/download/condign-vol-2-1-258/Condign_Vol_3_1-48_djvu.txt"
+},
+{
+"date": "2026-01-01",
+"name": "Petrozavodsk phenomenon - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/Petrozavodsk_phenomenon"
+}
+],
+"sub": "Twin USSR Academy of Sciences and Ministry of Defence programmes, 1978-1990/91",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 186 of 1027, score 45). 11 connections, 2 of them custody/witness/funding/programmatic. Axes C1/A2/D2.",
+"timeline": [
+{
+"date": "1978-10-18",
+"id": "tl-intl-1978-setka",
+"label": "Founding meeting of SETKA at the USSR Academy of Sciences",
+"precision": "day",
+"strand": "program",
+"text": "Migulin and Platov of IZMIRAN, Narimanov and Petrovskaya of the Institute for Space Studies, Balashov and Volga of secret military unit 67947, Gindilis of the Shternberg Institute and others meet. SETKA-AN and SETKA-MO are established on the order of the Military-Industrial Commission. The official history later gives as one reason for secrecy the possibility 'that some of the UFO characteristics could be used for military purposes'.",
+"tier": 2
+},
+{
+"date": "1980-03-07",
+"id": "tl-intl-1980-navy",
+"label": "Soviet Navy anomalous phenomena reporting instruction",
+"precision": "day",
+"strand": "program",
+"text": "Guidelines for the Soviet Navy on collecting anomalous phenomena data are signed by the Deputy Commander of the Main Headquarters of the Navy, Vice Admiral Saakyan.",
+"tier": 2
+}
+]
+}

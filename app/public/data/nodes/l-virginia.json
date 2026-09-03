@@ -1,0 +1,76 @@
+{
+"A": 1,
+"C": 1,
+"D": 2,
+"band": null,
+"claims": [],
+"cls": "location",
+"cluster": "media",
+"connections": [
+{
+"claimTier": 2,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "NRO headquarters, Westfields, Chantilly",
+"id": "nro",
+"l0": true,
+"label": "National Reconnaissance Office",
+"note": "Since 1995 the National Reconnaissance Office has occupied a 68-acre compound at the Westfields International Center in Chantilly, Virginia, part of the Northern Virginia intelligence corridor this node stands for.",
+"sources": [
+{
+"date": "2026-08-25",
+"name": "National Reconnaissance Office, Contact Us (14675 Lee Road, Chantilly, VA 20151-1715)",
+"url": "https://www.nro.gov/Contact-Us/"
+},
+{
+"date": null,
+"name": "https://en.wikipedia.org/wiki/National_Reconnaissance_Office",
+"url": "https://en.wikipedia.org/wiki/National_Reconnaissance_Office"
+}
+],
+"tier": "A",
+"type": "geographic"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": null,
+"deg": 1,
+"denials": [],
+"desc": "Virginia carries an unusual double weight on this board. As a state it holds the densest concentration of intelligence and defence institutions in the country - Langley, the Pentagon across the river, Quantico, and the contractor corridor through McLean and Chantilly - so a very large share of the people catalogued here worked within its borders. As a specific locus it anchors Charlottesville, the base of Steven M. Greer, whose Disclosure Project assembled several hundred military and government witnesses and staged the National Press Club event of 9 May 2001, an operation that put uniformed retirees on camera at scale for the first time.",
+"domains": [
+"w2-taxonomy"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "nd",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "l-virginia",
+"l0": false,
+"label": "Charlottesville and the Commonwealth of Virginia",
+"locLabel": null,
+"members": null,
+"short": "Charlottesville and the Commonwealth of Virginia",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Wikipedia - Virginia",
+"url": "https://en.wikipedia.org/wiki/Virginia"
+},
+{
+"date": "2019-09-16",
+"name": "Clinton Digital Library, FOIA collection 2006-0474-F, 'Unidentified Flying Objects (UFO)' (Greer/CSETI correspondence)",
+"url": "https://clinton.presidentiallibraries.us/items/show/36386"
+}
+],
+"sub": "US state; used on this board as the Charlottesville-area anchor and the general Virginia locus",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 953 of 1027, score 12). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D2.",
+"timeline": []
+}

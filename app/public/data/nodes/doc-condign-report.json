@@ -1,0 +1,496 @@
+{
+"A": 2,
+"C": 1,
+"D": 3,
+"band": "research",
+"claims": [
+{
+"source": "Project Condign, 'Unidentified Aerial Phenomena in the UK Air Defence Region', UK Defence Intelligence Staff; released 15 May 2006",
+"text": "The report is a three-volume report, not four. The preface to Volume 3 states 'This is the third volume of a three-part report'. The commonly cited fourth part is the separately released standalone Executive Summary.",
+"tier": 1
+},
+{
+"source": "Project Condign, 'Unidentified Aerial Phenomena in the UK Air Defence Region', UK Defence Intelligence Staff; released 15 May 2006",
+"text": "Volume 3 is titled 'Miscellaneous Related Studies'. 'Potential for Exploitation of UAP-Associated Effects' is the title of its Chapter 3, and Chapter 4 is 'UAP Work in Other Countries'. These have been conflated with the volume title.",
+"tier": 1
+},
+{
+"source": "Project Condign, 'Unidentified Aerial Phenomena in the UK Air Defence Region', UK Defence Intelligence Staff; released 15 May 2006",
+"text": "Volume 3 Chapter 4 paragraph 1 records the Soviet centre's name as SOYUZUFOSENTR, not Soyuzufotsentr: 'an Inter-Industry Ufology Research Centre (SOYUZUFOSENTR) to co-ordinate records. This Centre had the rights of an Institute under the USSR Academy of Sciences, and was headed by V.G. AZAHAZHA (or AZHAZHA) an eminent researcher and former naval submariner.'",
+"tier": 1
+},
+{
+"source": "UK National Archives DEFE 24/2090/1, FOI review file",
+"text": "The FOI review file DEFE 24/2090/1 shows a still-redacted reference to a 'CIA desk officer' at Volume 3, Chapter 4, page 3, paragraph 12.",
+"tier": 2
+},
+{
+"source": "Unidentified Aerial Phenomena in the UK Air Defence Region, Executive Summary, Findings para 3",
+"text": "Finding para 3: 'As a result of the studies and considering all the available information, no evidence either of intelligent control of the objects, alleged inspections of UK strategic assets or any hostility or threat has been found. Although there are some allied topics of potential military interest there are no findings in the category of direct interest to defence intelligence.'",
+"tier": 1
+},
+{
+"source": "Condign Executive Summary, Findings para 4",
+"text": "Finding para 4: 'although unidentified objects regularly appear in the UKADR there is no hostile threat from them to our aircraft, they do not belong to another nation and there is no evidence of extra-terrestrial activity apart from the very high probability, in some cases, of their connection with meteors.'",
+"tier": 1
+},
+{
+"source": "Condign Executive Summary, Findings para 7, released MoD page image",
+"text": "Finding para 7, 'Related Military Applications', is entirely redacted in the released copy under exemption s.26.",
+"tier": 1
+},
+{
+"source": "Condign Executive Summary, Subsidiary Recommendations and Findings para 5",
+"text": "Flight-safety subsidiary recommendation: 'No attempt should be made to out-manoeuvre a UAP during interception' and at higher altitudes 'pilots should be advised not to manoeuvre, other than to place the object astern, if possible' - advice given 'Following the Russian experiences'.",
+"tier": 1
+},
+{
+"source": "Condign Executive Summary, Subsidiary Recommendations",
+"text": "Public-release recommendation: 'It is suggested that the findings of this report could be used to provide the public with a balanced view of UAP reports and MoD involvement. It is recommended that this report be made available in a suitable form for public release.'",
+"tier": 1
+},
+{
+"source": "Condign Executive Summary, para 16",
+"text": "'The Way Ahead' paragraph 16 states that the knowledge gained 'may be of value in any wider policy decision on the way ahead ... it would also protect the DIS involvement which has, unfortunately, become public knowledge'.",
+"tier": 1
+},
+{
+"source": "Inference from Condign Executive Summary paras 3-16 as released",
+"text": "The report is simultaneously an explanation and a closure instrument: its plasma hypothesis supplies a non-threatening account of the residual cases while its key recommendation ends DI55's monitoring requirement and its database - the analytical capability - and paragraph 16 frames public release as protective of the Ministry's position. Reasoning: the recommendation list moves from explanation directly to termination and to managed disclosure, with the only paragraphs about military application redacted.",
+"tier": 3
+}
+],
+"cls": "document",
+"cluster": "ic",
+"connections": [
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "2006-05-15",
+"dateStart": "2005-09",
+"direction": "in",
+"edgeLabel": "FOI request that forced the release",
+"id": "david-clarke-uk",
+"l0": false,
+"label": "Dr David Clarke",
+"note": "Clarke and Gary Anthony filed the September 2005 FOI request; the MoD released the report on 15 May 2006 and logged an internal review in its own disclosure log.",
+"sources": [
+{
+"date": "2006-05-15",
+"name": "MoD Publication Scheme",
+"url": "https://web.archive.org/web/20060515083956/http://www.mod.uk/DefenceInternet/FreedomOfInformation/PublicationScheme/SearchPublicationScheme/UapInTheUkAirDefenceRegionExecutiveSummary.htm"
+}
+],
+"tier": "C",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "2006-05-15",
+"dateStart": "2000",
+"direction": "out",
+"edgeLabel": "Volume 3 holds the material excluded from the RESTRICTED summary",
+"id": "doc-condign-vol3",
+"l0": true,
+"label": "Project Condign Volume 3 - Potential for Exploitation of UAP-Associated Effects / UAP Work in Other Countries",
+"note": "Volume 3's own opening states that it 'primarily deals with sensitive matters associated with the UAP study which could not be placed in the RESTRICTED Executive Summary'.",
+"sources": [
+{
+"date": "2006-05-15",
+"name": "Condign Volume 3",
+"url": "https://archive.org/download/condign-vol-2-1-258/Condign_Vol_3_1-48_djvu.txt"
+}
+],
+"tier": "B",
+"type": "custody"
+},
+{
+"claimTier": 3,
+"cls": "event",
+"dateEnd": "2009-12",
+"dateStart": "2000",
+"direction": "out",
+"edgeLabel": "key recommendation executed nine years later",
+"id": "ev-uk-ufo-desk-closure",
+"l0": false,
+"label": "Closure of the MoD UFO Desk, 1 December 2009",
+"note": "Condign's single key recommendation was that DI55 should no longer be required to monitor UAP reports and that the database should not be maintained; the desk that fed it closed in 2009 on the same stated ground.",
+"sources": [
+{
+"date": "2006-05-15",
+"name": "Condign Executive Summary",
+"url": "https://archive.org/download/condign-vol-2-1-258/uap_vol1_pgs87to99_ch4to5_djvu.txt"
+},
+{
+"date": "2013-06-01",
+"name": "TNA UFO files, June 2013",
+"url": "https://web.archive.org/web/20130701000000/http://www.nationalarchives.gov.uk/ufos/"
+}
+],
+"tier": "C",
+"type": "programmatic"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2006-05-15",
+"dateStart": "2005-09",
+"direction": "in",
+"edgeLabel": "co-requester of the Condign FOI",
+"id": "gary-anthony-uk",
+"l0": false,
+"label": "Gary Anthony",
+"note": "Named with Clarke as co-requester in the report's release history and in contemporaneous BBC and Guardian coverage.",
+"sources": [
+{
+"date": "2026-03-19",
+"name": "Project Condign - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/Project_Condign"
+}
+],
+"tier": "C",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "location",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "produced at Whitehall, released via TNA at Kew",
+"id": "l-london",
+"l0": false,
+"label": "London, United Kingdom",
+"note": "Both ends of the Condign story sit in London: the MoD secretariat that handled UFO material was at Whitehall, and the MoD's historical UFO files went to The National Archives at Kew under a five-year transfer programme whose releases run from August 2009 through 2013. The guide describes the transfer programme but does not date the reporting desk's closure, so that detail is not asserted here.",
+"sources": [
+{
+"date": "2013-01-01",
+"name": "The National Archives, 'Unidentified Flying Objects (UFOs)' research guide",
+"url": "https://cdn.nationalarchives.gov.uk/documents/ufo-research-guide-2013.pdf"
+},
+{
+"date": null,
+"name": "https://en.wikipedia.org/wiki/Project_Condign",
+"url": "https://en.wikipedia.org/wiki/Project_Condign"
+},
+{
+"date": null,
+"name": "https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf",
+"url": "https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf"
+}
+],
+"tier": "C",
+"type": "geographic"
+},
+{
+"claimTier": 1,
+"cls": "location",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "UK-commissioned study of its own air defence region",
+"id": "l-uk",
+"l0": false,
+"label": "United Kingdom",
+"note": "The report is DI55's, and its title fixes its scope: 'Unidentified Aerial Phenomena in the UK Air Defence Region', completed in 2000. From that point onwards DI55 was removed from the distribution list of UFO reports received by the MoD. It is a state-commissioned assessment of the phenomenon over British territory with no American equivalent released to the public.",
+"sources": [
+{
+"date": "2013-01-01",
+"name": "The National Archives, 'Unidentified Flying Objects (UFOs)' research guide",
+"url": "https://cdn.nationalarchives.gov.uk/documents/ufo-research-guide-2013.pdf"
+},
+{
+"date": null,
+"name": "https://en.wikipedia.org/wiki/Project_Condign",
+"url": "https://en.wikipedia.org/wiki/Project_Condign"
+}
+],
+"tier": "C",
+"type": "geographic"
+},
+{
+"claimTier": 1,
+"cls": "location",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "Condign report held at MoD Main Building",
+"id": "l-uk-mod-whitehall",
+"l0": false,
+"label": "Ministry of Defence Main Building, Whitehall, London",
+"note": "DI55, which produced the report, is a Defence Intelligence branch of the Ministry of Defence; it inherited responsibility for inquiries into UFO incidents of possible defence significance in 1967. The National Archives guide places the MoD's UFO secretariat work at Whitehall but does not state where the Condign volumes were physically held, so the Whitehall tie here is institutional rather than a documented location of the report.",
+"sources": [
+{
+"date": "2013-01-01",
+"name": "The National Archives, 'Unidentified Flying Objects (UFOs)' research guide",
+"url": "https://cdn.nationalarchives.gov.uk/documents/ufo-research-guide-2013.pdf"
+},
+{
+"date": null,
+"name": "https://en.wikipedia.org/wiki/Project_Condign",
+"url": "https://en.wikipedia.org/wiki/Project_Condign"
+},
+{
+"date": null,
+"name": "https://archive.org/stream/396201-defe-24-2090-1/396201-defe-24-2090-1_djvu.txt",
+"url": "https://archive.org/stream/396201-defe-24-2090-1/396201-defe-24-2090-1_djvu.txt"
+}
+],
+"tier": "C",
+"type": "geographic"
+},
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": "2000",
+"dateStart": "2000",
+"direction": "in",
+"edgeLabel": "produced the four-volume report",
+"id": "project-condign",
+"l0": false,
+"label": "Project Condign",
+"note": "Project Condign's output is 'Unidentified Aerial Phenomena in the UK Air Defence Region'.",
+"sources": [
+{
+"date": "2006-05-15",
+"name": "Project Condign - Internet Archive",
+"url": "https://archive.org/details/condign-vol-2-1-258"
+}
+],
+"tier": "B",
+"type": "programmatic"
+},
+{
+"claimTier": 3,
+"cls": "program",
+"dateEnd": "2000",
+"dateStart": "1952",
+"direction": "in",
+"edgeLabel": "1952 recommendation to acquire the technology prefigures Condign's redacted 'Related Military Applications'",
+"id": "project-magnet",
+"l0": false,
+"label": "Project Magnet (Canada)",
+"note": "Smith's 1952 report recommends 'acquisition of as much as possible of this technology'; Condign's own paragraph 7, 'Related Military Applications', is redacted in full under the defence exemption. Reasoning: both are government documents whose exploitation sections are the point at which the record becomes either explicit or withheld.",
+"sources": [
+{
+"date": "2005-08-11",
+"name": "LAC - Project Magnet page",
+"url": "https://web.archive.org/web/2006/http://www.collectionscanada.ca/ufo/002029-1400.01-e.html"
+},
+{
+"date": "2006-05-15",
+"name": "Condign Executive Summary",
+"url": "https://archive.org/download/condign-vol-2-1-258/uap_vol1_pgs87to99_ch4to5_djvu.txt"
+}
+],
+"tier": "B",
+"type": "research"
+}
+],
+"coords": null,
+"dateEnd": "2006-05-15",
+"dateStart": "2000",
+"deg": 9,
+"denials": [],
+"desc": "The Condign report's actual conclusions are consistently misdescribed. Its findings section states that 'no evidence either of intelligent control of the objects, alleged inspections of UK strategic assets or any hostility or threat has been found', that unidentified objects 'regularly appear in the UKADR', that 'there is no hostile threat from them to our aircraft, they do not belong to another nation and there is no evidence of extra-terrestrial activity apart from the very high probability, in some cases, of their connection with meteors'. Its explanatory core is paragraph 10, 'Charged Plasmas in the Atmosphere': the residual events are 'most likely due to highly charged plasma entities which can take more than one form, and are apparently formed from more than one cause', mainly buoyant, capable of remaining stationary or moving 'at variable velocity and flight profile under the influence of naturally occurring atmospheric fields and man-made fields', with ball lightning and incompletely destroyed meteors named as formation mechanisms - and with the explicit caveat that 'the possibility of other physical effects, hitherto not characterised, cannot be ruled [out]'. The human-effects finding is that the 'most important finding is the potential connection between the modulated magnetic fields, used in the Canadian medical experiments which seem to produce the same effect on the human mind as those experienced by those few witnesses who have been very close to a UAP'. Paragraph 6, 'Radar Detection of Plasmas', and paragraph 7, 'Related Military Applications', are redacted under exemption s.26. The document was released with its classification caveats UK SECRET / UK RESTRICTED / UK EYES ONLY visible on the page images.",
+"domains": [
+"w2-international"
+],
+"dossier": {
+"claims": [
+{
+"source": "https://en.wikipedia.org/wiki/Project_Condign",
+"text": "Project Condign was a Defence Intelligence Staff study conducted between 1996 and 2000, producing a report titled 'Unidentified Aerial Phenomena in the UK Air Defence Region' drawing on approximately 10,000 sightings gathered by DI55, a section of the Directorate of Scientific and Technical Intelligence.",
+"tier": 2
+},
+{
+"source": "https://en.wikipedia.org/wiki/Project_Condign",
+"text": "The report was released into the public domain on 15 May 2006 following a September 2005 Freedom of Information Act request by David Clarke of Sheffield Hallam University and Gary Anthony, a former BUFORA astronomical consultant.",
+"tier": 2
+},
+{
+"source": "https://drclarke.substack.com/p/condign-un-redacted",
+"text": "David Clarke states that defence scientist Ron Haddow was commissioned in 1996 to write the report because DI55 regarded him as their expert on the subject, that the completed report was classified 'Secret UK Eyes Only,' and that his copy was handed to him in MoD Main Building by Linda Unwin, then the penultimate UFO desk officer, a post abolished in 2009.",
+"tier": 2
+},
+{
+"source": "http://www.ianridpath.com/ufo/condign.html",
+"text": "The full report covers three volumes totalling 460 pages and uses the term UAP (Unidentified Aerial Phenomena) throughout in place of UFO.",
+"tier": 2
+},
+{
+"source": "http://www.ianridpath.com/ufo/condign.html",
+"text": "The report states: 'No artefacts of unknown or unexplained origin have been reported or handed to the UK authorities, despite thousands of UAP reports. There are no SIGINT, ELINT or radiation measurements and little useful video or still IMINT.'",
+"tier": 2
+},
+{
+"source": "http://www.ianridpath.com/ufo/condign.html",
+"text": "The report concludes: 'There is no evidence that any UAP, seen in the UKADR [UK Air Defence Region], are incursions by air-objects of any intelligent (extra-terrestrial or foreign) origin, or that they represent any hostile intent.'",
+"tier": 2
+},
+{
+"source": "https://en.wikipedia.org/wiki/Project_Condign",
+"text": "The report attributes unexplained residual sightings to 'Buoyant Plasma Formation,' hypothesises that plasma-generated electromagnetic fields can induce perceptual alterations in close-encounter witnesses, and states that cases were attributable to the 'close proximity of plasma related fields' which could 'adversely affect a vehicle or person.'",
+"tier": 2
+},
+{
+"source": "https://en.wikipedia.org/wiki/Project_Condign",
+"text": "The Condign executive summary recommends further research into 'novel military applications' of the plasma phenomenon and states that 'the implications have already been briefed to the relevant MoD technology managers' (Executive Summary, pp. 11-12).",
+"tier": 2
+},
+{
+"source": "https://en.wikipedia.org/wiki/Project_Condign",
+"text": "The report notes that scientists in the former Soviet Union 'have identified the close connection between the UFO Phenomena and Plasma technologies' and are 'pursuing related techniques for potential military purposes' (Executive Summary, pp. 9-10).",
+"tier": 2
+},
+{
+"source": "https://drclarke.substack.com/p/condign-un-redacted",
+"text": "For two decades the MoD withheld sections of volume 2 stamped NATO Secret, including text and two images relating to 'Black and other aircraft as UAP events,' citing FOIA exemptions 24 (national security) and 27 (international relations).",
+"tier": 2
+},
+{
+"source": "https://drclarke.substack.com/p/condign-un-redacted",
+"text": "In February 2026 the MoD rejected a fresh FOI request for those sections on the grounds that 'even from this distance in time, its disclosure could still provide adversaries with an insight into the developments of US/UK aircraft technology, compromising the military capabilities of US partners and our own Air Force assets'; four months later the same images and text were released with zero redactions to a different requester.",
+"tier": 2
+},
+{
+"source": "https://drclarke.substack.com/p/condign-un-redacted",
+"text": "The material withheld for twenty years consisted of two speculative paragraphs on the rumoured US Aurora/Astra programme and on the TR-3A 'Black Manta,' the latter annotated in Figure 5 with a 60ft wingspan, 42ft length, the description 'covert survivable in weather strike/recce,' and two variants, one 'seen with sausage-shaped contrail (or smoke?)' and one 'probably/possibly with pulsating motor.'",
+"tier": 2
+},
+{
+"source": "https://drclarke.substack.com/p/condign-un-redacted",
+"text": "The report included head-on silhouettes of the F-117 and B-2 with the observation that their fuselage shapes 'can be reported respectively as \"saucer or arc/boomerang shaped\" under certain silhouette and lighting conditions,' captioned 'These aircraft types are unfamiliar as they are rarely spotted in UK airspace.'",
+"tier": 2
+},
+{
+"source": "https://webarchive.nationalarchives.gov.uk/ukgwa/20121110115327/http://www.mod.uk/DefenceInternet/FreedomOfInformation/PublicationScheme/SearchPublicationScheme/UnidentifiedAerialPhenomenauapInTheUkAirDefenceRegion.htm",
+"text": "The report's operative recommendation is reported to have been that it should no longer be a requirement for DI55 to monitor UAP reports; the exact verbatim wording of the recommendations section needs to be checked against the released MoD text.",
+"tier": 3
+}
+],
+"connections": [
+"DI55 and the Directorate of Scientific and Technical Intelligence are the UK structural analogues of the US UAPTF/AARO lineage; the MoD abolished its UFO desk in 2009, eleven years before the US stood up the UAP Task Force.",
+"Ron Haddow, named by David Clarke as the commissioned author, is the single named individual in the UK program chain; his clearance level, tasking authority and reporting line are the natural next research target.",
+"The redacted sections tie Condign directly to US black aerospace programs (Aurora/Astra, TR-3A Black Manta) and therefore to the US SAP architecture governed by 10 U.S.C. 119 and DoDD 5205.07.",
+"The plasma/perceptual-effects hypothesis is a direct precursor of later prosaic-explanation framings used by AARO, and of the directed-energy and neurological-effects threads elsewhere on the board.",
+"David Clarke is both the FOIA requester and the publisher of the 2022 Calvine photograph, linking Condign to the 1990 Calvine diamond-craft case and to RAF Machrihanish.",
+"The MoD's stated reason for withholding — protecting 'the military capabilities of US partners' — makes the UK file formally subordinate to US classification equities, i.e. a foreign government holding a US secret about UAP."
+],
+"denialPosture": "The report itself is the denial artifact: a dated, signed, government-authored statement that no UAP in UK airspace are of intelligent extra-terrestrial or foreign origin and that no unknown artefacts were ever handed to UK authorities. The MoD separately maintained for two decades, most recently in February 2026, that specific redacted sections could not be released without compromising US/UK aircraft technology — a national-security justification it abandoned four months later by releasing the same material in full.",
+"narrative": "Project Condign is the UK's answer to the question of what an intelligence service actually does with a national UFO file when it thinks nobody is watching. The MoD had, since the 1950s, maintained a nominal UFO desk that handled public correspondence. Behind it sat DI55, a section of the Directorate of Scientific and Technical Intelligence within the Defence Intelligence Staff, which quietly collected sighting reports for defence-intelligence purposes. In 1996 DI55 commissioned defence scientist Ron Haddow — whom, according to David Clarke, DI55 regarded as their subject expert — to write a comprehensive assessment. Haddow was given access to the retained MoD holdings, worked for four years, and delivered in 2000 a three-volume study running to roughly 460 pages. It was classified Secret UK Eyes Only and, by Clarke's account, shown to only a handful of people.\n\nThe report's public reputation is as a debunking. That is a fair reading of its headline conclusions: 'There is no evidence that any UAP, seen in the UKADR, are incursions by air-objects of any intelligent (extra-terrestrial or foreign) origin, or that they represent any hostile intent,' and 'No artefacts of unknown or unexplained origin have been reported or handed to the UK authorities, despite thousands of UAP reports. There are no SIGINT, ELINT or radiation measurements and little useful video or still IMINT.' Those are unusually specific negatives, and they are the strongest single piece of counter-evidence a British-side retrieval narrative has to overcome. An honest board records them as such.\n\nBut the report is not only a debunking, and this is where it becomes load-bearing for the program argument. Its residual-explanation hypothesis is 'Buoyant Plasma Formation' — an atmospheric plasma phenomenon it proposes as the cause of black-triangle reports and of close-encounter perceptual effects, via electromagnetic fields that could 'adversely affect a vehicle or person.' Having proposed it, the report does not stop at explanation. It recommends further research into novel military applications of the phenomenon and records that 'the implications have already been briefed to the relevant MoD technology managers.' It also notes that scientists in the former Soviet Union had 'identified the close connection between the UFO Phenomena and Plasma technologies' and were 'pursuing related techniques for potential military purposes.' In other words: a classified UAP study concluding there is nothing to see also concluded that there was something worth weaponising, and routed it to acquisition people. That is the structural signature of an exploitation channel, and it is on the record in an executive summary the MoD itself released.\n\nThe second thread is the redactions. When Clarke received the report in 2006 — handed to him in MoD Main Building by Linda Unwin, then the penultimate UFO desk officer, a post abolished in 2009 — sections of volume 2 stamped NATO Secret were withheld. The MoD held that line for two decades through repeated FOI requests, invoking FOIA exemptions 24 (national security) and 27 (international relations), and as recently as February 2026 refused release on the grounds that disclosure 'could still provide adversaries with an insight into the developments of US/UK aircraft technology, compromising the military capabilities of US partners and our own Air Force assets.' Four months later the identical material was released in full to an anonymous requester. What it contained were two speculative paragraphs on the rumoured Aurora/Astra programme and on the TR-3A 'Black Manta,' with a figure annotating the latter as having a 60-foot wingspan and 42-foot length, described as 'covert survivable in weather strike/recce,' in two variants, one 'seen with sausage-shaped contrail (or smoke?)' and one 'probably/possibly with pulsating motor.' Also withheld had been head-on silhouettes of the F-117 and B-2 with the observation that their fuselage shapes 'can be reported respectively as saucer or arc/boomerang shaped under certain silhouette and lighting conditions,' and the note that 'these aircraft types are unfamiliar as they are rarely spotted in UK airspace.'\n\nThe analytic yield is twofold. First, the UK's defence intelligence establishment in the 1990s privately believed the Americans were flying triangular and diamond-shaped stealth platforms through UK airspace, with or without permission, and used that belief as an explanatory bin for domestic UAP reports — the same move AARO makes today. Second, the twenty-year classification of that material demonstrates the mechanism the board is trying to characterise: UAP secrecy sustained not because of what UAP are, but because black-program equities, including a partner nation's, attach to the same file. Clarke's own judgment on the 2006 release was that it shed no new light on the phenomenon but did show DIS had been running a far larger investigation than it had ever admitted.\n\nWhat the record does not show is any Condign statement about materials, retrievals, or reverse-engineering — it explicitly denies artefacts. It says nothing about US programs beyond the Aurora and TR-3 speculation. And because the study was never peer reviewed, the plasma hypothesis has been challenged as one that would not have survived independent scrutiny.",
+"openQuestions": [
+"Who inside DI55 tasked Haddow, and under what standing requirement was DI55 collecting UAP reports in the first place?",
+"Which 'relevant MoD technology managers' received the plasma briefing, and did any research programme follow?",
+"Did any US agency review, coordinate on, or object to portions of the report before or after the 2006 release, and is there a US-side copy?",
+"What is in volume 3, and does the surviving original three-volume copy the MoD rediscovered (per Clarke's 2023 'Lost and Found' post) differ from the 2006 release?",
+"Does the Condign statement that no artefacts were ever handed to UK authorities extend to materials held by UK contractors or transferred to US custody, or only to direct handovers to the MoD?"
+],
+"roles": [
+"research",
+"concealment",
+"disclosure"
+],
+"whatItIs": "Project Condign was a classified UK Ministry of Defence study of unidentified aerial phenomena carried out for the Defence Intelligence Staff between 1996 and 2000, resulting in a three-volume, roughly 460-page report titled 'Unidentified Aerial Phenomena in the UK Air Defence Region.' It drew on approximately 10,000 UK sighting reports held by DI55, the Defence Intelligence branch responsible for UFO investigations inside the Directorate of Scientific and Technical Intelligence. Classified 'Secret UK Eyes Only,' it was released in May 2006 after a Freedom of Information Act request by researchers David Clarke and Gary Anthony.",
+"whyImplicated": "Condign is the clearest documented case of a NATO partner's intelligence service running a multi-year, compartmented UAP program while telling the public and Parliament almost nothing. Its debunking conclusion sits alongside an explicit recommendation that the plasma phenomenon it invoked be examined for 'novel military applications,' with the implications already briefed to MoD technology managers — a technology-exploitation tasking hiding inside a dismissal document. Most importantly, the sections the MoD fought hardest to keep censored for two decades turned out not to concern aliens at all but rumoured US black programs (Aurora/Astra and the TR-3A 'Black Manta'), and the MoD's stated justification in February 2026 was that release 'could still provide adversaries with an insight into the developments of US/UK aircraft technology.' That is a government stating on the record that UAP files are classified in order to protect black aerospace programs, and doing so on behalf of a foreign partner. Condign also contains a precise, dated, attributable negative that any retrieval hypothesis has to answer: that no artefacts of unknown origin had ever been handed to UK authorities."
+},
+"entityInfo": null,
+"era": "2",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "doc-condign-report",
+"l0": true,
+"label": "Unidentified Aerial Phenomena in the UK Air Defence Region (DIS Scientific & Technical Memorandum 55/2/00)",
+"locLabel": null,
+"members": [
+{
+"cls": "person",
+"id": "david-clarke-uk",
+"label": "Dr David Clarke",
+"tier": "C"
+},
+{
+"cls": "event",
+"id": "ev-uk-ufo-desk-closure",
+"label": "Closure of the MoD UFO Desk, 1 December 2009",
+"tier": "C"
+},
+{
+"cls": "person",
+"id": "gary-anthony-uk",
+"label": "Gary Anthony",
+"tier": "C"
+},
+{
+"cls": "location",
+"id": "l-london",
+"label": "London, United Kingdom",
+"tier": "C"
+},
+{
+"cls": "location",
+"id": "l-uk",
+"label": "United Kingdom",
+"tier": "C"
+},
+{
+"cls": "location",
+"id": "l-uk-mod-whitehall",
+"label": "Ministry of Defence Main Building, Whitehall, London",
+"tier": "C"
+},
+{
+"cls": "program",
+"id": "project-condign",
+"label": "Project Condign",
+"tier": "B"
+},
+{
+"cls": "program",
+"id": "project-magnet",
+"label": "Project Magnet (Canada)",
+"tier": "B"
+}
+],
+"short": "UAP in the UK Air Defence Region",
+"sources": [
+{
+"date": null,
+"name": "Project Condign, 'Unidentified Aerial Phenomena in the UK Air Defence Region', UK Defence Intelligence Staff; released 15 May 2006",
+"url": ""
+},
+{
+"date": "2006-05-15",
+"name": "Project Condign - Volumes 1-3 (Internet Archive)",
+"url": "https://archive.org/details/condign-vol-2-1-258"
+},
+{
+"date": "2006-05-15",
+"name": "Condign Vol 1 Ch.4-5 OCR text (findings and recommendations)",
+"url": "https://archive.org/download/condign-vol-2-1-258/uap_vol1_pgs87to99_ch4to5_djvu.txt"
+},
+{
+"date": "2006-05-15",
+"name": "MoD Publication Scheme - Executive Summary record",
+"url": "https://web.archive.org/web/20060515083956/http://www.mod.uk/DefenceInternet/FreedomOfInformation/PublicationScheme/SearchPublicationScheme/UapInTheUkAirDefenceRegionExecutiveSummary.htm"
+}
+],
+"sub": "THREE-volume UK Defence Intelligence Staff report (not four); the separately-released standalone Executive Summary is what has been miscounted as a fourth part. Volume 3 preface is dated February 2000. Released 15 May 2006 under FOI to David Clarke and Gary Anthony.",
+"tier": "A",
+"tierRationale": "Re-graded A on a global pass (rank 97 of 1027, score 64). 9 connections, 3 of them custody/witness/funding/programmatic. Axes C1/A2/D3.",
+"timeline": [
+{
+"date": "2000",
+"id": "tl-intl-2000-condign",
+"label": "Project Condign reports",
+"precision": "year",
+"strand": "program",
+"text": "The UK Defence Intelligence Staff completes 'Unidentified Aerial Phenomena in the UK Air Defence Region' as Scientific & Technical Memorandum 55/2/00. Its key recommendation is that DI55 should no longer monitor UAP reports; its paragraph on 'Related Military Applications' is withheld under the defence exemption; its chapter on other countries denies any US or Canadian collaboration 'of any sort' and then redacts four lines.",
+"tier": 1
+}
+]
+}

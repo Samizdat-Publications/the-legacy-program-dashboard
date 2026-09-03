@@ -1,0 +1,277 @@
+{
+"A": 3,
+"C": 0,
+"D": 0,
+"affiliations": [
+"U.S. House, Ohio (2003- )",
+"Chairman, HPSCI (2023-2025)",
+"House Armed Services Committee"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "2023-07-30",
+"event": "Publicly disparages the 26 July 2023 whistleblower testimony",
+"precision": "day"
+},
+{
+"date": "2023-11-27",
+"event": "Reported as leading the effort to eliminate or alter the UAP Disclosure Act",
+"precision": "day"
+},
+{
+"date": "2023-12-22",
+"event": "FY2024 NDAA enacted without the Review Board, eminent domain, or subpoena authority",
+"precision": "day"
+}
+],
+"claims": [
+{
+"source": "P.L. 118-31 as enacted, compared with S. 2226 as engrossed in the Senate, GPO",
+"text": "The enacted FY2024 NDAA, P.L. 118-31, Subtitle C of Title XVIII, consists only of Secs. 1841, 1842 and 1843; the Senate-passed Secs. 9007-9011 and 9014 have no enacted counterpart.",
+"tier": 1
+},
+{
+"source": "Micah Hanks, The Debrief, 27 November 2023",
+"text": "Daniel Sheehan states Turner 'first attacked those two elements' — the eminent domain provision and the Review Board's subpoena power — and demanded both be removed.",
+"tier": 2
+},
+{
+"source": "Micah Hanks, The Debrief, 27 November 2023",
+"text": "Turner and Rep. Mike Rogers are identified as leading the effort to eliminate or significantly alter the UAP Disclosure Act, with support from Sen. Mitch McConnell and Speaker Mike Johnson.",
+"tier": 2
+},
+{
+"source": "Turner, 30 July 2023, quoted in The Debrief",
+"text": "'The most striking aspect of all the testimony was, repeatedly over and over again, the whistleblowers had to say, actually, I don't have any knowledge.'",
+"tier": 2
+}
+],
+"cls": "person",
+"cluster": "oversight",
+"conflicts": [
+"Turner has not, so far as the public record shows, confirmed or denied Sheehan's account of what he demanded in conference."
+],
+"connections": [
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2023",
+"dateStart": "2023",
+"direction": "in",
+"edgeLabel": "Named-source account of what Turner demanded in conference",
+"id": "daniel-sheehan",
+"l0": false,
+"label": "Daniel P. Sheehan",
+"note": "Sheehan is the only named participant to describe the conference demands; his account is corroborated by the statutory text but not by any released conference record.",
+"sources": [
+{
+"date": "2023-11-27",
+"name": "The Debrief — pushback from lawmakers",
+"url": "https://thedebrief.org/uap-disclosure-act-receives-pushback-from-lawmakers-on-capitol-hill-as-bipartisan-fight-for-transparency-continues/"
+}
+],
+"tier": "C",
+"type": "witness-chain"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "2025",
+"dateStart": "2023",
+"direction": "out",
+"edgeLabel": "Chairman during the FY2024 conference",
+"id": "house-intelligence",
+"l0": false,
+"label": "House Permanent Select Committee on Intelligence",
+"note": "Turner chaired HPSCI from January 2023 to January 2025, spanning the conference in which the disclosure division was reduced.",
+"sources": [
+{
+"date": "2023-12-22",
+"name": "P.L. 118-31, FY2024 NDAA — GPO",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 2,
+"cls": "program",
+"dateEnd": "2023",
+"dateStart": "2023",
+"direction": "out",
+"edgeLabel": "Named as demanding removal of the Board's subpoena power",
+"id": "uap-records-review-board",
+"l0": false,
+"label": "Unidentified Anomalous Phenomena Records Review Board",
+"note": "The Board survives in no form in enacted law; Sheehan attributes the demand to Turner, and the conference produced no document naming who struck what.",
+"sources": [
+{
+"date": "2023-11-27",
+"name": "The Debrief — pushback from lawmakers",
+"url": "https://thedebrief.org/uap-disclosure-act-receives-pushback-from-lawmakers-on-capitol-hill-as-bipartisan-fight-for-transparency-continues/"
+},
+{
+"date": "2023-12-22",
+"name": "P.L. 118-31, FY2024 NDAA — GPO",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm"
+}
+],
+"tier": "A",
+"type": "denial"
+},
+{
+"claimTier": 2,
+"cls": "document",
+"dateEnd": "2023",
+"dateStart": "2023",
+"direction": "out",
+"edgeLabel": "Named as demanding removal of the eminent domain provision",
+"id": "uapda-sec-9010-eminent-domain",
+"l0": false,
+"label": "Section 9010(a) — Exercise of Eminent Domain",
+"note": "Daniel Sheehan, who lobbied the conference, states Turner attacked the eminent domain clause and the subpoena power first and demanded both be struck; the enacted text lacks exactly those two things.",
+"sources": [
+{
+"date": "2023-11-27",
+"name": "The Debrief — pushback from lawmakers",
+"url": "https://thedebrief.org/uap-disclosure-act-receives-pushback-from-lawmakers-on-capitol-hill-as-bipartisan-fight-for-transparency-continues/"
+},
+{
+"date": "2023-12-22",
+"name": "P.L. 118-31, FY2024 NDAA — GPO",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm"
+}
+],
+"tier": "A",
+"type": "denial"
+}
+],
+"date": "2023-12-22",
+"dateEnd": null,
+"dateStart": "2023-12-22",
+"deg": 4,
+"denials": [
+{
+"by": {
+"id": "mike-turner",
+"label": "Michael R. Turner"
+},
+"claimTier": 2,
+"denialKind": "directed",
+"label": "Named as demanding removal of the Board's subpoena power",
+"note": "The Board survives in no form in enacted law; Sheehan attributes the demand to Turner, and the conference produced no document naming who struck what.",
+"of": {
+"id": "uap-records-review-board",
+"label": "Unidentified Anomalous Phenomena Records Review Board"
+},
+"sources": [
+{
+"date": "2023-11-27",
+"name": "The Debrief — pushback from lawmakers",
+"url": "https://thedebrief.org/uap-disclosure-act-receives-pushback-from-lawmakers-on-capitol-hill-as-bipartisan-fight-for-transparency-continues/"
+},
+{
+"date": "2023-12-22",
+"name": "P.L. 118-31, FY2024 NDAA — GPO",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm"
+}
+]
+},
+{
+"by": {
+"id": "mike-turner",
+"label": "Michael R. Turner"
+},
+"claimTier": 2,
+"denialKind": "directed",
+"label": "Named as demanding removal of the eminent domain provision",
+"note": "Daniel Sheehan, who lobbied the conference, states Turner attacked the eminent domain clause and the subpoena power first and demanded both be struck; the enacted text lacks exactly those two things.",
+"of": {
+"id": "uapda-sec-9010-eminent-domain",
+"label": "Section 9010(a) — Exercise of Eminent Domain"
+},
+"sources": [
+{
+"date": "2023-11-27",
+"name": "The Debrief — pushback from lawmakers",
+"url": "https://thedebrief.org/uap-disclosure-act-receives-pushback-from-lawmakers-on-capitol-hill-as-bipartisan-fight-for-transparency-continues/"
+},
+{
+"date": "2023-12-22",
+"name": "P.L. 118-31, FY2024 NDAA — GPO",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm"
+}
+]
+}
+],
+"domains": [
+"congress-senate-legislation"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "mike-turner",
+"instId": "us-house",
+"l0": false,
+"label": "Michael R. Turner",
+"loc": "Washington, DC",
+"locId": "l-dc",
+"members": null,
+"narrative": "Turner is the name most consistently attached to the killing of the UAP Disclosure Act. As Chairman of the House Permanent Select Committee on Intelligence through the FY2024 NDAA conference he held one of the four corner positions on the intelligence side of the negotiation, and the two provisions reported to have been his targets — the eminent domain clause and the Review Board's subpoena power — are precisely the two the enacted statute does not contain. Attorney Daniel Sheehan, who lobbied the conference directly, has stated on the record that 'Mike Turner first attacked those two elements,' demanding the eminent domain provision and the subpoena power be taken out. Turner had already positioned himself against the underlying testimony: after the 26 July 2023 House Oversight hearing he said the striking thing was that 'repeatedly over and over again, the whistleblowers had to say, actually, I don't have any knowledge.' The documentary result is not in dispute even if the attribution is journalistic: the Senate passed Sections 9001-9015 on 27 July 2023; the conference product signed 22 December 2023 contains Sections 1841, 1842 and 1843 only. Sections 9007 through 9011 — Review Board, Board personnel, review of records, eminent domain, court-sealed materials — have no enacted counterpart. Under the board's premise this is the single most consequential act of concealment in the modern legislative record, and it was performed by a committee chairman with access to the underlying compartments.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Michael R. Turner",
+"sources": [
+{
+"date": "2023-11-27",
+"name": "The Debrief — UAP Disclosure Act receives pushback from lawmakers",
+"url": "https://thedebrief.org/uap-disclosure-act-receives-pushback-from-lawmakers-on-capitol-hill-as-bipartisan-fight-for-transparency-continues/"
+},
+{
+"date": "2023-12-22",
+"name": "P.L. 118-31, FY2024 NDAA as enacted — GPO",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm"
+},
+{
+"date": "2023-07-27",
+"name": "S. 2226 (Engrossed in Senate), Division G — GPO",
+"url": "https://www.govinfo.gov/content/pkg/BILLS-118s2226es/html/BILLS-118s2226es.htm"
+}
+],
+"status": "active",
+"sub": "R-OH; Chairman, House Permanent Select Committee on Intelligence (2023-2025)",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 374 of 1027, score 33). 4 connections, 1 of them custody/witness/funding/programmatic, 2 official denials recorded against it. Axes C0/A3/D0.",
+"timeline": [
+{
+"date": "2023-07-30",
+"id": "cl-2023-07-30",
+"label": "Turner disparages the testimony",
+"precision": "day",
+"strand": "coverup",
+"text": "The HPSCI chairman says the striking thing about the hearing was that 'repeatedly over and over again, the whistleblowers had to say, actually, I don't have any knowledge.'",
+"tier": "B"
+},
+{
+"date": "2023-11-27",
+"id": "cl-2023-11-27",
+"label": "Turner and Rogers named",
+"precision": "day",
+"strand": "coverup",
+"text": "Reporting identifies Turner and Rogers as leading the effort to eliminate or alter the Act, with McConnell and Speaker Johnson supporting; Sheehan states Turner demanded the eminent domain provision and the subpoena power be struck.",
+"tier": "B"
+}
+],
+"unexplainedResidual": null,
+"unverified": [
+"No conference document has been released naming which members struck which sections; the attribution rests on participant testimony and reporting, not on a signed record."
+]
+}

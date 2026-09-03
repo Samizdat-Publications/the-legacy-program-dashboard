@@ -1,0 +1,108 @@
+{
+"A": 3,
+"C": 1,
+"D": 1,
+"band": null,
+"claims": [
+{
+"source": "USAspending.gov recipient search, retrieved 12 August 2026",
+"text": "USAspending records approximately $135 billion in prime contract obligations to Leidos-named recipient entities since FY2008.",
+"tier": 1
+},
+{
+"source": "Public Law 118-31, Sec. 1841 (44 U.S.C. 2107 note)",
+"text": "The UAP Records Collection established by NDAA FY2024 Sec. 1841 consists of record copies of all 'Government, Government-provided, or Government-funded records' relating to UAP, technologies of unknown origin and non-human intelligence.",
+"tier": 1
+}
+],
+"cls": "institution",
+"cluster": "contractor",
+"connections": [
+{
+"claimTier": 1,
+"cls": "legislation",
+"dateEnd": null,
+"dateStart": "2023",
+"direction": "in",
+"edgeLabel": "The records collection reaches government-funded contractor-held records",
+"id": "ndaa-fy2024",
+"l0": true,
+"label": "FY2024 NDAA, Public Law 118-31 - Div. A, Title XVIII, Subtitle C (secs. 1841-1843), UAP Records Collection; Div. G (IAA FY2024) secs. 7341, 7343",
+"note": "Sec. 1841 defines the collection as record copies of all 'Government, Government-provided, or Government-funded records' relating to UAP, technologies of unknown origin and non-human intelligence - a formulation that reaches services primes holding classified records under contract. No accounting of contractor holdings has been made.",
+"sources": [
+{
+"date": "2023-12-22",
+"name": "National Defense Authorization Act for Fiscal Year 2024, Public Law 118-31 (enacted text)",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm"
+},
+{
+"date": "2026-08-12",
+"name": "USAspending.gov federal award search (prime contract obligations by recipient)",
+"url": "https://www.usaspending.gov/search"
+}
+],
+"tier": "A",
+"type": "legislative"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2013",
+"direction": "out",
+"edgeLabel": "Leidos is the government services business spun out of SAIC in 2013",
+"id": "saic",
+"l0": false,
+"label": "Science Applications International Corporation",
+"note": "The split moved the classified services portfolio, and whatever records attach to it, into a separate corporate entity.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "USAspending.gov federal award search (prime contract obligations by recipient)",
+"url": "https://www.usaspending.gov/search"
+}
+],
+"tier": "C",
+"type": "institutional"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "2013",
+"deg": 2,
+"denials": [],
+"desc": "Leidos is what SAIC's government services business became in the 2013 split, and it is now among the largest holders of classified IT, intelligence analysis and technical services work in the federal government - USAspending records roughly $135 billion in prime contract obligations to Leidos entities since FY2008, with the recipient list running to the hundred-record query limit. In 2020 it acquired Dynetics, the Huntsville engineering house whose own federal prime obligations exceed $4 billion. Leidos matters to this domain for a reason that has nothing to do with allegations of material: it is the corporate layer through which classified data, records and analytical products physically pass. If a UAP records collection exists inside DoD or the intelligence community, the systems holding it, the personnel indexing it and the security architecture protecting it are in substantial part contracted out to firms of this type. The NDAA FY2024 records provisions require transmission of 'Government, Government-provided, or Government-funded records' to the National Archives - a formulation that reaches contractor-held records - and no public accounting has been made of what any services prime holds.",
+"domains": [
+"primes-custody"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "2",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "leidos",
+"l0": false,
+"label": "Leidos Holdings, Inc.",
+"locLabel": null,
+"members": null,
+"short": "Leidos Holdings, Inc.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "USAspending.gov federal award search (prime contract obligations by recipient)",
+"url": "https://www.usaspending.gov/search"
+},
+{
+"date": "2023-12-22",
+"name": "National Defense Authorization Act for Fiscal Year 2024, Public Law 118-31 (enacted text)",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm"
+}
+],
+"sub": "Government services prime spun out of SAIC in 2013; acquired Dynetics 2020",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 681 of 1027, score 23). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A3/D1.",
+"timeline": []
+}

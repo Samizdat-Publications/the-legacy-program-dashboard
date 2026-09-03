@@ -1,0 +1,91 @@
+{
+"A": 0,
+"C": 1,
+"D": 1,
+"band": null,
+"claims": [
+{
+"source": "Documented press and court record summarised in the Aztec incident literature",
+"text": "The Aztec claim originated with Frank Scully's 1950 book and was traced to promoters later prosecuted for fraud in a separate matter.",
+"tier": 2
+},
+{
+"source": "Board bookkeeping",
+"text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
+"tier": 3
+}
+],
+"cls": "location",
+"cluster": "legacy",
+"connections": [
+{
+"claimTier": 2,
+"cls": "event",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "alleged crash site",
+"id": "aztec-1948",
+"l0": true,
+"label": "Aztec, New Mexico claim, March 1948",
+"note": "The location is the only fixed and checkable element of the story, and it is the one the town later built a symposium and a plaque around. Silas Newton, lecturing at Denver University on 8 March 1950 as 'Mr. X', claimed to have seen two saucers held by the government, one of which 'crashed near Aztec, New Mexico'; Frank Scully's 'Behind the Flying Saucers' (1950) carried the account, and Newton took Scully touring 'the area where the Aztec saucer ostensibly crashed'. The story ends in court: Newton and Leonard GeBauer were convicted of fraud in 1953 for swindling Herman Flader out of $50,000 with a 'magnetic doodlebug' that cost roughly $3.50 to build, and the 'indestructible' metal was ordinary aluminium.",
+"sources": [
+{
+"date": "2026-08-25",
+"name": "Denver Public Library, Western History, 'Flying Saucers and Fraud: the Silas M. Newton story'",
+"url": "https://history.denverlibrary.org/news/western-history/flying-saucers-and-fraud-silas-m-newton-story"
+},
+{
+"date": null,
+"name": "https://en.wikipedia.org/wiki/Aztec_crashed_saucer_hoax",
+"url": "https://en.wikipedia.org/wiki/Aztec_crashed_saucer_hoax"
+}
+],
+"tier": "A",
+"type": "geographic"
+}
+],
+"coords": [
+36.8222,
+-107.9928
+],
+"dateEnd": null,
+"dateStart": null,
+"deg": 1,
+"denials": [],
+"desc": "Aztec, New Mexico is the location of the second-oldest crash-recovery claim in the American corpus, dating to March 1948 and popularised by Frank Scully's 1950 book 'Behind the Flying Saucers'. The case is significant on this board precisely because it was exposed - Scully's sources, Silas Newton and Leo GeBauer, were subsequently prosecuted for fraud in an unrelated oil-detection scheme, and the Aztec account is the field's canonical example of a recovery claim that collapsed under investigation. It is retained rather than deleted because a board built on the premise of a real programme has an obligation to record the cases that failed, and because the Aztec pattern - a dramatic recovery narrative attached to promoters with a separate financial motive - is a template that recurs.",
+"domains": [
+"_stubs",
+"w2-taxonomy"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "nd",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "l-aztec",
+"l0": false,
+"label": "Aztec, New Mexico",
+"locLabel": "Aztec, New Mexico, USA",
+"members": null,
+"short": "Aztec, New Mexico",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Wikipedia - Aztec, New Mexico UFO incident",
+"url": "https://en.wikipedia.org/wiki/Aztec,_New_Mexico_UFO_incident"
+},
+{
+"date": "2026-08-12",
+"name": "Aztec, New Mexico",
+"url": "https://en.wikipedia.org/wiki/Aztec,_New_Mexico"
+}
+],
+"sub": "Town in San Juan County, New Mexico; site of the 1948 claimed saucer recovery",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 997 of 1027, score 10). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A0/D1.",
+"timeline": []
+}

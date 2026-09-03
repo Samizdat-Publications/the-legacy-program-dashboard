@@ -1,0 +1,97 @@
+{
+"A": 0,
+"C": 0,
+"D": 1,
+"affiliations": [
+"Wellesley College, Department of Astronomy",
+"The Galileo Project - research coordinator"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "2023-03-01",
+"event": "Co-authors the JAI special-issue preface on instrumentation and software for detection of unidentified aerospace phenomena.",
+"precision": "month"
+}
+],
+"claims": [
+{
+"source": "JAI, DOI 10.1142/S2251171723020014",
+"text": "Watters is a co-author of the Journal of Astronomical Instrumentation preface, 'Instrumentation and Software for the Detection and Characterization of Unidentified Aerospace Phenomena' (2023), with Cloete, Little, Loeb and Lux.",
+"tier": 1
+}
+],
+"cls": "person",
+"cluster": "research",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": null,
+"dateStart": "2023",
+"direction": "out",
+"edgeLabel": "Research coordinator and co-editor of the JAI instrumentation special issue",
+"id": "galileo-project",
+"l0": true,
+"label": "The Galileo Project",
+"note": "The special issue is the artefact that established a peer-reviewed instrumentation literature in this field rather than a claims literature.",
+"sources": [
+{
+"date": "2023-02-13",
+"name": "Loeb & Laukien, 'Overview of the Galileo Project', Journal of Astronomical Instrumentation",
+"url": "https://doi.org/10.1142/S2251171723400032"
+}
+],
+"tier": "B",
+"type": "institutional"
+}
+],
+"date": "2023-03-01",
+"dateEnd": null,
+"dateStart": "2023-03-01",
+"deg": 1,
+"denials": [],
+"domains": [
+"scientists-technical"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "wesley-watters",
+"instId": "galileo-project",
+"l0": false,
+"label": "Wesley A. Watters",
+"loc": "Wellesley, MA",
+"locId": null,
+"members": null,
+"narrative": "Watters is the Galileo Project's methodological anchor - a planetary scientist and Wellesley astronomy professor who coordinates the project's observatory research and co-edited the Journal of Astronomical Instrumentation special issue that assembled, for the first time, a peer-reviewed corpus on hardware and software specifically designed to detect and characterise unidentified aerospace phenomena. The preface he co-wrote with Richard Cloete, Sarah Little, Avi Loeb and Abraham Lux is the document that establishes there is now a legitimate instrumentation literature in this field rather than a claims literature. His contribution is unglamorous and load-bearing: definitions, sensor calibration, and the discipline of publishing the detection criteria before the detections.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Wesley A. Watters",
+"sources": [
+{
+"date": "2023-03-01",
+"name": "Cloete, Watters, Little, Loeb & Lux, 'Preface: Instrumentation and Software for the Detection and Characterization of Unidentified Aerospace Phenomena', Journal of Astronomical Instrumentation",
+"url": "https://doi.org/10.1142/S2251171723020014"
+},
+{
+"date": "2026-08-12",
+"name": "The Galileo Project, Harvard University",
+"url": "https://projects.iq.harvard.edu/galileo"
+}
+],
+"status": "active",
+"sub": "Associate Professor of Astronomy, Wellesley College; research coordinator, The Galileo Project; co-editor, JAI special issue on UAP instrumentation",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 1022 of 1027, score 6). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D1.",
+"timeline": [],
+"unexplainedResidual": null,
+"unverified": []
+}

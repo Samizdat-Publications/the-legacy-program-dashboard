@@ -1,0 +1,82 @@
+{
+"A": 2,
+"C": 0,
+"D": 2,
+"band": null,
+"claims": [
+{
+"source": "Wikipedia navigation template 'Studies and timeline', Project Condign article — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"text": "The Flying Saucer Working Party (1950) appears in the standard chronology of official investigations alongside Project Sign (1948), Project Grudge (1949), Project Magnet (1950-1962) and Project Second Storey (1952-1954).",
+"tier": 2
+}
+],
+"cls": "program",
+"cluster": "ic",
+"connections": [
+{
+"claimTier": 2,
+"cls": "institution",
+"dateEnd": "1951-06",
+"dateStart": "1950",
+"direction": "out",
+"edgeLabel": "first British body on the question, 1950-1951",
+"id": "uk-mod",
+"l0": false,
+"label": "United Kingdom Ministry of Defence",
+"note": "The Flying Saucer Working Party precedes the UFO desk and reached the same self-terminating conclusion Condign would reach fifty years later.",
+"sources": [
+{
+"date": "2026-03-19",
+"name": "Project Condign - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/Project_Condign"
+}
+],
+"tier": "B",
+"type": "temporal"
+}
+],
+"coords": null,
+"dateEnd": "1951-06",
+"dateStart": "1950",
+"deg": 1,
+"denials": [],
+"desc": "The Flying Saucer Working Party was the first British government body constituted to answer the question, set up under the Directorate of Scientific Intelligence and the Joint Technical Intelligence Committee in 1950 at the instigation of Sir Henry Tizard, who reportedly declined to accept that reports should be dismissed without investigation. Its report, delivered in June 1951, concluded against the reality of the phenomenon and recommended that no further investigation be undertaken - the same shape of conclusion, and the same self-terminating recommendation, that Condign would reach half a century later. The report was itself kept classified for decades and only reached The National Archives in the 2000s. The working party's existence establishes that the British state's engagement with the question is continuous from 1950, predating the MoD UFO desk, and that the recommendation to stop looking has been made and then quietly reversed more than once.",
+"domains": [
+"w2-international"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "uk-fs-working-party",
+"l0": false,
+"label": "Flying Saucer Working Party (UK)",
+"locLabel": null,
+"members": null,
+"short": "Flying Saucer Working Party (UK)",
+"sources": [
+{
+"date": "2026-03-19",
+"name": "Project Condign - Wikipedia (studies timeline)",
+"url": "https://en.wikipedia.org/wiki/Project_Condign"
+}
+],
+"sub": "UK Ministry of Defence Directorate of Scientific Intelligence / JTIC study group, 1950-1951",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 934 of 1027, score 13). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A2/D2.",
+"timeline": [
+{
+"date": "1951-06",
+"id": "tl-intl-1951-fswp",
+"label": "UK Flying Saucer Working Party reports",
+"precision": "month",
+"strand": "program",
+"text": "Britain's first official body on the question reports and recommends no further investigation - the same self-terminating conclusion Project Condign would reach in 2000.",
+"tier": 2
+}
+]
+}

@@ -1,0 +1,85 @@
+{
+"A": 1,
+"C": 1,
+"D": 0,
+"band": null,
+"claims": [
+{
+"source": "American Alchemy with Jesse Michels, 'The Most Knowledgeable UFO Researcher In The World', published 21 February 2025, at 0:24:35",
+"text": "On American Alchemy with Jesse Michels, 21 February 2025, at 0:24:35, the guest Sammy, known as UAP Gerb, said that on Philip J. Corso's account Roswell-derived material was distributed for civil and commercial use through 'Bell Labs, Sperry Rand', and thence through its divisions to 'Northrop, Lockheed, Martin, Raytheon, and others'. This is a report of what Corso wrote, not a document, and no contemporaneous record naming Sperry Rand in that role was opened.",
+"tier": 2
+},
+{
+"source": "This Is Sperry Rand 1956, Sperry-Rand Corporation",
+"text": "The company's own 1956 publication carries a signed statement attributed to 'General of the Army Douglas MacArthur, Chairman of the Board, Sperry Rand Corporation.'",
+"tier": 1
+},
+{
+"source": "CIA-RDP68-00046R000200010025-0, Bob Considine, 'Generals Don't Fade Away', New York Journal-American, 17 January 1957; declassified in part 2014-03-19",
+"text": "A New York Journal-American column of 17 January 1957, held in CIA records, reports that 'Gen. Douglas MacArthur, who will be 77 next week, is active as chairman of the board of Sperry Rand.' The same column names Halsey at International Tel and Tel, Lucius Clay at Continental Can, Ira Eaker at Hughes Tool, Doolittle at Shell Oil, Ennis Whitehead at Northrop and J. B. Montgomery at General Electric.",
+"tier": 1
+},
+{
+"source": "Unisys Corporation Form 10-K filed 29 March 1994, CIK 0000746838, with SEC IMS header",
+"text": "SEC's own IMS header on the Unisys Form 10-K records 'FORMER CONFORMED NAME: BURROUGHS CORP /DE/ ... DATE OF NAME CHANGE: 19861204'. The same filing shows Unisys carrying the Sperry Corporation Pension Plan for Outside Directors by incorporation from Sperry Corporation's own Form 10-K for the fiscal year ended 31 March 1984 (File No. 1-3908), and discusses 'its sale of the Sperry Aerospace Group in December 1986'.",
+"tier": 1
+},
+{
+"source": "Stated inference: secondary sources only; no primary document opened for the rename",
+"text": "The rename from Sperry Rand Corporation to Sperry Corporation is given by secondary sources as 1 August 1979. No document establishing it was opened; EDGAR does not reach back to 1986 filings, and no merger agreement or proxy was read.",
+"tier": 3
+}
+],
+"cls": "institution",
+"cluster": "contractor",
+"connections": [],
+"coords": null,
+"dateEnd": "1986",
+"dateStart": null,
+"deg": 0,
+"denials": [],
+"desc": "Sperry Rand is a narrow item and a clean one: a five-star officer chairing a defence prime while the alleged programme period runs. The company's own 1956 publication carries a signed statement attributed to 'General of the Army Douglas MacArthur, Chairman of the Board, Sperry Rand Corporation', and a New York Journal-American column of 17 January 1957, preserved in CIA records, reports that 'Gen. Douglas MacArthur, who will be 77 next week, is active as chairman of the board of Sperry Rand.'\n\nThat column is the more useful artefact, because it inventories the same pipeline in a single paragraph: Halsey at International Tel and Tel, Lucius Clay at Continental Can, Ira Eaker at Hughes Tool, Doolittle at Shell Oil and on the Air Force Scientific Advisory Board and the President's Foreign Intelligence Board, Ennis Whitehead at Northrop, J. B. Montgomery at General Electric. Thirteen further instances of the general-officer-to-prime-contractor movement, in one citable contemporaneous document held by CIA.\n\nTwo corrections travel with it. The company was not called Sperry Rand in 1986: it had been Sperry Corporation since 1979, and it was Sperry Corporation that Burroughs absorbed. SEC's own record shows CIK 0000746838 changing its conformed name from BURROUGHS CORP /DE/ on 4 December 1986, and Unisys carrying Sperry's obligations thereafter, including its sale of the Sperry Aerospace Group that same month. No UAP claim attaches to this node from any document opened for it; the only claim of that kind located is testimonial, and it is recorded below.",
+"domains": [
+"legacy-1947-86"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "nd",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "sperry-rand",
+"l0": false,
+"label": "Sperry Rand Corporation",
+"locLabel": null,
+"members": null,
+"short": "Sperry Rand Corporation",
+"sources": [
+{
+"date": "2025-02-21",
+"name": "American Alchemy with Jesse Michels, 'The Most Knowledgeable UFO Researcher In The World' (audio)",
+"url": "https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/TOE8993457707.mp3?updated=1751590849"
+},
+{
+"date": "1956-01-01",
+"name": "This Is Sperry Rand 1956, Sperry-Rand Corporation",
+"url": "https://archive.org/details/this-is-sperry-rand-1956"
+},
+{
+"date": "1957-01-17",
+"name": "CIA-RDP68-00046R000200010025-0, New York Journal-American, 17 January 1957",
+"url": "https://archive.org/details/cia-readingroom-document-cia-rdp68-00046r000200010025-0"
+},
+{
+"date": "1994-03-29",
+"name": "Unisys Corporation Form 10-K filed 29 March 1994, CIK 0000746838",
+"url": "https://www.sec.gov/Archives/edgar/data/746838/0000746838-94-000005.txt"
+}
+],
+"sub": "Defence prime chaired by General of the Army Douglas MacArthur; absorbed into Unisys, 1986",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 782 of 1027, score 19). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D0.",
+"timeline": []
+}

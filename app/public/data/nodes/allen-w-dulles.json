@@ -1,0 +1,192 @@
+{
+"A": 3,
+"C": 1,
+"D": 1,
+"affiliations": [
+"Central Intelligence Agency, Director of Central Intelligence",
+"Office of Strategic Services (personnel file, Record Group 226)"
+],
+"age": null,
+"band": null,
+"chronology": [],
+"claims": [
+{
+"source": "Allen W. Dulles, three letters of 13 March 1953, CIA-RDP80B01676R001000160043-9, -044-8 and -045-7, https://archive.org/details/cia-readingroom-document-cia-rdp80b01676r001000160043-9",
+"text": "On 13 March 1953 Dulles forwarded the Robertson Panel report to three agencies over his own signature, describing it as pointing out 'certain potential dangers to national security which are related to the subject and suggest ways of their elimination.' The three addressees are the Secretary of Defense, the Acting Administrator of the Federal Civil Defense Administration and the Vice Chairman of the National Security Resources Board, which are exactly the three IAC-D-67 had proposed on 18 February 1953.",
+"tier": 1
+},
+{
+"source": "Allen W. Dulles to the Secretary of Defense, 13 March 1953, SECRET / Security Information, CIA-RDP80B01676R001000160043-9, https://archive.org/details/cia-readingroom-document-cia-rdp80b01676r001000160043-9",
+"text": "The same letters distance the Agency from the subject in the same breath: 'Although this Agency does not consider problems arising from sightings of \"flying saucers\" primarily its concern, we shall be pleased to assist in any appropriate action that you deem advisable.'",
+"tier": 1
+},
+{
+"source": "Allen W. Dulles to Jack Gorrie, National Security Resources Board, 13 March 1953, CIA-RDP80B01676R001000160044-8, https://archive.org/details/cia-readingroom-document-cia-rdp80b01676r001000160044-8",
+"text": "The letters attribute the Robertson Panel to his predecessor by name: 'This panel was convened at the direction of General Smith, following the recommendation of the Intelligence Advisory Committee.'",
+"tier": 1
+},
+{
+"source": "Executive Registry notes filed with CIA-RDP80B01676R001000160044-8 and -045-7, https://archive.org/details/cia-readingroom-document-cia-rdp80b01676r001000160045-7",
+"text": "Each of the three letters is a rewrite of an earlier version that was withdrawn. A note to the Executive Registry filed with two of them reads: 'Please note that the attached letter ... was not sent out, but was rewritten as of 13 March 1953 (copy attached).' The letters themselves carry the stamp 'REWRITTEN 13 March 1953'.",
+"tier": 1
+},
+{
+"source": "National Archives media alert 08-130, 'NARA to Open Official Personnel Files of the OSS', 7 August 2008, https://www.archives.gov/press/press-releases/2008/nr08-130",
+"text": "The National Archives names Dulles among the OSS personnel files opened on 14 August 2008: the press office distributed CDs including 'selected files of some of the notable people who served in the OSS, including former CIA directors Allen Dulles and William Casey'.",
+"tier": 1
+}
+],
+"cls": "person",
+"cluster": "ic",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "1961",
+"dateStart": "1953",
+"direction": "out",
+"edgeLabel": "Director of Central Intelligence, signing as Director on Office of the Director paper",
+"id": "cia",
+"l0": true,
+"label": "Central Intelligence Agency",
+"note": "All three 13 March 1953 letters are on Central Intelligence Agency, Office of the Director letterhead and are signed 'Allen W. Dulles, Director'.",
+"sources": [
+{
+"date": "1953-03-13",
+"name": "Allen W. Dulles to the Secretary of Defense, 13 March 1953 (CIA-RDP80B01676R001000160043-9)",
+"url": "https://archive.org/details/cia-readingroom-document-cia-rdp80b01676r001000160043-9"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": "1953-03-13",
+"dateStart": "1953-03-13",
+"direction": "out",
+"edgeLabel": "Forwarded the panel report while saying the subject was not primarily CIA's concern",
+"id": "robertson-panel",
+"l0": true,
+"label": "Robertson Panel",
+"note": "The same signed letter that calls the panel's conclusions a matter of potential danger to national security states that the Agency does not consider flying saucer sightings primarily its concern, ten weeks after CIA convened the panel.",
+"sources": [
+{
+"date": "1953-03-13",
+"name": "Allen W. Dulles to the Secretary of Defense, 13 March 1953",
+"url": "https://archive.org/details/cia-readingroom-document-cia-rdp80b01676r001000160043-9"
+}
+],
+"tier": "A",
+"type": "denial"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "1953",
+"dateStart": "1953",
+"direction": "out",
+"edgeLabel": "Succeeded him as DCI and attributed the panel to him in writing",
+"id": "walter-bedell-smith",
+"l0": false,
+"label": "Walter Bedell Smith",
+"note": "Dulles's own letters name General Smith as the officer at whose direction the panel was convened, which is the Agency's contemporaneous account of the handover of the file.",
+"sources": [
+{
+"date": "1953-03-13",
+"name": "Allen W. Dulles to Jack Gorrie, National Security Resources Board, 13 March 1953 (CIA-RDP80B01676R001000160044-8)",
+"url": "https://archive.org/details/cia-readingroom-document-cia-rdp80b01676r001000160044-8"
+}
+],
+"tier": "B",
+"type": "institutional"
+}
+],
+"date": "1953-03-13",
+"dateEnd": null,
+"dateStart": "1953-03-13",
+"deg": 3,
+"denials": [
+{
+"by": {
+"id": "allen-w-dulles",
+"label": "Allen W. Dulles"
+},
+"claimTier": 1,
+"denialKind": null,
+"label": "Forwarded the panel report while saying the subject was not primarily CIA's concern",
+"note": "The same signed letter that calls the panel's conclusions a matter of potential danger to national security states that the Agency does not consider flying saucer sightings primarily its concern, ten weeks after CIA convened the panel.",
+"of": {
+"id": "robertson-panel",
+"label": "Robertson Panel"
+},
+"sources": [
+{
+"date": "1953-03-13",
+"name": "Allen W. Dulles to the Secretary of Defense, 13 March 1953",
+"url": "https://archive.org/details/cia-readingroom-document-cia-rdp80b01676r001000160043-9"
+}
+]
+}
+],
+"domains": [
+"michels-2026-09-02"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "allen-w-dulles",
+"instId": "cia",
+"l0": false,
+"label": "Allen W. Dulles",
+"loc": "Washington, DC",
+"locId": "l-dc",
+"members": null,
+"narrative": "Allen W. Dulles signed the three letters that closed the Agency's 1952 flying-saucer file. On 13 March 1953, over his name and on Office of the Director paper classified SECRET, the CIA sent the Robertson Panel report to the Secretary of Defense, to the Federal Civil Defense Administration and to the National Security Resources Board, told each that the conclusions pointed to 'certain potential dangers to national security', and then said in the same letter that the Agency did not consider the subject primarily its concern. Those three letters do two things the board needs: they attribute the panel to Bedell Smith in the Agency's own words, and they are a dated, signed instance of the Agency stepping back from a subject it had itself convened a panel on ten weeks earlier. Dulles also has an OSS personnel file, named by the National Archives among the notable files opened in 2008; the board carries no Office of Strategic Services node, so no edge is drawn for it.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Allen W. Dulles",
+"sources": [
+{
+"date": "1953-03-13",
+"name": "Allen W. Dulles to the Secretary of Defense, 13 March 1953 (CIA-RDP80B01676R001000160043-9)",
+"url": "https://archive.org/details/cia-readingroom-document-cia-rdp80b01676r001000160043-9"
+},
+{
+"date": "1953-03-13",
+"name": "Allen W. Dulles to Jack Gorrie, National Security Resources Board, 13 March 1953 (CIA-RDP80B01676R001000160044-8)",
+"url": "https://archive.org/details/cia-readingroom-document-cia-rdp80b01676r001000160044-8"
+},
+{
+"date": "1953-03-13",
+"name": "Allen W. Dulles to J. J. Wadsworth, Federal Civil Defense Administration, 13 March 1953 (CIA-RDP80B01676R001000160045-7)",
+"url": "https://archive.org/details/cia-readingroom-document-cia-rdp80b01676r001000160045-7"
+},
+{
+"date": "1953-02-18",
+"name": "IAC-D-67, Intelligence Advisory Committee: Unidentified Flying Objects, 18 February 1953",
+"url": "https://archive.org/details/cia-readingroom-document-0000015454"
+},
+{
+"date": "2008-08-07",
+"name": "National Archives media alert 08-130, NARA to Open Official Personnel Files of the OSS",
+"url": "https://www.archives.gov/press/press-releases/2008/nr08-130"
+}
+],
+"status": "dead",
+"sub": "Director of Central Intelligence; signed the CIA's distancing letters on the Robertson Panel report",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 283 of 1027, score 37). 3 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D1.",
+"timeline": [],
+"unexplainedResidual": null,
+"unverified": [
+"That Dulles's published diary shows a meeting with the president on the date of an Eisenhower MJ-12 briefing. Not opened; the Dulles papers at Princeton were not reachable and no date or page is given by the speaker."
+]
+}

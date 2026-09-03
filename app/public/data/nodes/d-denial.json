@@ -1,0 +1,265 @@
+{
+"A": 2,
+"C": 0,
+"D": 2,
+"band": null,
+"claims": [
+{
+"source": "AARO Historical Record Report Volume I, Section II",
+"text": "AARO's Volume I historical record report (February 2024) concludes there is 'no empirical evidence' for claims that the USG and private companies have been reverse-engineering extraterrestrial technology.",
+"tier": 1
+},
+{
+"source": "NRO declassification record; FAS Intelligence Resource Program",
+"text": "The existence of the National Reconnaissance Office was classified from its 1961 establishment until its declassification in September 1992, making official denial of its existence the required answer for thirty-one years.",
+"tier": 1
+},
+{
+"source": "Haines, Studies in Intelligence (1997)",
+"text": "Air Force officers gave explanations to the public they knew to be false in order to protect U-2 and OXCART flight security, per CIA's own in-house history.",
+"tier": 2
+}
+],
+"cls": "domain",
+"cluster": "other",
+"connections": [
+{
+"claimTier": 1,
+"cls": "domain",
+"dateEnd": null,
+"dateStart": "1947-01-01",
+"direction": "in",
+"edgeLabel": "Denial is the public face of concealment",
+"id": "d-coverup",
+"l0": false,
+"label": "The Cover-Up",
+"note": "CIA's own historian records that false explanations were issued knowingly to protect classified overflights; the denial is the output of the concealment activity.",
+"sources": [
+{
+"date": "1997-01-01",
+"name": "Haines, 'CIA's Role in the Study of UFOs, 1947-1990', Studies in Intelligence",
+"url": "https://www.cia.gov/resources/csi/studies-in-intelligence/studies-in-intelligence-1997/cias-role-in-the-study-of-ufos-1947-1990/"
+}
+],
+"tier": "A",
+"type": "denial"
+},
+{
+"claimTier": 1,
+"cls": "domain",
+"dateEnd": "1997-06-24",
+"dateStart": "1947-07-08",
+"direction": "in",
+"edgeLabel": "Four official explanations for one event",
+"id": "d-roswell",
+"l0": false,
+"label": "Roswell",
+"note": "Weather balloon in 1947, Project MOGUL in the mid-1990s, crash test dummies in 1997 - the sequence of explanations is itself the evidentiary object.",
+"sources": [
+{
+"date": "1995-07-28",
+"name": "GAO/NSIAD-95-187",
+"url": "https://www.govinfo.gov/content/pkg/GAOREPORTS-NSIAD-95-187/html/GAOREPORTS-NSIAD-95-187.htm"
+}
+],
+"tier": "B",
+"type": "denial"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "1977",
+"dateStart": "1953",
+"direction": "in",
+"edgeLabel": "Three books and a journal paper arguing against the extraterrestrial hypothesis, 1953 to 1977",
+"id": "donald-h-menzel",
+"l0": false,
+"label": "Donald H. Menzel",
+"note": "The Condon Report records the 1953 Harvard University Press book and the 1964 Flying Saucer Review paper; the Internet Archive catalogue record carries the 1977 Doubleday book, published a year after his death.",
+"sources": [
+{
+"date": "1969",
+"name": "Condon Report, Section V chapter 2; Internet Archive catalogue record for The UFO Enigma",
+"url": "https://files.ncas.org/condon/text/s5chap02.htm"
+}
+],
+"tier": "B",
+"type": "denial"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "1955",
+"dateStart": "1955",
+"direction": "in",
+"edgeLabel": "A dated Air Force document dismissing the flying-saucer resemblance of an aircraft it was itself funding",
+"id": "tr-ac-47-silver-bug",
+"l0": false,
+"label": "TR-AC-47, Joint ATIC-WADC Report on Project Silver Bug, 15 February 1955",
+"note": "The Summary states that the project 'should in no way be associated with any science fiction or \"Flying Saucer\" stories because of its external appearance', which is a denial with an author, a date and a subject, and is what this board's denial domain exists to hold.",
+"sources": [
+{
+"date": "1955-02-15",
+"name": "TR-AC-47, Joint ATIC-WADC Report on Project Silver Bug, 15 February 1955",
+"url": "https://documents.theblackvault.com/documents/SilverBug/AFD-070114-006.pdf"
+}
+],
+"tier": "B",
+"type": "denial"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "1947-01-01",
+"deg": 4,
+"denials": [
+{
+"by": {
+"id": "d-coverup",
+"label": "The Cover-Up"
+},
+"claimTier": 1,
+"denialKind": "association",
+"label": "Denial is the public face of concealment",
+"note": "CIA's own historian records that false explanations were issued knowingly to protect classified overflights; the denial is the output of the concealment activity.",
+"of": {
+"id": "d-denial",
+"label": "Official Denial"
+},
+"sources": [
+{
+"date": "1997-01-01",
+"name": "Haines, 'CIA's Role in the Study of UFOs, 1947-1990', Studies in Intelligence",
+"url": "https://www.cia.gov/resources/csi/studies-in-intelligence/studies-in-intelligence-1997/cias-role-in-the-study-of-ufos-1947-1990/"
+}
+]
+},
+{
+"by": {
+"id": "d-roswell",
+"label": "Roswell"
+},
+"claimTier": 1,
+"denialKind": "association",
+"label": "Four official explanations for one event",
+"note": "Weather balloon in 1947, Project MOGUL in the mid-1990s, crash test dummies in 1997 - the sequence of explanations is itself the evidentiary object.",
+"of": {
+"id": "d-denial",
+"label": "Official Denial"
+},
+"sources": [
+{
+"date": "1995-07-28",
+"name": "GAO/NSIAD-95-187",
+"url": "https://www.govinfo.gov/content/pkg/GAOREPORTS-NSIAD-95-187/html/GAOREPORTS-NSIAD-95-187.htm"
+}
+]
+},
+{
+"by": {
+"id": "donald-h-menzel",
+"label": "Donald H. Menzel"
+},
+"claimTier": 1,
+"denialKind": null,
+"label": "Three books and a journal paper arguing against the extraterrestrial hypothesis, 1953 to 1977",
+"note": "The Condon Report records the 1953 Harvard University Press book and the 1964 Flying Saucer Review paper; the Internet Archive catalogue record carries the 1977 Doubleday book, published a year after his death.",
+"of": {
+"id": "d-denial",
+"label": "Official Denial"
+},
+"sources": [
+{
+"date": "1969",
+"name": "Condon Report, Section V chapter 2; Internet Archive catalogue record for The UFO Enigma",
+"url": "https://files.ncas.org/condon/text/s5chap02.htm"
+}
+]
+},
+{
+"by": {
+"id": "tr-ac-47-silver-bug",
+"label": "TR-AC-47, Joint ATIC-WADC Report on Project Silver Bug, 15 February 1955"
+},
+"claimTier": 1,
+"denialKind": null,
+"label": "A dated Air Force document dismissing the flying-saucer resemblance of an aircraft it was itself funding",
+"note": "The Summary states that the project 'should in no way be associated with any science fiction or \"Flying Saucer\" stories because of its external appearance', which is a denial with an author, a date and a subject, and is what this board's denial domain exists to hold.",
+"of": {
+"id": "d-denial",
+"label": "Official Denial"
+},
+"sources": [
+{
+"date": "1955-02-15",
+"name": "TR-AC-47, Joint ATIC-WADC Report on Project Silver Bug, 15 February 1955",
+"url": "https://documents.theblackvault.com/documents/SilverBug/AFD-070114-006.pdf"
+}
+]
+}
+],
+"desc": "A denial is not the end of an inquiry on this board; it is an entry in it. The editorial rule is that every official denial gets recorded in full, with its author, its date, its precise wording and its scope - because the wording and the scope are the data. AARO's Volume I historical record report of February 2024 states flatly that the office found 'no empirical evidence' that the US government or private companies have reverse-engineered extraterrestrial technology; what the same report also states is the scope of its search, the access it was granted, and which named programmes it did and did not resolve, and those are the parts a hostile audit turns on. The documented pattern that makes this a domain rather than a footnote is the historical one: the National Reconnaissance Office's very existence was an official secret from 1961 until 1992, meaning that for thirty-one years an accurate answer to 'does that organisation exist' was legally required to be no. Denials therefore have a known failure mode - a categorical denial by an official without the relevant read-in is not a statement about the world but a statement about that official's access. Scoring on this domain measures how central official denial has been to an entity's public conduct: an agency spokesman who issues denials, a director who signs them, or a witness whose testimony a denial was written to rebut.",
+"domains": [
+"_rs-archive-mirror",
+"w2-taxonomy"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "d-denial",
+"l0": false,
+"label": "Official Denial",
+"locLabel": null,
+"members": null,
+"short": "Official Denial",
+"sources": [
+{
+"date": "2026-05-08",
+"name": "Archived: AARO, Report on the Historical Record of U.S. Government Involvement with UAP, Volume I (Wayback 2026-05-08)",
+"url": "https://web.archive.org/web/20260508180210/https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf"
+},
+{
+"date": "2024-02-01",
+"name": "AARO, Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
+"url": "https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf"
+},
+{
+"date": "1997-01-01",
+"name": "Gerald K. Haines, 'CIA's Role in the Study of UFOs, 1947-1990', Studies in Intelligence (CIA)",
+"url": "https://www.cia.gov/resources/csi/studies-in-intelligence/studies-in-intelligence-1997/cias-role-in-the-study-of-ufos-1947-1990/"
+},
+{
+"date": "2026-08-12",
+"name": "FAS Intelligence Resource Program - Intelligence Budget Data",
+"url": "https://irp.fas.org/budget/index.html"
+}
+],
+"sub": "Evidentiary domain - the denial as a dated, attributable artifact",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 272 of 1027, score 38). 4 connections, 0 of them custody/witness/funding/programmatic, 4 official denials recorded against it. Axes C0/A2/D2.",
+"timeline": [
+{
+"date": "1961-09-06",
+"id": "tx-1961-nro-classified",
+"label": "An agency whose existence is a secret",
+"precision": "month",
+"strand": "coverup",
+"text": "The National Reconnaissance Office is established with its very existence classified - a status maintained until September 1992. For thirty-one years the legally required answer to whether the organisation existed was no, which is the documented proof that a categorical official denial can be false and lawful at the same time.",
+"tier": 1
+},
+{
+"date": "2024-02-01",
+"id": "tx-2024-aaro-vol1",
+"label": "AARO answers on the record",
+"precision": "month",
+"strand": "coverup",
+"text": "AARO publishes Volume I of its historical record report, concluding it found no empirical evidence that the US government or private companies have reverse-engineered extraterrestrial technology. The report is catalogued here in full: its scope, its access and its methodology are the parts a hostile audit turns on.",
+"tier": 1
+}
+]
+}

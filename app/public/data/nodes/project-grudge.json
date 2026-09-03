@@ -1,0 +1,128 @@
+{
+"A": 2,
+"C": 1,
+"D": 1,
+"band": null,
+"claims": [
+{
+"source": "Condon Report, Section V Chapter 2",
+"text": "Project SIGN transitioned to Project GRUDGE on 11 February 1949.",
+"tier": 1
+},
+{
+"source": "Condon Report, Section V Chapter 2, summarising the Grudge Report",
+"text": "The Grudge Report concluded UFO reports resulted from 'misinterpretation of various conventional objects', 'mass-hysteria', hoaxes or psychological factors, recommended reducing the scope of investigation, and found no direct threat to national security.",
+"tier": 1
+},
+{
+"source": "Ruppelt, 'The Report on Unidentified Flying Objects' (1956)",
+"text": "Under GRUDGE the project was reduced to a token effort until Ruppelt was placed in charge in late 1951.",
+"tier": 2
+},
+{
+"source": "Inference from the eleven-month sequence documented in Condon Sec. V Ch. 2",
+"text": "GRUDGE's founding conclusions were produced within months of the destruction of the SIGN Estimate and read as a corrective to it rather than as an independent analytical finding.",
+"tier": 3
+}
+],
+"cls": "program",
+"cluster": "legacy",
+"connections": [
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "1949",
+"dateStart": "1948",
+"direction": "in",
+"edgeLabel": "Destruction of the Estimate preceded GRUDGE's dismissive posture by six months",
+"id": "estimate-of-the-situation",
+"l0": false,
+"label": "Estimate of the Situation (1948)",
+"note": "SIGN became GRUDGE on 11 February 1949, months after the Estimate was destroyed, and GRUDGE's founding conclusions ran directly counter to it.",
+"sources": [
+{
+"date": "1968-11-01",
+"name": "Condon Report Sec. V Ch. 2",
+"url": "https://files.ncas.org/condon/text/s5chap02.htm"
+}
+],
+"tier": "B",
+"type": "temporal"
+},
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": "1952",
+"dateStart": "1951",
+"direction": "out",
+"edgeLabel": "GRUDGE renamed Blue Book under Ruppelt in March 1952",
+"id": "project-blue-book",
+"l0": true,
+"label": "Project Blue Book",
+"note": "Ruppelt was placed in charge of the reconstituted GRUDGE in late 1951 and the project was renamed Project Blue Book in March 1952.",
+"sources": [
+{
+"date": "1968-11-01",
+"name": "Condon Report Sec. V Ch. 2",
+"url": "https://files.ncas.org/condon/text/s5chap02.htm"
+},
+{
+"date": "2026-08-12",
+"name": "NARA — Project Blue Book records",
+"url": "https://www.archives.gov/research/military/air-force/ufos"
+}
+],
+"tier": "A",
+"type": "programmatic"
+}
+],
+"coords": null,
+"dateEnd": "1951",
+"dateStart": "1949",
+"deg": 2,
+"denials": [],
+"desc": "Project GRUDGE replaced Project SIGN on 11 February 1949, immediately after the Estimate of the Situation was rejected and destroyed. The name has always been read as a statement of intent, and the output supports the reading. The Grudge Report concluded that UFO reports resulted from misinterpretation of conventional objects, mass hysteria, hoaxes or psychopathology, recommended that the scope of investigation be reduced, and found the phenomenon posed no direct threat to national security. Under GRUDGE the project's function shifted from analysis to disposal: cases were closed, staffing was cut to a token effort, and the surviving files show explanations being assigned rather than derived. GRUDGE is the point at which the official program stopped being an investigation and became a public relations mechanism — three years before the Robertson Panel formalised that function and nineteen years before the Condon Committee completed it. Edward Ruppelt inherited GRUDGE in late 1951 and briefly professionalised it before it was renamed Project Blue Book in March 1952.",
+"domains": [
+"history-1940s-1960s"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "project-grudge",
+"l0": false,
+"label": "Project GRUDGE",
+"locLabel": null,
+"members": null,
+"short": "Project GRUDGE",
+"sources": [
+{
+"date": "1968-11-01",
+"name": "Condon Report, Sec. V Ch. 2 — UFOs 1947-1968",
+"url": "https://files.ncas.org/condon/text/s5chap02.htm"
+},
+{
+"date": "1956-01-01",
+"name": "Ruppelt, The Report on Unidentified Flying Objects (full text)",
+"url": "https://www.gutenberg.org/ebooks/17346"
+}
+],
+"sub": "Successor to SIGN; explicitly dismissive posture (1949-1951)",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 588 of 1027, score 26). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A2/D1.",
+"timeline": [
+{
+"date": "1949-02-11",
+"id": "tl-1949-02-11",
+"label": "Project SIGN becomes Project GRUDGE",
+"precision": "day",
+"strand": "program",
+"text": "The successor project concludes reports are misinterpretation, mass hysteria and hoaxes posing no direct threat to national security, and recommends reducing the scope of investigation.",
+"tier": "A"
+}
+]
+}

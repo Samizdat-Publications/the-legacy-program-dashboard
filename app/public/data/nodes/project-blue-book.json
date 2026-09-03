@@ -1,0 +1,1083 @@
+{
+"A": 2,
+"C": 1,
+"D": 2,
+"band": "custody",
+"claims": [
+{
+"source": "USAF Fact Sheet, 'Unidentified Flying Objects and Air Force Project Blue Book'",
+"text": "Blue Book recorded 12,618 sightings between 1947 and 1969, of which 701 remained unidentified; it was terminated on 17 December 1969.",
+"tier": 1
+},
+{
+"source": "USAF Fact Sheet, 'Unidentified Flying Objects and Air Force Project Blue Book'",
+"text": "The Air Force gave three reasons for termination: no reported UFO was ever an indication of threat to national security; no evidence that unexplained sightings represented technological developments beyond current scientific knowledge; and no evidence that 'unidentified' sightings were extraterrestrial vehicles.",
+"tier": 1
+},
+{
+"source": "National Archives, Air Force UFO records page",
+"text": "NARA holds approximately 2 cubic feet of project/administrative files, 37 cubic feet of case files and 3 cubic feet of Office of Special Investigations records, on 94 rolls of microfilm (T-1206).",
+"tier": 1
+},
+{
+"source": "National Archives, Air Force UFO records page",
+"text": "NARA states it has been 'unable to locate any documentation among the Project BLUE BOOK records that discuss the 1947 incident in Roswell, New Mexico.'",
+"tier": 1
+},
+{
+"source": "Project Blue Book administrative records, NARA RG 341",
+"text": "Blue Book directors were Edward J. Ruppelt (1952-1953), Charles Hardin (1954-1956), George T. Gregory (1956-1958), Robert J. Friend (1958-1963) and Hector Quintanilla (1963-1969).",
+"tier": 1
+}
+],
+"cls": "program",
+"cluster": "other",
+"connections": [
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "1969",
+"dateStart": "1953",
+"direction": "in",
+"edgeLabel": "AFR 200-2 governed what Blue Book could say publicly",
+"id": "afr-200-2",
+"l0": false,
+"label": "Air Force Regulation 200-2",
+"note": "For unexplainable objects, 'only the fact that ATIC will analyze the data is worthy of release'. Every Air Force public statement that unknowns were unimportant was made under a regulation forbidding discussion of them.",
+"sources": [
+{
+"date": "1954-08-12",
+"name": "AFR 200-2, 12 August 1954",
+"url": "http://www.cufon.org/cufon/afr200-2.htm"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "1955",
+"dateStart": "1955",
+"direction": "in",
+"edgeLabel": "19.7 per cent of analysed objects were unknowns, rising with report quality",
+"id": "blue-book-special-report-14",
+"l0": true,
+"label": "Project Blue Book Special Report No. 14",
+"note": "434 of 2,199 objects were classified Unknown, and the better the report quality the higher the unknown rate — the inverse of what misidentification predicts.",
+"sources": [
+{
+"date": "1955-05-05",
+"name": "Project Blue Book Special Report No. 14",
+"url": "http://www.nicap.org/docs/pbbsr/BBA-PBSR14.pdf"
+}
+],
+"tier": "A",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "1969",
+"dateStart": "1969",
+"direction": "in",
+"edgeLabel": "Memo recommended termination; Blue Book closed two months later",
+"id": "bolender-memo",
+"l0": false,
+"label": "Bolender Memorandum",
+"note": "Secretary of the Air Force Robert C. Seamans Jr. announced the termination on 17 December 1969, citing the Condon Report.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "USAF Fact Sheet: Project Blue Book",
+"url": "https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/"
+},
+{
+"date": "1969-10-20",
+"name": "Bolender memorandum, 20 October 1969",
+"url": "https://www.nicap.org/docs/1969_10_20_Bolender_Memo.pdf"
+}
+],
+"tier": "B",
+"type": "programmatic"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "adopts Hynek's Blue Book-era classification",
+"id": "cometa",
+"l0": true,
+"label": "COMETA - Comité d'Études Approfondies",
+"note": "COMETA states that the strangest category D cases 'are generally labeled CE3s (close encounters of the third kind) according to the classification proposed by Professor A. Hynek, an astronomer and consultant to the USAF, within the context of the Blue Book Project'. A committee of retired French flag officers adopting Blue Book's own consultant's taxonomy is the inheritance this edge records.",
+"sources": [
+{
+"date": "1999-07-01",
+"name": "COMETA, 'UFOs and Defense: What Should We Prepare For?', 1999, chapter 7.2",
+"url": "https://ia800403.us.archive.org/17/items/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D.pdf"
+}
+],
+"tier": "A",
+"type": "research"
+},
+{
+"claimTier": 2,
+"cls": "program",
+"dateEnd": "1969-12-17",
+"dateStart": "1969-01",
+"direction": "in",
+"edgeLabel": "The Condon report was the stated basis for terminating Blue Book",
+"id": "condon-committee",
+"l0": true,
+"label": "University of Colorado UFO Project (Condon Committee)",
+"note": "The Air Force terminated Project Blue Book on 17 December 1969 in response to the Condon findings, having received the report in November 1968.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Wikipedia - Condon Committee",
+"url": "https://en.wikipedia.org/wiki/Condon_Committee"
+}
+],
+"tier": "A",
+"type": "denial"
+},
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": "1969",
+"dateStart": "1969",
+"direction": "in",
+"edgeLabel": "The Condon Report was the stated basis for terminating Blue Book",
+"id": "condon-committee",
+"l0": true,
+"label": "University of Colorado UFO Project (Condon Committee)",
+"note": "The Air Force cited the Colorado study, a National Academy of Sciences review and prior experience in ending the program on 17 December 1969.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "USAF Fact Sheet: Project Blue Book",
+"url": "https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/"
+}
+],
+"tier": "A",
+"type": "programmatic"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "1953",
+"dateStart": "1952",
+"direction": "in",
+"edgeLabel": "Ruppelt was Blue Book's first director",
+"id": "edward-ruppelt",
+"l0": false,
+"label": "Edward J. Ruppelt",
+"note": "Ruppelt directed the project from March 1952 to August 1953, covering the Washington flap and the Robertson Panel, and later published the only insider account of the period.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "NARA — Project Blue Book records",
+"url": "https://www.archives.gov/research/military/air-force/ufos"
+},
+{
+"date": "1956-01-01",
+"name": "Ruppelt, The Report on Unidentified Flying Objects",
+"url": "https://www.gutenberg.org/ebooks/17346"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "Held the Blue Book effort by regulation from 19 September 1966",
+"id": "foreign-technology-division",
+"l0": false,
+"label": "Foreign Technology Division, Wright-Patterson AFB",
+"note": "AFR 80-17 assigns the Blue Book effort to FTD at Wright-Patterson, requires FTD to analyse every report not identified at base level, and requires FTD to write the final case report on each sighting.",
+"sources": [
+{
+"date": "1966-09-19",
+"name": "AFR 80-17, 19 September 1966",
+"url": "https://nicap.org/afr80-17.htm"
+}
+],
+"tier": "B",
+"type": "programmatic"
+},
+{
+"claimTier": 2,
+"cls": "document",
+"dateEnd": "1955",
+"dateStart": "1952",
+"direction": "in",
+"edgeLabel": "Battelle's Project Stork produced Special Report No. 14",
+"id": "gerb-battelle-investigation",
+"l0": false,
+"label": "UAP Gerb - Battelle Memorial Institute investigation",
+"note": "Project Stork was Battelle's contract supporting the Air Force UFO effort; it produced the statistical study issued as Special Report No. 14, a document available in the CIA reading room.",
+"sources": [
+{
+"date": "2024-02-18",
+"name": "UAP Gerb - Battelle Memorial Institute investigation",
+"url": "https://www.youtube.com/watch?v=tISTJRPOqFo"
+}
+],
+"tier": "C",
+"type": "programmatic"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "1997",
+"dateStart": "1997",
+"direction": "in",
+"edgeLabel": "CIA states the Air Force made misleading and deceptive public statements",
+"id": "haines-cia-history",
+"l0": false,
+"label": "A Die-hard Issue: CIA's Role in the Study of UFOs, 1947-1990",
+"note": "Haines writes that reconnaissance-programme secrecy 'led the Air Force to make misleading and deceptive statements to the public' — an agency of the US government confirming official deception on this subject.",
+"sources": [
+{
+"date": "1997-01-01",
+"name": "Haines, CIA's Role in the Study of UFOs, 1947-1990",
+"url": "https://www.cia.gov/resources/csi/studies-in-intelligence/studies-in-intelligence-1997/cias-role-in-the-study-of-ufos-1947-1990/"
+}
+],
+"tier": "A",
+"type": "denial"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "1969",
+"dateStart": "1955",
+"direction": "in",
+"edgeLabel": "Blue Book investigators knowingly issued false explanations for U-2 sightings",
+"id": "haines-cia-history",
+"l0": false,
+"label": "A Die-hard Issue: CIA's Role in the Study of UFOs, 1947-1990",
+"note": "CIA records that Blue Book investigators aware of the secret U-2 flights attributed sightings to ice crystals and temperature inversions and 'were careful, however, not to reveal the true cause of the sighting to the public.'",
+"sources": [
+{
+"date": "1997-01-01",
+"name": "Gerald K. Haines, 'CIA's Role in the Study of UFOs, 1947-90', Studies in Intelligence (CIA), archived copy",
+"url": "https://www.theblackvault.com/documentarchive/cias-role-in-the-study-of-ufos-1947-90/"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "1969",
+"dateStart": "1948",
+"direction": "in",
+"edgeLabel": "Hynek was scientific consultant across SIGN, GRUDGE and Blue Book",
+"id": "j-allen-hynek",
+"l0": false,
+"label": "J. Allen Hynek",
+"note": "Twenty-one continuous years as the Air Force's own astronomer on the problem — longer than any other participant in the legacy system.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "NARA — Project Blue Book records",
+"url": "https://www.archives.gov/research/military/air-force/ufos"
+},
+{
+"date": "1968-11-01",
+"name": "Condon Report Sec. V Ch. 2",
+"url": "https://files.ncas.org/condon/text/s5chap02.htm"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "1968",
+"dateStart": "1966",
+"direction": "in",
+"edgeLabel": "McDonald reviewed Blue Book files and told Congress it was not an investigation",
+"id": "james-mcdonald",
+"l0": false,
+"label": "James E. McDonald",
+"note": "Testifying on 29 July 1968 he told the House Science and Astronautics Committee that 'credible observers are observing relatively incredible objects' and that the subject deserved science rather than ridicule.",
+"sources": [
+{
+"date": "1968-07-29",
+"name": "House Committee on Science and Astronautics, Symposium on UFOs, 29 July 1968",
+"url": "http://nicap.org/books/1968Sym/1968_UFO_Symposium.pdf"
+}
+],
+"tier": "B",
+"type": "investigative"
+},
+{
+"claimTier": 3,
+"cls": "document",
+"dateEnd": "1969",
+"dateStart": "1954",
+"direction": "out",
+"edgeLabel": "The public statistics are the residue of a filter, not the corpus",
+"id": "janap-146",
+"l0": false,
+"label": "JANAP 146 (CIRVIS/MERINT reporting)",
+"note": "If national-security reports went up the JANAP channel as Bolender states, then the 12,618 sightings and 701 unknowns describe only what the filtered public program retained.",
+"sources": [
+{
+"date": "1969-10-20",
+"name": "Bolender memorandum, 20 October 1969",
+"url": "https://www.nicap.org/docs/1969_10_20_Bolender_Memo.pdf"
+},
+{
+"date": "2026-08-12",
+"name": "USAF Fact Sheet: Project Blue Book",
+"url": "https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/"
+}
+],
+"tier": "B",
+"type": "denial"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "1969",
+"dateStart": "1954",
+"direction": "in",
+"edgeLabel": "JANAP created a parallel reporting channel outside Blue Book",
+"id": "janap-146",
+"l0": false,
+"label": "JANAP 146 (CIRVIS/MERINT reporting)",
+"note": "JANAP 146(C) made UFO sightings a mandatory CIRVIS report under espionage-statute penalties while Blue Book handled the public-facing residue. Bolender confirmed the split in 1969.",
+"sources": [
+{
+"date": "1954-03-10",
+"name": "JANAP 146(C), 10 March 1954",
+"url": "http://www.cufon.org/cufon/janp146c.htm"
+},
+{
+"date": "1969-10-20",
+"name": "Bolender memorandum, 20 October 1969",
+"url": "https://www.nicap.org/docs/1969_10_20_Bolender_Memo.pdf"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "1969",
+"dateStart": "1947",
+"direction": "in",
+"edgeLabel": "Arnold's case entered the official file series from the outset",
+"id": "kenneth-arnold",
+"l0": false,
+"label": "Kenneth Arnold",
+"note": "Army Air Forces intelligence investigated the sighting and the case documentation survives in the Blue Book record series now held at the National Archives.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "NARA — Project Blue Book records",
+"url": "https://www.archives.gov/research/military/air-force/ufos"
+},
+{
+"date": "2026-08-12",
+"name": "NICAP document archive index",
+"url": "https://www.nicap.org/docs/"
+}
+],
+"tier": "C",
+"type": "witness-chain"
+},
+{
+"claimTier": 1,
+"cls": "location",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "Project Stork / Blue Book Special Report No. 14 produced here",
+"id": "l-columbus-oh",
+"l0": false,
+"label": "Columbus, Ohio",
+"note": "TIER 3, INFERENTIAL, and the reason is worth stating. Project Blue Book Special Report No. 14, the statistical analysis of 1947-1952 sighting reports dated 5 May 1955, is attributed on its own title page to the Air Technical Intelligence Center at Wright-Patterson Air Force Base, Ohio, under Project No. 10073. Its summary says the study 'was prepared by a panel of scientists both in and out of the Air Force'. The released copy names no contractor at all: a full-text scan of all 313 pages finds no occurrence of 'Battelle', 'Columbus' or 'Memorial Institute'. The Columbus tie rests entirely on the secondary literature's Battelle attribution, which the primary record does not make.",
+"sources": [
+{
+"date": "1955-05-05",
+"name": "Project Blue Book Special Report No. 14, 5 May 1955 (CIA-RDP81R00560R000100060001-5, released copy, 313 pp.)",
+"url": "https://documents2.theblackvault.com/documents/ufos/CIA-RDP81R00560R000100060001-5.pdf"
+},
+{
+"date": null,
+"name": "https://archive.org/details/ProjectBlueBookSpecialReport14",
+"url": "https://archive.org/details/ProjectBlueBookSpecialReport14"
+},
+{
+"date": null,
+"name": "https://cufos.org/resources/project-blue-book/",
+"url": "https://cufos.org/resources/project-blue-book/"
+}
+],
+"tier": "C",
+"type": "geographic"
+},
+{
+"claimTier": 2,
+"cls": "location",
+"dateEnd": "1969",
+"dateStart": "1952",
+"direction": "out",
+"edgeLabel": "Blue Book was hosted at Wright-Patterson from 1952 to 1969",
+"id": "l-wright-patterson",
+"l0": false,
+"label": "Wright-Patterson Air Force Base, Ohio",
+"note": "Project Blue Book, like SIGN and GRUDGE before it, was hosted at this base under ATIC. Of 12,618 sightings studied, 701 remained unexplained at closure. Attested by USAF fact sheets.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Wikipedia - Wright-Patterson Air Force Base",
+"url": "https://en.wikipedia.org/wiki/Wright-Patterson_Air_Force_Base"
+}
+],
+"tier": "A",
+"type": "programmatic"
+},
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": "1969",
+"dateStart": "1968-10-24",
+"direction": "in",
+"edgeLabel": "Blue Book declined to field-investigate an instrumented nuclear-site case",
+"id": "minot-1968",
+"l0": false,
+"label": "Minot AFB B-52 incident, 24 October 1968",
+"note": "The RADCAT directory records that Project Blue Book personnel did not send field investigators and the incident was written off despite interest from SAC generals including 15th Air Force's Maj. Gen. Nichols.",
+"sources": [
+{
+"date": "2010-11-24",
+"name": "NICAP/Project 1947 RADCAT: Minot AFB, 24 October 1968",
+"url": "https://www.nicap.org/681024minot_dir.htm"
+}
+],
+"tier": "C",
+"type": "denial"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "1964",
+"dateStart": "1964",
+"direction": "in",
+"edgeLabel": "Blue Book's former headquarters monitor sat on the NICAP board",
+"id": "nicap",
+"l0": true,
+"label": "National Investigations Committee on Aerial Phenomena (NICAP)",
+"note": "The 1964 board list describes Dewey Fournet Jr. as the former Air Force Headquarters monitor of Project Blue Book and liaison officer between the Dayton project and the Pentagon.",
+"sources": [
+{
+"date": "1964-05-01",
+"name": "The UFO Evidence, NICAP, 1964, CIA filed copy CIA-RDP81R00560R000100010001-0",
+"url": "https://archive.org/details/cia-readingroom-document-cia-rdp81r00560r000100010001-0"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": "1952",
+"dateStart": "1951",
+"direction": "in",
+"edgeLabel": "GRUDGE renamed Blue Book under Ruppelt in March 1952",
+"id": "project-grudge",
+"l0": false,
+"label": "Project GRUDGE",
+"note": "Ruppelt was placed in charge of the reconstituted GRUDGE in late 1951 and the project was renamed Project Blue Book in March 1952.",
+"sources": [
+{
+"date": "1968-11-01",
+"name": "Condon Report Sec. V Ch. 2",
+"url": "https://files.ncas.org/condon/text/s5chap02.htm"
+},
+{
+"date": "2026-08-12",
+"name": "NARA — Project Blue Book records",
+"url": "https://www.archives.gov/research/military/air-force/ufos"
+}
+],
+"tier": "C",
+"type": "programmatic"
+},
+{
+"claimTier": 3,
+"cls": "program",
+"dateEnd": "1969",
+"dateStart": "1961",
+"direction": "in",
+"edgeLabel": "MOON DUST was the retrieval function alongside Blue Book's public sighting file",
+"id": "project-moon-dust",
+"l0": false,
+"label": "Project MOON DUST",
+"note": "Blue Book was the acknowledged investigative programme; MOON DUST was a separate, quieter recovery and exploitation tasking that was never advertised to the public that Blue Book served.",
+"sources": [
+{
+"date": "2015-03-04",
+"name": "Project Moon Dust document archive (Department of State releases; one file declassified by CIA)",
+"url": "https://www.theblackvault.com/documentarchive/project-moon-dust/"
+},
+{
+"date": "2016-08-15",
+"name": "National Archives, 'Project BLUE BOOK - Unidentified Flying Objects' reference report (incl. MJ-12 / Cutler-Twining findings)",
+"url": "https://www.archives.gov/research/military/air-force/ufos"
+}
+],
+"tier": "A",
+"type": "programmatic"
+},
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": "1955",
+"dateStart": "1952",
+"direction": "in",
+"edgeLabel": "Stork was Blue Book's contracted analytical arm",
+"id": "project-stork",
+"l0": false,
+"label": "Project Stork (Project White Stork)",
+"note": "The Air Force's public UFO project outsourced its own analytical methodology to a private nonprofit, whose records were never federal records.",
+"sources": [
+{
+"date": "1955-05-05",
+"name": "CIA CREST - Special Report No. 14",
+"url": "https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100060001-5.pdf"
+}
+],
+"tier": "A",
+"type": "programmatic"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2024",
+"direction": "in",
+"edgeLabel": "NARA holds the Blue Book series and is digitising legacy UFO records",
+"id": "rg-615-uap-records",
+"l0": false,
+"label": "NARA Record Group 615 — UAP Records Collection",
+"note": "Approximately 42 cubic feet of Blue Book material on 94 rolls of microfilm (T-1206) sits alongside the new RG 615 accessions; NARA states no Blue Book document discusses Roswell.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "NARA — Project Blue Book records",
+"url": "https://www.archives.gov/research/military/air-force/ufos"
+},
+{
+"date": "2025-04-24",
+"name": "NARA — UAP research topic page",
+"url": "https://www.archives.gov/research/topics/uaps"
+}
+],
+"tier": "B",
+"type": "custody"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "1969",
+"dateStart": "1955",
+"direction": "in",
+"edgeLabel": "His project staff resolved Blue Book's reports and withheld the reason",
+"id": "richard-m-bissell-jr",
+"l0": false,
+"label": "Richard M. Bissell Jr.",
+"note": "The CIA history states that Blue Book investigators checked reported sightings against U-2 flight logs held by the Agency's project staff and could not reveal the true cause to the people who had written in.",
+"sources": [
+{
+"date": "2013-06-25",
+"name": "Pedlow and Welzenbach, The Central Intelligence Agency and Overhead Reconnaissance, 2013 release, chapter 2",
+"url": "https://archive.org/download/cia-readingroom-document-0000190094/0000190094_djvu.txt"
+}
+],
+"tier": "B",
+"type": "denial"
+},
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": "1975",
+"dateStart": "1975",
+"direction": "in",
+"edgeLabel": "Occurred six years after the Air Force closed Blue Book on a no-threat finding",
+"id": "sac-overflights-1975",
+"l0": true,
+"label": "1975 SAC Nuclear-Base Overflights (Loring, Wurtsmith, Malmstrom, Minot)",
+"note": "The USAF fact sheet states Blue Book was terminated on 17 December 1969 on the conclusion that no UFO had ever indicated a threat to national security. The 1975 records document unidentified objects over nuclear weapons installations.",
+"sources": [
+{
+"date": "2016-08-15",
+"name": "National Archives, 'Project BLUE BOOK - Unidentified Flying Objects' reference report (incl. MJ-12 / Cutler-Twining findings)",
+"url": "https://www.archives.gov/research/military/air-force/ufos"
+},
+{
+"date": "2021-11-08",
+"name": "Unidentified Flying Objects over Malmstrom AFB, November 1975 (DoD FOIA case 97-F-1677)",
+"url": "https://www.theblackvault.com/documentarchive/unidentified-flying-objects-over-malmstrom-afb-november-1975/"
+}
+],
+"tier": "A",
+"type": "temporal"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "1976",
+"direction": "in",
+"edgeLabel": "BLUE BOOK records transferred to the National Archives as 94 rolls of microfilm",
+"id": "usaf",
+"l0": true,
+"label": "United States Air Force",
+"note": "The records were permanently transferred to NARA and are held as 94 rolls of 35mm microfilm, T-1206.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "National Archives - Unidentified Flying Objects / Project BLUE BOOK",
+"url": "https://www.archives.gov/research/military/air-force/ufos"
+}
+],
+"tier": "A",
+"type": "custody"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "1969-12-17",
+"dateStart": "1952",
+"direction": "in",
+"edgeLabel": "Air Force ran the public UFO investigation 1952-1969",
+"id": "usaf",
+"l0": true,
+"label": "United States Air Force",
+"note": "12,618 sightings were reported to BLUE BOOK, of which 701 remain 'Unidentified'. The Secretary of the Air Force announced termination on 17 December 1969.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "National Archives - Unidentified Flying Objects / Project BLUE BOOK",
+"url": "https://www.archives.gov/research/military/air-force/ufos"
+}
+],
+"tier": "A",
+"type": "programmatic"
+},
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": "1952",
+"dateStart": "1952",
+"direction": "in",
+"edgeLabel": "The flap occurred during Ruppelt's tenure and drove the record volume",
+"id": "washington-flap-1952",
+"l0": false,
+"label": "1952 Washington DC Sightings",
+"note": "Blue Book case documentation for the 19 July 1952 Washington radar events survives; 1952 produced the largest single-year report volume of the program's history.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "NICAP document archive index",
+"url": "https://www.nicap.org/docs/"
+},
+{
+"date": "2026-08-12",
+"name": "NARA — Project Blue Book records",
+"url": "https://www.archives.gov/research/military/air-force/ufos"
+}
+],
+"tier": "C",
+"type": "temporal"
+}
+],
+"coords": null,
+"dateEnd": "1969",
+"dateStart": "1952",
+"deg": 25,
+"denials": [
+{
+"by": {
+"id": "condon-committee",
+"label": "University of Colorado UFO Project (Condon Committee)"
+},
+"claimTier": 2,
+"denialKind": "directed",
+"label": "The Condon report was the stated basis for terminating Blue Book",
+"note": "The Air Force terminated Project Blue Book on 17 December 1969 in response to the Condon findings, having received the report in November 1968.",
+"of": {
+"id": "project-blue-book",
+"label": "Project Blue Book"
+},
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Wikipedia - Condon Committee",
+"url": "https://en.wikipedia.org/wiki/Condon_Committee"
+}
+]
+},
+{
+"by": {
+"id": "project-blue-book",
+"label": "Project Blue Book"
+},
+"claimTier": 1,
+"denialKind": "directed",
+"label": "CIA states the Air Force made misleading and deceptive public statements",
+"note": "Haines writes that reconnaissance-programme secrecy 'led the Air Force to make misleading and deceptive statements to the public' — an agency of the US government confirming official deception on this subject.",
+"of": {
+"id": "haines-cia-history",
+"label": "A Die-hard Issue: CIA's Role in the Study of UFOs, 1947-1990"
+},
+"sources": [
+{
+"date": "1997-01-01",
+"name": "Haines, CIA's Role in the Study of UFOs, 1947-1990",
+"url": "https://www.cia.gov/resources/csi/studies-in-intelligence/studies-in-intelligence-1997/cias-role-in-the-study-of-ufos-1947-1990/"
+}
+]
+},
+{
+"by": {
+"id": "project-blue-book",
+"label": "Project Blue Book"
+},
+"claimTier": 3,
+"denialKind": "association",
+"label": "The public statistics are the residue of a filter, not the corpus",
+"note": "If national-security reports went up the JANAP channel as Bolender states, then the 12,618 sightings and 701 unknowns describe only what the filtered public program retained.",
+"of": {
+"id": "janap-146",
+"label": "JANAP 146 (CIRVIS/MERINT reporting)"
+},
+"sources": [
+{
+"date": "1969-10-20",
+"name": "Bolender memorandum, 20 October 1969",
+"url": "https://www.nicap.org/docs/1969_10_20_Bolender_Memo.pdf"
+},
+{
+"date": "2026-08-12",
+"name": "USAF Fact Sheet: Project Blue Book",
+"url": "https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/"
+}
+]
+},
+{
+"by": {
+"id": "project-blue-book",
+"label": "Project Blue Book"
+},
+"claimTier": 1,
+"denialKind": "directed",
+"label": "Blue Book declined to field-investigate an instrumented nuclear-site case",
+"note": "The RADCAT directory records that Project Blue Book personnel did not send field investigators and the incident was written off despite interest from SAC generals including 15th Air Force's Maj. Gen. Nichols.",
+"of": {
+"id": "minot-1968",
+"label": "Minot AFB B-52 incident, 24 October 1968"
+},
+"sources": [
+{
+"date": "2010-11-24",
+"name": "NICAP/Project 1947 RADCAT: Minot AFB, 24 October 1968",
+"url": "https://www.nicap.org/681024minot_dir.htm"
+}
+]
+},
+{
+"by": {
+"id": "richard-m-bissell-jr",
+"label": "Richard M. Bissell Jr."
+},
+"claimTier": 1,
+"denialKind": null,
+"label": "His project staff resolved Blue Book's reports and withheld the reason",
+"note": "The CIA history states that Blue Book investigators checked reported sightings against U-2 flight logs held by the Agency's project staff and could not reveal the true cause to the people who had written in.",
+"of": {
+"id": "project-blue-book",
+"label": "Project Blue Book"
+},
+"sources": [
+{
+"date": "2013-06-25",
+"name": "Pedlow and Welzenbach, The Central Intelligence Agency and Overhead Reconnaissance, 2013 release, chapter 2",
+"url": "https://archive.org/download/cia-readingroom-document-0000190094/0000190094_djvu.txt"
+}
+]
+}
+],
+"desc": "Project Blue Book ran from March 1952 to 17 December 1969 at Wright-Patterson Air Force Base and is the public face of the legacy era. Its own final accounting is 12,618 sightings recorded, of which 701 were never identified — a residue of 5.6 per cent that the Air Force has never explained and that no subsequent official study has revisited. Blue Book had five directors: Edward Ruppelt, Charles Hardin, George Gregory, Robert Friend and Hector Quintanilla. Its analytical output was governed from 1953-1954 onward by AFR 200-2 and JANAP 146, which between them restricted what could be said publicly about unexplained cases and routed operationally significant reports away from Blue Book entirely. That last point is not inference: the Bolender memorandum of 20 October 1969, recommending termination, states that UFO reports which could affect national security are made under JANAP 146 or AFM 55-11 and are not part of the Blue Book system. Blue Book was therefore, by the admission of the general who closed it, the disposal channel rather than the collection channel. The records — roughly 37 cubic feet of case files plus administrative files and Office of Special Investigations material — are at the National Archives on 94 rolls of microfilm (T-1206), and NARA states it has been unable to locate any documentation among them discussing the 1947 Roswell incident.",
+"domains": [
+"_rs-archive-mirror",
+"history-1940s-1960s"
+],
+"dossier": {
+"claims": [
+{
+"source": "https://www.nicap.org/Bolender_Memo.htm",
+"text": "The 20 October 1969 staff document signed by Brig. Gen. C. H. Bolender states that \"reports of unidentified flying objects which could affect national security are made in accordance with JANAP 146 or Air Force Manual 55-11, and are not part of the Blue Book system.\"",
+"tier": 1
+},
+{
+"source": "https://www.nicap.org/Bolender_Memo.htm",
+"text": "The same document states: \"There is still, however, no evidence that Project Blue Book reports have served any intelligence function (Atch 8).\"",
+"tier": 1
+},
+{
+"source": "https://www.nicap.org/Bolender_Memo.htm",
+"text": "The same document notes that the 1953 Robertson Panel had already concluded UFOs were not a direct physical threat, and that \"in spite of this finding, the Air Force continued to maintain a special reporting system\" for a further sixteen years.",
+"tier": 1
+},
+{
+"source": "https://www.nicap.org/Bolender_Memo.htm",
+"text": "Paragraph 8 of the same document recommends that Blue Book records be transferred to an archive \"for historical value and to prevent charges that the Air Force is concealing facts.\"",
+"tier": 1
+},
+{
+"source": "https://www.nicap.org/Bolender_Memo.htm",
+"text": "Paragraph 9 records Air University's conditions for accepting the records: that SAFOI answer all Blue Book queries, that SAFOI \"rigidly limit the right of access to recognized, legitimate researchers,\" and that SAFOI \"screen researcher's notes to insure that 'confidentiality' is maintained.\"",
+"tier": 1
+},
+{
+"source": "https://www.nicap.org/Bolender_Memo.htm",
+"text": "The same paragraph states SAFOI's view that \"an Air Force controlled archive away from the Washington, D.C. area is the most appropriate storage facility,\" because Washington-area availability \"would result in an inordinate workload in clearing investigators, providing documentation, and reviewing and clearing manuscripts.\"",
+"tier": 1
+},
+{
+"source": "https://www.nicap.org/Bolender_Memo.htm",
+"text": "Blue Book was staffed full-time by two officers, one NCO and one civilian, with Dr. J. Allen Hynek as scientific consultant until 1 July 1969; reporting procedures were defined in Air Force Regulation 80-17.",
+"tier": 1
+},
+{
+"source": "https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/asdpa1.pdf?ver=2017-05-22-113454-807",
+"text": "Department of Defense release No. 1077-69, 17 December 1969, announced termination, quoting Secretary Seamans that continuation \"cannot be justified either on the ground of national security or in the interest of science,\" and stated that Blue Book records would be retired to the USAF Archives at Maxwell AFB with requests handled by SAFOI.",
+"tier": 1
+},
+{
+"source": "https://www.archives.gov/research/military/air-force/ufos",
+"text": "The National Archives states that Blue Book textual records are available for research \"excluding names of people involved in the sightings,\" and comprise approximately 2 cubic feet of project/administrative files, 37 cubic feet of case files and 3 cubic feet of AFOSI-related records, accessed via 94 rolls of 35mm microfilm (T-1206).",
+"tier": 1
+},
+{
+"source": "https://www.archives.gov/research/military/air-force/ufos",
+"text": "The National Archives states: \"The National Archives has been unable to locate any documentation among the Project BLUE BOOK records that discuss the 1947 incident in Roswell, New Mexico.\"",
+"tier": 1
+},
+{
+"source": "https://www.govinfo.gov/content/pkg/GAOREPORTS-NSIAD-95-187/html/GAOREPORTS-NSIAD-95-187.htm",
+"text": "GAO reviewed Project Blue Book Special Report No. 14 at National Archives II and reported it \"did not mention the crash or the recovery of an airborne object near Roswell in July 1947.\"",
+"tier": 1
+},
+{
+"source": "https://www.archives.gov/research/military/air-force/ufos",
+"text": "The January 1985 USAF fact sheet distributed by Wright-Patterson AFB, reproduced by the National Archives, records 12,618 sightings from 1947 to 1969 of which 701 remain \"Unidentified,\" and states \"There are not now nor ever have been, any extraterrestrial visitors or equipment on Wright-Patterson Air Force Base.\"",
+"tier": 1
+},
+{
+"source": "https://www.nicap.org/Bolender_Memo.htm",
+"text": "The Bolender document carried sixteen attachments listed on a separate page; NICAP's published notes state that researcher Robert Todd spent years seeking their release and that several remain unidentified or unreleased.",
+"tier": 3
+}
+],
+"denialPosture": "The Air Force's position has been fixed since 17 December 1969 and restated verbatim for decades: no reported UFO ever indicated a threat to national security, none represented technology beyond present-day scientific knowledge, and none indicated extraterrestrial vehicles (DoD release No. 1077-69). The January 1985 Wright-Patterson fact sheet adds the installation-specific denial that there are not now and never have been \"any extraterrestrial visitors or equipment on Wright-Patterson Air Force Base.\" Both are dated, attributable and institutional, and both are silent on the JANAP 146 and AFM 55-11 channel the Air Force's own termination paperwork describes.",
+"narrative": "Project Blue Book is the most examined document set in the history of the subject and the least useful, and both facts follow from the same cause: it was never the file where the answer would be.\n\nThe Air Force ran three named UFO efforts in sequence. Project SIGN began in 1948, Project GRUDGE followed in 1949, and Blue Book was stood up in March 1952 under Air Force Regulation 80-17, which required base commanders to provide a UFO investigative capability and Air Force Systems Command to continue the project. The Bolender document of 20 October 1969 describes the resulting establishment with some precision: \"Project Blue Book has two officers, one NCO and one civilian assigned on a full-time basis,\" plus Dr. J. Allen Hynek as a scientific consultant until 1 July 1969. Four people, one part-time academic, and a stated mission to determine whether UFOs threatened national security and whether they exhibited advanced technology. For seventeen years this was the entire visible federal apparatus.\n\nThe Bolender document is the load-bearing artifact. It was written as the staff package recommending termination, was released to researcher Robert Todd in January 1979, and reads as an internal cost-benefit memorandum rather than a scientific finding. Paragraph 4 contains the sentence that reorganises everything around it: after noting that the 1953 Robertson Panel had already concluded UFOs posed no direct physical threat, the document observes that \"in spite of this finding, the Air Force continued to maintain a special reporting system,\" then states that national-security-relevant reports move under JANAP 146 or Air Force Manual 55-11 \"and are not part of the Blue Book system.\" JANAP 146 is the joint communications instruction governing CIRVIS reporting of vital intelligence sightings; AFM 55-11 governs operational reporting. Neither corpus has ever been assembled, declassified or transferred as a body. Whatever came up those channels between 1952 and 1969 is not in T-1206 and never was.\n\nThe same document then explains, in operational terms, why Blue Book was kept alive after its own premise was disclaimed. Paragraph 8 recommends that if Blue Book is terminated the records \"should be transferred to an appropriate archive and preserved for historical value and to prevent charges that the Air Force is concealing facts.\" The reason given for preservation is reputational management, stated openly. Paragraph 9 goes further. Because witnesses had been promised confidentiality, \"access to these records and the publications must be carefully reviewed and controlled,\" and the Secretary of the Air Force Office of Information judged that \"an Air Force controlled archive away from the Washington, D.C. area is the most appropriate storage facility,\" because ready availability in Washington \"would result in an inordinate workload in clearing investigators, providing documentation, and reviewing and clearing manuscripts.\" Air University agreed to take the files on three conditions: that SAFOI answer all queries, that SAFOI \"rigidly limit the right of access to recognized, legitimate researchers,\" and that SAFOI \"screen researcher's notes to insure that 'confidentiality' is maintained.\" The Air Force decided, in writing, where to put the archive on the basis of how hard it would be for the public to reach.\n\nThe public announcement two months later, Department of Defense release No. 1077-69 of 17 December 1969, carries none of that. It quotes Seamans that continuation \"cannot be justified either on the ground of national security or in the interest of science,\" cites the Condon report and the National Academy of Sciences review, and closes with the three conclusions that have been repeated ever since: no reported UFO ever indicated a threat to national security, no \"unidentified\" case represented technology beyond present-day scientific knowledge, and no \"unidentified\" case indicated extraterrestrial vehicles. Read against Bolender, the first conclusion is a statement about a filing system rather than about the sky, because the reports that could affect national security were routed elsewhere by regulation.\n\nCustody is the second reason Blue Book is on this map. The National Archives holds approximately 2 cubic feet of project and administrative files, 37 cubic feet of case files arranged chronologically, and 3 cubic feet of records relating to the Air Force Office of Special Investigations, arranged by OSI district and overseas command. NARA states that the textual records are available \"excluding names of people involved in the sightings.\" The public Blue Book is therefore a redacted copy of the Air Force's own Blue Book, and the confidentiality rationale from Bolender paragraph 9 is the reason. NARA also states flatly that it \"has been unable to locate any documentation among the Project BLUE BOOK records that discuss the 1947 incident in Roswell, New Mexico.\" The General Accounting Office found the same when it reviewed Blue Book Special Report No. 14 at Archives II during its 1994-95 Roswell audit: the analysis of sightings from 1946 to 1953 \"did not mention the crash or the recovery of an airborne object near Roswell in July 1947.\" The single most famous American recovery event does not appear in the official American UFO file. That is either evidence the event did not happen or evidence the file was not where such events were recorded, and Bolender tells you which architecture the Air Force actually built.\n\nWhat the record does not show is equally specific. The Bolender document carries sixteen attachments listed on a separate page. Several are known and were released separately; several have never surfaced. There is no public inventory of JANAP 146 CIRVIS traffic. There is no public accounting of the OSI material beyond the three cubic feet NARA holds. And the January 1985 Wright-Patterson fact sheet that NARA reproduces contains the categorical sentence \"There are not now nor ever have been, any extraterrestrial visitors or equipment on Wright-Patterson Air Force Base\" - a dated, attributable, institutional denial about a specific installation, which is exactly the kind of statement this board catalogues rather than weighs.",
+"openQuestions": [
+"No inventory, index or transfer of the JANAP 146 (CIRVIS) and AFM 55-11 UFO reporting corpus for 1952-1969 has ever been made public. Where does that traffic physically reside?",
+"Several of the sixteen attachments to the 20 October 1969 Bolender staff package have never been released. What is in Atch 8, cited for the claim that Blue Book served no intelligence function, and Atch 10, cited for the JANAP 146 routing?",
+"Does an unredacted Blue Book master copy containing witness names still exist in Air Force custody, and under what disposition authority?",
+"The exact date, transfer authority and accession record for the movement of the files from Wright-Patterson to the USAF Archives at Maxwell and then to NARA is not stated on NARA's own page.",
+"The text and successive amendments of AFR 200-2 (1953) and its provisions on public release of unidentified cases were not verified in primary form for this dossier and remain a research target.",
+"Whether AFOSI retained a parallel UFO case series beyond the three cubic feet at NARA, and whether any of it was destroyed."
+],
+"roles": [
+"concealment",
+"custody",
+"oversight",
+"disclosure"
+],
+"whatItIs": "Project Blue Book was the United States Air Force's public-facing unidentified flying object investigation, headquartered at Wright-Patterson Air Force Base and running from March 1952 until Secretary of the Air Force Robert C. Seamans, Jr. announced its termination on 17 December 1969. It succeeded Projects SIGN and GRUDGE and logged 12,618 sightings, of which 701 were closed as \"Unidentified.\" Its textual records were retired to the USAF Archives and subsequently to the National Archives, where they are open as 94 rolls of 35mm microfilm, publication T-1206, within Record Group 341.",
+"whyImplicated": "The Air Force's own termination paperwork states in plain language that Blue Book was not the channel through which serious UAP reporting flowed. The 20 October 1969 staff document signed by Brig. Gen. C. H. Bolender records that \"reports of unidentified flying objects which could affect national security are made in accordance with JANAP 146 or Air Force Manual 55-11, and are not part of the Blue Book system,\" and in the same paragraph that \"there is still, however, no evidence that Project Blue Book reports have served any intelligence function.\" That is a signed admission of a two-channel architecture: a public channel with a press office and a phone number, and a separate operational reporting channel whose corpus has never been inventoried, indexed or transferred to any archive. The same document shows the Air Force weighing where to store the Blue Book files specifically to manage researcher access, with the Secretary of the Air Force Office of Information agreeing to \"rigidly limit the right of access\" and to \"screen researcher's notes.\" Blue Book therefore sits on this board twice: as the mechanism that absorbed and normalised public interest for seventeen years, and as a custody object whose public copy was deliberately shaped before release."
+},
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "project-blue-book",
+"l0": true,
+"label": "Project Blue Book",
+"locLabel": null,
+"members": [
+{
+"cls": "document",
+"id": "afr-200-2",
+"label": "Air Force Regulation 200-2",
+"tier": "B"
+},
+{
+"cls": "document",
+"id": "bolender-memo",
+"label": "Bolender Memorandum",
+"tier": "B"
+},
+{
+"cls": "person",
+"id": "edward-ruppelt",
+"label": "Edward J. Ruppelt",
+"tier": "B"
+},
+{
+"cls": "institution",
+"id": "foreign-technology-division",
+"label": "Foreign Technology Division, Wright-Patterson AFB",
+"tier": "B"
+},
+{
+"cls": "document",
+"id": "gerb-battelle-investigation",
+"label": "UAP Gerb - Battelle Memorial Institute investigation",
+"tier": "C"
+},
+{
+"cls": "document",
+"id": "haines-cia-history",
+"label": "A Die-hard Issue: CIA's Role in the Study of UFOs, 1947-1990",
+"tier": "A"
+},
+{
+"cls": "person",
+"id": "j-allen-hynek",
+"label": "J. Allen Hynek",
+"tier": "B"
+},
+{
+"cls": "person",
+"id": "james-mcdonald",
+"label": "James E. McDonald",
+"tier": "B"
+},
+{
+"cls": "document",
+"id": "janap-146",
+"label": "JANAP 146 (CIRVIS/MERINT reporting)",
+"tier": "B"
+},
+{
+"cls": "person",
+"id": "kenneth-arnold",
+"label": "Kenneth Arnold",
+"tier": "C"
+},
+{
+"cls": "location",
+"id": "l-columbus-oh",
+"label": "Columbus, Ohio",
+"tier": "C"
+},
+{
+"cls": "location",
+"id": "l-wright-patterson",
+"label": "Wright-Patterson Air Force Base, Ohio",
+"tier": "A"
+},
+{
+"cls": "event",
+"id": "minot-1968",
+"label": "Minot AFB B-52 incident, 24 October 1968",
+"tier": "C"
+},
+{
+"cls": "program",
+"id": "project-grudge",
+"label": "Project GRUDGE",
+"tier": "C"
+},
+{
+"cls": "program",
+"id": "project-moon-dust",
+"label": "Project MOON DUST",
+"tier": "A"
+},
+{
+"cls": "program",
+"id": "project-stork",
+"label": "Project Stork (Project White Stork)",
+"tier": "A"
+},
+{
+"cls": "institution",
+"id": "rg-615-uap-records",
+"label": "NARA Record Group 615 — UAP Records Collection",
+"tier": "B"
+},
+{
+"cls": "person",
+"id": "richard-m-bissell-jr",
+"label": "Richard M. Bissell Jr.",
+"tier": "B"
+},
+{
+"cls": "event",
+"id": "washington-flap-1952",
+"label": "1952 Washington DC Sightings",
+"tier": "C"
+}
+],
+"short": "Project Blue Book",
+"sources": [
+{
+"date": "2026-07-06",
+"name": "Archived: USAF Fact Sheet: UFOs and Air Force Project Blue Book (Wayback 2026-07-06)",
+"url": "https://web.archive.org/web/20260706210652/https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/"
+},
+{
+"date": "2026-08-12",
+"name": "USAF Fact Sheet: UFOs and Air Force Project Blue Book",
+"url": "https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/"
+},
+{
+"date": "2026-08-12",
+"name": "NARA — Project Blue Book / Air Force UFO records",
+"url": "https://www.archives.gov/research/military/air-force/ufos"
+},
+{
+"date": "2026-08-12",
+"name": "NARA — Do Records Show Proof of UFOs?",
+"url": "https://www.archives.gov/news/articles/do-records-show-proof-of-ufos"
+}
+],
+"sub": "Public-facing USAF UFO program (1952-1969)",
+"tier": "A",
+"tierRationale": "Re-graded A on a global pass (rank 16 of 1027, score 114). 29 connections, 12 of them custody/witness/funding/programmatic, 5 official denials recorded against it. Axes C1/A2/D2.",
+"timeline": [
+{
+"date": "1969-12-17",
+"id": "tl-1969-12-17",
+"label": "Project Blue Book terminated",
+"precision": "day",
+"strand": "program",
+"text": "Secretary of the Air Force Robert C. Seamans Jr. closes the program citing the Condon Report. Final tally: 12,618 sightings, 701 never identified.",
+"tier": "A"
+}
+]
+}

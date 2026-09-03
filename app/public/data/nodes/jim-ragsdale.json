@@ -1,0 +1,151 @@
+{
+"A": 0,
+"C": 2,
+"D": 1,
+"affiliations": [],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "1947-07",
+"event": "Alleged sighting of a crashed craft north of Roswell",
+"precision": "month"
+},
+{
+"date": "1993",
+"event": "Signs affidavit; account adopted by Randle and Schmitt",
+"precision": "year"
+},
+{
+"date": "1995",
+"event": "Dies",
+"precision": "year"
+},
+{
+"date": "1997",
+"event": "His interview transcript is printed in Appendix C of the Air Force's 'Case Closed'",
+"precision": "year"
+}
+],
+"claims": [
+{
+"source": "Headquarters USAF, 'The Roswell Report: Case Closed' (1997), Appendix C https://archive.org/details/DTIC_ADA326147",
+"text": "The USAF's 'Case Closed' prints James Ragsdale's interview as Appendix C at page 215, and records that the transcript 'was provided by Kevin Randle, the coauthor of the Truth About the UFO Crash at Roswell (Avon Books, 1994), in which direct quotes from this transcript appear.'",
+"tier": 1
+},
+{
+"source": "The Roswell Report: Case Closed (1997), Appendix C",
+"text": "Ragsdale's interview transcript is reproduced at Appendix C, page 215, of the US Air Force's 1997 report 'The Roswell Report: Case Closed'.",
+"tier": 1
+},
+{
+"source": "The Roswell Report: Case Closed (1997), Section 1.4, note 13",
+"text": "Ragsdale is quoted in the Air Force report describing the objects at the alleged site as 'They were using dummies in those damned things.'",
+"tier": 2
+},
+{
+"source": "Comparison of Ragsdale statements with the two Randle-Schmitt scenarios",
+"text": "Ragsdale's shifting site description is a marker of researcher feedback rather than of memory decay, because the shifts moved toward whichever site the investigating authors were then advancing. Reasoning: chronology of his statements against the 1991 and 1994 Randle-Schmitt scenarios.",
+"tier": 3
+}
+],
+"cls": "person",
+"cluster": "other",
+"conflicts": [
+"Ragsdale gave materially different crash-site locations in different statements."
+],
+"connections": [
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "1997",
+"dateStart": "1997",
+"direction": "out",
+"edgeLabel": "Ragsdale's own words were used to support the dummy explanation",
+"id": "roswell-report-case-closed",
+"l0": true,
+"label": "The Roswell Report: Case Closed (1997)",
+"note": "The report quotes Ragsdale saying of the objects, 'They were using dummies in those damned things', and prints his interview transcript at Appendix C p. 215.",
+"sources": [
+{
+"date": "1997-01-01",
+"name": "The Roswell Report: Case Closed (1997)",
+"url": "https://archive.org/details/AFD-101027-030"
+}
+],
+"tier": "B",
+"type": "denial"
+}
+],
+"date": "1995",
+"dateEnd": null,
+"dateStart": "1995",
+"deg": 1,
+"denials": [
+{
+"by": {
+"id": "roswell-report-case-closed",
+"label": "The Roswell Report: Case Closed (1997)"
+},
+"claimTier": 1,
+"denialKind": "directed",
+"label": "Ragsdale's own words were used to support the dummy explanation",
+"note": "The report quotes Ragsdale saying of the objects, 'They were using dummies in those damned things', and prints his interview transcript at Appendix C p. 215.",
+"of": {
+"id": "jim-ragsdale",
+"label": "James Ragsdale"
+},
+"sources": [
+{
+"date": "1997-01-01",
+"name": "The Roswell Report: Case Closed (1997)",
+"url": "https://archive.org/details/AFD-101027-030"
+}
+]
+}
+],
+"domains": [
+"w16-thin-people",
+"w2-retrieval-literature"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "1",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "jim-ragsdale",
+"instId": null,
+"l0": false,
+"label": "James Ragsdale",
+"loc": "Carlsbad, NM",
+"locId": "l-roswell",
+"members": null,
+"narrative": "James Ragsdale came forward in the 1990s claiming that he and a companion had been camping north of Roswell in July 1947 and had seen a crashed craft and bodies, with a military recovery arriving afterwards. He gave a sworn statement and a videotaped deathbed account, and Randle and Schmitt used him to anchor the impact site in 'The Truth About the UFO Crash at Roswell' (1994). Two things about Ragsdale are load-bearing and both cut against the case. First, his account moved: the location he gave shifted materially between tellings, in a way that tracked which impact site the researchers then favoured. Second, and more usefully, the Air Force's 1997 report quotes him saying of the objects at the site, 'They were using dummies in those damned things' - the witness himself volunteering the anthropomorphic dummy reading that the Air Force went on to adopt as its explanation. The Air Force notes he lived and worked around Roswell, Artesia and Carlsbad in the period when Alderson Laboratories anthropomorphic dummies were being dropped by high-altitude balloon and recovered by uniformed teams, and concludes he probably described one or more of nine documented dummy recoveries near there.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "James Ragsdale",
+"sources": [
+{
+"date": "2026-08-25",
+"name": "Headquarters USAF, 'The Roswell Report: Case Closed' (1997), DTIC ADA326147",
+"url": "https://archive.org/details/DTIC_ADA326147"
+},
+{
+"date": "1997-01-01",
+"name": "The Roswell Report: Case Closed (1997), HQ USAF/GPO - full text",
+"url": "https://archive.org/details/AFD-101027-030"
+}
+],
+"status": "active",
+"sub": "Claimed civilian eyewitness to a crash site north of Roswell",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 638 of 1027, score 24). 1 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C2/A0/D1.",
+"timeline": [],
+"unexplainedResidual": null,
+"unverified": [
+"His exact date of death and the date of his sworn statement."
+]
+}

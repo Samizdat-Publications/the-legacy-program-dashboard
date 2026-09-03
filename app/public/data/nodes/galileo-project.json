@@ -1,0 +1,486 @@
+{
+"A": 0,
+"C": 1,
+"D": 3,
+"band": "research",
+"claims": [
+{
+"source": "JAI, DOI 10.1142/S2251171723400032",
+"text": "Loeb and Laukien published 'Overview of the Galileo Project' in the Journal of Astronomical Instrumentation on 13 February 2023.",
+"tier": 1
+},
+{
+"source": "JAI, DOI 10.1142/S2251171723400081",
+"text": "Cloete et al. published the project's 'Integrated Computing Platform for Detection and Tracking of Unidentified Aerial Phenomena (UAP)' in the Journal of Astronomical Instrumentation (2023).",
+"tier": 1
+},
+{
+"source": "GI, DOI 10.5194/gi-14-335-2025",
+"text": "Vervelidou, Delacroix, Domine, Kelderman, Little and colleagues published the deployment of a geomagnetic variometer station as auxiliary UAP instrumentation in Geoscientific Instrumentation, Methods and Data Systems 14:335 (26 November 2025).",
+"tier": 1
+},
+{
+"source": "Published project record",
+"text": "The project was founded on 26 July 2021, raised approximately $1.8 million in donations in its first year from donors including Frank Laukien and William A. Linton, and installed its first telescope at Harvard College Observatory in 2022.",
+"tier": 2
+}
+],
+"cls": "program",
+"cluster": "research",
+"connections": [
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "2021",
+"direction": "in",
+"edgeLabel": "Founder, 26 July 2021",
+"id": "avi-loeb",
+"l0": false,
+"label": "Abraham 'Avi' Loeb",
+"note": "Founded four weeks after the ODNI preliminary assessment on the premise that the way past a classified impasse is to build unclassified instruments and publish.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Wikipedia: The Galileo Project",
+"url": "https://en.wikipedia.org/wiki/The_Galileo_Project"
+},
+{
+"date": "2026-08-12",
+"name": "The Galileo Project, Harvard University",
+"url": "https://projects.iq.harvard.edu/galileo"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "Host institution of the Galileo Project",
+"id": "harvard-cfa",
+"l0": false,
+"label": "Harvard-Smithsonian Center for Astrophysics",
+"note": "The two share more than a host: the instrument paper lists the Center for Astrophysics and the Galileo Project as separate affiliations at the SAME address, 60 Garden Street, Cambridge, Massachusetts, with six of its sixteen authors carrying both and correspondence going to a cfa.harvard.edu address. The project's own overview paper captions its first all-sky observatory as sitting 'on the roof of the Harvard College Observatory (Cambridge, MA)'. The relationship is a hosted research programme with shared staff, not an administrative label.",
+"sources": [
+{
+"date": "2025-01-28",
+"name": "Domine et al., Sensors 2025, arXiv:2411.07956, author affiliations",
+"url": "https://arxiv.org/abs/2411.07956"
+},
+{
+"date": "2022-09-02",
+"name": "Loeb and Laukien, 'Overview of the Galileo Project', arXiv:2209.02479, Figure 1",
+"url": "https://arxiv.org/abs/2209.02479"
+},
+{
+"date": null,
+"name": "https://www.cfa.harvard.edu/research/galileo-project",
+"url": "https://www.cfa.harvard.edu/research/galileo-project"
+},
+{
+"date": null,
+"name": "https://galileo.hsites.harvard.edu/about",
+"url": "https://galileo.hsites.harvard.edu/about"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 2,
+"cls": "event",
+"dateEnd": "2023",
+"dateStart": "2022",
+"direction": "out",
+"edgeLabel": "Ran the $1.6m Pacific recovery expedition",
+"id": "im1-pacific-expedition-2023",
+"l0": false,
+"label": "Galileo Project Pacific Ocean expedition to the CNEOS 2014-01-08 (IM1) site, June-July 2023",
+"note": "A magnetic sled dragged across the seabed off Papua New Guinea at a location determined from seismometer data; several hundred sub-millimetre spherules recovered.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Wikipedia: CNEOS 2014-01-08",
+"url": "https://en.wikipedia.org/wiki/CNEOS_2014-01-08"
+},
+{
+"date": "2024-01-31",
+"name": "Loeb et al., 'Recovery and Classification of Spherules from the Pacific Ocean Site of the CNEOS 2014 January 8 (IM1) Bolide', Research Notes of the AAS",
+"url": "https://doi.org/10.3847/2515-5172/ad2370"
+}
+],
+"tier": "B",
+"type": "programmatic"
+},
+{
+"claimTier": 1,
+"cls": "location",
+"dateEnd": null,
+"dateStart": "2021",
+"direction": "out",
+"edgeLabel": "The Galileo Project is based at the Harvard-Smithsonian Center for Astrophysics",
+"id": "l-cambridge",
+"l0": false,
+"label": "Cambridge, Massachusetts",
+"note": "Avi Loeb founded the project in 2021 to build independent multi-modal observatories, addressing the structural problem that every high-quality UAP dataset is held by agencies that will not release it.",
+"sources": [
+{
+"date": "2021-06-25",
+"name": "ODNI Preliminary Assessment: Unidentified Aerial Phenomena",
+"url": "https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf"
+}
+],
+"tier": "C",
+"type": "research"
+},
+{
+"claimTier": 2,
+"cls": "location",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "first Galileo Observatory, Harvard College Observatory roof",
+"id": "l-cambridge-ma",
+"l0": false,
+"label": "Cambridge, Massachusetts (alias of l-cambridge)",
+"note": "Figure 1 of the project's own overview paper captions the 'First all-sky Galileo Observatory for UAP on the roof of the Harvard College Observatory (Cambridge, MA)'. This is the physical instrument site for the instrumented search, not merely an administrative address.",
+"sources": [
+{
+"date": "2022-09-02",
+"name": "Loeb and Laukien, 'Overview of the Galileo Project', arXiv:2209.02479, Figure 1 caption",
+"url": "https://arxiv.org/abs/2209.02479"
+},
+{
+"date": null,
+"name": "https://galileo.hsites.harvard.edu/",
+"url": "https://galileo.hsites.harvard.edu/"
+},
+{
+"date": null,
+"name": "https://en.wikipedia.org/wiki/The_Galileo_Project",
+"url": "https://en.wikipedia.org/wiki/The_Galileo_Project"
+}
+],
+"tier": "C",
+"type": "geographic"
+},
+{
+"claimTier": 2,
+"cls": "document",
+"dateEnd": null,
+"dateStart": "2021",
+"direction": "out",
+"edgeLabel": "Founded in direct response to the June 2021 ODNI assessment",
+"id": "odni-preliminary-assessment-2021",
+"l0": true,
+"label": "ODNI Preliminary Assessment: Unidentified Aerial Phenomena (25 June 2021)",
+"note": "The project's founding rationale was the ODNI report's admission of an evidentiary vacuum, together with NASA administrator Bill Nelson's call for scientific analysis.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Wikipedia: The Galileo Project",
+"url": "https://en.wikipedia.org/wiki/The_Galileo_Project"
+}
+],
+"tier": "A",
+"type": "temporal"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "2023",
+"direction": "in",
+"edgeLabel": "Lead author of the project's detection and tracking computing platform",
+"id": "richard-cloete",
+"l0": false,
+"label": "Richard Cloete",
+"note": "Published in the Journal of Astronomical Instrumentation in 2023 - pipeline and classifier architecture published before the observations.",
+"sources": [
+{
+"date": "2023-03-01",
+"name": "Cloete, Bridgham, Dobroshinsky, Ezell, Fedorenko et al., 'Integrated Computing Platform for Detection and Tracking of Unidentified Aerial Phenomena (UAP)', Journal of Astronomical Instrumentation",
+"url": "https://doi.org/10.1142/S2251171723400081"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "2025",
+"direction": "in",
+"edgeLabel": "Co-author on the 2025 geomagnetic variometer instrumentation paper",
+"id": "sarah-little",
+"l0": false,
+"label": "Sarah Little",
+"note": "Published in Geoscientific Instrumentation, Methods and Data Systems in November 2025 - a Copernicus geophysics journal publishing hardware installed specifically to look for UAP signatures.",
+"sources": [
+{
+"date": "2025-11-26",
+"name": "Vervelidou, Delacroix, Domine, Kelderman, Little et al., 'The deployment of a geomagnetic variometer station as auxiliary instrumentation for the study of Unidentified Aerial Phenomena', Geoscientific Instrumentation, Methods and Data Systems 14:335",
+"url": "https://doi.org/10.5194/gi-14-335-2025"
+}
+],
+"tier": "C",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "2023",
+"direction": "in",
+"edgeLabel": "Research coordinator and co-editor of the JAI instrumentation special issue",
+"id": "wesley-watters",
+"l0": false,
+"label": "Wesley A. Watters",
+"note": "The special issue is the artefact that established a peer-reviewed instrumentation literature in this field rather than a claims literature.",
+"sources": [
+{
+"date": "2023-02-13",
+"name": "Loeb & Laukien, 'Overview of the Galileo Project', Journal of Astronomical Instrumentation",
+"url": "https://doi.org/10.1142/S2251171723400032"
+}
+],
+"tier": "C",
+"type": "institutional"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "2021",
+"deg": 9,
+"denials": [],
+"desc": "Founded by Avi Loeb on 26 July 2021, four weeks after the ODNI preliminary assessment and following NASA administrator Bill Nelson's June 2021 call for scientific analysis, the Galileo Project is the largest unclassified instrumentation effort ever directed at this problem. Its founding logic is the board's own logic inverted: if the classified system will not release what it holds, build instruments that acquire an independent record nobody can classify. It raised roughly $1.8 million in its first year from donors including Frank Laukien of Bruker Corporation and William A. Linton of Promega, and involves over 100 researchers across Harvard, Caltech, Cambridge, Princeton, Stockholm University, Wellesley and the University of Tokyo. It operates in three branches: high-resolution multimodal observation of UAP, the search for interstellar objects resembling 'Oumuamua under Amir Siraj, and the search for possible extraterrestrial satellites. Its first observatory was installed at Harvard College Observatory in 2022. Unusually for this field, it published its instrumentation and software architecture before its observations - the Journal of Astronomical Instrumentation special issue of 2023, including Loeb and Laukien's project overview and Cloete et al.'s integrated computing platform for detection and tracking - and it continues to publish auxiliary instrumentation in mainstream venues, such as the 2025 Copernicus paper on deploying a geomagnetic variometer station. Its most contested undertaking was the June-July 2023 Pacific Ocean expedition to recover fragments of CNEOS 2014-01-08.",
+"domains": [
+"scientists-technical"
+],
+"dossier": {
+"claims": [
+{
+"source": "https://arxiv.org/abs/2209.02479",
+"text": "Loeb, A. (on behalf of the Galileo Project, Harvard University), \"Overview of the Galileo Project,\" arXiv:2209.02479, submitted 2 August 2022, published in Journal of Astronomical Instrumentation (Special Issue), 2023, describes the project as \"the first systematic scientific research program in search for potential astro-archaeological artifacts or remnants of extraterrestrial technological civilizations (ETCs) or potentially active equipment near Earth.\"",
+"tier": 1
+},
+{
+"source": "https://www.scientificamerican.com/article/avi-loebs-galileo-project-will-search-for-evidence-of-alien-visitation/",
+"text": "The Galileo Project was launched in July 2021, co-founded by Avi Loeb of Harvard and Frank Laukien, chairman, president and CEO of Bruker Corporation.",
+"tier": 2
+},
+{
+"source": "https://www.space.com/galileo-project-search-for-extraterrestrial-artifacts-announcement",
+"text": "The project received donations totalling $1.755 million in its first two weeks; named donors include Eugene Jhong, Vinny Jain, Teddy Jones, Eric Keto, the Laukien Science Foundation, Joerg Laukien, William A. Linton, Adnan Sen and The Brinson Foundation. It receives no government funding.",
+"tier": 2
+},
+{
+"source": "https://projects.iq.harvard.edu/galileo/home",
+"text": "The project operates three branches: the study of interstellar objects near Earth, the search for UAP using multimodal ground-based observatories, and the study of interstellar meteors.",
+"tier": 2
+},
+{
+"source": "https://projects.iq.harvard.edu/galileo/publications",
+"text": "Watters, W. et al., \"The Scientific Investigation of Unidentified Aerial Phenomena (UAP) Using Multimodal Ground-Based Observatories,\" Journal of Astronomical Instrumentation 12, 2340006 (2023), sets out the observatory sensor architecture combining optical, infrared, radio, magnetic and acoustic channels.",
+"tier": 2
+},
+{
+"source": "https://arxiv.org/abs/2411.07956v1",
+"text": "Commissioning results for the Galileo Project's all-sky infrared camera array were published as \"Commissioning An All-Sky Infrared Camera Array for Detection Of Airborne Objects,\" arXiv:2411.07956.",
+"tier": 2
+},
+{
+"source": "https://arxiv.org/abs/2506.00125",
+"text": "The observatory system design was published as \"Galileo Project Observatory Class System Architecture,\" arXiv:2506.00125.",
+"tier": 2
+},
+{
+"source": "https://arxiv.org/pdf/2311.07699",
+"text": "In 2023 the Galileo Project conducted an ocean expedition near Papua New Guinea targeting the site of the CNEOS 2014-01-08 (IM1) bolide, recovering approximately 700 sub-millimetre spherules across 26 magnetic-sled runs criss-crossing a roughly 10-kilometre region around the fireball location.",
+"tier": 2
+},
+{
+"source": "https://www.sciencedirect.com/science/article/pii/S0009254124004959",
+"text": "Loeb and colleagues reported a subset of the recovered spherules with a distinctive beryllium-, lanthanum- and uranium-rich ('BeLaU') composition claimed to be of extrasolar origin; the chemical classification work was published as \"Chemical classification of spherules recovered from the Pacific Ocean site of the CNEOS 2014-01-08 (IM1) bolide,\" Chemical Geology (2024), preprint arXiv:2401.09882.",
+"tier": 2
+},
+{
+"source": "https://arxiv.org/pdf/2311.07699",
+"text": "Steve Desch and Alan Jackson published a formal critique, arXiv:2311.07699, \"Critique of arXiv submission 2308.15623, 'Discovery of Spherules of Likely Extrasolar Composition in the Pacific Ocean Site of the CNEOS 2014-01-08 (IM1) Bolide', by A. Loeb et al.\", arguing the spherules plot on or near a terrestrial fractionation line and that a body at the assumed IM1 velocity could not have survived entry in the recovered form.",
+"tier": 1
+},
+{
+"source": "https://arxiv.org/pdf/2403.05161",
+"text": "A competing terrestrial explanation for the BeLaU signature was published as \"Be,La,U-rich spherules as microtektites of terrestrial laterites: What goes up must come down,\" arXiv:2403.05161.",
+"tier": 2
+},
+{
+"source": "https://academic.oup.com/gji/article/238/2/1027/7692046",
+"text": "Fernando et al., \"Seismic and acoustic signals from the 2014 'interstellar meteor',\" Geophysical Journal International 238(2):1027 (2024), concluded that the seismic signal used to localise the IM1 impact site changed direction over time in a way matching a road running past the seismometer, i.e. a truck rather than a bolide.",
+"tier": 2
+},
+{
+"source": "https://arxiv.org/abs/2403.07696",
+"text": "The Galileo Project responded with \"Peak-Brightness Localization of the CNEOS 2014-01-08 (IM1) Fireball,\" arXiv:2403.07696, arguing the search region was set by the NASA/JPL CNEOS localisation box measuring 11.112 km on a side centred at 1.3 degrees south, 147.6 degrees east, and not by the seismic data.",
+"tier": 2
+},
+{
+"source": "https://lweb.cfa.harvard.edu/~loeb/LK1.pdf",
+"text": "Avi Loeb and Sean Kirkpatrick, then serving Director of the Department of Defense All-domain Anomaly Resolution Office, co-authored a draft paper dated 7 March 2023 titled \"Physical Constraints on Unidentified Aerial Phenomena,\" deriving constraints on interpretations of highly manoeuvrable UAP from standard physics and known forms of matter and radiation.",
+"tier": 2
+}
+],
+"connections": [
+"Avi Loeb (Harvard, Frank B. Baird Jr. Professor of Science) and Frank Laukien (Bruker Corporation) are the co-founders; Bruker manufactures the mass-spectrometry and imaging instrument class that the Nolan-Vallee 2022 protocol depends on",
+"Sean Kirkpatrick, first Director of AARO, co-authored the March 2023 'Physical Constraints on Unidentified Aerial Phenomena' draft with Loeb - the only documented joint technical product between the Pentagon UAP office and an independent academic programme",
+"Wesley Watters (Wellesley College) leads the observatory instrumentation work; Richard Cloete holds the Laukien-'Oumuamua Postdoctoral Fellowship",
+"Steve Desch and Alan Jackson (Arizona State University) and Benjamin Fernando are the principal published critics of the IM1 spherule and localisation work",
+"NASA/JPL's CNEOS database is the source of the IM1 detection and of the localisation box that defined the search region",
+"The private funding graph - Eugene Jhong, Vinny Jain, Teddy Jones, Eric Keto, Laukien Science Foundation, Joerg Laukien, William A. Linton, Adnan Sen, The Brinson Foundation - identifies capital willing to fund the question outside the appropriations system, and is a distinct network from the Bigelow/AAWSAP funding lineage",
+"Galileo's arXiv-first publishing model is the structural inverse of AARO's DOPSR-cleared reporting, and the two produce non-overlapping evidence classes on the same phenomena",
+"The IM1 material-provenance failure is the direct methodological analogue of the Council Bluffs custody gap in the Nolan-Vallee paper"
+],
+"denialPosture": "Galileo issues no denials; it is the party against which official denial is directed. Its own posture is one of null results honestly reported - no Galileo observation has been shown to be non-human technology, and the project has repeatedly declined to assert probabilities. That posture is itself evidentially useful, because it establishes that the project's later claims, if any, would not be the product of a group predisposed to affirm.",
+"narrative": "Loeb's framing paper, \"Overview of the Galileo Project,\" was posted to arXiv on 2 August 2022 as arXiv:2209.02479 and published in a special issue of the Journal of Astronomical Instrumentation in 2023. Its abstract describes the project as \"the first systematic scientific research program in search for potential astro-archaeological artifacts or remnants of extraterrestrial technological civilizations (ETCs) or potentially active equipment near Earth,\" and characterises the approach as taking a path not taken and conceivably picking low-hanging fruit. That is a statement about method, and the method is the point: Galileo's premise is that the subject has been starved of instrumented, calibrated, continuous data, not of anecdotes.\n\nThe UAP branch built to that premise. Wesley Watters and colleagues published \"The Scientific Investigation of Unidentified Aerial Phenomena (UAP) Using Multimodal Ground-Based Observatories\" in the Journal of Astronomical Instrumentation, volume 12, article 2340006 (2023), laying out the sensor architecture: synchronised optical, infrared, radio, magnetometric and acoustic channels producing a continuous census of everything above an observation site, so that anomaly is defined by exclusion from a measured baseline rather than by the surprise of an observer. The first instrument came online at Harvard. Commissioning results for the all-sky infrared camera array were posted as arXiv:2411.07956, and a system architecture paper followed as arXiv:2506.00125. Loeb has publicly discussed commissioning data covering roughly half a million objects. No Galileo detection has been shown to be non-human technology, and the project has not claimed otherwise.\n\nThe interstellar meteor branch is where the project collided with the discipline. CNEOS 2014-01-08, designated IM1, is a bolide detected over the western Pacific whose inferred velocity implied a hyperbolic, interstellar trajectory. In summer 2023 Galileo mounted an ocean expedition off Papua New Guinea, dragging a magnetic sled across a roughly ten-kilometre region around the fireball localisation across twenty-six runs and recovering approximately 700 sub-millimetre spherules. Loeb and colleagues reported that a subset had a distinctive composition rich in beryllium, lanthanum and uranium - the 'BeLaU' type - which they argued was inconsistent with solar-system materials. The chemical classification work was eventually published in Chemical Geology (2024), with the preprint at arXiv:2401.09882.\n\nThe response was immediate and formal, and it is worth cataloguing precisely because it is the model of how a materials claim gets adjudicated in the open. Steve Desch and Alan Jackson published a direct critique, arXiv:2311.07699, arguing among other things that the spherules plot on or extremely near a terrestrial fractionation line and that a body entering at the assumed IM1 velocity would have been essentially vaporised, so that recovered iron spherules cannot be attributed to that event. A separate paper, arXiv:2403.05161, proposed the BeLaU signature as microtektites of terrestrial laterites. Most damaging to the localisation, Fernando and colleagues published \"Seismic and acoustic signals from the 2014 'interstellar meteor'\" in Geophysical Journal International, volume 238, issue 2 (2024), concluding that the seismic signal used to pin the impact site changed direction over time in a way that matched a road running past the seismometer - a truck, not a bolide. Galileo replied with \"Peak-Brightness Localization of the CNEOS 2014-01-08 (IM1) Fireball,\" arXiv:2403.07696, arguing that the search region was set by the NASA/JPL CNEOS localisation box - 11.112 km on a side, centred at 1.3 degrees south, 147.6 degrees east - and not by the seismic data at all.\n\nWhichever way that dispute resolves, its structure is the finding. A privately funded team recovered candidate material, published composition data, and could not establish provenance linking material to event; independent groups published falsifying analyses within months; the original team responded in the same channel. This is exactly the adjudication process that has never been available for any material alleged to be in government custody, and the contrast is the argument. The Nolan-Vallee 2022 paper faces the same problem from the other direction - a sample with a documented same-night recovery but a forty-four-year custody gap.\n\nThe most direct institutional connection on the board is the Loeb-Kirkpatrick paper. Dated 7 March 2023 and titled \"Physical Constraints on Unidentified Aerial Phenomena,\" it derives physical constraints on interpretations of highly manoeuvrable UAP from standard physics and known forms of matter and radiation, and it is co-authored by the serving Director of AARO. The draft circulated publicly, drew criticism from multiple directions, and was never formally issued as an AARO product. It nonetheless establishes that the Pentagon's UAP office and Galileo were in direct technical collaboration during Kirkpatrick's tenure, which bears on how one reads AARO's later categorical statements and on what data, if any, moved in either direction.\n\nFor an analyst, Galileo's value is threefold. It produces a public, timestamped, instrumented baseline that any future disclosure has to be consistent with. Its funding graph - Eugene Jhong, Vinny Jain, Teddy Jones, Eric Keto, the Laukien Science Foundation, Joerg Laukien, William A. Linton, Adnan Sen, the Brinson Foundation - identifies the private capital willing to underwrite the question outside the appropriations system. And through Laukien and Bruker it sits one step from the mass-spectrometry instrument industry whose products define what any materials claim, government or otherwise, can actually be tested with.",
+"openQuestions": [
+"Whether Galileo observatory data has ever been requested by, shared with, or offered to AARO under 50 U.S.C. 3373, and whether any such exchange is documented",
+"What became of the Loeb-Kirkpatrick draft paper - whether it was ever submitted, reviewed, or suppressed, and whether AARO reviewed it as an official product",
+"Whether the BeLaU spherules can be independently re-analysed by a laboratory with no stake in the outcome, and whether sample material has been distributed",
+"Whether any Galileo observatory site has been sited near locations with historical UAP incident density, and how site selection was made",
+"Whether the project has retained legal or classification advice regarding what would happen to its data if a detection were judged to implicate a classified US programme",
+"The extent of overlap between Galileo's donor network and the private funders of other UAP research vehicles"
+],
+"roles": [
+"research",
+"disclosure"
+],
+"whatItIs": "The Galileo Project for the Systematic Scientific Search for Evidence of Extraterrestrial Technological Artifacts is a Harvard-hosted, cross-institutional research programme launched in July 2021 and co-founded by Avi Loeb, the Frank B. Baird Jr. Professor of Science at Harvard, and Frank Laukien, chairman, president and CEO of the scientific instrument manufacturer Bruker Corporation. It operates three branches: the study of interstellar objects near Earth, the search for unidentified aerial phenomena using multimodal ground-based observatories, and the study of interstellar meteors. It is funded entirely by private donation.",
+"whyImplicated": "Galileo is the control experiment for this entire board. Every version of the legacy-program hypothesis and every official denial of it reduce to claims about physical evidence held under classification. The only structural way to break that is an independent, uncleared, publishing instrument capable of producing calibrated data on the same phenomena - data that is not subject to prepublication classification review because it was never collected on government money or on government sensors. Galileo is the first serious institutional attempt to build one, and its funding structure is the mechanism: $1.755 million raised in the first two weeks from named private donors, which means its outputs go to arXiv rather than to a DOPSR queue. Its director also co-authored a March 2023 draft paper with Sean Kirkpatrick, the sitting Director of the All-domain Anomaly Resolution Office - the only documented instance of a joint technical product between the Pentagon's UAP office and an independent academic programme. And its IM1 interstellar meteor work is the most instructive public failure mode on the board: a physical-recovery campaign that produced material, published it, and could not establish a chain from the material to the event, generating a citation war that maps precisely onto the epistemics of the whole subject."
+},
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "galileo-project",
+"l0": true,
+"label": "The Galileo Project",
+"locLabel": null,
+"members": [
+{
+"cls": "person",
+"id": "avi-loeb",
+"label": "Abraham 'Avi' Loeb",
+"tier": "B"
+},
+{
+"cls": "institution",
+"id": "harvard-cfa",
+"label": "Harvard-Smithsonian Center for Astrophysics",
+"tier": "C"
+},
+{
+"cls": "event",
+"id": "im1-pacific-expedition-2023",
+"label": "Galileo Project Pacific Ocean expedition to the CNEOS 2014-01-08 (IM1) site, June-July 2023",
+"tier": "B"
+},
+{
+"cls": "location",
+"id": "l-cambridge",
+"label": "Cambridge, Massachusetts",
+"tier": "C"
+},
+{
+"cls": "location",
+"id": "l-cambridge-ma",
+"label": "Cambridge, Massachusetts (alias of l-cambridge)",
+"tier": "C"
+},
+{
+"cls": "person",
+"id": "richard-cloete",
+"label": "Richard Cloete",
+"tier": "C"
+},
+{
+"cls": "person",
+"id": "sarah-little",
+"label": "Sarah Little",
+"tier": "C"
+},
+{
+"cls": "person",
+"id": "wesley-watters",
+"label": "Wesley A. Watters",
+"tier": "C"
+}
+],
+"short": "The Galileo Project",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Wikipedia: The Galileo Project",
+"url": "https://en.wikipedia.org/wiki/The_Galileo_Project"
+},
+{
+"date": "2026-08-12",
+"name": "The Galileo Project, Harvard University",
+"url": "https://projects.iq.harvard.edu/galileo"
+},
+{
+"date": "2023-02-13",
+"name": "Loeb & Laukien, 'Overview of the Galileo Project', Journal of Astronomical Instrumentation",
+"url": "https://doi.org/10.1142/S2251171723400032"
+},
+{
+"date": "2023-03-01",
+"name": "Cloete, Bridgham, Dobroshinsky, Ezell, Fedorenko et al., 'Integrated Computing Platform for Detection and Tracking of Unidentified Aerial Phenomena (UAP)', Journal of Astronomical Instrumentation",
+"url": "https://doi.org/10.1142/S2251171723400081"
+},
+{
+"date": "2025-11-26",
+"name": "Vervelidou, Delacroix, Domine, Kelderman, Little et al., 'The deployment of a geomagnetic variometer station as auxiliary instrumentation for the study of Unidentified Aerial Phenomena', Geoscientific Instrumentation, Methods and Data Systems 14:335",
+"url": "https://doi.org/10.5194/gi-14-335-2025"
+}
+],
+"sub": "Harvard-based unclassified UAP and interstellar-object instrumentation programme, founded July 2021",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 394 of 1027, score 33). 9 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A0/D3.",
+"timeline": [
+{
+"date": "2021-07-26",
+"id": "st-2021-07-26",
+"label": "Galileo Project founded",
+"precision": "day",
+"strand": "program",
+"text": "Avi Loeb founds the Galileo Project four weeks after the ODNI preliminary assessment, on the premise that unclassified instrumentation is the way past a classified impasse.",
+"tier": "A"
+},
+{
+"date": "2023-02-13",
+"id": "st-2023-02-13",
+"label": "Galileo Project overview published",
+"precision": "day",
+"strand": "program",
+"text": "Loeb and Laukien publish the project's architecture in the Journal of Astronomical Instrumentation, alongside Cloete et al.'s detection and tracking platform - methods published before observations.",
+"tier": "A"
+},
+{
+"date": "2025-11-26",
+"id": "st-2025-11-26",
+"label": "Galileo variometer paper",
+"precision": "day",
+"strand": "program",
+"text": "Vervelidou, Little and colleagues publish the deployment of a geomagnetic variometer station as auxiliary UAP instrumentation in a Copernicus geophysics journal.",
+"tier": "B"
+}
+]
+}

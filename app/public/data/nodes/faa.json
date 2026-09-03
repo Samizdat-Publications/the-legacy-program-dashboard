@@ -1,0 +1,133 @@
+{
+"A": 1,
+"C": 1,
+"D": 2,
+"band": null,
+"claims": [
+{
+"source": "National Archives, 'Record Group 615: Unidentified Anomalous Phenomena Records Collection', https://www.archives.gov/research/topics/uaps/rg-615",
+"text": "NARA's Record Group 615 page, last reviewed 28 August 2026, lists the Federal Aviation Administration first among eight contributing agencies, at National Archives Identifier 493468575.",
+"tier": 1
+},
+{
+"source": "National Archives Catalog metadata export for NAID 493468575, https://catalog.archives.gov/medialz/bulk-downloads/uaps/JSON/catalog-export-493468575.json",
+"text": "The FAA series is titled 'Records from the Federal Aviation Administration Relating to Unidentified Anomalous Phenomena', carries accession numbers TR-0615-2025-0006 and TR-0615-2025-0008, has an extent of '575 portable document files (pdf)', an inclusive start date of 1 October 2023 and a coverage end date of 26 October 2024, and is held by the National Archives at College Park, Electronic Records.",
+"tier": 1
+},
+{
+"source": "National Archives Catalog metadata export for NAID 493468575, https://catalog.archives.gov/medialz/bulk-downloads/uaps/JSON/catalog-export-493468575.json",
+"text": "The series carries access restriction status 'Restricted - Partly' with the specific restriction 'UAP Records Collection Postponement Code 1843(a)(3)', and a use restriction of 'Unrestricted'.",
+"tier": 1
+},
+{
+"source": "National Archives Catalog metadata export for NAID 493468575, https://catalog.archives.gov/medialz/bulk-downloads/uaps/JSON/catalog-export-493468575.json",
+"text": "The catalog's creator authority for the series is 'Department of Transportation. Federal Aviation Administration. (04/01/1967 - )', National Archives Identifier 10480916, with an establish date of 1 April 1967.",
+"tier": 1
+},
+{
+"source": "National Archives Catalog metadata export for NAID 493468575, https://catalog.archives.gov/medialz/bulk-downloads/uaps/JSON/catalog-export-493468575.json",
+"text": "The series' finding aid note records that 'The agency provided a metadata list of all files in this series', with the source given as the Federal Aviation Administration.",
+"tier": 1
+},
+{
+"source": "DEBRIEFED with Chris Ramsay, 'Hidden Alien Photos - Amaury Rivera pt 3', 22 May 2026, 0:09:40, transcript in dist/transcripts/md/",
+"text": "On DEBRIEFED with Chris Ramsay, 22 May 2026, at 0:09:40, host Chris Ramsay, attributing the account to the Puerto Rican researcher Jorge Martin, said that the FAA confirmed the deployment of multiple F-14s 'for testing' near Cabo Rojo at the time of a December 1988 mass sighting, and that the Americans later denied it. No record opened here bears on that claim.",
+"tier": 2
+}
+],
+"cls": "institution",
+"cluster": "oversight",
+"connections": [
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2025-01-01",
+"direction": "out",
+"edgeLabel": "First-listed contributing agency; series NAID 493468575, 575 PDF files, restricted in part",
+"id": "nara-rg615",
+"l0": true,
+"label": "National Archives Record Group 615 - UAP Records Collection",
+"note": "The FAA's transferred UAP records sit in Record Group 615 as series NAID 493468575, one of eight agency series NARA lists in the collection.",
+"sources": [
+{
+"date": "2026-08-28",
+"name": "National Archives, Record Group 615 page, and the catalog metadata export for NAID 493468575",
+"url": "https://www.archives.gov/research/topics/uaps/rg-615"
+},
+{
+"date": "2026-09-02",
+"name": "National Archives Catalog metadata export, NAID 493468575",
+"url": "https://catalog.archives.gov/medialz/bulk-downloads/uaps/JSON/catalog-export-493468575.json"
+}
+],
+"tier": "A",
+"type": "custody"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2025-01-01",
+"direction": "out",
+"edgeLabel": "NARA holds and describes the FAA series at College Park, Electronic Records",
+"id": "national-archives",
+"l0": false,
+"label": "National Archives and Records Administration",
+"note": "NARA holds and describes the FAA series at the National Archives at College Park, Electronic Records, and publishes its metadata export.",
+"sources": [
+{
+"date": "2026-09-02",
+"name": "National Archives Catalog metadata export, NAID 493468575",
+"url": "https://catalog.archives.gov/medialz/bulk-downloads/uaps/JSON/catalog-export-493468575.json"
+}
+],
+"tier": "B",
+"type": "institutional"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "1967-04-01",
+"deg": 2,
+"denials": [],
+"desc": "The civil aviation regulator inside the Department of Transportation, and one of the eight agencies that have transferred records into the National Archives' Unidentified Anomalous Phenomena Records Collection under sections 1841 to 1843 of the FY2024 National Defense Authorization Act. Its series, National Archives Identifier 493468575, holds 575 PDF files under two accessions and is listed first on NARA's own RG 615 page. The series is withheld in part under UAP Records Collection Postponement Code 1843(a)(3). This node is a promotion from board prose, where the agency is already named as an RG 615 contributor, rather than a discovery from the podcast corpus.",
+"domains": [
+"area52-2026-09-02"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "faa",
+"l0": false,
+"label": "Federal Aviation Administration",
+"locLabel": null,
+"members": null,
+"short": "Federal Aviation Administration",
+"sources": [
+{
+"date": "2026-08-28",
+"name": "National Archives, Record Group 615: Unidentified Anomalous Phenomena Records Collection",
+"url": "https://www.archives.gov/research/topics/uaps/rg-615"
+},
+{
+"date": "2026-09-02",
+"name": "National Archives Catalog metadata export for the FAA series, NAID 493468575",
+"url": "https://catalog.archives.gov/medialz/bulk-downloads/uaps/JSON/catalog-export-493468575.json"
+},
+{
+"date": "2026-09-02",
+"name": "National Archives, Bulk Downloads for Records Related to Unidentified Anomalous Phenomena (UAPs)",
+"url": "https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download"
+}
+],
+"sub": "Civil aviation regulator in the Department of Transportation; first-listed contributing agency to NARA Record Group 615",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 387 of 1027, score 33). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A1/D2.",
+"timeline": []
+}

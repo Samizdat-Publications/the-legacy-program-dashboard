@@ -1,0 +1,138 @@
+{
+"A": 1,
+"C": 0,
+"D": 2,
+"affiliations": [],
+"age": null,
+"band": null,
+"chronology": [],
+"claims": [
+{
+"source": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"text": "The DIA letter of 9 January 2018 lists item 19 as \"Warp Drive, Dark Energy and the Manipulation of Extra Dimensions, Dr R Obousy, Obousy Consultants.\" The government's own list names Obousy, not Davis, as the author.",
+"tier": 2
+},
+{
+"source": "http://earthtech.org/pubs/davis/",
+"text": "EarthTech International's published citation list for Eric Davis gives the same paper as \"Obousy, R. K. and Davis, E. W. (2010), 'Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions,' Defense Intelligence Reference Document, Acquisition Threat Support, DIA-08-1004-001, Acquisition Support Division (DWO-3), Defense Warning Office, Directorate for Analysis, Defense Intelligence Agency, Washington, DC.\" It is a co-authored paper with Obousy first named.",
+"tier": 1
+},
+{
+"source": "https://ufos-scientificresearch.blogspot.com/2018/06/those-defense-intelligence-reference.html",
+"text": "Obousy appears on the Icarus Interstellar team alongside Eric Davis and Friedwardt Winterberg, both of whom are also DIA-listed DIRD authors.",
+"tier": 2
+},
+{
+"source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_13-DIRD_Warp_Drive_Dark_energy_and_the_Manipulation_of_Extra_Dimensions.pdf",
+"text": "The released cover page reads \"2 April 2010 / ICOD: 1 December 2009 / DIA-08-1004-001,\" Acquisition Threat Support series, with the author line redacted under (b)(6).",
+"tier": 1
+}
+],
+"cls": "person",
+"cluster": "research",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "author of record on the DIA list; lead author",
+"id": "dird-warp-drive-dark-energy-and-the",
+"l0": false,
+"label": "Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions",
+"note": "CORRECTION EDGE. The DIA letter of 9 January 2018, item 19, names \"Dr R Obousy, Obousy Consultants\" as the author of the warp-drive DIRD. Press coverage almost universally attributes this paper to Eric Davis. EarthTech's own citation gives it as Obousy, R. K. and Davis, E. W. (2010), with Obousy first named, so the two records reconcile as a co-authored paper on which DIA recorded the lead author.",
+"sources": [
+{
+"date": "2026-08-22",
+"name": "Released DIRD, 'Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions' — FOIA copy, cover page read 22 August 2026",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_13-DIRD_Warp_Drive_Dark_energy_and_the_Manipulation_of_Extra_Dimensions.pdf"
+},
+{
+"date": "2026-08-22",
+"name": "DIA FOIA Electronic Reading Room entry for this reference document",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237627/"
+},
+{
+"date": "2026-08-23",
+"name": "DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations",
+"url": "https://fas.org/publication/aatip-list/"
+},
+{
+"date": null,
+"name": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html",
+"url": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html"
+},
+{
+"date": null,
+"name": "http://earthtech.org/pubs/davis/",
+"url": "http://earthtech.org/pubs/davis/"
+},
+{
+"date": null,
+"name": "https://uapedia.ai/wiki/origins-of-aatip-aawsap-programs-dirds/",
+"url": "https://uapedia.ai/wiki/origins-of-aatip-aawsap-programs-dirds/"
+}
+],
+"tier": "B",
+"type": "research"
+}
+],
+"date": "2010-01-01",
+"dateEnd": null,
+"dateStart": "2010-01-01",
+"deg": 1,
+"denials": [],
+"domains": [
+"w7-dirds-4"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "2",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "richard-obousy",
+"instId": null,
+"l0": false,
+"label": "Richard K. Obousy",
+"loc": null,
+"locId": null,
+"members": null,
+"narrative": "Richard Obousy is the correction this batch exists to make. \"Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions\" is the most cited and most reproduced of the thirty-eight DIRDs and is almost universally attributed in press coverage to Eric Davis. The DIA letter of 9 January 2018 does not say that. It lists item 19 as \"Warp Drive, Dark Energy and the Manipulation of Extra Dimensions, Dr R Obousy, Obousy Consultants.\" Obousy is the author of record on the government's own list. EarthTech International's published citation list gives the paper as Obousy, R. K. and Davis, E. W. (2010), with Obousy first named, which resolves the two records rather than contradicting them: it is a co-authored paper on which DIA recorded the lead author and the popular account recorded the famous one.\n\nThe distinction is not cosmetic. The warp-drive DIRD is routinely used to argue that a small circle of consultants wrote the programme's most exotic output for itself. On the DIA record the lead author is an outside theorist trading as a one-man consultancy, and the paper's substance, a Casimir-energy and extra-dimensional treatment of the Alcubierre metric, tracks Obousy's own published work on dark energy and compactified extra dimensions rather than Davis's.\n\nObousy went on to found and lead Icarus Interstellar, the volunteer successor organisation to Project Daedalus that pursued interstellar flight study, where he appears on the team alongside Eric Davis and Friedwardt Winterberg, the DIA-listed author of the negative-mass and advanced-nuclear-propulsion DIRDs. That overlap is itself a finding: the exotic-propulsion half of the DIRD author set was drawn from an existing interstellar-studies community that predates AAWSAP and outlived it.\n\nThe document is DIA-08-1004-001, dated 2 April 2010 with an Intelligence Cut-Off Date of 1 December 2009, in the Acquisition Threat Support series. It was one of the first two DIRDs to reach the public internet, appearing in December 2017 and later confirmed genuine by Davis in correspondence with the researcher Isaac Koi.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Richard K. Obousy",
+"sources": [
+{
+"date": "2019-01-17",
+"name": "Keith Basterfield, \"Back to those 38 Defense Intelligence Reference Documents (DIRDs)\" — verbatim transcription of the DIA letter of 9 January 2018",
+"url": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html"
+},
+{
+"date": null,
+"name": "EarthTech International, publications list for Eric W. Davis (DIRD citations)",
+"url": "http://earthtech.org/pubs/davis/"
+},
+{
+"date": "2018-06-02",
+"name": "Keith Basterfield, \"Those Defense Intelligence Reference Documents\"",
+"url": "https://ufos-scientificresearch.blogspot.com/2018/06/those-defense-intelligence-reference.html"
+},
+{
+"date": "2010-04-02",
+"name": "Defense Intelligence Reference Document, \"Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions\" (The Black Vault FOIA release)",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_13-DIRD_Warp_Drive_Dark_energy_and_the_Manipulation_of_Extra_Dimensions.pdf"
+}
+],
+"status": "active",
+"sub": "Theoretical physicist; principal, Obousy Consultants; president and founder, Icarus Interstellar",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 801 of 1027, score 18). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D2.",
+"timeline": [],
+"unexplainedResidual": null,
+"unverified": []
+}

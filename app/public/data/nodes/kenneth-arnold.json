@@ -1,0 +1,179 @@
+{
+"A": 0,
+"C": 0,
+"D": 2,
+"affiliations": [
+"Great Western Fire Control Supply (owner)",
+"Deputy Federal US Marshal (auxiliary)"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "1947-06-24",
+"event": "Reports nine objects near Mount Rainier, Washington, while flying a search for a downed C-46",
+"precision": "day"
+},
+{
+"date": "1947-06-25",
+"event": "Wire service coverage coins the term 'flying saucer'",
+"precision": "day"
+},
+{
+"date": "1947-07-12",
+"event": "Interviewed by Army Air Forces intelligence officers; case entered official files",
+"precision": "day"
+}
+],
+"claims": [
+{
+"source": "NICAP document archive, 470624cascades_docs.pdf; Project Blue Book records, NARA RG 341, microfilm T-1206",
+"text": "Arnold's 24 June 1947 Cascades sighting generated an Army Air Forces investigative file that survives in the declassified record.",
+"tier": 1
+},
+{
+"source": "USAF Fact Sheet, 'Unidentified Flying Objects and Air Force Project Blue Book'",
+"text": "Project Blue Book and its predecessors logged 12,618 sightings between 1947 and 1969, of which 701 were never identified.",
+"tier": 1
+},
+{
+"source": "Contemporaneous wire coverage, 25 June 1947, as reconstructed in the Condon Report Sec. V Ch. 2",
+"text": "The term 'flying saucer' derives from press paraphrase of Arnold's description of the objects' motion, not their shape.",
+"tier": 2
+},
+{
+"source": "https://catalog.archives.gov/medialz/electronic-records/rg-615/656595571/01030306_Correspondence_Regarding_Unidentified_Flying_Objects.pdf",
+"text": "The Fourth Air Force 1947 index carries multiple serials of correspondence to and from Kenneth Arnold, including serial 4, an investigation of 'K.M. Arnold, Flying Disc first rept in this area' sent by Headquarters Fourth Air Force to AAF and ADC on 18 July 1947, and serial 9, a 22 July 1947 request from R.A. Palmer of Ventura Press, Evanston, Illinois, for an article about flying saucers from Arnold.",
+"tier": 1
+}
+],
+"cls": "person",
+"cluster": "other",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": "1969",
+"dateStart": "1947",
+"direction": "out",
+"edgeLabel": "Arnold's case entered the official file series from the outset",
+"id": "project-blue-book",
+"l0": true,
+"label": "Project Blue Book",
+"note": "Army Air Forces intelligence investigated the sighting and the case documentation survives in the Blue Book record series now held at the National Archives.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "NARA — Project Blue Book records",
+"url": "https://www.archives.gov/research/military/air-force/ufos"
+},
+{
+"date": "2026-08-12",
+"name": "NICAP document archive index",
+"url": "https://www.nicap.org/docs/"
+}
+],
+"tier": "A",
+"type": "witness-chain"
+},
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": "1947",
+"dateStart": "1947",
+"direction": "out",
+"edgeLabel": "Arnold's 24 June 1947 sighting opened the wave that Roswell fell inside",
+"id": "roswell-1947",
+"l0": true,
+"label": "Roswell Incident",
+"note": "The Cascades sighting on 24 June 1947 triggered the national wave; the Roswell recovery followed within two weeks and the Twining memo eleven weeks later.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "NICAP document archive index",
+"url": "https://www.nicap.org/docs/"
+},
+{
+"date": "1968-11-01",
+"name": "Condon Report Sec. V Ch. 2",
+"url": "https://files.ncas.org/condon/text/s5chap02.htm"
+}
+],
+"tier": "A",
+"type": "temporal"
+}
+],
+"date": "1947-06-24",
+"dateEnd": null,
+"dateStart": "1947-06-24",
+"deg": 2,
+"denials": [],
+"domains": [
+"_rs-archive-mirror",
+"history-1940s-1960s"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "kenneth-arnold",
+"instId": null,
+"l0": false,
+"label": "Kenneth Arnold",
+"loc": "Boise, ID",
+"locId": null,
+"members": null,
+"narrative": "Kenneth Arnold was a Boise businessman and experienced private pilot who, on 24 June 1947, reported nine crescent-shaped objects flying in formation near Mount Rainier at speeds he estimated above 1,200 mph. His description of their motion — 'like a saucer if you skipped it across water' — was garbled by wire services into 'flying saucer,' naming the phenomenon for the next twenty years. Arnold matters to this board for three reasons. First, his sighting is the trigger event: the 1947 wave, Roswell, the Twining memo and the Schulgen collection requirement all follow it within eighteen weeks. Second, he was interviewed by Army Air Forces intelligence officers, and the resulting case file entered the government record from the outset — the Air Force never treated him as a hoaxer, only as unexplained. Third, his treatment established the template applied to every subsequent civilian witness: initial official interest, then public ridicule. The relevant investigative files are preserved in the Project Blue Book microfilm at the National Archives and in scanned form in the NICAP document archive.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Kenneth Arnold",
+"sources": [
+{
+"date": "2026-07-06",
+"name": "Archived: USAF Fact Sheet: Project Blue Book (Wayback 2026-07-06)",
+"url": "https://web.archive.org/web/20260706210652/https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/"
+},
+{
+"date": "2026-08-12",
+"name": "NARA — Project Blue Book / Air Force UFO records",
+"url": "https://www.archives.gov/research/military/air-force/ufos"
+},
+{
+"date": "2026-08-12",
+"name": "NICAP document archive index (470624cascades_docs.pdf)",
+"url": "https://www.nicap.org/docs/"
+},
+{
+"date": "2026-08-12",
+"name": "USAF Fact Sheet: Project Blue Book",
+"url": "https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/"
+},
+{
+"date": null,
+"name": "catalog.archives.gov",
+"url": "https://catalog.archives.gov/medialz/electronic-records/rg-615/656595571/01030306_Correspondence_Regarding_Unidentified_Flying_Objects.pdf"
+}
+],
+"status": "active",
+"sub": "Civilian pilot; originator of the 1947 wave",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 744 of 1027, score 20). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D2.",
+"timeline": [
+{
+"date": "1947-06-24",
+"id": "tl-1947-06-24",
+"label": "Kenneth Arnold sighting",
+"precision": "day",
+"strand": "witness",
+"text": "Boise pilot Kenneth Arnold reports nine objects near Mount Rainier. Wire coverage coins 'flying saucer' and the national wave begins.",
+"tier": "B"
+}
+],
+"unexplainedResidual": null,
+"unverified": []
+}

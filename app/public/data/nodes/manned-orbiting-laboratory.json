@@ -1,0 +1,196 @@
+{
+"A": 3,
+"C": 1,
+"D": 2,
+"band": null,
+"claims": [
+{
+"source": "Spies in Space: Reflections on National Reconnaissance and the Manned Orbiting Laboratory, NRO Center for the Study of National Reconnaissance, May 2019, foreword and chapter 3, https://www.govinfo.gov/content/pkg/GOVPUB-D-PURL-gpo123652/pdf/GOVPUB-D-PURL-gpo123652.pdf",
+"text": "The cover and the mission are described by the agency itself. The NRO's volume says MOL was 'open \"white\" world, but maintained a highly-classified \"black\" mission', with the reconnaissance mission 'codenamed Dorian in the BYEMAN security system', and its foreword calls Dorian 'a deeply classified program managed by the then darkly hidden agency of the Intelligence Community, the National Reconnaissance Office'.",
+"tier": 1
+},
+{
+"source": "Spies in Space, NRO CSNR, May 2019, foreword, https://www.govinfo.gov/content/pkg/GOVPUB-D-PURL-gpo123652/pdf/GOVPUB-D-PURL-gpo123652.pdf",
+"text": "The declassification is dated and quantified in the NRO's own words: on 22 October 2015 the CSNR held a panel at the National Museum of the United States Air Force 'on the occasion of the NRO declassifying almost its entire collection of records on the Dorian program. There were over 850 documents with some 22,000 pages and 280 photographs.'",
+"tier": 1
+},
+{
+"source": "Spies in Space, NRO CSNR, May 2019, introduction and chapter 3, https://www.govinfo.gov/content/pkg/GOVPUB-D-PURL-gpo123652/pdf/GOVPUB-D-PURL-gpo123652.pdf",
+"text": "Seventeen officers were trained and none flew: 'Between 1965 and 1969, quietly and without fanfare, 17 non-NASA individuals were astronaut-trained in order to meet the reconnaissance needs of the United States.' The camera is dated and designated: 'In 1969, the Dorian camera system was designated KH-10 within the Talent-Keyhole community.'",
+"tier": 1
+},
+{
+"source": "Spies in Space, NRO CSNR, May 2019, chapter 4, https://www.govinfo.gov/content/pkg/GOVPUB-D-PURL-gpo123652/pdf/GOVPUB-D-PURL-gpo123652.pdf",
+"text": "The scale of the clearance at termination: 'On 10 June 1969, 13,187 contractor personnel were cleared on MOL and faced reassignment.'",
+"tier": 1
+},
+{
+"source": "John Uri, '55 Years Ago: Manned Orbiting Laboratory Cancellation', NASA, 11 June 2024, https://www.nasa.gov/history/55-years-ago-manned-orbiting-laboratory-cancellation/",
+"text": "NASA's history office dates the programme's public and classified halves: announced by Defense Secretary Robert S. McNamara in December 1963, formally approved by President Johnson in August 1965, 17 pilots selected in three groups on 12 November 1965, 17 June 1966 and 30 June 1967, flown on the Titan-IIIM from Vandenberg into polar orbit, cancelled 10 June 1969, and 'not declassified by the NRO until October 2015'.",
+"tier": 1
+}
+],
+"cls": "program",
+"cluster": "ic",
+"connections": [
+{
+"claimTier": 2,
+"cls": "domain",
+"dateEnd": "1969",
+"dateStart": "1963",
+"direction": "out",
+"edgeLabel": "A worked example of compartmentation: one workforce, two programmes",
+"id": "d-secrecy-architecture",
+"l0": false,
+"label": "Secrecy Architecture",
+"note": "A worked example of the compartmentation the domain describes: one workforce, two programmes, and a BYEMAN boundary running through the middle of it.",
+"sources": [
+{
+"date": "2019-05-01",
+"name": "Spies in Space, NRO Center for the Study of National Reconnaissance, May 2019",
+"url": "https://www.govinfo.gov/content/pkg/GOVPUB-D-PURL-gpo123652/pdf/GOVPUB-D-PURL-gpo123652.pdf"
+}
+],
+"tier": "B",
+"type": "programmatic"
+},
+{
+"claimTier": 1,
+"cls": "location",
+"dateEnd": "1969",
+"dateStart": "1965",
+"direction": "out",
+"edgeLabel": "Polar launches were to fly from Vandenberg on the Titan-IIIM",
+"id": "l-vandenberg",
+"l0": false,
+"label": "Vandenberg Space Force Base, California",
+"note": "Polar launches were to fly from Vandenberg on the Titan-IIIM, per the NASA history article.",
+"sources": [
+{
+"date": "2024-06-11",
+"name": "55 Years Ago: Manned Orbiting Laboratory Cancellation, NASA",
+"url": "https://www.nasa.gov/history/55-years-ago-manned-orbiting-laboratory-cancellation/"
+}
+],
+"tier": "B",
+"type": "geographic"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "1969",
+"dateStart": "1969",
+"direction": "out",
+"edgeLabel": "After cancellation the younger MOL astronauts transferred to NASA",
+"id": "nasa",
+"l0": true,
+"label": "National Aeronautics and Space Administration",
+"note": "After cancellation the younger MOL astronauts transferred to NASA, which is why an intelligence programme's people are traceable in a civil agency's record.",
+"sources": [
+{
+"date": "2024-06-11",
+"name": "55 Years Ago: Manned Orbiting Laboratory Cancellation, NASA",
+"url": "https://www.nasa.gov/history/55-years-ago-manned-orbiting-laboratory-cancellation/"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "2015",
+"dateStart": "1963",
+"direction": "out",
+"edgeLabel": "The NRO ran the DORIAN payload inside the Air Force programme",
+"id": "nro",
+"l0": true,
+"label": "National Reconnaissance Office",
+"note": "The NRO ran the DORIAN payload inside the Air Force programme and is the agency that declassified the collection in 2015.",
+"sources": [
+{
+"date": "2019-05-01",
+"name": "Spies in Space, NRO Center for the Study of National Reconnaissance, May 2019",
+"url": "https://www.govinfo.gov/content/pkg/GOVPUB-D-PURL-gpo123652/pdf/GOVPUB-D-PURL-gpo123652.pdf"
+}
+],
+"tier": "A",
+"type": "programmatic"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "1969",
+"dateStart": "1963",
+"direction": "out",
+"edgeLabel": "MOL was the Air Force's public programme",
+"id": "usaf",
+"l0": true,
+"label": "United States Air Force",
+"note": "MOL was the Air Force's public programme and the service that selected and trained the seventeen officers.",
+"sources": [
+{
+"date": "2019-05-01",
+"name": "Spies in Space, NRO Center for the Study of National Reconnaissance, May 2019",
+"url": "https://www.govinfo.gov/content/pkg/GOVPUB-D-PURL-gpo123652/pdf/GOVPUB-D-PURL-gpo123652.pdf"
+}
+],
+"tier": "A",
+"type": "institutional"
+}
+],
+"coords": null,
+"dateEnd": "1969-06-10",
+"dateStart": "1963-12",
+"deg": 5,
+"denials": [],
+"desc": "A fully documented case of a real programme carrying a second, classified programme inside it, closed by the government and then released by the agency that ran it. Publicly MOL was an Air Force laboratory to determine the military usefulness of men in space; inside it sat DORIAN, an NRO reconnaissance system handled in the BYEMAN control system and designated KH-10 in 1969. Seventeen officers were astronaut-trained between 1965 and 1969, on a modified Gemini-B with a hatch through the heat shield, for polar launches from Vandenberg on the Titan-IIIM. None of them flew. The programme was cancelled on 10 June 1969 with 13,187 cleared contractor personnel on it, and the NRO declassified almost the entire DORIAN collection in October 2015. It is the strongest available answer to a question this board is repeatedly asked, which is what a secret space programme actually looks like on the record. Two opened sources disagree on one number and the disagreement is recorded rather than resolved: the NRO volume gives a 70-inch aperture and NASA gives a 72-inch diameter primary mirror.",
+"domains": [
+"michels-2026-09-02"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "manned-orbiting-laboratory",
+"l0": false,
+"label": "Manned Orbiting Laboratory and the DORIAN / KH-10 reconnaissance payload",
+"locLabel": null,
+"members": null,
+"short": "Manned Orbiting Laboratory and the DORIAN / KH-10 reconnaissance payload",
+"sources": [
+{
+"date": "2019-05-01",
+"name": "Spies in Space: Reflections on National Reconnaissance and the Manned Orbiting Laboratory, Courtney V. K. Homer, NRO Center for the Study of National Reconnaissance, May 2019 (GPO, GOVPUB-D-PURL-gpo123652)",
+"url": "https://www.govinfo.gov/content/pkg/GOVPUB-D-PURL-gpo123652/pdf/GOVPUB-D-PURL-gpo123652.pdf"
+},
+{
+"date": null,
+"name": "govinfo catalogue record for Spies in Space",
+"url": "https://www.govinfo.gov/app/details/GOVPUB-D-PURL-gpo123652"
+},
+{
+"date": "2024-06-11",
+"name": "55 Years Ago: Manned Orbiting Laboratory Cancellation, NASA",
+"url": "https://www.nasa.gov/history/55-years-ago-manned-orbiting-laboratory-cancellation/"
+}
+],
+"sub": "USAF programme with an NRO black mission; announced December 1963, cancelled 10 June 1969, declassified October 2015",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 205 of 1027, score 43). 5 connections, 2 of them custody/witness/funding/programmatic. Axes C1/A3/D2.",
+"timeline": [
+{
+"date": "2015-10-22",
+"id": "tl-2015-10-22-mol-declassified",
+"label": "NRO declassifies almost the entire DORIAN collection",
+"precision": "day",
+"strand": "program",
+"text": "The NRO's Center for the Study of National Reconnaissance held a panel at the National Museum of the United States Air Force on the occasion of the NRO declassifying almost its entire collection of records on the Dorian program: over 850 documents with some 22,000 pages and 280 photographs. Line-by-line review had taken over a year, and the collection was posted on the NRO public web page the day after the panel.",
+"tier": "B"
+}
+]
+}

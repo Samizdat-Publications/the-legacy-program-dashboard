@@ -1,0 +1,237 @@
+{
+"A": 0,
+"C": 0,
+"D": 0,
+"band": null,
+"claims": [
+{
+"source": "Ministério da Saúde CNES open data, establishment 2761041",
+"text": "CNES record 2761041 registers the HOSPITAL REGIONAL DO SUL DE MINAS at Rua Rui Barbosa 158, Centro, Varginha, MG, CEP 37002-140, under municipal administrative sphere, with continuous 24-hour attendance and SUS outpatient service.",
+"tier": 1
+},
+{
+"source": "Ministério da Saúde CNES open data, município 317070",
+"text": "Other hospitals registered in Varginha in the same national register include Hospital Bom Pastor (CNES 2761092, Fundação Hospitalar do Município de Varginha) and Hospital Unimed Varginha (CNES 2761319).",
+"tier": 1
+},
+{
+"source": "Inference from the CNES register",
+"text": "The identification of the 'Hospital Regional de Varginha' of the 1996 case narrative with the registered Hospital Regional do Sul de Minas is a reasoned match on name, city and the fact that it is the only regional hospital in the municipal register. Reasoning: no contemporaneous 1996 hospital document was obtained to confirm the identification.",
+"tier": 3
+},
+{
+"source": "Research status",
+"text": "No hospital admission, transfer or incident record from January 1996 was located in this pass; the custody sequence at this facility remains testimony-based and is a wave-4 target for Brazilian archival and municipal records requests.",
+"tier": 3
+},
+{
+"source": "Board bookkeeping",
+"text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
+"tier": 3
+}
+],
+"cls": "institution",
+"cluster": "other",
+"connections": [
+{
+"claimTier": 3,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "Varginha discussed in a 2024 meeting with AARO staff",
+"id": "aaro",
+"l0": true,
+"label": "All-domain Anomaly Resolution Office (AARO)",
+"note": "Filmmaker James Fox says that in 2024 he met AARO personnel to discuss video his team had obtained and that the Varginha incident was among the cases debated, with AARO director Dr Jon Kosloski entering the room. This rests solely on Fox's account as reported by The Debrief; AARO's own 2024 report states no investigation has concluded that any UAP report indicates extraterrestrial origin, and the Pentagon did not respond to requests for comment.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "CNES - Cadastro Nacional de Estabelecimentos de Saúde, establishment record 2761041 (Ministério da Saúde open data API)",
+"url": "https://apidadosabertos.saude.gov.br/cnes/estabelecimentos/2761041"
+},
+{
+"date": null,
+"name": "https://thedebrief.org/caso-historico-de-ovni-no-brasil-chega-ao-capitolio-enquanto-o-incidente-de-varginha-completa-30-anos/",
+"url": "https://thedebrief.org/caso-historico-de-ovni-no-brasil-chega-ao-capitolio-enquanto-o-incidente-de-varginha-completa-30-anos/"
+},
+{
+"date": null,
+"name": "https://thedebrief.org/landmark-brazilian-ufo-case-reaches-capitol-hill-as-varginha-incident-turns-30/",
+"url": "https://thedebrief.org/landmark-brazilian-ufo-case-reaches-capitol-hill-as-varginha-incident-turns-30/"
+}
+],
+"tier": "A",
+"type": "investigative"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "Hospital duty neurosurgeon described the being to Luna on the Hill",
+"id": "anna-paulina-luna",
+"l0": false,
+"label": "Anna Paulina Luna",
+"note": "At a closed-door 15 January 2026 meeting in Rep. Tim Burchett's Longworth office, Dr Italo Venturelli, who says he was on duty at the Hospital Regional de Varginha in January 1996, described examining a non-human being at the hospital. Rep. Anna Paulina Luna, chair of the House Task Force on the Declassification of Federal Secrets, questioned him directly and afterwards said Congress should seek Air Force flight records and landing authorisations to test the claimed US removal of the body. No medical record of the treatment exists, per Venturelli.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "CNES - Cadastro Nacional de Estabelecimentos de Saúde, establishment record 2761041 (Ministério da Saúde open data API)",
+"url": "https://apidadosabertos.saude.gov.br/cnes/estabelecimentos/2761041"
+},
+{
+"date": null,
+"name": "https://thedebrief.org/caso-historico-de-ovni-no-brasil-chega-ao-capitolio-enquanto-o-incidente-de-varginha-completa-30-anos/",
+"url": "https://thedebrief.org/caso-historico-de-ovni-no-brasil-chega-ao-capitolio-enquanto-o-incidente-de-varginha-completa-30-anos/"
+},
+{
+"date": null,
+"name": "https://thedebrief.org/landmark-brazilian-ufo-case-reaches-capitol-hill-as-varginha-incident-turns-30/",
+"url": "https://thedebrief.org/landmark-brazilian-ufo-case-reaches-capitol-hill-as-varginha-incident-turns-30/"
+}
+],
+"tier": "A",
+"type": "witness-chain"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "Burlison took the Varginha hospital testimony and pressed for more witnesses",
+"id": "eric-burlison",
+"l0": false,
+"label": "Eric Burlison",
+"note": "Rep. Eric Burlison attended the 15 January 2026 closed meeting with the Varginha witnesses, asked whether other hospital staff could corroborate Venturelli's account and urged that they be brought forward, and spoke at the 20 January National Press Club event calling for international transparency.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "CNES - Cadastro Nacional de Estabelecimentos de Saúde, establishment record 2761041 (Ministério da Saúde open data API)",
+"url": "https://apidadosabertos.saude.gov.br/cnes/estabelecimentos/2761041"
+},
+{
+"date": null,
+"name": "https://thedebrief.org/caso-historico-de-ovni-no-brasil-chega-ao-capitolio-enquanto-o-incidente-de-varginha-completa-30-anos/",
+"url": "https://thedebrief.org/caso-historico-de-ovni-no-brasil-chega-ao-capitolio-enquanto-o-incidente-de-varginha-completa-30-anos/"
+},
+{
+"date": null,
+"name": "https://thedebrief.org/landmark-brazilian-ufo-case-reaches-capitol-hill-as-varginha-incident-turns-30/",
+"url": "https://thedebrief.org/landmark-brazilian-ufo-case-reaches-capitol-hill-as-varginha-incident-turns-30/"
+}
+],
+"tier": "A",
+"type": "witness-chain"
+},
+{
+"claimTier": 2,
+"cls": "event",
+"dateEnd": "1996-01",
+"dateStart": "1996-01",
+"direction": "out",
+"edgeLabel": "The hospital is a named custody point in the Varginha sequence",
+"id": "ev-varginha-1996",
+"l0": false,
+"label": "Varginha incident, Minas Gerais, January 1996",
+"note": "The facility registered in CNES as the Hospital Regional do Sul de Minas is the hospital named in the Varginha literature as a place to which an injured being was reportedly taken. Tier 2: the facility and its registry entry are verified fact, the custody sequence rests on witness testimony and journalism and on no hospital record obtained in this pass. The hospital node carried edges to the US congressional side of the story but, oddly, not to the 1996 event itself.",
+"sources": [
+{
+"date": null,
+"name": "Keith Basterfield, 'Investigative adventures in Brazil', Unidentified Anomalous Phenomena – scientific research, 22 July 2024, with update of 16 February 2025 — https://ufos-scientificresearch.blogspot.com/2024/07/investigative-adventures-in-brazil.html",
+"url": ""
+},
+{
+"date": "2026-08-12",
+"name": "CNES - Cadastro Nacional de Estabelecimentos de Saúde, establishment record 2761041 (Ministério da Saúde open data API)",
+"url": "https://apidadosabertos.saude.gov.br/cnes/estabelecimentos/2761041"
+},
+{
+"date": "2026-01-30",
+"name": "The Debrief - Landmark Brazilian UFO Case Reaches Capitol Hill",
+"url": "https://thedebrief.org/landmark-brazilian-ufo-case-reaches-capitol-hill-as-varginha-incident-turns-30/"
+}
+],
+"tier": "B",
+"type": "witness-chain"
+},
+{
+"claimTier": 2,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "Girao backed Varginha hospital witnesses in Washington",
+"id": "senado-brasil",
+"l0": true,
+"label": "Senado Federal do Brasil",
+"note": "Sen. Eduardo Girao, who presided over the 2022 Brazilian Senate UAP session, travelled to Washington for the 20 January 2026 National Press Club event and praised the Varginha witnesses, and discussed a joint Brazil-US evidence effort with Rep. Eric Burlison. The Debrief is explicit that Girao acted as a private citizen and was not officially representing the Brazilian Senate, so this is a personal rather than institutional linkage.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Senado Federal - Dados Abertos, list of senators in exercise (official open-data service, 81 members)",
+"url": "https://legis.senado.leg.br/dadosabertos/senador/lista/atual"
+},
+{
+"date": "2026-08-12",
+"name": "CNES - Cadastro Nacional de Estabelecimentos de Saúde, establishment record 2761041 (Ministério da Saúde open data API)",
+"url": "https://apidadosabertos.saude.gov.br/cnes/estabelecimentos/2761041"
+},
+{
+"date": null,
+"name": "https://thedebrief.org/caso-historico-de-ovni-no-brasil-chega-ao-capitolio-enquanto-o-incidente-de-varginha-completa-30-anos/",
+"url": "https://thedebrief.org/caso-historico-de-ovni-no-brasil-chega-ao-capitolio-enquanto-o-incidente-de-varginha-completa-30-anos/"
+},
+{
+"date": null,
+"name": "https://thedebrief.org/landmark-brazilian-ufo-case-reaches-capitol-hill-as-varginha-incident-turns-30/",
+"url": "https://thedebrief.org/landmark-brazilian-ufo-case-reaches-capitol-hill-as-varginha-incident-turns-30/"
+}
+],
+"tier": "C",
+"type": "investigative"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": null,
+"deg": 5,
+"denials": [],
+"desc": "The facility referred to in the Varginha literature as the Hospital Regional de Varginha is registered in Brazil's national health-establishment register, CNES, as the Hospital Regional do Sul de Minas, CNES code 2761041, at Rua Rui Barbosa 158, Centro, Varginha, Minas Gerais (CEP 37002-140), under municipal administration, operating continuous 24-hour service and providing SUS outpatient care. Varginha's other registered hospitals in the same register include the Hospital Bom Pastor, run by the municipal hospital foundation, and the Hospital Unimed Varginha. The hospital is on this board because it is one of the medical facilities named in the January 1996 Varginha case as a place to which an injured creature was reportedly taken and held before being moved on, in the sequence involving military and fire-brigade personnel that is recorded elsewhere on this board as ev-varginha-1996. The case is not a historical curiosity: it was carried to Capitol Hill on its thirtieth anniversary, and on 8 July 2026 a congressional demand went to the CIA and FBI for records on the Varginha and Campinas incidents - meaning that a municipal hospital in Minas Gerais is now a named location in an American records fight. What exists here as verified fact is the facility and its registry entry; the 1996 hospital-custody sequence rests on witness testimony and journalism, not on any hospital record obtained in this pass.",
+"domains": [
+"_rs-stubs-known",
+"_stubs"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "nd",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "hospital-regional-varginha",
+"l0": false,
+"label": "Hospital Regional de Varginha",
+"locLabel": null,
+"members": null,
+"short": "Hospital Regional de Varginha",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "CNES - Cadastro Nacional de Estabelecimentos de Saúde, establishment record 2761041 (Ministério da Saúde open data API)",
+"url": "https://apidadosabertos.saude.gov.br/cnes/estabelecimentos/2761041"
+},
+{
+"date": "2026-08-12",
+"name": "CNES - health establishments registered in the municipality of Varginha/MG (IBGE code 317070)",
+"url": "https://apidadosabertos.saude.gov.br/cnes/estabelecimentos?codigo_municipio=317070"
+}
+],
+"sub": "Medical facility",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 673 of 1027, score 23). 5 connections, 3 of them custody/witness/funding/programmatic. Axes C0/A0/D0.",
+"timeline": []
+}

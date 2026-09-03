@@ -1,0 +1,170 @@
+{
+"A": 3,
+"C": 1,
+"D": 1,
+"band": null,
+"claims": [
+{
+"source": "NSF NCSES Master Government List of FFRDCs, FY2026",
+"text": "IDA operates three FFRDCs: the Systems and Analyses Center (DoD, USD A&S; renamed 11 June 2013), the Center for Communications and Computing (DoD, NSA/CSS), and the Science and Technology Policy Institute (NSF).",
+"tier": 1
+},
+{
+"source": "IDA leadership page",
+"text": "IDA's president is Adm. Charles A. Richard, USN (Ret.), who commanded US Strategic Command from 2019 to 2022; its leadership includes former NSA Technical Director Christopher Green and Maj. Gen. James R. Marrs, USAF (Ret.), former National Intelligence Manager for Aviation.",
+"tier": 1
+},
+{
+"source": "USAspending.gov federal award records",
+"text": "IDA FFRDC work is awarded sole-source; USAspending records include an award described as 'award of a contract on a sole source basis to the Institute for Defense Analyses (IDA), a federally funded research and development center'.",
+"tier": 1
+},
+{
+"source": "Published JASON histories and archival correspondence records covering IDA 1961-1973",
+"text": "IDA administered the JASON advisory group from 1960 until 1973.",
+"tier": 2
+},
+{
+"source": "NewsNation, 15 May 2026",
+"text": "IDA is named among the FFRDCs implicated in public reporting on the congressional UAP contractor inquiry.",
+"tier": 2
+}
+],
+"cls": "institution",
+"cluster": "ffrdc",
+"connections": [
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "2023",
+"direction": "in",
+"edgeLabel": "President of IDA after commanding US Strategic Command",
+"id": "charles-a-richard",
+"l0": false,
+"label": "Charles A. Richard",
+"note": "His STRATCOM tenure, 2019-2022, coincides exactly with the UAP Task Force period and the establishment of AARO.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "IDA leadership page",
+"url": "https://www.ida.org/about-ida/leadership"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "domain",
+"dateEnd": null,
+"dateStart": "1956",
+"direction": "out",
+"edgeLabel": "Operates the only FFRDC sponsored by the National Security Agency",
+"id": "d-ffrdc",
+"l0": false,
+"label": "The FFRDC Seam",
+"note": "IDA's Center for Communications and Computing is sponsored by NSA/CSS - the least publicly visible FFRDC in the country and the hardest for a committee to reach.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "NSF NCSES FFRDC master list",
+"url": "https://ncses.nsf.gov/resource/master-gov-lists-ffrdc"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "1962",
+"dateStart": "1962",
+"direction": "in",
+"edgeLabel": "Assigned to IDA during the Cuban Missile Crisis, on a family account",
+"id": "harald-b-malmgren",
+"l0": false,
+"label": "Harald B. Malmgren",
+"note": "The only source is the biography his daughter published after his death; no IDA or Defense Department personnel record was opened, so this edge must not render as documented.",
+"sources": [
+{
+"date": "2025-02-24",
+"name": "Pippa Malmgren, biography of Harald Malmgren, Second Line of Defense",
+"url": "https://sldinfo.com/2025/02/dr-harald-malmgren-passed/"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 2,
+"cls": "institution",
+"dateEnd": "1973",
+"dateStart": "1960",
+"direction": "out",
+"edgeLabel": "IDA administered JASON from 1960 to 1973",
+"id": "jason-advisory-group",
+"l0": false,
+"label": "JASON",
+"note": "JASON has never been housed inside the government: IDA, then SRI International, then MITRE. Continuity of the panel has always depended on an FFRDC operator's contract.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "JASON (advisory group) - archival correspondence records",
+"url": "https://en.wikipedia.org/wiki/JASON_(advisory_group)"
+}
+],
+"tier": "B",
+"type": "institutional"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "1956",
+"deg": 4,
+"denials": [],
+"desc": "IDA was created in the 1950s to give the Secretary of Defense and the Joint Chiefs an analytical capability that was neither in uniform nor in industry, and it remains the most quietly consequential of the analytical FFRDCs. It operates three centres: the Systems and Analyses Center for the Under Secretary of Defense for Acquisition and Sustainment, renamed on 11 June 2013; the Center for Communications and Computing for the National Security Agency and Central Security Service - the only FFRDC in the country whose sponsor is NSA; and the Science and Technology Policy Institute for the National Science Foundation, which advises the White House Office of Science and Technology Policy. From 1960 to 1973 IDA administered JASON before that contract moved to SRI and eventually to MITRE. Its president is Adm. Charles A. Richard, USN (Ret.), commander of US Strategic Command from 2019 to 2022, and its leadership includes former NSA Technical Director Christopher Green and former National Intelligence Manager for Aviation Maj. Gen. James Marrs. IDA's awards are consistently recorded on USAspending as sole-source: one 2016 award notes explicitly 'award of a contract on a sole source basis to the Institute for Defense Analyses (IDA), a federally funded research and development center'. IDA is named in reporting on the congressional UAP contractor inquiry. Its NSA-sponsored centre is the least visible FFRDC in the United States, and the one whose holdings would be hardest for any committee to reach.",
+"domains": [
+"ffrdcs"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "ida",
+"l0": false,
+"label": "Institute for Defense Analyses",
+"locLabel": null,
+"members": null,
+"short": "Institute for Defense Analyses",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Institute for Defense Analyses - Leadership",
+"url": "https://www.ida.org/about-ida/leadership"
+},
+{
+"date": "2026-08-12",
+"name": "Institute for Defense Analyses - home",
+"url": "https://www.ida.org/"
+},
+{
+"date": "2026-08-12",
+"name": "NSF NCSES - Master Government List of Federally Funded R&D Centers",
+"url": "https://ncses.nsf.gov/resource/master-gov-lists-ffrdc"
+},
+{
+"date": "2026-05-15",
+"name": "NewsNation - Lawmaker requests UFO talk from private contractor",
+"url": "https://www.newsnationnow.com/space/ufo/lawmaker-ufo-talk-private-contractor/"
+}
+],
+"sub": "Nonprofit operator of three FFRDCs: Systems and Analyses Center (USD A&S), Center for Communications and Computing (NSA/CSS), Science and Technology Policy Institute (NSF); Alexandria, VA",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 417 of 1027, score 32). 4 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A3/D1.",
+"timeline": []
+}

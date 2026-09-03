@@ -1,0 +1,77 @@
+{
+"A": 0,
+"C": 0,
+"D": 2,
+"band": null,
+"claims": [
+{
+"source": "Wikipedia, 'Steven M. Greer', retrieved 12 August 2026 — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"text": "Greer founded CSETI in 1990 and the Disclosure Project in 1993; the Disclosure Project seeks amnesty for government whistleblowers willing to violate security oaths.",
+"tier": 2
+}
+],
+"cls": "institution",
+"cluster": "media",
+"connections": [
+{
+"claimTier": 3,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "1993-12-13",
+"direction": "out",
+"edgeLabel": "Claimed 1993 UFO briefing of sitting CIA Director Woolsey (disputed)",
+"id": "cia",
+"l0": true,
+"label": "Central Intelligence Agency",
+"note": "CSETI founder Steven Greer says he briefed sitting CIA Director R. James Woolsey on UFOs on 13 December 1993 at a dinner in Arlington arranged by John Petersen, and quotes a Petersen memo referring to sabotage of 'Project Starlight', the CSETI disclosure effort. Woolsey and the other attendees disputed this characterisation in a signed 16 September 1999 letter, saying it was a dinner party and that Greer's published account was distorted. Both accounts are on the record; the relationship is contested.",
+"sources": [
+{
+"date": null,
+"name": "https://drstevengreer.com/document/dr-greers-response-to-former-cia-director-woolseys-denial-of-meeting-1999/",
+"url": "https://drstevengreer.com/document/dr-greers-response-to-former-cia-director-woolseys-denial-of-meeting-1999/"
+},
+{
+"date": null,
+"name": "https://drstevengreer.com/wp-content/uploads/2013/03/1999-Woolsey-Petersen-letter.pdf",
+"url": "https://drstevengreer.com/wp-content/uploads/2013/03/1999-Woolsey-Petersen-letter.pdf"
+}
+],
+"tier": "A",
+"type": "institutional"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "1990",
+"deg": 1,
+"denials": [],
+"desc": "The Center for the Study of Extraterrestrial Intelligence, founded by Steven Greer in 1990, and the Disclosure Project, founded by him in 1993, are the originating institutions of the whistleblower-aggregation model: collect insiders, give them a platform, argue for amnesty for those who break their oaths. The May 2001 National Press Club event with twenty retired Air Force, FAA and intelligence officers established the format that every subsequent disclosure press conference has copied, including Greer's own 8 May 2026 event. The organisations' evidentiary record is poor - the Atacama skeleton presented in Sirius was shown genetically to be human - and the newer structural investigators define themselves explicitly against this model.",
+"domains": [
+"media-structure"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "1",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "cseti",
+"l0": false,
+"label": "CSETI / The Disclosure Project",
+"locLabel": null,
+"members": null,
+"short": "CSETI / The Disclosure Project",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Wikipedia - Steven M. Greer",
+"url": "https://en.wikipedia.org/wiki/Steven_M._Greer"
+}
+],
+"sub": "Steven Greer's organisations",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 1020 of 1027, score 7). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D2.",
+"timeline": []
+}

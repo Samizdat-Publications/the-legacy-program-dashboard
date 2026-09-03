@@ -1,0 +1,87 @@
+{
+"A": 3,
+"C": 1,
+"D": 0,
+"band": null,
+"claims": [
+{
+"source": "USAspending.gov recipient search, retrieved 12 August 2026",
+"text": "USAspending records approximately $41 billion in prime contract obligations across General Atomics entities since FY2008.",
+"tier": 1
+},
+{
+"source": "Board inference from SEC reporting requirements versus private company status",
+"text": "A privately held prime has no securities-disclosure obligation that would surface holdings or agreements of the kind To The Stars Academy was required to file with the SEC. Reasoning: comparison of the disclosure regimes; no allegation of material custody at General Atomics exists in any public record.",
+"tier": 3
+}
+],
+"cls": "institution",
+"cluster": "contractor",
+"connections": [
+{
+"claimTier": 3,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2020",
+"direction": "in",
+"edgeLabel": "Securities disclosure is why the TTSA arrangement is visible and a privately held prime's would not be",
+"id": "ttsa",
+"l0": true,
+"label": "To The Stars Academy of Arts & Science Inc. (later To The Stars Inc.)",
+"note": "TTSA's Reg A reporting obligations forced the CRADA into the public record. A privately held prime such as General Atomics has no equivalent obligation, which is the structural reason the documented case is a small company rather than a large one.",
+"sources": [
+{
+"date": "2020-08-03",
+"name": "SEC EDGAR: To The Stars Academy of Arts and Science Form 1-A Exhibit 6.28 - CRADA 19-15 'Novel & Emerging Technology Exploitation' with U.S. Army CCDC Ground Vehicle Systems Center",
+"url": "https://www.sec.gov/Archives/edgar/data/1710274/000110465920089220/tm2023098d2_ex6-28.htm"
+},
+{
+"date": "2026-08-12",
+"name": "USAspending.gov federal award search (prime contract obligations by recipient)",
+"url": "https://www.usaspending.gov/search"
+}
+],
+"tier": "A",
+"type": "behavioral"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "1955",
+"deg": 1,
+"denials": [],
+"desc": "General Atomics is the structurally interesting case: a privately held company, not answerable to public shareholders, holding simultaneous deep relationships with the Department of Energy on fusion and nuclear research and with DoD on unmanned aircraft through General Atomics Aeronautical Systems. USAspending records roughly $41 billion in prime contract obligations across General Atomics entities since FY2008. Private ownership matters to this domain for a specific legal reason: the disclosure obligations that constrain public companies - the reporting duties that made To The Stars Academy's Army agreement a matter of public record through its SEC filings - do not apply. A privately held prime can hold material, fund research on it from retained earnings, and have no securities-law obligation to disclose any of it. No sworn witness has named General Atomics as a custodian. It is recorded here as an instance of the ownership structure in which the alleged arrangement would be least visible, and as a research-priority target.",
+"domains": [
+"primes-custody"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "general-atomics",
+"l0": false,
+"label": "General Atomics",
+"locLabel": null,
+"members": null,
+"short": "General Atomics",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "USAspending.gov federal award search (prime contract obligations by recipient)",
+"url": "https://www.usaspending.gov/search"
+},
+{
+"date": "2020-08-03",
+"name": "SEC EDGAR: To The Stars Academy of Arts and Science Form 1-A Exhibit 6.28 - CRADA 19-15 'Novel & Emerging Technology Exploitation' with U.S. Army CCDC Ground Vehicle Systems Center",
+"url": "https://www.sec.gov/Archives/edgar/data/1710274/000110465920089220/tm2023098d2_ex6-28.htm"
+}
+],
+"sub": "Privately held; fusion research, unmanned aircraft, DOE and DARPA programs",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 812 of 1027, score 18). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A3/D0.",
+"timeline": []
+}

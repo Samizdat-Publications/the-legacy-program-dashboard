@@ -1,0 +1,420 @@
+{
+"A": 1,
+"C": 2,
+"D": 2,
+"affiliations": [
+"Stanford Research Institute, Augmentation Research Center (1970s)",
+"SRI International",
+"National Institute for Discovery Science (advisory board, 1995-2004)",
+"Documatica Research / venture capital",
+"SRI International, Augmentation Research Center (1971-1972)",
+"Institute for the Future (1972-1976)",
+"InfoMedia Corporation",
+"Sofinnova / Euro-America Ventures (1987-2010)",
+"National Institute for Discovery Science - consultant",
+"Bigelow Aerospace scientific advisory board",
+"Documatica Research LLC"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "1967",
+"event": "PhD, industrial engineering and computer science, Northwestern University.",
+"precision": "year"
+},
+{
+"date": "1971",
+"event": "Joins Douglas Engelbart's Augmentation Research Center at SRI International.",
+"precision": "year"
+},
+{
+"date": "1972",
+"event": "Senior research fellow, Institute for the Future; succeeds Paul Baran as PI on the NSF computer-networking project; builds PLANET.",
+"precision": "year"
+},
+{
+"date": "1972-01-01",
+"event": "Works at SRI's Augmentation Research Center on the ARPANET while researching anomalous phenomena.",
+"precision": "year"
+},
+{
+"date": "1977-12-17",
+"event": "Council Bluffs, Iowa: five independent groups of witnesses observe a luminous mass descending; the resulting metal enters the sample collection.",
+"precision": "day"
+},
+{
+"date": "1979-01-01",
+"event": "Begins documenting evidence of deliberate human manipulation and disinformation within UFO cases.",
+"precision": "year"
+},
+{
+"date": "1995-01-01",
+"event": "Joins the NIDS advisory board.",
+"precision": "year"
+},
+{
+"date": "1998",
+"event": "Publishes early analyses of physical samples from unexplained aerial objects in the Journal of Scientific Exploration.",
+"precision": "year"
+},
+{
+"date": "2021",
+"event": "Publishes 'Trinity: The Best-Kept Secret' with Paola Harris on the alleged August 1945 San Antonio, New Mexico crash and its materials.",
+"precision": "year"
+},
+{
+"date": "2021-01-01",
+"event": "Publishes materials-analysis work with Garry Nolan on claimed anomalous specimens.",
+"precision": "year"
+},
+{
+"date": "2022-01-01",
+"event": "Co-authors the SIMS/MIBI Council Bluffs paper with Nolan, Jiang and Lemke.",
+"precision": "month"
+}
+],
+"claims": [
+{
+"source": "American Alchemy with Jesse Michels, 'Top Astronomer: I Found 100,000 UFOs Above Earth! (ft. Beatriz Villarroel)', 25 October 2025, 1:16:06 and 1:18:41, https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL1307454785.mp3?updated=1761413167",
+"text": "On American Alchemy with Jesse Michels, 25 October 2025, at 1:16:06 and 1:18:41, Michels said in narration that on 11 July 1961 Vallee, then working on the Paris Observatory's satellite tracking programme, and colleagues observed an object in retrograde orbit, and that his superior at the observatory, named as Paul Mueller, confiscated the tape the next morning and destroyed it. The narration also quotes Vallee from an unspecified later interview saying other observatories made the same observation and that American tracking stations photographed it and could not identify it either. No book, interview or archive is cited on air for either element.",
+"tier": 2
+},
+{
+"source": "NIDS institutional record; contemporaneous press coverage of NIDS' scientific board",
+"text": "Vallee served on the advisory board of Bigelow's National Institute for Discovery Science from its 1995 founding.",
+"tier": 2
+},
+{
+"source": "Jacques Vallee, 'Messengers of Deception' (1979) and subsequent published diaries",
+"text": "Vallee documented, from the late 1970s onward, that identifiable human actors were injecting fabricated material into UFO cases - the phenomenon later confirmed in the Bennewitz affair.",
+"tier": 2
+},
+{
+"source": "Progress in Aerospace Sciences, DOI 10.1016/j.paerosci.2021.100788",
+"text": "Vallee is second author of the Progress in Aerospace Sciences 128 (2022) 100788 instrumental analysis of the Council Bluffs material.",
+"tier": 1
+},
+{
+"source": "Sol Foundation Policy Briefing No. 3, April 2026, citing contemporaneous newspaper records",
+"text": "The Council Bluffs event of 17 December 1977 was witnessed by five independent groups, photographed by police, and described contemporaneously by the assistant fire chief as a four-by-six-foot mass of molten metal 'running, boiling down the edges of the levee'; press reporting appeared in the Daily Nonpareil on 18 December 1977 and the Des Moines Register on 26 January 1978.",
+"tier": 1
+},
+{
+"source": "Biographical record; reported consistently and not disputed",
+"text": "Vallee served as a consultant to Robert Bigelow's National Institute for Discovery Science and sat on the Bigelow Aerospace scientific advisory board.",
+"tier": 2
+},
+{
+"source": "Inference from the sample provenances cited in the published literature",
+"text": "Vallee's collection is the only continuous non-governmental chain of custody for alleged UAP materials spanning 1957 to the present, which is why the peer-reviewed literature is built on civil-provenance samples rather than government-held ones. The government-held material has never entered a published custody chain.",
+"tier": 3
+}
+],
+"cls": "person",
+"cluster": "research",
+"conflicts": [
+"Barry Greenwood and other critics have argued that decades of Bigelow-funded field research produced no documentary evidence fit for publication. The 2022 paper is the counter-example that its critics have to address on instrumentation grounds rather than on rhetoric."
+],
+"connections": [
+{
+"claimTier": 2,
+"cls": "document",
+"dateEnd": "2024",
+"dateStart": "2024",
+"direction": "in",
+"edgeLabel": "Relies on Vallee's documented nitinol paper trail",
+"id": "gerb-battelle-investigation",
+"l0": false,
+"label": "UAP Gerb - Battelle Memorial Institute investigation",
+"note": "Gerb explicitly credits Vallee as the source of the supporting documentary trail for the Battelle materials claim.",
+"sources": [
+{
+"date": "2024-02-18",
+"name": "UAP Gerb - Battelle Memorial Institute investigation",
+"url": "https://www.youtube.com/watch?v=tISTJRPOqFo"
+}
+],
+"tier": "C",
+"type": "witness-chain"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "1976",
+"dateStart": "1971",
+"direction": "out",
+"edgeLabel": "Both at SRI International in the early 1970s",
+"id": "harold-puthoff",
+"l0": false,
+"label": "Harold E. Puthoff",
+"note": "Vallee joined Engelbart's Augmentation Research Center at SRI in 1971, in the same institution and period as Puthoff's psychoenergetics programme; Vallee was also consulted on classified remote-viewing research.",
+"sources": [
+{
+"date": "2022-01-01",
+"name": "Nolan, Vallee, Jiang & Lemke, 'Improved instrumental techniques, including isotopic analysis, applicable to the characterization of unusual materials with potential relevance to aerospace forensics', Progress in Aerospace Sciences 128:100788",
+"url": "https://doi.org/10.1016/j.paerosci.2021.100788"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 2,
+"cls": "program",
+"dateEnd": "2004",
+"dateStart": "1995",
+"direction": "out",
+"edgeLabel": "Vallee served on the NIDS advisory board",
+"id": "nids",
+"l0": true,
+"label": "National Institute for Discovery Science (NIDS)",
+"note": "Vallee had been at SRI in the 1970s and had documented deliberate human disinformation in UFO cases from 1979 - the phenomenon later confirmed in the Bennewitz affair.",
+"sources": [
+{
+"date": "1998-08-10",
+"name": "Zack Van Eyck, 'Private UFO study takes a public turn', Deseret News",
+"url": "https://www.deseret.com/1998/8/10/19395824/private-ufo-study-takes-a-public-turn"
+},
+{
+"date": "2021-05-10",
+"name": "Gideon Lewis-Kraus, 'How the Pentagon Started Taking U.F.O.s Seriously', The New Yorker",
+"url": "https://www.newyorker.com/magazine/2021/05/10/how-the-pentagon-started-taking-ufos-seriously"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 2,
+"cls": "program",
+"dateEnd": "1988-07",
+"dateStart": "1988-07",
+"direction": "in",
+"edgeLabel": "Vallee was shown the Prato military file at First Air Force headquarters in 1988",
+"id": "operacao-prato",
+"l0": true,
+"label": "Operação Prato (Operation Saucer)",
+"note": "From Vallee's Forbidden Science Volume Three, as quoted by Basterfield: travelling to Belém in July 1988, 'They met with Colonel Hollanda Lima, in the headquarters of the First Air Force region. He led the team sent to the Colares region during Operation Prato. Vallee was shown a military file which: \"...held the military photographs, detailed aerial maps, trajectory analyses by the staff of Project Prato.\"' Tier 2 — diary testimony quoted at one remove, with no FAB document confirming the meeting.",
+"sources": [
+{
+"date": null,
+"name": "Jacques Vallee, 'Forbidden Science Volume Three' (diary of the July 1988 Brazil trip), quoted in Basterfield, 'Investigative adventures in Brazil'",
+"url": ""
+},
+{
+"date": null,
+"name": "Keith Basterfield, 'Investigative adventures in Brazil', Unidentified Anomalous Phenomena – scientific research, 22 July 2024, with update of 16 February 2025 — https://ufos-scientificresearch.blogspot.com/2024/07/investigative-adventures-in-brazil.html",
+"url": ""
+},
+{
+"date": "2026-01-01",
+"name": "Operação Prato - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Prato"
+}
+],
+"tier": "A",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": "2022",
+"direction": "out",
+"edgeLabel": "Co-author and source of the sample and its case file",
+"id": "paper-nolan-vallee-2022",
+"l0": true,
+"label": "Nolan, Vallee, Jiang & Lemke (2022), Progress in Aerospace Sciences 128:100788",
+"note": "Vallee supplied both the physical material and the 45-year documentary case record - newspaper reports, police photographs, fire-department accounts - that makes the analysis interpretable.",
+"sources": [
+{
+"date": "2022-01-01",
+"name": "Nolan, Vallee, Jiang & Lemke, 'Improved instrumental techniques, including isotopic analysis, applicable to the characterization of unusual materials with potential relevance to aerospace forensics', Progress in Aerospace Sciences 128:100788",
+"url": "https://doi.org/10.1016/j.paerosci.2021.100788"
+},
+{
+"date": "2026-04-01",
+"name": "The Sol Foundation Science and Policy Briefings No. 3, Marik von Rennenkampff, 'First Peer-Reviewed Scientific Analysis of Possible UAP Materials Employs State-of-the-Art Technologies'",
+"url": "https://thesolfoundation.org/wp-content/uploads/2026/04/Sol_Policy_Briefing_Number_3-1.pdf"
+}
+],
+"tier": "B",
+"type": "investigative"
+},
+{
+"claimTier": 2,
+"cls": "document",
+"dateEnd": null,
+"dateStart": "1967",
+"direction": "out",
+"edgeLabel": "Discovered the memorandum in 1967 among Hynek's papers and named its author 'Pentacle'",
+"id": "pentacle-memorandum",
+"l0": false,
+"label": "The Pentacle Memorandum",
+"note": "Journal entry 18 June 1967; published in Forbidden Science (1992). H. C. Cross was later identified as the author.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "CUFON",
+"url": "https://www.cufon.org/cufon/pentacle.htm"
+}
+],
+"tier": "B",
+"type": "investigative"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2010",
+"dateStart": "1996",
+"direction": "out",
+"edgeLabel": "NIDS consultant and Bigelow Aerospace scientific advisory board member",
+"id": "robert-bigelow",
+"l0": false,
+"label": "Robert T. Bigelow",
+"note": "Vallee's advisory position places the keeper of the largest private materials collection inside the Bigelow ecosystem that produced BAASS and the AAWSAP contract.",
+"sources": [
+{
+"date": "2022-01-01",
+"name": "Nolan, Vallee, Jiang & Lemke, 'Improved instrumental techniques, including isotopic analysis, applicable to the characterization of unusual materials with potential relevance to aerospace forensics', Progress in Aerospace Sciences 128:100788",
+"url": "https://doi.org/10.1016/j.paerosci.2021.100788"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "2026",
+"dateStart": "2022",
+"direction": "in",
+"edgeLabel": "Vallee is Emeritus Advisor",
+"id": "sol-foundation",
+"l0": true,
+"label": "The Sol Foundation",
+"note": "Named on the Sol Foundation People page.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "The Sol Foundation - People",
+"url": "https://thesolfoundation.org/people/"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "1988-07",
+"dateStart": "1988-07",
+"direction": "in",
+"edgeLabel": "Hollanda showed the operation's photographs and trajectory analyses to Vallee",
+"id": "uyrange-hollanda",
+"l0": false,
+"label": "Capitão Uyrangê Bolívar Soares Nogueira de Hollanda Lima",
+"note": "The 1988 Belém meeting places Hollanda, nine years before his 1997 public account and his death, giving a serving officer's access to the Prato file to the researcher who would later design the CAPELLA data warehouse for a DIA-funded programme. Tier 2 on the same diary sourcing. Flag for the audit: this pass found no support for any claim that the 2009 BAASS teams met Hollanda, and his 1997 death makes it impossible — Basterfield's account names only Ademar Gevaerd and Helio Loyola as the BAASS teams' Brazilian contacts.",
+"sources": [
+{
+"date": null,
+"name": "Jacques Vallee, 'Forbidden Science Volume Three' (diary of the July 1988 Brazil trip), quoted in Basterfield, 'Investigative adventures in Brazil'",
+"url": ""
+},
+{
+"date": null,
+"name": "Keith Basterfield, 'Investigative adventures in Brazil', Unidentified Anomalous Phenomena – scientific research, 22 July 2024, with update of 16 February 2025 — https://ufos-scientificresearch.blogspot.com/2024/07/investigative-adventures-in-brazil.html",
+"url": ""
+},
+{
+"date": "2026-01-01",
+"name": "Operação Prato - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Prato"
+}
+],
+"tier": "B",
+"type": "witness-chain"
+}
+],
+"date": "1995-01-01",
+"dateEnd": null,
+"dateStart": "1995-01-01",
+"deg": 9,
+"denials": [],
+"domains": [
+"history-1970s-2000s",
+"scientists-technical"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "1",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "jacques-vallee",
+"instId": "nids",
+"l0": false,
+"label": "Jacques F. Vallee",
+"loc": "San Francisco, CA",
+"locId": "l-sri",
+"members": null,
+"narrative": "Vallee is the provenance chain. Where Nolan brought the instruments, Vallee brought the samples and, crucially, the fifty-year paper trail attached to them. Trained in mathematics at Paris (1959) and astrophysics at Lille (1961), with a Northwestern PhD (1967), he joined Douglas Engelbart's Augmentation Research Center at SRI International in 1971 - the same institution and period as Puthoff's psychoenergetics work - and succeeded Paul Baran as principal investigator on the NSF computer-networking project, building PLANET, one of the first ARPANET conferencing systems. He then spent 1987-2010 as a Silicon Valley general partner. Across all of it he assembled a physical collection of alleged UAP-associated materials with documented case files: the 1957 Ubatuba magnesium fragments, the 1977 Council Bluffs molten mass, and the 1945 San Antonio, New Mexico 'Trinity' case material he wrote up with Paola Harris in 2021. He was a consultant to Robert Bigelow's National Institute for Discovery Science and a member of the Bigelow Aerospace scientific advisory board, which puts him inside the same Bigelow ecosystem that produced BAASS and the AAWSAP contract. His 2022 collaboration with Nolan is the moment the collection met modern instrumentation. The custody problem here is honest and stated: Vallee's samples come with newspaper reporting, police photographs, fire-department accounts and witness interviews - a civil chain, not a federal one - and that is exactly why the government-held material remains the missing term. His lifetime archive went to the Archives of the Impossible at Rice University, with embargoes running to 2028-2031: a dark segment with a published end date.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Jacques F. Vallee",
+"sources": [
+{
+"date": "2025-10-25",
+"name": "American Alchemy with Jesse Michels, 'Top Astronomer: I Found 100,000 UFOs Above Earth! (ft. Beatriz Villarroel)' (episode audio)",
+"url": "https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL1307454785.mp3?updated=1761413167"
+},
+{
+"date": "1998-08-10",
+"name": "Zack Van Eyck, 'Private UFO study takes a public turn', Deseret News",
+"url": "https://www.deseret.com/1998/8/10/19395824/private-ufo-study-takes-a-public-turn"
+},
+{
+"date": "2021-05-10",
+"name": "Gideon Lewis-Kraus, 'How the Pentagon Started Taking U.F.O.s Seriously', The New Yorker",
+"url": "https://www.newyorker.com/magazine/2021/05/10/how-the-pentagon-started-taking-ufos-seriously"
+},
+{
+"date": "2020-12-16",
+"name": "The Stargate Collection - CIA Program on Remote Viewing",
+"url": "https://www.theblackvault.com/documentarchive/the-stargate-collection/"
+},
+{
+"date": "2026-08-12",
+"name": "Wikipedia: Jacques Vallee",
+"url": "https://en.wikipedia.org/wiki/Jacques_Vall%C3%A9e"
+},
+{
+"date": "2022-01-01",
+"name": "Nolan, Vallee, Jiang & Lemke, 'Improved instrumental techniques, including isotopic analysis, applicable to the characterization of unusual materials with potential relevance to aerospace forensics', Progress in Aerospace Sciences 128:100788",
+"url": "https://doi.org/10.1016/j.paerosci.2021.100788"
+},
+{
+"date": "2026-04-01",
+"name": "The Sol Foundation Science and Policy Briefings No. 3, Marik von Rennenkampff, 'First Peer-Reviewed Scientific Analysis of Possible UAP Materials Employs State-of-the-Art Technologies'",
+"url": "https://thesolfoundation.org/wp-content/uploads/2026/04/Sol_Policy_Briefing_Number_3-1.pdf"
+},
+{
+"date": "2026-08-12",
+"name": "Richard Warner, 'Close Encounter at Big Lake Park', Historical Society of Pottawattamie County",
+"url": "https://www.thehistoricalsociety.org/h/ufo.html"
+}
+],
+"status": "active",
+"sub": "Computer scientist and venture capitalist; ARPANET engineer; NIDS advisory board; materials-analysis researcher",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 177 of 1027, score 45). 9 connections, 2 of them custody/witness/funding/programmatic. Axes C2/A1/D2.",
+"timeline": [],
+"unexplainedResidual": null,
+"unverified": [
+"The full inventory of Vallee's materials collection and which items have documented custody back to the incident.",
+"The contents of the Rice University Archives of the Impossible material under embargo to 2028-2031."
+]
+}

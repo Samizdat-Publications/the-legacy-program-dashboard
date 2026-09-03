@@ -1,0 +1,139 @@
+{
+"A": 0,
+"C": 0,
+"D": 3,
+"band": null,
+"claims": [
+{
+"source": "DoD statement on release of historical Navy videos",
+"text": "The Department of Defense formally released three declassified Navy videos (FLIR1, GOFAST, GIMBAL) on 27 April 2020 in an official statement.",
+"tier": 1
+},
+{
+"source": "House Oversight Committee witness statements",
+"text": "David Fravor and Ryan Graves submitted written statements to the House Oversight Committee for the 26 July 2023 hearing.",
+"tier": 1
+},
+{
+"source": "House Oversight Committee hearing page",
+"text": "The House Oversight Committee held 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection' on 9 September 2025.",
+"tier": 1
+},
+{
+"source": "NewsTalk KZRG, 23 July 2026",
+"text": "In July 2026 the House approved a Burlison amendment creating a framework for UAP records disclosure.",
+"tier": 2
+}
+],
+"cls": "domain",
+"cluster": "other",
+"connections": [
+{
+"claimTier": 1,
+"cls": "domain",
+"dateEnd": null,
+"dateStart": "1977-05-01",
+"direction": "in",
+"edgeLabel": "Comparative disclosure as leverage",
+"id": "d-international",
+"l0": false,
+"label": "International & Allied Programs",
+"note": "GEIPAN's published classification scheme and open case archive establish that an acknowledged state programme is possible, shifting the burden onto the concealment argument.",
+"sources": [
+{
+"date": "2026-03-31",
+"name": "GEIPAN - Classification",
+"url": "https://www.geipan.fr/fr/node/58787"
+}
+],
+"tier": "C",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "domain",
+"dateEnd": null,
+"dateStart": "2017-12-16",
+"direction": "in",
+"edgeLabel": "The movement's only binding lever",
+"id": "d-oversight",
+"l0": false,
+"label": "Congressional Oversight",
+"note": "Every enacted transparency provision came through committee process; the disclosure movement's instruments are procedural because the substantive question cannot be reached.",
+"sources": [
+{
+"date": "2023-12-22",
+"name": "NDAA FY2024 (P.L. 118-31)",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm"
+},
+{
+"date": "2025-09-09",
+"name": "House Oversight - Restoring Public Trust Through UAP Transparency and Whistleblower Protection",
+"url": "https://oversight.house.gov/hearing/restoring-public-trust-through-uap-transparency-and-whistleblower-protection/"
+}
+],
+"tier": "B",
+"type": "legislative"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "1969-12-17",
+"deg": 2,
+"denials": [],
+"desc": "Disclosure is not a wish on this board; it is a campaign with identifiable phases, organisations and instruments. The modern phase begins with the December 2017 New York Times report on the Advanced Aerospace Threat Identification Program, runs through the Department of Defense's own release of three Navy videos on 27 April 2020, the June 2021 ODNI preliminary assessment, the July 2023 House Oversight hearing at which David Grusch, David Fravor and Ryan Graves testified under oath, and into a 2025-2026 phase characterised by whistleblower-protection legislation and records-release amendments rather than by revelation. The movement's distinctive feature is that it is coalitional and cross-partisan by necessity - its instruments are procedural (records law, IG complaints, hearing subpoenas, appropriations riders) because the substantive question is precisely the one it cannot get answered. Its documented achievements are the AARO statutory mandate, the NARA records collection, and a permanent shift in what an active-duty officer may say publicly without ending a career. Scoring high on this domain - the D axis - measures centrality to forcing the record open, and it is the one axis on which a person with no access at all can score three.",
+"domains": [
+"_rs-archive-mirror",
+"w2-taxonomy"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "d-disclosure",
+"l0": false,
+"label": "Disclosure Movement",
+"locLabel": null,
+"members": null,
+"short": "Disclosure Movement",
+"sources": [
+{
+"date": "2026-08-02",
+"name": "Archived: DoD statement on release of historical Navy videos (Wayback 2026-08-02)",
+"url": "https://web.archive.org/web/20260802200608/https://www.war.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/"
+},
+{
+"date": "2020-04-27",
+"name": "DoD statement on release of historical Navy videos",
+"url": "https://www.war.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/"
+},
+{
+"date": "2023-07-26",
+"name": "David Fravor, statement for House Oversight Committee",
+"url": "https://oversight.house.gov/wp-content/uploads/2023/07/David-Fravor-Statement-for-House-Oversight-Committee.pdf"
+},
+{
+"date": "2023-07-26",
+"name": "Ryan Graves, written testimony, House Oversight",
+"url": "https://oversight.house.gov/wp-content/uploads/2023/07/Ryan-HOC-Testimony.pdf"
+},
+{
+"date": "2025-09-09",
+"name": "House Oversight Committee hearing - Restoring Public Trust Through UAP Transparency and Whistleblower Protection",
+"url": "https://oversight.house.gov/hearing/restoring-public-trust-through-uap-transparency-and-whistleblower-protection/"
+},
+{
+"date": "2026-07-23",
+"name": "NewsTalk KZRG - House approves Burlison amendment creating framework for UAP records disclosure",
+"url": "https://www.newstalkkzrg.com/2026/07/23/house-approves-burlison-amendment-creating-framework-for-uap-records-disclosure/"
+}
+],
+"sub": "Political domain - the organised effort to force the record open, 1969 to the present",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 776 of 1027, score 19). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.",
+"timeline": []
+}

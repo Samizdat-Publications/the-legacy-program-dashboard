@@ -1,0 +1,159 @@
+{
+"A": 1,
+"C": 1,
+"D": 3,
+"band": null,
+"claims": [
+{
+"source": "Fox News, 10 June 2026, reporting the 9 June 2026 Capitol press conference",
+"text": "Grusch: 'During my investigation, I found slush funds to the tune of billions of dollars per annum for these activities,' and 'This is also a real fraud, waste and abuse issue.'",
+"tier": 2
+},
+{
+"source": "NewsNation coverage of the 9 June 2026 press conference",
+"text": "Grusch stated the US government is aware of several kinds of non-human intelligence and called for declassification including records on the 1996 Varginha incident.",
+"tier": 2
+},
+{
+"source": "Fox News, 10 June 2026",
+"text": "Grusch accused the Defense Intelligence Agency of obstructing congressional oversight by withholding documents.",
+"tier": 2
+}
+],
+"cls": "event",
+"cluster": "oversight",
+"connections": [
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2026",
+"dateStart": "2026",
+"direction": "in",
+"edgeLabel": "Escalates from concealment to fraud: 'slush funds to the tune of billions of dollars per annum'",
+"id": "david-grusch",
+"l0": false,
+"label": "David Charles Grusch",
+"note": "At the Capitol press conference Grusch reframed the matter as fraud, waste and abuse, accused DIA of obstructing oversight, and said the government is aware of several kinds of non-human intelligence. Framed beforehand as 'moving from testimony to action.'",
+"sources": [
+{
+"date": "2026-06-10",
+"name": "Fox News - UAP whistleblower David Grusch accuses agencies of hiding billions",
+"url": "https://www.foxnews.com/politics/ufo-whistleblower-claims-billions-secret-spending-hidden-from-congress"
+},
+{
+"date": "2026-06-09",
+"name": "Los Angeles Magazine",
+"url": "https://lamag.com/politics/ufo-whistleblower-david-grusch-returns-to-capitol-hill-tuesday/"
+}
+],
+"tier": "A",
+"type": "witness-chain"
+},
+{
+"claimTier": 2,
+"cls": "institution",
+"dateEnd": "2026",
+"dateStart": "2026",
+"direction": "in",
+"edgeLabel": "Hosted the press conference",
+"id": "task-force-declassification",
+"l0": false,
+"label": "House Task Force on the Declassification of Federal Secrets",
+"note": "The Task Force staged the event on the Capitol steps with Luna, Burchett, Burlison and Moskowitz to pressure the White House to convert the February 2026 declassification announcement into actual releases.",
+"sources": [
+{
+"date": "2026-06-10",
+"name": "Fox News",
+"url": "https://www.foxnews.com/politics/ufo-whistleblower-claims-billions-secret-spending-hidden-from-congress"
+},
+{
+"date": "2026-06-09",
+"name": "Los Angeles Magazine",
+"url": "https://lamag.com/politics/ufo-whistleblower-david-grusch-returns-to-capitol-hill-tuesday/"
+}
+],
+"tier": "C",
+"type": "legislative"
+},
+{
+"claimTier": 2,
+"cls": "document",
+"dateEnd": "2026",
+"dateStart": "2026",
+"direction": "in",
+"edgeLabel": "February announcement produced the June pressure campaign",
+"id": "trump-uap-declass-directive-2026",
+"l0": false,
+"label": "Presidential directive to identify and release UAP and extraterrestrial files",
+"note": "Grusch's framing was explicit: the President 'now has an historic opportunity; this press conference is about moving from testimony to action.' The event exists because the directive had not yet produced releases.",
+"sources": [
+{
+"date": "2026-06-09",
+"name": "Los Angeles Magazine",
+"url": "https://lamag.com/politics/ufo-whistleblower-david-grusch-returns-to-capitol-hill-tuesday/"
+},
+{
+"date": "2026-02-20",
+"name": "Al Jazeera - Trump orders Pentagon, federal agencies to release files on UFOs and aliens",
+"url": "https://aljazeera.com/news/2026/2/20/trump-orders-pentagon-federal-agencies-to-release-files-on-ufos-and-aliens"
+}
+],
+"tier": "C",
+"type": "temporal"
+}
+],
+"coords": null,
+"dateEnd": "2026",
+"dateStart": "2026",
+"deg": 3,
+"denials": [],
+"desc": "The event at which Grusch escalated from the concealment allegation to a fraud allegation. Hosted by the House Task Force on the Declassification of Federal Secrets on the Capitol steps with Reps. Luna, Burchett, Burlison and Moskowitz, and staged to pressure the White House to convert the February 2026 declassification announcement into actual releases. Grusch's framing beforehand: 'President Trump now has an historic opportunity; this press conference is about moving from testimony to action. Let the American people judge the facts for themselves.' From the podium he said he had found 'slush funds to the tune of billions of dollars per annum for these activities' and that 'this is also a real fraud, waste and abuse issue'; he accused the Defense Intelligence Agency of obstructing congressional oversight by withholding documents; and he stated that the US government is aware of several kinds of non-human intelligence, ranging in complexity. The demands were specific: immunity for whistleblowers, waiver of nondisclosure agreements, release of records on alleged encounters with non-human beings, and declassification of US records on the 1996 Varginha incident in Brazil. Burlison: 'There must be real penalties for officials who knowingly withhold information from Congress.' Moskowitz: 'There's trillions of dollars missing at the Pentagon. Where does that money go?'",
+"domains": [
+"grusch"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "press-conf-2026-06-09",
+"l0": false,
+"label": "Capitol UAP Disclosure Press Conference",
+"locLabel": null,
+"members": null,
+"short": "Capitol UAP Disclosure Press Conference",
+"sources": [
+{
+"date": "2026-06-10",
+"name": "Fox News - UAP whistleblower David Grusch accuses agencies of hiding billions",
+"url": "https://www.foxnews.com/politics/ufo-whistleblower-claims-billions-secret-spending-hidden-from-congress"
+},
+{
+"date": "2026-06-09",
+"name": "Los Angeles Magazine - UFO Whistleblower David Grusch Returns to Capitol Hill",
+"url": "https://lamag.com/politics/ufo-whistleblower-david-grusch-returns-to-capitol-hill-tuesday/"
+},
+{
+"date": "2026-06-10",
+"name": "NewsNation - UFO whistleblower David Grusch says government aware of several kinds of aliens",
+"url": "https://www.newsnationnow.com/space/ufo/ufo-whistleblower-david-grusch-declassified-uap-files/"
+}
+],
+"sub": "US Capitol steps, 9-10 June 2026",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 617 of 1027, score 25). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A1/D3.",
+"timeline": [
+{
+"date": "2026-06-09",
+"id": "g-tl-2026-06-presser",
+"label": "Capitol press conference: slush funds and several kinds of NHI",
+"precision": "day",
+"strand": "witness",
+"text": "Grusch alleges slush funds of billions of dollars per annum, calls it a fraud, waste and abuse issue, accuses DIA of withholding documents, and says the government is aware of several kinds of non-human intelligence. Luna, Burchett, Burlison and Moskowitz appear with him.",
+"tier": "B"
+}
+]
+}

@@ -1,0 +1,138 @@
+{
+"A": 1,
+"C": 0,
+"D": 3,
+"affiliations": [],
+"age": null,
+"band": null,
+"chronology": [],
+"claims": [
+{
+"source": "https://irp.fas.org/dia/aatip-list.pdf",
+"text": "The DIA letter of 9 January 2018 to the Senate Armed Services Committee lists entry 7 as 'Invisibility Cloaking, Dr Ulf Leonhardt, Univ of St Andrews.'",
+"tier": 1
+},
+{
+"source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_07-DIRD_Invisibility_Cloaking-Theory_and_Experiments.pdf",
+"text": "The released DIRD bears document number DIA-08-1003-001, publication date 2 March 2010 and Intelligence Cut-Off Date 1 December 2009 - the lowest document number in the released set.",
+"tier": 1
+},
+{
+"source": "https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk",
+"text": "The War Zone's audit of the DIRD list, which called several deliverables junk science, identified Leonhardt as a genuine expert whose work 'is grounded in real science to do with quantum physics and the behavior of light.'",
+"tier": 1
+},
+{
+"source": "https://silvarecord.com/2019/01/17/38th-dird-title-surfaces-with-letter-addressed-to-mccain-armed-services-committee/",
+"text": "Puthoff, describing the commission at the June 2018 Society for Scientific Exploration conference, named 'invisibility cloaking' among the papers he let contracts for.",
+"tier": 1
+}
+],
+"cls": "person",
+"cluster": "research",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "authored by Ulf Leonhardt, University of St Andrews",
+"id": "dird-invisibility-cloaking-theory-and-experiments",
+"l0": false,
+"label": "Invisibility Cloaking: Theory and Experiments",
+"note": "The DIA list of 9 January 2018 records 'Invisibility Cloaking, Dr Ulf Leonhardt, Univ of St Andrews.' The released PDF's author block is redacted under (b)(6). Leonhardt had been publishing on transformation optics and cloaking since 2006 and was, by the ICOD of 1 December 2009, one of the small number of internationally recognised authorities in the field. George Knapp released a copy of the DIRD in February 2019.",
+"sources": [
+{
+"date": "2026-08-22",
+"name": "Released DIRD, 'Invisibility Cloaking: Theory and Experiments' — FOIA copy, cover page read 22 August 2026",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_07-DIRD_Invisibility_Cloaking-Theory_and_Experiments.pdf"
+},
+{
+"date": "2026-08-22",
+"name": "DIA FOIA Electronic Reading Room entry for this reference document",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237639/"
+},
+{
+"date": "2026-08-23",
+"name": "DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations",
+"url": "https://fas.org/publication/aatip-list/"
+},
+{
+"date": null,
+"name": "https://irp.fas.org/dia/aatip-list.pdf",
+"url": "https://irp.fas.org/dia/aatip-list.pdf"
+},
+{
+"date": null,
+"name": "https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk",
+"url": "https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk"
+}
+],
+"tier": "B",
+"type": "research"
+}
+],
+"date": "2010-03-02",
+"dateEnd": null,
+"dateStart": "2010-03-02",
+"deg": 1,
+"denials": [],
+"domains": [
+"w7-dirds-2"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "2",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "ulf-leonhardt",
+"instId": null,
+"l0": false,
+"label": "Ulf Leonhardt",
+"loc": null,
+"locId": null,
+"members": null,
+"narrative": "Leonhardt wrote the lowest-numbered DIRD in the released set. The cover page of 'Invisibility Cloaking: Theory and Experiments' carries DIA-08-1003-001, publication date 2 March 2010 and an Intelligence Cut-Off Date of 1 December 2009 - the first document out of the FY2009 'Acquisition Threat Support' pipeline. Entry 7 on the DIA list to the Senate Armed Services Committee reads 'Invisibility Cloaking, Dr Ulf Leonhardt, Univ of St Andrews.' He is the one AAWSAP author whom even the programme's harshest mainstream critic treated as unimpeachable: The War Zone's January 2019 audit of the list, which characterised several of the deliverables as junk science, singled Leonhardt out as a case where the title 'may sound particularly fanciful' but the work 'is grounded in real science to do with quantum physics and the behavior of light.' Leonhardt had been publishing on transformation optics and cloaking since 2006 and was, by 2009, one of two or three names internationally associated with the field. His presence is evidence for the interpretation that AAWSAP's commissioning was not indiscriminate. It also positions the cloaking paper as the signature-reduction leg of the survey. Puthoff's Broad Area Announcement account lists the twelve threat areas DIA wanted evaluated as including 'lift, propulsion, signature reduction, human effects and so on', and named invisibility cloaking explicitly among the papers he commissioned. The DIRD is therefore the direct answer to the signature-reduction question: if an object is observed on some sensors and not others, what does the physics of cloaking say about how that could be engineered, and where would it be by 2050. Knapp released a copy in February 2019, making it the fourth DIRD to reach the public before the March 2022 bulk FOIA release.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Ulf Leonhardt",
+"sources": [
+{
+"date": null,
+"name": "https://irp.fas.org/dia/aatip-list.pdf",
+"url": "https://irp.fas.org/dia/aatip-list.pdf"
+},
+{
+"date": null,
+"name": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html",
+"url": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html"
+},
+{
+"date": null,
+"name": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_07-DIRD_Invisibility_Cloaking-Theory_and_Experiments.pdf",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_07-DIRD_Invisibility_Cloaking-Theory_and_Experiments.pdf"
+},
+{
+"date": null,
+"name": "https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk",
+"url": "https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk"
+},
+{
+"date": null,
+"name": "https://silvarecord.com/2019/01/17/38th-dird-title-surfaces-with-letter-addressed-to-mccain-armed-services-committee/",
+"url": "https://silvarecord.com/2019/01/17/38th-dird-title-surfaces-with-letter-addressed-to-mccain-armed-services-committee/"
+}
+],
+"status": "active",
+"sub": "Theoretical physicist, University of St Andrews; author, DIRD 'Invisibility Cloaking: Theory and Experiments' (DIA-08-1003-001)",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 699 of 1027, score 22). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D3.",
+"timeline": [],
+"unexplainedResidual": null,
+"unverified": []
+}

@@ -1,0 +1,662 @@
+{
+"A": 3,
+"C": 2,
+"D": 2,
+"affiliations": [
+"Central Intelligence Agency, Office of Scientific Intelligence (1969-1985)",
+"Wayne State University School of Medicine (1990s-present)",
+"National Institute for Discovery Science science advisory board",
+"AAWSAP/AATIP DIRD author (2008-2010)",
+"Central Intelligence Agency, Office of Scientific Intelligence / Life Sciences Division (1969-1985)",
+"General Motors (1985-2000s)",
+"Wayne State University School of Medicine",
+"Consultant, BAASS/AAWSAP-era human-effects work",
+"Central Intelligence Agency, Directorate of Science and Technology (1969-1985)",
+"To The Stars Academy of Arts and Science, advisor",
+"Central Intelligence Agency, Office of Scientific Intelligence, Life Sciences Division (1969-1985)",
+"Wayne State University School of Medicine, Departments of Diagnostic Radiology and Psychiatry & Behavioral Neurosciences",
+"Institute for Advanced Studies at Austin / AAWSAP DIRD author (2009-2010)"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "1969",
+"event": "Joins CIA's Directorate of Science and Technology; later handles the anomalous phenomena and parapsychology portfolio",
+"precision": "year"
+},
+{
+"date": "1969",
+"event": "Joins CIA; over sixteen years handles life-sciences analysis in the Office of Scientific Intelligence, including oversight of the SRI psychoenergetics work.",
+"precision": "year"
+},
+{
+"date": "1969-01-01",
+"event": "Joins CIA Office of Scientific Intelligence",
+"precision": "year"
+},
+{
+"date": "1969-01-01",
+"event": "Joins CIA; assigned to the Office of Scientific Intelligence.",
+"precision": "year"
+},
+{
+"date": "1972-01-01",
+"event": "Becomes CIA's monitor for the SRI psychoenergetics/remote-viewing research.",
+"precision": "year"
+},
+{
+"date": "1985-01-01",
+"event": "Leaves CIA for private industry.",
+"precision": "year"
+},
+{
+"date": "2002-10-16",
+"event": "Named in the Wilson-Davis memo as a party in the surrounding correspondence",
+"precision": "day"
+},
+{
+"date": "2007-11-01",
+"event": "Proposal 'to Analyze Probable ET Generated Specific Near-field Electromagnetic Emissions' addressed to Puthoff/Hathaway, later quoted in the preface of Green's DIRD.",
+"precision": "month"
+},
+{
+"date": "2008-01-01",
+"event": "Associated with human-effects medical casework in the DIA-funded advanced aerospace threat effort.",
+"precision": "year"
+},
+{
+"date": "2009-01-01",
+"event": "Produces the AAWSAP medical DIRD under the imprint of the Institute for Advanced Studies at Austin.",
+"precision": "year"
+},
+{
+"date": "2010-01-01",
+"event": "Delivers 'Anomalous Acute and Subacute Field Effects on Human Biological Tissues' as an AAWSAP DIRD",
+"precision": "year"
+},
+{
+"date": "2017-10-11",
+"event": "Associated with To The Stars Academy as an adviser at its public launch",
+"precision": "day"
+},
+{
+"date": "2018-01-09",
+"event": "Title transmitted to the Senate Armed Services Committee as item 12, 'Field Effects on Biological Tissues'",
+"precision": "day"
+},
+{
+"date": "2019",
+"event": "The Wilson-Davis pages enter public circulation from his files",
+"precision": "year"
+},
+{
+"date": "2020-02-14",
+"event": "Popular Mechanics publishes the DIRD; Green describes it as 'focused on forensically assessing accounts of injuries that could have resulted from claimed encounters with UAP'.",
+"precision": "day"
+}
+],
+"claims": [
+{
+"source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237654/",
+"text": "DIRD 'Anomalous Acute and Subacute Field Effects on Human Biological Tissues', Acquisition Threat Support series, 11 March 2010, ICOD 1 December 2009, 38 pages, exists in the DIA FOIA release. No DIA document number is printed on the released cover page and the author is withheld under (b)(6).",
+"tier": 1
+},
+{
+"source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237617/",
+"text": "DIA Info Memo U-429-09 Enclosure 1 lists this study among the 26 FY2009 technical reports under the working title 'Field Effects on Biological Tissues'.",
+"tier": 1
+},
+{
+"source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237617/",
+"text": "Attribution to Dr. Christopher 'Kit' Green is not established by the DIA release (author redacted). Two of the DIRD peer reviews quoted in U-429-09 are written in a distinctly medical/intelligence register (BioMEMS, materials 'reverse engineer[ing]'), consistent with a reviewer of that background, but the reviewer names are also redacted. Wave-4 item.",
+"tier": 3
+},
+{
+"source": "DIA letter to SASC, 9 January 2018, item 12; DIA FOIA release DIRD 26",
+"text": "Green authored the AAWSAP DIRD listed to Congress as 'Field Effects on Biological Tissues' and released as 'Anomalous Acute and Subacute Field Effects on Human Biological Tissues'.",
+"tier": 1
+},
+{
+"source": "Green interviews and public remarks, 2017-2023",
+"text": "Green maintains a clinical case series of patients with unexplained injuries he associates with proximity to the phenomenon, drawn substantially from military and intelligence personnel.",
+"tier": 2
+},
+{
+"source": "Inference from the DIRD's inclusion in a threat-assessment contract and Green's prior CIA role at the same intersection",
+"text": "The commissioning of a human-injury paper inside an aerospace weapons study indicates the sponsors already possessed a body of injury cases needing a scientific frame, rather than that they were speculating about a hypothetical hazard.",
+"tier": 3
+},
+{
+"source": "Christopher Green, repeated on-record interviews and public statements",
+"text": "Green has stated that during his CIA service he was the officer to whom UFO and anomalous-phenomena reporting was routed within the Office of Scientific Intelligence.",
+"tier": 2
+},
+{
+"source": "Inference from his documented CIA OSI role, his monitoring of the SRI programme, and his named participation in later human-effects work.",
+"text": "Green is the principal living link between the CIA's 1970s anomalous-phenomena portfolio and the DIA-funded 2008-2012 human-effects casework, giving one clearance history continuity across the programme's institutional relocations.",
+"tier": 3
+},
+{
+"source": "Contemporaneous reporting on the memo's release, 2019; Green has acknowledged documents left his possession without vouching for their contents",
+"text": "The Wilson-Davis memorandum entered public circulation from Green's document holdings.",
+"tier": 2
+},
+{
+"source": "Board inference from his documented DS&T tenure",
+"text": "Green's CIA DS&T portfolio placed him at the point where Agency interest in exotic material intersected the contractor world. Reasoning: his documented DS&T role covered anomalous phenomena and the Agency's contracted parapsychology research, but no released document ties him to material custody.",
+"tier": 3
+},
+{
+"source": "'Clinical Medical Acute & Subacute Field Effects on Human Dermal & Neurological Tissues', cover and Preface",
+"text": "Green's AAWSAP DIRD carries the cover imprint 'Institute for Advanced Studies at Austin' and states as Hypothesis One that 'sufficient evidence exists from human injury / effects to reverse engineer certain aspects of the Energy / Propulsion Systems'.",
+"tier": 1
+},
+{
+"source": "Preface of the Green DIRD",
+"text": "The DIRD's preface quotes a November 2007 proposal addressed to Puthoff/Hathaway stating that 'certain characteristics of the fields associated with exotic propulsion can with near certainty be gleaned from archival records of their effects on human physiology' and proposing outsourcing of the medical analysis.",
+"tier": 1
+},
+{
+"source": "Executive Summary of the Green DIRD",
+"text": "The DIRD's executive summary asserts that reported incidents and acquired medical data 'support a hypothesis that some advanced systems are already deployed, and opaque to full US Intelligence understanding'.",
+"tier": 1
+},
+{
+"source": "Contents and body of the Green DIRD",
+"text": "The document draws on 42 relevant cases from the peer-reviewed medical literature plus roughly 300 unpublished cases, and includes appendices titled 'Schuessler Catalog', 'Green Morris Cases' and 'Green-Morris ICD Diagnostics'.",
+"tier": 1
+},
+{
+"source": "Christopher Green to Tim McMillan, Popular Mechanics, 14 February 2020",
+"text": "Green described the paper as 'focused on forensically assessing accounts of injuries that could have resulted from claimed encounters with UAP'.",
+"tier": 2
+},
+{
+"source": "Wayne State University School of Medicine News, 2 April 2009 https://today.wayne.edu/medicine/news/2009/04/02/chinese-academy-of-sciences-apppoints-dr-green-as-professor-25373",
+"text": "Wayne State University School of Medicine states: 'Prior to his current assignment, Dr. Green served as the executive director of the Emergent Technology Research Division in the Departments of Psychiatry and Behavioral Neurosciences, and Diagnostic Radiology, where he is an adjunct professor and Fellow in Clinical Neuroimaging.' The title was executive director, and as of 2 April 2009 he had already left it.",
+"tier": 2
+},
+{
+"source": "Wayne State University School of Medicine News, 2 April 2009 https://today.wayne.edu/medicine/news/2009/04/02/chinese-academy-of-sciences-apppoints-dr-green-as-professor-25373",
+"text": "The same item gives Green's role at that date as 'assistant dean for China/Asia-Pacific for the Wayne State University School of Medicine', and records his appointment as a professor of the Chinese Academy of Sciences, sponsored by its Institute of Biophysics, the location of the clinical Brain and Imaging MRI Center of Excellence in Beijing.",
+"tier": 2
+}
+],
+"cls": "person",
+"cluster": "other",
+"conflicts": [
+"CIA's own 1997 published history of its UFO role does not name Green or describe any post-1970s UFO portfolio.",
+"Green has given differing accounts over time of how much of the Wilson-Davis material he held and how it was released."
+],
+"connections": [
+{
+"claimTier": 2,
+"cls": "institution",
+"dateEnd": "2026-08-21",
+"dateStart": "2026-08-21",
+"direction": "in",
+"edgeLabel": "Doty places Green at the Institute, then corrects himself within the same passage",
+"id": "armed-forces-institute-of-pathology",
+"l0": false,
+"label": "Armed Forces Institute of Pathology",
+"note": "Richard Doty places Green at the Institute on 21 August 2026 at 3:21:29, a Tier 2 claim that no opened Institute record corroborates or refutes.",
+"sources": [
+{
+"date": "2026-08-21",
+"name": "DEBRIEFED with Chris Ramsay, 'Former Counterintelligence Agent Shares Wild Alien Encounters - Richard Doty', 21 August 2026, 3:21:29",
+"url": ""
+}
+],
+"tier": "B",
+"type": "witness-chain"
+},
+{
+"claimTier": 2,
+"cls": "institution",
+"dateEnd": "1985",
+"dateStart": "1969",
+"direction": "out",
+"edgeLabel": "Life Sciences Division, Office of Scientific Intelligence",
+"id": "cia",
+"l0": true,
+"label": "Central Intelligence Agency",
+"note": "Green was the agency analyst to whom biological anomalies were routed, including oversight of the SRI remote-viewing work, before writing the AAWSAP injury study two decades later.",
+"sources": [
+{
+"date": "2020-01-01",
+"name": "DIRD 'Clinical Medical Acute & Subacute Field Effects on Human Dermal & Neurological Tissues' (Christopher Green, Institute for Advanced Studies at Austin)",
+"url": "https://www.theblackvault.com/documentarchive/wp-content/uploads/2020/01/kitgreen-dird.pdf"
+},
+{
+"date": "2020-02-14",
+"name": "Tim McMillan, 'Inside the Pentagon's Secret UFO Program', Popular Mechanics",
+"url": "https://www.popularmechanics.com/military/research/a30916275/government-secret-ufo-program-investigation/"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "authored",
+"id": "dird-anomalous-acute-and-subacute-field-effects",
+"l0": false,
+"label": "Anomalous Acute and Subacute Field Effects on Human Biological Tissues",
+"note": "DIA list item 12 names \"Dr Kit Green, Wayne State Univ\", under the shorter title \"Field Effects on Biological Tissues\". The released document's printed title is longer and more specific.",
+"sources": [
+{
+"date": "2026-08-22",
+"name": "Released DIRD, 'Anomalous Acute and Subacute Field Effects on Human Biological Tissues' — FOIA copy, cover page read 22 August 2026",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_26-DIRD_Anomalous_Acute_and_Subacute_Field_Effects_on_Human_Biological_Tissues.pdf"
+},
+{
+"date": "2026-08-22",
+"name": "DIA FOIA Electronic Reading Room entry for this reference document",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237654/"
+},
+{
+"date": "2026-08-23",
+"name": "DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations",
+"url": "https://fas.org/publication/aatip-list/"
+},
+{
+"date": null,
+"name": "https://irp.fas.org/dia/aatip-list.pdf",
+"url": "https://irp.fas.org/dia/aatip-list.pdf"
+}
+],
+"tier": "B",
+"type": "research"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "2010",
+"dateStart": "2009",
+"direction": "out",
+"edgeLabel": "Author of the AAWSAP human-injury reference document",
+"id": "dird-green-clinical-medical",
+"l0": false,
+"label": "DIRD: 'Clinical Medical Acute & Subacute Field Effects on Human Dermal & Neurological Tissues'",
+"note": "Green, a physician-neuroscientist and former CIA life-sciences analyst, wrote the study of injuries attributed to proximity to anomalous craft; released publicly by Popular Mechanics on 14 February 2020.",
+"sources": [
+{
+"date": "2020-01-01",
+"name": "DIRD 'Clinical Medical Acute & Subacute Field Effects on Human Dermal & Neurological Tissues' (Christopher Green, Institute for Advanced Studies at Austin)",
+"url": "https://www.theblackvault.com/documentarchive/wp-content/uploads/2020/01/kitgreen-dird.pdf"
+},
+{
+"date": "2020-02-14",
+"name": "Tim McMillan, 'Inside the Pentagon's Secret UFO Program', Popular Mechanics",
+"url": "https://www.popularmechanics.com/military/research/a30916275/government-secret-ufo-program-investigation/"
+}
+],
+"tier": "B",
+"type": "programmatic"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "2010",
+"dateStart": "2008",
+"direction": "out",
+"edgeLabel": "authored the human biological effects DIRD",
+"id": "dird-series",
+"l0": true,
+"label": "The 38 Defense Intelligence Reference Documents (DIRDs)",
+"note": "Item 12, 'Field Effects on Biological Tissues', released as 'Anomalous Acute and Subacute Field Effects on Human Biological Tissues' — a government document about injuries.",
+"sources": [
+{
+"date": "2010-01-01",
+"name": "DIRD 26",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_26-DIRD_Anomalous_Acute_and_Subacute_Field_Effects_on_Human_Biological_Tissues.pdf"
+}
+],
+"tier": "A",
+"type": "programmatic"
+},
+{
+"claimTier": 3,
+"cls": "person",
+"dateEnd": "2021",
+"dateStart": "2009",
+"direction": "in",
+"edgeLabel": "Same problem, twelve years apart: casualty biology as a route to propulsion characterisation",
+"id": "garry-nolan",
+"l0": false,
+"label": "Garry Nolan",
+"note": "Green's 2009 AAWSAP DIRD set out the hypothesis that human injury data could reverse-engineer aspects of the energy and propulsion systems. Nolan says he was later approached to assess medical harm from anomalous craft. No document connects the two engagements, but they are the same research programme stated twice.",
+"sources": [
+{
+"date": "2020-01-01",
+"name": "DIRD 'Clinical Medical Acute & Subacute Field Effects on Human Dermal & Neurological Tissues' (Christopher Green, Institute for Advanced Studies at Austin)",
+"url": "https://www.theblackvault.com/documentarchive/wp-content/uploads/2020/01/kitgreen-dird.pdf"
+},
+{
+"date": "2021-06-14",
+"name": "Jon Brooks, 'UFOs: SETI Astronomer, Stanford Researcher, Aerospace Expert Weigh In', KQED",
+"url": "https://www.kqed.org/science/1975185/ufos-seti-astronomer-stanford-researcher-aerospace-expert-weigh-in"
+}
+],
+"tier": "A",
+"type": "programmatic"
+},
+{
+"claimTier": 2,
+"cls": "program",
+"dateEnd": "2004",
+"dateStart": "1996",
+"direction": "out",
+"edgeLabel": "NIDS science advisory board before the DIRD",
+"id": "nids",
+"l0": true,
+"label": "National Institute for Discovery Science (NIDS)",
+"note": "Green's human-effects interest predates the federal contract by more than a decade, through Bigelow's private institute.",
+"sources": [
+{
+"date": "2024-01-01",
+"name": "Wikipedia — NIDS",
+"url": "https://en.wikipedia.org/wiki/National_Institute_for_Discovery_Science"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2011-01-01",
+"dateStart": "2009-01-01",
+"direction": "in",
+"edgeLabel": "co-affiliated AAWSAP authors at Wayne State University",
+"id": "richard-genik",
+"l0": false,
+"label": "Richard J. Genik II",
+"note": "The DIA congressional list records Wayne State University as the affiliation for both Genik's deliverables and for Kit Green's human biological tissue field-effects deliverable. This establishes a documented shared institutional affiliation on the same contract, not a documented working relationship — no primary source describing collaboration between them has been located, and the edge should not be read as one.",
+"sources": [
+{
+"date": null,
+"name": "https://irp.fas.org/dia/aatip-list.pdf",
+"url": "https://irp.fas.org/dia/aatip-list.pdf"
+},
+{
+"date": null,
+"name": "https://ufos-scientificresearch.blogspot.com/2018/08/an-analysis-of-that-list-of-aawsapaatip.html",
+"url": "https://ufos-scientificresearch.blogspot.com/2018/08/an-analysis-of-that-list-of-aawsapaatip.html"
+},
+{
+"date": null,
+"name": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html",
+"url": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 2,
+"cls": "institution",
+"dateEnd": "1985",
+"dateStart": "1972",
+"direction": "out",
+"edgeLabel": "Green was CIA's monitor for the SRI psychoenergetics work",
+"id": "sri-international",
+"l0": true,
+"label": "SRI International (Stanford Research Institute)",
+"note": "Green served in CIA's Office of Scientific Intelligence, Life Sciences Division, and has stated he was the officer to whom anomalous-phenomena reporting was routed.",
+"sources": [
+{
+"date": "2020-12-16",
+"name": "The Stargate Collection - CIA Program on Remote Viewing",
+"url": "https://www.theblackvault.com/documentarchive/the-stargate-collection/"
+},
+{
+"date": "1974-10-18",
+"name": "R. Targ & H. Puthoff, 'Information transmission under conditions of sensory shielding', Nature 251, 602-607",
+"url": "https://www.nature.com/articles/251602a0"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 3,
+"cls": "event",
+"dateEnd": "1985",
+"dateStart": "1975",
+"direction": "in",
+"edgeLabel": "Green ran the CIA analytic side of the anomalous-phenomena portfolio",
+"id": "stargate-program",
+"l0": true,
+"label": "STAR GATE and predecessor remote viewing programs, 1970-1995",
+"note": "Green's CIA Life Sciences work on anomalous phenomena is the analytic counterpart to the SRI research, and his later Wayne State position carried the biomedical line into NIDS/BAASS and the modern Stanford circle. Reasoning: continuity of documented affiliations, not of a single programme.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Wikipedia - Stargate Project (U.S. Army unit)",
+"url": "https://en.wikipedia.org/wiki/Stargate_Project_(U.S._Army_unit)"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 3,
+"cls": "institution",
+"dateEnd": "2020",
+"dateStart": "2017",
+"direction": "out",
+"edgeLabel": "Green served as an adviser to TTSA during the period of the material acquisition",
+"id": "ttsa",
+"l0": true,
+"label": "To The Stars Academy of Arts & Science Inc. (later To The Stars Inc.)",
+"note": "Green's association with the company is publicly acknowledged; the board has located no filing specifying his role or duties, and records the connection as an inference from public association rather than a documented officership.",
+"sources": [
+{
+"date": "2026-04-29",
+"name": "SEC EDGAR filing index for To The Stars Inc. (CIK 0001710274)",
+"url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001710274&type=1-K&dateb=&owner=include&count=40"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "Green's academic base for UAP-injury neuroimaging work",
+"id": "wayne-state-university",
+"l0": true,
+"label": "Wayne State University",
+"note": "Wayne State describes him as 'Christopher Green, M.D., Ph.D., F.A.A.F.S., assistant dean for China/Asia-Pacific for the Wayne State University School of Medicine', and in the Departments of Psychiatry and Behavioral Neurosciences and of Diagnostic Radiology as 'an adjunct professor and Fellow in Clinical Neuroimaging'. The same item records that he had been executive director of the Emergent Technology Research Division in those departments. He is the former CIA life sciences analyst whose AAWSAP deliverable covered acute and subacute field effects on human tissue, which is the reason the university appears on this board at all.",
+"sources": [
+{
+"date": "2009-04-02",
+"name": "Wayne State University School of Medicine news, 'Chinese Academy of Sciences appoints Dr. Green as professor', 2 April 2009",
+"url": "https://today.wayne.edu/medicine/news/2009/04/02/chinese-academy-of-sciences-apppoints-dr-green-as-professor-25373"
+},
+{
+"date": null,
+"name": "Wayne State University School of Medicine news, 'Chinese Academy of Sciences appoints Dr. Green as professor,' April 2, 2009 -- https://today.wayne.edu/medicine/news/2009/04/02/chinese-academy-of-sciences-apppoints-dr-green-as-professor-25373",
+"url": ""
+},
+{
+"date": null,
+"name": "Wayne State University, Department of Psychiatry and Behavioral Neurosciences -- https://psychiatry.med.wayne.edu/",
+"url": ""
+},
+{
+"date": null,
+"name": "Bulletin of the Atomic Scientists biography, Christopher Green -- https://thebulletin.org/biography/christopher-green/",
+"url": ""
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 2,
+"cls": "document",
+"dateEnd": "2019",
+"dateStart": "2019",
+"direction": "out",
+"edgeLabel": "The memo pages entered public circulation from Green's document holdings",
+"id": "wilson-davis-memo",
+"l0": true,
+"label": "The Wilson-Davis Notes (16 October 2002)",
+"note": "Green has acknowledged that documents left his possession without vouching for their contents; the provenance chain between 2002 and 2019 has never been established.",
+"sources": [
+{
+"date": "2024-03-08",
+"name": "AARO, 'Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP), Volume I'",
+"url": "https://documents2.theblackvault.com/documents/dod/AARO_Historical_Record_Report_Volume_1_2024.pdf"
+},
+{
+"date": "2026-01-13",
+"name": "Christopher Sharp, 'UFO Allegedly Stored At East Coast Navy Facility As Material Transfer Claims Resurface,' Liberation Times",
+"url": "https://www.liberationtimes.com/home/ufo-allegedly-stored-at-east-coast-navy-facility-as-material-transfer-claims-resurface"
+}
+],
+"tier": "A",
+"type": "custody"
+}
+],
+"date": "2010-01-01",
+"dateEnd": null,
+"dateStart": "2010-01-01",
+"deg": 13,
+"denials": [],
+"domains": [
+"_rs-aawsap-dirds",
+"_rs-archive-mirror",
+"aawsap-aatip",
+"history-1970s-2000s",
+"primes-custody",
+"scientists-technical",
+"w17-wayne-etrd"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "2",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "kit-green",
+"instId": "wayne-state-university",
+"l0": false,
+"label": "Christopher C. 'Kit' Green",
+"loc": "Detroit, MI",
+"locId": "l-detroit",
+"members": null,
+"narrative": "Green is the medical end of the reverse-engineering programme, and his released DIRD is one of the most revealing documents in the entire corpus because of what it takes for granted. A physician-neuroscientist who ran life-sciences analysis for CIA's Office of Scientific Intelligence before moving to General Motors and then Wayne State University, Green was the analyst to whom the intelligence community's biological anomalies were routed - including, in the 1970s, the SRI remote-viewing work. His AAWSAP paper, 'Clinical Medical Acute & Subacute Field Effects on Human Dermal & Neurological Tissues', was released publicly by Popular Mechanics on 14 February 2020, and its cover carries the imprint of Puthoff's Institute for Advanced Studies at Austin. Its preface quotes verbatim from a November 2007 proposal addressed 'to Puthoff/Hathaway' which states the intention plainly: 'certain characteristics of the fields associated with exotic propulsion can with near certainty be gleaned from archival records of their effects on human physiology.' Its Hypothesis One is that 'sufficient evidence exists from human injury / effects to reverse engineer certain aspects of the Energy / Propulsion Systems'. Its executive summary concludes that 'some advanced systems are already deployed, and opaque to full US Intelligence understanding'. It contains a Schuessler catalogue appendix, a 'Green-Morris Cases' appendix, and an ICD-diagnostics appendix built on 42 peer-reviewed cases plus roughly 300 unpublished ones, and it names the Cash-Landrum event. This is a US intelligence contractor document that treats humans injured by unidentified craft as an instrumented dataset for reverse engineering exotic propulsion.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Christopher C. 'Kit' Green",
+"sources": [
+{
+"date": "2010-03-11",
+"name": "DIRD 'Anomalous Acute and Subacute Field Effects on Human Biological Tissues' (DIA FOIA release, author redacted)",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237654/"
+},
+{
+"date": "2009-10-30",
+"name": "DIA Info Memo U-429-09, 'Review of Advanced Aerospace Contract Deliverables', 30 Oct 2009, w/ Enclosure 1 list of 26 FY2009 technical reports (DIA FOIA release)",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237617/"
+},
+{
+"date": "2026-01-28",
+"name": "Archived: DIRD 'Anomalous Acute and Subacute Field Effects on Human Biological Tissues' (DIA FOIA release, author redacted) (Wayback 2026-01-28)",
+"url": "https://web.archive.org/web/20260128102655/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/"
+},
+{
+"date": "2025-05-16",
+"name": "Archived: DIA Info Memo U-429-09, 'Review of Advanced Aerospace Contract Deliverables', 30 Oct 2009, w/ Enclosure 1 list of 26 FY2009 technical reports (DIA FOIA release) (Wayback 2025-05-16)",
+"url": "https://web.archive.org/web/20250516033517/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170060/"
+},
+{
+"date": "2018-01-09",
+"name": "DIA letter to SASC listing AATIP products",
+"url": "https://documents.theblackvault.com/documents/dia/dia-aatip-reports.pdf"
+},
+{
+"date": "2010-01-01",
+"name": "DIRD 26 — Anomalous Acute and Subacute Field Effects on Human Biological Tissues",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_26-DIRD_Anomalous_Acute_and_Subacute_Field_Effects_on_Human_Biological_Tissues.pdf"
+},
+{
+"date": "2020-12-16",
+"name": "The Stargate Collection - CIA Program on Remote Viewing",
+"url": "https://www.theblackvault.com/documentarchive/the-stargate-collection/"
+},
+{
+"date": "1974-10-18",
+"name": "R. Targ & H. Puthoff, 'Information transmission under conditions of sensory shielding', Nature 251, 602-607",
+"url": "https://www.nature.com/articles/251602a0"
+},
+{
+"date": "2021-05-10",
+"name": "Gideon Lewis-Kraus, 'How the Pentagon Started Taking U.F.O.s Seriously', The New Yorker",
+"url": "https://www.newyorker.com/magazine/2021/05/10/how-the-pentagon-started-taking-ufos-seriously"
+},
+{
+"date": "2024-03-08",
+"name": "AARO, 'Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP), Volume I'",
+"url": "https://documents2.theblackvault.com/documents/dod/AARO_Historical_Record_Report_Volume_1_2024.pdf"
+},
+{
+"date": "2026-01-13",
+"name": "Christopher Sharp, 'UFO Allegedly Stored At East Coast Navy Facility As Material Transfer Claims Resurface,' Liberation Times",
+"url": "https://www.liberationtimes.com/home/ufo-allegedly-stored-at-east-coast-navy-facility-as-material-transfer-claims-resurface"
+},
+{
+"date": "2020-01-01",
+"name": "DIRD 'Clinical Medical Acute & Subacute Field Effects on Human Dermal & Neurological Tissues' (Christopher Green, Institute for Advanced Studies at Austin)",
+"url": "https://www.theblackvault.com/documentarchive/wp-content/uploads/2020/01/kitgreen-dird.pdf"
+},
+{
+"date": "2020-02-14",
+"name": "Tim McMillan, 'Inside the Pentagon's Secret UFO Program', Popular Mechanics",
+"url": "https://www.popularmechanics.com/military/research/a30916275/government-secret-ufo-program-investigation/"
+},
+{
+"date": "2026-08-12",
+"name": "Wikipedia: Advanced Aerospace Threat Identification Program",
+"url": "https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program"
+},
+{
+"date": "2019-01-16",
+"name": "DIA letter to Steven Aftergood listing 38 AATIP reference products",
+"url": "https://irp.fas.org/dia/aatip-list.pdf"
+},
+{
+"date": "2026-08-25",
+"name": "Wayne State University School of Medicine News, 'Chinese Academy of Sciences apppoints Dr. Green as professor', 2 April 2009",
+"url": "https://today.wayne.edu/medicine/news/2009/04/02/chinese-academy-of-sciences-apppoints-dr-green-as-professor-25373"
+}
+],
+"status": "active",
+"sub": "Neuroradiologist; former CIA analyst; AAWSAP DIRD author on field effects on biological tissue",
+"tier": "A",
+"tierRationale": "Re-graded A on a global pass (rank 42 of 1027, score 86). 13 connections, 5 of them custody/witness/funding/programmatic. Axes C2/A3/D2.",
+"timeline": [],
+"unexplainedResidual": "A named CIA scientific intelligence officer says he ran the anomalous-phenomena desk during the period the Agency says it had no such desk.",
+"unverified": [
+"The size and contents of Green's clinical case series; no primary medical record set has been released.",
+"The medical files Green is said to hold on anomalous-injury cases have never been released.",
+"The full contents of the Green document holdings.",
+"Any direct Green statement affirming contractor custody of material.",
+"The identity of the 'Sponsor and Affiliates' referenced in the DIRD's executive summary.",
+"The contents of the Green-Morris case files and whether the roughly 300 unpublished cases exist in a government-held database.",
+"Whether the follow-on continuation effort described in the DIRD (medical evaluation of 300-500 events) was ever funded."
+]
+}

@@ -1,0 +1,226 @@
+{
+"A": 2,
+"C": 1,
+"D": 1,
+"band": null,
+"claims": [
+{
+"source": "USAF, 'The Roswell Report: Fact vs. Fiction in the New Mexico Desert' (1995), DTIC ADA326148",
+"text": "'The Roswell Report: Fact versus Fiction in the New Mexico Desert' (1995, ~881 pp, DTIC ADA326148) was produced by Col. Weaver and 1st Lt. McAndrew in response to Rep. Steven H. Schiff's inquiry and attributes the debris to Project MOGUL.",
+"tier": 1
+},
+{
+"source": "USAF, 'The Roswell Report: Case Closed' (1997), DTIC ADA326147",
+"text": "'The Roswell Report: Case Closed' (1997, 232 pp, DTIC ADA326147) concludes the recovered material 'was not the remnants of an extraterrestrial spacecraft'.",
+"tier": 1
+},
+{
+"source": "USAF, 'The Roswell Report: Case Closed' (1997)",
+"text": "'Case Closed' attributes witness reports of bodies to anthropomorphic test dummies used in high-altitude parachute tests conducted principally between 1953 and 1959.",
+"tier": 2
+},
+{
+"source": "Inference from the 1997 report's chronology against the 1947 event date",
+"text": "An explanation requiring witnesses to have telescoped events six to twelve years later into July 1947 is a weaker reconstruction than the one it replaced, and it was produced only under congressional pressure forty-seven years after the fact.",
+"tier": 3
+}
+],
+"cls": "document",
+"cluster": "legacy",
+"connections": [
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "2024",
+"dateStart": "1997",
+"direction": "out",
+"edgeLabel": "AARO's 2024 finding restates the 1994-1997 Air Force position",
+"id": "aaro-historical-record-vol1",
+"l0": true,
+"label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
+"note": "Twenty-seven years later the successor office reaffirmed the MOGUL attribution without new primary records, because the primary records GAO identified as destroyed have not been recovered.",
+"sources": [
+{
+"date": "2024-02-01",
+"name": "AARO Historical Record Report, Volume I",
+"url": "https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf"
+},
+{
+"date": "1997-06-24",
+"name": "USAF, The Roswell Report: Case Closed (1997)",
+"url": "https://archive.org/details/DTIC_ADA326147"
+}
+],
+"tier": "A",
+"type": "temporal"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "1997",
+"dateStart": "1994",
+"direction": "in",
+"edgeLabel": "The Air Force reports were produced to rebut Marcel's account",
+"id": "jesse-marcel",
+"l0": false,
+"label": "Jesse A. Marcel Sr.",
+"note": "Marcel's 1978 recantation restarted the case; the 1994-1997 Air Force volumes exist because of it and conclude against him, attributing the debris to Project MOGUL and reported bodies to test dummies.",
+"sources": [
+{
+"date": "1997-06-24",
+"name": "USAF, The Roswell Report: Case Closed (1997)",
+"url": "https://archive.org/details/DTIC_ADA326147"
+},
+{
+"date": "1995-01-01",
+"name": "USAF, The Roswell Report: Fact vs. Fiction (1995)",
+"url": "https://archive.org/details/DTIC_ADA326148"
+}
+],
+"tier": "A",
+"type": "denial"
+},
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": "1997",
+"dateStart": "1994",
+"direction": "in",
+"edgeLabel": "MOGUL is the load-bearing element of the official explanation",
+"id": "project-mogul",
+"l0": false,
+"label": "Project MOGUL",
+"note": "The Air Force concluded the most likely source of the recovered wreckage was a Project MOGUL balloon train, replacing the weather balloon account it had maintained since 1947.",
+"sources": [
+{
+"date": "1995-07-28",
+"name": "GAO/NSIAD-95-187",
+"url": "https://www.gao.gov/assets/nsiad-95-187.pdf"
+},
+{
+"date": "1995-01-01",
+"name": "USAF, The Roswell Report: Fact vs. Fiction (1995)",
+"url": "https://archive.org/details/DTIC_ADA326148"
+}
+],
+"tier": "B",
+"type": "programmatic"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "1997",
+"dateStart": "1994",
+"direction": "in",
+"edgeLabel": "Schiff's inquiry forced the Air Force to abandon the weather balloon story",
+"id": "steven-schiff",
+"l0": false,
+"label": "Steven H. Schiff",
+"note": "Both Roswell Reports state they were produced in response to Rep. Schiff's inquiry. The 1994-1995 volume conceded that the 1947 weather balloon explanation was false.",
+"sources": [
+{
+"date": "1995-01-01",
+"name": "USAF, The Roswell Report: Fact vs. Fiction (1995)",
+"url": "https://archive.org/details/DTIC_ADA326148"
+},
+{
+"date": "1995-07-28",
+"name": "GAO/NSIAD-95-187",
+"url": "https://www.gao.gov/assets/nsiad-95-187.pdf"
+}
+],
+"tier": "B",
+"type": "legislative"
+}
+],
+"coords": null,
+"dateEnd": "1997",
+"dateStart": "1994",
+"deg": 4,
+"denials": [
+{
+"by": {
+"id": "usaf-roswell-reports",
+"label": "The Roswell Reports (USAF, 1994-1997)"
+},
+"claimTier": 1,
+"denialKind": "directed",
+"label": "The Air Force reports were produced to rebut Marcel's account",
+"note": "Marcel's 1978 recantation restarted the case; the 1994-1997 Air Force volumes exist because of it and conclude against him, attributing the debris to Project MOGUL and reported bodies to test dummies.",
+"of": {
+"id": "jesse-marcel",
+"label": "Jesse A. Marcel Sr."
+},
+"sources": [
+{
+"date": "1997-06-24",
+"name": "USAF, The Roswell Report: Case Closed (1997)",
+"url": "https://archive.org/details/DTIC_ADA326147"
+},
+{
+"date": "1995-01-01",
+"name": "USAF, The Roswell Report: Fact vs. Fiction (1995)",
+"url": "https://archive.org/details/DTIC_ADA326148"
+}
+]
+}
+],
+"desc": "The Air Force's two-volume answer to Rep. Schiff, and a first-class artifact of the concealment effort precisely because it is thorough. 'The Roswell Report: Fact vs. Fiction in the New Mexico Desert', by Col. Richard L. Weaver and 1st Lt. James McAndrew, runs to roughly 881 pages and was published in 1995 (following the Air Force's September 1994 report); it concedes that the weather balloon statement of 8 July 1947 was false and attributes the debris to the then-classified Project MOGUL. 'The Roswell Report: Case Closed', by McAndrew, was released 24 June 1997 and attributes reports of bodies to anthropomorphic test dummies dropped in high-altitude parachute tests — tests which mostly occurred between 1953 and 1959, six to twelve years after the event. The Air Force's position is therefore that the government lied in 1947 for legitimate reasons, told the truth in 1994, and that witnesses compressed a decade of unrelated events into one week. Both volumes are catalogued at the Defense Technical Information Center as ADA326148 and ADA326147. They are the official record and are treated here as such: authoritative on what the Air Force will say, and silent on the question GAO opened, which is who destroyed the base's records and under what authority.",
+"domains": [
+"history-1940s-1960s"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "1",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "usaf-roswell-reports",
+"l0": false,
+"label": "The Roswell Reports (USAF, 1994-1997)",
+"locLabel": null,
+"members": null,
+"short": "The Roswell Reports (USAF, 1994-1997)",
+"sources": [
+{
+"date": "1995-01-01",
+"name": "USAF, The Roswell Report: Fact vs. Fiction in the New Mexico Desert (1995)",
+"url": "https://archive.org/details/DTIC_ADA326148"
+},
+{
+"date": "1997-06-24",
+"name": "USAF, The Roswell Report: Case Closed (1997)",
+"url": "https://archive.org/details/DTIC_ADA326147"
+},
+{
+"date": "1995-07-28",
+"name": "GAO/NSIAD-95-187 (full PDF)",
+"url": "https://www.gao.gov/assets/nsiad-95-187.pdf"
+}
+],
+"sub": "Two USAF volumes: 'Fact vs. Fiction' (1995) and 'Case Closed' (1997)",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 418 of 1027, score 32). 4 connections, 1 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D1.",
+"timeline": [
+{
+"date": "1994-09-08",
+"id": "tl-1994-09-08",
+"label": "Air Force abandons the weather balloon story",
+"precision": "day",
+"strand": "coverup",
+"text": "Under pressure from Rep. Steven Schiff the Air Force concedes the 1947 statement was false and attributes the debris to the then-classified Project MOGUL.",
+"tier": "A"
+},
+{
+"date": "1997-06-24",
+"id": "tl-1997-06-24",
+"label": "'The Roswell Report: Case Closed'",
+"precision": "day",
+"strand": "coverup",
+"text": "The Air Force attributes reported bodies to anthropomorphic test dummies dropped in parachute tests conducted principally between 1953 and 1959.",
+"tier": "A"
+}
+]
+}

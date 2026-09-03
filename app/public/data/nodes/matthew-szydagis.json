@@ -1,0 +1,230 @@
+{
+"A": 1,
+"C": 0,
+"D": 2,
+"affiliations": [
+"University at Albany (SUNY), Department of Physics",
+"LUX / LZ dark matter collaborations; NEST",
+"UAPx (co-founder)",
+"UAP Science Advisory Council (2026- )"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "2013-10-08",
+"event": "Publishes NEST enhancements for low-energy recoils in liquid xenon (JINST).",
+"precision": "day"
+},
+{
+"date": "2021-07-01",
+"event": "UAPx conducts its first instrumented field expedition off Catalina Island, California.",
+"precision": "month"
+},
+{
+"date": "2025-03-07",
+"event": "Publishes 'How much time do we have before catastrophic disclosure occurs?' in Limina.",
+"precision": "day"
+},
+{
+"date": "2025-06-01",
+"event": "Publishes the first UAPx field-expedition results in Progress in Aerospace Sciences.",
+"precision": "month"
+},
+{
+"date": "2026-06-15",
+"event": "Named to the UAP Science Advisory Council for instrumentation and data collection.",
+"precision": "day"
+}
+],
+"claims": [
+{
+"source": "Progress in Aerospace Sciences, DOI 10.1016/j.paerosci.2025.101099",
+"text": "Szydagis is first author of 'Initial results from the first field expedition of UAPx to study unidentified anomalous phenomena', Progress in Aerospace Sciences 156:101099 (June 2025), with Kevin H. Knuth, Benjamin Kugielsky and Cecilia Levy.",
+"tier": 1
+},
+{
+"source": "Avi Loeb, Medium, 29 June 2026; Skeptics Society, 15 June 2026",
+"text": "Szydagis was named to the UAP Science Advisory Council in June 2026 with responsibility for instrumentation and data collection.",
+"tier": 2
+}
+],
+"cls": "person",
+"cluster": "research",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "2018",
+"direction": "in",
+"edgeLabel": "Snowball Chamber co-developers; the dark-matter group whose instrumentation was carried into the UAP field work",
+"id": "cecilia-levy",
+"l0": false,
+"label": "Cecilia Levy",
+"note": "Levy's faculty page lists 'Szydagis, Knight, Levy, The Snowball chamber: neutron induced nucleation in supercooled water' (arXiv:1807.09253, 2018) and describes the Snowball Chamber as 'a research topic completely unique to the UAlbany dark matter group'. The UAlbany release makes the methodological carry-over explicit: the C-TAP frame-differencing software is 'similar to an approach used by physicists like him and Levy to look for direct evidence of dark matter'. This is the mechanism by which rare-event detection practice reached UAP field work at this institution.",
+"sources": [
+{
+"date": "2026-08-21",
+"name": "University at Albany, Department of Physics - Cecilia Levy faculty page",
+"url": "https://www.albany.edu/physics/faculty/cecilia-levy"
+},
+{
+"date": "2025-06-04",
+"name": "UAlbany News Center, 'UAlbany Physicists Test Scientific Approach to UAP Research'",
+"url": "https://www.albany.edu/news-center/news/2025-ualbany-physicists-test-scientific-approach-uap-research"
+}
+],
+"tier": "C",
+"type": "research"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": "2025-06",
+"direction": "out",
+"edgeLabel": "Co-author of the 34-author UAP review",
+"id": "paper-knuth-2025-new-science",
+"l0": false,
+"label": "Knuth et al. (2025), 'The New Science of Unidentified Aerospace-Undersea Phenomena (UAP)', Progress in Aerospace Sciences",
+"note": "Named by the University as co-writer alongside Knuth and more than thirty other researchers.",
+"sources": [
+{
+"date": "2025-06-04",
+"name": "UAlbany News Center, 'UAlbany Physicists Test Scientific Approach to UAP Research'",
+"url": "https://www.albany.edu/news-center/news/2025-ualbany-physicists-test-scientific-approach-uap-research"
+}
+],
+"tier": "C",
+"type": "investigative"
+},
+{
+"claimTier": 2,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2026",
+"direction": "out",
+"edgeLabel": "Named for instrumentation and data collection",
+"id": "uap-science-advisory-council",
+"l0": true,
+"label": "UAP Science Advisory Council",
+"note": "The government's outside science body took its detector expertise from a self-funded civil expedition group, UAPx, rather than from a national laboratory.",
+"sources": [
+{
+"date": "2026-06-29",
+"name": "Avi Loeb, 'A UAP Science Advisory Council to the U.S.', Medium",
+"url": "https://avi-loeb.medium.com/a-uap-science-advisory-council-to-the-u-s-f7262e57b0df"
+},
+{
+"date": "2026-06-15",
+"name": "Skeptic / Skeptics Society, 'Michael Shermer Named to White House UAP Science Advisory Council'",
+"url": "https://www.skeptic.com/article/michael-shermer-named-to-white-house-uap-science-advisory-council/"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2021",
+"direction": "out",
+"edgeLabel": "Co-founder; first author of the field-expedition results",
+"id": "uapx",
+"l0": false,
+"label": "UAPx",
+"note": "A liquid-xenon dark-matter physicist applying direct-detection discipline - background rates, instrumental artefacts, false positives - to open-air field observation.",
+"sources": [
+{
+"date": "2025-06-01",
+"name": "Szydagis, Knuth, Kugielsky & Levy, 'Initial results from the first field expedition of UAPx to study unidentified anomalous phenomena', Progress in Aerospace Sciences 156:101099",
+"url": "https://doi.org/10.1016/j.paerosci.2025.101099"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "Employs Szydagis; Associate Professor of Physics, with UAP listed as a departmental research interest",
+"id": "university-at-albany",
+"l0": true,
+"label": "University at Albany (SUNY), Department of Physics",
+"note": "The department's own faculty page for Szydagis lists his research interests as 'Experimental astroparticle physics, in particular direct detection of dark matter WIMPs (Weakly Interacting Massive Particles) and general detector development for rare event searches, neutron activation, and Unidentified Anomalous Phenomena'. That the phrase appears on a university department page, not a personal site, is the load-bearing fact: UAP is here a declared institutional research interest rather than a private hobby. Szydagis created the Noble Element Simulation Technique (NEST) in 2011 and works on LZ at the Sanford Underground Research Facility.",
+"sources": [
+{
+"date": "2026-08-21",
+"name": "University at Albany, Department of Physics - Matthew Szydagis faculty page",
+"url": "https://www.albany.edu/physics/faculty/matthew-szydagis"
+}
+],
+"tier": "B",
+"type": "institutional"
+}
+],
+"date": "2025-06-01",
+"dateEnd": null,
+"dateStart": "2025-06-01",
+"deg": 5,
+"denials": [],
+"domains": [
+"scientists-technical"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "matthew-szydagis",
+"instId": "university-at-albany",
+"l0": false,
+"label": "Matthew Szydagis",
+"loc": "Albany, NY",
+"locId": null,
+"members": null,
+"narrative": "Szydagis is the instrumentation conscience of the field. His day job is liquid-xenon dark-matter detection - he is a principal author of the Noble Element Simulation Technique (NEST) and has published on xenon bubble chambers and low-energy nuclear recoils - which means his professional standard for what counts as a detection is set by an experiment that has spent decades not finding something. He carried that standard into UAP work by co-founding UAPx with Kevin Knuth and running an instrumented field campaign off Catalina Island, publishing 'Initial results from the first field expedition of UAPx to study unidentified anomalous phenomena' in Progress in Aerospace Sciences 156:101099 in June 2025 with Knuth, Benjamin Kugielsky and Cecilia Levy. That paper matters less for what it found than for what it establishes: a multi-instrument, multi-band, published protocol with stated false-positive handling, in a mainstream aerospace journal, done by people who build particle detectors. He also published in Limina, the journal of UAP studies, in March 2025 on disclosure timelines. In June 2026 he was named to the UAP Science Advisory Council in the instrumentation and data-collection role, which puts a working detector physicist on the government's outside science body.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Matthew Szydagis",
+"sources": [
+{
+"date": "2025-06-01",
+"name": "Szydagis, Knuth, Kugielsky & Levy, 'Initial results from the first field expedition of UAPx to study unidentified anomalous phenomena', Progress in Aerospace Sciences 156:101099",
+"url": "https://doi.org/10.1016/j.paerosci.2025.101099"
+},
+{
+"date": "2025-03-07",
+"name": "Matthew Szydagis, 'How much time do we have before catastrophic disclosure occurs?', Limina - The Journal of UAP Studies",
+"url": "https://doi.org/10.59661/001c.131700"
+},
+{
+"date": "2026-06-29",
+"name": "Avi Loeb, 'A UAP Science Advisory Council to the U.S.', Medium",
+"url": "https://avi-loeb.medium.com/a-uap-science-advisory-council-to-the-u-s-f7262e57b0df"
+},
+{
+"date": "2026-06-15",
+"name": "Skeptic / Skeptics Society, 'Michael Shermer Named to White House UAP Science Advisory Council'",
+"url": "https://www.skeptic.com/article/michael-shermer-named-to-white-house-uap-science-advisory-council/"
+}
+],
+"status": "active",
+"sub": "Associate Professor of Physics, University at Albany (SUNY); dark-matter instrumentation physicist (LUX/LZ, NEST); co-founder of UAPx; member, UAP Science Advisory Council (2026)",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 823 of 1027, score 17). 5 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D2.",
+"timeline": [],
+"unexplainedResidual": null,
+"unverified": [
+"Whether UAPx has ever been given access to government sensor data."
+]
+}

@@ -1,0 +1,206 @@
+{
+"A": 2,
+"C": 1,
+"D": 3,
+"band": null,
+"claims": [
+{
+"source": "Arquivo Nacional BR_DFANBSB_ARX_0_0_0249, page images",
+"text": "Document header: 'MINISTÉRIO DA AERONÁUTICA, COMANDO AÉREO DE DEFESA AÉREA ... Brasília-DF, 02 de Junho de 1986. Do Comandante. Ao Exmo Sr Comandante do Comando Geral do Ar. Assunto: Relatório de Ocorrência.' Classification marking [CONFIDENCIAL] on each page.",
+"tier": 1
+},
+{
+"source": "Arquivo Nacional BR_DFANBSB_ARX_0_0_0249",
+"text": "Considerações Finais para 3: the Command's opinion that the phenomena 'são sólidos e refletem de certa forma inteligência ... não forçosamente tripulados'.",
+"tier": 1
+},
+{
+"source": "BBC Brasil, 14 January 2022; Wikipedia '1986 Brazilian UFO incident'",
+"text": "The report was released on 25 September 2009.",
+"tier": 2
+}
+],
+"cls": "document",
+"cluster": "legacy",
+"connections": [
+{
+"claimTier": 2,
+"cls": "institution",
+"dateEnd": "2009-09-25",
+"dateStart": "2009-09-25",
+"direction": "out",
+"edgeLabel": "declassified into the National Archives on 25 September 2009",
+"id": "arquivo-nacional-ufo",
+"l0": true,
+"label": "Arquivo Nacional (Brazil) - UFO/UAP collection",
+"note": "Released 23 years after the minister promised a dossier in 30 days.",
+"sources": [
+{
+"date": "2022-01-14",
+"name": "BBC Brasil",
+"url": "https://www.bbc.com/portuguese/brasil-59953278"
+}
+],
+"tier": "A",
+"type": "custody"
+},
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": "2009-09-25",
+"dateStart": "1986-06-02",
+"direction": "out",
+"edgeLabel": "the official record of the night",
+"id": "ev-noite-ovnis-1986",
+"l0": true,
+"label": "Noite Oficial dos OVNIs - the Brazilian 'Night of the UFOs', 19 May 1986",
+"note": "Its Considerações Finais record solid radar-and-visual objects that outran supersonic interceptors and 'reflect in a certain manner intelligence'.",
+"sources": [
+{
+"date": "1986-06-02",
+"name": "Arquivo Nacional PDF",
+"url": "http://imagem.sian.an.gov.br/acervo/derivadas/BR_DFANBSB_ARX/0/0/0249/BR_DFANBSB_ARX_0_0_0249_d0001de0001.pdf"
+}
+],
+"tier": "A",
+"type": "programmatic"
+},
+{
+"claimTier": 2,
+"cls": "location",
+"dateEnd": "1986-06-02",
+"dateStart": "1986-06-02",
+"direction": "in",
+"edgeLabel": "The report is dated at Brasília, 2 June 1986",
+"id": "l-brasilia",
+"l0": false,
+"label": "Brasilia, Federal District, Brazil",
+"note": "The document's own dateline places it in the federal capital, and its item reference sits inside the Brasília-held BR DFANBSB ARX fund.",
+"sources": [
+{
+"date": null,
+"name": "Arquivo Nacional (Brasil), 'Conheça o fundo sobre OVNIs do Arquivo Nacional' — https://www.gov.br/arquivonacional/pt-br/canais_atendimento/imprensa/noticias/conheca-o-fundo-sobre-ovnis-do-arquivo-nacional",
+"url": ""
+},
+{
+"date": null,
+"name": "Arquivo Nacional, Fundo Objeto Voador Não Identificado – OVNI, reference BR DFANBSB ARX; the 1986 Air Defence Command report carries the item reference BR_DFANBSB_ARX_0_0_0249 (board node doc-fab-1986-report)",
+"url": ""
+},
+{
+"date": "2026-08-12",
+"name": "Wikipedia - Brasilia",
+"url": "https://en.wikipedia.org/wiki/Bras%C3%ADlia"
+}
+],
+"tier": "C",
+"type": "geographic"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "1986-06-02",
+"dateStart": "1986-05-23",
+"direction": "in",
+"edgeLabel": "The classified report was produced inside the ministry ten days after his public 'no explanation'",
+"id": "otavio-moreira-lima",
+"l0": false,
+"label": "Brigadeiro Octávio Júlio Moreira Lima",
+"note": "Moreira Lima told the press on 23 May 1986 that the armed forces had no technical explanation; the Air Defence Command's CONFIDENCIAL Relatório de Ocorrências, dated 10 days later on 2 June 1986, recorded internally that the phenomena were solid and reflected a form of intelligence, and was not released until 25 September 2009. Tier 2 because the two facts are separately sourced and the report is addressed to the Comandante-Geral do Ar rather than to the minister personally; no document obtained in this pass shows the report reaching his desk. What the pairing establishes is the gap between the public formulation and the contemporaneous classified one, inside the same ministry.",
+"sources": [
+{
+"date": null,
+"name": "Correio Braziliense, 'A noite em que 21 óvnis invadiram o espaço aéreo brasileiro e foram perseguidos por caças da FAB' — https://www.correiobraziliense.com.br/mundo/2026/05/7421517-a-noite-em-que-21-ovnis-invadiram-o-espaco-aereo-brasileiro-e-foram-perseguidos-por-cacas-da-fab.html",
+"url": ""
+},
+{
+"date": null,
+"name": "Arquivo Nacional, Fundo Objeto Voador Não Identificado – OVNI, reference BR DFANBSB ARX; the 1986 Air Defence Command report carries the item reference BR_DFANBSB_ARX_0_0_0249 (board node doc-fab-1986-report)",
+"url": ""
+},
+{
+"date": "1986-06-02",
+"name": "Relatório de Ocorrências (Arquivo Nacional PDF)",
+"url": "http://imagem.sian.an.gov.br/acervo/derivadas/BR_DFANBSB_ARX/0/0/0249/BR_DFANBSB_ARX_0_0_0249_d0001de0001.pdf"
+},
+{
+"date": "2022-01-14",
+"name": "BBC Brasil - 'A noite em que 21 óvnis invadiram o espaço aéreo brasileiro'",
+"url": "https://www.bbc.com/portuguese/brasil-59953278"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "1986-06-02",
+"dateStart": "1986-06-02",
+"direction": "in",
+"edgeLabel": "signed the CONFIDENCIAL Air Defence Command report",
+"id": "pessoa-cavalcanti",
+"l0": false,
+"label": "Brigadeiro do Ar José Pessoa Cavalcanti de Albuquerque",
+"note": "Signed at Brasília on 2 June 1986 as acting commander COMDA/NuCOMDABRA; the document is served by the Arquivo Nacional as BR_DFANBSB_ARX_0_0_0249.",
+"sources": [
+{
+"date": "1986-06-02",
+"name": "Arquivo Nacional PDF",
+"url": "http://imagem.sian.an.gov.br/acervo/derivadas/BR_DFANBSB_ARX/0/0/0249/BR_DFANBSB_ARX_0_0_0249_d0001de0001.pdf"
+}
+],
+"tier": "B",
+"type": "custody"
+}
+],
+"coords": null,
+"dateEnd": "2009-09-25",
+"dateStart": "1986-06-02",
+"deg": 5,
+"denials": [],
+"desc": "An eight-page document on Ministério da Aeronáutica letterhead, stamped CONFIDENCIAL on every page, addressed by the Commander of the Air Defence Air Command to the Commander General of the Air, dated Brasília-DF, 2 June 1986, signed by Brigadeiro do Ar José Pessoa Cavalcanti de Albuquerque as acting commander COMDA/NuCOMDABRA, and annexed with a Relatório de Ocorrências. It is scanned and served publicly by the Brazilian National Archives under reference BR_DFANBSB_ARX_0_0_0249 and was declassified on 25 September 2009, twenty-three years after the minister of aeronautics promised a full dossier within thirty days. Its section IV, Considerações Finais, is the operative text: it lists six behavioural characteristics observed and then states the Command's own opinion that the phenomena are solid and reflect a form of intelligence. It also praises the response posture, noting that each engaged air unit maintained an alert aircraft at 45 minutes' readiness and that within under thirty minutes of activation armed vectors were available. It is a document in which a national air defence command tells its own chain of command, in writing and under classification, that it has tracked solid, intelligently behaving unidentified objects that outran supersonic interceptors.",
+"domains": [
+"w2-international"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "1",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "doc-fab-1986-report",
+"l0": false,
+"label": "Relatório de Ocorrências, Comando Aéreo de Defesa Aérea, 2 June 1986 (Arquivo Nacional BR_DFANBSB_ARX_0_0_0249)",
+"locLabel": null,
+"members": null,
+"short": "Relatório de Ocorrências, Comando Aéreo de Defesa Aérea, 2 June 1986 (Arquivo Nacional BR_DFANBSB_ARX_0_0_0249)",
+"sources": [
+{
+"date": "1986-06-02",
+"name": "Relatório de Ocorrências (Arquivo Nacional PDF)",
+"url": "http://imagem.sian.an.gov.br/acervo/derivadas/BR_DFANBSB_ARX/0/0/0249/BR_DFANBSB_ARX_0_0_0249_d0001de0001.pdf"
+},
+{
+"date": "2022-01-14",
+"name": "BBC Brasil",
+"url": "https://www.bbc.com/portuguese/brasil-59953278"
+}
+],
+"sub": "CONFIDENCIAL Brazilian Air Defence Command report; declassified 25 September 2009",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 279 of 1027, score 38). 5 connections, 3 of them custody/witness/funding/programmatic. Axes C1/A2/D3.",
+"timeline": [
+{
+"date": "1986-06-02",
+"id": "tl-intl-1986-report",
+"label": "Brazilian Air Defence Command records solid, intelligent objects",
+"precision": "day",
+"strand": "program",
+"text": "Brigadier José Pessoa Cavalcanti de Albuquerque signs a CONFIDENCIAL Relatório de Ocorrências concluding that 'the phenomena are solid and reflect in a certain manner intelligence, by the capacity to follow and to maintain distance from observers as well as to fly in formation, not necessarily crewed'. It stays classified for twenty-three years.",
+"tier": 1
+}
+]
+}

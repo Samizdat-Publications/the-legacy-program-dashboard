@@ -1,0 +1,1025 @@
+{
+"A": 3,
+"C": 2,
+"D": 3,
+"affiliations": [
+"National Institute for Discovery Science (1996-2004)",
+"EarthTech International (1996-present)",
+"Aerospace Corporation (2010s)",
+"AAWSAP/AATIP DIRD author (2008-2010)",
+"National Institute for Discovery Science (staff scientist, late 1990s-2004)",
+"EarthTech International / Institute for Advanced Studies at Austin",
+"Bigelow Aerospace Advanced Space Studies (2008-2012)",
+"The Aerospace Corporation (2010s)",
+"Defense Intelligence Agency AAWSAP, DIRD author (2008-2010)",
+"The Aerospace Corporation (2019-2022)",
+"National Institute for Discovery Science (late 1990s-2000s)",
+"EarthTech International Inc. / Institute for Advanced Studies at Austin (c.1999- )",
+"DIA AAWSAP/AATIP DIRD author (2008-2010)",
+"The Aerospace Corporation (by 2020)"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "1996-01-01",
+"event": "Joins NIDS as a scientist under Bigelow",
+"precision": "year"
+},
+{
+"date": "1996-01-01",
+"event": "Works with NIDS as a staff scientist under Bigelow.",
+"precision": "year"
+},
+{
+"date": "2002-10-16",
+"event": "Meets Admiral Thomas Wilson; contemporaneous notes later surface as the Wilson/Davis memo",
+"precision": "day"
+},
+{
+"date": "2002-10-16",
+"event": "Meets VADM Thomas R. Wilson (ret.) and takes fifteen pages of handwritten notes.",
+"precision": "day"
+},
+{
+"date": "2002-10-16",
+"event": "Alleged meeting with Vice Adm. Thomas Wilson recorded in the notes later known as the Wilson-Davis memo",
+"precision": "day"
+},
+{
+"date": "2002-10-16",
+"event": "Date attributed to the meeting with Vice Adm. Thomas R. Wilson recorded in the notes later known as the Wilson-Davis memo.",
+"precision": "day"
+},
+{
+"date": "2007",
+"event": "Begins work as subcontractor, later consultant, to the Pentagon UFO programme.",
+"precision": "year"
+},
+{
+"date": "2008",
+"event": "Authors Defense Intelligence Reference Documents under the DIA AAWSAP contract",
+"precision": "year"
+},
+{
+"date": "2008-01-01",
+"event": "Authors Defense Intelligence Reference Documents for the DIA-funded AAWSAP effort through BAASS.",
+"precision": "year"
+},
+{
+"date": "2009-12-01",
+"event": "'reOD' date printed on DIA-08-1004-004, 'Traversable Wormholes, Stargates, and Negative Energy'.",
+"precision": "day"
+},
+{
+"date": "2010-01-01",
+"event": "Delivers five DIRDs under the AAWSAP contract",
+"precision": "year"
+},
+{
+"date": "2010-04-06",
+"event": "Publication date printed on DIA-08-1004-004; author given as Eric W. Davis, Ph.D., EarthTech International Inc., 11855 Research Blvd, Austin TX 78759.",
+"precision": "day"
+},
+{
+"date": "2019",
+"event": "The Wilson-Davis memo pages enter public circulation from Kit Green's files",
+"precision": "year"
+},
+{
+"date": "2019-01-16",
+"event": "DIA's 38-title AAWSAP list, naming his wormhole study, released to FAS.",
+"precision": "day"
+},
+{
+"date": "2019-03-01",
+"event": "Briefs Senate Armed Services Committee staff on off-world vehicle retrievals",
+"precision": "month"
+},
+{
+"date": "2019-04-01",
+"event": "The Wilson notes surface publicly.",
+"precision": "month"
+},
+{
+"date": "2019-10-21",
+"event": "Gives a classified briefing on retrievals of unexplained objects to Senate Armed Services Committee staff.",
+"precision": "day"
+},
+{
+"date": "2019-10-23",
+"event": "Gives a classified briefing to members of the Senate Intelligence Committee.",
+"precision": "day"
+},
+{
+"date": "2019-10-24",
+"event": "Briefs Senate Armed Services Committee staff on UAP matters",
+"precision": "day"
+},
+{
+"date": "2019-12-01",
+"event": "Wilson/Davis memo enters public circulation",
+"precision": "month"
+},
+{
+"date": "2020-03-01",
+"event": "Briefs a Department of Defense agency on retrieved off-world vehicles, as later reported.",
+"precision": "month"
+},
+{
+"date": "2020-03-01",
+"event": "Gives a classified briefing to a Defense Department agency about retrievals from 'off-world vehicles not made on this earth'.",
+"precision": "month"
+},
+{
+"date": "2020-07-23",
+"event": "New York Times publishes the account of those briefings.",
+"precision": "day"
+},
+{
+"date": "2022-05-17",
+"event": "Members of the House Intelligence subcommittee raise the Wilson-Davis memo directly with DoD witnesses, who state they are unaware of it.",
+"precision": "day"
+},
+{
+"date": "2025-03-09",
+"event": "Appears as an interviewee in 'The Age of Disclosure'.",
+"precision": "day"
+}
+],
+"claims": [
+{
+"source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237636/",
+"text": "DIRD DIA-08-1004-004, 'Traversable Wormholes, Stargates, and Negative Energy', Acquisition Threat Support series, 6 April 2010, ICOD 1 December 2009, exists in the DIA FOIA release with the author withheld under (b)(6).",
+"tier": 1
+},
+{
+"source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237627/",
+"text": "Companion DIRD DIA-08-1004-001, 'Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions', 2 April 2010, ICOD 1 December 2009, is also in the release, likewise with the author withheld.",
+"tier": 1
+},
+{
+"source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237636/",
+"text": "Attribution of these two DIRDs to Eric W. Davis is not established by the DIA release (author redacted). It rests on Davis's own account and secondary reporting. Wave-4 item: locate a primary record naming him (e.g. an unredacted copy, a subcontract, or sworn testimony).",
+"tier": 3
+},
+{
+"source": "DIA letter to Senate Armed Services Committee, 9 January 2018, items 8, 11, 14, 31, 34",
+"text": "Davis authored five of the 38 AAWSAP Defense Intelligence Reference Documents, more than any other individual.",
+"tier": 1
+},
+{
+"source": "Leslie Kean and Ralph Blumenthal, New York Times, 23 July 2020",
+"text": "Davis briefed Senate Armed Services Committee staff in March 2019 on retrievals of 'off-world vehicles not made on this earth'.",
+"tier": 2
+},
+{
+"source": "Inference from the overlap of the DIRD authorship record and the Wilson/Davis memo provenance",
+"text": "Davis's dual position — paid DIRD author on the unclassified side and carrier of the Wilson custody account on the other — indicates the AAWSAP deliverables were the open-literature cover story for a question the same personnel were already pursuing through other channels.",
+"tier": 3
+},
+{
+"source": "Eric W. Davis, statements to journalists following the notes' 2019 emergence",
+"text": "Davis has confirmed to journalists that the fifteen pages of handwritten notes describing an October 2002 conversation with Admiral Thomas Wilson are his own.",
+"tier": 2
+},
+{
+"source": "The Wilson-Davis notes, 16 Oct 2002, as circulated from 2019",
+"text": "The notes record Wilson describing being refused access, on need-to-know grounds, to a special access programme holding recovered non-human material in contractor custody.",
+"tier": 2
+},
+{
+"source": "House Permanent Select Committee on Intelligence, Counterterrorism, Counterintelligence and Counterproliferation Subcommittee hearing, 17 May 2022; contemporaneous reporting",
+"text": "At the 17 May 2022 House Intelligence subcommittee UAP hearing, DoD witnesses Ronald Moultrie and Scott Bray were asked about the Wilson-Davis memo and stated they were unaware of it.",
+"tier": 1
+},
+{
+"source": "Notes attributed to Eric W. Davis of a 16 October 2002 meeting; circulated publicly from 2019",
+"text": "The Wilson-Davis memorandum records Adm. Thomas Wilson being denied access to a special access program holding a recovered craft, on the basis that the program sat with a private aerospace contractor and he had no need to know.",
+"tier": 2
+},
+{
+"source": "AARO, Historical Record Report Volume I, March 2024, Section IV on AAWSAP/AATIP deliverables",
+"text": "Davis authored Defense Intelligence Reference Documents delivered under DIA's AAWSAP contract, the government-funded research line executed by BAASS.",
+"tier": 1
+},
+{
+"source": "AARO, Historical Record Report Volume I, March 2024",
+"text": "AARO records an interviewee claim that an organisation possessed off-world material in 2009 and 2010 and that 'a former named senior CIA official quashed the proposal to remove the material from the corporation.'",
+"tier": 1
+},
+{
+"source": "American Alchemy with Jesse Michels, 'Eric Weinstein Demands UFO Secrets From Pentagon Scientist', published 8 March 2026, https://www.youtube.com/watch?v=xnxasfyHtfo, at 0:53:04 to 0:53:25 (machine transcript of the podcast audio, checked against the audio timestamps)",
+"text": "On 8 March 2026, asked by Jesse Michels on the record whether he had confirmed writing the Wilson-Davis notes, Davis said: 'I can confirm. Seeking legal counsel. They're real. They're legit. They're 100% accurate.' He added that the circulated document is 'the typewritten version' and that 'there's a handwritten version, but that's all I can say about it.'",
+"tier": 2
+},
+{
+"source": "American Alchemy with Jesse Michels, 'Eric Weinstein Demands UFO Secrets From Pentagon Scientist', published 8 March 2026, https://www.youtube.com/watch?v=xnxasfyHtfo, at 0:52:03 to 0:52:59 (machine transcript, checked against the audio timestamps)",
+"text": "In the same conversation, asked how Admiral Thomas Wilson reacted when they met, Davis said: 'I can't confirm or deny that we met, for the security reasons.' He said the document 'was released from Mitchell's estate', that Edgar Mitchell had received a copy 'as a courtesy from who generated it', and that it 'was supposed to be destroyed' a year afterwards. Authorship confirmed; the meeting neither confirmed nor denied by its author.",
+"tier": 2
+},
+{
+"source": "Cover and administrative note of DIA-08-1004-004 (released copy)",
+"text": "DIA reference document DIA-08-1004-004, 'Traversable Wormholes, Stargates, and Negative Energy', dated 6 April 2010, names Eric W. Davis, Ph.D., of EarthTech International Inc. as author and states it was produced in FY2009 under the DIA Defense Warning Office's Advanced Aerospace Weapon System Applications programme, with James T. Lacatski, D.Eng. as programme manager.",
+"tier": 1
+},
+{
+"source": "Ralph Blumenthal, The New York Times, 23 July 2020, quoting Davis on the record",
+"text": "Davis gave classified briefings on retrievals of unexplained objects to Senate Armed Services Committee staff on 21 October 2019 and to Senate Intelligence Committee members on 23 October 2019, and to a Defense Department agency in March 2020 about retrievals from 'off-world vehicles not made on this earth'.",
+"tier": 2
+},
+{
+"source": "Eric W. Davis quoted in The New York Times, 23 July 2020",
+"text": "Of the analysed materials Davis said: 'We couldn't make it ourselves.'",
+"tier": 2
+},
+{
+"source": "Widely reported 'Wilson-Davis memo'; Davis has not publicly repudiated authorship. Primary provenance is the Mitchell estate, not a government release.",
+"text": "Notes attributed to Davis of a 16 October 2002 meeting with Vice Adm. Thomas R. Wilson, former Director of the DIA, describe a special access programme within a defence contractor that refused Wilson access; the notes surfaced in 2019 among the estate papers of Apollo astronaut Edgar Mitchell.",
+"tier": 2
+},
+{
+"source": "Inference from the sequence of the 21-23 October 2019 briefings and the subsequent SSCI reporting requirement; no document ties them causally",
+"text": "The October 2019 briefings are the proximate cause of the Senate Intelligence Committee's June 2020 report language directing a UAP assessment: a technical contractor told two committees, within 48 hours, that recovered non-human hardware existed.",
+"tier": 3
+}
+],
+"cls": "person",
+"cluster": "other",
+"conflicts": [
+"Thomas Wilson denies the meeting took place and denies the substance attributed to him.",
+"Davis confirmed on the record on 8 March 2026 that he wrote the notes and that they are '100% accurate', while declining to confirm or deny that the meeting took place; Adm. Wilson has denied that the meeting occurred. The author endorsing his own notes is not authentication, and the other named party still disputes them. No government body has authenticated the memo.",
+"Sceptical commentators characterise the DIRD corpus as speculative literature reviews of little intelligence value; Steven Aftergood of FAS said the AAWSAP contract 'sounds like it was a good deal for the contractor' but that it would be hard to argue the military or the public got their money's worth."
+],
+"connections": [
+{
+"claimTier": 2,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2019",
+"direction": "out",
+"edgeLabel": "Employed by the FFRDC operator at the time of the 2019-2020 briefings",
+"id": "aerospace-corporation",
+"l0": false,
+"label": "The Aerospace Corporation",
+"note": "The New York Times identified Davis as working for Aerospace Corp. when reporting his classified briefings on retrievals. The corporation has never publicly addressed whether it had any institutional role.",
+"sources": [
+{
+"date": "2020-07-23",
+"name": "Ralph Blumenthal, 'No Longer in the Shadows, Pentagon's U.F.O. Unit Will Make Some Findings Public', The New York Times",
+"url": "https://www.nytimes.com/2020/07/23/us/politics/pentagon-ufo-harry-reid-navy.html"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 2,
+"cls": "document",
+"dateEnd": null,
+"dateStart": "2025",
+"direction": "in",
+"edgeLabel": "Davis among the interviewees",
+"id": "age-of-disclosure-2025",
+"l0": false,
+"label": "'The Age of Disclosure' (2025 documentary, dir. Dan Farah)",
+"note": "Davis's participation puts the man who briefed two Senate committees on retrievals on camera alongside a sitting Secretary of State and a former Director of National Intelligence.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Wikipedia: The Age of Disclosure (2025 documentary)",
+"url": "https://en.wikipedia.org/wiki/The_Age_of_Disclosure"
+}
+],
+"tier": "C",
+"type": "behavioral"
+},
+{
+"claimTier": 2,
+"cls": "domain",
+"dateEnd": null,
+"dateStart": "2020",
+"direction": "out",
+"edgeLabel": "'We couldn't make it ourselves' - a custody claim with no public chain",
+"id": "d-custody",
+"l0": false,
+"label": "Chain of custody",
+"note": "Davis's on-record statement about analysed material has never been accompanied by any public documentation of where the material came from, who held it, or where it is now.",
+"sources": [
+{
+"date": "2020-07-23",
+"name": "Ralph Blumenthal, 'No Longer in the Shadows, Pentagon's U.F.O. Unit Will Make Some Findings Public', The New York Times",
+"url": "https://www.nytimes.com/2020/07/23/us/politics/pentagon-ufo-harry-reid-navy.html"
+}
+],
+"tier": "A",
+"type": "custody"
+},
+{
+"claimTier": 2,
+"cls": "event",
+"dateEnd": "2019",
+"dateStart": "2019",
+"direction": "out",
+"edgeLabel": "Briefed SASC staff on 21 Oct 2019 and SSCI members on 23 Oct 2019",
+"id": "davis-sasc-briefing-2019",
+"l0": false,
+"label": "Eric Davis classified briefings to Senate Armed Services and Senate Intelligence, 21 and 23 October 2019",
+"note": "Davis told The New York Times on the record that he had given classified briefings on retrievals of unexplained objects to both committees within 48 hours.",
+"sources": [
+{
+"date": "2020-07-23",
+"name": "Ralph Blumenthal, 'No Longer in the Shadows, Pentagon's U.F.O. Unit Will Make Some Findings Public', The New York Times",
+"url": "https://www.nytimes.com/2020/07/23/us/politics/pentagon-ufo-harry-reid-navy.html"
+},
+{
+"date": "2020-07-23",
+"name": "Same NYT report republished, The Baltimore Sun",
+"url": "https://www.baltimoresun.com/news/nation-world/ct-nw-nyt-pentagon-ufo-unit-20200723-b3akzzy44zdgxc3bmhgko6nkgm-story.html"
+}
+],
+"tier": "B",
+"type": "witness-chain"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "authored",
+"id": "dird-antigravity-for-aerospace-applications",
+"l0": false,
+"label": "Antigravity for Aerospace Applications",
+"note": "DIA list item 11 names \"Dr Eric Davis, EarthTech International\". Independently confirmed by EarthTech International's own publication list, which cites the document as Davis, E. W. (2010) with document number DIA-08-1003-018 and originating office Acquisition Support Division (DWO-3), Defense Warning Office.",
+"sources": [
+{
+"date": "2026-08-22",
+"name": "Released DIRD, 'Antigravity for Aerospace Applications' — FOIA copy, cover page read 22 August 2026",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_19-DIRD_Antigravity_for_Aerospace_Applications.pdf"
+},
+{
+"date": "2026-08-22",
+"name": "DIA FOIA Electronic Reading Room entry for this reference document",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237651/"
+},
+{
+"date": "2026-08-23",
+"name": "DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations",
+"url": "https://fas.org/publication/aatip-list/"
+},
+{
+"date": null,
+"name": "https://irp.fas.org/dia/aatip-list.pdf",
+"url": "https://irp.fas.org/dia/aatip-list.pdf"
+},
+{
+"date": null,
+"name": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html",
+"url": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html"
+}
+],
+"tier": "B",
+"type": "research"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "authored by Eric W. Davis",
+"id": "dird-concepts-for-extracting-energy-from-the",
+"l0": false,
+"label": "Concepts for Extracting Energy From the Quantum Vacuum",
+"note": "Doubly sourced. The DIA list of 9 January 2018 gives entry 14 as 'Concepts for Extracting Energy from the Quantum Vacuum, Dr Eric Davis, EarthTech International'. EarthTech's own bibliography for Davis cites the same document with the matching DIA number DIA-08-1004-007, confirming the attribution against the redacted cover page independently of the DIA list.",
+"sources": [
+{
+"date": "2026-08-22",
+"name": "Released DIRD, 'Concepts for Extracting Energy From the Quantum Vacuum' — FOIA copy, cover page read 22 August 2026",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_24-DIRD_Concepts_for_Extracting_Energy_from_the_Quantum_Vacuum.pdf"
+},
+{
+"date": "2026-08-22",
+"name": "DIA FOIA Electronic Reading Room entry for this reference document",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237645/"
+},
+{
+"date": "2026-08-23",
+"name": "DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations",
+"url": "https://fas.org/publication/aatip-list/"
+},
+{
+"date": null,
+"name": "https://irp.fas.org/dia/aatip-list.pdf",
+"url": "https://irp.fas.org/dia/aatip-list.pdf"
+},
+{
+"date": null,
+"name": "https://earthtech.org/pubs/davis/",
+"url": "https://earthtech.org/pubs/davis/"
+}
+],
+"tier": "B",
+"type": "research"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "authored by",
+"id": "dird-laser-lightcraft-nanosatellites",
+"l0": false,
+"label": "Laser Lightcraft Nanosatellites",
+"note": "The DIA list of all 38 AATIP/AAWSAP products, transmitted to the Senate Armed Services Committee in January 2018 and released under FOIA in January 2019, credits 'Laser Lightcraft Nanosatellites' to 'Dr E Davis, EarthTech'. The author line on the released PDF cover page is redacted, so this attribution rests on the congressional list rather than the document.",
+"sources": [
+{
+"date": "2026-08-22",
+"name": "Released DIRD, 'Laser Lightcraft Nanosatellites' — FOIA copy, cover page read 22 August 2026",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_27-DIRD_Laser_Lightcraft_Nanosatellites.pdf"
+},
+{
+"date": "2026-08-22",
+"name": "DIA FOIA Electronic Reading Room entry for this reference document",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237641/"
+},
+{
+"date": "2026-08-23",
+"name": "DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations",
+"url": "https://fas.org/publication/aatip-list/"
+},
+{
+"date": null,
+"name": "https://irp.fas.org/dia/aatip-list.pdf",
+"url": "https://irp.fas.org/dia/aatip-list.pdf"
+},
+{
+"date": null,
+"name": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html",
+"url": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html"
+}
+],
+"tier": "B",
+"type": "research"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "authored by",
+"id": "dird-quantum-tomography-of-negative-energy-states",
+"l0": false,
+"label": "Quantum Tomography of Negative Energy States in the Vacuum",
+"note": "The DIA congressional list credits 'Quantum Tomography of Negative Energy States in the Vacuum' to 'Dr Eric Davis, EarthTech'. This is one of a coherent negative-energy sub-series by the same author within the DIRD set, alongside 'Traversable Wormholes, Stargates and Negative Energy' and the quantum-vacuum energy extraction paper.",
+"sources": [
+{
+"date": "2026-08-22",
+"name": "Released DIRD, 'Quantum Tomography of Negative Energy States in the Vacuum' — FOIA copy, cover page read 22 August 2026",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_36-DIRD_Quantum_Tomography_of_Negative_Energy_States_in_the_Vacuum.pdf"
+},
+{
+"date": "2026-08-22",
+"name": "DIA FOIA Electronic Reading Room entry for this reference document",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237632/"
+},
+{
+"date": "2026-08-23",
+"name": "DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations",
+"url": "https://fas.org/publication/aatip-list/"
+},
+{
+"date": null,
+"name": "https://irp.fas.org/dia/aatip-list.pdf",
+"url": "https://irp.fas.org/dia/aatip-list.pdf"
+},
+{
+"date": null,
+"name": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html",
+"url": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html"
+}
+],
+"tier": "C",
+"type": "research"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "2010",
+"dateStart": "2008",
+"direction": "out",
+"edgeLabel": "authored five of the 38 DIRDs",
+"id": "dird-series",
+"l0": true,
+"label": "The 38 Defense Intelligence Reference Documents (DIRDs)",
+"note": "Items 8, 11, 14, 31 and 34 — wormholes, antigravity, quantum vacuum energy, laser lightcraft and negative energy tomography.",
+"sources": [
+{
+"date": "2018-01-09",
+"name": "DIA letter to SASC",
+"url": "https://documents.theblackvault.com/documents/dia/dia-aatip-reports.pdf"
+}
+],
+"tier": "A",
+"type": "programmatic"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "2010",
+"dateStart": "2009",
+"direction": "out",
+"edgeLabel": "Named author of DIA-08-1004-004",
+"id": "dird-traversable-wormholes",
+"l0": false,
+"label": "DIA-08-1004-004: 'Traversable Wormholes, Stargates, and Negative Energy'",
+"note": "The cover of the released document names Eric W. Davis, Ph.D., of EarthTech International Inc. as author, with a DIA control number, a Defense Warning Office preparing office and an FY2009 production year.",
+"sources": [
+{
+"date": "2010-04-06",
+"name": "DIRD DIA-08-1004-004, 'Traversable Wormholes, Stargates, and Negative Energy' (Eric W. Davis, EarthTech International)",
+"url": "https://documents.theblackvault.com/documents/traversablewormholes-drdavis.pdf"
+}
+],
+"tier": "B",
+"type": "programmatic"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "author of record on the DIA list and on EarthTech's own citation list",
+"id": "dird-traversable-wormholes-stargates-and-negative-energy",
+"l0": false,
+"label": "Traversable Wormholes, Stargates, and Negative Energy",
+"note": "DIA list item 8: \"Traversable Wormholes, Stargates and Negative Energy, Dr Eric Davis, EarthTech International.\" Unlike the warp-drive paper, the popular attribution to Davis is confirmed by the government list here. EarthTech's own bibliography carries the same citation with the document number DIA-08-1004-004.",
+"sources": [
+{
+"date": "2026-08-22",
+"name": "Released DIRD, 'Traversable Wormholes, Stargates, and Negative Energy' — FOIA copy, cover page read 22 August 2026",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_18-DIRD_Traversible_Wormholes_Stargates_and_Negative_Energy.pdf"
+},
+{
+"date": "2026-08-22",
+"name": "DIA FOIA Electronic Reading Room entry for this reference document",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237636/"
+},
+{
+"date": "2026-08-23",
+"name": "DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations",
+"url": "https://fas.org/publication/aatip-list/"
+},
+{
+"date": null,
+"name": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html",
+"url": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html"
+},
+{
+"date": null,
+"name": "http://earthtech.org/pubs/davis/",
+"url": "http://earthtech.org/pubs/davis/"
+},
+{
+"date": null,
+"name": "https://irp.fas.org/dia/aatip-list.pdf",
+"url": "https://irp.fas.org/dia/aatip-list.pdf"
+}
+],
+"tier": "B",
+"type": "research"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "co-author per EarthTech International's own citation",
+"id": "dird-warp-drive-dark-energy-and-the",
+"l0": false,
+"label": "Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions",
+"note": "EarthTech International's publications page cites the paper as \"Obousy, R. K. and Davis, E. W. (2010).\" Davis is a co-author, not the sole author, and is not the name DIA recorded on its list to Congress. Both facts are true and the board should carry both edges rather than collapse them.",
+"sources": [
+{
+"date": "2026-08-22",
+"name": "Released DIRD, 'Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions' — FOIA copy, cover page read 22 August 2026",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_13-DIRD_Warp_Drive_Dark_energy_and_the_Manipulation_of_Extra_Dimensions.pdf"
+},
+{
+"date": "2026-08-22",
+"name": "DIA FOIA Electronic Reading Room entry for this reference document",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237627/"
+},
+{
+"date": null,
+"name": "http://earthtech.org/pubs/davis/",
+"url": "http://earthtech.org/pubs/davis/"
+}
+],
+"tier": "B",
+"type": "research"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "1996",
+"direction": "out",
+"edgeLabel": "staff scientist",
+"id": "earthtech-international",
+"l0": true,
+"label": "EarthTech International / Institute for Advanced Studies at Austin",
+"note": "Davis wrote all five of his DIRDs under the EarthTech banner.",
+"sources": [
+{
+"date": "2018-01-09",
+"name": "DIA letter to SASC",
+"url": "https://documents.theblackvault.com/documents/dia/dia-aatip-reports.pdf"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2019",
+"dateStart": "1999",
+"direction": "out",
+"edgeLabel": "Davis worked under Puthoff at EarthTech before and during the AAWSAP period",
+"id": "harold-puthoff",
+"l0": false,
+"label": "Harold E. Puthoff",
+"note": "Davis is repeatedly identified in the record as a former employee of Puthoff's EarthTech International; both authored DIRDs in the same series.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Wikipedia: Advanced Aerospace Threat Identification Program",
+"url": "https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program"
+},
+{
+"date": "2010-04-06",
+"name": "DIRD DIA-08-1004-004, 'Traversable Wormholes, Stargates, and Negative Energy' (Eric W. Davis, EarthTech International)",
+"url": "https://documents.theblackvault.com/documents/traversablewormholes-drdavis.pdf"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2020",
+"dateStart": "2020",
+"direction": "out",
+"edgeLabel": "Same report carried Reid's statement on retrieved materials",
+"id": "harry-reid",
+"l0": false,
+"label": "Harry M. Reid",
+"note": "In the 23 July 2020 article Reid said it was 'extremely important that information about the discovery of physical materials or retrieved craft come out', published alongside Davis's account of his briefings.",
+"sources": [
+{
+"date": "2020-07-23",
+"name": "Ralph Blumenthal, 'No Longer in the Shadows, Pentagon's U.F.O. Unit Will Make Some Findings Public', The New York Times",
+"url": "https://www.nytimes.com/2020/07/23/us/politics/pentagon-ufo-harry-reid-navy.html"
+}
+],
+"tier": "A",
+"type": "witness-chain"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2026",
+"dateStart": "2026",
+"direction": "in",
+"edgeLabel": "Michels put Eric Davis on record with Eric Weinstein, 8 March 2026",
+"id": "jesse-michels",
+"l0": false,
+"label": "Jesse Michels",
+"note": "A four-hour session covering the Wilson-Davis memo (37:56), the count of crashes (48:00), crash retrieval program structure (2:28:43) and the legacy program (2:35:09); 766,314 views.",
+"sources": [
+{
+"date": "2026-03-08",
+"name": "American Alchemy - 'Eric Weinstein Demands UFO Secrets From Pentagon Scientist'",
+"url": "https://www.youtube.com/watch?v=xnxasfyHtfo"
+}
+],
+"tier": "B",
+"type": "investigative"
+},
+{
+"claimTier": 2,
+"cls": "program",
+"dateEnd": "2004",
+"dateStart": "1996",
+"direction": "out",
+"edgeLabel": "NIDS scientist before the federal contract",
+"id": "nids",
+"l0": true,
+"label": "National Institute for Discovery Science (NIDS)",
+"note": "Davis carried the NIDS methodology forward into BAASS work under the DIA-funded AAWSAP contract after 2008.",
+"sources": [
+{
+"date": "2024-01-01",
+"name": "Wikipedia — NIDS",
+"url": "https://en.wikipedia.org/wiki/National_Institute_for_Discovery_Science"
+},
+{
+"date": "2021-05-10",
+"name": "Gideon Lewis-Kraus, 'How the Pentagon Started Taking U.F.O.s Seriously', The New Yorker",
+"url": "https://www.newyorker.com/magazine/2021/05/10/how-the-pentagon-started-taking-ufos-seriously"
+},
+{
+"date": "2023-05-02",
+"name": "Barry Greenwood, review of 'Skinwalkers at the Pentagon', Journal of Scientific Exploration 37(1) 127-131",
+"url": "https://journalofscientificexploration.org/index.php/jse/article/view/2857"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "2026",
+"dateStart": "2022",
+"direction": "in",
+"edgeLabel": "Eric Davis sits on Sol's Natural Sciences Advisory Board",
+"id": "sol-foundation",
+"l0": true,
+"label": "The Sol Foundation",
+"note": "Named on the Sol Foundation People page - placing a figure central to the AAWSAP and Wilson-Davis memo record inside the movement's institutional apex.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "The Sol Foundation - People",
+"url": "https://thesolfoundation.org/people/"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 2,
+"cls": "document",
+"dateEnd": "2019",
+"dateStart": "2002",
+"direction": "out",
+"edgeLabel": "Author of record of the notes of the alleged 16 October 2002 Wilson meeting",
+"id": "wilson-davis-memo",
+"l0": true,
+"label": "The Wilson-Davis Notes (16 October 2002)",
+"note": "Notes attributed to Davis describing a meeting with former DIA director Vice Adm. Thomas R. Wilson surfaced in 2019 among the estate papers of Edgar Mitchell. Provenance is a private estate, not a government release; Davis has not publicly repudiated authorship.",
+"sources": [
+{
+"date": "2020-07-23",
+"name": "Ralph Blumenthal, 'No Longer in the Shadows, Pentagon's U.F.O. Unit Will Make Some Findings Public', The New York Times",
+"url": "https://www.nytimes.com/2020/07/23/us/politics/pentagon-ufo-harry-reid-navy.html"
+}
+],
+"tier": "A",
+"type": "custody"
+},
+{
+"claimTier": 2,
+"cls": "document",
+"dateEnd": "2019",
+"dateStart": "2002",
+"direction": "out",
+"edgeLabel": "author of the notes at the centre of the custody claim",
+"id": "wilson-davis-memo",
+"l0": true,
+"label": "The Wilson-Davis Notes (16 October 2002)",
+"note": "The memo records Vice Adm. Thomas Wilson being refused access to a program holding a recovered craft on the ground that it sat with a private aerospace contractor and he had no need to know. Davis has never authenticated it; Wilson has denied the meeting.",
+"sources": [
+{
+"date": "2019-01-18",
+"name": "The War Zone",
+"url": "https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk"
+},
+{
+"date": "2022-08-01",
+"name": "The Debrief, 'Summer of the Saucers' (notes Wilson-Davis Memo raised at the 17 May 2022 House Intelligence UAP hearing)",
+"url": "https://thedebrief.org/summer-of-the-saucers/"
+},
+{
+"date": "2021-05-10",
+"name": "Gideon Lewis-Kraus, 'How the Pentagon Started Taking U.F.O.s Seriously', The New Yorker",
+"url": "https://www.newyorker.com/magazine/2021/05/10/how-the-pentagon-started-taking-ufos-seriously"
+},
+{
+"date": "2024-03-08",
+"name": "AARO, 'Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP), Volume I'",
+"url": "https://documents2.theblackvault.com/documents/dod/AARO_Historical_Record_Report_Volume_1_2024.pdf"
+}
+],
+"tier": "A",
+"type": "witness-chain"
+}
+],
+"date": "2010-01-01",
+"dateEnd": null,
+"dateStart": "2010-01-01",
+"deg": 19,
+"denials": [],
+"domains": [
+"_rs-aawsap-dirds",
+"_rs-archive-mirror",
+"aawsap-aatip",
+"history-1970s-2000s",
+"primes-custody",
+"scientists-technical"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "2",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "eric-davis",
+"instId": "earthtech-international",
+"l0": false,
+"label": "Eric W. Davis",
+"loc": "Austin, TX",
+"locId": "l-austin",
+"members": null,
+"narrative": "Davis is the single most important technical witness on this board because his key act is documented rather than merely asserted. He is an astrophysicist who worked under Puthoff at EarthTech International and, as the cover page of DIA-08-1004-004 states in plain type, authored 'Traversable Wormholes, Stargates, and Negative Energy' for the DIA Defense Warning Office's Advanced Aerospace Weapon System Applications programme - dated 6 April 2010, produced in FY2009, with James T. Lacatski, D.Eng., named as AAWSA programme manager and the return address given as Bldg 6000, Washington DC 20340-5100. He co-authored a second DIRD, 'Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions', with Richard Obousy. He was a subcontractor and then consultant to the Pentagon UFO programme from 2007. On 23 July 2020 The New York Times reported, on the record, that Davis - by then at The Aerospace Corporation - had given a classified briefing to a Defense Department agency as recently as March 2020 about retrievals from 'off-world vehicles not made on this earth', and that he had given classified briefings on retrievals of unexplained objects to staff members of the Senate Armed Services Committee on 21 October 2019 and to members of the Senate Intelligence Committee two days later. Of the materials he said: 'We couldn't make it ourselves.' Those are dated events with named committees, and they are the reason the phrase 'off-world vehicles' entered the congressional record's ambient vocabulary. Davis is also the author of record of the notes of an alleged October 2002 meeting with Vice Adm. Thomas R. Wilson, which surfaced in 2019 among the papers of the late Edgar Mitchell and describe a special access programme concealed from a sitting DIA director.",
+"photoCredit": null,
+"sequenceChain": [
+{
+"date": "1996-01-01",
+"event": "Works with NIDS as a staff scientist under Bigelow.",
+"isAnomalous": false,
+"source": null
+},
+{
+"date": "2002-10-16",
+"event": "Date attributed to the meeting with Vice Adm. Thomas R. Wilson recorded in the notes later known as the Wilson-Davis memo.",
+"isAnomalous": true,
+"source": "House Permanent Select Committee on Intelligence, Counterterrorism, Counterintelligence and Counterproliferation Subcommittee hearing, 17 May 2022; contemporaneous reporting"
+},
+{
+"date": "2008-01-01",
+"event": "Authors Defense Intelligence Reference Documents for the DIA-funded AAWSAP effort through BAASS.",
+"isAnomalous": false,
+"source": null
+},
+{
+"date": "2019-10-21",
+"event": "Gives a classified briefing on retrievals of unexplained objects to Senate Armed Services Committee staff.",
+"isAnomalous": false,
+"source": "Ralph Blumenthal, The New York Times, 23 July 2020, quoting Davis on the record"
+}
+],
+"short": "Eric W. Davis",
+"sources": [
+{
+"date": "2010-04-06",
+"name": "DIRD DIA-08-1004-004, 'Traversable Wormholes, Stargates, and Negative Energy' (DIA FOIA release, author redacted)",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237636/"
+},
+{
+"date": "2010-04-02",
+"name": "DIRD DIA-08-1004-001, 'Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions'",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237627/"
+},
+{
+"date": "2025-07-25",
+"name": "Archived: DIRD DIA-08-1004-004, 'Traversable Wormholes, Stargates, and Negative Energy' (DIA FOIA release, author redacted) (Wayback 2025-07-25)",
+"url": "https://web.archive.org/web/20250725033255/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170048/"
+},
+{
+"date": "2026-04-28",
+"name": "Archived: DIRD DIA-08-1004-001, 'Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions' (Wayback 2026-04-28)",
+"url": "https://web.archive.org/web/20260428015146/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170050/"
+},
+{
+"date": "2018-01-09",
+"name": "DIA letter to SASC listing AATIP products",
+"url": "https://documents.theblackvault.com/documents/dia/dia-aatip-reports.pdf"
+},
+{
+"date": "2010-01-01",
+"name": "DIRD 18 — Traversable Wormholes, Stargates, and Negative Energy",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_18-DIRD_Traversible_Wormholes_Stargates_and_Negative_Energy.pdf"
+},
+{
+"date": "2010-01-01",
+"name": "DIRD 19 — Antigravity for Aerospace Applications",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_19-DIRD_Antigravity_for_Aerospace_Applications.pdf"
+},
+{
+"date": "2022-08-01",
+"name": "The Debrief, 'Summer of the Saucers' (notes Wilson-Davis Memo raised at the 17 May 2022 House Intelligence UAP hearing)",
+"url": "https://thedebrief.org/summer-of-the-saucers/"
+},
+{
+"date": "2021-05-10",
+"name": "Gideon Lewis-Kraus, 'How the Pentagon Started Taking U.F.O.s Seriously', The New Yorker",
+"url": "https://www.newyorker.com/magazine/2021/05/10/how-the-pentagon-started-taking-ufos-seriously"
+},
+{
+"date": "2023-05-02",
+"name": "Barry Greenwood, review of 'Skinwalkers at the Pentagon', Journal of Scientific Exploration 37(1) 127-131",
+"url": "https://journalofscientificexploration.org/index.php/jse/article/view/2857"
+},
+{
+"date": "2024-03-08",
+"name": "AARO, 'Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP), Volume I'",
+"url": "https://documents2.theblackvault.com/documents/dod/AARO_Historical_Record_Report_Volume_1_2024.pdf"
+},
+{
+"date": "2024-11-13",
+"name": "House Oversight hearing transcript, 'Unidentified Anomalous Phenomena: Exposing the Truth' (CHRG-118hhrg57440)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm"
+},
+{
+"date": "2026-03-08",
+"name": "American Alchemy with Jesse Michels, 'Eric Weinstein Demands UFO Secrets From Pentagon Scientist' (podcast audio, machine transcript)",
+"url": "https://www.youtube.com/watch?v=xnxasfyHtfo"
+},
+{
+"date": "2010-04-06",
+"name": "DIRD DIA-08-1004-004, 'Traversable Wormholes, Stargates, and Negative Energy' (Eric W. Davis, EarthTech International)",
+"url": "https://documents.theblackvault.com/documents/traversablewormholes-drdavis.pdf"
+},
+{
+"date": "2020-07-23",
+"name": "Ralph Blumenthal, 'No Longer in the Shadows, Pentagon's U.F.O. Unit Will Make Some Findings Public', The New York Times",
+"url": "https://www.nytimes.com/2020/07/23/us/politics/pentagon-ufo-harry-reid-navy.html"
+},
+{
+"date": "2020-07-23",
+"name": "Same NYT report republished, The Baltimore Sun",
+"url": "https://www.baltimoresun.com/news/nation-world/ct-nw-nyt-pentagon-ufo-unit-20200723-b3akzzy44zdgxc3bmhgko6nkgm-story.html"
+},
+{
+"date": "2019-01-17",
+"name": "Federation of American Scientists, 'AATIP List' (Secrecy News)",
+"url": "https://fas.org/publication/aatip-list/"
+},
+{
+"date": "2019-01-16",
+"name": "DIA letter to Steven Aftergood listing 38 AATIP reference products",
+"url": "https://irp.fas.org/dia/aatip-list.pdf"
+},
+{
+"date": "2026-08-12",
+"name": "DIA FOIA Electronic Reading Room - Advanced Aerospace Threat Identification Program",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FOIA-Reading-Room-Advanced-Aerospace-Threat-Identification-Program/"
+},
+{
+"date": "2026-08-12",
+"name": "Wikipedia: Advanced Aerospace Threat Identification Program",
+"url": "https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program"
+},
+{
+"date": "2026-08-12",
+"name": "Wikipedia: The Age of Disclosure (2025 documentary)",
+"url": "https://en.wikipedia.org/wiki/The_Age_of_Disclosure"
+}
+],
+"status": "active",
+"sub": "Astrophysicist, EarthTech International; five-time AAWSAP DIRD author",
+"tier": "A",
+"tierRationale": "Re-graded A on a global pass (rank 23 of 1027, score 106). 20 connections, 7 of them custody/witness/funding/programmatic. Axes C2/A3/D3.",
+"timeline": [
+{
+"date": "2002-10-16",
+"id": "st-2002-wilson",
+"label": "Alleged Wilson meeting",
+"precision": "day",
+"strand": "coverup",
+"text": "The date attributed to Eric Davis's meeting with Vice Adm. Thomas R. Wilson recorded in the notes that surfaced in 2019 among Edgar Mitchell's papers, describing a special access programme that refused a former DIA director access.",
+"tier": "B"
+},
+{
+"date": "2026-03-08",
+"id": "ms-2026-weinstein-davis",
+"label": "Michels puts Eric Davis on record with Eric Weinstein",
+"precision": "day",
+"strand": "witness",
+"text": "A four-hour session working through the Wilson-Davis memo, the count of crashes, crash-retrieval program structure and the legacy program; 766,314 views.",
+"tier": "A"
+}
+],
+"unexplainedResidual": "Neither DoD nor AARO has ever addressed the Wilson-Davis notes in a published report, including in AARO's 2024 Historical Record Report Volume I.",
+"unverified": [
+"Whether AAWSAP funds paid for any Davis work beyond the five named DIRDs.",
+"The chain of custody by which the notes left Davis's possession and entered public circulation in 2019 has not been established on the record.",
+"The provenance chain of the Wilson-Davis memo pages between 2002 and 2019.",
+"Whether Davis was a party to the 2009-2010 negotiation AARO describes.",
+"NewsNation reported in August 2026 (Katie Pavlich Tonight) that Davis said he has 'seen the evidence' and 'seen the records' of recovered non-human bodies of 'a minimum of four' species and asked the White House for immunity before a fuller account. The NewsNation pages could not be opened from this environment (bot wall), so the statement is recorded here as unverified rather than carried as a claim.",
+"The identity of the Defense Department agency Davis briefed in March 2020.",
+"Whether any transcript, memorandum for record, or read-ahead of the 21 October 2019 SASC staff briefing exists in committee files.",
+"Davis's own account of the provenance of the materials he says 'we couldn't make ourselves'."
+]
+}

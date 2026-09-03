@@ -1,0 +1,72 @@
+{
+"A": 3,
+"C": 1,
+"D": 0,
+"band": null,
+"claims": [
+{
+"source": "CHRG-118hhrg57440, 13 November 2024",
+"text": "Rep. Mace proposed General Dynamics as the contractor to which undersea-propulsion material would be routed; Elizondo replied 'Yes, ma'am, absolutely correct. Different contractors have different levels of expertise.'",
+"tier": 2
+}
+],
+"cls": "institution",
+"cluster": "contractor",
+"connections": [
+{
+"claimTier": 2,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2024",
+"direction": "in",
+"edgeLabel": "Alleged domain-partitioned allocation of material across primes by technical expertise",
+"id": "lockheed-martin",
+"l0": true,
+"label": "Lockheed Martin Corporation",
+"note": "Rep. Mace proposed that undersea propulsion material would go to a contractor like General Dynamics and aerospace material to Lockheed; Elizondo answered 'Yes, ma'am, absolutely correct. Different contractors have different levels of expertise.'",
+"sources": [
+{
+"date": "2024-11-13",
+"name": "House Oversight hearing transcript, 'Unidentified Anomalous Phenomena: Exposing the Truth' (CHRG-118hhrg57440)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm"
+}
+],
+"tier": "A",
+"type": "programmatic"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "1952",
+"deg": 1,
+"denials": [],
+"desc": "General Dynamics appears in the record because Rep. Nancy Mace used it as her worked example. On 13 November 2024 she asked Luis Elizondo whether material given to private contractors is allocated by expertise - 'if it is related to submerged and undersea propulsion, would it go to a general contractor like General Dynamics?' - and Elizondo answered 'Yes, ma'am, absolutely correct. Different contractors have different levels of expertise.' The company's documented role is the undersea one: Electric Boat builds and sustains the US ballistic missile and attack submarine fleet, and General Dynamics holds the deepest undersea engineering base in American industry. The exchange is the only public description of a distributed, domain-partitioned custody model, and Mace's choice of General Dynamics as the undersea example was not contradicted by the witness. No document places recovered material at General Dynamics; the company is here because a member of Congress and a former program director together described the architecture in which it would sit.",
+"domains": [
+"primes-custody"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "general-dynamics",
+"l0": false,
+"label": "General Dynamics Corporation",
+"locLabel": null,
+"members": null,
+"short": "General Dynamics Corporation",
+"sources": [
+{
+"date": "2024-11-13",
+"name": "House Oversight hearing transcript, 'Unidentified Anomalous Phenomena: Exposing the Truth' (CHRG-118hhrg57440)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm"
+}
+],
+"sub": "Prime contractor; submarines, undersea systems, Electric Boat",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 784 of 1027, score 19). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A3/D0.",
+"timeline": []
+}

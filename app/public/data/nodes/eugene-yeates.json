@@ -1,0 +1,154 @@
+{
+"A": 3,
+"C": 0,
+"D": 1,
+"affiliations": [
+"National Security Agency, Office of Policy (Chief, c.1980)"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "1980-06-01",
+"event": "CAUS files Civil Action No. 80-1562 against NSA in the District of Columbia.",
+"precision": "month"
+},
+{
+"date": "1980-10-09",
+"event": "Yeates executes the classified affidavit supporting NSA's withholding; submitted for in camera review.",
+"precision": "day"
+},
+{
+"date": "1981-11-03",
+"event": "D.C. Circuit affirms judgment for NSA.",
+"precision": "day"
+},
+{
+"date": "1982-03-08",
+"event": "Supreme Court denies certiorari.",
+"precision": "day"
+},
+{
+"date": "1997-01-01",
+"event": "NSA releases a redacted version of the Yeates affidavit in its UFO FOIA collection.",
+"precision": "year"
+}
+],
+"claims": [
+{
+"source": "NSA UFO FOIA collection, litigation records and the Yeates Affidavit",
+"text": "In 1980 NSA was a defendant in Civil Action No. 80-1562, 'Citizens Against Unidentified Flying Objects Secrecy v. National Security Agency'; the presiding judge was given in camera access to a Top Secret explanation of why the UFO records were being withheld and ruled for NSA.",
+"tier": 1
+},
+{
+"source": "CourtListener, Citizens Against UFO Secrecy v. National Security Agency (D.C. Cir. 1981; cert. denied 1982)",
+"text": "The D.C. Circuit affirmed on 3 November 1981 and the Supreme Court denied certiorari on 8 March 1982.",
+"tier": 1
+},
+{
+"source": "The Black Vault, 'UFOs: The National Security Agency (NSA) Collection'",
+"text": "NSA's UFO holdings were released only with most pages carrying a few visible words, using white-out redaction; a 2013 Mandatory Declassification Review was required to force further release.",
+"tier": 1
+}
+],
+"cls": "person",
+"cluster": "ic",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "1980",
+"direction": "out",
+"edgeLabel": "Chief of NSA's Office of Policy; executed the 1980 in camera affidavit",
+"id": "nsa",
+"l0": true,
+"label": "National Security Agency",
+"note": "The Yeates affidavit is the operative document by which a US intelligence agency established in court that it held UFO material it could not describe publicly.",
+"sources": [
+{
+"date": "1981-11-03",
+"name": "Citizens Against UFO Secrecy v. NSA, D.C. Circuit (CourtListener)",
+"url": "https://www.courtlistener.com/opinion/400210/citizens-against-ufo-secrecy-v-nation-security-age/"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "1980",
+"dateStart": "1980",
+"direction": "out",
+"edgeLabel": "Yeates executed the affidavit as NSA Chief of Policy",
+"id": "yeates-affidavit",
+"l0": false,
+"label": "Yeates Affidavit (NSA, 1980)",
+"note": "The affidavit was submitted for in camera review only; the plaintiffs never saw it and the judge ruled for NSA on its basis.",
+"sources": [
+{
+"date": "2016-09-10",
+"name": "UFOs: The National Security Agency (NSA) Collection - incl. the Yeates Affidavit and CAUS v. NSA litigation records",
+"url": "https://www.theblackvault.com/documentarchive/ufos-the-national-security-agency-nsa-collection/"
+}
+],
+"tier": "B",
+"type": "institutional"
+}
+],
+"date": "1980-10-09",
+"dateEnd": null,
+"dateStart": "1980-10-09",
+"deg": 2,
+"denials": [],
+"domains": [
+"history-1970s-2000s"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "1",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "eugene-yeates",
+"instId": "nsa",
+"l0": false,
+"label": "Eugene F. Yeates",
+"loc": "Fort Meade, MD",
+"locId": "l-ft-meade",
+"members": null,
+"narrative": "Yeates is the man who signed the piece of paper that told a federal judge the United States could not talk about its UFO signals intelligence. In Civil Action No. 80-1562, Citizens Against Unidentified Flying Objects Secrecy v. National Security Agency, NSA located UFO-related records, withheld them, and supported the withholding with a lengthy classified affidavit executed by Yeates as the Agency's Chief of Policy. The district court reviewed it in camera - the judge was cleared to read the explanation the plaintiffs never saw - and ruled for NSA; the D.C. Circuit affirmed on 3 November 1981 and the Supreme Court denied certiorari on 8 March 1982. Years later NSA released the Yeates affidavit itself in redacted form, and it is now in the public UFO release. That document is the single most important artefact of the concealment in this era, because it is an official, sworn, judicially accepted statement that the National Security Agency holds UFO-related communications intelligence whose disclosure would damage national security. The government's position has never been that the records do not exist. Its position has been that they cannot be shown.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Eugene F. Yeates",
+"sources": [
+{
+"date": "2016-09-10",
+"name": "UFOs: The National Security Agency (NSA) Collection - incl. the Yeates Affidavit and CAUS v. NSA litigation records",
+"url": "https://www.theblackvault.com/documentarchive/ufos-the-national-security-agency-nsa-collection/"
+},
+{
+"date": "1981-11-03",
+"name": "Citizens Against UFO Secrecy v. National Security Agency, U.S. Court of Appeals for the D.C. Circuit (CourtListener)",
+"url": "https://www.courtlistener.com/opinion/400210/citizens-against-ufo-secrecy-v-nation-security-age/"
+},
+{
+"date": "1982-03-08",
+"name": "Citizens Against UFO Secrecy v. National Security Agency, Supreme Court of the United States (cert. denied) (CourtListener)",
+"url": "https://www.courtlistener.com/opinion/9037778/citizens-against-ufo-secrecy-v-national-security-agency/"
+}
+],
+"status": "dead",
+"sub": "NSA Chief, Office of Policy; declarant of the in camera affidavit in CAUS v. NSA",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 698 of 1027, score 22). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A3/D1.",
+"timeline": [],
+"unexplainedResidual": "A federal court accepted, in camera, a national-security justification for withholding UFO-related SIGINT. The justification has never been made public.",
+"unverified": [
+"The full unredacted content of the Yeates affidavit remains classified."
+]
+}

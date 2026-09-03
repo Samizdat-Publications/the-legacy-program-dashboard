@@ -1,0 +1,304 @@
+{
+"A": 1,
+"C": 0,
+"D": 3,
+"affiliations": [
+"U.S. House of Representatives, FL-23 (2023- )",
+"House Committee on Oversight and Accountability / Government Reform (2023- )",
+"Congressional UAP Caucus (2023- )",
+"Florida Division of Emergency Management, Director (2019-2021)",
+"US House of Representatives, FL-23 (2023- )",
+"House Oversight Committee",
+"Task Force on the Declassification of Federal Secrets"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "2023-07-26",
+"event": "Questions Grusch on whether US corporations overcharge the government and whether the surplus funds hidden programs.",
+"precision": "day"
+},
+{
+"date": "2023-07-26",
+"event": "Extracts the misappropriation and IR&D funding answers and the 10 U.S.C. 119 waiver discussion",
+"precision": "day"
+},
+{
+"date": "2023-12",
+"event": "'When we ask those questions... they stonewall the information, and that is what piques the interest.'",
+"precision": "month"
+},
+{
+"date": "2024-11-13",
+"event": "Delivers Vice Ranking Member opening statement at the joint Oversight subcommittee hearing; cross-examines Elizondo on the NDA he signed in a SCIF.",
+"precision": "day"
+},
+{
+"date": "2025-02-11",
+"event": "Cosponsors H.R. 1187, the UAP Transparency Act.",
+"precision": "day"
+},
+{
+"date": "2025-09-09",
+"event": "Waived onto the Task Force; states the government is 'definitely being lied to' the public about UAP.",
+"precision": "day"
+},
+{
+"date": "2026-06-09",
+"event": "Appears at the Capitol disclosure event: 'Disclosure today, disclosure tomorrow.'",
+"precision": "day"
+},
+{
+"date": "2026-06-09",
+"event": "Speaks at the Capitol press conference on missing Pentagon funds",
+"precision": "day"
+}
+],
+"claims": [
+{
+"source": "Rep. Jared Moskowitz, Task Force hearing, 9 September 2025 (GPO CHRG-119hhrg61718; The Hill, 9 Sept 2025)",
+"text": "'I don't really know what is true, I don't know, on this subject, but I do know when we're being lied to and we are definitely being lied to, there's just no doubt about that.'",
+"tier": 1
+},
+{
+"source": "CHRG-118hhrg53022, 26 July 2023",
+"text": "Asked Grusch on the record: 'Do you think U.S. corporations are overcharging for certain tech they are selling to the U.S. Government and that additional money is going to programs?'",
+"tier": 1
+},
+{
+"source": "CHRG-118hhrg57440, 13 November 2024",
+"text": "Established on the record that Elizondo signed a US Government document, in a SCIF, in the presence of a security officer, restricting him from discussing crash retrieval.",
+"tier": 1
+},
+{
+"source": "Rep. Moskowitz, December 2023, quoted by The Hill, 12 January 2024",
+"text": "'The problem is when we ask those questions, rather than being provided information that would prove it false, they stonewall the information, and that is what piques the interest.'",
+"tier": 2
+},
+{
+"source": "CHRG-118hhrg53022, 26 July 2023",
+"text": "'It is not something that is just going on in this Administration. It is something that has spanned many administrations.'",
+"tier": 2
+},
+{
+"source": "House Oversight hearing transcript, 26 July 2023",
+"text": "Elicited: funding by 'misappropriation of funds and self-fund,' and 'Correct, through something called IR&D' on contractor overcharging.",
+"tier": 1
+},
+{
+"source": "Moskowitz, Capitol press conference, 9 June 2026, reported by Fox News",
+"text": "'There's trillions of dollars missing at the Pentagon. Where does that money go?'",
+"tier": 2
+}
+],
+"cls": "person",
+"cluster": "oversight",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 2,
+"cls": "event",
+"dateEnd": "2026",
+"dateStart": "2026",
+"direction": "out",
+"edgeLabel": "'Disclosure today, disclosure tomorrow'",
+"id": "capitol-disclosure-event-2026-06-09",
+"l0": false,
+"label": "Capitol UAP disclosure event, 9 June 2026",
+"note": "Keeps the 2026 push bipartisan.",
+"sources": [
+{
+"date": "2026-06-09",
+"name": "The Hill: Government aware of 'several' kinds of aliens — UFO whistleblower",
+"url": "https://thehill.com/homenews/administration/5916231-government-aware-of-several-kinds-of-aliens-ufo-whistleblower/"
+}
+],
+"tier": "B",
+"type": "behavioral"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "2023",
+"dateStart": "2023",
+"direction": "in",
+"edgeLabel": "Moskowitz read Schumer's disclosure language into the House record",
+"id": "chuck-schumer",
+"l0": false,
+"label": "Charles E. Schumer",
+"note": "'The American public has a right to learn about technologies of unknown origins, nonhuman intelligence, and unexplainable phenomena.'",
+"sources": [
+{
+"date": "2023-07-26",
+"name": "U.S. GPO, Hearing transcript, Serial No. 118-53 (CHRG-118hhrg53022)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm"
+}
+],
+"tier": "B",
+"type": "legislative"
+},
+{
+"claimTier": 2,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2023",
+"direction": "out",
+"edgeLabel": "Caucus member; the Democratic anchor",
+"id": "congressional-uap-caucus",
+"l0": true,
+"label": "Congressional UAP Caucus",
+"note": "Described by The Hill as 'a member of the UAP Caucus.'",
+"sources": [
+{
+"date": "2024-01-12",
+"name": "The Hill: Classified UFO briefing — House members emerge with mixed feelings",
+"url": "https://thehill.com/homenews/house/4406059-classified-ufo-briefing-house-members-mixed-feelings/"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "2023",
+"dateStart": "2023",
+"direction": "out",
+"edgeLabel": "Asked whether contractor overcharging funds the concealed programs",
+"id": "david-grusch",
+"l0": false,
+"label": "David Charles Grusch",
+"note": "Moskowitz's questioning produced the only sworn statement on how an unacknowledged program is paid for: misappropriation plus contractor internal research and development money that carries no congressional notification duty.",
+"sources": [
+{
+"date": "2023-07-26",
+"name": "U.S. GPO, Hearing transcript, Serial No. 118-53 (CHRG-118hhrg53022)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm"
+},
+{
+"date": "2023-07-26",
+"name": "House Oversight hearing transcript",
+"url": "https://www.congress.gov/118/meeting/house/116282/documents/HHRG-118-GO06-Transcript-20230726.pdf"
+}
+],
+"tier": "A",
+"type": "funding"
+},
+{
+"claimTier": 1,
+"cls": "legislation",
+"dateEnd": null,
+"dateStart": "2025",
+"direction": "out",
+"edgeLabel": "Cosponsor - the bipartisan half",
+"id": "hr-1187-uap-transparency-act",
+"l0": false,
+"label": "H.R. 1187 - UAP Transparency Act (119th Congress)",
+"note": "Congress.gov cosponsor record.",
+"sources": [
+{
+"date": "2025-02-11",
+"name": "Congress.gov, H.R. 1187 — UAP Transparency Act (119th Congress)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/1187"
+}
+],
+"tier": "C",
+"type": "legislative"
+}
+],
+"date": "2025-09-09",
+"dateEnd": null,
+"dateStart": "2025-09-09",
+"deg": 5,
+"denials": [],
+"domains": [
+"congress-house",
+"grusch"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "jared-moskowitz",
+"instId": "house-oversight-committee",
+"l0": false,
+"label": "Jared Evan Moskowitz",
+"loc": "Parkland, FL",
+"locId": null,
+"members": null,
+"narrative": "Moskowitz is the reason House UAP oversight is bipartisan rather than a Republican project, and he is the member who has most consistently framed it as a money question. At the July 2023 hearing he thanked Burchett and Luna for pushing the hearing into existence and read Chuck Schumer's language into the record: 'The American public has a right to learn about technologies of unknown origins, nonhuman intelligence, and unexplainable phenomena.' His questioning went straight at the financing - he asked Grusch directly whether US corporations are overcharging the government for technology and whether the excess is funding these programs, which is the black-budget mechanism the whole thesis rests on. In December 2023 he gave the cleanest statement of the House's structural complaint: 'The problem is when we ask those questions, rather than being provided information that would prove it false, they stonewall the information, and that is what piques the interest.' In November 2024 he served as Vice Ranking Member at the joint subcommittee hearing. At the 9 September 2025 Task Force hearing, waived on, he said the thing that has been quoted most since: 'I don't really know what is true, I don't know, on this subject, but I do know when we're being lied to and we are definitely being lied to, there's just no doubt about that.' He is a cosponsor of Burchett's H.R. 1187 UAP Transparency Act and appeared at the 9 June 2026 Capitol disclosure event - 'Disclosure today, disclosure tomorrow. The American people deserve to know.'",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Jared Evan Moskowitz",
+"sources": [
+{
+"date": "2023-07-26",
+"name": "U.S. GPO, Hearing transcript, Serial No. 118-53 (CHRG-118hhrg53022)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm"
+},
+{
+"date": "2024-11-13",
+"name": "U.S. GPO, Hearing transcript, Serial No. 118-135 (CHRG-118hhrg57440)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm"
+},
+{
+"date": "2025-09-09",
+"name": "U.S. GPO, Hearing transcript, Serial No. 119-44 (CHRG-119hhrg61718)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm"
+},
+{
+"date": "2025-09-09",
+"name": "The Hill: Moskowitz accuses the US government of lying about UAP",
+"url": "https://thehill.com/homenews/house/5494075-moskowitz-demands-uap-transparency/"
+},
+{
+"date": "2024-01-12",
+"name": "The Hill: Classified UFO briefing — House members emerge with mixed feelings",
+"url": "https://thehill.com/homenews/house/4406059-classified-ufo-briefing-house-members-mixed-feelings/"
+},
+{
+"date": "2025-02-11",
+"name": "Congress.gov, H.R. 1187 — UAP Transparency Act (119th Congress)",
+"url": "https://www.congress.gov/bill/119th-congress/house-bill/1187"
+},
+{
+"date": "2026-06-09",
+"name": "The Hill: Government aware of 'several' kinds of aliens — UFO whistleblower",
+"url": "https://thehill.com/homenews/administration/5916231-government-aware-of-several-kinds-of-aliens-ufo-whistleblower/"
+},
+{
+"date": "2023-07-26",
+"name": "House Oversight hearing transcript, Serial No. 118-53",
+"url": "https://www.congress.gov/118/meeting/house/116282/documents/HHRG-118-GO06-Transcript-20230726.pdf"
+},
+{
+"date": "2026-06-10",
+"name": "Fox News - UAP whistleblower David Grusch accuses agencies of hiding billions",
+"url": "https://www.foxnews.com/politics/ufo-whistleblower-claims-billions-secret-spending-hidden-from-congress"
+}
+],
+"status": "active",
+"sub": "U.S. Rep. (D-FL-23); UAP Caucus; the Democratic anchor of House disclosure",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 321 of 1027, score 35). 5 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A1/D3.",
+"timeline": [
+{
+"date": "2025-09-09",
+"id": "ch-2025-09-09f",
+"label": "'We are definitely being lied to'",
+"precision": "day",
+"strand": "oversight",
+"text": "Moskowitz, waived onto the Task Force, says he does not know what is true on this subject but knows when the government is lying, and that it is.",
+"tier": "A"
+}
+],
+"unexplainedResidual": null,
+"unverified": [
+"Which specific IR&D accounts or contractors Grusch had in mind; he offered specifics only in closed session."
+]
+}

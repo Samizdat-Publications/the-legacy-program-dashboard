@@ -1,0 +1,175 @@
+{
+"A": 2,
+"C": 1,
+"D": 1,
+"affiliations": [
+"US Department of Defense and NASA contract work (1990s-2010s)",
+"Unidentified Aerial Phenomena Task Force - Chief Scientist (c.2020-2022)",
+"Radiance Technologies - Principal Research Scientist (2022- )",
+"The Secret of Skinwalker Ranch (2020- )"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "1999",
+"event": "PhD, optical science and engineering, University of Alabama in Huntsville.",
+"precision": "year"
+},
+{
+"date": "2012",
+"event": "PhD, aerospace engineering, University of Alabama in Huntsville.",
+"precision": "year"
+},
+{
+"date": "2020",
+"event": "Begins leading investigations on 'The Secret of Skinwalker Ranch'.",
+"precision": "year"
+},
+{
+"date": "2021-01-01",
+"event": "Serving as chief scientist of the Unidentified Aerial Phenomena Task Force.",
+"precision": "year"
+},
+{
+"date": "2022-04-01",
+"event": "Listed as Principal Research Scientist at Radiance Technologies.",
+"precision": "month"
+},
+{
+"date": "2022-06-01",
+"event": "Science magazine reports his UAPTF chief scientist role.",
+"precision": "month"
+}
+],
+"claims": [
+{
+"source": "American Alchemy with Jesse Michels, 'There's A UFO Under the Ranch!' - Skinwalker Owner Breaks Silence, 26 July 2026, 2:17:46 https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL9910649891.mp3",
+"text": "On American Alchemy with Jesse Michels, 26 July 2026, Brandon Fugal said the Skinwalker Ranch team did not know Taylor had been made chief scientist of the UAP Task Force while he was returning seasonally to work on the ranch investigation, that Taylor was under national security oaths and confidentiality and 'didn't breach that not even once', and that the team learned only once he had authorisation to disclose it. Fugal said members of his team, including his head of security, initially felt betrayed (2:17:46 to 2:18:44).",
+"tier": 2
+},
+{
+"source": "American Alchemy with Jesse Michels, 'There's A UFO Under the Ranch!' - Skinwalker Owner Breaks Silence, 26 July 2026, 2:19:37 https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL9910649891.mp3",
+"text": "In the same episode Fugal stated the direction of the connection: that the reason Taylor 'was called in and called to that position in large part was was really because of uh the work at' Skinwalker Ranch, and that before being brought to the ranch Taylor had no experience of the subject and was a vocal skeptic (2:16:52, 2:19:37).",
+"tier": 2
+},
+{
+"source": "Science magazine, June 2022",
+"text": "Taylor was the chief scientist on the Unidentified Aerial Phenomena Task Force.",
+"tier": 2
+},
+{
+"source": "Published professional biography",
+"text": "Taylor's pre-UAPTF federal work covered advanced propulsion concepts, space-based beamed energy systems, high-energy lasers, large space telescopes and multi-INT concept studies over more than sixteen years for DoD and NASA.",
+"tier": 2
+},
+{
+"source": "Inference from the overlapping dates; no document addresses the relationship",
+"text": "The overlap between Taylor's UAPTF chief-scientist tenure and his on-camera instrumented investigation of Skinwalker Ranch means the same individual was applying near-identical sensing methodology inside and outside the classified system in the same period, with no public account of what, if anything, crossed between them.",
+"tier": 3
+}
+],
+"cls": "person",
+"cluster": "research",
+"conflicts": [
+"Taylor's television work is routinely cited to discredit his federal role; the federal role is nonetheless separately reported by Science."
+],
+"connections": [
+{
+"claimTier": 3,
+"cls": "location",
+"dateEnd": "2022",
+"dateStart": "2020",
+"direction": "out",
+"edgeLabel": "Led instrumented field investigation at Skinwalker Ranch while serving as UAPTF chief scientist",
+"id": "l-skinwalker",
+"l0": false,
+"label": "Skinwalker Ranch, Uintah Basin, Utah",
+"note": "The same person applied near-identical sensing methodology inside the classified task force and on a television production at the property NIDS and BAASS had studied, with no public account of any relationship between the two efforts.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Wikipedia: Travis S. Taylor",
+"url": "https://en.wikipedia.org/wiki/Travis_S._Taylor"
+}
+],
+"tier": "A",
+"type": "behavioral"
+},
+{
+"claimTier": 2,
+"cls": "program",
+"dateEnd": "2022",
+"dateStart": "2020",
+"direction": "out",
+"edgeLabel": "Chief scientist of the UAP Task Force",
+"id": "uap-task-force",
+"l0": true,
+"label": "Unidentified Aerial Phenomena Task Force (UAPTF)",
+"note": "Reported by Science magazine in June 2022. No government organisation chart naming him in the post has been released.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Wikipedia: Travis S. Taylor",
+"url": "https://en.wikipedia.org/wiki/Travis_S._Taylor"
+}
+],
+"tier": "A",
+"type": "programmatic"
+}
+],
+"date": "2021-01-01",
+"dateEnd": null,
+"dateStart": "2021-01-01",
+"deg": 2,
+"denials": [],
+"domains": [
+"scientists-technical"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "travis-taylor",
+"instId": "radiance-technologies",
+"l0": false,
+"label": "Travis S. Taylor",
+"loc": "Huntsville, AL",
+"locId": "l-huntsville",
+"members": null,
+"narrative": "Taylor is the technical layer's crossover point into the official task force. He holds two doctorates from the University of Alabama in Huntsville - optical science and engineering (1999) and aerospace engineering (2012) - plus master's degrees in physics, mechanical and aerospace engineering, and astronomy, and spent more than sixteen years on DoD and NASA work covering advanced propulsion, space-based beamed energy, high-energy lasers and HUMINT/IMINT/SIGINT/MASINT concept studies. Science magazine reported in June 2022 that Taylor 'was the chief scientist on the' Unidentified Aerial Phenomena Task Force, the Navy/OUSD(I&S)-hosted successor to AATIP that ran from August 2020 until it was folded into AOIMSG and then AARO. That places a serving defence contractor scientist with a propulsion and sensor background at the analytical head of the government's UAP effort in exactly the period the ODNI preliminary assessment was being written. He simultaneously led investigations on History Channel's 'The Secret of Skinwalker Ranch' from 2020, which is the fact critics use against him and the fact this board finds most interesting: the chief scientist of the Pentagon task force was, in the same period, running instrumented field investigation at the property Bigelow bought and NIDS studied. He is a Principal Research Scientist at Radiance Technologies, an employee-owned Huntsville defence contractor, and appears in 'The Age of Disclosure'.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Travis S. Taylor",
+"sources": [
+{
+"date": "2026-07-26",
+"name": "American Alchemy with Jesse Michels, 'There's A UFO Under the Ranch!' - Skinwalker Owner Breaks Silence, episode audio",
+"url": "https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL9910649891.mp3"
+},
+{
+"date": "2026-08-12",
+"name": "Wikipedia: Travis S. Taylor",
+"url": "https://en.wikipedia.org/wiki/Travis_S._Taylor"
+},
+{
+"date": "2026-08-12",
+"name": "Wikipedia: The Age of Disclosure (2025 documentary)",
+"url": "https://en.wikipedia.org/wiki/The_Age_of_Disclosure"
+}
+],
+"status": "active",
+"sub": "Aerospace engineer and optical scientist; Chief Scientist of the Unidentified Aerial Phenomena Task Force; Principal Research Scientist, Radiance Technologies",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 582 of 1027, score 26). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A2/D1.",
+"timeline": [],
+"unexplainedResidual": null,
+"unverified": [
+"Any government document naming Taylor as UAPTF chief scientist.",
+"Whether Radiance Technologies held UAP-related contracts during his tenure."
+]
+}

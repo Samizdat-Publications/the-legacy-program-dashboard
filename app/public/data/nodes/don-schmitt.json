@@ -1,0 +1,138 @@
+{
+"A": 0,
+"C": 0,
+"D": 2,
+"affiliations": [
+"J. Allen Hynek Center for UFO Studies (CUFOS), co-director of special investigations",
+"International UFO Museum and Research Center, Roswell (board)"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "1991",
+"event": "'UFO Crash at Roswell' with Kevin Randle",
+"precision": "year"
+},
+{
+"date": "1994",
+"event": "'The Truth About the UFO Crash at Roswell' with Randle - revised crash scenario",
+"precision": "year"
+},
+{
+"date": "2007",
+"event": "'Witness to Roswell' with Thomas J. Carey, publishing the Walter Haut sealed affidavit",
+"precision": "year"
+}
+],
+"claims": [
+{
+"source": "Library catalogue record, Internet Archive isbn_9780380778034",
+"text": "Schmitt is joint author of record on 'The truth about the UFO crash at Roswell' (1994); some printings misspell his name as 'Schmit' on the title page.",
+"tier": 1
+},
+{
+"source": "Comparison of the two books' published scenarios",
+"text": "The divergence between the 1991 and 1994 Randle-Schmitt crash scenarios is evidence that the Roswell witness pool was being over-fitted: the same authors, working the same case three years apart, produced materially different impact sites and timelines. Reasoning: scenario instability of that magnitude across a single research team indicates witness supply exceeding witness quality.",
+"tier": 3
+}
+],
+"cls": "person",
+"cluster": "research",
+"conflicts": [
+"Kevin Randle publicly broke with Schmitt in the mid-1990s over Schmitt's misrepresentation of his own occupation and credentials."
+],
+"connections": [
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "1996",
+"dateStart": "1991",
+"direction": "in",
+"edgeLabel": "Co-authors of the two Roswell books, later estranged",
+"id": "kevin-randle",
+"l0": false,
+"label": "Kevin D. Randle",
+"note": "'UFO Crash at Roswell' (1991) and 'The Truth About the UFO Crash at Roswell' (1994). Randle later broke with Schmitt over Schmitt's misrepresentation of his own background and withdrew support for witnesses they had jointly relied on.",
+"sources": [
+{
+"date": "1994-01-01",
+"name": "The truth about the UFO crash at Roswell (1994)",
+"url": "https://archive.org/details/truthaboutufocra0000rand"
+}
+],
+"tier": "B",
+"type": "research"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2007",
+"dateStart": "2002-12",
+"direction": "in",
+"edgeLabel": "Schmitt drafted and embargoed the 2002 Haut affidavit",
+"id": "walter-haut",
+"l0": false,
+"label": "Walter Haut",
+"note": "Schmitt composed and emailed the text; Haut signed it at the International UFO Museum before his daughter Julie Shuster and a notary; it was withheld until after Haut's death in 2005 and published in 'Witness to Roswell' (2007).",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Walter Haut - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/Walter_Haut"
+}
+],
+"tier": "B",
+"type": "witness-chain"
+}
+],
+"date": "2007-01-01",
+"dateEnd": null,
+"dateStart": "2007-01-01",
+"deg": 2,
+"denials": [],
+"domains": [
+"w2-retrieval-literature"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "2",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "don-schmitt",
+"instId": "cufos",
+"l0": false,
+"label": "Donald R. Schmitt",
+"loc": "Hubertus, WI",
+"locId": null,
+"members": null,
+"narrative": "Donald R. Schmitt was co-director of special investigations at the J. Allen Hynek Center for UFO Studies and, with Kevin Randle, co-authored 'UFO Crash at Roswell' (1991) and 'The Truth About the UFO Crash at Roswell' (1994) - the pair of books that converted Roswell from a 1980 paperback claim into a subject Congress asked the General Accounting Office to audit. The two books advanced substantially different crash scenarios from each other, which is itself part of the record: the 1994 book relocated the impact site and revised the timeline relative to 1991, on the strength of witnesses who were later withdrawn. Schmitt subsequently partnered with Thomas J. Carey on 'Witness to Roswell' (2007) and 'Inside the Real Area 51' (2013), continuing to develop the deathbed-testimony strand of the case, most importantly the sealed 2002 affidavit of Walter Haut. Schmitt's credibility was damaged in the mid-1990s when it emerged that he had misrepresented his professional background to fellow researchers, and Randle broke with him publicly over it. This board records that because a witness-chain researcher's own reliability is load-bearing on every uncorroborated witness he introduces.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Donald R. Schmitt",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "The truth about the UFO crash at Roswell - catalogue record",
+"url": "https://archive.org/details/isbn_9780380778034"
+},
+{
+"date": "2026-08-12",
+"name": "UFO crash at Roswell (1991) - Internet Archive",
+"url": "https://archive.org/details/ufocrashatroswel00rand"
+}
+],
+"status": "active",
+"sub": "Former co-director of special investigations, J. Allen Hynek Center for UFO Studies; Roswell co-author",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 921 of 1027, score 13). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D2.",
+"timeline": [],
+"unexplainedResidual": null,
+"unverified": [
+"Schmitt's date of birth.",
+"The precise terms of the Randle-Schmitt split as distinct from later published accounts of it."
+]
+}

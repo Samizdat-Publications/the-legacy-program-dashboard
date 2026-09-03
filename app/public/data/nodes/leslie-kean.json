@@ -1,0 +1,430 @@
+{
+"A": 1,
+"C": 0,
+"D": 3,
+"affiliations": [
+"The Debrief (2023)",
+"The New York Times (2017-2019, contributor)",
+"Author, UFOs: Generals, Pilots and Government Officials Go on the Record (2010)",
+"The New York Times (contributor, 2017)",
+"The Debrief (contributor, 2023)",
+"UFODATA",
+"KPFA / Flashpoints (1990s)",
+"Coalition for Freedom of Information",
+"The New York Times (contributing reporter, 2017 AATIP story)",
+"Lobel, Novins & Lamont (counsel: Martin Lobel, Lee Ellen Helfrich)"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "2003-01-31",
+"event": "Files FOIA request with NASA for Kecksburg, Fragology Files 1962-1967, Richard M. Schulherr, Project Moon Dust and Cosmos 96 records",
+"precision": "day"
+},
+{
+"date": "2003-04-11",
+"event": "NASA sends a 'no records' response",
+"precision": "day"
+},
+{
+"date": "2003-06-18",
+"event": "NASA Associate Deputy Administrator James Jennings grants her appeal and promises an expedited agency-wide search",
+"precision": "day"
+},
+{
+"date": "2003-10-15",
+"event": "Notifies NASA of intent to sue after the agency fails to act on the Jennings letter",
+"precision": "day"
+},
+{
+"date": "2003-12-09",
+"event": "Files Kean v. NASA, No. 1:03-cv-02509, in the US District Court for the District of Columbia",
+"precision": "day"
+},
+{
+"date": "2007-02-22",
+"event": "Judge Sullivan orders NASA to submit Exemption 5 withholdings for in camera review",
+"precision": "day"
+},
+{
+"date": "2007-03-20",
+"event": "Summary judgment motions heard before Judge Sullivan",
+"precision": "day"
+},
+{
+"date": "2007-03-27",
+"event": "Memorandum Opinion: NASA has not demonstrated its searches were adequate",
+"precision": "day"
+},
+{
+"date": "2007-10-16",
+"event": "Stipulation of Settlement in Part signed by Judge Sullivan",
+"precision": "day"
+},
+{
+"date": "2009-08-24",
+"event": "Case dismissed on joint motion, NASA having met its obligations under the settlement",
+"precision": "day"
+},
+{
+"date": "2017-12-16",
+"event": "Co-authors the New York Times AATIP story with Blumenthal and Helene Cooper",
+"precision": "day"
+},
+{
+"date": "2017-12-16",
+"event": "New York Times publishes the AATIP story with Blumenthal and Helene Cooper, revealing $22.5M in DoD spending.",
+"precision": "day"
+},
+{
+"date": "2017-12-16",
+"event": "Co-bylines the New York Times story revealing the Advanced Aerospace Threat Identification Program",
+"precision": "day"
+},
+{
+"date": "2023-06-05",
+"event": "Publishes the Grusch story in The Debrief with Blumenthal",
+"precision": "day"
+},
+{
+"date": "2023-06-05",
+"event": "With Blumenthal, publishes David Grusch's crash-retrieval claims in The Debrief.",
+"precision": "day"
+},
+{
+"date": "2023-11-17",
+"event": "Speaks at the inaugural Sol Foundation conference, Stanford University.",
+"precision": "day"
+}
+],
+"claims": [
+{
+"source": "The Debrief, 5 June 2023, bylined Leslie Kean and Ralph Blumenthal",
+"text": "Co-authored the 5 June 2023 Debrief article reporting Grusch's allegations, with on-record corroboration from Karl Nell, Christopher Mellon and the NASIC officer using the name Jonathan Grey.",
+"tier": 1
+},
+{
+"source": "Contemporaneous reporting on the article's provenance, June 2023",
+"text": "The story was offered to and declined by major national outlets before The Debrief published it.",
+"tier": 2
+},
+{
+"source": "Wikipedia, 'Leslie Kean'; New York Times, 16 December 2017 — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"text": "Kean co-authored the 16 December 2017 New York Times article revealing the $22.5M AATIP programme.",
+"tier": 2
+},
+{
+"source": "Wikipedia, 'Leslie Kean'; The Debrief, 5 June 2023 — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"text": "On 5 June 2023 Kean and Blumenthal reported David Grusch's claim that the US holds a secret UFO retrieval programme with multiple vehicles of non-human origin and records of dead pilots.",
+"tier": 2
+},
+{
+"source": "The Sol Foundation, inaugural conference speaker list",
+"text": "Kean was a named speaker at the inaugural Sol Foundation conference, Stanford University, 17-18 November 2023.",
+"tier": 1
+},
+{
+"source": "Federal court docket, D.D.C., via CourtListener/RECAP",
+"text": "Kean v. National Aeronautics and Space Administration, No. 1:03-cv-02509 (D.D.C.), was filed 9 December 2003, assigned to Judge Emmet G. Sullivan, cause '05:552 Freedom of Information Act', and terminated 24 August 2009.",
+"tier": 1
+},
+{
+"source": "Memorandum Opinion, Kean v. NASA, Dkt. 45, 27 March 2007, pp. 1-2 and Conclusion",
+"text": "The court's 27 March 2007 memorandum opinion states that NASA admits its first two searches were inadequate, and holds that the agency 'has not yet met its burden of demonstrating that the search for documents was adequate', denying summary judgment in part.",
+"tier": 1
+},
+{
+"source": "Memorandum Opinion, Kean v. NASA, 27 March 2007, Background section",
+"text": "Her FOIA request of 31 January 2003 sought documents on Kecksburg, the 9 December 1965 incident, the 'Fragology Files' for 1962 to 1967, Richard M. Schulherr, Project Moon Dust and 'Cosmos 96'.",
+"tier": 1
+},
+{
+"source": "Docket entries 55, 56 and the minute orders of 17 October 2007 and 24 August 2009",
+"text": "On 17 October 2007 Judge Sullivan entered a Stipulation of Settlement in Part and ordered joint status reports every sixty days; the case was dismissed 24 August 2009 on the parties' representation that NASA had met its obligations.",
+"tier": 1
+}
+],
+"cls": "person",
+"cluster": "media",
+"conflicts": [
+"Space writer James Oberg argued in 2008 that NASA was unlikely to hold such records, that the men at the Kecksburg site were probably Air Force personnel identifying themselves as NASA, and that Kean's suit was a publicity stunt for her Sci Fi Channel backers. That characterisation is recorded here as a denial artifact; the court's finding on search adequacy is a judicial holding and stands on its own."
+],
+"connections": [
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2023",
+"dateStart": "2023",
+"direction": "out",
+"edgeLabel": "Kean and Blumenthal broke Grusch's crash-retrieval claims",
+"id": "david-grusch",
+"l0": false,
+"label": "David Charles Grusch",
+"note": "On 5 June 2023 they reported Grusch's claim that the US holds a secret UFO retrieval programme with multiple vehicles of non-human origin and records of dead pilots.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Wikipedia - Leslie Kean",
+"url": "https://en.wikipedia.org/wiki/Leslie_Kean"
+}
+],
+"tier": "A",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "2023",
+"dateStart": "2023",
+"direction": "out",
+"edgeLabel": "Co-author; vetted Grusch through Nell and the NASIC officer",
+"id": "debrief-2023-06-05",
+"l0": false,
+"label": "The Debrief: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin",
+"note": "Kean built the story on named and verified corroborators rather than on Grusch alone, interviewing Karl Nell to establish standing and securing the pseudonymous NASIC officer on the record.",
+"sources": [
+{
+"date": "2023-06-05",
+"name": "The Debrief",
+"url": "https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/"
+}
+],
+"tier": "B",
+"type": "investigative"
+},
+{
+"claimTier": 3,
+"cls": "person",
+"dateEnd": "2026",
+"dateStart": "2003",
+"direction": "in",
+"edgeLabel": "Two FOIA-first approaches to the same concealment question",
+"id": "grant-cameron",
+"l0": false,
+"label": "Grant Cameron",
+"note": "Cameron requests presidential and agency paper and publishes null returns; Kean litigated a null return to a judicial finding of inadequate search. Reasoning: both treat the absence of records as the evidentiary object rather than as an obstacle.",
+"sources": [
+{
+"date": "2007-03-27",
+"name": "Memorandum Opinion, Kean v. NASA, 27 March 2007",
+"url": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.106063/gov.uscourts.dcd.106063.45.0.pdf"
+}
+],
+"tier": "C",
+"type": "research"
+},
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": "2009-08-24",
+"dateStart": "2003-12-09",
+"direction": "out",
+"edgeLabel": "Plaintiff who forced a court-supervised NASA records search",
+"id": "kean-v-nasa",
+"l0": false,
+"label": "Kean v. NASA, No. 1:03-cv-02509 (D.D.C.)",
+"note": "Kean filed the complaint on 9 December 2003, obtained a 27 March 2007 finding that NASA had not shown its searches adequate, settled in part on 16 October 2007 and litigated status reports until dismissal on 24 August 2009.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Kean v. NASA docket, No. 1:03-cv-02509 (D.D.C.)",
+"url": "https://www.courtlistener.com/docket/4707805/kean-v-national-aeronautics-and-space-administration/"
+},
+{
+"date": "2007-03-27",
+"name": "Memorandum Opinion, Kean v. NASA, 27 March 2007",
+"url": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.106063/gov.uscourts.dcd.106063.45.0.pdf"
+}
+],
+"tier": "C",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": "2017",
+"dateStart": "2017",
+"direction": "in",
+"edgeLabel": "Co-byline with Helene Cooper and Ralph Blumenthal",
+"id": "nyt-2017-12-16",
+"l0": true,
+"label": "New York Times, 'Glowing Auras and Black Money: The Pentagon's Mysterious U.F.O. Program'",
+"note": "Kean and Blumenthal had cultivated the sources; Cooper supplied the Pentagon beat. The trio's byline is what moved the story from fringe to record.",
+"sources": [
+{
+"date": "2017-12-16",
+"name": "New York Times (NICAP copy)",
+"url": "https://www.nicap.org/reports2/2004_20171216_NYTArt_1.pdf"
+}
+],
+"tier": "A",
+"type": "investigative"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2023",
+"dateStart": "2017",
+"direction": "out",
+"edgeLabel": "Co-authors of both defining stories, 2017 and 2023",
+"id": "ralph-blumenthal",
+"l0": false,
+"label": "Ralph Blumenthal",
+"note": "The 16 December 2017 New York Times AATIP story and the 5 June 2023 David Grusch story were both written by Kean and Blumenthal; Helene Cooper was a third author on the 2017 piece.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Wikipedia - Leslie Kean",
+"url": "https://en.wikipedia.org/wiki/Leslie_Kean"
+}
+],
+"tier": "C",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "2023",
+"dateStart": "2023",
+"direction": "out",
+"edgeLabel": "Spoke at the inaugural Stanford conference, November 2023",
+"id": "sol-foundation",
+"l0": true,
+"label": "The Sol Foundation",
+"note": "Kean was a named speaker at the 17-18 November 2023 inaugural conference, linking the journalistic and institutional wings.",
+"sources": [
+{
+"date": "2023-11-17",
+"name": "The Sol Foundation - Inaugural Conference",
+"url": "https://thesolfoundation.org/events/the-inaugural-annual-conference-of-the-sol-foundation/"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 3,
+"cls": "person",
+"dateEnd": "2007",
+"dateStart": "2003",
+"direction": "out",
+"edgeLabel": "Gordon's witness pool underwrote the evidentiary premise of the suit",
+"id": "stan-gordon",
+"l0": false,
+"label": "Stan Gordon",
+"note": "The claim that something was recovered at Kecksburg, and therefore that records should exist, rests on the local testimony Gordon assembled. Reasoning: no document independently establishes a recovery, so the suit's factual premise is his witness base.",
+"sources": [
+{
+"date": "2007-03-27",
+"name": "Memorandum Opinion, Kean v. NASA, 27 March 2007",
+"url": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.106063/gov.uscourts.dcd.106063.45.0.pdf"
+}
+],
+"tier": "C",
+"type": "witness-chain"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "2023",
+"dateStart": "2023",
+"direction": "out",
+"edgeLabel": "The Debrief published the Grusch story the NYT did not run",
+"id": "the-debrief",
+"l0": false,
+"label": "The Debrief",
+"note": "The same authors whose AATIP scoop the New York Times published in 2017 took the 2023 Grusch story to The Debrief. The placement, not the verification, is the notable fact.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "The Debrief - About",
+"url": "https://thedebrief.org/about/"
+}
+],
+"tier": "C",
+"type": "investigative"
+}
+],
+"date": "2023-06-05",
+"dateEnd": null,
+"dateStart": "2023-06-05",
+"deg": 9,
+"denials": [],
+"domains": [
+"grusch",
+"media-structure",
+"w2-retrieval-literature"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "leslie-kean",
+"instId": "the-debrief",
+"l0": false,
+"label": "Leslie Kean",
+"loc": "New York, NY",
+"locId": "l-nyc",
+"members": null,
+"narrative": "Leslie Kean is the person in this domain who took the government to court and won a search. On 31 January 2003 she filed a FOIA request with NASA for records referring to Kecksburg, the incident of 9 December 1965, the 'Fragology Files' for 1962-1967, Richard M. Schulherr, Project Moon Dust and Cosmos 96. NASA answered 'no records' on 11 April 2003. She appealed; NASA's Associate Deputy Administrator James Jennings granted the appeal on 18 June 2003 and promised an expedited agency-wide search; NASA then failed to act on its own letter, a failure the court later attributed to poor tracking and the relocation of the FOIA office. On 15 October 2003 she notified NASA she intended to sue, and on 9 December 2003 - thirty-eight years to the day after Kecksburg - she filed Kean v. National Aeronautics and Space Administration, Civil Action No. 03-2509 (EGS), in the United States District Court for the District of Columbia, represented by Lobel, Novins & Lamont. Judge Emmet G. Sullivan held a hearing on 20 March 2007 and on 27 March 2007 issued a memorandum opinion finding that NASA had not met its burden of showing its searches were adequate, denying the agency summary judgment on the search question and ordering the parties to propose search and documentation procedures that would create a proper record. NASA settled in part on 16 October 2007 and searched under court supervision, filing joint status reports every sixty days until the case was dismissed on 24 August 2009. Kean went on to write 'UFOs: Generals, Pilots and Government Officials Go on the Record' (2010) and, with Ralph Blumenthal and Helene Cooper, the 16 December 2017 New York Times story that revealed AATIP.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Leslie Kean",
+"sources": [
+{
+"date": "2023-06-05",
+"name": "The Debrief - Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin",
+"url": "https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/"
+},
+{
+"date": "2026-08-12",
+"name": "Wikipedia - David Grusch UFO whistleblower claims (sourcing and publication history)",
+"url": "https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims"
+},
+{
+"date": "2026-08-12",
+"name": "Wikipedia - Leslie Kean",
+"url": "https://en.wikipedia.org/wiki/Leslie_Kean"
+},
+{
+"date": "2023-11-17",
+"name": "The Sol Foundation - Inaugural Annual Conference",
+"url": "https://thesolfoundation.org/events/the-inaugural-annual-conference-of-the-sol-foundation/"
+},
+{
+"date": "2026-08-12",
+"name": "Kean v. NASA, No. 1:03-cv-02509 (D.D.C.) - full docket",
+"url": "https://www.courtlistener.com/docket/4707805/kean-v-national-aeronautics-and-space-administration/"
+},
+{
+"date": "2007-03-27",
+"name": "Memorandum Opinion, Kean v. NASA, 27 March 2007 (Dkt. 45)",
+"url": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.106063/gov.uscourts.dcd.106063.45.0.pdf"
+}
+],
+"status": "active",
+"sub": "Investigative journalist; co-author of the 5 June 2023 Debrief story",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 176 of 1027, score 45). 9 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A1/D3.",
+"timeline": [
+{
+"date": "2017-12-16",
+"id": "ms-2017-nyt",
+"label": "NYT reveals AATIP",
+"precision": "day",
+"strand": "program",
+"text": "Leslie Kean, Ralph Blumenthal and Helene Cooper publish the New York Times story revealing $22.5M in DoD spending on the Advanced Aerospace Threat Identification Program - the article that makes the modern disclosure era possible.",
+"tier": "A"
+}
+],
+"unexplainedResidual": null,
+"unverified": [
+"Which outlets declined the story and on what stated grounds.",
+"Kean's date of birth. The contents of the two emails between FOIA officer Stephen McConnell and NASA attorney Bierbower, which the court reviewed in camera and upheld as withheld under Exemption 5."
+]
+}

@@ -1,0 +1,118 @@
+{
+"A": 2,
+"C": 2,
+"D": 2,
+"band": null,
+"claims": [
+{
+"source": "Halt memorandum, 13 Jan 81; The Black Vault provenance statement",
+"text": "The December 1980 events occurred just outside RAF Woodbridge, then used by the United States Air Force, and were reported up the chain by the deputy base commander, Lt Col Charles I. Halt.",
+"tier": 1
+},
+{
+"source": "David Clarke, 40th-anniversary account, 26 Dec 2020",
+"text": "Forty years later the UK Ministry of Defence desk officer who handled the file spoke publicly for the first time about how the report was processed.",
+"tier": 2
+}
+],
+"cls": "location",
+"cluster": "legacy",
+"connections": [
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2015",
+"dateStart": "2013",
+"direction": "in",
+"edgeLabel": "Service medical records for the incident window could not be produced",
+"id": "john-burroughs",
+"l0": false,
+"label": "John Burroughs",
+"note": "Burroughs reported that his USAF medical records for December 1980-January 1981 were unavailable when he sought them for a VA disability claim; the claim was granted in 2015 after congressional intervention.",
+"sources": [
+{
+"date": "2020-12-26",
+"name": "BBC News, 'Rendlesham Forest UFO: Are we any closer to the truth 40 years on?'",
+"url": "https://www.bbc.co.uk/news/uk-england-suffolk-54649675"
+},
+{
+"date": "2020-12-26",
+"name": "David Clarke, 'Rendlesham UFOs 40th anniversary: the man from the ministry speaks for the first time'",
+"url": "https://drdavidclarke.co.uk/2020/12/26/rendlesham-ufos-40th-anniversary-the-man-from-the-ministry-speaks-for-the-first-time/"
+}
+],
+"tier": "B",
+"type": "custody"
+},
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": "1981",
+"dateStart": "1980",
+"direction": "in",
+"edgeLabel": "Incident occurred at and around a USAF-operated nuclear-capable NATO base",
+"id": "rendlesham-1980",
+"l0": true,
+"label": "Rendlesham Forest Incident, RAF Woodbridge/Bentwaters",
+"note": "RAF Woodbridge and RAF Bentwaters were operated by the USAF's 81st Tactical Fighter Wing under NATO arrangements.",
+"sources": [
+{
+"date": "2021-11-11",
+"name": "The Halt Memo - Rendlesham Forest Incident (DoD FOIA case 97-F-1677, released Sept 1997)",
+"url": "https://www.theblackvault.com/documentarchive/the-halt-memo-the-rendlesham-forest-incident/"
+},
+{
+"date": "2020-12-26",
+"name": "David Clarke, 'Rendlesham UFOs 40th anniversary: the man from the ministry speaks for the first time'",
+"url": "https://drdavidclarke.co.uk/2020/12/26/rendlesham-ufos-40th-anniversary-the-man-from-the-ministry-speaks-for-the-first-time/"
+}
+],
+"tier": "A",
+"type": "institutional"
+}
+],
+"coords": null,
+"dateEnd": "1993",
+"dateStart": "1943",
+"deg": 2,
+"denials": [],
+"desc": "Twin Royal Air Force stations in Suffolk operated by the United States Air Force throughout the Cold War, home to the 81st Tactical Fighter Wing and its A-10 aircraft, and - as later confirmed - a nuclear weapons storage site under NATO arrangements. The status matters: the December 1980 events took place at and around a facility of the highest security category, and were documented in an official memorandum by the deputy base commander which the Air Force then released under FOIA while the UK Ministry of Defence maintained that the events had no defence significance. The base closed in the 1990s. The forest is now a public UFO trail, which is its own commentary on how the record was resolved.",
+"domains": [
+"history-1970s-2000s"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "l-raf-woodbridge",
+"l0": false,
+"label": "RAF Woodbridge / RAF Bentwaters, Suffolk, England",
+"locLabel": null,
+"members": null,
+"short": "RAF Woodbridge / RAF Bentwaters, Suffolk, England",
+"sources": [
+{
+"date": "2021-11-11",
+"name": "The Halt Memo - Rendlesham Forest Incident (DoD FOIA case 97-F-1677, released Sept 1997)",
+"url": "https://www.theblackvault.com/documentarchive/the-halt-memo-the-rendlesham-forest-incident/"
+},
+{
+"date": "2020-12-26",
+"name": "David Clarke, 'Rendlesham UFOs 40th anniversary: the man from the ministry speaks for the first time'",
+"url": "https://drdavidclarke.co.uk/2020/12/26/rendlesham-ufos-40th-anniversary-the-man-from-the-ministry-speaks-for-the-first-time/"
+},
+{
+"date": "2020-12-26",
+"name": "BBC News, 'Rendlesham Forest UFO: Are we any closer to the truth 40 years on?'",
+"url": "https://www.bbc.co.uk/news/uk-england-suffolk-54649675"
+}
+],
+"sub": "USAF-operated twin NATO bases; 81st Tactical Fighter Wing; nuclear-capable",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 536 of 1027, score 28). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A2/D2.",
+"timeline": []
+}

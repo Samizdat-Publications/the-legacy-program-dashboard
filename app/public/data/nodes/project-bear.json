@@ -1,0 +1,134 @@
+{
+"A": 2,
+"C": 2,
+"D": 1,
+"band": null,
+"claims": [
+{
+"source": "AARO, Historical Record Report Volume I, March 2024",
+"text": "'Project BEAR was an informal name given by Capt Ruppelt... to a contract he created with the Battelle Memorial Institute (BMI) to provide scientific support to the new Project GRUDGE.' Battelle 'released a report under the cover of ATIC to maintain its anonymity. Completed in late 1954, the report was titled Special Report No. 14.'",
+"tier": 1
+}
+],
+"cls": "program",
+"cluster": "legacy",
+"connections": [
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "1954",
+"dateStart": "1954",
+"direction": "out",
+"edgeLabel": "Battelle's authorship of Special Report No. 14 was deliberately concealed behind an ATIC cover",
+"id": "battelle",
+"l0": true,
+"label": "Battelle Memorial Institute",
+"note": "AARO states that Battelle 'released a report under the cover of ATIC to maintain its anonymity.' The first public analytical product of the government's UFO investigation was ghost-written by a private contractor at the contractor's request.",
+"sources": [
+{
+"date": "2024-03-08",
+"name": "AARO, 'Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP), Volume I'",
+"url": "https://documents2.theblackvault.com/documents/dod/AARO_Historical_Record_Report_Volume_1_2024.pdf"
+}
+],
+"tier": "A",
+"type": "denial"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "1954",
+"dateStart": "1951",
+"direction": "in",
+"edgeLabel": "Battelle held the Project BEAR contract supplying the science behind Project GRUDGE and BLUE BOOK",
+"id": "battelle",
+"l0": true,
+"label": "Battelle Memorial Institute",
+"note": "AARO's own history records the contract, the questionnaire and punch-card work, and the resulting Special Report No. 14.",
+"sources": [
+{
+"date": "2024-03-08",
+"name": "AARO, 'Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP), Volume I'",
+"url": "https://documents2.theblackvault.com/documents/dod/AARO_Historical_Record_Report_Volume_1_2024.pdf"
+}
+],
+"tier": "A",
+"type": "programmatic"
+}
+],
+"coords": null,
+"dateEnd": "1954",
+"dateStart": "1951",
+"deg": 1,
+"denials": [
+{
+"by": {
+"id": "project-bear",
+"label": "Project BEAR (Battelle contract to Project GRUDGE)"
+},
+"claimTier": 1,
+"denialKind": "undirected",
+"label": "Battelle's authorship of Special Report No. 14 was deliberately concealed behind an ATIC cover",
+"note": "AARO states that Battelle 'released a report under the cover of ATIC to maintain its anonymity.' The first public analytical product of the government's UFO investigation was ghost-written by a private contractor at the contractor's request.",
+"of": {
+"id": "battelle",
+"label": "Battelle Memorial Institute"
+},
+"sources": [
+{
+"date": "2024-03-08",
+"name": "AARO, 'Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP), Volume I'",
+"url": "https://documents2.theblackvault.com/documents/dod/AARO_Historical_Record_Report_Volume_1_2024.pdf"
+}
+]
+}
+],
+"desc": "Project BEAR was the informal name Captain Edward Ruppelt gave to the contract he created with the Battelle Memorial Institute to supply scientific support to Project GRUDGE. Battelle built the improved observer questionnaire, designed the punch-card system that automated statistical analysis of the accumulated sighting files, and produced the study issued in late 1954 as Special Report No. 14. AARO's own history records the crucial detail: Battelle 'released a report under the cover of ATIC to maintain its anonymity.' The first public analytical product of the US government's UFO investigation was written by a private contractor whose authorship was concealed at the contractor's request, and issued under an Air Force cover. Whatever one concludes about the report's findings, the arrangement establishes the pattern at the origin of the file: contractor performs the analysis, government takes the byline, and the contractor's own holdings and working papers stay with the contractor.",
+"domains": [
+"primes-custody"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "project-bear",
+"l0": false,
+"label": "Project BEAR (Battelle contract to Project GRUDGE)",
+"locLabel": null,
+"members": null,
+"short": "Project BEAR (Battelle contract to Project GRUDGE)",
+"sources": [
+{
+"date": "2024-03-08",
+"name": "AARO, 'Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP), Volume I'",
+"url": "https://documents2.theblackvault.com/documents/dod/AARO_Historical_Record_Report_Volume_1_2024.pdf"
+}
+],
+"sub": "Contractor scientific support to Project GRUDGE and BLUE BOOK, 1951-1954",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 541 of 1027, score 28). 2 connections, 1 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C2/A2/D1.",
+"timeline": [
+{
+"date": "1951-01-01",
+"id": "pc-1951-bear",
+"label": "Battelle contracted to Project GRUDGE",
+"precision": "year",
+"strand": "program",
+"text": "Capt. Edward Ruppelt creates the contract he calls Project BEAR with the Battelle Memorial Institute to supply scientific support to the Air Force UFO investigation. The first private contractor enters the file.",
+"tier": "A"
+},
+{
+"date": "1954-12-01",
+"id": "pc-1954-sr14",
+"label": "Battelle's authorship of Special Report No. 14 concealed",
+"precision": "month",
+"strand": "coverup",
+"text": "Battelle completes the statistical study issued as Special Report No. 14 and, per AARO's own history, 'released a report under the cover of ATIC to maintain its anonymity.' Contractor performs, government takes the byline.",
+"tier": "A"
+}
+]
+}

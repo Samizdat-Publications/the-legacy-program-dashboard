@@ -1,0 +1,92 @@
+{
+"A": 1,
+"C": 0,
+"D": 1,
+"affiliations": [
+"U.S. House of Representatives, LA-3 (2017- )",
+"Committee on Oversight and Accountability / Government Reform"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "2024-11-13",
+"event": "Cross-examines Shellenberger on the sourcing and provenance of the Immaculate Constellation report.",
+"precision": "day"
+}
+],
+"claims": [
+{
+"source": "Rep. Clay Higgins questioning Michael Shellenberger, 13 November 2024, GPO CHRG-118hhrg57440",
+"text": "Established on the record that Shellenberger knows the author of the Immaculate Constellation report and knows the author's sources, expresses confidence in them, and declined to say whether they are within the Department of Defense ('I cannot say' / 'you cannot say or you will not say').",
+"tier": 1
+}
+],
+"cls": "person",
+"cluster": "oversight",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": "2024",
+"direction": "out",
+"edgeLabel": "Adversarial cross-examination that fixed the document's evidentiary status",
+"id": "immaculate-constellation-12-page-report",
+"l0": true,
+"label": "Immaculate Constellation 12-page report entered into the Congressional Record",
+"note": "Higgins established that the withholding of source identities was a choice, not an absence.",
+"sources": [
+{
+"date": "2024-11-13",
+"name": "U.S. GPO, Hearing transcript, Serial No. 118-135 (CHRG-118hhrg57440)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm"
+}
+],
+"tier": "A",
+"type": "investigative"
+}
+],
+"date": "2024-11-13",
+"dateEnd": null,
+"dateStart": "2024-11-13",
+"deg": 1,
+"denials": [],
+"domains": [
+"congress-house"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "clay-higgins",
+"instId": "house-oversight-committee",
+"l0": false,
+"label": "Glen Clay Higgins",
+"loc": "Lafayette, LA",
+"locId": null,
+"members": null,
+"narrative": "Higgins performed the most rigorous adversarial questioning of the November 2024 hearing, and it improves rather than damages the record. A former law enforcement officer, he took Shellenberger through the Immaculate Constellation sourcing methodically: whether a non-public version of the author's report exists and where it might be found, whether the author's sources are known to him, whether they are inside the Department of Defense. Shellenberger confirmed he knows the author and knows the sources, expressed confidence in them, and declined to say whether they sit inside DoD - answering 'I cannot say' and then declining to distinguish cannot from will not. That exchange is the reason the 12-page document entered the Congressional Record as a sourced claim rather than an anonymous leak: a hostile questioner established that the journalist knew and could identify his sources and was withholding their identity by choice, not because they did not exist.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Glen Clay Higgins",
+"sources": [
+{
+"date": "2024-11-13",
+"name": "U.S. GPO, Hearing transcript, Serial No. 118-135 (CHRG-118hhrg57440)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm"
+}
+],
+"status": "active",
+"sub": "U.S. Rep. (R-LA-3); pressed Shellenberger on his Immaculate Constellation sourcing",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 998 of 1027, score 9). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D1.",
+"timeline": [],
+"unexplainedResidual": null,
+"unverified": []
+}

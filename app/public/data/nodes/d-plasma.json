@@ -1,0 +1,128 @@
+{
+"A": 2,
+"C": 1,
+"D": 1,
+"band": null,
+"claims": [
+{
+"source": "Condon Report, Section VI Chapter 7",
+"text": "The Condon Report contains a dedicated chapter by Martin D. Altschuler on atmospheric electricity and plasma interpretations of UFOs.",
+"tier": 1
+},
+{
+"source": "NASA UAP Independent Study Team Report",
+"text": "The NASA UAP Independent Study Team report (September 2023) identified poor sensor calibration and missing metadata as central obstacles to distinguishing atmospheric phenomena from anomalous objects.",
+"tier": 1
+},
+{
+"source": "Inference from documented directed-energy research at Kirtland AFB and the Condon plasma analysis",
+"text": "Directed-energy and plasma signature-control testing produces observables indistinguishable to an untrained observer from reported UAP, and is concentrated at facilities that also feature in this board's case record. Reasoning: the physics of plasma generation and confinement is common to both applications.",
+"tier": 3
+}
+],
+"cls": "domain",
+"cluster": "research",
+"connections": [
+{
+"claimTier": 3,
+"cls": "domain",
+"dateEnd": null,
+"dateStart": "1980-12-29",
+"direction": "in",
+"edgeLabel": "Shared clinical signature",
+"id": "d-medical",
+"l0": false,
+"label": "Medical & Injury Effects",
+"note": "Dermal burn and neurological presentations attributed to anomalous encounters are also produced by directed-energy and radiofrequency exposure, which the board records rather than resolves.",
+"sources": [
+{
+"date": "2010-01-01",
+"name": "DIRD 26 - Anomalous Acute and Subacute Field Effects on Human Biological Tissues",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_26-DIRD_Anomalous_Acute_and_Subacute_Field_Effects_on_Human_Biological_Tissues.pdf"
+}
+],
+"tier": "B",
+"type": "research"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "subject domain: compact non-tokamak fusion power",
+"id": "dird-inertial-electrostatic-confinement-fusion",
+"l0": false,
+"label": "Inertial Electrostatic Confinement Fusion",
+"note": "IEC is one of the few AAWSAP topics with a plausible conventional aerospace reading: a compact fusion device is what a small craft would need if it were producing the observed energy budget. The DIRD set contains four fusion-adjacent deliverables in total - Miley's IEC paper, Winterberg's advanced nuclear propulsion, Teofilo's aneutronic fusion propulsion for Lockheed Martin, and Culbreth's aneutronic fusion propulsion II.",
+"sources": [
+{
+"date": "2026-08-22",
+"name": "Released DIRD, 'Inertial Electrostatic Confinement Fusion' — FOIA copy, cover page read 22 August 2026",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_09-DIRD_Inertial_Electrostatic_Confinement_Fusion.pdf"
+},
+{
+"date": "2026-08-22",
+"name": "DIA FOIA Electronic Reading Room entry for this reference document",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237663/"
+},
+{
+"date": null,
+"name": "https://irp.fas.org/dia/aatip-list.pdf",
+"url": "https://irp.fas.org/dia/aatip-list.pdf"
+},
+{
+"date": null,
+"name": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html",
+"url": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html"
+}
+],
+"tier": "B",
+"type": "research"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "1968-11-01",
+"deg": 2,
+"denials": [],
+"desc": "Plasma is the explanation that has to be defeated before any exotic reading is admissible, and it has held that role since the Condon Report, whose chapter by Martin D. Altschuler on 'Atmospheric Electricity and Plasma Interpretations of UFOs' worked through ball lightning, corona discharge and tornado-associated luminosity as candidate sources of sighting reports. The honest position is that plasma accounts for a real and probably substantial fraction of luminous-object reports, and that ball lightning itself remains incompletely explained - so the prosaic explanation invokes a phenomenon that is not fully understood either. What makes this a program domain rather than an atmospheric-science footnote is the dual use: the physics of generating, confining and steering plasma at a distance is the physics of directed-energy weapons and of radiofrequency plasma sheathing for radar signature control, work concentrated at the Air Force Research Laboratory's directed energy activity at Kirtland AFB - a base that recurs on this board for entirely separate reasons. An observer near such a test would see something that behaves like nothing they can name. Scoring high on this domain means an entity worked plasma physics in a defence or laboratory setting.",
+"domains": [
+"w2-taxonomy"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "d-plasma",
+"l0": false,
+"label": "Plasma Physics & Atmospheric Electricity",
+"locLabel": null,
+"members": null,
+"short": "Plasma Physics & Atmospheric Electricity",
+"sources": [
+{
+"date": "1968-11-01",
+"name": "Condon Report, Section VI Chapter 7 - Atmospheric Electricity and Plasma Interpretations of UFOs (Altschuler)",
+"url": "https://files.ncas.org/condon/text/s6chap07.htm"
+},
+{
+"date": "2023-09-14",
+"name": "NASA Unidentified Anomalous Phenomena Independent Study Team Report",
+"url": "https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf"
+},
+{
+"date": "2026-08-12",
+"name": "Wikipedia - Kirtland Air Force Base",
+"url": "https://en.wikipedia.org/wiki/Kirtland_Air_Force_Base"
+}
+],
+"sub": "Scientific domain - the leading prosaic explanation, and the same physics as a directed-energy capability",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 743 of 1027, score 21). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D1.",
+"timeline": []
+}

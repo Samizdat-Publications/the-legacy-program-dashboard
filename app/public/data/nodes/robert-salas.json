@@ -1,0 +1,226 @@
+{
+"A": 2,
+"C": 0,
+"D": 3,
+"affiliations": [
+"US Air Force Academy",
+"341st Strategic Missile Wing, Malmstrom AFB",
+"Martin Marietta; Rockwell International",
+"Federal Aviation Administration (1974-c.1995)"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "1967-03-16",
+"event": "Echo Flight, 341st SMW, Malmstrom AFB: all ten Minuteman missiles go off alert status",
+"precision": "day"
+},
+{
+"date": "1967-03-24",
+"event": "Date Salas gives for the Oscar Flight incident he personally experienced",
+"precision": "day"
+},
+{
+"date": "1971",
+"event": "Resigns his Air Force commission",
+"precision": "year"
+},
+{
+"date": "1996",
+"event": "First public account, in an interview with the Great Falls Tribune",
+"precision": "year"
+},
+{
+"date": "1996-10-01",
+"event": "Col. Frederick Meiwald writes to Salas about the incident; letter later published in facsimile",
+"precision": "day"
+},
+{
+"date": "2005",
+"event": "Publishes 'Faded Giant' with James Klotz",
+"precision": "year"
+},
+{
+"date": "2010-09-27",
+"event": "Speaks at the National Press Club UFO-Nukes Connection press conference",
+"precision": "day"
+},
+{
+"date": "2025",
+"event": "Participates in the documentary 'The Age of Disclosure'",
+"precision": "year"
+}
+],
+"claims": [
+{
+"source": "American Alchemy with Jesse Michels, 'Air Force Officer: A UFO Shut Down 10 Nukes in Seconds (ft. Bob Salas)', 12 July 2025, 0:58:13, https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL8813107798.mp3?updated=1752514599",
+"text": "On American Alchemy with Jesse Michels, 12 July 2025, at 0:58:13, Salas said he did not learn his own incident was at Oscar Flight rather than Echo Flight until 1996, when he reached his former commander Fred Meiwald, who told him 'we were not at Echo Flight. We were at Oscar flight'. Salas says he had spoken of the Echo Flight incident as his own because it was so similar to what he recalled. This is his own account of the discrepancy the board's node already records.",
+"tier": 2
+},
+{
+"source": "American Alchemy with Jesse Michels, 'Meet the Nuclear Missile Guard Abducted by Aliens', 9 February 2026, 0:19:06 https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL9102178952.mp3?updated=1770679988",
+"text": "On American Alchemy with Jesse Michels, 9 February 2026, Michels said that Strategic Air Command 'wrote up a whole write up saying we're baffled and confused' about the Echo Flight incident, which he placed eight days before the Oscar Flight shutdown, and that targeting officer Bob Jamison went in to check why the ten missiles went down (0:19:06). No document number, date or addressee is given for the SAC write-up.",
+"tier": 2
+},
+{
+"source": "ufohastings.com document archive, item af_teletype_1967-03-17_loss_of_strategic_alert — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"text": "An Air Force teletype dated 17 March 1967 reporting loss of strategic alert at Malmstrom AFB is published in facsimile in the UFOs & Nukes document archive under the heading 'Malmstrom AFB, March 16, 1967 (Echo Flight shutdown)'.",
+"tier": 2
+},
+{
+"source": "Salas, Great Falls Tribune interview (1996); signed affidavit published by Robert Hastings; 'Faded Giant' (2005)",
+"text": "Salas states that while on duty in a Minuteman launch control capsule at Malmstrom in March 1967 he received a report from topside security police of a glowing red object over the front gate, and that his flight's missiles then went off alert.",
+"tier": 2
+},
+{
+"source": "ufohastings.com, 'Letters' section, meiwald_letter_10-1-1996",
+"text": "Col. Frederick Meiwald, Salas's commander, wrote to Salas on 1 October 1996 concerning the incident; the letter is published in facsimile.",
+"tier": 2
+},
+{
+"source": "ufohastings.com, 'Witness Affidavits', salas_01 and salas_02",
+"text": "Salas signed an affidavit on the incident which Robert Hastings publishes in facsimile.",
+"tier": 2
+}
+],
+"cls": "person",
+"cluster": "witness",
+"conflicts": [
+"A later investigation attributes the loss of power and the visual report to a nearby test of an electromagnetic pulse simulator. James Carlson, son of the Echo Flight commander, has publicly disputed Salas's account. Salas has additionally claimed a 1985 abduction from his home, which is a separate and ungradeable claim and is not relied on here."
+],
+"connections": [
+{
+"claimTier": 2,
+"cls": "event",
+"dateEnd": "1996",
+"dateStart": "1967-03",
+"direction": "out",
+"edgeLabel": "Principal named witness to the March 1967 shutdown",
+"id": "malmstrom-echo-flight-1967",
+"l0": false,
+"label": "Malmstrom AFB missile shutdowns, March 1967",
+"note": "Salas first went on the record in 1996 with the Great Falls Tribune, describing a security police report of a glowing red object over the front gate immediately before his flight's missiles went off alert.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "UFOs & Nukes document archive",
+"url": "https://www.ufohastings.com/documents"
+}
+],
+"tier": "B",
+"type": "witness-chain"
+},
+{
+"claimTier": 2,
+"cls": "event",
+"dateEnd": "2010-09-27",
+"dateStart": "2010-09-27",
+"direction": "out",
+"edgeLabel": "Spoke on the record and has a signed affidavit on file",
+"id": "npc-2010-ufos-nukes",
+"l0": false,
+"label": "UFO-Nukes Connection press conference, National Press Club, 27 September 2010",
+"note": "Salas is among the named affiants in the UFOs & Nukes archive and spoke at the 2010 event.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "UFOs & Nukes document archive",
+"url": "https://www.ufohastings.com/documents"
+},
+{
+"date": "2010-09-27",
+"name": "CNN coverage, National Press Club, 27 September 2010",
+"url": "https://archive.org/details/FullCnnCoverageOfPressConferenceufosAtNuclearWeaponBases"
+}
+],
+"tier": "C",
+"type": "witness-chain"
+},
+{
+"claimTier": 3,
+"cls": "program",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "The administrative regime his testimony was given against",
+"id": "prp-nuclear-weapon",
+"l0": false,
+"label": "DoD Nuclear Weapon Personnel Reliability Program (DoD Directive 5210.42)",
+"note": "Salas was a missile combat crew commander at a PRP site; the programme is the administrative regime his testimony was given against, which is an inference from the directive's scope and not a statement about him.",
+"sources": [
+{
+"date": "1993-05-25",
+"name": "DoD Directive 5210.42, 25 May 1993, DTIC AD-A271698",
+"url": "https://archive.org/download/DTIC_ADA271698/DTIC_ADA271698_djvu.txt"
+}
+],
+"tier": "B",
+"type": "witness-chain"
+}
+],
+"date": "2025-01-01",
+"dateEnd": null,
+"dateStart": "2025-01-01",
+"deg": 3,
+"denials": [],
+"domains": [
+"w2-retrieval-literature"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "robert-salas",
+"instId": null,
+"l0": false,
+"label": "Capt. Robert L. Salas",
+"loc": "Ojai, CA",
+"locId": "l-malmstrom",
+"members": null,
+"narrative": "Robert L. Salas is the named officer at the centre of the Malmstrom March 1967 missile shutdown claim. A US Air Force Academy graduate with a master's in aerospace engineering from the Air Force Institute of Technology, he served seven years on active duty as an ICBM launch controller and missile propulsion engineer, resigned his commission in 1971, worked at Martin Marietta and Rockwell International, then spent two decades at the Federal Aviation Administration to about 1995. He first went on the record in a 1996 interview with the Great Falls Tribune: while on duty in a launch control capsule at Malmstrom he took a call from a topside Air Force security police officer reporting a glowing red object hovering over the front gate, and within moments the missiles in his flight went off alert status one after another. He has repeated the account in a signed affidavit held by Robert Hastings, in his books 'Faded Giant' (2005, with James Klotz) and 'Unidentified' (2014), at the 27 September 2010 National Press Club event, and in the 2025 documentary 'The Age of Disclosure'. His most important corroboration is a letter from his commander, Col. Frederick Meiwald, dated 1 October 1996, published in facsimile by Hastings. Salas is also the case where this board's grading discipline bites hardest in both directions: the underlying fact that a Malmstrom flight of ten Minuteman missiles went off alert in March 1967 is documented in Air Force paper, while the causal attribution to an aerial object is testimony, and a competing engineering explanation - a nearby electromagnetic pulse simulator test - has been advanced against it.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Capt. Robert L. Salas",
+"sources": [
+{
+"date": "2025-07-12",
+"name": "American Alchemy with Jesse Michels, 'Air Force Officer: A UFO Shut Down 10 Nukes in Seconds (ft. Bob Salas)' (episode audio)",
+"url": "https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL8813107798.mp3?updated=1752514599"
+},
+{
+"date": "2026-02-09",
+"name": "American Alchemy with Jesse Michels, 'Meet the Nuclear Missile Guard Abducted by Aliens', episode audio",
+"url": "https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL9102178952.mp3?updated=1770679988"
+},
+{
+"date": "2026-08-12",
+"name": "Robert Salas - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/Robert_Salas"
+},
+{
+"date": "2026-08-12",
+"name": "UFOs & Nukes - document and affidavit archive (Robert Hastings)",
+"url": "https://www.ufohastings.com/documents"
+},
+{
+"date": "1984-01-01",
+"name": "Fawcett and Greenwood, 'Clear Intent: The Government Coverup of the UFO Experience' (1984) - full text",
+"url": "https://archive.org/details/clear-intent-the-government-coverup-of-the-ufo-experience"
+}
+],
+"status": "active",
+"sub": "USAF Academy graduate; Minuteman missile launch officer, 341st SMW, Malmstrom AFB, March 1967",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 307 of 1027, score 36). 3 connections, 3 of them custody/witness/funding/programmatic. Axes C0/A2/D3.",
+"timeline": [],
+"unexplainedResidual": null,
+"unverified": [
+"Whether Salas was on duty at Echo Flight on 16 March or at Oscar Flight on 24 March 1967; the dating has shifted across his accounts and no unit roster settling it has been released.",
+"The full 341st Strategic Missile Wing unit history for March 1967 has not been read in the original here."
+]
+}

@@ -1,0 +1,144 @@
+{
+"A": 1,
+"C": 0,
+"D": 1,
+"affiliations": [
+"NASA Headquarters",
+"NASA liaison to the Department of Defense for UAP data, sensors and analysis",
+"NASA Director of UAP Research (2023- )"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "2023-09-14",
+"event": "Appointment as NASA Director of UAP Research announced without his name; identified in a subsequent statement",
+"precision": "day"
+}
+],
+"claims": [
+{
+"source": "The Debrief, 14 September 2023",
+"text": "NASA announced a Director of UAP Research on 14 September 2023 without naming the appointee at the briefing; a subsequent statement identified Mark McInerney.",
+"tier": 1
+}
+],
+"cls": "person",
+"cluster": "research",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2023",
+"direction": "out",
+"edgeLabel": "NASA Director of UAP Research",
+"id": "nasa",
+"l0": true,
+"label": "National Aeronautics and Space Administration",
+"note": "Appointment announced 14 September 2023; no public outputs from the role have been identified since.",
+"sources": [
+{
+"date": "2023-09-14",
+"name": "The Debrief - NASA IST publishes findings, agency appoints UAP research director",
+"url": "https://thedebrief.org/nasas-uap-independent-study-team-publishes-its-findings-as-the-agency-appoints-a-new-nasa-director-of-uap-research/"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "2023",
+"dateStart": "2023",
+"direction": "in",
+"edgeLabel": "NASA announced the UAP research director but withheld the name at the briefing",
+"id": "nicola-fox",
+"l0": false,
+"label": "Nicola J. Fox",
+"note": "The agency that had spent a year arguing stigma prevents UAP science then shielded its own appointee from that stigma by not naming him; subsequent reporting identified Mark McInerney.",
+"sources": [
+{
+"date": "2023-09-14",
+"name": "The Debrief - NASA IST publishes findings, agency appoints UAP research director",
+"url": "https://thedebrief.org/nasas-uap-independent-study-team-publishes-its-findings-as-the-agency-appoints-a-new-nasa-director-of-uap-research/"
+}
+],
+"tier": "C",
+"type": "denial"
+}
+],
+"date": "2023-09-14",
+"dateEnd": null,
+"dateStart": "2023-09-14",
+"deg": 2,
+"denials": [
+{
+"by": {
+"id": "nicola-fox",
+"label": "Nicola J. Fox"
+},
+"claimTier": 1,
+"denialKind": "directed",
+"label": "NASA announced the UAP research director but withheld the name at the briefing",
+"note": "The agency that had spent a year arguing stigma prevents UAP science then shielded its own appointee from that stigma by not naming him; subsequent reporting identified Mark McInerney.",
+"of": {
+"id": "mark-mcinerney",
+"label": "Mark McInerney"
+},
+"sources": [
+{
+"date": "2023-09-14",
+"name": "The Debrief - NASA IST publishes findings, agency appoints UAP research director",
+"url": "https://thedebrief.org/nasas-uap-independent-study-team-publishes-its-findings-as-the-agency-appoints-a-new-nasa-director-of-uap-research/"
+}
+]
+}
+],
+"domains": [
+"aviators-incidents"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "mark-mcinerney",
+"instId": "nasa",
+"l0": false,
+"label": "Mark McInerney",
+"loc": "Washington, DC",
+"locId": "l-dc",
+"members": null,
+"narrative": "McInerney is the man NASA would not name. On 14 September 2023, releasing the Independent Study Team report, Administrator Bill Nelson announced that the agency had appointed a Director of UAP Research and declined to identify the appointee at the briefing; a subsequent statement named McInerney, previously NASA's liaison to the Department of Defense on limited UAP data, sensors and analysis. He is a low-visibility node with high symbolic weight: the entire NASA exercise was premised on the claim that stigma prevents scientific work on UAP, and the agency's first act on completing it was to protect its own appointee from that stigma by withholding his name. For a board built on the premise of deliberate concealment, this is a useful calibration point - it shows the same protective reflex operating in an open civil agency with nothing classified at stake, which is exactly the reflex that, inside a compartmented defence program, produces a decades-long hole in the record.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Mark McInerney",
+"sources": [
+{
+"date": "2023-09-14",
+"name": "The Debrief - NASA IST publishes findings, agency appoints UAP research director",
+"url": "https://thedebrief.org/nasas-uap-independent-study-team-publishes-its-findings-as-the-agency-appoints-a-new-nasa-director-of-uap-research/"
+},
+{
+"date": "2026-08-12",
+"name": "NASA - UAP program page",
+"url": "https://science.nasa.gov/uap/"
+}
+],
+"status": "active",
+"sub": "NASA Director of UAP Research (announced unnamed, 14 Sept 2023)",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 895 of 1027, score 14). 2 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D1.",
+"timeline": [],
+"unexplainedResidual": null,
+"unverified": [
+"What NASA's Director of UAP Research has produced since September 2023; no public outputs, reports or organisational placement have been identified.",
+"Whether the role retains a liaison function to DoD/AARO."
+]
+}

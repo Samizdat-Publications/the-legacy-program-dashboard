@@ -1,0 +1,82 @@
+{
+"A": 2,
+"C": 1,
+"D": 1,
+"band": null,
+"claims": [
+{
+"source": "https://defensescoop.com/2026/06/17/new-science-advisory-council-forms-to-help-us-government-resolve-the-uap-mystery/",
+"text": "The UAP Science Advisory Council reports to the UAP Governance Board, whose mission includes optimising interagency processes to ensure more effective support to AARO.",
+"tier": 2
+},
+{
+"source": "https://defensescoop.com/2026/06/17/new-science-advisory-council-forms-to-help-us-government-resolve-the-uap-mystery/",
+"text": "No charter, membership roster or meeting record for the UAP Governance Board is public as of 12 August 2026. Reasoning: it is named only in derivative reporting about the Science Advisory Council and appears on no AARO or war.gov page.",
+"tier": 3
+}
+],
+"cls": "institution",
+"cluster": "oversight",
+"connections": [
+{
+"claimTier": 2,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2026-06-17",
+"direction": "in",
+"edgeLabel": "reports to",
+"id": "uap-science-advisory-council",
+"l0": true,
+"label": "UAP Science Advisory Council",
+"note": "The council reports to the interagency UAP Governance Board, which the Sol Foundation describes as coordinating across military, law enforcement and intelligence community agencies.",
+"sources": [
+{
+"date": "2026-06-17",
+"name": "DefenseScoop, UAP Science Advisory Council",
+"url": "https://defensescoop.com/2026/06/17/new-science-advisory-council-forms-to-help-us-government-resolve-the-uap-mystery/"
+},
+{
+"date": "2026-06-22",
+"name": "Sol Foundation, co-founders named to UAP Science Advisory Council",
+"url": "https://thesolfoundation.org/sol-foundation-co-founders-named-to-uap-science-advisory-council/"
+}
+],
+"tier": "A",
+"type": "institutional"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": null,
+"deg": 1,
+"denials": [],
+"desc": "An interagency governance body sitting above AARO whose stated mission includes optimising interagency processes to ensure more effective support to the All-domain Anomaly Resolution Office, and to which the UAP Science Advisory Council announced on 17 June 2026 reports. Its existence matters to this board because it is the layer where the question of who actually controls the UAP portfolio is settled, and because AARO's own statutory position - an OSD office under 50 U.S.C. 3373 with a director reporting through USD(I&S) - does not by itself explain a board 'supporting' it. As of 12 August 2026 no charter, membership roster or meeting record for the Governance Board has been published on aaro.mil or war.gov, and its relationship to the PURSUE release programme is undocumented in the public record: PURSUE is run from the Secretary of War's web estate, the Governance Board is described as supporting AARO, and no published instrument connects the two. This is a first-order research target - a named interagency board with no published charter is precisely the object the Unidentified Anomalous Phenomena Disclosure Act's records-review machinery would be able to reach.",
+"domains": [
+"w2-2025-2026"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "nd",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "uap-governance-board",
+"l0": false,
+"label": "UAP Governance Board",
+"locLabel": null,
+"members": null,
+"short": "UAP Governance Board",
+"sources": [
+{
+"date": "2026-06-17",
+"name": "DefenseScoop, science advisory council report",
+"url": "https://defensescoop.com/2026/06/17/new-science-advisory-council-forms-to-help-us-government-resolve-the-uap-mystery/"
+}
+],
+"sub": "Interagency board above AARO; receives the Science Advisory Council",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 867 of 1027, score 16). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D1.",
+"timeline": []
+}

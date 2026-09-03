@@ -1,0 +1,160 @@
+{
+"A": 0,
+"C": 0,
+"D": 2,
+"affiliations": [
+"Dark Skies (creator/showrunner, 1996-1997)",
+"Academy of Television Arts and Sciences (chairman/CEO, 2001-2003)",
+"CNN (correspondent)"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "1996-01-01",
+"event": "Creates and showruns Dark Skies, a UFO-conspiracy series built around a secret control group.",
+"precision": "year"
+},
+{
+"date": "2012-01-01",
+"event": "Co-authors A.D. (After Disclosure) with Richard Dolan.",
+"precision": "year"
+}
+],
+"claims": [
+{
+"source": "Wikipedia, 'Bryce Zabel', retrieved 12 August 2026 — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"text": "Zabel co-authored A.D. (After Disclosure) with Richard Dolan, concerning an extraterrestrial presence covertly interacting with humans and governments and what develops when the fact is made public.",
+"tier": 2
+},
+{
+"source": "Wikipedia, 'Bryce Zabel' — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"text": "Zabel was showrunner of the UFO-conspiracy series Dark Skies (1996-1997) and was elected chairman and CEO of the Academy of Television Arts and Sciences in 2001.",
+"tier": 2
+},
+{
+"source": "Television Academy, Bryce Zabel bio and Presidents and Chairs list",
+"text": "The Television Academy's own biography describes Zabel as 'chairman/CEO of the Academy of Television Arts & Sciences from 2002 to 2003, the first writer in that position since Rod Serling.' Its separate list of Presidents and Chairs carries the entry '2002-2003 Bryce Zabel Chair/CEO' independently.",
+"tier": 2
+},
+{
+"source": "Television Academy, Bryce Zabel bio",
+"text": "The Television Academy credits Zabel with creating five primetime network series including the 'Emmy-winning Dark Skies (NBC)', alongside Kay O'Brien, M.A.N.T.I.S., The Crow: Stairway to Heaven and E.N.G.",
+"tier": 2
+},
+{
+"source": "Absence checked against both Television Academy pages, 25 August 2026",
+"text": "Neither Television Academy page mentions A.D. (After Disclosure) or Richard Dolan. The co-authorship claim on this board rests on the encyclopedic source alone and has not been replaced with a primary one.",
+"tier": 2
+}
+],
+"cls": "person",
+"cluster": "media",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "2023-06-24",
+"direction": "out",
+"edgeLabel": "co-host holding an unaired Grusch 'pre-interview'",
+"id": "david-grusch",
+"l0": false,
+"label": "David Charles Grusch",
+"note": "In the Need To Know episode 'David Grusch: He's Still Here' (24 June 2023), hosted by Zabel with Ross Coulthart, the episode note states: 'And Bryce adds: there's a second interview - actually the pre-interview - that Need to Know controls.'",
+"sources": [
+{
+"date": null,
+"name": "https://podcasts.apple.com/us/podcast/david-grusch-hes-still-here/id1600409359?i=1000618172003",
+"url": "https://podcasts.apple.com/us/podcast/david-grusch-hes-still-here/id1600409359?i=1000618172003"
+}
+],
+"tier": "A",
+"type": "investigative"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "2024-09-13",
+"direction": "out",
+"edgeLabel": "co-hosted 'Elizondo Unplugged' interview",
+"id": "luis-elizondo",
+"l0": false,
+"label": "Luis D. Elizondo",
+"note": "Elizondo appeared with Coulthart and Zabel on the Need To Know episode 'Elizondo Unplugged' (13 September 2024), discussing his book Imminent, crash retrievals and non-human intelligence.",
+"sources": [
+{
+"date": null,
+"name": "https://podcasts.apple.com/us/podcast/elizondo-unplugged/id1600409359?i=1000669382895",
+"url": "https://podcasts.apple.com/us/podcast/elizondo-unplugged/id1600409359?i=1000669382895"
+}
+],
+"tier": "A",
+"type": "investigative"
+}
+],
+"date": "2012-01-01",
+"dateEnd": null,
+"dateStart": "2012-01-01",
+"deg": 2,
+"denials": [],
+"domains": [
+"media-structure",
+"w13-thin-people"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "2",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "bryce-zabel",
+"instId": null,
+"l0": false,
+"label": "Bryce Zabel",
+"loc": "Los Angeles, CA",
+"locId": "l-la",
+"members": null,
+"narrative": "Bryce Zabel matters to this board for one specific reason: he is the person who systematically worked through what happens after disclosure, rather than whether it will occur. With Richard Dolan he co-authored A.D. (After Disclosure), which treats the end of the secret as a governance and social-order problem - who is prosecuted, what happens to markets and religions, how a state that lied for eighty years re-legitimates itself. That is the question the legislative strand keeps colliding with and never answers. Zabel's professional background is unusual for the field: a University of Oregon broadcast journalism graduate and former CNN correspondent who became a television showrunner, created the UFO-conspiracy series Dark Skies in 1996, and in 2001 was elected chairman and CEO of the Academy of Television Arts and Sciences. Dark Skies is itself an artefact worth noting - a prime-time dramatisation of a Majestic-12-style control group broadcast in 1996, which is either prescient or evidence of how long the structural narrative has been in circulation.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Bryce Zabel",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Wikipedia - Bryce Zabel",
+"url": "https://en.wikipedia.org/wiki/Bryce_Zabel"
+},
+{
+"date": "2026-08-25",
+"name": "Television Academy, Bryce Zabel bio",
+"url": "https://www.televisionacademy.com/bios/bryce-zabel"
+},
+{
+"date": "2026-08-25",
+"name": "Television Academy, Presidents and Chairs of the Television Academy",
+"url": "https://www.televisionacademy.com/academy/about/presidents"
+}
+],
+"status": "active",
+"sub": "Television writer-producer; co-author, A.D. After Disclosure",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 848 of 1027, score 16). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D2.",
+"timeline": [
+{
+"date": "1996-01-01",
+"id": "ms-1996-darkskies",
+"label": "Dark Skies airs",
+"precision": "year",
+"strand": "coverup",
+"text": "Bryce Zabel creates and showruns Dark Skies, a prime-time dramatisation of a Majestic-12-style control group - a dateable marker of how long the control-group narrative has been in mass circulation.",
+"tier": "C"
+}
+],
+"unexplainedResidual": null,
+"unverified": []
+}

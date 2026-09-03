@@ -1,0 +1,144 @@
+{
+"A": 0,
+"C": 1,
+"D": 2,
+"band": null,
+"claims": [
+{
+"source": "https://defensescoop.com/2026/07/21/pentagon-investigating-ufo-uap-event-near-virginia-coast/",
+"text": "AARO is investigating a US Navy report of approximately 100 airborne UAP and two likely uncrewed surface systems off the Virginia coast; it is the sole maritime case among the 319 reports in the FY2025 annual report.",
+"tier": 2
+},
+{
+"source": "https://defensescoop.com/2026/07/21/pentagon-investigating-ufo-uap-event-near-virginia-coast/",
+"text": "AARO's stated constraint on the case: 'A lack of timely and actionable sensor data continues to constrain AARO's ability to resolve cases.'",
+"tier": 2
+},
+{
+"source": "https://defensescoop.com/2026/07/21/pentagon-investigating-ufo-uap-event-near-virginia-coast/",
+"text": "No case number, incident date, hull or unit has been made public for an event involving roughly 100 objects in US home waters. Reasoning: DefenseScoop reported the Pentagon declined to provide additional information and the FY2025 report describes the case without identifiers.",
+"tier": 3
+}
+],
+"cls": "event",
+"cluster": "witness",
+"connections": [
+{
+"claimTier": 2,
+"cls": "document",
+"dateEnd": "2026-07-21",
+"dateStart": "2026-07-21",
+"direction": "out",
+"edgeLabel": "sole maritime case in the report",
+"id": "aaro-fy2025-annual-report",
+"l0": true,
+"label": "AARO FY2025 Consolidated Annual Report on UAP",
+"note": "AARO disclosed the Virginia event on the same day it published the FY2025 report that contains it, and said a lack of timely and actionable sensor data continues to constrain resolution.",
+"sources": [
+{
+"date": "2026-07-21",
+"name": "DefenseScoop, Navy UAP event off Virginia",
+"url": "https://defensescoop.com/2026/07/21/pentagon-investigating-ufo-uap-event-near-virginia-coast/"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 3,
+"cls": "program",
+"dateEnd": null,
+"dateStart": "2026-07-21",
+"direction": "out",
+"edgeLabel": "a mass event against a case system still being procured",
+"id": "aaro-jwics-case-management-2025",
+"l0": false,
+"label": "AARO JWICS case management system (sources sought, May 2025)",
+"note": "Roughly 100 objects and two uncrewed surface systems reported by Navy assets, in an office whose purpose-built case management system was still at the sources-sought stage in mid-2025.",
+"sources": [
+{
+"date": "2026-07-21",
+"name": "DefenseScoop, Navy UAP event off Virginia",
+"url": "https://defensescoop.com/2026/07/21/pentagon-investigating-ufo-uap-event-near-virginia-coast/"
+},
+{
+"date": "2025-05-21",
+"name": "DefenseScoop, AARO case management system",
+"url": "https://defensescoop.com/2025/05/21/ufo-uap-pentagon-aaro-exploring-new-options-track-manage-reports/"
+}
+],
+"tier": "C",
+"type": "research"
+},
+{
+"claimTier": 3,
+"cls": "person",
+"dateEnd": "2026-07-21",
+"dateStart": "2023-02-15",
+"direction": "in",
+"edgeLabel": "two maritime cases, three years apart, both unresolved",
+"id": "alexandro-wiggins",
+"l0": false,
+"label": "Alexandro Wiggins",
+"note": "The USS Jackson transmedium event of February 2023 and the roughly 100 objects with two uncrewed surface systems off Virginia are the two maritime anchors of the current record; neither has a public case number.",
+"sources": [
+{
+"date": "2025-09-09",
+"name": "Wiggins Written Statement",
+"url": "https://oversight.house.gov/wp-content/uploads/2025/09/Wiggins-Written-Statement.pdf"
+},
+{
+"date": "2026-07-21",
+"name": "DefenseScoop, Navy UAP event off Virginia",
+"url": "https://defensescoop.com/2026/07/21/pentagon-investigating-ufo-uap-event-near-virginia-coast/"
+}
+],
+"tier": "A",
+"type": "temporal"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "2026-07-21",
+"deg": 3,
+"denials": [],
+"desc": "On 21 July 2026 DefenseScoop reported that AARO was investigating a US Navy report of approximately 100 airborne unidentified anomalous phenomena together with two likely uncrewed surface systems off the coast of Virginia. It is the sole maritime case among the 319 reports recorded in AARO's FY2025 Consolidated Annual Report, published 21 July 2026 - meaning it surfaced publicly on the same day as the report that contains it. Its properties are the ones AARO's methodology cannot dispose of by the usual route: it is not a single fleeting object but a mass event with a simultaneous surface component, reported by Navy assets, in a home-waters operating area adjacent to the largest concentration of US naval infrastructure in the world. AARO's stated position is that the case is open and being worked in coordination with the reporting unit, and its stated constraint is the standing one: 'A lack of timely and actionable sensor data continues to constrain AARO's ability to resolve cases.' The Pentagon declined to provide further information when asked. No case number, incident date, hull or squadron has been made public.",
+"domains": [
+"w2-2025-2026"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "virginia-coast-uap-2026",
+"l0": false,
+"label": "Navy UAP event off the Virginia coast (reported July 2026)",
+"locLabel": null,
+"members": null,
+"short": "Navy UAP event off the Virginia coast (reported July 2026)",
+"sources": [
+{
+"date": "2026-07-21",
+"name": "DefenseScoop, 'Pentagon investigating mysterious UAP event reported by the Navy near Virginia's coast'",
+"url": "https://defensescoop.com/2026/07/21/pentagon-investigating-ufo-uap-event-near-virginia-coast/"
+}
+],
+"sub": "~100 airborne UAP and two likely uncrewed surface systems; under AARO investigation",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 868 of 1027, score 16). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A0/D2.",
+"timeline": [
+{
+"date": "2026-07-21",
+"id": "tl-virginia-2026",
+"label": "Navy reports ~100 UAP and two uncrewed surface systems off Virginia",
+"precision": "day",
+"strand": "witness",
+"text": "Disclosed the same day AARO's FY2025 annual report appeared; the sole maritime case in that report; no case number, date, hull or unit made public.",
+"tier": "2"
+}
+]
+}

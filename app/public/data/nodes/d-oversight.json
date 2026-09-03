@@ -1,0 +1,233 @@
+{
+"A": 2,
+"C": 0,
+"D": 3,
+"band": null,
+"claims": [
+{
+"source": "10 U.S.C. Sec. 119",
+"text": "10 U.S.C. 119 permits the Secretary of Defense to waive SAP congressional notification, limiting reporting to the chairmen and ranking members of the defence committees.",
+"tier": 1
+},
+{
+"source": "DoD OIG, DODIG-2023-109 unclassified summary",
+"text": "The DoD Inspector General published an unclassified summary of DODIG-2023-109, 'Evaluation of the DoD's Actions Regarding Unidentified Anomalous Phenomena', on 25 January 2024.",
+"tier": 1
+},
+{
+"source": "House Oversight Committee hearing page",
+"text": "The House Committee on Oversight and Government Reform held a hearing titled 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection' on 9 September 2025.",
+"tier": 1
+}
+],
+"cls": "domain",
+"cluster": "other",
+"connections": [
+{
+"claimTier": 1,
+"cls": "domain",
+"dateEnd": null,
+"dateStart": "2017-12-16",
+"direction": "out",
+"edgeLabel": "The movement's only binding lever",
+"id": "d-disclosure",
+"l0": false,
+"label": "Disclosure Movement",
+"note": "Every enacted transparency provision came through committee process; the disclosure movement's instruments are procedural because the substantive question cannot be reached.",
+"sources": [
+{
+"date": "2023-12-22",
+"name": "NDAA FY2024 (P.L. 118-31)",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm"
+},
+{
+"date": "2025-09-09",
+"name": "House Oversight - Restoring Public Trust Through UAP Transparency and Whistleblower Protection",
+"url": "https://oversight.house.gov/hearing/restoring-public-trust-through-uap-transparency-and-whistleblower-protection/"
+}
+],
+"tier": "C",
+"type": "legislative"
+},
+{
+"claimTier": 1,
+"cls": "domain",
+"dateEnd": null,
+"dateStart": "2023-12-22",
+"direction": "out",
+"edgeLabel": "Records law as the oversight instrument that worked",
+"id": "d-records",
+"l0": false,
+"label": "Records & Archives",
+"note": "Subtitle C of P.L. 118-31 is the only binding UAP transparency outcome Congress has produced, and it operates through records custody rather than through programme access.",
+"sources": [
+{
+"date": "2023-12-22",
+"name": "NDAA FY2024 (P.L. 118-31)",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm"
+}
+],
+"tier": "B",
+"type": "legislative"
+},
+{
+"claimTier": 1,
+"cls": "domain",
+"dateEnd": null,
+"dateStart": "1987-01-01",
+"direction": "in",
+"edgeLabel": "Waived notification limits reporting to eight members",
+"id": "d-sap",
+"l0": false,
+"label": "Special Access Programs",
+"note": "The waiver authority in 10 U.S.C. 119(e) is the statutory provision congressional witnesses cite when describing why members cannot confirm a programme's existence.",
+"sources": [
+{
+"date": "2024-01-01",
+"name": "10 U.S.C. Sec. 119",
+"url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim"
+}
+],
+"tier": "B",
+"type": "legislative"
+},
+{
+"claimTier": 1,
+"cls": "domain",
+"dateEnd": null,
+"dateStart": "1960-01-01",
+"direction": "in",
+"edgeLabel": "Compartmentation defeats committee access",
+"id": "d-secrecy-architecture",
+"l0": false,
+"label": "Secrecy Architecture",
+"note": "10 U.S.C. 119's waiver provision reduces notification to eight members without staff, which is the specific point at which the secrecy architecture and congressional oversight collide.",
+"sources": [
+{
+"date": "2024-01-01",
+"name": "10 U.S.C. Sec. 119",
+"url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "domain",
+"dateEnd": null,
+"dateStart": "2023-07-26",
+"direction": "out",
+"edgeLabel": "Sworn testimony is oversight's evidence-gathering act",
+"id": "d-witness",
+"l0": false,
+"label": "Witness Chain",
+"note": "The 26 July 2023 and 9 September 2025 House Oversight hearings converted witness accounts into sworn congressional record.",
+"sources": [
+{
+"date": "2025-09-09",
+"name": "House Oversight - Restoring Public Trust Through UAP Transparency and Whistleblower Protection",
+"url": "https://oversight.house.gov/hearing/restoring-public-trust-through-uap-transparency-and-whistleblower-protection/"
+}
+],
+"tier": "B",
+"type": "witness-chain"
+},
+{
+"claimTier": 1,
+"cls": "location",
+"dateEnd": null,
+"dateStart": "2023-07-26",
+"direction": "out",
+"edgeLabel": "Where the hearings happen",
+"id": "l-dc",
+"l0": false,
+"label": "Washington, D.C.",
+"note": "The July 2023 and September 2025 House Oversight UAP hearings, and the NARA records collection created by P.L. 118-31, are all seated in the District of Columbia.",
+"sources": [
+{
+"date": "2025-09-09",
+"name": "House Oversight - Restoring Public Trust Through UAP Transparency and Whistleblower Protection",
+"url": "https://oversight.house.gov/hearing/restoring-public-trust-through-uap-transparency-and-whistleblower-protection/"
+},
+{
+"date": "2023-12-22",
+"name": "NDAA FY2024 (P.L. 118-31)",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm"
+}
+],
+"tier": "B",
+"type": "geographic"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "1966-04-05",
+"deg": 6,
+"denials": [],
+"desc": "Congressional oversight of the deepest access tiers is not a matter of will but of architecture, and the architecture is written down. Under 10 U.S.C. 119 the Secretary of Defense may waive notification of a special access programme so that only the chairs and ranking members of four defence committees are told - eight members, ordinarily without cleared staff, ordinarily orally, with no ability to take notes away or consult a colleague. A member outside that eight who suspects a programme exists has no lawful route to confirm it, and a member inside it has no lawful route to tell anyone. That is the structural fact the disclosure fight has been trying to break since 2017. The instruments Congress has reached for are traceable: mandatory reporting requirements in successive NDAAs, the creation of AARO with a statutory mandate to review the historical record, the Department of Defense Inspector General's evaluation DODIG-2023-109, and - on 9 September 2025 - a House Oversight hearing titled 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection' that put the access problem itself on the record. Scoring high on this domain means an entity sits at the point where the executive's information meets Congress's right to it: a committee chair, a cleared staff director, an IG, or a member who forced a vote.",
+"domains": [
+"_rs-archive-mirror",
+"w2-taxonomy"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "d-oversight",
+"l0": false,
+"label": "Congressional Oversight",
+"locLabel": null,
+"members": null,
+"short": "Congressional Oversight",
+"sources": [
+{
+"date": "2026-02-06",
+"name": "Archived: DoD OIG - DODIG-2023-109 unclassified summary (Wayback 2026-02-06)",
+"url": "https://web.archive.org/web/20260206140359/https://media.defense.gov/2024/Jan/25/2003381266/-1/-1/1/UNCLASSIFIED%20SUMMARY_UNIDENTIFIED%20ANOMALOUS%20PHENOMENA%20SECURE.PDF"
+},
+{
+"date": "2026-07-29",
+"name": "Archived: DoD OIG press release, Evaluation of the DoD's Actions Regarding Unidentified Anomalous Phenomena (Wayback 2026-07-29)",
+"url": "https://web.archive.org/web/20260729024353/https://www.dodig.mil/In-the-Spotlight/Article/3656428/press-release-evaluation-of-the-dods-actions-regarding-unidentified-anomalous-p/"
+},
+{
+"date": "2024-01-01",
+"name": "10 U.S.C. Sec. 119, Special access programs: congressional oversight",
+"url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim"
+},
+{
+"date": "2024-01-25",
+"name": "DoD OIG - DODIG-2023-109 unclassified summary",
+"url": "https://media.defense.gov/2024/Jan/25/2003381266/-1/-1/1/UNCLASSIFIED%20SUMMARY_UNIDENTIFIED%20ANOMALOUS%20PHENOMENA%20SECURE.PDF"
+},
+{
+"date": "2025-09-09",
+"name": "House Oversight Committee hearing - Restoring Public Trust Through UAP Transparency and Whistleblower Protection",
+"url": "https://oversight.house.gov/hearing/restoring-public-trust-through-uap-transparency-and-whistleblower-protection/"
+},
+{
+"date": "2024-01-25",
+"name": "DoD OIG press release, Evaluation of the DoD's Actions Regarding Unidentified Anomalous Phenomena",
+"url": "https://www.dodig.mil/In-the-Spotlight/Article/3656428/press-release-evaluation-of-the-dods-actions-regarding-unidentified-anomalous-p/"
+}
+],
+"sub": "Institutional domain - the committees, clearances and gaps through which Congress does or does not see",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 471 of 1027, score 30). 6 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A2/D3.",
+"timeline": [
+{
+"date": "2024-01-25",
+"id": "tx-2024-oig",
+"label": "The Inspector General reports, mostly classified",
+"precision": "day",
+"strand": "oversight",
+"text": "The DoD Inspector General releases an unclassified summary of DODIG-2023-109, its evaluation of the Department's actions regarding UAP. The evaluation was initiated on personnel complaints; the public receives the summary.",
+"tier": 1
+}
+]
+}

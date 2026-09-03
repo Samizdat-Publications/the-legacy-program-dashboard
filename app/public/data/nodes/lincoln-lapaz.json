@@ -1,0 +1,170 @@
+{
+"A": 2,
+"C": 1,
+"D": 1,
+"affiliations": [
+"University of New Mexico, Institute of Meteoritics (Director)",
+"US Air Force / Kirtland AFB intelligence consultant",
+"Project Twinkle (1949-1951)"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "1948-12-05",
+"event": "Green fireball reports begin clustering over New Mexico nuclear installations",
+"precision": "day"
+},
+{
+"date": "1949-02-16",
+"event": "Conference at Los Alamos Scientific Laboratory on the green fireballs, attended by Bradbury, Teller, Reines, FBI, AEC and military representatives",
+"precision": "day"
+},
+{
+"date": "1949-12-01",
+"event": "Project Twinkle established as an observation and photographic network",
+"precision": "month"
+},
+{
+"date": "2026-07-10",
+"event": "Newly declassified records on the 1949 Los Alamos green fireballs conference are publicised following the PURSUE releases",
+"precision": "day"
+}
+],
+"claims": [
+{
+"source": "American Alchemy with Jesse Michels, 'Top Astronomer: I Found 100,000 UFOs Above Earth! (ft. Beatriz Villarroel)', 25 October 2025, 0:26:46, https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL1307454785.mp3?updated=1761413167",
+"text": "On American Alchemy with Jesse Michels, 25 October 2025, at 0:26:46 and 0:27:36, Michels said in narration that a military-funded project to search for small natural satellites of the Earth began at White Sands Missile Range in 1953, that LaPaz and Clyde Tombaugh were the two scientists in charge of it, and that LaPaz came to it from Project Twinkle. Neither Tombaugh nor the White Sands satellite search appears anywhere in the board's research files.",
+"tier": 2
+},
+{
+"source": "American Alchemy with Jesse Michels, 'Top Astronomer: I Found 100,000 UFOs Above Earth! (ft. Beatriz Villarroel)', 25 October 2025, 0:28:29",
+"text": "In the same narration at 0:28:29 Michels said that on 23 August 1954 Aviation Week and Space Technology published a statement from LaPaz confirming two unknown objects in low Earth orbit while simultaneously describing them as fully identified natural asteroids captured by the Earth's gravity. The magazine issue was not opened in this pass, so the date and the wording are the speaker's and not the record's; the issue is named here so a later pass can pull it.",
+"tier": 2
+},
+{
+"source": "Los Alamos National Laboratory, 'FOIA requests at the National Security Research Center', 18 November 2024",
+"text": "A conference was organised at Los Alamos on 16 February 1949 attended by Laboratory Director Norris Bradbury, physicists Frederick Reines and Edward Teller, and representatives of the FBI, the Atomic Energy Commission and the US military; the National Security Research Center holds the conference minutes.",
+"tier": 1
+},
+{
+"source": "Los Alamos National Laboratory, 18 November 2024",
+"text": "LANL states that its National Security Research Center does not appear to hold materials on Project Twinkle, although not all of the millions of items in its collections are searchable.",
+"tier": 1
+},
+{
+"source": "Edward J. Ruppelt, The Report on Unidentified Flying Objects, chapter on green fireballs and Project Twinkle",
+"text": "Kirtland intelligence officers called in LaPaz because the fireballs resembled meteors, and he concluded they did not behave as meteors would.",
+"tier": 2
+}
+],
+"cls": "person",
+"cluster": "other",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 2,
+"cls": "event",
+"dateEnd": "1949",
+"dateStart": "1949",
+"direction": "out",
+"edgeLabel": "Brought in by Kirtland intelligence officers; his assessment drove the conference",
+"id": "green-fireballs-conference-1949",
+"l0": false,
+"label": "Los Alamos Green Fireballs Conference",
+"note": "LaPaz concluded the fireballs did not behave like meteors despite superficially resembling them.",
+"sources": [
+{
+"date": "2024-11-18",
+"name": "LANL National Security Research Center",
+"url": "https://www.lanl.gov/media/publications/the-vault/1124-foia-requests-at-the-national-security-research-center"
+}
+],
+"tier": "B",
+"type": "witness-chain"
+},
+{
+"claimTier": 1,
+"cls": "location",
+"dateEnd": "1951",
+"dateStart": "1948",
+"direction": "out",
+"edgeLabel": "LaPaz investigated the green fireballs from the University of New Mexico",
+"id": "l-albuquerque",
+"l0": false,
+"label": "Albuquerque, New Mexico",
+"note": "Lincoln LaPaz, the UNM meteoriticist retained by the Air Force, conducted the green fireball investigation from Albuquerque and attended the 16 February 1949 Los Alamos conference.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Los Alamos National Laboratory - 1949 green fireballs conference",
+"url": "https://www.lanl.gov/"
+}
+],
+"tier": "B",
+"type": "research"
+}
+],
+"date": "1949-02-16",
+"dateEnd": null,
+"dateStart": "1949-02-16",
+"deg": 2,
+"denials": [],
+"domains": [
+"_rs-archive-mirror",
+"ffrdcs"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "lincoln-lapaz",
+"instId": "lanl",
+"l0": false,
+"label": "Lincoln LaPaz",
+"loc": "Albuquerque, NM",
+"locId": "l-kirtland",
+"members": null,
+"narrative": "LaPaz was the meteoriticist the Air Force called when green fireballs began appearing over the most sensitive nuclear real estate in the United States in late 1948. Kirtland intelligence officers brought him in precisely because the objects superficially resembled meteors; his conclusion was that they did not behave like meteors - wrong trajectories, wrong colour spectrum, no recovered material, and a distribution clustered on Los Alamos, Sandia and the weapons storage areas. On 16 February 1949 a conference was convened at Los Alamos Scientific Laboratory attended by Laboratory Director Norris Bradbury, Edward Teller, Frederick Reines, and representatives of the FBI, the Atomic Energy Commission and the military. Los Alamos National Laboratory itself confirms the conference took place and that its National Security Research Center holds the minutes. In December 1949 Project Twinkle, a network of observation and photographic stations, was established to instrument the phenomenon; it was never fully implemented and produced no conclusive result. The significance for this board is jurisdictional. The green fireballs were not investigated by Blue Book at Wright-Patterson but by the contractor-operated weapons laboratory complex and the AEC, under a security regime entirely separate from the Air Force's public UFO project. That is the first documented instance of the anomaly being handled inside the DOE-laboratory seam rather than the Air Force one.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Lincoln LaPaz",
+"sources": [
+{
+"date": "2025-10-25",
+"name": "American Alchemy with Jesse Michels, 'Top Astronomer: I Found 100,000 UFOs Above Earth! (ft. Beatriz Villarroel)' (episode audio)",
+"url": "https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL1307454785.mp3?updated=1761413167"
+},
+{
+"date": "2026-08-06",
+"name": "Archived: Department of War PURSUE release (FBI file 62-HQ-83894 section 6, containing Project Twinkle material) (Wayback 2026-08-06)",
+"url": "https://web.archive.org/web/20260806084012/https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_6.pdf"
+},
+{
+"date": "2024-11-18",
+"name": "Los Alamos National Laboratory - FOIA requests at the National Security Research Center",
+"url": "https://www.lanl.gov/media/publications/the-vault/1124-foia-requests-at-the-national-security-research-center"
+},
+{
+"date": "2026-07-10",
+"name": "Newsweek - UFO Files Reveal 1949 Los Alamos 'Green Fireball' Mystery",
+"url": "https://www.newsweek.com/ufo-files-1949-los-alamos-green-fireball-mystery-declassified-department-of-war-12181696"
+},
+{
+"date": "2026-05-08",
+"name": "Department of War PURSUE release (FBI file 62-HQ-83894 section 6, containing Project Twinkle material)",
+"url": "https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_6.pdf"
+}
+],
+"status": "active",
+"sub": "Director, Institute of Meteoritics, University of New Mexico; principal investigator of the 1948-1951 'green fireballs' over Los Alamos, Sandia and Kirtland; scientific lead associated with Project Twinkle",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 486 of 1027, score 29). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A2/D1.",
+"timeline": [],
+"unexplainedResidual": "No physical material was ever recovered from any green fireball despite an instrumented network being stood up specifically to catch one.",
+"unverified": []
+}

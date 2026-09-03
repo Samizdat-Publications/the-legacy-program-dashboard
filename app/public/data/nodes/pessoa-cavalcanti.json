@@ -1,0 +1,186 @@
+{
+"A": 2,
+"C": 1,
+"D": 2,
+"affiliations": [
+"fab",
+"Brazilian Air Defence Command (COMDA)"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "1986-06-02",
+"event": "Signs the Relatório de Ocorrências at Brasília as acting commander COMDA/NuCOMDABRA",
+"precision": "day"
+},
+{
+"date": "2009-09-25",
+"event": "Report declassified and released to the Arquivo Nacional",
+"precision": "day"
+}
+],
+"claims": [
+{
+"source": "Comando Aéreo de Defesa Aérea, Relatório de Ocorrências, Brasília-DF, 2 June 1986, signed Brig do Ar José Pessoa Cavalcanti de Albuquerque, Arquivo Nacional BR_DFANBSB_ARX_0_0_0249",
+"text": "'Como conclusão dos fatos constantes observados, em quase todas as apresentações, este Comando é de parecer, que os fenômenos são sólidos e refletem de certa forma inteligência, pela capacidade de acompanhar e manter distância dos observadores como também voar em formação, não forçosamente tripulados.'",
+"tier": 1
+},
+{
+"source": "Relatório de Ocorrências, 2 June 1986, Considerações Finais, para 2",
+"text": "Characteristics listed in Considerações Finais: 'a - Produzem ecos radar não só do Sistema de Defesa Aérea, como também das aeronaves interceptadoras simultaneamente, com comparação visual pelos pilotos. b - Variam suas velocidades da gama subsônica até supersônica, bem como mantêm-se em vôo pairado. c - Variam suas altitudes abaixo do FL-050 até altitudes superiores FL-400.'",
+"tier": 1
+},
+{
+"source": "Relatório de Ocorrências, 2 June 1986, Introdução",
+"text": "The report's introduction states that because of limits of time and of specialised knowledge the Command chose to confine itself 'à narração simples dos fatos, de forma a não dar margem a especulações que envolvam o Ministério da Aeronáutica' - to a simple narration of the facts so as not to give scope for speculation involving the Ministry.",
+"tier": 1
+},
+{
+"source": "Relatório de Ocorrências, 2 June 1986",
+"text": "The report records that the interceptor pilot in the Anápolis area closed to two miles of a radar contact whose track was 'ora mantinha-se em zique-zaque, ora em curva acentuada pela direita' and which 'afastava-se repentinamente, mesmo estando o interceptador em velocidade supersônica'.",
+"tier": 1
+}
+],
+"cls": "person",
+"cluster": "legacy",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "1986-06-02",
+"dateStart": "1986-06-02",
+"direction": "out",
+"edgeLabel": "signed the CONFIDENCIAL Air Defence Command report",
+"id": "doc-fab-1986-report",
+"l0": false,
+"label": "Relatório de Ocorrências, Comando Aéreo de Defesa Aérea, 2 June 1986 (Arquivo Nacional BR_DFANBSB_ARX_0_0_0249)",
+"note": "Signed at Brasília on 2 June 1986 as acting commander COMDA/NuCOMDABRA; the document is served by the Arquivo Nacional as BR_DFANBSB_ARX_0_0_0249.",
+"sources": [
+{
+"date": "1986-06-02",
+"name": "Arquivo Nacional PDF",
+"url": "http://imagem.sian.an.gov.br/acervo/derivadas/BR_DFANBSB_ARX/0/0/0249/BR_DFANBSB_ARX_0_0_0249_d0001de0001.pdf"
+}
+],
+"tier": "B",
+"type": "custody"
+},
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": "1986-06-02",
+"dateStart": "1986-05-19",
+"direction": "out",
+"edgeLabel": "Commanded the air defence organisation whose engagement he then wrote up",
+"id": "ev-noite-ovnis-1986",
+"l0": true,
+"label": "Noite Oficial dos OVNIs - the Brazilian 'Night of the UFOs', 19 May 1986",
+"note": "The 19 May 1986 intercepts were run through the Air Defence Command; Pessoa Cavalcanti, as its acting commander, signed the command's own occurrence report on them fourteen days later. He is the officer who converted the night into a document.",
+"sources": [
+{
+"date": null,
+"name": "Arquivo Nacional, Fundo Objeto Voador Não Identificado – OVNI, reference BR DFANBSB ARX; the 1986 Air Defence Command report carries the item reference BR_DFANBSB_ARX_0_0_0249 (board node doc-fab-1986-report)",
+"url": ""
+},
+{
+"date": null,
+"name": "Correio Braziliense, 'A noite em que 21 óvnis invadiram o espaço aéreo brasileiro e foram perseguidos por caças da FAB' — https://www.correiobraziliense.com.br/mundo/2026/05/7421517-a-noite-em-que-21-ovnis-invadiram-o-espaco-aereo-brasileiro-e-foram-perseguidos-por-cacas-da-fab.html",
+"url": ""
+},
+{
+"date": "1986-06-02",
+"name": "Relatório de Ocorrências (Arquivo Nacional PDF)",
+"url": "http://imagem.sian.an.gov.br/acervo/derivadas/BR_DFANBSB_ARX/0/0/0249/BR_DFANBSB_ARX_0_0_0249_d0001de0001.pdf"
+}
+],
+"tier": "A",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "1986-06-02",
+"dateStart": "1986-06-02",
+"direction": "in",
+"edgeLabel": "Pessoa Cavalcanti signed for the FAB's own Air Defence Command",
+"id": "fab",
+"l0": true,
+"label": "Força Aérea Brasileira / Ministério da Aeronáutica",
+"note": "José Pessoa Cavalcanti de Albuquerque signed the Relatório de Ocorrências of 2 June 1986 as acting commander of COMDA/NuCOMDABRA, a command of the Brazilian Air Force. The finding that the objects were solid and behaved intelligently is therefore a FAB internal finding rendered up its own chain of command under classification, not an outside assessment.",
+"sources": [
+{
+"date": null,
+"name": "Arquivo Nacional, Fundo Objeto Voador Não Identificado – OVNI, reference BR DFANBSB ARX; the 1986 Air Defence Command report carries the item reference BR_DFANBSB_ARX_0_0_0249 (board node doc-fab-1986-report)",
+"url": ""
+},
+{
+"date": null,
+"name": "Correio Braziliense, 'A noite em que 21 óvnis invadiram o espaço aéreo brasileiro e foram perseguidos por caças da FAB' — https://www.correiobraziliense.com.br/mundo/2026/05/7421517-a-noite-em-que-21-ovnis-invadiram-o-espaco-aereo-brasileiro-e-foram-perseguidos-por-cacas-da-fab.html",
+"url": ""
+},
+{
+"date": "1986-06-02",
+"name": "Relatório de Ocorrências (Arquivo Nacional PDF)",
+"url": "http://imagem.sian.an.gov.br/acervo/derivadas/BR_DFANBSB_ARX/0/0/0249/BR_DFANBSB_ARX_0_0_0249_d0001de0001.pdf"
+}
+],
+"tier": "A",
+"type": "institutional"
+}
+],
+"date": "2009-09-25",
+"dateEnd": null,
+"dateStart": "2009-09-25",
+"deg": 3,
+"denials": [],
+"domains": [
+"w2-international"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "2",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "pessoa-cavalcanti",
+"instId": "fab",
+"l0": false,
+"label": "Brigadeiro do Ar José Pessoa Cavalcanti de Albuquerque",
+"loc": "Brasília, Brazil",
+"locId": "l-brasilia",
+"members": null,
+"narrative": "José Pessoa Cavalcanti de Albuquerque was the acting commander of Brazil's Air Defence Command when he signed, at Brasília on 2 June 1986, the CONFIDENCIAL Relatório de Ocorrências on the events of the night of 19 May 1986. That document, held in the Brazilian National Archives under reference BR_DFANBSB_ARX_0_0_0249 and released on 25 September 2009, is the most important single sentence in the Latin American record. Its final considerations state that the phenomena produced radar echoes on both the Air Defence System and the interceptors' own airborne radars simultaneously with visual acquisition by the pilots; varied their speeds from subsonic to supersonic and also hovered; varied altitude from below flight level 050 to above flight level 400; sometimes displayed white, green and red lights and sometimes none; could accelerate and decelerate abruptly; and could turn with constant or indefinite radii. Then it concludes, in the command's own voice: 'As a conclusion from the facts constantly observed in almost all the presentations, this Command is of the opinion that the phenomena are solid and reflect in a certain manner intelligence, by the capacity to follow and to maintain distance from observers as well as to fly in formation, not necessarily crewed.' The report also notes, drily, that the Brazilian air defence radar coverage was primarily air-traffic equipment not designed for air defence, which made tracking deficient.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Brigadeiro do Ar José Pessoa Cavalcanti de Albuquerque",
+"sources": [
+{
+"date": "1986-06-02",
+"name": "Relatório de Ocorrências, Comando Aéreo de Defesa Aérea, 2 June 1986 (Arquivo Nacional PDF)",
+"url": "http://imagem.sian.an.gov.br/acervo/derivadas/BR_DFANBSB_ARX/0/0/0249/BR_DFANBSB_ARX_0_0_0249_d0001de0001.pdf"
+},
+{
+"date": "2023-10-20",
+"name": "Same document, Internet Archive capture",
+"url": "https://web.archive.org/web/20231020222328/http://imagem.sian.an.gov.br/acervo/derivadas/BR_DFANBSB_ARX/0/0/0249/BR_DFANBSB_ARX_0_0_0249_d0001de0001.pdf"
+},
+{
+"date": "2022-01-14",
+"name": "BBC Brasil",
+"url": "https://www.bbc.com/portuguese/brasil-59953278"
+}
+],
+"status": "dead",
+"sub": "Acting Commander, Brazilian Air Defence Command (COMDA/NuCOMDABRA), 1986",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 405 of 1027, score 32). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A2/D2.",
+"timeline": [],
+"unexplainedResidual": null,
+"unverified": [
+"His dates of birth and death were not established."
+]
+}

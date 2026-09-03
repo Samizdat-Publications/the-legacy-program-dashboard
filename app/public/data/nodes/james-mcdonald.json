@@ -1,0 +1,236 @@
+{
+"A": 1,
+"C": 0,
+"D": 3,
+"affiliations": [
+"University of Arizona, Institute of Atmospheric Physics (1954-1971)",
+"American Meteorological Society"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "1966-06-01",
+"event": "Begins systematic re-investigation of Blue Book case files",
+"precision": "month"
+},
+{
+"date": "1968-05-01",
+"event": "Low memo he helped surface is published in Look magazine",
+"precision": "month"
+},
+{
+"date": "1968-07-29",
+"event": "Testifies before the House Committee on Science and Astronautics UFO symposium",
+"precision": "day"
+},
+{
+"date": "1969-01-08",
+"event": "Publicly attacks the Condon Report on release",
+"precision": "day"
+},
+{
+"date": "1971-03-01",
+"event": "Ridiculed over his UFO work during congressional SST hearings",
+"precision": "month"
+},
+{
+"date": "1971-06-13",
+"event": "Dies by suicide near Tucson, Arizona",
+"precision": "day"
+}
+],
+"claims": [
+{
+"source": "US House Committee on Science and Astronautics, 'Symposium on Unidentified Flying Objects', 90th Congress, 2nd Session, 29 July 1968",
+"text": "McDonald testified before the House Committee on Science and Astronautics on 29 July 1968 as senior physicist at the University of Arizona Institute of Atmospheric Physics.",
+"tier": 1
+},
+{
+"source": "Same hearing transcript",
+"text": "McDonald told the committee that 'credible observers are observing relatively incredible objects' and argued the phenomenon deserved serious scientific investigation rather than dismissal through ridicule.",
+"tier": 1
+},
+{
+"source": "McDonald's 1968 testimony and contemporaneous papers to scientific societies",
+"text": "McDonald concluded after reviewing Blue Book case files that the program was not conducting genuine scientific investigation.",
+"tier": 2
+},
+{
+"source": "Inference from the hearing record and the coroner's finding",
+"text": "The 1971 SST hearing ridicule and McDonald's death three months later form the earliest instance of the reputational-destruction pattern that recurs through the disclosure record; no causal claim beyond the documented sequence is asserted.",
+"tier": 3
+},
+{
+"source": "Condon Report, Volume 1, acknowledgements https://archive.org/details/DTIC_AD0680975",
+"text": "The Condon Report acknowledges McDonald directly: 'The help of Dr. McDonald, Institute for Atmospheric Physics, University of Arizona, who conducted a study of UFO phenomena concurrently with this study, was invaluable in bringing a number of cases to our attention.' The board's description of him as a senior atmospheric physicist is the project's own.",
+"tier": 1
+},
+{
+"source": "Condon Report, Volume 1 https://archive.org/details/DTIC_AD0680975",
+"text": "The report records that 'in August 1967 Prof. James McDonald of Arizona made a 20-day trip to Australia, Tasmania and New Zealand in the course of which he interviewed some 80 persons who had made UFO reports there', and that on his return he briefed the Colorado project on what he found.",
+"tier": 1
+},
+{
+"source": "Condon Report, Volume 3, index https://archive.org/details/DTIC_AD0680977",
+"text": "McDonald is indexed in the Condon Report at pages 927 and 928, and separately for his part in Case 50 (657-662), Case 52 (683-684, 690, 692), his views on future research (1269), the northeast power outage (167) and the extraterrestrial hypothesis (34). He is the most heavily indexed outside critic in the study that was meant to close the question.",
+"tier": 1
+}
+],
+"cls": "person",
+"cluster": "research",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 2,
+"cls": "program",
+"dateEnd": "1971",
+"dateStart": "1969",
+"direction": "out",
+"edgeLabel": "McDonald attacked the Condon Report and was professionally destroyed",
+"id": "condon-committee",
+"l0": true,
+"label": "University of Colorado UFO Project (Condon Committee)",
+"note": "He publicly criticised the report on release, was ridiculed over his UFO work during 1971 congressional SST hearings on an unrelated technical subject, and died by suicide in June 1971.",
+"sources": [
+{
+"date": "1968-07-29",
+"name": "House Committee on Science and Astronautics, Symposium on UFOs, 29 July 1968",
+"url": "http://nicap.org/books/1968Sym/1968_UFO_Symposium.pdf"
+}
+],
+"tier": "A",
+"type": "behavioral"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "1968",
+"dateStart": "1968",
+"direction": "in",
+"edgeLabel": "Both testified at the 29 July 1968 congressional symposium",
+"id": "j-allen-hynek",
+"l0": false,
+"label": "J. Allen Hynek",
+"note": "The Air Force's own long-serving consultant and its most aggressive scientific critic appeared at the same hearing, both concluding the official program was inadequate.",
+"sources": [
+{
+"date": "1968-07-29",
+"name": "House Committee on Science and Astronautics, Symposium on UFOs, 29 July 1968",
+"url": "http://nicap.org/books/1968Sym/1968_UFO_Symposium.pdf"
+}
+],
+"tier": "B",
+"type": "witness-chain"
+},
+{
+"claimTier": 2,
+"cls": "document",
+"dateEnd": "1968",
+"dateStart": "1967",
+"direction": "out",
+"edgeLabel": "McDonald was the conduit that put the memo into public circulation",
+"id": "low-memo",
+"l0": false,
+"label": "Low Memorandum (\"the trick would be...\")",
+"note": "McDonald received the memo from project staff and it reached John Fuller, who published it in Look in May 1968 as 'Flying Saucer Fiasco'.",
+"sources": [
+{
+"date": "1968-11-01",
+"name": "Scientific Study of Unidentified Flying Objects (Condon Report)",
+"url": "https://files.ncas.org/condon/"
+}
+],
+"tier": "C",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": "1968",
+"dateStart": "1966",
+"direction": "out",
+"edgeLabel": "McDonald reviewed Blue Book files and told Congress it was not an investigation",
+"id": "project-blue-book",
+"l0": true,
+"label": "Project Blue Book",
+"note": "Testifying on 29 July 1968 he told the House Science and Astronautics Committee that 'credible observers are observing relatively incredible objects' and that the subject deserved science rather than ridicule.",
+"sources": [
+{
+"date": "1968-07-29",
+"name": "House Committee on Science and Astronautics, Symposium on UFOs, 29 July 1968",
+"url": "http://nicap.org/books/1968Sym/1968_UFO_Symposium.pdf"
+}
+],
+"tier": "A",
+"type": "investigative"
+}
+],
+"date": "1968-07-29",
+"dateEnd": null,
+"dateStart": "1968-07-29",
+"deg": 4,
+"denials": [],
+"domains": [
+"history-1940s-1960s",
+"w16-thin-people"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "james-mcdonald",
+"instId": "oversight-congress",
+"l0": false,
+"label": "James E. McDonald",
+"loc": "Tucson, AZ",
+"locId": "l-dc",
+"members": null,
+"narrative": "James E. McDonald was a senior atmospheric physicist at the University of Arizona and the most aggressive scientific critic the Air Force UFO program ever faced. He obtained access to Blue Book files, re-investigated cases himself, and concluded the program was not an investigation at all. On 29 July 1968 he testified to the House Committee on Science and Astronautics, telling Congress that 'credible observers are observing relatively incredible objects' and that the phenomenon warranted serious scientific attention rather than dismissal by ridicule. He was the conduit through which the Low memo reached the press, and he attacked the Condon Report publicly after its release. McDonald was subsequently humiliated in a 1971 congressional hearing on the SST — an unrelated subject on which he was a technical critic — when a member used his UFO interest to discredit him from the dais. He shot himself in the Arizona desert on 13 June 1971. His death is the earliest entry in the pattern this board tracks of scientific and official careers destroyed on this subject, and it is recorded here as such without any implication beyond the documented sequence.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "James E. McDonald",
+"sources": [
+{
+"date": "1968-07-29",
+"name": "House Committee on Science and Astronautics, Symposium on Unidentified Flying Objects, 29 July 1968 (full transcript PDF)",
+"url": "http://nicap.org/books/1968Sym/1968_UFO_Symposium.pdf"
+},
+{
+"date": "2026-08-25",
+"name": "Edward U. Condon (dir.), 'Scientific Study of Unidentified Flying Objects' (the Condon Report), Volume 1, University of Colorado for USAF/AFOSR, 1968 — DTIC AD0680975",
+"url": "https://archive.org/details/DTIC_AD0680975"
+},
+{
+"date": "2026-08-25",
+"name": "Condon Report, Volume 2 — DTIC AD0680976",
+"url": "https://archive.org/details/DTIC_AD0680976"
+},
+{
+"date": "2026-08-25",
+"name": "Condon Report, Volume 3 (index) — DTIC AD0680977",
+"url": "https://archive.org/details/DTIC_AD0680977"
+}
+],
+"status": "dead",
+"sub": "Senior physicist, Institute of Atmospheric Physics, University of Arizona",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 349 of 1027, score 34). 4 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A1/D3.",
+"timeline": [
+{
+"date": "1968-07-29",
+"id": "tl-1968-07-29",
+"label": "House Science Committee UFO symposium",
+"precision": "day",
+"strand": "oversight",
+"text": "Hynek, James McDonald, Carl Sagan and others testify. McDonald tells Congress that 'credible observers are observing relatively incredible objects'. No legislation follows.",
+"tier": "A"
+}
+],
+"unexplainedResidual": null,
+"unverified": []
+}

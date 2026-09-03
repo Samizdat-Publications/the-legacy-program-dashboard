@@ -1,0 +1,159 @@
+{
+"A": 2,
+"C": 1,
+"D": 2,
+"affiliations": [
+"Staff, Senate Democratic Leader Robert C. Byrd (1980s-1990s)",
+"Senate Appropriations Committee",
+"US-China Economic and Security Review Commission (2000s)"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "1991",
+"event": "Tasked by a senior Senate committee chairman to inquire into New Mexico crash allegations",
+"precision": "year"
+},
+{
+"date": "1993",
+"event": "Visits the Nevada facility and meets Al O'Donnell, who declines to repeat his account",
+"precision": "year"
+},
+{
+"date": "1994",
+"event": "Reports to the Senator that the allegations do not merit further investigation",
+"precision": "year"
+},
+{
+"date": "2023-02-28",
+"event": "His public statement and Knapp's account of his private conclusion are republished as Congress reopens the contractor question",
+"precision": "day"
+}
+],
+"claims": [
+{
+"source": "Richard D'Amato public statement, quoted in Liberation Times, 28 February 2023",
+"text": "'A senior Senate Committee chairman asked me to conduct a preliminary inquiry into allegations that came to his attention regarding unidentified aerial crashes in the 1940s in New Mexico... I reported my conclusion to the Senator that the basis for such allegations did not appear to merit any further Senate investigation.'",
+"tier": 2
+},
+{
+"source": "George Knapp via Liberation Times, 28 February 2023",
+"text": "D'Amato privately regarded it as 'entirely feasible, that this UFO cover-up exists within a private company' such as Lockheed Martin, EG&G or Northrop Grumman. Reasoning: attributed by Knapp, consistent with D'Amato's SAP portfolio, but not stated by D'Amato himself on the record.",
+"tier": 3
+}
+],
+"cls": "person",
+"cluster": "oversight",
+"conflicts": [
+"D'Amato's public position - inquiry closed, no opinion - is directly at odds with the private conclusion attributed to him."
+],
+"connections": [
+{
+"claimTier": 2,
+"cls": "institution",
+"dateEnd": "1994",
+"dateStart": "1991",
+"direction": "out",
+"edgeLabel": "D'Amato's Senate inquiry reached EG&G and stopped there",
+"id": "eg-and-g",
+"l0": true,
+"label": "EG&G (Edgerton, Germeshausen and Grier)",
+"note": "Knapp arranged, with EG&G co-founder Herbert Grier's blessing, a meeting between D'Amato and Al O'Donnell; O'Donnell said nothing. D'Amato reported to the Senator that the allegations did not merit further investigation.",
+"sources": [
+{
+"date": "2023-02-28",
+"name": "Christopher Sharp, 'Former Chief For Defense Contractor That Ran Area 51 Claimed Knowledge Of Recovered Flying Saucer And Live Being,' Liberation Times",
+"url": "https://www.liberationtimes.com/home/former-chief-for-defense-contractor-that-ran-area-51-claimed-knowledge-of-recovered-flying-saucer-and-live-being-as-congress-looks-to-uncover-details-of-alleged-illegal-ufo-programs"
+}
+],
+"tier": "A",
+"type": "investigative"
+},
+{
+"claimTier": 3,
+"cls": "institution",
+"dateEnd": "1994",
+"dateStart": "1994",
+"direction": "out",
+"edgeLabel": "D'Amato is reported to have judged a private-company cover-up 'entirely feasible'",
+"id": "lockheed-martin",
+"l0": true,
+"label": "Lockheed Martin Corporation",
+"note": "Knapp attributes to D'Amato the conclusion that the cover-up could feasibly exist within a private company such as Lockheed Martin, EG&G or Northrop Grumman. D'Amato's own public statement records no opinion and treats the inquiry as closed.",
+"sources": [
+{
+"date": "2023-02-28",
+"name": "Christopher Sharp, 'Former Chief For Defense Contractor That Ran Area 51 Claimed Knowledge Of Recovered Flying Saucer And Live Being,' Liberation Times",
+"url": "https://www.liberationtimes.com/home/former-chief-for-defense-contractor-that-ran-area-51-claimed-knowledge-of-recovered-flying-saucer-and-live-being-as-congress-looks-to-uncover-details-of-alleged-illegal-ufo-programs"
+},
+{
+"date": "2023-03-11",
+"name": "Christopher Sharp, 'Lockheed Martin Challenged On UFO Legacy Programs, As Politicians Talk Hearings,' Liberation Times",
+"url": "https://www.liberationtimes.com/home/lockheed-martin-challenged-on-ufo-legacy-programs-as-politicians-talk-hearings"
+}
+],
+"tier": "A",
+"type": "investigative"
+}
+],
+"date": "1993-01-01",
+"dateEnd": null,
+"dateStart": "1993-01-01",
+"deg": 2,
+"denials": [],
+"domains": [
+"primes-custody"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "1",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "richard-damato",
+"instId": null,
+"l0": false,
+"label": "Richard D'Amato",
+"loc": "Washington, DC",
+"locId": "l-dc",
+"members": null,
+"narrative": "D'Amato is the first documented attempt by the legislative branch to audit the contractor-custody allegation, and the template for every failure since. As a staffer to Senate Democratic Leader Robert C. Byrd - chairman of the Appropriations Committee - his portfolio covered the DoD budget and the National Foreign Intelligence Program, which meant special access program oversight. In the early 1990s a senior committee chairman asked him to conduct a preliminary inquiry into allegations of unidentified aerial crashes in 1940s New Mexico. He interviewed witnesses, visited the Nevada facility, and reported back that the basis for the allegations did not merit further Senate investigation. His public statement is terse and closed: 'I have no personal opinion on the matter and consider the inquiry to have been closed for over 20 years.' But according to George Knapp, D'Amato privately concluded it was 'entirely feasible, that this UFO cover-up exists within a private company' - naming Lockheed Martin, EG&G or Northrop Grumman as the kind of company he meant. The structural lesson is the one that recurs: an investigator with appropriations jurisdiction, sent to look, found that the relevant knowledge sat with a corporation rather than an agency, and that his subpoena power over an agency did not reach it. The witness he most needed - Al O'Donnell - said nothing when they met.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Richard D'Amato",
+"sources": [
+{
+"date": "2023-02-28",
+"name": "Christopher Sharp, 'Former Chief For Defense Contractor That Ran Area 51 Claimed Knowledge Of Recovered Flying Saucer And Live Being,' Liberation Times",
+"url": "https://www.liberationtimes.com/home/former-chief-for-defense-contractor-that-ran-area-51-claimed-knowledge-of-recovered-flying-saucer-and-live-being-as-congress-looks-to-uncover-details-of-alleged-illegal-ufo-programs"
+},
+{
+"date": "2023-03-11",
+"name": "Christopher Sharp, 'Lockheed Martin Challenged On UFO Legacy Programs, As Politicians Talk Hearings,' Liberation Times",
+"url": "https://www.liberationtimes.com/home/lockheed-martin-challenged-on-ufo-legacy-programs-as-politicians-talk-hearings"
+}
+],
+"status": "active",
+"sub": "Senate Appropriations Committee counsel/investigator for Sen. Robert C. Byrd, 1980s-1990s",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 768 of 1027, score 19). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D2.",
+"timeline": [
+{
+"date": "1991-01-01",
+"id": "pc-1991-damato",
+"label": "Senate Appropriations opens the first contractor inquiry",
+"precision": "year",
+"strand": "oversight",
+"text": "Richard D'Amato, staffer to Senate Democratic Leader Robert C. Byrd, is tasked to inquire into the New Mexico crash allegations. He visits the Nevada facility and reports back that nothing merits further Senate investigation.",
+"tier": "B"
+}
+],
+"unexplainedResidual": null,
+"unverified": [
+"Whether any written product of the D'Amato inquiry exists in Senate Appropriations files.",
+"Which senior committee chairman initiated the tasking."
+]
+}

@@ -1,0 +1,330 @@
+{
+"A": 1,
+"C": 1,
+"D": 1,
+"band": "oversight",
+"claims": [
+{
+"source": "The UFO Evidence, National Investigations Committee on Aerial Phenomena, Washington DC, May 1964, Richard H. Hall ed., section 'NICAP and its Policies', in the CIA's filed copy CIA-RDP81R00560R000100010001-0, https://archive.org/details/cia-readingroom-document-cia-rdp81r00560r000100010001-0",
+"text": "NICAP states its own legal form and year: 'NICAP is a non-profit organization incorporated in the District of Columbia (1956).' The same paragraph gives its purpose as 'scientific investigation and research of reported unidentified flying objects, and encouragement of full reporting to the public by responsible authorities of all information which the government has accumulated on this subject.'",
+"tier": 1
+},
+{
+"source": "Jim G. Lucas, 'Project Skylight: New Group Setting Sights on Saucers', The Washington Daily News, 23 October 1956, in FBI file 100-35992 on the National Investigations Committee on Aerial Phenomena, part 1, https://archive.org/details/NICAP",
+"text": "Thomas Townsend Brown ran the organisation at its formation. A Washington Daily News report of Tuesday 23 October 1956, filed in the FBI's NICAP file: 'The brass plate at 1536 Connecticut-av nw reads \"National Investigations Committee on Aerial Phenomena.\" Inside they refer to it as Project Skylight. T. Townsend Brown of Leesburg, Va., who runs it, identified himself as executive vice chairman pro tempore. He formerly was a consulting physicist for the Clevite-Brush Electronics Co. of Cleveland, O.' The same report says the committee 'is just now forming. On Nov. 1 it meets to elect a nine-man board of governors.'",
+"tier": 1
+},
+{
+"source": "The UFO Evidence, 1964, in CIA-RDP81R00560R000100010001-0, https://archive.org/details/cia-readingroom-document-cia-rdp81r00560r000100010001-0",
+"text": "A former Director of Central Intelligence sat on its board and joined its campaign for hearings. The 1964 volume: 'Vice Admiral R. H. Hillenkoetter, USN (Ret.), a long-time acquaintance of Major Keyhoe, also served on the NICAP Board of Governors for five years,' and 'In 1961, Adm. Hillenkoetter joined with a majority of the NICAP Board in urging a Congressional investigation of the UFO problem.'",
+"tier": 1
+},
+{
+"source": "The UFO Evidence, 1964, in CIA-RDP81R00560R000100010001-0, https://archive.org/details/cia-readingroom-document-cia-rdp81r00560r000100010001-0",
+"text": "The volume was addressed to Congress and says so: 'Copies of this report have been sent to all Members of Congress.' Its board in 1964 also included 'Mr. Dewey Fournet, Jr., former Major USAFR ... Former Air Force Headquarters Monitor of AF Project Blue Book UFO investigation, prepared analyses of UFO data for AF, liaison officer between Dayton project and Pentagon.'",
+"tier": 1
+},
+{
+"source": "FBI file 100-35992 on the National Investigations Committee on Aerial Phenomena, part 3, https://archive.org/details/NICAP",
+"text": "The FBI kept a file on it, numbered 100-35992, and recorded the organisation's self-description as given by its secretary: 'This information was furnished to a Special Agent of our Washington Field Office in May, 1961, by Mr. Richard H. Hall, Secretary of the organization.'",
+"tier": 1
+}
+],
+"cls": "institution",
+"cluster": "media",
+"connections": [
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "2001",
+"dateStart": "1964",
+"direction": "in",
+"edgeLabel": "CIA held and filed NICAP's 1964 volume in its own records",
+"id": "cia",
+"l0": true,
+"label": "Central Intelligence Agency",
+"note": "The copy of The UFO Evidence read for this record is the Agency's, released as CIA-RDP81R00560R000100010001-0 and marked 'Approved For Release 2001/04/02'.",
+"sources": [
+{
+"date": "1964-05-01",
+"name": "The UFO Evidence, NICAP, 1964, CIA filed copy CIA-RDP81R00560R000100010001-0",
+"url": "https://archive.org/details/cia-readingroom-document-cia-rdp81r00560r000100010001-0"
+}
+],
+"tier": "A",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "Director, by September 1957 and still in post May 1964",
+"id": "donald-keyhoe",
+"l0": false,
+"label": "Maj. Donald E. Keyhoe, USMC (Ret.)",
+"note": "An Air Force headquarters letter of 20 September 1957 addresses him as Director NICAP at 1536 Connecticut Avenue NW, and the organisation's May 1964 volume carries him on its masthead as director. No opened record gives an end date.",
+"sources": [
+{
+"date": "1964-05-01",
+"name": "The UFO Evidence, 1964, masthead and the First Air Force letter of 20 September 1957 reproduced in it",
+"url": "https://archive.org/details/cia-readingroom-document-cia-rdp81r00560r000100010001-0"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 2,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "Names the NICAP case files as one of its three major collections, on its own account",
+"id": "nufohrc",
+"l0": false,
+"label": "National UFO Historical Records Center",
+"note": "The Center names NICAP's case files as one of its three major historical collections, on its own collections page and on its own account.",
+"sources": [
+{
+"date": "2026-09-02",
+"name": "National UFO Historical Records Center, collections page",
+"url": "https://nufohrc.org/collections/"
+}
+],
+"tier": "B",
+"type": "custody"
+},
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": "1964",
+"dateStart": "1964",
+"direction": "out",
+"edgeLabel": "Blue Book's former headquarters monitor sat on the NICAP board",
+"id": "project-blue-book",
+"l0": true,
+"label": "Project Blue Book",
+"note": "The 1964 board list describes Dewey Fournet Jr. as the former Air Force Headquarters monitor of Project Blue Book and liaison officer between the Dayton project and the Pentagon.",
+"sources": [
+{
+"date": "1964-05-01",
+"name": "The UFO Evidence, NICAP, 1964, CIA filed copy CIA-RDP81R00560R000100010001-0",
+"url": "https://archive.org/details/cia-readingroom-document-cia-rdp81r00560r000100010001-0"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "1962",
+"dateStart": "1957",
+"direction": "in",
+"edgeLabel": "Served five years on the Board of Governors",
+"id": "roscoe-hillenkoetter",
+"l0": false,
+"label": "Roscoe H. Hillenkoetter",
+"note": "NICAP's own 1964 volume states that Hillenkoetter served on its Board of Governors for five years and that in 1961 he joined a majority of the board in urging a Congressional investigation.",
+"sources": [
+{
+"date": "1964-05-01",
+"name": "The UFO Evidence, NICAP, 1964, CIA filed copy CIA-RDP81R00560R000100010001-0",
+"url": "https://archive.org/details/cia-readingroom-document-cia-rdp81r00560r000100010001-0"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "1956-10-23",
+"dateStart": "1956-10-23",
+"direction": "in",
+"edgeLabel": "Ran NICAP at its formation, October 1956, as executive vice chairman pro tempore",
+"id": "thomas-townsend-brown",
+"l0": false,
+"label": "Thomas Townsend Brown",
+"note": "A Washington Daily News report of 23 October 1956, in the FBI's own NICAP file, names T. Townsend Brown of Leesburg, Virginia as the man who runs it and gives his title, with the board of governors still to be elected on 1 November.",
+"sources": [
+{
+"date": "1956-10-23",
+"name": "FBI file 100-35992, part 1, Washington Daily News clipping, 23 October 1956",
+"url": "https://archive.org/details/NICAP"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "1964",
+"dateStart": "1964",
+"direction": "out",
+"edgeLabel": "Charged the Air Force with an intolerable degree of secrecy, in print, to Congress",
+"id": "usaf",
+"l0": true,
+"label": "United States Air Force",
+"note": "The 1964 volume states that the Air Force 'has practiced an intolerable degree of secrecy keeping the public in the dark about the amount and possible significance of UFO evidence', and that copies of the report were sent to all Members of Congress.",
+"sources": [
+{
+"date": "1964-05-01",
+"name": "The UFO Evidence, NICAP, 1964, CIA filed copy CIA-RDP81R00560R000100010001-0",
+"url": "https://archive.org/details/cia-readingroom-document-cia-rdp81r00560r000100010001-0"
+}
+],
+"tier": "A",
+"type": "denial"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "1956",
+"deg": 7,
+"denials": [
+{
+"by": {
+"id": "nicap",
+"label": "National Investigations Committee on Aerial Phenomena (NICAP)"
+},
+"claimTier": 1,
+"denialKind": null,
+"label": "Charged the Air Force with an intolerable degree of secrecy, in print, to Congress",
+"note": "The 1964 volume states that the Air Force 'has practiced an intolerable degree of secrecy keeping the public in the dark about the amount and possible significance of UFO evidence', and that copies of the report were sent to all Members of Congress.",
+"of": {
+"id": "usaf",
+"label": "United States Air Force"
+},
+"sources": [
+{
+"date": "1964-05-01",
+"name": "The UFO Evidence, NICAP, 1964, CIA filed copy CIA-RDP81R00560R000100010001-0",
+"url": "https://archive.org/details/cia-readingroom-document-cia-rdp81r00560r000100010001-0"
+}
+]
+}
+],
+"desc": "NICAP is the civilian organisation the board narrates constantly and has never named as an entity. It was forming at 1536 Connecticut Avenue NW in October 1956 under Thomas Townsend Brown, who told a Scripps-Howard reporter he was executive vice chairman pro tempore and that the group would elect its nine-man board of governors on 1 November; the clipping is in the FBI's own file on the organisation. By 1964 it was directed by Maj. Donald E. Keyhoe with Richard H. Hall as acting director and editor, carried a former Director of Central Intelligence and a former Blue Book headquarters monitor on its board, and published The UFO Evidence, which it sent to every Member of Congress and which the CIA filed. It is the exact official-and-civilian boundary the board argues about: a private body, staffed at the top by people who had held the government's own positions, campaigning for the hearings the government did not hold. The District of Columbia corporate register itself was not opened, so the incorporation rests on NICAP's own statement of it.",
+"domains": [
+"michels-2026-09-02"
+],
+"dossier": {
+"claims": [
+{
+"source": "The UFO Evidence, NICAP, Washington DC, May 1964, Richard H. Hall ed., CIA filed copy CIA-RDP81R00560R000100010001-0, https://archive.org/details/cia-readingroom-document-cia-rdp81r00560r000100010001-0",
+"text": "NICAP states its own legal form and year: 'NICAP is a non-profit organization incorporated in the District of Columbia (1956).' The same paragraph gives its purpose as 'scientific investigation and research of reported unidentified flying objects, and encouragement of full reporting to the public by responsible authorities of all information which the government has accumulated on this subject.'",
+"tier": 1
+},
+{
+"source": "Jim G. Lucas, 'Project Skylight: New Group Setting Sights on Saucers', The Washington Daily News, 23 October 1956, in FBI file 100-35992, part 1, https://archive.org/details/NICAP",
+"text": "Thomas Townsend Brown ran the organisation at its formation. A Washington Daily News report of Tuesday 23 October 1956, filed in the FBI's NICAP file: 'The brass plate at 1536 Connecticut-av nw reads \"National Investigations Committee on Aerial Phenomena.\" Inside they refer to it as Project Skylight. T. Townsend Brown of Leesburg, Va., who runs it, identified himself as executive vice chairman pro tempore.' The same report says the committee 'is just now forming. On Nov. 1 it meets to elect a nine-man board of governors.'",
+"tier": 1
+},
+{
+"source": "The UFO Evidence, NICAP, Washington DC, May 1964, Richard H. Hall ed., CIA filed copy CIA-RDP81R00560R000100010001-0, https://archive.org/details/cia-readingroom-document-cia-rdp81r00560r000100010001-0",
+"text": "A former Director of Central Intelligence sat on its board and joined its campaign for hearings: 'Vice Admiral R. H. Hillenkoetter, USN (Ret.), a long-time acquaintance of Major Keyhoe, also served on the NICAP Board of Governors for five years,' and 'In 1961, Adm. Hillenkoetter joined with a majority of the NICAP Board in urging a Congressional investigation of the UFO problem.'",
+"tier": 1
+},
+{
+"source": "The UFO Evidence, NICAP, Washington DC, May 1964, Richard H. Hall ed., CIA filed copy CIA-RDP81R00560R000100010001-0, https://archive.org/details/cia-readingroom-document-cia-rdp81r00560r000100010001-0",
+"text": "The volume was addressed to Congress and says so: 'Copies of this report have been sent to all Members of Congress.' Its board in 1964 also included 'Mr. Dewey Fournet, Jr., former Major USAFR ... Former Air Force Headquarters Monitor of AF Project Blue Book UFO investigation, prepared analyses of UFO data for AF, liaison officer between Dayton project and Pentagon.'",
+"tier": 1
+},
+{
+"source": "FBI file 100-35992 on the National Investigations Committee on Aerial Phenomena, part 3, https://archive.org/details/NICAP",
+"text": "The FBI kept a file on it, numbered 100-35992, and recorded the organisation's self-description as given by its secretary: 'This information was furnished to a Special Agent of our Washington Field Office in May, 1961, by Mr. Richard H. Hall, Secretary of the organization.'",
+"tier": 1
+}
+],
+"connections": [
+"Donald Keyhoe was Director by September 1957, when an Air Force headquarters letter addressed him as such at 1536 Connecticut Avenue NW, and was still on the masthead in May 1964. No opened record gives an end date.",
+"Thomas Townsend Brown ran the organisation at its formation in October 1956 as executive vice chairman pro tempore.",
+"Roscoe Hillenkoetter served five years on the Board of Governors and in 1961 joined a majority of the board in urging a Congressional investigation.",
+"project-blue-book is linked through its own former Headquarters monitor, Dewey Fournet Jr., who sat on the 1964 NICAP board after serving as liaison between the Dayton project and the Pentagon.",
+"cia held and filed NICAP's 1964 volume in its own records; the copy read for this board is the Agency's, marked 'Approved For Release 2001/04/02'.",
+"usaf is on the other end of the node's only denial link. The direction is not established; what is documented is NICAP's charge of an intolerable degree of secrecy, in print and sent to Congress.",
+"nufohrc names the NICAP case files as one of its three major collections, at Tier 2, on its own account."
+],
+"denialPosture": "NICAP issues no denials. It receives none either, in the sense the board means: the denial link on this node has no direction the record establishes. What is documented is the charge running from the civilian side, in print, addressed to Congress. The 1964 volume states that the Air Force 'has practiced an intolerable degree of secrecy keeping the public in the dark about the amount and possible significance of UFO evidence', and the same volume records that copies went to every Member of Congress. The board carries the accusation as published text and declines to convert it into a directed denial by the Air Force, because no Air Force response is in the record opened here.",
+"narrative": "The board narrates this organisation constantly and had never named it as an entity until now, which is itself the argument for its presence. Nearly every legacy-era episode the board carries has a NICAP shape to it: a case pressed publicly by a civilian committee whose officers had held the government's own positions, against an Air Force programme that answered in press releases. The 1964 volume states the charge in print and says where it was sent: the Air Force 'has practiced an intolerable degree of secrecy keeping the public in the dark about the amount and possible significance of UFO evidence', and 'Copies of this report have been sent to all Members of Congress.' That is a civilian body performing an oversight function that Congress was not performing.\n\nWhat makes the node structural rather than merely historical is the composition of the board of governors. A former Director of Central Intelligence sat on it for five years and joined the campaign for hearings. The former Air Force Headquarters monitor of Project Blue Book, the liaison officer between the Dayton project and the Pentagon, sat on it too. This board spends most of its length tracking people who moved between government programmes and private vehicles; NICAP is the earliest well-documented instance in the legacy era, and the direction of travel is out of the official effort and into public advocacy against it.\n\nThe surveillance runs the other way and is equally documented. The FBI opened file 100-35992 on the organisation and recorded its self-description as furnished by its secretary Richard H. Hall to a Special Agent of the Washington Field Office in May 1961. The copy of The UFO Evidence that this board reads is the CIA's own, released as CIA-RDP81R00560R000100010001-0. A civilian committee campaigning for hearings had a Bureau file and an Agency reading copy. Both facts come from the government's own paper.",
+"openQuestions": [
+"The District of Columbia corporate register was not opened. The incorporation and its 1956 date rest on NICAP's own statement of them in the 1964 volume, and nothing independent confirms either.",
+"The board holds no end date for the organisation and none for Keyhoe's directorship. The node runs open because nothing opened here closes it.",
+"The custody of the NICAP case files rests on the National UFO Historical Records Center's own account of its collections, which is why that link is Tier 2. No inventory, deed of gift or transfer record has been seen."
+],
+"roles": [
+"disclosure",
+"oversight"
+],
+"whatItIs": "The National Investigations Committee on Aerial Phenomena, a civilian body at 1536 Connecticut Avenue NW in Washington DC. It states its own legal form and year: 'NICAP is a non-profit organization incorporated in the District of Columbia (1956).' It was forming in October 1956 under Thomas Townsend Brown, who told a Scripps-Howard reporter that he was executive vice chairman pro tempore and that the group would elect its nine-man board of governors on 1 November. By 1964 it was directed by Maj. Donald E. Keyhoe with Richard H. Hall as acting director and editor, and it published The UFO Evidence, sending copies to every Member of Congress.",
+"whyImplicated": "NICAP is the exact boundary this board argues about, staffed from the government side. A private organisation campaigning for hearings the government would not hold, whose board of governors carried a former Director of Central Intelligence and the former Air Force Headquarters monitor of Project Blue Book. Vice Admiral R. H. Hillenkoetter served five years on that board and in 1961 joined a majority of it in urging a Congressional investigation. Dewey Fournet Jr. had been the Pentagon's own liaison to the Dayton project. The organisation is not implicated in concealment; it is implicated in the structure, because it shows senior people moving from the inside of the official effort to the outside of it and then pressing the inside from there. The FBI kept a file on it and the CIA filed its book."
+},
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "nicap",
+"l0": true,
+"label": "National Investigations Committee on Aerial Phenomena (NICAP)",
+"locLabel": null,
+"members": [
+{
+"cls": "person",
+"id": "donald-keyhoe",
+"label": "Maj. Donald E. Keyhoe, USMC (Ret.)",
+"tier": "B"
+},
+{
+"cls": "institution",
+"id": "nufohrc",
+"label": "National UFO Historical Records Center",
+"tier": "B"
+},
+{
+"cls": "person",
+"id": "roscoe-hillenkoetter",
+"label": "Roscoe H. Hillenkoetter",
+"tier": "B"
+},
+{
+"cls": "person",
+"id": "thomas-townsend-brown",
+"label": "Thomas Townsend Brown",
+"tier": "A"
+}
+],
+"short": "NICAP",
+"sources": [
+{
+"date": "1964-05-01",
+"name": "The UFO Evidence (NICAP, Washington DC, May 1964), Richard H. Hall ed., CIA filed copy CIA-RDP81R00560R000100010001-0",
+"url": "https://archive.org/details/cia-readingroom-document-cia-rdp81r00560r000100010001-0"
+},
+{
+"date": "1956-10-23",
+"name": "FBI file 100-35992, National Investigations Committee on Aerial Phenomena (3 parts)",
+"url": "https://archive.org/details/NICAP"
+}
+],
+"sub": "Civilian UFO body incorporated in the District of Columbia, 1956; 1536 Connecticut Avenue NW",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 278 of 1027, score 38). 7 connections, 1 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A1/D1.",
+"timeline": [
+{
+"date": "1956",
+"id": "tl-1956-nicap-incorporated",
+"label": "NICAP incorporated in the District of Columbia",
+"precision": "year",
+"strand": "oversight",
+"text": "The National Investigations Committee on Aerial Phenomena states in its own 1964 volume that it is a non-profit organization incorporated in the District of Columbia in 1956. A Washington Daily News report of 23 October 1956, filed in the FBI's NICAP file, records the organisation forming at 1536 Connecticut Avenue NW under T. Townsend Brown of Leesburg, Virginia, executive vice chairman pro tempore, with a nine-man board of governors still to be elected on 1 November. The District's own corporate register was not opened.",
+"tier": "B"
+}
+]
+}

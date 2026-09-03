@@ -1,0 +1,510 @@
+{
+"A": 2,
+"C": 1,
+"D": 3,
+"band": "custody",
+"claims": [
+{
+"source": "Office of the Assistant Secretary of Defense FOIA release, case 97-F-1677, September 1997",
+"text": "DoD records released under FOIA case 97-F-1677 describe numerous unidentified craft over Malmstrom AFB, Montana, in November 1975, and show that they could not be intercepted by multiple F-106 fighters.",
+"tier": 1
+},
+{
+"source": "USAF Fact Sheet on UFOs and Project BLUE BOOK, Wright-Patterson AFB, January 1985, reproduced by the National Archives",
+"text": "The 1975 incursions occurred six years after the Air Force announced, on 17 December 1969, the termination of Project Blue Book on the stated conclusion that 'no UFO reported, investigated, and evaluated by the Air Force has ever given any indication of threat to our national security.'",
+"tier": 1
+},
+{
+"source": "NORAD and SAC command-post records obtained under FOIA and published by researchers from the late 1970s onward",
+"text": "The incursions extended across Loring AFB (Maine), Wurtsmith AFB (Michigan), Malmstrom AFB (Montana) and Minot AFB (North Dakota) between 27 October and mid-November 1975, and were recorded in NORAD and command-post message traffic.",
+"tier": 2
+},
+{
+"source": "NORAD document, 11 November 1975, released under FOIA to CAUS and reproduced in 'Clear Intent'",
+"text": "A NORAD document dated 11 November 1975 states that in October and early November 1975 reliable military personnel at Loring AFB Maine, Wurtsmith AFB Michigan, Malmstrom AFB Montana, Minot AFB North Dakota and CFS Falconbridge Ontario had visually sighted suspicious objects.",
+"tier": 1
+},
+{
+"source": "Loring AFB teletype, October 1975, released under FOIA",
+"text": "A Loring AFB teletype states that an unidentified object 'demonstrated a clear intent in the weapons storage area'.",
+"tier": 1
+},
+{
+"source": "National Military Command Center Memorandum for the Record, 8 November 1975",
+"text": "The NMCC Memorandum for the Record of 8 November 1975, subject 'Unidentified Sightings', records seven height-finder radar cuts at Malmstrom at 0253 EST between 9,500 and 15,500 feet, simultaneous ground observation of lights and jet noise, FAA cross-tell showing no jet aircraft within 100 NM, and two F-106s scrambled at 0254 EST and airborne at 0257 EST; at 0344 EST the objects could not be intercepted.",
+"tier": 1
+},
+{
+"source": "24th NORAD Region Senior Director's log, 7 November 1975",
+"text": "The 24th NORAD Region Senior Director's log for 7 November 1975 logs reports from missile sites M-1, L-3, LIMA and L-6 at 1035Z, the Harlow LCF at 1203Z, site K-1 at 1319Z and site L-1 at 1327Z, with surveillance unable to detect any track.",
+"tier": 1
+},
+{
+"source": "Fawcett and Greenwood, 'Clear Intent' (1984), ch. 1, quoting the FOIA correspondence",
+"text": "CAUS filed a FOIA request on 26 December 1977 for case files from Loring (27, 28, 31 October 1975), Wurtsmith (30 October 1975) and Malmstrom (7 and 8 November 1975); a reply of 6 February 1978 from the Office of the Assistant Secretary of Defense identified twenty-four documents held by the Office of the Joint Chiefs of Staff, fifteen of which were initially resisted before Assistant Secretary of Defense Thomas Ross determined they should be released.",
+"tier": 1
+}
+],
+"cls": "event",
+"cluster": "legacy",
+"connections": [
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "2024",
+"dateStart": "2024",
+"direction": "out",
+"edgeLabel": "AARO's 2024 historical review does not address the 1975 nuclear-base overflights",
+"id": "aaro-historical-record-vol1",
+"l0": true,
+"label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
+"note": "A full-text review of Volume I finds no treatment of the Loring, Wurtsmith, Malmstrom or Minot incursions despite the underlying records being publicly released by DoD's own FOIA office.",
+"sources": [
+{
+"date": "2024-03-08",
+"name": "AARO, 'Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP), Volume I' (DOPSR-2024-0263)",
+"url": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF"
+},
+{
+"date": "2021-11-08",
+"name": "Unidentified Flying Objects over Malmstrom AFB, November 1975 (DoD FOIA case 97-F-1677)",
+"url": "https://www.theblackvault.com/documentarchive/unidentified-flying-objects-over-malmstrom-afb-november-1975/"
+}
+],
+"tier": "A",
+"type": "denial"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "1984",
+"dateStart": "1977-12-26",
+"direction": "in",
+"edgeLabel": "Fawcett and Greenwood reconstructed the 1975 wave from FOIA documents",
+"id": "clear-intent-1984",
+"l0": false,
+"label": "Clear Intent: The Government Coverup of the UFO Experience (1984)",
+"note": "CAUS filed on 26 December 1977; the Office of the Assistant Secretary of Defense identified twenty-four Joint Chiefs documents on 6 February 1978; Assistant Secretary Thomas Ross ordered the withheld fifteen released. The book reproduces and annotates them.",
+"sources": [
+{
+"date": "1984-01-01",
+"name": "Fawcett and Greenwood, 'Clear Intent' (1984)",
+"url": "https://archive.org/details/clear-intent-the-government-coverup-of-the-ufo-experience"
+}
+],
+"tier": "C",
+"type": "research"
+},
+{
+"claimTier": 2,
+"cls": "institution",
+"dateEnd": "1995",
+"dateStart": "1983",
+"direction": "out",
+"edgeLabel": "1975 NORAD and command-post message traffic circulated by CUFON",
+"id": "cufon",
+"l0": false,
+"label": "Computer UFO Network (CUFON)",
+"note": "CUFON published the FOIA-released NORAD and SAC command-post records that transformed the 1975 incidents from anecdote into documents.",
+"sources": [
+{
+"date": "2021-11-08",
+"name": "Unidentified Flying Objects over Malmstrom AFB, November 1975 (DoD FOIA case 97-F-1677)",
+"url": "https://www.theblackvault.com/documentarchive/unidentified-flying-objects-over-malmstrom-afb-november-1975/"
+},
+{
+"date": "2016-09-10",
+"name": "UFOs: The National Security Agency (NSA) Collection - incl. the Yeates Affidavit and CAUS v. NSA litigation records",
+"url": "https://www.theblackvault.com/documentarchive/ufos-the-national-security-agency-nsa-collection/"
+}
+],
+"tier": "C",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "1997",
+"dateStart": "1997",
+"direction": "out",
+"edgeLabel": "Malmstrom records released to The Black Vault under FOIA case 97-F-1677",
+"id": "john-greenewald",
+"l0": false,
+"label": "John Greenewald Jr.",
+"note": "The same September 1997 OASD release that produced the Halt memo produced the November 1975 Malmstrom overflight records.",
+"sources": [
+{
+"date": "2021-11-08",
+"name": "Unidentified Flying Objects over Malmstrom AFB, November 1975 (DoD FOIA case 97-F-1677)",
+"url": "https://www.theblackvault.com/documentarchive/unidentified-flying-objects-over-malmstrom-afb-november-1975/"
+},
+{
+"date": "2021-11-11",
+"name": "The Halt Memo - Rendlesham Forest Incident (DoD FOIA case 97-F-1677, released Sept 1997)",
+"url": "https://www.theblackvault.com/documentarchive/the-halt-memo-the-rendlesham-forest-incident/"
+}
+],
+"tier": "B",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "location",
+"dateEnd": "1975",
+"dateStart": "1975",
+"direction": "out",
+"edgeLabel": "Malmstrom AFB and its Minuteman fields were among the installations overflown",
+"id": "l-malmstrom",
+"l0": false,
+"label": "Malmstrom AFB and Minuteman Missile Fields, Montana",
+"note": "DoD records released under FOIA case 97-F-1677 describe numerous unidentified craft over Malmstrom in November 1975.",
+"sources": [
+{
+"date": "2021-11-08",
+"name": "Unidentified Flying Objects over Malmstrom AFB, November 1975 (DoD FOIA case 97-F-1677)",
+"url": "https://www.theblackvault.com/documentarchive/unidentified-flying-objects-over-malmstrom-afb-november-1975/"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": "1975-11-08",
+"dateStart": "1975-11-07",
+"direction": "out",
+"edgeLabel": "The 1975 wave returned to Malmstrom on documented record",
+"id": "malmstrom-echo-flight-1967",
+"l0": false,
+"label": "Malmstrom AFB missile shutdowns, March 1967",
+"note": "The 24th NORAD Region Senior Director's log and the NMCC memorandum of 8 November 1975 place radar-tracked objects over Malmstrom missile sites eight years after the Echo Flight shutdown, this time with F-106 scrambles logged.",
+"sources": [
+{
+"date": "1984-01-01",
+"name": "Fawcett and Greenwood, 'Clear Intent' (1984)",
+"url": "https://archive.org/details/clear-intent-the-government-coverup-of-the-ufo-experience"
+}
+],
+"tier": "B",
+"type": "temporal"
+},
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": "1975",
+"dateStart": "1975",
+"direction": "out",
+"edgeLabel": "Occurred six years after the Air Force closed Blue Book on a no-threat finding",
+"id": "project-blue-book",
+"l0": true,
+"label": "Project Blue Book",
+"note": "The USAF fact sheet states Blue Book was terminated on 17 December 1969 on the conclusion that no UFO had ever indicated a threat to national security. The 1975 records document unidentified objects over nuclear weapons installations.",
+"sources": [
+{
+"date": "2016-08-15",
+"name": "National Archives, 'Project BLUE BOOK - Unidentified Flying Objects' reference report (incl. MJ-12 / Cutler-Twining findings)",
+"url": "https://www.archives.gov/research/military/air-force/ufos"
+},
+{
+"date": "2021-11-08",
+"name": "Unidentified Flying Objects over Malmstrom AFB, November 1975 (DoD FOIA case 97-F-1677)",
+"url": "https://www.theblackvault.com/documentarchive/unidentified-flying-objects-over-malmstrom-afb-november-1975/"
+}
+],
+"tier": "A",
+"type": "temporal"
+}
+],
+"coords": null,
+"dateEnd": "1975",
+"dateStart": "1975",
+"deg": 7,
+"denials": [
+{
+"by": {
+"id": "aaro-historical-record-vol1",
+"label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+},
+"claimTier": 1,
+"denialKind": "directed",
+"label": "AARO's 2024 historical review does not address the 1975 nuclear-base overflights",
+"note": "A full-text review of Volume I finds no treatment of the Loring, Wurtsmith, Malmstrom or Minot incursions despite the underlying records being publicly released by DoD's own FOIA office.",
+"of": {
+"id": "sac-overflights-1975",
+"label": "1975 SAC Nuclear-Base Overflights (Loring, Wurtsmith, Malmstrom, Minot)"
+},
+"sources": [
+{
+"date": "2024-03-08",
+"name": "AARO, 'Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP), Volume I' (DOPSR-2024-0263)",
+"url": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF"
+},
+{
+"date": "2021-11-08",
+"name": "Unidentified Flying Objects over Malmstrom AFB, November 1975 (DoD FOIA case 97-F-1677)",
+"url": "https://www.theblackvault.com/documentarchive/unidentified-flying-objects-over-malmstrom-afb-november-1975/"
+}
+]
+}
+],
+"desc": "The best-documented episode in the entire UFO-nuclear record, because the paper is the government's own and it was released. Over roughly a fortnight in late October and early November 1975, unidentified objects were reported over Strategic Air Command weapons storage and alert areas and over Minuteman missile fields at Loring AFB, Maine (27, 28 and 31 October), Wurtsmith AFB, Michigan (30 October), Malmstrom AFB, Montana (7-8 November), Minot AFB, North Dakota, and Canadian Forces Station Falconbridge, Ontario. A NORAD document dated 11 November 1975 records that reliable military personnel at all five installations had visually sighted suspicious objects. A Loring AFB teletype states that an unidentified object 'demonstrated a clear intent in the weapons storage area' - the phrase from which Fawcett and Greenwood took the title of their 1984 book. The 24th NORAD Region Senior Director's log for 7 November 1975 records the 341st SAC Command Post reporting sightings from missile sites M-1, L-3, LIMA and L-6 near Moore and Buffalo, Montana at 1035Z; the Harlow launch control facility observing an object illuminating the site driveway at 1203Z; site K-1 tracking a bright object through 10x50 binoculars at 1319Z; and L-1 at 1327Z reporting the object issuing a tubular black object, with surveillance unable to establish any track. The National Military Command Center's Memorandum for the Record of 8 November 1975, subject 'Unidentified Sightings', records that at 0253 EST Malmstrom received seven radar cuts on the height-finder radar between 9,500 and 15,500 feet with simultaneous ground witnesses reporting lights and jet engine noise, that cross-tell with the FAA revealed no jet aircraft within 100 nautical miles, that two F-106 interceptors from the 24th NORAD Region were scrambled at 0254 and airborne at 0257, and that at 0344 EST the objects could not be intercepted because the fighters had to stay above 12,000 feet over mountainous terrain. These documents reached the public because Citizens Against UFO Secrecy filed a FOIA request on 26 December 1977; the Office of the Assistant Secretary of Defense replied on 6 February 1978 identifying twenty-four documents held by the Office of the Joint Chiefs of Staff, and after an internal argument over exempting raw unevaluated reporting, Assistant Secretary of Defense Thomas Ross determined no useful purpose would be served by withholding them.",
+"domains": [
+"history-1970s-2000s",
+"w2-retrieval-literature"
+],
+"dossier": {
+"claims": [
+{
+"source": "CINCNORAD message, 11 November 1975, reproduced in Lawrence Fawcett and Barry J. Greenwood, Clear Intent: The Government Coverup of the UFO Experience (1984), pp. 50-51; text at http://www.nicap.org/articles/CI-Wurtsmith.htm",
+"text": "A CINCNORAD message dated 11 November 1975 states, Part I: 'Since 28 Oct 75 numerous reports of suspicious objects have been received at the NORAD CU; reliable military personnel at Loring AFB, Maine, Wurtsmith AFB, Michigan, Malmstrom AFB, Mt, Minot AFB, ND, and Canadian Forces Station, Falconbridge, Ontario, Canada, have visually sighted suspicious objects.'",
+"tier": 1
+},
+{
+"source": "CINCNORAD message, 11 November 1975, in Clear Intent (1984), pp. 50-51; http://www.nicap.org/articles/CI-Wurtsmith.htm",
+"text": "The same message, Part II, states that at Malmstrom 'search and height finder radars carried the object between 9,500 ft. and 15,600 ft. at a speed of seven knots,' with intermittent radar contact from 080753Z through 0900Z November 1975, that F-106s scrambled from Malmstrom could not make contact due to darkness and low altitude, and that 'site personnel reported the object as low as 200 ft and said that as the interceptors approached the lights went out. After the interceptors had passed the lights came on again.'",
+"tier": 1
+},
+{
+"source": "CINCNORAD message, 11 November 1975, in Clear Intent (1984), p. 50; http://www.nicap.org/articles/CI-Wurtsmith.htm",
+"text": "The same message, Part IV, states that CFS Falconbridge reported search and height finder radar paints on an object up to 30 nautical miles south of the site ranging in altitude from 26,000 to 72,000 feet, and that 'With binoculars the object appeared as a 100 ft. diameter sphere and appeared to have craters around the outside.'",
+"tier": 1
+},
+{
+"source": "CINCNORAD message, 11 November 1975, in Clear Intent (1984), pp. 50-51; http://www.nicap.org/articles/CI-Wurtsmith.htm",
+"text": "The same message, Part V, states: 'I have also expressed my concern to SAFOI that we come up soonest with a proposed answer to queries from the press to prevent overreaction by the public to reports by the media that may be blown out of proportion. To date efforts by Air Guard helicopters, SAC helicopters and Norad F-106s have failed to produce positive ID.'",
+"tier": 1
+},
+{
+"source": "OPREP, National Military Command Center via FOIA, reproduced at https://www.twz.com/35674/the-bizarre-mystery-of-unexplained-aerial-incursions-over-loring-air-force-base",
+"text": "An Air Force operational report following the 28 October 1975 Loring incident states: 'It is our opinion that the unknown helicopter has demonstrated a clear intent in the weapons storage area, is smart and a most capable aviator.'",
+"tier": 1
+},
+{
+"source": "SAC/SP message, late October 1975, reproduced in Clear Intent (1984), pp. 46-47; http://www.nicap.org/articles/CI-Wurtsmith.htm",
+"text": "A SAC Security Police message under the subject line 'Defense Against Helicopter Assault' went to Pease, Plattsburgh, Wurtsmith, Kinchloe, Sawyer, Grand Forks, Minot, Malmstrom, Fairchild and Barksdale AFBs and read in part: 'The past two evenings at one of our northern tier bases, an unidentified helicopter has been observed hovering over and in the near vicinity of the weapons storage area. Attempts to identify this aircraft have so far met with negative results. In the interest of nuclear weapons security, the action addresses will assume Security Option 3 during hours of darkness until further notice.'",
+"tier": 1
+},
+{
+"source": "Memo for the Record, 18 January 1979, reproduced in Clear Intent (1984), pp. 42-43; http://www.nicap.org/articles/CI-Wurtsmith.htm",
+"text": "Capt. Myron Taylor, instructor navigator aboard the Wurtsmith KC-135, stated in a 'Memo for the Record' dated 18 January 1979 provided to 379th Bomb Wing historian SSgt Paul J. Cahill: 'each time we attempted to close on the object it would speed away from us... I would estimate that the UFO sped away from us doing approximately 1,000 knots,' and that about a week after the mission aircraft commander Capt. Higginbotham 'had been contacted by the OSI' and 'cautioned not to discuss the incident.'",
+"tier": 1
+},
+{
+"source": "NORAD Senior Director's Log, 31 October 1975, in Clear Intent (1984), p. 45; http://www.nicap.org/articles/CI-Wurtsmith.htm",
+"text": "A NORAD Senior Director's Log entry dated 31 October 1975 reads: 'Alerted by NCOC of a helicopter sighted over Wurtsmith AFB Wpns storage area, a tanker sighted same and pursued it 35 SE over Lake Huron.'",
+"tier": 1
+},
+{
+"source": "USAF Directorate of Operations and Readiness memorandum, 8 January 1979, in Clear Intent (1984), p. 54; http://www.nicap.org/articles/CI-Wurtsmith.htm",
+"text": "The U.S. Air Force Directorate of Operations and Readiness stated in a memorandum dated 8 January 1979: 'We have been unable to find any official information regarding the incidents described in the Parade magazine article. Contact with individuals assigned to operational units where the incidents were alleged to have occurred indicate some of these incidents may not have happened at all.'",
+"tier": 1
+},
+{
+"source": "Letter, Joseph J. F. Clark to Rep. Samuel S. Stratton, 9 February 1979, in Clear Intent (1984), p. 55; http://www.nicap.org/articles/CI-Wurtsmith.htm",
+"text": "Joseph J. F. Clark, Associate Director, Legislative Liaison, U.S. Air Force, wrote to Rep. Samuel S. Stratton on 9 February 1979 that the material provided 'rarely includes formal reports as such' because 'unidentified flying object reports are of transitory interest to the Air Force and permanent files are not maintained.'",
+"tier": 1
+},
+{
+"source": "Letter, Rep. Samuel S. Stratton to Maj. Gen. Charles C. Blanton, 20 December 1978, in Clear Intent (1984), pp. 54-56; http://www.nicap.org/articles/CI-Wurtsmith.htm",
+"text": "Rep. Samuel S. Stratton (D-NY), then Chairman of the Armed Services Investigations Subcommittee, wrote to Maj. Gen. Charles C. Blanton, Director of Legislative Liaison for the Office of the Secretary of the Air Force, on 20 December 1978, requesting all Air Force reports on incidents in which unidentified aircraft penetrated airspace at Strategic Air Command bases between 27 October and 19 November 1975 and on any similar incidents before or since; he did not pursue the matter after receiving the February 1979 response.",
+"tier": 1
+},
+{
+"source": "AFIS Alert Officer's Log, 31 October 1975, released 1977, in Clear Intent (1984), p. 51; http://www.nicap.org/articles/CI-Wurtsmith.htm",
+"text": "The Air Force Intelligence Service Alert Officer's Log entry of 31 October 1975 reads: 'Per Ltc. Redican's direction. Contacted DIA OPS center and informed them of unidentified flight activity over two SAC bases near Canadian border.'",
+"tier": 2
+},
+{
+"source": "https://www.twz.com/35674/the-bizarre-mystery-of-unexplained-aerial-incursions-over-loring-air-force-base",
+"text": "The Loring events began on the evening of 27 October 1975 with an unidentified aircraft at roughly 150 feet near the northern perimeter showing a red navigation light and white strobe and apparently focused on the nuclear weapons storage area; Army National Guard helicopters could not identify it, tower radar tracked a second unknown 10 to 13 miles northeast, and the first departed north into Canada near Grand Falls, New Brunswick.",
+"tier": 2
+},
+{
+"source": "24th NORAD Region Senior Director's Log, in Clear Intent (1984), p. 48; http://www.nicap.org/articles/CI-Wurtsmith.htm",
+"text": "A 24th NORAD Region Senior Director's Log entry records that on 10 November 1975 Minot Air Force Station reported 'a bright star-like object in the west, moving east, about the size of a car,' which 'passed over the radar station, 1000-2000 feet high, no noise heard,' with the National Command Operations Center notified.",
+"tier": 2
+},
+{
+"source": "NORAD press release, 13 November 1975, in Clear Intent (1984), p. 47; http://www.nicap.org/articles/CI-Wurtsmith.htm",
+"text": "NORAD issued a press release to Sudbury, Ontario media on 13 November 1975 stating that at 4:05 a.m. on 11 November the Canadian Forces radar site at Falconbridge reported a radar track of an unidentified object 25 to 30 nautical miles south of the site ranging in altitude from 25,000 to 72,000 feet, that persons at the site also saw it, and that two F-106s of the 171st Fighter Interceptor Squadron from Selfridge ANGB were scrambled 'but the pilots reported no contact with the object.'",
+"tier": 2
+},
+{
+"source": "Clear Intent (1984), pp. 46-47; http://www.nicap.org/articles/CI-Wurtsmith.htm",
+"text": "UFO researcher Robert Todd filed a FOIA request for NORAD Command Director's logs on 21 February 1976; the logs were released on 26 March 1976 and disclosed the Falconbridge sequence including scrambles of aircraft JL08 and JL09 on 11 November 1975.",
+"tier": 2
+},
+{
+"source": "https://www.nytimes.com/1979/10/14/archives/ufo-files-the-untold-story.html, cited at https://www.twz.com/35674/the-bizarre-mystery-of-unexplained-aerial-incursions-over-loring-air-force-base",
+"text": "The New York Times reported in the 14 October 1979 article 'U.F.O. Files: The Untold Story' that despite the Joint Chiefs of Staff receiving multiple briefings on the incursions, 'Subsequent investigations by the Air Force into the sightings at Loring Air Force Base, Maine, where the remarkable series of events began, did not reveal a cause for the sightings.'",
+"tier": 2
+},
+{
+"source": "National Archives, Records of Headquarters U.S. Air Force (RG 341) and Records of the U.S. Joint Chiefs of Staff (RG 218); holdings not yet searched",
+"text": "Next research step: locate the original OPREP-3 message traffic, 42nd Bomb Wing and 379th Bomb Wing unit histories, and Joint Chiefs of Staff briefing records for October-November 1975 in NARA Record Group 341 and Record Group 218, to test whether the Air Force's 'permanent files are not maintained' assertion is true or was a refusal dressed as an absence.",
+"tier": 3
+}
+],
+"connections": [
+"Loring AFB (42nd Bomb Wing, 42nd Security Police Squadron), Wurtsmith AFB (40th Air Division, 379th Bomb Wing, 379th Security Police Squadron), Malmstrom AFB (341st Strategic Missile Wing), Minot AFB (91st Strategic Missile Wing, 5th Bomb Wing) and CFS Falconbridge are the five named installations; all but Falconbridge held or controlled nuclear weapons.",
+"The Air Force Intelligence Service log entry shows DIA's Operations Center was briefed on 31 October 1975, the same agency that later hosted STAR GATE (stargate-program) and AAWSAP, making DIA the standing recipient of anomalous operational reporting across decades.",
+"Named individuals for further record work: Col. John J. Doran and Col. Boardman (379th Bomb Wing); Sgt. Clifton W. Blakeslee, SSgt William J. Long, Sgt. Danny Lewis and Sgt. Steven Eichner (Loring); CWO Bernard Poulin, 112th Medical Company, Maine Army National Guard; Capt. Myron Taylor and Capt. Randy Higginbotham (KC-135 crew); SSgt Paul J. Cahill, 379th Bomb Wing historian; Mr. Caywood of SAC/HO; Lt. Col. Redican (AFIS).",
+"Rep. Samuel S. Stratton, Maj. Gen. Charles C. Blanton and Joseph J. F. Clark are the named congressional-oversight triad; Stratton's abandonment of the inquiry after a partial production is the template for later oversight collapse.",
+"The concentration of incursions on nuclear weapons storage areas and missile fields is the direct antecedent of the ODNI 2021 assessment's finding that UAP 'tended to cluster around U.S. training and testing grounds' (odni-preliminary-assessment-2021), which ODNI attributed to collection bias.",
+"The Air Force's 1979 'transitory interest... permanent files are not maintained' formulation is the records-destruction posture any later custody or FOIA action must overcome, and it is the same logic Canada institutionalized by never creating a UAP record category at all (sky-canada-project).",
+"CFS Falconbridge ties this entity to the Canadian federal record; NORAD is the binational channel through which Canadian radar data on the phenomenon flows to the U.S. side.",
+"The 2023-2025 drone incursions over U.S. and allied nuclear-capable installations replicate the 1975 pattern, including the failure of interception and the 'unidentified aircraft' framing, and provide a live comparison case."
+],
+"denialPosture": "The official characterization was 'unidentified helicopter,' preserved even inside NORAD's own message despite radar tracks to 72,000 feet, a silent football-shaped object hovering five feet off the ground at Loring, and a KC-135 crew's estimate of 1,000 knots at Wurtsmith. When Congress asked in 1979, the Air Force first stated it could find no official information and that some incidents 'may not have happened at all,' then supplied partial records while asserting that UFO reports are 'of transitory interest to the Air Force and permanent files are not maintained' - a written declaration of non-retention that forecloses future audit.",
+"narrative": "Loring Air Force Base in northern Maine was Strategic Air Command's easternmost continental installation, home to a B-52 squadron on nuclear alert and two KC-135 tanker squadrons, with a separately fenced nuclear weapons storage area. On the evening of 27 October 1975 security personnel observed what was officially recorded as 'an unidentified helicopter' near the northern perimeter at roughly 150 feet, showing a red navigation light and a white strobe, apparently interested in the weapons storage area. Army National Guard helicopters were dispatched and could not identify it. Control tower radar picked up a second unknown circling ten to thirteen miles northeast. The first turned north into Canada near Grand Falls, New Brunswick; the second vanished from the scope.\n\nThe following night it returned without lights. The operational report issued afterward contained the sentence that gave Fawcett and Greenwood's book its title: 'It is our opinion that the unknown helicopter has demonstrated a clear intent in the weapons storage area, is smart and a most capable aviator.' On 28 October, Sgt. Clifton W. Blakeslee, Staff Sgt. William J. Long and Sgt. Danny Lewis of the 42nd Security Police Squadron tracked an object for thirty-five minutes visually and on tower radar; the commander of the 42nd Bomb Wing observed it himself. Separately, B-52 crew chief Sgt. Steven Eichner and Sgt. R. Jones came within about 300 feet of a reddish-orange object roughly four car lengths long, hovering five feet off the ground without sound, with no visible doors, windows, propellers or engines. Priority messages went to the National Military Command Center, the Chief of Staff of the Air Force, Fort Ritchie, SAC Headquarters and the 9th Air Force, advising that an unknown object had penetrated the base and had been in the nuclear storage area.\n\nSecurity Police Shift Commander Arthur Beers later described a call from the National Emergency Command Post, with a colonel ordering him to shoot the helicopter down if it buzzed the area again; minutes later a general officer said the President had been briefed and the orders were changed to shoot only if it attempted to land. Chief Warrant Officer Bernard Poulin of the Maine Army National Guard flew UH-1 search missions vectored to where the object was being seen and heard, and never acquired it. Poulin recalled the base commander saying, 'We've got to keep the lid on the fact that someone has been able to penetrate in and around the bomb dump, and we don't know what's going on.'\n\nSAC escalated laterally. A SAC Security Police message subject-lined 'Defense Against Helicopter Assault' went to ten northern-tier bases from Pease to Barksdale, directing them to 'assume Security Option 3 during hours of darkness until further notice.'\n\nOn 30 October it was Wurtsmith's turn. Security police at the back gate reported at 10:14, 10:20 and 10:25 p.m. an unidentified craft with no lights hovering low over the weapons storage area. RAPCON tracked it roughly thirty-five miles southeast over Lake Huron and the wing commander ordered a returning KC-135 to identify. Instructor navigator Capt. Myron Taylor's 'Memo for the Record' of 18 January 1979, written for 379th Bomb Wing historian SSgt Paul J. Cahill, records the pursuit: 'each time we attempted to close on the object it would speed away from us... I would estimate that the UFO sped away from us doing approximately 1,000 knots.' Taylor also recorded that about a week later the aircraft commander, Capt. Higginbotham, was questioned by OSI and 'cautioned not to discuss the incident.' On 31 October the Air Force Intelligence Service Alert Officer's Log recorded: 'Per Ltc. Redican's direction. Contacted DIA OPS center and informed them of unidentified flight activity over two SAC bases near Canadian border.'\n\nMalmstrom's turn came 7 and 8 November, in the missile fields. On 10 November Minot Air Force Station logged 'a bright star-like object in the west, moving east, about the size of a car,' which 'passed over the radar station, 1000-2000 feet high, no noise heard.' On the morning of 11 November, CFS Falconbridge held radar paints thirty nautical miles south of the site between 26,000 and 72,000 feet; two F-106s from Selfridge ANGB were scrambled and made no contact.\n\nThat same day the Commander-in-Chief of NORAD sent a five-part message to NORAD units across North America. Part I named the five installations. Part II recorded that Malmstrom radars carried an object between 9,500 and 15,600 feet at seven knots, that F-106s could not make contact, that site personnel reported the object as low as 200 feet, and that 'as the interceptors approached the lights went out. After the interceptors had passed the lights came on again.' Part IV recorded the Falconbridge '100 ft. diameter sphere' with 'craters around the outside.' Part V is the concealment sentence: 'I have also expressed my concern to SAFOI that we come up soonest with a proposed answer to queries from the press to prevent overreaction by the public to reports by the media that may be blown out of proportion. To date efforts by Air Guard helicopters, SAC helicopters and Norad F-106s have failed to produce positive ID.'\n\nCongress learned about it three years late and from a magazine. Parade published 'UFO's vs. USAF' by Michael Satchell on 10 December 1978. Representative Samuel S. Stratton (D-NY), chairman of the Armed Services Investigations Subcommittee, wrote to Maj. Gen. Charles C. Blanton on 20 December 1978 demanding all Air Force reports. The Air Force Directorate of Operations and Readiness responded internally on 8 January 1979: 'We have been unable to find any official information regarding the incidents described in the Parade magazine article... some of these incidents may not have happened at all.' On 9 February 1979 Joseph J. F. Clark, Associate Director of Legislative Liaison, produced a partial compilation and explained its thinness: 'unidentified flying object reports are of transitory interest to the Air Force and permanent files are not maintained.' Stratton did not pursue the matter further. The oversight window opened and closed in seven weeks.",
+"openQuestions": [
+"Where are the underlying OPREP-3 messages, base histories and 42nd Bomb Wing records now, and were they destroyed under the 'transitory interest' policy or merely never searched?",
+"What did the Joint Chiefs of Staff briefings on the incursions actually contain, and do JCS files retain them?",
+"Who authorized the shoot-down order relayed to Loring security police through the National Emergency Command Post, and was the President in fact briefed as the general officer told Shift Commander Beers?",
+"What became of Alaskan Air Command message 012224, subject 'Unidentified Foreign Object,' referenced in the 3 November 1975 AFIS log and declared unavailable by the Air Force in February 1978?",
+"Was Plattsburgh AFB in fact a sighting location, as the 379th Bomb Wing historian's memo implies, and if so why does no supporting record exist?",
+"Did SAFOI produce the press posture CINCNORAD requested on 11 November 1975, and does that guidance document survive?",
+"Why did Rep. Stratton drop the inquiry, and is there subcommittee correspondence after 9 February 1979?",
+"Were the Grand Forks AFB shooting incidents of 3-4 November 1975 genuinely unrelated, or were they released concurrently to give the wave a mundane frame?",
+"What did the Air Force Office of Special Investigations say to Capt. Higginbotham, and does an OSI file on the Wurtsmith pursuit exist?"
+],
+"roles": [
+"concealment",
+"custody",
+"oversight"
+],
+"whatItIs": "A sustained series of unidentified aerial incursions over Strategic Air Command nuclear weapons storage areas, bomber alert facilities and ICBM fields between 27 October and roughly 19 November 1975, at Loring AFB in Maine, Wurtsmith AFB in Michigan, Malmstrom AFB in Montana, Minot AFB in North Dakota, and Canadian Forces Station Falconbridge in Ontario. The events generated OPREP messages to the National Military Command Center, a SAC-wide security directive, NORAD Senior Director's Log entries, repeated failed interceptor scrambles, and a five-part CINCNORAD message dated 11 November 1975. Most of the documentary record entered the public domain through FOIA requests filed by civilian researchers between 1976 and 1978.",
+"whyImplicated": "This is the best-documented case in the entire record of sustained, deliberate interest by unidentified objects in American nuclear weapons infrastructure, and the government's own contemporaneous words are the evidence. An Air Force operational report stated that the intruder 'has demonstrated a clear intent in the weapons storage area.' SAC issued a directive to ten northern-tier bases under the subject line 'Defense Against Helicopter Assault,' placing them at Security Option 3 during hours of darkness. The commander of NORAD told his own command that Falconbridge personnel observed through binoculars a '100 ft. diameter sphere' that 'appeared to have craters around the outside' at altitudes between 26,000 and 72,000 feet, and in the same message wrote that he had 'expressed my concern to SAFOI that we come up soonest with a proposed answer to queries from the press to prevent overreaction by the public.' That is a dated, attributable instruction to build a press posture before the identification problem was solved, the concealment effort visible in real time in the commander's own sentence. Three years later, when a subcommittee chairman finally asked for the records, the Air Force replied in writing that it could find no official information and that some of the incidents 'may not have happened at all,' then reversed and produced material while asserting that UFO reports are 'of transitory interest to the Air Force and permanent files are not maintained.' The 1975 wave therefore supplies four elements at once: intrusion on nuclear custody, total failure of interception, an explicit press-management decision, and a documented policy of non-retention that forecloses future audit."
+},
+"entityInfo": {
+"desc": "The best-documented UFO episode in United States government records, full stop. Five installations in two countries over a fortnight, logged in the NORAD Command Director's log, the 24th NORAD Region Senior Director's log, National Military Command Center memoranda and base teletypes, with F-106 scrambles timed to the minute and FAA cross-tell recorded. It reached the public because two men filed a FOIA request on 26 December 1977 and an Assistant Secretary of Defense decided in February 1978 that no useful purpose would be served by withholding twenty-four Joint Chiefs documents. Nothing in the crash-retrieval literature comes within an order of magnitude of this evidentiary standard, which is precisely the point.",
+"sources": []
+},
+"era": "1",
+"foia": {
+"questions": [
+0,
+1,
+3,
+4,
+5,
+8
+],
+"requests": [
+{
+"agency": "Air Force",
+"partial": [],
+"questions": [
+0,
+1,
+3,
+4,
+5,
+8
+],
+"request": "F10",
+"sendTo": "Department of the Air Force FOIA (SAF/AAII), 1000 Air Force Pentagon, Washington DC 20330. Cross-file a research request with the Air Force Historical Research Agency, 600 Chennault Circle, Maxwell AFB AL 36112, which holds the wing histories.",
+"status": "not filed",
+"title": "Air Force - the 1975 northern-tier overflight message traffic"
+}
+]
+},
+"hl": null,
+"id": "sac-overflights-1975",
+"l0": true,
+"label": "1975 SAC Nuclear-Base Overflights (Loring, Wurtsmith, Malmstrom, Minot)",
+"locLabel": null,
+"members": [
+{
+"cls": "document",
+"id": "clear-intent-1984",
+"label": "Clear Intent: The Government Coverup of the UFO Experience (1984)",
+"tier": "C"
+},
+{
+"cls": "institution",
+"id": "cufon",
+"label": "Computer UFO Network (CUFON)",
+"tier": "C"
+},
+{
+"cls": "person",
+"id": "john-greenewald",
+"label": "John Greenewald Jr.",
+"tier": "B"
+},
+{
+"cls": "location",
+"id": "l-malmstrom",
+"label": "Malmstrom AFB and Minuteman Missile Fields, Montana",
+"tier": "C"
+},
+{
+"cls": "event",
+"id": "malmstrom-echo-flight-1967",
+"label": "Malmstrom AFB missile shutdowns, March 1967",
+"tier": "B"
+}
+],
+"short": "1975 SAC Nuclear-Base Overflights (Loring, Wurtsmith, Malmstrom, Minot)",
+"sources": [
+{
+"date": "2021-11-08",
+"name": "Unidentified Flying Objects over Malmstrom AFB, November 1975 (DoD FOIA case 97-F-1677)",
+"url": "https://www.theblackvault.com/documentarchive/unidentified-flying-objects-over-malmstrom-afb-november-1975/"
+},
+{
+"date": "2016-08-15",
+"name": "National Archives, 'Project BLUE BOOK - Unidentified Flying Objects' reference report (incl. MJ-12 / Cutler-Twining findings)",
+"url": "https://www.archives.gov/research/military/air-force/ufos"
+},
+{
+"date": "2021-11-11",
+"name": "The Halt Memo - Rendlesham Forest Incident (DoD FOIA case 97-F-1677, released Sept 1997)",
+"url": "https://www.theblackvault.com/documentarchive/the-halt-memo-the-rendlesham-forest-incident/"
+},
+{
+"date": "1984-01-01",
+"name": "Fawcett and Greenwood, 'Clear Intent: The Government Coverup of the UFO Experience' (1984) - full text",
+"url": "https://archive.org/details/clear-intent-the-government-coverup-of-the-ufo-experience"
+},
+{
+"date": "2026-08-12",
+"name": "UFOs & Nukes document and affidavit archive (Robert Hastings)",
+"url": "https://www.ufohastings.com/documents"
+}
+],
+"sub": "Documented unidentified incursions over nuclear weapons and missile installations, Oct-Nov 1975",
+"tier": "A",
+"tierRationale": "Re-graded A on a global pass (rank 151 of 1027, score 50). 7 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D3.",
+"timeline": [
+{
+"date": "1975-10-27",
+"id": "t-1975-loring",
+"label": "Loring AFB overflights begin",
+"precision": "day",
+"strand": "program",
+"text": "Unidentified aerial incursions are logged over Loring AFB, Maine, opening a three-week sequence across SAC nuclear installations.",
+"tier": "B"
+},
+{
+"date": "1975-11-08",
+"id": "tl-1975-1108-nmcc",
+"label": "NMCC memorandum for the record",
+"precision": "day",
+"strand": "witness",
+"text": "At 0253 EST Malmstrom takes seven height-finder radar cuts between 9,500 and 15,500 feet with simultaneous ground witnesses; FAA cross-tell shows no jet within 100NM; two F-106s are scrambled at 0254 and airborne at 0257; at 0344 the objects cannot be intercepted.",
+"tier": "A"
+},
+{
+"date": "1975-11-11",
+"id": "tl-1975-1111-norad",
+"label": "NORAD summary document",
+"precision": "day",
+"strand": "oversight",
+"text": "A NORAD document records that reliable military personnel at Loring, Wurtsmith, Malmstrom, Minot and CFS Falconbridge had visually sighted suspicious objects during October and early November 1975.",
+"tier": "A"
+}
+]
+}

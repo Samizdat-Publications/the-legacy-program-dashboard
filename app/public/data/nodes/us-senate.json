@@ -1,0 +1,155 @@
+{
+"A": 2,
+"C": 0,
+"D": 3,
+"band": null,
+"claims": [
+{
+"source": "Public Law 118-31 as enacted, compared with the introduced UAP Disclosure Act text",
+"text": "Sections 1841-1843 of the FY2024 NDAA, Public Law 118-31, created the statutory UAP Records Collection at the National Archives; the Schumer-Rounds review board and eminent domain provisions were removed in conference.",
+"tier": 1
+},
+{
+"source": "National Archives press release nr25-07, 24 April 2025",
+"text": "NARA identifies sections 1841-1843 of the 2024 NDAA (Public Law 118-31) as the legal authority for the UAP Collection.",
+"tier": 1
+},
+{
+"source": "Gillibrand Senate press release, 8 May 2026",
+"text": "Senator Gillibrand issued a statement on the Department of War's release of UAP files on 8 May 2026.",
+"tier": 1
+}
+],
+"cls": "institution",
+"cluster": "oversight",
+"connections": [
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "1976",
+"dateStart": "1975",
+"direction": "in",
+"edgeLabel": "Created as a select committee of the Senate by S. Res. 21 of 27 January 1975",
+"id": "church-committee",
+"l0": true,
+"label": "Senate Select Committee to Study Governmental Operations with Respect to Intelligence Activities (Church Committee)",
+"note": "The report states the resolution, the date and the mandate in its own opening section.",
+"sources": [
+{
+"date": "1976-04-26",
+"name": "S. Rept. 94-755, Book I, Foreign and Military Intelligence",
+"url": "https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-94755-i.pdf"
+}
+],
+"tier": "B",
+"type": "legislative"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2023-12-22",
+"direction": "in",
+"edgeLabel": "Created by sections 1841-1843 of Public Law 118-31",
+"id": "nara-uap-collection",
+"l0": true,
+"label": "National Archives Unidentified Anomalous Phenomena Records Collection",
+"note": "The collection is the surviving remnant of the Schumer-Rounds UAP Disclosure Act after the review board and eminent domain provisions were removed in conference.",
+"sources": [
+{
+"date": "2025-04-24",
+"name": "National Archives press release nr25-07",
+"url": "https://www.archives.gov/press/press-releases/2025/nr25-07"
+}
+],
+"tier": "A",
+"type": "legislative"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "1947",
+"direction": "out",
+"edgeLabel": "Committee of jurisdiction for DoD special access program reporting",
+"id": "senate-armed-services",
+"l0": true,
+"label": "Senate Armed Services Committee",
+"note": "SASC is one of the four defense committees to which 10 U.S.C. 119 reporting runs, and one of the two whose chairman and ranking member receive waived-SAP notification.",
+"sources": [
+{
+"date": "2024-01-01",
+"name": "10 U.S.C. 119, Special access programs: congressional oversight",
+"url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "1976",
+"direction": "out",
+"edgeLabel": "Committee of jurisdiction for intelligence community programs",
+"id": "senate-intelligence",
+"l0": false,
+"label": "Senate Select Committee on Intelligence",
+"note": "SSCI's report language accompanying the FY2021 Intelligence Authorization Act produced the June 2021 ODNI Preliminary Assessment.",
+"sources": [
+{
+"date": "2021-06-25",
+"name": "ODNI, Preliminary Assessment: Unidentified Aerial Phenomena",
+"url": "https://archive.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf"
+}
+],
+"tier": "B",
+"type": "institutional"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "1789-03-04",
+"deg": 4,
+"denials": [],
+"desc": "The Senate is where the modern UAP disclosure architecture was written and where it was cut down. Its Select Committee on Intelligence produced the report language accompanying the Intelligence Authorization Act for FY2021 that compelled ODNI's June 2021 Preliminary Assessment. Its Armed Services Committee carried the FY2022 NDAA section 1683 that created the Airborne Object Identification and Management Synchronization Group and then AARO, and the FY2023 NDAA section 1673 that gave AARO its statutory mission and created the UAP whistleblower protection at 50 U.S.C. 3373b. In July 2023 Majority Leader Chuck Schumer and Senator Mike Rounds introduced the Unidentified Anomalous Phenomena Disclosure Act as an amendment to the FY2024 NDAA - a bill modelled on the President John F. Kennedy Assassination Records Collection Act, containing a records review board with subpoena power, a presumption of disclosure and, at section 9010, an exercise of eminent domain over 'any and all recovered technologies of unknown origin and biological evidence of non-human intelligence' held by private persons. What emerged from conference in December 2023 was sections 1841 to 1843 of Public Law 118-31: the National Archives collection survived, the review board and the eminent domain provision did not. The Senate is therefore both the institution that came closest to forcing the record open and the institution that documented, in the difference between the introduced text and the enacted text, exactly where the resistance sits. Senators Kirsten Gillibrand, Mike Rounds, Marco Rubio, Martin Heinrich and Todd Young have been the recurring principals; before them Harry Reid, Ted Stevens and Daniel Inouye were the appropriators who created AAWSAP.",
+"domains": [
+"w2-agencies"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "us-senate",
+"l0": false,
+"label": "United States Senate",
+"locLabel": null,
+"members": null,
+"short": "United States Senate",
+"sources": [
+{
+"date": "2025-04-24",
+"name": "National Archives press release nr25-07",
+"url": "https://www.archives.gov/press/press-releases/2025/nr25-07"
+},
+{
+"date": "2026-05-08",
+"name": "Gillibrand statement on release of UAP files",
+"url": "https://www.gillibrand.senate.gov/news/press/release/gillibrand-statement-on-release-of-uap-files/"
+},
+{
+"date": "2024-01-01",
+"name": "10 U.S.C. 119, Special access programs: congressional oversight",
+"url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim"
+}
+],
+"sub": "Upper chamber; author of every statutory UAP provision that has become law",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 623 of 1027, score 25). 4 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A2/D3.",
+"timeline": []
+}

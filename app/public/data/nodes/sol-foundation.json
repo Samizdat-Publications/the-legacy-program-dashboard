@@ -1,0 +1,968 @@
+{
+"A": 2,
+"C": 1,
+"D": 3,
+"band": "oversight",
+"claims": [
+{
+"source": "The Sol Foundation, About and People pages, retrieved 12 August 2026",
+"text": "The Sol Foundation was founded in 2022; its board is Garry Nolan (Executive Director of the Board), Peter Skafish (Secretary; Executive Director) and Aneil Mallavarapu.",
+"tier": 1
+},
+{
+"source": "The Sol Foundation, People page, retrieved 12 August 2026",
+"text": "Advisory board members include Eric Davis, Tim Gallaudet, Jeffrey J. Kripal, Avi Loeb, Jacob Haqq Misra, Diana Pasulka, Jim Semivan, Jacques Vallee (Emeritus), Beatriz Villarroel and Alexander Wendt.",
+"tier": 1
+},
+{
+"source": "The Sol Foundation, Policy page, retrieved 12 August 2026",
+"text": "Since 2023 the Foundation has provided scientific and policy advice on UAP to members and committees of the US Senate and House, including the Senate Select Committee on Intelligence and the House Oversight and Government Reform Committee, and to the Parliaments of the UK, Canada and Japan, the European Parliament, the European Commission and Canada's Chief Science Adviser.",
+"tier": 1
+},
+{
+"source": "The Sol Foundation, inaugural conference page",
+"text": "The inaugural conference was held 17-18 November 2023 at Stanford University, sponsored by the Nolan Laboratory (Department of Pathology) and the Stanford School of Medicine; speakers included Eric Davis, Tim Gallaudet, Avi Loeb, Leslie Kean, Charles McCullough III, Christopher Mellon, Karl Nell, Diana Pasulka, Hal Puthoff and Jacques Vallee.",
+"tier": 1
+},
+{
+"source": "The Sol Foundation, 2025 Symposium page",
+"text": "The 2025 Sol Foundation Symposium was held 24-27 October 2025 on the shores of Lake Maggiore, northern Italy; speakers included Karl Nell, Jacques Vallee, Garry Nolan, Jake Barber, Dylan Borland, Jeff Nuccetelli, Tim Gallaudet, Diana Pasulka, Beatriz Villarroel and Gen. Pierre Bescond.",
+"tier": 1
+},
+{
+"source": "The Sol Foundation white papers index",
+"text": "The Sol Foundation publishes a numbered white paper and policy briefing series including Gallaudet (March 2024), McCaw (May 2024), Skafish (November 2024), Karl Nell (May 2025), Villarroel-derived Briefing No. 1 (January 2026), McConnell Briefing No. 2 (April 2026) and von Rennenkampff Briefing No. 3 (April 2026).",
+"tier": 1
+},
+{
+"source": "The Sol Foundation people page",
+"text": "Kirk McConnell, a 37-year Capitol Hill defence and intelligence staffer who served with the Senate Armed Services Committee and both intelligence committees, is the foundation's Senior Legislative Affairs Officer.",
+"tier": 1
+},
+{
+"source": "Micah Hanks, The Debrief, 12 September 2023",
+"text": "The foundation was co-founded by Garry Nolan and Peter Skafish on 15 August 2023.",
+"tier": 2
+},
+{
+"source": "The Sol Foundation, 'Sol Foundation Co-Founders Named to UAP Science Advisory Council'",
+"text": "In June 2026 the foundation announced that its co-founders Nolan and Skafish, senior adviser Tim Gallaudet, advisory board member Jacob Haqq-Misra and production lead Ross Howard had been named to the fourteen-member UAP Science Advisory Council, which reports to a higher-level UAP Governance Board and works only with unclassified data.",
+"tier": 2
+},
+{
+"source": "Inference from the personnel overlap between Sol's roster and the June 2026 council membership",
+"text": "The Sol Foundation is the mechanism by which the private technical layer captured the government's outside advisory function: it recruited the materials scientist, the retired admiral, the programme-structure colonel and the veteran committee staffer, then supplied them to a federally requested council.",
+"tier": 3
+},
+{
+"source": "https://www.thesolfoundation.org/",
+"text": "Sol Foundation leadership: Garry Nolan (Executive Director of the Board), Peter Skafish (Executive Director), Jennifer Preston (COO), Matt Mason (CMO), Christian Peters (Associate Director of Research), Kirk McConnell (Senior Legislative Affairs Officer), Aneil Mallavarapu (independent board member).",
+"tier": 1
+},
+{
+"source": "https://thesolfoundation.org/sol-foundation-co-founders-named-to-uap-science-advisory-council/",
+"text": "Sol Foundation co-founders Garry Nolan and Peter Skafish were named to the UAP Science Advisory Council; the foundation states the council was announced by the Office of the Director of National Intelligence with the support of the FBI and reports to an interagency UAP Governance Board.",
+"tier": 2
+},
+{
+"source": "https://thesolfoundation.org/sol-foundation-co-founders-named-to-uap-science-advisory-council/",
+"text": "'All data shared with the council will be unclassified.'",
+"tier": 2
+},
+{
+"source": "https://thesolfoundation.org/publications/first-peer-reviewed-scientific-analysis-of-possible-uap-materials-employs-state-of/",
+"text": "Sol Foundation Science and Policy Briefing No. 3 (April 2026), by Marik von Rennenkampff, presents peer-reviewed atomic and isotopic analysis of possible UAP materials from a multi-witness event, associated with Garry Nolan.",
+"tier": 2
+}
+],
+"cls": "institution",
+"cluster": "research",
+"connections": [
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "2023",
+"direction": "in",
+"edgeLabel": "Chief Operating Officer from May 2023",
+"id": "david-grusch",
+"l0": false,
+"label": "David Charles Grusch",
+"note": "Listed as his current position in the biography the House Oversight Committee published on the day of his testimony.",
+"sources": [
+{
+"date": "2023-07-26",
+"name": "House Oversight witness biography",
+"url": "https://docs.house.gov/meetings/GO/GO06/20230726/116282/HHRG-118-GO06-Bio-GruschD-20230726.pdf"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2025",
+"dateStart": "2025",
+"direction": "out",
+"edgeLabel": "Borland spoke at the 2025 Sol Foundation Symposium",
+"id": "dylan-borland",
+"l0": false,
+"label": "Dylan Borland",
+"note": "Same pipeline: Borland, a former USAF 1N1 geospatial intelligence specialist, appears on the 2025 symposium programme and is subsequently given a three-episode run on American Alchemy in August 2026.",
+"sources": [
+{
+"date": "2025-10-24",
+"name": "The Sol Foundation - 2025 Symposium",
+"url": "https://thesolfoundation.org/events/the-2025-sol-foundation-symposium/"
+},
+{
+"date": "2026-08-05",
+"name": "American Alchemy - Dylan Borland",
+"url": "https://www.youtube.com/watch?v=K4gYHs84BIc"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "2026",
+"dateStart": "2022",
+"direction": "out",
+"edgeLabel": "Eric Davis sits on Sol's Natural Sciences Advisory Board",
+"id": "eric-davis",
+"l0": false,
+"label": "Eric W. Davis",
+"note": "Named on the Sol Foundation People page - placing a figure central to the AAWSAP and Wilson-Davis memo record inside the movement's institutional apex.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "The Sol Foundation - People",
+"url": "https://thesolfoundation.org/people/"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "2026",
+"dateStart": "2022",
+"direction": "in",
+"edgeLabel": "Co-founder and Executive Director of the Board",
+"id": "garry-nolan",
+"l0": false,
+"label": "Garry Nolan",
+"note": "Co-founded with Peter Skafish on 15 August 2023; the foundation's materials-research programme is built around the analytical capability Nolan brought.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "The Sol Foundation - People",
+"url": "https://thesolfoundation.org/people/"
+},
+{
+"date": "2023-09-12",
+"name": "Micah Hanks, 'The Sol Foundation: How a New Think Tank of Academics is Applying Cutting-Edge Research to the UAP Mystery', The Debrief",
+"url": "https://thedebrief.org/the-sol-foundation-how-a-new-think-tank-of-academics-is-applying-cutting-edge-research-the-uap-mystery/"
+},
+{
+"date": "2026-08-12",
+"name": "The Sol Foundation",
+"url": "https://thesolfoundation.org/"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "2026",
+"dateStart": "2022",
+"direction": "out",
+"edgeLabel": "Vallee is Emeritus Advisor",
+"id": "jacques-vallee",
+"l0": false,
+"label": "Jacques F. Vallee",
+"note": "Named on the Sol Foundation People page.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "The Sol Foundation - People",
+"url": "https://thesolfoundation.org/people/"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "2025",
+"dateStart": "2025",
+"direction": "out",
+"edgeLabel": "Barber spoke at the 2025 Sol Foundation Symposium",
+"id": "jake-barber",
+"l0": false,
+"label": "Jake Barber",
+"note": "A whistleblower first platformed by an independent YouTube channel in January 2025 appears on a symposium programme alongside Karl Nell, Jacques Vallee and a retired French general nine months later. The pipeline from independent media to institutional legitimation is short and documented.",
+"sources": [
+{
+"date": "2025-10-24",
+"name": "The Sol Foundation - 2025 Symposium",
+"url": "https://thesolfoundation.org/events/the-2025-sol-foundation-symposium/"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "2023",
+"direction": "in",
+"edgeLabel": "Continuity from TTSA into the successor policy institution",
+"id": "jim-semivan",
+"l0": false,
+"label": "James 'Jim' Semivan",
+"note": "Semivan is listed among the Sol Foundation's people; the TTSA network reconstituted itself in academic and policy form after the company reverted to entertainment.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "The Sol Foundation — Jim Semivan",
+"url": "https://thesolfoundation.org/people/jim-semivan/"
+},
+{
+"date": "2026-08-12",
+"name": "The Sol Foundation - People",
+"url": "https://thesolfoundation.org/people/"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "2025",
+"direction": "out",
+"edgeLabel": "Nell published 'The UFO Enigma: A Call for US Government Disclosure' through Sol in May 2025",
+"id": "karl-nell",
+"l0": false,
+"label": "Karl E. Nell",
+"note": "The foundation's white-paper series is the venue through which former programme-adjacent officials put structured disclosure arguments into the public record under their own names.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "The Sol Foundation - White Papers and Policy Briefings index",
+"url": "https://thesolfoundation.org/white-papers/"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "2026",
+"dateStart": "2024",
+"direction": "in",
+"edgeLabel": "Senior Legislative Affairs Officer after 37 years on SASC",
+"id": "kirk-mcconnell",
+"l0": false,
+"label": "Kirk McConnell",
+"note": "A private foundation recruited the professional staffer who ran the oversight paperwork on the relevant committees; he then authored its April 2026 briefing arguing for a UAP whistleblower restitution fund.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "The Sol Foundation - People",
+"url": "https://thesolfoundation.org/people/"
+},
+{
+"date": "2026-08-12",
+"name": "The Sol Foundation - Kirk McConnell",
+"url": "https://thesolfoundation.org/people/kirk-mcconnell/"
+},
+{
+"date": "2026-08-12",
+"name": "The Sol Foundation - White Papers and Policy Briefings index",
+"url": "https://thesolfoundation.org/white-papers/"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 2,
+"cls": "location",
+"dateEnd": null,
+"dateStart": "2023",
+"direction": "out",
+"edgeLabel": "The Sol Foundation operates from the Stanford orbit",
+"id": "l-stanford",
+"l0": false,
+"label": "Stanford, California",
+"note": "Garry Nolan of the Stanford School of Medicine co-founded the Sol Foundation with Peter Skafish; its symposia are the current academic venue for the subject.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Wikipedia - SRI International",
+"url": "https://en.wikipedia.org/wiki/SRI_International"
+}
+],
+"tier": "C",
+"type": "research"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "2023",
+"dateStart": "2023",
+"direction": "in",
+"edgeLabel": "Spoke at the inaugural Stanford conference, November 2023",
+"id": "leslie-kean",
+"l0": false,
+"label": "Leslie Kean",
+"note": "Kean was a named speaker at the 17-18 November 2023 inaugural conference, linking the journalistic and institutional wings.",
+"sources": [
+{
+"date": "2023-11-17",
+"name": "The Sol Foundation - Inaugural Conference",
+"url": "https://thesolfoundation.org/events/the-inaugural-annual-conference-of-the-sol-foundation/"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "delivers the monthly Sol Briefing; authors Sol policy briefings",
+"id": "marik-von-rennenkampff",
+"l0": false,
+"label": "Marik von Rennenkampff",
+"note": "The Sol Foundation identifies von Rennenkampff as a Sol Foundation Fellow and carries his paper 'The Civilizational Risks of a UAP Technology Arms Race: Nonhuman Technology and Global Security', which argues for international cooperation on UAP technology development. Garry Nolan is listed as Executive Director of the Board. Tier 2: the foundation's public pages read here do not carry the Science and Policy Briefings series, so his role in it is not asserted from this source.",
+"sources": [
+{
+"date": "2026-08-25",
+"name": "The Sol Foundation",
+"url": "https://www.thesolfoundation.org/"
+},
+{
+"date": null,
+"name": "https://thesolfoundation.org/wp-content/uploads/2026/04/Sol_Policy_Briefing_Number_3-1.pdf",
+"url": "https://thesolfoundation.org/wp-content/uploads/2026/04/Sol_Policy_Briefing_Number_3-1.pdf"
+},
+{
+"date": null,
+"name": "https://thesolfoundation.org/white-papers/",
+"url": "https://thesolfoundation.org/white-papers/"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": "2026",
+"direction": "out",
+"edgeLabel": "Sol Briefing No. 3 is the authoritative public exposition of the paper",
+"id": "paper-nolan-vallee-2022",
+"l0": true,
+"label": "Nolan, Vallee, Jiang & Lemke (2022), Progress in Aerospace Sciences 128:100788",
+"note": "The April 2026 briefing sets out the witness record, the 1978 initial identification, the SIMS/MIBI methodology and each hypothesis-elimination with its physical reason - work no journalism had done.",
+"sources": [
+{
+"date": "2026-04-01",
+"name": "The Sol Foundation Science and Policy Briefings No. 3, Marik von Rennenkampff, 'First Peer-Reviewed Scientific Analysis of Possible UAP Materials Employs State-of-the-Art Technologies'",
+"url": "https://thesolfoundation.org/wp-content/uploads/2026/04/Sol_Policy_Briefing_Number_3-1.pdf"
+}
+],
+"tier": "B",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "2026",
+"dateStart": "2022",
+"direction": "in",
+"edgeLabel": "Co-founder, Executive Director and Secretary of the Board",
+"id": "peter-skafish",
+"l0": false,
+"label": "Peter Skafish",
+"note": "Skafish is the institutional architect of the foundation's science-plus-policy-plus-education structure and author of its November 2024 paper on executive-branch secrecy and harm to Congress.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "The Sol Foundation - People",
+"url": "https://thesolfoundation.org/people/"
+},
+{
+"date": "2026-08-12",
+"name": "The Sol Foundation",
+"url": "https://thesolfoundation.org/"
+},
+{
+"date": "2026-08-12",
+"name": "The Sol Foundation - White Papers and Policy Briefings index",
+"url": "https://thesolfoundation.org/white-papers/"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": "2026",
+"dateStart": "2026",
+"direction": "out",
+"edgeLabel": "Sol issued press statements on each major PURSUE release",
+"id": "pursue-releases",
+"l0": true,
+"label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters",
+"note": "Sol published statements dated 9 May, 22 May and 10 July 2026 responding to the PURSUE releases, positioning itself as the interpretive authority on the released record.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "The Sol Foundation - News & Events",
+"url": "https://thesolfoundation.org/news-and-events/"
+}
+],
+"tier": "A",
+"type": "behavioral"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": "2026-04-30",
+"direction": "out",
+"edgeLabel": "publisher of Science and Policy Briefing No. 3",
+"id": "sol-briefing-3-2026",
+"l0": false,
+"label": "Sol Foundation Science and Policy Briefing No. 3 (April 2026)",
+"note": "The briefing is issued in The Sol Foundation Science and Policy Briefings series (No. 3, April 2026, published online 30 April 2026) and carries the foundation's imprint and cofounders Garry Nolan and Peter Skafish on the colophon.",
+"sources": [
+{
+"date": null,
+"name": "https://thesolfoundation.org/wp-content/uploads/2026/04/Sol_Policy_Briefing_Number_3-1.pdf",
+"url": "https://thesolfoundation.org/wp-content/uploads/2026/04/Sol_Policy_Briefing_Number_3-1.pdf"
+},
+{
+"date": null,
+"name": "https://thesolfoundation.org/white-papers/",
+"url": "https://thesolfoundation.org/white-papers/"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "2026",
+"dateStart": "2022",
+"direction": "out",
+"edgeLabel": "Gallaudet on Sol's Natural Sciences and US Government Advisory Boards",
+"id": "tim-gallaudet",
+"l0": false,
+"label": "Timothy Gallaudet",
+"note": "'Beneath the Surface: We May Learn More about UAP by Looking in the Ocean' opened the foundation's numbered series; Gallaudet was subsequently named to the 2026 advisory council.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "The Sol Foundation - People",
+"url": "https://thesolfoundation.org/people/"
+},
+{
+"date": "2026-06-22",
+"name": "The Sol Foundation - UAP Science Advisory Council announcement",
+"url": "https://thesolfoundation.org/sol-foundation-co-founders-named-to-uap-science-advisory-council/"
+},
+{
+"date": "2026-08-12",
+"name": "The Sol Foundation - White Papers and Policy Briefings index",
+"url": "https://thesolfoundation.org/white-papers/"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "2026",
+"dateStart": "2026",
+"direction": "in",
+"edgeLabel": "Advisory seat conditioned on unclassified-only access",
+"id": "uap-science-advisory-council",
+"l0": true,
+"label": "UAP Science Advisory Council",
+"note": "The council's announced terms guarantee its members will never see classified material. Recorded as a denial-type edge: the access granted is precisely the access that cannot resolve the question the members were appointed for.",
+"sources": [
+{
+"date": "2026-06-22",
+"name": "The Sol Foundation - UAP Science Advisory Council announcement",
+"url": "https://thesolfoundation.org/sol-foundation-co-founders-named-to-uap-science-advisory-council/"
+}
+],
+"tier": "A",
+"type": "denial"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "2026",
+"dateStart": "2026",
+"direction": "out",
+"edgeLabel": "Sol leadership named to the ODNI/FBI council, 22 June 2026",
+"id": "uap-science-advisory-council",
+"l0": true,
+"label": "UAP Science Advisory Council",
+"note": "Nolan, Skafish, senior adviser Tim Gallaudet, advisory board member Jacob Haqq-Misra and production lead Ross Howard were all named; the foundation called it 'a fulfillment of its founding mission'.",
+"sources": [
+{
+"date": "2026-06-22",
+"name": "The Sol Foundation - UAP Science Advisory Council announcement",
+"url": "https://thesolfoundation.org/sol-foundation-co-founders-named-to-uap-science-advisory-council/"
+},
+{
+"date": "2026-06-15",
+"name": "Skeptic / Skeptics Society, 'Michael Shermer Named to White House UAP Science Advisory Council'",
+"url": "https://www.skeptic.com/article/michael-shermer-named-to-white-house-uap-science-advisory-council/"
+},
+{
+"date": "2026-08-12",
+"name": "The Sol Foundation",
+"url": "https://www.thesolfoundation.org/"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": null,
+"dateStart": "2026",
+"direction": "out",
+"edgeLabel": "Sol Briefing No. 1 (January 2026) is built on the pre-satellite-era plate evidence",
+"id": "vasco-project",
+"l0": false,
+"label": "VASCO - Vanishing and Appearing Sources during a Century of Observations",
+"note": "'Robust Evidence of Unidentified Anomalous Phenomena in Pre-Satellite Era Night-Sky Images' translated the VASCO results into a policy artefact aimed at Congress.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "The Sol Foundation - White Papers and Policy Briefings index",
+"url": "https://thesolfoundation.org/white-papers/"
+},
+{
+"date": "2025-10-20",
+"name": "Bruehl & Villarroel, 'Transients in the Palomar Observatory Sky Survey (POSS-I) may be associated with nuclear testing and reports of unidentified anomalous phenomena', Scientific Reports",
+"url": "https://doi.org/10.1038/s41598-025-21620-3"
+}
+],
+"tier": "C",
+"type": "investigative"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "2022",
+"deg": 19,
+"denials": [
+{
+"by": {
+"id": "uap-science-advisory-council",
+"label": "UAP Science Advisory Council"
+},
+"claimTier": 1,
+"denialKind": "undirected",
+"label": "Advisory seat conditioned on unclassified-only access",
+"note": "The council's announced terms guarantee its members will never see classified material. Recorded as a denial-type edge: the access granted is precisely the access that cannot resolve the question the members were appointed for.",
+"of": {
+"id": "sol-foundation",
+"label": "The Sol Foundation"
+},
+"sources": [
+{
+"date": "2026-06-22",
+"name": "The Sol Foundation - UAP Science Advisory Council announcement",
+"url": "https://thesolfoundation.org/sol-foundation-co-founders-named-to-uap-science-advisory-council/"
+}
+]
+}
+],
+"desc": "The Sol Foundation is the institution that turned the technical layer into a policy actor. Co-founded by Stanford's Garry Nolan and anthropologist Peter Skafish - reported as 15 August 2023, though the foundation's own About page gives 2022 - it describes its work as 'science, policy, and public education for the post-UAP world' across scientific and philosophical research, government and social policy, and public education. Its programme list is concrete: a Distributed UAP Observation Project, a Distributed Passive Radar Project, a UAP Image Analysis Team, a Nonhuman Intelligence Project, and citizen science. Its leadership is Skafish as Executive Director, Nolan as Executive Director of the Board, Jennifer Preston as COO, Christian Peters as Associate Director of Research, and - the significant hire - Kirk McConnell, a 37-year Senate Armed Services and intelligence-committee staffer, as Senior Legislative Affairs Officer. It publishes a numbered white-paper and policy-briefing series that includes Tim Gallaudet on the maritime domain (March 2024), Helen McCaw on UK policy (May 2024), Skafish on executive-branch secrecy and harm to Congress (November 2024), Karl Nell's 'The UFO Enigma: A Call for US Government Disclosure' (May 2025), and in 2026 three numbered Science and Policy Briefings: Villarroel's pre-satellite-era plate evidence (No. 1, January 2026), McConnell on a UAP whistleblower restitution fund (No. 2, April 2026), and von Rennenkampff on the first peer-reviewed UAP materials analysis (No. 3, April 2026). In June 2026 its co-founders, its senior adviser Tim Gallaudet, its advisory board member Jacob Haqq-Misra and its production lead Ross Howard were named to the UAP Science Advisory Council; the foundation called this 'a fulfillment of its founding mission'. In under three years a private foundation went from formation to supplying a plurality of the US government's outside scientific advisers on the subject.",
+"domains": [
+"media-structure",
+"scientists-technical",
+"w2-2025-2026"
+],
+"dossier": {
+"claims": [
+{
+"source": "https://thesolfoundation.org/white-papers/",
+"text": "The Sol Foundation publishes a numbered white-paper and policy-briefing series whose authors include Rear Admiral Tim Gallaudet (US Navy, ret.), Colonel Karl E. Nell (ret.), Peter Skafish, Kirk McConnell, Helen McCaw, Rizwan Virk, Paul Thigpen and Marik von Rennenkampff.",
+"tier": 1
+},
+{
+"source": "https://thesolfoundation.org/white-papers/",
+"text": "Sol's Vol. 1 No. 6 paper of November 2024, by co-founder and executive director Peter Skafish, is titled 'The Prospect of Executive Branch Unidentified Anomalous Phenomena Secrecy: The Harm to Congress and Potential Remedies' and argues that long-standing executive-branch secrecy may have concealed decades of UAP knowledge, research programmes and potentially retrieved technologies from Congress.",
+"tier": 1
+},
+{
+"source": "https://thesolfoundation.org/white-papers/",
+"text": "Sol published Colonel Karl E. Nell (retired), 'The UFO Enigma: A Call for US Government Disclosure,' in May 2025, framed around the effort to revive the UAP Disclosure Act in 2025 and establish an independent review body.",
+"tier": 1
+},
+{
+"source": "https://thesolfoundation.org/white-papers/",
+"text": "Sol Science and Policy Briefing No. 2, April 2026, is 'UAP Whistleblower Restitution Fund Would Incentivize Disclosures to Congress' by Kirk McConnell, and states that individuals considering disclosing information about classified executive-branch UAP programmes to Congress face significant retaliation including immediate loss of livelihood.",
+"tier": 1
+},
+{
+"source": "https://thesolfoundation.org/white-papers/",
+"text": "Sol Science and Policy Briefing No. 3, April 2026, describes the first peer-reviewed analysis of physical materials associated with a multi-witness UAP event, conducted by Stanford immunologist Garry P. Nolan and colleagues using atomic and isotopic analysis techniques.",
+"tier": 1
+},
+{
+"source": "https://thesolfoundation.org/white-papers/",
+"text": "Sol Science and Policy Briefing No. 1, January 2026, covers Beatriz Villarroel's finding that night-sky survey photographs taken between 1949 and 1957, before the satellite era, contain large numbers of temporary star-like points of light.",
+"tier": 1
+},
+{
+"source": "https://thesolfoundation.org/sol-foundation-co-founders-named-to-uap-science-advisory-council/",
+"text": "The Sol Foundation states that the UAP Science Advisory Council was announced by the Office of the Director of National Intelligence 'with the support of the FBI' and is led by Avi Loeb, a member of Sol's own advisory board.",
+"tier": 1
+},
+{
+"source": "https://thesolfoundation.org/sol-foundation-co-founders-named-to-uap-science-advisory-council/",
+"text": "Sol states that among the fourteen people named to the council were its co-founders Garry Nolan and Peter Skafish, its senior adviser Tim Gallaudet, and its advisory board member Jacob Haqq-Misra, and that Ross Howard, who leads production for the foundation, would lead communications for the council.",
+"tier": 1
+},
+{
+"source": "https://thesolfoundation.org/sol-foundation-co-founders-named-to-uap-science-advisory-council/",
+"text": "Sol states that the council 'reports to a higher-level UAP Governance Board, an interagency body coordinating across military, law enforcement, and intelligence community agencies' and that 'All data shared with the council will be unclassified.'",
+"tier": 1
+},
+{
+"source": "https://thesolfoundation.org/sol-foundation-co-founders-named-to-uap-science-advisory-council/",
+"text": "Sol characterises the appointments as 'a fulfillment of its founding mission,' adding that 'Sol can now share its insight to the highest levels of government deliberation about disclosure, amplifying our impact.'",
+"tier": 1
+},
+{
+"source": "https://www.skeptic.com/article/michael-shermer-named-to-white-house-uap-science-advisory-council/",
+"text": "The Skeptics Society's independent announcement of the council's formation names Garry Nolan and Peter Skafish as Sol Foundation co-founders and Tim Gallaudet as an appointee, corroborating Sol's own account of the membership.",
+"tier": 2
+},
+{
+"source": "https://thesolfoundation.org/sol-foundation-co-founders-named-to-uap-science-advisory-council/",
+"text": "Sol's June 2026 announcement states that the foundation 'was established in 2023 by Dr. Nolan and Dr. Skafish,' which conflicts with founding-year information the organisation has published elsewhere.",
+"tier": 2
+},
+{
+"source": "https://thesolfoundation.org/white-papers/",
+"text": "The Sol Foundation solicits membership and donations on its own site but names no donors, foundations or corporate supporters anywhere in its published material.",
+"tier": 3
+}
+],
+"denialPosture": "",
+"narrative": "The Sol Foundation is the closest thing the modern disclosure effort has to a think tank, and the useful way to read it is by its bibliography rather than its press. Its publication series is numbered, dated and authored, and the sequence tells you what the organisation actually decided to work on.\n\nThe first tranche in 2024 was scoping work. Rear Admiral Tim Gallaudet, US Navy retired, published 'Beneath the Surface: We May Learn More about UAP by Looking in the Ocean' in March 2024, arguing that transmedium UAP and unidentified submersible objects are the overlooked domain. The foundation itself published 'UAP in Crowded Skies' in the same month and 'Anomalous Health Threats: Health Security Considerations for UAP' in July. Helen McCaw wrote on UK policy implications in May 2024. Paul Thigpen wrote on the Catholic Church's likely response in July.\n\nThen in November 2024 Peter Skafish, the foundation's executive director and co-founder, published 'The Prospect of Executive Branch Unidentified Anomalous Phenomena Secrecy: The Harm to Congress and Potential Remedies.' That is the pivot. The subject is no longer whether UAP are anomalous; it is whether an executive-branch secrecy regime has concealed decades of knowledge, research programmes and potentially retrieved technologies from Congress itself, and what remedies exist. In May 2025 the series published Colonel Karl E. Nell, retired, on 'The UFO Enigma: A Call for US Government Disclosure,' framed around the effort to revive the UAP Disclosure Act.\n\nBy 2026 the series had become numbered Science and Policy Briefings and had acquired an author who is the point of the whole exercise. Briefing No. 2, April 2026, is 'UAP Whistleblower Restitution Fund Would Incentivize Disclosures to Congress,' by Kirk McConnell. McConnell is Sol's senior legislative affairs officer and spent thirty-seven years on the staff of the Senate Armed Services Committee. The paper's premise is stated at the top: individuals considering disclosing information about classified executive-branch UAP programmes to Congress face significant retaliation, including immediate loss of livelihood, and several senators have said so. That is a former SASC staffer, writing under a foundation's imprint, designing a financial instrument to overcome the deterrent that the special-access architecture places on contractor and government employees who might talk to his old committee. Briefings No. 1 and No. 3, both by Marik von Rennenkampff, cover Beatriz Villarroel's pre-satellite-era night-sky plate work and what the foundation describes as the first peer-reviewed scientific analysis of possible UAP materials, involving Garry Nolan.\n\nThat combination - a Stanford immunologist doing materials and biological analysis, a career Senate Armed Services staffer doing legislative design, an anthropologist doing the theory of secrecy - is why Sol belongs on this map. It is not a UFO group. It is a small institution that identified the mechanism, staffed against it, and published a remedy.\n\nThe consequence arrived in June 2026. Following what the foundation calls 'historic releases of government records about UAP encounters,' the Office of the Director of National Intelligence, with the support of the FBI, announced a UAP Science Advisory Council led by Avi Loeb, who sits on Sol's own advisory board. The foundation's announcement states that among the fourteen scientists and experts named were Sol co-founders Garry Nolan and Peter Skafish; Sol senior adviser Tim Gallaudet; and Sol advisory board member Jacob Haqq-Misra. Ross Howard, who leads production for the foundation, would lead communications for the council. The council reports to a higher-level UAP Governance Board, 'an interagency body coordinating across military, law enforcement, and intelligence community agencies,' and 'All data shared with the council will be unclassified.' The foundation's own framing is unambiguous about what it thinks happened: 'The appointment of Sol's co-founders, Admiral (ret.) Gallaudet and Dr. Jacob Haqq-Misra to the government's scientific advisory body is a fulfillment of its founding mission. Sol can now share its insight to the highest levels of government deliberation about disclosure, amplifying our impact.'\n\nTwo things about that are worth holding separately. The first is a genuine institutional achievement: a private foundation went from formation to supplying a plurality of the government's outside scientific advisers on this subject in under three years. The second is a caution the board should apply without softening it: the council those people joined is, on the government's own description, unclassified-only. A body with no access to classified material cannot examine recovered material, cannot audit a carve-out special access programme, and cannot compel anything. Sol's own executive director wrote the paper explaining exactly why that matters. The organisation that best articulated the executive-branch secrecy problem has now placed its people inside a body that has been constituted on the far side of the secrecy line.\n\nThe last thing to say about Sol is the thing it does not say about itself. Its site solicits membership and donations. It names no donors, no foundations and no corporate supporters. For an entity on a board whose organising question is who pays, that is the largest single documentary gap in its record, and it is not resolved by anything published as of this writing. There is also a small unresolved inconsistency in its own account of its founding date - the June 2026 announcement says the foundation 'was established in 2023,' which does not match every version the organisation has published.",
+"openQuestions": [
+"Who funds the Sol Foundation. No donor, foundation or corporate supporter is named in any published Sol material, and there is no public filing reviewed here that discloses its revenue sources.",
+"The foundation's own founding date is inconsistent across its publications (2022 in some material, 'established in 2023' in the June 2026 council announcement); the incorporation record has not been checked.",
+"Whether any Sol principal or adviser holds or has held a security clearance or special-access indoctrination that would constrain what they can say about the concealment thesis they publish on.",
+"Whether the McConnell whistleblower restitution fund proposal has been introduced in any legislative vehicle, and by whom.",
+"What relationship, if any, exists between Sol and the government bodies its people now advise beyond the individual appointments - whether any contract, agreement, data-sharing arrangement or funding flows between the foundation and ODNI, AARO or the FBI."
+],
+"roles": [
+"disclosure",
+"oversight"
+],
+"whatItIs": "The Sol Foundation is a private non-profit co-founded by Stanford pathology professor Garry Nolan and anthropologist Peter Skafish that describes its work as science, policy and public education for what it calls the post-UAP world. It runs observational and analytical research projects, publishes a numbered white-paper and policy-briefing series, and holds an annual conference. In June 2026 five people connected to it - both co-founders, a senior adviser, an advisory board member and its production lead - were named to the US government's UAP Science Advisory Council.",
+"whyImplicated": "Sol is the institution that converted the private technical layer into a policy actor with standing inside government. Its published output is not popular advocacy; it is a policy programme aimed squarely at the concealment mechanism, including a November 2024 paper by its own executive director on executive-branch UAP secrecy and the harm to Congress, a May 2025 paper by retired Colonel Karl Nell calling for US government disclosure, and an April 2026 briefing by its senior legislative affairs officer - a 37-year Senate Armed Services Committee staffer - proposing a whistleblower restitution fund to incentivise disclosures to Congress. Within under three years of formation, that programme placed a plurality of the members of the first standing outside scientific advisory body the US government has convened on this subject. The single largest gap in the Sol record is that it names no donors, and the board treats an unfunded map of a funding question as an open problem rather than a settled one."
+},
+"entityInfo": {
+"desc": "COMPLETE PEOPLE ROSTER as published 12 August 2026.\nBOARD OF DIRECTORS: Garry Nolan (Executive Director of the Board; Rachford and Carlota A. Harris Professor, Department of Pathology, Stanford University School of Medicine); Peter Skafish (Secretary; sociocultural anthropologist); Aneil Mallavarapu (Independent Board Member; PhD, UCSF).\nEXECUTIVE LEADERSHIP: Peter Skafish (Executive Director); Jennifer Preston (Chief Operating Officer); Matt Mason (Chief Marketing Officer); Christian Peters (Associate Director of Research; formerly Managing Director, Bremen International Graduate School); Kirk McConnell (Senior Legislative Affairs Officer; retired after 37 years with the Senate Armed Services Committee).\nADVISORY BOARD: Eric Davis (Natural Sciences); Timothy Gallaudet (Natural Sciences and US Government; Rear Admiral ret., US Navy); Jeffrey J. Kripal (Social Sciences; J. Newton Rayzor Chair, Rice University); Avi Loeb (Natural Sciences; Frank B. Baird Jr. Professor of Science, Harvard); Jacob Haqq Misra (Blue Marble Space Institute of Science); Diana Pasulka (Social Sciences; Professor of Religious Studies, UNC Wilmington); Jim Semivan (former 25-year CIA career official); Jacques Vallee (Emeritus Advisor); Beatriz Villarroel (Nordita); Alexander Wendt (Mershon Professor of International Security, Ohio State).\n\n2023 INAUGURAL CONFERENCE SPEAKERS (Stanford, 17-18 November 2023): Jonathan Berte, Eric Davis, Timothy Gallaudet, Jairus Victor Grove, Avi Loeb, Leslie Kean, Kevin Knuth, Larry Maguire MP, Charles McCullough III, Christopher Mellon, Karl Nell, Diana Walsh Pasulka, Hal Puthoff, Paul Thigpen, Iya Whiteley, Beatriz Villarroel, Jacques Vallee.\n\n2025 SYMPOSIUM SPEAKERS (Lake Maggiore, Italy, 24-27 October 2025): Beatriz Villarroel, Col. (Ret.) Karl Nell, Luc Dini, Gen. Pierre Bescond, Peter Skafish, Diana Pasulka, Karl Svozil, Jacques Vallee, Garry Nolan, Jake Barber, James Fowler, Dylan Borland, Jeff Nuccetelli, Iya Whiteley, Adm. (Ret.) Tim Gallaudet, Jacob Haqq-Misra, Anna Brady-Estevez, Jonathan Berte, Michael Valliant, Roberto Pinotti.\n\nFUNDING: not disclosed. The site solicits membership and donations but names no donors, foundations or corporate supporters. This is the single largest documentary gap in the Sol record.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "The Sol Foundation - People",
+"url": "https://thesolfoundation.org/people/"
+},
+{
+"date": "2023-11-17",
+"name": "The Sol Foundation - Inaugural Conference",
+"url": "https://thesolfoundation.org/events/the-inaugural-annual-conference-of-the-sol-foundation/"
+},
+{
+"date": "2025-10-24",
+"name": "The Sol Foundation - 2025 Symposium",
+"url": "https://thesolfoundation.org/events/the-2025-sol-foundation-symposium/"
+}
+]
+},
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "sol-foundation",
+"l0": true,
+"label": "The Sol Foundation",
+"locLabel": null,
+"members": [
+{
+"cls": "person",
+"id": "david-grusch",
+"label": "David Charles Grusch",
+"tier": "A"
+},
+{
+"cls": "person",
+"id": "dylan-borland",
+"label": "Dylan Borland",
+"tier": "A"
+},
+{
+"cls": "person",
+"id": "eric-davis",
+"label": "Eric W. Davis",
+"tier": "A"
+},
+{
+"cls": "person",
+"id": "garry-nolan",
+"label": "Garry Nolan",
+"tier": "A"
+},
+{
+"cls": "person",
+"id": "jacques-vallee",
+"label": "Jacques F. Vallee",
+"tier": "B"
+},
+{
+"cls": "person",
+"id": "jake-barber",
+"label": "Jake Barber",
+"tier": "B"
+},
+{
+"cls": "person",
+"id": "jim-semivan",
+"label": "James 'Jim' Semivan",
+"tier": "C"
+},
+{
+"cls": "person",
+"id": "karl-nell",
+"label": "Karl E. Nell",
+"tier": "B"
+},
+{
+"cls": "person",
+"id": "kirk-mcconnell",
+"label": "Kirk McConnell",
+"tier": "B"
+},
+{
+"cls": "location",
+"id": "l-stanford",
+"label": "Stanford, California",
+"tier": "C"
+},
+{
+"cls": "person",
+"id": "leslie-kean",
+"label": "Leslie Kean",
+"tier": "B"
+},
+{
+"cls": "person",
+"id": "marik-von-rennenkampff",
+"label": "Marik von Rennenkampff",
+"tier": "C"
+},
+{
+"cls": "person",
+"id": "peter-skafish",
+"label": "Peter Skafish",
+"tier": "B"
+},
+{
+"cls": "document",
+"id": "sol-briefing-3-2026",
+"label": "Sol Foundation Science and Policy Briefing No. 3 (April 2026)",
+"tier": "C"
+},
+{
+"cls": "person",
+"id": "tim-gallaudet",
+"label": "Timothy Gallaudet",
+"tier": "A"
+},
+{
+"cls": "program",
+"id": "vasco-project",
+"label": "VASCO - Vanishing and Appearing Sources during a Century of Observations",
+"tier": "C"
+}
+],
+"short": "The Sol Foundation",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "The Sol Foundation - People",
+"url": "https://thesolfoundation.org/people/"
+},
+{
+"date": "2026-08-12",
+"name": "The Sol Foundation - Policy",
+"url": "https://thesolfoundation.org/policy/"
+},
+{
+"date": "2026-08-12",
+"name": "The Sol Foundation - About",
+"url": "https://thesolfoundation.org/about-2/"
+},
+{
+"date": "2023-11-17",
+"name": "The Sol Foundation - Inaugural Conference",
+"url": "https://thesolfoundation.org/events/the-inaugural-annual-conference-of-the-sol-foundation/"
+},
+{
+"date": "2025-10-24",
+"name": "The Sol Foundation - 2025 Symposium",
+"url": "https://thesolfoundation.org/events/the-2025-sol-foundation-symposium/"
+},
+{
+"date": "2026-08-12",
+"name": "The Sol Foundation",
+"url": "https://thesolfoundation.org/"
+},
+{
+"date": "2026-08-12",
+"name": "The Sol Foundation - White Papers and Policy Briefings index",
+"url": "https://thesolfoundation.org/white-papers/"
+},
+{
+"date": "2026-08-12",
+"name": "The Sol Foundation - Kirk McConnell",
+"url": "https://thesolfoundation.org/people/kirk-mcconnell/"
+},
+{
+"date": "2026-06-01",
+"name": "The Sol Foundation, 'Sol Foundation Co-Founders Named to UAP Science Advisory Council'",
+"url": "https://thesolfoundation.org/sol-foundation-co-founders-named-to-uap-science-advisory-council/"
+},
+{
+"date": "2023-09-12",
+"name": "Micah Hanks, 'The Sol Foundation: How a New Think Tank of Academics is Applying Cutting-Edge Research to the UAP Mystery', The Debrief",
+"url": "https://thedebrief.org/the-sol-foundation-how-a-new-think-tank-of-academics-is-applying-cutting-edge-research-the-uap-mystery/"
+},
+{
+"date": "2024-12-20",
+"name": "Chrissy Newton, 'Academics, Investors, and UAP Seekers Unite at the 2024 Sol Foundation Symposium', The Debrief",
+"url": "https://thedebrief.org/academics-investors-and-uap-seekers-unite-at-the-2024-sol-foundation-symposium/"
+},
+{
+"date": "2026-04-01",
+"name": "The Sol Foundation Science and Policy Briefings No. 3, Marik von Rennenkampff, 'First Peer-Reviewed Scientific Analysis of Possible UAP Materials Employs State-of-the-Art Technologies'",
+"url": "https://thesolfoundation.org/wp-content/uploads/2026/04/Sol_Policy_Briefing_Number_3-1.pdf"
+},
+{
+"date": "2026-08-12",
+"name": "The Sol Foundation homepage",
+"url": "https://www.thesolfoundation.org/"
+},
+{
+"date": "2026-04",
+"name": "The Sol Foundation, Science and Policy Briefing No. 3 (Marik von Rennenkampff, April 2026)",
+"url": "https://thesolfoundation.org/publications/first-peer-reviewed-scientific-analysis-of-possible-uap-materials-employs-state-of/"
+}
+],
+"sub": "UAP research and policy non-profit",
+"tier": "A",
+"tierRationale": "Re-graded A on a global pass (rank 59 of 1027, score 75). 20 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D3.",
+"timeline": [
+{
+"date": "2023-08-15",
+"id": "st-2023-08-15",
+"label": "Sol Foundation founded",
+"precision": "day",
+"strand": "program",
+"text": "Garry Nolan and Peter Skafish co-found The Sol Foundation, the first institution to treat UAP simultaneously as a materials, governance and public-understanding problem.",
+"tier": "A"
+},
+{
+"date": "2023-11-17",
+"id": "ms-2023-sol",
+"label": "Inaugural Sol Foundation conference",
+"precision": "day",
+"strand": "program",
+"text": "Two days at Stanford, sponsored by the Nolan Laboratory and Stanford School of Medicine, with Eric Davis, Tim Gallaudet, Avi Loeb, Leslie Kean, Christopher Mellon, Karl Nell, Hal Puthoff and Jacques Vallee speaking. The movement acquires an academic address.",
+"tier": "A"
+},
+{
+"date": "2025-05-01",
+"id": "st-2025-05-nell",
+"label": "Nell publishes through Sol",
+"precision": "month",
+"strand": "oversight",
+"text": "Karl Nell's 'The UFO Enigma: A Call for US Government Disclosure' appears in the Sol Foundation white-paper series.",
+"tier": "A"
+},
+{
+"date": "2025-10-24",
+"id": "ms-2025-sol-italy",
+"label": "2025 Sol Foundation Symposium",
+"precision": "ranged",
+"strand": "program",
+"text": "Four days on Lake Maggiore in northern Italy with Karl Nell, Jacques Vallee, Garry Nolan, Jake Barber, Dylan Borland, Jeff Nuccetelli, Tim Gallaudet and Gen. Pierre Bescond. The movement internationalises.",
+"tier": "A"
+},
+{
+"date": "2026-01-01",
+"id": "st-2026-01-sol1",
+"label": "Sol Briefing No. 1",
+"precision": "month",
+"strand": "oversight",
+"text": "The Sol Foundation publishes 'Robust Evidence of Unidentified Anomalous Phenomena in Pre-Satellite Era Night-Sky Images', translating the VASCO plate results into a policy artefact.",
+"tier": "A"
+},
+{
+"date": "2026-04",
+"id": "tl-sol-briefing3",
+"label": "Sol Foundation publishes peer-reviewed analysis of possible UAP material",
+"precision": "month",
+"strand": "program",
+"text": "Science and Policy Briefing No. 3 by Marik von Rennenkampff reports atomic and isotopic analysis of physical material associated with a multi-witness event, conducted by Garry Nolan - the private-sector counterpart to AARO's two Oak Ridge specimen studies.",
+"tier": "2"
+},
+{
+"date": "2026-06-22",
+"id": "tl-sac-members",
+"label": "Sol Foundation confirms its co-founders sit on the federal advisory council",
+"precision": "day",
+"strand": "program",
+"text": "Nolan and Skafish are named to the UAP Science Advisory Council, which the foundation says was announced by ODNI with FBI support and reports to an interagency UAP Governance Board. All data shared with the council will be unclassified.",
+"tier": "2"
+}
+]
+}

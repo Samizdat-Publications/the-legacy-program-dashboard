@@ -1,0 +1,149 @@
+{
+"A": 3,
+"C": 2,
+"D": 2,
+"band": null,
+"claims": [
+{
+"source": "https://irp.fas.org/budget/index.html",
+"text": "Published MIP appropriated toplines: FY2007 $20.0bn, FY2008 $22.9bn, FY2009 $26.4bn, FY2010 $27.0bn, FY2011 $24.0bn, FY2012 $21.5bn, FY2013 $19.2bn, FY2014 $17.4bn, FY2015 $16.5bn, FY2016 $17.7bn, FY2017 $18.4bn, FY2018 $22.1bn, FY2019 $21.5bn, FY2020 $23.1bn, FY2021 $23.3bn, FY2022 $24.1bn, FY2023 $27.9bn, FY2024 $29.8bn, FY2025 $27.8bn; the FY2026 request was $33.6bn.",
+"tier": 1
+},
+{
+"source": "https://irp.fas.org/budget/index.html",
+"text": "MIP figures were first disclosed publicly alongside NIP totals for FY2010; the Department publishes only an aggregate topline and states that other MIP budget details remain classified.",
+"tier": 1
+},
+{
+"source": "https://www.odni.gov/index.php/what-we-do/ic-budget",
+"text": "The NIP/MIP division creates a jurisdictional seam between the intelligence committees and the armed services committees that a single activity scored across both can be described to each committee without either receiving a complete account. Reasoning: the two programmes have different controlling officials (DNI and SECDEF) and different primary oversight committees, and no statute requires a reconciled cross-programme presentation to any single body.",
+"tier": 3
+}
+],
+"cls": "program",
+"cluster": "legacy",
+"connections": [
+{
+"claimTier": 3,
+"cls": "document",
+"dateEnd": null,
+"dateStart": "2025-12-18",
+"direction": "in",
+"edgeLabel": "Published classified line items are where MIP and NIP money physically sits in the defense budget",
+"id": "classified-programs-line",
+"l0": false,
+"label": "Line item 'CLASSIFIED PROGRAMS' / Program Element 9999999999",
+"note": "The FY2026 funding tables carry roughly $95.9 billion in rows titled only 'CLASSIFIED PROGRAMS'; the published MIP request for FY2026 is $33.6 billion and the NIP request $81.9 billion, neither of which appears as a named line anywhere. The inference is that the classified rows are the appropriation vehicle. No document states the mapping.",
+"sources": [
+{
+"date": "2025-12-18",
+"name": "NDAA FY2026 Division D; FAS Intelligence Budget Data",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-119publ60/html/PLAW-119publ60.htm"
+}
+],
+"tier": "A",
+"type": "funding"
+},
+{
+"claimTier": 1,
+"cls": "domain",
+"dateEnd": null,
+"dateStart": "2010",
+"direction": "out",
+"edgeLabel": "the second named channel, under SECDEF and USD(I&S) rather than the DNI",
+"id": "d-funding",
+"l0": false,
+"label": "Funding Channels",
+"note": "The Military Intelligence Program is the defence-side counterpart to the NIP, managed by the Under Secretary of Defense for Intelligence and Security. DoD has disclosed a MIP appropriated topline annually since 2010 and request figures since 2012; the DoD Financial Management Regulation Vol. 2B Ch. 16 governs how intelligence programmes are budgeted and displayed. Topline-only disclosure is the same structural property as the NIP.",
+"sources": [
+{
+"date": "2026-08-21",
+"name": "ODNI, Intelligence Community Budget",
+"url": "https://www.odni.gov/index.php/what-we-do/ic-budget"
+},
+{
+"date": "2026-08-21",
+"name": "DoD Financial Management Regulation, Volume 2B, Chapter 16, 'Intelligence Programs/Activities'",
+"url": "https://comptroller.war.gov/Portals/45/documents/fmr/current/02b/02b_16.pdf"
+},
+{
+"date": "2024-09-26",
+"name": "CRS Report R44381, 'Intelligence Community Spending: Trends and Issues'",
+"url": "https://www.congress.gov/crs-product/R44381"
+}
+],
+"tier": "A",
+"type": "funding"
+},
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": null,
+"dateStart": "2005",
+"direction": "in",
+"edgeLabel": "The two-programme split that divides intelligence money between DNI and SECDEF control",
+"id": "nip",
+"l0": true,
+"label": "National Intelligence Program (NIP)",
+"note": "The NIP is controlled by the Director of National Intelligence and the MIP by the Secretary of Defense; both are published only as annual aggregates. Attested by ODNI's own budget page and the FAS compilation.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "ODNI, IC Budget; FAS Intelligence Budget Data",
+"url": "https://www.odni.gov/index.php/what-we-do/ic-budget"
+}
+],
+"tier": "B",
+"type": "institutional"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "2005",
+"deg": 3,
+"denials": [],
+"desc": "The Military Intelligence Program was created in 2005 by consolidating the Joint Military Intelligence Program and the Tactical Intelligence and Related Activities aggregation, placing under the Under Secretary of Defense for Intelligence (now Intelligence and Security) the intelligence money that supports military operations, as distinct from the National Intelligence Program controlled by the DNI. The Department of Defense publishes only an aggregate topline for the MIP, in a brief annual press release, with the standing formula that no other MIP budget figures or details will be released because they remain classified. Appropriated toplines have run from $20.0 billion in FY2007 to a peak of $29.8 billion in FY2024 and $27.8 billion in FY2025, against a FY2026 request of $33.6 billion - roughly a third of the NIP in each year. The MIP matters to this board more than the NIP does, because it is the pot of money closest to the Department's own laboratories, test ranges, materiel commands and special access program enterprise, and because its governing official, USD(I&S), is also the Department's Senior Security Official with authority over the SAP system. The NIP and MIP split also creates the oversight seam that any concealed activity would exploit: NIP money is overseen by the intelligence committees, MIP money principally by the armed services committees, and a programme scored partly to each can be described truthfully to each committee in terms that leave neither with the whole.",
+"domains": [
+"w2-black-budget"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "2",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "mip",
+"l0": false,
+"label": "Military Intelligence Program (MIP)",
+"locLabel": null,
+"members": null,
+"short": "Military Intelligence Program (MIP)",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "ODNI, Intelligence Community Budget",
+"url": "https://www.odni.gov/index.php/what-we-do/ic-budget"
+},
+{
+"date": "2026-08-12",
+"name": "FAS Intelligence Resource Program, Intelligence Budget Data",
+"url": "https://irp.fas.org/budget/index.html"
+}
+],
+"sub": "The Secretary of Defense's intelligence budget; aggregate topline released by DoD, no breakdown",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 296 of 1027, score 37). 3 connections, 2 of them custody/witness/funding/programmatic. Axes C2/A3/D2.",
+"timeline": [
+{
+"date": "2005",
+"id": "bb-tl-2005-mip",
+"label": "Military Intelligence Program created",
+"precision": "year",
+"strand": "program",
+"text": "The Joint Military Intelligence Program and Tactical Intelligence and Related Activities aggregations are consolidated into the Military Intelligence Program under the Under Secretary of Defense for Intelligence, formalising the split between DNI-controlled and SECDEF-controlled intelligence money and creating the oversight seam between the intelligence and armed services committees.",
+"tier": "B"
+}
+]
+}

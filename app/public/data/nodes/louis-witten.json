@@ -1,0 +1,144 @@
+{
+"A": 1,
+"C": 1,
+"D": 0,
+"affiliations": [],
+"age": null,
+"band": null,
+"chronology": [],
+"claims": [
+{
+"source": "American Alchemy with Jesse Michels, 'NASA Doctor: I Saw A UFO Hovering In THIS Secret Hangar (Ft. Greg Rogers)', 31 August 2025, 2:07:12, https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL2173204669.mp3?updated=1757589247",
+"text": "On American Alchemy with Jesse Michels, 31 August 2025, at 2:07:12 and 2:08:06, Michels said that at the time of the Avro car project Wright Field also had 'a dedicated theoretical physics group' headed by a man the caption renders as 'Josh Goldberg', and that Agnew Bahnson, who ran the University of North Carolina's Institute of Field Physics with Bryce DeWitt, recorded in diaries found years later that he had been told to get in touch with Townsend Brown because he wanted to build a spaceship. Neither Goldberg nor Bahnson appears anywhere in the board's research files, the caption spells Bahnson 'Bonson', and no diary, archive or document is named on air.",
+"tier": 2
+},
+{
+"source": "The Role of Gravitation in Physics: Report from the 1957 Chapel Hill Conference, eds. Rickles and DeWitt, participants list",
+"text": "The participants list of the January 1957 Chapel Hill conference on the role of gravitation in physics prints 'Witten, L. | RIAS, Inc., Baltimore', directly above 'Bass, R.W. | RIAS , Inc., Baltimore'. Witten's contribution, with R. W. Bass, is 'Some Remarks on Cosmological Models'.",
+"tier": 1
+},
+{
+"source": "The Role of Gravitation in Physics: Report from the 1957 Chapel Hill Conference, title page and editorial matter",
+"text": "The conference report's official designation is WADC Technical Report 57-216, and it exists because of a conference funding agreement with the Wright Air Development Center -- an Air Force body.",
+"tier": 1
+},
+{
+"source": "Dean Rickles, 'The Chapel Hill Conference in Context', in the Edition Open Sources edition of the 1957 conference report",
+"text": "A named historian on the record states that 'Louis Witten (the father of Ed Witten, and participant in the Chapel Hill conference) was the first researcher hired by RIAS, of the Glenn Martin Company.'",
+"tier": 2
+},
+{
+"source": "Dean Rickles, 'The Chapel Hill Conference in Context'; and the American Institute of Physics catalog abstract for the Louis Witten oral history",
+"text": "The conference participants recorded a concern about 'the absolute necessity to avoid identification with so-called anti-gravity research'. Witten's documented output is classical general relativity, including exact electrovacuum solutions to the Einstein field equation; nothing read shows RIAS producing gravity-control results.",
+"tier": 2
+}
+],
+"cls": "person",
+"cluster": "research",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "1957-01",
+"direction": "in",
+"edgeLabel": "Witten took part in the Institute's inaugural Chapel Hill conference",
+"id": "institute-of-field-physics",
+"l0": false,
+"label": "Institute of Field Physics (UNC Chapel Hill)",
+"note": "The department history names Louis Witten as a participant in the Chapel Hill conference and as the first researcher RIAS hired, and the published report identifies that conference as the Institute's inaugural event.",
+"sources": [
+{
+"date": "2026-09-02",
+"name": "History of the Institute of Field Physics (1955-1959), Section II",
+"url": "https://physics.unc.edu/department-history/section-ii/"
+}
+],
+"tier": "B",
+"type": "research"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "1957",
+"dateStart": "1957",
+"direction": "in",
+"edgeLabel": "Witten represented RIAS at the 1957 Chapel Hill gravitation conference",
+"id": "rias-inc",
+"l0": false,
+"label": "RIAS, Inc. (Research Institute for Advanced Studies)",
+"note": "The participants list prints 'Witten, L. | RIAS, Inc., Baltimore'. His contribution, with R. W. Bass, was 'Some Remarks on Cosmological Models'.",
+"sources": [
+{
+"date": "1957-01-18",
+"name": "The Role of Gravitation in Physics: Report from the 1957 Chapel Hill Conference, participants list",
+"url": "https://edition-open-sources.org/sources/5/6/index.html"
+}
+],
+"tier": "C",
+"type": "institutional"
+}
+],
+"date": "1957-01-18",
+"dateEnd": null,
+"dateStart": "1957-01-18",
+"deg": 2,
+"denials": [],
+"domains": [
+"legacy-1947-86"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "louis-witten",
+"instId": "rias-inc",
+"l0": false,
+"label": "Louis Witten",
+"loc": "Baltimore, MD",
+"locId": null,
+"members": null,
+"narrative": "Louis Witten is on this board for one documented fact and its context: in January 1957 he attended the Chapel Hill conference on the role of gravitation in physics as a representative of RIAS, Inc., Baltimore. The participants list of the conference report prints it plainly -- 'Witten, L. | RIAS, Inc., Baltimore' -- immediately above 'Bass, R.W. | RIAS, Inc., Baltimore'. His contribution, with R. W. Bass, was 'Some Remarks on Cosmological Models'. The report's own designation is WADC Technical Report 57-216 and it exists because of a conference funding agreement with the Wright Air Development Center, which is to say an Air Force body paid for the meeting at which an aerospace prime's research institute discussed gravitation.\n\nWhat is documented about his work is classical general relativity, not gravity control. The conference participants themselves recorded a concern about 'the absolute necessity to avoid identification with so-called anti-gravity research', and nothing read in this pass shows RIAS producing gravity-control results. The board carries him as the hire that establishes what RIAS actually was, and it does not carry the claim that George Trimble recruited him -- the one source that could be opened says Witten approached Bryce DeWitt to recruit DeWitt, and the oral history that would settle the direction refuses this environment.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Louis Witten",
+"sources": [
+{
+"date": "2025-08-31",
+"name": "American Alchemy with Jesse Michels, 'NASA Doctor: I Saw A UFO Hovering In THIS Secret Hangar (Ft. Greg Rogers)' (episode audio)",
+"url": "https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL2173204669.mp3?updated=1757589247"
+},
+{
+"date": "1957-01-23",
+"name": "The Role of Gravitation in Physics: Report from the 1957 Chapel Hill Conference (WADC Technical Report 57-216)",
+"url": "https://edition-open-sources.org/sources/5/"
+},
+{
+"date": "1957-01-18",
+"name": "Chapel Hill conference participants list",
+"url": "https://edition-open-sources.org/sources/5/6/index.html"
+},
+{
+"date": "2011-01-01",
+"name": "Dean Rickles, 'The Chapel Hill Conference in Context'",
+"url": "https://edition-open-sources.org/sources/5/3/index.html"
+},
+{
+"date": "2011-03-17",
+"name": "AIP catalog record, Louis Witten oral history, 17 March 2011",
+"url": "https://history.aip.org/catalog/icos/36985.html"
+}
+],
+"status": "dead",
+"sub": "General relativist; first researcher hired by RIAS, Inc., the Glenn L. Martin Company's research institute",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 722 of 1027, score 21). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D0.",
+"timeline": [],
+"unexplainedResidual": null,
+"unverified": "The claim that George Trimble recruited Witten is NOT carried. The only openable source says Witten approached Bryce DeWitt in a bid to have DeWitt join RIAS, and nothing read states who hired Witten. The AIP oral history that lists both Trimble and RIAS among its topics returned 403 to both curl and WebFetch and was not read."
+}

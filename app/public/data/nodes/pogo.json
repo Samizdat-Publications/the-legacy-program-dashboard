@@ -1,0 +1,155 @@
+{
+"A": 0,
+"C": 0,
+"D": 0,
+"band": null,
+"claims": [
+{
+"source": "pogo.org/about",
+"text": "POGO is a nonpartisan independent watchdog founded in 1981, initially as a Pentagon watchdog, later expanded to monitor the entire federal government; it self-describes its mission as investigating and exposing systemic corruption, abuse of power and waste.",
+"tier": 1
+},
+{
+"source": "pogo.org/about",
+"text": "POGO is donor-funded, publishes audited financials and holds four-star Charity Navigator, CharityWatch and Candid Platinum transparency ratings; it produces investigative reports, policy recommendations and congressional testimony, and maintains published whistleblower resources.",
+"tier": 1
+},
+{
+"source": "Inference from pogo.org/about",
+"text": "POGO's structural position - contractor-independent funding, a documented whistleblower intake and a direct line into congressional investigative staff - makes it a viable off-ramp for insiders bound by programme non-disclosure agreements who will not use the DoD internal channels. Reasoning: from its documented function, not from any specific UAP disclosure attributed to it here.",
+"tier": 3
+},
+{
+"source": "Board bookkeeping",
+"text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
+"tier": 3
+}
+],
+"cls": "institution",
+"cluster": "media",
+"connections": [
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "POGO recommendations delivered to Luna's task force",
+"id": "anna-paulina-luna",
+"l0": false,
+"label": "Anna Paulina Luna",
+"note": "Spielberger's testimony is addressed to 'Chairwoman Luna, Ranking Member Crockett, and task force members' and lays out a legislative agenda for protecting UAP whistleblowers. Luna convened and chaired the hearing; the connection is a witness-to-chair relationship at a single hearing, not an ongoing partnership.",
+"sources": [
+{
+"date": "2025-09-09",
+"name": "House Oversight Task Force hearing, 9 September 2025 (CHRG-119hhrg61718)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm"
+},
+{
+"date": null,
+"name": "https://oversight.house.gov/wp-content/uploads/2025/09/Spielberger-Written-Testimony.pdf",
+"url": "https://oversight.house.gov/wp-content/uploads/2025/09/Spielberger-Written-Testimony.pdf"
+},
+{
+"date": null,
+"name": "House Committee on Oversight and Government Reform press release, 'Luna Opens Hearing on Restoring Public Trust Through UAP Transparency,' September 9, 2025 -- https://oversight.house.gov/release/luna-opens-hearing-on-restoring-public-trust-through-uap-transparency",
+"url": ""
+}
+],
+"tier": "A",
+"type": "legislative"
+},
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "POGO counsel testified at the UAP transparency hearing",
+"id": "hearing-2025-09-09",
+"l0": true,
+"label": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'",
+"note": "The transcript lists 'Mr. Joe Spielberger (Minority Witness), Senior Policy Counsel, Project on Government Oversight'. His statement opens 'Chairwoman Luna, Ranking Member Crockett, and Task Force members' and describes POGO as 'a nonpartisan independent watchdog organization that investigates and exposes waste, corruption, abuse of power, and when the government fails to serve the public or silences those who report wrongdoing.' He appeared as the minority witness, on whistleblower protection rather than on the phenomenon.",
+"sources": [
+{
+"date": "2025-09-09",
+"name": "House Oversight Task Force hearing, 9 September 2025 (CHRG-119hhrg61718)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm"
+},
+{
+"date": null,
+"name": "Testimony of Joe Spielberger, Senior Policy Counsel, Project On Government Oversight, before the House Committee on Oversight and Government Reform, Task Force on the Declassification of Federal Secrets, 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection,' September 9, 2025 -- https://oversight.house.gov/wp-content/uploads/2025/09/Spielberger-Written-Testimony.pdf",
+"url": ""
+},
+{
+"date": null,
+"name": "https://www.congress.gov/119/chrg/CHRG-119hhrg61718/CHRG-119hhrg61718.pdf",
+"url": "https://www.congress.gov/119/chrg/CHRG-119hhrg61718/CHRG-119hhrg61718.pdf"
+}
+],
+"tier": "A",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "Outside watchdog seated as witness before Oversight's declassification task force",
+"id": "house-oversight-committee",
+"l0": true,
+"label": "U.S. House Committee on Oversight and Government Reform",
+"note": "The hearing's own masthead gives the forum exactly: 'HEARING BEFORE THE TASK FORCE ON THE DECLASSIFICATION OF FEDERAL SECRETS OF THE COMMITTEE ON OVERSIGHT AND GOVERNMENT REFORM'. POGO appeared through Joe Spielberger, its senior policy counsel, listed as the minority witness, and used the appearance to argue for statutory whistleblower protection rather than to make claims about the phenomenon.",
+"sources": [
+{
+"date": "2025-09-09",
+"name": "'Restoring Public Trust Through UAP Transparency and Whistleblower Protection', hearing before the Task Force on the Declassification of Federal Secrets of the Committee on Oversight and Government Reform, 9 September 2025, Serial No. 119-44",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm"
+},
+{
+"date": null,
+"name": "Testimony of Joe Spielberger, POGO, before the House Committee on Oversight and Government Reform, Task Force on the Declassification of Federal Secrets, September 9, 2025 -- https://oversight.house.gov/wp-content/uploads/2025/09/Spielberger-Written-Testimony.pdf",
+"url": ""
+}
+],
+"tier": "B",
+"type": "institutional"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": null,
+"deg": 3,
+"denials": [],
+"desc": "The Project On Government Oversight is a Washington non-profit founded in 1981, originally as a Pentagon procurement watchdog under the name Project on Military Procurement, and later broadened to the whole federal executive. It describes itself as a nonpartisan independent watchdog that investigates, exposes and champions reforms on systemic corruption, abuse of power and waste, and it operates as a donor-funded 501(c)(3) with published audited financials and charity-navigator accreditation rather than on government or contractor money. Its working method is the one that matters to this board: it takes documents and testimony from inside federal agencies and defence contractors, publishes the underlying records, supplies congressional committees with investigative material, and maintains a standing whistleblower intake with legal guidance for people who cannot safely go through their own chain of command. That combination - independence from the contractors, a document-publishing habit and a protected intake channel - makes POGO one of the small number of non-governmental institutions positioned to receive material from inside compartmented programmes and route it to oversight. It sits on the board as infrastructure rather than as a claimant: an external, non-classified path around the internal reporting channels that the concealment depends on.",
+"domains": [
+"_rs-stubs-known",
+"_stubs"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "nd",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "pogo",
+"l0": false,
+"label": "Project On Government Oversight",
+"locLabel": null,
+"members": null,
+"short": "Project On Government Oversight",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Project On Government Oversight - About (official)",
+"url": "https://www.pogo.org/about"
+}
+],
+"sub": "Watchdog organisation",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 961 of 1027, score 11). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D0.",
+"timeline": []
+}

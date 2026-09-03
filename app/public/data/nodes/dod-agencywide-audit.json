@@ -1,0 +1,461 @@
+{
+"A": 1,
+"C": 0,
+"D": 3,
+"band": "funding",
+"claims": [
+{
+"source": "https://media.defense.gov/2026/May/12/2003929535/-1/-1/1/FY%202025%20DOW%20FINANCIAL%20STATEMENT%20AUDIT%20EXPLAINED_V6.PDF — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
+"text": "The Department received a disclaimer of opinion on its agency-wide financial statements for eight consecutive years through FY2025.",
+"tier": 2
+},
+{
+"source": "https://media.defense.gov/2026/May/12/2003929535/-1/-1/1/FY%202025%20DOW%20FINANCIAL%20STATEMENT%20AUDIT%20EXPLAINED_V6.PDF",
+"text": "The FY2025 audit identified 26 material weaknesses: 10 in management responsibility and asset accountability, 6 in information technology, and 10 in accounting.",
+"tier": 1
+},
+{
+"source": "https://media.defense.gov/2026/May/12/2003929535/-1/-1/1/FY%202025%20DOW%20FINANCIAL%20STATEMENT%20AUDIT%20EXPLAINED_V6.PDF",
+"text": "One of the ten accounting material weaknesses is titled 'Unsupported Accounting Adjustments'; the report states that in the last two quarters of FY2025 the Department's adjustments totalled more than $859 billion.",
+"tier": 1
+},
+{
+"source": "https://media.defense.gov/2026/May/12/2003929535/-1/-1/1/FY%202025%20DOW%20FINANCIAL%20STATEMENT%20AUDIT%20EXPLAINED_V6.PDF — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
+"text": "'Universe of Transactions' - the complete set of all transactions falling within audit scope - is itself a standing material weakness, meaning the Department cannot establish what its own transaction population is.",
+"tier": 2
+},
+{
+"source": "https://media.defense.gov/2026/May/12/2003929535/-1/-1/1/FY%202025%20DOW%20FINANCIAL%20STATEMENT%20AUDIT%20EXPLAINED_V6.PDF — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
+"text": "Fund Balance with Treasury, an estimated $1 trillion in spending accounts, is a standing material weakness.",
+"tier": 2
+},
+{
+"source": "https://media.defense.gov/2026/May/12/2003929535/-1/-1/1/FY%202025%20DOW%20FINANCIAL%20STATEMENT%20AUDIT%20EXPLAINED_V6.PDF — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
+"text": "In FY2025, 22 reporting entities received stand-alone audits: 11 clean opinions, 1 qualified opinion, 9 disclaimers, and 1 entity (Navy Working Capital Fund) received no opinion under a two-year audit cycle.",
+"tier": 2
+},
+{
+"source": "https://media.defense.gov/2026/May/12/2003929535/-1/-1/1/FY%202025%20DOW%20FINANCIAL%20STATEMENT%20AUDIT%20EXPLAINED_V6.PDF",
+"text": "A standing 'Universe of Transactions' material weakness is the accounting equivalent of an unindexed archive: it means no auditor and no oversight committee can prove a negative about DoD spending, because the population against which a search would run is not known to exist in complete form. Reasoning: the material weakness is defined by the auditors as inability to establish the complete transaction set; any assertion that no funds flowed to an undisclosed activity would require exactly that set.",
+"tier": 3
+}
+],
+"cls": "program",
+"cluster": "other",
+"connections": [
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "2026-05-13",
+"direction": "in",
+"edgeLabel": "Testified to the current figures on the congressional record",
+"id": "brett-mansfield",
+"l0": false,
+"label": "Brett A. Mansfield",
+"note": "Deputy Inspector General Mansfield told the House Committee on Oversight and Government Reform on 13 May 2026 that unsupported adjustments exceeded $859 billion in the last two quarters of FY2025. Attested by his published oral statement.",
+"sources": [
+{
+"date": "2026-05-13",
+"name": "Mansfield oral statement",
+"url": "https://media.defense.gov/2026/May/22/2003937005/-1/-1/1/MANSFIELD%20ORAL%20STATEMENT%205.13.26_FINAL.PDF"
+}
+],
+"tier": "B",
+"type": "witness-chain"
+},
+{
+"claimTier": 1,
+"cls": "domain",
+"dateEnd": "2025",
+"dateStart": "2018",
+"direction": "out",
+"edgeLabel": "eight consecutive disclaimers of opinion are the measurable size of the gap this domain is about",
+"id": "d-funding",
+"l0": false,
+"label": "Funding Channels",
+"note": "The Department has undergone full-scope financial statement audits since FY2018 and has received a disclaimer of opinion every year through FY2025 - eight in a row. A disclaimer means the auditors could not obtain sufficient appropriate evidence to form an opinion, which is the auditable fact that defines the boundary of what can be traced from appropriation to expenditure. This is the single hardest, least deniable member of this domain.",
+"sources": [
+{
+"date": "2026-01-15",
+"name": "CRS In Focus IF12627, 'Defense Primer: FY2025 Department of Defense Audit Results'",
+"url": "https://www.congress.gov/crs-product/IF12627"
+},
+{
+"date": "2025-12-18",
+"name": "DoD OIG press release, 'Independent Auditor's Reports on the DoD FY 2025 Financial Statements'",
+"url": "https://www.dodig.mil/In-the-Spotlight/Article/4365200/press-release-independent-auditors-reports-on-the-dod-fy-2025-financial-stateme/"
+}
+],
+"tier": "A",
+"type": "funding"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "2018",
+"direction": "in",
+"edgeLabel": "Signed the FY2018 report announcing the first full-scope audit and its disclaimer",
+"id": "david-norquist",
+"l0": false,
+"label": "David L. Norquist",
+"note": "Norquist, as USD(Comptroller)/CFO, wrote that 'In FY 2018, the Department underwent its first full-scope financial statement audit' and that the OIG 'issued a Disclaimer of Opinion'. Attested by his own signed message in the FY2018 Agency Financial Report.",
+"sources": [
+{
+"date": "2018-11-15",
+"name": "DoD AFR FY2018, Financial Section",
+"url": "https://comptroller.war.gov/Portals/45/Documents/afr/fy2018/3-Financial_Section.pdf"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2018",
+"direction": "out",
+"edgeLabel": "The OIG is the independent auditor issuing the annual opinion",
+"id": "dodig",
+"l0": false,
+"label": "Office of Inspector General, Department of Defense / Department of War",
+"note": "The DoD/DoW Office of Inspector General has issued the opinion on the agency-wide financial statements every year since FY2018, each time a disclaimer. Attested by the FY2018 AFR and by DOWIG-2026-081.",
+"sources": [
+{
+"date": "2018-11-15",
+"name": "DoD AFR FY2018; DOWIG-2026-081",
+"url": "https://comptroller.war.gov/Portals/45/Documents/afr/fy2018/3-Financial_Section.pdf"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": "2026-05-12",
+"direction": "in",
+"edgeLabel": "The current authoritative statement of the audit result",
+"id": "dowig-2026-081",
+"l0": false,
+"label": "DOWIG-2026-081 - The FY 2025 DoW Financial Statement Audit Explained",
+"note": "DOWIG-2026-081 records the eighth consecutive disclaimer, 26 material weaknesses, and more than $859 billion of unsupported adjustments in two quarters of FY2025. Attested by the report.",
+"sources": [
+{
+"date": "2026-05-12",
+"name": "DOWIG-2026-081",
+"url": "https://media.defense.gov/2026/May/12/2003929535/-1/-1/1/FY%202025%20DOW%20FINANCIAL%20STATEMENT%20AUDIT%20EXPLAINED_V6.PDF"
+}
+],
+"tier": "C",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": null,
+"dateStart": "1995",
+"direction": "in",
+"edgeLabel": "Thirty years of Comptroller General certification that the books cannot produce reliable information",
+"id": "gao-high-risk-dod-fm",
+"l0": false,
+"label": "GAO High-Risk List: DOD Financial Management",
+"note": "DOD Financial Management remains on GAO's 2025 High-Risk List with status maintained, alongside four other DoD entries. Attested by GAO's own list.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "GAO High-Risk List",
+"url": "https://www.gao.gov/high-risk-list"
+}
+],
+"tier": "C",
+"type": "investigative"
+},
+{
+"claimTier": 3,
+"cls": "event",
+"dateEnd": null,
+"dateStart": "2018",
+"direction": "out",
+"edgeLabel": "An unauditable ledger cannot disprove the allegation",
+"id": "grusch-misappropriation-allegation",
+"l0": true,
+"label": "The misappropriation allegation: Grusch's ICIG complaint and sworn testimony",
+"note": "The Department's standing 'Universe of Transactions' material weakness means the complete population of its transactions is not established; no search of that population can therefore establish that funds did not flow to an undisclosed activity. Reasoned inference from the auditor's own definition of the weakness.",
+"sources": [
+{
+"date": "2026-05-12",
+"name": "DOWIG-2026-081",
+"url": "https://media.defense.gov/2026/May/12/2003929535/-1/-1/1/FY%202025%20DOW%20FINANCIAL%20STATEMENT%20AUDIT%20EXPLAINED_V6.PDF"
+}
+],
+"tier": "A",
+"type": "research"
+},
+{
+"claimTier": 3,
+"cls": "document",
+"dateEnd": null,
+"dateStart": "2015-09",
+"direction": "in",
+"edgeLabel": "Below-threshold and internal reprogramming are where the unsupported adjustments live",
+"id": "reprogramming-dd1415",
+"l0": false,
+"label": "Reprogramming of DoD Appropriated Funds (DoD FMR Volume 3, Chapter 6; DD Form 1415 series)",
+"note": "The FMR permits internal reprogramming on DD 1415-3 with no congressional action and below-threshold realignment with none at all; the FY2025 audit found more than $859 billion of adjustments in two quarters that could not be supported. The inference is that the undocumented volume is concentrated in the layer that generates no external record.",
+"sources": [
+{
+"date": "2015-09-01",
+"name": "DoD FMR Vol 3 Ch 6; DOWIG-2026-081",
+"url": "https://comptroller.war.gov/Portals/45/documents/fmr/current/03/03_06.pdf"
+}
+],
+"tier": "C",
+"type": "behavioral"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": "2018-10-04",
+"direction": "in",
+"edgeLabel": "Authorises modification of the same public financial reports the audit examines",
+"id": "sffas-56",
+"l0": false,
+"label": "SFFAS 56 - Classified Activities (FASAB, 4 October 2018)",
+"note": "SFFAS 56 became effective for periods beginning after 30 September 2018 - the first period after the Department's first full-scope audit - and permits amounts to be presented in a different line item without narrative explanation. Attested by the Statement and by the FY2018 Agency Financial Report.",
+"sources": [
+{
+"date": "2018-10-04",
+"name": "SFFAS 56; DoD AFR FY2018",
+"url": "https://files.fasab.gov/pdffiles/handbook_sffas_56.pdf"
+}
+],
+"tier": "B",
+"type": "programmatic"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "2018",
+"deg": 9,
+"denials": [],
+"desc": "The Department of Defense was made subject to the Chief Financial Officers Act of 1990 like every other major agency, and for twenty-seven years did not attempt a full-scope audit of its financial statements. The first one covered fiscal year 2018. Every full-scope audit from FY2018 through FY2025 - eight consecutive years - has ended in a disclaimer of opinion: the Inspector General has been unable to obtain sufficient appropriate audit evidence to express any opinion at all on whether the Department's financial statements are fairly presented. This is not a qualified opinion or an adverse opinion; it is a statement that the books cannot be audited. The FY2025 audit, reported in DOWIG-2026-081 'The FY 2025 DoW Financial Statement Audit Explained' published 12 May 2026, identified twenty-six material weaknesses across three categories - ten in management responsibility and asset accountability, six in information technology, and ten in accounting. Among the accounting weaknesses is one named 'Unsupported Accounting Adjustments', under which the report states that in the last two quarters of FY2025 the Department's adjustments totalled more than $859 billion, with contributions from the Army, Air Force, Navy and the Defense Logistics Agency across both general and working capital funds. Twenty-two reporting entities received stand-alone audits: eleven clean opinions, one qualified, nine disclaimers, and one (the Navy Working Capital Fund) no opinion under a two-year cycle. Two of the twenty-six weaknesses go directly to the question this board asks - 'Universe of Transactions', meaning the Department cannot establish the complete set of transactions falling within audit scope, and 'Fund Balance with Treasury', an account holding roughly $1 trillion that the Department cannot reconcile. An entity that cannot enumerate its own transactions cannot demonstrate the absence of any particular transaction, and that is the precise structural reason a documented audit failure is evidence in a concealment investigation rather than merely a management scandal.",
+"domains": [
+"_rs-archive-mirror",
+"w2-black-budget"
+],
+"dossier": {
+"claims": [
+{
+"source": "DoD OIG Report No. DODIG-2016-113, 26 July 2016; https://www.oversight.gov/reports/audit/army-general-fund-adjustments-not-adequately-documented-or-supported and https://apps.dtic.mil/sti/tr/pdf/AD1014354.pdf",
+"text": "DoD Inspector General Report No. DODIG-2016-113, 'Army General Fund Adjustments Not Adequately Documented or Supported,' issued 26 July 2016, found that Army and DFAS Indianapolis personnel did not adequately support $2.8 trillion in third-quarter adjustments and $6.5 trillion in year-end adjustments made to Army General Fund data during the FY2015 financial statement compilation.",
+"tier": 1
+},
+{
+"source": "GAO-25-108052, 'DOD Financial Management: Insights into the Auditability of DOD's Fiscal Year 2024 Balance Sheet,' published 18 September 2025; https://www.gao.gov/products/gao-25-108052",
+"text": "For the seventh consecutive year since DoD was required to undergo full-scope audits, DoD received a disclaimer of opinion on its FY2024 financial statement audit, meaning it could not provide auditors with sufficient, appropriate evidence to support information in its financial statements due to ineffective systems and processes.",
+"tier": 1
+},
+{
+"source": "GAO-25-108052; https://www.gao.gov/products/gao-25-108052",
+"text": "DoD reported over $4.1 trillion in assets on its balance sheet as of 30 September 2024, and that balance sheet consolidated information from 67 DoD components.",
+"tier": 1
+},
+{
+"source": "GAO-25-108052; https://www.gao.gov/products/gao-25-108052",
+"text": "In FY2024, 11 DoD components received clean audit opinions contributing $1.8 trillion of reported assets (42.8 percent) and $3.1 trillion of reported liabilities (72.2 percent), but nearly all assets attributable to clean-opinion components related to the Military Retirement Fund, while nearly all assets attributable to disclaimer components related to the Army, Navy and Air Force.",
+"tier": 1
+},
+{
+"source": "GAO-25-108052; https://www.gao.gov/products/gao-25-108052",
+"text": "In FY2024 the DoD Office of Inspector General identified 28 DoD-wide material weaknesses; GAO's analysis showed several directly affected $2.1 trillion (50.3 percent) of DoD's reported assets and $146.9 billion (3.4 percent) of its reported liabilities, and GAO warned that pervasive material weaknesses may affect all balance sheet data.",
+"tier": 1
+},
+{
+"source": "GAO-25-108052; https://www.gao.gov/products/gao-25-108052",
+"text": "DoD remains the only major federal agency that has never received a clean (unmodified) audit opinion on its financial statements.",
+"tier": 1
+},
+{
+"source": "GAO-25-108052; https://www.gao.gov/products/gao-25-108052 (CRS identifies the provision as Section 1005: https://www.congress.gov/crs-product/IF12627)",
+"text": "The National Defense Authorization Act for Fiscal Year 2024 requires DoD to receive an unmodified (clean) audit opinion by 31 December 2028.",
+"tier": 1
+},
+{
+"source": "DoD OIG Report No. DODIG-2026-032; https://www.dodig.mil/reports.html/Article/4365178/independent-auditors-reports-on-the-dod-fy-2025-financial-statements/ and https://media.defense.gov/2025/Dec/19/2003847587/-1/-1/1/DODIG-2026-032.PDF",
+"text": "The DoD Office of Inspector General issued Report No. DODIG-2026-032, 'Independent Auditor's Reports on the DoD FY 2025 Financial Statements,' covering the eighth annual department-wide audit and comprising three separate reports on the financial statements, internal control over financial reporting, and compliance with applicable laws and regulations.",
+"tier": 1
+},
+{
+"source": "Congressional Research Service, 'Defense Primer: FY2025 Department of Defense Audit Results,' IF12627; https://www.congress.gov/crs-product/IF12627",
+"text": "For FY2025 DoD received a disclaimer of opinion for the eighth consecutive time, on approximately $4.65 trillion in reported assets and approximately $4.73 trillion in reported liabilities; results were released on 18 December 2025.",
+"tier": 2
+},
+{
+"source": "Congressional Research Service, 'Defense Primer: FY2024 Department of Defense Audit Results,' IF12627, updated 25 November 2024; https://www.everycrsreport.com/reports/IF12627.html",
+"text": "For FY2024, entities receiving disclaimers of opinion accounted for 44 percent of DoD's total assets and at least 68 percent of DoD's total budgetary resources.",
+"tier": 2
+},
+{
+"source": "Congressional Research Service, IF12627, updated 25 November 2024; https://www.everycrsreport.com/reports/IF12627.html",
+"text": "DoD's FY2024 audit extended the target date for corrective action on the DoD-wide material weakness in financial management systems modernization from FY2028 to FY2031, past the statutory deadline for a clean opinion.",
+"tier": 2
+},
+{
+"source": "Scot J. Paltrow, Reuters Special Report, 'Behind the Pentagon's doctored ledgers, a running tally of epic waste,' 18 November 2013 (Reuters series 'Unaccountable: The High Cost of the Pentagon's Bad Bookkeeping')",
+"text": "A December 2011 Pentagon Inspector General report found that a single Defense Finance and Accounting Service office in Columbus, Ohio made at least $1.59 trillion in errors, including $538 billion in 'plugs,' in fiscal year 2009 financial reports for the Air Force; Reuters reported that at DFAS offices handling the Army, Navy, Air Force and other defense agencies, fudging the accounts with false entries is standard operating procedure.",
+"tier": 2
+},
+{
+"source": "https://www.oversight.gov/reports/audit/army-general-fund-adjustments-not-adequately-documented-or-supported (DODIG-2016-113 report summary)",
+"text": "Journal vouchers are summary-level accounting adjustments made when balances between systems cannot be reconciled; unsupported journal vouchers lack documentation justifying the adjustment or cannot be tied to specific accounting transactions, and auditors treat them as a red flag that transactions are not being captured, reported or summarized correctly.",
+"tier": 2
+},
+{
+"source": "https://oversight.house.gov/release/after-dod-fails-its-seventh-financial-audit-sessions-seeks-gao-to-address-waste-fraud-and-abuse",
+"text": "Following DoD's seventh consecutive audit failure, the House Committee on Oversight and Government Reform publicly sought GAO engagement to address waste, fraud and abuse at DoD.",
+"tier": 2
+},
+{
+"source": "GAO High-Risk List, DOD Financial Management area; designation history not yet verified against a GAO-published source",
+"text": "Next research step: pull the GAO High-Risk List entry for DOD Financial Management, establish the year of original designation and every biennial reassessment, and map which specific material weaknesses have persisted unbroken across the entire designation period.",
+"tier": 3
+},
+{
+"source": "DoD OIG annual audit report series (DODIG-2016-113 through DODIG-2026-032); no scope-limitation disclosure located in this research pass",
+"text": "Next research step: determine how Special Access Program and waived SAP obligations are represented on the audited balance sheet, whether auditors have ever recorded a classification-based scope limitation, and whether any component audit report discloses records the auditors were not cleared to see.",
+"tier": 3
+}
+],
+"connections": [
+"Defense Finance and Accounting Service (DFAS) Indianapolis and DFAS Columbus are the named operational sites where unsupported adjustments are made; they are the specific offices any funding-trace inquiry has to reach.",
+"The Army General Fund carries the documented $6.5 trillion unsupported year-end adjustment, and the Army is also the service that executed CRADA 19-15 with To The Stars Academy (ttsa-army-crada) - the same service is simultaneously the least auditable and a documented technology-transfer counterparty on anomalous material.",
+"GAO Director Asif A. Khan, Financial Management and Assurance, is the named GAO contact on GAO-25-108052 and the obvious entry point for questions about which components are unauditable and why.",
+"Section 1005 of the FY2024 NDAA and Section 1683 of the FY2022 NDAA are the two statutory levers Congress has actually pulled: one forces financial legibility by 2028, the other forced creation of AARO in 2022. They are the paired oversight instruments.",
+"STAR GATE (stargate-program) cost roughly $20 million across two decades, an amount that would vanish entirely inside a single quarterly journal-voucher adjustment, illustrating the scale mismatch between a real black program and the audit noise floor.",
+"The Military Retirement Fund is the anomaly worth exploiting analytically: it is the one enormous DoD balance that is auditable, establishing that auditability is achievable when an account has no operational spending attached.",
+"Congressional Research Service product IF12627 is the standing annual summary of audit results and the cheapest way to track the disclaimer streak year over year.",
+"The ODNI 2021 assessment (odni-preliminary-assessment-2021) recommends 'additional investment' and a 'UAP Program Plan' without identifying a funding source; this audit record is the environment in which any such line would be created and could not be traced."
+],
+"denialPosture": "DoD does not deny the audit failures; it reframes them as a modernization timeline. The department's public posture is that disclaimers reflect systems and process immaturity rather than any inability to account for money, and that a clean opinion is achievable by the statutory 2028 deadline, while it simultaneously slipped its own financial-systems modernization remediation target from FY2028 to FY2031.",
+"narrative": "Start with the number that made the pattern famous. DoD Inspector General Report No. DODIG-2016-113, 'Army General Fund Adjustments Not Adequately Documented or Supported,' issued 26 July 2016, found that Army and Defense Finance and Accounting Service Indianapolis personnel did not adequately support $2.8 trillion in third-quarter adjustments and $6.5 trillion in year-end adjustments made to Army General Fund data during the fiscal year 2015 financial statement compilation. The Army's entire enacted budget that year was on the order of $120 billion. The unsupported year-end adjustments were therefore roughly fifty-four times the money Congress actually authorized the Army to spend.\n\nThe mechanism deserves precision, because the scale invites dismissal. A journal voucher is a summary-level accounting entry made when balances between two systems will not reconcile. It is legitimate when it is documented and tied to identifiable transactions. It is what auditors call a plug when it is not. DoD's feeder systems for procurement, logistics, personnel and property were never built to talk to its accounting systems, so at each reporting cycle the difference is closed by hand. The Inspector General's finding was not that the Army stole $6.5 trillion. It was that the Army could not demonstrate what the adjustments represented. From an audit standpoint those are functionally identical: unsupported entries at that magnitude mean the books cannot be used to detect anything, including diversion.\n\nThis was not new in 2016. Reuters correspondent Scot J. Paltrow's 2013 investigative series 'Unaccountable: The High Cost of the Pentagon's Bad Bookkeeping,' culminating in a special report published 18 November 2013, documented that fabricating entries to force agreement was standard operating procedure at DFAS offices handling the Army, Navy, Air Force and other defense agencies, and cited a December 2011 Pentagon Inspector General report finding that a single DFAS office in Columbus, Ohio had made at least $1.59 trillion in errors, including $538 billion in plugs, in fiscal year 2009 Air Force financial reports.\n\nThe modern audit era begins with fiscal year 2018, the first full-scope department-wide audit. It has failed every year since. For fiscal year 2024, GAO reported that DoD received a disclaimer of opinion for the seventh consecutive year, meaning DoD could not provide auditors sufficient, appropriate evidence to support the information in its financial statements, owing to ineffective systems and processes. DoD reported over $4.1 trillion in assets on its balance sheet as of 30 September 2024. That balance sheet consolidated information from sixty-seven separate DoD components. Eleven components received clean opinions, contributing $1.8 trillion of reported assets, 42.8 percent, and $3.1 trillion of reported liabilities, 72.2 percent. But GAO added the detail that guts the headline: nearly all of the assets attributable to clean-opinion components related to the Military Retirement Fund, a pension trust, while nearly all assets attributable to disclaimer components related to the Army, Navy and Air Force. The parts of DoD that can be audited are the parts that do not buy anything.\n\nThe DoD Office of Inspector General identified twenty-eight department-wide material weaknesses for fiscal year 2024. GAO's own analysis found that several of those DoD-wide material weaknesses directly affected $2.1 trillion of DoD's reported assets, 50.3 percent, and $146.9 billion of reported liabilities, 3.4 percent, and cautioned that pervasive material weaknesses may affect all balance sheet data. Congressional Research Service analysis of the FY2024 results adds that entities receiving disclaimers accounted for 44 percent of DoD's total assets and at least 68 percent of its total budgetary resources, and that DoD extended the target date for correcting its department-wide financial management systems modernization material weakness from FY2028 to FY2031, a slippage past the statutory audit deadline itself.\n\nThat deadline is the newest and most useful fact for the board. The National Defense Authorization Act for Fiscal Year 2024 requires DoD to receive an unmodified audit opinion by 31 December 2028; CRS identifies the provision as Section 1005. GAO states the requirement flatly in GAO-25-108052. The department has therefore been given a legal obligation to become legible on a specific date, while simultaneously moving its own systems-modernization fix three years past that date.\n\nThe fiscal year 2025 cycle continued the pattern. The DoD Office of Inspector General issued Report No. DODIG-2026-032, 'Independent Auditor's Reports on the DoD FY 2025 Financial Statements,' comprising three separate audit reports addressing the financial statements, internal control over financial reporting, and compliance with laws and regulations. DoD received a disclaimer of opinion for the eighth consecutive time, on reported assets of approximately $4.65 trillion and reported liabilities of approximately $4.73 trillion, with results released 18 December 2025. After the seventh failure, the House Committee on Oversight and Government Reform publicly sought GAO engagement on waste, fraud and abuse at DoD.\n\nWhat this means for the legacy-program argument is narrow and strong. It does not prove that money was diverted. It proves that DoD's accounting environment cannot rule out diversion at any scale below the noise floor, and that the noise floor is measured in trillions. Every other funding hypothesis on the board, whether contractor-held Independent Research and Development recovery, unacknowledged Special Access Programs, waived SAPs briefed only to a handful of members, or overhead absorption on classified contracts, sits downstream of one structural fact: the Department of Defense's books do not close, have never closed, and the entries that make them appear to close are, by the Inspector General's own finding, undocumented. Set beside STAR GATE, which consumed roughly $20 million across two decades, the scale mismatch is the whole argument. A real, funded, denied program of that size would not register as a rounding error in a single quarterly journal voucher.",
+"openQuestions": [
+"Do unsupported journal vouchers at DFAS net to zero across the department, or is there a residual, and has any auditor ever attempted to compute it?",
+"How are Special Access Program and waived SAP obligations represented on the audited balance sheet, and are they carried at component level or aggregated in a way that defeats reconciliation?",
+"Which of the 28 FY2024 DoD-wide material weaknesses, if any, specifically implicate classified or restricted-access accounting environments auditors cannot enter?",
+"Have auditors ever been denied access to records on classification grounds during a DoD financial statement audit, and is that denial documented as a scope limitation anywhere?",
+"What is the disposition of contractor-held Independent Research and Development recovery on classified contracts, and does it appear anywhere in the audited statements?",
+"Does slipping the FM systems modernization target from FY2028 to FY2031 constitute a knowing statement that the Section 1005 deadline will not be met, and has any committee put that question on the record?",
+"Which specific components make up the 44 percent of assets and 68 percent of budgetary resources sitting under disclaimers, and what do those components buy?"
+],
+"roles": [
+"funding",
+"concealment",
+"oversight"
+],
+"whatItIs": "The Department of Defense's annual department-wide financial statement audit, first performed for fiscal year 2018 and repeated every year since, coordinated by the DoD Office of Inspector General across dozens of component audits. It has never produced a clean opinion. DoD is the only major federal agency that has never received an unmodified audit opinion on its financial statements, and its balance sheet is assembled through summary-level accounting adjustments, journal vouchers, that auditors have repeatedly found to be unsupported by documentation traceable to actual transactions.",
+"whyImplicated": "This is the financial-concealment thread and it requires no exotic assumption. If a department cannot demonstrate where more than four trillion dollars in reported assets sits, cannot reconcile its subsidiary systems to its general ledger, and closes the gap each quarter with trillions of dollars in undocumented journal vouchers, then the accounting system itself functions as a laundering mechanism whether or not anyone designed it that way. Money moved into an unacknowledged program does not need a fake line item; it needs only to enter an environment where the difference between the books and reality is routinely papered over at a scale that dwarfs the transaction. The DoD Inspector General documented $6.5 trillion in unsupported year-end adjustments and $2.8 trillion in unsupported third-quarter adjustments to the Army General Fund in a single fiscal year against an Army budget of roughly $120 billion. GAO has found that identified material weaknesses directly affect over half of DoD's reported assets. The audit failure is therefore not merely a governance embarrassment; it is the enabling condition for any funding stream the board alleges. It also functions as an oversight artifact with a deadline: Congress has now set a statutory requirement for a clean opinion by 31 December 2028, which for the first time gives concealment a dated, enforceable test to fail."
+},
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": 8,
+"id": "dod-agencywide-audit",
+"l0": true,
+"label": "DoD Agency-Wide Financial Statement Audit (FY2018-present)",
+"locLabel": null,
+"members": [
+{
+"cls": "person",
+"id": "brett-mansfield",
+"label": "Brett A. Mansfield",
+"tier": "B"
+},
+{
+"cls": "domain",
+"id": "d-funding",
+"label": "Funding Channels",
+"tier": "A"
+},
+{
+"cls": "person",
+"id": "david-norquist",
+"label": "David L. Norquist",
+"tier": "C"
+},
+{
+"cls": "institution",
+"id": "dodig",
+"label": "Office of Inspector General, Department of Defense / Department of War",
+"tier": "C"
+},
+{
+"cls": "document",
+"id": "dowig-2026-081",
+"label": "DOWIG-2026-081 - The FY 2025 DoW Financial Statement Audit Explained",
+"tier": "C"
+},
+{
+"cls": "program",
+"id": "gao-high-risk-dod-fm",
+"label": "GAO High-Risk List: DOD Financial Management",
+"tier": "C"
+},
+{
+"cls": "document",
+"id": "reprogramming-dd1415",
+"label": "Reprogramming of DoD Appropriated Funds (DoD FMR Volume 3, Chapter 6; DD Form 1415 series)",
+"tier": "C"
+},
+{
+"cls": "document",
+"id": "sffas-56",
+"label": "SFFAS 56 - Classified Activities (FASAB, 4 October 2018)",
+"tier": "B"
+}
+],
+"short": "DoD Agency-Wide Audit",
+"sources": [
+{
+"date": "2026-05-12",
+"name": "Archived: DOWIG-2026-081, The FY 2025 DoW Financial Statement Audit Explained (Wayback 2026-05-12)",
+"url": "https://web.archive.org/web/20260512215310/https://media.defense.gov/2026/May/12/2003929535/-1/-1/1/FY%202025%20DOW%20FINANCIAL%20STATEMENT%20AUDIT%20EXPLAINED_V6.PDF"
+},
+{
+"date": "2026-06-08",
+"name": "Archived: DoD OIG report page, DOWIG-2026-081 (Wayback 2026-06-08)",
+"url": "https://web.archive.org/web/20260608231759/https://www.dodig.mil/reports.html/Article/4484312/the-fy-2025-dow-financial-statement-audit-explained-report-no-dowig-2026-081/"
+},
+{
+"date": "2026-05-21",
+"name": "Archived: DoD Agency Financial Report FY2025 (Wayback 2026-05-21)",
+"url": "https://web.archive.org/web/20260521071347/https://comptroller.war.gov/odcfo/afr2025.aspx"
+},
+{
+"date": "2026-05-12",
+"name": "DOWIG-2026-081, The FY 2025 DoW Financial Statement Audit Explained",
+"url": "https://media.defense.gov/2026/May/12/2003929535/-1/-1/1/FY%202025%20DOW%20FINANCIAL%20STATEMENT%20AUDIT%20EXPLAINED_V6.PDF"
+},
+{
+"date": "2026-05-12",
+"name": "DoD OIG report page, DOWIG-2026-081",
+"url": "https://www.dodig.mil/reports.html/Article/4484312/the-fy-2025-dow-financial-statement-audit-explained-report-no-dowig-2026-081/"
+},
+{
+"date": "2026-08-12",
+"name": "DoD Agency Financial Report FY2025",
+"url": "https://comptroller.war.gov/odcfo/afr2025.aspx"
+}
+],
+"sub": "Annual full-scope audit required by the CFO Act; disclaimer of opinion every year since inception",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 218 of 1027, score 42). 9 connections, 3 of them custody/witness/funding/programmatic. Axes C0/A1/D3.",
+"timeline": []
+}

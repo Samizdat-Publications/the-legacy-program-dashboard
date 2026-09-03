@@ -1,0 +1,160 @@
+{
+"A": 3,
+"C": 1,
+"D": 3,
+"band": null,
+"claims": [
+{
+"source": "EarthSky, 10 August 2026, quoting the document released in PURSUE Release 05",
+"text": "A 1953 Navy Photographic Interpretation Center analysis of the 1950 Montana and 1952 Utah films assessed the Utah objects, after over 1,000 hours of analysis, as 'bright, silvery reflective disks' that were 'self-luminous, intelligently controlled' and inconsistent with 'natural phenomena or commonly known aerospace technologies.'",
+"tier": 2
+},
+{
+"source": "war.gov/UFO release index; EarthSky, 10 August 2026 — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
+"text": "The document was released on 7 August 2026 in PURSUE Release 05 at war.gov/UFO.",
+"tier": 2
+},
+{
+"source": "Inference from the released 1953 Navy PIC assessment against the documented Robertson Panel recommendations on the Great Falls and Tremonton films",
+"text": "The Navy PIC finding and the Robertson Panel's January 1953 disposition of the same films are irreconcilable, and the panel's recommendation prevailed as policy for seventy-three years while the Navy's affirmative finding stayed unpublished.",
+"tier": 3
+}
+],
+"cls": "document",
+"cluster": "other",
+"connections": [
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": "2026-08-07",
+"direction": "in",
+"edgeLabel": "published as DOW-UAP-D098",
+"id": "pursue-r05-identifiers",
+"l0": false,
+"label": "PURSUE Release 05 file identifiers (7 August 2026)",
+"note": "The 1953 analysis of the Montana and Utah film cases carries the identifier DOW-UAP-D098 in the fifth tranche.",
+"sources": [
+{
+"date": "2026-08-07",
+"name": "EarthSky, PURSUE batch 5",
+"url": "https://earthsky.org/human-world/pentagon-uap-files-batch-5-ufos-orbs-triangles/"
+}
+],
+"tier": "B",
+"type": "custody"
+},
+{
+"claimTier": 2,
+"cls": "event",
+"dateEnd": "2026",
+"dateStart": "2026",
+"direction": "in",
+"edgeLabel": "Released the 1953 Navy photo-interpretation finding",
+"id": "pursue-release-05",
+"l0": false,
+"label": "PURSUE Release 05",
+"note": "The Navy Photographic Interpretation Center's assessment that the Tremonton objects were self-luminous and intelligently controlled surfaced publicly for the first time in this tranche.",
+"sources": [
+{
+"date": "2026-08-10",
+"name": "EarthSky - 5th batch of Pentagon UAP files: orbs and triangles",
+"url": "https://earthsky.org/human-world/pentagon-uap-files-batch-5-ufos-orbs-triangles/"
+},
+{
+"date": "2026-08-07",
+"name": "Department of War - PURSUE portal (war.gov/UFO)",
+"url": "https://www.war.gov/UFO/"
+}
+],
+"tier": "A",
+"type": "custody"
+},
+{
+"claimTier": 3,
+"cls": "program",
+"dateEnd": null,
+"dateStart": "1953",
+"direction": "out",
+"edgeLabel": "Contradicts the panel's 1953 disposition of the same films",
+"id": "robertson-panel",
+"l0": true,
+"label": "Robertson Panel",
+"note": "The Navy's own analysts assessed the Great Falls and Tremonton objects as intelligently controlled and not known technology in the same year the Robertson Panel recommended stripping the subject of special status.",
+"sources": [
+{
+"date": "2026-08-10",
+"name": "EarthSky - 5th batch of Pentagon UAP files: orbs and triangles",
+"url": "https://earthsky.org/human-world/pentagon-uap-files-batch-5-ufos-orbs-triangles/"
+},
+{
+"date": "2026-08-12",
+"name": "CIA FOIA Reading Room - UFOs: Fact or Fiction? collection",
+"url": "https://www.cia.gov/readingroom/collection/ufos-fact-or-fiction"
+}
+],
+"tier": "A",
+"type": "investigative"
+}
+],
+"coords": null,
+"dateEnd": "2026",
+"dateStart": "1953",
+"deg": 3,
+"denials": [],
+"desc": "The most consequential historical document in the PURSUE corpus. Released on 7 August 2026 in Release 05, it is a 1953 US Navy Photographic Interpretation Center analysis of the 1950 Great Falls, Montana and 1952 Tremonton, Utah films. The Utah footage was analysed over more than a thousand hours, frame by frame, and the objects assessed as bright, silvery reflective disks that were self-luminous and intelligently controlled and inconsistent with natural phenomena or commonly known aerospace technologies. That is an affirmative technical finding by a US Navy analytic unit on physical film evidence, and it was made in 1953 - the same year the CIA's Robertson Panel reviewed the same films and reached the opposite disposition, recommending that the subject be stripped of its special status and the public debunked. The Navy's own analysts said the objects were intelligently controlled and not known technology; the panel that set policy said the subject was a distraction. The document sat unpublished for seventy-three years and was released by the Department of War with, per departmental policy, no comment or assessment attached.",
+"domains": [
+"_rs-archive-mirror",
+"releases-2023-2026"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "navy-pic-1953-film-analysis",
+"l0": false,
+"label": "1953 Navy Photographic Interpretation Center analysis of the Great Falls and Tremonton films",
+"locLabel": null,
+"members": null,
+"short": "1953 Navy Photographic Interpretation Center analysis of the Great Falls and Tremonton films",
+"sources": [
+{
+"date": "2026-08-10",
+"name": "Archived: Department of War - PURSUE portal (war.gov/UFO) (Wayback 2026-08-10)",
+"url": "https://web.archive.org/web/20260810202017/https://www.war.gov/UFO/"
+},
+{
+"date": "2026-08-10",
+"name": "EarthSky - 5th batch of Pentagon UAP files: orbs and triangles",
+"url": "https://earthsky.org/human-world/pentagon-uap-files-batch-5-ufos-orbs-triangles/"
+},
+{
+"date": "2026-08-07",
+"name": "Department of War - PURSUE portal (war.gov/UFO)",
+"url": "https://www.war.gov/UFO/"
+},
+{
+"date": "2026-08-12",
+"name": "CIA FOIA Reading Room - UFOs: Fact or Fiction? collection",
+"url": "https://www.cia.gov/readingroom/collection/ufos-fact-or-fiction"
+}
+],
+"sub": "Released in PURSUE Release 05, 7 August 2026",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 383 of 1027, score 33). 3 connections, 2 of them custody/witness/funding/programmatic. Axes C1/A3/D3.",
+"timeline": [
+{
+"date": "2026-08-07",
+"id": "rel-2026-08-07b",
+"label": "The Navy's 1953 finding surfaces",
+"precision": "day",
+"strand": "program",
+"text": "A Navy Photographic Interpretation Center analysis assessing the Tremonton objects as self-luminous and intelligently controlled, inconsistent with known aerospace technologies, is published for the first time in seventy-three years.",
+"tier": "A"
+}
+]
+}

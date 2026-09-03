@@ -1,0 +1,146 @@
+{
+"A": 1,
+"C": 0,
+"D": 3,
+"affiliations": [
+"US House of Representatives, MI-05 (1949-1973)",
+"House Minority Leader (1965-1973)",
+"President of the United States (1974-1977)"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "1966-03-20",
+"event": "Mass sightings reported near Dexter and Hillsdale, Michigan",
+"precision": "day"
+},
+{
+"date": "1966-03-25",
+"event": "Hynek's Detroit press conference offers the swamp gas hypothesis",
+"precision": "day"
+},
+{
+"date": "1966-03-28",
+"event": "Ford calls for congressional hearings on unidentified flying objects",
+"precision": "day"
+},
+{
+"date": "1966-04-05",
+"event": "House Armed Services Committee holds a hearing on unidentified flying objects",
+"precision": "day"
+},
+{
+"date": "1966-10-06",
+"event": "Air Force contracts the University of Colorado study",
+"precision": "day"
+}
+],
+"claims": [
+{
+"source": "Contemporaneous press reporting, March 1966; recounted in the Condon Report's account of the origins of the Colorado project",
+"text": "Ford, then House Minority Leader, called in late March 1966 for congressional hearings on unidentified flying objects following the Michigan sightings and the swamp gas explanation.",
+"tier": 2
+},
+{
+"source": "US House Committee on Armed Services, 'Unidentified Flying Objects', Hearing No. 55, 89th Congress, 5 April 1966",
+"text": "The House Committee on Armed Services held a hearing on unidentified flying objects on 5 April 1966 (Hearing No. 55, 89th Congress).",
+"tier": 2
+},
+{
+"source": "'Scientific Study of Unidentified Flying Objects', contract 44620-67-C-0035, University of Colorado, 1968",
+"text": "The Air Force established the University of Colorado study under contract in October 1966, six months after the hearing.",
+"tier": 1
+},
+{
+"source": "Inference from the documented sequence April-October 1966 and the 17 December 1969 termination",
+"text": "The 1966 congressional pressure produced a contracted study rather than an inquiry, and that study became the instrument of termination — the same substitution pattern later seen with the Robertson Panel and with AARO.",
+"tier": 3
+}
+],
+"cls": "person",
+"cluster": "other",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 2,
+"cls": "event",
+"dateEnd": "1966",
+"dateStart": "1966",
+"direction": "out",
+"edgeLabel": "Ford forced the first congressional hearing on the subject",
+"id": "hearing-1966-04-05",
+"l0": false,
+"label": "House Armed Services Committee UFO Hearing",
+"note": "The House Minority Leader wrote to committee chairmen in late March 1966; the House Armed Services Committee held its one-day hearing on 5 April 1966, nineteen years into official investigation.",
+"sources": [
+{
+"date": "1968-11-01",
+"name": "Scientific Study of Unidentified Flying Objects (Condon Report)",
+"url": "https://files.ncas.org/condon/"
+},
+{
+"date": "2026-08-12",
+"name": "USAF Fact Sheet: Project Blue Book",
+"url": "https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/"
+}
+],
+"tier": "C",
+"type": "legislative"
+}
+],
+"date": "1966-03-28",
+"dateEnd": null,
+"dateStart": "1966-03-28",
+"deg": 1,
+"denials": [],
+"domains": [
+"_rs-archive-mirror",
+"history-1940s-1960s"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "gerald-ford",
+"instId": "oversight-congress",
+"l0": false,
+"label": "Gerald R. Ford",
+"loc": "Grand Rapids, MI",
+"locId": "l-dc",
+"members": null,
+"narrative": "Gerald Ford was House Minority Leader and the congressman for Grand Rapids when hundreds of Michigan residents reported objects near Dexter and Hillsdale in March 1966 and the Air Force's consultant offered swamp gas as an explanation. Ford's constituents were furious, and he wrote to the chairmen of the House Armed Services and Science and Astronautics committees demanding hearings, saying he believed the American people were entitled to a better explanation than had been given. The House Armed Services Committee held a one-day hearing on 5 April 1966 — the first congressional hearing on the subject in nineteen years of official investigation. Its practical output was not disclosure but the Condon Committee: the Air Force, pressed by Congress, contracted the University of Colorado study six months later, which then furnished the justification for shutting the whole program down. Ford's intervention is the template for what happens when this subject reaches Congress in the legacy era — pressure produces a study, and the study produces closure. He never returned to the subject as President.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Gerald R. Ford",
+"sources": [
+{
+"date": "2026-07-06",
+"name": "Archived: USAF Fact Sheet: Project Blue Book (Wayback 2026-07-06)",
+"url": "https://web.archive.org/web/20260706210652/https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/"
+},
+{
+"date": "1968-11-01",
+"name": "Scientific Study of Unidentified Flying Objects (the Condon Report), full text",
+"url": "https://files.ncas.org/condon/"
+},
+{
+"date": "2026-08-12",
+"name": "USAF Fact Sheet: Project Blue Book",
+"url": "https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/"
+}
+],
+"status": "active",
+"sub": "House Minority Leader; later 38th President",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 793 of 1027, score 18). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D3.",
+"timeline": [],
+"unexplainedResidual": null,
+"unverified": [
+"The text of Ford's March 1966 letters to committee chairmen was not retrieved from a primary archive for this entry"
+]
+}

@@ -1,0 +1,175 @@
+{
+"A": 2,
+"C": 0,
+"D": 2,
+"band": null,
+"claims": [
+{
+"source": "CIA Office of Scientific Intelligence memoranda, September-October 1952",
+"text": "CIA recorded that during July 1952 alone official reports of unidentified aerial phenomena totalled 250.",
+"tier": 1
+},
+{
+"source": "Chadwell memorandum to the Director of Central Intelligence, 'Flying Saucers', 11 September 1952",
+"text": "Chadwell wrote to the DCI that 'the flying saucer situation contains two elements of danger which... have national security implications', identifying psychological warfare potential and air defence vulnerability.",
+"tier": 1
+},
+{
+"source": "CIA Office of Scientific Intelligence memoranda, 1952; Haines, CIA Studies in Intelligence 1997",
+"text": "CIA officials proposed a study group to analyse and systematise the factors and recommended MIT's Project Lincoln or Caltech as venues, leading to the January 1953 Robertson Panel.",
+"tier": 1
+},
+{
+"source": "Project Blue Book case files, NARA RG 341; NICAP document archive files 1952_07_19_US_DC_Radar_968_970.pdf and 1952_07_19_US_DC_radar_965_966.pdf",
+"text": "Blue Book case documentation for the 19 July 1952 Washington radar events survives in the declassified record.",
+"tier": 1
+}
+],
+"cls": "event",
+"cluster": "legacy",
+"connections": [
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "1952",
+"dateStart": "1952",
+"direction": "out",
+"edgeLabel": "The flap put the CIA's science directorate onto the problem",
+"id": "h-marshall-chadwell",
+"l0": false,
+"label": "H. Marshall Chadwell",
+"note": "Within weeks of the July 1952 sightings Chadwell was writing to the DCI that reports totalled 250 in July alone and that the situation carried national security implications.",
+"sources": [
+{
+"date": "1952-09-11",
+"name": "CUFON 1952 CIA document sampler",
+"url": "http://www.cufon.org/cufon/cia-52-1.htm"
+}
+],
+"tier": "B",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "1997",
+"dateStart": "1997",
+"direction": "in",
+"edgeLabel": "CIA history confirms the 1952 flap drove Agency intervention",
+"id": "haines-cia-history",
+"l0": false,
+"label": "A Die-hard Issue: CIA's Role in the Study of UFOs, 1947-1990",
+"note": "Haines records the escalation from the summer 1952 sightings through Chadwell's memoranda to the January 1953 panel.",
+"sources": [
+{
+"date": "1997-01-01",
+"name": "Haines, CIA's Role in the Study of UFOs, 1947-1990",
+"url": "https://www.cia.gov/resources/csi/studies-in-intelligence/studies-in-intelligence-1997/cias-role-in-the-study-of-ufos-1947-1990/"
+}
+],
+"tier": "A",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": "1952",
+"dateStart": "1952",
+"direction": "out",
+"edgeLabel": "The flap occurred during Ruppelt's tenure and drove the record volume",
+"id": "project-blue-book",
+"l0": true,
+"label": "Project Blue Book",
+"note": "Blue Book case documentation for the 19 July 1952 Washington radar events survives; 1952 produced the largest single-year report volume of the program's history.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "NICAP document archive index",
+"url": "https://www.nicap.org/docs/"
+},
+{
+"date": "2026-08-12",
+"name": "NARA — Project Blue Book records",
+"url": "https://www.archives.gov/research/military/air-force/ufos"
+}
+],
+"tier": "A",
+"type": "temporal"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "1952-08-20",
+"dateStart": "1952-08-20",
+"direction": "in",
+"edgeLabel": "His 20 August 1952 instruction follows the summer 1952 reporting wave",
+"id": "walter-bedell-smith",
+"l0": false,
+"label": "Walter Bedell Smith",
+"note": "The DCI's direction to prepare an NSC intelligence directive is dated 20 August 1952 in Chadwell's own account, weeks after the Washington sightings, and Chadwell's October study rests on the reporting volume of that summer.",
+"sources": [
+{
+"date": "1952-12-02",
+"name": "CIA document C00015340, para. 1",
+"url": "https://archive.org/details/cia-readingroom-document-0005515935"
+}
+],
+"tier": "B",
+"type": "temporal"
+}
+],
+"coords": null,
+"dateEnd": "1952",
+"dateStart": "1952",
+"deg": 4,
+"denials": [],
+"desc": "On consecutive weekends in July 1952 unidentified targets were tracked on radar at Washington National Airport, at Andrews Air Force Base and by the Air Route Traffic Control Center, with visual corroboration from airline crews and interceptors scrambled from Newcastle. It was the largest concentration of radar-visual events in American airspace over the seat of government, it ran on the front pages for weeks, and it produced the largest Air Force press conference since the Second World War, at which the events were attributed to temperature inversion. The flap is the pivot of the legacy era for one reason: it moved the problem from the Air Force to the intelligence community. Within eight weeks H. Marshall Chadwell of the CIA Office of Scientific Intelligence was writing to the Director of Central Intelligence that official reports had totalled 250 in July 1952 alone and that the situation contained 'two elements of danger which... have national security implications' — the danger being psychological warfare exposure and the saturation of air defence channels, not the objects. Six months later the Robertson Panel met. Everything that follows in the American handling of this subject descends from the government's decision, in the autumn of 1952, that the reporting was the threat.",
+"domains": [
+"history-1940s-1960s"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "washington-flap-1952",
+"l0": false,
+"label": "1952 Washington DC Sightings",
+"locLabel": null,
+"members": null,
+"short": "1952 Washington DC Sightings",
+"sources": [
+{
+"date": "1952-09-11",
+"name": "CUFON 1952 CIA UFO-related document sampler (Chadwell memoranda)",
+"url": "http://www.cufon.org/cufon/cia-52-1.htm"
+},
+{
+"date": "1997-01-01",
+"name": "Haines, CIA's Role in the Study of UFOs, 1947-1990 (CIA)",
+"url": "https://www.cia.gov/resources/csi/studies-in-intelligence/studies-in-intelligence-1997/cias-role-in-the-study-of-ufos-1947-1990/"
+},
+{
+"date": "2026-08-12",
+"name": "NICAP document archive index",
+"url": "https://www.nicap.org/docs/"
+}
+],
+"sub": "Radar-visual events over the capital, 19-20 and 26-27 July 1952",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 590 of 1027, score 26). 4 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A2/D2.",
+"timeline": [
+{
+"date": "1952-07-19",
+"id": "tl-1952-07-19",
+"label": "Washington DC radar-visual sightings",
+"precision": "day",
+"strand": "witness",
+"text": "Unidentified targets are tracked at Washington National, Andrews AFB and the ARTCC over consecutive July weekends, with visual corroboration and scrambled interceptors.",
+"tier": "A"
+}
+]
+}

@@ -1,0 +1,92 @@
+{
+"A": 2,
+"C": 1,
+"D": 3,
+"band": null,
+"claims": [
+{
+"source": "UAP Digest, 28 January 2026, updated 6 March 2026, citing the publisher",
+"text": "Scheduled for HarperCollins publication on 27 August 2026; publisher description promises 'previously undisclosed evidence'.",
+"tier": 2
+},
+{
+"source": "UAP Digest, 2026",
+"text": "Elizondo announced a 20-date speaking tour ahead of the release.",
+"tier": 2
+}
+],
+"cls": "document",
+"cluster": "witness",
+"connections": [
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "2026",
+"direction": "in",
+"edgeLabel": "Second book scheduled 27 August 2026",
+"id": "luis-elizondo",
+"l0": false,
+"label": "Luis D. Elizondo",
+"note": "HarperCollins promises 'previously undisclosed evidence'. Whether it went through DOPSR, and what was struck, is not yet public.",
+"sources": [
+{
+"date": "2026-01-28",
+"name": "UAP Digest",
+"url": "https://www.uapdigest.com/luis-elizondos-new-book-reckoning-promises-undisclosed-evidence-on-ufos/"
+}
+],
+"tier": "A",
+"type": "witness-chain"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "2026",
+"deg": 1,
+"denials": [],
+"desc": "Elizondo's second book, scheduled for publication by HarperCollins on 27 August 2026 — a fortnight after the current date of this board. The publisher's description says it draws on 'previously undisclosed evidence, global history and groundbreaking science' and argues that the phenomenon touches 'technology, security, faith and the very identity of humankind', with the assertion that 'UAPs are real, the evidence is undeniable, and our future depends on how we respond.' Reporting characterises it as abandoning the hedged register of Imminent. Elizondo has announced a twenty-date speaking tour around the release. The open question for this board is whether it too went through DOPSR and what, if anything, was struck; nothing on that point is yet public.",
+"domains": [
+"elizondo-ttsa"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "reckoning-book",
+"l0": false,
+"label": "Reckoning: The Unspoken Truth about UFOs and the Urgency of Now",
+"locLabel": null,
+"members": null,
+"short": "Reckoning: The Unspoken Truth about UFOs and the Urgency of Now",
+"sources": [
+{
+"date": "2026-01-28",
+"name": "UAP Digest — Luis Elizondo's New Book 'Reckoning' Promises 'Undisclosed Evidence' on UFOs",
+"url": "https://www.uapdigest.com/luis-elizondos-new-book-reckoning-promises-undisclosed-evidence-on-ufos/"
+},
+{
+"date": "2026-01-01",
+"name": "UAP Digest — Luis Elizondo Announces 20-Date UFO Disclosure Tour Ahead of New Book Release",
+"url": "https://www.uapdigest.com/luis-elizondo-announces-20-date-ufo-disclosure-tour-ahead-of-new-book-release/"
+}
+],
+"sub": "Luis Elizondo, HarperCollins, scheduled 27 August 2026",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 646 of 1027, score 24). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A2/D3.",
+"timeline": [
+{
+"date": "2026-08-27",
+"id": "tl-2026-08-27-reckoning",
+"label": "Reckoning scheduled for publication",
+"precision": "day",
+"strand": "witness",
+"text": "Elizondo's second book, promising 'previously undisclosed evidence', is scheduled for HarperCollins release with a 20-date speaking tour. Its DOPSR status is not yet public.",
+"tier": "B"
+}
+]
+}

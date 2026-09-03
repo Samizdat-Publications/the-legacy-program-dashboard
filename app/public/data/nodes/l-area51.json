@@ -1,0 +1,130 @@
+{
+"A": 3,
+"C": 3,
+"D": 2,
+"band": null,
+"claims": [
+{
+"source": "CIA U-2/OXCART history, released 25 June 2013 via FOIA to the National Security Archive — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"text": "The CIA's 25 June 2013 release was the first official acknowledgement of specific activity at the site named Area 51.",
+"tier": 2
+},
+{
+"source": "KLAS-TV Las Vegas interviews with Robert Lazar, May 1989; summarised in Wikipedia, Area 51",
+"text": "In May 1989 Robert Lazar told KLAS-TV's George Knapp that he had worked at 'S-4' near Papoose Lake, roughly 8.5 miles south of the main Groom facility, on craft the government possessed.",
+"tier": 2
+},
+{
+"source": "Inference from the acknowledgement chronology",
+"text": "Area 51's forty-three years of official non-existence is the strongest available demonstration that the United States can operate a large contractor-staffed installation entirely outside the acknowledged record. Reasoning: establishment 1955, USAF acknowledgement of existence 1998, specific-activity acknowledgement 2013, all documented.",
+"tier": 3
+}
+],
+"cls": "location",
+"cluster": "legacy",
+"connections": [
+{
+"claimTier": 2,
+"cls": "location",
+"dateEnd": null,
+"dateStart": "1955",
+"direction": "out",
+"edgeLabel": "Area 51 is the named facility on the Groom Lake shore",
+"id": "l-groom-lake",
+"l0": false,
+"label": "Groom Lake, Nevada",
+"note": "The operating location is carried on charts as Homey Airport and sits on the southwest shore of the Groom Lake salt flat inside R-4808N.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Wikipedia - Area 51",
+"url": "https://en.wikipedia.org/wiki/Area_51"
+}
+],
+"tier": "B",
+"type": "geographic"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "1955",
+"dateStart": "1955",
+"direction": "in",
+"edgeLabel": "Asked the AEC to absorb the land that became Area 51",
+"id": "richard-m-bissell-jr",
+"l0": false,
+"label": "Richard M. Bissell Jr.",
+"note": "On finding the site lay outside the proving ground he and Miller asked the Commission to add it to its Nevada holdings; Strauss agreed and Eisenhower approved the addition of the strip known by its map designation as Area 51.",
+"sources": [
+{
+"date": "2013-06-25",
+"name": "Pedlow and Welzenbach, The Central Intelligence Agency and Overhead Reconnaissance, 2013 release, chapter 2",
+"url": "https://archive.org/download/cia-readingroom-document-0000190094/0000190094_djvu.txt"
+}
+],
+"tier": "B",
+"type": "institutional"
+}
+],
+"coords": [
+37.235,
+-115.8111
+],
+"dateEnd": null,
+"dateStart": "1955",
+"deg": 2,
+"denials": [],
+"desc": "'Area 51' is the name attached to the operating facility on the southwest shore of Groom Lake, carried on aeronautical charts as Homey Airport (KXTA) and administratively part of the Nevada Test and Training Range. It is treated here as a distinct node from the lakebed itself because the name, rather than the geography, is what carries the evidentiary weight: it is the name the CIA finally used in the 25 June 2013 release, the name in the 1995 presidential environmental determination's careful circumlocution ('the Air Force's operating location near Groom Lake, Nevada'), and the name around which the entire modern reverse-engineering claim structure was built. In May 1989 Robert Lazar told KLAS-TV reporter George Knapp in Las Vegas that he had been contracted to work on craft of non-human origin at 'S-4', a facility he placed underground in the Papoose Range near Papoose Lake, about 8.5 miles south of the main base. Lazar's account is the origin point of the public reverse-engineering narrative and remains uncorroborated by any primary record; it is also the reason that, for thirty-seven years, the phrase 'Area 51' has functioned as a container that absorbs and discredits serious custody claims. The board's position is that the two things are separable. The documented reality of Area 51 - a facility whose existence the government refused to concede for four decades while flying AQUATONE, OXCART, HAVE BLUE, TACIT BLUE and exploited Soviet airframes out of it - is itself proof of the state's capacity and willingness to run large, physically substantial, contractor-staffed programmes entirely outside the acknowledged record. That capacity is the load-bearing claim. Lazar's specific allegations are not required to support it and are recorded separately at their own evidentiary grade.",
+"domains": [
+"w2-places-events"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "l-area51",
+"l0": false,
+"label": "Area 51 (Homey Airport / Groom Lake operating location)",
+"locLabel": "Groom Lake, Nevada, USA",
+"members": null,
+"short": "Area 51 (Homey Airport / Groom Lake operating location)",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Wikipedia - Area 51",
+"url": "https://en.wikipedia.org/wiki/Area_51"
+},
+{
+"date": "2013-06-25",
+"name": "National Security Archive - CIA OXCART/U-2 history release",
+"url": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB434/"
+}
+],
+"sub": "Named USAF/CIA facility at Groom Lake; KXTA / Homey Airport; part of the Nevada Test and Training Range",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 423 of 1027, score 32). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C3/A3/D2.",
+"timeline": [
+{
+"date": "1989-05-01",
+"id": "tl-1989-lazar",
+"label": "Lazar goes on television in Las Vegas",
+"precision": "month",
+"strand": "witness",
+"text": "George Knapp broadcasts the Robert Lazar interviews on KLAS-TV, creating the public reverse-engineering narrative attached to Area 51 and S-4. No primary record has ever corroborated it.",
+"tier": "C"
+},
+{
+"date": "2013-06-25",
+"id": "tl-2013-cia",
+"label": "The CIA names Area 51",
+"precision": "day",
+"strand": "oversight",
+"text": "Answering a 2005 FOIA request by Jeffrey Richelson of the National Security Archive, the CIA releases the U-2 and OXCART history and acknowledges specific activity at the site - fifty-eight years after establishment.",
+"tier": "A"
+}
+]
+}

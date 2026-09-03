@@ -1,0 +1,338 @@
+{
+"A": 2,
+"C": 3,
+"D": 2,
+"band": null,
+"claims": [
+{
+"source": "DIA FOIA Electronic Reading Room AATIP index, examined August 2026",
+"text": "No released AAWSAP-era document records the receipt, transfer or storage of a physical sample, despite the release of the statement of work, contract status briefs, 38 reference-product titles and multiple internal memoranda.",
+"tier": 1
+},
+{
+"source": "Steve Justice, quoted in Vice, 26 July 2019",
+"text": "Steve Justice conceded the ADAM materials were 'collected from sources with varying levels of chain-of-custody documentation'.",
+"tier": 2
+}
+],
+"cls": "domain",
+"cluster": "research",
+"connections": [
+{
+"claimTier": 3,
+"cls": "program",
+"dateEnd": "2010",
+"dateStart": "2008",
+"direction": "in",
+"edgeLabel": "Exhaustive on paper flow, silent on object flow",
+"id": "aawsap-dird-series",
+"l0": false,
+"label": "AAWSAP Defense Intelligence Reference Document series",
+"note": "The released AAWSAP corpus documents control numbers, fiscal years, contract status, statements of work and named programme managers - and contains no record of the receipt, transfer or storage of any physical sample. The asymmetry is the finding.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "DIA FOIA Electronic Reading Room - Advanced Aerospace Threat Identification Program",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FOIA-Reading-Room-Advanced-Aerospace-Threat-Identification-Program/"
+},
+{
+"date": "2019-01-16",
+"name": "DIA letter to Steven Aftergood listing 38 AATIP reference products",
+"url": "https://irp.fas.org/dia/aatip-list.pdf"
+}
+],
+"tier": "B",
+"type": "behavioral"
+},
+{
+"claimTier": 2,
+"cls": "domain",
+"dateEnd": null,
+"dateStart": "1947-07-08",
+"direction": "in",
+"edgeLabel": "Site to container to shelf",
+"id": "d-recovery",
+"l0": false,
+"label": "Retrieval & Recovery Operations",
+"note": "The custody chain begins at the recovery site; every documented handoff is a scoring opportunity on the C axis.",
+"sources": [
+{
+"date": "1995-07-28",
+"name": "GAO/NSIAD-95-187",
+"url": "https://www.govinfo.gov/content/pkg/GAOREPORTS-NSIAD-95-187/html/GAOREPORTS-NSIAD-95-187.htm"
+}
+],
+"tier": "B",
+"type": "custody"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": "2019",
+"direction": "in",
+"edgeLabel": "Converted an oral controversy into an enumerated procurement record",
+"id": "dia-aatip-list-2019",
+"l0": false,
+"label": "DIA letter to Steven Aftergood listing 38 AATIP reference products (16 January 2019)",
+"note": "Whatever else AATIP/AAWSAP was, the FOIA release proves it bought 38 named studies on wormholes, warp drive, metamaterials, metallic glasses, negative mass propulsion and clinical injury pathology for roughly $22 million.",
+"sources": [
+{
+"date": "2019-01-17",
+"name": "Federation of American Scientists, 'AATIP List' (Secrecy News)",
+"url": "https://fas.org/publication/aatip-list/"
+},
+{
+"date": "2019-01-16",
+"name": "DIA letter to Steven Aftergood listing 38 AATIP reference products",
+"url": "https://irp.fas.org/dia/aatip-list.pdf"
+}
+],
+"tier": "C",
+"type": "investigative"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "2020",
+"direction": "in",
+"edgeLabel": "'We couldn't make it ourselves' - a custody claim with no public chain",
+"id": "eric-davis",
+"l0": false,
+"label": "Eric W. Davis",
+"note": "Davis's on-record statement about analysed material has never been accompanied by any public documentation of where the material came from, who held it, or where it is now.",
+"sources": [
+{
+"date": "2020-07-23",
+"name": "Ralph Blumenthal, 'No Longer in the Shadows, Pentagon's U.F.O. Unit Will Make Some Findings Public', The New York Times",
+"url": "https://www.nytimes.com/2020/07/23/us/politics/pentagon-ufo-harry-reid-navy.html"
+}
+],
+"tier": "A",
+"type": "custody"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "2021",
+"direction": "in",
+"edgeLabel": "Approached by unnamed government and aerospace-corporation representatives about casualty biology",
+"id": "garry-nolan",
+"l0": false,
+"label": "Garry Nolan",
+"note": "Nolan told KQED he was approached about medical harm from 'supposed interactions with an anomalous craft'. Neither the government element nor the corporation has ever been named, which is where this chain goes dark at its first link.",
+"sources": [
+{
+"date": "2021-06-14",
+"name": "Jon Brooks, 'UFOs: SETI Astronomer, Stanford Researcher, Aerospace Expert Weigh In', KQED",
+"url": "https://www.kqed.org/science/1975185/ufos-seti-astronomer-stanford-researcher-aerospace-expert-weigh-in"
+}
+],
+"tier": "A",
+"type": "custody"
+},
+{
+"claimTier": 3,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "1996",
+"direction": "in",
+"edgeLabel": "Private, non-FOIA-able laboratory sitting between a government programme and a public company",
+"id": "harold-puthoff",
+"l0": false,
+"label": "Harold E. Puthoff",
+"note": "EarthTech has published no analytical results on the samples it has held, and as a private corporation is outside FOIA. Every documented chain that reaches it stops there.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "EarthTech International / Institute for Advanced Studies at Austin",
+"url": "https://www.earthtech.org/about/"
+},
+{
+"date": "2019-11-14",
+"name": "M.J. Banias, 'UFO Researcher Explains Why She Sold Exotic Metal to Tom DeLonge', Vice",
+"url": "https://www.vice.com/en/article/ufo-researcher-explains-why-she-sold-exotic-metal-to-tom-delonge/"
+},
+{
+"date": "2026-08-12",
+"name": "Wikipedia: To The Stars Inc.",
+"url": "https://en.wikipedia.org/wiki/To_the_Stars_(company)."
+}
+],
+"tier": "A",
+"type": "custody"
+},
+{
+"claimTier": 3,
+"cls": "program",
+"dateEnd": null,
+"dateStart": "2023",
+"direction": "in",
+"edgeLabel": "Concluded data was insufficient - having been given only the unclassified record",
+"id": "nasa-uapist",
+"l0": false,
+"label": "NASA Unidentified Anomalous Phenomena Independent Study Team",
+"note": "Sixteen serious scientists examining only unclassified material concluded that unclassified material is insufficient. The finding measures the panel's access, not the government's holdings.",
+"sources": [
+{
+"date": "2023-09-14",
+"name": "NASA UAP Independent Study Team Final Report",
+"url": "https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf"
+},
+{
+"date": "2026-08-12",
+"name": "Wikipedia: NASA Unidentified Anomalous Phenomena Independent Study Team",
+"url": "https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team"
+}
+],
+"tier": "C",
+"type": "denial"
+},
+{
+"claimTier": 3,
+"cls": "document",
+"dateEnd": "2026",
+"dateStart": "2019",
+"direction": "in",
+"edgeLabel": "The chain goes dark inside a federal research agreement",
+"id": "ttsa-army-crada-2019",
+"l0": false,
+"label": "To The Stars Academy - US Army CCDC Cooperative Research and Development Agreement (17 October 2019)",
+"note": "A CRADA is a records-generating instrument. Seven years after signature, no characterisation of the samples, no technical output and no Army statement of findings has been published. That silence is the darkest segment of the only documented private-to-federal materials transfer.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Wikipedia: To The Stars Inc.",
+"url": "https://en.wikipedia.org/wiki/To_the_Stars_(company)."
+}
+],
+"tier": "C",
+"type": "custody"
+},
+{
+"claimTier": 2,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2026",
+"direction": "in",
+"edgeLabel": "No budget, no classified access - constitutionally unable to reach the material",
+"id": "uap-science-advisory-council",
+"l0": true,
+"label": "UAP Science Advisory Council",
+"note": "The Associated Press reported the council has no budget and no access to classified material, and the Sol Foundation confirmed all shared data is unclassified. An advisory body denied money and clearances cannot audit a special access programme.",
+"sources": [
+{
+"date": "2026-06-30",
+"name": "Collin Binkley, 'Harvard professor with polarizing alien theories is picked to lead new White House UFO council', Associated Press",
+"url": "https://apnews.com/article/trump-ufo-council-avi-loeb-science-uaps-5798dd793b77aeb2d9baa99586ad8a85"
+},
+{
+"date": "2026-06-01",
+"name": "The Sol Foundation, 'Sol Foundation Co-Founders Named to UAP Science Advisory Council'",
+"url": "https://thesolfoundation.org/sol-foundation-co-founders-named-to-uap-science-advisory-council/"
+}
+],
+"tier": "A",
+"type": "denial"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "1947",
+"deg": 9,
+"denials": [
+{
+"by": {
+"id": "nasa-uapist",
+"label": "NASA Unidentified Anomalous Phenomena Independent Study Team"
+},
+"claimTier": 3,
+"denialKind": "directed",
+"label": "Concluded data was insufficient - having been given only the unclassified record",
+"note": "Sixteen serious scientists examining only unclassified material concluded that unclassified material is insufficient. The finding measures the panel's access, not the government's holdings.",
+"of": {
+"id": "d-custody",
+"label": "Chain of custody"
+},
+"sources": [
+{
+"date": "2023-09-14",
+"name": "NASA UAP Independent Study Team Final Report",
+"url": "https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf"
+},
+{
+"date": "2026-08-12",
+"name": "Wikipedia: NASA Unidentified Anomalous Phenomena Independent Study Team",
+"url": "https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team"
+}
+]
+},
+{
+"by": {
+"id": "uap-science-advisory-council",
+"label": "UAP Science Advisory Council"
+},
+"claimTier": 2,
+"denialKind": "association",
+"label": "No budget, no classified access - constitutionally unable to reach the material",
+"note": "The Associated Press reported the council has no budget and no access to classified material, and the Sol Foundation confirmed all shared data is unclassified. An advisory body denied money and clearances cannot audit a special access programme.",
+"of": {
+"id": "d-custody",
+"label": "Chain of custody"
+},
+"sources": [
+{
+"date": "2026-06-30",
+"name": "Collin Binkley, 'Harvard professor with polarizing alien theories is picked to lead new White House UFO council', Associated Press",
+"url": "https://apnews.com/article/trump-ufo-council-avi-loeb-science-uaps-5798dd793b77aeb2d9baa99586ad8a85"
+},
+{
+"date": "2026-06-01",
+"name": "The Sol Foundation, 'Sol Foundation Co-Founders Named to UAP Science Advisory Council'",
+"url": "https://thesolfoundation.org/sol-foundation-co-founders-named-to-uap-science-advisory-council/"
+}
+]
+}
+],
+"desc": "The custody domain tracks the documentary handoffs themselves rather than the objects. Its findings on this board are mostly negative and that is the point: To The Stars Academy's own chief operating officer, a former Lockheed Skunk Works advanced systems director, publicly conceded that the ADAM materials had been 'collected from sources with varying levels of chain-of-custody documentation'. The DIA-funded AAWSAP DIRD series is exemplary at documenting the flow of paper - control numbers, fiscal years, named programme managers, contractor addresses - and silent on the flow of objects. No released document in the AAWSAP corpus records the receipt, transfer or storage of a physical sample. That asymmetry is the single most important structural observation in this domain: the government's own released record proves that it commissioned propulsion theory, materials science and injury pathology, and proves nothing about what it was holding while it did so.",
+"domains": [
+"scientists-technical"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "d-custody",
+"l0": false,
+"label": "Chain of custody",
+"locLabel": null,
+"members": null,
+"short": "Chain of custody",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "DIA FOIA Electronic Reading Room - Advanced Aerospace Threat Identification Program",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FOIA-Reading-Room-Advanced-Aerospace-Threat-Identification-Program/"
+},
+{
+"date": "2019-07-26",
+"name": "M.J. Banias, 'Tom DeLonge's UFO Organization Says It's Obtained Exotic Metals Unknown to Science', Vice",
+"url": "https://www.vice.com/en/article/tom-delonges-ufo-organization-says-its-obtained-exotic-metals-unknown-to-science/"
+},
+{
+"date": "2019-10-04",
+"name": "M.J. Banias, 'Tom DeLonge's UFO Research Company Paid $35,000 for Exotic Metals That Might Actually Just Be Slag', Vice",
+"url": "https://www.vice.com/en/article/tom-delonges-ufo-research-company-paid-dollar35000-for-exotic-metals-that-might-actually-just-be-bismuth/"
+}
+],
+"sub": "Cross-cutting domain: who held what, when, and under what documentation",
+"tier": "A",
+"tierRationale": "Re-graded A on a global pass (rank 110 of 1027, score 59). 9 connections, 5 of them custody/witness/funding/programmatic, 2 official denials recorded against it. Axes C3/A2/D2.",
+"timeline": []
+}

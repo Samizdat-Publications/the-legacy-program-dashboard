@@ -1,0 +1,759 @@
+{
+"A": 3,
+"C": 2,
+"D": 3,
+"band": "funding",
+"claims": [
+{
+"source": "PL 118-31 sec. 1841(a)(1)(A), 137 Stat. 699",
+"text": "Sec. 1841 carries the note '44 USC 2107 note' and is titled 'UNIDENTIFIED ANOMALOUS PHENOMENA RECORDS COLLECTION AT THE NATIONAL ARCHIVES AND RECORDS ADMINISTRATION'. Sec. 1841(a)(1)(A) required the Archivist, within 60 days of enactment, to commence establishment of the 'Unidentified Anomalous Phenomena Records Collection'.",
+"tier": 1
+},
+{
+"source": "PL 118-31 sec. 1841(a)(1)(C), 137 Stat. 699-700",
+"text": "Sec. 1841(a)(1)(C) defines the scope of the Collection: 'record copies of all Government, Government-provided, or Government-funded records relating to unidentified anomalous phenomena, technologies of unknown origin, and non-human intelligence (or equivalent subjects by any other name with the specific and sole exclusion of temporarily non-attributed objects), which shall be transmitted to the National Archives in accordance with section 2107 of title 44, United States Code.' The phrases 'technologies of unknown origin' and 'non-human intelligence' are enacted federal statutory text.",
+"tier": 1
+},
+{
+"source": "PL 118-31 sec. 1842(a)(2), 137 Stat. 701",
+"text": "Sec. 1842(a)(2) imposes absolute prohibitions: '(A) Destruction; alteration; mutilation.--No unidentified anomalous phenomena record shall be destroyed, altered, or mutilated in any way. (B) ... No unidentified anomalous phenomena record made available or disclosed to the public prior to the date of the enactment of this Act may be withheld, redacted, postponed for public disclosure, or reclassified. (C) ... No unidentified anomalous phenomena record created by a person or entity outside the Federal Government ... shall be withheld, redacted, postponed for public disclosure, or reclassified.'",
+"tier": 1
+},
+{
+"source": "PL 118-31 sec. 1842(c)(1), 137 Stat. 702",
+"text": "Sec. 1842(c)(1) required each head of a Government office, not later than 300 days after enactment (i.e. by approximately 16 October 2024), to 'review, identify, and organize each unidentified anomalous phenomena record in the custody or possession of the office for (A) disclosure to the public; and (B) transmission to the Archivist.'",
+"tier": 1
+},
+{
+"source": "PL 118-31 sec. 1843(a), 137 Stat. 705-706",
+"text": "Sec. 1843(a) sets the postponement standard: disclosure 'may be postponed ... if the original classification authority makes a determination that there is clear and convincing evidence' of one of four harms, including that public disclosure would reveal 'any other matter currently relating to the military defense, intelligence operations, or conduct of foreign relations of the United States, the disclosure of which would demonstrably and substantially impair the national security of the United States'. The determination is made by the agency holding the record; no independent board reviews it.",
+"tier": 1
+},
+{
+"source": "PL 118-31 sec. 1842(g)(2)(D), 137 Stat. 704-705",
+"text": "Sec. 1842(g)(2)(D) sets the outer disclosure deadline: 'Each unidentified anomalous phenomena record shall be publicly disclosed in full, and available in the Collection, not later than the date that is 25 years after the date of the first creation of the record by the originating body, unless the President certifies that-- (i) continued postponement is made necessary by an identifiable harm to the military defense, intelligence operations, law enforcement, or conduct of foreign relations; and (ii) the identifiable harm is of such gravity that it outweighs the public interest in disclosure.'",
+"tier": 1
+},
+{
+"source": "PL 118-31 sec. 1843(b), 137 Stat. 706",
+"text": "Sec. 1843(b) allows unilateral withdrawal: 'Senior Agency Officials designated in accordance with Executive Order 13526 or any successor Orders may withdraw records in the Collection that are determined to be both not related to unidentified anomalous phenomena and properly classified', subject only to notification of congressional leadership and the oversight committees named in sec. 1841(e).",
+"tier": 1
+},
+{
+"source": "PL 118-31 sec. 1841(e), 137 Stat. 701",
+"text": "Sec. 1841(e) assigns continuing legislative oversight of the Collection to the Senate Homeland Security and Governmental Affairs, Armed Services, and Select Intelligence Committees, and to the House Oversight and Accountability, Armed Services, and Permanent Select Intelligence Committees.",
+"tier": 1
+},
+{
+"source": "PL 118-31 Div. A, Title XVIII, Subtitle C, table of contents and full text",
+"text": "Subtitle C as enacted consists of only three sections: 1841 (Records Collection at NARA), 1842 (review, identification, transmission, public disclosure by Government offices), and 1843 (grounds for postponement). The enacted text contains no 'Review Board' and no 'eminent domain' language.",
+"tier": 1
+},
+{
+"source": "PL 118-31 sec. 7343(b), 137 Stat. 1064",
+"text": "Division G (Intelligence Authorization Act for FY2024), sec. 7343(b): 'None of the funds authorized to be appropriated or otherwise made available by this division may be obligated or expended in support of any activity involving unidentified anomalous phenomena protected under any form of special access or restricted access limitation unless the Director of National Intelligence has provided the details of the activity to the appropriate committees of Congress and congressional leadership, including for any activities described in a report released by the All-domain Anomaly Resolution Office in fiscal year 2024.'",
+"tier": 1
+},
+{
+"source": "PL 118-31 sec. 7343(c), 137 Stat. 1064",
+"text": "Sec. 7343(c): 'Independent research and development funding relating to unidentified anomalous phenomena shall not be allowable as indirect expenses for purposes of contracts covered by such instruction, unless such material and information is made available to the appropriate congressional committees and leadership.' This is a defense-contractor IR&D cost-allowability lever aimed at privately funded UAP work.",
+"tier": 1
+},
+{
+"source": "PL 118-31 sec. 7341, 137 Stat. 1062-1063",
+"text": "Sec. 7341 amends 50 U.S.C. 3373(k)(1) to shift the annual UAP report obligation from the DNI and SecDef jointly to 'the Director of the Office' (AARO).",
+"tier": 1
+},
+{
+"source": "PLAW-118publ31 enactment line",
+"text": "PL 118-31 was 'Approved December 22, 2023.'",
+"tier": 1
+},
+{
+"source": "PL 118-31 sec. 7343(b)",
+"text": "Sec. 7343(b)'s funding cutoff is drafted as a conditional, not a prohibition: IC money may be spent on UAP special-access activity IF the DNI briefs Congress. The provision therefore concedes, in enacted law, that such special-access UAP activity may be under way and that Congress had not been told about it. Reasoning: a limitation clause presupposes the existence of the class of activity it limits, and the phrase 'protected under any form of special access or restricted access limitation' has no other referent.",
+"tier": 3
+},
+{
+"source": "P.L. 118-31 as enacted, GPO, compared with S. 2226 as engrossed",
+"text": "Subtitle C of Title XVIII of P.L. 118-31 consists solely of Secs. 1841, 1842 and 1843; Secs. 9007-9011 and 9014 of the Senate-passed division have no enacted counterpart.",
+"tier": 1
+},
+{
+"source": "P.L. 118-31, Sec. 1841(a)(1)(A), GPO",
+"text": "Sec. 1841 is noted as 44 U.S.C. 2107 note and required the Archivist to commence the collection within 60 days of enactment.",
+"tier": 1
+},
+{
+"source": "P.L. 118-31, Sec. 1842(c)(1), GPO; enactment date 22 December 2023",
+"text": "Sec. 1842(c)(1) required each head of a Government office to review, identify and organise every UAP record in its custody not later than 300 days after enactment — a deadline of 17 October 2024.",
+"tier": 1
+},
+{
+"source": "P.L. 118-31, Sec. 1687, GPO",
+"text": "Sec. 1687 bars DoD funds for UAP activity under special or restricted access unless described to the congressional defense and intelligence committees and congressional leadership, and disallows UAP-related independent research and development as an indirect expense unless disclosed.",
+"tier": 1
+},
+{
+"source": "P.L. 118-31, Sec. 1841(a)(1)(A), compared with P.L. 117-263, Sec. 1673, GPO",
+"text": "Sec. 1841 miscites its own definition, citing 'section 1673(n)(8) of the National Defense Authorization Act for Fiscal Year 2022 (Public Law 117-81; 50 U.S.C. 3373)'; Sec. 1673 is a provision of the FY2023 NDAA, P.L. 117-263, codified at 50 U.S.C. 3373b.",
+"tier": 1
+},
+{
+"source": "Public Law 118-31, Sec. 1841 (44 U.S.C. 2107 note), enacted 22 December 2023",
+"text": "The UAP Records Collection 'shall consist of record copies of all Government, Government-provided, or Government-funded records relating to unidentified anomalous phenomena, technologies of unknown origin, and non-human intelligence... which shall be transmitted to the National Archives.'",
+"tier": 1
+},
+{
+"source": "Full text search of Public Law 118-31",
+"text": "The enacted law contains no eminent domain provision, no Review Board, and no contractor inspection authority; the words 'non-earth origin' and 'eminent domain' do not appear in it.",
+"tier": 1
+},
+{
+"source": "National Archives UAP Records Collection page citing P.L. 118-31 sections 1841-1843",
+"text": "Sections 1841-1843 of P.L. 118-31 mandate the establishment of an Unidentified Anomalous Phenomena Records Collection at the National Archives.",
+"tier": 1
+},
+{
+"source": "National Archives UAP research topic page",
+"text": "NARA created Record Group 615 and issued guidance to federal agencies on identification, preparation and transfer of UAP records pursuant to the statute.",
+"tier": 1
+},
+{
+"source": "Inference from the enacted text's scope against the disclosure architecture the Burlison FY2027 amendment reintroduces",
+"text": "The enacted sections created the collection without the review board, subpoena power, presumption of disclosure or contractor reach in the original UAP Disclosure Act, which is why the collection has no published compliance record three years on.",
+"tier": 3
+}
+],
+"cls": "legislation",
+"cluster": "other",
+"connections": [
+{
+"claimTier": 1,
+"cls": "domain",
+"dateEnd": null,
+"dateStart": "2023-12-22",
+"direction": "out",
+"edgeLabel": "carries the first enacted funding limitation aimed at unreported UAP activity",
+"id": "d-funding",
+"l0": false,
+"label": "Funding Channels",
+"note": "Beyond the Subtitle C records collection, P.L. 118-31 carries funding-side provisions that bar the obligation of funds for UAP activity protected under special or restricted access that has not been disclosed to the congressional committees, and bar charging UAP-related independent research and development as an allowable indirect contract expense. Congress legislating on the funding channel is the strongest available evidence that the channel is real.",
+"sources": [
+{
+"date": "2023-12-22",
+"name": "Public Law 118-31, National Defense Authorization Act for FY2024, incl. Div. G (IAA FY2024) (GPO)",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm"
+},
+{
+"date": "2023-12-14",
+"name": "Senate Select Committee on Intelligence, Joint Explanatory Statement to Accompany the Intelligence Authorization Act for Fiscal Year 2024",
+"url": "https://www.intelligence.senate.gov/2023/12/14/publications-joint-explanatory-statement-accompany-intelligence-authorization-act-fiscal-year-2024/"
+},
+{
+"date": "2023-12-24",
+"name": "Douglas Dean Johnson (Mirador), 'Senate Intelligence bill gives holders of \"non-earth origin or exotic UAP material\" six months to make it available to AARO'",
+"url": "https://douglasjohnson.ghost.io/senate-intelligence-bill-gives-holders-of-non-earth-origin-six-months/"
+}
+],
+"tier": "A",
+"type": "legislative"
+},
+{
+"claimTier": 1,
+"cls": "domain",
+"dateEnd": null,
+"dateStart": "2023-12-22",
+"direction": "out",
+"edgeLabel": "P.L. 118-31 Subtitle C, secs. 1841-1843 - the UAP Records Collection as enacted",
+"id": "d-legislation",
+"l0": false,
+"label": "Enacted Statute",
+"note": "What survived conference from the Senate-passed disclosure title was a records collection at NARA, a duty to transmit and a postponement regime, without the Review Board or the eminent domain provision. NARA's published guidance to federal agencies implementing the collection is the observable proof that this part is law and operating.",
+"sources": [
+{
+"date": "2023-12-22",
+"name": "Public Law 118-31, National Defense Authorization Act for FY2024, incl. Div. G (IAA FY2024) (GPO)",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm"
+},
+{
+"date": "2026-08-21",
+"name": "National Archives, 'Guidance to Federal Agencies on Unidentified Anomalous Phenomena Records Collection'",
+"url": "https://www.archives.gov/records-mgmt/uap-guidance"
+}
+],
+"tier": "C",
+"type": "legislative"
+},
+{
+"claimTier": 1,
+"cls": "legislation",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "enacted as Division G of the FY2024 NDAA",
+"id": "iaa-2024",
+"l0": false,
+"label": "Intelligence Authorization Act for FY2024 (Div. G of PL 118-31) - secs. 7341, 7343",
+"note": "The enacted law carries the heading 'DIVISION G--INTELLIGENCE AUTHORIZATION ACT FOR FISCAL YEAR 2024' inside the National Defense Authorization Act for Fiscal Year 2024, Public Law 118-31, enacted 22 December 2023. The intelligence authorisation is not a separate statute that year; it rides the defence bill, which is why its UAP sections are numbered in the 7000s while the NDAA's own UAP records sections are 1841 to 1843.",
+"sources": [
+{
+"date": "2023-12-22",
+"name": "Public Law 118-31, table of contents and Division G heading",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm"
+},
+{
+"date": null,
+"name": "https://www.intelligence.senate.gov/legislation/intelligence-authorization-act-fiscal-year-2024-division-g-national-defense",
+"url": "https://www.intelligence.senate.gov/legislation/intelligence-authorization-act-fiscal-year-2024-division-g-national-defense"
+},
+{
+"date": null,
+"name": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/pdf/PLAW-118publ31.pdf",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/pdf/PLAW-118publ31.pdf"
+}
+],
+"tier": "C",
+"type": "legislative"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "2023",
+"dateStart": "2023",
+"direction": "in",
+"edgeLabel": "Sponsor of S. 2226 and Senate conference principal",
+"id": "jack-reed",
+"l0": false,
+"label": "John F. Reed",
+"note": "Reed introduced the vehicle on 11 July 2023 and signed the conference product that removed his own chamber's passed division.",
+"sources": [
+{
+"date": "2023-07-11",
+"name": "Congress.gov — S. 2226",
+"url": "https://www.congress.gov/bill/118th-congress/senate-bill/2226"
+},
+{
+"date": "2023-12-22",
+"name": "P.L. 118-31, FY2024 NDAA — GPO",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm"
+}
+],
+"tier": "B",
+"type": "legislative"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2023",
+"direction": "out",
+"edgeLabel": "The records collection reaches government-funded contractor-held records",
+"id": "leidos",
+"l0": false,
+"label": "Leidos Holdings, Inc.",
+"note": "Sec. 1841 defines the collection as record copies of all 'Government, Government-provided, or Government-funded records' relating to UAP, technologies of unknown origin and non-human intelligence - a formulation that reaches services primes holding classified records under contract. No accounting of contractor holdings has been made.",
+"sources": [
+{
+"date": "2023-12-22",
+"name": "National Defense Authorization Act for Fiscal Year 2024, Public Law 118-31 (enacted text)",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm"
+},
+{
+"date": "2026-08-12",
+"name": "USAspending.gov federal award search (prime contract obligations by recipient)",
+"url": "https://www.usaspending.gov/search"
+}
+],
+"tier": "C",
+"type": "legislative"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2024",
+"direction": "in",
+"edgeLabel": "Collection created by sections 1841-1843 of the FY2024 NDAA",
+"id": "nara-uap-collection",
+"l0": true,
+"label": "National Archives Unidentified Anomalous Phenomena Records Collection",
+"note": "The surviving remnant of the Schumer-Rounds UAP Disclosure Act. The 24 April 2025 release drew records from ODNI, OSD, the FAA and the NRC, with rolling additions - the statutory machinery any executive declassification directive must eventually run through.",
+"sources": [
+{
+"date": "2025-04-24",
+"name": "National Archives press release nr25-07",
+"url": "https://www.archives.gov/press/press-releases/2025/nr25-07"
+}
+],
+"tier": "A",
+"type": "legislative"
+},
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": null,
+"dateStart": "2023",
+"direction": "out",
+"edgeLabel": "Statutory basis for Record Group 615",
+"id": "nara-uap-records-collection",
+"l0": false,
+"label": "National Archives UAP Records Collection (Record Group 615)",
+"note": "Sections 1841-1843 of P.L. 118-31 mandate the UAP Records Collection; NARA created RG 615 and issued transfer guidance to agencies.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "National Archives - UAP Records Collection (archives.gov/uap)",
+"url": "https://www.archives.gov/uap"
+},
+{
+"date": "2026-08-12",
+"name": "National Archives - Unidentified Anomalous Phenomena research topic page",
+"url": "https://www.archives.gov/research/topics/uaps"
+}
+],
+"tier": "B",
+"type": "legislative"
+},
+{
+"claimTier": 1,
+"cls": "legislation",
+"dateEnd": null,
+"dateStart": "2023",
+"direction": "in",
+"edgeLabel": "Sec. 1841 defines UAP by cross-reference to 50 U.S.C. 3373",
+"id": "ndaa-fy2022-sec-1683",
+"l0": true,
+"label": "FY2022 NDAA Sec. 1683 (P.L. 117-81; 50 U.S.C. 3373)",
+"note": "The enacted collection statute borrows its definition from Gillibrand's section, but miscites it as 'section 1673(n)(8) of the NDAA for Fiscal Year 2022 (Public Law 117-81)' — conflating two different Acts.",
+"sources": [
+{
+"date": "2023-12-22",
+"name": "P.L. 118-31, FY2024 NDAA — GPO",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm"
+},
+{
+"date": "2022-12-23",
+"name": "P.L. 117-263 — GPO",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-117publ263/html/PLAW-117publ263.htm"
+}
+],
+"tier": "B",
+"type": "legislative"
+},
+{
+"claimTier": 1,
+"cls": "legislation",
+"dateEnd": "2024",
+"dateStart": "2023",
+"direction": "out",
+"edgeLabel": "Sec. 1687 is the enacted funding bar on undisclosed UAP SAPs",
+"id": "pl118-31-sec-1687",
+"l0": false,
+"label": "P.L. 118-31 Sec. 1687 — limitation on funds for unreported programs",
+"note": "The only enacted provision that conditions money on disclosure of special access UAP activity, including the independent research and development indirect-cost bar.",
+"sources": [
+{
+"date": "2023-12-22",
+"name": "P.L. 118-31, FY2024 NDAA — GPO",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm"
+}
+],
+"tier": "A",
+"type": "funding"
+},
+{
+"claimTier": 1,
+"cls": "legislation",
+"dateEnd": null,
+"dateStart": "2023-12-22",
+"direction": "in",
+"edgeLabel": "reduced to secs. 1841-1843 in conference",
+"id": "uapda-2023",
+"l0": true,
+"label": "UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)",
+"note": "Public Law 118-31 contains no eminent domain clause, no Review Board and no contractor inspection authority. Congress asserted jurisdiction over the paper and left the objects where they are.",
+"sources": [
+{
+"date": "2023-07-27",
+"name": "S. 2226, 118th Congress, Engrossed in Senate (BILLS-118s2226es) - contains DIVISION G, UAP Disclosure Act of 2023, secs. 9001-9015",
+"url": "https://www.govinfo.gov/content/pkg/BILLS-118s2226es/html/BILLS-118s2226es.htm"
+},
+{
+"date": "2023-12-22",
+"name": "Public Law 118-31, National Defense Authorization Act for FY2024 (full text, GPO)",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm"
+},
+{
+"date": "2023-07-27",
+"name": "H.R. 2670, NDAA FY2024 as passed by the Senate, Division I - Unidentified Anomalous Phenomena Disclosure Act of 2023 (Sec. 9001-9010)",
+"url": "https://www.govinfo.gov/content/pkg/BILLS-118hr2670eas/html/BILLS-118hr2670eas.htm"
+}
+],
+"tier": "A",
+"type": "legislative"
+},
+{
+"claimTier": 3,
+"cls": "legislation",
+"dateEnd": null,
+"dateStart": "2026",
+"direction": "in",
+"edgeLabel": "Restores the enforcement architecture stripped from the FY2024 sections",
+"id": "uapda-fy2027-house-adopted",
+"l0": true,
+"label": "Unidentified Anomalous Phenomena Disclosure Act - Burlison amendment to the FY2027 NDAA",
+"note": "Sections 1841-1843 created a records collection without a review board, subpoena power or contractor reach; the 2026 amendment reintroduces all three.",
+"sources": [
+{
+"date": "2026-07-23",
+"name": "NewsTalk KZRG - House approves Burlison amendment creating framework for UAP records disclosure",
+"url": "https://www.newstalkkzrg.com/2026/07/23/house-approves-burlison-amendment-creating-framework-for-uap-records-disclosure/"
+},
+{
+"date": "2026-08-12",
+"name": "National Archives - UAP Records Collection (archives.gov/uap)",
+"url": "https://www.archives.gov/uap"
+}
+],
+"tier": "B",
+"type": "legislative"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": "2023",
+"direction": "in",
+"edgeLabel": "No enacted statute contains the eminent domain language",
+"id": "uapda-sec-9010-eminent-domain",
+"l0": false,
+"label": "Section 9010(a) — Exercise of Eminent Domain",
+"note": "P.L. 118-31, P.L. 118-159 and P.L. 119-60 contain zero instances of 'eminent domain' in any UAP provision.",
+"sources": [
+{
+"date": "2023-12-22",
+"name": "P.L. 118-31, FY2024 NDAA — GPO",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm"
+},
+{
+"date": "2024-12-23",
+"name": "P.L. 118-159 — GPO",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-118publ159/html/PLAW-118publ159.htm"
+},
+{
+"date": "2025-12-18",
+"name": "P.L. 119-60 — GPO",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-119publ60/html/PLAW-119publ60.htm"
+}
+],
+"tier": "A",
+"type": "denial"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "2023",
+"deg": 12,
+"denials": [
+{
+"by": {
+"id": "uapda-sec-9010-eminent-domain",
+"label": "Section 9010(a) — Exercise of Eminent Domain"
+},
+"claimTier": 1,
+"denialKind": "undirected",
+"label": "No enacted statute contains the eminent domain language",
+"note": "P.L. 118-31, P.L. 118-159 and P.L. 119-60 contain zero instances of 'eminent domain' in any UAP provision.",
+"of": {
+"id": "ndaa-fy2024",
+"label": "FY2024 NDAA, Public Law 118-31 - Div. A, Title XVIII, Subtitle C (secs. 1841-1843), UAP Records Collection; Div. G (IAA FY2024) secs. 7341, 7343"
+},
+"sources": [
+{
+"date": "2023-12-22",
+"name": "P.L. 118-31, FY2024 NDAA — GPO",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm"
+},
+{
+"date": "2024-12-23",
+"name": "P.L. 118-159 — GPO",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-118publ159/html/PLAW-118publ159.htm"
+},
+{
+"date": "2025-12-18",
+"name": "P.L. 119-60 — GPO",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-119publ60/html/PLAW-119publ60.htm"
+}
+]
+}
+],
+"desc": "P.L. 118-31 is the document that records the stripping. The Senate passed S. 2226 on 27 July 2023 carrying two separate UAP regimes: Division G, the fifteen-section UAP Disclosure Act, and Division M Section 1102, Warner's contractor turn-in inside the Intelligence Authorization Act for FY2024. The Act signed on 22 December 2023 contains, in place of Division G, a three-section Subtitle C of Title XVIII: Sec. 1841, the Records Collection at the National Archives; Sec. 1842, review and transmission by heads of Government offices within 300 days; and Sec. 1843, grounds for postponement. There is no Sec. 9007 equivalent, no Sec. 9010 equivalent, no Controlled Disclosure Campaign Plan and no authorization of appropriations. In place of Sec. 1102 it contains Sec. 7343, a bare funding limitation. The Act does retain teeth in two places the House committees controlled: Sec. 1687 cuts off DoD funds for UAP activity 'protected under any form of special access or restricted access limitations' unless the Secretary of Defense has described it to the defence and intelligence committees and congressional leadership, and bars independent research and development funding on UAP from being charged as an indirect expense unless disclosed. Sec. 7343 does the same on the intelligence side. Both are one-year limitations tied to funds authorised by that Act, and neither was renewed in FY2025 or FY2026.",
+"domains": [
+"_rs-legislation",
+"congress-senate-legislation",
+"primes-custody",
+"releases-2023-2026"
+],
+"dossier": {
+"claims": [
+{
+"source": "Pub. L. 118-31, sec. 1687(a) (Dec. 22, 2023), text at H. Rept. 118-301 pp. 489-490, https://douglasjohnson.ghost.io/content/files/2023/12/UAP-pages-only--final--from-NDAA--HR-2670--and-Joint-Explanatory-Statement-12-6-23.pdf",
+"text": "Section 1687(a) of P.L. 118-31 provides: \"None of the funds authorized to be appropriated or otherwise made available by this Act may be obligated or expended in support of any activities involving unidentified anomalous phenomena protected under any form of special access or restricted access limitations unless the Secretary of Defense has provided the details of the activity to the appropriate congressional committees and congressional leadership, including for any activities described in a report released by the All-Domain Anomaly Resolution Office in fiscal year 2024.\"",
+"tier": 1
+},
+{
+"source": "Pub. L. 118-31, sec. 1687(b), H. Rept. 118-301 p. 490",
+"text": "Section 1687(b) provides that, consistent with DoD Instruction 3204.01 (August 20, 2014, incorporating change 2 dated July 9, 2020), \"independent research and development funding relating to unidentified anomalous phenomena shall not be allowable as indirect expenses for purposes of contracts covered by such instruction, unless such material and information is made available the appropriate congressional committees and congressional leadership.\"",
+"tier": 1
+},
+{
+"source": "Pub. L. 118-31, sec. 1687(c), H. Rept. 118-301 p. 490",
+"text": "Section 1687(c) defines \"appropriate congressional committees\" as the congressional defense committees plus HPSCI and SSCI, and \"congressional leadership\" as the majority and minority leaders of the Senate and the Speaker and minority leader of the House.",
+"tier": 1
+},
+{
+"source": "H. Rept. 118-301, Joint Explanatory Statement, pp. 1311-1312",
+"text": "The Joint Explanatory Statement to H. Rept. 118-301 records that the conferees amended the Senate provision (sec. 1646) to \"Remove the direction to provide information to the All-domain Anomaly Resolution Office\" before enactment.",
+"tier": 1
+},
+{
+"source": "H. Rept. 118-301, Joint Explanatory Statement, pp. 1311-1312",
+"text": "The Joint Explanatory Statement lists six categories the section 1687 prohibition \"could cover,\" including \"Recruiting, employing, training, equipping, and operations of, and providing security for, Government or contractor personnel with a primary, secondary, or contingency mission of capturing, recovering, and securing unidentified anomalous phenomena craft or pieces and components of such craft\"; \"Analyzing such craft, or pieces or components thereof, including for the purpose of determining properties, material composition, method of manufacture, origin, characteristics, usage and application, performance, operational modalities, or reverse engineering of such craft or component technology\"; \"Actions relating to reverse engineering or replicating unidentified anomalous phenomena technology or performance\"; and \"Any aerospace craft that uses propulsion technology other than chemical propellants, solar power, and electric ion thrust.\"",
+"tier": 1
+},
+{
+"source": "Pub. L. 118-31, sec. 1841(a)(1)(C), H. Rept. 118-301 p. 568",
+"text": "Section 1841(a)(1)(C) provides that the Collection \"shall consist of record copies of all Government, Government-provided, or Government-funded records relating to unidentified anomalous phenomena, technologies of unknown origin, and non-human intelligence (or equivalent subjects by any other name with the specific and sole exclusion of temporarily non-attributed objects).\"",
+"tier": 1
+},
+{
+"source": "Pub. L. 118-31, subtitle C of title XVIII; H. Rept. 118-301 pp. 568-575 (no DEFINITIONS section appears in secs. 1841-1843)",
+"text": "The enacted subtitle contains no definitions of \"technologies of unknown origin,\" \"non-human intelligence,\" \"temporarily non-attributed objects,\" \"record\" or \"Collection\" — the definitions existed in sections 9001-9015 of the Senate amendment and were dropped in conference, leaving the terms undefined in United States statute.",
+"tier": 1
+},
+{
+"source": "Pub. L. 118-31, sec. 1842(c)(1); https://www.archives.gov/records-mgmt/uap-guidance",
+"text": "Section 1842(c)(1) required each head of a Government office to review, identify and organize each UAP record in its custody within 300 days of enactment; NARA implemented this as a deadline of October 20, 2024, and stated it would accept only digital versions.",
+"tier": 1
+},
+{
+"source": "Pub. L. 118-31, sec. 1842(g)(2)(D), H. Rept. 118-301 pp. 573-574",
+"text": "Section 1842(g)(2)(D) requires each UAP record to be publicly disclosed in full not later than 25 years after its first creation \"unless the President certifies that (i) continued postponement is made necessary by an identifiable harm to the military defense, intelligence operations, law enforcement, or conduct of foreign relations; and (ii) the identifiable harm is of such gravity that it outweighs the public interest in disclosure.\"",
+"tier": 1
+},
+{
+"source": "Pub. L. 118-31, sec. 1843, H. Rept. 118-301 pp. 574-575",
+"text": "Section 1843(a) vests the postponement determination in \"the original classification authority\" on a finding of \"clear and convincing evidence\" of one of four enumerated harms — restoring the decision to the classifying agency rather than the independent board the Senate had proposed; section 1843(b) permits Senior Agency Officials to withdraw records from the Collection determined to be both unrelated to UAP and properly classified on 60 days' advance notice to congressional leadership and the oversight committees, and section 1843(c) requires notice of any postponement within 15 days.",
+"tier": 1
+},
+{
+"source": "H. Rept. 118-301, Joint Explanatory Statement, p. 1330",
+"text": "The Joint Explanatory Statement states: \"The agreement does not include the provisions that would establish an independent Review Board, a Review Board staff, eminent domain authority, or a controlled disclosure process.\"",
+"tier": 1
+},
+{
+"source": "Pub. L. 118-31, sec. 7343, H. Rept. 118-301 pp. 944-945",
+"text": "Section 7343 imposes a parallel funding cutoff on Intelligence Authorization funds, substituting the Director of National Intelligence for the Secretary of Defense and adding the Appropriations Committees to the notification list; its subsection (c) contains a dangling reference to \"contracts covered by such instruction\" with no instruction identified anywhere in that section.",
+"tier": 1
+},
+{
+"source": "https://douglasjohnson.ghost.io/quick-guide-to-uap-related-provisions-in-the-final-fy-2024-national-defense-authorization-act/ (reproducing Cong. Rec., Dec. 14, 2023)",
+"text": "The chairmen of the House and Senate intelligence committees entered an Explanatory Statement in the Congressional Record of December 14, 2023 stating that section 7343 \"is also intended to avoid technology and security stovepipes and expand awareness regarding any historical exotic technology antecedents previously provided by the Federal Government for research and development purposes if they are shown to exist.\"",
+"tier": 2
+},
+{
+"source": "Cong. Rec., Dec. 13, 2023, pp. S5930-S5931; reproduced at https://douglasjohnson.ghost.io/uap-disclosure-act-pentagon-rewrite-nov-2023/",
+"text": "In a colloquy with Senator Rounds on the Senate floor on December 13, 2023, Senator Schumer said: \"It is really an outrage that the House didn't work with us on adopting our proposal for a review board, which, by definition, needs bipartisan consent. Now it means that declassification of UAP records will be largely up to the same entities that blocked and obfuscated their disclosure for decades,\" and in the same colloquy: \"We have also been notified by multiple credible sources that information on UAPs has also been withheld from Congress, which, if true, is a violation of the laws requiring full notification to the legislative branch, especially as it relates to the four congressional leaders, Defense Committees, and the Intelligence Committee.\"",
+"tier": 1
+}
+],
+"connections": [
+"P.L. 118-31 secs. 1841-1843 are the surviving remnant of S.Amdt. 797, the Schumer-Rounds UAP Disclosure Act; the deletions are itemized in the Joint Explanatory Statement at p. 1330.",
+"Section 1687 aims directly at the waived and unacknowledged SAP mechanism of 10 U.S.C. 119 and DoDI 5205.11 by conditioning appropriations on disclosure to the defense and intelligence committees and the four leaders.",
+"Section 1687(b) and section 7343(c) target contractor independent research and development indirect expense under DoDI 3204.01 — the funding path that bypasses DoD program elements entirely.",
+"The 300-day review obligation runs against every 'Government office,' expressly including the NRO, CIA, DOE and the military departments; NARA set the compliance date at October 20, 2024.",
+"AARO is written into the statute at sec. 1842(c)(2)(E)-(F) and sec. 1842(c)(3) as a recipient of agency records, after conferees removed the Senate requirement that SAPs provide UAP material to AARO under sec. 1687.",
+"Sean Kirkpatrick and OUSD(I&S) are the named actors whose November 2023 redline shaped the conference outcome.",
+"Sec. 7341 shifted the annual UAP report obligation from the Secretary of Defense and the DNI to AARO and its director."
+],
+"denialPosture": "The Presidential signing statement of December 22, 2023 is the operative denial artifact: it identified section 1687 as one of several provisions compelling delivery of highly sensitive classified information to Congress and reserved to the Executive a construction of those provisions consistent with its own view of national security — a reservation aimed squarely at the one UAP provision with a funding sanction attached.",
+"narrative": "The FY2024 NDAA is a 973-page enrolled bill authorizing $886 billion. The Senate approved the conference version 87-13 on 13 December 2023, the House 310-118 the next day, and the President signed it on 22 December.\n\nSection 1687, \"Limitation on Use of Funds for Certain Unreported Programs,\" is the money clause. Subsection (a): \"None of the funds authorized to be appropriated or otherwise made available by this Act may be obligated or expended in support of any activities involving unidentified anomalous phenomena protected under any form of special access or restricted access limitations unless the Secretary of Defense has provided the details of the activity to the appropriate congressional committees and congressional leadership, including for any activities described in a report released by the All-Domain Anomaly Resolution Office in fiscal year 2024.\" Subsection (b) closes the contractor channel: citing DoD Instruction 3204.01, it provides that independent research and development funding relating to UAP \"shall not be allowable as indirect expenses for purposes of contracts covered by such instruction, unless such material and information is made available the appropriate congressional committees and congressional leadership.\" The missing preposition is in the enacted text. Subsection (c) defines the appropriate committees as the congressional defense committees plus HPSCI and SSCI, and congressional leadership as the four leaders.\n\nThat IR&D subsection is the sleeper. It is a legislative acknowledgment that UAP-related work might sit inside contractor overhead accounts rather than a government program element — funded by the government as an allowable indirect cost without ever appearing as a DoD program. Congress does not write a prohibition against a billing practice nobody uses.\n\nThe Joint Explanatory Statement explains what the conferees did to the Senate provision (formerly section 1646): they removed the direction to provide information to AARO, and summarized the prohibition. Then they wrote six numbered categories of activity the prohibition \"could cover\": recruiting, employing, equipping and providing security for government or contractor personnel with a mission of \"capturing, recovering, and securing unidentified anomalous phenomena craft or pieces and components of such craft\"; analyzing such craft or components \"including for the purpose of determining properties, material composition, method of manufacture, origin, characteristics, usage and application, performance, operational modalities, or reverse engineering of such craft or component technology\"; protecting UAP activities and information \"from disclosure or compromise\"; actions relating to reverse engineering or replicating UAP technology or performance; development of propulsion technology or aerospace craft \"based on or derived from or inspired by\" reverse engineering of recovered UAP craft or materials; and \"Any aerospace craft that uses propulsion technology other than chemical propellants, solar power, and electric ion thrust.\" That sixth category is a definition by exclusion of every propulsion method the conferees could not name.\n\nSection 7343 does the same on the Intelligence Authorization side, substituting the DNI for the Secretary of Defense and adding the Appropriations Committees. Its IR&D subsection contains a dangling cross-reference — \"contracts covered by such instruction,\" with no instruction identified anywhere in the section. The intelligence committee chairmen entered an Explanatory Statement in the Congressional Record on 14 December 2023 saying section 7343 was intended \"to avoid technology and security stovepipes and expand awareness regarding any historical exotic technology antecedents previously provided by the Federal Government for research and development purposes if they are shown to exist.\"\n\nSections 1841-1843 are the records regime. Section 1841 directs the Archivist, within 60 days of enactment, to commence establishing the \"Unidentified Anomalous Phenomena Records Collection,\" consisting of \"record copies of all Government, Government-provided, or Government-funded records relating to unidentified anomalous phenomena, technologies of unknown origin, and non-human intelligence (or equivalent subjects by any other name with the specific and sole exclusion of temporarily non-attributed objects).\" Those three terms appear in enacted United States statute with no definitions attached, because the definitions lived in the Senate bill and were dropped. Congress legislated about non-human intelligence and then declined to say what it meant.\n\nSection 1842 sets the mechanics. Each head of a government office had 300 days to review, identify and organize its UAP records; NARA fixed the operative date at 20 October 2024. No UAP record may be destroyed, altered or mutilated, and no record already publicly disclosed may be withheld, redacted, postponed or reclassified. Agencies must give precedence to records \"that most unambiguously and definitively pertain to unidentified anomalous phenomena, technologies of unknown origin, and non-human intelligence,\" to records under active FOIA litigation, and to records \"with earliest provenance.\" Subsection (g)(2)(D) is the 25-year rule: each record must be disclosed in full not later than 25 years after creation unless the President certifies continued postponement is necessary because of \"an identifiable harm to the military defense, intelligence operations, law enforcement, or conduct of foreign relations\" of \"such gravity that it outweighs the public interest in disclosure.\"\n\nSection 1843 is where the Senate's design was inverted. Postponement is decided not by an independent board but by \"the original classification authority,\" on \"clear and convincing evidence\" of one of four enumerated harms.\n\nThe JES at page 1330 states the outcome without euphemism: \"The agreement does not include the provisions that would establish an independent Review Board, a Review Board staff, eminent domain authority, or a controlled disclosure process.\"\n\nOn 13 December 2023 Schumer told the Senate: \"It is really an outrage that the House didn't work with us on adopting our proposal for a review board... Now it means that declassification of UAP records will be largely up to the same entities that blocked and obfuscated their disclosure for decades.\" He added that multiple credible sources had notified them that UAP information was being withheld from Congress, \"which, if true, is a violation of the laws requiring full notification to the legislative branch.\" Nine days later the President signed the bill and issued a signing statement listing section 1687 among provisions requiring submission of \"highly sensitive classified information\" to Congress.",
+"openQuestions": [
+"Whether any agency has ever certified compliance with section 1687, and whether any funds have been withheld or an activity terminated under it.",
+"Which agencies transmitted records to the UAP Records Collection by the October 20, 2024 deadline, in what volume, and how many records were postponed under section 1843 and reported under the 15-day notice rule.",
+"How many records have been withdrawn from the Collection under section 1843(b) by Senior Agency Officials, and on what basis.",
+"Whether the President has ever made a section 1842(g)(2)(D) certification to continue postponing a UAP record beyond 25 years.",
+"How agencies are interpreting the undefined statutory terms 'technologies of unknown origin,' 'non-human intelligence' and 'temporarily non-attributed objects' in their identification and review, and whether NARA issued any definitional guidance beyond the metadata template.",
+"Whether any contractor has been denied recovery of independent research and development indirect costs under section 1687(b) or section 7343(c), which would be a Defense Contract Audit Agency and Defense Contract Management Agency record.",
+"Who the 'multiple credible sources' were who told Schumer information had been withheld from Congress."
+],
+"roles": [
+"disclosure",
+"oversight",
+"funding"
+],
+"whatItIs": "The National Defense Authorization Act for Fiscal Year 2024, H.R. 2670, became Public Law 118-31 on December 22, 2023. It contains four UAP-related provisions: section 1687 (funding cutoff for unreported UAP special access programs), sections 1841-1843 (the Unidentified Anomalous Phenomena Records Collection at the National Archives), section 7341 (a reporting-channel adjustment) and section 7343 (the parallel Intelligence Authorization funding cutoff). It is what survived of the Schumer-Rounds UAP Disclosure Act after House-Senate conference.",
+"whyImplicated": "The enacted law is simultaneously the strongest and the weakest document on this board. Strongest, because the Joint Explanatory Statement of the House-Senate conference committee states in the official legislative history that the section 1687 funding prohibition \"could cover\" activities including \"Analyzing such craft, or pieces or components thereof,\" \"Actions relating to reverse engineering or replicating unidentified anomalous phenomena technology or performance,\" propulsion \"based on or derived from or inspired by inspection, analysis, or reverse engineering of recovered unidentified anomalous phenomena craft or materials,\" and \"Any aerospace craft that uses propulsion technology other than chemical propellants, solar power, and electric ion thrust.\" Conferees do not write six itemized categories of a thing that does not exist. Weakest, because everything with teeth was removed: the same JES records that \"The agreement does not include the provisions that would establish an independent Review Board, a Review Board staff, eminent domain authority, or a controlled disclosure process,\" and section 1843 hands the postponement decision back to \"the original classification authority\" — the same officials the Senate bill was designed to review. The difference between the Senate text and the enacted text is the measurable output of the concealment effort in a single legislative cycle."
+},
+"entityInfo": {
+"desc": "Section-by-section map of the UAP content of Public Law 118-31. Division A, Title XVI: sec. 1687, limitation on use of funds for certain unreported programs (137 Stat. 621-622), note 50 U.S.C. 3373 note at subsection (b). Division A, Title XVIII, Subtitle C: sec. 1841, UAP Records Collection at NARA (note 44 U.S.C. 2107 note, 137 Stat. 699-701); sec. 1842, review, identification, transmission and public disclosure by Government offices (137 Stat. 701-705), including the 300-day agency review deadline at (c)(1) and the 25-year full-disclosure deadline with Presidential certification escape at (g)(2)(D); sec. 1843, grounds for postponement (137 Stat. 705-707), including the 'clear and convincing evidence' standard applied by the original classification authority at (a) and the Senior Agency Official withdrawal power at (b). Division G (IAA FY2024), Title LXXIII: sec. 7341, shifting the annual report duty to the AARO Director (137 Stat. 1062-1063); sec. 7343, funding limitation and IR&D cost-allowability rule (137 Stat. 1063-1064).",
+"sources": [
+{
+"date": "2023-12-22",
+"name": "Public Law 118-31, National Defense Authorization Act for FY2024 (full text, GPO)",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm"
+}
+]
+},
+"era": "3",
+"foia": {
+"questions": [
+1,
+2
+],
+"requests": [
+{
+"agency": "NARA",
+"partial": [],
+"questions": [
+1,
+2
+],
+"request": "F1",
+"sendTo": "National Archives and Records Administration, FOIA Officer, Office of General Counsel, 8601 Adelphi Road, College Park MD 20740. Cross-file a copy with the National Declassification Center, which is the operational custodian of the collection.",
+"status": "not filed",
+"title": "NARA - the RG 615 compliance register"
+}
+]
+},
+"hl": null,
+"id": "ndaa-fy2024",
+"l0": true,
+"label": "FY2024 NDAA, Public Law 118-31 - Div. A, Title XVIII, Subtitle C (secs. 1841-1843), UAP Records Collection; Div. G (IAA FY2024) secs. 7341, 7343",
+"locLabel": null,
+"members": [
+{
+"cls": "domain",
+"id": "d-funding",
+"label": "Funding Channels",
+"tier": "A"
+},
+{
+"cls": "domain",
+"id": "d-legislation",
+"label": "Enacted Statute",
+"tier": "C"
+},
+{
+"cls": "legislation",
+"id": "iaa-2024",
+"label": "Intelligence Authorization Act for FY2024 (Div. G of PL 118-31) - secs. 7341, 7343",
+"tier": "C"
+},
+{
+"cls": "person",
+"id": "jack-reed",
+"label": "John F. Reed",
+"tier": "B"
+},
+{
+"cls": "institution",
+"id": "leidos",
+"label": "Leidos Holdings, Inc.",
+"tier": "C"
+},
+{
+"cls": "program",
+"id": "nara-uap-records-collection",
+"label": "National Archives UAP Records Collection (Record Group 615)",
+"tier": "B"
+},
+{
+"cls": "legislation",
+"id": "pl118-31-sec-1687",
+"label": "P.L. 118-31 Sec. 1687 — limitation on funds for unreported programs",
+"tier": "A"
+},
+{
+"cls": "document",
+"id": "uapda-sec-9010-eminent-domain",
+"label": "Section 9010(a) — Exercise of Eminent Domain",
+"tier": "A"
+}
+],
+"short": "FY2024 NDAA, Public Law 118-31 - Div. A, Title XVIII, Subtitle C (secs. 1841-1843), UAP Records Collection; Div. G (IAA FY2024) secs. 7341, 7343",
+"sources": [
+{
+"date": "2023-12-22",
+"name": "Public Law 118-31, National Defense Authorization Act for FY2024 (full text, GPO)",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm"
+},
+{
+"date": "2023-07-27",
+"name": "S. 2226, 118th Congress, Engrossed in Senate (BILLS-118s2226es) - contains DIVISION G, UAP Disclosure Act of 2023, secs. 9001-9015",
+"url": "https://www.govinfo.gov/content/pkg/BILLS-118s2226es/html/BILLS-118s2226es.htm"
+},
+{
+"date": "2023-07-27",
+"name": "H.R. 2670, NDAA FY2024 as passed by the Senate, Division I - Unidentified Anomalous Phenomena Disclosure Act of 2023 (Sec. 9001-9010)",
+"url": "https://www.govinfo.gov/content/pkg/BILLS-118hr2670eas/html/BILLS-118hr2670eas.htm"
+},
+{
+"date": "2026-08-12",
+"name": "National Archives - UAP Records Collection (archives.gov/uap)",
+"url": "https://www.archives.gov/uap"
+},
+{
+"date": "2026-08-12",
+"name": "National Archives - Unidentified Anomalous Phenomena research topic page",
+"url": "https://www.archives.gov/research/topics/uaps"
+},
+{
+"date": "2026-07-23",
+"name": "NewsTalk KZRG - House approves Burlison amendment creating framework for UAP records disclosure",
+"url": "https://www.newstalkkzrg.com/2026/07/23/house-approves-burlison-amendment-creating-framework-for-uap-records-disclosure/"
+}
+],
+"sub": "authorizing-statutes",
+"tier": "A",
+"tierRationale": "Re-graded A on a global pass (rank 41 of 1027, score 87). 12 connections, 1 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D3.",
+"timeline": [
+{
+"date": "2023-12-22",
+"id": "cl-2023-12-22",
+"label": "The stripping is enacted",
+"precision": "day",
+"strand": "coverup",
+"text": "P.L. 118-31 is signed. Fifteen sections become three. The Review Board, the eminent domain clause, the Controlled Disclosure Campaign Plan, the $20,000,000 authorization, the contractor turn-in and the immunity grant are all gone. Sec. 7343 is left referring to an instruction it no longer identifies.",
+"tier": "A"
+},
+{
+"date": "2023-12-22",
+"id": "pc-2023-12-stripped",
+"label": "Eminent domain and the contractor inventory are stripped; the IR&D clause survives",
+"precision": "day",
+"strand": "coverup",
+"text": "Public Law 118-31 is enacted without the Review Board, the eminent domain provision or the SSCI contractor disclosure regime. It retains the records collection at Secs. 1841-1843 and the funding limitations at Secs. 1687 and 7343, including the IR&D restriction citing DoDI 3204.01 by change date.",
+"tier": "A"
+},
+{
+"date": "2023-12-22",
+"id": "rel-2023-12-22",
+"label": "FY2024 NDAA creates the UAP Records Collection",
+"precision": "day",
+"strand": "oversight",
+"text": "Sections 1841-1843 of P.L. 118-31 mandate a UAP Records Collection at the National Archives - without the review board, subpoena power or contractor reach in the original UAP Disclosure Act.",
+"tier": "A"
+},
+{
+"date": "2023-12-22",
+"id": "tl-2023-12-22-pl11831",
+"label": "FY2024 NDAA enacted with the Review Board and eminent domain stripped",
+"precision": "day",
+"strand": "program",
+"text": "Public Law 118-31 is approved. Only secs. 9004-9006 of the Senate's Division G survive, renumbered as secs. 1841-1843 in Division A, Title XVIII, Subtitle C. The enacted text contains no Review Board and no eminent-domain provision. Postponement decisions revert to 'the original classification authority' holding the record, and Senior Agency Officials may unilaterally withdraw records from the Collection on notice to Congress. Sec. 1687 and IAA sec. 7343 impose conditional funding limits on unreported UAP special-access activity.",
+"tier": "A"
+}
+]
+}

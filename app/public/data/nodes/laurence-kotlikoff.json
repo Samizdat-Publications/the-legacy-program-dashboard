@@ -1,0 +1,139 @@
+{
+"A": 0,
+"C": 0,
+"D": 2,
+"affiliations": [
+"boston-university"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "2017-12",
+"event": "Co-authors 'Has Our Government Spent $21 Trillion of Our Money without Telling Us?' in Forbes",
+"precision": "month"
+},
+{
+"date": "2018-07-21",
+"event": "Co-authors 'Is Our Government Intentionally Hiding $21 Trillion in Spending?' in Forbes",
+"precision": "day"
+},
+{
+"date": "2019-01-09",
+"event": "Co-authors 'Holding U.S. Treasurys? Beware: Uncle Sam Can't Account for $21 Trillion' in Forbes",
+"precision": "day"
+}
+],
+"claims": [
+{
+"source": "https://mark-skidmore.com/research/research-in-finance-public-finance/",
+"text": "Kotlikoff co-authored three Forbes columns with Mark Skidmore on the $21 trillion unsupported adjustment aggregate, in December 2017, July 2018 and January 2019.",
+"tier": 2
+}
+],
+"cls": "person",
+"cluster": "research",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 2,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "Professor of Economics",
+"id": "boston-university",
+"l0": false,
+"label": "Boston University",
+"note": "Kotlikoff is Professor of Economics at Boston University. Attested by the co-authored publication record.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Mark Skidmore, publications",
+"url": "https://mark-skidmore.com/research/research-in-finance-public-finance/"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2019-01-09",
+"dateStart": "2017-12",
+"direction": "out",
+"edgeLabel": "Co-authored three Forbes columns carrying the figure into the financial press",
+"id": "mark-skidmore",
+"l0": false,
+"label": "Mark Skidmore",
+"note": "Kotlikoff and Skidmore published in Forbes in December 2017, July 2018 and January 2019. Attested by Skidmore's own publication list.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Mark Skidmore, publications",
+"url": "https://mark-skidmore.com/research/research-in-finance-public-finance/"
+}
+],
+"tier": "C",
+"type": "research"
+}
+],
+"date": "2019-01-09",
+"dateEnd": null,
+"dateStart": "2019-01-09",
+"deg": 2,
+"denials": [],
+"domains": [
+"w2-black-budget"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "laurence-kotlikoff",
+"instId": "boston-university",
+"l0": false,
+"label": "Laurence J. Kotlikoff",
+"loc": "Boston, Massachusetts",
+"locId": null,
+"members": null,
+"narrative": "Laurence Kotlikoff is a Professor of Economics at Boston University known for work on generational accounting and fiscal transparency. He co-wrote three Forbes columns with Mark Skidmore about the unsupported adjustment aggregate: 'Has Our Government Spent $21 Trillion of Our Money without Telling Us?' in December 2017, 'Is Our Government Intentionally Hiding $21 Trillion in Spending?' in July 2018, and 'Holding U.S. Treasurys? Beware: Uncle Sam Can't Account for $21 Trillion' in January 2019. His role matters chiefly for the framing of the second and third pieces: an economist whose career has been spent arguing that the federal government's published fiscal accounts systematically understate obligations arrived independently at the view that the unsupported-adjustment record raised a question about the integrity of the accounts as a whole, and put that view in front of holders of Treasury securities. The July 2018 column's headline question - whether the concealment was intentional - was published nine months after the Department of Defense had, in August 2016, asked FASAB for the standard that became SFFAS 56, and three months before that standard issued.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Laurence J. Kotlikoff",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Mark Skidmore, research in finance and public finance (publication list)",
+"url": "https://mark-skidmore.com/research/research-in-finance-public-finance/"
+},
+{
+"date": "2018-07-21",
+"name": "Forbes, 'Is Our Government Intentionally Hiding $21 Trillion in Spending?'",
+"url": "https://www.forbes.com/sites/kotlikoff/2018/07/21/is-our-government-intentionally-hiding-21-trillion-in-spending/"
+}
+],
+"status": "active",
+"sub": "Professor of Economics, Boston University; co-author of the Forbes $21 trillion columns",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 1008 of 1027, score 8). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D2.",
+"timeline": [
+{
+"date": "2017-12",
+"id": "bb-tl-2017-12-forbes",
+"label": "First Kotlikoff-Skidmore Forbes column",
+"precision": "month",
+"strand": "oversight",
+"text": "'Has Our Government Spent $21 Trillion of Our Money without Telling Us?' puts the aggregate in front of a financial-markets readership. Two further columns follow in July 2018 and January 2019, the second asking directly whether the concealment is intentional.",
+"tier": "C"
+}
+],
+"unexplainedResidual": null,
+"unverified": [
+"Whether Kotlikoff independently verified any of the underlying OIG figures or relied on Skidmore's compilation."
+]
+}

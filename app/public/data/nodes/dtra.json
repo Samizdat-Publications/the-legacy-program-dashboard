@@ -1,0 +1,148 @@
+{
+"A": 3,
+"C": 2,
+"D": 1,
+"band": null,
+"claims": [
+{
+"source": "Records of the Defense Threat Reduction Agency, Record Group 374, sec. 374.1, Guide to Federal Records in the National Archives, https://www.archives.gov/research/guide-fed-records/groups/374.html",
+"text": "The National Archives record group description states the establishment: 'Established: In the Department of Defense (DOD) as a combat support agency, effective October 1, 1998, by DOD Directive 5105.62, September 30, 1998, consolidating the Defense Special Weapons Agency, the On-Site Inspection Agency, the Defense Technology Security Administration, and elements of the Office of the Secretary of Defense concerned with arms control programs management.'",
+"tier": 1
+},
+{
+"source": "Defense's Nuclear Agency 1947-1997, Defense Threat Reduction Agency, 2002, 'Epilogue: DTRA', DTIC ADA412977, https://archive.org/download/DTIC_ADA412977/DTIC_ADA412977_djvu.txt",
+"text": "The agency states its own lineage in its history: 'The nation's oldest defense agency thus lives on; MED to AFSWP to DAS A to DNA to DSWA to DTRA.' Secretary of Defense William S. Cohen formally established it in a ceremony at Dulles International Airport, and its first Director, Dr. Jay Davis, reported to the Under Secretary of Defense for Acquisition and Technology.",
+"tier": 1
+},
+{
+"source": "Privacy Act of 1974; System of Records, Defense Threat Reduction Agency, 63 FR 68736, 14 December 1998, system HDTRA 010, https://www.federalregister.gov/documents/1998/12/14/98-33042/privacy-act-of-1974-system-of-records",
+"text": "DTRA's own published inventory of records systems describes what it holds from the test era. HDTRA 010, Nuclear Test Participants, covers participants of the US nuclear testing programs and the occupation forces at Hiroshima and Nagasaki from 6 August 1945, holding 'dates and extent of test participation, exposure data, unit of assignment, medical data, and documentation relative to administrative claims or civil litigation', under authority including the Atomic Energy Act of 1954 and a tasking memorandum from the Office of the Secretary of Defense to the Director, Defense Nuclear Agency dated 28 January 1978.",
+"tier": 1
+},
+{
+"source": "Privacy Act of 1974; System of Records, Defense Threat Reduction Agency, 63 FR 68736, 14 December 1998, system HDTRA 020 and summary, https://www.federalregister.gov/documents/1998/12/14/98-33042/privacy-act-of-1974-system-of-records",
+"text": "The same notice records a second historical collection, HDTRA 020, Human Radiation Research Review, held at the Radiation Experiments Command Center in the Special Weapons Technology Directorate, containing information abstracted from historical records and covering 'human radiation experimentation conducted from 1944 to the present'. It reached DTRA on 1 October 1998 by transfer of the OSD system DUSDA 05.",
+"tier": 1
+},
+{
+"source": "Records of the Defense Threat Reduction Agency, Record Group 374, secs. 374.1 to 374.5, https://www.archives.gov/research/guide-fed-records/groups/374.html",
+"text": "The Atomic Energy Commission's records are a different archive. Record Group 374 covers 1943-73 and holds AFSWP general records, headquarters organisation records, the AFSWP special detachments assigned to Atomic Energy Commission facilities 1943-52 and the joint task force records; its Related Records entry names 'Records of the Atomic Energy Commission, RG 326' as a separate group.",
+"tier": 1
+},
+{
+"source": "Batch 17 file 03, 0:43;33-0:44;22, research/leads/area52-corpus-17.md; checked against RG 374, https://www.archives.gov/research/guide-fed-records/groups/374.html and 63 FR 68736, https://www.federalregister.gov/documents/1998/12/14/98-33042/privacy-act-of-1974-system-of-records",
+"text": "On Debriefed, episode 80, 20 March 2026, the guest Gerb, relaying Dylan Borland's testimony, said that 'old Atomic Energy Commission records held within' DTRA concluded that some UFOs were of non-human origin. No title, number or date was given. Nothing opened for this node supports it: the AEC's own records are in a separate National Archives record group, and DTRA's published inventory of what it holds from that era is nuclear test participation, exposure and human radiation experimentation records.",
+"tier": 2
+}
+],
+"cls": "institution",
+"cluster": "other",
+"connections": [
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "Holds nuclear test participation and radiation exposure records from the Commission's era, under Atomic Energy Act authority",
+"id": "atomic-energy-commission",
+"l0": true,
+"label": "Atomic Energy Commission",
+"note": "DTRA's published Privacy Act inventory states it holds nuclear test participation and exposure records reaching back to 1945 and human radiation experimentation records reaching back to 1944, with the Atomic Energy Act of 1954 among its authorities. The Commission's own records are held separately by the National Archives as RG 326.",
+"sources": [
+{
+"date": "1998-12-14",
+"name": "63 FR 68736, systems HDTRA 010 and HDTRA 020",
+"url": "https://www.federalregister.gov/documents/1998/12/14/98-33042/privacy-act-of-1974-system-of-records"
+}
+],
+"tier": "A",
+"type": "custody"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "Established as a DoD combat support agency by DoD Directive 5105.62",
+"id": "dod",
+"l0": true,
+"label": "United States Department of Defense (secondary designation: Department of War)",
+"note": "Effective 1 October 1998 by DoD Directive 5105.62 of 30 September 1998, consolidating DSWA, OSIA, DTSA and OSD arms control elements.",
+"sources": [
+{
+"date": "1998-10-01",
+"name": "RG 374, sec. 374.1",
+"url": "https://www.archives.gov/research/guide-fed-records/groups/374.html"
+}
+],
+"tier": "A",
+"type": "institutional"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "1998-10-01",
+"deg": 2,
+"denials": [],
+"desc": "The Defense Threat Reduction Agency was established in the Department of Defense as a combat support agency effective 1 October 1998 by DoD Directive 5105.62 of 30 September 1998, consolidating the Defense Special Weapons Agency, the On-Site Inspection Agency, the Defense Technology Security Administration and elements of the Office of the Secretary of Defense concerned with arms control. Its own agency history traces an unbroken line from the Manhattan Engineer District through AFSWP, DASA, DNA and DSWA, and calls it the nation's oldest defense agency. Its published Privacy Act inventory records that it holds nuclear test participation and exposure records reaching back to 1945 and human radiation experimentation records reaching back to 1944. The National Archives holds the AFSWP, DASA and DNA era textual records as Record Group 374 and names the Atomic Energy Commission's own records, Record Group 326, as a separate related group.",
+"domains": [
+"area52-2026-09-02"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "1",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "dtra",
+"l0": false,
+"label": "Defense Threat Reduction Agency",
+"locLabel": null,
+"members": null,
+"short": "Defense Threat Reduction Agency",
+"sources": [
+{
+"date": "2026-09-02",
+"name": "Records of the Defense Threat Reduction Agency, Record Group 374, Guide to Federal Records in the National Archives",
+"url": "https://www.archives.gov/research/guide-fed-records/groups/374.html"
+},
+{
+"date": "2002-01-01",
+"name": "Defense's Nuclear Agency 1947-1997, Defense Threat Reduction Agency, 2002, DTIC ADA412977",
+"url": "https://archive.org/details/DTIC_ADA412977"
+},
+{
+"date": "1998-12-14",
+"name": "Privacy Act of 1974; System of Records, Defense Threat Reduction Agency, 63 FR 68736",
+"url": "https://www.federalregister.gov/documents/1998/12/14/98-33042/privacy-act-of-1974-system-of-records"
+},
+{
+"date": "2005-08-09",
+"name": "Defense Threat Reduction Agency; Privacy Act of 1974; System of Records, HDTRA 010, 70 FR 46154",
+"url": "https://www.federalregister.gov/documents/2005/08/09/05-15670/defense-threat-reduction-agency-privacy-act-of-1974-system-of-records"
+},
+{
+"date": null,
+"name": "Defense's Nuclear Agency 1947-1997, Defense Threat Reduction Agency, 2002, 'Epilogue: DTRA', DTIC ADA412977",
+"url": "https://archive.org/download/DTIC_ADA412977/DTIC_ADA412977_djvu.txt"
+}
+],
+"sub": "DoD combat support agency, 1998 to present; heir of AFSWP, DASA, DNA and DSWA",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 235 of 1027, score 41). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A3/D1.",
+"timeline": [
+{
+"date": "1998-10-01",
+"id": "tl-1998-10-01-dtra-established",
+"label": "The Defense Threat Reduction Agency is established, heir to AFSWP",
+"precision": "day",
+"strand": "oversight",
+"text": "DTRA is established in the Department of Defense as a combat support agency by DoD Directive 5105.62 of 30 September 1998, consolidating the Defense Special Weapons Agency, the On-Site Inspection Agency, the Defense Technology Security Administration and OSD arms control elements. Its own history states the line: 'The nation's oldest defense agency thus lives on; MED to AFSWP to DAS A to DNA to DSWA to DTRA.' The Atomic Energy Commission's own records are a separate National Archives group, RG 326, not RG 374.",
+"tier": "B"
+}
+]
+}

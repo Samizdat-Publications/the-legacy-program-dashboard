@@ -1,0 +1,118 @@
+{
+"A": 1,
+"C": 0,
+"D": 0,
+"band": null,
+"claims": [
+{
+"source": "Brookhaven National Laboratory, 'About Brookhaven', https://www.bnl.gov/about/",
+"text": "Brookhaven National Laboratory states that 'Brookhaven Lab is managed for the Office of Science by Brookhaven Science Associates, a partnership between Stony Brook University and Battelle, and six core universities: Columbia, Cornell, Harvard, Massachusetts Institute of Technology, Princeton, and Yale.'",
+"tier": 1
+},
+{
+"source": "Brookhaven National Laboratory, 'About Brookhaven', https://www.bnl.gov/about/",
+"text": "The same site states that 'BSA is a partnership between Battelle and The Research Foundation for the State University of New York on behalf of Stony Brook University.'",
+"tier": 1
+},
+{
+"source": "USAspending.gov award search, recipient Brookhaven Science Associates, https://api.usaspending.gov/api/v2/search/spending_by_award/",
+"text": "Brookhaven Science Associates LLC holds Department of Energy contract DESC0012704, described on USAspending as the management-and-operating contract for BNL, running 5 January 2015 to 4 January 2030 with recorded obligations of $8,629,200,535.17.",
+"tier": 1
+},
+{
+"source": "USAspending.gov award search, recipient Brookhaven Science Associates, https://api.usaspending.gov/api/v2/search/spending_by_award/",
+"text": "The predecessor contract DEAC0298CH10886, described as 'OPERATION OF BROOKHAVEN NATIONAL LABORATORY', ran 15 October 1999 to 4 January 2015 with recorded obligations of $7,896,665,930.11 to the same recipient.",
+"tier": 1
+},
+{
+"source": "DEBRIEFED with Chris Ramsay, 'Jesse Michels, UAPGerb & Chris Ramsay - Flying Saucer Diner', 17 July 2026, 1:01:18, transcript in dist/transcripts/md/",
+"text": "On DEBRIEFED with Chris Ramsay, 17 July 2026, at 1:01:18, a panel speaker said that James Simons 'oversees' Stony Brook and Brookhaven National Laboratory and called the pairing with the Medallion Fund and the Simons Foundation an 'iron triangle', adding in the same passage 'This is a lot of crazy connections.' No document opened here names Simons in connection with either body.",
+"tier": 2
+}
+],
+"cls": "institution",
+"cluster": "research",
+"connections": [
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "1999-10-15",
+"direction": "out",
+"edgeLabel": "The two named partners in Brookhaven Science Associates LLC",
+"id": "battelle",
+"l0": true,
+"label": "Battelle Memorial Institute",
+"note": "Stony Brook and Battelle are the two named partners in Brookhaven Science Associates LLC, which holds the DOE management-and-operating contract for Brookhaven National Laboratory.",
+"sources": [
+{
+"date": "2026-09-02",
+"name": "Brookhaven National Laboratory, About Brookhaven",
+"url": "https://www.bnl.gov/about/"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "2030-01-04",
+"dateStart": "1999-10-15",
+"direction": "out",
+"edgeLabel": "DOE is the contracting agency for both Brookhaven management-and-operating contracts",
+"id": "doe",
+"l0": true,
+"label": "United States Department of Energy",
+"note": "The Department of Energy is the contracting agency for both Brookhaven management-and-operating contracts, DEAC0298CH10886 and DESC0012704.",
+"sources": [
+{
+"date": "2026-09-02",
+"name": "USAspending.gov award search API, contracts DEAC0298CH10886 and DESC0012704",
+"url": "https://api.usaspending.gov/api/v2/search/spending_by_award/"
+}
+],
+"tier": "A",
+"type": "funding"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "1999-10-15",
+"deg": 2,
+"denials": [],
+"desc": "A State University of New York campus that is one of the two named partners in Brookhaven Science Associates LLC, the entity holding the Department of Energy management-and-operating contract for Brookhaven National Laboratory. The other named partner is Battelle, which this board already carries as its most persistent institution. Brookhaven's own statement routes Stony Brook's participation through The Research Foundation for the State University of New York and adds six core universities. It is drafted here because the board states that Battelle is a partner in Brookhaven without naming the other partner, and because a podcast panel used the Stony Brook and Brookhaven pairing as an innuendo where the record offers a contract.",
+"domains": [
+"area52-2026-09-02"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "1",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "stony-brook-university",
+"l0": false,
+"label": "Stony Brook University",
+"locLabel": null,
+"members": null,
+"short": "Stony Brook University",
+"sources": [
+{
+"date": "2026-09-02",
+"name": "Brookhaven National Laboratory, About Brookhaven",
+"url": "https://www.bnl.gov/about/"
+},
+{
+"date": "2026-09-02",
+"name": "USAspending.gov award search API, recipient Brookhaven Science Associates, contracts DEAC0298CH10886 and DESC0012704",
+"url": "https://api.usaspending.gov/api/v2/search/spending_by_award/"
+}
+],
+"sub": "SUNY campus; one of the two named partners in Brookhaven Science Associates LLC, which holds the DOE contract for Brookhaven National Laboratory",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 707 of 1027, score 22). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A1/D0.",
+"timeline": []
+}

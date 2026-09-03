@@ -1,0 +1,141 @@
+{
+"A": 0,
+"C": 0,
+"D": 3,
+"affiliations": [
+"Richard Dolan Press",
+"The Richard Dolan Show",
+"Keyhole Publishing"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "2002",
+"event": "'UFOs and the National Security State: Chronology of a Cover-Up, 1941-1973'",
+"precision": "year"
+},
+{
+"date": "2009",
+"event": "'UFOs and the National Security State: The Cover-Up Exposed, 1973-1991'",
+"precision": "year"
+},
+{
+"date": "2022-09-28",
+"event": "Publishes analysis of the Davis-Wilson notes describing a 2002 meeting on a deeply secret reverse-engineering programme",
+"precision": "day"
+}
+],
+"claims": [
+{
+"source": "Dolan, 'UFOs and the National Security State', vols. I and II",
+"text": "Dolan's two-volume 'UFOs and the National Security State' covers 1941-1973 (2002) and 1973-1991 (2009) and situates the UFO record within the documented growth of the US national security apparatus.",
+"tier": 2
+},
+{
+"source": "The Richard Dolan Show, 'No More Excuses: The Davis Wilson Notes', 28 September 2022 (archived copy)",
+"text": "Dolan publicly analysed the Davis-Wilson notes - a record of a 2002 meeting said to describe a deeply secret extraterrestrial technology reverse-engineering programme - in a broadcast dated 28 September 2022.",
+"tier": 2
+},
+{
+"source": "Structural comparison of Dolan's method with the witness-driven literature",
+"text": "Dolan's frame, not his sources, is his contribution: he is the researcher who moved the field's burden of proof from 'prove a saucer crashed' to 'account for the documented secrecy architecture and its unaudited compartments.' Reasoning: his volumes are built on statutes, reorganisation records and programme structure, all independently checkable, and the post-2017 congressional record adopted the same frame.",
+"tier": 3
+}
+],
+"cls": "person",
+"cluster": "research",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 3,
+"cls": "person",
+"dateEnd": "2026",
+"dateStart": "2002",
+"direction": "out",
+"edgeLabel": "Dolan's institutional frame and Hastings's nuclear casework are complementary",
+"id": "robert-hastings",
+"l0": false,
+"label": "Robert L. Hastings",
+"note": "Dolan argues concealment from the documented secrecy architecture; Hastings supplies the best-documented category of incident occurring inside the most heavily compartmented part of that architecture. Reasoning: the nuclear weapons complex is where SAP density and incident documentation coincide.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "UFOs & Nukes document archive",
+"url": "https://www.ufohastings.com/documents"
+}
+],
+"tier": "B",
+"type": "research"
+},
+{
+"claimTier": 2,
+"cls": "document",
+"dateEnd": "2009",
+"dateStart": "2002",
+"direction": "out",
+"edgeLabel": "Authored the two-volume documentary chronology",
+"id": "ufos-national-security-state",
+"l0": false,
+"label": "UFOs and the National Security State, vols. I-II (Dolan, 2002 and 2009)",
+"note": "Dolan wrote 'Chronology of a Cover-Up, 1941-1973' (2002) and 'The Cover-Up Exposed, 1973-1991' (2009).",
+"sources": [
+{
+"date": "2009-10-31",
+"name": "Universal Talk 2009 interview with Richard M. Dolan (archived)",
+"url": "https://archive.org/details/UniversalTalk2009WithGuestRichardM.Dolan"
+}
+],
+"tier": "C",
+"type": "research"
+}
+],
+"date": "2022-09-28",
+"dateEnd": null,
+"dateStart": "2022-09-28",
+"deg": 2,
+"denials": [],
+"domains": [
+"w2-retrieval-literature"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "richard-dolan",
+"instId": null,
+"l0": false,
+"label": "Richard M. Dolan",
+"loc": "Rochester, NY",
+"locId": null,
+"members": null,
+"narrative": "Richard M. Dolan is the field's historian rather than its investigator, and that distinction is the point. Trained in history - he studied at Alfred University and Oxford and was a Rhodes Scholar finalist, with graduate work at the University of Rochester on Cold War strategy and the national security state - he wrote 'UFOs and the National Security State: Chronology of a Cover-Up, 1941-1973' (2002) and 'UFOs and the National Security State: The Cover-Up Exposed, 1973-1991' (2009). The two volumes did something the crash-retrieval literature had never done: they placed the UFO record inside the documented institutional history of American secrecy - the National Security Act of 1947, the special access programme structure, the intelligence reorganisations, contractor black programmes - and argued that the concealment is a normal output of that machinery rather than an exotic conspiracy requiring exotic explanation. Dolan coined and popularised the 'breakaway civilisation' formulation for a technologically self-sustaining compartment operating outside public accountability. He hosts The Richard Dolan Show, has published on the Wilson-Davis memorandum and on the 2020-2023 disclosure sequence, and is one of the small number of researchers whose framing survived the transition from the 1990s literature to the post-2017 congressional era intact - because it was built on the secrecy architecture, which is documented, rather than on witness testimony, which is not.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Richard M. Dolan",
+"sources": [
+{
+"date": "2022-09-28",
+"name": "Richard Dolan Show - 'No More Excuses: The Davis Wilson Notes' (archived)",
+"url": "https://archive.org/details/youtube-Y26ron2WYrA"
+},
+{
+"date": "2009-10-31",
+"name": "Universal Talk 2009 interview with Richard M. Dolan (archived)",
+"url": "https://archive.org/details/UniversalTalk2009WithGuestRichardM.Dolan"
+}
+],
+"status": "active",
+"sub": "Historian; author, 'UFOs and the National Security State' vols. I-II",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 922 of 1027, score 13). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.",
+"timeline": [],
+"unexplainedResidual": null,
+"unverified": [
+"Dolan's date of birth. His academic credentials are as he states them; a registrar confirmation has not been obtained here."
+]
+}

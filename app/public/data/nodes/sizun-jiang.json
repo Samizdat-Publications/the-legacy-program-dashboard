@@ -1,0 +1,92 @@
+{
+"A": 0,
+"C": 1,
+"D": 0,
+"affiliations": [
+"Stanford University School of Medicine, Nolan laboratory",
+"Beth Israel Deaconess Medical Center / Harvard Medical School"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "2022-01-01",
+"event": "Co-authors the SIMS/MIBI Council Bluffs analysis.",
+"precision": "month"
+}
+],
+"claims": [
+{
+"source": "Progress in Aerospace Sciences, DOI 10.1016/j.paerosci.2021.100788",
+"text": "Jiang is third author of Progress in Aerospace Sciences 128 (2022) 100788.",
+"tier": 1
+}
+],
+"cls": "person",
+"cluster": "research",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": "2022",
+"direction": "out",
+"edgeLabel": "Instrument operator and third author",
+"id": "paper-nolan-vallee-2022",
+"l0": true,
+"label": "Nolan, Vallee, Jiang & Lemke (2022), Progress in Aerospace Sciences 128:100788",
+"note": "Jiang, then of the Nolan laboratory, ran the multiplexed ion beam imaging that produced the incomplete-mixing result.",
+"sources": [
+{
+"date": "2022-01-01",
+"name": "Nolan, Vallee, Jiang & Lemke, 'Improved instrumental techniques, including isotopic analysis, applicable to the characterization of unusual materials with potential relevance to aerospace forensics', Progress in Aerospace Sciences 128:100788",
+"url": "https://doi.org/10.1016/j.paerosci.2021.100788"
+}
+],
+"tier": "B",
+"type": "investigative"
+}
+],
+"date": "2022-01-01",
+"dateEnd": null,
+"dateStart": "2022-01-01",
+"deg": 1,
+"denials": [],
+"domains": [
+"scientists-technical"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "sizun-jiang",
+"instId": "stanford-nolan-lab",
+"l0": false,
+"label": "Sizun Jiang",
+"loc": "Boston, MA",
+"locId": null,
+"members": null,
+"narrative": "Jiang is the instrument operator on the record - the third author of the 2022 Progress in Aerospace Sciences paper and, at the time, a member of Nolan's Stanford laboratory working on multiplexed ion beam imaging. His inclusion is what makes the Council Bluffs analysis reproducible in principle: MIBI at 200 nanometre lateral resolution with five-nanometre depth increments is not a technique a lone enthusiast can wield, and the paper's central finding - incomplete mixing of the constituent metals with no isotopic anomaly - is an imaging result before it is an interpretive one. He has since moved into infectious-disease and cancer spatial-biology work at Beth Israel Deaconess/Harvard, which is the ordinary trajectory; the UAP paper sits in his record as a single, clearly methodological contribution.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Sizun Jiang",
+"sources": [
+{
+"date": "2022-01-01",
+"name": "Nolan, Vallee, Jiang & Lemke, 'Improved instrumental techniques, including isotopic analysis, applicable to the characterization of unusual materials with potential relevance to aerospace forensics', Progress in Aerospace Sciences 128:100788",
+"url": "https://doi.org/10.1016/j.paerosci.2021.100788"
+}
+],
+"status": "active",
+"sub": "Multiplexed ion beam imaging specialist, formerly Nolan laboratory, Stanford; co-author of the 2022 UAP materials analysis",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 1007 of 1027, score 8). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A0/D0.",
+"timeline": [],
+"unexplainedResidual": null,
+"unverified": []
+}

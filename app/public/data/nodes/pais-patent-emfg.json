@@ -1,0 +1,135 @@
+{
+"A": 1,
+"C": 1,
+"D": 0,
+"band": null,
+"claims": [
+{
+"source": "https://www.freepatentsonline.com/10135366.html",
+"text": "US Patent 10,135,366, 'Electromagnetic field generator and method to generate an electromagnetic field', application 14/807943, filed 24 July 2015, published 20 November 2018, assignee 'The United States of America as represented by the Secretary of the Navy'.",
+"tier": 2
+},
+{
+"source": "USPTO application data for 14/807943 (product PTGRXML, data.uspto.gov), retrieved from the file wrapper 28 August 2026",
+"text": "Application 14/807,943 was examined by Thomas M. Dougherty in Art Unit 2837 under Navy docket PAX 182, confirmation number 9752, with Shawki Ismail named as supervisor. That is a different examiner and a different art unit from the craft application 15/141,270, which Philip J. Bonzell examined in Art Units 3644 and 3642.",
+"tier": 1
+},
+{
+"source": "USPTO application data for 14/807943 (product PTGRXML, data.uspto.gov), retrieved from the file wrapper 28 August 2026",
+"text": "Pais executed the assignment of application 14/807,943 to the Department of the Navy on 23 July 2015, the day before filing; it was recorded on 24 July 2015 at reel and frame 036176/0499 as an 'ASSIGNMENT OF ASSIGNOR'S INTEREST', assignee 'DEPARTMENT OF THE NAVY', 47076 Liljencrantz Road, Bldg. 435, Patuxent River, Maryland.",
+"tier": 1
+},
+{
+"source": "USPTO application data for 14/807943 (product PTGRXML, data.uspto.gov), retrieved from the file wrapper 28 August 2026",
+"text": "The prosecution was short and uncontested. One non-final rejection was written on 12 June 2018 and mailed 20 June 2018; an applicant-initiated telephonic interview followed on 10 July 2018; the applicant responded on 19 July 2018; and the Notice of Allowability was signed on 13 September 2018. There was no final rejection, no affidavit or declaration under 37 CFR 1.132, no Notice of Appeal and no appeal brief.",
+"tier": 1
+},
+{
+"source": "USPTO file wrapper, application 14/807,943, Notice of Allowability (PTOL-37) signed 13 September 2018 (Paper No. 20180913) and Notice of Allowance and Fee(s) Due (PTOL-85) mailed 10 October 2018, examiner Thomas M. Dougherty; transcribed at research/patents/wrapper/pax182-notice-of-allowability-2018-09-13.txt",
+"text": "The reason given for allowance is novelty over the prior art and nothing else: 'The following is an examiner's statement of reasons for allowance: the prior art fails to show a high energy electromagnetic field generator, comprising: a shell, the shell having embedded polycrystalline ferroelectric ceramic material, the material being polarized such that the ceramic material exhibits strong Piezoelectric Effect properties thus inducing high frequency vibrations'. Claims 1-12 were allowed. The only change made was an examiner's amendment deleting one line of claim 11 'to correct a typographical error'.",
+"tier": 1
+},
+{
+"source": "USPTO file wrapper, application 14/807,943, Notice of Allowability (PTOL-37) signed 13 September 2018 (Paper No. 20180913) and Notice of Allowance and Fee(s) Due (PTOL-85) mailed 10 October 2018, examiner Thomas M. Dougherty; transcribed at research/patents/wrapper/pax182-notice-of-allowability-2018-09-13.txt",
+"text": "The Notice of Allowance and Fee(s) Due was mailed on 10 October 2018 to the Department of the Navy, entity status 'UNDISCOUNTED', total fee due $1,000, payable by 10 January 2019. USPTO records the issue fee as received and verified on 10 October 2018, the day the notice was mailed, and the patent granted on 20 November 2018.",
+"tier": 1
+},
+{
+"source": "USPTO application data for 14/807943 (product PTGRXML, data.uspto.gov), retrieved from the file wrapper 28 August 2026",
+"text": "The application published as US 2017/0025935 A1 on 26 January 2017, twenty-two months before grant, so the disclosure entered the prior art in January 2017 whatever later became of the patent right. The case accrued 753 days of patent term adjustment, 634 of them attributed to USPTO delay in issuing a first action.",
+"tier": 1
+},
+{
+"source": "USPTO application data for 14/807943 (product PTGRXML, data.uspto.gov), retrieved from the file wrapper 28 August 2026",
+"text": "US 10,135,366 is EXPIRED. USPTO application data gives the status of 14/807,943 as 'Patent Expired Due to NonPayment of Maintenance Fees Under 37 CFR 1.362' with a status date of 26 December 2022, and the event log records 'Maintenance Fee Reminder Mailed' on 11 July 2022 and 'Expire Patent' on 26 December 2022. Under 37 CFR 1.362(g) the expiry runs from the fourth anniversary of grant, 20 November 2022; 26 December 2022 is the date the Office posted it.",
+"tier": 1
+}
+],
+"cls": "document",
+"cluster": "research",
+"connections": [
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2018-11-20",
+"dateStart": "2015-07-24",
+"direction": "in",
+"edgeLabel": "Named inventor",
+"id": "salvatore-pais",
+"l0": false,
+"label": "Salvatore Cezar Pais",
+"note": "Application 14/807943, assigned to the Secretary of the Navy.",
+"sources": [
+{
+"date": null,
+"name": "US Patent 10,135,366",
+"url": "https://www.freepatentsonline.com/10135366.html"
+}
+],
+"tier": "A",
+"type": "programmatic"
+}
+],
+"coords": null,
+"dateEnd": "2022-12-26",
+"dateStart": "2015-07-24",
+"deg": 1,
+"denials": [],
+"desc": "The earliest of the five filings and the foundation of the set, since every later device depends on generating and manipulating high-energy electromagnetic fields. Application 14/807943, filed 24 July 2015, granted 20 November 2018, assigned to the Secretary of the Navy. The abstract describes a generator comprising a shell, an electrostatic generator, a power plant and a thermoelectric generator. Its file wrapper was obtained and read on 28 August 2026 and it is the control case for the craft application. One non-final rejection, one telephone interview, one response, and allowance on the ground that the prior art did not show the device. Enablement was never raised. A different examiner in a different art unit handled it, and it too has now lapsed for non-payment of the first maintenance fee.",
+"domains": [
+"pais-patents"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "2",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "pais-patent-emfg",
+"l0": false,
+"label": "US Patent 10,135,366 - Electromagnetic field generator",
+"locLabel": null,
+"members": null,
+"short": "US Patent 10,135,366 - Electromagnetic field generator",
+"sources": [
+{
+"date": null,
+"name": "US Patent 10,135,366",
+"url": "https://www.freepatentsonline.com/10135366.html"
+}
+],
+"sub": "Application 14/807943, filed 24 July 2015, granted 20 November 2018; assignee the Secretary of the Navy; expired for non-payment of maintenance fees, recorded 26 December 2022",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 366 of 1027, score 34). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A1/D0.",
+"timeline": [
+{
+"date": "2018-06-20",
+"id": "tl-pais-emfg-nonfinal",
+"label": "The only rejection the electromagnetic field generator ever drew",
+"precision": "day",
+"strand": "program",
+"text": "USPTO mailed the single non-final rejection in application 14/807943. A telephone interview followed on 10 July and the applicant responded on 19 July. Enablement was never raised in this case.",
+"tier": "1"
+},
+{
+"date": "2018-09-13",
+"id": "tl-pais-emfg-allowed",
+"label": "Electromagnetic field generator allowed on prior art, not on enablement",
+"precision": "day",
+"strand": "program",
+"text": "The Notice of Allowability for application 14/807943 allowed claims 1-12 because 'the prior art fails to show' the claimed generator. The craft application, which incorporates this generator by reference, was under appeal at that moment for being impossible.",
+"tier": "1"
+},
+{
+"date": "2022-12-26",
+"id": "tl-pais-emfg-expiry",
+"label": "US 10,135,366 expires for non-payment of maintenance fees",
+"precision": "day",
+"strand": "program",
+"text": "The first of the two granted Pais patents lapsed for non-payment of the first maintenance fee, five weeks before the inertial mass reduction patent did the same. USPTO had mailed a maintenance fee reminder on 11 July 2022.",
+"tier": "1"
+}
+]
+}

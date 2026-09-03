@@ -1,0 +1,357 @@
+{
+"A": 0,
+"C": 0,
+"D": 3,
+"band": "research",
+"claims": [
+{
+"source": "Episode description, American Alchemy, 11 January 2026",
+"text": "The episode asserts the effort is a layered, compartmentalized system descended from the Manhattan Project, the Atomic Energy Commission and Cold War intelligence structures - not a single program.",
+"tier": 2
+},
+{
+"source": "Timestamped chapter list published in the episode description",
+"text": "The episode's structure names as load-bearing components: a pyramid of contractors, a 'Modern Majestic 12' control group, the Office of Global Access, MITRE, the DOE NEST, the 1954 Atomic Energy Agreement and the Y-12 Complex.",
+"tier": 2
+},
+{
+"source": "Episode description, 11 January 2026",
+"text": "The description states former Vice President Dick Cheney is implicated in the American UFO reverse engineering program.",
+"tier": 2
+}
+],
+"cls": "document",
+"cluster": "media",
+"connections": [
+{
+"claimTier": 2,
+"cls": "institution",
+"dateEnd": "2026",
+"dateStart": "2026",
+"direction": "out",
+"edgeLabel": "Dedicated chapter 'The Office of Global Access' at 43:04",
+"id": "cia",
+"l0": true,
+"label": "Central Intelligence Agency",
+"note": "The Office of Global Access, an element associated with CIA's Directorate of Science and Technology, is given a named chapter; Gerb separately links CIA OGA to NRO, MITRE and the Executive branch in his NRO investigation.",
+"sources": [
+{
+"date": "2026-01-11",
+"name": "American Alchemy - 'The Pentagon's UFO Program Is Real [Here's How It Works!]'",
+"url": "https://www.youtube.com/watch?v=u7g5Sn1DJF4"
+},
+{
+"date": "2025-12-13",
+"name": "UAP Gerb - NRO investigation",
+"url": "https://www.youtube.com/watch?v=GM1Qx9vuo2c"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 2,
+"cls": "domain",
+"dateEnd": null,
+"dateStart": "2026-01-11",
+"direction": "out",
+"edgeLabel": "the most detailed structural reconstruction in circulation, published on a YouTube channel",
+"id": "d-media",
+"l0": false,
+"label": "Independent media as the disclosure substrate",
+"note": "A three-hour-plus American Alchemy episode published 11 January 2026 in which UAP Gerb walks Jesse Michels through air force bases, deep underground facilities and federally funded research organisations alleged to be involved in retrieval and exploitation. That the fullest available reconstruction exists as a podcast episode rather than a published investigation is the domain's defining fact.",
+"sources": [
+{
+"date": "2026-01-11",
+"name": "American Alchemy, 'The Pentagon's UFO Program Is Real [Here's How It Works!] ft. UAPGerb' (YouTube)",
+"url": "https://www.youtube.com/watch?v=u7g5Sn1DJF4"
+},
+{
+"date": "2026-01-11",
+"name": "American Alchemy with Jesse Michels, 'The Hidden UFO Program Is Real - Here's How It Works! (ft. UAPGerb)' (Apple Podcasts listing)",
+"url": "https://podcasts.apple.com/us/podcast/the-hidden-ufo-program-is-real-heres-how-it-works-ft-uapgerb/id1771917740?i=1000744706983"
+}
+],
+"tier": "C",
+"type": "investigative"
+},
+{
+"claimTier": 2,
+"cls": "institution",
+"dateEnd": "2026",
+"dateStart": "2026",
+"direction": "out",
+"edgeLabel": "Dedicated chapter 'The DOE NEST' at 1:22:01",
+"id": "doe",
+"l0": true,
+"label": "United States Department of Energy",
+"note": "The episode places the Department of Energy's Nuclear Emergency Support Team inside the crash-retrieval architecture, consistent with the AEC-custody thesis.",
+"sources": [
+{
+"date": "2026-01-11",
+"name": "American Alchemy - 'The Pentagon's UFO Program Is Real [Here's How It Works!]'",
+"url": "https://www.youtube.com/watch?v=u7g5Sn1DJF4"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2026",
+"dateStart": "2026",
+"direction": "in",
+"edgeLabel": "Michels produced and hosted the structural episode",
+"id": "jesse-michels",
+"l0": false,
+"label": "Jesse Michels",
+"note": "Michels is host and publisher of the 11 January 2026 episode whose description states the effort is 'not one program' but 'a layered, compartmentalized system that grew out of the Manhattan Project, the Atomic Energy Commission, and Cold War intelligence structures.'",
+"sources": [
+{
+"date": "2026-01-11",
+"name": "American Alchemy - 'The Pentagon's UFO Program Is Real [Here's How It Works!]'",
+"url": "https://www.youtube.com/watch?v=u7g5Sn1DJF4"
+}
+],
+"tier": "B",
+"type": "investigative"
+},
+{
+"claimTier": 2,
+"cls": "program",
+"dateEnd": "2026",
+"dateStart": "2026",
+"direction": "out",
+"edgeLabel": "The episode's thesis is the Manhattan Project 2.0 architecture",
+"id": "manhattan-project-2",
+"l0": true,
+"label": "'Manhattan Project 2.0' (alleged secrecy architecture)",
+"note": "The episode description explicitly derives the modern system from the Manhattan Project, the Atomic Energy Commission and Cold War intelligence structures - the same lineage Gerb sets out at length in his May and June 2026 two-part series.",
+"sources": [
+{
+"date": "2026-01-11",
+"name": "American Alchemy - 'The Pentagon's UFO Program Is Real [Here's How It Works!]'",
+"url": "https://www.youtube.com/watch?v=u7g5Sn1DJF4"
+},
+{
+"date": "2026-05-01",
+"name": "UAP Gerb - 'The Manhattan Project 2.0' Vol.1",
+"url": "https://www.youtube.com/watch?v=jR-h5p2bd-A"
+},
+{
+"date": "2026-06-19",
+"name": "UAP Gerb - 'Special Access Required' Vol.2",
+"url": "https://www.youtube.com/watch?v=6MsmPrpQqa8"
+}
+],
+"tier": "A",
+"type": "programmatic"
+},
+{
+"claimTier": 2,
+"cls": "institution",
+"dateEnd": "2026",
+"dateStart": "2026",
+"direction": "out",
+"edgeLabel": "Dedicated chapter 'The Role of MITRE' at 51:28",
+"id": "mitre-corporation",
+"l0": true,
+"label": "The MITRE Corporation",
+"note": "MITRE is given a named chapter inside the structural episode, seven months before Gerb published his full MITRE investigation - establishing that MITRE was already central to the model in January 2026.",
+"sources": [
+{
+"date": "2026-01-11",
+"name": "American Alchemy - 'The Pentagon's UFO Program Is Real [Here's How It Works!]'",
+"url": "https://www.youtube.com/watch?v=u7g5Sn1DJF4"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2026",
+"dateStart": "2026",
+"direction": "in",
+"edgeLabel": "Gerb is the sole interviewee and source of the structural model",
+"id": "uap-gerb",
+"l0": false,
+"label": "'UAP Gerb' (Sam)",
+"note": "The episode is a single-guest exposition in which Gerb lays out the contractor pyramid, the alleged modern control group, the Office of Global Access, MITRE's role, the DOE NEST and the 1954 Atomic Energy Agreement as the architecture of the effort.",
+"sources": [
+{
+"date": "2026-01-11",
+"name": "American Alchemy - 'The Pentagon's UFO Program Is Real [Here's How It Works!]'",
+"url": "https://www.youtube.com/watch?v=u7g5Sn1DJF4"
+}
+],
+"tier": "A",
+"type": "witness-chain"
+}
+],
+"coords": null,
+"dateEnd": "2026",
+"dateStart": "2026",
+"deg": 7,
+"denials": [],
+"desc": "The single most important media artefact in this domain: a three-hour-thirteen-minute American Alchemy episode published 11 January 2026 in which UAP Gerb lays out, to Jesse Michels, what its own description calls 'the most detailed reconstruction yet of how the U.S. government has organized UFO crash retrieval, storage, and technology exploitation since the 1940s.' The chapter list is effectively the table of contents of the alleged architecture and should be read as such: Legacy Programs (06:00), The Pyramid of Contractors (12:03), Whistleblowers and Leaks (16:46), Modern Majestic 12 (23:50), Exploring the IPU Docs (27:10), A Naval Perspective (31:08), The Administrators of Secrecy (32:24), Individuals in the Shadows (37:38), The Office of Global Access (43:04), The Conflict of Interest (49:48), The Role of MITRE (51:28), The Alien Reproduction Vehicle (1:09:22), Crash Retrieval Teams (1:19:53), The DOE NEST (1:22:01), Agencies and Contractors (1:24:58), The Roswell Incident (1:28:08), The 1954 Atomic Energy Agreement (1:30:25), The GAO Audit (1:31:55), The Y-12 Complex (1:32:56), Underground Military Bases (1:44:25), Marconi's Involvement (2:04:48), The Legacy of Eric Henry Wang (2:07:16), The Shadow Government (2:38:42), Locations of Alien Bodies (2:39:28), Controlled Disclosure Dynamics (2:28:42), The Role of Psyops (2:51:34). The description additionally states that former Vice President Dick Cheney is 'implicated in the American UFO reverse engineering program.' 514,729 views as of 12 August 2026.",
+"domains": [
+"media-structure"
+],
+"dossier": {
+"claims": [
+{
+"source": "https://podcasts.apple.com/us/podcast/the-hidden-ufo-program-is-real-heres-how-it-works-ft-uapgerb/id1771917740?i=1000744706983",
+"text": "The episode 'The Hidden UFO Program Is Real - Here's How It Works! (ft. UAPGerb)' was published on American Alchemy with Jesse Michels on 11 January 2026 at 7:15 PM UTC with a running time of 3 hours 54 minutes.",
+"tier": 1
+},
+{
+"source": "https://podcasts.apple.com/us/podcast/the-hidden-ufo-program-is-real-heres-how-it-works-ft-uapgerb/id1771917740?i=1000744706983 (episode timestamps as published)",
+"text": "The episode's published chapter structure includes 'Legacy Programs' (6:00), 'The Pyramid of Contractors' (12:03), 'Whistleblowers and Leaks' (16:46), 'Modern Majestic 12' (23:50), 'Exploring the IPU Docs' (27:10), 'The Administrators of Secrecy' (32:24) and 'Individuals in the Shadows' (37:38).",
+"tier": 1
+},
+{
+"source": "https://podcasts.apple.com/us/podcast/the-hidden-ufo-program-is-real-heres-how-it-works-ft-uapgerb/id1771917740?i=1000744706983",
+"text": "The published chapter list places 'The Office of Global Access' at 43:04, 'The Conflict of Interest' at 49:48 and 'The Role of MITRE' at 51:28, asserting a custodial or coordinating role for a federally funded research and development center operator in the legacy program structure.",
+"tier": 1
+},
+{
+"source": "https://podcasts.apple.com/us/podcast/the-hidden-ufo-program-is-real-heres-how-it-works-ft-uapgerb/id1771917740?i=1000744706983",
+"text": "The episode devotes segments to a Department of Energy thread: 'The DOE NEST' (1:22:01), 'The 1954 Atomic Energy Agreement' (1:30:25), 'The GAO Audit' (1:31:55) and 'The Y-12 Complex' (1:32:56).",
+"tier": 1
+},
+{
+"source": "https://podcasts.apple.com/us/podcast/the-hidden-ufo-program-is-real-heres-how-it-works-ft-uapgerb/id1771917740?i=1000744706983",
+"text": "The episode names individual cases as discrete segments: 'The Alien Reproduction Vehicle' (1:09:22), 'Jonathan Wagan's Story' (1:15:47), 'J. Andrew Kistner's Testimony' (1:31:35), 'Marconi's Involvement' (2:04:48) and 'The Legacy of Eric Henry Wang' (2:07:16).",
+"tier": 1
+},
+{
+"source": "https://podcasts.apple.com/us/podcast/the-hidden-ufo-program-is-real-heres-how-it-works-ft-uapgerb/id1771917740?i=1000744706983",
+"text": "The episode treats present-day disclosure as itself a managed process, with segments titled 'Controlled Disclosure Dynamics' (2:28:42), 'The Shadow Government' (2:38:42), 'Legacy Programs and Control' (2:49:17) and 'The Role of Psyops' (2:51:34).",
+"tier": 1
+},
+{
+"source": "https://x.com/AlchemyAmerican/status/1893046290046456114",
+"text": "UAPGerb had previously appeared on American Alchemy in February 2025, in an interview Michels publicly described as covering 'UFO crash retrievals and reverse-engineering' and as 'a comprehensive tour of Air Force Bases, Deep Underground Military Bases and Federally Funded Research Organizations.'",
+"tier": 2
+},
+{
+"source": "https://www.iheart.com/podcast/269-american-alchemy-222867745/episode/the-most-knowledgeable-ufo-researcher-in-268705703/",
+"text": "That earlier February 2025 American Alchemy appearance was released under the title 'The Most Knowledgeable UFO Researcher In The World.'",
+"tier": 2
+},
+{
+"source": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3373b&num=0&edition=prelim",
+"text": "UAPGerb's structural claim that the program's continuity resides in a contractor layer is testable against a statutory fact: Congress wrote authorized-disclosure protections in 50 U.S.C. 3373b(a)(1)(B) that expressly cover programs run by 'a contractor of such a department or agency' relating to 'material retrieval, material analysis, reverse engineering.'",
+"tier": 1
+},
+{
+"source": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3373b&num=0&edition=prelim",
+"text": "The episode's Department of Energy and Atomic Energy Act emphasis aligns with a drafting choice by Congress: 50 U.S.C. 3373b(b)(1)(B) deems an authorized disclosure to comply with any regulation or order issued under Executive Order 13526 'or chapter 18 of the Atomic Energy Act of 1954 (42 U.S.C. 2271 et seq.),' immunizing UAP disclosures against atomic energy secrecy law specifically.",
+"tier": 1
+},
+{
+"source": "https://open.spotify.com/episode/2JlkoGbPzhveWGduBmdHyA (episode description and content, American Alchemy with Jesse Michels, 11 January 2026)",
+"text": "UAPGerb asserts that the legacy effort traces from early Cold War initiatives including the 1947 Interplanetary Phenomenon Unit and Battelle's Project Stork work with Project Blue Book through to programs he attributes to modern agency management.",
+"tier": 3
+},
+{
+"source": "https://www.wikidisc.org/wiki/UAP_Gerb ; https://open.spotify.com/episode/4oOOiT92IGlidDe3aj7IM0",
+"text": "UAPGerb is a pseudonymous open-source researcher whose public output consists of long-form podcast appearances rather than documentary publication or sworn testimony; he has appeared across multiple podcast platforms including American Alchemy, the Danny Jones Podcast and DEBRIEFED with Chris Ramsay.",
+"tier": 3
+}
+],
+"connections": [
+"Jesse Michels, host of American Alchemy, is the interviewer and the distribution channel; his platform has become a primary venue for legacy-program mapping.",
+"UAPGerb (@UAPGERB) is the researcher; pseudonymous, open-source method, no claimed insider access.",
+"MITRE Corporation is named in the episode structure as playing a role; MITRE operates federally funded research and development centers holding government facility clearances.",
+"Department of Energy, NEST and the Y-12 National Security Complex are named as nodes, tying the hypothesis to Atomic Energy Act Restricted Data authorities that sit outside E.O. 13526 and therefore outside ISOO's oversight reach.",
+"Named individuals and cases offered as investigative targets: Jonathan Wagan, J. Andrew Kistner, Eric Henry Wang, Marconi.",
+"The 1947 Interplanetary Phenomenon Unit and Battelle's Project Stork are offered as the historical origin points of the structure.",
+"The 'Pyramid of Contractors' model converges with the 'covered government contractors' clause in the Burlison FY2027 NDAA amendment and with the contractor coverage in 50 U.S.C. 3373b.",
+"The 'Office of Global Access' claim, if pursued, would be tested against 50 U.S.C. 3373(j)(1)(B)(ii)(I), which requires AARO's historical record report to itemize 'any program or activity that was protected by restricted access that has not been explicitly and clearly reported to Congress.'"
+],
+"denialPosture": "",
+"narrative": "There is a difference between a witness and a cartographer. Most UAP media is witness content: a person describes what he saw or was told, and the audience is asked to weigh his credibility. The Michels-Gerb episode is cartography. UAPGerb is not claiming personal access; he is claiming that the public record, read carefully enough and cross-indexed hard enough, discloses the shape of the thing. That makes the episode assessable in a way testimony is not, because a map can be checked against the terrain.\n\nThe episode published on 11 January 2026 at 7:15 PM UTC on Jesse Michels's American Alchemy, running 3 hours 54 minutes. The chapter list published with it is the closest thing the open record has to a table of contents for the concealment hypothesis, and it is worth reading as a document in itself.\n\nThe first movement is structural. 'Legacy Programs' at 6:00, then 'The Pyramid of Contractors' at 12:03, then 'Whistleblowers and Leaks' at 16:46 and 'Modern Majestic 12' at 23:50. The claim embedded in that ordering is that the program's continuity lives in the contractor layer rather than in any government office — that government offices rotate, get renamed, get terminated by statute, while the corporate custodians and their facility clearances persist. This is the single most consequential structural assertion in the episode, because it is the one that explains how a program survives the abolition of the Aerial Phenomena Task Force, the creation of AARO, and forty years of reorganizations. It is also the assertion that makes the 'covered government contractors' clause of the Burlison FY2027 amendment the operative provision rather than a throwaway.\n\nThe second movement is administrative. 'Exploring the IPU Docs' at 27:10 reaches back to the 1947 Interplanetary Phenomenon Unit; 'The Administrators of Secrecy' at 32:24 and 'Individuals in the Shadows' at 37:38 name people; 'The Office of Global Access' at 43:04 and 'The Conflict of Interest' at 49:48 lead into 'The Role of MITRE' at 51:28. MITRE operates federally funded research and development centers — organizations that hold government facility clearances and perform government work while sitting outside both the civil service and ordinary contractor competition. In the legacy-program hypothesis the FFRDC is the ideal custodian: it has continuity, clearances, and a relationship to government that is neither employment nor procurement in the ordinary sense.\n\nThe third movement is nuclear. 'The DOE NEST' at 1:22:01, 'The 1954 Atomic Energy Agreement' at 1:30:25, 'The GAO Audit' at 1:31:55, 'The Y-12 Complex' at 1:32:56. The Department of Energy thread is analytically the strongest part of the map, for a reason that has nothing to do with anyone's testimony: Restricted Data under the Atomic Energy Act of 1954 is classified by statute at birth, sits outside the Executive Order 13526 classification system entirely, and is therefore outside the reach of the Information Security Oversight Office's oversight authority. Congress noticed this. When it drafted the UAP authorized-disclosure protections at 50 U.S.C. 3373b(b)(1)(B), it wrote that an authorized disclosure 'shall be deemed to comply with any regulation or order issued under the authority of Executive Order 13526... or chapter 18 of the Atomic Energy Act of 1954.' Legislators do not immunize disclosures against the Atomic Energy Act unless they have reason to think the Atomic Energy Act is being used.\n\nThe fourth movement is geographic and biographical: 'Underground Military Bases' at 1:44:25, 'Covert Operations and Facilities' at 1:52:44, 'Marconi's Involvement' at 2:04:48, 'The Legacy of Eric Henry Wang' at 2:07:16, and named witness segments for Jonathan Wagan at 1:15:47 and J. Andrew Kistner at 1:31:35. The fifth is meta: 'Controlled Disclosure Dynamics' at 2:28:42, 'The Shadow Government' at 2:38:42, 'The Role of Psyops' at 2:51:34 — Gerb arguing that disclosure itself is being managed, which is a claim about the current period rather than the historical one.\n\nOn sourcing discipline, this dossier draws a hard line. The episode's existence, date, duration, host, guest and published chapter structure are verifiable primary metadata. Every substantive assertion inside it — that MITRE holds a custodial role, that an 'Office of Global Access' exists, that Y-12 is implicated, that a 1954 atomic energy agreement bears on the subject — is UAPGerb's claim, unverified here, and is catalogued as such at tier 3. The correct use of this episode by a downstream analyst is as a query list: take each named entity, each facility, each individual, and test it against procurement data, FOIA releases, clearance records and statutory authority. The episode's value is that it is specific enough to be wrong.\n\nThe relationship to the broader board is that Gerb's structural model and Congress's legislative behaviour have converged without either citing the other. Gerb says the continuity lives in the contractor pyramid. Congress, in the FY2023 authorized-disclosure statute and again in the FY2027 House-adopted disclosure amendment, keeps writing provisions that reach contractors, contractor nondisclosure agreements, and contractor-held records. Two independent processes arriving at the same load-bearing assumption is the kind of convergence worth flagging.",
+"openQuestions": [
+"Every substantive assertion made inside the episode is unverified here. The chapter structure is primary metadata; the content is UAPGerb's claim.",
+"No documentary basis has been established for the existence of an 'Office of Global Access,' and no government issuance, budget line or organizational chart naming such an office has been identified.",
+"MITRE's asserted role rests on no cited contract, task order or FFRDC sponsoring agreement in the public record examined here.",
+"The identities, employment histories and clearance records of Jonathan Wagan, J. Andrew Kistner and Eric Henry Wang have not been independently established.",
+"What 'The 1954 Atomic Energy Agreement' refers to specifically — whether the Atomic Energy Act of 1954 itself, an implementing agreement, or a separate instrument — is not resolved by the chapter title.",
+"What 'The GAO Audit' segment refers to; the Comptroller General does hold a UAP audit mandate under Section 6803 of Public Law 117-263, but whether that is the audit discussed is not established.",
+"Whether UAPGerb's identity, background and any prior government or contractor affiliation would change the weight assigned to his structural model.",
+"Whether any of the facilities or organizations named in the episode have been the subject of a UAP-related records search under 50 U.S.C. 3373b(b)(3)(A)."
+],
+"roles": [
+"research",
+"disclosure"
+],
+"whatItIs": "The long-form interview 'The Hidden UFO Program Is Real - Here's How It Works! (ft. UAPGerb),' published 11 January 2026 on American Alchemy with Jesse Michels, running three hours and fifty-four minutes. In it the pseudonymous open-source researcher UAPGerb walks Michels through a claimed organizational map of the legacy recovery and reverse-engineering effort: the contractor hierarchy, the administering agencies, the facilities, and the named individuals. It is the most detailed publicly available attempt to render the concealment structure as an org chart rather than an anecdote.",
+"whyImplicated": "This episode matters not as testimony but as a hypothesis document. Its published chapter structure is itself a claim about how the program is organized — 'Legacy Programs,' 'The Pyramid of Contractors,' 'Modern Majestic 12,' 'The Administrators of Secrecy,' 'The Office of Global Access,' 'The Role of MITRE,' 'The DOE NEST,' 'The 1954 Atomic Energy Agreement,' 'The Y-12 Complex,' 'Underground Military Bases' — asserting that the effort is administered through a layered contractor pyramid with Department of Energy and federally funded research and development center involvement rather than through a single DoD program office. That is a falsifiable structural model, and it is the one an analyst can test against procurement records, facility clearances and statutory authorities. The episode also names individuals and cases as nodes — Jonathan Wagan, J. Andrew Kistner, Eric Henry Wang, Marconi — converting rumor into a checkable list. Its evidentiary weight is low; its investigative value as a target list is high."
+},
+"entityInfo": {
+"desc": "FULL CHAPTER LIST (verbatim, 11 January 2026, 3h13m): 00:00 Introduction / 04:32 Meet UAP Gerb / 06:00 Legacy Programs / 12:03 The Pyramid of Contractors / 16:46 Whistleblowers and Leaks / 23:50 Modern Majestic 12 / 27:10 Exploring the IPU Docs / 31:08 A Naval Perspective / 32:24 The Administrators of Secrecy / 37:38 Individuals in the Shadows / 41:27 A Call to Action / 43:04 The Office of Global Access / 49:48 The Conflict of Interest / 51:28 The Role of MITRE / 1:03:02 Testimony from the Inside / 1:09:22 The Alien Reproduction Vehicle / 1:15:47 Jonathan Wagan's Story / 1:18:43 Evidence and Obfuscation / 1:19:53 Crash Retrieval Teams / 1:22:01 The DOE NEST / 1:24:58 Agencies and Contractors / 1:28:08 The Roswell Incident / 1:30:25 The 1954 Atomic Energy Agreement / 1:31:35 J. Andrew Kistner's Testimony / 1:31:55 The GAO Audit / 1:32:56 The Y-12 Complex / 1:33:37 Whistleblower Testimonies / 1:44:25 Underground Military Bases / 1:52:44 Covert Operations and Facilities / 1:56:47 UFO Crash Statistics / 2:04:48 Marconi's Involvement / 2:07:16 The Legacy of Eric Henry Wang / 2:12:32 Interconnected Cases and Research / 2:14:36 The Role of Disclosure / 2:26:34 The Nature of Reality / 2:28:42 Controlled Disclosure Dynamics / 2:35:01 Global Superpower and Disclosure / 2:38:42 The Shadow Government / 2:39:28 Locations of Alien Bodies / 2:40:54 Whistleblower Insights / 2:43:52 Credibility of Testimonies / 2:45:12 Skepticism in the UFO Community / 2:47:17 The Future of Disclosure / 2:49:17 Legacy Programs and Control / 2:51:34 The Role of Psyops / 2:54:16 The Intersection of Science and UFOs / 3:02:06 The Need for Public Accountability / 3:07:13 The Importance of Human Experience / 3:10:08 Closing Remarks.\n\nNOTE ON NAMES: 'J. Andrew Kistner' as rendered in the chapter list is almost certainly J. Andrew Kissner, the former New Mexico State Representative whom UAP Gerb cites by that spelling in his Sandia investigation. Recorded here because the transcription error will otherwise propagate.",
+"sources": [
+{
+"date": "2026-01-11",
+"name": "American Alchemy - structural episode",
+"url": "https://www.youtube.com/watch?v=u7g5Sn1DJF4"
+}
+]
+},
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "michels-gerb-structural-episode",
+"l0": true,
+"label": "'The Pentagon's UFO Program Is Real [Here's How It Works!]'",
+"locLabel": null,
+"members": [
+{
+"cls": "domain",
+"id": "d-media",
+"label": "Independent media as the disclosure substrate",
+"tier": "C"
+},
+{
+"cls": "person",
+"id": "jesse-michels",
+"label": "Jesse Michels",
+"tier": "B"
+},
+{
+"cls": "person",
+"id": "uap-gerb",
+"label": "'UAP Gerb' (Sam)",
+"tier": "A"
+}
+],
+"short": "'The Pentagon's UFO Program Is Real'",
+"sources": [
+{
+"date": "2026-01-11",
+"name": "American Alchemy - 'The Pentagon's UFO Program Is Real [Here's How It Works!] ft. UAPGerb'",
+"url": "https://www.youtube.com/watch?v=u7g5Sn1DJF4"
+}
+],
+"sub": "American Alchemy episode, 11 Jan 2026",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 621 of 1027, score 25). 7 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A0/D3.",
+"timeline": [
+{
+"date": "2026-01-11",
+"id": "ms-2026-structural",
+"label": "The structural episode",
+"precision": "day",
+"strand": "program",
+"text": "Michels and Gerb publish the three-hour reconstruction of how the effort is organised - the contractor pyramid, the modern control group, the Office of Global Access, MITRE, the DOE NEST, the 1954 Atomic Energy Agreement; 514,729 views.",
+"tier": "A"
+}
+]
+}

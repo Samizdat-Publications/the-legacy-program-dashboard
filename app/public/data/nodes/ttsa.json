@@ -1,0 +1,811 @@
+{
+"A": 2,
+"C": 3,
+"D": 3,
+"band": "reverse-engineering",
+"claims": [
+{
+"source": "SEC EDGAR, TTSA Form 1-K Part II, CIK 1710274, filed April 2018",
+"text": "Delaware public benefit corporation, Commission File Number 024-10728, IRS EIN 82-0601064, with DeLonge, Semivan and Puthoff as directors and Elizondo and Justice as significant employees.",
+"tier": 1
+},
+{
+"source": "SEC EDGAR, TTSA Form 1-K Part II",
+"text": "Raised approximately $1.09 million of a $50 million Regulation A target as of April 2018; FY2017 net loss $30,665,436 including $29,535,799 of stock-based compensation.",
+"tier": 1
+},
+{
+"source": "SEC EDGAR, TTSA offering exhibit tm2023098d2_ex13-1, 24 July 2020",
+"text": "A July 2020 Regulation A offering exhibit valued the company at $65 million, sought $30 million at $5 per share, and described the ADAM Research Project and the Army CRADA.",
+"tier": 1
+},
+{
+"source": "Wikipedia, To The Stars Inc., citing company filings and press",
+"text": "Renamed To The Stars Inc. in 2022 after the departure of Elizondo, Mellon and Justice; subsequent output is entertainment.",
+"tier": 2
+},
+{
+"source": "SEC EDGAR, TTSA Form 1-A Exhibit 6.28, filed 3 August 2020",
+"text": "CRADA 19-15, 'Novel & Emerging Technology Exploitation (NETE),' between To The Stars Academy of Arts and Science, Inc. and the US Army CCDC Ground Vehicle Systems Center, was filed with the SEC as Exhibit 6.28 to TTSA's Form 1-A.",
+"tier": 1
+},
+{
+"source": "AARO, Historical Record Report Volume I, March 2024",
+"text": "AARO states that the organisation owning the alleged crash material 'negotiated an agreement in 2019 with the U.S. Army to analyze the samples,' and that AARO later acquired the sample for analysis.",
+"tier": 1
+},
+{
+"source": "AARO/ORNL 'Synopsis: Analysis of a Metallic Specimen', released July 2024",
+"text": "ORNL assessed the specimen terrestrial in origin and concluded it 'does not meet the theoretical requirements to function as a terahertz (THz) waveguide.'",
+"tier": 1
+}
+],
+"cls": "institution",
+"cluster": "contractor",
+"connections": [
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "2024",
+"dateStart": "2024",
+"direction": "in",
+"edgeLabel": "ORNL assessed the privately held 'crash' specimen as terrestrial",
+"id": "aaro-metallic-specimen-analysis",
+"l0": false,
+"label": "AARO / ORNL Synopsis: Analysis of a Metallic Specimen",
+"note": "The finding does not resolve the custody question it arose from: AARO notes the specimen's 'undocumented chain of custody and conflicting personal accounts' leave its historical origin unclear.",
+"sources": [
+{
+"date": "2024-07-11",
+"name": "The Black Vault, 'AARO Releases Findings on Suspected Extraterrestrial Alloy' (ORNL analysis of the magnesium specimen)",
+"url": "https://www.theblackvault.com/documentarchive/aaro-releases-findings-on-suspected-extraterrestrial-alloy/"
+}
+],
+"tier": "B",
+"type": "denial"
+},
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": "2021",
+"dateStart": "2018",
+"direction": "out",
+"edgeLabel": "ADAM: acquisition and analysis of claimed exotic material",
+"id": "adam-research-project",
+"l0": true,
+"label": "ADAM Research Project (Acquisition and Data Analysis of Materials)",
+"note": "Announced July 2019 as the Acquisition & Data Analysis of Materials project; SEC filings record the $35,000 purchase of the bismuth/magnesium-zinc and aluminium items.",
+"sources": [
+{
+"date": "2020-07-24",
+"name": "SEC EDGAR — TTSA offering exhibit",
+"url": "https://www.sec.gov/Archives/edgar/data/1710274/000110465920089220/tm2023098d2_ex13-1.htm"
+},
+{
+"date": "2019-07-26",
+"name": "M.J. Banias, 'Tom DeLonge's UFO Organization Says It's Obtained Exotic Metals Unknown to Science', Vice",
+"url": "https://www.vice.com/en/article/tom-delonges-ufo-organization-says-its-obtained-exotic-metals-unknown-to-science/"
+},
+{
+"date": "2019-10-04",
+"name": "M.J. Banias, 'Tom DeLonge's UFO Research Company Paid $35,000 for Exotic Metals That Might Actually Just Be Slag', Vice",
+"url": "https://www.vice.com/en/article/tom-delonges-ufo-research-company-paid-dollar35000-for-exotic-metals-that-might-actually-just-be-bismuth/"
+}
+],
+"tier": "A",
+"type": "programmatic"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "2020",
+"dateStart": "2017",
+"direction": "in",
+"edgeLabel": "National Security Affairs Advisor / advisory board (2017-2020)",
+"id": "christopher-mellon",
+"l0": false,
+"label": "Christopher K. Mellon",
+"note": "A former Deputy Assistant Secretary of Defense for Intelligence and SSCI minority staff director lending his name to the vehicle.",
+"sources": [
+{
+"date": "2018-04-30",
+"name": "SEC EDGAR — TTSA Form 1-K",
+"url": "https://www.sec.gov/Archives/edgar/data/1710274/000114420418023727/tv492460_partii.htm"
+},
+{
+"date": "2017-10-11",
+"name": "PR Newswire — TTSA launch",
+"url": "https://www.prnewswire.com/news-releases/to-the-stars-academy-of-arts--science-launches-today-300534912.html"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 3,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2020",
+"direction": "out",
+"edgeLabel": "Securities disclosure is why the TTSA arrangement is visible and a privately held prime's would not be",
+"id": "general-atomics",
+"l0": false,
+"label": "General Atomics",
+"note": "TTSA's Reg A reporting obligations forced the CRADA into the public record. A privately held prime such as General Atomics has no equivalent obligation, which is the structural reason the documented case is a small company rather than a large one.",
+"sources": [
+{
+"date": "2020-08-03",
+"name": "SEC EDGAR: To The Stars Academy of Arts and Science Form 1-A Exhibit 6.28 - CRADA 19-15 'Novel & Emerging Technology Exploitation' with U.S. Army CCDC Ground Vehicle Systems Center",
+"url": "https://www.sec.gov/Archives/edgar/data/1710274/000110465920089220/tm2023098d2_ex6-28.htm"
+},
+{
+"date": "2026-08-12",
+"name": "USAspending.gov federal award search (prime contract obligations by recipient)",
+"url": "https://www.usaspending.gov/search"
+}
+],
+"tier": "C",
+"type": "behavioral"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "2017",
+"direction": "in",
+"edgeLabel": "Co-founder, VP Science and Technology, director",
+"id": "harold-puthoff",
+"l0": false,
+"label": "Harold E. Puthoff",
+"note": "Puthoff co-founded TTSA with Tom DeLonge and Jim Semivan in 2017; the company's materials work was routed to laboratories he founded.",
+"sources": [
+{
+"date": "2018-04-30",
+"name": "SEC EDGAR — TTSA Form 1-K",
+"url": "https://www.sec.gov/Archives/edgar/data/1710274/000114420418023727/tv492460_partii.htm"
+},
+{
+"date": "2026-08-12",
+"name": "Wikipedia: To The Stars Inc.",
+"url": "https://en.wikipedia.org/wiki/To_the_Stars_(company)."
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "2017",
+"direction": "in",
+"edgeLabel": "Co-founder, VP Operations, director",
+"id": "jim-semivan",
+"l0": false,
+"label": "James 'Jim' Semivan",
+"note": "A retired CIA Senior Intelligence Service officer accepting a named directorship in an SEC-registered UFO company is a deliberate reputational commitment.",
+"sources": [
+{
+"date": "2018-04-30",
+"name": "SEC EDGAR — TTSA Form 1-K",
+"url": "https://www.sec.gov/Archives/edgar/data/1710274/000114420418023727/tv492460_partii.htm"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "2017",
+"direction": "in",
+"edgeLabel": "Chief Content Officer; highest cash-compensated officer FY2017",
+"id": "kari-delonge",
+"l0": false,
+"label": "Kari DeLonge",
+"note": "$100,000 cash and options on 5 million shares at $0.003 valued at about $18.96m — the entertainment side held the equity.",
+"sources": [
+{
+"date": "2018-04-30",
+"name": "SEC EDGAR — TTSA Form 1-K",
+"url": "https://www.sec.gov/Archives/edgar/data/1710274/000114420418023727/tv492460_partii.htm"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 3,
+"cls": "person",
+"dateEnd": "2020",
+"dateStart": "2017",
+"direction": "in",
+"edgeLabel": "Green served as an adviser to TTSA during the period of the material acquisition",
+"id": "kit-green",
+"l0": false,
+"label": "Christopher C. 'Kit' Green",
+"note": "Green's association with the company is publicly acknowledged; the board has located no filing specifying his role or duties, and records the connection as an inference from public association rather than a documented officership.",
+"sources": [
+{
+"date": "2026-04-29",
+"name": "SEC EDGAR filing index for To The Stars Inc. (CIK 0001710274)",
+"url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001710274&type=1-K&dateb=&owner=include&count=40"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "location",
+"dateEnd": null,
+"dateStart": "2017",
+"direction": "out",
+"edgeLabel": "Corporate base and Entertainment Division retail location",
+"id": "l-encinitas",
+"l0": false,
+"label": "Encinitas, California",
+"note": "Stated in the company's Form 1-K.",
+"sources": [
+{
+"date": "2018-04-30",
+"name": "SEC EDGAR — TTSA Form 1-K",
+"url": "https://www.sec.gov/Archives/edgar/data/1710274/000114420418023727/tv492460_partii.htm"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "2020",
+"dateStart": "2017",
+"direction": "in",
+"edgeLabel": "Director of Global Security & Special Programs / Government Programs (2017-2020)",
+"id": "luis-elizondo",
+"l0": false,
+"label": "Luis D. Elizondo",
+"note": "The move placed the former AATIP director inside the private company then acquiring claimed exotic material and negotiating a federal research agreement over it.",
+"sources": [
+{
+"date": "2018-04-30",
+"name": "SEC EDGAR — TTSA Form 1-K",
+"url": "https://www.sec.gov/Archives/edgar/data/1710274/000114420418023727/tv492460_partii.htm"
+},
+{
+"date": "2026-04-29",
+"name": "SEC EDGAR filing index for To The Stars Inc. (CIK 0001710274)",
+"url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001710274&type=1-K&dateb=&owner=include&count=40"
+},
+{
+"date": "2024-11-13",
+"name": "House Oversight hearing transcript, 'Unidentified Anomalous Phenomena: Exposing the Truth' (CHRG-118hhrg57440)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 2,
+"cls": "document",
+"dateEnd": "2020",
+"dateStart": "2017",
+"direction": "out",
+"edgeLabel": "Hosted and distributed the three videos from 2017-2018",
+"id": "navy-flir-gimbal-gofast-videos",
+"l0": false,
+"label": "FLIR1, Gimbal and GoFast Navy gun-camera videos",
+"note": "TTSA published the footage on its own platform, framing it as officially cleared — a framing the Navy contested in September 2019.",
+"sources": [
+{
+"date": "2019-09-10",
+"name": "The Black Vault — Navy confirms videos depict UAP",
+"url": "https://www.theblackvault.com/documentarchive/u-s-navy-confirms-videos-depict-unidentified-aerial-phenomena-not-cleared-for-public-release/"
+}
+],
+"tier": "B",
+"type": "custody"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "2020",
+"dateStart": "2017",
+"direction": "in",
+"edgeLabel": "Aerospace Division Director then COO (2017-2020)",
+"id": "steve-justice",
+"l0": false,
+"label": "Steve Justice",
+"note": "31 years at Lockheed's Skunk Works, latterly Program Director for Advanced Systems, per the company's own filing.",
+"sources": [
+{
+"date": "2018-04-30",
+"name": "SEC EDGAR — TTSA Form 1-K",
+"url": "https://www.sec.gov/Archives/edgar/data/1710274/000114420418023727/tv492460_partii.htm"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "Scrutiny of To The Stars Academy's media apparatus and financing",
+"id": "the-intercept",
+"l0": false,
+"label": "The Intercept",
+"note": "The piece documents what To The Stars Academy's own regulatory filings say it is: a 'Motion Picture & Video Tape Production' concern. It also reports the undisclosed relationship between the company and the programme promoting it - TTSA co-founder Tom DeLonge was executive producer of the History Channel's 'Unidentified', which featured Elizondo and fellow TTSA employee Chris Mellon without the ties being disclosed on screen.",
+"sources": [
+{
+"date": "2019-06-01",
+"name": "Keith Kloor, The Intercept, 1 June 2019",
+"url": "https://theintercept.com/2019/06/01/ufo-unidentified-history-channel-luis-elizondo-pentagon/"
+},
+{
+"date": null,
+"name": "Keith Kloor, The Intercept, June 1, 2019 -- https://theintercept.com/2019/06/01/ufo-unidentified-history-channel-luis-elizondo-pentagon/",
+"url": ""
+}
+],
+"tier": "C",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "2017",
+"direction": "in",
+"edgeLabel": "Co-founder, President, interim CEO and controlling shareholder",
+"id": "tom-delonge",
+"l0": false,
+"label": "Thomas Matthew DeLonge",
+"note": "TTSA was a Regulation A public reporting issuer, which is why its holdings and agreements had to be filed with the SEC rather than remaining private.",
+"sources": [
+{
+"date": "2018-04-30",
+"name": "SEC EDGAR — TTSA Form 1-K",
+"url": "https://www.sec.gov/Archives/edgar/data/1710274/000114420418023727/tv492460_partii.htm"
+},
+{
+"date": "2026-04-29",
+"name": "SEC EDGAR filing index for To The Stars Inc. (CIK 0001710274)",
+"url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001710274&type=1-K&dateb=&owner=include&count=40"
+},
+{
+"date": "2020-08-03",
+"name": "SEC EDGAR: To The Stars Academy of Arts and Science Form 1-A Exhibit 6.28 - CRADA 19-15 'Novel & Emerging Technology Exploitation' with U.S. Army CCDC Ground Vehicle Systems Center",
+"url": "https://www.sec.gov/Archives/edgar/data/1710274/000110465920089220/tm2023098d2_ex6-28.htm"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "2020",
+"dateStart": "2019",
+"direction": "out",
+"edgeLabel": "TTSA executed a federal exploitation agreement over material it claimed was of unknown origin",
+"id": "ttsa-army-crada",
+"l0": true,
+"label": "CRADA between U.S. Army Ground Vehicle Systems Center and To The Stars Academy",
+"note": "CRADA 19-15 'Novel & Emerging Technology Exploitation' with the US Army CCDC Ground Vehicle Systems Center was filed as Exhibit 6.28 to TTSA's Form 1-A, naming Army principal investigators and TACOM intellectual property counsel.",
+"sources": [
+{
+"date": "2020-08-03",
+"name": "SEC EDGAR: To The Stars Academy of Arts and Science Form 1-A Exhibit 6.28 - CRADA 19-15 'Novel & Emerging Technology Exploitation' with U.S. Army CCDC Ground Vehicle Systems Center",
+"url": "https://www.sec.gov/Archives/edgar/data/1710274/000110465920089220/tm2023098d2_ex6-28.htm"
+},
+{
+"date": "2020-08-03",
+"name": "SEC EDGAR: TTSA Form 1-A Exhibit 6.26, Cooperative Marketing Agreement referencing the Army NETE CRADA",
+"url": "https://www.sec.gov/Archives/edgar/data/1710274/000110465920089220/tm2023098d2_ex6-26.htm"
+}
+],
+"tier": "A",
+"type": "custody"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "2023",
+"dateStart": "2019",
+"direction": "out",
+"edgeLabel": "Executed CRADA with the U.S. Army, 10 October 2019, term to 30 September 2023",
+"id": "ttsa-army-crada",
+"l0": true,
+"label": "CRADA between U.S. Army Ground Vehicle Systems Center and To The Stars Academy",
+"note": "A real federal instrument, not a press release: signed by the GVSC Director and TTSA's Chief Content Officer, with TTSA's participation valued at an estimated $1 million in in-kind contributions.",
+"sources": [
+{
+"date": "2019-10-18",
+"name": "The War Zone",
+"url": "https://www.twz.com/30498/the-army-wants-to-verify-to-the-stars-academys-fantastic-ufo-mystery-material-claims"
+},
+{
+"date": "2019-10-17",
+"name": "PR Newswire — CRADA announcement",
+"url": "https://www.prnewswire.com/news-releases/to-the-stars-academy-of-arts--science-announces-crada-with-the-us-army-combat-capabilities-development-command-to-advance-materiel-and-technology-innovations-300940211.html"
+}
+],
+"tier": "A",
+"type": "funding"
+},
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": "2017",
+"dateStart": "2017",
+"direction": "in",
+"edgeLabel": "Public launch and Regulation A+ offering, 11 October 2017",
+"id": "ttsa-launch-2017",
+"l0": false,
+"label": "To The Stars Academy public launch, 11 October 2017",
+"note": "Seven days after Elizondo's resignation took effect and nine weeks before the NYT story.",
+"sources": [
+{
+"date": "2017-10-11",
+"name": "PR Newswire — TTSA launch",
+"url": "https://www.prnewswire.com/news-releases/to-the-stars-academy-of-arts--science-launches-today-300534912.html"
+}
+],
+"tier": "C",
+"type": "temporal"
+},
+{
+"claimTier": 2,
+"cls": "event",
+"dateEnd": "2020",
+"dateStart": "2019",
+"direction": "in",
+"edgeLabel": "TTSA production, executive produced by Tom DeLonge, History Channel 2019-2020",
+"id": "unidentified-history-series",
+"l0": false,
+"label": "'Unidentified: Inside America's UFO Investigation' (History Channel)",
+"note": "The Entertainment Division supplying distribution for the Aerospace and Science claims.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Wikipedia — Unidentified: Inside America's UFO Investigation",
+"url": "https://en.wikipedia.org/wiki/Unidentified:_Inside_America's_UFO_Investigation"
+}
+],
+"tier": "C",
+"type": "institutional"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "2017",
+"deg": 17,
+"denials": [
+{
+"by": {
+"id": "aaro-metallic-specimen-analysis",
+"label": "AARO / ORNL Synopsis: Analysis of a Metallic Specimen"
+},
+"claimTier": 1,
+"denialKind": "directed",
+"label": "ORNL assessed the privately held 'crash' specimen as terrestrial",
+"note": "The finding does not resolve the custody question it arose from: AARO notes the specimen's 'undocumented chain of custody and conflicting personal accounts' leave its historical origin unclear.",
+"of": {
+"id": "ttsa",
+"label": "To The Stars Academy of Arts & Science Inc. (later To The Stars Inc.)"
+},
+"sources": [
+{
+"date": "2024-07-11",
+"name": "The Black Vault, 'AARO Releases Findings on Suspected Extraterrestrial Alloy' (ORNL analysis of the magnesium specimen)",
+"url": "https://www.theblackvault.com/documentarchive/aaro-releases-findings-on-suspected-extraterrestrial-alloy/"
+}
+]
+}
+],
+"desc": "TTSA was incorporated in Delaware in 2017 as a public benefit corporation and registered with the SEC under Commission File Number 024-10728, CIK 1710274, EIN 82-0601064. Its three named directors were Tom DeLonge, Jim Semivan and Harold Puthoff; Luis Elizondo and Steve Justice were listed as significant employees. It ran three divisions — Aerospace (beamed energy propulsion and Space-Time Metric Engineering), Science (a Community of Interest UAP reporting site, brain-computer interface and consciousness work), and Entertainment (music, books and film, operating out of Encinitas, California). Structurally it was a securities vehicle: a Regulation A+ offering launched in September 2017 targeting $50 million, of which roughly $1.09 million had been raised by April 2018. FY2017 showed revenues of $1,376,215 against a net loss of $30,665,436, almost all of it non-cash stock compensation; by June 2018 the accumulated deficit was $37.4 million against $129,000 of cash, with a going-concern warning. Gravity Holdings LLC, a DeLonge family trust entity, held 60 million of 70 million Class A shares. What makes TTSA matter is not its balance sheet but its function: for roughly three years it was the legal person through which five men with intelligence, special-access and black-aerospace backgrounds acted in public — hosting the FLIR1, Gimbal and GoFast videos, running the ADAM materials program with Puthoff's EarthTech International, executing a research agreement with a U.S. Army laboratory, producing a History Channel series, and briefing Congress. Elizondo, Mellon and Justice left in December 2020; the aerospace and materials work wound down; in 2022 the entity renamed itself To The Stars Inc. and reverted to entertainment.",
+"domains": [
+"elizondo-ttsa",
+"primes-custody"
+],
+"dossier": {
+"claims": [
+{
+"source": "https://www.sec.gov/Archives/edgar/data/1710274/000114420418023727/tv492460_partii.htm",
+"text": "To The Stars Academy of Arts and Science Inc. was a Delaware entity registered with the SEC under Commission File Number 024-10728, CIK 1710274, with IRS Employer Identification Number 82-0601064.",
+"tier": 1
+},
+{
+"source": "https://www.sec.gov/Archives/edgar/data/1710274/000114420418023727/tv492460_partii.htm",
+"text": "The FY2017 Form 1-K states that Jim Semivan 'retired from the Central Intelligence Agency's Directorate of Operations after 25 years working as an operations officer both overseas and domestically,' that he 'was a member of the CIA's Senior Intelligence Service,' and that he 'currently holds Top Secret Clearances.'",
+"tier": 1
+},
+{
+"source": "https://www.sec.gov/Archives/edgar/data/1710274/000114420418023727/tv492460_partii.htm",
+"text": "The same filing lists Steve Justice as Director of Advanced Programs and Technology, part-time at 20 hours per week, and ties his industry background to the Lockheed organisation 'known as the \"Skunk Works.\"'",
+"tier": 1
+},
+{
+"source": "https://www.sec.gov/Archives/edgar/data/1710274/000114420418023727/tv492460_partii.htm",
+"text": "The same filing lists Luis Elizondo as Chief of Security and Special Programs, full-time, from October 2017, and states the company had eleven employees as of 31 December 2017.",
+"tier": 1
+},
+{
+"source": "https://www.sec.gov/Archives/edgar/data/1710274/000114420418023727/tv492460_partii.htm",
+"text": "TTSA reported 2017 revenues of $1,376,215 and cost of revenues of $750,932, for gross profit of $625,283, against a net loss of $30,665,436 (compared with a net loss of $422,670 in 2016).",
+"tier": 1
+},
+{
+"source": "https://www.sec.gov/Archives/edgar/data/1710274/000114420418023727/tv492460_partii.htm",
+"text": "Gravity Holdings LLC, whose sole member is the DeLonge Family Trust, held 60,000,000 shares of Class A Common Stock, 85.7 per cent of the class.",
+"tier": 1
+},
+{
+"source": "https://www.sec.gov/Archives/edgar/data/1710274/000114420418023727/tv492460_partii.htm",
+"text": "The FY2017 Form 1-K states that TTSA obtained access 'to become the very first company to obtain official U.S. Government footage of unidentified aerial phenomena (\"UAP\") that had gone through the declassification process and been approved for public release,' released through its online Community of Interest.",
+"tier": 1
+},
+{
+"source": "https://www.prnewswire.com/news-releases/to-the-stars-academy-of-arts--science-announces-crada-with-the-us-army-combat-capabilities-development-command-to-advance-materiel-and-technology-innovations-300940211.html",
+"text": "On 17 October 2019 TTSA announced a Cooperative Research and Development Agreement with the U.S. Army Combat Capabilities Development Command 'to advance TTSA's materiel and technology innovations in order to develop enhanced capabilities for Army ground vehicles.'",
+"tier": 2
+},
+{
+"source": "https://www.prnewswire.com/news-releases/to-the-stars-academy-of-arts--science-announces-crada-with-the-us-army-combat-capabilities-development-command-to-advance-materiel-and-technology-innovations-300940211.html",
+"text": "The CRADA announcement describes the technology set as leveraging 'developments in material science, space-time metric engineering, quantum physics, beamed energy propulsion, and active camouflage.'",
+"tier": 2
+},
+{
+"source": "https://www.prnewswire.com/news-releases/to-the-stars-academy-of-arts--science-announces-crada-with-the-us-army-combat-capabilities-development-command-to-advance-materiel-and-technology-innovations-300940211.html",
+"text": "Under the CRADA, 'TTSA will share its discoveries with Ground Vehicle System Center (GVSC) and Ground Vehicle Survivability and Protection (GVSP) and the U.S. Army shall provide laboratories, expertise, support, and resources to help characterize the technologies and its applications.'",
+"tier": 2
+},
+{
+"source": "https://www.prnewswire.com/news-releases/to-the-stars-academy-of-arts--science-announces-crada-with-the-us-army-combat-capabilities-development-command-to-advance-materiel-and-technology-innovations-300940211.html",
+"text": "Dr Joseph Cannon of U.S. Army Futures Command said in the CRADA announcement that 'Our partnership with TTSA serves as an exciting, non-traditional source for novel materials and transformational technologies to enhance our military ground system capabilities.'",
+"tier": 2
+},
+{
+"source": "https://documents2.theblackvault.com/documents/dod/AARO_Historical_Record_Report_Volume_1_2024.pdf",
+"text": "AARO's Historical Record Report states that after AAWSAP was terminated 'its supporters unsuccessfully attempted to convince DHS to support a new version of this effort dubbed KONA BLUE,' described elsewhere in the report as 'a UAP-related Prospective Special Access Program (PSAP) ... proposed to the Department of Homeland Security (DHS)' that 'was never approved by DHS.'",
+"tier": 2
+},
+{
+"source": "https://documents2.theblackvault.com/documents/dod/AARO_Historical_Record_Report_Volume_1_2024.pdf",
+"text": "AARO reports that it acquired a sample from an alleged crashed off-world spacecraft 'from a private UAP investigating organization and the U.S. Army' and concluded it is 'a manufactured, terrestrial alloy' primarily composed of magnesium, zinc and bismuth with trace elements including lead.",
+"tier": 2
+},
+{
+"source": "https://www.prnewswire.com/news-releases/to-the-stars-academy-of-arts--science-announces-crada-with-the-us-army-combat-capabilities-development-command-to-advance-materiel-and-technology-innovations-300940211.html",
+"text": "The executed text of the TTSA-CCDC CRADA, its period of performance, its data-rights provisions, and any chain-of-custody documentation for material delivered to Army laboratories have not been publicly released.",
+"tier": 3
+}
+],
+"denialPosture": "TTSA has not been the subject of an official denial addressed to it by name. The nearest thing in the record is AARO's 2024 finding that a sample it acquired 'from a private UAP investigating organization and the U.S. Army' is a manufactured terrestrial alloy of magnesium, zinc and bismuth with no exceptional qualities, and its characterisation of KONA BLUE - proposed by the same personnel network - as a prospective special access programme that DHS never approved and whose supporters 'never provided empirical evidence to support their claims.'",
+"narrative": "To The Stars Academy is the most thoroughly documented entity on this board, for a reason that has nothing to do with UAP: it sold securities. A company that offers stock under Regulation A must file with the SEC, and the filings are public, dated, signed and auditable. The FY2017 Form 1-K is therefore the closest thing this subject has to a sworn organisational chart.\n\nWhat it shows is a very small company with a very unusual staff. Officers and directors were Tom DeLonge as president and interim chief executive; Jim Semivan as vice president of operations and director; and Harold E. Puthoff as vice president of science and technology and director. The filing states that Semivan 'retired from the Central Intelligence Agency's Directorate of Operations after 25 years working as an operations officer both overseas and domestically,' that he 'was a member of the CIA's Senior Intelligence Service,' and that he 'currently holds Top Secret Clearances.' It states that Puthoff is president and chief executive of EarthTech International and director of the Institute for Advanced Studies at Austin. Two significant employees are listed: Steve Justice, Director of Advanced Programs and Technology, part-time at twenty hours a week, whose industry background the filing ties to the Lockheed organisation 'known as the \"Skunk Works\"'; and Luis Elizondo, Chief of Security and Special Programs, full-time, described as a career intelligence officer. As of 31 December 2017 the company had eleven employees.\n\nThe financial picture in the same filing is stark. Revenues for 2017 were $1,376,215 against cost of revenues of $750,932, producing gross profit of $625,283 - essentially a merchandise and music business. The net loss for 2017 was $30,665,436, against $422,670 the prior year, almost entirely non-cash stock compensation. Gravity Holdings LLC, whose sole member is the DeLonge Family Trust, held 60,000,000 Class A shares, 85.7 per cent of the class. This was not a research budget. It was a capital structure wrapped around a founder and a small group of named individuals.\n\nWhat the company did with that structure is the part that belongs on this map. It became, as the filing puts it, 'the very first company to obtain official U.S. Government footage of unidentified aerial phenomena (\"UAP\") that had gone through the declassification process and been approved for public release,' publishing the footage through its online Community of Interest. The videos that entered the mainstream through the New York Times in December 2017 - the material now known as FLIR1, Gimbal and GoFast - reached the public through a private securities issuer, not through a Pentagon press release. That routing is itself a finding. A declassification review was completed and the product was handed to a company in which a serving-until-recently Pentagon official was chief of security and special programs.\n\nOn 17 October 2019 TTSA announced a Cooperative Research and Development Agreement with the US Army Combat Capabilities Development Command 'to advance TTSA's materiel and technology innovations in order to develop enhanced capabilities for Army ground vehicles.' The announcement described the technology set as leveraging 'developments in material science, space-time metric engineering, quantum physics, beamed energy propulsion, and active camouflage,' and set out the exchange: 'TTSA will share its discoveries with Ground Vehicle System Center (GVSC) and Ground Vehicle Survivability and Protection (GVSP) and the U.S. Army shall provide laboratories, expertise, support, and resources to help characterize the technologies and its applications.' Dr Joseph Cannon of US Army Futures Command called the partnership 'an exciting, non-traditional source for novel materials and transformational technologies.' Steve Justice, by then TTSA's chief operating officer and aerospace division director, said the agreement brought 'additional, critically important expertise that is necessary to advance the state-of-the-art in both our near and long-term technology areas of study.'\n\nRead against the rest of this board, the CRADA is the important document. A private company holding material it described as anomalous obtained access to Army laboratories to characterise it, under an instrument that is not a procurement contract and does not require the government to pay. A CRADA moves capability and data across the government-private boundary in both directions with far less contractual and oversight furniture than a prime contract, and it does so without a competitive solicitation. Whether or not anything anomalous was ever in those laboratories, the mechanism is precisely the kind of low-visibility government-private research channel this board is built to map.\n\nThe network did not begin with TTSA and did not end with it. AARO's Historical Record Report records that after AAWSAP was terminated, 'its supporters unsuccessfully attempted to convince DHS to support a new version of this effort dubbed KONA BLUE,' which AARO characterises as 'a UAP-related Prospective Special Access Program (PSAP) called KONA BLUE that was proposed to the Department of Homeland Security (DHS) and supported by individuals who believed the USG was hiding off-world technology,' and which 'was never approved by DHS.' The same people, in sequence: a DIA contract, a proposed DHS special access programme, a Delaware public benefit corporation, a congressional hearing.\n\nElizondo, Christopher Mellon and Justice departed in December 2020, the aerospace and materials work wound down, and the entity renamed itself To The Stars Inc. and returned to entertainment. What it leaves behind is a documentary trail that is unusually hard to argue with, because it was filed under penalty of securities law: names, ages, clearances, prior employers, share counts, losses, and an executed agreement with a US Army laboratory command.",
+"openQuestions": [
+"The full executed CRADA between TTSA and the Army Combat Capabilities Development Command has not been released; its statement of work, data rights, term and any material transfer provisions are unknown.",
+"Whether the sample AARO says it obtained 'from a private UAP investigating organization and the U.S. Army' is the same material that moved under the TTSA CRADA is not established by any document reviewed here.",
+"The route by which the FLIR1, Gimbal and GoFast videos passed prepublication review and reached a private securities issuer rather than a government release channel is not documented in the public record.",
+"What happened to TTSA's materials holdings when the aerospace and science divisions wound down in 2020-2022, and who holds them now.",
+"Whether any TTSA principal was under a live nondisclosure or special-access indoctrination instrument at the time of the company's public statements, and whether DoD SAPCO approval under DoDD 5205.07 Section 3.1.g was sought or given for any briefing to Congress."
+],
+"roles": [
+"disclosure",
+"custody",
+"reverse-engineering"
+],
+"whatItIs": "To The Stars Academy of Arts and Science Inc. was a Delaware public benefit corporation incorporated in 2017 and registered with the SEC under Commission File Number 024-10728, CIK 1710274, EIN 82-0601064. Its directors were Tom DeLonge, former CIA Directorate of Operations officer Jim Semivan, and physicist Harold Puthoff; Lockheed Skunk Works veteran Steve Justice and former Pentagon official Luis Elizondo were listed as significant employees. It raised money through a Regulation A offering, hosted the first officially released US military UAP videos, and signed a research agreement with the US Army before winding down its aerospace work and reverting to entertainment as To The Stars Inc.",
+"whyImplicated": "TTSA matters to this map not as a research institution but as a legal vehicle. For roughly three years it was the corporate person through which men carrying intelligence, special-access and black-aerospace careers could act in public, hold material, sign agreements with the government, and speak to Congress and the press without a government employer's prepublication apparatus sitting on top of every sentence. Its SEC filings are the single richest primary record on this board of who those people were, what clearances and career histories they carried, and what the venture was actually organised to do. In October 2019 it converted that standing into a Cooperative Research and Development Agreement with the US Army Combat Capabilities Development Command covering 'material science, space-time metric engineering, quantum physics, beamed energy propulsion, and active camouflage' - a government laboratory relationship with a private company that held claimed anomalous material. AARO's own history records the same personnel network attempting to reconstitute the AAWSAP effort inside the Department of Homeland Security as the prospective special access programme KONA BLUE."
+},
+"entityInfo": {
+"desc": "Corporate identifiers for the record: To The Stars Academy of Arts and Science Inc., Delaware public benefit corporation, SEC Commission File Number 024-10728, CIK 0001710274, IRS EIN 82-0601064. Officers per the FY2017 Form 1-K: Thomas DeLonge (President, interim CEO, age 42), James Semivan (VP Operations, 65), Harold E. Puthoff (VP Science and Technology, 81), Louis Tommasino (Treasurer/CFO, 54), Kari DeLonge (Chief Content Officer, 35), Lisa Clifford (Secretary, 49). Significant employees: Steve Justice (Director of Advanced Programs and Technology, 61, part-time) and Luis Elizondo (Chief of Security and Special Programs, 45, full-time). Directors: DeLonge, Semivan, Puthoff. Advisory board included Christopher K. Mellon. FY2017: revenues $1,376,215; gross profit $625,283; operating loss $30,592,518; net loss $30,665,436; stock-based compensation $29,535,799. Shares outstanding at 31 December 2017: 70,000,000 Class A and 5,400 Class B; Gravity Holdings LLC held 60,000,000 Class A (85.7%). Regulation A offering launched September 2017 targeting $50,000,000; approximately $1.09 million raised by April 2018 ($800,000 received March 2018, $150,000 April 2018, $86,000 pending). A July 2020 Regulation A 'testing the waters' exhibit put the company's valuation at $65 million, sought $30 million at $5.00 per share with a $750 minimum investment, and cited 3.7 million combined social media followers.",
+"sources": [
+{
+"date": "2018-04-30",
+"name": "SEC EDGAR — TTSA Form 1-K Part II (CIK 1710274)",
+"url": "https://www.sec.gov/Archives/edgar/data/1710274/000114420418023727/tv492460_partii.htm"
+},
+{
+"date": "2020-07-24",
+"name": "SEC EDGAR — TTSA Regulation A offering exhibit",
+"url": "https://www.sec.gov/Archives/edgar/data/1710274/000110465920089220/tm2023098d2_ex13-1.htm"
+}
+]
+},
+"era": "3",
+"foia": {
+"questions": [
+0,
+1
+],
+"requests": [
+{
+"agency": "Army",
+"partial": [],
+"questions": [
+0,
+1
+],
+"request": "F5",
+"sendTo": "U.S. Army TACOM Life Cycle Management Command FOIA Office, Warren MI 48397, for DEVCOM Ground Vehicle Systems Center (formerly CCDC GVSC), 6501 E. 11 Mile Road, Warren MI. Cross-file with the DEVCOM Office of Research and Technology Applications (ORTA).",
+"status": "not filed",
+"title": "Army - CRADA 19-15 close-out report and test data"
+}
+]
+},
+"hl": null,
+"id": "ttsa",
+"l0": true,
+"label": "To The Stars Academy of Arts & Science Inc. (later To The Stars Inc.)",
+"locLabel": null,
+"members": [
+{
+"cls": "document",
+"id": "aaro-metallic-specimen-analysis",
+"label": "AARO / ORNL Synopsis: Analysis of a Metallic Specimen",
+"tier": "B"
+},
+{
+"cls": "person",
+"id": "christopher-mellon",
+"label": "Christopher K. Mellon",
+"tier": "A"
+},
+{
+"cls": "institution",
+"id": "general-atomics",
+"label": "General Atomics",
+"tier": "C"
+},
+{
+"cls": "person",
+"id": "harold-puthoff",
+"label": "Harold E. Puthoff",
+"tier": "A"
+},
+{
+"cls": "person",
+"id": "jim-semivan",
+"label": "James 'Jim' Semivan",
+"tier": "C"
+},
+{
+"cls": "person",
+"id": "kari-delonge",
+"label": "Kari DeLonge",
+"tier": "C"
+},
+{
+"cls": "person",
+"id": "kit-green",
+"label": "Christopher C. 'Kit' Green",
+"tier": "A"
+},
+{
+"cls": "location",
+"id": "l-encinitas",
+"label": "Encinitas, California",
+"tier": "C"
+},
+{
+"cls": "person",
+"id": "luis-elizondo",
+"label": "Luis D. Elizondo",
+"tier": "A"
+},
+{
+"cls": "document",
+"id": "navy-flir-gimbal-gofast-videos",
+"label": "FLIR1, Gimbal and GoFast Navy gun-camera videos",
+"tier": "B"
+},
+{
+"cls": "person",
+"id": "steve-justice",
+"label": "Steve Justice",
+"tier": "B"
+},
+{
+"cls": "institution",
+"id": "the-intercept",
+"label": "The Intercept",
+"tier": "C"
+},
+{
+"cls": "person",
+"id": "tom-delonge",
+"label": "Thomas Matthew DeLonge",
+"tier": "C"
+},
+{
+"cls": "event",
+"id": "ttsa-launch-2017",
+"label": "To The Stars Academy public launch, 11 October 2017",
+"tier": "C"
+},
+{
+"cls": "event",
+"id": "unidentified-history-series",
+"label": "'Unidentified: Inside America's UFO Investigation' (History Channel)",
+"tier": "C"
+}
+],
+"short": "To The Stars Academy",
+"sources": [
+{
+"date": "2018-04-30",
+"name": "SEC EDGAR — TTSA Form 1-K Part II (CIK 1710274)",
+"url": "https://www.sec.gov/Archives/edgar/data/1710274/000114420418023727/tv492460_partii.htm"
+},
+{
+"date": "2020-07-24",
+"name": "SEC EDGAR — TTSA Regulation A offering exhibit",
+"url": "https://www.sec.gov/Archives/edgar/data/1710274/000110465920089220/tm2023098d2_ex13-1.htm"
+},
+{
+"date": "2017-10-11",
+"name": "PR Newswire — To The Stars Academy Of Arts & Science Launches Today",
+"url": "https://www.prnewswire.com/news-releases/to-the-stars-academy-of-arts--science-launches-today-300534912.html"
+},
+{
+"date": "2026-08-12",
+"name": "Wikipedia — To The Stars Inc.",
+"url": "https://en.wikipedia.org/wiki/To_the_Stars_(company)."
+},
+{
+"date": "2020-08-03",
+"name": "SEC EDGAR: To The Stars Academy of Arts and Science Form 1-A Exhibit 6.28 - CRADA 19-15 'Novel & Emerging Technology Exploitation' with U.S. Army CCDC Ground Vehicle Systems Center",
+"url": "https://www.sec.gov/Archives/edgar/data/1710274/000110465920089220/tm2023098d2_ex6-28.htm"
+},
+{
+"date": "2020-08-03",
+"name": "SEC EDGAR: TTSA Form 1-A Exhibit 6.26, Cooperative Marketing Agreement referencing the Army NETE CRADA",
+"url": "https://www.sec.gov/Archives/edgar/data/1710274/000110465920089220/tm2023098d2_ex6-26.htm"
+},
+{
+"date": "2024-03-08",
+"name": "AARO, 'Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP), Volume I'",
+"url": "https://documents2.theblackvault.com/documents/dod/AARO_Historical_Record_Report_Volume_1_2024.pdf"
+},
+{
+"date": "2024-07-11",
+"name": "The Black Vault, 'AARO Releases Findings on Suspected Extraterrestrial Alloy' (ORNL analysis of the magnesium specimen)",
+"url": "https://www.theblackvault.com/documentarchive/aaro-releases-findings-on-suspected-extraterrestrial-alloy/"
+},
+{
+"date": "2026-04-29",
+"name": "SEC EDGAR filing index for To The Stars Inc. (CIK 0001710274)",
+"url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001710274&type=1-K&dateb=&owner=include&count=40"
+}
+],
+"sub": "Delaware public benefit corporation, SEC CIK 1710274",
+"tier": "A",
+"tierRationale": "Re-graded A on a global pass (rank 52 of 1027, score 78). 18 connections, 4 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C3/A2/D3.",
+"timeline": [
+{
+"date": "2018-10-15",
+"id": "tl-2018-10-deficit",
+"label": "TTSA's $37.4 million deficit reported",
+"precision": "day",
+"strand": "program",
+"text": "Vice reports SEC filings showing a $37.4 million accumulated deficit, $129,000 cash on hand, roughly $1 million raised against a $50 million target, and a going-concern warning.",
+"tier": "A"
+},
+{
+"date": "2020-12-01",
+"id": "tl-2020-12-departures",
+"label": "Elizondo, Mellon and Justice leave TTSA",
+"precision": "month",
+"strand": "program",
+"text": "The three government-side principals depart; the aerospace and materials work winds down and the entity later renames itself To The Stars Inc.",
+"tier": "B"
+}
+]
+}

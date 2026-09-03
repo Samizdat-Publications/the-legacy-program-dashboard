@@ -1,0 +1,95 @@
+{
+"A": 3,
+"C": 1,
+"D": 0,
+"affiliations": [
+"Office of the Under Secretary of Defense for Intelligence"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "2017-10-03",
+"event": "Receives Elizondo's first resignation letter, hand-delivered.",
+"precision": "day"
+}
+],
+"claims": [
+{
+"source": "The Black Vault, OSD/JS FOIA case 18-F-0324 timeline entry",
+"text": "Identified as the supervisor to whom Elizondo's 3 October 2017 resignation letter was addressed; Elizondo's attorney Todd McMurtry confirmed the letter was hand-delivered directly to DoD rather than submitted through standard channels.",
+"tier": 2
+}
+],
+"cls": "person",
+"cluster": "ic",
+"conflicts": [
+"The FOIA extraction renders the addressee as an office abbreviation rather than a personal name; The Black Vault's timeline entry identifies Garrity."
+],
+"connections": [
+{
+"claimTier": 2,
+"cls": "document",
+"dateEnd": "2017",
+"dateStart": "2017",
+"direction": "in",
+"edgeLabel": "Submitted to his supervising official, hand-delivered",
+"id": "elizondo-resignation-letter-1",
+"l0": false,
+"label": "Elizondo Resignation Letter #1, 3 October 2017",
+"note": "Elizondo's attorney Todd McMurtry confirmed the letter was hand-delivered rather than routed through standard channels; The Black Vault identifies the recipient as John Garrity.",
+"sources": [
+{
+"date": "2022-08-17",
+"name": "The Black Vault — Resignation Letter #1",
+"url": "https://www.theblackvault.com/documentarchive/timeline-post/mr-luis-elizondo-submits-resignation-letter-1/"
+}
+],
+"tier": "C",
+"type": "institutional"
+}
+],
+"date": "2017-10-03",
+"dateEnd": null,
+"dateStart": "2017-10-03",
+"deg": 1,
+"denials": [],
+"domains": [
+"elizondo-ttsa"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "john-garrity",
+"instId": "ousdi",
+"l0": false,
+"label": "John Garrity",
+"loc": "Arlington, VA",
+"locId": "l-pentagon",
+"members": null,
+"narrative": "Garrity is identified as the DoD official to whom Elizondo's first resignation letter of 3 October 2017 was submitted. The letter, released in FOIA 18-F-0324, is a short formal note: 'Effective 4 October 2017, I humbly submit my resignation as Director, National Programs Special Management Staff... I respectfully request I receive a deferred retirement.' Elizondo's attorney Todd McMurtry confirmed the letter was hand-delivered rather than routed through standard channels. Garrity matters because the letter he received is the single cleanest documentary proof of Elizondo's actual title and departure date, and it is that title the Department has never disputed even while disputing everything else.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "John Garrity",
+"sources": [
+{
+"date": "2022-08-17",
+"name": "The Black Vault — Mr. Luis Elizondo Submits Resignation Letter #1",
+"url": "https://www.theblackvault.com/documentarchive/timeline-post/mr-luis-elizondo-submits-resignation-letter-1/"
+}
+],
+"status": "former",
+"sub": "Elizondo's supervising official at OUSD(I), 2017",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 845 of 1027, score 16). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A3/D0.",
+"timeline": [],
+"unexplainedResidual": null,
+"unverified": [
+"Garrity's exact title and whether he took any action on the letter."
+]
+}

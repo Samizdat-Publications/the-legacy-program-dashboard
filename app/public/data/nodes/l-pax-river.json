@@ -1,0 +1,150 @@
+{
+"A": 3,
+"C": 3,
+"D": 1,
+"band": null,
+"claims": [
+{
+"source": "Christopher Sharp, Liberation Times, 13 January 2026, citing unnamed sources",
+"text": "An exotic vehicle of unknown origin has been stored for decades at Naval Air Station Patuxent River, with contingency plans to relocate it if publicly identified.",
+"tier": 2
+},
+{
+"source": "Liberation Times, 13 January 2026, citing Elizondo's written congressional testimony",
+"text": "Elizondo claimed in written testimony to Congress that Patuxent River was among the sites prepared in connection with the Lockheed Martin - Bigelow Aerospace transfer, including a hangar designed to facilitate movement of material by air and by river.",
+"tier": 2
+}
+],
+"cls": "location",
+"cluster": "contractor",
+"connections": [
+{
+"claimTier": 2,
+"cls": "institution",
+"dateEnd": "2026",
+"dateStart": "2026",
+"direction": "in",
+"edgeLabel": "Lockheed Martin is named among the contractors supporting NAVAIR work at the site alleged to store an exotic vehicle",
+"id": "lockheed-martin",
+"l0": true,
+"label": "Lockheed Martin Corporation",
+"note": "Liberation Times reported in January 2026 that an exotic vehicle has been stored at Pax River for decades and that the supporting contractor ecosystem has included Lockheed Martin and MITRE.",
+"sources": [
+{
+"date": "2026-01-13",
+"name": "Christopher Sharp, 'UFO Allegedly Stored At East Coast Navy Facility As Material Transfer Claims Resurface,' Liberation Times",
+"url": "https://www.liberationtimes.com/home/ufo-allegedly-stored-at-east-coast-navy-facility-as-material-transfer-claims-resurface"
+}
+],
+"tier": "A",
+"type": "custody"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2026",
+"dateStart": "2026",
+"direction": "in",
+"edgeLabel": "Elizondo placed Pax River among the sites prepared for the blocked Lockheed-Bigelow transfer",
+"id": "luis-elizondo",
+"l0": false,
+"label": "Luis D. Elizondo",
+"note": "Reported from his written congressional testimony: a hangar at the base was allegedly designed to facilitate movement of material by air and by river.",
+"sources": [
+{
+"date": "2026-01-13",
+"name": "Christopher Sharp, 'UFO Allegedly Stored At East Coast Navy Facility As Material Transfer Claims Resurface,' Liberation Times",
+"url": "https://www.liberationtimes.com/home/ufo-allegedly-stored-at-east-coast-navy-facility-as-material-transfer-claims-resurface"
+}
+],
+"tier": "A",
+"type": "witness-chain"
+},
+{
+"claimTier": 2,
+"cls": "institution",
+"dateEnd": "2026",
+"dateStart": "2026",
+"direction": "in",
+"edgeLabel": "MITRE is named among the FFRDC and contractor ecosystem supporting NAVAIR programs at Pax River",
+"id": "mitre-corporation",
+"l0": true,
+"label": "The MITRE Corporation",
+"note": "The FFRDC form grants privileged long-term access to classified holdings while barring manufacturing and competition; no allegation of custody attaches to MITRE.",
+"sources": [
+{
+"date": "2026-01-13",
+"name": "Christopher Sharp, 'UFO Allegedly Stored At East Coast Navy Facility As Material Transfer Claims Resurface,' Liberation Times",
+"url": "https://www.liberationtimes.com/home/ufo-allegedly-stored-at-east-coast-navy-facility-as-material-transfer-claims-resurface"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "2019-06-01",
+"dateStart": "2015-07-24",
+"direction": "in",
+"edgeLabel": "NAWCAD, NAS Patuxent River, at the time of filing",
+"id": "salvatore-pais",
+"l0": false,
+"label": "Salvatore Cezar Pais",
+"note": "The PAX 205 briefing gives his station as NAS Patuxent River Maryland 20670.",
+"sources": [
+{
+"date": null,
+"name": "NAVAIR FOIA release 2021-003244, p. 1",
+"url": "https://www.navair.navy.mil/foia/sites/g/files/jejdrs566/files/document/%5Bfilename%5D/2021-003244%20FINAL%20VERSION%20PAX%20205%20-%20INERTIAL%20MASS%20REDUCTION%20DEVICE.pdf"
+}
+],
+"tier": "A",
+"type": "institutional"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "1943",
+"deg": 4,
+"denials": [],
+"desc": "Pax River is the headquarters of Naval Air Systems Command and the Navy's principal aviation research, development, test and evaluation centre; its FOIA reading room became the official repository for the Gimbal and GoFast UAP videos in 2020. In January 2026 Liberation Times reported that an exotic vehicle of unknown origin has been stored at the base for decades, that sources declined to describe it or say where it was found, and that contingency plans may exist to relocate it if the location were publicly identified. The reporting notes that NAVAIR Program Executive Offices manage the contracts through which analysis and exploitation work would run, and that the supporting contractor ecosystem has included Lockheed Martin and MITRE. Elizondo, in written testimony to Congress, placed Pax River among the sites prepared in connection with the blocked Lockheed Martin - Bigelow transfer, alleging a hangar designed to move material by air and by river. The board records this as tier-2 reporting resting on unnamed sources, with the Elizondo written-testimony element as its strongest anchor.",
+"domains": [
+"primes-custody"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "l-pax-river",
+"l0": false,
+"label": "Naval Air Station Patuxent River, Maryland",
+"locLabel": null,
+"members": null,
+"short": "Naval Air Station Patuxent River, Maryland",
+"sources": [
+{
+"date": "2026-01-13",
+"name": "Christopher Sharp, 'UFO Allegedly Stored At East Coast Navy Facility As Material Transfer Claims Resurface,' Liberation Times",
+"url": "https://www.liberationtimes.com/home/ufo-allegedly-stored-at-east-coast-navy-facility-as-material-transfer-claims-resurface"
+}
+],
+"sub": "NAVAIR headquarters; alleged long-term storage site",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 293 of 1027, score 37). 4 connections, 2 of them custody/witness/funding/programmatic. Axes C3/A3/D1.",
+"timeline": [
+{
+"date": "2026-01-13",
+"id": "pc-2026-01-pax",
+"label": "Pax River storage claim surfaces",
+"precision": "day",
+"strand": "program",
+"text": "Liberation Times reports that an exotic vehicle of unknown origin has been stored for decades at Naval Air Station Patuxent River, with contingency relocation plans, and that Elizondo's written congressional testimony placed the base among sites prepared for the blocked Lockheed-Bigelow transfer.",
+"tier": "B"
+}
+]
+}

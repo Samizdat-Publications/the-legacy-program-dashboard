@@ -1,0 +1,435 @@
+{
+"A": 2,
+"C": 0,
+"D": 1,
+"band": "disclosure",
+"claims": [
+{
+"source": "The Roswell Report: Case Closed (1997), Introduction",
+"text": "The report identifies its four conclusions as consolidation of many years of Air Force activity into July 1947; anthropomorphic test dummies as the 'aliens'; high-altitude balloon launch and recovery as the 'unusual' military activity; and a 1956 KC-97 accident plus a 1959 manned balloon mishap as the source of the hospital bodies accounts.",
+"tier": 1
+},
+{
+"source": "The Roswell Report: Case Closed (1997), Guide for Readers and Appendix C",
+"text": "Appendix C prints full interview transcripts of Gerald Anderson (p. 187), Glenn Dennis (p. 197), Alice Knight (p. 213), Vern Maltais (p. 214) and James Ragsdale (p. 215); the Dennis interview was provided by the interviewer, Karl T. Pflock.",
+"tier": 1
+},
+{
+"source": "The Roswell Report: Case Closed (1997), Appendix B",
+"text": "Appendix B prints sworn witness statements from Charles E. Clouthier, Col. Charles A. Coltman Jr., Col. Dan D. Fulgham, Bernard D. Gildenberg, MSgt Ole Jorgeson, Lt. Col. William C. Kaufman, Col. Joseph W. Kittinger Jr., CMSgt Roland H. Lutz, Lt. Col. Raymond A. Madson and Dr. Frank B. Nordstrom.",
+"tier": 1
+},
+{
+"source": "The Roswell Report: Case Closed (1997), Section 1.1, pull quote at p. 12",
+"text": "The report states: 'It must be emphasized that the claims of bodies only became part of the Roswell Incident after 1978, when they were erroneously linked to the July 1947 retrieval of Project Mogul components.'",
+"tier": 1
+}
+],
+"cls": "document",
+"cluster": "oversight",
+"connections": [
+{
+"claimTier": 3,
+"cls": "event",
+"dateEnd": "2010",
+"dateStart": "1996",
+"direction": "in",
+"edgeLabel": "Two official inquiries that explained the recovery activity without producing the logs",
+"id": "ev-varginha-1996",
+"l0": false,
+"label": "Varginha incident, Minas Gerais, January 1996",
+"note": "The Brazilian Army's 2010 inquiry explained the Varginha vehicle movements as routine maintenance and school transport; the USAF's 1997 report explained the New Mexico recovery teams as dummy-recovery operations. Both are plausible and neither published the underlying unit movement records. Reasoning: an explanation of activity is not the same artifact as the activity log.",
+"sources": [
+{
+"date": "1997-01-01",
+"name": "The Roswell Report: Case Closed (1997)",
+"url": "https://archive.org/details/AFD-101027-030"
+}
+],
+"tier": "B",
+"type": "denial"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "1997",
+"dateStart": "1997",
+"direction": "in",
+"edgeLabel": "The 1997 report dismantled the 'missing nurse' account by name",
+"id": "glenn-dennis",
+"l0": false,
+"label": "W. Glenn Dennis",
+"note": "Section 2.1 uses 427th AAFBU Squadron 'M' morning reports and National Personnel Records Center searches to show 'Naomi Maria Selff' never served, and identifies 1st Lt. Eileen M. Fanton as matching every other particular.",
+"sources": [
+{
+"date": "1997-01-01",
+"name": "The Roswell Report: Case Closed (1997)",
+"url": "https://archive.org/details/AFD-101027-030"
+}
+],
+"tier": "C",
+"type": "denial"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "1997",
+"dateStart": "1997",
+"direction": "in",
+"edgeLabel": "Sole author of the 1997 bodies report",
+"id": "james-mcandrew",
+"l0": false,
+"label": "Capt. James McAndrew",
+"note": "Published by Headquarters USAF through the GPO; McAndrew, born 1963, is the named author on the catalogue record.",
+"sources": [
+{
+"date": "1997-01-01",
+"name": "The Roswell Report: Case Closed (1997)",
+"url": "https://archive.org/details/AFD-101027-030"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "1997",
+"dateStart": "1997",
+"direction": "in",
+"edgeLabel": "Ragsdale's own words were used to support the dummy explanation",
+"id": "jim-ragsdale",
+"l0": false,
+"label": "James Ragsdale",
+"note": "The report quotes Ragsdale saying of the objects, 'They were using dummies in those damned things', and prints his interview transcript at Appendix C p. 215.",
+"sources": [
+{
+"date": "1997-01-01",
+"name": "The Roswell Report: Case Closed (1997)",
+"url": "https://archive.org/details/AFD-101027-030"
+}
+],
+"tier": "C",
+"type": "denial"
+},
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": "1997",
+"dateStart": "1997",
+"direction": "out",
+"edgeLabel": "Air Force proposes San Agustin Pass confusion and dummy recoveries",
+"id": "plains-san-agustin-1947",
+"l0": false,
+"label": "Plains of San Agustin claim, July 1947",
+"note": "Section 1.4 argues that Maltais and Knight may have confused the Plains with San Agustin Pass or Peak, adjacent to White Sands and the Jornada Test Range, where numerous dummy flights terminated.",
+"sources": [
+{
+"date": "1997-01-01",
+"name": "The Roswell Report: Case Closed (1997)",
+"url": "https://archive.org/details/AFD-101027-030"
+}
+],
+"tier": "B",
+"type": "denial"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "1997",
+"dateStart": "1995",
+"direction": "out",
+"edgeLabel": "The 1997 report completes what the 1994-1995 report left open",
+"id": "roswell-report-1995",
+"l0": false,
+"label": "The Roswell Report: Fact Versus Fiction in the New Mexico Desert (1995)",
+"note": "The 1994 report addressed the debris and did not address the bodies claims; the 1997 report was produced to close that gap.",
+"sources": [
+{
+"date": "1997-01-01",
+"name": "The Roswell Report: Case Closed (1997)",
+"url": "https://archive.org/details/AFD-101027-030"
+}
+],
+"tier": "C",
+"type": "temporal"
+}
+],
+"coords": null,
+"dateEnd": "1997",
+"dateStart": "1997",
+"deg": 6,
+"denials": [
+{
+"by": {
+"id": "ev-varginha-1996",
+"label": "Varginha incident, Minas Gerais, January 1996"
+},
+"claimTier": 3,
+"denialKind": "association",
+"label": "Two official inquiries that explained the recovery activity without producing the logs",
+"note": "The Brazilian Army's 2010 inquiry explained the Varginha vehicle movements as routine maintenance and school transport; the USAF's 1997 report explained the New Mexico recovery teams as dummy-recovery operations. Both are plausible and neither published the underlying unit movement records. Reasoning: an explanation of activity is not the same artifact as the activity log.",
+"of": {
+"id": "roswell-report-case-closed",
+"label": "The Roswell Report: Case Closed (1997)"
+},
+"sources": [
+{
+"date": "1997-01-01",
+"name": "The Roswell Report: Case Closed (1997)",
+"url": "https://archive.org/details/AFD-101027-030"
+}
+]
+},
+{
+"by": {
+"id": "roswell-report-case-closed",
+"label": "The Roswell Report: Case Closed (1997)"
+},
+"claimTier": 1,
+"denialKind": "directed",
+"label": "The 1997 report dismantled the 'missing nurse' account by name",
+"note": "Section 2.1 uses 427th AAFBU Squadron 'M' morning reports and National Personnel Records Center searches to show 'Naomi Maria Selff' never served, and identifies 1st Lt. Eileen M. Fanton as matching every other particular.",
+"of": {
+"id": "glenn-dennis",
+"label": "W. Glenn Dennis"
+},
+"sources": [
+{
+"date": "1997-01-01",
+"name": "The Roswell Report: Case Closed (1997)",
+"url": "https://archive.org/details/AFD-101027-030"
+}
+]
+},
+{
+"by": {
+"id": "roswell-report-case-closed",
+"label": "The Roswell Report: Case Closed (1997)"
+},
+"claimTier": 1,
+"denialKind": "directed",
+"label": "Ragsdale's own words were used to support the dummy explanation",
+"note": "The report quotes Ragsdale saying of the objects, 'They were using dummies in those damned things', and prints his interview transcript at Appendix C p. 215.",
+"of": {
+"id": "jim-ragsdale",
+"label": "James Ragsdale"
+},
+"sources": [
+{
+"date": "1997-01-01",
+"name": "The Roswell Report: Case Closed (1997)",
+"url": "https://archive.org/details/AFD-101027-030"
+}
+]
+},
+{
+"by": {
+"id": "roswell-report-case-closed",
+"label": "The Roswell Report: Case Closed (1997)"
+},
+"claimTier": 1,
+"denialKind": "directed",
+"label": "Air Force proposes San Agustin Pass confusion and dummy recoveries",
+"note": "Section 1.4 argues that Maltais and Knight may have confused the Plains with San Agustin Pass or Peak, adjacent to White Sands and the Jornada Test Range, where numerous dummy flights terminated.",
+"of": {
+"id": "plains-san-agustin-1947",
+"label": "Plains of San Agustin claim, July 1947"
+},
+"sources": [
+{
+"date": "1997-01-01",
+"name": "The Roswell Report: Case Closed (1997)",
+"url": "https://archive.org/details/AFD-101027-030"
+}
+]
+}
+],
+"desc": "The second and more consequential official Air Force report, authored by James McAndrew and published by Headquarters United States Air Force through the Government Printing Office in 1997, addressing the alien-bodies claims that the 1994-1995 report had not covered. Its four stated conclusions are that Air Force activities spanning many years were consolidated into two or three days in July 1947; that the 'aliens' were probably anthropomorphic test dummies carried aloft by high-altitude balloons; that the 'unusual' military activity in the desert was balloon launch and recovery, with the units that always arrived shortly after a crash being accurate descriptions of dummy-recovery teams; and that the Roswell Army Air Field hospital bodies claims most likely combine a 1956 KC-97 crash killing eleven airmen with a 1959 manned balloon mishap injuring two pilots. The report also asserts flatly that 'the claims of bodies only became part of the Roswell Incident after 1978'. What makes it a first-order artifact rather than a press release is what it printed: anthropomorphic dummy launch and landing locations at Appendix A; sworn witness statements from ten named Air Force personnel at Appendix B including Col. Joseph W. Kittinger Jr., Col. Dan D. Fulgham, Bernard D. Gildenberg and Lt. Col. Raymond A. Madson; and full interview transcripts of five pro-UFO witnesses at Appendix C - Gerald Anderson, Glenn Dennis, Alice Knight, Vern Maltais and James Ragsdale, the Dennis interview supplied by its interviewer Karl T. Pflock. Section 2.1 is the most forensically detailed passage the US government has ever published on a UFO claim: it works the 427th AAF Base Unit Squadron 'M' morning reports and the National Personnel Records Center holdings to establish that Glenn Dennis's 'Naomi Maria Selff' never existed and to identify 1st Lt. Eileen M. Fanton as matching every other particular of his description.",
+"domains": [
+"w2-retrieval-literature"
+],
+"dossier": {
+"claims": [
+{
+"source": "The Roswell Report: Case Closed (HQ USAF, GPO, 1997), Introduction, p.3; full text at https://www.gutenberg.org/files/63659/63659-h/63659-h.htm",
+"text": "The report's stated conclusion is that \"'Aliens' observed in the New Mexico desert were probably anthropomorphic test dummies that were carried aloft by U.S. Air Force high altitude balloons for scientific research.\"",
+"tier": 1
+},
+{
+"source": "The Roswell Report: Case Closed (1997), p.3; https://www.gutenberg.org/files/63659/63659-h/63659-h.htm",
+"text": "The report asserts that \"Air Force activities which occurred over a period of many years have been consolidated and are now represented to have occurred in two or three days in July 1947.\"",
+"tier": 1
+},
+{
+"source": "The Roswell Report: Case Closed (1997), p.3; https://www.gutenberg.org/files/63659/63659-h/63659-h.htm",
+"text": "The report attributes claims of bodies at the Roswell Army Air Field hospital to a combination of a 1956 KC-97 aircraft accident in which 11 Air Force members were killed and a 1959 manned balloon mishap in which two Air Force pilots were injured.",
+"tier": 1
+},
+{
+"source": "The Roswell Report: Case Closed (1997), p.2; https://www.gutenberg.org/files/63659/63659-h/63659-h.htm",
+"text": "The report states that UFO proponents \"have failed to establish the accurate dates for these 'alien' observations (in some instances by more than a decade) and then erroneously linked them to the actual Project Mogul debris recovery.\"",
+"tier": 1
+},
+{
+"source": "The Roswell Report: Case Closed (1997), p.2; https://www.gutenberg.org/files/63659/63659-h/63659-h.htm",
+"text": "The report explicitly positions itself against cover-up allegations: its findings are presented as \"Contrary to allegations that the Air Force has engaged in a cover-up and possesses dark secrets involving the Roswell claims.\"",
+"tier": 1
+},
+{
+"source": "The Roswell Report: Case Closed (1997), author note; https://www.gutenberg.org/files/63659/63659-h/63659-h.htm",
+"text": "The author is Capt. James McAndrew, assigned to the Secretary of the Air Force Declassification and Review Team at the Pentagon, who was co-author with Col. Richard L. Weaver of the 1995 report The Roswell Report: Fact vs. Fiction in the New Mexico Desert and who had participated in the declassification of the Gulf War Air Power Survey (1993).",
+"tier": 1
+},
+{
+"source": "The Roswell Report: Case Closed (1997), List of Illustrations and Section One; https://www.gutenberg.org/files/63659/63659-h/63659-h.htm",
+"text": "The specific Air Force programs offered as the source of the 'alien body' reports are Projects High Dive and Excelsior; the report's figures identify the dummies as Alderson Laboratories anthropomorphic dummies and 'Sierra Sam' type dummies.",
+"tier": 1
+},
+{
+"source": "The Roswell Report: Case Closed (1997), Table of Contents / Appendix B; https://www.gutenberg.org/files/63659/63659-h/63659-h.htm",
+"text": "Appendix B of the report is a collection of signed sworn statements based on in-person interviews, including statements from Col. Charles A. Coltman Jr. USAF MC (Ret), Col. Dan D. Fulgham USAF (Ret) and Bernard D. Gildenberg GS-14 (Ret).",
+"tier": 1
+},
+{
+"source": "The Roswell Report: Case Closed (1997), Introduction, pp.2-3; https://www.gutenberg.org/files/63659/63659-h/63659-h.htm",
+"text": "The report exists because of a General Accounting Office inquiry initiated at the request of New Mexico Congressman Steven Schiff; the July 1994 Air Force records search that preceded it produced an approximately 1,000-page report published in 1995 (GPO Stock No. 008-070-00697-9, ISBN 0-16-048023-X).",
+"tier": 1
+},
+{
+"source": "The Roswell Report: Case Closed (1997), Introduction footnote, p.2; https://www.gutenberg.org/files/63659/63659-h/63659-h.htm",
+"text": "The Mogul records that carried the explanatory weight in the 1995 report had never been classified; other Mogul records were declassified along with millions of pages of unrelated executive branch documents under Executive Order 11652, issued 6 March 1972 by President Richard M. Nixon.",
+"tier": 1
+},
+{
+"source": "GAO/NSIAD-95-187, Government Records: Results of a Search for Records Concerning the 1947 Crash Near Roswell, New Mexico, 28 July 1995; https://www.gao.gov/assets/nsiad-95-187.pdf",
+"text": "The GAO audit that produced the Air Force reports found that Roswell Army Air Field administrative records from March 1945 through December 1949 and RAAF outgoing messages from October 1946 through December 1949 had been destroyed, and that the document disposition form did not indicate what organization or person destroyed the records, when, or under what authority.",
+"tier": 1
+},
+{
+"source": "AARO Historical Record Report Volume 1 (8 March 2024), p.22, summarising GAO/NSIAD-95-187; https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF",
+"text": "The GAO found that Army Air Force regulations in 1947 required air accident reports to be maintained permanently, that four air accidents were reported in New Mexico in July 1947 and all occurred after 8 July 1947 (the date the RAAF public information office announced the recovery of a 'flying disc'), and that USAF officials told GAO there was no requirement to report the crash of a balloon in 1947.",
+"tier": 1
+},
+{
+"source": "AARO Historical Record Report Volume 1 (8 March 2024), pp.21-22; https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF",
+"text": "The 1997 report remains a load-bearing element of the current official position: AARO's 2024 Historical Record Report Volume 1 cites The Roswell Report: Case Closed approvingly and restates its dummy explanation and its 1956 KC-97 / 1959 balloon-mishap conflation as settled findings.",
+"tier": 1
+},
+{
+"source": "https://archive.org/details/AFD-101027-030 ; official PDF copy at https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/RoswellReportCaseClosed.pdf",
+"text": "The report was publicly released on 24 June 1997, the fiftieth anniversary year of the Kenneth Arnold sighting, and runs 231 pages.",
+"tier": 2
+}
+],
+"connections": [
+"Rep. Steven H. Schiff (R-New Mexico) is the proximate cause of both Air Force reports; without his 1993 inquiry and the resulting GAO tasking neither document exists",
+"Col. Richard L. Weaver and Capt. James McAndrew are the two named Air Force authors across the 1995 and 1997 reports; McAndrew sat on the Secretary of the Air Force Declassification and Review Team",
+"Secretary of the Air Force Sheila E. Widnall issued the security release that made the interviews possible",
+"GAO/NSIAD-95-187 is the audit product that both enabled the reports and produced the unexplained record-destruction finding the reports do not address",
+"AFOSI District 17 at Kirtland AFB held the bulk of the New Mexico UFO investigative files; AFOSI declassified those files in 1975 and sent them to the National Archives, where per AFOSI's own command historian no Roswell documentation has been located among the Blue Book records",
+"Projects High Dive and Excelsior, Holloman AFB, Alderson Laboratories, Capt. Joseph W. Kittinger Jr. and Maj. David G. Simons are the substitute-explanation infrastructure",
+"AARO Historical Record Report Volume 1 (March 2024) carries the 1997 conclusions forward unqualified, making Case Closed a live component of the current official record",
+"President Clinton and Chief of Staff John Podesta made Roswell inquiries in the 1992-2001 window per AARO's own account, overlapping the production of Case Closed"
+],
+"denialPosture": "This document is the denial. It asserts finality in its title, expressly rejects \"allegations that the Air Force has engaged in a cover-up,\" and explains every witness-reported element of a retrieval operation as a misdated observation of an unclassified Air Force program. It is a denial of interpretation rather than of events, which is a distinct and more durable rhetorical form.",
+"narrative": "The sequence matters more than the content. In 1993 Rep. Steven H. Schiff (R-New Mexico) began asking the Department of Defense about Roswell and, dissatisfied, referred the matter to the General Accounting Office. The GAO tasking forced the Office of the Secretary of the Air Force into an exhaustive records search that concluded in July 1994 and produced roughly 1,000 pages of material, published in 1995 as The Roswell Report: Fact vs. Fiction in the New Mexico Desert. Secretary of the Air Force Sheila E. Widnall released interviewees from any security obligations that might have restricted their statements. The 1995 report's answer was Project Mogul: a then-classified balloon-borne acoustic sensor program whose train components, it said, accounted for the debris. Notably, the Mogul records that carried the explanatory weight had never been classified at all; other Mogul records had been declassified en masse under Executive Order 11652, signed by President Nixon on 6 March 1972.\n\nMogul explained debris. It did not explain bodies. Case Closed exists to close that gap, and its four stated conclusions are worth reading as a list of the specific narrative threads the Air Force needed cut. First, that Air Force activities occurring over a period of many years \"have been consolidated and are now represented to have occurred in two or three days in July 1947.\" Second, that \"'Aliens' observed in the New Mexico desert were probably anthropomorphic test dummies that were carried aloft by U.S. Air Force high altitude balloons for scientific research.\" Third, that the reports of military units arriving shortly after a crash to retrieve a saucer and its crew \"were actually accurate descriptions of Air Force personnel engaged in anthropomorphic dummy recovery operations.\" Fourth, that claims of bodies at the Roswell Army Air Field hospital were most likely a conflation of a 1956 KC-97 accident in which eleven airmen were killed and a 1959 manned balloon mishap in which two pilots were injured.\n\nRead as an intelligence product, this is a substitution table. Each item on the left is a witness-reported element of a retrieval operation - non-human bodies, a cordon, a convoy, a hospital, injured or dead personnel - and each item on the right is a real, documented, unclassified Air Force activity that produces the same observable. The Air Force is not arguing that nothing happened. It is arguing that everything happened, repeatedly, over fifteen years, and that the witnesses stacked it. The named substitutes are Projects High Dive and Excelsior, the Holloman-based dummy-drop and high-altitude-bailout programs; the dummies are identified in the report's own figures as Alderson Laboratories and 'Sierra Sam' type anthropomorphic dummies. Appendix B is a set of signed sworn statements from in-person interviews, including Col. Charles A. Coltman Jr. (USAF Medical Corps, retired), Col. Dan D. Fulgham (retired) - the pilot injured in the 1959 balloon mishap - and Bernard D. Gildenberg, the Holloman balloon engineer.\n\nThe report's own framing gives away its function. It states that its findings run \"Contrary to allegations that the Air Force has engaged in a cover-up and possesses dark secrets involving the Roswell claims.\" That sentence is not a finding; it is a rebuttal, and it identifies the audience. The title itself - Case Closed - is a declaration of jurisdiction over when an inquiry ends, which is the specific authority a service branch does not actually have with respect to Congress.\n\nWhat the report does not address is the record-destruction finding that emerged from the same GAO audit. GAO/NSIAD-95-187, released 28 July 1995, reported that RAAF administrative records from March 1945 through December 1949 and RAAF outgoing messages from October 1946 through December 1949 had been destroyed, and that the document disposition form did not indicate what organization or person destroyed them, when, or under what authority. The GAO also found that Army Air Force regulations in 1947 required air accident reports to be maintained permanently, that four such accidents were reported in New Mexico in July 1947 - all after 8 July, the date the RAAF public information office announced recovery of a flying disc - and that USAF officials told GAO there was no requirement to report the crash of a balloon.\n\nCase Closed has since been absorbed into the current official narrative without qualification. AARO's Historical Record Report Volume 1, published 8 March 2024, cites it approvingly, restating the dummy explanation and the 1956/1959 hospital conflation verbatim as established results. That continuity is the point: the 1997 denial is not a historical curiosity, it is a live load-bearing element of the 2024 denial.",
+"openQuestions": [
+"Who destroyed the RAAF outgoing messages for October 1946 - December 1949, when, and under what authority - the GAO could not determine and no subsequent inquiry has",
+"Whether the July 1994 Secretary of the Air Force records search reached into waived or unacknowledged special access program holdings, or was limited to conventional archives",
+"Why the Air Force chose the fiftieth-anniversary window for release, and who made that communications decision",
+"Whether any of the sworn statements in Appendix B were taken from witnesses who had independently raised the 1947 timeframe, or only from participants in the substitute programs",
+"The report explains bodies at the RAAF hospital by reference to 1956 and 1959 events, but does not account for why the hospital narrative attaches to 1947 in the first place"
+],
+"roles": [
+"concealment",
+"disclosure"
+],
+"whatItIs": "The Roswell Report: Case Closed is a 231-page official United States Air Force publication authored by Capt. James McAndrew of the Secretary of the Air Force Declassification and Review Team at the Pentagon, printed by the U.S. Government Printing Office and released on 24 June 1997. It is the follow-on to the 1994-95 Air Force report The Roswell Report: Fact vs. Fiction in the New Mexico Desert by Col. Richard L. Weaver and then-1st Lt. James McAndrew. Its purpose is to account for the reports of 'alien bodies' that the 1995 report had left unaddressed.",
+"whyImplicated": "This is a denial artifact, and it is catalogued here as evidence about the denier rather than about Roswell. It is dated, signed, congressionally provoked, and printed at government expense, which makes it the most attributable statement the Air Force has ever made on the subject - and its internal logic reveals precisely which claims the Air Force judged it could not leave standing. Its core mechanism is temporal: it asserts that Air Force activities spread across many years have been consolidated by witnesses into two or three days in July 1947, and that UFO proponents mis-dated the 'alien' observations \"in some instances by more than a decade.\" It was released on the 50th anniversary of the Kenneth Arnold sighting, a date choice that is itself a communications decision. And it is the direct product of a General Accounting Office audit initiated at the request of a sitting member of Congress, which means the Air Force wrote it under external compulsion rather than voluntarily - the only such instance in the pre-2017 record. The GAO audit that produced it also established, on the record, that Roswell Army Air Field's administrative records for March 1945 through December 1949 and its outgoing messages for October 1946 through December 1949 had been destroyed, with no indication of by whom or under what authority."
+},
+"entityInfo": {
+"desc": "The most heavily documented artifact in the Roswell record, on either side. It prints the anthropomorphic dummy launch and landing locations, sworn statements from ten named Air Force personnel including Joseph W. Kittinger Jr., and full interview transcripts of the five principal pro-UFO witnesses. Its Section 2.1 nurse analysis is the only occasion on which the United States government has publicly worked a UFO witness claim down to certified daily personnel accounting records and named the individual it believes the witness actually described. Whatever one concludes about Project Mogul and the dummies, this is the standard of documentation this board holds every claim to, including the ones it finds persuasive.",
+"sources": []
+},
+"era": "1",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "roswell-report-case-closed",
+"l0": true,
+"label": "The Roswell Report: Case Closed (1997)",
+"locLabel": null,
+"members": [
+{
+"cls": "event",
+"id": "ev-varginha-1996",
+"label": "Varginha incident, Minas Gerais, January 1996",
+"tier": "B"
+},
+{
+"cls": "person",
+"id": "glenn-dennis",
+"label": "W. Glenn Dennis",
+"tier": "C"
+},
+{
+"cls": "person",
+"id": "james-mcandrew",
+"label": "Capt. James McAndrew",
+"tier": "C"
+},
+{
+"cls": "person",
+"id": "jim-ragsdale",
+"label": "James Ragsdale",
+"tier": "C"
+},
+{
+"cls": "event",
+"id": "plains-san-agustin-1947",
+"label": "Plains of San Agustin claim, July 1947",
+"tier": "B"
+},
+{
+"cls": "document",
+"id": "roswell-report-1995",
+"label": "The Roswell Report: Fact Versus Fiction in the New Mexico Desert (1995)",
+"tier": "C"
+}
+],
+"short": "The Roswell Report: Case Closed (1997)",
+"sources": [
+{
+"date": "1997-01-01",
+"name": "The Roswell Report: Case Closed (1997), HQ USAF/GPO - full text",
+"url": "https://archive.org/details/AFD-101027-030"
+},
+{
+"date": "1997-01-01",
+"name": "The Roswell report: case closed - catalogue record",
+"url": "https://archive.org/details/roswellreportcas0000mcan"
+},
+{
+"date": "1997-01-01",
+"name": "DTIC ADA326147 abstract",
+"url": "https://archive.org/details/DTIC_ADA326147"
+}
+],
+"sub": "HQ USAF / GPO, by Capt. James McAndrew; 231 pp.",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 224 of 1027, score 42). 6 connections, 0 of them custody/witness/funding/programmatic, 4 official denials recorded against it. Axes C0/A2/D1.",
+"timeline": [
+{
+"date": "1997",
+"id": "tl-1997-case-closed",
+"label": "The Roswell Report: Case Closed",
+"precision": "year",
+"strand": "oversight",
+"text": "James McAndrew publishes the bodies report through HQ USAF and the GPO. Section 2.1 works the 427th AAFBU Squadron 'M' morning reports and National Personnel Records Center holdings to show Glenn Dennis's 'Naomi Maria Selff' never existed, and identifies 1st Lt. Eileen M. Fanton as matching every other particular.",
+"tier": "A"
+}
+]
+}

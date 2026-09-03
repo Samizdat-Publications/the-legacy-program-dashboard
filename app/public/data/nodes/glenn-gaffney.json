@@ -1,0 +1,141 @@
+{
+"A": 3,
+"C": 1,
+"D": 0,
+"affiliations": [
+"Central Intelligence Agency",
+"Office of the Director of National Intelligence"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "2025-09-09",
+"event": "Named by George Knapp before the House Oversight Task Force on the Declassification of Federal Secrets in response to a request for specific gatekeepers",
+"precision": "day"
+}
+],
+"claims": [
+{
+"source": "American Alchemy with Jesse Michels, 'CIA Scientist: George Bush Was Briefed on UFOs (ft. Eric Davis)', 13 December 2024, 0:22:48, https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/TOE7341687364.mp3?updated=1752173868",
+"text": "On American Alchemy with Jesse Michels, 13 December 2024, at 0:22:48, Eric Davis said of Gaffney 'I think his title was deputy director of the CIA over the directorate of science and technology. And that's where the UAP portfolio is held.' Davis hedges the title himself. No record opened in this pass establishes either the title or the portfolio placement.",
+"tier": 2
+},
+{
+"source": "American Alchemy with Jesse Michels, 'CIA Scientist: George Bush Was Briefed on UFOs (ft. Eric Davis)', 13 December 2024, 0:19:28 to 0:20:19",
+"text": "At 0:19:28 and 0:20:19 in the same episode Davis said he had no direct interaction with Gaffney but that the aerospace defence firm involved, and that firm's senior and executive vice presidents, did; and that Gaffney was 'very antagonistic' about that company releasing to them, under DIA classification, a collection of crash retrieval materials held by Bigelow Aerospace Advanced Space Studies and EarthTech since the 1989 shutdown. This is a second blocked transfer, distinct from the Lockheed to Bigelow transfer the node already carries.",
+"tier": 2
+},
+{
+"source": "American Alchemy with Jesse Michels, 'Congressman: President Trump Was Briefed On Alien Hybrids!', 2 July 2026, 1:48:44 https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL2654068830.mp3",
+"text": "On American Alchemy with Jesse Michels, 2 July 2026, Rep. Eric Burlison was asked whom in government he would most want to subpoena or question at length in a SCIF about UAP and named Gaffney first: 'I would say probably Glenn Gaffney who is you know former CIA a lot of people I talked to you say that this is somebody that we need to talk to.' He then named Steve Cantrell, described only as former Air Force senior intelligence, and General McCasland (1:48:44).",
+"tier": 2
+},
+{
+"source": "CHRG-119hhrg61718, 9 September 2025",
+"text": "'Mr. Knapp. I have a name for you. Mr. Begich. Go ahead. Mr. Knapp. Glenn Gaffney, CIA.'",
+"tier": 2
+},
+{
+"source": "CHRG-119hhrg61718, 9 September 2025",
+"text": "In the same answer Knapp attributed the original tasking to the intelligence agencies: 'the intelligence agencies who gave this stuff to them, CIA I think primarily, told them to keep it quiet, and they have done that.'",
+"tier": 2
+},
+{
+"source": "AARO, Historical Record Report Volume I, March 2024",
+"text": "AARO separately records an interviewee claim that 'a former named senior CIA official quashed the proposal to remove the material from the corporation' in the 2009-2010 period. AARO does not name the official.",
+"tier": 1
+}
+],
+"cls": "person",
+"cluster": "ic",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2025",
+"dateStart": "2025",
+"direction": "in",
+"edgeLabel": "Knapp named a former senior CIA official as a gatekeeper of the alleged program",
+"id": "george-knapp",
+"l0": false,
+"label": "George Knapp",
+"note": "Immediately after naming Ryder, Knapp told Rep. Begich 'I have a name for you... Glenn Gaffney, CIA.' No documentary corroboration has been published.",
+"sources": [
+{
+"date": "2025-09-09",
+"name": "House Oversight Task Force on the Declassification of Federal Secrets hearing transcript, 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection' (CHRG-119hhrg61718, Serial No. 119-44)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm"
+}
+],
+"tier": "A",
+"type": "witness-chain"
+}
+],
+"date": "2025-09-09",
+"dateEnd": null,
+"dateStart": "2025-09-09",
+"deg": 1,
+"denials": [],
+"domains": [
+"primes-custody"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "glenn-gaffney",
+"instId": "cia",
+"l0": false,
+"label": "Glenn Gaffney",
+"loc": "Washington, DC",
+"locId": "l-dc",
+"members": null,
+"narrative": "Gaffney appears on this board for a single reason and the board does not stretch it. On 9 September 2025, immediately after naming a Lockheed Martin executive in response to Rep. Nick Begich's request for specific gatekeepers, George Knapp said 'I have a name for you' and gave the committee 'Glenn Gaffney, CIA.' The naming sits directly alongside Knapp's broader assertion that the intelligence agencies, 'CIA I think primarily,' gave the material to the contractors and instructed them to keep it quiet. It also sits alongside two independent records of a CIA veto: Luis Elizondo's confirmation in November 2024 that the Lockheed-Bigelow transfer 'was blocked,' and AARO's own account of an interviewee stating that 'a former named senior CIA official quashed the proposal to remove the material from the corporation.' Whether the person AARO declined to name and the person Knapp named are the same individual is unestablished, and the board asserts nothing about it. Gaffney is a real and senior former intelligence community figure whose career ran through the Agency's science and technology and collection directorates; no released document, complaint or corporate record connects him to recovered material, and no response from him has been published. This is a research thread with a name attached, not a finding.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Glenn Gaffney",
+"sources": [
+{
+"date": "2024-12-13",
+"name": "American Alchemy with Jesse Michels, 'CIA Scientist: George Bush Was Briefed on UFOs (ft. Eric Davis)' (episode audio)",
+"url": "https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/TOE7341687364.mp3?updated=1752173868"
+},
+{
+"date": "2026-07-02",
+"name": "American Alchemy with Jesse Michels, 'Congressman: President Trump Was Briefed On Alien Hybrids!', episode audio",
+"url": "https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL2654068830.mp3"
+},
+{
+"date": "2025-09-09",
+"name": "House Oversight Task Force on the Declassification of Federal Secrets hearing transcript, 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection' (CHRG-119hhrg61718, Serial No. 119-44)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm"
+},
+{
+"date": "2024-03-08",
+"name": "AARO, 'Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP), Volume I'",
+"url": "https://documents2.theblackvault.com/documents/dod/AARO_Historical_Record_Report_Volume_1_2024.pdf"
+},
+{
+"date": "2024-11-13",
+"name": "House Oversight hearing transcript, 'Unidentified Anomalous Phenomena: Exposing the Truth' (CHRG-118hhrg57440)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm"
+}
+],
+"status": "former",
+"sub": "Former senior CIA science and technology official; named in sworn testimony as a gatekeeper",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 459 of 1027, score 30). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A3/D0.",
+"timeline": [],
+"unexplainedResidual": null,
+"unverified": [
+"Gaffney's specific positions and dates within CIA and ODNI.",
+"Whether the official AARO declines to name is the same person Knapp named.",
+"Any response from Gaffney to the naming."
+]
+}

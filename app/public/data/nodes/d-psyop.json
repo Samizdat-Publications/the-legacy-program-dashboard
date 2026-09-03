@@ -1,0 +1,170 @@
+{
+"A": 2,
+"C": 1,
+"D": 1,
+"band": null,
+"claims": [
+{
+"source": "Robertson Panel report, declassified text",
+"text": "The Robertson Panel (January 1953) recommended a programme of public 'training and debunking' using mass media, and that civilian UFO groups be watched.",
+"tier": 1
+},
+{
+"source": "The Black Vault, Richard Doty Personnel File - New Mexico State Police",
+"text": "Richard C. Doty's New Mexico State Police personnel file, 321 pages, was released under public records request and is publicly archived.",
+"tier": 1
+},
+{
+"source": "Named-source reporting summarised at Garber Files, 'From Mirage Men to Military Deception'",
+"text": "Air Force OSI personnel supplied Paul Bennewitz with fabricated documents concerning alien activity in the early 1980s; the episode is the documented core of the 'Mirage Men' account of UFO-adjacent counterintelligence deception.",
+"tier": 2
+}
+],
+"cls": "domain",
+"cluster": "ic",
+"connections": [
+{
+"claimTier": 1,
+"cls": "domain",
+"dateEnd": null,
+"dateStart": "1948-08-01",
+"direction": "in",
+"edgeLabel": "Same service, both functions",
+"id": "d-counterintel",
+"l0": false,
+"label": "Counterintelligence",
+"note": "AFOSI is chartered for both counterintelligence and criminal investigation, and is the organisation named in the Bennewitz deception; the two domains share personnel.",
+"sources": [
+{
+"date": "2021-05-20",
+"name": "Richard Doty Personnel File - New Mexico State Police [321 pages]",
+"url": "https://www.theblackvault.com/documentarchive/richard-doty-personnel-file-new-mexico-state-police/"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "domain",
+"dateEnd": null,
+"dateStart": "1953-01-17",
+"direction": "in",
+"edgeLabel": "Debunking recommended as a security measure",
+"id": "d-coverup",
+"l0": false,
+"label": "The Cover-Up",
+"note": "The Robertson Panel's January 1953 recommendation for a mass-media debunking programme is the documented point where concealment becomes an influence operation.",
+"sources": [
+{
+"date": "1953-01-17",
+"name": "Robertson Panel report (declassified text)",
+"url": "http://www.cufon.org/cufon/robert.htm"
+}
+],
+"tier": "A",
+"type": "programmatic"
+},
+{
+"claimTier": 2,
+"cls": "domain",
+"dateEnd": null,
+"dateStart": "1980-01-01",
+"direction": "out",
+"edgeLabel": "Fabricated material as the delivery vehicle",
+"id": "d-disinformation",
+"l0": false,
+"label": "Disinformation & Fabricated Documents",
+"note": "The Bennewitz episode, in which AFOSI personnel supplied fabricated documents, is the documented case linking perception management to forged records; Doty's own personnel file is public.",
+"sources": [
+{
+"date": "2021-05-20",
+"name": "Richard Doty Personnel File - New Mexico State Police [321 pages]",
+"url": "https://www.theblackvault.com/documentarchive/richard-doty-personnel-file-new-mexico-state-police/"
+}
+],
+"tier": "C",
+"type": "programmatic"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "1952",
+"dateStart": "1951",
+"direction": "in",
+"edgeLabel": "First Director of the Psychological Strategy Board, appointed 1951",
+"id": "gordon-gray",
+"l0": false,
+"label": "Gordon Gray",
+"note": "Truman's directive of 4 April 1951 created the Board to formulate and promulgate 'over-all national psychological objectives, policies and programs' as guidance to the departments responsible for psychological operations, and its own footnote names Gray as the Director appointed to it.",
+"sources": [
+{
+"date": "1951-04-04",
+"name": "FRUS 1951 vol. I doc. 16, directive of 4 April 1951 and footnote 3",
+"url": "https://history.state.gov/historicaldocuments/frus1951v01/d16"
+}
+],
+"tier": "B",
+"type": "institutional"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "1953-01-17",
+"deg": 4,
+"denials": [],
+"desc": "The use of the UFO subject as a vehicle for deception against a domestic audience is documented at the level of an official recommendation and at the level of a named case. The recommendation is the Robertson Panel's January 1953 proposal for a debunking campaign using mass media, psychiatrists and advertising specialists, explicitly aimed at reducing public susceptibility rather than at establishing what the objects were. The named case is Paul Bennewitz, an Albuquerque physicist living beside Kirtland AFB, who in the early 1980s was fed fabricated documents and staged material by Air Force Office of Special Investigations personnel - most prominently Richard C. Doty, whose later New Mexico State Police personnel file was released under public records law and runs to 321 pages - with the documented effect of destroying his mental health. The dual-use route is exact: a genuine sensitive programme adjacent to a witness generates a security problem, and the cheapest solution is not to silence the witness but to discredit him by feeding him something absurd and letting him repeat it. That mechanism cuts in both directions and must be applied honestly - it explains real disinformation injected into the field, and it is also the most common frame used to dismiss testimony that is not disinformation. Scoring high here means an entity ran, authored or knowingly transmitted deception material.",
+"domains": [
+"w2-taxonomy"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "d-psyop",
+"l0": false,
+"label": "Psychological Operations & Perception Management",
+"locLabel": null,
+"members": null,
+"short": "Psychological Operations & Perception Management",
+"sources": [
+{
+"date": "1953-01-17",
+"name": "Robertson Panel report (declassified text)",
+"url": "http://www.cufon.org/cufon/robert.htm"
+},
+{
+"date": "2021-05-20",
+"name": "Richard Doty Personnel File - New Mexico State Police [321 pages]",
+"url": "https://www.theblackvault.com/documentarchive/richard-doty-personnel-file-new-mexico-state-police/"
+},
+{
+"date": "2025-06-10",
+"name": "Garber Files - From Mirage Men to Military Deception",
+"url": "https://garberfiles.substack.com/p/from-mirage-men-to-military-deception"
+},
+{
+"date": "2025-06-06",
+"name": "Straight Arrow News - Pentagon spread UFO disinformation to protect classified projects",
+"url": "https://san.com/cc/pentagon-spread-ufo-disinformation-to-protect-classified-projects-report/"
+}
+],
+"sub": "Operational domain - deliberate manipulation of belief as a security measure",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 483 of 1027, score 30). 4 connections, 2 of them custody/witness/funding/programmatic. Axes C1/A2/D1.",
+"timeline": [
+{
+"date": "1953-01-17",
+"id": "tx-1953-robertson",
+"label": "The Robertson Panel recommends a debunking programme",
+"precision": "day",
+"strand": "coverup",
+"text": "A CIA Office of Scientific Intelligence panel recommends that the national security agencies strip UFOs of their special status through a programme of mass-media 'training and debunking', and that civilian UFO groups be watched because of their potential influence on mass thinking. This is the documented origin point of the psychological-operations domain.",
+"tier": 1
+}
+]
+}

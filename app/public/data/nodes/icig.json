@@ -1,0 +1,186 @@
+{
+"A": 3,
+"C": 1,
+"D": 3,
+"band": null,
+"claims": [
+{
+"source": "Grusch sworn testimony, 26 July 2023; The Debrief, 5 June 2023",
+"text": "Determined Grusch's PPD-19 urgent-concern complaint credible and urgent in July 2022.",
+"tier": 1
+},
+{
+"source": "Contemporaneous reporting, January 2024",
+"text": "Briefed House Oversight subcommittee members in closed session on UAP transparency on 13 January 2024; members publicly reported learning nothing new.",
+"tier": 1
+}
+],
+"cls": "institution",
+"cluster": "other",
+"connections": [
+{
+"claimTier": 3,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2022",
+"direction": "out",
+"edgeLabel": "Irreconcilable executive-branch findings on the same allegations",
+"id": "aaro",
+"l0": true,
+"label": "All-domain Anomaly Resolution Office (AARO)",
+"note": "The ICIG found the complaint credible and urgent in July 2022; AARO found no verifiable information from June 2023 and no firsthand knowledge in March 2024. Both are executive-branch determinations on the same body of allegations, and neither has been formally reconciled on the public record. Reasoning: no document exists in which either office addresses the other's finding.",
+"sources": [
+{
+"date": "2023-07-26",
+"name": "House Oversight hearing transcript",
+"url": "https://www.congress.gov/118/meeting/house/116282/documents/HHRG-118-GO06-Transcript-20230726.pdf"
+},
+{
+"date": "2024-03-08",
+"name": "AARO Historical Record Report Volume I",
+"url": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF"
+}
+],
+"tier": "A",
+"type": "denial"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "2022",
+"dateStart": "2022",
+"direction": "out",
+"edgeLabel": "Determined the complaint credible and urgent, July 2022",
+"id": "grusch-icig-complaint",
+"l0": false,
+"label": "Grusch PPD-19 Urgent Concern Complaint to the ICIG",
+"note": "The statutory urgent-concern finding by the IC's own watchdog, which obliges transmission to the congressional intelligence committees. It is the highest-grade institutional validation in the disclosure record and has never been withdrawn.",
+"sources": [
+{
+"date": "2023-07-26",
+"name": "House Oversight hearing transcript, Serial No. 118-53",
+"url": "https://www.congress.gov/118/meeting/house/116282/documents/HHRG-118-GO06-Transcript-20230726.pdf"
+},
+{
+"date": "2023-06-05",
+"name": "The Debrief",
+"url": "https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "2021",
+"direction": "in",
+"edgeLabel": "Inspector General of the Intelligence Community, 2021-present",
+"id": "thomas-monheim",
+"l0": false,
+"label": "Thomas A. Monheim",
+"note": "Monheim held the office when the credible-and-urgent determination was made and when his office briefed House Oversight members in closed session on 13 January 2024.",
+"sources": [
+{
+"date": "2023-07-26",
+"name": "House Oversight hearing transcript, Serial No. 118-53",
+"url": "https://www.congress.gov/118/meeting/house/116282/documents/HHRG-118-GO06-Transcript-20230726.pdf"
+}
+],
+"tier": "C",
+"type": "institutional"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "2010",
+"deg": 3,
+"denials": [
+{
+"by": {
+"id": "icig",
+"label": "Inspector General of the Intelligence Community"
+},
+"claimTier": 3,
+"denialKind": "association",
+"label": "Irreconcilable executive-branch findings on the same allegations",
+"note": "The ICIG found the complaint credible and urgent in July 2022; AARO found no verifiable information from June 2023 and no firsthand knowledge in March 2024. Both are executive-branch determinations on the same body of allegations, and neither has been formally reconciled on the public record. Reasoning: no document exists in which either office addresses the other's finding.",
+"of": {
+"id": "aaro",
+"label": "All-domain Anomaly Resolution Office (AARO)"
+},
+"sources": [
+{
+"date": "2023-07-26",
+"name": "House Oversight hearing transcript",
+"url": "https://www.congress.gov/118/meeting/house/116282/documents/HHRG-118-GO06-Transcript-20230726.pdf"
+},
+{
+"date": "2024-03-08",
+"name": "AARO Historical Record Report Volume I",
+"url": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF"
+}
+]
+}
+],
+"desc": "Created by the FY2010 Intelligence Authorization Act and first led by Charles McCullough III, the ICIG administers the urgent-concern channel by which an IC employee may transmit an allegation to the congressional intelligence committees over the head of their agency. It is the office that received Grusch's 25 May 2022 complaint, filed by McCullough himself, and it is the office that determined in July 2022 that the complaint was credible and urgent. Thomas A. Monheim has led it since 2021. In the Grusch matter the ICIG is simultaneously the validating authority and, per the reprisal complaint, the point at which the complainant's identity allegedly escaped the protected channel into DoD and IC hands. Grusch also testified to a structural gap in the office's reach: it had no smooth way to route his disclosure to the House and Senate Armed Services Committees despite Title 10 equities, which means the committees with jurisdiction over DoD special access programs may never have received the substance.",
+"domains": [
+"_rs-archive-mirror",
+"grusch"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "2",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "icig",
+"l0": false,
+"label": "Inspector General of the Intelligence Community",
+"locLabel": null,
+"members": null,
+"short": "Inspector General of the Intelligence Community",
+"sources": [
+{
+"date": "2026-08-07",
+"name": "Archived: ODNI ICIG - Disclosure of Urgent Concern Form (Wayback 2026-08-07)",
+"url": "https://web.archive.org/web/20260807214055/https://www.dni.gov/files/ICIG/Documents/Hotline/Urgent%20Concern%20Disclosure%20Form.pdf"
+},
+{
+"date": "2023-06-05",
+"name": "ODNI ICIG - Disclosure of Urgent Concern Form",
+"url": "https://www.dni.gov/files/ICIG/Documents/Hotline/Urgent%20Concern%20Disclosure%20Form.pdf"
+},
+{
+"date": "2023-07-26",
+"name": "House Oversight hearing transcript, Serial No. 118-53",
+"url": "https://www.congress.gov/118/meeting/house/116282/documents/HHRG-118-GO06-Transcript-20230726.pdf"
+}
+],
+"sub": "Statutory IC watchdog, ODNI",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 408 of 1027, score 32). 3 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D3.",
+"timeline": [
+{
+"date": "2022-07-01",
+"id": "g-tl-2022-07-credible",
+"label": "ICIG finds the complaint credible and urgent",
+"precision": "month",
+"strand": "oversight",
+"text": "The statutory determination that obliges transmission to the congressional intelligence committees. It has never been withdrawn, and no executive-branch document reconciles it with AARO's later findings.",
+"tier": "A"
+},
+{
+"date": "2024-01-13",
+"id": "g-tl-2024-01-icig-brief",
+"label": "ICIG briefs House Oversight members in closed session",
+"precision": "day",
+"strand": "oversight",
+"text": "Members emerge saying they learned nothing new about UAP transparency from the Inspector General of the Intelligence Community.",
+"tier": "B"
+}
+]
+}

@@ -1,0 +1,144 @@
+{
+"A": 0,
+"C": 0,
+"D": 3,
+"band": null,
+"claims": [
+{
+"source": "Disclosure Project National Press Club event, 9 May 2001, and contemporaneous international press coverage",
+"text": "On 9 May 2001 the Disclosure Project presented roughly twenty former military and government witnesses at the National Press Club and called for congressional hearings with subpoena power and amnesty for witnesses.",
+"tier": 2
+},
+{
+"source": "Clinton Digital Library collection finding aid 2006-0474-F",
+"text": "The Clinton White House's principal UFO FOIA collection (2006-0474-F) consists in the majority of documents sent to the White House by Steven M. Greer of CSETI.",
+"tier": 1
+},
+{
+"source": "Inference from the sequence recorded in the Wilson-Davis notes, which place Wilson's inquiry immediately after exposure to the Greer briefing material.",
+"text": "The Disclosure Project's April 1997 Washington briefing week is the proximate trigger recorded in the Wilson-Davis notes for Admiral Thomas Wilson's 1997 attempt to locate the special access programme.",
+"tier": 3
+}
+],
+"cls": "program",
+"cluster": "witness",
+"connections": [
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2002",
+"dateStart": "2001",
+"direction": "in",
+"edgeLabel": "Podesta's 2002 declassification call followed the Disclosure Project's 2001 press conference",
+"id": "john-podesta",
+"l0": false,
+"label": "John D. Podesta",
+"note": "Podesta appeared for the Coalition for Freedom of Information at the National Press Club on 22 October 2002, seventeen months after Greer's event in the same venue.",
+"sources": [
+{
+"date": "2019-09-16",
+"name": "Clinton Digital Library, FOIA collection 2006-0474-F, 'Unidentified Flying Objects (UFO)' (Greer/CSETI correspondence)",
+"url": "https://clinton.presidentiallibraries.us/items/show/36386"
+}
+],
+"tier": "C",
+"type": "behavioral"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "1993",
+"direction": "in",
+"edgeLabel": "Greer founded and led the Disclosure Project",
+"id": "steven-greer",
+"l0": false,
+"label": "Steven M. Greer",
+"note": "Greer founded CSETI in 1990 and the Disclosure Project in 1993, culminating in the 9 May 2001 National Press Club event.",
+"sources": [
+{
+"date": "2019-09-16",
+"name": "Clinton Digital Library, FOIA collection 2006-0474-F, 'Unidentified Flying Objects (UFO)' (Greer/CSETI correspondence)",
+"url": "https://clinton.presidentiallibraries.us/items/show/36386"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 3,
+"cls": "person",
+"dateEnd": "1997",
+"dateStart": "1997",
+"direction": "out",
+"edgeLabel": "The Wilson notes place Wilson's 1997 inquiry immediately after exposure to Greer's Washington briefings",
+"id": "thomas-wilson",
+"l0": false,
+"label": "Thomas R. Wilson",
+"note": "The Disclosure Project briefed members of Congress and officials in Washington in April 1997; the notes record Wilson beginning his search for the programme in the same period.",
+"sources": [
+{
+"date": "2022-08-01",
+"name": "The Debrief, 'Summer of the Saucers' (notes Wilson-Davis Memo raised at the 17 May 2022 House Intelligence UAP hearing)",
+"url": "https://thedebrief.org/summer-of-the-saucers/"
+},
+{
+"date": "2019-09-16",
+"name": "Clinton Digital Library, FOIA collection 2006-0474-F, 'Unidentified Flying Objects (UFO)' (Greer/CSETI correspondence)",
+"url": "https://clinton.presidentiallibraries.us/items/show/36386"
+}
+],
+"tier": "C",
+"type": "temporal"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "1993",
+"deg": 3,
+"denials": [],
+"desc": "Founded by Steven Greer in 1993 as an offshoot of his Center for the Study of Extraterrestrial Intelligence, the Disclosure Project's method was to locate former military, intelligence, contractor and air traffic personnel with first-hand UFO experience, record their testimony on video, and use the aggregate to demand congressional hearings with subpoena power and witness amnesty. It briefed members of Congress and officials in Washington in April 1997 - the same week the Wilson-Davis notes later record as the trigger for Admiral Wilson's inquiries - and staged its major public event at the National Press Club on 9 May 2001 with roughly twenty witnesses and a stated corpus of more than four hundred. No hearing followed. The project's structural contribution is the demonstration that witness aggregation without documents does not move institutions: the 2001 event produced global coverage and zero congressional action, whereas the 2023 Grusch testimony - one witness with an Inspector General complaint, a security clearance and a statutory whistleblower channel - produced a hearing. The lesson the modern movement learned from Greer is that the paperwork is the lever.",
+"domains": [
+"history-1970s-2000s"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "1",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "disclosure-project",
+"l0": false,
+"label": "The Disclosure Project",
+"locLabel": null,
+"members": null,
+"short": "The Disclosure Project",
+"sources": [
+{
+"date": "2019-09-16",
+"name": "Clinton Digital Library, FOIA collection 2006-0474-F, 'Unidentified Flying Objects (UFO)' (Greer/CSETI correspondence)",
+"url": "https://clinton.presidentiallibraries.us/items/show/36386"
+},
+{
+"date": "2022-08-01",
+"name": "The Debrief, 'Summer of the Saucers' (notes Wilson-Davis Memo raised at the 17 May 2022 House Intelligence UAP hearing)",
+"url": "https://thedebrief.org/summer-of-the-saucers/"
+}
+],
+"sub": "Private witness-aggregation and congressional-hearing campaign, 1993-",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 890 of 1027, score 15). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.",
+"timeline": [
+{
+"date": "2001-05-09",
+"id": "t-2001-disclosure",
+"label": "Disclosure Project press conference",
+"precision": "day",
+"strand": "witness",
+"text": "Steven Greer presents about twenty former military and government witnesses at the National Press Club and demands congressional hearings with subpoena power. Global coverage; no hearing.",
+"tier": "B"
+}
+]
+}

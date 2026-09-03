@@ -1,0 +1,163 @@
+{
+"A": 2,
+"C": 1,
+"D": 3,
+"affiliations": [],
+"age": null,
+"band": null,
+"chronology": [],
+"claims": [
+{
+"source": "https://irp.fas.org/dia/aatip-list.pdf",
+"text": "The DIA letter of 9 January 2018 lists entry 9 as 'High Frequency Gravitational Wave Communications, Dr Robert Baker, GravWave.'",
+"tier": 1
+},
+{
+"source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_21-DIRD_High-Frequency_Gravitational_Wave_Communications.pdf",
+"text": "The released DIRD bears document number DIA-08-1004-005, publication date 6 April 2010 and Intelligence Cut-Off Date 1 December 2009.",
+"tier": 1
+},
+{
+"source": "https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk",
+"text": "A 2008 JASON advisory group review of HFGW work Baker had done for the Office of the Director of National Intelligence concluded, as quoted by The War Zone: 'The proposed applications of the science of HFGW are fundamentally wrong' and 'No foreign threat in HFGW is credible.'",
+"tier": 1
+},
+{
+"source": "https://irp.fas.org/agency/dod/jason/gravwaves.pdf",
+"text": "DIA published Baker's HFGW DIRD on 6 April 2010, after the 2008 JASON finding - the JASON report is hosted by the Federation of American Scientists at irp.fas.org/agency/dod/jason/gravwaves.pdf.",
+"tier": 1
+},
+{
+"source": "https://earthtech.org/pubs/davis/",
+"text": "Baker co-authored a 2005 STAIF conference paper on HFGW radiation patterns and aerospace applications with Eric W. Davis and R. C. Woods, establishing a pre-existing working link to the AAWSAP subcontractor who commissioned the DIRDs.",
+"tier": 1
+},
+{
+"source": "http://www.drrobertbaker.com/docs/Aerospace%20HFGW%20Applications.pdf",
+"text": "Baker published an open-source version of the material in 2010: 'Utilization of High-Frequency Gravitational Waves for Aerospace Systems and Technology', presented at the Seventh Annual AIAA Southern California Aerospace Systems and Technology Conference on 1 May 2010.",
+"tier": 1
+}
+],
+"cls": "person",
+"cluster": "research",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "authored by Robert M. L. Baker Jr., GravWave LLC",
+"id": "dird-high-frequency-gravitational-wave-communications",
+"l0": false,
+"label": "High-Frequency Gravitational Wave Communications",
+"note": "The DIA list of 9 January 2018 records entry 9 as 'High Frequency Gravitational Wave Communications, Dr Robert Baker, GravWave' - the earlier KLAS transcription rendered the title as 'Gravity Wave Communication'. The released PDF's author block is redacted under (b)(6). Baker confirmed to researcher Keith Basterfield that he published three related HFGW papers in 2010.",
+"sources": [
+{
+"date": "2026-08-22",
+"name": "Released DIRD, 'High-Frequency Gravitational Wave Communications' — FOIA copy, cover page read 22 August 2026",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_21-DIRD_High-Frequency_Gravitational_Wave_Communications.pdf"
+},
+{
+"date": "2026-08-22",
+"name": "DIA FOIA Electronic Reading Room entry for this reference document",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237646/"
+},
+{
+"date": "2026-08-23",
+"name": "DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations",
+"url": "https://fas.org/publication/aatip-list/"
+},
+{
+"date": null,
+"name": "https://irp.fas.org/dia/aatip-list.pdf",
+"url": "https://irp.fas.org/dia/aatip-list.pdf"
+},
+{
+"date": null,
+"name": "https://ufos-scientificresearch.blogspot.com/2018/08/an-analysis-of-that-list-of-aawsapaatip.html",
+"url": "https://ufos-scientificresearch.blogspot.com/2018/08/an-analysis-of-that-list-of-aawsapaatip.html"
+}
+],
+"tier": "B",
+"type": "research"
+}
+],
+"date": "2010-04-06",
+"dateEnd": null,
+"dateStart": "2010-04-06",
+"deg": 1,
+"denials": [],
+"domains": [
+"w7-dirds-2"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "2",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "robert-baker",
+"instId": null,
+"l0": false,
+"label": "Robert M. L. Baker, Jr.",
+"loc": null,
+"locId": null,
+"members": null,
+"narrative": "Baker is the single most consequential author in this batch, not for what his DIRD says but for what its existence demonstrates about AAWSAP's quality control. Entry 9 on the DIA list to the Senate Armed Services Committee reads 'High Frequency Gravitational Wave Communications, Dr Robert Baker, GravWave.' The released document carries DIA-08-1004-005, publication date 6 April 2010 and an Intelligence Cut-Off Date of 1 December 2009. Baker's company, GravWave LLC, had spent years promoting high-frequency gravitational waves as an enabling technology for communications, surveillance, propulsion and the remote initiation of nuclear events, and Baker had done HFGW work for the Office of the Director of National Intelligence. In 2008 the JASON advisory group - the standing panel of outside scientists convened to adjudicate exactly this class of question for the US government - reviewed that ODNI work and rejected it at the root. As quoted in The War Zone's audit of the AATIP list: 'The proposed applications of the science of HFGW are fundamentally wrong,' and 'No foreign threat in HFGW is credible.' DIA then published Baker's HFGW paper as an official Defense Intelligence Reference Document roughly eighteen months later. That sequence is the finding. It is not that a government programme funded speculative physics - that was the stated purpose of the survey, which asked authors to project to 2050. It is that the programme published, on a JWICS-hosted reference series carrying DIA's imprimatur, a paper on a topic that the government's own senior scientific review body had already assessed as not merely unproven but wrong, and whose threat premise it had already declared not credible. Baker is separately linked into the AAWSAP author network through Eric Davis: the two co-authored a 2005 STAIF paper with R. C. Woods on HFGW radiation patterns and aerospace applications, and Davis himself presented at a DIA and National Security Space Office HFGW working group at MITRE in 2003. The commission was therefore not a blind buy from a stranger.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Robert M. L. Baker, Jr.",
+"sources": [
+{
+"date": null,
+"name": "https://irp.fas.org/dia/aatip-list.pdf",
+"url": "https://irp.fas.org/dia/aatip-list.pdf"
+},
+{
+"date": null,
+"name": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html",
+"url": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html"
+},
+{
+"date": null,
+"name": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_21-DIRD_High-Frequency_Gravitational_Wave_Communications.pdf",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_21-DIRD_High-Frequency_Gravitational_Wave_Communications.pdf"
+},
+{
+"date": null,
+"name": "https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk",
+"url": "https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk"
+},
+{
+"date": null,
+"name": "https://irp.fas.org/agency/dod/jason/gravwaves.pdf",
+"url": "https://irp.fas.org/agency/dod/jason/gravwaves.pdf"
+},
+{
+"date": null,
+"name": "https://earthtech.org/pubs/davis/",
+"url": "https://earthtech.org/pubs/davis/"
+},
+{
+"date": null,
+"name": "http://www.drrobertbaker.com/docs/Aerospace%20HFGW%20Applications.pdf",
+"url": "http://www.drrobertbaker.com/docs/Aerospace%20HFGW%20Applications.pdf"
+},
+{
+"date": null,
+"name": "https://ufos-scientificresearch.blogspot.com/2018/08/an-analysis-of-that-list-of-aawsapaatip.html",
+"url": "https://ufos-scientificresearch.blogspot.com/2018/08/an-analysis-of-that-list-of-aawsapaatip.html"
+}
+],
+"status": "active",
+"sub": "GravWave LLC; author, DIRD 'High-Frequency Gravitational Wave Communications' (DIA-08-1004-005) - commissioned after a JASON review rejected the underlying physics",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 324 of 1027, score 35). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D3.",
+"timeline": [],
+"unexplainedResidual": null,
+"unverified": []
+}

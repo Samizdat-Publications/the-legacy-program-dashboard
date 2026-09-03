@@ -1,0 +1,145 @@
+{
+"A": 3,
+"C": 1,
+"D": 2,
+"band": null,
+"claims": [
+{
+"source": "DoD memorandum, Establishment of the All-domain Anomaly Resolution Office, 15 July 2022",
+"text": "The memorandum establishes AARO as the DoD's authoritative office and focal point for UAP and directs it to address anomalous space, airborne, submerged and transmedium objects.",
+"tier": 1
+},
+{
+"source": "Same memorandum",
+"text": "It directs the Secretary of the Navy to disestablish the UAPTF and transfer its data and materials to AARO, and supersedes the 23 November 2021 AOIMSG direction.",
+"tier": 1
+},
+{
+"source": "Same memorandum",
+"text": "It places AARO under the Under Secretary of Defense for Intelligence and Security.",
+"tier": 1
+}
+],
+"cls": "document",
+"cluster": "other",
+"connections": [
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2022",
+"direction": "out",
+"edgeLabel": "the charter that created AARO",
+"id": "aaro",
+"l0": true,
+"label": "All-domain Anomaly Resolution Office (AARO)",
+"note": "The memorandum establishes AARO as the Department's authoritative UAP office covering space, airborne, submerged and transmedium anomalous objects.",
+"sources": [
+{
+"date": "2022-07-15",
+"name": "AARO establishment memorandum",
+"url": "https://media.defense.gov/2022/Jul/20/2003039074/-1/-1/1/ESTABLISHMENT-OF-THE-ALL-DOMAIN-ANOMALY-RESOLUTION-OFFICE.PDF"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "2022",
+"dateStart": "2022",
+"direction": "in",
+"edgeLabel": "signatory of the AARO establishment memorandum",
+"id": "kathleen-hicks",
+"l0": false,
+"label": "Kathleen H. Hicks",
+"note": "Hicks signed the memorandum on 15 July 2022; DoD announced it on 20 July.",
+"sources": [
+{
+"date": "2022-07-15",
+"name": "AARO establishment memorandum",
+"url": "https://media.defense.gov/2022/Jul/20/2003039074/-1/-1/1/ESTABLISHMENT-OF-THE-ALL-DOMAIN-ANOMALY-RESOLUTION-OFFICE.PDF"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": "2022",
+"dateStart": "2022",
+"direction": "out",
+"edgeLabel": "ordered the UAPTF disestablished and its data and materials transferred to AARO",
+"id": "uap-task-force",
+"l0": true,
+"label": "Unidentified Aerial Phenomena Task Force (UAPTF)",
+"note": "This is the custody event of the domain: everything the Task Force held passed to an office inside OSD. The memorandum's word is 'materials', not merely records.",
+"sources": [
+{
+"date": "2022-07-15",
+"name": "AARO establishment memorandum",
+"url": "https://media.defense.gov/2022/Jul/20/2003039074/-1/-1/1/ESTABLISHMENT-OF-THE-ALL-DOMAIN-ANOMALY-RESOLUTION-OFFICE.PDF"
+}
+],
+"tier": "A",
+"type": "custody"
+}
+],
+"coords": null,
+"dateEnd": "2022",
+"dateStart": "2022",
+"deg": 3,
+"denials": [],
+"desc": "The founding charter of the modern official apparatus, signed by Deputy Secretary of Defense Kathleen Hicks on 15 July 2022 and announced on 20 July. Four operative directions: establish AARO as the Department's authoritative office and focal point for all UAP activities; task it to synchronise efforts to detect, identify and attribute objects of interest in, on or near military installations, operating areas, training areas, special use airspace and other areas of interest, including anomalous space, airborne, submerged and transmedium objects; direct the Under Secretary of Defense for Intelligence and Security to stand the office up in coordination with the Director of Administration and Management; and direct the Secretary of the Navy to disestablish the UAP Task Force and transfer its data and materials to AARO. It supersedes the 23 November 2021 AOIMSG direction. The transmedium language is worth noting on its own terms: the Deputy Secretary of Defense signed a memorandum in 2022 whose plain text assigns an office responsibility for submerged and transmedium anomalous objects.",
+"domains": [
+"_rs-archive-mirror",
+"uaptf-aaro"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "aaro-establishment-memo-2022",
+"l0": false,
+"label": "Memorandum: Establishment of the All-domain Anomaly Resolution Office (15 July 2022)",
+"locLabel": null,
+"members": null,
+"short": "Memorandum: Establishment of the All-domain Anomaly Resolution Office (15 July 2022)",
+"sources": [
+{
+"date": "2026-06-09",
+"name": "Archived: DoD - Establishment of the All-domain Anomaly Resolution Office (Wayback 2026-06-09)",
+"url": "https://web.archive.org/web/20260609160749/https://media.defense.gov/2022/Jul/20/2003039074/-1/-1/1/ESTABLISHMENT-OF-THE-ALL-DOMAIN-ANOMALY-RESOLUTION-OFFICE.PDF"
+},
+{
+"date": "2022-07-15",
+"name": "DoD - Establishment of the All-domain Anomaly Resolution Office",
+"url": "https://media.defense.gov/2022/Jul/20/2003039074/-1/-1/1/ESTABLISHMENT-OF-THE-ALL-DOMAIN-ANOMALY-RESOLUTION-OFFICE.PDF"
+},
+{
+"date": "2022-07-20",
+"name": "HSToday - DoD Announces the Establishment of the All-Domain Anomaly Resolution Office",
+"url": "https://www.hstoday.us/subject-matter-areas/intelligence/dod-announces-the-establishment-of-the-all-domain-anomaly-resolution-office/"
+}
+],
+"sub": "Deputy Secretary of Defense memorandum; the founding charter",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 410 of 1027, score 32). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A3/D2.",
+"timeline": [
+{
+"date": "2022-07-15",
+"id": "tl-aaro-2022-07-15",
+"label": "AARO established",
+"precision": "day",
+"strand": "program",
+"text": "Hicks signs the memorandum creating AARO, disestablishing AOIMSG, and ordering the Navy to disestablish the UAPTF and transfer its data and materials. Announced 20 July.",
+"tier": "A"
+}
+]
+}

@@ -1,0 +1,145 @@
+{
+"A": 0,
+"C": 0,
+"D": 3,
+"band": null,
+"claims": [
+{
+"source": "The National Archives UFO files pages, 2008-2013 (Internet Archive captures)",
+"text": "Full file lists per tranche are published by The National Archives on its UFO files pages and are reproducible piece by piece.",
+"tier": 1
+},
+{
+"source": "The National Archives UFO files page epigraph",
+"text": "Churchill's 1952 minute is held at PREM 11/855.",
+"tier": 1
+}
+],
+"cls": "document",
+"cluster": "oversight",
+"connections": [
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "The Belgian material sits in named DEFE 24 pieces",
+"id": "belgian-af-f16-intercept-1990",
+"l0": false,
+"label": "Belgian Air Force F-16 intercept and the 1989-90 Belgian wave",
+"note": "The National Archives' guide places the Belgian Air Force's November 1993 statement at DEFE 24/1970 pages 86 to 87 and de Brouwer's four-page account at DEFE 24/1960 pages 320 to 324, with further references in DEFE 24/1962 and DEFE 24/1965.",
+"sources": [
+{
+"date": "2009-08-17",
+"name": "TNA Highlights Guide, August 2009 tranche",
+"url": "https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf"
+}
+],
+"tier": "B",
+"type": "custody"
+},
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "DEFE 24/2086, closed to 2078, open only as a redacted digital copy",
+"id": "cosford-incident-1993",
+"l0": false,
+"label": "Cosford incident, 30-31 March 1993",
+"note": "Discovery gives the paper piece closure status D with an opening date of 1 January 2078 and the open digital surrogate DEFE 24/2086/1 with an opening date of 17 August 2009.",
+"sources": [
+{
+"date": "2026-09-02",
+"name": "TNA Discovery catalogue, DEFE 24/2086 and DEFE 24/2086/1",
+"url": "https://discovery.nationalarchives.gov.uk/API/search/records"
+}
+],
+"tier": "B",
+"type": "custody"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "2076-01-01",
+"dateStart": "1990-08-01",
+"direction": "in",
+"edgeLabel": "The Defence Secretariat file covering the claimed assessment is closed until 2076",
+"id": "jaric",
+"l0": false,
+"label": "Joint Air Reconnaissance Intelligence Centre (JARIC)",
+"note": "DEFE 24/1940 is the UFO reports file for 1 August 1990 to 31 January 1991 and carries a record opening date of 1 January 2076 under a Freedom of Information Act exemption signed 7 June 2023; a redacted digital copy at DEFE 24/1940/1 has been open since 20 October 2008. The edge records where the assessment would sit, not that it is there.",
+"sources": [
+{
+"date": "2026-09-02",
+"name": "The National Archives Discovery catalogue records for DEFE 24/1940 and DEFE 24/1940/1",
+"url": "https://discovery.nationalarchives.gov.uk/API/records/v1/details/C11483085"
+}
+],
+"tier": "B",
+"type": "custody"
+},
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": "2013-06",
+"dateStart": "2008-05",
+"direction": "in",
+"edgeLabel": "released files placed in DEFE 24 and DEFE 31",
+"id": "tna-ufo-release",
+"l0": false,
+"label": "The National Archives / MoD UFO File Release Programme (2008-2013)",
+"note": "Every tranche page lists the piece numbers transferred; the final June 2013 tranche is DEFE 24/2448-2465 and 2623-2629.",
+"sources": [
+{
+"date": "2013-06-01",
+"name": "TNA UFO files",
+"url": "https://web.archive.org/web/20130701000000/http://www.nationalarchives.gov.uk/ufos/"
+}
+],
+"tier": "C",
+"type": "custody"
+}
+],
+"coords": null,
+"dateEnd": "2009",
+"dateStart": "1950s",
+"deg": 4,
+"denials": [],
+"desc": "DEFE 24 (Ministry of Defence: Defence Secretariat Branches: Registered Files) and DEFE 31 (Ministry of Defence: Air Secretariat: Registered Files) are the two National Archives record series into which the MoD's UFO holdings were placed. The released piece numbers are enumerable and citable: DEFE 24/1926-1930 (October 2008); DEFE 24/1938 and DEFE 31/176-181 (March 2009); DEFE 24/1948, 1959-1965, 1970-1976, 2086 (August 2009); DEFE 24/1973, 1978, 1982, 1983, 1991-1993, 1995, 1996, 1998, 2001, 2004, 2012-2015, 2042, 2045 (August 2010); DEFE 24/1958, 2006, 2019, 2020, 2031, 2033-2035, 2047, 2056, 2057, 2060, 2064-2072, 2075, 2076, 2081, 2082, 2091, 2094 and DEFE 31/182-188 (August 2011); DEFE 24/1984, 1985, 1987, 2005, 2043, 2061, 2073, 2074, 2077-2080, 2083, 2084, 2087-2090, 2093 and DEFE 31/189-194 (July 2012); DEFE 24/2448-2465 and 2623-2629 (June 2013). The wider UK holding also includes AIR 2 and AIR 20 Air Ministry files and the Prime Minister's series PREM 11/855, which contains Churchill's July 1952 minute demanding to know 'what all this stuff about flying saucers' amounts to.",
+"domains": [
+"w2-international"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "uk-defe24",
+"l0": false,
+"label": "DEFE 24 and DEFE 31 - MoD UFO record series, The National Archives, Kew",
+"locLabel": null,
+"members": null,
+"short": "DEFE 24 and DEFE 31 - MoD UFO record series, The National Archives, Kew",
+"sources": [
+{
+"date": "2013-06-01",
+"name": "TNA UFO files - all tranches",
+"url": "https://web.archive.org/web/20130701000000/http://www.nationalarchives.gov.uk/ufos/"
+},
+{
+"date": "2011-08-01",
+"name": "TNA UFO files - August 2011 tranche",
+"url": "https://web.archive.org/web/20120310000000/http://www.nationalarchives.gov.uk/ufos/"
+}
+],
+"sub": "Record series holding the released UK UFO files",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 547 of 1027, score 28). 4 connections, 4 of them custody/witness/funding/programmatic. Axes C0/A0/D3.",
+"timeline": []
+}

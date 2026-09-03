@@ -1,0 +1,206 @@
+{
+"A": 0,
+"C": 0,
+"D": 3,
+"band": null,
+"claims": [
+{
+"source": "Leslie Kean and Ralph Blumenthal, The Debrief, 30 January 2026",
+"text": "The closed-door session took place on 15 January 2026 in Rep. Tim Burchett's office with Burchett, Anna Paulina Luna and Eric Burlison present; Jared Moskowitz and André Carson were invited but unable to attend.",
+"tier": 2
+},
+{
+"source": "The Debrief, 30 January 2026",
+"text": "Claussen: a US cargo mission of this kind 'would require paperwork from Air Mobility Command at Scott AFB in Illinois and the Air Mobility Wing at Charleston AFB in South Carolina', plus refuelling records and an international flight plan; Brazilian air traffic controller Marco Feres reported that on or about 20 January 1996 a USAF cargo aircraft, most likely a C-17, landed at Viracopos airport in Campinas to collect an unusual cargo.",
+"tier": 2
+},
+{
+"source": "The Debrief, 30 January 2026",
+"text": "Burlison on evidence access: 'there are several government entities that are controlling this and some are willing to be more cooperative, so unfortunately we're not getting everything.'",
+"tier": 2
+},
+{
+"source": "The Debrief, 30 January 2026",
+"text": "James Fox recounts asking AARO director Dr Jon T. Kosloski in 2024 whether there was a plan to inform the public 'what we are ultimately dealing with', and being told: 'I can't part my hair without the approval of the DOD. And you can quote me on that.'",
+"tier": 2
+},
+{
+"source": "AARO 2024 report, quoted in The Debrief, 30 January 2026",
+"text": "AARO's 2024 report states that 'none of these investigations (including USG, foreign, and U.S. academic efforts) reached the conclusion that any of the UAP reports indicated extraterrestrial origin.'",
+"tier": 1
+},
+{
+"source": "NewsNation, 'UFO files: Lawmaker asks FBI, CIA for info on Brazil's Roswell moment', 15 July 2026",
+"text": "On 15 July 2026 NewsNation reported that a lawmaker had asked the FBI and CIA for information on the Varginha case; contemporaneous coverage names Representative Eric Burlison as the requester.",
+"tier": 2
+}
+],
+"cls": "event",
+"cluster": "oversight",
+"connections": [
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "2026-01-30",
+"dateStart": "2024",
+"direction": "out",
+"edgeLabel": "AARO's 2024 negative finding is the standing counter-position",
+"id": "aaro",
+"l0": true,
+"label": "All-domain Anomaly Resolution Office (AARO)",
+"note": "AARO's 2024 report states that no investigation, including foreign efforts, concluded that any UAP report indicated extraterrestrial origin; the Varginha witnesses were briefing Congress against that finding.",
+"sources": [
+{
+"date": "2026-01-30",
+"name": "The Debrief",
+"url": "https://thedebrief.org/landmark-brazilian-ufo-case-reaches-capitol-hill-as-varginha-incident-turns-30/"
+}
+],
+"tier": "A",
+"type": "denial"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2026-01-20",
+"dateStart": "2026-01-20",
+"direction": "in",
+"edgeLabel": "Brazilian senator attended and discussed a joint evidence effort",
+"id": "eduardo-girao",
+"l0": false,
+"label": "Senador Eduardo Girão",
+"note": "Girão, who led a 2022 Brazilian Senate UAP hearing, met Rep. Eric Burlison for the first time at the National Press Club event.",
+"sources": [
+{
+"date": "2026-01-30",
+"name": "The Debrief",
+"url": "https://thedebrief.org/landmark-brazilian-ufo-case-reaches-capitol-hill-as-varginha-incident-turns-30/"
+}
+],
+"tier": "C",
+"type": "legislative"
+},
+{
+"claimTier": 2,
+"cls": "event",
+"dateEnd": "2026-01-20",
+"dateStart": "2026-01-15",
+"direction": "in",
+"edgeLabel": "1996 witnesses testify to US legislators thirty years later",
+"id": "ev-varginha-1996",
+"l0": false,
+"label": "Varginha incident, Minas Gerais, January 1996",
+"note": "Venturelli, Fortunato and de Sousa were brought to Washington by James Fox and briefed Burchett, Luna and Burlison on 15 January 2026.",
+"sources": [
+{
+"date": "2026-01-30",
+"name": "The Debrief",
+"url": "https://thedebrief.org/landmark-brazilian-ufo-case-reaches-capitol-hill-as-varginha-incident-turns-30/"
+}
+],
+"tier": "B",
+"type": "witness-chain"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2026-01-20",
+"dateStart": "2026-01-15",
+"direction": "in",
+"edgeLabel": "gave the hospital custody account to members of Congress",
+"id": "italo-venturelli",
+"l0": false,
+"label": "Dr Ítalo Venturelli",
+"note": "Kean and Blumenthal had sole media access to the closed-door session and reported his testimony verbatim.",
+"sources": [
+{
+"date": "2026-01-30",
+"name": "The Debrief",
+"url": "https://thedebrief.org/landmark-brazilian-ufo-case-reaches-capitol-hill-as-varginha-incident-turns-30/"
+}
+],
+"tier": "B",
+"type": "witness-chain"
+}
+],
+"coords": null,
+"dateEnd": "2026-07-15",
+"dateStart": "2026-01-15",
+"deg": 4,
+"denials": [
+{
+"by": {
+"id": "aaro",
+"label": "All-domain Anomaly Resolution Office (AARO)"
+},
+"claimTier": 1,
+"denialKind": "directed",
+"label": "AARO's 2024 negative finding is the standing counter-position",
+"note": "AARO's 2024 report states that no investigation, including foreign efforts, concluded that any UAP report indicated extraterrestrial origin; the Varginha witnesses were briefing Congress against that finding.",
+"of": {
+"id": "ev-varginha-capitol-2026",
+"label": "Varginha witnesses on Capitol Hill and at the National Press Club, 15 and 20 January 2026"
+},
+"sources": [
+{
+"date": "2026-01-30",
+"name": "The Debrief",
+"url": "https://thedebrief.org/landmark-brazilian-ufo-case-reaches-capitol-hill-as-varginha-incident-turns-30/"
+}
+]
+}
+],
+"desc": "On 15 January 2026, in Representative Tim Burchett's office in the Longworth House Office Building, three members of Congress - Burchett of Tennessee, Anna Paulina Luna of Florida, chairwoman of the House Task Force on the Declassification of Federal Secrets, and Eric Burlison of Missouri - held a closed-door session with three Brazilian witnesses to the 1996 Varginha events: neurosurgeon Dr Ítalo Venturelli, forensic pathologist Dr Armando Fortunato, and geography teacher and ultralight pilot Carlos de Sousa. They were brought to the United States by filmmaker James Fox, who with his Brazilian collaborator Marco Aurélio Leal has worked the case for two decades. Jared Moskowitz and André Carson were invited but could not attend. Five days later, on 20 January 2026, Fox convened a public press conference at the National Press Club. Luna said Congress should seek US Air Force flight logs and a landing permit to test the claim of an American retrieval. Retired US Air Force Colonel Fred Claussen set out the documentary trail such a mission would necessarily generate - Air Mobility Command paperwork at Scott AFB, the Air Mobility Wing at Charleston AFB, air-refuelling records and international flight plans - and appealed publicly to the thirty to forty Americans he believes would have direct knowledge. Brazilian Senator Eduardo Girão, who led a Brazilian Senate UAP hearing in 2022, attended in a private capacity and discussed a joint Brazilian-American evidence effort with Burlison. Six further Brazilian witnesses were denied US visas by the State Department on the ground that they might overstay, so their testimony was videotaped in Brazil in December 2025. By 15 July 2026 Representative Burlison had formally asked the FBI and the CIA for records on the case.",
+"domains": [
+"w2-international"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "ev-varginha-capitol-2026",
+"l0": false,
+"label": "Varginha witnesses on Capitol Hill and at the National Press Club, 15 and 20 January 2026",
+"locLabel": null,
+"members": null,
+"short": "Varginha witnesses on Capitol Hill and at the National Press Club, 15 and 20 January 2026",
+"sources": [
+{
+"date": "2026-01-30",
+"name": "The Debrief - Varginha reaches Capitol Hill",
+"url": "https://thedebrief.org/landmark-brazilian-ufo-case-reaches-capitol-hill-as-varginha-incident-turns-30/"
+},
+{
+"date": "2026-07-15",
+"name": "NewsNation - Lawmaker asks FBI, CIA for info on Brazil's Roswell moment",
+"url": "https://www.newsnationnow.com/space/ufo/varginha-burlison-fbi-cia/"
+}
+],
+"sub": "Brazilian witnesses brief three members of Congress on the 30th anniversary",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 397 of 1027, score 33). 4 connections, 2 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D3.",
+"timeline": [
+{
+"date": "2026-01-15",
+"id": "tl-intl-2026-varginha",
+"label": "Varginha witnesses brief three members of Congress",
+"precision": "day",
+"strand": "oversight",
+"text": "In Rep. Tim Burchett's office, neurosurgeon Ítalo Venturelli, forensic pathologist Armando Fortunato and ultralight pilot Carlos de Sousa brief Burchett, Anna Paulina Luna and Eric Burlison. Five days later a National Press Club conference follows, at which retired USAF Colonel Fred Claussen sets out the Air Mobility Command paperwork trail any American retrieval flight would have generated and appeals to participants to come forward.",
+"tier": 2
+},
+{
+"date": "2026-07-15",
+"id": "tl-intl-2026-burlison",
+"label": "Congress asks the FBI and CIA about Varginha",
+"precision": "day",
+"strand": "oversight",
+"text": "NewsNation reports that a lawmaker - contemporaneous coverage names Rep. Eric Burlison - has asked the FBI and the CIA for information on the Varginha case, six months after the Brazilian witnesses testified on Capitol Hill.",
+"tier": 2
+}
+]
+}

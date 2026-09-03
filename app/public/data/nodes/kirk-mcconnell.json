@@ -1,0 +1,220 @@
+{
+"A": 3,
+"C": 1,
+"D": 3,
+"affiliations": [
+"Senate Armed Services Committee (37 years, to retirement)",
+"The Sol Foundation (Senior Legislative Affairs Officer)",
+"US Congress - 37 years (to March 2024): Senate Armed Services Committee; House Permanent Select Committee on Intelligence; Senate Select Committee on Intelligence",
+"The Sol Foundation - Senior Legislative Affairs Officer (2024- )"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "2017-12-16",
+"event": "New York Times AATIP story; McConnell's UAP work begins after this point.",
+"precision": "day"
+},
+{
+"date": "2019-10-21",
+"event": "Eric Davis briefs Senate Armed Services Committee staff on retrievals - the staff cohort McConnell belonged to.",
+"precision": "day"
+},
+{
+"date": "2024-01-01",
+"event": "Joins The Sol Foundation as Senior Legislative Affairs Officer after 37 years with the Senate Armed Services Committee.",
+"precision": "year"
+},
+{
+"date": "2024-03-01",
+"event": "Retires after 37 years on Capitol Hill.",
+"precision": "month"
+},
+{
+"date": "2026-04-01",
+"event": "Publishes Sol Foundation Policy Briefing No. 2, 'UAP Whistleblower Restitution Fund Would Incentivize Disclosures to Congress'.",
+"precision": "month"
+}
+],
+"claims": [
+{
+"source": "American Alchemy with Jesse Michels, 'UFOs Are Monitoring Nuclear Weapons GLOBALLY (ft. Robert Hastings)', 24 December 2024, 1:49:10 and 1:51:51, https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/TOE4049919963.mp3?updated=1752173281",
+"text": "On American Alchemy with Jesse Michels, 24 December 2024, at 1:49:10, Robert Hastings said that in January 2023 McConnell, whom he describes as 'a retired Senate Armed Service Committee investigator', contacted him and asked him to gather veterans with experiences at nuclear weapons sites for AARO to interview, and at 1:51:51 that 'it was 11 of roughly 20 who agreed to speak' with the office. The transcript renders the name Kurt McConnell throughout.",
+"tier": 2
+},
+{
+"source": "American Alchemy with Jesse Michels, 'UFOs Are Monitoring Nuclear Weapons GLOBALLY (ft. Robert Hastings)', 24 December 2024, 1:49:10",
+"text": "In the same passage Hastings said McConnell emailed him in about March 2023 saying he had driven a veteran to that veteran's AARO interview, and relayed what the veteran said he had told AARO's then director about where a particular film was held. Hastings gives the account at two removes and names no document.",
+"tier": 2
+},
+{
+"source": "American Alchemy with Jesse Michels, 'Senate Staffer Thinks Tesla and Nazi Technology is Being Hidden (ft. Kirk McConnell)', published 2 April 2025, at 0:18:40, 0:19:36 and 1:09:33",
+"text": "McConnell is a primary source in this board's Michels corpus as well as a node in it. He gave a two-hour interview on American Alchemy with Jesse Michels published 2 April 2025, in which he supplies the account of AARO's advisory-group contract being let through Oak Ridge (1:09:33), the report of Puthoff's and Davis's scepticism about Tesla and Thomas Townsend Brown (0:19:36), and his own disagreement with the account that the FBI seized all of Tesla's papers, 'I don't think all of it did' (0:18:40). Claims elsewhere on this board sourced to that episode are sourced to him.",
+"tier": 2
+},
+{
+"source": "The Sol Foundation, People page, retrieved 12 August 2026",
+"text": "Kirk McConnell is Senior Legislative Affairs Officer at The Sol Foundation and retired from Congress after 37 years with the Senate Armed Services Committee.",
+"tier": 1
+},
+{
+"source": "The Sol Foundation white papers index",
+"text": "McConnell authored Sol Foundation Science and Policy Briefing No. 2 (April 2026), 'UAP Whistleblower Restitution Fund Would Incentivize Disclosures to Congress'.",
+"tier": 1
+},
+{
+"source": "The Sol Foundation biography of Kirk McConnell",
+"text": "McConnell spent 37 years on Capitol Hill, primarily on defence and intelligence, including service with the Senate Armed Services Committee and both the House and Senate intelligence committees, retiring in March 2024; his UAP work began after the 2017 New York Times disclosures and included participation in UAP investigations and development of related legislation.",
+"tier": 2
+},
+{
+"source": "Inference from his committee tenure and portfolio at the relevant date; not confirmed by any record",
+"text": "McConnell was among, or adjacent to, the Senate Armed Services Committee staff cohort that received Eric Davis's 21 October 2019 classified briefing on retrievals. Neither he nor the committee has confirmed his attendance.",
+"tier": 3
+}
+],
+"cls": "person",
+"cluster": "oversight",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 3,
+"cls": "event",
+"dateEnd": "2019",
+"dateStart": "2019",
+"direction": "in",
+"edgeLabel": "Delivered to the SASC professional staff cohort McConnell belonged to",
+"id": "davis-sasc-briefing-2019",
+"l0": false,
+"label": "Eric Davis classified briefings to Senate Armed Services and Senate Intelligence, 21 and 23 October 2019",
+"note": "McConnell was a Senate Armed Services professional staffer working UAP issues in this exact period. Whether he personally attended the 21 October 2019 briefing has never been confirmed by him or by the committee.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "The Sol Foundation - Kirk McConnell",
+"url": "https://thesolfoundation.org/people/kirk-mcconnell/"
+},
+{
+"date": "2020-07-23",
+"name": "Ralph Blumenthal, 'No Longer in the Shadows, Pentagon's U.F.O. Unit Will Make Some Findings Public', The New York Times",
+"url": "https://www.nytimes.com/2020/07/23/us/politics/pentagon-ufo-harry-reid-navy.html"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "2026",
+"dateStart": "2024",
+"direction": "out",
+"edgeLabel": "Senior Legislative Affairs Officer after 37 years on SASC",
+"id": "sol-foundation",
+"l0": true,
+"label": "The Sol Foundation",
+"note": "A private foundation recruited the professional staffer who ran the oversight paperwork on the relevant committees; he then authored its April 2026 briefing arguing for a UAP whistleblower restitution fund.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "The Sol Foundation - People",
+"url": "https://thesolfoundation.org/people/"
+},
+{
+"date": "2026-08-12",
+"name": "The Sol Foundation - Kirk McConnell",
+"url": "https://thesolfoundation.org/people/kirk-mcconnell/"
+},
+{
+"date": "2026-08-12",
+"name": "The Sol Foundation - White Papers and Policy Briefings index",
+"url": "https://thesolfoundation.org/white-papers/"
+}
+],
+"tier": "A",
+"type": "institutional"
+}
+],
+"date": "2026-06-22",
+"dateEnd": null,
+"dateStart": "2026-06-22",
+"deg": 2,
+"denials": [],
+"domains": [
+"media-structure",
+"scientists-technical"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "kirk-mcconnell",
+"instId": "sol-foundation",
+"l0": false,
+"label": "Kirk McConnell",
+"loc": "Washington, DC",
+"locId": "l-dc",
+"members": null,
+"narrative": "McConnell is the person on this board who most directly connects the technical layer to the oversight layer, because he was the oversight layer. He spent thirty-seven years as a professional staffer on Capitol Hill, principally on defence and intelligence, with service on the Senate Armed Services Committee and on both the House and Senate intelligence committees, retiring in March 2024. His UAP work began after the December 2017 New York Times disclosures, and in his final years in government he participated in UAP investigations and helped draft the relevant legislation - which places him on the committee staff side of exactly the period in which Eric Davis briefed SASC staff on 21 October 2019, the UAP Task Force was stood up, the FY2022 IAA created the AOIMSG reporting requirements, and the UAP Disclosure Act was drafted. Since leaving he has advised UAP nonprofits and become Senior Legislative Affairs Officer at The Sol Foundation, where in April 2026 he authored Policy Briefing No. 2 proposing a UAP whistleblower restitution fund to incentivise disclosures to Congress. That a career SASC and intelligence-committee staffer now writes public briefings arguing that Congress needs to pay witnesses to come forward is itself a finding about how badly the ordinary oversight channels performed.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Kirk McConnell",
+"sources": [
+{
+"date": "2024-12-24",
+"name": "American Alchemy with Jesse Michels, 'UFOs Are Monitoring Nuclear Weapons GLOBALLY (ft. Robert Hastings)' (episode audio)",
+"url": "https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/TOE4049919963.mp3?updated=1752173281"
+},
+{
+"date": "2025-04-02",
+"name": "American Alchemy with Jesse Michels, 'Senate Staffer Thinks Tesla and Nazi Technology is Being Hidden (ft. Kirk McConnell)' (audio)",
+"url": "https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL9058812583.mp3?updated=1752174755"
+},
+{
+"date": "2026-08-12",
+"name": "The Sol Foundation - People",
+"url": "https://thesolfoundation.org/people/"
+},
+{
+"date": "2026-08-12",
+"name": "The Sol Foundation - Kirk McConnell",
+"url": "https://thesolfoundation.org/people/kirk-mcconnell/"
+},
+{
+"date": "2026-08-12",
+"name": "The Sol Foundation - White Papers and Policy Briefings index",
+"url": "https://thesolfoundation.org/white-papers/"
+},
+{
+"date": "2020-07-23",
+"name": "Ralph Blumenthal, 'No Longer in the Shadows, Pentagon's U.F.O. Unit Will Make Some Findings Public', The New York Times",
+"url": "https://www.nytimes.com/2020/07/23/us/politics/pentagon-ufo-harry-reid-navy.html"
+}
+],
+"status": "active",
+"sub": "Senior Legislative Affairs Officer, The Sol Foundation",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 305 of 1027, score 36). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A3/D3.",
+"timeline": [
+{
+"date": "2024-03-01",
+"id": "st-2024-03-mcconnell",
+"label": "McConnell retires after 37 years",
+"precision": "month",
+"strand": "oversight",
+"text": "Kirk McConnell leaves Capitol Hill after 37 years on defence and intelligence, including the Senate Armed Services Committee and both intelligence committees, and joins the UAP nonprofit sector.",
+"tier": "A"
+}
+],
+"unexplainedResidual": null,
+"unverified": [
+"Exact start date at Sol and exact SASC years of service are not published.",
+"Whether McConnell personally attended the 21 October 2019 SASC staff briefing.",
+"Which UAP legislative provisions he drafted."
+]
+}

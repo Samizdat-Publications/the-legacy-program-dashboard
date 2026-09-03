@@ -1,0 +1,229 @@
+{
+"A": 3,
+"C": 1,
+"D": 3,
+"band": null,
+"claims": [
+{
+"source": "Tim Gallaudet, written testimony, House Oversight, 13 November 2024",
+"text": "The email's subject line was 'URGENT SAFETY OF FLIGHT ISSUE' and it carried the GO FAST video.",
+"tier": 2
+},
+{
+"source": "Gallaudet written testimony quoting the Fleet Forces Command operations officer, 13 November 2024",
+"text": "'If any of you know what these are, tell me ASAP. We are having multiple near-midair collisions, and if we do not resolve it soon, we will have to shut down the exercise.'",
+"tier": 2
+},
+{
+"source": "Gallaudet written testimony, 13 November 2024",
+"text": "The email vanished from Gallaudet's and other recipients' accounts 'without explanation' the next day.",
+"tier": 2
+},
+{
+"source": "Gallaudet written testimony, 13 November 2024",
+"text": "Gallaudet concluded the information 'must have been classified within a special access program managed by an intelligence agency.'",
+"tier": 2
+}
+],
+"cls": "document",
+"cluster": "other",
+"connections": [
+{
+"claimTier": 2,
+"cls": "document",
+"dateEnd": "2015",
+"dateStart": "2015",
+"direction": "out",
+"edgeLabel": "The recalled fleet safety message carried the GO FAST video",
+"id": "gofast-video",
+"l0": false,
+"label": "GO FAST (Navy ATFLIR video, January 2015)",
+"note": "Gallaudet's written testimony states the January 2015 'URGENT SAFETY OF FLIGHT ISSUE' email attached the GO FAST video and cited 'multiple near-midair collisions.'",
+"sources": [
+{
+"date": "2024-11-13",
+"name": "House Oversight - Gallaudet written testimony (PDF)",
+"url": "https://oversight.house.gov/wp-content/uploads/2024/11/Updated-Testimony-Gallaudet.pdf"
+}
+],
+"tier": "B",
+"type": "custody"
+},
+{
+"claimTier": 2,
+"cls": "event",
+"dateEnd": "2024",
+"dateStart": "2015",
+"direction": "out",
+"edgeLabel": "Gallaudet's inference points at an unacknowledged SAP; Shellenberger named one",
+"id": "immaculate-constellation",
+"l0": true,
+"label": "Immaculate Constellation disclosure, October-November 2024",
+"note": "Gallaudet concluded the recalled information 'must have been classified within a special access program managed by an intelligence agency'; at the same hearing Shellenberger described an alleged parent USAP consolidating UAP imagery collection.",
+"sources": [
+{
+"date": "2024-11-13",
+"name": "House Oversight - Gallaudet written testimony (PDF)",
+"url": "https://oversight.house.gov/wp-content/uploads/2024/11/Updated-Testimony-Gallaudet.pdf"
+},
+{
+"date": "2024-11-13",
+"name": "House Oversight - Shellenberger written testimony (PDF)",
+"url": "https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Shellenberger.pdf"
+}
+],
+"tier": "A",
+"type": "programmatic"
+},
+{
+"claimTier": 2,
+"cls": "document",
+"dateEnd": "2023",
+"dateStart": "2015",
+"direction": "in",
+"edgeLabel": "Two independent traces of the same suppression at fleet level",
+"id": "navy-range-fouler-reports",
+"l0": false,
+"label": "Navy Range Fouler Reports (72 reports, 2004-2021)",
+"note": "The range fouler set records reporting terminating at Third Fleet with no dissemination process; Gallaudet records a Fleet Forces Command safety message deleted within a day.",
+"sources": [
+{
+"date": "2023-01-14",
+"name": "The War Zone - Tic Tac incident in newly released range fouler reports",
+"url": "https://www.twz.com/tic-tac-uap-incident-included-in-72-newly-released-range-incursion-reports"
+},
+{
+"date": "2024-11-13",
+"name": "House Oversight - Gallaudet written testimony (PDF)",
+"url": "https://oversight.house.gov/wp-content/uploads/2024/11/Updated-Testimony-Gallaudet.pdf"
+}
+],
+"tier": "B",
+"type": "behavioral"
+},
+{
+"claimTier": 2,
+"cls": "event",
+"dateEnd": "2015",
+"dateStart": "2015",
+"direction": "out",
+"edgeLabel": "Command-level reaction to the encounter series",
+"id": "roosevelt-2014-2015",
+"l0": true,
+"label": "USS Theodore Roosevelt Encounters (2014-2015)",
+"note": "The message describes exactly the problem Graves's squadron reported - repeated near-midairs with unidentified objects in working airspace - and was withdrawn within 24 hours.",
+"sources": [
+{
+"date": "2024-11-13",
+"name": "House Oversight - Gallaudet written testimony (PDF)",
+"url": "https://oversight.house.gov/wp-content/uploads/2024/11/Updated-Testimony-Gallaudet.pdf"
+},
+{
+"date": "2023-07-26",
+"name": "House Oversight - Graves written testimony (PDF)",
+"url": "https://oversight.house.gov/wp-content/uploads/2023/07/Ryan-HOC-Testimony.pdf"
+}
+],
+"tier": "B",
+"type": "investigative"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2024",
+"dateStart": "2015",
+"direction": "in",
+"edgeLabel": "Recipient of the message and the witness to its deletion",
+"id": "tim-gallaudet",
+"l0": false,
+"label": "Timothy Gallaudet",
+"note": "Gallaudet, then Commander of Naval Meteorology and Oceanography Command, testified the email vanished from his and other recipients' accounts the next day.",
+"sources": [
+{
+"date": "2024-11-13",
+"name": "House Oversight - Gallaudet written testimony (PDF)",
+"url": "https://oversight.house.gov/wp-content/uploads/2024/11/Updated-Testimony-Gallaudet.pdf"
+}
+],
+"tier": "A",
+"type": "witness-chain"
+}
+],
+"coords": null,
+"dateEnd": "2015",
+"dateStart": "2015",
+"deg": 5,
+"denials": [],
+"desc": "A January 2015 email from the operations officer of US Fleet Forces Command to all subordinate commanders, subject line 'URGENT SAFETY OF FLIGHT ISSUE,' attaching the GO FAST video and asking: 'If any of you know what these are, tell me ASAP. We are having multiple near-midair collisions, and if we do not resolve it soon, we will have to shut down the exercise.' Then-Rear Admiral Tim Gallaudet, at the time Commander of Naval Meteorology and Oceanography Command, testified in writing to the House Oversight joint subcommittees on 13 November 2024 that the email disappeared from his account and from other recipients' accounts 'without explanation' the very next day, and that he concluded the information 'must have been classified within a special access program managed by an intelligence agency.' This document - or rather its deletion - is the single sharpest artefact of the concealment mechanism in the aviator record. It is not a classification decision anyone defended, not a refusal to comment, not a denial: it is the retroactive removal of an official Navy flight-safety warning from every recipient's inbox. No agency has acknowledged ordering it, and the message identifier, sender and recall authority remain unidentified.",
+"domains": [
+"aviators-incidents"
+],
+"dossier": null,
+"entityInfo": {
+"desc": "The recalled January 2015 US Fleet Forces Command message is the highest-value single artefact on the aviator strand, and it deserves separate treatment because of what it rules out. A refusal to comment is consistent with indifference. A classification decision is consistent with ordinary secrecy. But the retroactive deletion of an already-distributed fleet-wide flight-safety warning from the inboxes of every subordinate commander is not consistent with either. It requires that someone with authority over Navy messaging systems decided, within 24 hours, that a safety-of-flight warning about repeated near-midair collisions was more dangerous distributed than the near-midairs themselves. Gallaudet, a serving flag officer at the time and later acting NOAA Administrator, drew the only available inference in sworn testimony: the information 'must have been classified within a special access program managed by an intelligence agency.' The message is also the connective tissue between the two halves of the aviator record. It carried GO FAST - one of the three videos DoD later released as authentic and unidentified - and it described exactly the problem Ryan Graves's squadron was filing unacknowledged safety reports about in the same airspace in the same period. Nine years later, AARO reanalysed GO FAST on parallax grounds and concluded it showed nothing anomalous. That analysis, whatever its merits, has no bearing on why the warning was withdrawn. No agency has ever acknowledged withdrawing it, and the sender, message identifier and recall authority remain unidentified.",
+"sources": [
+{
+"date": "2024-11-13",
+"name": "House Oversight - Gallaudet written testimony (PDF)",
+"url": "https://oversight.house.gov/wp-content/uploads/2024/11/Updated-Testimony-Gallaudet.pdf"
+},
+{
+"date": "2024-11-19",
+"name": "AARO - SASC open hearing case slides (PDF)",
+"url": "https://www.aaro.mil/Portals/136/PDFs/SASC_AARO_Open_Hearing_Case_Slides_19Nov2024.pdf"
+},
+{
+"date": "2023-07-26",
+"name": "House Oversight - Graves written testimony (PDF)",
+"url": "https://oversight.house.gov/wp-content/uploads/2023/07/Ryan-HOC-Testimony.pdf"
+}
+]
+},
+"era": "2",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "gallaudet-2015-email",
+"l0": false,
+"label": "Fleet Forces Command 'URGENT SAFETY OF FLIGHT ISSUE' Email (Jan 2015, recalled)",
+"locLabel": null,
+"members": null,
+"short": "Fleet Forces Command 'URGENT SAFETY OF FLIGHT ISSUE' Email (Jan 2015, recalled)",
+"sources": [
+{
+"date": "2024-11-13",
+"name": "House Oversight - Gallaudet written testimony (PDF)",
+"url": "https://oversight.house.gov/wp-content/uploads/2024/11/Updated-Testimony-Gallaudet.pdf"
+},
+{
+"date": "2024-11-13",
+"name": "House Oversight - hearing page, 13 Nov 2024",
+"url": "https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-exposing-the-truth/"
+}
+],
+"sub": "Recalled Navy fleet-wide safety message carrying the GO FAST video",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 237 of 1027, score 41). 5 connections, 3 of them custody/witness/funding/programmatic. Axes C1/A3/D3.",
+"timeline": [
+{
+"date": "2015-01-01",
+"id": "av-2015-01-email",
+"label": "Fleet Forces safety message recalled",
+"precision": "month",
+"strand": "coverup",
+"text": "A US Fleet Forces Command 'URGENT SAFETY OF FLIGHT ISSUE' email carrying GO FAST and citing 'multiple near-midair collisions' is sent to all subordinate commanders and deleted from every recipient's account the next day.",
+"tier": "A"
+},
+{
+"date": "2024-11-13",
+"id": "av-2024-11-13",
+"label": "Gallaudet discloses the recalled email",
+"precision": "day",
+"strand": "oversight",
+"text": "At the House Oversight joint hearing, Gallaudet testifies the January 2015 Fleet Forces Command safety message was deleted from all accounts within a day and concludes it 'must have been classified within a special access program managed by an intelligence agency.' Shellenberger describes Immaculate Constellation.",
+"tier": "A"
+}
+]
+}

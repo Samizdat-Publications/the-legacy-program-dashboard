@@ -1,0 +1,241 @@
+{
+"A": 3,
+"C": 2,
+"D": 1,
+"band": null,
+"claims": [
+{
+"source": "Condon Report, Section V Chapter 2",
+"text": "Twining's letter of 23 September 1947 directed the establishment of a study of UFOs, and the project received priority designation in a December 1947 letter.",
+"tier": 1
+},
+{
+"source": "Condon Report, Section V Chapter 2",
+"text": "Staff prepared a classified 'Estimate of the Situation' in 1948 asserting UFOs were interplanetary vehicles; Gen. Vandenberg rejected it for lacking proof and copies were destroyed.",
+"tier": 1
+},
+{
+"source": "Condon Report, Section V Chapter 2",
+"text": "Project SIGN transitioned to Project GRUDGE on 11 February 1949.",
+"tier": 1
+},
+{
+"source": "Ruppelt, 'The Report on Unidentified Flying Objects' (1956); Project Blue Book administrative records, NARA RG 341",
+"text": "SIGN operated under Air Materiel Command intelligence at Wright Field, with J. Allen Hynek retained as scientific consultant from 1948.",
+"tier": 2
+}
+],
+"cls": "program",
+"cluster": "legacy",
+"connections": [
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "2024",
+"dateStart": "2024",
+"direction": "in",
+"edgeLabel": "AARO finds SIGN, GRUDGE and Blue Book sightings were ordinary objects",
+"id": "aaro-historical-record-vol1",
+"l0": true,
+"label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
+"note": "The 2024 report concludes most sightings across all the legacy programs were ordinary objects and misidentification, and that no official review has ever confirmed extraterrestrial technology.",
+"sources": [
+{
+"date": "2024-02-01",
+"name": "AARO Historical Record Report, Volume I",
+"url": "https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf"
+}
+],
+"tier": "A",
+"type": "denial"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "1949",
+"dateStart": "1948",
+"direction": "out",
+"edgeLabel": "SIGN hosted by AMC intelligence at Wright Field, ATIC's predecessor",
+"id": "atic",
+"l0": true,
+"label": "Air Technical Intelligence Center",
+"note": "The first official UFO project was placed inside the foreign materiel exploitation organisation rather than a research or air defence body — the structural fact underlying this entire domain.",
+"sources": [
+{
+"date": "1968-11-01",
+"name": "Condon Report Sec. V Ch. 2",
+"url": "https://files.ncas.org/condon/text/s5chap02.htm"
+},
+{
+"date": "2026-08-12",
+"name": "USAF Fact Sheet: Project Blue Book",
+"url": "https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "1948",
+"dateStart": "1948",
+"direction": "out",
+"edgeLabel": "SIGN staff produced the 1948 Estimate",
+"id": "estimate-of-the-situation",
+"l0": false,
+"label": "Estimate of the Situation (1948)",
+"note": "Project SIGN personnel wrote a Top Secret estimate concluding the objects were interplanetary. The Condon Report, written under Air Force contract, records that it was prepared.",
+"sources": [
+{
+"date": "1968-11-01",
+"name": "Condon Report Sec. V Ch. 2",
+"url": "https://files.ncas.org/condon/text/s5chap02.htm"
+}
+],
+"tier": "B",
+"type": "programmatic"
+},
+{
+"claimTier": 2,
+"cls": "document",
+"dateEnd": "1948",
+"dateStart": "1947",
+"direction": "in",
+"edgeLabel": "Collection requirement fed the project that began weeks later",
+"id": "schulgen-memo",
+"l0": false,
+"label": "Schulgen Collection Memorandum: Intelligence Requirements on Flying Saucer Type Aircraft",
+"note": "The 30 October 1947 collection tasking and the 30 December 1947 direction of Project SIGN are two steps of a single sequence initiated by the Twining memo.",
+"sources": [
+{
+"date": "1947-10-28",
+"name": "Schulgen collection memorandum",
+"url": "https://www.nicap.org/schulgen.htm"
+},
+{
+"date": "1968-11-01",
+"name": "Condon Report Sec. V Ch. 2",
+"url": "https://files.ncas.org/condon/text/s5chap02.htm"
+}
+],
+"tier": "B",
+"type": "programmatic"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "1948",
+"dateStart": "1947",
+"direction": "in",
+"edgeLabel": "Memo's recommendation produced Project SIGN",
+"id": "twining-memo",
+"l0": false,
+"label": "Twining Memorandum: AMC Opinion Concerning \"Flying Discs\"",
+"note": "The Condon Report states Twining's 23 September 1947 letter directed establishment of a study of UFOs, which received priority designation in December 1947 and began as Project SIGN.",
+"sources": [
+{
+"date": "1968-11-01",
+"name": "Condon Report Sec. V Ch. 2",
+"url": "https://files.ncas.org/condon/text/s5chap02.htm"
+}
+],
+"tier": "B",
+"type": "programmatic"
+}
+],
+"coords": null,
+"dateEnd": "1949",
+"dateStart": "1947",
+"deg": 5,
+"denials": [
+{
+"by": {
+"id": "aaro-historical-record-vol1",
+"label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+},
+"claimTier": 1,
+"denialKind": "directed",
+"label": "AARO finds SIGN, GRUDGE and Blue Book sightings were ordinary objects",
+"note": "The 2024 report concludes most sightings across all the legacy programs were ordinary objects and misidentification, and that no official review has ever confirmed extraterrestrial technology.",
+"of": {
+"id": "project-sign",
+"label": "Project SIGN"
+},
+"sources": [
+{
+"date": "2024-02-01",
+"name": "AARO Historical Record Report, Volume I",
+"url": "https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf"
+}
+]
+}
+],
+"desc": "Project SIGN was the first official United States Air Force investigation of unidentified flying objects, directed on 30 December 1947 on the recommendation of Lt. Gen. Nathan Twining's memorandum of 23 September 1947 and beginning operations at Wright Field on 23 January 1948. It sat inside Air Materiel Command intelligence under Col. Howard McCoy. SIGN's significance is that its staff reached the interplanetary conclusion and were overruled: in mid-1948 the project produced a Top Secret 'Estimate of the Situation' concluding the objects were of extraterrestrial origin, which Air Force Chief of Staff Gen. Hoyt Vandenberg rejected for insufficient proof and ordered destroyed. The Condon Report — written under Air Force contract twenty years later — records this. SIGN was reconstituted as Project GRUDGE on 11 February 1949 with an explicitly dismissive posture, and the personnel who had signed the Estimate were dispersed. The SIGN episode establishes the pattern that governs the whole legacy era: the working-level analysts closest to the data reach an exotic conclusion, and the conclusion is destroyed rather than rebutted.",
+"domains": [
+"history-1940s-1960s"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "project-sign",
+"l0": false,
+"label": "Project SIGN",
+"locLabel": null,
+"members": null,
+"short": "Project SIGN",
+"sources": [
+{
+"date": "1968-11-01",
+"name": "Condon Report, Sec. V Ch. 2 — UFOs 1947-1968",
+"url": "https://files.ncas.org/condon/text/s5chap02.htm"
+},
+{
+"date": "1956-01-01",
+"name": "Ruppelt, The Report on Unidentified Flying Objects (full text)",
+"url": "https://www.gutenberg.org/ebooks/17346"
+},
+{
+"date": "2026-08-12",
+"name": "NARA — Project Blue Book / Air Force UFO records",
+"url": "https://www.archives.gov/research/military/air-force/ufos"
+}
+],
+"sub": "First official USAF UFO project (1948-1949)",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 164 of 1027, score 48). 5 connections, 3 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D1.",
+"timeline": [
+{
+"date": "1944-11-01",
+"id": "tl-1944-foo",
+"label": "Foo fighters",
+"precision": "month",
+"strand": "program",
+"text": "Allied aircrews over Europe and the Pacific report glowing objects pacing their aircraft. The 415th Night Fighter Squadron files repeated reports; no Axis weapon is ever identified as the cause.",
+"tier": "C"
+},
+{
+"date": "1946-07-01",
+"id": "tl-1946-ghost",
+"label": "Ghost rockets over Scandinavia",
+"precision": "month",
+"strand": "program",
+"text": "Sweden logs hundreds of unexplained rocket-like objects; US and UK intelligence send officers, including Gen. James Doolittle, to assess. No Soviet programme is ever identified.",
+"tier": "C"
+},
+{
+"date": "1947-12-30",
+"id": "tl-1947-12-30",
+"label": "Project SIGN directed",
+"precision": "day",
+"strand": "program",
+"text": "On Twining's recommendation the Air Force establishes its first official UFO project inside Air Materiel Command intelligence at Wright Field. It begins operating 23 January 1948.",
+"tier": "A"
+}
+]
+}

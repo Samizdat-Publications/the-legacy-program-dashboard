@@ -1,0 +1,102 @@
+{
+"A": 0,
+"C": 0,
+"D": 2,
+"band": null,
+"claims": [
+{
+"source": "https://defensescoop.com/2026/03/18/white-house-registers-new-alien-gov-domains-ufo-uap/",
+"text": "alien.gov and aliens.gov were registered by the White House on the evening of 17 March 2026; neither was connected to an active website as of 18 March 2026.",
+"tier": 2
+},
+{
+"source": "https://defensescoop.com/2026/03/18/white-house-registers-new-alien-gov-domains-ufo-uap/",
+"text": "White House spokeswoman Anna Kelly's comment on the registrations: 'Stay tuned!' with an alien emoji. CISA's Chris Butera: 'CISA does not generally review or audit how government organizations use their registered domains.'",
+"tier": 2
+},
+{
+"source": "https://www.war.gov/UFO/",
+"text": "The registered domains were not used for the release programme, which launched on war.gov/UFO on 8 May 2026. Reasoning: the war.gov portal is the sole publication surface for all five tranches and alien.gov/aliens.gov remain unconnected.",
+"tier": 3
+}
+],
+"cls": "document",
+"cluster": "other",
+"connections": [
+{
+"claimTier": 3,
+"cls": "program",
+"dateEnd": "2026-05-08",
+"dateStart": "2026-03-17",
+"direction": "out",
+"edgeLabel": "contemplated branding not used",
+"id": "pursue-releases",
+"l0": true,
+"label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters",
+"note": "The White House registered alien.gov and aliens.gov on 17 March 2026; the programme shipped seven weeks later on the Secretary of War's estate instead.",
+"sources": [
+{
+"date": "2026-03-18",
+"name": "DefenseScoop, alien .gov domains",
+"url": "https://defensescoop.com/2026/03/18/white-house-registers-new-alien-gov-domains-ufo-uap/"
+},
+{
+"date": "2026-08-12",
+"name": "Department of War, WAR.GOV/UFO portal",
+"url": "https://www.war.gov/UFO/"
+}
+],
+"tier": "A",
+"type": "temporal"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "2026-03-17",
+"deg": 1,
+"denials": [],
+"desc": "On the evening of 17 March 2026 the White House registered the .gov domains alien.gov and aliens.gov, reported by DefenseScoop on 18 March 2026. Neither was connected to an active website at the time of reporting, and neither is the domain PURSUE eventually used - the release programme launched seven weeks later on war.gov/UFO. White House spokeswoman Anna Kelly responded to the discovery with 'Stay tuned!' and an alien emoji. CISA's Acting Executive Assistant Director for Cybersecurity Chris Butera noted that 'CISA does not generally review or audit how government organizations use their registered domains.' The registration is a small artefact with a specific evidentiary value: it is a dated, attributable act by the Executive Office of the President, a month after the Truth Social direction and seven weeks before the first tranche, showing that an alien-and-UAP-branded public-facing property was contemplated at the White House level and then not used. The programme that actually shipped was branded as a Department of War transparency effort, on the Secretary's estate, under an acronym containing the word 'Presidential'.",
+"domains": [
+"w2-2025-2026"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "alien-gov-domains-2026",
+"l0": false,
+"label": "White House registration of alien.gov and aliens.gov (17-18 March 2026)",
+"locLabel": null,
+"members": null,
+"short": "White House registration of alien.gov and aliens.gov (17-18 March 2026)",
+"sources": [
+{
+"date": "2026-03-18",
+"name": "DefenseScoop, 'White House registers new alien-related .gov domains as DOD tackles Trump's disclosure directive'",
+"url": "https://defensescoop.com/2026/03/18/white-house-registers-new-alien-gov-domains-ufo-uap/"
+},
+{
+"date": null,
+"name": "war.gov",
+"url": "https://www.war.gov/UFO/"
+}
+],
+"sub": "Registered by the White House; no active sites as of reporting",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 993 of 1027, score 10). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D2.",
+"timeline": [
+{
+"date": "2026-03-17",
+"id": "tl-alien-gov",
+"label": "White House registers alien.gov and aliens.gov",
+"precision": "day",
+"strand": "program",
+"text": "Neither domain is connected to a site. Anna Kelly: 'Stay tuned!' The release programme ships seven weeks later on war.gov/UFO instead.",
+"tier": "2"
+}
+]
+}

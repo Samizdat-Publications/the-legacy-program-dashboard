@@ -1,0 +1,144 @@
+{
+"A": 3,
+"C": 1,
+"D": 0,
+"band": null,
+"claims": [
+{
+"source": "USAspending.gov recipient search, retrieved 12 August 2026",
+"text": "USAspending records prime contract obligations to Raytheon Company entities exceeding $100 billion since FY2008, including sensor test assessment and anomaly resolution task orders.",
+"tier": 1
+},
+{
+"source": "Board inference from Raytheon's documented sensor contracts",
+"text": "Raytheon holds the sensor data and calibration records underlying the military UAP imagery Congress has repeatedly failed to obtain. Reasoning: it is the manufacturer of the relevant systems and data rights typically follow the contract, but no specific withheld dataset has been identified in a public record.",
+"tier": 3
+}
+],
+"cls": "institution",
+"cluster": "contractor",
+"connections": [
+{
+"claimTier": 2,
+"cls": "domain",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "sensor-side prime - the contractor-generated data category nobody is asking for",
+"id": "d-contracting",
+"l0": false,
+"label": "Federal Contracting Mechanics",
+"note": "Raytheon builds the AN/APG-79 and ATFLIR families through which the military detects and images the objects at issue, which makes it the corporate custodian of a withheld category of contractor-generated sensor data distinct from the custody allegation. Graded Tier 2: no source places Raytheon in any UAP-specific contract vehicle, and the edge rests on documented prime-contractor role plus hearing-record discussion of sensor data.",
+"sources": [
+{
+"date": "2026-08-21",
+"name": "USAspending.gov, federal award search (prime contract obligations by recipient)",
+"url": "https://www.usaspending.gov/search"
+},
+{
+"date": "2023-07-26",
+"name": "House Oversight hearing transcript, 'UAP: Implications on National Security, Public Safety, and Government Transparency' (CHRG-118hhrg53022)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "1995-05-01",
+"dateStart": "1995-05-01",
+"direction": "in",
+"edgeLabel": "Raytheon acquired E-Systems outright, completed 1 May 1995",
+"id": "e-systems-inc",
+"l0": false,
+"label": "E-Systems, Inc.",
+"note": "Raytheon acquired E-Systems outright on 1 May 1995, taking its reconnaissance, surveillance and intelligence-collection business lines into the Raytheon node the board already carries.",
+"sources": [
+{
+"date": "1995-05-01",
+"name": "Schedule 14D-1/A Amendment No. 4 (Final Amendment) and Raytheon's press release of 1 May 1995, accession 0000950130-95-000863",
+"url": "https://www.sec.gov/Archives/edgar/data/30875/0000950130-95-000863.txt"
+}
+],
+"tier": "B",
+"type": "custody"
+},
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "Raytheon-built ATFLIR pod produced the FLIR1 record",
+"id": "nimitz-2004",
+"l0": true,
+"label": "USS Nimitz Carrier Strike Group Encounters, 10-16 November 2004",
+"note": "The Advanced Targeting Forward Looking Infrared pod is built by Raytheon and is, in the Navy's own words, 'the primary weapons delivery targeting sensor for the U.S. Navy' on F/A-18 C, E and F variants. The Department released three genuine Navy videos in April 2020, one of them from November 2004. Tier 2 because neither document states which sensor produced that video: the contractor's own page on the subject returns 404 and navair.navy.mil returns 403, so the specific tie between the pod and the FLIR1 footage is inference from the aircraft type and the period, not a documented statement.",
+"sources": [
+{
+"date": "2020-05-20",
+"name": "U.S. Navy, 'NAVSUP Weapon Systems Support Awards $325 Million ATFLIR Contract to Raytheon', 20 May 2020",
+"url": "https://www.navy.mil/Press-Office/News-Stories/Article/2283958/navsup-weapon-systems-support-awards-325-million-atflir-contract-to-raytheon/"
+},
+{
+"date": "2020-04-27",
+"name": "Statement by the Department of Defense on the Release of Historical Navy Videos, 27 April 2020",
+"url": "https://www.war.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/"
+},
+{
+"date": null,
+"name": "https://en.wikipedia.org/wiki/AN/ASQ-228_ATFLIR",
+"url": "https://en.wikipedia.org/wiki/AN/ASQ-228_ATFLIR"
+},
+{
+"date": null,
+"name": "https://uapedia.ai/wiki/uss-nimitz-uap-encounters-case-file-2004/",
+"url": "https://uapedia.ai/wiki/uss-nimitz-uap-encounters-case-file-2004/"
+}
+],
+"tier": "A",
+"type": "custody"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "1922",
+"deg": 3,
+"denials": [],
+"desc": "Raytheon's place in this domain is sensor-side rather than custody-side, and the distinction matters for how the board grades it. It builds the radar and electro-optical systems - the AN/APG-79 and ATFLIR families among them - through which the US military actually detects and images the objects at issue, which makes it the corporate custodian of a different and equally withheld category of material: raw sensor data and the calibration records needed to evaluate it. USAspending records more than a hundred billion dollars in prime contract obligations to Raytheon entities since FY2008, including test-assessment and anomaly-resolution task orders on fighter sensor systems. No sworn witness has named Raytheon as a holder of recovered material. It is included here as a named prime in the 'metal benders' category David Grusch described - contractors 'actually doing specific performance on government contracts' - and because the sensor-data custody question is the one place where the contractor holdings that matter are unambiguously real, unambiguously government-funded, and unambiguously not in congressional hands.",
+"domains": [
+"primes-custody"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "raytheon",
+"l0": false,
+"label": "Raytheon (RTX Corporation)",
+"locLabel": null,
+"members": null,
+"short": "Raytheon (RTX Corporation)",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "USAspending.gov federal award search (prime contract obligations by recipient)",
+"url": "https://www.usaspending.gov/search"
+},
+{
+"date": "2023-07-26",
+"name": "House Oversight hearing transcript, 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency' (CHRG-118hhrg53022)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm"
+}
+],
+"sub": "Prime contractor; sensors, radar, missile systems",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 592 of 1027, score 26). 3 connections, 2 of them custody/witness/funding/programmatic. Axes C1/A3/D0.",
+"timeline": []
+}

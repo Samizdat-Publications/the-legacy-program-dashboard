@@ -1,0 +1,991 @@
+{
+"A": 2,
+"C": 3,
+"D": 2,
+"band": "reverse-engineering",
+"claims": [
+{
+"source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237652/",
+"text": "Contract modification P00001 (effective SEP 02 2009) to contract HHM402-08-C-0072 names the contractor as 'BIGELOW AEROSPACE ADVANCED SPACE STUDIES, LLC', address '1E199 W BROOKS AVE, NORTH LAS VEGAS NV 890323671' (OCR-degraded; street number reads as 1899/1E199 W Brooks Ave), with DUNS shown as 37/0377613 (OCR-degraded) and CAGE code 54JU7 (OCR-degraded). Original contract dated SEP 22, 2008.",
+"tier": 1
+},
+{
+"source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237642/",
+"text": "DIA briefing: 'Performance by Bigelow Aerospace Advanced Space Studies (BAASS) has been excellent and they are in full compliance with aerospace contract HHM402-08-C-0072: extensive monthly status reports received; 12 project management plans received and executed; 26 detailed research reports (twice minimum requirement) received by 30 June 2009. Reviews of reports have been overwhelmingly positive.'",
+"tier": 1
+},
+{
+"source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237642/",
+"text": "Same briefing: 'Recommend that DIA should go forward with option year 1 with BAASS, subject to available funding. $12 million for the continuation of this contract by DIA/DI has been submitted in the FY10 defense budget; funding likely to be approved.'",
+"tier": 1
+},
+{
+"source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237615/",
+"text": "DIA Talking Paper U-326-09: 'BAASS submitted the 12 technical area program management plans (PMPs) on 21 November 2008... reviewed the PMPs and rated them as very good to excellent... BAASS will deliver to DIA approximately two detailed reports per technical area. The goal is for [DIA] to have all reports by the end of July 2009.'",
+"tier": 1
+},
+{
+"source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237615/",
+"text": "Same paper: 'The Defense Security Service conducted a site inspection on the BAASS facility on 17 December 2008. The inspection was completed satisfactorily and the facility clearance process is expected to be completed shortly.'",
+"tier": 1
+},
+{
+"source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237616/",
+"text": "DIA 8 May 2009 status briefing: 'SCI clearance processing has been successfully completed for all key personnel.' — i.e. BAASS staff were cleared to Sensitive Compartmented Information level under this contract.",
+"tier": 1
+},
+{
+"source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237611/",
+"text": "DIA Info Memo U-09-2660 (13 Nov 2009): 'All program documents delivered to [DIA] during FY 2009 (the first year of the program) were unclassified because the contractor had not established a secure facility, and program employees were being vetted for clearances. In FY 2010, most research products will remain at the unclassified level. However, four to six of the original technical reports will be expanded to include classified data.'",
+"tier": 1
+},
+{
+"source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237617/",
+"text": "DIA Info Memo U-429-09: 'Each research report ... was written by world-class technical experts in industry and/or academia', with reviews performed by 'other authors listed in the table' and by 'outside reviewers including three research staff members at Sandia National Laboratories'.",
+"tier": 1
+},
+{
+"source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237611/",
+"text": "The FY2010 pivot described in U-09-2660 — 'four to six of the original technical reports will be expanded to include classified data', focused on 'foreign research in a particular technology area' — is the point at which the publicly-visible DIRD series stops and the record goes dark. The 37-38 released DIRDs are, by DIA's own account, the unclassified subset.",
+"tier": 3
+},
+{
+"source": "DIA release FOIA-00349-2018",
+"text": "BAASS, of 4640 S. Eastern Ave, Las Vegas NV 89119, DUNS 827037768, CAGE 54JU7, is the named awardee of DIA firm-fixed-price contract HHM402-08-C-0072.",
+"tier": 1
+},
+{
+"source": "AARO Historical Record Report Volume 1, p.23",
+"text": "DoD states the contractor 'conducted UFO research with the support of the DIA program manager' although UAP investigation was not in the statement of work.",
+"tier": 1
+},
+{
+"source": "The Debrief, 25 May 2023",
+"text": "Colm Kelleher served as Deputy Administrator of BAASS from 2008 and led day-to-day execution of the AAWSAP contract.",
+"tier": 2
+},
+{
+"source": "BAASS Ten Month Report (2009), leaked copy analysed publicly since 2020",
+"text": "BAASS delivered a 494-page Ten Month Report to DIA in July 2009 covering field investigations, laboratory physics, and case database construction.",
+"tier": 2
+},
+{
+"source": "MUFON and BAASS contemporaneous accounts; The UFO Chronicles, March 2011",
+"text": "BAASS contracted with MUFON in 2009 to fund the Star Team Impact Project for rapid-response field investigation, terminating the arrangement in 2010.",
+"tier": 2
+}
+],
+"cls": "institution",
+"cluster": "other",
+"connections": [
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "HHM402-08-C-0072, sole bid, signed 22 Sep 2008",
+"id": "aawsap",
+"l0": true,
+"label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)",
+"note": "BAASS was the only bidder and the performer. DIA's own record: 'DIA received only one bid, from Bigelow Aerospace Advanced Space Studies (BAASS), in response to the RFP. DIA determined that the proposal was responsive.' A twelve-technical-area solicitation drawing a single bid is itself a fact about how the work was scoped.",
+"sources": [
+{
+"date": "2008-08-18",
+"name": "FedBizOpps notice: ADVANCED AEROSPACE WEAPON SYSTEM APPLICATIONS PROGRAM, Solicitation HHM40208R0211 (DIA FOIA release)",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237630/"
+},
+{
+"date": "2010",
+"name": "DIA Info Memo U-10-2552 to USD(AT&L), 'Advanced Aerospace Threat and Identification Program' (DIA FOIA release)",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237626/"
+}
+],
+"tier": "A",
+"type": "programmatic"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "2013",
+"dateStart": "2008",
+"direction": "in",
+"edgeLabel": "$10M base firm-fixed-price award to BAASS",
+"id": "aawsap-contract",
+"l0": false,
+"label": "DIA Contract HHM402-08-C-0072 (BAASS)",
+"note": "Awarded 22 September 2008 to Bigelow Aerospace Advanced Space Studies LLC, DUNS 827037768, CAGE 54JU7, base year plus four options.",
+"sources": [
+{
+"date": "2022-10-13",
+"name": "DIA AAWSAP contract (FOIA-00349-2018)",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP/FOIA-00349-2018.pdf"
+}
+],
+"tier": "A",
+"type": "funding"
+},
+{
+"claimTier": 3,
+"cls": "document",
+"dateEnd": "2008",
+"dateStart": "2008",
+"direction": "in",
+"edgeLabel": "requirement written to a capability only BAASS held",
+"id": "aawsap-solicitation",
+"l0": false,
+"label": "DIA Solicitation HHM402-08-R-0211",
+"note": "An eleven-topic statement of work including spatial/temporal translation, human interface and human effects, competed for five weeks, awarded to the one firm with a decade of exactly that field practice.",
+"sources": [
+{
+"date": "2008-08-18",
+"name": "The Black Vault — AAWSAP Original Bid Solicitation",
+"url": "https://www.theblackvault.com/documentarchive/advanced-aerospace-weapon-systems-applications-program-aawsap-original-bid-solicitation/"
+}
+],
+"tier": "B",
+"type": "behavioral"
+},
+{
+"claimTier": 2,
+"cls": "document",
+"dateEnd": "2009",
+"dateStart": "2009",
+"direction": "out",
+"edgeLabel": "delivered the 494-page report to DIA",
+"id": "baass-ten-month-report",
+"l0": false,
+"label": "BAASS Ten Month Report (2009)",
+"note": "The deliverable that shows the program's actual shape: physics, field teams, case database, ranch operations, human effects. Never released by DIA.",
+"sources": [
+{
+"date": "2021-01-01",
+"name": "Metabunk — BAASS Ten Month Report thread",
+"url": "https://www.metabunk.org/threads/baass-ten-month-report-2009-leaked-document.14241/"
+}
+],
+"tier": "B",
+"type": "programmatic"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "2012",
+"dateStart": "2007",
+"direction": "out",
+"edgeLabel": "separately registered LLC under the Bigelow umbrella",
+"id": "bigelow-aerospace",
+"l0": false,
+"label": "Bigelow Aerospace",
+"note": "BAASS holds its own DUNS and CAGE codes distinct from Bigelow Aerospace, isolating the intelligence contract from the NASA-facing business.",
+"sources": [
+{
+"date": "2022-10-13",
+"name": "DIA AAWSAP contract (FOIA-00349-2018)",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP/FOIA-00349-2018.pdf"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "BAASS LLC, North Las Vegas NV",
+"id": "bigelow-aerospace",
+"l0": false,
+"label": "Bigelow Aerospace",
+"note": "The contract vehicle is the link. Contract modification P00001, effective 2 September 2009 to contract HHM402-08-C-0072, names the contractor as Bigelow Aerospace Advanced Space Studies, and the USD(I) memorandum to the Deputy Secretary records that 'the sole bid for the contract was from Bigelow Aerospace Advance Space Studies located in Las Vegas'. The institutional edge on this pair records the separate DUNS and CAGE codes; this one records that the DIA money went to the subsidiary.",
+"sources": [
+{
+"date": "2009-09-02",
+"name": "Amendment of Solicitation/Modification of Contract P00001 to HHM402-08-C-0072, Bigelow Aerospace Advanced Space Studies LLC (DIA FOIA release)",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237652/"
+},
+{
+"date": "2009",
+"name": "DIA briefing 'Aerospace Contract Status — Performance by Bigelow Aerospace Advanced Space Studies (BAASS)' (DIA FOIA release)",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237642/"
+}
+],
+"tier": "A",
+"type": "programmatic"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2012",
+"dateStart": "2008",
+"direction": "in",
+"edgeLabel": "Deputy Administrator running day-to-day contract execution",
+"id": "colm-kelleher",
+"l0": false,
+"label": "Colm A. Kelleher",
+"note": "Kelleher carried the NIDS field methodology into the federally funded effort and directed the biological-effects line.",
+"sources": [
+{
+"date": "2023-05-25",
+"name": "The Debrief",
+"url": "https://thedebrief.org/colm-kelleher-aawsap-and-the-skinwalker-enigma/"
+}
+],
+"tier": "A",
+"type": "programmatic"
+},
+{
+"claimTier": 1,
+"cls": "domain",
+"dateEnd": null,
+"dateStart": "2008",
+"direction": "out",
+"edgeLabel": "a company stood up to hold a single government contract",
+"id": "d-contracting",
+"l0": false,
+"label": "Federal Contracting Mechanics",
+"note": "BAASS was registered as a legal entity distinct from Bigelow Aerospace, with its own DUNS and CAGE codes, in order to bid and hold DIA contract HHM402-08-C-0072. Standing up a corporate vehicle for the purpose of receiving one award is a contracting mechanic, and it is the one instance on this board that is fully documented in FOIA-released procurement paper.",
+"sources": [
+{
+"date": "2009-09-02",
+"name": "Amendment of Solicitation/Modification of Contract P00001 to HHM402-08-C-0072, Bigelow Aerospace Advanced Space Studies LLC (DIA FOIA release)",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237652/"
+},
+{
+"date": "2008-08-18",
+"name": "FedBizOpps notice, Solicitation HHM402-08-R-0211, Advanced Aerospace Weapon System Applications Program (DIA FOIA release)",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237630/"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 2,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "commissioned via the BAASS prime contract",
+"id": "dird-maverick-inventor-versus-corporate-inventor-where",
+"l0": false,
+"label": "Maverick Inventor Versus Corporate Inventor: Where Will the Next Major Innovations Arise?",
+"note": "Hathaway Consulting was a one-man Toronto engineering consultancy with no independent DIA relationship; its deliverable reached DIA through the AAWSAP prime contract held by Bigelow Aerospace Advanced Space Studies. Tier 2 because the contractor name is redacted on the cover page under (b)(3):10 USC 424 and the subcontract has not been released. Reporting has separately characterised Hathaway as having ties to Bigelow's fringe and paranormal research interests, but no primary document establishing an employment or advisory relationship has been located.",
+"sources": [
+{
+"date": "2026-08-22",
+"name": "Released DIRD, 'Maverick Inventor Versus Corporate Inventor: Where Will the Next Major' — FOIA copy, cover page read 22 August 2026",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_17-DIRD_Maverick_Inventor_Versus_Corporate_Inventor-Where_Will_the_Next_major_Innovations_Arise.pdf"
+},
+{
+"date": "2026-08-22",
+"name": "DIA FOIA Electronic Reading Room entry for this reference document",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237624/"
+},
+{
+"date": null,
+"name": "https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk",
+"url": "https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk"
+}
+],
+"tier": "B",
+"type": "funding"
+},
+{
+"claimTier": 2,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "commissioned via the BAASS prime contract",
+"id": "dird-negative-mass-propulsion",
+"l0": false,
+"label": "Negative Mass Propulsion",
+"note": "Bigelow Aerospace Advanced Space Studies held the DIA contract under which the DIRDs were produced and subcontracted the individual authors; the DIA cover letter to SASC describes the list as 'all products produced under the AATIP contract'. Tier 2 rather than tier 1 because the contractor name is redacted under (b)(3):10 USC 424 on the DIRD cover page itself, so the subcontracting chain for this specific paper is inferred from the programme structure rather than read off the document.",
+"sources": [
+{
+"date": "2026-08-22",
+"name": "Released DIRD, 'Negative Mass Propulsion' — FOIA copy, cover page read 22 August 2026",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_29-DIRD_Negative_mass_Propulsion.pdf"
+},
+{
+"date": "2026-08-22",
+"name": "DIA FOIA Electronic Reading Room entry for this reference document",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237637/"
+},
+{
+"date": null,
+"name": "https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk",
+"url": "https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk"
+}
+],
+"tier": "B",
+"type": "funding"
+},
+{
+"claimTier": 2,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "commissioned via the BAASS prime contract",
+"id": "dird-positron-aerospace-propulsion",
+"l0": false,
+"label": "Positron Aerospace Propulsion",
+"note": "Positronics Research LLC was an outside small business with no standing DIA relationship; its deliverable reached DIA through the AAWSAP prime contract held by Bigelow Aerospace Advanced Space Studies. Tier 2 because the contractor name is redacted on the cover page under (b)(3):10 USC 424 and the subcontract itself has not been released.",
+"sources": [
+{
+"date": "2026-08-22",
+"name": "Released DIRD, 'Positron Aerospace Propulsion' — FOIA copy, cover page read 22 August 2026",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_08-DIRD_Positron_Aerospace_Propulsion.pdf"
+},
+{
+"date": "2026-08-22",
+"name": "DIA FOIA Electronic Reading Room entry for this reference document",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237633/"
+},
+{
+"date": null,
+"name": "https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk",
+"url": "https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk"
+}
+],
+"tier": "B",
+"type": "funding"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "2010",
+"dateStart": "2008",
+"direction": "out",
+"edgeLabel": "prime contractor that commissioned and delivered the 38 DIRDs",
+"id": "dird-series",
+"l0": true,
+"label": "The 38 Defense Intelligence Reference Documents (DIRDs)",
+"note": "BAASS subcontracted the reports to EarthTech, Lockheed Martin, and a dozen universities and delivered them to DIA as Defense Intelligence Reference Documents.",
+"sources": [
+{
+"date": "2018-01-09",
+"name": "DIA letter to SASC",
+"url": "https://documents.theblackvault.com/documents/dia/dia-aatip-reports.pdf"
+}
+],
+"tier": "A",
+"type": "programmatic"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "2025",
+"direction": "in",
+"edgeLabel": "Named BAASS from the dais as a reverse-engineering exploitation question",
+"id": "eric-burlison",
+"l0": false,
+"label": "Eric Burlison",
+"note": "Asked of witness Dylan Borland at the 9 September 2025 hearing.",
+"sources": [
+{
+"date": "2025-09-09",
+"name": "U.S. GPO, Hearing transcript, Serial No. 119-44 (CHRG-119hhrg61718)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm"
+}
+],
+"tier": "A",
+"type": "investigative"
+},
+{
+"claimTier": 2,
+"cls": "location",
+"dateEnd": "2010",
+"dateStart": "2008",
+"direction": "out",
+"edgeLabel": "BAASS ran the AAWSAP field effort from Las Vegas",
+"id": "l-las-vegas",
+"l0": false,
+"label": "Las Vegas, Nevada",
+"note": "Knapp testified that BAASS recruited about 50 cleared investigators, operated for 27 months and produced over 100 research papers and a 240,000-case data warehouse designed by Jacques Vallee.",
+"sources": [
+{
+"date": "2025-09-09",
+"name": "George Knapp written testimony (PDF)",
+"url": "https://oversight.house.gov/wp-content/uploads/2025/09/George-Knapp-Written-Testimony.pdf"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "location",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "BAASS base of operations",
+"id": "l-lasvegas",
+"l0": false,
+"label": "Las Vegas, Nevada (alias of l-las-vegas)",
+"note": "Bigelow Aerospace gives its own address as 1899 W. Brooks Ave., North Las Vegas, Nevada 89032, and Bigelow Aerospace Advanced Space Studies operated from that base. Two caveats keep this at tier 2: the address is North Las Vegas rather than Las Vegas proper, and the company page does not name BAASS, so it fixes the Bigelow location rather than the contracting entity's.",
+"sources": [
+{
+"date": "2026-08-25",
+"name": "Bigelow Aerospace, Contact (1899 W. Brooks Ave., North Las Vegas, NV 89032)",
+"url": "https://bigelowaerospace.com/pages/contact/"
+},
+{
+"date": null,
+"name": "https://www.8newsnow.com/news/i-team-documents-prove-secret-ufo-study-based-in-nevada/",
+"url": "https://www.8newsnow.com/news/i-team-documents-prove-secret-ufo-study-based-in-nevada/"
+},
+{
+"date": null,
+"name": "https://www.theblackvault.com/casefiles/to-the-stars-academy-of-arts-science-tom-delonge-and-the-secret-dod-ufo-research-program/",
+"url": "https://www.theblackvault.com/casefiles/to-the-stars-academy-of-arts-science-tom-delonge-and-the-secret-dod-ufo-research-program/"
+}
+],
+"tier": "C",
+"type": "geographic"
+},
+{
+"claimTier": 2,
+"cls": "program",
+"dateEnd": "2010",
+"dateStart": "2009",
+"direction": "out",
+"edgeLabel": "funded MUFON's Star Team Impact Project",
+"id": "mufon-sip",
+"l0": false,
+"label": "BAASS–MUFON Star Team Impact Project (SIP)",
+"note": "A DIA-contracted firm bought rapid-response access to the largest civilian UFO reporting network in the United States; the arrangement collapsed in 2010.",
+"sources": [
+{
+"date": "2011-03-01",
+"name": "The UFO Chronicles",
+"url": "https://www.theufochronicles.com/2011/03/what-caused-failure-of-baass-mufon-sip.html"
+}
+],
+"tier": "C",
+"type": "funding"
+},
+{
+"claimTier": 2,
+"cls": "program",
+"dateEnd": "2008",
+"dateStart": "2004",
+"direction": "in",
+"edgeLabel": "personnel, methodology and site inherited wholesale",
+"id": "nids",
+"l0": true,
+"label": "National Institute for Discovery Science (NIDS)",
+"note": "Kelleher, Davis, Green and the Utah ranch operation all pass from Bigelow's private institute into the DIA-funded contractor.",
+"sources": [
+{
+"date": "2023-05-25",
+"name": "The Debrief",
+"url": "https://thedebrief.org/colm-kelleher-aawsap-and-the-skinwalker-enigma/"
+},
+{
+"date": "2024-01-01",
+"name": "Wikipedia — NIDS",
+"url": "https://en.wikipedia.org/wiki/National_Institute_for_Discovery_Science"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 2,
+"cls": "program",
+"dateEnd": "2008",
+"dateStart": "2004",
+"direction": "in",
+"edgeLabel": "NIDS personnel and methods carried directly into the DIA-funded BAASS contract",
+"id": "nids",
+"l0": true,
+"label": "National Institute for Discovery Science (NIDS)",
+"note": "NIDS closed in 2004; in 2007 a senior DIA official wrote to Bigelow about Skinwalker Ranch, and BAASS won the AAWSAP contract the following year with substantially the same people.",
+"sources": [
+{
+"date": "2021-05-10",
+"name": "Gideon Lewis-Kraus, 'How the Pentagon Started Taking U.F.O.s Seriously', The New Yorker",
+"url": "https://www.newyorker.com/magazine/2021/05/10/how-the-pentagon-started-taking-ufos-seriously"
+},
+{
+"date": "2023-05-02",
+"name": "Barry Greenwood, review of 'Skinwalkers at the Pentagon', Journal of Scientific Exploration 37(1) 127-131",
+"url": "https://journalofscientificexploration.org/index.php/jse/article/view/2857"
+}
+],
+"tier": "A",
+"type": "programmatic"
+},
+{
+"claimTier": 2,
+"cls": "program",
+"dateEnd": "2009-10",
+"dateStart": "2009-03",
+"direction": "in",
+"edgeLabel": "BAASS sent teams to Brazil in 2009 and reported on Colares to its DIA sponsor",
+"id": "operacao-prato",
+"l0": true,
+"label": "Operação Prato (Operation Saucer)",
+"note": "Basterfield and Cecotti's reporting has BAASS sending team members to Brazil in May 2009 and again in October 2009. The AAWSAP product list in 'Skinwalkers at the Pentagon' includes the BAASS March 2009 monthly report 'The UFO Assault on Brazil with its Epicenter at Colares (1977-2003) by John Schuessler', the August 2009 monthly report 'Relations with South American organizations', and a July 2009 report 'Project Colares/Brazil, Outreach to South America'. Brazilian researcher A.J. Gevaerd, who met the team in Curitiba, said 'They wanted artifacts from UFOs, such as metamaterials'; Fortaleza researcher Helio Loyola said 'Here in Brazil they didn't do any research. They took and photographed what the ufologists saw and documented.' Tier 2: book and named-researcher sourcing, no BAASS document obtained. Note the collection direction — the US contractor collected from Brazilian civilians, not from the FAB or the Arquivo Nacional.",
+"sources": [
+{
+"date": null,
+"name": "James T. Lacatski, Colm A. Kelleher and George Knapp, 'Skinwalkers at the Pentagon' (RTMA LLC, Henderson, Nevada, 2021), list of AAWSAP products",
+"url": ""
+},
+{
+"date": null,
+"name": "Keith Basterfield and Marc Cecotti, 'BAASS team visited Brazil', 7 April 2020 — https://ufos-scientificresearch.blogspot.com/2020/04/baass-team-visited-brazil.html",
+"url": ""
+},
+{
+"date": null,
+"name": "Keith Basterfield and Marc Cecotti, 'Further insights into BAASS in Brazil', 17 April 2020 — https://ufos-scientificresearch.blogspot.com/2020/04/further-insights-into-baass-in-brazil.html",
+"url": ""
+},
+{
+"date": null,
+"name": "Keith Basterfield, 'Investigative adventures in Brazil', Unidentified Anomalous Phenomena – scientific research, 22 July 2024, with update of 16 February 2025 — https://ufos-scientificresearch.blogspot.com/2024/07/investigative-adventures-in-brazil.html",
+"url": ""
+},
+{
+"date": "2026-01-01",
+"name": "Operação Prato - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Prato"
+}
+],
+"tier": "A",
+"type": "research"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "2012",
+"dateStart": "2007",
+"direction": "in",
+"edgeLabel": "owner and principal",
+"id": "robert-bigelow",
+"l0": false,
+"label": "Robert T. Bigelow",
+"note": "AARO refers to Bigelow only as 'the head of the private sector organization', confirming the relationship without the name.",
+"sources": [
+{
+"date": "2024-03-08",
+"name": "AARO Historical Record Report Volume 1",
+"url": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 3,
+"cls": "person",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "UNLV academic in the prime contractor's home city",
+"id": "william-culbreth",
+"l0": false,
+"label": "William Culbreth",
+"note": "TIER 3, INFERENTIAL. AAWSAP was executed by BAASS out of southern Nevada, and BAASS subcontracted subject-matter experts to write the DIRDs. Culbreth was the University of Nevada, Las Vegas faculty member credited with two of them. No document in the public record states that BAASS specifically recruited him, and this edge should not be read as one. Both DIRDs cited here have their author field redacted under FOIA exemption (b)(6), so even the crediting rests on DIA's separate list of deliverables rather than on the documents themselves.",
+"sources": [
+{
+"date": "2010-11-01",
+"name": "DIRD, 'Aneutronic Fusion Propulsion II', 1 November 2010 (DIA FOIA release)",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_37-DIRD_Aneutronic_Fusion_Propulsion_II.pdf"
+},
+{
+"date": "2010-11-20",
+"name": "DIRD, 'Detection and High Resolution Tracking of Vehicles at Hypersonic Velocities', 20 November 2010, DIA-08-1012-001 (DIA FOIA release)",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_31-DIRD_Detection_and_High_Resolution_Tracking_of_Vehicles_at_Hypersonic_Velocities.pdf"
+},
+{
+"date": null,
+"name": "https://irp.fas.org/dia/aatip-list.pdf",
+"url": "https://irp.fas.org/dia/aatip-list.pdf"
+},
+{
+"date": null,
+"name": "https://www.unlv.edu/news/article/inside-unlv-nuclear-engineering-lab",
+"url": "https://www.unlv.edu/news/article/inside-unlv-nuclear-engineering-lab"
+}
+],
+"tier": "B",
+"type": "geographic"
+}
+],
+"coords": null,
+"dateEnd": "2012",
+"dateStart": "2007",
+"deg": 19,
+"denials": [],
+"desc": "BAASS is the corporate vehicle through which US government money was spent on UFO research between 2008 and 2012, and it is a distinct legal entity from Bigelow Aerospace — registered at 4640 S. Eastern Avenue, Las Vegas NV 89119, DUNS 827037768, CAGE 54JU7. It was stood up to bid and hold the DIA contract, staffed substantially from the alumni of Robert Bigelow's National Institute for Discovery Science, and run day to day by Deputy Administrator Colm Kelleher, a biochemist who had led the NIDS team at Skinwalker Ranch. Its operation was built around a Las Vegas facility with SCIF space, and its work divided into a physics and engineering line — subcontracting the Defense Intelligence Reference Documents out to EarthTech International, Lockheed Martin, and a dozen universities — and a field line that investigated live cases, ran the Utah ranch as a permanently instrumented site, built a case database, and studied the physiological effects of close encounters on witnesses. In 2009 it contracted with the Mutual UFO Network for rapid-response field investigation under the Star Team Impact Project, giving a government-funded contractor a pipeline into the largest civilian UFO reporting network in the United States; the arrangement collapsed in 2010. BAASS delivered a 494-page Ten Month Report to DIA in July 2009. DoD's 2024 history refers to it only as 'the selected private sector organization' and concedes it 'conducted UFO research with the support of the DIA program manager'.",
+"domains": [
+"_rs-aawsap-dirds",
+"_rs-archive-mirror",
+"aawsap-aatip"
+],
+"dossier": {
+"claims": [
+{
+"source": "Helene Cooper, Ralph Blumenthal and Leslie Kean, 'Glowing Auras and \"Black Money\": The Pentagon's Mysterious U.F.O. Program,' The New York Times, 16 December 2017, https://www.nytimes.com/2017/12/16/us/politics/pentagon-program-ufo-harry-reid.html (lede text verified against reprint at https://paradigmresearchgroup.org/2017/12/16/glowing-auras-black-money-pentagons-mysterious-u-f-o-program/)",
+"text": "The New York Times reported on 16 December 2017 that within '$600 billion annual Defense Department budgets, the $22 million spent on the Advanced Aerospace Threat Identification Program was almost impossible to find,' and that the program was run by Luis Elizondo on the fifth floor of the Pentagon's C Ring.",
+"tier": 1
+},
+{
+"source": "https://fas.org/publication/aatip-list/",
+"text": "Steven Aftergood of the Federation of American Scientists wrote that 'from 2007 to 2012, the DIA spent $22 million' on the activity and that it was 'apparently initiated at the behest of then-Senate Majority Leader Harry Reid, with most of the funding directed to a Nevada constituent of his.'",
+"tier": 2
+},
+{
+"source": "https://fas.org/publication/aatip-list/",
+"text": "DIA released a list of 38 research titles funded by the program on 16 January 2019 under FOIA; the list, marked For Official Use Only, had previously been provided to Congress in January 2018.",
+"tier": 2
+},
+{
+"source": "https://fas.org/publication/aatip-list/",
+"text": "One of the 38 titles is 'Traversable Wormholes, Stargates, and Negative Energy,' prepared by Dr. Eric Davis.",
+"tier": 2
+},
+{
+"source": "https://thedebrief.org/defense-intelligence-agency-paid-22-million-to-chase-ufos-and-werewolves/",
+"text": "The AAWSAP solicitation stated its purpose as exploring 'potential breakthrough technology applications employed in future aerospace weapon systems.'",
+"tier": 2
+},
+{
+"source": "https://thedebrief.org/defense-intelligence-agency-paid-22-million-to-chase-ufos-and-werewolves/",
+"text": "Harry Reid told The Debrief: 'The people putting out the bid thought it would be better that it didn't say flying saucers or unidentified flying objects... we had somebody from the Defense Intelligence Agency draw out the specs of it. It covered that anyway.'",
+"tier": 2
+},
+{
+"source": "https://thedebrief.org/defense-intelligence-agency-paid-22-million-to-chase-ufos-and-werewolves/",
+"text": "Asked whether Bigelow had been pre-selected because of his relationship with Reid and his public interest in UFOs, Reid said: 'No. It was like any other government contract... He was not pre-selected.'",
+"tier": 2
+},
+{
+"source": "https://thedebrief.org/defense-intelligence-agency-paid-22-million-to-chase-ufos-and-werewolves/",
+"text": "Internal BAASS documents instructed field investigators to pose as researchers from nearby oil fields and stated that the names of 'BAASS, Robert Bigelow, Bigelow Aerospace…and most certainly [the] sponsors' identity should NEVER be released or discussed in public.' The sponsor was the Defense Intelligence Agency.",
+"tier": 2
+},
+{
+"source": "https://thedebrief.org/defense-intelligence-agency-paid-22-million-to-chase-ufos-and-werewolves/",
+"text": "BAASS funded MUFON in 2009 in a deal that included the sale of all witness reports, witness information, collected evidence, and MUFON's entire reporting database; former MUFON international director James Carrion said all 'physical evidence that needed to be analyzed went to BAASS' and that he was unaware DIA was the sponsor at the time.",
+"tier": 2
+},
+{
+"source": "https://thedebrief.org/defense-intelligence-agency-paid-22-million-to-chase-ufos-and-werewolves/",
+"text": "BAASS sought UAP data from France's GEIPAN via a former data analyst, contacted Canadian researcher Chris Rutkowski in 2009 for Canadian government cases, and sent investigators to Brazil around 2009 to collect evidence from a recent event.",
+"tier": 2
+},
+{
+"source": "https://thedebrief.org/defense-intelligence-agency-paid-22-million-to-chase-ufos-and-werewolves/",
+"text": "Skinwalker Ranch is a 512-acre property owned by Robert Bigelow until his 2016 sale to Brandon Fugal; BAASS investigated it and the surrounding Uinta Basin under the DIA-funded contract.",
+"tier": 2
+},
+{
+"source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/",
+"text": "A DIA FOIA Electronic Reading Room item is titled 'Advanced Aerospace Weapon System Applications Contract,' with a companion item 'UNCLASSIFIED//P&S Aerospace Contract Status'; secondary reporting identifies the contract as HHM402-08-C-0072 with performance beginning 22 September 2008 and a single bid received.",
+"tier": 2
+},
+{
+"source": "https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Gold.pdf",
+"text": "Michael Gold testified to House Oversight on 13 November 2024 that 'If not for the work of the Advanced Aerospace Weapon Systems Applications Program (AAWSAP), Commander [Alex] Dietrich's experience may have been lost to history.'",
+"tier": 1
+},
+{
+"source": "https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Shellenberger.pdf",
+"text": "Michael Shellenberger's written testimony states that 'From 2009 to 2017, the Pentagon had a program called Advanced Aerospace Weapon System Applications Program (AAWSAP)' and that 'AAWSAP reports ended in 2010 but ran through 2012, according to the DOD' — dates that conflict with the 2008 contract start and require reconciliation.",
+"tier": 2
+},
+{
+"source": "James T. Lacatski, Colm A. Kelleher and George Knapp, 'Skinwalkers at the Pentagon' (2021); secondary summary at https://www.mysterywire.com/ufo/skinwalkers-inside-the-pentagon/",
+"text": "Colm Kelleher served as BAASS deputy administrator running day-to-day execution of the AAWSAP contract, and DIA officer James Lacatski originated the program; this is sourced to the participants' own book and to interested-party accounts rather than to a government record.",
+"tier": 3
+}
+],
+"connections": [
+"Robert Bigelow to Harry Reid: the Senate Majority Leader who arranged the funding and the Nevada constituent who received it; Reid on the record denying pre-selection while confirming he arranged the money.",
+"James Lacatski (DIA) is the named government originator; Colm Kelleher ran BAASS execution; both later co-authored a book with journalist George Knapp, making the primary participants also the primary secondary sources — a structural sourcing problem for the whole AAWSAP record.",
+"Hal Puthoff and Eric Davis authored DIRDs and later appear across the To The Stars, AATIP and Grusch-adjacent networks; the DIRD list is the connective tissue between 2008-era DIA money and the post-2017 disclosure figures.",
+"BAASS to MUFON to DIA: a chain of custody moving civilian-collected physical evidence and witness identities into an intelligence-funded contractor without witness knowledge — the clearest documented instance of private-sector evidence capture on the board.",
+"BAASS to GEIPAN (CNES, France), to Canadian government case files via Chris Rutkowski, and to Brazil: an international collection footprint under commercial cover.",
+"AAWSAP to AATIP to Luis Elizondo to the 16 December 2017 NYT article: the sequence by which contractor-era work surfaced publicly.",
+"Skinwalker Ranch to Brandon Fugal (2016 purchase) and thence to commercial television; the site's evidentiary record is now controlled by a private owner.",
+"Alex Dietrich's Nimitz encounter enters the record via AAWSAP, per Michael Gold's 2024 congressional testimony — linking BAASS directly to the 2004 Nimitz case and the 2017 videos."
+],
+"denialPosture": "The Pentagon told The Debrief that DIA was not investigating UFOs, a position The Debrief noted is contradicted by the documentary record; the confusion is traceable to a solicitation that, by Harry Reid's own account, was deliberately written to omit the words UFO and UAP. Reid separately denied that Bigelow was pre-selected for the contract.",
+"narrative": "The BAASS story begins with money and a Senate Majority Leader. In 2008 the Defense Intelligence Agency issued a solicitation for the Advanced Aerospace Weapon System Applications Program, whose stated purpose was to explore 'potential breakthrough technology applications employed in future aerospace weapon systems.' Harry Reid of Nevada has said publicly that he was behind the funding, and has explained the wording directly: 'The people putting out the bid thought it would be better that it didn't say flying saucers or unidentified flying objects. It was thought by many that it would just draw too much attention, and by it being phrased the way it was, we had somebody from the Defense Intelligence Agency draw out the specs of it. It covered that anyway.' Reid also stated flatly that Bigelow 'was not pre-selected' and that the award followed a competitive bid. The record shows the solicitation produced a single bidder, and the winner was a Nevada constituent of the senator who arranged the money. Steven Aftergood, writing for the Federation of American Scientists in January 2019, put it in a sentence: the program was 'apparently initiated at the behest of then-Senate Majority Leader Harry Reid, with most of the funding directed to a Nevada constituent of his.'\n\nWhat BAASS actually did splits into three streams, and the split matters for the board. The first is the technical literature. BAASS assembled a network of outside scientists — most prominently Hal Puthoff and Eric Davis — who produced 38 papers that DIA designated Defense Intelligence Reference Documents. DIA sent the title list to Senate Armed Services chairman John McCain and ranking member Jack Reed in January 2018, marked For Official Use Only, and released it publicly under FOIA on 16 January 2019. The titles include 'Traversable Wormholes, Stargates, and Negative Energy' and papers on metamaterials, programmable matter, high-power microwave technology, metallic glasses and biological effects. Aftergood's summary is worth quoting because it is the government's own science-integrity problem stated plainly: many of the titles are 'highly conjectural and well beyond the boundaries of current science, engineering — or military intelligence.' For the board's purposes, the DIRD list is not evidence that any of this works. It is evidence of what an intelligence agency thought it needed to understand, and therefore of what it believed it might be looking at.\n\nThe second stream is field investigation. BAASS sent investigators to Utah's Uinta Basin and to Skinwalker Ranch — 512 acres owned by Bigelow personally until he sold it to Brandon Fugal in 2016. Internal BAASS documents obtained by The Debrief instructed investigators to pose as researchers from the local oil fields and never to reveal the names of 'BAASS, Robert Bigelow, Bigelow Aerospace…and most certainly [the] sponsors' identity should NEVER be released or discussed in public.' The ultimate sponsor was the DIA. The same documents record interviews about a bipedal 'dog-like creature' over six feet tall smelling of sulfur, 'little people' three to four feet tall, and a ghostly figure on a mesa. A progress report obtained separately by Tim McMillan indicated BAASS was attempting to establish communication with a non-human entity it believed occupied the ranch. A former team member told The Debrief that the actual job was to collect anything anomalous and work out 'how it could lead to new technology,' and that data quality was compromised because some ranch guards embellished incidents in hopes of a bonus.\n\nThe third stream, and the most under-analysed, is data and evidence acquisition. In 2009 BAASS funded the Mutual UFO Network and bought its entire reporting database — witness reports, witness identifying information, and collected evidence. James Carrion, MUFON's international director at the time, told The Debrief that all 'physical evidence that needed to be analyzed went to BAASS,' that he does not know whether any of it was returned, and that he himself did not know DIA was the sponsor when MUFON entered the agreement. Members of the public filing reports agreed only that their information might go to an unnamed 'third party.' BAASS also sought data from France's GEIPAN, approached Canadian researcher Chris Rutkowski for Canadian government cases, and sent a team to Brazil in 2009 to collect evidence from a recent event. That is a private contractor, funded by a US intelligence agency, systematically vacuuming up the international civilian UAP evidentiary base under a cover identity.\n\nDIA declined to renew in 2010 and the investigative team was disbanded; a former employee described being told by phone that they no longer had a job. Some analysts held Secret clearances and were reportedly in the process of upgrading to Top Secret when terminated. What happened next is the pivot into AATIP under Luis Elizondo, and thence into the 2017 New York Times story. Elizondo has said he was not involved with BAASS but knew the individuals, and that they 'decided to cast a very wide net.' Michael Gold, testifying to House Oversight on 13 November 2024, gave AAWSAP a retrospective defence that is also a concession about how thin the official record is: 'If not for the work of the Advanced Aerospace Weapon Systems Applications Program (AAWSAP), Commander Dietrich's experience may have been lost to history.'\n\nWhat the record does not establish: it does not show BAASS handling recovered non-human material, and no DIRD is a reverse-engineering report on a specific artefact. It does not resolve whether AAWSAP and AATIP were the same program under two names — the DoD has given conflicting accounts. And it does not account for what became of the MUFON physical evidence.",
+"openQuestions": [
+"Was $22 million the contract ceiling, the obligated amount, or the expended amount, and how much of the field-investigation work was funded from Bigelow's personal wealth rather than appropriated money?",
+"What happened to the physical evidence transferred from MUFON to BAASS, and does any of it remain in private custody?",
+"Did BAASS retain copies of the 38 DIRDs and the collected international case data after the contract lapsed in 2010, and were those holdings ever inventoried for the NARA UAP Records Collection?",
+"Who else was on the AAWSAP distribution list, and which offices outside DIA received the DIRDs?",
+"Are AAWSAP and AATIP the same program under two names, sequential programs, or a program and a successor counterintelligence portfolio? DoD has given inconsistent accounts.",
+"Where did BAASS-cleared analysts go after the late-2010 terminations, and did any move to successor programs or to contractors named elsewhere on this board?"
+],
+"roles": [
+"research",
+"reverse-engineering",
+"funding",
+"custody",
+"concealment"
+],
+"whatItIs": "Bigelow Aerospace Advanced Space Studies (BAASS) was the Las Vegas company, an arm of Robert Bigelow's aerospace operation, that held the Defense Intelligence Agency's Advanced Aerospace Weapon System Applications Program (AAWSAP) contract beginning in 2008. It staffed physicists, intelligence veterans and field investigators, produced the 38 technical papers that DIA later designated Defense Intelligence Reference Documents, and ran field investigations at Skinwalker Ranch and elsewhere. Funding is generally reported at $22 million across 2007-2012, with the DIA declining to renew in 2010.",
+"whyImplicated": "BAASS is the single best-documented instance of the US government routing intelligence money to a private aerospace contractor to study UAP and 'breakthrough technology applications employed in future aerospace weapon systems.' It is the exact structural shape the legacy-program hypothesis predicts: an intelligence agency sponsor, a cleared contractor with its own facilities in Nevada, cover stories for field investigators, and an explicit internal instruction that the sponsor's identity 'should NEVER be released or discussed in public.' Its deliverables are the government's own reverse-engineering reading list — warp metrics, traversable wormholes, metamaterials, invisibility cloaking. It also acquired custody of civilian-collected physical evidence by buying MUFON's case database, moving material from a public non-profit into a DIA-funded contractor without the reporting witnesses knowing who the ultimate sponsor was. Finally, the solicitation was written, by the sponsoring senator's own account, specifically to avoid the words UFO or UAP."
+},
+"entityInfo": {
+"desc": null,
+"sources": []
+},
+"era": "2",
+"foia": {
+"questions": [
+0,
+2,
+3,
+5
+],
+"requests": [
+{
+"agency": "DIA",
+"partial": [],
+"questions": [
+0,
+2
+],
+"request": "F2",
+"sendTo": "Defense Intelligence Agency, FOIA Office (DAN-1A), 7400 Defense Pentagon, Washington DC 20301-7400.",
+"status": "not filed",
+"title": "DIA - the AAWSAP closeout property inventory and obligation history"
+},
+{
+"agency": "DIA",
+"partial": [],
+"questions": [
+3
+],
+"request": "F7",
+"sendTo": "Defense Intelligence Agency, FOIA Office (DAN-1A).",
+"status": "not filed",
+"title": "DIA - the 38th DIRD, the tasking memorandum and the distribution list"
+},
+{
+"agency": "DIA",
+"partial": [],
+"questions": [
+2,
+5
+],
+"request": "F9",
+"sendTo": "Defense Intelligence Agency, FOIA Office (DAN-1A).",
+"status": "not filed",
+"title": "DIA - the BAASS Ten Month Report and the Comprehensive Integrated Threat Assessment"
+}
+]
+},
+"hl": null,
+"id": "baass",
+"l0": true,
+"label": "Bigelow Aerospace Advanced Space Studies (BAASS), LLC",
+"locLabel": null,
+"members": [
+{
+"cls": "document",
+"id": "aawsap-contract",
+"label": "DIA Contract HHM402-08-C-0072 (BAASS)",
+"tier": "A"
+},
+{
+"cls": "document",
+"id": "aawsap-solicitation",
+"label": "DIA Solicitation HHM402-08-R-0211",
+"tier": "B"
+},
+{
+"cls": "document",
+"id": "baass-ten-month-report",
+"label": "BAASS Ten Month Report (2009)",
+"tier": "B"
+},
+{
+"cls": "institution",
+"id": "bigelow-aerospace",
+"label": "Bigelow Aerospace",
+"tier": "A"
+},
+{
+"cls": "person",
+"id": "colm-kelleher",
+"label": "Colm A. Kelleher",
+"tier": "A"
+},
+{
+"cls": "domain",
+"id": "d-contracting",
+"label": "Federal Contracting Mechanics",
+"tier": "B"
+},
+{
+"cls": "document",
+"id": "dird-maverick-inventor-versus-corporate-inventor-where",
+"label": "Maverick Inventor Versus Corporate Inventor: Where Will the Next Major Innovations Arise?",
+"tier": "B"
+},
+{
+"cls": "document",
+"id": "dird-negative-mass-propulsion",
+"label": "Negative Mass Propulsion",
+"tier": "B"
+},
+{
+"cls": "document",
+"id": "dird-positron-aerospace-propulsion",
+"label": "Positron Aerospace Propulsion",
+"tier": "B"
+},
+{
+"cls": "person",
+"id": "eric-burlison",
+"label": "Eric Burlison",
+"tier": "A"
+},
+{
+"cls": "location",
+"id": "l-las-vegas",
+"label": "Las Vegas, Nevada",
+"tier": "C"
+},
+{
+"cls": "location",
+"id": "l-lasvegas",
+"label": "Las Vegas, Nevada (alias of l-las-vegas)",
+"tier": "C"
+},
+{
+"cls": "program",
+"id": "mufon-sip",
+"label": "BAASS–MUFON Star Team Impact Project (SIP)",
+"tier": "C"
+},
+{
+"cls": "person",
+"id": "robert-bigelow",
+"label": "Robert T. Bigelow",
+"tier": "A"
+},
+{
+"cls": "person",
+"id": "william-culbreth",
+"label": "William Culbreth",
+"tier": "B"
+}
+],
+"short": "Bigelow Aerospace (BAASS)",
+"sources": [
+{
+"date": "2009-09-02",
+"name": "Amendment of Solicitation/Modification of Contract P00001 to HHM402-08-C-0072, Bigelow Aerospace Advanced Space Studies LLC (DIA FOIA release)",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237652/"
+},
+{
+"date": "2009",
+"name": "DIA briefing 'Aerospace Contract Status — Performance by Bigelow Aerospace Advanced Space Studies (BAASS)' (DIA FOIA release)",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237642/"
+},
+{
+"date": "2008-12-16",
+"name": "DIA briefing 'Advanced Aerospace Weapon System Applications Contract Status', Contract HHM402-08-C-0072, 16 Dec 2008 (DIA FOIA release)",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237613/"
+},
+{
+"date": "2009-01-02",
+"name": "DIA Talking Paper U-326-09, 'Senator Reid Visit', 02 Jan 2009 (DIA FOIA release)",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237615/"
+},
+{
+"date": "2010",
+"name": "DIA Info Memo U-10-2552 to USD(AT&L), 'Advanced Aerospace Threat and Identification Program' (DIA FOIA release)",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237626/"
+},
+{
+"date": "2009-10-30",
+"name": "DIA Info Memo U-429-09, 'Review of Advanced Aerospace Contract Deliverables', 30 Oct 2009, w/ Enclosure 1 list of 26 FY2009 technical reports (DIA FOIA release)",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237617/"
+},
+{
+"date": "2025-05-15",
+"name": "Archived: Amendment of Solicitation/Modification of Contract P00001 to HHM402-08-C-0072, Bigelow Aerospace Advanced Space Studies LLC (DIA FOIA release) (Wayback 2025-05-15)",
+"url": "https://web.archive.org/web/20250515030045/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170017/"
+},
+{
+"date": "2025-03-11",
+"name": "Archived: DIA briefing 'Aerospace Contract Status — Performance by Bigelow Aerospace Advanced Space Studies (BAASS)' (DIA FOIA release) (Wayback 2025-03-11)",
+"url": "https://web.archive.org/web/20250311131233/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170019/"
+},
+{
+"date": "2025-03-12",
+"name": "Archived: DIA briefing 'Advanced Aerospace Weapon System Applications Contract Status', Contract HHM402-08-C-0072, 16 Dec 2008 (DIA FOIA release) (Wayback 2025-03-12)",
+"url": "https://web.archive.org/web/20250312054405/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170051/"
+},
+{
+"date": "2025-03-09",
+"name": "Archived: DIA Talking Paper U-326-09, 'Senator Reid Visit', 02 Jan 2009 (DIA FOIA release) (Wayback 2025-03-09)",
+"url": "https://web.archive.org/web/20250309023844/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170054/"
+},
+{
+"date": "2025-03-17",
+"name": "Archived: DIA Info Memo U-10-2552 to USD(AT&L), 'Advanced Aerospace Threat and Identification Program' (DIA FOIA release) (Wayback 2025-03-17)",
+"url": "https://web.archive.org/web/20250317081516/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170059/"
+},
+{
+"date": "2025-05-16",
+"name": "Archived: DIA Info Memo U-429-09, 'Review of Advanced Aerospace Contract Deliverables', 30 Oct 2009, w/ Enclosure 1 list of 26 FY2009 technical reports (DIA FOIA release) (Wayback 2025-05-16)",
+"url": "https://web.archive.org/web/20250516033517/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170060/"
+},
+{
+"date": "2026-07-05",
+"name": "Archived: AARO Historical Record Report Volume 1 (Wayback 2026-07-05)",
+"url": "https://web.archive.org/web/20260705034310/https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF"
+},
+{
+"date": "2022-10-13",
+"name": "DIA AAWSAP contract (FOIA-00349-2018)",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP/FOIA-00349-2018.pdf"
+},
+{
+"date": "2024-03-08",
+"name": "AARO Historical Record Report Volume 1",
+"url": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF"
+},
+{
+"date": "2023-05-25",
+"name": "The Debrief — Colm Kelleher: AAWSAP and the Skinwalker Enigma",
+"url": "https://thedebrief.org/colm-kelleher-aawsap-and-the-skinwalker-enigma/"
+},
+{
+"date": "2011-03-01",
+"name": "The UFO Chronicles — What Caused the Failure of the BAASS-MUFON SIP Program?",
+"url": "https://www.theufochronicles.com/2011/03/what-caused-failure-of-baass-mufon-sip.html"
+},
+{
+"date": null,
+"name": "dia.mil",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237616/"
+},
+{
+"date": null,
+"name": "dia.mil",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237611/"
+}
+],
+"sub": "contractor",
+"tier": "A",
+"tierRationale": "Re-graded A on a global pass (rank 18 of 1027, score 113). 21 connections, 11 of them custody/witness/funding/programmatic. Axes C3/A2/D2.",
+"timeline": []
+}

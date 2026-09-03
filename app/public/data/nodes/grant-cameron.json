@@ -1,0 +1,111 @@
+{
+"A": 0,
+"C": 0,
+"D": 2,
+"affiliations": [
+"presidentialufo.com",
+"Whitehouse UFO / presidential-briefing research programme"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "1975",
+"event": "Begins UFO research with the 'Charlie Red Star' sighting wave at Carman, Manitoba",
+"precision": "year"
+},
+{
+"date": "1990s",
+"event": "Builds the presidentialufo.com archive from FOIA requests to presidential libraries and executive agencies",
+"precision": "ranged"
+}
+],
+"claims": [
+{
+"source": "presidentialufo.com holdings and Cameron's own statements of method",
+"text": "Cameron's presidential-briefing research is built from FOIA requests to presidential libraries and executive agencies rather than from witness testimony, and he publishes null returns alongside positive ones.",
+"tier": 2
+},
+{
+"source": "Inference from the structure of presidential records law",
+"text": "Cameron's archive is the most directly relevant body of research to the question of whether presidents have been read in, because a presidential library FOIA null return is itself a datum with a docket number, whereas a witness denial is not. Reasoning: the executive-branch record is one of very few parts of this domain with a mandatory logging regime.",
+"tier": 3
+}
+],
+"cls": "person",
+"cluster": "research",
+"conflicts": [
+"Cameron's later work advances consciousness- and contact-based interpretations that are not testable and are treated separately from his documentary research."
+],
+"connections": [
+{
+"claimTier": 3,
+"cls": "person",
+"dateEnd": "2026",
+"dateStart": "2003",
+"direction": "out",
+"edgeLabel": "Two FOIA-first approaches to the same concealment question",
+"id": "leslie-kean",
+"l0": false,
+"label": "Leslie Kean",
+"note": "Cameron requests presidential and agency paper and publishes null returns; Kean litigated a null return to a judicial finding of inadequate search. Reasoning: both treat the absence of records as the evidentiary object rather than as an obstacle.",
+"sources": [
+{
+"date": "2007-03-27",
+"name": "Memorandum Opinion, Kean v. NASA, 27 March 2007",
+"url": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.106063/gov.uscourts.dcd.106063.45.0.pdf"
+}
+],
+"tier": "B",
+"type": "research"
+}
+],
+"date": "1990s",
+"dateEnd": null,
+"dateStart": "1990s",
+"deg": 1,
+"denials": [],
+"domains": [
+"w2-retrieval-literature"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "1",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "grant-cameron",
+"instId": null,
+"l0": false,
+"label": "Grant Cameron",
+"loc": "Winnipeg, Manitoba",
+"locId": null,
+"members": null,
+"narrative": "Grant Cameron works the narrowest and most institutionally checkable question in the field: what have presidents been told, when, and by whom. Beginning from the 1975 Charlie Red Star sightings in Carman, Manitoba, he shifted in the 1980s to documentary research on the executive branch, filing FOIA requests with presidential libraries and the White House and assembling the presidentialufo.com archive of correspondence, memoranda and staff records touching UFOs from Truman onwards. His long-running work on the Clinton administration - the Rockefeller Initiative, Webster Hubbell's memoir statement that Clinton asked him to find out about UFOs, and John Podesta's role - is the strand that connects most directly to the modern disclosure fight, since Podesta went on to chair the Sci Fi Channel's Coalition for Freedom of Information and to press for NASA and Air Force record releases. Cameron's method is the opposite of the witness-driven literature: he requests paper from institutions that have to log the request, and publishes what comes back including the null returns. That makes his output unusually gradeable, and it is why he sits on this board despite advancing interpretive claims about consciousness and contact that are not gradeable at all.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Grant Cameron",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "presidentialufo.com",
+"url": "https://www.presidentialufo.com/"
+},
+{
+"date": "2013-03-09",
+"name": "HuffPost -- 'Grant Cameron's Research On UFOs and U.S. Presidents Gets Recognized By International UFO Congress'. Independently describes the method: 'Using the Freedom of Information Act to obtain documents and information, and traveling to many presidential libraries, Cameron became focused on the relationship of American presidents and UFOs.'",
+"url": "https://www.huffpost.com/entry/grant-cameron-ufos-us-presidents_n_2838065"
+}
+],
+"status": "active",
+"sub": "Canadian researcher; presidential UFO briefings; presidentialufo.com",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 1009 of 1027, score 8). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D2.",
+"timeline": [],
+"unexplainedResidual": null,
+"unverified": [
+"Cameron's date of birth; the total volume of his FOIA holdings."
+]
+}

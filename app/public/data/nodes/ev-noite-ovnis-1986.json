@@ -1,0 +1,458 @@
+{
+"A": 2,
+"C": 1,
+"D": 3,
+"band": "research",
+"claims": [
+{
+"source": "André Bernardo, BBC Brasil, 'A noite em que 21 óvnis invadiram o espaço aéreo brasileiro e foram perseguidos por caças da FAB', published 14 January 2022, republished 17 May 2026 (https://www.opovo.com.br/agencia/bbc/2026/05/17/amp/a-noite-em-que-21-ovnis-invadiram-o-espaco-aereo-brasileiro-e-foram-perseguidos-por-cacas-da-fab.html)",
+"text": "Ministerial press conference record: on 23 May 1986 at 16h30 the Minister of Aeronautics, Brigadeiro Octávio Júlio Moreira Lima (1926-2011), convened the press to state that five FAB fighters had pursued 21 UFOs. His words as reported: 'Não se trata de acreditar ou não [em seres extraterrestres ou em discos voadores]. Só podemos dar informações técnicas. As suposições são várias. Tecnicamente, diria aos senhores que não temos explicação.' The five FAB pilots and the on-duty flight controllers attended.",
+"tier": 2
+},
+{
+"source": "André Bernardo, BBC Brasil, 14 January 2022 / 17 May 2026",
+"text": "The 23-year delay: at the close of the 23 May 1986 press conference the Minister undertook to publish a complete dossier 'dentro de 30 dias'. The report - signed by the interim Comando da Aeronáutica (COMDA) commander José Pessoa Cavalcanti de Albuquerque and dated 2 June 1986 - was released only on 25 September 2009, 23 years later.",
+"tier": 2
+},
+{
+"source": "André Bernardo, BBC Brasil, 14 January 2022 / 17 May 2026. NOTE: prefix FAB-4913 for the Viriato Mirage and the 22h48 (not 22h50) departure time differ in detail from earlier board entries; Tier 1 confirmation requires the Relatório de Ocorrências itself in SIAN, which could not be machine-retrieved.",
+"text": "Full scramble order of battle, pilots, aircraft prefixes and bases: (1) F-5, prefix FAB-4848, Tenente Kleber Caldas Marinho, 22h34, from Base Aérea de Santa Cruz (RJ); (2) Mirage F-103, prefix 4913, Capitão Armindo Sousa Viriato de Freitas, 22h48, from Base Aérea de Anápolis (GO); (3) F-5, prefix FAB-4849, Capitão Márcio Brisolla Jordão, 22h50, from Santa Cruz (RJ); (4) Mirage, prefix FAB-4918, Capitão Rodolfo Silva e Souza, 23h17, Anápolis; (5) Mirage, prefix FAB-4917, Capitão Júlio Cézar Rozemberg, 23h46, Anápolis. The last two had no visual or radar contact. All three initial aircraft were given the same tasking: 'interceptação não agressiva'.",
+"tier": 2
+},
+{
+"source": "André Bernardo, BBC Brasil, 14 January 2022 / 17 May 2026",
+"text": "Civil-aviation corroboration on the night: at 21h04 the São José dos Campos controller Sargento Sérgio Mota da Silva contacted the twin-engine Xingu, prefix PT-MBZ, returning from Brasília, carrying Coronel Ozires Silva (who took office as president of Petrobras the following day) and copilot Alcir Pereira da Silva. Sightings were also reported by a TAM Bandeirante on the Londrina-São Paulo route and a Transbrasil aircraft over Araxá (MG).",
+"tier": 2
+},
+{
+"source": "Senado Federal, RQS 193/2022, justificação; Diário do Senado Federal nº 32 de 2022; approved 24/06/2022",
+"text": "The 1986 event is named and characterised in a Senate document approved by the Plenary on 24 June 2022: 'em 1986, quando ocorreu a hoje conhecida como \"Noite Oficial dos UFOs no Brasil\", quando 21 OVNIs esféricos de 100 metros de diâmetro cada foram perseguidos durante horas por nossos caças a jato.' This attests the legislative record of the event, not the physical claims within it.",
+"tier": 1
+},
+{
+"source": "Comando Aéreo de Defesa Aérea, Relatório de Ocorrências, 2 June 1986, Arquivo Nacional BR_DFANBSB_ARX_0_0_0249",
+"text": "The Air Defence Command's report records the interceptor sequence with Zulu timings, the 13 plots astern of the second Santa Cruz F-5, and the abandonment of pursuits at bingo fuel and on loss of contact.",
+"tier": 1
+},
+{
+"source": "Relatório de Ocorrências, 2 June 1986, Considerações Iniciais",
+"text": "The report records the technical limitation that Brazilian coverage rested on radars 'cuja finalidade primária é destinado ao controle de tráfego aéreo, não sendo portanto, específico para emprego em Defesa Aérea', making surveillance deficient.",
+"tier": 1
+},
+{
+"source": "André Bernardo, BBC Brasil, 14 January 2022",
+"text": "Pilot and aircraft identifications: Lt Kleber Caldas Marinho (F-5, FAB-4848, 22:34 from Santa Cruz); Capt Márcio Brisolla Jordão (F-5, FAB-4849, 22:50); Capt Armindo Sousa Viriato de Freitas (Mirage, Anápolis); Capt Rodolfo Silva e Souza (FAB-4918, 23:17); Capt Júlio Cézar Rozemberg (FAB-4917, 23:46).",
+"tier": 2
+},
+{
+"source": "BBC Brasil, 14 January 2022, quoting the 1993 Globo Repórter interview",
+"text": "Captain Viriato, TV Globo 'Globo Repórter' interview, 1993, on the object that accelerated away from his Mirage at Mach 1.3: 'Se existe avião que possa desenvolver essa velocidade, eu desconheço.'",
+"tier": 2
+},
+{
+"source": "BBC Brasil, 14 January 2022, interview with Adenir Britto",
+"text": "A month after the event two officers of the Aerospace Technical Centre (CTA), accompanied by the American researcher James J. Hurtak, collected the photographic negatives taken by press photographer Adenir Britto from the newspaper Vale Paraibano, saying they would be analysed by NASA; they were never returned.",
+"tier": 2
+}
+],
+"cls": "event",
+"cluster": "other",
+"connections": [
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "2009-09-25",
+"dateStart": "1986-06-02",
+"direction": "in",
+"edgeLabel": "the official record of the night",
+"id": "doc-fab-1986-report",
+"l0": false,
+"label": "Relatório de Ocorrências, Comando Aéreo de Defesa Aérea, 2 June 1986 (Arquivo Nacional BR_DFANBSB_ARX_0_0_0249)",
+"note": "Its Considerações Finais record solid radar-and-visual objects that outran supersonic interceptors and 'reflect in a certain manner intelligence'.",
+"sources": [
+{
+"date": "1986-06-02",
+"name": "Arquivo Nacional PDF",
+"url": "http://imagem.sian.an.gov.br/acervo/derivadas/BR_DFANBSB_ARX/0/0/0249/BR_DFANBSB_ARX_0_0_0249_d0001de0001.pdf"
+}
+],
+"tier": "B",
+"type": "programmatic"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "1986-05-19",
+"dateStart": "1986-05-19",
+"direction": "in",
+"edgeLabel": "The Air Force scrambled the interceptors on the Night of the UFOs",
+"id": "fab",
+"l0": true,
+"label": "Força Aérea Brasileira / Ministério da Aeronáutica",
+"note": "The 19 May 1986 engagement was executed by the FAB: fighters launched from Santa Cruz and Anápolis against radar plots held by the CINDACTA network. RQS 193/2022 describes it in the Senate's own words as the night 'quando 21 OVNIs esféricos de 100 metros de diâmetro cada foram perseguidos durante horas por nossos caças a jato'. The event node previously connected only to the minister and to the report, not to the service that flew the sorties. [CORRECTED 14 Aug 2026: RQS 193/2022 is a request for a COMMEMORATIVE SPECIAL SESSION under Art. 199 RISF, approved 16 Mar 2022, held 24 Jun 2022 - not a records-seeking or compelling instrument. Its durable value is the content of its justificacao, which names Operacao Prato, the 1986 night, SIOANI and the archive reference BR DFANBSB ARX. These edges assert what the document NAMES, which is verifiable in its text and unaffected by its procedural nature, so the tier is unchanged. Any claim that the instrument COMPELLED disclosure would be false.]",
+"sources": [
+{
+"date": null,
+"name": "Senado Federal (Brasil), Requerimento nº 193, de 2022 (RQS 193/2022), autoria do Senador Eduardo Girão (PODEMOS/CE) com Eliziane Gama, Alessandro Vieira, Izalci Lucas, Jorge Kajuru, Marcos do Val, Paulo Rocha e Reguffe — sessão especial para os 75 anos do Dia Mundial da Ufologia — https://legis.senado.leg.br/sdleg-getter/documento?dm=9089831&ts=1647523438292&disposition=inline",
+"url": ""
+},
+{
+"date": null,
+"name": "Correio Braziliense, 'A noite em que 21 óvnis invadiram o espaço aéreo brasileiro e foram perseguidos por caças da FAB' — https://www.correiobraziliense.com.br/mundo/2026/05/7421517-a-noite-em-que-21-ovnis-invadiram-o-espaco-aereo-brasileiro-e-foram-perseguidos-por-cacas-da-fab.html",
+"url": ""
+},
+{
+"date": "2026-08-23",
+"name": "Senado Federal, Dados Abertos — official record of RQS 193/2022 (Código 152222): ementa 'Sessão especial destinada a comemorar os 75 anos do Dia Mundial da Ufologia', 16 March 2022, Sen. Eduardo Girão and seven co-signers",
+"url": "https://legis.senado.leg.br/dadosabertos/materia/pesquisa/lista?sigla=RQS&numero=193&ano=2022"
+},
+{
+"date": "1986-06-02",
+"name": "Relatório de Ocorrências (Arquivo Nacional PDF)",
+"url": "http://imagem.sian.an.gov.br/acervo/derivadas/BR_DFANBSB_ARX/0/0/0249/BR_DFANBSB_ARX_0_0_0249_d0001de0001.pdf"
+}
+],
+"tier": "A",
+"type": "programmatic"
+},
+{
+"claimTier": 1,
+"cls": "location",
+"dateEnd": "1986-05-19",
+"dateStart": "1986-05-19",
+"direction": "in",
+"edgeLabel": "The 1986 engagement ranged across four Brazilian states",
+"id": "l-brazil",
+"l0": false,
+"label": "Brazil",
+"note": "São Paulo, Rio de Janeiro, Minas Gerais and Goiás. A national-scale event, which is why it reads as a state posture rather than a local incident. [CORRECTED 14 Aug 2026: RQS 193/2022 is a request for a COMMEMORATIVE SPECIAL SESSION under Art. 199 RISF, approved 16 Mar 2022, held 24 Jun 2022 - not a records-seeking or compelling instrument. Its durable value is the content of its justificacao, which names Operacao Prato, the 1986 night, SIOANI and the archive reference BR DFANBSB ARX. These edges assert what the document NAMES, which is verifiable in its text and unaffected by its procedural nature, so the tier is unchanged. Any claim that the instrument COMPELLED disclosure would be false.]",
+"sources": [
+{
+"date": null,
+"name": "Correio Braziliense, 'A noite em que 21 óvnis invadiram o espaço aéreo brasileiro e foram perseguidos por caças da FAB' — https://www.correiobraziliense.com.br/mundo/2026/05/7421517-a-noite-em-que-21-ovnis-invadiram-o-espaco-aereo-brasileiro-e-foram-perseguidos-por-cacas-da-fab.html",
+"url": ""
+},
+{
+"date": null,
+"name": "Senado Federal (Brasil), Requerimento nº 193, de 2022 (RQS 193/2022), autoria do Senador Eduardo Girão (PODEMOS/CE) com Eliziane Gama, Alessandro Vieira, Izalci Lucas, Jorge Kajuru, Marcos do Val, Paulo Rocha e Reguffe — sessão especial para os 75 anos do Dia Mundial da Ufologia — https://legis.senado.leg.br/sdleg-getter/documento?dm=9089831&ts=1647523438292&disposition=inline",
+"url": ""
+},
+{
+"date": "2026-08-23",
+"name": "Senado Federal, Dados Abertos — official record of RQS 193/2022 (Código 152222): ementa 'Sessão especial destinada a comemorar os 75 anos do Dia Mundial da Ufologia', 16 March 2022, Sen. Eduardo Girão and seven co-signers",
+"url": "https://legis.senado.leg.br/dadosabertos/materia/pesquisa/lista?sigla=RQS&numero=193&ano=2022"
+},
+{
+"date": "1986-06-02",
+"name": "Relatório de Ocorrências (Arquivo Nacional PDF)",
+"url": "http://imagem.sian.an.gov.br/acervo/derivadas/BR_DFANBSB_ARX/0/0/0249/BR_DFANBSB_ARX_0_0_0249_d0001de0001.pdf"
+}
+],
+"tier": "C",
+"type": "geographic"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "1986-05-23",
+"dateStart": "1986-05-23",
+"direction": "in",
+"edgeLabel": "held the 23 May 1986 press conference stating the Air Force had no explanation",
+"id": "otavio-moreira-lima",
+"l0": false,
+"label": "Brigadeiro Octávio Júlio Moreira Lima",
+"note": "The minister produced the five pilots and the controllers in person and promised a full dossier within 30 days that never appeared.",
+"sources": [
+{
+"date": "2022-01-14",
+"name": "BBC Brasil",
+"url": "https://www.bbc.com/portuguese/brasil-59953278"
+}
+],
+"tier": "B",
+"type": "denial"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "1986-06-02",
+"dateStart": "1986-05-19",
+"direction": "in",
+"edgeLabel": "Commanded the air defence organisation whose engagement he then wrote up",
+"id": "pessoa-cavalcanti",
+"l0": false,
+"label": "Brigadeiro do Ar José Pessoa Cavalcanti de Albuquerque",
+"note": "The 19 May 1986 intercepts were run through the Air Defence Command; Pessoa Cavalcanti, as its acting commander, signed the command's own occurrence report on them fourteen days later. He is the officer who converted the night into a document.",
+"sources": [
+{
+"date": null,
+"name": "Arquivo Nacional, Fundo Objeto Voador Não Identificado – OVNI, reference BR DFANBSB ARX; the 1986 Air Defence Command report carries the item reference BR_DFANBSB_ARX_0_0_0249 (board node doc-fab-1986-report)",
+"url": ""
+},
+{
+"date": null,
+"name": "Correio Braziliense, 'A noite em que 21 óvnis invadiram o espaço aéreo brasileiro e foram perseguidos por caças da FAB' — https://www.correiobraziliense.com.br/mundo/2026/05/7421517-a-noite-em-que-21-ovnis-invadiram-o-espaco-aereo-brasileiro-e-foram-perseguidos-por-cacas-da-fab.html",
+"url": ""
+},
+{
+"date": "1986-06-02",
+"name": "Relatório de Ocorrências (Arquivo Nacional PDF)",
+"url": "http://imagem.sian.an.gov.br/acervo/derivadas/BR_DFANBSB_ARX/0/0/0249/BR_DFANBSB_ARX_0_0_0249_d0001de0001.pdf"
+}
+],
+"tier": "B",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "2022-06-24",
+"dateStart": "2022-03",
+"direction": "in",
+"edgeLabel": "The 1986 night is named in the Senate instrument that produced the 2022 special session",
+"id": "senado-brasil",
+"l0": true,
+"label": "Senado Federal do Brasil",
+"note": "RQS 193/2022 names the event: 'em 1986, quando ocorreu a hoje conhecida como \"Noite Oficial dos UFOs no Brasil\", quando 21 OVNIs esféricos de 100 metros de diâmetro cada foram perseguidos durante horas por nossos caças a jato.' The special session was held on 24 June 2022. [CORRECTED 14 Aug 2026: RQS 193/2022 is a request for a COMMEMORATIVE SPECIAL SESSION under Art. 199 RISF, approved 16 Mar 2022, held 24 Jun 2022 - not a records-seeking or compelling instrument. Its durable value is the content of its justificacao, which names Operacao Prato, the 1986 night, SIOANI and the archive reference BR DFANBSB ARX. These edges assert what the document NAMES, which is verifiable in its text and unaffected by its procedural nature, so the tier is unchanged. Any claim that the instrument COMPELLED disclosure would be false.]",
+"sources": [
+{
+"date": null,
+"name": "Senado Federal (Brasil), Requerimento nº 193, de 2022 (RQS 193/2022), autoria do Senador Eduardo Girão (PODEMOS/CE) com Eliziane Gama, Alessandro Vieira, Izalci Lucas, Jorge Kajuru, Marcos do Val, Paulo Rocha e Reguffe — sessão especial para os 75 anos do Dia Mundial da Ufologia — https://legis.senado.leg.br/sdleg-getter/documento?dm=9089831&ts=1647523438292&disposition=inline",
+"url": ""
+},
+{
+"date": null,
+"name": "Senado Federal, Notas Taquigráficas da sessão especial de 24/06/2022 — https://legis.senado.leg.br/escriba-servicosweb/sessao/pdf/25017",
+"url": ""
+},
+{
+"date": "2026-08-23",
+"name": "Senado Federal, Dados Abertos — official record of RQS 193/2022 (Código 152222): ementa 'Sessão especial destinada a comemorar os 75 anos do Dia Mundial da Ufologia', 16 March 2022, Sen. Eduardo Girão and seven co-signers",
+"url": "https://legis.senado.leg.br/dadosabertos/materia/pesquisa/lista?sigla=RQS&numero=193&ano=2022"
+},
+{
+"date": "1986-06-02",
+"name": "Relatório de Ocorrências (Arquivo Nacional PDF)",
+"url": "http://imagem.sian.an.gov.br/acervo/derivadas/BR_DFANBSB_ARX/0/0/0249/BR_DFANBSB_ARX_0_0_0249_d0001de0001.pdf"
+},
+{
+"date": "2026-08-12",
+"name": "Senado Federal - Dados Abertos, list of senators in exercise (official open-data service, 81 members)",
+"url": "https://legis.senado.leg.br/dadosabertos/senador/lista/atual"
+}
+],
+"tier": "C",
+"type": "legislative"
+}
+],
+"coords": null,
+"dateEnd": "1986-05-20",
+"dateStart": "1986-05-19",
+"deg": 6,
+"denials": [
+{
+"by": {
+"id": "otavio-moreira-lima",
+"label": "Brigadeiro Octávio Júlio Moreira Lima"
+},
+"claimTier": 2,
+"denialKind": "directed",
+"label": "held the 23 May 1986 press conference stating the Air Force had no explanation",
+"note": "The minister produced the five pilots and the controllers in person and promised a full dossier within 30 days that never appeared.",
+"of": {
+"id": "ev-noite-ovnis-1986",
+"label": "Noite Oficial dos OVNIs - the Brazilian 'Night of the UFOs', 19 May 1986"
+},
+"sources": [
+{
+"date": "2022-01-14",
+"name": "BBC Brasil",
+"url": "https://www.bbc.com/portuguese/brasil-59953278"
+}
+]
+}
+],
+"desc": "On the night of 19 May 1986 Brazilian air traffic control, the CINDACTA integrated air defence and traffic control network and the Brazilian Air Force engaged twenty-one unidentified radar plots over São Paulo, Rio de Janeiro, Minas Gerais and Goiás. The sequence, as reconstructed by the Air Defence Command's own report and by BBC Brasil, begins at about 20:00 when air traffic controller Sérgio Mota da Silva at São José dos Campos airport saw stationary multicoloured lights; when he dimmed the runway lights the objects approached, and when he raised them they withdrew. At 21:08 an Embraer Xingu, registration PT-MBZ, flown by Colonel Ozires Silva - the founder of Embraer, returning from a meeting with President José Sarney and due to take office as president of Petrobras the following day - reported large red lights and attempted an unsuccessful approach. Santa Cruz Air Base went to alert at 21:39 and Anápolis shortly afterwards. Five fighters were launched: F-5E FAB-4848 flown by Lieutenant Kleber Caldas Marinho at 22:34 and F-5E FAB-4849 flown by Captain Márcio Brisolla Jordão at 22:50 from Santa Cruz; Mirage IIIEs of the 1st Air Defence Group 'Jaguar' from Anápolis including one flown by Captain Armindo Sousa Viriato de Freitas, plus FAB-4918 (Captain Rodolfo Silva e Souza, 23:17) and FAB-4917 (Captain Júlio Cézar Rozemberg, 23:46). The mission ordered was non-aggressive interception. One F-5 pilot tracked a light that climbed to 33,000 feet while changing from white to red to green, held 10 to 12 miles off, and was followed 180 miles out to sea until bingo fuel. Thirteen radar plots appeared behind the second F-5, which turned 180 degrees and saw nothing. A Mirage closed to two miles of a contact that zigzagged and then accelerated away while the interceptor was already supersonic; in a 1993 TV Globo interview the pilot estimated the object's speed at Mach 15. The objects overflew the National Institute for Space Research and the Aerospace Technical Centre at São José dos Campos and the Air Force Academy at Pirassununga.",
+"domains": [
+"w11-brazil-harden",
+"w2-international"
+],
+"dossier": {
+"claims": [
+{
+"source": "O Tempo, 'Noite Oficial dos Ovnis: caso que mobilizou cacas da FAB completa 40 anos e ainda intriga o Brasil', 16 May 2026, https://www.otempo.com.br/brasil/2026/5/16/noite-oficial-dos-ovnis-caso-que-mobilizou-cacas-da-fab-completa-40-anos-e-ainda-intriga-o-brasil",
+"text": "On the night of 19 May 1986 multiple unidentified objects were tracked over several Brazilian states and the Forca Aerea Brasileira scrambled five supersonic fighters, F-5E and Mirage aircraft, in an attempt at interception.",
+"tier": 2
+},
+{
+"source": "Senado Federal, Requerimento no 193, de 2022, justificacao, presented 16 March 2022, https://legis.senado.leg.br/sdleg-getter/documento?dm=9089831&disposition=inline",
+"text": "The Brazilian Senate's official record describes the 1986 event as the 'Noite Oficial dos UFOs no Brasil', in which 21 spherical objects, each stated at 100 metres in diameter, were pursued for hours by Brazilian jet fighters.",
+"tier": 1
+},
+{
+"source": "Arquivo Nacional, 'Conheca o fundo sobre OVNIs do Arquivo Nacional', https://www.gov.br/arquivonacional/pt-br/canais_atendimento/imprensa/noticias/conheca-o-fundo-sobre-ovnis-do-arquivo-nacional",
+"text": "The Arquivo Nacional identifies the 1986 'Noite Oficial dos OVNIs' of 19 May, with around 21 unidentified flying objects detected, as one of the most famous cases documented in its OVNI collection.",
+"tier": 1
+},
+{
+"source": "Revista Sociedade Militar, 'Ha 40 anos, cacas da FAB perseguiram objetos misteriosos no ceu brasileiro em episodio ainda cercado de enigmas', 2026, https://www.sociedademilitar.com.br/2026/05/noite-dos-ovnis-ha-40-anos-cacas-da-fab-perseguiram-objetos-nos-ceus-brasileiros-em-episodio-ainda-cercado-de-misterios-fbnc.html",
+"text": "Four days after the event, on 23 May 1986, the Minister of Aeronautics, Brigadeiro Octavio Julio Moreira Lima, convened a press conference at which he confirmed that five FAB fighters had pursued unidentified flying objects over Brazilian territory.",
+"tier": 2
+},
+{
+"source": "Revista Sociedade Militar, 2026, https://www.sociedademilitar.com.br/2026/05/noite-dos-ovnis-ha-40-anos-cacas-da-fab-perseguiram-objetos-nos-ceus-brasileiros-em-episodio-ainda-cercado-de-misterios-fbnc.html ; O Tempo, 16 May 2026, https://www.otempo.com.br/brasil/2026/5/16/noite-oficial-dos-ovnis-caso-que-mobilizou-cacas-da-fab-completa-40-anos-e-ainda-intriga-o-brasil",
+"text": "At that press conference the minister stated that technically he would tell those present that there was no explanation ('Tecnicamente, diria aos senhores que nao temos explicacao').",
+"tier": 3
+},
+{
+"source": "Wikipedia, '1986 Brazilian UFO incident', https://en.wikipedia.org/wiki/1986_Brazilian_UFO_incident",
+"text": "The press conference was held at the Ministry of Aeronautics in Brasilia and included the air traffic controllers and air force pilots involved in the scramble mission.",
+"tier": 3
+},
+{
+"source": "Wikipedia, '1986 Brazilian UFO incident', https://en.wikipedia.org/wiki/1986_Brazilian_UFO_incident",
+"text": "The unidentified radar returns were tracked both by airports in Sao Paulo and by CINDACTA, the Integrated Air Defence and Air Traffic Control Centre, in Brasilia.",
+"tier": 3
+},
+{
+"source": "Wikipedia, '1986 Brazilian UFO incident', https://en.wikipedia.org/wiki/1986_Brazilian_UFO_incident ; UFO Evidence, 'Jet Chase Over Brazil, Brazil, May 19, 1986', http://www.ufoevidence.org/cases/case51.htm",
+"text": "Two F-5E fighters were scrambled from Santa Cruz air base in Sao Paulo state and three Mirage fighters from Anapolis air base in Goias.",
+"tier": 3
+},
+{
+"source": "Wikipedia, '1986 Brazilian UFO incident', https://en.wikipedia.org/wiki/1986_Brazilian_UFO_incident",
+"text": "Ozires Silva, then president of the state oil company Petrobras, was aboard an executive Xingu aircraft and with his pilot saw and pursued unidentified objects for approximately 25 minutes.",
+"tier": 3
+},
+{
+"source": "UFO Evidence, 'Jet Chase Over Brazil, Brazil, May 19, 1986', http://www.ufoevidence.org/cases/case51.htm",
+"text": "Reported speeds of the objects ranged between roughly 250 and 1,500 kilometres per hour.",
+"tier": 3
+},
+{
+"source": "O Tempo, 16 May 2026, https://www.otempo.com.br/brasil/2026/5/16/noite-oficial-dos-ovnis-caso-que-mobilizou-cacas-da-fab-completa-40-anos-e-ainda-intriga-o-brasil",
+"text": "Official documents on the case classified the objects as solid bodies exhibiting intelligent behaviour, including flight in formation and the capacity to follow aircraft.",
+"tier": 3
+},
+{
+"source": "Revista Sociedade Militar, 'Ha 40 anos, 5 cacas F-5 e Mirage da FAB perseguiram 21 OVNIs sobre o litoral de SP: o relato completo da Noite Oficial dos Ovnis', 2026, https://www.sociedademilitar.com.br/2026/06/ha-40-anos-5-cacas-f-5-e-mirage-da-fab-perseguiram-21-ovnis-sobre-o-litoral-de-sp-o-relato-completo-da-noite-oficial-dos-ovnis-2022j.html",
+"text": "The minister promised a written document on the incident within thirty days, but the report was made public only in September 2009, a delay of twenty-three years.",
+"tier": 3
+},
+{
+"source": "Arquivo Nacional, 'Conheca o fundo sobre OVNIs do Arquivo Nacional', https://www.gov.br/arquivonacional/pt-br/canais_atendimento/imprensa/noticias/conheca-o-fundo-sobre-ovnis-do-arquivo-nacional",
+"text": "Documents and audio recordings relating to the events of 19 May 1986 were subsequently released through the Arquivo Nacional, whose OVNI fund includes audio of exchanges between pilots and control tower operators.",
+"tier": 2
+},
+{
+"source": "Nota da Forca Aerea reproduced in CNN Brasil, 12 August 2026, https://www.cnnbrasil.com.br/ciencia/pilotos-e-controladores-relataram-18-casos-de-ovnis-no-brasil-em-2025/",
+"text": "The FAB's standing position, restated in writing in August 2026, is that all Comando da Aeronautica material on unidentified aerial phenomena from 1952 to 2025, which includes the 1986 file, has been transferred to the Arquivo Nacional and is in the public domain.",
+"tier": 2
+}
+],
+"connections": [
+"Executed by the Forca Aerea Brasileira (fab); the intercepts ran through CINDACTA and the air defence structure that later became COMDABRA/COMAE.",
+"Its file is held in the Arquivo Nacional's Fundo OVNI (arquivo-nacional-ufo), BR DFANBSB ARX, alongside audio of pilot and tower exchanges.",
+"Named in Senado Federal RQS 193/2022 (senado-brasil) as an official FAB engagement with 21 objects.",
+"Ozires Silva, founder of Embraer and then president of Petrobras, is an airborne civilian witness of unusual institutional standing.",
+"Direct comparison node to the July 1952 Washington DC overflights, where the US Air Force convened a press conference in order to supply an explanation rather than concede its absence.",
+"The 2009 release of the 1986 report is contemporaneous with the CENDOC transfers of Operacao Prato material and precedes Portaria 551/GC3 of August 2010."
+],
+"denialPosture": "There is no denial to catalogue for 19 May 1986, and that absence is the point of the node. The Minister of Aeronautics affirmed the intercept mission at a press conference four days later and stated that the air force had no technical explanation, which is the opposite of the American pattern of supplying an explanation in order to close a case. The only concealment behaviour attaching to this event is procedural delay: a written report promised within thirty days that did not become public until September 2009.",
+"narrative": "The evening of 19 May 1986 produced a cascade rather than a single sighting. Radar returns began appearing on civil scopes serving Sao Paulo airports and on the military picture held by CINDACTA, the Integrated Air Defence and Air Traffic Control Centre, and the objects were also acquired visually from the air. Among the airborne witnesses was Ozires Silva, at the time president of Petrobras and one of the most consequential figures in Brazilian aviation as the founder of Embraer, who was flying in an executive Xingu and who, with his pilot, pursued lights for roughly twenty-five minutes. The reported speeds spanned a wide band, from a few hundred kilometres per hour to well over a thousand, which is itself a characteristic of the case: the objects were not behaving like a single misidentified class of target.\n\nThe air force treated it as an air defence problem. Five interceptors went up, two F-5E from Santa Cruz in Sao Paulo state and three Mirage from Anapolis in Goias. Pilots reported acquisitions and losses, and the objects did not resolve into anything the crews could identify. In the Brazilian Senate's own later account of the night, twenty-one objects were involved and were pursued for hours.\n\nWhat makes the date load-bearing is 23 May, not 19 May. The scale of the press coverage forced a response, and the response was a press conference at the Ministry of Aeronautics in Brasilia at which Moreira Lima appeared with air traffic controllers and air force pilots from the mission. He confirmed that five FAB fighters had pursued unidentified objects over Brazilian territory and, asked to account for them, said that technically he would tell them there was no explanation. Contemporary and retrospective Brazilian reporting has treated the phrase as the moment the state conceded, in public, at ministerial level, that its air defence system had engaged something it could not name. Documents later associated with the case describe the objects as solid bodies displaying intelligent behaviour, including formation flight and the ability to track aircraft.\n\nThe US comparison is not close. The nearest American analogue in kind, the Washington DC overflights of July 1952, produced a press conference that went the opposite way: the Air Force convened the largest such briefing since the Second World War in order to deliver an explanation, temperature inversion, and to close the matter. In 1986 Brasilia did not reach for an explanation because it did not have one, and said so. Nothing in the subsequent four decades suggests the admission harmed Brazilian air defence, deterrence, or public order. That absence of consequence is the evidence.\n\nThe concealment element sits in the timeline afterwards. The minister undertook to produce a written document on the incident and to release it within thirty days. That did not happen. The report became public only in September 2009, which places it inside the same window as the FAB's initial transfers to the Arquivo Nacional and just ahead of Portaria 551/GC3 in August 2010. So the correct reading of the 1986 night is two-part. The verbal disclosure was immediate, unqualified and at cabinet level. The documentary disclosure took twenty-three years and arrived only once the Aeronautica had built an archival pipeline that made release the default. A board tracking concealment should treat that gap as the ordinary metabolism of a defence bureaucracy, and should note that even a system with a twenty-three year documentary lag still ended in publication, which the US system has not.\n\nToday the material sits in the Arquivo Nacional's Fundo OVNI. The archive itself flags 1986 as one of the best known cases in the collection, with around twenty-one unidentified objects detected on 19 May, and the fund includes audio recordings of exchanges between pilots and control tower operators alongside the written reports. In May and June 2026 the fortieth anniversary drew substantial Brazilian press coverage, including detailed reconstructions in the military press, which is a measure of how thoroughly the event has become part of the country's public record rather than its classified one. The comparison the board is built to make is therefore not rhetorical. It is a specific, dated, documented sequence in one country against a specific, dated, documented absence in another.",
+"openQuestions": [
+"No verbatim transcript of the 23 May 1986 press conference has been located in a primary Brazilian government source in this pass; the minister's most quoted sentence rests on Brazilian press reporting.",
+"The object count varies. The Arquivo Nacional and the Senate record both use 21; some English-language accounts say 'as many as twenty'. The underlying FAB tally has not been checked against the archive item.",
+"The specific SIAN item number for the September 2009 report on the 1986 events has not been identified.",
+"The names of the intercept pilots and the tail numbers of the five aircraft have not been confirmed against a primary FAB source.",
+"Whether any radar tape, gun-camera film or onboard sensor data from the intercepts was retained, and whether it was included in the transfer to the Arquivo Nacional, is unresolved."
+],
+"roles": [
+"research",
+"disclosure",
+"concealment",
+"custody"
+],
+"whatItIs": "The 'Noite Oficial dos OVNIs', the Official Night of the UFOs, is the night of 19 May 1986, when Brazilian civil and military radar tracked multiple unidentified returns across several states in the country's south-east and centre-west and the Forca Aerea Brasileira launched interceptors against them. Five fighters, a mix of F-5E and Mirage aircraft, were scrambled from Santa Cruz air base in Sao Paulo state and Anapolis air base in Goias. Four days later the Minister of Aeronautics, Brigadeiro Octavio Julio Moreira Lima, held a press conference at the ministry in Brasilia, presented controllers and pilots involved, and said the air force had no technical explanation.",
+"whyImplicated": "This is the single most important comparison point on the board, because it is the event the United States has never had and, on the concealment thesis, cannot have. A cabinet-rank defence official stood at a podium four days after a multi-aircraft intercept mission against radar-confirmed unidentified objects, named the mission, produced the aircrew and the controllers, and stated on the record that the state could not explain what it had chased. Nothing about Brazil's position in 1986 made this cheap: the country was two years out of military rule, the air force ministry was a serving-officer institution, and the radar and intercept performance data at issue were exactly the sort of material the US cites as the reason such events cannot be discussed. The 1986 night therefore converts the US argument from a claim about the sensitivity of the phenomenon into a claim about the sensitivity of the institution. It also carries its own lag, which is the honest half of the story: the minister promised a written document within thirty days and the report did not reach the public until September 2009, twenty-three years later."
+},
+"entityInfo": null,
+"era": "1",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "ev-noite-ovnis-1986",
+"l0": true,
+"label": "Noite Oficial dos OVNIs - the Brazilian 'Night of the UFOs', 19 May 1986",
+"locLabel": null,
+"members": [
+{
+"cls": "document",
+"id": "doc-fab-1986-report",
+"label": "Relatório de Ocorrências, Comando Aéreo de Defesa Aérea, 2 June 1986 (Arquivo Nacional BR_DFANBSB_ARX_0_0_0249)",
+"tier": "B"
+},
+{
+"cls": "location",
+"id": "l-brazil",
+"label": "Brazil",
+"tier": "C"
+},
+{
+"cls": "person",
+"id": "otavio-moreira-lima",
+"label": "Brigadeiro Octávio Júlio Moreira Lima",
+"tier": "B"
+},
+{
+"cls": "person",
+"id": "pessoa-cavalcanti",
+"label": "Brigadeiro do Ar José Pessoa Cavalcanti de Albuquerque",
+"tier": "B"
+}
+],
+"short": "Noite Oficial dos OVNIs - the Brazilian 'Night of the UFOs', 19 May 1986",
+"sources": [
+{
+"date": null,
+"name": "https://www.opovo.com.br/agencia/bbc/2026/05/17/amp/a-noite-em-que-21-ovnis-invadiram-o-espaco-aereo-brasileiro-e-foram-perseguidos-por-cacas-da-fab.html",
+"url": "https://www.opovo.com.br/agencia/bbc/2026/05/17/amp/a-noite-em-que-21-ovnis-invadiram-o-espaco-aereo-brasileiro-e-foram-perseguidos-por-cacas-da-fab.html"
+},
+{
+"date": null,
+"name": "https://legis.senado.leg.br/sdleg-getter/documento?dm=9089831&ts=1647523438292&disposition=inline",
+"url": "https://legis.senado.leg.br/sdleg-getter/documento?dm=9089831&ts=1647523438292&disposition=inline"
+},
+{
+"date": "1986-06-02",
+"name": "Relatório de Ocorrências (Arquivo Nacional PDF)",
+"url": "http://imagem.sian.an.gov.br/acervo/derivadas/BR_DFANBSB_ARX/0/0/0249/BR_DFANBSB_ARX_0_0_0249_d0001de0001.pdf"
+},
+{
+"date": "2022-01-14",
+"name": "BBC Brasil",
+"url": "https://www.bbc.com/portuguese/brasil-59953278"
+},
+{
+"date": "2026-01-01",
+"name": "1986 Brazilian UFO incident - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/1986_Brazilian_UFO_incident"
+}
+],
+"sub": "19-20 May 1986; 21 radar plots, five FAB fighters scrambled from Santa Cruz (RJ) and Anápolis (GO) across four Brazilian states; ministerial press conference 23 May 1986; report released 25 September 2009",
+"tier": "A",
+"tierRationale": "Re-graded A on a global pass (rank 129 of 1027, score 55). 6 connections, 2 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D3.",
+"timeline": [
+{
+"date": "1986-05-19",
+"id": "tl-intl-1986-noite",
+"label": "The Brazilian 'Night of the UFOs'",
+"precision": "day",
+"strand": "witness",
+"text": "Twenty-one unidentified radar plots over four Brazilian states. Five Brazilian Air Force fighters are scrambled from Santa Cruz and Anápolis. One Mirage closes to two miles of a contact that zigzags and then accelerates away from a supersonic interceptor; the pilot later estimates Mach 15. Thirteen plots appear astern of an F-5 which turns 180 degrees and sees nothing.",
+"tier": 1
+}
+]
+}

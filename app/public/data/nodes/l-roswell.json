@@ -1,0 +1,173 @@
+{
+"A": 2,
+"C": 3,
+"D": 2,
+"band": null,
+"claims": [
+{
+"source": "RAAF press release, 8 July 1947, issued by 1st Lt. Walter Haut",
+"text": "The 8 July 1947 RAAF press release stated that 'the intelligence office of the 509th Bomb group of the Eighth Air Force, Roswell Army Air Field, was fortunate enough to gain possession of a disc.'",
+"tier": 1
+},
+{
+"source": "Contemporaneous Fort Worth press conference photographs and wire copy, 8 July 1947",
+"text": "Brig. Gen. Roger M. Ramey retracted the statement at Fort Worth Army Air Field with weather officer Irving Newton, presenting the debris as a weather balloon and radar target.",
+"tier": 1
+},
+{
+"source": "USAF, 'The Roswell Report: Fact Versus Fiction in the New Mexico Desert' (1994) and 'The Roswell Report: Case Closed' (1997)",
+"text": "The 1994 USAF report attributed the debris to Project Mogul Flight No. 4 and acknowledged the weather balloon explanation had been a cover story; 'The Roswell Report: Case Closed' (24 June 1997) attributed body accounts to anthropomorphic parachute test dummies.",
+"tier": 1
+},
+{
+"source": "GAO/NSIAD-95-187, July 1995",
+"text": "GAO/NSIAD-95-187 found that RAAF outgoing messages from October 1946 through December 1949 had been destroyed and that no disposition authority for the destruction could be located.",
+"tier": 1
+},
+{
+"source": "Inference from the 1994 USAF report and GAO/NSIAD-95-187",
+"text": "The most durable fact about Roswell is administrative, not physical: the government has conceded in writing that it lied publicly about the recovery, and the unit's message traffic for the relevant period no longer exists. Reasoning: the 1994 report concedes the cover story; GAO documents the record destruction; the two facts together establish deliberate concealment independent of what the debris was.",
+"tier": 3
+}
+],
+"cls": "location",
+"cluster": "legacy",
+"connections": [
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "1995",
+"dateStart": "1995",
+"direction": "in",
+"edgeLabel": "GAO found the relevant RAAF records destroyed with no recorded authority",
+"id": "gao-roswell-report-1995",
+"l0": false,
+"label": "GAO/NSIAD-95-187, Government Records: Results of a Search for Records Concerning the 1947 Crash Near Roswell, New Mexico",
+"note": "RAAF administrative records March 1945-December 1949 and outgoing messages October 1946-December 1949 were destroyed; the disposition form records neither who destroyed them nor under what authority.",
+"sources": [
+{
+"date": "1995-07-28",
+"name": "GAO/NSIAD-95-187, 'Government Records: Results of a Search for Records Concerning the 1947 Crash Near Roswell, New Mexico'",
+"url": "https://www.govinfo.gov/content/pkg/GAOREPORTS-NSIAD-95-187/html/GAOREPORTS-NSIAD-95-187.htm"
+}
+],
+"tier": "C",
+"type": "investigative"
+},
+{
+"claimTier": 3,
+"cls": "location",
+"dateEnd": "1950",
+"dateStart": "1945",
+"direction": "out",
+"edgeLabel": "Roswell sits inside the 1947 New Mexico nuclear and rocketry complex",
+"id": "l-white-sands",
+"l0": false,
+"label": "White Sands Missile Range, New Mexico",
+"note": "The Foster Ranch debris field, White Sands Proving Ground, the Alamogordo Mogul launch site, Los Alamos, Sandia and Kirtland all lie within a few hundred miles. Reasoning: geographic proximity is the reason a materiel recovery there fell inside multiple classified security envelopes at once.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Wikipedia - Roswell incident",
+"url": "https://en.wikipedia.org/wiki/Roswell_incident"
+}
+],
+"tier": "C",
+"type": "geographic"
+},
+{
+"claimTier": 2,
+"cls": "event",
+"dateEnd": "1947",
+"dateStart": "1947",
+"direction": "in",
+"edgeLabel": "The 1947 recovery was executed by Roswell Army Air Field",
+"id": "roswell-1947",
+"l0": true,
+"label": "Roswell Incident",
+"note": "Maj. Jesse Marcel of the 509th Bomb Group intelligence office and Capt. Sheridan Cavitt of the Counter Intelligence Corps were dispatched from RAAF to the Foster Ranch. Attested by the 1947 press record and the Air Force's own reports.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Wikipedia - Roswell incident",
+"url": "https://en.wikipedia.org/wiki/Roswell_incident"
+}
+],
+"tier": "A",
+"type": "geographic"
+},
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": "1947",
+"dateStart": "1947",
+"direction": "in",
+"edgeLabel": "The 509th Bomb Group at Roswell AAF was the only atomic-armed unit in the world",
+"id": "roswell-1947",
+"l0": true,
+"label": "Roswell Incident",
+"note": "The recovery, the announcement and the destroyed records all belong to a single installation with the most restrictive information discipline in the US military.",
+"sources": [
+{
+"date": "1995-01-01",
+"name": "USAF, The Roswell Report: Fact vs. Fiction (1995)",
+"url": "https://archive.org/details/DTIC_ADA326148"
+},
+{
+"date": "1995-07-28",
+"name": "GAO/NSIAD-95-187",
+"url": "https://www.gao.gov/assets/nsiad-95-187.pdf"
+}
+],
+"tier": "A",
+"type": "institutional"
+}
+],
+"coords": [
+33.3943,
+-104.523
+],
+"dateEnd": null,
+"dateStart": "1947",
+"deg": 3,
+"denials": [],
+"desc": "Roswell is a city in Chaves County in southeastern New Mexico, and in 1947 it was the home of Roswell Army Air Field and the 509th Bomb Group - at that moment the only atomic-capable bomb group in the world, the unit that had dropped the weapons on Hiroshima and Nagasaki. That single fact governs everything about the site's significance: whatever came down on the Foster Ranch, roughly seventy-five miles northwest near Corona in Lincoln County, came down inside the security envelope of the only nuclear strike force on Earth, and the recovery was executed by that force's own intelligence office. Rancher W. W. 'Mac' Brazel found debris in late June 1947, reported it to Chaves County Sheriff George Wilcox on 6 July, and RAAF sent Maj. Jesse Marcel, the 509th's intelligence officer, and Capt. Sheridan Cavitt of the Counter Intelligence Corps to retrieve it. On 8 July 1947 the base public information officer, 1st Lt. Walter Haut, issued a press release stating that 'the intelligence office of the 509th Bomb group of the Eighth Air Force, Roswell Army Air Field, was fortunate enough to gain possession of a disc.' Within hours Brig. Gen. Roger M. Ramey, commanding Eighth Air Force at Fort Worth Army Air Field, retracted it in front of press photographers with weather officer Warrant Officer Irving Newton, presenting the material as a weather balloon and radar target. The Air Force's own two later reports - the 1994 report identifying the debris as Project Mogul Flight No. 4 balloon train material launched from Alamogordo, and 'The Roswell Report: Case Closed' of 24 June 1997 attributing body reports to anthropomorphic parachute test dummies - concede the central structural point: the 1947 statement was a cover story, issued by the Army Air Forces, to protect a classified programme. What Roswell demonstrates for this board is therefore not settled by the debris identification. It is that the United States has admitted, in its own official reports, to fabricating a public explanation for a materiel recovery in 1947, and that when GAO audited the paper trail in 1995 it found that RAAF outgoing messages for October 1946 to December 1949 had been destroyed with no disposition authority located. The record of the recovery was removed. That is the fact that survives audit.",
+"domains": [
+"w2-places-events"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "l-roswell",
+"l0": false,
+"label": "Roswell, New Mexico and the Foster Ranch, Lincoln County",
+"locLabel": "Roswell, New Mexico, USA",
+"members": null,
+"short": "Roswell, New Mexico and the Foster Ranch, Lincoln County",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Wikipedia - Roswell incident",
+"url": "https://en.wikipedia.org/wiki/Roswell_incident"
+},
+{
+"date": "1995-07-28",
+"name": "GAO/NSIAD-95-187",
+"url": "https://www.gao.gov/products/nsiad-95-187"
+},
+{
+"date": "1997-06-24",
+"name": "USAF - The Roswell Report: Case Closed",
+"url": "https://media.defense.gov/2010/Oct/27/2001330256/-1/-1/0/AFD-101027-030.pdf"
+}
+],
+"sub": "City in Chaves County; site of Roswell Army Air Field, home of the 509th Bomb Group; debris field ~75 mi NW near Corona",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 263 of 1027, score 39). 4 connections, 0 of them custody/witness/funding/programmatic. Axes C3/A2/D2.",
+"timeline": []
+}

@@ -1,0 +1,138 @@
+{
+"A": 1,
+"C": 1,
+"D": 1,
+"band": null,
+"claims": [
+{
+"source": "AFIT/GA/ENY/08-M06, Bradley R. Townsend, March 2008, section 1.1",
+"text": "The thesis defines its own term at section 1.1: 'Satellite based sensors looking down at the Earth's surface occasionally observe reflected light from an object passing through the image which is moving too fast relative to the background of the image to be located within the atmosphere. These objects are commonly called fastwalkers. This term refers to any orbital object seen passing through the field of view of an Earth observing sensor which is suspected of being in orbit.'",
+"tier": 1
+},
+{
+"source": "AFIT/GA/ENY/08-M06, full-text reading of all 112 pages",
+"text": "The word 'fastwalker' is used 34 times in the thesis. The words UFO and unidentified do not appear anywhere in its 112 pages. In this document the term is ordinary space-surveillance vocabulary.",
+"tier": 1
+},
+{
+"source": "AFIT/GA/ENY/08-M06, section 1.2",
+"text": "Section 1.2 states: 'In his thesis Osedacz [9] states that a database of fastwalker observations exists with data from as far back as 1972. He uses this data from obtained ballistic missile early warning satellites in GEO to attempt to determine the orbit of these fastwalkers. His conclusion was that determining the orbit of other fastwalkers in GEO was impossible. This supported the conclusions of an earlier work conducted by Lem Wong on the inability to determine the orbit of these objects. The research conducted by Wong is no longer available.'",
+"tier": 1
+},
+{
+"source": "AFIT/GA/ENY/08-M06, bibliography",
+"text": "Bibliography entry 9 reads 'OSEDACZ, R. Orbit determination of sunlight illuminated objects detected by overhead platforms (M. S. Thesis). 1989.' -- naming the 1989 predecessor document, which has not been obtained.",
+"tier": 1
+},
+{
+"source": "AFIT/GA/ENY/08-M06, title page and SF 298",
+"text": "The title page reads 'Bradley R. Townsend, Captain, USA', AFIT/GA/ENY/08-M06, Department of the Air Force, Air University, Air Force Institute of Technology, Wright-Patterson Air Force Base, Ohio, 'APPROVED FOR PUBLIC RELEASE; DISTRIBUTION UNLIMITED'. He is a US Army captain at an Air Force school, not USAF. The SF 298 gives the report date 10-03-2008 and the period covered as September 2007 to March 2008.",
+"tier": 1
+},
+{
+"source": "American Alchemy with Jesse Michels, 'Proof That NASA Censored Moon Photos (and The Astronauts Knew!)', published 20 July 2026, https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL8047881928.mp3 (machine transcript of the podcast audio, checked against the audio timestamps); AFIT/GA/ENY/08-M06, section 1.1 and full text",
+"text": "The popular characterisation the thesis contradicts, stated on the record: on the episode published 20 July 2026, a speaker says at 0:01:34 that NASA has 'a term for UFOs in space. It's fast walkers. It's a code word', and at 1:13:04 that 'US Space Force, Northcom, Space NORAD ... have a term for UFOs in space ... fast walkers ... a code word, and slow walkers too'. In the one public DoD document on this node that defines the term, it means any sunlit object crossing a staring sensor's field of view, and the word UFO does not appear in 112 pages.",
+"tier": 2
+}
+],
+"cls": "document",
+"cluster": "legacy",
+"connections": [
+{
+"claimTier": 2,
+"cls": "program",
+"dateEnd": "2008",
+"dateStart": "2008",
+"direction": "in",
+"edgeLabel": "The thesis points at DSP without naming it",
+"id": "defense-support-program",
+"l0": false,
+"label": "Defense Support Program (DSP) missile early warning satellites",
+"note": "The thesis's cited Osedacz database is drawn from ballistic missile early warning satellites in geosynchronous orbit, which is what DSP is; the thesis does not name DSP and no opened government document names it either, so the identification is attributed and not asserted.",
+"sources": [
+{
+"date": "2003-06-02",
+"name": "GAO-03-825R, Military Space Operations, 2 June 2003",
+"url": "https://www.govinfo.gov/content/pkg/GAOREPORTS-GAO-03-825R/html/GAOREPORTS-GAO-03-825R.htm"
+}
+],
+"tier": "B",
+"type": "research"
+},
+{
+"claimTier": 1,
+"cls": "location",
+"dateEnd": "2008",
+"dateStart": "2008",
+"direction": "out",
+"edgeLabel": "written at the Air Force Institute of Technology, Wright-Patterson AFB",
+"id": "l-wright-patterson",
+"l0": false,
+"label": "Wright-Patterson Air Force Base, Ohio",
+"note": "Title page: 'Department of the Air Force, Air University, Air Force Institute of Technology, Wright-Patterson Air Force Base, Ohio. APPROVED FOR PUBLIC RELEASE; DISTRIBUTION UNLIMITED.'",
+"sources": [
+{
+"date": "2008-03-10",
+"name": "AFIT/GA/ENY/08-M06, DTIC ADA478890, title page",
+"url": "https://archive.org/details/DTIC_ADA478890"
+}
+],
+"tier": "A",
+"type": "geographic"
+}
+],
+"coords": null,
+"dateEnd": "2008-03",
+"dateStart": "2008-03",
+"deg": 2,
+"denials": [],
+"desc": "This is the public, distribution-unlimited Department of Defense document that defines the term 'fastwalker' in its own words, and it is on this board because the term reaches the popular literature stripped of that definition. Capt. Bradley R. Townsend, US Army, wrote it at the Air Force Institute of Technology at Wright-Patterson for a Master of Science in Astronautical Engineering, March 2008, DTIC accession ADA478890, APPROVED FOR PUBLIC RELEASE; DISTRIBUTION UNLIMITED.\n\nSection 1.1 gives the definition: 'Satellite based sensors looking down at the Earth's surface occasionally observe reflected light from an object passing through the image which is moving too fast relative to the background of the image to be located within the atmosphere. These objects are commonly called fastwalkers. This term refers to any orbital object seen passing through the field of view of an Earth observing sensor which is suspected of being in orbit.' The word is used 34 times. The words UFO and unidentified do not appear anywhere in the 112 pages. In this document 'fastwalker' is ordinary space-surveillance vocabulary, and the board says so.\n\nWhat the thesis does supply is a documented pointer. Section 1.2 states that 'In his thesis Osedacz [9] states that a database of fastwalker observations exists with data from as far back as 1972', that Osedacz used data from ballistic missile early warning satellites in geosynchronous orbit and concluded orbit determination for such objects was impossible, and that this 'supported the conclusions of an earlier work conducted by Lem Wong ... The research conducted by Wong is no longer available.' Bibliography entry 9 is 'OSEDACZ, R. Orbit determination of sunlight illuminated objects detected by overhead platforms (M. S. Thesis). 1989.' A 1972-onward detection database and a 1989 predecessor thesis, both named in a public document. Osedacz 1989 is the next document to obtain.",
+"domains": [
+"legacy-1947-86"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "2",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "afit-townsend-2008",
+"l0": false,
+"label": "AFIT/GA/ENY/08-M06 - Space Based Satellite Tracking and Characterization Utilizing Non-Imaging Passive Sensors",
+"locLabel": null,
+"members": null,
+"short": "AFIT/GA/ENY/08-M06 - Space Based Satellite Tracking and Characterization Utilizing Non-Imaging Passive Sensors",
+"sources": [
+{
+"date": "2008-03-10",
+"name": "AFIT/GA/ENY/08-M06, Space Based Satellite Tracking and Characterization Utilizing Non-Imaging Passive Sensors, DTIC ADA478890 (112 pages, read in full)",
+"url": "https://archive.org/details/DTIC_ADA478890"
+},
+{
+"date": "2008-03-01",
+"name": "AFIT Scholar landing page for the thesis",
+"url": "https://scholar.afit.edu/etd/2701"
+},
+{
+"date": "2026-07-20",
+"name": "American Alchemy with Jesse Michels, 'Proof That NASA Censored Moon Photos (and The Astronauts Knew!)' (podcast audio, machine transcript)",
+"url": "https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL8047881928.mp3"
+}
+],
+"sub": "Air Force Institute of Technology thesis, March 2008; the public document that defines 'fastwalker'",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 537 of 1027, score 28). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D1.",
+"timeline": [
+{
+"date": "2008-03-10",
+"id": "tl-2008-fastwalker",
+"label": "A public AFIT thesis defines 'fastwalker'",
+"precision": "day",
+"strand": "program",
+"text": "AFIT/GA/ENY/08-M06, distribution unlimited, defines the term in its own words as 'any orbital object seen passing through the field of view of an Earth observing sensor which is suspected of being in orbit'. The words UFO and unidentified appear nowhere in its 112 pages. It names a fastwalker observation database with data from as far back as 1972, and a 1989 predecessor thesis by R. Osedacz.",
+"tier": "B"
+}
+]
+}

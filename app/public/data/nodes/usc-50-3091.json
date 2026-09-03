@@ -1,0 +1,139 @@
+{
+"A": 2,
+"C": 0,
+"D": 3,
+"band": null,
+"claims": [
+{
+"source": "https://www.govinfo.gov/content/pkg/USCODE-2023-title50/html/USCODE-2023-title50-chap44-subchapIII-sec3091.htm",
+"text": "(a)(1) verbatim: 'The President shall ensure that the congressional intelligence committees are kept fully and currently informed of the intelligence activities of the United States, including any significant anticipated intelligence activity as required by this subchapter.' (a)(2): 'Nothing in this subchapter shall be construed as requiring the approval of the congressional intelligence committees as a condition precedent to the initiation of any significant anticipated intelligence activity.'",
+"tier": 1
+},
+{
+"source": "https://www.govinfo.gov/content/pkg/USCODE-2023-title50/html/USCODE-2023-title50-chap44-subchapIII-sec3091.htm",
+"text": "(b) verbatim: 'The President shall ensure that any illegal intelligence activity is reported promptly to the congressional intelligence committees, as well as any corrective action that has been taken or is planned in connection with such illegal activity.'",
+"tier": 1
+},
+{
+"source": "50 U.S.C. 3091(a)(1)",
+"text": "50 U.S.C. 3091(a)(1): 'The President shall ensure that the congressional intelligence committees are kept fully and currently informed of the intelligence activities of the United States, including any significant anticipated intelligence activity as required by this subchapter.'",
+"tier": 1
+},
+{
+"source": "50 U.S.C. 3091(e)",
+"text": "50 U.S.C. 3091(e): 'Nothing in this chapter shall be construed as authority to withhold information from the congressional intelligence committees on the grounds that providing the information to the congressional intelligence committees would constitute the unauthorized disclosure of classified information or information relating to intelligence sources and methods.'",
+"tier": 1
+},
+{
+"source": "50 U.S.C. 3091(b)",
+"text": "50 U.S.C. 3091(b) requires that any illegal intelligence activity be reported promptly to the congressional intelligence committees together with corrective action taken or planned.",
+"tier": 1
+},
+{
+"source": "50 U.S.C. 3091(f)",
+"text": "50 U.S.C. 3091(f) provides that 'intelligence activities' includes covert actions as defined in section 3093(e) and financial intelligence activities.",
+"tier": 1
+},
+{
+"source": "50 U.S.C. 3091(a) and (f)",
+"text": "Section 3091(e) forbids using classification as a reason to withhold from the intelligence committees, but it operates only on 'intelligence activities' and only for those committees, so a DoD operations and support or acquisition special access program is outside its reach entirely. Reasoning: the duty is defined by the subject matter 'intelligence activities' and the audience 'congressional intelligence committees'.",
+"tier": 3
+}
+],
+"cls": "legislation",
+"cluster": "other",
+"connections": [
+{
+"claimTier": 3,
+"cls": "domain",
+"dateEnd": null,
+"dateStart": "1991-08-14",
+"direction": "out",
+"edgeLabel": "The anti-withholding rule does not reach DoD special access programs",
+"id": "four-regime-map",
+"l0": false,
+"label": "The four SAP reporting regimes and the seams between them",
+"note": "50 U.S.C. 3091(e) bars withholding from the intelligence committees on classification grounds, but binds only as to 'intelligence activities' and only for those committees, leaving DoD acquisition and operations and support SAPs outside it.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "50 U.S.C. 3091, General congressional oversight provisions",
+"url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3091&num=0&edition=prelim"
+}
+],
+"tier": "B",
+"type": "legislative"
+},
+{
+"claimTier": 1,
+"cls": "legislation",
+"dateEnd": null,
+"dateStart": "1991-08-14",
+"direction": "out",
+"edgeLabel": "The general 'fully and currently informed' duty and its covert action exception",
+"id": "usc-50-3093",
+"l0": false,
+"label": "50 U.S.C. 3093 — Presidential Approval and Reporting of Covert Actions",
+"note": "Section 3091(a)(1) states the general duty; section 3093(c)(2)-(3) supplies the limited-notification and no-prior-notice exceptions for covert action findings.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "50 U.S.C. 3091, General congressional oversight provisions",
+"url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3091&num=0&edition=prelim"
+},
+{
+"date": "2026-08-12",
+"name": "50 U.S.C. 3093, Presidential approval and reporting of covert actions",
+"url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3093&num=0&edition=prelim"
+}
+],
+"tier": "B",
+"type": "legislative"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "1991-08-14",
+"deg": 2,
+"denials": [],
+"desc": "Section 501 of the National Security Act, at 50 U.S.C. 3091, is the general obligation against which every claim of concealment from Congress in the intelligence sphere must be measured. Subsection (a)(1) requires the President to 'ensure that the congressional intelligence committees are kept fully and currently informed of the intelligence activities of the United States, including any significant anticipated intelligence activity'. Subsection (b) requires that 'any illegal intelligence activity is reported promptly to the congressional intelligence committees, as well as any corrective action that has been taken or is planned'. And subsection (e) closes the classification defence completely: 'Nothing in this chapter shall be construed as authority to withhold information from the congressional intelligence committees on the grounds that providing the information to the congressional intelligence committees would constitute the unauthorized disclosure of classified information or information relating to intelligence sources and methods.' That sentence is the most useful single line of statute for anyone arguing that a compartment cannot lawfully be used to keep the intelligence committees out of an intelligence activity. Its limits are equally important: it binds only as to intelligence activities and only as to the intelligence committees, so it does not reach a DoD acquisition or operations and support special access program, and it does not reach the defense committees at all.",
+"domains": [
+"_rs-sap-docs",
+"w2-sap-architecture"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "1",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "usc-50-3091",
+"l0": false,
+"label": "50 U.S.C. 3091 — General Congressional Oversight Provisions (NSA 1947 sec. 501)",
+"locLabel": null,
+"members": null,
+"short": "50 U.S.C. 3091 — General Congressional Oversight Provisions (NSA 1947 sec. 501)",
+"sources": [
+{
+"date": "2024-01-05",
+"name": "50 U.S.C. 3091 (GPO)",
+"url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title50/html/USCODE-2023-title50-chap44-subchapIII-sec3091.htm"
+},
+{
+"date": "2026-08-12",
+"name": "50 U.S.C. 3091, General congressional oversight provisions",
+"url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3091&num=0&edition=prelim"
+},
+{
+"date": "2026-08-12",
+"name": "50 U.S.C. 3093, Presidential approval and reporting of covert actions",
+"url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3093&num=0&edition=prelim"
+}
+],
+"sub": "statute",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 385 of 1027, score 33). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A2/D3.",
+"timeline": []
+}

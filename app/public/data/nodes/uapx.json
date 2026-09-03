@@ -1,0 +1,160 @@
+{
+"A": 1,
+"C": 0,
+"D": 2,
+"band": null,
+"claims": [
+{
+"source": "Progress in Aerospace Sciences, DOI 10.1016/j.paerosci.2025.101099",
+"text": "Szydagis, Knuth, Kugielsky and Levy published 'Initial results from the first field expedition of UAPx to study unidentified anomalous phenomena' in Progress in Aerospace Sciences 156:101099 in June 2025.",
+"tier": 1
+},
+{
+"source": "Published biography of Kevin Knuth",
+"text": "Knuth serves as Vice President of UAPx.",
+"tier": 2
+}
+],
+"cls": "institution",
+"cluster": "research",
+"connections": [
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "2021",
+"direction": "in",
+"edgeLabel": "Vice President of UAPx and co-author of the 2025 paper",
+"id": "kevin-knuth",
+"l0": false,
+"label": "Kevin H. Knuth",
+"note": "Knuth links UAPx to the Galileo Project, where he is a research affiliate, and to SCU through the Entropy collaboration with Powell.",
+"sources": [
+{
+"date": "2025-06-01",
+"name": "Szydagis, Knuth, Kugielsky & Levy, 'Initial results from the first field expedition of UAPx to study unidentified anomalous phenomena', Progress in Aerospace Sciences 156:101099",
+"url": "https://doi.org/10.1016/j.paerosci.2025.101099"
+},
+{
+"date": "2019-09-25",
+"name": "Knuth, Powell & Reali, 'Estimating Flight Characteristics of Anomalous Unidentified Aerial Vehicles', Entropy 21(10):939",
+"url": "https://doi.org/10.3390/e21100939"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "2021",
+"direction": "in",
+"edgeLabel": "Co-founder; first author of the field-expedition results",
+"id": "matthew-szydagis",
+"l0": false,
+"label": "Matthew Szydagis",
+"note": "A liquid-xenon dark-matter physicist applying direct-detection discipline - background rates, instrumental artefacts, false positives - to open-air field observation.",
+"sources": [
+{
+"date": "2025-06-01",
+"name": "Szydagis, Knuth, Kugielsky & Levy, 'Initial results from the first field expedition of UAPx to study unidentified anomalous phenomena', Progress in Aerospace Sciences 156:101099",
+"url": "https://doi.org/10.1016/j.paerosci.2025.101099"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": "2025",
+"direction": "out",
+"edgeLabel": "First peer-reviewed UAP field-expedition results",
+"id": "paper-uapx-2025",
+"l0": false,
+"label": "Szydagis, Knuth, Kugielsky & Levy (2025), Progress in Aerospace Sciences 156:101099",
+"note": "Progress in Aerospace Sciences 156:101099, June 2025 - a published field protocol against which any future government sensor release can be compared.",
+"sources": [
+{
+"date": "2025-06-01",
+"name": "Szydagis, Knuth, Kugielsky & Levy, 'Initial results from the first field expedition of UAPx to study unidentified anomalous phenomena', Progress in Aerospace Sciences 156:101099",
+"url": "https://doi.org/10.1016/j.paerosci.2025.101099"
+}
+],
+"tier": "C",
+"type": "programmatic"
+},
+{
+"claimTier": 2,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2021",
+"direction": "in",
+"edgeLabel": "Academic base of UAPx's science leadership - NOT a host, sponsor or funder",
+"id": "university-at-albany",
+"l0": true,
+"label": "University at Albany (SUNY), Department of Physics",
+"note": "The distinction matters and is drawn by the University itself. UAlbany's release separates 'UAlbany authors Matthew Szydagis, Kevin Knuth and Cecilia Levy' from 'Ben Kugielsky of UAPx, a non-profit scientific research organization'. UAPx is an independent 501(c)(3); the University is where its two lead scientists hold their chairs, not its institutional home. This is the opposite of the harvard-cfa / galileo-project relationship already on the board, where the CfA is the host institution. Funding for the 2021 California field work came from Caroline Cory of OMnium Media, to produce the documentary 'A Tear in the Sky' (2022) - not from UAlbany.",
+"sources": [
+{
+"date": "2025-06-04",
+"name": "UAlbany News Center, 'UAlbany Physicists Test Scientific Approach to UAP Research'",
+"url": "https://www.albany.edu/news-center/news/2025-ualbany-physicists-test-scientific-approach-uap-research"
+},
+{
+"date": "2026-08-21",
+"name": "UAPx - Dr. Kevin Knuth biography page",
+"url": "https://www.uapexpedition.org/drkevinknuth"
+}
+],
+"tier": "B",
+"type": "research"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "2021",
+"deg": 4,
+"denials": [],
+"desc": "UAPx is a small research organisation built by working experimental physicists to do the one thing the field has almost never done: go into the field with calibrated multi-band instrumentation, record everything including the negatives, and publish the protocol. Matthew Szydagis, a liquid-xenon dark-matter physicist at the University at Albany, and Kevin Knuth, a former NASA Ames scientist and Entropy editor, conducted the first UAPx expedition off Catalina Island, California, and published 'Initial results from the first field expedition of UAPx to study unidentified anomalous phenomena' in Progress in Aerospace Sciences volume 156, article 101099, in June 2025, with Benjamin Kugielsky and Cecilia Levy. The paper's value lies in its transparency about instrumentation limits, background rates and false positives - the discipline that comes from a career in an experiment whose principal output is upper limits. In June 2026 Szydagis was named to the UAP Science Advisory Council in the instrumentation and data-collection role, which means the government's outside science body drew its detector expertise from a self-funded civil expedition group rather than from a national laboratory.",
+"domains": [
+"scientists-technical"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "uapx",
+"l0": false,
+"label": "UAPx",
+"locLabel": null,
+"members": null,
+"short": "UAPx",
+"sources": [
+{
+"date": "2025-06-01",
+"name": "Szydagis, Knuth, Kugielsky & Levy, 'Initial results from the first field expedition of UAPx to study unidentified anomalous phenomena', Progress in Aerospace Sciences 156:101099",
+"url": "https://doi.org/10.1016/j.paerosci.2025.101099"
+},
+{
+"date": "2026-08-12",
+"name": "Wikipedia: Kevin Knuth",
+"url": "https://en.wikipedia.org/wiki/Kevin_Knuth"
+},
+{
+"date": "2025-03-07",
+"name": "Matthew Szydagis, 'How much time do we have before catastrophic disclosure occurs?', Limina - The Journal of UAP Studies",
+"url": "https://doi.org/10.59661/001c.131700"
+}
+],
+"sub": "Instrumented field-expedition organisation co-founded by Matthew Szydagis and Kevin Knuth",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 786 of 1027, score 19). 4 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A1/D2.",
+"timeline": []
+}

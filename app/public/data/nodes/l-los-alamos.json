@@ -1,0 +1,169 @@
+{
+"A": 3,
+"C": 2,
+"D": 1,
+"band": null,
+"claims": [
+{
+"source": "Los Alamos National Laboratory, 18 November 2024",
+"text": "The 16 February 1949 green fireballs conference was held at Los Alamos Scientific Laboratory and its minutes are held by the National Security Research Center.",
+"tier": 1
+},
+{
+"source": "Los Alamos National Laboratory historical account",
+"text": "A conference on the green fireballs was convened at Los Alamos on 16 February 1949; Edward Teller was among the attendees.",
+"tier": 1
+},
+{
+"source": "Inference from DOE laboratory capability and the absence of any primary record",
+"text": "Los Alamos is one of a very small set of US institutions holding both the compartmentation architecture and the materials characterisation capability a concealed exploitation programme would need; no primary document places it inside one. Reasoning: capability inference stated as such, with the evidentiary gap declared.",
+"tier": 3
+}
+],
+"cls": "location",
+"cluster": "ffrdc",
+"connections": [
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "1959",
+"dateStart": "1959",
+"direction": "in",
+"edgeLabel": "A copy went to the Los Alamos Scientific Laboratory report library",
+"id": "afswc-tr-59-39",
+"l0": true,
+"label": "AFSWC TR-59-39 Vol I, A Study of Lunar Research Flights, 19 June 1959",
+"note": "The distribution list names the Director, Los Alamos Scientific Laboratory, with two attention lines including 'Helen Redman, Report Library'.",
+"sources": [
+{
+"date": "1959-06-19",
+"name": "AFSWC TR-59-39 Vol I, A Study of Lunar Research Flights, DDC AD 425380",
+"url": "https://archive.org/details/DTIC_AD0425380"
+}
+],
+"tier": "A",
+"type": "custody"
+},
+{
+"claimTier": 2,
+"cls": "event",
+"dateEnd": "1949-02-16",
+"dateStart": "1949-02-16",
+"direction": "in",
+"edgeLabel": "The green fireballs conference was convened at Los Alamos",
+"id": "green-fireballs-conference-1949",
+"l0": false,
+"label": "Los Alamos Green Fireballs Conference",
+"note": "Edward Teller and Lincoln LaPaz were among the attendees; the laboratory's own account records that the phenomenon was ultimately dismissed as a national security threat.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Wikipedia - White Sands Missile Range",
+"url": "https://en.wikipedia.org/wiki/White_Sands_Missile_Range"
+}
+],
+"tier": "B",
+"type": "research"
+},
+{
+"claimTier": 3,
+"cls": "person",
+"dateEnd": "1962-12-07",
+"dateStart": "1962-12-07",
+"direction": "in",
+"edgeLabel": "Named as the cause of the December 1962 presidential visit",
+"id": "harald-b-malmgren",
+"l0": false,
+"label": "Harald B. Malmgren",
+"note": "The visit itself is Tier 1 from the Public Papers, dated 7 December 1962 with the Vice President present; the claim that Bluegill Triple Prime prompted it comes only from the family biography and is carried here as a stated inference, not as a documented link.",
+"sources": [
+{
+"date": "1962-12-07",
+"name": "Pippa Malmgren biography; Public Papers of the Presidents, 7 December 1962",
+"url": "https://www.presidency.ucsb.edu/documents/remarks-the-high-school-football-stadium-los-alamos-new-mexico"
+},
+{
+"date": "2025-02-24",
+"name": "Dr. Harald Malmgren Passed, Second Line of Defense, biography by Pippa Malmgren",
+"url": "https://sldinfo.com/2025/02/dr-harald-malmgren-passed/"
+}
+],
+"tier": "C",
+"type": "temporal"
+},
+{
+"claimTier": 2,
+"cls": "location",
+"dateEnd": "1951",
+"dateStart": "1948",
+"direction": "out",
+"edgeLabel": "Los Alamos and White Sands bracket the 1948-1951 green fireball reporting corridor",
+"id": "l-white-sands",
+"l0": false,
+"label": "White Sands Missile Range, New Mexico",
+"note": "The 16 February 1949 conference at Los Alamos and the Project Twinkle instrumented observation effort in southern New Mexico both arose from reporting across this corridor.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Wikipedia - White Sands Missile Range",
+"url": "https://en.wikipedia.org/wiki/White_Sands_Missile_Range"
+}
+],
+"tier": "C",
+"type": "geographic"
+}
+],
+"coords": [
+35.88,
+-106.3031
+],
+"dateEnd": null,
+"dateStart": "1943",
+"deg": 4,
+"denials": [],
+"desc": "Los Alamos sits on the Pajarito Plateau in Los Alamos County, New Mexico, and is the site of the laboratory established in 1943 as Project Y of the Manhattan Project, now Los Alamos National Laboratory. Its place on this board rests on two things. First, it is one of the two nuclear design laboratories and therefore one of the small number of American institutions with both the compartmentation architecture and the materials-science capability that a concealed exploitation programme would require; whistleblower accounts collected by AAWSAP and by David Grusch describe materials work distributed across the Department of Energy laboratory complex and its industrial partners, and no document has been produced placing any specific laboratory inside such a programme. Second, and documented, Los Alamos hosted the conference of 16 February 1949 on the green fireballs - the anomalous luminous objects observed repeatedly over northern New Mexico's nuclear installations from December 1948 - attended by Edward Teller and by the University of New Mexico meteoriticist Lincoln LaPaz, whom the Air Force had retained to investigate. LANL's own published account records that the phenomenon was ultimately dismissed as a national security threat, a conclusion that did not prevent the Air Force from standing up Project Twinkle ten months later to instrument it. Los Alamos is thus the first place where American nuclear scientists formally met to discuss unexplained objects over their own facilities, and the meeting is on the laboratory's own record.",
+"domains": [
+"ffrdcs",
+"w2-places-events"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "l-los-alamos",
+"l0": false,
+"label": "Los Alamos, New Mexico",
+"locLabel": "Los Alamos, New Mexico, USA",
+"members": null,
+"short": "Los Alamos, New Mexico",
+"sources": [
+{
+"date": "2024-11-18",
+"name": "Los Alamos National Laboratory - FOIA requests at the National Security Research Center",
+"url": "https://www.lanl.gov/media/publications/the-vault/1124-foia-requests-at-the-national-security-research-center"
+},
+{
+"date": "2026-08-12",
+"name": "Wikipedia - White Sands Missile Range",
+"url": "https://en.wikipedia.org/wiki/White_Sands_Missile_Range"
+}
+],
+"sub": "Los Alamos National Laboratory; site of the 16 February 1949 green fireballs conference",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 390 of 1027, score 33). 4 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A3/D1.",
+"timeline": [
+{
+"date": "1949-02-16",
+"id": "tl-1949-lanl",
+"label": "Nuclear scientists meet at Los Alamos about the green fireballs",
+"precision": "day",
+"strand": "program",
+"text": "Edward Teller and Lincoln LaPaz attend a conference on the anomalous objects over northern New Mexico's nuclear installations. LANL's own account records the phenomenon was ultimately dismissed as a national security threat.",
+"tier": "A"
+}
+]
+}

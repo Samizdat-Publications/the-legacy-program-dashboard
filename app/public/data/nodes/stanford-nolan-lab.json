@@ -1,0 +1,97 @@
+{
+"A": 1,
+"C": 2,
+"D": 2,
+"band": null,
+"claims": [
+{
+"source": "Sol Foundation Policy Briefing No. 3 summarising Nolan, Vallee, Jiang & Lemke (2022)",
+"text": "The laboratory applied SIMS and MIBI to the Council Bluffs samples at 200 nanometre lateral resolution and five-nanometre depth increments, finding no anomalous isotopic values but incomplete mixing of the constituent metals.",
+"tier": 1
+},
+{
+"source": "Garry Nolan to KQED, 14 June 2021",
+"text": "Nolan says government and aerospace-corporation representatives approached his laboratory about medical harm from claimed interactions with an anomalous craft, citing its blood-analysis capability.",
+"tier": 2
+}
+],
+"cls": "institution",
+"cluster": "research",
+"connections": [
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "2022",
+"dateStart": "2021",
+"direction": "in",
+"edgeLabel": "Analysis performed with MIBI, a Stanford-developed instrument",
+"id": "paper-nolan-vallee-2022",
+"l0": true,
+"label": "Nolan, Vallee, Jiang & Lemke (2022), Progress in Aerospace Sciences 128:100788",
+"note": "Multiplexed ion beam imaging, developed by Angelo, Bendall and Nolan for tissue biology, resolved the sample at 200 nm laterally and 5 nm in depth - the technique's first application to alleged UAP material.",
+"sources": [
+{
+"date": "2022-01-01",
+"name": "Nolan, Vallee, Jiang & Lemke, 'Improved instrumental techniques, including isotopic analysis, applicable to the characterization of unusual materials with potential relevance to aerospace forensics', Progress in Aerospace Sciences 128:100788",
+"url": "https://doi.org/10.1016/j.paerosci.2021.100788"
+},
+{
+"date": "2026-04-01",
+"name": "The Sol Foundation Science and Policy Briefings No. 3, Marik von Rennenkampff, 'First Peer-Reviewed Scientific Analysis of Possible UAP Materials Employs State-of-the-Art Technologies'",
+"url": "https://thesolfoundation.org/wp-content/uploads/2026/04/Sol_Policy_Briefing_Number_3-1.pdf"
+}
+],
+"tier": "B",
+"type": "institutional"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "2011",
+"deg": 1,
+"denials": [],
+"desc": "Garry Nolan's laboratory in Stanford's Department of Pathology is an unlikely but decisive node in the custody chain. Its scientific business is systems immunology, cancer and cytometry - it co-developed CODEX and multiplexed ion beam imaging (MIBI) with Michael Angelo and Sean Bendall, techniques designed to map the spatial distribution of proteins and lanthanide-tagged markers in tissue at sub-cellular resolution. Those same instruments turn out to be near-ideal for interrogating an unknown metallic sample: MIBI resolved the Council Bluffs material at 200 nanometres laterally and in five-nanometre depth increments, alongside secondary ion mass spectrometry for elemental and isotopic composition. The laboratory is also where, on Nolan's own account to KQED in June 2021, representatives of the government and of an unnamed aerospace corporation brought a request to assess medical harm to individuals from 'supposed interactions with an anomalous craft', because of the blood analysis the laboratory could do. That is the significant fact: a university pathology laboratory, not a federal laboratory or an FFRDC, became the analytical destination for both alleged UAP material and alleged UAP casualty biology - which is exactly what you would expect if the holder needed analysis without generating a federal record.",
+"domains": [
+"scientists-technical"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "2",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "stanford-nolan-lab",
+"l0": false,
+"label": "Nolan Laboratory, Stanford University School of Medicine",
+"locLabel": null,
+"members": null,
+"short": "Nolan Laboratory, Stanford University School of Medicine",
+"sources": [
+{
+"date": "2022-01-01",
+"name": "Nolan, Vallee, Jiang & Lemke, 'Improved instrumental techniques, including isotopic analysis, applicable to the characterization of unusual materials with potential relevance to aerospace forensics', Progress in Aerospace Sciences 128:100788",
+"url": "https://doi.org/10.1016/j.paerosci.2021.100788"
+},
+{
+"date": "2026-04-01",
+"name": "The Sol Foundation Science and Policy Briefings No. 3, Marik von Rennenkampff, 'First Peer-Reviewed Scientific Analysis of Possible UAP Materials Employs State-of-the-Art Technologies'",
+"url": "https://thesolfoundation.org/wp-content/uploads/2026/04/Sol_Policy_Briefing_Number_3-1.pdf"
+},
+{
+"date": "2021-06-14",
+"name": "Jon Brooks, 'UFOs: SETI Astronomer, Stanford Researcher, Aerospace Expert Weigh In', KQED",
+"url": "https://www.kqed.org/science/1975185/ufos-seti-astronomer-stanford-researcher-aerospace-expert-weigh-in"
+},
+{
+"date": "2026-08-12",
+"name": "Wikipedia: Garry Nolan",
+"url": "https://en.wikipedia.org/wiki/Garry_Nolan"
+}
+],
+"sub": "Department of Pathology; SIMS/MIBI materials and tissue analysis",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 734 of 1027, score 21). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A1/D2.",
+"timeline": []
+}

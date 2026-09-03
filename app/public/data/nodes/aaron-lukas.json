@@ -1,0 +1,109 @@
+{
+"A": 3,
+"C": 2,
+"D": 3,
+"affiliations": [
+"Office of the Director of National Intelligence"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "2026-08-01",
+"event": "ODNI memorandum ES 2026-00818 on NDA waiver implementation is published by Rep. Burlison",
+"precision": "day"
+}
+],
+"claims": [
+{
+"source": "https://burlison.house.gov/sites/evo-subsites/burlison.house.gov/files/evo-media-document/memorandum_2026.pdf",
+"text": "Signed ODNI memorandum ES 2026-00818, 'Preliminary Guidance for Implementation of NDA Waiver', as Principal Deputy Director of National Intelligence.",
+"tier": 1
+},
+{
+"source": "https://burlison.house.gov/sites/evo-subsites/burlison.house.gov/files/evo-media-document/memorandum_2026.pdf",
+"text": "The memorandum directs all IC members to establish a PURSUE designee within 30 days in coordination with ODNI and to inform their workforces that prior NDAs barring disclosure to the President or designees like PURSUE are no longer in force.",
+"tier": 1
+},
+{
+"source": "https://burlison.house.gov/media/press-releases/rep-eric-burlison-releases-statement-president-trumps-uap-nda-directive",
+"text": "Burlison identified Lukas and ODNI as the source of the implementation guidance he had called for publicly on 29 July 2026.",
+"tier": 2
+}
+],
+"cls": "person",
+"cluster": "ic",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": "2026-08-01",
+"direction": "out",
+"edgeLabel": "signatory",
+"id": "odni-memo-es-2026-00818",
+"l0": true,
+"label": "ODNI Memorandum ES 2026-00818 - Preliminary Guidance for Implementation of NDA Waiver",
+"note": "Aaron Lukas signed ES 2026-00818 as Principal Deputy Director of National Intelligence; the memorandum is unclassified and carries an ODNI executive secretariat control number.",
+"sources": [
+{
+"date": "2026-08-01",
+"name": "ODNI Memorandum ES 2026-00818",
+"url": "https://burlison.house.gov/sites/evo-subsites/burlison.house.gov/files/evo-media-document/memorandum_2026.pdf"
+}
+],
+"tier": "A",
+"type": "custody"
+}
+],
+"date": "2026-08-01",
+"dateEnd": null,
+"dateStart": "2026-08-01",
+"deg": 1,
+"denials": [],
+"domains": [
+"w2-2025-2026"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "aaron-lukas",
+"instId": "odni",
+"l0": false,
+"label": "Aaron Lukas",
+"loc": "Washington, DC",
+"locId": null,
+"members": null,
+"narrative": "Aaron Lukas is the Principal Deputy Director of National Intelligence and the official who signed the single most consequential UAP paper instrument of 2026. His memorandum ES 2026-00818, 'Preliminary Guidance for Implementation of NDA Waiver', published by Rep. Eric Burlison on 1 August 2026, directs the release of all Intelligence Community UAP information to the PURSUE Task Force for review and declassification, and directs that current and former government employees and contractors 'shall have prior non-disclosure agreements (NDA), agreements, oaths, or commitments waived when speaking with authorized government representatives of the All-Domain Anomaly Resolution Office (AARO) or PURSUE.' He required every IC element to establish a PURSUE designee within thirty days of receipt in coordination with ODNI, to inform its workforce that existing NDAs barring disclosure to the President or his designees are no longer in force, and undertook that detailed reporting procedures would follow within a further thirty days and that DoW and ODNI would issue departments and agencies detailed implementation guidance for the broader PURSUE transparency project. His distribution list runs to every element of the Intelligence Community, from the Director of CIA to the Assistant Commandant for Intelligence of the Coast Guard. Lukas is therefore the number two officer of the Intelligence Community, on paper, over his own signature, instructing the Directors of CIA, DIA, NRO, NGA and NSA to release UAP information and to release their people from secrecy obligations to do so. Whatever else is true of the 2026 cycle, that document exists and he signed it.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Aaron Lukas",
+"sources": [
+{
+"date": "2026-08-01",
+"name": "ODNI Memorandum ES 2026-00818",
+"url": "https://burlison.house.gov/sites/evo-subsites/burlison.house.gov/files/evo-media-document/memorandum_2026.pdf"
+},
+{
+"date": "2026-07-29",
+"name": "Burlison statement on the UAP NDA directive",
+"url": "https://burlison.house.gov/media/press-releases/rep-eric-burlison-releases-statement-president-trumps-uap-nda-directive"
+}
+],
+"status": "active",
+"sub": "Principal Deputy Director of National Intelligence; signatory of ODNI ES 2026-00818",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 323 of 1027, score 35). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A3/D3.",
+"timeline": [],
+"unexplainedResidual": null,
+"unverified": [
+"The date of signature on ES 2026-00818 (the signature block date is not legible in the released copy).",
+"Whether the promised detailed reporting procedures and DoW/ODNI implementation guidance have been issued."
+]
+}

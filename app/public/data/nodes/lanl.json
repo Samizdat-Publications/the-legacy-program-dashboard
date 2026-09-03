@@ -1,0 +1,203 @@
+{
+"A": 3,
+"C": 2,
+"D": 1,
+"band": null,
+"claims": [
+{
+"source": "Los Alamos National Laboratory, 'FOIA requests at the National Security Research Center', 18 November 2024",
+"text": "LANL states that a conference was organised at Los Alamos on 16 February 1949 on the green fireballs, attended by Laboratory Director Norris Bradbury, Frederick Reines and Edward Teller with FBI, AEC and military representatives, and that the National Security Research Center holds the conference minutes.",
+"tier": 1
+},
+{
+"source": "Los Alamos National Laboratory, 18 November 2024",
+"text": "LANL states that its senior archivist receives several FOIA requests every year related to unidentified flying objects and other unexplained aerial phenomena, and that the NSRC does not appear to hold materials on Project Twinkle.",
+"tier": 1
+},
+{
+"source": "NSF NCSES Master Government List of FFRDCs; CRS Report R44629",
+"text": "LANL is administered by Triad National Security, LLC (new administrator 9 June 2018) and received approximately $3,918.3 million in FY2024.",
+"tier": 1
+},
+{
+"source": "Newsweek, 10 July 2026; KLAS/Mystery Wire, 13 July 2026",
+"text": "Newly declassified records detailing the 1949 Los Alamos green fireballs conference were released and reported in July 2026.",
+"tier": 2
+},
+{
+"source": "New York Post, 25 April 2026; NDTV, 26 April 2026; NewsNation reporting, 24 April 2026",
+"text": "Jeremy Corbell states he received a trove of documents from the son of a deceased former Los Alamos National Laboratory cybersecurity chief, including material said to concern a secret 1991 meeting at the laboratory; these form the basis of the documentary 'Sleeping Dog'.",
+"tier": 2
+}
+],
+"cls": "institution",
+"cluster": "ffrdc",
+"connections": [
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "1947",
+"direction": "in",
+"edgeLabel": "DOE/NNSA management and operating contract; Los Alamos",
+"id": "doe",
+"l0": true,
+"label": "United States Department of Energy",
+"note": "Los Alamos is an NNSA laboratory operated under contract; its National Security Research Center holds and processes FOIA on the laboratory's classified historical record, including 1949 green fireball material.",
+"sources": [
+{
+"date": "2024-11-18",
+"name": "Los Alamos National Laboratory - FOIA requests at the National Security Research Center",
+"url": "https://www.lanl.gov/media/publications/the-vault/1124-foia-requests-at-the-national-security-research-center"
+},
+{
+"date": "2026-08-12",
+"name": "NNSA - About NNSA",
+"url": "https://www.energy.gov/nnsa/about-nnsa"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "1985",
+"dateStart": "1979",
+"direction": "in",
+"edgeLabel": "Directed Los Alamos before the NRO and ODNI",
+"id": "donald-kerr",
+"l0": false,
+"label": "Donald M. Kerr",
+"note": "The same individual later chaired MITRE's board - a single career spanning the contractor-operated weapons laboratory, national overhead reconnaissance, and the FFRDC now under records demand.",
+"sources": [
+{
+"date": "2018-11-06",
+"name": "WashingtonExec",
+"url": "https://washingtonexec.com/2018/11/mitre-board-of-trustees-members-elect-former-rep-mike-rogers-vice-chairman/"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": null,
+"dateStart": "1949",
+"direction": "in",
+"edgeLabel": "Held at Los Alamos; LANL's National Security Research Center holds the minutes",
+"id": "green-fireballs-conference-1949",
+"l0": false,
+"label": "Los Alamos Green Fireballs Conference",
+"note": "LANL confirms the 16 February 1949 conference and its custody of the minutes in its own published account.",
+"sources": [
+{
+"date": "2024-11-18",
+"name": "LANL National Security Research Center",
+"url": "https://www.lanl.gov/media/publications/the-vault/1124-foia-requests-at-the-national-security-research-center"
+}
+],
+"tier": "B",
+"type": "custody"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "2026",
+"direction": "out",
+"edgeLabel": "'Sleeping Dog' document trove said to originate with a deceased LANL cybersecurity chief",
+"id": "jeremy-corbell",
+"l0": false,
+"label": "Jeremy Kenyon Lockyer Corbell",
+"note": "Corbell states the materials came from the son of the laboratory's late former cybersecurity chief and include material on a claimed 1991 meeting at Los Alamos; the laboratory has not authenticated them.",
+"sources": [
+{
+"date": "2026-04-25",
+"name": "New York Post",
+"url": "https://nypost.com/2026/04/25/us-news/trove-of-leaked-documents-show-us-lab-where-two-missing-scientists-worked-studied-ufos-film/"
+}
+],
+"tier": "C",
+"type": "investigative"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "1943",
+"deg": 4,
+"denials": [],
+"desc": "Los Alamos is the first place the United States convened scientists to discuss unexplained objects over its own nuclear installations, and it is the laboratory that confirms it. On 16 February 1949 a conference was held at Los Alamos Scientific Laboratory on the green fireballs then appearing over the New Mexico weapons complex; attendees included Laboratory Director Norris Bradbury, Edward Teller and Frederick Reines, together with representatives of the FBI, the Atomic Energy Commission and the US military. LANL's own National Security Research Center published this in November 2024, stating that it holds the conference minutes, that its senior archivist receives several UFO-related FOIA requests every year, and that the Center does not appear to hold materials on Project Twinkle although not all of its millions of items are searchable. In December 1949 Project Twinkle was established as a network of observation and photographic stations and never fully implemented. Newly declassified records on the 1949 conference were publicised in July 2026 in the wake of the PURSUE releases. In April 2026, filmmaker Jeremy Corbell announced a trove of documents said to have been provided by the son of a deceased former LANL cybersecurity chief, forming the basis of the documentary 'Sleeping Dog' and alleged to include material on a secret 1991 UFO meeting at the laboratory. LANL is administered by Triad National Security, LLC and was funded at approximately 3,918.3 million dollars in FY2024 - the second-largest FFRDC in the country. It is a contractor-operated laboratory whose archives are not agency records, which is why a laboratory blog post is currently a better source on the 1949 conference than any FOIA response.",
+"domains": [
+"ffrdcs"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "lanl",
+"l0": false,
+"label": "Los Alamos National Laboratory",
+"locLabel": null,
+"members": null,
+"short": "Los Alamos National Laboratory",
+"sources": [
+{
+"date": "2024-11-18",
+"name": "Los Alamos National Laboratory - FOIA requests at the National Security Research Center",
+"url": "https://www.lanl.gov/media/publications/the-vault/1124-foia-requests-at-the-national-security-research-center"
+},
+{
+"date": "2026-07-10",
+"name": "Newsweek - UFO Files Reveal 1949 Los Alamos 'Green Fireball' Mystery",
+"url": "https://www.newsweek.com/ufo-files-1949-los-alamos-green-fireball-mystery-declassified-department-of-war-12181696"
+},
+{
+"date": "2026-04-25",
+"name": "New York Post - Trove of leaked documents show US lab where two missing scientists worked studied UFOs",
+"url": "https://nypost.com/2026/04/25/us-news/trove-of-leaked-documents-show-us-lab-where-two-missing-scientists-worked-studied-ufos-film/"
+},
+{
+"date": "2026-08-12",
+"name": "NSF NCSES - Master Government List of Federally Funded R&D Centers",
+"url": "https://ncses.nsf.gov/resource/master-gov-lists-ffrdc"
+}
+],
+"sub": "DOE FFRDC administered by Triad National Security, LLC since 9 June 2018; Los Alamos, NM",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 261 of 1027, score 39). 4 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A3/D1.",
+"timeline": [
+{
+"date": "1949-12-01",
+"id": "tl-ffrdc-1949-twinkle",
+"label": "Project Twinkle established",
+"precision": "month",
+"strand": "program",
+"text": "A network of green fireball observation and photographic stations is stood up over New Mexico. It is never fully implemented and produces no conclusive result.",
+"tier": "B"
+},
+{
+"date": "2024-11-18",
+"id": "tl-ffrdc-2024-lanl-vault",
+"label": "LANL publicly confirms the 1949 conference minutes",
+"precision": "day",
+"strand": "program",
+"text": "Los Alamos National Laboratory publishes that its National Security Research Center holds the minutes of the 16 February 1949 green fireballs conference and receives several UFO-related FOIA requests a year.",
+"tier": "A"
+},
+{
+"date": "2026-04-25",
+"id": "tl-ffrdc-2026-corbell",
+"label": "'Sleeping Dog' LANL document trove reported",
+"precision": "day",
+"strand": "witness",
+"text": "Jeremy Corbell states he received a trove of documents from the son of a deceased former Los Alamos cybersecurity chief, including material said to concern a secret 1991 meeting at the laboratory.",
+"tier": "B"
+}
+]
+}

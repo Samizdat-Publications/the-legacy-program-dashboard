@@ -1,0 +1,127 @@
+{
+"A": 0,
+"C": 3,
+"D": 3,
+"affiliations": [
+"US Navy, flight surgeon",
+"Montana Army National Guard, flight surgeon (deployed to Iraq)",
+"Fund for UFO Research (affiant)"
+],
+"age": 76,
+"band": null,
+"chronology": [
+{
+"date": "1947-07",
+"event": "As an eleven-year-old, shown debris by his father on the floor of the family home in Roswell",
+"precision": "month"
+},
+{
+"date": "1991",
+"event": "Account published in Randle and Schmitt, 'UFO Crash at Roswell'",
+"precision": "year"
+},
+{
+"date": "2001-05-09",
+"event": "Appears at the Disclosure Project National Press Club event in Washington DC",
+"precision": "day"
+},
+{
+"date": "2009",
+"event": "Publishes 'The Roswell Legacy'",
+"precision": "year"
+},
+{
+"date": "2013-08-24",
+"event": "Dies",
+"precision": "day"
+}
+],
+"claims": [
+{
+"source": "Marcel Jr. affidavit for the Fund for UFO Research; Disclosure Project testimony, 9 May 2001; 'The Roswell Legacy' (2009)",
+"text": "Marcel Jr. testified under oath by affidavit and repeatedly on the record that in July 1947 his father showed him debris including foil-like metal that resumed its shape and an I-beam bearing embossed purple-violet symbols.",
+"tier": 2
+},
+{
+"source": "Comparison of his 1978-2013 statements against the expanding Roswell literature",
+"text": "Marcel Jr. is the strongest single Roswell witness precisely because his claim is narrow. He never claimed to have seen a craft or a body, and never expanded his account when the surrounding literature did. Reasoning: witness accounts that grow in step with the published literature are contaminated by it; his did not.",
+"tier": 3
+}
+],
+"cls": "person",
+"cluster": "witness",
+"conflicts": [
+"The Air Force position is that what he saw was Project Mogul balloon train material - specifically reinforced foil-and-balsa ML-307B/AP radar targets bearing pinkish-purple flowered tape reinforcement, which the 1995 report advances as the source of the 'symbols'."
+],
+"connections": [
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "1947-07",
+"dateStart": "1947-07",
+"direction": "in",
+"edgeLabel": "Father showed son the debris in July 1947",
+"id": "jesse-marcel",
+"l0": false,
+"label": "Jesse A. Marcel Sr.",
+"note": "Marcel Jr. testified by affidavit and repeatedly on the record that his father woke him at night and laid the recovered material out on the kitchen floor.",
+"sources": [
+{
+"date": "1997-01-01",
+"name": "The Roswell Report: Case Closed (1997)",
+"url": "https://archive.org/details/AFD-101027-030"
+}
+],
+"tier": "A",
+"type": "witness-chain"
+}
+],
+"date": "2013-08-24",
+"dateEnd": null,
+"dateStart": "2013-08-24",
+"deg": 1,
+"denials": [],
+"domains": [
+"w2-retrieval-literature"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "2",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "jesse-marcel-jr",
+"instId": null,
+"l0": false,
+"label": "Dr. Jesse A. Marcel Jr.",
+"loc": "Helena, MT",
+"locId": "l-roswell",
+"members": null,
+"narrative": "Jesse A. Marcel Jr. was eleven years old in July 1947 when his father woke him in the middle of the night at their Roswell house and spread pieces of the recovered debris on the kitchen floor. He spent his adult life as a physician - an ear, nose and throat surgeon, a Navy flight surgeon and later an Army National Guard flight surgeon who deployed to Iraq in his late sixties - and he gave the same account of that night, in substantially the same words, for over thirty years: metallic foil that would not stay creased, small structural beams, and on one beam a row of embossed symbols he consistently described as purple-violet geometric figures resembling nothing he could read. He signed a sworn affidavit for the Fund for UFO Research in the early 1990s, testified in the 2001 Disclosure Project event, submitted to hypnosis to recover further detail, and co-wrote 'The Roswell Legacy' (2009) with Linda Marcel. His evidentiary value is specific and limited, and stating the limit is what makes it usable: he is a first-hand witness to material in his father's hands, not to a craft, not to bodies, and not to a recovery operation. He is also the field's most stable witness - the standard criticism of Roswell testimony is drift and elaboration, and Marcel Jr.'s account demonstrably did neither across decades of retelling under adversarial questioning.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Dr. Jesse A. Marcel Jr.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Roswell incident - Wikipedia (witness chain)",
+"url": "https://en.wikipedia.org/wiki/Roswell_incident"
+},
+{
+"date": "1997-01-01",
+"name": "The Roswell Report: Case Closed (1997), HQ USAF/GPO - full text",
+"url": "https://archive.org/details/AFD-101027-030"
+}
+],
+"status": "dead",
+"sub": "Physician; USN/Army flight surgeon; son of Maj. Jesse Marcel Sr.; child witness to the debris",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 603 of 1027, score 25). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C3/A0/D3.",
+"timeline": [],
+"unexplainedResidual": null,
+"unverified": [
+"His exact date of birth and the precise date of his FUFOR affidavit."
+]
+}

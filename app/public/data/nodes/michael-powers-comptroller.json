@@ -1,0 +1,128 @@
+{
+"A": 2,
+"C": 1,
+"D": 1,
+"affiliations": [
+"dod"
+],
+"age": null,
+"band": null,
+"chronology": [],
+"claims": [
+{
+"source": "OSD Historical Office, Key Officials September 1947-July 2026 (7 July 2026), https://history.defense.gov/Portals/70/Documents/key_officials/KeyOfficials-2026-07-07.pdf",
+"text": "The OSD Historical Office's Key Officials list of 7 July 2026 records Michael Powers as Acting Under Secretary of War (Comptroller)/Chief Financial Officer from 20 May 2026 to present, succeeding Jules W. Hurst III, who performed the duties of the office from 5 September 2025 to 20 May 2026.",
+"tier": 1
+},
+{
+"source": "OSD Historical Office, Key Officials September 1947-July 2026 (7 July 2026), https://history.defense.gov/Portals/70/Documents/key_officials/KeyOfficials-2026-07-07.pdf",
+"text": "The same list records Powers as Deputy Under Secretary of Defense (Comptroller) from 23 December 2025 to present, so he holds the deputy office and the acting principal office at once.",
+"tier": 1
+},
+{
+"source": "comptroller.war.gov leadership page and https://www.war.gov/About/Biographies/Biography/Article/4503523/michael-t-powers/, both read 22 August 2026, against the Key Officials list of 7 July 2026",
+"text": "Two Department pages disagree on who holds the office. The Department of War comptroller site's leadership page names Jules W. Hurst III as Under Secretary of War (Comptroller)/CFO, while war.gov's own biography of Powers opens 'The Honorable Michael Powers currently serves as the Acting Under Secretary of War (Comptroller) and Chief Financial Officer (CFO).' The Historical Office list dates the handover to 20 May 2026, which makes the comptroller site's leadership page the stale one.",
+"tier": 1
+},
+{
+"source": "https://comptroller.war.gov/",
+"text": "Michael Powers is identified on the Department of War Comptroller site as Acting Under Secretary of War (Comptroller)/Chief Financial Officer, a CPA, Certified Defense Financial Manager and DoD Financial Management Certification Level 3 holder.",
+"tier": 1
+},
+{
+"source": "https://files.fasab.gov/pdffiles/handbook_sffas_56.pdf",
+"text": "The Department of Defense identified the need for the standard that became SFFAS 56 in August 2016.",
+"tier": 1
+}
+],
+"cls": "person",
+"cluster": "other",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 3,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "The Comptroller executes the annex",
+"id": "classified-annex",
+"l0": true,
+"label": "The Classified Annex (NDAA and Defense Appropriations)",
+"note": "The Under Secretary (Comptroller)/CFO is the official responsible for execution of appropriated funds including those directed by the classified annex tables under section 8006(a). Reasoned inference from the office's statutory functions; no document names the incumbent in connection with the annex.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Department of War Comptroller; DoD Appropriations Act 2026 Sec. 8006",
+"url": "https://comptroller.war.gov/"
+}
+],
+"tier": "A",
+"type": "institutional"
+}
+],
+"date": "2026-05-20",
+"dateEnd": null,
+"dateStart": "2026-05-20",
+"deg": 1,
+"denials": [],
+"domains": [
+"_rs-archive-mirror",
+"w2-black-budget"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "michael-powers-comptroller",
+"instId": "dod",
+"l0": false,
+"label": "Michael Powers",
+"loc": "The Pentagon, Arlington, Virginia",
+"locId": "l-pentagon",
+"members": null,
+"narrative": "Michael Powers is identified on the Comptroller's own site as Acting Under Secretary of War (Comptroller) and Chief Financial Officer, a Certified Public Accountant, Certified Defense Financial Manager and holder of DoD Financial Management Certification Level 3. He is the official who signs the Agency Financial Report, who owns the Financial Improvement and Audit Remediation plan, and who would be the executive-branch counterpart in any inquiry into how classified annex funds are executed. The Comptroller's office is also the office that identified the need for what became SFFAS 56 - the Department of Defense raised the requirement with FASAB in August 2016 - although the individuals involved are not named in the standard. The Comptroller is, in the end, the person who knows where the money is; every question on this board about a programme that does not appear as a budget line terminates in that office or in the Special Access Program Central Office.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Michael Powers",
+"sources": [
+{
+"date": "2026-07-07",
+"name": "OSD Historical Office, 'Department of Defense Key Officials, September 1947 - July 2026' (7 July 2026), Under Secretaries of Defense (Comptroller)",
+"url": "https://history.defense.gov/Portals/70/Documents/key_officials/KeyOfficials-2026-07-07.pdf"
+},
+{
+"date": "2026-08-22",
+"name": "Department of War, official biography of Michael T. Powers",
+"url": "https://www.war.gov/About/Biographies/Biography/Article/4503523/michael-t-powers/"
+},
+{
+"date": "2026-08-11",
+"name": "Archived: Department of War Comptroller (Wayback 2026-08-11)",
+"url": "https://web.archive.org/web/20260811040145/https://comptroller.war.gov/"
+},
+{
+"date": "2026-08-12",
+"name": "Department of War Comptroller",
+"url": "https://comptroller.war.gov/"
+},
+{
+"date": "2018-10-04",
+"name": "SFFAS 56",
+"url": "https://files.fasab.gov/pdffiles/handbook_sffas_56.pdf"
+}
+],
+"status": "active",
+"sub": "Acting Under Secretary of War (Comptroller)/Chief Financial Officer",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 513 of 1027, score 28). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D1.",
+"timeline": [],
+"unexplainedResidual": null,
+"unverified": [
+"The date Powers began serving in the acting capacity, and the identity of the Senate-confirmed nominee if any."
+]
+}

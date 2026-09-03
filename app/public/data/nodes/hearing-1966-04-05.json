@@ -1,0 +1,149 @@
+{
+"A": 1,
+"C": 0,
+"D": 2,
+"band": null,
+"claims": [
+{
+"source": "US House Committee on Armed Services, 'Unidentified Flying Objects', Hearing No. 55, 89th Congress, 5 April 1966",
+"text": "The House Committee on Armed Services held a hearing on unidentified flying objects on 5 April 1966 (Hearing No. 55, 89th Congress) following Gerald Ford's call for an inquiry.",
+"tier": 2
+},
+{
+"source": "'Scientific Study of Unidentified Flying Objects', University of Colorado, 1968",
+"text": "The Air Force contracted the University of Colorado UFO study six months later, on 6 October 1966, under contract 44620-67-C-0035.",
+"tier": 1
+},
+{
+"source": "US House Committee on Science and Astronautics, 90th Congress, 2nd Session, 29 July 1968",
+"text": "A second congressional proceeding, the House Committee on Science and Astronautics 'Symposium on Unidentified Flying Objects', was held on 29 July 1968 with witnesses including J. Allen Hynek, James E. McDonald and Carl Sagan.",
+"tier": 1
+},
+{
+"source": "Inference from the legislative record between 1966 and Public Law 118-31 sections 1841-1843",
+"text": "Neither 1966 nor 1968 produced any statute, records requirement or continuing oversight mechanism; the first binding UAP records statute did not arrive until the FY2024 NDAA, fifty-eight years later.",
+"tier": 3
+}
+],
+"cls": "event",
+"cluster": "oversight",
+"connections": [
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": "1966",
+"dateStart": "1966",
+"direction": "out",
+"edgeLabel": "Congressional pressure produced a contracted study, not oversight",
+"id": "condon-committee",
+"l0": true,
+"label": "University of Colorado UFO Project (Condon Committee)",
+"note": "Six months after the hearing the Air Force let contract 44620-67-C-0035 to the University of Colorado — pressure in, study out, closure following.",
+"sources": [
+{
+"date": "1968-11-01",
+"name": "Scientific Study of Unidentified Flying Objects (Condon Report)",
+"url": "https://files.ncas.org/condon/"
+}
+],
+"tier": "A",
+"type": "programmatic"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "1966",
+"dateStart": "1966",
+"direction": "in",
+"edgeLabel": "Ford forced the first congressional hearing on the subject",
+"id": "gerald-ford",
+"l0": false,
+"label": "Gerald R. Ford",
+"note": "The House Minority Leader wrote to committee chairmen in late March 1966; the House Armed Services Committee held its one-day hearing on 5 April 1966, nineteen years into official investigation.",
+"sources": [
+{
+"date": "1968-11-01",
+"name": "Scientific Study of Unidentified Flying Objects (Condon Report)",
+"url": "https://files.ncas.org/condon/"
+},
+{
+"date": "2026-08-12",
+"name": "USAF Fact Sheet: Project Blue Book",
+"url": "https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/"
+}
+],
+"tier": "C",
+"type": "legislative"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "1966",
+"dateStart": "1966",
+"direction": "in",
+"edgeLabel": "The swamp gas episode triggered the 1966 hearing",
+"id": "j-allen-hynek",
+"l0": false,
+"label": "J. Allen Hynek",
+"note": "Hynek's March 1966 Michigan press conference explanation was reported as a blanket dismissal, produced a public backlash, and led directly to Gerald Ford's demand for congressional hearings.",
+"sources": [
+{
+"date": "1968-11-01",
+"name": "Scientific Study of Unidentified Flying Objects (Condon Report)",
+"url": "https://files.ncas.org/condon/"
+}
+],
+"tier": "B",
+"type": "witness-chain"
+}
+],
+"coords": null,
+"dateEnd": "1966",
+"dateStart": "1966",
+"deg": 3,
+"denials": [],
+"desc": "The first congressional hearing on unidentified flying objects, held on 5 April 1966 by the House Committee on Armed Services after House Minority Leader Gerald Ford demanded an inquiry in response to the March 1966 Michigan sightings and the swamp gas explanation offered by the Air Force's own consultant. It lasted a single day. Secretary of the Air Force Harold Brown, Blue Book director Maj. Hector Quintanilla and J. Allen Hynek appeared. Nineteen years of official investigation received one day of legislative attention, and the concrete result was not oversight but outsourcing: within six months the Air Force had contracted the University of Colorado study, whose coordinator had already written in August 1966 that the trick would be to appear objective to the public while presenting the image of nonbelievers to scientists. Two years later a second and more substantial hearing — the House Committee on Science and Astronautics symposium of 29 July 1968, with McDonald, Hynek, Sagan and others — produced a serious scientific record and no legislative consequence at all. The 1966 hearing is the template: pressure in, study out, closure follows.",
+"domains": [
+"history-1940s-1960s"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "hearing-1966-04-05",
+"l0": false,
+"label": "House Armed Services Committee UFO Hearing",
+"locLabel": null,
+"members": null,
+"short": "House Armed Services Committee UFO Hearing",
+"sources": [
+{
+"date": "1968-07-29",
+"name": "House Committee on Science and Astronautics, Symposium on Unidentified Flying Objects, 29 July 1968 (full transcript PDF)",
+"url": "http://nicap.org/books/1968Sym/1968_UFO_Symposium.pdf"
+},
+{
+"date": "1968-11-01",
+"name": "Scientific Study of Unidentified Flying Objects (the Condon Report), full text",
+"url": "https://files.ncas.org/condon/"
+}
+],
+"sub": "89th Congress, Hearing No. 55, 5 April 1966",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 619 of 1027, score 25). 3 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A1/D2.",
+"timeline": [
+{
+"date": "1966-04-05",
+"id": "tl-1966-04-05",
+"label": "First congressional hearing",
+"precision": "day",
+"strand": "oversight",
+"text": "After House Minority Leader Gerald Ford demands an inquiry, the House Armed Services Committee holds a one-day hearing on unidentified flying objects — the first in nineteen years of official investigation.",
+"tier": "B"
+}
+]
+}

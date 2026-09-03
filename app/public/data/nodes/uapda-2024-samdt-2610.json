@@ -1,0 +1,212 @@
+{
+"A": 2,
+"C": 2,
+"D": 3,
+"band": null,
+"claims": [
+{
+"source": "Congressional Record, 11 July 2024, text of SA 2610, GPO",
+"text": "S.Amdt. 2610 was submitted 11 July 2024 by 'Mr. ROUNDS (for himself and Mr. Schumer)' to S. 4638 and 'was ordered to lie on the table.'",
+"tier": 1
+},
+{
+"source": "Congressional Record, 11 July 2024, SA 2610, Sec. __10(a), GPO",
+"text": "The 2024 text retains the eminent domain command verbatim at Sec. __10(a).",
+"tier": 1
+},
+{
+"source": "P.L. 118-159 full text, GPO",
+"text": "P.L. 118-159, the FY2025 NDAA enacted 23 December 2024, contains no UAP disclosure division; its only UAP provisions are Secs. 6801 and 6802 of the Intelligence Authorization Act for FY2025.",
+"tier": 1
+},
+{
+"source": "Comparison of the SA 797 cosponsor record with the SA 2610 caption",
+"text": "Only two senators' names appear on the 2024 refiling, against six on the 2023 original; Rubio, Gillibrand, Young and Heinrich are not on it.",
+"tier": 1
+}
+],
+"cls": "legislation",
+"cluster": "oversight",
+"connections": [
+{
+"claimTier": 1,
+"cls": "legislation",
+"dateEnd": "2024",
+"dateStart": "2024",
+"direction": "out",
+"edgeLabel": "Never called up; FY2025 enacted with no disclosure regime",
+"id": "iaa-fy2025-title-lxviii",
+"l0": false,
+"label": "IAA FY2025 Title LXVIII — Secs. 6801-6802 (P.L. 118-159)",
+"note": "The amendment was 'ordered to lie on the table' and received no vote; P.L. 118-159's only UAP content is a GAO review and a sunset on audit briefings.",
+"sources": [
+{
+"date": "2024-07-11",
+"name": "Congressional Record, 11 July 2024 — SA 2610",
+"url": "https://www.govinfo.gov/content/pkg/CREC-2024-07-11/html/CREC-2024-07-11-pt1-PgS4577.htm"
+},
+{
+"date": "2024-12-23",
+"name": "P.L. 118-159 — GPO",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-118publ159/html/PLAW-118publ159.htm"
+}
+],
+"tier": "C",
+"type": "denial"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "2025",
+"dateStart": "2024",
+"direction": "in",
+"edgeLabel": "Absent from the 2024 refiling; left the Senate January 2025",
+"id": "marco-rubio",
+"l0": false,
+"label": "Marco Rubio",
+"note": "The 2024 amendment carries only Rounds and Schumer; Rubio, Gillibrand, Young and Heinrich are not on it, and Rubio left the Senate the following January.",
+"sources": [
+{
+"date": "2023-07-13",
+"name": "Congress.gov — S.Amdt. 797",
+"url": "https://www.congress.gov/amendment/118th-congress/senate-amendment/797"
+}
+],
+"tier": "B",
+"type": "temporal"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "2024",
+"dateStart": "2024",
+"direction": "in",
+"edgeLabel": "Lead sponsor of the 2024 refiling",
+"id": "mike-rounds",
+"l0": false,
+"label": "Mike Rounds",
+"note": "S.Amdt. 2610 was submitted 11 July 2024 by 'Mr. ROUNDS (for himself and Mr. Schumer)' with the full text and the eminent domain clause intact.",
+"sources": [
+{
+"date": "2024-07-11",
+"name": "Congressional Record, 11 July 2024 — SA 2610",
+"url": "https://www.govinfo.gov/content/pkg/CREC-2024-07-11/html/CREC-2024-07-11-pt1-PgS4577.htm"
+},
+{
+"date": "2024-07-11",
+"name": "Congress.gov — S.Amdt. 2610",
+"url": "https://www.congress.gov/amendment/118th-congress/senate-amendment/2610"
+}
+],
+"tier": "B",
+"type": "legislative"
+},
+{
+"claimTier": 1,
+"cls": "legislation",
+"dateEnd": "2024",
+"dateStart": "2024",
+"direction": "out",
+"edgeLabel": "Verbatim refiling of the 2023 text",
+"id": "uapda-2023",
+"l0": true,
+"label": "UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)",
+"note": "The 2024 amendment reproduces the findings, definitions, Review Board, Controlled Disclosure Campaign Plan and eminent domain command without softening.",
+"sources": [
+{
+"date": "2024-07-11",
+"name": "Congressional Record, 11 July 2024 — SA 2610",
+"url": "https://www.govinfo.gov/content/pkg/CREC-2024-07-11/html/CREC-2024-07-11-pt1-PgS4577.htm"
+},
+{
+"date": "2023-07-27",
+"name": "S. 2226 (Engrossed in Senate) — GPO",
+"url": "https://www.govinfo.gov/content/pkg/BILLS-118s2226es/html/BILLS-118s2226es.htm"
+}
+],
+"tier": "A",
+"type": "temporal"
+}
+],
+"coords": null,
+"dateEnd": "2024",
+"dateStart": "2024",
+"deg": 4,
+"denials": [
+{
+"by": {
+"id": "uapda-2024-samdt-2610",
+"label": "UAP Disclosure Act of 2024 (S.Amdt. 2610 to S. 4638)"
+},
+"claimTier": 1,
+"denialKind": "undirected",
+"label": "Never called up; FY2025 enacted with no disclosure regime",
+"note": "The amendment was 'ordered to lie on the table' and received no vote; P.L. 118-159's only UAP content is a GAO review and a sunset on audit briefings.",
+"of": {
+"id": "iaa-fy2025-title-lxviii",
+"label": "IAA FY2025 Title LXVIII — Secs. 6801-6802 (P.L. 118-159)"
+},
+"sources": [
+{
+"date": "2024-07-11",
+"name": "Congressional Record, 11 July 2024 — SA 2610",
+"url": "https://www.govinfo.gov/content/pkg/CREC-2024-07-11/html/CREC-2024-07-11-pt1-PgS4577.htm"
+},
+{
+"date": "2024-12-23",
+"name": "P.L. 118-159 — GPO",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-118publ159/html/PLAW-118publ159.htm"
+}
+]
+}
+],
+"desc": "The 2024 refiling proves the sponsors did not accept the 2023 outcome and shows exactly how the Senate disposes of this subject when it does not want to vote on it. On 11 July 2024 Senator Rounds, for himself and Senator Schumer, submitted S.Amdt. 2610 to S. 4638, the FY2025 NDAA. The printed text in the Congressional Record opens 'DIVISION _--UNIDENTIFIED ANOMALOUS PHENOMENA DISCLOSURE' and is the complete Act: the same findings, the same definitions of non-human intelligence and legacy program, the same nine-member Review Board, the same Controlled Disclosure Campaign Plan, and at Sec. __10(a) the identical eminent domain sentence. Nothing had been softened. The record entry ends 'which was ordered to lie on the table' — the disposition for an amendment that is filed but never called up, requiring no vote, no debate and no member to be recorded against it. The FY2025 NDAA as enacted, P.L. 118-159 of 23 December 2024, contains no UAP disclosure division; its only UAP content is Title LXVIII of the Intelligence Authorization Act, two sections directing a GAO review of AARO and sunsetting the GAO audit requirements on the Historical Record Report. The Act that a chamber of Congress had passed sixteen months earlier received no floor consideration at all.",
+"domains": [
+"congress-senate-legislation"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "uapda-2024-samdt-2610",
+"l0": false,
+"label": "UAP Disclosure Act of 2024 (S.Amdt. 2610 to S. 4638)",
+"locLabel": null,
+"members": null,
+"short": "UAP Disclosure Act of 2024 (S.Amdt. 2610 to S. 4638)",
+"sources": [
+{
+"date": "2024-07-11",
+"name": "Congressional Record, 11 July 2024 — SA 2610",
+"url": "https://www.govinfo.gov/content/pkg/CREC-2024-07-11/html/CREC-2024-07-11-pt1-PgS4577.htm"
+},
+{
+"date": "2024-07-11",
+"name": "Congress.gov — S.Amdt. 2610",
+"url": "https://www.congress.gov/amendment/118th-congress/senate-amendment/2610"
+},
+{
+"date": "2024-12-23",
+"name": "P.L. 118-159, FY2025 NDAA — GPO",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-118publ159/html/PLAW-118publ159.htm"
+}
+],
+"sub": "Filed 11 July 2024; ordered to lie on the table; never called up",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 245 of 1027, score 40). 4 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C2/A2/D3.",
+"timeline": [
+{
+"date": "2024-07-11",
+"id": "cl-2024-07-11",
+"label": "UAPDA refiled as SA 2610",
+"precision": "day",
+"strand": "program",
+"text": "Rounds, for himself and Schumer, refiles the complete Act against the FY2025 NDAA with the eminent domain command unchanged. It is ordered to lie on the table and never called up.",
+"tier": "A"
+}
+]
+}

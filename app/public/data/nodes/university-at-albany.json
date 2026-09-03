@@ -1,0 +1,390 @@
+{
+"A": 1,
+"C": 0,
+"D": 2,
+"band": "funding",
+"claims": [
+{
+"source": "Published biography",
+"text": "Knuth joined the University at Albany in 2005 and became a full professor in 2023; he has been Editor-in-Chief of Entropy since 2012.",
+"tier": 1
+},
+{
+"source": "Progress in Aerospace Sciences, DOI 10.1016/j.paerosci.2025.101099",
+"text": "Szydagis and Knuth co-authored the 2025 UAPx field-expedition paper in Progress in Aerospace Sciences.",
+"tier": 1
+},
+{
+"source": "UAlbany Department of Physics faculty page, retrieved 21 August 2026",
+"text": "Knuth joined the University at Albany in 2005 (Assistant Professor 2005-2009, Associate 2009-2023, Professor 2023-present) and has been Editor-in-Chief of Entropy since 2012.",
+"tier": 1
+},
+{
+"source": "UAlbany Department of Physics faculty page, retrieved 21 August 2026",
+"text": "Szydagis's departmental research interests, as published by the university, include 'general detector development for rare event searches, neutron activation, and Unidentified Anomalous Phenomena'.",
+"tier": 1
+},
+{
+"source": "UAlbany News Center, 4 June 2025",
+"text": "UAlbany's news office: 'UAlbany authors Matthew Szydagis, Kevin Knuth and Cecilia Levy, along with Ben Kugielsky of UAPx, a non-profit scientific research organization, collected observable-light and infrared images during a field expedition in 2021 to Laguna Beach, California.'",
+"tier": 1
+},
+{
+"source": "UAlbany News Center, 4 June 2025",
+"text": "Funding for the California field work came from Caroline Cory of OMnium Media, to produce the documentary 'A Tear in the Sky' (2022) - not from the University.",
+"tier": 1
+}
+],
+"cls": "institution",
+"cluster": "research",
+"connections": [
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "Employs Levy; Associate Professor of Physics and the third UAlbany author on the 2025 UAPx paper",
+"id": "cecilia-levy",
+"l0": false,
+"label": "Cecilia Levy",
+"note": "Levy is an LZ dark-matter physicist in the same department and co-developer, with Szydagis, of the Snowball Chamber supercooled-water detector. The University's own news office names her as one of three 'UAlbany authors' on the 2025 Progress in Aerospace Sciences field-expedition paper. Her faculty page does not itself list UAP among her research interests, which is worth recording rather than smoothing over: unlike Szydagis, her UAP involvement appears in the publication record and the university press office but not in her stated departmental research profile.",
+"sources": [
+{
+"date": "2026-08-21",
+"name": "University at Albany, Department of Physics - Cecilia Levy faculty page",
+"url": "https://www.albany.edu/physics/faculty/cecilia-levy"
+},
+{
+"date": "2025-06-04",
+"name": "UAlbany News Center, 'UAlbany Physicists Test Scientific Approach to UAP Research'",
+"url": "https://www.albany.edu/news-center/news/2025-ualbany-physicists-test-scientific-approach-uap-research"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "2005",
+"direction": "out",
+"edgeLabel": "Employs Knuth; Professor of Physics since 2023, on the faculty since 2005",
+"id": "kevin-knuth",
+"l0": false,
+"label": "Kevin H. Knuth",
+"note": "The UAlbany Department of Physics faculty page lists Knuth's appointments as Assistant Professor 2005-2009, Associate Professor 2009-2023, Professor 2023-present, immediately following four years as a GS-14 Research Scientist in the Intelligent Systems Division at NASA Ames (2001-2005). The same page records him as Editor-in-Chief of Entropy (MDPI) since 2012, which is the journal that published the 2019 Nimitz kinematics paper. This is the primary reason the institution is on the board: it is the salaried academic post from which the peer-reviewed UAP kinematics and field-instrumentation literature was produced.",
+"sources": [
+{
+"date": "2026-08-21",
+"name": "University at Albany, Department of Physics - Kevin Knuth faculty page",
+"url": "https://www.albany.edu/physics/faculty/kevin-knuth"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "Employs Szydagis; Associate Professor of Physics, with UAP listed as a departmental research interest",
+"id": "matthew-szydagis",
+"l0": false,
+"label": "Matthew Szydagis",
+"note": "The department's own faculty page for Szydagis lists his research interests as 'Experimental astroparticle physics, in particular direct detection of dark matter WIMPs (Weakly Interacting Massive Particles) and general detector development for rare event searches, neutron activation, and Unidentified Anomalous Phenomena'. That the phrase appears on a university department page, not a personal site, is the load-bearing fact: UAP is here a declared institutional research interest rather than a private hobby. Szydagis created the Noble Element Simulation Technique (NEST) in 2011 and works on LZ at the Sanford Underground Research Facility.",
+"sources": [
+{
+"date": "2026-08-21",
+"name": "University at Albany, Department of Physics - Matthew Szydagis faculty page",
+"url": "https://www.albany.edu/physics/faculty/matthew-szydagis"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": "2025-06",
+"direction": "out",
+"edgeLabel": "Knuth lead-authored the 34-author UAP review from his UAlbany post; Szydagis co-authored",
+"id": "paper-knuth-2025-new-science",
+"l0": false,
+"label": "Knuth et al. (2025), 'The New Science of Unidentified Aerospace-Undersea Phenomena (UAP)', Progress in Aerospace Sciences",
+"note": "Published in the same Progress in Aerospace Sciences special edition as the UAPx field results. The UAlbany release states 'Knuth is lead author of the article, which was co-written by Szydagis and more than 30 other researchers from around the world'; SCU's June 2025 press release gives the count as thirty-four authors and the DOI as 10.1016/j.paerosci.2025.101097.",
+"sources": [
+{
+"date": "2025-06-04",
+"name": "UAlbany News Center, 'UAlbany Physicists Test Scientific Approach to UAP Research'",
+"url": "https://www.albany.edu/news-center/news/2025-ualbany-physicists-test-scientific-approach-uap-research"
+},
+{
+"date": "2025-06-27",
+"name": "SCU press release, 'Scientific Coalition for UAP Studies honors Dr. Kevin Knuth with inaugural Distinguished Scholar Award'",
+"url": "https://www.explorescu.org/post/scientific-coalition-for-uap-studies-honors-dr-kevin-knuth-with-inaugural-distinguished-scholar-awa"
+}
+],
+"tier": "C",
+"type": "research"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": "2025-06-02",
+"direction": "out",
+"edgeLabel": "Three of four authors carry the UAlbany affiliation; the University publicised the result under its own name",
+"id": "paper-uapx-2025",
+"l0": false,
+"label": "Szydagis, Knuth, Kugielsky & Levy (2025), Progress in Aerospace Sciences 156:101099",
+"note": "The UAlbany News Center release of 4 June 2025 states: 'Utilizing a diverse set of devices to capture different types of data on many channels, UAlbany authors Matthew Szydagis, Kevin Knuth and Cecilia Levy, along with Ben Kugielsky of UAPx, a non-profit scientific research organization, collected observable-light and infrared images during a field expedition in 2021 to Laguna Beach, California.' The release also records the outcome honestly - 'the UAlbany research team succeeded in plausibly explaining all but one of the potential anomalies detected' - and quotes Szydagis on the single unresolved ambiguity. A state university issuing a press release claiming a UAP field-instrumentation result as institutional output is the substantive reason this node belongs on the board.",
+"sources": [
+{
+"date": "2025-06-04",
+"name": "UAlbany News Center, 'UAlbany Physicists Test Scientific Approach to UAP Research'",
+"url": "https://www.albany.edu/news-center/news/2025-ualbany-physicists-test-scientific-approach-uap-research"
+},
+{
+"date": "2025-06-02",
+"name": "Szydagis, Knuth, Kugielsky & Levy, 'Initial results from the first field expedition of UAPx to study unidentified anomalous phenomena', Progress in Aerospace Sciences 156:101099",
+"url": "https://doi.org/10.1016/j.paerosci.2025.101099"
+}
+],
+"tier": "C",
+"type": "research"
+},
+{
+"claimTier": 2,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2021",
+"direction": "out",
+"edgeLabel": "Academic base of UAPx's science leadership - NOT a host, sponsor or funder",
+"id": "uapx",
+"l0": false,
+"label": "UAPx",
+"note": "The distinction matters and is drawn by the University itself. UAlbany's release separates 'UAlbany authors Matthew Szydagis, Kevin Knuth and Cecilia Levy' from 'Ben Kugielsky of UAPx, a non-profit scientific research organization'. UAPx is an independent 501(c)(3); the University is where its two lead scientists hold their chairs, not its institutional home. This is the opposite of the harvard-cfa / galileo-project relationship already on the board, where the CfA is the host institution. Funding for the 2021 California field work came from Caroline Cory of OMnium Media, to produce the documentary 'A Tear in the Sky' (2022) - not from UAlbany.",
+"sources": [
+{
+"date": "2025-06-04",
+"name": "UAlbany News Center, 'UAlbany Physicists Test Scientific Approach to UAP Research'",
+"url": "https://www.albany.edu/news-center/news/2025-ualbany-physicists-test-scientific-approach-uap-research"
+},
+{
+"date": "2026-08-21",
+"name": "UAPx - Dr. Kevin Knuth biography page",
+"url": "https://www.uapexpedition.org/drkevinknuth"
+}
+],
+"tier": "C",
+"type": "research"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "2005",
+"deg": 6,
+"denials": [],
+"desc": "CORRECTED NODE - description updated to add Cecilia Levy, the second 2025 paper, and the departmental research-interest listing. The physics department at the University at Albany is, improbably, the most productive academic base in this field outside Stanford and Harvard. It employs Kevin Knuth - information physicist, former NASA Ames research scientist and Editor-in-Chief of Entropy since 2012, on the faculty since 2005 and a full professor since 2023 - along with Matthew Szydagis, a liquid-xenon dark-matter physicist who created the Noble Element Simulation Technique used across the direct-detection community, and Cecilia Levy, an LZ physicist and Szydagis's co-developer on the Snowball Chamber. What makes the institution more than an address is that the commitment is on the record in the department's own materials: Szydagis's faculty page lists 'Unidentified Anomalous Phenomena' among his research interests, and the University's news office published the June 2025 field results under its own masthead, naming the three as 'UAlbany authors' and reporting the honest outcome that the team 'succeeded in plausibly explaining all but one of the potential anomalies detected'. Two papers came out of the same Progress in Aerospace Sciences special edition: the UAPx field-expedition results and Knuth's 34-author review, 'The New Science of Unidentified Aerospace-Undersea Phenomena (UAP)'. Knuth also produced the 2019 Entropy kinematics paper on the Nimitz encounter, and in June 2025 received SCU's inaugural Distinguished Scholar Award. That a mid-sized state university supplies a meaningful fraction of the world's peer-reviewed UAP instrumentation output is a measure of how little institutional capacity exists. Note that UAlbany is not the host or funder of UAPx - the field work was funded by Caroline Cory of OMnium Media for the documentary 'A Tear in the Sky' (2022).",
+"domains": [
+"scientists-technical",
+"w11-final-unattached"
+],
+"dossier": {
+"claims": [
+{
+"source": "https://www.albany.edu/physics/faculty/matthew-szydagis (accessed 21 August 2026)",
+"text": "Matthew Szydagis's official University at Albany Department of Physics faculty page lists his research interests as \"Experimental astroparticle physics, in particular direct detection of dark matter WIMPs (Weakly Interacting Massive Particles) and general detector development for rare event searches, neutron activation, and Unidentified Anomalous Phenomena.\"",
+"tier": 1
+},
+{
+"source": "https://www.albany.edu/physics/faculty/kevin-knuth (Academic Appointments section, accessed 21 August 2026)",
+"text": "Kevin H. Knuth's UAlbany appointments are Assistant Professor of Physics 2005-2009, Associate Professor 2009-2023, and Professor 2023-present; immediately prior he was a Research Scientist GS-14 in the Intelligent Systems Division at NASA Ames Research Center, Moffett Field, California, from 2001 to 2005.",
+"tier": 1
+},
+{
+"source": "https://www.albany.edu/physics/faculty/kevin-knuth (Service & Outreach and Awards sections, accessed 21 August 2026)",
+"text": "Knuth has been Editor-in-Chief of the MDPI journal Entropy since 2012 and a member of its editorial board since 2010; he is also on the editorial board of Axioms and an elected Senior Member of IEEE (2008).",
+"tier": 1
+},
+{
+"source": "https://www.albany.edu/physics/faculty/kevin-knuth (Research Interests section, accessed 21 August 2026), compared against https://www.albany.edu/physics/faculty/matthew-szydagis",
+"text": "Knuth's own UAlbany faculty page does NOT list UAP among his research interests - it lists information physics, foundations of inference and quantum mechanics, astrophysics and exoplanet studies, Bayesian source separation, and cyberphysics and robotics. The declared institutional UAP research interest at UAlbany appears on Szydagis's departmental page, not Knuth's.",
+"tier": 1
+},
+{
+"source": "https://www.albany.edu/physics/faculty/cecilia-levy (accessed 21 August 2026)",
+"text": "Cecilia Levy is an Associate Professor in the UAlbany Department of Physics working on the LZ dark matter experiment and the Snowball Chamber supercooled-water detector; her faculty page does not list UAP among her research interests despite her co-authorship of the 2025 UAPx field-expedition paper.",
+"tier": 1
+},
+{
+"source": "https://www.albany.edu/news-center/news/2025-ualbany-physicists-test-scientific-approach-uap-research (4 June 2025); https://doi.org/10.1016/j.paerosci.2025.101099; https://doi.org/10.1016/j.paerosci.2025.101097",
+"text": "Two UAP papers with UAlbany authors appeared in a June 2025 special edition of Progress in Aerospace Sciences (Elsevier), published 2 June 2025: \"Initial results from the first field expedition of UAPx to study unidentified anomalous phenomena\" (DOI 10.1016/j.paerosci.2025.101099) and \"The new science of Unidentified Aerospace-Undersea Phenomena (UAP)\" (DOI 10.1016/j.paerosci.2025.101097).",
+"tier": 1
+},
+{
+"source": "SCU press release, 27 June 2025: https://www.explorescu.org/post/scientific-coalition-for-uap-studies-honors-dr-kevin-knuth-with-inaugural-distinguished-scholar-awa (\"brings together thirty-four authors\"); abstract at https://arxiv.org/abs/2502.06794",
+"text": "\"The new science of Unidentified Aerospace-Undersea Phenomena (UAP)\" has Knuth as lead author and thirty-four authors in total, and reviews approximately 20 historical government studies dating from 1933 to the present (Scandinavia, WWII, US, Canada, France, Russia, China), several historical private studies (France, UK, US), and current research efforts in Ireland, Germany, Norway, Sweden and the US.",
+"tier": 2
+},
+{
+"source": "Szydagis M., Knuth K.H., Kugielsky B., Levy C., \"Initial Results From the First Field Expedition of UAPx to Study Unidentified Anomalous Phenomena\", arXiv:2312.00558; published as Progress in Aerospace Sciences 156, 101099 (2025). https://arxiv.org/abs/2312.00558",
+"text": "The UAPx field-expedition paper reports approximately one hour of triggered visible/night-vision video, over 600 hours of untriggered far-infrared video, and 55 hours of background radiation measurement, with one unresolved candidate anomaly captured at approximately 4am Pacific Time on Friday 16 July 2021 - a dark spot in the visible/near-IR camera possibly coincident with ionizing radiation.",
+"tier": 1
+},
+{
+"source": "https://arxiv.org/abs/2312.00558; https://www.albany.edu/news-center/news/2025-ualbany-receives-major-gift-advance-scientific-research-unidentified-aerial; https://thedebrief.org/ualbany-project-x-how-a-team-of-new-york-physicists-is-launching-a-cutting-edge-investigation-into-aerial-mysteries/",
+"text": "The field expedition took place in July 2021 over the Catalina Channel, the same water as the 2004 USS Nimitz encounter. The arXiv version places it at \"Avalon, California, located on Catalina Island, and nearby\"; the UAlbany press releases describe it as a field expedition \"in Laguna Beach, California\"; Szydagis has called it \"the Catalina-Laguna mission\".",
+"tier": 1
+},
+{
+"source": "https://www.albany.edu/news-center/news/2025-ualbany-physicists-test-scientific-approach-uap-research (4 June 2025)",
+"text": "Szydagis developed a new analysis tool for the expedition data, the Custom Target Analysis Protocol (C-TAP), combining artificial intelligence with human verification for pixel-by-pixel frame-differencing analysis of infrared imagery, explicitly modelled on dark-matter search methodology; the study also made the first use of public National Weather Service Doppler radar data to corroborate observations from other instruments.",
+"tier": 1
+},
+{
+"source": "https://www.explorescu.org/post/scientific-coalition-for-uap-studies-honors-dr-kevin-knuth-with-inaugural-distinguished-scholar-awa (27 June 2025, updated 19 July 2025)",
+"text": "Knuth received the inaugural SCU Distinguished Scholar Award, presented at SCU's Sixth Annual Conference held 6-8 June 2025 at the Von Braun Center in Huntsville, Alabama. The SCU release identifies Rich Hoffman as the Executive Board member who presented the award and describes Knuth solely as a UAlbany professor and former NASA research scientist; it attributes no SCU board seat or officer post to him.",
+"tier": 2
+},
+{
+"source": "https://www.albany.edu/news-center/news/2025-ualbany-receives-major-gift-advance-scientific-research-unidentified-aerial (5 November 2025); https://thedebrief.org/ualbany-project-x-how-a-team-of-new-york-physicists-is-launching-a-cutting-edge-investigation-into-aerial-mysteries/ (2 December 2025)",
+"text": "On 5 November 2025 UAlbany announced an endowment gift from businessman Tony Gorman, formerly a principal owner of the Gorman Group, funding UAP research in perpetuity and launching UAlbany Project X (UAPx), which continues the mission of the non-profit UAPx co-founded by Navy veterans Kevin Day and Gary Voorhis. Knuth stated the gift funds the team for five years plus an endowment \"that funds us in perpetuity.\"",
+"tier": 1
+},
+{
+"source": "https://www.albany.edu/news-center/news/2025-ualbany-receives-major-gift-advance-scientific-research-unidentified-aerial (5 November 2025); https://thedebrief.org/ualbany-project-x-how-a-team-of-new-york-physicists-is-launching-a-cutting-edge-investigation-into-aerial-mysteries/",
+"text": "In the same 5 November 2025 release, Knuth stated: \"the physics department's UAP research base grows, with the recent addition of physicist Dr. Eric W. Davis as visiting adjunct faculty. Dr. Davis has cooperated with recent congressional UAP hearings.\" Szydagis separately confirmed that Davis works with the team on a volunteer basis as an adjunct researcher in an advisory position.",
+"tier": 1
+},
+{
+"source": "https://doi.org/10.3390/e21100939; https://scholarsarchive.library.albany.edu/physics_fac_scholar/58/",
+"text": "Knuth's 2019 paper \"Estimating Flight Characteristics of Anomalous Unidentified Aerial Vehicles\", published in Entropy (DOI 10.3390/e21100939), estimated minimum speeds and accelerations for documented UAP cases including the 2004 USS Nimitz encounter, and is archived in UAlbany's institutional repository.",
+"tier": 1
+}
+],
+"connections": [
+"Eric W. Davis - visiting adjunct faculty in the UAlbany Department of Physics as of November 2025, per the university's own release; a primary node elsewhere on this board for the legacy retrieval and reverse-engineering record and for congressional engagement.",
+"Scientific Coalition for UAP Studies (SCU) - collaborator on Knuth's 2019 Entropy paper, awarding body for his 2025 inaugural Distinguished Scholar Award, and source of a substantial bloc of co-authors on the 2025 Progress in Aerospace Sciences review.",
+"UAPx (the non-profit), co-founded by Navy veterans Kevin Day and Gary Voorhis - both connected to the 2004 Nimitz encounter; the non-profit's mission was absorbed into UAlbany Project X in November 2025.",
+"The 2004 USS Nimitz / Tic Tac encounter - the case anchoring Knuth's 2019 flight-characteristics paper and the geographic choice of the Catalina Channel for the 2021 expedition.",
+"Project Condign (doc-condign-vol3) - one of roughly twenty historical government studies catalogued in Knuth et al. 2025, DOI 10.1016/j.paerosci.2025.101097.",
+"Progress in Aerospace Sciences (Elsevier) - the June 2025 special edition also carried a study by Luc Dini, Geoffrey Mestchersky and Jacques Vallee estimating energy values for a historic UAP incident, placing Vallee in the same issue as the UAlbany group.",
+"LZ (LUX-ZEPLIN) at the Sanford Underground Research Facility and the NEST simulation package - the rare-event-search infrastructure and methodology transferred into the UAP work.",
+"Tony Gorman and the Gorman Group - private donor who endowed the programme, the funding mechanism that made a permanent university UAP research line possible without federal money.",
+"Caroline Cory / OMnium Media and the 2022 documentary \"A Tear in the Sky\" - private funder of the original 2021 fieldwork.",
+"Comparable academic efforts named by UAlbany itself: programmes in Sweden and Germany and the Galileo Project at Harvard.",
+"AARO (All-domain Anomaly Resolution Office) - the federal counterpart effort against which the UAlbany programme is repeatedly contrasted in coverage."
+],
+"denialPosture": "None from the institution. UAlbany publicises the work through its own news centre and advancement office, with its vice president for university advancement describing the university as \"one of the few universities worldwide leading academic research into UAPs\". The team itself is scrupulously deflationary about its own results: Szydagis states \"we did not find evidence indicating that UAP have anything to do with non-human intelligence\", and the group explained away all but one candidate anomaly from the 2021 expedition. That restraint is what makes the node useful rather than what undercuts it.",
+"narrative": "The University at Albany physics department is a small, instrument-heavy group whose day job is looking for signals that are rare, faint and easy to confuse with noise. That is exactly the skill set the UAP problem has always lacked. Cecilia Levy and Matthew Szydagis both work on LZ, the multi-tonne xenon time-projection chamber operating a mile underground at the Sanford Underground Research Facility in Lead, South Dakota; Szydagis wrote NEST, the Noble Element Simulation Technique package the wider noble-liquid detector community depends on. Levy's second research line is the Snowball Chamber, a supercooled-water low-mass dark matter technology unique to the UAlbany group. Kevin Knuth came from a different direction: a PhD in physics from Minnesota, brain-imaging work at the Nathan Kline Institute and Albert Einstein College of Medicine, then four years as a GS-14 Research Scientist in the Intelligent Systems Division at NASA Ames Research Center from 2001 to 2005, designing inference algorithms for astrophysical data. He joined UAlbany as an Assistant Professor in 2005, was promoted to Associate in 2009 and to full Professor in 2023, and has been Editor-in-Chief of the MDPI journal Entropy since 2012.\n\nKnuth's route into the phenomenon ran through the numbers. His 2019 paper with SCU collaborators, \"Estimating Flight Characteristics of Anomalous Unidentified Aerial Vehicles\", published in Entropy, worked out minimum speeds and accelerations for several documented cases including the 2004 USS Nimitz encounter off southern California. The Nimitz case is what drove the fieldwork: in July 2021 Knuth, Szydagis and Levy joined the non-profit UAPx for a week-long expedition to the Catalina Channel - the same water where the Nimitz strike group's aircrew recorded the Tic Tac - deploying visible-light and infrared cameras, Cosmic Watch scintillation-based radiation detectors, and National Weather Service Doppler radar data.\n\nWhat came out of that expedition is the part that matters institutionally. It was not a conference talk or a preprint that died on arXiv. It was two papers in a June 2025 special edition of Progress in Aerospace Sciences, an Elsevier review journal with no prior history of publishing on this subject. Szydagis was lead author of \"Initial results from the first field expedition of UAPx to study unidentified anomalous phenomena\" (DOI 10.1016/j.paerosci.2025.101099), with Knuth, Benjamin Kugielsky and Levy. The paper reports approximately one hour of triggered visible and night-vision video, over 600 hours of untriggered far-infrared video, and 55 hours of background radiation measurement. The team plausibly explained all but one candidate anomaly: a dark spot in the visible/near-IR camera captured at roughly 4am Pacific on Friday 16 July 2021, possibly coincident with ionizing radiation, which has resisted prosaic explanation. Szydagis built a new analysis tool for the work, the Custom Target Analysis Protocol (C-TAP), applying pixel-by-pixel frame-differencing with AI assistance and human verification - the same logic used to separate a dark-matter recoil from detector noise.\n\nThe companion paper, \"The new science of Unidentified Aerospace-Undersea Phenomena (UAP)\" (DOI 10.1016/j.paerosci.2025.101097), had Knuth as lead author and, per the Scientific Coalition for UAP Studies, thirty-four authors in total. It reviews roughly twenty historical government studies from 1933 to the present across Scandinavia, wartime Europe, the US, Canada, France, Russia and China, plus private studies in France, the UK and the US, and current instrumented research programmes in Ireland, Germany, Norway, Sweden and the US. Its stated purpose is to demonstrate that UAP \"can be, and have been, scientifically investigated\" and to dispel the misconception that this is an American phenomenon. Project Condign sits inside that review as one of the government studies catalogued - the two nodes on this board touch directly through that paper.\n\nOn 27 June 2025 SCU announced that Knuth had received its inaugural Distinguished Scholar Award, presented at SCU's Sixth Annual Conference at the Von Braun Center in Huntsville, Alabama, on 6-8 June 2025. The distinction worth preserving is that Knuth is an award recipient and paper author, not an SCU officer: the SCU release identifies Rich Hoffman as the Executive Board member who presented the award and describes Knuth only as a University at Albany professor and former NASA research scientist. Knuth does hold a science-and-technology role at UAPx, but that is a separate organisation.\n\nThe institutional consolidation came on 5 November 2025. UAlbany announced an endowment gift from Albany businessman Tony Gorman, formerly a principal owner of the Gorman Group highway construction and materials firm, who had seen a local news segment about the physicists' work. Knuth told The Debrief the gift funds the team for five years and \"sets up an endowment that funds us in perpetuity.\" The gift launched UAlbany Project X, which absorbs the mission of the non-profit UAPx co-founded by Navy veterans Kevin Day and Gary Voorhis - both connected to the 2004 Nimitz encounter. The university's own release positions the group alongside academic UAP efforts in Sweden, Germany and at Harvard. Planned instrumentation includes diffraction gratings for spectroscopy, magnetic and electric field sensors, and portable multi-camera sky-monitoring arrays - categories Knuth notes are \"often omitted from study\".\n\nBuried in Knuth's quote in that release is the sentence that puts UAlbany on this board rather than merely in a science-news roundup: \"the physics department's UAP research base grows, with the recent addition of physicist Dr. Eric W. Davis as visiting adjunct faculty. Dr. Davis has cooperated with recent congressional UAP hearings.\" Davis is a central figure in the legacy-program record. A public university has just given him a faculty affiliation, and said so in its own press release.\n\nWhat makes the node durable is that the team is deflationary about its own data: Szydagis's public line is that \"we did not find evidence indicating that UAP have anything to do with non-human intelligence.\" That is what instrumented science looks like, and it is the thing the concealment has always been able to point to as absent. It is no longer absent. It is endowed, it is on a .edu faculty page, and it now has Eric Davis in the building.",
+"openQuestions": [
+"What is the dollar value of the Gorman endowment? Neither the university release nor The Debrief states a figure.",
+"What are the terms of Eric W. Davis's visiting adjunct appointment - duration, whether compensated, whether it carries any research-supervision or data-access role? The Debrief reports it is unpaid and advisory; the university release does not specify.",
+"The one unresolved 2021 anomaly - a dark spot with possible coincident ionizing radiation at roughly 4am on 16 July 2021 - has not been explained or independently reanalysed by anyone outside the team.",
+"Szydagis's departmental faculty page lists UAP as a research interest; whether UAP or UAlbany Project X appears as a formal departmental research area or registered centre on the department's research overview or the university's institutes/centres/labs listing was not checked in this pass.",
+"Whether any of the UAP work has drawn federal or DoD funding, or whether it remains entirely privately endowed, is not established by the public record.",
+"Author-count discrepancy: SCU states the 2025 review \"brings together thirty-four authors\" while the UAlbany release says Knuth's article was \"co-written by Szydagis and more than 30 other researchers\". The exact byline count has not been confirmed against the published Elsevier version.",
+"Whether UAlbany Project X will publish raw data and instrument logs, or only analysed results, is unstated - the single most important question for whether this node becomes independently checkable science.",
+"Knuth's role at the non-profit UAPx has been described in third-party sources as Vice President of Science & Technology; this was not confirmed against a UAlbany or UAPx primary source in this pass."
+],
+"roles": [
+"research",
+"disclosure",
+"funding"
+],
+"whatItIs": "The University at Albany (SUNY), a public research university at 1400 Washington Avenue, Albany, New York, and specifically its Department of Physics. The department houses an established dark matter group working on the LZ (LUX-ZEPLIN) experiment and the Snowball Chamber, and it is the institutional home of Professor Kevin H. Knuth, Associate Professor Matthew Szydagis and Associate Professor Cecilia Levy. As of November 2025 it also hosts UAlbany Project X (UAPx), an endowed academic collaboration devoted solely to the scientific study of unidentified anomalous phenomena.",
+"whyImplicated": "The standard defence of the concealment is that no serious scientist will touch the subject, therefore the absence of scientific data proves there is nothing there. UAlbany is the counter-example, and it is institutional rather than biographical: Matthew Szydagis's official departmental faculty page lists his research interests as \"Experimental astroparticle physics, in particular direct detection of dark matter WIMPs ... and general detector development for rare event searches, neutron activation, and Unidentified Anomalous Phenomena\" - a state university publishing UAP as a declared faculty research interest on a .edu page alongside dark matter. In June 2025 the department placed two peer-reviewed UAP papers in Progress in Aerospace Sciences, one of them a 34-author historical review led by Knuth. In November 2025 the university accepted a named endowment gift specifically to fund UAP research in perpetuity and announced the launch of UAlbany Project X. And in the same announcement Knuth confirmed that physicist Eric W. Davis had joined the physics department as visiting adjunct faculty - placing one of the most heavily implicated figures in the legacy-program record inside a public university physics department, on the record, in a university press release."
+},
+"entityInfo": null,
+"era": "2",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "university-at-albany",
+"l0": true,
+"label": "University at Albany (SUNY), Department of Physics",
+"locLabel": null,
+"members": [
+{
+"cls": "person",
+"id": "cecilia-levy",
+"label": "Cecilia Levy",
+"tier": "C"
+},
+{
+"cls": "person",
+"id": "kevin-knuth",
+"label": "Kevin H. Knuth",
+"tier": "C"
+},
+{
+"cls": "person",
+"id": "matthew-szydagis",
+"label": "Matthew Szydagis",
+"tier": "C"
+},
+{
+"cls": "document",
+"id": "paper-knuth-2025-new-science",
+"label": "Knuth et al. (2025), 'The New Science of Unidentified Aerospace-Undersea Phenomena (UAP)', Progress in Aerospace Sciences",
+"tier": "C"
+},
+{
+"cls": "document",
+"id": "paper-uapx-2025",
+"label": "Szydagis, Knuth, Kugielsky & Levy (2025), Progress in Aerospace Sciences 156:101099",
+"tier": "C"
+},
+{
+"cls": "institution",
+"id": "uapx",
+"label": "UAPx",
+"tier": "C"
+}
+],
+"short": "University at Albany, Physics",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Wikipedia: Kevin Knuth",
+"url": "https://en.wikipedia.org/wiki/Kevin_Knuth"
+},
+{
+"date": "2025-06-01",
+"name": "Szydagis, Knuth, Kugielsky & Levy, 'Initial results from the first field expedition of UAPx to study unidentified anomalous phenomena', Progress in Aerospace Sciences 156:101099",
+"url": "https://doi.org/10.1016/j.paerosci.2025.101099"
+},
+{
+"date": "2026-08-21",
+"name": "University at Albany, Department of Physics - Kevin Knuth faculty page",
+"url": "https://www.albany.edu/physics/faculty/kevin-knuth"
+},
+{
+"date": "2026-08-21",
+"name": "University at Albany, Department of Physics - Matthew Szydagis faculty page",
+"url": "https://www.albany.edu/physics/faculty/matthew-szydagis"
+},
+{
+"date": "2026-08-21",
+"name": "University at Albany, Department of Physics - Cecilia Levy faculty page",
+"url": "https://www.albany.edu/physics/faculty/cecilia-levy"
+},
+{
+"date": "2025-06-04",
+"name": "UAlbany News Center, 'UAlbany Physicists Test Scientific Approach to UAP Research'",
+"url": "https://www.albany.edu/news-center/news/2025-ualbany-physicists-test-scientific-approach-uap-research"
+}
+],
+"sub": "Academic home of Kevin Knuth and Matthew Szydagis; institutional base of UAPx",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 452 of 1027, score 31). 6 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D2.",
+"timeline": []
+}

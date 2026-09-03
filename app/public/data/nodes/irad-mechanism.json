@@ -1,0 +1,124 @@
+{
+"A": 3,
+"C": 3,
+"D": 3,
+"band": null,
+"claims": [
+{
+"source": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm",
+"text": "DoD Instruction 3204.01, dated 20 August 2014 incorporating change 2 dated 9 July 2020, establishes Department policy for oversight of independent research and development.",
+"tier": 1
+},
+{
+"source": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm",
+"text": "Congress prohibited IR&D funding relating to UAP from being allowable as an indirect expense absent disclosure to the appropriate congressional committees and leadership, in both NDAA FY2024 Sec. 1687(b) and IAA FY2024 Sec. 7343(c).",
+"tier": 1
+},
+{
+"source": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm",
+"text": "IR&D is the mechanism that best fits the alleged fact pattern of government-funded, contractor-held, contractor-directed work on recovered material outside congressional programme visibility, because it combines government payment, contractor direction, contractor retention of results, and absence of a named appropriation line. Reasoning: each element of the alleged pattern maps onto a structural feature of IR&D cost allowability; no other standard federal funding instrument does so.",
+"tier": 3
+}
+],
+"cls": "program",
+"cluster": "contractor",
+"connections": [
+{
+"claimTier": 3,
+"cls": "event",
+"dateEnd": "2023-12-22",
+"dateStart": "2023-06-05",
+"direction": "in",
+"edgeLabel": "The allegation of illegal contracting and the statute that names IR&D",
+"id": "grusch-misappropriation-allegation",
+"l0": true,
+"label": "The misappropriation allegation: Grusch's ICIG complaint and sworn testimony",
+"note": "Grusch's on-the-record formulation was 'illegal contracting against the Federal Acquisition Regulations'; six months later Congress barred UAP-related IR&D from being an allowable indirect cost. The inference that the two describe the same mechanism is reasoned, not documented: no source states that section 1687(b) was drafted in response to Grusch.",
+"sources": [
+{
+"date": "2023-06-05",
+"name": "The Debrief; NDAA FY2024 Sec. 1687(b)",
+"url": "https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/"
+}
+],
+"tier": "A",
+"type": "funding"
+},
+{
+"claimTier": 1,
+"cls": "legislation",
+"dateEnd": null,
+"dateStart": "2023-12-22",
+"direction": "in",
+"edgeLabel": "Statutory bar on UAP-related IR&D as an allowable indirect cost",
+"id": "ndaa-fy2024-1687",
+"l0": true,
+"label": "FY2024 NDAA sec. 1687 — Limitation on Use of Funds for Certain Unreported Programs",
+"note": "Section 1687(b) provides that IR&D funding relating to UAP shall not be allowable as an indirect expense for contracts covered by DoD Instruction 3204.01 unless disclosed to the appropriate committees and leadership. Attested by the enacted statute.",
+"sources": [
+{
+"date": "2023-12-22",
+"name": "NDAA FY2024, Sec. 1687(b)",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm"
+}
+],
+"tier": "A",
+"type": "legislative"
+},
+{
+"claimTier": 3,
+"cls": "legislation",
+"dateEnd": null,
+"dateStart": "2023-12-22",
+"direction": "out",
+"edgeLabel": "IR&D reimbursement is not an appropriation and does not trigger SAP notification",
+"id": "sec-8009-sap-notice",
+"l0": false,
+"label": "Section 8009 - 30-day advance notice before initiating or materially modifying a special access program",
+"note": "Section 8009 attaches to funds appropriated by the Act; contractor IR&D is reimbursed as an allowable indirect cost across a contract portfolio rather than appropriated to a programme. Reasoned inference from the structure of both instruments.",
+"sources": [
+{
+"date": "2026-02-03",
+"name": "DoD Appropriations Act 2026 Sec. 8009; NDAA FY2024 Sec. 1687(b)",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-119publ75/html/PLAW-119publ75.htm"
+}
+],
+"tier": "C",
+"type": "behavioral"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "1970",
+"deg": 3,
+"denials": [],
+"desc": "Independent Research and Development is the arrangement under which a defense contractor conducts research it selects, directs and owns, and charges the cost to the government as an allowable indirect expense spread across its contracts. The government pays. The contractor decides what is studied, retains the resulting intellectual property, and is not executing a contract line item that Congress appropriated by name. DoD Instruction 3204.01, dated 20 August 2014 and incorporating change 2 of 9 July 2020, sets Department policy for oversight of IR&D. There is no more precisely fitted mechanism in the federal financial system for the specific allegation this board exists to test: money reaching a private contractor's custody, funding work of the contractor's own definition, on material the contractor holds, without a congressionally identified programme line and without government ownership of the product. It is not a loophole in the sense of an oversight failure - it is a designed feature, intended to keep an industrial research base alive. What makes it evidentiary rather than merely structural is that Congress legislated against it by name in the UAP context: section 1687(b) of the FY2024 NDAA and section 7343(c) of the FY2024 Intelligence Authorization Act both provide that IR&D funding relating to unidentified anomalous phenomena shall not be allowable as an indirect expense unless the material and information is made available to the intelligence and defense committees and to congressional leadership. That is the named mechanism, in statute, dated 22 December 2023.",
+"domains": [
+"w2-black-budget"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "1",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "irad-mechanism",
+"l0": false,
+"label": "Independent Research and Development (IR&D) as a funding channel",
+"locLabel": null,
+"members": null,
+"short": "Independent Research and Development (IR&D) as a funding channel",
+"sources": [
+{
+"date": "2023-12-22",
+"name": "NDAA FY2024 (P.L. 118-31), Sec. 1687(b)",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm"
+}
+],
+"sub": "Contractor-directed research reimbursed by the government as an allowable indirect cost",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 252 of 1027, score 40). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C3/A3/D3.",
+"timeline": []
+}

@@ -1,0 +1,113 @@
+{
+"A": 2,
+"C": 0,
+"D": 1,
+"band": null,
+"claims": [
+{
+"source": "AARO UAP Records / Information Papers listings",
+"text": "AARO published a satellite flaring information paper dated 22 April 2025 with a DVIDS animation, and a 2024 paper on the effect of forced perspective and parallax view on UAP observations.",
+"tier": 1
+},
+{
+"source": "AARO UAP Records page, accessed 12 August 2026",
+"text": "AARO added the Naval Postgraduate School CTX special issue on UAP science and analysis to its resources on 8 July 2026, plus a call for papers for a second volume.",
+"tier": 1
+},
+{
+"source": "AARO UAP Records page",
+"text": "A 2025 UAP workshop white paper on narrative data, infrastructures and analysis is published on AARO's site.",
+"tier": 1
+}
+],
+"cls": "document",
+"cluster": "other",
+"connections": [
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "2026",
+"dateStart": "2024",
+"direction": "in",
+"edgeLabel": "Explanatory output on flaring, parallax, workshops and the NPS CTX issue",
+"id": "aaro",
+"l0": true,
+"label": "All-domain Anomaly Resolution Office (AARO)",
+"note": "AARO publishes analytic methodology continuously while withholding Volume II and its video holdings.",
+"sources": [
+{
+"date": "2025-04-22",
+"name": "AARO - Satellite Flaring Information Paper",
+"url": "https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Satellite_Flaring_Paper_508_FINAL_04222025.pdf"
+},
+{
+"date": "2026-07-08",
+"name": "Naval Postgraduate School - CTX Special Issue: UAP Science and Analysis",
+"url": "https://nps.edu/web/ecco/uap-special-ctx-issue"
+},
+{
+"date": "2026-08-12",
+"name": "AARO - UAP Records page",
+"url": "https://www.aaro.mil/UAP-Records/"
+}
+],
+"tier": "A",
+"type": "institutional"
+}
+],
+"coords": null,
+"dateEnd": "2026",
+"dateStart": "2024",
+"deg": 1,
+"denials": [],
+"desc": "The other half of AARO's public output: explanatory papers that teach the reader how to resolve their own sightings. The satellite flaring paper of 22 April 2025, with an accompanying DVIDS animation, explains Starlink flaring - the mechanism AARO used in the FY2024 report to resolve a commercial pilot's white flashing lights against a launch an hour earlier. The 2024 paper on the effect of forced perspective and parallax view on UAP observations does the same for apparent motion. A 2025 UAP workshop white paper on narrative data, infrastructures and analysis records the office's engagement with academic researchers. In July 2026 AARO added the Naval Postgraduate School's CTX special issue on UAP science and analysis, and a call for papers for a second volume. These are not nothing - they are the only sustained attempt by the US Government to build an analytic vocabulary for the subject. They are also, taken as a body of work across 2024 to 2026, an office publishing methodology while declining to publish the two things Congress asked for: Volume II and its video holdings.",
+"domains": [
+"_rs-archive-mirror",
+"releases-2023-2026"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "aaro-information-papers",
+"l0": false,
+"label": "AARO information papers (satellite flaring, forced perspective, 2025 UAP workshop, NPS CTX issue)",
+"locLabel": null,
+"members": null,
+"short": "AARO information papers (satellite flaring, forced perspective, 2025 UAP workshop, NPS CTX issue)",
+"sources": [
+{
+"date": "2026-05-08",
+"name": "Archived: AARO - Satellite Flaring Information Paper (Wayback 2026-05-08)",
+"url": "https://web.archive.org/web/20260508180257/https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Satellite_Flaring_Paper_508_FINAL_04222025.pdf"
+},
+{
+"date": "2026-07-14",
+"name": "Archived: AARO - UAP Records page (Wayback 2026-07-14)",
+"url": "https://web.archive.org/web/20260714192654/https://www.aaro.mil/UAP-Records/"
+},
+{
+"date": "2025-04-22",
+"name": "AARO - Satellite Flaring Information Paper",
+"url": "https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Satellite_Flaring_Paper_508_FINAL_04222025.pdf"
+},
+{
+"date": "2026-07-08",
+"name": "Naval Postgraduate School - CTX Special Issue: UAP Science and Analysis",
+"url": "https://nps.edu/web/ecco/uap-special-ctx-issue"
+},
+{
+"date": "2026-08-12",
+"name": "AARO - UAP Records page",
+"url": "https://www.aaro.mil/UAP-Records/"
+}
+],
+"sub": "Explanatory products, 2024-2026",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 802 of 1027, score 18). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A2/D1.",
+"timeline": []
+}

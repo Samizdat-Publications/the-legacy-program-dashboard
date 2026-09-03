@@ -1,0 +1,139 @@
+{
+"A": 2,
+"C": 3,
+"D": 2,
+"affiliations": [],
+"age": null,
+"band": null,
+"chronology": [],
+"claims": [
+{
+"source": "Official Register of the United States 1957, US Civil Service Commission, p.629, https://www.govinfo.gov/content/pkg/GOVPUB-CS1-a5ad60ca6d6113c71c09c45dce6b9952/pdf/GOVPUB-CS1-a5ad60ca6d6113c71c09c45dce6b9952.pdf",
+"text": "The Official Register of the United States 1957 lists 'Lawrence P. Gise' as 'Assistant Director' of the UNITED STATES ATOMIC ENERGY COMMISSION, DIVISION OF MILITARY APPLICATION, legal residence Va 10th, salary 14,190, at printed page 629. The volume states it lists persons in administrative and supervisory positions 'as of May 1, 1957'.",
+"tier": 1
+},
+{
+"source": "Official Register of the United States 1959, US Civil Service Commission, p.134, https://www.govinfo.gov/content/pkg/GOVPUB-CS1-301ae7b075ad3435b3a7dca00e78e8ff/pdf/GOVPUB-CS1-301ae7b075ad3435b3a7dca00e78e8ff.pdf",
+"text": "The Official Register of the United States 1959 lists 'Lawrence P. Gise' as 'Assistant Director, Administration' of the ADVANCED RESEARCH PROJECTS AGENCY under DEPARTMENT OF DEFENSE, legal residence Va 10th, salary 17,500, at printed page 134, under a footnote reading 'Station is Washington, D.C. unless otherwise indicated.' The volume lists positions 'as of May 1, 1959'. The same page lists Roy W. Johnson as Director and William H. Godel as Director, Policy and Planning Division.",
+"tier": 1
+},
+{
+"source": "DNA 6005F, PLUMBBOB SERIES 1957, Defense Nuclear Agency, references 152 and 153, https://www.govinfo.gov/content/pkg/GOVPUB-D15-PURL-gpo222713/pdf/GOVPUB-D15-PURL-gpo222713.pdf",
+"text": "DNA 6005F, the Defense Nuclear Agency's Nuclear Test Personnel Review volume on Operation PLUMBBOB, cites at reference 153 'Gise, L.P., Ass't Director, DMA. [Memo to: R.F. Hertford, Manager, ALOO, Subject: USAF-AEC Agreement on Use of Lookout Mountain Lab at (29-2)-383, w/encl.] Washington, DC: Atomic Energy Commission, DMA. 04/30/57. 29 pages. AT292383.' Reference 152 cites a further Gise memorandum for the Test Manager, subject 'AEC Unofficial Observers', dated 08/27/57.",
+"tier": 1
+},
+{
+"source": "DNA 6005F, PLUMBBOB SERIES 1957, references 153 and 202, https://www.govinfo.gov/content/pkg/GOVPUB-D15-PURL-gpo222713/pdf/GOVPUB-D15-PURL-gpo222713.pdf",
+"text": "The same reference list names the Manager of the Albuquerque Operations Office in 1957 as Hertford, at reference 202, 'Hertford, K., Manager, Albuquerque Operations'. Gise's own 1957 memorandum is addressed to that office from AEC headquarters, not written from it.",
+"tier": 1
+},
+{
+"source": "michels-corpus-06.md file 04 at 1:16:46; michels-corpus-09.md file 03 at 1:12:28 to 1:15:54; michels-corpus-10.md file 4 at 0:52:53; michels-corpus-15.md file 02 at 0:31:03",
+"text": "Four guests across five Michels lead maps describe Gise as head of the AEC's Albuquerque Operations Office and as the man who handed anomalous material from the 1962 Bluegill Triple Prime test to Harald Malmgren. No document number is cited by any speaker for any part of the chain, and no record opened for this node is dated later than 1959.",
+"tier": 2
+}
+],
+"cls": "person",
+"cluster": "oversight",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "1959",
+"dateStart": "1959",
+"direction": "out",
+"edgeLabel": "Held the ARPA post of Assistant Director, Administration",
+"id": "darpa",
+"l0": false,
+"label": "Defense Advanced Research Projects Agency",
+"note": "The Official Register of the United States 1959 places him in that post as of 1 May 1959, on the same page as Director Roy W. Johnson.",
+"sources": [
+{
+"date": "1959-05-01",
+"name": "Official Register of the United States 1959, US Civil Service Commission",
+"url": "https://www.govinfo.gov/content/pkg/GOVPUB-CS1-301ae7b075ad3435b3a7dca00e78e8ff/pdf/GOVPUB-CS1-301ae7b075ad3435b3a7dca00e78e8ff.pdf"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 2,
+"cls": "institution",
+"dateEnd": "1957",
+"dateStart": "1957",
+"direction": "out",
+"edgeLabel": "Held an AEC headquarters post in the line the DOE node records itself as succeeding",
+"id": "doe",
+"l0": true,
+"label": "United States Department of Energy",
+"note": "The Register documents the AEC Division of Military Application post at Tier 1; the succession from AEC to DOE is the board's own doe node, so the edge itself is an inference and is graded accordingly.",
+"sources": [
+{
+"date": "1957-05-01",
+"name": "Official Register of the United States 1957, US Civil Service Commission",
+"url": "https://www.govinfo.gov/content/pkg/GOVPUB-CS1-a5ad60ca6d6113c71c09c45dce6b9952/pdf/GOVPUB-CS1-a5ad60ca6d6113c71c09c45dce6b9952.pdf"
+}
+],
+"tier": "A",
+"type": "institutional"
+}
+],
+"date": "1957-05-01",
+"dateEnd": null,
+"dateStart": "1957-05-01",
+"deg": 2,
+"denials": [],
+"domains": [
+"michels-2026-09-02"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "lawrence-p-gise",
+"instId": null,
+"l0": false,
+"label": "Lawrence P. Gise",
+"loc": "Washington, DC",
+"locId": "l-dc",
+"members": null,
+"narrative": "A career federal administrator who sat, two years apart, in the Atomic Energy Commission office that owned military nuclear applications and in the Defense Department's own advanced research agency. The Official Register of the United States, a statutory annual list of federal administrative officers, places him in both. He is named across the Michels podcast corpus as the custodian of material said to have been recovered from a 1962 nuclear test; nothing in any record opened for this node reaches 1962, and the Albuquerque post the corpus assigns him was held by another man in the year his own paper is dated.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Lawrence P. Gise",
+"sources": [
+{
+"date": "1957-05-01",
+"name": "Official Register of the United States 1957, US Civil Service Commission",
+"url": "https://www.govinfo.gov/content/pkg/GOVPUB-CS1-a5ad60ca6d6113c71c09c45dce6b9952/pdf/GOVPUB-CS1-a5ad60ca6d6113c71c09c45dce6b9952.pdf"
+},
+{
+"date": "1959-05-01",
+"name": "Official Register of the United States 1959, US Civil Service Commission",
+"url": "https://www.govinfo.gov/content/pkg/GOVPUB-CS1-301ae7b075ad3435b3a7dca00e78e8ff/pdf/GOVPUB-CS1-301ae7b075ad3435b3a7dca00e78e8ff.pdf"
+},
+{
+"date": "1981-01-01",
+"name": "DNA 6005F, PLUMBBOB SERIES 1957, Defense Nuclear Agency",
+"url": "https://www.govinfo.gov/content/pkg/GOVPUB-D15-PURL-gpo222713/pdf/GOVPUB-D15-PURL-gpo222713.pdf"
+}
+],
+"status": "former",
+"sub": "AEC Division of Military Application Assistant Director 1957; ARPA Assistant Director, Administration 1959",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 268 of 1027, score 38). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C3/A2/D2.",
+"timeline": [],
+"unexplainedResidual": null,
+"unverified": [
+"That Gise headed the AEC Albuquerque Operations Office. Nothing opened places him at ALOO in any role, and in 1957 the post was Hertford's.",
+"That he took custody of Bluegill Triple Prime material in 1962, or briefed Harald Malmgren at Sandia or Los Alamos. Nothing opened for this node is dated later than 1959.",
+"That he is Jeff Bezos's maternal grandfather. This is in no record read for this node, and it is the element every guest states with most confidence.",
+"His start and end dates at ARPA. Only the 1 May 1959 snapshot is documented."
+]
+}

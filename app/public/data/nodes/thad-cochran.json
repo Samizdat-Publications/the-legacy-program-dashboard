@@ -1,0 +1,154 @@
+{
+"A": 1,
+"C": 2,
+"D": 3,
+"affiliations": [],
+"age": null,
+"band": null,
+"chronology": [],
+"claims": [
+{
+"source": "https://www.govinfo.gov/content/pkg/CHRG-111shrg48290/html/CHRG-111shrg48290.htm",
+"text": "The Senate Appropriations Subcommittee on Defense hearing volume for Department of Defense Appropriations for Fiscal Year 2010 (111th Congress, hearings from 18 March 2009) contains a witness statement addressed 'Chairman Inouye, Ranking Member Cochran,' confirming Cochran as the subcommittee's ranking minority member in 2009.",
+"tier": 1
+},
+{
+"source": "https://www.govinfo.gov/content/pkg/GPO-CPUB-111spub13/html/GPO-CPUB-111spub13.htm",
+"text": "The 111th Congress committee assignment publication lists Cochran as the senior Republican on the Senate Appropriations Committee, opposite Chairman Daniel K. Inouye.",
+"tier": 1
+},
+{
+"source": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim",
+"text": "The Defense Subcommittee of the Senate Committee on Appropriations is one of the six bodies expressly named as a 'defense committee' by 10 U.S.C. 119(g)(1), so its chairman and ranking minority member each hold a 119(e)(2) seat distinct from the full-committee seats.",
+"tier": 1
+}
+],
+"cls": "person",
+"cluster": "oversight",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2009-01-06",
+"direction": "out",
+"edgeLabel": "Senate appropriations leadership in 2009, the year of the Reid SAP request",
+"id": "oversight-congress",
+"l0": true,
+"label": "Congressional oversight of special access programs",
+"note": "The Senate half of the 119(e)(2) group in 2009 comprised only four people filling six seats: Levin and McCain on armed services, Inouye and Cochran holding both appropriations pairs. Harry Reid, who made the 2009 SAP request, held none of them.",
+"sources": [
+{
+"date": null,
+"name": "https://www.govinfo.gov/content/pkg/GPO-CPUB-111spub13/html/GPO-CPUB-111spub13.htm",
+"url": "https://www.govinfo.gov/content/pkg/GPO-CPUB-111spub13/html/GPO-CPUB-111spub13.htm"
+},
+{
+"date": null,
+"name": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim",
+"url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim"
+},
+{
+"date": "2026-08-22",
+"name": "U.S. Senate, Dates of Sessions of the Congress (convening dates: 111th 6 Jan 2009, 118th 3 Jan 2023, 119th 3 Jan 2025)",
+"url": "https://www.senate.gov/legislative/DatesofSessionsofCongress.htm"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2009-01-06",
+"direction": "out",
+"edgeLabel": "Ranking Member, Senate Appropriations Committee and its Defense Subcommittee",
+"id": "waived-sap-notification-group",
+"l0": true,
+"label": "Waived SAP Notification Group",
+"note": "Held two of the twelve statutory seats at once, opposite Chairman Daniel K. Inouye who likewise held two. The subcommittee designation is confirmed by a witness statement in the GPO record of the FY2010 Defense appropriations hearings addressed 'Chairman Inouye, Ranking Member Cochran,' which resolves the board's earlier reliance on committee-print list order. End date left null: continuity beyond the 111th Congress was not researched in this pass.",
+"sources": [
+{
+"date": null,
+"name": "https://www.govinfo.gov/content/pkg/CHRG-111shrg48290/html/CHRG-111shrg48290.htm",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-111shrg48290/html/CHRG-111shrg48290.htm"
+},
+{
+"date": null,
+"name": "https://www.govinfo.gov/content/pkg/GPO-CPUB-111spub13/html/GPO-CPUB-111spub13.htm",
+"url": "https://www.govinfo.gov/content/pkg/GPO-CPUB-111spub13/html/GPO-CPUB-111spub13.htm"
+},
+{
+"date": "2026-08-22",
+"name": "10 U.S.C. 119, Special Access Programs: congressional oversight — subsections (e)(2) and (g) (OLRC prelim text, read 22 August 2026)",
+"url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim"
+},
+{
+"date": "2026-08-22",
+"name": "U.S. Senate, Dates of Sessions of the Congress (convening dates used to date each seat)",
+"url": "https://www.senate.gov/legislative/DatesofSessionsofCongress.htm"
+}
+],
+"tier": "A",
+"type": "institutional"
+}
+],
+"date": "2009-01-06",
+"dateEnd": null,
+"dateStart": "2009-01-06",
+"deg": 2,
+"denials": [],
+"domains": [
+"w10-notification-gaps"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "2",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "thad-cochran",
+"instId": null,
+"l0": false,
+"label": "Thad Cochran",
+"loc": null,
+"locId": null,
+"members": null,
+"narrative": "Cochran held two of the twelve 10 U.S.C. 119(e)(2) seats simultaneously in 2009: ranking minority member of the Senate Appropriations Committee and ranking minority member of that committee's Defense Subcommittee, both named expressly as 'defense committees' by 10 U.S.C. 119(g)(1). His opposite number in both seats was Daniel K. Inouye, who chaired the full committee and the Defense Subcommittee. The Senate side of the group in 2009 therefore comprised four distinct individuals - Levin, McCain, Inouye and Cochran - filling six statutory seats, the same double-occupancy pattern the board records for Susan Collins in the 118th Congress. The board previously carried Cochran's Defense Subcommittee ranking role as an inference drawn from list order in a committee assignment publication that marks chairmen but not ranking members. That inference is now confirmed from a primary source that states the designation in terms. The bound Senate hearing volume for Department of Defense Appropriations for Fiscal Year 2010, the Subcommittee on Defense hearings of the 111th Congress running from 18 March 2009, contains a witness statement addressed 'Chairman Inouye, Ranking Member Cochran.' A witness formally addressing the subcommittee's two presiding officers by title, printed in the Government Publishing Office record of the proceeding, is a direct statement of who held the ranking seat rather than a reading of seniority order. What Cochran's seats entitled him to receive is the same as every other member of the group: whatever the Secretary of Defense withheld from a section 119 report under the waiver authority, plus the justification, delivered jointly with the chairman. What makes the appropriations pair distinctive is that it is the money side of the entitlement. Cochran has no publicly documented UAP-specific record. He is on this board because 2009 is a load-bearing year and because the Defense Subcommittee ranking seat is the single hardest of the twelve to source correctly for any historical date.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Thad Cochran",
+"sources": [
+{
+"date": "2026-08-22",
+"name": "U.S. Senate, Dates of Sessions of the Congress (convening dates: 111th 6 Jan 2009, 118th 3 Jan 2023, 119th 3 Jan 2025)",
+"url": "https://www.senate.gov/legislative/DatesofSessionsofCongress.htm"
+},
+{
+"date": null,
+"name": "https://www.govinfo.gov/content/pkg/CHRG-111shrg48290/html/CHRG-111shrg48290.htm",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-111shrg48290/html/CHRG-111shrg48290.htm"
+},
+{
+"date": null,
+"name": "https://www.govinfo.gov/content/pkg/GPO-CPUB-111spub13/html/GPO-CPUB-111spub13.htm",
+"url": "https://www.govinfo.gov/content/pkg/GPO-CPUB-111spub13/html/GPO-CPUB-111spub13.htm"
+},
+{
+"date": null,
+"name": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim",
+"url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim"
+}
+],
+"status": "active",
+"sub": "Ranking Member, Defense Subcommittee of the Senate Appropriations Committee, and Ranking Member of the full Senate Appropriations Committee, 111th Congress including 2009",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 520 of 1027, score 28). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A1/D3.",
+"timeline": [],
+"unexplainedResidual": null,
+"unverified": []
+}

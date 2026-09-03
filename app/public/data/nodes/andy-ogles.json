@@ -1,0 +1,175 @@
+{
+"A": 1,
+"C": 0,
+"D": 2,
+"affiliations": [
+"U.S. House of Representatives, TN-5 (2023- )",
+"Congressional UAP Caucus (2023- )",
+"House Financial Services Subcommittee on National Security"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "2023-07-26",
+"event": "Waived onto the subcommittee; threatens the Holman Rule against any agency or official denying SCIF access on UAP.",
+"precision": "day"
+},
+{
+"date": "2024-01-12",
+"event": "Attends the closed ICIG briefing; describes 'a concerted effort to conceal as much information as possible.'",
+"precision": "day"
+},
+{
+"date": "2025-09-09",
+"event": "Waived onto the Task Force hearing.",
+"precision": "day"
+}
+],
+"claims": [
+{
+"source": "Rep. Andy Ogles, 26 July 2023, GPO CHRG-118hhrg53022",
+"text": "'I would encourage the Chairman to demand that we have any and all, but in particular Mr. Grusch, talk to us in a SCIF and if that access is denied I will personally volunteer to initiate the Holman Rule against any personnel or any program or any agency that denies access to Congress.'",
+"tier": 1
+},
+{
+"source": "The Hill, 12 January 2024",
+"text": "After the 12 January 2024 ICIG briefing: what 'most Americans fear is true' - there is 'a concerted effort to conceal as much information as possible - both in Congress and to the general public.' 'I asked very specific questions and was unable to get specific answers.'",
+"tier": 2
+},
+{
+"source": "CHRG-119hhrg61718, 9 September 2025",
+"text": "Waived onto the Task Force on the Declassification of Federal Secrets for the 9 September 2025 hearing.",
+"tier": 1
+}
+],
+"cls": "person",
+"cluster": "oversight",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 2,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2023",
+"direction": "out",
+"edgeLabel": "Caucus member without an Oversight Committee seat",
+"id": "congressional-uap-caucus",
+"l0": true,
+"label": "Congressional UAP Caucus",
+"note": "Described by The Hill as 'part of the UAP Caucus but not the Oversight Committee.'",
+"sources": [
+{
+"date": "2024-01-12",
+"name": "The Hill: Classified UFO briefing — House members emerge with mixed feelings",
+"url": "https://thehill.com/homenews/house/4406059-classified-ufo-briefing-house-members-mixed-feelings/"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 2,
+"cls": "event",
+"dateEnd": "2024",
+"dateStart": "2024",
+"direction": "out",
+"edgeLabel": "Emerged describing 'a concerted effort to conceal as much information as possible'",
+"id": "icig-briefing-2024-01-12",
+"l0": false,
+"label": "Closed ICIG UAP briefing to House Oversight members",
+"note": "Ogles is a caucus member without an Oversight seat, which is how the caucus extended attendance.",
+"sources": [
+{
+"date": "2024-01-12",
+"name": "The Hill: Classified UFO briefing — House members emerge with mixed feelings",
+"url": "https://thehill.com/homenews/house/4406059-classified-ufo-briefing-house-members-mixed-feelings/"
+}
+],
+"tier": "C",
+"type": "behavioral"
+},
+{
+"claimTier": 1,
+"cls": "domain",
+"dateEnd": null,
+"dateStart": "2023",
+"direction": "out",
+"edgeLabel": "Named the Holman Rule as the enforcement instrument against officials who deny Congress access",
+"id": "sap-readin-gate",
+"l0": false,
+"label": "The HASC/HAC-D special access program read-in gate",
+"note": "The only statutory enforcement mechanism any member has named on the record; never used on this subject.",
+"sources": [
+{
+"date": "2023-07-26",
+"name": "U.S. GPO, Hearing transcript, Serial No. 118-53 (CHRG-118hhrg53022)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm"
+}
+],
+"tier": "B",
+"type": "legislative"
+}
+],
+"date": "2023-07-26",
+"dateEnd": null,
+"dateStart": "2023-07-26",
+"deg": 3,
+"denials": [],
+"domains": [
+"congress-house"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "andy-ogles",
+"instId": "house-oversight-committee",
+"l0": false,
+"label": "Andrew Ogles",
+"loc": "Franklin, TN",
+"locId": null,
+"members": null,
+"narrative": "Ogles produced the single most concrete enforcement threat any member has made on this subject. Waived onto the subcommittee on 26 July 2023, he questioned the witnesses on whether UAP behaviour is consistent with reconnaissance collection, then closed the member rounds with a demand and a lever: 'I would encourage the Chairman to demand that we have any and all, but in particular Mr. Grusch, talk to us in a SCIF and if that access is denied I will personally volunteer to initiate the Holman Rule against any personnel or any program or any agency that denies access to Congress.' The Holman Rule permits a floor amendment to an appropriations bill reducing the salary of a specific federal employee or the funding of a specific program to as little as one dollar - it is the one instrument Congress holds that reaches an individual official who stonewalls. No such amendment has been offered. A member of the UAP Caucus but not of the Oversight Committee, Ogles attended the 12 January 2024 closed ICIG briefing and came out saying what 'most Americans fear is true,' describing 'a concerted effort to conceal as much information as possible - both in Congress and to the general public.' He was waived onto the September 2025 Task Force hearing as well.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Andrew Ogles",
+"sources": [
+{
+"date": "2023-07-26",
+"name": "U.S. GPO, Hearing transcript, Serial No. 118-53 (CHRG-118hhrg53022)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm"
+},
+{
+"date": "2025-09-09",
+"name": "U.S. GPO, Hearing transcript, Serial No. 119-44 (CHRG-119hhrg61718)",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm"
+},
+{
+"date": "2024-01-12",
+"name": "The Hill: Classified UFO briefing — House members emerge with mixed feelings",
+"url": "https://thehill.com/homenews/house/4406059-classified-ufo-briefing-house-members-mixed-feelings/"
+}
+],
+"status": "active",
+"sub": "U.S. Rep. (R-TN-5); UAP Caucus; threatened the Holman Rule over denied SCIF access",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 795 of 1027, score 18). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D2.",
+"timeline": [
+{
+"date": "2023-07-26",
+"id": "ch-2023-07-26e",
+"label": "Ogles names the Holman Rule",
+"precision": "day",
+"strand": "oversight",
+"text": "Ogles volunteers to initiate the Holman Rule against any personnel, program or agency that denies Congress access to Grusch in a SCIF. No such amendment has been offered.",
+"tier": "A"
+}
+],
+"unexplainedResidual": null,
+"unverified": []
+}

@@ -1,0 +1,144 @@
+{
+"A": 3,
+"C": 0,
+"D": 3,
+"band": null,
+"claims": [
+{
+"source": "https://irp.fas.org/budget/index.html",
+"text": "The FAS Intelligence Resource Program hosts 'National Intelligence Program Summary for FY2013 (excerpts) (TS/SI/TK/NOFORN)', released via the Washington Post.",
+"tier": 1
+},
+{
+"source": "https://irp.fas.org/budget/index.html",
+"text": "The officially disclosed FY2013 NIP figure was $52.7 billion requested, reduced to $49.0 billion by sequestration.",
+"tier": 1
+},
+{
+"source": "https://irp.fas.org/budget/index.html",
+"text": "FAS also indexes redacted Congressional Budget Justifications obtained by FOIA for ODNI (FY2008-FY2014), NRO (FY2006-FY2014), NGA (FY2009-FY2016) and the Military Intelligence Program (FY2007-FY2010, FY2016).",
+"tier": 1
+},
+{
+"source": "https://irp.fas.org/budget/index.html",
+"text": "The 2013 excerpts remain the only public view of the interior of the intelligence budget; every other public figure is an aggregate. Reasoning: no subsequent leak or FOIA release has produced a comparable programme-level NIP summary, and the statutory disclosure regime at 50 U.S.C. 3306 requires only aggregates.",
+"tier": 3
+}
+],
+"cls": "document",
+"cluster": "ic",
+"connections": [
+{
+"claimTier": 3,
+"cls": "document",
+"dateEnd": null,
+"dateStart": "2013-08-29",
+"direction": "out",
+"edgeLabel": "What the Schedule of Authorizations looks like from the inside",
+"id": "classified-schedule-authorizations",
+"l0": false,
+"label": "The Classified Schedule of Authorizations (Intelligence Authorization Act)",
+"note": "The FY2013 excerpts show agency, programme and objective-level detail of the kind that section 6102 of the Intelligence Authorization Act keeps in the classified Schedule. The inference that the two documents describe the same structure is reasoned; no source states it.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "FAS Intelligence Resource Program, Intelligence Budget Data",
+"url": "https://irp.fas.org/budget/index.html"
+}
+],
+"tier": "B",
+"type": "programmatic"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2013-08-29",
+"direction": "out",
+"edgeLabel": "FAS hosts the excerpts and the redacted FOIA budget justifications",
+"id": "fas",
+"l0": false,
+"label": "Federation of American Scientists",
+"note": "The FAS Intelligence Resource Program budget page indexes the FY2013 NIP Summary excerpts alongside redacted Congressional Budget Justifications for ODNI, NRO, NGA and the MIP. Attested by the page itself.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "FAS Intelligence Resource Program, Intelligence Budget Data",
+"url": "https://irp.fas.org/budget/index.html"
+}
+],
+"tier": "C",
+"type": "custody"
+},
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": null,
+"dateStart": "2013-08-29",
+"direction": "out",
+"edgeLabel": "The only public view of the interior of the National Intelligence Program",
+"id": "nip",
+"l0": true,
+"label": "National Intelligence Program (NIP)",
+"note": "The FY2013 NIP Summary excerpts, classified TS/SI/TK/NOFORN, were released via the Washington Post in August 2013 and are hosted by FAS; the officially disclosed figure for the same year was a single aggregate. Attested by the FAS document index.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "FAS Intelligence Resource Program, Intelligence Budget Data",
+"url": "https://irp.fas.org/budget/index.html"
+}
+],
+"tier": "B",
+"type": "investigative"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "2013-08-29",
+"deg": 3,
+"denials": [],
+"desc": "The interior of the black budget has been visible to the public exactly once. In August 2013 the Washington Post published excerpts from the 'National Intelligence Program Summary for FY2013', a document bearing the classification marking TS/SI/TK/NOFORN, obtained from the Edward Snowden disclosures. The Federation of American Scientists Intelligence Resource Program hosts the excerpts. For the same fiscal year the officially disclosed aggregate was $52.7 billion requested, reduced to $49.0 billion by sequestration - one number, against a document containing agency-level, programme-level and objective-level detail across the entire National Intelligence Program. Nothing comparable has been released before or since, by leak or by litigation. The FAS Intelligence Resource Program budget page is the most useful research asset in this area for a reason that has nothing to do with Snowden: it also indexes redacted Congressional Budget Justification volumes obtained by FOIA - for the Office of the Director of National Intelligence for FY2008, FY2009, FY2011, FY2012, FY2013 and FY2014; for the National Reconnaissance Office for FY2006, FY2007 and FY2009 through FY2014; for the National Geospatial-Intelligence Agency for FY2009 through FY2016; and for the Military Intelligence Program for FY2007, FY2008, FY2009, FY2010 and FY2016. Those redacted justifications are the only component-level intelligence budget documents in the public domain, and they have never been systematically read against the questions this board asks.",
+"domains": [
+"w2-black-budget"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "2",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "nip-fy2013-summary-disclosure",
+"l0": false,
+"label": "National Intelligence Program Summary for FY2013 (excerpts) - the 2013 black budget disclosure",
+"locLabel": null,
+"members": null,
+"short": "National Intelligence Program Summary for FY2013 (excerpts) - the 2013 black budget disclosure",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "FAS Intelligence Resource Program, Intelligence Budget Data",
+"url": "https://irp.fas.org/budget/index.html"
+},
+{
+"date": "2013-08-29",
+"name": "National Intelligence Program Summary for FY2013 (excerpts), hosted by FAS",
+"url": "https://irp.fas.org/budget/nip-fy2013.pdf"
+}
+],
+"sub": "Classified TS/SI/TK/NOFORN budget justification excerpts released via the Washington Post in 2013",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 369 of 1027, score 34). 3 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A3/D3.",
+"timeline": [
+{
+"date": "2013-08-29",
+"id": "bb-tl-2013-08-29-snowden",
+"label": "The only public view inside the black budget",
+"precision": "day",
+"strand": "coverup",
+"text": "The Washington Post publishes excerpts from the 'National Intelligence Program Summary for FY2013', classified TS/SI/TK/NOFORN, from the Snowden material. For the same year the officially disclosed figure was a single aggregate: $52.7 billion requested, $49.0 billion after sequestration. Thirteen years later this remains the only occasion on which the interior of the intelligence budget has been seen outside the cleared community.",
+"tier": "A"
+}
+]
+}

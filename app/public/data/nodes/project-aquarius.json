@@ -1,0 +1,128 @@
+{
+"A": 1,
+"C": 1,
+"D": 2,
+"band": null,
+"claims": [
+{
+"source": "National Archives, Project BLUE BOOK / MJ-12 reference report",
+"text": "The National Archives searched NSC Policy Paper and Meeting Minute indexes under the subjects 'MJ-12, majestic, unidentified flying objects, UFO, flying saucers, extraterrestrial biological entities, and Aquarius' and reported all searches negative except for the July 1954 Cutler-Twining memorandum.",
+"tier": 1
+},
+{
+"source": "Linda Moulton Howe, contemporaneous notes and consistent public accounts since 1983",
+"text": "Linda Moulton Howe was shown a document described as a government briefing paper by AFOSI Special Agent Richard Doty at Kirtland AFB in April 1983 and was not permitted to retain a copy.",
+"tier": 2
+}
+],
+"cls": "program",
+"cluster": "other",
+"connections": [
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "1983",
+"dateStart": "1983",
+"direction": "in",
+"edgeLabel": "Howe is the only named witness to the AQUARIUS paper's text",
+"id": "linda-moulton-howe",
+"l0": false,
+"label": "Linda Moulton Howe",
+"note": "No copy of the document has ever surfaced in any archive or FOIA release; Howe's notes are the sole record of its content.",
+"sources": [
+{
+"date": "2016-08-15",
+"name": "National Archives, 'Project BLUE BOOK - Unidentified Flying Objects' reference report (incl. MJ-12 / Cutler-Twining findings)",
+"url": "https://www.archives.gov/research/military/air-force/ufos"
+},
+{
+"date": "2021-05-20",
+"name": "Richard Doty Personnel File - New Mexico State Police [321 pages], NM Inspection of Public Records Act release",
+"url": "https://www.theblackvault.com/documentarchive/richard-doty-personnel-file-new-mexico-state-police/"
+}
+],
+"tier": "C",
+"type": "witness-chain"
+},
+{
+"claimTier": 3,
+"cls": "document",
+"dateEnd": "1984",
+"dateStart": "1983",
+"direction": "out",
+"edgeLabel": "AQUARIUS and MJ-12 emerged from the same Albuquerque channel within 20 months",
+"id": "mj-12-documents",
+"l0": true,
+"label": "MJ-12 / Operation Majestic-12 Documents",
+"note": "The AQUARIUS paper was shown at Kirtland in April 1983; the MJ-12 film arrived postmarked Albuquerque in December 1984. Both channels ran through people in contact with AFOSI.",
+"sources": [
+{
+"date": "2016-08-15",
+"name": "National Archives, 'Project BLUE BOOK - Unidentified Flying Objects' reference report (incl. MJ-12 / Cutler-Twining findings)",
+"url": "https://www.archives.gov/research/military/air-force/ufos"
+},
+{
+"date": "2011-04-01",
+"name": "FBI Records: The Vault - 'Majestic 12'",
+"url": "https://vault.fbi.gov/Majestic%2012"
+}
+],
+"tier": "B",
+"type": "programmatic"
+}
+],
+"coords": null,
+"dateEnd": "1989",
+"dateStart": "1983",
+"deg": 2,
+"denials": [],
+"desc": "AQUARIUS is the name attached to a typed paper that AFOSI Special Agent Richard Doty showed the documentary producer Linda Moulton Howe at Kirtland AFB in April 1983, which she was permitted to read and take notes on but not to copy. The paper described a US government programme covering retrieved craft and biological entities, and Howe was told film footage would be released to her for an HBO documentary; it never was, and the project collapsed. A version of the AQUARIUS text later circulated as a teletype and became entangled with the MJ-12 corpus. No copy from any government archive has ever surfaced. The National Archives has stated that it searched the National Security Council's Policy Paper and Meeting Minute indexes under, among other subjects, 'Aquarius' - and found nothing. AQUARIUS should therefore be catalogued as what the evidence supports: not a documented programme, but a documented instrument. A serving US counterintelligence agent used a paper bearing that name to manage an American journalist, and that use is the fact of record. The name's function was to make a promise of access that was never kept, which is the same function the Bennewitz material served.",
+"domains": [
+"history-1970s-2000s"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "1",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "project-aquarius",
+"l0": false,
+"label": "Project AQUARIUS (alleged)",
+"locLabel": null,
+"members": null,
+"short": "Project AQUARIUS (alleged)",
+"sources": [
+{
+"date": "2016-08-15",
+"name": "National Archives, 'Project BLUE BOOK - Unidentified Flying Objects' reference report (incl. MJ-12 / Cutler-Twining findings)",
+"url": "https://www.archives.gov/research/military/air-force/ufos"
+},
+{
+"date": "2021-05-20",
+"name": "Richard Doty Personnel File - New Mexico State Police [321 pages], NM Inspection of Public Records Act release",
+"url": "https://www.theblackvault.com/documentarchive/richard-doty-personnel-file-new-mexico-state-police/"
+},
+{
+"date": "2011-04-01",
+"name": "FBI Records: The Vault - 'Majestic 12'",
+"url": "https://vault.fbi.gov/Majestic%2012"
+}
+],
+"sub": "Purported USG UFO program named in AFOSI-sourced material, 1983",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 648 of 1027, score 24). 2 connections, 2 of them custody/witness/funding/programmatic. Axes C1/A1/D2.",
+"timeline": [
+{
+"date": "1983-04-09",
+"id": "t-1983-aquarius",
+"label": "Doty shows Howe the AQUARIUS paper",
+"precision": "day",
+"strand": "coverup",
+"text": "AFOSI Special Agent Richard Doty shows documentary producer Linda Moulton Howe a purported government briefing paper at Kirtland AFB. She may read but not copy it; the promised film footage never materialises.",
+"tier": "B"
+}
+]
+}

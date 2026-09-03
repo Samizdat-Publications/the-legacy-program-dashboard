@@ -1,0 +1,113 @@
+{
+"A": 1,
+"C": 2,
+"D": 3,
+"affiliations": [],
+"age": null,
+"band": null,
+"chronology": [],
+"claims": [
+{
+"source": "https://democrats-appropriations.house.gov/about/ranking-member-rosa-l-delauro",
+"text": "Rosa L. DeLauro (D-CT) is identified as Ranking Member of the House Appropriations Committee on the committee minority's official site.",
+"tier": 1
+},
+{
+"source": "https://democrats-appropriations.house.gov/news/press-releases/delauro-applauds-granger-for-trailblazing-career",
+"text": "DeLauro was Ranking Member of the House Appropriations Committee during the 118th Congress, serving opposite Chairwoman Kay Granger.",
+"tier": 2
+}
+],
+"cls": "person",
+"cluster": "oversight",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "seat 10 of 12 - Ranking Member, House Appropriations",
+"id": "waived-sap-notification-group",
+"l0": true,
+"label": "Waived SAP Notification Group",
+"note": "In the group continuously across the 118th and 119th Congresses.",
+"sources": [
+{
+"date": "2026-08-22",
+"name": "10 U.S.C. 119, Special Access Programs: congressional oversight — subsections (e)(2) and (g) (OLRC prelim text, read 22 August 2026)",
+"url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim"
+},
+{
+"date": "2026-08-22",
+"name": "U.S. Senate, Dates of Sessions of the Congress (convening dates used to date each seat)",
+"url": "https://www.senate.gov/legislative/DatesofSessionsofCongress.htm"
+},
+{
+"date": null,
+"name": "https://democrats-appropriations.house.gov/about/ranking-member-rosa-l-delauro",
+"url": "https://democrats-appropriations.house.gov/about/ranking-member-rosa-l-delauro"
+}
+],
+"tier": "A",
+"type": "institutional"
+}
+],
+"date": "2023-01-03",
+"dateEnd": null,
+"dateStart": "2023-01-03",
+"deg": 1,
+"denials": [],
+"domains": [
+"w9-waived-sap-group"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "rosa-delauro",
+"instId": null,
+"l0": false,
+"label": "Rosa L. DeLauro",
+"loc": null,
+"locId": null,
+"members": null,
+"narrative": "DeLauro has been the ranking minority member of the House Appropriations Committee across the 118th and 119th Congresses, which places her in the 10 U.S.C. 119(e)(2) group continuously from January 2023 through August 2026, including the period of the July 2023 Grusch testimony. Her seat is one of the four appropriations seats in the group - full committee chair and ranking in each chamber - that have no analogue in the Gang of Eight. She was ranking member opposite Chairwoman Kay Granger in the 118th Congress and opposite Chairman Tom Cole in the 119th. Her continuity through a change of chairman is the House appropriations equivalent of the Reed and Smith pattern on the armed services side. DeLauro has no publicly documented UAP-specific record. Her entitlement under section 119 is to receive, jointly with the chairman, whatever the Secretary of Defense withholds from a section 119 report plus the justification for the waiver. As with every other member of the group, that entitlement comes with no staff-sharing right, no disclosure route, and no sunset that would eventually force the material into wider committee view. In the intelligence context an equivalent limitation would expire after 180 days under 50 U.S.C. 3093(c)(5)(B). In the DoD SAP context it does not expire at all.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Rosa L. DeLauro",
+"sources": [
+{
+"date": "2026-08-22",
+"name": "U.S. Senate, Dates of Sessions of the Congress (convening dates: 111th 6 Jan 2009, 118th 3 Jan 2023, 119th 3 Jan 2025)",
+"url": "https://www.senate.gov/legislative/DatesofSessionsofCongress.htm"
+},
+{
+"date": null,
+"name": "https://democrats-appropriations.house.gov/about/ranking-member-rosa-l-delauro",
+"url": "https://democrats-appropriations.house.gov/about/ranking-member-rosa-l-delauro"
+},
+{
+"date": null,
+"name": "https://democrats-appropriations.house.gov/news/press-releases/delauro-applauds-granger-for-trailblazing-career",
+"url": "https://democrats-appropriations.house.gov/news/press-releases/delauro-applauds-granger-for-trailblazing-career"
+},
+{
+"date": null,
+"name": "https://democrats-appropriations.house.gov/subcommittees/defense-119th-congress",
+"url": "https://democrats-appropriations.house.gov/subcommittees/defense-119th-congress"
+}
+],
+"status": "active",
+"sub": "Ranking Member, House Appropriations Committee (118th and 119th Congresses, serving August 2026)",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 667 of 1027, score 23). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A1/D3.",
+"timeline": [],
+"unexplainedResidual": null,
+"unverified": []
+}

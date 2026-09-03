@@ -1,0 +1,257 @@
+{
+"A": 3,
+"C": 1,
+"D": 3,
+"band": null,
+"claims": [
+{
+"source": "https://www.govinfo.gov/content/pkg/USCODE-2023-title10/html/USCODE-2023-title10-subtitleA-partI-chap2-sec119.htm",
+"text": "Required by 10 U.S.C. 119(a)(1) 'Not later than March 1 of each year'; contents fixed by (a)(2). The new-program notice under (b)(1) is due separately 'Not later than February 1 of each year'.",
+"tier": 1
+},
+{
+"source": "https://web.archive.org/web/20220322050205/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf",
+"text": "Production chain, DoDD 5205.07 (2010) Enclosure 2 para 6: 'The CAs shall prepare and submit annual reports and other required SAP information through the Director, DoD SAPCO, and the governance structure in order to report the state of DoD SAPs to congressional committees, in accordance with Reference (c) [10 U.S.C. 119].' Every component's submission passes through a single office answering to the Deputy Secretary of Defense.",
+"tier": 1
+},
+{
+"source": "https://web.archive.org/web/20220322050205/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf",
+"text": "CUSTODY. DoDD 5205.07 (2010) para 4.h: 'All waived SAP material submitted to Congress, to include annual reports and other products, shall remain in DoD custody. No copies shall be stored outside DoD repositories or control without the approval of the Secretary or Deputy Secretary of Defense.' The waived annex of the annual report never leaves the department.",
+"tier": 1
+},
+{
+"source": "https://www.govinfo.gov/content/pkg/USCODE-2023-title10/html/USCODE-2023-title10-subtitleA-partI-chap2-sec119.htm",
+"text": "SUNSET. The GPO text of section 119 carries a 'Termination of Reporting Requirements' note: the requirements in subsecs. (a) and (b) to submit an annual report to Congress terminated effective December 31, 2021 under section 1061 of Pub. L. 114-328.",
+"tier": 1
+},
+{
+"source": "10 U.S.C. 119(a)",
+"text": "10 U.S.C. 119(a)(1)-(2) require the annual SAP report by 1 March with the total amount requested and, for each SAP in the budget, a brief description, major milestones, actual prior-year costs and six years of cost estimates.",
+"tier": 1
+},
+{
+"source": "DoDD 5205.07 (2010), Enclosure 2, para 6",
+"text": "DoDD 5205.07 (2010) Enclosure 2 para 6: 'The CAs shall prepare and submit annual reports and other required SAP information through the Director, DoD SAPCO, and the governance structure in order to report the state of DoD SAPs to congressional committees, in accordance with Reference (c).'",
+"tier": 1
+},
+{
+"source": "DoDI 5205.11, para 6",
+"text": "DoDI 5205.11 para 6 records that the SAP report 'is submitted to Congress in accordance with section 119 of Title 10, United States Code ... and is coordinated with the Assistant Secretary of Defense for Legislative Affairs in accordance with the procedures in DoDI 5545.02.'",
+"tier": 1
+},
+{
+"source": "DoDI 5205.11, para 5.d",
+"text": "DoDI 5205.11 para 5.d: 'Unclassified nicknames will be used in the annual SAP report to Congress.'",
+"tier": 1
+},
+{
+"source": "10 U.S.C. 119(a)(1) as enacted in 1987; DoDI 5205.11 Enclosure 3",
+"text": "The annual SAP report has existed as a recurring agency record since the first one was due on 1 February 1988 under the original text of 10 U.S.C. 119(a)(1), and its accuracy is certified annually by two named standing bodies - which makes 'nobody knows how many SAPs there are' a false statement about a document that exists in roughly forty annual editions. Reasoning: the statutory deadline plus the SRG and SAPOC validation functions.",
+"tier": 3
+}
+],
+"cls": "document",
+"cluster": "other",
+"connections": [
+{
+"claimTier": 3,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "all component submissions route through DoD SAPCO",
+"id": "dod-sapco",
+"l0": true,
+"label": "DoD Special Access Program Central Office (DoD SAPCO)",
+"note": "DoD SAPCO is the office this report is compiled through. 10 U.S.C. 119(a)(1) puts the obligation on the Secretary of Defense - 'not later than March 1 of each year, the Secretary of Defense shall submit to the defense committees a report on special access programs' - and DoDD 5205.07 vests central management of the SAP enterprise in DoD SAPCO under the Deputy Secretary of Defense. The statute names the Secretary; the directive names the office that does the work.",
+"sources": [
+{
+"date": "2026-08-22",
+"name": "10 U.S.C. 119(e)(2) and (g) (OLRC prelim text, read 22 August 2026)",
+"url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim"
+},
+{
+"date": "2024-01-05",
+"name": "10 U.S.C. 119 (GPO)",
+"url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title10/html/USCODE-2023-title10-subtitleA-partI-chap2-sec119.htm"
+}
+],
+"tier": "A",
+"type": "programmatic"
+},
+{
+"claimTier": 3,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2023-12-22",
+"direction": "in",
+"edgeLabel": "The statutory UAP records collection reaches records the SAP report describes",
+"id": "nara-uap-collection",
+"l0": true,
+"label": "National Archives Unidentified Anomalous Phenomena Records Collection",
+"note": "Sections 1841-1843 of Public Law 118-31 require transmission of UAP records regardless of classification; the annual SAP report and waived-program list are agency records that would fall within the definition if UAP-related.",
+"sources": [
+{
+"date": "2023-12-22",
+"name": "Public Law 118-31, FY2024 NDAA (govinfo enrolled text)",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm"
+}
+],
+"tier": "A",
+"type": "research"
+},
+{
+"claimTier": 1,
+"cls": "domain",
+"dateEnd": null,
+"dateStart": "2013-02-06",
+"direction": "in",
+"edgeLabel": "Congress receives nicknames, not missions",
+"id": "sap-cover-mechanisms",
+"l0": false,
+"label": "Cover mechanisms — HVSACO, nicknames, unacknowledged locations",
+"note": "DoDI 5205.11 para 5.d: 'Unclassified nicknames will be used in the annual SAP report to Congress.'",
+"sources": [
+{
+"date": "2018-08-31",
+"name": "DoD Instruction 5205.11, 6 February 2013, Change 1 31 August 2018",
+"url": "https://web.archive.org/web/20190916023050/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf"
+}
+],
+"tier": "A",
+"type": "programmatic"
+},
+{
+"claimTier": 3,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "2022-07-15",
+"direction": "in",
+"edgeLabel": "AARO's search for a concealed program ran against a document AARO did not control",
+"id": "sean-kirkpatrick",
+"l0": false,
+"label": "Sean M. Kirkpatrick",
+"note": "The annual SAP report and the waived-program list are produced by cognizant authorities through DoD SAPCO and validated by the SRG and SAPOC; no AARO authority in statute or directive gives it access to the waived list.",
+"sources": [
+{
+"date": "2018-08-31",
+"name": "DoD Instruction 5205.11, 6 February 2013, Change 1 31 August 2018",
+"url": "https://web.archive.org/web/20190916023050/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf"
+},
+{
+"date": "2026-08-12",
+"name": "10 U.S.C. 119",
+"url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim"
+}
+],
+"tier": "A",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": null,
+"dateStart": "1987-12-04",
+"direction": "in",
+"edgeLabel": "A waived program is precisely a program removed from the annual report",
+"id": "waived-usap-mechanism",
+"l0": true,
+"label": "Waived Unacknowledged SAP (waived USAP) — the mechanism",
+"note": "10 U.S.C. 119(e)(1) permits waiver of the requirement that certain information be included in the report; DoDD 5205.07 (2010) para 4.h keeps the substitute material in DoD custody.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "10 U.S.C. 119",
+"url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim"
+},
+{
+"date": "2018-08-31",
+"name": "DoD Directive 5205.07, 1 July 2010, Change 1 31 August 2018",
+"url": "https://web.archive.org/web/20190922210932/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf"
+}
+],
+"tier": "A",
+"type": "denial"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "1988-03-01",
+"deg": 5,
+"denials": [
+{
+"by": {
+"id": "waived-usap-mechanism",
+"label": "Waived Unacknowledged SAP (waived USAP) — the mechanism"
+},
+"claimTier": 1,
+"denialKind": "association",
+"label": "A waived program is precisely a program removed from the annual report",
+"note": "10 U.S.C. 119(e)(1) permits waiver of the requirement that certain information be included in the report; DoDD 5205.07 (2010) para 4.h keeps the substitute material in DoD custody.",
+"of": {
+"id": "sap-annual-report",
+"label": "The annual DoD special access program report to Congress"
+},
+"sources": [
+{
+"date": "2026-08-12",
+"name": "10 U.S.C. 119",
+"url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim"
+},
+{
+"date": "2018-08-31",
+"name": "DoD Directive 5205.07, 1 July 2010, Change 1 31 August 2018",
+"url": "https://web.archive.org/web/20190922210932/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf"
+}
+]
+}
+],
+"desc": "The annual SAP report is the single document that would settle the central question of this board, and everything about how it is produced is documented. It is required by 10 U.S.C. 119(a)(1) by 1 March each year to the six defense committees, and must set out the total requested for DoD SAPs and, for each program in the budget, a brief description, major milestones, actual prior cost, and estimated cost across six fiscal years. DoDI 5205.11 assigns its production: the cognizant authorities 'shall prepare and submit annual reports and other required SAP information through the Director, DoD SAPCO, and the governance structure in order to report the state of DoD SAPs to congressional committees'; the Senior Review Group 'Ensures the accuracy of the SAP list submitted to Congress prior to submission of the SAP annual report'; and the SAPOC conducts 'an annual review and validation of SAP reports sent to the Congressional defense and intelligence committees'. The report is coordinated with the Assistant Secretary of Defense for Legislative Affairs under DoDI 5545.02. Programs identified in it are identified by unclassified nickname. Waived programs are, by definition, the ones removed from it under 10 U.S.C. 119(e), with their information going instead to eight to twelve named members; and under DoDD 5205.07 (2010) para 4.h the waived material 'shall remain in DoD custody' with no copies stored outside DoD repositories. The report has never been released, in whole or in redacted part, under FOIA. It is the highest value single target on the board: one document, produced annually since 1988, whose table of contents is the answer.",
+"domains": [
+"_rs-sap-docs",
+"w2-sap-architecture"
+],
+"dossier": null,
+"entityInfo": {
+"desc": "The single most valuable unreleased document on this board. It exists. It has existed in annual editions since the first one fell due under 10 U.S.C. 119(a)(1). It lists, by unclassified nickname, every DoD special access program in the budget, with a brief description, milestones, historical cost and six years of cost estimates. Its accuracy is certified before submission by the Senior Review Group and validated annually by the Special Access Program Oversight Committee, chaired by the Deputy Secretary of Defense. It is coordinated with the Assistant Secretary of Defense for Legislative Affairs under DoDI 5545.02. Programs whose reporting has been waived under 119(e) are, by definition, absent from it, and the substitute material given to the chairs and ranking members 'shall remain in DoD custody' with no copies stored outside DoD repositories. Three things follow for anyone trying to force the record open. First, the assertion that the government does not know how many special access programs it has is false and is contradicted by DoD's own governance directive. Second, the difference between the count in the annual report and the count on the Senior Review Group's waived list is a single number that would, if produced, tell the public how much of the SAP enterprise is invisible to the committees as a whole. Third, that number has never been requested in public by any member of Congress at any hearing this board has recorded.",
+"sources": []
+},
+"era": "1",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "sap-annual-report",
+"l0": false,
+"label": "The annual DoD special access program report to Congress",
+"locLabel": null,
+"members": null,
+"short": "The annual DoD special access program report to Congress",
+"sources": [
+{
+"date": "2024-01-05",
+"name": "10 U.S.C. 119 (GPO)",
+"url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title10/html/USCODE-2023-title10-subtitleA-partI-chap2-sec119.htm"
+},
+{
+"date": "2020-02-04",
+"name": "DoDD 5205.07 (1 Jul 2010, Chg 2 4 Feb 2020) — Internet Archive capture",
+"url": "https://web.archive.org/web/20220322050205/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf"
+},
+{
+"date": "2026-08-12",
+"name": "10 U.S.C. 119",
+"url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim"
+},
+{
+"date": "2018-08-31",
+"name": "DoD Instruction 5205.11, 6 February 2013, Change 1 31 August 2018",
+"url": "https://web.archive.org/web/20190916023050/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf"
+}
+],
+"sub": "report",
+"tier": "A",
+"tierRationale": "Re-graded A on a global pass (rank 109 of 1027, score 59). 5 connections, 2 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D3.",
+"timeline": []
+}

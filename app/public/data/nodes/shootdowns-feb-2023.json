@@ -1,0 +1,240 @@
+{
+"A": 2,
+"C": 1,
+"D": 2,
+"band": null,
+"claims": [
+{
+"source": "Privy Council Office memo, 14 February 2023, obtained and reported by The War Zone, 7 September 2023",
+"text": "Secret memo of 14 February 2023 from Clerk of the Privy Council Janice Charette to PM Trudeau: 'The full exploitation of UAP #20, which was engaged by the U.S. on February 10, 2023, has not yet been completed.'",
+"tier": 1
+},
+{
+"source": "Charette memo, 14 February 2023",
+"text": "The Yukon object, UAP #23, 'remains unverified' as to 'function, method of propulsion, or affiliation to any nation-state.'",
+"tier": 1
+},
+{
+"source": "The War Zone, 22 May 2026",
+"text": "The Lake Huron object was engaged on 12 February 2023 by two F-16CMs of the Minnesota Air National Guard's 148th Fighter Wing using an AIM-9X at roughly 20,000 feet.",
+"tier": 1
+},
+{
+"source": "F-16 pilot audio, reported by The War Zone",
+"text": "Pilot audio: 'In the targeting pod, I can't tell if it's metallic or what, but I can see like lines coming down below it.'",
+"tier": 2
+},
+{
+"source": "The War Zone, 22 May 2026",
+"text": "Infrared video of the Lake Huron shootdown was released on 22 May 2026 through PURSUE; the source entry noted a lack of 'substantiated chain-of-custody.'",
+"tier": 1
+},
+{
+"source": "Sean Kirkpatrick, quoted by The War Zone, 22 May 2026",
+"text": "'We scrambled jets and shot down a bunch of things. Do you know what we shot down? Balloons.'",
+"tier": 2
+}
+],
+"cls": "event",
+"cluster": "other",
+"connections": [
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "2023",
+"dateStart": "2023",
+"direction": "out",
+"edgeLabel": "Allied government's contemporaneous Secret record of the engagements",
+"id": "charette-memo-2023",
+"l0": false,
+"label": "Charette Privy Council Memorandum (Secret, 14 Feb 2023)",
+"note": "The 14 February 2023 Privy Council memo to Prime Minister Trudeau documents that exploitation of the Alaska object was incomplete and the Yukon object unverified as to function and propulsion.",
+"sources": [
+{
+"date": "2023-09-07",
+"name": "The War Zone - secret memo raises more questions about the shootdowns",
+"url": "https://www.twz.com/secret-memo-raises-more-questions-about-ufo-shootdowns-over-alaska-canada"
+}
+],
+"tier": "C",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "2023",
+"dateStart": "2023",
+"direction": "out",
+"edgeLabel": "NORAD-controlled fighters destroyed three unidentified objects in four days",
+"id": "norad-northcom",
+"l0": false,
+"label": "NORAD and US Northern Command",
+"note": "Two F-16CMs of the Minnesota Air National Guard's 148th Fighter Wing destroyed the Lake Huron object with an AIM-9X at roughly 20,000 feet on 12 February 2023.",
+"sources": [
+{
+"date": "2026-05-22",
+"name": "The War Zone - we finally see the object shot down over Lake Huron",
+"url": "https://www.twz.com/air/we-finally-see-the-mysterious-object-shot-down-by-f-16s-over-lake-huron"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": "2026",
+"dateStart": "2023",
+"direction": "out",
+"edgeLabel": "Lake Huron engagement video withheld until the May 2026 PURSUE release",
+"id": "pursue-releases",
+"l0": true,
+"label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters",
+"note": "Infrared footage of the 12 February 2023 shootdown was released on 22 May 2026 via PURSUE, with the entry noting an unusual lack of substantiated chain of custody.",
+"sources": [
+{
+"date": "2026-05-22",
+"name": "The War Zone - we finally see the object shot down over Lake Huron",
+"url": "https://www.twz.com/air/we-finally-see-the-mysterious-object-shot-down-by-f-16s-over-lake-huron"
+},
+{
+"date": "2026-08-12",
+"name": "Department of War - PURSUE release site",
+"url": "https://www.war.gov/UFO/"
+}
+],
+"tier": "A",
+"type": "custody"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2026",
+"dateStart": "2023",
+"direction": "out",
+"edgeLabel": "Retrospective 'they were balloons' characterisation contradicts the contemporaneous allied record",
+"id": "sean-kirkpatrick",
+"l0": false,
+"label": "Sean M. Kirkpatrick",
+"note": "Kirkpatrick: 'We scrambled jets and shot down a bunch of things. Do you know what we shot down? Balloons.' The Canadian Clerk of the Privy Council's Secret memo of 14 Feb 2023 records the Yukon object's function and propulsion as unverified.",
+"sources": [
+{
+"date": "2026-05-22",
+"name": "The War Zone - we finally see the object shot down over Lake Huron",
+"url": "https://www.twz.com/air/we-finally-see-the-mysterious-object-shot-down-by-f-16s-over-lake-huron"
+},
+{
+"date": "2023-09-07",
+"name": "The War Zone - secret memo raises more questions about the shootdowns",
+"url": "https://www.twz.com/secret-memo-raises-more-questions-about-ufo-shootdowns-over-alaska-canada"
+}
+],
+"tier": "A",
+"type": "denial"
+}
+],
+"coords": null,
+"dateEnd": "2023",
+"dateStart": "2023",
+"deg": 4,
+"denials": [
+{
+"by": {
+"id": "sean-kirkpatrick",
+"label": "Sean M. Kirkpatrick"
+},
+"claimTier": 2,
+"denialKind": "directed",
+"label": "Retrospective 'they were balloons' characterisation contradicts the contemporaneous allied record",
+"note": "Kirkpatrick: 'We scrambled jets and shot down a bunch of things. Do you know what we shot down? Balloons.' The Canadian Clerk of the Privy Council's Secret memo of 14 Feb 2023 records the Yukon object's function and propulsion as unverified.",
+"of": {
+"id": "shootdowns-feb-2023",
+"label": "February 2023 Alaska, Yukon and Lake Huron Shootdowns"
+},
+"sources": [
+{
+"date": "2026-05-22",
+"name": "The War Zone - we finally see the object shot down over Lake Huron",
+"url": "https://www.twz.com/air/we-finally-see-the-mysterious-object-shot-down-by-f-16s-over-lake-huron"
+},
+{
+"date": "2023-09-07",
+"name": "The War Zone - secret memo raises more questions about the shootdowns",
+"url": "https://www.twz.com/secret-memo-raises-more-questions-about-ufo-shootdowns-over-alaska-canada"
+}
+]
+}
+],
+"desc": "Between 10 and 12 February 2023, US fighters shot down three unidentified objects over Alaska, the Yukon and Lake Huron, in the days after the Chinese surveillance balloon was destroyed off South Carolina. A Secret memorandum dated 14 February 2023 from Janice Charette, Clerk of the Privy Council, to Prime Minister Justin Trudeau and National Security Advisor Jody Thomas records that 'The full exploitation of UAP #20, which was engaged by the U.S. on February 10, 2023, has not yet been completed,' describing an object roughly the size of a small car at 40,000 feet, 'cylindrical and silver-ish gray' with no apparent propulsion system, which broke apart on sea ice near Prudhoe Bay. The Yukon object, tracked as UAP #23, 'remains unverified' as to 'function, method of propulsion, or affiliation to any nation-state.' The Lake Huron object was destroyed on 12 February 2023 by an AIM-9X fired from one of two F-16CMs of the Minnesota Air National Guard's 148th Fighter Wing at roughly 20,000 feet; a pilot reported 'In the targeting pod, I can't tell if it's metallic or what, but I can see like lines coming down below it.' None of the three were recovered intact. Infrared footage of the Lake Huron engagement was not released until 22 May 2026, through the PURSUE initiative, and the source entry noted an unusual absence of 'substantiated chain-of-custody.' Sean Kirkpatrick's retrospective characterisation - 'We scrambled jets and shot down a bunch of things. Do you know what we shot down? Balloons' - is recorded here as a denial artefact, since the Canadian government's own contemporaneous Secret memo says the objects' function and propulsion were unknown.",
+"domains": [
+"aviators-incidents"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "shootdowns-feb-2023",
+"l0": false,
+"label": "February 2023 Alaska, Yukon and Lake Huron Shootdowns",
+"locLabel": null,
+"members": null,
+"short": "February 2023 Alaska, Yukon and Lake Huron Shootdowns",
+"sources": [
+{
+"date": "2023-09-07",
+"name": "The War Zone - secret memo raises more questions about the shootdowns",
+"url": "https://www.twz.com/secret-memo-raises-more-questions-about-ufo-shootdowns-over-alaska-canada"
+},
+{
+"date": "2026-05-22",
+"name": "The War Zone - we finally see the object shot down over Lake Huron",
+"url": "https://www.twz.com/air/we-finally-see-the-mysterious-object-shot-down-by-f-16s-over-lake-huron"
+},
+{
+"date": "2023-02-12",
+"name": "The War Zone - F-16s shoot down octagonal object over Lake Huron",
+"url": "https://www.twz.com/fighters-shoot-down-object-over-lake-huron"
+},
+{
+"date": "2024-09-25",
+"name": "The War Zone - first look at the object shot down over Canada",
+"url": "https://www.twz.com/air/first-look-at-mystery-object-shot-down-over-canada-by-f-22-raptor-last-year"
+}
+],
+"sub": "Three unidentified objects destroyed by US fighters in four days",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 236 of 1027, score 41). 4 connections, 1 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D2.",
+"timeline": [
+{
+"date": "2023-02-10",
+"id": "av-2023-02-10",
+"label": "Alaska object destroyed",
+"precision": "day",
+"strand": "coverup",
+"text": "US fighters destroy an object at 40,000 feet described as the size of a small car, cylindrical and silver-grey with no apparent propulsion, over Prudhoe Bay. It is tracked as UAP #20.",
+"tier": "A"
+},
+{
+"date": "2023-02-12",
+"id": "av-2023-02-12",
+"label": "Lake Huron object destroyed",
+"precision": "day",
+"strand": "coverup",
+"text": "Two F-16CMs of the 148th Fighter Wing destroy an object at roughly 20,000 feet with an AIM-9X. A pilot reports 'I can't tell if it's metallic or what, but I can see like lines coming down below it.'",
+"tier": "A"
+},
+{
+"date": "2026-05-22",
+"id": "av-2026-05-22",
+"label": "Lake Huron shootdown video released",
+"precision": "day",
+"strand": "program",
+"text": "Infrared footage of the 12 February 2023 engagement is published through PURSUE, with the entry noting a lack of substantiated chain of custody.",
+"tier": "A"
+}
+]
+}

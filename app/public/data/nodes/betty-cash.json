@@ -1,0 +1,218 @@
+{
+"A": 0,
+"C": 1,
+"D": 2,
+"affiliations": [],
+"age": 71,
+"band": null,
+"chronology": [
+{
+"date": "1980-12-29",
+"event": "The encounter near Huffman, Texas, at about 9pm",
+"precision": "day"
+},
+{
+"date": "1981-01-02",
+"event": "Hospitalised; discharged 19 January 1981 per her medical records",
+"precision": "day"
+},
+{
+"date": "1981-08",
+"event": "Interviewed at Bergstrom Air Force Base with Vickie and Colby Landrum in connection with the contemplated legal action; signs a sketch of a diamond-shaped object",
+"precision": "month"
+},
+{
+"date": "1984-01-18",
+"event": "Original complaint and summons filed, Civil Action No. H-84-348, S.D. Tex., Houston Division",
+"precision": "day"
+},
+{
+"date": "1986-08-21",
+"event": "Order of Dismissal entered by Judge Ross N. Sterling under FRCP 12(b)(1), 12(b)(6) and 56",
+"precision": "day"
+},
+{
+"date": "1998-12-29",
+"event": "Dies, on the eighteenth anniversary of the encounter",
+"precision": "day"
+}
+],
+"claims": [
+{
+"source": "Civil docket sheet, Cash v. United States, No. H-84-348 (S.D. Tex.) — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"text": "Betty Cash, Vickie Landrum and Colby Landrum sued the United States of America in the US District Court for the Southern District of Texas, Houston Division, Civil Action No. H-84-348, under 28 U.S.C. 1346(b) and 2671 et seq.; the original complaint was filed and summonses issued in January 1984 and Peter A. Gersten was designated attorney in charge.",
+"tier": 2
+},
+{
+"source": "Order of Dismissal, Cash v. United States, No. H-84-348, filed 21 August 1986 (scan of the clerk-stamped original) — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"text": "An Order of Dismissal was filed on 21 August 1986 by Judge Ross N. Sterling, dismissing the cause pursuant to Federal Rules of Civil Procedure 12(b)(1), 12(b)(6) and 56, on the United States' Motion to Dismiss and/or for Summary Judgment.",
+"tier": 2
+},
+{
+"source": "Gersten, quoted in the Houston Chronicle, Texas Magazine, 17 November 1996, p. 8",
+"text": "Attorney Peter Gersten later stated that the suit was a bluff, brought in the hope that the government would settle quietly and cover the medical expenses.",
+"tier": 2
+},
+{
+"source": "Department of the Army Inspector General investigation, 1982; Sarran quoted in the case literature",
+"text": "Lt. Col. George Sarran of the Office of the Inspector General of the US Army conducted the only thorough formal government investigation of the encounter in 1982 and found no evidence that the helicopters belonged to the US armed forces, while stating that Cash and Landrum were credible and that no one appeared to be exaggerating.",
+"tier": 2
+}
+],
+"cls": "person",
+"cluster": "witness",
+"conflicts": [
+"Brad Sparks argued the symptom onset was inconsistent with any survivable ionising radiation dose. Gary Posner and Brian Dunning, working from the medical records Schuessler himself published, attribute the hair loss to alopecia areata and the other symptoms to pre-existing illness. Robert Sheaffer established that the precise incident location was never fixed."
+],
+"connections": [
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": "1986-08-21",
+"dateStart": "1984",
+"direction": "in",
+"edgeLabel": "The United States denied ownership of the object and the aircraft",
+"id": "cash-v-united-states",
+"l0": false,
+"label": "Cash v. United States, Civil Action No. H-84-348 (S.D. Tex.)",
+"note": "The government moved to dismiss and for summary judgment; the court dismissed under FRCP 12(b)(1), 12(b)(6) and 56. The Defense Department's internal investigation into whether the object was a US military device has never produced a released document.",
+"sources": [
+{
+"date": "1986-08-21",
+"name": "Cash v. United States, No. H-84-348 - docket and Order of Dismissal",
+"url": "https://files.afu.se/Downloads/Books/Other/Quest_Publications/Quest_Publications_101-Cash_Landrum_File-Civil_Action.pdf"
+}
+],
+"tier": "C",
+"type": "denial"
+},
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": "1986-08-21",
+"dateStart": "1984-01-18",
+"direction": "out",
+"edgeLabel": "Lead named plaintiff",
+"id": "cash-v-united-states",
+"l0": false,
+"label": "Cash v. United States, Civil Action No. H-84-348 (S.D. Tex.)",
+"note": "Betty Cash, Vickie Landrum and Colby Landrum v. United States of America, No. H-84-348, S.D. Tex., Houston Division, dismissed 21 August 1986 by Judge Ross N. Sterling.",
+"sources": [
+{
+"date": "1986-08-21",
+"name": "Cash v. United States, No. H-84-348 - docket and Order of Dismissal",
+"url": "https://files.afu.se/Downloads/Books/Other/Quest_Publications/Quest_Publications_101-Cash_Landrum_File-Civil_Action.pdf"
+}
+],
+"tier": "C",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "1998",
+"dateStart": "1981-02",
+"direction": "in",
+"edgeLabel": "Investigator of record from February 1981",
+"id": "john-schuessler",
+"l0": false,
+"label": "John F. Schuessler",
+"note": "Schuessler and Project VISIT taped the hospital interview in early February 1981, conducted the on-site investigation on 28 February 1981 and filed a 35-page report with MUFON on 4 March 1981; he published the case file in 1998.",
+"sources": [
+{
+"date": "2019-10-03",
+"name": "Curt Collins, Cash-Landrum UFO Case Document Collection",
+"url": "https://www.blueblurrylines.com/search?q=lawsuit+Cash+Landrum"
+}
+],
+"tier": "C",
+"type": "investigative"
+}
+],
+"date": "1998-12-29",
+"dateEnd": null,
+"dateStart": "1998-12-29",
+"deg": 2,
+"denials": [
+{
+"by": {
+"id": "cash-v-united-states",
+"label": "Cash v. United States, Civil Action No. H-84-348 (S.D. Tex.)"
+},
+"claimTier": 1,
+"denialKind": "undirected",
+"label": "The United States denied ownership of the object and the aircraft",
+"note": "The government moved to dismiss and for summary judgment; the court dismissed under FRCP 12(b)(1), 12(b)(6) and 56. The Defense Department's internal investigation into whether the object was a US military device has never produced a released document.",
+"of": {
+"id": "betty-cash",
+"label": "Betty Cash"
+},
+"sources": [
+{
+"date": "1986-08-21",
+"name": "Cash v. United States, No. H-84-348 - docket and Order of Dismissal",
+"url": "https://files.afu.se/Downloads/Books/Other/Quest_Publications/Quest_Publications_101-Cash_Landrum_File-Civil_Action.pdf"
+}
+]
+}
+],
+"domains": [
+"w2-retrieval-literature"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "1",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "betty-cash",
+"instId": null,
+"l0": false,
+"label": "Betty Cash",
+"loc": "Dayton, TX",
+"locId": "l-huffman-tx",
+"members": null,
+"narrative": "Betty Cash was fifty-one on the night of 29 December 1980 when, with Vickie Landrum and seven-year-old Colby Landrum, she stopped her car on a two-lane road near Huffman, Texas, in front of what all three described as an intensely bright object expelling flame, followed by a formation of tandem-rotor helicopters they counted at around twenty-three. She stood outside the car longest and was injured worst: hospitalised from 2 January 1981, with blistering, hair loss and eye symptoms, later treated for breast cancer. She became the lead named plaintiff in Betty Cash, Vickie Landrum and Colby Landrum v. United States of America, Civil Action No. H-84-348, filed in the United States District Court for the Southern District of Texas, Houston Division, on 18 January 1984 under the Federal Tort Claims Act, 28 U.S.C. 1346(b) and 2671 et seq. Her attorney in charge was Peter A. Gersten of Gagliardi, Torpes & Gersten, Tarrytown, New York, with William C. Shead as local co-counsel. On 21 August 1986 Judge Ross N. Sterling granted the government's motion and entered an Order of Dismissal under Federal Rules of Civil Procedure 12(b)(1), 12(b)(6) and 56. This board records Cash at tier A not because the object is identified - it is not - but because she is the only UFO witness in the United States to have forced the government to appear in a federal court and answer, on the record, whether an object and aircraft of that description were its own.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Betty Cash",
+"sources": [
+{
+"date": "1986-08-21",
+"name": "The Cash-Landrum File: Civil Action No. H-84-348 - docket sheet, pleadings and Order of Dismissal (scan)",
+"url": "https://files.afu.se/Downloads/Books/Other/Quest_Publications/Quest_Publications_101-Cash_Landrum_File-Civil_Action.pdf"
+},
+{
+"date": "2019-10-03",
+"name": "Curt Collins, 'The Cash-Landrum UFO Case Document Collection', Blue Blurry Lines",
+"url": "https://www.blueblurrylines.com/search?q=lawsuit+Cash+Landrum"
+},
+{
+"date": "2026-08-12",
+"name": "Cash-Landrum incident - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident"
+}
+],
+"status": "dead",
+"sub": "Lead plaintiff, Cash v. United States; claimed radiation injury from the 29 December 1980 encounter",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 666 of 1027, score 23). 3 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A0/D2.",
+"timeline": [
+{
+"date": "1980-12-29",
+"id": "tl-1980-1229-cl",
+"label": "Cash-Landrum encounter",
+"precision": "day",
+"strand": "witness",
+"text": "Betty Cash, Vickie Landrum and Colby Landrum stop on FM 1485 near Huffman, Texas before a bright diamond-shaped object expelling flame, followed by a formation of tandem-rotor helicopters. All three report illness; Cash is hospitalised from 2 January 1981.",
+"tier": "B"
+}
+],
+"unexplainedResidual": null,
+"unverified": [
+"Whether the Defense Department's internal investigation into whether the object was a US military device produced documents; none have ever surfaced.",
+"Betty Cash's exact date of death is given as 29 December 1998 in the case literature and has not been checked against a death certificate here."
+]
+}

@@ -1,0 +1,113 @@
+{
+"A": 1,
+"C": 2,
+"D": 3,
+"affiliations": [],
+"age": null,
+"band": null,
+"chronology": [],
+"claims": [
+{
+"source": "https://www.appropriations.senate.gov/about/members",
+"text": "Susan Collins (R-ME) is listed as Chair of the Senate Appropriations Committee on the committee's official members page.",
+"tier": 1
+},
+{
+"source": "https://www.govinfo.gov/content/pkg/GPO-CPUB-118spub3/html/GPO-CPUB-118spub3.htm",
+"text": "In the 118th Congress Collins was the ranking minority member of the Senate Appropriations Committee and also the ranking minority member of its Defense Subcommittee, which was chaired by Jon Tester.",
+"tier": 1
+}
+],
+"cls": "person",
+"cluster": "oversight",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "seat 3 of 12 - Chair, Senate Appropriations",
+"id": "waived-sap-notification-group",
+"l0": true,
+"label": "Waived SAP Notification Group",
+"note": "Held two of the twelve seats simultaneously in the 118th Congress as ranking member of both the full committee and its Defense Subcommittee.",
+"sources": [
+{
+"date": "2026-08-22",
+"name": "10 U.S.C. 119, Special Access Programs: congressional oversight — subsections (e)(2) and (g) (OLRC prelim text, read 22 August 2026)",
+"url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim"
+},
+{
+"date": "2026-08-22",
+"name": "U.S. Senate, Dates of Sessions of the Congress (convening dates used to date each seat)",
+"url": "https://www.senate.gov/legislative/DatesofSessionsofCongress.htm"
+},
+{
+"date": null,
+"name": "https://www.appropriations.senate.gov/about/members",
+"url": "https://www.appropriations.senate.gov/about/members"
+},
+{
+"date": null,
+"name": "https://www.govinfo.gov/content/pkg/GPO-CPUB-118spub3/html/GPO-CPUB-118spub3.htm",
+"url": "https://www.govinfo.gov/content/pkg/GPO-CPUB-118spub3/html/GPO-CPUB-118spub3.htm"
+}
+],
+"tier": "A",
+"type": "institutional"
+}
+],
+"date": "2023-01-03",
+"dateEnd": null,
+"dateStart": "2023-01-03",
+"deg": 1,
+"denials": [],
+"domains": [
+"w9-waived-sap-group"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "susan-collins",
+"instId": null,
+"l0": false,
+"label": "Susan M. Collins",
+"loc": null,
+"locId": null,
+"members": null,
+"narrative": "Collins occupies the Senate Appropriations chair, one of the six chairmanships that generate a 10 U.S.C. 119(e)(2) entitlement. Her presence in the group illustrates why the Gang of Eight comparison misleads: appropriators are inside the waived-SAP circle and outside the covert-action circle, while the party leaders are the reverse. Collins is the money side of the entitlement. A waived special access program still has to be paid for, and the appropriations leadership sees the classified annex material that the authorising committees do not necessarily see in the same form. In 2023 Collins held two of the twelve seats simultaneously - ranking member of the full Appropriations Committee and ranking member of its Defense Subcommittee - which is a recurring feature of the group worth flagging: because the same senator often occupies both the full-committee and subcommittee seat, the twelve statutory seats are frequently filled by fewer than twelve distinct people. In the 118th Congress the Senate side of the 119(e)(2) group comprised only five individuals rather than six for exactly this reason. Collins has no publicly documented UAP-specific record. As with the other holders, the absence is notable rather than exculpatory: the statute gives her sight of waived programme material and gives her no mechanism to disclose it.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Susan M. Collins",
+"sources": [
+{
+"date": "2026-08-22",
+"name": "U.S. Senate, Dates of Sessions of the Congress (convening dates: 111th 6 Jan 2009, 118th 3 Jan 2023, 119th 3 Jan 2025)",
+"url": "https://www.senate.gov/legislative/DatesofSessionsofCongress.htm"
+},
+{
+"date": null,
+"name": "https://www.appropriations.senate.gov/about/members",
+"url": "https://www.appropriations.senate.gov/about/members"
+},
+{
+"date": null,
+"name": "https://www.govinfo.gov/content/pkg/GPO-CPUB-118spub3/html/GPO-CPUB-118spub3.htm",
+"url": "https://www.govinfo.gov/content/pkg/GPO-CPUB-118spub3/html/GPO-CPUB-118spub3.htm"
+}
+],
+"status": "active",
+"sub": "Chair, Senate Appropriations Committee (119th Congress, serving August 2026); Ranking Member of that committee and of its Defense Subcommittee in the 118th Congress including 2023",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 639 of 1027, score 24). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A1/D3.",
+"timeline": [],
+"unexplainedResidual": null,
+"unverified": []
+}

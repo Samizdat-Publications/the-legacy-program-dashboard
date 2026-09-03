@@ -1,0 +1,124 @@
+{
+"A": 2,
+"C": 1,
+"D": 1,
+"band": null,
+"claims": [
+{
+"source": "DoD announcement 23 November 2021; recited in the 15 July 2022 AARO establishment memorandum",
+"text": "AOIMSG was established by Deputy Secretary of Defense direction on 23 November 2021, overseen by AOIMEXEC co-chaired by USD(I&S) and the Joint Staff Director for Operations.",
+"tier": 1
+},
+{
+"source": "DoD memorandum, 15 July 2022",
+"text": "AOIMSG was superseded and disestablished by the AARO establishment memorandum of 15 July 2022.",
+"tier": 1
+},
+{
+"source": "Inference from the entity's charter language, its eight-month lifespan, and the absence of any published product",
+"text": "AOIMSG was a naming exercise rather than an investigative capability - a synchronization group with no compulsion authority stood up to satisfy a statutory mandate for a permanent office.",
+"tier": 3
+}
+],
+"cls": "program",
+"cluster": "other",
+"connections": [
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "2022",
+"dateStart": "2022",
+"direction": "out",
+"edgeLabel": "superseded and disestablished by AARO",
+"id": "aaro",
+"l0": true,
+"label": "All-domain Anomaly Resolution Office (AARO)",
+"note": "The 15 July 2022 memorandum disestablished AOIMSG eight months after its creation and replaced it with AARO.",
+"sources": [
+{
+"date": "2022-07-15",
+"name": "AARO establishment memorandum",
+"url": "https://media.defense.gov/2022/Jul/20/2003039074/-1/-1/1/ESTABLISHMENT-OF-THE-ALL-DOMAIN-ANOMALY-RESOLUTION-OFFICE.PDF"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "directed establishment of AOIMSG, 23 November 2021",
+"id": "kathleen-hicks",
+"l0": false,
+"label": "Kathleen H. Hicks",
+"note": "Hicks stood up AOIMSG as the Department's answer to the FY2022 NDAA Section 1683 requirement for a permanent office.",
+"sources": [
+{
+"date": "2022-07-15",
+"name": "AARO establishment memorandum (reciting AOIMSG)",
+"url": "https://media.defense.gov/2022/Jul/20/2003039074/-1/-1/1/ESTABLISHMENT-OF-THE-ALL-DOMAIN-ANOMALY-RESOLUTION-OFFICE.PDF"
+}
+],
+"tier": "C",
+"type": "institutional"
+}
+],
+"coords": null,
+"dateEnd": "2022",
+"dateStart": "2021",
+"deg": 2,
+"denials": [],
+"desc": "AOIMSG was directed into existence by Deputy Secretary of Defense Kathleen Hicks on 23 November 2021 as the Department's answer to Section 1683 of the FY2022 NDAA, which required a permanent office. It was overseen by an executive council, AOIMEXEC, co-chaired by the Under Secretary of Defense for Intelligence and Security and the Director for Operations of the Joint Staff. Its name is its function: a synchronization group, not an investigative office - a coordinating layer with no independent authority to compel access to anything. It existed for eight months and produced no public product. Congress and the press treated it as inadequate almost immediately, and Hicks superseded it with AARO on 15 July 2022. AOIMSG is the clearest single illustration of the pattern this board tracks: when Congress mandates a body with real authority, the Department first stands up something with the name and none of the powers, and only escalates when that fails politically.",
+"domains": [
+"_rs-archive-mirror",
+"uaptf-aaro"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "aoimsg",
+"l0": false,
+"label": "Airborne Object Identification and Management Synchronization Group (AOIMSG)",
+"locLabel": null,
+"members": null,
+"short": "Airborne Object Identification and Management Synchronization Group (AOIMSG)",
+"sources": [
+{
+"date": "2026-06-09",
+"name": "Archived: DoD - Establishment of the All-domain Anomaly Resolution Office (memo, reciting AOIMSG) (Wayback 2026-06-09)",
+"url": "https://web.archive.org/web/20260609160749/https://media.defense.gov/2022/Jul/20/2003039074/-1/-1/1/ESTABLISHMENT-OF-THE-ALL-DOMAIN-ANOMALY-RESOLUTION-OFFICE.PDF"
+},
+{
+"date": "2022-07-15",
+"name": "DoD - Establishment of the All-domain Anomaly Resolution Office (memo, reciting AOIMSG)",
+"url": "https://media.defense.gov/2022/Jul/20/2003039074/-1/-1/1/ESTABLISHMENT-OF-THE-ALL-DOMAIN-ANOMALY-RESOLUTION-OFFICE.PDF"
+},
+{
+"date": "2026-08-12",
+"name": "Wikipedia - All-domain Anomaly Resolution Office (AOIMSG history)",
+"url": "https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office"
+}
+],
+"sub": "OSD synchronization group, Nov 2021 - Jul 2022",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 728 of 1027, score 21). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D1.",
+"timeline": [
+{
+"date": "2021-11-23",
+"id": "tl-aoimsg-2021-11-23",
+"label": "AOIMSG stood up",
+"precision": "day",
+"strand": "program",
+"text": "Deputy Secretary Hicks directs establishment of the Airborne Object Identification and Management Synchronization Group, a coordinating layer with no independent authority, overseen by AOIMEXEC.",
+"tier": "B"
+}
+]
+}

@@ -1,0 +1,144 @@
+{
+"A": 2,
+"C": 1,
+"D": 3,
+"band": null,
+"claims": [
+{
+"source": "vault.fbi.gov/UFO, accessed 12 August 2026",
+"text": "The FBI Vault UFO collection comprises 16 parts covering the Bureau's role in investigating flying object reports between 1947 and 1954, released 30 November 2010 and last modified 25 July 2013.",
+"tier": 1
+},
+{
+"source": "Disclosure Archives inventory of Release 01",
+"text": "PURSUE Release 01 published FBI file 62-HQ-83894, the master flying disc file spanning 1947-1968, as a single 101MB PDF.",
+"tier": 2
+},
+{
+"source": "Disclosure Archives inventory of Release 03",
+"text": "PURSUE Release 03 contained 29 FBI files including a 2021-2025 orb corpus with four authenticated eyewitness videos and an FD-1057 documenting two FBI special agents' own observation.",
+"tier": 2
+},
+{
+"source": "Inference from the Vault UFO collection's date range and modification date against the FBI-originated material in PURSUE Releases 01, 03 and 05",
+"text": "The FBI's own public reading room, last updated in 2013 and ending at 1954, concealed by omission an active modern collection posture that only became visible when another department published the Bureau's files.",
+"tier": 3
+}
+],
+"cls": "document",
+"cluster": "oversight",
+"connections": [
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "FBI transferred records to RG 615 while its standing Vault collection stayed frozen at 2013",
+"id": "nara-rg615",
+"l0": true,
+"label": "National Archives Record Group 615 - UAP Records Collection",
+"note": "The FBI appears as an RG 615 contributor (catalog ID 580705010) and was the largest single contributor to PURSUE Release 03, while its public Vault UFO collection remained last-modified 25 July 2013.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "National Archives, Record Group 615",
+"url": "https://www.archives.gov/research/topics/uaps/rg-615"
+}
+],
+"tier": "A",
+"type": "custody"
+},
+{
+"claimTier": 2,
+"cls": "event",
+"dateEnd": "2026",
+"dateStart": "2026",
+"direction": "in",
+"edgeLabel": "Published FBI 62-HQ-83894, well beyond the Vault's 1947-1954 scope",
+"id": "pursue-release-01",
+"l0": false,
+"label": "PURSUE Release 01",
+"note": "The Bureau's master flying disc file covering 1947 to 1968 was released as a single 101MB PDF through war.gov rather than through the FBI's own reading room.",
+"sources": [
+{
+"date": "2026-08-01",
+"name": "Disclosure Archives - Department of War files index",
+"url": "https://disclosurearchives.com/department-of-war-files"
+},
+{
+"date": "2026-08-12",
+"name": "FBI Records: The Vault - UFO collection (16 parts)",
+"url": "https://vault.fbi.gov/UFO"
+}
+],
+"tier": "B",
+"type": "custody"
+},
+{
+"claimTier": 2,
+"cls": "event",
+"dateEnd": "2026",
+"dateStart": "2026",
+"direction": "in",
+"edgeLabel": "29 FBI files including a 2021-2025 orb corpus and an agents' own FD-1057",
+"id": "pursue-release-03",
+"l0": false,
+"label": "PURSUE Release 03",
+"note": "The tranche established the FBI as an active modern UAP collector, a posture invisible in its own Vault collection last modified in 2013.",
+"sources": [
+{
+"date": "2026-08-01",
+"name": "Disclosure Archives - Department of War files index",
+"url": "https://disclosurearchives.com/department-of-war-files"
+},
+{
+"date": "2026-08-12",
+"name": "FBI Records: The Vault - UFO collection (16 parts)",
+"url": "https://vault.fbi.gov/UFO"
+}
+],
+"tier": "B",
+"type": "custody"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "2010",
+"deg": 3,
+"denials": [],
+"desc": "The FBI's standing public UFO collection: sixteen parts covering the Bureau's role in investigating unexplained flying object reports between 1947 and 1954, published to The Vault on 30 November 2010 and last modified 25 July 2013. That end date is the point. For thirteen years the Bureau's public position on UFOs was a frozen archive of Truman-era teletypes, and the FBI appeared in the modern UAP debate only as history. PURSUE dissolved that framing in three months. Release 01 published FBI file 62-HQ-83894 - the Bureau's master flying disc file spanning 1947 to 1968 - as a single 101MB PDF, along with FBI infrared imagery of objects over the western United States in September and December 2025 and an FBI bronze-ellipsoid case from September 2023 with multiple credentialed witnesses at a US test site. Release 03 made the FBI the largest single contributor to a tranche at 29 files, including a 2021-2025 orb corpus with four authenticated eyewitness videos and an FD-1057 recording two FBI special agents' own first-hand observation. Release 05 added FBI-UAP-D031, a black triangular craft with a red light at each corner near a military base at Colorado Springs in October 2023. The Bureau is an active modern UAP collector, and nothing in its own public reading room said so.",
+"domains": [
+"releases-2023-2026"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "2",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "fbi-vault-ufo",
+"l0": false,
+"label": "FBI Records: The Vault - UFO collection",
+"locLabel": null,
+"members": null,
+"short": "FBI Records: The Vault - UFO collection",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "FBI Records: The Vault - UFO collection (16 parts)",
+"url": "https://vault.fbi.gov/UFO"
+},
+{
+"date": "2026-08-01",
+"name": "Disclosure Archives - Department of War files index",
+"url": "https://disclosurearchives.com/department-of-war-files"
+}
+],
+"sub": "16 parts; 1947-1954; posted 30 Nov 2010, last modified 25 Jul 2013",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 317 of 1027, score 36). 3 connections, 3 of them custody/witness/funding/programmatic. Axes C1/A2/D3.",
+"timeline": []
+}

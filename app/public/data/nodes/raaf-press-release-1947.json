@@ -1,0 +1,207 @@
+{
+"A": 1,
+"C": 2,
+"D": 2,
+"band": null,
+"claims": [
+{
+"source": "RAAF press release, 8 July 1947, reproduced in USAF, 'The Roswell Report: Fact vs. Fiction' (1995)",
+"text": "The press release states the intelligence office of the 509th Bomb Group 'was fortunate enough to gain possession of a disc through the cooperation of one of the local ranchers and the sheriff's office of Chaves County'.",
+"tier": 1
+},
+{
+"source": "GAO/NSIAD-95-187, p.4, describing the FBI teletype of 8 July 1947",
+"text": "On the same day the FBI's Dallas office recorded Eighth Air Force headquarters describing the object as 'a hexagonal-shaped disc suspended from a large balloon by cable' resembling 'a high-altitude weather balloon with a radar reflector'.",
+"tier": 1
+},
+{
+"source": "FBI Records: The Vault, UFO files",
+"text": "FBI records on flying discs from 1947-1954 are publicly released in sixteen parts through the Bureau's electronic reading room.",
+"tier": 1
+},
+{
+"source": "Inference from the timing and command levels documented in the 1995 USAF report and GAO/NSIAD-95-187",
+"text": "An intelligence office trained to identify recovered materiel announcing possession of a disc, then being corrected within hours by a numbered air force commander, is more consistent with an unauthorised disclosure than with a misidentification.",
+"tier": 3
+}
+],
+"cls": "document",
+"cluster": "legacy",
+"connections": [
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "1995",
+"dateStart": "1995",
+"direction": "out",
+"edgeLabel": "The message traffic that would document the release was destroyed",
+"id": "gao-nsiad-95-187",
+"l0": true,
+"label": "GAO/NSIAD-95-187 — Results of a Search for Records Concerning the 1947 Crash Near Roswell",
+"note": "RAAF outgoing messages from October 1946 through December 1949 were destroyed with no recorded disposition authority, removing the base's own record of the 8 July 1947 announcement and its retraction.",
+"sources": [
+{
+"date": "1995-07-28",
+"name": "GAO/NSIAD-95-187 (full PDF)",
+"url": "https://www.gao.gov/assets/nsiad-95-187.pdf"
+}
+],
+"tier": "B",
+"type": "custody"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "1947",
+"dateStart": "1947",
+"direction": "in",
+"edgeLabel": "Ramey retracted the disc announcement the same day",
+"id": "roger-ramey",
+"l0": false,
+"label": "Roger M. Ramey",
+"note": "The Eighth Air Force commanding general personally fronted a same-day correction identifying the debris as a weather balloon with radar reflector — the founding template for official UAP retraction.",
+"sources": [
+{
+"date": "1995-01-01",
+"name": "USAF, The Roswell Report: Fact vs. Fiction (1995)",
+"url": "https://archive.org/details/DTIC_ADA326148"
+},
+{
+"date": "1995-07-28",
+"name": "GAO/NSIAD-95-187",
+"url": "https://www.gao.gov/assets/nsiad-95-187.pdf"
+}
+],
+"tier": "B",
+"type": "denial"
+},
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": "1947",
+"dateStart": "1947",
+"direction": "out",
+"edgeLabel": "The press release is the event's only uncontested artifact",
+"id": "roswell-1947",
+"l0": true,
+"label": "Roswell Incident",
+"note": "Every subsequent official position — weather balloon, MOGUL, dummies — is a response to this single document issued by an atomic bomb group's own information office.",
+"sources": [
+{
+"date": "1995-01-01",
+"name": "USAF, The Roswell Report: Fact vs. Fiction (1995)",
+"url": "https://archive.org/details/DTIC_ADA326148"
+},
+{
+"date": "1995-07-28",
+"name": "GAO/NSIAD-95-187",
+"url": "https://www.gao.gov/assets/nsiad-95-187.pdf"
+}
+],
+"tier": "A",
+"type": "temporal"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "1947",
+"dateStart": "1947",
+"direction": "in",
+"edgeLabel": "Haut issued the 8 July 1947 press release",
+"id": "walter-haut",
+"l0": false,
+"label": "Walter Haut",
+"note": "As RAAF public information officer Haut issued the announcement that the 509th Bomb Group had gained possession of a disc; the release is reproduced in the Air Force's own 1995 report.",
+"sources": [
+{
+"date": "1995-01-01",
+"name": "USAF, The Roswell Report: Fact vs. Fiction (1995)",
+"url": "https://archive.org/details/DTIC_ADA326148"
+}
+],
+"tier": "B",
+"type": "institutional"
+}
+],
+"coords": null,
+"dateEnd": "1947",
+"dateStart": "1947",
+"deg": 4,
+"denials": [
+{
+"by": {
+"id": "roger-ramey",
+"label": "Roger M. Ramey"
+},
+"claimTier": 1,
+"denialKind": "directed",
+"label": "Ramey retracted the disc announcement the same day",
+"note": "The Eighth Air Force commanding general personally fronted a same-day correction identifying the debris as a weather balloon with radar reflector — the founding template for official UAP retraction.",
+"of": {
+"id": "raaf-press-release-1947",
+"label": "RAAF Press Release, 8 July 1947"
+},
+"sources": [
+{
+"date": "1995-01-01",
+"name": "USAF, The Roswell Report: Fact vs. Fiction (1995)",
+"url": "https://archive.org/details/DTIC_ADA326148"
+},
+{
+"date": "1995-07-28",
+"name": "GAO/NSIAD-95-187",
+"url": "https://www.gao.gov/assets/nsiad-95-187.pdf"
+}
+]
+}
+],
+"desc": "The only uncontested primary artifact of the Roswell event, issued by the public information office of Roswell Army Air Field on 8 July 1947 over the name of 1st Lt. Walter Haut and carried immediately by the wire services. Its text states that 'the many rumors regarding the flying disc became a reality yesterday when the intelligence office of the 509th Bomb group of the Eighth Air Force, Roswell Army Air Field, was fortunate enough to gain possession of a disc through the cooperation of one of the local ranchers and the sheriff's office of Chaves County'. Two features are structurally important. The announcement was made by the intelligence office of the world's only atomic bomb group, an organisation with the most restrictive information discipline in the United States military, which does not issue accidental press releases about recovered aircraft. And it was retracted the same day, from a higher headquarters, by a general officer. The Air Force's position since 1994 is that base personnel misidentified a classified MOGUL balloon train; that position requires the 509th's intelligence staff to have failed to recognise balloon and radar target material, which is the same material Gen. Ramey used hours later to prove they had.",
+"domains": [
+"history-1940s-1960s"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "raaf-press-release-1947",
+"l0": false,
+"label": "RAAF Press Release, 8 July 1947",
+"locLabel": null,
+"members": null,
+"short": "RAAF Press Release, 8 July 1947",
+"sources": [
+{
+"date": "1995-01-01",
+"name": "USAF, The Roswell Report: Fact vs. Fiction in the New Mexico Desert (1995)",
+"url": "https://archive.org/details/DTIC_ADA326148"
+},
+{
+"date": "1995-07-28",
+"name": "GAO/NSIAD-95-187 (full PDF)",
+"url": "https://www.gao.gov/assets/nsiad-95-187.pdf"
+},
+{
+"date": "2010-11-30",
+"name": "FBI Records: The Vault — UFO (16 parts, 1947-1954)",
+"url": "https://vault.fbi.gov/UFO"
+}
+],
+"sub": "Roswell Army Air Field public information office",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 315 of 1027, score 36). 4 connections, 1 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C2/A1/D2.",
+"timeline": [
+{
+"date": "1947-07-08",
+"id": "tl-1947-07-08a",
+"label": "RAAF announces possession of a disc",
+"precision": "day",
+"strand": "program",
+"text": "Roswell Army Air Field's information office states that the intelligence office of the 509th Bomb Group has gained possession of a disc. The 509th is the only atomic-armed combat group in the world.",
+"tier": "A"
+}
+]
+}

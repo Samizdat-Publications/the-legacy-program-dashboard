@@ -1,0 +1,118 @@
+{
+"A": 0,
+"C": 0,
+"D": 0,
+"band": null,
+"claims": [
+{
+"source": "shu.ac.uk/about-us",
+"text": "Sheffield Hallam University is based in Sheffield with approximately 31,000 students, nearly 4,000 staff and 345,000 alumni, and holds Gold in the Teaching Excellence Framework.",
+"tier": 1
+},
+{
+"source": "SHURA search results for 'UFO'",
+"text": "The university's institutional repository SHURA holds David Clarke's deposited outputs including 'National Archives Podcasts and Media - MoD UFO archives project 2008-2013' (2018), 'UFO Files at The National Archives' (2018), 'The UFO files: the inside story of real-life sightings' (National Archives, 2009; Bloomsbury, 2012), 'How UFOs conquered the World' (2015), and the Clarke/Fuller/Shough report on aerial phenomena observed near the Channel Islands, UK, 23 April 2007.",
+"tier": 1
+},
+{
+"source": "SHURA search results for 'UFO'",
+"text": "SHURA also holds Andrew Robinson (2025), 'The Calvine Mystery - The Photographic Analysis of a 35-Year-Old Enigma', presented at the Calvine UFO Mystery 35th Anniversary Research Symposium, Perth & Kinross, 2 August 2025.",
+"tier": 1
+},
+{
+"source": "Inference",
+"text": "A UK university repository openly indexing a body of MoD-file and Calvine-photograph research is a durable, non-governmental copy of the British record. Reasoning: repository deposits persist independently of the originating agency's retention decisions.",
+"tier": 3
+},
+{
+"source": "Board bookkeeping",
+"text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
+"tier": 3
+}
+],
+"cls": "institution",
+"cluster": "research",
+"connections": [
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "Sheffield Hallam academic curated the MoD file release containing Rendlesham",
+"id": "rendlesham-1980",
+"l0": true,
+"label": "Rendlesham Forest Incident, RAF Woodbridge/Bentwaters",
+"note": "Sheffield Hallam describes Clarke as its Journalism Reader and as 'media consultant and spokesperson for the transfer of 210 formerly classified files on UFOs from The Ministry of Defence archive' between 2008 and 2013. His own earlier role in prising the Rendlesham file loose is recorded at The National Archives by file reference: the guide notes that the Rendlesham papers were among the first released under the Code of Practice for Access to Government Information in 2001, and that the papers relating to that release sit at DEFE 24/2030/1 and DEFE 24/2031/1, catalogued as 'UFOs: Persistent Correspondence, Dr David Clarke, 2000-2001'. The custody relationship is documented in the archive's own catalogue entry, under his name.",
+"sources": [
+{
+"date": "2018-03-08",
+"name": "Sheffield Hallam University, C3RI Impact blog, 'Dr David Clarke presents UFO files at The National Archives', 8 March 2018",
+"url": "https://blogs.shu.ac.uk/c3riimpact/david-clarke-ufo-files-national-archives/"
+},
+{
+"date": "2013-01-01",
+"name": "The National Archives, 'Unidentified Flying Objects (UFOs)' research guide",
+"url": "https://cdn.nationalarchives.gov.uk/documents/ufo-research-guide-2013.pdf"
+},
+{
+"date": null,
+"name": "Dr David Clarke, 'National Archives UFO Files' -- https://drdavidclarke.co.uk/national-archives-ufo-files-7/",
+"url": ""
+},
+{
+"date": null,
+"name": "Sheffield Hallam University Research Archive (SHURA), 'National Archives Podcasts and Media - MoD UFO archives project 2008-2013' -- https://shura.shu.ac.uk/35070/",
+"url": ""
+},
+{
+"date": null,
+"name": "The National Archives UFO records podcast transcript, August 2009 -- https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf",
+"url": ""
+}
+],
+"tier": "A",
+"type": "custody"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": null,
+"deg": 1,
+"denials": [],
+"desc": "Sheffield Hallam University is a large applied university in Sheffield, England, with a City Campus on Howard Street, roughly 31,000 students and 4,000 staff, and a Gold rating in the Teaching Excellence Framework. It matters to this board as the academic base of Dr David Clarke, the journalism academic who did more than anyone to prise open the British official record: the Freedom of Information campaign that forced release of the Ministry of Defence's Project Condign study, and the consultancy to The National Archives on the MoD UFO files release programme of 2008-2013. Clarke's outputs are deposited in the university's own institutional repository, SHURA, which holds his National Archives UFO-files media and podcast records from that project, his books on the UFO files and on the history of the phenomenon as a modern myth, and his co-authored report on aerial phenomena observed near the Channel Islands in April 2007. The same repository also holds Andrew Robinson's 2025 photographic analysis of the Calvine photograph, the best-known unresolved British UAP image. Sheffield Hallam therefore functions as an archival and evidentiary node rather than a research programme: it is the university whose repository preserves the working record of the person who forced the British files open, which is exactly the sort of independently held documentation a concealment cannot quietly reabsorb.",
+"domains": [
+"_rs-stubs-known",
+"_stubs"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "nd",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "sheffield-hallam",
+"l0": false,
+"label": "Sheffield Hallam University",
+"locLabel": null,
+"members": null,
+"short": "Sheffield Hallam University",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Sheffield Hallam University - About us (official)",
+"url": "https://www.shu.ac.uk/about-us"
+},
+{
+"date": "2026-08-12",
+"name": "SHURA - Sheffield Hallam University Research Archive, search results for 'UFO' (institutional repository; 56 records incl. Clarke's National Archives MoD UFO files outputs and Robinson's Calvine analysis)",
+"url": "https://shura.shu.ac.uk/cgi/search/archive/simple?q=UFO&_action_search=Search"
+}
+],
+"sub": "Academic",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 887 of 1027, score 15). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D0.",
+"timeline": []
+}

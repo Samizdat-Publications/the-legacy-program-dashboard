@@ -1,0 +1,153 @@
+{
+"A": 2,
+"C": 1,
+"D": 3,
+"band": null,
+"claims": [
+{
+"source": "https://earthsky.org/human-world/pentagon-uap-files-batch-5-ufos-orbs-triangles/",
+"text": "Release 05 comprises 41 files: 16 videos, 22 documents, 3 images, no audio.",
+"tier": 1
+},
+{
+"source": "https://earthsky.org/human-world/pentagon-uap-files-batch-5-ufos-orbs-triangles/",
+"text": "Identified files include DOW-UAP-PR122 (Gulf of Oman, 8 Sept 2021), DOW-UAP-D101 (Gulf of Oman intelligence report), DOW-UAP-PR134 (Middle East orb, 1 Jan 2025), DOW-UAP-D098 (1953 analysis of the Montana/Utah cases), FBI-UAP-D031 (Colorado Springs triangle, Oct 2023), FBI-UAP-D025 (Bagram triangle, June 2002), DOS-UAP-D002 (Brazil diplomatic cable, Nov 1963) and EOP-UAP-D001 (Brazil incident report, Nov 1963).",
+"tier": 1
+},
+{
+"source": "https://earthsky.org/human-world/pentagon-uap-files-batch-5-ufos-orbs-triangles/",
+"text": "Sean Parnell, Assistant to the Secretary of War for Public Affairs: the material 'continues to be housed on WAR.GOV/UFO, and the Department will release additional files on a rolling basis.'",
+"tier": 2
+},
+{
+"source": "https://earthsky.org/human-world/pentagon-uap-files-batch-5-ufos-orbs-triangles/",
+"text": "The prefix EOP-UAP-D001 establishes the Executive Office of the President as an originating authority in the UAP records universe. Reasoning: the corpus uses originator prefixes (DOW, ODNI, FBI, DOS) and EOP is the standard abbreviation for the Executive Office of the President.",
+"tier": 3
+}
+],
+"cls": "document",
+"cluster": "oversight",
+"connections": [
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": null,
+"dateStart": "2026-08-07",
+"direction": "out",
+"edgeLabel": "published the engagement record",
+"id": "gulf-of-oman-ac130j-2021",
+"l0": false,
+"label": "Gulf of Oman AC-130J UAP engagement, 8 September 2021",
+"note": "DOW-UAP-PR122 and intelligence report DOW-UAP-D101 document the 8 September 2021 AC-130J encounter over the Gulf of Oman.",
+"sources": [
+{
+"date": "2026-08-07",
+"name": "EarthSky, PURSUE batch 5",
+"url": "https://earthsky.org/human-world/pentagon-uap-files-batch-5-ufos-orbs-triangles/"
+}
+],
+"tier": "B",
+"type": "custody"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": "2026-08-07",
+"direction": "out",
+"edgeLabel": "published as DOW-UAP-D098",
+"id": "navy-pic-1953-film-analysis",
+"l0": false,
+"label": "1953 Navy Photographic Interpretation Center analysis of the Great Falls and Tremonton films",
+"note": "The 1953 analysis of the Montana and Utah film cases carries the identifier DOW-UAP-D098 in the fifth tranche.",
+"sources": [
+{
+"date": "2026-08-07",
+"name": "EarthSky, PURSUE batch 5",
+"url": "https://earthsky.org/human-world/pentagon-uap-files-batch-5-ufos-orbs-triangles/"
+}
+],
+"tier": "B",
+"type": "custody"
+},
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": "2026-08-07",
+"dateStart": "2026-08-07",
+"direction": "out",
+"edgeLabel": "file-level inventory",
+"id": "pursue-release-05",
+"l0": false,
+"label": "PURSUE Release 05",
+"note": "41 files - 16 videos, 22 documents, 3 images - with identifiers spanning DOW, FBI, DOS and EOP originators.",
+"sources": [
+{
+"date": "2026-08-07",
+"name": "EarthSky, PURSUE batch 5",
+"url": "https://earthsky.org/human-world/pentagon-uap-files-batch-5-ufos-orbs-triangles/"
+}
+],
+"tier": "A",
+"type": "custody"
+}
+],
+"coords": null,
+"dateEnd": "2026-08-07",
+"dateStart": "2026-08-07",
+"deg": 3,
+"denials": [],
+"desc": "The named files of the fifth tranche, published 7 August 2026, and the tranche that most clearly exposes the corpus's originator-prefix scheme. Identified items: DOW-UAP-PR122, an erratically manoeuvring object over the Gulf of Oman on 8 September 2021; DOW-UAP-D101, the intelligence report on that engagement; DOW-UAP-PR134, an orb over a Middle Eastern residential area dated 1 January 2025; DOW-UAP-D098, the 1953 analysis of the Montana and Utah film cases - that is, the Navy Photographic Interpretation Center study of the 1950 Great Falls and 1952 Tremonton films; FBI-UAP-D031, a large triangle with red lights over Colorado Springs in October 2023; FBI-UAP-D025, an airborne triangle at Bagram Air Base in June 2002; DOS-UAP-D002, a Department of State diplomatic cable on a Brazil incident of November 1963; and EOP-UAP-D001, a Brazil incident report from November 1963 bearing the prefix EOP - Executive Office of the President. That last prefix is the most significant single detail in the tranche. It means the release programme reached into White House holdings, that the Executive Office of the President is an originating authority in the UAP records universe, and that a 1963 Brazilian incident generated a document at that level. Sean Parnell, Assistant to the Secretary of War for Public Affairs, said the material 'continues to be housed on WAR.GOV/UFO, and the Department will release additional files on a rolling basis' - the Department's only statement of forward intent as of 12 August 2026. The tranche's date span, given by EarthSky as 1950 to 2025 and by the portal as 1953 to 2026, is itself unresolved.",
+"domains": [
+"w2-2025-2026"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "pursue-r05-identifiers",
+"l0": false,
+"label": "PURSUE Release 05 file identifiers (7 August 2026)",
+"locLabel": null,
+"members": null,
+"short": "PURSUE Release 05 file identifiers (7 August 2026)",
+"sources": [
+{
+"date": "2026-08-07",
+"name": "EarthSky, 'Pentagon UAP files batch 5: UFOs, orbs and triangles'",
+"url": "https://earthsky.org/human-world/pentagon-uap-files-batch-5-ufos-orbs-triangles/"
+},
+{
+"date": "2026-08-12",
+"name": "Disclosure Archives, AARO and UAP release chronology",
+"url": "https://disclosurearchives.com/aaro-releases"
+}
+],
+"sub": "41 files - 16 videos, 22 documents, 3 images; identifiers across five originating authorities",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 295 of 1027, score 37). 3 connections, 3 of them custody/witness/funding/programmatic. Axes C1/A2/D3.",
+"timeline": [
+{
+"date": "2026-08-07",
+"id": "tl-parnell-rolling",
+"label": "Parnell: additional files 'on a rolling basis'",
+"precision": "day",
+"strand": "program",
+"text": "The Department's only statement of forward intent: the material continues to be housed on WAR.GOV/UFO and more will follow. No schedule, no scope, no manifest.",
+"tier": "2"
+},
+{
+"date": "2026-08-07",
+"id": "tl-r05-eop",
+"label": "EOP-UAP-D001: the Executive Office of the President becomes an originator",
+"precision": "day",
+"strand": "program",
+"text": "Release 05 carries a November 1963 Brazil incident report prefixed EOP, alongside DOS-UAP-D002, a State Department cable on the same events - the release programme reaching into White House holdings.",
+"tier": "1"
+}
+]
+}

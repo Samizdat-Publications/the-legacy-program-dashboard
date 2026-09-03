@@ -1,0 +1,97 @@
+{
+"A": 1,
+"C": 0,
+"D": 2,
+"band": null,
+"claims": [
+{
+"source": "https://defensescoop.com/2026/03/16/dod-ufo-workshop-uap-research-aaro/",
+"text": "Associated Universities, Inc. officially hosted the workshop, which was set up and sponsored by AARO; approximately 40 government, academic and independent researchers attended; DoD did not publish attendee lists or announce the event beforehand.",
+"tier": 2
+},
+{
+"source": "https://defensescoop.com/2026/06/17/new-science-advisory-council-forms-to-help-us-government-resolve-the-uap-mystery/",
+"text": "The workshop is the operational precursor to the June 2026 UAP Science Advisory Council. Reasoning: same subject matter (standardising UAP data capture and analysis), same sponsoring office, and an overlapping population of independent researchers, ten months apart.",
+"tier": 3
+}
+],
+"cls": "event",
+"cluster": "research",
+"connections": [
+{
+"claimTier": 3,
+"cls": "institution",
+"dateEnd": "2026-06-17",
+"dateStart": "2025-08",
+"direction": "out",
+"edgeLabel": "operational precursor",
+"id": "uap-science-advisory-council",
+"l0": true,
+"label": "UAP Science Advisory Council",
+"note": "Same subject matter, same sponsoring office and an overlapping population of independent researchers, ten months apart.",
+"sources": [
+{
+"date": "2026-03-16",
+"name": "DefenseScoop, AARO invite-only workshop",
+"url": "https://defensescoop.com/2026/03/16/dod-ufo-workshop-uap-research-aaro/"
+},
+{
+"date": "2026-06-17",
+"name": "DefenseScoop, UAP Science Advisory Council",
+"url": "https://defensescoop.com/2026/06/17/new-science-advisory-council-forms-to-help-us-government-resolve-the-uap-mystery/"
+}
+],
+"tier": "A",
+"type": "programmatic"
+}
+],
+"coords": null,
+"dateEnd": "2025-08",
+"dateStart": "2025-08",
+"deg": 1,
+"denials": [],
+"desc": "An invitation-only workshop convened in the Washington DC area in early August 2025, officially hosted by Associated Universities, Inc. and set up and sponsored by AARO, first reported publicly by DefenseScoop on 16 March 2026 - seven months after it happened. Roughly forty government, academic and independent researchers attended. The agenda was standardisation: best practices for collecting and storing narrative data associated with UAP sightings, methods for integrating data across organisations, and application of artificial intelligence to pattern recognition. The Department did not announce the event beforehand and published no attendee list, citing participant privacy. Pentagon spokesperson Sue Gough said AARO recognises that input from the scientific and academic community is critical to its work and that the office hopes to convene future workshops to foster an interdisciplinary community for UAP analysis. Two things make this worth a node. First, it is the operational precursor to the UAP Science Advisory Council announced ten months later, and to the Naval Postgraduate School CTX special issue AARO promotes on its homepage. Second, an unannounced federal workshop with an unpublished attendee list, run through a university-consortium intermediary rather than under a Federal Advisory Committee Act charter, is the structure that produces expert consensus without a public record of who produced it.",
+"domains": [
+"w2-2025-2026"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "aaro-aui-workshop-2025",
+"l0": false,
+"label": "AARO invite-only UAP research workshop (early August 2025)",
+"locLabel": null,
+"members": null,
+"short": "AARO invite-only UAP research workshop (early August 2025)",
+"sources": [
+{
+"date": "2026-03-16",
+"name": "DefenseScoop, AARO invite-only workshop",
+"url": "https://defensescoop.com/2026/03/16/dod-ufo-workshop-uap-research-aaro/"
+},
+{
+"date": null,
+"name": "defensescoop.com",
+"url": "https://defensescoop.com/2026/06/17/new-science-advisory-council-forms-to-help-us-government-resolve-the-uap-mystery/"
+}
+],
+"sub": "Hosted by Associated Universities, Inc.; ~40 participants; unannounced",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 905 of 1027, score 14). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A1/D2.",
+"timeline": [
+{
+"date": "2025-08",
+"id": "tl-aui-workshop",
+"label": "AARO sponsors an unannounced UAP research workshop",
+"precision": "month",
+"strand": "program",
+"text": "Roughly 40 government, academic and independent researchers meet in the Washington DC area, hosted by Associated Universities, Inc., to standardise UAP data capture and analysis. No attendee list is published; the event is not reported publicly until March 2026.",
+"tier": "2"
+}
+]
+}

@@ -1,0 +1,316 @@
+{
+"A": 0,
+"C": 0,
+"D": 3,
+"band": null,
+"claims": [
+{
+"source": "Methodological inference from the corpus of UAP Gerb investigations 2024-2026.",
+"text": "The structural approach is more resistant to debunking than testimony-based ufology because its skeleton is built from documented organisational records; refuting it requires showing that named real offices do not do what is alleged, rather than that a witness is unreliable.",
+"tier": 3
+}
+],
+"cls": "domain",
+"cluster": "research",
+"connections": [
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "the provision that removes a contractor facility from the government's own industrial security oversight",
+"id": "carve-out",
+"l0": true,
+"label": "Carve-Out Provision (DCSA relief from NISP oversight)",
+"note": "Defined in DoD Directive 5205.07 and DoD Manual 5205.07 Volume 1 as a provision approved by the Secretary or Deputy Secretary of Defense relieving the defence security agency of its National Industrial Security Program oversight responsibilities at a contractor facility. It is the structural seam at which a programme held at a company stops being visible to any government security official outside the programme.",
+"sources": [
+{
+"date": "2026-05-18",
+"name": "Archived: DoD Directive 5205.07, 'Special Access Program (SAP) Policy' (12 Sep 2024) (Wayback 2026-05-18)",
+"url": "https://web.archive.org/web/20260518065512/https://www.esd.whs.mil/portals/54/documents/dd/issuances/dodd/520507p.pdf"
+},
+{
+"date": "2025-08-09",
+"name": "Archived: DoD Instruction 5205.11, 'Management, Administration, and Oversight of DoD Special Access Programs' (12 Sep 2024) (Wayback 2025-08-09)",
+"url": "https://web.archive.org/web/20250809023849/https://www.esd.whs.mil/portals/54/documents/dd/issuances/dodi/520511p.pdf"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 3,
+"cls": "domain",
+"dateEnd": "2026",
+"dateStart": "2023",
+"direction": "out",
+"edgeLabel": "The structural discipline is a product of the independent-media substrate",
+"id": "d-media",
+"l0": false,
+"label": "Independent media as the disclosure substrate",
+"note": "The office-symbol-level structural work exists because a format existed that could carry two- and three-hour document-dense expositions. No broadcast or print outlet would have published it; the format created the discipline.",
+"sources": [
+{
+"date": "2026-01-11",
+"name": "American Alchemy - 'The Pentagon's UFO Program Is Real [Here's How It Works!]'",
+"url": "https://www.youtube.com/watch?v=u7g5Sn1DJF4"
+},
+{
+"date": "2026-08-07",
+"name": "UAP Gerb - The MITRE Corporation investigation",
+"url": "https://www.youtube.com/watch?v=107BtDYhTkA"
+}
+],
+"tier": "C",
+"type": "temporal"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2024-09-12",
+"direction": "in",
+"edgeLabel": "the office that holds the Department's SAP portfolio and is its single point of contact to Congress",
+"id": "dod-sapco",
+"l0": true,
+"label": "DoD Special Access Program Central Office (DoD SAPCO)",
+"note": "Established by DoD Directive 5205.07 (reissued 12 September 2024) 'under the authority, direction, and control of the Deputy Secretary of Defense', with a Director who must be a general or flag officer or SES equivalent, and designated the primary DoD liaison with the Executive Branch and Congress on all DoD SAP issues. Any structural map of where a legacy programme could sit starts at this node.",
+"sources": [
+{
+"date": "2026-05-18",
+"name": "Archived: DoD Directive 5205.07, 'Special Access Program (SAP) Policy' (12 Sep 2024) (Wayback 2026-05-18)",
+"url": "https://web.archive.org/web/20260518065512/https://www.esd.whs.mil/portals/54/documents/dd/issuances/dodd/520507p.pdf"
+},
+{
+"date": "2025-08-09",
+"name": "Archived: DoD Instruction 5205.11, 'Management, Administration, and Oversight of DoD Special Access Programs' (12 Sep 2024) (Wayback 2025-08-09)",
+"url": "https://web.archive.org/web/20250809023849/https://www.esd.whs.mil/portals/54/documents/dd/issuances/dodi/520511p.pdf"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": "2024-09-12",
+"direction": "in",
+"edgeLabel": "the issuance that documents the approval and oversight chain this domain is trying to map",
+"id": "dodi-5205-11",
+"l0": true,
+"label": "DoDI 5205.11 — Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)",
+"note": "DoDI 5205.11 (effective 12 September 2024) sets out the prospective SAP approval sequence in days from establishment, the review bodies (SSWG, Senior Review Group, SAPOC) and the oversight roles. It is the only public document that walks the whole chain end to end, which makes it the domain's primary methodological source rather than merely one of its members.",
+"sources": [
+{
+"date": "2025-08-09",
+"name": "Archived: DoD Instruction 5205.11, 'Management, Administration, and Oversight of DoD Special Access Programs' (12 Sep 2024) (Wayback 2025-08-09)",
+"url": "https://web.archive.org/web/20250809023849/https://www.esd.whs.mil/portals/54/documents/dd/issuances/dodi/520511p.pdf"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "the parallel control-office enterprise on the intelligence-community side of the same architecture",
+"id": "ic-sapco",
+"l0": false,
+"label": "Intelligence Community special access program control office enterprise",
+"note": "The IC maintains its own special access and controlled access program control architecture under DNI authority, separate from the DoD SAP enterprise administered by DoD SAPCO. AARO's Historical Record Report Volume I confirms its existence in the government's own UAP record. The two-sided structure matters because a programme can be lodged on either side, and the oversight statutes differ.",
+"sources": [
+{
+"date": "2024-03-08",
+"name": "AARO, Report on the Historical Record of U.S. Government Involvement with UAP, Volume I (DOPSR-2024-0263)",
+"url": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF"
+},
+{
+"date": "2026-08-21",
+"name": "10 U.S.C. 119 - Special access programs: congressional oversight (Office of the Law Revision Counsel)",
+"url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "the office charged with counting the classification system, and therefore the boundary of the public map",
+"id": "isoo",
+"l0": true,
+"label": "Information Security Oversight Office",
+"note": "ISOO is housed at the National Archives and is responsible to the President for policy and oversight of the government-wide security classification system and the National Industrial Security Program, under Executive Orders 13526 and 13556. Where ISOO's annual reporting stops is where this domain's open-source organisational mapping has to switch to inference.",
+"sources": [
+{
+"date": "2026-08-21",
+"name": "National Archives - Information Security Oversight Office",
+"url": "https://www.archives.gov/isoo"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 3,
+"cls": "program",
+"dateEnd": "2026-06-19",
+"dateStart": "2026-05-01",
+"direction": "in",
+"edgeLabel": "the named model this domain is arguing about, and the reason to keep it graded Tier 3",
+"id": "manhattan-project-2",
+"l0": true,
+"label": "'Manhattan Project 2.0' (alleged secrecy architecture)",
+"note": "UAP Gerb's onion model of an indefinitely layered secrecy architecture, set out across two investigations published 1 May and 19 June 2026, is the most fully articulated structural hypothesis in circulation and is what the independent-media substrate has organised itself around. It is sourced only to those two videos and has no independent documentary corroboration, which is exactly why it belongs in this domain at Tier 3 rather than being excluded from it.",
+"sources": [
+{
+"date": "2026-05-01",
+"name": "UAP Gerb, 'The Manhattan Project 2.0' Vol. 1 (YouTube)",
+"url": "https://www.youtube.com/watch?v=jR-h5p2bd-A"
+},
+{
+"date": "2026-06-19",
+"name": "UAP Gerb, 'Special Access Required' Vol. 2 (YouTube)",
+"url": "https://www.youtube.com/watch?v=6MsmPrpQqa8"
+}
+],
+"tier": "A",
+"type": "research"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "the OSD element with policy authority over intelligence, counterintelligence, security and sensitive activities",
+"id": "ousdi",
+"l0": true,
+"label": "Office of the Under Secretary of Defense for Intelligence",
+"note": "OUSD(I), since 2020 OUSD(I&S), is where the sensitive-activities policy authority sits and where the whole Elizondo/AATIP dispute takes place. It is also the office under which the Military Intelligence Program is managed, which makes it the point where this domain's organisational and funding threads meet.",
+"sources": [
+{
+"date": "2022-08-17",
+"name": "OSD/JS FOIA case 18-F-0324, final response and released documents (The Black Vault)",
+"url": "https://documents2.theblackvault.com/documents/osd/18-F-0324.pdf"
+},
+{
+"date": "2026-08-21",
+"name": "DoD Financial Management Regulation, Volume 2B, Chapter 16, 'Intelligence Programs/Activities'",
+"url": "https://comptroller.war.gov/Portals/45/documents/fmr/current/02b/02b_16.pdf"
+},
+{
+"date": "2026-05-18",
+"name": "Archived: DoD Directive 5205.07, 'Special Access Program (SAP) Policy' (12 Sep 2024) (Wayback 2026-05-18)",
+"url": "https://web.archive.org/web/20260518065512/https://www.esd.whs.mil/portals/54/documents/dd/issuances/dodd/520507p.pdf"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "1987-12-04",
+"direction": "in",
+"edgeLabel": "the statutory oversight scheme, and the exception written into it",
+"id": "oversight-congress",
+"l0": true,
+"label": "Congressional oversight of special access programs",
+"note": "Under 10 U.S.C. 119 the Secretary must report annually by 1 March to the four defense committees on every special access program, with a brief description, major milestones and costs - and under 119(e) may waive any of that on a case-by-case basis. The scheme and its exception are the same statute, which is why oversight belongs on the structural map rather than outside it.",
+"sources": [
+{
+"date": "2026-08-21",
+"name": "10 U.S.C. 119 - Special access programs: congressional oversight (Office of the Law Revision Counsel)",
+"url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim"
+},
+{
+"date": "2024-01-05",
+"name": "10 U.S.C. 119 (U.S. Code 2023 Edition, GPO)",
+"url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title10/html/USCODE-2023-title10-subtitleA-partI-chap2-sec119.htm"
+},
+{
+"date": "2026-05-18",
+"name": "Archived: DoD Directive 5205.07, 'Special Access Program (SAP) Policy' (12 Sep 2024) (Wayback 2026-05-18)",
+"url": "https://web.archive.org/web/20260518065512/https://www.esd.whs.mil/portals/54/documents/dd/issuances/dodd/520507p.pdf"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "the four-member channel that 10 U.S.C. 119(e) substitutes for committee reporting",
+"id": "waived-sap-notification-group",
+"l0": true,
+"label": "Waived SAP Notification Group",
+"note": "Sec. 119(e)(2) directs that where the Secretary exercises the waiver, the information and the justification go jointly to the chairman and ranking minority member of each of the defense committees - the Armed Services and Appropriations committees of both chambers. Attaching this node to the structural domain is what stops the two channels being conflated. [Corrected 14 Aug 2026: 10 U.S.C. 119(g) defines 'defense committees' as SIX bodies including both Appropriations Defense subcommittees, so notification runs to twelve seats, not eight. Section 119 uses its own definition, not 10 U.S.C. 101(a)(16).]",
+"sources": [
+{
+"date": "2026-08-21",
+"name": "10 U.S.C. 119 - Special access programs: congressional oversight (Office of the Law Revision Counsel)",
+"url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim"
+},
+{
+"date": "2024-01-05",
+"name": "10 U.S.C. 119 (U.S. Code 2023 Edition, GPO)",
+"url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title10/html/USCODE-2023-title10-subtitleA-partI-chap2-sec119.htm"
+},
+{
+"date": "2026-05-18",
+"name": "Archived: DoD Directive 5205.07, 'Special Access Program (SAP) Policy' (12 Sep 2024) (Wayback 2026-05-18)",
+"url": "https://web.archive.org/web/20260518065512/https://www.esd.whs.mil/portals/54/documents/dd/issuances/dodd/520507p.pdf"
+}
+],
+"tier": "A",
+"type": "institutional"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "2023",
+"deg": 10,
+"denials": [],
+"desc": "The research domain concerned not with whether a legacy programme exists but with how it is organised: which offices hold it, which corporate forms contain it, which statutes shield it, which appropriations fund it and which individuals sit at the gates. This is the domain UAP Gerb effectively created as a public discipline and that Jesse Michels and Ross Coulthart amplified. Its methodological signature is the use of open organisational records - office symbols, FFRDC charters, acquisition authorities, board memberships, corporate acquisition histories - as the skeleton, with witness testimony used only to populate roles that the skeleton already predicts. That inversion is what distinguishes it from classical ufology and is why it is harder to dismiss: the offices, the FFRDCs and the statutory authorities are all documented and real, and the contested claim concerns their contents rather than their existence.",
+"domains": [
+"media-structure"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "d-structure",
+"l0": false,
+"label": "Program structure and organisational mapping",
+"locLabel": null,
+"members": null,
+"short": "Program structure and organisational mapping",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "UAP Gerb - channel feed",
+"url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXr8USOuzZN_3y_efZpryrg"
+}
+],
+"sub": "Research domain",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 832 of 1027, score 17). 10 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.",
+"timeline": []
+}

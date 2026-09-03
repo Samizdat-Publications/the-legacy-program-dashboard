@@ -1,0 +1,589 @@
+{
+"A": 3,
+"C": 3,
+"D": 1,
+"band": "retrieval",
+"claims": [
+{
+"source": "National Archives, Unidentified Flying Objects / Project BLUE BOOK",
+"text": "From 1947 to 1969 a total of 12,618 sightings were reported to Project BLUE BOOK, of which 701 remain 'Unidentified'.",
+"tier": 1
+},
+{
+"source": "National Archives, Unidentified Flying Objects / Project BLUE BOOK",
+"text": "On 17 December 1969 the Secretary of the Air Force announced the termination of Project BLUE BOOK, relying on the University of Colorado report 'Scientific Study of Unidentified Flying Objects' and a National Academy of Sciences review of it.",
+"tier": 1
+},
+{
+"source": "National Archives, Unidentified Flying Objects / Project BLUE BOOK",
+"text": "The Project BLUE BOOK records were permanently transferred to the National Archives and are held as 94 rolls of 35mm microfilm, T-1206.",
+"tier": 1
+},
+{
+"source": "Inference from the scope of the Condon Report and the survival of FTD/AFOSI reporting channels",
+"text": "The termination of BLUE BOOK in December 1969 did not end Air Force UFO collection; it ended the public-facing collection channel while leaving the Foreign Technology Division and AFOSI channels intact. Reasoning: the Condon Report addressed only the scientific merit of public sighting investigation, and no document terminating classified collection has ever been produced.",
+"tier": 3
+}
+],
+"cls": "institution",
+"cluster": "legacy",
+"connections": [
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "1948",
+"direction": "in",
+"edgeLabel": "Air Force felony investigative and counterintelligence field agency",
+"id": "afosi",
+"l0": true,
+"label": "Air Force Office of Special Investigations",
+"note": "AFOSI is the Air Force's independent investigative agency with units 'located at most Air Force bases worldwide', covering espionage, terrorism and counterintelligence.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "AFOSI - About Us",
+"url": "https://www.osi.af.mil/About-Us/"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 2,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "1997-10-31",
+"direction": "in",
+"edgeLabel": "Single Air Force science and technology laboratory, Wright-Patterson AFB",
+"id": "afrl",
+"l0": false,
+"label": "Air Force Research Laboratory",
+"note": "AFRL consolidated the Wright, Phillips, Rome and Armstrong laboratories and AFOSR at Wright-Patterson - the installation named in every retrieval account since 1947.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "National Archives - Unidentified Flying Objects / Project BLUE BOOK",
+"url": "https://www.archives.gov/research/military/air-force/ufos"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "1959",
+"dateStart": "1959",
+"direction": "in",
+"edgeLabel": "Commissioned and published by the Air Force Special Weapons Center under Air Research and Development Command",
+"id": "afswc-tr-59-39",
+"l0": true,
+"label": "AFSWC TR-59-39 Vol I, A Study of Lunar Research Flights, 19 June 1959",
+"note": "The title page names the command and the station, and the publication review is signed by the Center's Deputy Commander.",
+"sources": [
+{
+"date": "1959-06-19",
+"name": "AFSWC TR-59-39 Vol I, A Study of Lunar Research Flights, DDC AD 425380",
+"url": "https://archive.org/details/DTIC_AD0425380"
+}
+],
+"tier": "A",
+"type": "programmatic"
+},
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": "1985",
+"dateStart": "1985",
+"direction": "in",
+"edgeLabel": "the Air Force called Aurora classified after its own department published the figures",
+"id": "aurora-budget-line",
+"l0": false,
+"label": "Aurora (FY1986-FY1987 procurement line)",
+"note": "'Reminded that Aurora has been put in the public domain by the Pentagon, an Air Force spokesman said his orders still were to say only: It's a classified program.' The denial is of disclosability, not of an anomalous craft -- the article's own sources point at Stealth.",
+"sources": [
+{
+"date": "1985-02-08",
+"name": "CIA-RDP90-00965R000807470050-4, Washington Post, 8 February 1985",
+"url": "https://archive.org/details/cia-readingroom-document-cia-rdp90-00965r000807470050-4"
+}
+],
+"tier": "B",
+"type": "denial"
+},
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": "1962",
+"dateStart": "1962",
+"direction": "in",
+"edgeLabel": "Air Force flew the shot and its 22-aircraft array",
+"id": "bluegill-triple-prime",
+"l0": false,
+"label": "Bluegill Triple Prime",
+"note": "DNA 6040F records that the Air Force arrayed 22 aircraft for the detonation and names the call signs and missions of the KC-135, RC-121, B-47, C-118, C-130 and U-2 aircraft that flew DOMINIC.",
+"sources": [
+{
+"date": "1983-02-01",
+"name": "DNA 6040F, Operation DOMINIC I--1962",
+"url": "https://archive.org/download/DTIC_ADA136820/DTIC_ADA136820_djvu.txt"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": "1969",
+"dateStart": "1966",
+"direction": "out",
+"edgeLabel": "Air Force funded the University of Colorado study used to close BLUE BOOK",
+"id": "condon-committee",
+"l0": true,
+"label": "University of Colorado UFO Project (Condon Committee)",
+"note": "The termination decision rested on 'Scientific Study of Unidentified Flying Objects' and a National Academy of Sciences review of it.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "National Archives - Unidentified Flying Objects / Project BLUE BOOK",
+"url": "https://www.archives.gov/research/military/air-force/ufos"
+}
+],
+"tier": "A",
+"type": "funding"
+},
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": null,
+"dateStart": "1967",
+"direction": "in",
+"edgeLabel": "Flown by the Air Force before the constellation passed to the Space Force",
+"id": "defense-support-program",
+"l0": false,
+"label": "Defense Support Program (DSP) missile early warning satellites",
+"note": "DSP is described by GAO as a Department of Defense strategic surveillance system flown by the Air Force before the constellation passed to the Space Force.",
+"sources": [
+{
+"date": "2003-06-02",
+"name": "GAO-03-825R, Military Space Operations, 2 June 2003",
+"url": "https://www.govinfo.gov/content/pkg/GAOREPORTS-GAO-03-825R/html/GAOREPORTS-GAO-03-825R.htm"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "The Air Force insisted on being the single channel for his inquiries",
+"id": "donald-keyhoe",
+"l0": false,
+"label": "Maj. Donald E. Keyhoe, USMC (Ret.)",
+"note": "The same memorandum records that the officer contacted at the Office of the Secretary of the Air Force Information Service wanted the letters forwarded to him to answer, that the Air Force was endeavouring to impress on Keyhoe and others that his office was the proper place to come for such information, and that the Air Force was most insistent on being permitted to answer.",
+"sources": [
+{
+"date": "1958-04-04",
+"name": "CIA reading room document 0005516043",
+"url": "https://archive.org/details/cia-readingroom-document-0005516043"
+}
+],
+"tier": "B",
+"type": "denial"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "Air Force Systems Command organisation under the DCS/Research and Development for the UFO programme",
+"id": "foreign-technology-division",
+"l0": false,
+"label": "Foreign Technology Division, Wright-Patterson AFB",
+"note": "AFR 80-17 makes the Deputy Chief of Staff, Research and Development responsible for the overall programme and Air Force Systems Command responsible for supporting it through FTD.",
+"sources": [
+{
+"date": "1966-09-19",
+"name": "AFR 80-17, 19 September 1966",
+"url": "https://nicap.org/afr80-17.htm"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": "1969",
+"dateStart": "1963",
+"direction": "in",
+"edgeLabel": "MOL was the Air Force's public programme",
+"id": "manned-orbiting-laboratory",
+"l0": false,
+"label": "Manned Orbiting Laboratory and the DORIAN / KH-10 reconnaissance payload",
+"note": "MOL was the Air Force's public programme and the service that selected and trained the seventeen officers.",
+"sources": [
+{
+"date": "2019-05-01",
+"name": "Spies in Space, NRO Center for the Study of National Reconnaissance, May 2019",
+"url": "https://www.govinfo.gov/content/pkg/GOVPUB-D-PURL-gpo123652/pdf/GOVPUB-D-PURL-gpo123652.pdf"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "1976",
+"direction": "out",
+"edgeLabel": "Project BLUE BOOK records are held at the National Archives",
+"id": "nara-uap-collection",
+"l0": true,
+"label": "National Archives Unidentified Anomalous Phenomena Records Collection",
+"note": "94 rolls of 35mm microfilm, T-1206, permanently transferred to NARA - the Air Force is the one agency whose UFO records were fully accessioned, and they stop in 1969.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "National Archives - Unidentified Flying Objects / Project BLUE BOOK",
+"url": "https://www.archives.gov/research/military/air-force/ufos"
+}
+],
+"tier": "A",
+"type": "custody"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "1964",
+"dateStart": "1964",
+"direction": "in",
+"edgeLabel": "Charged the Air Force with an intolerable degree of secrecy, in print, to Congress",
+"id": "nicap",
+"l0": true,
+"label": "National Investigations Committee on Aerial Phenomena (NICAP)",
+"note": "The 1964 volume states that the Air Force 'has practiced an intolerable degree of secrecy keeping the public in the dark about the amount and possible significance of UFO evidence', and that copies of the report were sent to all Members of Congress.",
+"sources": [
+{
+"date": "1964-05-01",
+"name": "The UFO Evidence, NICAP, 1964, CIA filed copy CIA-RDP81R00560R000100010001-0",
+"url": "https://archive.org/details/cia-readingroom-document-cia-rdp81r00560r000100010001-0"
+}
+],
+"tier": "B",
+"type": "denial"
+},
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": null,
+"dateStart": "1976",
+"direction": "out",
+"edgeLabel": "BLUE BOOK records transferred to the National Archives as 94 rolls of microfilm",
+"id": "project-blue-book",
+"l0": true,
+"label": "Project Blue Book",
+"note": "The records were permanently transferred to NARA and are held as 94 rolls of 35mm microfilm, T-1206.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "National Archives - Unidentified Flying Objects / Project BLUE BOOK",
+"url": "https://www.archives.gov/research/military/air-force/ufos"
+}
+],
+"tier": "A",
+"type": "custody"
+},
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": "1969-12-17",
+"dateStart": "1952",
+"direction": "out",
+"edgeLabel": "Air Force ran the public UFO investigation 1952-1969",
+"id": "project-blue-book",
+"l0": true,
+"label": "Project Blue Book",
+"note": "12,618 sightings were reported to BLUE BOOK, of which 701 remain 'Unidentified'. The Secretary of the Air Force announced termination on 17 December 1969.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "National Archives - Unidentified Flying Objects / Project BLUE BOOK",
+"url": "https://www.archives.gov/research/military/air-force/ufos"
+}
+],
+"tier": "A",
+"type": "programmatic"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "1955",
+"dateStart": "1954",
+"direction": "in",
+"edgeLabel": "Records the Air Force research and development status of the disc-aircraft proposal",
+"id": "tr-ac-47-silver-bug",
+"l0": false,
+"label": "TR-AC-47, Joint ATIC-WADC Report on Project Silver Bug, 15 February 1955",
+"note": "Section II names Technical Requirement No. 3 of 13 August 1954 and the order to proceed of 29 December 1954, so the Air Force interest is dated by the document rather than inferred.",
+"sources": [
+{
+"date": "1955-02-15",
+"name": "TR-AC-47, Joint ATIC-WADC Report on Project Silver Bug, 15 February 1955",
+"url": "https://documents.theblackvault.com/documents/SilverBug/AFD-070114-006.pdf"
+}
+],
+"tier": "B",
+"type": "programmatic"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "1967",
+"dateStart": "1967",
+"direction": "in",
+"edgeLabel": "an Air Force unit reporting to the Assistant Chief of Staff, Intelligence",
+"id": "usaf-1127th-field-activities-group",
+"l0": false,
+"label": "1127th USAF Field Activities Group",
+"note": "The ACS/I's own semiannual history for July-December 1967 covers the 1127th as a subordinate and records Colonel Rudolph C. Koller, Jr. as its commander throughout, with authorised strength rising from 220 to 249.",
+"sources": [
+{
+"date": "1967-12-31",
+"name": "History of the Assistant Chief of Staff, Intelligence, July - December 1967",
+"url": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB520-the-Pentagons-Spies/EBB-PS03b.pdf"
+}
+],
+"tier": "A",
+"type": "institutional"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "1947-09-18",
+"deg": 15,
+"denials": [
+{
+"by": {
+"id": "donald-keyhoe",
+"label": "Maj. Donald E. Keyhoe, USMC (Ret.)"
+},
+"claimTier": 1,
+"denialKind": null,
+"label": "The Air Force insisted on being the single channel for his inquiries",
+"note": "The same memorandum records that the officer contacted at the Office of the Secretary of the Air Force Information Service wanted the letters forwarded to him to answer, that the Air Force was endeavouring to impress on Keyhoe and others that his office was the proper place to come for such information, and that the Air Force was most insistent on being permitted to answer.",
+"of": {
+"id": "usaf",
+"label": "United States Air Force"
+},
+"sources": [
+{
+"date": "1958-04-04",
+"name": "CIA reading room document 0005516043",
+"url": "https://archive.org/details/cia-readingroom-document-0005516043"
+}
+]
+},
+{
+"by": {
+"id": "nicap",
+"label": "National Investigations Committee on Aerial Phenomena (NICAP)"
+},
+"claimTier": 1,
+"denialKind": null,
+"label": "Charged the Air Force with an intolerable degree of secrecy, in print, to Congress",
+"note": "The 1964 volume states that the Air Force 'has practiced an intolerable degree of secrecy keeping the public in the dark about the amount and possible significance of UFO evidence', and that copies of the report were sent to all Members of Congress.",
+"of": {
+"id": "usaf",
+"label": "United States Air Force"
+},
+"sources": [
+{
+"date": "1964-05-01",
+"name": "The UFO Evidence, NICAP, 1964, CIA filed copy CIA-RDP81R00560R000100010001-0",
+"url": "https://archive.org/details/cia-readingroom-document-cia-rdp81r00560r000100010001-0"
+}
+]
+},
+{
+"by": {
+"id": "usaf",
+"label": "United States Air Force"
+},
+"claimTier": 1,
+"denialKind": "directed",
+"label": "the Air Force called Aurora classified after its own department published the figures",
+"note": "'Reminded that Aurora has been put in the public domain by the Pentagon, an Air Force spokesman said his orders still were to say only: It's a classified program.' The denial is of disclosability, not of an anomalous craft -- the article's own sources point at Stealth.",
+"of": {
+"id": "aurora-budget-line",
+"label": "Aurora (FY1986-FY1987 procurement line)"
+},
+"sources": [
+{
+"date": "1985-02-08",
+"name": "CIA-RDP90-00965R000807470050-4, Washington Post, 8 February 1985",
+"url": "https://archive.org/details/cia-readingroom-document-cia-rdp90-00965r000807470050-4"
+}
+]
+}
+],
+"desc": "The Air Force is the origin point of the entire American UFO record and of the entire American denial record. Established as an independent service on 18 September 1947 - eleven weeks after the Roswell press release issued by the 509th Bomb Group at Roswell Army Air Field - it inherited Project SIGN (1948), Project GRUDGE (1949) and Project BLUE BOOK (1952-1969) at Wright-Patterson Air Force Base, Ohio, the same installation that every retrieval account since 1947 identifies as the destination of recovered material. The National Archives records that from 1947 to 1969 'a total of 12,618 sightings were reported to Project BLUE BOOK. Of these 701 remain Unidentified', and that 'On December 17, 1969, the Secretary of the Air Force announced the termination of Project BLUE BOOK', a decision resting on the University of Colorado's 'Scientific Study of Unidentified Flying Objects' and a National Academy of Sciences review of it; the collection now sits at NARA as 94 rolls of 35mm microfilm, T-1206. The Air Force also produced the two modern Roswell rebuttals - 'The Roswell Report: Fact Versus Fiction in the New Mexico Desert' (1994) and 'The Roswell Report: Case Closed' (1997) - which attributed the debris to Project MOGUL and the bodies to anthropomorphic test dummies dropped in the 1950s, an explanation that requires the witnesses to have misdated events by up to a decade. Wright-Patterson remains the home of the Air Force Research Laboratory and of the Foreign Technology Division lineage that became the National Air and Space Intelligence Center, and the Air Force retains the largest single share of the Department's special access program portfolio.",
+"domains": [
+"w2-agencies"
+],
+"dossier": {
+"claims": [
+{
+"source": "National Archives, Project BLUE BOOK record group description",
+"text": "From 1947 to 1969 a total of 12,618 sightings were reported to Project BLUE BOOK, of which 701 remain 'Unidentified'.",
+"tier": 1
+},
+{
+"source": "National Archives, Project BLUE BOOK record group description",
+"text": "On 17 December 1969 the Secretary of the Air Force announced the termination of Project BLUE BOOK, relying on the University of Colorado's 'Scientific Study of Unidentified Flying Objects' and a National Academy of Sciences review of it.",
+"tier": 1
+},
+{
+"source": "AFR 200-2, 26 August 1953, paragraphs 4a, 7 and 8, https://www.nicap.org/directives/AFR%20200-2,%20Aug%20%2026,1953.pdf",
+"text": "AFR 200-2 of 26 August 1953, signed by order of the Secretary of the Air Force by N. F. Twining, designated ATIC as the analysis authority, directed that 'All evidence will be forwarded to ATIC', and limited releasable information to the fact that an object had been 'conclusively identified by ATIC as a conventional aerial device or other familiar object'.",
+"tier": 1
+},
+{
+"source": "History, 1127 USAF Field Activities Group (AFNIA), 1 January - 30 June 1967, doc. AFNIABA 014-67, pp. 29-30, https://nsarchive2.gwu.edu/NSAEBB/NSAEBB520-the-Pentagons-Spies/EBB-PS03a.pdf",
+"text": "The 1127th USAF Field Activities Group's own semiannual history for 1 January to 30 June 1967 lists Project BLUE FLY, MIG-17 Exploitation and Project MOON DUST together under FOREIGN MATERIEL PROGRAM, and records that the unit 'coordinated requirements necessary to deploy the FTD exploitation personnel and to airlift personnel and parts from site of acquisition to Wright-Patterson AFB. The take consisted of approximately three tons of aircraft parts and armament.'",
+"tier": 1
+},
+{
+"source": "CIA-RDP90-00965R000807470050-4, Washington Post, 8 February 1985, https://archive.org/details/cia-readingroom-document-cia-rdp90-00965r000807470050-4",
+"text": "Reminded in February 1985 that the Pentagon's own unclassified P-1 procurement document had put Aurora's funding in the public domain, 'an Air Force spokesman said his orders still were to say only: It's a classified program.'",
+"tier": 1
+}
+],
+"connections": [
+"Parent service of usaf-1127th-field-activities-group, whose 1967 history documents the MOON DUST and BLUE FLY recovery pipeline terminating at Wright-Patterson.",
+"Issued afr-200-2, which routed all evidence to atic and restricted public release to identified objects.",
+"Named as the denier on the aurora-budget-line edge: the spokesman who called the programme classified after the Pentagon published its figures."
+],
+"denialPosture": "The Air Force's posture is not silence but re-description, and it is the same shape in 1953, 1969 and 1985. In 1953 the regulation permitted public discussion of identified objects and forbade it for unidentified ones, which converts every open case into a non-statement. In 1969 the public collection channel was closed with a scientific justification while the foreign-materiel channel continued under separate authority. In 1985 the service declined to confirm a programme whose figures its own department had already published, on standing orders. In each case the denial is procedural rather than substantive: not 'this did not happen' but 'this is not a thing I am permitted to describe' -- which is why the board grades the Aurora edge as a directed denial with the Air Force named as its issuer, and why nothing here is graded as a denial of anomalous material, which the service has not been documented making in these records.",
+"narrative": "Everything this board argues about custody runs through one service, and the useful thing a dossier can do is set the public record and the internal record side by side using only documents.\n\nThe public record is well known and well sourced. From 1947 to 1969, 12,618 sightings were reported to Project BLUE BOOK, of which 701 remain unidentified; on 17 December 1969 the Secretary of the Air Force announced its termination, resting on the University of Colorado study and a National Academy of Sciences review; the files went to the National Archives as 94 rolls of microfilm, T-1206. Two later reports attributed the Roswell debris to Project MOGUL and the bodies to anthropomorphic test dummies dropped in the 1950s -- an explanation requiring witnesses to have misdated events by up to a decade.\n\nThe internal record is the same service, described by its own units. AFR 200-2 of 26 August 1953, signed by order of the Secretary of the Air Force by Nathan Twining, designated ATIC as the analysis authority, directed that 'All evidence will be forwarded to ATIC', instructed units to safeguard materiel against 'defacing or alteration which would reduce its value for technical analysis', and limited public release to objects 'conclusively identified by ATIC as a conventional aerial device'. Fourteen years later, and two years before Blue Book closed, the 1127th USAF Field Activities Group's own semiannual history lists Project BLUE FLY and Project MOON DUST under FOREIGN MATERIEL PROGRAM, records exploitation personnel deployed to crash sites, and describes about three tons of parts airlifted to Wright-Patterson under a Joint Chiefs priority designation. JANAP 146 was still listing unidentified flying objects as a reportable category in 1977.\n\nNone of that establishes anomalous material. All of it establishes that the collection channel the public was told had closed was not the only channel, and that the service said so in documents it classified rather than published.",
+"openQuestions": [
+"The 1127th USAF Field Activities Group's activation and inactivation dates are not established. No primary lineage record was found, and its Fort Belvoir station appears only in secondary accounts.",
+"The US deorbit figure on page 30 of the 1127th's 1 January - 30 June 1967 history is illegible in the released scan at 340 dpi and is not reported anywhere on this board.",
+"The FY1986 Department of Defense Procurement Programs (P-1) exhibit that carried the Aurora line has not been located or read. Everything on this board about its contents comes from a named Washington Post correspondent reporting them in February 1985.",
+"ATIC's 1947-1951 T-2 intelligence files have never been subject to a comprehensive declassification review."
+],
+"roles": [
+"concealment",
+"custody",
+"retrieval",
+"disclosure"
+],
+"whatItIs": "The United States Air Force, established as an independent military department on 18 September 1947, eleven weeks after the Roswell press release issued by the 509th Bomb Group at Roswell Army Air Field. It inherited and ran every official American UFO project -- Project SIGN in 1948, Project GRUDGE in 1949 and Project BLUE BOOK from 1952 to 1969 -- at Wright-Patterson Air Force Base, Ohio, the installation every retrieval account since 1947 names as the destination of recovered material.",
+"whyImplicated": "The Air Force is the origin point of both the American UFO record and the American denial record, and it is the only institution on this board that is simultaneously the collector, the analyst, the custodian and the public voice. Under AFR 200-2 it required reports to flow to the Air Technical Intelligence Center -- the foreign-materiel exploitation shop -- and restricted public discussion to cases conclusively identified as conventional. It closed Blue Book publicly in December 1969 while its own units continued to run a Foreign Materiel Program whose 1967 unit history lists MOON DUST and BLUE FLY alongside MIG-17 exploitation and describes airlifting recovered materiel to Wright-Patterson. And in February 1985 an Air Force spokesman, reminded that his own department had published Aurora's figures in an unclassified procurement document, said his orders were still to say only that it was a classified program."
+},
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "usaf",
+"l0": true,
+"label": "United States Air Force",
+"locLabel": null,
+"members": [
+{
+"cls": "institution",
+"id": "afrl",
+"label": "Air Force Research Laboratory",
+"tier": "B"
+},
+{
+"cls": "program",
+"id": "aurora-budget-line",
+"label": "Aurora (FY1986-FY1987 procurement line)",
+"tier": "B"
+},
+{
+"cls": "event",
+"id": "bluegill-triple-prime",
+"label": "Bluegill Triple Prime",
+"tier": "B"
+},
+{
+"cls": "program",
+"id": "defense-support-program",
+"label": "Defense Support Program (DSP) missile early warning satellites",
+"tier": "B"
+},
+{
+"cls": "person",
+"id": "donald-keyhoe",
+"label": "Maj. Donald E. Keyhoe, USMC (Ret.)",
+"tier": "B"
+},
+{
+"cls": "institution",
+"id": "foreign-technology-division",
+"label": "Foreign Technology Division, Wright-Patterson AFB",
+"tier": "B"
+},
+{
+"cls": "program",
+"id": "manned-orbiting-laboratory",
+"label": "Manned Orbiting Laboratory and the DORIAN / KH-10 reconnaissance payload",
+"tier": "B"
+},
+{
+"cls": "document",
+"id": "tr-ac-47-silver-bug",
+"label": "TR-AC-47, Joint ATIC-WADC Report on Project Silver Bug, 15 February 1955",
+"tier": "B"
+},
+{
+"cls": "institution",
+"id": "usaf-1127th-field-activities-group",
+"label": "1127th USAF Field Activities Group",
+"tier": "A"
+}
+],
+"short": "United States Air Force",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "National Archives - Unidentified Flying Objects / Project BLUE BOOK",
+"url": "https://www.archives.gov/research/military/air-force/ufos"
+}
+],
+"sub": "Military department; original custodian of the UFO record and of the Roswell material",
+"tier": "A",
+"tierRationale": "Re-graded A on a global pass (rank 51 of 1027, score 79). 16 connections, 6 of them custody/witness/funding/programmatic, 3 official denials recorded against it. Axes C3/A3/D1.",
+"timeline": [
+{
+"date": "1947-09-18",
+"id": "ag-tl-1947-usaf",
+"label": "US Air Force established",
+"precision": "day",
+"strand": "program",
+"text": "The Air Force becomes an independent service and inherits the flying disc problem, Wright Field, and the Air Materiel Command intelligence apparatus that would run SIGN, GRUDGE and BLUE BOOK.",
+"tier": "A"
+},
+{
+"date": "1969-12-17",
+"id": "ag-tl-1969-bluebook",
+"label": "Secretary of the Air Force terminates Project BLUE BOOK",
+"precision": "day",
+"strand": "coverup",
+"text": "After 12,618 reported sightings of which 701 remain unidentified, the Air Force closes its public UFO channel on the strength of the Condon Report and a National Academy of Sciences review. No document terminating classified collection is ever produced.",
+"tier": "A"
+}
+]
+}

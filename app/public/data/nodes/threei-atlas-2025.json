@@ -1,0 +1,97 @@
+{
+"A": 0,
+"C": 0,
+"D": 1,
+"band": null,
+"claims": [
+{
+"source": "https://defensescoop.com/2025/11/04/3i-atlas-comet-us-government-monitoring-mysterious-interstellar-object/",
+"text": "On 4 November 2025 the US government was fielding questions about the interstellar object 3I/ATLAS amid a government shutdown.",
+"tier": 2
+},
+{
+"source": "https://defensescoop.com/2026/06/17/new-science-advisory-council-forms-to-help-us-government-resolve-the-uap-mystery/",
+"text": "The episode exposed the absence of a standing government scientific body able to speak to anomalous objects, the gap the UAP Science Advisory Council was announced across seven months later. Reasoning: the same scientist, Loeb, was the principal public voice in both episodes.",
+"tier": 3
+}
+],
+"cls": "event",
+"cluster": "research",
+"connections": [
+{
+"claimTier": 3,
+"cls": "institution",
+"dateEnd": "2026-06-17",
+"dateStart": "2025-11-04",
+"direction": "out",
+"edgeLabel": "the gap the council was formed across",
+"id": "uap-science-advisory-council",
+"l0": true,
+"label": "UAP Science Advisory Council",
+"note": "An anomalous object in the public eye during a shutdown, with no standing government scientific body chartered to speak to it; the same scientist convened the council seven months later.",
+"sources": [
+{
+"date": "2025-11-04",
+"name": "DefenseScoop, 3I/ATLAS",
+"url": "https://defensescoop.com/2025/11/04/3i-atlas-comet-us-government-monitoring-mysterious-interstellar-object/"
+},
+{
+"date": "2026-06-17",
+"name": "DefenseScoop, UAP Science Advisory Council",
+"url": "https://defensescoop.com/2026/06/17/new-science-advisory-council-forms-to-help-us-government-resolve-the-uap-mystery/"
+}
+],
+"tier": "A",
+"type": "temporal"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "2025-11-04",
+"deg": 1,
+"denials": [],
+"desc": "On 4 November 2025, during a government shutdown, DefenseScoop reported that the US government was grappling with questions about the interstellar object 3I/ATLAS. It belongs on this board not as a UAP case but as a boundary case: the third confirmed interstellar object to pass through the solar system, tracked by civil and defence sensors, generating public questions about whether it was natural, and arriving at a moment when the agencies that would answer were furloughed. Avi Loeb - who seven months later would convene the UAP Science Advisory Council - was the principal scientific voice in that debate, as he had been for 1I/'Oumuamua. The episode establishes the specific institutional gap the Science Advisory Council was later formed across: an anomalous object in the public eye, a government with the sensors, and no standing scientific body chartered to say anything about it.",
+"domains": [
+"w2-2025-2026"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "threei-atlas-2025",
+"l0": false,
+"label": "3I/ATLAS interstellar object and the US government response (November 2025)",
+"locLabel": null,
+"members": null,
+"short": "3I/ATLAS interstellar object and the US government response (November 2025)",
+"sources": [
+{
+"date": "2025-11-04",
+"name": "DefenseScoop, 'US government grapples with questions about interstellar object 3I/ATLAS amid shutdown'",
+"url": "https://defensescoop.com/2025/11/04/3i-atlas-comet-us-government-monitoring-mysterious-interstellar-object/"
+},
+{
+"date": null,
+"name": "defensescoop.com",
+"url": "https://defensescoop.com/2026/06/17/new-science-advisory-council-forms-to-help-us-government-resolve-the-uap-mystery/"
+}
+],
+"sub": "Government fielding questions during the shutdown; Loeb the loudest scientific voice",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 1025 of 1027, score 6). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D1.",
+"timeline": [
+{
+"date": "2025-11-04",
+"id": "tl-3iatlas",
+"label": "3I/ATLAS: an anomalous object and a furloughed government",
+"precision": "day",
+"strand": "program",
+"text": "The US government fields questions about the third known interstellar object during a shutdown, with no standing scientific body chartered to answer.",
+"tier": "2"
+}
+]
+}

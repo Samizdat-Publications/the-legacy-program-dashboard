@@ -1,0 +1,123 @@
+{
+"A": 0,
+"C": 0,
+"D": 2,
+"band": null,
+"claims": [
+{
+"source": "James Grainger, Buenos Aires Times, 11 May 2026",
+"text": "'The case appears in a section of the released files examining investigations conducted outside the United States and references a report produced by COMETA, a French study group linked to defence and aeronautics specialists.'",
+"tier": 2
+},
+{
+"source": "Buenos Aires Times, 11 May 2026 (release date Friday 8 May 2026)",
+"text": "'More than 160 files were released last Friday on the website of the US Department of Defense, which officially refers to UFOs as Unidentified Anomalous Phenomena.'",
+"tier": 2
+},
+{
+"source": "Buenos Aires Times, 11 May 2026, summarising the released Pentagon file",
+"text": "Detailed narrative of the 31 July 1995 AR 674 encounter as recorded in the released US file, including the double airport power failure and the go-around.",
+"tier": 2
+},
+{
+"source": "Buenos Aires Times / AFP, 11 May 2026",
+"text": "Defense Secretary Pete Hegseth on the release: 'These files, hidden behind classifications, have long fueled justified speculation - and it's time the American people see it for themselves.'",
+"tier": 2
+}
+],
+"cls": "event",
+"cluster": "witness",
+"connections": [
+{
+"claimTier": 2,
+"cls": "document",
+"dateEnd": "2026-05-08",
+"dateStart": "2026-05-08",
+"direction": "out",
+"edgeLabel": "the US 2026 release cites COMETA as a source on the Argentine case",
+"id": "doc-cometa-report",
+"l0": false,
+"label": "Les OVNI et la Défense: à quoi doit-on se préparer? (COMETA report, July 1999)",
+"note": "The Buenos Aires Times reports that the released file sits in a section on investigations conducted outside the United States and 'references a report produced by COMETA'.",
+"sources": [
+{
+"date": "2026-05-11",
+"name": "Buenos Aires Times",
+"url": "https://www.batimes.com.ar/news/argentina/bariloche-sighting-cited-in-newly-released-pentagon-files-on-ufos.phtml"
+}
+],
+"tier": "B",
+"type": "research"
+},
+{
+"claimTier": 2,
+"cls": "event",
+"dateEnd": "2026-05-13",
+"dateStart": "2026-05-08",
+"direction": "in",
+"edgeLabel": "both are allied-state responses to the same May 2026 US release",
+"id": "japan-uap-2026",
+"l0": false,
+"label": "Japan's review of the 2026 US UAP file releases",
+"note": "The 8 May 2026 US release of more than 160 files produced within days an Argentine national story and a Japanese government review.",
+"sources": [
+{
+"date": "2026-05-11",
+"name": "Buenos Aires Times",
+"url": "https://www.batimes.com.ar/news/argentina/bariloche-sighting-cited-in-newly-released-pentagon-files-on-ufos.phtml"
+},
+{
+"date": "2026-05-11",
+"name": "The Japan Times",
+"url": "https://www.japantimes.co.jp/news/2026/05/11/japan/pentagon-ufo-files-japan/"
+}
+],
+"tier": "C",
+"type": "temporal"
+}
+],
+"coords": null,
+"dateEnd": "2026-05-08",
+"dateStart": "1995-07-31",
+"deg": 2,
+"denials": [],
+"desc": "On 31 July 1995 Aerolíneas Argentinas flight AR 674, a Boeing 727 under Captain Jorge Polanco, was about 140 kilometres from San Carlos de Bariloche in Patagonia when a power failure blacked out parts of the city and its airport. As the aircraft aligned with the runway an unidentified object showing three lights, including a red one at its centre, appeared off the right side and flew parallel to it; the runway and approach lighting failed again during the manoeuvre. Polanco was unable to land and went around; the object moved behind the aircraft, stopped, ascended vertically, repositioned in front of the aircraft and departed towards the Andes. Another aircraft holding in the area, air traffic controllers and residents on the ground reported the same phenomenon. The case matters here because of where it resurfaced: it appears in the first batch of more than 160 UAP files released by the US Department of Defense on Friday 8 May 2026, in a section of the release examining investigations conducted outside the United States, and the file references a report produced by COMETA - the 1999 French committee. The United States government's own 2026 release therefore cites the French generals' report as a source on a South American case.",
+"domains": [
+"w2-international"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "1",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "ev-argentina-bariloche-1995",
+"l0": false,
+"label": "Aerolíneas Argentinas flight AR 674, San Carlos de Bariloche, 31 July 1995",
+"locLabel": null,
+"members": null,
+"short": "Aerolíneas Argentinas flight AR 674, San Carlos de Bariloche, 31 July 1995",
+"sources": [
+{
+"date": "2026-05-11",
+"name": "Buenos Aires Times - Bariloche sighting cited in newly released Pentagon files on UFOs",
+"url": "https://www.batimes.com.ar/news/argentina/bariloche-sighting-cited-in-newly-released-pentagon-files-on-ufos.phtml"
+}
+],
+"sub": "Argentine airliner encounter documented in the May 2026 US Department of War UAP release",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 907 of 1027, score 14). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D2.",
+"timeline": [
+{
+"date": "2026-05-08",
+"id": "tl-intl-2026-may-release",
+"label": "The US release reaches the allies",
+"precision": "day",
+"strand": "oversight",
+"text": "More than 160 UAP files are published on the US Department of Defense website. Within days Kyodo News reports that the footage shows a football-shaped object near Japan, The Japan Times reports Tokyo analysing the trove, and the Buenos Aires Times reports that the release documents the 31 July 1995 Aerolíneas Argentinas Bariloche encounter in a section on investigations conducted outside the United States - citing the 1999 French COMETA report as a source.",
+"tier": 2
+}
+]
+}

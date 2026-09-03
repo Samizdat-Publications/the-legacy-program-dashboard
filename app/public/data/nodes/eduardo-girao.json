@@ -1,0 +1,119 @@
+{
+"A": 0,
+"C": 0,
+"D": 3,
+"affiliations": [
+"senado-brasil"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "2022",
+"event": "Leads a Brazilian Senate hearing on UAP",
+"precision": "year"
+},
+{
+"date": "2026-01-20",
+"event": "Attends the National Press Club Varginha press conference in Washington in a private capacity; meets Rep. Eric Burlison",
+"precision": "day"
+}
+],
+"claims": [
+{
+"source": "Senado Federal, perfil do Senador Eduardo Girão https://www25.senado.leg.br/web/senadores/senador/-/perfil/5976",
+"text": "The Senado Federal's own profile gives his civil name as 'Luis Eduardo Grangeiro Girão', born 25/09/1972 in Fortaleza, Ceará, serving the period 2019-2027 for Ceará.",
+"tier": 1
+},
+{
+"source": "Senado Federal, perfil do Senador Eduardo Girão, checked 25 August 2026 https://www25.senado.leg.br/web/senadores/senador/-/perfil/5976",
+"text": "As of the date this was checked the Senate lists him as 'Fora de Exercício' - on leave with a substitute convened, his seat held by first substitute Sargento Reginauro. Any present-tense claim on this board about him acting as a sitting senator should be read against that.",
+"tier": 1
+},
+{
+"source": "Leslie Kean and Ralph Blumenthal, The Debrief, 30 January 2026",
+"text": "'Brazilian Senator Eduardo Girão, who represents the coastal state of Ceará and led a Brazilian Senate hearing on UAP in 2022, came to Washington to meet with members of Congress and attend the press event. Acting as a private citizen and not representing the Brazilian Senate, Girão spoke from the podium.'",
+"tier": 2
+},
+{
+"source": "The Debrief, 30 January 2026",
+"text": "Burlison asked Girão: 'Are there videos that you think you might be able to get access to, any other material evidence?' Girão replied: 'I'm going to try.'",
+"tier": 2
+}
+],
+"cls": "person",
+"cluster": "other",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 2,
+"cls": "event",
+"dateEnd": "2026-01-20",
+"dateStart": "2026-01-20",
+"direction": "out",
+"edgeLabel": "Brazilian senator attended and discussed a joint evidence effort",
+"id": "ev-varginha-capitol-2026",
+"l0": false,
+"label": "Varginha witnesses on Capitol Hill and at the National Press Club, 15 and 20 January 2026",
+"note": "Girão, who led a 2022 Brazilian Senate UAP hearing, met Rep. Eric Burlison for the first time at the National Press Club event.",
+"sources": [
+{
+"date": "2026-01-30",
+"name": "The Debrief",
+"url": "https://thedebrief.org/landmark-brazilian-ufo-case-reaches-capitol-hill-as-varginha-incident-turns-30/"
+}
+],
+"tier": "B",
+"type": "legislative"
+}
+],
+"date": "2026-01-20",
+"dateEnd": null,
+"dateStart": "2026-01-20",
+"deg": 1,
+"denials": [],
+"domains": [
+"w16-thin-people",
+"w2-international"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "eduardo-girao",
+"instId": "senado-brasil",
+"l0": false,
+"label": "Senador Eduardo Girão",
+"loc": "Brasília / Ceará, Brazil",
+"locId": "l-brasilia",
+"members": null,
+"narrative": "Eduardo Girão, a Brazilian Senator representing the coastal state of Ceará, led a Brazilian Senate hearing on unidentified aerial phenomena in 2022 - the first legislative engagement with the question in Brazil since the Air Force transferred its files to the National Archives. In January 2026 he travelled to Washington in a private capacity, not representing the Brazilian Senate, to meet members of the United States Congress and to attend the National Press Club press conference on the thirtieth anniversary of the Varginha events. He spoke from the podium commending the three Brazilian witnesses for their courage. During a break he met Representative Eric Burlison of Missouri for the first time; Burlison asked whether he could obtain videos or other material evidence, and Girão answered 'I'm going to try'. The two discussed a joint Brazilian-American effort to acquire tangible evidence. He is the point of contact through which the Brazilian legislature and the United States Congress could formalise a bilateral evidence-seeking arrangement, and his movement is worth watching.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Senador Eduardo Girão",
+"sources": [
+{
+"date": "2026-08-25",
+"name": "Senado Federal, perfil do Senador Eduardo Girão (CE)",
+"url": "https://www25.senado.leg.br/web/senadores/senador/-/perfil/5976"
+},
+{
+"date": "2026-01-30",
+"name": "The Debrief - Varginha reaches Capitol Hill",
+"url": "https://thedebrief.org/landmark-brazilian-ufo-case-reaches-capitol-hill-as-varginha-incident-turns-30/"
+}
+],
+"status": "active",
+"sub": "Brazilian Senator for Ceará; led the 2022 Brazilian Senate UAP hearing",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 825 of 1027, score 17). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.",
+"timeline": [],
+"unexplainedResidual": null,
+"unverified": [
+"The formal record and findings of the 2022 Brazilian Senate hearing were not retrieved in this pass."
+]
+}

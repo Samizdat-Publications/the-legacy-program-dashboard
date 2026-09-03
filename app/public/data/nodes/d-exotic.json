@@ -1,0 +1,164 @@
+{
+"A": 2,
+"C": 1,
+"D": 2,
+"band": null,
+"claims": [
+{
+"source": "DIA FOIA Electronic Reading Room, AAWSAP/AATIP collection",
+"text": "DIA commissioned thirty-eight Defense Intelligence Reference Documents under AAWSAP, subsequently released under FOIA.",
+"tier": 1
+},
+{
+"source": "DIRD 15, DIA release via The Black Vault",
+"text": "DIRD 15 is 'Advanced Space Propulsion Based on Vacuum (Spacetime Metric) Engineering'.",
+"tier": 1
+},
+{
+"source": "DIRD 18 / DIA-08-1004-004",
+"text": "DIRD DIA-08-1004-004, 'Traversable Wormholes, Stargates, and Negative Energy', was authored by Eric W. Davis of EarthTech International and dated 6 April 2010.",
+"tier": 1
+},
+{
+"source": "DIRD 19, DIA release via The Black Vault",
+"text": "DIRD 19 is 'Antigravity for Aerospace Applications'.",
+"tier": 1
+}
+],
+"cls": "domain",
+"cluster": "research",
+"connections": [
+{
+"claimTier": 1,
+"cls": "domain",
+"dateEnd": "2010-12-31",
+"dateStart": "2008-08-22",
+"direction": "in",
+"edgeLabel": "Tasking reveals expectation",
+"id": "d-program",
+"l0": false,
+"label": "Program Structure & Management",
+"note": "The AAWSAP statement of work and the thirty-eight DIRDs are the tier-1 evidence that a government agency paid for study of the physics a recovered craft would require.",
+"sources": [
+{
+"date": "2008-08-22",
+"name": "AAWSAP Statement of Work",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP/SOW_Aerospace.pdf"
+}
+],
+"tier": "B",
+"type": "programmatic"
+},
+{
+"claimTier": 1,
+"cls": "domain",
+"dateEnd": null,
+"dateStart": "2010-01-01",
+"direction": "out",
+"edgeLabel": "Field physics is the propulsion answer",
+"id": "d-prop",
+"l0": false,
+"label": "Propulsion & Field Physics",
+"note": "DIRD 15 and DIRD 19 are commissioned studies of metric engineering and antigravity - the exotic-physics domain applied to the flight problem.",
+"sources": [
+{
+"date": "2008-08-22",
+"name": "AAWSAP Statement of Work",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP/SOW_Aerospace.pdf"
+}
+],
+"tier": "B",
+"type": "research"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "subject domain: zero-point/vacuum energy extraction",
+"id": "dird-concepts-for-extracting-energy-from-the",
+"l0": false,
+"label": "Concepts for Extracting Energy From the Quantum Vacuum",
+"note": "Davis and Puthoff had published the same argument in the open literature the year before as Chapter 18, 'On Extracting Energy from the Quantum Vacuum', in 'Frontiers of Propulsion Science' (AIAA, 2009), the volume Davis co-edited with Marc G. Millis - who wrote the 'Cockpits' DIRD. The AAWSAP author network is largely a pre-existing publishing network.",
+"sources": [
+{
+"date": "2026-08-22",
+"name": "Released DIRD, 'Concepts for Extracting Energy From the Quantum Vacuum' — FOIA copy, cover page read 22 August 2026",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_24-DIRD_Concepts_for_Extracting_Energy_from_the_Quantum_Vacuum.pdf"
+},
+{
+"date": "2026-08-22",
+"name": "DIA FOIA Electronic Reading Room entry for this reference document",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237645/"
+},
+{
+"date": null,
+"name": "https://earthtech.org/pubs/davis/",
+"url": "https://earthtech.org/pubs/davis/"
+}
+],
+"tier": "B",
+"type": "research"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "2008-08-18",
+"deg": 3,
+"denials": [],
+"desc": "The most tractable question in this whole field is not whether exotic physics is real but who was paid to study it, and that question has a documented answer. Between 2008 and 2010 the Defense Intelligence Agency commissioned thirty-eight Defense Intelligence Reference Documents under AAWSAP, released under FOIA, on subjects including 'Advanced Space Propulsion Based on Vacuum (Spacetime Metric) Engineering', 'Traversable Wormholes, Stargates, and Negative Energy' by Eric W. Davis of EarthTech International, and 'Antigravity for Aerospace Applications'. Those are real government contract deliverables on precisely the physics a recovered craft would require, written by named authors, with document control numbers. Two readings are available and this board records both: either the topics were selected because someone had a reason to believe they were relevant, or a sympathetic programme manager funded a literature survey of fringe physics. The strength of the domain is that it does not depend on resolving that - the tasking itself is the tier-1 fact. Scoring high here means an entity authored, commissioned or reviewed this body of work.",
+"domains": [
+"w2-taxonomy"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "2",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "d-exotic",
+"l0": false,
+"label": "Exotic Technology & Physics",
+"locLabel": null,
+"members": null,
+"short": "Exotic Technology & Physics",
+"sources": [
+{
+"date": "2010-01-01",
+"name": "DIRD 15 - Advanced Space Propulsion Based on Vacuum (Spacetime Metric) Engineering",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_15-DIRD_Advanced_Space_Propulsion_Based_on_Vacuum_Spacetime_Metric_Engineer.pdf"
+},
+{
+"date": "2010-04-06",
+"name": "DIRD DIA-08-1004-004, 'Traversable Wormholes, Stargates, and Negative Energy' (Eric W. Davis)",
+"url": "https://documents.theblackvault.com/documents/traversablewormholes-drdavis.pdf"
+},
+{
+"date": "2010-01-01",
+"name": "DIRD 19 - Antigravity for Aerospace Applications",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_19-DIRD_Antigravity_for_Aerospace_Applications.pdf"
+},
+{
+"date": "2026-08-12",
+"name": "DIA FOIA Electronic Reading Room - Advanced Aerospace Threat Identification Program",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FOIA-Reading-Room-Advanced-Aerospace-Threat-Identification-Program/"
+}
+],
+"sub": "Technical domain - the physics that would be required, and who was paid to study it",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 426 of 1027, score 32). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A2/D2.",
+"timeline": [
+{
+"date": "2008-08-18",
+"id": "tx-2008-aawsap",
+"label": "DIA buys the physics",
+"precision": "day",
+"strand": "program",
+"text": "The Defense Intelligence Agency issues solicitation HHM402-08-R-0211 for the Advanced Aerospace Weapon System Applications Program. The resulting contract produces thirty-eight Defense Intelligence Reference Documents on metric engineering, wormholes, antigravity and field effects on human tissue - the tier-1 evidence that a US agency paid to study the physics a recovered craft would require.",
+"tier": 1
+}
+]
+}

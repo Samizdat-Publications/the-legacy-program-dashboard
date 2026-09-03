@@ -1,0 +1,174 @@
+{
+"A": 0,
+"C": 0,
+"D": 3,
+"band": null,
+"claims": [
+{
+"source": "NewsNation Reality Check episode credits, 4 August 2026 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"text": "Reality Check credits: Host Ross Coulthart; Executive Producer Andy Gipson; Editorial Producer Meagan Medick; Segment Producers Christine Jenkinson and Will Tomasi; Research Producer Rob Jones; Editor Kanyon Lyons.",
+"tier": 2
+},
+{
+"source": "NewsNation Reality Check chapter summary, 4 August 2026",
+"text": "The 4 August 2026 episode covered Immaculate Constellation, Kona Blue, FFRDCs/UARCs/GOCOs, gatekeeping within the legacy program, alleged directed-energy attacks on whistleblowers, alleged EMP downings of civilian aircraft and 'blue on blue' kinetic strikes.",
+"tier": 2
+},
+{
+"source": "NewsNation, published circa February 2026",
+"text": "NewsNation published a segment titled 'Ross Coulthart on UAP Gerb's claims: I think he's on the money.'",
+"tier": 2
+}
+],
+"cls": "program",
+"cluster": "media",
+"connections": [
+{
+"claimTier": 2,
+"cls": "domain",
+"dateEnd": "2026",
+"dateStart": "2026",
+"direction": "out",
+"edgeLabel": "Dedicated segment 'FFRDCs, U-Arcs, and GOCOs' at 17:00",
+"id": "ffrdc-mechanism",
+"l0": false,
+"label": "The FFRDC / UARC / GOCO mechanism",
+"note": "The 4 August 2026 episode gave the FFRDC/UARC/GOCO mechanism its own broadcast segment - the first time the corporate-containment thesis was treated as a discrete topic on US cable news.",
+"sources": [
+{
+"date": "2026-08-04",
+"name": "NewsNation Reality Check - 'Inside Kona Blue'",
+"url": "https://www.youtube.com/watch?v=F2NfXgv8x1E"
+}
+],
+"tier": "B",
+"type": "investigative"
+},
+{
+"claimTier": 2,
+"cls": "program",
+"dateEnd": "2026",
+"dateStart": "2026",
+"direction": "out",
+"edgeLabel": "Episode centred on the alleged Lockheed-to-DHS transfer",
+"id": "kona-blue",
+"l0": true,
+"label": "KONA BLUE",
+"note": "Gerb described Kona Blue to Coulthart as a DHS-brokered program in which Lockheed Martin material was reportedly diverted before the CIA shut it down.",
+"sources": [
+{
+"date": "2026-08-04",
+"name": "NewsNation Reality Check - 'Inside Kona Blue'",
+"url": "https://www.youtube.com/watch?v=F2NfXgv8x1E"
+}
+],
+"tier": "A",
+"type": "investigative"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2026",
+"dateStart": "2026",
+"direction": "in",
+"edgeLabel": "Credited research producer",
+"id": "rob-jones",
+"l0": false,
+"label": "Rob Jones",
+"note": "Named in the on-screen credits of the 4 August 2026 episode.",
+"sources": [
+{
+"date": "2026-08-04",
+"name": "NewsNation Reality Check - 'Inside Kona Blue'",
+"url": "https://www.youtube.com/watch?v=F2NfXgv8x1E"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2026",
+"dateStart": "2021",
+"direction": "in",
+"edgeLabel": "Coulthart hosts Reality Check",
+"id": "ross-coulthart",
+"l0": false,
+"label": "Ross Coulthart",
+"note": "Coulthart is host and NewsNation's senior special investigations correspondent; Reality Check is the vehicle through which the structural model reached broadcast.",
+"sources": [
+{
+"date": "2026-08-04",
+"name": "NewsNation Reality Check - 'Inside Kona Blue'",
+"url": "https://www.youtube.com/watch?v=F2NfXgv8x1E"
+}
+],
+"tier": "C",
+"type": "institutional"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "2021",
+"deg": 4,
+"denials": [],
+"desc": "Reality Check is the only standing investigative unit at a US cable network devoted substantially to the legacy program, and in 2026 it became the bridge that carried the independent structural reconstruction into broadcast. Hosted by Ross Coulthart, its credited team is executive producer Andy Gipson, editorial producer Meagan Medick, segment producers Christine Jenkinson and Will Tomasi, research producer Rob Jones, and editor Kanyon Lyons - a real newsroom apparatus, not a one-man show. Across 2026 the programme ran a multi-part series with UAP Gerb, culminating on 4 August 2026 in 'Inside Kona Blue, the alleged Lockheed-to-DHS UFO transfer'. That episode's chapter list is a structural document in its own right: Immaculate Constellation (0:38), Project Kona Blue (4:25), Limited disclosure campaigns (7:18), Government agreements with NHI (9:16), Agreements with foreign adversaries (9:41), Schism in the UAP community (11:22), Modern legacy program gaps (12:08), Has the U.S. achieved anti-gravity (13:19), Arguments for secrecy (15:15), FFRDCs U-Arcs and GOCOs (17:00), Risk of catastrophic disclosure (20:13), Gatekeeping within the legacy program (26:42), Is the legacy program a deep state (28:54), Should legacy program employees be given amnesty (31:53), Have directed energy weapons been used on potential whistleblowers (32:55), Allegations of the downing of civilian aircraft (34:18), Blue on blue kinetic strikes (35:55), Congressional efforts on disclosure (37:37), Will Trump be a disclosure president (38:30). Coulthart's on-air position is not neutral: NewsNation published a segment in early 2026 titled 'Ross Coulthart on UAP Gerb's claims: I think he's on the money.'",
+"domains": [
+"media-structure"
+],
+"dossier": null,
+"entityInfo": {
+"desc": "FULL CHAPTER SUMMARY of the 4 August 2026 Kona Blue episode (verbatim): :00 Intro / :38 Immaculate constellation / 3:08 Attempts at controlled disclosure / 4:25 Project Kona Blue / 7:18 Limited disclosure campaigns / 9:16 Government agreements with NHI? / 9:41 Agreements with foreign adversaries / 11:22 Schism in the UAP community / 12:08 Modern legacy program gaps / 13:19 Has the U.S. achieved anti-gravity? / 15:15 Arguments for secrecy / 17:00 FFRDCs, U-Arcs, and GOCOs / 20:13 Risk of catastrophic disclosure / 20:44 Has the U.S. achieved 'In planet flight mode'? / 21:14 Could previously reported sightings actually be U.S. reverse engineered craft? / 26:42 Gatekeeping within the legacy program / 28:54 Is the legacy program a 'deep state'? / 30:57 Gerb makes a prediction about future disclosure drops / 31:53 Should legacy program employees be given amnesty? / 32:55 Have directed energy weapons been used on potential whistleblowers? / 34:18 Allegations of the downing civilian aircrafts / 35:55 'Blue on blue' kinetic strikes / 37:37 Congressional efforts on disclosure / 38:30 Will Trump be a disclosure president? / 41:15 Final thoughts.",
+"sources": [
+{
+"date": "2026-08-04",
+"name": "NewsNation Reality Check - Kona Blue episode",
+"url": "https://www.youtube.com/watch?v=F2NfXgv8x1E"
+}
+]
+},
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "newsnation-reality-check",
+"l0": false,
+"label": "Reality Check with Ross Coulthart (NewsNation)",
+"locLabel": null,
+"members": null,
+"short": "Reality Check with Ross Coulthart (NewsNation)",
+"sources": [
+{
+"date": "2026-08-04",
+"name": "NewsNation Reality Check - Kona Blue episode",
+"url": "https://www.youtube.com/watch?v=F2NfXgv8x1E"
+},
+{
+"date": "2026-02-01",
+"name": "NewsNation - 'Ross Coulthart on UAP Gerb's claims: I think he's on the money'",
+"url": "https://www.youtube.com/watch?v=z4tCLZc37cg"
+},
+{
+"date": "2026-08-07",
+"name": "NewsNation - 'Is the legacy program a deep state?'",
+"url": "https://www.youtube.com/watch?v=jGUEMQnVBns"
+}
+],
+"sub": "Cable network investigative programme",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 865 of 1027, score 16). 4 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.",
+"timeline": [
+{
+"date": "2026-08-04",
+"id": "ms-2026-kona",
+"label": "Coulthart and Gerb on Kona Blue",
+"precision": "day",
+"strand": "program",
+"text": "Reality Check devotes a full episode to the alleged Lockheed-to-DHS transfer, the Immaculate Constellation document, FFRDCs/UARCs/GOCOs, gatekeeping, alleged directed-energy attacks on whistleblowers and alleged EMP downings of civilian aircraft; 176,430 views.",
+"tier": "A"
+}
+]
+}

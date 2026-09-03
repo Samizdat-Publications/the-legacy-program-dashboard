@@ -1,0 +1,108 @@
+{
+"A": 2,
+"C": 1,
+"D": 3,
+"band": null,
+"claims": [
+{
+"source": "S. 2226 as engrossed, Sec. 9009(c)(3)(B), GPO",
+"text": "Sec. 9009(c)(3) required a 'benchmark-driven plan... recommending precise requirements for periodic review, downgrading, and declassification as well as the exact time or specified occurrence following which each postponed item may be appropriately disclosed to the public.'",
+"tier": 1
+},
+{
+"source": "S. 2226 as engrossed, Sec. 9009(c)(3), GPO",
+"text": "The Plan expressly covered postponed 'recovered technologies of unknown origin, and biological evidence for non-human intelligence,' not merely records.",
+"tier": 1
+},
+{
+"source": "S. 2226 as engrossed, Sec. 9009(b)(5)-(6), GPO",
+"text": "Sec. 9009(b)(6) required the Review Board to brief the All-domain Anomaly Resolution Office on the Plan at least 90 days before terminating.",
+"tier": 1
+},
+{
+"source": "Full-text search of P.L. 118-31, P.L. 118-159 and P.L. 119-60, GPO",
+"text": "No enacted statute mentions a Controlled Disclosure Campaign Plan.",
+"tier": 1
+}
+],
+"cls": "document",
+"cluster": "oversight",
+"connections": [
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "2023",
+"dateStart": "2023",
+"direction": "out",
+"edgeLabel": "AARO was to inherit the Plan's declassification logic",
+"id": "aaro",
+"l0": true,
+"label": "All-domain Anomaly Resolution Office (AARO)",
+"note": "Sec. 9009(b)(6) required the Board to brief AARO on the Plan before terminating, and Sec. 9013(b)(2) required AARO to carry its requirements into standing guidance.",
+"sources": [
+{
+"date": "2023-07-27",
+"name": "S. 2226 (Engrossed in Senate) — GPO",
+"url": "https://www.govinfo.gov/content/pkg/BILLS-118s2226es/html/BILLS-118s2226es.htm"
+}
+],
+"tier": "A",
+"type": "programmatic"
+},
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": "2023",
+"dateStart": "2023",
+"direction": "in",
+"edgeLabel": "The Board must produce the Plan under Sec. 9009(c)(3)",
+"id": "uap-records-review-board",
+"l0": false,
+"label": "Unidentified Anomalous Phenomena Records Review Board",
+"note": "The Controlled Disclosure Campaign Plan exists only as a Review Board product; removing the Board removed the Plan.",
+"sources": [
+{
+"date": "2023-07-27",
+"name": "S. 2226 (Engrossed in Senate) — GPO",
+"url": "https://www.govinfo.gov/content/pkg/BILLS-118s2226es/html/BILLS-118s2226es.htm"
+}
+],
+"tier": "A",
+"type": "programmatic"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "2023",
+"deg": 2,
+"denials": [],
+"desc": "The Controlled Disclosure Campaign Plan is the UAPDA's answer to the objection that disclosure must be managed rather than instantaneous, and it is the concept the disclosure movement has since adopted as its central demand. Under Section 9009(c)(3) the Review Board would have been required to create and transmit to the President, the Archivist, the Senate Homeland Security and Governmental Affairs Committee and the House Oversight and Accountability Committee a plan with a classified appendix covering every record, every piece of information, and every item of 'recovered technologies of unknown origin, and biological evidence for non-human intelligence' whose disclosure was postponed. The plan had to contain a justification of each postponement and 'a benchmark-driven plan... recommending precise requirements for periodic review, downgrading, and declassification as well as the exact time or specified occurrence following which each postponed item may be appropriately disclosed to the public.' In other words: nothing could be withheld indefinitely, and every withholding had to carry a dated exit. Section 9009(b)(6) required the Board to brief AARO on the Plan before terminating, and Section 9013(b)(2) required AARO to carry the Plan's logic forward into standing declassification guidance for records created after the Board wound up. All of it was removed. No Controlled Disclosure Campaign Plan exists, and no enacted provision requires one.",
+"domains": [
+"congress-senate-legislation"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "controlled-disclosure-campaign-plan",
+"l0": false,
+"label": "Controlled Disclosure Campaign Plan",
+"locLabel": null,
+"members": null,
+"short": "Controlled Disclosure Campaign Plan",
+"sources": [
+{
+"date": "2023-07-27",
+"name": "S. 2226 (Engrossed in Senate), Sec. 9009 — GPO",
+"url": "https://www.govinfo.gov/content/pkg/BILLS-118s2226es/html/BILLS-118s2226es.htm"
+}
+],
+"sub": "Sec. 9009(c)(3) — mandated managed-release schedule, never produced",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 313 of 1027, score 36). 2 connections, 2 of them custody/witness/funding/programmatic. Axes C1/A2/D3.",
+"timeline": []
+}

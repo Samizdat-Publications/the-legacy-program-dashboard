@@ -1,0 +1,98 @@
+{
+"A": 0,
+"C": 0,
+"D": 3,
+"band": null,
+"claims": [
+{
+"source": "New Paradigm Institute website, retrieved 12 August 2026",
+"text": "The New Paradigm Institute runs a campaign stating 'The House Acted. Now Tell the Senate to Pass the UAPDA', plus a UAP Transparency Pledge for candidates and a Citizens for Disclosure programme.",
+"tier": 1
+},
+{
+"source": "New Paradigm Institute website; Wikipedia, 'Daniel Sheehan (attorney)' — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"text": "Daniel Sheehan leads the organisation and represents Luis Elizondo in a case against the Department of Defense.",
+"tier": 2
+}
+],
+"cls": "institution",
+"cluster": "oversight",
+"connections": [
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "2026",
+"dateStart": "2022",
+"direction": "in",
+"edgeLabel": "Founder and principal",
+"id": "daniel-sheehan",
+"l0": false,
+"label": "Daniel P. Sheehan",
+"note": "NPI is Sheehan's vehicle for the UAPDA campaign and the UAP Transparency Pledge.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "New Paradigm Institute",
+"url": "https://newparadigminstitute.org/"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "legislation",
+"dateEnd": "2026",
+"dateStart": "2023",
+"direction": "out",
+"edgeLabel": "Running the campaign for Senate passage of the UAPDA",
+"id": "uapda-2023",
+"l0": true,
+"label": "UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)",
+"note": "NPI's front page as of August 2026 reads 'The House Acted. Now Tell the Senate to Pass the UAPDA', indicating House passage of a version and Senate inaction.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "New Paradigm Institute",
+"url": "https://newparadigminstitute.org/"
+}
+],
+"tier": "A",
+"type": "legislative"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "2022",
+"deg": 2,
+"denials": [],
+"desc": "The New Paradigm Institute is Daniel Sheehan's disclosure vehicle and the movement's legislative campaign arm. It runs 'Citizens for Disclosure', a UAP Transparency Pledge asking candidates to commit to strengthened congressional oversight and responsible transparency, and as of 2026 a national campaign under the banner 'The House Acted. Now Tell the Senate to Pass the UAPDA' - indicating that a House version of the UAP Disclosure Act had passed and the Senate had not acted. NPI's function in the structure is distinct from Sol's: where Sol supplies expert advice inside committee rooms, NPI supplies outside pressure, litigation and grassroots mobilisation, and Sheehan simultaneously represents Luis Elizondo in litigation against the Department of Defense. The two-track arrangement - insider advisory access plus outside legal pressure - is the same pattern the movement has used since 2017, and it is worth noting that neither track has yet produced a single item of physical material.",
+"domains": [
+"media-structure"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "new-paradigm-institute",
+"l0": false,
+"label": "New Paradigm Institute",
+"locLabel": null,
+"members": null,
+"short": "New Paradigm Institute",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "New Paradigm Institute",
+"url": "https://newparadigminstitute.org/"
+}
+],
+"sub": "UAP disclosure advocacy and legal organisation",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 928 of 1027, score 13). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.",
+"timeline": []
+}

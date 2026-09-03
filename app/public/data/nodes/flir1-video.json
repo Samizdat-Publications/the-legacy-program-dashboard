@@ -1,0 +1,199 @@
+{
+"A": 1,
+"C": 2,
+"D": 3,
+"band": null,
+"claims": [
+{
+"source": "DoD statement on the release of historical Navy videos, 27 April 2020",
+"text": "DoD authorized release of three unclassified Navy videos filmed November 2004 and January 2015, previously circulated after unauthorized disclosures in 2007 and 2017; 'The aerial phenomena observed in the videos remain characterized as unidentified.'",
+"tier": 1
+},
+{
+"source": "DoD statement, 27 April 2020",
+"text": "The videos were made available through the Naval Air Systems Command FOIA reading room.",
+"tier": 1
+},
+{
+"source": "AARO SASC open hearing case slides, 19 November 2024",
+"text": "No official assessment of FLIR1 has been published by AARO, unlike GO FAST, Aguadilla and Mt Etna. Reasoning: AARO's 19 Nov 2024 SASC case slides cover the latter three and not FLIR1; absence from a public case-slide deck is not proof no assessment exists, but it is the state of the public record.",
+"tier": 3
+}
+],
+"cls": "document",
+"cluster": "other",
+"connections": [
+{
+"claimTier": 3,
+"cls": "person",
+"dateEnd": "2004-11-14",
+"dateStart": "2004-11-14",
+"direction": "in",
+"edgeLabel": "Underwood produced the FLIR1 tape on a follow-on sortie",
+"id": "chad-underwood",
+"l0": false,
+"label": "Chad Underwood",
+"note": "Consistently reported since 2019 and never disputed by the Navy or Fravor, but not anchored to a primary record in this pass.",
+"sources": [
+{
+"date": "2020-04-27",
+"name": "DoD statement on release of historical Navy videos",
+"url": "https://www.war.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/"
+}
+],
+"tier": "C",
+"type": "custody"
+},
+{
+"claimTier": 3,
+"cls": "person",
+"dateEnd": "2004",
+"dateStart": "2004",
+"direction": "in",
+"edgeLabel": "Credited with capturing the ATFLIR footage on 14 Nov 2004",
+"id": "chad-underwood",
+"l0": false,
+"label": "Chad Underwood",
+"note": "Consistently reported since 2019 and never disputed by the Navy or by Fravor, but not anchored to a primary record in this pass.",
+"sources": [
+{
+"date": "2020-04-27",
+"name": "DoD statement releasing the three Navy videos",
+"url": "https://www.war.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/"
+},
+{
+"date": "2023-01-14",
+"name": "The War Zone - Tic Tac incident in newly released range fouler reports",
+"url": "https://www.twz.com/tic-tac-uap-incident-included-in-72-newly-released-range-incursion-reports"
+}
+],
+"tier": "C",
+"type": "witness-chain"
+},
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": "2020",
+"dateStart": "2004",
+"direction": "out",
+"edgeLabel": "Primary sensor artefact of the 2004 encounter, released by DoD in 2020",
+"id": "nimitz-2004",
+"l0": true,
+"label": "USS Nimitz Carrier Strike Group Encounters, 10-16 November 2004",
+"note": "The video leaked in 2007, was published by the New York Times on 16 December 2017, and was formally released by DoD on 27 April 2020 with the objects 'characterized as unidentified'.",
+"sources": [
+{
+"date": "2020-04-27",
+"name": "DoD statement releasing the three Navy videos",
+"url": "https://www.war.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/"
+},
+{
+"date": "2017-12-16",
+"name": "The New York Times - Glowing Auras and Black Money",
+"url": "https://www.nytimes.com/2017/12/16/us/politics/pentagon-program-ufo-harry-reid.html"
+}
+],
+"tier": "A",
+"type": "custody"
+},
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "Published by the New York Times, reopening the subject",
+"id": "nyt-2017-12-16",
+"l0": true,
+"label": "New York Times, 'Glowing Auras and Black Money: The Pentagon's Mysterious U.F.O. Program'",
+"note": "The DoD's own 2020 release statement acknowledges the videos circulated publicly after unauthorized disclosures in 2007 and 2017.",
+"sources": [
+{
+"date": "2020-04-27",
+"name": "DoD statement releasing the three Navy videos",
+"url": "https://www.war.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/"
+}
+],
+"tier": "A",
+"type": "investigative"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "2004",
+"deg": 3,
+"denials": [],
+"desc": "The infrared targeting-pod footage captured by a VFA-41 F/A-18F on 14 November 2004 during a follow-on sortie after the Fravor/Dietrich intercept. It leaked without authorization in 2007, was published by the New York Times on 16 December 2017, and was formally released by the Department of Defense on 27 April 2020 with the statement that 'The aerial phenomena observed in the videos remain characterized as unidentified.' That release is the single most useful sentence in the government's public record on the aviator question: the Department authenticated the artefact and declined to explain it. FLIR1's provenance between November 2004 and 2007 has never been documented - there is no released chain of custody, no case file, and no Navy investigative record, consistent with Fravor's testimony that the incident 'was never investigated.' Notably, AARO's public case work has produced parallax rebuttals for GO FAST, Aguadilla and Mt Etna, but no published assessment of FLIR1.",
+"domains": [
+"_rs-archive-mirror",
+"aviators-incidents"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "2",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "flir1-video",
+"l0": false,
+"label": "FLIR1 (Nimitz ATFLIR video, 14 Nov 2004)",
+"locLabel": null,
+"members": null,
+"short": "FLIR1 (Nimitz ATFLIR video, 14 Nov 2004)",
+"sources": [
+{
+"date": "2026-08-02",
+"name": "Archived: DoD statement releasing the three Navy videos (Wayback 2026-08-02)",
+"url": "https://web.archive.org/web/20260802200608/https://www.war.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/"
+},
+{
+"date": "2026-05-08",
+"name": "Archived: AARO - SASC open hearing case slides (PDF) (Wayback 2026-05-08)",
+"url": "https://web.archive.org/web/20260508180204/https://www.aaro.mil/Portals/136/PDFs/SASC_AARO_Open_Hearing_Case_Slides_19Nov2024.pdf"
+},
+{
+"date": "2020-04-27",
+"name": "DoD statement releasing the three Navy videos",
+"url": "https://www.war.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/"
+},
+{
+"date": "2024-11-19",
+"name": "AARO - SASC open hearing case slides (PDF)",
+"url": "https://www.aaro.mil/Portals/136/PDFs/SASC_AARO_Open_Hearing_Case_Slides_19Nov2024.pdf"
+}
+],
+"sub": "Officially released DoD UAP video",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 286 of 1027, score 37). 4 connections, 3 of them custody/witness/funding/programmatic. Axes C2/A1/D3.",
+"timeline": [
+{
+"date": "2007-01-01",
+"id": "av-2007-flir1",
+"label": "FLIR1 leaks without authorization",
+"precision": "year",
+"strand": "coverup",
+"text": "DoD's 2020 release statement acknowledges the videos circulated publicly following unauthorized disclosures in 2007 and 2017.",
+"tier": "A"
+},
+{
+"date": "2017-12-16",
+"id": "av-2017-12-16",
+"label": "FLIR1 published by the New York Times",
+"precision": "day",
+"strand": "witness",
+"text": "The Nimitz footage enters public circulation and reopens the entire subject.",
+"tier": "A"
+},
+{
+"date": "2020-04-27",
+"id": "av-2020-04-27",
+"label": "DoD releases the three Navy videos",
+"precision": "day",
+"strand": "program",
+"text": "The Department authorizes release of FLIR1, GIMBAL and GO FAST, stating 'The aerial phenomena observed in the videos remain characterized as unidentified.'",
+"tier": "A"
+}
+]
+}

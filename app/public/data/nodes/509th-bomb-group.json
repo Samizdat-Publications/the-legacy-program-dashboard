@@ -1,0 +1,139 @@
+{
+"A": 0,
+"C": 0,
+"D": 0,
+"band": null,
+"claims": [
+{
+"source": "GAO/NSIAD-95-187",
+"text": "GAO reviewed classified and unclassified records from July 1947 through the 1950s held by military organisations in New Mexico and by the FBI, CIA and National Security Council, reporting in GAO/NSIAD-95-187, issued 28 July 1995.",
+"tier": 1
+},
+{
+"source": "GAO/NSIAD-95-187, quoting the 509th BG/RAAF July 1947 unit history",
+"text": "The July 1947 history report of the 509th Bomb Group and Roswell Army Air Field records that the RAAF public information office 'was kept quite busy ... answering inquiries on the flying disc' and states that the object 'turned out to be a radar tracking balloon'.",
+"tier": 1
+},
+{
+"source": "GAO/NSIAD-95-187",
+"text": "RAAF administrative records covering March 1945 to December 1949, and RAAF outgoing messages covering October 1946 to December 1949, were destroyed; the document disposition form does not indicate what organisation or person destroyed the records, when, or under what authority.",
+"tier": 1
+},
+{
+"source": "Inference from GAO/NSIAD-95-187",
+"text": "Unaccounted destruction of four years of administrative files and message traffic at the base hosting the world's only atomic-capable combat unit is not ordinary records management. Reasoning: routine disposition under schedule leaves an accountable authority and a date on the disposition form, and GAO found neither.",
+"tier": 3
+},
+{
+"source": "Board bookkeeping",
+"text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
+"tier": 3
+}
+],
+"cls": "institution",
+"cluster": "legacy",
+"connections": [
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "509th intelligence office took possession of the Roswell debris",
+"id": "roswell-1947",
+"l0": true,
+"label": "Roswell Incident",
+"note": "GAO records that 'On July 8, 1947, the Roswell Army Air Field (RAAF) public information office in Roswell, New Mexico, reported the crash and recovery of a \"flying disc\"' and that 'Army Air Forces personnel from the RAAF's 509th Bomb Group were credited with the recovery.' GAO's own search found only two 1947 records: a July 1947 history report by the combined 509th Bomb Group and RAAF, which noted the recovery of a 'flying disc' later determined by military officials to be a radar-tracking balloon, and an FBI teletype of 8 July 1947.",
+"sources": [
+{
+"date": "1995-07-28",
+"name": "GAO/NSIAD-95-187, 'Government Records: Results of a Search for Records Concerning the 1947 Crash Near Roswell, New Mexico', 28 July 1995",
+"url": "https://www.gao.gov/assets/nsiad-95-187.pdf"
+},
+{
+"date": null,
+"name": "GAO/NSIAD-95-187, 'Government Records: Results of a Search for Records Concerning the 1947 Crash Near Roswell, New Mexico,' July 28, 1995 -- https://sgp.fas.org/othergov/roswell.pdf",
+"url": ""
+},
+{
+"date": null,
+"name": "https://sgp.fas.org/othergov/roswell.html",
+"url": "https://sgp.fas.org/othergov/roswell.html"
+}
+],
+"tier": "A",
+"type": "custody"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "Congressionally requested GAO search of 509th and RAAF records",
+"id": "us-house",
+"l0": true,
+"label": "United States House of Representatives",
+"note": "At the request of Rep. Steven H. Schiff, GAO searched for records of the units assigned to RAAF in 1947, including the 509th Bomb Group. It found that RAAF administrative records (Mar 1945-Dec 1949) and RAAF outgoing messages (Oct 1946-Dec 1949) had been destroyed, with the disposition form failing to record who destroyed them, when, or under what authority.",
+"sources": [
+{
+"date": "1995-07-28",
+"name": "GAO/NSIAD-95-187, 'Government Records: Results of a Search for Records Concerning the 1947 Crash Near Roswell, New Mexico' (report landing page)",
+"url": "https://www.gao.gov/products/nsiad-95-187"
+},
+{
+"date": "1995-07-28",
+"name": "GAO/NSIAD-95-187, full report (PDF)",
+"url": "https://www.gao.gov/assets/nsiad-95-187.pdf"
+},
+{
+"date": null,
+"name": "GAO/NSIAD-95-187, report to the Honorable Steven H. Schiff, House of Representatives, July 28, 1995 -- https://sgp.fas.org/othergov/roswell.html",
+"url": ""
+}
+],
+"tier": "B",
+"type": "investigative"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": null,
+"deg": 2,
+"denials": [],
+"desc": "The 509th was constituted as the 509th Composite Group in December 1944 as the delivery unit for the atomic bomb, flew the August 1945 atomic missions, and was redesignated the 509th Bomb Group and based at Roswell Army Air Field in New Mexico - in 1947 the only atomic-capable combat unit in the world. That is the most important fact about the Roswell episode and the one most often dropped from it: the press release announcing that the 509th had recovered a 'flying disc' came from the public information office of the unit holding the nuclear mission, staffed by officers with the highest clearances then in existence, and it was retracted within hours. The GAO's 1995 audit found the group's own July 1947 unit history recording that the RAAF public information office 'was kept quite busy ... answering inquiries on the flying disc' and stating that the object 'turned out to be a radar tracking balloon'. The same audit produced the finding that anchors this node: the RAAF administrative records for March 1945 to December 1949 and its outgoing messages for October 1946 to December 1949 were destroyed, and the disposition form does not indicate what organisation or person destroyed them, when, or under what authority. A base's entire administrative and message traffic for the period bracketing the incident is gone, with no accountable destruction authority recorded, at the one installation where records discipline was most rigorous. The 509th is therefore not merely the unit at the centre of the founding incident; it is the point at which the documentary record was removed.",
+"domains": [
+"_rs-stubs-known",
+"_stubs"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "nd",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "509th-bomb-group",
+"l0": false,
+"label": "509th Bomb Group",
+"locLabel": null,
+"members": null,
+"short": "509th Bomb Group",
+"sources": [
+{
+"date": "1995-07-28",
+"name": "GAO/NSIAD-95-187, 'Government Records: Results of a Search for Records Concerning the 1947 Crash Near Roswell, New Mexico' (report landing page)",
+"url": "https://www.gao.gov/products/nsiad-95-187"
+},
+{
+"date": "1995-07-28",
+"name": "GAO/NSIAD-95-187, full report (PDF)",
+"url": "https://www.gao.gov/assets/nsiad-95-187.pdf"
+}
+],
+"sub": "USAAF unit",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 859 of 1027, score 16). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D0.",
+"timeline": []
+}

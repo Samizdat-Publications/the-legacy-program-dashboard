@@ -1,0 +1,117 @@
+{
+"A": 1,
+"C": 1,
+"D": 3,
+"band": null,
+"claims": [
+{
+"source": "New York Post, 'Chilean navy admits it can't explain UFO', 9 January 2017",
+"text": "'A military helicopter captured the incredible footage in November 2014 during a routine coastal patrol ... The pilots tracked the craft from around 40 miles away and tried several times to communicate with it. After receiving no response, they reported it to a pair of nearby radar stations. But shockingly, neither of them were able to see it on their screens - despite being able to detect the navy choppers. Air traffic controllers also confirmed that no aircraft had been authorized to fly in the area.'",
+"tier": 2
+},
+{
+"source": "New York Post, 9 January 2017",
+"text": "'Chilean government agency the CEFAA, which investigates UFO sightings, has been probing the incident for two years.'",
+"tier": 2
+},
+{
+"source": "Inference from the January 2017 Chilean release and the DoD statement of 27 April 2020",
+"text": "The Chilean release of a state sensor product with no explanation attached, in January 2017, precedes the US Department of Defense's April 2020 authorisation of the three Navy videos by more than three years, and precedes AARO's establishment by five. Reasoning: chronology of the two releases as documented.",
+"tier": 3
+}
+],
+"cls": "event",
+"cluster": "other",
+"connections": [
+{
+"claimTier": 2,
+"cls": "institution",
+"dateEnd": "2017-01",
+"dateStart": "2014-11",
+"direction": "in",
+"edgeLabel": "analysed the Navy FLIR case for two years then released it",
+"id": "cefaa",
+"l0": true,
+"label": "CEFAA / SEFAA - Chilean anomalous aerial phenomena office, Dirección General de Aeronáutica Civil",
+"note": "The Chilean office published the raw sensor product without an explanation, three years before the US DoD authorised release of the Navy videos.",
+"sources": [
+{
+"date": "2017-01-09",
+"name": "New York Post",
+"url": "https://nypost.com/2017/01/09/chilean-navy-admits-it-cant-explain-ufo/"
+}
+],
+"tier": "A",
+"type": "investigative"
+}
+],
+"coords": null,
+"dateEnd": "2017-01",
+"dateStart": "2014-11",
+"deg": 1,
+"denials": [],
+"desc": "In November 2014 a Chilean Navy helicopter on a routine coastal patrol filmed, in daylight and with its infrared camera, an object that the crew tracked from around forty miles away and attempted repeatedly to contact. There was no response. The crew reported it to two nearby radar stations, neither of which could see the object on their screens although both could see the Navy helicopters; air traffic control confirmed that no aircraft had been authorised in the area. The footage shows the object apparently discharging a plume or gas as it moves. CEFAA, then the Chilean civil aviation UAP office, examined the case for two years with a multidisciplinary panel and released the video publicly in January 2017 without an explanation - the first time a Latin American state released military infrared sensor footage of an unresolved object. The release came three years before the US Department of Defense authorised the release of the FLIR1, GIMBAL and GOFAST Navy videos in April 2020, and it establishes the pattern the Canadian government would later identify: the Chilean office publishes what it cannot explain.",
+"domains": [
+"_rs-archive-mirror",
+"w2-international"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "2",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "ev-chile-navy-flir-2014",
+"l0": false,
+"label": "Chilean Navy helicopter FLIR case, November 2014 (released January 2017)",
+"locLabel": null,
+"members": null,
+"short": "Chilean Navy helicopter FLIR case, November 2014 (released January 2017)",
+"sources": [
+{
+"date": "2026-07-10",
+"name": "Archived: US DoD, Statement on the Release of Historical Navy Videos (Wayback 2026-07-10)",
+"url": "https://web.archive.org/web/20260710192152/https://www.defense.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/"
+},
+{
+"date": "2017-01-09",
+"name": "New York Post - Chilean navy admits it can't explain UFO",
+"url": "https://nypost.com/2017/01/09/chilean-navy-admits-it-cant-explain-ufo/"
+},
+{
+"date": "2026-08-12",
+"name": "SEFAA - Historia",
+"url": "https://sefaa.dgac.gob.cl/historia/"
+},
+{
+"date": "2020-04-27",
+"name": "US DoD, Statement on the Release of Historical Navy Videos",
+"url": "https://www.defense.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/"
+}
+],
+"sub": "CEFAA release of Chilean Navy infrared footage after two years of analysis",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 775 of 1027, score 19). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D3.",
+"timeline": [
+{
+"date": "2014-11",
+"id": "tl-intl-2014-chile",
+"label": "Chilean Navy helicopter FLIR case",
+"precision": "month",
+"strand": "witness",
+"text": "A Chilean Navy helicopter films an object in daylight on infrared during a coastal patrol. Two radar stations cannot see it although they can see the helicopters; air traffic control confirms no authorised aircraft in the area. CEFAA analyses the case for two years.",
+"tier": 2
+},
+{
+"date": "2017-01",
+"id": "tl-intl-2017-chile-release",
+"label": "Chile releases the Navy footage",
+"precision": "month",
+"strand": "oversight",
+"text": "CEFAA publishes the Chilean Navy infrared video without an explanation - the first release of state military sensor footage of an unresolved object by a Latin American government, three years before the US Department of Defense authorised release of the three Navy videos.",
+"tier": 2
+}
+]
+}

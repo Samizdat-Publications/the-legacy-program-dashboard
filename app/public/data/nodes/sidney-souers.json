@@ -1,0 +1,177 @@
+{
+"A": 3,
+"C": 2,
+"D": 1,
+"affiliations": [],
+"age": null,
+"band": null,
+"chronology": [],
+"claims": [
+{
+"source": "Presidential Directive on Coordination of Foreign Intelligence Activities, 22 January 1946, Foreign Relations of the United States, 1945-1950, Emergence of the Intelligence Establishment, Document 71, https://history.state.gov/historicaldocuments/frus1945-50Intel/d71",
+"text": "The office he first held was created on 22 January 1946: personnel assigned from State, War and the Navy 'shall collectively form a Central Intelligence Group and shall, under the direction of a Director of Central Intelligence, assist the National Intelligence Authority. The Director of Central Intelligence shall be designated by me, shall be responsible to the National Intelligence Authority, and shall sit as a non-voting member thereof.'",
+"tier": 1
+},
+{
+"source": "FRUS, 1945-1950, Emergence of the Intelligence Establishment, Document 137, 2 February 1946, https://history.state.gov/historicaldocuments/frus1945-50Intel/d137",
+"text": "He held the post and signed in it within two weeks: the memorandum of 2 February 1946 proposing the tentative organisation of the Central Intelligence Group is captioned 'Memorandum From the Director of Central Intelligence (Souers) to the National Intelligence Authority' and carries the typed signature 'Sidney W. Souers'. Its source note is NARA RG 59, Bureau of Intelligence and Research, Lot 58 D 776.",
+"tier": 1
+},
+{
+"source": "FRUS, 1945-1950, Emergence of the Intelligence Establishment, List of Persons, https://history.state.gov/historicaldocuments/frus1945-50Intel/persons",
+"text": "The Department of State's own list of persons gives both offices with dates: 'Director of Central Intelligence, Central Intelligence Group, January 22, 1946-June 10, 1946; Executive Secretary, National Security Council, August 1947-January 1950; Special Consultant to the President from January 1950.'",
+"tier": 1
+},
+{
+"source": "National Security Act of 1947, Public Law 80-253, ch. 343, 61 Stat. 495, sec. 101(c), approved 26 July 1947, https://www.govinfo.gov/content/pkg/STATUTE-61/pdf/STATUTE-61-Pg495.pdf",
+"text": "The second office is statutory. Section 101(c) of the National Security Act of 1947: 'The Council shall have a staff to be headed by a civilian executive secretary who shall be appointed by the President, and who shall receive compensation at the rate of $10,000 a year.'",
+"tier": 1
+},
+{
+"source": "Minutes of the First Meeting of the National Security Council, 26 September 1947, NARA RG 273, NSC Minutes, 1st Meeting, Secret; FRUS, 1945-1950, Emergence of the Intelligence Establishment, Document 225, https://history.state.gov/historicaldocuments/frus1945-50Intel/d225",
+"text": "At the National Security Council's first meeting on 26 September 1947 he is listed among those present as 'Sidney W. Souers, Executive Secretary, National Security Council', alongside the Director of Central Intelligence. The Council's own first decisions route attendance and scheduling through the Executive Secretary, authorise him 'to control, supervise, and administer funds which have been or hereafter may be made available to the National Security Council, with full powers with respect thereto', and record that 'The affairs of the Council will be conducted with the utmost secrecy.'",
+"tier": 1
+}
+],
+"cls": "person",
+"cluster": "ic",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "First Director of Central Intelligence, 22 January to 10 June 1946",
+"id": "cia",
+"l0": true,
+"label": "Central Intelligence Agency",
+"note": "He held the Director of Central Intelligence post created by the Presidential directive of 22 January 1946 at the head of the Central Intelligence Group, the office the National Security Act of 1947 later placed at the head of the Central Intelligence Agency.",
+"sources": [
+{
+"date": "1946-02-02",
+"name": "FRUS 1945-50 Intel, Docs. 71 and 137, and List of Persons",
+"url": "https://history.state.gov/historicaldocuments/frus1945-50Intel/d137"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 3,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "Named as a panel member inside the disputed document",
+"id": "mj-12-documents",
+"l0": true,
+"label": "MJ-12 / Operation Majestic-12 Documents",
+"note": "Souers is named as an MJ-12 panel member in the Eisenhower Briefing Document as read aloud on Area 52 DEBRIEFED, corpus map 02 file 02. No record opened for this node connects him to unidentified objects, recovered material or any such panel; the offices are the reason he is on the board.",
+"sources": [
+{
+"date": "2026-09-02",
+"name": "Area 52 DEBRIEFED, ep. 22, the MJ-12 document read by Chris Ramsay (lead map research/leads/area52-corpus-02.md, file 02)",
+"url": "https://history.state.gov/historicaldocuments/frus1945-50Intel/persons"
+}
+],
+"tier": "B",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "Successive holders of the DCI post; in the same room at the NSC's first meeting",
+"id": "roscoe-hillenkoetter",
+"l0": false,
+"label": "Roscoe H. Hillenkoetter",
+"note": "Souers held the Director of Central Intelligence post in 1946 and Hillenkoetter from 1 May 1947; the minutes of the National Security Council's first meeting on 26 September 1947 list Souers as Executive Secretary and Hillenkoetter as Director of Central Intelligence among those present.",
+"sources": [
+{
+"date": "1947-09-26",
+"name": "FRUS 1945-50 Intel, Doc. 225 and List of Persons",
+"url": "https://history.state.gov/historicaldocuments/frus1945-50Intel/d225"
+}
+],
+"tier": "B",
+"type": "institutional"
+}
+],
+"date": "1946-01-22",
+"dateEnd": null,
+"dateStart": "1946-01-22",
+"deg": 3,
+"denials": [],
+"domains": [
+"area52-2026-09-02"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "sidney-souers",
+"instId": null,
+"l0": false,
+"label": "Rear Adm. Sidney W. Souers",
+"loc": null,
+"locId": null,
+"members": null,
+"narrative": "Souers held, in sequence, the two offices through which the postwar national security paper actually moved. He was the first Director of Central Intelligence, designated under the Presidential directive of 22 January 1946 that created the National Intelligence Authority and the Central Intelligence Group, and he served until 10 June 1946. From August 1947 he was the first Executive Secretary of the National Security Council, the civilian staff head the National Security Act of 1947 created by statute, and he held that post until January 1950. At the Council's first meeting on 26 September 1947 the Council routed attendance requests and meeting scheduling through him, gave him full powers over its funds, resolved that its affairs would be conducted with the utmost secrecy, and admitted the Director of Central Intelligence as an observer and adviser. The board argues at length about what the National Security Council was and was not shown and has no node for the man who built its secretariat. He is named in the MJ-12 Eisenhower Briefing Document, and that is not why he is here.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Rear Adm. Sidney W. Souers",
+"sources": [
+{
+"date": "1946-01-22",
+"name": "Presidential Directive on Coordination of Foreign Intelligence Activities, 22 January 1946 (FRUS 1945-50 Intel, Doc. 71)",
+"url": "https://history.state.gov/historicaldocuments/frus1945-50Intel/d71"
+},
+{
+"date": "1946-02-02",
+"name": "Memorandum From the Director of Central Intelligence (Souers) to the National Intelligence Authority (FRUS 1945-50 Intel, Doc. 137)",
+"url": "https://history.state.gov/historicaldocuments/frus1945-50Intel/d137"
+},
+{
+"date": "1947-09-26",
+"name": "Minutes of the First Meeting of the National Security Council (FRUS 1945-50 Intel, Doc. 225)",
+"url": "https://history.state.gov/historicaldocuments/frus1945-50Intel/d225"
+},
+{
+"date": "2026-09-02",
+"name": "FRUS 1945-1950, Emergence of the Intelligence Establishment, List of Persons",
+"url": "https://history.state.gov/historicaldocuments/frus1945-50Intel/persons"
+},
+{
+"date": "1947-07-26",
+"name": "National Security Act of 1947, Public Law 80-253, 61 Stat. 495",
+"url": "https://www.govinfo.gov/content/pkg/STATUTE-61/pdf/STATUTE-61-Pg495.pdf"
+}
+],
+"status": "former",
+"sub": "First Director of Central Intelligence, Central Intelligence Group, 1946; first Executive Secretary, National Security Council, 1947-1950",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 282 of 1027, score 37). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A3/D1.",
+"timeline": [
+{
+"date": "1946-01-22",
+"id": "tl-1946-01-22-central-intelligence-group",
+"label": "Truman creates the Central Intelligence Group and the post of Director of Central Intelligence",
+"precision": "day",
+"strand": "oversight",
+"text": "A Presidential directive on the coordination of foreign intelligence activities provides that personnel assigned from State, War and the Navy 'shall collectively form a Central Intelligence Group and shall, under the direction of a Director of Central Intelligence, assist the National Intelligence Authority', the Director to be designated by the President and to sit as a non-voting member of the Authority. Rear Adm. Sidney W. Souers is the first holder and signs as Director of Central Intelligence within two weeks.",
+"tier": "B"
+}
+],
+"unexplainedResidual": null,
+"unverified": [
+"Every MJ-12 attribution. He is named as a panel member inside the Eisenhower Briefing Document as read aloud on the show; no record opened for this node connects him to unidentified objects or to any such panel."
+]
+}

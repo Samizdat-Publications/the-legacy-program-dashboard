@@ -1,0 +1,118 @@
+{
+"A": 1,
+"C": 1,
+"D": 2,
+"band": null,
+"claims": [
+{
+"source": "Jeffrey Nuccetelli, written testimony, House Oversight Task Force, 9 September 2025",
+"text": "On 14 October 2003 Boeing contractors reported 'a massive, glowing red square silently hovering over two missile defense sites' at Vandenberg AFB.",
+"tier": 2
+},
+{
+"source": "Nuccetelli written testimony, 9 September 2025",
+"text": "In 2005 a patrol reported 'a massive triangular craft, larger than a C-130, hovering low over the main base.'",
+"tier": 2
+},
+{
+"source": "Nuccetelli written testimony, 9 September 2025",
+"text": "'Official Air Force records documenting it are now held by AARO and the FBI'; one witness 'was threatened and told to kept quiet about the incident.'",
+"tier": 2
+}
+],
+"cls": "event",
+"cluster": "witness",
+"connections": [
+{
+"claimTier": 2,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2005",
+"direction": "out",
+"edgeLabel": "Nuccetelli says the Air Force records are now held by AARO and the FBI",
+"id": "aaro",
+"l0": true,
+"label": "All-domain Anomaly Resolution Office (AARO)",
+"note": "'Official Air Force records documenting it are now held by AARO and the FBI.' A specific, FOIA-targetable custody claim that neither agency has confirmed or denied.",
+"sources": [
+{
+"date": "2025-09-09",
+"name": "House Oversight - Nuccetelli written testimony (PDF)",
+"url": "https://oversight.house.gov/wp-content/uploads/2025/09/Nuccetelli-Written-Testimony.pdf"
+}
+],
+"tier": "A",
+"type": "custody"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2025",
+"dateStart": "2003",
+"direction": "in",
+"edgeLabel": "Military police witness and report recipient at Vandenberg, 2003-2005",
+"id": "jeffrey-nuccetelli",
+"l0": false,
+"label": "Jeffrey Nuccetelli",
+"note": "Nuccetelli testified to reports of a glowing red square over two missile defense sites on 14 October 2003 and a triangular craft over the main base in 2005.",
+"sources": [
+{
+"date": "2025-09-09",
+"name": "House Oversight - Nuccetelli written testimony (PDF)",
+"url": "https://oversight.house.gov/wp-content/uploads/2025/09/Nuccetelli-Written-Testimony.pdf"
+}
+],
+"tier": "A",
+"type": "witness-chain"
+}
+],
+"coords": null,
+"dateEnd": "2005",
+"dateStart": "2003",
+"deg": 2,
+"denials": [],
+"desc": "On 14 October 2003, Boeing contractors at Vandenberg Air Force Base - home of the National Missile Defense project - reported 'a massive, glowing red square silently hovering over two missile defense sites,' according to the sworn testimony of Jeffrey Nuccetelli, who served there in military police. The same night security guards reported a bright, fast-moving object and witnesses described 'a massive rectangular craft, larger than a football field.' A week later a patrol reported an object over the ocean heading toward the base that descended and 'vanished instantly into the night sky.' In 2005 a patrol reported 'a massive triangular craft, larger than a C-130, hovering low over the main base.' Nuccetelli testified that 'Official Air Force records documenting it are now held by AARO and the FBI' and that one witness 'was threatened and told to kept quiet about the incident.' The Vandenberg case is the strategic-asset analogue of the naval encounters: same period, same reporting suppression, but over a missile defence installation rather than a carrier strike group - and with a specific, FOIA-targetable custody claim attached.",
+"domains": [
+"aviators-incidents"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "2",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "vandenberg-2003",
+"l0": false,
+"label": "Vandenberg AFB Incidents (2003-2005)",
+"locLabel": null,
+"members": null,
+"short": "Vandenberg AFB Incidents (2003-2005)",
+"sources": [
+{
+"date": "2025-09-09",
+"name": "House Oversight - Nuccetelli written testimony (PDF)",
+"url": "https://oversight.house.gov/wp-content/uploads/2025/09/Nuccetelli-Written-Testimony.pdf"
+},
+{
+"date": "2025-09-09",
+"name": "House Oversight - hearing wrap up",
+"url": "https://oversight.house.gov/release/hearing-wrap-up-government-must-be-more-transparent-about-uaps/"
+}
+],
+"sub": "Missile-defence site overflights reported by security forces and contractors",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 612 of 1027, score 25). 2 connections, 2 of them custody/witness/funding/programmatic. Axes C1/A1/D2.",
+"timeline": [
+{
+"date": "2003-10-14",
+"id": "av-2003-10-14",
+"label": "Vandenberg red square",
+"precision": "day",
+"strand": "witness",
+"text": "Boeing contractors at Vandenberg AFB report a massive glowing red square hovering silently over two missile defense sites; security guards report a rectangular craft larger than a football field the same night.",
+"tier": "B"
+}
+]
+}

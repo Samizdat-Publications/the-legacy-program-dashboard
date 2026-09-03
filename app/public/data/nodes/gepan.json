@@ -1,0 +1,179 @@
+{
+"A": 1,
+"C": 1,
+"D": 2,
+"band": null,
+"claims": [
+{
+"source": "'French Government UFO Study', US National Security Agency declassified UFO document collection",
+"text": "NSA-held assessment: 'In 10 of the 11 cases, the conclusion was that the witnesses had witnessed a material phenomenon that could not be explained as a natural phenomenon or a human device. One of the conclusions of the total report is that behind the overall phenomenon there is a flying machine ... whose modes of sustenance and propulsion are beyond our knowledge.'",
+"tier": 1
+},
+{
+"source": "'French Government UFO Study', NSA declassified UFO document collection",
+"text": "NSA-held assessment: 'The care with which distances, angles, and psychological factors were evaluated makes the bulk of the Condon Report seem very poor by comparison. In many cases, the investigations were textbook models of how such investigations should be carried out.'",
+"tier": 1
+},
+{
+"source": "'French Government UFO Study', NSA declassified UFO document collection",
+"text": "NSA-held assessment: 'the original report was limited to 120 or 140 copies and was secret. It is not available for general dissemination.'",
+"tier": 1
+},
+{
+"source": "'French Government UFO Study', NSA declassified UFO document collection",
+"text": "NSA-held assessment: GEPAN 'is alerted to actual cases by teletype by the Gendarmerie, the French national police force.'",
+"tier": 1
+}
+],
+"cls": "program",
+"cluster": "research",
+"connections": [
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "1978",
+"dateStart": "1977",
+"direction": "in",
+"edgeLabel": "founding director 1977-1978",
+"id": "claude-poher",
+"l0": false,
+"label": "Dr Claude Poher",
+"note": "The NSA-held contemporaneous assessment records GEPAN's creation in 1977 under Poher and his resignation.",
+"sources": [
+{
+"date": "2024-02-24",
+"name": "NSA declassified UFO collection - French Government UFO Study",
+"url": "https://web.archive.org/web/20240224094347/https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/french_gov_ufo_study.pdf"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "1977",
+"dateStart": "1976",
+"direction": "in",
+"edgeLabel": "1976 IHEDN committee produced GEPAN",
+"id": "ihedn",
+"l0": false,
+"label": "Institut des Hautes Études de Défense Nationale (IHEDN)",
+"note": "COMETA's own introduction: a 1976 IHEDN committee chaired by General Blanchard of the Gendarmerie Nationale opened the file and its recommendations produced GEPAN.",
+"sources": [
+{
+"date": "1999-07-01",
+"name": "COMETA report",
+"url": "https://ia800403.us.archive.org/17/items/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D.pdf"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "1978",
+"dateStart": "1978",
+"direction": "out",
+"edgeLabel": "US NSA holds a contemporaneous assessment of GEPAN's 1978 report",
+"id": "nsa",
+"l0": true,
+"label": "National Security Agency",
+"note": "A document in the NSA's declassified UFO collection assesses the June 1978 GEPAN report and states that its methods make 'the bulk of the Condon Report seem very poor by comparison'.",
+"sources": [
+{
+"date": "2024-02-24",
+"name": "NSA declassified UFO collection",
+"url": "https://web.archive.org/web/20240224094347/https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/french_gov_ufo_study.pdf"
+}
+],
+"tier": "B",
+"type": "investigative"
+},
+{
+"claimTier": 2,
+"cls": "program",
+"dateEnd": "1988",
+"dateStart": "1988",
+"direction": "out",
+"edgeLabel": "renamed SEPRA in 1988",
+"id": "sepra",
+"l0": false,
+"label": "SEPRA - Service d'Expertise des Phénomènes de Rentrée Atmosphérique / Phénomènes Rares Aérospatiaux",
+"note": "GEPAN became SEPRA in 1988 and the acronym was redefined in 2000 before the 2005 renaming to GEIPAN.",
+"sources": [
+{
+"date": "2026-01-01",
+"name": "GEIPAN - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/GEIPAN"
+}
+],
+"tier": "C",
+"type": "temporal"
+}
+],
+"coords": null,
+"dateEnd": "1988",
+"dateStart": "1977",
+"deg": 4,
+"denials": [],
+"desc": "GEPAN was established inside CNES, the French national space agency, in 1977 on the recommendation of a 1976 IHEDN committee chaired by General Blanchard of the Gendarmerie Nationale, with CNES director general Yves Sillard's authority and Claude Poher as inaugural director. It is the first and still the only permanent civilian government UAP office in the world with a published case archive. Its operating model - the Gendarmerie Nationale, the French national police force, teletyping sighting reports directly to the agency, with CNES laboratory resources available for physical-trace analysis - is the single most important institutional difference between the French and Anglo-American approaches. A contemporaneous assessment held in the US National Security Agency's declassified UFO document collection describes GEPAN's June 1978 five-volume, roughly 500-page report to its own scientific council: three special groups (rapid intervention, physical traces, radar alert) had been created; eleven high-credibility, high-strangeness cases were studied in depth, of which only one proved to have a conventional explanation; each case was worked by a four-person team including a psychologist. The NSA-held assessment concludes that 'the care with which distances, angles, and psychological factors were evaluated makes the bulk of the Condon Report seem very poor by comparison', and records that the original French report 'was limited to 120 or 140 copies and was secret'. GEPAN was renamed SEPRA in 1988.",
+"domains": [
+"w2-international"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "1",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "gepan",
+"l0": false,
+"label": "GEPAN - Groupe d'Étude des Phénomènes Aérospatiaux Non-identifiés",
+"locLabel": null,
+"members": null,
+"short": "GEPAN - Groupe d'Étude des Phénomènes Aérospatiaux Non-identifiés",
+"sources": [
+{
+"date": "2024-02-24",
+"name": "NSA declassified UFO collection - 'French Government UFO Study'",
+"url": "https://web.archive.org/web/20240224094347/https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/french_gov_ufo_study.pdf"
+},
+{
+"date": "1999-07-01",
+"name": "COMETA report, Introduction",
+"url": "https://ia800403.us.archive.org/17/items/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D.pdf"
+},
+{
+"date": "2026-01-01",
+"name": "GEIPAN - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/GEIPAN"
+}
+],
+"sub": "CNES UAP study group, Toulouse, 1977-1988",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 571 of 1027, score 27). 4 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D2.",
+"timeline": [
+{
+"date": "1977",
+"id": "tl-intl-1977-gepan",
+"label": "GEPAN created inside CNES",
+"precision": "year",
+"strand": "program",
+"text": "The French national space agency establishes GEPAN under Claude Poher with the authority of director general Yves Sillard - the world's first and still only permanent civilian government UAP office with a public case archive. The Gendarmerie Nationale routes sighting reports to it by teletype.",
+"tier": 1
+},
+{
+"date": "1978-06",
+"id": "tl-intl-1978-gepan-report",
+"label": "GEPAN's classified five-volume report",
+"precision": "month",
+"strand": "program",
+"text": "GEPAN reports to its scientific council in five volumes and about 500 pages, limited to 120 or 140 copies and secret. Of eleven high-strangeness cases studied by four-person teams including psychologists, ten were concluded to be material phenomena not explicable as natural or human. A document in the US NSA's declassified UFO collection assesses that its method makes 'the bulk of the Condon Report seem very poor by comparison'.",
+"tier": 1
+}
+]
+}

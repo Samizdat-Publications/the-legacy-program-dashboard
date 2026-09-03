@@ -1,0 +1,137 @@
+{
+"A": 0,
+"C": 0,
+"D": 2,
+"band": null,
+"claims": [
+{
+"source": "Loudoun Times-Mirror, 25 July 2024",
+"text": "Filed in Loudoun County Circuit Court on 15 July 2024 against Sheriff Mike Chapman and a Sheriff's Office employee over the FOIA release of records on his 2014 and 2018 emergency custody episodes.",
+"tier": 1
+},
+{
+"source": "Reporting on the dismissal, August 2025",
+"text": "Dismissed with prejudice on 6 August 2025; the court reasoned that Virginia's mental health confidentiality statute applies to court files rather than police records and that the redacted release complied with FOIA.",
+"tier": 2
+}
+],
+"cls": "document",
+"cluster": "oversight",
+"connections": [
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "2025",
+"dateStart": "2024",
+"direction": "in",
+"edgeLabel": "Plaintiff; suit dismissed with prejudice 6 August 2025",
+"id": "david-grusch",
+"l0": false,
+"label": "David Charles Grusch",
+"note": "Filed 15 July 2024 in Loudoun County Circuit Court against Sheriff Mike Chapman and a Sheriff's Office employee. Dismissed with prejudice on 6 August 2025 on the reasoning that Virginia's mental health confidentiality statute reaches court files rather than police records. The outcome establishes that no legal shield protected the whistleblower's most sensitive records.",
+"sources": [
+{
+"date": "2024-07-25",
+"name": "Loudoun Times-Mirror",
+"url": "https://www.loudountimes.com/0local-or-not/1local/ufo-whistleblower-sues-sheriffs-office-over-records-release/article_b24005c4-490e-11ef-97d5-4bc65ae077be.html"
+},
+{
+"date": "2025-08-12",
+"name": "Unknown Country - Grusch's Privacy Lawsuit has been Dismissed",
+"url": "https://unknowncountry.com/headline-news/gruschs-privacy-lawsuit-has-been-dismissed-what-does-this-say-about-protections-for-future-uap-whistleblowers/"
+}
+],
+"tier": "A",
+"type": "behavioral"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "2025",
+"dateStart": "2023",
+"direction": "in",
+"edgeLabel": "FOIA request that produced the records at issue in the suit",
+"id": "ken-klippenstein",
+"l0": false,
+"label": "Ken Klippenstein",
+"note": "Klippenstein obtained Grusch's 2014 and 2018 Loudoun County emergency-custody police records under Virginia FOIA and published them in The Intercept on 9 August 2023; Grusch's civil action was against the Sheriff who released them, not the reporter.",
+"sources": [
+{
+"date": "2023-08-09",
+"name": "The Intercept - UFO Whistleblower Kept Security Clearance After Psychiatric Detention",
+"url": "https://theintercept.com/2023/08/09/ufo-david-grusch-clearance/"
+},
+{
+"date": "2024-07-25",
+"name": "Loudoun Times-Mirror - UFO whistleblower sues Sheriff's Office over records release",
+"url": "https://www.loudountimes.com/0local-or-not/1local/ufo-whistleblower-sues-sheriffs-office-over-records-release/article_b24005c4-490e-11ef-97d5-4bc65ae077be.html"
+}
+],
+"tier": "C",
+"type": "investigative"
+}
+],
+"coords": null,
+"dateEnd": "2025",
+"dateStart": "2024",
+"deg": 2,
+"denials": [],
+"desc": "Grusch's civil action against Loudoun County Sheriff Michael Chapman and a Sheriff's Office employee over the release of records describing his 2014 and 2018 emergency custody episodes, including an October 2018 incident report referencing evaluation at Inova's Loudoun Adult Psychiatric Services where he was evaluated but not committed. The records were obtained under Virginia FOIA and published by Ken Klippenstein in The Intercept on 9 August 2023, two weeks after Grusch's sworn testimony. The suit, filed in Loudoun County Circuit Court on 15 July 2024, alleged the defendants lacked authority to release involuntary commitment material and that the disclosure caused him to suffer personally and professionally. It was dismissed with prejudice on 6 August 2025, on the reasoning that Virginia's mental health confidentiality statute reaches court files rather than police records and that the redacted release complied with FOIA. The case matters to the board not for its legal outcome but for what it establishes: that a UAP whistleblower's most sensitive personal records were lawfully obtainable by anyone who filed a request, and that no protection existed. That gap is exactly what the whistleblower-protection provisions being litigated in Congress since 2023 are aimed at.",
+"domains": [
+"grusch"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "grusch-v-chapman",
+"l0": false,
+"label": "David C. Grusch v. Michael Chapman et al.",
+"locLabel": null,
+"members": null,
+"short": "David C. Grusch v. Michael Chapman et al.",
+"sources": [
+{
+"date": "2024-07-25",
+"name": "Loudoun Times-Mirror - UFO whistleblower sues Sheriff's Office over records release",
+"url": "https://www.loudountimes.com/0local-or-not/1local/ufo-whistleblower-sues-sheriffs-office-over-records-release/article_b24005c4-490e-11ef-97d5-4bc65ae077be.html"
+},
+{
+"date": "2025-08-12",
+"name": "Unknown Country - Grusch's Privacy Lawsuit has been Dismissed",
+"url": "https://unknowncountry.com/headline-news/gruschs-privacy-lawsuit-has-been-dismissed-what-does-this-say-about-protections-for-future-uap-whistleblowers/"
+},
+{
+"date": "2023-08-09",
+"name": "The Intercept - UFO Whistleblower Kept Security Clearance After Psychiatric Detention",
+"url": "https://theintercept.com/2023/08/09/ufo-david-grusch-clearance/"
+}
+],
+"sub": "Loudoun County Circuit Court, filed 15 July 2024; dismissed with prejudice 6 August 2025",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 964 of 1027, score 11). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D2.",
+"timeline": [
+{
+"date": "2024-07-15",
+"id": "g-tl-2024-07-lawsuit",
+"label": "Grusch sues over the records release",
+"precision": "day",
+"strand": "witness",
+"text": "Files in Loudoun County Circuit Court against Sheriff Mike Chapman and a Sheriff's Office employee over the FOIA release of his emergency-custody records.",
+"tier": "A"
+},
+{
+"date": "2025-08-06",
+"id": "g-tl-2025-08-dismissal",
+"label": "Privacy suit dismissed with prejudice",
+"precision": "day",
+"strand": "coverup",
+"text": "The court holds Virginia's mental health confidentiality statute reaches court files rather than police records and that the redacted release complied with FOIA - establishing that no legal shield protected the whistleblower's records.",
+"tier": "B"
+}
+]
+}

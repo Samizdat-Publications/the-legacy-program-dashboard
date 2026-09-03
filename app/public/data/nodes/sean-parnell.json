@@ -1,0 +1,102 @@
+{
+"A": 1,
+"C": 0,
+"D": 1,
+"affiliations": [
+"Chief Pentagon Spokesman / Assistant to the Secretary of Defense for Public Affairs (2025-)",
+"US Army (2000-2006)"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "2026-02-20",
+"event": "Says the department looks forward to working with the interagency to fulfil the directive",
+"precision": "day"
+}
+],
+"claims": [
+{
+"source": "https://www.war.gov/News/Releases/Release/Article/4437252/statement-by-chief-pentagon-spokesman-sean-parnell-on-strengthening-the-effecti/",
+"text": "A Department of War release dated 18 March 2026 names Sean Parnell as 'Chief Pentagon Spokesman' in its own title: 'Statement by Chief Pentagon Spokesman Sean Parnell on ‘Strengthening the Effectiveness of Our Senior Service Colleges’'.",
+"tier": 1
+},
+{
+"source": "Sean Parnell, quoted by DefenseScoop, 20 February 2026",
+"text": "The department 'looks forward to working with the interagency to fulfill the president's directive.'",
+"tier": 2
+}
+],
+"cls": "person",
+"cluster": "ic",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 2,
+"cls": "document",
+"dateEnd": "2026",
+"dateStart": "2026",
+"direction": "out",
+"edgeLabel": "First departmental acknowledgement of the directive",
+"id": "trump-uap-release-directive-2026",
+"l0": false,
+"label": "Presidential direction to identify and release UAP files (19-20 February 2026)",
+"note": "Parnell said the department 'looks forward to working with the interagency to fulfill the president's directive', framing PURSUE as interagency implementation rather than an AARO or congressional product.",
+"sources": [
+{
+"date": "2026-02-20",
+"name": "DefenseScoop - Transparency proponents meet Trump's UAP disclosure tease with hope and caution",
+"url": "https://defensescoop.com/2026/02/20/trump-ufo-uap-government-files-disclosure/"
+}
+],
+"tier": "B",
+"type": "institutional"
+}
+],
+"date": "2026-02-20",
+"dateEnd": null,
+"dateStart": "2026-02-20",
+"deg": 1,
+"denials": [],
+"domains": [
+"releases-2023-2026"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "sean-parnell",
+"instId": "dod",
+"l0": false,
+"label": "Sean Parnell",
+"loc": "Arlington, VA",
+"locId": "l-dc",
+"members": null,
+"narrative": "Parnell is the Department's voice on the release programme's front end. On 20 February 2026 he said the department 'looks forward to working with the interagency to fulfill the president's directive' - the first official departmental acknowledgement that a UAP release effort had been ordered. He is a supporting figure rather than a decision-maker, but the wording matters for the record: the department framed PURSUE from the outset as an interagency implementation of a presidential direction, not as an AARO product and not as a response to congressional demand, which is how the office and the committees were both written out of the authorship of the release.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Sean Parnell",
+"sources": [
+{
+"date": "2026-03-18",
+"name": "Department of War release, 'Statement by Chief Pentagon Spokesman Sean Parnell on ‘Strengthening the Effectiveness of Our Senior Service Colleges’', 18 March 2026",
+"url": "https://www.war.gov/News/Releases/Release/Article/4437252/statement-by-chief-pentagon-spokesman-sean-parnell-on-strengthening-the-effecti/"
+},
+{
+"date": "2026-02-20",
+"name": "DefenseScoop - Transparency proponents meet Trump's UAP disclosure tease with hope and caution",
+"url": "https://defensescoop.com/2026/02/20/trump-ufo-uap-government-files-disclosure/"
+}
+],
+"status": "active",
+"sub": "Chief Pentagon Spokesman",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 957 of 1027, score 11). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D1.",
+"timeline": [],
+"unexplainedResidual": null,
+"unverified": []
+}

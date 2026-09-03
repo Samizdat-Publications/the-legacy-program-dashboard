@@ -1,0 +1,207 @@
+{
+"A": 3,
+"C": 1,
+"D": 0,
+"affiliations": [
+"Central Intelligence Agency, Director of Central Intelligence"
+],
+"age": null,
+"band": null,
+"chronology": [],
+"claims": [
+{
+"source": "H. Marshall Chadwell, Memorandum for Director of Central Intelligence, subject: Unidentified Flying Objects, 2 December 1952, CIA document C00015340, para. 1, https://archive.org/details/cia-readingroom-document-0005515935",
+"text": "Smith personally started the intelligence-community effort. Chadwell's 2 December 1952 memorandum to the DCI opens: 'On 20 August, the DCI, after a briefing by OSI on the above subject, directed the preparation of an NSCID for submission to the Council stating the need for investigation and directing agencies concerned to cooperate in such investigations.'",
+"tier": 1
+},
+{
+"source": "Draft Memorandum to the Executive Secretary, National Security Council, subject: Unidentified Flying Objects (Flying Saucers), attached to CIA document C00015340, 2 December 1952, para. 2, https://archive.org/details/cia-readingroom-document-0005515935",
+"text": "A memorandum to the National Security Council was drafted over his name proposing research, not exploitation: 'It is my view that this situation has possible implications for our national security which transcend the interests of a single service. A broader, coordinated effort should be initiated to develop a firm scientific understanding of the several phenomena which apparently are involved in these reports, and to assure ourselves that the incidents will not hamper our present efforts in the Cold War or confuse our early warning system in case of an attack.' The typed signature block reads 'Walter B. Smith / Director'.",
+"tier": 1
+},
+{
+"source": "H. Marshall Chadwell, Memorandum to Director of Central Intelligence, subject: Flying Saucers, 2 October 1952, CIA document C00015339, para. 4 and routing page, https://archive.org/details/cia-readingroom-document-0005515933",
+"text": "He is named as the approving authority on the recommendation that the DCI take the subject to the Psychological Strategy Board, and on the released copy the approval was never recorded. The 2 October 1952 routing page reads 'ACTION BY APPROVING AUTHORITY: Date: ____ Approved (disapproved): ____ WALTER B. SMITH, Director'; both lines are blank. The recommendation itself is action (b): 'That the DCI discuss this subject with the Psychological Strategy Board. A memorandum to the Director, Psychological Strategy Board, is attached for signature as TAB C.'",
+"tier": 1
+},
+{
+"source": "Allen W. Dulles to the Secretary of Defense, 13 March 1953, SECRET, CIA-RDP80B01676R001000160043-9, https://archive.org/details/cia-readingroom-document-cia-rdp80b01676r001000160043-9",
+"text": "The CIA attributed the Robertson Panel to him in writing. Allen W. Dulles, transmitting the panel report on 13 March 1953: 'This panel was convened at the direction of General Smith, following the recommendation of the Intelligence Advisory Committee.'",
+"tier": 1
+}
+],
+"cls": "person",
+"cluster": "ic",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "1953",
+"dateStart": "1953",
+"direction": "in",
+"edgeLabel": "Succeeded him as DCI and attributed the panel to him in writing",
+"id": "allen-w-dulles",
+"l0": false,
+"label": "Allen W. Dulles",
+"note": "Dulles's own letters name General Smith as the officer at whose direction the panel was convened, which is the Agency's contemporaneous account of the handover of the file.",
+"sources": [
+{
+"date": "1953-03-13",
+"name": "Allen W. Dulles to Jack Gorrie, National Security Resources Board, 13 March 1953 (CIA-RDP80B01676R001000160044-8)",
+"url": "https://archive.org/details/cia-readingroom-document-cia-rdp80b01676r001000160044-8"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "1953",
+"dateStart": "1952",
+"direction": "out",
+"edgeLabel": "Director of Central Intelligence",
+"id": "cia",
+"l0": true,
+"label": "Central Intelligence Agency",
+"note": "He signs as 'Director' on CIA Office of the Director paper and is addressed as Director of Central Intelligence in the Office of Scientific Intelligence memoranda of October and December 1952.",
+"sources": [
+{
+"date": "1952-12-02",
+"name": "CIA document C00015340, draft memorandum to the NSC Executive Secretary",
+"url": "https://archive.org/details/cia-readingroom-document-0005515935"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "1952",
+"dateStart": "1952",
+"direction": "in",
+"edgeLabel": "Chadwell's UFO memoranda were addressed to him and named him as approving authority",
+"id": "h-marshall-chadwell",
+"l0": false,
+"label": "H. Marshall Chadwell",
+"note": "Both the 2 October and 2 December 1952 memoranda are addressed to the Director of Central Intelligence through the Deputy Director for Intelligence, and the October routing page names Walter B. Smith as the approving authority on the Psychological Strategy Board recommendation.",
+"sources": [
+{
+"date": "1952-10-02",
+"name": "CIA document C00015339, Chadwell to the DCI, 2 October 1952",
+"url": "https://archive.org/details/cia-readingroom-document-0005515933"
+},
+{
+"date": "1952-12-02",
+"name": "Chadwell memorandum for the DCI, subject: Unidentified Flying Objects, 2 December 1952, with draft NSC memorandum and draft NSC directive (CIA C00015340)",
+"url": "https://archive.org/details/cia-readingroom-document-0005515935"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": "1953",
+"dateStart": "1953",
+"direction": "out",
+"edgeLabel": "Convened at his direction",
+"id": "robertson-panel",
+"l0": true,
+"label": "Robertson Panel",
+"note": "All three of Dulles's 13 March 1953 transmittal letters state that the panel 'was convened at the direction of General Smith, following the recommendation of the Intelligence Advisory Committee'.",
+"sources": [
+{
+"date": "1953-03-13",
+"name": "Allen W. Dulles to the Secretary of Defense, 13 March 1953",
+"url": "https://archive.org/details/cia-readingroom-document-cia-rdp80b01676r001000160043-9"
+}
+],
+"tier": "A",
+"type": "programmatic"
+},
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": "1952-08-20",
+"dateStart": "1952-08-20",
+"direction": "out",
+"edgeLabel": "His 20 August 1952 instruction follows the summer 1952 reporting wave",
+"id": "washington-flap-1952",
+"l0": false,
+"label": "1952 Washington DC Sightings",
+"note": "The DCI's direction to prepare an NSC intelligence directive is dated 20 August 1952 in Chadwell's own account, weeks after the Washington sightings, and Chadwell's October study rests on the reporting volume of that summer.",
+"sources": [
+{
+"date": "1952-12-02",
+"name": "CIA document C00015340, para. 1",
+"url": "https://archive.org/details/cia-readingroom-document-0005515935"
+}
+],
+"tier": "C",
+"type": "temporal"
+}
+],
+"date": "1952-12-02",
+"dateEnd": null,
+"dateStart": "1952-12-02",
+"deg": 5,
+"denials": [],
+"domains": [
+"michels-2026-09-02"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "walter-bedell-smith",
+"instId": "cia",
+"l0": false,
+"label": "Walter Bedell Smith",
+"loc": "Washington, DC",
+"locId": "l-dc",
+"members": null,
+"narrative": "Walter Bedell Smith is the Director of Central Intelligence whose own instruction, on 20 August 1952, turned unidentified flying objects from an Air Force nuisance into an intelligence-community problem with a draft National Security Council directive behind it. Chadwell's memoranda run to him, name him as the approving authority on the recommendation that the DCI take the subject to the Psychological Strategy Board, and attach a memorandum to the NSC Executive Secretary over his signature block proposing a coordinated research programme. The Agency's own later correspondence states plainly that the Robertson Panel 'was convened at the direction of General Smith'. The board carries the Robertson Panel at 112 occurrences and has one occurrence of his name; he is the office from which it issued. The Michels corpus describes a 1953 Bedell Smith letter proposing psychological warfare; the psychological-warfare document is Chadwell's, dated 2 October 1952, the approval line over Smith's name on the released copy is blank, and Smith's own 2 December 1952 draft proposes research rather than exploitation.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Walter Bedell Smith",
+"sources": [
+{
+"date": "1952-10-02",
+"name": "Chadwell memorandum to the DCI, subject: Flying Saucers, 2 October 1952 (CIA C00015339)",
+"url": "https://archive.org/details/cia-readingroom-document-0005515933"
+},
+{
+"date": "1952-12-02",
+"name": "Chadwell memorandum for the DCI, subject: Unidentified Flying Objects, 2 December 1952, with draft NSC memorandum and draft NSC directive (CIA C00015340)",
+"url": "https://archive.org/details/cia-readingroom-document-0005515935"
+},
+{
+"date": "1953-02-18",
+"name": "IAC-D-67, Intelligence Advisory Committee: Unidentified Flying Objects, 18 February 1953",
+"url": "https://archive.org/details/cia-readingroom-document-0000015454"
+},
+{
+"date": "1953-03-13",
+"name": "Allen W. Dulles to the Secretary of Defense, 13 March 1953 (CIA-RDP80B01676R001000160043-9)",
+"url": "https://archive.org/details/cia-readingroom-document-cia-rdp80b01676r001000160043-9"
+}
+],
+"status": "dead",
+"sub": "Director of Central Intelligence; the DCI who ordered the UFO problem into the intelligence community",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 376 of 1027, score 33). 5 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A3/D0.",
+"timeline": [],
+"unexplainedResidual": null,
+"unverified": [
+"A 1953 letter by Bedell Smith proposing the use of the UFO phenomenon for psychological warfare against the USSR. No such document was found: the psychological-warfare text is Chadwell's of 2 October 1952 and Smith's own attached draft of 2 December 1952 proposes a research programme.",
+"That Paul Mellon saw a German disc in a Czechoslovak hangar with Dulles present. Nothing bearing on this was found in the CIA reading room mirror."
+]
+}

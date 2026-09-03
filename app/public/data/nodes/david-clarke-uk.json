@@ -1,0 +1,155 @@
+{
+"A": 0,
+"C": 0,
+"D": 3,
+"affiliations": [
+"sheffield-hallam",
+"The National Archives, Kew"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "2005-09",
+"event": "Files FOI request with Gary Anthony for the DIS UAP study",
+"precision": "month"
+},
+{
+"date": "2006-05-15",
+"event": "MoD releases 'Unidentified Aerial Phenomena in the UK Air Defence Region' (Project Condign)",
+"precision": "day"
+},
+{
+"date": "2008-05",
+"event": "Becomes consultant to The National Archives for the UFO file release programme",
+"precision": "month"
+},
+{
+"date": "2013-06",
+"event": "Guides the final tranche release covering the closure of the MoD UFO desk",
+"precision": "month"
+}
+],
+"claims": [
+{
+"source": "UK Ministry of Defence, Publication Scheme, 'UAP in the UK Air Defence Region: Executive Summary', 15 May 2006 (Internet Archive capture)",
+"text": "MoD publication scheme entry for the Condign executive summary lists Author: DAS; Owner: Ministry of Defence; Date document created 15 May 06; Date released proactively 15 May 06; FOI Organisation area: Directorate of Air Staff; FOI Information class: Unidentified Flying Objects.",
+"tier": 1
+},
+{
+"source": "James Randerson, The Guardian, 25 September 2006, cited in Wikipedia 'Project Condign'",
+"text": "Clarke's assessment was that the release shed no new light on the phenomenon but did show the DIS had conducted a far larger investigation than previously revealed.",
+"tier": 2
+}
+],
+"cls": "person",
+"cluster": "research",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "2006-05-15",
+"dateStart": "2005-09",
+"direction": "out",
+"edgeLabel": "FOI request that forced the release",
+"id": "doc-condign-report",
+"l0": true,
+"label": "Unidentified Aerial Phenomena in the UK Air Defence Region (DIS Scientific & Technical Memorandum 55/2/00)",
+"note": "Clarke and Gary Anthony filed the September 2005 FOI request; the MoD released the report on 15 May 2006 and logged an internal review in its own disclosure log.",
+"sources": [
+{
+"date": "2006-05-15",
+"name": "MoD Publication Scheme",
+"url": "https://web.archive.org/web/20060515083956/http://www.mod.uk/DefenceInternet/FreedomOfInformation/PublicationScheme/SearchPublicationScheme/UapInTheUkAirDefenceRegionExecutiveSummary.htm"
+}
+],
+"tier": "A",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": "2013-06",
+"dateStart": "2008-05",
+"direction": "out",
+"edgeLabel": "wrote the highlights guide for every tranche",
+"id": "tna-ufo-release",
+"l0": false,
+"label": "The National Archives / MoD UFO File Release Programme (2008-2013)",
+"note": "Each National Archives UFO release page credits Dr David Clarke's guide and carries his videocast or podcast.",
+"sources": [
+{
+"date": "2013-06-01",
+"name": "TNA UFO files",
+"url": "https://web.archive.org/web/20130701000000/http://www.nationalarchives.gov.uk/ufos/"
+}
+],
+"tier": "C",
+"type": "research"
+}
+],
+"date": "2013-06-01",
+"dateEnd": null,
+"dateStart": "2013-06-01",
+"deg": 2,
+"denials": [],
+"domains": [
+"w2-international"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "2",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "david-clarke-uk",
+"instId": "sheffield-hallam",
+"l0": false,
+"label": "Dr David Clarke",
+"loc": "Sheffield, United Kingdom",
+"locId": null,
+"members": null,
+"narrative": "David Clarke, a lecturer at Sheffield Hallam University, is the person who actually prised the British record open. In September 2005 he and Gary Anthony, a former British UFO Research Association astronomical consultant, filed a Freedom of Information Act request for the Defence Intelligence Staff study that had been rumoured since the late 1990s. The Ministry of Defence released it on 15 May 2006 as 'Unidentified Aerial Phenomena in the UK Air Defence Region', a four-volume, roughly 400-page study drawing on some 10,000 reports; the MoD's own publication-scheme page records the author as 'DAS' - the Directorate of Air Staff - with the document created and released proactively on 15 May 2006 and an internal review following. Clarke then became the consultant to The National Archives for its UFO file release programme, writing the highlights guide for each of the tranches released between 2008 and June 2013 and fronting the accompanying videocasts and podcasts. His assessment of the material was deliberately unflattering to the MoD's transparency claim: the release did not resolve the phenomenon but did show that the Defence Intelligence Staff had run a far larger investigation than it had ever admitted. The Churchill quotation that The National Archives used to head its UFO pages - 'What does all this stuff about flying saucers amount to? What can it mean? What is the truth?', PREM 11/855, July 1952 - came out of the same body of work.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Dr David Clarke",
+"sources": [
+{
+"date": "2006-05-15",
+"name": "MoD Publication Scheme - UAP in the UK Air Defence Region: Executive Summary",
+"url": "https://web.archive.org/web/20060515083956/http://www.mod.uk/DefenceInternet/FreedomOfInformation/PublicationScheme/SearchPublicationScheme/UapInTheUkAirDefenceRegionExecutiveSummary.htm"
+},
+{
+"date": "2013-06-01",
+"name": "The National Archives - UFO files",
+"url": "https://web.archive.org/web/20130701000000/http://www.nationalarchives.gov.uk/ufos/"
+},
+{
+"date": "2026-03-19",
+"name": "Project Condign - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/Project_Condign"
+}
+],
+"status": "active",
+"sub": "Academic; FOI requester who forced release of Project Condign; National Archives UFO files consultant",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 920 of 1027, score 13). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.",
+"timeline": [
+{
+"date": "2006-05-15",
+"id": "tl-intl-2006-condign-release",
+"label": "Condign released under FOI",
+"precision": "day",
+"strand": "oversight",
+"text": "The Ministry of Defence releases the Condign report following a September 2005 Freedom of Information Act request by David Clarke and Gary Anthony. The publication scheme entry names the Directorate of Air Staff as author organisation.",
+"tier": 1
+}
+],
+"unexplainedResidual": null,
+"unverified": [
+"Clarke's current post and whether he holds any 2025-2026 UK UAP advisory role was not established in this pass."
+]
+}

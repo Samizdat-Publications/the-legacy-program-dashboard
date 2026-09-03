@@ -1,0 +1,552 @@
+{
+"A": 3,
+"C": 3,
+"D": 3,
+"band": "funding",
+"claims": [
+{
+"source": "10 U.S.C. 119",
+"text": "10 U.S.C. 119(e) permits the Secretary of Defense to waive SAP reporting requirements and instead provide the information and the waiver justification 'jointly to the chairman and ranking minority member of each of the defense committees'.",
+"tier": 1
+},
+{
+"source": "DoD Directive 5205.07, 12 September 2024",
+"text": "DoD Directive 5205.07 is the governing DoD policy for special access programs and vests central management in DoD SAPCO under the Deputy Secretary of Defense.",
+"tier": 1
+},
+{
+"source": "Inference from the structure of 10 U.S.C. 119 and DoDD 5205.07",
+"text": "The allegation of a concealed legacy recovery program is, in legal terms, an allegation about a single line of the United States Code: that 10 U.S.C. 119(e) has been used to reduce congressional knowledge of a materials exploitation activity to eight members, or that the activity was never entered into the SAP system at all. Reasoning: those are the only two possibilities the statutory scheme allows.",
+"tier": 3
+}
+],
+"cls": "program",
+"cluster": "other",
+"connections": [
+{
+"claimTier": 2,
+"cls": "domain",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "the access category whose costs reach four members rather than four committees",
+"id": "d-funding",
+"l0": false,
+"label": "Funding Channels",
+"note": "A waived unacknowledged SAP is the category to which the 10 U.S.C. 119(e) waiver is applied. Costs are not zero and are not unappropriated; they are reported to a group of four. The board's Tier 2 grading holds because the existence of the category and the reporting channel are documented in statute and DoD issuance, while the contents of any particular waived programme are not.",
+"sources": [
+{
+"date": "2026-08-21",
+"name": "10 U.S.C. 119 - Special access programs: congressional oversight (Office of the Law Revision Counsel)",
+"url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim"
+},
+{
+"date": "2026-05-18",
+"name": "Archived: DoD Directive 5205.07, 'Special Access Program (SAP) Policy' (12 Sep 2024) (Wayback 2026-05-18)",
+"url": "https://web.archive.org/web/20260518065512/https://www.esd.whs.mil/portals/54/documents/dd/issuances/dodd/520507p.pdf"
+},
+{
+"date": "2025-08-09",
+"name": "Archived: DoD Instruction 5205.11, 'Management, Administration, and Oversight of DoD Special Access Programs' (12 Sep 2024) (Wayback 2025-08-09)",
+"url": "https://web.archive.org/web/20250809023849/https://www.esd.whs.mil/portals/54/documents/dd/issuances/dodi/520511p.pdf"
+}
+],
+"tier": "A",
+"type": "funding"
+},
+{
+"claimTier": 3,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "1958",
+"direction": "in",
+"edgeLabel": "The open counterfactual to a concealed breakthrough-technology effort",
+"id": "darpa",
+"l0": false,
+"label": "Defense Advanced Research Projects Agency",
+"note": "DARPA runs breakthrough research with named program managers, published solicitations and a public budget of $4.322 billion enacted for FY2026. Reasoning: a concealed eighty-year exploitation effort producing no transitions is either failing or structured specifically to avoid DARPA-style visibility.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "DARPA - About",
+"url": "https://www.darpa.mil/about"
+}
+],
+"tier": "C",
+"type": "research"
+},
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "Waived and carved-out programmes named in a chartered commission's report",
+"id": "dod-sap-reform-1994",
+"l0": false,
+"label": "DoD special access programme governance change, 5 January 1994",
+"note": "The Joint Security Commission's chapter 2 states that some of the most sensitive DoD programmes are waived or carved out from certain oversight and administrative requirements, and that there are over one hundred DoD SAPs with numerous compartments.",
+"sources": [
+{
+"date": "1994-02-28",
+"name": "Joint Security Commission, Redefining Security, chapter 2",
+"url": "https://sgp.fas.org/library/jsc/chap2.html"
+}
+],
+"tier": "B",
+"type": "programmatic"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2024-09-12",
+"direction": "in",
+"edgeLabel": "DoDI 5205.11 retains the acknowledged / unacknowledged / waived taxonomy the 2024 directive omitted",
+"id": "dod-sapco",
+"l0": true,
+"label": "DoD Special Access Program Central Office (DoD SAPCO)",
+"note": "DoDI 5205.11 para. 1.2.f, effective the same day as the reissued DoDD 5205.07: 'The Secretary of Defense may designate select unacknowledged SAPs as \"waived\" when it is determined that using standard procedures for reporting to Congress would adversely affect national security, pursuant to Section 119 of Title 10, United States Code. Waived SAPs remain subject to congressional oversight.' The glossary retains definitions of acknowledged SAP, unacknowledged SAP, SAP type and waived SAP, the last defined as 'A SAP for which the Secretary of Defense has waived applicable ... An unacknowledged SAP that has more restrictive reporting and access controls than other unacknowledged SAPs.' The taxonomy was therefore not retired in September 2024; it was moved down one level from the directive into the instruction. Para. 3 further requires the SAP Oversight Committee's annual review to assess 'All waived DoD SAPs to determine the need for continued waived status' - an internal executive-branch review with no congressional trigger and no analogue in section 119.",
+"sources": [
+{
+"date": null,
+"name": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf",
+"url": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf"
+},
+{
+"date": "2024-09-12",
+"name": "DoD Directive 5205.07, Special Access Program (SAP) Policy",
+"url": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "contractor disclosure to Congress requires SAPCO approval",
+"id": "dod-sapco",
+"l0": true,
+"label": "DoD Special Access Program Central Office (DoD SAPCO)",
+"note": "The office is where the designation is administered. DoDD 5205.07 establishes DoD SAPCO 'under the authority, direction, and control of the Deputy Secretary of Defense', and DoDI 5205.11 para. 1.2.f gives the Secretary the power to designate select unacknowledged SAPs as waived. The waiver is a statutory power exercised through this structure.",
+"sources": [
+{
+"date": "2026-05-18",
+"name": "Archived: DoD Directive 5205.07, Special Access Program (SAP) Policy (Wayback 2026-05-18)",
+"url": "https://web.archive.org/web/20260518065512/https://www.esd.whs.mil/portals/54/documents/dd/issuances/dodd/520507p.pdf"
+},
+{
+"date": "2026-05-08",
+"name": "Archived: AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I (Wayback 2026-05-08)",
+"url": "https://web.archive.org/web/20260508180210/https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf"
+},
+{
+"date": null,
+"name": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf",
+"url": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf"
+}
+],
+"tier": "A",
+"type": "programmatic"
+},
+{
+"claimTier": 3,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "A ridiculed subject held inside service-secretary-level access controls",
+"id": "inscom",
+"l0": true,
+"label": "US Army Intelligence and Security Command (INSCOM)",
+"note": "Reasoning: the opened records show a psychoenergetics project carried as a Secretary of the Army designated special access programme with a category-three access caveat, which is the board's structural claim about SAP-level control of a ridiculed domain. No opened record connects CENTER LANE to waived status or to any unacknowledged programme.",
+"sources": [
+{
+"date": "1985-03-02",
+"name": "Deactivation letter of 2 March 1985 read against the waived-usap node",
+"url": "https://archive.org/download/cia-readingroom-document-cia-rdp96-00789r002100120002-4/cia-rdp96-00789r002100120002-4_djvu.txt"
+}
+],
+"tier": "A",
+"type": "programmatic"
+},
+{
+"claimTier": 3,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "1978",
+"direction": "in",
+"edgeLabel": "NISP oversight is the only government-wide window on contractor-held classified work",
+"id": "isoo",
+"l0": true,
+"label": "Information Security Oversight Office",
+"note": "ISOO is 'responsible to the President for policy and oversight of the Government-wide security classification system and the National Industrial Security Program'. A contractor-held program with no government sponsor of record would be visible, if anywhere, through NISP - and ISOO has never been directed at the UAP question.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "National Archives - Information Security Oversight Office",
+"url": "https://www.archives.gov/isoo"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "2009-11",
+"direction": "in",
+"edgeLabel": "USD(I) recommendation against SAP status for the AAWSAP effort, November 2009",
+"id": "james-clapper",
+"l0": false,
+"label": "James R. Clapper Jr.",
+"note": "Clapper as Under Secretary of Defense for Intelligence recommended against establishing a special access program in response to Senator Reid's June 2009 request. The refusal is the documented instance of the SAP decision being made against, not for, concealment.",
+"sources": [
+{
+"date": "2024-01-01",
+"name": "10 U.S.C. 119, Special access programs: congressional oversight",
+"url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim"
+}
+],
+"tier": "B",
+"type": "denial"
+},
+{
+"claimTier": 3,
+"cls": "person",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "Documented precedent for an activity exempted from its own department's approval machinery",
+"id": "james-jesus-angleton",
+"l0": false,
+"label": "James Jesus Angleton",
+"note": "Reasoning: the board's structural claim is that a programme can be held outside the machinery meant to review it. Book III documents exactly that for a different subject, in an agency's own words, and the analogy is the board's, not the Committee's. No opened record connects Angleton to any DoD special access programme.",
+"sources": [
+{
+"date": "1976-04-23",
+"name": "S. Rept. 94-755, Book III, read against the waived-usap node",
+"url": "https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-94755-iii.pdf"
+}
+],
+"tier": "B",
+"type": "behavioral"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "2025-09-09",
+"direction": "in",
+"edgeLabel": "Stated the compartmentation trap in a public hearing",
+"id": "nancy-mace",
+"l0": false,
+"label": "Nancy Ruth Mace",
+"note": "'only certain people know the name of the program, and if you do not know it, you cannot get the information.' This is the operational definition of an unacknowledged program from the oversight side.",
+"sources": [
+{
+"date": "2025-09-09",
+"name": "CHRG-119hhrg61718, 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm"
+}
+],
+"tier": "A",
+"type": "legislative"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "1988",
+"direction": "in",
+"edgeLabel": "The 10 U.S.C. 119(e) waiver reduces notification to eight members",
+"id": "oversight-congress",
+"l0": true,
+"label": "Congressional oversight of special access programs",
+"note": "Where the Secretary waives reporting, the statute directs that the information and the justification go 'jointly to the chairman and ranking minority member of each of the defense committees'. This is the lawful mechanism by which a program can be hidden from the rest of Congress.",
+"sources": [
+{
+"date": "2024-01-01",
+"name": "10 U.S.C. 119, Special access programs: congressional oversight",
+"url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim"
+}
+],
+"tier": "B",
+"type": "legislative"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "the twelve members with statutory sight of a waived programme",
+"id": "waived-sap-notification-group",
+"l0": true,
+"label": "Waived SAP Notification Group",
+"note": "Entitlement is bounded by characterisation: section 119 reaches only activity the Department treats as a DoD special access program. Activity held outside that characterisation is outside the group's statutory sight line entirely.",
+"sources": [
+{
+"date": "2026-08-22",
+"name": "10 U.S.C. 119, Special Access Programs: congressional oversight — subsections (e)(2) and (g) (OLRC prelim text, read 22 August 2026)",
+"url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim"
+},
+{
+"date": "2026-05-18",
+"name": "Archived: DoD Directive 5205.07, Special Access Program (SAP) Policy (Wayback 2026-05-18)",
+"url": "https://web.archive.org/web/20260518065512/https://www.esd.whs.mil/portals/54/documents/dd/issuances/dodd/520507p.pdf"
+}
+],
+"tier": "A",
+"type": "programmatic"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "1988",
+"deg": 11,
+"denials": [
+{
+"by": {
+"id": "james-clapper",
+"label": "James R. Clapper Jr."
+},
+"claimTier": 1,
+"denialKind": "directed",
+"label": "USD(I) recommendation against SAP status for the AAWSAP effort, November 2009",
+"note": "Clapper as Under Secretary of Defense for Intelligence recommended against establishing a special access program in response to Senator Reid's June 2009 request. The refusal is the documented instance of the SAP decision being made against, not for, concealment.",
+"of": {
+"id": "waived-usap",
+"label": "Waived unacknowledged special access program (waived USAP)"
+},
+"sources": [
+{
+"date": "2024-01-01",
+"name": "10 U.S.C. 119, Special access programs: congressional oversight",
+"url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim"
+}
+]
+}
+],
+"desc": "A waived unacknowledged special access program is the most protected category of activity the United States government operates. Special access programs are activities requiring protection beyond that ordinarily required for information at the same classification level, imposing need-to-know controls, access rosters and separate security architecture; DoD Directive 5205.07 governs them. An unacknowledged SAP is one whose existence is not acknowledged - the response to an inquiry is neither confirmation nor denial. A waived SAP is one for which the Secretary of Defense has exercised the waiver at 10 U.S.C. 119(e), under which the annual report and the justification for the waiver go 'jointly to the chairman and ranking minority member of each of the defense committees' instead of to the committees as a whole. Combine the two and the result is an activity whose existence is denied to the public, denied to most of Congress, and known in the legislative branch to eight people. Every serious allegation on this board reduces to a claim about this category: David Grusch's testimony that a multi-decade materials recovery and exploitation effort exists and is unreported; the 2009 Reid request that AAWSAP be granted restricted SAP status, which USD(I) James Clapper opposed; the 2011 DHS attempt to stand up KONA BLUE as a prospective SAP; and the FY2024 NDAA section 1687 limitation on the use of funds for UAP-related programs not reported to the congressional defense committees, which is Congress legislating directly against the possibility that this category has been abused.",
+"domains": [
+"_rs-archive-mirror",
+"w2-agencies"
+],
+"dossier": {
+"claims": [
+{
+"source": "Center for Development of Security Excellence (CDSE), Student Guide, Course SA001 'Special Access Program (SAP) Overview,' lesson 'SAP Lifecycle and Structure'; https://www.cdse.edu/Portals/124/Documents/student-guides/SA001-guide.pdf",
+"text": "Department of Defense training doctrine defines the category: 'Under extremely limited circumstances, unacknowledged SAPs may also be waived. Waived SAPs are unacknowledged SAPs for which the Secretary of Defense has waived applicable reporting requirements under Section 119, Title 10 U.S. Code. Waived SAPs have more restrictive reporting requirements and access controls.'",
+"tier": 1
+},
+{
+"source": "https://uscode.house.gov/view.xhtml?req=granuleid%3AUSC-prelim-title10-section119&num=0&edition=prelim (text in effect August 13, 2026)",
+"text": "10 U.S.C. 119(e)(1): 'The Secretary of Defense may waive any requirement under subsection (a), (b), or (c) that certain information be included in a report under that subsection if the Secretary determines that inclusion of that information in the report would adversely affect the national security. Any such waiver shall be made on a case-by-case basis.'",
+"tier": 1
+},
+{
+"source": "https://uscode.house.gov/view.xhtml?req=granuleid%3AUSC-prelim-title10-section119&num=0&edition=prelim",
+"text": "10 U.S.C. 119(e)(2) requires that when the waiver authority is exercised, the withheld information and the justification for the waiver be provided 'jointly to the chairman and ranking minority member of each of the defense committees.'",
+"tier": 1
+},
+{
+"source": "https://uscode.house.gov/view.xhtml?req=granuleid%3AUSC-prelim-title10-section119&num=0&edition=prelim",
+"text": "10 U.S.C. 119(g) defines 'defense committees' as the Committee on Armed Services, the Committee on Appropriations, and the Defense Subcommittee of the Committee on Appropriations of the Senate, and the same three bodies of the House of Representatives.",
+"tier": 1
+},
+{
+"source": "Steven Aftergood, 'Spotlight on DoD Special Access Programs,' Federation of American Scientists, February 7, 2013; https://fas.org/publication/dod_saps/",
+"text": "Waived SAPs 'are exempted by statute (10 USC 119e) from normal congressional notification requirements. In such cases, only eight senior members of the congressional defense committees may be advised of the program.'",
+"tier": 2
+},
+{
+"source": "https://uscode.house.gov/view.xhtml?req=granuleid%3AUSC-prelim-title10-section119&num=0&edition=prelim",
+"text": "10 U.S.C. 119(f) provides that a special access program may not be initiated until the defense committees are notified of the program and a period of 30 days elapses after such notification is received; this subsection was added by Public Law 101-510, section 1482(a)(2), November 5, 1990.",
+"tier": 1
+},
+{
+"source": "https://uscode.house.gov/view.xhtml?req=granuleid%3AUSC-prelim-title10-section119&num=0&edition=prelim (source credit and 'Initial Reports on Special Access Programs' note)",
+"text": "Section 119 was enacted by Public Law 100-180, division A, title XI, section 1132(a)(1), December 4, 1987, 101 Stat. 1151, and the first report was required to set out SAP budget requests and appropriations for each of the five preceding fiscal years and to cover all then-existing special access programs.",
+"tier": 1
+},
+{
+"source": "https://uscode.house.gov/view.xhtml?req=granuleid%3AUSC-prelim-title10-section119&num=0&edition=prelim ('Termination of Reporting Requirements' note)",
+"text": "The annual reporting requirements in subsections (a) and (b) of 10 U.S.C. 119 were terminated effective December 31, 2021 by section 1061 of Public Law 114-328.",
+"tier": 1
+},
+{
+"source": "https://www.esd.whs.mil/portals/54/documents/dd/issuances/dodd/520507p.pdf",
+"text": "DoD Directive 5205.07, 'Special Access Program Policy,' effective September 12, 2024, was approved by Deputy Secretary of Defense Kathleen H. Hicks; it reissues and cancels the July 1, 2010 directive and incorporates and cancels the Deputy Secretary of Defense Memorandum 'Implementation Guidance for DoD Special Access Program Enterprise Reform,' July 11, 2023.",
+"tier": 1
+},
+{
+"source": "https://www.esd.whs.mil/portals/54/documents/dd/issuances/dodd/520507p.pdf (Glossary, G.2 Definitions)",
+"text": "The September 12, 2024 DoDD 5205.07 glossary contains no definition of 'waived SAP', 'unacknowledged SAP' or 'acknowledged SAP'; it instead defines a new taxonomy of 'Joint Force Integration SAP' and 'Strategic Enabler SAP', the latter being a SAP protecting capabilities or information that 'warrant more limited and restrictive sharing than Joint Force Integration SAPs.'",
+"tier": 1
+},
+{
+"source": "https://www.esd.whs.mil/portals/54/documents/dd/issuances/dodd/520507p.pdf",
+"text": "DoDD 5205.07 paragraph 3.1.g states: 'No DoD contractor entity, contractor employee, contractor representative, or consultant will provide SAP material to any members of Congress or their staff without Director, DoD SAPCO approval', and requires all personnel accessed to DoD SAPs to notify the Director, DoD SAPCO when briefing or providing SAP material to any member of Congress or their staff.",
+"tier": 1
+},
+{
+"source": "https://www.esd.whs.mil/portals/54/documents/dd/issuances/dodd/520507p.pdf (paragraphs 2.1.b and 2.1.e)",
+"text": "The Director of the DoD SAP Central Office reports directly to the Deputy Secretary of Defense, is delegated TOP SECRET original classification authority for all DoD SAP information, publishes and maintains security classification guides for all DoD SAP umbrellas, accredits congressional SAP facilities, and 'Maintains records of DoD SAP information provided to Congress.'",
+"tier": 1
+},
+{
+"source": "CDSE Student Guide, Course SA001 'Special Access Program (SAP) Overview'; https://www.cdse.edu/Portals/124/Documents/student-guides/SA001-guide.pdf",
+"text": "Approximately 75 to 80 percent of all DoD SAPs are acquisition SAPs, established to protect sensitive research, development, testing and evaluation, modification and procurement activities; SAPs are referred to by both protection level and category, producing combinations such as 'unacknowledged waived operations and support SAPs'.",
+"tier": 1
+},
+{
+"source": "https://uscode.house.gov/view.xhtml?req=%28title%3A50+section%3A3373+edition%3Aprelim%29 (statutory note to 50 U.S.C. 3373)",
+"text": "Section 1687(b) of the FY2024 NDAA, Public Law 118-31 (137 Stat. 621), bars UAP-related independent research and development funding from being allowable as an indirect expense on contracts covered by DoD Instruction 3204.01 unless the material is made available to the congressional defense committees, the House Permanent Select Committee on Intelligence, the Senate Select Committee on Intelligence, and the four congressional leaders.",
+"tier": 1
+},
+{
+"source": "10 U.S.C. 119(g), OLRC prelim text, read 22 August 2026, https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim",
+"text": "The 'eight senior members' figure in the quotation above is wrong against the statute, and the quotation is retained verbatim because it is what the source says. 10 U.S.C. 119(g) defines 'defense committees' for this section as SIX bodies, not four: the Armed Services Committee, the Appropriations Committee AND the Defense Subcommittee of Appropriations, in each chamber. Chairman plus ranking minority member of six bodies is twelve. The narrower four-body, eight-seat figure comes from 10 U.S.C. 101(a)(16), which defines the different term 'congressional defense committees' and which section 119 does not use. Statutory text read directly from the OLRC on 22 August 2026.",
+"tier": 1
+}
+],
+"connections": [
+"10 U.S.C. 119(g) makes the Senate Armed Services Committee and House Armed Services Committee two of the six bodies whose chair and ranking member constitute the twelve-member notification group, alongside both Appropriations Committees",
+"DoD SAPCO, reporting to the Deputy Secretary of Defense, is the office that must approve any contractor disclosure of SAP material to Congress, making it the gatekeeper against exactly the whistleblower route Congress has been soliciting",
+"Rear Admiral Tim Gallaudet's account, entered into the House record by Ryan Graves, presumes a classified special access program caused the 2015 deletion of a UAP safety-of-flight email from Navy systems",
+"Rep. Eric Burlison's May 2026 MITRE interrogatories specifically demand information on Special Access Programs, Controlled Access Programs and Alternative Compensatory Control Measures held by an FFRDC",
+"FY2024 NDAA section 1687(b) attacks the same concealment through contractor IR&D accounting rather than through classification",
+"50 U.S.C. 3373(j)(1)(B)(ii)(I) requires AARO's historical record report to itemize 'any program or activity that was protected by restricted access that has not been explicitly and clearly reported to Congress', which is a statutory description of a waived SAP",
+"Section 1061 of Public Law 114-328 sunset the annual SAP reports to Congress effective December 31, 2021, the same window in which the UAP reporting statutes were being written",
+"NARA's UAP records metadata schema requires a Special Controls field populated with SAP, SCI, RD/FRD or FGI markings, meaning the Archives is already structured to receive SAP-controlled UAP material"
+],
+"denialPosture": "There is no denial to catalogue, because the Department has never publicly acknowledged any individual waived SAP; acknowledging one would defeat the category. What is on the record instead is a quieter act: the September 12, 2024 reissuance of DoD Directive 5205.07 removed the acknowledged, unacknowledged and waived taxonomy from the public policy document entirely, while DoD's own unclassified training material continues to teach it. The public governing directive no longer names the category by which programs are lawfully hidden from Congress.",
+"narrative": "The architecture has four layers, and each one narrows the audience.\n\nLayer one is the baseline reporting duty. 10 U.S.C. 119, added by Public Law 100-180 section 1132(a)(1) on December 4, 1987, required the Secretary of Defense to submit to the defense committees an annual report on special access programs by March 1 of each year, setting out the total amount requested for SAPs in the President's budget and, for each SAP, a brief description, its major milestones, its actual cost for each prior fiscal year, and its estimated total cost across the current year, the budget year and four succeeding years. Subsection (b) required a separate annual report by February 1 giving notice and justification for each new SAP designation, with the current total program cost estimate and an identification of existing programs or technologies similar in technology or mission to the one being hidden. Subsection (f), added by Public Law 101-510 section 1482(a)(2) in November 1990, added the hard gate: a special access program may not be initiated until the defense committees are notified and thirty days elapse.\n\nLayer two is the waiver. Subsection (e)(1) provides that the Secretary of Defense may waive any requirement under subsection (a), (b), or (c) that certain information be included in a report under that subsection if the Secretary determines that inclusion of that information in the report would adversely affect the national security, with each waiver made on a case-by-case basis. Subsection (e)(2) then routes the withheld information and the justification jointly to the chairman and ranking minority member of each of the defense committees. Steven Aftergood of the Federation of American Scientists put the practical result plainly: waived SAPs are exempted by statute (10 USC 119e) from normal congressional notification requirements, and in such cases only eight senior members of the congressional defense committees may be advised of the program.\n\nLayer three is DoD policy, which is more restrictive than the statute. Under the pre-2024 SAP policy framework, only the chair, the ranking minority member and the staff directors of the defense and intelligence committees are authorized access to waived DoD SAPs within their committee's oversight role, absent approval by the Secretary or Deputy Secretary. The currently effective directive, DoD Directive 5205.07, reissued September 12, 2024 and approved by Deputy Secretary of Defense Kathleen H. Hicks, adds a provision that is the operational choke point for whistleblowers: no DoD contractor entity, contractor employee, contractor representative, or consultant will provide SAP material to any members of Congress or their staff without Director, DoD SAPCO approval. The people most likely to hold the evidence are contractors, and the directive forbids them from handing it to Congress without permission from the office that runs the SAP system.\n\nLayer four is the quiet erosion of the reporting baseline itself. The U.S. Code note under section 119 records that for termination, effective December 31, 2021, of the provisions in subsections (a) and (b) requiring submittal of an annual report to Congress, see section 1061 of Public Law 114-328. The annual SAP report and the annual new-SAP notification report, the two instruments the 1987 Congress built, were sunset by a general reporting-requirement cull. And the September 12, 2024 reissuance of DoDD 5205.07 does not define waived SAP anywhere in its glossary. It defines SAP, SAP architecture, SAP umbrella, SAP compartment, SAP sub-compartment, Joint Force Integration SAP and Strategic Enabler SAP. The acknowledged, unacknowledged and waived taxonomy that appears in DoD's own training material has been replaced in the public directive by a vocabulary that does not distinguish between programs Congress is told about and programs it is not. Whether that is reform or relabeling, the public governing document no longer names the category.\n\nThe rest of the directive maps the custody chain. All DoD SAPs are assigned to an oversight authority drawn from USD(R&E), USD(A&S), USD(P), USD(I&S) and the Director of the DoD SAP Central Office. The Director of DoD SAPCO reports directly to the Deputy Secretary of Defense, holds delegated Top Secret original classification authority for all DoD SAP information, publishes and maintains the security classification guides for every SAP umbrella, accredits congressional SAP facilities, and maintains records of DoD SAP information provided to Congress. Establishment of new SAP umbrellas and compartments is by exception and requires Secretary or Deputy Secretary approval. The senior governing body, the SAP Oversight Committee, is chaired by the Deputy Secretary of Defense. Approximately 75 to 80 per cent of all DoD SAPs are acquisition SAPs, which is the category that would cover a materials exploitation or reverse-engineering effort.\n\nCongress has attacked the funding side rather than the classification side. FY2024 NDAA section 1687(b) makes independent research and development funding relating to unidentified anomalous phenomena unallowable as an indirect expense on covered contracts unless the material and information is made available to the congressional defense committees, both intelligence committees, and the majority and minority leaders of the Senate and the Speaker and minority leader of the House. That is an admission on the face of the statute that Congress believed UAP work was being charged to the taxpayer through contractor overhead and reported to no one. It is also a route around the waiver, because IR&D allowability is an accounting question, not a classification question.",
+"openQuestions": [
+"How many waived SAPs currently exist, and has that number ever been disclosed even to the twelve?",
+"Whether the September 12, 2024 removal of the waived-SAP taxonomy from DoDD 5205.07 reflects abolition of the category, its migration into 'Strategic Enabler SAP', or only a change in what the public document says",
+"What replaced the annual section 119(a) and (b) reports after their December 31, 2021 termination, and whether anything replaced them at all",
+"Whether any of the twelve members has ever been briefed on a UAP-related waived SAP, and whether the statute permits them to confirm or deny that",
+"How Alternative Compensatory Control Measures, which sit below SAP thresholds and carry lighter reporting, are being used for UAP-adjacent activity",
+"Whether the Director, DoD SAPCO's mandated records of DoD SAP information provided to Congress are themselves discoverable, and whether they show any UAP-related entries",
+"How Department of Energy Restricted Data and Formerly Restricted Data authorities interact with, or supersede, the 10 U.S.C. 119 framework for recovered material"
+],
+"roles": [
+"concealment",
+"funding",
+"oversight"
+],
+"whatItIs": "A waived unacknowledged special access program is the most tightly held category in the Department of Defense classification system. Department of Defense training doctrine defines it in one sentence: 'Waived SAPs are unacknowledged SAPs for which the Secretary of Defense has waived applicable reporting requirements under Section 119, Title 10 U.S. Code.' The waiver authority is 10 U.S.C. 119(e), under which the Secretary may withhold specified information from the statutory reports to Congress if he determines that including it would adversely affect national security, and must then provide the information and the justification for the waiver only to the chairman and ranking minority member of each of the defense committees.",
+"whyImplicated": "This is the mechanism. If a legacy recovery and reverse-engineering program exists and has been concealed from Congress, waived SAP status is the lawful instrument by which that concealment is accomplished, and no unlawful act is required to sustain it. The statute permits an entire program's existence, cost, milestones and technology to disappear from the reports Congress wrote to keep itself informed, on the unilateral written determination of a single official. The population read in on the legislative side collapses to twelve members and, per DoD policy, their staff directors. Everyone else in Congress, including every member of both intelligence committees who is not chair or ranking, can hold a Top Secret clearance and still be told nothing exists. The system is designed to produce truthful denials from officials who genuinely do not know, which is the precise pathology alleged across every UAP whistleblower account since 2017."
+},
+"entityInfo": {
+"desc": "Terms of art, precisely. A special access program imposes protection beyond that required for information at the same classification level - access rosters, separate billets, dedicated security architecture. An ACKNOWLEDGED SAP appears in the budget by name with a classified purpose. An UNACKNOWLEDGED SAP is one whose existence is not confirmed; the correct response to an inquiry is neither confirmation nor denial. A WAIVED unacknowledged SAP adds the 10 U.S.C. 119(e) waiver, which removes the program from the report to the defense committees and substitutes notification to the chairman and ranking member of each. Every substantive allegation on this board resolves into one of exactly two propositions: that a materials acquisition and exploitation activity exists as a waived USAP known to eight members of Congress, or that it exists outside the SAP system entirely and is therefore unlawful. The first is testable by demanding the waived-SAP list. The second is testable by an ISOO NISP audit of cleared facilities. Neither test has been run.",
+"sources": []
+},
+"era": "1",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "waived-usap",
+"l0": true,
+"label": "Waived unacknowledged special access program (waived USAP)",
+"locLabel": null,
+"members": [
+{
+"cls": "domain",
+"id": "d-funding",
+"label": "Funding Channels",
+"tier": "A"
+},
+{
+"cls": "institution",
+"id": "darpa",
+"label": "Defense Advanced Research Projects Agency",
+"tier": "C"
+},
+{
+"cls": "event",
+"id": "dod-sap-reform-1994",
+"label": "DoD special access programme governance change, 5 January 1994",
+"tier": "B"
+},
+{
+"cls": "person",
+"id": "james-clapper",
+"label": "James R. Clapper Jr.",
+"tier": "B"
+},
+{
+"cls": "person",
+"id": "james-jesus-angleton",
+"label": "James Jesus Angleton",
+"tier": "B"
+},
+{
+"cls": "person",
+"id": "nancy-mace",
+"label": "Nancy Ruth Mace",
+"tier": "A"
+}
+],
+"short": "Waived unacknowledged SAP",
+"sources": [
+{
+"date": "2026-05-18",
+"name": "Archived: DoD Directive 5205.07, Special Access Program (SAP) Policy (Wayback 2026-05-18)",
+"url": "https://web.archive.org/web/20260518065512/https://www.esd.whs.mil/portals/54/documents/dd/issuances/dodd/520507p.pdf"
+},
+{
+"date": "2026-07-05",
+"name": "Archived: AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I (DOPSR-2024-0263) (Wayback 2026-07-05)",
+"url": "https://web.archive.org/web/20260705034310/https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF"
+},
+{
+"date": "2026-05-08",
+"name": "Archived: AARO/DHS, 'History and Origin of KONA BLUE' (Wayback 2026-05-08)",
+"url": "https://web.archive.org/web/20260508180256/https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/History_and_Origin_of_KONA_BLUE_FINAL_508.pdf"
+},
+{
+"date": "2024-01-01",
+"name": "10 U.S.C. 119, Special access programs: congressional oversight",
+"url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim"
+},
+{
+"date": "2024-09-12",
+"name": "DoD Directive 5205.07, Special Access Program (SAP) Policy",
+"url": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf"
+},
+{
+"date": "2024-03-08",
+"name": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I (DOPSR-2024-0263)",
+"url": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF"
+},
+{
+"date": "2024-06-01",
+"name": "AARO/DHS, 'History and Origin of KONA BLUE'",
+"url": "https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/History_and_Origin_of_KONA_BLUE_FINAL_508.pdf"
+}
+],
+"sub": "The specific legal category at the centre of every allegation on this board",
+"tier": "A",
+"tierRationale": "Re-graded A on a global pass (rank 92 of 1027, score 65). 12 connections, 5 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C3/A3/D3.",
+"timeline": [
+{
+"date": "2009-11-17",
+"id": "ag-tl-2009-clapper",
+"label": "USD(I) recommends against SAP status",
+"precision": "day",
+"strand": "coverup",
+"text": "James Clapper's recommendation closes out Senator Reid's June 2009 request for restricted special access program status for the DIA advanced aerospace effort. The one documented SAP decision in the modern record goes against concealment.",
+"tier": "A"
+}
+]
+}

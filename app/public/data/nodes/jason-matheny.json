@@ -1,0 +1,129 @@
+{
+"A": 3,
+"C": 0,
+"D": 0,
+"affiliations": [
+"Intelligence Advanced Research Projects Activity, Director (2015-2018)",
+"Center for Security and Emerging Technology, Georgetown (founding director, 2019-2021)",
+"White House OSTP, Deputy Director; Deputy Assistant to the President (2021-2022)",
+"RAND Corporation, President and CEO (2022-present)"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "2015-01-01",
+"event": "Becomes Director of IARPA",
+"precision": "year"
+},
+{
+"date": "2021-01-01",
+"event": "Joins the White House as Deputy Assistant to the President for Technology and National Security and OSTP Deputy Director",
+"precision": "year"
+},
+{
+"date": "2022-07-01",
+"event": "Becomes President and CEO of RAND",
+"precision": "month"
+},
+{
+"date": "2026-06-25",
+"event": "Burlison publicly names RAND among the contractors his investigation is following",
+"precision": "day"
+}
+],
+"claims": [
+{
+"source": "RAND Corporation profile page",
+"text": "Matheny is president and CEO of RAND; his prior posts include Director of IARPA and Deputy Assistant to the President for Technology and National Security with the Office of Science and Technology Policy.",
+"tier": 1
+},
+{
+"source": "RAND publication pages for DRU-1571 and RRA2475-1",
+"text": "RAND published George Kocher's 'UFOs: What To Do?' as draft DRU-1571 in November 1968, and cited it again in its own 2023 report RRA2475-1 on public UAP reports.",
+"tier": 1
+},
+{
+"source": "Rep. Eric Burlison, quoted by Cybernews, 25 June 2026, and NewsNation, 15 May 2026",
+"text": "Burlison has stated that his investigation is 'following the trail into RAND, MITRE, Aerospace Corp, MIT Lincoln Labs, and the Northrop Grummans of the world.'",
+"tier": 2
+}
+],
+"cls": "person",
+"cluster": "ffrdc",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2022",
+"direction": "out",
+"edgeLabel": "President and CEO, arriving from IARPA and the White House OSTP",
+"id": "rand-corporation",
+"l0": true,
+"label": "RAND Corporation",
+"note": "Another instance of the pattern: the person setting a nominally independent FFRDC operator's research agenda previously ran the Intelligence Community's research arm.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "RAND - Jason Matheny profile",
+"url": "https://www.rand.org/about/people/m/matheny_jason.html"
+}
+],
+"tier": "A",
+"type": "institutional"
+}
+],
+"date": "2026-08-12",
+"dateEnd": null,
+"dateStart": "2026-08-12",
+"deg": 1,
+"denials": [],
+"domains": [
+"ffrdcs"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "jason-matheny",
+"instId": "rand-corporation",
+"l0": false,
+"label": "Jason Matheny",
+"loc": "Santa Monica, CA",
+"locId": "l-santa-monica",
+"members": null,
+"narrative": "Matheny runs the corporation that invented the modern defence think tank and that still operates four FFRDCs - Project AIR FORCE for the Air Force, the Arroyo Center for the Army, the National Defense Research Institute for the Under Secretary of Defense for Acquisition and Sustainment, and the Homeland Security Operational Analysis Center for DHS. He came to it from the White House, where he was Deputy Assistant to the President for Technology and National Security and Deputy Director of the Office of Science and Technology Policy, and before that he directed the Intelligence Advanced Research Projects Activity, the Intelligence Community's own high-risk research arm. RAND's UFO record is longer than most people realise and is entirely public: George Kocher's November 1968 draft DRU-1571, 'UFOs: What To Do?', which examined UFO brightness, size and manoeuvres and recommended a course of action to the Air Force; and, more recently, RAND's 2023 research report RRA2475-1 mapping public UAP reports across the United States, which cites Kocher's 1968 draft directly. Burlison has named RAND explicitly as a target of his contractor investigation. Matheny's own trajectory - IARPA to OSTP to RAND - is another instance of the same revolving door: the person who decides what a nominally independent FFRDC publishes about anomalous phenomena previously ran the Intelligence Community's research portfolio.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Jason Matheny",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "RAND Corporation - Jason Matheny profile",
+"url": "https://www.rand.org/about/people/m/matheny_jason.html"
+},
+{
+"date": "1968-11-01",
+"name": "RAND - UFOs: What To Do? (Kocher, DRU-1571, 1968)",
+"url": "https://www.rand.org/pubs/drafts/DRU1571.html"
+},
+{
+"date": "2026-06-25",
+"name": "Cybernews - 'This is what happens when you stop asking politely': Burlison",
+"url": "https://cybernews.com/news/burlison-ufo-uap-project-blue/"
+}
+],
+"status": "active",
+"sub": "President and CEO, RAND Corporation; former Director, IARPA; former Deputy Assistant to the President for Technology and National Security and Deputy Director, OSTP",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 799 of 1027, score 18). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A3/D0.",
+"timeline": [],
+"unexplainedResidual": null,
+"unverified": []
+}

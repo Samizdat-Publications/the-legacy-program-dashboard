@@ -1,0 +1,107 @@
+{
+"A": 2,
+"C": 0,
+"D": 2,
+"band": null,
+"claims": [
+{
+"source": "Office of the Chief Science Advisor of Canada, Sky Canada Project report, June 2025",
+"text": "'The committee held six meetings from 1952 to 1954 and concluded that UFOs neither posed a security threat, nor were of scientific interest. It recommended ending all investigations by the Canadian military.'",
+"tier": 1
+},
+{
+"source": "Sky Canada Project report, June 2025",
+"text": "'The Committee was chaired by the National Research Council of Canada (NRC) astronomer Dr. Peter Millman; it included members from various arms of the Canadian military intelligence and other government agencies. The committee did not investigate UFO sightings, but it developed a standardized form.'",
+"tier": 1
+},
+{
+"source": "Library and Archives Canada, 'Canada's UFOs' exhibition, 1952 Project Second Story document page",
+"text": "LAC archival citation for Project Second Story minutes: 'RG 24, acc. 83-84/167, box 7523, file DRBS 3800-10-1, pt. 1'.",
+"tier": 1
+},
+{
+"source": "Library and Archives Canada exhibition, Project Magnet / Second Story page",
+"text": "Smith explained that most UFO sightings fit into two general types: 'those about which we know something, and those which we know very little.'",
+"tier": 1
+}
+],
+"cls": "program",
+"cluster": "ic",
+"connections": [
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "1954",
+"dateStart": "1952",
+"direction": "in",
+"edgeLabel": "appointed to the Defence Research Board committee in 1952",
+"id": "wilbert-smith",
+"l0": false,
+"label": "Wilbert Brockhouse Smith",
+"note": "Smith reported Project Magnet's findings to Second Storey, chaired by NRC astronomer Peter Millman.",
+"sources": [
+{
+"date": "2025-06-01",
+"name": "Sky Canada Project report",
+"url": "https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada"
+}
+],
+"tier": "B",
+"type": "institutional"
+}
+],
+"coords": null,
+"dateEnd": "1954",
+"dateStart": "1952-04",
+"deg": 1,
+"denials": [],
+"desc": "Project Second Storey was established in April 1952 by the Defence Research Board, then Canada's military science agency within the Department of National Defence, to examine flying saucer occurrences over Canadian territory as reported by the armed services. It was chaired by the National Research Council astronomer Dr Peter Millman and drew members from Canadian military intelligence and other government agencies, including Wilbert Smith, who reported Project Magnet's findings to it. Its output was procedural rather than investigative: it built a standardised sighting report form and an interrogator's instruction guide with a weighting system intended to minimise the 'personal equation' - an early attempt at scoring witness reliability that anticipates GEIPAN's consistency-and-strangeness scheme by half a century. The form was never broadly adopted. The committee met six times between 1952 and 1954 and concluded that UFOs 'neither posed a security threat, nor were of scientific interest', recommending the end of all investigations by the Canadian military. Its records are held at Library and Archives Canada under RG 24, acc. 83-84/167, box 7523, file DRBS 3800-10-1, pt. 1.",
+"domains": [
+"w2-international"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "project-second-storey",
+"l0": false,
+"label": "Project Second Storey (Canada)",
+"locLabel": null,
+"members": null,
+"short": "Project Second Storey (Canada)",
+"sources": [
+{
+"date": "2025-06-01",
+"name": "Sky Canada Project report",
+"url": "https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada"
+},
+{
+"date": "2005-08-11",
+"name": "LAC - Project Second Story minutes document page",
+"url": "https://web.archive.org/web/2006/http://www.collectionscanada.ca/ufo/002029-1801-e.html"
+},
+{
+"date": "2005-08-11",
+"name": "LAC - Project Magnet / Second Story narrative",
+"url": "https://web.archive.org/web/2006/http://www.collectionscanada.ca/ufo/002029-1400.01-e.html"
+}
+],
+"sub": "Canadian Defence Research Board committee on flying saucer reports, 1952-1954",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 685 of 1027, score 23). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A2/D2.",
+"timeline": [
+{
+"date": "1952-04",
+"id": "tl-intl-1952-second-storey",
+"label": "Project Second Storey established",
+"precision": "month",
+"strand": "program",
+"text": "The Defence Research Board establishes a committee under NRC astronomer Peter Millman. It builds a standardised report form with a weighting factor to minimise the 'personal equation', meets six times, concludes UFOs are neither a security threat nor of scientific interest, and recommends ending all Canadian military investigation.",
+"tier": 1
+}
+]
+}

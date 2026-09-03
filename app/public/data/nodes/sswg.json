@@ -1,0 +1,114 @@
+{
+"A": 3,
+"C": 2,
+"D": 1,
+"band": null,
+"claims": [
+{
+"source": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf",
+"text": "DoDD 5205.07 (2024) designates the Director, DoD SAPCO as Chair of the SSWG (while also serving as Executive Secretary of the SAPOC and SRG).",
+"tier": 1
+},
+{
+"source": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf",
+"text": "DoDI 5205.11 para 4.1.a.(2) sets the front-end clock for a new program: 'Within 45 calendar days of creation of the SAP project, the CA will submit' the required governance documentation.",
+"tier": 1
+},
+{
+"source": "DoDI 5205.11, Enclosure 3, para 4",
+"text": "DoDI 5205.11 Enclosure 3 para 4: 'The SSWG serves as the senior program protection forum to coordinate, deconflict, and integrate special programs; address SAP policy, oversight, and management; and provide recommendations to the SRG.'",
+"tier": 1
+},
+{
+"source": "DoDI 5205.11, Enclosure 3, para 4.a",
+"text": "DoDI 5205.11 Enclosure 3 para 4.a: SSWG membership is the Director, DoD SAPCO as Chair, plus the SAPCO Directors of USD(I), USD(P), USD(AT&L), Army, Air Force, Navy, Marine Corps, the Joint Staff, the Defense Advanced Research Projects Agency and the Missile Defense Agency, and representatives of DCAPE, DoD CIO, USD(C)/CFO and GC DoD.",
+"tier": 1
+},
+{
+"source": "DoDI 5205.11, Appendix 1 to Enclosure 6",
+"text": "DoDI 5205.11 PSAP timeline: 'NLT P+14 - SSWG reviews PSAP - Programmatic deconfliction - Validation - Written recommendation.'",
+"tier": 1
+}
+],
+"cls": "institution",
+"cluster": "other",
+"connections": [
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": "2013-02-06",
+"direction": "in",
+"edgeLabel": "Chairs the deconfliction forum at the DoD SAPCO director level",
+"id": "dodi-5205-11",
+"l0": true,
+"label": "DoDI 5205.11 — Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)",
+"note": "DoDI 5205.11 Enclosure 3 para 4.a makes the Director, DoD SAPCO the SSWG Chair, with SAPCO directors from USD(I), USD(P), USD(AT&L), the services, the Joint Staff, DARPA and MDA.",
+"sources": [
+{
+"date": "2018-08-31",
+"name": "DoD Instruction 5205.11, 6 February 2013, Change 1 31 August 2018",
+"url": "https://web.archive.org/web/20190916023050/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf"
+}
+],
+"tier": "A",
+"type": "institutional"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "2010-07-01",
+"deg": 1,
+"denials": [],
+"desc": "The SSWG is the lowest of the three governance tiers and the one that sees a prospective program first: under the PSAP timeline, the SSWG reviews a prospective SAP no later than fourteen days after its establishment, performing programmatic deconfliction and validation and producing a written recommendation. It 'serves as the senior program protection forum to coordinate, deconflict, and integrate special programs; address SAP policy, oversight, and management; and provide recommendations to the SRG'. It is chaired by the Director of DoD SAPCO, with members the SAPCO Directors of USD(I), USD(P), USD(AT&L), the Army, Air Force, Navy, Marine Corps, the Joint Staff, DARPA and the Missile Defense Agency, plus representatives of DCAPE, the DoD CIO, the Comptroller and the General Counsel. The presence of DARPA and MDA SAPCO directors on the deconfliction forum is worth noting for the board: those are two of the organisations most frequently named in retrieval and exploitation allegations, and their SAP control offices sit at the table where every new program is deconflicted against every existing one.",
+"domains": [
+"_rs-archive-mirror",
+"_rs-sap-docs",
+"w2-sap-architecture"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "2",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "sswg",
+"l0": false,
+"label": "SAP Senior Working Group (SSWG)",
+"locLabel": null,
+"members": null,
+"short": "SAP Senior Working Group (SSWG)",
+"sources": [
+{
+"date": "2026-05-18",
+"name": "Archived: DoDD 5205.07 (12 Sep 2024) (Wayback 2026-05-18)",
+"url": "https://web.archive.org/web/20260518065512/https://www.esd.whs.mil/portals/54/documents/dd/issuances/dodd/520507p.pdf"
+},
+{
+"date": "2025-08-09",
+"name": "Archived: DoDI 5205.11 (12 Sep 2024) (Wayback 2025-08-09)",
+"url": "https://web.archive.org/web/20250809023849/https://www.esd.whs.mil/portals/54/documents/dd/issuances/dodi/520511p.pdf"
+},
+{
+"date": "2024-09-12",
+"name": "DoDD 5205.07 (12 Sep 2024)",
+"url": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf"
+},
+{
+"date": "2024-09-12",
+"name": "DoDI 5205.11 (12 Sep 2024)",
+"url": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf"
+},
+{
+"date": "2018-08-31",
+"name": "DoD Instruction 5205.11, Management, Administration, and Oversight of DoD Special Access Programs (SAPs), 6 February 2013, incorporating Change 1, 31 August 2018",
+"url": "https://web.archive.org/web/20190916023050/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf"
+}
+],
+"sub": "oversight-body",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 331 of 1027, score 35). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A3/D1.",
+"timeline": []
+}

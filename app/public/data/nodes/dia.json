@@ -1,0 +1,1367 @@
+{
+"A": 3,
+"C": 3,
+"D": 1,
+"band": "reverse-engineering",
+"claims": [
+{
+"source": "DIA solicitation HHM402-08-R-0211",
+"text": "DIA's Virginia Contracting Activity (ZD50) issued solicitation HHM402-08-R-0211 on 18 August 2008 with contracting officer Jennifer Sylvestre and Government Project Leader Dr. James T. Lacatski.",
+"tier": 1
+},
+{
+"source": "DIA memo U-429-09-DWO-IM, 30 October 2009",
+"text": "DIA's 30 October 2009 review memo records that 'all of the reviews were positive, some exceptionally so', with eight reviews by other report authors and five by outside reviewers including three Sandia National Laboratories staff, covering 26 FY09 technical reports.",
+"tier": 1
+},
+{
+"source": "DIA memo U-09-2660CE-IM, 13 November 2009",
+"text": "DIA's 13 November 2009 memorandum found 'insufficient grounds to classify this open program' and that the material is 'not owned by, produced by or for, or under control of the U.S. government'.",
+"tier": 1
+},
+{
+"source": "DIA FOIA-00023-2022 and appeal APP-00031-2022",
+"text": "DIA reported no records located in response to a FOIA request for the 19 June 2007 Lacatski letter to Robert Bigelow described in 'Skinwalkers at the Pentagon'.",
+"tier": 1
+},
+{
+"source": "Jack Brewer, The UFO Trail, March 2022; DIA release FOIA-00349-2018",
+"text": "DIA withheld the AAWSAP contract awarded to BAASS in a 2011 FOIA response and did not release it until October 2022.",
+"tier": 1
+},
+{
+"source": "Inference from comparing the unredacted solicitation to the redacted contract and memoranda releases",
+"text": "DIA's redaction of Lacatski's name under 10 USC 424 in post-award releases, when DIA itself had published that name in the public solicitation, indicates a records posture aimed at breaking the link between the program office and the person rather than protecting genuinely undisclosed information.",
+"tier": 3
+}
+],
+"cls": "institution",
+"cluster": "other",
+"connections": [
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": "2012",
+"dateStart": "2008",
+"direction": "out",
+"edgeLabel": "executive agent for AAWSAP",
+"id": "aawsap",
+"l0": true,
+"label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)",
+"note": "DIA's Defense Warning Office housed the program office and its Virginia Contracting Activity issued the solicitation and award.",
+"sources": [
+{
+"date": "2023-09-01",
+"name": "The Black Vault AAWSAP documentation",
+"url": "https://www.theblackvault.com/documentarchive/the-advanced-aerospace-weapon-system-applications-program-aawsap-documentation/"
+}
+],
+"tier": "A",
+"type": "programmatic"
+},
+{
+"claimTier": 2,
+"cls": "document",
+"dateEnd": "2022",
+"dateStart": "2011",
+"direction": "out",
+"edgeLabel": "withheld the contract for eleven years",
+"id": "aawsap-contract",
+"l0": false,
+"label": "DIA Contract HHM402-08-C-0072 (BAASS)",
+"note": "DIA withheld the BAASS award entirely in a 2011 FOIA response and released it only in October 2022 — a contract that had been competed on a public bid board.",
+"sources": [
+{
+"date": "2022-03-01",
+"name": "The UFO Trail",
+"url": "https://ufotrail.blogspot.com/2022/03/dia-further-verifies-aawsap-award-to.html"
+}
+],
+"tier": "A",
+"type": "denial"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "1977",
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "Vice Director for Plans, Operations and Support of DIA",
+"id": "bobby-ray-inman",
+"l0": false,
+"label": "Adm. Bobby Ray Inman",
+"note": "Vice Director for Plans, Operations and Support of the Defense Intelligence Agency before the NSA directorship, in his own testimony.",
+"sources": [
+{
+"date": "1981-02-03",
+"name": "Nomination of Admiral B.R. Inman to be Deputy Director of Central Intelligence, Senate Select Committee on Intelligence, 3 February 1981",
+"url": "https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-hearings-97inman.pdf"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "2026",
+"direction": "in",
+"edgeLabel": "Accuses DIA of obstructing congressional oversight by withholding documents",
+"id": "david-grusch",
+"l0": false,
+"label": "David Charles Grusch",
+"note": "Made at the 9 June 2026 Capitol press conference. DIA is the agency that housed AAWSAP and the historical thread most directly implicated in the legacy record; the allegation is specific to document production, not to phenomenon.",
+"sources": [
+{
+"date": "2026-06-10",
+"name": "Fox News - UAP whistleblower David Grusch accuses agencies of hiding billions",
+"url": "https://www.foxnews.com/politics/ufo-whistleblower-claims-billions-secret-spending-hidden-from-congress"
+}
+],
+"tier": "A",
+"type": "denial"
+},
+{
+"claimTier": 1,
+"cls": "legislation",
+"dateEnd": "2012",
+"dateStart": "2007",
+"direction": "in",
+"edgeLabel": "$22M appropriated to DIA",
+"id": "defense-appropriations-aawsap",
+"l0": false,
+"label": "Defense Appropriations Acts FY2008 and FY2010 — the $22M AAWSAP appropriation",
+"note": "The appropriation named DIA as the recipient agency to assess long-term and over-the-horizon foreign advanced aerospace threats.",
+"sources": [
+{
+"date": "2024-03-08",
+"name": "AARO Historical Record Report Volume 1",
+"url": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF"
+}
+],
+"tier": "B",
+"type": "funding"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "published and holds; DIA-08-1003-007",
+"id": "dird-advanced-nuclear-propulsion-for-manned-deep",
+"l0": false,
+"label": "Advanced Nuclear Propulsion for Manned Deep Space Missions",
+"note": "DIA commissioned, holds and released this document. It carries a DIA document number in the DIA-08-xxxx-xxx series on its cover and was released through the DIA FOIA Electronic Reading Room, whose FileId entry is cited here alongside the retrievable copy. Cover page read on 22 August 2026.",
+"sources": [
+{
+"date": null,
+"name": "documents2.theblackvault.com",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_11-DIRD_Advanced_Nuclear_Propulsion_for_Manned_Deep_Space_Missions.pdf"
+},
+{
+"date": "2010-03-11",
+"name": "DIA FOIA Reading Room — Advanced Nuclear Propulsion for Manned Deep Space Missions (PDF)",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237657/"
+}
+],
+"tier": "B",
+"type": "custody"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "published and holds; DIA-08-1003-015",
+"id": "dird-advanced-space-propulsion-based-on-vacuum",
+"l0": false,
+"label": "Advanced Space Propulsion Based on Vacuum (Spacetime Metric) Engineering",
+"note": "DIA commissioned, holds and released this document. It carries a DIA document number in the DIA-08-xxxx-xxx series on its cover and was released through the DIA FOIA Electronic Reading Room, whose FileId entry is cited here alongside the retrievable copy. Cover page read on 22 August 2026.",
+"sources": [
+{
+"date": null,
+"name": "documents2.theblackvault.com",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_15-DIRD_Advanced_Space_Propulsion_Based_on_Vacuum_Spacetime_Metric_Engineer.pdf"
+},
+{
+"date": "2010-03-29",
+"name": "DIA FOIA Reading Room — Advanced Space Propulsion Based on Vacuum (Spacetime Metric) Engineering (PDF)",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237647/"
+}
+],
+"tier": "B",
+"type": "custody"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "published and holds; DIA-08-0911-016",
+"id": "dird-aerospace-applications-of-programmable-matter",
+"l0": false,
+"label": "Aerospace Applications of Programmable Matter",
+"note": "DIA commissioned, holds and released this document. It carries a DIA document number in the DIA-08-xxxx-xxx series on its cover and was released through the DIA FOIA Electronic Reading Room, whose FileId entry is cited here alongside the retrievable copy. Cover page read on 22 August 2026.",
+"sources": [
+{
+"date": null,
+"name": "documents2.theblackvault.com",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_02-DIRD_Aerospace_Applications_of_Programmable_Matter.pdf"
+},
+{
+"date": "2009-12-14",
+"name": "DIA FOIA Reading Room — Aerospace Applications of Programmable Matter (PDF)",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237656/"
+}
+],
+"tier": "B",
+"type": "custody"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "published and holds; document number not recoverable",
+"id": "dird-an-introduction-to-the-statistical-drake",
+"l0": false,
+"label": "An Introduction to the Statistical Drake Equation",
+"note": "DIA commissioned, holds and released this document. It carries a DIA document number in the DIA-08-xxxx-xxx series on its cover and was released through the DIA FOIA Electronic Reading Room, whose FileId entry is cited here alongside the retrievable copy. Cover page read on 22 August 2026.",
+"sources": [
+{
+"date": null,
+"name": "documents2.theblackvault.com",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_25-DIRD_An_Introduction_to_the_Statistical_Drake_Equation.pdf"
+},
+{
+"date": "2010-03-11",
+"name": "DIA FOIA Reading Room — An Introduction to the Statistical Drake Equation (PDF)",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237662/"
+}
+],
+"tier": "B",
+"type": "custody"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "published and holds; DIA-08-1011-003",
+"id": "dird-aneutronic-fusion-propulsion",
+"l0": false,
+"label": "Aneutronic Fusion Propulsion (DIA-08-1011-003)",
+"note": "DIA commissioned, holds and released this document. It carries a DIA document number in the DIA-08-xxxx-xxx series on its cover and was released through the DIA FOIA Electronic Reading Room, whose FileId entry is cited here alongside the retrievable copy. Cover page read on 22 August 2026.",
+"sources": [
+{
+"date": null,
+"name": "documents2.theblackvault.com",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_30-DIRD_Aneutronic_Fusion_Propulsion.pdf"
+},
+{
+"date": "2010-11-01",
+"name": "DIA FOIA Reading Room — Aneutronic Fusion Propulsion (PDF)",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237658/"
+}
+],
+"tier": "B",
+"type": "custody"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "published and holds; DIA-08-1011-004",
+"id": "dird-aneutronic-fusion-propulsion-2",
+"l0": false,
+"label": "Aneutronic Fusion Propulsion (DIA-08-1011-004)",
+"note": "DIA commissioned, holds and released this document. It carries a DIA document number in the DIA-08-xxxx-xxx series on its cover and was released through the DIA FOIA Electronic Reading Room, whose FileId entry is cited here alongside the retrievable copy. Cover page read on 22 August 2026.",
+"sources": [
+{
+"date": null,
+"name": "documents2.theblackvault.com",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_37-DIRD_Aneutronic_Fusion_Propulsion_II.pdf"
+},
+{
+"date": "2010-11-01",
+"name": "DIA FOIA Reading Room — Aneutronic Fusion Propulsion (PDF)",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237644/"
+}
+],
+"tier": "B",
+"type": "custody"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "published and holds; document number not recoverable",
+"id": "dird-anomalous-acute-and-subacute-field-effects",
+"l0": false,
+"label": "Anomalous Acute and Subacute Field Effects on Human Biological Tissues",
+"note": "DIA commissioned, holds and released this document. It carries a DIA document number in the DIA-08-xxxx-xxx series on its cover and was released through the DIA FOIA Electronic Reading Room, whose FileId entry is cited here alongside the retrievable copy. Cover page read on 22 August 2026.",
+"sources": [
+{
+"date": null,
+"name": "documents2.theblackvault.com",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_26-DIRD_Anomalous_Acute_and_Subacute_Field_Effects_on_Human_Biological_Tissues.pdf"
+},
+{
+"date": "2010-03-11",
+"name": "DIA FOIA Reading Room — Anomalous Acute and Subacute Field Effects on Human Biological Tissues (PDF)",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237654/"
+}
+],
+"tier": "B",
+"type": "custody"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "published and holds; DIA-08-1003-018",
+"id": "dird-antigravity-for-aerospace-applications",
+"l0": false,
+"label": "Antigravity for Aerospace Applications",
+"note": "DIA commissioned, holds and released this document. It carries a DIA document number in the DIA-08-xxxx-xxx series on its cover and was released through the DIA FOIA Electronic Reading Room, whose FileId entry is cited here alongside the retrievable copy. Cover page read on 22 August 2026.",
+"sources": [
+{
+"date": null,
+"name": "documents2.theblackvault.com",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_19-DIRD_Antigravity_for_Aerospace_Applications.pdf"
+},
+{
+"date": "2010-03-30",
+"name": "DIA FOIA Reading Room — Antigravity for Aerospace Applications (PDF)",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237651/"
+}
+],
+"tier": "B",
+"type": "custody"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "published, numbered and released by DIA as DIA-08-1011-001",
+"id": "dird-laser-lightcraft-nanosatellites",
+"l0": false,
+"label": "Laser Lightcraft Nanosatellites",
+"note": "DIA commissioned, holds and released this document. It carries a DIA document number in the DIA-08-xxxx-xxx series on its cover and was released through the DIA FOIA Electronic Reading Room, whose FileId entry is cited here alongside the retrievable copy. Cover page read on 22 August 2026.",
+"sources": [
+{
+"date": null,
+"name": "documents2.theblackvault.com",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_27-DIRD_Laser_Lightcraft_Nanosatellites.pdf"
+},
+{
+"date": "2010-11-01",
+"name": "DIA FOIA Reading Room — Laser Lightcraft Nanosatellites (PDF)",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237641/"
+}
+],
+"tier": "B",
+"type": "custody"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "published, numbered and released by DIA as DIA-08-1101-023",
+"id": "dird-negative-mass-propulsion",
+"l0": false,
+"label": "Negative Mass Propulsion",
+"note": "DIA commissioned, holds and released this document. It carries a DIA document number in the DIA-08-xxxx-xxx series on its cover and was released through the DIA FOIA Electronic Reading Room, whose FileId entry is cited here alongside the retrievable copy. Cover page read on 22 August 2026.",
+"sources": [
+{
+"date": null,
+"name": "documents2.theblackvault.com",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_29-DIRD_Negative_mass_Propulsion.pdf"
+},
+{
+"date": "2011-01-03",
+"name": "DIA FOIA Reading Room — Negative Mass Propulsion (PDF)",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237637/"
+}
+],
+"tier": "B",
+"type": "custody"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "published, numbered and released by DIA as DIA-08-0912-005",
+"id": "dird-pulsed-high-power-microwave-source-technology",
+"l0": false,
+"label": "Pulsed High-Power Microwave Source Technology",
+"note": "DIA commissioned, holds and released this document. It carries a DIA document number in the DIA-08-xxxx-xxx series on its cover and was released through the DIA FOIA Electronic Reading Room, whose FileId entry is cited here alongside the retrievable copy. Cover page read on 22 August 2026.",
+"sources": [
+{
+"date": null,
+"name": "documents2.theblackvault.com",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_03-DIRD_Pulsed_High-Power_Microwave_Source_Technology.pdf"
+},
+{
+"date": null,
+"name": "theblackvault.com",
+"url": "https://www.theblackvault.com/documentarchive/the-advanced-aviation-threat-identification-program-aatip-dird-report-research/"
+},
+{
+"date": null,
+"name": "https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk",
+"url": "https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk"
+}
+],
+"tier": "B",
+"type": "custody"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "published by DIA as DIA-08-1001-006, Acquisition Threat Support series",
+"id": "dird-space-access-where-we-ve-been",
+"l0": false,
+"label": "Space Access: Where We've Been and Where We Could Go",
+"note": "DIA commissioned, holds and released this document. It carries a DIA document number in the DIA-08-xxxx-xxx series on its cover and was released through the DIA FOIA Electronic Reading Room, whose FileId entry is cited here alongside the retrievable copy. Cover page read on 22 August 2026.",
+"sources": [
+{
+"date": "2010-03",
+"name": "Defense Intelligence Reference Document, \"Space Access: Where We've Been ... and Where We Could Go\" (The Black Vault FOIA release)",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_06-DIRD_Space_Access-Where_Weve_Been_and_Where_We_Could_Go.pdf"
+},
+{
+"date": "2010-03-08",
+"name": "DIA FOIA Reading Room — Space Access: Where We've Been and Where We Could Go (PDF)",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237648/"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "published by DIA as DIA-08-1003-019, Acquisition Threat Support series",
+"id": "dird-state-of-the-art-and-evolution",
+"l0": false,
+"label": "State of the Art and Evolution of High-Energy Laser Weapons",
+"note": "DIA commissioned, holds and released this document. It carries a DIA document number in the DIA-08-xxxx-xxx series on its cover and was released through the DIA FOIA Electronic Reading Room, whose FileId entry is cited here alongside the retrievable copy. Cover page read on 22 August 2026.",
+"sources": [
+{
+"date": "2010-03-31",
+"name": "Defense Intelligence Reference Document, \"State of the Art and Evolution of High-Energy Laser Weapons\" (The Black Vault FOIA release)",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_23-DIRD_State_of_the_Art_and_Evolution_of_High-Energy_Laser_Weapons.pdf"
+},
+{
+"date": "2022-03-31",
+"name": "The Black Vault, AAWSAP DIRD directory index (37 released DIRDs plus FOIA case file 00159-2018)",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "published by DIA as DIA-08-1003-012, Acquisition Threat Support series",
+"id": "dird-technological-approaches-to-controlling-external-devices",
+"l0": false,
+"label": "Technological Approaches to Controlling External Devices in the Absence of Limb-Operated Interfaces",
+"note": "DIA commissioned, holds and released this document. It carries a DIA document number in the DIA-08-xxxx-xxx series on its cover and was released through the DIA FOIA Electronic Reading Room, whose FileId entry is cited here alongside the retrievable copy. Cover page read on 22 August 2026.",
+"sources": [
+{
+"date": "2010-03-23",
+"name": "Defense Intelligence Reference Document, \"Technological Approaches to Controlling External Devices in the Absence of Limb-Operated Interfaces\" (The Black Vault FOIA release)",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_12-DIRD_Technological_Approaches_to_Controlling_External_Devices.pdf"
+},
+{
+"date": "2010-03-23",
+"name": "DIA FOIA Reading Room — Technological Approaches to Controlling External Devices in the Absence of Limb-Operated Interfaces (PDF)",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237621/"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "published by DIA as DIA-08-1003-013, Acquisition Threat Support series",
+"id": "dird-the-role-of-superconductors-in-gravity",
+"l0": false,
+"label": "The Role of Superconductors in Gravity Research",
+"note": "DIA commissioned, holds and released this document. It carries a DIA document number in the DIA-08-xxxx-xxx series on its cover and was released through the DIA FOIA Electronic Reading Room, whose FileId entry is cited here alongside the retrievable copy. Cover page read on 22 August 2026.",
+"sources": [
+{
+"date": "2010-03-23",
+"name": "Defense Intelligence Reference Document, \"The Role of Superconductors in Gravity Research\" (The Black Vault FOIA release)",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_14-DIRD_The_Role_of_Superconductors_in_Gravity_Research.pdf"
+},
+{
+"date": "2010-03-23",
+"name": "DIA FOIA Reading Room — The Role of Superconductors in Gravity Research (PDF)",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237631/"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "published by DIA as DIA-08-1003-016, Acquisition Threat Support series",
+"id": "dird-the-space-communication-implications-of-quantum",
+"l0": false,
+"label": "The Space-Communication Implications of Quantum Entanglement and Nonlocality",
+"note": "DIA commissioned, holds and released this document. It carries a DIA document number in the DIA-08-xxxx-xxx series on its cover and was released through the DIA FOIA Electronic Reading Room, whose FileId entry is cited here alongside the retrievable copy. Cover page read on 22 August 2026.",
+"sources": [
+{
+"date": "2010-03-30",
+"name": "Defense Intelligence Reference Document, \"The Space-Communication Implications of Quantum Entanglement and Nonlocality\" (The Black Vault FOIA release)",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_16-DIRD_The_Space_Communication_Implications_of_Quantum_Entanglement_and_Nonlocality.pdf"
+},
+{
+"date": "2010-03-30",
+"name": "DIA FOIA Reading Room — The Space-Communication Implications of Quantum Entanglement and Nonlocality (PDF)",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237623/"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "published by DIA as DIA-08-1004-004, Acquisition Threat Support series",
+"id": "dird-traversable-wormholes-stargates-and-negative-energy",
+"l0": false,
+"label": "Traversable Wormholes, Stargates, and Negative Energy",
+"note": "DIA commissioned, holds and released this document. It carries a DIA document number in the DIA-08-xxxx-xxx series on its cover and was released through the DIA FOIA Electronic Reading Room, whose FileId entry is cited here alongside the retrievable copy. Cover page read on 22 August 2026.",
+"sources": [
+{
+"date": "2010-04-06",
+"name": "Defense Intelligence Reference Document, \"Traversable Wormholes, Stargates, and Negative Energy\" (The Black Vault FOIA release)",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_18-DIRD_Traversible_Wormholes_Stargates_and_Negative_Energy.pdf"
+},
+{
+"date": "2010-04-06",
+"name": "DIA FOIA Reading Room — Traversable Wormholes, Stargates, and Negative Energy (PDF)",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237636/"
+},
+{
+"date": null,
+"name": "http://earthtech.org/pubs/davis/",
+"url": "http://earthtech.org/pubs/davis/"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "published by DIA as DIA-08-1004-001, Acquisition Threat Support series",
+"id": "dird-warp-drive-dark-energy-and-the",
+"l0": false,
+"label": "Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions",
+"note": "DIA commissioned, holds and released this document. It carries a DIA document number in the DIA-08-xxxx-xxx series on its cover and was released through the DIA FOIA Electronic Reading Room, whose FileId entry is cited here alongside the retrievable copy. Cover page read on 22 August 2026.",
+"sources": [
+{
+"date": "2010-04-02",
+"name": "Defense Intelligence Reference Document, \"Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions\" (The Black Vault FOIA release)",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_13-DIRD_Warp_Drive_Dark_energy_and_the_Manipulation_of_Extra_Dimensions.pdf"
+},
+{
+"date": "2010-04-02",
+"name": "DIA FOIA Reading Room — Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions (PDF)",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237627/"
+},
+{
+"date": null,
+"name": "http://earthtech.org/pubs/davis/",
+"url": "http://earthtech.org/pubs/davis/"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "CENTER LANE assets and resources attached OPCON to DIA, 2 March 1985",
+"id": "inscom",
+"l0": true,
+"label": "US Army Intelligence and Security Command (INSCOM)",
+"note": "INSCOM's letter of 2 March 1985 notifies HQDA of the deactivation, of the attachment OPCON of CENTER LANE assets and resources to the Defense Intelligence Agency, and of the retirement of the project nickname.",
+"sources": [
+{
+"date": "1985-03-02",
+"name": "Deactivation of INSCOM CENTER LANE Project (ICLP) as a Special Access Program (SAP) (U), 2 March 1985",
+"url": "https://archive.org/download/cia-readingroom-document-cia-rdp96-00789r002100120002-4/cia-rdp96-00789r002100120002-4_djvu.txt"
+}
+],
+"tier": "A",
+"type": "custody"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "2023",
+"dateStart": "2008",
+"direction": "out",
+"edgeLabel": "redacted the PM's name it had already published",
+"id": "james-lacatski",
+"l0": false,
+"label": "James T. Lacatski",
+"note": "Lacatski is named in the public solicitation and redacted under 10 USC 424 in every post-award release — a records posture aimed at breaking the link between office and person.",
+"sources": [
+{
+"date": "2008-08-18",
+"name": "The Black Vault — AAWSAP Original Bid Solicitation",
+"url": "https://www.theblackvault.com/documentarchive/advanced-aerospace-weapon-systems-applications-program-aawsap-original-bid-solicitation/"
+},
+{
+"date": "2022-10-13",
+"name": "DIA AAWSAP contract (FOIA-00349-2018)",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP/FOIA-00349-2018.pdf"
+}
+],
+"tier": "A",
+"type": "behavioral"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2025-04-24",
+"direction": "out",
+"edgeLabel": "Produced no records for the first statutory UAP transfer",
+"id": "nara-uap-collection",
+"l0": true,
+"label": "National Archives Unidentified Anomalous Phenomena Records Collection",
+"note": "NARA's 24 April 2025 release named only ODNI, OSD, the FAA and the Nuclear Regulatory Commission. DIA, which holds documented UAP equity, transferred nothing.",
+"sources": [
+{
+"date": "2025-04-24",
+"name": "National Archives press release nr25-07",
+"url": "https://www.archives.gov/press/press-releases/2025/nr25-07"
+}
+],
+"tier": "A",
+"type": "denial"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2021-06-25",
+"direction": "out",
+"edgeLabel": "Named contributor to the 2021 ODNI Preliminary Assessment on UAP",
+"id": "odni",
+"l0": true,
+"label": "Office of the Director of National Intelligence",
+"note": "ODNI's 25 June 2021 assessment names DIA among the contributing elements, establishing that this agency produced or held UAP-relevant reporting.",
+"sources": [
+{
+"date": "2021-06-25",
+"name": "ODNI, Preliminary Assessment: Unidentified Aerial Phenomena",
+"url": "https://archive.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 3,
+"cls": "document",
+"dateEnd": null,
+"dateStart": "2026-08-01",
+"direction": "in",
+"edgeLabel": "directed to release; absent from the statutory archive",
+"id": "odni-memo-es-2026-00818",
+"l0": true,
+"label": "ODNI Memorandum ES 2026-00818 - Preliminary Guidance for Implementation of NDA Waiver",
+"note": "The Director of the Defense Intelligence Agency is an addressee of ES 2026-00818; DIA has no RG 615 series as of 12 August 2026.",
+"sources": [
+{
+"date": "2026-08-01",
+"name": "ODNI Memorandum ES 2026-00818",
+"url": "https://burlison.house.gov/sites/evo-subsites/burlison.house.gov/files/evo-media-document/memorandum_2026.pdf"
+},
+{
+"date": "2026-08-12",
+"name": "National Archives, Record Group 615",
+"url": "https://www.archives.gov/research/topics/uaps/rg-615"
+}
+],
+"tier": "A",
+"type": "denial"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "2010",
+"dateStart": "2010",
+"direction": "out",
+"edgeLabel": "proposes transitioning AATIP out of DIA",
+"id": "ousdi-atl-memo-2010",
+"l0": false,
+"label": "DIA Info Memo to USD(AT&L) on AATIP (U-10-2552CE-IM-ATL)",
+"note": "DIA tells USD(AT&L) the reports were of limited value to DIA but could merit other organisations and the project could move to a better-suited component.",
+"sources": [
+{
+"date": "2010-12-01",
+"name": "DIA memo U-10-2552CE-IM-ATL",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP/U-10-2552CE-IM-ATL.pdf"
+}
+],
+"tier": "B",
+"type": "programmatic"
+},
+{
+"claimTier": 3,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2008",
+"direction": "in",
+"edgeLabel": "Radiance is a mid-tier technical prime in the space where compartmented analytical tasks are placed",
+"id": "radiance-technologies",
+"l0": false,
+"label": "Radiance Technologies, Inc.",
+"note": "Reasoning: roughly $2.6 billion in prime obligations since FY2008 across intelligence, sensors and advanced concepts. Radiance recurs in UAP-adjacent reporting as an employer of personnel who moved between government UAP work and industry, but no primary personnel record has been located and none is asserted.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "USAspending.gov federal award search (prime contract obligations by recipient)",
+"url": "https://www.usaspending.gov/search"
+}
+],
+"tier": "C",
+"type": "funding"
+},
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "$22M congressionally directed to DIA for advanced aerospace threat work",
+"id": "reid-dia-meetings-2008-2009",
+"l0": false,
+"label": "Reid–DIA meetings on AAWSAP (Nov 2008, May 2009, Nov 2009)",
+"note": "AARO's official history states: 'At the direction of Senate Majority Leader Harry Reid (D-NV), the Defense Appropriations Acts of Fiscal Years 2008 and 2010 appropriated $22 million for the DIA to assess long-term and over-the-horizon foreign advanced aerospace threats to the United States. In coordination with the Office of the Under Secretary of Defense for Intelligence, DIA established AAWSAP in 2009... The contract for this DIA-managed program was awarded to a private sector organization.' AARO is an interested party in its own institutional history, which is why this is tier 2.",
+"sources": [
+{
+"date": "2024-03-08",
+"name": "AARO, The Department of Defense All-domain Anomaly Resolution Office Historical Record Report Volume 1, 8 March 2024",
+"url": "https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf"
+},
+{
+"date": null,
+"name": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF",
+"url": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF"
+}
+],
+"tier": "C",
+"type": "funding"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "2023",
+"dateStart": "2022",
+"direction": "out",
+"edgeLabel": "no records located for the documents the book describes",
+"id": "skinwalkers-at-the-pentagon",
+"l0": false,
+"label": "Skinwalkers at the Pentagon (Lacatski, Kelleher, Knapp, 2021)",
+"note": "DIA could locate neither the 19 June 2007 Lacatski letter nor the 'Utah Ranch Investigation: August 2009-February 2010' report, in a program contractually required to file monthly status reports.",
+"sources": [
+{
+"date": "2023-09-01",
+"name": "The Black Vault — FOIA-00023-2022",
+"url": "https://www.theblackvault.com/documentarchive/wp-content/uploads/2023/09/FOIA00023-2022.pdf"
+},
+{
+"date": "2022-03-01",
+"name": "The UFO Trail",
+"url": "https://ufotrail.blogspot.com/2022/03/dia-further-verifies-aawsap-award-to.html"
+}
+],
+"tier": "A",
+"type": "denial"
+},
+{
+"claimTier": 2,
+"cls": "event",
+"dateEnd": "1995",
+"dateStart": "1985",
+"direction": "in",
+"edgeLabel": "DIA held the programme from 1985 as SUN STREAK and STAR GATE",
+"id": "stargate-program",
+"l0": true,
+"label": "STAR GATE and predecessor remote viewing programs, 1970-1995",
+"note": "The effort moved to DIA's Scientific and Technical Intelligence Directorate as SUN STREAK in late 1985 and was consolidated as STAR GATE in 1991.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Wikipedia - Stargate Project (U.S. Army unit)",
+"url": "https://en.wikipedia.org/wiki/Stargate_Project_(U.S._Army_unit)"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": "1995",
+"dateStart": "1986",
+"direction": "in",
+"edgeLabel": "DIA sponsored the remote-viewing effort 1986-1995",
+"id": "sun-streak",
+"l0": false,
+"label": "SUN STREAK",
+"note": "DIA's prior experience running an unacknowledged programme in a ridiculed domain is the institutional precedent for its 2008 AAWSAP contract.",
+"sources": [
+{
+"date": "2020-12-16",
+"name": "The Stargate Collection - CIA Program on Remote Viewing",
+"url": "https://www.theblackvault.com/documentarchive/the-stargate-collection/"
+},
+{
+"date": "2021-05-10",
+"name": "Gideon Lewis-Kraus, 'How the Pentagon Started Taking U.F.O.s Seriously', The New Yorker",
+"url": "https://www.newyorker.com/magazine/2021/05/10/how-the-pentagon-started-taking-ufos-seriously"
+}
+],
+"tier": "C",
+"type": "funding"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "1961",
+"deg": 34,
+"denials": [
+{
+"by": {
+"id": "dia",
+"label": "Defense Intelligence Agency"
+},
+"claimTier": 2,
+"denialKind": "directed",
+"label": "withheld the contract for eleven years",
+"note": "DIA withheld the BAASS award entirely in a 2011 FOIA response and released it only in October 2022 — a contract that had been competed on a public bid board.",
+"of": {
+"id": "aawsap-contract",
+"label": "DIA Contract HHM402-08-C-0072 (BAASS)"
+},
+"sources": [
+{
+"date": "2022-03-01",
+"name": "The UFO Trail",
+"url": "https://ufotrail.blogspot.com/2022/03/dia-further-verifies-aawsap-award-to.html"
+}
+]
+},
+{
+"by": {
+"id": "dia",
+"label": "Defense Intelligence Agency"
+},
+"claimTier": 2,
+"denialKind": "directed",
+"label": "Accuses DIA of obstructing congressional oversight by withholding documents",
+"note": "Made at the 9 June 2026 Capitol press conference. DIA is the agency that housed AAWSAP and the historical thread most directly implicated in the legacy record; the allegation is specific to document production, not to phenomenon.",
+"of": {
+"id": "david-grusch",
+"label": "David Charles Grusch"
+},
+"sources": [
+{
+"date": "2026-06-10",
+"name": "Fox News - UAP whistleblower David Grusch accuses agencies of hiding billions",
+"url": "https://www.foxnews.com/politics/ufo-whistleblower-claims-billions-secret-spending-hidden-from-congress"
+}
+]
+},
+{
+"by": {
+"id": "dia",
+"label": "Defense Intelligence Agency"
+},
+"claimTier": 1,
+"denialKind": "directed",
+"label": "Produced no records for the first statutory UAP transfer",
+"note": "NARA's 24 April 2025 release named only ODNI, OSD, the FAA and the Nuclear Regulatory Commission. DIA, which holds documented UAP equity, transferred nothing.",
+"of": {
+"id": "nara-uap-collection",
+"label": "National Archives Unidentified Anomalous Phenomena Records Collection"
+},
+"sources": [
+{
+"date": "2025-04-24",
+"name": "National Archives press release nr25-07",
+"url": "https://www.archives.gov/press/press-releases/2025/nr25-07"
+}
+]
+},
+{
+"by": {
+"id": "dia",
+"label": "Defense Intelligence Agency"
+},
+"claimTier": 3,
+"denialKind": "directed",
+"label": "directed to release; absent from the statutory archive",
+"note": "The Director of the Defense Intelligence Agency is an addressee of ES 2026-00818; DIA has no RG 615 series as of 12 August 2026.",
+"of": {
+"id": "odni-memo-es-2026-00818",
+"label": "ODNI Memorandum ES 2026-00818 - Preliminary Guidance for Implementation of NDA Waiver"
+},
+"sources": [
+{
+"date": "2026-08-01",
+"name": "ODNI Memorandum ES 2026-00818",
+"url": "https://burlison.house.gov/sites/evo-subsites/burlison.house.gov/files/evo-media-document/memorandum_2026.pdf"
+},
+{
+"date": "2026-08-12",
+"name": "National Archives, Record Group 615",
+"url": "https://www.archives.gov/research/topics/uaps/rg-615"
+}
+]
+},
+{
+"by": {
+"id": "dia",
+"label": "Defense Intelligence Agency"
+},
+"claimTier": 1,
+"denialKind": "directed",
+"label": "no records located for the documents the book describes",
+"note": "DIA could locate neither the 19 June 2007 Lacatski letter nor the 'Utah Ranch Investigation: August 2009-February 2010' report, in a program contractually required to file monthly status reports.",
+"of": {
+"id": "skinwalkers-at-the-pentagon",
+"label": "Skinwalkers at the Pentagon (Lacatski, Kelleher, Knapp, 2021)"
+},
+"sources": [
+{
+"date": "2023-09-01",
+"name": "The Black Vault — FOIA-00023-2022",
+"url": "https://www.theblackvault.com/documentarchive/wp-content/uploads/2023/09/FOIA00023-2022.pdf"
+},
+{
+"date": "2022-03-01",
+"name": "The UFO Trail",
+"url": "https://ufotrail.blogspot.com/2022/03/dia-further-verifies-aawsap-award-to.html"
+}
+]
+}
+],
+"desc": "DIA is the agency that took the Reid appropriation, wrote the requirement, awarded the contract, ran the program office, reviewed the deliverables, refused the Special Access Program request, terminated the effort, and then spent fifteen years releasing the paperwork a few dozen pages at a time under FOIA. Its Defense Warning Office housed James Lacatski, its Virginia Contracting Activity (ZD50) issued solicitation HHM402-08-R-0211, and its Records Management and Information Services chief signed the January 2018 letter that gave the Senate Armed Services Committee its first inventory of the program. DIA's institutional posture across the record is consistently minimising: its 13 November 2009 memorandum found 'insufficient grounds to classify this open program'; its late-2010 memorandum to USD(AT&L) said the reports were 'of limited value to DIA'; it withheld the BAASS contract entirely in a 2011 FOIA response before releasing it in 2022; it reported no records located for the June 2007 Lacatski-to-Bigelow letter; and it redacted the program manager's name under 10 USC 424 from every release even though DIA itself had published that name in the public bid notice. Against that posture stands DIA's own 30 October 2009 quality review, which found the reports so good that 'all of the reviews were positive, some exceptionally so' — including reviews by three Sandia National Laboratories staff. DIA is the custodian of the AAWSAP record and the principal author of the gaps in it.",
+"domains": [
+"_rs-archive-mirror",
+"aawsap-aatip"
+],
+"dossier": {
+"claims": [
+{
+"source": "https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/History_and_Origin_of_KONA_BLUE_FINAL_508.pdf",
+"text": "AARO states that AAWSAP/AATIP was 'managed by the Defense Intelligence Agency (DIA) from 2009-2012 and funded through congressional earmarks,' with Bigelow Aerospace serving as the primary contractor executing funds for the programme.",
+"tier": 1
+},
+{
+"source": "AARO, 'History and Origin of KONA BLUE'; https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/History_and_Origin_of_KONA_BLUE_FINAL_508.pdf",
+"text": "AARO states that 'Information associated with the activities conducted under the auspices of AAWSAP/AATIP remains within DIA's archived holdings,' making DIA the acknowledged custodian of the programme's record.",
+"tier": 1
+},
+{
+"source": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF",
+"text": "AARO's Historical Record Report Volume I states that 'Although investigating UFO/UAP was not specifically outlined in the contract's statement of work, the selected private sector organization conducted UFO research with the support of the DIA program manager,' including 'proposals to set up laboratories to examine any recovered UFO materials.'",
+"tier": 1
+},
+{
+"source": "AARO Historical Record Report Volume I, March 2024, AAWSAP/AATIP section; https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF",
+"text": "The same report states that 'DIA did not seek, nor specifically authorize, this work though a DIA employee set up and managed the contract with the private sector organization.'",
+"tier": 1
+},
+{
+"source": "AARO Historical Record Report Volume I, March 2024; https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF",
+"text": "The stated primary purpose of AAWSAP/AATIP was to investigate potential next-generation aerospace technologies in twelve specific areas including advanced lift, propulsion, the use of unconventional materials and controls, and signature reduction.",
+"tier": 1
+},
+{
+"source": "AARO Historical Record Report Volume I, March 2024; https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF",
+"text": "On 24 June 2009 Senator Reid wrote to Deputy Secretary of Defense William Lynn III requesting that AAWSAP/AATIP be made a DoD Special Access Program; Lynn declined on the recommendation of then Under Secretary of Defense for Intelligence James R. Clapper Jr.",
+"tier": 1
+},
+{
+"source": "AARO, 'History and Origin of KONA BLUE'; https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/History_and_Origin_of_KONA_BLUE_FINAL_508.pdf",
+"text": "AARO states that when DIA cancelled AAWSAP/AATIP 'due to a cited lack of merit and lack of utility in the products Bigelow produced for DIA's mission,' several individuals involved advocated that DHS take the effort over under the code name KONA BLUE.",
+"tier": 1
+},
+{
+"source": "https://media.defense.gov/2024/Jan/25/2003381266/-1/-1/1/UNCLASSIFIED%20SUMMARY_UNIDENTIFIED%20ANOMALOUS%20PHENOMENA%20SECURE.PDF",
+"text": "The DoD Inspector General records that the Department resumed official UAP work only when 'select members of Congress initiated and funded a program to study UAP, called the Advanced Aerospace Weapon Systems Applications program, under the direction of the Defense Intelligence Agency.'",
+"tier": 1
+},
+{
+"source": "AARO Historical Record Report Volume I, March 2024, Scope and Methodology; https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF",
+"text": "AARO states that it partnered with the archives of DIA, alongside CIA, DOE, NSA, NGA, the Services and Combatant Commands, as a line of effort for the historical review.",
+"tier": 1
+},
+{
+"source": "https://www.archives.gov/research/topics/uaps/rg-615",
+"text": "DIA does not appear among the agencies with a records transmittal listed in the National Archives UAP Records Collection, Record Group 615, as of the collection page's 22 May 2026 review date.",
+"tier": 1
+},
+{
+"source": "https://www.theblackvault.com/documentarchive/the-advanced-aerospace-weapon-system-applications-program-aawsap-documentation/",
+"text": "The AAWSAP contract was awarded to Bigelow Aerospace under contract number HHM402-08-C-0072, following solicitation HHM402-08-R-0211, with Senate-directed appropriations totalling approximately $22 million across the FY2008 and FY2010 lines.",
+"tier": 2
+},
+{
+"source": "https://www.theblackvault.com/documentarchive/the-advanced-aerospace-weapon-system-applications-program-aawsap-documentation/ and https://ufos-scientificresearch.blogspot.com/2022/03/37-out-of-those-38-aawsap-defense.html",
+"text": "DIA transmitted to Congress in January 2018 a list naming the titles and principal authors of the thirty-eight Defense Intelligence Reference Documents produced under AAWSAP; the list was subsequently reported publicly by George Knapp in July 2018 and the underlying DIRDs have been released.",
+"tier": 2
+},
+{
+"source": "James T. Lacatski, Colm A. Kelleher and George Knapp, Skinwalkers at the Pentagon: An Insiders' Account of the Secret Government UFO Program, RTMA LLC, 2021; https://openlibrary.org/books/OL50517758M/Skinwalkers_at_the_Pentagon",
+"text": "James T. Lacatski, a career DIA propulsion and missile intelligence specialist, served as AAWSAP programme manager, converted the contractor deliverables into Defense Intelligence Reference Documents, and co-authored Skinwalkers at the Pentagon (2021) with Colm A. Kelleher and George Knapp.",
+"tier": 2
+},
+{
+"source": "AARO Historical Record Report Volume I, March 2024; https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF",
+"text": "AARO's Volume I states that AAWSAP/AATIP investigated an alleged hotspot of UAP and paranormal activity at a Utah property owned by the head of the contractor, examining reports of 'shadow figures' and 'creatures' and exploring 'remote viewing' and 'human consciousness anomalies,' and that the organisation planned to hire psychics.",
+"tier": 1
+}
+],
+"denialPosture": "DIA has not issued a standalone public denial of the legacy programme allegation. Its position is expressed through AARO's account, which is that DIA terminated AAWSAP/AATIP for lack of merit and lack of utility, that DIA neither sought nor authorised the contractor's UFO field research, and that no material of any kind was transferred to DHS under KONA BLUE. DIA has released the thirty-eight Defense Intelligence Reference Documents and confirmed the AAWSAP record sits in its archived holdings.",
+"narrative": "In 2008 DIA posted a solicitation and awarded a contract to Bigelow Aerospace for what became the Advanced Aerospace Weapon System Applications Program. The money came from Senate-directed appropriations rather than a Departmental requirement, a point the DoD Inspector General records plainly when it notes that the Department did not officially look at UAP again after Blue Book until select members of Congress initiated and funded a programme under DIA's direction. The programme ran from 2008 through 2012 in its various forms and produced thirty-eight Defense Intelligence Reference Documents covering advanced propulsion, warp drive metrics, traversable wormholes, metamaterials, invisibility cloaking, high energy laser weapons, and biological effects of anomalous exposure. DIA transmitted the list of titles and principal authors to Congress in January 2018.\n\nAARO's own account of AAWSAP, in Historical Record Report Volume I and in its standalone KONA BLUE paper, is more useful to this board than AARO seems to have realised. It confirms the programme was managed by DIA from 2009 to 2012 and funded through congressional earmarks with Bigelow Aerospace as prime contractor. It confirms the stated purpose was investigating next-generation aerospace technologies across twelve specific areas including advanced lift, propulsion, unconventional materials and controls, and signature reduction. It then states that although investigating UFO or UAP was not specifically outlined in the contract's statement of work, the selected private sector organisation conducted UFO research with the support of the DIA programme manager, and that this research included reviewing new cases and older Project BLUE BOOK cases, operating debriefing and investigatory teams, and proposals to set up laboratories to examine any recovered UFO materials.\n\nThat sentence is the whole argument in miniature. A defence intelligence agency programme, funded outside the normal requirements process, with a programme manager who authorised his contractor to run field investigation teams and to propose materials exploitation laboratories for recovered UFO material. AARO's framing is that DIA did not seek nor specifically authorise this work though a DIA employee set up and managed the contract, which is an attempt to place the agency at arm's length from its own programme manager. It does not work. A contract managed by an agency employee, funded by an agency line, delivering to an agency archive, is the agency's programme.\n\nThe escalation attempt is documented. On 24 June 2009 Senator Harry Reid wrote to Deputy Secretary of Defense William Lynn III requesting that AAWSAP/AATIP be made a DoD Special Access Program. Lynn declined on the recommendation of then Under Secretary of Defense for Intelligence James Clapper, who advised that the designation was not justified. Read against the concealment thesis, a request for SAP status is a request for a compartment in which recovered material could lawfully be held without disclosure, and the refusal is the point at which the effort had to find another home.\n\nIt found one, briefly. AARO's KONA BLUE paper states that when DIA cancelled AAWSAP/AATIP, several individuals involved advocated that the Department of Homeland Security take the effort over and fund a new version under the code name KONA BLUE. In 2011 the DHS Under Secretary for Science and Technology established KONA BLUE as a Prospective Special Access Program based on claims that relevant information and material existed and required this level of protection. Six months later the Deputy Secretary of DHS disapproved it and directed immediate termination. AARO's insistence that no data or material was ever transferred to DHS is not the interesting part. The interesting part is that a Presidentially appointed, Senate-confirmed Under Secretary stood up a prospective compartment on the strength of a representation that material existed.\n\nThe custody question is settled by AARO's own words. Its KONA BLUE paper states that information associated with the activities conducted under the auspices of AAWSAP/AATIP remains within DIA's archived holdings. Whatever the thirty-eight reference documents, the field investigation files, the debriefing records and the case reviews amount to, DIA has them. That makes DIA a custody node on this map regardless of what one concludes about the underlying phenomenon.\n\nThe people matter. James T. Lacatski, a career DIA propulsion and missile intelligence specialist, was the programme manager who brought the subject to Senator Reid and who converted the contractor's deliverables into Defense Intelligence Reference Documents. He co-authored Skinwalkers at the Pentagon with Colm Kelleher, the biochemist who ran the contractor's field science effort, and George Knapp, the investigative reporter who first obtained and published the DIRD title list. AARO's Volume I addresses that body of work by describing the contractor's Utah property investigations, its interest in shadow figures, creatures, remote viewing and human consciousness anomalies, and its plan to hire psychics. AARO presents this as evidence the programme lacked merit. It is equally evidence that a defence intelligence agency programme was pursuing lines of inquiry it would never have funded without something driving it.\n\nOne further fact belongs on the board. AARO states that it partnered with DIA's archives for the historical review. Yet as of the National Archives Record Group 615 page's review date of 22 May 2026, DIA does not appear among the agencies with a UAP records transmittal to the National Archives. The agency that holds the acknowledged archive of the acknowledged programme has not, on the public record, delivered it to the statutory collection.",
+"openQuestions": [
+"DIA has not, on the public record, transmitted its UAP records to the National Archives Record Group 615, despite holding the acknowledged AAWSAP/AATIP archive and despite the FY2024 NDAA transfer requirement.",
+"The full AAWSAP contract file, including the statement of work, the modification history and the deliverable acceptance record, has not been released in unredacted form.",
+"AARO says a DIA employee set up and managed the contract without the agency seeking or authorising the UFO field work. Which DIA official approved the contract, and under what internal authority, is not documented publicly.",
+"The contractor's proposal to establish laboratories to examine recovered UFO materials is referenced in Volume I but the proposal itself has not been released, and it is not known whether any such laboratory capability was stood up or transferred.",
+"The claim in Skinwalkers at the Pentagon regarding what the DIA programme manager was personally shown has not been corroborated by any released document and is not asserted on this board."
+],
+"roles": [
+"funding",
+"custody",
+"reverse-engineering",
+"concealment"
+],
+"whatItIs": "The Defense Intelligence Agency is the Department of Defense combat support agency responsible for foreign military intelligence. Between 2008 and 2012 it managed the Advanced Aerospace Weapon System Applications Program, the congressionally earmarked effort that produced thirty-eight Defense Intelligence Reference Documents on advanced propulsion, materials and related subjects, executed under contract by Bigelow Aerospace Advanced Space Studies. AARO has confirmed that the material generated by that programme remains in DIA's archived holdings.",
+"whyImplicated": "DIA is the only agency the United States Government has formally admitted ran a modern programme that commissioned studies on how one would build and detect craft with capabilities no terrestrial system possesses, and it is the acknowledged custodian of that archive today. Its programme manager approved a contractor's UAP field investigations that were not in the statement of work, including proposals to stand up laboratories to examine any recovered UFO materials, which is a documented plan for a materials exploitation capability inside a defence intelligence contract. When the Senate Majority Leader asked in June 2009 that the programme be raised to Special Access Program status, the Department refused; when DIA cancelled it, its participants immediately proposed reconstituting it under Homeland Security as a compartment explicitly justified by claims that relevant material existed. AARO's own explanation for the entire modern disclosure movement traces it back to this DIA programme and its people. DIA is therefore the acknowledged root of the modern record, the custodian of its archive, and absent from the National Archives UAP collection."
+},
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [
+0,
+1,
+2,
+3
+],
+"requests": [
+{
+"agency": "NARA",
+"partial": [],
+"questions": [
+0
+],
+"request": "F1",
+"sendTo": "National Archives and Records Administration, FOIA Officer, Office of General Counsel, 8601 Adelphi Road, College Park MD 20740. Cross-file a copy with the National Declassification Center, which is the operational custodian of the collection.",
+"status": "not filed",
+"title": "NARA - the RG 615 compliance register"
+},
+{
+"agency": "DIA",
+"partial": [],
+"questions": [
+1,
+2
+],
+"request": "F2",
+"sendTo": "Defense Intelligence Agency, FOIA Office (DAN-1A), 7400 Defense Pentagon, Washington DC 20301-7400.",
+"status": "not filed",
+"title": "DIA - the AAWSAP closeout property inventory and obligation history"
+},
+{
+"agency": "DIA",
+"partial": [],
+"questions": [
+1,
+3
+],
+"request": "F9",
+"sendTo": "Defense Intelligence Agency, FOIA Office (DAN-1A).",
+"status": "not filed",
+"title": "DIA - the BAASS Ten Month Report and the Comprehensive Integrated Threat Assessment"
+}
+]
+},
+"hl": null,
+"id": "dia",
+"l0": true,
+"label": "Defense Intelligence Agency",
+"locLabel": null,
+"members": [
+{
+"cls": "document",
+"id": "aawsap-contract",
+"label": "DIA Contract HHM402-08-C-0072 (BAASS)",
+"tier": "A"
+},
+{
+"cls": "person",
+"id": "bobby-ray-inman",
+"label": "Adm. Bobby Ray Inman",
+"tier": "B"
+},
+{
+"cls": "person",
+"id": "david-grusch",
+"label": "David Charles Grusch",
+"tier": "A"
+},
+{
+"cls": "legislation",
+"id": "defense-appropriations-aawsap",
+"label": "Defense Appropriations Acts FY2008 and FY2010 — the $22M AAWSAP appropriation",
+"tier": "B"
+},
+{
+"cls": "document",
+"id": "dird-advanced-nuclear-propulsion-for-manned-deep",
+"label": "Advanced Nuclear Propulsion for Manned Deep Space Missions",
+"tier": "B"
+},
+{
+"cls": "document",
+"id": "dird-advanced-space-propulsion-based-on-vacuum",
+"label": "Advanced Space Propulsion Based on Vacuum (Spacetime Metric) Engineering",
+"tier": "B"
+},
+{
+"cls": "document",
+"id": "dird-aerospace-applications-of-programmable-matter",
+"label": "Aerospace Applications of Programmable Matter",
+"tier": "B"
+},
+{
+"cls": "document",
+"id": "dird-an-introduction-to-the-statistical-drake",
+"label": "An Introduction to the Statistical Drake Equation",
+"tier": "B"
+},
+{
+"cls": "document",
+"id": "dird-aneutronic-fusion-propulsion",
+"label": "Aneutronic Fusion Propulsion (DIA-08-1011-003)",
+"tier": "B"
+},
+{
+"cls": "document",
+"id": "dird-aneutronic-fusion-propulsion-2",
+"label": "Aneutronic Fusion Propulsion (DIA-08-1011-004)",
+"tier": "B"
+},
+{
+"cls": "document",
+"id": "dird-anomalous-acute-and-subacute-field-effects",
+"label": "Anomalous Acute and Subacute Field Effects on Human Biological Tissues",
+"tier": "B"
+},
+{
+"cls": "document",
+"id": "dird-antigravity-for-aerospace-applications",
+"label": "Antigravity for Aerospace Applications",
+"tier": "B"
+},
+{
+"cls": "document",
+"id": "dird-laser-lightcraft-nanosatellites",
+"label": "Laser Lightcraft Nanosatellites",
+"tier": "B"
+},
+{
+"cls": "document",
+"id": "dird-negative-mass-propulsion",
+"label": "Negative Mass Propulsion",
+"tier": "B"
+},
+{
+"cls": "document",
+"id": "dird-pulsed-high-power-microwave-source-technology",
+"label": "Pulsed High-Power Microwave Source Technology",
+"tier": "B"
+},
+{
+"cls": "document",
+"id": "dird-space-access-where-we-ve-been",
+"label": "Space Access: Where We've Been and Where We Could Go",
+"tier": "B"
+},
+{
+"cls": "document",
+"id": "dird-state-of-the-art-and-evolution",
+"label": "State of the Art and Evolution of High-Energy Laser Weapons",
+"tier": "C"
+},
+{
+"cls": "document",
+"id": "dird-technological-approaches-to-controlling-external-devices",
+"label": "Technological Approaches to Controlling External Devices in the Absence of Limb-Operated Interfaces",
+"tier": "B"
+},
+{
+"cls": "document",
+"id": "dird-the-role-of-superconductors-in-gravity",
+"label": "The Role of Superconductors in Gravity Research",
+"tier": "B"
+},
+{
+"cls": "document",
+"id": "dird-the-space-communication-implications-of-quantum",
+"label": "The Space-Communication Implications of Quantum Entanglement and Nonlocality",
+"tier": "C"
+},
+{
+"cls": "document",
+"id": "dird-traversable-wormholes-stargates-and-negative-energy",
+"label": "Traversable Wormholes, Stargates, and Negative Energy",
+"tier": "B"
+},
+{
+"cls": "document",
+"id": "dird-warp-drive-dark-energy-and-the",
+"label": "Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions",
+"tier": "B"
+},
+{
+"cls": "person",
+"id": "james-lacatski",
+"label": "James T. Lacatski",
+"tier": "A"
+},
+{
+"cls": "document",
+"id": "ousdi-atl-memo-2010",
+"label": "DIA Info Memo to USD(AT&L) on AATIP (U-10-2552CE-IM-ATL)",
+"tier": "B"
+},
+{
+"cls": "institution",
+"id": "radiance-technologies",
+"label": "Radiance Technologies, Inc.",
+"tier": "C"
+},
+{
+"cls": "event",
+"id": "reid-dia-meetings-2008-2009",
+"label": "Reid–DIA meetings on AAWSAP (Nov 2008, May 2009, Nov 2009)",
+"tier": "C"
+},
+{
+"cls": "document",
+"id": "skinwalkers-at-the-pentagon",
+"label": "Skinwalkers at the Pentagon (Lacatski, Kelleher, Knapp, 2021)",
+"tier": "A"
+},
+{
+"cls": "program",
+"id": "sun-streak",
+"label": "SUN STREAK",
+"tier": "C"
+}
+],
+"short": "Defense Intelligence Agency",
+"sources": [
+{
+"date": "2026-01-12",
+"name": "Archived: DIA FOIA Electronic Reading Room — Advanced Aerospace Weapon System Applications Contract (Wayback 2026-01-12)",
+"url": "https://web.archive.org/web/20260112200125/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170018/"
+},
+{
+"date": "2022-10-13",
+"name": "DIA FOIA Electronic Reading Room — Advanced Aerospace Weapon System Applications Contract",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/"
+},
+{
+"date": "2009-10-30",
+"name": "DIA — Review of Advanced Aerospace Contract Deliverables (U-429-09-DWO-IM)",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP/U-429-09-DWO-IM.pdf"
+},
+{
+"date": "2009-11-13",
+"name": "DIA — Review of Special Access Program Request (U-09-2660CE-IM)",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP/U-09-2660CE-IM-Review_of_Special_Access_Program_Request.pdf"
+},
+{
+"date": "2022-03-01",
+"name": "The UFO Trail — DIA Further Verifies AAWSAP Award to BAASS, Fails to Locate Skinwalker Report",
+"url": "https://ufotrail.blogspot.com/2022/03/dia-further-verifies-aawsap-award-to.html"
+}
+],
+"sub": "Combat support agency; AAWSAP/AATIP executive agent",
+"tier": "A",
+"tierRationale": "Re-graded A on a global pass (rank 7 of 1027, score 147). 34 connections, 18 of them custody/witness/funding/programmatic, 5 official denials recorded against it. Axes C3/A3/D1.",
+"timeline": [
+{
+"date": "2008-12-16",
+"id": "tl-2008-brief",
+"label": "First DIA contract status briefing",
+"precision": "day",
+"strand": "program",
+"text": "DIA prepares its first Advanced Aerospace Weapon System Applications contract status briefing three months after award.",
+"tier": "B"
+}
+]
+}

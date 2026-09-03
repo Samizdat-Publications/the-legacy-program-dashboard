@@ -1,0 +1,123 @@
+{
+"A": 1,
+"C": 0,
+"D": 0,
+"affiliations": [],
+"age": null,
+"band": null,
+"chronology": [],
+"claims": [
+{
+"source": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"text": "The DIA letter of 9 January 2018 lists item 35 as \"Ultracapacitors as Energy and Power Storage Devices, Dr J Golightly, Lockheed Martin.\"",
+"tier": 2
+},
+{
+"source": "No attributed source on file — DEMOTED from Tier 1 (no attributed source); needs primary replacement",
+"text": "No source consulted establishes the given name behind the initial \"J\" for Golightly, or any biographical detail beyond the Lockheed Martin affiliation recorded on the DIA list.",
+"tier": 2
+},
+{
+"source": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"text": "Lockheed Martin is the DIA-listed affiliation for three DIRDs: Golightly's ultracapacitors paper, Dr V Teofilo's \"Aneutronic Fusion Propulsion\" and Dr S Macheret's MHD air-breathing propulsion paper.",
+"tier": 2
+},
+{
+"source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_32-DIRD_Ultracapacitators_as_Energy_and_Power_Storage_Devices.pdf",
+"text": "The released cover page reads \"01 November 2010 / ICOD: 20 July 2010 / DIA-08-1011-005,\" with the author line redacted under (b)(6).",
+"tier": 1
+}
+],
+"cls": "person",
+"cluster": "research",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "author of record on the DIA list",
+"id": "dird-ultracapacitors-as-energy-and-power-storage",
+"l0": false,
+"label": "Ultracapacitors as Energy and Power Storage Devices for Commercial and Military Applications",
+"note": "DIA list item 35: \"Ultracapacitors as Energy and Power Storage Devices, Dr J Golightly, Lockheed Martin.\" The given name behind the initial was not established by any source consulted, and the node is labelled accordingly rather than guessed.",
+"sources": [
+{
+"date": "2026-08-22",
+"name": "Released DIRD, 'Ultracapacitors as Energy and Power Storage Devices for Commercial and' — FOIA copy, cover page read 22 August 2026",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_32-DIRD_Ultracapacitators_as_Energy_and_Power_Storage_Devices.pdf"
+},
+{
+"date": "2026-08-22",
+"name": "DIA FOIA Electronic Reading Room entry for this reference document",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237620/"
+},
+{
+"date": "2026-08-23",
+"name": "DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations",
+"url": "https://fas.org/publication/aatip-list/"
+},
+{
+"date": null,
+"name": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html",
+"url": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html"
+},
+{
+"date": null,
+"name": "https://irp.fas.org/dia/aatip-list.pdf",
+"url": "https://irp.fas.org/dia/aatip-list.pdf"
+}
+],
+"tier": "B",
+"type": "research"
+}
+],
+"date": "2010-01-01",
+"dateEnd": null,
+"dateStart": "2010-01-01",
+"deg": 1,
+"denials": [],
+"domains": [
+"w7-dirds-4"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "2",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "j-golightly",
+"instId": null,
+"l0": false,
+"label": "J. Golightly",
+"loc": null,
+"locId": null,
+"members": null,
+"narrative": "The DIA letter of 9 January 2018 gives item 35 as \"Ultracapacitors as Energy and Power Storage Devices, Dr J Golightly, Lockheed Martin.\" That is the entirety of what the government record says about this author, and nothing further was established here. No public biography, publication list or institutional page consulted resolves the initial to a given name. The node is deliberately labelled with the initial rather than a guess, because the whole point of this exercise is that a wrong attribution is worse than an unwired document.\n\nWhat the affiliation does establish is worth recording. Lockheed Martin is the DIA-listed employer for three of the thirty-eight DIRDs: this ultracapacitors paper, \"Aneutronic Fusion Propulsion\" by Dr V Teofilo, and \"Magnetohydrodynamics (MHD) Air Breathing Propulsion and Power for Aerospace Applications\" by Dr S Macheret. Eric Davis said in a June 2018 interview that the advanced nuclear fusion for aerospace propulsion work was undertaken by colleagues at Lockheed Martin, which matches the list. AAWSAP did not only buy papers from universities and one-man consultancies; it bought three from a prime contractor, and Lockheed Martin is a board node on other grounds entirely. The ultracapacitors DIRD is one of the concrete threads between the DIRD series and the contractor-custody cluster.\n\nThe document is DIA-08-1011-005, dated 1 November 2010 with an Intelligence Cut-Off Date of 20 July 2010. It is a late DIRD, from the second wave rather than the FY2009 batch, and its Intelligence Cut-Off Date is correspondingly later than the 1 December 2009 that most of the earlier papers carry. Its subject is unglamorous energy-storage engineering with obvious conventional military application and no anomalous content.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "J. Golightly",
+"sources": [
+{
+"date": "2019-01-17",
+"name": "Keith Basterfield, \"Back to those 38 Defense Intelligence Reference Documents (DIRDs)\" — verbatim transcription of the DIA letter of 9 January 2018",
+"url": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html"
+},
+{
+"date": "2010-11-01",
+"name": "Defense Intelligence Reference Document, \"Ultracapacitors as Energy and Power Storage Devices for Commercial and Military Applications\" (The Black Vault FOIA release)",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_32-DIRD_Ultracapacitators_as_Energy_and_Power_Storage_Devices.pdf"
+}
+],
+"status": "active",
+"sub": "Lockheed Martin; author of record for the AAWSAP ultracapacitors DIRD. Given name not established in any source consulted.",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 923 of 1027, score 13). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D0.",
+"timeline": [],
+"unexplainedResidual": null,
+"unverified": []
+}

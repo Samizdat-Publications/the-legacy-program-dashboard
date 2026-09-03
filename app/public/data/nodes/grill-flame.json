@@ -1,0 +1,144 @@
+{
+"A": 3,
+"C": 0,
+"D": 2,
+"band": null,
+"claims": [
+{
+"source": "CIA STARGATE collection description",
+"text": "GRILL FLAME and its successors were classified US government programmes handled primarily by DIA and CIA from the 1970s to 1995, whose documentation CIA compiled and released as the STARGATE collection.",
+"tier": 1
+},
+{
+"source": "Inference from the documented funding chain (CIA OTS to INSCOM to DIA), the SRI hosting arrangement, and the 1995 forced declassification.",
+"text": "GRILL FLAME establishes the behavioural precedent for the legacy programme thesis: sustained compartmented funding of an officially ridiculed subject, routed through a private research institute, denied until documents forced acknowledgement.",
+"tier": 3
+}
+],
+"cls": "program",
+"cluster": "ic",
+"connections": [
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": "1983",
+"dateStart": "1983",
+"direction": "out",
+"edgeLabel": "CENTER LANE succeeded GRILL FLAME after the codename was compromised",
+"id": "center-lane",
+"l0": false,
+"label": "CENTER LANE",
+"note": "Codeword churn on compromise is standard practice; the effort was continuous across the renaming.",
+"sources": [
+{
+"date": "2020-12-16",
+"name": "The Stargate Collection - CIA Program on Remote Viewing",
+"url": "https://www.theblackvault.com/documentarchive/the-stargate-collection/"
+}
+],
+"tier": "B",
+"type": "programmatic"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "GRILL FLAME was INSCOM's entry into the field in 1977",
+"id": "inscom",
+"l0": true,
+"label": "US Army Intelligence and Security Command (INSCOM)",
+"note": "The 4 April 1984 GDIP memorandum dates USAINSCOM's exploitation of psychoenergetics to Project GRILL FLAME in 1977, and a 1978 talking paper is titled INSCOM Involvement in Remote Viewing (DoD Project GRILL FLAME).",
+"sources": [
+{
+"date": "1984-04-04",
+"name": "CENTER LANE FY 86 - 90 GDIP Submission (U), 4 April 1984",
+"url": "https://archive.org/download/cia-readingroom-document-cia-rdp96-00788r001600450002-5/cia-rdp96-00788r001600450002-5_djvu.txt"
+}
+],
+"tier": "A",
+"type": "programmatic"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "1983",
+"dateStart": "1978",
+"direction": "in",
+"edgeLabel": "SRI methodology transferred into the Army/DIA GRILL FLAME programme",
+"id": "sri-international",
+"l0": true,
+"label": "SRI International (Stanford Research Institute)",
+"note": "GRILL FLAME formalised operational remote viewing at Fort Meade using the SRI protocols, with SRI continuing as the research contractor.",
+"sources": [
+{
+"date": "2020-12-16",
+"name": "The Stargate Collection - CIA Program on Remote Viewing",
+"url": "https://www.theblackvault.com/documentarchive/the-stargate-collection/"
+},
+{
+"date": "1978-11-01",
+"name": "'Standard Remote Viewing Protocol (Local Targets)' by Harold E. Puthoff and Russell Targ, November 1978 (declassified)",
+"url": "https://www.theblackvault.com/documentarchive/standard-remote-viewing-protocol-local-targets-by-dr-harold-e-puthoff-and-russell-targ-november-1978/"
+}
+],
+"tier": "B",
+"type": "funding"
+}
+],
+"coords": null,
+"dateEnd": "1983",
+"dateStart": "1978",
+"deg": 3,
+"denials": [],
+"desc": "GRILL FLAME was the codename under which the Army's Intelligence and Security Command and the Defense Intelligence Agency formalised operational remote viewing at Fort Meade from 1978, drawing methodology directly from the SRI work of Puthoff and Targ. It was a real, funded, compartmented intelligence programme with tasked operational missions, and its documentation - together with that of its successors - forms the bulk of the roughly 12,000-page STARGATE corpus that CIA declassified in 1995. GRILL FLAME matters to this board for reasons that have nothing to do with whether remote viewing works. It is the proof that the US intelligence community will fund, compartment, staff and operationally task a programme in a domain it publicly treats as absurd, for over a decade, through a private research institute, and will only acknowledge it when forced. That is precisely the behavioural profile the legacy programme thesis predicts, demonstrated in a case where the documents were eventually released.",
+"domains": [
+"history-1970s-2000s"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "1",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "grill-flame",
+"l0": false,
+"label": "GRILL FLAME",
+"locLabel": null,
+"members": null,
+"short": "GRILL FLAME",
+"sources": [
+{
+"date": "2020-12-16",
+"name": "The Stargate Collection - CIA Program on Remote Viewing",
+"url": "https://www.theblackvault.com/documentarchive/the-stargate-collection/"
+},
+{
+"date": "1978-11-01",
+"name": "'Standard Remote Viewing Protocol (Local Targets)' by Harold E. Puthoff and Russell Targ, November 1978 (declassified)",
+"url": "https://www.theblackvault.com/documentarchive/standard-remote-viewing-protocol-local-targets-by-dr-harold-e-puthoff-and-russell-targ-november-1978/"
+},
+{
+"date": "1974-10-18",
+"name": "R. Targ & H. Puthoff, 'Information transmission under conditions of sensory shielding', Nature 251, 602-607",
+"url": "https://www.nature.com/articles/251602a0"
+}
+],
+"sub": "Army INSCOM/DIA remote-viewing program, 1978-1983",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 503 of 1027, score 29). 3 connections, 3 of them custody/witness/funding/programmatic. Axes C0/A3/D2.",
+"timeline": [
+{
+"date": "1978-01-01",
+"id": "t-1978-grillflame",
+"label": "GRILL FLAME formalised",
+"precision": "year",
+"strand": "program",
+"text": "Army INSCOM and DIA formalise operational remote viewing at Fort Meade using SRI methodology - the first of four codenames for one continuous seventeen-year effort.",
+"tier": "A"
+}
+]
+}

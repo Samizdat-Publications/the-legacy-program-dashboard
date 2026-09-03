@@ -1,0 +1,72 @@
+{
+"A": 2,
+"C": 1,
+"D": 0,
+"band": null,
+"claims": [
+{
+"source": "USAspending.gov recipient search, retrieved 12 August 2026",
+"text": "USAspending records approximately $2.6 billion in prime contract obligations to Radiance Technologies Inc. since FY2008.",
+"tier": 1
+}
+],
+"cls": "institution",
+"cluster": "contractor",
+"connections": [
+{
+"claimTier": 3,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2008",
+"direction": "out",
+"edgeLabel": "Radiance is a mid-tier technical prime in the space where compartmented analytical tasks are placed",
+"id": "dia",
+"l0": true,
+"label": "Defense Intelligence Agency",
+"note": "Reasoning: roughly $2.6 billion in prime obligations since FY2008 across intelligence, sensors and advanced concepts. Radiance recurs in UAP-adjacent reporting as an employer of personnel who moved between government UAP work and industry, but no primary personnel record has been located and none is asserted.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "USAspending.gov federal award search (prime contract obligations by recipient)",
+"url": "https://www.usaspending.gov/search"
+}
+],
+"tier": "A",
+"type": "funding"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "1999",
+"deg": 1,
+"denials": [],
+"desc": "Radiance Technologies is an employee-owned defense engineering firm headquartered in Huntsville, Alabama, working across intelligence analysis, directed energy, sensors and advanced concepts for the Army, Missile Defense Agency and intelligence community. USAspending records roughly $2.6 billion in prime contract obligations to Radiance Technologies since FY2008 - small beside the primes, large for a firm of its size, and concentrated in exactly the mid-tier technical space where a compartmented analytical task would be placed if the objective were to keep it away from a household-name contractor's compliance apparatus. Radiance recurs in UAP-adjacent reporting as an employer of personnel who moved between government UAP work and industry, but the board has not located a primary personnel record establishing any specific individual's tenure, and does not assert one. What is documented is the contract volume and the technical portfolio. This entry is deliberately thin and flagged as a research gap rather than padded with unsourced association.",
+"domains": [
+"primes-custody"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "1",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "radiance-technologies",
+"l0": false,
+"label": "Radiance Technologies, Inc.",
+"locLabel": null,
+"members": null,
+"short": "Radiance Technologies, Inc.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "USAspending.gov federal award search (prime contract obligations by recipient)",
+"url": "https://www.usaspending.gov/search"
+}
+],
+"sub": "Employee-owned Huntsville defense contractor",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 835 of 1027, score 17). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A2/D0.",
+"timeline": []
+}

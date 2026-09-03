@@ -1,0 +1,148 @@
+{
+"A": 0,
+"C": 0,
+"D": 3,
+"band": null,
+"claims": [
+{
+"source": "The Astronomical Journal, DOI 10.3847/1538-3881/ab570f",
+"text": "Villarroel et al. published the VASCO project methodology in The Astronomical Journal on 12 December 2019.",
+"tier": 1
+},
+{
+"source": "Scientific Reports, DOI 10.1038/s41598-021-92162-7",
+"text": "Villarroel, Marcy, Geier, Streblyanska and Solano published 'Exploring nine simultaneously occurring transients on April 12th 1950' in Scientific Reports on 17 June 2021.",
+"tier": 1
+},
+{
+"source": "Acta Astronautica, DOI 10.1016/j.actaastro.2022.01.039",
+"text": "Villarroel, Mattsson, Guergouri, Solano and Geier published 'A glint in the eye: Photographic plate archive searches for non-terrestrial artefacts' in Acta Astronautica in May 2022.",
+"tier": 1
+},
+{
+"source": "Scientific Reports, DOI 10.1038/s41598-025-21620-3",
+"text": "Bruehl and Villarroel published 'Transients in the Palomar Observatory Sky Survey (POSS-I) may be associated with nuclear testing and reports of unidentified anomalous phenomena' in Scientific Reports on 20 October 2025, following a preprint of 25 July 2025.",
+"tier": 1
+}
+],
+"cls": "program",
+"cluster": "research",
+"connections": [
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "2019",
+"direction": "in",
+"edgeLabel": "Principal investigator",
+"id": "beatriz-villarroel",
+"l0": false,
+"label": "Beatriz Villarroel",
+"note": "VASCO compares POSS-I plates exposed 1949-1957 against modern surveys; the pre-Sputnik exposure dates remove the satellite-glint confound entirely.",
+"sources": [
+{
+"date": "2021-06-17",
+"name": "Villarroel, Marcy, Geier et al., 'Exploring nine simultaneously occurring transients on April 12th 1950', Scientific Reports",
+"url": "https://doi.org/10.1038/s41598-021-92162-7"
+},
+{
+"date": "2025-10-20",
+"name": "Bruehl & Villarroel, 'Transients in the Palomar Observatory Sky Survey (POSS-I) may be associated with nuclear testing and reports of unidentified anomalous phenomena', Scientific Reports",
+"url": "https://doi.org/10.1038/s41598-025-21620-3"
+}
+],
+"tier": "C",
+"type": "programmatic"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2026",
+"direction": "in",
+"edgeLabel": "Sol Briefing No. 1 (January 2026) is built on the pre-satellite-era plate evidence",
+"id": "sol-foundation",
+"l0": true,
+"label": "The Sol Foundation",
+"note": "'Robust Evidence of Unidentified Anomalous Phenomena in Pre-Satellite Era Night-Sky Images' translated the VASCO results into a policy artefact aimed at Congress.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "The Sol Foundation - White Papers and Policy Briefings index",
+"url": "https://thesolfoundation.org/white-papers/"
+},
+{
+"date": "2025-10-20",
+"name": "Bruehl & Villarroel, 'Transients in the Palomar Observatory Sky Survey (POSS-I) may be associated with nuclear testing and reports of unidentified anomalous phenomena', Scientific Reports",
+"url": "https://doi.org/10.1038/s41598-025-21620-3"
+}
+],
+"tier": "A",
+"type": "investigative"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "2019",
+"deg": 2,
+"denials": [],
+"desc": "VASCO compares the Palomar Observatory Sky Survey plates, exposed between 1949 and 1957, against modern digital sky surveys, hunting for point sources present in the historical plates and absent today. Its methodological power is a matter of dates: the POSS-I plates predate the first artificial satellite, so a genuine star-like transient on them cannot be a satellite glint, which removes the single largest confound in any modern optical-transient search. The project published its methodology in The Astronomical Journal in December 2019; reported nine simultaneously occurring transients on a single plate from 12 April 1950 in Scientific Reports in June 2021; and argued in Acta Astronautica in May 2022 ('A glint in the eye') that photographic plate archives constitute a viable search space for non-terrestrial artefacts. On 20 October 2025 Stephen Bruehl and Beatriz Villarroel published in Scientific Reports the finding that POSS-I transients may be associated with above-ground nuclear testing and with contemporaneous reports of unidentified anomalous phenomena. That result is the most important peer-reviewed development of 2025 for this board's historical premise: it produces, in a Nature-portfolio journal and from a physical archive outside any government's classification authority, a statistical association between the American atomic-weapons complex and anomalous optical transients over the United States in the exact years the legacy programme is alleged to have begun. The Sol Foundation made it Policy Briefing No. 1 in January 2026.",
+"domains": [
+"scientists-technical"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "vasco-project",
+"l0": false,
+"label": "VASCO - Vanishing and Appearing Sources during a Century of Observations",
+"locLabel": null,
+"members": null,
+"short": "VASCO - Vanishing and Appearing Sources during a Century of Observations",
+"sources": [
+{
+"date": "2019-12-12",
+"name": "Villarroel et al., 'The Vanishing and Appearing Sources during a Century of Observations Project. I.', The Astronomical Journal",
+"url": "https://doi.org/10.3847/1538-3881/ab570f"
+},
+{
+"date": "2021-06-17",
+"name": "Villarroel, Marcy, Geier et al., 'Exploring nine simultaneously occurring transients on April 12th 1950', Scientific Reports",
+"url": "https://doi.org/10.1038/s41598-021-92162-7"
+},
+{
+"date": "2022-05-01",
+"name": "Villarroel, Mattsson, Guergouri, Solano, Geier et al., 'A glint in the eye: Photographic plate archive searches for non-terrestrial artefacts', Acta Astronautica",
+"url": "https://doi.org/10.1016/j.actaastro.2022.01.039"
+},
+{
+"date": "2025-10-20",
+"name": "Bruehl & Villarroel, 'Transients in the Palomar Observatory Sky Survey (POSS-I) may be associated with nuclear testing and reports of unidentified anomalous phenomena', Scientific Reports",
+"url": "https://doi.org/10.1038/s41598-025-21620-3"
+},
+{
+"date": "2026-08-12",
+"name": "The Sol Foundation - White Papers and Policy Briefings index",
+"url": "https://thesolfoundation.org/white-papers/"
+}
+],
+"sub": "Photographic plate archive search led by Beatriz Villarroel",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 683 of 1027, score 23). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D3.",
+"timeline": [
+{
+"date": "2021-06-17",
+"id": "st-2021-06-17",
+"label": "Nine transients on a 1950 plate",
+"precision": "day",
+"strand": "program",
+"text": "Villarroel and colleagues report nine simultaneously occurring transients on a single Palomar plate from 12 April 1950 in Scientific Reports.",
+"tier": "A"
+}
+]
+}

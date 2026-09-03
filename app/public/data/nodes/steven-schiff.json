@@ -1,0 +1,316 @@
+{
+"A": 1,
+"C": 0,
+"D": 3,
+"affiliations": [
+"US House of Representatives, NM-01 (1989-1998)",
+"House Judiciary Committee",
+"House Science Committee",
+"US House of Representatives, New Mexico 1st district (1989-1998)"
+],
+"age": null,
+"band": null,
+"chronology": [
+{
+"date": "1993-01-01",
+"event": "Begins seeking Roswell records from the Department of Defense after constituent inquiries",
+"precision": "year"
+},
+{
+"date": "1993-01-01",
+"event": "Requests DoD information on the 1947 Roswell events; is referred to NARA.",
+"precision": "year"
+},
+{
+"date": "1994-01-01",
+"event": "Directs GAO to conduct a government-wide records search.",
+"precision": "year"
+},
+{
+"date": "1994-03-01",
+"event": "Directs GAO to conduct a records search; GAO work begins",
+"precision": "month"
+},
+{
+"date": "1994-09-08",
+"event": "Air Force issues its report attributing the Roswell debris to Project MOGUL",
+"precision": "day"
+},
+{
+"date": "1995-07-28",
+"event": "GAO/NSIAD-95-187 issued, reporting the destruction of RAAF records without disposition authority",
+"precision": "day"
+},
+{
+"date": "1995-07-28",
+"event": "GAO issues GAO/NSIAD-95-187 to Schiff.",
+"precision": "day"
+},
+{
+"date": "1998-03-25",
+"event": "Dies of squamous cell carcinoma at age 51",
+"precision": "day"
+},
+{
+"date": "1998-03-25",
+"event": "Dies in office.",
+"precision": "day"
+}
+],
+"claims": [
+{
+"source": "GAO/NSIAD-95-187, letter of transmittal and scope section",
+"text": "GAO conducted its Roswell records review at the request of Representative Steven H. Schiff, working from March 1994 to June 1995.",
+"tier": 1
+},
+{
+"source": "GAO/NSIAD-95-187, p.3",
+"text": "'RAAF outgoing messages (from Oct. 1946 through Dec. 1949) were destroyed.'",
+"tier": 1
+},
+{
+"source": "GAO/NSIAD-95-187, p.3",
+"text": "'The document disposition form does not indicate what organization or person destroyed the records and when or under what authority the records were destroyed.'",
+"tier": 1
+},
+{
+"source": "GAO/NSIAD-95-187, p.3",
+"text": "RAAF administrative records from March 1945 through December 1949 were also destroyed.",
+"tier": 1
+},
+{
+"source": "GAO/NSIAD-95-187, p.6",
+"text": "The CIA's Executive Director told GAO that a search against the term 'Roswell, New Mexico' in all CIA databases produced no CIA documents related to the crash.",
+"tier": 1
+},
+{
+"source": "GAO/NSIAD-95-187, 'Government Records: Results of a Search for Records Concerning the 1947 Crash Near Roswell, New Mexico,' 28 July 1995",
+"text": "GAO reported that RAAF administrative records (March 1945-December 1949) and RAAF outgoing messages (October 1946-December 1949) were destroyed, and that 'the document disposition form does not indicate what organization or person destroyed the records and when or under what authority the records were destroyed.'",
+"tier": 1
+},
+{
+"source": "GAO/NSIAD-95-187",
+"text": "GAO's search for government records concerning the Roswell crash 'yielded two records originating in 1947.'",
+"tier": 1
+},
+{
+"source": "GAO/NSIAD-95-187, appendix",
+"text": "GAO's list of records searched includes 'National Security Agency, Fort Meade, Md. - FOIA records, Citizens Against UFO Secrecy.'",
+"tier": 1
+}
+],
+"cls": "person",
+"cluster": "oversight",
+"conflicts": [
+"The Air Force's own 1994-1997 Roswell reports attributed the events to Project MOGUL and anthropomorphic test dummies; GAO made no finding on the cause and confined itself to the records."
+],
+"connections": [
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "1995-07-28",
+"dateStart": "1994",
+"direction": "in",
+"edgeLabel": "GAO conducted the Roswell records search at Rep. Schiff's request",
+"id": "gao",
+"l0": false,
+"label": "Government Accountability Office",
+"note": "Schiff turned to GAO after the Air Force declined to answer him directly; GAO/NSIAD-95-187 is the result.",
+"sources": [
+{
+"date": "1995-07-28",
+"name": "GAO/NSIAD-95-187",
+"url": "https://www.gao.gov/assets/nsiad-95-187.pdf"
+}
+],
+"tier": "C",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "1995",
+"dateStart": "1994",
+"direction": "out",
+"edgeLabel": "Schiff tasked GAO after DoD refused to answer him",
+"id": "gao-nsiad-95-187",
+"l0": true,
+"label": "GAO/NSIAD-95-187 — Results of a Search for Records Concerning the 1947 Crash Near Roswell",
+"note": "A single member of Congress used the legislature's audit arm to go around an executive agency, producing the records-destruction finding no executive review has ever addressed.",
+"sources": [
+{
+"date": "1995-07-28",
+"name": "GAO/NSIAD-95-187 (landing page)",
+"url": "https://www.gao.gov/products/nsiad-95-187"
+},
+{
+"date": "1995-07-28",
+"name": "GAO/NSIAD-95-187 (full PDF)",
+"url": "https://www.gao.gov/assets/nsiad-95-187.pdf"
+}
+],
+"tier": "B",
+"type": "legislative"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "1995",
+"dateStart": "1994",
+"direction": "out",
+"edgeLabel": "Schiff directed GAO to conduct the government-wide records search",
+"id": "gao-roswell-report-1995",
+"l0": false,
+"label": "GAO/NSIAD-95-187, Government Records: Results of a Search for Records Concerning the 1947 Crash Near Roswell, New Mexico",
+"note": "GAO issued GAO/NSIAD-95-187 to Schiff on 28 July 1995 after DoD referred his 1993 inquiry to the National Archives instead of answering it.",
+"sources": [
+{
+"date": "1995-07-28",
+"name": "GAO/NSIAD-95-187, 'Government Records: Results of a Search for Records Concerning the 1947 Crash Near Roswell, New Mexico'",
+"url": "https://www.govinfo.gov/content/pkg/GAOREPORTS-NSIAD-95-187/html/GAOREPORTS-NSIAD-95-187.htm"
+}
+],
+"tier": "C",
+"type": "legislative"
+},
+{
+"claimTier": 1,
+"cls": "location",
+"dateEnd": "1995",
+"dateStart": "1993",
+"direction": "out",
+"edgeLabel": "Schiff's New Mexico district inquiry produced the GAO Roswell audit",
+"id": "l-albuquerque",
+"l0": false,
+"label": "Albuquerque, New Mexico",
+"note": "Rep. Steven H. Schiff of New Mexico asked GAO to search federal records after the Defense Department declined to answer his Roswell inquiries, producing GAO/NSIAD-95-187.",
+"sources": [
+{
+"date": "1995-07-28",
+"name": "GAO/NSIAD-95-187",
+"url": "https://www.gao.gov/products/nsiad-95-187"
+}
+],
+"tier": "B",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "1997",
+"dateStart": "1994",
+"direction": "out",
+"edgeLabel": "Schiff's inquiry forced the Air Force to abandon the weather balloon story",
+"id": "usaf-roswell-reports",
+"l0": false,
+"label": "The Roswell Reports (USAF, 1994-1997)",
+"note": "Both Roswell Reports state they were produced in response to Rep. Schiff's inquiry. The 1994-1995 volume conceded that the 1947 weather balloon explanation was false.",
+"sources": [
+{
+"date": "1995-01-01",
+"name": "USAF, The Roswell Report: Fact vs. Fiction (1995)",
+"url": "https://archive.org/details/DTIC_ADA326148"
+},
+{
+"date": "1995-07-28",
+"name": "GAO/NSIAD-95-187",
+"url": "https://www.gao.gov/assets/nsiad-95-187.pdf"
+}
+],
+"tier": "B",
+"type": "legislative"
+}
+],
+"date": "1995-07-28",
+"dateEnd": null,
+"dateStart": "1995-07-28",
+"deg": 5,
+"denials": [],
+"domains": [
+"history-1940s-1960s",
+"history-1970s-2000s"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "1",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "steven-schiff",
+"instId": "oversight-congress",
+"l0": false,
+"label": "Steven H. Schiff",
+"loc": "Albuquerque, NM",
+"locId": "l-dc",
+"members": null,
+"narrative": "Schiff is the proof that a single member of Congress asking a records question can produce a durable federal finding. Representing New Mexico's first district, he requested information from the Department of Defense about the 1947 Roswell events in 1993, was routed to the National Archives rather than given an answer, and responded by directing the General Accounting Office to conduct a formal search of government records. GAO reported to him in July 1995 as GAO/NSIAD-95-187. Its finding is the one that matters and is still cited three decades later: Roswell Army Air Field administrative records from March 1945 through December 1949 and RAAF outgoing messages from October 1946 through December 1949 had been destroyed, and 'the document disposition form does not indicate what organization or person destroyed the records and when or under what authority the records were destroyed.' GAO also recorded that only two government records originating in 1947 could be located. Schiff had asked for the paper trail and GAO told him, in the flat language of an audit agency, that the paper trail covering the relevant period had been eliminated by persons unknown under authority unknown. He died in 1998.",
+"photoCredit": null,
+"sequenceChain": [
+{
+"date": "1993-01-01",
+"event": "Begins seeking Roswell records from the Department of Defense after constituent inquiries",
+"isAnomalous": false,
+"source": null
+},
+{
+"date": "1994-03-01",
+"event": "Directs GAO to conduct a records search; GAO work begins",
+"isAnomalous": false,
+"source": "GAO/NSIAD-95-187, letter of transmittal and scope section"
+},
+{
+"date": "1994-09-08",
+"event": "Air Force issues its report attributing the Roswell debris to Project MOGUL",
+"isAnomalous": false,
+"source": null
+},
+{
+"date": "1995-07-28",
+"event": "GAO/NSIAD-95-187 issued, reporting the destruction of RAAF records without disposition authority",
+"isAnomalous": true,
+"source": "GAO/NSIAD-95-187, p.3"
+}
+],
+"short": "Steven H. Schiff",
+"sources": [
+{
+"date": "1995-07-28",
+"name": "GAO/NSIAD-95-187 (landing page)",
+"url": "https://www.gao.gov/products/nsiad-95-187"
+},
+{
+"date": "1995-07-28",
+"name": "GAO/NSIAD-95-187 (full PDF)",
+"url": "https://www.gao.gov/assets/nsiad-95-187.pdf"
+},
+{
+"date": "1995-07-28",
+"name": "GAO/NSIAD-95-187, 'Government Records: Results of a Search for Records Concerning the 1947 Crash Near Roswell, New Mexico'",
+"url": "https://www.govinfo.gov/content/pkg/GAOREPORTS-NSIAD-95-187/html/GAOREPORTS-NSIAD-95-187.htm"
+},
+{
+"date": "2019-09-16",
+"name": "Clinton Digital Library, FOIA collection 2006-0476-F, 'New Mexico Roswell'",
+"url": "https://clinton.presidentiallibraries.us/items/show/36328"
+}
+],
+"status": "dead",
+"sub": "US Representative, New Mexico (R)",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 266 of 1027, score 38). 5 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D3.",
+"timeline": [
+{
+"date": "1994-01-01",
+"id": "t-1994-schiff",
+"label": "Rep. Schiff directs GAO to search the records",
+"precision": "year",
+"strand": "oversight",
+"text": "After DoD refers his Roswell inquiry to the National Archives rather than answering it, Representative Steven Schiff orders a government-wide GAO records audit.",
+"tier": "A"
+}
+],
+"unexplainedResidual": "No agency has ever produced a disposition authority for the destroyed RAAF message traffic, and no accountability review of that destruction has been conducted in the thirty-one years since GAO reported it.",
+"unverified": []
+}

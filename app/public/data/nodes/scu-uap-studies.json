@@ -1,0 +1,201 @@
+{
+"A": 0,
+"C": 0,
+"D": 3,
+"band": null,
+"claims": [
+{
+"source": "SCU, Zenodo DOI 10.5281/zenodo.7844175",
+"text": "SCU published '2013 Aguadilla Puerto Rico UAP: The detailed analysis of an Unidentified Anomalous Phenomenon captured by the Department of Homeland Security' by Powell, Beall, Cates, Paulson and Hoffman.",
+"tier": 1
+},
+{
+"source": "SCU, Zenodo DOI 10.5281/zenodo.10287332",
+"text": "SCU published 'The Reported Shape, Size, Kinematics, Electromagnetic Effects, and Presence of Sound of Unidentified Aerial Phenomena' by Powell, Little, Hancock, Hasan and Truong on 7 December 2023.",
+"tier": 1
+},
+{
+"source": "SCU Zenodo record, DOI 10.5281/zenodo.7758498 and DOI 10.5281/zenodo.16299623",
+"text": "SCU's Hancock, Porritt and Grosvenor series analysing UAP activity against the United States atomic warfare complex 1945-1975 runs from 2023 through 'UAP Operational Presence 1945-1975' in April 2026.",
+"tier": 1
+},
+{
+"source": "explorescu.org",
+"text": "SCU is a registered 501(c)(3) charitable organisation.",
+"tier": 1
+}
+],
+"cls": "institution",
+"cluster": "research",
+"connections": [
+{
+"claimTier": 1,
+"cls": "domain",
+"dateEnd": null,
+"dateStart": "2010",
+"direction": "out",
+"edgeLabel": "Builds the documentary counterpart to the physical-sample record",
+"id": "d-materials",
+"l0": false,
+"label": "Materials and custody analysis",
+"note": "SCU's Hancock-Porritt-Grosvenor series correlating 1945-1975 UAP activity with the United States atomic warfare complex runs in parallel to the VASCO plate work on the same period.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Scientific Coalition for UAP Studies",
+"url": "https://www.explorescu.org/"
+}
+],
+"tier": "B",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "2025-06-08",
+"dateStart": "2025-06-06",
+"direction": "in",
+"edgeLabel": "SCU's inaugural Distinguished Scholar Award, June 2025 - recognition, not an office",
+"id": "kevin-knuth",
+"l0": false,
+"label": "Kevin H. Knuth",
+"note": "Presented at SCU's Sixth Annual Conference, Von Braun Center, Huntsville, Alabama, 6-8 June 2025, by SCU Executive Board member Rich Hoffman, who said: 'Dr. Knuth's leadership in advancing empirical, interdisciplinary UAP research exemplifies the mission of SCU.' IMPORTANT SCOPE LIMIT: this pass found no evidence that Knuth holds an SCU board seat, officer post or executive role. The board's pre-existing SCU connection to this cluster runs through Robert Powell, an SCU founding board member and Knuth's co-author on the 2019 Entropy paper. The award is a recognition edge, and is labelled as one.",
+"sources": [
+{
+"date": "2025-06-27",
+"name": "SCU press release, 'Scientific Coalition for UAP Studies honors Dr. Kevin Knuth with inaugural Distinguished Scholar Award'",
+"url": "https://www.explorescu.org/post/scientific-coalition-for-uap-studies-honors-dr-kevin-knuth-with-inaugural-distinguished-scholar-awa"
+}
+],
+"tier": "C",
+"type": "research"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2025",
+"direction": "in",
+"edgeLabel": "Publishes the SCU atomic-warfare-complex analyses",
+"id": "limina-journal",
+"l0": false,
+"label": "Limina - The Journal of UAP Studies",
+"note": "Grosvenor, Hancock and Porritt's 'UAP Indications Analysis 1945-1975 United States Atomic Warfare Complex' appeared in Limina in March 2025 with a DOI.",
+"sources": [
+{
+"date": "2025-03-07",
+"name": "Matthew Szydagis, 'How much time do we have before catastrophic disclosure occurs?', Limina - The Journal of UAP Studies",
+"url": "https://doi.org/10.59661/001c.131700"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "2010",
+"direction": "in",
+"edgeLabel": "Founding board member; author of the Stephenville and Aguadilla studies",
+"id": "robert-powell",
+"l0": false,
+"label": "Robert M. Powell",
+"note": "Powell established SCU's method: obtain the primary federal sensor record by FOIA, reconstruct it quantitatively, deposit it with a DOI.",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Scientific Coalition for UAP Studies",
+"url": "https://www.explorescu.org/"
+},
+{
+"date": "2015-08-06",
+"name": "Powell, Beall, Cates, Paulson & Hoffman, '2013 Aguadilla Puerto Rico UAP', SCU (Zenodo)",
+"url": "https://doi.org/10.5281/zenodo.7844175"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "2023",
+"direction": "in",
+"edgeLabel": "SCU board member and co-author of the 2023 characteristics study",
+"id": "sarah-little",
+"l0": false,
+"label": "Sarah Little",
+"note": "Little is one of the few researchers who publishes with both SCU and the Galileo Project, which is a measure of how small the actual civil analytical bench is.",
+"sources": [
+{
+"date": "2023-12-07",
+"name": "Powell, Little, Hancock, Hasan & Truong, 'The Reported Shape, Size, Kinematics, Electromagnetic Effects, and Presence of Sound of Unidentified Aerial Phenomena', SCU (Zenodo)",
+"url": "https://doi.org/10.5281/zenodo.10287332"
+},
+{
+"date": "2025-11-26",
+"name": "Vervelidou, Delacroix, Domine, Kelderman, Little et al., 'The deployment of a geomagnetic variometer station as auxiliary instrumentation for the study of Unidentified Aerial Phenomena', Geoscientific Instrumentation, Methods and Data Systems 14:335",
+"url": "https://doi.org/10.5194/gi-14-335-2025"
+}
+],
+"tier": "C",
+"type": "institutional"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "2017",
+"deg": 5,
+"denials": [],
+"desc": "The Scientific Coalition for UAP Studies describes itself as 'a think tank of scientists, former military and law enforcement officials and other professionals who seek evidence based answers to UAP questions' and is a registered 501(c)(3). Its distinguishing practice is procedural: obtain the primary government sensor record by FOIA, reconstruct the event quantitatively, and deposit the study on Zenodo with a DOI so that it is time-stamped and citable rather than a PDF on a website. The resulting corpus is substantial - the 2010 Stephenville radar and witness study by Robert Powell and Glen Schulze; the 2015 analysis by Powell, Beall, Cates, Paulson and Hoffman of thermal imagery captured by a Department of Homeland Security Customs and Border Protection aircraft over Aguadilla, Puerto Rico in April 2013; Peter Reali's 2022 forensic analysis of the 'Rubber Duck' video; the 2023 Powell, Little, Hancock, Hasan and Truong study of reported shape, size, kinematics, electromagnetic effects and sound; Stephen Bruehl's 2025 cluster analysis of 216 selected reports; and the multi-year Hancock, Porritt and Grosvenor series correlating 1945-1975 UAP activity with the United States atomic warfare complex, including 'UAP Operational Presence 1945-1975' in April 2026. SCU personnel appear across the rest of the technical layer: Powell co-authored the Entropy kinematics paper with Knuth, and Sarah Little co-authors with both SCU and the Galileo Project.",
+"domains": [
+"scientists-technical"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "scu-uap-studies",
+"l0": false,
+"label": "Scientific Coalition for UAP Studies (SCU)",
+"locLabel": null,
+"members": null,
+"short": "Scientific Coalition for UAP Studies (SCU)",
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Scientific Coalition for UAP Studies",
+"url": "https://www.explorescu.org/"
+},
+{
+"date": "2015-08-06",
+"name": "Powell, Beall, Cates, Paulson & Hoffman, '2013 Aguadilla Puerto Rico UAP', SCU (Zenodo)",
+"url": "https://doi.org/10.5281/zenodo.7844175"
+},
+{
+"date": "2023-12-07",
+"name": "Powell, Little, Hancock, Hasan & Truong, 'The Reported Shape, Size, Kinematics, Electromagnetic Effects, and Presence of Sound of Unidentified Aerial Phenomena', SCU (Zenodo)",
+"url": "https://doi.org/10.5281/zenodo.10287332"
+},
+{
+"date": "2023-07-20",
+"name": "Hancock, Porritt & Grosvenor, 'UAP Indications Analysis 1945-1975 United States Atomic Warfare Complex', SCU (Zenodo)",
+"url": "https://doi.org/10.5281/zenodo.7758498"
+},
+{
+"date": "2026-04-01",
+"name": "Porritt, Hancock & Grosvenor, 'UAP Operational Presence 1945-1975', SCU (Zenodo)",
+"url": "https://doi.org/10.5281/zenodo.16299623"
+}
+],
+"sub": "501(c)(3) research think tank; FOIA-driven sensor-record analysis with DOI-stamped publication",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 682 of 1027, score 23). 5 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.",
+"timeline": []
+}

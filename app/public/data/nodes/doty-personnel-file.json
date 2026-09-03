@@ -1,0 +1,82 @@
+{
+"A": 1,
+"C": 0,
+"D": 2,
+"band": null,
+"claims": [
+{
+"source": "The Black Vault release of the Doty personnel file, 20 May 2021",
+"text": "Doty's complete releasable New Mexico State Police personnel file runs to 321 pages and was obtained under NMSA 14-2-1 et seq., with redactions applied by the New Mexico Department of Public Safety.",
+"tier": 1
+}
+],
+"cls": "document",
+"cluster": "other",
+"connections": [
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "2021",
+"dateStart": "2021",
+"direction": "in",
+"edgeLabel": "321-page New Mexico State Police personnel file released 2021",
+"id": "richard-doty",
+"l0": false,
+"label": "Richard C. Doty",
+"note": "Obtained under NMSA 14-2-1 et seq. after federal channels produced nothing; state public-records law delivered what FOIA did not.",
+"sources": [
+{
+"date": "2021-05-20",
+"name": "Richard Doty Personnel File - New Mexico State Police [321 pages], NM Inspection of Public Records Act release",
+"url": "https://www.theblackvault.com/documentarchive/richard-doty-personnel-file-new-mexico-state-police/"
+}
+],
+"tier": "B",
+"type": "institutional"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "2021",
+"deg": 1,
+"denials": [],
+"desc": "The complete releasable personnel file of Richard C. Doty from his service as a New Mexico State Police officer, 321 pages, obtained under the New Mexico Inspection of Public Records Act (NMSA 14-2-1 et seq.) and published in May 2021 after redaction by the New Mexico Department of Public Safety. It is the only substantial documentary record of the post-AFOSI career of the only US counterintelligence officer to admit running UFO disinformation against American civilians. Its significance is corroborative rather than revelatory: it establishes Doty as a real, traceable law-enforcement employee with a documented service history rather than a self-invented figure, which matters because the standard institutional response to the Bennewitz record has been to treat all of its participants as unreliable narrators. State public-records law produced what federal FOIA has never produced on this subject: a complete personnel file.",
+"domains": [
+"history-1970s-2000s"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "doty-personnel-file",
+"l0": false,
+"label": "Richard Doty New Mexico State Police Personnel File [321 pages]",
+"locLabel": null,
+"members": null,
+"short": "Richard Doty New Mexico State Police Personnel File [321 pages]",
+"sources": [
+{
+"date": "2021-05-20",
+"name": "Richard Doty Personnel File - New Mexico State Police [321 pages], NM Inspection of Public Records Act release",
+"url": "https://www.theblackvault.com/documentarchive/richard-doty-personnel-file-new-mexico-state-police/"
+}
+],
+"sub": "Released under the New Mexico Inspection of Public Records Act, 2021",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 966 of 1027, score 11). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D2.",
+"timeline": [
+{
+"date": "2021-05-20",
+"id": "t-2021-doty",
+"label": "Doty personnel file published",
+"precision": "day",
+"strand": "coverup",
+"text": "A 321-page New Mexico State Police personnel file for Richard Doty is released under state public-records law - documentation federal FOIA never produced.",
+"tier": "A"
+}
+]
+}
