@@ -14,8 +14,11 @@ longer true.
 `python3 tools/state_snapshot.py --gate` — it derives every number from source and runs
 the gate. The counts below are a sanity anchor, not a source of truth.
 
-**Starting a fresh session?** Read `notes/HANDOFF-2026-09-01.md` after this. **It is the
-current one.** Then `notes/RETHINK-2026-09-02.md`: on 2 September Stewart asked for the
+**Starting a fresh session?** Read `notes/HANDOFF-2026-09-03.md` after this. **It is the
+current one.** It carries the two boards side by side (the old shell in `dist/`, the new
+shell in `app/` on its review site), the gate for each, the deploy recipe, and the ordered
+next steps. `notes/HANDOFF-2026-09-01.md` is the one before it and is still accurate on
+everything it records. Then `notes/RETHINK-2026-09-02.md`: on 2 September Stewart asked for the
 whole dashboard to be rethought for sharing with research friends, and that note is the
 assessment, the proposal (entity first, the orthogonal map by default, the full graph only
 as a scoped neighbourhood, a new shell replacing the inherited one) and the phased plan.
