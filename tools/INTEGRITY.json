@@ -21,6 +21,18 @@
    "sources": 1
   },
   {
+   "id": "arthur-e-exon",
+   "sources": 1
+  },
+  {
+   "id": "joseph-weber",
+   "sources": 1
+  },
+  {
+   "id": "will-miller",
+   "sources": 1
+  },
+  {
    "id": "joseph-gradisher",
    "sources": 1
   },
@@ -61,6 +73,10 @@
   {
    "id": "jason-turner",
    "source": "https://www.twz.com/tic-tac-uap-incident-included-in-72-newly-released-range-incursion-reports"
+  },
+  {
+   "id": "joseph-weber",
+   "source": "https://edition-open-sources.org/sources/5/6/index.html"
   },
   {
    "id": "jonathan-grey",
@@ -115,10 +131,6 @@
  "tierA_underconnected": [
   {
    "id": "thomas-townsend-brown",
-   "degree": 2
-  },
-  {
-   "id": "philip-corso",
    "degree": 2
   }
  ]

@@ -1,0 +1,170 @@
+{
+"A": 3,
+"C": 3,
+"D": 2,
+"band": null,
+"claims": [
+{
+"source": "PROJECT AZORIAN: THE STORY OF THE HUGHES GLOMAR EXPLORER, CIA reading-room document 0005301269, approved for release 01-04-2010, https://archive.org/download/cia-readingroom-document-0005301269/0005301269_djvu.txt",
+"text": "The released history opens: In March 1968 a Soviet submarine of the G-II class was lost with all hands, 16,500 feet below the surface of the Pacific Ocean.",
+"tier": 1
+},
+{
+"source": "CIA reading-room document 0005301269, https://archive.org/download/cia-readingroom-document-0005301269/0005301269_djvu.txt",
+"text": "The same page states: On 8 August 1974, that submarine was brought to the surface in a recovery system designed and developed specifically for that mission.",
+"tier": 1
+},
+{
+"source": "CIA reading-room document 0005301269, https://archive.org/download/cia-readingroom-document-0005301269/0005301269_djvu.txt",
+"text": "The article's publication note records that facts about the project had been acknowledged in court in continuing litigation concerning California State tax liability, Freedom of Information Act matters, and a patent infringement claim, and that the acknowledged facts include CIA sponsorship for intelligence collection purposes and the participation of Hughes Tool Company, the Summa Corporation and Global Marine, Inc.",
+"tier": 1
+},
+{
+"source": "CIA reading-room document 0005301269, https://archive.org/download/cia-readingroom-document-0005301269/0005301269_djvu.txt",
+"text": "The same note states that the continuing prohibition applies particularly to the specific purpose of the AZORIAN mission, the degree of success, operational details, participation of other contractors, government organizations, and individuals, classified technology, and project funding matters.",
+"tier": 1
+},
+{
+"source": "CIA reading-room document 0005301269, https://archive.org/download/cia-readingroom-document-0005301269/0005301269_djvu.txt",
+"text": "The article's closing page states that a private consortium of companies, including Lockheed, Global Marine, Standard Oil of Indiana, and Royal Dutch Shell, are readying the Hughes Glomar Explorer for use in deep-ocean mining operations to begin late in the fall of 1978.",
+"tier": 1
+},
+{
+"source": "CIA reading-room document 0005301269, full text searched by this session, https://archive.org/download/cia-readingroom-document-0005301269/0005301269_djvu.txt",
+"text": "The strings NURO and National Underwater Reconnaissance do not occur anywhere in the 50-page released history.",
+"tier": 1
+},
+{
+"source": "Danny Jones Podcast, ep. 320, 4 August 2025, 0:26:45 to 0:29:24, mapped at research/leads/dannyjones-corpus-20.md",
+"text": "On the Danny Jones Podcast, episode 320, 4 August 2025, at 0:29:24, the guest who identifies himself only as UAP Gerb said the Hughes Glomar Explorer was later leased to Lockheed Martin for deep-sea mining for twenty years. The released history contradicts that in three particulars: it names Lockheed as one member of a four-company private consortium readying the ship for deep-ocean mining operations to begin late in the fall of 1978, it says nothing about a lease or a term, and Lockheed Martin did not exist under that name until 1995. At 0:26:45 to 0:29:24 the same speaker treated the Glomar Explorer and a National Underwater Reconnaissance Office as one undersea programme; NURO appears nowhere in the fifty pages.",
+"tier": 2
+}
+],
+"cls": "program",
+"cluster": "ic",
+"connections": [
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "CIA programme, on the Agency's own account of it",
+"id": "cia",
+"l0": true,
+"label": "Central Intelligence Agency",
+"note": "The released history is the Agency's own account and states CIA sponsorship of the project for intelligence collection purposes.",
+"sources": [
+{
+"date": "2010-01-04",
+"name": "PROJECT AZORIAN: THE STORY OF THE HUGHES GLOMAR EXPLORER, CIA reading-room document 0005301269, approved for release 4 January 2010, 50 pages",
+"url": "https://archive.org/download/cia-readingroom-document-0005301269/0005301269_djvu.txt"
+}
+],
+"tier": "A",
+"type": "programmatic"
+},
+{
+"claimTier": 1,
+"cls": "domain",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "Covert recovery of foreign hardware under a named commercial cover",
+"id": "d-custody",
+"l0": false,
+"label": "Chain of custody",
+"note": "Covert recovery of foreign hardware from the deep ocean under a commercial cover, with a named corporate front, is the custody mechanism this board tracks.",
+"sources": [
+{
+"date": "2010-01-04",
+"name": "PROJECT AZORIAN: THE STORY OF THE HUGHES GLOMAR EXPLORER, CIA reading-room document 0005301269, approved for release 4 January 2010, 50 pages",
+"url": "https://archive.org/download/cia-readingroom-document-0005301269/0005301269_djvu.txt"
+}
+],
+"tier": "A",
+"type": "custody"
+},
+{
+"claimTier": 1,
+"cls": "domain",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "FOIA matters named inside the programme's own history as forcing the first acknowledgements",
+"id": "d-foia",
+"l0": false,
+"label": "Freedom of Information Practice",
+"note": "The history names Freedom of Information Act matters among the litigation that forced the first official acknowledgements, which is the doctrine the board already carries in d-foia prose.",
+"sources": [
+{
+"date": "2010-01-04",
+"name": "PROJECT AZORIAN: THE STORY OF THE HUGHES GLOMAR EXPLORER, CIA reading-room document 0005301269, approved for release 4 January 2010, 50 pages",
+"url": "https://archive.org/download/cia-readingroom-document-0005301269/0005301269_djvu.txt"
+}
+],
+"tier": "B",
+"type": "investigative"
+},
+{
+"claimTier": 2,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "The 1978 mining consortium names Lockheed, the predecessor of this node",
+"id": "lockheed-martin",
+"l0": true,
+"label": "Lockheed Martin Corporation",
+"note": "The released history's closing page states that a private consortium of companies, including Lockheed, Global Marine, Standard Oil of Indiana and Royal Dutch Shell, was readying the Hughes Glomar Explorer for deep-ocean mining operations to begin late in the fall of 1978. The document names Lockheed and not Lockheed Martin, and the transcript's twenty-year lease to Lockheed Martin is not what the record says. Tier 2 because identifying the 1978 firm with this node is an identification across the 1995 merger that the document does not make.",
+"sources": [
+{
+"date": "2010-01-04",
+"name": "PROJECT AZORIAN: THE STORY OF THE HUGHES GLOMAR EXPLORER, CIA reading-room document 0005301269, approved for release 4 January 2010, 50 pages",
+"url": "https://archive.org/download/cia-readingroom-document-0005301269/0005301269_djvu.txt"
+}
+],
+"tier": "A",
+"type": "institutional"
+}
+],
+"coords": null,
+"dateEnd": "1978",
+"dateStart": "1968",
+"deg": 4,
+"denials": [],
+"desc": "The CIA programme that built a purpose-designed heavy-lift ship under a deep-ocean mining cover and used it in August 1974 to raise part of a Soviet ballistic missile submarine lost in the Pacific in March 1968. Its own 50-page internal history was released under FOIA and stamped for release on 4 January 2010. The history is on this board for the mechanism rather than the salvage: covert recovery of foreign hardware from the deep ocean under commercial cover, with a named corporate front, and with Freedom of Information Act litigation named inside the operation's own account of what it had been forced to concede.",
+"domains": [
+"dannyjones-2026-09-03"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "project-azorian",
+"l0": false,
+"label": "Project AZORIAN and the Hughes Glomar Explorer",
+"locLabel": null,
+"members": null,
+"short": "Project AZORIAN and the Hughes Glomar Explorer",
+"sources": [
+{
+"date": "2010-01-04",
+"name": "PROJECT AZORIAN: THE STORY OF THE HUGHES GLOMAR EXPLORER, CIA reading-room document 0005301269, approved for release 4 January 2010, 50 pages",
+"url": "https://archive.org/download/cia-readingroom-document-0005301269/0005301269_djvu.txt"
+},
+{
+"date": "2010-02-12",
+"name": "National Security Archive Electronic Briefing Book 305, posted 12 February 2010, recording the FOIA request of 12 December 2007",
+"url": "https://nsarchive2.gwu.edu/nukevault/ebb305/index.htm"
+}
+],
+"sub": "CIA deep-ocean recovery programme under a Hughes mining cover; its own 50-page internal history released 4 January 2010",
+"tier": "A",
+"tierRationale": "Re-graded A on a global pass (rank 132 of 1057, score 55). 4 connections, 2 of them custody/witness/funding/programmatic. Axes C3/A3/D2.",
+"timeline": []
+}

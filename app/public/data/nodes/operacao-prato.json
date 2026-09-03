@@ -334,7 +334,7 @@
 "direction": "out",
 "edgeLabel": "The American reporter's Prato dossier sits in Greenewald's archive",
 "id": "the-black-vault",
-"l0": false,
+"l0": true,
 "label": "The Black Vault",
 "note": "A file titled 'Operação Prato', written by the US journalist Bob Pratt, is served publicly in the MUFON/Pratt document set at documents.theblackvault.com. It opens: 'Operação Prato, a Brazilian Air Force investigation of a prolonged UFO flap in 1977-78'. It names Captain Uyrangê Hollanda and his six sergeants, names Brigadier Protázio Lopes de Oliveira as the Belém base commander who shut the operation down after four months, and describes the interviews of hundreds of witnesses in Colares and about thirty other villages. This is the concrete answer to whether Prato material reached US hands: it did, through a working reporter, and it is now in the same FOIA archive that carries the Elizondo and Grusch-era US paper.",
 "sources": [
@@ -504,12 +504,6 @@
 "tier": "C"
 },
 {
-"cls": "institution",
-"id": "the-black-vault",
-"label": "The Black Vault",
-"tier": "C"
-},
-{
 "cls": "person",
 "id": "uyrange-hollanda",
 "label": "Capitão Uyrangê Bolívar Soares Nogueira de Hollanda Lima",
@@ -546,7 +540,7 @@
 ],
 "sub": "Brazilian Air Force I COMAR (Belem/PA) intelligence-section operation, Colares, Para, 1977-1978; documents held in the Arquivo Nacional Fundo OVNI, BR DFANBSB ARX",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 74 of 1027, score 70). 10 connections, 5 of them custody/witness/funding/programmatic. Axes C2/A2/D2.",
+"tierRationale": "Re-graded A on a global pass (rank 75 of 1057, score 70). 10 connections, 5 of them custody/witness/funding/programmatic. Axes C2/A2/D2.",
 "timeline": [
 {
 "date": "1977-10-20",

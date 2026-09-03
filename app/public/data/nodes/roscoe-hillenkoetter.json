@@ -8,6 +8,16 @@
 "chronology": [],
 "claims": [
 {
+"source": "Chief, Inspection and Security Staff, CIA, to the Director of Central Intelligence, 'Project Bluebird', Top Secret, 5 April 1950, CIA-RDP83-01042R000800010003-1, National Security Archive John Marks Collection Box 9, https://nsarchive.gwu.edu/sites/default/files/documents/1950-04-05%20JM%20Box%209%20F5%20Replacement%20CIA%20FOIA-ocr.pdf",
+"text": "The founding proposal for Project BLUEBIRD went to him as Director of Central Intelligence. The memorandum of 5 April 1950 from the Chief of the CIA's Inspection and Security Staff is addressed to the Director of Central Intelligence and says on its face: 'In view of the extreme sensitivity of this project and its covert nature, it is deemed advisable to submit this project directly to you, rather than through the channel of the Projects Review Committee. Knowledge of this project should be restricted to the absolute minimum number of persons.' It asks him for approval and for an allocation of $65,515.",
+"tier": 1
+},
+{
+"source": "National Security Archive catalogue record for the 5 April 1950 Project Bluebird memorandum, https://nsarchive.gwu.edu/document/32717-document-02-chief-inspection-and-security-staff-us-central-intelligence-agency",
+"text": "The Director on that date was Hillenkoetter. The memorandum itself names only the office; the National Security Archive's catalogue record for it names him as the recipient, and this node already dates his tenure as DCI from May 1947 to October 1950 on a CIA-held clipping. The identification is Tier 2 because the document does not make it.",
+"tier": 2
+},
+{
 "source": "CIA-RDP68-00046R000200090025-2, Worcester Gazette, 1 June 1960, 'Congressional Action: Ex-C.I.A. Chief Wants UFO Probe' by Bulkley Griffin; declassified in part 2014-06-12",
 "text": "A Worcester (Mass.) Gazette clipping of 1 June 1960, held in CIA records, reports Hillenkoetter declaring of the so-called flying saucers: 'The unknown objects are operating under intelligent control. It is imperative that we learn where the UFO's (unidentified flying objects) come from and what their purpose is.'",
 "tier": 1
@@ -80,6 +90,27 @@
 "type": "institutional"
 },
 {
+"claimTier": 2,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "1947",
+"direction": "in",
+"edgeLabel": "Appointed the first Director of Central Intelligence of the CIA",
+"id": "harry-s-truman",
+"l0": false,
+"label": "Harry S. Truman",
+"note": "The board's Hillenkoetter node dates his DCI service from May 1947. The appointment power is in the 1946 directive and in section 102(a) of the 1947 Act; the specific appointment paper was not opened here, so this edge is capped at Tier 2.",
+"sources": [
+{
+"date": "1946-01-22",
+"name": "Presidential Directive on Coordination of Foreign Intelligence Activities, 22 January 1946 (FRUS 1945-50 Intel, Doc. 71)",
+"url": "https://history.state.gov/historicaldocuments/frus1945-50Intel/d71"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
 "claimTier": 1,
 "cls": "institution",
 "dateEnd": "1962",
@@ -95,6 +126,27 @@
 "date": "1964-05-01",
 "name": "The UFO Evidence, NICAP, 1964, CIA filed copy CIA-RDP81R00560R000100010001-0",
 "url": "https://archive.org/details/cia-readingroom-document-cia-rdp81r00560r000100010001-0"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": null,
+"dateStart": "1950-04-05",
+"direction": "in",
+"edgeLabel": "Submitted directly to the DCI, 5 April 1950",
+"id": "project-bluebird",
+"l0": false,
+"label": "Project BLUEBIRD",
+"note": "The memorandum is addressed to the Director of Central Intelligence and asks him for approval and allocation of funds outside the Projects Review Committee; Hillenkoetter held that office from May 1947 to October 1950, and the National Security Archive's catalogue record names him as the recipient.",
+"sources": [
+{
+"date": "1950-04-05",
+"name": "Project Bluebird, 5 April 1950, and its National Security Archive catalogue record",
+"url": "https://nsarchive.gwu.edu/document/32717-document-02-chief-inspection-and-security-staff-us-central-intelligence-agency"
 }
 ],
 "tier": "B",
@@ -125,7 +177,7 @@
 "date": "1960-06-01",
 "dateEnd": null,
 "dateStart": "1960-06-01",
-"deg": 4,
+"deg": 6,
 "denials": [],
 "domains": [
 "legacy-1947-86"
@@ -151,6 +203,16 @@
 "short": "Roscoe H. Hillenkoetter",
 "sources": [
 {
+"date": "1950-04-05",
+"name": "Chief, Inspection and Security Staff to the Director of Central Intelligence, 'Project Bluebird', Top Secret, 5 April 1950 (CIA-RDP83-01042R000800010003-1)",
+"url": "https://nsarchive.gwu.edu/sites/default/files/documents/1950-04-05%20JM%20Box%209%20F5%20Replacement%20CIA%20FOIA-ocr.pdf"
+},
+{
+"date": "2026-09-03",
+"name": "National Security Archive catalogue record for the 5 April 1950 Project Bluebird memorandum",
+"url": "https://nsarchive.gwu.edu/document/32717-document-02-chief-inspection-and-security-staff-us-central-intelligence-agency"
+},
+{
 "date": "1960-06-01",
 "name": "CIA-RDP68-00046R000200090025-2, Worcester Gazette, 1 June 1960",
 "url": "https://archive.org/details/cia-readingroom-document-cia-rdp68-00046r000200090025-2"
@@ -169,7 +231,7 @@
 "status": "dead",
 "sub": "First Director of Central Intelligence, May 1947 - October 1950; NICAP board member 1960",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 208 of 1027, score 42). 4 connections, 0 of them custody/witness/funding/programmatic. Axes C3/A2/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 161 of 1057, score 49). 6 connections, 0 of them custody/witness/funding/programmatic. Axes C3/A2/D3.",
 "timeline": [
 {
 "date": "1960-06-01",

@@ -5,6 +5,11 @@
 "band": null,
 "claims": [
 {
+"source": "GAO/NSIAD-88-152, B-230522, 24 May 1988, Results in Brief and Recommendations, https://www.gao.gov/assets/nsiad-88-152.pdf",
+"text": "A central Army special-access oversight office predates the 1994 reform by ten years. GAO/NSIAD-88-152 records: 'A DOD review of Army special access programs in 1983 revealed systemic weaknesses in various management areas, which resulted in establishment of a central oversight office in September 1984.' The same report states that in 1988 'The Deputy Under Secretary of Defense for Policy is required to maintain a listing of all special access programs, but does not do so because of security concerns', and that 'the Secretary's Office has no centralized office with cognizance of all special access programs'. The January 1994 dates this board carries stand; the Army aftermath began in 1983-84.",
+"tier": 1
+},
+{
 "source": "Deputy Secretary of Defense, Special Access Program Oversight Committee, Information Bulletin, November 1994, as transcribed at https://sgp.fas.org/othergov/sapoc.html",
 "text": "The change and its date: 'On January 5th, 1994, the Deputy Secretary of Defense (DEPSECDEF) significantly enhanced changes in the DoD Special Access Program (SAP) management and control structures. ... The plan standardized and formalized the SAP approval, termination, revalidation and restructuring process through the Special Access Program Oversight Committee (SAPOC). A Senior Review Group (SRG) was established to support the SAPOC principals.' Tier 2 because the text opened is a transcription published by the Federation of American Scientists and no scan of the original bulletin was found from this environment.",
 "tier": 2
@@ -76,6 +81,27 @@
 "type": "temporal"
 },
 {
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "Dates an Army central SAP oversight office to September 1984, ten years earlier",
+"id": "gao-nsiad-88-152",
+"l0": true,
+"label": "GAO/NSIAD-88-152 - Special Access Programs: DOD Criteria and Procedures for Creating Them Need Improvement",
+"note": "GAO dates a central Army special-access oversight office to September 1984, following a 1983 DoD review, which places a documented predecessor ten years before the January 1994 change this node carries.",
+"sources": [
+{
+"date": "1988-05-24",
+"name": "GAO/NSIAD-88-152, Special Access Programs: DOD Criteria and Procedures for Creating Them Need Improvement",
+"url": "https://www.gao.gov/assets/nsiad-88-152.pdf"
+}
+],
+"tier": "B",
+"type": "temporal"
+},
+{
 "claimTier": 2,
 "cls": "institution",
 "dateEnd": null,
@@ -121,7 +147,7 @@
 "coords": null,
 "dateEnd": "1994-01-05",
 "dateStart": "1994-01-05",
-"deg": 4,
+"deg": 5,
 "denials": [],
 "desc": "On 5 January 1994 the Deputy Secretary of Defense changed the Department's special access programme management and control structures, standardising the approval, termination, revalidation and restructuring of SAPs through a Special Access Program Oversight Committee chaired by the Deputy Secretary, with a Senior Review Group established to support the SAPOC principals and a Special Access Program Coordinating Office staffing both. By November 1994 the committee was chaired by Deputy Secretary John Deutch with the Under Secretary for Acquisition and Technology, the Under Secretary for Policy, the Vice Chairman of the Joint Chiefs of Staff and the Assistant Secretary for C3I as permanent, non-delegable members. The Joint Security Commission, reporting to the Secretary of Defense and the Director of Central Intelligence on 28 February 1994, described the committee as recently formed and supported it. This node exists because the board's sapoc node dates the committee to a 2010 directive, and the 2010 issuance re-established rather than created it.",
 "domains": [
@@ -143,6 +169,11 @@
 "short": "DoD special access programme governance change, 5 January 1994",
 "sources": [
 {
+"date": "1988-05-24",
+"name": "GAO/NSIAD-88-152, Special Access Programs: DOD Criteria and Procedures for Creating Them Need Improvement, B-230522, 24 May 1988",
+"url": "https://www.gao.gov/assets/nsiad-88-152.pdf"
+},
+{
 "date": "1994-11-01",
 "name": "Deputy Secretary of Defense, Special Access Program Oversight Committee Information Bulletin, November 1994 (FAS transcription)",
 "url": "https://sgp.fas.org/othergov/sapoc.html"
@@ -160,7 +191,7 @@
 ],
 "sub": "SAPOC, Senior Review Group and SAPCO stood up under the Deputy Secretary of Defense",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 275 of 1027, score 38). 4 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A3/D1.",
+"tierRationale": "Re-graded B on a global pass (rank 229 of 1057, score 42). 5 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A3/D1.",
 "timeline": [
 {
 "date": "1994-01-05",

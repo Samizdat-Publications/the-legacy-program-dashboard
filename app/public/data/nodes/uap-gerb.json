@@ -84,6 +84,11 @@
 ],
 "claims": [
 {
+"source": "NASA SP-5110, 55-Nitinol: The Alloy With a Memory, Battelle Memorial Institute for NASA, 1972, chapter 1 p. 1 and references 12 and 74, https://ntrs.nasa.gov/api/citations/19720022818/downloads/19720022818.pdf ; NASA CR-1433, Nitinol Characterization Study, September 1969, foreword p. iii and p. 2, https://ntrs.nasa.gov/api/citations/19690026989/downloads/19690026989.pdf ; US Patent 3,174,851, https://patents.google.com/patent/US3174851A/en",
+"text": "The federal literature on nitinol, one report of it written by Battelle itself, does not support a Battelle 1948-49 lineage for the alloy. NASA SP-5110, prepared for NASA by Battelle Memorial Institute in 1972, opens: 'Some 10 years ago, Buehler and Wiley of the U.S. Naval Ordnance Laboratory developed a series of engineering alloys that possess a unique mechanical (shape) memory. The generic name of the series of alloys is 55-Nitinol, where Nitinol stands for Nickel Titanium Naval Ordnance Laboratory.' The earliest Naval Ordnance Laboratory nitinol report cited anywhere in its reference list is NOLTR 61-75 of 3 August 1961; US Patent 3,174,851 was filed on 1 December 1961; and NASA CR-1433 of September 1969 records Battelle's own role as a subcontractor to Goodyear Aerospace which 'processed the basic Nitinol rod'. The allegation that Wright-Patterson-sponsored Battelle reports on nickel-titanium alloy from 1948-49 are missing from Air Force and Battelle archives is kept on this board as the allegation it is, and is unsupported by the federal literature opened here.",
+"tier": 1
+},
+{
 "source": "UAP Gerb, 'The MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs', YouTube, 7 August 2026 (published description and chapter list) — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "text": "The MITRE investigation was published on 7 August 2026 and states that MITRE operates six FFRDCs and fifteen MITRE Labs and has served as a long-term strategic partner in the US Government's most national-security-sensitive national programs.",
 "tier": 2
@@ -164,9 +169,9 @@
 "tier": 2
 },
 {
-"source": "Citation list published in the video description, 18 February 2024 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"source": "Citation list published in the video description, 18 February 2024",
 "text": "Gerb's Battelle investigation cites verifiable primary records: CUFON's Project Stork progress reports, the CIA reading room copy of Special Report No. 14, a Black Vault release of the Second Progress Report on Titanium Alloys, AEC research and development reports at the UNT digital library, and the Defense.gov transcript of the Moultrie roundtable.",
-"tier": 2
+"tier": 1
 }
 ],
 "cls": "person",
@@ -195,7 +200,7 @@
 "url": "https://www.youtube.com/watch?v=tISTJRPOqFo"
 }
 ],
-"tier": "C",
+"tier": "B",
 "type": "investigative"
 },
 {
@@ -399,6 +404,27 @@
 },
 {
 "claimTier": 2,
+"cls": "event",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "Named the operation as the deployment framing for the Weygandt Peru account",
+"id": "operation-laser-strike",
+"l0": false,
+"label": "Operation Laser Strike",
+"note": "Gerb is the investigator who brings Laser Strike to this corpus as the deployment framing for the Weygandt Peru account; the operation's own record says nothing about it.",
+"sources": [
+{
+"date": "1997-03-10",
+"name": "CHRG-105hhrg41842, Coast Guard Interdiction Efforts in the Transit Zone, Serial No. 105-18",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-105hhrg41842/html/CHRG-105hhrg41842.htm"
+}
+],
+"tier": "C",
+"type": "investigative"
+},
+{
+"claimTier": 2,
 "cls": "program",
 "dateEnd": "2026",
 "dateStart": "2026",
@@ -537,7 +563,7 @@
 "date": "2026-08-07",
 "dateEnd": null,
 "dateStart": "2026-08-07",
-"deg": 15,
+"deg": 16,
 "denials": [],
 "domains": [
 "ffrdcs",
@@ -572,6 +598,21 @@
 "sequenceChain": [],
 "short": "'UAP Gerb' (Sam)",
 "sources": [
+{
+"date": "1972-01-01",
+"name": "NASA SP-5110, 55-Nitinol: The Alloy With a Memory, C. M. Jackson, H. J. Wagner and R. J. Wasilewski, Battelle Memorial Institute for the NASA Technology Utilization Office, 1972",
+"url": "https://ntrs.nasa.gov/api/citations/19720022818/downloads/19720022818.pdf"
+},
+{
+"date": "1969-09-01",
+"name": "NASA CR-1433, Nitinol Characterization Study, Goodyear Aerospace Corporation report GER 14188 under contract NAS 1-7522 for NASA Langley Research Center, September 1969",
+"url": "https://ntrs.nasa.gov/api/citations/19690026989/downloads/19690026989.pdf"
+},
+{
+"date": "1965-03-23",
+"name": "US Patent 3,174,851, Nickel-base alloys, William J. Buehler and Raymond C. Wiley, assigned to the United States as represented by the Secretary of the Navy, filed 1 December 1961, granted 23 March 1965",
+"url": "https://patents.google.com/patent/US3174851A/en"
+},
 {
 "date": "2026-08-07",
 "name": "UAP Gerb - The MITRE Corporation: UFO Reverse Engineering, USO Tracking, & Legacy Programs (YouTube)",
@@ -636,7 +677,7 @@
 "status": "active",
 "sub": "Pseudonymous open-source investigator; publisher of the 7 August 2026 MITRE investigation, produced with a researcher using the handle 'Kerberos'; interviewed on NewsNation's Reality Check by Ross Coulthart",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 101 of 1027, score 61). 16 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A0/D3.",
+"tierRationale": "Re-graded A on a global pass (rank 91 of 1057, score 66). 17 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A0/D3.",
 "timeline": [
 {
 "date": "2025-02-21",

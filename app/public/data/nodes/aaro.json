@@ -1503,7 +1503,7 @@
 "url": "https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada"
 }
 ],
-"tier": "B",
+"tier": "C",
 "type": "research"
 },
 {
@@ -1550,7 +1550,7 @@
 "url": "https://www.aaro.mil/Portals/136/PDFs/Phillips_Timothy_Bio-DEC%202023-(Acting_Director_Ver)_508.pdf"
 }
 ],
-"tier": "B",
+"tier": "C",
 "type": "institutional"
 },
 {
@@ -2361,7 +2361,7 @@
 "cls": "person",
 "id": "tim-phillips",
 "label": "Timothy A. Phillips",
-"tier": "B"
+"tier": "C"
 },
 {
 "cls": "event",
@@ -2500,7 +2500,7 @@
 ],
 "sub": "DoD office established 2022; author of the official AAWSAP history",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 4 of 1027, score 164). 64 connections, 6 of them custody/witness/funding/programmatic, 11 official denials recorded against it. Axes C2/A3/D2.",
+"tierRationale": "Re-graded A on a global pass (rank 4 of 1057, score 164). 64 connections, 6 of them custody/witness/funding/programmatic, 11 official denials recorded against it. Axes C2/A3/D2.",
 "timeline": [
 {
 "date": "2021-12-27",

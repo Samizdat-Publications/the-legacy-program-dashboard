@@ -1,0 +1,181 @@
+{
+"A": 3,
+"C": 0,
+"D": 0,
+"affiliations": [],
+"age": null,
+"band": null,
+"chronology": [],
+"claims": [
+{
+"source": "CIA Reading Room document 00017441, MKULTRA SUBPROJECT 43 (18 documents, pubdates 550321 to 560308), Internet Archive mirror, https://archive.org/details/cia-readingroom-document-00017441",
+"text": "Gottlieb signed the money. The released MKULTRA Subproject 43 file carries invoice certifications over the signature 'SIDNEY GOTTLIEB, Chief, TSS/CD' attesting 'that performance is satisfactory, that the services are being accomplished in accordance with mutual agreements, that a detailed agenda of the payments and receipts is on file in TSS/CD'. Invoice No. 1 is dated 31 March 1955 and Invoice No. 2 is dated 28 June 1955.",
+"tier": 1
+},
+{
+"source": "Report of Inspection of MKULTRA, CIA Inspector General, 26 July 1963, https://nsarchive.gwu.edu/sites/default/files/documents/1963-07-26%20JM%20Box%208%20F2%20MKUltra-IG_Report-ocr.pdf",
+"text": "The Agency's own Inspector General placed him one rung below the top of TSD in 1963: 'The present Deputy Chief of TSD, Dr. Sidney Gottlieb, in his then capacity of scientific advisor to the Deputy Director/Plans (DD/P), released a study ... on 21 April 1960, covering his six-month investigation of \"Scientific and Technical Problems in Covert Action Operations\".'",
+"tier": 1
+},
+{
+"source": "Project MKULTRA joint hearing, 3 August 1977, Appendix B, https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf",
+"text": "He gave the destruction order. 'In January 1973, MKULTRA records were destroyed by Technical Services Division personnel acting on the verbal orders of Dr. Sidney Gottlieb, Chief of TSD. Dr. Gottlieb has testified, and former Director Helms has confirmed, that in ordering the records destroyed, Dr. Gottlieb was carrying out the verbal order of then DCI Helms.'",
+"tier": 1
+},
+{
+"source": "Memorandum for the Deputy Director of Central Intelligence, 'Request for Guidance on Handling Recently Located MKULTRA Material', 22 June 1977, from David S. Brandwein, Director, Office of Technical Service, Appendix B of the Project MKULTRA joint hearing, https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf",
+"text": "A CIA memorandum of 22 June 1977 reprinted in the hearing print explains why the 1973 searches missed the finance folders: 'Because Dr. Gottlieb retrieved and destroyed all the MKULTRA documents he was able to locate, it is not surprising that the earlier search for MKULTRA documents, directed at areas where they were most likely to be found, was unsuccessful.'",
+"tier": 1
+},
+{
+"source": "Project MKULTRA joint hearing, 3 August 1977, Appendix B, https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf",
+"text": "He is one of the two officers named as running the experiment that killed Frank Olson: 'The drug had been placed in the bottle by a CIA officer, Dr. Robert Lashbrook, as part of an experiment he and Dr. Sidney Gottlieb performed at a meeting of Army and CIA scientists.' The same text records that neither the Chief of TSS nor the Deputy Director for Plans specifically authorized that experiment.",
+"tier": 1
+},
+{
+"source": "Danny Jones Podcast, ep. 100, 1 July 2021, 1:08:19 to 1:10:07",
+"text": "On the Danny Jones Podcast, episode 100, 1 July 2021, at 1:08:19 to 1:10:07, Tom O'Neill described Gottlieb as Louis Jolyon West's handler, said their correspondence began at Lackland Air Force Base and said Gottlieb offered West an operational alias which West declined as more conspicuous. No record opened for this node bears on any of it, and the released Subproject 43 file names no researcher.",
+"tier": 2
+}
+],
+"cls": "person",
+"cluster": "ic",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "1973",
+"dateStart": "1955",
+"direction": "out",
+"edgeLabel": "Chief, TSS Chemical Division 1955; Deputy Chief, TSD 1963; Chief, TSD 1973",
+"id": "cia",
+"l0": true,
+"label": "Central Intelligence Agency",
+"note": "Three offices, each taken from a separate opened document rather than from a biography.",
+"sources": [
+{
+"date": "1963-07-26",
+"name": "CIA Reading Room 00017441; Report of Inspection of MKULTRA, 26 July 1963; Project MKULTRA joint hearing, 3 August 1977",
+"url": "https://nsarchive.gwu.edu/sites/default/files/documents/1963-07-26%20JM%20Box%208%20F2%20MKUltra-IG_Report-ocr.pdf"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "domain",
+"dateEnd": null,
+"dateStart": "1973-01",
+"direction": "out",
+"edgeLabel": "Ordered the destruction of the MKULTRA files, January 1973",
+"id": "d-records",
+"l0": false,
+"label": "Records & Archives",
+"note": "The 1977 CIA memorandum reprinted in the hearing print says he retrieved and destroyed all the MKULTRA documents he was able to locate, which is why the 1973 and 1975 searches found nothing.",
+"sources": [
+{
+"date": "1977-06-22",
+"name": "Memorandum for the DDCI, 22 June 1977, Appendix B of the Project MKULTRA joint hearing",
+"url": "https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf"
+}
+],
+"tier": "B",
+"type": "custody"
+},
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": null,
+"dateStart": "1953-11-19",
+"direction": "in",
+"edgeLabel": "Named with Lashbrook as running the experiment",
+"id": "frank-olson-death-1953",
+"l0": false,
+"label": "Death of Frank R. Olson, 1953, and the compensation and litigation that followed",
+"note": "The Church Committee text reprinted in the 1977 hearing print states the drug was placed in the bottle by Robert Lashbrook as part of an experiment he and Sidney Gottlieb performed at a meeting of Army and CIA scientists.",
+"sources": [
+{
+"date": "1977-08-03",
+"name": "Project MKULTRA joint hearing, 3 August 1977, Appendix B",
+"url": "https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf"
+}
+],
+"tier": "B",
+"type": "witness-chain"
+},
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": "1973",
+"dateStart": "1955",
+"direction": "out",
+"edgeLabel": "Certified subproject invoices 1955; Chief of TSD at the 1973 destruction",
+"id": "mkultra",
+"l0": true,
+"label": "Project MKULTRA",
+"note": "His signature is on the Subproject 43 invoice certifications as Chief, TSS/CD in 1955, and the Church Committee text names him as the officer whose verbal order destroyed the programme's records in January 1973.",
+"sources": [
+{
+"date": "1955-06-28",
+"name": "CIA Reading Room 00017441 and the Project MKULTRA joint hearing, 3 August 1977",
+"url": "https://archive.org/details/cia-readingroom-document-00017441"
+}
+],
+"tier": "A",
+"type": "programmatic"
+}
+],
+"date": "1955-03-31",
+"dateEnd": null,
+"dateStart": "1955-03-31",
+"deg": 4,
+"denials": [],
+"domains": [
+"dannyjones-2026-09-03"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "sidney-gottlieb",
+"instId": null,
+"l0": false,
+"label": "Sidney Gottlieb",
+"loc": null,
+"locId": null,
+"members": null,
+"narrative": "Sidney Gottlieb is the officer at the centre of the destruction event the board's own MKULTRA hearing node argues from, and three separate opened documents give him three offices in sequence. In March and June 1955 he certifies the invoices of a numbered MKULTRA subproject as Chief of the Chemical Division of the Technical Services Staff, which is the closest thing in the released record to a signature on the money. In 1963 the Agency's Inspector General calls him the present Deputy Chief of the Technical Services Division and credits him with a six-month study of scientific and technical problems in covert action operations. In January 1973 Technical Services Division personnel destroy the MKULTRA files on his verbal order, which he and Richard Helms both later testified was Helms's order carried out. The 1977 Senate hearing that reopened the subject could not produce him: the questioning turns again and again on the fact that the one man who would know was not there.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Sidney Gottlieb",
+"sources": [
+{
+"date": "1955-03-21",
+"name": "CIA Reading Room document 00017441, MKULTRA SUBPROJECT 43, Internet Archive mirror",
+"url": "https://archive.org/details/cia-readingroom-document-00017441"
+},
+{
+"date": "1963-07-26",
+"name": "Report of Inspection of MKULTRA, CIA Inspector General, 26 July 1963",
+"url": "https://nsarchive.gwu.edu/sites/default/files/documents/1963-07-26%20JM%20Box%208%20F2%20MKUltra-IG_Report-ocr.pdf"
+},
+{
+"date": "1977-08-03",
+"name": "Project MKULTRA joint hearing, 3 August 1977",
+"url": "https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf"
+}
+],
+"status": "former",
+"sub": "Chief, Technical Services Staff Chemical Division 1955; Deputy Chief, Technical Services Division 1963; Chief of TSD, and the officer whose verbal order destroyed the MKULTRA records, January 1973",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 273 of 1057, score 39). 4 connections, 3 of them custody/witness/funding/programmatic. Axes C0/A3/D0.",
+"timeline": [],
+"unexplainedResidual": null,
+"unverified": []
+}

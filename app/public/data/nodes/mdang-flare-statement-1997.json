@@ -1,0 +1,140 @@
+{
+"A": 1,
+"C": 1,
+"D": 2,
+"band": null,
+"claims": [
+{
+"source": "Associated Press, 'Flares, not UFOs, caused light show, military says', Deseret News, 26 July 1997, https://www.deseret.com/1997/7/26/19325702/flares-not-ufos-caused-light-show-military-says/",
+"text": "The unit, the aircraft and the range are named on the record: eight Maryland Air National Guard A-10 ground-attack jets flew training missions on the night of 13 March 1997 over the Barry M. Goldwater Air Force Range, about 60 miles southwest of Phoenix, dropping high-intensity flares.",
+"tier": 2
+},
+{
+"source": "Associated Press, Deseret News, 26 July 1997, https://www.deseret.com/1997/7/26/19325702/flares-not-ufos-caused-light-show-military-says/",
+"text": "The statement has a named author: Capt. Drew Sullins, spokesman for the Maryland Air National Guard, who described the flares in the same report: 'The flares fall slowly by parachute and illuminate a wide area.'",
+"tier": 2
+},
+{
+"source": "Associated Press, Deseret News, 26 July 1997, https://www.deseret.com/1997/7/26/19325702/flares-not-ufos-caused-light-show-military-says/",
+"text": "The explanation arrived four months late. The flares were dropped on 13 March 1997 and the Air National Guard statement is dated 26 July 1997.",
+"tier": 2
+},
+{
+"source": "USAspending.gov API v2, /autocomplete/recipient/ and /search/spending_by_award/, queried 3 September 2026, https://api.usaspending.gov/api/v2/search/spending_by_award/",
+"text": "The alternative explanation offered on the Danny Jones podcast has no federal award record behind it. The USAspending recipient index returns zero matches for 'JP AEROSPACE' while returning eight for 'LOCKHEED MARTIN', and award searches for that recipient and for the keyword, across contracts, indefinite-delivery vehicles and grants from 1 October 1990 to 1 September 2026, return no results.",
+"tier": 1
+},
+{
+"source": "Danny Jones Podcast, ep. 229, 18 March 2024, 1:31:41 to 1:32:45, mapped at research/leads/dannyjones-corpus-34.md",
+"text": "On the Danny Jones Podcast, episode 229, 18 March 2024, at 1:31:41 to 1:32:45, David Morehouse said Operation Snowbird, A-10 training out of Davis-Monthan, was the official explanation given at the time for the Phoenix lights, and that the Maryland Air National Guard confirmed it. The Air National Guard statement is real and dated; the words Operation Snowbird appear nowhere in the opened record, and no Air Force record connecting that deployment programme to the 13 March 1997 sorties was opened, because af.mil refuses this environment.",
+"tier": 2
+}
+],
+"cls": "document",
+"cluster": "other",
+"connections": [
+{
+"claimTier": 2,
+"cls": "domain",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "An official explanation offered four months after the event",
+"id": "d-denial",
+"l0": false,
+"label": "Official Denial",
+"note": "An official explanation offered four months after the event, which is the shape this board tracks rather than the content it disputes.",
+"sources": [
+{
+"date": "1997-07-26",
+"name": "Associated Press, Flares, not UFOs, caused light show, military says",
+"url": "https://www.deseret.com/1997/7/26/19325702/flares-not-ufos-caused-light-show-military-says/"
+}
+],
+"tier": "A",
+"type": "denial"
+},
+{
+"claimTier": 2,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "An Air National Guard statement about its own unit's sorties",
+"id": "usaf",
+"l0": true,
+"label": "United States Air Force",
+"note": "The statement is an Air National Guard one, made by a named unit spokesman about his own unit's sorties.",
+"sources": [
+{
+"date": "1997-07-26",
+"name": "Associated Press, Flares, not UFOs, caused light show, military says",
+"url": "https://www.deseret.com/1997/7/26/19325702/flares-not-ufos-caused-light-show-military-says/"
+}
+],
+"tier": "A",
+"type": "institutional"
+}
+],
+"coords": null,
+"dateEnd": "1997-07-26",
+"dateStart": "1997-07-26",
+"deg": 2,
+"denials": [
+{
+"by": {
+"id": "mdang-flare-statement-1997",
+"label": "Maryland Air National Guard flare statement, 26 July 1997"
+},
+"claimTier": 2,
+"denialKind": null,
+"label": "An official explanation offered four months after the event",
+"note": "An official explanation offered four months after the event, which is the shape this board tracks rather than the content it disputes.",
+"of": {
+"id": "d-denial",
+"label": "Official Denial"
+},
+"sources": [
+{
+"date": "1997-07-26",
+"name": "Associated Press, Flares, not UFOs, caused light show, military says",
+"url": "https://www.deseret.com/1997/7/26/19325702/flares-not-ufos-caused-light-show-military-says/"
+}
+]
+}
+],
+"desc": "Four months after the 13 March 1997 sightings over Arizona, a named Maryland Air National Guard spokesman stated on the record that eight of the unit's A-10 ground-attack jets had dropped high-intensity flares that night over the Barry M. Goldwater Air Force Range, about 60 miles southwest of Phoenix. The board carries the Phoenix lights in prose with no official-explanation counterweight, and this is the counterweight, dated and attributed. What the record does not carry is the name Operation Snowbird, which the transcript attaches to it: no Air Force document connecting that Davis-Monthan deployment programme to these sorties was opened, because af.mil refuses this environment. The node exists to hold the asymmetry rather than to close it.",
+"domains": [
+"dannyjones-2026-09-03"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "1",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "mdang-flare-statement-1997",
+"l0": false,
+"label": "Maryland Air National Guard flare statement, 26 July 1997",
+"locLabel": null,
+"members": null,
+"short": "Maryland Air National Guard flare statement, 26 July 1997",
+"sources": [
+{
+"date": "1997-07-26",
+"name": "Associated Press, Flares, not UFOs, caused light show, military says",
+"url": "https://www.deseret.com/1997/7/26/19325702/flares-not-ufos-caused-light-show-military-says/"
+},
+{
+"date": "2026-09-03",
+"name": "USAspending.gov API v2 award and recipient search",
+"url": "https://api.usaspending.gov/api/v2/search/spending_by_award/"
+}
+],
+"sub": "Eight A-10s and high-intensity flares over the Barry M. Goldwater Range, offered four months later as the explanation for the 13 March 1997 Phoenix lights",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 561 of 1057, score 28). 2 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A1/D2.",
+"timeline": []
+}

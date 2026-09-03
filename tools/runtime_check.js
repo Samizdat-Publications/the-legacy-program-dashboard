@@ -328,21 +328,27 @@ const check = (c, label, detail = '') => {
             if (d[i] > 170 && d[i + 1] > 170 && d[i + 2] > 170 && d[i + 3] > 120) n++;
           return n;
         };
-        let trueWins = 0, bugWins = 0, sampled = 0;
-        for (const b of M.labelBoxes().slice(0, 24)) {
+        /* A box with no near-white ink at EITHER position cannot tell the two
+           renderers apart and is not counted in the sample. On 3 September
+           2026, with the hairball at 1,057 nodes, 10 of the first 24 boxes were
+           such ties and the check failed 14 of 24 with zero boxes showing the
+           bug. Sample twice as many boxes and score only the ones with ink. */
+        let trueWins = 0, bugWins = 0, sampled = 0, ties = 0;
+        for (const b of M.labelBoxes().slice(0, 48)) {
           let t = 0, g = 0;
           for (const L of layers) {
             t += white(L, b.x * L.dpr, b.y * L.dpr, b.w * L.dpr, b.h * L.dpr);
             g += white(L, b.x, b.y, b.w, b.h);
           }
+          if (t === 0 && g === 0) { ties++; continue; }
           sampled++;
           if (t > g) trueWins++; else if (g > t) bugWins++;
         }
-        return { dpr: Math.max(...layers.map(L => L.dpr)), drawn: M.labelBoxes().length, sampled, trueWins, bugWins };
+        return { dpr: Math.max(...layers.map(L => L.dpr)), drawn: M.labelBoxes().length, sampled, trueWins, bugWins, ties };
       });
       await ctx2.close();
       check(hi.dpr >= 1.9, 'the dpr-2 page really is at dpr 2', 'canvas dpr ' + hi.dpr);
-      const detail = `${hi.trueWins} of ${hi.sampled} boxes hold more label ink at their true position than at the unscaled one, ${hi.bugWins} the reverse, dpr ${hi.dpr}`;
+      const detail = `${hi.trueWins} of ${hi.sampled} inked boxes hold more label ink at their true position than at the unscaled one, ${hi.bugWins} the reverse, ${hi.ties} with no ink at either, dpr ${hi.dpr}`;
       if (!POIS_D)
         check(hi.sampled >= 12 && hi.trueWins >= Math.ceil(hi.sampled * 0.6) && hi.trueWins > hi.bugWins,
               'label ink lands inside its box at dpr 2', detail);

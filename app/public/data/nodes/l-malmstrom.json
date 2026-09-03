@@ -14,6 +14,27 @@
 "cluster": "legacy",
 "connections": [
 {
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "The whole release concerns Malmstrom AFB, Montana",
+"id": "doc-341-smw-history-1967",
+"l0": false,
+"label": "341st Strategic Missile Wing histories, 1967-68 (FOIA release, 14 June 2001)",
+"note": "The whole release concerns Malmstrom AFB, Montana.",
+"sources": [
+{
+"date": "2001-06-14",
+"name": "Department of the Air Force, HQ 341st Space Wing (AFSPC), 341 CS/SCBR (FOIA), response to John Greenewald Jr, releasing excerpts of the 341st SMW histories for five quarters",
+"url": "https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf"
+}
+],
+"tier": "B",
+"type": "geographic"
+},
+{
 "claimTier": 2,
 "cls": "program",
 "dateEnd": null,
@@ -59,7 +80,7 @@
 "coords": null,
 "dateEnd": "1975",
 "dateStart": "1975",
-"deg": 2,
+"deg": 3,
 "denials": [],
 "desc": "Strategic Air Command installation at Great Falls, Montana, controlling Minuteman ICBM launch facilities across a wide area of the state, and the site of two of the most heavily documented nuclear-weapons-related UFO events in the American record: the March 1967 missile-facility incident and the November 1975 overflights. The 1975 records, released by the Office of the Assistant Secretary of Defense under FOIA case 97-F-1677, describe numerous unidentified craft over the base and its missile fields and record that F-106 interceptors were unable to acquire them. Six years earlier the Air Force had publicly closed Project Blue Book on the finding that no UFO had ever given any indication of threat to national security. Malmstrom is where that finding meets the Air Force's own operational message traffic.",
 "domains": [
@@ -93,7 +114,7 @@
 ],
 "sub": "SAC ICBM installation; documented 1975 unidentified overflights",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 731 of 1027, score 21). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 740 of 1057, score 22). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D3.",
 "timeline": [
 {
 "date": "1975-11-07",

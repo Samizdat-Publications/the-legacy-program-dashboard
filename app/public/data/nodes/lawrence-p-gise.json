@@ -45,7 +45,7 @@
 "direction": "out",
 "edgeLabel": "Held the ARPA post of Assistant Director, Administration",
 "id": "darpa",
-"l0": false,
+"l0": true,
 "label": "Defense Advanced Research Projects Agency",
 "note": "The Official Register of the United States 1959 places him in that post as of 1 May 1959, on the same page as Director Roy W. Johnson.",
 "sources": [
@@ -55,7 +55,7 @@
 "url": "https://www.govinfo.gov/content/pkg/GOVPUB-CS1-301ae7b075ad3435b3a7dca00e78e8ff/pdf/GOVPUB-CS1-301ae7b075ad3435b3a7dca00e78e8ff.pdf"
 }
 ],
-"tier": "C",
+"tier": "B",
 "type": "institutional"
 },
 {
@@ -127,7 +127,7 @@
 "status": "former",
 "sub": "AEC Division of Military Application Assistant Director 1957; ARPA Assistant Director, Administration 1959",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 268 of 1027, score 38). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C3/A2/D2.",
+"tierRationale": "Re-graded B on a global pass (rank 288 of 1057, score 38). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C3/A2/D2.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": [

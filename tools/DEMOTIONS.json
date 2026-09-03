@@ -75,11 +75,6 @@
   "claim": "The MITRE investigation was published on 7 August 2026 and states that MITRE operates six FFRDCs and fifteen M"
  },
  {
-  "id": "uap-gerb",
-  "why": "node carries no primary-record URL",
-  "claim": "Gerb's Battelle investigation cites verifiable primary records: CUFON's Project Stork progress reports, the CI"
- },
- {
   "id": "leslie-kean",
   "why": "cited to a secondary/encyclopedic source",
   "claim": "Kean co-authored the 16 December 2017 New York Times article revealing the $22.5M AATIP programme."
@@ -725,11 +720,6 @@
   "claim": "MITRE operates six FFRDCs across defence and intelligence, aviation, civil systems, homeland security, health "
  },
  {
-  "id": "gerb-battelle-investigation",
-  "why": "node carries no primary-record URL",
-  "claim": "The investigation cites retrievable primary records: CUFON's Project Stork progress reports, the CIA reading r"
- },
- {
   "id": "newsnation-reality-check",
   "why": "node carries no primary-record URL",
   "claim": "Reality Check credits: Host Ross Coulthart; Executive Producer Andy Gipson; Editorial Producer Meagan Medick; "
@@ -1148,11 +1138,6 @@
   "id": "plains-san-agustin-1947",
   "why": "node carries no primary-record URL",
   "claim": "The report proposes that the witnesses may have confused the Plains of San Agustin with San Agustin Pass or Sa"
- },
- {
-  "id": "malmstrom-echo-flight-1967",
-  "why": "node carries no primary-record URL",
-  "claim": "An Air Force teletype dated 17 March 1967 concerning loss of strategic alert at Malmstrom AFB is published in "
  },
  {
   "id": "behind-the-flying-saucers",

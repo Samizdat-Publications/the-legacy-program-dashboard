@@ -39,6 +39,27 @@
 "connections": [
 {
 "claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "1958-02-05",
+"direction": "in",
+"edgeLabel": "Signed the CIA reply to Keyhoe",
+"id": "charles-p-cabell",
+"l0": false,
+"label": "Gen. Charles P. Cabell",
+"note": "The reading room's catalogue entry names him as the sender and Keyhoe as the addressee. The scan's body text is illegible, so the edge records the correspondence and not its content.",
+"sources": [
+{
+"date": "2026-09-03",
+"name": "FRUS 1950-1955, The Intelligence Community, List of Persons",
+"url": "https://history.state.gov/historicaldocuments/frus1950-55Intel/persons"
+}
+],
+"tier": "B",
+"type": "denial"
+},
+{
+"claimTier": 1,
 "cls": "institution",
 "dateEnd": null,
 "dateStart": null,
@@ -125,8 +146,29 @@
 "date": "1957-09-20",
 "dateEnd": null,
 "dateStart": "1957-09-20",
-"deg": 4,
+"deg": 5,
 "denials": [
+{
+"by": {
+"id": "charles-p-cabell",
+"label": "Gen. Charles P. Cabell"
+},
+"claimTier": 1,
+"denialKind": null,
+"label": "Signed the CIA reply to Keyhoe",
+"note": "The reading room's catalogue entry names him as the sender and Keyhoe as the addressee. The scan's body text is illegible, so the edge records the correspondence and not its content.",
+"of": {
+"id": "donald-keyhoe",
+"label": "Maj. Donald E. Keyhoe, USMC (Ret.)"
+},
+"sources": [
+{
+"date": "2026-09-03",
+"name": "FRUS 1950-1955, The Intelligence Community, List of Persons",
+"url": "https://history.state.gov/historicaldocuments/frus1950-55Intel/persons"
+}
+]
+},
 {
 "by": {
 "id": "donald-keyhoe",
@@ -217,7 +259,7 @@
 "status": "former",
 "sub": "Director, National Investigations Committee on Aerial Phenomena, by September 1957 and still in post May 1964",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 264 of 1027, score 38). 4 connections, 0 of them custody/witness/funding/programmatic, 2 official denials recorded against it. Axes C1/A1/D2.",
+"tierRationale": "Re-graded B on a global pass (rank 208 of 1057, score 43). 5 connections, 0 of them custody/witness/funding/programmatic, 3 official denials recorded against it. Axes C1/A1/D2.",
 "timeline": [
 {
 "date": "1958-04-04",

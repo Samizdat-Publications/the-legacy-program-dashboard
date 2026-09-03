@@ -98,7 +98,7 @@
 "direction": "out",
 "edgeLabel": "Principal named witness to the March 1967 shutdown",
 "id": "malmstrom-echo-flight-1967",
-"l0": false,
+"l0": true,
 "label": "Malmstrom AFB missile shutdowns, March 1967",
 "note": "Salas first went on the record in 1996 with the Great Falls Tribune, describing a security police report of a glowing red object over the front gate immediately before his flight's missiles went off alert.",
 "sources": [
@@ -216,7 +216,7 @@
 "status": "active",
 "sub": "USAF Academy graduate; Minuteman missile launch officer, 341st SMW, Malmstrom AFB, March 1967",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 307 of 1027, score 36). 3 connections, 3 of them custody/witness/funding/programmatic. Axes C0/A2/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 326 of 1057, score 36). 3 connections, 3 of them custody/witness/funding/programmatic. Axes C0/A2/D3.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": [

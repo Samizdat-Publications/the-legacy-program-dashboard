@@ -5,6 +5,11 @@
 "band": "research",
 "claims": [
 {
+"source": "NASA SP-5110, 55-Nitinol: The Alloy With a Memory, Battelle Memorial Institute for NASA, 1972, chapter 1 p. 1 and references 12 and 74, https://ntrs.nasa.gov/api/citations/19720022818/downloads/19720022818.pdf ; NASA CR-1433, Nitinol Characterization Study, September 1969, foreword p. iii and p. 2, https://ntrs.nasa.gov/api/citations/19690026989/downloads/19690026989.pdf ; US Patent 3,174,851, https://patents.google.com/patent/US3174851A/en",
+"text": "The federal literature on nitinol, one report of it written by Battelle itself, does not support a Battelle 1948-49 lineage for the alloy. NASA SP-5110, prepared for NASA by Battelle Memorial Institute in 1972, opens: 'Some 10 years ago, Buehler and Wiley of the U.S. Naval Ordnance Laboratory developed a series of engineering alloys that possess a unique mechanical (shape) memory. The generic name of the series of alloys is 55-Nitinol, where Nitinol stands for Nickel Titanium Naval Ordnance Laboratory.' The earliest Naval Ordnance Laboratory nitinol report cited anywhere in its reference list is NOLTR 61-75 of 3 August 1961; US Patent 3,174,851 was filed on 1 December 1961; and NASA CR-1433 of September 1969 records Battelle's own role as a subcontractor to Goodyear Aerospace which 'processed the basic Nitinol rod'. The allegation that Wright-Patterson-sponsored Battelle reports on nickel-titanium alloy from 1948-49 are missing from Air Force and Battelle archives is kept on this board as the allegation it is, and is unsupported by the federal literature opened here.",
+"tier": 1
+},
+{
 "source": "American Alchemy with Jesse Michels, 'Top Physicist: There Was A Nuclear Catastrophe On Mars (ft. Dr. John Brandenburg)', published 13 March 2025, at 1:34:53",
 "text": "On American Alchemy with Jesse Michels, 13 March 2025, at 1:34:53, John Brandenburg said that 'there was a contract between Los Alamos and Battelle Memorial Institute in 1949 and it was around nitinol', that the work was 'declassified by Battelle in the 60s', and asked why Los Alamos had a contract with Battelle in 1949. The board's node dates the corresponding nickel-titanium work to 1948-49 under Wright-Patterson sponsorship. The two accounts name different sponsors for the same alloy in the same period, and no contract record was opened for either.",
 "tier": 2
@@ -133,7 +138,7 @@
 "url": "https://www.youtube.com/watch?v=tISTJRPOqFo"
 }
 ],
-"tier": "C",
+"tier": "B",
 "type": "institutional"
 },
 {
@@ -270,6 +275,27 @@
 "claimTier": 1,
 "cls": "institution",
 "dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "Battelle wrote the 1972 NASA review of the alloy and was its 1968 wire-drawing subcontractor",
+"id": "naval-ordnance-laboratory",
+"l0": false,
+"label": "U.S. Naval Ordnance Laboratory (White Oak, Silver Spring)",
+"note": "Battelle Memorial Institute wrote the 1972 NASA literature review of 55-Nitinol and was a 1967-69 processing subcontractor for it; the review traces the alloy to the Naval Ordnance Laboratory around 1962 and cites no Battelle nickel-titanium work before 1968.",
+"sources": [
+{
+"date": null,
+"name": "https://ntrs.nasa.gov/api/citations/19720022818/downloads/19720022818.pdf",
+"url": "https://ntrs.nasa.gov/api/citations/19720022818/downloads/19720022818.pdf"
+}
+],
+"tier": "C",
+"type": "research"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
 "dateStart": "2000",
 "direction": "out",
 "edgeLabel": "Battelle co-operates ORNL through UT-Battelle, LLC",
@@ -401,7 +427,7 @@
 "coords": null,
 "dateEnd": null,
 "dateStart": "1929",
-"deg": 13,
+"deg": 14,
 "denials": [
 {
 "by": {
@@ -595,7 +621,7 @@
 "cls": "document",
 "id": "gerb-battelle-investigation",
 "label": "UAP Gerb - Battelle Memorial Institute investigation",
-"tier": "C"
+"tier": "B"
 },
 {
 "cls": "person",
@@ -619,6 +645,12 @@
 "cls": "person",
 "id": "mark-peters",
 "label": "Mark Todd Peters",
+"tier": "C"
+},
+{
+"cls": "institution",
+"id": "naval-ordnance-laboratory",
+"label": "U.S. Naval Ordnance Laboratory (White Oak, Silver Spring)",
 "tier": "C"
 },
 {
@@ -648,6 +680,21 @@
 ],
 "short": "Battelle Memorial Institute",
 "sources": [
+{
+"date": "1972-01-01",
+"name": "NASA SP-5110, 55-Nitinol: The Alloy With a Memory, C. M. Jackson, H. J. Wagner and R. J. Wasilewski, Battelle Memorial Institute for the NASA Technology Utilization Office, 1972",
+"url": "https://ntrs.nasa.gov/api/citations/19720022818/downloads/19720022818.pdf"
+},
+{
+"date": "1969-09-01",
+"name": "NASA CR-1433, Nitinol Characterization Study, Goodyear Aerospace Corporation report GER 14188 under contract NAS 1-7522 for NASA Langley Research Center, September 1969",
+"url": "https://ntrs.nasa.gov/api/citations/19690026989/downloads/19690026989.pdf"
+},
+{
+"date": "1965-03-23",
+"name": "US Patent 3,174,851, Nickel-base alloys, William J. Buehler and Raymond C. Wiley, assigned to the United States as represented by the Secretary of the Navy, filed 1 December 1961, granted 23 March 1965",
+"url": "https://patents.google.com/patent/US3174851A/en"
+},
 {
 "date": "2025-03-13",
 "name": "American Alchemy with Jesse Michels, 'Top Physicist: There Was A Nuclear Catastrophe On Mars (ft. Dr. John Brandenburg)' (audio)",
@@ -716,6 +763,6 @@
 ],
 "sub": "Private nonprofit applied science institute, Columbus, Ohio, est. 1929; operator or co-operator of PNNL, ORNL, INL, NREL, Brookhaven and NBACC",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 40 of 1027, score 87). 14 connections, 6 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C3/A2/D1.",
+"tierRationale": "Re-graded A on a global pass (rank 36 of 1057, score 91). 15 connections, 6 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C3/A2/D1.",
 "timeline": []
 }

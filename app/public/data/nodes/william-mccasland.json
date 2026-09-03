@@ -146,7 +146,7 @@
 "direction": "in",
 "edgeLabel": "Subject of the email and party to the meeting thread, as 'General McCasland' and 'Neil McCasland'",
 "id": "podesta-delonge-mccasland-email-2016",
-"l0": false,
+"l0": true,
 "label": "DeLonge to Podesta, 'General McCasland', 25 January 2016 (WikiLeaks Podesta Emails 3099)",
 "note": "The email names General McCasland and the meeting thread runs through neilmcc79@gmail.com, signing 'Neil McC'. The email gives no rank, service or middle name, so the identification with the board's William Neil McCasland rests on the name and on the node's own Air Force biography, not on the email.",
 "sources": [
@@ -233,7 +233,7 @@
 "status": "missing",
 "sub": "Maj. Gen., USAF (ret.); former AFRL commander; disappeared February 2026",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 147 of 1027, score 50). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A3/D0.",
+"tierRationale": "Re-graded A on a global pass (rank 154 of 1057, score 50). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A3/D0.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": [

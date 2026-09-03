@@ -26,7 +26,7 @@
 "direction": "out",
 "edgeLabel": "Minot 1966 precedes the Malmstrom shutdowns by seven months",
 "id": "malmstrom-echo-flight-1967",
-"l0": false,
+"l0": true,
 "label": "Malmstrom AFB missile shutdowns, March 1967",
 "note": "Different wing, different state, same category of report. The sequence F. E. Warren 1965, Minot 1966, Malmstrom 1967 establishes recurrence rather than a single-site anomaly.",
 "sources": [
@@ -93,7 +93,7 @@
 ],
 "sub": "Reported object activity over 91st SMW Minuteman sites, North Dakota",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 814 of 1027, score 18). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A1/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 842 of 1057, score 18). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A1/D2.",
 "timeline": [
 {
 "date": "1966-08-25",

@@ -63,6 +63,27 @@
 "conflicts": [],
 "connections": [
 {
+"claimTier": 1,
+"cls": "event",
+"dateEnd": null,
+"dateStart": "1976-10-12",
+"direction": "out",
+"edgeLabel": "Signed Private Law 94-126, 12 October 1976",
+"id": "frank-olson-death-1953",
+"l0": false,
+"label": "Death of Frank R. Olson, 1953, and the compensation and litigation that followed",
+"note": "Ford signed S. 3035 paying the widow and three children $187,500 each in full settlement, and said his administration had supported $1,250,000 and would support further relief legislation.",
+"sources": [
+{
+"date": "1976-10-12",
+"name": "Statement on Signing the Bill Providing for the Relief of the Survivors of Dr. Frank R. Olson, 12 October 1976",
+"url": "https://www.presidency.ucsb.edu/documents/statement-signing-the-bill-providing-for-the-relief-the-survivors-dr-frank-r-olson"
+}
+],
+"tier": "B",
+"type": "legislative"
+},
+{
 "claimTier": 2,
 "cls": "event",
 "dateEnd": "1966",
@@ -92,7 +113,7 @@
 "date": "1966-03-28",
 "dateEnd": null,
 "dateStart": "1966-03-28",
-"deg": 1,
+"deg": 2,
 "denials": [],
 "domains": [
 "_rs-archive-mirror",
@@ -137,7 +158,7 @@
 "status": "active",
 "sub": "House Minority Leader; later 38th President",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 793 of 1027, score 18). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 792 of 1057, score 19). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D3.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": [

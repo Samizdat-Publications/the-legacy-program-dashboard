@@ -1,0 +1,303 @@
+{
+"A": 1,
+"C": 1,
+"D": 1,
+"band": "disclosure",
+"claims": [
+{
+"source": "Memorandum for the Secretary of Defense, Justification for US Military Intervention in Cuba (TS), 13 March 1962, JCS 1969/321, https://archive.org/download/OperationNorthwoods/operation_northwoods_djvu.txt",
+"text": "The Chairman signed it and the Joint Chiefs asked for the mission. The signature block reads 'For the Joint Chiefs of Staff / L. L. LEMNITZER / Chairman / Joint Chiefs of Staff', and paragraph 3 states: 'It is recommended that this responsibility for both overt and covert military operations be assigned the Joint Chiefs of Staff.'",
+"tier": 1
+},
+{
+"source": "Annex to Appendix to Enclosure A, 13 March 1962, https://archive.org/download/OperationNorthwoods/operation_northwoods_djvu.txt",
+"text": "The annex names itself: 'ANNEX TO APPENDIX TO ENCLOSURE A / PRETEXTS TO JUSTIFY US MILITARY INTERVENTION IN CUBA', and its first course of action states the method in the document's own words: 'Since it would seem desirable to use legitimate provocation as the basis for US military intervention in Cuba a cover and deception plan ... could be executed as an initial effort to provoke Cuban reactions.'",
+"tier": 1
+},
+{
+"source": "Annex to Appendix to Enclosure A, paragraph 3, 13 March 1962, https://archive.org/download/OperationNorthwoods/operation_northwoods_djvu.txt",
+"text": "One proposed pretext was a staged attack on American forces: 'A \"Remember the Maine\" incident could be arranged in several forms: a. We could blow up a US ship in Guantanamo Bay and blame Cuba.'",
+"tier": 1
+},
+{
+"source": "Annex to Appendix to Enclosure A, paragraph 8a, 13 March 1962, https://archive.org/download/OperationNorthwoods/operation_northwoods_djvu.txt",
+"text": "Another named a specific base and a specific cover organisation: 'An aircraft at Eglin AFB would be painted and numbered as an exact duplicate for a civil registered aircraft belonging to a CIA proprietary organization in the Miami area.'",
+"tier": 1
+},
+{
+"source": "National Security Archive, Chairman, Joint Chiefs of Staff, Memorandum to the Secretary of Defense, 'Justification for US Military Intervention in Cuba', https://nsarchive.gwu.edu/CMC-60/joint-chiefs-pretexts-to-invade-Cuba-1962",
+"text": "It reached the public through a records statute, not through disclosure. The National Security Archive's posting gives the classification as TOP SECRET SPECIAL HANDLING NOFORN and the source as the John F. Kennedy Assassination Records Review Board.",
+"tier": 1
+}
+],
+"cls": "document",
+"cluster": "other",
+"connections": [
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "The airliner pretext turns on an aircraft belonging to a CIA proprietary organisation",
+"id": "cia",
+"l0": true,
+"label": "Central Intelligence Agency",
+"note": "The airliner pretext turns on substituting a duplicate for 'a civil registered aircraft belonging to a CIA proprietary organization in the Miami area'.",
+"sources": [
+{
+"date": "1962-03-13",
+"name": "Justification for US Military Intervention in Cuba, JCS 1969/321, 13 March 1962, full released text",
+"url": "https://archive.org/download/OperationNorthwoods/operation_northwoods_djvu.txt"
+}
+],
+"tier": "A",
+"type": "programmatic"
+},
+{
+"claimTier": 1,
+"cls": "domain",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "Held TOP SECRET SPECIAL HANDLING NOFORN for thirty-five years",
+"id": "d-coverup",
+"l0": false,
+"label": "The Cover-Up",
+"note": "Held TOP SECRET SPECIAL HANDLING NOFORN for thirty-five years and released only because a records statute reached it.",
+"sources": [
+{
+"date": "1962-03-13",
+"name": "Justification for US Military Intervention in Cuba, JCS 1969/321, 13 March 1962, full released text",
+"url": "https://archive.org/download/OperationNorthwoods/operation_northwoods_djvu.txt"
+}
+],
+"tier": "A",
+"type": "behavioral"
+},
+{
+"claimTier": 1,
+"cls": "domain",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "A staffed and signed plan to manufacture events and attribute them to another state",
+"id": "d-disinformation",
+"l0": false,
+"label": "Disinformation & Fabricated Documents",
+"note": "A staffed and signed plan to manufacture events and attribute them to another state, which is the documented instance behind the board's construction-of-cover-stories argument.",
+"sources": [
+{
+"date": "1962-03-13",
+"name": "Justification for US Military Intervention in Cuba, JCS 1969/321, 13 March 1962, full released text",
+"url": "https://archive.org/download/OperationNorthwoods/operation_northwoods_djvu.txt"
+}
+],
+"tier": "C",
+"type": "behavioral"
+},
+{
+"claimTier": 1,
+"cls": "domain",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "Calls for a cover and deception plan executed to provoke a citable reaction",
+"id": "d-psyop",
+"l0": false,
+"label": "Psychological Operations & Perception Management",
+"note": "The annex's own first paragraph calls for 'a cover and deception plan' executed to provoke a reaction that could then be cited as provocation.",
+"sources": [
+{
+"date": "1962-03-13",
+"name": "Justification for US Military Intervention in Cuba, JCS 1969/321, 13 March 1962, full released text",
+"url": "https://archive.org/download/OperationNorthwoods/operation_northwoods_djvu.txt"
+}
+],
+"tier": "B",
+"type": "programmatic"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "Addressed to the Secretary of Defense, signed by the Chairman of the Joint Chiefs",
+"id": "dod",
+"l0": true,
+"label": "United States Department of Defense (secondary designation: Department of War)",
+"note": "The memorandum is addressed to the Secretary of Defense and signed by the Chairman of the Joint Chiefs of Staff.",
+"sources": [
+{
+"date": "1962-03-13",
+"name": "Justification for US Military Intervention in Cuba, JCS 1969/321, 13 March 1962, full released text",
+"url": "https://archive.org/download/OperationNorthwoods/operation_northwoods_djvu.txt"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "location",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "The annex places the duplicate aircraft at Eglin AFB",
+"id": "l-eglin",
+"l0": false,
+"label": "Eglin Air Force Base, Florida",
+"note": "The annex places the duplicate aircraft at Eglin AFB, naming a specific base as the staging point for the deception.",
+"sources": [
+{
+"date": "1962-03-13",
+"name": "Justification for US Military Intervention in Cuba, JCS 1969/321, 13 March 1962, full released text",
+"url": "https://archive.org/download/OperationNorthwoods/operation_northwoods_djvu.txt"
+}
+],
+"tier": "B",
+"type": "geographic"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "Reached the public through the JFK Assassination Records Review Board",
+"id": "national-archives",
+"l0": false,
+"label": "National Archives and Records Administration",
+"note": "The document reached the public through the JFK Assassination Records Review Board and sits in the assassination records collection at NARA; The Black Vault's index gives the JCS memorandum at 15 pages and a separate 181-page NARA file.",
+"sources": [
+{
+"date": "1962-03-13",
+"name": "Justification for US Military Intervention in Cuba, JCS 1969/321, 13 March 1962, full released text",
+"url": "https://archive.org/download/OperationNorthwoods/operation_northwoods_djvu.txt"
+}
+],
+"tier": "B",
+"type": "custody"
+}
+],
+"coords": null,
+"dateEnd": "1962-03-13",
+"dateStart": "1962-03-13",
+"deg": 7,
+"denials": [],
+"desc": "On 13 March 1962 the Joint Chiefs of Staff sent the Secretary of Defense a memorandum forwarding a set of fabricated pretexts that would justify American military intervention in Cuba, and the Chairman, Gen. L. L. Lemnitzer, signed it. Its annex is headed 'PRETEXTS TO JUSTIFY US MILITARY INTERVENTION IN CUBA' and proposes, among other courses of action, blowing up a US ship in Guantanamo Bay and blaming Cuba, and substituting a duplicate aircraft at Eglin Air Force Base for a civil airliner belonging to a CIA proprietary company so that its apparent destruction could be attributed to Cuba. The board argues that cover stories are constructed deliberately at institutional level; this is the declassified instance of exactly that, drafted, staffed and signed at the top of the military chain, and released only because a records statute reached it in 1997. It belongs on the board as a document, not as an assertion about any other case.",
+"domains": [
+"dannyjones-2026-09-03"
+],
+"dossier": {
+"claims": [
+{
+"source": "Memorandum for the Secretary of Defense, Justification for US Military Intervention in Cuba (TS), 13 March 1962, JCS 1969/321, https://archive.org/download/OperationNorthwoods/operation_northwoods_djvu.txt",
+"text": "The Chairman signed it and the Joint Chiefs asked for the mission. The signature block reads 'For the Joint Chiefs of Staff / L. L. LEMNITZER / Chairman / Joint Chiefs of Staff', and paragraph 3 states: 'It is recommended that this responsibility for both overt and covert military operations be assigned the Joint Chiefs of Staff.'",
+"tier": 1
+},
+{
+"source": "Annex to Appendix to Enclosure A, 13 March 1962, https://archive.org/download/OperationNorthwoods/operation_northwoods_djvu.txt",
+"text": "The annex names itself: 'ANNEX TO APPENDIX TO ENCLOSURE A / PRETEXTS TO JUSTIFY US MILITARY INTERVENTION IN CUBA', and its first course of action states the method in the document's own words: 'Since it would seem desirable to use legitimate provocation as the basis for US military intervention in Cuba a cover and deception plan ... could be executed as an initial effort to provoke Cuban reactions.'",
+"tier": 1
+},
+{
+"source": "Annex to Appendix to Enclosure A, paragraph 3, 13 March 1962, https://archive.org/download/OperationNorthwoods/operation_northwoods_djvu.txt",
+"text": "One proposed pretext was a staged attack on American forces: 'A \"Remember the Maine\" incident could be arranged in several forms: a. We could blow up a US ship in Guantanamo Bay and blame Cuba.'",
+"tier": 1
+},
+{
+"source": "Annex to Appendix to Enclosure A, paragraph 8a, 13 March 1962, https://archive.org/download/OperationNorthwoods/operation_northwoods_djvu.txt",
+"text": "Another named a specific base and a specific cover organisation: 'An aircraft at Eglin AFB would be painted and numbered as an exact duplicate for a civil registered aircraft belonging to a CIA proprietary organization in the Miami area.'",
+"tier": 1
+}
+],
+"narrative": "The value of this document to this board is that it removes a step from the argument. The board does not have to establish that the United States government is willing to plan a deception and attribute it to somebody else, because the Joint Chiefs wrote one down and the Chairman signed it. The annex says in its own words that 'Since it would seem desirable to use legitimate provocation as the basis for US military intervention in Cuba a cover and deception plan ... could be executed as an initial effort to provoke Cuban reactions.' Its courses of action include blowing up a US ship in Guantanamo Bay and blaming Cuba, and painting and numbering an aircraft at Eglin AFB as an exact duplicate of a civil registered aircraft belonging to a CIA proprietary organisation in the Miami area. The memorandum also asks for the mission: paragraph 3 recommends that responsibility for both overt and covert military operations be assigned to the Joint Chiefs of Staff. What is on this board is the document and nothing beyond it. Northwoods says nothing about unidentified aerial phenomena and is not offered as evidence about any other case; it is offered as the proven floor of what the institution will put on paper. There is no Lemnitzer person node, deliberately: the signature block is on the document and the document carries him.",
+"openQuestions": [
+"The projected-image-over-Havana element attributed to Northwoods on the podcast is not in the released text opened here; it may sit in the 181-page NARA file The Black Vault indexes alongside the fifteen-page memorandum.",
+"What the Secretary of Defense did with the memorandum after 13 March 1962."
+],
+"roles": [
+"concealment",
+"disclosure"
+],
+"whatItIs": "A memorandum of 13 March 1962 from the Joint Chiefs of Staff to the Secretary of Defense, serial JCS 1969/321, classified TOP SECRET SPECIAL HANDLING NOFORN, forwarding an annex headed 'PRETEXTS TO JUSTIFY US MILITARY INTERVENTION IN CUBA' and signed by the Chairman, Gen. L. L. Lemnitzer. It reached the public through the John F. Kennedy Assassination Records Review Board.",
+"whyImplicated": "This board argues that cover stories are constructed deliberately at institutional level. Northwoods is the declassified instance of exactly that: a set of fabricated pretexts, drafted, staffed and signed at the top of the military chain, naming a specific base and a specific CIA proprietary company, held for thirty-five years and released only because a records statute reached it."
+},
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "operation-northwoods",
+"l0": true,
+"label": "Justification for US Military Intervention in Cuba (Operation Northwoods), 13 March 1962",
+"locLabel": null,
+"members": [
+{
+"cls": "domain",
+"id": "d-coverup",
+"label": "The Cover-Up",
+"tier": "A"
+},
+{
+"cls": "domain",
+"id": "d-disinformation",
+"label": "Disinformation & Fabricated Documents",
+"tier": "C"
+},
+{
+"cls": "domain",
+"id": "d-psyop",
+"label": "Psychological Operations & Perception Management",
+"tier": "B"
+},
+{
+"cls": "location",
+"id": "l-eglin",
+"label": "Eglin Air Force Base, Florida",
+"tier": "B"
+},
+{
+"cls": "institution",
+"id": "national-archives",
+"label": "National Archives and Records Administration",
+"tier": "B"
+}
+],
+"short": "Operation Northwoods, 13 Mar 1962",
+"sources": [
+{
+"date": "1962-03-13",
+"name": "Justification for US Military Intervention in Cuba, JCS 1969/321, 13 March 1962, full released text",
+"url": "https://archive.org/download/OperationNorthwoods/operation_northwoods_djvu.txt"
+},
+{
+"date": "1962-03-13",
+"name": "National Security Archive posting of the same memorandum",
+"url": "https://nsarchive.gwu.edu/CMC-60/joint-chiefs-pretexts-to-invade-Cuba-1962"
+},
+{
+"date": "2026-09-03",
+"name": "The Black Vault, Operation Northwoods document archive index",
+"url": "https://www.theblackvault.com/documentarchive/operation-northwoods/"
+}
+],
+"sub": "Joint Chiefs of Staff memorandum to the Secretary of Defense, JCS 1969/321, TOP SECRET SPECIAL HANDLING NOFORN; released through the JFK Assassination Records Review Board",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 261 of 1057, score 40). 7 connections, 3 of them custody/witness/funding/programmatic. Axes C1/A1/D1.",
+"timeline": [
+{
+"date": "1962-03-13",
+"id": "tl-1962-03-13-northwoods",
+"label": "The Joint Chiefs forward fabricated pretexts for invading Cuba to the Secretary of Defense",
+"precision": "day",
+"strand": "coverup",
+"text": "A memorandum for the Secretary of Defense, subject 'Justification for US Military Intervention in Cuba (TS)', serial JCS 1969/321, forwards an annex headed 'PRETEXTS TO JUSTIFY US MILITARY INTERVENTION IN CUBA' and recommends that responsibility for both overt and covert military operations under the resulting plan be assigned to the Joint Chiefs of Staff. It is signed 'For the Joint Chiefs of Staff, L. L. LEMNITZER, Chairman'.",
+"tier": "B"
+}
+]
+}

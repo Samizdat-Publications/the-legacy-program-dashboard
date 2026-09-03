@@ -1,0 +1,224 @@
+{
+"A": 2,
+"C": 2,
+"D": 2,
+"affiliations": [],
+"age": null,
+"band": null,
+"chronology": [],
+"claims": [
+{
+"source": "FRUS, 1950-1955, The Intelligence Community, List of Persons, https://history.state.gov/historicaldocuments/frus1950-55Intel/persons",
+"text": "The Department of State's list of persons for the intelligence volume gives both offices: 'Cabell, General Charles P., USAF, Director of Intelligence, Office of the Deputy Chief of Staff from 1951 to 1953; Intelligence Advisory Committee, Deputy Director of Central Intelligence from 1953 to 1962.'",
+"tier": 1
+},
+{
+"source": "FRUS, 1945-1950, Emergence of the Intelligence Establishment, List of Persons, https://history.state.gov/historicaldocuments/frus1945-50Intel/persons",
+"text": "He held the Air Force post in the earlier period too. The 1945-1950 volume's list of persons carries him without dates as 'Director of Intelligence, Office of the Deputy Chief of Staff, U.S. Air Force; member, Intelligence Advisory Committee'.",
+"tier": 1
+},
+{
+"source": "CIA Historical Staff Chronology 1946-65, Volume II 1956-65, June 1970, CIA-RDP85B00803R000200050003-5, declassified in part 8 July 2013, https://archive.org/details/cia-readingroom-document-cia-rdp85b00803r000200050003-5",
+"text": "The CIA's own declassified chronology closes the CIA post: '27 DEC. Lt. Gen. C.P. Cabell resigns as DDCI (effective 31 Jan 62)', and '9 MAR. Maj. Gen. Marshall S. Carter appointed DDCI, succeeding Cabell'. The same volume records that in December 1961 'DDCI Cabell named CIA member' when USIB membership was expanded that month.",
+"tier": 1
+},
+{
+"source": "CIA reading room document 0000015305, https://archive.org/details/cia-readingroom-document-0000015305",
+"text": "The board already cites a letter he sent to Donald Keyhoe. The reading room's own catalogue entry for it reads 'UNTITLED (TO DONALD KEYHOE FROM C P CABELL ACKNOWLEDGING HIS LETTER OF MARCH 1', reading-room date 5 February 1958. The scan's OCR is close to unusable: the signature block resolves only far enough to read C. P. Cabell over the title Deputy Director, and no sentence of the body is legible. Nothing is quoted from it here.",
+"tier": 1
+},
+{
+"source": "Danny Jones Podcast #406, 'They Want to Replace God', 19 June 2026, at 1:24:32 to 1:25:21; contradicted against FRUS, 1950-1955, The Intelligence Community, List of Persons, https://history.state.gov/historicaldocuments/frus1950-55Intel/persons",
+"text": "On the Danny Jones Podcast #406, 19 June 2026, at 1:24:32, Matthew Ehret said Project Blue Book was launched under 'CIA Deputy Director Charles Cabell' at the urging of Sir Henry Tizard's UK flying saucer working party, and that Cabell was fired by John F. Kennedy in 1961. The opened records contradict the office: at Blue Book's launch in March 1952 he was the Air Force's Director of Intelligence, and he joined CIA as Deputy Director only in 1953. The CIA's own chronology records a resignation, not a dismissal, on 27 December 1961 effective 31 January 1962.",
+"tier": 2
+}
+],
+"cls": "person",
+"cluster": "ic",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "1953",
+"direction": "out",
+"edgeLabel": "Served as deputy to the Director of Central Intelligence",
+"id": "allen-w-dulles",
+"l0": false,
+"label": "Allen W. Dulles",
+"note": "Cabell's DDCI service from 1953 runs alongside the board's Dulles node; the deputy relationship is the office, and no shared action is asserted here.",
+"sources": [
+{
+"date": "2026-09-03",
+"name": "FRUS 1950-1955, The Intelligence Community, List of Persons",
+"url": "https://history.state.gov/historicaldocuments/frus1950-55Intel/persons"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "1962-01-31",
+"dateStart": "1953",
+"direction": "out",
+"edgeLabel": "Deputy Director of Central Intelligence",
+"id": "cia",
+"l0": true,
+"label": "Central Intelligence Agency",
+"note": "FRUS gives 1953 to 1962; the CIA's own chronology gives the resignation as 27 December 1961, effective 31 January 1962.",
+"sources": [
+{
+"date": "2026-09-03",
+"name": "FRUS 1950-1955, The Intelligence Community, List of Persons",
+"url": "https://history.state.gov/historicaldocuments/frus1950-55Intel/persons"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "1958-02-05",
+"direction": "out",
+"edgeLabel": "Signed the CIA reply to Keyhoe",
+"id": "donald-keyhoe",
+"l0": false,
+"label": "Maj. Donald E. Keyhoe, USMC (Ret.)",
+"note": "The reading room's catalogue entry names him as the sender and Keyhoe as the addressee. The scan's body text is illegible, so the edge records the correspondence and not its content.",
+"sources": [
+{
+"date": "2026-09-03",
+"name": "FRUS 1950-1955, The Intelligence Community, List of Persons",
+"url": "https://history.state.gov/historicaldocuments/frus1950-55Intel/persons"
+}
+],
+"tier": "B",
+"type": "denial"
+},
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": null,
+"dateStart": "1952-03",
+"direction": "out",
+"edgeLabel": "Air Force intelligence chief at Blue Book's creation",
+"id": "project-blue-book",
+"l0": true,
+"label": "Project Blue Book",
+"note": "The edge exists to carry the correction: the office he held in March 1952 was USAF Director of Intelligence, not a CIA post, and the transcript that surfaced him has it the other way round.",
+"sources": [
+{
+"date": "2026-09-03",
+"name": "FRUS 1950-1955, The Intelligence Community, List of Persons",
+"url": "https://history.state.gov/historicaldocuments/frus1950-55Intel/persons"
+}
+],
+"tier": "A",
+"type": "temporal"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "1953",
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "Director of Intelligence, Office of the Deputy Chief of Staff, USAF",
+"id": "usaf",
+"l0": true,
+"label": "United States Air Force",
+"note": "Both FRUS persons lists give the office; the later volume dates it to 1953 within its own coverage. This is the office he held while Project Blue Book was created.",
+"sources": [
+{
+"date": "2026-09-03",
+"name": "FRUS 1950-1955, The Intelligence Community, List of Persons",
+"url": "https://history.state.gov/historicaldocuments/frus1950-55Intel/persons"
+}
+],
+"tier": "A",
+"type": "institutional"
+}
+],
+"date": "1953-01-01",
+"dateEnd": null,
+"dateStart": "1953-01-01",
+"deg": 5,
+"denials": [
+{
+"by": {
+"id": "charles-p-cabell",
+"label": "Gen. Charles P. Cabell"
+},
+"claimTier": 1,
+"denialKind": null,
+"label": "Signed the CIA reply to Keyhoe",
+"note": "The reading room's catalogue entry names him as the sender and Keyhoe as the addressee. The scan's body text is illegible, so the edge records the correspondence and not its content.",
+"of": {
+"id": "donald-keyhoe",
+"label": "Maj. Donald E. Keyhoe, USMC (Ret.)"
+},
+"sources": [
+{
+"date": "2026-09-03",
+"name": "FRUS 1950-1955, The Intelligence Community, List of Persons",
+"url": "https://history.state.gov/historicaldocuments/frus1950-55Intel/persons"
+}
+]
+}
+],
+"domains": [
+"dannyjones-2026-09-03"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "charles-p-cabell",
+"instId": null,
+"l0": false,
+"label": "Gen. Charles P. Cabell",
+"loc": null,
+"locId": null,
+"members": null,
+"narrative": "The board already holds a document over Cabell's signature, cited as a source on the Keyhoe node, and has never had a node for the man who signed it. The two FRUS persons lists give the offices: Director of Intelligence in the Office of the Deputy Chief of Staff, U.S. Air Force, through 1953, then Deputy Director of Central Intelligence from 1953 to 1962. Those dates are the finding. He was the Air Force's intelligence chief through the reorganisation of the UFO project and only afterwards a CIA officer, which is the reverse of how the podcast corpus places him. The CIA's own historical chronology closes the second office: he resigned as DDCI on 27 December 1961, effective 31 January 1962, and was succeeded by Marshall S. Carter in March 1962.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Gen. Charles P. Cabell",
+"sources": [
+{
+"date": "2026-09-03",
+"name": "FRUS 1950-1955, The Intelligence Community, List of Persons",
+"url": "https://history.state.gov/historicaldocuments/frus1950-55Intel/persons"
+},
+{
+"date": "2026-09-03",
+"name": "FRUS 1945-1950, Emergence of the Intelligence Establishment, List of Persons",
+"url": "https://history.state.gov/historicaldocuments/frus1945-50Intel/persons"
+},
+{
+"date": "1970-06-01",
+"name": "CIA Historical Staff Chronology 1946-65, Volume II 1956-65, CIA-RDP85B00803R000200050003-5",
+"url": "https://archive.org/details/cia-readingroom-document-cia-rdp85b00803r000200050003-5"
+},
+{
+"date": "1958-02-05",
+"name": "CIA reading room document 0000015305, letter to Donald Keyhoe from C. P. Cabell",
+"url": "https://archive.org/details/cia-readingroom-document-0000015305"
+}
+],
+"status": "dead",
+"sub": "Director of Intelligence, USAF, to 1953; Deputy Director of Central Intelligence, 1953 to 1962",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 238 of 1057, score 41). 5 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C2/A2/D2.",
+"timeline": [],
+"unexplainedResidual": null,
+"unverified": []
+}

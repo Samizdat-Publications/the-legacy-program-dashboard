@@ -42,6 +42,27 @@
 {
 "claimTier": 1,
 "cls": "program",
+"dateEnd": null,
+"dateStart": "2026-06-30",
+"direction": "out",
+"edgeLabel": "The 2026 House Oversight task force hearing takes MKULTRA as its subject",
+"id": "mkultra",
+"l0": true,
+"label": "Project MKULTRA",
+"note": "The board already carries the 30 June 2026 task force hearing under a title naming this project; the programme it is about is the one documented in the 1977 Senate print.",
+"sources": [
+{
+"date": "1977-08-03",
+"name": "Project MKULTRA joint hearing, 3 August 1977",
+"url": "https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf"
+}
+],
+"tier": "A",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "program",
 "dateEnd": "2026-06-30",
 "dateStart": "2026-06-30",
 "direction": "out",
@@ -64,7 +85,7 @@
 "coords": null,
 "dateEnd": "2026-06-30",
 "dateStart": "2026-06-30",
-"deg": 2,
+"deg": 3,
 "denials": [],
 "desc": "On 30 June 2026 at 10:00 am in 2154 Rayburn the House Oversight Committee's Task Force on the Declassification of Federal Secrets held 'Mind Control and Accountability: Uncovering the Truth of the CIA's MKULTRA Project', with witnesses Stephen Kinzer of Brown University, the investigative journalist Tom O'Neill, and minority witness Dr. Elizabeth Ginexi, a research scientist and former senior program director at the National Institutes of Health. No UAP witness appeared and no UAP subject matter was noticed. This entity exists on the board for two reasons. First, it is a documented and highly relevant precedent case for the Task Force's own remit: MKULTRA is the canonical American example of a compartmented programme whose records were deliberately destroyed on the order of a Director of Central Intelligence, whose existence was denied, and which was exposed only through a records-management accident and subsequent congressional investigation - the exact failure mode this board alleges for the UAP compartments, worked through to completion, with the destruction of records established as fact rather than inference. Second, it is the negative datum for 2026. Between the hinge hearing of 9 September 2025 and 12 August 2026 - a period spanning the presidential release directive of 19-20 February 2026, five PURSUE tranches from 8 May to 7 August 2026, the AARO FY2025 annual report delivered months late on 21 July 2026, the NDA waiver directive of 21 July 2026, and the adoption of the Burlison amendment on 23 July 2026 - the Task Force held no UAP hearing at all. Every one of those developments was executive-branch action taken without contemporaneous congressional testimony. The absence of a 2026 UAP hearing is itself the most important thing this board can record about congressional oversight in 2026.",
 "domains": [
@@ -98,7 +119,7 @@
 ],
 "sub": "Task Force on the Declassification of Federal Secrets, 2154 Rayburn, 10:00 am; Kinzer, O'Neill, Ginexi",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 995 of 1027, score 10). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 1000 of 1057, score 11). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D2.",
 "timeline": [
 {
 "date": "2026-06-30",

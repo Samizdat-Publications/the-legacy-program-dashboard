@@ -67,7 +67,7 @@
 "url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm"
 }
 ],
-"tier": "C",
+"tier": "B",
 "type": "investigative"
 },
 {
@@ -116,12 +116,54 @@
 ],
 "tier": "B",
 "type": "legislative"
+},
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": "1977-07",
+"dateStart": "1973-01",
+"direction": "in",
+"edgeLabel": "Records destroyed January 1973; a misfiled finance set survived",
+"id": "mkultra",
+"l0": true,
+"label": "Project MKULTRA",
+"note": "The destruction is recorded in the 1977 hearing print, and so is the accident that defeated it: finance folders sent to the Retired Records Center in 1970 outside normal procedure were missed in 1973 and again in 1975 and found in 1977.",
+"sources": [
+{
+"date": "1977-08-03",
+"name": "Project MKULTRA joint hearing, 3 August 1977",
+"url": "https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf"
+}
+],
+"tier": "A",
+"type": "custody"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "1973-01",
+"direction": "in",
+"edgeLabel": "Ordered the destruction of the MKULTRA files, January 1973",
+"id": "sidney-gottlieb",
+"l0": false,
+"label": "Sidney Gottlieb",
+"note": "The 1977 CIA memorandum reprinted in the hearing print says he retrieved and destroyed all the MKULTRA documents he was able to locate, which is why the 1973 and 1975 searches found nothing.",
+"sources": [
+{
+"date": "1977-06-22",
+"name": "Memorandum for the DDCI, 22 June 1977, Appendix B of the Project MKULTRA joint hearing",
+"url": "https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf"
+}
+],
+"tier": "B",
+"type": "custody"
 }
 ],
 "coords": null,
 "dateEnd": null,
 "dateStart": "1992-10-26",
-"deg": 4,
+"deg": 6,
 "denials": [],
 "desc": "Whoever controls the records controls the history, and this is the one front on which the disclosure movement has produced enacted law. Subtitle C of the FY2024 National Defense Authorization Act (P.L. 118-31) created, in Section 1841, an Unidentified Anomalous Phenomena Records Collection at the National Archives; in Section 1842, an affirmative duty on every government office to review, identify and transmit UAP records to NARA; and in Section 1843, grounds for postponement - a framework in which withholding is temporary and must be justified rather than permanent and unexplained. The model is the President John F. Kennedy Assassination Records Collection Act of 1992, which is why the Senate's original UAP Disclosure Act of 2023 also proposed an independent Review Board with the power to order release over agency objection; that Review Board and the eminent-domain provision over recovered material were stripped before enactment. What survived is a records statute without an independent adjudicator, which places the postponement decision back inside the agencies that hold the records. The stakes are set by the documented history: GAO found in 1995 that Roswell Army Air Field's outgoing messages for 1946-1949 had been destroyed with no destruction certificate. Scoring high on this domain means an entity holds, transfers, withholds or destroys records - or wrote the law governing those acts.",
 "domains": [
@@ -170,7 +212,7 @@
 ],
 "sub": "Legal-procedural domain - the statutory fight over custody, transfer and destruction of the paper",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 425 of 1027, score 32). 4 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A1/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 269 of 1057, score 40). 6 connections, 3 of them custody/witness/funding/programmatic. Axes C1/A1/D3.",
 "timeline": [
 {
 "date": "2026-07-23",

@@ -135,6 +135,27 @@
 },
 {
 "claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "Commissioned by statute, section 1133 of Public Law 100-180, and reported to the four defence committees",
+"id": "gao-nsiad-88-152",
+"l0": true,
+"label": "GAO/NSIAD-88-152 - Special Access Programs: DOD Criteria and Procedures for Creating Them Need Improvement",
+"note": "Congress commissioned it by statute, section 1133 of Public Law 100-180, and GAO reported to the four defence committees.",
+"sources": [
+{
+"date": "1988-05-24",
+"name": "GAO/NSIAD-88-152, Special Access Programs: DOD Criteria and Procedures for Creating Them Need Improvement",
+"url": "https://www.gao.gov/assets/nsiad-88-152.pdf"
+}
+],
+"tier": "B",
+"type": "investigative"
+},
+{
+"claimTier": 1,
 "cls": "location",
 "dateEnd": null,
 "dateStart": "2023-07-26",
@@ -163,7 +184,7 @@
 "coords": null,
 "dateEnd": null,
 "dateStart": "1966-04-05",
-"deg": 6,
+"deg": 7,
 "denials": [],
 "desc": "Congressional oversight of the deepest access tiers is not a matter of will but of architecture, and the architecture is written down. Under 10 U.S.C. 119 the Secretary of Defense may waive notification of a special access programme so that only the chairs and ranking members of four defence committees are told - eight members, ordinarily without cleared staff, ordinarily orally, with no ability to take notes away or consult a colleague. A member outside that eight who suspects a programme exists has no lawful route to confirm it, and a member inside it has no lawful route to tell anyone. That is the structural fact the disclosure fight has been trying to break since 2017. The instruments Congress has reached for are traceable: mandatory reporting requirements in successive NDAAs, the creation of AARO with a statutory mandate to review the historical record, the Department of Defense Inspector General's evaluation DODIG-2023-109, and - on 9 September 2025 - a House Oversight hearing titled 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection' that put the access problem itself on the record. Scoring high on this domain means an entity sits at the point where the executive's information meets Congress's right to it: a committee chair, a cleared staff director, an IG, or a member who forced a vote.",
 "domains": [
@@ -218,7 +239,7 @@
 ],
 "sub": "Institutional domain - the committees, clearances and gaps through which Congress does or does not see",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 471 of 1027, score 30). 6 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A2/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 465 of 1057, score 31). 7 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A2/D3.",
 "timeline": [
 {
 "date": "2024-01-25",

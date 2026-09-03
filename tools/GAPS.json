@@ -592,6 +592,238 @@
   "gap": "Speaker Mike Johnson's role is named in a single journalistic source and is not otherwise documented; he is referenced in claims here but not given a node."
  },
  {
+  "domain": "dannyjones-2026-09-03",
+  "gap": {
+   "id": "gap-nuro-establishing-instrument",
+   "text": "The National Underwater Reconnaissance Office is NOT OPENED, in a third corpus running. nro.gov and nsa.gov returned HTTP 403 to curl with a browser user agent, irp.fas.org has no NURO page at the path its sibling collection pages use, the govinfo search API returned a count of zero for the phrase, and archives.gov's ISCAP appeals page returned 404. The strings NURO and National Underwater Reconnaissance occur nowhere in the 50 pages of the released AZORIAN history, and the Pelton filing does not name the office either. Every reachable description traces to Sontag and Drew's 1998 book, which is not a record. bobby-ray-inman's unresolved line stays as written.",
+   "wouldClose": "A mandatory declassification review request to the NRO's Center for the Study of National Reconnaissance, and a FOIA to the Chief of Naval Operations for the 1969 establishing agreement."
+  }
+ },
+ {
+  "domain": "dannyjones-2026-09-03",
+  "gap": {
+   "id": "gap-ivy-bells-codename",
+   "text": "The codename Ivy Bells is NOT OPENED in any federal record. The Solicitor General's brief in Pelton v. United States, No. 87-6433, describes the compromise only as information about several classified NSA operations and names no programme, codename, cable, sea area or submarine. us-v-pelton-1986 is built as the record that exists in its place.",
+   "wouldClose": "A FOIA to NSA for the damage assessment referenced in the Pelton prosecution, and the trial record in the District of Maryland."
+  }
+ },
+ {
+  "domain": "dannyjones-2026-09-03",
+  "gap": {
+   "id": "gap-uss-halibut-awards",
+   "text": "USS Halibut is NOT OPENED as a special-operations platform and is deliberately not built. The Navy's own Dictionary of American Naval Fighting Ships entry, read in full, carries no awards or unit citation list, no reference to special operations and no narrative after 1967, and gives the ship's speed and complement as classified. The gap is the silence, not a claim about what filled it.",
+   "wouldClose": "The Chief of Naval Operations awards record, or the ship's Command Operations Reports at the Naval History and Heritage Command."
+  }
+ },
+ {
+  "domain": "dannyjones-2026-09-03",
+  "gap": {
+   "id": "gap-sumner-shapiro-oni",
+   "text": "Sumner Shapiro's appointment and tenure as Director of Naval Intelligence is NOT OPENED. Two history.navy.mil leadership paths returned 404 on a host that served the DANFS entry, history.state.gov returned no results for his name, and the govinfo search API returned only relevance noise. Every reachable statement of the 1978 to 1982 tenure is an obituary or an encyclopedia entry, and the Naval Institute oral history sits behind a paywall. oni keeps no named director until a record is opened.",
+   "wouldClose": "The Navy register of commissioned officers for 1978 to 1982, or his official Navy biography."
+  }
+ },
+ {
+  "domain": "dannyjones-2026-09-03",
+  "gap": {
+   "id": "gap-louis-jolyon-west-identification",
+   "text": "Louis Jolyon West cannot be built on the record that exists. CIA reading-room document 00017441, MKULTRA Subproject 43, is open and every occurrence of the researcher's name and university in it is excised, and his name is absent from the whole 1977 Senate hearing print. No node can rest on that.",
+   "wouldClose": "West's UCLA papers, the Warren Commission material, and the California record on the UCLA violence centre, none of which was reached."
+  }
+ },
+ {
+  "domain": "dannyjones-2026-09-03",
+  "gap": {
+   "id": "gap-wackenhut-pre-1997-board",
+   "text": "The Wackenhut Corporation is CONTRADICTED from 1997 onward and NOT OPENED before it, so no node is built. EDGAR's earliest filing of any kind for CIK 0000104030 is dated 24 March 1994 and its earliest proxy is a preliminary 14A of 24 March 1997; the proxies for the 1998, 1999 and 2002 meetings name every director and Inman is not among them. Nothing establishes the board's composition before 1997 either way. The correction goes on bobby-ray-inman instead.",
+   "wouldClose": "The SEC public reference facility for paper proxies, and the corporation's 10-K exhibits from 1994."
+  }
+ },
+ {
+  "domain": "dannyjones-2026-09-03",
+  "gap": {
+   "id": "gap-ristvet-bluegill-pod-report",
+   "text": "Byron L. Ristvet and the Wright-Patterson Flight Dynamics Laboratory report on the Bluegill instrumentation pods are NOT OPENED. Three DTIC PDF paths returned HTTP 403 to both WebFetch and curl with a browser user agent, the DTIC citation endpoint answered 200 with a maintenance page, the archive.org DTIC mirror returned 404 and 503 for the accession and zero results for the identifier prefix, and OSTI returned zero records for POR-2037 and for the report title. archive.org holds nothing by this author.",
+   "wouldClose": "A route into DTIC from a machine DTIC does not refuse, or the report on NTRS, govinfo or OSTI under a different accession."
+  }
+ },
+ {
+  "domain": "dannyjones-2026-09-03",
+  "gap": {
+   "id": "gap-walter-figel",
+   "text": "Walter Figel is NOT OPENED. The full 341st Strategic Missile Wing release of 14 June 2001, eighty-seven pages, was searched and the names Figel, Salas and Carlson occur nowhere in it; the only officer named in the Echo Flight section is Capt. Bradshaw in the command post. doc-341-smw-history-1967 carries the deciding document instead.",
+   "wouldClose": "The 341st Strategic Missile Wing's own duty rosters for March 1967, which are not in the released excerpts, by FOIA to Air Force Global Strike Command."
+  }
+ },
+ {
+  "domain": "dannyjones-2026-09-03",
+  "gap": {
+   "id": "gap-steven-lovekin",
+   "text": "Brig. Gen. Steven Lovekin is CONTRADICTED as a candidate and not built. All fifteen published pages of the Wilson-Davis notes were read image by image: Wilson, Davis, Greer, Miller and Edgar Mitchell are in them and Lovekin is not. The triage premise, that the record was already on the board, fails.",
+   "wouldClose": "A Disclosure Project sworn statement or a military service record, neither of which was opened."
+  }
+ },
+ {
+  "domain": "dannyjones-2026-09-03",
+  "gap": {
+   "id": "gap-nonlinear-solutions-ownership",
+   "text": "Nonlinear Solutions, LLC is PARTLY opened and the ownership link is NOT OPENED, so no node is built. USAspending subaward 202955, $44,178.00, action date 1 January 2025, prime recipient The MITRE Corporation, description 'HQ, USSPACECOM FY25', under DoD delivery order W56KGU24F0010, is opened and recorded here so a later pass starts from the record. Nothing opened ties the company to Sean Kirkpatrick: the North Carolina Secretary of State search returned HTTP 403 behind Cloudflare, the Virginia SCC Clerk's Information System redirected and returned 404, and the FPDS public atom feed returned 404 for the vendor-name query.",
+   "wouldClose": "A state business registry record naming an owner, officer or registered agent, from a machine those registries do not refuse."
+  }
+ },
+ {
+  "domain": "dannyjones-2026-09-03",
+  "gap": {
+   "id": "gap-macg-28-peru",
+   "text": "Marine Air Control Group 28's presence in Peru is NOT OPENED. The official lineage of MACG-28, certified by the Commandant of the Marine Corps on 28 September 2018, records no deployment to Peru or South America and no counter-narcotics operation of any kind between its 1967 redesignation and Desert Shield in 1990. The unit's command chronologies for 1996 and 1997 are not online at any path found, and no SOUTHCOM command history for those years was located. This is the gap that tests the Weygandt account.",
+   "wouldClose": "The MACG-28 command chronologies for 1996 and 1997 from the Marine Corps History Division, and the SOUTHCOM command histories for the same years."
+  }
+ },
+ {
+  "domain": "dannyjones-2026-09-03",
+  "gap": {
+   "id": "gap-isa-establishment-record",
+   "text": "The Intelligence Support Activity is NOT OPENED for the unit. The govinfo search API returned one 1924 Corps of Engineers report for USAISA and nothing for the phrase, history.army.mil refused this environment with HTTP 403, and irp.fas.org/agency/inscom/ is a 404. Nothing opened names the Intelligence Support Activity, USAISA, the Field Operations Group or the codename attached to it in the transcript. gao-nsiad-88-152 carries the special-access record that was opened instead.",
+   "wouldClose": "A FOIA request to INSCOM for the Annual Historical Reviews of FY 1982 and FY 1983, or to the Army Center of Military History for the unit's lineage and honors."
+  }
+ },
+ {
+  "domain": "dannyjones-2026-09-03",
+  "gap": {
+   "id": "gap-stargate-named-unit-members",
+   "text": "Whether any STAR GATE document names Ed Dames, Paul H. Smith or Mel Riley is NOT OPENED, and cannot be settled from here by construction. Six STAR GATE documents were opened and none names a unit member: session forms print labelled fields for Remote Viewer, Interviewer and Observer and leave all three blank, and narrative memoranda substitute CIA release codes for personal names. cia.gov/readingroom loops to its own front page from this machine and the archive.org full-text search hosts did not answer it.",
+   "wouldClose": "A full-text index of the released STARGATE collection built locally from The Black Vault's text files."
+  }
+ },
+ {
+  "domain": "dannyjones-2026-09-03",
+  "gap": {
+   "id": "gap-morehouse-army-proceedings-1994",
+   "text": "David Morehouse's 1994 to 1995 Army proceedings are NOT OPENED, and his claim that unit members obtained the 1995 release is CONTRADICTED by the CIA's own 1995 memoranda, which name the Office of Research and Development and the American Institutes for Research as conducting the review. boards.law.af.mil holds decisions only from October 1998 and redacts applicant identity, so it cannot hold this.",
+   "wouldClose": "A FOIA request to the Army Review Boards Agency and a records request to NARA."
+  }
+ },
+ {
+  "domain": "dannyjones-2026-09-03",
+  "gap": {
+   "id": "gap-jp-aerospace-pre-2001",
+   "text": "JP Aerospace is CONTRADICTED as a federal awardee within USAspending's coverage and NOT OPENED before it, so no node is built. The USAspending recipient index returns zero matches for the name while returning eight for Lockheed Martin, and award searches across contracts, indefinite-delivery vehicles and grants from 1 October 1990 to 1 September 2026 return no results. sbir.gov returned Forbidden to its public awards API with and without a browser user agent.",
+   "wouldClose": "An SBIR award listing obtained by a route sbir.gov does not refuse, which would close it in either direction."
+  }
+ },
+ {
+  "domain": "dannyjones-2026-09-03",
+  "gap": {
+   "id": "gap-bustamante-malmstrom-post-2000",
+   "text": "Andrew Bustamante's account of a post-2000 multi-missile shutdown at Malmstrom is NOT OPENED. No record of any such event was reached.",
+   "wouldClose": "A FOIA to Air Force Global Strike Command and the 341st Missile Wing for incident and command-post reports."
+  }
+ },
+ {
+  "domain": "dannyjones-2026-09-03",
+  "gap": {
+   "id": "gap-bustamante-manuscript-prepublication-file",
+   "text": "The prepublication history of the Bustamante manuscript is NOT OPENED. The transcript's account of a 2021 submission, a 2022 classification determination and an approval roughly three weeks after suit was threatened rests on the speaker alone; no CIA record of that review was opened and a book's own clearance page is not a record. cia-prepublication-classification-review-board is built on the Agency's released procedures instead.",
+   "wouldClose": "A FOIA to the CIA Prepublication Classification Review Board for correspondence in the named matter."
+  }
+ },
+ {
+  "domain": "dannyjones-2026-09-03",
+  "gap": {
+   "id": "gap-prcrb-founding-instrument",
+   "text": "No founding instrument for the CIA Prepublication Classification Review Board was opened, so its node carries no dateStart and no dateEnd. The regulation or directive that created it, and the date, are unestablished here.",
+   "wouldClose": "The Agency regulation establishing the Board, or Edgar v. Haines, No. 20-1568 (4th Cir., decided 23 June 2021), the appellate holding on the whole prepublication regime, which did not open from a source whose PDF extracts."
+  }
+ },
+ {
+  "domain": "dannyjones-2026-09-03",
+  "gap": {
+   "id": "gap-dodd-5105-15-original",
+   "text": "The issuing office's own copy of DoD Directive 5105.15 of 7 February 1958 is NOT OPENED. esd.whs.mil returned HTTP 403 on both the current and the cancelled paths, to curl with and without a browser user agent and to WebFetch. The directive's text was reached instead through the ARPA-commissioned history at DTIC accession AD-A154 363, which reproduces it as a figure; that scan is poor and renders ARPA as AREA throughout, and the readings carried on neil-h-mcelroy are normalised from obvious OCR corruption.",
+   "wouldClose": "The Washington Headquarters Services issuances library, from a machine it does not refuse, or a National Archives copy of the signed directive."
+  }
+ },
+ {
+  "domain": "dannyjones-2026-09-03",
+  "gap": {
+   "id": "gap-seaborg-chairmanship-end",
+   "text": "The end of Glenn T. Seaborg's chairmanship of the Atomic Energy Commission is NOT OPENED, so his node carries no end date. The triage row gives 1961 to 1971 and no record opened for this pass gives an end. archive.org full-text searches on 'succeeding Seaborg' and on Seaborg with Schlesinger and the Commission returned nothing bearing on it.",
+   "wouldClose": "An AEC annual report to Congress for the closing year, or the Federal Register notice of his successor's appointment."
+  }
+ },
+ {
+  "domain": "dannyjones-2026-09-03",
+  "gap": {
+   "id": "gap-aec-annual-report",
+   "text": "No Atomic Energy Commission annual report to Congress was opened. The 20 March 1963 letter on glenn-t-seaborg names and describes the Commission's Annual Report to Congress for 1962 and its Appendix 15 on environmental contamination from nuclear explosives, but the report itself was not reached: an archive.org title search and a full-text search on the series returned one bookseller listing with no text.",
+   "wouldClose": "A govinfo or Department of Energy OSTI copy of the Commission's annual reports to Congress."
+  }
+ },
+ {
+  "domain": "dannyjones-2026-09-03",
+  "gap": {
+   "id": "gap-cabell-keyhoe-letter-body",
+   "text": "The body of the letter from Charles P. Cabell to Donald Keyhoe, CIA reading-room document 0000015305, is PARTLY OPENED at best. The scan's OCR is close to unusable: the signature block resolves only far enough to read C. P. Cabell over the title Deputy Director, and no sentence of the body is legible. Nothing is quoted from it and the edge records the correspondence rather than its content.",
+   "wouldClose": "A better scan of reading-room document 0000015305, or the same letter in Keyhoe's or NICAP's papers."
+  }
+ },
+ {
+  "domain": "dannyjones-2026-09-03",
+  "gap": {
+   "id": "gap-bluebird-handwritten-annotation",
+   "text": "The handwritten approval annotation on the 5 April 1950 BLUEBIRD proposal was never seen. The twelve-page PDF was opened and its typed pages read cleanly, but the annotated excised copy's handwriting does not survive the OCR layer and this machine has pdftotext and no page rasteriser. The $65,515 total is from the typescript; the 20 April 1950 approval date is the National Security Archive's catalogue description and is not asserted as the document's own.",
+   "wouldClose": "A page rasteriser on the same PDF, or the National Security Archive's own transcription of the annotation."
+  }
+ },
+ {
+  "domain": "dannyjones-2026-09-03",
+  "gap": {
+   "id": "gap-john-marks-personnel-record",
+   "text": "No personnel record for John Marks's State Department office was reached, so no Marks person node is drafted. The only description found is the National Security Archive's, which is an archivist's characterisation rather than a record. john-marks-foia-f-76-374 avoids the problem by being about the request, which the CIA memorandum of 22 June 1977 names by number.",
+   "wouldClose": "A State Department personnel or employment record, or Marks's own FOIA correspondence file."
+  }
+ },
+ {
+  "domain": "dannyjones-2026-09-03",
+  "gap": {
+   "id": "gap-operation-snowbird-air-force-record",
+   "text": "The Air Force's own description of Operation Snowbird is NOT OPENED and no Snowbird node is built. dm.af.mil, ang.af.mil and 162wg.ang.af.mil all returned HTTP 403 to this environment, as did the Davis-Monthan Portals PDF, and the Air Force Historical Research Agency unit history for the 104th Fighter Squadron was not reached. The Associated Press report of 26 July 1997 on mdang-flare-statement-1997 never uses the name.",
+   "wouldClose": "Any route that reaches af.mil, which would settle whether the 13 March 1997 Maryland Air National Guard sorties were flown under that programme."
+  }
+ },
+ {
+  "domain": "dannyjones-2026-09-03",
+  "gap": {
+   "id": "gap-gao-nsiad-89-133",
+   "text": "GAO/NSIAD-89-133 of 4 May 1989 was opened in full and is not built as a node in this pass. It gives the acquisition, intelligence and military operations taxonomy, records that the programmes are commonly referred to as black programs although the term is not used in DoD policy, extends the carve-out figure gao-130581 argues from with the Service's count growing from 63 contracts in 1971 to 1,061 in 1987, and records DoD audit and inspection agencies reviewing special access programmes increasing from two to eight since 1978. It is a document node waiting to be written, not a gap in the record.",
+   "wouldClose": "Nothing: the document is open at gao.gov. This entry exists so the next pass does not re-open it."
+  }
+ },
+ {
+  "domain": "dannyjones-2026-09-03",
+  "gap": {
+   "id": "gap-northwoods-havana-projection",
+   "text": "The projected-image-over-Havana element attributed to Operation Northwoods on the podcast is not in the released text opened here, and operation-northwoods does not carry it. It may sit in the 181-page NARA file The Black Vault indexes alongside the fifteen-page JCS memorandum, which was not opened.",
+   "wouldClose": "The 181-page assassination-records file at NARA that The Black Vault's Northwoods index lists."
+  }
+ },
+ {
+  "domain": "dannyjones-2026-09-03",
+  "gap": {
+   "id": "gap-edge-azorian-dssp",
+   "text": "A drafted edge from project-azorian to deep-submergence-systems-project was dropped rather than built. Its own note says the connection is chronological and thematic and that no opened document links the two programmes, which under CLAUDE.md section 2 is a reason not to draw a line between them. The chronological adjacency is real and is recorded here instead.",
+   "wouldClose": "A document naming both programmes, or a Navy or CIA record placing DSSP work inside AZORIAN."
+  }
+ },
+ {
+  "domain": "dannyjones-2026-09-03",
+  "gap": {
+   "id": "gap-edge-brown-absence",
+   "text": "Two drafted denial edges, from talbert-gravity-series-1955 and from bell-aircraft-corporation to thomas-townsend-brown, were dropped rather than built. Each asserted an absence: that Brown is named nowhere in the three November 1955 articles. An absence is a finding and is carried as a Tier 1 claim on the document node; drawing it as an edge would put a line on the graph between Brown and a series that never mentions him, which reads to a reader as a connection.",
+   "wouldClose": "Nothing: the finding is on the board as a claim. This entry records why it is not an edge."
+  }
+ },
+ {
   "domain": "elizondo-ttsa",
   "gap": "The outcome of Elizondo's May 2021 DoD Inspector General complaint has never been published. FOIA releases have produced the IG's February 2023 interview transcript of Elizondo (103 pages), 126 pages of IG emails released February 2024, and 40 further pages in March 2025 — but no finding, no substantiation determination, and no corrective action. The DoD IG report released publicly on 7 January 2026 (case DODOIG-2025-000932, closed February 2025, not substantiated) concerns a different, heavily redacted complainant whose profile matches David Grusch, not Elizondo. Do not conflate them."
  },

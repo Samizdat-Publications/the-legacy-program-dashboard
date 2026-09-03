@@ -8,6 +8,11 @@
 "chronology": [],
 "claims": [
 {
+"source": "Ansel E. Talbert, New York Herald Tribune, 20 November 1955 caption and continuation p. 36 and 22 November 1955 continuation p. 10, page images at https://archive.org/download/talbert1ny/talbert1ny_djvu.txt and https://archive.org/download/talbert3ny/talbert3ny_djvu.txt",
+"text": "In November 1955 he was a vice-president of Martin, not its chief executive, and the atom-bomb comparison he made was about time and not about money. Ansel Talbert's Herald Tribune series identifies him as 'vice-president in charge of advanced design planning of Martin Aircraft Corp.' and as 'organizing a new Research Institute for Advanced Study', and quotes him: 'I think we could do the job in about the time that it actually required to build the first atom bomb if enough trained scientific brain-power simultaneously began thinking about and working towards a solution.'",
+"tier": 1
+},
+{
 "source": "History of the Institute of Field Physics (1955-1959), UNC Physics and Astronomy department history https://physics.unc.edu/home/department-history/section-ii/",
 "text": "The UNC Physics and Astronomy department history names the Air Force route into the Institute of Field Physics as the Aeronautical Research Laboratory at Wright-Patterson Air Force Base, not the Wright Air Development Center: 'Joshua Goldberg was, at the time of the establishment of the IOFP and the conference, in charge of aspects of the Air Force's funding of general relativity, in the \"modern physics research branch\" (based at the Aeronautical Research Laboratory at Wright Patterson Air Force Base).' The page uses neither 'Wright Air Development Center' nor 'WADC'.",
 "tier": 1
@@ -45,7 +50,7 @@
 "direction": "in",
 "edgeLabel": "Trimble and the Glenn L. Martin Company bought a Founder's Membership for $5,000",
 "id": "institute-of-field-physics",
-"l0": false,
+"l0": true,
 "label": "Institute of Field Physics (UNC Chapel Hill)",
 "note": "The department history records that Trimble and the Glenn Martin Company purchased a Founder's Membership for the Institute for $5,000 and offered their support to solicit further funding.",
 "sources": [
@@ -55,7 +60,7 @@
 "url": "https://physics.unc.edu/department-history/section-ii/"
 }
 ],
-"tier": "B",
+"tier": "A",
 "type": "funding"
 },
 {
@@ -78,12 +83,33 @@
 ],
 "tier": "C",
 "type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "Quoted by name as Martin's vice-president in charge of advanced design planning",
+"id": "talbert-gravity-series-1955",
+"l0": true,
+"label": "Ansel E. Talbert, three-part gravity series, New York Herald Tribune, 20-22 November 1955",
+"note": "The series quotes Trimble by name as Martin's vice-president for advanced design planning and reports him organizing the Research Institute for Advanced Study.",
+"sources": [
+{
+"date": null,
+"name": "https://archive.org/download/talbert1ny/talbert1ny_djvu.txt",
+"url": "https://archive.org/download/talbert1ny/talbert1ny_djvu.txt"
+}
+],
+"tier": "C",
+"type": "research"
 }
 ],
 "date": "1955-06-10",
 "dateEnd": null,
 "dateStart": "1955-06-10",
-"deg": 2,
+"deg": 3,
 "denials": [],
 "domains": [
 "legacy-1947-86"
@@ -109,6 +135,16 @@
 "short": "George S. Trimble",
 "sources": [
 {
+"date": "1955-11-20",
+"name": "Ansel E. Talbert, 'Conquest of Gravity Aim Of Top Scientists in U. S.', New York Herald Tribune, 20 November 1955, page image",
+"url": "https://archive.org/download/talbert1ny/talbert1ny_djvu.txt"
+},
+{
+"date": "1955-11-22",
+"name": "Ansel E. Talbert, 'New Air Dream, Planes Flying Outside Gravity', New York Herald Tribune, 22 November 1955, page image",
+"url": "https://archive.org/download/talbert3ny/talbert3ny_djvu.txt"
+},
+{
 "date": "2026-09-02",
 "name": "History of the Institute of Field Physics (1955-1959), UNC Physics and Astronomy department history",
 "url": "https://physics.unc.edu/home/department-history/section-ii/"
@@ -127,7 +163,7 @@
 "status": "dead",
 "sub": "Glenn L. Martin Company executive; proposed RIAS as an industrial institute for advanced study",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 659 of 1027, score 23). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A1/D0.",
+"tierRationale": "Re-graded C on a global pass (rank 583 of 1057, score 27). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A1/D0.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": "RIAS's founding date and founder were not established from a primary record. A '1955, by George Bunker' attribution appears only in encyclopedia summaries and was not opened. Trimble's June 1955 letter describes the institute as still proposed, which is consistent with 1955 but does not establish it."

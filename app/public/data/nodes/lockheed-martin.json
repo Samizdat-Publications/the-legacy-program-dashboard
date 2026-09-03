@@ -529,7 +529,7 @@
 "url": "https://oversight.house.gov/wp-content/uploads/2025/09/George-Knapp-Written-Testimony.pdf"
 }
 ],
-"tier": "B",
+"tier": "C",
 "type": "custody"
 },
 {
@@ -625,6 +625,27 @@
 ],
 "tier": "A",
 "type": "funding"
+},
+{
+"claimTier": 2,
+"cls": "program",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "The 1978 mining consortium names Lockheed, the predecessor of this node",
+"id": "project-azorian",
+"l0": false,
+"label": "Project AZORIAN and the Hughes Glomar Explorer",
+"note": "The released history's closing page states that a private consortium of companies, including Lockheed, Global Marine, Standard Oil of Indiana and Royal Dutch Shell, was readying the Hughes Glomar Explorer for deep-ocean mining operations to begin late in the fall of 1978. The document names Lockheed and not Lockheed Martin, and the transcript's twenty-year lease to Lockheed Martin is not what the record says. Tier 2 because identifying the 1978 firm with this node is an identification across the 1995 merger that the document does not make.",
+"sources": [
+{
+"date": "2010-01-04",
+"name": "PROJECT AZORIAN: THE STORY OF THE HUGHES GLOMAR EXPLORER, CIA reading-room document 0005301269, approved for release 4 January 2010, 50 pages",
+"url": "https://archive.org/download/cia-readingroom-document-0005301269/0005301269_djvu.txt"
+}
+],
+"tier": "A",
+"type": "institutional"
 },
 {
 "claimTier": 3,
@@ -776,7 +797,7 @@
 "coords": null,
 "dateEnd": null,
 "dateStart": "1995",
-"deg": 29,
+"deg": 30,
 "denials": [
 {
 "by": {
@@ -1075,7 +1096,7 @@
 "cls": "location",
 "id": "l-la",
 "label": "Los Angeles and Burbank, California",
-"tier": "B"
+"tier": "C"
 },
 {
 "cls": "location",
@@ -1093,6 +1114,12 @@
 "cls": "person",
 "id": "luis-elizondo",
 "label": "Luis D. Elizondo",
+"tier": "A"
+},
+{
+"cls": "program",
+"id": "project-azorian",
+"label": "Project AZORIAN and the Hughes Glomar Explorer",
 "tier": "A"
 },
 {
@@ -1156,7 +1183,7 @@
 ],
 "sub": "Prime defense contractor; largest single recipient of DoD prime contract obligations",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 25 of 1027, score 104). 29 connections, 10 of them custody/witness/funding/programmatic, 3 official denials recorded against it. Axes C3/A3/D0.",
+"tierRationale": "Re-graded A on a global pass (rank 26 of 1057, score 105). 30 connections, 10 of them custody/witness/funding/programmatic, 3 official denials recorded against it. Axes C3/A3/D0.",
 "timeline": [
 {
 "date": "2009-01-01",

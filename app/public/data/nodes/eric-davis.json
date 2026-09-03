@@ -766,6 +766,27 @@
 "type": "institutional"
 },
 {
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "His letter of 25 April 2002 is addressed to Davis at Warp Drive Metrics",
+"id": "will-miller",
+"l0": false,
+"label": "Will Miller",
+"note": "Miller's letter of 25 April 2002 is addressed to Davis at Warp Drive Metrics and offers him paid research assistance.",
+"sources": [
+{
+"date": "2002-10-16",
+"name": "The Wilson-Davis notes as published (EWD NOTES, 10/16/02, Eric Davis Meeting with Adm. Wilson), fifteen pages, The Black Vault case files",
+"url": "https://documents2.theblackvault.com/casefiles/wilsonleak.pdf"
+}
+],
+"tier": "B",
+"type": "witness-chain"
+},
+{
 "claimTier": 2,
 "cls": "document",
 "dateEnd": "2019",
@@ -826,7 +847,7 @@
 "date": "2010-01-01",
 "dateEnd": null,
 "dateStart": "2010-01-01",
-"deg": 19,
+"deg": 20,
 "denials": [],
 "domains": [
 "_rs-aawsap-dirds",
@@ -990,7 +1011,7 @@
 "status": "active",
 "sub": "Astrophysicist, EarthTech International; five-time AAWSAP DIRD author",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 23 of 1027, score 106). 20 connections, 7 of them custody/witness/funding/programmatic. Axes C2/A3/D3.",
+"tierRationale": "Re-graded A on a global pass (rank 20 of 1057, score 110). 21 connections, 8 of them custody/witness/funding/programmatic. Axes C2/A3/D3.",
 "timeline": [
 {
 "date": "2002-10-16",

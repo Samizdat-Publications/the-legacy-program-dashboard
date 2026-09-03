@@ -583,7 +583,7 @@
 "url": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF"
 }
 ],
-"tier": "B",
+"tier": "A",
 "type": "investigative"
 },
 {
@@ -1026,7 +1026,7 @@
 "url": "https://www.war.gov/News/Transcripts/Transcript/Article/3702219/media-engagement-with-acting-aaro-director-tim-phillips-on-the-historical-recor/"
 }
 ],
-"tier": "B",
+"tier": "C",
 "type": "institutional"
 },
 {
@@ -1840,7 +1840,7 @@
 "cls": "person",
 "id": "john-greenewald",
 "label": "John Greenewald Jr.",
-"tier": "B"
+"tier": "A"
 },
 {
 "cls": "document",
@@ -1894,7 +1894,7 @@
 "cls": "person",
 "id": "tim-phillips",
 "label": "Timothy A. Phillips",
-"tier": "B"
+"tier": "C"
 },
 {
 "cls": "document",
@@ -2048,7 +2048,7 @@
 ],
 "sub": "report",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 6 of 1027, score 156). 37 connections, 5 of them custody/witness/funding/programmatic, 18 official denials recorded against it. Axes C1/A3/D3.",
+"tierRationale": "Re-graded A on a global pass (rank 6 of 1057, score 156). 37 connections, 5 of them custody/witness/funding/programmatic, 18 official denials recorded against it. Axes C1/A3/D3.",
 "timeline": [
 {
 "date": "2021-01-01",

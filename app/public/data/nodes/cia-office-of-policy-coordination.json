@@ -1,0 +1,149 @@
+{
+"A": 3,
+"C": 2,
+"D": 1,
+"band": null,
+"claims": [
+{
+"source": "NSC 10/2, National Security Council Directive on Office of Special Projects, 18 June 1948, FRUS 1945-1950, Emergence of the Intelligence Establishment, Document 292, https://history.state.gov/historicaldocuments/frus1945-50Intel/d292",
+"text": "The charter creates the office by that name: 'A new Office of Special Projects shall be created within the Central Intelligence Agency to plan and conduct covert operations; and in coordination with the Joint Chiefs of Staff to plan and prepare for the conduct of such operations in wartime.'",
+"tier": 1
+},
+{
+"source": "NSC 10/2, 18 June 1948, FRUS 1945-1950, Emergence of the Intelligence Establishment, Document 292, https://history.state.gov/historicaldocuments/frus1945-50Intel/d292",
+"text": "It is written under the residual clause of the 1947 Act: the Council directs the creation 'under the authority of Section 102(d)(5) of the National Security Act of 1947'.",
+"tier": 1
+},
+{
+"source": "NSC 10/2, 18 June 1948, paragraph 5, FRUS 1945-1950, Emergence of the Intelligence Establishment, Document 292, https://history.state.gov/historicaldocuments/frus1945-50Intel/d292",
+"text": "The definition is a definition of deniability. Covert operations are those 'so planned and executed that any US Government responsibility for them is not evident to unauthorized persons and that if uncovered the US Government can plausibly disclaim any responsibility for them', and the named categories are 'propaganda, economic warfare; preventive direct action, including sabotage, anti-sabotage, demolition and evacuation measures; subversion against hostile states'. Espionage, counter-espionage and 'cover and deception for military operations' are expressly excluded.",
+"tier": 1
+},
+{
+"source": "NSC 10/2, 18 June 1948, paragraph 3.c, FRUS 1945-1950, Emergence of the Intelligence Establishment, Document 292, https://history.state.gov/historicaldocuments/frus1945-50Intel/d292",
+"text": "The office was built to sit apart inside its own agency: 'The Chief of the Office of Special Projects shall report directly to the Director of Central Intelligence. For purposes of security and of flexibility of operations, and to the maximum degree consistent with efficiency, the Office of Special Projects shall operate independently of other components of Central Intelligence Agency.'",
+"tier": 1
+},
+{
+"source": "FRUS 1945-1950, Emergence of the Intelligence Establishment, List of Persons, https://history.state.gov/historicaldocuments/frus1945-50Intel/persons",
+"text": "The operating name and the first officer come from the same volume's list of persons: 'Wisner, Frank G., Deputy Assistant Secretary of State for the Occupied Areas, 1947-1948; Assistant Director for Policy Coordination, Central Intelligence Agency, from September 1, 1948.' George F. Kennan and John Magruder are recorded as senior consultants to the Office of Policy Coordination representing the Secretary of State and the Secretary of Defense respectively, both from September 1948.",
+"tier": 1
+},
+{
+"source": "Danny Jones Podcast #406, 'They Want to Replace God', 19 June 2026, at 1:25:21 to 1:31:56; tested against NSC 10/2, https://history.state.gov/historicaldocuments/frus1945-50Intel/d292",
+"text": "On the Danny Jones Podcast #406, 19 June 2026, at 1:29:15 to 1:31:56, Matthew Ehret said the office staffed NICAP's leadership and that the founder of the National Enquirer worked in it for fourteen months before founding the paper, and at 1:25:21 that Richard Bissell headed it. No record opened here bears on any of the three. The only officer named in the opened records is Frank G. Wisner, from 1 September 1948.",
+"tier": 2
+}
+],
+"cls": "institution",
+"cluster": "ic",
+"connections": [
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "1948-06-18",
+"direction": "out",
+"edgeLabel": "Created inside the Agency by NSC 10/2",
+"id": "cia",
+"l0": true,
+"label": "Central Intelligence Agency",
+"note": "The directive places the office within CIA but requires it to operate independently of the Agency's other components and to report through its Chief directly to the Director of Central Intelligence.",
+"sources": [
+{
+"date": "1948-06-18",
+"name": "NSC 10/2, National Security Council Directive on Office of Special Projects (FRUS 1945-50 Intel, Doc. 292)",
+"url": "https://history.state.gov/historicaldocuments/frus1945-50Intel/d292"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "domain",
+"dateEnd": null,
+"dateStart": "1948-06-18",
+"direction": "out",
+"edgeLabel": "Propaganda is the first named category in the charter",
+"id": "d-psyop",
+"l0": false,
+"label": "Psychological Operations & Perception Management",
+"note": "Paragraph 5 lists propaganda first among covert operations, which is the documented basis for treating the office as a psychological-operations instrument, before any claim about UFO matters is made.",
+"sources": [
+{
+"date": "1948-06-18",
+"name": "NSC 10/2, National Security Council Directive on Office of Special Projects (FRUS 1945-50 Intel, Doc. 292)",
+"url": "https://history.state.gov/historicaldocuments/frus1945-50Intel/d292"
+}
+],
+"tier": "B",
+"type": "programmatic"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "1948-06-18",
+"direction": "out",
+"edgeLabel": "Chartered under section 102(d)(5) of the Act he signed",
+"id": "harry-s-truman",
+"l0": false,
+"label": "Harry S. Truman",
+"note": "The directive names its own authority as the residual clause of the National Security Act of 1947, approved 26 July 1947.",
+"sources": [
+{
+"date": "1948-06-18",
+"name": "NSC 10/2, National Security Council Directive on Office of Special Projects (FRUS 1945-50 Intel, Doc. 292)",
+"url": "https://history.state.gov/historicaldocuments/frus1945-50Intel/d292"
+}
+],
+"tier": "B",
+"type": "legislative"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "1948-06-18",
+"deg": 3,
+"denials": [],
+"desc": "The office the Danny Jones corpus keeps invoking has a charter, and the charter is openable. NSC 10/2 of 18 June 1948 created it inside the Central Intelligence Agency under the residual authority of section 102(d)(5) of the National Security Act of 1947, to plan and conduct covert operations, with its Chief nominated by the Secretary of State, reporting directly to the Director of Central Intelligence, and operating 'independently of other components of Central Intelligence Agency'. Two things a node must say and the transcript does not. The directive names the office the Office of Special Projects; the name Office of Policy Coordination appears only from September 1948, when Frank G. Wisner became Assistant Director for Policy Coordination. And the directive's own definition of covert operations is a definition of deniability rather than of psychological warfare: operations 'so planned and executed that any US Government responsibility for them is not evident to unauthorized persons and that if uncovered the US Government can plausibly disclaim any responsibility for them'.",
+"domains": [
+"dannyjones-2026-09-03"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "cia-office-of-policy-coordination",
+"l0": false,
+"label": "CIA Office of Policy Coordination",
+"locLabel": null,
+"members": null,
+"short": "CIA Office of Policy Coordination",
+"sources": [
+{
+"date": "1948-06-18",
+"name": "NSC 10/2, National Security Council Directive on Office of Special Projects (FRUS 1945-50 Intel, Doc. 292)",
+"url": "https://history.state.gov/historicaldocuments/frus1945-50Intel/d292"
+},
+{
+"date": "2026-09-03",
+"name": "FRUS 1945-1950, Emergence of the Intelligence Establishment, List of Persons",
+"url": "https://history.state.gov/historicaldocuments/frus1945-50Intel/persons"
+},
+{
+"date": "1947-07-26",
+"name": "National Security Act of 1947, Public Law 80-253, 61 Stat. 495, sec. 102(d)(5)",
+"url": "https://www.govinfo.gov/content/pkg/STATUTE-61/pdf/STATUTE-61-Pg495.pdf"
+}
+],
+"sub": "Covert action office chartered by NSC 10/2 as the Office of Special Projects, 18 June 1948; operating from 1 September 1948",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 230 of 1057, score 42). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A3/D1.",
+"timeline": []
+}

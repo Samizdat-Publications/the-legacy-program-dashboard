@@ -42,6 +42,27 @@
 "connections": [
 {
 "claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "1953",
+"direction": "in",
+"edgeLabel": "Served as deputy to the Director of Central Intelligence",
+"id": "charles-p-cabell",
+"l0": false,
+"label": "Gen. Charles P. Cabell",
+"note": "Cabell's DDCI service from 1953 runs alongside the board's Dulles node; the deputy relationship is the office, and no shared action is asserted here.",
+"sources": [
+{
+"date": "2026-09-03",
+"name": "FRUS 1950-1955, The Intelligence Community, List of Persons",
+"url": "https://history.state.gov/historicaldocuments/frus1950-55Intel/persons"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
 "cls": "institution",
 "dateEnd": "1961",
 "dateStart": "1953",
@@ -56,6 +77,48 @@
 "date": "1953-03-13",
 "name": "Allen W. Dulles to the Secretary of Defense, 13 March 1953 (CIA-RDP80B01676R001000160043-9)",
 "url": "https://archive.org/details/cia-readingroom-document-cia-rdp80b01676r001000160043-9"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "1961-10-25",
+"direction": "in",
+"edgeLabel": "Corresponded with the Director of Central Intelligence",
+"id": "glenn-t-seaborg",
+"l0": false,
+"label": "Glenn T. Seaborg",
+"note": "Dulles thanks him for a report on a Vienna conference and says he is circulating it inside the Agency. The edge records a documented channel between the AEC chair and the DCI, which is the board's own structural claim in miniature.",
+"sources": [
+{
+"date": "1970-06-01",
+"name": "CIA Historical Staff Chronology 1946-65, Volume II 1956-65, CIA-RDP85B00803R000200050003-5",
+"url": "https://archive.org/details/cia-readingroom-document-cia-rdp85b00803r000200050003-5"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": null,
+"dateStart": "1953-04-13",
+"direction": "out",
+"edgeLabel": "Authorized MKULTRA as DCI, 13 April 1953",
+"id": "mkultra",
+"l0": true,
+"label": "Project MKULTRA",
+"note": "The Inspector General's 1963 survey names Dulles as the authorizing Director; the Church Committee text in the 1977 hearing print gives the date as 13 April 1953, and a 1955 subproject invoice certification cites the same memorandum from the DCI to the DD/A.",
+"sources": [
+{
+"date": "1977-08-03",
+"name": "Report of Inspection of MKULTRA, 26 July 1963, and Project MKULTRA joint hearing, 3 August 1977, Appendix B",
+"url": "https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf"
 }
 ],
 "tier": "A",
@@ -107,7 +170,7 @@
 "date": "1953-03-13",
 "dateEnd": null,
 "dateStart": "1953-03-13",
-"deg": 3,
+"deg": 6,
 "denials": [
 {
 "by": {
@@ -183,7 +246,7 @@
 "status": "dead",
 "sub": "Director of Central Intelligence; signed the CIA's distancing letters on the Robertson Panel report",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 283 of 1027, score 37). 3 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D1.",
+"tierRationale": "Re-graded B on a global pass (rank 255 of 1057, score 40). 6 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D1.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": [

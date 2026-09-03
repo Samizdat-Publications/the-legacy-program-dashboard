@@ -208,7 +208,7 @@
 "direction": "in",
 "edgeLabel": "CIA refused declassification and issued a sanitised version of the Robertson Panel report",
 "id": "haines-cia-history",
-"l0": false,
+"l0": true,
 "label": "A Die-hard Issue: CIA's Role in the Study of UFOs, 1947-1990",
 "note": "CIA 'prepared a sanitized version of the report which deleted any reference to CIA and avoided mention of any psychological warfare potential in the UFO controversy.'",
 "sources": [
@@ -229,7 +229,7 @@
 "direction": "out",
 "edgeLabel": "CIA's official history documents the panel's debunking and concealment",
 "id": "haines-cia-history",
-"l0": false,
+"l0": true,
 "label": "A Die-hard Issue: CIA's Role in the Study of UFOs, 1947-1990",
 "note": "Haines records the mass media and Disney recommendations and states plainly that CIA sponsorship of the panel was forbidden from being mentioned.",
 "sources": [
@@ -641,12 +641,6 @@
 "tier": "B"
 },
 {
-"cls": "document",
-"id": "haines-cia-history",
-"label": "A Die-hard Issue: CIA's Role in the Study of UFOs, 1947-1990",
-"tier": "A"
-},
-{
 "cls": "person",
 "id": "howard-p-robertson",
 "label": "Howard P. Robertson",
@@ -697,7 +691,7 @@
 ],
 "sub": "CIA Office of Scientific Intelligence advisory panel, January 1953",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 84 of 1027, score 68). 15 connections, 6 of them custody/witness/funding/programmatic, 3 official denials recorded against it. Axes C0/A3/D0.",
+"tierRationale": "Re-graded A on a global pass (rank 85 of 1057, score 68). 15 connections, 6 of them custody/witness/funding/programmatic, 3 official denials recorded against it. Axes C0/A3/D0.",
 "timeline": [
 {
 "date": "1953-01-14",

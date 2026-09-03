@@ -5,6 +5,11 @@
 "band": null,
 "claims": [
 {
+"source": "Defense's Nuclear Agency 1947-1997, Defense Threat Reduction Agency, 2002, Appendix C: Chronology, DTIC ADA412977, https://archive.org/download/DTIC_ADA412977/DTIC_ADA412977_djvu.txt",
+"text": "Groves held the command for one year to the day. The Defense Threat Reduction Agency's chronology of its own lineage reads: 'Feb. 28, 1947. Maj Gen Groves becomes first Chief AFSWP, serving for one year, until his retirement on February 29, 1948; he is promoted to Lt. General on January 24, 1948.' The same history records that the command stood empty when it was created: 'between the beginning of January and the end of February 1947, there was no officially appointed chief of AFSWP. During this period, Groves' aide, Colonel Hasbrouck, assumed Headquarters command in Washington as the senior officer of the organization.'",
+"tier": 1
+},
+{
 "source": "War Department Memorandum No. 850-25-8, 18 March 1947, reproduced in Appendix D of Defense's Nuclear Agency 1947-1997, Defense Threat Reduction Agency, 2002, DTIC ADA412977, https://archive.org/download/DTIC_ADA412977/DTIC_ADA412977_djvu.txt",
 "text": "The charter is reproduced in the Department of Defense's own agency history: 'The Armed Forces Special Weapons Project established by joint directive of the Secretaries of War and Navy, effective as of midnight 31 December 1946, will operate directly under the Chief of Staff and the Chief of Naval Operations.'",
 "tier": 1
@@ -82,6 +87,48 @@
 },
 {
 "claimTier": 1,
+"cls": "person",
+"dateEnd": "1948-02-29",
+"dateStart": "1947-02-28",
+"direction": "in",
+"edgeLabel": "First Chief, AFSWP",
+"id": "leslie-r-groves",
+"l0": false,
+"label": "Lt. Gen. Leslie R. Groves",
+"note": "The agency's own chronology dates the appointment and the retirement to the day, and gives the promotion to Lieutenant General on 24 January 1948 while in post.",
+"sources": [
+{
+"date": "2002-01-01",
+"name": "Defense's Nuclear Agency 1947-1997, Defense Threat Reduction Agency, 2002, DTIC ADA412977",
+"url": "https://archive.org/download/DTIC_ADA412977/DTIC_ADA412977_djvu.txt"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "1957-11-20",
+"direction": "in",
+"edgeLabel": "Named AFSWP as the reason the new agency was renamed",
+"id": "neil-h-mcelroy",
+"l0": false,
+"label": "Neil H. McElroy",
+"note": "The ARPA history's footnote records that Rep. Scrivner objected to 'Special Projects Agency' as confusable with the OSD Office of Special Operations and the Armed Forces Special Weapons Project, and that McElroy promised a better name. This is the documented reason ARPA is called ARPA.",
+"sources": [
+{
+"date": "1975-12-01",
+"name": "The Advanced Research Projects Agency, 1958-1974, Richard J. Barber Associates, Inc., DTIC AD-A154 363",
+"url": "https://archive.org/download/DTIC_ADA154363/DTIC_ADA154363_djvu.txt"
+}
+],
+"tier": "B",
+"type": "temporal"
+},
+{
+"claimTier": 1,
 "cls": "institution",
 "dateEnd": null,
 "dateStart": null,
@@ -105,7 +152,7 @@
 "coords": null,
 "dateEnd": "1959-05-06",
 "dateStart": "1946-12-31",
-"deg": 3,
+"deg": 5,
 "denials": [],
 "desc": "The Armed Forces Special Weapons Project was established by joint directive of the Secretaries of War and the Navy, effective midnight 31 December 1946, to carry on the military service functions of the Manhattan Project that were retained under armed forces control when the Atomic Energy Commission took the civil ones. It reported directly to the Army Chief of Staff and the Chief of Naval Operations, its Chief and Deputy Chief sat on the Military Liaison Committee to the AEC, and its funds came by working fund advances from the AEC out of money formerly available to the Manhattan Project. Major General Leslie R. Groves became its first Chief on 28 February 1947. It was redesignated the Defense Atomic Support Agency in 1959 and, through DNA and DSWA, is the ancestor of the Defense Threat Reduction Agency.",
 "domains": [
@@ -128,13 +175,13 @@
 "sources": [
 {
 "date": "2002-01-01",
-"name": "Defense's Nuclear Agency 1947-1997, Defense Threat Reduction Agency, U.S. Department of Defense, 2002, DTIC accession ADA412977",
-"url": "https://archive.org/details/DTIC_ADA412977"
+"name": "Defense's Nuclear Agency 1947-1997, Defense Threat Reduction Agency, 2002, DTIC ADA412977",
+"url": "https://archive.org/download/DTIC_ADA412977/DTIC_ADA412977_djvu.txt"
 },
 {
 "date": "2002-01-01",
-"name": "OCR text layer of DTIC ADA412977",
-"url": "https://archive.org/download/DTIC_ADA412977/DTIC_ADA412977_djvu.txt"
+"name": "Defense's Nuclear Agency 1947-1997, Defense Threat Reduction Agency, U.S. Department of Defense, 2002, DTIC accession ADA412977",
+"url": "https://archive.org/details/DTIC_ADA412977"
 },
 {
 "date": "2026-09-02",
@@ -144,7 +191,7 @@
 ],
 "sub": "Joint Army-Navy atomic energy organisation, 1946-1959; military successor to the Manhattan Engineer District",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 219 of 1027, score 42). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A3/D1.",
+"tierRationale": "Re-graded B on a global pass (rank 174 of 1057, score 47). 5 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A3/D1.",
 "timeline": [
 {
 "date": "1946-12-31",

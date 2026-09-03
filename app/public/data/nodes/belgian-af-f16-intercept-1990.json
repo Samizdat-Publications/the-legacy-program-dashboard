@@ -60,6 +60,27 @@
 "type": "research"
 },
 {
+"claimTier": 2,
+"cls": "event",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "The same shape fourteen years later: a foreign air force intercept inside an allied intelligence file",
+"id": "tehran-f4-intercept-1976",
+"l0": false,
+"label": "Imperial Iranian Air Force F-4 intercepts, Tehran, 19-20 September 1976",
+"note": "The same shape fourteen years later: a foreign air force intercept documented inside a US or allied intelligence file rather than by the flying service.",
+"sources": [
+{
+"date": "1976-09-23",
+"name": "DIA Intelligence Information Report IR 6 846 0139 76, USDAO Tehran, with the DIA FOIA response U-80,597/PO/FOIA of 22 August 1996, hosted by The Black Vault",
+"url": "https://www.theblackvault.com/documents/ufos/1976iranincident.pdf"
+}
+],
+"tier": "B",
+"type": "research"
+},
+{
 "claimTier": 1,
 "cls": "document",
 "dateEnd": null,
@@ -105,7 +126,7 @@
 "coords": null,
 "dateEnd": "1990-03-31",
 "dateStart": "1990-03-31",
-"deg": 3,
+"deg": 4,
 "denials": [
 {
 "by": {
@@ -161,7 +182,7 @@
 ],
 "sub": "NATO air force scrambled, recorded and reported; the MoD was not told at the time",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 234 of 1027, score 41). 3 connections, 1 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D2.",
+"tierRationale": "Re-graded B on a global pass (rank 228 of 1057, score 42). 4 connections, 1 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D2.",
 "timeline": [
 {
 "date": "1990-03-31",

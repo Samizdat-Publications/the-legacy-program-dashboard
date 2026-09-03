@@ -72,6 +72,27 @@
 },
 {
 "claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "1947-03-31",
+"direction": "in",
+"edgeLabel": "Joint command with a Navy deputy",
+"id": "leslie-r-groves",
+"l0": false,
+"label": "Lt. Gen. Leslie R. Groves",
+"note": "Rear Admiral W.S. Parsons was appointed Deputy Chief AFSWP on 31 March 1947, the deputy coming from the opposite service by the terms of the activating directive.",
+"sources": [
+{
+"date": "2002-01-01",
+"name": "Defense's Nuclear Agency 1947-1997, Defense Threat Reduction Agency, 2002, DTIC ADA412977",
+"url": "https://archive.org/download/DTIC_ADA412977/DTIC_ADA412977_djvu.txt"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
 "cls": "institution",
 "dateEnd": null,
 "dateStart": "1994-06-09",
@@ -86,6 +107,27 @@
 "date": "1994-06-09",
 "name": "Federal Register Doc 94-13966, amending 32 CFR 701.5(e)(2)(iii)(B)",
 "url": "https://www.federalregister.gov/documents/1994/06/09/94-13966/availability-of-department-of-the-navy-records-and-publication-of-department-of-the-navy-documents"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "A Navy laboratory; the 55-Nitinol patent is assigned to the Secretary of the Navy",
+"id": "naval-ordnance-laboratory",
+"l0": false,
+"label": "U.S. Naval Ordnance Laboratory (White Oak, Silver Spring)",
+"note": "The Naval Ordnance Laboratory was a Navy laboratory; the 55-Nitinol patent is assigned to the United States as represented by the Secretary of the Navy.",
+"sources": [
+{
+"date": null,
+"name": "https://ntrs.nasa.gov/api/citations/19720022818/downloads/19720022818.pdf",
+"url": "https://ntrs.nasa.gov/api/citations/19720022818/downloads/19720022818.pdf"
 }
 ],
 "tier": "C",
@@ -251,12 +293,33 @@
 ],
 "tier": "A",
 "type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "His letter of 25 April 2002 is on United States Navy letterhead",
+"id": "will-miller",
+"l0": false,
+"label": "Will Miller",
+"note": "Miller's letter is on United States Navy letterhead and Wilson's complaint in the notes is framed in terms of trust among Navy officers, though no rank is stated anywhere in the document.",
+"sources": [
+{
+"date": "2002-10-16",
+"name": "The Wilson-Davis notes as published (EWD NOTES, 10/16/02, Eric Davis Meeting with Adm. Wilson), fifteen pages, The Black Vault case files",
+"url": "https://documents2.theblackvault.com/casefiles/wilsonleak.pdf"
+}
+],
+"tier": "B",
+"type": "institutional"
 }
 ],
 "coords": null,
 "dateEnd": null,
 "dateStart": null,
-"deg": 9,
+"deg": 12,
 "denials": [],
 "desc": "The United States Navy is the maritime service of the Department of Defense, organised under a civilian Secretary of the Navy with the Chief of Naval Operations as senior uniformed officer, and it states its purpose as deploying combat-ready sailors, ships, aircraft and submarines worldwide without dependence on foreign land bases. It is the service that generated the modern evidentiary core of the UAP problem: carrier strike group encounters off southern California in November 2004 and off the eastern seaboard in 2014-2015, recorded by F/A-18 targeting pods, SPY-1 radar and aircrew who filed the reports through operational channels. On 27 April 2020 the Department authorised release of three unclassified Navy videos - one from November 2004 and two from January 2015 - and stated on the record that it was doing so to clear up public misconceptions about whether the circulating footage was real. That release is a hinge artifact for this board, because it converts material that had circulated as leak and rumour into acknowledged official product while conspicuously not addressing what the objects were. The Navy also holds the institutional position that matters for custody questions - it operates the fleet ranges where the encounters occurred, the aviation safety and hazard reporting systems into which aircrew reports flow, and the shore facilities repeatedly named in recovery and material-storage allegations elsewhere on this board.",
 "domains": [
@@ -340,9 +403,21 @@
 "tier": "B"
 },
 {
+"cls": "person",
+"id": "leslie-r-groves",
+"label": "Lt. Gen. Leslie R. Groves",
+"tier": "B"
+},
+{
 "cls": "institution",
 "id": "naval-criminal-investigative-service",
 "label": "Naval Criminal Investigative Service",
+"tier": "C"
+},
+{
+"cls": "institution",
+"id": "naval-ordnance-laboratory",
+"label": "U.S. Naval Ordnance Laboratory (White Oak, Silver Spring)",
 "tier": "C"
 },
 {
@@ -356,6 +431,12 @@
 "id": "ryan-graves",
 "label": "Ryan Graves",
 "tier": "A"
+},
+{
+"cls": "person",
+"id": "will-miller",
+"label": "Will Miller",
+"tier": "B"
 }
 ],
 "short": "United States Navy",
@@ -373,6 +454,6 @@
 ],
 "sub": "Military service",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 753 of 1027, score 20). 9 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D0.",
+"tierRationale": "Re-graded C on a global pass (rank 699 of 1057, score 23). 12 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D0.",
 "timeline": []
 }

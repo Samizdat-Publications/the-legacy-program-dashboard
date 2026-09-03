@@ -67,7 +67,7 @@
 "url": "https://www.cia.gov/resources/csi/studies-in-intelligence/studies-in-intelligence-1997/cias-role-in-the-study-of-ufos-1947-1990/"
 }
 ],
-"tier": "B",
+"tier": "A",
 "type": "denial"
 },
 {
@@ -132,12 +132,33 @@
 ],
 "tier": "B",
 "type": "custody"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "Held TOP SECRET SPECIAL HANDLING NOFORN for thirty-five years",
+"id": "operation-northwoods",
+"l0": true,
+"label": "Justification for US Military Intervention in Cuba (Operation Northwoods), 13 March 1962",
+"note": "Held TOP SECRET SPECIAL HANDLING NOFORN for thirty-five years and released only because a records statute reached it.",
+"sources": [
+{
+"date": "1962-03-13",
+"name": "Justification for US Military Intervention in Cuba, JCS 1969/321, 13 March 1962, full released text",
+"url": "https://archive.org/download/OperationNorthwoods/operation_northwoods_djvu.txt"
+}
+],
+"tier": "B",
+"type": "behavioral"
 }
 ],
 "coords": null,
 "dateEnd": null,
 "dateStart": "1947-01-01",
-"deg": 5,
+"deg": 6,
 "denials": [
 {
 "by": {
@@ -230,7 +251,7 @@
 ],
 "sub": "Operational domain - concealment run as a funded programme, not a passive silence",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 144 of 1027, score 51). 5 connections, 3 of them custody/witness/funding/programmatic, 2 official denials recorded against it. Axes C2/A3/D1.",
+"tierRationale": "Re-graded A on a global pass (rank 146 of 1057, score 52). 6 connections, 3 of them custody/witness/funding/programmatic, 2 official denials recorded against it. Axes C2/A3/D1.",
 "timeline": [
 {
 "date": "1997-01-01",

@@ -1,0 +1,144 @@
+{
+"A": 1,
+"C": 1,
+"D": 1,
+"band": null,
+"claims": [
+{
+"source": "NASA SP-5110, 55-Nitinol: The Alloy With a Memory, C. M. Jackson, H. J. Wagner and R. J. Wasilewski, Battelle Memorial Institute for the NASA Technology Utilization Office, 1972, Chapter 1, p. 1. https://ntrs.nasa.gov/api/citations/19720022818/downloads/19720022818.pdf",
+"text": "NASA SP-5110, prepared for NASA by Battelle Memorial Institute in 1972, opens: 'Some 10 years ago, Buehler and Wiley of the U.S. Naval Ordnance Laboratory developed a series of engineering alloys that possess a unique mechanical (shape) memory. The generic name of the series of alloys is 55-Nitinol, where Nitinol stands for Nickel Titanium Naval Ordnance Laboratory.'",
+"tier": 1
+},
+{
+"source": "NASA SP-5110, references 12 and 74, and Acknowledgments, p. iv. https://ntrs.nasa.gov/api/citations/19720022818/downloads/19720022818.pdf",
+"text": "The earliest Naval Ordnance Laboratory nitinol report cited anywhere in SP-5110's reference list is NOLTR 61-75 (AD 266607), Buehler and Wiley, 'The Properties of TiNi and Associated Phases', U.S. Naval Ordnance Laboratory, 3 August 1961. The report's own acknowledgments state that 'All the information in the report covers the period from 1955 to March 31, 1970.'",
+"tier": 1
+},
+{
+"source": "US Patent 3,174,851. https://patents.google.com/patent/US3174851A/en",
+"text": "US Patent 3,174,851, 'Nickel-base alloys', by William J. Buehler and Raymond C. Wiley, assigned to the United States as represented by the Secretary of the Navy, was filed on 1 December 1961 and granted on 23 March 1965.",
+"tier": 1
+},
+{
+"source": "NASA CR-1433, Nitinol Characterization Study, Goodyear Aerospace Corporation report GER 14188 under contract NAS 1-7522 for NASA Langley Research Center, September 1969, Foreword p. iii and p. 2. https://ntrs.nasa.gov/api/citations/19690026989/downloads/19690026989.pdf",
+"text": "Battelle's documented role in the alloy is late and contractual. NASA CR-1433 of September 1969 records that the nitinol was 'supplied by Mr. William J. Buehler of the Magnetism and Metallurgy Division of the U.S. Naval Ordnance Laboratory (NOL), Silver Spring, Maryland', and that 'As subcontractor to GAC, Battelle Memorial Institute (BMI), Columbus, Ohio, processed the basic Nitinol rod'. The same report calls the NOL work 'the recent discovery'.",
+"tier": 1
+},
+{
+"source": "Danny Jones Podcast, ep. 181, 16 April 2023, 1:15:27, mapped at research/leads/dannyjones-corpus-28.md",
+"text": "On the Danny Jones Podcast, episode 181, 16 April 2023, at 1:15:27, Jeremy Rys credited the first nitinol discovery to the Naval Ordnance Laboratory and dated it 1954. The laboratory is corroborated by the federal record; the date is not. No opened document places any NOL nitinol work before 1961.",
+"tier": 2
+}
+],
+"cls": "institution",
+"cluster": "research",
+"connections": [
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "Battelle wrote the 1972 NASA review of the alloy and was its 1968 wire-drawing subcontractor",
+"id": "battelle",
+"l0": true,
+"label": "Battelle Memorial Institute",
+"note": "Battelle Memorial Institute wrote the 1972 NASA literature review of 55-Nitinol and was a 1967-69 processing subcontractor for it; the review traces the alloy to the Naval Ordnance Laboratory around 1962 and cites no Battelle nickel-titanium work before 1968.",
+"sources": [
+{
+"date": null,
+"name": "https://ntrs.nasa.gov/api/citations/19720022818/downloads/19720022818.pdf",
+"url": "https://ntrs.nasa.gov/api/citations/19720022818/downloads/19720022818.pdf"
+}
+],
+"tier": "A",
+"type": "research"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "NASA commissioned both federal reports that date and attribute the alloy",
+"id": "nasa",
+"l0": true,
+"label": "National Aeronautics and Space Administration",
+"note": "NASA's Technology Utilization Office commissioned SP-5110 and NASA Langley commissioned CR-1433, the two federal reports that date and attribute the alloy.",
+"sources": [
+{
+"date": null,
+"name": "https://ntrs.nasa.gov/api/citations/19720022818/downloads/19720022818.pdf",
+"url": "https://ntrs.nasa.gov/api/citations/19720022818/downloads/19720022818.pdf"
+}
+],
+"tier": "B",
+"type": "research"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "A Navy laboratory; the 55-Nitinol patent is assigned to the Secretary of the Navy",
+"id": "us-navy",
+"l0": true,
+"label": "United States Navy",
+"note": "The Naval Ordnance Laboratory was a Navy laboratory; the 55-Nitinol patent is assigned to the United States as represented by the Secretary of the Navy.",
+"sources": [
+{
+"date": null,
+"name": "https://ntrs.nasa.gov/api/citations/19720022818/downloads/19720022818.pdf",
+"url": "https://ntrs.nasa.gov/api/citations/19720022818/downloads/19720022818.pdf"
+}
+],
+"tier": "C",
+"type": "institutional"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "1961-08-03",
+"deg": 3,
+"denials": [],
+"desc": "The U.S. Naval Ordnance Laboratory at Silver Spring, Maryland is where William J. Buehler and Raymond C. Wiley developed the nickel-titanium shape-memory alloys named 55-Nitinol, the acronym standing for Nickel Titanium Naval Ordnance Laboratory. It reaches this board because the board's strongest materials claim runs the other way: an allegation, carried at Tier 2 on the Battelle node, that the alloy's research lineage is a set of missing 1948-49 Wright-Patterson-sponsored Battelle reports. Two federal reports opened for this pass, one of them written by Battelle for NASA, place the discovery at NOL around 1959 to 1962, cite no NOL nitinol report before August 1961, and cite no Battelle nickel-titanium work before 1968. The Danny Jones corpus dates the NOL discovery to 1954; the record does not support that either.",
+"domains": [
+"dannyjones-2026-09-03"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "naval-ordnance-laboratory",
+"l0": false,
+"label": "U.S. Naval Ordnance Laboratory (White Oak, Silver Spring)",
+"locLabel": null,
+"members": null,
+"short": "U.S. Naval Ordnance Laboratory (White Oak, Silver Spring)",
+"sources": [
+{
+"date": null,
+"name": "https://ntrs.nasa.gov/api/citations/19720022818/downloads/19720022818.pdf",
+"url": "https://ntrs.nasa.gov/api/citations/19720022818/downloads/19720022818.pdf"
+},
+{
+"date": null,
+"name": "https://ntrs.nasa.gov/api/citations/19690026989/downloads/19690026989.pdf",
+"url": "https://ntrs.nasa.gov/api/citations/19690026989/downloads/19690026989.pdf"
+},
+{
+"date": null,
+"name": "https://patents.google.com/patent/US3174851A/en",
+"url": "https://patents.google.com/patent/US3174851A/en"
+}
+],
+"sub": "Navy laboratory at White Oak, Silver Spring, where Buehler and Wiley developed the 55-Nitinol shape-memory alloys",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 614 of 1057, score 26). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D1.",
+"timeline": []
+}

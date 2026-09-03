@@ -32,17 +32,20 @@
  "cells": {
   "custody.0": [
    "atomic-energy-commission",
+   "defense-support-program",
    "mitre-corporation",
    "project-blue-book"
   ],
   "custody.1": [
    "dod-sapco",
    "mj-12-documents",
-   "sac-overflights-1975"
+   "sac-overflights-1975",
+   "the-black-vault"
   ],
   "custody.2": [
    "nimitz-2004",
    "ousdi",
+   "podesta-delonge-mccasland-email-2016",
    "roosevelt-2014-2015"
   ],
   "custody.3": [
@@ -55,7 +58,9 @@
    "uapda-2023"
   ],
   "disclosure.0": [
-   "nsa"
+   "malmstrom-echo-flight-1967",
+   "nsa",
+   "operation-northwoods"
   ],
   "disclosure.1": [
    "roswell-report-case-closed",
@@ -65,6 +70,8 @@
    "nyt-2017-12-16"
   ],
   "funding.0": [
+   "darpa",
+   "institute-of-field-physics",
    "nro",
    "rand-corporation",
    "senate-armed-services",
@@ -101,8 +108,11 @@
   ],
   "oversight.1": [
    "church-committee",
+   "gao-nsiad-88-152",
+   "haines-cia-history",
    "isoo",
-   "oversight-congress"
+   "oversight-congress",
+   "senate-intelligence"
   ],
   "oversight.2": [
    "eo-13526"
@@ -134,9 +144,11 @@
    "eg-and-g",
    "fab",
    "lockheed-skunk-works",
+   "mkultra",
    "nasa",
    "robertson-panel",
-   "sandia"
+   "sandia",
+   "talbert-gravity-series-1955"
   ],
   "research.1": [
    "cefaa",
@@ -361,6 +373,12 @@
   },
   {
    "by": "cia",
+   "kind": "undirected",
+   "label": "CIA's own published history concedes the Air Force made deceptive public statements",
+   "of": "haines-cia-history"
+  },
+  {
+   "by": "cia",
    "kind": "directed",
    "label": "CIA alleged to have terminated the programme",
    "of": "kona-blue"
@@ -456,6 +474,12 @@
    "of": "odni-memo-es-2026-00818"
   },
   {
+   "by": "haines-cia-history",
+   "kind": "undirected",
+   "label": "CIA refused declassification and issued a sanitised version of the Robertson Panel report",
+   "of": "robertson-panel"
+  },
+  {
    "by": "lockheed-martin",
    "kind": "directed",
    "label": "Executives and CTOs of the unnamed 'named companies' denied recovery or possession to AARO's Director on the record",
@@ -514,6 +538,12 @@
    "kind": "directed",
    "label": "Produced no records for the first statutory UAP transfer",
    "of": "nara-uap-collection"
+  },
+  {
+   "by": "project-blue-book",
+   "kind": "directed",
+   "label": "CIA states the Air Force made misleading and deceptive public statements",
+   "of": "haines-cia-history"
   },
   {
    "by": "sol-foundation",
@@ -1024,6 +1054,14 @@
   },
   {
    "a": "afswc-tr-59-39",
+   "b": "darpa",
+   "tier": 1,
+   "types": [
+    "custody"
+   ]
+  },
+  {
+   "a": "afswc-tr-59-39",
    "b": "sandia",
    "tier": 1,
    "types": [
@@ -1300,10 +1338,35 @@
   },
   {
    "a": "church-committee",
+   "b": "mkultra",
+   "tier": 1,
+   "types": [
+    "investigative"
+   ]
+  },
+  {
+   "a": "church-committee",
    "b": "oversight-congress",
    "tier": 1,
    "types": [
     "investigative"
+   ]
+  },
+  {
+   "a": "church-committee",
+   "b": "senate-intelligence",
+   "tier": 2,
+   "types": [
+    "legislative"
+   ]
+  },
+  {
+   "a": "cia",
+   "b": "haines-cia-history",
+   "tier": 1,
+   "types": [
+    "denial",
+    "research"
    ]
   },
   {
@@ -1332,6 +1395,14 @@
   },
   {
    "a": "cia",
+   "b": "mkultra",
+   "tier": 1,
+   "types": [
+    "programmatic"
+   ]
+  },
+  {
+   "a": "cia",
    "b": "nara-uap-collection",
    "tier": 1,
    "types": [
@@ -1352,6 +1423,14 @@
    "tier": 3,
    "types": [
     "denial"
+   ]
+  },
+  {
+   "a": "cia",
+   "b": "operation-northwoods",
+   "tier": 1,
+   "types": [
+    "programmatic"
    ]
   },
   {
@@ -1431,6 +1510,46 @@
   {
    "a": "congressional-uap-caucus",
    "b": "waived-sap-notification-group",
+   "tier": 1,
+   "types": [
+    "institutional"
+   ]
+  },
+  {
+   "a": "darpa",
+   "b": "odni",
+   "tier": 1,
+   "types": [
+    "institutional"
+   ]
+  },
+  {
+   "a": "darpa",
+   "b": "waived-usap",
+   "tier": 3,
+   "types": [
+    "research"
+   ]
+  },
+  {
+   "a": "defense-support-program",
+   "b": "eo-13526",
+   "tier": 1,
+   "types": [
+    "legislative"
+   ]
+  },
+  {
+   "a": "defense-support-program",
+   "b": "the-black-vault",
+   "tier": 1,
+   "types": [
+    "investigative"
+   ]
+  },
+  {
+   "a": "defense-support-program",
+   "b": "usaf",
    "tier": 1,
    "types": [
     "institutional"
@@ -1538,6 +1657,14 @@
    "tier": 2,
    "types": [
     "denial"
+   ]
+  },
+  {
+   "a": "dod",
+   "b": "operation-northwoods",
+   "tier": 1,
+   "types": [
+    "institutional"
    ]
   },
   {
@@ -1801,6 +1928,32 @@
    ]
   },
   {
+   "a": "haines-cia-history",
+   "b": "project-blue-book",
+   "tier": 1,
+   "types": [
+    "denial",
+    "institutional"
+   ]
+  },
+  {
+   "a": "haines-cia-history",
+   "b": "robertson-panel",
+   "tier": 1,
+   "types": [
+    "denial",
+    "investigative"
+   ]
+  },
+  {
+   "a": "haines-cia-history",
+   "b": "yankee-blue",
+   "tier": 3,
+   "types": [
+    "behavioral"
+   ]
+  },
+  {
    "a": "hearing-2023-07-26",
    "b": "hearing-2024-11-13",
    "tier": 2,
@@ -1921,6 +2074,14 @@
    ]
   },
   {
+   "a": "iaa-fy2024-sec-1102",
+   "b": "senate-intelligence",
+   "tier": 1,
+   "types": [
+    "institutional"
+   ]
+  },
+  {
    "a": "immaculate-constellation",
    "b": "immaculate-constellation-12-page-report",
    "tier": 1,
@@ -1951,6 +2112,14 @@
    "tier": 3,
    "types": [
     "programmatic"
+   ]
+  },
+  {
+   "a": "institute-of-field-physics",
+   "b": "talbert-gravity-series-1955",
+   "tier": 1,
+   "types": [
+    "institutional"
    ]
   },
   {
@@ -2015,6 +2184,22 @@
    "tier": 1,
    "types": [
     "legislative"
+   ]
+  },
+  {
+   "a": "lockheed-skunk-works",
+   "b": "podesta-delonge-mccasland-email-2016",
+   "tier": 1,
+   "types": [
+    "institutional"
+   ]
+  },
+  {
+   "a": "malmstrom-echo-flight-1967",
+   "b": "sac-overflights-1975",
+   "tier": 1,
+   "types": [
+    "temporal"
    ]
   },
   {
@@ -2348,6 +2533,14 @@
    ]
   },
   {
+   "a": "operacao-prato",
+   "b": "the-black-vault",
+   "tier": 2,
+   "types": [
+    "custody"
+   ]
+  },
+  {
    "a": "oversight-congress",
    "b": "senate-armed-services",
    "tier": 1,
@@ -2535,12 +2728,16 @@
     "inscom",
     "dia",
     "atomic-energy-commission",
+    "podesta-delonge-mccasland-email-2016",
     "nara-rg615",
     "nicap",
     "nimitz-2004",
     "roosevelt-2014-2015",
     "pursue-releases",
     "aaro",
+    "mkultra",
+    "the-black-vault",
+    "operation-northwoods",
     "nyt-2017-12-16",
     "ttsa",
     "ttsa-army-crada",
@@ -2558,6 +2755,7 @@
     "kona-blue",
     "lockheed-skunk-works",
     "afswc-tr-59-39",
+    "darpa",
     "lockheed-martin",
     "nasa",
     "adam-research-project",
@@ -2576,12 +2774,13 @@
     "fab",
     "immaculate-constellation",
     "immaculate-constellation-12-page-report",
+    "malmstrom-echo-flight-1967",
     "aztec-1948",
     "carve-out"
    ],
    "label": "The custody chain",
-   "onMap": 46,
-   "total": 174
+   "onMap": 52,
+   "total": 186
   },
   {
    "blurb": "A denial is a dated, signed, attributable statement, which makes it evidence about the denier. These are the issuers.",
@@ -2589,12 +2788,14 @@
    "ids": [
     "aaro-historical-record-vol1",
     "dia",
+    "institute-of-field-physics",
     "immaculate-constellation",
     "pursue-releases",
     "dod",
     "aaro",
     "mitre-corporation",
     "ndaa-fy2026",
+    "haines-cia-history",
     "project-blue-book",
     "rendlesham-1980",
     "sac-overflights-1975",
@@ -2606,6 +2807,7 @@
     "gerb-mitre-investigation",
     "uap-science-advisory-council",
     "manhattan-project-2",
+    "defense-support-program",
     "church-committee",
     "nicap",
     "cia",
@@ -2628,8 +2830,8 @@
     "waived-usap-mechanism"
    ],
    "label": "Who denied what",
-   "onMap": 39,
-   "total": 131
+   "onMap": 42,
+   "total": 136
   },
   {
    "blurb": "States that funded a UAP office, published, and did not treat the subject as unmentionable. The contrast is the argument.",
@@ -2740,7 +2942,7 @@
    "sub": "no start date recorded"
   }
  ],
- "generated": "2026-09-02",
+ "generated": "2026-09-03",
  "nodes": [
   {
    "A": 3,
@@ -3148,6 +3350,36 @@
    "tier": "C"
   },
   {
+   "A": 2,
+   "C": 0,
+   "D": 1,
+   "band": "funding",
+   "cls": "institution",
+   "cluster": "other",
+   "dateStart": "1958-02-07",
+   "era": "0",
+   "hl": null,
+   "id": "darpa",
+   "label": "Defense Advanced Research Projects Agency",
+   "short": "DARPA",
+   "tier": "B"
+  },
+  {
+   "A": 2,
+   "C": 1,
+   "D": 1,
+   "band": "custody",
+   "cls": "program",
+   "cluster": "ic",
+   "dateStart": "1967",
+   "era": "0",
+   "hl": null,
+   "id": "defense-support-program",
+   "label": "Defense Support Program (DSP) missile early warning satellites",
+   "short": "Defense Support Program (DSP)",
+   "tier": "B"
+  },
+  {
    "A": 3,
    "C": 3,
    "D": 1,
@@ -3374,6 +3606,21 @@
   },
   {
    "A": 1,
+   "C": 1,
+   "D": 1,
+   "band": "oversight",
+   "cls": "document",
+   "cluster": "oversight",
+   "dateStart": "1988-05-24",
+   "era": "1",
+   "hl": null,
+   "id": "gao-nsiad-88-152",
+   "label": "GAO/NSIAD-88-152 - Special Access Programs: DOD Criteria and Procedures for Creating Them Need Improvement",
+   "short": "GAO/NSIAD-88-152",
+   "tier": "B"
+  },
+  {
+   "A": 1,
    "C": 2,
    "D": 3,
    "band": "retrieval",
@@ -3430,6 +3677,21 @@
    "id": "grusch-misappropriation-allegation",
    "label": "The misappropriation allegation: Grusch's ICIG complaint and sworn testimony",
    "short": "The misappropriation allegation",
+   "tier": "A"
+  },
+  {
+   "A": 3,
+   "C": 0,
+   "D": 2,
+   "band": "oversight",
+   "cls": "document",
+   "cluster": "ic",
+   "dateStart": "1997",
+   "era": "1",
+   "hl": null,
+   "id": "haines-cia-history",
+   "label": "A Die-hard Issue: CIA's Role in the Study of UFOs, 1947-1990",
+   "short": "A Die-hard Issue",
    "tier": "A"
   },
   {
@@ -3568,6 +3830,21 @@
    "tier": "A"
   },
   {
+   "A": 1,
+   "C": 2,
+   "D": 1,
+   "band": "funding",
+   "cls": "institution",
+   "cluster": "research",
+   "dateStart": "1955-09-07",
+   "era": "0",
+   "hl": null,
+   "id": "institute-of-field-physics",
+   "label": "Institute of Field Physics (UNC Chapel Hill)",
+   "short": "Institute of Field Physics",
+   "tier": "A"
+  },
+  {
    "A": 2,
    "C": 0,
    "D": 2,
@@ -3643,6 +3920,21 @@
    "tier": "B"
   },
   {
+   "A": 2,
+   "C": 0,
+   "D": 3,
+   "band": "disclosure",
+   "cls": "event",
+   "cluster": "witness",
+   "dateStart": "1967-03-16",
+   "era": "0",
+   "hl": null,
+   "id": "malmstrom-echo-flight-1967",
+   "label": "Malmstrom AFB missile shutdowns, March 1967",
+   "short": "Malmstrom Echo Flight, Mar 1967",
+   "tier": "B"
+  },
+  {
    "A": 3,
    "C": 2,
    "D": 3,
@@ -3701,6 +3993,21 @@
    "label": "MJ-12 / Operation Majestic-12 Documents",
    "short": "MJ-12 / Majestic-12 Documents",
    "tier": "B"
+  },
+  {
+   "A": 3,
+   "C": 0,
+   "D": 2,
+   "band": "research",
+   "cls": "program",
+   "cluster": "ic",
+   "dateStart": "1953-04-13",
+   "era": "0",
+   "hl": null,
+   "id": "mkultra",
+   "label": "Project MKULTRA",
+   "short": "Project MKULTRA",
+   "tier": "A"
   },
   {
    "A": 0,
@@ -4003,6 +4310,21 @@
    "tier": "A"
   },
   {
+   "A": 1,
+   "C": 1,
+   "D": 1,
+   "band": "disclosure",
+   "cls": "document",
+   "cluster": "other",
+   "dateStart": "1962-03-13",
+   "era": "0",
+   "hl": null,
+   "id": "operation-northwoods",
+   "label": "Justification for US Military Intervention in Cuba (Operation Northwoods), 13 March 1962",
+   "short": "Operation Northwoods, 13 Mar 1962",
+   "tier": "B"
+  },
+  {
    "A": 3,
    "C": 2,
    "D": 2,
@@ -4060,7 +4382,22 @@
    "id": "paper-nolan-vallee-2022",
    "label": "Nolan, Vallee, Jiang & Lemke (2022), Progress in Aerospace Sciences 128:100788",
    "short": "Nolan & Vallee 2022, Prog Aero Sci",
-   "tier": "B"
+   "tier": "C"
+  },
+  {
+   "A": 2,
+   "C": 2,
+   "D": 1,
+   "band": "custody",
+   "cls": "document",
+   "cluster": "media",
+   "dateStart": "2016-01-25",
+   "era": "2",
+   "hl": null,
+   "id": "podesta-delonge-mccasland-email-2016",
+   "label": "DeLonge to Podesta, 'General McCasland', 25 January 2016 (WikiLeaks Podesta Emails 3099)",
+   "short": "DeLonge to Podesta, 25 Jan 2016",
+   "tier": "A"
   },
   {
    "A": 2,
@@ -4258,6 +4595,21 @@
    "tier": "B"
   },
   {
+   "A": 3,
+   "C": 2,
+   "D": 2,
+   "band": "oversight",
+   "cls": "institution",
+   "cluster": "ic",
+   "dateStart": "1976",
+   "era": "1",
+   "hl": null,
+   "id": "senate-intelligence",
+   "label": "Senate Select Committee on Intelligence",
+   "short": "Senate Select Cttee on Intelligence",
+   "tier": "B"
+  },
+  {
    "A": 2,
    "C": 1,
    "D": 2,
@@ -4285,7 +4637,7 @@
    "id": "sky-canada-project",
    "label": "Sky Canada Project - Office of the Chief Science Advisor of Canada",
    "short": "Sky Canada Project",
-   "tier": "B"
+   "tier": "C"
   },
   {
    "A": 2,
@@ -4348,6 +4700,21 @@
    "tier": "C"
   },
   {
+   "A": 0,
+   "C": 0,
+   "D": 3,
+   "band": "research",
+   "cls": "document",
+   "cluster": "media",
+   "dateStart": "1955-11-20",
+   "era": "0",
+   "hl": null,
+   "id": "talbert-gravity-series-1955",
+   "label": "Ansel E. Talbert, three-part gravity series, New York Herald Tribune, 20-22 November 1955",
+   "short": "Talbert gravity series, Nov 1955",
+   "tier": "C"
+  },
+  {
    "A": 1,
    "C": 0,
    "D": 3,
@@ -4360,6 +4727,21 @@
    "id": "task-force-declassification-federal-secrets",
    "label": "Task Force on the Declassification of Federal Secrets",
    "short": "Task Force on Declassification",
+   "tier": "C"
+  },
+  {
+   "A": 0,
+   "C": 0,
+   "D": 3,
+   "band": "custody",
+   "cls": "institution",
+   "cluster": "media",
+   "dateStart": "1996",
+   "era": "1",
+   "hl": null,
+   "id": "the-black-vault",
+   "label": "The Black Vault",
+   "short": "The Black Vault",
    "tier": "C"
   },
   {
@@ -4618,7 +5000,7 @@
    "tier": "B"
   }
  ],
- "source": "687756664d3a",
+ "source": "17d9a3fc575a",
  "summarised": [
   {
    "a": "aaro",
@@ -4977,10 +5359,27 @@
   },
   {
    "a": "cia",
+   "b": "dod",
+   "via": [
+    "gordon-gray",
+    "harry-s-truman"
+   ]
+  },
+  {
+   "a": "cia",
    "b": "project-blue-book",
    "via": [
-    "haines-cia-history",
+    "charles-p-cabell",
     "richard-m-bissell-jr"
+   ]
+  },
+  {
+   "a": "cia",
+   "b": "usaf",
+   "via": [
+    "charles-p-cabell",
+    "donald-keyhoe",
+    "harry-s-truman"
    ]
   },
   {
@@ -5041,6 +5440,15 @@
    ]
   },
   {
+   "a": "darpa",
+   "b": "dod",
+   "via": [
+    "conventional-prompt-global-strike",
+    "harry-s-truman",
+    "neil-h-mcelroy"
+   ]
+  },
+  {
    "a": "dia",
    "b": "dird-series",
    "via": [
@@ -5080,6 +5488,14 @@
     "dird-antigravity-for-aerospace-applications",
     "dird-laser-lightcraft-nanosatellites",
     "dird-traversable-wormholes-stargates-and-negative-energy"
+   ]
+  },
+  {
+   "a": "dia",
+   "b": "nsa",
+   "via": [
+    "bobby-ray-inman",
+    "tehran-f4-intercept-1976"
    ]
   },
   {
@@ -5415,6 +5831,14 @@
   },
   {
    "a": "lockheed-martin",
+   "b": "talbert-gravity-series-1955",
+   "via": [
+    "general-dynamics",
+    "rias-inc"
+   ]
+  },
+  {
+   "a": "lockheed-martin",
    "b": "ttsa-army-crada",
    "via": [
     "d-contracting",
@@ -5558,12 +5982,19 @@
    ]
   },
   {
+   "a": "podesta-delonge-mccasland-email-2016",
+   "b": "project-blue-book",
+   "via": [
+    "bob-fish",
+    "l-wright-patterson"
+   ]
+  },
+  {
    "a": "project-blue-book",
    "b": "robertson-panel",
    "via": [
     "afr-200-2",
     "edward-ruppelt",
-    "haines-cia-history",
     "j-allen-hynek"
    ]
   },

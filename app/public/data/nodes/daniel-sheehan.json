@@ -68,6 +68,27 @@
 "connections": [
 {
 "claimTier": 2,
+"cls": "program",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "Named the programme as the destination of reverse-engineered propulsion; the CRS report contradicts it",
+"id": "conventional-prompt-global-strike",
+"l0": false,
+"label": "Conventional Prompt Global Strike",
+"note": "Sheehan named this programme on episode 224 as the destination of reverse-engineered propulsion; the CRS report on it contradicts the claim and this edge exists to carry the contradiction rather than the claim.",
+"sources": [
+{
+"date": "2021-07-16",
+"name": "CRS R41464, Conventional Prompt Global Strike and Long-Range Ballistic Missiles: Background and Issues",
+"url": "https://www.everycrsreport.com/reports/R41464.html"
+}
+],
+"tier": "B",
+"type": "investigative"
+},
+{
+"claimTier": 2,
 "cls": "person",
 "dateEnd": "2026",
 "dateStart": "2023",
@@ -154,7 +175,7 @@
 "date": "2023-11-27",
 "dateEnd": null,
 "dateStart": "2023-11-27",
-"deg": 4,
+"deg": 5,
 "denials": [],
 "domains": [
 "congress-senate-legislation",
@@ -199,7 +220,7 @@
 "status": "active",
 "sub": "Constitutional attorney; lobbied the FY2024 NDAA conference",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 580 of 1027, score 26). 4 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A0/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 579 of 1057, score 27). 5 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A0/D3.",
 "timeline": [
 {
 "date": "1988-06-23",

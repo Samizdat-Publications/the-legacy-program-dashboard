@@ -46,7 +46,7 @@
 "direction": "out",
 "edgeLabel": "A copy went to the Director of ARPA at the Pentagon",
 "id": "darpa",
-"l0": false,
+"l0": true,
 "label": "Defense Advanced Research Projects Agency",
 "note": "The distribution list reads 'Director, Advanced Research Projects Agency, Department of Defense, ATTN: Ward Low, The Pentagon, Wash 25, DC'.",
 "sources": [
@@ -56,7 +56,7 @@
 "url": "https://archive.org/details/DTIC_AD0425380"
 }
 ],
-"tier": "C",
+"tier": "B",
 "type": "custody"
 },
 {
@@ -243,12 +243,6 @@
 "locLabel": null,
 "members": [
 {
-"cls": "institution",
-"id": "darpa",
-"label": "Defense Advanced Research Projects Agency",
-"tier": "C"
-},
-{
 "cls": "location",
 "id": "l-kirtland",
 "label": "Kirtland Air Force Base and Albuquerque, New Mexico",
@@ -287,7 +281,7 @@
 ],
 "sub": "Air Force Special Weapons Center, Kirtland AFB; L. Reiffel, Armour Research Foundation; contributor C. E. Sagan; DDC AD 425380",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 116 of 1027, score 58). 6 connections, 5 of them custody/witness/funding/programmatic. Axes C3/A1/D2.",
+"tierRationale": "Re-graded A on a global pass (rank 119 of 1057, score 58). 6 connections, 5 of them custody/witness/funding/programmatic. Axes C3/A1/D2.",
 "timeline": [
 {
 "date": "1959-06-19",
