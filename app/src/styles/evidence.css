@@ -75,18 +75,48 @@
   padding: 5px 8px;
   vertical-align: top;
   border-bottom: 1px solid var(--bg2);
-  overflow-wrap: anywhere;
+  /* break-word, not anywhere: a line breaks at a space first and splits a token
+     only when that token cannot fit a line on its own. `anywhere` filled every
+     line to the last character and cut ordinary words and URLs mid-token. */
+  overflow-wrap: break-word;
+  word-break: normal;
+  hyphens: none;
 }
 .ev-table tr:hover td { background: var(--bg2); }
 .ev-table .c-tier { width: 44px; font-weight: 600; }
 .ev-table .c-cls { width: 96px; }
 .ev-table .c-node { width: 190px; }
 .ev-table .c-claim { width: auto; color: var(--text); }
-.ev-table .c-src { width: 260px; }
+.ev-table .c-src { width: 300px; }
 .ev-table .c-den { width: 62px; }
-.ev-table .c-foia { width: 300px; }
+.ev-table .c-foia { width: 252px; }
 
-.ev-foia { margin-bottom: 5px; }
+/* The FOIA cell: one line per request, and a control that opens the question
+   that request would close underneath the row. */
+.ev-foia-btn {
+  display: block;
+  width: 100%;
+  text-align: left;
+  padding: 0;
+  color: var(--dim);
+  line-height: 1.5;
+}
+.ev-foia-btn .ev-foia-line { display: block; }
+.ev-foia-btn .ev-caret { display: block; letter-spacing: 0.08em; }
+.ev-foia-btn:hover .ev-caret,
+.ev-foia-btn[aria-expanded='true'] .ev-caret { color: var(--cyan); }
+.ev-foia-btn[aria-expanded='true'] .ev-caret::after { content: ' open'; }
+
+.ev-table tr.ev-open td { background: var(--bg2); }
+.ev-table tr.ev-x td.ev-xcell {
+  background: var(--bg2);
+  border-bottom: 1px solid var(--line);
+  border-left: 2px solid var(--cyan);
+  padding: 7px 10px 9px 12px;
+}
+
+.ev-foia { margin-bottom: 7px; max-width: 110ch; }
+.ev-foia:last-child { margin-bottom: 0; }
 .ev-foia-q { margin-top: 2px; }
 .ev-q { color: var(--dim); margin-top: 2px; }
 
@@ -107,6 +137,6 @@
 @media (max-width: 1599px) {
   .ev { grid-template-columns: 200px minmax(0, 1fr); gap: 16px; }
   .ev-table .c-node { width: 150px; }
-  .ev-table .c-src { width: 190px; }
-  .ev-table .c-foia { width: 230px; }
+  .ev-table .c-src { width: 230px; }
+  .ev-table .c-foia { width: 200px; }
 }

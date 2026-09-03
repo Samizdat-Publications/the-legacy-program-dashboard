@@ -10,6 +10,11 @@
  * header prints the filtered count.
  *
  * Nothing is truncated: claim text, source citations and FOIA questions wrap.
+ *
+ * The FOIA column prints one line per request — id, office, status — and the
+ * question that request would close opens as a full-width expansion under the
+ * row, one row open at a time. Every fact stays; it moves out of the row and
+ * under it, so the table reads one claim per two or three lines.
  */
 import '../styles/evidence.css';
 import { h, clear, mark } from '../dom';
@@ -34,6 +39,7 @@ const GROUPS: { key: Key; head: string }[] = [
 export async function renderEvidence(view: HTMLElement, q: URLSearchParams): Promise<void> {
   clear(view);
   setTitle('Evidence');
+  open = null;   /* the previous table is gone; nothing is expanded in this one */
 
   const wait = h('div', { class: 'ev-wait dim' }, 'Reading data/claims.json …');
   view.append(wait);
@@ -156,7 +162,7 @@ function chip(q: URLSearchParams, key: Key, item: Facet, f: Filters): HTMLElemen
 }
 
 function row(r: ClaimRow, foia: FoiaFile): HTMLElement {
-  const tr = h('tr');
+  const tr = h('tr') as HTMLTableRowElement;
   tr.append(h('td', { class: 'c-tier t' + r.tier }, 'T' + r.tier));
   tr.append(h('td', { class: 'c-cls' }, mark(clsColour(r.cls)), ' ', h('span', { class: 'dim' }, r.cls)));
   tr.append(h('td', { class: 'c-node' }, h('a', { href: '#/n/' + r.node }, r.label)));
@@ -171,20 +177,75 @@ function row(r: ClaimRow, foia: FoiaFile): HTMLElement {
           : h('span', { class: 'faint' }, 'no citation on the row'))));
 
   tr.append(h('td', { class: 'c-den' }, r.denied ? h('span', { class: 'red' }, 'denied') : ''));
-  tr.append(foiaCell(r, foia));
+  tr.append(foiaCell(r, foia, tr));
   return tr;
 }
 
-function foiaCell(r: ClaimRow, foia: FoiaFile): HTMLElement {
+/* One row is expanded at a time. The state is module-level because the rows are
+   drawn in blocks and any of them may be the open one; renderEvidence drops it
+   on every paint, so a stale reference can never outlive the table it came from. */
+let open: { tr: HTMLTableRowElement; x: HTMLTableRowElement; btn: HTMLElement } | null = null;
+
+function closeOpen(): void {
+  if (!open) return;
+  open.x.remove();
+  open.btn.setAttribute('aria-expanded', 'false');
+  open.tr.classList.remove('ev-open');
+  open = null;
+}
+
+/* The cell carries the request and the office on one line each. The question the
+   request would close is a fact about the request, not about the claim, so it
+   opens under the row rather than printing three hundred pixels of prose into it. */
+function foiaCell(r: ClaimRow, foia: FoiaFile, tr: HTMLTableRowElement): HTMLElement {
   const td = h('td', { class: 'c-foia' });
   const entries: FoiaEntry[] = (foia.byNode && foia.byNode[r.node]) || [];
   if (!entries.length) {
     td.append(h('span', { class: 'faint' }, r.open ? 'request not on the board' : ''));
     return td;
   }
+
+  const btn = h('button', {
+    class: 'ev-foia-btn',
+    type: 'button',
+    'aria-expanded': 'false',
+    title: 'Show the question this would close',
+  });
+  for (const e of entries) {
+    btn.append(h('span', { class: 'ev-foia-line' },
+      h('span', { class: 'amber' }, e.request),
+      h('span', { class: 'sep' }, ' · '),
+      h('span', { class: 'dim' }, e.agency || 'agency not on the board'),
+      h('span', { class: 'sep' }, ' · '),
+      h('span', { class: 'faint' }, e.status || 'status not on the board')));
+  }
+  btn.append(h('span', { class: 'ev-caret faint' }, 'closes ▾'));
+
+  btn.addEventListener('click', () => {
+    const wasOpen = open != null && open.tr === tr;
+    closeOpen();
+    if (wasOpen) return;
+    const x = expansion(r, entries);
+    tr.after(x);
+    tr.classList.add('ev-open');
+    btn.setAttribute('aria-expanded', 'true');
+    open = { tr, x, btn };
+  });
+
+  td.append(btn);
+  return td;
+}
+
+/* The expansion carries everything the cell used to print inline: the request
+   line again, the request's own title, and the open question it would close. */
+function expansion(r: ClaimRow, entries: FoiaEntry[]): HTMLTableRowElement {
+  const x = h('tr', { class: 'ev-x' }) as HTMLTableRowElement;
+  const td = h('td', { class: 'ev-xcell', colspan: '7' });
+  x.append(td);
+
   for (const e of entries) {
     const block = h('div', { class: 'ev-foia' });
-    block.append(h('div', null,
+    block.append(h('div', { class: 'ev-foia-head' },
       h('span', { class: 'amber' }, e.request),
       h('span', { class: 'sep' }, ' · '),
       h('span', { class: 'dim' }, e.agency || 'agency not on the board'),
@@ -204,7 +265,7 @@ function foiaCell(r: ClaimRow, foia: FoiaFile): HTMLElement {
     });
     td.append(block);
   }
-  return td;
+  return x;
 }
 
 /* The question text lives on the node record; the FOIA file carries only the

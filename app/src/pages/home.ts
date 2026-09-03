@@ -41,20 +41,21 @@ export async function renderHome(view: HTMLElement): Promise<void> {
       ' claims, ' + n(idx.counts.timeline) + ' events · a name, a programme, a statute',
   }));
 
-  /* ---- the paragraph. The one placeholder this build is allowed to leave:
-     Stewart writes it. Design's draft is inside the brackets so the page still
-     says what the board is while it waits. ------------------------------- */
-  main.append(h('p', { class: 'home-para', 'data-placeholder': '1' },
-    h('span', { class: 'ph' }, '[placeholder: the Home paragraph — Stewart writes this. Design\'s draft, from the brief: '),
-    '“A research board on the alleged US programme for recovering and reverse-engineering ' +
-    'non-human craft, 1944 to now. It is a sourced graph: every node carries claims graded ' +
-    'by evidence strength — ',
-    h('span', { class: 't1' }, 'Tier 1'), ' documented, ',
-    h('span', { class: 't2' }, 'Tier 2'), ' a named person on the record, ',
-    h('span', { class: 't3' }, 'Tier 3'), ' stated inference. Every edge is hand-written and ' +
-    'sourced. Where what a witness said and what the record shows disagree, the contradiction ' +
-    'is recorded as a finding.”',
-    h('span', { class: 'ph' }, ']'),
+  /* ---- the paragraph. Stewart's own text. Every figure in it is read from
+     index.json above, so it can never drift from the board. --------------- */
+  main.append(h('p', { class: 'home-para' },
+    'A research board on the alleged United States programme for recovering and ' +
+    'reverse-engineering non-human craft, 1944 to now. It is a sourced graph: ' +
+    n(idx.counts.nodes) + ' people, institutions, programmes, documents, events, laws and ' +
+    'places, joined by ' + n(idx.counts.edges) + ' hand-written edges that each cite a ' +
+    'document, and ' + n(claimTotal) + ' claims graded by evidence strength: ',
+    h('span', { class: 't1' }, 'Tier 1'), ' documented (' + n(idx.counts.claims['1'] ?? 0) + '), ',
+    h('span', { class: 't2' }, 'Tier 2'), ' a named person on the record (' + n(idx.counts.claims['2'] ?? 0) + '), ',
+    h('span', { class: 't3' }, 'Tier 3'), ' stated inference (' + n(idx.counts.claims['3'] ?? 0) + '). ' +
+    'Where what a witness said and what the record shows disagree, the contradiction is ' +
+    'recorded as a finding. Statements by AARO and the Department of Defense are treated ' +
+    "as an interested party's and capped at Tier 2 unless the claim is about what they " +
+    'said. No source, URL, document number or quotation appears here that was not opened.',
   ));
 
   /* ---- the six entry paths --------------------------------------------- */
