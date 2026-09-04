@@ -305,6 +305,17 @@ This section applies only to commands written **for Stewart to paste**. He runs
   clothes: the gate has 184 assertions and not one of them checks that a document written for
   somebody else is reachable by them.
 - **Never paste the GitHub token into chat.** It lives in `.gh-token`, gitignored.
+- **Token economy, agreed 3 September 2026 after a session that spent 71% of its usage on
+  the orchestrator's own re-sent context.** The orchestrating session (Fable) does not read
+  any file over about 10 KB; an agent reads it and returns the conclusion in under 40 lines.
+  One phase per session (map; triage and verify; build and gate), each ending in a handoff
+  note, or `/compact` at the boundary. Fan-outs run through one coordinator agent that
+  launches its own subagents and reports once, or through the Workflow tool when Stewart
+  says "use a workflow". Model ladder: Sonnet for mapping, sweeps, running the pipeline,
+  gate, commits and deploys; Opus for triage, verification, builds, dossiers and any code
+  change; Fable for decisions, reviewing agent output, decision lists and handoffs only.
+  Waits are one background job that exits when the whole condition holds, not a poll that
+  wakes the session every thirty seconds.
 - **Size must never encode importance** anywhere in the visual language. The largest node is
   AARO, which this board treats as implicated, not authoritative. Position is available;
   size is not.
