@@ -8,7 +8,8 @@ import './styles/tokens.css';
 import './styles/app.css';
 
 import { startRouter, setTitle, type Route } from './router';
-import { renderFrame, refreshFrameStatus } from './frame';
+import { renderFrame, refreshFrameStatus, refreshFrameBack } from './frame';
+import { initHistory, noteHere } from './history';
 import { primeSearch } from './search';
 import { loadIndex, registerClasses } from './data';
 import { renderHome } from './pages/home';
@@ -67,9 +68,15 @@ async function dispatch(r: Route): Promise<void> {
   }
 }
 
-startRouter((r) => {
+/* The depth stamp has to be on the entry before the first route is dispatched,
+   and its hashchange listener has to run before the router's. */
+initHistory();
+
+startRouter(async (r) => {
   window.scrollTo(0, 0);
-  return dispatch(r);
+  await dispatch(r);
+  noteHere();
+  refreshFrameBack();
 });
 
 /* `/` focuses the search field, as the Home hint says it does. */

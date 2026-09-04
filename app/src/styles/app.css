@@ -61,6 +61,29 @@ h1, h2, h3 { margin: 0; font-weight: 600; }
 }
 .nav span.nav-inert { color: var(--faint); cursor: default; }
 
+/* The back control. A button, because it goes nowhere of its own: it calls
+   history.back(), so the browser's back does exactly the same thing. Disabled
+   when the reader is on the first page of the session, so it can never take
+   them off the site. */
+.nav-back {
+  flex: 0 0 auto;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  padding: 4px 10px;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--dim);
+  background: var(--panel);
+  border: 1px solid var(--line);
+  white-space: nowrap;
+}
+.nav-back .nav-back-chev { color: var(--cyan); }
+.nav-back:hover:not(:disabled) { color: var(--text); background: var(--panel2); border-color: var(--line2); }
+.nav-back:focus-visible { outline: 1px solid var(--cyan); outline-offset: 1px; }
+.nav-back:disabled { color: var(--faint); background: none; cursor: default; }
+.nav-back:disabled .nav-back-chev { color: var(--faint); }
+
 .bar-search { flex: 1 1 auto; position: relative; min-width: 180px; max-width: 640px; }
 .bar-right { margin-left: auto; display: flex; align-items: center; gap: 12px; flex: 0 0 auto; }
 .frag { color: var(--cyan); white-space: nowrap; }

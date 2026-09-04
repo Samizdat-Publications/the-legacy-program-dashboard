@@ -11,10 +11,14 @@
  *   Report    -> the node in view. With no node in view there is nothing to report
  *                on, so the item is inert rather than pointing at a route that
  *                does not resolve.
+ *
+ * Left of the routes is the back control. It is a button, not a link, because it
+ * goes nowhere of its own: it calls history.back(). See src/history.ts.
  */
 import { h, clear } from './dom';
 import { searchBox } from './search';
 import { fragment, routeNodeId, type Route } from './router';
+import { canGoBack, goBack, previousTitle } from './history';
 
 const PATENT_IN_VIEW = '10144532';
 const THREAD_IN_VIEW = 'custody';
@@ -43,6 +47,20 @@ function items(r: Route): NavItem[] {
 
 let fragEl: HTMLElement | null = null;
 let viewEl: HTMLElement | null = null;
+let backEl: HTMLButtonElement | null = null;
+
+/* The back control's state is the reader's trail, not the route, so it is set
+   here after the frame is drawn and again after the route has rendered. */
+export function refreshFrameBack(): void {
+  if (!backEl) return;
+  const can = canGoBack();
+  const prev = can ? previousTitle() : '';
+  const label = prev ? 'Back to ' + prev : 'Back';
+  backEl.disabled = !can;
+  backEl.setAttribute('aria-disabled', can ? 'false' : 'true');
+  backEl.setAttribute('aria-label', label);
+  backEl.setAttribute('title', label);
+}
 
 export function renderFrame(host: HTMLElement, r: Route): void {
   const nid = routeNodeId(r);
@@ -56,6 +74,14 @@ export function renderFrame(host: HTMLElement, r: Route): void {
     h('span', { class: 'w-lit' }, 'LEGACY PROGRAM'),
     h('span', { class: 'w-dim' }, ' RESEARCH TERMINAL'),
   ));
+
+  backEl = h('button', {
+    type: 'button',
+    class: 'nav-back',
+    onclick: () => { goBack(); },
+  }, h('span', { class: 'nav-back-chev', 'aria-hidden': 'true' }, '‹'), 'Back');
+  bar.append(backEl);
+  refreshFrameBack();
 
   const nav = h('nav', { class: 'nav', 'aria-label': 'Views' });
   for (const it of items(r)) {

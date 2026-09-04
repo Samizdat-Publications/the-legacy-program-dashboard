@@ -1,5 +1,6 @@
 /* app/checks/run.mjs — C1 to C16 of notes/DESIGN-RESPONSE-SHELL-2026-09-02.md
- * section 3, against the built app served by `npm run preview`.
+ * section 3, plus C17 for the back button Stewart made a condition of the new
+ * shell, against the built app served by `npm run preview`.
  *
  * WHY IT IS SHAPED LIKE THIS.
  *
@@ -74,11 +75,18 @@ const IN_PAGE = {
   /* the not-found page names the route it was given; that is how it is spotted */
   page() {
     const h2 = document.querySelector('.notice h2');
+    const b = document.querySelector('button.nav-back');
     return {
       text: document.body.innerText,
       hrefs: Array.prototype.map.call(document.querySelectorAll('a[href]'), (a) => a.getAttribute('href')),
       notfound: !!(h2 && /No such route/.test(h2.textContent || '')),
       title: document.title,
+      back: b ? {
+        tag: b.tagName, type: b.getAttribute('type') || '',
+        text: (b.textContent || '').trim(),
+        disabled: b.disabled === true, aria: b.getAttribute('aria-disabled'),
+        title: b.getAttribute('title') || '', label: b.getAttribute('aria-label') || '',
+      } : null,
     };
   },
 
@@ -437,6 +445,21 @@ const POISONS = {
       if (chip) packs[1].appendChild(chip);
     }),
   },
+  c17: {
+    /* 'back' is the C17 trail's own stop, re-applied after every render there,
+       because the frame draws a fresh button on each route. */
+    stops: ['back'],
+    what: 'rewires the rendered back button to set location.hash instead of calling history.back()',
+    fn: async (page) => page.evaluate(() => {
+      const b = document.querySelector('button.nav-back');
+      if (!b) return;
+      const c = b.cloneNode(true);
+      c.disabled = false;
+      c.setAttribute('aria-disabled', 'false');
+      c.addEventListener('click', () => { location.hash = '#/'; });
+      b.replaceWith(c);
+    }),
+  },
   c16: {
     stops: ['map'],
     what: 'prints one of the mockup placeholder strings into the page',
@@ -511,13 +534,16 @@ async function main() {
 
   const S = {};                       /* stop id -> snapshot                  */
   let current = null;
+  async function poisonAt(p, id) {
+    if (POISONS[POISON] && POISONS[POISON].stops.includes(id)) await POISONS[POISON].fn(p, ctx);
+  }
   async function stop(id, hash, settle = 900, extra = null) {
     if (current === null) await page.goto(APP + hash, { waitUntil: 'load' });
     else if (current !== hash) await page.evaluate((h) => { location.hash = h; }, hash);
     current = hash;
     await page.waitForTimeout(settle);
     if (extra) await extra(page);
-    if (POISONS[POISON] && POISONS[POISON].stops.includes(id)) await POISONS[POISON].fn(page, ctx);
+    await poisonAt(page, id);
     const s = await page.evaluate(`(function ${IN_PAGE.page})()`);
     S[id] = s;
     return s;
@@ -548,8 +574,9 @@ async function main() {
   S.hood3.labels = await ev(IN_PAGE.labels, '.hood-label', 'a.hood-n');
 
   /* A poison run only has to prove its own check fails, so it walks the shortest
-     itinerary that still reaches that check. Only C7 needs all eight threads. */
-  const walkAll = !POISON || POISON === 'c7';
+     itinerary that still reaches that check. C7 needs all eight threads, and C17
+     asks after every screen the itinerary reaches, so both walk the whole thing. */
+  const walkAll = !POISON || POISON === 'c7' || POISON === 'c17';
   for (const t of (walkAll ? threads : threads.filter((x) => x.id === 'custody'))) {
     const id = 'thread:' + t.id;
     await stop(id, '#/t/' + t.id, 1400);
@@ -583,7 +610,7 @@ async function main() {
     '#/report/n/' + NODE_FOCUS, '#/report/t/custody',
   ];
   const deadRoutes = [];
-  const sweepRoutes = !POISON || POISON === 'c9';
+  const sweepRoutes = !POISON || POISON === 'c9' || POISON === 'c17';
   current = null;
   for (const r of (sweepRoutes ? ROUTES : [])) {
     await page.goto(APP + r, { waitUntil: 'load' });
@@ -593,6 +620,66 @@ async function main() {
     /* the swept routes are screens too: C9's href scan and C16's placeholder
        scan both walk everything in S, so the query-string states count. */
     if (!S[r]) S['route ' + r] = nf;
+  }
+
+  /* ---- C17's back trail ------------------------------------------------- */
+  /* On fresh contexts, because the history this reads has to be the reader's own
+     and the itinerary above has filled this one with a hundred entries. */
+  const B = { fresh: null, trail: [], clicks: [], forward: null, parity: {} };
+  {
+    const mkPage = async () => {
+      const p = await browser.newPage({ viewport: { width: 1920, height: 1080 } });
+      p.on('request', (r) => requests.push(r.url()));
+      p.on('pageerror', (e) => pageErrors.push(e.message.slice(0, 160)));
+      return p;
+    };
+    /* the control as the browser has it: its state, and where the page ended up */
+    const readBack = (p) => p.evaluate(() => {
+      const b = document.querySelector('button.nav-back');
+      return {
+        hash: location.hash || '#/', present: !!b,
+        disabled: b ? b.disabled === true : null,
+        aria: b ? b.getAttribute('aria-disabled') : null,
+        title: b ? (b.getAttribute('title') || '') : '',
+      };
+    });
+    const rest = async (p, ms) => { await p.waitForTimeout(ms); await poisonAt(p, 'back'); return readBack(p); };
+    const hit = (p) => p.locator('button.nav-back').first().click({ force: true });
+    /* Home, then a node, then that node's map, by clicking the pages' own links */
+    const walk = async (p) => {
+      const out = [];
+      await p.goto(APP + '#/', { waitUntil: 'load' });
+      out.push(await rest(p, 1600));
+      await p.locator('.starthere .chips a.chip[href="#/n/' + NODE_FOCUS + '"]').first().click();
+      out.push(await rest(p, 1400));
+      await p.locator('a[href="#/n/' + NODE_FOCUS + '/map"]').first().click();
+      out.push(await rest(p, 2400));
+      return out;
+    };
+
+    /* a deep link opened cold has nothing in the session to go back to */
+    const p0 = await mkPage();
+    await p0.goto(APP + '#/n/' + NODE_FOCUS, { waitUntil: 'load' });
+    B.fresh = await rest(p0, 1600);
+    await p0.close();
+
+    /* the trail, two clicks of the button, then the forward stack */
+    const p1 = await mkPage();
+    B.trail = await walk(p1);
+    await hit(p1); B.clicks.push(await rest(p1, 1400));
+    await hit(p1); B.clicks.push(await rest(p1, 1600));
+    await p1.goForward(); await rest(p1, 1400);
+    await p1.goForward(); B.forward = await rest(p1, 2400);
+    await p1.close();
+
+    /* the same trail again, walked by the browser's own back and forward */
+    const p2 = await mkPage();
+    await walk(p2);
+    await p2.goBack(); B.parity.b1 = await rest(p2, 1400);
+    await p2.goBack(); B.parity.b2 = await rest(p2, 1600);
+    await p2.goForward(); B.parity.f1 = await rest(p2, 1400);
+    await hit(p2); B.parity.click = await rest(p2, 1400);
+    await p2.close();
   }
 
   await browser.close();
@@ -951,6 +1038,64 @@ async function main() {
     }
     check('c16', hits.length === 0, 'C16 no mockup placeholder string survives into any rendered page',
       hits.length ? `${hits.length} screen(s) — ` + clip(hits, 2) : `${Object.keys(S).length} screens clean`);
+  }
+
+  /* ---- C17 -------------------------------------------------------------- */
+  {
+    const stops = Object.keys(S);
+    const none = stops.filter((k) => !S[k].back);
+    check('c17', none.length === 0 && stops.length > 0,
+      'C17 a back control is drawn in the chrome of every screen walked',
+      none.length ? `${none.length} without one: ` + clip(none, 4) : `${stops.length} screens, all carry one`);
+    const wrong = stops.filter((k) => S[k].back &&
+      (S[k].back.tag !== 'BUTTON' || S[k].back.type !== 'button' || !/back/i.test(S[k].back.text)));
+    check('c17', wrong.length === 0 && stops.length > 0,
+      'C17 it is a <button type="button"> reading Back, never a link',
+      wrong.length ? clip(wrong.map((k) => k + ':' + S[k].back.tag + '/' + S[k].back.type), 4)
+        : `${stops.length} screens, all button type=button`);
+
+    const HOME = '#/', NODE = '#/n/' + NODE_FOCUS, NMAP = '#/n/' + NODE_FOCUS + '/map';
+    check('c17', !!B.fresh && B.fresh.present && B.fresh.disabled === true && B.fresh.aria === 'true',
+      'C17 on a cold deep link the button is disabled, so it can never leave the site',
+      B.fresh ? `${NODE} cold: disabled=${B.fresh.disabled}, aria-disabled=${B.fresh.aria}`
+        : 'the cold load was not reached');
+
+    const walked = B.trail.map((x) => x.hash);
+    check('c17', walked.join(' ') === [HOME, NODE, NMAP].join(' '),
+      "C17 the trail is built by clicking the pages' own links",
+      'walked ' + (walked.join(' \u2192 ') || '(nothing)') + ' \u00b7 wanted ' + [HOME, NODE, NMAP].join(' \u2192 '));
+    check('c17', B.trail.length === 3 && B.trail[0].disabled === true && B.trail[2].disabled === false,
+      "C17 disabled on the session's first page, enabled once a page has been left",
+      B.trail.map((x) => x.hash + ' disabled=' + x.disabled).join(' \u00b7 ') || 'the trail was not reached');
+
+    const clicked = B.clicks.map((x) => x.hash);
+    check('c17', clicked.join(' ') === [NODE, HOME].join(' '),
+      'C17 two clicks of the button step back over the trail, newest first',
+      'the clicks landed ' + (clicked.join(' \u2192 ') || '(nowhere)') + ' \u00b7 wanted ' + [NODE, HOME].join(' \u2192 '));
+    check('c17', B.clicks.length === 2 && B.clicks[1].disabled === true && B.clicks[1].aria === 'true',
+      'C17 back at the first page of the session the button is disabled again',
+      B.clicks.length === 2 ? `${B.clicks[1].hash}: disabled=${B.clicks[1].disabled}, aria-disabled=${B.clicks[1].aria}`
+        : 'the second click was not reached');
+
+    check('c17', !!B.forward && B.forward.hash === NMAP,
+      'C17 the button creates no history entry: forward twice reaches the map again',
+      B.forward ? 'forward, forward landed ' + B.forward.hash + ', wanted ' + NMAP
+        : 'the forward stack was not reached');
+
+    const par = [B.parity.b1, B.parity.b2].map((x) => (x ? x.hash : '(nowhere)'));
+    check('c17', par.join(' ') === [NODE, HOME].join(' '),
+      "C17 the browser's own back walks the same two hashes in the same order",
+      'goBack twice landed ' + par.join(' \u2192 ') + ' \u00b7 the button landed ' + (clicked.join(' \u2192 ') || '(nowhere)'));
+    check('c17', !!B.parity.f1 && B.parity.f1.hash === NODE && B.parity.f1.disabled === false
+      && !!B.parity.click && B.parity.click.hash === HOME,
+      'C17 after a browser forward the button is enabled and one click returns home',
+      (B.parity.f1 ? 'forward landed ' + B.parity.f1.hash + ' disabled=' + B.parity.f1.disabled : 'no forward')
+      + ', then the button landed ' + (B.parity.click ? B.parity.click.hash : '(nowhere)'));
+
+    const tips = B.trail.map((x) => x.title);
+    check('c17', tips[0] === 'Back' && tips[1] === 'Back to Home' && tips[2] === 'Back to ' + focusRec.label,
+      'C17 the tooltip names the page the button will return to',
+      B.trail.map((x, i) => x.hash + ' says "' + tips[i] + '"').join(' \u00b7 ') || 'the trail was not reached');
   }
 
   /* ---- verdict ---------------------------------------------------------- */

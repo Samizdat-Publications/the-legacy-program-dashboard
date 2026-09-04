@@ -17,6 +17,7 @@
  * Anything else is not-found, and the not-found page names the route it was given.
  * Every route is shareable; back always works because every state is a hash.
  */
+import { noteHere } from './history';
 
 export type Route =
   | { kind: 'home' }
@@ -129,4 +130,7 @@ export function setTitle(...parts: string[]): void {
   const suffix = 'The Legacy Program Research Terminal';
   const head = parts.filter(Boolean).join(' · ');
   document.title = head ? head + ' · ' + suffix : suffix;
+  /* pages render asynchronously, so this, not the dispatch, is when the trail
+     learns what to call the entry the reader is on */
+  noteHere();
 }
