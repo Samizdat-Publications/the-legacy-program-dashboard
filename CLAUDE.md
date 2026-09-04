@@ -14,13 +14,15 @@ longer true.
 `python3 tools/state_snapshot.py --gate` — it derives every number from source and runs
 the gate. The counts below are a sanity anchor, not a source of truth.
 
-**Starting a fresh session?** Read `notes/HANDOFF-2026-09-03-EVENING.md` after this. **It
-is the current one.** It records the Danny Jones corpus build (board 1,027 -> 1,057), the
-reason CI was red all of 3 September (the L0 layout was not bit-identical across platforms;
-fixed in `build_l0.py`), the ten dead citations, and the ordered next steps.
-`notes/HANDOFF-2026-09-03.md` is the morning one and is still accurate on the two boards
-side by side (the old shell in `dist/`, the new shell in `app/` on its review site), the
-gate for each and the deploy recipe. `notes/HANDOFF-2026-09-01.md` is the one before it and is still accurate on
+**Starting a fresh session?** Read `notes/HANDOFF-2026-09-04.md` after this. **It is the
+current one.** It records the cutover: the new shell in `app/` is production, deployed by
+`deploy.yml` after a green gate; the back button Stewart made a condition of the cutover;
+the CRLF fingerprint fix in `build_app_data.py`; the NotebookLM export; and the analyst
+plan that waits on his four answers. `notes/HANDOFF-2026-09-03-EVENING.md` is the one
+before it and is still accurate on the Danny Jones corpus build (board 1,027 -> 1,057),
+the L0 layout fix in `build_l0.py`, the ten dead citations and the things not to undo.
+`notes/HANDOFF-2026-09-03.md`, the morning one, is history: its cutover recipe has been
+carried out. `notes/HANDOFF-2026-09-01.md` is still accurate on
 everything it records. Then `notes/RETHINK-2026-09-02.md`: on 2 September Stewart asked for the
 whole dashboard to be rethought for sharing with research friends, and that note is the
 assessment, the proposal (entity first, the orthogonal map by default, the full graph only
@@ -560,6 +562,16 @@ surface" includes markup, not just copy.
 > between Windows and Linux produced two different maps from one source and kept CI red
 > for a whole day; and `gate.yml` uploads the rebuilt artifacts when the reproducibility
 > step fails, which is the only way a Windows session can see what Linux built.
+
+> **4 September 2026, cutover.** The new shell is production. Back button on every
+> page (`app/src/history.ts`, check C17 with a poison), approved by Stewart on the review
+> site; `deploy.yml` builds `app/` and deploys `app/dist`; `gate.yml` gained the `app` job;
+> `_headers` and `_redirects`; `look.js` and `walk.js` re-pointed; sections 1, 3 and 7
+> rewritten. Gate green at `e9d397b` once `build_app_data.py`'s fingerprint became
+> content-only (CRLF-normalised bytes, no git id). NotebookLM export under
+> `exports/notebooklm/`. Record: `notes/HANDOFF-2026-09-04.md`. **Do not undo:** the
+> content-only fingerprint and the plain diff in the app job; `history.back()` as the
+> button's only action; `/data/*` revalidating rather than immutable.
 
 > **DONE, 2 September 2026 (afternoon): THE AREA 52 CORPUS BUILD.** 107 episodes of
 > AREA52 - DEBRIEFED, transcribed, mapped by 27 Sonnet agents, cross-checked, triaged by
