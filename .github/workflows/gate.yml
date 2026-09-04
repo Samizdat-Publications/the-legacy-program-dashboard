@@ -211,11 +211,14 @@ jobs:
         # the ignored pattern is anchored to its own key, and git only drops a hunk
         # when EVERY changed line in it matches -- so a real change sitting near
         # sourceCommit still fails this step.
+        # -I'"generated"' ignores the build date, one line in each of seven files:
+        # the first run of this job, on 4 September 2026 UTC, rebuilt files committed
+        # on 3 September and went red on nothing but that date.
         run: |
           python3 tools/build_app_data.py
-          git diff --quiet -I'"sourceCommit"' -- app/public/data/ || {
+          git diff --quiet -I'"sourceCommit"' -I'"generated"' -- app/public/data/ || {
             echo "::error::app/public/data/ is not what tools/build_app_data.py produces from the committed sources."
-            git --no-pager diff --stat -I'"sourceCommit"' -- app/public/data/
+            git --no-pager diff --stat -I'"sourceCommit"' -I'"generated"' -- app/public/data/
             exit 1
           }
 
