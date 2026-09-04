@@ -1,124 +1,184 @@
-/* Walk the board. Click everything, screenshot each state, report what looks wrong.
+/* Walk the new shell. Visit every route kind, screenshot each one, report what
+ * looks wrong.
+ *
+ * WHAT IT POINTS AT
+ * -----------------
+ * The Vite app in `app/`, served by `npx vite preview` (default
+ * http://127.0.0.1:4173, override with APP_URL). It used to point at
+ * `dist/the-program.html` and click a table of `.l0ctl` controls, `[data-view]`
+ * tabs and `[data-path]` entry chips, driving the board through
+ * `window.__board`. The new shell has none of those. It is hash-routed, every
+ * state is a URL, and the itinerary below is therefore a list of ROUTES rather
+ * than a list of clicks: one per route kind in `app/src/router.ts`, home
+ * through not-found. `BOARD_URL` is gone with the board it named.
  *
  * WHY THIS EXISTS
  * ---------------
- * notes/HANDOFF-2026-08-26-UX.md section 5 asked for this by name. Stewart's
- * question was what would let a session "click everything, see how it looks, write
- * notes", and the answer was that nothing needed downloading -- Playwright and
- * Chromium are already here -- what was missing was a harness.
- *
- * tools/look.js photographs a handful of states somebody chose in advance.
- * Every defect Stewart has reported was in a state nobody chose in advance:
- *
- *   - the era heads printing through the toolbar, which needs an entry path OPEN
- *     (its chip widens the left group) and the dossier OUT (it squeezes the row)
- *     before `.l0ctl` wraps far enough to overlap them
- *   - the dossier at half the window, which only shows once something is selected
- *   - FIT landing in the count matrix, which depends on the window size
- *
- * One state each, and no check was looking at any of them. This file enumerates
- * the controls and visits them instead of guessing which ones matter.
+ * notes/HANDOFF-2026-08-26-UX.md section 5 asked for it by name. Stewart's
+ * question was what would let a session "click everything, see how it looks,
+ * write notes". tools/look.js photographs a handful of states somebody chose in
+ * advance, and every defect Stewart has reported was in a state nobody chose in
+ * advance. This file enumerates the states instead of guessing which ones
+ * matter, and on the new shell the enumeration is exact, because the router
+ * says how many kinds of state there are.
  *
  * WHAT IT IS AND IS NOT
  * ---------------------
- * A CAMERA WITH A NOTEBOOK. It asserts nothing, exits 0 whatever it finds, and must
- * never enter the gate. Its findings are leads for a human, not verdicts: an
- * "overlap" here may be a deliberate stack, and a "clipped" element may be a label
- * that is meant to ellipsize. tools/test_packed_layout.js is where a finding goes
- * once somebody has looked and decided it is real.
+ * A CAMERA WITH A NOTEBOOK. It asserts nothing about the app, exits 0 whatever
+ * it finds, and must never enter the gate. Its findings are leads for a human,
+ * not verdicts: an "overlap" here may be a deliberate stack, and a "clipped"
+ * element may be a label that is meant to ellipsize. `app/checks/run.mjs` is
+ * where a finding goes once somebody has looked and decided it is real. The one
+ * thing it exits non-zero for is a harness problem: nothing serving the app is
+ * not a finding about the app.
  *
- * The two columns that earn it are OVERLAP and MAP SHARE. Both are what Stewart
- * sees and neither is visible from reading source.
+ * The columns that earn it are OVERLAP and MAP SHARE. Both are what Stewart
+ * sees and neither is visible from reading source. The element inventory earns
+ * its place for a narrower reason: `button.nav-back` is rendered by the frame on
+ * every route and Stewart made it a condition of the new shell, so a route that
+ * has lost it should show up here as a zero rather than as a screenshot nobody
+ * looked closely at.
  *
- * THE HONEST LIMIT, unchanged from look.js: a screenshot is one moment, captures
- * are at deviceScaleFactor 2 so small type reads larger than it will on a 1x
- * monitor, and nothing here can say whether the board READS. It widens the net.
- * It does not replace Stewart looking.
+ * THE HONEST LIMIT, unchanged from look.js: a screenshot is one moment, and
+ * nothing here can say whether the shell READS. It widens the net. It does not
+ * replace Stewart looking.
+ *
+ * Every id in the itinerary is read from the data the preview is serving
+ * (`app/public/data/`) at run time: the node is the highest-degree node in
+ * index.json, the thread is the first in threads.json, the patent is the first
+ * in patents.json, the map cell is the fullest cell in map.json and the era is
+ * the era with the most events in timeline.json. Nothing is written down here.
  *
  * Run it:
- *   npx http-server dist -p 8899 --silent &   # or the container copy under /opt/node22
+ *   cd app && npm run build && npx vite preview --host 127.0.0.1 --port 4173
  *   node tools/walk.js
  *   node tools/walk.js --size 1366x768 --out /tmp/walk
  */
-const { requirePlaywright, launchOptions } = require('./browser_env');
+const { requirePlaywright, launchOptions, describe } = require('./browser_env');
 const { chromium } = requirePlaywright();
 const fs = require('fs');
 const path = require('path');
 
 const ROOT = path.resolve(__dirname, '..');
-const URL = process.env.BOARD_URL || 'http://127.0.0.1:8899/the-program.html';
+const APP = (process.env.APP_URL || 'http://127.0.0.1:4173').replace(/\/+$/, '') + '/';
 const argv = process.argv.slice(2);
 const argOf = f => { const i = argv.indexOf(f); return i >= 0 ? argv[i + 1] : null; };
 const OUT = argOf('--out') || path.join(ROOT, 'dist', 'shots', 'walk');
 const SIZE = (argOf('--size') || '1600x900').split('x').map(Number);
 
-/* The controls, in the order a reader meets them. `pre` runs before the click and
- * is how a state that needs setting up gets set up -- the wrapping control row
- * needs a path open AND a selection, and no amount of clicking one button reaches
- * it. */
-const STOPS = [
-  { id: 'load',        label: 'the board as it opens' },
-  { id: 'start',       label: 'the START menu',            sel: '[data-entry]' },
-  { id: 'path-money',  label: 'follow the money',          sel: '[data-path="money"]' },
-  /* The entry surface closes when a path is picked, so the second path needs the
-     START menu reopening first. */
-  { id: 'path-custody',label: 'the custody chain',         sel: '[data-path="custody"]',
-                       pre: '[data-entry]' },
-  { id: 'fit',         label: 'FIT',                       sel: '.l0ctl [data-fit]' },
-  { id: 'fitall',      label: 'FIT ALL',                   sel: '.l0ctl [data-fitall]' },
-  { id: 'one',         label: '1:1',                       sel: '.l0ctl [data-one]' },
-  { id: 'opt-rest',    label: 'LINES AT REST off',         sel: '.l0ctl [data-opt="rest"]' },
-  { id: 'opt-flags',   label: 'START HERE off',            sel: '.l0ctl [data-opt="flags"]' },
-  { id: 'opt-labels',  label: 'LABELS off',                sel: '.l0ctl [data-opt="labels"]' },
-  { id: 'opt-cells',   label: 'CELLS on',                  sel: '.l0ctl [data-opt="cells"]' },
-  { id: 'opt-cells-off', label: 'CELLS off again',         sel: '.l0ctl [data-opt="cells"]' },
-  { id: 'select',      label: 'a node selected',           run: 'CMD.selectNode("aawsap")' },
-  { id: 'wrapped',     label: 'path open AND dossier out — the row wraps',
-                       run: 'CMD.openPath("money")' },
-  /* Re-select first: openPath clears the selection, which folds the dossier by the
-     rule in renderDock, so there is no fold tab to click until something is picked
-     again. */
-  { id: 'fold',        label: 'the dossier folded by its tab', sel: '.dock-fold',
-                       run: 'CMD.selectNode("aatip")' },
-  { id: 'legend',      label: 'the legend',                sel: '[data-legend="toggle"]' },
-  /* EVERY STOP BELOW NEEDS THE RAIL BACK. FIT ALL folds it -- that is the point of
-     FIT ALL -- and a folded rail takes the view list with it, so Playwright reports
-     "element is not visible" and the walk quietly stops covering half the board.
-     Worth knowing as a fact about the board, not just about the walker: after FIT
-     ALL the only way back to the views is the header's Rail button. */
-  { id: 'view-timeline', label: 'TIMELINE',                sel: '[data-view="TIMELINE"]',
-                         pre: '#railbtn' },
-  { id: 'view-coverup',  label: 'THE COVER-UP',            sel: '[data-view="COVERUP"]' },
-  { id: 'view-report',   label: 'REPORT',                  sel: '[data-view="REPORT"]' },
-  /* The packed program map, on its own tab since 29 August 2026. The walk pays it
-     the same visit as any other view: the overlap and occupancy records are the
-     two that catch what a reader sees, and a tab nobody walks is a tab nobody
-     looks at. */
-  { id: 'view-program',  label: 'PROGRAM MAP',             sel: '[data-view="PROGRAM"]' },
-  { id: 'view-network',  label: 'back to NETWORK',         sel: '[data-view="NETWORK"]' },
+async function jget(p) {
+  const r = await fetch(APP + p);
+  if (!r.ok) throw new Error(p + ' -> HTTP ' + r.status);
+  return r.json();
+}
+
+/* The itinerary's ids, from the data the preview is serving. */
+async function realIds() {
+  const [index, threadsFile, patentsFile, mapData, events] = await Promise.all([
+    jget('data/index.json'), jget('data/threads.json'), jget('data/patents.json'),
+    jget('data/map.json'), jget('data/timeline.json'),
+  ]);
+  const nodes = index.nodes.slice().sort((a, b) => (b.deg || 0) - (a.deg || 0));
+  const threads = threadsFile.threads || threadsFile;
+  const patents = patentsFile.patents || [];
+  const cellKeys = Object.keys(mapData.cells || {})
+    .sort((a, b) => (mapData.cells[b] || []).length - (mapData.cells[a] || []).length);
+  const eraCount = {};
+  for (const e of events) eraCount[e.era] = (eraCount[e.era] || 0) + 1;
+  const era = Object.keys(eraCount).sort((a, b) => eraCount[b] - eraCount[a])[0];
+  if (!nodes.length || !threads.length || !patents.length || !cellKeys.length || !era) {
+    throw new Error('the served data has no nodes, threads, patents, cells or eras to point at');
+  }
+  return {
+    node: nodes[0].id, nodeDeg: nodes[0].deg || 0,
+    thread: threads[0].id,
+    patent: String(patents[0].number).replace(/[^0-9]/g, ''),
+    patentLabel: String(patents[0].number),
+    cell: cellKeys[0], cellCount: (mapData.cells[cellKeys[0]] || []).length,
+    era, eraCount: eraCount[era],
+  };
+}
+
+/* Pages settle at very different speeds. These are the waits
+   app/checks/run.mjs uses for the same routes. */
+function settleFor(hash) {
+  if (hash.startsWith('#/evidence')) return 3200;
+  if (hash.startsWith('#/map')) return 2400;
+  if (hash.startsWith('#/timeline')) return 2400;
+  if (/hood/.test(hash)) return 2200;
+  if (hash === '#/') return 1600;
+  return 1500;
+}
+
+/* Every route kind in app/src/router.ts, in the order the type union declares
+   them, plus the two query-string states that change what a route draws
+   (a map cell, an evidence filter) and the not-found page, which the router
+   reaches from anything it cannot parse. */
+function itinerary(ids) {
+  return [
+    { id: 'home',         label: 'home',                       hash: '#/' },
+    { id: 'node',         label: 'a node page',                hash: '#/n/' + ids.node },
+    { id: 'node-map',     label: 'the map centred on it',      hash: '#/n/' + ids.node + '/map' },
+    { id: 'node-hood',    label: 'its neighbourhood',          hash: '#/n/' + ids.node + '/hood' },
+    { id: 'hood',         label: 'the neighbourhood, nothing selected', hash: '#/hood' },
+    { id: 'map',          label: 'the map at fit',             hash: '#/map' },
+    { id: 'map-cell',     label: 'the map with a cell open',   hash: '#/map?cell=' + ids.cell },
+    { id: 'thread',       label: 'a thread',                   hash: '#/t/' + ids.thread },
+    { id: 'thread-map',   label: 'that thread on the map',     hash: '#/t/' + ids.thread + '/map' },
+    { id: 'timeline-era', label: 'the timeline with an era open', hash: '#/timeline?era=' + ids.era },
+    { id: 'patents',      label: 'a patent',                   hash: '#/patents/' + ids.patent },
+    { id: 'evidence',     label: 'the evidence table, filtered', hash: '#/evidence?tier=1' },
+    { id: 'report-node',  label: 'the report for a node',      hash: '#/report/n/' + ids.node },
+    { id: 'report-thread',label: 'the report for a thread',    hash: '#/report/t/' + ids.thread },
+    { id: 'notfound',     label: 'not found',                  hash: '#/no-such-route-at-all' },
+  ];
+}
+
+/* The per-stop element inventory. `button.nav-back` is first because it is the
+   one a missing zero must be impossible to miss. */
+const INVENTORY = [
+  ['back', 'button.nav-back'],
+  ['nav', 'nav.nav a[href]'],
+  ['links', 'a[href^="#/"]'],
+  ['buttons', 'button'],
+  ['chips', 'a.chip'],
+  ['notice', '.notice'],
 ];
 
-/* Everything measured after a click, in one pass in the page. */
-const INSPECT = () => {
-  const out = { errors: [], overlaps: [], clipped: [], scale: null, mapShare: null,
-                offscreen: [] };
+/* Everything measured after a route settles, in one pass in the page.
+ *
+ * The geometry below is carried over from the old walker unchanged in what it
+ * measures. Two things did have to change and both are named where they are:
+ * the selectors, which named the old board's controls and do not exist here,
+ * and the rect cache, because the old double loop called
+ * getBoundingClientRect twice per PAIR and the new shell puts an order of
+ * magnitude more interactive elements on a page than the old one did. The
+ * cache changes the cost, not the answer: rects do not move during the pass. */
+const INSPECT = (inventory) => {
+  const out = { errors: [], overlaps: [], clipped: [], mapShare: null, mapBox: null,
+                offscreen: [], inv: {}, probe: null, back: null };
   const R = e => e.getBoundingClientRect();
-  const named = e => (e.getAttribute('data-view') || e.getAttribute('data-opt')
-    || e.getAttribute('data-path') || (e.className && String(e.className).split(' ')[0])
-    || e.tagName).slice(0, 28) + '"' + (e.textContent || '').trim().slice(0, 18) + '"';
+  const named = e => {
+    const id = e.getAttribute('data-id') || e.getAttribute('data-cell')
+      || e.getAttribute('href') || '';
+    const cls = (typeof e.className === 'string' && e.className.trim())
+      ? '.' + e.className.trim().split(/\s+/)[0] : '';
+    const head = (e.tagName.toLowerCase() + cls + (id ? '[' + id + ']' : '')).slice(0, 34);
+    return head + '"' + (e.textContent || '').trim().slice(0, 18) + '"';
+  };
 
   /* INTERACTIVE RECTS THAT SIT ON EACH OTHER. Two controls a reader can both aim
      at, occupying the same pixels, is the defect class Stewart keeps reporting and
      the one no unit check looks for. Only visible, non-nested pairs count: a button
      inside a toolbar overlaps its toolbar by construction. */
   /* VISIBLE MEANS VISIBLE RIGHT NOW, INCLUDING CLIPPING.
-     The first run of this file reported 33 overlaps in THE COVER-UP view and eight
-     controls "outside the window", and every one was wrong. They were the left
-     rail's filter chips, sitting below the fold of `.rail-scroll` -- a container
-     with overflow-y:auto, scrollHeight 943 against clientHeight 363, working
-     exactly as intended. getBoundingClientRect reports where a scrolled-away
-     element WOULD be, so the raw rects put them on top of the analyst's suggestion
-     chips and off the bottom of the screen. Nothing was wrong with the board.
+     The first run of the old version of this file reported 33 overlaps in one
+     view and eight controls "outside the window", and every one was wrong. They
+     were chips sitting below the fold of a container with overflow-y:auto,
+     working exactly as intended. getBoundingClientRect reports where a
+     scrolled-away element WOULD be, so the raw rects put them on top of their
+     neighbours and off the bottom of the screen. Nothing was wrong with the
+     board.
 
      That is this repo's own lesson pointed at its newest tool: a stale
      runtime-strip once cost a handoff two findings that did not exist, and a
@@ -140,15 +200,37 @@ const INSPECT = () => {
     }
     return true;
   };
+  /* The new shell's interactive surface: links, buttons, the map's cells (which
+     carry role=button and a tabindex) and anything else with a button role.
+     There are no [data-view], [data-opt], [data-path] or [data-fit] attributes
+     on this shell. */
   const hits = [...document.querySelectorAll(
-    'button,[role=button],a[href],[data-view],[data-opt],[data-path],[data-entry],'
-    + '[data-fit],[data-fitall],[data-one],[data-legend],[data-dockfold],[data-dockoff]')]
+    'a[href],button,[role=button],input,select,summary,[data-cell]')]
     .filter(visibleNow);
-  for (let i = 0; i < hits.length; i++) {
-    for (let j = i + 1; j < hits.length; j++) {
+  /* THE MAP'S CELLS ARE CONTAINERS THAT ARE NOT DOM ANCESTORS. `a.chip` and
+     `.cell[data-cell]` are siblings under `.map-grid`, both absolutely
+     positioned, and every chip is drawn inside its own cell's box. That is the
+     same "by construction" relation the `contains` test already excludes for a
+     button inside a toolbar, so it is excluded on the same grounds -- otherwise
+     the map reports 81 overlaps that are the layout working, and a camera that
+     cries wolf 81 times teaches the next reader to skim it. */
+  const stacked = (a, b, ra, rb) => {
+    const pair = (c, chip, rc, rch) =>
+      c.hasAttribute('data-cell') && chip.classList.contains('chip')
+      && rch.left >= rc.left - 1 && rch.right <= rc.right + 1
+      && rch.top >= rc.top - 1 && rch.bottom <= rc.bottom + 1;
+    return pair(a, b, ra, rb) || pair(b, a, rb, ra);
+  };
+  const rects = hits.map(R);
+  const order = hits.map((_, i) => i).sort((i, j) => rects[i].top - rects[j].top);
+  for (let ii = 0; ii < order.length; ii++) {
+    const i = order[ii], ra = rects[i];
+    for (let jj = ii + 1; jj < order.length; jj++) {
+      const j = order[jj], rb = rects[j];
+      if (rb.top >= ra.bottom) break;      /* sorted by top: nothing below can overlap */
       const a = hits[i], b = hits[j];
       if (a.contains(b) || b.contains(a)) continue;
-      const ra = R(a), rb = R(b);
+      if (stacked(a, b, ra, rb)) continue;
       const ox = Math.min(ra.right, rb.right) - Math.max(ra.left, rb.left);
       const oy = Math.min(ra.bottom, rb.bottom) - Math.max(ra.top, rb.top);
       if (ox > 2 && oy > 2)
@@ -158,7 +240,8 @@ const INSPECT = () => {
 
   /* TEXT CUT OFF BY ITS OWN BOX. scrollWidth beyond clientWidth on an element that
      is not a scroller. Ellipsis is legitimate and common here, so this is a lead. */
-  for (const e of document.querySelectorAll('button,.l0chip,.eyebrow,.turn-t,.cl,h1,h2,h5')) {
+  for (const e of document.querySelectorAll(
+    'button,a.chip,.clabel,.hood-label,.eyebrow,.cell-head span,.pt-num,h1,h2,h3')) {
     if (!visibleNow(e)) continue;
     const cs = getComputedStyle(e);
     if (cs.overflow === 'auto' || cs.overflowX === 'auto' || cs.overflow === 'scroll') continue;
@@ -170,6 +253,14 @@ const INSPECT = () => {
      scrollable ancestor could bring them back. A chip below the fold of a working
      scroller is not a defect; a control the layout has pushed past the viewport
      with nothing to scroll is. */
+  /* AND THE DOCUMENT IS ONE OF THEM HERE. The old board was a fixed shell whose
+     panels each had their own overflow:auto, so the ancestor walk stopped short
+     of documentElement and never needed to look at it. The new shell's pages are
+     long and scroll the DOCUMENT, so leaving it out reported every link below
+     the fold of a node page as a control pushed out of the window: 96 of them on
+     one page, none of them a defect. The rule is unchanged -- a control counts
+     only when nothing could scroll it back -- the page scroller is simply one of
+     the things that can. */
   const scrollableAncestor = e => {
     for (let a = e.parentElement; a && a !== document.documentElement; a = a.parentElement) {
       const acs = getComputedStyle(a);
@@ -177,6 +268,9 @@ const INSPECT = () => {
           && (a.scrollHeight > a.clientHeight + 2 || a.scrollWidth > a.clientWidth + 2))
         return true;
     }
+    const de = document.scrollingElement || document.documentElement;
+    if (de && (de.scrollHeight > de.clientHeight + 2 || de.scrollWidth > de.clientWidth + 2))
+      return true;
     return false;
   };
   for (const e of hits) {
@@ -187,19 +281,65 @@ const INSPECT = () => {
   }
 
   /* HOW MUCH OF THE WINDOW THE MAP ACTUALLY HAS. The number behind "you never
-     actually get to see the full map". */
-  const wrap = document.querySelector('.l0wrap');
-  if (wrap) {
-    const r = R(wrap);
+     actually get to see the full map". `.map-grid` is the new shell's map; there
+     is no `.l0wrap` and no canvas. */
+  const grid = document.querySelector('.map-grid');
+  if (grid) {
+    const r = R(grid);
     out.mapShare = Math.round(100 * (r.width * r.height) / (innerWidth * innerHeight));
     out.mapBox = Math.round(r.width) + '×' + Math.round(r.height);
   }
-  try { out.scale = +window.__board.MAP.view.k.toFixed(3); } catch (e) {}
-  try { out.cells = !!window.__board.MAP.opt.cells; } catch (e) {}
+
+  /* THE ELEMENT INVENTORY, back button first. */
+  for (const [name, sel] of inventory) out.inv[name] = document.querySelectorAll(sel).length;
+  const b = document.querySelector('button.nav-back');
+  out.back = b ? {
+    text: (b.textContent || '').trim(),
+    disabled: b.disabled === true,
+    aria: b.getAttribute('aria-disabled'),
+    label: b.getAttribute('aria-label') || '',
+  } : null;
+
+  /* WHAT THE PAGE ITSELF SAYS IT DREW. The three publishers of the new shell:
+     window.__app.map.chips()/.cells(), .hood.ring()/.centre(), .timeline.placed().
+     A lead, not a measurement -- everything above is read off the DOM instead. */
+  const app = window.__app || {};
+  const bits = [];
+  try {
+    if (app.map && document.querySelector('.map-grid')) {
+      const chips = app.map.chips();
+      const cells = app.map.cells();
+      bits.push('map ' + chips.length + ' chips/' + cells.length + ' cells, '
+        + (chips[0] ? chips[0].mode : '?') + ' mode');
+    }
+  } catch (e) { bits.push('map probe threw'); }
+  try {
+    if (app.hood && document.querySelector('.hood-label, a.hood-n')) {
+      const c = app.hood.centre();
+      bits.push('hood ring ' + app.hood.ring().length + ', centre ' + (c.id || 'none'));
+    }
+  } catch (e) { bits.push('hood probe threw'); }
+  try {
+    if (app.timeline && location.hash.indexOf('timeline') >= 0) {
+      bits.push('timeline ' + app.timeline.placed().length + ' placed');
+    }
+  } catch (e) { bits.push('timeline probe threw'); }
+  out.probe = bits.join('; ') || null;
   return out;
 };
 
 (async () => {
+  let ids;
+  try {
+    ids = await realIds();
+  } catch (e) {
+    console.error('HARNESS: the app is not being served at ' + APP + ' (' + e.message + ').');
+    console.error('Run `npm run build` then `npx vite preview --host 127.0.0.1 --port 4173`');
+    console.error('in app/, or set APP_URL.');
+    process.exit(2);
+  }
+  const STOPS = itinerary(ids);
+
   fs.mkdirSync(OUT, { recursive: true });
   const browser = await chromium.launch(launchOptions({
     args: ['--no-sandbox', '--disable-dev-shm-usage', '--use-gl=swiftshader'],
@@ -209,74 +349,95 @@ const INSPECT = () => {
   page.on('pageerror', e => errors.push(String(e.message).slice(0, 160)));
   page.on('console', m => { if (m.type() === 'error') errors.push(m.text().slice(0, 160)); });
 
-  await page.goto(URL, { waitUntil: 'load', timeout: 180000 });
-  await page.waitForSelector('[data-view="CASES"]', { timeout: 120000 });
-  await page.waitForTimeout(6000);
-  await page.click('[data-view="NETWORK"]');
-  await page.waitForTimeout(3000);
-
   const rows = [];
   let n = 0;
+  let loaded = false;
   for (const stop of STOPS) {
     n++;
     const before = errors.length;
     let reached = true;
     try {
-      if (stop.pre) {
-        const pe = await page.$(stop.pre);
-        if (pe) { await pe.click({ force: true }); await page.waitForTimeout(1200); }
-      }
-      if (stop.run) {
-        await page.evaluate(js => eval('window.__board.' + js), stop.run);
-        await page.waitForTimeout(1200);
-      }
-      if (stop.sel) {
-        const el = await page.$(stop.sel);
-        if (el) await el.click({ force: true });
-        else reached = false;
-      }
+      /* The first stop loads the app; every later one moves by hash, which is
+         how a reader moves and is what keeps the back button's history real. */
+      if (!loaded) { await page.goto(APP + stop.hash, { waitUntil: 'load' }); loaded = true; }
+      else await page.evaluate(h => { location.hash = h; }, stop.hash);
     } catch (e) { reached = false; errors.push(`${stop.id}: ${String(e).slice(0, 120)}`); }
-    await page.waitForTimeout(stop.sel && /view/.test(stop.id) ? 2200 : 1500);
+    await page.waitForTimeout(settleFor(stop.hash));
 
     const tag = String(n).padStart(2, '0') + '-' + stop.id;
     await page.screenshot({ path: path.join(OUT, tag + '.png') });
-    const info = await page.evaluate(INSPECT);
-    rows.push({ tag, label: stop.label, reached, info,
+    const info = await page.evaluate(`(${INSPECT})(${JSON.stringify(INVENTORY)})`);
+    const title = await page.title();
+    rows.push({ tag, label: stop.label, hash: stop.hash, title, reached, info,
                 newErrors: errors.slice(before) });
     process.stdout.write(`${tag}  ${reached ? '' : '(not reached) '}`
-      + `map ${info.mapShare}% ${info.mapBox}  k=${info.scale}`
-      + `  overlaps ${info.overlaps.length}  clipped ${info.clipped.length}\n`);
+      + `map ${info.mapShare == null ? '-' : info.mapShare + '%'}`
+      + `  back ${info.inv.back}  overlaps ${info.overlaps.length}`
+      + `  clipped ${info.clipped.length}  offscreen ${info.offscreen.length}\n`);
   }
 
   /* THE REPORT. A table first, because the point is to scan it. */
   const esc = s => String(s).replace(/\|/g, '\\|');
-  let md = `# Walk of the board\n\n`;
-  md += `Captured at ${SIZE[0]}x${SIZE[1]} from \`${URL}\`. `;
-  md += `${rows.length} states.\n\n`;
+  let md = `# Walk of the new shell\n\n`;
+  md += `Captured at ${SIZE[0]}x${SIZE[1]} from \`${APP}\`. `;
+  md += `${rows.length} stops, one per route kind in \`app/src/router.ts\` plus the two\n`;
+  md += `query-string states that change what a route draws.\n\n`;
+  md += `Ids, all read from the data the preview is serving: node \`${ids.node}\` `;
+  md += `(degree ${ids.nodeDeg}, the highest on the board), thread \`${ids.thread}\`, `;
+  md += `patent \`${ids.patentLabel}\`, map cell \`${ids.cell}\` (${ids.cellCount} nodes), `;
+  md += `era \`${ids.era}\` (${ids.eraCount} events).\n\n`;
   md += `**This file asserts nothing.** Every row is a lead for somebody to look at, not\n`;
   md += `a verdict. An overlap may be a deliberate stack; a clipped element may be a label\n`;
   md += `that is meant to ellipsize. What it is good at is finding the states nobody\n`;
   md += `thought to check.\n\n`;
-  md += `| # | state | map share | scale | cells | overlaps | clipped | offscreen | errors |\n`;
-  md += `|---|---|---|---|---|---|---|---|---|\n`;
+  md += `| # | stop | route | map share | overlaps | clipped | offscreen | errors |\n`;
+  md += `|---|---|---|---|---|---|---|---|\n`;
   for (const r of rows) {
-    md += `| ${r.tag} | ${esc(r.label)}${r.reached ? '' : ' **(control not found)**'} `
+    md += `| ${r.tag} | ${esc(r.label)}${r.reached ? '' : ' **(not reached)**'} `
+       + `| \`${esc(r.hash)}\` `
        + `| ${r.info.mapShare == null ? '-' : r.info.mapShare + '% ' + r.info.mapBox} `
-       + `| ${r.info.scale == null ? '-' : r.info.scale} `
-       + `| ${r.info.cells === undefined ? '-' : (r.info.cells ? 'ON' : 'off')} `
        + `| ${r.info.overlaps.length} | ${r.info.clipped.length} `
        + `| ${r.info.offscreen.length} | ${r.newErrors.length} |\n`;
   }
+
+  /* THE ELEMENT INVENTORY. The back button is a condition of the new shell and
+     is rendered by the frame on every route, so a 0 in that column is a finding
+     on its own. */
+  md += `\n## Element inventory\n\n`;
+  md += `\`button.nav-back\` is rendered by the frame on every route. A zero in the **back**\n`;
+  md += `column is a missing back button, not a quiet screenshot.\n\n`;
+  md += `| # | stop | ${INVENTORY.map(([k]) => k).join(' | ')} | back state |\n`;
+  md += `|---|---|${INVENTORY.map(() => '---').join('|')}|---|\n`;
+  for (const r of rows) {
+    const state = r.info.back
+      ? (r.info.back.disabled || r.info.back.aria === 'true' ? 'disabled' : 'live')
+        + (r.info.back.label ? ' · ' + esc(r.info.back.label) : '')
+      : '**absent**';
+    md += `| ${r.tag} | ${esc(r.label)} | `
+       + INVENTORY.map(([k]) => {
+         const v = r.info.inv[k];
+         return k === 'back' && !v ? '**0**' : String(v);
+       }).join(' | ')
+       + ` | ${state} |\n`;
+  }
+  const noBack = rows.filter(r => !r.info.inv.back);
+  md += `\n`;
+  md += noBack.length
+    ? `**${noBack.length} route(s) drew no back button:** ${noBack.map(r => r.tag).join(', ')}.\n`
+    : `Every route drew exactly one back button.\n`;
+
   const detail = rows.filter(r => r.info.overlaps.length || r.newErrors.length
-                                || r.info.offscreen.length);
+                                || r.info.offscreen.length || !r.info.inv.back);
   if (detail.length) {
     md += `\n## What to look at\n`;
     for (const r of detail) {
-      md += `\n### ${r.tag} — ${r.label}\n\n![${r.tag}](${r.tag}.png)\n\n`;
+      md += `\n### ${r.tag} - ${r.label}\n\n\`${esc(r.hash)}\` · ${esc(r.title)}\n\n`;
+      md += `![${r.tag}](${r.tag}.png)\n\n`;
+      if (!r.info.inv.back) md += `**No \`button.nav-back\` on this route.**\n\n`;
       if (r.info.overlaps.length) {
         md += `**Interactive rects overlapping (${r.info.overlaps.length}):**\n\n`;
         for (const o of r.info.overlaps.slice(0, 12)) md += `- ${esc(o)}\n`;
-        if (r.info.overlaps.length > 12) md += `- …and ${r.info.overlaps.length - 12} more\n`;
+        if (r.info.overlaps.length > 12) md += `- and ${r.info.overlaps.length - 12} more\n`;
       }
       if (r.info.offscreen.length) {
         md += `\n**Controls outside the window:** ${r.info.offscreen.slice(0, 8).map(esc).join(', ')}\n`;
@@ -287,13 +448,30 @@ const INSPECT = () => {
       }
     }
   } else {
-    md += `\n No overlaps, no offscreen controls and no console errors in any state.\n`;
+    md += `\nNo overlaps, no offscreen controls, no missing back button and no console\n`;
+    md += `errors in any state.\n`;
   }
-  const worst = rows.reduce((a, b) => (b.info.mapShare || 0) < (a.info.mapShare || 0) ? b : a);
-  md += `\n## Map share\n\nSmallest the map got: **${worst.info.mapShare}%** of the window `;
-  md += `at \`${worst.tag}\` (${worst.label}).\n`;
+
+  const probed = rows.filter(r => r.info.probe);
+  if (probed.length) {
+    md += `\n## What the pages say they drew\n\n`;
+    md += `From the page publishers, \`window.__app.map\`, \`.hood\` and \`.timeline\`. Leads,\n`;
+    md += `not measurements: everything in the tables above is read off the DOM instead.\n\n`;
+    for (const r of probed) md += `- **${r.tag}** ${esc(r.info.probe)}\n`;
+  }
+
+  const withMap = rows.filter(r => r.info.mapShare != null);
+  if (withMap.length) {
+    const worst = withMap.reduce((a, b) => (b.info.mapShare < a.info.mapShare ? b : a));
+    md += `\n## Map share\n\nSmallest the map got: **${worst.info.mapShare}%** of the window `;
+    md += `at \`${worst.tag}\` (${worst.label}).\n`;
+  } else {
+    md += `\n## Map share\n\nNo stop drew a \`.map-grid\`, which is itself worth a look.\n`;
+  }
 
   fs.writeFileSync(path.join(OUT, 'REPORT.md'), md);
-  console.log(`\n${rows.length} states -> ${OUT}\nREPORT.md written`);
+  console.log(`\n${rows.length} stops -> ${OUT}`);
+  console.log(describe());
+  console.log('REPORT.md written');
   await browser.close();
 })();

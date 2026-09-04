@@ -1,0 +1,37 @@
+# Cloudflare Pages response headers for the app.
+#
+# Vite copies everything in app/public/ into app/dist/, which is what
+# .github/workflows/deploy.yml uploads, so this file lands in the build output
+# root where Pages parses it. It is not served as an asset itself.
+#
+# It exists because the cutover of 3 September 2026 would otherwise have dropped a
+# policy the old shell had: tools/build_site.py wrote nosniff, the referrer policy
+# and the cache rules into site/_headers on every deploy, and site/ retires with
+# that shell. This file is the replacement, and it is the ONLY place the app's
+# headers are stated.
+
+/*
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: strict-origin-when-cross-origin
+
+# One immutable artifact per deploy, so the shell must never be cached hard: a
+# reader holding a stale index would silently be reading an older board with no
+# way to know.
+/index.html
+  Cache-Control: no-cache
+
+# DELIBERATELY NOT `immutable`, and this differs from what build_site.py wrote.
+# That file's /data/* rule carried its own condition -- "content-addressed by the
+# deploy itself ... once the split lands". The split has now landed and the data
+# files are NOT content-addressed: app/src/data.ts fetches `data/<name>.json` at a
+# fixed path with no hash and no query. A year of `immutable` on those paths would
+# leave a returning reader on the new shell reading last month's research, which is
+# precisely the failure this repo keeps writing down. Revalidate instead; the files
+# are small and the responses are 304s.
+/data/*
+  Cache-Control: no-cache
+
+# These ARE content-addressed: Vite writes a hash into every filename it emits, so
+# a changed file is a changed URL and the old one can be held forever.
+/assets/*
+  Cache-Control: public, max-age=31536000, immutable

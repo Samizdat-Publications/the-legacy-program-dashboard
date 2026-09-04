@@ -1,4 +1,22 @@
-# Deploy the board to Cloudflare Pages, on master, after the gate is green.
+# Build the app and deploy it to Cloudflare Pages, on master, after the gate is green.
+#
+# WHAT IT DEPLOYS, SINCE 3 SEPTEMBER 2026. The new shell in `app/` -- Vite 5 plus
+# TypeScript, hash-routed, with its data fetched at runtime from `/data`. CI runs
+# `npm ci` and `npm run build` in `app/` and uploads `app/dist`. Before that date
+# this workflow ran `tools/build_site.py` and uploaded the assembled `site/` tree,
+# which was a copy of the single-file `dist/the-program.html`. That old shell still
+# builds and its gate still runs, but it is no longer deployed anywhere.
+#
+# `app/dist/` is gitignored and derived, so CI builds it here rather than serving a
+# committed artifact. What makes that safe is the gate: deploy waits on the whole
+# gate workflow, whose `app` job builds the same tree and runs the app's own checks
+# and every poison against it.
+#
+# NEVER DEPLOY THE REPO'S `dist/`. It holds the transcript exports. On 2 September a
+# manual deploy chained a `cd` into a worktree that had failed to create, ran from
+# the repo root, and uploaded those transcripts to the review project for about a
+# minute. `test ! -d dist/transcripts` below is that lesson, and it runs with
+# `working-directory: app` so it is checking `app/dist`, never the repo `dist/`.
 #
 # WHY THIS EXISTS. The deploy has been Stewart's alone and manual since the board
 # moved to Pages, because `wrangler` needs a Cloudflare credential and no session
@@ -21,7 +39,8 @@
 #
 # WHAT IT DOES NOT DO. It does not deploy the analyst worker. DEPLOY.md section 2
 # stays manual and stays Stewart's -- the worker holds an API key and its own
-# secret, and nothing here should be able to touch it.
+# secret, and nothing here should be able to touch it. It also does not deploy the
+# review site https://the-program-next.pages.dev, which stays a by-hand deploy.
 
 name: deploy
 
@@ -29,6 +48,7 @@ name: deploy
 # parallel with gate.yml, so a push whose gate went red still deployed -- the
 # header above said "after the gate is green" and nothing enforced it. Now it
 # fires when the gate workflow finishes on master and only proceeds on success.
+# That conclusion covers every job in gate.yml, the `app` job included.
 # workflow_dispatch is kept for a deliberate re-deploy by hand.
 on:
   workflow_run:
@@ -76,17 +96,36 @@ jobs:
         with:
           python-version: '3.11'
 
-      # The committed dist/the-program.html is what CI's own gate check proves
-      # reproduces from source, so the deploy serves the reviewed artifact rather
-      # than rebuilding one nobody has checked. site/ is gitignored and derived.
-      - name: Assemble site/
+      - uses: actions/setup-node@v4
         if: steps.creds.outputs.ready == 'true'
-        run: python3 tools/build_site.py
+        with:
+          node-version: '22'
+
+      # app/package-lock.json is committed, so this is the reproducible install.
+      - name: Install the app's dependencies
+        if: steps.creds.outputs.ready == 'true'
+        working-directory: app
+        run: npm ci
+
+      # `tsc --noEmit && vite build`. app/public/ is copied into app/dist/ by Vite,
+      # which is how _headers, _redirects, data/, fonts/ and patents/ get there.
+      - name: Build the app
+        if: steps.creds.outputs.ready == 'true'
+        working-directory: app
+        run: npm run build
+
+      # The 2 September guard, and it must run HERE, inside app/, so that `dist/`
+      # means app/dist/. The repo's own dist/ holds the transcript exports and must
+      # never reach Pages.
+      - name: The upload must not carry the transcript exports
+        if: steps.creds.outputs.ready == 'true'
+        working-directory: app
+        run: test ! -d dist/transcripts
 
       # --branch master is not optional. On a direct upload the branch defaults to
       # the current git branch, and Cloudflare treats anything that is not the
       # project's production branch as a PREVIEW -- so the deploy succeeds, prints
-      # a URL, and the-program.pages.dev keeps serving the previous upload.
+      # a URL, and the-program-zxz.pages.dev keeps serving the previous upload.
       # DEPLOY.md section 1 records this trap at length.
       - name: Deploy to Cloudflare Pages
         if: steps.creds.outputs.ready == 'true'
@@ -94,4 +133,4 @@ jobs:
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-          command: pages deploy site --project-name the-program --branch master
+          command: pages deploy app/dist --project-name the-program --branch master

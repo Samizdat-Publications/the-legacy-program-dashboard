@@ -1,0 +1,40 @@
+# Cloudflare Pages redirects for the app.
+#
+# WHY THIS EXISTS. The old shell handed out PATH deep links -- /node/aawsap,
+# /path/aawsap/aaro, /band/custody, /era/nd, /q/via:bigelow -- and site/_redirects
+# rewrote all five to index.html so the old client router could read the path.
+# The app is hash-routed, so those paths are no longer routes at all and every
+# link already handed out would 404 after the cutover of 3 September 2026. These
+# rules send them into the app instead.
+#
+# Fragments in a DESTINATION are supported, and so is :splat alongside one:
+# https://developers.cloudflare.com/pages/configuration/redirects/ states that a
+# destination "Can include fragments, query strings, splats, and placeholders",
+# and gives `/page/ /page2/#fragment 301` as an example. Fragments in a SOURCE are
+# not evaluated, which does not matter here: every source is a plain path.
+#
+# 302, not 301. These are a courtesy for links that predate the cutover, not a
+# permanent scheme, and a 301 would be cached in readers' browsers indefinitely.
+
+# Exact equivalents.
+/node/*   /#/n/:splat            302
+/path/*   /#/t/:splat            302
+
+# Approximate. The app's era columns are on the timeline, and ?era= is the
+# section 2.1 parameter for them.
+/era/*    /#/timeline?era=:splat 302
+
+# No equivalent. The app has no per-band screen; the map is where bands are shown,
+# so a band link lands on the map rather than nowhere.
+/band/*   /#/map                 302
+
+# No equivalent. The old /q/ links were saved searches in a query language the app
+# does not have. Home is the honest destination.
+/q/*      /                      302
+
+# A NOTE ON /path/. The old links carried two node ids (/path/aawsap/aaro, a route
+# between two nodes); the app's threads are the eight authored chains -- lineage,
+# custody, money, denials, wilson-davis, patents, scientists, oversight -- so a
+# two-id link resolves to no thread and the reader lands on the app's not-found
+# page. That is a worse outcome than a match and a better one than a bare 404,
+# because the not-found page is inside the app and offers a way onward.

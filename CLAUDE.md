@@ -42,12 +42,15 @@ as done.
 shell: it is usable and both panels fold on a curve in both directions. Its statement that
 the image register is at 12 is stale — it is 13 and at its ceiling
 (`notes/IMAGE-CEILING-2026-08-28.md`). **The DEPLOY is SOLVED, 30 August 2026:**
-`.github/workflows/deploy.yml` deploys the site on every push to `master`, with the
-Cloudflare credential held as a repository secret that no session can read. The live board
-is **https://the-program-zxz.pages.dev** — note the `-zxz`, which Cloudflare appended
-because `the-program.pages.dev` was already taken by an unrelated project. `DEPLOY.md`
-leads with the automatic route; the manual one stays as the fallback and the analyst
-worker stays manual and Stewart's. `notes/SHELL-2026-08-27.md`,
+`.github/workflows/deploy.yml` deploys on every push to `master` once the gate is green,
+with the Cloudflare credential held as a repository secret that no session can read. The
+live board is **https://the-program-zxz.pages.dev**. Note the `-zxz`, which Cloudflare
+appended because `the-program.pages.dev` was already taken by an unrelated project.
+**Since the cutover of 3 September 2026 that hostname serves the APP**: the build of
+`app/`, uploaded as `app/dist`, and not the single-file old shell. The review site
+**https://the-program-next.pages.dev** stays what it is: the place a build is looked at
+before it goes to production. `DEPLOY.md` leads with the automatic route; the manual one
+stays as the fallback and the analyst worker stays manual and Stewart's. `notes/SHELL-2026-08-27.md`,
 `notes/SHELL-DOCK-2026-08-27.md` and `notes/DRAWERS-2026-08-27.md` are that day's working
 records, in that order. `notes/HANDOFF-2026-08-26-UX.md` is still the best statement of the
 original diagnosis; its §4 priority list is done.
@@ -69,10 +72,19 @@ lists finished work as pending).
 ## 1. What this is
 
 A research board mapping the alleged legacy UAP recovery and reverse-engineering
-programme, 1944–2026. Single self-contained HTML file, no server, no runtime deps.
-**Self-contained is now literally true and was not before 26 August 2026** — the
-typeface came from `fonts.googleapis.com` on a render-blocking `<link>` inherited from
-the parent board, and first paint waited on it. `notes/FIRST-PAINT-2026-08-26.md`.
+programme, 1944–2026. What ships is the app in `app/`: a Vite build, hash-routed, its
+data fetched at runtime from `/data`. Nothing about it is self-contained and nothing
+needs to be, because it is served rather than opened from a disk.
+
+**The single self-contained HTML file is the OLD shell**, `dist/the-program.html`, built
+by `tools/build_dashboard.py`. It was the whole board until the cutover of 3 September
+2026 and it is now retiring: it still builds, and the `gate` job still runs every check
+against it, because it carries the bulk of the evidence over the research data and it is
+the rollback if an app deploy is wrong. It is deployed nowhere. Its retirement is a
+session of its own; §7 marks every file that goes with it. Its self-containment was
+literally true only after 26 August 2026, because the typeface came from `fonts.googleapis.com`
+on a render-blocking `<link>` inherited from the parent board, and first paint waited on
+it. `notes/FIRST-PAINT-2026-08-26.md`.
 
 | | |
 |---|---|
@@ -83,14 +95,15 @@ the parent board, and first paint waited on it. `notes/FIRST-PAINT-2026-08-26.md
 | unique source URLs | 3,541 |
 | dead citations | 0 as of the 3 September evening sweep. Ten were found that day (nine on cufon.org, which is gone as a site) and repaired against opened documents the same evening; `notes/HANDOFF-2026-09-03-EVENING.md` section 5 |
 | timeline events | 913 |
-| views | 10 — Network map · Program map · Patents · Timeline · Geography · Case files · Analysis · The cover-up · Search · Report |
+| pages | 10: Home · Node · Map (label and cell modes) · Neighbourhood · Thread · Timeline · Patents · Evidence · Report · not-found |
 | primary map | the force-directed full graph, all 1,057 nodes. **Inverted 29 August 2026** |
-| program map (L0) | 137 nodes, all with dossiers, on the PROGRAM tab |
+| program map (L0) | 137 nodes, all with dossiers, on the app's Map page |
 | map layout | Design's packed cells: 7 bands x 5 columns, 137 chips at one size |
 | links drawn at rest | 128 of 394, by the model's own budget |
 | FOIA layer | 17 requests linked to 121 open questions across 42 nodes, none filed |
-| built artifact | `dist/the-program.html`, 17.29 MB |
-| gate | 56 verify checks + 40 audit re-derivations + 51 runtime + 31 canvas + 20 analyst assertions, all self-tested |
+| shipped artifact | `app/dist/`: `index.html`, hashed `assets/`, and `data/`, `fonts/`, `patents/` copied from `app/public/`. Gitignored and built in CI |
+| old shell artifact | `dist/the-program.html`, 17,294,938 bytes. Still built, still gated, deployed nowhere |
+| gate | 57 verify checks + 40 audit re-derivations + 51 runtime + 31 canvas + 20 analyst assertions over the old shell, plus the app's own C1 to C17 and all 17 poisons, all self-tested |
 | analyst | live for every reader since 2 September 2026 via the Worker; `notes/ANALYST-2026-09-02.md` says why it never was before |
 
 Regenerate these numbers rather than trusting them; they move every research pass:
@@ -137,13 +150,38 @@ python3 tools/build_l0.py
 python3 tools/build_design_extract.py
 node    tools/build_l0_layout.mjs
 python3 tools/build_dashboard.py
+python3 tools/build_app_data.py
 ```
+
+**`build_app_data.py` is last and it is not optional.** It writes `app/public/data/`,
+which is what the shipped app reads, from the same sources everything else here reads,
+and it must run after `build_dashboard.py` because it consumes `data/foia-links.json`
+that the dashboard build generates. It joined this list on 3 September 2026: until then
+nothing in CI ran it, so the committed data under `app/public/data/` could drift from
+`research/` with the gate staying green, and after the cutover that drift is what a
+reader sees. `python3 tools/build_app_data.py --check` re-derives every count in
+`index.json` from the sources and fails on drift; `--self-test` shows `--check` rejecting
+a board with one node removed.
+
+**Known defect, 3 September 2026: `app/public/data/index.json` is not reproducible.** It
+carries `"sourceCommit"`, the short id of whatever `.git/HEAD` names at build time, so
+the committed copy records the commit BEFORE the one that ships it and any rebuild at a
+different commit rewrites that line. Everything else reproduces byte for byte: a full
+rebuild from committed sources was run on 3 September and all 1,067 files matched except
+that one line. Two consequences. **Do not add `build_app_data.py` to the `Build` step in
+`.github/workflows/gate.yml`**. `check_rebuild.py` normalises build DATES only, its two
+`STAMPS` regexes are anchored to `"generated"` and `"Generated by tools/..."`, and neither
+touches `sourceCommit`, so the workflow would go red on every push over a line that means
+nothing. The gate checks the app's data in its `app` job instead, ignoring that one line
+explicitly. And a local pipeline run leaves `index.json` dirty for the same reason, which
+is noise rather than drift. The fix is a line in `build_app_data.py`: derive the commit
+from the inputs, or stop writing it.
 
 Then the gate:
 
 ```
 python3 tools/state_snapshot.py --gate       # state + the whole gate below, in one command
-python3 tools/verify.py                      # 52 checks
+python3 tools/verify.py                      # 57 checks
 python3 tools/verify.py --self-test          # every check shown rejecting bad input
 node    tools/capture_strip.js               # writes tools/runtime-strip.txt from a real DOM
 python3 tools/audit_independent.py           # 40 checks, deliberately independent
@@ -164,17 +202,51 @@ bytes. **Do not "simplify" it to `git diff -I<regex>`**: three of these artifact
 single line each, so the one changed line always contains the stamp and every real change to
 them would be silently ignored.
 
+**Every command in that gate block drives the OLD shell**, `dist/the-program.html`. It is
+deployed nowhere since the cutover of 3 September 2026, and these steps stay exactly as
+they are until it is retired in its own session: they are still the bulk of the evidence
+over the research data, and the app's checks do not yet replace them. §1 says why.
+
+The four browser steps among them need that shell served over HTTP -- `file://` does not
+work for a 17MB page. Run `node /opt/node22/lib/node_modules/http-server/bin/http-server
+dist -p 8899 --silent &` first, or point `BOARD_URL` at wherever you are serving it.
+`--gate` checks whether anything is serving it and **names the skip** rather than
+reporting a failure that has nothing to do with the board.
+
+### The app's own checks
+
+Seventeen checks, C1 to C17, in `app/checks/run.mjs`. They drive the BUILD in a real
+browser, not the dev server, so what they walk is what Pages would serve:
+
+```
+cd app
+npm run build
+npx vite preview --host 127.0.0.1 --port 4173 --strictPort    # background task
+npm run check                                                 # C1 to C17
+npm run check:poison                                          # all 17 poisons
+POISON=c17 node checks/run.mjs                                # one poison, by name
+```
+
+**Start the preview as a background task, and spell out `--host 127.0.0.1`.** Plain
+`npm run preview` binds IPv6 only here, and the checks fetch `127.0.0.1`, so they find
+nothing and report the app broken when the app is fine. `--strictPort` makes it fail
+loudly rather than quietly moving to 4174, which the checks would not be watching.
+`APP_URL` overrides the address if you are serving it somewhere else.
+
+**A poison is a deliberate corruption of the REAL page**, applied at one stop of the
+itinerary, and the check named for it must be seen to fail on it. None of them touches a
+predicate, a fixture or a probe; each changes what the browser has drawn. That is the
+whole point: a check nobody has watched fail is not a check, it is a sentence. `npm run
+check:poison` runs all seventeen and fails if any check survives its own poison.
+
 And, separately, because it asserts nothing and cannot fail:
 
 ```
-node    tools/look.js                        # screenshots the map -> dist/shots/
+node    tools/look.js                        # 9 screenshots of the app -> dist/shots/
 ```
 
-The four browser steps need the board served over HTTP -- `file://` does not work for a
-13MB page. Run `node /opt/node22/lib/node_modules/http-server/bin/http-server dist -p 8899
---silent &` first, or point `BOARD_URL` at wherever you are serving it. `--gate` checks
-whether anything is serving it and **names the skip** rather than reporting a failure that
-has nothing to do with the board.
+It reads `APP_URL` (default `http://127.0.0.1:4173`), so run it against the same preview
+server as the checks. It exits 2 with a message when nothing is serving 4173.
 
 **`test_packed_layout.js` reads the canvas, and that is the point.** It drives the **PROGRAM**
 tab, not NETWORK — the two maps swapped roles on 29 August; see §9. The map is drawn with
@@ -199,7 +271,7 @@ whole class of bug: any pass that reads its own previous output back in.
 
 This project is worked on from three places:
 
-| | can build & test | can push | can **look** at the dashboard |
+| | can build & test | can push | can **look** at the app |
 |---|---|---|---|
 | **cloud session** (web) | yes | yes, via the GitHub connection | **yes — `node tools/look.js`** |
 | **local Claude Code** | yes | yes | yes |
@@ -213,20 +285,27 @@ a day while the means to look sat installed. It is the same shape as the `getIma
 assumption in §5, one rung further out.
 
 ```
-node /opt/node22/lib/node_modules/http-server/bin/http-server dist -p 8899 --silent &
-node tools/look.js                 # sweeps four viewport sizes -> dist/shots/
+cd app
+npm run build
+npx vite preview --host 127.0.0.1 --port 4173 --strictPort    # background task
+node tools/look.js                 # 9 shots of the app's screens -> dist/shots/
 ```
 
-`tools/look.js` is a **camera, not a check**. It asserts nothing and cannot fail. It
-sweeps sizes because what the board does with its room changes across them: whether the
-control row wraps onto the era heads, whether the fit clears the 0.62 label threshold,
-how much of the window the dossier takes. Measured on 27 August, the control row is 25px
-tall at 2560 and 149px at 1366.
+`tools/look.js` is a **camera, not a check**. It asserts nothing and cannot fail, and it
+must never become a check: `app/checks/run.mjs` is the check, this is the eyes. The one
+thing it exits non-zero for is a harness problem, nothing serving 4173 being the usual
+one. Its sweep is one shot per surface a reader meets, plus the map a second time at
+1366 wide, which Design's own note puts below the label floor. Every id in it is read out
+of the data the preview is serving at run time: the node is the highest-degree node in
+`index.json`, the thread the first in `threads.json`, the patent the first in
+`patents.json`, so nothing in the sweep is written down by hand and goes stale.
 
-> The reason given here until 27 August was that the map had **two opening states** --
-> fitted, or 1:1 in the corner below the label threshold. It has one now: fitted, at
-> every width, drawing real chips. Cell mode became an explicit opt the same day, so no
-> fit can land a reader in the count matrix. `notes/SHELL-2026-08-27.md`.
+> **It pointed at the old shell until 3 September 2026** and re-pointing it was a rewrite,
+> not a config change. `BOARD_URL` is gone with the board it named: the old file's
+> `[data-view]` tabs, canvas map, `.l0ctl` controls and `window.__board` have no
+> equivalents here. The app is hash-routed and publishes `window.__app.map`,
+> `window.__app.hood` and `window.__app.timeline` instead. `tools/walk.js` moved the same
+> way and on the same day.
 
 **What is still true is the discipline.** Looking is now available, so use it — but
 report what you actually saw and nothing more. Two limits worth naming:
@@ -378,26 +457,54 @@ They share three colours, which is a known weakness in the design.
 ## 7. Where things are
 
 ```
-data/the-program.json        6.9MB  the full board          } over GitHub's ~1MB
-data/l0-model.json           5.7MB  map model + dossiers    } API read cap: they
-dist/the-program.html         13MB  the built dashboard     } read as ABSENT
-data/design-extract.json     285KB  purpose-built, readable — hand this to Design
-data/l0-layout-model.json    461KB  Design's layout output
+app/                                THE SHIPPED SHELL. Vite 5 + TypeScript, no framework,
+                                    hash-routed on app/src/router.ts. `app/dist/` is the
+                                    upload and is gitignored: CI builds it
+app/public/data/                    the app's runtime data. GENERATED by build_app_data.py
+                                    and COMMITTED, 1,067 files, 20MB. Do not hand-edit
+app/public/_headers                 nosniff, referrer policy, cache rules. The only place
+                                    the deployed app's headers are stated
+app/public/_redirects               the old shell's path deep links, sent to hash routes
+app/checks/run.mjs                  the app's gate: C1 to C17, each with a poison that
+                                    damages the real page and must make its check fail
+tools/build_app_data.py             writes app/public/data/ from the same sources as the
+                                    rest of the pipeline. --check re-derives every count
+data/the-program.json        8.6MB  the full board          } over GitHub's ~1MB
+data/l0-model.json           6.5MB  map model + dossiers    } API read cap: they
+dist/the-program.html       17.3MB  the OLD shell's build   } read as ABSENT
+data/design-extract.json     336KB  purpose-built, readable. Hand this to Design
+data/l0-layout-model.json    553KB  Design's layout output
 data/l0-highlights.json             14 editorial start-here flags, signed off
 data/l0-images.json                 image register, 13 records, at its ceiling
 data/foia-links.json                GENERATED node -> FOIA request linkage. Do not hand-edit
-research/patents-view.json          the PATENTS tab's content, authored and gate-checked
+research/patents-view.json          the patents content, authored and gate-checked
 research/observables-view.json      the five observables, standalone so a later surface reuses them
+research/threads.json               the eight authored chains behind the app's Thread pages
 research/dossiers/                  per-node research
 research/_authority.json            12 offices, each naming its instrument
 research/_removed.json              approved removals + alias map
 tools/                              the pipeline and the gate
-tools/patents_patches.py            the PATENTS view. A renderer; its content is the two files above
 tools/build_foia_links.py           derives data/foia-links.json from the letters. Runs inside the build
 tools/make_drawing_thumbs.mjs       display derivatives for the patent sheets. Run by hand, output committed
 notes/                              every session's findings and mistakes
-ref/the-vanishing-v2.html           the parent board. build_dashboard.py patches THIS.
+
+OLD SHELL, staged for retirement. Still built, still gated, deployed nowhere:
+tools/build_dashboard.py            builds dist/the-program.html by patching the file below
+tools/l0_patches.py                 } the four renderers build_dashboard.py imports.
+tools/network_patches.py            } The app renders all four of these surfaces
+tools/patents_patches.py            } itself, from app/public/data/
+tools/analyst_patches.py            }
+ref/the-vanishing-v2.html           the parent board. build_dashboard.py patches THIS
+tools/build_site.py                 assembled site/ for the old deploy. Nothing runs it now
 ```
+
+**Retiring the old shell is a session of its own, not a delete.** `state_snapshot.py`,
+`verify.py` (including `--idempotent`, which rebuilds by invoking `build_dashboard.py` by
+name), `audit_independent.py`, `capture_strip.js`, `runtime_check.js`,
+`test_packed_layout.js`, `test_scripted_analyst.mjs`, `precompute_layout.py`, `shoot.js`
+and `check_rebuild.py`'s `BUILT` tuple all read `dist/the-program.html` or build it. A
+deletion that leaves `dist/the-program.html` in `BUILT` turns `check_rebuild.py` red with
+`unreadable`; the path has to leave that tuple in the same commit.
 
 **The 1MB read cap is trap #7 and it has bitten twice.** A tracked, pushed, present file
 over 1MB reads as *absent* to anything using the GitHub API. When briefing Claude Design,
