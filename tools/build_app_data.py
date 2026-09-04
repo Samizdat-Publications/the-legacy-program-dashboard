@@ -29,9 +29,14 @@ edge's own `denier` where it has one, and only falls back to `a` where it does
 not.  Writing `a` unconditionally would re-publish a claim the repo has already
 shown to be wrong on a quarter of its cases.
 
-DETERMINISM.  `generated` is the newest `generated` string among the inputs, not
-today's date, so a rebuild from unchanged inputs is byte-identical.  Every object
-is written with sorted keys.
+DETERMINISM.  Every value written here is a function of the inputs' CONTENT and
+of nothing else, so a rebuild from unchanged inputs is byte-identical on any
+machine.  `generated` is the newest `generated` string among the inputs, not
+today's date.  `source` hashes the input bytes with newlines normalised to LF, so
+a Windows checkout with core.autocrlf=true and a Linux one agree.  Every object is
+written with sorted keys.  There is no `sourceCommit`: it named whatever commit
+.git/HEAD pointed at, which is a property of the checkout rather than of the data,
+and it made the committed index.json unreproducible by construction.
 """
 
 from __future__ import annotations
@@ -165,37 +170,28 @@ def host_of(url):
 
 
 def source_hash():
-    """The commit the tree is on, plus a content hash of the research inputs.
+    """A content hash of the research inputs, and of nothing else.
 
-    Read out of .git by file, never by running git.  The content hash is the one
-    --check can actually rely on: it moves when the inputs move, whether or not
-    anybody committed.
+    CROSS-PLATFORM.  The bytes are newline-normalised (CRLF -> LF) before they go
+    in, and the name that goes in beside them is the forward-slash relative name
+    spelled in INPUTS, never an os.path one.  Without that normalisation this
+    value is a function of the CHECKOUT rather than of the content: the repo has
+    no .gitattributes, so a Windows clone with core.autocrlf=true gets CRLF in
+    every text input and the identical commit hashed 3c5aa769b9d2 here and
+    e5835f8cdaf3 on Linux CI.  That difference turned the gate's `app` job red on
+    every push over seven lines that meant nothing.
+
+    Nothing here reads mtimes, and nothing here reads .git.  This used to return
+    the short id of whatever commit .git/HEAD named, which index.json published as
+    "sourceCommit" -- the same class of defect, a published value that moves when
+    the content has not.  It is gone; `source` is the provenance stamp.
     """
-    short = None
-    try:
-        head = open(os.path.join(ROOT, ".git", "HEAD"), encoding="utf-8").read().strip()
-        if head.startswith("ref: "):
-            ref = os.path.join(ROOT, ".git", *head[5:].split("/"))
-            if os.path.exists(ref):
-                short = open(ref, encoding="utf-8").read().strip()[:7]
-            else:
-                packed = os.path.join(ROOT, ".git", "packed-refs")
-                if os.path.exists(packed):
-                    want = head[5:]
-                    for line in open(packed, encoding="utf-8"):
-                        if line.rstrip().endswith(" " + want):
-                            short = line.split()[0][:7]
-                            break
-        else:
-            short = head[:7]
-    except OSError:
-        short = None
     h = hashlib.sha1()
     for rel in INPUTS:
         h.update(rel.encode("utf-8"))
         with open(os.path.join(ROOT, rel), "rb") as f:
-            h.update(hashlib.sha1(f.read()).digest())
-    return short, h.hexdigest()[:12]
+            h.update(hashlib.sha1(f.read().replace(b"\r\n", b"\n")).digest())
+    return h.hexdigest()[:12]
 
 
 # ------------------------------------------------------------ source loading
@@ -352,7 +348,6 @@ def index_json(s, ix, meta):
         "generated": meta["generated"],
         "nodes": nodes,
         "source": meta["source"],
-        "sourceCommit": meta["commit"],
     }
 
 
@@ -777,8 +772,7 @@ def build(quiet=False):
     s = Src()
     check_era_table(s.layout)
     ix = build_indexes(s)
-    commit, chash = source_hash()
-    meta = {"generated": s.generated(), "source": chash, "commit": commit}
+    meta = {"generated": s.generated(), "source": source_hash()}
 
     written = []
     written.append(("data/index.json",
@@ -819,8 +813,8 @@ def build(quiet=False):
             print("  %-40s %9s" % (name, "{:,}".format(size)))
         print("  %-40s %9s" % ("patents/*.png", "%d originals, %d thumbs"
                                % (imgs, thumbs)))
-        print("  generated %s  source %s  commit %s"
-              % (meta["generated"], meta["source"], meta["commit"]))
+        print("  generated %s  source %s"
+              % (meta["generated"], meta["source"]))
     return written, meta
 
 
