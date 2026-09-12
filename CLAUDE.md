@@ -108,7 +108,7 @@ it. `notes/FIRST-PAINT-2026-08-26.md`.
 | FOIA layer | 17 requests linked to 121 open questions across 42 nodes, none filed |
 | shipped artifact | `app/dist/`: `index.html`, hashed `assets/`, and `data/`, `fonts/`, `patents/` copied from `app/public/`. Gitignored and built in CI |
 | old shell artifact | `dist/the-program.html`, 17,294,938 bytes. Still built, still gated, deployed nowhere |
-| gate | 57 verify checks + 40 audit re-derivations + 51 runtime + 31 canvas + 20 analyst assertions over the old shell, plus the app's own C1 to C19 and all 19 poisons, all self-tested |
+| gate | 57 verify checks + 40 audit re-derivations + 51 runtime + 31 canvas + 20 analyst assertions over the old shell, plus the app's own C1 to C20 and all 20 poisons, all self-tested |
 | analyst | live for every reader since 2 September 2026 via the Worker. **Since 11 September 2026 it has TOOLS**: twelve of them, defined and run in the reader's own browser against `/data`, so it can search, filter, count, group, trace a path and read the timeline across the whole board rather than only the page in view. It is on every route: closed, a 148 by 30 tab at the bottom left; open, full width over the page. Chips per route kind. `notes/ANALYST-TOOLS-2026-09-11.md` |
 
 Regenerate these numbers rather than trusting them; they move every research pass:
@@ -224,16 +224,16 @@ reporting a failure that has nothing to do with the board.
 
 ### The app's own checks
 
-Nineteen checks, C1 to C19, in `app/checks/run.mjs`. They drive the BUILD in a real
+Twenty checks, C1 to C20, in `app/checks/run.mjs`. They drive the BUILD in a real
 browser, not the dev server, so what they walk is what Pages would serve:
 
 ```
 cd app
 npm run build
 npx vite preview --host 127.0.0.1 --port 4173 --strictPort    # background task
-npm run check                                                 # C1 to C19
-npm run check:poison                                          # all 19 poisons
-POISON=c19 node checks/run.mjs                                # one poison, by name
+npm run check                                                 # C1 to C20
+npm run check:poison                                          # all 20 poisons
+POISON=c20 node checks/run.mjs                                # one poison, by name
 ```
 
 **Start the preview as a background task, and spell out `--host 127.0.0.1`.** Plain
@@ -246,7 +246,7 @@ loudly rather than quietly moving to 4174, which the checks would not be watchin
 itinerary, and the check named for it must be seen to fail on it. None of them touches a
 predicate, a fixture or a probe; each changes what the browser has drawn. That is the
 whole point: a check nobody has watched fail is not a check, it is a sentence. `npm run
-check:poison` runs all nineteen and fails if any check survives its own poison.
+check:poison` runs all twenty and fails if any check survives its own poison.
 
 And, separately, because it asserts nothing and cannot fail:
 
@@ -481,7 +481,7 @@ app/src/analyst/                    the analyst: tools.ts (the twelve tools, and
 data/analyst-suggestions.json       the analyst's chips, per route kind. Stewart's
                                     decisions only. build_app_data.py reads it and fails
                                     the build on a missing key or fewer than three chips
-app/checks/run.mjs                  the app's gate: C1 to C19, each with a poison that
+app/checks/run.mjs                  the app's gate: C1 to C20, each with a poison that
                                     damages the real page and must make its check fail
 tools/build_app_data.py             writes app/public/data/ from the same sources as the
                                     rest of the pipeline. --check re-derives every count

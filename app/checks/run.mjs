@@ -365,6 +365,28 @@ const IN_PAGE = {
     try { return await a.cite(text); } catch (e) { return { threw: String(e && e.message) }; }
   },
 
+  /* Type into the bar's search and read back what it drew. The control is the
+     same on every screen; this drives the one on Home. */
+  search(q) {
+    const box = document.querySelector('.searchbox input');
+    if (!box) return { present: false };
+    const panel = document.querySelector('.searchbox .results');
+    const rows = Array.prototype.slice.call(panel ? panel.querySelectorAll('a.res') : []);
+    return {
+      present: true,
+      q,
+      heads: Array.prototype.map.call(panel ? panel.querySelectorAll('.res-head') : [], (e) => e.textContent),
+      nodes: rows.filter((r) => !r.classList.contains('claim'))
+        .map((r) => (r.getAttribute('href') || '').replace('#/n/', '')),
+      claims: rows.filter((r) => r.classList.contains('claim')).map((r) => ({
+        tier: Number(r.getAttribute('data-tier')),
+        node: (r.getAttribute('href') || '').replace('#/n/', ''),
+        hit: ((r.querySelector('.hit') || {}).textContent || ''),
+        marked: ((r.querySelector('mark') || {}).textContent || ''),
+      })),
+    };
+  },
+
   /* the chips as drawn, and the health line */
   chips() {
     const host = document.getElementById('analyst');
@@ -590,6 +612,38 @@ const POISONS = {
       };
     }),
   },
+  c20: {
+    stops: ['search'],
+    what: 'redraws the claim rows as the unranked code drew them: the first twelve matches in file order',
+    fn: async (page) => page.evaluate(async () => {
+      /* The exact defect this check exists for. Claim hits used to be
+         `filter(...).slice(0, 12)` -- the first twelve in file order, which is
+         alphabetical by node id -- so a search showed whichever claims sat
+         early in the alphabet rather than the strongest. Reordering the drawn
+         rows would not reproduce that: the ranked selection is twelve Tier 1
+         rows and permuting them leaves twelve Tier 1 rows. So this recomputes
+         the OLD SELECTION from the page's own claims.json and rewrites the
+         rendered rows to it, tier attribute, link and excerpt together. */
+      const box = document.querySelector('.searchbox input');
+      const q = (box ? box.value : '').trim().toLowerCase();
+      const rows = Array.prototype.slice.call(document.querySelectorAll('.searchbox .results a.res.claim'));
+      if (!q || !rows.length) return;
+      const all = await (await fetch('data/claims.json')).json();
+      const old = all.filter((c) => c.text.toLowerCase().includes(q)).slice(0, rows.length);
+      rows.forEach((row, i) => {
+        const c = old[i];
+        if (!c) return;
+        row.setAttribute('data-tier', String(c.tier));
+        row.setAttribute('href', '#/n/' + c.node);
+        const meta = row.querySelector('.meta');
+        if (meta) meta.textContent = 'T' + c.tier;
+        const label = row.querySelector('.label');
+        if (label) label.textContent = c.label;
+        const hit = row.querySelector('.hit');
+        if (hit) hit.textContent = c.text.slice(0, 150);
+      });
+    }),
+  },
 };
 
 /* ---- the run ------------------------------------------------------------ */
@@ -781,6 +835,53 @@ async function main() {
       await poisonAt(p, 'chips');
       const read = await p.evaluate(`(function ${IN_PAGE.chips})()`);
       CH.push({ key, hash, strip, ...read });
+      await p.close();
+    }
+  }
+
+  /* ---- C20's search drive ------------------------------------------------ */
+  /* Search is on every screen and had no check at all until 12 September 2026,
+     which is how its claim hits stayed unranked -- the first twelve matches in
+     file order, alphabetical by node id -- through every gate this repo runs.
+     The query and both expectations are derived here from claims.json and
+     index.json, never written down. */
+  let SEARCH = { present: false };
+  {
+    /* a word with plenty of Tier 1 matches and some weaker ones, so a ranked
+       result and a file-ordered one cannot look the same */
+    const WORDS = ['roswell', 'battelle', 'grusch', 'aawsap', 'nimitz'];
+    let word = null, t1 = 0, other = 0;
+    for (const w of WORDS) {
+      const m = claimRows.filter((c) => c.text.toLowerCase().includes(w));
+      const a = m.filter((c) => c.tier === 1).length;
+      if (a >= 14 && m.length - a >= 3) { word = w; t1 = a; other = m.length - a; break; }
+    }
+    /* and a two-word query taken out of a hyphenated label, which the old
+       substring-only matcher could not answer at all */
+    const hy = index.nodes.find((n) => /^[A-Za-z]{4,}-[A-Za-z]{4,}$/.test(
+      (n.label.match(/[A-Za-z]{4,}-[A-Za-z]{4,}/) || [''])[0]) && n.label.match(/[A-Za-z]{4,}-[A-Za-z]{4,}/));
+    const pair = hy ? hy.label.match(/([A-Za-z]{4,})-([A-Za-z]{4,})/) : null;
+    const twoWord = pair ? (pair[1] + ' ' + pair[2]).toLowerCase() : null;
+
+    const driveSearch = !POISON || POISON === 'c20';
+    if (driveSearch && word) {
+      const p = await browser.newPage({ viewport: { width: 1920, height: 1080 } });
+      p.on('request', (r) => requests.push(r.url()));
+      p.on('pageerror', (e) => pageErrors.push(e.message.slice(0, 160)));
+      await p.goto(APP + '#/', { waitUntil: 'load' });
+      await p.waitForTimeout(1600);
+      const type = async (q) => {
+        await p.locator('.searchbox input').first().fill(q);
+        await p.waitForTimeout(1600);          /* claims.json loads on the first query */
+      };
+      await type(word);
+      await poisonAt(p, 'search');
+      SEARCH = await p.evaluate(IN_PAGE.search, word);
+      SEARCH.want = { word, t1, other, twoWord, twoWordId: hy ? hy.id : null };
+      if (twoWord) {
+        await type(twoWord);
+        SEARCH.two = await p.evaluate(IN_PAGE.search, twoWord);
+      }
       await p.close();
     }
   }
@@ -1514,6 +1615,53 @@ async function main() {
           'C19 the guard does not cry wolf over a cell, a thread, a class or a hostname',
           wolf.length ? 'flagged ' + wolf.join(', ')
             : 'cell ' + gw.cell + ', thread ' + gw.thread + ', class program, and two hostnames: none flagged');
+      }
+    }
+  }
+
+  /* ---- C20 -------------------------------------------------------------- */
+  {
+    if (!SEARCH.present) {
+      if (POISON && POISON !== 'c20') skip('C20 search ranks claim text', 'poison ' + POISON + ' does not drive it');
+      else check('c20', false, 'C20 the search control draws results', 'no .searchbox input, or no query qualified');
+    } else {
+      const w = SEARCH.want;
+      const sq = (x) => String(x || '').toLowerCase().replace(/[^a-z0-9]+/g, '');
+
+      check('c20', SEARCH.claims.length > 0, 'C20 a query with ' + (w.t1 + w.other) + ' matching claims draws claim rows',
+        SEARCH.claims.length + ' rows for "' + w.word + '" :: ' + clip(SEARCH.heads, 2));
+
+      /* Every shown claim really contains what was typed. Checked on the
+         punctuation-free form, because that is the form that lets "usc" reach
+         "U.S.C."; a row that does not contain the query at all is the failure
+         this is looking for. */
+      const notThere = SEARCH.claims.filter((c) => !sq(c.hit).includes(sq(w.word)) && !sq(c.node).includes(sq(w.word)));
+      check('c20', notThere.length === 0, 'C20 every claim row drawn actually contains the query',
+        notThere.length ? notThere.length + ' do not \u2014 ' + clip(notThere.map((c) => c.node), 3)
+          : SEARCH.claims.length + ' rows, all of them');
+
+      /* THE RANKING. The board carries at least 14 Tier 1 claims whose text
+         contains this word, and tier strictly dominates the score, so a ranked
+         result of 12 is all Tier 1. A result in file order is not: the same
+         word matches " + w.other + " weaker claims that sort early by node id. */
+      const tiers = SEARCH.claims.map((c) => c.tier);
+      const allT1 = tiers.every((t) => t === 1);
+      check('c20', allT1, 'C20 the claim rows are ranked, so Tier 1 fills them before Tier 2 does',
+        'tiers drawn [' + tiers.join(',') + '] — the board has ' + w.t1 + ' Tier 1 and '
+        + w.other + ' weaker claims containing "' + w.word + '"');
+
+      const marked = SEARCH.claims.filter((c) => c.marked).length;
+      check('c20', marked === SEARCH.claims.length, 'C20 every claim row highlights the words it matched on',
+        marked + ' of ' + SEARCH.claims.length + ' carry a <mark>');
+
+      /* The two-word query. "wilson davis" must reach "The Wilson-Davis Notes",
+         which a substring match on the raw label cannot do. */
+      if (SEARCH.two && w.twoWord) {
+        check('c20', SEARCH.two.nodes.includes(w.twoWordId),
+          'C20 two words reach a hyphenated name: "' + w.twoWord + '" finds ' + w.twoWordId,
+          SEARCH.two.nodes.length ? 'drew ' + clip(SEARCH.two.nodes, 3) : 'drew no node at all');
+      } else {
+        skip('C20 two words reach a hyphenated name', 'no hyphenated label in the index to derive one from');
       }
     }
   }
