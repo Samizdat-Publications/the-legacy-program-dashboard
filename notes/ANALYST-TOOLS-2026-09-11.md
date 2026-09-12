@@ -178,7 +178,53 @@ is what a shared deep link is.
 
 | | |
 |---|---|
-| Nobody has asked it a question yet | The Worker is not redeployed as this note is written, so the loop has never round-tripped with the live model. What HAS been exercised: every tool drives against the real data and its answers re-derive (C19), and the Worker's validators accept a real thinking + tool_use + tool_result exchange with the signature intact and refuse ten shapes that must be refused (`worker/test/validate.mjs`). What has NOT: the model choosing which tool to call, and the loop terminating on a real answer. **That is the first thing to do after the deploy.** The honest state until then is "built, gate green, unverified against the model" |
+| ~~Nobody has asked it a question yet~~ | **Closed, 12 September 2026.** Stewart deployed the Worker and nine questions were put to it across six route kinds. All nine answered. Section 8 records what they cost, what they found, and the four defects they exposed |
 | A dollar figure | Round counts and token counts are on the page. Turning those into money needs a price table this repo does not have |
 | ~~The chips quote figures~~ | **Closed.** `data/analyst-suggestions.json` declares what it quotes in `_figures`, and `check_chip_figures` in the generator fails the build two ways: on a figure the board no longer carries, and on a declared figure no chip quotes any more, which is what a reworded chip leaves behind. Both are demonstrated by `--self-test`. The seventh band is not declared, because "seven bands" is prose rather than a figure the generator can name |
 | Retiring the old shell | `build_app_data.py` no longer scrapes `tools/build_dashboard.py` for the suggestions, which was the dependency item 1 of the 4 September handoff had to clear first. That blocker is gone |
+
+## 8. What nine live questions found, 12 September 2026
+
+Stewart deployed the Worker and went to bed. Nine questions, one or more per
+route kind, all through the real model.
+
+| route | rounds | tools called | seconds | uncached in | cached | out |
+|---|---|---|---|---|---|---|
+| map | 2 | 7 | 52 | 12,294 | 145,992 | 4,178 |
+| thread | 4 | 8 | 62 | 22,014 | 318,356 | 4,256 |
+| node | 3 | 4 | 35 | 16,759 | 227,038 | 2,281 |
+| hood | 2 | 2 | 29 | 20,965 | 145,992 | 1,944 |
+| patents | 3 | 3 | 25 | 7,149 | 223,131 | 1,640 |
+| evidence | 4 | 6 | 34 | 13,726 | 305,396 | 2,017 |
+| home | 7 | 21 | 104 | 32,667 | 576,861 | 6,503 |
+| timeline | 6 | 17 | 58 | 20,186 | 484,214 | 3,928 |
+| report | 6 | 14 | 115 | 38,587 | 516,090 | 7,871 |
+
+Not one cited a node id the board does not carry.
+
+**Four defects, none of which reading the code had found.** All four are fixed.
+
+| | |
+|---|---|
+| The endpoint probe raced | `probed = true` was set on entry, so a question asked while the probe was in flight was told the analyst was unreachable by a deployment where it was reachable. The promise is memoised now, not a boolean |
+| The cache breakpoint accumulated instead of moving | One was added a round and none cleared, so the fifth round carried five and the API answered 400. Three of the nine questions died that way. `moveBreakpoint()` clears the previous one, and the Worker now caps at four rather than letting the API refuse the request, because a slightly less cached answer beats none |
+| The guard was blind to single-word ids | It skipped any backticked token with no hyphen, dot or digit, which is every single-word node id on the board |
+| The guard cried wolf twice | `disclosure.3` is a map cell and `www.govinfo.gov` is a hostname; both were reported to the reader as "not a node on this board" |
+
+**And one finding about the board rather than the code**, made by the analyst
+unprompted on its third question: the demotion rule in `remediate_tiers` is
+scoped to the node rather than to the claim, so the same 1953 memorandum claim is
+Tier 1 on `battelle` and Tier 2 on `pentacle-memorandum`. Written up with its
+size and a three-way decision in `notes/TIER-SCOPE-2026-09-12.md`. Nothing was
+changed: it moves claim tiers, and those are Stewart's.
+
+### What the answers were actually like
+
+Asked on Home what the board establishes and what it only alleges, it called 21
+tools over 7 rounds and opened with: the board establishes mechanism, money
+plumbing and paper trail, and only alleges the payload. Asked on the custody
+thread to trace Grusch back to a named contractor, it drew the eight steps as a
+table, named the Tier 3 hinge as the weakest, gave the second weakest and its
+single pseudonymous source, and listed the four documents that would settle it.
+Asked for the weakest Tier 1 claim on `battelle`, it found the tier contradiction
+above. That is the bar Stewart set: "answer any question I would ask here".

@@ -147,6 +147,59 @@ console.log('\n  the Worker validators, against a real tool exchange\n');
   }
 }
 
+/* ---- the cache breakpoint cap ------------------------------------------- */
+/* The board sends two breakpoints, the case index and one that moves along the
+   tool results. Its first version ADDED one a round instead of moving it, so the
+   fifth round carried five and the API answered 400: "A maximum of 4 blocks with
+   cache_control may be provided. Found 5." A reader saw twenty seconds of work
+   end in "the analyst endpoint answered with an error". The Worker caps it now,
+   keeping the most recent four, because a slightly less cached answer beats no
+   answer. */
+{
+  const bp = () => ({ type: "ephemeral", ttl: "1h" });
+  const sys = [
+    { type: "text", text: "CASE INDEX", cache_control: bp() },
+    { type: "text", text: "CURRENT STATE" },
+  ];
+  const msgs = [
+    { role: "user", content: "q" },
+    { role: "assistant", content: [{ type: "tool_use", id: "t1", name: "nodes", input: {} }] },
+    { role: "user", content: [{ type: "tool_result", tool_use_id: "t1", content: "a", cache_control: bp() }] },
+    { role: "assistant", content: [{ type: "tool_use", id: "t2", name: "nodes", input: {} }] },
+    { role: "user", content: [{ type: "tool_result", tool_use_id: "t2", content: "b", cache_control: bp() }] },
+    { role: "assistant", content: [{ type: "tool_use", id: "t3", name: "nodes", input: {} }] },
+    { role: "user", content: [{ type: "tool_result", tool_use_id: "t3", content: "c", cache_control: bp() }] },
+    { role: "assistant", content: [{ type: "tool_use", id: "t4", name: "nodes", input: {} }] },
+    { role: "user", content: [{ type: "tool_result", tool_use_id: "t4", content: "d", cache_control: bp() }] },
+  ];
+  const count = () => {
+    let n = sys.filter((b) => b.cache_control).length;
+    for (const m of msgs) {
+      if (typeof m.content === "string") continue;
+      n += m.content.filter((b) => b.cache_control).length;
+    }
+    return n;
+  };
+  const before = count();
+  const dropped = W.capCacheBlocks(sys, msgs);
+  const after = count();
+  check(before === 5, "the fixture really carries five breakpoints", "found " + before);
+  check(dropped === 1 && after === 4, "the Worker caps them at the API's four",
+    "dropped " + dropped + ", " + after + " remain");
+  /* Dropping the EARLIEST is the right end to drop from, and it costs nothing:
+     caching is a prefix match, so the surviving breakpoint further along already
+     covers everything before it, the case index included. */
+  check(!sys[0].cache_control && msgs[8].content[0].cache_control,
+    "it drops from the earliest end, which a later breakpoint already covers",
+    "the case index breakpoint went, the last tool result's stayed, and the "
+    + "latter's prefix contains the former");
+
+  const sys2 = [{ type: "text", text: "x", cache_control: bp() }];
+  const msgs2 = [{ role: "user", content: "q" }];
+  check(W.capCacheBlocks(sys2, msgs2) === 0 && !!sys2[0].cache_control,
+    "a request already within the limit is left alone", "nothing dropped");
+}
+
 /* ---- and the one that is neither: an over-long exchange is refused whole -- */
 {
   const huge = [EXCHANGE[0], EXCHANGE[1], {

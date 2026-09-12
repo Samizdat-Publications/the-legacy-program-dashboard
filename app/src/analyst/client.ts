@@ -216,6 +216,12 @@ export async function checkCitedIds(text: string): Promise<{ ok: string[]; bad: 
     const tok = m[1].trim();
     if (!ID_SHAPE.test(tok)) continue;         /* prose, a field path, a number */
     if (k.other.has(tok)) continue;            /* a cell, band, era, class, cluster, thread or tool */
+    /* No node id on this board carries a dot, and map cells are the only dotted
+       ids, which the line above has already taken. So a dotted token that is in
+       neither set is a hostname or a filename: `www.govinfo.gov` and
+       `archive.org` were both reported to a reader as "not a node on this
+       board", which is true and is not what the sentence means. */
+    if (tok.includes('.')) continue;
     (k.nodes.has(tok) ? ok : bad).add(tok);
   }
   return { ok: [...ok], bad: [...bad] };
@@ -229,6 +235,14 @@ function trimWire(): void {
        remains must be a plain user question, never a tool_result */
     wire.shift();
     while (wire.length && !(wire[0].role === 'user' && typeof wire[0].content === 'string')) wire.shift();
+  }
+}
+
+/* One breakpoint in the messages, never more. The system block holds the other. */
+function moveBreakpoint(): void {
+  for (const m of wire) {
+    if (typeof m.content === 'string') continue;
+    for (const blk of m.content) delete blk.cache_control;
   }
 }
 
@@ -347,13 +361,15 @@ export async function ask(question: string, route: Route, opts: AskOpts = {}): P
         results.push({ type: 'tool_result', tool_use_id: c.id, content: out });
       }
       /* Every result in ONE user message, or parallel tool use stops happening.
-         The LAST block carries a cache breakpoint, which moves forward one
-         message a round: everything before it, including every earlier round's
-         tool results, is then read from cache at a tenth of the price instead
-         of being re-sent in full. The first live question cost 105,000 uncached
-         input tokens over four rounds without it, most of them rounds one to
-         three being sent again. Two breakpoints in all, the case index and this
-         one, well under the API's four. */
+         The last block carries a cache breakpoint that MOVES: the previous one
+         is cleared first, because the API allows four blocks with cache_control
+         in a request and this file already spends one on the case index. Adding
+         one a round without clearing the last put five in the request on the
+         fifth round and the API answered 400, which a reader saw as "the analyst
+         endpoint answered with an error" after twenty seconds of real work.
+         Clearing is free: everything before the new breakpoint is still read
+         from cache, which is the whole point of moving it forward. */
+      moveBreakpoint();
       const last = results[results.length - 1];
       if (last) last.cache_control = { type: 'ephemeral', ttl: '1h' };
       wire.push({ role: 'user', content: results });

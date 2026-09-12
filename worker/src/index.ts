@@ -89,6 +89,15 @@ const MAX_CHARS = 40_000;          // per text or tool_result block
 const MAX_SYSTEM_CHARS = 300_000;  // the whole system prompt, all blocks together
 const MAX_MESSAGE_CHARS = 1_200_000; // the whole conversation, serialised
 const MAX_TOOL_CHARS = 80_000;     // the whole tool catalogue, serialised
+/* The API's own ceiling. A request with more is a 400, and a 400 here is
+   invisible to the reader: they waited twenty seconds and got "the analyst
+   endpoint answered with an error". The board sends two, one on the case index
+   and one that moves along the tool results, but a client whose breakpoint
+   accumulates instead of moving will sail past this, and that is exactly what
+   the first version of the board's own did. Capped rather than refused: the
+   oldest breakpoints are dropped, which costs a little cache and answers the
+   question. */
+const MAX_CACHE_BLOCKS = 4;
 
 /* The tool names this endpoint will pass to the model. The implementations are
    in app/src/analyst/tools.ts and run in the reader's browser; this list exists
@@ -275,6 +284,31 @@ export function cleanSystem(raw: unknown): Anthropic.TextBlockParam[] | undefine
   return out.length ? out : undefined;
 }
 
+/* Walks the request in render order -- system, then messages -- and clears every
+   cache_control past the last MAX_CACHE_BLOCKS. Returns how many it cleared, so
+   a deployment that is quietly over the limit shows up in the Worker's log
+   rather than only in a 400 nobody sees. */
+export function capCacheBlocks(
+  system: Anthropic.TextBlockParam[] | undefined,
+  messages: Anthropic.MessageParam[],
+): number {
+  const marked: Record<string, unknown>[] = [];
+  for (const b of system ?? []) {
+    const r = b as unknown as Record<string, unknown>;
+    if (r.cache_control) marked.push(r);
+  }
+  for (const m of messages) {
+    if (typeof m.content === "string") continue;
+    for (const b of m.content as unknown as Record<string, unknown>[]) {
+      if (b && b.cache_control) marked.push(b);
+    }
+  }
+  if (marked.length <= MAX_CACHE_BLOCKS) return 0;
+  const drop = marked.slice(0, marked.length - MAX_CACHE_BLOCKS);
+  for (const b of drop) delete b.cache_control;
+  return drop.length;
+}
+
 export default {
   async fetch(req: Request, env: Env): Promise<Response> {
     if (req.method === "OPTIONS") return new Response(null, { headers: cors(req) });
@@ -335,6 +369,12 @@ export default {
       }, 400);
     }
 
+    /* Keep the LAST four and drop the earlier ones, rather than letting the API
+       refuse the whole request. Dropping the earliest costs nothing: caching is
+       a prefix match, so a breakpoint further along already covers everything
+       before it, the case index included. */
+    const dropped = capCacheBlocks(system, messages);
+
     const client = new Anthropic({ apiKey });
     try {
       const msg = await client.messages.create({
@@ -349,7 +389,10 @@ export default {
       /* Return the API's own shape. The board already parses it, and translating
          here would mean two places to keep in step. usage is passed through so a
          reader of the network tab can see the cache working. */
-      return json(req, { content: msg.content, stop_reason: msg.stop_reason, usage: msg.usage });
+      return json(req, {
+        content: msg.content, stop_reason: msg.stop_reason, usage: msg.usage,
+        ...(dropped ? { note: dropped + " cache breakpoints past the API's four were dropped" } : {}),
+      });
     } catch (e: unknown) {
       const status = (e as { status?: number })?.status ?? 502;
       const message = (e as { message?: string })?.message ?? "upstream error";

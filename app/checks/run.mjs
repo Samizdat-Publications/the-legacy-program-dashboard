@@ -838,6 +838,7 @@ async function main() {
       TOOLS.cite = await p.evaluate(IN_PAGE.cite,
         'The node `' + NODE_FOCUS + '` sits in cell `' + cellId + '` on the '
         + '`' + (threads[0] || { id: 'custody' }).id + '` thread, a `program`, '
+        + 'sourced to `www.govinfo.gov` and `archive.org`, '
         + 'unlike `ghost-node-not-on-the-board`.');
       TOOLS.citeWant = { node: NODE_FOCUS, cell: cellId, thread: (threads[0] || { id: 'custody' }).id };
       TOOLS.want = {
@@ -1507,9 +1508,12 @@ async function main() {
         check('c19', g.bad.length === 1 && g.bad[0] === 'ghost-node-not-on-the-board',
           'C19 the guard catches an id the board does not carry, and only that one',
           'bad=[' + g.bad.join(', ') + ']');
-        check('c19', !g.bad.includes(gw.cell) && !g.bad.includes(gw.thread) && !g.bad.includes('program'),
-          'C19 the guard does not cry wolf over a map cell, a thread or a class',
-          'cell ' + gw.cell + ', thread ' + gw.thread + ', class program: none flagged');
+        const wolf = [gw.cell, gw.thread, 'program', 'www.govinfo.gov', 'archive.org']
+          .filter((x) => g.bad.includes(x));
+        check('c19', wolf.length === 0,
+          'C19 the guard does not cry wolf over a cell, a thread, a class or a hostname',
+          wolf.length ? 'flagged ' + wolf.join(', ')
+            : 'cell ' + gw.cell + ', thread ' + gw.thread + ', class program, and two hostnames: none flagged');
       }
     }
   }
