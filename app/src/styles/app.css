@@ -249,24 +249,31 @@ h1, h2, h3 { margin: 0; font-weight: 600; }
 #analyst {
   position: fixed;
   left: 0;
-  right: 0;
   bottom: 0;
   z-index: 30;                 /* under the bar, which is 40 */
   display: flex;
   flex-direction: column;
   background: var(--bg2);
   border-top: 1px solid var(--line);
+  border-right: 1px solid var(--line);
   max-height: 100vh;
 }
+/* Open, it is the full width of the window and overlays whatever is under it.
+   Closed, it is a tab no wider than --dock-w, which is the map's band-label
+   gutter: the one strip of the two full-viewport pages that carries nothing. */
+#analyst[data-open='1'] { right: 0; border-right: 0; }
+#analyst[data-open='0'] { width: var(--dock-w); }
+#analyst[data-open='0'] .an-where,
+#analyst[data-open='0'] .an-status { display: none; }
 
-/* the strip. A button, because its whole job is to open and close. */
+/* the tab. A button, because its whole job is to open and close. */
 .an-bar {
   flex: 0 0 auto;
   height: var(--dock-h);
   display: flex;
   align-items: center;
-  gap: 10px;
-  padding: 0 12px;
+  gap: 8px;
+  padding: 0 10px;
   text-align: left;
   width: 100%;
   color: var(--dim);
@@ -275,7 +282,7 @@ h1, h2, h3 { margin: 0; font-weight: 600; }
 .an-bar:hover { background: var(--panel); color: var(--text); }
 .an-bar:focus-visible { outline: 1px solid var(--cyan); outline-offset: -2px; }
 .an-bar .eyebrow { white-space: nowrap; }
-.an-bar .an-where { color: var(--dim); white-space: nowrap; overflow: hidden; }
+.an-bar .an-where { color: var(--dim); white-space: nowrap; }
 .an-bar .an-status { margin-left: auto; white-space: nowrap; }
 .an-bar .an-chev { color: var(--cyan); flex: 0 0 auto; }
 

@@ -316,6 +316,25 @@ const IN_PAGE = {
       })(),
       hostBottom: Math.round(hr.bottom),
       viewport: innerHeight,
+      /* A page that scrolls can bring anything out from under the tab, and
+         #view pads its foot so the page's END is never trapped. A page that
+         does NOT scroll cannot, so on those the tab has to cover nothing. */
+      scrolls: document.documentElement.scrollHeight > innerHeight + 1,
+      /* What the CLOSED tab is sitting on top of. It has to cover nothing: the
+         map and the neighbourhood take the whole viewport and cannot give the
+         dock any height, so the tab overlays instead, and the only place it may
+         overlay is the map's band-label gutter, which carries nothing. The
+         first build took 30px of height from both pages instead and put the
+         map's lowest chip 23px into its own legend on CI. */
+      covers: Array.prototype.map.call(
+        document.querySelectorAll('a.chip, .map-legend > *, .cell-head, .hood-n, a[href], button'),
+        (el) => {
+          if (el.closest('#analyst')) return null;
+          const q = el.getBoundingClientRect();
+          if (q.width === 0 || q.height === 0) return null;
+          if (q.left >= r.right || q.right <= r.left || q.top >= r.bottom || q.bottom <= r.top) return null;
+          return (el.className || el.tagName) + ' "' + (el.textContent || '').trim().slice(0, 24) + '"';
+        }).filter(Boolean),
     };
   },
 
@@ -1341,6 +1360,21 @@ async function main() {
       const covered = CH.filter((r) => r.strip.present && !r.strip.unobstructed).map((r) => r.hash);
       check('c18', covered.length === 0, 'C18 nothing is drawn over the analyst strip',
         covered.length ? 'covered on ' + clip(covered, 3) : 'the strip is the topmost element at its own centre everywhere');
+
+      /* Only where the reader cannot scroll it out of the way. On the map and
+         the neighbourhood that is the whole point: both take the viewport and
+         neither can give the dock any height, so the tab overlays, and the only
+         strip it may overlay is the map's band-label gutter, which carries
+         nothing. The first build took 30px of height from both instead and put
+         the map's lowest chip 23px into its own legend on CI. */
+      const fixedRoutes = CH.filter((r) => r.strip.present && !r.strip.scrolls);
+      const covering = fixedRoutes.filter((r) => r.strip.covers.length)
+        .map((r) => r.hash + ' covers ' + r.strip.covers.length + ': ' + r.strip.covers[0]);
+      check('c18', covering.length === 0 && fixedRoutes.length > 0,
+        'C18 on a page that cannot scroll, the closed tab covers nothing the page drew',
+        covering.length ? clip(covering, 2)
+          : fixedRoutes.length + ' of ' + CH.length + ' routes do not scroll ('
+            + fixedRoutes.map((r) => r.hash).join(', ') + '), and the tab is over nothing on them');
 
       const shut = CH.filter((r) => r.open !== '1').map((r) => r.hash);
       check('c18', shut.length === 0, 'C18 clicking the strip opens the dock',

@@ -11,8 +11,14 @@
   top: var(--bar-h);
   left: 0;
   right: 0;
-  /* not 0: the analyst dock's collapsed strip lives there on every route */
-  bottom: var(--dock-h);
+  /* 0, and the analyst dock does NOT take height here. The map uses the whole
+     viewport at 1920 and had about 7px of clearance between its lowest chip and
+     its legend on CI, where the fallback font wraps two more rows than this
+     machine does. A 30px reservation put the chips 23px into the legend and
+     turned C5 red. The dock's closed tab sits in the band-label gutter instead,
+     left of x=158 where the first chip starts, and C18 asserts it covers
+     nothing. */
+  bottom: 0;
   overflow: hidden;
   background: var(--bg);
   font-size: var(--fs-label);

@@ -34,26 +34,43 @@ I would ask here". A session in this repo can grep, count and open files.
 | The loop | `app/src/analyst/client.ts`. Up to 14 tool rounds a question, parallel calls in one message, thinking blocks echoed back with their signatures, the wire history trimmed only at a plain question so half a tool exchange is never sent |
 | Counting | Done by the tool, not by the model. Every filtering tool takes `count_only` and `group_by`, so "how many" is arithmetic over the file rather than a look at a list that was truncated at 40 rows |
 | Tracing | `path` is a breadth-first walk of the 2,460 sourced edges and returns the shortest chains with every edge label and tier on the way. No path is an answer: it means the board does not join them |
-| The dock | `app/src/analyst/panel.ts`. Fixed to the foot of the window on every route, one 30px strip closed, overlaying up to 62vh open |
+| The dock | `app/src/analyst/panel.ts`. On every route. Closed, a 148 by 30 tab at the bottom left, in the map's band-label gutter, over nothing. Open, full width and up to 62vh, overlaying |
 | The chips | `data/analyst-suggestions.json`, nine keys, 38 chips. `tools/build_app_data.py` reads it and fails the build on a missing key or fewer than three |
 | The guard | Any node id the analyst writes in backticks is checked against the index. A real one becomes a link to that node; one the board does not carry is struck through and named. It flags, it never edits |
 | Check C18 | The dock and its chips: seven assertions over nine route kinds, with a poison |
 | Check C19 | The twelve tools themselves: nineteen assertions, every figure re-derived in the check from the same JSON the browser is reading, with a poison |
 | The Worker's validators | `worker/test/validate.mjs`, 19 assertions. Every accepted shape paired with one that must be refused |
 
-### Why the analyst is a dock and not a panel below the page
+### Why the analyst is a tab, and where it is
+
+This took three cuts and the last two were found by checks rather than by reading.
 
 The plan said the panel should sit "below the page content, or in the place Home
 shows it today, whichever the current layout takes without a redesign". Neither
-works. `.map-root` is `position: fixed` from the bar to the foot of the window, and
+works. `.map-root` is `position: fixed` from the bar to the foot of the window and
 `.hood` is `height: 100vh`, so on two of the ten pages a panel in normal flow is
-drawn underneath the page and cannot be reached at all. The first build did exactly
-that and a screenshot showed it.
+drawn underneath the page and cannot be reached at all. A screenshot showed it.
 
-So `--dock-h` is a token, 30px, reserved by `#view`, `.map-root` and `.hood`. The
-closed strip sits in that reserved band and covers nothing. Opening the dock
-**overlays** rather than growing the reservation, on purpose: a map that re-lays-out
-every time somebody opens the analyst is a map that moves under the reader.
+Cut two made it a full-width dock and reserved 30px of height for its closed strip
+across the app, `.map-root` and `.hood` included. **CI went red on C5.** The map at
+1920 uses the whole viewport, and on CI's fallback font it wraps 48 rows where this
+machine wraps 46, which left about 7px between its lowest chip and its own legend.
+Taking 30px put the chips 23px into the legend. The map has no 30px to give.
+
+Cut three, which is what shipped: the map and the neighbourhood give up **no**
+height. Closed, the dock is a 148 by 30 tab at the bottom left, which is the map's
+band-label gutter: the first chip starts at x=158 and the legend's items start at
+x=1515, so the tab is over nothing. Open, it is full width and overlays up to 62vh,
+on purpose, because a map that re-lays-out every time somebody opens the analyst is
+a map that moves under the reader. `#view` still pads its foot by `--dock-h` so a
+scrolling page never ends underneath the tab.
+
+C18 now asserts that, and it is scoped the way the reality is: **on a page that
+cannot scroll, the tab covers nothing the page drew.** On a page that scrolls, a
+reader can move anything out from under it, and the padding guarantees the page's
+end is never trapped. That assertion found the evidence page's filter chips sitting
+under the tab at scroll zero, which is the acceptable case, and it is the assertion
+that would have caught cut two before CI did.
 
 ### What the model is told
 
@@ -106,7 +123,7 @@ The secret survives a redeploy.
 | | |
 |---|---|
 | `npm --prefix app run build` | green |
-| `node app/checks/run.mjs` | 74 passed, 0 failed |
+| `node app/checks/run.mjs` | 75 passed, 0 failed |
 | `POISON=c18 node app/checks/run.mjs` | POISON c18 SEEN |
 | `POISON=c19 node app/checks/run.mjs` | POISON c19 SEEN |
 | `node worker/test/validate.mjs` | 19 passed, 0 failed |
@@ -144,8 +161,10 @@ is what a shared deep link is.
   text; capping it invalidates the turn.
 - **All tool results go back in ONE user message.** Splitting them across messages
   teaches the model to stop making parallel calls.
-- **`--dock-h` is reserved, never grown.** `#view`, `.map-root` and `.hood` all read
-  it. Opening the dock must keep overlaying.
+- **The map and the neighbourhood give the dock no height.** `.map-root` is
+  `bottom: 0` and `.hood` is `height: 100vh`, and both must stay that way: the map
+  has about 7px of clearance at 1920 on CI and 30px took C5 red. The tab overlays
+  the band-label gutter instead, and C18 asserts it covers nothing there.
 - **`TOOLS_VERSION` is in two files and they must match.** `app/src/analyst/tools.ts`
   and `worker/src/index.ts`. A tool added on one side is a deploy on both.
 - **The cited-id guard flags, it never edits.** A wrong id stays visible and is
