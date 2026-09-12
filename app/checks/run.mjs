@@ -1,6 +1,7 @@
 /* app/checks/run.mjs — C1 to C16 of notes/DESIGN-RESPONSE-SHELL-2026-09-02.md
  * section 3, plus C17 for the back button Stewart made a condition of the new
- * shell, against the built app served by `npm run preview`.
+ * shell and C18 for the analyst dock and its per-route chips, against the built
+ * app served by `npm run preview`.
  *
  * WHY IT IS SHAPED LIKE THIS.
  *
@@ -292,6 +293,49 @@ const IN_PAGE = {
       }),
     };
   },
+  /* the analyst dock, closed: the strip a reader has to be able to reach on
+     every route, measured as the browser laid it out */
+  dock() {
+    const host = document.getElementById('analyst');
+    const bar = host && host.querySelector('.an-bar');
+    if (!host || !bar) return { present: false };
+    const r = bar.getBoundingClientRect();
+    const hr = host.getBoundingClientRect();
+    return {
+      present: true,
+      open: host.getAttribute('data-open'),
+      key: host.getAttribute('data-chipkey'),
+      h: Math.round(r.height),
+      /* on screen, not merely in the document */
+      onScreen: r.height > 0 && r.width > 0 && r.bottom > 0 && r.top < innerHeight,
+      /* nothing is drawn over the strip: the topmost element at its centre is
+         the strip itself or something inside it */
+      unobstructed: (() => {
+        const el = document.elementFromPoint(Math.round(r.left + r.width / 2), Math.round(r.top + r.height / 2));
+        return !!el && (el === bar || bar.contains(el));
+      })(),
+      hostBottom: Math.round(hr.bottom),
+      viewport: innerHeight,
+    };
+  },
+
+  /* the chips as drawn, and the health line */
+  chips() {
+    const host = document.getElementById('analyst');
+    const els = Array.prototype.slice.call(document.querySelectorAll('#analyst .an-chip'));
+    const vis = els.filter((e) => { const b = e.getBoundingClientRect(); return b.width > 0 && b.height > 0; });
+    return {
+      key: host ? host.getAttribute('data-chipkey') : null,
+      open: host ? host.getAttribute('data-open') : null,
+      chips: vis.map((e) => {
+        const t = e.querySelector('.an-chip-text');
+        return (t ? t.textContent : e.textContent) || '';
+      }),
+      drawn: els.length,
+      status: (document.querySelector('#analyst .an-status') || {}).textContent || '',
+      where: (document.querySelector('#analyst .an-where') || {}).textContent || '',
+    };
+  },
 };
 
 /* ---- the poisons -------------------------------------------------------- */
@@ -469,6 +513,19 @@ const POISONS = {
       document.querySelector('#view').appendChild(d);
     }),
   },
+  c18: {
+    stops: ['chips'],
+    what: "rewrites the chips the page drew into the home list, so every route's chips read as home's",
+    fn: async (page) => page.evaluate(async () => {
+      /* the page's own data file, so the poison plants real home chips rather
+         than strings nothing would ever render */
+      const r = await fetch('data/analyst.json');
+      const j = await r.json();
+      const home = (j.byRoute && j.byRoute.home) || j.suggestions || [];
+      const chips = document.querySelectorAll('#analyst .an-chip .an-chip-text');
+      chips.forEach((el, i) => { if (home[i % home.length]) el.textContent = home[i % home.length]; });
+    }),
+  },
 };
 
 /* ---- the run ------------------------------------------------------------ */
@@ -620,6 +677,45 @@ async function main() {
     /* the swept routes are screens too: C9's href scan and C16's placeholder
        scan both walk everything in S, so the query-string states count. */
     if (!S[r]) S['route ' + r] = nf;
+  }
+
+  /* ---- C18's chip sweep -------------------------------------------------- */
+  /* One route of every chip kind. The dock is opened by clicking the strip the
+     reader clicks, so this proves the control works as well as the wiring. */
+  const CHIP_ROUTES = [
+    ['home', '#/'],
+    ['node', '#/n/' + NODE_FOCUS],
+    ['map', '#/map'],
+    ['hood', '#/hood/' + NODE_FOCUS],
+    ['thread', '#/t/custody'],
+    ['timeline', '#/timeline'],
+    ['patents', '#/patents/' + PATENT],
+    ['evidence', '#/evidence'],
+    ['report', '#/report/n/' + NODE_FOCUS],
+  ];
+  /* On a FRESH context per route, and that is not fussiness: `page.goto` to a
+     URL that differs only in its hash is a same-document navigation, so the
+     dock would still be open from the route before and every second click
+     would close it rather than open it. The first cut of this check did
+     exactly that and reported four routes broken that were not. A cold arrival
+     is also the honest case: it is what a shared deep link is. */
+  const CH = [];
+  {
+    const sweepChips = !POISON || POISON === 'c18';
+    for (const [key, hash] of (sweepChips ? CHIP_ROUTES : [])) {
+      const p = await browser.newPage({ viewport: { width: 1920, height: 1080 } });
+      p.on('request', (r) => requests.push(r.url()));
+      p.on('pageerror', (e) => pageErrors.push(e.message.slice(0, 160)));
+      await p.goto(APP + hash, { waitUntil: 'load' });
+      await p.waitForTimeout(hash.startsWith('#/evidence') ? 3000 : 1500);
+      const strip = await p.evaluate(`(function ${IN_PAGE.dock})()`);
+      const opener = p.locator('#analyst .an-bar').first();
+      if (await opener.count()) { await opener.click(); await p.waitForTimeout(400); }
+      await poisonAt(p, 'chips');
+      const read = await p.evaluate(`(function ${IN_PAGE.chips})()`);
+      CH.push({ key, hash, strip, ...read });
+      await p.close();
+    }
   }
 
   /* ---- C17's back trail ------------------------------------------------- */
@@ -1096,6 +1192,64 @@ async function main() {
     check('c17', tips[0] === 'Back' && tips[1] === 'Back to Home' && tips[2] === 'Back to ' + focusRec.label,
       'C17 the tooltip names the page the button will return to',
       B.trail.map((x, i) => x.hash + ' says "' + tips[i] + '"').join(' \u00b7 ') || 'the trail was not reached');
+  }
+
+  /* ---- C18 -------------------------------------------------------------- */
+  /* The analyst is on every route, its chips are the ones its data file gives
+     that route, and the health line says which of its two states it is in. */
+  {
+    const byRoute = analystFile.byRoute || null;
+    if (!CH.length) {
+      skip("C18 the analyst chips are this route's chips", 'poison ' + POISON + ' does not reach the chip sweep');
+    } else if (!byRoute) {
+      check('c18', false, 'C18 analyst.json carries per-route chips',
+        'shape=' + (analystFile.shape || 'none') + ', no byRoute map: the generator did not read data/analyst-suggestions.json');
+    } else {
+      const wrong = [], missing = [];
+      for (const row of CH) {
+        const want = byRoute[row.key] || [];
+        const got = row.chips;
+        if (!want.length) { missing.push(row.key); continue; }
+        if (want.length !== got.length || want.some((x, i) => x !== got[i])) {
+          wrong.push(row.key + ' ' + row.hash + ' drew [' + clip(got, 2) + '] wanted [' + clip(want, 2) + ']');
+        }
+      }
+      check('c18', missing.length === 0, 'C18 every chip key the sweep visits is in the data file',
+        missing.length ? 'no chips for ' + missing.join(', ') : CHIP_ROUTES.map((r) => r[0]).join(', '));
+      check('c18', wrong.length === 0, "C18 the chips on screen are exactly that route kind's chips",
+        wrong.length ? wrong.length + ' of ' + CH.length + ' wrong — ' + clip(wrong, 2)
+          : CH.map((r) => r.key + ':' + r.chips.length).join(' · '));
+
+      const thin = CH.filter((r) => r.chips.length < 3).map((r) => r.key + ' has ' + r.chips.length);
+      check('c18', thin.length === 0, 'C18 every route kind offers at least three chips',
+        thin.length ? thin.join(', ') : 'floor is 3, thinnest is ' + Math.min(...CH.map((r) => r.chips.length)));
+
+      /* distinct route kinds must not all show the same list: that is exactly
+         what the poison does, and what a key that always resolves home does */
+      const sets = new Set(CH.map((r) => r.chips.join('')));
+      check('c18', sets.size === CH.length, 'C18 no two route kinds show the same chips',
+        sets.size + ' distinct lists over ' + CH.length + ' route kinds');
+
+      const offScreen = CH.filter((r) => !r.strip.present || !r.strip.onScreen).map((r) => r.hash);
+      check('c18', offScreen.length === 0, 'C18 the analyst strip is on screen on every route kind',
+        offScreen.length ? 'not reachable on ' + clip(offScreen, 3)
+          : CH.length + ' routes, strip ' + CH[0].strip.h + 'px at the foot of each');
+
+      const covered = CH.filter((r) => r.strip.present && !r.strip.unobstructed).map((r) => r.hash);
+      check('c18', covered.length === 0, 'C18 nothing is drawn over the analyst strip',
+        covered.length ? 'covered on ' + clip(covered, 3) : 'the strip is the topmost element at its own centre everywhere');
+
+      const shut = CH.filter((r) => r.open !== '1').map((r) => r.hash);
+      check('c18', shut.length === 0, 'C18 clicking the strip opens the dock',
+        shut.length ? 'stayed shut on ' + clip(shut, 3) : 'opened on all ' + CH.length);
+
+      const LIVE = 'live · no key needed';
+      const DEAD = 'endpoint not reachable from here · the board works by hand';
+      const states = new Set(CH.map((r) => r.status));
+      const okState = states.size === 1 && (states.has(LIVE) || states.has(DEAD));
+      check('c18', okState, 'C18 the health line reads live, or reads the unreachable line',
+        [...states].map((x) => '"' + x + '"').join(' / ') || '(no health line)');
+    }
   }
 
   /* ---- verdict ---------------------------------------------------------- */

@@ -1,14 +1,71 @@
 {
+ "byRoute": {
+  "evidence": [
+   "Show me every entity the government has formally denied",
+   "Filter to Tier 3 and tell me which of those 514 claims is load bearing anywhere.",
+   "Show me claims that are open questions on nodes with a drafted FOIA request.",
+   "Which source domain carries the most claims, and how many of those are Tier 1?"
+  ],
+  "home": [
+   "Where should I start?",
+   "Follow the money: who paid, and where does the trail stop?",
+   "Which claims would collapse first under a hostile audit?",
+   "Give me the ten strongest Tier 1 claims on the board and the document behind each.",
+   "What does this board actually establish, and what does it only allege?"
+  ],
+  "hood": [
+   "Which neighbour here shares the most connection types with the node in view?",
+   "Which of these neighbours is Tier A on proximity but carries only Tier 3 claims?",
+   "Which edge in this ring rests on the weakest source?",
+   "What connects these neighbours to each other rather than to the node in the middle?"
+  ],
+  "map": [
+   "The map has seven bands. Which is thinnest on Tier 1 evidence, not just on node count?",
+   "What changed between the 2000 to 2016 AAWSAP era and the 2017 to 2026 post-disclosure era?",
+   "Only 137 of 1,057 nodes are on this map. What is the strongest node that is not?",
+   "Which cell on this grid carries the most denials?"
+  ],
+  "node": [
+   "What are this node's Tier 1 claims, and which one is weakest?",
+   "Who denies this node, and on what grounds?",
+   "Trace the shortest sourced chain from this node to AAWSAP.",
+   "What is on the timeline for this node, and what is missing from it?",
+   "If I could check one claim on this node against a primary document, which one should it be?"
+  ],
+  "patents": [
+   "US 10,135,366 lapsed for maintenance on 26 December 2022. Who let it lapse, and does the board say why?",
+   "Docket PAX 182, examiner Thomas M. Dougherty. What does the prosecution history show?",
+   "Two of the five are applications, not grants. What happened to US 2019/0295733?",
+   "What does the board record as absent from these patent files?"
+  ],
+  "report": [
+   "Summarise this report in five sentences a journalist could check.",
+   "What in this report would not survive a hostile audit?",
+   "List every source cited here that is a primary document.",
+   "What would somebody have to find to make this report wrong?"
+  ],
+  "thread": [
+   "How did AAWSAP become AATIP, and then KONA BLUE?",
+   "Trace the custody chain from Grusch back to a named contractor",
+   "This thread is one of eight. Which of its steps rests on a single source?",
+   "The denials thread is eight steps, every join a denial edge. Does the record support all eight?"
+  ],
+  "timeline": [
+   "What did the Nimitz pilots see in 2004, and what has the government confirmed?",
+   "913 events are on the timeline. Which year is densest, and why?",
+   "What is on the record between the 1947 retrievals and the close of Blue Book in 1969?",
+   "Which years carry events in both the oversight strand and the coverup strand?"
+  ]
+ },
  "generated": "2026-09-03",
- "source": "e5835f8cdaf3",
+ "shape": "per-route",
+ "source": "78c1402078d3",
  "suggestions": [
   "Where should I start?",
-  "How did AAWSAP become AATIP, and then KONA BLUE?",
-  "What did the Nimitz pilots see in 2004, and what has the government confirmed?",
-  "Trace the custody chain from Grusch back to a named contractor",
-  "Show me every entity the government has formally denied",
   "Follow the money: who paid, and where does the trail stop?",
-  "Which claims would collapse first under a hostile audit?"
+  "Which claims would collapse first under a hostile audit?",
+  "Give me the ten strongest Tier 1 claims on the board and the document behind each.",
+  "What does this board actually establish, and what does it only allege?"
  ],
  "worker": "https://the-program-analyst.stewartgregerson.workers.dev"
 }

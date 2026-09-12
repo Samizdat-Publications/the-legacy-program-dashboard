@@ -109,9 +109,75 @@ export interface Highlight { id: string; rank: number; why: string; }
 export interface HighlightsFile { flags: Highlight[] }
 
 export interface EntryPath { id: string; label: string; blurb: string; total: number; onMap: number; ids: string[]; }
-export interface MapFile { entryPaths: EntryPath[]; }
 
-export interface AnalystFile { worker: string; suggestions: string[]; }
+/* map.json carries the whole program map, not only the entry paths. The pages
+   read entryPaths; the analyst's tools read the rest of it, so the shape is
+   stated in full here rather than re-declared next to them. */
+export interface MapNode {
+  id: string; label: string; short?: string; cls: string; cluster?: string | null;
+  tier: string | null; band: string; era: string;
+  C?: number; A?: number; D?: number; dateStart?: string | null; hl?: number | null;
+}
+export interface MapFile {
+  entryPaths: EntryPath[];
+  bands?: Band[];
+  eras?: Era[];
+  cells?: Record<string, string[]>;
+  nodes?: MapNode[];
+  denialPairs?: { by: string; of: string; kind: string; label: string }[];
+  summarised?: { a: string; b: string; via: string[] }[];
+}
+
+export interface EdgeRow {
+  a: string; b: string; t: string; tier: number | null;
+  label?: string; dateStart?: string | null;
+}
+
+export interface ThreadStep {
+  node: string; year: number | null; evidence: string;
+  edge: { kind: string; tier: number | null; type: string; via: string[] } | null;
+}
+export interface Thread { id: string; label: string; title?: string; blurb: string; steps: ThreadStep[]; }
+export interface ThreadsFile { threads: Thread[]; }
+
+export interface Patent {
+  number: string; title: string; sub?: string; node?: string | null;
+  application?: string; docket?: string; examiner?: string; supervisor?: string;
+  artUnits?: string[]; assignee?: string | null; inventor?: string | null;
+  filed?: string | null; published?: string | null; granted?: string | null;
+  expired?: string | null; status?: string; sheets?: unknown;
+  fee?: { finding?: string; lapsed?: string; title?: string } | null;
+  absent?: string[];
+  prosecution?: { date: string; kind: string; label: string; note?: string | null; file?: string | null }[];
+  source?: unknown;
+}
+export interface PatentsFile {
+  patents: Patent[];
+  title?: string; standfirst?: string; eyebrow?: string;
+  findings?: unknown; observables?: unknown; quotes?: unknown;
+  comparison?: unknown; openQuestions?: unknown; drawings?: unknown;
+}
+
+export interface FoiaNodeLink { node: string; questions: number[]; partial: number[]; }
+export interface FoiaRecord {
+  id: string; agency?: string; title?: string; status?: string; sendTo?: string;
+  nodes?: FoiaNodeLink[]; body?: string;
+}
+export interface FoiaFile {
+  requests: FoiaRecord[];
+  byNode: Record<string, FoiaRequest[]>;
+  status?: unknown; letters?: unknown;
+}
+
+/* Per-route chips. `shape: "per-route"` means `byRoute` is authoritative and
+   `suggestions` is the home list repeated for a reader on an older cached copy
+   of the page; a flat file with neither is read as home-only (see analyst/chips). */
+export interface AnalystFile {
+  worker: string;
+  suggestions: string[];
+  shape?: string;
+  byRoute?: Record<string, string[]>;
+}
 
 export interface ClaimRow {
   node: string; label: string; cls: string; cluster: string | null; tier: number;
@@ -139,6 +205,14 @@ export const loadMap = () => get<MapFile>('map.json');
 export const loadAnalyst = () => get<AnalystFile>('analyst.json');
 export const loadNode = (id: string) => get<NodeRecord>('nodes/' + id + '.json');
 export const loadClaims = () => get<ClaimRow[]>('claims.json');
+/* The five below are read only by the analyst's tools today. They go through the
+   same cache as everything else, so a reader who has already opened the timeline
+   does not fetch it twice when the analyst asks about it. */
+export const loadEdges = () => get<EdgeRow[]>('edges.json');
+export const loadTimeline = () => get<TimelineEvent[]>('timeline.json');
+export const loadThreads = () => get<ThreadsFile>('threads.json');
+export const loadPatents = () => get<PatentsFile>('patents.json');
+export const loadFoia = () => get<FoiaFile>('foia.json');
 
 /* Class colour: the data is the authority (index.json carries the class table);
    the token is the fallback so a missing row cannot draw an uncoloured mark. */

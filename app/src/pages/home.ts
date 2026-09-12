@@ -9,10 +9,9 @@ import { h, clear } from '../dom';
 import { searchBox } from '../search';
 import { setTitle } from '../router';
 import {
-  loadIndex, loadHighlights, loadMap, loadAnalyst, clsLetter,
+  loadIndex, loadHighlights, loadMap, clsLetter,
   type BoardIndex, type Highlight, type EntryPath,
 } from '../data';
-import { ask, probeEndpoint, type Turn } from '../analyst';
 
 const n = (x: number) => x.toLocaleString('en-GB');
 
@@ -25,11 +24,10 @@ export async function renderHome(view: HTMLElement): Promise<void> {
   wrap.append(main, side);
   view.append(wrap);
 
-  const [idx, hl, map, an] = await Promise.all([
+  const [idx, hl, map] = await Promise.all([
     loadIndex(),
     loadHighlights().catch(() => ({ flags: [] as Highlight[] })),
     loadMap().catch(() => ({ entryPaths: [] as EntryPath[] })),
-    loadAnalyst().catch(() => ({ worker: '', suggestions: [] as string[] })),
   ]);
 
   const claimTotal = Object.values(idx.counts.claims).reduce((a, b) => a + b, 0);
@@ -110,8 +108,8 @@ export async function renderHome(view: HTMLElement): Promise<void> {
   /* ---- what is on the board -------------------------------------------- */
   side.append(countsPanel(idx, claimTotal));
 
-  /* ---- the analyst ------------------------------------------------------ */
-  side.append(analystPanel(an.suggestions));
+  /* The analyst used to be the second panel in this rail. It is now mounted on
+     every route by main.ts, below the page: analyst/panel.ts. */
 }
 
 function countsPanel(idx: BoardIndex, claimTotal: number): HTMLElement {
@@ -136,70 +134,4 @@ function countsPanel(idx: BoardIndex, claimTotal: number): HTMLElement {
     table,
     h('div', { class: 'faint', style: 'margin-top:8px' }, 'generated ' + (idx.generated || '').slice(0, 10)),
   );
-}
-
-function analystPanel(suggestions: string[]): HTMLElement {
-  const panel = h('section', { class: 'panel analyst' });
-  const status = h('span', { class: 'faint' }, 'answers cite nodes · the only runtime fetch');
-  panel.append(h('div', { class: 'analyst-head' },
-    h('span', { class: 'eyebrow' }, 'Ask the analyst'), status));
-
-  const input = h('input', {
-    type: 'text',
-    placeholder: 'Ask a question about the record…',
-    'aria-label': 'Ask the analyst',
-  });
-  panel.append(input);
-
-  const list = h('div', { class: 'suggest' });
-  const transcript = h('div', { class: 'transcript' });
-  panel.append(list, transcript);
-
-  const turns: Turn[] = [];
-  let busy = false;
-
-  const paint = () => {
-    clear(transcript);
-    for (const t of turns) {
-      transcript.append(h('div', { class: 'turn ' + (t.role === 'you' ? 'you' : '') + (t.err ? ' err' : '') },
-        h('div', { class: 'who' }, t.role === 'you' ? 'YOU' : 'ANALYST'),
-        h('div', { class: 'say' }, t.thinking ? 'thinking…' : t.text),
-      ));
-    }
-  };
-
-  const send = async (q: string) => {
-    if (busy || !q.trim()) return;
-    busy = true;
-    list.hidden = true;
-    turns.push({ role: 'you', text: q });
-    const pending: Turn = { role: 'analyst', text: '', thinking: true };
-    turns.push(pending);
-    paint();
-    const nodeId = (location.hash.match(/^#\/(?:n|report\/n)\/([a-z0-9._-]+)/) || [])[1] || null;
-    const reply = await ask(q, turns.slice(0, -2), nodeId);
-    turns[turns.length - 1] = reply;
-    busy = false;
-    paint();
-  };
-
-  for (const s of suggestions) {
-    list.append(h('button', { type: 'button', onclick: () => void send(s) },
-      h('span', { class: 'faint' }, '›'), h('span', null, s)));
-  }
-
-  input.addEventListener('keydown', (e) => {
-    if ((e as KeyboardEvent).key !== 'Enter') return;
-    const q = input.value;
-    input.value = '';
-    void send(q);
-  });
-
-  void probeEndpoint().then((ep) => {
-    status.textContent = ep
-      ? 'live on this deployment · no key needed'
-      : 'endpoint not reachable from here · the board works by hand';
-  });
-
-  return panel;
 }

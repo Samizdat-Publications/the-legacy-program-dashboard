@@ -11,7 +11,8 @@
   top: var(--bar-h);
   left: 0;
   right: 0;
-  bottom: 0;
+  /* not 0: the analyst dock's collapsed strip lives there on every route */
+  bottom: var(--dock-h);
   overflow: hidden;
   background: var(--bg);
   font-size: var(--fs-label);

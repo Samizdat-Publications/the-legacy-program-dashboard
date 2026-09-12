@@ -10,5 +10,8 @@
   <body>
     <div id="frame"></div>
     <main id="view" tabindex="-1"></main>
+    <!-- The analyst. Its own host, because main.ts clears #view on every route
+         and the transcript is the reader's, not the page's. -->
+    <div id="analyst"></div>
   </body>
 </html>

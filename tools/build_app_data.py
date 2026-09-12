@@ -64,10 +64,17 @@ PATENTS_VIEW = "research/patents-view.json"
 OBSERVABLES_VIEW = "research/observables-view.json"
 THREADS = "research/threads.json"
 DRAWINGS = "research/patents/drawings"
-DASHBOARD = "tools/build_dashboard.py"
+SUGGESTIONS = "data/analyst-suggestions.json"
 
 INPUTS = [BOARD, L0_MODEL, L0_LAYOUT, L0_HIGHLIGHTS, L0_SHORTS, FOIA_LINKS,
-          PATENTS_VIEW, OBSERVABLES_VIEW]
+          PATENTS_VIEW, OBSERVABLES_VIEW, SUGGESTIONS]
+
+# The analyst's chips, one list per route kind.  app/src/analyst/chips.ts maps
+# route kinds onto these nine keys and nothing else, so a key added here that
+# the page does not know is a key nothing renders.
+ANALYST_KEYS = ["home", "node", "map", "hood", "thread",
+                "timeline", "patents", "evidence", "report"]
+ANALYST_MIN = 3
 
 ANALYST_WORKER = "https://the-program-analyst.stewartgregerson.workers.dev"
 
@@ -721,23 +728,47 @@ def foia_json(s, meta):
 
 
 def analyst_json(s, meta):
-    txt = open(os.path.join(ROOT, DASHBOARD), encoding="utf-8").read()
-    # build_dashboard.py mentions the marker twice: once as the index() call that
-    # locates it in the old shell, once as the literal it splices in.  Only the
-    # literal is followed by a newline, so take that one.
-    m = re.search(r"const SUGGESTIONS = \[\n", txt)
-    if not m:
-        raise SystemExit("no SUGGESTIONS literal in %s" % DASHBOARD)
-    a = m.start()
-    b = txt.index("];", a)
-    body = txt[m.end():b]
-    sugg = [m.group(1).replace("\\'", "'")
-            for m in re.finditer(r"'((?:[^'\\]|\\.)*)'", body)]
-    if len(sugg) != 7:
-        raise SystemExit("expected 7 analyst suggestions in %s, parsed %d"
-                         % (DASHBOARD, len(sugg)))
-    return {"generated": meta["generated"], "source": meta["source"],
-            "suggestions": sugg, "worker": ANALYST_WORKER}
+    """The chips, per route kind, from data/analyst-suggestions.json.
+
+    Until 11 September 2026 this scraped a SUGGESTIONS literal out of
+    tools/build_dashboard.py, which meant the shipped app's analyst chips were
+    a by-product of the OLD shell and could not be changed without editing a
+    renderer that is being retired.  They are data now.
+
+    `shape` tells the page that `byRoute` is authoritative.  `suggestions` is
+    still written, as the home list, so a reader holding a cached copy of an
+    older page gets the home chips rather than none.
+    """
+    del s
+    path = os.path.join(ROOT, SUGGESTIONS)
+    try:
+        raw = json.load(open(path, encoding="utf-8"))
+    except Exception as e:                                  # noqa: BLE001
+        raise SystemExit("%s could not be read: %s" % (SUGGESTIONS, e))
+
+    by_route = {}
+    for key in ANALYST_KEYS:
+        got = raw.get(key)
+        if not isinstance(got, list):
+            raise SystemExit("%s has no list for the route key %r" % (SUGGESTIONS, key))
+        chips = [c for c in got if isinstance(c, str) and c.strip()]
+        if len(chips) != len(got):
+            raise SystemExit("%s: every chip under %r must be a non-empty string"
+                             % (SUGGESTIONS, key))
+        if len(chips) < ANALYST_MIN:
+            raise SystemExit("%s: %r has %d chips, the floor is %d"
+                             % (SUGGESTIONS, key, len(chips), ANALYST_MIN))
+        by_route[key] = chips
+
+    unknown = [k for k in raw
+               if not k.startswith("_") and k not in ANALYST_KEYS]
+    if unknown:
+        raise SystemExit("%s carries route keys the app does not render: %s"
+                         % (SUGGESTIONS, ", ".join(sorted(unknown))))
+
+    return {"byRoute": by_route, "generated": meta["generated"],
+            "shape": "per-route", "source": meta["source"],
+            "suggestions": by_route["home"], "worker": ANALYST_WORKER}
 
 
 def threads_json(s, meta):

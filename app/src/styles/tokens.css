@@ -107,4 +107,10 @@
 
   /* ---- frame ----------------------------------------------------------- */
   --bar-h: 40px;
+  /* The analyst dock's COLLAPSED height. It is reserved across the whole app so
+     the dock never covers anything: #view pads for it, and the two pages that
+     take the viewport (map, neighbourhood) stop short of it. Opening the dock
+     OVERLAYS rather than changing this, because a map that re-lays-out every
+     time somebody opens the analyst is a map that moves under the reader. */
+  --dock-h: 30px;
 }

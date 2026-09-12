@@ -174,6 +174,13 @@ what makes the whole scheme possible.
 
 ## 2. The worker, and the API key
 
+> **THE WORKER MUST BE REDEPLOYED AFTER 11 SEPTEMBER 2026.** The analyst gained
+> twelve tools that day and the worker is where their names are pinned. Until it
+> is redeployed the app will say so in plain words rather than answering: "The
+> analyst service is running tool set none (a service deployed before the tools
+> existed) and this page is built for 2026-09-11.1." The block below is the
+> redeploy, and the secret survives it.
+
 **Deploy the worker before putting the secret.** A secret cannot be attached to a
 worker that does not exist yet.
 
@@ -206,9 +213,18 @@ deployment. No key needed." Anything else and it keeps the scripted replies.
 ## 3. What the worker will and will not do
 
 It pins the model, the token ceiling, the effort and the history depth **server
-side**. The client sends only the system prompt and the conversation. This matters
-because the URL is public and the tokens are yours: a proxy that forwarded `model`
-and `max_tokens` from the request body would be an open account.
+side**. The client sends the system prompt, the conversation and the tool
+definitions. This matters because the URL is public and the tokens are yours: a
+proxy that forwarded `model` and `max_tokens` from the request body would be an
+open account.
+
+**The tools run in the reader's browser, not here.** `app/src/analyst/tools.ts`
+defines twelve of them and executes them against the same `/data` files the pages
+read, so the worker still holds no copy of the board and executes nothing. What
+the worker does is pin the twelve NAMES: a caller cannot define a tool of their
+own, so this stays a board endpoint rather than a general agent proxy. Both files
+carry the same `TOOLS_VERSION` and the page refuses to ask a question if the two
+disagree, which is why a code change on one side means a deploy on both.
 
 **The rate limit is in code, since 1 September 2026.** `worker/wrangler.toml` declares
 an `ANALYST_LIMITER` binding at 20 requests per minute per IP, and `src/index.ts`
@@ -220,8 +236,11 @@ third-party page can no longer spend the account from its visitors' browsers.
 Both need a `npx wrangler deploy` from `worker\` to take effect; the secret survives
 a redeploy.
 
-## 4. A reader's own key still wins
+## 4. Bring your own key
 
-If someone has set their own key in the board's settings, the board uses it and
-never touches the worker. That is deliberate: it is their key and their choice, and
-it keeps the offline file behaving exactly as it always has.
+The worker accepts an `x-analyst-key` header. When one is sent, that key is used
+instead of the account secret and the rate limits are skipped, because the caller
+is spending their own money. The model, the effort and every ceiling stay pinned
+either way, and the key is never logged and never stored. The shipped app does
+not send one today; the path exists so the board can be made public on a
+bring-your-own-key footing without another worker change.

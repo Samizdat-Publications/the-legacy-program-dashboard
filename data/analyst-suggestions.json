@@ -1,0 +1,60 @@
+{
+  "_note": "The analyst's suggestion chips, one list per route kind. Edited only through Stewart's decisions, shown to him as a table in chat first. tools/build_app_data.py reads this file and fails the build if a key is missing or has fewer than three strings. Every figure quoted in a chip was re-derived from the data on 11 September 2026; if a research pass moves a count, the chip that quotes it has to move with it.",
+  "_keys": "home node map hood thread timeline patents evidence report. Route kinds map on: node-map and thread-map use map, node-hood uses hood, both report kinds use report, notfound uses home.",
+  "home": [
+    "Where should I start?",
+    "Follow the money: who paid, and where does the trail stop?",
+    "Which claims would collapse first under a hostile audit?",
+    "Give me the ten strongest Tier 1 claims on the board and the document behind each.",
+    "What does this board actually establish, and what does it only allege?"
+  ],
+  "node": [
+    "What are this node's Tier 1 claims, and which one is weakest?",
+    "Who denies this node, and on what grounds?",
+    "Trace the shortest sourced chain from this node to AAWSAP.",
+    "What is on the timeline for this node, and what is missing from it?",
+    "If I could check one claim on this node against a primary document, which one should it be?"
+  ],
+  "map": [
+    "The map has seven bands. Which is thinnest on Tier 1 evidence, not just on node count?",
+    "What changed between the 2000 to 2016 AAWSAP era and the 2017 to 2026 post-disclosure era?",
+    "Only 137 of 1,057 nodes are on this map. What is the strongest node that is not?",
+    "Which cell on this grid carries the most denials?"
+  ],
+  "hood": [
+    "Which neighbour here shares the most connection types with the node in view?",
+    "Which of these neighbours is Tier A on proximity but carries only Tier 3 claims?",
+    "Which edge in this ring rests on the weakest source?",
+    "What connects these neighbours to each other rather than to the node in the middle?"
+  ],
+  "thread": [
+    "How did AAWSAP become AATIP, and then KONA BLUE?",
+    "Trace the custody chain from Grusch back to a named contractor",
+    "This thread is one of eight. Which of its steps rests on a single source?",
+    "The denials thread is eight steps, every join a denial edge. Does the record support all eight?"
+  ],
+  "timeline": [
+    "What did the Nimitz pilots see in 2004, and what has the government confirmed?",
+    "913 events are on the timeline. Which year is densest, and why?",
+    "What is on the record between the 1947 retrievals and the close of Blue Book in 1969?",
+    "Which years carry events in both the oversight strand and the coverup strand?"
+  ],
+  "patents": [
+    "US 10,135,366 lapsed for maintenance on 26 December 2022. Who let it lapse, and does the board say why?",
+    "Docket PAX 182, examiner Thomas M. Dougherty. What does the prosecution history show?",
+    "Two of the five are applications, not grants. What happened to US 2019/0295733?",
+    "What does the board record as absent from these patent files?"
+  ],
+  "evidence": [
+    "Show me every entity the government has formally denied",
+    "Filter to Tier 3 and tell me which of those 514 claims is load bearing anywhere.",
+    "Show me claims that are open questions on nodes with a drafted FOIA request.",
+    "Which source domain carries the most claims, and how many of those are Tier 1?"
+  ],
+  "report": [
+    "Summarise this report in five sentences a journalist could check.",
+    "What in this report would not survive a hostile audit?",
+    "List every source cited here that is a primary document.",
+    "What would somebody have to find to make this report wrong?"
+  ]
+}

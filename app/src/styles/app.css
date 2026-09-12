@@ -154,7 +154,7 @@ h1, h2, h3 { margin: 0; font-weight: 600; }
 /* =====================================================================
    Page scaffolding
    ===================================================================== */
-#view { display: block; padding: calc(var(--bar-h) + 12px) 16px 40px; }
+#view { display: block; padding: calc(var(--bar-h) + 12px) 16px calc(40px + var(--dock-h)); }
 #view:focus { outline: none; }
 
 .eyebrow { color: var(--dim); letter-spacing: 0.09em; text-transform: uppercase; }
@@ -235,20 +235,84 @@ h1, h2, h3 { margin: 0; font-weight: 600; }
 .counts td.n { text-align: right; padding-right: 10px; white-space: nowrap; font-weight: 600; }
 .counts td.k { color: var(--dim); }
 
-.analyst { padding: 10px 12px; display: grid; gap: 8px; }
-.analyst-head { display: flex; align-items: baseline; justify-content: space-between; gap: 10px; }
-.analyst-head .eyebrow { white-space: nowrap; }
-.analyst-head .faint { text-align: right; }
-.analyst input {
-  width: 100%;
+/* =====================================================================
+   The analyst dock. Fixed to the bottom on every route, because two of
+   the ten pages take the whole viewport (the map is position:fixed, the
+   neighbourhood is 100vh) and a panel in normal flow is invisible on
+   both. analyst/panel.ts.
+
+   Collapsed it is one --dock-h strip, and that strip is reserved by
+   #view, .map-root and .hood so it covers nothing. Open, it overlays:
+   the reserved height never changes, so the map never re-lays-out under
+   a reader who opened the analyst.
+   ===================================================================== */
+#analyst {
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 30;                 /* under the bar, which is 40 */
+  display: flex;
+  flex-direction: column;
   background: var(--bg2);
+  border-top: 1px solid var(--line);
+  max-height: 100vh;
+}
+
+/* the strip. A button, because its whole job is to open and close. */
+.an-bar {
+  flex: 0 0 auto;
+  height: var(--dock-h);
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 0 12px;
+  text-align: left;
+  width: 100%;
+  color: var(--dim);
+  border-bottom: 1px solid transparent;
+}
+.an-bar:hover { background: var(--panel); color: var(--text); }
+.an-bar:focus-visible { outline: 1px solid var(--cyan); outline-offset: -2px; }
+.an-bar .eyebrow { white-space: nowrap; }
+.an-bar .an-where { color: var(--dim); white-space: nowrap; overflow: hidden; }
+.an-bar .an-status { margin-left: auto; white-space: nowrap; }
+.an-bar .an-chev { color: var(--cyan); flex: 0 0 auto; }
+
+.an-body {
+  flex: 1 1 auto;
+  min-height: 0;
+  display: grid;
+  gap: 8px;
+  padding: 10px 12px 12px;
+  border-top: 1px solid var(--line);
+  overflow-y: auto;
+  max-height: 62vh;
+}
+#analyst[data-open='0'] .an-body { display: none; }
+
+.an-row { display: flex; gap: 8px; align-items: center; }
+.an-row input {
+  flex: 1 1 auto;
+  min-width: 0;
+  background: var(--bg);
   border: 1px solid var(--line);
   color: var(--text);
   padding: 6px 10px;
   outline: none;
 }
-.analyst input:focus { border-color: var(--cyan); }
-.suggest { display: grid; gap: 6px; }
+.an-row input:focus { border-color: var(--cyan); }
+.an-row input:disabled { color: var(--faint); }
+.an-clear {
+  flex: 0 0 auto;
+  border: 1px solid var(--line2);
+  color: var(--faint);
+  padding: 5px 10px;
+  letter-spacing: 0.08em;
+}
+.an-clear:hover { color: var(--text); }
+
+.suggest { display: grid; gap: 6px; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); }
 .suggest button {
   text-align: left;
   border: 1px dashed var(--line2);
@@ -257,14 +321,26 @@ h1, h2, h3 { margin: 0; font-weight: 600; }
   display: grid;
   grid-template-columns: 10px 1fr;
   gap: 6px;
+  align-items: start;
 }
 .suggest button:hover { color: var(--text); border-color: var(--cyan); }
+
 .transcript { display: grid; gap: 10px; }
+.transcript:empty { display: none; }
 .turn { border-left: 2px solid var(--line2); padding-left: 10px; }
 .turn.you { border-left-color: var(--cyan); }
 .turn.err { border-left-color: var(--red); }
 .turn .who { color: var(--faint); letter-spacing: 0.08em; }
 .turn .say { white-space: pre-wrap; font-size: var(--fs-body); }
+.turn .say code { color: var(--amber); }
+/* what the analyst went and read, before it answered */
+.turn .steps { color: var(--faint); margin: 2px 0 6px; }
+.turn .steps div { white-space: pre-wrap; }
+.turn .usage { margin-top: 6px; }
+/* a node id the analyst cited. A link when the board carries it, marked when
+   it does not: analyst/client.ts checkCitedIds. */
+.cited { color: var(--cyan); }
+.cited.bad { color: var(--red); text-decoration: line-through; }
 
 /* =====================================================================
    Node page
@@ -410,6 +486,9 @@ h1.node-h1 { font-size: var(--fs-h1); font-weight: 600; letter-spacing: -0.01em;
 @media print {
   .bar { display: none; }
   #view { padding: 0; }
+  /* the analyst is a conversation, not part of the printed report */
+  #analyst { display: none; }
+  .hood { height: auto; }
   body { background: var(--paper); }
   .report { width: 100%; padding: 0; min-height: 0; }
   .report .rconns { columns: 2; }

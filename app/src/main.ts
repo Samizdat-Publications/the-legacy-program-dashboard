@@ -18,9 +18,11 @@ import { mapPage } from './pages/map';
 import { renderNodeReport, renderThreadReport } from './pages/report';
 import { notFound } from './pages/notfound';
 import { h, clear } from './dom';
+import { mountAnalyst, refreshAnalyst } from './analyst/panel';
 
 const frameHost = document.getElementById('frame') as HTMLElement;
 const view = document.getElementById('view') as HTMLElement;
+const analystHost = document.getElementById('analyst') as HTMLElement;
 
 let ready: Promise<void> | null = null;
 function boot(): Promise<void> {
@@ -72,11 +74,16 @@ async function dispatch(r: Route): Promise<void> {
    and its hashchange listener has to run before the router's. */
 initHistory();
 
+/* The analyst is painted once and re-chipped per route, so it is mounted before
+   the first dispatch and never again. */
+mountAnalyst(analystHost);
+
 startRouter(async (r) => {
   window.scrollTo(0, 0);
   await dispatch(r);
   noteHere();
   refreshFrameBack();
+  void refreshAnalyst(r);
 });
 
 /* `/` focuses the search field, as the Home hint says it does. */

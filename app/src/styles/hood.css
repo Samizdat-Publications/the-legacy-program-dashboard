@@ -7,9 +7,10 @@
 
 .hood {
   position: relative;
-  margin: calc(-1 * (var(--bar-h) + 12px)) -16px -40px;
+  margin: calc(-1 * (var(--bar-h) + 12px)) -16px calc(-1 * (40px + var(--dock-h)));
   padding-top: var(--bar-h);
-  height: 100vh;
+  /* short of the viewport by the analyst dock's collapsed strip */
+  height: calc(100vh - var(--dock-h));
   display: flex;
   flex-direction: column;
   overflow: hidden;
