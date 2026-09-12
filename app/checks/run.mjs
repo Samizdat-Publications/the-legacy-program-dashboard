@@ -319,6 +319,24 @@ const IN_PAGE = {
     };
   },
 
+  /* Drive every analyst tool and bring back what it answered. The tools draw
+     nothing, so there is no DOM to read; window.__app.analyst.run is a pure
+     function of the /data files and C19 re-derives every figure it checks. */
+  /* An arrow, not a shorthand method like its neighbours, and passed to
+     page.evaluate directly rather than through the `(function ${...})` template
+     the rest of this file uses: an async shorthand stringifies as
+     `async tools(calls){...}`, which that template turns into a syntax error. */
+  tools: async (calls) => {
+    const a = (window.__app || {}).analyst;
+    if (!a) return { present: false };
+    const out = {};
+    for (const [key, name, args] of calls) {
+      try { out[key] = await a.run(name, args); }
+      catch (e) { out[key] = 'THREW: ' + (e && e.message ? e.message : String(e)); }
+    }
+    return { present: true, version: a.version, names: a.names, out };
+  },
+
   /* the chips as drawn, and the health line */
   chips() {
     const host = document.getElementById('analyst');
@@ -526,6 +544,24 @@ const POISONS = {
       chips.forEach((el, i) => { if (home[i % home.length]) el.textContent = home[i % home.length]; });
     }),
   },
+  c19: {
+    stops: ['tools'],
+    what: 'makes the page fetch a short timeline.json, so the tools answer from 100 fewer events than the board has',
+    fn: async (page) => page.evaluate(() => {
+      /* the page's OWN fetch, patched before any tool has run and therefore
+         before data.ts has cached anything: the tools then read a real
+         response that is genuinely 100 events short */
+      const real = window.fetch;
+      window.fetch = async (input, init) => {
+        const url = String(typeof input === 'string' ? input : input.url || '');
+        const r = await real(input, init);
+        if (!/timeline\.json/.test(url)) return r;
+        const rows = await r.clone().json();
+        return new Response(JSON.stringify(rows.slice(0, Math.max(0, rows.length - 100))),
+          { status: 200, headers: { 'content-type': 'application/json' } });
+      };
+    }),
+  },
 };
 
 /* ---- the run ------------------------------------------------------------ */
@@ -542,13 +578,16 @@ async function main() {
     if (!r.ok) throw new Error(p + ' -> HTTP ' + r.status);
     return r.json();
   };
-  let index, mapData, edges, threadsFile, highlights, tlEvents, focusRec, patentsFile, analystFile;
+  let index, mapData, edges, threadsFile, highlights, tlEvents, focusRec, patentsFile, analystFile,
+      claimRows, foiaFile;
   try {
-    [index, mapData, edges, threadsFile, highlights, tlEvents, focusRec, patentsFile, analystFile] =
+    [index, mapData, edges, threadsFile, highlights, tlEvents, focusRec, patentsFile, analystFile,
+     claimRows, foiaFile] =
       await Promise.all([
         jget('data/index.json'), jget('data/map.json'), jget('data/edges.json'),
         jget('data/threads.json'), jget('data/highlights.json'), jget('data/timeline.json'),
         jget('data/nodes/' + NODE_FOCUS + '.json'), jget('data/patents.json'), jget('data/analyst.json'),
+        jget('data/claims.json'), jget('data/foia.json'),
       ]);
   } catch (e) {
     console.error('HARNESS: the app is not being served at ' + APP + ' (' + e.message + ').');
@@ -714,6 +753,70 @@ async function main() {
       await poisonAt(p, 'chips');
       const read = await p.evaluate(`(function ${IN_PAGE.chips})()`);
       CH.push({ key, hash, strip, ...read });
+      await p.close();
+    }
+  }
+
+  /* ---- C19's tool drive -------------------------------------------------- */
+  /* The twelve analyst tools are its whole reach over the board and they draw
+     nothing, so C18's DOM reading cannot see whether one of them is answering
+     from the data or from nowhere. This drives each one on a cold page and
+     compares what it said with a figure derived here, in this file, from the
+     same JSON the browser is reading. */
+  let TOOLS = { present: false };
+  {
+    /* two nodes the sourced edge list joins directly, and one pair it does not
+       join at all, both derived rather than written down */
+    const firstEdge = edges[0];
+    const pairA = firstEdge.a, pairB = firstEdge.b;
+    const noJoin = index.nodes.map((n) => n.id).find((id) => id !== pairA && !joined(pairA, id)) || 'no-such-node';
+    const CALLS = [
+      ['all', 'nodes', { count_only: true }],
+      ['people', 'nodes', { cls: 'person', count_only: true }],
+      ['onmap', 'nodes', { on_map: true, count_only: true }],
+      ['byband', 'nodes', { on_map: true, group_by: 'band' }],
+      ['claims', 'claims', { count_only: true }],
+      ['t1', 'claims', { tier: 1, count_only: true }],
+      ['tl', 'timeline', { count_only: true }],
+      ['tl2004', 'timeline', { from: '2004', to: '2004', count_only: true }],
+      ['edges', 'edges', { count_only: true }],
+      ['edgesof', 'edges', { node: NODE_FOCUS, count_only: true }],
+      ['path1', 'path', { from: pairA, to: pairB }],
+      ['path0', 'path', { from: pairA, to: noJoin, max_hops: 1 }],
+      ['find', 'find', { query: NODE_FOCUS, limit: 5 }],
+      ['node', 'node', { ids: [NODE_FOCUS], sections: ['dossier'] }],
+      ['threads', 'thread', {}],
+      ['patents', 'patent', {}],
+      ['foia', 'foia', {}],
+      ['map', 'map', {}],
+      ['overview', 'overview', {}],
+      ['bogus', 'node', { ids: ['ghost-node-not-on-the-board'] }],
+    ];
+    const driveTools = !POISON || POISON === 'c19';
+    if (driveTools) {
+      const p = await browser.newPage({ viewport: { width: 1920, height: 1080 } });
+      p.on('request', (r) => requests.push(r.url()));
+      p.on('pageerror', (e) => pageErrors.push(e.message.slice(0, 160)));
+      await p.goto(APP + '#/', { waitUntil: 'load' });
+      await p.waitForTimeout(1500);
+      await poisonAt(p, 'tools');       /* before any tool has run, so nothing is cached yet */
+      TOOLS = await p.evaluate(IN_PAGE.tools, CALLS);
+      TOOLS.want = {
+        all: index.nodes.length,
+        people: index.nodes.filter((n) => n.cls === 'person').length,
+        onmap: index.nodes.filter((n) => n.l0).length,
+        claims: claimRows.length,
+        t1: claimRows.filter((c) => c.tier === 1).length,
+        tl: tlEvents.length,
+        tl2004: tlEvents.filter((e) => e.date.slice(0, 4) === '2004').length,
+        edges: edges.length,
+        edgesof: edges.filter((e) => e.a === NODE_FOCUS || e.b === NODE_FOCUS).length,
+        bands: Object.fromEntries(index.bands.map((b) => [b.id, index.nodes.filter((n) => n.l0 && n.band === b.id).length])),
+        threadIds: threads.map((t) => t.id),
+        patentNums: (patentsFile.patents || []).map((x) => String(x.number)),
+        foia: (foiaFile.requests || []).length,
+        pairA, pairB, noJoin,
+      };
       await p.close();
     }
   }
@@ -1249,6 +1352,95 @@ async function main() {
       const okState = states.size === 1 && (states.has(LIVE) || states.has(DEAD));
       check('c18', okState, 'C18 the health line reads live, or reads the unreachable line',
         [...states].map((x) => '"' + x + '"').join(' / ') || '(no health line)');
+    }
+  }
+
+  /* ---- C19 -------------------------------------------------------------- */
+  /* Every figure on the right of these comparisons is derived in this file from
+     the same JSON the browser is reading. None is written down. */
+  {
+    if (!TOOLS.present) {
+      if (POISON && POISON !== 'c19') skip('C19 the analyst tools answer from the board', 'poison ' + POISON + ' does not drive them');
+      else check('c19', false, 'C19 window.__app.analyst is published', 'the probe is not on the page');
+    } else {
+      const o = TOOLS.out, w = TOOLS.want;
+      const head1 = (k) => ((o[k] || '').split('\n')[0] || '').slice(0, 120);
+      /* a count printed by a tool: "NODES matching — 311 of 1,057" */
+      const said = (key) => {
+        const m = /\u2014\s*([0-9,]+)\s+of\s+([0-9,]+)/.exec(o[key] || '');
+        return m ? Number(m[1].replace(/,/g, '')) : NaN;
+      };
+
+      check('c19', TOOLS.names.length === 12, 'C19 the page publishes all twelve tools',
+        TOOLS.names.length + ' at version ' + TOOLS.version + ': ' + TOOLS.names.join(' '));
+
+      const threw = Object.entries(o).filter(([, v]) => /^THREW: /.test(String(v))).map(([k, v]) => k + ' ' + v);
+      check('c19', threw.length === 0, 'C19 no tool throws on a real call',
+        threw.length ? clip(threw, 3) : Object.keys(o).length + ' calls over all twelve tools, none threw');
+
+      const empty = Object.entries(o).filter(([, v]) => !String(v).trim()).map(([k]) => k);
+      check('c19', empty.length === 0, 'C19 no tool answers with nothing',
+        empty.length ? empty.join(', ') : 'every call returned text');
+
+      const counts = [
+        ['every node', 'all', w.all],
+        ['people', 'people', w.people],
+        ['nodes on the program map', 'onmap', w.onmap],
+        ['claims', 'claims', w.claims],
+        ['Tier 1 claims', 't1', w.t1],
+        ['timeline events', 'tl', w.tl],
+        ['events dated 2004', 'tl2004', w.tl2004],
+        ['sourced edges', 'edges', w.edges],
+        ['edges touching ' + NODE_FOCUS, 'edgesof', w.edgesof],
+      ];
+      const off = counts.filter(([, k, want]) => said(k) !== want)
+        .map(([label, k, want]) => label + ': tool says ' + said(k) + ', the data has ' + want);
+      check('c19', off.length === 0, 'C19 every count a tool prints re-derives from the data file',
+        off.length ? off.length + ' of ' + counts.length + ' wrong \u2014 ' + clip(off, 3)
+          : counts.map(([label, k]) => label + ' ' + said(k)).join(' \u00b7 '));
+
+      /* grouping: every band's own total, read back out of the tool's table.
+         A regex LITERAL, not a string-built RegExp: the string form lost its
+         escapes on the way into this file and matched nothing, which read as
+         all seven bands wrong. */
+      const bandSaid = {};
+      for (const row of String(o.byband || '').split(/\r?\n/)) {
+        const m = /^\s+(\d+)\s\s(\S.*)$/.exec(row);
+        if (m) bandSaid[m[2].trim()] = Number(m[1]);
+      }
+      const bandOff = Object.entries(w.bands)
+        .filter(([id, n]) => bandSaid[id] !== n)
+        .map(([id, n]) => id + ': tool says ' + bandSaid[id] + ', the index has ' + n);
+      check('c19', bandOff.length === 0, "C19 group_by band totals are the map bands' own memberships",
+        bandOff.length ? clip(bandOff, 3)
+          : index.bands.length + ' bands: ' + Object.entries(bandSaid).map(([k, v]) => k + ' ' + v).join(' \u00b7 '));
+
+      check('c19', /\bPATH\b/.test(o.path1 || '') && /1 hop/.test(o.path1 || ''),
+        'C19 path finds the one-hop chain the edge list carries',
+        w.pairA + ' -> ' + w.pairB + ': ' + head1('path1'));
+      check('c19', /does not join them/.test(o.path0 || ''),
+        'C19 path says so rather than inventing one when the board joins nothing',
+        w.pairA + ' -> ' + w.noJoin + ' at one hop: ' + head1('path0'));
+
+      check('c19', (o.find || '').includes(NODE_FOCUS) && /FIND/.test(o.find || ''),
+        'C19 find reaches a node the board carries', head1('find'));
+      check('c19', (o.node || '').includes(focusRec.label),
+        'C19 node returns the record, by its own label', head1('node'));
+      check('c19', /no such node/.test(o.bogus || ''),
+        'C19 node says so rather than inventing one for an id the board does not carry', head1('bogus'));
+
+      const missThread = w.threadIds.filter((id) => !(o.threads || '').includes(id));
+      check('c19', missThread.length === 0, 'C19 thread names every thread threads.json carries',
+        missThread.length ? 'missing ' + missThread.join(', ') : w.threadIds.join(' '));
+      const missPat = w.patentNums.filter((n) => !(o.patents || '').includes(n));
+      check('c19', missPat.length === 0, 'C19 patent names every patent patents.json carries',
+        missPat.length ? 'missing ' + missPat.join(', ') : w.patentNums.join(' \u00b7 '));
+      check('c19', (o.foia || '').includes(w.foia + ' drafted requests'),
+        'C19 foia reports the drafted requests foia.json carries',
+        w.foia + ' expected :: ' + head1('foia'));
+      check('c19', (o.overview || '').includes('nodes ' + w.all) && (o.overview || '').includes('timeline events ' + w.tl),
+        "C19 overview reports the board's own counts",
+        'nodes ' + w.all + ', timeline events ' + w.tl);
     }
   }
 

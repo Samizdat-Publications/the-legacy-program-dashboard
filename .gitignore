@@ -38,3 +38,6 @@ app/node_modules/
 app/dist/
 app/shots/
 app/.vite/
+
+# worker/test/validate.mjs bundles the worker here so the SDK resolves
+worker/.validate-build.mjs

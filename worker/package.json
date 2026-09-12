@@ -5,13 +5,15 @@
   "scripts": {
     "deploy": "wrangler deploy",
     "dev": "wrangler dev",
-    "typecheck": "tsc --noEmit"
+    "typecheck": "tsc --noEmit",
+    "test": "node test/validate.mjs"
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.123.0"
   },
   "devDependencies": {
     "@cloudflare/workers-types": "^5.20260831.1",
+    "esbuild": "^0.28.1",
     "typescript": "^5.6.0",
     "wrangler": "^4.0.0"
   }

@@ -95,8 +95,8 @@ const MAX_TOOL_CHARS = 80_000;     // the whole tool catalogue, serialised
    so a caller cannot turn the endpoint into a general agent proxy by defining
    tools of their own. Both files carry TOOLS_VERSION and the page compares them
    against /api/analyst/health before it asks anything. */
-const TOOLS_VERSION = "2026-09-11.1";
-const TOOL_NAMES = new Set([
+export const TOOLS_VERSION = "2026-09-11.1";
+export const TOOL_NAMES = new Set([
   "overview", "find", "nodes", "node", "claims", "timeline",
   "edges", "path", "thread", "patent", "foia", "map",
 ]);
@@ -151,7 +151,7 @@ type Turn = Anthropic.MessageParam;
 
    A thinking block is returned UNTOUCHED. Its signature covers its text, so
    capping it would invalidate it and the API would reject the turn. */
-function cleanBlock(b: unknown, allowed: Set<string>): unknown | null {
+export function cleanBlock(b: unknown, allowed: Set<string>): unknown | null {
   if (!b || typeof b !== "object") return null;
   const o = b as Record<string, unknown>;
   const type = o.type;
@@ -181,7 +181,7 @@ function cleanBlock(b: unknown, allowed: Set<string>): unknown | null {
   return null;
 }
 
-function clean(raw: unknown): Turn[] | null {
+export function clean(raw: unknown): Turn[] | null {
   if (!Array.isArray(raw)) return null;
   let slice = raw.slice(-MAX_TURNS);
   /* Slicing can orphan a tool_result whose tool_use is now gone, so drop from
@@ -222,7 +222,7 @@ function clean(raw: unknown): Turn[] | null {
 
 /* The tool catalogue. The names are pinned above; everything else comes from
    the page, because the page is what runs them. */
-function cleanTools(raw: unknown): Anthropic.Tool[] | undefined {
+export function cleanTools(raw: unknown): Anthropic.Tool[] | undefined {
   if (raw == null) return undefined;
   if (!Array.isArray(raw) || !raw.length) return undefined;
   if (JSON.stringify(raw).length > MAX_TOOL_CHARS) return undefined;
@@ -244,7 +244,7 @@ function cleanTools(raw: unknown): Anthropic.Tool[] | undefined {
 /* A string, or an array of text blocks. Only `type: "text"`, only an ephemeral
    cache_control, and a ceiling on the total -- the client does not get to
    choose what else goes in a system block. */
-function cleanSystem(raw: unknown): Anthropic.TextBlockParam[] | undefined {
+export function cleanSystem(raw: unknown): Anthropic.TextBlockParam[] | undefined {
   if (typeof raw === "string") {
     return raw.trim() ? [{ type: "text", text: raw.slice(0, MAX_SYSTEM_CHARS) }] : undefined;
   }

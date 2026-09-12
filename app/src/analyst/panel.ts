@@ -15,6 +15,7 @@ import { currentRoute, type Route } from '../router';
 import { ask, probeEndpoint, resetConversation, checkCitedIds, type Turn } from './client';
 import { chipsFor, chipKey } from './chips';
 import { stateSummary } from './state';
+import { TOOLS, TOOLS_VERSION, runTool } from './tools';
 
 let host: HTMLElement | null = null;
 let listEl: HTMLElement | null = null;
@@ -217,3 +218,20 @@ export async function refreshAnalyst(r: Route): Promise<void> {
 }
 
 export function analystIsLive(): boolean | null { return live; }
+
+/* A probe, on the pattern of window.__app.map and window.__app.timeline. The
+   twelve tools are the analyst's whole reach over the board and they draw
+   nothing, so nothing in the DOM can be read to tell whether one of them is
+   answering correctly. This is the channel the gate uses instead: C19 drives
+   each tool and compares its answer with one it derives from the same data
+   file itself. It exposes no state the page keeps; runTool is a pure function
+   of the /data files. */
+{
+  const w = window as unknown as { __app?: Record<string, unknown> };
+  w.__app = w.__app || {};
+  (w.__app as Record<string, unknown>).analyst = {
+    version: TOOLS_VERSION,
+    names: TOOLS.map((t) => t.name),
+    run: (name: string, args: Record<string, unknown>) => runTool(name, args),
+  };
+}

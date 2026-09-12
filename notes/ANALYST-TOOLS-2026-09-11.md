@@ -37,7 +37,9 @@ I would ask here". A session in this repo can grep, count and open files.
 | The dock | `app/src/analyst/panel.ts`. Fixed to the foot of the window on every route, one 30px strip closed, overlaying up to 62vh open |
 | The chips | `data/analyst-suggestions.json`, nine keys, 38 chips. `tools/build_app_data.py` reads it and fails the build on a missing key or fewer than three |
 | The guard | Any node id the analyst writes in backticks is checked against the index. A real one becomes a link to that node; one the board does not carry is struck through and named. It flags, it never edits |
-| Check C18 | Seven assertions over nine route kinds, with a poison |
+| Check C18 | The dock and its chips: seven assertions over nine route kinds, with a poison |
+| Check C19 | The twelve tools themselves: nineteen assertions, every figure re-derived in the check from the same JSON the browser is reading, with a poison |
+| The Worker's validators | `worker/test/validate.mjs`, 19 assertions. Every accepted shape paired with one that must be refused |
 
 ### Why the analyst is a dock and not a panel below the page
 
@@ -104,9 +106,25 @@ The secret survives a redeploy.
 | | |
 |---|---|
 | `npm --prefix app run build` | green |
-| `node app/checks/run.mjs` | 60 passed, 0 failed |
-| `POISON=c18 node app/checks/run.mjs` | POISON c18 SEEN, 2 of its assertions failed |
+| `node app/checks/run.mjs` | 74 passed, 0 failed |
+| `POISON=c18 node app/checks/run.mjs` | POISON c18 SEEN |
+| `POISON=c19 node app/checks/run.mjs` | POISON c19 SEEN |
+| `node worker/test/validate.mjs` | 19 passed, 0 failed |
 | `python tools/build_app_data.py --check` | every count re-derives |
+
+**C19 is the one that matters most**, and it exists because C18 cannot see it.
+The tools draw nothing, so there is no DOM that says whether `claims` is
+counting or guessing. So `window.__app.analyst` publishes them, on the pattern of
+`window.__app.map` and `window.__app.timeline`, and C19 drives all twelve on a
+cold page and compares every figure they print with one it derives itself from
+the same JSON: 1,057 nodes, 311 people, 137 on the map, 5,303 claims, 3,367 at
+Tier 1, 913 timeline events, 10 dated 2004, 2,460 edges, 61 touching AAWSAP,
+seven band totals, eight thread ids, five patent numbers, 17 FOIA requests. It
+also asserts the two refusals that keep the analyst honest: `path` says the
+board does not join two nodes rather than inventing a chain, and `node` says an
+id is not on the board rather than inventing a record. Its poison makes the page
+fetch a `timeline.json` that is 100 events short, so the tools answer from real
+but corrupted data.
 
 C18's own first cut was wrong and the check caught it, which is the fifth or sixth
 instance of section 5 of `CLAUDE.md` in these notes and worth writing down: the
@@ -139,7 +157,7 @@ is what a shared deep link is.
 
 | | |
 |---|---|
-| Nobody has asked it a question yet | The Worker is not redeployed as this note is written, so the loop has run in code review and in the gate but not against the live model. **That is the first thing to do after the deploy**, and the honest state until then is "built, gate green, unverified against the model" |
+| Nobody has asked it a question yet | The Worker is not redeployed as this note is written, so the loop has never round-tripped with the live model. What HAS been exercised: every tool drives against the real data and its answers re-derive (C19), and the Worker's validators accept a real thinking + tool_use + tool_result exchange with the signature intact and refuse ten shapes that must be refused (`worker/test/validate.mjs`). What has NOT: the model choosing which tool to call, and the loop terminating on a real answer. **That is the first thing to do after the deploy.** The honest state until then is "built, gate green, unverified against the model" |
 | A dollar figure | Round counts and token counts are on the page. Turning those into money needs a price table this repo does not have |
 | The chips quote figures | Four of the 38 quote a count (913 events, 137 of 1,057, 514 Tier 3 claims, seven bands). A research pass that moves one of those has to move the chip. Nothing checks that today |
 | Retiring the old shell | `build_app_data.py` no longer scrapes `tools/build_dashboard.py` for the suggestions, which was the dependency item 1 of the 4 September handoff had to clear first. That blocker is gone |

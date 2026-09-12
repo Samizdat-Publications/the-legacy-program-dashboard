@@ -227,6 +227,18 @@ jobs:
         # is accepted.
         run: python3 tools/build_app_data.py --self-test
 
+      - name: The analyst Worker's validators
+        # `clean`, `cleanTools` and `cleanSystem` are the only things between a
+        # request and the account's tokens, and a tool exchange is a shape they had
+        # never been fed until 11 September 2026: an assistant turn carrying a signed
+        # thinking block and a tool_use, then a user turn of nothing but tool_result.
+        # A dropped or rewritten block there is a 400 the reader cannot diagnose. The
+        # test pairs every accepted shape with one that must be refused.
+        working-directory: worker
+        run: |
+          npm install --no-save @anthropic-ai/sdk@0.123.0 esbuild@0.28.1
+          node test/validate.mjs
+
       - name: Install Playwright and a browser
         # At the REPO ROOT, deliberately, and pinned to the same version the `gate`
         # job uses. app/checks/run.mjs imports 'playwright' bare and app/node_modules
