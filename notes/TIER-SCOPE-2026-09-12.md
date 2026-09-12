@@ -22,8 +22,9 @@ gave this reason:
 | `pentacle-memorandum` | T2. Source: the same, plus "DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement" |
 
 Both come from one record, `research/ffrdcs.json`, where all three instances of
-this assertion are authored at tier 1 (`.people[7].claims[0]`,
-`.entities[10].claims[1]`, `.entities[13].claims[0]`).
+this assertion are authored at tier 1: `.people[7]` is `howard-c-cross`,
+`.entities[10]` is `battelle`, `.entities[13]` is `pentacle-memorandum`. Two of
+the three survive at Tier 1 on the board and the third does not.
 
 The split happens in `remediate_tiers` in `tools/merge.py`. Read the first two
 lines of its body:
@@ -39,50 +40,68 @@ SP-5110 on NTRS. `pentacle-memorandum` carries none. So the same claim, with the
 same sources, is demoted on the node that has no primary record anywhere and
 survives at Tier 1 on the node that has one for something else.
 
-## 3. How big the class is
+## 3. How big the class is, exactly
 
-Every figure below was derived from `app/public/data/claims.json` on 12 September
-2026, by normalising each claim's source string with the demotion note stripped
-and looking for strings that appear both demoted and still at Tier 1.
+`tools/DEMOTIONS.json` records why every demotion happened, so this needs no
+estimating. 235 claims were demoted in all:
 
-| | |
-|---|---|
-| Source strings demoted on one node and still Tier 1 on another | 26 |
-| Tier 1 claims riding on one of those 26 | 72 |
-| Tier 1 claims in total | 3,367 |
+| ground | claims | claim-scoped? |
+|---|---|---|
+| cited to a secondary or encyclopedic source | 94 | yes, it reads the claim's own source |
+| **node carries no primary-record URL** | **90** | **no. This is the one** |
+| sourced to an interested party asserting an external fact | 50 | yes, and it is CLAUDE.md section 2's AARO rule working |
+| no attributed source | 1 | yes |
 
-**And a large part of that 72 is the rule working correctly, not the artefact.**
-`remediate_tiers` has four separate demotion grounds and only one of them is
-node-scoped. The AARO one is claim-scoped and is doing exactly what CLAUDE.md
-section 2 asks of it: an AARO-sourced claim that says what AARO *said* keeps Tier
-1, and one that asserts an external fact on AARO's word is demoted. That is why
-`aaro-historical-record-vol1` carries both T1 and demoted claims from the same
-PDF, and nothing is wrong with that.
+Of the 90 demoted by the node-scoped ground, the number whose assertion is still
+carried at Tier 1 on another node is **small and nameable**, not 72. The earlier
+figure of 72 counted source strings appearing both demoted and undemoted, which
+mostly catches a document backing both a quotation and an inference. Matching on
+the claim's own wording instead finds two pairs, and the Battelle one makes three
+because its two copies are worded differently and no text match can see it:
 
-So the 72 is an upper bound on the class, not a count of defects. Separating them
-is per-claim judgement, which is why this note stops here.
+| demoted to T2 on | still Tier 1 on | the assertion |
+|---|---|---|
+| `pentacle-memorandum` | `battelle` **and** `howard-c-cross` | the memorandum of 9 January 1953, ref G-1579-4, to Miles E. Goll |
+| `nyt-2017-12-16` | `l-nyc` | the New York Times published "Glowing Auras and Black Money" |
+| `the-roswell-incident-1980` | `william-l-moore` | "The Roswell Incident" by Berlitz and Moore, its publisher and date |
+
+**Four Tier 1 claims**, on three nodes. That is the whole of option B.
 
 ## 4. The decision, for Stewart
 
-Three ways to go, and they are not equal.
-
 | | What it means |
 |---|---|
-| **A. Leave it** | The board keeps one claim at T1 whose own twin says it cannot be T1. The contradiction is visible to any reader who opens both nodes, and the analyst now finds it on request |
-| **B. Fix the instance** | Demote the `battelle` and `h-c-cross` copies of the 1953 memorandum claim to T2 by hand, in `research/ffrdcs.json`, with the same reason. Small, safe, and leaves the rule as it is. T1 3,367 to 3,365 |
-| **C. Fix the rule** | Make the no-primary-record ground claim-scoped rather than node-scoped in `remediate_tiers`. Correct, and it moves an unknown number of the other 71 claims. Needs the gate, the golden manifest and a re-read of what moved |
+| **A. Leave it** | The board keeps four claims at Tier 1 whose own twins say they cannot be. Visible to any reader who opens both nodes, and the analyst now finds it on request |
+| **B. Fix the four** | Demote them in `research/ffrdcs.json` and the two other source files, with the same reason the twin already carries. T1 3,367 to 3,363 |
+| **C. Fix the rule** | Make the no-primary-record ground claim-scoped rather than node-scoped |
 
-**B is the recommendation** and C is a session of its own. B is applying an
-adjudication this repo has already made and written down, to the two copies it
-was not applied to. C changes the rule that made it, and a rule change that moves
-claims off Tier 1 across the board is the kind of thing that should be read
-before it is merged, not merged and then read.
+**B, and C is now clearly the wrong shape rather than merely a bigger job.**
+
+The node-level test is not laziness, it is load-bearing, and the numbers say why.
+Of the board's 3,367 Tier 1 claims, only 1,285 carry a URL in their own source at
+all, and only 1,018 of those URLs are primary by `PRIMARY_URL_PAT`. **A
+claim-scoped URL test would demote 2,349 of 3,367 Tier 1 claims, 70% of the
+board's documented tier.** And it would be wrong to do it: the claims it would
+take are ones like
+
+    509th-bomb-group      GAO/NSIAD-95-187
+    alexandria-ocasio-cortez  Rep. Alexandria Ocasio-Cortez, 26 July 2023, GPO CHRG-118hhrg53022
+
+which name a primary document precisely and simply do not link it. The node-level
+test exists to let those stand.
+
+So C is not "change the scope". C is "teach the rule to recognise a primary
+document cited by identifier rather than by URL" -- a document-identifier pattern
+to sit beside `PRIMARY_URL_PAT` -- and only then scope it to the claim. That is a
+real piece of work with a real payoff, and it is a session of its own with the
+gate, the golden manifest and a re-read of everything that moved. It is not
+tonight's job and it is not a prerequisite for B.
 
 Neither was done on 12 September, because both change claim tiers and
-`CLAUDE.md` section 6 is explicit that tiers are the ammunition grading. The
-counts that would move with either: `index.json`, the golden manifest,
-`_figures` in `data/analyst-suggestions.json` (which declares 514 Tier 3 claims,
-unaffected by B), and the NotebookLM export.
+`CLAUDE.md` section 6 is explicit that tiers are the ammunition grading. If B is
+taken, the counts that move are `index.json`, the golden manifest and the
+NotebookLM export; `_figures` in `data/analyst-suggestions.json` declares 514
+Tier 3 claims and is unaffected.
 
 ## 5. What is NOT a defect, so nobody chases it
 
@@ -91,5 +110,5 @@ of them over 706 claims. A primary document backs Tier 1 quotations of what it
 says and Tier 3 inferences drawn from it, and both cite the same URL. Any check
 written on "same source, different tier" would fire on all 706 and teach the next
 session to ignore it. The narrow pattern in section 3, demoted on one node and
-Tier 1 on another, is the one that carries signal, and even that is an upper
-bound.
+Tier 1 on another, is the one that carries signal, and section 3 names all of it:
+four claims on three nodes.

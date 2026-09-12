@@ -88,7 +88,7 @@ async function build(r: Route): Promise<string> {
         parts.push('TIMELINE, scoped to node ' + id + ':');
         parts.push(await runTool('timeline', { node: id, limit: 80 }));
       } else {
-        parts.push('TIMELINE, whole. All 913 events by decade:');
+        parts.push('TIMELINE, whole, by decade:');
         parts.push(await runTool('timeline', { group_by: 'decade' }));
         parts.push('');
         parts.push('And by strand:');
@@ -113,7 +113,7 @@ async function build(r: Route): Promise<string> {
       if (open) { f.open = open === '1'; on.push('open=' + open); }
       const head = on.length
         ? 'EVIDENCE table, filtered: ' + on.join(' · ') + '.\n'
-        : 'EVIDENCE table, no filter on. All 5,303 claims.\n';
+        : 'EVIDENCE table, no filter on. Every claim on the board.\n';
       return head + await runTool('claims', { ...f, group_by: 'tier' }) + '\n\n' +
         'The strongest 30 of them:\n' + await runTool('claims', { ...f, limit: 30 });
     }

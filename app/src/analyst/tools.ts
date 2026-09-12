@@ -39,8 +39,12 @@ import {
   type IndexNode, type ClaimRow, type EdgeRow, type TimelineEvent, type Claim,
 } from '../data';
 
-/* Bump when a tool is added, removed, or its arguments change shape. The Worker
-   carries the same string and the health probe compares them. */
+/* Bump when a tool is ADDED, REMOVED, or its ARGUMENTS change shape, and not for
+   anything else. The Worker carries the same string and the page refuses to ask a
+   question while the two disagree, so a bump the Worker has not been given yet
+   takes the analyst off the air until somebody redeploys it. Rewording a
+   description is not a bump: the Worker validates names and argument schemas and
+   never reads the prose. */
 export const TOOLS_VERSION = '2026-09-11.1';
 
 const RESULT_CAP = 26000;      /* characters, per tool result                 */
@@ -154,17 +158,19 @@ export const TOOLS: ToolDef[] = [
   {
     name: 'overview',
     description:
-      'What is on the board: every count, the five eras, the seven map bands, the eight ' +
-      'node classes, the nine clusters, the eight threads, the five patents, the six entry ' +
-      'paths and the editorial start-here flags. Call this first when a question turns on ' +
-      'what the board holds rather than on one record.',
+      'What is on the board: every count, the eras, the map bands, the node classes, ' +
+      'the clusters, the threads, the patents, the entry paths and the editorial ' +
+      'start-here flags, all read live from the data. Call this FIRST when a question ' +
+      'turns on what the board holds rather than on one record, and whenever you need ' +
+      'a number: no count is written into any tool description, because a written-down ' +
+      'count goes stale.',
     input_schema: { type: 'object', properties: {} },
   },
   {
     name: 'find',
     description:
-      'Full-text search over everything at once: node labels and ids, all 5,303 claim texts ' +
-      'and their sources, all 913 timeline events, all 2,460 edge labels, the threads, the ' +
+      'Full-text search over everything at once: node labels and ids, every claim text ' +
+      'and its source, every timeline event, every edge label, the threads, the ' +
       'patents and the FOIA requests. Ranked. This is the tool for "where does the board ' +
       'mention X" when you do not already know the node.',
     input_schema: {
@@ -183,7 +189,7 @@ export const TOOLS: ToolDef[] = [
   {
     name: 'nodes',
     description:
-      'Filter, sort, count and group the 1,057 node index. Every argument is optional and ' +
+      'Filter, sort, count and group the node index. Every argument is optional and ' +
       'they combine. Use group_by with count_only to answer "how many" and "which of these ' +
       'is thinnest" without reading rows.',
     input_schema: {
@@ -232,7 +238,7 @@ export const TOOLS: ToolDef[] = [
   {
     name: 'claims',
     description:
-      'Filter, count and group all 5,303 tiered claims with their sources. Claim tiers are ' +
+      'Filter, count and group every tiered claim with its source. Claim tiers are ' +
       'evidence strength, 1 strongest: T1 documented, T2 a named person on the record, T3 a ' +
       'stated inference. This is the tool for "what would collapse under audit" and for any ' +
       'question about sourcing.',
@@ -257,7 +263,7 @@ export const TOOLS: ToolDef[] = [
   {
     name: 'timeline',
     description:
-      'The 913 dated events, filtered, counted or grouped. Dates are YYYY, YYYY-MM or ' +
+      'Every dated event, filtered, counted or grouped. Dates are YYYY, YYYY-MM or ' +
       'YYYY-MM-DD and `precision` says which. This is the tool for anything about sequence, ' +
       'density, what came before what, or what the board carries in a given year.',
     input_schema: {
@@ -278,7 +284,7 @@ export const TOOLS: ToolDef[] = [
   {
     name: 'edges',
     description:
-      'The 2,460 hand-written sourced edges. Each carries a type, a claim tier and a written ' +
+      'Every hand-written sourced edge. Each carries a type, a claim tier and a written ' +
       'label saying what the join is. Filter by node, by the pair, by type or by tier.',
     input_schema: {
       type: 'object',
@@ -315,28 +321,28 @@ export const TOOLS: ToolDef[] = [
   {
     name: 'thread',
     description:
-      'The eight authored chains: lineage, custody, money, denials, wilson-davis, patents, ' +
+      'The authored chains: lineage, custody, money, denials, wilson-davis, patents, ' +
       'scientists, oversight. Each step names a node, a year, the evidence in prose, and the ' +
       'edge that joins it to the step before.',
     input_schema: {
       type: 'object',
-      properties: { id: { type: 'string', description: 'omit for all eight in brief' } },
+      properties: { id: { type: 'string', description: 'omit for all of them in brief' } },
     },
   },
   {
     name: 'patent',
     description:
-      'The five Navy patents with their prosecution history, examiner, art unit, docket, ' +
+      'The Navy patents with their prosecution history, examiner, art unit, docket, ' +
       'maintenance-fee record and what the board records as absent from the file.',
     input_schema: {
       type: 'object',
-      properties: { number: { type: 'string', description: 'digits only, e.g. 10144532. Omit for all five' } },
+      properties: { number: { type: 'string', description: 'digits only, e.g. 10144532. Omit for all of them' } },
     },
   },
   {
     name: 'foia',
     description:
-      'The 17 drafted FOIA requests, the agency each goes to, its filing status and the open ' +
+      'The drafted FOIA requests, the agency each goes to, its filing status and the open ' +
       'questions on which nodes it would close. None has been filed.',
     input_schema: {
       type: 'object',
@@ -349,9 +355,9 @@ export const TOOLS: ToolDef[] = [
   {
     name: 'map',
     description:
-      'The program map: 137 of the 1,057 nodes placed in seven bands by five eras, the ' +
-      'occupancy of every cell, the membership of a named cell, and the denial pairs drawn ' +
-      'on it. The other 920 nodes are on the board and not on this map.',
+      'The program map: the nodes placed on it, in bands by eras, the occupancy of every ' +
+      'cell, the membership of a named cell, and the denial pairs drawn on it. Most of the ' +
+      'board is NOT on this map; `overview` gives both counts.',
     input_schema: {
       type: 'object',
       properties: {

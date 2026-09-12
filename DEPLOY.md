@@ -174,11 +174,16 @@ what makes the whole scheme possible.
 
 ## 2. The worker, and the API key
 
-> **THE WORKER MUST BE REDEPLOYED AFTER 11 SEPTEMBER 2026.** The analyst gained
-> twelve tools that day and the worker is where their names are pinned. Until it
-> is redeployed the app will say so in plain words rather than answering: "The
-> analyst service is running tool set none (a service deployed before the tools
-> existed) and this page is built for 2026-09-11.1." The block below is the
+> **The worker was redeployed on 12 September 2026 and the analyst is live.** The
+> tool names are pinned here and `TOOLS_VERSION` is carried by both sides, so a
+> change to `app/src/analyst/tools.ts` means a deploy of BOTH: until the two
+> agree the app refuses to ask a question and says why, rather than letting a
+> reader find out one dead answer at a time.
+>
+> **One redeploy is outstanding and it is not urgent.** `capCacheBlocks` caps the
+> request at the API's four cache breakpoints instead of letting the API refuse
+> it. The client-side fix that stopped the 400s is already live; this is defence
+> in depth against a client whose breakpoint accumulates. The block below is the
 > redeploy, and the secret survives it.
 
 **Deploy the worker before putting the secret.** A secret cannot be attached to a
