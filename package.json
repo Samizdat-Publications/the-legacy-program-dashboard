@@ -1,9 +1,9 @@
 {
   "name": "the-legacy-program-dashboard-tools",
   "private": true,
-  "description": "Local tooling for the gate. The board itself has no dependencies; these are for the browser checks (tools/*.js) and for serving dist/ over HTTP. CI installs its own pinned copy in .github/workflows/gate.yml.",
+  "description": "Local tooling for the gate. The board itself has no dependencies; these are for the browser checks (tools/*.js) and for serving dist/ over HTTP. The playwright version is PINNED EXACTLY to the one both CI jobs install, because a check that passes on one browser build and fails on another teaches nobody anything, and this repo has already paid for a layout difference between the machine a session runs on and the machine that gates it.",
   "devDependencies": {
     "http-server": "^14.1.1",
-    "playwright": "^1.62.1"
+    "playwright": "1.56.1"
   }
 }
