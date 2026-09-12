@@ -14,8 +14,11 @@ longer true.
 `python3 tools/state_snapshot.py --gate` — it derives every number from source and runs
 the gate. The counts below are a sanity anchor, not a source of truth.
 
-**Starting a fresh session?** Read `notes/HANDOFF-2026-09-04.md` after this. **It is the
-current one.** It records the cutover: the new shell in `app/` is production, deployed by
+**Starting a fresh session?** Read `notes/ANALYST-TOOLS-2026-09-11.md` first. **It is the
+current one**, and its section 4 is the one thing that needs Stewart's hands: the analyst
+Worker must be redeployed or the analyst answers nothing and says so. Then
+`notes/HANDOFF-2026-09-04.md`, which is still accurate on everything it records except
+the analyst. It records the cutover: the new shell in `app/` is production, deployed by
 `deploy.yml` after a green gate; the back button Stewart made a condition of the cutover;
 the CRLF fingerprint fix in `build_app_data.py`; the NotebookLM export; and the analyst
 plan that waits on his four answers. `notes/HANDOFF-2026-09-03-EVENING.md` is the one
@@ -106,7 +109,7 @@ it. `notes/FIRST-PAINT-2026-08-26.md`.
 | shipped artifact | `app/dist/`: `index.html`, hashed `assets/`, and `data/`, `fonts/`, `patents/` copied from `app/public/`. Gitignored and built in CI |
 | old shell artifact | `dist/the-program.html`, 17,294,938 bytes. Still built, still gated, deployed nowhere |
 | gate | 57 verify checks + 40 audit re-derivations + 51 runtime + 31 canvas + 20 analyst assertions over the old shell, plus the app's own C1 to C19 and all 19 poisons, all self-tested |
-| analyst | live for every reader since 2 September 2026 via the Worker. **Since 11 September 2026 it has TOOLS**: twelve of them, defined and run in the reader's own browser against `/data`, so it can search, filter, count, group, trace a path and read the timeline across the whole board rather than only the page in view. It is on every route as a dock at the foot of the window, with chips per route kind. `notes/ANALYST-TOOLS-2026-09-11.md` |
+| analyst | live for every reader since 2 September 2026 via the Worker. **Since 11 September 2026 it has TOOLS**: twelve of them, defined and run in the reader's own browser against `/data`, so it can search, filter, count, group, trace a path and read the timeline across the whole board rather than only the page in view. It is on every route: closed, a 148 by 30 tab at the bottom left; open, full width over the page. Chips per route kind. `notes/ANALYST-TOOLS-2026-09-11.md` |
 
 Regenerate these numbers rather than trusting them; they move every research pass:
 `python3 tools/state_snapshot.py`.
@@ -569,6 +572,36 @@ surface" includes markup, not just copy.
 > between Windows and Linux produced two different maps from one source and kept CI red
 > for a whole day; and `gate.yml` uploads the rebuilt artifacts when the reproducibility
 > step fails, which is the only way a Windows session can see what Linux built.
+
+> **DONE, 11 September 2026: THE ANALYST GETS TOOLS, AND EVERY ROUTE.** Stewart:
+> *"I want it to be basically able to answer any question I would ask here and be able
+> to sift across the data to reason across the dataset, understand the timeline etc."*
+> Twelve tools in `app/src/analyst/tools.ts`, run in the READER'S BROWSER against the
+> same `/data` the pages read: `overview find nodes node claims timeline edges path
+> thread patent foia map`. Counting is done by the tool, not by the model, so "how
+> many" is arithmetic over the file rather than a look at a truncated list. `path` is a
+> breadth-first walk of the 2,460 sourced edges and reports that the board does not
+> join two nodes rather than inventing a chain. The loop is `client.ts`: 14 rounds,
+> parallel calls in one user message, thinking blocks echoed back with their
+> signatures. Chips per route kind from `data/analyst-suggestions.json`, which
+> `build_app_data.py` now reads instead of scraping the old shell (that was the
+> dependency the old shell's retirement had to clear first: **it is clear**). C18, C19
+> and `worker/test/validate.mjs`. Record: `notes/ANALYST-TOOLS-2026-09-11.md`.
+>
+> **Do not undo:** the tools run in the browser, not the Worker, which is why a public
+> endpoint is not a liability; thinking blocks are relayed untouched, because their
+> signature covers their text; all tool results go back in ONE user message;
+> `TOOLS_VERSION` lives in two files and a change is a deploy on both; the cited-id
+> guard flags and never edits; and **nothing may take height from `.map-root` or
+> `.hood`** -- the map has about 7px of clearance at 1920 on CI, where the fallback
+> font wraps two more rows than Windows does, and a 30px dock reservation put its
+> lowest chip 23px into its own legend.
+>
+> **Stewart still has to run this**, or the analyst answers nothing:
+> ```
+> cd "C:\Users\stewa\OneDrive\Documents\Claude\Projects\Missing individuals connected to defense contractors\the-program\worker"
+> npx wrangler deploy
+> ```
 
 > **4 September 2026, cutover.** The new shell is production. Back button on every
 > page (`app/src/history.ts`, check C17 with a poison), approved by Stewart on the review
