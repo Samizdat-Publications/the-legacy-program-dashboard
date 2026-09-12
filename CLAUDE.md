@@ -14,11 +14,12 @@ longer true.
 `python3 tools/state_snapshot.py --gate` — it derives every number from source and runs
 the gate. The counts below are a sanity anchor, not a source of truth.
 
-**Starting a fresh session?** Read `notes/ANALYST-TOOLS-2026-09-11.md` first. **It is the
-current one**, and its section 4 is the one thing that needs Stewart's hands: the analyst
-Worker must be redeployed or the analyst answers nothing and says so. Then
-`notes/HANDOFF-2026-09-04.md`, which is still accurate on everything it records except
-the analyst. It records the cutover: the new shell in `app/` is production, deployed by
+**Starting a fresh session?** Read `notes/HANDOFF-2026-09-12.md` first. **It is the
+current one.** Its section 2 is what needs Stewart: a tier contradiction the analyst found
+in the board itself (`notes/TIER-SCOPE-2026-09-12.md`), and a Worker redeploy that is not
+urgent. `notes/ANALYST-TOOLS-2026-09-11.md` is the record of the analyst build and its
+section 8 is the live evidence. Then `notes/HANDOFF-2026-09-04.md`, still accurate on the
+cutover, the back button and the NotebookLM export. It records the cutover: the new shell in `app/` is production, deployed by
 `deploy.yml` after a green gate; the back button Stewart made a condition of the cutover;
 the CRLF fingerprint fix in `build_app_data.py`; the NotebookLM export; and the analyst
 plan that waits on his four answers. `notes/HANDOFF-2026-09-03-EVENING.md` is the one
