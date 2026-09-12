@@ -727,7 +727,7 @@ def foia_json(s, meta):
     }
 
 
-def analyst_json(s, meta):
+def analyst_json(s, ix, meta):
     """The chips, per route kind, from data/analyst-suggestions.json.
 
     Until 11 September 2026 this scraped a SUGGESTIONS literal out of
@@ -739,7 +739,6 @@ def analyst_json(s, meta):
     still written, as the home list, so a reader holding a cached copy of an
     older page gets the home chips rather than none.
     """
-    del s
     path = os.path.join(ROOT, SUGGESTIONS)
     try:
         raw = json.load(open(path, encoding="utf-8"))
@@ -766,9 +765,56 @@ def analyst_json(s, meta):
         raise SystemExit("%s carries route keys the app does not render: %s"
                          % (SUGGESTIONS, ", ".join(sorted(unknown))))
 
+    check_chip_figures(raw, by_route, counts(s, ix))
+
     return {"byRoute": by_route, "generated": meta["generated"],
             "shape": "per-route", "source": meta["source"],
             "suggestions": by_route["home"], "worker": ANALYST_WORKER}
+
+
+def check_chip_figures(raw, by_route, ct):
+    """A chip that quotes a count is an assertion, and counts move.
+
+    Four of the chips written on 11 September 2026 quote one -- 913 timeline
+    events, 137 of 1,057 nodes on the map, 514 Tier 3 claims -- and a research
+    pass that moves any of them leaves the chip quietly wrong, which is CLAUDE.md
+    section 2 wearing a different hat.  So the file declares what it quotes, in
+    `_figures`, and this fails the build on two things: a figure that no longer
+    matches the board, and a figure no chip actually quotes, which means the chip
+    was reworded and the declaration was left behind.
+
+    Numbers are matched in both the plain and the comma-grouped spelling, because
+    the chips are prose and say "1,057" where the data says 1057.
+    """
+    figs = raw.get("_figures")
+    if figs is None:
+        return
+    if not isinstance(figs, dict):
+        raise SystemExit("%s: _figures must be a map of count path to number" % SUGGESTIONS)
+
+    text = " ".join(c for chips in by_route.values() for c in chips)
+    wrong, unquoted = [], []
+    for path, want in sorted(figs.items()):
+        here = ct
+        for part in path.split("."):
+            if not isinstance(here, dict) or part not in here:
+                raise SystemExit("%s: _figures names %r, which is not a board count"
+                                 % (SUGGESTIONS, path))
+            here = here[part]
+        if here != want:
+            wrong.append("%s is %s, the chips say %s" % (path, here, want))
+        spellings = {str(want), "{:,}".format(want)}
+        if not any(sp in text for sp in spellings):
+            unquoted.append("%s (%s) is declared but no chip quotes it" % (path, want))
+    if wrong:
+        raise SystemExit(
+            "%s quotes figures the board no longer carries:\n  %s\n"
+            "Reword the chips and update _figures together."
+            % (SUGGESTIONS, "\n  ".join(wrong)))
+    if unquoted:
+        raise SystemExit(
+            "%s declares figures no chip quotes:\n  %s"
+            % (SUGGESTIONS, "\n  ".join(unquoted)))
 
 
 def threads_json(s, meta):
@@ -825,7 +871,7 @@ def build(quiet=False):
     written.append(("data/foia.json",
                     write(os.path.join(OUT, "foia.json"), foia_json(s, meta), 1)))
     written.append(("data/analyst.json",
-                    write(os.path.join(OUT, "analyst.json"), analyst_json(s, meta), 1)))
+                    write(os.path.join(OUT, "analyst.json"), analyst_json(s, ix, meta), 1)))
 
     nd = os.path.join(OUT, "nodes")
     if os.path.isdir(nd):
@@ -952,6 +998,34 @@ def self_test():
         return False
     print("  pass: rejected (entities and nodes counts drift, and the node id "
           "set differs by 1)")
+
+    # And the chip figures, both ways round: a figure the board no longer
+    # carries, and a figure no chip quotes any more.  Shown, not asserted.
+    raw = json.load(open(os.path.join(ROOT, SUGGESTIONS), encoding="utf-8"))
+    by_route = {k: raw[k] for k in ANALYST_KEYS}
+    ct = counts(Src(), build_indexes(Src()))
+    if not raw.get("_figures"):
+        print("  skip: data/analyst-suggestions.json declares no _figures")
+    else:
+        for what, mangle in (
+                ("a figure the board no longer carries",
+                 lambda r: {**r, "_figures": {k: v + 1 for k, v in r["_figures"].items()}}),
+                ("a declared figure no chip quotes",
+                 lambda r: r)):
+            bad = mangle(raw)
+            chips = by_route
+            if what.startswith("a declared"):
+                chips = {k: [re.sub(r"[0-9][0-9,]*", "N", c) for c in v]
+                         for k, v in by_route.items()}
+            print("self-test: the chip figures against %s" % what)
+            try:
+                check_chip_figures(bad, chips, ct)
+            except SystemExit as e:
+                print("  pass: rejected (%s)" % str(e).splitlines()[1].strip())
+                continue
+            print("  FAIL: check_chip_figures ACCEPTED %s.  The check is broken." % what)
+            return False
+
     print("self-test OK")
     return True
 

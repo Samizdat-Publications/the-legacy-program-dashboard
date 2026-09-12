@@ -128,6 +128,8 @@ The secret survives a redeploy.
 | `POISON=c19 node app/checks/run.mjs` | POISON c19 SEEN |
 | `node worker/test/validate.mjs` | 19 passed, 0 failed |
 | `python tools/build_app_data.py --check` | every count re-derives |
+| `python tools/build_app_data.py --self-test` | four poisons, all rejected |
+| `node app/checks/run.mjs --all-poisons` | all 19 poisons seen by their own check |
 
 **C19 is the one that matters most**, and it exists because C18 cannot see it.
 The tools draw nothing, so there is no DOM that says whether `claims` is
@@ -178,5 +180,5 @@ is what a shared deep link is.
 |---|---|
 | Nobody has asked it a question yet | The Worker is not redeployed as this note is written, so the loop has never round-tripped with the live model. What HAS been exercised: every tool drives against the real data and its answers re-derive (C19), and the Worker's validators accept a real thinking + tool_use + tool_result exchange with the signature intact and refuse ten shapes that must be refused (`worker/test/validate.mjs`). What has NOT: the model choosing which tool to call, and the loop terminating on a real answer. **That is the first thing to do after the deploy.** The honest state until then is "built, gate green, unverified against the model" |
 | A dollar figure | Round counts and token counts are on the page. Turning those into money needs a price table this repo does not have |
-| The chips quote figures | Four of the 38 quote a count (913 events, 137 of 1,057, 514 Tier 3 claims, seven bands). A research pass that moves one of those has to move the chip. Nothing checks that today |
+| ~~The chips quote figures~~ | **Closed.** `data/analyst-suggestions.json` declares what it quotes in `_figures`, and `check_chip_figures` in the generator fails the build two ways: on a figure the board no longer carries, and on a declared figure no chip quotes any more, which is what a reworded chip leaves behind. Both are demonstrated by `--self-test`. The seventh band is not declared, because "seven bands" is prose rather than a figure the generator can name |
 | Retiring the old shell | `build_app_data.py` no longer scrapes `tools/build_dashboard.py` for the suggestions, which was the dependency item 1 of the 4 September handoff had to clear first. That blocker is gone |
