@@ -356,6 +356,15 @@ const IN_PAGE = {
     return { present: true, version: a.version, names: a.names, out };
   },
 
+  /* The cited-id guard. It decides what a reader is told is not on the board,
+     and it reaches the DOM only through an answer, so there is nothing to read
+     unless the model has just spoken. This drives it directly. */
+  cite: async (text) => {
+    const a = (window.__app || {}).analyst;
+    if (!a || !a.cite) return null;
+    try { return await a.cite(text); } catch (e) { return { threw: String(e && e.message) }; }
+  },
+
   /* the chips as drawn, and the health line */
   chips() {
     const host = document.getElementById('analyst');
@@ -820,6 +829,17 @@ async function main() {
       await p.waitForTimeout(1500);
       await poisonAt(p, 'tools');       /* before any tool has run, so nothing is cached yet */
       TOOLS = await p.evaluate(IN_PAGE.tools, CALLS);
+      /* The guard, on the same page: a real node id, a real map cell, a real
+         thread, a plain word in backticks that is not an id at all, and one
+         fabricated id that must be caught. The cell is here because the first
+         live question cited `disclosure.3` and the guard called it "not a node
+         on this board", which was true and useless. */
+      const cellId = Object.keys(mapData.cells || {})[0] || 'custody.0';
+      TOOLS.cite = await p.evaluate(IN_PAGE.cite,
+        'The node `' + NODE_FOCUS + '` sits in cell `' + cellId + '` on the '
+        + '`' + (threads[0] || { id: 'custody' }).id + '` thread, a `program`, '
+        + 'unlike `ghost-node-not-on-the-board`.');
+      TOOLS.citeWant = { node: NODE_FOCUS, cell: cellId, thread: (threads[0] || { id: 'custody' }).id };
       TOOLS.want = {
         all: index.nodes.length,
         people: index.nodes.filter((n) => n.cls === 'person').length,
@@ -1475,6 +1495,22 @@ async function main() {
       check('c19', (o.overview || '').includes('nodes ' + w.all) && (o.overview || '').includes('timeline events ' + w.tl),
         "C19 overview reports the board's own counts",
         'nodes ' + w.all + ', timeline events ' + w.tl);
+
+      /* the cited-id guard */
+      const g = TOOLS.cite, gw = TOOLS.citeWant;
+      if (!g || g.threw) {
+        check('c19', false, 'C19 the cited-id guard runs', g ? 'threw ' + g.threw : 'not published on the probe');
+      } else {
+        check('c19', g.ok.length === 1 && g.ok[0] === gw.node,
+          'C19 the guard passes the node id the board carries, and links it',
+          'ok=[' + g.ok.join(', ') + '] wanted [' + gw.node + ']');
+        check('c19', g.bad.length === 1 && g.bad[0] === 'ghost-node-not-on-the-board',
+          'C19 the guard catches an id the board does not carry, and only that one',
+          'bad=[' + g.bad.join(', ') + ']');
+        check('c19', !g.bad.includes(gw.cell) && !g.bad.includes(gw.thread) && !g.bad.includes('program'),
+          'C19 the guard does not cry wolf over a map cell, a thread or a class',
+          'cell ' + gw.cell + ', thread ' + gw.thread + ', class program: none flagged');
+      }
     }
   }
 

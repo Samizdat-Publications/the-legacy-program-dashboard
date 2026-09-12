@@ -24,7 +24,7 @@
  *
  * The Worker is the only runtime request this app makes that is not same-origin.
  */
-import { loadAnalyst, loadIndex } from '../data';
+import { loadAnalyst, loadIndex, loadMap, loadThreads, type MapFile, type ThreadsFile } from '../data';
 import { TOOLS, TOOLS_VERSION, runTool } from './tools';
 import { caseState } from './state';
 import type { Route } from '../router';
@@ -49,8 +49,13 @@ type Block = { type: string; [k: string]: unknown };
 type WireMsg = { role: 'user' | 'assistant'; content: string | Block[] };
 
 let endpoint: string | null = null;
-let probed = false;
 let health: { live: boolean; tools?: string; model?: string } | null = null;
+/* The PROMISE, not a boolean. A `probed = true` flag set on entry meant a
+   question asked while the probe was still in flight saw probed === true and
+   endpoint === null, and was answered "the analyst endpoint is not reachable
+   from this deployment" by a deployment where it was perfectly reachable. Found
+   by driving a real question at the live Worker, not by reading this. */
+let probing: Promise<string | null> | null = null;
 
 /* The wire history survives route changes, which is the point: a reader can ask
    on the map, walk to a node and ask a follow-up. */
@@ -120,9 +125,12 @@ function caseIndex(): Promise<string> {
 
 /* ---- the endpoint -------------------------------------------------------- */
 
-export async function probeEndpoint(): Promise<string | null> {
-  if (probed) return endpoint;
-  probed = true;
+export function probeEndpoint(): Promise<string | null> {
+  if (!probing) probing = probeOnce();
+  return probing;
+}
+
+async function probeOnce(): Promise<string | null> {
   if (location.protocol !== 'http:' && location.protocol !== 'https:') return null;
   let worker = '';
   try { worker = (await loadAnalyst()).worker; } catch { worker = ''; }
@@ -156,16 +164,59 @@ export function toolSkew(): string | null {
 
 const ID_SHAPE = /^[a-z0-9][a-z0-9._-]*$/;
 
+/* Everything that may legitimately appear in backticks. Node ids are the ones
+   worth linking; the rest are here so the guard does not cry wolf.
+
+   Two false verdicts on the first two live questions, and both mattered:
+
+   1. `disclosure.3` was flagged "not a node on this board". True and useless: it
+      is a map cell, `<band>.<era>`. Cells, bands, classes, clusters, threads and
+      entry paths are all id-shaped and all real.
+   2. Worse, and silent: the guard skipped any token without a hyphen, dot or
+      digit, on the theory that a single plain word is prose. That excluded
+      `aawsap`, `nicap`, `cia` and every other single-word node id on the board
+      from being linked OR checked. The check caught that one; nothing on screen
+      would have.
+
+   So the rule is the other way round now: everything id-shaped in backticks is
+   checked, and the legitimate non-node vocabulary is enumerated here. The tool
+   names and their argument names are in it because the model writes those in
+   backticks too, having been shown them in backticks. */
+let known: Promise<{ nodes: Set<string>; other: Set<string> }> | null = null;
+function knownIds(): Promise<{ nodes: Set<string>; other: Set<string> }> {
+  if (!known) {
+    known = Promise.all([
+      loadIndex(),
+      loadMap().catch((): MapFile => ({ entryPaths: [] })),
+      loadThreads().catch((): ThreadsFile => ({ threads: [] })),
+    ]).then(([idx, mp, tf]) => {
+      const other = new Set<string>();
+      for (const k of Object.keys(mp.cells || {})) other.add(k);
+      for (const b of idx.bands) other.add(b.id);
+      for (const c of idx.classes) other.add(c.id);
+      for (const c of idx.clusters) other.add(c.id);
+      for (const e of idx.eras) other.add(e.id);
+      for (const t of tf.threads || []) other.add(t.id);
+      for (const e of mp.entryPaths || []) other.add(e.id);
+      for (const t of TOOLS) {
+        other.add(t.name);
+        for (const arg of Object.keys(t.input_schema.properties || {})) other.add(arg);
+      }
+      return { nodes: new Set(idx.nodes.map((n) => n.id)), other };
+    });
+  }
+  return known;
+}
+
 export async function checkCitedIds(text: string): Promise<{ ok: string[]; bad: string[] }> {
-  const idx = await loadIndex().catch(() => null);
-  if (!idx) return { ok: [], bad: [] };
-  const ids = new Set(idx.nodes.map((n) => n.id));
+  const k = await knownIds().catch(() => null);
+  if (!k) return { ok: [], bad: [] };
   const ok = new Set<string>(), bad = new Set<string>();
   for (const m of text.matchAll(/`([^`\n]{2,80})`/g)) {
     const tok = m[1].trim();
-    if (!ID_SHAPE.test(tok)) continue;
-    if (!/[-.]|\d/.test(tok)) continue;      /* a single plain word is prose, not an id */
-    (ids.has(tok) ? ok : bad).add(tok);
+    if (!ID_SHAPE.test(tok)) continue;         /* prose, a field path, a number */
+    if (k.other.has(tok)) continue;            /* a cell, band, era, class, cluster, thread or tool */
+    (k.nodes.has(tok) ? ok : bad).add(tok);
   }
   return { ok: [...ok], bad: [...bad] };
 }
@@ -295,7 +346,16 @@ export async function ask(question: string, route: Route, opts: AskOpts = {}): P
         try { out = await runTool(name, input); } catch (e) { out = 'That tool failed: ' + (e as Error).message; }
         results.push({ type: 'tool_result', tool_use_id: c.id, content: out });
       }
-      /* every result in ONE user message, or parallel tool use stops happening */
+      /* Every result in ONE user message, or parallel tool use stops happening.
+         The LAST block carries a cache breakpoint, which moves forward one
+         message a round: everything before it, including every earlier round's
+         tool results, is then read from cache at a tenth of the price instead
+         of being re-sent in full. The first live question cost 105,000 uncached
+         input tokens over four rounds without it, most of them rounds one to
+         three being sent again. Two breakpoints in all, the case index and this
+         one, well under the API's four. */
+      const last = results[results.length - 1];
+      if (last) last.cache_control = { type: 'ephemeral', ttl: '1h' };
       wire.push({ role: 'user', content: results });
       trimWire();
       continue;

@@ -233,5 +233,8 @@ export function analystIsLive(): boolean | null { return live; }
     version: TOOLS_VERSION,
     names: TOOLS.map((t) => t.name),
     run: (name: string, args: Record<string, unknown>) => runTool(name, args),
+    /* the cited-id guard, so C19 can drive it: it decides what a reader is told
+       is not on the board, and nothing it does reaches the DOM on its own */
+    cite: (text: string) => checkCitedIds(text),
   };
 }
