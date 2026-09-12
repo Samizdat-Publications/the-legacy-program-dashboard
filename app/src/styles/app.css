@@ -486,6 +486,12 @@ h1.node-h1 { font-size: var(--fs-h1); font-weight: 600; letter-spacing: -0.01em;
 .report .rconns div { break-inside: avoid; margin-bottom: 4px; }
 .report .rconns .cm { color: var(--paper-dim); }
 .report sup { font-size: 9px; vertical-align: super; color: #1c4f66; }
+.report ol.rsteps { margin: 0; padding-left: 22px; }
+.report ol.rsteps li { margin-bottom: 14px; break-inside: avoid; }
+.report .rstep-head { font-weight: 600; font-size: var(--fs-body); }
+.report .rstep-yr { color: var(--paper-dim); font-weight: 400; }
+.report .rstep-join { color: var(--paper-dim); margin: 2px 0 3px; }
+.report .rstep-ev { font-size: var(--fs-body); max-width: 68ch; }
 .report .rcites { border-top: 1px solid var(--paper-line); padding-top: 10px; margin-top: 32px; }
 .report .rcites div { margin-bottom: 3px; }
 .report .rcites .cn { color: #1c4f66; }

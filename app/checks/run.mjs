@@ -365,6 +365,26 @@ const IN_PAGE = {
     try { return await a.cite(text); } catch (e) { return { threw: String(e && e.message) }; }
   },
 
+  /* Every citation the report at this route printed, in order. */
+  cites() {
+    const rows = Array.prototype.slice.call(document.querySelectorAll('.report .rcites div'));
+    return {
+      present: !!document.querySelector('.report'),
+      h1: (document.querySelector('.report h1') || {}).textContent || '',
+      steps: document.querySelectorAll('.report ol.rsteps li').length,
+      sups: Array.prototype.map.call(document.querySelectorAll('.report .rsteps sup'), (e) => e.textContent),
+      cites: rows.map((r) => {
+        const a = r.querySelector('a');
+        const n = r.querySelector('.cn');
+        return {
+          n: n ? n.textContent : '',
+          text: (r.textContent || '').replace(/^\s*\d+\s*/, '').trim(),
+          url: a ? a.getAttribute('href') : null,
+        };
+      }),
+    };
+  },
+
   /* Type into the bar's search and read back what it drew. The control is the
      same on every screen; this drives the one on Home. */
   search(q) {
@@ -612,6 +632,22 @@ const POISONS = {
       };
     }),
   },
+  c21: {
+    stops: ['threadreport'],
+    what: "puts a source on a thread report's citation list that no edge on the board carries",
+    fn: async (page) => page.evaluate(() => {
+      const rows = document.querySelectorAll('.report .rcites div');
+      const row = rows[rows.length - 1];
+      if (!row) return;
+      const a = row.querySelector('a');
+      if (a) {
+        a.textContent = 'Memorandum for the Record, 11 Feb 1954, RG 341 entry 214 box 9';
+        a.setAttribute('href', 'https://www.archives.gov/no-such-record-11-feb-1954');
+      } else {
+        row.append(' Memorandum for the Record, 11 Feb 1954, RG 341 entry 214 box 9');
+      }
+    }),
+  },
   c20: {
     stops: ['search'],
     what: 'redraws the claim rows as the unranked code drew them: the first twelve matches in file order',
@@ -836,6 +872,44 @@ async function main() {
       const read = await p.evaluate(`(function ${IN_PAGE.chips})()`);
       CH.push({ key, hash, strip, ...read });
       await p.close();
+    }
+  }
+
+  /* ---- C21's thread report ----------------------------------------------- */
+  /* THE ONE RULE THAT NEVER BENDS, checked on the one page that composes a
+     citation list out of two different places. Every citation a thread report
+     prints must either be marked as the authored thread file, or be a source
+     string that the board itself carries on the edge that step is joined by.
+     Nothing may be composed here. */
+  let TR = { present: false };
+  {
+    const tid = 'custody';
+    const th = threads.find((t) => t.id === tid);
+    const driveReport = !POISON || POISON === 'c21';
+    if (driveReport && th) {
+      const p = await browser.newPage({ viewport: { width: 1400, height: 1080 } });
+      p.on('request', (r) => requests.push(r.url()));
+      p.on('pageerror', (e) => pageErrors.push(e.message.slice(0, 160)));
+      await p.goto(APP + '#/report/t/' + tid, { waitUntil: 'load' });
+      await p.waitForTimeout(2200);
+      await poisonAt(p, 'threadreport');
+      TR = await p.evaluate(`(function ${IN_PAGE.cites})()`);
+      await p.close();
+
+      /* every source string the board carries on this thread's own joins, read
+         from the node records rather than from the page */
+      const allowed = new Set();
+      for (let i = 1; i < th.steps.length; i++) {
+        const rec = await jget('data/nodes/' + th.steps[i].node + '.json').catch(() => null);
+        if (!rec) continue;
+        const conn = (rec.connections || []).find((c) => c.id === th.steps[i - 1].node);
+        for (const sc of (conn && conn.sources) || []) {
+          if (sc.name) allowed.add(sc.name);
+          if (sc.url) allowed.add(sc.url);
+        }
+      }
+      TR.allowed = allowed;
+      TR.thread = th;
     }
   }
 
@@ -1663,6 +1737,47 @@ async function main() {
       } else {
         skip('C20 two words reach a hyphenated name', 'no hyphenated label in the index to derive one from');
       }
+    }
+  }
+
+  /* ---- C21 -------------------------------------------------------------- */
+  {
+    if (!TR.present) {
+      if (POISON && POISON !== 'c21') skip('C21 a thread report cites only what the board carries', 'poison ' + POISON + ' does not open one');
+      else check('c21', false, 'C21 the thread report renders', 'no .report at #/report/t/custody');
+    } else {
+      check('c21', TR.steps === TR.thread.steps.length,
+        'C21 the thread report draws every step the thread has',
+        TR.steps + ' drawn, threads.json has ' + TR.thread.steps.length);
+
+      /* Authored evidence is allowed and must SAY it is authored, so a reader
+         can never read it as a document. Everything else must be a source the
+         board carries on one of this thread's own joins. */
+      /* ANCHORED AT BOTH ENDS. Anchored only at the start, this pattern let
+         anything be appended to an authored citation and still pass, and the
+         c21 poison walked straight through the first version of this check. */
+      const AUTHORED = /^Thread (narrative|evidence), authored \u00b7 research\/threads\.json \u00b7 thread [a-z0-9-]+(, step \d+)?$/;
+      const NOSOURCE = /^No source string is recorded on this edge$/;
+      const invented = TR.cites.filter((c) => {
+        if (AUTHORED.test(c.text) || NOSOURCE.test(c.text)) return false;
+        if (c.url && TR.allowed.has(c.url)) return false;
+        return !TR.allowed.has(c.text);
+      });
+      check('c21', invented.length === 0,
+        'C21 every citation is the authored thread file or a source the board carries on that join',
+        invented.length
+          ? invented.length + ' of ' + TR.cites.length + ' is on neither list \u2014 ' + clip(invented.map((c) => c.text.slice(0, 70)), 2)
+          : TR.cites.length + ' citations, ' + TR.allowed.size + ' edge sources on this thread to draw from');
+
+      const authored = TR.cites.filter((c) => AUTHORED.test(c.text)).length;
+      check('c21', authored >= TR.thread.steps.length,
+        'C21 every step\u2019s authored evidence is cited as authored, never as a document',
+        authored + ' authored citations for ' + TR.thread.steps.length + ' steps');
+
+      const linked = TR.cites.filter((c) => c.url).length;
+      check('c21', linked > 0 && TR.sups.length >= TR.thread.steps.length,
+        'C21 the body carries numbered superscripts and the citations carry links',
+        TR.sups.length + ' superscripts, ' + linked + ' of ' + TR.cites.length + ' citations linked');
     }
   }
 
