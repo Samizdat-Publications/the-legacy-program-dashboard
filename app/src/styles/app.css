@@ -177,6 +177,9 @@ h1, h2, h3 { margin: 0; font-weight: 600; }
 .home { display: grid; grid-template-columns: minmax(0, 1fr) 420px; gap: 20px; align-items: start; }
 .home-main { min-width: 0; }
 .home-side { display: grid; gap: 14px; }
+/* the entry paths and the start-here register, across the whole page: the rail
+   above them is one short panel and a fixed column beside them would be a hole */
+.home-wide { margin-top: 20px; }
 
 .home-para {
   font-size: var(--fs-body);

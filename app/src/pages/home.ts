@@ -18,11 +18,16 @@ const n = (x: number) => x.toLocaleString('en-GB');
 export async function renderHome(view: HTMLElement): Promise<void> {
   setTitle();
   clear(view);
+  /* Two columns for the top of the page, then FULL WIDTH for the cards and the
+     start-here register. The rail used to carry the counts panel and the
+     analyst below it; the analyst moved to the dock on 11 September and left a
+     420px hole beside the entry paths, which is what `wide` is for. */
   const wrap = h('div', { class: 'home' });
   const main = h('div', { class: 'home-main' });
   const side = h('div', { class: 'home-side' });
+  const wide = h('div', { class: 'home-wide' });
   wrap.append(main, side);
-  view.append(wrap);
+  view.append(wrap, wide);
 
   const [idx, hl, map] = await Promise.all([
     loadIndex(),
@@ -77,7 +82,7 @@ export async function renderHome(view: HTMLElement): Promise<void> {
         h('div', { class: 'path-counts' }, n(p.total) + ' nodes · ' + n(p.onMap) + ' on the map'),
       ));
     }
-    main.append(paths);
+    wide.append(paths);
   }
 
   /* ---- the start-here register. The flags carry the id, the owner's rank and
@@ -102,7 +107,7 @@ export async function renderHome(view: HTMLElement): Promise<void> {
       ));
     }
     sh.append(chips);
-    main.append(sh);
+    wide.append(sh);
   }
 
   /* ---- what is on the board -------------------------------------------- */
