@@ -7778,21 +7778,6 @@
 "open": true,
 "source": {
 "domain": null,
-"text": "CUFON transcription; Jacques Vallee, Forbidden Science",
-"url": null
-},
-"text": "H. C. Cross of Battelle authored the 9 January 1953 memorandum to Miles E. Goll at Wright-Patterson AFB under Project Stork, reference G-1579-4, marked SECRET.",
-"tier": 1
-},
-{
-"cls": "institution",
-"cluster": "other",
-"denied": true,
-"label": "Battelle Memorial Institute",
-"node": "battelle",
-"open": true,
-"source": {
-"domain": null,
 "text": "MITRE news release, 27 June 2024",
 "url": null
 },
@@ -7873,6 +7858,21 @@
 },
 "text": "UT-Battelle LLC holds the Oak Ridge National Laboratory management-and-operating contract DEAC0500OR22725, recorded at approximately $42.3 billion, running from 1999 to 2030.",
 "tier": 1
+},
+{
+"cls": "institution",
+"cluster": "other",
+"denied": true,
+"label": "Battelle Memorial Institute",
+"node": "battelle",
+"open": true,
+"source": {
+"domain": null,
+"text": "CUFON transcription; Jacques Vallee, Forbidden Science; DEMOTED from Tier 1 (no primary record of the memorandum is cited, only the CUFON transcription and Vallee's copy; the same assertion is Tier 2 on pentacle-memorandum); needs primary replacement",
+"url": null
+},
+"text": "H. C. Cross of Battelle authored the 9 January 1953 memorandum to Miles E. Goll at Wright-Patterson AFB under Project Stork, reference G-1579-4, marked SECRET.",
+"tier": 2
 },
 {
 "cls": "institution",
@@ -35843,10 +35843,10 @@
 "open": false,
 "source": {
 "domain": null,
-"text": "Text and provenance published by the Computer UFO Network (CUFON); Jacques Vallee, Forbidden Science",
+"text": "CUFON transcription of the Pentacle Memorandum",
 "url": null
 },
-"text": "A two-page memorandum dated 9 January 1953, reference G-1579-4, marked SECRET and unsigned, was addressed to Miles E. Goll at Wright-Patterson AFB under Project Stork; H. C. Cross of Battelle Memorial Institute was later identified as its author.",
+"text": "The memorandum proposes controlled experiments with observation posts in high-report areas and states that 'many different types of aerial activity should be secretly and purposefully scheduled within the area.'",
 "tier": 1
 },
 {
@@ -35858,11 +35858,11 @@
 "open": false,
 "source": {
 "domain": null,
-"text": "CUFON transcription of the Pentacle Memorandum",
+"text": "Text and provenance published by the Computer UFO Network (CUFON); Jacques Vallee, Forbidden Science; DEMOTED from Tier 1 (no primary record of the memorandum is cited, only the CUFON transcription and Vallee's copy; the same assertion is Tier 2 on pentacle-memorandum); needs primary replacement",
 "url": null
 },
-"text": "The memorandum proposes controlled experiments with observation posts in high-report areas and states that 'many different types of aerial activity should be secretly and purposefully scheduled within the area.'",
-"tier": 1
+"text": "A two-page memorandum dated 9 January 1953, reference G-1579-4, marked SECRET and unsigned, was addressed to Miles E. Goll at Wright-Patterson AFB under Project Stork; H. C. Cross of Battelle Memorial Institute was later identified as its author.",
+"tier": 2
 },
 {
 "cls": "person",
@@ -45308,11 +45308,11 @@
 "open": false,
 "source": {
 "domain": null,
-"text": "The New York Times, 16 December 2017",
+"text": "The New York Times, 16 December 2017; DEMOTED from Tier 1 (the same assertion is Tier 2 on nyt-2017-12-16); needs primary replacement",
 "url": null
 },
 "text": "The New York Times published 'Glowing Auras and Black Money: The Pentagon's Mysterious U.F.O. Program' on 16 December 2017, by Helene Cooper, Ralph Blumenthal and Leslie Kean.",
-"tier": 1
+"tier": 2
 },
 {
 "cls": "location",
@@ -78818,21 +78818,6 @@
 "open": false,
 "source": {
 "domain": null,
-"text": "Publisher's imprint and library catalogue records",
-"url": null
-},
-"text": "'The Roswell Incident' by Charles Berlitz and William Moore was published in New York by Grosset & Dunlap in 1980, ISBN 978-0448211992.",
-"tier": 1
-},
-{
-"cls": "person",
-"cluster": "other",
-"denied": false,
-"label": "William L. Moore",
-"node": "william-l-moore",
-"open": false,
-"source": {
-"domain": null,
 "text": "Gerald K. Haines, 'CIA's Role in the Study of UFOs, 1947-90', endnote 93",
 "url": null
 },
@@ -78853,6 +78838,21 @@
 },
 "text": "The US Air Force's 1995 Roswell report names 'The Roswell Incident (1980) by William Moore and Charles Berlitz' and 'Crashed Saucers: Evidence in Search of Proof (1985) by Moore' among the major works it reviewed to set the parameters of its records search, and describes Moore and Berlitz as having 'engaged in research which led them to publish' the 1980 book.",
 "tier": 1
+},
+{
+"cls": "person",
+"cluster": "other",
+"denied": false,
+"label": "William L. Moore",
+"node": "william-l-moore",
+"open": false,
+"source": {
+"domain": null,
+"text": "Publisher's imprint and library catalogue records; DEMOTED from Tier 1 (the same assertion is Tier 2 on the-roswell-incident-1980); needs primary replacement",
+"url": null
+},
+"text": "'The Roswell Incident' by Charles Berlitz and William Moore was published in New York by Grosset & Dunlap in 1980, ISBN 978-0448211992.",
+"tier": 2
 },
 {
 "cls": "person",

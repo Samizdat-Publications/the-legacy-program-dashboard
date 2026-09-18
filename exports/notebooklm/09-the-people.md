@@ -304,7 +304,7 @@ Affiliations recorded: US Senate (1987-2017), Senate Majority Leader (2007-2015)
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 38 of 1057, score 90). 17 connections, 6 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D3.
+Re-graded A on a global pass (rank 37 of 1057, score 90). 17 connections, 6 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D3.
 
 ### The claims on the record
 
@@ -1373,13 +1373,13 @@ Affiliations recorded: Fair-Witness Project, Co-author with Charles Berlitz, 'Th
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 276 of 1057, score 39). 8 connections, 2 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D2.
+Re-graded B on a global pass (rank 288 of 1057, score 38). 8 connections, 2 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D2.
 
 ### The claims on the record
 
-- **Tier 1 documented.** 'The Roswell Incident' by Charles Berlitz and William Moore was published in New York by Grosset & Dunlap in 1980, ISBN 978-0448211992. Source: Publisher's imprint and library catalogue records
 - **Tier 1 documented.** Moore and Shandera published 'The MJ-12 Documents: An Analytical Report' as Fair-Witness Project Publication Number 1500 in 1990, and Moore and Friedman published 'Philip Klass and MJ-12: What are the Facts' as Publication Number 1290 in 1988 - both cited in CIA's own 1997 history of the Agency's UFO role. Source: Gerald K. Haines, 'CIA's Role in the Study of UFOs, 1947-90', endnote 93
 - **Tier 1 documented.** The US Air Force's 1995 Roswell report names 'The Roswell Incident (1980) by William Moore and Charles Berlitz' and 'Crashed Saucers: Evidence in Search of Proof (1985) by Moore' among the major works it reviewed to set the parameters of its records search, and describes Moore and Berlitz as having 'engaged in research which led them to publish' the 1980 book. Source: Headquarters USAF, 'The Roswell Report: Fact versus Fiction in the New Mexico Desert' (1995) https://archive.org/details/DTIC_ADA326148
+- **Tier 2 named person on the record.** 'The Roswell Incident' by Charles Berlitz and William Moore was published in New York by Grosset & Dunlap in 1980, ISBN 978-0448211992. Source: Publisher's imprint and library catalogue records; DEMOTED from Tier 1 (the same assertion is Tier 2 on the-roswell-incident-1980); needs primary replacement
 - **Tier 2 named person on the record.** Moore publicly admitted at the 1989 MUFON symposium that he had cooperated with US Air Force counterintelligence and had knowingly passed false information to Paul Bennewitz. Source: William L. Moore, address to the MUFON Symposium, Las Vegas, July 1989
 - **Tier 2 named person on the record.** Moore stated at the 1989 MUFON symposium that he had cooperated with US Air Force Office of Special Investigations personnel from about 1980 and had knowingly passed disinformation to Paul Bennewitz. Source: Moore's own statement to the 1989 MUFON symposium, subsequently published in full in MUFON and Focus/Fair-Witness materials
 - **Tier 3 stated inference.** The 1984 arrival of the MJ-12 film at Moore's address falls inside the window he later admitted was a period of cooperation with AFOSI, which is sufficient on its own to bar the MJ-12 corpus from tier 1 or tier 2 status regardless of any forensic analysis. Reasoning: the recipient of an anonymous delivery has admitted to being an operational channel for the agency most likely to have sent it. Source: Chronological overlay of Moore's admitted 1980-1989 cooperation window on the December 1984 MJ-12 delivery
@@ -2524,7 +2524,7 @@ Affiliations recorded: US House of Representatives, NM-01 (1989-1998), House Jud
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 286 of 1057, score 38). 5 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D3.
+Re-graded B on a global pass (rank 285 of 1057, score 38). 5 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D3.
 
 ### The claims on the record
 
@@ -3939,7 +3939,7 @@ Souers held, in sequence, the two offices through which the postwar national sec
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 284 of 1057, score 38). 4 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A3/D1.
+Re-graded B on a global pass (rank 283 of 1057, score 38). 4 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A3/D1.
 
 ### The claims on the record
 
@@ -4456,7 +4456,7 @@ Affiliations recorded: US Navy, USS Princeton (CG-59), Carrier Strike Group 11 (
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 605 of 1057, score 26). 4 connections, 3 of them custody/witness/funding/programmatic. Axes C1/A1/D1.
+Re-graded C on a global pass (rank 604 of 1057, score 26). 4 connections, 3 of them custody/witness/funding/programmatic. Axes C1/A1/D1.
 
 ### The claims on the record
 
@@ -4790,7 +4790,7 @@ The industrial and academic halves were deliberately kept apart, and the source 
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 583 of 1057, score 27). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A1/D0.
+Re-graded C on a global pass (rank 582 of 1057, score 27). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A1/D0.
 
 ### The claims on the record
 

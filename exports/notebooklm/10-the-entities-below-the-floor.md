@@ -345,7 +345,7 @@ This domain isolates what is enacted from what was merely proposed, because the 
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 602 of 1057, score 27). 9 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D3.
+Re-graded C on a global pass (rank 601 of 1057, score 27). 9 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D3.
 
 ### The claims on the record
 
@@ -984,7 +984,7 @@ The funding instrument, and the reason the whole thing stayed invisible. AARO's 
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 277 of 1057, score 39). 5 connections, 5 of them custody/witness/funding/programmatic. Axes C0/A3/D2.
+Re-graded B on a global pass (rank 276 of 1057, score 39). 5 connections, 5 of them custody/witness/funding/programmatic. Axes C0/A3/D2.
 
 ### The claims on the record
 
@@ -1953,7 +1953,7 @@ GAO explains the carve-out in its own words: special access contracts are 'carve
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 282 of 1057, score 39). 5 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D3.
+Re-graded B on a global pass (rank 281 of 1057, score 39). 5 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D3.
 
 ### The claims on the record
 
@@ -2043,7 +2043,7 @@ The first documented scientific conference convened by the United States governm
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 278 of 1057, score 39). 5 connections, 4 of them custody/witness/funding/programmatic. Axes C1/A2/D2.
+Re-graded B on a global pass (rank 277 of 1057, score 39). 5 connections, 4 of them custody/witness/funding/programmatic. Axes C1/A2/D2.
 
 ### The claims on the record
 
@@ -2341,7 +2341,7 @@ The Nevada complex is where the classification regimes overlap. A Department of 
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 596 of 1057, score 27). 5 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A3/D0.
+Re-graded C on a global pass (rank 595 of 1057, score 27). 5 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A3/D0.
 
 ### The claims on the record
 
@@ -2936,7 +2936,7 @@ The Intercept is an investigative news organisation founded in 2014 and built ar
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 953 of 1057, score 13). 5 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D0.
+Re-graded C on a global pass (rank 952 of 1057, score 13). 5 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D0.
 
 ### The claims on the record
 
@@ -3062,7 +3062,7 @@ On 15 February 2023 at approximately 1915 PST in Warning Area W-291 off Southern
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 593 of 1057, score 27). 5 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A1/D3.
+Re-graded C on a global pass (rank 592 of 1057, score 27). 5 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A1/D3.
 
 ### The claims on the record
 
@@ -3463,7 +3463,7 @@ The Task Force's opening move. On establishing the Task Force on the Declassific
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 956 of 1057, score 13). 4 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D2.
+Re-graded C on a global pass (rank 955 of 1057, score 13). 4 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D2.
 
 ### The claims on the record
 

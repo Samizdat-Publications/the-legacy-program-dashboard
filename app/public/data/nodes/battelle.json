@@ -25,9 +25,9 @@
 "tier": 1
 },
 {
-"source": "CUFON transcription; Jacques Vallee, Forbidden Science",
+"source": "CUFON transcription; Jacques Vallee, Forbidden Science; DEMOTED from Tier 1 (no primary record of the memorandum is cited, only the CUFON transcription and Vallee's copy; the same assertion is Tier 2 on pentacle-memorandum); needs primary replacement",
 "text": "H. C. Cross of Battelle authored the 9 January 1953 memorandum to Miles E. Goll at Wright-Patterson AFB under Project Stork, reference G-1579-4, marked SECRET.",
-"tier": 1
+"tier": 2
 },
 {
 "source": "USAspending.gov federal award records; NSF NCSES Master Government List of FFRDCs",
@@ -763,6 +763,6 @@
 ],
 "sub": "Private nonprofit applied science institute, Columbus, Ohio, est. 1929; operator or co-operator of PNNL, ORNL, INL, NREL, Brookhaven and NBACC",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 36 of 1057, score 91). 15 connections, 6 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C3/A2/D1.",
+"tierRationale": "Re-graded A on a global pass (rank 38 of 1057, score 90). 15 connections, 6 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C3/A2/D1.",
 "timeline": []
 }

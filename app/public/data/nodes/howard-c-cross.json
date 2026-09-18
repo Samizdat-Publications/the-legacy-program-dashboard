@@ -37,9 +37,9 @@
 ],
 "claims": [
 {
-"source": "Text and provenance published by the Computer UFO Network (CUFON); Jacques Vallee, Forbidden Science",
+"source": "Text and provenance published by the Computer UFO Network (CUFON); Jacques Vallee, Forbidden Science; DEMOTED from Tier 1 (no primary record of the memorandum is cited, only the CUFON transcription and Vallee's copy; the same assertion is Tier 2 on pentacle-memorandum); needs primary replacement",
 "text": "A two-page memorandum dated 9 January 1953, reference G-1579-4, marked SECRET and unsigned, was addressed to Miles E. Goll at Wright-Patterson AFB under Project Stork; H. C. Cross of Battelle Memorial Institute was later identified as its author.",
-"tier": 1
+"tier": 2
 },
 {
 "source": "CUFON transcription of the Pentacle Memorandum",
@@ -172,7 +172,7 @@
 "status": "dead",
 "sub": "Battelle Memorial Institute scientist; Battelle's liaison to the Air Force for Project Blue Book work; author of the 'Pentacle Memorandum'",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 581 of 1057, score 27). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A2/D0.",
+"tierRationale": "Re-graded C on a global pass (rank 606 of 1057, score 26). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A2/D0.",
 "timeline": [],
 "unexplainedResidual": "Why a contractor scientist believed he had standing to shape the terms of a CIA-convened scientific panel five days before it met.",
 "unverified": [

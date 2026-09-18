@@ -42,7 +42,7 @@ Roles the board assigns it: concealment, disclosure.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 279 of 1057, score 39). 9 connections, 0 of them custody/witness/funding/programmatic, 2 official denials recorded against it. Axes C1/A3/D1.
+Re-graded B on a global pass (rank 278 of 1057, score 39). 9 connections, 0 of them custody/witness/funding/programmatic, 2 official denials recorded against it. Axes C1/A3/D1.
 
 ### The claims on the record
 

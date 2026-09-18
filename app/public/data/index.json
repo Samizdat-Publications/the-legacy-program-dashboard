@@ -111,8 +111,8 @@
  ],
  "counts": {
   "claims": {
-   "1": 3367,
-   "2": 1422,
+   "1": 3363,
+   "2": 1426,
    "3": 514
   },
   "edges": 2460,
@@ -167,7 +167,7 @@
    "sub": "no start date recorded"
   }
  ],
- "generated": "2026-09-03",
+ "generated": "2026-09-18",
  "nodes": [
   {
    "A": 0,
@@ -1951,8 +1951,8 @@
    "D": 1,
    "band": "research",
    "claims": [
-    9,
-    3,
+    8,
+    4,
     1
    ],
    "cls": "institution",
@@ -10711,8 +10711,8 @@
    "D": 0,
    "band": null,
    "claims": [
-    2,
     1,
+    2,
     0
    ],
    "cls": "person",
@@ -14527,8 +14527,8 @@
    "D": 3,
    "band": null,
    "claims": [
-    2,
-    0,
+    1,
+    1,
     1
    ],
    "cls": "location",
@@ -25375,8 +25375,8 @@
    "D": 2,
    "band": null,
    "claims": [
-    3,
     2,
+    3,
     1
    ],
    "cls": "person",
@@ -25538,5 +25538,5 @@
    "tier": "C"
   }
  ],
- "source": "7a35fb4c9739"
+ "source": "8aefa7a4112c"
 }

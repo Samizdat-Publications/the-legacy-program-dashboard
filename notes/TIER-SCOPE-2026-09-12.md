@@ -103,6 +103,35 @@ taken, the counts that move are `index.json`, the golden manifest and the
 NotebookLM export; `_figures` in `data/analyst-suggestions.json` declares 514
 Tier 3 claims and is unaffected.
 
+## 4a. DECIDED, 18 September 2026: B, all four
+
+Stewart handed the decision over ("make whatever decision you think would be best for
+our project"). **B is taken, for all four claims.** A was never a real option: it leaves
+the board contradicting itself in a way its own analyst finds on request.
+
+The four claims were read before deciding, and the three pairs are not the same kind:
+
+| pair | what the claim is | is Tier 2 the honest grade? |
+|---|---|---|
+| Cross memorandum, on `battelle` and `howard-c-cross` | a SECRET memo known only from the CUFON transcription and Vallee's copy | **Yes.** `research/ffrdcs.json`'s own gaps say no signed original has ever been produced. This was a real over-grade, and the analyst was right to call it the weakest Tier 1 on the node |
+| NYT article, on `l-nyc` | that the Times published the article, with its date and byline | Conservative rather than correct. The article is the primary record of its own publication and its nytimes.com URL is on both nodes |
+| Roswell Incident book, on `william-l-moore` | publisher, city, year, ISBN | Conservative rather than correct. The archive.org scan of the book is on both nodes and its imprint page is the primary record |
+
+So for the last two pairs the twin that was demoted is arguably the wrong one: the
+node-level rule fired on `nyt-2017-12-16` and `the-roswell-incident-1980` because each
+carries a Wikipedia URL and `PRIMARY_URL_PAT` does not recognise nytimes.com or a plain
+archive.org scan as primary. **They are demoted anyway, and deliberately.** Promoting the
+twins needs a change to the honesty pass, a wrongly low tier costs this board nothing in
+a hostile read while a wrongly high or a self-contradicting one does, and all four now sit
+in the re-sourcing queue with "needs primary replacement" where option C will find them.
+
+**What this adds to option C's brief:** a document-class node (an article, a book, a
+memo) whose own record is on the node is self-documenting for claims about what it says
+and when it was published. All four demotions on `nyt-2017-12-16` and both on
+`the-roswell-incident-1980` are of that kind. The C session should size that class among
+the 90 node-scoped demotions before it writes the identifier pattern, because those
+claims come back UP, and that is the direction that needs the most care.
+
 ## 5. What is NOT a defect, so nobody chases it
 
 A source string carrying claims at more than one tier is normal and there are 102

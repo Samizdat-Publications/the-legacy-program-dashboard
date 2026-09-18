@@ -854,9 +854,9 @@
    "dateEnd": null,
    "claims": [
     {
-     "tier": 1,
+     "tier": 2,
      "text": "The New York Times published 'Glowing Auras and Black Money: The Pentagon's Mysterious U.F.O. Program' on 16 December 2017, by Helene Cooper, Ralph Blumenthal and Leslie Kean.",
-     "source": "The New York Times, 16 December 2017"
+     "source": "The New York Times, 16 December 2017; DEMOTED from Tier 1 (the same assertion is Tier 2 on nyt-2017-12-16); needs primary replacement"
     },
     {
      "tier": 1,

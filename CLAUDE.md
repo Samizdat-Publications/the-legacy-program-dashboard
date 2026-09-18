@@ -96,7 +96,7 @@ it. `notes/FIRST-PAINT-2026-08-26.md`.
 |---|---|
 | nodes | 1,057 (311 people · 746 entities) |
 | hand-written sourced edges | 2,460 |
-| tiered claims | 5,303 — T1 3,367 · T2 1,422 · T3 514 |
+| tiered claims | 5,303 — T1 3,363 · T2 1,426 · T3 514 |
 | edge tiers | regenerate; they moved with the 3 September build |
 | unique source URLs | 3,541 |
 | dead citations | 0 as of the 3 September evening sweep. Ten were found that day (nine on cufon.org, which is gone as a site) and repaired against opened documents the same evening; `notes/HANDOFF-2026-09-03-EVENING.md` section 5 |
