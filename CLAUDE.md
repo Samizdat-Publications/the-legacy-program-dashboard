@@ -14,10 +14,16 @@ longer true.
 `python3 tools/state_snapshot.py --gate` — it derives every number from source and runs
 the gate. The counts below are a sanity anchor, not a source of truth.
 
-**Starting a fresh session?** Read `notes/HANDOFF-2026-09-12.md` first. **It is the
-current one.** Its section 2 is what needs Stewart: a tier contradiction the analyst found
-in the board itself (`notes/TIER-SCOPE-2026-09-12.md`), and a Worker redeploy that is not
-urgent. `notes/ANALYST-TOOLS-2026-09-11.md` is the record of the analyst build and its
+**Starting a fresh session?** Read `notes/HANDOFF-2026-09-18.md` first. **It is the
+current one.** It records three things: Stewart's widened mandate (research and tier
+decisions are the session's to make); the tier-scope decision, built on branch
+`tier-scope-b` and waiting only on his yes for the push; and **the canon pass**, his
+priority: 149 figures, places and events an informed reader would expect are not on the
+board (no Bob Lazar, no Dulce, no McCandlish), with the rule that a notable claimant gets
+a node regardless of tier and that every claimant is joined INTO the thing claimed about.
+Then `notes/HANDOFF-2026-09-12.md`, still accurate on everything but its section 2a: the
+tier contradiction the analyst found (`notes/TIER-SCOPE-2026-09-12.md`, now decided), and
+a Worker redeploy that is not urgent. `notes/ANALYST-TOOLS-2026-09-11.md` is the record of the analyst build and its
 section 8 is the live evidence. Then `notes/HANDOFF-2026-09-04.md`, still accurate on the
 cutover, the back button and the NotebookLM export. It records the cutover: the new shell in `app/` is production, deployed by
 `deploy.yml` after a green gate; the back button Stewart made a condition of the cutover;
