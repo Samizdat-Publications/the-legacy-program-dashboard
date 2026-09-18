@@ -467,6 +467,14 @@ They share three colours, which is a known weakness in the design.
   by a critic, and is where research goes next.
 - **Node tiers A/B/C — proximity to the programme.** Not credibility. A Tier A node carrying
   only T3 claims is not a contradiction; it is the definition of where to look next.
+  Computed by forced percentile in `tools/regrade.py`, where `PROGRAM_EDGES` is the set
+  weighted x3.0 for meaning *inside* rather than *adjacent*. **`witness-chain` is
+  deliberately not in that set** (18 September 2026): it records that somebody made an
+  assertion, not a structural fact about the node, and under the hub rule it is the
+  dominant edge type of every claimant cluster. It counts at x1.0 in plain degree, so
+  degree may mean "a lot is claimed here", never "this is true". Weighting the degree
+  counters by each edge's `claimTier` was measured and rejected in the same pass, because
+  it demotes documented nodes: `notes/CENTRALITY-2026-09-18.md` has the numbers.
 
 ---
 
