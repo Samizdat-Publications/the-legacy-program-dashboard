@@ -111,7 +111,24 @@ def guard_no_data_loss(new, board):
 TARGET = {"A": 0.15, "B": 0.35, "C": 0.50}
 
 # Edge types that indicate direct program involvement rather than context.
-PROGRAM_EDGES = {"custody", "witness-chain", "funding", "programmatic"}
+#
+# `witness-chain` was in this set until 2026-09-18 and is deliberately NOT in it now.
+# The other three are documented structural relationships: who held the thing, who paid
+# for it, what programme it belonged to. A witness-chain edge is not a structural fact
+# about the node, it is a record that somebody SAID something about it. Weighting it x3
+# for being "inside" made an accumulation of testimony read as an accumulation of
+# custody. That was tolerable while witness-chain edges mostly joined documented
+# witnesses to documented programmes; the hub rule adopted on 2026-09-18 (every claimant
+# gets a witness-chain edge into the thing claimed about) makes it the dominant edge type
+# of every claimant cluster, so the x3 weight would systematically promote claimants.
+#
+# The measurement that decided it, on the 1,057-node board: witness-chain edges are 61.8%
+# Tier 2 or 3, against 30.0% for custody/funding/programmatic. It is by a wide margin the
+# most claim-like member of a set whose whole justification is that it is structural.
+# Witness-chain edges still count at x1.0 in plain degree, which is the intended reading:
+# degree is allowed to mean "a lot is claimed here", never "this is true".
+# Reasoning and the rejected alternative: notes/CENTRALITY-2026-09-18.md.
+PROGRAM_EDGES = {"custody", "funding", "programmatic"}
 # Edge types that indicate someone thought this node worth denying.
 DENIAL_EDGES = {"denial"}
 
@@ -273,7 +290,7 @@ def main():
                            "denials": denial_deg[nid]})
         rationale = (
             f"Re-graded {new} on a global pass (rank {rank+1} of {total}, score {score:.0f}). "
-            f"{deg[nid]} connections, {prog_deg[nid]} of them custody/witness/funding/programmatic"
+            f"{deg[nid]} connections, {prog_deg[nid]} of them custody/funding/programmatic"
             + (f", {denial_deg[nid]} official denial{'s' if denial_deg[nid] != 1 else ''} recorded against it"
                if denial_deg[nid] else "")
             + f". Axes C{n.get('C',0)}/A{n.get('A',0)}/D{n.get('D',0)}."

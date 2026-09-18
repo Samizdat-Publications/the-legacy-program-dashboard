@@ -253,7 +253,7 @@
 "url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/pdf/CHRG-119hhrg61718.pdf"
 }
 ],
-"tier": "A",
+"tier": "B",
 "type": "programmatic"
 },
 {
@@ -289,7 +289,7 @@
 "url": "https://defensescoop.com/2025/09/09/military-whistleblowers-share-new-evidence-alleged-uap-ufo-hearing/"
 }
 ],
-"tier": "A",
+"tier": "B",
 "type": "witness-chain"
 },
 {
@@ -659,7 +659,7 @@
 "url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/pdf/CHRG-119hhrg61718.pdf"
 }
 ],
-"tier": "A",
+"tier": "B",
 "type": "programmatic"
 },
 {
@@ -695,7 +695,7 @@
 "url": "https://defensescoop.com/2025/09/09/military-whistleblowers-share-new-evidence-alleged-uap-ufo-hearing/"
 }
 ],
-"tier": "A",
+"tier": "B",
 "type": "witness-chain"
 },
 {
@@ -815,7 +815,7 @@
 "url": "https://oversight.house.gov/hearing/restoring-public-trust-through-uap-transparency-and-whistleblower-protection/"
 }
 ],
-"tier": "B",
+"tier": "C",
 "type": "witness-chain"
 },
 {
@@ -1185,7 +1185,7 @@
 "cls": "person",
 "id": "alexandro-wiggins",
 "label": "Alexandro Wiggins",
-"tier": "A"
+"tier": "B"
 },
 {
 "cls": "person",
@@ -1233,7 +1233,7 @@
 "cls": "person",
 "id": "jeffrey-nuccetelli",
 "label": "Jeffrey Nuccetelli",
-"tier": "A"
+"tier": "B"
 },
 {
 "cls": "person",
@@ -1251,7 +1251,7 @@
 "cls": "location",
 "id": "l-vandenberg",
 "label": "Vandenberg Space Force Base, California",
-"tier": "B"
+"tier": "C"
 },
 {
 "cls": "institution",
@@ -1348,7 +1348,7 @@
 ],
 "sub": "congressional-hearings",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 8 of 1057, score 140). 32 connections, 14 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C2/A1/D3.",
+"tierRationale": "Re-graded A on a global pass (rank 13 of 1057, score 116). 32 connections, 6 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A1/D3.",
 "timeline": [
 {
 "date": "2025-02-19",

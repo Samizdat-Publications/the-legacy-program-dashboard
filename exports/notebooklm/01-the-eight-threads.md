@@ -170,7 +170,7 @@ The PAX 205 briefing names Salvatore Cezar Pais of NAWCAD as the author of the i
 
 **Step 1, Salvatore Cezar Pais** (year 2015, a person, board tier A). The PAX 205 briefing identifies its author as 'Salvatore Cezar Pais, Ph.D., Department of Defense / Department of the Navy, Naval Air Systems Command / NAWCAD, NAS Patuxent River Maryland 20670'.
 
-**Step 2, NAVAIR Invention Disclosure Briefing, Navy Case PAX 205 (Inertial Mass Reduction Device)** (year 2015, a document, board tier C). He is the author of the Navy invention disclosure, named with his NAWCAD competency code 4.4.5.1 on its first page.
+**Step 2, NAVAIR Invention Disclosure Briefing, Navy Case PAX 205 (Inertial Mass Reduction Device)** (year 2015, a document, board tier B). He is the author of the Navy invention disclosure, named with his NAWCAD competency code 4.4.5.1 on its first page.
 
 The join from Salvatore Cezar Pais to NAVAIR Invention Disclosure Briefing, Navy Case PAX 205 (Inertial Mass Reduction Device) is a programmatic link, recorded as direct, at Tier 1 documented.
 
@@ -200,9 +200,9 @@ Thread name on the board: Missing scientists.
 
 In January 2016 Tom DeLonge wrote to John Podesta that 'When Roswell crashed, they shipped it to the laboratory at Wright Patterson Air Force Base', and that the general on the meeting thread had run that laboratory until a couple of years earlier. That general's disappearance in February 2026 is the trigger the committee gives for its probe into eleven people in nuclear or rocket technology who have died or vanished since 2022.
 
-**Step 1, John D. Podesta** (year 2002, a person, board tier B). Podesta publicly called for the declassification of US government UFO records at a National Press Club event on 22 October 2002.
+**Step 1, John D. Podesta** (year 2002, a person, board tier C). Podesta publicly called for the declassification of US government UFO records at a National Press Club event on 22 October 2002.
 
-**Step 2, DeLonge to Podesta, 'General McCasland', 25 January 2016 (WikiLeaks Podesta Emails 3099)** (year 2016, a document, board tier A). He is the addressee of the McCasland email and the organiser of the 25 January 2016 meeting; the email is addressed to john.podesta@gmail.com.
+**Step 2, DeLonge to Podesta, 'General McCasland', 25 January 2016 (WikiLeaks Podesta Emails 3099)** (year 2016, a document, board tier B). He is the addressee of the McCasland email and the organiser of the 25 January 2016 meeting; the email is addressed to john.podesta@gmail.com.
 
 The join from John D. Podesta to DeLonge to Podesta, 'General McCasland', 25 January 2016 (WikiLeaks Podesta Emails 3099) is a witness-chain link, recorded as direct, at Tier 1 documented.
 
@@ -210,7 +210,7 @@ The join from John D. Podesta to DeLonge to Podesta, 'General McCasland', 25 Jan
 
 The join from DeLonge to Podesta, 'General McCasland', 25 January 2016 (WikiLeaks Podesta Emails 3099) to Wright-Patterson Air Force Base, Ohio is a custody link, recorded as direct, at Tier 2 named person on the record.
 
-**Step 4, William Neil McCasland** (year 2026, a person, board tier A). He commanded the Air Force Research Laboratory at Wright-Patterson, the single installation most persistently named in the legacy recovery literature.
+**Step 4, William Neil McCasland** (year 2026, a person, board tier B). He commanded the Air Force Research Laboratory at Wright-Patterson, the single installation most persistently named in the legacy recovery literature.
 
 The join from Wright-Patterson Air Force Base, Ohio to William Neil McCasland is a institutional link, recorded as direct, at Tier 2 named person on the record.
 

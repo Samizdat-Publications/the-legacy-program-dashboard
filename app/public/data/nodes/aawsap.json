@@ -267,7 +267,7 @@
 "url": "https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program"
 }
 ],
-"tier": "A",
+"tier": "B",
 "type": "institutional"
 },
 {
@@ -878,7 +878,7 @@
 "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237629/"
 }
 ],
-"tier": "C",
+"tier": "B",
 "type": "programmatic"
 },
 {
@@ -1397,7 +1397,7 @@
 "url": "https://www.youtube.com/watch?v=xnxasfyHtfo"
 }
 ],
-"tier": "B",
+"tier": "C",
 "type": "programmatic"
 },
 {
@@ -1989,7 +1989,7 @@
 "cls": "person",
 "id": "colm-kelleher",
 "label": "Colm A. Kelleher",
-"tier": "A"
+"tier": "B"
 },
 {
 "cls": "domain",
@@ -2109,7 +2109,7 @@
 "cls": "document",
 "id": "dird-mhd-air-breathing-propulsion-and-power",
 "label": "MHD Air Breathing Propulsion and Power for Aerospace Applications",
-"tier": "C"
+"tier": "B"
 },
 {
 "cls": "document",
@@ -2217,7 +2217,7 @@
 "cls": "person",
 "id": "jesse-michels",
 "label": "Jesse Michels",
-"tier": "B"
+"tier": "C"
 },
 {
 "cls": "institution",
@@ -2378,7 +2378,7 @@
 ],
 "sub": "dia-program",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 3 of 1057, score 174). 61 connections, 54 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C3/A3/D3.",
+"tierRationale": "Re-graded A on a global pass (rank 2 of 1057, score 174). 61 connections, 53 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A3/D3.",
 "timeline": [
 {
 "date": "2012-01-01",

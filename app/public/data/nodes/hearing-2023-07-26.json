@@ -616,7 +616,7 @@
 "url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/pdf/CHRG-118hhrg53022.pdf"
 }
 ],
-"tier": "A",
+"tier": "B",
 "type": "programmatic"
 },
 {
@@ -647,7 +647,7 @@
 "url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm"
 }
 ],
-"tier": "A",
+"tier": "B",
 "type": "witness-chain"
 },
 {
@@ -953,7 +953,7 @@
 "cls": "person",
 "id": "ryan-graves",
 "label": "Ryan Graves",
-"tier": "A"
+"tier": "B"
 },
 {
 "cls": "person",
@@ -1028,7 +1028,7 @@
 ],
 "sub": "congressional-hearings",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 14 of 1057, score 120). 24 connections, 9 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C2/A2/D3.",
+"tierRationale": "Re-graded A on a global pass (rank 24 of 1057, score 102). 24 connections, 3 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A2/D3.",
 "timeline": [
 {
 "date": "2023-07-20",

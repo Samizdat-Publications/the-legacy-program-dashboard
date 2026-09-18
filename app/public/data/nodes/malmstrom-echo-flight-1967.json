@@ -165,7 +165,7 @@
 "url": "https://www.ufohastings.com/documents"
 }
 ],
-"tier": "B",
+"tier": "C",
 "type": "witness-chain"
 },
 {
@@ -272,7 +272,7 @@
 "cls": "person",
 "id": "robert-salas",
 "label": "Capt. Robert L. Salas",
-"tier": "B"
+"tier": "C"
 }
 ],
 "short": "Malmstrom Echo Flight, Mar 1967",
@@ -305,7 +305,7 @@
 ],
 "sub": "Echo Flight and Oscar Flight Minuteman off-alert events, 341st Strategic Missile Wing",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 167 of 1057, score 49). 6 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A2/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 176 of 1057, score 46). 6 connections, 1 of them custody/funding/programmatic. Axes C0/A2/D3.",
 "timeline": [
 {
 "date": "1967-03-16",

@@ -81,7 +81,7 @@
 "url": "https://www.vice.com/en/article/tom-delonges-ufo-research-company-paid-dollar35000-for-exotic-metals-that-might-actually-just-be-bismuth/"
 }
 ],
-"tier": "B",
+"tier": "A",
 "type": "custody"
 },
 {
@@ -410,7 +410,7 @@
 "cls": "domain",
 "id": "d-materials",
 "label": "Materials and custody analysis",
-"tier": "B"
+"tier": "A"
 },
 {
 "cls": "person",
@@ -496,7 +496,7 @@
 ],
 "sub": "TTSA materials program run with EarthTech International",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 78 of 1057, score 69). 8 connections, 7 of them custody/witness/funding/programmatic. Axes C3/A1/D2.",
+"tierRationale": "Re-graded A on a global pass (rank 73 of 1057, score 69). 8 connections, 7 of them custody/funding/programmatic. Axes C3/A1/D2.",
 "timeline": [
 {
 "date": "1996-01-01",

@@ -297,7 +297,7 @@
 "url": "https://www.dodig.mil/Reports/Audits-and-Evaluations/Article/3496071/evaluation-of-the-dods-actions-regarding-unidentified-anomalous-phenomena-dodig/"
 }
 ],
-"tier": "B",
+"tier": "C",
 "type": "institutional"
 },
 {
@@ -1727,7 +1727,7 @@
 "cls": "institution",
 "id": "dod-oig",
 "label": "Department of Defense Office of Inspector General",
-"tier": "B"
+"tier": "C"
 },
 {
 "cls": "document",
@@ -1908,6 +1908,6 @@
 ],
 "sub": "Executive department; owner of the SAP enterprise and of every alleged recovery compartment",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 15 of 1057, score 118). 48 connections, 2 of them custody/witness/funding/programmatic, 17 official denials recorded against it. Axes C3/A3/D1.",
+"tierRationale": "Re-graded A on a global pass (rank 14 of 1057, score 115). 48 connections, 1 of them custody/funding/programmatic, 17 official denials recorded against it. Axes C3/A3/D1.",
 "timeline": []
 }

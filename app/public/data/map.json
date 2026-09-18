@@ -3632,7 +3632,7 @@
    "id": "gao-nsiad-95-187",
    "label": "GAO/NSIAD-95-187 — Results of a Search for Records Concerning the 1947 Crash Near Roswell",
    "short": "GAO/NSIAD-95-187",
-   "tier": "B"
+   "tier": "A"
   },
   {
    "A": 1,
@@ -4382,7 +4382,7 @@
    "id": "paper-nolan-vallee-2022",
    "label": "Nolan, Vallee, Jiang & Lemke (2022), Progress in Aerospace Sciences 128:100788",
    "short": "Nolan & Vallee 2022, Prog Aero Sci",
-   "tier": "C"
+   "tier": "B"
   },
   {
    "A": 2,
@@ -4397,7 +4397,7 @@
    "id": "podesta-delonge-mccasland-email-2016",
    "label": "DeLonge to Podesta, 'General McCasland', 25 January 2016 (WikiLeaks Podesta Emails 3099)",
    "short": "DeLonge to Podesta, 25 Jan 2016",
-   "tier": "A"
+   "tier": "B"
   },
   {
    "A": 2,
@@ -4457,7 +4457,7 @@
    "id": "rendlesham-1980",
    "label": "Rendlesham Forest Incident, RAF Woodbridge/Bentwaters",
    "short": "Rendlesham Forest, 1980",
-   "tier": "A"
+   "tier": "B"
   },
   {
    "A": 3,
@@ -4637,7 +4637,7 @@
    "id": "sky-canada-project",
    "label": "Sky Canada Project - Office of the Chief Science Advisor of Canada",
    "short": "Sky Canada Project",
-   "tier": "C"
+   "tier": "B"
   },
   {
    "A": 2,
@@ -4712,7 +4712,7 @@
    "id": "talbert-gravity-series-1955",
    "label": "Ansel E. Talbert, three-part gravity series, New York Herald Tribune, 20-22 November 1955",
    "short": "Talbert gravity series, Nov 1955",
-   "tier": "C"
+   "tier": "B"
   },
   {
    "A": 1,
@@ -5000,7 +5000,7 @@
    "tier": "B"
   }
  ],
- "source": "8aefa7a4112c",
+ "source": "2697314bdac1",
  "summarised": [
   {
    "a": "aaro",

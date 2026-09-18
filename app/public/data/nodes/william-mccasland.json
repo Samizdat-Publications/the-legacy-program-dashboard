@@ -156,7 +156,7 @@
 "url": "https://wikileaks.org/podesta-emails/emailid/3099"
 }
 ],
-"tier": "A",
+"tier": "B",
 "type": "witness-chain"
 }
 ],
@@ -232,8 +232,8 @@
 ],
 "status": "missing",
 "sub": "Maj. Gen., USAF (ret.); former AFRL commander; disappeared February 2026",
-"tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 154 of 1057, score 50). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A3/D0.",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 163 of 1057, score 47). 3 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D0.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": [

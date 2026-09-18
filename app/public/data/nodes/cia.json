@@ -439,7 +439,7 @@
 "url": "https://files.ncas.org/condon/text/s5chap02.htm"
 }
 ],
-"tier": "C",
+"tier": "B",
 "type": "institutional"
 },
 {
@@ -831,7 +831,7 @@
 "url": "https://archive.org/details/cia-readingroom-document-cia-rdp68-00046r000200090025-2"
 }
 ],
-"tier": "B",
+"tier": "A",
 "type": "institutional"
 },
 {
@@ -1333,7 +1333,7 @@
 "cls": "person",
 "id": "hoyt-vandenberg",
 "label": "Hoyt S. Vandenberg",
-"tier": "C"
+"tier": "B"
 },
 {
 "cls": "person",
@@ -1375,7 +1375,7 @@
 "cls": "person",
 "id": "roscoe-hillenkoetter",
 "label": "Roscoe H. Hillenkoetter",
-"tier": "B"
+"tier": "A"
 },
 {
 "cls": "institution",
@@ -1439,7 +1439,7 @@
 ],
 "sub": "Independent civilian foreign intelligence service; convener of the Robertson Panel",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 16 of 1057, score 118). 42 connections, 7 of them custody/witness/funding/programmatic, 7 official denials recorded against it. Axes C2/A3/D1.",
+"tierRationale": "Re-graded A on a global pass (rank 12 of 1057, score 118). 42 connections, 7 of them custody/funding/programmatic, 7 official denials recorded against it. Axes C2/A3/D1.",
 "timeline": [
 {
 "date": "1947-07-26",

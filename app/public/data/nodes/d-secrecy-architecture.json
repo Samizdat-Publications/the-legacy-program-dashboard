@@ -41,7 +41,7 @@
 "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim"
 }
 ],
-"tier": "B",
+"tier": "C",
 "type": "institutional"
 },
 {
@@ -135,6 +135,6 @@
 ],
 "sub": "Structural domain - how compartments are stacked so that no single person sees the whole",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 464 of 1057, score 31). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A3/D1.",
+"tierRationale": "Re-graded B on a global pass (rank 438 of 1057, score 31). 3 connections, 1 of them custody/funding/programmatic. Axes C2/A3/D1.",
 "timeline": []
 }

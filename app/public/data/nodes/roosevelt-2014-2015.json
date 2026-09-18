@@ -166,7 +166,7 @@
 "url": "https://oversight.house.gov/wp-content/uploads/2023/07/Ryan-HOC-Testimony.pdf"
 }
 ],
-"tier": "A",
+"tier": "B",
 "type": "witness-chain"
 },
 {
@@ -397,7 +397,7 @@
 "cls": "person",
 "id": "ryan-graves",
 "label": "Ryan Graves",
-"tier": "A"
+"tier": "B"
 },
 {
 "cls": "institution",
@@ -426,7 +426,7 @@
 ],
 "sub": "Multi-aircrew UAP encounter series, Atlantic warning areas",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 386 of 1057, score 34). 8 connections, 3 of them custody/witness/funding/programmatic. Axes C0/A1/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 442 of 1057, score 31). 8 connections, 2 of them custody/funding/programmatic. Axes C0/A1/D3.",
 "timeline": [
 {
 "date": "2014-01-01",

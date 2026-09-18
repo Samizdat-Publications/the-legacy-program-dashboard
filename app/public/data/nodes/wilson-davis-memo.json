@@ -212,7 +212,7 @@
 "url": "https://www.youtube.com/watch?v=xnxasfyHtfo"
 }
 ],
-"tier": "B",
+"tier": "C",
 "type": "investigative"
 },
 {
@@ -259,7 +259,7 @@
 "url": "https://thedebrief.org/summer-of-the-saucers/"
 }
 ],
-"tier": "B",
+"tier": "C",
 "type": "denial"
 },
 {
@@ -280,7 +280,7 @@
 "url": "https://documents2.theblackvault.com/casefiles/wilsonleak.pdf"
 }
 ],
-"tier": "B",
+"tier": "C",
 "type": "witness-chain"
 }
 ],
@@ -494,7 +494,7 @@
 "cls": "person",
 "id": "jesse-michels",
 "label": "Jesse Michels",
-"tier": "B"
+"tier": "C"
 },
 {
 "cls": "person",
@@ -506,13 +506,13 @@
 "cls": "person",
 "id": "thomas-wilson",
 "label": "Thomas R. Wilson",
-"tier": "B"
+"tier": "C"
 },
 {
 "cls": "person",
 "id": "will-miller",
 "label": "Will Miller",
-"tier": "B"
+"tier": "C"
 }
 ],
 "short": "The Wilson-Davis Notes",
@@ -545,7 +545,7 @@
 ],
 "sub": "Fifteen handwritten pages by Eric W. Davis of a conversation with VADM Thomas R. Wilson (ret.)",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 49 of 1057, score 81). 10 connections, 6 of them custody/witness/funding/programmatic, 2 official denials recorded against it. Axes C3/A3/D3.",
+"tierRationale": "Re-graded A on a global pass (rank 65 of 1057, score 72). 10 connections, 3 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C3/A3/D3.",
 "timeline": [
 {
 "date": "2002-10-16",

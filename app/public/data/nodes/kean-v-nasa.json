@@ -72,7 +72,7 @@
 "url": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.106063/gov.uscourts.dcd.106063.45.0.pdf"
 }
 ],
-"tier": "C",
+"tier": "B",
 "type": "investigative"
 },
 {
@@ -168,7 +168,7 @@
 ],
 "sub": "Federal FOIA litigation over the Kecksburg records, 2003-2009",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 653 of 1057, score 25). 4 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 631 of 1057, score 25). 4 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D3.",
 "timeline": [
 {
 "date": "2003-01-31",

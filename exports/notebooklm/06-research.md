@@ -56,7 +56,7 @@ Roles the board assigns it: research, concealment, disclosure, custody.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 196 of 1057, score 45). 15 connections, 3 of them custody/witness/funding/programmatic. Axes C0/A1/D3.
+Re-graded B on a global pass (rank 190 of 1057, score 45). 15 connections, 3 of them custody/funding/programmatic. Axes C0/A1/D3.
 
 ### The claims on the record
 
@@ -143,7 +143,7 @@ Roles the board assigns it: research, concealment, custody.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 38 of 1057, score 90). 15 connections, 6 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C3/A2/D1.
+Re-graded A on a global pass (rank 35 of 1057, score 90). 15 connections, 6 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A2/D1.
 
 ### The claims on the record
 
@@ -237,7 +237,7 @@ Roles the board assigns it: concealment, oversight, research.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 85 of 1057, score 68). 15 connections, 6 of them custody/witness/funding/programmatic, 3 official denials recorded against it. Axes C0/A3/D0.
+Re-graded A on a global pass (rank 98 of 1057, score 62). 15 connections, 4 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C0/A3/D0.
 
 ### The claims on the record
 
@@ -325,7 +325,7 @@ Roles the board assigns it: concealment, oversight, research, disclosure.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 139 of 1057, score 53). 13 connections, 3 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D1.
+Re-graded A on a global pass (rank 131 of 1057, score 53). 13 connections, 3 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D1.
 
 ### The claims on the record
 
@@ -409,7 +409,7 @@ Roles the board assigns it: research, custody, disclosure, concealment.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 104 of 1057, score 61). 11 connections, 4 of them custody/witness/funding/programmatic. Axes C2/A2/D3.
+Re-graded A on a global pass (rank 101 of 1057, score 61). 11 connections, 4 of them custody/funding/programmatic. Axes C2/A2/D3.
 
 ### The claims on the record
 
@@ -475,7 +475,7 @@ Roles the board assigns it: concealment, research, disclosure.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 153 of 1057, score 51). 9 connections, 4 of them custody/witness/funding/programmatic. Axes C0/A3/D2.
+Re-graded A on a global pass (rank 146 of 1057, score 51). 9 connections, 4 of them custody/funding/programmatic. Axes C0/A3/D2.
 
 ### The claims on the record
 
@@ -534,7 +534,7 @@ Roles the board assigns it: concealment, custody, research.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 194 of 1057, score 45). 8 connections, 3 of them custody/witness/funding/programmatic. Axes C3/A3/D0.
+Re-graded B on a global pass (rank 188 of 1057, score 45). 8 connections, 3 of them custody/funding/programmatic. Axes C3/A3/D0.
 
 ### The claims on the record
 
@@ -546,10 +546,10 @@ Re-graded B on a global pass (rank 194 of 1057, score 45). 8 connections, 3 of t
 
 ### Its strongest connections
 
-- Lockheed Martin Advanced Development Programs (Skunk Works) comes in from **DeLonge to Podesta, 'General McCasland', 25 January 2016 (WikiLeaks Podesta Emails 3099)** (document, board tier A), a institutional link at Tier 1 documented. The link reads: Rob Weiss of Lockheed Skunk Works copied on the meeting thread and named by DeLonge. rob.f.weiss@lmco.com is a copy recipient on the 24 and 25 January 2016 meeting thread, and on 22 February 2016 DeLonge wrote to Podesta of 'Mr. Weiss from Lockheed SkunkWorks' asking whether there were any updates for him and the General. Sources: WikiLeaks, The Podesta Emails, email ids 51979 and 15486, https://wikileaks.org/podesta-emails/emailid/15486, dated 2016-02-22.
+- Lockheed Martin Advanced Development Programs (Skunk Works) comes in from **DeLonge to Podesta, 'General McCasland', 25 January 2016 (WikiLeaks Podesta Emails 3099)** (document, board tier B), a institutional link at Tier 1 documented. The link reads: Rob Weiss of Lockheed Skunk Works copied on the meeting thread and named by DeLonge. rob.f.weiss@lmco.com is a copy recipient on the 24 and 25 January 2016 meeting thread, and on 22 February 2016 DeLonge wrote to Podesta of 'Mr. Weiss from Lockheed SkunkWorks' asking whether there were any updates for him and the General. Sources: WikiLeaks, The Podesta Emails, email ids 51979 and 15486, https://wikileaks.org/podesta-emails/emailid/15486, dated 2016-02-22.
 - Lockheed Martin Advanced Development Programs (Skunk Works) comes in from **GAO accession 130581 - Controls Over Classified Documents for a Special Access Program at Lockheed Corporation** (document, board tier B), a geographic link at Tier 1 documented. The link reads: the companion report names the Lockheed/Burbank plant the testimony would not. GAO/NSIAD-86-191 names 'the Lockheed/Burbank plant'. The testimony itself carries a footnote recording that GAO 'agreed not to identify the nature of the program or the specific DOD component or military service involved'. Sources: GAO/NSIAD-86-191, 7 August 1986, https://www.gao.gov/assets/nsiad-86-191.pdf, dated 1986-08-07.
 - Lockheed Martin Advanced Development Programs (Skunk Works) comes in from **Richard M. Bissell Jr.** (person, board tier B), a programmatic link at Tier 1 documented. The link reads: Ran the project Kelly Johnson built the aircraft for. Kelly Johnson was on the 12 April 1955 site flight with Lockheed's chief test pilot, and named the resulting base the Paradise Ranch to make it sound better to his workers. Sources: Pedlow and Welzenbach, The Central Intelligence Agency and Overhead Reconnaissance, 2013 release, chapter 2, https://archive.org/download/cia-readingroom-document-0000190094/0000190094_djvu.txt, dated 2013-06-25.
-- Lockheed Martin Advanced Development Programs (Skunk Works) comes in from **Ben R. Rich** (person, board tier C), a institutional link at Tier 1 documented. The link reads: Rich directed Skunk Works through the F-117 era and into the RQ-170 lineage. His memoir is the primary document on how unacknowledged programs were compartmented, staffed and funded inside the corporation. Sources: Ben R. Rich and Leo Janos, 'Skunk Works: A Personal Memoir of My Years at Lockheed' (Internet Archive), https://archive.org/details/skunkworks00benr, dated 1994-01-01.
+- Lockheed Martin Advanced Development Programs (Skunk Works) comes in from **Ben R. Rich** (person, board tier B), a institutional link at Tier 1 documented. The link reads: Rich directed Skunk Works through the F-117 era and into the RQ-170 lineage. His memoir is the primary document on how unacknowledged programs were compartmented, staffed and funded inside the corporation. Sources: Ben R. Rich and Leo Janos, 'Skunk Works: A Personal Memoir of My Years at Lockheed' (Internet Archive), https://archive.org/details/skunkworks00benr, dated 1994-01-01.
 - Lockheed Martin Advanced Development Programs (Skunk Works) runs out to **Air Force Plant 42, Palmdale, California** (location, board tier C), a institutional link at Tier 1 documented. The link reads: Skunk Works operates at the government-owned contractor-operated Palmdale facility. Plant 42 is compartmented program by program inside a single fence line, which is the physical form of the concealment architecture at issue. Sources: AARO, 'Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP), Volume I', https://documents2.theblackvault.com/documents/dod/AARO_Historical_Record_Report_Volume_1_2024.pdf, dated 2024-03-08.
 - Lockheed Martin Advanced Development Programs (Skunk Works) comes in from **KONA BLUE** (program, board tier A), a custody link at Tier 2 named person on the record. The link reads: Alleges Lockheed-held material was to be transferred. The Kona Blue allegation concerns a proposed change of custodial agency for physical material held on the Lockheed side - a bureaucratic transaction that would leave programme proposals and declination correspondence. Sources: NewsNation Reality Check - 'Inside Kona Blue', https://www.youtube.com/watch?v=F2NfXgv8x1E, dated 2026-08-04.
 - Lockheed Martin Advanced Development Programs (Skunk Works) runs out to **Groom Lake, Nevada** (location, board tier B), a programmatic link at Tier 2 named person on the record. The link reads: Skunk Works aircraft were tested at Groom Lake because they could not be tested at Edwards. The CIA's own history records that U-2 flight test and pilot training could not be conducted at Edwards or Palmdale given the secrecy of the project. The U-2, A-12, HAVE BLUE and F-117 all flew first at Groom. Sources: Wikipedia - Area 51, https://en.wikipedia.org/wiki/Area_51, dated 2026-08-12.
@@ -591,7 +591,7 @@ Roles the board assigns it: custody, research, concealment.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 155 of 1057, score 50). 8 connections, 1 of them custody/witness/funding/programmatic. Axes C3/A3/D0.
+Re-graded A on a global pass (rank 148 of 1057, score 50). 8 connections, 1 of them custody/funding/programmatic. Axes C3/A3/D0.
 
 ### The claims on the record
 
@@ -665,7 +665,7 @@ Roles the board assigns it: custody, concealment, research.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 143 of 1057, score 53). 7 connections, 1 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C3/A3/D0.
+Re-graded A on a global pass (rank 134 of 1057, score 53). 7 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A3/D0.
 
 ### The claims on the record
 
@@ -734,7 +734,7 @@ Roles the board assigns it: research, custody, concealment.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 131 of 1057, score 55). 7 connections, 3 of them custody/witness/funding/programmatic. Axes C3/A3/D1.
+Re-graded A on a global pass (rank 140 of 1057, score 52). 7 connections, 2 of them custody/funding/programmatic. Axes C3/A3/D1.
 
 ### The claims on the record
 
@@ -794,7 +794,7 @@ Roles the board assigns it: research, custody.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 119 of 1057, score 58). 6 connections, 5 of them custody/witness/funding/programmatic. Axes C3/A1/D2.
+Re-graded A on a global pass (rank 111 of 1057, score 58). 6 connections, 5 of them custody/funding/programmatic. Axes C3/A1/D2.
 
 ### The claims on the record
 
@@ -862,7 +862,7 @@ Roles the board assigns it: research, concealment, disclosure.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 145 of 1057, score 52). 6 connections, 2 of them custody/witness/funding/programmatic. Axes C1/A2/D2.
+Re-graded A on a global pass (rank 138 of 1057, score 52). 6 connections, 2 of them custody/funding/programmatic. Axes C1/A2/D2.
 
 ### The claims on the record
 
@@ -901,7 +901,7 @@ Re-graded A on a global pass (rank 145 of 1057, score 52). 6 connections, 2 of t
 
 ## Ansel E. Talbert, three-part gravity series, New York Herald Tribune, 20-22 November 1955
 
-Ansel E. Talbert, three-part gravity series, New York Herald Tribune, 20-22 November 1955 is a document on the board; board tier C, contextual, real and relevant, no direct programme linkage on the record yet; dates 1955-11-20 to 1955-11-22; axes C0 A0 D3; 6 connections; in the research band.
+Ansel E. Talbert, three-part gravity series, New York Herald Tribune, 20-22 November 1955 is a document on the board; board tier B, documented channel and capability, programme role indicated but not yet nailed to a primary source; dates 1955-11-20 to 1955-11-22; axes C0 A0 D3; 6 connections; in the research band.
 
 In one line: Three front-page articles by Ansel E. Talbert, Military and Aviation Editor, New York Herald Tribune, 20, 21 and 22 November 1955.
 
@@ -926,7 +926,7 @@ Roles the board assigns it: disclosure, research.
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 528 of 1057, score 29). 6 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.
+Re-graded B on a global pass (rank 506 of 1057, score 29). 6 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.
 
 ### The claims on the record
 
@@ -982,7 +982,7 @@ Roles the board assigns it: research, disclosure.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 113 of 1057, score 59). 11 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A1/D3.
+Re-graded A on a global pass (rank 117 of 1057, score 56). 11 connections, 1 of them custody/funding/programmatic. Axes C0/A1/D3.
 
 ### The claims on the record
 
@@ -1064,7 +1064,7 @@ Roles the board assigns it: research, disclosure.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 197 of 1057, score 45). 11 connections, 2 of them custody/witness/funding/programmatic. Axes C1/A2/D2.
+Re-graded B on a global pass (rank 191 of 1057, score 45). 11 connections, 2 of them custody/funding/programmatic. Axes C1/A2/D2.
 
 ### The claims on the record
 
@@ -1137,7 +1137,7 @@ Roles the board assigns it: research, disclosure.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 90 of 1057, score 67). 9 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D3.
+Re-graded A on a global pass (rank 84 of 1057, score 67). 9 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D3.
 
 ### The claims on the record
 
@@ -1162,7 +1162,7 @@ Re-graded A on a global pass (rank 90 of 1057, score 67). 9 connections, 0 of th
 
 ### Its strongest connections
 
-- CEFAA / SEFAA - Chilean anomalous aerial phenomena office, Dirección General de Aeronáutica Civil comes in from **Sky Canada Project - Office of the Chief Science Advisor of Canada** (program, board tier C), a research link at Tier 1 documented. The link reads: identifies SEFAA as a model and recommends partnership. Canada's Office of the Chief Science Advisor identified the United States, France and Chile as the three national UAP reporting models worth examining, described SEFAA's operations and its commitment to transparency, and recommended Canada partner with SEFAA alongside AARO, NASA and GEIPAN. Sources: Sky Canada Project report, https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada, dated 2025-06-01; https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada, https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada
+- CEFAA / SEFAA - Chilean anomalous aerial phenomena office, Dirección General de Aeronáutica Civil comes in from **Sky Canada Project - Office of the Chief Science Advisor of Canada** (program, board tier B), a research link at Tier 1 documented. The link reads: identifies SEFAA as a model and recommends partnership. Canada's Office of the Chief Science Advisor identified the United States, France and Chile as the three national UAP reporting models worth examining, described SEFAA's operations and its commitment to transparency, and recommended Canada partner with SEFAA alongside AARO, NASA and GEIPAN. Sources: Sky Canada Project report, https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada, dated 2025-06-01; https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada, https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada
 - CEFAA / SEFAA - Chilean anomalous aerial phenomena office, Dirección General de Aeronáutica Civil runs out to **The three-office model: GEIPAN, SEFAA, AARO** (domain, board tier C), a institutional link at Tier 1 documented. The link reads: the civil-aviation implementation of the same model. SEFAA sits inside the DGAC, publishes monthly resolved-case bulletins and archives cases by year back to 2018. Sources: SEFAA - Historia, https://sefaa.dgac.gob.cl/historia/, dated 2026-08-12.
 - CEFAA / SEFAA - Chilean anomalous aerial phenomena office, Dirección General de Aeronáutica Civil runs out to **DGAC Chile, Dirección General de Aeronáutica Civil** (institution, board tier C), a institutional link at Tier 1 documented. The link reads: created and housed by the DGAC. Chile's Direccion General de Aeronautica Civil dates CEFAA's establishment to 3 October 1997 and hosts it: after the 2021 reorganisation the successor body SEFAA 'operates within the General Directorate of Civil Aeronautics', as Canada's Sky Canada report independently describes it. General Ricardo Bermudez Sanhueza, who took over the Escuela Tecnica Aeronautica in 1997, also took the direction of the committee and served until 2016. Sources: DGAC Chile / SEFAA, Historia, https://sefaa.dgac.gob.cl/historia/, dated 2026-08-25; https://sefaa.dgac.gob.cl/quienes-somos/, https://sefaa.dgac.gob.cl/quienes-somos/; https://www.dgac.gob.cl/cefaa-un-modelo-investigativo-de-fenomenos-aereos-anomalos/, https://www.dgac.gob.cl/cefaa-un-modelo-investigativo-de-fenomenos-aereos-anomalos/
 - CEFAA / SEFAA - Chilean anomalous aerial phenomena office, Dirección General de Aeronáutica Civil comes in from **Coronel de Aviación Sergio Bravo Flores** (person, board tier C), a temporal link at Tier 1 documented. The link reads: 1968-1975 commission is CEFAA's institutional ancestor. SEFAA's history places the origin of official Chilean UAP reporting with Bravo Flores at the Meteorological Office in 1968. Sources: SEFAA - Historia, https://sefaa.dgac.gob.cl/historia/, dated 2026-08-12.
@@ -1217,7 +1217,7 @@ Roles the board assigns it: research, custody, disclosure, concealment.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 75 of 1057, score 70). 10 connections, 5 of them custody/witness/funding/programmatic. Axes C2/A2/D2.
+Re-graded A on a global pass (rank 70 of 1057, score 70). 10 connections, 5 of them custody/funding/programmatic. Axes C2/A2/D2.
 
 ### The claims on the record
 
@@ -1295,7 +1295,7 @@ Roles the board assigns it: research, disclosure, concealment, custody.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 134 of 1057, score 55). 6 connections, 2 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D3.
+Re-graded A on a global pass (rank 125 of 1057, score 55). 6 connections, 2 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D3.
 
 ### The claims on the record
 
@@ -1376,7 +1376,7 @@ Roles the board assigns it: oversight, concealment, disclosure, research.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 128 of 1057, score 55). 18 connections, 2 of them custody/witness/funding/programmatic. Axes C1/A3/D3.
+Re-graded A on a global pass (rank 120 of 1057, score 55). 18 connections, 2 of them custody/funding/programmatic. Axes C1/A3/D3.
 
 ### The claims on the record
 
@@ -1455,7 +1455,7 @@ Roles the board assigns it: research, disclosure.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 86 of 1057, score 68). 10 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D3.
+Re-graded A on a global pass (rank 81 of 1057, score 68). 10 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D3.
 
 ### The claims on the record
 
@@ -1484,7 +1484,7 @@ Re-graded A on a global pass (rank 86 of 1057, score 68). 10 connections, 0 of t
 ### Its strongest connections
 
 - GEIPAN - Groupe d'Études et d'Informations sur les Phénomènes Aérospatiaux Non identifiés runs out to **COMETA - Comité d'Études Approfondies** (institution, board tier A), a institutional link at Tier 1 documented. The link reads: shared IHEDN lineage; SEPRA head contributed. COMETA's introduction records the shared parentage: 'In 1976, a committee of the Institut des Hautes Etudes de Defense Nationale (IHEDN) chaired by General Blanchard of the Gendarmerie Nationale opened the unidentified flying objects file. The objective: to make proposals for organizing research and the collection of data on these phenomena. The goal was achieved, because the recommendations of this committee were followed in the creation of the Groupe d'Etude des Phenomenes Aerospatiaux Non Identifies (GEPAN).' COMETA then rests its own report on GEPAN/SEPRA's casework by name. Sources: COMETA, 'UFOs and Defense: What Should We Prepare For?', 1999, Introduction, https://ia800403.us.archive.org/17/items/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D.pdf, dated 1999-07-01.
-- GEIPAN - Groupe d'Études et d'Informations sur les Phénomènes Aérospatiaux Non identifiés comes in from **Sky Canada Project - Office of the Chief Science Advisor of Canada** (program, board tier C), a research link at Tier 1 documented. The link reads: identifies GEIPAN as a model and recommends partnership. Canada's Office of the Chief Science Advisor examined GEIPAN in detail, told Canada that 'the example of GEIPAN in France is worth considering' when establishing a dedicated service, and recommended in recommendation 13 that Canada's lead organisation partner with 'AARO and NASA (U.S.A.), GEIPAN (France), and SEFAA (Chile)'. Sources: Sky Canada Project report, https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada, dated 2025-06-01; https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada, https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada
+- GEIPAN - Groupe d'Études et d'Informations sur les Phénomènes Aérospatiaux Non identifiés comes in from **Sky Canada Project - Office of the Chief Science Advisor of Canada** (program, board tier B), a research link at Tier 1 documented. The link reads: identifies GEIPAN as a model and recommends partnership. Canada's Office of the Chief Science Advisor examined GEIPAN in detail, told Canada that 'the example of GEIPAN in France is worth considering' when establishing a dedicated service, and recommended in recommendation 13 that Canada's lead organisation partner with 'AARO and NASA (U.S.A.), GEIPAN (France), and SEFAA (Chile)'. Sources: Sky Canada Project report, https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada, dated 2025-06-01; https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada, https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada
 - GEIPAN - Groupe d'Études et d'Informations sur les Phénomènes Aérospatiaux Non identifiés runs out to **The three-office model: GEIPAN, SEFAA, AARO** (domain, board tier C), a institutional link at Tier 1 documented. The link reads: the reference implementation of a civil state UAP office. Published classification, published case conclusions, national police feed, three full-time staff and twenty-plus trained volunteers. Sources: GEIPAN - Classification, https://www.geipan.fr/fr/node/58787, dated 2026-03-31; Sky Canada Project report, https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada, dated 2025-06-01.
 - GEIPAN - Groupe d'Études et d'Informations sur les Phénomènes Aérospatiaux Non identifiés runs out to **France** (location, board tier C), a geographic link at Tier 1 documented. The link reads: French national UAP office, CNES Toulouse. CNES describes GEIPAN as 'the French UAP research and information group created by CNES in 1977', based in Toulouse, overseen by COPEIPAN - a steering committee of gendarmerie, police, air and space force and academic representatives - with status 'In operation' and an indefinite lifetime. Sources: CNES, GEIPAN project page, https://www.cnes.fr/en/projects/geipan, dated 2026-08-25; https://cnes.fr/en/projects/geipan, https://cnes.fr/en/projects/geipan; https://cnes-geipan.fr/en/histoire-du-geipan, https://cnes-geipan.fr/en/histoire-du-geipan
 - GEIPAN - Groupe d'Études et d'Informations sur les Phénomènes Aérospatiaux Non identifiés comes in from **Centre National d'Études Spatiales (CNES)** (institution, board tier C), a institutional link at Tier 1 documented. The link reads: GEIPAN is a unit of CNES at Toulouse. The French office has been hosted inside the national space agency continuously since 1977, an arrangement Norlain called unique in the world. Sources: GEIPAN - Classification, https://www.geipan.fr/fr/node/58787, dated 2026-03-31; COMETA report, https://ia800403.us.archive.org/17/items/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D.pdf, dated 1999-07-01.
@@ -1538,7 +1538,7 @@ Roles the board assigns it: research, concealment, disclosure.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 100 of 1057, score 64). 9 connections, 3 of them custody/witness/funding/programmatic. Axes C1/A2/D3.
+Re-graded A on a global pass (rank 95 of 1057, score 64). 9 connections, 3 of them custody/funding/programmatic. Axes C1/A2/D3.
 
 ### The claims on the record
 
@@ -1620,7 +1620,7 @@ Roles the board assigns it: custody, disclosure, research.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 69 of 1057, score 73). 10 connections, 6 of them custody/witness/funding/programmatic. Axes C1/A0/D3.
+Re-graded A on a global pass (rank 64 of 1057, score 73). 10 connections, 6 of them custody/funding/programmatic. Axes C1/A0/D3.
 
 ### The claims on the record
 
@@ -1657,7 +1657,7 @@ A further 2 claims sit on this node on the board and are not reproduced here.
 - Arquivo Nacional (Brazil) - UFO/UAP collection comes in from **Força Aérea Brasileira / Ministério da Aeronáutica** (institution, board tier A), a programmatic link at Tier 1 documented. The link reads: Portaria 551/GC3 (9 Aug 2010): COMDABRA/COMAE catalogues, CENDOC forwards originals periodically. Art. 3 mandates periodic transfer of originals, which is why the fund has no terminal year. Published DOU 10 Aug 2010, Seção 1, p. 101. Revoked Nota C-002/MIN/ADM (13 Apr 1978) and Aviso S-001/MIN (28 Feb 1989). Successive accessions are documented at least to a 'terceiro recolhimento' covering 1981, with CENDOC's bulk remittance to COREG scheduled to close 31 Aug 2010; FAB states coverage now runs 1952-2025. Sources: https://www.migalhas.com.br/arquivos/2026/1/7F5E4CC12D7AE7_terceiraacao.pdf, https://www.migalhas.com.br/arquivos/2026/1/7F5E4CC12D7AE7_terceiraacao.pdf; https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=891762&filename=RIC+679%2F2011, https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=891762&filename=RIC+679%2F2011; https://www.cnnbrasil.com.br/ciencia/pilotos-e-controladores-relataram-18-casos-de-ovnis-no-brasil-em-2025/, https://www.cnnbrasil.com.br/ciencia/pilotos-e-controladores-relataram-18-casos-de-ovnis-no-brasil-em-2025/; Relatório de Ocorrências (Arquivo Nacional), http://imagem.sian.an.gov.br/acervo/derivadas/BR_DFANBSB_ARX/0/0/0249/BR_DFANBSB_ARX_0_0_0249_d0001de0001.pdf, dated 1986-06-02; BBC Brasil, https://www.bbc.com/portuguese/brasil-59953278, dated 2022-01-14.
 - Arquivo Nacional (Brazil) - UFO/UAP collection runs out to **National Archives Record Group 615 - UAP Records Collection** (institution, board tier A), a institutional link at Tier 1 documented. The link reads: COMPARISON: a voluntary military transfer into a civil archive versus a statutory collection ordered by Congress. COMPARISON EDGE, no institutional contact between the Arquivo Nacional and NARA is claimed or evidenced. Brazil: from 2007 the Comando da Aeronáutica began sending its holdings to the Arquivo Nacional of its own motion, producing the Fundo Objeto Voador Não Identificado – OVNI (BR DFANBSB ARX), 743 registros, served online, with the service publicly disclaiming further competence. The United States: the UAP Records Collection in Record Group 615 exists only because sections 1841–1843 of Public Law 118-31 ordered it into being, with a statutory transfer deadline and with the independent review board stripped out in conference. Same archival endpoint, opposite mechanism, one service handed its record over, the other had to be legislated at. [CORRECTED 14 Aug 2026: RQS 193/2022 is a request for a COMMEMORATIVE SPECIAL SESSION under Art. 199 RISF, approved 16 Mar 2022, held 24 Jun 2022 - not a records-seeking or compelling instrument. Its durable value is the content of its justificacao, which names Operacao Prato, the 1986 night, SIOANI and the archive reference BR DFANBSB ARX. These edges assert what the document NAMES, which is verifiable in its text and unaffected by its procedural nature, so the tier is unchanged. Any claim that the instrument COMPELLED disclosure would be false.] Sources: Arquivo Nacional (Brasil), 'Conheça o fundo sobre OVNIs do Arquivo Nacional', https://www.gov.br/arquivonacional/pt-br/canais_atendimento/imprensa/noticias/conheca-o-fundo-sobre-ovnis-do-arquivo-nacional; Senado Federal (Brasil), Requerimento nº 193, de 2022 (RQS 193/2022), autoria do Senador Eduardo Girão (PODEMOS/CE) com Eliziane Gama, Alessandro Vieira, Izalci Lucas, Jorge Kajuru, Marcos do Val, Paulo Rocha e Reguffe, sessão especial para os 75 anos do Dia Mundial da Ufologia, https://legis.senado.leg.br/sdleg-getter/documento?dm=9089831&ts=1647523438292&disposition=inline; FY2024 National Defense Authorization Act, Public Law 118-31, sections 1841–1843 (Unidentified Anomalous Phenomena Records Collection at NARA); Senado Federal, Dados Abertos, official record of RQS 193/2022 (Código 152222): ementa 'Sessão especial destinada a comemorar os 75 anos do Dia Mundial da Ufologia', 16 March 2022, Sen. Eduardo Girão and seven co-signers, https://legis.senado.leg.br/dadosabertos/materia/pesquisa/lista?sigla=RQS&numero=193&ano=2022, dated 2026-08-23; Relatório de Ocorrências (Arquivo Nacional PDF), http://imagem.sian.an.gov.br/acervo/derivadas/BR_DFANBSB_ARX/0/0/0249/BR_DFANBSB_ARX_0_0_0249_d0001de0001.pdf, dated 1986-06-02; Arquivo Nacional - portal, https://www.gov.br/arquivonacional/pt-br, dated 2026-08-12.
 - Arquivo Nacional (Brazil) - UFO/UAP collection comes in from **Operação Prato (Operation Saucer)** (program, board tier A), a programmatic link at Tier 1 documented. The link reads: SIAN search 'operação prato' returns 6 documents, none audiovisual. Arquivo Nacional's own answer to a litigant, quoted in the 2023 federal judgment. Contrasts with the 2011 parliamentary finding that hundreds of photographs (of 500+) and hours of super 8 / super 16mm film were never transferred from I COMAR. The court found insufficient evidence that the audiovisual files exist; the parliamentary record asserts they did. Both positions are on the record and are not reconciled. Sources: https://www.migalhas.com.br/arquivos/2026/1/7F5E4CC12D7AE7_terceiraacao.pdf, https://www.migalhas.com.br/arquivos/2026/1/7F5E4CC12D7AE7_terceiraacao.pdf; https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=891762&filename=RIC+679%2F2011, https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=891762&filename=RIC+679%2F2011; Operação Prato - Wikipedia, https://en.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Prato, dated 2026-01-01; Arquivo Nacional - portal, https://www.gov.br/arquivonacional/pt-br, dated 2026-08-12.
-- Arquivo Nacional (Brazil) - UFO/UAP collection runs out to **Sky Canada Project - Office of the Chief Science Advisor of Canada** (program, board tier C), a institutional link at Tier 1 documented. The link reads: COMPARISON: Canada surveyed the world's UAP-reporting models and did not mention Brazil once. COMPARISON EDGE, and a second sourced negative. The Sky Canada Project report examined 'the management of UAP reporting in several countries' and concluded that 'the processes in place in a few countries, notably the United States, France and Chile, provide interesting examples of coordinated, transparent, and scientifically driven approaches'. Its recommendation 13 tells the future Canadian lead organisation to 'establish partnerships with international entities dedicated to UAPs, such as AARO and NASA (U.S.A.), GEIPAN (France), and SEFAA (Chile).' The word 'Brazil' does not occur in the report. The state that actually put its military UAP files in a public archive is absent from the survey of states that handle UAP reporting well, which is a finding about the survey as much as about Brazil. Sources: Office of the Chief Science Advisor of Canada, 'Management of Public Reporting of Unidentified Aerial Phenomena in Canada' (Sky Canada Project, 2025), https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada; Arquivo Nacional - portal, https://www.gov.br/arquivonacional/pt-br, dated 2026-08-12.
+- Arquivo Nacional (Brazil) - UFO/UAP collection runs out to **Sky Canada Project - Office of the Chief Science Advisor of Canada** (program, board tier B), a institutional link at Tier 1 documented. The link reads: COMPARISON: Canada surveyed the world's UAP-reporting models and did not mention Brazil once. COMPARISON EDGE, and a second sourced negative. The Sky Canada Project report examined 'the management of UAP reporting in several countries' and concluded that 'the processes in place in a few countries, notably the United States, France and Chile, provide interesting examples of coordinated, transparent, and scientifically driven approaches'. Its recommendation 13 tells the future Canadian lead organisation to 'establish partnerships with international entities dedicated to UAPs, such as AARO and NASA (U.S.A.), GEIPAN (France), and SEFAA (Chile).' The word 'Brazil' does not occur in the report. The state that actually put its military UAP files in a public archive is absent from the survey of states that handle UAP reporting well, which is a finding about the survey as much as about Brazil. Sources: Office of the Chief Science Advisor of Canada, 'Management of Public Reporting of Unidentified Aerial Phenomena in Canada' (Sky Canada Project, 2025), https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada; Arquivo Nacional - portal, https://www.gov.br/arquivonacional/pt-br, dated 2026-08-12.
 - Arquivo Nacional (Brazil) - UFO/UAP collection comes in from **Senado Federal do Brasil** (institution, board tier C), a legislative link at Tier 1 documented. The link reads: The Senate's own 2022 instrument counts and cites the archive. RQS 193/2022 recites the transfer route from 2007 onward, 'somando-se hoje mais de 20 mil páginas de arquivos liberados', names Brigadeiro Junichi Saito's August 2010 decree in the Diário Oficial da União directing that all FAB UFO cases be concentrated at COMDABRA for shipment to the Arquivo Nacional, and gives the archive's own search behaviour: 'quando se pesquisa apenas o termo OVNI, se encontram 137 registros, mas se colocarmos na pesquisa um código de referência específico (BR DFANBSB ARX), encontraremos 758 documentos.' A national legislature citing archival reference codes in a legislative instrument is the specific thing the US board has no equivalent of. [CORRECTED 14 Aug 2026: RQS 193/2022 is a request for a COMMEMORATIVE SPECIAL SESSION under Art. 199 RISF, approved 16 Mar 2022, held 24 Jun 2022 - not a records-seeking or compelling instrument. Its durable value is the content of its justificacao, which names Operacao Prato, the 1986 night, SIOANI and the archive reference BR DFANBSB ARX. These edges assert what the document NAMES, which is verifiable in its text and unaffected by its procedural nature, so the tier is unchanged. Any claim that the instrument COMPELLED disclosure would be false.] Sources: Senado Federal (Brasil), Requerimento nº 193, de 2022 (RQS 193/2022), autoria do Senador Eduardo Girão (PODEMOS/CE) com Eliziane Gama, Alessandro Vieira, Izalci Lucas, Jorge Kajuru, Marcos do Val, Paulo Rocha e Reguffe, sessão especial para os 75 anos do Dia Mundial da Ufologia, https://legis.senado.leg.br/sdleg-getter/documento?dm=9089831&ts=1647523438292&disposition=inline; Arquivo Nacional (Brasil), 'Conheça o fundo sobre OVNIs do Arquivo Nacional', https://www.gov.br/arquivonacional/pt-br/canais_atendimento/imprensa/noticias/conheca-o-fundo-sobre-ovnis-do-arquivo-nacional; Senado Federal, Dados Abertos, official record of RQS 193/2022 (Código 152222): ementa 'Sessão especial destinada a comemorar os 75 anos do Dia Mundial da Ufologia', 16 March 2022, Sen. Eduardo Girão and seven co-signers, https://legis.senado.leg.br/dadosabertos/materia/pesquisa/lista?sigla=RQS&numero=193&ano=2022, dated 2026-08-23; Relatório de Ocorrências (Arquivo Nacional PDF), http://imagem.sian.an.gov.br/acervo/derivadas/BR_DFANBSB_ARX/0/0/0249/BR_DFANBSB_ARX_0_0_0249_d0001de0001.pdf, dated 1986-06-02; Senado Federal - Dados Abertos, list of senators in exercise (official open-data service, 81 members), https://legis.senado.leg.br/dadosabertos/senador/lista/atual, dated 2026-08-12.
 - Arquivo Nacional (Brazil) - UFO/UAP collection comes in from **Brasilia, Federal District, Brazil** (location, board tier C), a custody link at Tier 1 documented. The link reads: The UFO fund is held in Brasília and its reference code says so. The Arquivo Nacional's own notice identifies the holding as 'o Fundo Objeto Voador Não Identificado – OVNI (BR DFANBSB ARX)', produced by the Comando da Aeronáutica and held by the Arquivo Nacional, comprising 743 registros. DFANBSB is the archival code for the Arquivo Nacional's Brasília unit. RQS 193/2022 states the transfer route directly: 'A partir de 2007, a Aeronáutica, mas não o Exército e nem a Marinha, passou a enviar seus papeis resultantes de suas pesquisas para o Arquivo Nacional, em Brasília.' [CORRECTED 14 Aug 2026: RQS 193/2022 is a request for a COMMEMORATIVE SPECIAL SESSION under Art. 199 RISF, approved 16 Mar 2022, held 24 Jun 2022 - not a records-seeking or compelling instrument. Its durable value is the content of its justificacao, which names Operacao Prato, the 1986 night, SIOANI and the archive reference BR DFANBSB ARX. These edges assert what the document NAMES, which is verifiable in its text and unaffected by its procedural nature, so the tier is unchanged. Any claim that the instrument COMPELLED disclosure would be false.] Sources: Arquivo Nacional (Brasil), 'Conheça o fundo sobre OVNIs do Arquivo Nacional', https://www.gov.br/arquivonacional/pt-br/canais_atendimento/imprensa/noticias/conheca-o-fundo-sobre-ovnis-do-arquivo-nacional; Senado Federal (Brasil), Requerimento nº 193, de 2022 (RQS 193/2022), autoria do Senador Eduardo Girão (PODEMOS/CE) com Eliziane Gama, Alessandro Vieira, Izalci Lucas, Jorge Kajuru, Marcos do Val, Paulo Rocha e Reguffe, sessão especial para os 75 anos do Dia Mundial da Ufologia, https://legis.senado.leg.br/sdleg-getter/documento?dm=9089831&ts=1647523438292&disposition=inline; Senado Federal, Dados Abertos, official record of RQS 193/2022 (Código 152222): ementa 'Sessão especial destinada a comemorar os 75 anos do Dia Mundial da Ufologia', 16 March 2022, Sen. Eduardo Girão and seven co-signers, https://legis.senado.leg.br/dadosabertos/materia/pesquisa/lista?sigla=RQS&numero=193&ano=2022, dated 2026-08-23; Relatório de Ocorrências (Arquivo Nacional PDF), http://imagem.sian.an.gov.br/acervo/derivadas/BR_DFANBSB_ARX/0/0/0249/BR_DFANBSB_ARX_0_0_0249_d0001de0001.pdf, dated 1986-06-02; Wikipedia - Brasilia, https://en.wikipedia.org/wiki/Bras%C3%ADlia, dated 2026-08-12.
 - Arquivo Nacional (Brazil) - UFO/UAP collection comes in from **Força Aérea Brasileira / Ministério da Aeronáutica** (institution, board tier A), a custody link at Tier 2 named person on the record. The link reads: transferred its entire UAP holding and disclaimed competence. The Air Force told BBC Brasil that all available material has gone to the Arquivo Nacional and that it has no specialists able to investigate or opine on the phenomena. Sources: BBC Brasil, https://www.bbc.com/portuguese/brasil-59953278, dated 2022-01-14.
@@ -1711,7 +1711,7 @@ Roles the board assigns it: research, concealment, disclosure, oversight.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 185 of 1057, score 46). 7 connections, 1 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D3.
+Re-graded B on a global pass (rank 175 of 1057, score 46). 7 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D3.
 
 ### The claims on the record
 
@@ -1784,7 +1784,7 @@ Roles the board assigns it: research, disclosure.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 93 of 1057, score 66). 6 connections, 4 of them custody/witness/funding/programmatic. Axes C2/A1/D0.
+Re-graded A on a global pass (rank 87 of 1057, score 66). 6 connections, 4 of them custody/funding/programmatic. Axes C2/A1/D0.
 
 ### The claims on the record
 
@@ -1811,7 +1811,7 @@ Re-graded A on a global pass (rank 93 of 1057, score 66). 6 connections, 4 of th
 
 ### Its strongest connections
 
-- US Patent 10,144,532 - Craft using an inertial mass reduction device comes in from **NAVAIR Invention Disclosure Briefing, Navy Case PAX 205 (Inertial Mass Reduction Device)** (document, board tier C), a programmatic link at Tier 1 documented. The link reads: Internal disclosure underlying the granted patent. Both are the inertial mass reduction device; the briefing carries the Navy case number PAX 205 and the patent is the filing that resulted. Sources: NAVAIR FOIA release 2021-003244, https://www.navair.navy.mil/foia/sites/g/files/jejdrs566/files/document/%5Bfilename%5D/2021-003244%20FINAL%20VERSION%20PAX%20205%20-%20INERTIAL%20MASS%20REDUCTION%20DEVICE.pdf
+- US Patent 10,144,532 - Craft using an inertial mass reduction device comes in from **NAVAIR Invention Disclosure Briefing, Navy Case PAX 205 (Inertial Mass Reduction Device)** (document, board tier B), a programmatic link at Tier 1 documented. The link reads: Internal disclosure underlying the granted patent. Both are the inertial mass reduction device; the briefing carries the Navy case number PAX 205 and the patent is the filing that resulted. Sources: NAVAIR FOIA release 2021-003244, https://www.navair.navy.mil/foia/sites/g/files/jejdrs566/files/document/%5Bfilename%5D/2021-003244%20FINAL%20VERSION%20PAX%20205%20-%20INERTIAL%20MASS%20REDUCTION%20DEVICE.pdf
 - US Patent 10,144,532 - Craft using an inertial mass reduction device runs out to **US Patent 10,322,827 - High frequency gravitational wave generator** (document, board tier C), a programmatic link at Tier 1 documented. The link reads: The disclosure says the IMRD enables the gravitational wave generator. PAX 205 slide 5: 'it is possible to use the IMRD as an artificial gravitational wave generator (invention enables Gertsenshtein Effect)'. Sources: NAVAIR FOIA release 2021-003244, slide 5, https://www.navair.navy.mil/foia/sites/g/files/jejdrs566/files/document/%5Bfilename%5D/2021-003244%20FINAL%20VERSION%20PAX%20205%20-%20INERTIAL%20MASS%20REDUCTION%20DEVICE.pdf
 - US Patent 10,144,532 - Craft using an inertial mass reduction device comes in from **Salvatore Cezar Pais** (person, board tier A), a programmatic link at Tier 2 named person on the record. The link reads: Named inventor. Application 15/141270, assigned to the Secretary of the Navy. Sources: US Patent 10,144,532, https://www.freepatentsonline.com/10144532.html
 - US Patent 10,144,532 - Craft using an inertial mass reduction device comes in from **Invention Secrecy Act of 1951 (Pub. L. 82-256, 66 Stat. 3), codified at 35 U.S.C. 181-188** (legislation, board tier B), a programmatic link at Tier 2 named person on the record. The link reads: The control case for the patents tab: a propulsion patent that did issue. A Navy-assigned propulsion patent that did issue is the control case for the tab: the Act is why an absence in the patent record is a legal artefact rather than evidence of nothing. Sources: 35 U.S.C. 181, Secrecy of certain inventions and withholding of patent, https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title35-section181&num=0&edition=prelim
@@ -1870,7 +1870,7 @@ Roles the board assigns it: disclosure, concealment, oversight, research.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 18 of 1057, score 113). 19 connections, 2 of them custody/witness/funding/programmatic, 6 official denials recorded against it. Axes C1/A3/D3.
+Re-graded A on a global pass (rank 17 of 1057, score 110). 19 connections, 1 of them custody/funding/programmatic, 6 official denials recorded against it. Axes C1/A3/D3.
 
 ### The claims on the record
 
@@ -1967,7 +1967,7 @@ Roles the board assigns it: oversight, concealment, research, disclosure.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 79 of 1057, score 69). 19 connections, 6 of them custody/witness/funding/programmatic. Axes C2/A3/D2.
+Re-graded A on a global pass (rank 74 of 1057, score 69). 19 connections, 6 of them custody/funding/programmatic. Axes C2/A3/D2.
 
 ### The claims on the record
 
@@ -2057,7 +2057,7 @@ Roles the board assigns it: research, disclosure.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 418 of 1057, score 33). 9 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A0/D3.
+Re-graded B on a global pass (rank 394 of 1057, score 33). 9 connections, 1 of them custody/funding/programmatic. Axes C1/A0/D3.
 
 ### The claims on the record
 
@@ -2094,7 +2094,7 @@ Re-graded B on a global pass (rank 418 of 1057, score 33). 9 connections, 1 of t
 
 ## Nolan, Vallee, Jiang & Lemke (2022), Progress in Aerospace Sciences 128:100788
 
-Nolan, Vallee, Jiang & Lemke (2022), Progress in Aerospace Sciences 128:100788 is a document on the board; board tier C, contextual, real and relevant, no direct programme linkage on the record yet; dates 2022; axes C2 A0 D2; 8 connections; in the research band.
+Nolan, Vallee, Jiang & Lemke (2022), Progress in Aerospace Sciences 128:100788 is a document on the board; board tier B, documented channel and capability, programme role indicated but not yet nailed to a primary source; dates 2022; axes C2 A0 D2; 8 connections; in the research band.
 
 In one line: 'Improved instrumental techniques, including isotopic analysis, applicable to the characterization of unusual materials with potential relevance to aerospace forensics'.
 
@@ -2134,7 +2134,7 @@ Roles the board assigns it: research, disclosure.
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 531 of 1057, score 29). 8 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A0/D2.
+Re-graded B on a global pass (rank 510 of 1057, score 29). 8 connections, 0 of them custody/funding/programmatic. Axes C2/A0/D2.
 
 ### The claims on the record
 
@@ -2164,11 +2164,11 @@ Re-graded C on a global pass (rank 531 of 1057, score 29). 8 connections, 0 of t
 - Nolan, Vallee, Jiang & Lemke (2022), Progress in Aerospace Sciences 128:100788 comes in from **Larry G. Lemke** (person, board tier C), a investigative link at Tier 1 documented. The link reads: NASA Ames aerospace engineer supplying the exclusion arguments. Lemke's engineering judgement underpins the rejection of reentry-debris and aircraft-component hypotheses on thermal-history and materials-selection grounds. Sources: Nolan, Vallee, Jiang & Lemke, 'Improved instrumental techniques, including isotopic analysis, applicable to the characterization of unusual materials with potential relevance to aerospace forensics', Progress in Aerospace Sciences 128:100788, https://doi.org/10.1016/j.paerosci.2021.100788, dated 2022-01-01; The Sol Foundation Science and Policy Briefings No. 3, Marik von Rennenkampff, 'First Peer-Reviewed Scientific Analysis of Possible UAP Materials Employs State-of-the-Art Technologies', https://thesolfoundation.org/wp-content/uploads/2026/04/Sol_Policy_Briefing_Number_3-1.pdf, dated 2026-04-01.
 - Nolan, Vallee, Jiang & Lemke (2022), Progress in Aerospace Sciences 128:100788 comes in from **Sizun Jiang** (person, board tier C), a investigative link at Tier 1 documented. The link reads: Instrument operator and third author. Jiang, then of the Nolan laboratory, ran the multiplexed ion beam imaging that produced the incomplete-mixing result. Sources: Nolan, Vallee, Jiang & Lemke, 'Improved instrumental techniques, including isotopic analysis, applicable to the characterization of unusual materials with potential relevance to aerospace forensics', Progress in Aerospace Sciences 128:100788, https://doi.org/10.1016/j.paerosci.2021.100788, dated 2022-01-01.
 - Nolan, Vallee, Jiang & Lemke (2022), Progress in Aerospace Sciences 128:100788 runs out to **Nolan Laboratory, Stanford University School of Medicine** (institution, board tier C), a institutional link at Tier 1 documented. The link reads: Analysis performed with MIBI, a Stanford-developed instrument. Multiplexed ion beam imaging, developed by Angelo, Bendall and Nolan for tissue biology, resolved the sample at 200 nm laterally and 5 nm in depth - the technique's first application to alleged UAP material. Sources: Nolan, Vallee, Jiang & Lemke, 'Improved instrumental techniques, including isotopic analysis, applicable to the characterization of unusual materials with potential relevance to aerospace forensics', Progress in Aerospace Sciences 128:100788, https://doi.org/10.1016/j.paerosci.2021.100788, dated 2022-01-01; The Sol Foundation Science and Policy Briefings No. 3, Marik von Rennenkampff, 'First Peer-Reviewed Scientific Analysis of Possible UAP Materials Employs State-of-the-Art Technologies', https://thesolfoundation.org/wp-content/uploads/2026/04/Sol_Policy_Briefing_Number_3-1.pdf, dated 2026-04-01.
-- Nolan, Vallee, Jiang & Lemke (2022), Progress in Aerospace Sciences 128:100788 runs out to **Materials and custody analysis** (domain, board tier B), a investigative link at Tier 3 stated inference. The link reads: Establishes the standard the government's own holdings have never met. A published sample, a published method, a published elimination of alternatives, and a stated residual. No government-held UAP material has ever been subjected to anything comparable in public. Sources: Nolan, Vallee, Jiang & Lemke, 'Improved instrumental techniques, including isotopic analysis, applicable to the characterization of unusual materials with potential relevance to aerospace forensics', Progress in Aerospace Sciences 128:100788, https://doi.org/10.1016/j.paerosci.2021.100788, dated 2022-01-01; The Sol Foundation Science and Policy Briefings No. 3, Marik von Rennenkampff, 'First Peer-Reviewed Scientific Analysis of Possible UAP Materials Employs State-of-the-Art Technologies', https://thesolfoundation.org/wp-content/uploads/2026/04/Sol_Policy_Briefing_Number_3-1.pdf, dated 2026-04-01.
+- Nolan, Vallee, Jiang & Lemke (2022), Progress in Aerospace Sciences 128:100788 runs out to **Materials and custody analysis** (domain, board tier A), a investigative link at Tier 3 stated inference. The link reads: Establishes the standard the government's own holdings have never met. A published sample, a published method, a published elimination of alternatives, and a stated residual. No government-held UAP material has ever been subjected to anything comparable in public. Sources: Nolan, Vallee, Jiang & Lemke, 'Improved instrumental techniques, including isotopic analysis, applicable to the characterization of unusual materials with potential relevance to aerospace forensics', Progress in Aerospace Sciences 128:100788, https://doi.org/10.1016/j.paerosci.2021.100788, dated 2022-01-01; The Sol Foundation Science and Policy Briefings No. 3, Marik von Rennenkampff, 'First Peer-Reviewed Scientific Analysis of Possible UAP Materials Employs State-of-the-Art Technologies', https://thesolfoundation.org/wp-content/uploads/2026/04/Sol_Policy_Briefing_Number_3-1.pdf, dated 2026-04-01.
 
 ## Sky Canada Project - Office of the Chief Science Advisor of Canada
 
-Sky Canada Project - Office of the Chief Science Advisor of Canada is a program on the board; board tier C, contextual, real and relevant, no direct programme linkage on the record yet; dates 2022 to 2025-06; axes C0 A0 D3; 8 connections; in the research band.
+Sky Canada Project - Office of the Chief Science Advisor of Canada is a program on the board; board tier B, documented channel and capability, programme role indicated but not yet nailed to a primary source; dates 2022 to 2025-06; axes C0 A0 D3; 8 connections; in the research band.
 
 In one line: Canadian federal review of public UAP reporting, 2022-2025.
 
@@ -2218,7 +2218,7 @@ Roles the board assigns it: disclosure, oversight, concealment, research.
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 534 of 1057, score 29). 8 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.
+Re-graded B on a global pass (rank 513 of 1057, score 29). 8 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.
 
 ### The claims on the record
 
@@ -2302,7 +2302,7 @@ Roles the board assigns it: research, disclosure.
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 649 of 1057, score 25). 7 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A0/D3.
+Re-graded C on a global pass (rank 726 of 1057, score 22). 7 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D3.
 
 ### The claims on the record
 
@@ -2327,8 +2327,8 @@ Re-graded C on a global pass (rank 649 of 1057, score 25). 7 connections, 2 of t
 - 'The Pentagon's UFO Program Is Real [Here's How It Works!]' runs out to **United States Department of Energy** (institution, board tier A), a institutional link at Tier 2 named person on the record. The link reads: Dedicated chapter 'The DOE NEST' at 1:22:01. The episode places the Department of Energy's Nuclear Emergency Support Team inside the crash-retrieval architecture, consistent with the AEC-custody thesis. Sources: American Alchemy - 'The Pentagon's UFO Program Is Real [Here's How It Works!]', https://www.youtube.com/watch?v=u7g5Sn1DJF4, dated 2026-01-11.
 - 'The Pentagon's UFO Program Is Real [Here's How It Works!]' comes in from **'UAP Gerb' (Sam)** (person, board tier A), a witness-chain link at Tier 2 named person on the record. The link reads: Gerb is the sole interviewee and source of the structural model. The episode is a single-guest exposition in which Gerb lays out the contractor pyramid, the alleged modern control group, the Office of Global Access, MITRE's role, the DOE NEST and the 1954 Atomic Energy Agreement as the architecture of the effort. Sources: American Alchemy - 'The Pentagon's UFO Program Is Real [Here's How It Works!]', https://www.youtube.com/watch?v=u7g5Sn1DJF4, dated 2026-01-11.
 - 'The Pentagon's UFO Program Is Real [Here's How It Works!]' runs out to **'Manhattan Project 2.0' (alleged secrecy architecture)** (program, board tier A), a programmatic link at Tier 2 named person on the record. The link reads: The episode's thesis is the Manhattan Project 2.0 architecture. The episode description explicitly derives the modern system from the Manhattan Project, the Atomic Energy Commission and Cold War intelligence structures - the same lineage Gerb sets out at length in his May and June 2026 two-part series. Sources: American Alchemy - 'The Pentagon's UFO Program Is Real [Here's How It Works!]', https://www.youtube.com/watch?v=u7g5Sn1DJF4, dated 2026-01-11; UAP Gerb - 'The Manhattan Project 2.0' Vol.1, https://www.youtube.com/watch?v=jR-h5p2bd-A, dated 2026-05-01; UAP Gerb - 'Special Access Required' Vol.2, https://www.youtube.com/watch?v=6MsmPrpQqa8, dated 2026-06-19.
-- 'The Pentagon's UFO Program Is Real [Here's How It Works!]' comes in from **Jesse Michels** (person, board tier B), a investigative link at Tier 2 named person on the record. The link reads: Michels produced and hosted the structural episode. Michels is host and publisher of the 11 January 2026 episode whose description states the effort is 'not one program' but 'a layered, compartmentalized system that grew out of the Manhattan Project, the Atomic Energy Commission, and Cold War intelligence structures.' Sources: American Alchemy - 'The Pentagon's UFO Program Is Real [Here's How It Works!]', https://www.youtube.com/watch?v=u7g5Sn1DJF4, dated 2026-01-11.
 - 'The Pentagon's UFO Program Is Real [Here's How It Works!]' runs out to **Independent media as the disclosure substrate** (domain, board tier C), a investigative link at Tier 2 named person on the record. The link reads: the most detailed structural reconstruction in circulation, published on a YouTube channel. A three-hour-plus American Alchemy episode published 11 January 2026 in which UAP Gerb walks Jesse Michels through air force bases, deep underground facilities and federally funded research organisations alleged to be involved in retrieval and exploitation. That the fullest available reconstruction exists as a podcast episode rather than a published investigation is the domain's defining fact. Sources: American Alchemy, 'The Pentagon's UFO Program Is Real [Here's How It Works!] ft. UAPGerb' (YouTube), https://www.youtube.com/watch?v=u7g5Sn1DJF4, dated 2026-01-11; American Alchemy with Jesse Michels, 'The Hidden UFO Program Is Real - Here's How It Works! (ft. UAPGerb)' (Apple Podcasts listing), https://podcasts.apple.com/us/podcast/the-hidden-ufo-program-is-real-heres-how-it-works-ft-uapgerb/id1771917740?i=1000744706983, dated 2026-01-11.
+- 'The Pentagon's UFO Program Is Real [Here's How It Works!]' comes in from **Jesse Michels** (person, board tier C), a investigative link at Tier 2 named person on the record. The link reads: Michels produced and hosted the structural episode. Michels is host and publisher of the 11 January 2026 episode whose description states the effort is 'not one program' but 'a layered, compartmentalized system that grew out of the Manhattan Project, the Atomic Energy Commission, and Cold War intelligence structures.' Sources: American Alchemy - 'The Pentagon's UFO Program Is Real [Here's How It Works!]', https://www.youtube.com/watch?v=u7g5Sn1DJF4, dated 2026-01-11.
 
 ## NASA UAP Independent Study Team
 
@@ -2378,7 +2378,7 @@ Roles the board assigns it: research, disclosure, oversight.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 360 of 1057, score 35). 8 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A1/D3.
+Re-graded B on a global pass (rank 345 of 1057, score 35). 8 connections, 2 of them custody/funding/programmatic. Axes C0/A1/D3.
 
 ### The claims on the record
 
@@ -2458,7 +2458,7 @@ Roles the board assigns it: concealment, oversight, disclosure, research.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 47 of 1057, score 82). 9 connections, 3 of them custody/witness/funding/programmatic, 3 official denials recorded against it. Axes C1/A2/D3.
+Re-graded A on a global pass (rank 46 of 1057, score 82). 9 connections, 3 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C1/A2/D3.
 
 ### The claims on the record
 
@@ -2549,7 +2549,7 @@ Roles the board assigns it: disclosure, research, oversight.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 468 of 1057, score 31). 6 connections, 2 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D3.
+Re-graded B on a global pass (rank 441 of 1057, score 31). 6 connections, 2 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D3.
 
 ### The claims on the record
 
@@ -2575,8 +2575,8 @@ Re-graded B on a global pass (rank 468 of 1057, score 31). 6 connections, 2 of t
 
 - Americans for Safe Aerospace comes in from **AARO FY2025 Consolidated Annual Report on UAP** (document, board tier A), a denial link at Tier 1 documented. The link reads: 'AARO did not receive reports indicating flight safety concerns during this reporting period'. The same report records two cases of electronic or avionic interference attributed to UAP in proximity to an operational aircraft. The no-safety-concerns finding is a statement about AARO's intake, not about the sky. Sources: AARO FY2025 Consolidated Annual Report on UAP (PDF), https://www.aaro.mil/Portals/136/PDFs/FY25%20UAP%20Annual%20Report/AARO_FY2025_Consolidated_Annual_Report_on_UAP.pdf, dated 2026-07-20.
 - Americans for Safe Aerospace comes in from **ODNI Preliminary Assessment: Unidentified Aerial Phenomena (25 June 2021)** (document, board tier A), a behavioral link at Tier 1 documented. The link reads: Official confirmation of the stigma ASA exists to route around. The assessment concedes 'disparagement associated with observing UAP, reporting it, or attempting to discuss it with colleagues' - the condition that made a civilian aircrew nonprofit necessary. Sources: ODNI Preliminary Assessment: Unidentified Aerial Phenomena (PDF), https://archive.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf, dated 2021-06-25; House Oversight - Graves written testimony (PDF), https://oversight.house.gov/wp-content/uploads/2023/07/Ryan-HOC-Testimony.pdf, dated 2023-07-26.
-- Americans for Safe Aerospace comes in from **Ryan Graves** (person, board tier A), a institutional link at Tier 1 documented. The link reads: Founder and Executive Director. Graves founded the organisation in 2022 to build the aircrew reporting channel the Navy did not provide, and appeared before Congress in that capacity in July 2023. Sources: House Oversight - Graves written testimony (PDF), https://oversight.house.gov/wp-content/uploads/2023/07/Ryan-HOC-Testimony.pdf, dated 2023-07-26; House Oversight - hearing page, 26 July 2023, https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/, dated 2023-07-26.
 - Americans for Safe Aerospace runs out to **USS Theodore Roosevelt Encounters (2014-2015)** (event, board tier B), a behavioral link at Tier 1 documented. The link reads: Created in direct response to the reporting failure the encounters exposed. Graves's testimony ties the founding to the fact that after his squadron's safety report 'there was no official acknowledgement of the incident and no further mechanism to report the sightings.' Sources: House Oversight - Graves written testimony (PDF), https://oversight.house.gov/wp-content/uploads/2023/07/Ryan-HOC-Testimony.pdf, dated 2023-07-26.
+- Americans for Safe Aerospace comes in from **Ryan Graves** (person, board tier B), a institutional link at Tier 1 documented. The link reads: Founder and Executive Director. Graves founded the organisation in 2022 to build the aircrew reporting channel the Navy did not provide, and appeared before Congress in that capacity in July 2023. Sources: House Oversight - Graves written testimony (PDF), https://oversight.house.gov/wp-content/uploads/2023/07/Ryan-HOC-Testimony.pdf, dated 2023-07-26; House Oversight - hearing page, 26 July 2023, https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/, dated 2023-07-26.
 - Americans for Safe Aerospace runs out to **NASA UAP Independent Study Team** (program, board tier B), a programmatic link at Tier 1 documented. The link reads: Shared reporting-reform agenda: ASRS and FAA pilot reporting. The NASA study team recommended enhancing the Aviation Safety Reporting System for commercial pilot UAP reporting; ASA performs the equivalent intake function for aircrew outside the chain of command. Sources: NASA UAP Independent Study Team Final Report (PDF), https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf, dated 2023-09-14; House Oversight - Graves written testimony (PDF), https://oversight.house.gov/wp-content/uploads/2023/07/Ryan-HOC-Testimony.pdf, dated 2023-07-26.
 - Americans for Safe Aerospace comes in from **Timothy Gallaudet** (person, board tier A), a programmatic link at Tier 2 named person on the record. The link reads: Flag-officer corroboration of the safety-reporting failure ASA was built around. Gallaudet's recalled-email account and Graves's unacknowledged squadron safety report describe the same broken machinery from opposite ends of the chain of command. Sources: House Oversight - Gallaudet written testimony (PDF), https://oversight.house.gov/wp-content/uploads/2024/11/Updated-Testimony-Gallaudet.pdf, dated 2024-11-13; House Oversight - Graves written testimony (PDF), https://oversight.house.gov/wp-content/uploads/2023/07/Ryan-HOC-Testimony.pdf, dated 2023-07-26.
 
@@ -2626,7 +2626,7 @@ Roles the board assigns it: custody, concealment, oversight, disclosure, researc
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 416 of 1057, score 33). 7 connections, 2 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D3.
+Re-graded B on a global pass (rank 393 of 1057, score 33). 7 connections, 2 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D3.
 
 ### The claims on the record
 
@@ -2694,7 +2694,7 @@ Roles the board assigns it: disclosure, custody, research.
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 699 of 1057, score 23). 12 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D0.
+Re-graded C on a global pass (rank 771 of 1057, score 20). 12 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D0.
 
 ### The claims on the record
 
@@ -2710,13 +2710,13 @@ Re-graded C on a global pass (rank 699 of 1057, score 23). 12 connections, 1 of 
 
 - United States Navy runs out to **USS Nimitz Carrier Strike Group Encounters, 10-16 November 2004** (event, board tier A), a institutional link at Tier 1 documented. The link reads: Nimitz encounter was a Navy carrier strike group event; Navy released the FLIR video. The Department authorised release of three unclassified Navy videos, one from November 2004 and two from January 2015, stating that 'the U.S. Navy previously acknowledged that these videos circulating in the public domain were indeed Navy videos' and releasing them 'in order to clear up any misconceptions by the public on whether or not the footage that has been circulating was real'. The Department's own characterisation of what they show has not moved: 'The aerial phenomena observed in the videos remain characterized as unidentified.' Sources: Statement by the Department of Defense on the Release of Historical Navy Videos, 27 April 2020, https://www.war.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/, dated 2020-04-27; Department of Defense, 'Statement by the Department of Defense on the Release of Historical Navy Videos,' April 27, 2020 -- https://www.defense.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/; https://www.theblackvault.com/documentarchive/navy-officially-releases-ufo-uap-videos-calls-them-historical/, https://www.theblackvault.com/documentarchive/navy-officially-releases-ufo-uap-videos-calls-them-historical/
 - United States Navy runs out to **Unidentified Aerial Phenomena Task Force (UAPTF)** (program, board tier A), a institutional link at Tier 1 documented. The link reads: Navy designated lead service for the UAP Task Force. 'Deputy Secretary of Defense David L. Norquist approved the establishment of an Unidentified Aerial Phenomena (UAP) Task Force (UAPTF)' on 4 August 2020, with the Department of the Navy leading it under the cognizance of the Office of the Under Secretary of Defense for Intelligence and Security. Its stated mission was 'to detect, analyze and catalog UAPs that could potentially pose a threat to U.S. national security'. The task force was disestablished two years later on the Deputy Secretary's direction when AARO stood up. Sources: U.S. Navy press release, 'Establishment of Unidentified Aerial Phenomena Task Force', 14 August 2020, https://www.navy.mil/Press-Office/Press-Releases/display-pressreleases/Article/2314280/establishment-of-unidentified-aerial-phenomena-task-force/, dated 2020-08-14; U.S. Navy press release, 'Establishment of Unidentified Aerial Phenomena Task Force,' August 14, 2020 -- https://www.navy.mil/Press-Office/Press-Releases/display-pressreleases/Article/2314280/establishment-of-unidentified-aerial-phenomena-task-force/
-- United States Navy runs out to **Ryan Graves** (person, board tier A), a witness-chain link at Tier 1 documented. The link reads: Navy F/A-18F pilot turned first active-duty-era witness before Congress. In his own words: 'My name is Ryan "FOBS" Graves and I am a former F-18 pilot with over a decade of service in the U.S. Navy, including two deployments in Operation Enduring Freedom and Operation Inherent Resolve.' He joined the Navy in 2009, describes the encounters in the W-72 warning area, and states 'I founded Americans for Safe Aerospace to create a center of support, research, and public education for aircrew impacted by UAP encounters', reporting nearly 5,000 members and more than 30 witnesses working with the organisation. Sources: Ryan Graves, written testimony to the House Oversight Subcommittee on National Security, the Border, and Foreign Affairs, 26 July 2023, https://oversight.house.gov/wp-content/uploads/2023/07/Ryan-HOC-Testimony.pdf, dated 2023-07-26; Ryan Graves written testimony, House Oversight and Accountability Subcommittee on National Security, the Border, and Foreign Affairs, July 26, 2023 -- https://www.congress.gov/118/meeting/house/116282/witnesses/HHRG-118-GO06-Wstate-GravesR-20230726.pdf
 - United States Navy runs out to **USS Theodore Roosevelt Encounters (2014-2015)** (event, board tier B), a institutional link at Tier 1 documented. The link reads: East Coast UAP encounters reported by Roosevelt-deployed Navy aircrew. Two of the three videos the Department released in April 2020 are dated January 2015, and Graves's testimony places his squadron's encounters in the W-72 warning area off the east coast, beginning more than a decade before he testified: 'my squadron began witnessing advanced UAP demonstrating complex maneuvers on a regular basis'. Tier 2 because neither primary document names the USS Theodore Roosevelt. The carrier association is well attested elsewhere; it is not in the two documents cited here. Sources: Statement by the Department of Defense on the Release of Historical Navy Videos, 27 April 2020, https://www.war.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/, dated 2020-04-27; Ryan Graves, written testimony to the House Oversight Subcommittee on National Security, the Border, and Foreign Affairs, 26 July 2023, https://oversight.house.gov/wp-content/uploads/2023/07/Ryan-HOC-Testimony.pdf, dated 2023-07-26; Department of Defense, 'Statement by the Department of Defense on the Release of Historical Navy Videos,' April 27, 2020 -- https://www.defense.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/; Ryan Graves / Americans for Safe Aerospace written testimony, House Oversight subcommittee hearing, July 26, 2023 -- https://www.congress.gov/118/meeting/house/116282/witnesses/HHRG-118-GO06-Wstate-GravesR-20230726.pdf
-- United States Navy comes in from **Will Miller** (person, board tier B), a institutional link at Tier 1 documented. The link reads: His letter of 25 April 2002 is on United States Navy letterhead. Miller's letter is on United States Navy letterhead and Wilson's complaint in the notes is framed in terms of trust among Navy officers, though no rank is stated anywhere in the document. Sources: The Wilson-Davis notes as published (EWD NOTES, 10/16/02, Eric Davis Meeting with Adm. Wilson), fifteen pages, The Black Vault case files, https://documents2.theblackvault.com/casefiles/wilsonleak.pdf, dated 2002-10-16.
+- United States Navy runs out to **Ryan Graves** (person, board tier B), a witness-chain link at Tier 1 documented. The link reads: Navy F/A-18F pilot turned first active-duty-era witness before Congress. In his own words: 'My name is Ryan "FOBS" Graves and I am a former F-18 pilot with over a decade of service in the U.S. Navy, including two deployments in Operation Enduring Freedom and Operation Inherent Resolve.' He joined the Navy in 2009, describes the encounters in the W-72 warning area, and states 'I founded Americans for Safe Aerospace to create a center of support, research, and public education for aircrew impacted by UAP encounters', reporting nearly 5,000 members and more than 30 witnesses working with the organisation. Sources: Ryan Graves, written testimony to the House Oversight Subcommittee on National Security, the Border, and Foreign Affairs, 26 July 2023, https://oversight.house.gov/wp-content/uploads/2023/07/Ryan-HOC-Testimony.pdf, dated 2023-07-26; Ryan Graves written testimony, House Oversight and Accountability Subcommittee on National Security, the Border, and Foreign Affairs, July 26, 2023 -- https://www.congress.gov/118/meeting/house/116282/witnesses/HHRG-118-GO06-Wstate-GravesR-20230726.pdf
 - United States Navy comes in from **James V. Forrestal** (person, board tier B), a institutional link at Tier 1 documented. The link reads: Secretary of the Navy until September 1947. The Office of the Historian's persons list gives 'Secretary of the Navy until September 1947' immediately before the Defense appointment. Sources: Persons, FRUS, Emergence of the Intelligence Establishment, 1945-1950, https://history.state.gov/historicaldocuments/frus1945-50Intel/persons, dated 2026-09-02.
 - United States Navy comes in from **Lt. Gen. Leslie R. Groves** (person, board tier B), a institutional link at Tier 1 documented. The link reads: Joint command with a Navy deputy. Rear Admiral W.S. Parsons was appointed Deputy Chief AFSWP on 31 March 1947, the deputy coming from the opposite service by the terms of the activating directive. Sources: Defense's Nuclear Agency 1947-1997, Defense Threat Reduction Agency, 2002, DTIC ADA412977, https://archive.org/download/DTIC_ADA412977/DTIC_ADA412977_djvu.txt, dated 2002-01-01.
 - United States Navy comes in from **Office of Naval Research** (institution, board tier B), a institutional link at Tier 1 documented. The link reads: Created inside the Office of the Secretary of the Navy, 1 August 1946. Section 1 places ONR in the Office of the Secretary of the Navy and provides that its orders are to be considered as emanating from the Secretary and to have full force and effect as such. Sources: Public Law 79-588, 60 Stat. 779, sec. 1, https://www.govinfo.gov/content/pkg/STATUTE-60/pdf/STATUTE-60-Pg779.pdf, dated 1946-08-01.
 - United States Navy comes in from **Deep Submergence Systems Project (DSSP)** (program, board tier B), a institutional link at Tier 1 documented. The link reads: Assigned by the Secretary of the Navy to the Special Projects Office, February 1964. After the Deep-Submergence Systems Review Group reported in February 1964, the Secretary of the Navy assigned implementation of the programme, renamed DSSP, to the Navy's Special Projects Office; by 1967 it was a separate project within the Naval Material Command, and its project office carried the designator PM-11. Sources: David Taylor Model Basin Report 1985 (DTIC AD-614632) and Office of the Oceanographer of the Navy, September 1967 (DTIC AD-665974), https://archive.org/details/DTIC_AD0614632, dated 1965-03-01.
+- United States Navy comes in from **Will Miller** (person, board tier C), a institutional link at Tier 1 documented. The link reads: His letter of 25 April 2002 is on United States Navy letterhead. Miller's letter is on United States Navy letterhead and Wilson's complaint in the notes is framed in terms of trust among Navy officers, though no rank is stated anywhere in the document. Sources: The Wilson-Davis notes as published (EWD NOTES, 10/16/02, Eric Davis Meeting with Adm. Wilson), fifteen pages, The Black Vault case files, https://documents2.theblackvault.com/casefiles/wilsonleak.pdf, dated 2002-10-16.
 - United States Navy comes in from **Naval Criminal Investigative Service** (institution, board tier C), a institutional link at Tier 1 documented. The link reads: Department of the Navy organisation; its head's title is fixed in 32 CFR 701.5. NCIS is a Department of the Navy organisation whose head's title is fixed in the Navy's own codified regulations at 32 CFR part 701. Sources: Federal Register Doc 94-13966, amending 32 CFR 701.5(e)(2)(iii)(B), https://www.federalregister.gov/documents/1994/06/09/94-13966/availability-of-department-of-the-navy-records-and-publication-of-department-of-the-navy-documents, dated 1994-06-09.
 - United States Navy comes in from **U.S. Naval Ordnance Laboratory (White Oak, Silver Spring)** (institution, board tier C), a institutional link at Tier 1 documented. The link reads: A Navy laboratory; the 55-Nitinol patent is assigned to the Secretary of the Navy. The Naval Ordnance Laboratory was a Navy laboratory; the 55-Nitinol patent is assigned to the United States as represented by the Secretary of the Navy. Sources: https://ntrs.nasa.gov/api/citations/19720022818/downloads/19720022818.pdf, https://ntrs.nasa.gov/api/citations/19720022818/downloads/19720022818.pdf
 - United States Navy runs out to **US Patent 10,144,532 - Craft using an inertial mass reduction device** (document, board tier A), a institutional link at Tier 2 named person on the record. The link reads: Assignee of record. Assigned to 'The United States of America as represented by the Secretary of the Navy'. Sources: US Patent 10,144,532, https://www.freepatentsonline.com/10144532.html
@@ -2776,7 +2776,7 @@ Roles the board assigns it: oversight, disclosure, research.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 73 of 1057, score 70). 7 connections, 6 of them custody/witness/funding/programmatic. Axes C0/A0/D0.
+Re-graded A on a global pass (rank 68 of 1057, score 70). 7 connections, 6 of them custody/funding/programmatic. Axes C0/A0/D0.
 
 ### The claims on the record
 
@@ -2866,7 +2866,7 @@ Roles the board assigns it: research, custody, concealment.
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 915 of 1057, score 15). 7 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D0.
+Re-graded C on a global pass (rank 909 of 1057, score 15). 7 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D0.
 
 ### The claims on the record
 
@@ -2940,7 +2940,7 @@ Roles the board assigns it: oversight, disclosure, research.
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 734 of 1057, score 22). 6 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D0.
+Re-graded C on a global pass (rank 714 of 1057, score 22). 6 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D0.
 
 ### The claims on the record
 

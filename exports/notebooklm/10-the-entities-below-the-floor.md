@@ -14,7 +14,7 @@ Wright-Patterson Air Force Base sits immediately east and northeast of Dayton, O
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 54 of 1057, score 78). 20 connections, 8 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C3/A3/D1.
+Re-graded A on a global pass (rank 52 of 1057, score 78). 20 connections, 8 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A3/D1.
 
 ### The claims on the record
 
@@ -46,7 +46,7 @@ Money is the most auditable thing a concealed programme touches, and this is whe
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 59 of 1057, score 75). 13 connections, 11 of them custody/witness/funding/programmatic. Axes C1/A3/D2.
+Re-graded A on a global pass (rank 55 of 1057, score 75). 13 connections, 11 of them custody/funding/programmatic. Axes C1/A3/D2.
 
 ### The claims on the record
 
@@ -68,7 +68,7 @@ It carries 13 connections in total on the board.
 
 ## Materials and custody analysis
 
-Materials and custody analysis is a domain on the board; board tier B, documented channel and capability, programme role indicated but not yet nailed to a primary source; dates 1947; axes C3 A2 D2; 12 connections.
+Materials and custody analysis is a domain on the board; board tier A, named in sworn testimony or primary documents as directly inside the programme; dates 1947; axes C3 A2 D2; 12 connections.
 
 In one line: Cross-cutting domain: physical samples, their analysis and their chain of custody.
 
@@ -82,7 +82,7 @@ Custody chains catalogued in this domain, with the point at which each goes dark
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 162 of 1057, score 49). 12 connections, 2 of them custody/witness/funding/programmatic. Axes C3/A2/D2.
+Re-graded A on a global pass (rank 153 of 1057, score 49). 12 connections, 2 of them custody/funding/programmatic. Axes C3/A2/D2.
 
 ### The claims on the record
 
@@ -114,7 +114,7 @@ The custody domain tracks the documentary handoffs themselves rather than the ob
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 89 of 1057, score 67). 11 connections, 7 of them custody/witness/funding/programmatic, 2 official denials recorded against it. Axes C3/A2/D2.
+Re-graded A on a global pass (rank 83 of 1057, score 67). 11 connections, 7 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C3/A2/D2.
 
 ### The claims on the record
 
@@ -148,7 +148,7 @@ Acknowledgement chronology, stated plainly because it is the board's benchmark: 
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 181 of 1057, score 47). 11 connections, 2 of them custody/witness/funding/programmatic. Axes C2/A3/D2.
+Re-graded B on a global pass (rank 170 of 1057, score 47). 11 connections, 2 of them custody/funding/programmatic. Axes C2/A3/D2.
 
 ### The claims on the record
 
@@ -181,7 +181,7 @@ Follow the contract vehicle and you find the programme, which is why acquisition
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 315 of 1057, score 37). 10 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A2/D1.
+Re-graded B on a global pass (rank 304 of 1057, score 37). 10 connections, 1 of them custody/funding/programmatic. Axes C2/A2/D1.
 
 ### The claims on the record
 
@@ -212,7 +212,7 @@ The domain covering how the disclosure record is actually produced and distribut
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 811 of 1057, score 19). 10 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.
+Re-graded C on a global pass (rank 804 of 1057, score 19). 10 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.
 
 ### The claims on the record
 
@@ -242,7 +242,7 @@ The research domain concerned not with whether a legacy programme exists but wit
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 863 of 1057, score 17). 10 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.
+Re-graded C on a global pass (rank 860 of 1057, score 17). 10 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.
 
 ### The claims on the record
 
@@ -275,7 +275,7 @@ The Bennewitz operation is the best-documented instance in the American record o
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 198 of 1057, score 45). 11 connections, 2 of them custody/witness/funding/programmatic. Axes C2/A3/D1.
+Re-graded B on a global pass (rank 222 of 1057, score 42). 11 connections, 1 of them custody/funding/programmatic. Axes C2/A3/D1.
 
 ### The claims on the record
 
@@ -312,7 +312,7 @@ How the seam actually works, mechanism by mechanism. (1) RECORDS STATUS. Documen
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 177 of 1057, score 47). 9 connections, 0 of them custody/witness/funding/programmatic. Axes C3/A3/D2.
+Re-graded B on a global pass (rank 166 of 1057, score 47). 9 connections, 0 of them custody/funding/programmatic. Axes C3/A3/D2.
 
 ### The claims on the record
 
@@ -345,7 +345,7 @@ This domain isolates what is enacted from what was merely proposed, because the 
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 601 of 1057, score 27). 9 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D3.
+Re-graded C on a global pass (rank 582 of 1057, score 27). 9 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.
 
 ### The claims on the record
 
@@ -359,14 +359,14 @@ Re-graded C on a global pass (rank 601 of 1057, score 27). 9 connections, 0 of t
 - Enacted Statute comes in from **FY2024 NDAA, Public Law 118-31 - Div. A, Title XVIII, Subtitle C (secs. 1841-1843), UAP Records Collection; Div. G (IAA FY2024) secs. 7341, 7343** (legislation, board tier A), a legislative link at Tier 1 documented. The link reads: P.L. 118-31 Subtitle C, secs. 1841-1843 - the UAP Records Collection as enacted. What survived conference from the Senate-passed disclosure title was a records collection at NARA, a duty to transmit and a postponement regime, without the Review Board or the eminent domain provision. NARA's published guidance to federal agencies implementing the collection is the observable proof that this part is law and operating. Sources: Public Law 118-31, National Defense Authorization Act for FY2024, incl. Div. G (IAA FY2024) (GPO), https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm, dated 2023-12-22; National Archives, 'Guidance to Federal Agencies on Unidentified Anomalous Phenomena Records Collection', https://www.archives.gov/records-mgmt/uap-guidance, dated 2026-08-21.
 - Enacted Statute comes in from **FY2026 NDAA, Public Law 119-60 - secs. 1671-1673, NORAD/NORTHCOM intercept briefings and UAP classification-guide accounting** (legislation, board tier A), a legislative link at Tier 1 documented. The link reads: P.L. 119-60, Title XVI Subtitle E - the enacted corpus reduced to housekeeping. Approved 18 December 2025, with three UAP sections requiring that AARO briefings cover NORAD and NORTHCOM intercepts and accounting for UAP classification guides. Recording it in the enacted domain alongside the 2021-2023 provisions is what lets a reader see the trajectory of what Congress has actually been willing to enact. Sources: Public Law 119-60, National Defense Authorization Act for FY2026 (GPO), https://www.govinfo.gov/content/pkg/PLAW-119publ60/html/PLAW-119publ60.htm, dated 2025-12-18.
 - Enacted Statute comes in from **Sec. 6802, James M. Inhofe NDAA for FY2023 (Pub. L. 117-263) - AARO establishment, Historical Record Report and annual reports** (legislation, board tier A), a legislative link at Tier 1 documented. The link reads: rewrote 50 U.S.C. 3373 to establish AARO and to mandate the Historical Record Report. Sec. 6802 of P.L. 117-263, enacted 23 December 2022, added subsection (j) requiring a Historical Record Report within 540 days and subsection (k) requiring joint DNI/SECDEF annual reports. This is the authority AARO itself cites for both report series, which makes it enacted law with directly observable output. Sources: Public Law 117-263, James M. Inhofe National Defense Authorization Act for FY2023, incl. Div. F (IAA FY2023) (GPO), https://www.govinfo.gov/content/pkg/PLAW-117publ263/html/PLAW-117publ263.htm, dated 2022-12-23; AARO, Report on the Historical Record of U.S. Government Involvement with UAP, Volume I (DOPSR-2024-0263), https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF, dated 2024-03-08.
+- Enacted Statute comes in from **Legislative Process (proposed and pending)** (domain, board tier B), a legislative link at Tier 1 documented. The link reads: Proposal versus enactment. Division I of the Senate-passed H.R. 2670 contained a Review Board and eminent domain; P.L. 118-31 as enacted did not. The gap between these two documents is the domain boundary. Sources: H.R. 2670 (EAS), Division I - UAP Disclosure Act of 2023, https://www.govinfo.gov/content/pkg/BILLS-118hr2670eas/html/BILLS-118hr2670eas.htm, dated 2023-07-27; NDAA FY2024 (P.L. 118-31), https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm, dated 2023-12-22.
 - Enacted Statute comes in from **FY2022 NDAA Sec. 1683 (P.L. 117-81; 50 U.S.C. 3373)** (legislation, board tier B), a legislative link at Tier 1 documented. The link reads: the statutory root of the modern apparatus, codified at 50 U.S.C. 3373. Sec. 1683 of P.L. 117-81, signed 27 December 2021, directed establishment within 180 days of an office to carry out the duties of the UAP Task Force, with enumerated duties reaching beyond analysis into governance. Everything later in the enacted corpus amends or builds on what this section created. Sources: Public Law 117-81, National Defense Authorization Act for FY2022 (GPO), https://www.govinfo.gov/content/pkg/PLAW-117publ81/html/PLAW-117publ81.htm, dated 2021-12-27.
-- Enacted Statute comes in from **Legislative Process (proposed and pending)** (domain, board tier C), a legislative link at Tier 1 documented. The link reads: Proposal versus enactment. Division I of the Senate-passed H.R. 2670 contained a Review Board and eminent domain; P.L. 118-31 as enacted did not. The gap between these two documents is the domain boundary. Sources: H.R. 2670 (EAS), Division I - UAP Disclosure Act of 2023, https://www.govinfo.gov/content/pkg/BILLS-118hr2670eas/html/BILLS-118hr2670eas.htm, dated 2023-07-27; NDAA FY2024 (P.L. 118-31), https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm, dated 2023-12-22.
 
 It carries 9 connections in total on the board.
 
 ## Legislative Process (proposed and pending)
 
-Legislative Process (proposed and pending) is a domain on the board; board tier C, contextual, real and relevant, no direct programme linkage on the record yet; dates 2021-12-27; axes C0 A1 D3; 9 connections.
+Legislative Process (proposed and pending) is a domain on the board; board tier B, documented channel and capability, programme role indicated but not yet nailed to a primary source; dates 2021-12-27; axes C0 A1 D3; 9 connections.
 
 In one line: Bills, amendments and the actors that move them. Deliberately distinct from d-legislation (Enacted Statute): the gap between what passed the Senate and what survived conference is one of this board's central substantive findings, and collapsing the two would erase it.
 
@@ -376,7 +376,7 @@ Legislation is where the disclosure fight has produced its only binding outcomes
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 537 of 1057, score 29). 9 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D3.
+Re-graded B on a global pass (rank 516 of 1057, score 29). 9 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.
 
 ### The claims on the record
 
@@ -408,7 +408,7 @@ A denial is not the end of an inquiry on this board; it is an entry in it. The e
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 117 of 1057, score 58). 8 connections, 0 of them custody/witness/funding/programmatic, 8 official denials recorded against it. Axes C0/A2/D2.
+Re-graded A on a global pass (rank 109 of 1057, score 58). 8 connections, 0 of them custody/funding/programmatic, 8 official denials recorded against it. Axes C0/A2/D2.
 
 ### The claims on the record
 
@@ -443,7 +443,7 @@ The full text of the mechanism as stated by Chairwoman Luna on 9 September 2025:
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 332 of 1057, score 36). 8 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A3/D3.
+Re-graded B on a global pass (rank 319 of 1057, score 36). 8 connections, 1 of them custody/funding/programmatic. Axes C0/A3/D3.
 
 ### The claims on the record
 
@@ -465,7 +465,7 @@ It carries 8 connections in total on the board.
 
 ## Congressional Oversight
 
-Congressional Oversight is a domain on the board; board tier B, documented channel and capability, programme role indicated but not yet nailed to a primary source; dates 1966-04-05; axes C0 A2 D3; 7 connections.
+Congressional Oversight is a domain on the board; board tier C, contextual, real and relevant, no direct programme linkage on the record yet; dates 1966-04-05; axes C0 A2 D3; 7 connections.
 
 In one line: Institutional domain - the committees, clearances and gaps through which Congress does or does not see.
 
@@ -475,7 +475,7 @@ Congressional oversight of the deepest access tiers is not a matter of will but 
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 465 of 1057, score 31). 7 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A2/D3.
+Re-graded C on a global pass (rank 533 of 1057, score 28). 7 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D3.
 
 ### The claims on the record
 
@@ -506,7 +506,7 @@ Skinwalker Ranch is a property of approximately 512 acres in Uintah County, Utah
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 70 of 1057, score 71). 9 connections, 6 of them custody/witness/funding/programmatic. Axes C3/A2/D2.
+Re-graded A on a global pass (rank 88 of 1057, score 65). 9 connections, 4 of them custody/funding/programmatic. Axes C3/A2/D2.
 
 ### The claims on the record
 
@@ -544,7 +544,7 @@ This board treats concealment as a discipline with doctrine, staffing and a budg
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 146 of 1057, score 52). 6 connections, 3 of them custody/witness/funding/programmatic, 2 official denials recorded against it. Axes C2/A3/D1.
+Re-graded A on a global pass (rank 139 of 1057, score 52). 6 connections, 3 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C2/A3/D1.
 
 ### The claims on the record
 
@@ -574,7 +574,7 @@ The Freedom of Information Act is the only routine instrument by which a private
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 510 of 1057, score 30). 6 connections, 0 of them custody/witness/funding/programmatic, 2 official denials recorded against it. Axes C0/A0/D3.
+Re-graded B on a global pass (rank 487 of 1057, score 30). 6 connections, 0 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C0/A0/D3.
 
 ### The claims on the record
 
@@ -604,7 +604,7 @@ The use of the UFO subject as a vehicle for deception against a domestic audienc
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 297 of 1057, score 38). 6 connections, 4 of them custody/witness/funding/programmatic. Axes C1/A2/D1.
+Re-graded B on a global pass (rank 286 of 1057, score 38). 6 connections, 4 of them custody/funding/programmatic. Axes C1/A2/D1.
 
 ### The claims on the record
 
@@ -633,7 +633,7 @@ Whoever controls the records controls the history, and this is the one front on 
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 269 of 1057, score 40). 6 connections, 3 of them custody/witness/funding/programmatic. Axes C1/A1/D3.
+Re-graded B on a global pass (rank 254 of 1057, score 40). 6 connections, 3 of them custody/funding/programmatic. Axes C1/A1/D3.
 
 ### The claims on the record
 
@@ -646,9 +646,9 @@ Re-graded B on a global pass (rank 269 of 1057, score 40). 6 connections, 3 of t
 
 - Records & Archives comes in from **Project MKULTRA** (program, board tier A), a custody link at Tier 1 documented. The link reads: Records destroyed January 1973; a misfiled finance set survived. The destruction is recorded in the 1977 hearing print, and so is the accident that defeated it: finance folders sent to the Retired Records Center in 1970 outside normal procedure were missed in 1973 and again in 1975 and found in 1977. Sources: Project MKULTRA joint hearing, 3 August 1977, https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf, dated 1977-08-03.
 - Records & Archives comes in from **The Cover-Up** (domain, board tier A), a custody link at Tier 1 documented. The link reads: Record destruction as concealment. GAO found Roswell AAF outgoing messages for 1946-1949 destroyed with no disposition authority and no destruction certificate - concealment executed through the records system. Sources: GAO/NSIAD-95-187, https://www.govinfo.gov/content/pkg/GAOREPORTS-NSIAD-95-187/html/GAOREPORTS-NSIAD-95-187.htm, dated 1995-07-28.
-- Records & Archives comes in from **Congressional Oversight** (domain, board tier B), a legislative link at Tier 1 documented. The link reads: Records law as the oversight instrument that worked. Subtitle C of P.L. 118-31 is the only binding UAP transparency outcome Congress has produced, and it operates through records custody rather than through programme access. Sources: NDAA FY2024 (P.L. 118-31), https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm, dated 2023-12-22.
 - Records & Archives runs out to **Freedom of Information Practice** (domain, board tier B), a investigative link at Tier 1 documented. The link reads: Statutory collection versus request-by-request extraction. Before the FY2024 records provisions, FOIA was the only routine extraction mechanism; the NARA collection is an attempt to replace adversarial requesting with an affirmative duty. Sources: NDAA FY2024 (P.L. 118-31), https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm, dated 2023-12-22.
 - Records & Archives comes in from **Sidney Gottlieb** (person, board tier B), a custody link at Tier 1 documented. The link reads: Ordered the destruction of the MKULTRA files, January 1973. The 1977 CIA memorandum reprinted in the hearing print says he retrieved and destroyed all the MKULTRA documents he was able to locate, which is why the 1973 and 1975 searches found nothing. Sources: Memorandum for the DDCI, 22 June 1977, Appendix B of the Project MKULTRA joint hearing, https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf, dated 1977-06-22.
+- Records & Archives comes in from **Congressional Oversight** (domain, board tier C), a legislative link at Tier 1 documented. The link reads: Records law as the oversight instrument that worked. Subtitle C of P.L. 118-31 is the only binding UAP transparency outcome Congress has produced, and it operates through records custody rather than through programme access. Sources: NDAA FY2024 (P.L. 118-31), https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm, dated 2023-12-22.
 - Records & Archives comes in from **Historiography** (domain, board tier C), a research link at Tier 1 documented. The link reads: The corpus is what survives the records fight. Almost every primary document in this field arrived through FOIA or archival release; historiography here is downstream of records law. Sources: GAO/NSIAD-95-187, https://www.govinfo.gov/content/pkg/GAOREPORTS-NSIAD-95-187/html/GAOREPORTS-NSIAD-95-187.htm, dated 1995-07-28; NDAA FY2024 (P.L. 118-31), https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm, dated 2023-12-22.
 
 ## The four SAP reporting regimes and the seams between them
@@ -667,7 +667,7 @@ Where a program could sit, and what changes when it moves. There are five distin
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 189 of 1057, score 45). 6 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A3/D3.
+Re-graded B on a global pass (rank 182 of 1057, score 45). 6 connections, 1 of them custody/funding/programmatic. Axes C1/A3/D3.
 
 ### The claims on the record
 
@@ -704,7 +704,7 @@ Terms of art, precisely, and why each one matters to the allegations. ACKNOWLEDG
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 67 of 1057, score 73). 6 connections, 4 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D3.
+Re-graded A on a global pass (rank 61 of 1057, score 73). 6 connections, 4 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D3.
 
 ### The claims on the record
 
@@ -740,7 +740,7 @@ Aerospace is the FFRDC that owns the technical judgement on everything the Unite
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 192 of 1057, score 45). 5 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A3/D1.
+Re-graded B on a global pass (rank 186 of 1057, score 45). 5 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D1.
 
 ### The claims on the record
 
@@ -775,7 +775,7 @@ The Armed Forces Special Weapons Project was established by joint directive of t
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 174 of 1057, score 47). 5 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A3/D1.
+Re-graded B on a global pass (rank 164 of 1057, score 47). 5 connections, 1 of them custody/funding/programmatic. Axes C2/A3/D1.
 
 ### The claims on the record
 
@@ -811,7 +811,7 @@ The Bolender memorandum is short, administrative, and the most quietly damaging 
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 182 of 1057, score 46). 5 connections, 3 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D3.
+Re-graded B on a global pass (rank 172 of 1057, score 46). 5 connections, 3 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D3.
 
 ### The claims on the record
 
@@ -830,7 +830,7 @@ Re-graded B on a global pass (rank 182 of 1057, score 46). 5 connections, 3 of t
 
 ## Capitol UAP disclosure event, 9 June 2026
 
-Capitol UAP disclosure event, 9 June 2026 is a event on the board; board tier B, documented channel and capability, programme role indicated but not yet nailed to a primary source; dates 2026; axes C1 A1 D3; 5 connections.
+Capitol UAP disclosure event, 9 June 2026 is a event on the board; board tier C, contextual, real and relevant, no direct programme linkage on the record yet; dates 2026; axes C1 A1 D3; 5 connections.
 
 In one line: Lawmakers and whistleblowers, U.S. Capitol.
 
@@ -840,7 +840,7 @@ On 9 June 2026 lawmakers and UAP whistleblowers gathered at the US Capitol to re
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 526 of 1057, score 29). 5 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A1/D3.
+Re-graded C on a global pass (rank 596 of 1057, score 26). 5 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D3.
 
 ### The claims on the record
 
@@ -869,7 +869,7 @@ Conventional Prompt Global Strike is the family of American programmes intended 
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 310 of 1057, score 37). 5 connections, 2 of them custody/witness/funding/programmatic. Axes C1/A1/D1.
+Re-graded B on a global pass (rank 299 of 1057, score 37). 5 connections, 2 of them custody/funding/programmatic. Axes C1/A1/D1.
 
 ### The claims on the record
 
@@ -900,7 +900,7 @@ A special access programme is the mechanism by which the executive branch create
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 242 of 1057, score 41). 5 connections, 2 of them custody/witness/funding/programmatic. Axes C2/A3/D2.
+Re-graded B on a global pass (rank 229 of 1057, score 41). 5 connections, 2 of them custody/funding/programmatic. Axes C2/A3/D2.
 
 ### The claims on the record
 
@@ -910,11 +910,11 @@ Re-graded B on a global pass (rank 242 of 1057, score 41). 5 connections, 2 of t
 
 ### Its strongest connections
 
-- Special Access Programs runs out to **Congressional Oversight** (domain, board tier B), a legislative link at Tier 1 documented. The link reads: Waived notification limits reporting to eight members. The waiver authority in 10 U.S.C. 119(e) is the statutory provision congressional witnesses cite when describing why members cannot confirm a programme's existence. Sources: 10 U.S.C. Sec. 119, https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim, dated 2024-01-01.
 - Special Access Programs comes in from **GAO/NSIAD-88-152 - Special Access Programs: DOD Criteria and Procedures for Creating Them Need Improvement** (document, board tier B), a programmatic link at Tier 1 documented. The link reads: A primary statement of how special access programmes are established and by whom. The report is a primary statement of how special access programmes are established and by whom. Sources: GAO/NSIAD-88-152, Special Access Programs: DOD Criteria and Procedures for Creating Them Need Improvement, https://www.gao.gov/assets/nsiad-88-152.pdf, dated 1988-05-24.
 - Special Access Programs comes in from **Secrecy Law & Classification** (domain, board tier B), a institutional link at Tier 1 documented. The link reads: Statutory basis for the access tier. 10 U.S.C. 119 and DoDD 5205.07 are the legal and policy instruments that create the special access programme category; the SAP domain is the applied form of the secrecy-law domain. Sources: 10 U.S.C. Sec. 119, https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim, dated 2024-01-01; DoD Directive 5205.07, https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf, dated 2024-09-12.
 - Special Access Programs comes in from **Program Structure & Management** (domain, board tier B), a programmatic link at Tier 1 documented. The link reads: Conversion from visible to invisible. The November 2009 OUSD(I) memorandum reviewing a special access programme request for AATIP is the documented moment where a FOIA-visible programme was considered for conversion. Sources: DIA - OUSDI Info Memo on AATIP (Review of SAP Request), https://documents2.theblackvault.com/documents/dia/AAWSAP/OUSDI_IM_on_AATIP_Final.pdf, dated 2009-11-01.
 - Special Access Programs runs out to **Secrecy Architecture** (domain, board tier B), a institutional link at Tier 1 documented. The link reads: SAP tiers implement compartmentation. The acknowledged/unacknowledged/waived tier structure defined in DoDD 5205.07 is the concrete mechanism by which the compartmentation architecture is built. Sources: DoD Directive 5205.07, https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf, dated 2024-09-12.
+- Special Access Programs runs out to **Congressional Oversight** (domain, board tier C), a legislative link at Tier 1 documented. The link reads: Waived notification limits reporting to eight members. The waiver authority in 10 U.S.C. 119(e) is the statutory provision congressional witnesses cite when describing why members cannot confirm a programme's existence. Sources: 10 U.S.C. Sec. 119, https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim, dated 2024-01-01.
 
 ## Secrecy Law & Classification
 
@@ -928,7 +928,7 @@ Everything this board describes is, on its face, legal - and that is the point. 
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 436 of 1057, score 32). 5 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A3/D1.
+Re-graded B on a global pass (rank 411 of 1057, score 32). 5 connections, 1 of them custody/funding/programmatic. Axes C1/A3/D1.
 
 ### The claims on the record
 
@@ -956,7 +956,7 @@ The data that could resolve most of this exists, and it is classified for reason
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 394 of 1057, score 34). 5 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D2.
+Re-graded B on a global pass (rank 374 of 1057, score 34). 5 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D2.
 
 ### The claims on the record
 
@@ -984,7 +984,7 @@ The funding instrument, and the reason the whole thing stayed invisible. AARO's 
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 276 of 1057, score 39). 5 connections, 5 of them custody/witness/funding/programmatic. Axes C0/A3/D2.
+Re-graded B on a global pass (rank 261 of 1057, score 39). 5 connections, 5 of them custody/funding/programmatic. Axes C0/A3/D2.
 
 ### The claims on the record
 
@@ -1012,7 +1012,7 @@ DHS was established in 2002, 'combining 22 different federal departments and age
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 136 of 1057, score 54). 6 connections, 2 of them custody/witness/funding/programmatic, 2 official denials recorded against it. Axes C2/A3/D2.
+Re-graded A on a global pass (rank 126 of 1057, score 54). 6 connections, 2 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C2/A3/D2.
 
 ### The claims on the record
 
@@ -1043,7 +1043,7 @@ DIA Defense Intelligence Reference Document (Acquisition Threat Support series),
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 220 of 1057, score 42). 6 connections, 4 of them custody/witness/funding/programmatic. Axes C0/A0/D0.
+Re-graded B on a global pass (rank 211 of 1057, score 42). 6 connections, 4 of them custody/funding/programmatic. Axes C0/A0/D0.
 
 ### The claims on the record
 
@@ -1077,7 +1077,7 @@ DIA Defense Intelligence Reference Document (Acquisition Threat Support series),
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 350 of 1057, score 35). 5 connections, 3 of them custody/witness/funding/programmatic. Axes C0/A0/D0.
+Re-graded B on a global pass (rank 335 of 1057, score 35). 5 connections, 3 of them custody/funding/programmatic. Axes C0/A0/D0.
 
 ### The claims on the record
 
@@ -1094,7 +1094,7 @@ Re-graded B on a global pass (rank 350 of 1057, score 35). 5 connections, 3 of t
 - Aerospace Applications of Programmable Matter comes in from **Advanced Aerospace Weapon System Applications Program (AAWSAP)** (program, board tier A), a programmatic link at Tier 1 documented. The link reads: deliverable under AAWSAP. The released document names the programme itself. Its inside cover reads 'This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency ... Advanced Aerospace Weapon System Applications (AAWSA) Program' - the redaction between them is (b)(3):10 USC 424. Verified by downloading this DIRD and scanning its full text on 23 August 2026. The scans are OCR-degraded, so the quotation is normalised from the damaged rendering. Sources: documents2.theblackvault.com, https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_02-DIRD_Aerospace_Applications_of_Programmable_Matter.pdf; DIA FOIA Reading Room, Aerospace Applications of Programmable Matter (PDF), https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237656/, dated 2009-12-14.
 - Aerospace Applications of Programmable Matter comes in from **The 38 Defense Intelligence Reference Documents (DIRDs)** (document, board tier A), a programmatic link at Tier 1 documented. The link reads: DIRD. Membership of the DIRD series is established by the released document itself: its cover page carries the Defense Intelligence Reference Document mark and the DIA Defense Futures banner. Document number DIA-08-0911-016. Publication date 14 December 2009 on the cover. 21 pages in the released copy. The cover of the scanned release is degraded, so a document number or date is asserted here only where it reads unambiguously. Sources: Released DIRD, 'Aerospace Applications of Programmable Matter' (FOIA copy, cover page read 22 August 2026), https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_02-DIRD_Aerospace_Applications_of_Programmable_Matter.pdf, dated 2026-08-22; DIA FOIA Electronic Reading Room, AAWSAP/AATIP reference-document entry, https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237656/, dated 2026-08-22.
 - Aerospace Applications of Programmable Matter comes in from **Defense Intelligence Agency** (institution, board tier A), a custody link at Tier 1 documented. The link reads: published and holds; DIA-08-0911-016. DIA commissioned, holds and released this document. It carries a DIA document number in the DIA-08-xxxx-xxx series on its cover and was released through the DIA FOIA Electronic Reading Room, whose FileId entry is cited here alongside the retrievable copy. Cover page read on 22 August 2026. Sources: documents2.theblackvault.com, https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_02-DIRD_Aerospace_Applications_of_Programmable_Matter.pdf; DIA FOIA Reading Room, Aerospace Applications of Programmable Matter (PDF), https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237656/, dated 2009-12-14.
-- Aerospace Applications of Programmable Matter runs out to **Materials and custody analysis** (domain, board tier B), a research link at Tier 1 documented. The link reads: subject domain: exotic and reconfigurable materials. The document surveys programmable material whose effective atoms can be changed on demand to summon or dismiss material properties at will. It sits in the same AAWSAP materials line as the metamaterials, metallic glasses and metallic spintronics DIRDs. Sources: Released DIRD, 'Aerospace Applications of Programmable Matter', FOIA copy, cover page read 22 August 2026, https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_02-DIRD_Aerospace_Applications_of_Programmable_Matter.pdf, dated 2026-08-22; DIA FOIA Electronic Reading Room entry for this reference document, https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237656/, dated 2026-08-22.
+- Aerospace Applications of Programmable Matter runs out to **Materials and custody analysis** (domain, board tier A), a research link at Tier 1 documented. The link reads: subject domain: exotic and reconfigurable materials. The document surveys programmable material whose effective atoms can be changed on demand to summon or dismiss material properties at will. It sits in the same AAWSAP materials line as the metamaterials, metallic glasses and metallic spintronics DIRDs. Sources: Released DIRD, 'Aerospace Applications of Programmable Matter', FOIA copy, cover page read 22 August 2026, https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_02-DIRD_Aerospace_Applications_of_Programmable_Matter.pdf, dated 2026-08-22; DIA FOIA Electronic Reading Room entry for this reference document, https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237656/, dated 2026-08-22.
 - Aerospace Applications of Programmable Matter comes in from **Wil McCarthy** (person, board tier C), a research link at Tier 1 documented. The link reads: authored. DIA list item 23 names "Dr W McCarthy, Programmable Matter Corporation". Released PDF redacts the author under (b)(6). Sources: Released DIRD, 'Aerospace Applications of Programmable Matter', FOIA copy, cover page read 22 August 2026, https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_02-DIRD_Aerospace_Applications_of_Programmable_Matter.pdf, dated 2026-08-22; DIA FOIA Electronic Reading Room entry for this reference document, https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237656/, dated 2026-08-22; DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations, https://fas.org/publication/aatip-list/, dated 2026-08-23; https://irp.fas.org/dia/aatip-list.pdf, https://irp.fas.org/dia/aatip-list.pdf
 
 ## Aneutronic Fusion Propulsion (DIA-08-1011-004)
@@ -1109,7 +1109,7 @@ DIA Defense Intelligence Reference Document (Defense Futures series), 2010-11-01
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 301 of 1057, score 37). 5 connections, 3 of them custody/witness/funding/programmatic. Axes C0/A0/D0.
+Re-graded B on a global pass (rank 291 of 1057, score 37). 5 connections, 3 of them custody/funding/programmatic. Axes C0/A0/D0.
 
 ### The claims on the record
 
@@ -1142,7 +1142,7 @@ DIA Defense Intelligence Reference Document (Acquisition Threat Support series),
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 352 of 1057, score 35). 5 connections, 3 of them custody/witness/funding/programmatic. Axes C0/A0/D0.
+Re-graded B on a global pass (rank 337 of 1057, score 35). 5 connections, 3 of them custody/funding/programmatic. Axes C0/A0/D0.
 
 ### The claims on the record
 
@@ -1175,7 +1175,7 @@ DIA Defense Intelligence Reference Document (Acquisition Threat Support series),
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 302 of 1057, score 37). 5 connections, 3 of them custody/witness/funding/programmatic. Axes C0/A0/D0.
+Re-graded B on a global pass (rank 292 of 1057, score 37). 5 connections, 3 of them custody/funding/programmatic. Axes C0/A0/D0.
 
 ### The claims on the record
 
@@ -1208,7 +1208,7 @@ DIA Defense Intelligence Reference Document (Defense Futures series), 2010-12-15
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 403 of 1057, score 33). 5 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A0/D0.
+Re-graded B on a global pass (rank 380 of 1057, score 33). 5 connections, 2 of them custody/funding/programmatic. Axes C0/A0/D0.
 
 ### The claims on the record
 
@@ -1241,7 +1241,7 @@ DIA Defense Intelligence Reference Document (Acquisition Threat Support series),
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 353 of 1057, score 35). 5 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A0/D0.
+Re-graded B on a global pass (rank 338 of 1057, score 35). 5 connections, 2 of them custody/funding/programmatic. Axes C0/A0/D0.
 
 ### The claims on the record
 
@@ -1274,7 +1274,7 @@ DIA Defense Intelligence Reference Document (Acquisition Threat Support series),
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 221 of 1057, score 42). 5 connections, 2 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D0.
+Re-graded B on a global pass (rank 212 of 1057, score 42). 5 connections, 2 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D0.
 
 ### The claims on the record
 
@@ -1309,7 +1309,7 @@ DIA Defense Intelligence Reference Document (Defense Futures series), 2010-11-01
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 354 of 1057, score 35). 5 connections, 3 of them custody/witness/funding/programmatic. Axes C0/A0/D0.
+Re-graded B on a global pass (rank 339 of 1057, score 35). 5 connections, 3 of them custody/funding/programmatic. Axes C0/A0/D0.
 
 ### The claims on the record
 
@@ -1341,7 +1341,7 @@ DIA Defense Intelligence Reference Document (Defense Futures series), 2011-01-03
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 355 of 1057, score 35). 5 connections, 4 of them custody/witness/funding/programmatic. Axes C0/A0/D0.
+Re-graded B on a global pass (rank 340 of 1057, score 35). 5 connections, 4 of them custody/funding/programmatic. Axes C0/A0/D0.
 
 ### The claims on the record
 
@@ -1372,7 +1372,7 @@ DIA Defense Intelligence Reference Document (Acquisition Threat Support series),
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 516 of 1057, score 29). 5 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A0/D0.
+Re-graded B on a global pass (rank 495 of 1057, score 29). 5 connections, 2 of them custody/funding/programmatic. Axes C0/A0/D0.
 
 ### The claims on the record
 
@@ -1404,7 +1404,7 @@ DIA Defense Intelligence Reference Document (Acquisition Threat Support series),
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 489 of 1057, score 30). 5 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A0/D0.
+Re-graded B on a global pass (rank 467 of 1057, score 30). 5 connections, 2 of them custody/funding/programmatic. Axes C0/A0/D0.
 
 ### The claims on the record
 
@@ -1421,7 +1421,7 @@ Re-graded B on a global pass (rank 489 of 1057, score 30). 5 connections, 2 of t
 - The Role of Superconductors in Gravity Research comes in from **Advanced Aerospace Weapon System Applications Program (AAWSAP)** (program, board tier A), a programmatic link at Tier 1 documented. The link reads: FY2009 AAWSAP deliverable. The released document names the programme itself. Its inside cover reads 'This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency ... Advanced Aerospace Weapon System Applications (AAWSA) Program' - the redaction between them is (b)(3):10 USC 424. Verified by downloading this DIRD and scanning its full text on 23 August 2026. The scans are OCR-degraded, so the quotation is normalised from the damaged rendering. Sources: Defense Intelligence Reference Document, "The Role of Superconductors in Gravity Research" (The Black Vault FOIA release), https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_14-DIRD_The_Role_of_Superconductors_in_Gravity_Research.pdf, dated 2010-03-23; DIA FOIA Reading Room, The Role of Superconductors in Gravity Research (PDF), https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237631/, dated 2010-03-23.
 - The Role of Superconductors in Gravity Research comes in from **The 38 Defense Intelligence Reference Documents (DIRDs)** (document, board tier A), a programmatic link at Tier 1 documented. The link reads: DIRD. Membership of the DIRD series is established by the released document itself: its cover page carries the Defense Intelligence Reference Document mark and the DIA Defense Futures banner. Publication date 23 March 2010 on the cover. 17 pages in the released copy. The cover of the scanned release is degraded, so a document number or date is asserted here only where it reads unambiguously. Sources: Released DIRD, 'The Role of Superconductors in Gravity Research' (FOIA copy, cover page read 22 August 2026), https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_14-DIRD_The_Role_of_Superconductors_in_Gravity_Research.pdf, dated 2026-08-22; DIA FOIA Electronic Reading Room, AAWSAP/AATIP reference-document entry, https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237631/, dated 2026-08-22.
 - The Role of Superconductors in Gravity Research comes in from **Defense Intelligence Agency** (institution, board tier A), a institutional link at Tier 1 documented. The link reads: published by DIA as DIA-08-1003-013, Acquisition Threat Support series. DIA commissioned, holds and released this document. It carries a DIA document number in the DIA-08-xxxx-xxx series on its cover and was released through the DIA FOIA Electronic Reading Room, whose FileId entry is cited here alongside the retrievable copy. Cover page read on 22 August 2026. Sources: Defense Intelligence Reference Document, "The Role of Superconductors in Gravity Research" (The Black Vault FOIA release), https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_14-DIRD_The_Role_of_Superconductors_in_Gravity_Research.pdf, dated 2010-03-23; DIA FOIA Reading Room, The Role of Superconductors in Gravity Research (PDF), https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237631/, dated 2010-03-23.
-- The Role of Superconductors in Gravity Research runs out to **Materials and custody analysis** (domain, board tier B), a research link at Tier 1 documented. The link reads: subject domain: superconducting materials and claimed gravitational coupling. The paper's subject is a materials question posed as a physics question: whether a rotating high-temperature superconductor can produce a measurable gravitational anomaly. It sits with the materials strand of the DIRD set rather than with the metric-engineering strand. Sources: Released DIRD, 'The Role of Superconductors in Gravity Research', FOIA copy, cover page read 22 August 2026, https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_14-DIRD_The_Role_of_Superconductors_in_Gravity_Research.pdf, dated 2026-08-22; DIA FOIA Electronic Reading Room entry for this reference document, https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237631/, dated 2026-08-22.
+- The Role of Superconductors in Gravity Research runs out to **Materials and custody analysis** (domain, board tier A), a research link at Tier 1 documented. The link reads: subject domain: superconducting materials and claimed gravitational coupling. The paper's subject is a materials question posed as a physics question: whether a rotating high-temperature superconductor can produce a measurable gravitational anomaly. It sits with the materials strand of the DIRD set rather than with the metric-engineering strand. Sources: Released DIRD, 'The Role of Superconductors in Gravity Research', FOIA copy, cover page read 22 August 2026, https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_14-DIRD_The_Role_of_Superconductors_in_Gravity_Research.pdf, dated 2026-08-22; DIA FOIA Electronic Reading Room entry for this reference document, https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237631/, dated 2026-08-22.
 - The Role of Superconductors in Gravity Research comes in from **George D. Hathaway** (person, board tier C), a research link at Tier 1 documented. The link reads: author of record on the DIA list. DIA list item 10: "Role of Superconductors in Gravity Research, Dr George Hathaway, Hathaway Consulting." This is the attribution most likely to be got wrong from the title alone: the paper reviews the Podkletnov and Ning Li gravity-modification claims but was not written by either of them or by any academic advocate of the effect. It was written by the Toronto engineer who had run the Podkletnov replication and reported null results. Sources: Released DIRD, 'The Role of Superconductors in Gravity Research', FOIA copy, cover page read 22 August 2026, https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_14-DIRD_The_Role_of_Superconductors_in_Gravity_Research.pdf, dated 2026-08-22; DIA FOIA Electronic Reading Room entry for this reference document, https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237631/, dated 2026-08-22; DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations, https://fas.org/publication/aatip-list/, dated 2026-08-23; https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html, https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html; https://irp.fas.org/dia/aatip-list.pdf, https://irp.fas.org/dia/aatip-list.pdf
 
 ## Traversable Wormholes, Stargates, and Negative Energy
@@ -1436,7 +1436,7 @@ DIA Defense Intelligence Reference Document (Acquisition Threat Support series),
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 490 of 1057, score 30). 5 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A0/D0.
+Re-graded B on a global pass (rank 468 of 1057, score 30). 5 connections, 2 of them custody/funding/programmatic. Axes C0/A0/D0.
 
 ### The claims on the record
 
@@ -1468,7 +1468,7 @@ DIA Defense Intelligence Reference Document (Defense Futures series), 2010-11-01
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 491 of 1057, score 30). 5 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A0/D0.
+Re-graded B on a global pass (rank 469 of 1057, score 30). 5 connections, 2 of them custody/funding/programmatic. Axes C0/A0/D0.
 
 ### The claims on the record
 
@@ -1485,7 +1485,7 @@ Re-graded B on a global pass (rank 491 of 1057, score 30). 5 connections, 2 of t
 - Ultracapacitors as Energy and Power Storage Devices for Commercial and Military Applications comes in from **Advanced Aerospace Weapon System Applications Program (AAWSAP)** (program, board tier A), a programmatic link at Tier 1 documented. The link reads: AAWSAP deliverable, late tranche. The released document names the programme itself. Its inside cover reads 'This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency ... Advanced Aerospace Weapon System Applications (AAWSA) Program' - the redaction between them is (b)(3):10 USC 424. Verified by downloading this DIRD and scanning its full text on 23 August 2026. The scans are OCR-degraded, so the quotation is normalised from the damaged rendering. Sources: Defense Intelligence Reference Document, "Ultracapacitors as Energy and Power Storage Devices for Commercial and Military Applications" (The Black Vault FOIA release), https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_32-DIRD_Ultracapacitators_as_Energy_and_Power_Storage_Devices.pdf, dated 2010-11-01; DIA FOIA Reading Room, Ultracapacitors as Energy and Power Storage Devices for Commercial and Military Applications (PDF), https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237620/, dated 2010-11-01.
 - Ultracapacitors as Energy and Power Storage Devices for Commercial and Military Applications comes in from **The 38 Defense Intelligence Reference Documents (DIRDs)** (document, board tier A), a programmatic link at Tier 1 documented. The link reads: DIRD. Membership of the DIRD series is established by the released document itself: its cover page carries the Defense Intelligence Reference Document mark and the DIA Defense Futures banner. Publication date 01 November 2010 on the cover. 35 pages in the released copy. The cover of the scanned release is degraded, so a document number or date is asserted here only where it reads unambiguously. Sources: Released DIRD, 'Ultracapacitors as Energy and Power Storage Devices for Commercial and Military Applications' (FOIA copy, cover page read 22 August 2026), https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_32-DIRD_Ultracapacitators_as_Energy_and_Power_Storage_Devices.pdf, dated 2026-08-22; DIA FOIA Electronic Reading Room, AAWSAP/AATIP reference-document entry, https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237620/, dated 2026-08-22.
 - Ultracapacitors as Energy and Power Storage Devices for Commercial and Military Applications runs out to **Lockheed Martin Corporation** (institution, board tier A), a institutional link at Tier 1 documented. The link reads: author's affiliation of record; one of three Lockheed Martin DIRDs. Lockheed Martin appears three times on the DIA list: this paper, Dr V Teofilo's "Aneutronic Fusion Propulsion," and Dr S Macheret's MHD air-breathing propulsion paper. Eric Davis said in a June 2018 interview that the advanced nuclear fusion for aerospace propulsion work was done by colleagues at Lockheed Martin, which matches the list. This is a direct, documented thread from the DIRD series into the prime-contractor cluster. Sources: Released DIRD, 'Ultracapacitors as Energy and Power Storage Devices for Commercial and', FOIA copy, cover page read 22 August 2026, https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_32-DIRD_Ultracapacitators_as_Energy_and_Power_Storage_Devices.pdf, dated 2026-08-22; DIA FOIA Electronic Reading Room entry for this reference document, https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237620/, dated 2026-08-22; DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations, https://fas.org/publication/aatip-list/, dated 2026-08-23; https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html, https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html; https://ufos-scientificresearch.blogspot.com/2018/06/those-defense-intelligence-reference.html, https://ufos-scientificresearch.blogspot.com/2018/06/those-defense-intelligence-reference.html
-- Ultracapacitors as Energy and Power Storage Devices for Commercial and Military Applications runs out to **Materials and custody analysis** (domain, board tier B), a research link at Tier 1 documented. The link reads: subject domain: energy-storage materials for commercial and military applications. Electrode and electrolyte materials science applied to high-power energy storage. One of the DIRDs with immediate conventional military application and no anomalous content. Sources: Released DIRD, 'Ultracapacitors as Energy and Power Storage Devices for Commercial and', FOIA copy, cover page read 22 August 2026, https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_32-DIRD_Ultracapacitators_as_Energy_and_Power_Storage_Devices.pdf, dated 2026-08-22; DIA FOIA Electronic Reading Room entry for this reference document, https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237620/, dated 2026-08-22.
+- Ultracapacitors as Energy and Power Storage Devices for Commercial and Military Applications runs out to **Materials and custody analysis** (domain, board tier A), a research link at Tier 1 documented. The link reads: subject domain: energy-storage materials for commercial and military applications. Electrode and electrolyte materials science applied to high-power energy storage. One of the DIRDs with immediate conventional military application and no anomalous content. Sources: Released DIRD, 'Ultracapacitors as Energy and Power Storage Devices for Commercial and', FOIA copy, cover page read 22 August 2026, https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_32-DIRD_Ultracapacitators_as_Energy_and_Power_Storage_Devices.pdf, dated 2026-08-22; DIA FOIA Electronic Reading Room entry for this reference document, https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237620/, dated 2026-08-22.
 - Ultracapacitors as Energy and Power Storage Devices for Commercial and Military Applications comes in from **J. Golightly** (person, board tier C), a research link at Tier 1 documented. The link reads: author of record on the DIA list. DIA list item 35: "Ultracapacitors as Energy and Power Storage Devices, Dr J Golightly, Lockheed Martin." The given name behind the initial was not established by any source consulted, and the node is labelled accordingly rather than guessed. Sources: Released DIRD, 'Ultracapacitors as Energy and Power Storage Devices for Commercial and', FOIA copy, cover page read 22 August 2026, https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_32-DIRD_Ultracapacitators_as_Energy_and_Power_Storage_Devices.pdf, dated 2026-08-22; DIA FOIA Electronic Reading Room entry for this reference document, https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237620/, dated 2026-08-22; DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations, https://fas.org/publication/aatip-list/, dated 2026-08-23; https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html, https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html; https://irp.fas.org/dia/aatip-list.pdf, https://irp.fas.org/dia/aatip-list.pdf
 
 ## Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions
@@ -1500,7 +1500,7 @@ DIA Defense Intelligence Reference Document (Acquisition Threat Support series),
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 492 of 1057, score 30). 5 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A0/D0.
+Re-graded B on a global pass (rank 470 of 1057, score 30). 5 connections, 2 of them custody/funding/programmatic. Axes C0/A0/D0.
 
 ### The claims on the record
 
@@ -1532,7 +1532,7 @@ Excerpts from five quarterly histories of the 341st Strategic Missile Wing, Malm
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 309 of 1057, score 37). 5 connections, 2 of them custody/witness/funding/programmatic. Axes C1/A2/D2.
+Re-graded B on a global pass (rank 298 of 1057, score 37). 5 connections, 2 of them custody/funding/programmatic. Axes C1/A2/D2.
 
 ### The claims on the record
 
@@ -1561,7 +1561,7 @@ An eight-page document on Ministério da Aeronáutica letterhead, stamped CONFID
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 296 of 1057, score 38). 5 connections, 3 of them custody/witness/funding/programmatic. Axes C1/A2/D3.
+Re-graded B on a global pass (rank 285 of 1057, score 38). 5 connections, 3 of them custody/funding/programmatic. Axes C1/A2/D3.
 
 ### The claims on the record
 
@@ -1589,7 +1589,7 @@ On 5 January 1994 the Deputy Secretary of Defense changed the Department's speci
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 229 of 1057, score 42). 5 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A3/D1.
+Re-graded B on a global pass (rank 217 of 1057, score 42). 5 connections, 1 of them custody/funding/programmatic. Axes C2/A3/D1.
 
 ### The claims on the record
 
@@ -1620,7 +1620,7 @@ This is the version of DoD's SAP charter that governed for the entire period cov
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 63 of 1057, score 74). 6 connections, 2 of them custody/witness/funding/programmatic. Axes C1/A3/D2.
+Re-graded A on a global pass (rank 58 of 1057, score 74). 6 connections, 2 of them custody/funding/programmatic. Axes C1/A3/D2.
 
 ### The claims on the record
 
@@ -1656,7 +1656,7 @@ The current directive, effective 12 September 2024, cancels the 1 July 2010 vers
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 83 of 1057, score 68). 6 connections, 1 of them custody/witness/funding/programmatic, 2 official denials recorded against it. Axes C1/A3/D2.
+Re-graded A on a global pass (rank 79 of 1057, score 68). 6 connections, 1 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C1/A3/D2.
 
 ### The claims on the record
 
@@ -1692,7 +1692,7 @@ The Inspector General's evaluation of how the Department handles UAP, completed 
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 77 of 1057, score 69). 6 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D3.
+Re-graded A on a global pass (rank 72 of 1057, score 69). 6 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D3.
 
 ### The claims on the record
 
@@ -1713,7 +1713,7 @@ A further 8 claims sit on this node on the board and are not reproduced here.
 - DoD OIG - Evaluation of the DoD's Actions Regarding Unidentified Anomalous Phenomena (DODIG-2023-109) runs out to **United States Department of Defense (secondary designation: Department of War)** (institution, board tier A), a denial link at Tier 1 documented. The link reads: The full IG report on DoD's UAP handling remains classified. The public has only an unclassified summary; the IG's own account of where the stovepipes sit has not been released, including through PURSUE. Sources: DoD OIG - Evaluation of the DoD's Actions Regarding UAP (DODIG-2023-109), https://www.dodig.mil/Reports/Audits-and-Evaluations/Article/3496071/evaluation-of-the-dods-actions-regarding-unidentified-anomalous-phenomena-dodig/, dated 2023-08-15; Department of War - PURSUE portal (war.gov/UFO), https://www.war.gov/UFO/, dated 2026-08-07.
 - DoD OIG - Evaluation of the DoD's Actions Regarding Unidentified Anomalous Phenomena (DODIG-2023-109) runs out to **United States Department of Defense (secondary designation: Department of War)** (institution, board tier A), a investigative link at Tier 1 documented. The link reads: IG found no comprehensive DoD approach, no response plan, and combatant commanders largely excluded. DODIG-2023-109 documents structural incoherence across the Department on UAP, including inconsistent reporting systems such as the Air Force's Marauder. Sources: DoD OIG report page, https://www.dodig.mil/Reports/Audits-and-Evaluations/Article/3496071/evaluation-of-the-dods-actions-regarding-unidentified-anomalous-phenomena-dodig/, dated 2023-08-15.
 - DoD OIG - Evaluation of the DoD's Actions Regarding Unidentified Anomalous Phenomena (DODIG-2023-109) comes in from **Congressional oversight of special access programs** (institution, board tier B), a investigative link at Tier 1 documented. The link reads: The audit Congress has, and cannot read. The only formal evaluation of DoD's UAP conduct is classified in full, so the oversight value available to members outside the cleared channels is an unclassified summary. Sources: DoD OIG, DODIG-2023-109, https://www.dodig.mil/Reports/Audits-and-Evaluations/Article/3496071/evaluation-of-the-dods-actions-regarding-unidentified-anomalous-phenomena-dodig/, dated 2023-08-15.
-- DoD OIG - Evaluation of the DoD's Actions Regarding Unidentified Anomalous Phenomena (DODIG-2023-109) comes in from **Department of Defense Office of Inspector General** (institution, board tier B), a investigative link at Tier 1 documented. The link reads: DoD OIG issued the only formal audit of the Department's UAP conduct. The evaluation examined 'how the DoD, military services, defense agencies, and military department counterintelligence organizations took intelligence, counterintelligence, and force protection actions to detect, report, collect, analyze, and identify UAP'. The full report is classified. Sources: DoD OIG, DODIG-2023-109, https://www.dodig.mil/Reports/Audits-and-Evaluations/Article/3496071/evaluation-of-the-dods-actions-regarding-unidentified-anomalous-phenomena-dodig/, dated 2023-08-15.
+- DoD OIG - Evaluation of the DoD's Actions Regarding Unidentified Anomalous Phenomena (DODIG-2023-109) comes in from **Department of Defense Office of Inspector General** (institution, board tier C), a investigative link at Tier 1 documented. The link reads: DoD OIG issued the only formal audit of the Department's UAP conduct. The evaluation examined 'how the DoD, military services, defense agencies, and military department counterintelligence organizations took intelligence, counterintelligence, and force protection actions to detect, report, collect, analyze, and identify UAP'. The full report is classified. Sources: DoD OIG, DODIG-2023-109, https://www.dodig.mil/Reports/Audits-and-Evaluations/Article/3496071/evaluation-of-the-dods-actions-regarding-unidentified-anomalous-phenomena-dodig/, dated 2023-08-15.
 - DoD OIG - Evaluation of the DoD's Actions Regarding Unidentified Anomalous Phenomena (DODIG-2023-109) comes in from **NDAA FY2026 UAP provisions (Secs. 1671-1673)** (legislation, board tier A), a legislative link at Tier 3 stated inference. The link reads: the data-sharing streamlining provision answers the IG's 2023 reporting-requirement finding. The IG found components were not required to report to AARO; two years later Congress legislated to streamline agency data sharing into AARO investigations. Sources: DoD OIG unclassified summary, https://media.defense.gov/2024/Jan/25/2003381266/-1/-1/1/UNCLASSIFIED%20SUMMARY_UNIDENTIFIED%20ANOMALOUS%20PHENOMENA%20SECURE.PDF, dated 2024-01-25; DefenseScoop - FY2026 NDAA UAP provisions, https://defensescoop.com/2025/12/10/uap-ufo-military-intercepts-north-america-fy-2026-ndaa/, dated 2025-12-10.
 
 ## DoDM 5205.07, DoD SAP Security Manual (Volumes 1-4)
@@ -1728,7 +1728,7 @@ The DoD SAP Security Manual is issued in four volumes under number 5205.07: Volu
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 66 of 1057, score 73). 5 connections, 4 of them custody/witness/funding/programmatic. Axes C1/A3/D1.
+Re-graded A on a global pass (rank 60 of 1057, score 73). 5 connections, 4 of them custody/funding/programmatic. Axes C1/A3/D1.
 
 ### The claims on the record
 
@@ -1749,7 +1749,7 @@ A further 6 claims sit on this node on the board and are not reproduced here.
 - DoDM 5205.07, DoD SAP Security Manual (Volumes 1-4) runs out to **Carve-Out Provision (DCSA relief from NISP oversight)** (program, board tier A), a programmatic link at Tier 1 documented. The link reads: defines and operates the carve-out. The Manual is where the carve-out is defined and where it operates. Volume 1's glossary: 'carve-out. A provision approved by the Secretary or Deputy Secretary of Defense that relieves DSS of its NISP obligation to perform industrial security oversight.' Enclosure 2 para 2 carries the operational form of the same provision, and Volume 1 also states that inspections 'will be coordinated among the SAPCOs and DSS when not carved out' - which is the sentence establishing that a carved-out SAP is not so coordinated. Quotations are the verbatim ones already recorded on this node. Sources: Archived: DoDM 5205.07 Volume 4, 'Special Access Program (SAP) Security Manual: Marking', 10 Oct 2013, Incorporating Change 2, effective 8 September 2020 (Wayback 2026-05-18), https://web.archive.org/web/20260518063205/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507-V4p.PDF, dated 2026-05-18; DoDM 5205.07 Volume 1, 'DoD SAP Security Manual: General Procedures', 18 June 2015, Incorporating Change 1, 12 Feb 2018 (Internet Archive capture, 18 Oct 2019), https://web.archive.org/web/20191018064106/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol1.pdf, dated 2018-02-12.
 - DoDM 5205.07, DoD SAP Security Manual (Volumes 1-4) runs out to **DoDD 5205.07, Special Access Program (SAP) Policy (1 Jul 2010, Chg 2 of 4 Feb 2020)** (document, board tier A), a programmatic link at Tier 1 documented. The link reads: manual implements policy established in DoDD 5205.07. The Manual implements the Directive. The 2010 directive sets SAP policy and defines the carve-out in its glossary; the four-volume Manual carries the operating detail - Volume 1's Enclosure 2 on DSS oversight and its relief, Enclosure 4 on whistleblower routing through SAP channels, and the patents and intellectual property provision. Directive states the policy, Manual runs it. Sources: Archived: DoDM 5205.07 Volume 4, 'Special Access Program (SAP) Security Manual: Marking', 10 Oct 2013, Incorporating Change 2, effective 8 September 2020 (Wayback 2026-05-18), https://web.archive.org/web/20260518063205/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507-V4p.PDF, dated 2026-05-18; DoDM 5205.07 Volume 1, 'DoD SAP Security Manual: General Procedures', 18 June 2015, Incorporating Change 1, 12 Feb 2018 (Internet Archive capture, 18 Oct 2019), https://web.archive.org/web/20191018064106/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol1.pdf, dated 2018-02-12.
 - DoDM 5205.07, DoD SAP Security Manual (Volumes 1-4) runs out to **DoDM 5205.07 Volume 1, DoD SAP Security Manual: General Procedures** (document, board tier A), a institutional link at Tier 1 documented. The link reads: Volume 1 is the general procedures volume of the four-volume manual. DoDM 5205.07 is issued in volumes; Volume 1 carries the responsibilities, general procedures, HVSACO rules and the glossary containing the carve-out definition. Sources: DoD Manual 5205.07 Volume 1, 18 June 2015, Change 1 12 February 2018, https://web.archive.org/web/20191018064106/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol1.pdf, dated 2018-02-12.
-- DoDM 5205.07, DoD SAP Security Manual (Volumes 1-4) runs out to **DCSA as DoD Cognizant Security Office under the NISP** (institution, board tier B), a programmatic link at Tier 1 documented. The link reads: relieves it of oversight. The carve-out's effect runs against this body: the Manual's own definition is that the provision 'relieves DSS of its NISP obligation to perform industrial security oversight'. DSS is the predecessor of DCSA, which now holds the cognizant-security-office role under the NISP. The Manual is the instrument by which the oversight body is stood down for a given programme. Sources: Archived: DoDM 5205.07 Volume 4, 'Special Access Program (SAP) Security Manual: Marking', 10 Oct 2013, Incorporating Change 2, effective 8 September 2020 (Wayback 2026-05-18), https://web.archive.org/web/20260518063205/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507-V4p.PDF, dated 2026-05-18; DoDM 5205.07 Volume 1, 'DoD SAP Security Manual: General Procedures', 18 June 2015, Incorporating Change 1, 12 Feb 2018 (Internet Archive capture, 18 Oct 2019), https://web.archive.org/web/20191018064106/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol1.pdf, dated 2018-02-12.
+- DoDM 5205.07, DoD SAP Security Manual (Volumes 1-4) runs out to **DCSA as DoD Cognizant Security Office under the NISP** (institution, board tier A), a programmatic link at Tier 1 documented. The link reads: relieves it of oversight. The carve-out's effect runs against this body: the Manual's own definition is that the provision 'relieves DSS of its NISP obligation to perform industrial security oversight'. DSS is the predecessor of DCSA, which now holds the cognizant-security-office role under the NISP. The Manual is the instrument by which the oversight body is stood down for a given programme. Sources: Archived: DoDM 5205.07 Volume 4, 'Special Access Program (SAP) Security Manual: Marking', 10 Oct 2013, Incorporating Change 2, effective 8 September 2020 (Wayback 2026-05-18), https://web.archive.org/web/20260518063205/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507-V4p.PDF, dated 2026-05-18; DoDM 5205.07 Volume 1, 'DoD SAP Security Manual: General Procedures', 18 June 2015, Incorporating Change 1, 12 Feb 2018 (Internet Archive capture, 18 Oct 2019), https://web.archive.org/web/20191018064106/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol1.pdf, dated 2018-02-12.
 
 ## DoDM 5205.07 Volume 1, DoD SAP Security Manual: General Procedures
 
@@ -1763,7 +1763,7 @@ Volume 1 of the four-volume DoD SAP Security Manual assigns responsibilities and
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 106 of 1057, score 60). 5 connections, 2 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D2.
+Re-graded A on a global pass (rank 104 of 1057, score 60). 5 connections, 2 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D2.
 
 ### The claims on the record
 
@@ -1784,7 +1784,7 @@ A further 2 claims sit on this node on the board and are not reproduced here.
 - DoDM 5205.07 Volume 1, DoD SAP Security Manual: General Procedures runs out to **DoDI 5205.11, Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)** (document, board tier A), a institutional link at Tier 1 documented. The link reads: The manual implements the instruction's policy. DoDM 5205.07 Volume 1 para 1.a(1) states that it 'implements policy established in DoD Instruction (DoDI) 5205.11'. Sources: DoD Manual 5205.07 Volume 1, 18 June 2015, Change 1 12 February 2018, https://web.archive.org/web/20191018064106/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol1.pdf, dated 2018-02-12.
 - DoDM 5205.07 Volume 1, DoD SAP Security Manual: General Procedures comes in from **DoDM 5205.07, DoD SAP Security Manual (Volumes 1-4)** (document, board tier A), a institutional link at Tier 1 documented. The link reads: Volume 1 is the general procedures volume of the four-volume manual. DoDM 5205.07 is issued in volumes; Volume 1 carries the responsibilities, general procedures, HVSACO rules and the glossary containing the carve-out definition. Sources: DoD Manual 5205.07 Volume 1, 18 June 2015, Change 1 12 February 2018, https://web.archive.org/web/20191018064106/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol1.pdf, dated 2018-02-12.
 - DoDM 5205.07 Volume 1, DoD SAP Security Manual: General Procedures comes in from **Cover mechanisms, HVSACO, nicknames, unacknowledged locations** (domain, board tier A), a programmatic link at Tier 1 documented. The link reads: HVSACO, nicknames and unacknowledged locations are all defined in the manual. DoDM 5205.07-V1 Enclosure 5 applies HVSACO 'When using a SAP nickname for an unacknowledged SAP' and states 'HVSACO is not a classification'; Enclosure 10 bars federal ID cards for identification at unacknowledged locations. Sources: DoD Manual 5205.07 Volume 1, 18 June 2015, Change 1 12 February 2018, https://web.archive.org/web/20191018064106/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol1.pdf, dated 2018-02-12.
-- DoDM 5205.07 Volume 1, DoD SAP Security Manual: General Procedures comes in from **Department of Defense Office of Inspector General** (institution, board tier B), a denial link at Tier 1 documented. The link reads: SAP fraud and abuse complaints must not use collateral reporting channels. DoDM 5205.07-V1 Enclosure 4 para 3.a: SAP FWAC reporting 'will be accomplished through SAP channels. Collateral FWAC reporting channels must not be used for SAP information.' Sources: DoD Manual 5205.07 Volume 1, 18 June 2015, Change 1 12 February 2018, https://web.archive.org/web/20191018064106/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol1.pdf, dated 2018-02-12.
+- DoDM 5205.07 Volume 1, DoD SAP Security Manual: General Procedures comes in from **Department of Defense Office of Inspector General** (institution, board tier C), a denial link at Tier 1 documented. The link reads: SAP fraud and abuse complaints must not use collateral reporting channels. DoDM 5205.07-V1 Enclosure 4 para 3.a: SAP FWAC reporting 'will be accomplished through SAP channels. Collateral FWAC reporting channels must not be used for SAP information.' Sources: DoD Manual 5205.07 Volume 1, 18 June 2015, Change 1 12 February 2018, https://web.archive.org/web/20191018064106/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol1.pdf, dated 2018-02-12.
 
 ## Estimate of the Situation (1948)
 
@@ -1798,7 +1798,7 @@ In mid-1948 the Project SIGN staff at Wright Field completed a Top Secret docume
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 262 of 1057, score 40). 5 connections, 2 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D2.
+Re-graded B on a global pass (rank 300 of 1057, score 37). 5 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D2.
 
 ### The claims on the record
 
@@ -1811,7 +1811,7 @@ Re-graded B on a global pass (rank 262 of 1057, score 40). 5 connections, 2 of t
 
 - Estimate of the Situation (1948) comes in from **University of Colorado UFO Project (Condon Committee)** (program, board tier A), a investigative link at Tier 1 documented. The link reads: The Condon Report is the primary documentary record of the Estimate's destruction. Section V Chapter 2 records the estimate's preparation, Vandenberg's rejection and the destruction of copies, the Air Force paying to put its own suppression on the record. Sources: Condon Report Sec. V Ch. 2, https://files.ncas.org/condon/text/s5chap02.htm, dated 1968-11-01.
 - Estimate of the Situation (1948) comes in from **Project SIGN** (program, board tier B), a programmatic link at Tier 1 documented. The link reads: SIGN staff produced the 1948 Estimate. Project SIGN personnel wrote a Top Secret estimate concluding the objects were interplanetary. The Condon Report, written under Air Force contract, records that it was prepared. Sources: Condon Report Sec. V Ch. 2, https://files.ncas.org/condon/text/s5chap02.htm, dated 1968-11-01.
-- Estimate of the Situation (1948) comes in from **Hoyt S. Vandenberg** (person, board tier C), a denial link at Tier 1 documented. The link reads: Vandenberg rejected the Estimate and ordered copies destroyed. The Air Force Chief of Staff rejected the interplanetary conclusion for lacking proof and had the document destroyed, the earliest documented destruction of an adverse UAP record, attested in the Air Force's own contracted study. Sources: Condon Report Sec. V Ch. 2, https://files.ncas.org/condon/text/s5chap02.htm, dated 1968-11-01; Ruppelt, The Report on Unidentified Flying Objects, https://www.gutenberg.org/ebooks/17346, dated 1956-01-01.
+- Estimate of the Situation (1948) comes in from **Hoyt S. Vandenberg** (person, board tier B), a denial link at Tier 1 documented. The link reads: Vandenberg rejected the Estimate and ordered copies destroyed. The Air Force Chief of Staff rejected the interplanetary conclusion for lacking proof and had the document destroyed, the earliest documented destruction of an adverse UAP record, attested in the Air Force's own contracted study. Sources: Condon Report Sec. V Ch. 2, https://files.ncas.org/condon/text/s5chap02.htm, dated 1968-11-01; Ruppelt, The Report on Unidentified Flying Objects, https://www.gutenberg.org/ebooks/17346, dated 1956-01-01.
 - Estimate of the Situation (1948) runs out to **Project GRUDGE** (program, board tier C), a temporal link at Tier 1 documented. The link reads: Destruction of the Estimate preceded GRUDGE's dismissive posture by six months. SIGN became GRUDGE on 11 February 1949, months after the Estimate was destroyed, and GRUDGE's founding conclusions ran directly counter to it. Sources: Condon Report Sec. V Ch. 2, https://files.ncas.org/condon/text/s5chap02.htm, dated 1968-11-01.
 - Estimate of the Situation (1948) comes in from **Edward J. Ruppelt** (person, board tier B), a witness-chain link at Tier 2 named person on the record. The link reads: Ruppelt is the origin of public knowledge of the Estimate. As a serving Blue Book director with access to the files, Ruppelt published the Estimate's existence and destruction in 1956; the Condon Report corroborated him twelve years later. Sources: Ruppelt, The Report on Unidentified Flying Objects, https://www.gutenberg.org/ebooks/17346, dated 1956-01-01; Condon Report Sec. V Ch. 2, https://files.ncas.org/condon/text/s5chap02.htm, dated 1968-11-01.
 
@@ -1827,7 +1827,7 @@ The Foreign Technology Division was the Air Force's foreign aerospace materiel e
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 248 of 1057, score 41). 5 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A3/D1.
+Re-graded B on a global pass (rank 234 of 1057, score 41). 5 connections, 1 of them custody/funding/programmatic. Axes C2/A3/D1.
 
 ### The claims on the record
 
@@ -1857,7 +1857,7 @@ This is the one death inside a compartmented American programme that the governm
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 175 of 1057, score 47). 5 connections, 3 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D3.
+Re-graded B on a global pass (rank 194 of 1057, score 44). 5 connections, 2 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D3.
 
 ### The claims on the record
 
@@ -1893,7 +1893,7 @@ The recalled January 2015 US Fleet Forces Command message is the highest-value s
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 251 of 1057, score 41). 5 connections, 3 of them custody/witness/funding/programmatic. Axes C1/A3/D3.
+Re-graded B on a global pass (rank 283 of 1057, score 38). 5 connections, 2 of them custody/funding/programmatic. Axes C1/A3/D3.
 
 ### The claims on the record
 
@@ -1922,7 +1922,7 @@ GAO is the audit arm of Congress and the only investigative body on this board t
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 840 of 1057, score 18). 5 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D3.
+Re-graded C on a global pass (rank 836 of 1057, score 18). 5 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.
 
 ### The claims on the record
 
@@ -1953,7 +1953,7 @@ GAO explains the carve-out in its own words: special access contracts are 'carve
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 281 of 1057, score 39). 5 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D3.
+Re-graded B on a global pass (rank 267 of 1057, score 39). 5 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D3.
 
 ### The claims on the record
 
@@ -1985,7 +1985,7 @@ Gerb's first corporate investigation, published 18 February 2024, and the most p
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 448 of 1057, score 32). 5 connections, 2 of them custody/witness/funding/programmatic. Axes C1/A1/D2.
+Re-graded B on a global pass (rank 508 of 1057, score 29). 5 connections, 1 of them custody/funding/programmatic. Axes C1/A1/D2.
 
 ### The claims on the record
 
@@ -2014,7 +2014,7 @@ Published 20 March 2026, this is the corporate-breakaway argument. It moves past
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 233 of 1057, score 42). 5 connections, 2 of them custody/witness/funding/programmatic. Axes C2/A3/D3.
+Re-graded B on a global pass (rank 268 of 1057, score 39). 5 connections, 1 of them custody/funding/programmatic. Axes C2/A3/D3.
 
 ### The claims on the record
 
@@ -2043,7 +2043,7 @@ The first documented scientific conference convened by the United States governm
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 277 of 1057, score 39). 5 connections, 4 of them custody/witness/funding/programmatic. Axes C1/A2/D2.
+Re-graded B on a global pass (rank 383 of 1057, score 33). 5 connections, 2 of them custody/funding/programmatic. Axes C1/A2/D2.
 
 ### The claims on the record
 
@@ -2057,7 +2057,7 @@ Re-graded B on a global pass (rank 277 of 1057, score 39). 5 connections, 4 of t
 - Los Alamos Green Fireballs Conference runs out to **Los Alamos National Laboratory** (institution, board tier B), a custody link at Tier 1 documented. The link reads: Held at Los Alamos; LANL's National Security Research Center holds the minutes. LANL confirms the 16 February 1949 conference and its custody of the minutes in its own published account. Sources: LANL National Security Research Center, https://www.lanl.gov/media/publications/the-vault/1124-foia-requests-at-the-national-security-research-center, dated 2024-11-18.
 - Los Alamos Green Fireballs Conference comes in from **Edward Teller** (person, board tier C), a witness-chain link at Tier 1 documented. The link reads: Attended the 16 February 1949 conference. Attendance confirmed by LANL alongside Norris Bradbury and Frederick Reines, with FBI, AEC and military representatives present. Sources: LANL National Security Research Center, https://www.lanl.gov/media/publications/the-vault/1124-foia-requests-at-the-national-security-research-center, dated 2024-11-18.
 - Los Alamos Green Fireballs Conference runs out to **Los Alamos, New Mexico** (location, board tier B), a research link at Tier 2 named person on the record. The link reads: The green fireballs conference was convened at Los Alamos. Edward Teller and Lincoln LaPaz were among the attendees; the laboratory's own account records that the phenomenon was ultimately dismissed as a national security threat. Sources: Wikipedia - White Sands Missile Range, https://en.wikipedia.org/wiki/White_Sands_Missile_Range, dated 2026-08-12.
-- Los Alamos Green Fireballs Conference comes in from **Lincoln LaPaz** (person, board tier B), a witness-chain link at Tier 2 named person on the record. The link reads: Brought in by Kirtland intelligence officers; his assessment drove the conference. LaPaz concluded the fireballs did not behave like meteors despite superficially resembling them. Sources: LANL National Security Research Center, https://www.lanl.gov/media/publications/the-vault/1124-foia-requests-at-the-national-security-research-center, dated 2024-11-18.
+- Los Alamos Green Fireballs Conference comes in from **Lincoln LaPaz** (person, board tier C), a witness-chain link at Tier 2 named person on the record. The link reads: Brought in by Kirtland intelligence officers; his assessment drove the conference. LaPaz concluded the fireballs did not behave like meteors despite superficially resembling them. Sources: LANL National Security Research Center, https://www.lanl.gov/media/publications/the-vault/1124-foia-requests-at-the-national-security-research-center, dated 2024-11-18.
 
 ## Grusch PPD-19 Urgent Concern Complaint to the ICIG
 
@@ -2075,7 +2075,7 @@ Chain of custody for the complaint, as established by sworn testimony and report
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 223 of 1057, score 42). 5 connections, 2 of them custody/witness/funding/programmatic. Axes C2/A3/D3.
+Re-graded B on a global pass (rank 314 of 1057, score 36). 5 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D3.
 
 ### The claims on the record
 
@@ -2103,7 +2103,7 @@ The facility referred to in the Varginha literature as the Hospital Regional de 
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 700 of 1057, score 23). 5 connections, 3 of them custody/witness/funding/programmatic. Axes C0/A0/D0.
+Re-graded C on a global pass (rank 925 of 1057, score 14). 5 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D0.
 
 ### The claims on the record
 
@@ -2133,7 +2133,7 @@ HASC held the House side of the NDAA conference through the stripping and is the
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 703 of 1057, score 23). 5 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A3/D0.
+Re-graded C on a global pass (rank 682 of 1057, score 23). 5 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D0.
 
 ### The claims on the record
 
@@ -2160,7 +2160,7 @@ Division G of Public Law 118-31. Sec. 7341 moves the annual UAP report obligatio
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 930 of 1057, score 14). 5 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D0.
+Re-graded C on a global pass (rank 924 of 1057, score 14). 5 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D0.
 
 ### The claims on the record
 
@@ -2191,7 +2191,7 @@ Why the intelligence side is the harder problem and the softer target at the sam
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 51 of 1057, score 81). 7 connections, 2 of them custody/witness/funding/programmatic. Axes C2/A3/D3.
+Re-graded A on a global pass (rank 48 of 1057, score 81). 7 connections, 2 of them custody/funding/programmatic. Axes C2/A3/D3.
 
 ### The claims on the record
 
@@ -2229,7 +2229,7 @@ Published 19 January 2024, seven weeks after Kirkpatrick left AARO and seven wee
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 391 of 1057, score 34). 6 connections, 0 of them custody/witness/funding/programmatic, 3 official denials recorded against it. Axes C0/A1/D2.
+Re-graded B on a global pass (rank 371 of 1057, score 34). 6 connections, 0 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C0/A1/D2.
 
 ### The claims on the record
 
@@ -2260,7 +2260,7 @@ KLAS-TV is the Las Vegas station where George Knapp has worked as anchor and I-T
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 864 of 1057, score 17). 5 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A0/D2.
+Re-graded C on a global pass (rank 928 of 1057, score 14). 5 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D2.
 
 ### The claims on the record
 
@@ -2286,7 +2286,7 @@ Brasilia is the seat of the Brazilian federal government and the administrative 
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 718 of 1057, score 23). 5 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A1/D2.
+Re-graded C on a global pass (rank 697 of 1057, score 23). 5 connections, 1 of them custody/funding/programmatic. Axes C1/A1/D2.
 
 ### The claims on the record
 
@@ -2313,7 +2313,7 @@ The Air Force installation in Florida's first congressional district that produc
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 441 of 1057, score 32). 5 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A2/D2.
+Re-graded B on a global pass (rank 417 of 1057, score 32). 5 connections, 0 of them custody/funding/programmatic. Axes C2/A2/D2.
 
 ### The claims on the record
 
@@ -2341,7 +2341,7 @@ The Nevada complex is where the classification regimes overlap. A Department of 
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 595 of 1057, score 27). 5 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A3/D0.
+Re-graded C on a global pass (rank 575 of 1057, score 27). 5 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D0.
 
 ### The claims on the record
 
@@ -2368,7 +2368,7 @@ A fully documented case of a real programme carrying a second, classified progra
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 215 of 1057, score 43). 5 connections, 2 of them custody/witness/funding/programmatic. Axes C1/A3/D2.
+Re-graded B on a global pass (rank 207 of 1057, score 43). 5 connections, 2 of them custody/funding/programmatic. Axes C1/A3/D2.
 
 ### The claims on the record
 
@@ -2383,12 +2383,12 @@ Re-graded B on a global pass (rank 215 of 1057, score 43). 5 connections, 2 of t
 - Manned Orbiting Laboratory and the DORIAN / KH-10 reconnaissance payload runs out to **United States Air Force** (institution, board tier A), a institutional link at Tier 1 documented. The link reads: MOL was the Air Force's public programme. MOL was the Air Force's public programme and the service that selected and trained the seventeen officers. Sources: Spies in Space, NRO Center for the Study of National Reconnaissance, May 2019, https://www.govinfo.gov/content/pkg/GOVPUB-D-PURL-gpo123652/pdf/GOVPUB-D-PURL-gpo123652.pdf, dated 2019-05-01.
 - Manned Orbiting Laboratory and the DORIAN / KH-10 reconnaissance payload runs out to **National Reconnaissance Office** (institution, board tier A), a programmatic link at Tier 1 documented. The link reads: The NRO ran the DORIAN payload inside the Air Force programme. The NRO ran the DORIAN payload inside the Air Force programme and is the agency that declassified the collection in 2015. Sources: Spies in Space, NRO Center for the Study of National Reconnaissance, May 2019, https://www.govinfo.gov/content/pkg/GOVPUB-D-PURL-gpo123652/pdf/GOVPUB-D-PURL-gpo123652.pdf, dated 2019-05-01.
 - Manned Orbiting Laboratory and the DORIAN / KH-10 reconnaissance payload runs out to **National Aeronautics and Space Administration** (institution, board tier B), a institutional link at Tier 1 documented. The link reads: After cancellation the younger MOL astronauts transferred to NASA. After cancellation the younger MOL astronauts transferred to NASA, which is why an intelligence programme's people are traceable in a civil agency's record. Sources: 55 Years Ago: Manned Orbiting Laboratory Cancellation, NASA, https://www.nasa.gov/history/55-years-ago-manned-orbiting-laboratory-cancellation/, dated 2024-06-11.
-- Manned Orbiting Laboratory and the DORIAN / KH-10 reconnaissance payload runs out to **Vandenberg Space Force Base, California** (location, board tier B), a geographic link at Tier 1 documented. The link reads: Polar launches were to fly from Vandenberg on the Titan-IIIM. Polar launches were to fly from Vandenberg on the Titan-IIIM, per the NASA history article. Sources: 55 Years Ago: Manned Orbiting Laboratory Cancellation, NASA, https://www.nasa.gov/history/55-years-ago-manned-orbiting-laboratory-cancellation/, dated 2024-06-11.
+- Manned Orbiting Laboratory and the DORIAN / KH-10 reconnaissance payload runs out to **Vandenberg Space Force Base, California** (location, board tier C), a geographic link at Tier 1 documented. The link reads: Polar launches were to fly from Vandenberg on the Titan-IIIM. Polar launches were to fly from Vandenberg on the Titan-IIIM, per the NASA history article. Sources: 55 Years Ago: Manned Orbiting Laboratory Cancellation, NASA, https://www.nasa.gov/history/55-years-ago-manned-orbiting-laboratory-cancellation/, dated 2024-06-11.
 - Manned Orbiting Laboratory and the DORIAN / KH-10 reconnaissance payload runs out to **Secrecy Architecture** (domain, board tier B), a programmatic link at Tier 2 named person on the record. The link reads: A worked example of compartmentation: one workforce, two programmes. A worked example of the compartmentation the domain describes: one workforce, two programmes, and a BYEMAN boundary running through the middle of it. Sources: Spies in Space, NRO Center for the Study of National Reconnaissance, May 2019, https://www.govinfo.gov/content/pkg/GOVPUB-D-PURL-gpo123652/pdf/GOVPUB-D-PURL-gpo123652.pdf, dated 2019-05-01.
 
 ## MIT Lincoln Laboratory
 
-MIT Lincoln Laboratory is a institution on the board; board tier B, documented channel and capability, programme role indicated but not yet nailed to a primary source; dates 1951; axes C2 A3 D2; 5 connections.
+MIT Lincoln Laboratory is a institution on the board; board tier A, named in sworn testimony or primary documents as directly inside the programme; dates 1951; axes C2 A3 D2; 5 connections.
 
 In one line: FFRDC, est. 1951; Air Force sponsored.
 
@@ -2398,7 +2398,7 @@ Lincoln Laboratory is MITRE's parent and the first FFRDC in this domain to have 
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 165 of 1057, score 49). 5 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A3/D2.
+Re-graded A on a global pass (rank 156 of 1057, score 49). 5 connections, 1 of them custody/funding/programmatic. Axes C2/A3/D2.
 
 ### The claims on the record
 
@@ -2435,7 +2435,7 @@ Status as of 12 August 2026. Statutory basis: FY2024 NDAA, P.L. 118-31, sections
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 304 of 1057, score 37). 5 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D3.
+Re-graded B on a global pass (rank 293 of 1057, score 37). 5 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D3.
 
 ### The claims on the record
 
@@ -2465,7 +2465,7 @@ Three unclassified U.S. Navy infrared targeting-pod recordings, one captured in 
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 222 of 1057, score 42). 5 connections, 3 of them custody/witness/funding/programmatic. Axes C2/A2/D3.
+Re-graded B on a global pass (rank 213 of 1057, score 42). 5 connections, 3 of them custody/funding/programmatic. Axes C2/A2/D3.
 
 ### The claims on the record
 
@@ -2483,7 +2483,7 @@ Re-graded B on a global pass (rank 222 of 1057, score 42). 5 connections, 3 of t
 
 ## P.L. 118-31 Subtitle C, Secs. 1841-1843 (what survived)
 
-P.L. 118-31 Subtitle C, Secs. 1841-1843 (what survived) is a legislation on the board; board tier B, documented channel and capability, programme role indicated but not yet nailed to a primary source; dates 2023; axes C1 A2 D2; 5 connections.
+P.L. 118-31 Subtitle C, Secs. 1841-1843 (what survived) is a legislation on the board; board tier A, named in sworn testimony or primary documents as directly inside the programme; dates 2023; axes C1 A2 D2; 5 connections.
 
 In one line: Enacted UAP records regime, 22 December 2023.
 
@@ -2493,7 +2493,7 @@ What Congress actually enacted is a records-transfer statute with the enforcemen
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 163 of 1057, score 49). 5 connections, 0 of them custody/witness/funding/programmatic, 2 official denials recorded against it. Axes C1/A2/D2.
+Re-graded A on a global pass (rank 154 of 1057, score 49). 5 connections, 0 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C1/A2/D2.
 
 ### The claims on the record
 
@@ -2526,7 +2526,7 @@ The National Defense Authorization Act for Fiscal Year 2026 was approved on 18 D
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 74 of 1057, score 70). 6 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A2/D3.
+Re-graded A on a global pass (rank 69 of 1057, score 70). 6 connections, 1 of them custody/funding/programmatic. Axes C1/A2/D3.
 
 ### The claims on the record
 
@@ -2562,7 +2562,7 @@ The command responsible for detecting and defeating air threats to North America
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 517 of 1057, score 29). 5 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A3/D2.
+Re-graded B on a global pass (rank 496 of 1057, score 29). 5 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A3/D2.
 
 ### The claims on the record
 
@@ -2590,7 +2590,7 @@ Northrop Grumman is one of the three companies Senate investigator Richard D'Ama
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 449 of 1057, score 32). 5 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A3/D0.
+Re-graded B on a global pass (rank 424 of 1057, score 32). 5 connections, 1 of them custody/funding/programmatic. Axes C2/A3/D0.
 
 ### The claims on the record
 
@@ -2618,7 +2618,7 @@ Oak Ridge is where the modern government sent the material. In 2022 the All-doma
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 149 of 1057, score 51). 7 connections, 3 of them custody/witness/funding/programmatic. Axes C3/A2/D1.
+Re-graded A on a global pass (rank 143 of 1057, score 51). 7 connections, 3 of them custody/funding/programmatic. Axes C3/A2/D1.
 
 ### The claims on the record
 
@@ -2652,7 +2652,7 @@ MOON DUST was the US Air Force codeword for the collection and exploitation of o
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 142 of 1057, score 53). 5 connections, 4 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C3/A2/D2.
+Re-graded A on a global pass (rank 133 of 1057, score 53). 5 connections, 4 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A2/D2.
 
 ### The claims on the record
 
@@ -2681,7 +2681,7 @@ Project SIGN was the first official United States Air Force investigation of uni
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 172 of 1057, score 48). 5 connections, 3 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D1.
+Re-graded B on a global pass (rank 160 of 1057, score 48). 5 connections, 3 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D1.
 
 ### The claims on the record
 
@@ -2710,7 +2710,7 @@ The fifth and most recent tranche, published 7 August 2026: 41 files comprising 
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 127 of 1057, score 55). 5 connections, 5 of them custody/witness/funding/programmatic. Axes C2/A3/D3.
+Re-graded A on a global pass (rank 119 of 1057, score 55). 5 connections, 5 of them custody/funding/programmatic. Axes C2/A3/D3.
 
 ### The claims on the record
 
@@ -2731,7 +2731,7 @@ Re-graded A on a global pass (rank 127 of 1057, score 55). 5 connections, 5 of t
 
 ## Reid Letter to DEPSECDEF Requesting Restricted SAP Status
 
-Reid Letter to DEPSECDEF Requesting Restricted SAP Status is a document on the board; board tier B, documented channel and capability, programme role indicated but not yet nailed to a primary source; dates 2009; axes C2 A3 D3; 5 connections.
+Reid Letter to DEPSECDEF Requesting Restricted SAP Status is a document on the board; board tier A, named in sworn testimony or primary documents as directly inside the programme; dates 2009; axes C2 A3 D3; 5 connections.
 
 In one line: Senator Harry Reid to William J. Lynn III, 24 June 2009.
 
@@ -2741,7 +2741,7 @@ Three pages on Senate letterhead that are, in the board's judgement, the most co
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 164 of 1057, score 49). 5 connections, 1 of them custody/witness/funding/programmatic, 2 official denials recorded against it. Axes C2/A3/D3.
+Re-graded A on a global pass (rank 155 of 1057, score 49). 5 connections, 1 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C2/A3/D3.
 
 ### The claims on the record
 
@@ -2774,7 +2774,7 @@ Grade it honestly. This is a corporate research institute that studied gravitati
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 759 of 1057, score 21). 5 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D0.
+Re-graded C on a global pass (rank 746 of 1057, score 21). 5 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D0.
 
 ### The claims on the record
 
@@ -2786,7 +2786,7 @@ Re-graded C on a global pass (rank 759 of 1057, score 21). 5 connections, 0 of t
 ### Its strongest connections
 
 - RIAS, Inc. (Research Institute for Advanced Studies) comes in from **Institute of Field Physics (UNC Chapel Hill)** (institution, board tier A), a institutional link at Tier 1 documented. The link reads: The academic counterpart to the Martin company's own institute, deliberately kept separate. The same source describes the Martin company standing up what 'would become RIAS' at the same moment, and says the Institute of Field Physics was placed inside a university 'so as to avoid the conflict that physicists felt working in an industrial setting'. Sources: History of the Institute of Field Physics (1955-1959), Section II, https://physics.unc.edu/department-history/section-ii/, dated 2026-09-02.
-- RIAS, Inc. (Research Institute for Advanced Studies) comes in from **Ansel E. Talbert, three-part gravity series, New York Herald Tribune, 20-22 November 1955** (document, board tier C), a institutional link at Tier 1 documented. The link reads: Reports Martin building a new laboratory for the Research Institute for Advanced Study. The series reports Martin building a new laboratory for the Research Institute for Advanced Study between Washington and Baltimore in November 1955. Sources: https://archive.org/download/talbert1ny/talbert1ny_djvu.txt, https://archive.org/download/talbert1ny/talbert1ny_djvu.txt
+- RIAS, Inc. (Research Institute for Advanced Studies) comes in from **Ansel E. Talbert, three-part gravity series, New York Herald Tribune, 20-22 November 1955** (document, board tier B), a institutional link at Tier 1 documented. The link reads: Reports Martin building a new laboratory for the Research Institute for Advanced Study. The series reports Martin building a new laboratory for the Research Institute for Advanced Study between Washington and Baltimore in November 1955. Sources: https://archive.org/download/talbert1ny/talbert1ny_djvu.txt, https://archive.org/download/talbert1ny/talbert1ny_djvu.txt
 - RIAS, Inc. (Research Institute for Advanced Studies) runs out to **Louis Witten** (person, board tier C), a institutional link at Tier 1 documented. The link reads: Witten represented RIAS at the 1957 Chapel Hill gravitation conference. The participants list prints 'Witten, L. | RIAS, Inc., Baltimore'. His contribution, with R. W. Bass, was 'Some Remarks on Cosmological Models'. Sources: The Role of Gravitation in Physics: Report from the 1957 Chapel Hill Conference, participants list, https://edition-open-sources.org/sources/5/6/index.html, dated 1957-01-18.
 - RIAS, Inc. (Research Institute for Advanced Studies) runs out to **George S. Trimble** (person, board tier C), a institutional link at Tier 2 named person on the record. The link reads: Trimble proposed RIAS as an industrial institute for advanced study. Trimble to Bryce DeWitt, 10 June 1955, quoted by a named historian in a peer-published edition. The letter itself was not opened; the quotation is the historian's. Sources: Dean Rickles, 'The Chapel Hill Conference in Context', https://edition-open-sources.org/sources/5/3/index.html, dated 2011-01-01.
 - RIAS, Inc. (Research Institute for Advanced Studies) runs out to **Lockheed Martin Corporation** (institution, board tier A), a institutional link at Tier 3 stated inference. The link reads: RIAS was the Glenn L. Martin Company's institute; the corporate succession to Lockheed Martin is not documented here. What is sourced is that RIAS belonged to the Glenn Martin Company. The chain from Glenn L. Martin through Martin Marietta to Lockheed Martin was NOT read off any document in this pass, and this edge is graded Tier 3 for that reason alone. Sources: Dean Rickles, 'The Chapel Hill Conference in Context', https://edition-open-sources.org/sources/5/3/index.html, dated 2011-01-01.
@@ -2807,7 +2807,7 @@ The single most valuable unreleased document on this board. It exists. It has ex
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 111 of 1057, score 59). 5 connections, 2 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D3.
+Re-graded A on a global pass (rank 106 of 1057, score 59). 5 connections, 2 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D3.
 
 ### The claims on the record
 
@@ -2842,7 +2842,7 @@ The SAPOC was established on 5 January 1994, not in 2010. A Deputy Secretary of 
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 116 of 1057, score 58). 5 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A3/D1.
+Re-graded A on a global pass (rank 108 of 1057, score 58). 5 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D1.
 
 ### The claims on the record
 
@@ -2877,7 +2877,7 @@ The Scientific Coalition for UAP Studies describes itself as 'a think tank of sc
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 710 of 1057, score 23). 5 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.
+Re-graded C on a global pass (rank 689 of 1057, score 23). 5 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.
 
 ### The claims on the record
 
@@ -2888,7 +2888,7 @@ Re-graded C on a global pass (rank 710 of 1057, score 23). 5 connections, 0 of t
 
 ### Its strongest connections
 
-- Scientific Coalition for UAP Studies (SCU) runs out to **Materials and custody analysis** (domain, board tier B), a investigative link at Tier 1 documented. The link reads: Builds the documentary counterpart to the physical-sample record. SCU's Hancock-Porritt-Grosvenor series correlating 1945-1975 UAP activity with the United States atomic warfare complex runs in parallel to the VASCO plate work on the same period. Sources: Scientific Coalition for UAP Studies, https://www.explorescu.org/, dated 2026-08-12.
+- Scientific Coalition for UAP Studies (SCU) runs out to **Materials and custody analysis** (domain, board tier A), a investigative link at Tier 1 documented. The link reads: Builds the documentary counterpart to the physical-sample record. SCU's Hancock-Porritt-Grosvenor series correlating 1945-1975 UAP activity with the United States atomic warfare complex runs in parallel to the VASCO plate work on the same period. Sources: Scientific Coalition for UAP Studies, https://www.explorescu.org/, dated 2026-08-12.
 - Scientific Coalition for UAP Studies (SCU) comes in from **Kevin H. Knuth** (person, board tier C), a research link at Tier 1 documented. The link reads: SCU's inaugural Distinguished Scholar Award, June 2025 - recognition, not an office. Presented at SCU's Sixth Annual Conference, Von Braun Center, Huntsville, Alabama, 6-8 June 2025, by SCU Executive Board member Rich Hoffman, who said: 'Dr. Knuth's leadership in advancing empirical, interdisciplinary UAP research exemplifies the mission of SCU.' IMPORTANT SCOPE LIMIT: this pass found no evidence that Knuth holds an SCU board seat, officer post or executive role. The board's pre-existing SCU connection to this cluster runs through Robert Powell, an SCU founding board member and Knuth's co-author on the 2019 Entropy paper. The award is a recognition edge, and is labelled as one. Sources: SCU press release, 'Scientific Coalition for UAP Studies honors Dr. Kevin Knuth with inaugural Distinguished Scholar Award', https://www.explorescu.org/post/scientific-coalition-for-uap-studies-honors-dr-kevin-knuth-with-inaugural-distinguished-scholar-awa, dated 2025-06-27.
 - Scientific Coalition for UAP Studies (SCU) comes in from **Robert M. Powell** (person, board tier C), a institutional link at Tier 1 documented. The link reads: Founding board member; author of the Stephenville and Aguadilla studies. Powell established SCU's method: obtain the primary federal sensor record by FOIA, reconstruct it quantitatively, deposit it with a DOI. Sources: Scientific Coalition for UAP Studies, https://www.explorescu.org/, dated 2026-08-12; Powell, Beall, Cates, Paulson & Hoffman, '2013 Aguadilla Puerto Rico UAP', SCU (Zenodo), https://doi.org/10.5281/zenodo.7844175, dated 2015-08-06.
 - Scientific Coalition for UAP Studies (SCU) comes in from **Sarah Little** (person, board tier C), a institutional link at Tier 1 documented. The link reads: SCU board member and co-author of the 2023 characteristics study. Little is one of the few researchers who publishes with both SCU and the Galileo Project, which is a measure of how small the actual civil analytical bench is. Sources: Powell, Little, Hancock, Hasan & Truong, 'The Reported Shape, Size, Kinematics, Electromagnetic Effects, and Presence of Sound of Unidentified Aerial Phenomena', SCU (Zenodo), https://doi.org/10.5281/zenodo.10287332, dated 2023-12-07; Vervelidou, Delacroix, Domine, Kelderman, Little et al., 'The deployment of a geomagnetic variometer station as auxiliary instrumentation for the study of Unidentified Aerial Phenomena', Geoscientific Instrumentation, Methods and Data Systems 14:335, https://doi.org/10.5194/gi-14-335-2025, dated 2025-11-26.
@@ -2906,7 +2906,7 @@ Two Imperial Iranian Air Force F-4 Phantoms were scrambled from Shahrokhi AFB in
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 260 of 1057, score 40). 5 connections, 2 of them custody/witness/funding/programmatic. Axes C1/A2/D2.
+Re-graded B on a global pass (rank 246 of 1057, score 40). 5 connections, 2 of them custody/funding/programmatic. Axes C1/A2/D2.
 
 ### The claims on the record
 
@@ -2936,7 +2936,7 @@ The Intercept is an investigative news organisation founded in 2014 and built ar
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 952 of 1057, score 13). 5 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D0.
+Re-graded C on a global pass (rank 948 of 1057, score 13). 5 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D0.
 
 ### The claims on the record
 
@@ -2965,7 +2965,7 @@ The second executive action of 2026 and the one that goes to witnesses rather th
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 231 of 1057, score 42). 6 connections, 3 of them custody/witness/funding/programmatic. Axes C0/A2/D3.
+Re-graded B on a global pass (rank 220 of 1057, score 42). 6 connections, 3 of them custody/funding/programmatic. Axes C0/A2/D3.
 
 ### The claims on the record
 
@@ -2997,7 +2997,7 @@ The Review Board is the JFK Records Act transplant at the centre of the UAPDA an
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 118 of 1057, score 58). 5 connections, 2 of them custody/witness/funding/programmatic, 3 official denials recorded against it. Axes C2/A3/D3.
+Re-graded A on a global pass (rank 110 of 1057, score 58). 5 connections, 2 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C2/A3/D3.
 
 ### The claims on the record
 
@@ -3009,7 +3009,7 @@ Re-graded A on a global pass (rank 118 of 1057, score 58). 5 connections, 2 of t
 ### Its strongest connections
 
 - Unidentified Anomalous Phenomena Records Review Board comes in from **UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)** (legislation, board tier A), a programmatic link at Tier 1 documented. The link reads: Secs. 9007-9009 create the Board as an independent agency. The Act's enforcement rests entirely on the Review Board: it orders disclosure absent clear and convincing evidence and examines recovered material under Sec. 9010(b). Sources: S. 2226 (Engrossed in Senate), GPO, https://www.govinfo.gov/content/pkg/BILLS-118s2226es/html/BILLS-118s2226es.htm, dated 2023-07-27.
-- Unidentified Anomalous Phenomena Records Review Board comes in from **P.L. 118-31 Subtitle C, Secs. 1841-1843 (what survived)** (legislation, board tier B), a denial link at Tier 1 documented. The link reads: Postponement authority returned to the original classifier. Sec. 1843(a) vests the clear-and-convincing determination in 'the original classification authority', the very offices the Review Board was created to review. Sources: P.L. 118-31, FY2024 NDAA, GPO, https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm, dated 2023-12-22; S. 2226 (Engrossed in Senate), GPO, https://www.govinfo.gov/content/pkg/BILLS-118s2226es/html/BILLS-118s2226es.htm, dated 2023-07-27.
+- Unidentified Anomalous Phenomena Records Review Board comes in from **P.L. 118-31 Subtitle C, Secs. 1841-1843 (what survived)** (legislation, board tier A), a denial link at Tier 1 documented. The link reads: Postponement authority returned to the original classifier. Sec. 1843(a) vests the clear-and-convincing determination in 'the original classification authority', the very offices the Review Board was created to review. Sources: P.L. 118-31, FY2024 NDAA, GPO, https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm, dated 2023-12-22; S. 2226 (Engrossed in Senate), GPO, https://www.govinfo.gov/content/pkg/BILLS-118s2226es/html/BILLS-118s2226es.htm, dated 2023-07-27.
 - Unidentified Anomalous Phenomena Records Review Board runs out to **Controlled Disclosure Campaign Plan** (document, board tier B), a programmatic link at Tier 1 documented. The link reads: The Board must produce the Plan under Sec. 9009(c)(3). The Controlled Disclosure Campaign Plan exists only as a Review Board product; removing the Board removed the Plan. Sources: S. 2226 (Engrossed in Senate), GPO, https://www.govinfo.gov/content/pkg/BILLS-118s2226es/html/BILLS-118s2226es.htm, dated 2023-07-27.
 - Unidentified Anomalous Phenomena Records Review Board comes in from **House Permanent Select Committee on Intelligence** (institution, board tier C), a denial link at Tier 1 documented. The link reads: The Board was designed to bypass the intelligence committees. Sec. 9007(b)(3)(A) routes nominations through congressional leadership, DoD, the National Academy of Sciences, nonprofit UAP research bodies and the American Historical Association, never through HPSCI or SSCI. Sources: S. 2226 (Engrossed in Senate), GPO, https://www.govinfo.gov/content/pkg/BILLS-118s2226es/html/BILLS-118s2226es.htm, dated 2023-07-27.
 - Unidentified Anomalous Phenomena Records Review Board comes in from **Michael R. Turner** (person, board tier B), a denial link at Tier 2 named person on the record. The link reads: Named as demanding removal of the Board's subpoena power. The Board survives in no form in enacted law; Sheehan attributes the demand to Turner, and the conference produced no document naming who struck what. Sources: The Debrief, pushback from lawmakers, https://thedebrief.org/uap-disclosure-act-receives-pushback-from-lawmakers-on-capitol-hill-as-bipartisan-fight-for-transparency-continues/, dated 2023-11-27; P.L. 118-31, FY2024 NDAA, GPO, https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm, dated 2023-12-22.
@@ -3026,7 +3026,7 @@ Section 1152 of the National Defense Authorization Act for Fiscal Year 1994, Pub
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 99 of 1057, score 64). 6 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A2/D3.
+Re-graded A on a global pass (rank 94 of 1057, score 64). 6 connections, 2 of them custody/funding/programmatic. Axes C0/A2/D3.
 
 ### The claims on the record
 
@@ -3062,7 +3062,7 @@ On 15 February 2023 at approximately 1915 PST in Warning Area W-291 off Southern
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 592 of 1057, score 27). 5 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A1/D3.
+Re-graded C on a global pass (rank 654 of 1057, score 24). 5 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D3.
 
 ### The claims on the record
 
@@ -3073,7 +3073,7 @@ Re-graded C on a global pass (rank 592 of 1057, score 27). 5 connections, 1 of t
 ### Its strongest connections
 
 - USS Jackson (LCS-6) Encounter, 15 February 2023 runs out to **USS Nimitz Carrier Strike Group Encounters, 10-16 November 2004** (event, board tier A), a temporal link at Tier 2 named person on the record. The link reads: Same warning-area complex, same object morphology, nineteen years later. A transmedium tic-tac-shaped object in W-291 in February 2023 repeats the November 2004 description in the same Southern California naval training space, with no published government assessment of either sensor record. Sources: House Oversight - Wiggins written statement (PDF), https://oversight.house.gov/wp-content/uploads/2025/09/Wiggins-Written-Statement.pdf, dated 2025-09-09; The War Zone - Tic Tac incident in newly released range fouler reports, https://www.twz.com/tic-tac-uap-incident-included-in-72-newly-released-range-incursion-reports, dated 2023-01-14.
-- USS Jackson (LCS-6) Encounter, 15 February 2023 comes in from **Alexandro Wiggins** (person, board tier A), a witness-chain link at Tier 2 named person on the record. The link reads: Supervised the watch and the recording of the 15 Feb 2023 encounter. Wiggins testified as an active-duty Senior Chief Operations Specialist that CIC recorded four objects on Star SAFIRE with intact position and time metadata. Sources: House Oversight - Wiggins written statement (PDF), https://oversight.house.gov/wp-content/uploads/2025/09/Wiggins-Written-Statement.pdf, dated 2025-09-09.
+- USS Jackson (LCS-6) Encounter, 15 February 2023 comes in from **Alexandro Wiggins** (person, board tier B), a witness-chain link at Tier 2 named person on the record. The link reads: Supervised the watch and the recording of the 15 Feb 2023 encounter. Wiggins testified as an active-duty Senior Chief Operations Specialist that CIC recorded four objects on Star SAFIRE with intact position and time metadata. Sources: House Oversight - Wiggins written statement (PDF), https://oversight.house.gov/wp-content/uploads/2025/09/Wiggins-Written-Statement.pdf, dated 2025-09-09.
 - USS Jackson (LCS-6) Encounter, 15 February 2023 runs out to **Jeremy Kenyon Lockyer Corbell** (person, board tier C), a investigative link at Tier 2 named person on the record. The link reads: Footage reached the public through journalists, not through the Navy or AARO. Wiggins's statement records that the stabilized footage and screenshots were published by journalists Jeremy Corbell and George Knapp. Sources: House Oversight - Wiggins written statement (PDF), https://oversight.house.gov/wp-content/uploads/2025/09/Wiggins-Written-Statement.pdf, dated 2025-09-09.
 - USS Jackson (LCS-6) Encounter, 15 February 2023 comes in from **Southern California Operating Areas (W-291 and Baja approaches)** (location, board tier C), a institutional link at Tier 2 named person on the record. The link reads: W-291 encounter occurred in the same operating-area complex. Wiggins's statement places the event in Warning Area W-291 off Southern California. Sources: House Oversight - Wiggins written statement (PDF), https://oversight.house.gov/wp-content/uploads/2025/09/Wiggins-Written-Statement.pdf, dated 2025-09-09.
 - USS Jackson (LCS-6) Encounter, 15 February 2023 runs out to **USS Jackson (LCS-6)** (institution, board tier C), a institutional link at Tier 2 named person on the record. The link reads: The ship whose EO/IR system produced the recording. The footage carries 'timestamps, lat/long, and platform readouts consistent with USS Jackson's location' - precisely the metadata the NASA study team said government UAP holdings lack. Sources: House Oversight - Wiggins written statement (PDF), https://oversight.house.gov/wp-content/uploads/2025/09/Wiggins-Written-Statement.pdf, dated 2025-09-09; NASA UAP Independent Study Team Final Report (PDF), https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf, dated 2023-09-14.
@@ -3090,7 +3090,7 @@ AARO's public posture in the current cycle is defined by what its own homepage d
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 496 of 1057, score 30). 4 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D2.
+Re-graded B on a global pass (rank 474 of 1057, score 30). 4 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D2.
 
 ### The claims on the record
 
@@ -3118,7 +3118,7 @@ The first statutory annual report, published 25 October 2023 covering 31 August 
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 290 of 1057, score 38). 4 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A2/D2.
+Re-graded B on a global pass (rank 278 of 1057, score 38). 4 connections, 1 of them custody/funding/programmatic. Axes C0/A2/D2.
 
 ### The claims on the record
 
@@ -3152,7 +3152,7 @@ This is the money. Contract HHM402-08-C-0072, awarded 22 September 2008 by the D
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 151 of 1057, score 51). 4 connections, 2 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C3/A2/D3.
+Re-graded A on a global pass (rank 145 of 1057, score 51). 4 connections, 2 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A2/D3.
 
 ### The claims on the record
 
@@ -3185,7 +3185,7 @@ The Bennewitz operation is the only place in this domain where the state's metho
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 225 of 1057, score 42). 5 connections, 3 of them custody/witness/funding/programmatic. Axes C2/A2/D3.
+Re-graded B on a global pass (rank 262 of 1057, score 39). 5 connections, 2 of them custody/funding/programmatic. Axes C2/A2/D3.
 
 ### The claims on the record
 
@@ -3213,7 +3213,7 @@ AFR 200-2, 'Unidentified Flying Objects Reporting', is the internal Air Force re
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 203 of 1057, score 44). 4 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A2/D1.
+Re-graded B on a global pass (rank 196 of 1057, score 44). 4 connections, 1 of them custody/funding/programmatic. Axes C1/A2/D1.
 
 ### The claims on the record
 
@@ -3247,7 +3247,7 @@ The Age of Disclosure premiered at SXSW in Austin on 9 March 2025 and is the hig
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 650 of 1057, score 25). 4 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A1/D3.
+Re-graded C on a global pass (rank 803 of 1057, score 19). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.
 
 ### The claims on the record
 
@@ -3274,7 +3274,7 @@ The Atomic Energy Act of 1946 is where classification by category enters United 
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 205 of 1057, score 44). 4 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A3/D1.
+Re-graded B on a global pass (rank 198 of 1057, score 44). 4 connections, 1 of them custody/funding/programmatic. Axes C2/A3/D1.
 
 ### The claims on the record
 
@@ -3304,7 +3304,7 @@ In March 1990 the Belgian Air Force scrambled F-16 fighters against objects repo
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 228 of 1057, score 42). 4 connections, 1 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D2.
+Re-graded B on a global pass (rank 216 of 1057, score 42). 4 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D2.
 
 ### The claims on the record
 
@@ -3334,7 +3334,7 @@ Bigelow Aerospace Advanced Space Studies was the prime contractor executing the 
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 125 of 1057, score 56). 5 connections, 4 of them custody/witness/funding/programmatic. Axes C3/A2/D1.
+Re-graded A on a global pass (rank 116 of 1057, score 56). 5 connections, 4 of them custody/funding/programmatic. Axes C3/A2/D1.
 
 ### The claims on the record
 
@@ -3367,7 +3367,7 @@ CENTER LANE was the Army Intelligence and Security Command's designation for the
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 264 of 1057, score 40). 4 connections, 4 of them custody/witness/funding/programmatic. Axes C0/A3/D1.
+Re-graded B on a global pass (rank 249 of 1057, score 40). 4 connections, 4 of them custody/funding/programmatic. Axes C0/A3/D1.
 
 ### The claims on the record
 
@@ -3396,7 +3396,7 @@ The NISPOM ceased to be a DoD manual and became a federal regulation with the co
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 68 of 1057, score 73). 6 connections, 2 of them custody/witness/funding/programmatic. Axes C2/A2/D2.
+Re-graded A on a global pass (rank 62 of 1057, score 73). 6 connections, 2 of them custody/funding/programmatic. Axes C2/A2/D2.
 
 ### The claims on the record
 
@@ -3416,7 +3416,7 @@ A further 7 claims sit on this node on the board and are not reproduced here.
 - 32 CFR Part 117, NISPOM Rule comes in from **Carve-Out Provision (DCSA relief from NISP oversight)** (program, board tier A), a institutional link at Tier 1 documented. The link reads: The carve-out is codified in the NISPOM rule itself. 32 CFR 117.6(b)(3) is the operative regulatory text relieving the Director, DCSA of NISP oversight for a carved-out DoD SAP. Sources: 32 CFR 117.6 (eCFR, current), https://www.ecfr.gov/current/title-32/subtitle-A/chapter-I/subchapter-D/part-117/section-117.6, dated 2026-08-12.
 - 32 CFR Part 117, NISPOM Rule runs out to **Carve-Out Provision (DCSA relief from NISP oversight)** (program, board tier A), a programmatic link at Tier 1 documented. The link reads: 32 CFR 117.6(b) writes the carve-out into regulation. The carve-out is in the codified federal regulation, not only in a DoD manual. 32 CFR 117.6(b)(3), 'Responsibilities': "The Director, DCSA, will be relieved of this oversight function for DoD special access programs (SAPs) when the Secretary of Defense or the Deputy Secretary of Defense approves a carve-out provision in accordance with DoDD 5205.07, 'DoD SAP Policy'." The NISPOM Rule was published at 85 FR 83312 on 21 December 2020, so the provision relieving the oversight body has the force of a legislative rule rather than of internal DoD policy. Read from the eCFR renderer API on 22 August 2026. Sources: 32 CFR part 117 (NISPOM Rule), full text via the eCFR renderer API, read 22 August 2026; published at 85 FR 83312, 21 December 2020, https://www.ecfr.gov/api/renderer/v1/content/enhanced/current/title-32?part=117, dated 2026-08-22; National Industrial Security Program Operating Manual (NISPOM) final rule, 85 FR 83312, 21 December 2020, https://www.federalregister.gov/documents/2020/12/21/2020-27698/national-industrial-security-program-operating-manual-nispom, dated 2020-12-21.
 - 32 CFR Part 117, NISPOM Rule runs out to **Acknowledged, unacknowledged and waived, the three states of a DoD SAP** (domain, board tier A), a institutional link at Tier 1 documented. The link reads: Supplies the regulatory definition of a special access program binding on contractors. 32 CFR 117.3(b) defines SAP as a program controlling access and distribution 'beyond that normally required for TOP SECRET, SECRET, or CONFIDENTIAL information'. Sources: 32 CFR Part 117 (eCFR, current), https://www.ecfr.gov/current/title-32/subtitle-A/chapter-I/subchapter-D/part-117, dated 2026-08-12.
-- 32 CFR Part 117, NISPOM Rule comes in from **DCSA as DoD Cognizant Security Office under the NISP** (institution, board tier B), a institutional link at Tier 1 documented. The link reads: Designated the DoD Cognizant Security Office by regulation. 32 CFR 117.6(b)(1): the Director, DCSA 'Oversees and manages DCSA, which serves as the DoD CSO.' Sources: 32 CFR 117.6 (eCFR, current), https://www.ecfr.gov/current/title-32/subtitle-A/chapter-I/subchapter-D/part-117/section-117.6, dated 2026-08-12.
+- 32 CFR Part 117, NISPOM Rule comes in from **DCSA as DoD Cognizant Security Office under the NISP** (institution, board tier A), a institutional link at Tier 1 documented. The link reads: Designated the DoD Cognizant Security Office by regulation. 32 CFR 117.6(b)(1): the Director, DCSA 'Oversees and manages DCSA, which serves as the DoD CSO.' Sources: 32 CFR 117.6 (eCFR, current), https://www.ecfr.gov/current/title-32/subtitle-A/chapter-I/subchapter-D/part-117/section-117.6, dated 2026-08-12.
 - 32 CFR Part 117, NISPOM Rule comes in from **Executive Order 12829, National Industrial Security Program (6 Jan 1993)** (legislation, board tier C), a institutional link at Tier 1 documented. The link reads: Section 201 of E.O. 12829 is the authority for the NISPOM rule. 32 CFR 117.6(a)(1) records that USD(I&S) issues and maintains the rule under section 201 of E.O. 12829. Sources: 32 CFR 117.6 (eCFR, current), https://www.ecfr.gov/current/title-32/subtitle-A/chapter-I/subchapter-D/part-117/section-117.6, dated 2026-08-12.
 - 32 CFR Part 117, NISPOM Rule comes in from **Executive Order 12829, National Industrial Security Program (6 Jan 1993)** (legislation, board tier C), a programmatic link at Tier 1 documented. The link reads: 32 CFR 117 implements E.O. 12829. 32 CFR part 117 names E.O. 12829 in its authority citation - 'Authority: 32 CFR part 2004; E.O. 10865; E.O. 12333; E.O. 12829; E.O. 12866; E.O. 12968; E.O. 13526; E.O. 13563; E.O. 13587; E.O. 13691; Public Law 108-458...' - and section 117.1 Purpose states that the rule 'implements policy, assigns responsibilities, establishes requirements, and provides procedures, consistent with E.O. 12829, "National Industrial Security Program"'. Read from the eCFR renderer API on 22 August 2026. Sources: 32 CFR part 117 (NISPOM Rule), full text via the eCFR renderer API, read 22 August 2026; published at 85 FR 83312, 21 December 2020, https://www.ecfr.gov/api/renderer/v1/content/enhanced/current/title-32?part=117, dated 2026-08-22.
 
@@ -3432,7 +3432,7 @@ The most direct answer to how money reaches a programme that does not appear as 
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 120 of 1057, score 58). 4 connections, 4 of them custody/witness/funding/programmatic. Axes C2/A3/D3.
+Re-graded A on a global pass (rank 112 of 1057, score 58). 4 connections, 4 of them custody/funding/programmatic. Axes C2/A3/D3.
 
 ### The claims on the record
 
@@ -3463,7 +3463,7 @@ The Task Force's opening move. On establishing the Task Force on the Declassific
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 955 of 1057, score 13). 4 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D2.
+Re-graded C on a global pass (rank 951 of 1057, score 13). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.
 
 ### The claims on the record
 
@@ -3488,7 +3488,7 @@ Advanced projects organisations are the industrial layer at which secrecy and en
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 298 of 1057, score 38). 4 connections, 1 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D1.
+Re-graded B on a global pass (rank 287 of 1057, score 38). 4 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D1.
 
 ### The claims on the record
 
@@ -3515,7 +3515,7 @@ Moving a programme into a prime contractor does not merely add secrecy - it chan
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 252 of 1057, score 41). 4 connections, 1 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C3/A3/D1.
+Re-graded B on a global pass (rank 238 of 1057, score 41). 4 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A3/D1.
 
 ### The claims on the record
 
@@ -3526,7 +3526,7 @@ Re-graded B on a global pass (rank 252 of 1057, score 41). 4 connections, 1 of t
 ### Its strongest connections
 
 - Prime Contractor Custody runs out to **The FFRDC Mechanism** (domain, board tier C), a institutional link at Tier 1 documented. The link reads: The seam between government and industry. FAR 35.017 gives the FFRDC access to both government classified holdings and contractor proprietary data - the only entity type that can see both sides of the compartment. Sources: FAR 35.017, Federally Funded Research and Development Centers, https://www.acquisition.gov/far/35.017, dated 2026-08-12.
-- Prime Contractor Custody comes in from **Materials and custody analysis** (domain, board tier B), a custody link at Tier 2 named person on the record. The link reads: Analysis follows possession. Material alleged to be held by primes cannot be independently analysed, which is why the custody question and the materials question cannot be separated. Sources: GAO-04-332, Industrial Security, https://www.govinfo.gov/content/pkg/GAOREPORTS-GAO-04-332/html/GAOREPORTS-GAO-04-332.htm, dated 2004-03-03.
+- Prime Contractor Custody comes in from **Materials and custody analysis** (domain, board tier A), a custody link at Tier 2 named person on the record. The link reads: Analysis follows possession. Material alleged to be held by primes cannot be independently analysed, which is why the custody question and the materials question cannot be separated. Sources: GAO-04-332, Industrial Security, https://www.govinfo.gov/content/pkg/GAOREPORTS-GAO-04-332/html/GAOREPORTS-GAO-04-332.htm, dated 2004-03-03.
 - Prime Contractor Custody comes in from **Aerospace Engineering & Advanced Projects** (domain, board tier B), a institutional link at Tier 2 named person on the record. The link reads: Advanced projects shops are the industrial home. The organisations with facility clearances, SAP infrastructure and IRAD accounts are the only plausible industrial venue for an exploitation programme. Sources: GAO-04-332, Industrial Security, https://www.govinfo.gov/content/pkg/GAOREPORTS-GAO-04-332/html/GAOREPORTS-GAO-04-332.htm, dated 2004-03-03.
 - Prime Contractor Custody runs out to **Freedom of Information Practice** (domain, board tier B), a denial link at Tier 3 stated inference. The link reads: Contractor records are outside the statute. FOIA reaches agency records; material moved into contractor custody leaves the statute's reach without any change in classification. Reasoning stated in the d-foia dossier. Sources: FAR 35.017, Federally Funded Research and Development Centers, https://www.acquisition.gov/far/35.017, dated 2026-08-12; GAO-04-332, Industrial Security, https://www.govinfo.gov/content/pkg/GAOREPORTS-GAO-04-332/html/GAOREPORTS-GAO-04-332.htm, dated 2004-03-03.
 
@@ -3542,7 +3542,7 @@ The observed flight characteristics reported by aviators - hypersonic velocity w
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 479 of 1057, score 31). 4 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D2.
+Re-graded B on a global pass (rank 455 of 1057, score 31). 4 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D2.
 
 ### The claims on the record
 
@@ -3559,7 +3559,7 @@ Re-graded B on a global pass (rank 479 of 1057, score 31). 4 connections, 0 of t
 
 ## DCSA as DoD Cognizant Security Office under the NISP
 
-DCSA as DoD Cognizant Security Office under the NISP is a institution on the board; board tier B, documented channel and capability, programme role indicated but not yet nailed to a primary source; dates 1993-01-06; axes C1 A2 D2; 4 connections.
+DCSA as DoD Cognizant Security Office under the NISP is a institution on the board; board tier A, named in sworn testimony or primary documents as directly inside the programme; dates 1993-01-06; axes C1 A2 D2; 4 connections.
 
 In one line: agency.
 
@@ -3569,7 +3569,7 @@ DCSA, the successor to the Defense Security Service, is designated by 32 CFR 117
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 169 of 1057, score 48). 5 connections, 2 of them custody/witness/funding/programmatic. Axes C1/A2/D2.
+Re-graded A on a global pass (rank 158 of 1057, score 48). 5 connections, 2 of them custody/funding/programmatic. Axes C1/A2/D2.
 
 ### The claims on the record
 
@@ -3604,7 +3604,7 @@ A Department of Defense Clearance Request for Public Release of Department of De
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 191 of 1057, score 45). 4 connections, 2 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D3.
+Re-graded B on a global pass (rank 185 of 1057, score 45). 4 connections, 2 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D3.
 
 ### The claims on the record
 
@@ -3631,7 +3631,7 @@ The article that made Grusch public. Written by Leslie Kean and Ralph Blumenthal
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 470 of 1057, score 31). 4 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A2/D3.
+Re-graded B on a global pass (rank 444 of 1057, score 31). 4 connections, 0 of them custody/funding/programmatic. Axes C2/A2/D3.
 
 ### The claims on the record
 
@@ -3658,7 +3658,7 @@ DIA Defense Intelligence Reference Document (Acquisition Threat Support series),
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 375 of 1057, score 34). 4 connections, 3 of them custody/witness/funding/programmatic. Axes C0/A0/D0.
+Re-graded B on a global pass (rank 357 of 1057, score 34). 4 connections, 3 of them custody/funding/programmatic. Axes C0/A0/D0.
 
 ### The claims on the record
 
@@ -3689,7 +3689,7 @@ DIA Defense Intelligence Reference Document (Acquisition Threat Support series),
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 351 of 1057, score 35). 4 connections, 3 of them custody/witness/funding/programmatic. Axes C0/A0/D0.
+Re-graded B on a global pass (rank 336 of 1057, score 35). 4 connections, 3 of them custody/funding/programmatic. Axes C0/A0/D0.
 
 ### The claims on the record
 
@@ -3721,7 +3721,7 @@ DIA Defense Intelligence Reference Document (Defense Futures series), 2010-11-01
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 402 of 1057, score 33). 4 connections, 3 of them custody/witness/funding/programmatic. Axes C0/A0/D0.
+Re-graded B on a global pass (rank 379 of 1057, score 33). 4 connections, 3 of them custody/funding/programmatic. Axes C0/A0/D0.
 
 ### The claims on the record
 
@@ -3752,7 +3752,7 @@ DIA Defense Intelligence Reference Document (Acquisition Threat Support series),
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 327 of 1057, score 36). 4 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A0/D0.
+Re-graded B on a global pass (rank 313 of 1057, score 36). 4 connections, 2 of them custody/funding/programmatic. Axes C0/A0/D0.
 
 ### The claims on the record
 

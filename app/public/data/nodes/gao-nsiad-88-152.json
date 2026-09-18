@@ -51,7 +51,7 @@
 "url": "https://www.gao.gov/assets/nsiad-88-152.pdf"
 }
 ],
-"tier": "B",
+"tier": "C",
 "type": "investigative"
 },
 {
@@ -220,7 +220,7 @@
 "cls": "domain",
 "id": "d-oversight",
 "label": "Congressional Oversight",
-"tier": "B"
+"tier": "C"
 },
 {
 "cls": "domain",
@@ -263,6 +263,6 @@
 ],
 "sub": "Unclassified summary to congressional committees, B-230522, 24 May 1988; summary of a classified report of 1 April 1988",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 412 of 1057, score 33). 6 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A1/D1.",
+"tierRationale": "Re-graded B on a global pass (rank 390 of 1057, score 33). 6 connections, 1 of them custody/funding/programmatic. Axes C1/A1/D1.",
 "timeline": []
 }

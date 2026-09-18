@@ -72,7 +72,7 @@
 "url": "https://thesolfoundation.org/wp-content/uploads/2026/04/Sol_Policy_Briefing_Number_3-1.pdf"
 }
 ],
-"tier": "B",
+"tier": "A",
 "type": "investigative"
 },
 {
@@ -346,7 +346,7 @@
 "cls": "domain",
 "id": "d-materials",
 "label": "Materials and custody analysis",
-"tier": "B"
+"tier": "A"
 },
 {
 "cls": "person",
@@ -393,8 +393,8 @@
 }
 ],
 "sub": "'Improved instrumental techniques, including isotopic analysis, applicable to the characterization of unusual materials with potential relevance to aerospace forensics'",
-"tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 531 of 1057, score 29). 8 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A0/D2.",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 510 of 1057, score 29). 8 connections, 0 of them custody/funding/programmatic. Axes C2/A0/D2.",
 "timeline": [
 {
 "date": "2022-01-01",

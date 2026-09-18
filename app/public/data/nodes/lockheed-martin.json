@@ -103,7 +103,7 @@
 "url": "https://www.liberationtimes.com/home/lockheed-martin-challenged-on-ufo-legacy-programs-as-politicians-talk-hearings"
 }
 ],
-"tier": "C",
+"tier": "B",
 "type": "custody"
 },
 {
@@ -315,7 +315,7 @@
 "url": "https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk"
 }
 ],
-"tier": "C",
+"tier": "B",
 "type": "institutional"
 },
 {
@@ -529,7 +529,7 @@
 "url": "https://oversight.house.gov/wp-content/uploads/2025/09/George-Knapp-Written-Testimony.pdf"
 }
 ],
-"tier": "C",
+"tier": "B",
 "type": "custody"
 },
 {
@@ -1012,7 +1012,7 @@
 "cls": "person",
 "id": "ben-rich",
 "label": "Ben R. Rich",
-"tier": "C"
+"tier": "B"
 },
 {
 "cls": "institution",
@@ -1048,7 +1048,7 @@
 "cls": "document",
 "id": "dird-mhd-air-breathing-propulsion-and-power",
 "label": "MHD Air Breathing Propulsion and Power for Aerospace Applications",
-"tier": "C"
+"tier": "B"
 },
 {
 "cls": "document",
@@ -1096,7 +1096,7 @@
 "cls": "location",
 "id": "l-la",
 "label": "Los Angeles and Burbank, California",
-"tier": "C"
+"tier": "B"
 },
 {
 "cls": "location",
@@ -1183,7 +1183,7 @@
 ],
 "sub": "Prime defense contractor; largest single recipient of DoD prime contract obligations",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 26 of 1057, score 105). 30 connections, 10 of them custody/witness/funding/programmatic, 3 official denials recorded against it. Axes C3/A3/D0.",
+"tierRationale": "Re-graded A on a global pass (rank 27 of 1057, score 99). 30 connections, 8 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C3/A3/D0.",
 "timeline": [
 {
 "date": "2009-01-01",

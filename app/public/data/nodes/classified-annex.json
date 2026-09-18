@@ -124,7 +124,7 @@
 "url": "https://comptroller.war.gov/"
 }
 ],
-"tier": "C",
+"tier": "B",
 "type": "institutional"
 },
 {
@@ -166,7 +166,7 @@
 "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ75/html/PLAW-119publ75.htm"
 }
 ],
-"tier": "C",
+"tier": "B",
 "type": "legislative"
 },
 {
@@ -373,7 +373,7 @@
 "cls": "person",
 "id": "michael-powers-comptroller",
 "label": "Michael Powers",
-"tier": "C"
+"tier": "B"
 },
 {
 "cls": "legislation",
@@ -385,7 +385,7 @@
 "cls": "legislation",
 "id": "sec-8005-transfer",
 "label": "Section 8005 Transfer Authority (annual DoD Appropriations Act)",
-"tier": "C"
+"tier": "B"
 },
 {
 "cls": "legislation",
@@ -415,7 +415,7 @@
 ],
 "sub": "Unpublished companion document carrying the force of law over classified programme funding",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 112 of 1057, score 59). 9 connections, 6 of them custody/witness/funding/programmatic. Axes C1/A3/D3.",
+"tierRationale": "Re-graded A on a global pass (rank 107 of 1057, score 59). 9 connections, 6 of them custody/funding/programmatic. Axes C1/A3/D3.",
 "timeline": [
 {
 "date": "2025-12-18",

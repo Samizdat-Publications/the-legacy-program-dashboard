@@ -56,7 +56,7 @@
 "url": "https://www.govinfo.gov/content/pkg/GAOREPORTS-GAO-04-332/html/GAOREPORTS-GAO-04-332.htm"
 }
 ],
-"tier": "B",
+"tier": "A",
 "type": "investigative"
 }
 ],
@@ -101,7 +101,7 @@
 ],
 "sub": "gao-report",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 499 of 1057, score 30). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 476 of 1057, score 30). 1 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D3.",
 "timeline": [
 {
 "date": "2004-03-03",

@@ -42,7 +42,7 @@ Roles the board assigns it: concealment, disclosure.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 278 of 1057, score 39). 9 connections, 0 of them custody/witness/funding/programmatic, 2 official denials recorded against it. Axes C1/A3/D1.
+Re-graded B on a global pass (rank 263 of 1057, score 39). 9 connections, 0 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C1/A3/D1.
 
 ### The claims on the record
 
@@ -92,7 +92,7 @@ Roles the board assigns it: concealment, disclosure.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 261 of 1057, score 40). 7 connections, 3 of them custody/witness/funding/programmatic. Axes C1/A1/D1.
+Re-graded B on a global pass (rank 247 of 1057, score 40). 7 connections, 3 of them custody/funding/programmatic. Axes C1/A1/D1.
 
 ### The claims on the record
 
@@ -139,7 +139,7 @@ Roles the board assigns it: disclosure, concealment.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 167 of 1057, score 49). 6 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A2/D3.
+Re-graded B on a global pass (rank 176 of 1057, score 46). 6 connections, 1 of them custody/funding/programmatic. Axes C0/A2/D3.
 
 ### The claims on the record
 
@@ -161,7 +161,7 @@ Re-graded B on a global pass (rank 167 of 1057, score 49). 6 connections, 2 of t
 - Malmstrom AFB missile shutdowns, March 1967 runs out to **Robert L. Hastings** (person, board tier B), a custody link at Tier 1 documented. The link reads: Hastings holds and publishes the 17 March 1967 teletype. The document is published in facsimile in the UFOs & Nukes archive under the Echo Flight heading, and is the tier-1 anchor for the occurrence of the shutdown. Sources: UFOs & Nukes document archive, https://www.ufohastings.com/documents, dated 2026-08-12.
 - Malmstrom AFB missile shutdowns, March 1967 comes in from **Minot AFB incursions, 1966** (event, board tier C), a temporal link at Tier 1 documented. The link reads: Minot 1966 precedes the Malmstrom shutdowns by seven months. Different wing, different state, same category of report. The sequence F. E. Warren 1965, Minot 1966, Malmstrom 1967 establishes recurrence rather than a single-site anomaly. Sources: UFOs & Nukes document archive, https://www.ufohastings.com/documents, dated 2026-08-12.
 - Malmstrom AFB missile shutdowns, March 1967 comes in from **Minot AFB B-52 incident, 24 October 1968** (event, board tier C), a temporal link at Tier 1 documented. The link reads: Minot 1968 extends the pattern with instrumented detection. Where Malmstrom 1967 is a documented shutdown with contested causation, Minot 1968 adds ground radar, airborne radar, weather radar, visual observation, a four-minute radio failure and physical security alarms at Minuteman silos. Sources: NICAP/Project 1947 RADCAT: Minot AFB, 24 October 1968, https://www.nicap.org/681024minot_dir.htm, dated 2010-11-24.
-- Malmstrom AFB missile shutdowns, March 1967 comes in from **Capt. Robert L. Salas** (person, board tier B), a witness-chain link at Tier 2 named person on the record. The link reads: Principal named witness to the March 1967 shutdown. Salas first went on the record in 1996 with the Great Falls Tribune, describing a security police report of a glowing red object over the front gate immediately before his flight's missiles went off alert. Sources: UFOs & Nukes document archive, https://www.ufohastings.com/documents, dated 2026-08-12.
+- Malmstrom AFB missile shutdowns, March 1967 comes in from **Capt. Robert L. Salas** (person, board tier C), a witness-chain link at Tier 2 named person on the record. The link reads: Principal named witness to the March 1967 shutdown. Salas first went on the record in 1996 with the Great Falls Tribune, describing a security police report of a glowing red object over the front gate immediately before his flight's missiles went off alert. Sources: UFOs & Nukes document archive, https://www.ufohastings.com/documents, dated 2026-08-12.
 
 # 1970-1999: Post-Blue Book
 
@@ -215,7 +215,7 @@ Roles the board assigns it: concealment, disclosure.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 40 of 1057, score 88). 13 connections, 1 of them custody/witness/funding/programmatic, 4 official denials recorded against it. Axes C1/A3/D3.
+Re-graded A on a global pass (rank 37 of 1057, score 88). 13 connections, 1 of them custody/funding/programmatic, 4 official denials recorded against it. Axes C1/A3/D3.
 
 ### The claims on the record
 
@@ -302,7 +302,7 @@ Roles the board assigns it: concealment, disclosure.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 235 of 1057, score 42). 6 connections, 0 of them custody/witness/funding/programmatic, 4 official denials recorded against it. Axes C0/A2/D1.
+Re-graded B on a global pass (rank 223 of 1057, score 42). 6 connections, 0 of them custody/funding/programmatic, 4 official denials recorded against it. Axes C0/A2/D1.
 
 ### The claims on the record
 
@@ -327,7 +327,7 @@ Re-graded B on a global pass (rank 235 of 1057, score 42). 6 connections, 0 of t
 
 ### Its strongest connections
 
-- The Roswell Report: Case Closed (1997) runs out to **Plains of San Agustin claim, July 1947** (event, board tier B), a denial link at Tier 1 documented. The link reads: Air Force proposes San Agustin Pass confusion and dummy recoveries. Section 1.4 argues that Maltais and Knight may have confused the Plains with San Agustin Pass or Peak, adjacent to White Sands and the Jornada Test Range, where numerous dummy flights terminated. Sources: The Roswell Report: Case Closed (1997), https://archive.org/details/AFD-101027-030, dated 1997-01-01.
+- The Roswell Report: Case Closed (1997) runs out to **Plains of San Agustin claim, July 1947** (event, board tier C), a denial link at Tier 1 documented. The link reads: Air Force proposes San Agustin Pass confusion and dummy recoveries. Section 1.4 argues that Maltais and Knight may have confused the Plains with San Agustin Pass or Peak, adjacent to White Sands and the Jornada Test Range, where numerous dummy flights terminated. Sources: The Roswell Report: Case Closed (1997), https://archive.org/details/AFD-101027-030, dated 1997-01-01.
 - The Roswell Report: Case Closed (1997) runs out to **The Roswell Report: Fact Versus Fiction in the New Mexico Desert (1995)** (document, board tier C), a temporal link at Tier 1 documented. The link reads: The 1997 report completes what the 1994-1995 report left open. The 1994 report addressed the debris and did not address the bodies claims; the 1997 report was produced to close that gap. Sources: The Roswell Report: Case Closed (1997), https://archive.org/details/AFD-101027-030, dated 1997-01-01.
 - The Roswell Report: Case Closed (1997) comes in from **Capt. James McAndrew** (person, board tier C), a institutional link at Tier 1 documented. The link reads: Sole author of the 1997 bodies report. Published by Headquarters USAF through the GPO; McAndrew, born 1963, is the named author on the catalogue record. Sources: The Roswell Report: Case Closed (1997), https://archive.org/details/AFD-101027-030, dated 1997-01-01.
 - The Roswell Report: Case Closed (1997) comes in from **W. Glenn Dennis** (person, board tier C), a denial link at Tier 1 documented. The link reads: The 1997 report dismantled the 'missing nurse' account by name. Section 2.1 uses 427th AAFBU Squadron 'M' morning reports and National Personnel Records Center searches to show 'Naomi Maria Selff' never served, and identifies 1st Lt. Eileen M. Fanton as matching every other particular. Sources: The Roswell Report: Case Closed (1997), https://archive.org/details/AFD-101027-030, dated 1997-01-01.
@@ -384,7 +384,7 @@ Roles the board assigns it: disclosure, concealment.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 124 of 1057, score 57). 15 connections, 4 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A1/D3.
+Re-graded A on a global pass (rank 127 of 1057, score 54). 15 connections, 3 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A1/D3.
 
 ### The claims on the record
 
