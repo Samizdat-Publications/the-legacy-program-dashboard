@@ -131,8 +131,46 @@ An email ranking above a GAO report is the defect stated as plainly as it can be
 testified under oath to Congress, which sounds like the Tier A definition. But he
 testified about what he saw, not about being inside a programme, and Tier A reads "named
 in sworn testimony or primary documents as directly inside the program". Tier B for a
-credible outside witness is the honest grade. If Stewart disagrees, this is the one row to
-argue about, and it is a research judgement rather than a pipeline one.
+credible outside witness is the honest grade.
+
+### Stewart argued this, 18 September, and the argument is kept
+
+His case: Graves oversaw the squadron that was seeing these things repeatedly for months,
+he has first-hand knowledge from when the pilots landed and told him, and from the radar
+data. **"He isn't himself in the program."** And the wider point, which is the real one:
+"I don't want this to be just about the program because that would be incomplete without
+all the major whistleblowers and people who have testified to Congress about UAP, since
+that's some of the primary evidence we have about the whole thing."
+
+**The scope point is accepted and acted on: see the witness coverage pass in
+`notes/HANDOFF-2026-09-18-NIGHT.md` section 4.** The grade is held, on three findings, all
+checked rather than assumed:
+
+| Finding | Consequence |
+|---|---|
+| **L0 carries no people at all.** Its 137 nodes are institutions, documents, programmes, events and legislation. All 311 people are off the top-level map by design | The demotion removed Graves from nothing a reader sees |
+| **Search ranks on CLAIM tier, not node tier.** The "tier strictly dominates" rule in `app/src/search.ts` is T1/T2/T3. Node tier does not enter `score()` | Graves ranks on his five T1 claims, which is among the stronger evidence on the board |
+| **`hearing-2023-07-26`, `hearing-2024-11-13` and `hearing-2025-09-09` are Tier A and ON L0** | Congressional testimony is already top-level, as hubs, which is Stewart's own modelling rule working |
+
+So node tier A/B/C is a displayed letter plus an input to L0 selection and the analyst's
+index. It is not the axis that decides whether a witness is prominent.
+
+The board's own record on Graves supports the description and also shows the relay: his
+T1 claims read "one of the pilots saw a dark grey cube inside of a clear sphere" and "Our
+squadron submitted a safety report". That is a squadron member reporting what his squadron
+saw. Strong evidence, and not proximity to the programme.
+
+**The point that decides it for the future rather than the past:** under the hub rule,
+every claimant gets a `witness-chain` edge into the thing claimed about. Building out the
+whistleblower roster Stewart wants would, under the OLD rule, have drifted every one of
+them toward Tier A, and "proximity to the programme" would have become "how much testimony
+exists about this". This fix is what makes that expansion safe.
+
+If the letter is still to change afterwards, there are two honest routes and neither is a
+quiet edit: hand-set Graves to A, which is zero-sum under the forced 15 per cent and drops
+a documented node out to make room; or redefine the axis so node tier means importance to
+the subject rather than proximity, which re-grades all 1,057 nodes and rewrites the
+definition in CLAUDE.md section 6. Stewart has not chosen either.
 
 Five documentary or institutional nodes fall from B to C. Each was checked by hand; in
 every case the node's only x3 edge was a Tier 2 `witness-chain` link and its documented

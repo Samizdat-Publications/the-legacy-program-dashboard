@@ -12,16 +12,21 @@ on `leads/arv-2026-09-18`, not on master, and the branch this session built from
 master. Editing master's `HANDOFF-2026-09-18.md` would have collided with the edit
 `cde1c57` already makes to it on the ARV branch. New files do not conflict.
 
-## 1. What is on this branch
+## 1. What landed
 
-Branch `fix/centrality-2026-09-18`, off master at `92b5903`. **Not pushed.**
+Built on branch `fix/centrality-2026-09-18` off master at `92b5903`, then **merged to
+master and pushed on Stewart's yes, 18 September 2026**: `92b5903..e5666a7`, fast-forward,
+two commits. `1a7d3e7` is the fix and the regenerated board, `e5666a7` is the CLAUDE.md
+section 6 entry that records where node-tier proximity is computed and what is
+deliberately not in it. CI gate run and deploy are in section 3.
 
 | | |
 |---|---|
 | Code change | `tools/regrade.py`: `witness-chain` removed from `PROGRAM_EDGES`, with the reasoning as a comment, plus the rationale string that named the four edge types to readers |
 | Note | `notes/CENTRALITY-2026-09-18.md`, the measurement, the decision, and the rejected lever with its numbers |
 | Data | The whole pipeline re-run, `app/public/data/` regenerated, NotebookLM export regenerated |
-| Gate | Green except `runtime_check.js`. See section 3 |
+| Gate, local | Green except `runtime_check.js`. See section 3 |
+| Gate, CI | Run `35410883512` **green**, both jobs (`gate`, `app`). Deploy `35412163536` **green**. Production carries the new grades |
 | `GOLDEN.json` | **Not touched, and did not need to be.** The evening handoff predicted it would move on the tier distribution lines. It does not: golden tracks counts, and this moves only tiers. `verify.py` passes unchanged |
 
 ## 2. The decision, in one table
@@ -87,24 +92,76 @@ From `HANDOFF-2026-09-18-EVENING.md` section 4. Item 1 is now done.
 
 | # | job | state |
 |---|---|---|
-| 1 | The centrality fix | **DONE, this branch, not pushed** |
+| 1 | The centrality fix | **DONE and ON MASTER** at `e5666a7` |
 | 2 | **TR-3B, the next witness-band hub** | **NEXT.** Brief is `research/leads/CANDIDATES-2026-09-18-ARVP.md` section B. Open Fouche's 1998 presentation and the "military documents" the arvp site links, and find the sceptical literature, BEFORE building |
 | 3 | Gate ARV and TR-3B together and push both | Ask Stewart first |
+| 3a | **The witness coverage pass. NEW, added 18 September on Stewart's instruction** | See section 4a below |
 | 4 | The propulsion-mechanism strand, approved | `notes/PROPULSION-CLAIMS-2026-09-18.md` |
 | 5 | The rest of the canon pass | audit passes 1, 3, 4, then 5 |
 | 6 | Retire the old shell | Kills the `runtime_check` flake |
 | 7 | Tier option C | Unchanged |
 
-**Before item 2 or 3: the ARV branch must be re-graded.** `leads/arv-2026-09-18` was built
-under the old rule. Per evening handoff section 3d, once this lands on master, rebase or
-rebuild it so its nodes are graded once under the new rule rather than twice. Its research
-files do not change; only pipeline output does.
+**DO THIS FIRST, before item 2 or 3: re-grade the ARV branch.** `leads/arv-2026-09-18` was
+built under the OLD rule and the new rule is now on master, so that branch currently
+carries node tiers computed two different ways. Per evening handoff section 3d, rebase or
+rebuild it so its nodes are graded once. Its research files do not change; only pipeline
+output does. Rebasing it will conflict on `app/public/data/`, which is generated: take
+master's side and re-run the pipeline rather than resolving those files by hand.
+
+The same applies to any other unmerged branch carrying board data. As of tonight that is
+`leads/arv-2026-09-18` and the older `build/*` and `leads/*` branches, none of which are
+in flight.
 
 **Evening handoff section 3d asked whether the fix resolves the red check by itself. It
 does not.** `arv-fluxliner` was already Tier B at #216 and moves to #299; L0 membership
 held at 137 through the rebuild, so it stays on the map and the `witness x program` cell
 it occupies alone is still occupied alone. Stewart's option 1, building TR-3B into that
 cell, remains the fix.
+
+## 4a. The witness coverage pass, new and from Stewart directly
+
+**Stewart, 18 September 2026:** "I don't want this to be just about the program because
+that would be incomplete without all the major whistleblowers and people who have
+testified to Congress about UAP since that's some of the primary evidence we have about
+the whole thing."
+
+That is a scope instruction and it is his. It was prompted by the `ryan-graves` demotion,
+but the demotion is not the problem and reversing it would have hidden the problem. The
+board's coverage of congressional witnesses was already thin BEFORE this session, under
+the old rule:
+
+| Witness | State |
+|---|---|
+| `michael-herrera` | **absent entirely** (also audit band 1) |
+| `jason-sands` | **absent entirely** |
+| `alex-dietrich` | Tier C, **one** T1 claim |
+| `david-fravor` | Tier B, 4 T1 claims. Was already Tier B before this session |
+| `ryan-graves` | Tier B, 5 T1 claims |
+
+Fravor at B and Dietrich at C predate the centrality fix, so testimony-based figures were
+never ranking on the node-tier axis. The pass:
+
+1. Build `michael-herrera` and `jason-sands`.
+2. Enrich `alex-dietrich` and `david-fravor`.
+3. **Check the whole congressional-witness roster for absentees first**, the same way
+   `ben-rich` was caught in section 5: existence check by canonical id BEFORE building,
+   every time, or the board gains duplicates.
+4. The hearings are already the hubs and are already Tier A and on L0
+   (`hearing-2023-07-26`, `hearing-2024-11-13`, `hearing-2025-09-09`), so this is
+   enrichment of an existing structure, not a new surface. Witnesses join in by
+   `witness-chain`, per the hub rule.
+
+**Why this pass is safe only now.** Under the hub rule every claimant gets a
+`witness-chain` edge into the thing claimed about. Under the OLD x3.0 weighting, adding
+this roster would have drifted every one of these witnesses toward Tier A and "proximity
+to the programme" would have collapsed into "how much testimony exists about this". The
+centrality fix is what makes the expansion Stewart wants possible without destroying the
+meaning of the axis.
+
+The Graves grade is held at B, with his argument recorded in
+`notes/CENTRALITY-2026-09-18.md` section 5, along with the three findings it rests on
+(L0 carries no people; search ranks on claim tier, not node tier; the hearings are already
+Tier A on L0) and the two honest routes if he wants the letter changed anyway.
 
 ## 5. Two corrections to the evening handoff, both found in passing
 
