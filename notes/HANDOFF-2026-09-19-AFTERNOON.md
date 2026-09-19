@@ -2,7 +2,9 @@
 
 Follows `notes/HANDOFF-2026-09-19-LATE.md`, which is still accurate on the research and on
 the nuclear cluster. This session took its section 2, "the first thing the next session
-should do", and the mechanism defects in its section 5a. It did no research.
+should do", and the mechanism defects in its section 5a. It then triaged item 3 of its
+section 6c, the NSC and the EO/statute spine, and verified nine primary documents without
+building anything from them yet.
 
 `git fetch --all` first.
 
@@ -12,7 +14,7 @@ should do", and the mechanism defects in its section 5a. It did no research.
 
 **Master is unchanged at `d545a79`.** Nothing was pushed to it.
 
-**Four commits on branch `fix/silent-defaults-2026-09-19`, pushed to origin.** Gate green,
+**Six commits on branch `fix/silent-defaults-2026-09-19`, pushed to origin.** Gate green,
 app checks 87 of 87, all 21 poisons seen by their own check, `check_rebuild.py` clean.
 Board counts do not move: 338 people, 787 entities, 2,661 edges, 1,050 timeline, so
 `GOLDEN.json` is untouched.
@@ -23,6 +25,8 @@ Board counts do not move: 338 people, 787 entities, 2,661 edges, 1,050 timeline,
 | `eb9c7f2` | the silent-default fix: 267 nodes onto their authored band, 24 people off a wrong `status` |
 | `01b6ae1` | dates stop losing precision to filename order |
 | `ffc1d76` | the nuclear blocker re-measured |
+| `567edb4` | this handoff |
+| `40c8b58` | the NSC and 1947-1985 spine, triaged and verified, nothing built |
 
 **IT NEEDS STEWART'S YES TO MERGE.** Merging to master deploys to production, and the
 harness treats that as his call.
