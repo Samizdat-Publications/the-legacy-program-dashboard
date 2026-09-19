@@ -15976,7 +15976,7 @@
 },
 {
 "cls": "domain",
-"cluster": "other",
+"cluster": "ic",
 "denied": false,
 "label": "Disinformation & Fabricated Documents",
 "node": "d-disinformation",
@@ -15991,7 +15991,7 @@
 },
 {
 "cls": "domain",
-"cluster": "other",
+"cluster": "ic",
 "denied": false,
 "label": "Disinformation & Fabricated Documents",
 "node": "d-disinformation",
@@ -16006,7 +16006,7 @@
 },
 {
 "cls": "domain",
-"cluster": "other",
+"cluster": "ic",
 "denied": false,
 "label": "Disinformation & Fabricated Documents",
 "node": "d-disinformation",
@@ -16021,7 +16021,7 @@
 },
 {
 "cls": "domain",
-"cluster": "other",
+"cluster": "ic",
 "denied": false,
 "label": "Disinformation & Fabricated Documents",
 "node": "d-disinformation",
@@ -16036,7 +16036,7 @@
 },
 {
 "cls": "domain",
-"cluster": "other",
+"cluster": "research",
 "denied": false,
 "label": "Exotic Technology & Physics",
 "node": "d-exotic",
@@ -16051,7 +16051,7 @@
 },
 {
 "cls": "domain",
-"cluster": "other",
+"cluster": "research",
 "denied": false,
 "label": "Exotic Technology & Physics",
 "node": "d-exotic",
@@ -16066,7 +16066,7 @@
 },
 {
 "cls": "domain",
-"cluster": "other",
+"cluster": "research",
 "denied": false,
 "label": "Exotic Technology & Physics",
 "node": "d-exotic",
@@ -16081,7 +16081,7 @@
 },
 {
 "cls": "domain",
-"cluster": "other",
+"cluster": "research",
 "denied": false,
 "label": "Exotic Technology & Physics",
 "node": "d-exotic",
@@ -16096,7 +16096,7 @@
 },
 {
 "cls": "domain",
-"cluster": "other",
+"cluster": "research",
 "denied": false,
 "label": "Exotic Technology & Physics",
 "node": "d-exotic",
@@ -16111,7 +16111,7 @@
 },
 {
 "cls": "domain",
-"cluster": "other",
+"cluster": "research",
 "denied": false,
 "label": "Exotic Technology & Physics",
 "node": "d-exotic",
@@ -17386,7 +17386,7 @@
 },
 {
 "cls": "domain",
-"cluster": "other",
+"cluster": "ic",
 "denied": false,
 "label": "Psychological Operations & Perception Management",
 "node": "d-psyop",
@@ -17401,7 +17401,7 @@
 },
 {
 "cls": "domain",
-"cluster": "other",
+"cluster": "ic",
 "denied": false,
 "label": "Psychological Operations & Perception Management",
 "node": "d-psyop",
@@ -17416,7 +17416,7 @@
 },
 {
 "cls": "domain",
-"cluster": "other",
+"cluster": "ic",
 "denied": false,
 "label": "Psychological Operations & Perception Management",
 "node": "d-psyop",
@@ -17431,7 +17431,7 @@
 },
 {
 "cls": "domain",
-"cluster": "other",
+"cluster": "ic",
 "denied": false,
 "label": "Psychological Operations & Perception Management",
 "node": "d-psyop",
@@ -24421,7 +24421,7 @@
 },
 {
 "cls": "program",
-"cluster": "other",
+"cluster": "witness",
 "denied": true,
 "label": "The Disclosure Project",
 "node": "disclosure-project",
@@ -24436,7 +24436,7 @@
 },
 {
 "cls": "program",
-"cluster": "other",
+"cluster": "witness",
 "denied": true,
 "label": "The Disclosure Project",
 "node": "disclosure-project",
@@ -24451,7 +24451,7 @@
 },
 {
 "cls": "program",
-"cluster": "other",
+"cluster": "witness",
 "denied": true,
 "label": "The Disclosure Project",
 "node": "disclosure-project",
@@ -24466,7 +24466,7 @@
 },
 {
 "cls": "program",
-"cluster": "other",
+"cluster": "witness",
 "denied": true,
 "label": "The Disclosure Project",
 "node": "disclosure-project",
@@ -24481,7 +24481,7 @@
 },
 {
 "cls": "program",
-"cluster": "other",
+"cluster": "witness",
 "denied": true,
 "label": "The Disclosure Project",
 "node": "disclosure-project",
@@ -24496,7 +24496,7 @@
 },
 {
 "cls": "program",
-"cluster": "other",
+"cluster": "witness",
 "denied": true,
 "label": "The Disclosure Project",
 "node": "disclosure-project",
@@ -24511,7 +24511,7 @@
 },
 {
 "cls": "program",
-"cluster": "other",
+"cluster": "witness",
 "denied": true,
 "label": "The Disclosure Project",
 "node": "disclosure-project",
@@ -47566,7 +47566,7 @@
 },
 {
 "cls": "event",
-"cluster": "other",
+"cluster": "legacy",
 "denied": false,
 "label": "Kirtland AFB / Manzano Weapons Storage Area incident",
 "node": "kirtland-manzano-1980",
@@ -47581,7 +47581,7 @@
 },
 {
 "cls": "event",
-"cluster": "other",
+"cluster": "legacy",
 "denied": false,
 "label": "Kirtland AFB / Manzano Weapons Storage Area incident",
 "node": "kirtland-manzano-1980",
@@ -47596,7 +47596,7 @@
 },
 {
 "cls": "event",
-"cluster": "other",
+"cluster": "legacy",
 "denied": false,
 "label": "Kirtland AFB / Manzano Weapons Storage Area incident",
 "node": "kirtland-manzano-1980",
@@ -47611,7 +47611,7 @@
 },
 {
 "cls": "event",
-"cluster": "other",
+"cluster": "legacy",
 "denied": false,
 "label": "Kirtland AFB / Manzano Weapons Storage Area incident",
 "node": "kirtland-manzano-1980",
@@ -47941,7 +47941,7 @@
 },
 {
 "cls": "institution",
-"cluster": "other",
+"cluster": "media",
 "denied": false,
 "label": "KLAS-TV (Las Vegas)",
 "node": "klas-tv",
@@ -47956,7 +47956,7 @@
 },
 {
 "cls": "institution",
-"cluster": "other",
+"cluster": "media",
 "denied": false,
 "label": "KLAS-TV (Las Vegas)",
 "node": "klas-tv",
@@ -48316,7 +48316,7 @@
 },
 {
 "cls": "location",
-"cluster": "other",
+"cluster": "legacy",
 "denied": false,
 "label": "Area 51 (Homey Airport / Groom Lake operating location)",
 "node": "l-area51",
@@ -48331,7 +48331,7 @@
 },
 {
 "cls": "location",
-"cluster": "other",
+"cluster": "legacy",
 "denied": false,
 "label": "Area 51 (Homey Airport / Groom Lake operating location)",
 "node": "l-area51",
@@ -48346,7 +48346,7 @@
 },
 {
 "cls": "location",
-"cluster": "other",
+"cluster": "legacy",
 "denied": false,
 "label": "Area 51 (Homey Airport / Groom Lake operating location)",
 "node": "l-area51",
@@ -48361,7 +48361,7 @@
 },
 {
 "cls": "location",
-"cluster": "other",
+"cluster": "legacy",
 "denied": false,
 "label": "Area 51 (Homey Airport / Groom Lake operating location)",
 "node": "l-area51",
@@ -49111,7 +49111,7 @@
 },
 {
 "cls": "location",
-"cluster": "other",
+"cluster": "legacy",
 "denied": false,
 "label": "Groom Lake, Nevada",
 "node": "l-groom-lake",
@@ -49126,7 +49126,7 @@
 },
 {
 "cls": "location",
-"cluster": "other",
+"cluster": "legacy",
 "denied": false,
 "label": "Groom Lake, Nevada",
 "node": "l-groom-lake",
@@ -49141,7 +49141,7 @@
 },
 {
 "cls": "location",
-"cluster": "other",
+"cluster": "legacy",
 "denied": false,
 "label": "Groom Lake, Nevada",
 "node": "l-groom-lake",
@@ -49156,7 +49156,7 @@
 },
 {
 "cls": "location",
-"cluster": "other",
+"cluster": "legacy",
 "denied": false,
 "label": "Groom Lake, Nevada",
 "node": "l-groom-lake",
@@ -49171,7 +49171,7 @@
 },
 {
 "cls": "location",
-"cluster": "other",
+"cluster": "legacy",
 "denied": false,
 "label": "Groom Lake, Nevada",
 "node": "l-groom-lake",
@@ -49186,7 +49186,7 @@
 },
 {
 "cls": "location",
-"cluster": "other",
+"cluster": "legacy",
 "denied": false,
 "label": "Groom Lake, Nevada",
 "node": "l-groom-lake",
@@ -49201,7 +49201,7 @@
 },
 {
 "cls": "location",
-"cluster": "other",
+"cluster": "legacy",
 "denied": false,
 "label": "Groom Lake, Nevada",
 "node": "l-groom-lake",
@@ -49321,7 +49321,7 @@
 },
 {
 "cls": "location",
-"cluster": "other",
+"cluster": "legacy",
 "denied": false,
 "label": "Kirtland Air Force Base and Albuquerque, New Mexico",
 "node": "l-kirtland",
@@ -49336,7 +49336,7 @@
 },
 {
 "cls": "location",
-"cluster": "other",
+"cluster": "legacy",
 "denied": false,
 "label": "Kirtland Air Force Base and Albuquerque, New Mexico",
 "node": "l-kirtland",
@@ -49351,7 +49351,7 @@
 },
 {
 "cls": "location",
-"cluster": "other",
+"cluster": "legacy",
 "denied": false,
 "label": "Kirtland Air Force Base and Albuquerque, New Mexico",
 "node": "l-kirtland",
@@ -49366,7 +49366,7 @@
 },
 {
 "cls": "location",
-"cluster": "other",
+"cluster": "legacy",
 "denied": false,
 "label": "Kirtland Air Force Base and Albuquerque, New Mexico",
 "node": "l-kirtland",
@@ -49381,7 +49381,7 @@
 },
 {
 "cls": "location",
-"cluster": "other",
+"cluster": "legacy",
 "denied": false,
 "label": "Kirtland Air Force Base and Albuquerque, New Mexico",
 "node": "l-kirtland",
@@ -49396,7 +49396,7 @@
 },
 {
 "cls": "location",
-"cluster": "other",
+"cluster": "legacy",
 "denied": false,
 "label": "Kirtland Air Force Base and Albuquerque, New Mexico",
 "node": "l-kirtland",
@@ -49411,7 +49411,7 @@
 },
 {
 "cls": "location",
-"cluster": "other",
+"cluster": "legacy",
 "denied": false,
 "label": "Kirtland Air Force Base and Albuquerque, New Mexico",
 "node": "l-kirtland",
@@ -49711,7 +49711,7 @@
 },
 {
 "cls": "location",
-"cluster": "other",
+"cluster": "legacy",
 "denied": false,
 "label": "Nellis Air Force Base and the Nevada Test and Training Range",
 "node": "l-nellis",
@@ -49726,7 +49726,7 @@
 },
 {
 "cls": "location",
-"cluster": "other",
+"cluster": "legacy",
 "denied": false,
 "label": "Nellis Air Force Base and the Nevada Test and Training Range",
 "node": "l-nellis",
@@ -49741,7 +49741,7 @@
 },
 {
 "cls": "location",
-"cluster": "other",
+"cluster": "legacy",
 "denied": false,
 "label": "Nellis Air Force Base and the Nevada Test and Training Range",
 "node": "l-nellis",
@@ -49756,7 +49756,7 @@
 },
 {
 "cls": "location",
-"cluster": "other",
+"cluster": "contractor",
 "denied": false,
 "label": "Nevada Test Site / Nevada National Security Site",
 "node": "l-nevada-test-site",
@@ -49771,7 +49771,7 @@
 },
 {
 "cls": "location",
-"cluster": "other",
+"cluster": "contractor",
 "denied": false,
 "label": "Nevada Test Site / Nevada National Security Site",
 "node": "l-nevada-test-site",
@@ -49786,7 +49786,7 @@
 },
 {
 "cls": "location",
-"cluster": "other",
+"cluster": "contractor",
 "denied": false,
 "label": "Nevada Test Site / Nevada National Security Site",
 "node": "l-nevada-test-site",
@@ -50506,7 +50506,7 @@
 },
 {
 "cls": "location",
-"cluster": "other",
+"cluster": "legacy",
 "denied": false,
 "label": "Tonopah Test Range, Nevada",
 "node": "l-tonopah",
@@ -50521,7 +50521,7 @@
 },
 {
 "cls": "location",
-"cluster": "other",
+"cluster": "legacy",
 "denied": false,
 "label": "Tonopah Test Range, Nevada",
 "node": "l-tonopah",
@@ -50536,7 +50536,7 @@
 },
 {
 "cls": "location",
-"cluster": "other",
+"cluster": "legacy",
 "denied": false,
 "label": "Tonopah Test Range, Nevada",
 "node": "l-tonopah",
@@ -50551,7 +50551,7 @@
 },
 {
 "cls": "location",
-"cluster": "other",
+"cluster": "legacy",
 "denied": false,
 "label": "Tonopah Test Range, Nevada",
 "node": "l-tonopah",
@@ -50686,7 +50686,7 @@
 },
 {
 "cls": "location",
-"cluster": "other",
+"cluster": "legacy",
 "denied": false,
 "label": "Vandenberg Space Force Base, California",
 "node": "l-vandenberg",
@@ -50701,7 +50701,7 @@
 },
 {
 "cls": "location",
-"cluster": "other",
+"cluster": "legacy",
 "denied": false,
 "label": "Vandenberg Space Force Base, California",
 "node": "l-vandenberg",
@@ -50716,7 +50716,7 @@
 },
 {
 "cls": "location",
-"cluster": "other",
+"cluster": "legacy",
 "denied": false,
 "label": "Vandenberg Space Force Base, California",
 "node": "l-vandenberg",
@@ -50731,7 +50731,7 @@
 },
 {
 "cls": "location",
-"cluster": "other",
+"cluster": "legacy",
 "denied": false,
 "label": "Vandenberg Space Force Base, California",
 "node": "l-vandenberg",
@@ -50746,7 +50746,7 @@
 },
 {
 "cls": "location",
-"cluster": "other",
+"cluster": "legacy",
 "denied": false,
 "label": "Vandenberg Space Force Base, California",
 "node": "l-vandenberg",
@@ -50761,7 +50761,7 @@
 },
 {
 "cls": "location",
-"cluster": "other",
+"cluster": "legacy",
 "denied": false,
 "label": "Vandenberg Space Force Base, California",
 "node": "l-vandenberg",
@@ -50776,7 +50776,7 @@
 },
 {
 "cls": "location",
-"cluster": "other",
+"cluster": "legacy",
 "denied": false,
 "label": "Vandenberg Space Force Base, California",
 "node": "l-vandenberg",
@@ -56881,7 +56881,7 @@
 },
 {
 "cls": "institution",
-"cluster": "other",
+"cluster": "research",
 "denied": false,
 "label": "National Aeronautics and Space Administration",
 "node": "nasa",
@@ -56896,7 +56896,7 @@
 },
 {
 "cls": "institution",
-"cluster": "other",
+"cluster": "research",
 "denied": false,
 "label": "National Aeronautics and Space Administration",
 "node": "nasa",
@@ -56911,7 +56911,7 @@
 },
 {
 "cls": "institution",
-"cluster": "other",
+"cluster": "research",
 "denied": false,
 "label": "National Aeronautics and Space Administration",
 "node": "nasa",
@@ -56926,7 +56926,7 @@
 },
 {
 "cls": "institution",
-"cluster": "other",
+"cluster": "research",
 "denied": false,
 "label": "National Aeronautics and Space Administration",
 "node": "nasa",
@@ -56941,7 +56941,7 @@
 },
 {
 "cls": "institution",
-"cluster": "other",
+"cluster": "research",
 "denied": false,
 "label": "National Aeronautics and Space Administration",
 "node": "nasa",
@@ -56956,7 +56956,7 @@
 },
 {
 "cls": "institution",
-"cluster": "other",
+"cluster": "research",
 "denied": false,
 "label": "National Aeronautics and Space Administration",
 "node": "nasa",
@@ -56971,7 +56971,7 @@
 },
 {
 "cls": "institution",
-"cluster": "other",
+"cluster": "research",
 "denied": false,
 "label": "National Aeronautics and Space Administration",
 "node": "nasa",
@@ -56986,7 +56986,7 @@
 },
 {
 "cls": "institution",
-"cluster": "other",
+"cluster": "research",
 "denied": false,
 "label": "National Aeronautics and Space Administration",
 "node": "nasa",
@@ -68071,7 +68071,7 @@
 },
 {
 "cls": "event",
-"cluster": "other",
+"cluster": "witness",
 "denied": true,
 "label": "Rendlesham Forest Incident, RAF Woodbridge/Bentwaters",
 "node": "rendlesham-1980",
@@ -68086,7 +68086,7 @@
 },
 {
 "cls": "event",
-"cluster": "other",
+"cluster": "witness",
 "denied": true,
 "label": "Rendlesham Forest Incident, RAF Woodbridge/Bentwaters",
 "node": "rendlesham-1980",
@@ -68101,7 +68101,7 @@
 },
 {
 "cls": "event",
-"cluster": "other",
+"cluster": "witness",
 "denied": true,
 "label": "Rendlesham Forest Incident, RAF Woodbridge/Bentwaters",
 "node": "rendlesham-1980",
@@ -68116,7 +68116,7 @@
 },
 {
 "cls": "event",
-"cluster": "other",
+"cluster": "witness",
 "denied": true,
 "label": "Rendlesham Forest Incident, RAF Woodbridge/Bentwaters",
 "node": "rendlesham-1980",
@@ -68131,7 +68131,7 @@
 },
 {
 "cls": "event",
-"cluster": "other",
+"cluster": "witness",
 "denied": true,
 "label": "Rendlesham Forest Incident, RAF Woodbridge/Bentwaters",
 "node": "rendlesham-1980",
@@ -68146,7 +68146,7 @@
 },
 {
 "cls": "event",
-"cluster": "other",
+"cluster": "witness",
 "denied": true,
 "label": "Rendlesham Forest Incident, RAF Woodbridge/Bentwaters",
 "node": "rendlesham-1980",
@@ -68161,7 +68161,7 @@
 },
 {
 "cls": "event",
-"cluster": "other",
+"cluster": "witness",
 "denied": true,
 "label": "Rendlesham Forest Incident, RAF Woodbridge/Bentwaters",
 "node": "rendlesham-1980",
@@ -77836,7 +77836,7 @@
 },
 {
 "cls": "institution",
-"cluster": "other",
+"cluster": "media",
 "denied": false,
 "label": "The Black Vault",
 "node": "the-black-vault",
@@ -77851,7 +77851,7 @@
 },
 {
 "cls": "institution",
-"cluster": "other",
+"cluster": "media",
 "denied": false,
 "label": "The Black Vault",
 "node": "the-black-vault",
@@ -77866,7 +77866,7 @@
 },
 {
 "cls": "institution",
-"cluster": "other",
+"cluster": "media",
 "denied": false,
 "label": "The Black Vault",
 "node": "the-black-vault",
@@ -77881,7 +77881,7 @@
 },
 {
 "cls": "institution",
-"cluster": "other",
+"cluster": "media",
 "denied": false,
 "label": "The Black Vault",
 "node": "the-black-vault",
@@ -77896,7 +77896,7 @@
 },
 {
 "cls": "institution",
-"cluster": "other",
+"cluster": "media",
 "denied": false,
 "label": "The Black Vault",
 "node": "the-black-vault",
@@ -77911,7 +77911,7 @@
 },
 {
 "cls": "institution",
-"cluster": "other",
+"cluster": "media",
 "denied": false,
 "label": "The Black Vault",
 "node": "the-black-vault",
@@ -79561,7 +79561,7 @@
 },
 {
 "cls": "program",
-"cluster": "other",
+"cluster": "witness",
 "denied": true,
 "label": "TR-3B 'Astra', claimed black triangular aircraft",
 "node": "tr-3b",
@@ -79576,7 +79576,7 @@
 },
 {
 "cls": "program",
-"cluster": "other",
+"cluster": "witness",
 "denied": true,
 "label": "TR-3B 'Astra', claimed black triangular aircraft",
 "node": "tr-3b",
@@ -79591,7 +79591,7 @@
 },
 {
 "cls": "program",
-"cluster": "other",
+"cluster": "witness",
 "denied": true,
 "label": "TR-3B 'Astra', claimed black triangular aircraft",
 "node": "tr-3b",
@@ -79606,7 +79606,7 @@
 },
 {
 "cls": "program",
-"cluster": "other",
+"cluster": "witness",
 "denied": true,
 "label": "TR-3B 'Astra', claimed black triangular aircraft",
 "node": "tr-3b",
@@ -79621,7 +79621,7 @@
 },
 {
 "cls": "program",
-"cluster": "other",
+"cluster": "witness",
 "denied": true,
 "label": "TR-3B 'Astra', claimed black triangular aircraft",
 "node": "tr-3b",
@@ -79636,7 +79636,7 @@
 },
 {
 "cls": "program",
-"cluster": "other",
+"cluster": "witness",
 "denied": true,
 "label": "TR-3B 'Astra', claimed black triangular aircraft",
 "node": "tr-3b",
@@ -79651,7 +79651,7 @@
 },
 {
 "cls": "program",
-"cluster": "other",
+"cluster": "witness",
 "denied": true,
 "label": "TR-3B 'Astra', claimed black triangular aircraft",
 "node": "tr-3b",
@@ -79666,7 +79666,7 @@
 },
 {
 "cls": "program",
-"cluster": "other",
+"cluster": "witness",
 "denied": true,
 "label": "TR-3B 'Astra', claimed black triangular aircraft",
 "node": "tr-3b",
@@ -79681,7 +79681,7 @@
 },
 {
 "cls": "program",
-"cluster": "other",
+"cluster": "witness",
 "denied": true,
 "label": "TR-3B 'Astra', claimed black triangular aircraft",
 "node": "tr-3b",

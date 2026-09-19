@@ -4716,7 +4716,7 @@
     1
    ],
    "cls": "domain",
-   "cluster": "other",
+   "cluster": "ic",
    "dateEnd": null,
    "dateStart": "1984-12-11",
    "deg": 4,
@@ -4740,7 +4740,7 @@
     1
    ],
    "cls": "domain",
-   "cluster": "other",
+   "cluster": "research",
    "dateEnd": null,
    "dateStart": "2008-08-18",
    "deg": 7,
@@ -5364,7 +5364,7 @@
     1
    ],
    "cls": "domain",
-   "cluster": "other",
+   "cluster": "ic",
    "dateEnd": null,
    "dateStart": "1953-01-17",
    "deg": 7,
@@ -7308,7 +7308,7 @@
     1
    ],
    "cls": "program",
-   "cluster": "other",
+   "cluster": "witness",
    "dateEnd": null,
    "dateStart": "1993",
    "deg": 7,
@@ -14292,7 +14292,7 @@
     0
    ],
    "cls": "event",
-   "cluster": "other",
+   "cluster": "legacy",
    "dateEnd": "1980",
    "dateStart": "1980",
    "deg": 5,
@@ -14364,7 +14364,7 @@
     0
    ],
    "cls": "institution",
-   "cluster": "other",
+   "cluster": "media",
    "dateEnd": null,
    "dateStart": "1981",
    "deg": 6,
@@ -14460,7 +14460,7 @@
     1
    ],
    "cls": "location",
-   "cluster": "other",
+   "cluster": "legacy",
    "dateEnd": null,
    "dateStart": "1955",
    "deg": 4,
@@ -14988,7 +14988,7 @@
     1
    ],
    "cls": "location",
-   "cluster": "other",
+   "cluster": "legacy",
    "dateEnd": null,
    "dateStart": "1955",
    "deg": 14,
@@ -15084,7 +15084,7 @@
     1
    ],
    "cls": "location",
-   "cluster": "other",
+   "cluster": "legacy",
    "dateEnd": null,
    "dateStart": "1941",
    "deg": 10,
@@ -15372,7 +15372,7 @@
     0
    ],
    "cls": "location",
-   "cluster": "other",
+   "cluster": "legacy",
    "dateEnd": null,
    "dateStart": "1941",
    "deg": 2,
@@ -15396,7 +15396,7 @@
     0
    ],
    "cls": "location",
-   "cluster": "other",
+   "cluster": "contractor",
    "dateEnd": null,
    "dateStart": "1951",
    "deg": 6,
@@ -15852,7 +15852,7 @@
     1
    ],
    "cls": "location",
-   "cluster": "other",
+   "cluster": "legacy",
    "dateEnd": null,
    "dateStart": "1957",
    "deg": 2,
@@ -15972,7 +15972,7 @@
     1
    ],
    "cls": "location",
-   "cluster": "other",
+   "cluster": "legacy",
    "dateEnd": null,
    "dateStart": "1941",
    "deg": 5,
@@ -18108,7 +18108,7 @@
     0
    ],
    "cls": "institution",
-   "cluster": "other",
+   "cluster": "research",
    "dateEnd": null,
    "dateStart": "1958-07-29",
    "deg": 18,
@@ -21540,7 +21540,7 @@
     1
    ],
    "cls": "event",
-   "cluster": "other",
+   "cluster": "witness",
    "dateEnd": "1981",
    "dateStart": "1980",
    "deg": 12,
@@ -24468,7 +24468,7 @@
     0
    ],
    "cls": "institution",
-   "cluster": "other",
+   "cluster": "media",
    "dateEnd": null,
    "dateStart": "1996",
    "deg": 9,
@@ -24972,7 +24972,7 @@
     3
    ],
    "cls": "program",
-   "cluster": "other",
+   "cluster": "witness",
    "dateEnd": null,
    "dateStart": "1998-08",
    "deg": 12,
@@ -27170,5 +27170,5 @@
    "tier": "C"
   }
  ],
- "source": "a682f271cc4b"
+ "source": "a6674d2616e7"
 }

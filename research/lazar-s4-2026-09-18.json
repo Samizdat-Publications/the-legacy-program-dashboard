@@ -1048,7 +1048,8 @@
           "source": "Las Vegas Review-Journal, 19 June 1990, p 8B, reprinted at https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/lv-review-journal-6-19-1990/ , opened 2026-09-18"
         }
       ],
-      "cls": "institution"
+      "cls": "institution",
+      "cluster": "media"
     },
     {
       "id": "lanl",
@@ -1071,7 +1072,8 @@
           "source": "Stanton T. Friedman, 'The Bob Lazar Fraud', https://www.theblackvault.com/casefiles/the-bob-lazar-fraud-2/ ; Mark Farmer interview, 25 May 1996, https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/los-alamos-interview/ , both opened 2026-09-18"
         }
       ],
-      "cls": "institution"
+      "cls": "institution",
+      "cluster": "ffrdc"
     },
     {
       "id": "l-groom-lake",
@@ -1094,7 +1096,8 @@
           "source": "The Lazar Tape, Tri-Dot Productions, 1991, captions at 2:07 and 27:16 via YouTube video kc10m6HFbDE, https://archive.org/details/antigravity , opened 2026-09-18"
         }
       ],
-      "cls": "location"
+      "cls": "location",
+      "cluster": "legacy"
     },
     {
       "id": "l-area51",
@@ -1117,7 +1120,8 @@
           "source": "The Lazar Tape, Tri-Dot Productions, 1991, captions at 2:07, https://archive.org/details/antigravity ; and Las Vegas Review-Journal, 19 June 1990, p 8B, opened 2026-09-18"
         }
       ],
-      "cls": "location"
+      "cls": "location",
+      "cluster": "legacy"
     },
     {
       "id": "l-nellis",
@@ -1135,7 +1139,8 @@
           "source": "The Lazar Tape, Tri-Dot Productions, 1991, captions at 2:02 via YouTube video kc10m6HFbDE, https://archive.org/details/antigravity , opened 2026-09-18"
         }
       ],
-      "cls": "location"
+      "cls": "location",
+      "cluster": "legacy"
     },
     {
       "id": "l-nevada-test-site",
@@ -1153,7 +1158,8 @@
           "source": "Las Vegas Review-Journal, 21 August 1990, p 2C, https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/lv-review-journal-8-21-1990/ , opened 2026-09-18"
         }
       ],
-      "cls": "location"
+      "cls": "location",
+      "cluster": "contractor"
     },
     {
       "id": "l-tonopah",
@@ -1171,7 +1177,8 @@
           "source": "Tom Mahood, 2018 retrospective, https://otherhand.org/home-page/area-51-and-other-strange-places/looking-at-the-bob-lazar-story-from-the-perspective-of-2018/ , opened 2026-09-18; and T.D. Barnes in research/leads/dannyjones-corpus-09.md, episode 415 at 1:01:21 to 1:02:58, recorded 2026-07-20"
         }
       ],
-      "cls": "location"
+      "cls": "location",
+      "cluster": "legacy"
     },
     {
       "id": "l-los-alamos",
@@ -1189,7 +1196,8 @@
           "source": "Los Alamos Monitor, 27 June 1982, A1 and A8, https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/bobs-jetcar-article/ , opened 2026-09-18"
         }
       ],
-      "cls": "location"
+      "cls": "location",
+      "cluster": "ffrdc"
     },
     {
       "id": "nnsa",
@@ -1212,7 +1220,8 @@
           "source": "Oganessian et al., Physical Review C 69, 021601(R), 2 February 2004, https://journals.aps.org/prc/abstract/10.1103/PhysRevC.69.021601 ; IUPAC, 30 December 2015, https://iupac.org/discovery-and-assignment-of-elements-with-atomic-numbers-113-115-117-and-118/ , both opened 2026-09-18"
         }
       ],
-      "cls": "institution"
+      "cls": "institution",
+      "cluster": "legacy"
     },
     {
       "id": "oni",
@@ -1235,7 +1244,8 @@
           "source": "Stanton T. Friedman, 'The Bob Lazar Fraud', https://www.theblackvault.com/casefiles/the-bob-lazar-fraud-2/ ; and The Lazar Tape, 1991, captions at 2:19, https://archive.org/details/antigravity , both opened 2026-09-18"
         }
       ],
-      "cls": "institution"
+      "cls": "institution",
+      "cluster": "ic"
     },
     {
       "id": "the-black-vault",
@@ -1268,7 +1278,8 @@
           "source": "The Black Vault, 'FBI File: Bob Lazar's United Nuclear', https://www.theblackvault.com/documentarchive/fbi-file-bob-lazars-united-nuclear/ , opened 2026-09-18"
         }
       ],
-      "cls": "institution"
+      "cls": "institution",
+      "cluster": "media"
     }
   ],
   "edges": [

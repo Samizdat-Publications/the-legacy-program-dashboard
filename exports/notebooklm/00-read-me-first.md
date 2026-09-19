@@ -132,4 +132,4 @@ If you are listening rather than reading: file 15 is the honest one. It is where
 
 Two mechanical notes about the text. Em dashes in the stored data have been rendered as commas, or as the word to when they sat between two numbers, and runs of spaces have been collapsed. No wording has been changed, added or removed.
 
-Generated from board build 2026-09-19 (board source a682f271cc4b).
+Generated from board build 2026-09-19 (board source a6674d2616e7).

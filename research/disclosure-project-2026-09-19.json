@@ -808,7 +808,8 @@
           "text": "STATED INFERENCE, AND THE GOVERNING RULE OF THIS CLUSTER. This document is Tier 1 for the fact that a named person gave testimony on a stated date and Tier 2 at best for anything that testimony asserts. It is compiled and published by an interested party who also conducted the interviews. Any claim on any node in this cluster that cites this document for the content of a witness account is miscited.",
           "source": "Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D.; full OCR text read this session, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt , opened 2026-09-19"
         }
-      ]
+      ],
+      "cluster": "witness"
     },
     {
       "id": "national-press-club-2001",
@@ -1206,7 +1207,8 @@
           "text": "It controlled access to its own press events. Klass records that Greer refused him admission to a comparable press conference in 1997 and 'reportedly refused the request for admission by Fund For UFO Research officials' in 2001.",
           "source": "Philip J. Klass, Skeptics UFO Newsletter (SUN) #68, Summer 2001, 'Dr. Greer's Disclosure Conference Reveals His New Strategy'; PDF downloaded and converted to text in full this session, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2022/09/26195512/SUN-68-Summer-2001.pdf , opened 2026-09-19"
         }
-      ]
+      ],
+      "cluster": "witness"
     },
     {
       "id": "faa",
@@ -1244,7 +1246,8 @@
           "text": "The surviving file records the agency's own process in dated documents: FAA Form 8020-5 Aircraft Incident Record, FAA Form 3112, FAA Form 1600-32-1 interview notes, and transcripts of interviews with the three JAL crew members on 2, 5 and 15 January 1987.",
           "source": "The Black Vault document archive, 'Japanese Airlines JAL 1628 UFO Encounter, November 17, 1986', https://www.theblackvault.com/documentarchive/ufo-case-japanese-airlines-jal1628-november-17-1986/ , opened 2026-09-19"
         }
-      ]
+      ],
+      "cluster": "oversight"
     },
     {
       "id": "nasa",
@@ -1272,7 +1275,8 @@
           "text": "Philco-Ford, the contractor named in the Donna Hare claim, is documented as a NASA Manned Spacecraft Center contractor by Ford Motor Company's own corporate history, which records that it won the Mission Control Center contract at Houston in 1963 against IBM, RCA, Lockheed, Hughes Aircraft and AT&T.",
           "source": "Ford Motor Company corporate history, 'Ford, Philco and the Mission Control Center', https://corporate.ford.com/articles/history/ford-philco-and-the-mission-control-center.html , opened 2026-09-19"
         }
-      ]
+      ],
+      "cluster": "research"
     },
     {
       "id": "rendlesham-1980",
@@ -1320,7 +1324,8 @@
           "text": "STATED INFERENCE ABOUT A SOURCE. The Briefing Document's editorial header asserts that Warren's testimony is corroborated by Nick Pope, Lord Hill-Norton and Clifford Stone. Two of those three are witnesses inside the same document and one of them is Stone. The corroboration offered for this event by that source is internal to it.",
           "source": "Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D.; full OCR text read this session, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt , opened 2026-09-19"
         }
-      ]
+      ],
+      "cluster": "witness"
     },
     {
       "id": "l-vandenberg",
@@ -1353,7 +1358,8 @@
           "text": "The 1369th Photographic Squadron was based here: Robert Jacobs gives his post as 'Officer-in-Charge of Photo-optical Instrumentation in the 1369th Photographic Squadron at Vandenberg Air Force Base, California from May, 1963 to May, 1966', and the project engineer independently confirms that Jacobs 'was named the on-site commander by the 1369th Photo Squadron'.",
           "source": "Bob Jacobs, Ph.D., 'Deliberate Deception: The Big Sur UFO Filming', MUFON UFO Journal No. 249, January 1989, reprinted by NICAP, http://www.nicap.org/reports/bigsur2.htm , opened 2026-09-19"
         }
-      ]
+      ],
+      "cluster": "legacy"
     },
     {
       "id": "the-black-vault",
@@ -1386,7 +1392,8 @@
           "text": "It states its own reservation about the best-known witness to the case: 'Callahan's dramatic account is unconfirmed by other sources', while recording that he preserved copies of the data.",
           "source": "The Black Vault case file, 'The Vault Files: 1986 Alaska JAL Flight 1628', John Greenewald Jr., https://www.theblackvault.com/casefiles/the-vault-files-1986-alaska-jal-flight-1628/ , opened 2026-09-19"
         }
-      ]
+      ],
+      "cluster": "media"
     }
   ],
   "edges": [
