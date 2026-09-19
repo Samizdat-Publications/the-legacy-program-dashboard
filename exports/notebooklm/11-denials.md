@@ -1,6 +1,6 @@
 # The denials
 
-This board records official denials in full and sourced, treated as artefacts of the concealment effort rather than as counterweights to it, because a denial is a dated, signed, attributable statement and that makes it evidence about the denier. There are 219 distinct denials here, from 135 deniers, grouped by who did the denying.
+This board records official denials in full and sourced, treated as artefacts of the concealment effort rather than as counterweights to it, because a denial is a dated, signed, attributable statement and that makes it evidence about the denier. There are 226 distinct denials here, from 139 deniers, grouped by who did the denying.
 
 ## 'Manhattan Project 2.0' (alleged secrecy architecture)
 
@@ -11,6 +11,12 @@ This board records official denials in full and sourced, treated as artefacts of
 AARO's 2024 historical review states that it 'found no empirical evidence for claims that the USG and private companies have been reverse-engineering extraterrestrial technology,' that claims 'involving specific people, known locations, technological tests, and documents' are 'inaccurate,' that the narrative is 'in large part, the result of circular reporting from a group of individuals who believe this to be the case,' and that 'all the authentic programs have been properly notified and reported to Congress through the congressional defense and/or intelligence committees.' Pentagon spokesperson Sue Gough said the Department had found no 'verifiable information to substantiate claims that any programs regarding the possession or reverse-engineering of extraterrestrial materials have existed in the past or exist currently.' These are dated institutional denials whose own supporting documents concede a DHS compartment proposed to protect 'non-human biologics' and a 2021 IC access-program expansion made 'without sufficient justification' to protect UAP reverse-engineering.
 
 - **Denies: Non-Covert Action Programs alleged to carry waived reporting requirements** This is directed at Office of the Under Secretary of Defense for Intelligence, recorded as a undirected denial at Tier 2 named person on the record. The operative concealment mechanism on Gerb's account: full SAP security protocols combined with completely waived reporting and budgetary requirements, which would make congressional ignorance lawful rather than the product of active deception. Sources: UAP Gerb - 'Special Access Required' Vol.2, https://www.youtube.com/watch?v=6MsmPrpQqa8, dated 2026-06-19.
+
+## 341st Strategic Missile Wing histories, 1967-68 (FOIA release, 14 June 2001)
+
+341st Strategic Missile Wing histories, 1967-68 (FOIA release, 14 June 2001) is recorded as the denying party in 1 denial on this board.
+
+- **Denies: The release contains zero occurrences of Oscar, O Flight, 24 Mar and 25 Mar** This is directed at Malmstrom Oscar Flight claim, 24 March 1967, recorded as a association denial at Tier 1 documented. An association denial: the document does not deny the claim, it simply fails to contain it, and that tells against it. BOUNDED: the covering letter says the release is excerpts, not complete histories. Sources: 341st Strategic Missile Wing quarterly histories, 1 January 1967 to 31 March 1968, excerpts released to John Greenewald Jr by Headquarters 341st Space Wing on 14 June 2001 under his FOIA request of 9 May 2001, signed Marty S. Stephens; 88-page PDF on The Black Vault, text extracted and read in full by this session. Opened 19 September 2026, https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf, dated 2001-06-14.
 
 ## A Die-hard Issue: CIA's Role in the Study of UFOs, 1947-1990
 
@@ -158,6 +164,12 @@ Brigadeiro Octávio Júlio Moreira Lima is recorded as the denying party in 1 de
 CIA Prepublication Classification Review Board is recorded as the denying party in 1 denial on this board.
 
 - **Denies: A disclaimer disowning authentication is attached in advance to every cleared account** This is directed at Official Denial, recorded as a denial denial at Tier 1 documented. The mandatory disclaimer required on every approved writing states that nothing in it implies US Government authentication of the information, which is a formal, self-documented denial attached in advance to every cleared account. Sources: Prepublication Review Information, CIA reading-room document C06712956, approved for release 28 November 2018, https://archive.org/download/cia-readingroom-document-06712956/06712956_djvu.txt, dated 2018-11-28.
+
+## Capt. Eric D. Carlson
+
+Capt. Eric D. Carlson is recorded as the denying party in 1 denial on this board.
+
+- **Denies: The on-duty crew commander denies any UFO report reached the capsule** This is directed at Malmstrom AFB missile shutdowns, March 1967, recorded as a directed denial at Tier 2 named person on the record. A witness for the negative, carried at the same tier as the witnesses for the positive. His account reaches the public through his son, which is structurally the same kind of evidence as the accounts it contradicts. Sources: The UFO Chronicles, 'The Echo Flight ICBM Incident: Retired USAF Officer Confirms Receiving A UFO Report Just as the Missiles Failed', republishing Robert Hastings on his taped telephone conversations with Col. Walter Figel. Opened 19 September 2026, https://www.theufochronicles.com/2011/06/echo-flight-icbm-incident-retired-usaf.html, dated 2011-06-01; Tim Hebert, 'Echo Flight: The Makings of a UFO Myth: Disproving a UFO Case'. Opened 19 September 2026, https://timhebert2.blogspot.com/2011/08/disproving-ufo-case.html, dated 2011-08-01.
 
 ## Carve-Out Provision (DCSA relief from NISP oversight)
 
@@ -373,6 +385,13 @@ JASON is recorded as the denying party in 1 denial on this board.
 
 - **Denies: JASON found the underlying physics wrong two years before DIA published the DIRD** This is directed at High-Frequency Gravitational Wave Communications, recorded as a directed denial at Tier 1 documented. In 2008 JASON reviewed separate HFGW work Baker had done for the Office of the Director of National Intelligence and rejected it at the root: 'The proposed applications of the science of HFGW are fundamentally wrong,' and 'No foreign threat in HFGW is credible.' DIA published Baker's HFGW paper as an official Defense Intelligence Reference Document on 6 April 2010 regardless. This is the sharpest available evidence of AAWSAP's quality-control failure: the programme placed on a JWICS-hosted DIA reference series a topic the government's own senior scientific review body had already assessed as wrong and whose threat premise it had declared not credible. It is also the only case in the 38 where an external government review directly contradicts a published deliverable. Sources: Released DIRD, 'High-Frequency Gravitational Wave Communications', FOIA copy, cover page read 22 August 2026, https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_21-DIRD_High-Frequency_Gravitational_Wave_Communications.pdf, dated 2026-08-22; DIA FOIA Electronic Reading Room entry for this reference document, https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237646/, dated 2026-08-22; https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk, https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk; https://irp.fas.org/agency/dod/jason/gravwaves.pdf, https://irp.fas.org/agency/dod/jason/gravwaves.pdf
 
+## James Carlson
+
+James Carlson is recorded as the denying party in 2 denials on this board.
+
+- **Denies: Disputes that any Oscar Flight incident occurred** This is directed at Malmstrom Oscar Flight claim, 24 March 1967, recorded as a directed denial at Tier 2 named person on the record. He cites SAC UFO officer Col. Lewis D. Chase as finding no equipment failures or sighting on that date. The released unit history is silent, which supports neither man, though its silence is consistent with him. Sources: Metabunk, 'UFOs at Nuclear Weapons Sites (Salas, Malmstrom, Eagle Flight) - Skeptical Resources', carrying James Carlson's own titles and positions and the Nalty 1969 quotation. Opened 19 September 2026, https://www.metabunk.org/threads/ufos-at-nuclear-weapons-sites-salas-malmstrom-eagle-flight-skeptical-resources.3284/, dated 2026-09-19; 341st Strategic Missile Wing quarterly histories, 1 January 1967 to 31 March 1968, excerpts released to John Greenewald Jr by Headquarters 341st Space Wing on 14 June 2001 under his FOIA request of 9 May 2001, signed Marty S. Stephens; 88-page PDF on The Black Vault, text extracted and read in full by this session. Opened 19 September 2026, https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf, dated 2001-06-14.
+- **Denies: Sustained published dispute of the Malmstrom account** This is directed at Capt. Robert L. Salas, recorded as a directed denial at Tier 2 named person on the record. Carlson is the son of Echo Flight's crew commander. His two works were NOT OPENED by this board and his position is reported at one remove. Sources: Metabunk, 'UFOs at Nuclear Weapons Sites (Salas, Malmstrom, Eagle Flight) - Skeptical Resources', carrying James Carlson's own titles and positions and the Nalty 1969 quotation. Opened 19 September 2026, https://www.metabunk.org/threads/ufos-at-nuclear-weapons-sites-salas-malmstrom-eagle-flight-skeptical-resources.3284/, dated 2026-09-19.
+
 ## James R. Clapper Jr.
 
 James R. Clapper Jr. is recorded as the denying party in 2 denials on this board.
@@ -407,8 +426,9 @@ Kevin D. Randle is recorded as the denying party in 1 denial on this board.
 
 ## Kingston A. George
 
-Kingston A. George is recorded as the denying party in 1 denial on this board.
+Kingston A. George is recorded as the denying party in 2 denials on this board.
 
+- **Denies: The project engineer's published rebuttal of the UFO reading of the event** This is directed at Kingston A. George, 'The Big Sur UFO: An Identified Flying Object', Skeptical Inquirer, Winter 1993, recorded as a directed denial at Tier 1 documented. A directed denial by a named participant, and the model this board should want: it establishes the witness's unit, appointment, presence and debriefing while disputing what was on the film. Sources: Kingston A. George, 'The Big Sur UFO: An Identified Flying Object', Skeptical Inquirer Vol. 17, Winter 1993, pp. 180-187; Center for Inquiry PDF, read in full. Opened 19 September 2026, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf, dated 1993.
 - **Denies: Published point-by-point rebuttal by the project engineer, Skeptical Inquirer, Winter 1993** This is directed at Robert M. Jacobs, recorded as a directed denial at Tier 1 documented. TIER 1 DESPITE BEING A DENIAL, because it is a signed article in a named journal by a participant who cites his own dated 1964 staff study, publishes photographs of the team, and concedes a point to Jacobs on lasers. He answers six numbered conclusions and states that Jacobs 'was technically not authorized to view the pictures we were collecting'. Sources: Kingston A. George, 'The Big Sur UFO: An Identified Flying Object', Skeptical Inquirer, Vol. 17, No. 2, Winter 1993, pages 180 to 186; PDF downloaded and converted to text in full this session, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf, dated 1993.
 
 ## Kirkpatrick, 'Here's What I Learned as the U.S. Government's UFO Hunter' (Scientific American)
@@ -843,6 +863,12 @@ Thomas R. Wilson is recorded as the denying party in 1 denial on this board.
 
 - **Denies: Wilson denies the meeting and the substance attributed to him** This is directed at The Wilson-Davis Notes (16 October 2002), recorded as a directed denial at Tier 2 named person on the record. Wilson's denial is recorded as a primary artefact. It is irreconcilable with Davis's confirmation of authorship, and no agency has attempted to resolve it. Sources: The Debrief, 'Summer of the Saucers' (notes Wilson-Davis Memo raised at the 17 May 2022 House Intelligence UAP hearing), https://thedebrief.org/summer-of-the-saucers/, dated 2022-08-01.
 
+## Tim Hebert
+
+Tim Hebert is recorded as the denying party in 1 denial on this board.
+
+- **Denies: Published argument from the released paper that no UFO element is supported** This is directed at Malmstrom AFB missile shutdowns, March 1967, recorded as a directed denial at Tier 2 named person on the record. The most careful sceptical reading opened by this board, and the one whose ECP 1221 claim this board verified independently against the primary document. His argument from the unit history's silence has a documented counterexample at Wurtsmith. Sources: Tim Hebert, 'Echo Flight: The Makings of a UFO Myth: Disproving a UFO Case'. Opened 19 September 2026, https://timhebert2.blogspot.com/2011/08/disproving-ufo-case.html, dated 2011-08-01; Tim Hebert, 'Engineering Change Proposal 1221: The Air Force's Success Against UFO Attacks'. Opened 19 September 2026, http://timhebert.blogspot.com/2012/10/engineering-change-proposal-1221-air.html, dated 2012-10-01.
+
 ## Tom Mahood
 
 Tom Mahood is recorded as the denying party in 3 denials on this board.
@@ -894,13 +920,14 @@ United Kingdom Ministry of Defence is recorded as the denying party in 1 denial 
 
 ## United States Air Force
 
-United States Air Force is recorded as the denying party in 1 denial on this board.
+United States Air Force is recorded as the denying party in 2 denials on this board.
 
 ### Its stated denial posture
 
 The Air Force's posture is not silence but re-description, and it is the same shape in 1953, 1969 and 1985. In 1953 the regulation permitted public discussion of identified objects and forbade it for unidentified ones, which converts every open case into a non-statement. In 1969 the public collection channel was closed with a scientific justification while the foreign-materiel channel continued under separate authority. In 1985 the service declined to confirm a programme whose figures its own department had already published, on standing orders. In each case the denial is procedural rather than substantive: not 'this did not happen' but 'this is not a thing I am permitted to describe' -- which is why the board grades the Aurora edge as a directed denial with the Air Force named as its issuer, and why nothing here is graded as a denial of anomalous material, which the service has not been documented making in these records.
 
 - **Denies: the Air Force called Aurora classified after its own department published the figures** This is directed at Aurora (FY1986-FY1987 procurement line), recorded as a directed denial at Tier 1 documented. 'Reminded that Aurora has been put in the public domain by the Pentagon, an Air Force spokesman said his orders still were to say only: It's a classified program.' The denial is of disclosability, not of an anomalous craft -- the article's own sources point at Stealth. Sources: CIA-RDP90-00965R000807470050-4, Washington Post, 8 February 1985, https://archive.org/details/cia-readingroom-document-cia-rdp90-00965r000807470050-4, dated 1985-02-08.
+- **Denies: The Air Force's own history states the UFO rumours were disproven** This is directed at Malmstrom AFB missile shutdowns, March 1967, recorded as a directed denial at Tier 1 documented. A DIRECTED DENIAL BY THE BODY THAT OWNED THE EVENT, and the only occurrence of the words Unidentified Flying Object in 88 released pages. Quoted in full because each side quotes half: 'Rumors of Unidentified Flying Objects (UFO) around the area of Echo Flight during the time of fault were disproven. A Mobile Strike Team, which had checked all November Flight's LFs on the morning of 16 March 67, were questioned and stated that no unusual activity or sightings were observed.' NOTE WHAT THE EVIDENCE FOR THE DISPROOF IS: a team that had been at NOVEMBER Flight, not Echo Flight. The board records the non-sequitur without inflating it. Sources: 341st Strategic Missile Wing quarterly histories, 1 January 1967 to 31 March 1968, excerpts released to John Greenewald Jr by Headquarters 341st Space Wing on 14 June 2001 under his FOIA request of 9 May 2001, signed Marty S. Stephens; 88-page PDF on The Black Vault, text extracted and read in full by this session. Opened 19 September 2026, https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf, dated 2001-06-14.
 
 ## United States Department of Defense (secondary designation: Department of War)
 

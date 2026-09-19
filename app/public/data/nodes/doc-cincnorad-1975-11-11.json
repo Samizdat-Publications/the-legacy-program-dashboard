@@ -1,0 +1,118 @@
+{
+"A": 3,
+"C": 0,
+"D": 1,
+"band": null,
+"claims": [
+{
+"source": "NICAP, 'UFOs Intrude Into SAC Base Weapons Areas', quoting the CINCNORAD message of 11 November 1975, http://www.nicap.org/intsac.htm , opened 2026-09-19",
+"text": "The message's opening, as excerpted: 'Since 28 Oct 75 numerous reports of suspicious objects have been received at the NORAD CU; reliable military personnel at Loring AFB, Maine, Wurtsmith AFB, Michigan, Malmstrom AFB, Mt, Minot AFB, ND, and Canadian Forces Station, Falconbridge, Ontario, Canada have visually sighted suspicious objects.'",
+"tier": 1
+},
+{
+"source": "NICAP, 'Wurtsmith and Others', http://www.nicap.org/articles/CI-Wurtsmith.htm , opened 2026-09-19",
+"text": "The message also records a Malmstrom report the 24th NORAD Region log corroborates in kind: 'Malmstrom Montana report an object which sounded like a jet aircraft. FAA advised there were no jet aircraft in the vicinity.'",
+"tier": 1
+},
+{
+"source": "NICAP, http://www.nicap.org/intsac.htm and http://www.nicap.org/articles/CI-Wurtsmith.htm , both opened 2026-09-19",
+"text": "A NORAD press release of 13 November 1975 from Sudbury, Ontario records that two F-106 aircraft of the Air National Guard's 171st Fighter Interceptor Squadron at Selfridge ANGB, Michigan were scrambled in connection with the Falconbridge reports. Lt Col Brian Wooding, Control Centre Director at North Bay, and Capt. Gordon Hilchie, Director of Public Affairs for the 22nd NORAD Region, are named.",
+"tier": 2
+}
+],
+"cls": "document",
+"cluster": "legacy",
+"connections": [
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "1975-11-11",
+"dateStart": "1975-11-11",
+"direction": "in",
+"edgeLabel": "Originated by the Commander-in-Chief, NORAD",
+"id": "norad-northcom",
+"l0": true,
+"label": "NORAD and US Northern Command",
+"note": "Type research: originator of the message, not custodian of anything.",
+"sources": [
+{
+"date": "1975-11-11",
+"name": "NICAP, 'UFOs Intrude Into SAC Base Weapons Areas, Northern U.S., October-November 1975', quoting the CINCNORAD four-part message of 11 November 1975 and the Loring teletype to the NMCC. Opened 19 September 2026",
+"url": "http://www.nicap.org/intsac.htm"
+}
+],
+"tier": "B",
+"type": "research"
+},
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": "1975-11-11",
+"dateStart": "1975-11-11",
+"direction": "out",
+"edgeLabel": "The command's own summary of the sequence, naming five installations",
+"id": "sac-overflights-1975",
+"l0": true,
+"label": "1975 SAC Nuclear-Base Overflights (Loring, Wurtsmith, Malmstrom, Minot)",
+"note": "Only excerpts have been opened; the four parts have not been seen in full.",
+"sources": [
+{
+"date": "1975-11-11",
+"name": "NICAP, 'UFOs Intrude Into SAC Base Weapons Areas, Northern U.S., October-November 1975', quoting the CINCNORAD four-part message of 11 November 1975 and the Loring teletype to the NMCC. Opened 19 September 2026",
+"url": "http://www.nicap.org/intsac.htm"
+}
+],
+"tier": "A",
+"type": "investigative"
+}
+],
+"coords": null,
+"dateEnd": "1975-11-11",
+"dateStart": "1975-11-11",
+"deg": 2,
+"denials": [],
+"desc": "THE MESSAGE THAT TIES THE 1975 SEQUENCE TOGETHER IN THE COMMAND'S OWN VOICE. On 11 November 1975 the Commander-in-Chief of North American Air Defense Command sent a four-part message to NORAD units summarising the events of the preceding fortnight. Its opening is the single most quoted sentence in the 1975 material and it is worth quoting in full because of the adjective it uses about its own witnesses. The message names five installations across two countries and, unlike the Loring traffic, it does not call the objects helicopters. It calls them suspicious objects, and it says its sources were reliable military personnel. It also names Minot AFB, where the 24th NORAD Region's own log nine days earlier had named Minot Air Force Station, which is the one internal inconsistency in the 1975 record that this board has found and cannot resolve.",
+"domains": [
+"nuclear-witnesses-2026-09-19"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "1",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "doc-cincnorad-1975-11-11",
+"l0": false,
+"label": "CINCNORAD four-part message, 11 November 1975",
+"locLabel": null,
+"members": null,
+"short": "CINCNORAD four-part message, 11 November 1975",
+"sources": [
+{
+"date": "1975-11-11",
+"name": "NICAP, 'UFOs Intrude Into SAC Base Weapons Areas, Northern U.S., October-November 1975', quoting the CINCNORAD four-part message of 11 November 1975 and the Loring teletype to the NMCC. Opened 19 September 2026",
+"url": "http://www.nicap.org/intsac.htm"
+},
+{
+"date": "1979-01-18",
+"name": "NICAP, 'Wurtsmith and Others', citing SSgt Paul J. Cahill's Research Record of Events of 17 January 1979, Capt. Myron Taylor's Memo for the Record of 18 January 1979, and NORAD, NMCC and Blue Book entries for Minot, Grand Forks, Cannon, Eglin and Fort Ritchie. Opened 19 September 2026",
+"url": "http://www.nicap.org/articles/CI-Wurtsmith.htm"
+}
+],
+"sub": "Commander-in-Chief NORAD's summary message to NORAD units naming the five installations where reliable military personnel had visually sighted suspicious objects",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 813 of 1159, score 21). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A3/D1.",
+"timeline": [
+{
+"date": "1975-11-11",
+"id": "tl-1975-11-11-cincnorad-message",
+"label": "CINCNORAD summarises the sequence across five installations",
+"precision": "day",
+"strand": "program",
+"text": "'Since 28 Oct 75 numerous reports of suspicious objects have been received at the NORAD CU; reliable military personnel at Loring AFB, Maine, Wurtsmith AFB, Michigan, Malmstrom AFB, Mt, Minot AFB, ND, and Canadian Forces Station, Falconbridge, Ontario, Canada have visually sighted suspicious objects.' The message names Minot AFB where the 24th NORAD Region's own log had named Minot Air Force Station the day before.",
+"tier": "A"
+}
+]
+}

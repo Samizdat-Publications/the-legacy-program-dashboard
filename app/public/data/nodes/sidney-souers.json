@@ -87,7 +87,7 @@
 "direction": "out",
 "edgeLabel": "Named as a panel member inside the disputed document",
 "id": "mj-12-documents",
-"l0": true,
+"l0": false,
 "label": "MJ-12 / Operation Majestic-12 Documents",
 "note": "Souers is named as an MJ-12 panel member in the Eisenhower Briefing Document as read aloud on Area 52 DEBRIEFED, corpus map 02 file 02. No record opened for this node connects him to unidentified objects, recovered material or any such panel; the offices are the reason he is on the board.",
 "sources": [
@@ -179,7 +179,7 @@
 "status": "former",
 "sub": "First Director of Central Intelligence, Central Intelligence Group, 1946; first Executive Secretary, National Security Council, 1947-1950",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 301 of 1125, score 38). 4 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D1.",
+"tierRationale": "Re-graded B on a global pass (rank 308 of 1159, score 38). 4 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D1.",
 "timeline": [
 {
 "date": "1946-01-22",

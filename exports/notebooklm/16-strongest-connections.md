@@ -1,6 +1,6 @@
 # The strongest connections on the board
 
-The board holds 2661 hand written links between its nodes. These are the hundred that combine the best evidenced link tier with the two best placed and most connected nodes at either end, each told as a short paragraph with the note somebody wrote when they made the link and the sources it rests on.
+The board holds 2738 hand written links between its nodes. These are the hundred that combine the best evidenced link tier with the two best placed and most connected nodes at either end, each told as a short paragraph with the note somebody wrote when they made the link and the sources it rests on.
 
 ## 1. All-domain Anomaly Resolution Office (AARO) and David Charles Grusch
 
@@ -562,7 +562,15 @@ The move placed the former AATIP director inside the private company then acquir
 
 Sources: SEC EDGAR, TTSA Form 1-K, https://www.sec.gov/Archives/edgar/data/1710274/000114420418023727/tv492460_partii.htm, dated 2018-04-30; SEC EDGAR filing index for To The Stars Inc. (CIK 0001710274), https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001710274&type=1-K&dateb=&owner=include&count=40, dated 2026-04-29; House Oversight hearing transcript, 'Unidentified Anomalous Phenomena: Exposing the Truth' (CHRG-118hhrg57440), https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm, dated 2024-11-13.
 
-## 71. Central Intelligence Agency and National Archives Unidentified Anomalous Phenomena Records Collection
+## 71. Project Blue Book and United States Air Force
+
+Project Blue Book (program, board tier A, 28 connections) is joined to United States Air Force (institution, board tier A, 27 connections) by a custody link recorded at Tier 1 documented. The link is labelled: BLUE BOOK records transferred to the National Archives as 94 rolls of microfilm. It is dated 1976.
+
+The records were permanently transferred to NARA and are held as 94 rolls of 35mm microfilm, T-1206.
+
+Sources: National Archives - Unidentified Flying Objects / Project BLUE BOOK, https://www.archives.gov/research/military/air-force/ufos, dated 2026-08-12.
+
+## 72. Central Intelligence Agency and National Archives Unidentified Anomalous Phenomena Records Collection
 
 Central Intelligence Agency (institution, board tier A, 41 connections) is joined to National Archives Unidentified Anomalous Phenomena Records Collection (institution, board tier A, 13 connections) by a denial link recorded at Tier 1 documented. The link is labelled: Produced no records for the first statutory UAP transfer. It is dated 2025-04-24.
 
@@ -570,7 +578,7 @@ NARA's 24 April 2025 release named only ODNI, OSD, the FAA and the Nuclear Regul
 
 Sources: National Archives press release nr25-07, https://www.archives.gov/press/press-releases/2025/nr25-07, dated 2025-04-24.
 
-## 72. Central Intelligence Agency and Robertson Panel
+## 73. Central Intelligence Agency and Robertson Panel
 
 Central Intelligence Agency (institution, board tier A, 41 connections) is joined to Robertson Panel (program, board tier A, 13 connections) by a funding link recorded at Tier 1 documented. The link is labelled: CIA convened and sponsored the panel, and concealed that sponsorship. It is dated 1953.
 
@@ -578,7 +586,7 @@ The panel was convened by the Office of Scientific Intelligence. The CIA's own h
 
 Sources: Haines, CIA's Role in the Study of UFOs, 1947-1990, https://www.cia.gov/resources/csi/studies-in-intelligence/studies-in-intelligence-1997/cias-role-in-the-study-of-ufos-1947-1990/, dated 1997-01-01; Robertson Panel report, Tab A of the Durant record (The Black Vault scan, CIA-RDP81R00560R000100030027-0), https://documents.theblackvault.com/documents/ufos/robertsonpanelreport.pdf, dated 1953-01-17.
 
-## 73. The 38 Defense Intelligence Reference Documents (DIRDs) and Christopher C. 'Kit' Green
+## 74. The 38 Defense Intelligence Reference Documents (DIRDs) and Christopher C. 'Kit' Green
 
 The 38 Defense Intelligence Reference Documents (DIRDs) (document, board tier A, 41 connections) is joined to Christopher C. 'Kit' Green (person, board tier A, 13 connections) by a programmatic link recorded at Tier 1 documented. The link is labelled: authored the human biological effects DIRD. It is dated 2008 to 2010.
 
@@ -586,7 +594,7 @@ Item 12, 'Field Effects on Biological Tissues', released as 'Anomalous Acute and
 
 Sources: DIRD 26, https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_26-DIRD_Anomalous_Acute_and_Subacute_Field_Effects_on_Human_Biological_Tissues.pdf, dated 2010-01-01.
 
-## 74. Eric Burlison and UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)
+## 75. Eric Burlison and UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)
 
 Eric Burlison (person, board tier A, 28 connections) is joined to UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA) (legislation, board tier A, 26 connections) by a legislative link recorded at Tier 1 documented. The link is labelled: Burlison could not get the UAP Disclosure Act onto the House NDAA in 2024 or 2025. It is dated 2025.
 
@@ -594,7 +602,7 @@ Eric Burlison (person, board tier A, 28 connections) is joined to UAP Disclosure
 
 Sources: U.S. GPO, Hearing transcript, Serial No. 119-44 (CHRG-119hhrg61718), https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm, dated 2025-09-09.
 
-## 75. House Oversight joint hearing, 13 November 2024 - 'Unidentified Anomalous Phenomena: Exposing the Truth' and Luis D. Elizondo
+## 76. House Oversight joint hearing, 13 November 2024 - 'Unidentified Anomalous Phenomena: Exposing the Truth' and Luis D. Elizondo
 
 House Oversight joint hearing, 13 November 2024 - 'Unidentified Anomalous Phenomena: Exposing the Truth' (event, board tier A, 16 connections) is joined to Luis D. Elizondo (person, board tier A, 38 connections) by a institutional link recorded at Tier 1 documented. The link is labelled: Elizondo's testimony converted the contractor transfer story into a congressional record. It is dated 2024.
 
@@ -602,7 +610,7 @@ His confirmation that the transfer 'was blocked' is the single most load-bearing
 
 Sources: House Oversight hearing transcript, 'Unidentified Anomalous Phenomena: Exposing the Truth' (CHRG-118hhrg57440), https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm, dated 2024-11-13.
 
-## 76. Defense Intelligence Agency and Office of the Director of National Intelligence
+## 77. Defense Intelligence Agency and Office of the Director of National Intelligence
 
 Defense Intelligence Agency (institution, board tier A, 35 connections) is joined to Office of the Director of National Intelligence (institution, board tier A, 18 connections) by a institutional link recorded at Tier 1 documented. The link is labelled: Named contributor to the 2021 ODNI Preliminary Assessment on UAP. It is dated 2021-06-25.
 
@@ -610,21 +618,13 @@ ODNI's 25 June 2021 assessment names DIA among the contributing elements, establ
 
 Sources: ODNI, Preliminary Assessment: Unidentified Aerial Phenomena, https://archive.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf, dated 2021-06-25.
 
-## 77. Luis D. Elizondo and New York Times, 'Glowing Auras and Black Money: The Pentagon's Mysterious U.F.O. Program'
+## 78. Luis D. Elizondo and New York Times, 'Glowing Auras and Black Money: The Pentagon's Mysterious U.F.O. Program'
 
 Luis D. Elizondo (person, board tier A, 38 connections) is joined to New York Times, 'Glowing Auras and Black Money: The Pentagon's Mysterious U.F.O. Program' (event, board tier A, 14 connections) by a investigative link recorded at Tier 1 documented. The link is labelled: Named him as the official who ran AATIP. It is dated 2017.
 
 The article identified him, quoted his resignation letter and reported his move to TTSA, the act that made him the Department's problem.
 
 Sources: New York Times (NICAP copy), https://www.nicap.org/reports2/2004_20171216_NYTArt_1.pdf, dated 2017-12-16.
-
-## 78. Project Blue Book and United States Air Force
-
-Project Blue Book (program, board tier A, 27 connections) is joined to United States Air Force (institution, board tier A, 25 connections) by a custody link recorded at Tier 1 documented. The link is labelled: BLUE BOOK records transferred to the National Archives as 94 rolls of microfilm. It is dated 1976.
-
-The records were permanently transferred to NARA and are held as 94 rolls of 35mm microfilm, T-1206.
-
-Sources: National Archives - Unidentified Flying Objects / Project BLUE BOOK, https://www.archives.gov/research/military/air-force/ufos, dated 2026-08-12.
 
 ## 79. Luis D. Elizondo and Susan Gough
 

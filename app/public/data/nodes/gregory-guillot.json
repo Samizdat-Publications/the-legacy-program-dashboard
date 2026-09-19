@@ -109,7 +109,7 @@
 "direction": "out",
 "edgeLabel": "Commander, NORAD and USNORTHCOM from February 2024",
 "id": "norad-northcom",
-"l0": false,
+"l0": true,
 "label": "NORAD and US Northern Command",
 "note": "Guillot's public statements on Langley and on the 2026 incursions are the command's authoritative position.",
 "sources": [
@@ -175,7 +175,7 @@
 "status": "active",
 "sub": "General, USAF; Commander, NORAD and US Northern Command (Feb 2024- )",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 684 of 1125, score 24). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A3/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 697 of 1159, score 24). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A3/D2.",
 "timeline": [
 {
 "date": "2024-10-30",

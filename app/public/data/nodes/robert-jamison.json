@@ -1,0 +1,191 @@
+{
+"A": 1,
+"C": 0,
+"D": 2,
+"affiliations": [],
+"age": null,
+"band": null,
+"chronology": [],
+"claims": [
+{
+"source": "Robert Hastings, 'The UFOs-Nukes Connection Press Conference', https://ufohastings.com/articles/the-ufos-nukes-connection-press-conference , opened 2026-09-19",
+"text": "Robert Jamison was a US Air Force 1st Lieutenant commanding an ICBM Combat Targeting Team at Malmstrom AFB, Montana, from January 1965 to October 1967, then a missile targeting instructor at Chanute AFB, Illinois, and separated from active duty as a Captain in July 1972. He executed an affidavit and appeared at the UFO-Nukes Connection press conference at the National Press Club on 27 September 2010.",
+"tier": 2
+},
+{
+"source": "Robert Hastings, 'The Echo and Oscar Flight Incidents', https://www.ufohastings.com/articles/the-echo-and-oscar-flight-incidents , opened 2026-09-19",
+"text": "Robert Hastings dates the Oscar Flight incident to 24 March 1967, eight days after Echo Flight, and gives Capt. Jamison's information as the basis for that date. The separation of the two events rests on this recollection.",
+"tier": 2
+},
+{
+"source": "Full-text search of the 14 June 2001 FOIA release, https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf , opened 2026-09-19",
+"text": "Nothing in the 88 released pages of the 341st Strategic Missile Wing histories corroborates a second March 1967 shutdown. A full-text search of the release returns zero occurrences of 'Oscar', zero of 'O Flight', zero of '24 Mar' and zero of '25 Mar'.",
+"tier": 1
+},
+{
+"source": "Derived by this board from the register in research/leads/verified-nuclear-witnesses-2026-09-19.md, which lists every nuclear-facility witness found in the 19 September 2026 pass together with the route by which each account reached the public",
+"text": "SECTION 2a PROVENANCE. No dated public statement by Robert Jamison about these events, made before Robert Hastings contacted him, was identified by the pass of 19 September 2026. He first appears in the public record at the 2010 National Press Club event, with an affidavit executed for that event.",
+"tier": 3
+}
+],
+"cls": "person",
+"cluster": "witness",
+"conflicts": [
+"His recollection supplies the date that separates Oscar Flight from Echo Flight, and that date is not corroborated by any released Air Force document. James Carlson disputes that any Oscar Flight incident occurred at all."
+],
+"connections": [
+{
+"claimTier": 2,
+"cls": "location",
+"dateEnd": "1967-10",
+"dateStart": "1965-01",
+"direction": "out",
+"edgeLabel": "ICBM combat targeting team commander at Malmstrom, 1965 to 1967",
+"id": "l-malmstrom",
+"l0": false,
+"label": "Malmstrom AFB and Minuteman Missile Fields, Montana",
+"note": "Base and dates are his own, from his affidavit as published by Hastings; no service record has been opened.",
+"sources": [
+{
+"date": "2010-09-27",
+"name": "Robert Hastings, 'The UFOs-Nukes Connection Press Conference', his own account of the 27 September 2010 National Press Club event, with the roster, units and affidavit list. Opened 19 September 2026",
+"url": "https://ufohastings.com/articles/the-ufos-nukes-connection-press-conference"
+}
+],
+"tier": "B",
+"type": "geographic"
+},
+{
+"claimTier": 2,
+"cls": "event",
+"dateEnd": "2010-09-27",
+"dateStart": "1967-03-24",
+"direction": "out",
+"edgeLabel": "Retargeting team commander; the source of the 24 March 1967 date",
+"id": "malmstrom-oscar-flight-1967",
+"l0": true,
+"label": "Malmstrom Oscar Flight claim, 24 March 1967",
+"note": "HIS RECOLLECTION IS THE SOLE BASIS FOR THE 24 MARCH 1967 DATE THAT SEPARATES OSCAR FLIGHT FROM ECHO FLIGHT, AND IT REACHED THE PUBLIC THROUGH ROBERT HASTINGS. That separation is what removes Echo Flight's Tier 1 documentation from the Oscar Flight claim.",
+"sources": [
+{
+"date": "2026-09-19",
+"name": "Robert Hastings, 'The Echo and Oscar Flight Incidents', separating the two events and dating Oscar Flight to 24 March 1967 on Capt. Robert Jamison's information. Opened 19 September 2026",
+"url": "https://www.ufohastings.com/articles/the-echo-and-oscar-flight-incidents"
+},
+{
+"date": "2010-09-27",
+"name": "Robert Hastings, 'The UFOs-Nukes Connection Press Conference', his own account of the 27 September 2010 National Press Club event, with the roster, units and affidavit list. Opened 19 September 2026",
+"url": "https://ufohastings.com/articles/the-ufos-nukes-connection-press-conference"
+}
+],
+"tier": "B",
+"type": "witness-chain"
+},
+{
+"claimTier": 2,
+"cls": "event",
+"dateEnd": "2010-09-27",
+"dateStart": "2010-09-27",
+"direction": "out",
+"edgeLabel": "Spoke on the record with a signed affidavit",
+"id": "npc-2010-ufos-nukes",
+"l0": true,
+"label": "UFO-Nukes Connection press conference, National Press Club, 27 September 2010",
+"note": "Named on Hastings's own page among the six men said to have executed affidavits.",
+"sources": [
+{
+"date": "2010-09-27",
+"name": "Robert Hastings, 'The UFOs-Nukes Connection Press Conference', his own account of the 27 September 2010 National Press Club event, with the roster, units and affidavit list. Opened 19 September 2026",
+"url": "https://ufohastings.com/articles/the-ufos-nukes-connection-press-conference"
+}
+],
+"tier": "B",
+"type": "witness-chain"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2010-09-27",
+"dateStart": "2010",
+"direction": "in",
+"edgeLabel": "Interviewed him; his recollection supplies the 24 March 1967 date",
+"id": "robert-hastings",
+"l0": false,
+"label": "Robert L. Hastings",
+"note": "ONE OF FOUR EDGES THAT FORM THE CIRCULAR-REPORTING CLUSTER IN THIS DOMAIN, and the most consequential of them: the date that separates Oscar Flight from Echo Flight comes through this edge.",
+"sources": [
+{
+"date": "2026-09-19",
+"name": "Robert Hastings, 'The Echo and Oscar Flight Incidents', separating the two events and dating Oscar Flight to 24 March 1967 on Capt. Robert Jamison's information. Opened 19 September 2026",
+"url": "https://www.ufohastings.com/articles/the-echo-and-oscar-flight-incidents"
+},
+{
+"date": "2010-09-27",
+"name": "Robert Hastings, 'The UFOs-Nukes Connection Press Conference', his own account of the 27 September 2010 National Press Club event, with the roster, units and affidavit list. Opened 19 September 2026",
+"url": "https://ufohastings.com/articles/the-ufos-nukes-connection-press-conference"
+}
+],
+"tier": "B",
+"type": "research"
+}
+],
+"date": "2010-09-27",
+"dateEnd": null,
+"dateStart": "2010-09-27",
+"deg": 4,
+"denials": [],
+"domains": [
+"nuclear-witnesses-2026-09-19"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "2",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "robert-jamison",
+"instId": null,
+"l0": false,
+"label": "Capt. Robert Jamison",
+"loc": "Great Falls, Montana",
+"locId": "l-malmstrom",
+"members": null,
+"narrative": "Robert Jamison matters far more to the structure of the Malmstrom case than his profile suggests, and the reason is a date. He commanded an ICBM combat targeting team at Malmstrom from January 1965 to October 1967, and he describes being called out to retarget missiles after a second flight went off alert in March 1967, separately from the Echo Flight event of the sixteenth. It is his recollection that Robert Hastings gives as the basis for placing the Oscar Flight incident on 24 March 1967, eight days after Echo Flight. That separation is load-bearing for the whole cluster: for years the Oscar Flight account was told as part of the same 16 March event, which let Echo Flight's Tier 1 documentation be read as corroborating Salas. Once the two are separated, Echo Flight's paper no longer touches Oscar Flight and the Oscar Flight claim stands or falls on testimony alone. The board should hold that plainly: the fact that rescues the Oscar Flight account from the unit history's silence was supplied by a witness the same interviewer found, and no pre-contact statement by Jamison has been identified. He executed an affidavit and spoke on the record at the National Press Club on 27 September 2010, which is the dated artefact that fixes when the claim was made.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Capt. Robert Jamison",
+"sources": [
+{
+"date": "2010-09-27",
+"name": "Robert Hastings, 'The UFOs-Nukes Connection Press Conference', his own account of the 27 September 2010 National Press Club event, with the roster, units and affidavit list. Opened 19 September 2026",
+"url": "https://ufohastings.com/articles/the-ufos-nukes-connection-press-conference"
+},
+{
+"date": "2026-09-19",
+"name": "Robert Hastings, 'The Echo and Oscar Flight Incidents', separating the two events and dating Oscar Flight to 24 March 1967 on Capt. Robert Jamison's information. Opened 19 September 2026",
+"url": "https://www.ufohastings.com/articles/the-echo-and-oscar-flight-incidents"
+},
+{
+"date": "2001-06-14",
+"name": "341st Strategic Missile Wing quarterly histories, 1 January 1967 to 31 March 1968, excerpts released to John Greenewald Jr by Headquarters 341st Space Wing on 14 June 2001 under his FOIA request of 9 May 2001, signed Marty S. Stephens; 88-page PDF on The Black Vault, text extracted and read in full by this session. Opened 19 September 2026",
+"url": "https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf"
+},
+{
+"date": "2026-09-19",
+"name": "Derived by this board from the register in research/leads/verified-nuclear-witnesses-2026-09-19.md, which lists every nuclear-facility witness found in the 19 September 2026 pass together with the route by which each account reached the public",
+"url": ""
+}
+],
+"status": "unknown",
+"sub": "USAF 1Lt, ICBM combat targeting team commander, Malmstrom AFB, January 1965 to October 1967; later missile targeting instructor, Chanute AFB; separated as Captain, July 1972",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 861 of 1159, score 19). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.",
+"timeline": [],
+"unexplainedResidual": null,
+"unverified": [
+"No service record, duty roster or targeting team assignment document has been opened for Jamison. His dates of service and duty position are his own, as published by Robert Hastings.",
+"The affidavit itself was not opened by this session; its existence is asserted on Hastings's own page."
+]
+}

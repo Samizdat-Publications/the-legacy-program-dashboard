@@ -265,7 +265,7 @@
 "url": "https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt"
 }
 ],
-"tier": "B",
+"tier": "A",
 "type": "witness-chain"
 },
 {
@@ -410,7 +410,7 @@
 "cls": "person",
 "id": "robert-jacobs",
 "label": "Robert M. Jacobs",
-"tier": "B"
+"tier": "A"
 },
 {
 "cls": "person",
@@ -429,7 +429,7 @@
 ],
 "sub": "Roughly 500 page compilation prepared by Steven M. Greer MD and Theodore C. Loder III PhD, printing summarised witness testimony",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 200 of 1125, score 45). 12 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 205 of 1159, score 45). 12 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D3.",
 "timeline": [
 {
 "date": "2000-09",

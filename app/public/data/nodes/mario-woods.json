@@ -1,0 +1,167 @@
+{
+"A": 0,
+"C": 0,
+"D": 3,
+"affiliations": [],
+"age": null,
+"band": null,
+"chronology": [],
+"claims": [
+{
+"source": "Jesse Michels, video rjUdn6FklAU, 7 September 2026, at 00:00:00-00:00:09 and 00:07:05-00:07:31; triaged at research/leads/michels-rjUdn6FklAU-triage-2026-09-19.md , https://www.youtube.com/watch?v=rjUdn6FklAU , opened 2026-09-19",
+"text": "Mario Woods claims that on 18 November 1977 at about 0100, on an 1800 to 0600 shift, he and Michael Johnson of the 44th Missile Security Squadron responded to an alarm at Launch Facility November-5 in the Ellsworth AFB Minuteman field, encountered a large bright object hovering under about fifty feet above the site and four humanoid figures, were taken aboard and physically examined, lost several hours, and were recovered about eight miles away beside a reservoir dam and interrogated separately on base.",
+"tier": 2
+},
+{
+"source": "Jesse Michels, video rjUdn6FklAU, at 00:20:48 and 00:01:46-00:02:01, https://www.youtube.com/watch?v=rjUdn6FklAU , opened 2026-09-19",
+"text": "Woods states he has been telling the account publicly since 1996 and the episode claims more than forty media appearances for him, including History Channel, Discovery+ and NewsNation, in which he repeatedly named Michael Johnson on air and asked audiences to help find him.",
+"tier": 2
+},
+{
+"source": "The Political Saucer, 12 September 2026, https://politicalsaucer.substack.com/p/the-night-at-november-5-two-missile , opened 2026-09-19",
+"text": "A second, independent write-up of the case appeared on 12 September 2026, five days after the Michels episode, naming both men and the 44th Missile Security Squadron. Its body is paywalled and only its header was read.",
+"tier": 2
+},
+{
+"source": "Derived by this board from the register in research/leads/verified-nuclear-witnesses-2026-09-19.md, which lists every nuclear-facility witness found in the 19 September 2026 pass together with the route by which each account reached the public",
+"text": "NO SERVICE, EMPLOYMENT OR CIVIL RECORD PLACING MARIO WOODS AT ELLSWORTH AFB, IN THE 44TH MISSILE SECURITY SQUADRON, OR ON DUTY ON THE NIGHT OF 17 TO 18 NOVEMBER 1977 HAS BEEN PRODUCED BY ANY PARTY OR OPENED BY THIS BOARD. No Air Force record of the claimed event has ever been produced either. The node exists on the dated artefact of the claim, not on a record of the thing claimed.",
+"tier": 3
+},
+{
+"source": "Derived by this board from the register in research/leads/verified-nuclear-witnesses-2026-09-19.md, which lists every nuclear-facility witness found in the 19 September 2026 pass together with the route by which each account reached the public",
+"text": "SECTION 2a PROVENANCE. Woods is the originating claimant and was not found by anybody: he has been telling this account under his own name since 1996. That is the opposite of his co-claimant's provenance, and it is also the reason the two accounts cannot be treated as independent, because his published telling named Johnson and described the event for thirty years before Johnson was located.",
+"tier": 3
+}
+],
+"cls": "person",
+"cluster": "witness",
+"conflicts": [
+"The durations given for the missing time are mutually inconsistent within a single episode: nine hours in the video description, five hours in the narration at 00:01:02 and five and a half at 00:55:39. The elapsed-year figures likewise: fifty in the title, forty-nine in the narration at 00:04:08, forty-eight and a half from Woods at 00:08:07. No figure is adopted here.",
+"The production's narration describes the object as a massive glowing red orb; Woods's and Johnson's waking descriptions do not match that, and the narration is the publisher's voice rather than a witness's."
+],
+"connections": [
+{
+"claimTier": 2,
+"cls": "event",
+"dateEnd": "2026-09-07",
+"dateStart": "1977-11-18",
+"direction": "out",
+"edgeLabel": "The originating claimant, public since 1996",
+"id": "ellsworth-1977",
+"l0": false,
+"label": "Ellsworth AFB Launch Facility November-5 claim, 18 November 1977",
+"note": "PUBLIC SINCE 1996 UNDER HIS OWN NAME, WITH MORE THAN FORTY CLAIMED MEDIA APPEARANCES IN WHICH HE NAMED MICHAEL JOHNSON ON AIR AND ASKED AUDIENCES TO FIND HIM. That is both why the 2026 reunion was possible and why the two accounts cannot be treated as independent. NO SERVICE RECORD HAS BEEN PRODUCED.",
+"sources": [
+{
+"date": "2026-09-07",
+"name": "Jesse Michels, video rjUdn6FklAU, published 7 September 2026, runtime 2:47:21, auto-generated captions; timestamped triage at research/leads/michels-rjUdn6FklAU-triage-2026-09-19.md. Opened 19 September 2026",
+"url": "https://www.youtube.com/watch?v=rjUdn6FklAU"
+},
+{
+"date": "2026-09-12",
+"name": "The Political Saucer, 'The Night at November-5: Two Missile Guards, Nine Lost Hours, and the Nuclear Security Incident the Air Force Never Explained', 12 September 2026; header read, body paywalled. Opened 19 September 2026",
+"url": "https://politicalsaucer.substack.com/p/the-night-at-november-5-two-missile"
+}
+],
+"tier": "C",
+"type": "witness-chain"
+},
+{
+"claimTier": 2,
+"cls": "location",
+"dateEnd": "1983",
+"dateStart": "1975",
+"direction": "out",
+"edgeLabel": "Claimed security policeman, 44th Missile Security Squadron",
+"id": "l-ellsworth",
+"l0": false,
+"label": "Ellsworth AFB, South Dakota",
+"note": "Claimed service 1975 to 1983 on the 2026 broadcast. NO SERVICE RECORD HAS BEEN PRODUCED BY ANY PARTY.",
+"sources": [
+{
+"date": "2026-09-07",
+"name": "Jesse Michels, video rjUdn6FklAU, published 7 September 2026, runtime 2:47:21, auto-generated captions; timestamped triage at research/leads/michels-rjUdn6FklAU-triage-2026-09-19.md. Opened 19 September 2026",
+"url": "https://www.youtube.com/watch?v=rjUdn6FklAU"
+}
+],
+"tier": "C",
+"type": "geographic"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2026-09-07",
+"dateStart": "2026-06-26",
+"direction": "in",
+"edgeLabel": "Reunited on a recorded call on 26 June 2026 after forty-nine years",
+"id": "michael-johnson",
+"l0": false,
+"label": "Michael Johnson",
+"note": "THIS IS NOT TWO INDEPENDENT WITNESSES MEETING. One man's account had been public for thirty years and named the other; the other was found by the party publishing the result and was given the site, the date and the category within ninety seconds of the call beginning.",
+"sources": [
+{
+"date": "2026-09-07",
+"name": "Jesse Michels, video rjUdn6FklAU, published 7 September 2026, runtime 2:47:21, auto-generated captions; timestamped triage at research/leads/michels-rjUdn6FklAU-triage-2026-09-19.md. Opened 19 September 2026",
+"url": "https://www.youtube.com/watch?v=rjUdn6FklAU"
+}
+],
+"tier": "C",
+"type": "witness-chain"
+}
+],
+"date": "1977-11-18",
+"dateEnd": null,
+"dateStart": "1977-11-18",
+"deg": 3,
+"denials": [],
+"domains": [
+"nuclear-witnesses-2026-09-19"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "1",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "mario-woods",
+"instId": null,
+"l0": false,
+"label": "Mario Woods",
+"loc": "Ellsworth AFB, South Dakota",
+"locId": "l-ellsworth",
+"members": null,
+"narrative": "Mario Woods is the long-standing claimant of the Ellsworth case and he is the clean example of what CLAUDE.md section 2a was widened to admit: a named man with a thirty-year dated public record of the same account, and no service record produced. He says that on 18 November 1977 at about 0100 he and a fellow security policeman of the 44th Missile Security Squadron responded to an alarm at Launch Facility November-5 in the Ellsworth Minuteman field, that a large bright object hovered under about fifty feet over the site, that humanoid figures approached the truck, that both men were taken aboard and examined, that hours were lost, and that both were recovered about eight miles away beside a reservoir dam and interrogated separately on base. NO AIR FORCE RECORD OF THE EVENT HAS EVER BEEN PRODUCED BY ANYONE, and no service record for Woods has been opened by this board. What is dated is the telling: he has given the account publicly since 1996 and claims more than forty media appearances, he named his partner Michael Johnson on air for years and asked audiences to find him, the board already carries his 5 July 2025 American Alchemy appearance including his statement that an OSI man named Rick Doty was at his debrief, and he appears again on Jesse Michels's episode of 7 September 2026. That is the anchor: the dated artefact of the claim, not a record of the thing claimed.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Mario Woods",
+"sources": [
+{
+"date": "2026-09-07",
+"name": "Jesse Michels, video rjUdn6FklAU, published 7 September 2026, runtime 2:47:21, auto-generated captions; timestamped triage at research/leads/michels-rjUdn6FklAU-triage-2026-09-19.md. Opened 19 September 2026",
+"url": "https://www.youtube.com/watch?v=rjUdn6FklAU"
+},
+{
+"date": "2026-09-12",
+"name": "The Political Saucer, 'The Night at November-5: Two Missile Guards, Nine Lost Hours, and the Nuclear Security Incident the Air Force Never Explained', 12 September 2026; header read, body paywalled. Opened 19 September 2026",
+"url": "https://politicalsaucer.substack.com/p/the-night-at-november-5-two-missile"
+},
+{
+"date": "2026-09-19",
+"name": "Derived by this board from the register in research/leads/verified-nuclear-witnesses-2026-09-19.md, which lists every nuclear-facility witness found in the 19 September 2026 pass together with the route by which each account reached the public",
+"url": ""
+}
+],
+"status": "alive",
+"sub": "Claimed USAF security policeman, 44th Missile Security Squadron, Ellsworth AFB; claimant since 1996 of an encounter at Launch Facility November-5 on 18 November 1977",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 930 of 1159, score 17). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.",
+"timeline": [],
+"unexplainedResidual": null,
+"unverified": [
+"Woods's service record, DD-214 and any 44th Missile Security Squadron duty roster for 17 to 18 November 1977.",
+"His claim that AARO undertook to search for Michael Johnson. If any tasking exists it is a record; none has been opened, and AARO caps at Tier 2 on this board in any case.",
+"His statement that an OSI man named Rick Doty was at his debrief, which the board already carries at Tier 2 from the 5 July 2025 episode and which Doty is reported to have later walked back on a podcast that this board has not identified."
+]
+}

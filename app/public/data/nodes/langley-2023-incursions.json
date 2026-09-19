@@ -166,7 +166,7 @@
 "direction": "out",
 "edgeLabel": "Centrepiece of Guillot's 90-day counter-UAS assessment",
 "id": "norad-northcom",
-"l0": false,
+"l0": true,
 "label": "NORAD and US Northern Command",
 "note": "Guillot testified the Langley incidents dominated his assessment on taking command in February 2024 and were 'the centerpiece' of his review.",
 "sources": [
@@ -408,12 +408,6 @@
 "id": "nj-drone-incursions-2024",
 "label": "New Jersey and East Coast Drone Wave (Nov-Dec 2024)",
 "tier": "B"
-},
-{
-"cls": "institution",
-"id": "norad-northcom",
-"label": "NORAD and US Northern Command",
-"tier": "B"
 }
 ],
 "short": "Langley AFB Drone Incursions",
@@ -436,7 +430,7 @@
 ],
 "sub": "17+ nights of unattributed UAS over a front-line F-22 base",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 520 of 1125, score 30). 6 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 530 of 1159, score 30). 6 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D3.",
 "timeline": [
 {
 "date": "2023-12-06",

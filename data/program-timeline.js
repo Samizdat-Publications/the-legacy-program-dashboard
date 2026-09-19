@@ -973,6 +973,17 @@ export const TIMELINE = [
     source: 'US Patent 3,187,206, complete 6-page text, https://patentimages.storage.googleapis.com/fd/fa/17/a3da8c41817315/US3187206.pdf , opened 2026-09-19'
   },
   {
+    id: 'tl-1965-08-01-warren-bluebook-log',
+    strand: 'witness',
+    date: '1965-08-01',
+    precision: 'day',
+    tier: 'B',
+    node: 'warren-1965',
+    label: 'Project Blue Book logs calls from the F. E. Warren base commander',
+    text: 'Between about 0130 and 0440 on 1 August 1965, Lt. Anspaugh at Project Blue Book fielded and logged telephone calls from F. E. Warren AFB reporting objects over the Warren Minuteman complex, including calls from Capt. Snelling of the Air Force command post, Col. Johnson the base commander, Col. Williams commanding the Sioux Army Depot at Sidney, Nebraska, and Capt. Howell. Sites named include E Site, G Flight, Quebec Flight, H-2 and B-4. The memorandum summarising the calls was published by J. Allen Hynek in 1972.',
+    source: 'rr0.org mirror of Hastings\'s F. E. Warren 1965 material, https://rr0.org/time/2/0/0/6/02/24/Hastings_UfosightingsAtIcbmSites/Warren_1965/'
+  },
+  {
     id: 'tl-1965-1209-kecksburg',
     strand: 'witness',
     date: '1965-12-09',
@@ -1065,6 +1076,17 @@ export const TIMELINE = [
     node: 'condon-committee'
   },
   {
+    id: 'tl-1967-03-16-echo-flight-shutdown',
+    strand: 'program',
+    date: '1967-03-16',
+    precision: 'day',
+    tier: 'A',
+    node: 'malmstrom-echo-flight-1967',
+    label: 'All ten Echo Flight missiles lose strategic alert at 0845',
+    text: 'The 341st Strategic Missile Wing history: \'On 16 March 1967 at 0845, all sites in Echo (E) Flight, Malmstrom AFB, shutdown with No-Go indication of Channels 9 and 12 on Voice Reporting Signal Assemble (VRSA). All LF\'s in E Flight lost strategic alert nearly simultaneously. No other Wing I configuration lost strategic alert at that time.\' By about 1400 the same day SAC Headquarters had called in Ogden Air Materiel Area support for a complete engineering analysis.',
+    source: '341st SMW history, Jan-Mar 1967, p 32, https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf'
+  },
+  {
     id: 'tl-1967-0316-echo',
     strand: 'witness',
     date: '1967-03-16',
@@ -1073,6 +1095,17 @@ export const TIMELINE = [
     text: 'All ten Minuteman missiles of Echo Flight, 341st Strategic Missile Wing, go off alert status. An Air Force teletype the following day concerns loss of strategic alert. Robert Salas would later attribute the cause to an object over the front gate.',
     tier: 'A',
     node: 'malmstrom-echo-flight-1967'
+  },
+  {
+    id: 'tl-1967-03-23-echo-flight-engineering-report',
+    strand: 'program',
+    date: '1967-03-23',
+    precision: 'day',
+    tier: 'A',
+    node: 'doc-341-smw-history-1967',
+    label: 'The engineering investigation reports it cannot determine a cause',
+    text: 'The Engineering Investigation Team\'s \'Report of Engineering Investigation of Echo Flight Incident, Malmstrom AFB, Mont. - 16 Mar 67\', dated 23 March 1967 and classified Secret, is the document the entire Malmstrom controversy turns on. It is footnoted on almost every page of the wing history\'s Echo Flight section and has never been opened by this board. Through the history it states: \'The investigation teams at Malmstrom, were unable to determine a logical cause for the incident.\'',
+    source: '341st SMW history, Jan-Mar 1967, citing the report at p 17, https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf'
   },
   {
     id: 'tl-1967-05-30-king-patent-granted',
@@ -1084,6 +1117,17 @@ export const TIMELINE = [
     label: 'US 3,322,374 granted: magnetohydrodynamic propulsion, 9 claims, Class 244-62',
     text: 'What it claims is a linear induction motor using the surrounding ionised atmosphere as its armature. Word counts across all seven pages: scalar 0, spin 0, gravity 0, anti-gravity 0, zero point 0. Fifty-nine years later it was offered as evidence that the \'Scalar Physics\' callout on the McCandlish ARV drawing refers to spin-zero scalar particles.',
     source: 'US Patent 3,322,374, https://patentimages.storage.googleapis.com/6f/35/54/257dd6cdb01efc/US3322374.pdf , opened 2026-09-18 and recorded in notes/PROPULSION-CLAIMS-2026-09-18.md'
+  },
+  {
+    id: 'tl-1967-06-02-emp-conclusion',
+    strand: 'program',
+    date: '1967-06-02',
+    precision: 'day',
+    tier: 'B',
+    node: 'malmstrom-echo-flight-1967',
+    label: 'OOAMA concludes the cause appears to be EMP or electrostatic, by elimination',
+    text: 'In an interim report of 2 June 1967 to Ballistic Systems Division at Norton AFB, Ogden Air Materiel Area reported that Boeing bench tests in its Network Resolution Area had reproduced the Echo Flight fault signature in 60 per cent of twenty applications of a 30 microsecond pulse to the C-53P Logic Coupler, and concluded: \'Due to the fact that the power tests were essentially negative, it appears that the cause of the Echo Flight problem was of the EMP or electrostatic nature.\' The conclusion follows from a run of negative tests rather than from reproducing the event in the field.',
+    source: '341st SMW history, Apr-Jun 1967, citing OOAMA msg 01787 to BSD Norton AFB, 2 June 1967, pp 37-38, https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf'
   },
   {
     id: 'tl-1967-1127th',
@@ -1187,6 +1231,17 @@ export const TIMELINE = [
     text: 'Ground radar, base weather radar, airborne radar and visual observation converge on an object near B-52H JAG 31; the bomber\'s transmitter fails for four minutes; Minuteman sites of N, O, J and M Flights report alarms and an inner door combination lock moved. Blue Book sends no field investigators.',
     tier: 'A',
     node: 'minot-1968'
+  },
+  {
+    id: 'tl-1968-10-28-werlich-reporting-data',
+    strand: 'witness',
+    date: '1968-10-28',
+    precision: 'day',
+    tier: 'A',
+    node: 'doc-minot-1968-blue-book',
+    label: 'Lt Col Werlich files eight pages of Basic Reporting Data on the Minot case',
+    text: 'Lt Col Arthur J. Werlich of the 862nd Combat Support Group Operations Division prepared eight pages of Basic Reporting Data on the 24 October 1968 Minot events and transmitted it to multiple Air Force agencies. Seven airmen completed AF Form 117 questionnaires, thirteen B-52 ASQ-38 radarscope photographs were printed with data plates, and Werlich drew an overlay map at 1:200,000. Every witness statement in the file is contemporaneous and official.',
+    source: 'Documentation index for the Minot AFB case, https://minotb52ufo.com/doc.php'
   },
   {
     id: 'tl-ffrdc-1968-kocher',
@@ -1350,6 +1405,28 @@ export const TIMELINE = [
     node: 'sac-overflights-1975'
   },
   {
+    id: 'tl-1975-10-29-nmcc-afb-penetration',
+    strand: 'program',
+    date: '1975-10-29',
+    precision: 'day',
+    tier: 'A',
+    node: 'doc-nmcc-loring-1975',
+    label: 'NMCC logs an \'AFB Penetration\' at Loring and runs it up the Joint Staff',
+    text: 'At 0605 EST on 29 October 1975 the National Military Command Center issued a Memorandum for Record subject \'AFB Penetration\', signed C. D. Roberts, Jr., Brigadier General, USMC, Deputy Director for Operations, recording that an unidentified helicopter, possibly two, had been sighted flying low over Loring AFB in proximity to a weapons storage area, that an Army National Guard helicopter had failed to locate it, and that NORAD had obtained Canadian authority to pursue across the border. Distribution ran to CJCS, DJS, J-30 through J-38, the service chiefs and the DIA, NSA and CIA representatives.',
+    source: 'NMCC Memorandum for Record, 29 October 1975, http://www.nicap.org/reports/751027loring_1-6.htm'
+  },
+  {
+    id: 'tl-1975-10-30-wurtsmith-tanker-pursuit',
+    strand: 'program',
+    date: '1975-10-30',
+    precision: 'day',
+    tier: 'B',
+    node: 'wurtsmith-1975',
+    label: 'A KC-135 pursues an object from the Wurtsmith weapons storage area over Lake Huron',
+    text: 'The NORAD Senior Director\'s Log for 31 October 1975 records: \'Alerted by NCOC of a helicopter sighted over Wurtsmith AFB Wpns storage area, a tanker sighted same and pursued it 35 SE over Lake Huron.\' A Joint Chiefs of Staff operational report of 30 October 1975 records that the Michigan Department of Natural Resources was contacted about aircraft searching for hunters spotting deer, and the explanation did not fit.',
+    source: 'NICAP, \'Wurtsmith and Others\', http://www.nicap.org/articles/CI-Wurtsmith.htm'
+  },
+  {
     id: 't-1975-malmstrom',
     strand: 'program',
     date: '1975-11-07',
@@ -1358,6 +1435,17 @@ export const TIMELINE = [
     text: 'DoD records later released under FOIA case 97-F-1677 describe numerous unidentified craft over Malmstrom AFB and its missile fields, which multiple F-106 interceptors could not acquire.',
     tier: 'A',
     node: 'l-malmstrom'
+  },
+  {
+    id: 'tl-1975-11-08-f106-scramble-malmstrom',
+    strand: 'program',
+    date: '1975-11-08',
+    precision: 'day',
+    tier: 'A',
+    node: 'malmstrom-1975',
+    label: 'Two F-106s scrambled over the Malmstrom missile field; radar contact lost',
+    text: 'The 24th NORAD Region Senior Director\'s Log for 8 November 1975: height-finder personnel picked up objects at 10,000 to 13,000 feet on track J330; two F-106s were scrambled at 0754Z; at 0820Z \'Lost radar contact, fighters broken off at 0825\'; at 0905Z \'L-sites had fighters and objects; fighters did not get down to objects\'; and at 0915Z, from four different points, \'when fighters arrived in the area, the lights went out; when fighters departed, the lights came back on\'.',
+    source: '24th NORAD Region Senior Directors Log, 8 November 1975, https://archive.org/download/MalmstromAirForceBaseIncident/Malmstrom%20Air%20Force%20Base%20Incident%20%E2%80%93%20March%2016,%201967%20NORAD%20logs_djvu.txt'
   },
   {
     id: 'tl-1975-1108-nmcc',
@@ -1370,6 +1458,17 @@ export const TIMELINE = [
     node: 'sac-overflights-1975'
   },
   {
+    id: 'tl-1975-11-11-cincnorad-message',
+    strand: 'program',
+    date: '1975-11-11',
+    precision: 'day',
+    tier: 'A',
+    node: 'doc-cincnorad-1975-11-11',
+    label: 'CINCNORAD summarises the sequence across five installations',
+    text: '\'Since 28 Oct 75 numerous reports of suspicious objects have been received at the NORAD CU; reliable military personnel at Loring AFB, Maine, Wurtsmith AFB, Michigan, Malmstrom AFB, Mt, Minot AFB, ND, and Canadian Forces Station, Falconbridge, Ontario, Canada have visually sighted suspicious objects.\' The message names Minot AFB where the 24th NORAD Region\'s own log had named Minot Air Force Station the day before.',
+    source: 'NICAP, quoting the CINCNORAD four-part message of 11 November 1975, http://www.nicap.org/intsac.htm'
+  },
+  {
     id: 'tl-1975-1111-norad',
     strand: 'oversight',
     date: '1975-11-11',
@@ -1378,6 +1477,17 @@ export const TIMELINE = [
     text: 'A NORAD document records that reliable military personnel at Loring, Wurtsmith, Malmstrom, Minot and CFS Falconbridge had visually sighted suspicious objects during October and early November 1975.',
     tier: 'A',
     node: 'sac-overflights-1975'
+  },
+  {
+    id: 'tl-1975-11-19-norad-log-last-entry',
+    strand: 'program',
+    date: '1975-11-19',
+    precision: 'day',
+    tier: 'B',
+    node: 'doc-norad-24th-log-1975',
+    label: 'The NORAD log closes the Malmstrom sequence',
+    text: '\'19 Nov 75 (1327Z) - SAC command post report UFO observed by FSC & a cook, observed object travelling NE between M-8 and M-l at a fast rate of speed. Object bright white light seen 45 to 50 sec following terrain 200 ft off ground. The light was two to three times brighter than landing lights on a jet.\' The original marks this as the last entry pertaining to these incidents.',
+    source: '24th NORAD Region Senior Directors Log, 19 November 1975, https://archive.org/download/MalmstromAirForceBaseIncident/Malmstrom%20Air%20Force%20Base%20Incident%20%E2%80%93%20March%2016,%201967%20NORAD%20logs_djvu.txt'
   },
   {
     id: 'tl-1976-valdez-dulce',
@@ -1582,6 +1692,17 @@ export const TIMELINE = [
     label: 'Bennewitz becomes the origin point of the Dulce claim',
     text: 'From about 1979 Paul Bennewitz, an Albuquerque instrument manufacturer whose company overlooked the Manzano storage area, began the personally funded study that made him the first person to attach a facility claim to Dulce. He later connected Myrna Hansen\'s 1980 account to the same place.',
     source: 'Norio Hayakawa, 29 August 2016, https://noriohayakawa.wordpress.com/2016/08/29/enigmatic-personalities-behind-the-initial-dulce-underground-base-rumors/comment-page-1/'
+  },
+  {
+    id: 'tl-1979-01-17-wurtsmith-historian',
+    strand: 'coverup',
+    date: '1979-01-17',
+    precision: 'day',
+    tier: 'B',
+    node: 'doc-wurtsmith-historian-1979',
+    label: 'A wing historian records that his own wing history omits the incursion',
+    text: 'SSgt Paul J. Cahill, historian of the 379th Bombardment Wing, wrote in a Research Record of Events: \'Following that request, I checked the Oct-Dec 75 Wing History and found no references to the incident.\' The following day Capt. Myron Taylor wrote him a Memo for the Record giving the KC-135 crew\'s account. This is the board\'s one documented instance of an Air Force unit history omitting an event that other Air Force paper records, found and written down by the unit historian himself.',
+    source: 'NICAP, \'Wurtsmith and Others\', http://www.nicap.org/articles/CI-Wurtsmith.htm'
   },
   {
     id: 'tl-1979-06-01-fouche-tdy-det3',
@@ -2588,6 +2709,17 @@ export const TIMELINE = [
     source: 'Kingston A. George, \'The Big Sur UFO: An Identified Flying Object\', Skeptical Inquirer, Vol. 17, No. 2, Winter 1993, pages 180 to 186; PDF downloaded and converted to text in full this session, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf'
   },
   {
+    id: 'tl-1993-si-big-sur-rebuttal',
+    strand: 'witness',
+    date: '1993',
+    precision: 'year',
+    tier: 'B',
+    node: 'doc-si-big-sur-1993',
+    label: 'The project engineer answers Jacobs and confirms his unit, role and debriefing',
+    text: 'Kingston A. George, Skeptical Inquirer Vol. 17, Winter 1993, pp 180-187, identifies himself as the project engineer, writes that \'Bob was named the on-site commander by the 1369th Photo Squadron and managed the logistics of the operation at the Big Sur location\', publishes two group photographs and captions Jacobs into both, names Major Florenz Mansmann and CWO Guy Spooner, dates the event to 22 September 1964 on an Atlas launch nicknamed Buzzing Bee, concedes Jacobs\'s point about lasers, and disputes only what was on the film.',
+    source: 'Kingston A. George, Skeptical Inquirer Vol. 17, Winter 1993, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf'
+  },
+  {
     id: 't-1993-rockefeller',
     strand: 'oversight',
     date: '1993-01-01',
@@ -2925,6 +3057,17 @@ export const TIMELINE = [
     label: 'Petition to withdraw the 1990 guilty plea is refused',
     text: 'Lazar petitioned to withdraw the plea, citing post-traumatic stress, hidden federal records and inadequate legal representation. The District Attorney opposed, arguing \'that Lazar\'s new claims were irrelevant to his admitted and documented criminal activity\'. The judge denied the petition and the conviction stands.',
     source: 'Douglas Dean Johnson, 31 January 2021, https://douglasjohnson.ghost.io/bob-lazar-and-his-nevada-felony-conviction/'
+  },
+  {
+    id: 'tl-1996-salas-great-falls-tribune',
+    strand: 'witness',
+    date: '1996',
+    precision: 'year',
+    tier: 'B',
+    node: 'malmstrom-oscar-flight-1967',
+    label: 'Salas goes on the record and locates Meiwald himself',
+    text: 'Robert Salas went public with the Oscar Flight account in a 1996 interview with the Great Falls Tribune, and in the summer of that year located his former missile commander Frederick Meiwald, who wrote to him about the incident on 1 October 1996. Robert Hastings separately states he tape-recorded a telephone conversation with Meiwald in August 1996. Salas approaching a newspaper himself is a different provenance from the witnesses who reach the public only through an interviewer.',
+    source: 'Robert Hastings, \'The Echo and Oscar Flight Incidents\', https://www.ufohastings.com/articles/the-echo-and-oscar-flight-incidents'
   },
   {
     id: 'tl-1996-nasa-bpp-established',
@@ -3281,6 +3424,17 @@ export const TIMELINE = [
     text: 'Section 3236 of the FY2000 NDAA, Public Law 106-65, creates 50 U.S.C. 2426. Its subsection (e)(1) lets the NNSA Administrator waive not only the reports but the 30-day report-and-wait itself - the most permissive SAP provision in the Code, governing the agency that holds Restricted Data and runs Los Alamos, Sandia and Livermore.',
     tier: 'A',
     node: 'usc-50-2426'
+  },
+  {
+    id: 'tl-2000-runyon-contacts-cufos',
+    strand: 'witness',
+    date: '2000',
+    precision: 'year',
+    tier: 'B',
+    node: 'bradford-runyon',
+    label: 'A B-52 co-pilot approaches CUFOS on his own initiative',
+    text: 'Capt. Bradford Runyon, co-pilot of JAG-31 on 24 October 1968, contacted the Center for UFO Studies in 2000 and completed a CUFOS questionnaire. The modern investigation of the Minot case begins there. A witness approached a research body; a research body did not recruit a witness. It is the control case against which the Malmstrom and Ellsworth provenance chains should be read.',
+    source: 'Minot B-52 UFO case archive, https://minotb52ufo.com/doc.php'
   },
   {
     id: 'tl-intl-2000-condign',
@@ -4488,6 +4642,17 @@ export const TIMELINE = [
     strand: 'program',
     precision: 'day',
     id: '_rs-aawsap-dirds-29'
+  },
+  {
+    id: 'tl-2010-09-27-npc-seven-veterans',
+    strand: 'witness',
+    date: '2010-09-27',
+    precision: 'day',
+    tier: 'B',
+    node: 'npc-2010-ufos-nukes',
+    label: 'Seven USAF veterans speak at the National Press Club',
+    text: 'Robert Hastings convened Dwynne Arneson, Bruce Fenstermacher, Charles Halt, Robert Jamison, Patrick McDonough, Jerry Nelson and Robert Salas at the National Press Club. Six are named on his own page as having executed affidavits. For five of the seven this is their first appearance in the public record. Walter Figel declined to sign an affidavit and did not appear.',
+    source: 'Robert Hastings, \'The UFOs-Nukes Connection Press Conference\', https://ufohastings.com/articles/the-ufos-nukes-connection-press-conference'
   },
   {
     id: 'tl-2010-0927-npc',
@@ -10412,6 +10577,17 @@ export const TIMELINE = [
     node: 'af-atic-film-0352'
   },
   {
+    id: 'tl-2026-06-26-johnson-located',
+    strand: 'witness',
+    date: '2026-06-26',
+    precision: 'day',
+    tier: 'C',
+    node: 'michael-johnson',
+    label: 'The publishing party cold-calls the second Ellsworth witness',
+    text: 'Dated on air: on 26 June 2026 the producer telephoned a Michael Johnson in South Carolina, located from a viewer\'s Facebook tip by an unnamed recruiter, and withheld the frame, saying nothing about November-5 and nothing about a UFO. Mario Woods was then patched in and within two minutes supplied the site, the date and, after Johnson first answered \'No\', the category. NO DATED PUBLIC STATEMENT BY JOHNSON ABOUT THE EVENT EXISTS BEFORE THIS CALL.',
+    source: 'Jesse Michels, video rjUdn6FklAU, at 00:03:06-00:03:45, 00:05:19-00:05:46 and 00:07:29-00:07:46, https://www.youtube.com/watch?v=rjUdn6FklAU'
+  },
+  {
     id: 'st-2026-06-29',
     strand: 'oversight',
     date: '2026-06-29',
@@ -10858,6 +11034,17 @@ export const TIMELINE = [
     text: 'The National Archives accessioned \'Records from the Department of the Air Force Relating to Unidentified Anomalous Phenomena\' (catalog series 656595571, accession TR-0615-2026-0003) into Record Group 615: 30 PDF files dated 25 October 1945 to 31 December 1969, access and use both Unrestricted, carrying contiguous UAP Record Identifiers 342UAP00001 to 342UAP00030. It is the eighth agency series in RG 615 and the first from a military department in its own right. The documents\' own declassification blocks show the Air Force Declassification Office cleared them on 5 May 2025 under the FY24 NDAA authority now codified at 44 U.S.C. 2107, fifteen months before the records reached NARA.',
     tier: '1',
     node: 'nara-rg615'
+  },
+  {
+    id: 'tl-2026-09-07-michels-ellsworth-episode',
+    strand: 'witness',
+    date: '2026-09-07',
+    precision: 'day',
+    tier: 'C',
+    node: 'ellsworth-1977',
+    label: 'The Ellsworth claim is published with both witnesses, and contradicts its own recording',
+    text: 'Jesse Michels published video rjUdn6FklAU, 2:47:21, presenting Mario Woods and Michael Johnson on the 18 November 1977 Launch Facility November-5 claim. Its on-camera retelling of the moment of recognition at 00:17:46-00:18:11 says Johnson recognised the event with nothing supplied; its own recording of that moment at 00:07:29-00:07:46 shows an initial \'No\', then Woods naming the UFO twice, then assent. Both passages are timestamped in the same episode. This is the dated artefact on which the claim rests.',
+    source: 'Jesse Michels, video rjUdn6FklAU, 7 September 2026, https://www.youtube.com/watch?v=rjUdn6FklAU'
   },
   {
     id: 'sap-tl-2029-dcsa',

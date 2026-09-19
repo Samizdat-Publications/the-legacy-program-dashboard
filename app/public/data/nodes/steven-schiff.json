@@ -134,7 +134,7 @@
 "direction": "out",
 "edgeLabel": "Schiff tasked GAO after DoD refused to answer him",
 "id": "gao-nsiad-95-187",
-"l0": true,
+"l0": false,
 "label": "GAO/NSIAD-95-187 — Results of a Search for Records Concerning the 1947 Crash Near Roswell",
 "note": "A single member of Congress used the legislature's audit arm to go around an executive agency, producing the records-destruction finding no executive review has ever addressed.",
 "sources": [
@@ -299,7 +299,7 @@
 "status": "dead",
 "sub": "US Representative, New Mexico (R)",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 303 of 1125, score 38). 5 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 310 of 1159, score 38). 5 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.",
 "timeline": [
 {
 "date": "1994-01-01",

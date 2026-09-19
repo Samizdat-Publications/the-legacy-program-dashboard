@@ -1,0 +1,143 @@
+[
+  {
+    "id": "strategic-air-command",
+    "entityDossier": {
+      "whatItIs": "Strategic Air Command, the USAF major command that held the American land-based nuclear deterrent from 1946 to 1992. It owned every installation in this cluster: Malmstrom, Minot, Loring, Wurtsmith, F. E. Warren, Grand Forks and Ellsworth. It is on this map because it is the reporting node in the primary records, not because anyone claims anything about it.",
+      "whyImplicated": "It is the institutional spine of the strongest documentary seam this board carries. Where almost everything else in this subject reaches the record through someone's testimony, the nuclear-incursion record reaches it through SAC's own message traffic, duty logs and unit histories. The National Military Command Center's Memorandum for Record of 29 October 1975 states plainly that NORAD was informed of the incident by SAC. The 24th NORAD Region Senior Director's Log for 7 to 19 November 1975 is in substance a record of calls from SAC posts. When the Echo Flight shutdown happened on 16 March 1967, SAC Headquarters was called within hours and the wing history says so. Whatever one concludes about what was seen, the paper trail is the command's own.",
+      "roles": [
+        "custody",
+        "concealment",
+        "oversight"
+      ],
+      "narrative": "The reason this node matters more than an organisational chart entry is that it changes what kind of evidence the nuclear cluster rests on.\n\nOf the 47 named witnesses in this cluster's register, 26 reached the record through contemporaneous official paper: message traffic, memoranda for record, duty logs, AF Form 117s and a Blue Book phone log. Thirteen reached it through a researcher's interview programme. That ratio is unusual in this subject and it is entirely a consequence of where these events happened. A missile field generates paperwork by design. A man who sees something in a field does not.\n\nSo SAC sits at the centre of the map here as the entity whose routine record-keeping is the evidence. Its bases are the hubs, the incidents attach to the bases, and the witnesses attach to the incidents. Reading outward from this node is reading the chain by which a claim became a document.\n\nWhat this node does not assert is any conclusion about the objects. The records establish that intrusions were reported, escalated, logged and in several cases responded to with intercepts and alert postures. They do not establish what was intruding, and several of them record that nobody determined it.",
+      "claims": [
+        {
+          "text": "SAC IS THE REPORTING NODE IN THE PRIMARY RECORDS. The National Military Command Center's Memorandum for Record of 29 October 1975 states that 'NORAD was informed of the incident by SAC'. The 24th NORAD Region Senior Director's Log for 7 to 19 November 1975 is largely a record of calls from Strategic Air Command posts. The 341st Strategic Missile Wing history records that within hours of the Echo Flight shutdown on 16 March 1967, SAC Headquarters had been called.",
+          "tier": 1,
+          "source": "NMCC Memorandum for Record 29 Oct 1975; 24th NORAD Region Senior Director's Log 7-19 Nov 1975; 341st SMW history, all opened 2026-09-19"
+        },
+        {
+          "text": "THE PROVENANCE RATIO THAT MAKES THIS CLUSTER DIFFERENT. Of 47 named witnesses in the nuclear register, 26 reached the record through contemporaneous official paper and 13 through a researcher's interview programme. A missile field generates paperwork by design, which is why this seam is documented where most of this subject is only attested.",
+          "tier": 3,
+          "source": "stated inference from the register in research/leads/verified-nuclear-witnesses-2026-09-19.md"
+        }
+      ],
+      "openQuestions": [
+        "The full OASD FOIA compilation behind the NORAD log: at least 449 further pages from the same release stream were not opened.",
+        "Whether SAC-level correspondence about the 1975 sequence exists beyond the NORAD and NMCC records already opened.",
+        "The 'Report of Engineering Investigation of Echo Flight Incident, 16 Mar 67' of 23 March 1967, cited by exhibit on nearly every page of the released history and opened by nobody."
+      ]
+    }
+  },
+  {
+    "id": "malmstrom-oscar-flight-1967",
+    "entityDossier": {
+      "whatItIs": "Robert Salas's claimed second Minuteman shutdown at Malmstrom AFB, dated 24 March 1967, eight days after the documented Echo Flight shutdown. It is a separate node from Echo Flight on purpose, because the literature conflates the two constantly and the documentary position of each is completely different.",
+      "whyImplicated": "It is the cleanest test case this board has for the difference between a documented event and an attested one. Echo Flight is in the wing's own history in detail. Oscar Flight is not in it at all. Both are carried, correctly labelled, and neither borrows the other's weight. A reader who arrives believing 'the Air Force documented UFOs shutting down missiles' should be able to see exactly which half of that sentence the paper supports.",
+      "roles": [
+        "disclosure",
+        "concealment"
+      ],
+      "narrative": "The zero count is the fact this node exists to state. A full-text search of the 88 released pages of the 341st Strategic Missile Wing histories, covering 1 January 1967 to 31 March 1968, returns zero occurrences of 'Oscar' and zero of 'O Flight'.\n\nAnd the node immediately bounds its own strongest fact, which is the part most accounts on either side omit. The Air Force letter of 14 June 2001 describes the release as copies of excerpts and supporting documents of five quarterly histories, not the complete histories. A zero count in an excerpt is weaker than a zero count in a complete record, and saying so is the difference between evidence and rhetoric.\n\nThe date itself is worth following. 24 March 1967 is what separates Oscar from Echo, and it comes from Robert Hastings on Capt. Robert Jamison's information, with Salas agreeing the two incidents probably occurred on separate days. So the distinction that makes this a second event rests on testimony relayed through the field's principal aggregator, which is exactly the provenance question section 2a of CLAUDE.md now requires every such node to record.\n\nJames Carlson disputes that any Oscar Flight incident occurred at all, citing SAC UFO officer Col. Lewis D. Chase as finding no equipment failures or sighting on that date. He is the son of an Echo Flight officer and he argues this publicly and at length.\n\nOne document would move this node more than any other and it has not been opened by anyone here: Col. Frederick Meiwald's letter to Salas of 1 October 1996. Two incompatible characterisations of what it says are in circulation, one supporting Salas and one not. Until somebody opens it, the board carries both and endorses neither.",
+      "claims": [
+        {
+          "text": "THE ZERO COUNT. A full-text search of the 88 released pages of the 341st Strategic Missile Wing histories, covering 1 January 1967 to 31 March 1968, returns ZERO occurrences of 'Oscar' and ZERO of 'O Flight'. Echo Flight is documented in the same pages in detail.",
+          "tier": 1,
+          "source": "341st SMW histories, 88-page Black Vault FOIA release, full-text searched 2026-09-19"
+        },
+        {
+          "text": "THE ZERO COUNT IS BOUNDED BY WHAT THE RELEASE IS, and this bound belongs beside it. The Air Force letter of 14 June 2001 states it is releasing copies of excerpts and supporting documents of five quarterly histories, not the complete histories. A zero count in an excerpt is weaker evidence than a zero count in a complete record.",
+          "tier": 3,
+          "source": "USAF release letter of 14 June 2001 accompanying the 88-page release, opened 2026-09-19"
+        },
+        {
+          "text": "THE DATE THAT MAKES THIS A SEPARATE EVENT IS RELAYED TESTIMONY. Robert Hastings dates Oscar Flight to 24 March 1967 on Capt. Robert Jamison's information, and states Salas agrees the two incidents probably occurred on separate days.",
+          "tier": 2,
+          "source": "Hastings, on Jamison's information, as published; opened 2026-09-19"
+        },
+        {
+          "text": "THE CASE AGAINST, NAMED. James Carlson disputes that any Oscar Flight incident occurred, citing SAC UFO officer Col. Lewis D. Chase as finding no equipment failures or sighting on that date, and disputes Salas's account of the Echo Flight relationship.",
+          "tier": 2,
+          "source": "James Carlson's published statements, opened 2026-09-19"
+        }
+      ],
+      "openQuestions": [
+        "THE MEIWALD LETTER of 1 October 1996. Not opened by this board. Two incompatible characterisations of it are in circulation, one supporting Salas and one not. This is the single highest-value unopened document in the cluster.",
+        "The complete 341st SMW quarterly histories, as opposed to the excerpts released in 2001.",
+        "Col. Lewis D. Chase's own records, cited by Carlson but not opened here."
+      ]
+    }
+  },
+  {
+    "id": "npc-2010-ufos-nukes",
+    "entityDossier": {
+      "whatItIs": "The UFO-Nukes Connection press conference at the National Press Club, Washington DC, on 27 September 2010, at which seven named USAF veterans spoke on the record about incursions at nuclear weapons sites. CNN streamed it live and carried coverage. It was organised by Robert Hastings.",
+      "whyImplicated": "It is the single dated artefact through which most of this cluster's testimony entered public life at once, which makes it both the cluster's most useful anchor and the place its provenance question is sharpest. Seven men, one organiser, one day. Understanding how each of them got onto that panel is the difference between seven independent accounts and one collection.",
+      "roles": [
+        "disclosure"
+      ],
+      "narrative": "The event is well documented: a named venue, a fixed date, a roster with ranks, units and periods, and live national coverage. As an artefact it is exactly what this board wants, and the claims on this node are Tier 2 for the fact that these men said these things on that date.\n\nThe provenance underneath is where the care goes, and the node records it rather than leaving a reader to assume seven independent voices. Of the seven, one had already written the operative document himself as a serving deputy base commander in 1981, which is a materially different position from recounting a memory decades later. Another had published independently. The remainder reached the public through the organiser's interview programme.\n\nThis node also carries a data-integrity flag rather than a quiet correction. The fetch of the organiser's own roster page by this session rendered one veteran's incident year differently from every other source opened, including that veteran's own testimony elsewhere. The board records the discrepancy and does not silently pick the version it prefers.\n\nAnd it records that the organiser's own pages give two different totals for how many veterans he has interviewed, 150 on one and more than 160 on another, with no statement anywhere of how they were recruited. That absence is the largest unanswered provenance question in the cluster. It is not an accusation. It is a gap that only he can close, and the board notes it in the same tone it would note a missing service record.",
+      "claims": [
+        {
+          "text": "THE EVENT, AND WHAT IT IS TIER 1 FOR. Seven US Air Force veterans discussed UFO incursions at nuclear weapons sites at the National Press Club on 27 September 2010; CNN streamed the event live and carried coverage. This node is Tier 1 for the fact that the panel occurred on that date at that venue, and Tier 2 at best for anything said from it.",
+          "tier": 2,
+          "source": "Contemporaneous CNN coverage and the organiser's own published roster, opened 2026-09-19"
+        },
+        {
+          "text": "SECTION 2a PROVENANCE FOR THE PANEL AS A WHOLE. Of the seven veterans, one had already written the operative document himself in 1981 as a serving deputy base commander, and one had published independently; the remainder reached the public through the organiser's interview programme. Seven men on one panel assembled by one organiser are not seven independent methods.",
+          "tier": 3,
+          "source": "stated inference from the roster and each veteran's own publication history, opened 2026-09-19"
+        },
+        {
+          "text": "A DATA-INTEGRITY FLAG, RECORDED RATHER THAN QUIETLY CORRECTED. The fetch of the organiser's roster page by this session rendered one veteran's incident year differently from every other source opened, including that veteran's own testimony elsewhere. The board records the discrepancy and does not silently choose.",
+          "tier": 3,
+          "source": "the organiser's roster page as fetched 2026-09-19, against the other sources opened the same day"
+        },
+        {
+          "text": "THE ORGANISER'S OWN PAGES GIVE TWO DIFFERENT TOTALS for veterans interviewed, 150 on one and more than 160 on another, and neither states a recruitment method. That absence is the largest unanswered provenance question in this cluster and only he can close it.",
+          "tier": 2,
+          "source": "the organiser's own two pages, both opened 2026-09-19"
+        }
+      ],
+      "openQuestions": [
+        "The organiser's recruitment method, stated nowhere on his own pages.",
+        "A complete recording or transcript of the 27 September 2010 panel, as opposed to coverage of it.",
+        "Which of the seven, if any, had made a public statement before being contacted."
+      ]
+    }
+  },
+  {
+    "id": "norad-northcom",
+    "entityDossier": {
+      "whatItIs": "The North American Aerospace Defense Command and US Northern Command, the binational and homeland commands responsible for aerospace warning and control over North America. On this board they appear in two eras that are usually discussed separately: the 1975 northern-tier intrusions, recorded in NORAD's own regional logs, and the post-2022 drone-incursion reporting over US military installations.",
+      "whyImplicated": "Because the same command's own records bracket the subject at both ends. The 24th NORAD Region Senior Director's Log for November 1975 records fighters launched against objects over weapons storage areas and lights extinguishing on their arrival. Fifty years later the same command reports more than 600 drone sightings over US installations since 2022 and stands up a counter-drone demonstration programme. Whatever the objects are in either period, the institution recording them is the one whose job is knowing what is in the airspace.",
+      "roles": [
+        "oversight",
+        "disclosure"
+      ],
+      "narrative": "This node is on the map because of what its records are, not what anyone claims about it.\n\nThe 1975 material is primary and contemporaneous. The 24th NORAD Region Senior Director's Log, released over a colonel's signature and stamped as pages of a larger compilation, records calls from Strategic Air Command posts, two F-106s launched, that the fighters did not get down to the objects, and lights extinguishing on fighter arrival. The National Military Command Center memorandum of 29 October 1975 shows the traffic reaching the Chairman, the Joint Staff and the service chiefs, with a general officer personally approving rules of engagement for a National Guard helicopter.\n\nOne unresolved detail is carried openly rather than smoothed. The NORAD log names Minot Air Force Station, a radar site, where the CINCNORAD message of 11 November says Minot AFB. Those are different places and the discrepancy matters for which base a claim attaches to. Nothing opened resolves it, so the board states both and attaches the claim to neither silently.\n\nThe modern material is of a different character and is kept distinct. Drone reports over installations since 2022 are an acknowledged, funded, operational problem with named programmes attached. The board carries them because the same command is the reporter, and because a reader tracing how official language about unidentified objects has changed will want both ends of the line in one place. It does not assert that the two eras are the same phenomenon.",
+      "claims": [
+        {
+          "text": "THE 1975 LOG IS PRIMARY AND CONTEMPORANEOUS. The 24th NORAD Region Senior Director's Log for 7 to 19 November 1975 records calls from Strategic Air Command posts, 'two F-106', that 'fighters did not get down to objects', and lights extinguishing on fighter arrival.",
+          "tier": 1,
+          "source": "24th NORAD Region Senior Director's Log, 7-19 Nov 1975, opened 2026-09-19"
+        },
+        {
+          "text": "AN UNRESOLVED DISCREPANCY, CARRIED RATHER THAN SMOOTHED. The NORAD log names 'Minot Air Force Station', a radar site, where the CINCNORAD message of 11 November says 'Minot AFB'. These are different places and the difference decides which base a claim attaches to. Nothing opened resolves it.",
+          "tier": 3,
+          "source": "the NORAD log against the CINCNORAD message of 11 Nov 1975, both opened 2026-09-19"
+        },
+        {
+          "text": "THE MODERN REPORTING, KEPT DISTINCT. NORAD recorded more than 600 drone reports above US military installations since 2022, and established Falcon Peak, a counter-drone demonstration with multiple vendors. The board carries this because the same command is the reporter, and asserts no continuity between the two eras.",
+          "tier": 2,
+          "source": "NORAD statements and reporting, already on the board before this cluster"
+        }
+      ],
+      "openQuestions": [
+        "Whether Minot Air Force Station or Minot AFB is correct in the 1975 record, which decides a hub attachment.",
+        "The remainder of the OASD FOIA compilation the NORAD log was released within, at least 449 unseen pages.",
+        "Whether any NORAD assessment of the 1975 sequence exists beyond the logs themselves."
+      ]
+    }
+  }
+]

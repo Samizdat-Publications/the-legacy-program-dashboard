@@ -1,6 +1,6 @@
 # The people below the programme map
 
-None of the 135 nodes on the programme map is a person, so every one of the board's 338 people sits below it: witnesses, officials, legislators, contractors, scientists and journalists. This file takes the 120 with the most connections, most connected first, and gives what the board records about each of them and up to eight of their claims.
+None of the 135 nodes on the programme map is a person, so every one of the board's 353 people sits below it: witnesses, officials, legislators, contractors, scientists and journalists. This file takes the 120 with the most connections, most connected first, and gives what the board records about each of them and up to eight of their claims.
 
 ## David Charles Grusch
 
@@ -39,7 +39,7 @@ Affiliations recorded: National Geospatial-Intelligence Agency, National Reconna
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 1 of 1125, score 181). 80 connections, 11 of them custody/funding/programmatic, 10 official denials recorded against it. Axes C2/A3/D3.
+Re-graded A on a global pass (rank 1 of 1159, score 181). 80 connections, 11 of them custody/funding/programmatic, 10 official denials recorded against it. Axes C2/A3/D3.
 
 ### The claims on the record
 
@@ -103,7 +103,7 @@ Affiliations recorded: US Army counterintelligence, Office of the Under Secretar
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 5 of 1125, score 157). 43 connections, 7 of them custody/funding/programmatic, 7 official denials recorded against it. Axes C2/A3/D3.
+Re-graded A on a global pass (rank 5 of 1159, score 157). 43 connections, 7 of them custody/funding/programmatic, 7 official denials recorded against it. Axes C2/A3/D3.
 
 ### The claims on the record
 
@@ -149,7 +149,7 @@ Affiliations recorded: U.S. House of Representatives, MO-7 (2023- ), House Commi
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 30 of 1125, score 95). 30 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D3.
+Re-graded A on a global pass (rank 31 of 1159, score 95). 30 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D3.
 
 ### The claims on the record
 
@@ -199,7 +199,7 @@ Affiliations recorded: U.S. House of Representatives, FL-13 (2023- ), House Comm
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 23 of 1125, score 103). 31 connections, 1 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C0/A2/D3.
+Re-graded A on a global pass (rank 23 of 1159, score 103). 31 connections, 1 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C0/A2/D3.
 
 ### The claims on the record
 
@@ -260,7 +260,7 @@ Affiliations recorded: National Institute for Discovery Science (1996-2004), Ear
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 17 of 1125, score 111). 23 connections, 4 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C2/A3/D3.
+Re-graded A on a global pass (rank 17 of 1159, score 111). 23 connections, 4 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C2/A3/D3.
 
 ### The claims on the record
 
@@ -315,7 +315,7 @@ Affiliations recorded: KLAS-TV Las Vegas, I-Team (1980s-present), Mystery Wire (
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 54 of 1125, score 76). 21 connections, 1 of them custody/funding/programmatic. Axes C1/A1/D3.
+Re-graded A on a global pass (rank 55 of 1159, score 76). 21 connections, 1 of them custody/funding/programmatic. Axes C1/A1/D3.
 
 ### The claims on the record
 
@@ -359,7 +359,7 @@ Affiliations recorded: US Senate (1987-2017), Senate Majority Leader (2007-2015)
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 40 of 1125, score 87). 17 connections, 5 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D3.
+Re-graded A on a global pass (rank 40 of 1159, score 87). 17 connections, 5 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D3.
 
 ### The claims on the record
 
@@ -381,7 +381,7 @@ A further 4 claims sit on this node on the board and are not reproduced here.
 - Harry M. Reid runs out to **Advanced Aerospace Threat Identification Program (AATIP / AAITP)** (program, board tier A), a legislative link at Tier 1 documented. The link reads: 24 July 2009 memorandum to DepSecDef Lynn seeking SAP status; denied. Susan Gough authenticated the memorandum on 13 June 2019. Elizondo's and Puthoff's names were originally redacted from it and later released. Sources: The Black Vault, Reid memo, https://www.theblackvault.com/documentarchive/pentagon-reinforces-mr-luis-elizondo-had-no-responsibilities-on-aatip-senator-harry-reids-2009-memo-changes-nothing/, dated 2019-06-13.
 - Harry M. Reid comes in from **New York Times, 'Glowing Auras and Black Money: The Pentagon's Mysterious U.F.O. Program'** (event, board tier A), a funding link at Tier 1 documented. The link reads: Identified Reid as the senator who initiated and funded AATIP. Reid told the Times 'I'm not embarrassed or ashamed or sorry I got this thing going' and called the appropriation 'black money'. Sources: New York Times (NICAP copy), https://www.nicap.org/reports2/2004_20171216_NYTArt_1.pdf, dated 2017-12-16.
 - Harry M. Reid runs out to **KONA BLUE** (program, board tier A), a funding link at Tier 1 documented. The link reads: Reid and Lieberman asked that the DHS prospective SAP be established with promised funding. AARO states 'Senators Lieberman and Reid asked that the PSAP be established with the promise of additional funding' - the same senator who created the DIA appropriation now seeking a DHS compartment. Sources: AARO Historical Record Report Volume I (DOPSR-2024-0263), https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF, dated 2024-03-08.
-- Harry M. Reid runs out to **Defense Appropriations Acts FY2008 and FY2010, the $22M AAWSAP appropriation** (legislation, board tier B), a funding link at Tier 1 documented. The link reads: directed the $22M appropriation. AARO's official history states the FY2008 and FY2010 Defense Appropriations Acts appropriated $22 million to DIA 'at the direction of Senate Majority Leader Harry Reid (D-NV)'. Sources: AARO Historical Record Report Volume 1, https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF, dated 2024-03-08.
+- Harry M. Reid runs out to **Reid Letter to DEPSECDEF Requesting Restricted SAP Status** (document, board tier A), a legislative link at Tier 1 documented. The link reads: authored the Restricted SAP request. The Senate Majority Leader asked DoD to compartment a program whose deliverables DoD would three months later describe as unclassifiable basic research. Sources: Reid to Lynn, 24 June 2009, https://documents2.theblackvault.com/documents/dia/AAWSAP/20090624_Reid_to_DEPSECDEF_ref_AAITP_in_SAP.pdf, dated 2009-06-24.
 
 It carries 17 connections in total on the board.
 
@@ -403,7 +403,7 @@ Affiliations recorded: The Black Vault, founder (1996-present), The Black Vault 
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 98 of 1125, score 63). 17 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D3.
+Re-graded A on a global pass (rank 100 of 1159, score 63). 17 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D3.
 
 ### The claims on the record
 
@@ -422,10 +422,10 @@ A further 5 claims sit on this node on the board and are not reproduced here.
 
 - John Greenewald Jr. runs out to **AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I** (document, board tier A), a investigative link at Tier 1 documented. The link reads: Hosts the working public mirror of Volume I. The Black Vault copy is the version cited across published UAP research, alongside the defense.gov original. Sources: The Black Vault - AARO Historical Record Report Volume I (mirror), https://documents2.theblackvault.com/documents/dod/AARO_Historical_Record_Report_Volume_1_2024.pdf, dated 2024-03-08; AARO Historical Record Report Volume I (DOPSR-2024-0263), https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF, dated 2024-03-08.
 - John Greenewald Jr. runs out to **AARO FY2025 Consolidated Annual Report on UAP** (document, board tier A), a investigative link at Tier 1 documented. The link reads: Established publicly that the FY2025 report was released months late. The Black Vault, not the Department, documented that the statutory annual report missed its cadence, and hosts the working public copy. Sources: The Black Vault - AARO releases FY2025 UAP report months after statutory deadline, https://www.theblackvault.com/documentarchive/aaro-releases-fy2025-uap-report-months-after-statutory-deadline-citing-319-new-cases-and-expanded-satellite-analysis/, dated 2026-07-21; AARO - FY2025 Consolidated Annual Report on UAP (PDF), https://documents2.theblackvault.com/documents/osd/AARO_FY2025_Consolidated_Annual_Report_on_UAP.pdf, dated 2026-07-21.
-- John Greenewald Jr. runs out to **Susan Gough** (person, board tier A), a investigative link at Tier 1 documented. The link reads: Recipient of the 13 June 2019 and 6 December 2019 statements. Both of the Department's pivotal statements were issued to a FOIA requester rather than at a podium. Sources: The Black Vault, https://www.theblackvault.com/documentarchive/the-pentagon-corrects-record-on-secret-ufo-program/, dated 2019-12-06.
 - John Greenewald Jr. comes in from **1975 SAC Nuclear-Base Overflights (Loring, Wurtsmith, Malmstrom, Minot)** (event, board tier A), a investigative link at Tier 1 documented. The link reads: Malmstrom records released to The Black Vault under FOIA case 97-F-1677. The same September 1997 OASD release that produced the Halt memo produced the November 1975 Malmstrom overflight records. Sources: Unidentified Flying Objects over Malmstrom AFB, November 1975 (DoD FOIA case 97-F-1677), https://www.theblackvault.com/documentarchive/unidentified-flying-objects-over-malmstrom-afb-november-1975/, dated 2021-11-08; The Halt Memo - Rendlesham Forest Incident (DoD FOIA case 97-F-1677, released Sept 1997), https://www.theblackvault.com/documentarchive/the-halt-memo-the-rendlesham-forest-incident/, dated 2021-11-11.
+- John Greenewald Jr. runs out to **Susan Gough** (person, board tier A), a investigative link at Tier 1 documented. The link reads: Recipient of the 13 June 2019 and 6 December 2019 statements. Both of the Department's pivotal statements were issued to a FOIA requester rather than at a podium. Sources: The Black Vault, https://www.theblackvault.com/documentarchive/the-pentagon-corrects-record-on-secret-ufo-program/, dated 2019-12-06.
+- John Greenewald Jr. comes in from **341st Strategic Missile Wing histories, 1967-68 (FOIA release, 14 June 2001)** (document, board tier A), a custody link at Tier 1 documented. The link reads: Requester of the 9 May 2001 FOIA that produced the release. Greenewald filed the request of 9 May 2001 that produced the release, and the copy in public circulation is his. Sources: Department of the Air Force, HQ 341st Space Wing (AFSPC), 341 CS/SCBR (FOIA), response to John Greenewald Jr, releasing excerpts of the 341st SMW histories for five quarters, https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf, dated 2001-06-14.
 - John Greenewald Jr. comes in from **YANKEE BLUE (alleged AFOSI indoctrination program)** (program, board tier B), a investigative link at Tier 1 documented. The link reads: Greenewald's FOIA requests and appeal are the test of the YANKEE BLUE claim. OSD case 25-F-3514 returned no records in September 2025; AFOSI case 2025-06002-F returned no records; the appeal was granted and remanded on 15 December 2025. Sources: John Greenewald Jr., 'Pentagon Denies Existence of "Yankee Blue" Memo Reported by Wall Street Journal', The Black Vault, https://www.theblackvault.com/documentarchive/pentagon-denies-existence-of-yankee-blue-memo-reported-by-wall-street-journal/, dated 2025-09-16; John Greenewald Jr., 'Pentagon Reopens Search for Alleged "Yankee Blue" Memo After Initial Denial', The Black Vault, https://www.theblackvault.com/documentarchive/pentagon-reopens-search-for-alleged-yankee-blue-memo-after-initial-denial/, dated 2025-12-15.
-- John Greenewald Jr. runs out to **The Black Vault** (institution, board tier B), a institutional link at Tier 1 documented. The link reads: Founder and operator of the archive that produced the primary record. Nearly every document in this domain arrived through his requests. Sources: The Black Vault case file, https://www.theblackvault.com/casefiles/to-the-stars-academy-of-arts-science-tom-delonge-and-the-secret-dod-ufo-research-program/, dated 2026-08-12.
 
 It carries 17 connections in total on the board.
 
@@ -456,7 +456,7 @@ Mark McCandlish is the origin point in print of a named craft, and he is not a w
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 138 of 1125, score 53). 17 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D3.
+Re-graded A on a global pass (rank 141 of 1159, score 53). 17 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D3.
 
 ### The claims on the record
 
@@ -515,7 +515,7 @@ Affiliations recorded: Defense Intelligence Agency, chief scientist for the Defe
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 11 of 1125, score 121). 24 connections, 3 of them custody/funding/programmatic, 6 official denials recorded against it. Axes C2/A3/D1.
+Re-graded A on a global pass (rank 11 of 1159, score 121). 24 connections, 3 of them custody/funding/programmatic, 6 official denials recorded against it. Axes C2/A3/D1.
 
 ### The claims on the record
 
@@ -587,7 +587,7 @@ Affiliations recorded: UAP Gerb (YouTube channel, ~135,000 subscribers), NewsNat
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 104 of 1125, score 61). 18 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.
+Re-graded A on a global pass (rank 106 of 1159, score 61). 18 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.
 
 ### The claims on the record
 
@@ -639,7 +639,7 @@ Affiliations recorded: Stanford Research Institute, remote viewing programs (197
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 18 of 1125, score 110). 18 connections, 8 of them custody/funding/programmatic. Axes C2/A3/D3.
+Re-graded A on a global pass (rank 18 of 1159, score 110). 18 connections, 8 of them custody/funding/programmatic. Axes C2/A3/D3.
 
 ### The claims on the record
 
@@ -685,7 +685,7 @@ Affiliations recorded: U.S. House of Representatives, TN-2 (2019- ), House Commi
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 82 of 1125, score 68). 16 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D3.
+Re-graded A on a global pass (rank 84 of 1159, score 68). 16 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D3.
 
 ### The claims on the record
 
@@ -737,7 +737,7 @@ Bob Lazar is the origin point of the best-known claim in the field and, on the o
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 53 of 1125, score 77). 14 connections, 2 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C0/A0/D3.
+Re-graded A on a global pass (rank 54 of 1159, score 77). 14 connections, 2 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C0/A0/D3.
 
 ### The claims on the record
 
@@ -796,7 +796,7 @@ Affiliations recorded: Central Intelligence Agency, Office of Scientific Intelli
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 46 of 1125, score 83). 13 connections, 4 of them custody/funding/programmatic. Axes C2/A3/D2.
+Re-graded A on a global pass (rank 47 of 1159, score 83). 13 connections, 4 of them custody/funding/programmatic. Axes C2/A3/D2.
 
 ### The claims on the record
 
@@ -846,7 +846,7 @@ Affiliations recorded: Office of the Assistant to the Secretary of Defense for P
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 29 of 1125, score 96). 15 connections, 0 of them custody/funding/programmatic, 9 official denials recorded against it. Axes C0/A1/D1.
+Re-graded A on a global pass (rank 30 of 1159, score 96). 15 connections, 0 of them custody/funding/programmatic, 9 official denials recorded against it. Axes C0/A1/D1.
 
 ### The claims on the record
 
@@ -872,6 +872,54 @@ A further 9 claims sit on this node on the board and are not reproduced here.
 
 It carries 15 connections in total on the board.
 
+## Robert L. Hastings
+
+Robert L. Hastings is a person on the board; board tier B, documented channel and capability, programme role indicated but not yet nailed to a primary source; dates 2026-06-20; axes C0 A0 D3; 12 connections.
+
+In one line: Researcher, UFO incursions at US nuclear weapons sites; author, 'UFOs and Nukes'.
+
+### The longer account
+
+Robert Hastings has spent more than forty years doing one thing: locating and interviewing US Air Force personnel who were present at nuclear weapons sites during unexplained aerial incursions, and pairing their testimony with declassified documents obtained under FOIA. He states he has interviewed over 150 military veterans involved in such incidents at missile sites, weapons storage facilities and bomb test ranges, and he has published the underlying paper - FBI memoranda on Los Alamos in December 1948 and on Los Alamos and Sandia in August 1950, F. E. Warren AFB documents from 1 August 1965, Minot AFB material from 1966, the 17 March 1967 Air Force teletype reporting loss of strategic alert at Malmstrom, and 1975 Malmstrom documents - alongside signed witness affidavits. On 27 September 2010 he hosted the UFO-Nukes Connection press conference at the National Press Club in Washington DC, at which seven US Air Force veterans described incursions at nuclear weapons sites; CNN streamed the event live. That event is the single most important item in this section of the board, because it converted a body of anonymous or semi-anonymous claims into named, on-the-record testimony from identifiable former officers with signed affidavits on file - which is the difference between tier 3 and tier 2. His book 'UFOs and Nukes: Extraordinary Encounters at Nuclear Weapons Sites' is in a revised second edition of 580 pages, and his documentary 'UFOs and Nukes: The Secret Link Revealed' followed. He has lectured at more than 500 colleges and universities since 1981 and continues publishing, most recently on Grusch-era material in June 2026.
+
+### Where the record conflicts
+
+- Air Force historians and sceptics including James Carlson have contested the Malmstrom Echo Flight interpretation specifically, attributing the March 1967 shutdown to an engineering fault and, in a later analysis, to a nearby electromagnetic pulse simulator test.
+
+### Recorded as unverified
+
+- Hastings's date of birth. The identity of the seventh speaker at the 2010 press conference is inferred here from the affidavit set on his own site rather than from a programme.
+
+Affiliations recorded: ufohastings.com, UFOs and Nukes (book and documentary).
+
+### Why it holds its tier
+
+Re-graded B on a global pass (rank 191 of 1159, score 46). 12 connections, 2 of them custody/funding/programmatic. Axes C0/A0/D3.
+
+### The claims on the record
+
+- **Tier 1 documented.** Hastings publishes the primary documents underlying his cases, including FBI memoranda on Los Alamos (December 1948) and Los Alamos/Sandia (August 1950), F. E. Warren AFB documents of 1 August 1965, Minot AFB documents of 25 August 1966 and 6 December 1966, an Air Force teletype of 17 March 1967 headed loss of strategic alert, and 1975 Malmstrom material. Source: ufohastings.com document archive, retrieved 12 August 2026
+- **Tier 1 documented.** THE COUNTERWEIGHT, ON THE SAME NODE. His method is not testimony alone, and the documentary half of his output is checkable and largely checks out. This board independently opened and read in full the 341st Strategic Missile Wing histories he relies on, the 24th NORAD Region Senior Director's Log for November 1975 that he republishes, and the F. E. Warren AFB Project Blue Book telephone log of 1 August 1965 first published by J. Allen Hynek in 1972. All three are real, and say what he says they say. The board grades the document half and the interview half of his output differently inside the same node. Source: 341st SMW histories, https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf ; 24th NORAD Region log, https://archive.org/download/MalmstromAirForceBaseIncident/Malmstrom%20Air%20Force%20Base%20Incident%20%E2%80%93%20March%2016,%201967%20NORAD%20logs_djvu.txt ; F. E. Warren 1965 Blue Book log, https://rr0.org/time/2/0/0/6/02/24/Hastings_UfosightingsAtIcbmSites/Warren_1965/ ; all opened 2026-09-19
+- **Tier 2 named person on the record.** Hastings holds signed witness affidavits from Robert Salas, Charles Halt, Patrick McDonough, Robert Jamison, Dwynne Arneson, Bruce Fenstermacher and Jerry Nelson, published in facsimile. Source: ufohastings.com, 'Witness Affidavits' section
+- **Tier 2 named person on the record.** Hastings states he has interviewed more than 150 military veterans about UFO-related incidents at US missile sites, weapons storage facilities and nuclear test ranges. Source: Hastings, ufohastings.com and 'UFOs and Nukes' (2nd ed.)
+- **Tier 2 named person on the record.** It is Hastings, not a sceptic, who separated the two March 1967 events. He dates Echo Flight to 16 March 1967 and Oscar Flight to 24 March 1967 on Capt. Robert Jamison's information. That separation is what allows the Oscar Flight claim to survive the unit history's silence, and it was produced by the same interviewer whose interviews are the only source for it. Source: Robert Hastings, 'The Echo and Oscar Flight Incidents', https://www.ufohastings.com/articles/the-echo-and-oscar-flight-incidents, opened 2026-09-19
+- **Tier 2 named person on the record.** On 27 September 2010 Hastings convened seven US Air Force veterans at the National Press Club to describe UFO incursions at nuclear weapons sites; CNN carried the event. Source: ufohastings.com; CNN coverage of the press conference, 27 September 2010
+- **Tier 2 named person on the record.** On American Alchemy with Jesse Michels, 19 October 2024, at 0:34:57, Michels gave Hastings's figure as '167 UFO sighting cases at nuclear bases', and in the same breath as '167 ICBM security personnel, radar operators, people who work at these nuclear sites'. On 24 December 2024 at 2:07:40, with Hastings present, he described the same body of testimony as 'almost 200 stand-up patriots'. Source: American Alchemy with Jesse Michels, 'Did Oppenheimer Work on UFOs?', 19 October 2024, 0:34:57, and 'UFOs Are Monitoring Nuclear Weapons GLOBALLY (ft. Robert Hastings)', 24 December 2024, 2:07:40
+- **Tier 2 named person on the record.** On the same show on 27 January 2025 at 3:07:08 Michels said he had overstated the case and that Hastings emailed him a correction: 'it was only like 12 to 15. I don't remember the exact number. But radar operators, the rest were ICBM security personnel'. In the same passage he gives the overall total as 170. The correction concerns the composition of the witness population, not only its size. Source: American Alchemy with Jesse Michels, 'UFO Believer vs. UFO Skeptic: Are Aliens Visiting Earth?' (ft. Mick West and Marik von Rennenkampff), 27 January 2025, 3:07:08, https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/TOE9180015195.mp3?updated=1738087523
+
+A further 3 claims sit on this node on the board and are not reproduced here.
+
+### Its strongest connections
+
+- Robert L. Hastings comes in from **Malmstrom AFB missile shutdowns, March 1967** (event, board tier A), a custody link at Tier 1 documented. The link reads: Hastings holds and publishes the 17 March 1967 teletype. The document is published in facsimile in the UFOs & Nukes archive under the Echo Flight heading, and is the tier-1 anchor for the occurrence of the shutdown. Sources: UFOs & Nukes document archive, https://www.ufohastings.com/documents, dated 2026-08-12.
+- Robert L. Hastings runs out to **24th NORAD Region Senior Director's Log, Malmstrom, 7 to 19 November 1975** (document, board tier B), a research link at Tier 1 documented. The link reads: Republishes the NORAD log; the documentary half of his output checks out. THE COUNTERWEIGHT EDGE. Type research rather than custody: he republishes it, he does not hold it. This board opened the log independently and it says what he says it says. Sources: 24th NORAD Region Senior Directors Log, Malmstrom AFB, Montana, entries 7 to 19 November 1975, released over the signature of Terrence C. James, Colonel, USAF, Director of Administration, page-stamped 450 to 452 of a larger FOIA compilation; OCR text at archive.org. Opened 19 September 2026, https://archive.org/download/MalmstromAirForceBaseIncident/Malmstrom%20Air%20Force%20Base%20Incident%20%E2%80%93%20March%2016,%201967%20NORAD%20logs_djvu.txt, dated 1975-11-19; rr0.org mirror of Robert Hastings's Malmstrom 1975 material, independently rendering the 24th NORAD Region Senior Director's Log. Opened 19 September 2026, https://rr0.org/time/2/0/0/6/02/24/Hastings_UfosightingsAtIcbmSites/Malmstrom_1975/index.html, dated 2026-09-19.
+- Robert L. Hastings runs out to **Minot AFB incursions, 1966** (event, board tier C), a custody link at Tier 1 documented. The link reads: Publishes the 25 August 1966 Minot documents in facsimile. Three Air Force documents dated 25 August 1966 and Minot Daily News coverage of 6 December 1966 are reproduced in the archive. Sources: UFOs & Nukes document archive, https://www.ufohastings.com/documents, dated 2026-08-12.
+- Robert L. Hastings runs out to **UFO-Nukes Connection press conference, National Press Club, 27 September 2010** (event, board tier B), a witness-chain link at Tier 2 named person on the record. The link reads: Convened and hosted the National Press Club event. Hastings hosted the UFO-Nukes Connection press conference with seven USAF veterans; CNN streamed it live and quoted him from the podium. Sources: CNN coverage, National Press Club, 27 September 2010, https://archive.org/details/FullCnnCoverageOfPressConferenceufosAtNuclearWeaponBases, dated 2010-09-27; UFOs & Nukes document archive, https://www.ufohastings.com/documents, dated 2026-08-12.
+- Robert L. Hastings runs out to **Malmstrom Oscar Flight claim, 24 March 1967** (event, board tier B), a research link at Tier 2 named person on the record. The link reads: Separated Oscar Flight from Echo Flight and dated it. It is Hastings, not a sceptic, who made the separation that both improves the board's honesty and removes Echo Flight's documentation from the Oscar Flight claim. Sources: Robert Hastings, 'The Echo and Oscar Flight Incidents', separating the two events and dating Oscar Flight to 24 March 1967 on Capt. Robert Jamison's information. Opened 19 September 2026, https://www.ufohastings.com/articles/the-echo-and-oscar-flight-incidents, dated 2026-09-19.
+- Robert L. Hastings runs out to **F. E. Warren AFB, Wyoming** (location, board tier C), a research link at Tier 2 named person on the record. The link reads: Publishes the F. E. Warren 1 August 1965 material. Type research: he compiles and publishes. The 1965 telephone log itself was first published by J. Allen Hynek in 1972, not by Hastings. Sources: rr0.org mirror of Robert Hastings's F. E. Warren AFB 1965 material, reproducing the Project Blue Book telephone log of 1 August 1965 kept by Lt. Anspaugh and first published by J. Allen Hynek in 'The UFO Experience' (1972). Opened 19 September 2026, https://rr0.org/time/2/0/0/6/02/24/Hastings_UfosightingsAtIcbmSites/Warren_1965/, dated 1965-08-01.
+
+It carries 12 connections in total on the board.
+
 ## Christopher K. Mellon
 
 Christopher K. Mellon is a person on the board; board tier A, named in sworn testimony or primary documents as directly inside the programme; dates 2017-12-16; axes C1 A3 D3; 11 connections.
@@ -892,7 +940,7 @@ Affiliations recorded: Senate Select Committee on Intelligence, Minority Staff D
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 81 of 1125, score 68). 13 connections, 4 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D3.
+Re-graded A on a global pass (rank 83 of 1159, score 68). 13 connections, 4 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D3.
 
 ### The claims on the record
 
@@ -940,7 +988,7 @@ Affiliations recorded: U.S. House of Representatives, SC-1 (2021- ), House Overs
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 106 of 1125, score 60). 13 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D2.
+Re-graded A on a global pass (rank 108 of 1159, score 60). 13 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D2.
 
 ### The claims on the record
 
@@ -992,7 +1040,7 @@ Affiliations recorded: Thunder Scientific Corporation, Albuquerque (founder/pres
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 193 of 1125, score 45). 11 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A0/D3.
+Re-graded B on a global pass (rank 198 of 1159, score 45). 11 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A0/D3.
 
 ### The claims on the record
 
@@ -1044,7 +1092,7 @@ Affiliations recorded: US Air Force Office of Special Investigations (c.1979-198
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 116 of 1125, score 57). 12 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D2.
+Re-graded A on a global pass (rank 118 of 1159, score 57). 12 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D2.
 
 ### The claims on the record
 
@@ -1096,7 +1144,7 @@ Affiliations recorded: Budget Suites of America (1988-present), National Institu
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 55 of 1125, score 75). 11 connections, 4 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A2/D2.
+Re-graded A on a global pass (rank 56 of 1159, score 75). 11 connections, 4 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A2/D2.
 
 ### The claims on the record
 
@@ -1140,7 +1188,7 @@ Affiliations recorded: Defense Intelligence Agency, Defense Warning Office (1990
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 102 of 1125, score 61). 10 connections, 2 of them custody/funding/programmatic. Axes C3/A3/D3.
+Re-graded A on a global pass (rank 104 of 1159, score 61). 10 connections, 2 of them custody/funding/programmatic. Axes C3/A3/D3.
 
 ### The claims on the record
 
@@ -1182,7 +1230,7 @@ Affiliations recorded: American Alchemy (2021-present), Thiel Capital (investor)
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 605 of 1125, score 27). 10 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D3.
+Re-graded C on a global pass (rank 618 of 1159, score 27). 10 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D3.
 
 ### The claims on the record
 
@@ -1235,7 +1283,7 @@ Affiliations recorded: National Security Agency (physicist / technical director)
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 42 of 1125, score 84). 10 connections, 0 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C2/A3/D2.
+Re-graded A on a global pass (rank 42 of 1159, score 84). 10 connections, 0 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C2/A3/D2.
 
 ### The claims on the record
 
@@ -1284,7 +1332,7 @@ Affiliations recorded: The Debrief (2023), The New York Times (2017-2019, contri
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 224 of 1125, score 43). 10 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.
+Re-graded B on a global pass (rank 230 of 1159, score 43). 10 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.
 
 ### The claims on the record
 
@@ -1340,7 +1388,7 @@ Affiliations recorded: Stanford University School of Medicine, Professor of Path
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 119 of 1125, score 56). 10 connections, 2 of them custody/funding/programmatic. Axes C2/A1/D3.
+Re-graded A on a global pass (rank 121 of 1159, score 56). 10 connections, 2 of them custody/funding/programmatic. Axes C2/A1/D3.
 
 ### The claims on the record
 
@@ -1389,7 +1437,7 @@ Affiliations recorded: Stanford Research Institute, Augmentation Research Center
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 289 of 1125, score 39). 9 connections, 0 of them custody/funding/programmatic. Axes C2/A1/D2.
+Re-graded B on a global pass (rank 296 of 1159, score 39). 9 connections, 0 of them custody/funding/programmatic. Axes C2/A1/D2.
 
 ### The claims on the record
 
@@ -1435,7 +1483,7 @@ Affiliations recorded: Center for the Study of Extraterrestrial Intelligence (fo
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 222 of 1125, score 43). 10 connections, 2 of them custody/funding/programmatic. Axes C0/A0/D3.
+Re-graded B on a global pass (rank 228 of 1159, score 43). 10 connections, 2 of them custody/funding/programmatic. Axes C0/A0/D3.
 
 ### The claims on the record
 
@@ -1486,7 +1534,7 @@ Affiliations recorded: National Institute for Discovery Science, project manager
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 195 of 1125, score 45). 8 connections, 1 of them custody/funding/programmatic. Axes C2/A2/D3.
+Re-graded B on a global pass (rank 200 of 1159, score 45). 8 connections, 1 of them custody/funding/programmatic. Axes C2/A2/D3.
 
 ### The claims on the record
 
@@ -1534,7 +1582,7 @@ Edgar Albert Fouche is the single named origin of the TR-3B account, and what ma
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 208 of 1125, score 44). 8 connections, 1 of them custody/funding/programmatic. Axes C0/A1/D3.
+Re-graded B on a global pass (rank 214 of 1159, score 44). 8 connections, 1 of them custody/funding/programmatic. Axes C0/A1/D3.
 
 ### The claims on the record
 
@@ -1587,7 +1635,7 @@ Affiliations recorded: US Navy (2009-2019), VFA-11 Red Rippers, USS Theodore Roo
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 177 of 1125, score 47). 10 connections, 2 of them custody/funding/programmatic. Axes C0/A1/D3.
+Re-graded B on a global pass (rank 180 of 1159, score 47). 10 connections, 2 of them custody/funding/programmatic. Axes C0/A1/D3.
 
 ### The claims on the record
 
@@ -1656,7 +1704,7 @@ Affiliations recorded: Naval Air Warfare Center Aircraft Division (NAWCAD), NAS 
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 43 of 1125, score 84). 8 connections, 6 of them custody/funding/programmatic. Axes C2/A1/D1.
+Re-graded A on a global pass (rank 43 of 1159, score 84). 8 connections, 6 of them custody/funding/programmatic. Axes C2/A1/D1.
 
 ### The claims on the record
 
@@ -1704,7 +1752,7 @@ Affiliations recorded: Fair-Witness Project, Co-author with Charles Berlitz, 'Th
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 233 of 1125, score 42). 8 connections, 2 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D2.
+Re-graded B on a global pass (rank 239 of 1159, score 42). 8 connections, 2 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D2.
 
 ### The claims on the record
 
@@ -1740,7 +1788,7 @@ The president who signed the founding instruments of the structure this board ma
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 252 of 1125, score 41). 7 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D1.
+Re-graded B on a global pass (rank 258 of 1159, score 41). 7 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D1.
 
 ### The claims on the record
 
@@ -1779,7 +1827,7 @@ Affiliations recorded: Weaponized podcast (with George Knapp), Extraordinary Bel
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 603 of 1125, score 27). 7 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.
+Re-graded C on a global pass (rank 616 of 1159, score 27). 7 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.
 
 ### The claims on the record
 
@@ -1826,7 +1874,7 @@ Affiliations recorded: 509th Bomb Group, Roswell Army Air Field, S-2 Intelligenc
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 139 of 1125, score 53). 8 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A2/D3.
+Re-graded A on a global pass (rank 142 of 1159, score 53). 8 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A2/D3.
 
 ### The claims on the record
 
@@ -1863,7 +1911,7 @@ Affiliations recorded: U.S. Senate, New York (2009- ), Senate Armed Services Com
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 220 of 1125, score 43). 7 connections, 1 of them custody/funding/programmatic. Axes C0/A2/D3.
+Re-graded B on a global pass (rank 226 of 1159, score 43). 7 connections, 1 of them custody/funding/programmatic. Axes C0/A2/D3.
 
 ### The claims on the record
 
@@ -2236,7 +2284,7 @@ The provenance that matters most is the one the enthusiast literature omits. Bro
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 56 of 1125, score 75). 7 connections, 0 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C2/A1/D2.
+Re-graded A on a global pass (rank 57 of 1159, score 75). 7 connections, 0 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C2/A1/D2.
 
 ### The claims on the record
 
@@ -2280,7 +2328,7 @@ Affiliations recorded: Central Intelligence Agency, Director of Central Intellig
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 268 of 1125, score 40). 6 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D1.
+Re-graded B on a global pass (rank 275 of 1159, score 40). 6 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D1.
 
 ### The claims on the record
 
@@ -2325,7 +2373,7 @@ Affiliations recorded: Harvard University Department of Astronomy (1993- ; chair
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 225 of 1125, score 43). 6 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D3.
+Re-graded B on a global pass (rank 231 of 1159, score 43). 6 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D3.
 
 ### The claims on the record
 
@@ -2367,7 +2415,7 @@ Affiliations recorded: New Paradigm Institute (founder), Christic Institute (co-
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 463 of 1125, score 31). 6 connections, 0 of them custody/funding/programmatic. Axes C1/A0/D3.
+Re-graded B on a global pass (rank 474 of 1159, score 31). 6 connections, 0 of them custody/funding/programmatic. Axes C1/A0/D3.
 
 ### The claims on the record
 
@@ -2407,7 +2455,7 @@ Affiliations recorded: US Army, Vietnam (116th and 187th Assault Helicopter Comp
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 223 of 1125, score 43). 6 connections, 0 of them custody/funding/programmatic, 4 official denials recorded against it. Axes C0/A1/D3.
+Re-graded B on a global pass (rank 229 of 1159, score 43). 6 connections, 0 of them custody/funding/programmatic, 4 official denials recorded against it. Axes C0/A1/D3.
 
 ### The claims on the record
 
@@ -2445,7 +2493,7 @@ Affiliations recorded: U.S. Senate, Florida (2011-2025), SSCI Acting Chairman (2
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 434 of 1125, score 32). 6 connections, 1 of them custody/funding/programmatic. Axes C0/A3/D2.
+Re-graded B on a global pass (rank 444 of 1159, score 32). 6 connections, 1 of them custody/funding/programmatic. Axes C0/A3/D2.
 
 ### The claims on the record
 
@@ -2479,7 +2527,7 @@ The structural point is the ordering. A former DCI publicly contradicting the Ai
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 165 of 1125, score 49). 6 connections, 0 of them custody/funding/programmatic. Axes C3/A2/D3.
+Re-graded A on a global pass (rank 168 of 1159, score 49). 6 connections, 0 of them custody/funding/programmatic. Axes C3/A2/D3.
 
 ### The claims on the record
 
@@ -2525,7 +2573,7 @@ Affiliations recorded: US Navy (1989-2017), Rear Admiral, Commander, Naval Meteo
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 147 of 1125, score 52). 8 connections, 2 of them custody/funding/programmatic. Axes C1/A2/D3.
+Re-graded A on a global pass (rank 150 of 1159, score 52). 8 connections, 2 of them custody/funding/programmatic. Axes C1/A2/D3.
 
 ### The claims on the record
 
@@ -2563,7 +2611,7 @@ A private correspondent of John Podesta's in the WikiLeaks Podesta Emails, writi
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 534 of 1125, score 29). 5 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.
+Re-graded B on a global pass (rank 544 of 1159, score 29). 5 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.
 
 ### The claims on the record
 
@@ -2594,7 +2642,7 @@ The board already holds a document over Cabell's signature, cited as a source on
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 253 of 1125, score 41). 5 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A2/D2.
+Re-graded B on a global pass (rank 259 of 1159, score 41). 5 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A2/D2.
 
 ### The claims on the record
 
@@ -2630,7 +2678,7 @@ Affiliations recorded: U.S. Senate, New York (1999- ), Senate Majority Leader (2
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 265 of 1125, score 40). 5 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D3.
+Re-graded B on a global pass (rank 273 of 1159, score 40). 5 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D3.
 
 ### The claims on the record
 
@@ -2672,7 +2720,7 @@ Clifford Stone is on this board because the evidence against his extraordinary a
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 340 of 1125, score 36). 5 connections, 0 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C0/A0/D3.
+Re-graded B on a global pass (rank 346 of 1159, score 36). 5 connections, 0 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C0/A0/D3.
 
 ### The claims on the record
 
@@ -2717,7 +2765,7 @@ Affiliations recorded: US Navy (1989-2006), VFA-41 Black Aces, Commanding Office
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 159 of 1125, score 50). 6 connections, 1 of them custody/funding/programmatic. Axes C0/A1/D3.
+Re-graded A on a global pass (rank 162 of 1159, score 50). 6 connections, 1 of them custody/funding/programmatic. Axes C0/A1/D3.
 
 ### The claims on the record
 
@@ -2758,7 +2806,7 @@ Keyhoe ran the civilian organisation the board already carries as nicap, and he 
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 221 of 1125, score 43). 5 connections, 0 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C1/A1/D2.
+Re-graded B on a global pass (rank 227 of 1159, score 43). 5 connections, 0 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C1/A1/D2.
 
 ### The claims on the record
 
@@ -2798,7 +2846,7 @@ Affiliations recorded: US Air Force veteran, U.S. Air Force (Langley AFB, c.2012
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 103 of 1125, score 61). 6 connections, 2 of them custody/funding/programmatic. Axes C1/A2/D3.
+Re-graded A on a global pass (rank 105 of 1159, score 61). 6 connections, 2 of them custody/funding/programmatic. Axes C1/A2/D3.
 
 ### The claims on the record
 
@@ -2840,7 +2888,7 @@ Affiliations recorded: U.S. House of Representatives, FL-23 (2023- ), House Comm
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 360 of 1125, score 35). 5 connections, 1 of them custody/funding/programmatic. Axes C0/A1/D3.
+Re-graded B on a global pass (rank 367 of 1159, score 35). 5 connections, 1 of them custody/funding/programmatic. Axes C0/A1/D3.
 
 ### The claims on the record
 
@@ -2878,7 +2926,7 @@ Affiliations recorded: The White House (1993-2001; 2014-2015), Center for Americ
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 690 of 1125, score 24). 5 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D3.
+Re-graded C on a global pass (rank 703 of 1159, score 24). 5 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D3.
 
 ### The claims on the record
 
@@ -2912,7 +2960,7 @@ Affiliations recorded: NASA Ames Research Center (2001-2005), University at Alba
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 904 of 1125, score 17). 5 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.
+Re-graded C on a global pass (rank 932 of 1159, score 17). 5 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.
 
 ### The claims on the record
 
@@ -2951,7 +2999,7 @@ Affiliations recorded: CRIFO (Civilian Research, Interplanetary Flying Objects),
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 784 of 1125, score 21). 5 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D3.
+Re-graded C on a global pass (rank 801 of 1159, score 21). 5 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D3.
 
 ### The claims on the record
 
@@ -2986,7 +3034,7 @@ Affiliations recorded: University at Albany (SUNY), Department of Physics, LUX /
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 903 of 1125, score 17). 5 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.
+Re-graded C on a global pass (rank 931 of 1159, score 17). 5 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.
 
 ### The claims on the record
 
@@ -3019,7 +3067,7 @@ Genik has no documented custody proximity and no documented special access. He i
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 141 of 1125, score 53). 5 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D3.
+Re-graded A on a global pass (rank 144 of 1159, score 53). 5 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D3.
 
 ### The claims on the record
 
@@ -3058,7 +3106,7 @@ Richard Bissell is where the documented record of Area 51 begins, and the board'
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 234 of 1125, score 42). 5 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D1.
+Re-graded B on a global pass (rank 240 of 1159, score 42). 5 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D1.
 
 ### The claims on the record
 
@@ -3076,46 +3124,51 @@ Re-graded B on a global pass (rank 234 of 1125, score 42). 5 connections, 1 of t
 - Richard M. Bissell Jr. runs out to **Lockheed Martin Advanced Development Programs (Skunk Works)** (institution, board tier B), a programmatic link at Tier 1 documented. The link reads: Ran the project Kelly Johnson built the aircraft for. Kelly Johnson was on the 12 April 1955 site flight with Lockheed's chief test pilot, and named the resulting base the Paradise Ranch to make it sound better to his workers. Sources: Pedlow and Welzenbach, The Central Intelligence Agency and Overhead Reconnaissance, 2013 release, chapter 2, https://archive.org/download/cia-readingroom-document-0000190094/0000190094_djvu.txt, dated 2013-06-25.
 - Richard M. Bissell Jr. runs out to **Area 51 (Homey Airport / Groom Lake operating location)** (location, board tier B), a institutional link at Tier 1 documented. The link reads: Asked the AEC to absorb the land that became Area 51. On finding the site lay outside the proving ground he and Miller asked the Commission to add it to its Nevada holdings; Strauss agreed and Eisenhower approved the addition of the strip known by its map designation as Area 51. Sources: Pedlow and Welzenbach, The Central Intelligence Agency and Overhead Reconnaissance, 2013 release, chapter 2, https://archive.org/download/cia-readingroom-document-0000190094/0000190094_djvu.txt, dated 2013-06-25.
 
-## Robert L. Hastings
+## Capt. Robert L. Salas
 
-Robert L. Hastings is a person on the board; board tier B, documented channel and capability, programme role indicated but not yet nailed to a primary source; dates 2026-06-20; axes C0 A0 D3; 5 connections.
+Capt. Robert L. Salas is a person on the board; board tier B, documented channel and capability, programme role indicated but not yet nailed to a primary source; dates 2025-01-01; axes C0 A2 D3; 5 connections.
 
-In one line: Researcher, UFO incursions at US nuclear weapons sites; author, 'UFOs and Nukes'.
+In one line: USAF Academy graduate; Minuteman missile launch officer, 341st SMW, Malmstrom AFB, March 1967.
 
 ### The longer account
 
-Robert Hastings has spent more than forty years doing one thing: locating and interviewing US Air Force personnel who were present at nuclear weapons sites during unexplained aerial incursions, and pairing their testimony with declassified documents obtained under FOIA. He states he has interviewed over 150 military veterans involved in such incidents at missile sites, weapons storage facilities and bomb test ranges, and he has published the underlying paper - FBI memoranda on Los Alamos in December 1948 and on Los Alamos and Sandia in August 1950, F. E. Warren AFB documents from 1 August 1965, Minot AFB material from 1966, the 17 March 1967 Air Force teletype reporting loss of strategic alert at Malmstrom, and 1975 Malmstrom documents - alongside signed witness affidavits. On 27 September 2010 he hosted the UFO-Nukes Connection press conference at the National Press Club in Washington DC, at which seven US Air Force veterans described incursions at nuclear weapons sites; CNN streamed the event live. That event is the single most important item in this section of the board, because it converted a body of anonymous or semi-anonymous claims into named, on-the-record testimony from identifiable former officers with signed affidavits on file - which is the difference between tier 3 and tier 2. His book 'UFOs and Nukes: Extraordinary Encounters at Nuclear Weapons Sites' is in a revised second edition of 580 pages, and his documentary 'UFOs and Nukes: The Secret Link Revealed' followed. He has lectured at more than 500 colleges and universities since 1981 and continues publishing, most recently on Grusch-era material in June 2026.
+Robert L. Salas is the named officer at the centre of the Malmstrom March 1967 missile shutdown claim. A US Air Force Academy graduate with a master's in aerospace engineering from the Air Force Institute of Technology, he served seven years on active duty as an ICBM launch controller and missile propulsion engineer, resigned his commission in 1971, worked at Martin Marietta and Rockwell International, then spent two decades at the Federal Aviation Administration to about 1995. He first went on the record in a 1996 interview with the Great Falls Tribune: while on duty in a launch control capsule at Malmstrom he took a call from a topside Air Force security police officer reporting a glowing red object hovering over the front gate, and within moments the missiles in his flight went off alert status one after another. He has repeated the account in a signed affidavit held by Robert Hastings, in his books 'Faded Giant' (2005, with James Klotz) and 'Unidentified' (2014), at the 27 September 2010 National Press Club event, and in the 2025 documentary 'The Age of Disclosure'. His most important corroboration is a letter from his commander, Col. Frederick Meiwald, dated 1 October 1996, published in facsimile by Hastings. Salas is also the case where this board's grading discipline bites hardest in both directions: the underlying fact that a Malmstrom flight of ten Minuteman missiles went off alert in March 1967 is documented in Air Force paper, while the causal attribution to an aerial object is testimony, and a competing engineering explanation - a nearby electromagnetic pulse simulator test - has been advanced against it.
 
 ### Where the record conflicts
 
-- Air Force historians and sceptics including James Carlson have contested the Malmstrom Echo Flight interpretation specifically, attributing the March 1967 shutdown to an engineering fault and, in a later analysis, to a nearby electromagnetic pulse simulator test.
+- A later investigation attributes the loss of power and the visual report to a nearby test of an electromagnetic pulse simulator. James Carlson, son of the Echo Flight commander, has publicly disputed Salas's account. Salas has additionally claimed a 1985 abduction from his home, which is a separate and ungradeable claim and is not relied on here.
 
 ### Recorded as unverified
 
-- Hastings's date of birth. The identity of the seventh speaker at the 2010 press conference is inferred here from the affidavit set on his own site rather than from a programme.
+- Whether Salas was on duty at Echo Flight on 16 March or at Oscar Flight on 24 March 1967; the dating has shifted across his accounts and no unit roster settling it has been released.
+- The full 341st Strategic Missile Wing unit history for March 1967 has not been read in the original here.
 
-Affiliations recorded: ufohastings.com, UFOs and Nukes (book and documentary).
+Affiliations recorded: US Air Force Academy, 341st Strategic Missile Wing, Malmstrom AFB, Martin Marietta; Rockwell International, Federal Aviation Administration (1974-c.1995).
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 506 of 1125, score 30). 5 connections, 2 of them custody/funding/programmatic. Axes C0/A0/D3.
+Re-graded B on a global pass (rank 192 of 1159, score 46). 5 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D3.
 
 ### The claims on the record
 
-- **Tier 1 documented.** Hastings publishes the primary documents underlying his cases, including FBI memoranda on Los Alamos (December 1948) and Los Alamos/Sandia (August 1950), F. E. Warren AFB documents of 1 August 1965, Minot AFB documents of 25 August 1966 and 6 December 1966, an Air Force teletype of 17 March 1967 headed loss of strategic alert, and 1975 Malmstrom material. Source: ufohastings.com document archive, retrieved 12 August 2026
-- **Tier 2 named person on the record.** Hastings holds signed witness affidavits from Robert Salas, Charles Halt, Patrick McDonough, Robert Jamison, Dwynne Arneson, Bruce Fenstermacher and Jerry Nelson, published in facsimile. Source: ufohastings.com, 'Witness Affidavits' section
-- **Tier 2 named person on the record.** Hastings states he has interviewed more than 150 military veterans about UFO-related incidents at US missile sites, weapons storage facilities and nuclear test ranges. Source: Hastings, ufohastings.com and 'UFOs and Nukes' (2nd ed.)
-- **Tier 2 named person on the record.** On 27 September 2010 Hastings convened seven US Air Force veterans at the National Press Club to describe UFO incursions at nuclear weapons sites; CNN carried the event. Source: ufohastings.com; CNN coverage of the press conference, 27 September 2010
-- **Tier 2 named person on the record.** On American Alchemy with Jesse Michels, 19 October 2024, at 0:34:57, Michels gave Hastings's figure as '167 UFO sighting cases at nuclear bases', and in the same breath as '167 ICBM security personnel, radar operators, people who work at these nuclear sites'. On 24 December 2024 at 2:07:40, with Hastings present, he described the same body of testimony as 'almost 200 stand-up patriots'. Source: American Alchemy with Jesse Michels, 'Did Oppenheimer Work on UFOs?', 19 October 2024, 0:34:57, and 'UFOs Are Monitoring Nuclear Weapons GLOBALLY (ft. Robert Hastings)', 24 December 2024, 2:07:40
-- **Tier 2 named person on the record.** On the same show on 27 January 2025 at 3:07:08 Michels said he had overstated the case and that Hastings emailed him a correction: 'it was only like 12 to 15. I don't remember the exact number. But radar operators, the rest were ICBM security personnel'. In the same passage he gives the overall total as 170. The correction concerns the composition of the witness population, not only its size. Source: American Alchemy with Jesse Michels, 'UFO Believer vs. UFO Skeptic: Are Aliens Visiting Earth?' (ft. Mick West and Marik von Rennenkampff), 27 January 2025, 3:07:08, https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/TOE9180015195.mp3?updated=1738087523
+- **Tier 1 documented.** An Air Force teletype dated 17 March 1967 reporting loss of strategic alert at Malmstrom AFB is published in facsimile in the UFOs & Nukes document archive under the heading 'Malmstrom AFB, March 16, 1967 (Echo Flight shutdown)'. Source: ufohastings.com document archive, item af_teletype_1967-03-17_loss_of_strategic_alert
+- **Tier 1 documented.** On one disputed point the same document supports him against his critics. The history states that all launch facilities in Echo Flight lost strategic alert nearly simultaneously, which supports a figure of ten and not the three or four attributed to Capt. Eric D. Carlson. Source: 341st SMW history, Jan-Mar 1967, p 32, https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf, opened 2026-09-19
+- **Tier 1 documented.** The event Salas places himself at is NOT the event the released Air Force paper documents. A full-text search of the 88 released pages of the 341st Strategic Missile Wing histories returns zero occurrences of 'Oscar', zero of 'O Flight', zero of '24 Mar' and zero of '25 Mar'. The release documents Echo Flight on 16 March 1967 and nothing else in March 1967. Source: Full-text search of the 14 June 2001 FOIA release, https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf, opened 2026-09-19
+- **Tier 2 named person on the record.** Col. Frederick Meiwald, Salas's commander, wrote to Salas on 1 October 1996 concerning the incident; the letter is published in facsimile. Source: ufohastings.com, 'Letters' section, meiwald_letter_10-1-1996
+- **Tier 2 named person on the record.** Kevin Randle records Salas revising the number of missiles involved in conversation, quoting Salas saying 'Split the difference and I said eight' and noting that Salas later claimed all ten, and records a discrepancy between Salas, who gives all, and Col. Frederick Meiwald, who gives four or five. Source: Kevin Randle, 'Robert Salas and Me', 19 May 2013, http://kevinrandle.blogspot.com/2013/05/robert-salas-and-me.html, opened 2026-09-19
+- **Tier 2 named person on the record.** On American Alchemy with Jesse Michels, 12 July 2025, at 0:58:13, Salas said he did not learn his own incident was at Oscar Flight rather than Echo Flight until 1996, when he reached his former commander Fred Meiwald, who told him 'we were not at Echo Flight. We were at Oscar flight'. Salas says he had spoken of the Echo Flight incident as his own because it was so similar to what he recalled. This is his own account of the discrepancy the board's node already records. Source: American Alchemy with Jesse Michels, 'Air Force Officer: A UFO Shut Down 10 Nukes in Seconds (ft. Bob Salas)', 12 July 2025, 0:58:13, https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL8813107798.mp3?updated=1752514599
+- **Tier 2 named person on the record.** On American Alchemy with Jesse Michels, 9 February 2026, Michels said that Strategic Air Command 'wrote up a whole write up saying we're baffled and confused' about the Echo Flight incident, which he placed eight days before the Oscar Flight shutdown, and that targeting officer Bob Jamison went in to check why the ten missiles went down (0:19:06). No document number, date or addressee is given for the SAC write-up. Source: American Alchemy with Jesse Michels, 'Meet the Nuclear Missile Guard Abducted by Aliens', 9 February 2026, 0:19:06 https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL9102178952.mp3?updated=1770679988
+- **Tier 2 named person on the record.** Robert Hastings now places the Oscar Flight incident on 24 March 1967, eight days after Echo Flight, on Capt. Robert Jamison's information, and states that Salas agrees the two incidents probably occurred on separate days. For years the Oscar Flight account was told as part of the 16 March event, which allowed Echo Flight's documentation to be read as corroborating it. Source: Robert Hastings, 'The Echo and Oscar Flight Incidents', https://www.ufohastings.com/articles/the-echo-and-oscar-flight-incidents, opened 2026-09-19
+
+A further 4 claims sit on this node on the board and are not reproduced here.
 
 ### Its strongest connections
 
-- Robert L. Hastings comes in from **Malmstrom AFB missile shutdowns, March 1967** (event, board tier B), a custody link at Tier 1 documented. The link reads: Hastings holds and publishes the 17 March 1967 teletype. The document is published in facsimile in the UFOs & Nukes archive under the Echo Flight heading, and is the tier-1 anchor for the occurrence of the shutdown. Sources: UFOs & Nukes document archive, https://www.ufohastings.com/documents, dated 2026-08-12.
-- Robert L. Hastings runs out to **Minot AFB incursions, 1966** (event, board tier C), a custody link at Tier 1 documented. The link reads: Publishes the 25 August 1966 Minot documents in facsimile. Three Air Force documents dated 25 August 1966 and Minot Daily News coverage of 6 December 1966 are reproduced in the archive. Sources: UFOs & Nukes document archive, https://www.ufohastings.com/documents, dated 2026-08-12.
-- Robert L. Hastings runs out to **UFO-Nukes Connection press conference, National Press Club, 27 September 2010** (event, board tier C), a witness-chain link at Tier 2 named person on the record. The link reads: Convened and hosted the National Press Club event. Hastings hosted the UFO-Nukes Connection press conference with seven USAF veterans; CNN streamed it live and quoted him from the podium. Sources: CNN coverage, National Press Club, 27 September 2010, https://archive.org/details/FullCnnCoverageOfPressConferenceufosAtNuclearWeaponBases, dated 2010-09-27; UFOs & Nukes document archive, https://www.ufohastings.com/documents, dated 2026-08-12.
-- Robert L. Hastings runs out to **Clear Intent: The Government Coverup of the UFO Experience (1984)** (document, board tier C), a research link at Tier 3 stated inference. The link reads: Hastings extended the Fawcett-Greenwood documentary method with named witnesses. Hastings pairs the FOIA paper that 'Clear Intent' established with signed affidavits from named officers, which is the step the 1984 book could not take. Reasoning: comparison of the two evidence bases. Sources: UFOs & Nukes document archive, https://www.ufohastings.com/documents, dated 2026-08-12; Fawcett and Greenwood, 'Clear Intent' (1984), https://archive.org/details/clear-intent-the-government-coverup-of-the-ufo-experience, dated 1984-01-01.
-- Robert L. Hastings comes in from **Richard M. Dolan** (person, board tier C), a research link at Tier 3 stated inference. The link reads: Dolan's institutional frame and Hastings's nuclear casework are complementary. Dolan argues concealment from the documented secrecy architecture; Hastings supplies the best-documented category of incident occurring inside the most heavily compartmented part of that architecture. Reasoning: the nuclear weapons complex is where SAP density and incident documentation coincide. Sources: UFOs & Nukes document archive, https://www.ufohastings.com/documents, dated 2026-08-12.
+- Capt. Robert L. Salas runs out to **Malmstrom AFB missile shutdowns, March 1967** (event, board tier A), a witness-chain link at Tier 2 named person on the record. The link reads: Principal named witness to the March 1967 shutdown. Salas first went on the record in 1996 with the Great Falls Tribune, describing a security police report of a glowing red object over the front gate immediately before his flight's missiles went off alert. Sources: UFOs & Nukes document archive, https://www.ufohastings.com/documents, dated 2026-08-12.
+- Capt. Robert L. Salas runs out to **UFO-Nukes Connection press conference, National Press Club, 27 September 2010** (event, board tier B), a witness-chain link at Tier 2 named person on the record. The link reads: Spoke on the record and has a signed affidavit on file. Salas is among the named affiants in the UFOs & Nukes archive and spoke at the 2010 event. Sources: UFOs & Nukes document archive, https://www.ufohastings.com/documents, dated 2026-08-12; CNN coverage, National Press Club, 27 September 2010, https://archive.org/details/FullCnnCoverageOfPressConferenceufosAtNuclearWeaponBases, dated 2010-09-27.
+- Capt. Robert L. Salas runs out to **Malmstrom Oscar Flight claim, 24 March 1967** (event, board tier B), a witness-chain link at Tier 2 named person on the record. The link reads: The originating claimant of the Oscar Flight account. He approached the Great Falls Tribune himself in 1996, which is a different provenance from the four witnesses who reach the public only through an interviewer. He has never claimed to have seen anything himself: his account is of a telephone call taken in a sealed capsule. Sources: Robert Hastings, 'The Echo and Oscar Flight Incidents', separating the two events and dating Oscar Flight to 24 March 1967 on Capt. Robert Jamison's information. Opened 19 September 2026, https://www.ufohastings.com/articles/the-echo-and-oscar-flight-incidents, dated 2026-09-19; Kevin Randle, 'A Different Perspective: Robert Salas and Me', 19 May 2013. Opened 19 September 2026, http://kevinrandle.blogspot.com/2013/05/robert-salas-and-me.html, dated 2013-05-19; 341st Strategic Missile Wing quarterly histories, 1 January 1967 to 31 March 1968, excerpts released to John Greenewald Jr by Headquarters 341st Space Wing on 14 June 2001 under his FOIA request of 9 May 2001, signed Marty S. Stephens; 88-page PDF on The Black Vault, text extracted and read in full by this session. Opened 19 September 2026, https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf, dated 2001-06-14.
+- Capt. Robert L. Salas comes in from **James Carlson** (person, board tier C), a denial link at Tier 2 named person on the record. The link reads: Sustained published dispute of the Malmstrom account. Carlson is the son of Echo Flight's crew commander. His two works were NOT OPENED by this board and his position is reported at one remove. Sources: Metabunk, 'UFOs at Nuclear Weapons Sites (Salas, Malmstrom, Eagle Flight) - Skeptical Resources', carrying James Carlson's own titles and positions and the Nalty 1969 quotation. Opened 19 September 2026, https://www.metabunk.org/threads/ufos-at-nuclear-weapons-sites-salas-malmstrom-eagle-flight-skeptical-resources.3284/, dated 2026-09-19.
+- Capt. Robert L. Salas comes in from **DoD Nuclear Weapon Personnel Reliability Program (DoD Directive 5210.42)** (program, board tier B), a witness-chain link at Tier 3 stated inference. The link reads: The administrative regime his testimony was given against. Salas was a missile combat crew commander at a PRP site; the programme is the administrative regime his testimony was given against, which is an inference from the directive's scope and not a statement about him. Sources: DoD Directive 5210.42, 25 May 1993, DTIC AD-A271698, https://archive.org/download/DTIC_ADA271698/DTIC_ADA271698_djvu.txt, dated 1993-05-25.
 
 ## Stanton T. Friedman
 
@@ -3139,7 +3192,7 @@ Affiliations recorded: General Electric (1956-1959), Aerojet General Nucleonics 
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 140 of 1125, score 53). 5 connections, 0 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C0/A2/D3.
+Re-graded A on a global pass (rank 143 of 1159, score 53). 5 connections, 0 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C0/A2/D3.
 
 ### The claims on the record
 
@@ -3184,7 +3237,7 @@ Affiliations recorded: US House of Representatives, NM-01 (1989-1998), House Jud
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 303 of 1125, score 38). 5 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.
+Re-graded B on a global pass (rank 310 of 1159, score 38). 5 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.
 
 ### The claims on the record
 
@@ -3221,7 +3274,7 @@ Tom Mahood is the custody and analysis point for most of the documentary record 
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 304 of 1125, score 38). 5 connections, 2 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C0/A0/D2.
+Re-graded B on a global pass (rank 311 of 1159, score 38). 5 connections, 2 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C0/A0/D2.
 
 ### The claims on the record
 
@@ -3258,7 +3311,7 @@ Affiliations recorded: Central Intelligence Agency, Director of Central Intellig
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 411 of 1125, score 33). 5 connections, 1 of them custody/funding/programmatic. Axes C1/A3/D0.
+Re-graded B on a global pass (rank 420 of 1159, score 33). 5 connections, 1 of them custody/funding/programmatic. Axes C1/A3/D0.
 
 ### The claims on the record
 
@@ -3287,7 +3340,7 @@ The correspondent named throughout the Wilson-Davis notes as the man who first r
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 712 of 1125, score 23). 5 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.
+Re-graded C on a global pass (rank 727 of 1159, score 23). 5 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.
 
 ### The claims on the record
 
@@ -3319,7 +3372,7 @@ Affiliations recorded: US Navy (2001-2019), VFA-41 Black Aces (2004), Naval Post
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 499 of 1125, score 30). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.
+Re-graded B on a global pass (rank 510 of 1159, score 30). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.
 
 ### The claims on the record
 
@@ -3364,7 +3417,7 @@ Affiliations recorded: US Navy, Senior Chief Operations Specialist, USS Jackson 
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 186 of 1125, score 46). 5 connections, 1 of them custody/funding/programmatic. Axes C1/A1/D3.
+Re-graded B on a global pass (rank 189 of 1159, score 46). 5 connections, 1 of them custody/funding/programmatic. Axes C1/A1/D3.
 
 ### The claims on the record
 
@@ -3406,7 +3459,7 @@ The documented officeholder who joins three institutions the board already carri
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 254 of 1125, score 41). 4 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D1.
+Re-graded B on a global pass (rank 260 of 1159, score 41). 4 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D1.
 
 ### The claims on the record
 
@@ -3444,7 +3497,7 @@ Everything substantive on this thread traces to one man, and the earliest docume
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 498 of 1125, score 30). 4 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D1.
+Re-graded B on a global pass (rank 509 of 1159, score 30). 4 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D1.
 
 ### The claims on the record
 
@@ -3461,6 +3514,48 @@ Re-graded B on a global pass (rank 498 of 1125, score 30). 4 connections, 0 of t
 - 'Brad' Sorensen runs out to **William B. Scott's interview notes on 'Brad', 3 December 1990** (document, board tier B), a witness-chain link at Tier 1 documented. The link reads: Interviewee; the notes are his account in his own words. The document's own header: 'NOTES FROM INTERVIEW ON 12-3-90 WITH BRAD', 'COMPILED 12-11-90; SCOTT/AVWK LANCASTER'. He gave one paid hour in his Pasadena office and had refused an approach the previous summer. Sources: William B. Scott, interview notes on 'Brad', 3 December 1990, scanned PDF hosted by arvp.co.uk, https://www.arvp.co.uk/wp-content/uploads/2024/12/SORENSEN-1990-INTERVIEW.pdf, dated 1990-12-11.
 - 'Brad' Sorensen runs out to **Alien Reproduction Vehicle (ARV) / Flux Liner** (program, board tier A), a witness-chain link at Tier 2 named person on the record. The link reads: Sole claimed eyewitness to the three craft. Every substantive claim about the craft traces to him and to nobody else. His own 1990 words limit it: the sizes are 'Just a guess; don't hold me to that', and of the manned vehicle in McCandlish's drawing, 'this is probably the farthest from what I saw'. Sources: William B. Scott, interview notes on 'Brad', 3 December 1990, scanned PDF hosted by arvp.co.uk, https://www.arvp.co.uk/wp-content/uploads/2024/12/SORENSEN-1990-INTERVIEW.pdf, dated 1990-12-11.
 - 'Brad' Sorensen runs out to **Norton AFB air show, 12 November 1988, and the alleged classified exhibit** (event, board tier B), a witness-chain link at Tier 2 named person on the record. The link reads: Sole claimed eyewitness to the alleged hangar exhibit. He is the only person who claims to have been inside. The 1990 notes place his account only 'in early Nov. 88'; the exact date comes from McCandlish in 2001. Sources: William B. Scott, interview notes on 'Brad', 3 December 1990, scanned PDF hosted by arvp.co.uk, https://www.arvp.co.uk/wp-content/uploads/2024/12/SORENSEN-1990-INTERVIEW.pdf, dated 1990-12-11.
+
+## Charles I. Halt
+
+Charles I. Halt is a person on the board; board tier B, documented channel and capability, programme role indicated but not yet nailed to a primary source; dates 1981-01-13; axes C1 A2 D3; 4 connections.
+
+In one line: Lt Col USAF (later Col); Deputy Base Commander, RAF Bentwaters/Woodbridge 1980-81.
+
+### The longer account
+
+Halt wrote the single most consequential UFO document ever produced by a serving US officer inside a NATO nuclear-capable installation. On 13 January 1981, as Deputy Base Commander of the 81st Combat Support Group at RAF Bentwaters/Woodbridge, he sent a one-page memorandum captioned 'Unexplained Lights' to the RAF station commander describing events of 26-28 December 1980: security patrolmen encountering a 'strange glowing object' that was 'metalic in appearance and triangular in shape, approximately two to three meters across the base'; three ground depressions 1.5 inches deep and 7 inches in diameter; and radiation readings of 0.1 milliroentgens beta/gamma peaking in the depressions. The memo is not a UFO buff's account - it is an official USAF memorandum, released to the public through the Office of the Assistant Secretary of Defense FOIA office and re-released under DoD FOIA case 97-F-1677 in September 1997. Halt personally led the 28 December patrol and tape-recorded it. He remained in the Air Force for another decade, retiring as a full colonel, and only after retirement began stating publicly that he believed the objects were under intelligent control and that base personnel had been debriefed under pressure. In 2010 he executed a notarized affidavit asserting that the objects were not of terrestrial origin and that USAF and UK authorities had worked to suppress the incident; he has since stated that airmen were subjected to what he characterized as drugged and hypnotic debriefings. The 45-year documentary life of the Halt memo is a case study in the board's central thesis: the record exists, it was written by the responsible officer at the time, and the institutional response has been to route it into a category ('unexplained lights') that requires no follow-up.
+
+### What is left unexplained
+
+The radiation readings and ground depressions in Halt's memo have never been the subject of any published official analysis - the physical-trace annex referenced by the memo has never surfaced.
+
+### Where the record conflicts
+
+- UK MoD's contemporaneous position was that the events were of 'no defence significance'; astronomers have attributed elements of the 26 December sighting to a fireball and the Orfordness lighthouse. Halt has rejected both explanations and the MoD's own defence-significance finding was made without interviewing the American witnesses.
+
+### Recorded as unverified
+
+- Halt's later assertions that witnesses were drugged and hypnotically debriefed are not corroborated by any released document.
+
+Affiliations recorded: United States Air Force (1965-1991), 81st Combat Support Group, RAF Bentwaters/Woodbridge (1980-1981).
+
+### Why it holds its tier
+
+Re-graded B on a global pass (rank 418 of 1159, score 33). 4 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D3.
+
+### The claims on the record
+
+- **Tier 1 documented.** Halt's memo records physical trace evidence: three depressions 1.5 inches deep and 7 inches in diameter, and beta/gamma readings of 0.1 milliroentgens peaking in the depressions and at the centre of the triangle they formed. Source: Halt memorandum, 13 Jan 81, paragraph 2
+- **Tier 1 documented.** Halt's memo states the object was 'metalic in appearance and triangular in shape, approximately two to three meters across the base and approximately two meters high,' and that it 'illuminated the entire forest with a white light.' Source: Halt memorandum, 'Unexplained Lights,' 13 Jan 81, released under DoD FOIA case 97-F-1677
+- **Tier 2 named person on the record.** Halt has stated in a notarized affidavit that the objects were under intelligent control, were not of terrestrial origin, and that the US and UK governments acted to suppress the incident. Source: Charles I. Halt, notarized affidavit, 2010; restated in BBC and researcher interviews on the 40th anniversary, 26 Dec 2020
+- **Tier 3 stated inference.** REPORTED ONLY, AND GRADED TIER 3 FOR THAT REASON. He is reported as stating that Larry Warren 'was not there', and as denying that Warren was present during Halt's own extended time in Rendlesham Forest on the night of 28 to 29 December 1980. This reaches the board through search-result summaries and a video title and NOT through any document written or signed by Halt. A primary would move it to Tier 2. Source: Peter Robbins, statement regarding Larry Warren, posted 13 June 2017 and updated 20 June 2017, hosted on Sacha Christie's blog, http://sacha-christie-infomaniachousewife.blogspot.com/2017/06/peter-robbins-statement-regarding-larry.html, opened 2026-09-19
+
+### Its strongest connections
+
+- Charles I. Halt runs out to **Rendlesham Forest Incident, RAF Woodbridge/Bentwaters** (event, board tier A), a witness-chain link at Tier 1 documented. The link reads: Halt personally led the 28 December 1980 forest patrol. Halt's own memo states 'Numerous individuals, including the undersigned, witnessed the activities in paragraphs 2 and 3.' Sources: The Halt Memo - Rendlesham Forest Incident (DoD FOIA case 97-F-1677, released Sept 1997), https://www.theblackvault.com/documentarchive/the-halt-memo-the-rendlesham-forest-incident/, dated 2021-11-11.
+- Charles I. Halt runs out to **Halt Memorandum, 'Unexplained Lights', 13 January 1981** (document, board tier C), a witness-chain link at Tier 1 documented. The link reads: Halt authored and signed the 'Unexplained Lights' memorandum. Halt was Deputy Base Commander of the 81st Combat Support Group and signed the memo on 13 Jan 81. The document is his; his authorship has never been disputed by the Air Force. Sources: The Halt Memo - Rendlesham Forest Incident (DoD FOIA case 97-F-1677, released Sept 1997), https://www.theblackvault.com/documentarchive/the-halt-memo-the-rendlesham-forest-incident/, dated 2021-11-11.
+- Charles I. Halt runs out to **UFO-Nukes Connection press conference, National Press Club, 27 September 2010** (event, board tier B), a witness-chain link at Tier 2 named person on the record. The link reads: Spoke on the record with a signed affidavit; the one panellist who wrote his own primary document in 1981. His appearance is what places Rendlesham inside the nuclear witness cluster rather than beside it. He is also the one man on the panel whose account reached the record as an official act before any researcher was involved. Sources: Robert Hastings, 'The UFOs-Nukes Connection Press Conference', his own account of the 27 September 2010 National Press Club event, with the roster, units and affidavit list. Opened 19 September 2026, https://ufohastings.com/articles/the-ufos-nukes-connection-press-conference, dated 2010-09-27.
+- Charles I. Halt runs out to **Larry Warren** (person, board tier B), a denial link at Tier 3 stated inference. The link reads: Reported as stating that Warren 'was not there'. TIER 3. This reaches the board through search-result summaries and a video title and NOT through any document written or signed by Halt. ianridpath.com, which carries the most-cited sceptical treatment, returned an SSL handshake failure on both http and https. A primary would move this to Tier 2. Sources: Peter Robbins, statement regarding Larry Warren, posted 13 June 2017 and updated 20 June 2017, hosted on Sacha Christie's blog, http://sacha-christie-infomaniachousewife.blogspot.com/2017/06/peter-robbins-statement-regarding-larry.html, dated 2017-06-13.
 
 ## Christopher Sherwood
 
@@ -3480,7 +3575,7 @@ Affiliations recorded: Office of the Assistant to the Secretary of Defense for P
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 778 of 1125, score 21). 4 connections, 0 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C0/A1/D0.
+Re-graded C on a global pass (rank 795 of 1159, score 21). 4 connections, 0 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C0/A1/D0.
 
 ### The claims on the record
 
@@ -3512,7 +3607,7 @@ Affiliations recorded: Air Technical Intelligence Center, Wright-Patterson AFB (
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 386 of 1125, score 34). 4 connections, 0 of them custody/funding/programmatic. Axes C2/A2/D3.
+Re-graded B on a global pass (rank 394 of 1159, score 34). 4 connections, 0 of them custody/funding/programmatic. Axes C2/A2/D3.
 
 ### The claims on the record
 
@@ -3550,7 +3645,7 @@ Affiliations recorded: U.S. House of Representatives, AZ-2 (2023- ), Committee o
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 359 of 1125, score 35). 4 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D3.
+Re-graded B on a global pass (rank 366 of 1159, score 35). 4 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D3.
 
 ### The claims on the record
 
@@ -3581,7 +3676,7 @@ Affiliations recorded: U.S. House of Representatives, WI-6 (2015- ), Subcommitte
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 745 of 1125, score 22). 5 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.
+Re-graded C on a global pass (rank 761 of 1159, score 22). 5 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.
 
 ### The claims on the record
 
@@ -3615,7 +3710,7 @@ Gordon Gray held, in sequence, four offices that between them cover the whole of
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 319 of 1125, score 37). 4 connections, 0 of them custody/funding/programmatic. Axes C2/A2/D1.
+Re-graded B on a global pass (rank 326 of 1159, score 37). 4 connections, 0 of them custody/funding/programmatic. Axes C2/A2/D1.
 
 ### The claims on the record
 
@@ -3647,7 +3742,7 @@ Affiliations recorded: CIA Office of Scientific Intelligence, Assistant Director
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 536 of 1125, score 29). 4 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D0.
+Re-graded B on a global pass (rank 546 of 1159, score 29). 4 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D0.
 
 ### The claims on the record
 
@@ -3677,7 +3772,7 @@ Affiliations recorded: Ohio State University (1936-1956), Project SIGN / GRUDGE 
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 501 of 1125, score 30). 4 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D3.
+Re-graded B on a global pass (rank 512 of 1159, score 30). 4 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D3.
 
 ### The claims on the record
 
@@ -3707,7 +3802,7 @@ Affiliations recorded: U.S. House of Representatives, KY-1 (2016- ), Committee o
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 836 of 1125, score 19). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.
+Re-graded C on a global pass (rank 856 of 1159, score 19). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.
 
 ### The claims on the record
 
@@ -3737,7 +3832,7 @@ Affiliations recorded: University of Arizona, Institute of Atmospheric Physics (
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 467 of 1125, score 31). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.
+Re-graded B on a global pass (rank 478 of 1159, score 31). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.
 
 ### The claims on the record
 
@@ -3780,7 +3875,7 @@ Affiliations recorded: Defense Intelligence Agency (2000s-2021), AAWSAP/AATIP pa
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 148 of 1125, score 52). 6 connections, 2 of them custody/funding/programmatic. Axes C2/A3/D2.
+Re-graded A on a global pass (rank 151 of 1159, score 52). 6 connections, 2 of them custody/funding/programmatic. Axes C2/A3/D2.
 
 ### The claims on the record
 
@@ -3828,7 +3923,7 @@ John Callahan is the most useful witness the Disclosure Project produced and the
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 464 of 1125, score 31). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.
+Re-graded B on a global pass (rank 475 of 1159, score 31). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.
 
 ### The claims on the record
 
@@ -3868,7 +3963,7 @@ John Lear is the rare figure in this cluster whose ordinary career is fully docu
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 811 of 1125, score 20). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.
+Re-graded C on a global pass (rank 829 of 1159, score 20). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.
 
 ### The claims on the record
 
@@ -3903,7 +3998,7 @@ Affiliations recorded: US Army, Colonel (ret.), UAP Task Force, Army liaison (20
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 535 of 1125, score 29). 4 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D3.
+Re-graded B on a global pass (rank 545 of 1159, score 29). 4 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D3.
 
 ### The claims on the record
 
@@ -3942,7 +4037,7 @@ Affiliations recorded: US Navy (retired Senior Chief Operations Specialist), USS
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 743 of 1125, score 22). 4 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D2.
+Re-graded C on a global pass (rank 759 of 1159, score 22). 4 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D2.
 
 ### The claims on the record
 
@@ -3980,7 +4075,7 @@ Larry Warren is carried here for the dispute rather than for the claim, because 
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 465 of 1125, score 31). 4 connections, 0 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C0/A0/D3.
+Re-graded B on a global pass (rank 476 of 1159, score 31). 4 connections, 0 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C0/A0/D3.
 
 ### The claims on the record
 
@@ -4345,7 +4440,7 @@ What is documented about his work is classical general relativity, not gravity c
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 634 of 1125, score 26). 4 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D0.
+Re-graded C on a global pass (rank 646 of 1159, score 26). 4 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D0.
 
 ### The claims on the record
 
@@ -4382,7 +4477,7 @@ Affiliations recorded: The Hill (opinion contributor), US Department of State (f
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 1071 of 1125, score 10). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.
+Re-graded C on a global pass (rank 1105 of 1159, score 10). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.
 
 ### The claims on the record
 
@@ -4409,7 +4504,7 @@ Affiliations recorded: Bigelow Aerospace (Washington DC operations, prior), NASA
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 496 of 1125, score 30). 5 connections, 1 of them custody/funding/programmatic. Axes C0/A1/D2.
+Re-graded B on a global pass (rank 507 of 1159, score 30). 5 connections, 1 of them custody/funding/programmatic. Axes C0/A1/D2.
 
 ### The claims on the record
 
@@ -4446,7 +4541,7 @@ Michael Herrera is a claimant whose account has reached two official records wit
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 387 of 1125, score 34). 4 connections, 1 of them custody/funding/programmatic. Axes C1/A0/D2.
+Re-graded B on a global pass (rank 395 of 1159, score 34). 4 connections, 1 of them custody/funding/programmatic. Axes C1/A0/D2.
 
 ### The claims on the record
 
@@ -4485,7 +4580,7 @@ Affiliations recorded: Public (co-founder), University of Austin (faculty, 2026)
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 300 of 1125, score 38). 6 connections, 1 of them custody/funding/programmatic. Axes C1/A0/D3.
+Re-graded B on a global pass (rank 307 of 1159, score 38). 6 connections, 1 of them custody/funding/programmatic. Axes C1/A0/D3.
 
 ### The claims on the record
 
@@ -4523,7 +4618,7 @@ Affiliations recorded: U.S. Senate, South Dakota (2015- ), Senate Armed Services
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 433 of 1125, score 32). 4 connections, 1 of them custody/funding/programmatic. Axes C0/A2/D3.
+Re-graded B on a global pass (rank 443 of 1159, score 32). 4 connections, 1 of them custody/funding/programmatic. Axes C0/A2/D3.
 
 ### The claims on the record
 
@@ -4562,7 +4657,7 @@ Affiliations recorded: U.S. House, Ohio (2003- ), Chairman, HPSCI (2023-2025), H
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 500 of 1125, score 30). 4 connections, 0 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C0/A3/D0.
+Re-graded B on a global pass (rank 511 of 1159, score 30). 4 connections, 0 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C0/A3/D0.
 
 ### The claims on the record
 
@@ -4596,7 +4691,7 @@ Affiliations recorded: US Army Air Forces / Air Materiel Command (1945-1947), US
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 318 of 1125, score 37). 4 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D1.
+Re-graded B on a global pass (rank 325 of 1159, score 37). 4 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D1.
 
 ### The claims on the record
 
@@ -4630,7 +4725,7 @@ Affiliations recorded: OUSD(I), Director for Defense Intelligence (Collection & 
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 436 of 1125, score 32). 4 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D0.
+Re-graded B on a global pass (rank 445 of 1159, score 32). 4 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D0.
 
 ### The claims on the record
 
@@ -4664,7 +4759,7 @@ Affiliations recorded: uk-mod, uk-mod-ufo-desk.
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 658 of 1125, score 25). 4 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D3.
+Re-graded C on a global pass (rank 671 of 1159, score 25). 4 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D3.
 
 ### The claims on the record
 
@@ -4698,7 +4793,7 @@ Affiliations recorded: fab, Ministério da Aeronáutica.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 505 of 1125, score 30). 4 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D3.
+Re-graded B on a global pass (rank 516 of 1159, score 30). 4 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D3.
 
 ### The claims on the record
 
@@ -4735,7 +4830,7 @@ Affiliations recorded: Secretary of Defense / Secretary of War (2025-), Fox News
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 178 of 1125, score 47). 5 connections, 2 of them custody/funding/programmatic. Axes C1/A3/D3.
+Re-graded B on a global pass (rank 181 of 1159, score 47). 5 connections, 2 of them custody/funding/programmatic. Axes C1/A3/D3.
 
 ### The claims on the record
 
@@ -4773,7 +4868,7 @@ Affiliations recorded: U.S. House of Representatives, CA-42 (2023- ), Subcommitt
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 744 of 1125, score 22). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.
+Re-graded C on a global pass (rank 760 of 1159, score 22). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.
 
 ### The claims on the record
 
@@ -4791,7 +4886,7 @@ Re-graded C on a global pass (rank 744 of 1125, score 22). 4 connections, 0 of t
 
 ## Robert M. Jacobs
 
-Robert M. Jacobs is a person on the board; board tier B, documented channel and capability, programme role indicated but not yet nailed to a primary source; dates no dates recorded; axes C0 A1 D3; 4 connections.
+Robert M. Jacobs is a person on the board; board tier A, named in sworn testimony or primary documents as directly inside the programme; dates no dates recorded; axes C0 A1 D3; 4 connections.
 
 In one line: USAF lieutenant, Officer-in-Charge of Photo-optical Instrumentation, 1369th Photographic Squadron, Vandenberg AFB, 1963 to 1966; later an academic; claimant from 1982 about the Big Sur missile-test filming of September 1964.
 
@@ -4812,27 +4907,64 @@ Robert Jacobs is the one witness in this cluster whose claimed role is confirmed
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 267 of 1125, score 40). 4 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D3.
+Re-graded A on a global pass (rank 163 of 1159, score 50). 4 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D3.
 
 ### The claims on the record
 
+- **Tier 1 documented.** George concedes one of Jacobs's six conclusions outright: 'But Bob is correct in saying that the observations in 1964 did not involve lasers.' A sceptic conceding a point against his own case is worth recording, because it is what distinguishes George's article from advocacy. Source: Kingston A. George, Skeptical Inquirer Vol. 17, Winter 1993, p 186, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf, opened 2026-09-19
+- **Tier 1 documented.** George states both that Jacobs was debriefed and that he probably lacked the clearance to understand what he had seen: everyone at the telescope site or who had seen the film 'had to be questioned on what they had seen and what they thought it meant', each cautioned not to discuss it even with fellow workers, and 'I don't think Bob Jacobs ever gained the required clearance.' That sentence is simultaneously the sceptic's explanation and an independent confirmation that Jacobs was there and was debriefed. Source: Kingston A. George, Skeptical Inquirer Vol. 17, Winter 1993, pp 186-187, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf, opened 2026-09-19
 - **Tier 1 documented.** HE PUBLISHED THE ACCOUNT HIMSELF TWELVE YEARS EARLIER, WHICH IS THE ANCHOR THIS NODE SHOULD USE. Bob Jacobs, Ph.D., 'Deliberate Deception: The Big Sur UFO Filming', MUFON UFO Journal No. 249, January 1989. His stated post, verbatim: 'Officer-in-Charge of Photo-optical Instrumentation in the 1369th Photographic Squadron at Vandenberg Air Force Base, California from May, 1963 to May, 1966.' The issue number and month are fixed independently by Kingston George's 1993 reference list. Source: Bob Jacobs, Ph.D., 'Deliberate Deception: The Big Sur UFO Filming', MUFON UFO Journal No. 249, January 1989, reprinted by NICAP, http://www.nicap.org/reports/bigsur2.htm, opened 2026-09-19
 - **Tier 1 documented.** HIS ROLE AND UNIT ARE CONFIRMED BY AN INDEPENDENT NAMED PARTICIPANT IN A PUBLISHED JOURNAL. Kingston A. George, project engineer for the deployment, writing in the Skeptical Inquirer in Winter 1993: 'Bob was named the on-site commander by the 1369th Photo Squadron and managed the logistics of the operation at the Big Sur location.' George also publishes team photographs and captions them, noting in one 'Lt. Bob Jacobs is not in this picture' and in another 'Jacobs at far right holding a camera and standing behind Chief Warrant Officer Spooner'. Source: Kingston A. George, 'The Big Sur UFO: An Identified Flying Object', Skeptical Inquirer, Vol. 17, No. 2, Winter 1993, pages 180 to 186; PDF downloaded and converted to text in full this session, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf, opened 2026-09-19
 - **Tier 1 documented.** His own account is explicitly uncertain about its own date: 'the date of the event was most probably either September 2nd, 3rd, or 15th, 1964.' Source: Bob Jacobs, Ph.D., 'Deliberate Deception: The Big Sur UFO Filming', MUFON UFO Journal No. 249, January 1989, reprinted by NICAP, http://www.nicap.org/reports/bigsur2.htm, opened 2026-09-19
 - **Tier 1 documented.** THE SAME INDEPENDENT PARTICIPANT STATES THAT HE DID NOT HOLD THE ACCESS THE CLAIM REQUIRES: 'Lieutenant Bob Jacobs was one of the key field team members who, it later developed, was technically not authorized to view the pictures we were collecting', and later, 'Weeks later, my clearance level was increased to allow me to see the films again and analyze them. I don't think Bob Jacobs ever gained the required clearance.' Source: Kingston A. George, 'The Big Sur UFO: An Identified Flying Object', Skeptical Inquirer, Vol. 17, No. 2, Winter 1993, pages 180 to 186; PDF downloaded and converted to text in full this session, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf, opened 2026-09-19
 - **Tier 1 documented.** The Disclosure Project Briefing Document of April 2001 prints his testimony at section 3.8.3 under the heading 'Testimony of Professor Robert Jacobs, Lt. US Air Force / November 2000'. TIER 1 FOR THE FACT OF THE TESTIMONY AND ITS DATE ONLY. This document is the LAST and WEAKEST anchor for this witness and the board should not cite it for content. Source: Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D.; full OCR text read this session, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt, opened 2026-09-19
-- **Tier 1 documented.** What he says the film showed: an object that 'maneuvered around' the warhead package and 'emitted four distinct bright flashes of light at approximately the 4 cardinal compass points of its orbit', whose shape 'was that of a classic flying saucer', after which the warhead 'malfunctioned and tumbled out of suborbit hundreds of miles short of its target'. Source: Bob Jacobs, Ph.D., 'Deliberate Deception: The Big Sur UFO Filming', MUFON UFO Journal No. 249, January 1989, reprinted by NICAP, http://www.nicap.org/reports/bigsur2.htm, opened 2026-09-19
-- **Tier 2 named person on the record.** George concedes a point to Jacobs, which is why the exchange is a serious one rather than a polemic: 'Bob is correct in saying that the observations in 1964 did not involve lasers, and, I would add, neither intra- nor extraterrestrial.' Source: Kingston A. George, 'The Big Sur UFO: An Identified Flying Object', Skeptical Inquirer, Vol. 17, No. 2, Winter 1993, pages 180 to 186; PDF downloaded and converted to text in full this session, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf, opened 2026-09-19
-- **Tier 2 named person on the record.** The counter-explanation, from the same source: 'what had happened on Buzzing Bee was that two decoys were fired off by small rocket charges on schedule, but some of the decoy packing material also trailed along and could be seen optically and also by certain kinds of radar. A little cloud of debris around each decoy warhead clearly gave away the false status'. George also corrects a factual point: 'the Atlas was sub-orbital, as all ICBMs are, and it did not miss the target.' Source: Kingston A. George, 'The Big Sur UFO: An Identified Flying Object', Skeptical Inquirer, Vol. 17, No. 2, Winter 1993, pages 180 to 186; PDF downloaded and converted to text in full this session, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf, opened 2026-09-19
+- **Tier 1 documented.** The confirmation of his role is stronger than a summary suggests, and it comes from the man who wrote the article demolishing his interpretation. Kingston A. George, Skeptical Inquirer Winter 1993: 'Bob was named the on-site commander by the 1369th Photo Squadron and managed the logistics of the operation at the Big Sur location.' George also publishes two group photographs and captions Jacobs into both, at p 183 'Lt. Bob Jacobs is at left with blocked military cap' and at p 184 Jacobs 'at far right holding a camera and standing behind Chief Warrant Officer Spooner'. Source: Kingston A. George, Skeptical Inquirer Vol. 17, Winter 1993, pp 182-184, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf, opened 2026-09-19
 
-A further 1 claims sit on this node on the board and are not reproduced here.
+A further 5 claims sit on this node on the board and are not reproduced here.
 
 ### Its strongest connections
 
 - Robert M. Jacobs runs out to **Disclosure Project Briefing Document, April 2001** (document, board tier B), a witness-chain link at Tier 1 documented. The link reads: Testimony at section 3.8.3, dated November 2000. TIER 1 FOR THE FACT OF THE TESTIMONY AND ITS DATE ONLY. This is the LAST and WEAKEST anchor for this witness; his own 1989 publication is the one the board should cite. Sources: Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D.; full OCR text read this session, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt, dated 2001-04.
-- Robert M. Jacobs runs out to **Vandenberg Space Force Base, California** (location, board tier B), a geographic link at Tier 1 documented. The link reads: 1369th Photographic Squadron, Vandenberg AFB, May 1963 to May 1966. His own published statement of his post, independently confirmed as to unit and role by the project engineer. Sources: Bob Jacobs, Ph.D., 'Deliberate Deception: The Big Sur UFO Filming', MUFON UFO Journal No. 249, January 1989, reprinted by NICAP, http://www.nicap.org/reports/bigsur2.htm, dated 1989-01; Kingston A. George, 'The Big Sur UFO: An Identified Flying Object', Skeptical Inquirer, Vol. 17, No. 2, Winter 1993, pages 180 to 186; PDF downloaded and converted to text in full this session, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf, dated 1993.
 - Robert M. Jacobs runs out to **Big Sur missile-test filming, September 1964** (event, board tier B), a witness-chain link at Tier 1 documented. The link reads: On-site commander at the filming; his presence, unit and role confirmed by the project engineer in print. THE ONLY TIER 1 WITNESS-TO-CASE EDGE IN THIS CLUSTER. Jacobs published his own account in January 1989; Kingston George, the project engineer, wrote in 1993 that 'Bob was named the on-site commander by the 1369th Photo Squadron and managed the logistics of the operation at the Big Sur location', and published team photographs captioning Jacobs into and out of them. The edge carries his PRESENCE, not his interpretation. Sources: Bob Jacobs, Ph.D., 'Deliberate Deception: The Big Sur UFO Filming', MUFON UFO Journal No. 249, January 1989, reprinted by NICAP, http://www.nicap.org/reports/bigsur2.htm, dated 1989-01; Kingston A. George, 'The Big Sur UFO: An Identified Flying Object', Skeptical Inquirer, Vol. 17, No. 2, Winter 1993, pages 180 to 186; PDF downloaded and converted to text in full this session, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf, dated 1993.
+- Robert M. Jacobs runs out to **Vandenberg Space Force Base, California** (location, board tier B), a geographic link at Tier 1 documented. The link reads: 1369th Photographic Squadron, Vandenberg AFB, May 1963 to May 1966. His own published statement of his post, independently confirmed as to unit and role by the project engineer. Sources: Bob Jacobs, Ph.D., 'Deliberate Deception: The Big Sur UFO Filming', MUFON UFO Journal No. 249, January 1989, reprinted by NICAP, http://www.nicap.org/reports/bigsur2.htm, dated 1989-01; Kingston A. George, 'The Big Sur UFO: An Identified Flying Object', Skeptical Inquirer, Vol. 17, No. 2, Winter 1993, pages 180 to 186; PDF downloaded and converted to text in full this session, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf, dated 1993.
 - Robert M. Jacobs comes in from **Kingston A. George** (person, board tier B), a denial link at Tier 1 documented. The link reads: Published point-by-point rebuttal by the project engineer, Skeptical Inquirer, Winter 1993. TIER 1 DESPITE BEING A DENIAL, because it is a signed article in a named journal by a participant who cites his own dated 1964 staff study, publishes photographs of the team, and concedes a point to Jacobs on lasers. He answers six numbered conclusions and states that Jacobs 'was technically not authorized to view the pictures we were collecting'. Sources: Kingston A. George, 'The Big Sur UFO: An Identified Flying Object', Skeptical Inquirer, Vol. 17, No. 2, Winter 1993, pages 180 to 186; PDF downloaded and converted to text in full this session, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf, dated 1993.
+
+## Capt. Robert Jamison
+
+Capt. Robert Jamison is a person on the board; board tier C, contextual, real and relevant, no direct programme linkage on the record yet; dates 2010-09-27; axes C0 A1 D2; 4 connections.
+
+In one line: USAF 1Lt, ICBM combat targeting team commander, Malmstrom AFB, January 1965 to October 1967; later missile targeting instructor, Chanute AFB; separated as Captain, July 1972.
+
+### The longer account
+
+Robert Jamison matters far more to the structure of the Malmstrom case than his profile suggests, and the reason is a date. He commanded an ICBM combat targeting team at Malmstrom from January 1965 to October 1967, and he describes being called out to retarget missiles after a second flight went off alert in March 1967, separately from the Echo Flight event of the sixteenth. It is his recollection that Robert Hastings gives as the basis for placing the Oscar Flight incident on 24 March 1967, eight days after Echo Flight. That separation is load-bearing for the whole cluster: for years the Oscar Flight account was told as part of the same 16 March event, which let Echo Flight's Tier 1 documentation be read as corroborating Salas. Once the two are separated, Echo Flight's paper no longer touches Oscar Flight and the Oscar Flight claim stands or falls on testimony alone. The board should hold that plainly: the fact that rescues the Oscar Flight account from the unit history's silence was supplied by a witness the same interviewer found, and no pre-contact statement by Jamison has been identified. He executed an affidavit and spoke on the record at the National Press Club on 27 September 2010, which is the dated artefact that fixes when the claim was made.
+
+### Where the record conflicts
+
+- His recollection supplies the date that separates Oscar Flight from Echo Flight, and that date is not corroborated by any released Air Force document. James Carlson disputes that any Oscar Flight incident occurred at all.
+
+### Recorded as unverified
+
+- No service record, duty roster or targeting team assignment document has been opened for Jamison. His dates of service and duty position are his own, as published by Robert Hastings.
+- The affidavit itself was not opened by this session; its existence is asserted on Hastings's own page.
+
+### Why it holds its tier
+
+Re-graded C on a global pass (rank 861 of 1159, score 19). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.
+
+### The claims on the record
+
+- **Tier 1 documented.** Nothing in the 88 released pages of the 341st Strategic Missile Wing histories corroborates a second March 1967 shutdown. A full-text search of the release returns zero occurrences of 'Oscar', zero of 'O Flight', zero of '24 Mar' and zero of '25 Mar'. Source: Full-text search of the 14 June 2001 FOIA release, https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf, opened 2026-09-19
+- **Tier 2 named person on the record.** Robert Hastings dates the Oscar Flight incident to 24 March 1967, eight days after Echo Flight, and gives Capt. Jamison's information as the basis for that date. The separation of the two events rests on this recollection. Source: Robert Hastings, 'The Echo and Oscar Flight Incidents', https://www.ufohastings.com/articles/the-echo-and-oscar-flight-incidents, opened 2026-09-19
+- **Tier 2 named person on the record.** Robert Jamison was a US Air Force 1st Lieutenant commanding an ICBM Combat Targeting Team at Malmstrom AFB, Montana, from January 1965 to October 1967, then a missile targeting instructor at Chanute AFB, Illinois, and separated from active duty as a Captain in July 1972. He executed an affidavit and appeared at the UFO-Nukes Connection press conference at the National Press Club on 27 September 2010. Source: Robert Hastings, 'The UFOs-Nukes Connection Press Conference', https://ufohastings.com/articles/the-ufos-nukes-connection-press-conference, opened 2026-09-19
+- **Tier 3 stated inference.** SECTION 2a PROVENANCE. No dated public statement by Robert Jamison about these events, made before Robert Hastings contacted him, was identified by the pass of 19 September 2026. He first appears in the public record at the 2010 National Press Club event, with an affidavit executed for that event. Source: Derived by this board from the register in research/leads/verified-nuclear-witnesses-2026-09-19.md, which lists every nuclear-facility witness found in the 19 September 2026 pass together with the route by which each account reached the public
+
+### Its strongest connections
+
+- Capt. Robert Jamison runs out to **Malmstrom AFB and Minuteman Missile Fields, Montana** (location, board tier B), a geographic link at Tier 2 named person on the record. The link reads: ICBM combat targeting team commander at Malmstrom, 1965 to 1967. Base and dates are his own, from his affidavit as published by Hastings; no service record has been opened. Sources: Robert Hastings, 'The UFOs-Nukes Connection Press Conference', his own account of the 27 September 2010 National Press Club event, with the roster, units and affidavit list. Opened 19 September 2026, https://ufohastings.com/articles/the-ufos-nukes-connection-press-conference, dated 2010-09-27.
+- Capt. Robert Jamison comes in from **Robert L. Hastings** (person, board tier B), a research link at Tier 2 named person on the record. The link reads: Interviewed him; his recollection supplies the 24 March 1967 date. ONE OF FOUR EDGES THAT FORM THE CIRCULAR-REPORTING CLUSTER IN THIS DOMAIN, and the most consequential of them: the date that separates Oscar Flight from Echo Flight comes through this edge. Sources: Robert Hastings, 'The Echo and Oscar Flight Incidents', separating the two events and dating Oscar Flight to 24 March 1967 on Capt. Robert Jamison's information. Opened 19 September 2026, https://www.ufohastings.com/articles/the-echo-and-oscar-flight-incidents, dated 2026-09-19; Robert Hastings, 'The UFOs-Nukes Connection Press Conference', his own account of the 27 September 2010 National Press Club event, with the roster, units and affidavit list. Opened 19 September 2026, https://ufohastings.com/articles/the-ufos-nukes-connection-press-conference, dated 2010-09-27.
+- Capt. Robert Jamison runs out to **UFO-Nukes Connection press conference, National Press Club, 27 September 2010** (event, board tier B), a witness-chain link at Tier 2 named person on the record. The link reads: Spoke on the record with a signed affidavit. Named on Hastings's own page among the six men said to have executed affidavits. Sources: Robert Hastings, 'The UFOs-Nukes Connection Press Conference', his own account of the 27 September 2010 National Press Club event, with the roster, units and affidavit list. Opened 19 September 2026, https://ufohastings.com/articles/the-ufos-nukes-connection-press-conference, dated 2010-09-27.
+- Capt. Robert Jamison runs out to **Malmstrom Oscar Flight claim, 24 March 1967** (event, board tier B), a witness-chain link at Tier 2 named person on the record. The link reads: Retargeting team commander; the source of the 24 March 1967 date. HIS RECOLLECTION IS THE SOLE BASIS FOR THE 24 MARCH 1967 DATE THAT SEPARATES OSCAR FLIGHT FROM ECHO FLIGHT, AND IT REACHED THE PUBLIC THROUGH ROBERT HASTINGS. That separation is what removes Echo Flight's Tier 1 documentation from the Oscar Flight claim. Sources: Robert Hastings, 'The Echo and Oscar Flight Incidents', separating the two events and dating Oscar Flight to 24 March 1967 on Capt. Robert Jamison's information. Opened 19 September 2026, https://www.ufohastings.com/articles/the-echo-and-oscar-flight-incidents, dated 2026-09-19; Robert Hastings, 'The UFOs-Nukes Connection Press Conference', his own account of the 27 September 2010 National Press Club event, with the roster, units and affidavit list. Opened 19 September 2026, https://ufohastings.com/articles/the-ufos-nukes-connection-press-conference, dated 2010-09-27.
 
 ## Sidney Gottlieb
 
@@ -4846,7 +4978,7 @@ Sidney Gottlieb is the officer at the centre of the destruction event the board'
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 337 of 1125, score 36). 4 connections, 2 of them custody/funding/programmatic. Axes C0/A3/D0.
+Re-graded B on a global pass (rank 343 of 1159, score 36). 4 connections, 2 of them custody/funding/programmatic. Axes C0/A3/D0.
 
 ### The claims on the record
 
@@ -4880,7 +5012,7 @@ Souers held, in sequence, the two offices through which the postwar national sec
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 301 of 1125, score 38). 4 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D1.
+Re-graded B on a global pass (rank 308 of 1159, score 38). 4 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D1.
 
 ### The claims on the record
 
@@ -4920,7 +5052,7 @@ Affiliations recorded: fab, Serviço Nacional de Informações (SNI).
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 567 of 1125, score 28). 4 connections, 0 of them custody/funding/programmatic. Axes C2/A2/D2.
+Re-graded C on a global pass (rank 579 of 1159, score 28). 4 connections, 0 of them custody/funding/programmatic. Axes C2/A2/D2.
 
 ### The claims on the record
 
@@ -4959,7 +5091,7 @@ Affiliations recorded: 509th Bomb Group, Roswell Army Air Field (1946-1948), Int
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 320 of 1125, score 37). 4 connections, 0 of them custody/funding/programmatic. Axes C2/A1/D3.
+Re-graded B on a global pass (rank 327 of 1159, score 37). 4 connections, 0 of them custody/funding/programmatic. Axes C2/A1/D3.
 
 ### The claims on the record
 
@@ -4996,7 +5128,7 @@ Affiliations recorded: nro, odni.
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 599 of 1125, score 27). 4 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D0.
+Re-graded C on a global pass (rank 612 of 1159, score 27). 4 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D0.
 
 ### The claims on the record
 
@@ -5026,7 +5158,7 @@ The released aneutronic paper attributed to him reads like a nuclear engineering
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 226 of 1125, score 43). 4 connections, 1 of them custody/funding/programmatic. Axes C1/A2/D3.
+Re-graded B on a global pass (rank 232 of 1159, score 43). 4 connections, 1 of them custody/funding/programmatic. Axes C1/A2/D3.
 
 ### The claims on the record
 
@@ -5059,7 +5191,7 @@ Affiliations recorded: U.S. House of Representatives, AZ-5 (2017- ), Committee o
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 1042 of 1125, score 11). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D1.
+Re-graded C on a global pass (rank 1075 of 1159, score 11). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D1.
 
 ### The claims on the record
 
@@ -5085,7 +5217,7 @@ Affiliations recorded: U.S. House of Representatives, TN-5 (2023- ), Congression
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 864 of 1125, score 18). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.
+Re-graded C on a global pass (rank 889 of 1159, score 18). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.
 
 ### The claims on the record
 
@@ -5117,7 +5249,7 @@ Arthur G. Trudeau held the Army post that sat directly above the office Philip C
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 468 of 1125, score 31). 3 connections, 0 of them custody/funding/programmatic. Axes C2/A1/D2.
+Re-graded B on a global pass (rank 479 of 1159, score 31). 3 connections, 0 of them custody/funding/programmatic. Axes C2/A1/D2.
 
 ### The claims on the record
 
@@ -5145,7 +5277,7 @@ Cecilia Levy is the third University at Albany physicist on the only peer-review
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 932 of 1125, score 16). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D1.
+Re-graded C on a global pass (rank 961 of 1159, score 16). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D1.
 
 ### The claims on the record
 
@@ -5159,47 +5291,6 @@ Re-graded C on a global pass (rank 932 of 1125, score 16). 3 connections, 0 of t
 - Cecilia Levy comes in from **University at Albany (SUNY), Department of Physics** (institution, board tier B), a institutional link at Tier 1 documented. The link reads: Employs Levy; Associate Professor of Physics and the third UAlbany author on the 2025 UAPx paper. Levy is an LZ dark-matter physicist in the same department and co-developer, with Szydagis, of the Snowball Chamber supercooled-water detector. The University's own news office names her as one of three 'UAlbany authors' on the 2025 Progress in Aerospace Sciences field-expedition paper. Her faculty page does not itself list UAP among her research interests, which is worth recording rather than smoothing over: unlike Szydagis, her UAP involvement appears in the publication record and the university press office but not in her stated departmental research profile. Sources: University at Albany, Department of Physics - Cecilia Levy faculty page, https://www.albany.edu/physics/faculty/cecilia-levy, dated 2026-08-21; UAlbany News Center, 'UAlbany Physicists Test Scientific Approach to UAP Research', https://www.albany.edu/news-center/news/2025-ualbany-physicists-test-scientific-approach-uap-research, dated 2025-06-04.
 - Cecilia Levy runs out to **Matthew Szydagis** (person, board tier C), a research link at Tier 1 documented. The link reads: Snowball Chamber co-developers; the dark-matter group whose instrumentation was carried into the UAP field work. Levy's faculty page lists 'Szydagis, Knight, Levy, The Snowball chamber: neutron induced nucleation in supercooled water' (arXiv:1807.09253, 2018) and describes the Snowball Chamber as 'a research topic completely unique to the UAlbany dark matter group'. The UAlbany release makes the methodological carry-over explicit: the C-TAP frame-differencing software is 'similar to an approach used by physicists like him and Levy to look for direct evidence of dark matter'. This is the mechanism by which rare-event detection practice reached UAP field work at this institution. Sources: University at Albany, Department of Physics - Cecilia Levy faculty page, https://www.albany.edu/physics/faculty/cecilia-levy, dated 2026-08-21; UAlbany News Center, 'UAlbany Physicists Test Scientific Approach to UAP Research', https://www.albany.edu/news-center/news/2025-ualbany-physicists-test-scientific-approach-uap-research, dated 2025-06-04.
 - Cecilia Levy runs out to **Szydagis, Knuth, Kugielsky & Levy (2025), Progress in Aerospace Sciences 156:101099** (document, board tier C), a investigative link at Tier 1 documented. The link reads: Co-author of the UAPx field-expedition results. Fourth-named author on Szydagis, Knuth, Kugielsky & Levy (2025). The board's existing node label for this paper already carries her surname; until now she had no node behind it. Sources: UAlbany News Center, 'UAlbany Physicists Test Scientific Approach to UAP Research', https://www.albany.edu/news-center/news/2025-ualbany-physicists-test-scientific-approach-uap-research, dated 2025-06-04.
-
-## Charles I. Halt
-
-Charles I. Halt is a person on the board; board tier B, documented channel and capability, programme role indicated but not yet nailed to a primary source; dates 1981-01-13; axes C1 A2 D3; 3 connections.
-
-In one line: Lt Col USAF (later Col); Deputy Base Commander, RAF Bentwaters/Woodbridge 1980-81.
-
-### The longer account
-
-Halt wrote the single most consequential UFO document ever produced by a serving US officer inside a NATO nuclear-capable installation. On 13 January 1981, as Deputy Base Commander of the 81st Combat Support Group at RAF Bentwaters/Woodbridge, he sent a one-page memorandum captioned 'Unexplained Lights' to the RAF station commander describing events of 26-28 December 1980: security patrolmen encountering a 'strange glowing object' that was 'metalic in appearance and triangular in shape, approximately two to three meters across the base'; three ground depressions 1.5 inches deep and 7 inches in diameter; and radiation readings of 0.1 milliroentgens beta/gamma peaking in the depressions. The memo is not a UFO buff's account - it is an official USAF memorandum, released to the public through the Office of the Assistant Secretary of Defense FOIA office and re-released under DoD FOIA case 97-F-1677 in September 1997. Halt personally led the 28 December patrol and tape-recorded it. He remained in the Air Force for another decade, retiring as a full colonel, and only after retirement began stating publicly that he believed the objects were under intelligent control and that base personnel had been debriefed under pressure. In 2010 he executed a notarized affidavit asserting that the objects were not of terrestrial origin and that USAF and UK authorities had worked to suppress the incident; he has since stated that airmen were subjected to what he characterized as drugged and hypnotic debriefings. The 45-year documentary life of the Halt memo is a case study in the board's central thesis: the record exists, it was written by the responsible officer at the time, and the institutional response has been to route it into a category ('unexplained lights') that requires no follow-up.
-
-### What is left unexplained
-
-The radiation readings and ground depressions in Halt's memo have never been the subject of any published official analysis - the physical-trace annex referenced by the memo has never surfaced.
-
-### Where the record conflicts
-
-- UK MoD's contemporaneous position was that the events were of 'no defence significance'; astronomers have attributed elements of the 26 December sighting to a fireball and the Orfordness lighthouse. Halt has rejected both explanations and the MoD's own defence-significance finding was made without interviewing the American witnesses.
-
-### Recorded as unverified
-
-- Halt's later assertions that witnesses were drugged and hypnotically debriefed are not corroborated by any released document.
-
-Affiliations recorded: United States Air Force (1965-1991), 81st Combat Support Group, RAF Bentwaters/Woodbridge (1980-1981).
-
-### Why it holds its tier
-
-Re-graded B on a global pass (rank 435 of 1125, score 32). 3 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D3.
-
-### The claims on the record
-
-- **Tier 1 documented.** Halt's memo records physical trace evidence: three depressions 1.5 inches deep and 7 inches in diameter, and beta/gamma readings of 0.1 milliroentgens peaking in the depressions and at the centre of the triangle they formed. Source: Halt memorandum, 13 Jan 81, paragraph 2
-- **Tier 1 documented.** Halt's memo states the object was 'metalic in appearance and triangular in shape, approximately two to three meters across the base and approximately two meters high,' and that it 'illuminated the entire forest with a white light.' Source: Halt memorandum, 'Unexplained Lights,' 13 Jan 81, released under DoD FOIA case 97-F-1677
-- **Tier 2 named person on the record.** Halt has stated in a notarized affidavit that the objects were under intelligent control, were not of terrestrial origin, and that the US and UK governments acted to suppress the incident. Source: Charles I. Halt, notarized affidavit, 2010; restated in BBC and researcher interviews on the 40th anniversary, 26 Dec 2020
-- **Tier 3 stated inference.** REPORTED ONLY, AND GRADED TIER 3 FOR THAT REASON. He is reported as stating that Larry Warren 'was not there', and as denying that Warren was present during Halt's own extended time in Rendlesham Forest on the night of 28 to 29 December 1980. This reaches the board through search-result summaries and a video title and NOT through any document written or signed by Halt. A primary would move it to Tier 2. Source: Peter Robbins, statement regarding Larry Warren, posted 13 June 2017 and updated 20 June 2017, hosted on Sacha Christie's blog, http://sacha-christie-infomaniachousewife.blogspot.com/2017/06/peter-robbins-statement-regarding-larry.html, opened 2026-09-19
-
-### Its strongest connections
-
-- Charles I. Halt runs out to **Rendlesham Forest Incident, RAF Woodbridge/Bentwaters** (event, board tier A), a witness-chain link at Tier 1 documented. The link reads: Halt personally led the 28 December 1980 forest patrol. Halt's own memo states 'Numerous individuals, including the undersigned, witnessed the activities in paragraphs 2 and 3.' Sources: The Halt Memo - Rendlesham Forest Incident (DoD FOIA case 97-F-1677, released Sept 1997), https://www.theblackvault.com/documentarchive/the-halt-memo-the-rendlesham-forest-incident/, dated 2021-11-11.
-- Charles I. Halt runs out to **Halt Memorandum, 'Unexplained Lights', 13 January 1981** (document, board tier C), a witness-chain link at Tier 1 documented. The link reads: Halt authored and signed the 'Unexplained Lights' memorandum. Halt was Deputy Base Commander of the 81st Combat Support Group and signed the memo on 13 Jan 81. The document is his; his authorship has never been disputed by the Air Force. Sources: The Halt Memo - Rendlesham Forest Incident (DoD FOIA case 97-F-1677, released Sept 1997), https://www.theblackvault.com/documentarchive/the-halt-memo-the-rendlesham-forest-incident/, dated 2021-11-11.
-- Charles I. Halt runs out to **Larry Warren** (person, board tier B), a denial link at Tier 3 stated inference. The link reads: Reported as stating that Warren 'was not there'. TIER 3. This reaches the board through search-result summaries and a video title and NOT through any document written or signed by Halt. ianridpath.com, which carries the most-cited sceptical treatment, returned an SSL handshake failure on both http and https. A primary would move this to Tier 2. Sources: Peter Robbins, statement regarding Larry Warren, posted 13 June 2017 and updated 20 June 2017, hosted on Sacha Christie's blog, http://sacha-christie-infomaniachousewife.blogspot.com/2017/06/peter-robbins-statement-regarding-larry.html, dated 2017-06-13.
 
 ## David N. Spergel
 
@@ -5221,7 +5312,7 @@ Affiliations recorded: Princeton University, Department of Astrophysical Science
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 532 of 1125, score 29). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.
+Re-graded B on a global pass (rank 542 of 1159, score 29). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.
 
 ### The claims on the record
 
@@ -5257,7 +5348,7 @@ Donald Howard Menzel, 1901-1976, was the director of the Harvard College Observa
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 336 of 1125, score 36). 3 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A1/D2.
+Re-graded B on a global pass (rank 342 of 1159, score 36). 3 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A1/D2.
 
 ### The claims on the record
 
@@ -5287,7 +5378,7 @@ Affiliations recorded: President of the United States (2017-2021, 2025-).
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 432 of 1125, score 32). 3 connections, 2 of them custody/funding/programmatic. Axes C0/A3/D3.
+Re-graded B on a global pass (rank 442 of 1159, score 32). 3 connections, 2 of them custody/funding/programmatic. Axes C0/A3/D3.
 
 ### The claims on the record
 
@@ -5324,7 +5415,7 @@ Affiliations recorded: National Bureau of Standards, director (1945-1951), Unive
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 431 of 1125, score 32). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D0.
+Re-graded B on a global pass (rank 441 of 1159, score 32). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D0.
 
 ### The claims on the record
 
@@ -5363,7 +5454,7 @@ Affiliations recorded: Los Alamos Scientific Laboratory (1943-1951), Lawrence Li
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 780 of 1125, score 21). 3 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D0.
+Re-graded C on a global pass (rank 797 of 1159, score 21). 3 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D0.
 
 ### The claims on the record
 
@@ -5376,6 +5467,43 @@ Re-graded C on a global pass (rank 780 of 1125, score 21). 3 connections, 0 of t
 - Edward Teller runs out to **Los Alamos Green Fireballs Conference** (event, board tier B), a witness-chain link at Tier 1 documented. The link reads: Attended the 16 February 1949 conference. Attendance confirmed by LANL alongside Norris Bradbury and Frederick Reines, with FBI, AEC and military representatives present. Sources: LANL National Security Research Center, https://www.lanl.gov/media/publications/the-vault/1124-foia-requests-at-the-national-security-research-center, dated 2024-11-18.
 - Edward Teller runs out to **Lawrence Livermore National Laboratory** (institution, board tier B), a institutional link at Tier 1 documented. The link reads: Co-founder and director of the Livermore laboratory. The scientist present at the first US conference on anomalous objects over nuclear sites went on to found the second weapons design laboratory. Sources: CRS Report R44629, https://www.everycrsreport.com/reports/R44629.html, dated 2026-05-15.
 - Edward Teller comes in from **Robert "Bob" Lazar** (person, board tier A), a witness-chain link at Tier 3 stated inference. The link reads: Claimed 1982 meeting and later job referral, uncorroborated and internally misdated. Tier 3. His own narration puts the Monitor jet-car story and Teller's Los Alamos speech on the same day; the article is dated 27 June 1982 and Mahood puts the lecture on the following day, so both cannot be right. The edge asserts only that Lazar says this. Sources: The Lazar Tape, Tri-Dot Productions, 1991, captions at 35:48 to 36:32, https://archive.org/details/antigravity, dated 1991.
+
+## Col. Frederick Meiwald
+
+Col. Frederick Meiwald is a person on the board; board tier C, contextual, real and relevant, no direct programme linkage on the record yet; dates 1996-10-01; axes C0 A2 D2; 3 connections.
+
+In one line: USAF missile combat crew commander, Oscar Flight, 341st Strategic Missile Wing, March 1967; Robert Salas's crew commander; later Colonel.
+
+### The longer account
+
+Frederick Meiwald is the single most important corroborating name in the Oscar Flight claim and the board cannot presently say what he corroborated. He was Robert Salas's crew commander in the Oscar Flight capsule at Malmstrom, and after Salas located him in the summer of 1996 he wrote to Salas on 1 October 1996 about the incident. That letter is the hinge of the case and it was not opened by the pass of 19 September 2026. Two flatly incompatible characterisations of it are in public circulation: Salas and Robert Hastings present it as elaborating and supporting the Oscar Flight account, and it is the item the board's own robert-salas node currently calls his most important corroboration; sceptical sources quote it as saying that Meiwald's recollection differs from Salas's and that he regrets being unable to help Salas establish his claims. Kevin Randle, who is neither, records a discrepancy of substance rather than of tone, with Salas saying all ten missiles went down and Meiwald four or five. The honest position is that the letter is a real dated artefact, that it is the thing that would settle a great deal, and that nobody working on this board has read it. Everything else attributed to Meiwald is audio held by an interested party: a tape-recorded telephone conversation in August 1996 and a further call on 6 May 2011, both Hastings's.
+
+### Where the record conflicts
+
+- The two published characterisations of the 1 October 1996 letter are mutually exclusive as reported. The board carries both and resolves neither, because the letter has not been opened.
+- Salas gives ten missiles off alert at Oscar Flight; Meiwald is reported as four or five.
+
+### Recorded as unverified
+
+- The letter of 1 October 1996, in facsimile. NOT OPENED. Hastings's own article on the Echo and Oscar flights refers the reader to a separate article of his rather than reproducing it. Until it is opened, the strongest-looking corroboration in the Oscar Flight case is a document this board has only heard about.
+- The August 1996 and 6 May 2011 telephone recordings. NOT OPENED.
+
+### Why it holds its tier
+
+Re-graded C on a global pass (rank 860 of 1159, score 19). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D2.
+
+### The claims on the record
+
+- **Tier 2 named person on the record.** Kevin Randle records a discrepancy of substance between the two men rather than a disagreement about whether anything happened: Salas placing all ten missiles off alert and Meiwald four or five. Randle nonetheless assesses Meiwald as having confirmed what Salas said. Source: Kevin Randle, 'Robert Salas and Me', 19 May 2013, http://kevinrandle.blogspot.com/2013/05/robert-salas-and-me.html, opened 2026-09-19
+- **Tier 2 named person on the record.** Robert Salas located his former missile commander Frederick Meiwald in the summer of 1996, and Meiwald wrote to him about the March 1967 incident on 1 October 1996. Robert Hastings additionally states that he tape-recorded a telephone conversation with Meiwald in August 1996 and spoke with him again on 6 May 2011. Source: Robert Hastings, 'The Echo and Oscar Flight Incidents', https://www.ufohastings.com/articles/the-echo-and-oscar-flight-incidents, opened 2026-09-19
+- **Tier 3 stated inference.** SECTION 2a PROVENANCE. Nothing Meiwald said about this event reached the public before an interested party contacted him. He was found by Robert Salas, the claimant, in 1996. His letter was published by Salas. His recorded interviews were made and are held by Robert Hastings. No pre-contact statement by him exists in anything opened by this board. Source: Derived by this board from the register in research/leads/verified-nuclear-witnesses-2026-09-19.md, which lists every nuclear-facility witness found in the 19 September 2026 pass together with the route by which each account reached the public
+- **Tier 3 stated inference.** THE CONTENTS OF THE 1 OCTOBER 1996 LETTER ARE DISPUTED AND THE BOARD HAS NOT READ IT. Salas and Hastings present it as elaborating and supporting the Oscar Flight account. Sceptical sources quote it as recording that Meiwald's recollection differs from Salas's and that he regrets being unable to help Salas establish his claims. Both characterisations are recorded; neither is adopted. Source: Contested between https://www.ufohastings.com/articles/the-echo-and-oscar-flight-incidents and https://www.metabunk.org/threads/ufos-at-nuclear-weapons-sites-salas-malmstrom-eagle-flight-skeptical-resources.3284/, both opened 2026-09-19
+
+### Its strongest connections
+
+- Col. Frederick Meiwald runs out to **Malmstrom AFB and Minuteman Missile Fields, Montana** (location, board tier B), a geographic link at Tier 2 named person on the record. The link reads: Oscar Flight crew commander at Malmstrom. As claimed; no service record has been opened. Sources: Robert Hastings, 'The Echo and Oscar Flight Incidents', separating the two events and dating Oscar Flight to 24 March 1967 on Capt. Robert Jamison's information. Opened 19 September 2026, https://www.ufohastings.com/articles/the-echo-and-oscar-flight-incidents, dated 2026-09-19.
+- Col. Frederick Meiwald comes in from **Robert L. Hastings** (person, board tier B), a research link at Tier 2 named person on the record. The link reads: Recorded him in August 1996 and again on 6 May 2011, and publishes his letter. ONE OF FOUR EDGES THAT FORM THE CIRCULAR-REPORTING CLUSTER IN THIS DOMAIN. Meiwald was found by Salas, the claimant, and published by Salas and Hastings. Sources: Robert Hastings, 'The Echo and Oscar Flight Incidents', separating the two events and dating Oscar Flight to 24 March 1967 on Capt. Robert Jamison's information. Opened 19 September 2026, https://www.ufohastings.com/articles/the-echo-and-oscar-flight-incidents, dated 2026-09-19.
+- Col. Frederick Meiwald runs out to **Malmstrom Oscar Flight claim, 24 March 1967** (event, board tier B), a witness-chain link at Tier 2 named person on the record. The link reads: Salas's crew commander; the 1 October 1996 letter. HE WAS FOUND BY THE CLAIMANT IN SUMMER 1996 AND HIS LETTER IS PUBLISHED BY THE CLAIMANT. NO PRE-CONTACT STATEMENT EXISTS. THE LETTER HAS NOT BEEN OPENED BY THIS BOARD AND TWO INCOMPATIBLE CHARACTERISATIONS OF IT ARE IN CIRCULATION. Sources: Robert Hastings, 'The Echo and Oscar Flight Incidents', separating the two events and dating Oscar Flight to 24 March 1967 on Capt. Robert Jamison's information. Opened 19 September 2026, https://www.ufohastings.com/articles/the-echo-and-oscar-flight-incidents, dated 2026-09-19; Metabunk, 'UFOs at Nuclear Weapons Sites (Salas, Malmstrom, Eagle Flight) - Skeptical Resources', carrying James Carlson's own titles and positions and the Nalty 1969 quotation. Opened 19 September 2026, https://www.metabunk.org/threads/ufos-at-nuclear-weapons-sites-salas-malmstrom-eagle-flight-skeptical-resources.3284/, dated 2026-09-19; Kevin Randle, 'A Different Perspective: Robert Salas and Me', 19 May 2013. Opened 19 September 2026, http://kevinrandle.blogspot.com/2013/05/robert-salas-and-me.html, dated 2013-05-19.
 
 ## Friedwardt Winterberg
 
@@ -5393,7 +5521,7 @@ His geographic placement matters to the shape of the programme. AAWSAP funding w
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 412 of 1125, score 33). 3 connections, 1 of them custody/funding/programmatic. Axes C1/A1/D2.
+Re-graded B on a global pass (rank 421 of 1159, score 33). 3 connections, 1 of them custody/funding/programmatic. Axes C1/A1/D2.
 
 ### The claims on the record
 
@@ -5432,7 +5560,7 @@ Affiliations recorded: U.S. Special Operations Command / OSD SO-LIC, OUSD(I&S), 
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 597 of 1125, score 27). 3 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D0.
+Re-graded C on a global pass (rank 610 of 1159, score 27). 3 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D0.
 
 ### The claims on the record
 
@@ -5470,7 +5598,7 @@ Affiliations recorded: US Navy, USS Princeton (CG-59), Carrier Strike Group 11 (
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 711 of 1125, score 23). 4 connections, 2 of them custody/funding/programmatic. Axes C1/A1/D1.
+Re-graded C on a global pass (rank 726 of 1159, score 23). 4 connections, 2 of them custody/funding/programmatic. Axes C1/A1/D1.
 
 ### The claims on the record
 
@@ -5483,414 +5611,3 @@ Re-graded C on a global pass (rank 711 of 1125, score 23). 4 connections, 2 of t
 - Gary Voorhis runs out to **USS Nimitz Carrier Strike Group Encounters, 10-16 November 2004** (event, board tier A), a custody link at Tier 3 stated inference. The link reads: Voorhis describes removal or wiping of Princeton recording media. Voorhis, a CEC/Aegis technician, has said in public interviews since 2018 that he was directed to hand over or wipe recording media and that unrecognised personnel were aboard collecting. Reasoning: no primary record naming those personnel has been located. Sources: The War Zone - Tic Tac incident in newly released range fouler reports, https://www.twz.com/tic-tac-uap-incident-included-in-72-newly-released-range-incursion-reports, dated 2023-01-13.
 - Gary Voorhis runs out to **USS Princeton (CG-59)** (institution, board tier B), a custody link at Tier 3 stated inference. The link reads: Says recording media were surrendered or wiped after 14 Nov 2004. The confiscation account rests on Voorhis and Day, in different billets, describing the same 48-hour window. No document, log entry or chain-of-custody form corroborating it has been located. Sources: The War Zone - Tic Tac incident in newly released range fouler reports, https://www.twz.com/tic-tac-uap-incident-included-in-72-newly-released-range-incursion-reports, dated 2023-01-14.
 - Gary Voorhis comes in from **Kevin Day** (person, board tier C), a witness-chain link at Tier 3 stated inference. The link reads: Independent shipmate corroboration of the post-encounter data collection. Two Princeton crewmen in unrelated divisions give converging accounts of unidentified personnel removing recorded material - evidentiary convergence short of documentary proof. Sources: The War Zone - Tic Tac incident in newly released range fouler reports, https://www.twz.com/tic-tac-uap-incident-included-in-72-newly-released-range-incursion-reports, dated 2023-01-14.
-
-## George D. Hathaway
-
-George D. Hathaway is a person on the board; board tier B, documented channel and capability, programme role indicated but not yet nailed to a primary source; dates 2010-01-01; axes C0 A1 D2; 3 connections.
-
-In one line: Professional engineer, Hathaway Consulting Services (Toronto); author of two AAWSAP DIRDs.
-
-### The longer account
-
-George Hathaway is the author the DIA list names for "Role of Superconductors in Gravity Research," and separately for "Maverick Inventor Versus Corporate Inventor" (item 16). Two DIRDs, and they are an odd pair: one a technical review of the most contested claim in gravity-modification research, the other an essay on where breakthrough invention actually comes from. Both are consistent with what Hathaway has done for fifty years.
-
-Hathaway graduated in electrical engineering from the University of Toronto in 1974 and is a registered professional engineer. He runs a private laboratory near Toronto International Airport, first as Hathaway Consulting Services, the affiliation the DIA letter records, and latterly as Hathaway Research International. The laboratory's stated function is to test claims of anomalous energy production and unconventional propulsion and gravity modification, which in practice means being the person who replicates other people's extraordinary claims and reports honestly when they fail. Between 1996 and 2003 he ran the Podkletnov rotating-superconductor gravity-shielding experiment for a prospective investor and obtained null results. He co-authored with Reiss a 2005 paper on correct laboratory practice in experiments designed to detect gravity-like forces.
-
-That record is why his DIRD is more interesting than its title suggests. The superconductor paper, DIA-08-1003-013, dated 23 March 2010 in the Acquisition Threat Support series, reviews the Soviet-lineage gravity claims of Evgeny Podkletnov and the work of Ning Li. DIA commissioned a review of gravity modification from the one person in the field with a documented history of failing to replicate it. That is not the commissioning behaviour of a programme buying a predetermined conclusion, and it is a fact that cuts against the standard reading of the DIRD set in both directions.
-
-Hathaway's disclosure role is scored above the other subject-matter authors because his laboratory is a standing independent node in the anomalous-physics network, referenced alongside EarthTech International as one of the few places where such claims get instrumented rather than argued.
-
-### Why it holds its tier
-
-Re-graded B on a global pass (rank 469 of 1125, score 31). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.
-
-### The claims on the record
-
-- **Tier 1 documented.** HIS OWN DIA-FUNDED REFERENCE DOCUMENT DOES NOT MENTION THE HUTCHISON EFFECT. DIA-08-1003-017, 'Maverick Inventor Versus Corporate Inventor: Where Will the Next Major Innovations Arise?', cover-dated 30 March 2010, ICOD 1 December 2009, 20 pages as released, attributed on the DIA list of 9 January 2018 to Dr George Hathaway of Hathaway Consulting. Word counts over the whole released document: HUTCHISON 0, Pharos 0, levitation 0. Gravity occurs 12 times and antigravity 3. THE MAN WHO WROTE THE BOOK ON THE HUTCHISON EFFECT WROTE A DIA REFERENCE DOCUMENT ABOUT MAVERICK INVENTORS AND DID NOT MENTION IT. This is a fact about the document and is not a statement by him about the claim. Source: Defense Intelligence Reference Document DIA-08-1003-017, 'Maverick Inventor Versus Corporate Inventor: Where Will the Next Major Innovations Arise?', 30 March 2010, ICOD 1 December 2009, 'Acquisition Threat Support', 20 pages as released, https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_17-DIRD_Maverick_Inventor_Versus_Corporate_Inventor-Where_Will_the_Next_major_Innovations_Arise.pdf, opened 2026-09-19
-- **Tier 1 documented.** Named on the DIA list of AATIP/AAWSAP products supplied to the Senate Armed Services Committee as author of item 16, 'Maverick Inventor Versus Corporate Inventor', affiliation Hathaway Consulting. Source: https://irp.fas.org/dia/aatip-list.pdf
-- **Tier 1 documented.** Named on the same DIA list as author of item 10, 'Role of Superconductors in Gravity Research', affiliation Hathaway Consulting, making him a two-deliverable AAWSAP contributor. Source: https://www.theblackvault.com/documentarchive/the-advanced-aviation-threat-identification-program-aatip-dird-report-research/
-- **Tier 2 named person on the record.** Between 1996 and 2003 Hathaway conducted the Podkletnov spinning-superconductor gravity experiment for a prospective investor and reported null results. Source: https://www.altpropulsion.com/gravity-control-experiments/
-- **Tier 2 named person on the record.** Graduated from the Department of Electrical Engineering, University of Toronto, 1974; Registered Professional Engineer; founder and principal of his consulting firm; consultant on 'novel and exotic materials, energy production and propulsion concepts'; author of 'Mindbending: The Hutchison Files'. Source: https://www.theblackvault.com/documentarchive/the-advanced-aviation-threat-identification-program-aatip-dird-report-research/
-- **Tier 2 named person on the record.** HE IS THE BOARD'S ONLY DOCUMENTED LINK TO THE HUTCHISON CLAIM, AND THE LINK RUNS THROUGH A PERSON RATHER THAN THROUGH ANY RECORD OF THE EFFECT. His firm's own staff page states that he 'graduated from the Dep't of Electrical Engineering at the University of Toronto in 1974 and is a Registered Professional Engineer', that he consults on 'novel and exotic materials, energy production and propulsion concepts', and that he is 'author of the book "Mindbending: The Hutchison Files"'. HIS HUTCHISON PUBLICATION IS A BOOK AND NOT A PAPER, and this board carries no peer-reviewed publication and no primary record of a controlled Hutchison demonstration, because none was found. Source: Hathaway Research International, principal staff page, https://www.hathawayresearch.com/principal-staff/, opened 2026-09-19
-- **Tier 2 named person on the record.** Hathaway graduated in electrical engineering from the University of Toronto in 1974, is a registered professional engineer, and founded Hathaway Consulting Services and later Hathaway Research International, a laboratory near Toronto International Airport dedicated to testing claims of anomalous energy production and unconventional propulsion and gravity modification. Source: https://www.hathawayresearch.com/principal-staff/
-- **Tier 2 named person on the record.** The DIA letter of 9 January 2018 lists item 10 as "Role of Superconductors in Gravity Research, Dr George Hathaway, Hathaway Consulting." Source: https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html, DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement
-
-A further 1 claims sit on this node on the board and are not reproduced here.
-
-### Its strongest connections
-
-- George D. Hathaway runs out to **The Role of Superconductors in Gravity Research** (document, board tier B), a research link at Tier 1 documented. The link reads: author of record on the DIA list. DIA list item 10: "Role of Superconductors in Gravity Research, Dr George Hathaway, Hathaway Consulting." This is the attribution most likely to be got wrong from the title alone: the paper reviews the Podkletnov and Ning Li gravity-modification claims but was not written by either of them or by any academic advocate of the effect. It was written by the Toronto engineer who had run the Podkletnov replication and reported null results. Sources: Released DIRD, 'The Role of Superconductors in Gravity Research', FOIA copy, cover page read 22 August 2026, https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_14-DIRD_The_Role_of_Superconductors_in_Gravity_Research.pdf, dated 2026-08-22; DIA FOIA Electronic Reading Room entry for this reference document, https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237631/, dated 2026-08-22; DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations, https://fas.org/publication/aatip-list/, dated 2026-08-23; https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html, https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html; https://irp.fas.org/dia/aatip-list.pdf, https://irp.fas.org/dia/aatip-list.pdf
-- George D. Hathaway comes in from **Maverick Inventor Versus Corporate Inventor: Where Will the Next Major Innovations Arise?** (document, board tier B), a research link at Tier 1 documented. The link reads: authored by. The DIA congressional list credits 'Maverick Inventor Versus Corporate Inventor: Where Will the Next Major Innovations Arise?' to 'Dr George Hathaway, Hathaway Consulting'. Hathaway is also credited on the same list with 'Role of Superconductors in Gravity Research'. The author line on the released PDF is redacted under (b)(6). Sources: Released DIRD, 'Maverick Inventor Versus Corporate Inventor: Where Will the Next Major', FOIA copy, cover page read 22 August 2026, https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_17-DIRD_Maverick_Inventor_Versus_Corporate_Inventor-Where_Will_the_Next_major_Innovations_Arise.pdf, dated 2026-08-22; DIA FOIA Electronic Reading Room entry for this reference document, https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237624/, dated 2026-08-22; DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations, https://fas.org/publication/aatip-list/, dated 2026-08-23; https://irp.fas.org/dia/aatip-list.pdf, https://irp.fas.org/dia/aatip-list.pdf; https://www.theblackvault.com/documentarchive/the-advanced-aviation-threat-identification-program-aatip-dird-report-research/, https://www.theblackvault.com/documentarchive/the-advanced-aviation-threat-identification-program-aatip-dird-report-research/
-- George D. Hathaway runs out to **Exotic Technology & Physics** (domain, board tier B), a research link at Tier 2 named person on the record. The link reads: Registered engineer consulting on exotic materials, energy and propulsion; author of 'Mindbending: The Hutchison Files'. THE BOARD'S ONLY DOCUMENTED LINK TO THE HUTCHISON CLAIM, AND IT RUNS THROUGH A PERSON RATHER THAN THROUGH ANY RECORD OF THE EFFECT. His firm's own page gives the University of Toronto electrical engineering degree of 1974, the professional registration, the consulting subjects and the book. NO HUTCHISON NODE EXISTS AND NONE SHOULD BE CREATED: no peer-reviewed publication and no primary record of a controlled demonstration was found, and his own DIA-funded reference document names Hutchison zero times. Sources: Hathaway Research International, principal staff page, https://www.hathawayresearch.com/principal-staff/, dated 2026-09-19; Defense Intelligence Reference Document DIA-08-1003-017, 20 pages as released, https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_17-DIRD_Maverick_Inventor_Versus_Corporate_Inventor-Where_Will_the_Next_major_Innovations_Arise.pdf, dated 2010-03-30.
-
-## George S. Trimble
-
-George S. Trimble is a person on the board; board tier C, contextual, real and relevant, no direct programme linkage on the record yet; dates 1955-06-10; axes C1 A1 D0; 3 connections.
-
-In one line: Glenn L. Martin Company executive; proposed RIAS as an industrial institute for advanced study.
-
-### The longer account
-
-RIAS was Trimble's idea and gravity was explicitly its subject, and both facts come off his own dated letter. Writing to Bryce DeWitt on 10 June 1955 he opens: 'During a recent conversation with Mr. George Rideout, president of Roger Babson's Gravity Research Foundation, we were commiserating on the unfortunate state of the affairs that knowledgable folks do not wish to get mixed up in the field of gravity research.' He continues: 'It occurred to us some time ago that our industry was vitally concerned with gravity ... At least one category of the things one must study, when he desires to bring space flight to reality, is the laws of nature surrounding the force of gravity.' He described the proposed body as an 'industrial version of the Institute for Advanced Study'.
-
-That is an aerospace prime's executive, in 1955, in writing, saying his industry needed gravity research and that respectable people would not touch it -- which is a documented statement of exactly the reputational mechanism this board maps elsewhere. Martin money also reached the university side: Trimble and the Glenn L. Martin Company bought a Founder's Membership in the Institute of Field Physics for $5,000 and offered to help solicit more.
-
-The industrial and academic halves were deliberately kept apart, and the source says why. The Martin company's institute was 'industry-sponsored, and not ensconced in a university', while the Institute of Field Physics was placed inside UNC 'so as to avoid the conflict that physicists felt working in an industrial setting.' Note what is not carried here: no document read states that Trimble recruited Louis Witten, and this board draws no such edge.
-
-### Recorded as unverified
-
-- R
-- I
-- A
-- S
-- '
-- s
-- 
-- f
-- o
-- u
-- n
-- d
-- i
-- n
-- g
-- 
-- d
-- a
-- t
-- e
-- 
-- a
-- n
-- d
-- 
-- f
-- o
-- u
-- n
-- d
-- e
-- r
-- 
-- w
-- e
-- r
-- e
-- 
-- n
-- o
-- t
-- 
-- e
-- s
-- t
-- a
-- b
-- l
-- i
-- s
-- h
-- e
-- d
-- 
-- f
-- r
-- o
-- m
-- 
-- a
-- 
-- p
-- r
-- i
-- m
-- a
-- r
-- y
-- 
-- r
-- e
-- c
-- o
-- r
-- d
-- .
-- 
-- A
-- 
-- '
-- 1
-- 9
-- 5
-- 5
-- ,
-- 
-- b
-- y
-- 
-- G
-- e
-- o
-- r
-- g
-- e
-- 
-- B
-- u
-- n
-- k
-- e
-- r
-- '
-- 
-- a
-- t
-- t
-- r
-- i
-- b
-- u
-- t
-- i
-- o
-- n
-- 
-- a
-- p
-- p
-- e
-- a
-- r
-- s
-- 
-- o
-- n
-- l
-- y
-- 
-- i
-- n
-- 
-- e
-- n
-- c
-- y
-- c
-- l
-- o
-- p
-- e
-- d
-- i
-- a
-- 
-- s
-- u
-- m
-- m
-- a
-- r
-- i
-- e
-- s
-- 
-- a
-- n
-- d
-- 
-- w
-- a
-- s
-- 
-- n
-- o
-- t
-- 
-- o
-- p
-- e
-- n
-- e
-- d
-- .
-- 
-- T
-- r
-- i
-- m
-- b
-- l
-- e
-- '
-- s
-- 
-- J
-- u
-- n
-- e
-- 
-- 1
-- 9
-- 5
-- 5
-- 
-- l
-- e
-- t
-- t
-- e
-- r
-- 
-- d
-- e
-- s
-- c
-- r
-- i
-- b
-- e
-- s
-- 
-- t
-- h
-- e
-- 
-- i
-- n
-- s
-- t
-- i
-- t
-- u
-- t
-- e
-- 
-- a
-- s
-- 
-- s
-- t
-- i
-- l
-- l
-- 
-- p
-- r
-- o
-- p
-- o
-- s
-- e
-- d
-- ,
-- 
-- w
-- h
-- i
-- c
-- h
-- 
-- i
-- s
-- 
-- c
-- o
-- n
-- s
-- i
-- s
-- t
-- e
-- n
-- t
-- 
-- w
-- i
-- t
-- h
-- 
-- 1
-- 9
-- 5
-- 5
-- 
-- b
-- u
-- t
-- 
-- d
-- o
-- e
-- s
-- 
-- n
-- o
-- t
-- 
-- e
-- s
-- t
-- a
-- b
-- l
-- i
-- s
-- h
-- 
-- i
-- t
-- .
-
-### Why it holds its tier
-
-Re-graded C on a global pass (rank 604 of 1125, score 27). 3 connections, 1 of them custody/funding/programmatic. Axes C1/A1/D0.
-
-### The claims on the record
-
-- **Tier 1 documented.** In November 1955 he was a vice-president of Martin, not its chief executive, and the atom-bomb comparison he made was about time and not about money. Ansel Talbert's Herald Tribune series identifies him as 'vice-president in charge of advanced design planning of Martin Aircraft Corp.' and as 'organizing a new Research Institute for Advanced Study', and quotes him: 'I think we could do the job in about the time that it actually required to build the first atom bomb if enough trained scientific brain-power simultaneously began thinking about and working towards a solution.' Source: Ansel E. Talbert, New York Herald Tribune, 20 November 1955 caption and continuation p. 36 and 22 November 1955 continuation p. 10, page images at https://archive.org/download/talbert1ny/talbert1ny_djvu.txt and https://archive.org/download/talbert3ny/talbert3ny_djvu.txt
-- **Tier 1 documented.** The UNC Physics and Astronomy department history names the Air Force route into the Institute of Field Physics as the Aeronautical Research Laboratory at Wright-Patterson Air Force Base, not the Wright Air Development Center: 'Joshua Goldberg was, at the time of the establishment of the IOFP and the conference, in charge of aspects of the Air Force's funding of general relativity, in the "modern physics research branch" (based at the Aeronautical Research Laboratory at Wright Patterson Air Force Base).' The page uses neither 'Wright Air Development Center' nor 'WADC'. Source: History of the Institute of Field Physics (1955-1959), UNC Physics and Astronomy department history https://physics.unc.edu/home/department-history/section-ii/
-- **Tier 2 named person on the record.** In a letter to Bryce DeWitt dated 10 June 1955, Trimble wrote: 'It occurred to us some time ago that our industry was vitally concerned with gravity. As time goes on we become more and more concerned because we feel certain that sooner or later man will invade space and we see it as our job to do everything possible to speed this event. At least one category of the things one must study, when he desires to bring space flight to reality, is the laws of nature surrounding the force of gravity.' Source: Trimble to Bryce DeWitt, 10 June 1955, quoted by Dean Rickles in the Edition Open Sources edition of the 1957 Chapel Hill conference report
-- **Tier 2 named person on the record.** The same letter opens by recording a conversation with George Rideout, president of Roger Babson's Gravity Research Foundation, 'commiserating on the unfortunate state of the affairs that knowledgable folks do not wish to get mixed up in the field of gravity research.' Rickles adds that Trimble bemoans that most of those working on gravitation are 'madmen and quacks'. Source: Trimble to Bryce DeWitt, 10 June 1955, quoted by Dean Rickles
-- **Tier 2 named person on the record.** Trimble and the Glenn L. Martin Company bought a Founder's Membership in the Institute of Field Physics for $5,000 and offered to help solicit further funding. Source: Dean Rickles, 'The Chapel Hill Conference in Context'
-- **Tier 2 named person on the record.** Trimble described the body he proposed as an 'industrial version of the Institute for Advanced Study'. The Glenn L. Martin Company's institute was 'industry-sponsored, and not ensconced in a university', while the Institute of Field Physics was deliberately placed inside the University of North Carolina 'so as to avoid the conflict that physicists felt working in an industrial setting.' Source: Dean Rickles, 'The Chapel Hill Conference in Context'
-
-### Its strongest connections
-
-- George S. Trimble comes in from **Institute of Field Physics (UNC Chapel Hill)** (institution, board tier A), a funding link at Tier 1 documented. The link reads: Trimble and the Glenn L. Martin Company bought a Founder's Membership for $5,000. The department history records that Trimble and the Glenn Martin Company purchased a Founder's Membership for the Institute for $5,000 and offered their support to solicit further funding. Sources: History of the Institute of Field Physics (1955-1959), Section II, https://physics.unc.edu/department-history/section-ii/, dated 2026-09-02.
-- George S. Trimble comes in from **Ansel E. Talbert, three-part gravity series, New York Herald Tribune, 20-22 November 1955** (document, board tier B), a research link at Tier 1 documented. The link reads: Quoted by name as Martin's vice-president in charge of advanced design planning. The series quotes Trimble by name as Martin's vice-president for advanced design planning and reports him organizing the Research Institute for Advanced Study. Sources: https://archive.org/download/talbert1ny/talbert1ny_djvu.txt, https://archive.org/download/talbert1ny/talbert1ny_djvu.txt
-- George S. Trimble comes in from **RIAS, Inc. (Research Institute for Advanced Studies)** (institution, board tier C), a institutional link at Tier 2 named person on the record. The link reads: Trimble proposed RIAS as an industrial institute for advanced study. Trimble to Bryce DeWitt, 10 June 1955, quoted by a named historian in a peer-published edition. The letter itself was not opened; the quotation is the historian's. Sources: Dean Rickles, 'The Chapel Hill Conference in Context', https://edition-open-sources.org/sources/5/3/index.html, dated 2011-01-01.
-
-## Gerald Anderson
-
-Gerald Anderson is a person on the board; board tier C, contextual, real and relevant, no direct programme linkage on the record yet; dates 1990; axes C2 A0 D0; 3 connections.
-
-In one line: Claimed first-hand child witness, Plains of San Agustin, 1947.
-
-### The longer account
-
-Gerald Anderson came forward in 1990, after a television broadcast, claiming that as a five-year-old he had been rockhounding with his family on the Plains of San Agustin in July 1947 and had walked up to a crashed disc with dead and one living occupant. He was the only claimed first-hand witness to the San Agustin site and was accordingly promoted hard by Stanton Friedman and Don Berliner in 'Crash at Corona' (1992). The case against him was made not by the Air Force but by other ufologists: Mark Rodeghier of CUFOS and Fred Whiting of the Fund for UFO Research produced a joint report, 'The Plains of San Agustin Controversy', which established among other things that a telephone bill Anderson submitted as corroboration had been altered. His own quoted words in the Air Force's 1997 report - 'I thought they were plastic dolls' - and his descriptions of the recovery procedures were read by the Air Force as accurate reporting of an anthropomorphic dummy balloon launch and recovery, of which numerous examples were flown and recovered in the region. Anderson matters to this board as the field's most instructive self-correction: two civilian research organisations audited their own star witness and published the result against interest.
-
-### Where the record conflicts
-
-- Friedman continued to defend elements of Anderson's account after the CUFOS/FUFOR report; Randle rejected it.
-
-### Recorded as unverified
-
-- The precise findings of the Rodeghier-Whiting document have not been read in the original here, only as cited by the Air Force report.
-
-### Why it holds its tier
-
-Re-graded C on a global pass (rank 783 of 1125, score 21). 3 connections, 0 of them custody/funding/programmatic. Axes C2/A0/D0.
-
-### The claims on the record
-
-- **Tier 1 documented.** Anderson's interview transcript is reproduced at Appendix C, page 187, of the US Air Force's 1997 report. Source: The Roswell Report: Case Closed (1997), Appendix C
-- **Tier 1 documented, allegation shaped wording as stored.** The USAF's 'Case Closed' prints Gerald Anderson's interview in full as Appendix C, beginning at page 187, noting it was 'excerpted in their entirety from unedited interviews used to prepare the video, Recollections of Roswell, Part II (1993)' and appears courtesy of the Fund for UFO Research. The Air Force also quotes him directly on the alleged bodies: 'I thought they were plastic dolls.' Source: Headquarters USAF, 'The Roswell Report: Case Closed' (1997), Appendix C https://archive.org/details/DTIC_ADA326147
-- **Tier 2 named person on the record.** Anderson described the bodies as 'I thought they were plastic dolls' and described recovery procedures the Air Force found consistent with high-altitude balloon and anthropomorphic dummy launch and recovery. Source: The Roswell Report: Case Closed (1997), Section 1.4 and Conclusion
-- **Tier 2 named person on the record.** Mark Rodeghier (CUFOS) and Fred Whiting (Fund for UFO Research) published a joint investigation, 'The Plains of San Agustin Controversy', concluding against Anderson's reliability. Source: Rodeghier and Whiting, 'The Plains of San Agustin Controversy' (1992), cited at note 123 of the 1997 Air Force report
-
-### Its strongest connections
-
-- Gerald Anderson runs out to **J. Allen Hynek Center for UFO Studies (CUFOS)** (institution, board tier C), a investigative link at Tier 2 named person on the record. The link reads: CUFOS and FUFOR investigated and discredited their own witness. Mark Rodeghier of CUFOS and Fred Whiting of the Fund for UFO Research published 'The Plains of San Agustin Controversy' concluding against Anderson's reliability. Sources: The Roswell Report: Case Closed (1997), https://archive.org/details/AFD-101027-030, dated 1997-01-01.
-- Gerald Anderson runs out to **Plains of San Agustin claim, July 1947** (event, board tier C), a witness-chain link at Tier 2 named person on the record. The link reads: Sole claimed first-hand witness to the San Agustin site. Anderson came forward in 1990; the Air Force's 1997 report identifies him as the one first-hand testimony among the three supporting the claim. Sources: The Roswell Report: Case Closed (1997), https://archive.org/details/AFD-101027-030, dated 1997-01-01.
-- Gerald Anderson comes in from **Fund for UFO Research** (institution, board tier C), a investigative link at Tier 2 named person on the record. The link reads: FUFOR co-authored the report against its own first-hand witness. Fred Whiting for FUFOR with Mark Rodeghier for CUFOS. Cited at note 123 of the 1997 Air Force report. Sources: The Roswell Report: Case Closed (1997), https://archive.org/details/AFD-101027-030, dated 1997-01-01.

@@ -2,7 +2,7 @@
 "A": 3,
 "C": 0,
 "D": 2,
-"band": "oversight",
+"band": null,
 "claims": [
 {
 "source": "Gerald K. Haines, 'CIA's Role in the Study of UFOs, 1947-90', Studies in Intelligence, mirrored full text, https://www.nicap.org/ciarole.htm",
@@ -370,24 +370,11 @@
 },
 "hl": null,
 "id": "haines-cia-history",
-"l0": true,
+"l0": false,
 "label": "A Die-hard Issue: CIA's Role in the Study of UFOs, 1947-1990",
 "locLabel": null,
-"members": [
-{
-"cls": "document",
-"id": "cia-overhead-reconnaissance-history-1992",
-"label": "The Central Intelligence Agency and Overhead Reconnaissance: The U-2 and OXCART Programs, 1954-1974",
-"tier": "B"
-},
-{
-"cls": "event",
-"id": "washington-flap-1952",
-"label": "1952 Washington DC Sightings",
-"tier": "C"
-}
-],
-"short": "A Die-hard Issue",
+"members": null,
+"short": "A Die-hard Issue: CIA's Role in the Study of UFOs, 1947-1990",
 "sources": [
 {
 "date": "1997-01-01",
@@ -412,7 +399,7 @@
 ],
 "sub": "Gerald K. Haines, CIA Studies in Intelligence, 1997",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 92 of 1125, score 65). 9 connections, 0 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C0/A3/D2.",
+"tierRationale": "Re-graded A on a global pass (rank 94 of 1159, score 65). 9 connections, 0 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C0/A3/D2.",
 "timeline": [
 {
 "date": "1997-01-01",

@@ -109,7 +109,7 @@
 "direction": "out",
 "edgeLabel": "USNORTHCOM withheld two responsive fastwalker documents and refused to search NORAD",
 "id": "norad-northcom",
-"l0": false,
+"l0": true,
 "label": "NORAD and US Northern Command",
 "note": "USNORTHCOM located two responsive documents on the fastwalker designation and withheld both, and declined to search NORAD's holdings on the ground that NORAD sits outside FOIA.",
 "sources": [
@@ -273,6 +273,6 @@
 ],
 "sub": "USAF and later US Space Force strategic surveillance constellation; programme commenced 1967, first operational satellite 1971",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 355 of 1125, score 36). 6 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D1.",
+"tierRationale": "Re-graded B on a global pass (rank 362 of 1159, score 36). 6 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D1.",
 "timeline": []
 }

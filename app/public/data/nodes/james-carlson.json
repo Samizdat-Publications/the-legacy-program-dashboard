@@ -1,0 +1,191 @@
+{
+"A": 0,
+"C": 0,
+"D": 2,
+"affiliations": [],
+"age": null,
+"band": null,
+"chronology": [],
+"claims": [
+{
+"source": "Metabunk, https://www.metabunk.org/threads/ufos-at-nuclear-weapons-sites-salas-malmstrom-eagle-flight-skeptical-resources.3284/ , opened 2026-09-19",
+"text": "James Carlson, son of Echo Flight crew commander Capt. Eric D. Carlson, has published a 357-page work titled 'American, Credulous' and a shorter piece titled 'Echo Flights of Fantasy - Anatomy of a UFO Hoax', concluding that no UFOs were involved at Echo Flight or any other flight and that claims of UFO interference are completely unsupportable.",
+"tier": 2
+},
+{
+"source": "Metabunk, https://www.metabunk.org/threads/ufos-at-nuclear-weapons-sites-salas-malmstrom-eagle-flight-skeptical-resources.3284/ , opened 2026-09-19",
+"text": "His enumerated disputes with Robert Salas are: that Salas claims all ten Echo Flight missiles shut down where Eric Carlson confirms three or four; that no Oscar Flight incident occurred on 24 or 25 March 1967; that Walt Figel denied seeing a UFO; that Salas has located himself inconsistently across accounts; and that Salas never witnessed anything directly, his account being of a telephone call from a topside security policeman.",
+"tier": 2
+},
+{
+"source": "341st SMW history, Jan-Mar 1967, p 32, https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf , opened 2026-09-19",
+"text": "One of his disputes is settled against him by the Air Force's own paper. The 341st SMW history states that all launch facilities in Echo Flight lost strategic alert nearly simultaneously, which supports Salas's figure of ten and not the three-or-four figure Carlson attributes to his father.",
+"tier": 1
+},
+{
+"source": "341st SMW history, Jan-Mar 1967, p 38, and a full-text search of the 88-page release, https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf , opened 2026-09-19",
+"text": "One of his disputes is supported by the same document. The words 'Unidentified Flying Object' occur exactly once in the 88 released pages of the 341st SMW histories, and the occurrence is a negative: 'Rumors of Unidentified Flying Objects (UFO) around the area of Echo Flight during the time of fault were disproven.' The string 'Oscar' does not occur in the release at all.",
+"tier": 1
+}
+],
+"cls": "person",
+"cluster": "research",
+"conflicts": [
+"The board's own reading of the primary document splits his case in two: the unit history contradicts his father's three-or-four figure and supports Salas, while the same history's single UFO sentence and its silence on Oscar Flight support Carlson. Neither side's account of this document survives intact."
+],
+"connections": [
+{
+"claimTier": 2,
+"cls": "event",
+"dateEnd": "2026",
+"dateStart": "2010",
+"direction": "out",
+"edgeLabel": "Disputes that any Oscar Flight incident occurred",
+"id": "malmstrom-oscar-flight-1967",
+"l0": true,
+"label": "Malmstrom Oscar Flight claim, 24 March 1967",
+"note": "He cites SAC UFO officer Col. Lewis D. Chase as finding no equipment failures or sighting on that date. The released unit history is silent, which supports neither man, though its silence is consistent with him.",
+"sources": [
+{
+"date": "2026-09-19",
+"name": "Metabunk, 'UFOs at Nuclear Weapons Sites (Salas, Malmstrom, Eagle Flight) - Skeptical Resources', carrying James Carlson's own titles and positions and the Nalty 1969 quotation. Opened 19 September 2026",
+"url": "https://www.metabunk.org/threads/ufos-at-nuclear-weapons-sites-salas-malmstrom-eagle-flight-skeptical-resources.3284/"
+},
+{
+"date": "2001-06-14",
+"name": "341st Strategic Missile Wing quarterly histories, 1 January 1967 to 31 March 1968, excerpts released to John Greenewald Jr by Headquarters 341st Space Wing on 14 June 2001 under his FOIA request of 9 May 2001, signed Marty S. Stephens; 88-page PDF on The Black Vault, text extracted and read in full by this session. Opened 19 September 2026",
+"url": "https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf"
+}
+],
+"tier": "B",
+"type": "denial"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2026",
+"dateStart": "2010",
+"direction": "out",
+"edgeLabel": "Sustained published dispute of the Malmstrom account",
+"id": "robert-salas",
+"l0": false,
+"label": "Capt. Robert L. Salas",
+"note": "Carlson is the son of Echo Flight's crew commander. His two works were NOT OPENED by this board and his position is reported at one remove.",
+"sources": [
+{
+"date": "2026-09-19",
+"name": "Metabunk, 'UFOs at Nuclear Weapons Sites (Salas, Malmstrom, Eagle Flight) - Skeptical Resources', carrying James Carlson's own titles and positions and the Nalty 1969 quotation. Opened 19 September 2026",
+"url": "https://www.metabunk.org/threads/ufos-at-nuclear-weapons-sites-salas-malmstrom-eagle-flight-skeptical-resources.3284/"
+}
+],
+"tier": "B",
+"type": "denial"
+}
+],
+"date": "2010-01-01",
+"dateEnd": null,
+"dateStart": "2010-01-01",
+"deg": 2,
+"denials": [
+{
+"by": {
+"id": "james-carlson",
+"label": "James Carlson"
+},
+"claimTier": 2,
+"denialKind": "directed",
+"label": "Disputes that any Oscar Flight incident occurred",
+"note": "He cites SAC UFO officer Col. Lewis D. Chase as finding no equipment failures or sighting on that date. The released unit history is silent, which supports neither man, though its silence is consistent with him.",
+"of": {
+"id": "malmstrom-oscar-flight-1967",
+"label": "Malmstrom Oscar Flight claim, 24 March 1967"
+},
+"sources": [
+{
+"date": "2026-09-19",
+"name": "Metabunk, 'UFOs at Nuclear Weapons Sites (Salas, Malmstrom, Eagle Flight) - Skeptical Resources', carrying James Carlson's own titles and positions and the Nalty 1969 quotation. Opened 19 September 2026",
+"url": "https://www.metabunk.org/threads/ufos-at-nuclear-weapons-sites-salas-malmstrom-eagle-flight-skeptical-resources.3284/"
+},
+{
+"date": "2001-06-14",
+"name": "341st Strategic Missile Wing quarterly histories, 1 January 1967 to 31 March 1968, excerpts released to John Greenewald Jr by Headquarters 341st Space Wing on 14 June 2001 under his FOIA request of 9 May 2001, signed Marty S. Stephens; 88-page PDF on The Black Vault, text extracted and read in full by this session. Opened 19 September 2026",
+"url": "https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf"
+}
+]
+},
+{
+"by": {
+"id": "james-carlson",
+"label": "James Carlson"
+},
+"claimTier": 2,
+"denialKind": "directed",
+"label": "Sustained published dispute of the Malmstrom account",
+"note": "Carlson is the son of Echo Flight's crew commander. His two works were NOT OPENED by this board and his position is reported at one remove.",
+"of": {
+"id": "robert-salas",
+"label": "Capt. Robert L. Salas"
+},
+"sources": [
+{
+"date": "2026-09-19",
+"name": "Metabunk, 'UFOs at Nuclear Weapons Sites (Salas, Malmstrom, Eagle Flight) - Skeptical Resources', carrying James Carlson's own titles and positions and the Nalty 1969 quotation. Opened 19 September 2026",
+"url": "https://www.metabunk.org/threads/ufos-at-nuclear-weapons-sites-salas-malmstrom-eagle-flight-skeptical-resources.3284/"
+}
+]
+}
+],
+"domains": [
+"nuclear-witnesses-2026-09-19"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "2",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "james-carlson",
+"instId": null,
+"l0": false,
+"label": "James Carlson",
+"loc": "Albuquerque, New Mexico",
+"locId": null,
+"members": null,
+"narrative": "James Carlson is the principal named opponent of the Malmstrom UFO account and the son of the officer who commanded Echo Flight on 16 March 1967. He has published a long work, 'American, Credulous', reported at 357 pages, and a shorter piece, 'Echo Flights of Fantasy - Anatomy of a UFO Hoax', in which he argues that no UFOs were involved at Echo Flight or any other Malmstrom flight and that the claim of UFO interference with the missile force is unsupportable. His disputes with Robert Salas are specific and enumerable rather than rhetorical: the number of missiles affected, whether an Oscar Flight incident occurred at all, what Walter Figel actually said, which flight Salas was assigned to, and the fact that Salas did not himself witness anything. He belongs on this board under CLAUDE.md section 2a on notability: an informed reader looking at the Malmstrom cluster would expect to find the case against inside it, and the triage rule requires the case against to live on the same nodes rather than in a separate file. The board records his position and does not adopt it. Note the symmetry the cluster produces: his father's denial reaches the public through him, exactly as Figel's admission reaches the public through Robert Hastings.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "James Carlson",
+"sources": [
+{
+"date": "2026-09-19",
+"name": "Metabunk, 'UFOs at Nuclear Weapons Sites (Salas, Malmstrom, Eagle Flight) - Skeptical Resources', carrying James Carlson's own titles and positions and the Nalty 1969 quotation. Opened 19 September 2026",
+"url": "https://www.metabunk.org/threads/ufos-at-nuclear-weapons-sites-salas-malmstrom-eagle-flight-skeptical-resources.3284/"
+},
+{
+"date": "2001-06-14",
+"name": "341st Strategic Missile Wing quarterly histories, 1 January 1967 to 31 March 1968, excerpts released to John Greenewald Jr by Headquarters 341st Space Wing on 14 June 2001 under his FOIA request of 9 May 2001, signed Marty S. Stephens; 88-page PDF on The Black Vault, text extracted and read in full by this session. Opened 19 September 2026",
+"url": "https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf"
+},
+{
+"date": "2011-06-01",
+"name": "The UFO Chronicles, 'The Echo Flight ICBM Incident: Retired USAF Officer Confirms Receiving A UFO Report Just as the Missiles Failed', republishing Robert Hastings on his taped telephone conversations with Col. Walter Figel. Opened 19 September 2026",
+"url": "https://www.theufochronicles.com/2011/06/echo-flight-icbm-incident-retired-usaf.html"
+},
+{
+"date": "2011-08-01",
+"name": "Tim Hebert, 'Echo Flight: The Makings of a UFO Myth: Disproving a UFO Case'. Opened 19 September 2026",
+"url": "https://timhebert2.blogspot.com/2011/08/disproving-ufo-case.html"
+}
+],
+"status": "alive",
+"sub": "Author and critic of the Malmstrom 1967 UFO account; son of Echo Flight crew commander Capt. Eric D. Carlson",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 704 of 1159, score 24). 2 connections, 0 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C0/A0/D2.",
+"timeline": [],
+"unexplainedResidual": null,
+"unverified": [
+"'American, Credulous' and 'Echo Flights of Fantasy' were NOT OPENED by the pass of 19 September 2026. Both circulate on Scribd, which this session did not reach. Every statement of his position on this node is therefore at one remove, from Metabunk and from The UFO Chronicles, and is marked as such. This is the largest evidentiary gap in the case against."
+]
+}

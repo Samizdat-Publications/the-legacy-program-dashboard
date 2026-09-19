@@ -1,0 +1,188 @@
+{
+"A": 0,
+"C": 0,
+"D": 2,
+"affiliations": [],
+"age": null,
+"band": null,
+"chronology": [],
+"claims": [
+{
+"source": "Jesse Michels, video rjUdn6FklAU, 7 September 2026, at 00:07:11, 00:18:44-00:20:40 and 00:53:19-00:53:45, https://www.youtube.com/watch?v=rjUdn6FklAU , opened 2026-09-19",
+"text": "Michael Johnson is presented as the second USAF security policeman of the 44th Missile Security Squadron present at Launch Facility November-5, Ellsworth AFB, on 18 November 1977, working vacation relief on a commander option day, and states he was taken, examined, recovered catatonic at the steering wheel of the truck, interrogated separately on base and subsequently discharged after an Article 15.",
+"tier": 2
+},
+{
+"source": "Jesse Michels, video rjUdn6FklAU, at 00:03:06-00:03:45 and 00:05:19, https://www.youtube.com/watch?v=rjUdn6FklAU , opened 2026-09-19",
+"text": "SECTION 2a PROVENANCE. HE WAS LOCATED BY THE PUBLISHING PARTY. A viewer of the show sent the production a Facebook page belonging to a Michael Johnson in his seventies in South Carolina; the producer then tasked an unnamed recruiter who found him in about a week; the first contact call is dated on air to 26 June 2026. Not the original witness, not a records search, not AARO.",
+"tier": 2
+},
+{
+"source": "Jesse Michels, video rjUdn6FklAU, at 00:03:34-00:03:40, 00:08:44-00:08:51 and 01:32:29, https://www.youtube.com/watch?v=rjUdn6FklAU , opened 2026-09-19",
+"text": "SECTION 2a PROVENANCE. NOTHING WHATEVER WAS SAID BY HIM ABOUT THE EVENT BEFORE HE WAS CONTACTED. The only pre-contact artefact identified anywhere in the two hour forty-seven minute episode is an undated Facebook post to the effect that he was with his boys in South Dakota on Ellsworth from 1975 to 1977. That post places him at the base in the right years and says nothing about the event. He asserts private prior telling to friends; no dated public statement exists.",
+"tier": 2
+},
+{
+"source": "Jesse Michels, video rjUdn6FklAU, at 00:05:24-00:05:46 and 00:07:29-00:08:51, https://www.youtube.com/watch?v=rjUdn6FklAU , opened 2026-09-19",
+"text": "SECTION 2a PROVENANCE. HE WAS GIVEN THE OTHER WITNESS'S FRAME ON THE RECORDED CALL. The interviewer withheld it and said so on air, telling Johnson nothing about November-5 and nothing about a UFO. Mario Woods was then patched in and within two minutes supplied the site and date, the vacation-relief detail, and then the category: asked at 00:07:29 whether he remembered what they encountered at 0100, Johnson answered 'No' at 00:07:35; Woods then asked twice whether it was a UFO; Johnson assented after a pause at 00:07:46; Woods then asked how far over the top of the blaster it was and Johnson gave 'under 50 feet'.",
+"tier": 2
+},
+{
+"source": "Jesse Michels, video rjUdn6FklAU, at 00:07:29-00:07:46 against 00:17:46-00:18:11, https://www.youtube.com/watch?v=rjUdn6FklAU , opened 2026-09-19",
+"text": "THE EPISODE'S OWN RETELLING OF THAT MOMENT DIVERGES FROM ITS OWN RECORDING OF IT. At 00:17:46-00:18:11, with Johnson present, the recognition is recounted as Woods naming only the year, base and site and Johnson immediately saying 'Oh, that UFO', with the producer characterising it as chilling because no other details were supplied. The recorded call at 00:07:29-00:07:46 shows an initial 'No', then Woods naming the UFO, then assent. Both passages are timestamped in the same episode.",
+"tier": 2
+},
+{
+"source": "Derived by this board from the register in research/leads/verified-nuclear-witnesses-2026-09-19.md, which lists every nuclear-facility witness found in the 19 September 2026 pass together with the route by which each account reached the public",
+"text": "SECTION 2a PROVENANCE. WHERE THE ACCOUNTS DIVERGE IS THE STRONGEST THING IN HIS FAVOUR. They agree on substance, an object above the site, figures, missing time and separate interrogation, and they diverge sharply on posture and agency: Johnson's account is passive throughout, frozen to the steering wheel, unable to speak or blink, hearing Woods shouting, while Woods's is active, out of the truck and calling Johnson to come and look. Agreement on substance with divergence on detail reads very differently from verbatim agreement.",
+"tier": 3
+},
+{
+"source": "Jesse Michels, video rjUdn6FklAU, at 00:57:51, 00:58:19-00:59:09 and 01:00:04, https://www.youtube.com/watch?v=rjUdn6FklAU , opened 2026-09-19",
+"text": "Content produced under hypnotic regression is not carried as evidence of events and is recorded only as evidence that a regression was conducted. The induction supplied the date, the season and the setting before the subject spoke, directing him back to the winter of 1977 and asking him to describe where he was on the base. Under regression his object becomes a large building, which matches neither his waking description nor the narration.",
+"tier": 3
+},
+{
+"source": "Jesse Michels, video rjUdn6FklAU, at 02:37:05-02:37:24, https://www.youtube.com/watch?v=rjUdn6FklAU , opened 2026-09-19",
+"text": "MATERIAL INTEREST WAS ESTABLISHED AFTER CONTACT. The production launched a crowdfunding appeal on the two men's behalf and the episode is commercially sponsored. Recorded plainly as an analytic caveat, not as a disqualifier.",
+"tier": 3
+}
+],
+"cls": "person",
+"cluster": "witness",
+"conflicts": [
+"The episode's on-camera account of the moment of recognition contradicts the episode's own recording of that moment.",
+"Identity is not settled by anything in the episode. Johnson himself asks on the call whether they have the right Michael Johnson, at 00:09:24-00:09:33 and again at 00:17:39, and the episode itself observes that it is one of the most common names in the United States."
+],
+"connections": [
+{
+"claimTier": 2,
+"cls": "event",
+"dateEnd": "2026-09-07",
+"dateStart": "1977-11-18",
+"direction": "out",
+"edgeLabel": "The second witness, located by the publishing party in June 2026",
+"id": "ellsworth-1977",
+"l0": false,
+"label": "Ellsworth AFB Launch Facility November-5 claim, 18 November 1977",
+"note": "LOCATED BY THE PUBLISHING PARTY ON 26 JUNE 2026 FROM A VIEWER'S FACEBOOK TIP, VIA AN UNNAMED RECRUITER. NO DATED PUBLIC STATEMENT BY HIM ABOUT THIS EVENT EXISTS PRIOR TO THAT CONTACT. ON THE RECORDED CALL HE ANSWERED 'NO' BEFORE THE ORIGINAL WITNESS NAMED THE UFO, TWICE, AND HE THEN ASSENTED. THE EPISODE'S OWN LATER RETELLING OF THAT MOMENT CONTRADICTS ITS OWN RECORDING OF IT. The accounts agree on substance and diverge on posture and agency, which reads very differently from verbatim agreement.",
+"sources": [
+{
+"date": "2026-09-07",
+"name": "Jesse Michels, video rjUdn6FklAU, published 7 September 2026, runtime 2:47:21, auto-generated captions; timestamped triage at research/leads/michels-rjUdn6FklAU-triage-2026-09-19.md. Opened 19 September 2026",
+"url": "https://www.youtube.com/watch?v=rjUdn6FklAU"
+}
+],
+"tier": "C",
+"type": "witness-chain"
+},
+{
+"claimTier": 2,
+"cls": "location",
+"dateEnd": "1977",
+"dateStart": "1975",
+"direction": "out",
+"edgeLabel": "Claimed security policeman, 44th Missile Security Squadron",
+"id": "l-ellsworth",
+"l0": false,
+"label": "Ellsworth AFB, South Dakota",
+"note": "The only pre-contact artefact placing him here is an undated Facebook post naming Ellsworth and the years 1975 to 1977, which says nothing about the event. NO SERVICE RECORD HAS BEEN PRODUCED.",
+"sources": [
+{
+"date": "2026-09-07",
+"name": "Jesse Michels, video rjUdn6FklAU, published 7 September 2026, runtime 2:47:21, auto-generated captions; timestamped triage at research/leads/michels-rjUdn6FklAU-triage-2026-09-19.md. Opened 19 September 2026",
+"url": "https://www.youtube.com/watch?v=rjUdn6FklAU"
+}
+],
+"tier": "C",
+"type": "geographic"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2026-09-07",
+"dateStart": "2026-06-26",
+"direction": "out",
+"edgeLabel": "Reunited on a recorded call on 26 June 2026 after forty-nine years",
+"id": "mario-woods",
+"l0": false,
+"label": "Mario Woods",
+"note": "THIS IS NOT TWO INDEPENDENT WITNESSES MEETING. One man's account had been public for thirty years and named the other; the other was found by the party publishing the result and was given the site, the date and the category within ninety seconds of the call beginning.",
+"sources": [
+{
+"date": "2026-09-07",
+"name": "Jesse Michels, video rjUdn6FklAU, published 7 September 2026, runtime 2:47:21, auto-generated captions; timestamped triage at research/leads/michels-rjUdn6FklAU-triage-2026-09-19.md. Opened 19 September 2026",
+"url": "https://www.youtube.com/watch?v=rjUdn6FklAU"
+}
+],
+"tier": "C",
+"type": "witness-chain"
+}
+],
+"date": "2026-06-26",
+"dateEnd": null,
+"dateStart": "2026-06-26",
+"deg": 3,
+"denials": [],
+"domains": [
+"nuclear-witnesses-2026-09-19"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "michael-johnson",
+"instId": null,
+"l0": false,
+"label": "Michael Johnson",
+"loc": "South Carolina",
+"locId": null,
+"members": null,
+"narrative": "Michael Johnson is on this board because CLAUDE.md section 2a admits him and because excluding him would destroy the most instructive provenance record in the file. He is presented as the second man at Launch Facility November-5 on 18 November 1977, missing for forty-nine years and found in June 2026. HOW HE WAS FOUND IS THE WHOLE POINT AND IT MUST TRAVEL WITH THE CLAIM. He was located not by the original witness, not by a records search and not by AARO, but by the party publishing the result: a viewer of the show sent the production a Facebook page belonging to a Michael Johnson in his seventies in South Carolina, and an unnamed recruiter tasked by the producer found him in about a week. The first contact call is dated on air to 26 June 2026. NO DATED PUBLIC STATEMENT BY MICHAEL JOHNSON ABOUT THIS EVENT EXISTS PRIOR TO THAT CALL. The only pre-contact artefact identified in a two hour forty-seven minute episode is an undated Facebook post placing him at Ellsworth in the right years and saying nothing whatever about the event. Two further things must be held together rather than traded off. The interviewer ran a deliberate blind-contact protocol and told Johnson nothing about November-5 or a UFO, and should be credited for it. And within ninety seconds of being patched in, the original witness supplied the site, the date, the category and the altitude frame, and Johnson answered 'No' when first asked what they encountered before assenting after the UFO was named for him. The episode's own later on-camera retelling of that moment says Johnson recognised it immediately with nothing supplied; the recording of the call does not show that. The two accounts agree on substance and diverge on posture and agency, Johnson's being passive throughout and Woods's active, which reads very differently from verbatim agreement and is the strongest thing in Johnson's favour.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Michael Johnson",
+"sources": [
+{
+"date": "2026-09-07",
+"name": "Jesse Michels, video rjUdn6FklAU, published 7 September 2026, runtime 2:47:21, auto-generated captions; timestamped triage at research/leads/michels-rjUdn6FklAU-triage-2026-09-19.md. Opened 19 September 2026",
+"url": "https://www.youtube.com/watch?v=rjUdn6FklAU"
+},
+{
+"date": "2026-09-12",
+"name": "The Political Saucer, 'The Night at November-5: Two Missile Guards, Nine Lost Hours, and the Nuclear Security Incident the Air Force Never Explained', 12 September 2026; header read, body paywalled. Opened 19 September 2026",
+"url": "https://politicalsaucer.substack.com/p/the-night-at-november-5-two-missile"
+},
+{
+"date": "2026-09-19",
+"name": "Derived by this board from the register in research/leads/verified-nuclear-witnesses-2026-09-19.md, which lists every nuclear-facility witness found in the 19 September 2026 pass together with the route by which each account reached the public",
+"url": ""
+}
+],
+"status": "alive",
+"sub": "Claimed USAF security policeman, 44th Missile Security Squadron, Ellsworth AFB; second witness to the 18 November 1977 Launch Facility November-5 claim, located by the publishing party in June 2026",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 834 of 1159, score 20). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.",
+"timeline": [
+{
+"date": "2026-06-26",
+"id": "tl-2026-06-26-johnson-located",
+"label": "The publishing party cold-calls the second Ellsworth witness",
+"precision": "day",
+"strand": "witness",
+"text": "Dated on air: on 26 June 2026 the producer telephoned a Michael Johnson in South Carolina, located from a viewer's Facebook tip by an unnamed recruiter, and withheld the frame, saying nothing about November-5 and nothing about a UFO. Mario Woods was then patched in and within two minutes supplied the site, the date and, after Johnson first answered 'No', the category. NO DATED PUBLIC STATEMENT BY JOHNSON ABOUT THE EVENT EXISTS BEFORE THIS CALL.",
+"tier": "C"
+}
+],
+"unexplainedResidual": null,
+"unverified": [
+"NO SERVICE RECORD OF ANY KIND HAS BEEN PRODUCED FOR MICHAEL JOHNSON. His Official Military Personnel File, his DD-214 and the Article 15 he describes would each carry a date and a unit, and the last of those, if dated within months of 18 November 1977, is the strongest available independent anchor for his presence. None has been opened.",
+"The 44th Missile Security Squadron duty roster for the night of 17 to 18 November 1977.",
+"The pre-contact Facebook post could not be dated or captured by this board.",
+"The tipster and the recruiter are both unnamed in the episode, so the discovery chain is in principle documentable and is not documented."
+]
+}

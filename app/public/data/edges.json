@@ -2560,6 +2560,22 @@
 "tier": 1
 },
 {
+"a": "bradford-runyon",
+"b": "l-minot",
+"dateStart": "1968-10-24",
+"label": "B-52H co-pilot based at Minot AFB",
+"t": "geographic",
+"tier": 1
+},
+{
+"a": "bradford-runyon",
+"b": "minot-1968",
+"dateStart": "1968-10-24",
+"label": "B-52H co-pilot, JAG-31, named in the contemporaneous debriefing record",
+"t": "witness-chain",
+"tier": 1
+},
+{
 "a": "brett-mansfield",
 "b": "dod-agencywide-audit",
 "dateStart": "2026-05-13",
@@ -2582,6 +2598,22 @@
 "label": "signed the transmittal to the Senate Armed Services Committee",
 "t": "institutional",
 "tier": 1
+},
+{
+"a": "bruce-fenstermacher",
+"b": "l-warren",
+"dateStart": "1974",
+"label": "Missile combat crew commander at F. E. Warren, 1974 to 1977",
+"t": "geographic",
+"tier": 2
+},
+{
+"a": "bruce-fenstermacher",
+"b": "npc-2010-ufos-nukes",
+"dateStart": "2010-09-27",
+"label": "Spoke on the record with a signed affidavit",
+"t": "witness-chain",
+"tier": 2
 },
 {
 "a": "bryce-zabel",
@@ -2902,6 +2934,14 @@
 "label": "Reported as stating that Warren 'was not there'",
 "t": "denial",
 "tier": 3
+},
+{
+"a": "charles-halt",
+"b": "npc-2010-ufos-nukes",
+"dateStart": "2010-09-27",
+"label": "Spoke on the record with a signed affidavit; the one panellist who wrote his own primary document in 1981",
+"t": "witness-chain",
+"tier": 2
 },
 {
 "a": "charles-halt",
@@ -5953,6 +5993,14 @@
 },
 {
 "a": "doc-341-smw-history-1967",
+"b": "malmstrom-oscar-flight-1967",
+"dateStart": "1967-03-24",
+"label": "The release contains zero occurrences of Oscar, O Flight, 24 Mar and 25 Mar",
+"t": "denial",
+"tier": 1
+},
+{
+"a": "doc-341-smw-history-1967",
 "b": "the-black-vault",
 "dateStart": null,
 "label": "Host of the released scan",
@@ -5965,6 +6013,14 @@
 "dateStart": null,
 "label": "An Air Force wing history, released by an Air Force FOIA office",
 "t": "institutional",
+"tier": 1
+},
+{
+"a": "doc-cincnorad-1975-11-11",
+"b": "sac-overflights-1975",
+"dateStart": "1975-11-11",
+"label": "The command's own summary of the sequence, naming five installations",
+"t": "investigative",
 "tier": 1
 },
 {
@@ -6045,6 +6101,94 @@
 "dateStart": "1986-06-02",
 "label": "the official record of the night",
 "t": "programmatic",
+"tier": 1
+},
+{
+"a": "doc-minot-1968-blue-book",
+"b": "minot-1968",
+"dateStart": "1968-10-28",
+"label": "The Air Force's own investigative file on the event",
+"t": "investigative",
+"tier": 1
+},
+{
+"a": "doc-minot-1968-blue-book",
+"b": "project-blue-book",
+"dateStart": "1968-10-28",
+"label": "A Project Blue Book case file, evaluated by the Foreign Technology Division",
+"t": "institutional",
+"tier": 1
+},
+{
+"a": "doc-nmcc-loring-1975",
+"b": "l-loring",
+"dateStart": "1975-10-29",
+"label": "The memorandum's subject is this installation",
+"t": "geographic",
+"tier": 1
+},
+{
+"a": "doc-nmcc-loring-1975",
+"b": "loring-1975",
+"dateStart": "1975-10-29",
+"label": "The command-level record of the penetration and the failed response",
+"t": "investigative",
+"tier": 1
+},
+{
+"a": "doc-nmcc-loring-1975",
+"b": "strategic-air-command",
+"dateStart": "1975-10-29",
+"label": "SAC is the reporting chain throughout the memorandum",
+"t": "institutional",
+"tier": 1
+},
+{
+"a": "doc-norad-24th-log-1975",
+"b": "l-malmstrom",
+"dateStart": "1975-11-07",
+"label": "The log is the 24th NORAD Region's at Malmstrom AFB",
+"t": "geographic",
+"tier": 1
+},
+{
+"a": "doc-norad-24th-log-1975",
+"b": "l-minot",
+"dateStart": "1975-11-10",
+"label": "Its 10 November entry reports a sighting at Minot Air Force Station, not Minot AFB",
+"t": "geographic",
+"tier": 1
+},
+{
+"a": "doc-norad-24th-log-1975",
+"b": "malmstrom-1975",
+"dateStart": "1975-11-07",
+"label": "The log IS the event's record; there is no separate report",
+"t": "investigative",
+"tier": 1
+},
+{
+"a": "doc-si-big-sur-1993",
+"b": "big-sur-1964",
+"dateStart": "1993",
+"label": "The project engineer's published rebuttal of the UFO reading of the event",
+"t": "denial",
+"tier": 1
+},
+{
+"a": "doc-wurtsmith-historian-1979",
+"b": "l-wurtsmith",
+"dateStart": "1979-01-17",
+"label": "Written at Wurtsmith AFB by the 379th Bombardment Wing historian",
+"t": "geographic",
+"tier": 1
+},
+{
+"a": "doc-wurtsmith-historian-1979",
+"b": "wurtsmith-1975",
+"dateStart": "1979-01-17",
+"label": "The wing historian's file recovering an event his own wing history omitted",
+"t": "investigative",
 "tier": 1
 },
 {
@@ -6720,6 +6864,22 @@
 "tier": 3
 },
 {
+"a": "dwynne-arneson",
+"b": "l-malmstrom",
+"dateStart": "1967",
+"label": "Communications officer, 28th Air Division, Malmstrom, 1967",
+"t": "geographic",
+"tier": 2
+},
+{
+"a": "dwynne-arneson",
+"b": "npc-2010-ufos-nukes",
+"dateStart": "2010-09-27",
+"label": "Spoke on the record with a signed affidavit",
+"t": "witness-chain",
+"tier": 2
+},
+{
 "a": "dylan-borland",
 "b": "hearing-2025-09-09",
 "dateStart": "2025-09-09",
@@ -6989,6 +7149,14 @@
 "dateStart": "2017",
 "label": "Memorandum saluted 'Mr. Secretary'; NYT reported it as addressed to Mattis",
 "t": "witness-chain",
+"tier": 2
+},
+{
+"a": "ellsworth-1977",
+"b": "l-ellsworth",
+"dateStart": "1977-11-18",
+"label": "The claim places Launch Facility November-5 in this installation's Minuteman field",
+"t": "geographic",
 "tier": 2
 },
 {
@@ -7270,6 +7438,22 @@
 "label": "no statutory entitlement; not a defense committee chair or ranking member",
 "t": "institutional",
 "tier": 1
+},
+{
+"a": "eric-carlson",
+"b": "l-malmstrom",
+"dateStart": "1967-03-16",
+"label": "Echo Flight crew commander at Malmstrom",
+"t": "geographic",
+"tier": 2
+},
+{
+"a": "eric-carlson",
+"b": "malmstrom-echo-flight-1967",
+"dateStart": "1967-03-16",
+"label": "The on-duty crew commander denies any UFO report reached the capsule",
+"t": "denial",
+"tier": 2
 },
 {
 "a": "eric-davis",
@@ -7600,6 +7784,14 @@
 "tier": 1
 },
 {
+"a": "florenz-mansmann",
+"b": "big-sur-1964",
+"dateStart": "1964-09-22",
+"label": "Major present at the Big Sur site; Jacobs's corroborating witness",
+"t": "witness-chain",
+"tier": 2
+},
+{
 "a": "foia-21-f-0938",
 "b": "susan-gough",
 "dateStart": "2021",
@@ -7758,6 +7950,22 @@
 "label": "Durant was panel secretary and wrote the proceedings record",
 "t": "institutional",
 "tier": 1
+},
+{
+"a": "frederick-meiwald",
+"b": "l-malmstrom",
+"dateStart": "1967-03-24",
+"label": "Oscar Flight crew commander at Malmstrom",
+"t": "geographic",
+"tier": 2
+},
+{
+"a": "frederick-meiwald",
+"b": "malmstrom-oscar-flight-1967",
+"dateStart": "1967-03-24",
+"label": "Salas's crew commander; the 1 October 1996 letter",
+"t": "witness-chain",
+"tier": 2
 },
 {
 "a": "friedwardt-winterberg",
@@ -10064,6 +10272,22 @@
 "tier": 1
 },
 {
+"a": "james-carlson",
+"b": "malmstrom-oscar-flight-1967",
+"dateStart": "2010",
+"label": "Disputes that any Oscar Flight incident occurred",
+"t": "denial",
+"tier": 2
+},
+{
+"a": "james-carlson",
+"b": "robert-salas",
+"dateStart": "2010",
+"label": "Sustained published dispute of the Malmstrom account",
+"t": "denial",
+"tier": 2
+},
+{
 "a": "james-clapper",
 "b": "depsecdef-sap-packet-2009",
 "dateStart": "2009",
@@ -10517,6 +10741,14 @@
 "dateStart": "2022",
 "label": "Co-host",
 "t": "institutional",
+"tier": 2
+},
+{
+"a": "jerry-nelson",
+"b": "npc-2010-ufos-nukes",
+"dateStart": "2010-09-27",
+"label": "Spoke on the record; not among the six named affiants on the opened page",
+"t": "witness-chain",
 "tier": 2
 },
 {
@@ -11409,6 +11641,14 @@
 },
 {
 "a": "kingston-george",
+"b": "doc-si-big-sur-1993",
+"dateStart": "1993",
+"label": "Author",
+"t": "research",
+"tier": 1
+},
+{
+"a": "kingston-george",
 "b": "robert-jacobs",
 "dateStart": "1993",
 "label": "Published point-by-point rebuttal by the project engineer, Skeptical Inquirer, Winter 1993",
@@ -11904,6 +12144,22 @@
 "tier": 1
 },
 {
+"a": "l-ellsworth",
+"b": "strategic-air-command",
+"dateStart": "1977-11-18",
+"label": "SAC installation; 44th Strategic Missile Wing Minuteman field",
+"t": "institutional",
+"tier": 2
+},
+{
+"a": "l-grand-forks",
+"b": "strategic-air-command",
+"dateStart": "1975-11-04",
+"label": "SAC installation; 321st Strategic Missile Wing",
+"t": "institutional",
+"tier": 2
+},
+{
 "a": "l-groom-lake",
 "b": "l-las-vegas",
 "dateStart": "1972",
@@ -12008,12 +12264,28 @@
 "tier": 1
 },
 {
+"a": "l-loring",
+"b": "strategic-air-command",
+"dateStart": "1975-10-27",
+"label": "SAC installation; 42nd Bombardment Wing and its nuclear weapons storage area",
+"t": "institutional",
+"tier": 1
+},
+{
 "a": "l-los-alamos",
 "b": "l-white-sands",
 "dateStart": "1948",
 "label": "Los Alamos and White Sands bracket the 1948-1951 green fireball reporting corridor",
 "t": "geographic",
 "tier": 2
+},
+{
+"a": "l-malmstrom",
+"b": "strategic-air-command",
+"dateStart": "1967-03-16",
+"label": "SAC installation; 341st Strategic Missile Wing",
+"t": "institutional",
+"tier": 1
 },
 {
 "a": "l-mclean",
@@ -12046,6 +12318,14 @@
 "label": "site of the DoD unsupported-adjustment study",
 "t": "geographic",
 "tier": 2
+},
+{
+"a": "l-minot",
+"b": "strategic-air-command",
+"dateStart": "1966",
+"label": "SAC installation; 91st Strategic Missile Wing and 5th Bomb Wing",
+"t": "institutional",
+"tier": 1
 },
 {
 "a": "l-norton-afb",
@@ -12156,6 +12436,22 @@
 "b": "roosevelt-2014-2015",
 "dateStart": "2014",
 "label": "Site of the near-midair that anchors the safety case",
+"t": "institutional",
+"tier": 1
+},
+{
+"a": "l-warren",
+"b": "strategic-air-command",
+"dateStart": "1965-08-01",
+"label": "SAC installation; Minuteman field, and the site of the post-Echo-Flight EMP test programme",
+"t": "institutional",
+"tier": 1
+},
+{
+"a": "l-wurtsmith",
+"b": "strategic-air-command",
+"dateStart": "1975-10-30",
+"label": "SAC installation; 379th Bombardment Wing",
 "t": "institutional",
 "tier": 1
 },
@@ -12512,6 +12808,22 @@
 "tier": 1
 },
 {
+"a": "loring-1975",
+"b": "l-loring",
+"dateStart": "1975-10-27",
+"label": "The penetrations were of this installation's weapons storage area",
+"t": "geographic",
+"tier": 1
+},
+{
+"a": "loring-1975",
+"b": "sac-overflights-1975",
+"dateStart": "1975-10-27",
+"label": "First episode of the October to November 1975 sequence",
+"t": "temporal",
+"tier": 1
+},
+{
 "a": "los-alamos-monitor-1982",
 "b": "bob-lazar",
 "dateStart": "1982-06-27",
@@ -12776,12 +13088,44 @@
 "tier": 3
 },
 {
+"a": "malmstrom-1975",
+"b": "l-malmstrom",
+"dateStart": "1975-11-07",
+"label": "Thirteen days of reports from this wing's Minuteman launch facilities",
+"t": "geographic",
+"tier": 1
+},
+{
+"a": "malmstrom-1975",
+"b": "sac-overflights-1975",
+"dateStart": "1975-11-07",
+"label": "Third and longest episode, 7 to 19 November 1975",
+"t": "temporal",
+"tier": 1
+},
+{
+"a": "malmstrom-echo-flight-1967",
+"b": "l-malmstrom",
+"dateStart": "1967-03-16",
+"label": "The documented shutdown was of this wing's Echo Flight",
+"t": "geographic",
+"tier": 1
+},
+{
 "a": "malmstrom-echo-flight-1967",
 "b": "robert-hastings",
 "dateStart": "1967-03-17",
 "label": "Hastings holds and publishes the 17 March 1967 teletype",
 "t": "custody",
 "tier": 1
+},
+{
+"a": "malmstrom-oscar-flight-1967",
+"b": "l-malmstrom",
+"dateStart": "1967-03-24",
+"label": "The claimed Oscar Flight capsule is in this wing's field",
+"t": "geographic",
+"tier": 2
 },
 {
 "a": "manhattan-project-2",
@@ -12958,6 +13302,22 @@
 "label": "delivers the monthly Sol Briefing; authors Sol policy briefings",
 "t": "institutional",
 "tier": 1
+},
+{
+"a": "mario-woods",
+"b": "ellsworth-1977",
+"dateStart": "1977-11-18",
+"label": "The originating claimant, public since 1996",
+"t": "witness-chain",
+"tier": 2
+},
+{
+"a": "mario-woods",
+"b": "l-ellsworth",
+"dateStart": "1975",
+"label": "Claimed security policeman, 44th Missile Security Squadron",
+"t": "geographic",
+"tier": 2
 },
 {
 "a": "mark-mccandlish",
@@ -13336,6 +13696,30 @@
 "tier": 1
 },
 {
+"a": "michael-johnson",
+"b": "ellsworth-1977",
+"dateStart": "1977-11-18",
+"label": "The second witness, located by the publishing party in June 2026",
+"t": "witness-chain",
+"tier": 2
+},
+{
+"a": "michael-johnson",
+"b": "l-ellsworth",
+"dateStart": "1975",
+"label": "Claimed security policeman, 44th Missile Security Squadron",
+"t": "geographic",
+"tier": 2
+},
+{
+"a": "michael-johnson",
+"b": "mario-woods",
+"dateStart": "2026-06-26",
+"label": "Reunited on a recorded call on 26 June 2026 after forty-nine years",
+"t": "witness-chain",
+"tier": 2
+},
+{
 "a": "michael-powers-comptroller",
 "b": "classified-annex",
 "dateStart": null,
@@ -13553,10 +13937,26 @@
 },
 {
 "a": "minot-1966",
+"b": "l-minot",
+"dateStart": "1966",
+"label": "The 1966 incursions were over this installation's Minuteman launch facilities",
+"t": "geographic",
+"tier": 1
+},
+{
+"a": "minot-1966",
 "b": "malmstrom-echo-flight-1967",
 "dateStart": "1966-08-25",
 "label": "Minot 1966 precedes the Malmstrom shutdowns by seven months",
 "t": "temporal",
+"tier": 1
+},
+{
+"a": "minot-1968",
+"b": "l-minot",
+"dateStart": "1968-10-24",
+"label": "The B-52 and missile-field events were at and around this installation",
+"t": "geographic",
 "tier": 1
 },
 {
@@ -14856,6 +15256,30 @@
 "tier": 1
 },
 {
+"a": "norad-northcom",
+"b": "doc-cincnorad-1975-11-11",
+"dateStart": "1975-11-11",
+"label": "Originated by the Commander-in-Chief, NORAD",
+"t": "research",
+"tier": 1
+},
+{
+"a": "norad-northcom",
+"b": "doc-norad-24th-log-1975",
+"dateStart": "1975-11-07",
+"label": "Produced by the 24th NORAD Region's own senior directors",
+"t": "research",
+"tier": 1
+},
+{
+"a": "norad-northcom",
+"b": "sac-overflights-1975",
+"dateStart": "1975-10-28",
+"label": "NORAD was the detection and identification authority across the sequence",
+"t": "institutional",
+"tier": 1
+},
+{
 "a": "norio-hayakawa",
 "b": "dulce-base",
 "dateStart": "1988",
@@ -15566,6 +15990,22 @@
 "label": "Released and framed the report as 'the widest possible aperture'",
 "t": "denial",
 "tier": 1
+},
+{
+"a": "patrick-mcdonough",
+"b": "l-warren",
+"dateStart": "1962",
+"label": "Geodetic surveyor based at F. E. Warren, 1962 to 1966",
+"t": "geographic",
+"tier": 2
+},
+{
+"a": "patrick-mcdonough",
+"b": "npc-2010-ufos-nukes",
+"dateStart": "2010-09-27",
+"label": "Spoke on the record with a signed affidavit",
+"t": "witness-chain",
+"tier": 2
 },
 {
 "a": "patty-murray",
@@ -17009,6 +17449,38 @@
 },
 {
 "a": "robert-hastings",
+"b": "doc-norad-24th-log-1975",
+"dateStart": "1975-11-19",
+"label": "Republishes the NORAD log; the documentary half of his output checks out",
+"t": "research",
+"tier": 1
+},
+{
+"a": "robert-hastings",
+"b": "frederick-meiwald",
+"dateStart": "1996-08",
+"label": "Recorded him in August 1996 and again on 6 May 2011, and publishes his letter",
+"t": "research",
+"tier": 2
+},
+{
+"a": "robert-hastings",
+"b": "l-warren",
+"dateStart": "1965-08-01",
+"label": "Publishes the F. E. Warren 1 August 1965 material",
+"t": "research",
+"tier": 2
+},
+{
+"a": "robert-hastings",
+"b": "malmstrom-oscar-flight-1967",
+"dateStart": "2010",
+"label": "Separated Oscar Flight from Echo Flight and dated it",
+"t": "research",
+"tier": 2
+},
+{
+"a": "robert-hastings",
 "b": "minot-1966",
 "dateStart": "1966-08-25",
 "label": "Publishes the 25 August 1966 Minot documents in facsimile",
@@ -17021,6 +17493,30 @@
 "dateStart": "2010-09-27",
 "label": "Convened and hosted the National Press Club event",
 "t": "witness-chain",
+"tier": 2
+},
+{
+"a": "robert-hastings",
+"b": "robert-jamison",
+"dateStart": "2010",
+"label": "Interviewed him; his recollection supplies the 24 March 1967 date",
+"t": "research",
+"tier": 2
+},
+{
+"a": "robert-hastings",
+"b": "robert-kaminski",
+"dateStart": "1997",
+"label": "Publishes his 1997 letter to Jim Klotz",
+"t": "research",
+"tier": 2
+},
+{
+"a": "robert-hastings",
+"b": "walter-figel",
+"dateStart": "2008",
+"label": "Located and recorded him; the account exists only as Hastings's tapes",
+"t": "research",
 "tier": 2
 },
 {
@@ -17046,6 +17542,38 @@
 "label": "1369th Photographic Squadron, Vandenberg AFB, May 1963 to May 1966",
 "t": "geographic",
 "tier": 1
+},
+{
+"a": "robert-jamison",
+"b": "l-malmstrom",
+"dateStart": "1965-01",
+"label": "ICBM combat targeting team commander at Malmstrom, 1965 to 1967",
+"t": "geographic",
+"tier": 2
+},
+{
+"a": "robert-jamison",
+"b": "malmstrom-oscar-flight-1967",
+"dateStart": "1967-03-24",
+"label": "Retargeting team commander; the source of the 24 March 1967 date",
+"t": "witness-chain",
+"tier": 2
+},
+{
+"a": "robert-jamison",
+"b": "npc-2010-ufos-nukes",
+"dateStart": "2010-09-27",
+"label": "Spoke on the record with a signed affidavit",
+"t": "witness-chain",
+"tier": 2
+},
+{
+"a": "robert-kaminski",
+"b": "malmstrom-echo-flight-1967",
+"dateStart": "1967-03",
+"label": "Boeing engineer on the investigation task group",
+"t": "witness-chain",
+"tier": 2
 },
 {
 "a": "robert-low",
@@ -17084,6 +17612,14 @@
 "b": "malmstrom-echo-flight-1967",
 "dateStart": "1967-03",
 "label": "Principal named witness to the March 1967 shutdown",
+"t": "witness-chain",
+"tier": 2
+},
+{
+"a": "robert-salas",
+"b": "malmstrom-oscar-flight-1967",
+"dateStart": "1967-03-24",
+"label": "The originating claimant of the Oscar Flight account",
 "t": "witness-chain",
 "tier": 2
 },
@@ -17449,11 +17985,27 @@
 },
 {
 "a": "sac-overflights-1975",
+"b": "l-grand-forks",
+"dateStart": "1975-11-04",
+"label": "Grand Forks is in the sequence on separate message traffic, not on the CINCNORAD summary",
+"t": "geographic",
+"tier": 2
+},
+{
+"a": "sac-overflights-1975",
 "b": "l-malmstrom",
 "dateStart": "1975",
 "label": "Malmstrom AFB and its Minuteman fields were among the installations overflown",
 "t": "institutional",
 "tier": 1
+},
+{
+"a": "sac-overflights-1975",
+"b": "l-minot",
+"dateStart": "1975-11-10",
+"label": "Minot is named in the sequence, but two NORAD documents name two different Minot installations",
+"t": "geographic",
+"tier": 2
 },
 {
 "a": "sac-overflights-1975",
@@ -18560,6 +19112,14 @@
 "tier": 1
 },
 {
+"a": "strategic-air-command",
+"b": "usaf",
+"dateStart": "1946-03-21",
+"label": "Major command of the United States Air Force, 1946 to 1992",
+"t": "institutional",
+"tier": 1
+},
+{
 "a": "stringfield-status-reports",
 "b": "aztec-1948",
 "dateStart": "1978",
@@ -19229,6 +19789,14 @@
 "dateStart": "2026",
 "label": "Identified the missing metadata as the disqualifying defect",
 "t": "investigative",
+"tier": 2
+},
+{
+"a": "tim-hebert",
+"b": "malmstrom-echo-flight-1967",
+"dateStart": "2011-08",
+"label": "Published argument from the released paper that no UFO element is supported",
+"t": "denial",
 "tier": 2
 },
 {
@@ -20281,6 +20849,14 @@
 },
 {
 "a": "usaf",
+"b": "malmstrom-echo-flight-1967",
+"dateStart": "1967-03-16",
+"label": "The Air Force's own history states the UFO rumours were disproven",
+"t": "denial",
+"tier": 1
+},
+{
+"a": "usaf",
 "b": "nara-uap-collection",
 "dateStart": "1976",
 "label": "Project BLUE BOOK records are held at the National Archives",
@@ -20864,6 +21440,22 @@
 "tier": 1
 },
 {
+"a": "walter-figel",
+"b": "l-malmstrom",
+"dateStart": "1967-03-16",
+"label": "Echo Flight deputy crew commander at Malmstrom",
+"t": "geographic",
+"tier": 2
+},
+{
+"a": "walter-figel",
+"b": "malmstrom-echo-flight-1967",
+"dateStart": "1967-03-16",
+"label": "Deputy crew commander on duty; the contested Echo Flight radio report",
+"t": "witness-chain",
+"tier": 2
+},
+{
 "a": "walter-haut",
 "b": "don-schmitt",
 "dateStart": "2002-12",
@@ -20902,6 +21494,14 @@
 "label": "By the fourth tranche the programme stopped stating what it released",
 "t": "behavioral",
 "tier": 3
+},
+{
+"a": "warren-1965",
+"b": "l-warren",
+"dateStart": "1965-08-01",
+"label": "The 1 August 1965 reports were over this installation's Minuteman complex",
+"t": "geographic",
+"tier": 1
 },
 {
 "a": "washington-flap-1952",
@@ -21182,6 +21782,22 @@
 "label": "The meeting is reported to have taken place at an EG&G facility in Las Vegas",
 "t": "custody",
 "tier": 3
+},
+{
+"a": "wurtsmith-1975",
+"b": "l-wurtsmith",
+"dateStart": "1975-10-30",
+"label": "The incursion was over this installation's weapons storage area",
+"t": "geographic",
+"tier": 1
+},
+{
+"a": "wurtsmith-1975",
+"b": "sac-overflights-1975",
+"dateStart": "1975-10-30",
+"label": "Second episode of the sequence, three days after Loring",
+"t": "temporal",
+"tier": 1
 },
 {
 "a": "yamato-1",

@@ -283,7 +283,7 @@
 "direction": "in",
 "edgeLabel": "A documented precedent for institutional falsification about UFOs by the US Air Force",
 "id": "haines-cia-history",
-"l0": true,
+"l0": false,
 "label": "A Die-hard Issue: CIA's Role in the Study of UFOs, 1947-1990",
 "note": "CIA's own history establishes that the Air Force knowingly issued false UFO explanations for at least a decade. That precedent is why the YANKEE BLUE allegation cannot be dismissed on plausibility grounds alone.",
 "sources": [
@@ -736,6 +736,12 @@
 "tier": "C"
 },
 {
+"cls": "document",
+"id": "haines-cia-history",
+"label": "A Die-hard Issue: CIA's Role in the Study of UFOs, 1947-1990",
+"tier": "A"
+},
+{
 "cls": "person",
 "id": "john-greenewald",
 "label": "John Greenewald Jr.",
@@ -841,7 +847,7 @@
 ],
 "sub": "Alleged USAF/AFOSI program",
 "tier": "B",
-"tierRationale": "Re-graded A on a global pass (rank 38 of 1125, score 88). 13 connections, 1 of them custody/funding/programmatic, 4 official denials recorded against it. Axes C1/A3/D3.",
+"tierRationale": "Re-graded A on a global pass (rank 38 of 1159, score 88). 13 connections, 1 of them custody/funding/programmatic, 4 official denials recorded against it. Axes C1/A3/D3.",
 "timeline": [
 {
 "date": "2025-06-06",

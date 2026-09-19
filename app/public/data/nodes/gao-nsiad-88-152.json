@@ -2,7 +2,7 @@
 "A": 1,
 "C": 1,
 "D": 1,
-"band": "oversight",
+"band": null,
 "claims": [
 {
 "source": "GAO/NSIAD-88-152, B-230522, 24 May 1988, transmittal letter, https://www.gao.gov/assets/nsiad-88-152.pdf",
@@ -212,48 +212,11 @@
 },
 "hl": null,
 "id": "gao-nsiad-88-152",
-"l0": true,
+"l0": false,
 "label": "GAO/NSIAD-88-152 - Special Access Programs: DOD Criteria and Procedures for Creating Them Need Improvement",
 "locLabel": null,
-"members": [
-{
-"cls": "domain",
-"id": "d-oversight",
-"label": "Congressional Oversight",
-"tier": "C"
-},
-{
-"cls": "domain",
-"id": "d-sap",
-"label": "Special Access Programs",
-"tier": "B"
-},
-{
-"cls": "event",
-"id": "dod-sap-reform-1994",
-"label": "DoD special access programme governance change, 5 January 1994",
-"tier": "B"
-},
-{
-"cls": "institution",
-"id": "gao",
-"label": "Government Accountability Office",
-"tier": "C"
-},
-{
-"cls": "document",
-"id": "gao-130581",
-"label": "GAO accession 130581 - Controls Over Classified Documents for a Special Access Program at Lockheed Corporation",
-"tier": "B"
-},
-{
-"cls": "institution",
-"id": "sapoc",
-"label": "Special Access Program Oversight Committee (SAPOC)",
-"tier": "A"
-}
-],
-"short": "GAO/NSIAD-88-152",
+"members": null,
+"short": "GAO/NSIAD-88-152 - Special Access Programs: DOD Criteria and Procedures for Creating Them Need Improvement",
 "sources": [
 {
 "date": "1988-05-24",
@@ -263,6 +226,6 @@
 ],
 "sub": "Unclassified summary to congressional committees, B-230522, 24 May 1988; summary of a classified report of 1 April 1988",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 425 of 1125, score 33). 6 connections, 1 of them custody/funding/programmatic. Axes C1/A1/D1.",
+"tierRationale": "Re-graded B on a global pass (rank 434 of 1159, score 33). 6 connections, 1 of them custody/funding/programmatic. Axes C1/A1/D1.",
 "timeline": []
 }

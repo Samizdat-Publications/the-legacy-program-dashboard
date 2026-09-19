@@ -1,0 +1,127 @@
+{
+"A": 1,
+"C": 0,
+"D": 2,
+"affiliations": [],
+"age": null,
+"band": null,
+"chronology": [],
+"claims": [
+{
+"source": "Robert Hastings, 'The UFOs-Nukes Connection Press Conference', https://ufohastings.com/articles/the-ufos-nukes-connection-press-conference , opened 2026-09-19",
+"text": "Dwynne Arneson, Lt Col USAF, served with the 28th Air Division at Malmstrom AFB, Montana in 1967, executed an affidavit, and spoke at the UFO-Nukes Connection press conference at the National Press Club on 27 September 2010.",
+"tier": 2
+},
+{
+"source": "Reported via the Hastings material, https://www.metabunk.org/threads/ufos-at-nuclear-weapons-sites-salas-malmstrom-eagle-flight-skeptical-resources.3284/ , opened 2026-09-19",
+"text": "A remark attributed to Boeing engineer Robert Kaminski about the Echo Flight missiles, that they were perfect and clean, is reported as having been made to Arneson. This is a relayed recollection of a remark and is carried at Tier 3 on that basis.",
+"tier": 3
+},
+{
+"source": "Derived by this board from the register in research/leads/verified-nuclear-witnesses-2026-09-19.md, which lists every nuclear-facility witness found in the 19 September 2026 pass together with the route by which each account reached the public",
+"text": "SECTION 2a PROVENANCE. He enters the public record at the 2010 National Press Club event convened by Robert Hastings. No dated public statement by him before that was identified by the pass of 19 September 2026.",
+"tier": 3
+}
+],
+"cls": "person",
+"cluster": "witness",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 2,
+"cls": "location",
+"dateEnd": "1967",
+"dateStart": "1967",
+"direction": "out",
+"edgeLabel": "Communications officer, 28th Air Division, Malmstrom, 1967",
+"id": "l-malmstrom",
+"l0": false,
+"label": "Malmstrom AFB and Minuteman Missile Fields, Montana",
+"note": "Base and dates are his own, from his affidavit as published by Hastings; no service record has been opened.",
+"sources": [
+{
+"date": "2010-09-27",
+"name": "Robert Hastings, 'The UFOs-Nukes Connection Press Conference', his own account of the 27 September 2010 National Press Club event, with the roster, units and affidavit list. Opened 19 September 2026",
+"url": "https://ufohastings.com/articles/the-ufos-nukes-connection-press-conference"
+}
+],
+"tier": "B",
+"type": "geographic"
+},
+{
+"claimTier": 2,
+"cls": "event",
+"dateEnd": "2010-09-27",
+"dateStart": "2010-09-27",
+"direction": "out",
+"edgeLabel": "Spoke on the record with a signed affidavit",
+"id": "npc-2010-ufos-nukes",
+"l0": true,
+"label": "UFO-Nukes Connection press conference, National Press Club, 27 September 2010",
+"note": "No dated public statement by him before this event has been identified.",
+"sources": [
+{
+"date": "2010-09-27",
+"name": "Robert Hastings, 'The UFOs-Nukes Connection Press Conference', his own account of the 27 September 2010 National Press Club event, with the roster, units and affidavit list. Opened 19 September 2026",
+"url": "https://ufohastings.com/articles/the-ufos-nukes-connection-press-conference"
+}
+],
+"tier": "B",
+"type": "witness-chain"
+}
+],
+"date": "2010-09-27",
+"dateEnd": null,
+"dateStart": "2010-09-27",
+"deg": 2,
+"denials": [],
+"domains": [
+"nuclear-witnesses-2026-09-19"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "2",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "dwynne-arneson",
+"instId": null,
+"l0": false,
+"label": "Lt Col Dwynne Arneson",
+"loc": "Great Falls, Montana",
+"locId": "l-malmstrom",
+"members": null,
+"narrative": "Dwynne Arneson was a communications officer with the 28th Air Division at Malmstrom AFB in 1967 and one of the seven veterans at the 27 September 2010 National Press Club event, where he executed an affidavit. His secondary importance to this cluster is as the relay for a remark attributed to the Boeing engineer Robert Kaminski about the Echo Flight missiles, which is a second-hand statement carried here as a second-hand statement and nothing more. His own account, like those of the other affiants, reaches the public first at that press conference.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Lt Col Dwynne Arneson",
+"sources": [
+{
+"date": "2010-09-27",
+"name": "Robert Hastings, 'The UFOs-Nukes Connection Press Conference', his own account of the 27 September 2010 National Press Club event, with the roster, units and affidavit list. Opened 19 September 2026",
+"url": "https://ufohastings.com/articles/the-ufos-nukes-connection-press-conference"
+},
+{
+"date": "2026-09-19",
+"name": "Metabunk, 'UFOs at Nuclear Weapons Sites (Salas, Malmstrom, Eagle Flight) - Skeptical Resources', carrying James Carlson's own titles and positions and the Nalty 1969 quotation. Opened 19 September 2026",
+"url": "https://www.metabunk.org/threads/ufos-at-nuclear-weapons-sites-salas-malmstrom-eagle-flight-skeptical-resources.3284/"
+},
+{
+"date": "2026-09-19",
+"name": "Derived by this board from the register in research/leads/verified-nuclear-witnesses-2026-09-19.md, which lists every nuclear-facility witness found in the 19 September 2026 pass together with the route by which each account reached the public",
+"url": ""
+}
+],
+"status": "unknown",
+"sub": "USAF Lt Col, communications officer, 28th Air Division, Malmstrom AFB, 1967",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 1031 of 1159, score 13). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.",
+"timeline": [],
+"unexplainedResidual": null,
+"unverified": [
+"No service record has been opened for Arneson.",
+"The Kaminski remark he relays is a recollection of speech, with no date and no document behind it."
+]
+}

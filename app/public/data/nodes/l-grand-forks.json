@@ -1,0 +1,108 @@
+{
+"A": 2,
+"C": 1,
+"D": 1,
+"band": null,
+"claims": [
+{
+"source": "NICAP, 'Wurtsmith and Others', http://www.nicap.org/articles/CI-Wurtsmith.htm , opened 2026-09-19",
+"text": "NICAP cites a Grand Forks AFB command post event dispatch of 4 November 1975 at 0301 recording that shots were possibly fired from on base toward hard alert aircraft on the SAC alert ramp, and a detailed incident message of 5 November 1975 recording five shots heard in groups of three and two about two seconds apart, naming Captain Klawon of the 321st Security Police Squadron. NEITHER DOCUMENT WAS OPENED IN ITS OWN TEXT BY THIS BOARD and the claim is carried at Tier 3 on that basis.",
+"tier": 3
+},
+{
+"source": "CINCNORAD message of 11 November 1975 as excerpted at http://www.nicap.org/intsac.htm , opened 2026-09-19",
+"text": "Grand Forks is not named in the CINCNORAD four-part message of 11 November 1975, which lists Loring, Wurtsmith, Malmstrom, Minot and Canadian Forces Station Falconbridge. Its inclusion in the 1975 sequence rests on the separate message traffic above and on the secondary literature, not on the summary message.",
+"tier": 3
+}
+],
+"cls": "location",
+"cluster": "legacy",
+"connections": [
+{
+"claimTier": 2,
+"cls": "event",
+"dateEnd": "1975-11-05",
+"dateStart": "1975-11-04",
+"direction": "in",
+"edgeLabel": "Grand Forks is in the sequence on separate message traffic, not on the CINCNORAD summary",
+"id": "sac-overflights-1975",
+"l0": true,
+"label": "1975 SAC Nuclear-Base Overflights (Loring, Wurtsmith, Malmstrom, Minot)",
+"note": "CINCNORAD's four-part message names Loring, Wurtsmith, Malmstrom, Minot and Falconbridge and does NOT name Grand Forks. Its inclusion rests on the 4 and 5 November command post messages, which this board has not opened.",
+"sources": [
+{
+"date": "1979-01-18",
+"name": "NICAP, 'Wurtsmith and Others', citing SSgt Paul J. Cahill's Research Record of Events of 17 January 1979, Capt. Myron Taylor's Memo for the Record of 18 January 1979, and NORAD, NMCC and Blue Book entries for Minot, Grand Forks, Cannon, Eglin and Fort Ritchie. Opened 19 September 2026",
+"url": "http://www.nicap.org/articles/CI-Wurtsmith.htm"
+},
+{
+"date": "1975-11-11",
+"name": "NICAP, 'UFOs Intrude Into SAC Base Weapons Areas, Northern U.S., October-November 1975', quoting the CINCNORAD four-part message of 11 November 1975 and the Loring teletype to the NMCC. Opened 19 September 2026",
+"url": "http://www.nicap.org/intsac.htm"
+}
+],
+"tier": "A",
+"type": "geographic"
+},
+{
+"claimTier": 2,
+"cls": "institution",
+"dateEnd": "1975-11-05",
+"dateStart": "1975-11-04",
+"direction": "out",
+"edgeLabel": "SAC installation; 321st Strategic Missile Wing",
+"id": "strategic-air-command",
+"l0": true,
+"label": "Strategic Air Command (SAC)",
+"note": "The alert-ramp incident is cited from message traffic this board has not opened in its own text, so the edge is Tier 2.",
+"sources": [
+{
+"date": "1979-01-18",
+"name": "NICAP, 'Wurtsmith and Others', citing SSgt Paul J. Cahill's Research Record of Events of 17 January 1979, Capt. Myron Taylor's Memo for the Record of 18 January 1979, and NORAD, NMCC and Blue Book entries for Minot, Grand Forks, Cannon, Eglin and Fort Ritchie. Opened 19 September 2026",
+"url": "http://www.nicap.org/articles/CI-Wurtsmith.htm"
+}
+],
+"tier": "B",
+"type": "institutional"
+}
+],
+"coords": null,
+"dateEnd": "1975-11-05",
+"dateStart": "1975-11-04",
+"deg": 2,
+"denials": [],
+"desc": "THE WEAKEST-ESTABLISHED HUB AND THE MOST SERIOUS SINGLE ALLEGATION IN THE 1975 SEQUENCE. Grand Forks Air Force Base, North Dakota, home of the 321st Strategic Missile Wing, appears in the October to November 1975 material through two pieces of message traffic that this board has NOT opened in their own text. A command post event dispatch dated 4 November 1975 at 0301 is cited as recording that 'There were possibly some shots fired from on base toward hard alert aircraft on the Sac alert ramp', and a detailed incident message of 5 November 1975 is cited as recording that a man 'heard five shots in groups of three and two with a space of approximately two seconds between the groups', naming Captain Klawon of the 321st Security Police Squadron. This is the only entry anywhere in the 1975 sequence in which weapons discharge is alleged, and it is the entry this pass established least well. The hub exists so that the allegation has somewhere to sit and so that the gap is visible rather than absent, and the node says plainly that the documents behind it have not been read.",
+"domains": [
+"nuclear-witnesses-2026-09-19"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "1",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "l-grand-forks",
+"l0": false,
+"label": "Grand Forks AFB, North Dakota",
+"locLabel": null,
+"members": null,
+"short": "Grand Forks AFB, North Dakota",
+"sources": [
+{
+"date": "1979-01-18",
+"name": "NICAP, 'Wurtsmith and Others', citing SSgt Paul J. Cahill's Research Record of Events of 17 January 1979, Capt. Myron Taylor's Memo for the Record of 18 January 1979, and NORAD, NMCC and Blue Book entries for Minot, Grand Forks, Cannon, Eglin and Fort Ritchie. Opened 19 September 2026",
+"url": "http://www.nicap.org/articles/CI-Wurtsmith.htm"
+},
+{
+"date": "1975-11-11",
+"name": "NICAP, 'UFOs Intrude Into SAC Base Weapons Areas, Northern U.S., October-November 1975', quoting the CINCNORAD four-part message of 11 November 1975 and the Loring teletype to the NMCC. Opened 19 September 2026",
+"url": "http://www.nicap.org/intsac.htm"
+}
+],
+"sub": "SAC installation; 321st Strategic Missile Wing; the 4 to 5 November 1975 alert-ramp incident in which shots were alleged to have been fired",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 977 of 1159, score 16). 2 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D1.",
+"timeline": []
+}

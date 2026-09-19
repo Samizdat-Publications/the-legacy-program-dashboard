@@ -2,7 +2,7 @@
 "A": 1,
 "C": 1,
 "D": 2,
-"band": "custody",
+"band": null,
 "claims": [
 {
 "source": "FBI Records: The Vault, 'Majestic 12'",
@@ -273,41 +273,10 @@
 },
 "hl": null,
 "id": "mj-12-documents",
-"l0": true,
+"l0": false,
 "label": "MJ-12 / Operation Majestic-12 Documents",
 "locLabel": null,
-"members": [
-{
-"cls": "person",
-"id": "detlev-bronk",
-"label": "Detlev W. Bronk",
-"tier": "B"
-},
-{
-"cls": "person",
-"id": "jaime-shandera",
-"label": "Jaime H. Shandera",
-"tier": "C"
-},
-{
-"cls": "program",
-"id": "project-aquarius",
-"label": "Project AQUARIUS (alleged)",
-"tier": "C"
-},
-{
-"cls": "person",
-"id": "sidney-souers",
-"label": "Rear Adm. Sidney W. Souers",
-"tier": "B"
-},
-{
-"cls": "person",
-"id": "william-l-moore",
-"label": "William L. Moore",
-"tier": "B"
-}
-],
+"members": null,
 "short": "MJ-12 / Majestic-12 Documents",
 "sources": [
 {
@@ -333,7 +302,7 @@
 ],
 "sub": "Purported 1952 Eisenhower briefing document and associated papers, surfaced 1984-1987",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 277 of 1125, score 40). 6 connections, 3 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A1/D2.",
+"tierRationale": "Re-graded B on a global pass (rank 284 of 1159, score 40). 6 connections, 3 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A1/D2.",
 "timeline": [
 {
 "date": "1984-12-11",

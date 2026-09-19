@@ -1,0 +1,155 @@
+{
+"A": 1,
+"C": 1,
+"D": 1,
+"band": null,
+"claims": [
+{
+"source": "Jesse Michels, video rjUdn6FklAU, 7 September 2026, https://www.youtube.com/watch?v=rjUdn6FklAU , opened 2026-09-19; triaged at research/leads/michels-rjUdn6FklAU-triage-2026-09-19.md",
+"text": "The claim attached to this installation is that on 18 November 1977 at about 0100, security policemen Mario Woods and Michael Johnson of the 44th Missile Security Squadron responded to an alarm at Launch Facility November-5 in the Ellsworth Minuteman field and encountered a large object and humanoid figures. Woods has told the account publicly since 1996; Johnson was located in June 2026.",
+"tier": 2
+},
+{
+"source": "Derived by this board from the register in research/leads/verified-nuclear-witnesses-2026-09-19.md, which lists every nuclear-facility witness found in the 19 September 2026 pass together with the route by which each account reached the public",
+"text": "NO AIR FORCE RECORD OF THE 18 NOVEMBER 1977 EVENT HAS EVER BEEN PRODUCED BY ANY PARTY, AND NO SERVICE RECORD FOR EITHER CLAIMANT HAS BEEN OPENED BY THIS BOARD. The node is admitted on notability under CLAUDE.md section 2a; its anchor is the dated artefact of the claim, not a record of the thing claimed.",
+"tier": 3
+},
+{
+"source": "The Political Saucer, 12 September 2026, https://politicalsaucer.substack.com/p/the-night-at-november-5-two-missile , opened 2026-09-19",
+"text": "A second, independent write-up naming both men and the 44th Missile Security Squadron appeared on 12 September 2026, five days after the Michels episode. Its body is paywalled and only its header was read by this board.",
+"tier": 2
+}
+],
+"cls": "location",
+"cluster": "legacy",
+"connections": [
+{
+"claimTier": 2,
+"cls": "event",
+"dateEnd": "1977-11-18",
+"dateStart": "1977-11-18",
+"direction": "in",
+"edgeLabel": "The claim places Launch Facility November-5 in this installation's Minuteman field",
+"id": "ellsworth-1977",
+"l0": false,
+"label": "Ellsworth AFB Launch Facility November-5 claim, 18 November 1977",
+"note": "Tier 2 because the location is as claimed on a dated broadcast, not as established by any Air Force record.",
+"sources": [
+{
+"date": "2026-09-07",
+"name": "Jesse Michels, video rjUdn6FklAU, published 7 September 2026, runtime 2:47:21, auto-generated captions; timestamped triage at research/leads/michels-rjUdn6FklAU-triage-2026-09-19.md. Opened 19 September 2026",
+"url": "https://www.youtube.com/watch?v=rjUdn6FklAU"
+}
+],
+"tier": "C",
+"type": "geographic"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "1983",
+"dateStart": "1975",
+"direction": "in",
+"edgeLabel": "Claimed security policeman, 44th Missile Security Squadron",
+"id": "mario-woods",
+"l0": false,
+"label": "Mario Woods",
+"note": "Claimed service 1975 to 1983 on the 2026 broadcast. NO SERVICE RECORD HAS BEEN PRODUCED BY ANY PARTY.",
+"sources": [
+{
+"date": "2026-09-07",
+"name": "Jesse Michels, video rjUdn6FklAU, published 7 September 2026, runtime 2:47:21, auto-generated captions; timestamped triage at research/leads/michels-rjUdn6FklAU-triage-2026-09-19.md. Opened 19 September 2026",
+"url": "https://www.youtube.com/watch?v=rjUdn6FklAU"
+}
+],
+"tier": "C",
+"type": "geographic"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "1977",
+"dateStart": "1975",
+"direction": "in",
+"edgeLabel": "Claimed security policeman, 44th Missile Security Squadron",
+"id": "michael-johnson",
+"l0": false,
+"label": "Michael Johnson",
+"note": "The only pre-contact artefact placing him here is an undated Facebook post naming Ellsworth and the years 1975 to 1977, which says nothing about the event. NO SERVICE RECORD HAS BEEN PRODUCED.",
+"sources": [
+{
+"date": "2026-09-07",
+"name": "Jesse Michels, video rjUdn6FklAU, published 7 September 2026, runtime 2:47:21, auto-generated captions; timestamped triage at research/leads/michels-rjUdn6FklAU-triage-2026-09-19.md. Opened 19 September 2026",
+"url": "https://www.youtube.com/watch?v=rjUdn6FklAU"
+}
+],
+"tier": "C",
+"type": "geographic"
+},
+{
+"claimTier": 2,
+"cls": "institution",
+"dateEnd": "1977-11-18",
+"dateStart": "1977-11-18",
+"direction": "out",
+"edgeLabel": "SAC installation; 44th Strategic Missile Wing Minuteman field",
+"id": "strategic-air-command",
+"l0": true,
+"label": "Strategic Air Command (SAC)",
+"note": "The unit is as claimed by the two claimants, not as established by any opened Air Force record. No document opened by this board places either man at Ellsworth.",
+"sources": [
+{
+"date": "2026-09-07",
+"name": "Jesse Michels, video rjUdn6FklAU, published 7 September 2026, runtime 2:47:21, auto-generated captions; timestamped triage at research/leads/michels-rjUdn6FklAU-triage-2026-09-19.md. Opened 19 September 2026",
+"url": "https://www.youtube.com/watch?v=rjUdn6FklAU"
+}
+],
+"tier": "B",
+"type": "institutional"
+}
+],
+"coords": null,
+"dateEnd": "2026-09-07",
+"dateStart": "1977-11-18",
+"deg": 4,
+"denials": [],
+"desc": "A HUB BUILT ALMOST ENTIRELY ON CLAIMS, AND THE NODE SAYS SO. Ellsworth Air Force Base near Rapid City, South Dakota held the 44th Strategic Missile Wing's Minuteman field, which included the launch facility designated November-5. Unlike Loring, Wurtsmith, Malmstrom, Minot and F. E. Warren, this hub carries no contemporaneous Air Force document of its own that this board has opened. What it carries is a claim: that on 18 November 1977 two security policemen of the 44th Missile Security Squadron encountered an object and beings at Launch Facility November-5, lost hours, and were interrogated separately. NO AIR FORCE RECORD OF THAT EVENT HAS EVER BEEN PRODUCED BY ANY PARTY. The node exists under CLAUDE.md section 2a because an informed reader mapping nuclear-facility witnesses would expect Ellsworth to be here and would read its absence as a gap, and because the board already carries related material: a Tier 2 claim from the American Alchemy episode of 5 July 2025 describing the case and Mario Woods's statement that an OSI man named Rick Doty was at his debrief, and AARO's own Historical Record Report Volume I, which the board records as noting interviews with former Air Force officers who served at Malmstrom, Ellsworth, Vandenberg and Minot between 1966 and 1977. That AARO citation stands on an earlier pass and was NOT re-verified here, because media.defense.gov returned HTTP 403 to every route this session tried.",
+"domains": [
+"nuclear-witnesses-2026-09-19"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "1",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "l-ellsworth",
+"l0": false,
+"label": "Ellsworth AFB, South Dakota",
+"locLabel": null,
+"members": null,
+"short": "Ellsworth AFB, South Dakota",
+"sources": [
+{
+"date": "2026-09-07",
+"name": "Jesse Michels, video rjUdn6FklAU, published 7 September 2026, runtime 2:47:21, auto-generated captions; timestamped triage at research/leads/michels-rjUdn6FklAU-triage-2026-09-19.md. Opened 19 September 2026",
+"url": "https://www.youtube.com/watch?v=rjUdn6FklAU"
+},
+{
+"date": "2026-09-12",
+"name": "The Political Saucer, 'The Night at November-5: Two Missile Guards, Nine Lost Hours, and the Nuclear Security Incident the Air Force Never Explained', 12 September 2026; header read, body paywalled. Opened 19 September 2026",
+"url": "https://politicalsaucer.substack.com/p/the-night-at-november-5-two-missile"
+},
+{
+"date": "2026-09-19",
+"name": "Derived by this board from the register in research/leads/verified-nuclear-witnesses-2026-09-19.md, which lists every nuclear-facility witness found in the 19 September 2026 pass together with the route by which each account reached the public",
+"url": ""
+}
+],
+"sub": "SAC installation near Rapid City; 44th Strategic Missile Wing Minuteman field including Launch Facility November-5; hub of the 1977 security-police claim",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 913 of 1159, score 18). 4 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D1.",
+"timeline": []
+}

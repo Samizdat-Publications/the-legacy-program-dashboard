@@ -188,7 +188,7 @@
 "direction": "out",
 "edgeLabel": "Named in a 1982 laboratory telephone directory, NOT documented as employed by it",
 "id": "lanl",
-"l0": true,
+"l0": false,
 "label": "Los Alamos National Laboratory",
 "note": "THE LABEL IS THE WHOLE POINT OF THIS EDGE AND MUST NOT BE SHORTENED TO 'employed by'. The directory page states on its face that it covers Department of Energy employees and the outside contractor Kirk-Mayer, and the laboratory later said it held no records for him.",
 "sources": [
@@ -567,7 +567,7 @@
 "status": "alive",
 "sub": "Los Alamos contract technician, 1982; claimant from 1989 of work on alien propulsion at a facility he calls S-4 near Papoose Lake; convicted Nevada felon, 1990",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 53 of 1125, score 77). 14 connections, 2 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C0/A0/D3.",
+"tierRationale": "Re-graded A on a global pass (rank 54 of 1159, score 77). 14 connections, 2 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C0/A0/D3.",
 "timeline": [
 {
 "date": "1982-06-28",

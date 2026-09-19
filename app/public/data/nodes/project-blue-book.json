@@ -208,6 +208,27 @@
 },
 {
 "claimTier": 1,
+"cls": "document",
+"dateEnd": "1968-11-13",
+"dateStart": "1968-10-28",
+"direction": "in",
+"edgeLabel": "A Project Blue Book case file, evaluated by the Foreign Technology Division",
+"id": "doc-minot-1968-blue-book",
+"l0": false,
+"label": "Project Blue Book case file, Minot AFB, 24 October 1968",
+"note": "The final case report of 13 November 1968 is the FTD's conclusions on the data submitted from Minot.",
+"sources": [
+{
+"date": "1968-11-13",
+"name": "minotb52ufo.com, documentation index for the 24 October 1968 Minot AFB case, listing the Blue Book file, Lt Col Werlich's Basic Reporting Data, the AF Form 117 questionnaires, the radarscope photographs and the Werlich overlay map. Opened 19 September 2026",
+"url": "https://minotb52ufo.com/doc.php"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 1,
 "cls": "person",
 "dateEnd": "1953",
 "dateStart": "1952",
@@ -282,7 +303,7 @@
 "direction": "in",
 "edgeLabel": "CIA states the Air Force made misleading and deceptive public statements",
 "id": "haines-cia-history",
-"l0": true,
+"l0": false,
 "label": "A Die-hard Issue: CIA's Role in the Study of UFOs, 1947-1990",
 "note": "Haines writes that reconnaissance-programme secrecy 'led the Air Force to make misleading and deceptive statements to the public' — an agency of the US government confirming official deception on this subject.",
 "sources": [
@@ -303,7 +324,7 @@
 "direction": "in",
 "edgeLabel": "Blue Book investigators knowingly issued false explanations for U-2 sightings",
 "id": "haines-cia-history",
-"l0": true,
+"l0": false,
 "label": "A Die-hard Issue: CIA's Role in the Study of UFOs, 1947-1990",
 "note": "CIA records that Blue Book investigators aware of the secret U-2 flights attributed sightings to ice crystals and temperature inversions and 'were careful, however, not to reveal the true cause of the sighting to the public.'",
 "sources": [
@@ -511,7 +532,7 @@
 "url": "https://www.nicap.org/681024minot_dir.htm"
 }
 ],
-"tier": "C",
+"tier": "B",
 "type": "denial"
 },
 {
@@ -753,7 +774,7 @@
 "coords": null,
 "dateEnd": "1969",
 "dateStart": "1952",
-"deg": 27,
+"deg": 28,
 "denials": [
 {
 "by": {
@@ -995,6 +1016,12 @@
 "tier": "B"
 },
 {
+"cls": "document",
+"id": "doc-minot-1968-blue-book",
+"label": "Project Blue Book case file, Minot AFB, 24 October 1968",
+"tier": "C"
+},
+{
 "cls": "person",
 "id": "edward-ruppelt",
 "label": "Edward J. Ruppelt",
@@ -1011,6 +1038,12 @@
 "id": "gerb-battelle-investigation",
 "label": "UAP Gerb - Battelle Memorial Institute investigation",
 "tier": "B"
+},
+{
+"cls": "document",
+"id": "haines-cia-history",
+"label": "A Die-hard Issue: CIA's Role in the Study of UFOs, 1947-1990",
+"tier": "A"
 },
 {
 "cls": "person",
@@ -1052,7 +1085,7 @@
 "cls": "event",
 "id": "minot-1968",
 "label": "Minot AFB B-52 incident, 24 October 1968",
-"tier": "C"
+"tier": "B"
 },
 {
 "cls": "program",
@@ -1116,7 +1149,7 @@
 ],
 "sub": "Public-facing USAF UFO program (1952-1969)",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 16 of 1125, score 113). 31 connections, 11 of them custody/funding/programmatic, 5 official denials recorded against it. Axes C1/A2/D2.",
+"tierRationale": "Re-graded A on a global pass (rank 15 of 1159, score 114). 32 connections, 11 of them custody/funding/programmatic, 5 official denials recorded against it. Axes C1/A2/D2.",
 "timeline": [
 {
 "date": "1969-12-17",

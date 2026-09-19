@@ -21,12 +21,12 @@
    "label": "oversight"
   },
   {
-   "id": "disclosure",
-   "label": "disclosure"
-  },
-  {
    "id": "research",
    "label": "research"
+  },
+  {
+   "id": "disclosure",
+   "label": "disclosure"
   }
  ],
  "classes": [
@@ -111,24 +111,24 @@
  ],
  "counts": {
   "claims": {
-   "1": 3648,
-   "2": 1618,
-   "3": 573
+   "1": 3736,
+   "2": 1684,
+   "3": 613
   },
-  "edges": 2661,
-  "entities": 787,
+  "edges": 2738,
+  "entities": 806,
   "foia": {
    "nodes": 42,
    "questions": 121,
    "requests": 17
   },
   "l0": 135,
-  "nodes": 1125,
+  "nodes": 1159,
   "patents": 5,
-  "people": 338,
+  "people": 353,
   "sheets": 11,
   "threads": 8,
-  "timeline": 1050
+  "timeline": 1067
  },
  "eras": [
   {
@@ -1343,7 +1343,7 @@
    "label": "Alfred 'Al' O'Donnell",
    "short": "Alfred 'Al' O'Donnell",
    "status": "dead",
-   "tier": "C"
+   "tier": "B"
   },
   {
    "A": 0,
@@ -2255,7 +2255,7 @@
    "label": "Ben R. Rich",
    "short": "Ben R. Rich",
    "status": "dead",
-   "tier": "C"
+   "tier": "B"
   },
   {
    "A": 0,
@@ -2407,15 +2407,15 @@
    "D": 2,
    "band": null,
    "claims": [
-    6,
-    3,
-    0
+    0,
+    12,
+    1
    ],
    "cls": "event",
    "cluster": "legacy",
    "dateEnd": "1964-11",
    "dateStart": "1964-08",
-   "deg": 4,
+   "deg": 6,
    "era": "0",
    "hl": null,
    "id": "big-sur-1964",
@@ -2788,6 +2788,30 @@
   {
    "A": 2,
    "C": 0,
+   "D": 2,
+   "band": null,
+   "claims": [
+    1,
+    1,
+    1
+   ],
+   "cls": "person",
+   "cluster": "witness",
+   "dateEnd": null,
+   "dateStart": "2000-01-01",
+   "deg": 2,
+   "era": "2",
+   "hl": null,
+   "id": "bradford-runyon",
+   "l0": false,
+   "label": "Capt. Bradford Runyon",
+   "short": "Capt. Bradford Runyon",
+   "status": "unknown",
+   "tier": "C"
+  },
+  {
+   "A": 2,
+   "C": 0,
    "D": 3,
    "band": null,
    "claims": [
@@ -2831,6 +2855,30 @@
    "label": "Brian L. Jenkins",
    "short": "Brian L. Jenkins",
    "status": "former",
+   "tier": "C"
+  },
+  {
+   "A": 1,
+   "C": 0,
+   "D": 2,
+   "band": null,
+   "claims": [
+    0,
+    1,
+    1
+   ],
+   "cls": "person",
+   "cluster": "witness",
+   "dateEnd": null,
+   "dateStart": "2010-09-27",
+   "deg": 2,
+   "era": "2",
+   "hl": null,
+   "id": "bruce-fenstermacher",
+   "l0": false,
+   "label": "Capt. Bruce Fenstermacher",
+   "short": "Capt. Bruce Fenstermacher",
+   "status": "unknown",
    "tier": "C"
   },
   {
@@ -2903,7 +2951,7 @@
    "label": "Howard P. \"Buck\" McKeon",
    "short": "Howard P. \"Buck\" McKeon",
    "status": "active",
-   "tier": "C"
+   "tier": "B"
   },
   {
    "A": 2,
@@ -3423,7 +3471,7 @@
    "cluster": "other",
    "dateEnd": null,
    "dateStart": "1981-01-13",
-   "deg": 3,
+   "deg": 4,
    "era": "1",
    "hl": null,
    "id": "charles-halt",
@@ -5167,7 +5215,7 @@
    "D": 2,
    "band": null,
    "claims": [
-    3,
+    6,
     1,
     0
    ],
@@ -5191,9 +5239,9 @@
    "D": 1,
    "band": null,
    "claims": [
-    2,
+    3,
     0,
-    1
+    3
    ],
    "cls": "domain",
    "cluster": "other",
@@ -7399,7 +7447,7 @@
    "D": 2,
    "band": null,
    "claims": [
-    4,
+    8,
     0,
     0
    ],
@@ -7407,7 +7455,7 @@
    "cluster": "legacy",
    "dateEnd": null,
    "dateStart": "2001-06-14",
-   "deg": 5,
+   "deg": 6,
    "era": "2",
    "hl": null,
    "id": "doc-341-smw-history-1967",
@@ -7415,7 +7463,31 @@
    "label": "341st Strategic Missile Wing histories, 1967-68 (FOIA release, 14 June 2001)",
    "short": "341st Strategic Missile Wing histories, 1967-68 (FOIA release, 14 June 2001)",
    "status": null,
-   "tier": "B"
+   "tier": "A"
+  },
+  {
+   "A": 3,
+   "C": 0,
+   "D": 1,
+   "band": null,
+   "claims": [
+    2,
+    1,
+    0
+   ],
+   "cls": "document",
+   "cluster": "legacy",
+   "dateEnd": "1975-11-11",
+   "dateStart": "1975-11-11",
+   "deg": 2,
+   "era": "1",
+   "hl": null,
+   "id": "doc-cincnorad-1975-11-11",
+   "l0": false,
+   "label": "CINCNORAD four-part message, 11 November 1975",
+   "short": "CINCNORAD four-part message, 11 November 1975",
+   "status": null,
+   "tier": "C"
   },
   {
    "A": 1,
@@ -7512,6 +7584,126 @@
    "short": "Relatório de Ocorrências, Comando Aéreo de Defesa Aérea, 2 June 1986 (Arquivo Nacional BR_DFANBSB_ARX_0_0_0249)",
    "status": null,
    "tier": "B"
+  },
+  {
+   "A": 2,
+   "C": 0,
+   "D": 1,
+   "band": null,
+   "claims": [
+    2,
+    0,
+    1
+   ],
+   "cls": "document",
+   "cluster": "witness",
+   "dateEnd": "1968-11-13",
+   "dateStart": "1968-10-28",
+   "deg": 2,
+   "era": "0",
+   "hl": null,
+   "id": "doc-minot-1968-blue-book",
+   "l0": false,
+   "label": "Project Blue Book case file, Minot AFB, 24 October 1968",
+   "short": "Project Blue Book case file, Minot AFB, 24 October 1968",
+   "status": null,
+   "tier": "C"
+  },
+  {
+   "A": 3,
+   "C": 1,
+   "D": 1,
+   "band": null,
+   "claims": [
+    5,
+    0,
+    0
+   ],
+   "cls": "document",
+   "cluster": "legacy",
+   "dateEnd": "1975-10-30",
+   "dateStart": "1975-10-29",
+   "deg": 3,
+   "era": "1",
+   "hl": null,
+   "id": "doc-nmcc-loring-1975",
+   "l0": false,
+   "label": "NMCC Memorandum for Record, 'AFB Penetration', 29 October 1975",
+   "short": "NMCC Memorandum for Record, 'AFB Penetration', 29 October 1975",
+   "status": null,
+   "tier": "B"
+  },
+  {
+   "A": 3,
+   "C": 1,
+   "D": 1,
+   "band": null,
+   "claims": [
+    4,
+    0,
+    0
+   ],
+   "cls": "document",
+   "cluster": "legacy",
+   "dateEnd": "1975-11-19",
+   "dateStart": "1975-11-07",
+   "deg": 5,
+   "era": "1",
+   "hl": null,
+   "id": "doc-norad-24th-log-1975",
+   "l0": false,
+   "label": "24th NORAD Region Senior Director's Log, Malmstrom, 7 to 19 November 1975",
+   "short": "24th NORAD Region Senior Director's Log, Malmstrom, 7 to 19 November 1975",
+   "status": null,
+   "tier": "B"
+  },
+  {
+   "A": 2,
+   "C": 0,
+   "D": 2,
+   "band": null,
+   "claims": [
+    5,
+    0,
+    0
+   ],
+   "cls": "document",
+   "cluster": "research",
+   "dateEnd": "1993",
+   "dateStart": "1993",
+   "deg": 2,
+   "era": "1",
+   "hl": null,
+   "id": "doc-si-big-sur-1993",
+   "l0": false,
+   "label": "Kingston A. George, 'The Big Sur UFO: An Identified Flying Object', Skeptical Inquirer, Winter 1993",
+   "short": "Kingston A. George, 'The Big Sur UFO: An Identified Flying Object', Skeptical Inquirer, Winter 1993",
+   "status": null,
+   "tier": "B"
+  },
+  {
+   "A": 2,
+   "C": 0,
+   "D": 2,
+   "band": null,
+   "claims": [
+    2,
+    0,
+    1
+   ],
+   "cls": "document",
+   "cluster": "legacy",
+   "dateEnd": "1979-01-18",
+   "dateStart": "1979-01-17",
+   "deg": 2,
+   "era": "1",
+   "hl": null,
+   "id": "doc-wurtsmith-historian-1979",
+   "l0": false,
+   "label": "379th Bomb Wing historian's file on the Wurtsmith incursion, 17 to 18 January 1979",
+   "short": "379th Bomb Wing historian's file on the Wurtsmith incursion, 17 to 18 January 1979",
+   "status": null,
+   "tier": "C"
   },
   {
    "A": 3,
@@ -8210,6 +8402,30 @@
    "tier": "A"
   },
   {
+   "A": 1,
+   "C": 0,
+   "D": 2,
+   "band": null,
+   "claims": [
+    0,
+    1,
+    2
+   ],
+   "cls": "person",
+   "cluster": "witness",
+   "dateEnd": null,
+   "dateStart": "2010-09-27",
+   "deg": 2,
+   "era": "2",
+   "hl": null,
+   "id": "dwynne-arneson",
+   "l0": false,
+   "label": "Lt Col Dwynne Arneson",
+   "short": "Lt Col Dwynne Arneson",
+   "status": "unknown",
+   "tier": "C"
+  },
+  {
    "A": 2,
    "C": 1,
    "D": 3,
@@ -8548,6 +8764,30 @@
   {
    "A": 0,
    "C": 0,
+   "D": 3,
+   "band": null,
+   "claims": [
+    0,
+    4,
+    2
+   ],
+   "cls": "event",
+   "cluster": "witness",
+   "dateEnd": "2026-09-07",
+   "dateStart": "1977-11-18",
+   "deg": 3,
+   "era": "1",
+   "hl": null,
+   "id": "ellsworth-1977",
+   "l0": false,
+   "label": "Ellsworth AFB Launch Facility November-5 claim, 18 November 1977",
+   "short": "Ellsworth AFB Launch Facility November-5 claim, 18 November 1977",
+   "status": null,
+   "tier": "C"
+  },
+  {
+   "A": 0,
+   "C": 0,
    "D": 0,
    "band": null,
    "claims": [
@@ -8664,6 +8904,30 @@
    "short": "Eric Burlison",
    "status": "active",
    "tier": "A"
+  },
+  {
+   "A": 2,
+   "C": 0,
+   "D": 1,
+   "band": null,
+   "claims": [
+    0,
+    2,
+    1
+   ],
+   "cls": "person",
+   "cluster": "witness",
+   "dateEnd": null,
+   "dateStart": "1967-03-16",
+   "deg": 2,
+   "era": "0",
+   "hl": null,
+   "id": "eric-carlson",
+   "l0": false,
+   "label": "Capt. Eric D. Carlson",
+   "short": "Capt. Eric D. Carlson",
+   "status": "unknown",
+   "tier": "C"
   },
   {
    "A": 3,
@@ -9170,6 +9434,30 @@
    "tier": "B"
   },
   {
+   "A": 2,
+   "C": 0,
+   "D": 2,
+   "band": null,
+   "claims": [
+    0,
+    2,
+    2
+   ],
+   "cls": "person",
+   "cluster": "witness",
+   "dateEnd": null,
+   "dateStart": "1987-05-06",
+   "deg": 1,
+   "era": "1",
+   "hl": null,
+   "id": "florenz-mansmann",
+   "l0": false,
+   "label": "Maj. Florenz J. Mansmann",
+   "short": "Maj. Florenz J. Mansmann",
+   "status": "unknown",
+   "tier": "C"
+  },
+  {
    "A": 0,
    "C": 0,
    "D": 3,
@@ -9407,6 +9695,30 @@
    "label": "Frederick C. Durant III",
    "short": "Frederick C. Durant III",
    "status": "dead",
+   "tier": "C"
+  },
+  {
+   "A": 2,
+   "C": 0,
+   "D": 2,
+   "band": null,
+   "claims": [
+    0,
+    2,
+    2
+   ],
+   "cls": "person",
+   "cluster": "witness",
+   "dateEnd": null,
+   "dateStart": "1996-10-01",
+   "deg": 3,
+   "era": "1",
+   "hl": null,
+   "id": "frederick-meiwald",
+   "l0": false,
+   "label": "Col. Frederick Meiwald",
+   "short": "Col. Frederick Meiwald",
+   "status": "unknown",
    "tier": "C"
   },
   {
@@ -9653,7 +9965,7 @@
    "A": 1,
    "C": 1,
    "D": 1,
-   "band": "oversight",
+   "band": null,
    "claims": [
     5,
     0,
@@ -9667,9 +9979,9 @@
    "era": "1",
    "hl": null,
    "id": "gao-nsiad-88-152",
-   "l0": true,
+   "l0": false,
    "label": "GAO/NSIAD-88-152 - Special Access Programs: DOD Criteria and Procedures for Creating Them Need Improvement",
-   "short": "GAO/NSIAD-88-152",
+   "short": "GAO/NSIAD-88-152 - Special Access Programs: DOD Criteria and Procedures for Creating Them Need Improvement",
    "status": null,
    "tier": "B"
   },
@@ -9677,7 +9989,7 @@
    "A": 1,
    "C": 2,
    "D": 3,
-   "band": "retrieval",
+   "band": null,
    "claims": [
     6,
     0,
@@ -9691,9 +10003,9 @@
    "era": "1",
    "hl": null,
    "id": "gao-nsiad-95-187",
-   "l0": true,
+   "l0": false,
    "label": "GAO/NSIAD-95-187 — Results of a Search for Records Concerning the 1947 Crash Near Roswell",
-   "short": "GAO/NSIAD-95-187",
+   "short": "GAO/NSIAD-95-187 — Results of a Search for Records Concerning the 1947 Crash Near Roswell",
    "status": null,
    "tier": "B"
   },
@@ -10829,7 +11141,7 @@
    "A": 3,
    "C": 0,
    "D": 2,
-   "band": "oversight",
+   "band": null,
    "claims": [
     10,
     0,
@@ -10843,9 +11155,9 @@
    "era": "1",
    "hl": null,
    "id": "haines-cia-history",
-   "l0": true,
+   "l0": false,
    "label": "A Die-hard Issue: CIA's Role in the Study of UFOs, 1947-1990",
-   "short": "A Die-hard Issue",
+   "short": "A Die-hard Issue: CIA's Role in the Study of UFOs, 1947-1990",
    "status": null,
    "tier": "A"
   },
@@ -12530,6 +12842,30 @@
    "tier": "B"
   },
   {
+   "A": 0,
+   "C": 0,
+   "D": 2,
+   "band": null,
+   "claims": [
+    2,
+    2,
+    0
+   ],
+   "cls": "person",
+   "cluster": "research",
+   "dateEnd": null,
+   "dateStart": "2010-01-01",
+   "deg": 2,
+   "era": "2",
+   "hl": null,
+   "id": "james-carlson",
+   "l0": false,
+   "label": "James Carlson",
+   "short": "James Carlson",
+   "status": "alive",
+   "tier": "C"
+  },
+  {
    "A": 3,
    "C": 1,
    "D": 0,
@@ -13130,6 +13466,30 @@
    "tier": "C"
   },
   {
+   "A": 1,
+   "C": 0,
+   "D": 2,
+   "band": null,
+   "claims": [
+    0,
+    1,
+    1
+   ],
+   "cls": "person",
+   "cluster": "witness",
+   "dateEnd": null,
+   "dateStart": "2010-09-27",
+   "deg": 1,
+   "era": "2",
+   "hl": null,
+   "id": "jerry-nelson",
+   "l0": false,
+   "label": "Jerry (Jerome) Nelson",
+   "short": "Jerry (Jerome) Nelson",
+   "status": "unknown",
+   "tier": "C"
+  },
+  {
    "A": 2,
    "C": 3,
    "D": 3,
@@ -13439,7 +13799,7 @@
    "label": "John Burroughs",
    "short": "John Burroughs",
    "status": "active",
-   "tier": "C"
+   "tier": "B"
   },
   {
    "A": 0,
@@ -14167,7 +14527,7 @@
    "D": 2,
    "band": null,
    "claims": [
-    5,
+    9,
     1,
     0
    ],
@@ -14175,7 +14535,7 @@
    "cluster": "research",
    "dateEnd": null,
    "dateStart": null,
-   "deg": 2,
+   "deg": 3,
    "era": "nd",
    "hl": null,
    "id": "kingston-george",
@@ -14882,6 +15242,30 @@
    "tier": "B"
   },
   {
+   "A": 1,
+   "C": 1,
+   "D": 1,
+   "band": null,
+   "claims": [
+    0,
+    2,
+    1
+   ],
+   "cls": "location",
+   "cluster": "legacy",
+   "dateEnd": "2026-09-07",
+   "dateStart": "1977-11-18",
+   "deg": 4,
+   "era": "1",
+   "hl": null,
+   "id": "l-ellsworth",
+   "l0": false,
+   "label": "Ellsworth AFB, South Dakota",
+   "short": "Ellsworth AFB, South Dakota",
+   "status": null,
+   "tier": "C"
+  },
+  {
    "A": 0,
    "C": 1,
    "D": 1,
@@ -14974,6 +15358,30 @@
    "l0": false,
    "label": "Fort George G. Meade, Maryland",
    "short": "Fort George G. Meade, Maryland",
+   "status": null,
+   "tier": "C"
+  },
+  {
+   "A": 2,
+   "C": 1,
+   "D": 1,
+   "band": null,
+   "claims": [
+    0,
+    0,
+    2
+   ],
+   "cls": "location",
+   "cluster": "legacy",
+   "dateEnd": "1975-11-05",
+   "dateStart": "1975-11-04",
+   "deg": 2,
+   "era": "1",
+   "hl": null,
+   "id": "l-grand-forks",
+   "l0": false,
+   "label": "Grand Forks AFB, North Dakota",
+   "short": "Grand Forks AFB, North Dakota",
    "status": null,
    "tier": "C"
   },
@@ -15242,6 +15650,30 @@
    "tier": "C"
   },
   {
+   "A": 2,
+   "C": 1,
+   "D": 1,
+   "band": null,
+   "claims": [
+    3,
+    2,
+    0
+   ],
+   "cls": "location",
+   "cluster": "legacy",
+   "dateEnd": "1975-10-31",
+   "dateStart": "1975-10-27",
+   "deg": 3,
+   "era": "1",
+   "hl": null,
+   "id": "l-loring",
+   "l0": false,
+   "label": "Loring AFB, Maine",
+   "short": "Loring AFB, Maine",
+   "status": null,
+   "tier": "C"
+  },
+  {
    "A": 3,
    "C": 2,
    "D": 1,
@@ -15271,7 +15703,7 @@
    "D": 3,
    "band": null,
    "claims": [
-    1,
+    4,
     0,
     0
    ],
@@ -15279,7 +15711,7 @@
    "cluster": "legacy",
    "dateEnd": "1975",
    "dateStart": "1975",
-   "deg": 3,
+   "deg": 13,
    "era": "1",
    "hl": null,
    "id": "l-malmstrom",
@@ -15287,7 +15719,7 @@
    "label": "Malmstrom AFB and Minuteman Missile Fields, Montana",
    "short": "Malmstrom AFB and Minuteman Missile Fields, Montana",
    "status": null,
-   "tier": "C"
+   "tier": "B"
   },
   {
    "A": 2,
@@ -15336,6 +15768,30 @@
    "short": "Michigan State University, East Lansing, Michigan",
    "status": null,
    "tier": "C"
+  },
+  {
+   "A": 2,
+   "C": 1,
+   "D": 1,
+   "band": null,
+   "claims": [
+    3,
+    1,
+    0
+   ],
+   "cls": "location",
+   "cluster": "legacy",
+   "dateEnd": "1975-11-11",
+   "dateStart": "1966",
+   "deg": 6,
+   "era": "0",
+   "hl": null,
+   "id": "l-minot",
+   "l0": false,
+   "label": "Minot AFB, North Dakota",
+   "short": "Minot AFB, North Dakota",
+   "status": null,
+   "tier": "B"
   },
   {
    "A": 1,
@@ -16059,6 +16515,30 @@
   },
   {
    "A": 2,
+   "C": 1,
+   "D": 1,
+   "band": null,
+   "claims": [
+    1,
+    2,
+    0
+   ],
+   "cls": "location",
+   "cluster": "legacy",
+   "dateEnd": "1977",
+   "dateStart": "1965-08-01",
+   "deg": 5,
+   "era": "0",
+   "hl": null,
+   "id": "l-warren",
+   "l0": false,
+   "label": "F. E. Warren AFB, Wyoming",
+   "short": "F. E. Warren AFB, Wyoming",
+   "status": null,
+   "tier": "C"
+  },
+  {
+   "A": 2,
    "C": 2,
    "D": 1,
    "band": null,
@@ -16104,6 +16584,30 @@
    "short": "Wright-Patterson Air Force Base, Ohio",
    "status": null,
    "tier": "A"
+  },
+  {
+   "A": 2,
+   "C": 1,
+   "D": 1,
+   "band": null,
+   "claims": [
+    4,
+    1,
+    0
+   ],
+   "cls": "location",
+   "cluster": "legacy",
+   "dateEnd": "1979-01-18",
+   "dateStart": "1975-10-30",
+   "deg": 3,
+   "era": "1",
+   "hl": null,
+   "id": "l-wurtsmith",
+   "l0": false,
+   "label": "Wurtsmith AFB, Michigan",
+   "short": "Wurtsmith AFB, Michigan",
+   "status": null,
+   "tier": "B"
   },
   {
    "A": 0,
@@ -16181,7 +16685,7 @@
    "A": 3,
    "C": 2,
    "D": 1,
-   "band": "custody",
+   "band": null,
    "claims": [
     3,
     2,
@@ -16195,7 +16699,7 @@
    "era": "0",
    "hl": null,
    "id": "lanl",
-   "l0": true,
+   "l0": false,
    "label": "Los Alamos National Laboratory",
    "short": "Los Alamos National Laboratory",
    "status": null,
@@ -16634,6 +17138,30 @@
    "tier": "B"
   },
   {
+   "A": 2,
+   "C": 1,
+   "D": 1,
+   "band": null,
+   "claims": [
+    3,
+    1,
+    0
+   ],
+   "cls": "event",
+   "cluster": "legacy",
+   "dateEnd": "1975-10-31",
+   "dateStart": "1975-10-27",
+   "deg": 3,
+   "era": "1",
+   "hl": null,
+   "id": "loring-1975",
+   "l0": false,
+   "label": "Loring AFB penetrations, 27 to 31 October 1975",
+   "short": "Loring AFB penetrations, 27 to 31 October 1975",
+   "status": null,
+   "tier": "C"
+  },
+  {
    "A": 0,
    "C": 0,
    "D": 1,
@@ -16803,25 +17331,73 @@
   },
   {
    "A": 2,
-   "C": 0,
-   "D": 3,
+   "C": 1,
+   "D": 1,
    "band": null,
    "claims": [
     4,
-    6,
-    1
+    1,
+    0
+   ],
+   "cls": "event",
+   "cluster": "legacy",
+   "dateEnd": "1975-11-19",
+   "dateStart": "1975-11-07",
+   "deg": 3,
+   "era": "1",
+   "hl": null,
+   "id": "malmstrom-1975",
+   "l0": false,
+   "label": "Malmstrom missile-field overflights, 7 to 19 November 1975",
+   "short": "Malmstrom missile-field overflights, 7 to 19 November 1975",
+   "status": null,
+   "tier": "B"
+  },
+  {
+   "A": 2,
+   "C": 0,
+   "D": 3,
+   "band": "disclosure",
+   "claims": [
+    12,
+    7,
+    3
    ],
    "cls": "event",
    "cluster": "witness",
    "dateEnd": "1967-03-24",
    "dateStart": "1967-03-16",
-   "deg": 6,
+   "deg": 12,
    "era": "0",
    "hl": null,
    "id": "malmstrom-echo-flight-1967",
-   "l0": false,
+   "l0": true,
    "label": "Malmstrom AFB missile shutdowns, March 1967",
    "short": "Malmstrom Echo Flight, Mar 1967",
+   "status": null,
+   "tier": "A"
+  },
+  {
+   "A": 1,
+   "C": 0,
+   "D": 3,
+   "band": "disclosure",
+   "claims": [
+    1,
+    3,
+    1
+   ],
+   "cls": "event",
+   "cluster": "witness",
+   "dateEnd": "1996",
+   "dateStart": "1967-03-24",
+   "deg": 7,
+   "era": "0",
+   "hl": null,
+   "id": "malmstrom-oscar-flight-1967",
+   "l0": true,
+   "label": "Malmstrom Oscar Flight claim, 24 March 1967",
+   "short": "Oscar Flight claim, 24 Mar 1967",
    "status": null,
    "tier": "B"
   },
@@ -16967,6 +17543,30 @@
    "label": "Marik von Rennenkampff",
    "short": "Marik von Rennenkampff",
    "status": "active",
+   "tier": "C"
+  },
+  {
+   "A": 0,
+   "C": 0,
+   "D": 3,
+   "band": null,
+   "claims": [
+    0,
+    3,
+    2
+   ],
+   "cls": "person",
+   "cluster": "witness",
+   "dateEnd": null,
+   "dateStart": "1977-11-18",
+   "deg": 3,
+   "era": "1",
+   "hl": null,
+   "id": "mario-woods",
+   "l0": false,
+   "label": "Mario Woods",
+   "short": "Mario Woods",
+   "status": "alive",
    "tier": "C"
   },
   {
@@ -17354,6 +17954,30 @@
    "tier": "B"
   },
   {
+   "A": 0,
+   "C": 0,
+   "D": 2,
+   "band": null,
+   "claims": [
+    0,
+    5,
+    3
+   ],
+   "cls": "person",
+   "cluster": "witness",
+   "dateEnd": null,
+   "dateStart": "2026-06-26",
+   "deg": 3,
+   "era": "3",
+   "hl": null,
+   "id": "michael-johnson",
+   "l0": false,
+   "label": "Michael Johnson",
+   "short": "Michael Johnson",
+   "status": "alive",
+   "tier": "C"
+  },
+  {
    "A": 2,
    "C": 1,
    "D": 1,
@@ -17599,7 +18223,7 @@
    "D": 2,
    "band": null,
    "claims": [
-    2,
+    3,
     0,
     0
    ],
@@ -17607,7 +18231,7 @@
    "cluster": "witness",
    "dateEnd": "1966-12-06",
    "dateStart": "1966-08-25",
-   "deg": 2,
+   "deg": 3,
    "era": "0",
    "hl": null,
    "id": "minot-1966",
@@ -17623,15 +18247,15 @@
    "D": 2,
    "band": null,
    "claims": [
-    3,
-    1,
+    5,
+    2,
     0
    ],
    "cls": "event",
    "cluster": "witness",
    "dateEnd": "1968-10-24",
    "dateStart": "1968-10-24",
-   "deg": 2,
+   "deg": 5,
    "era": "0",
    "hl": null,
    "id": "minot-1968",
@@ -17639,7 +18263,7 @@
    "label": "Minot AFB B-52 incident, 24 October 1968",
    "short": "Minot AFB B-52 incident, 24 October 1968",
    "status": null,
-   "tier": "C"
+   "tier": "B"
   },
   {
    "A": 3,
@@ -17711,7 +18335,7 @@
    "label": "MIT Lincoln Laboratory",
    "short": "MIT Lincoln Laboratory",
    "status": null,
-   "tier": "B"
+   "tier": "A"
   },
   {
    "A": 3,
@@ -17837,7 +18461,7 @@
    "A": 1,
    "C": 1,
    "D": 2,
-   "band": "custody",
+   "band": null,
    "claims": [
     3,
     0,
@@ -17851,7 +18475,7 @@
    "era": "1",
    "hl": null,
    "id": "mj-12-documents",
-   "l0": true,
+   "l0": false,
    "label": "MJ-12 / Operation Majestic-12 Documents",
    "short": "MJ-12 / Majestic-12 Documents",
    "status": null,
@@ -19133,7 +19757,7 @@
    "A": 3,
    "C": 0,
    "D": 2,
-   "band": null,
+   "band": "oversight",
    "claims": [
     1,
     2,
@@ -19143,11 +19767,11 @@
    "cluster": "other",
    "dateEnd": null,
    "dateStart": "1958",
-   "deg": 5,
+   "deg": 8,
    "era": "0",
    "hl": null,
    "id": "norad-northcom",
-   "l0": false,
+   "l0": true,
    "label": "NORAD and US Northern Command",
    "short": "NORAD and US Northern Command",
    "status": null,
@@ -19253,25 +19877,25 @@
    "A": 2,
    "C": 0,
    "D": 3,
-   "band": null,
+   "band": "disclosure",
    "claims": [
     0,
-    3,
-    0
+    5,
+    2
    ],
    "cls": "event",
    "cluster": "witness",
    "dateEnd": "2010-09-27",
    "dateStart": "2010-09-27",
-   "deg": 2,
+   "deg": 8,
    "era": "2",
    "hl": null,
    "id": "npc-2010-ufos-nukes",
-   "l0": false,
+   "l0": true,
    "label": "UFO-Nukes Connection press conference, National Press Club, 27 September 2010",
-   "short": "UFO-Nukes Connection press conference, National Press Club, 27 September 2010",
+   "short": "UFO-Nukes press conf., Sep 2010",
    "status": null,
-   "tier": "C"
+   "tier": "B"
   },
   {
    "A": 3,
@@ -20115,6 +20739,30 @@
   },
   {
    "A": 1,
+   "C": 0,
+   "D": 2,
+   "band": null,
+   "claims": [
+    0,
+    1,
+    1
+   ],
+   "cls": "person",
+   "cluster": "witness",
+   "dateEnd": null,
+   "dateStart": "2010-09-27",
+   "deg": 2,
+   "era": "2",
+   "hl": null,
+   "id": "patrick-mcdonough",
+   "l0": false,
+   "label": "Patrick McDonough",
+   "short": "Patrick McDonough",
+   "status": "unknown",
+   "tier": "C"
+  },
+  {
+   "A": 1,
    "C": 2,
    "D": 3,
    "band": null,
@@ -20799,7 +21447,7 @@
    "cluster": "other",
    "dateEnd": "1969",
    "dateStart": "1952",
-   "deg": 27,
+   "deg": 28,
    "era": "0",
    "hl": null,
    "id": "project-blue-book",
@@ -21527,7 +22175,7 @@
    "label": "Reid Letter to DEPSECDEF Requesting Restricted SAP Status",
    "short": "Reid Letter to DEPSECDEF Requesting Restricted SAP Status",
    "status": null,
-   "tier": "B"
+   "tier": "A"
   },
   {
    "A": 1,
@@ -21991,15 +22639,15 @@
    "D": 3,
    "band": null,
    "claims": [
-    1,
-    5,
-    0
+    2,
+    7,
+    2
    ],
    "cls": "person",
-   "cluster": "research",
+   "cluster": "other",
    "dateEnd": null,
    "dateStart": "2026-06-20",
-   "deg": 5,
+   "deg": 12,
    "era": "3",
    "hl": null,
    "id": "robert-hastings",
@@ -22015,9 +22663,9 @@
    "D": 3,
    "band": null,
    "claims": [
-    6,
+    9,
     2,
-    1
+    2
    ],
    "cls": "person",
    "cluster": "witness",
@@ -22031,7 +22679,55 @@
    "label": "Robert M. Jacobs",
    "short": "Robert M. Jacobs",
    "status": "unknown",
-   "tier": "B"
+   "tier": "A"
+  },
+  {
+   "A": 1,
+   "C": 0,
+   "D": 2,
+   "band": null,
+   "claims": [
+    1,
+    2,
+    1
+   ],
+   "cls": "person",
+   "cluster": "witness",
+   "dateEnd": null,
+   "dateStart": "2010-09-27",
+   "deg": 4,
+   "era": "2",
+   "hl": null,
+   "id": "robert-jamison",
+   "l0": false,
+   "label": "Capt. Robert Jamison",
+   "short": "Capt. Robert Jamison",
+   "status": "unknown",
+   "tier": "C"
+  },
+  {
+   "A": 1,
+   "C": 1,
+   "D": 1,
+   "band": null,
+   "claims": [
+    2,
+    1,
+    1
+   ],
+   "cls": "person",
+   "cluster": "witness",
+   "dateEnd": null,
+   "dateStart": "1997-01-01",
+   "deg": 2,
+   "era": "1",
+   "hl": null,
+   "id": "robert-kaminski",
+   "l0": false,
+   "label": "Robert J. Kaminski",
+   "short": "Robert J. Kaminski",
+   "status": "unknown",
+   "tier": "C"
   },
   {
    "A": 1,
@@ -22111,15 +22807,15 @@
    "D": 3,
    "band": null,
    "claims": [
-    0,
-    6,
-    0
+    3,
+    7,
+    2
    ],
    "cls": "person",
-   "cluster": "witness",
+   "cluster": "other",
    "dateEnd": null,
    "dateStart": "2025-01-01",
-   "deg": 3,
+   "deg": 5,
    "era": "3",
    "hl": null,
    "id": "robert-salas",
@@ -22127,7 +22823,7 @@
    "label": "Capt. Robert L. Salas",
    "short": "Capt. Robert L. Salas",
    "status": "active",
-   "tier": "C"
+   "tier": "B"
   },
   {
    "A": 1,
@@ -22591,7 +23287,7 @@
    "D": 3,
    "band": "custody",
    "claims": [
-    7,
+    13,
     1,
     0
    ],
@@ -22599,7 +23295,7 @@
    "cluster": "legacy",
    "dateEnd": "1975",
    "dateStart": "1975",
-   "deg": 7,
+   "deg": 14,
    "era": "1",
    "hl": null,
    "id": "sac-overflights-1975",
@@ -24098,6 +24794,30 @@
    "tier": "C"
   },
   {
+   "A": 3,
+   "C": 1,
+   "D": 1,
+   "band": "custody",
+   "claims": [
+    3,
+    1,
+    0
+   ],
+   "cls": "institution",
+   "cluster": "legacy",
+   "dateEnd": "1992-06-01",
+   "dateStart": "1946-03-21",
+   "deg": 9,
+   "era": "0",
+   "hl": null,
+   "id": "strategic-air-command",
+   "l0": true,
+   "label": "Strategic Air Command (SAC)",
+   "short": "Strategic Air Command",
+   "status": null,
+   "tier": "B"
+  },
+  {
    "A": 0,
    "C": 0,
    "D": 3,
@@ -24455,7 +25175,7 @@
    "label": "Thad Cochran",
    "short": "Thad Cochran",
    "status": "active",
-   "tier": "C"
+   "tier": "B"
   },
   {
    "A": 0,
@@ -24792,6 +25512,30 @@
    "short": "Timothy Gallaudet",
    "status": "active",
    "tier": "A"
+  },
+  {
+   "A": 1,
+   "C": 0,
+   "D": 2,
+   "band": null,
+   "claims": [
+    2,
+    2,
+    0
+   ],
+   "cls": "person",
+   "cluster": "research",
+   "dateEnd": null,
+   "dateStart": "2011-08-01",
+   "deg": 1,
+   "era": "2",
+   "hl": null,
+   "id": "tim-hebert",
+   "l0": false,
+   "label": "Tim Hebert",
+   "short": "Tim Hebert",
+   "status": "alive",
+   "tier": "C"
   },
   {
    "A": 0,
@@ -25983,7 +26727,7 @@
    "cluster": "legacy",
    "dateEnd": null,
    "dateStart": "1947-09-18",
-   "deg": 25,
+   "deg": 27,
    "era": "0",
    "hl": null,
    "id": "usaf",
@@ -26690,6 +27434,30 @@
    "tier": "B"
   },
   {
+   "A": 2,
+   "C": 0,
+   "D": 2,
+   "band": null,
+   "claims": [
+    1,
+    3,
+    1
+   ],
+   "cls": "person",
+   "cluster": "witness",
+   "dateEnd": null,
+   "dateStart": "1967-03-16",
+   "deg": 3,
+   "era": "0",
+   "hl": null,
+   "id": "walter-figel",
+   "l0": false,
+   "label": "Col. Walter Figel Jr.",
+   "short": "Col. Walter Figel Jr.",
+   "status": "unknown",
+   "tier": "C"
+  },
+  {
    "A": 1,
    "C": 2,
    "D": 3,
@@ -26734,6 +27502,30 @@
    "l0": false,
    "label": "war.gov/UFO release portal",
    "short": "war.gov/UFO release portal",
+   "status": null,
+   "tier": "C"
+  },
+  {
+   "A": 2,
+   "C": 1,
+   "D": 2,
+   "band": null,
+   "claims": [
+    0,
+    2,
+    1
+   ],
+   "cls": "event",
+   "cluster": "witness",
+   "dateEnd": "1972",
+   "dateStart": "1965-08-01",
+   "deg": 1,
+   "era": "0",
+   "hl": null,
+   "id": "warren-1965",
+   "l0": false,
+   "label": "F. E. Warren AFB sightings, 1 August 1965",
+   "short": "F. E. Warren AFB sightings, 1 August 1965",
    "status": null,
    "tier": "C"
   },
@@ -27050,6 +27842,30 @@
    "tier": "A"
   },
   {
+   "A": 2,
+   "C": 1,
+   "D": 1,
+   "band": null,
+   "claims": [
+    4,
+    0,
+    0
+   ],
+   "cls": "event",
+   "cluster": "legacy",
+   "dateEnd": "1979-01-18",
+   "dateStart": "1975-10-30",
+   "deg": 3,
+   "era": "1",
+   "hl": null,
+   "id": "wurtsmith-1975",
+   "l0": false,
+   "label": "Wurtsmith AFB incursion, 30 October 1975",
+   "short": "Wurtsmith AFB incursion, 30 October 1975",
+   "status": null,
+   "tier": "C"
+  },
+  {
    "A": 0,
    "C": 0,
    "D": 0,
@@ -27170,5 +27986,5 @@
    "tier": "C"
   }
  ],
- "source": "cc2cd2991e89"
+ "source": "e58ddbfec800"
 }

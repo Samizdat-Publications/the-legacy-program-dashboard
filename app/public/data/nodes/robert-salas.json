@@ -64,9 +64,39 @@
 "tier": 2
 },
 {
-"source": "ufohastings.com document archive, item af_teletype_1967-03-17_loss_of_strategic_alert — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
-"text": "An Air Force teletype dated 17 March 1967 reporting loss of strategic alert at Malmstrom AFB is published in facsimile in the UFOs & Nukes document archive under the heading 'Malmstrom AFB, March 16, 1967 (Echo Flight shutdown)'.",
+"source": "Full-text search of the 14 June 2001 FOIA release, https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf , opened 2026-09-19",
+"text": "The event Salas places himself at is NOT the event the released Air Force paper documents. A full-text search of the 88 released pages of the 341st Strategic Missile Wing histories returns zero occurrences of 'Oscar', zero of 'O Flight', zero of '24 Mar' and zero of '25 Mar'. The release documents Echo Flight on 16 March 1967 and nothing else in March 1967.",
+"tier": 1
+},
+{
+"source": "341st SMW history, Jan-Mar 1967, p 32, https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf , opened 2026-09-19",
+"text": "On one disputed point the same document supports him against his critics. The history states that all launch facilities in Echo Flight lost strategic alert nearly simultaneously, which supports a figure of ten and not the three or four attributed to Capt. Eric D. Carlson.",
+"tier": 1
+},
+{
+"source": "Robert Hastings, 'The Echo and Oscar Flight Incidents', https://www.ufohastings.com/articles/the-echo-and-oscar-flight-incidents , opened 2026-09-19",
+"text": "Robert Hastings now places the Oscar Flight incident on 24 March 1967, eight days after Echo Flight, on Capt. Robert Jamison's information, and states that Salas agrees the two incidents probably occurred on separate days. For years the Oscar Flight account was told as part of the 16 March event, which allowed Echo Flight's documentation to be read as corroborating it.",
 "tier": 2
+},
+{
+"source": "Kevin Randle, 'Robert Salas and Me', 19 May 2013, http://kevinrandle.blogspot.com/2013/05/robert-salas-and-me.html , opened 2026-09-19",
+"text": "Kevin Randle records Salas revising the number of missiles involved in conversation, quoting Salas saying 'Split the difference and I said eight' and noting that Salas later claimed all ten, and records a discrepancy between Salas, who gives all, and Col. Frederick Meiwald, who gives four or five.",
+"tier": 2
+},
+{
+"source": "Derived by this board from the register in research/leads/verified-nuclear-witnesses-2026-09-19.md, which lists every nuclear-facility witness found in the 19 September 2026 pass together with the route by which each account reached the public",
+"text": "A POINT THE POPULAR VERSION GETS WRONG AND THIS BOARD SHOULD STATE. Salas has never claimed to have seen anything himself. His account is of a telephone call taken in a launch control capsule from a topside security policeman. That is not a defect in his account, it is the most a launch officer sealed sixty feet underground could possibly witness, but the board should say it rather than let a reader infer a sighting.",
+"tier": 3
+},
+{
+"source": "Derived by this board from the register in research/leads/verified-nuclear-witnesses-2026-09-19.md, which lists every nuclear-facility witness found in the 19 September 2026 pass together with the route by which each account reached the public",
+"text": "SECTION 2a PROVENANCE. Salas is the origin of this strand rather than a recruit to it. He approached the Great Falls Tribune himself in 1996 and located his own former commander, Frederick Meiwald, in the summer of that year. That is a materially different provenance from the four men whose accounts reach the public only through an interviewer, and the board records the difference explicitly.",
+"tier": 3
+},
+{
+"source": "ufohastings.com document archive, item af_teletype_1967-03-17_loss_of_strategic_alert",
+"text": "An Air Force teletype dated 17 March 1967 reporting loss of strategic alert at Malmstrom AFB is published in facsimile in the UFOs & Nukes document archive under the heading 'Malmstrom AFB, March 16, 1967 (Echo Flight shutdown)'.",
+"tier": 1
 },
 {
 "source": "Salas, Great Falls Tribune interview (1996); signed affidavit published by Robert Hastings; 'Faded Giant' (2005)",
@@ -85,11 +115,32 @@
 }
 ],
 "cls": "person",
-"cluster": "witness",
+"cluster": "other",
 "conflicts": [
 "A later investigation attributes the loss of power and the visual report to a nearby test of an electromagnetic pulse simulator. James Carlson, son of the Echo Flight commander, has publicly disputed Salas's account. Salas has additionally claimed a 1985 abduction from his home, which is a separate and ungradeable claim and is not relied on here."
 ],
 "connections": [
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2026",
+"dateStart": "2010",
+"direction": "in",
+"edgeLabel": "Sustained published dispute of the Malmstrom account",
+"id": "james-carlson",
+"l0": false,
+"label": "James Carlson",
+"note": "Carlson is the son of Echo Flight's crew commander. His two works were NOT OPENED by this board and his position is reported at one remove.",
+"sources": [
+{
+"date": "2026-09-19",
+"name": "Metabunk, 'UFOs at Nuclear Weapons Sites (Salas, Malmstrom, Eagle Flight) - Skeptical Resources', carrying James Carlson's own titles and positions and the Nalty 1969 quotation. Opened 19 September 2026",
+"url": "https://www.metabunk.org/threads/ufos-at-nuclear-weapons-sites-salas-malmstrom-eagle-flight-skeptical-resources.3284/"
+}
+],
+"tier": "C",
+"type": "denial"
+},
 {
 "claimTier": 2,
 "cls": "event",
@@ -98,7 +149,7 @@
 "direction": "out",
 "edgeLabel": "Principal named witness to the March 1967 shutdown",
 "id": "malmstrom-echo-flight-1967",
-"l0": false,
+"l0": true,
 "label": "Malmstrom AFB missile shutdowns, March 1967",
 "note": "Salas first went on the record in 1996 with the Great Falls Tribune, describing a security police report of a glowing red object over the front gate immediately before his flight's missiles went off alert.",
 "sources": [
@@ -106,6 +157,37 @@
 "date": "2026-08-12",
 "name": "UFOs & Nukes document archive",
 "url": "https://www.ufohastings.com/documents"
+}
+],
+"tier": "A",
+"type": "witness-chain"
+},
+{
+"claimTier": 2,
+"cls": "event",
+"dateEnd": "1996",
+"dateStart": "1967-03-24",
+"direction": "out",
+"edgeLabel": "The originating claimant of the Oscar Flight account",
+"id": "malmstrom-oscar-flight-1967",
+"l0": true,
+"label": "Malmstrom Oscar Flight claim, 24 March 1967",
+"note": "He approached the Great Falls Tribune himself in 1996, which is a different provenance from the four witnesses who reach the public only through an interviewer. He has never claimed to have seen anything himself: his account is of a telephone call taken in a sealed capsule.",
+"sources": [
+{
+"date": "2026-09-19",
+"name": "Robert Hastings, 'The Echo and Oscar Flight Incidents', separating the two events and dating Oscar Flight to 24 March 1967 on Capt. Robert Jamison's information. Opened 19 September 2026",
+"url": "https://www.ufohastings.com/articles/the-echo-and-oscar-flight-incidents"
+},
+{
+"date": "2013-05-19",
+"name": "Kevin Randle, 'A Different Perspective: Robert Salas and Me', 19 May 2013. Opened 19 September 2026",
+"url": "http://kevinrandle.blogspot.com/2013/05/robert-salas-and-me.html"
+},
+{
+"date": "2001-06-14",
+"name": "341st Strategic Missile Wing quarterly histories, 1 January 1967 to 31 March 1968, excerpts released to John Greenewald Jr by Headquarters 341st Space Wing on 14 June 2001 under his FOIA request of 9 May 2001, signed Marty S. Stephens; 88-page PDF on The Black Vault, text extracted and read in full by this session. Opened 19 September 2026",
+"url": "https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf"
 }
 ],
 "tier": "B",
@@ -119,7 +201,7 @@
 "direction": "out",
 "edgeLabel": "Spoke on the record and has a signed affidavit on file",
 "id": "npc-2010-ufos-nukes",
-"l0": false,
+"l0": true,
 "label": "UFO-Nukes Connection press conference, National Press Club, 27 September 2010",
 "note": "Salas is among the named affiants in the UFOs & Nukes archive and spoke at the 2010 event.",
 "sources": [
@@ -134,7 +216,7 @@
 "url": "https://archive.org/details/FullCnnCoverageOfPressConferenceufosAtNuclearWeaponBases"
 }
 ],
-"tier": "C",
+"tier": "B",
 "type": "witness-chain"
 },
 {
@@ -162,9 +244,32 @@
 "date": "2025-01-01",
 "dateEnd": null,
 "dateStart": "2025-01-01",
-"deg": 3,
-"denials": [],
+"deg": 5,
+"denials": [
+{
+"by": {
+"id": "james-carlson",
+"label": "James Carlson"
+},
+"claimTier": 2,
+"denialKind": "directed",
+"label": "Sustained published dispute of the Malmstrom account",
+"note": "Carlson is the son of Echo Flight's crew commander. His two works were NOT OPENED by this board and his position is reported at one remove.",
+"of": {
+"id": "robert-salas",
+"label": "Capt. Robert L. Salas"
+},
+"sources": [
+{
+"date": "2026-09-19",
+"name": "Metabunk, 'UFOs at Nuclear Weapons Sites (Salas, Malmstrom, Eagle Flight) - Skeptical Resources', carrying James Carlson's own titles and positions and the Nalty 1969 quotation. Opened 19 September 2026",
+"url": "https://www.metabunk.org/threads/ufos-at-nuclear-weapons-sites-salas-malmstrom-eagle-flight-skeptical-resources.3284/"
+}
+]
+}
+],
 "domains": [
+"nuclear-witnesses-2026-09-19",
 "w2-retrieval-literature"
 ],
 "dossier": null,
@@ -198,6 +303,31 @@
 "url": "https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL9102178952.mp3?updated=1770679988"
 },
 {
+"date": "2001-06-14",
+"name": "341st Strategic Missile Wing quarterly histories, 1 January 1967 to 31 March 1968, excerpts released to John Greenewald Jr by Headquarters 341st Space Wing on 14 June 2001 under his FOIA request of 9 May 2001, signed Marty S. Stephens; 88-page PDF on The Black Vault, text extracted and read in full by this session. Opened 19 September 2026",
+"url": "https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf"
+},
+{
+"date": "2026-09-19",
+"name": "Robert Hastings, 'The Echo and Oscar Flight Incidents', separating the two events and dating Oscar Flight to 24 March 1967 on Capt. Robert Jamison's information. Opened 19 September 2026",
+"url": "https://www.ufohastings.com/articles/the-echo-and-oscar-flight-incidents"
+},
+{
+"date": "2026-09-19",
+"name": "Metabunk, 'UFOs at Nuclear Weapons Sites (Salas, Malmstrom, Eagle Flight) - Skeptical Resources', carrying James Carlson's own titles and positions and the Nalty 1969 quotation. Opened 19 September 2026",
+"url": "https://www.metabunk.org/threads/ufos-at-nuclear-weapons-sites-salas-malmstrom-eagle-flight-skeptical-resources.3284/"
+},
+{
+"date": "2013-05-19",
+"name": "Kevin Randle, 'A Different Perspective: Robert Salas and Me', 19 May 2013. Opened 19 September 2026",
+"url": "http://kevinrandle.blogspot.com/2013/05/robert-salas-and-me.html"
+},
+{
+"date": "2010-09-27",
+"name": "Robert Hastings, 'The UFOs-Nukes Connection Press Conference', his own account of the 27 September 2010 National Press Club event, with the roster, units and affidavit list. Opened 19 September 2026",
+"url": "https://ufohastings.com/articles/the-ufos-nukes-connection-press-conference"
+},
+{
 "date": "2026-08-12",
 "name": "Robert Salas - Wikipedia",
 "url": "https://en.wikipedia.org/wiki/Robert_Salas"
@@ -215,8 +345,8 @@
 ],
 "status": "active",
 "sub": "USAF Academy graduate; Minuteman missile launch officer, 341st SMW, Malmstrom AFB, March 1967",
-"tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 607 of 1125, score 27). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D3.",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 192 of 1159, score 46). 5 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D3.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": [

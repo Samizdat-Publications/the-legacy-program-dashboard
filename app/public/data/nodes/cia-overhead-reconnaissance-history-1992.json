@@ -62,7 +62,7 @@
 "direction": "out",
 "edgeLabel": "Same History Staff, five years earlier, on the projects the 1997 UFO history rests on",
 "id": "haines-cia-history",
-"l0": true,
+"l0": false,
 "label": "A Die-hard Issue: CIA's Role in the Study of UFOs, 1947-1990",
 "note": "The board's Haines UFO history of 1997 rests on CIA officials who worked on the U-2 and OXCART projects; this is the same History Staff's own history of those projects. Tier 2 because the connection is between two Agency histories and no opened document states it.",
 "sources": [
@@ -149,6 +149,6 @@
 ],
 "sub": "Pedlow and Welzenbach, CIA History Staff, 1992; the release that left the Area 51 references intact",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 326 of 1125, score 37). 3 connections, 1 of them custody/funding/programmatic. Axes C1/A3/D2.",
+"tierRationale": "Re-graded B on a global pass (rank 333 of 1159, score 37). 3 connections, 1 of them custody/funding/programmatic. Axes C1/A3/D2.",
 "timeline": []
 }

@@ -23,6 +23,26 @@
 "source": "341st Space Wing FOIA release of 14 June 2001, full text, https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf",
 "text": "No launch control officer is named anywhere in the eighty-seven page release: the only officer named in the Echo Flight section is 'Capt. Bradshaw in the command post', and the names Figel, Salas and Carlson do not appear.",
 "tier": 1
+},
+{
+"source": "Pages 2 to 4 of the 88-page release, https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf , opened 2026-09-19",
+"text": "THE FULL PROVENANCE CHAIN, WHICH THE NODE SHOULD CARRY. John Greenewald Jr wrote to 341 CS/SCBR at Malmstrom AFB on 9 May 2001 requesting all documents pertaining to a 16 March 1967 incident in which there was a malfunction of missile silos. Headquarters 341st Space Wing replied on 14 June 2001, over the name Marty S. Stephens, stating that it had received the request on 18 May 2001 and was releasing copies of excerpts and supporting documents of the 341st Strategic Missile Wing histories for 1 Jan to 31 Mar 1967, 1 Apr to 30 Jun 1967, 1 Jul to 30 Sep 1967, 1 Oct to 31 Dec 1967 and 1 Jan to 31 Mar 1968, adding: 'We do not have any audio or video tapes, or documents of any personnel injured.' Fees were waived and the requester was referred to NARA.",
+"tier": 1
+},
+{
+"source": "HQ 341st Space Wing letter, 14 June 2001, p 3 of the release, https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf , opened 2026-09-19",
+"text": "THE RELEASE IS EXCERPTS, NOT COMPLETE HISTORIES, AND THAT BOUNDS EVERY ARGUMENT FROM ITS SILENCE. The covering letter's own words are 'Copies of excerpts, as well as supporting documents, of the below listed documents are releasable and are attached.'",
+"tier": 1
+},
+{
+"source": "341st SMW history, Jan-Mar 1967, footnotes 60 to 96, https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf , opened 2026-09-19",
+"text": "The Echo Flight section is footnoted almost entirely to a single classified source, cited repeatedly as: Rpt, (S) 'Report of Engineering Investigation of Echo Flight Incident, Malmstrom AFB, Mont. - 16 Mar 67', by Engineering Investigation Team, 23 Mar 67. The shutdown message is cited as Msg, (S) DM 02752, SAC to 341 SMW, subject 'Loss of Strategic Alert Echo Flight, Malmstrom AFB', 17 Mar 67, Ex 43. NEITHER DOCUMENT IS IN THE RELEASE AND NEITHER HAS BEEN OPENED BY THIS BOARD.",
+"tier": 1
+},
+{
+"source": "Full-text extraction and search of the release, https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf , opened 2026-09-19",
+"text": "Word counts over the whole 88-page release, performed by this board: 'Unidentified Flying Object' appears exactly once, in the sentence recording that the rumours were disproven. 'Oscar' appears zero times. 'O Flight' appears zero times. '24 Mar' and '25 Mar' appear zero times.",
+"tier": 1
 }
 ],
 "cls": "document",
@@ -67,7 +87,7 @@
 "url": "https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf"
 }
 ],
-"tier": "C",
+"tier": "B",
 "type": "geographic"
 },
 {
@@ -78,7 +98,7 @@
 "direction": "out",
 "edgeLabel": "The unit history the event node names as decisive, now opened",
 "id": "malmstrom-echo-flight-1967",
-"l0": false,
+"l0": true,
 "label": "Malmstrom AFB missile shutdowns, March 1967",
 "note": "The unit history is the document the event node names as decisive, and it records the shutdown while stating that the UFO reports around it were disproven.",
 "sources": [
@@ -88,8 +108,29 @@
 "url": "https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf"
 }
 ],
-"tier": "B",
+"tier": "A",
 "type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": "2001-06-14",
+"dateStart": "1967-03-24",
+"direction": "out",
+"edgeLabel": "The release contains zero occurrences of Oscar, O Flight, 24 Mar and 25 Mar",
+"id": "malmstrom-oscar-flight-1967",
+"l0": true,
+"label": "Malmstrom Oscar Flight claim, 24 March 1967",
+"note": "An association denial: the document does not deny the claim, it simply fails to contain it, and that tells against it. BOUNDED: the covering letter says the release is excerpts, not complete histories.",
+"sources": [
+{
+"date": "2001-06-14",
+"name": "341st Strategic Missile Wing quarterly histories, 1 January 1967 to 31 March 1968, excerpts released to John Greenewald Jr by Headquarters 341st Space Wing on 14 June 2001 under his FOIA request of 9 May 2001, signed Marty S. Stephens; 88-page PDF on The Black Vault, text extracted and read in full by this session. Opened 19 September 2026",
+"url": "https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf"
+}
+],
+"tier": "B",
+"type": "denial"
 },
 {
 "claimTier": 1,
@@ -137,11 +178,34 @@
 "coords": null,
 "dateEnd": null,
 "dateStart": "2001-06-14",
-"deg": 5,
-"denials": [],
+"deg": 6,
+"denials": [
+{
+"by": {
+"id": "doc-341-smw-history-1967",
+"label": "341st Strategic Missile Wing histories, 1967-68 (FOIA release, 14 June 2001)"
+},
+"claimTier": 1,
+"denialKind": "association",
+"label": "The release contains zero occurrences of Oscar, O Flight, 24 Mar and 25 Mar",
+"note": "An association denial: the document does not deny the claim, it simply fails to contain it, and that tells against it. BOUNDED: the covering letter says the release is excerpts, not complete histories.",
+"of": {
+"id": "malmstrom-oscar-flight-1967",
+"label": "Malmstrom Oscar Flight claim, 24 March 1967"
+},
+"sources": [
+{
+"date": "2001-06-14",
+"name": "341st Strategic Missile Wing quarterly histories, 1 January 1967 to 31 March 1968, excerpts released to John Greenewald Jr by Headquarters 341st Space Wing on 14 June 2001 under his FOIA request of 9 May 2001, signed Marty S. Stephens; 88-page PDF on The Black Vault, text extracted and read in full by this session. Opened 19 September 2026",
+"url": "https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf"
+}
+]
+}
+],
 "desc": "Excerpts from five quarterly histories of the 341st Strategic Missile Wing, Malmstrom AFB, released to John Greenewald Jr by Headquarters 341st Space Wing on 14 June 2001 and posted by The Black Vault. The January to March 1967 volume carries a section headed 'the investigation of Echo Flight incident and the results' at pages 32 to 40, footnoted throughout to a single classified engineering report of 23 March 1967. The release is the document the board's Malmstrom node names as decisive. It states the shutdown happened and states that the UFO reports around it were disproven, and it names no launch officer on duty.",
 "domains": [
-"dannyjones-2026-09-03"
+"dannyjones-2026-09-03",
+"nuclear-witnesses-2026-09-19"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -165,7 +229,17 @@
 }
 ],
 "sub": "Excerpts from five quarterly 341st Strategic Missile Wing histories, released to John Greenewald Jr by HQ 341st Space Wing on 14 June 2001",
-"tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 327 of 1125, score 37). 5 connections, 2 of them custody/funding/programmatic. Axes C1/A2/D2.",
-"timeline": []
+"tier": "A",
+"tierRationale": "Re-graded A on a global pass (rank 136 of 1159, score 54). 6 connections, 2 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D2.",
+"timeline": [
+{
+"date": "1967-03-23",
+"id": "tl-1967-03-23-echo-flight-engineering-report",
+"label": "The engineering investigation reports it cannot determine a cause",
+"precision": "day",
+"strand": "program",
+"text": "The Engineering Investigation Team's 'Report of Engineering Investigation of Echo Flight Incident, Malmstrom AFB, Mont. - 16 Mar 67', dated 23 March 1967 and classified Secret, is the document the entire Malmstrom controversy turns on. It is footnoted on almost every page of the wing history's Echo Flight section and has never been opened by this board. Through the history it states: 'The investigation teams at Malmstrom, were unable to determine a logical cause for the incident.'",
+"tier": "A"
+}
+]
 }

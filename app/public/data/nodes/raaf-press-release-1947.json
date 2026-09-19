@@ -36,7 +36,7 @@
 "direction": "out",
 "edgeLabel": "The message traffic that would document the release was destroyed",
 "id": "gao-nsiad-95-187",
-"l0": true,
+"l0": false,
 "label": "GAO/NSIAD-95-187 — Results of a Search for Records Concerning the 1947 Crash Near Roswell",
 "note": "RAAF outgoing messages from October 1946 through December 1949 were destroyed with no recorded disposition authority, removing the base's own record of the 8 July 1947 announcement and its retraction.",
 "sources": [
@@ -192,7 +192,7 @@
 ],
 "sub": "Roswell Army Air Field public information office",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 352 of 1125, score 36). 4 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A1/D2.",
+"tierRationale": "Re-graded B on a global pass (rank 359 of 1159, score 36). 4 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A1/D2.",
 "timeline": [
 {
 "date": "1947-07-08",

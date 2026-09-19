@@ -25326,6 +25326,1488 @@ export const PROGRAM_EDGES = [
     ]
   },
   {
+    a: 'l-loring',
+    b: 'strategic-air-command',
+    type: 'institutional',
+    label: 'SAC installation; 42nd Bombardment Wing and its nuclear weapons storage area',
+    claimTier: 1,
+    dateStart: '1975-10-27',
+    dateEnd: '1975-10-31',
+    note: 'The NMCC memorandum records SAC informing NORAD of the penetration and the SAC Command Center reporting back on the failed National Guard search, citing SAC CP OPS CONTROL 291954Z OCT 75.',
+    sources: [
+      {
+        name: 'National Military Command Center, Memorandum for Record, \'AFB Penetration\', 29 October 1975, 0605 EST, signed C. D. Roberts, Jr., Brigadier General, USMC, Deputy Director for Operations, with four DDO updates citing 42 BW CP LORING AFB 291140Z OCT 75; reproduced by NICAP. Opened 19 September 2026',
+        url: 'http://www.nicap.org/reports/751027loring_1-6.htm',
+        date: '1975-10-29'
+      },
+      {
+        name: 'NICAP, \'UFOs Intrude Into SAC Base Weapons Areas, Northern U.S., October-November 1975\', quoting the CINCNORAD four-part message of 11 November 1975 and the Loring teletype to the NMCC. Opened 19 September 2026',
+        url: 'http://www.nicap.org/intsac.htm',
+        date: '1975-11-11'
+      }
+    ]
+  },
+  {
+    a: 'l-wurtsmith',
+    b: 'strategic-air-command',
+    type: 'institutional',
+    label: 'SAC installation; 379th Bombardment Wing',
+    claimTier: 1,
+    dateStart: '1975-10-30',
+    dateEnd: '1979-01-18',
+    note: 'The NORAD log records the object over the SAC weapons storage area; the 379th Bombardment Wing historian\'s 1979 file is the wing\'s own record of the omission.',
+    sources: [
+      {
+        name: 'NICAP, \'Wurtsmith and Others\', citing SSgt Paul J. Cahill\'s Research Record of Events of 17 January 1979, Capt. Myron Taylor\'s Memo for the Record of 18 January 1979, and NORAD, NMCC and Blue Book entries for Minot, Grand Forks, Cannon, Eglin and Fort Ritchie. Opened 19 September 2026',
+        url: 'http://www.nicap.org/articles/CI-Wurtsmith.htm',
+        date: '1979-01-18'
+      },
+      {
+        name: 'NICAP case page, Wurtsmith AFB incursion, 30 October 1975, giving the NORAD Command Director\'s Log entry 31 Oct 75/0445Z. Opened 19 September 2026',
+        url: 'https://www.nicap.org/babylon/751030_wurtsmith.htm',
+        date: '1975-10-31'
+      }
+    ]
+  },
+  {
+    a: 'l-minot',
+    b: 'strategic-air-command',
+    type: 'institutional',
+    label: 'SAC installation; 91st Strategic Missile Wing and 5th Bomb Wing',
+    claimTier: 1,
+    dateStart: '1966',
+    dateEnd: '1975-11-11',
+    note: 'The 1968 Blue Book file is built on 91st SMW and 862nd Combat Support Group records; CINCNORAD\'s 1975 message names Minot AFB.',
+    sources: [
+      {
+        name: 'minotb52ufo.com, documentation index for the 24 October 1968 Minot AFB case, listing the Blue Book file, Lt Col Werlich\'s Basic Reporting Data, the AF Form 117 questionnaires, the radarscope photographs and the Werlich overlay map. Opened 19 September 2026',
+        url: 'https://minotb52ufo.com/doc.php',
+        date: '1968-11-13'
+      },
+      {
+        name: 'NICAP, \'UFOs Intrude Into SAC Base Weapons Areas, Northern U.S., October-November 1975\', quoting the CINCNORAD four-part message of 11 November 1975 and the Loring teletype to the NMCC. Opened 19 September 2026',
+        url: 'http://www.nicap.org/intsac.htm',
+        date: '1975-11-11'
+      }
+    ]
+  },
+  {
+    a: 'l-ellsworth',
+    b: 'strategic-air-command',
+    type: 'institutional',
+    label: 'SAC installation; 44th Strategic Missile Wing Minuteman field',
+    claimTier: 2,
+    dateStart: '1977-11-18',
+    dateEnd: '1977-11-18',
+    note: 'The unit is as claimed by the two claimants, not as established by any opened Air Force record. No document opened by this board places either man at Ellsworth.',
+    sources: [
+      {
+        name: 'Jesse Michels, video rjUdn6FklAU, published 7 September 2026, runtime 2:47:21, auto-generated captions; timestamped triage at research/leads/michels-rjUdn6FklAU-triage-2026-09-19.md. Opened 19 September 2026',
+        url: 'https://www.youtube.com/watch?v=rjUdn6FklAU',
+        date: '2026-09-07'
+      }
+    ]
+  },
+  {
+    a: 'l-warren',
+    b: 'strategic-air-command',
+    type: 'institutional',
+    label: 'SAC installation; Minuteman field, and the site of the post-Echo-Flight EMP test programme',
+    claimTier: 1,
+    dateStart: '1965-08-01',
+    dateEnd: '1967-10-01',
+    note: 'The 341st SMW history records SAMSO EMP testing at Warren completing all objectives on Delta Flight before moving to the 564th SMS in October 1967.',
+    sources: [
+      {
+        name: '341st Strategic Missile Wing quarterly histories, 1 January 1967 to 31 March 1968, excerpts released to John Greenewald Jr by Headquarters 341st Space Wing on 14 June 2001 under his FOIA request of 9 May 2001, signed Marty S. Stephens; 88-page PDF on The Black Vault, text extracted and read in full by this session. Opened 19 September 2026',
+        url: 'https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf',
+        date: '2001-06-14'
+      },
+      {
+        name: 'rr0.org mirror of Robert Hastings\'s F. E. Warren AFB 1965 material, reproducing the Project Blue Book telephone log of 1 August 1965 kept by Lt. Anspaugh and first published by J. Allen Hynek in \'The UFO Experience\' (1972). Opened 19 September 2026',
+        url: 'https://rr0.org/time/2/0/0/6/02/24/Hastings_UfosightingsAtIcbmSites/Warren_1965/',
+        date: '1965-08-01'
+      }
+    ]
+  },
+  {
+    a: 'l-grand-forks',
+    b: 'strategic-air-command',
+    type: 'institutional',
+    label: 'SAC installation; 321st Strategic Missile Wing',
+    claimTier: 2,
+    dateStart: '1975-11-04',
+    dateEnd: '1975-11-05',
+    note: 'The alert-ramp incident is cited from message traffic this board has not opened in its own text, so the edge is Tier 2.',
+    sources: [
+      {
+        name: 'NICAP, \'Wurtsmith and Others\', citing SSgt Paul J. Cahill\'s Research Record of Events of 17 January 1979, Capt. Myron Taylor\'s Memo for the Record of 18 January 1979, and NORAD, NMCC and Blue Book entries for Minot, Grand Forks, Cannon, Eglin and Fort Ritchie. Opened 19 September 2026',
+        url: 'http://www.nicap.org/articles/CI-Wurtsmith.htm',
+        date: '1979-01-18'
+      }
+    ]
+  },
+  {
+    a: 'l-malmstrom',
+    b: 'strategic-air-command',
+    type: 'institutional',
+    label: 'SAC installation; 341st Strategic Missile Wing',
+    claimTier: 1,
+    dateStart: '1967-03-16',
+    dateEnd: '1975-11-19',
+    note: 'SAC Headquarters called in OOAMA support for the Echo Flight engineering analysis within hours on 16 March 1967; the 1975 NORAD log is largely a record of calls from the 341st Strategic Air Command Post.',
+    sources: [
+      {
+        name: '341st Strategic Missile Wing quarterly histories, 1 January 1967 to 31 March 1968, excerpts released to John Greenewald Jr by Headquarters 341st Space Wing on 14 June 2001 under his FOIA request of 9 May 2001, signed Marty S. Stephens; 88-page PDF on The Black Vault, text extracted and read in full by this session. Opened 19 September 2026',
+        url: 'https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf',
+        date: '2001-06-14'
+      },
+      {
+        name: '24th NORAD Region Senior Directors Log, Malmstrom AFB, Montana, entries 7 to 19 November 1975, released over the signature of Terrence C. James, Colonel, USAF, Director of Administration, page-stamped 450 to 452 of a larger FOIA compilation; OCR text at archive.org. Opened 19 September 2026',
+        url: 'https://archive.org/download/MalmstromAirForceBaseIncident/Malmstrom%20Air%20Force%20Base%20Incident%20%E2%80%93%20March%2016,%201967%20NORAD%20logs_djvu.txt',
+        date: '1975-11-19'
+      }
+    ]
+  },
+  {
+    a: 'strategic-air-command',
+    b: 'usaf',
+    type: 'institutional',
+    label: 'Major command of the United States Air Force, 1946 to 1992',
+    claimTier: 1,
+    dateStart: '1946-03-21',
+    dateEnd: '1992-06-01',
+    note: 'Asserted from the primary records themselves, which route SAC reporting through Air Force channels: the NMCC memorandum\'s distribution includes CSAF, and the 341st SMW history records SAC Headquarters tasking Ogden Air Materiel Area.',
+    sources: [
+      {
+        name: '341st Strategic Missile Wing quarterly histories, 1 January 1967 to 31 March 1968, excerpts released to John Greenewald Jr by Headquarters 341st Space Wing on 14 June 2001 under his FOIA request of 9 May 2001, signed Marty S. Stephens; 88-page PDF on The Black Vault, text extracted and read in full by this session. Opened 19 September 2026',
+        url: 'https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf',
+        date: '2001-06-14'
+      },
+      {
+        name: 'National Military Command Center, Memorandum for Record, \'AFB Penetration\', 29 October 1975, 0605 EST, signed C. D. Roberts, Jr., Brigadier General, USMC, Deputy Director for Operations, with four DDO updates citing 42 BW CP LORING AFB 291140Z OCT 75; reproduced by NICAP. Opened 19 September 2026',
+        url: 'http://www.nicap.org/reports/751027loring_1-6.htm',
+        date: '1975-10-29'
+      }
+    ]
+  },
+  {
+    a: 'loring-1975',
+    b: 'l-loring',
+    type: 'geographic',
+    label: 'The penetrations were of this installation\'s weapons storage area',
+    claimTier: 1,
+    dateStart: '1975-10-27',
+    dateEnd: '1975-10-31',
+    note: 'The NMCC memorandum names Loring AFB, Maine by name in its first numbered paragraph.',
+    sources: [
+      {
+        name: 'National Military Command Center, Memorandum for Record, \'AFB Penetration\', 29 October 1975, 0605 EST, signed C. D. Roberts, Jr., Brigadier General, USMC, Deputy Director for Operations, with four DDO updates citing 42 BW CP LORING AFB 291140Z OCT 75; reproduced by NICAP. Opened 19 September 2026',
+        url: 'http://www.nicap.org/reports/751027loring_1-6.htm',
+        date: '1975-10-29'
+      }
+    ]
+  },
+  {
+    a: 'wurtsmith-1975',
+    b: 'l-wurtsmith',
+    type: 'geographic',
+    label: 'The incursion was over this installation\'s weapons storage area',
+    claimTier: 1,
+    dateStart: '1975-10-30',
+    dateEnd: '1975-10-31',
+    note: 'The NORAD Senior Director\'s Log names Wurtsmith AFB weapons storage area.',
+    sources: [
+      {
+        name: 'NICAP, \'Wurtsmith and Others\', citing SSgt Paul J. Cahill\'s Research Record of Events of 17 January 1979, Capt. Myron Taylor\'s Memo for the Record of 18 January 1979, and NORAD, NMCC and Blue Book entries for Minot, Grand Forks, Cannon, Eglin and Fort Ritchie. Opened 19 September 2026',
+        url: 'http://www.nicap.org/articles/CI-Wurtsmith.htm',
+        date: '1979-01-18'
+      },
+      {
+        name: 'NICAP case page, Wurtsmith AFB incursion, 30 October 1975, giving the NORAD Command Director\'s Log entry 31 Oct 75/0445Z. Opened 19 September 2026',
+        url: 'https://www.nicap.org/babylon/751030_wurtsmith.htm',
+        date: '1975-10-31'
+      }
+    ]
+  },
+  {
+    a: 'malmstrom-1975',
+    b: 'l-malmstrom',
+    type: 'geographic',
+    label: 'Thirteen days of reports from this wing\'s Minuteman launch facilities',
+    claimTier: 1,
+    dateStart: '1975-11-07',
+    dateEnd: '1975-11-19',
+    note: 'The 24th NORAD Region Senior Director\'s Log is kept at Malmstrom and names its missile sites throughout.',
+    sources: [
+      {
+        name: '24th NORAD Region Senior Directors Log, Malmstrom AFB, Montana, entries 7 to 19 November 1975, released over the signature of Terrence C. James, Colonel, USAF, Director of Administration, page-stamped 450 to 452 of a larger FOIA compilation; OCR text at archive.org. Opened 19 September 2026',
+        url: 'https://archive.org/download/MalmstromAirForceBaseIncident/Malmstrom%20Air%20Force%20Base%20Incident%20%E2%80%93%20March%2016,%201967%20NORAD%20logs_djvu.txt',
+        date: '1975-11-19'
+      }
+    ]
+  },
+  {
+    a: 'warren-1965',
+    b: 'l-warren',
+    type: 'geographic',
+    label: 'The 1 August 1965 reports were over this installation\'s Minuteman complex',
+    claimTier: 1,
+    dateStart: '1965-08-01',
+    dateEnd: '1965-08-01',
+    note: 'The Blue Book telephone log names the base commander of F. E. Warren among its callers and names Warren missile sites.',
+    sources: [
+      {
+        name: 'rr0.org mirror of Robert Hastings\'s F. E. Warren AFB 1965 material, reproducing the Project Blue Book telephone log of 1 August 1965 kept by Lt. Anspaugh and first published by J. Allen Hynek in \'The UFO Experience\' (1972). Opened 19 September 2026',
+        url: 'https://rr0.org/time/2/0/0/6/02/24/Hastings_UfosightingsAtIcbmSites/Warren_1965/',
+        date: '1965-08-01'
+      }
+    ]
+  },
+  {
+    a: 'ellsworth-1977',
+    b: 'l-ellsworth',
+    type: 'geographic',
+    label: 'The claim places Launch Facility November-5 in this installation\'s Minuteman field',
+    claimTier: 2,
+    dateStart: '1977-11-18',
+    dateEnd: '1977-11-18',
+    note: 'Tier 2 because the location is as claimed on a dated broadcast, not as established by any Air Force record.',
+    sources: [
+      {
+        name: 'Jesse Michels, video rjUdn6FklAU, published 7 September 2026, runtime 2:47:21, auto-generated captions; timestamped triage at research/leads/michels-rjUdn6FklAU-triage-2026-09-19.md. Opened 19 September 2026',
+        url: 'https://www.youtube.com/watch?v=rjUdn6FklAU',
+        date: '2026-09-07'
+      }
+    ]
+  },
+  {
+    a: 'malmstrom-oscar-flight-1967',
+    b: 'l-malmstrom',
+    type: 'geographic',
+    label: 'The claimed Oscar Flight capsule is in this wing\'s field',
+    claimTier: 2,
+    dateStart: '1967-03-24',
+    dateEnd: '1967-03-24',
+    note: 'Tier 2: the claim places it here, and the released unit history for this wing does not mention Oscar Flight at all.',
+    sources: [
+      {
+        name: 'Robert Hastings, \'The Echo and Oscar Flight Incidents\', separating the two events and dating Oscar Flight to 24 March 1967 on Capt. Robert Jamison\'s information. Opened 19 September 2026',
+        url: 'https://www.ufohastings.com/articles/the-echo-and-oscar-flight-incidents',
+        date: '2026-09-19'
+      },
+      {
+        name: '341st Strategic Missile Wing quarterly histories, 1 January 1967 to 31 March 1968, excerpts released to John Greenewald Jr by Headquarters 341st Space Wing on 14 June 2001 under his FOIA request of 9 May 2001, signed Marty S. Stephens; 88-page PDF on The Black Vault, text extracted and read in full by this session. Opened 19 September 2026',
+        url: 'https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf',
+        date: '2001-06-14'
+      }
+    ]
+  },
+  {
+    a: 'malmstrom-echo-flight-1967',
+    b: 'l-malmstrom',
+    type: 'geographic',
+    label: 'The documented shutdown was of this wing\'s Echo Flight',
+    claimTier: 1,
+    dateStart: '1967-03-16',
+    dateEnd: '1967-03-16',
+    note: 'The 341st Strategic Missile Wing history records the shutdown at Malmstrom AFB by name.',
+    sources: [
+      {
+        name: '341st Strategic Missile Wing quarterly histories, 1 January 1967 to 31 March 1968, excerpts released to John Greenewald Jr by Headquarters 341st Space Wing on 14 June 2001 under his FOIA request of 9 May 2001, signed Marty S. Stephens; 88-page PDF on The Black Vault, text extracted and read in full by this session. Opened 19 September 2026',
+        url: 'https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf',
+        date: '2001-06-14'
+      }
+    ]
+  },
+  {
+    a: 'minot-1968',
+    b: 'l-minot',
+    type: 'geographic',
+    label: 'The B-52 and missile-field events were at and around this installation',
+    claimTier: 1,
+    dateStart: '1968-10-24',
+    dateEnd: '1968-11-13',
+    note: 'The Blue Book file is built on 91st SMW, 862nd Combat Support Group and 5th Bomb Wing records at Minot AFB.',
+    sources: [
+      {
+        name: 'minotb52ufo.com, documentation index for the 24 October 1968 Minot AFB case, listing the Blue Book file, Lt Col Werlich\'s Basic Reporting Data, the AF Form 117 questionnaires, the radarscope photographs and the Werlich overlay map. Opened 19 September 2026',
+        url: 'https://minotb52ufo.com/doc.php',
+        date: '1968-11-13'
+      }
+    ]
+  },
+  {
+    a: 'minot-1966',
+    b: 'l-minot',
+    type: 'geographic',
+    label: 'The 1966 incursions were over this installation\'s Minuteman launch facilities',
+    claimTier: 1,
+    dateStart: '1966',
+    dateEnd: '1966',
+    note: 'Minot AFB is named in the 1975 CINCNORAD message as one of the installations with a recurring history; the 1966 material is the board\'s existing node.',
+    sources: [
+      {
+        name: 'NICAP, \'UFOs Intrude Into SAC Base Weapons Areas, Northern U.S., October-November 1975\', quoting the CINCNORAD four-part message of 11 November 1975 and the Loring teletype to the NMCC. Opened 19 September 2026',
+        url: 'http://www.nicap.org/intsac.htm',
+        date: '1975-11-11'
+      }
+    ]
+  },
+  {
+    a: 'loring-1975',
+    b: 'sac-overflights-1975',
+    type: 'temporal',
+    label: 'First episode of the October to November 1975 sequence',
+    claimTier: 1,
+    dateStart: '1975-10-27',
+    dateEnd: '1975-11-11',
+    note: 'CINCNORAD\'s message of 11 November 1975 names Loring first among the five installations.',
+    sources: [
+      {
+        name: 'NICAP, \'UFOs Intrude Into SAC Base Weapons Areas, Northern U.S., October-November 1975\', quoting the CINCNORAD four-part message of 11 November 1975 and the Loring teletype to the NMCC. Opened 19 September 2026',
+        url: 'http://www.nicap.org/intsac.htm',
+        date: '1975-11-11'
+      }
+    ]
+  },
+  {
+    a: 'wurtsmith-1975',
+    b: 'sac-overflights-1975',
+    type: 'temporal',
+    label: 'Second episode of the sequence, three days after Loring',
+    claimTier: 1,
+    dateStart: '1975-10-30',
+    dateEnd: '1975-11-11',
+    note: 'CINCNORAD\'s message names Wurtsmith AFB, Michigan among the five installations.',
+    sources: [
+      {
+        name: 'NICAP, \'UFOs Intrude Into SAC Base Weapons Areas, Northern U.S., October-November 1975\', quoting the CINCNORAD four-part message of 11 November 1975 and the Loring teletype to the NMCC. Opened 19 September 2026',
+        url: 'http://www.nicap.org/intsac.htm',
+        date: '1975-11-11'
+      }
+    ]
+  },
+  {
+    a: 'malmstrom-1975',
+    b: 'sac-overflights-1975',
+    type: 'temporal',
+    label: 'Third and longest episode, 7 to 19 November 1975',
+    claimTier: 1,
+    dateStart: '1975-11-07',
+    dateEnd: '1975-11-19',
+    note: 'CINCNORAD\'s message names Malmstrom; the 24th NORAD Region log runs eight days past the message and is marked in the original as ending these incidents.',
+    sources: [
+      {
+        name: '24th NORAD Region Senior Directors Log, Malmstrom AFB, Montana, entries 7 to 19 November 1975, released over the signature of Terrence C. James, Colonel, USAF, Director of Administration, page-stamped 450 to 452 of a larger FOIA compilation; OCR text at archive.org. Opened 19 September 2026',
+        url: 'https://archive.org/download/MalmstromAirForceBaseIncident/Malmstrom%20Air%20Force%20Base%20Incident%20%E2%80%93%20March%2016,%201967%20NORAD%20logs_djvu.txt',
+        date: '1975-11-19'
+      },
+      {
+        name: 'NICAP, \'UFOs Intrude Into SAC Base Weapons Areas, Northern U.S., October-November 1975\', quoting the CINCNORAD four-part message of 11 November 1975 and the Loring teletype to the NMCC. Opened 19 September 2026',
+        url: 'http://www.nicap.org/intsac.htm',
+        date: '1975-11-11'
+      }
+    ]
+  },
+  {
+    a: 'sac-overflights-1975',
+    b: 'l-grand-forks',
+    type: 'geographic',
+    label: 'Grand Forks is in the sequence on separate message traffic, not on the CINCNORAD summary',
+    claimTier: 2,
+    dateStart: '1975-11-04',
+    dateEnd: '1975-11-05',
+    note: 'CINCNORAD\'s four-part message names Loring, Wurtsmith, Malmstrom, Minot and Falconbridge and does NOT name Grand Forks. Its inclusion rests on the 4 and 5 November command post messages, which this board has not opened.',
+    sources: [
+      {
+        name: 'NICAP, \'Wurtsmith and Others\', citing SSgt Paul J. Cahill\'s Research Record of Events of 17 January 1979, Capt. Myron Taylor\'s Memo for the Record of 18 January 1979, and NORAD, NMCC and Blue Book entries for Minot, Grand Forks, Cannon, Eglin and Fort Ritchie. Opened 19 September 2026',
+        url: 'http://www.nicap.org/articles/CI-Wurtsmith.htm',
+        date: '1979-01-18'
+      },
+      {
+        name: 'NICAP, \'UFOs Intrude Into SAC Base Weapons Areas, Northern U.S., October-November 1975\', quoting the CINCNORAD four-part message of 11 November 1975 and the Loring teletype to the NMCC. Opened 19 September 2026',
+        url: 'http://www.nicap.org/intsac.htm',
+        date: '1975-11-11'
+      }
+    ]
+  },
+  {
+    a: 'sac-overflights-1975',
+    b: 'l-minot',
+    type: 'geographic',
+    label: 'Minot is named in the sequence, but two NORAD documents name two different Minot installations',
+    claimTier: 2,
+    dateStart: '1975-11-10',
+    dateEnd: '1975-11-11',
+    note: 'THE DISCREPANCY IS THE POINT OF THIS EDGE. The 24th NORAD Region log of 10 November 1975 says \'Minot Air Force Station\' and \'the radar station\'; CINCNORAD\'s message of 11 November says \'Minot AFB, ND\'. Unresolved. Do not let a degree count on l-minot silently absorb a radar-station entry.',
+    sources: [
+      {
+        name: '24th NORAD Region Senior Directors Log, Malmstrom AFB, Montana, entries 7 to 19 November 1975, released over the signature of Terrence C. James, Colonel, USAF, Director of Administration, page-stamped 450 to 452 of a larger FOIA compilation; OCR text at archive.org. Opened 19 September 2026',
+        url: 'https://archive.org/download/MalmstromAirForceBaseIncident/Malmstrom%20Air%20Force%20Base%20Incident%20%E2%80%93%20March%2016,%201967%20NORAD%20logs_djvu.txt',
+        date: '1975-11-19'
+      },
+      {
+        name: 'NICAP, \'UFOs Intrude Into SAC Base Weapons Areas, Northern U.S., October-November 1975\', quoting the CINCNORAD four-part message of 11 November 1975 and the Loring teletype to the NMCC. Opened 19 September 2026',
+        url: 'http://www.nicap.org/intsac.htm',
+        date: '1975-11-11'
+      }
+    ]
+  },
+  {
+    a: 'doc-nmcc-loring-1975',
+    b: 'loring-1975',
+    type: 'investigative',
+    label: 'The command-level record of the penetration and the failed response',
+    claimTier: 1,
+    dateStart: '1975-10-29',
+    dateEnd: '1975-10-30',
+    note: 'Five numbered paragraphs plus four DDO updates, each citing its source message.',
+    sources: [
+      {
+        name: 'National Military Command Center, Memorandum for Record, \'AFB Penetration\', 29 October 1975, 0605 EST, signed C. D. Roberts, Jr., Brigadier General, USMC, Deputy Director for Operations, with four DDO updates citing 42 BW CP LORING AFB 291140Z OCT 75; reproduced by NICAP. Opened 19 September 2026',
+        url: 'http://www.nicap.org/reports/751027loring_1-6.htm',
+        date: '1975-10-29'
+      }
+    ]
+  },
+  {
+    a: 'doc-nmcc-loring-1975',
+    b: 'l-loring',
+    type: 'geographic',
+    label: 'The memorandum\'s subject is this installation',
+    claimTier: 1,
+    dateStart: '1975-10-29',
+    dateEnd: '1975-10-30',
+    note: 'Subject line \'AFB Penetration\'; Loring AFB Maine named in paragraph 1.',
+    sources: [
+      {
+        name: 'National Military Command Center, Memorandum for Record, \'AFB Penetration\', 29 October 1975, 0605 EST, signed C. D. Roberts, Jr., Brigadier General, USMC, Deputy Director for Operations, with four DDO updates citing 42 BW CP LORING AFB 291140Z OCT 75; reproduced by NICAP. Opened 19 September 2026',
+        url: 'http://www.nicap.org/reports/751027loring_1-6.htm',
+        date: '1975-10-29'
+      }
+    ]
+  },
+  {
+    a: 'doc-norad-24th-log-1975',
+    b: 'malmstrom-1975',
+    type: 'investigative',
+    label: 'The log IS the event\'s record; there is no separate report',
+    claimTier: 1,
+    dateStart: '1975-11-07',
+    dateEnd: '1975-11-19',
+    note: 'A continuous operational log kept by air defence controllers, released over a USAF colonel\'s signature.',
+    sources: [
+      {
+        name: '24th NORAD Region Senior Directors Log, Malmstrom AFB, Montana, entries 7 to 19 November 1975, released over the signature of Terrence C. James, Colonel, USAF, Director of Administration, page-stamped 450 to 452 of a larger FOIA compilation; OCR text at archive.org. Opened 19 September 2026',
+        url: 'https://archive.org/download/MalmstromAirForceBaseIncident/Malmstrom%20Air%20Force%20Base%20Incident%20%E2%80%93%20March%2016,%201967%20NORAD%20logs_djvu.txt',
+        date: '1975-11-19'
+      }
+    ]
+  },
+  {
+    a: 'doc-norad-24th-log-1975',
+    b: 'l-malmstrom',
+    type: 'geographic',
+    label: 'The log is the 24th NORAD Region\'s at Malmstrom AFB',
+    claimTier: 1,
+    dateStart: '1975-11-07',
+    dateEnd: '1975-11-19',
+    note: 'Its own heading reads \'24th NORAD Region Senior Directors Log (Malmstrom AFB, Montana)\'.',
+    sources: [
+      {
+        name: '24th NORAD Region Senior Directors Log, Malmstrom AFB, Montana, entries 7 to 19 November 1975, released over the signature of Terrence C. James, Colonel, USAF, Director of Administration, page-stamped 450 to 452 of a larger FOIA compilation; OCR text at archive.org. Opened 19 September 2026',
+        url: 'https://archive.org/download/MalmstromAirForceBaseIncident/Malmstrom%20Air%20Force%20Base%20Incident%20%E2%80%93%20March%2016,%201967%20NORAD%20logs_djvu.txt',
+        date: '1975-11-19'
+      }
+    ]
+  },
+  {
+    a: 'doc-norad-24th-log-1975',
+    b: 'l-minot',
+    type: 'geographic',
+    label: 'Its 10 November entry reports a sighting at Minot Air Force Station, not Minot AFB',
+    claimTier: 1,
+    dateStart: '1975-11-10',
+    dateEnd: '1975-11-10',
+    note: 'The entry\'s own next clause says the object \'passed over the radar station\'. This edge exists so the ambiguity is visible on the hub rather than assumed away.',
+    sources: [
+      {
+        name: '24th NORAD Region Senior Directors Log, Malmstrom AFB, Montana, entries 7 to 19 November 1975, released over the signature of Terrence C. James, Colonel, USAF, Director of Administration, page-stamped 450 to 452 of a larger FOIA compilation; OCR text at archive.org. Opened 19 September 2026',
+        url: 'https://archive.org/download/MalmstromAirForceBaseIncident/Malmstrom%20Air%20Force%20Base%20Incident%20%E2%80%93%20March%2016,%201967%20NORAD%20logs_djvu.txt',
+        date: '1975-11-19'
+      }
+    ]
+  },
+  {
+    a: 'doc-cincnorad-1975-11-11',
+    b: 'sac-overflights-1975',
+    type: 'investigative',
+    label: 'The command\'s own summary of the sequence, naming five installations',
+    claimTier: 1,
+    dateStart: '1975-11-11',
+    dateEnd: '1975-11-11',
+    note: 'Only excerpts have been opened; the four parts have not been seen in full.',
+    sources: [
+      {
+        name: 'NICAP, \'UFOs Intrude Into SAC Base Weapons Areas, Northern U.S., October-November 1975\', quoting the CINCNORAD four-part message of 11 November 1975 and the Loring teletype to the NMCC. Opened 19 September 2026',
+        url: 'http://www.nicap.org/intsac.htm',
+        date: '1975-11-11'
+      }
+    ]
+  },
+  {
+    a: 'doc-wurtsmith-historian-1979',
+    b: 'wurtsmith-1975',
+    type: 'investigative',
+    label: 'The wing historian\'s file recovering an event his own wing history omitted',
+    claimTier: 1,
+    dateStart: '1979-01-17',
+    dateEnd: '1979-01-18',
+    note: 'Cahill\'s Research Record of Events of 17 January 1979 and Taylor\'s Memo for the Record of 18 January 1979.',
+    sources: [
+      {
+        name: 'NICAP, \'Wurtsmith and Others\', citing SSgt Paul J. Cahill\'s Research Record of Events of 17 January 1979, Capt. Myron Taylor\'s Memo for the Record of 18 January 1979, and NORAD, NMCC and Blue Book entries for Minot, Grand Forks, Cannon, Eglin and Fort Ritchie. Opened 19 September 2026',
+        url: 'http://www.nicap.org/articles/CI-Wurtsmith.htm',
+        date: '1979-01-18'
+      }
+    ]
+  },
+  {
+    a: 'doc-wurtsmith-historian-1979',
+    b: 'l-wurtsmith',
+    type: 'geographic',
+    label: 'Written at Wurtsmith AFB by the 379th Bombardment Wing historian',
+    claimTier: 1,
+    dateStart: '1979-01-17',
+    dateEnd: '1979-01-18',
+    note: 'The wing and the base are named in the documents themselves.',
+    sources: [
+      {
+        name: 'NICAP, \'Wurtsmith and Others\', citing SSgt Paul J. Cahill\'s Research Record of Events of 17 January 1979, Capt. Myron Taylor\'s Memo for the Record of 18 January 1979, and NORAD, NMCC and Blue Book entries for Minot, Grand Forks, Cannon, Eglin and Fort Ritchie. Opened 19 September 2026',
+        url: 'http://www.nicap.org/articles/CI-Wurtsmith.htm',
+        date: '1979-01-18'
+      }
+    ]
+  },
+  {
+    a: 'doc-minot-1968-blue-book',
+    b: 'minot-1968',
+    type: 'investigative',
+    label: 'The Air Force\'s own investigative file on the event',
+    claimTier: 1,
+    dateStart: '1968-10-28',
+    dateEnd: '1968-11-13',
+    note: 'Werlich\'s Basic Reporting Data, the FTD final report, seven AF Form 117 questionnaires, thirteen radarscope photographs and the overlay map.',
+    sources: [
+      {
+        name: 'minotb52ufo.com, documentation index for the 24 October 1968 Minot AFB case, listing the Blue Book file, Lt Col Werlich\'s Basic Reporting Data, the AF Form 117 questionnaires, the radarscope photographs and the Werlich overlay map. Opened 19 September 2026',
+        url: 'https://minotb52ufo.com/doc.php',
+        date: '1968-11-13'
+      }
+    ]
+  },
+  {
+    a: 'doc-minot-1968-blue-book',
+    b: 'project-blue-book',
+    type: 'institutional',
+    label: 'A Project Blue Book case file, evaluated by the Foreign Technology Division',
+    claimTier: 1,
+    dateStart: '1968-10-28',
+    dateEnd: '1968-11-13',
+    note: 'The final case report of 13 November 1968 is the FTD\'s conclusions on the data submitted from Minot.',
+    sources: [
+      {
+        name: 'minotb52ufo.com, documentation index for the 24 October 1968 Minot AFB case, listing the Blue Book file, Lt Col Werlich\'s Basic Reporting Data, the AF Form 117 questionnaires, the radarscope photographs and the Werlich overlay map. Opened 19 September 2026',
+        url: 'https://minotb52ufo.com/doc.php',
+        date: '1968-11-13'
+      }
+    ]
+  },
+  {
+    a: 'kingston-george',
+    b: 'doc-si-big-sur-1993',
+    type: 'research',
+    label: 'Author',
+    claimTier: 1,
+    dateStart: '1993',
+    dateEnd: '1993',
+    note: 'He identifies himself as the project engineer in the article\'s opening line. Type research, not custody: he wrote it, he does not hold custody of anything.',
+    sources: [
+      {
+        name: 'Kingston A. George, \'The Big Sur UFO: An Identified Flying Object\', Skeptical Inquirer Vol. 17, Winter 1993, pp. 180-187; Center for Inquiry PDF, read in full. Opened 19 September 2026',
+        url: 'https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf',
+        date: '1993'
+      }
+    ]
+  },
+  {
+    a: 'norad-northcom',
+    b: 'doc-norad-24th-log-1975',
+    type: 'research',
+    label: 'Produced by the 24th NORAD Region\'s own senior directors',
+    claimTier: 1,
+    dateStart: '1975-11-07',
+    dateEnd: '1975-11-19',
+    note: 'Type research because NORAD produced the document. It does not hold custody of anything on this board, and a custody edge here would weight the node as a programme edge without warrant.',
+    sources: [
+      {
+        name: '24th NORAD Region Senior Directors Log, Malmstrom AFB, Montana, entries 7 to 19 November 1975, released over the signature of Terrence C. James, Colonel, USAF, Director of Administration, page-stamped 450 to 452 of a larger FOIA compilation; OCR text at archive.org. Opened 19 September 2026',
+        url: 'https://archive.org/download/MalmstromAirForceBaseIncident/Malmstrom%20Air%20Force%20Base%20Incident%20%E2%80%93%20March%2016,%201967%20NORAD%20logs_djvu.txt',
+        date: '1975-11-19'
+      }
+    ]
+  },
+  {
+    a: 'norad-northcom',
+    b: 'doc-cincnorad-1975-11-11',
+    type: 'research',
+    label: 'Originated by the Commander-in-Chief, NORAD',
+    claimTier: 1,
+    dateStart: '1975-11-11',
+    dateEnd: '1975-11-11',
+    note: 'Type research: originator of the message, not custodian of anything.',
+    sources: [
+      {
+        name: 'NICAP, \'UFOs Intrude Into SAC Base Weapons Areas, Northern U.S., October-November 1975\', quoting the CINCNORAD four-part message of 11 November 1975 and the Loring teletype to the NMCC. Opened 19 September 2026',
+        url: 'http://www.nicap.org/intsac.htm',
+        date: '1975-11-11'
+      }
+    ]
+  },
+  {
+    a: 'norad-northcom',
+    b: 'sac-overflights-1975',
+    type: 'institutional',
+    label: 'NORAD was the detection and identification authority across the sequence',
+    claimTier: 1,
+    dateStart: '1975-10-28',
+    dateEnd: '1975-11-19',
+    note: 'The NMCC memorandum records NORAD obtaining Canadian authority for pursuit; the CINCNORAD message summarises the sequence; the 24th Region log is the working record.',
+    sources: [
+      {
+        name: 'National Military Command Center, Memorandum for Record, \'AFB Penetration\', 29 October 1975, 0605 EST, signed C. D. Roberts, Jr., Brigadier General, USMC, Deputy Director for Operations, with four DDO updates citing 42 BW CP LORING AFB 291140Z OCT 75; reproduced by NICAP. Opened 19 September 2026',
+        url: 'http://www.nicap.org/reports/751027loring_1-6.htm',
+        date: '1975-10-29'
+      },
+      {
+        name: 'NICAP, \'UFOs Intrude Into SAC Base Weapons Areas, Northern U.S., October-November 1975\', quoting the CINCNORAD four-part message of 11 November 1975 and the Loring teletype to the NMCC. Opened 19 September 2026',
+        url: 'http://www.nicap.org/intsac.htm',
+        date: '1975-11-11'
+      },
+      {
+        name: '24th NORAD Region Senior Directors Log, Malmstrom AFB, Montana, entries 7 to 19 November 1975, released over the signature of Terrence C. James, Colonel, USAF, Director of Administration, page-stamped 450 to 452 of a larger FOIA compilation; OCR text at archive.org. Opened 19 September 2026',
+        url: 'https://archive.org/download/MalmstromAirForceBaseIncident/Malmstrom%20Air%20Force%20Base%20Incident%20%E2%80%93%20March%2016,%201967%20NORAD%20logs_djvu.txt',
+        date: '1975-11-19'
+      }
+    ]
+  },
+  {
+    a: 'walter-figel',
+    b: 'malmstrom-echo-flight-1967',
+    type: 'witness-chain',
+    label: 'Deputy crew commander on duty; the contested Echo Flight radio report',
+    claimTier: 2,
+    dateStart: '1967-03-16',
+    dateEnd: '2010',
+    note: 'HIS ACCOUNT EXISTS ONLY AS ROBERT HASTINGS\'S AUDIO RECORDINGS OF TELEPHONE CALLS IN 2008, 2009 AND 2010. HE DECLINED TO SIGN AN AFFIDAVIT FOR THE 2010 NATIONAL PRESS CLUB EVENT. NO PRE-CONTACT PUBLIC STATEMENT BY HIM HAS BEEN IDENTIFIED. James Carlson states he said the opposite.',
+    sources: [
+      {
+        name: 'The UFO Chronicles, \'The Echo Flight ICBM Incident: Retired USAF Officer Confirms Receiving A UFO Report Just as the Missiles Failed\', republishing Robert Hastings on his taped telephone conversations with Col. Walter Figel. Opened 19 September 2026',
+        url: 'https://www.theufochronicles.com/2011/06/echo-flight-icbm-incident-retired-usaf.html',
+        date: '2011-06-01'
+      },
+      {
+        name: 'Metabunk, \'UFOs at Nuclear Weapons Sites (Salas, Malmstrom, Eagle Flight) - Skeptical Resources\', carrying James Carlson\'s own titles and positions and the Nalty 1969 quotation. Opened 19 September 2026',
+        url: 'https://www.metabunk.org/threads/ufos-at-nuclear-weapons-sites-salas-malmstrom-eagle-flight-skeptical-resources.3284/',
+        date: '2026-09-19'
+      },
+      {
+        name: 'Tim Hebert, \'Echo Flight: The Makings of a UFO Myth: Disproving a UFO Case\'. Opened 19 September 2026',
+        url: 'https://timhebert2.blogspot.com/2011/08/disproving-ufo-case.html',
+        date: '2011-08-01'
+      }
+    ]
+  },
+  {
+    a: 'robert-kaminski',
+    b: 'malmstrom-echo-flight-1967',
+    type: 'witness-chain',
+    label: 'Boeing engineer on the investigation task group',
+    claimTier: 2,
+    dateStart: '1967-03',
+    dateEnd: '1997',
+    note: 'HIS ACCOUNT REACHED THE PUBLIC AS A 1997 LETTER TO RESEARCHER JIM KLOTZ, THIRTY YEARS AFTER THE EVENT. The half of it that says no cause was found is corroborated by the unit history; the half that says the inquiry was stopped with no report filed is contradicted by it.',
+    sources: [
+      {
+        name: 'Metabunk, \'UFOs at Nuclear Weapons Sites (Salas, Malmstrom, Eagle Flight) - Skeptical Resources\', carrying James Carlson\'s own titles and positions and the Nalty 1969 quotation. Opened 19 September 2026',
+        url: 'https://www.metabunk.org/threads/ufos-at-nuclear-weapons-sites-salas-malmstrom-eagle-flight-skeptical-resources.3284/',
+        date: '2026-09-19'
+      },
+      {
+        name: 'Robert Hastings, \'The Echo and Oscar Flight Incidents\', separating the two events and dating Oscar Flight to 24 March 1967 on Capt. Robert Jamison\'s information. Opened 19 September 2026',
+        url: 'https://www.ufohastings.com/articles/the-echo-and-oscar-flight-incidents',
+        date: '2026-09-19'
+      },
+      {
+        name: '341st Strategic Missile Wing quarterly histories, 1 January 1967 to 31 March 1968, excerpts released to John Greenewald Jr by Headquarters 341st Space Wing on 14 June 2001 under his FOIA request of 9 May 2001, signed Marty S. Stephens; 88-page PDF on The Black Vault, text extracted and read in full by this session. Opened 19 September 2026',
+        url: 'https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf',
+        date: '2001-06-14'
+      }
+    ]
+  },
+  {
+    a: 'frederick-meiwald',
+    b: 'malmstrom-oscar-flight-1967',
+    type: 'witness-chain',
+    label: 'Salas\'s crew commander; the 1 October 1996 letter',
+    claimTier: 2,
+    dateStart: '1967-03-24',
+    dateEnd: '2011-05-06',
+    note: 'HE WAS FOUND BY THE CLAIMANT IN SUMMER 1996 AND HIS LETTER IS PUBLISHED BY THE CLAIMANT. NO PRE-CONTACT STATEMENT EXISTS. THE LETTER HAS NOT BEEN OPENED BY THIS BOARD AND TWO INCOMPATIBLE CHARACTERISATIONS OF IT ARE IN CIRCULATION.',
+    sources: [
+      {
+        name: 'Robert Hastings, \'The Echo and Oscar Flight Incidents\', separating the two events and dating Oscar Flight to 24 March 1967 on Capt. Robert Jamison\'s information. Opened 19 September 2026',
+        url: 'https://www.ufohastings.com/articles/the-echo-and-oscar-flight-incidents',
+        date: '2026-09-19'
+      },
+      {
+        name: 'Metabunk, \'UFOs at Nuclear Weapons Sites (Salas, Malmstrom, Eagle Flight) - Skeptical Resources\', carrying James Carlson\'s own titles and positions and the Nalty 1969 quotation. Opened 19 September 2026',
+        url: 'https://www.metabunk.org/threads/ufos-at-nuclear-weapons-sites-salas-malmstrom-eagle-flight-skeptical-resources.3284/',
+        date: '2026-09-19'
+      },
+      {
+        name: 'Kevin Randle, \'A Different Perspective: Robert Salas and Me\', 19 May 2013. Opened 19 September 2026',
+        url: 'http://kevinrandle.blogspot.com/2013/05/robert-salas-and-me.html',
+        date: '2013-05-19'
+      }
+    ]
+  },
+  {
+    a: 'robert-salas',
+    b: 'malmstrom-oscar-flight-1967',
+    type: 'witness-chain',
+    label: 'The originating claimant of the Oscar Flight account',
+    claimTier: 2,
+    dateStart: '1967-03-24',
+    dateEnd: '1996',
+    note: 'He approached the Great Falls Tribune himself in 1996, which is a different provenance from the four witnesses who reach the public only through an interviewer. He has never claimed to have seen anything himself: his account is of a telephone call taken in a sealed capsule.',
+    sources: [
+      {
+        name: 'Robert Hastings, \'The Echo and Oscar Flight Incidents\', separating the two events and dating Oscar Flight to 24 March 1967 on Capt. Robert Jamison\'s information. Opened 19 September 2026',
+        url: 'https://www.ufohastings.com/articles/the-echo-and-oscar-flight-incidents',
+        date: '2026-09-19'
+      },
+      {
+        name: 'Kevin Randle, \'A Different Perspective: Robert Salas and Me\', 19 May 2013. Opened 19 September 2026',
+        url: 'http://kevinrandle.blogspot.com/2013/05/robert-salas-and-me.html',
+        date: '2013-05-19'
+      },
+      {
+        name: '341st Strategic Missile Wing quarterly histories, 1 January 1967 to 31 March 1968, excerpts released to John Greenewald Jr by Headquarters 341st Space Wing on 14 June 2001 under his FOIA request of 9 May 2001, signed Marty S. Stephens; 88-page PDF on The Black Vault, text extracted and read in full by this session. Opened 19 September 2026',
+        url: 'https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf',
+        date: '2001-06-14'
+      }
+    ]
+  },
+  {
+    a: 'robert-jamison',
+    b: 'malmstrom-oscar-flight-1967',
+    type: 'witness-chain',
+    label: 'Retargeting team commander; the source of the 24 March 1967 date',
+    claimTier: 2,
+    dateStart: '1967-03-24',
+    dateEnd: '2010-09-27',
+    note: 'HIS RECOLLECTION IS THE SOLE BASIS FOR THE 24 MARCH 1967 DATE THAT SEPARATES OSCAR FLIGHT FROM ECHO FLIGHT, AND IT REACHED THE PUBLIC THROUGH ROBERT HASTINGS. That separation is what removes Echo Flight\'s Tier 1 documentation from the Oscar Flight claim.',
+    sources: [
+      {
+        name: 'Robert Hastings, \'The Echo and Oscar Flight Incidents\', separating the two events and dating Oscar Flight to 24 March 1967 on Capt. Robert Jamison\'s information. Opened 19 September 2026',
+        url: 'https://www.ufohastings.com/articles/the-echo-and-oscar-flight-incidents',
+        date: '2026-09-19'
+      },
+      {
+        name: 'Robert Hastings, \'The UFOs-Nukes Connection Press Conference\', his own account of the 27 September 2010 National Press Club event, with the roster, units and affidavit list. Opened 19 September 2026',
+        url: 'https://ufohastings.com/articles/the-ufos-nukes-connection-press-conference',
+        date: '2010-09-27'
+      }
+    ]
+  },
+  {
+    a: 'bradford-runyon',
+    b: 'minot-1968',
+    type: 'witness-chain',
+    label: 'B-52H co-pilot, JAG-31, named in the contemporaneous debriefing record',
+    claimTier: 1,
+    dateStart: '1968-10-24',
+    dateEnd: '2000',
+    note: 'Tier 1 for his presence, which is in the Air Force\'s own 1968 file, not in any later interview. HE APPROACHED THE CENTER FOR UFO STUDIES HIMSELF IN 2000. The direction of contact is the opposite of the Malmstrom pattern and is the control case for this cluster.',
+    sources: [
+      {
+        name: 'minotb52ufo.com, documentation index for the 24 October 1968 Minot AFB case, listing the Blue Book file, Lt Col Werlich\'s Basic Reporting Data, the AF Form 117 questionnaires, the radarscope photographs and the Werlich overlay map. Opened 19 September 2026',
+        url: 'https://minotb52ufo.com/doc.php',
+        date: '1968-11-13'
+      }
+    ]
+  },
+  {
+    a: 'mario-woods',
+    b: 'ellsworth-1977',
+    type: 'witness-chain',
+    label: 'The originating claimant, public since 1996',
+    claimTier: 2,
+    dateStart: '1977-11-18',
+    dateEnd: '2026-09-07',
+    note: 'PUBLIC SINCE 1996 UNDER HIS OWN NAME, WITH MORE THAN FORTY CLAIMED MEDIA APPEARANCES IN WHICH HE NAMED MICHAEL JOHNSON ON AIR AND ASKED AUDIENCES TO FIND HIM. That is both why the 2026 reunion was possible and why the two accounts cannot be treated as independent. NO SERVICE RECORD HAS BEEN PRODUCED.',
+    sources: [
+      {
+        name: 'Jesse Michels, video rjUdn6FklAU, published 7 September 2026, runtime 2:47:21, auto-generated captions; timestamped triage at research/leads/michels-rjUdn6FklAU-triage-2026-09-19.md. Opened 19 September 2026',
+        url: 'https://www.youtube.com/watch?v=rjUdn6FklAU',
+        date: '2026-09-07'
+      },
+      {
+        name: 'The Political Saucer, \'The Night at November-5: Two Missile Guards, Nine Lost Hours, and the Nuclear Security Incident the Air Force Never Explained\', 12 September 2026; header read, body paywalled. Opened 19 September 2026',
+        url: 'https://politicalsaucer.substack.com/p/the-night-at-november-5-two-missile',
+        date: '2026-09-12'
+      }
+    ]
+  },
+  {
+    a: 'michael-johnson',
+    b: 'ellsworth-1977',
+    type: 'witness-chain',
+    label: 'The second witness, located by the publishing party in June 2026',
+    claimTier: 2,
+    dateStart: '1977-11-18',
+    dateEnd: '2026-09-07',
+    note: 'LOCATED BY THE PUBLISHING PARTY ON 26 JUNE 2026 FROM A VIEWER\'S FACEBOOK TIP, VIA AN UNNAMED RECRUITER. NO DATED PUBLIC STATEMENT BY HIM ABOUT THIS EVENT EXISTS PRIOR TO THAT CONTACT. ON THE RECORDED CALL HE ANSWERED \'NO\' BEFORE THE ORIGINAL WITNESS NAMED THE UFO, TWICE, AND HE THEN ASSENTED. THE EPISODE\'S OWN LATER RETELLING OF THAT MOMENT CONTRADICTS ITS OWN RECORDING OF IT. The accounts agree on substance and diverge on posture and agency, which reads very differently from verbatim agreement.',
+    sources: [
+      {
+        name: 'Jesse Michels, video rjUdn6FklAU, published 7 September 2026, runtime 2:47:21, auto-generated captions; timestamped triage at research/leads/michels-rjUdn6FklAU-triage-2026-09-19.md. Opened 19 September 2026',
+        url: 'https://www.youtube.com/watch?v=rjUdn6FklAU',
+        date: '2026-09-07'
+      }
+    ]
+  },
+  {
+    a: 'michael-johnson',
+    b: 'mario-woods',
+    type: 'witness-chain',
+    label: 'Reunited on a recorded call on 26 June 2026 after forty-nine years',
+    claimTier: 2,
+    dateStart: '2026-06-26',
+    dateEnd: '2026-09-07',
+    note: 'THIS IS NOT TWO INDEPENDENT WITNESSES MEETING. One man\'s account had been public for thirty years and named the other; the other was found by the party publishing the result and was given the site, the date and the category within ninety seconds of the call beginning.',
+    sources: [
+      {
+        name: 'Jesse Michels, video rjUdn6FklAU, published 7 September 2026, runtime 2:47:21, auto-generated captions; timestamped triage at research/leads/michels-rjUdn6FklAU-triage-2026-09-19.md. Opened 19 September 2026',
+        url: 'https://www.youtube.com/watch?v=rjUdn6FklAU',
+        date: '2026-09-07'
+      }
+    ]
+  },
+  {
+    a: 'florenz-mansmann',
+    b: 'big-sur-1964',
+    type: 'witness-chain',
+    label: 'Major present at the Big Sur site; Jacobs\'s corroborating witness',
+    claimTier: 2,
+    dateStart: '1964-09-22',
+    dateEnd: '1987-05',
+    note: 'Tier 1 for his presence, which is established by the project engineer\'s own published photograph caption, and Tier 2 for what he later wrote to researchers. THE BOARD HAS BEEN ATTRIBUTING HIS LETTERS TO THE WRONG MAN AND THE WRONG EVENT; see research/leads/nuclear-corrections-2026-09-19.json.',
+    sources: [
+      {
+        name: 'Kingston A. George, \'The Big Sur UFO: An Identified Flying Object\', Skeptical Inquirer Vol. 17, Winter 1993, pp. 180-187; Center for Inquiry PDF, read in full. Opened 19 September 2026',
+        url: 'https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf',
+        date: '1993'
+      },
+      {
+        name: 'Wikipedia, \'Big Sur UFO\', opened only to date Florenz Mansmann\'s May 1987 letter to a UFO researcher. Opened 19 September 2026',
+        url: 'https://en.wikipedia.org/wiki/Big_Sur_UFO',
+        date: '2026-09-19'
+      }
+    ]
+  },
+  {
+    a: 'robert-jamison',
+    b: 'npc-2010-ufos-nukes',
+    type: 'witness-chain',
+    label: 'Spoke on the record with a signed affidavit',
+    claimTier: 2,
+    dateStart: '2010-09-27',
+    dateEnd: '2010-09-27',
+    note: 'Named on Hastings\'s own page among the six men said to have executed affidavits.',
+    sources: [
+      {
+        name: 'Robert Hastings, \'The UFOs-Nukes Connection Press Conference\', his own account of the 27 September 2010 National Press Club event, with the roster, units and affidavit list. Opened 19 September 2026',
+        url: 'https://ufohastings.com/articles/the-ufos-nukes-connection-press-conference',
+        date: '2010-09-27'
+      }
+    ]
+  },
+  {
+    a: 'patrick-mcdonough',
+    b: 'npc-2010-ufos-nukes',
+    type: 'witness-chain',
+    label: 'Spoke on the record with a signed affidavit',
+    claimTier: 2,
+    dateStart: '2010-09-27',
+    dateEnd: '2010-09-27',
+    note: 'No dated public statement by him before this event has been identified.',
+    sources: [
+      {
+        name: 'Robert Hastings, \'The UFOs-Nukes Connection Press Conference\', his own account of the 27 September 2010 National Press Club event, with the roster, units and affidavit list. Opened 19 September 2026',
+        url: 'https://ufohastings.com/articles/the-ufos-nukes-connection-press-conference',
+        date: '2010-09-27'
+      }
+    ]
+  },
+  {
+    a: 'dwynne-arneson',
+    b: 'npc-2010-ufos-nukes',
+    type: 'witness-chain',
+    label: 'Spoke on the record with a signed affidavit',
+    claimTier: 2,
+    dateStart: '2010-09-27',
+    dateEnd: '2010-09-27',
+    note: 'No dated public statement by him before this event has been identified.',
+    sources: [
+      {
+        name: 'Robert Hastings, \'The UFOs-Nukes Connection Press Conference\', his own account of the 27 September 2010 National Press Club event, with the roster, units and affidavit list. Opened 19 September 2026',
+        url: 'https://ufohastings.com/articles/the-ufos-nukes-connection-press-conference',
+        date: '2010-09-27'
+      }
+    ]
+  },
+  {
+    a: 'bruce-fenstermacher',
+    b: 'npc-2010-ufos-nukes',
+    type: 'witness-chain',
+    label: 'Spoke on the record with a signed affidavit',
+    claimTier: 2,
+    dateStart: '2010-09-27',
+    dateEnd: '2010-09-27',
+    note: 'No dated public statement by him before this event has been identified.',
+    sources: [
+      {
+        name: 'Robert Hastings, \'The UFOs-Nukes Connection Press Conference\', his own account of the 27 September 2010 National Press Club event, with the roster, units and affidavit list. Opened 19 September 2026',
+        url: 'https://ufohastings.com/articles/the-ufos-nukes-connection-press-conference',
+        date: '2010-09-27'
+      }
+    ]
+  },
+  {
+    a: 'jerry-nelson',
+    b: 'npc-2010-ufos-nukes',
+    type: 'witness-chain',
+    label: 'Spoke on the record; not among the six named affiants on the opened page',
+    claimTier: 2,
+    dateStart: '2010-09-27',
+    dateEnd: '2010-09-27',
+    note: 'Whether he executed an affidavit is not established: the page names six affiants and he is not among them, which may be an omission on the page rather than a fact about him.',
+    sources: [
+      {
+        name: 'Robert Hastings, \'The UFOs-Nukes Connection Press Conference\', his own account of the 27 September 2010 National Press Club event, with the roster, units and affidavit list. Opened 19 September 2026',
+        url: 'https://ufohastings.com/articles/the-ufos-nukes-connection-press-conference',
+        date: '2010-09-27'
+      }
+    ]
+  },
+  {
+    a: 'charles-halt',
+    b: 'npc-2010-ufos-nukes',
+    type: 'witness-chain',
+    label: 'Spoke on the record with a signed affidavit; the one panellist who wrote his own primary document in 1981',
+    claimTier: 2,
+    dateStart: '2010-09-27',
+    dateEnd: '2010-09-27',
+    note: 'His appearance is what places Rendlesham inside the nuclear witness cluster rather than beside it. He is also the one man on the panel whose account reached the record as an official act before any researcher was involved.',
+    sources: [
+      {
+        name: 'Robert Hastings, \'The UFOs-Nukes Connection Press Conference\', his own account of the 27 September 2010 National Press Club event, with the roster, units and affidavit list. Opened 19 September 2026',
+        url: 'https://ufohastings.com/articles/the-ufos-nukes-connection-press-conference',
+        date: '2010-09-27'
+      }
+    ]
+  },
+  {
+    a: 'patrick-mcdonough',
+    b: 'l-warren',
+    type: 'geographic',
+    label: 'Geodetic surveyor based at F. E. Warren, 1962 to 1966',
+    claimTier: 2,
+    dateStart: '1962',
+    dateEnd: '1966',
+    note: 'Base and dates are his own, from his affidavit as published by Hastings; no service record has been opened.',
+    sources: [
+      {
+        name: 'Robert Hastings, \'The UFOs-Nukes Connection Press Conference\', his own account of the 27 September 2010 National Press Club event, with the roster, units and affidavit list. Opened 19 September 2026',
+        url: 'https://ufohastings.com/articles/the-ufos-nukes-connection-press-conference',
+        date: '2010-09-27'
+      }
+    ]
+  },
+  {
+    a: 'bruce-fenstermacher',
+    b: 'l-warren',
+    type: 'geographic',
+    label: 'Missile combat crew commander at F. E. Warren, 1974 to 1977',
+    claimTier: 2,
+    dateStart: '1974',
+    dateEnd: '1977',
+    note: 'Base and dates are his own, from his affidavit as published by Hastings; no service record has been opened.',
+    sources: [
+      {
+        name: 'Robert Hastings, \'The UFOs-Nukes Connection Press Conference\', his own account of the 27 September 2010 National Press Club event, with the roster, units and affidavit list. Opened 19 September 2026',
+        url: 'https://ufohastings.com/articles/the-ufos-nukes-connection-press-conference',
+        date: '2010-09-27'
+      }
+    ]
+  },
+  {
+    a: 'dwynne-arneson',
+    b: 'l-malmstrom',
+    type: 'geographic',
+    label: 'Communications officer, 28th Air Division, Malmstrom, 1967',
+    claimTier: 2,
+    dateStart: '1967',
+    dateEnd: '1967',
+    note: 'Base and dates are his own, from his affidavit as published by Hastings; no service record has been opened.',
+    sources: [
+      {
+        name: 'Robert Hastings, \'The UFOs-Nukes Connection Press Conference\', his own account of the 27 September 2010 National Press Club event, with the roster, units and affidavit list. Opened 19 September 2026',
+        url: 'https://ufohastings.com/articles/the-ufos-nukes-connection-press-conference',
+        date: '2010-09-27'
+      }
+    ]
+  },
+  {
+    a: 'robert-jamison',
+    b: 'l-malmstrom',
+    type: 'geographic',
+    label: 'ICBM combat targeting team commander at Malmstrom, 1965 to 1967',
+    claimTier: 2,
+    dateStart: '1965-01',
+    dateEnd: '1967-10',
+    note: 'Base and dates are his own, from his affidavit as published by Hastings; no service record has been opened.',
+    sources: [
+      {
+        name: 'Robert Hastings, \'The UFOs-Nukes Connection Press Conference\', his own account of the 27 September 2010 National Press Club event, with the roster, units and affidavit list. Opened 19 September 2026',
+        url: 'https://ufohastings.com/articles/the-ufos-nukes-connection-press-conference',
+        date: '2010-09-27'
+      }
+    ]
+  },
+  {
+    a: 'walter-figel',
+    b: 'l-malmstrom',
+    type: 'geographic',
+    label: 'Echo Flight deputy crew commander at Malmstrom',
+    claimTier: 2,
+    dateStart: '1967-03-16',
+    dateEnd: '1967-03-16',
+    note: 'Attested by parties on both sides of the dispute; the released unit history names no launch officer.',
+    sources: [
+      {
+        name: 'The UFO Chronicles, \'The Echo Flight ICBM Incident: Retired USAF Officer Confirms Receiving A UFO Report Just as the Missiles Failed\', republishing Robert Hastings on his taped telephone conversations with Col. Walter Figel. Opened 19 September 2026',
+        url: 'https://www.theufochronicles.com/2011/06/echo-flight-icbm-incident-retired-usaf.html',
+        date: '2011-06-01'
+      },
+      {
+        name: 'Metabunk, \'UFOs at Nuclear Weapons Sites (Salas, Malmstrom, Eagle Flight) - Skeptical Resources\', carrying James Carlson\'s own titles and positions and the Nalty 1969 quotation. Opened 19 September 2026',
+        url: 'https://www.metabunk.org/threads/ufos-at-nuclear-weapons-sites-salas-malmstrom-eagle-flight-skeptical-resources.3284/',
+        date: '2026-09-19'
+      }
+    ]
+  },
+  {
+    a: 'eric-carlson',
+    b: 'l-malmstrom',
+    type: 'geographic',
+    label: 'Echo Flight crew commander at Malmstrom',
+    claimTier: 2,
+    dateStart: '1967-03-16',
+    dateEnd: '1967-03-16',
+    note: 'Attested by his son and by researchers, and not disputed by anyone, but not documented in any opened record.',
+    sources: [
+      {
+        name: 'The UFO Chronicles, \'The Echo Flight ICBM Incident: Retired USAF Officer Confirms Receiving A UFO Report Just as the Missiles Failed\', republishing Robert Hastings on his taped telephone conversations with Col. Walter Figel. Opened 19 September 2026',
+        url: 'https://www.theufochronicles.com/2011/06/echo-flight-icbm-incident-retired-usaf.html',
+        date: '2011-06-01'
+      },
+      {
+        name: 'Metabunk, \'UFOs at Nuclear Weapons Sites (Salas, Malmstrom, Eagle Flight) - Skeptical Resources\', carrying James Carlson\'s own titles and positions and the Nalty 1969 quotation. Opened 19 September 2026',
+        url: 'https://www.metabunk.org/threads/ufos-at-nuclear-weapons-sites-salas-malmstrom-eagle-flight-skeptical-resources.3284/',
+        date: '2026-09-19'
+      }
+    ]
+  },
+  {
+    a: 'frederick-meiwald',
+    b: 'l-malmstrom',
+    type: 'geographic',
+    label: 'Oscar Flight crew commander at Malmstrom',
+    claimTier: 2,
+    dateStart: '1967-03-24',
+    dateEnd: '1967-03-24',
+    note: 'As claimed; no service record has been opened.',
+    sources: [
+      {
+        name: 'Robert Hastings, \'The Echo and Oscar Flight Incidents\', separating the two events and dating Oscar Flight to 24 March 1967 on Capt. Robert Jamison\'s information. Opened 19 September 2026',
+        url: 'https://www.ufohastings.com/articles/the-echo-and-oscar-flight-incidents',
+        date: '2026-09-19'
+      }
+    ]
+  },
+  {
+    a: 'mario-woods',
+    b: 'l-ellsworth',
+    type: 'geographic',
+    label: 'Claimed security policeman, 44th Missile Security Squadron',
+    claimTier: 2,
+    dateStart: '1975',
+    dateEnd: '1983',
+    note: 'Claimed service 1975 to 1983 on the 2026 broadcast. NO SERVICE RECORD HAS BEEN PRODUCED BY ANY PARTY.',
+    sources: [
+      {
+        name: 'Jesse Michels, video rjUdn6FklAU, published 7 September 2026, runtime 2:47:21, auto-generated captions; timestamped triage at research/leads/michels-rjUdn6FklAU-triage-2026-09-19.md. Opened 19 September 2026',
+        url: 'https://www.youtube.com/watch?v=rjUdn6FklAU',
+        date: '2026-09-07'
+      }
+    ]
+  },
+  {
+    a: 'michael-johnson',
+    b: 'l-ellsworth',
+    type: 'geographic',
+    label: 'Claimed security policeman, 44th Missile Security Squadron',
+    claimTier: 2,
+    dateStart: '1975',
+    dateEnd: '1977',
+    note: 'The only pre-contact artefact placing him here is an undated Facebook post naming Ellsworth and the years 1975 to 1977, which says nothing about the event. NO SERVICE RECORD HAS BEEN PRODUCED.',
+    sources: [
+      {
+        name: 'Jesse Michels, video rjUdn6FklAU, published 7 September 2026, runtime 2:47:21, auto-generated captions; timestamped triage at research/leads/michels-rjUdn6FklAU-triage-2026-09-19.md. Opened 19 September 2026',
+        url: 'https://www.youtube.com/watch?v=rjUdn6FklAU',
+        date: '2026-09-07'
+      }
+    ]
+  },
+  {
+    a: 'bradford-runyon',
+    b: 'l-minot',
+    type: 'geographic',
+    label: 'B-52H co-pilot based at Minot AFB',
+    claimTier: 1,
+    dateStart: '1968-10-24',
+    dateEnd: '1968-10-24',
+    note: 'His presence is in the Air Force\'s own 1968 debriefing record.',
+    sources: [
+      {
+        name: 'minotb52ufo.com, documentation index for the 24 October 1968 Minot AFB case, listing the Blue Book file, Lt Col Werlich\'s Basic Reporting Data, the AF Form 117 questionnaires, the radarscope photographs and the Werlich overlay map. Opened 19 September 2026',
+        url: 'https://minotb52ufo.com/doc.php',
+        date: '1968-11-13'
+      }
+    ]
+  },
+  {
+    a: 'robert-hastings',
+    b: 'walter-figel',
+    type: 'research',
+    label: 'Located and recorded him; the account exists only as Hastings\'s tapes',
+    claimTier: 2,
+    dateStart: '2008',
+    dateEnd: '2010',
+    note: 'ONE OF FOUR EDGES THAT FORM THE CIRCULAR-REPORTING CLUSTER IN THIS DOMAIN. Three telephone conversations in 2008, 2009 and 2010, recorded by and held by the interviewer. The recordings have not been published in full at any URL this board has opened.',
+    sources: [
+      {
+        name: 'The UFO Chronicles, \'The Echo Flight ICBM Incident: Retired USAF Officer Confirms Receiving A UFO Report Just as the Missiles Failed\', republishing Robert Hastings on his taped telephone conversations with Col. Walter Figel. Opened 19 September 2026',
+        url: 'https://www.theufochronicles.com/2011/06/echo-flight-icbm-incident-retired-usaf.html',
+        date: '2011-06-01'
+      }
+    ]
+  },
+  {
+    a: 'robert-hastings',
+    b: 'frederick-meiwald',
+    type: 'research',
+    label: 'Recorded him in August 1996 and again on 6 May 2011, and publishes his letter',
+    claimTier: 2,
+    dateStart: '1996-08',
+    dateEnd: '2011-05-06',
+    note: 'ONE OF FOUR EDGES THAT FORM THE CIRCULAR-REPORTING CLUSTER IN THIS DOMAIN. Meiwald was found by Salas, the claimant, and published by Salas and Hastings.',
+    sources: [
+      {
+        name: 'Robert Hastings, \'The Echo and Oscar Flight Incidents\', separating the two events and dating Oscar Flight to 24 March 1967 on Capt. Robert Jamison\'s information. Opened 19 September 2026',
+        url: 'https://www.ufohastings.com/articles/the-echo-and-oscar-flight-incidents',
+        date: '2026-09-19'
+      }
+    ]
+  },
+  {
+    a: 'robert-hastings',
+    b: 'robert-jamison',
+    type: 'research',
+    label: 'Interviewed him; his recollection supplies the 24 March 1967 date',
+    claimTier: 2,
+    dateStart: '2010',
+    dateEnd: '2010-09-27',
+    note: 'ONE OF FOUR EDGES THAT FORM THE CIRCULAR-REPORTING CLUSTER IN THIS DOMAIN, and the most consequential of them: the date that separates Oscar Flight from Echo Flight comes through this edge.',
+    sources: [
+      {
+        name: 'Robert Hastings, \'The Echo and Oscar Flight Incidents\', separating the two events and dating Oscar Flight to 24 March 1967 on Capt. Robert Jamison\'s information. Opened 19 September 2026',
+        url: 'https://www.ufohastings.com/articles/the-echo-and-oscar-flight-incidents',
+        date: '2026-09-19'
+      },
+      {
+        name: 'Robert Hastings, \'The UFOs-Nukes Connection Press Conference\', his own account of the 27 September 2010 National Press Club event, with the roster, units and affidavit list. Opened 19 September 2026',
+        url: 'https://ufohastings.com/articles/the-ufos-nukes-connection-press-conference',
+        date: '2010-09-27'
+      }
+    ]
+  },
+  {
+    a: 'robert-hastings',
+    b: 'robert-kaminski',
+    type: 'research',
+    label: 'Publishes his 1997 letter to Jim Klotz',
+    claimTier: 2,
+    dateStart: '1997',
+    dateEnd: '2011',
+    note: 'ONE OF FOUR EDGES THAT FORM THE CIRCULAR-REPORTING CLUSTER IN THIS DOMAIN. The letter itself was addressed to Klotz, not to Hastings, and has not been opened by this board.',
+    sources: [
+      {
+        name: 'Robert Hastings, \'The Echo and Oscar Flight Incidents\', separating the two events and dating Oscar Flight to 24 March 1967 on Capt. Robert Jamison\'s information. Opened 19 September 2026',
+        url: 'https://www.ufohastings.com/articles/the-echo-and-oscar-flight-incidents',
+        date: '2026-09-19'
+      },
+      {
+        name: 'Metabunk, \'UFOs at Nuclear Weapons Sites (Salas, Malmstrom, Eagle Flight) - Skeptical Resources\', carrying James Carlson\'s own titles and positions and the Nalty 1969 quotation. Opened 19 September 2026',
+        url: 'https://www.metabunk.org/threads/ufos-at-nuclear-weapons-sites-salas-malmstrom-eagle-flight-skeptical-resources.3284/',
+        date: '2026-09-19'
+      }
+    ]
+  },
+  {
+    a: 'robert-hastings',
+    b: 'doc-norad-24th-log-1975',
+    type: 'research',
+    label: 'Republishes the NORAD log; the documentary half of his output checks out',
+    claimTier: 1,
+    dateStart: '1975-11-19',
+    dateEnd: '2026',
+    note: 'THE COUNTERWEIGHT EDGE. Type research rather than custody: he republishes it, he does not hold it. This board opened the log independently and it says what he says it says.',
+    sources: [
+      {
+        name: '24th NORAD Region Senior Directors Log, Malmstrom AFB, Montana, entries 7 to 19 November 1975, released over the signature of Terrence C. James, Colonel, USAF, Director of Administration, page-stamped 450 to 452 of a larger FOIA compilation; OCR text at archive.org. Opened 19 September 2026',
+        url: 'https://archive.org/download/MalmstromAirForceBaseIncident/Malmstrom%20Air%20Force%20Base%20Incident%20%E2%80%93%20March%2016,%201967%20NORAD%20logs_djvu.txt',
+        date: '1975-11-19'
+      },
+      {
+        name: 'rr0.org mirror of Robert Hastings\'s Malmstrom 1975 material, independently rendering the 24th NORAD Region Senior Director\'s Log. Opened 19 September 2026',
+        url: 'https://rr0.org/time/2/0/0/6/02/24/Hastings_UfosightingsAtIcbmSites/Malmstrom_1975/index.html',
+        date: '2026-09-19'
+      }
+    ]
+  },
+  {
+    a: 'robert-hastings',
+    b: 'l-warren',
+    type: 'research',
+    label: 'Publishes the F. E. Warren 1 August 1965 material',
+    claimTier: 2,
+    dateStart: '1965-08-01',
+    dateEnd: '2026',
+    note: 'Type research: he compiles and publishes. The 1965 telephone log itself was first published by J. Allen Hynek in 1972, not by Hastings.',
+    sources: [
+      {
+        name: 'rr0.org mirror of Robert Hastings\'s F. E. Warren AFB 1965 material, reproducing the Project Blue Book telephone log of 1 August 1965 kept by Lt. Anspaugh and first published by J. Allen Hynek in \'The UFO Experience\' (1972). Opened 19 September 2026',
+        url: 'https://rr0.org/time/2/0/0/6/02/24/Hastings_UfosightingsAtIcbmSites/Warren_1965/',
+        date: '1965-08-01'
+      }
+    ]
+  },
+  {
+    a: 'robert-hastings',
+    b: 'malmstrom-oscar-flight-1967',
+    type: 'research',
+    label: 'Separated Oscar Flight from Echo Flight and dated it',
+    claimTier: 2,
+    dateStart: '2010',
+    dateEnd: '2026',
+    note: 'It is Hastings, not a sceptic, who made the separation that both improves the board\'s honesty and removes Echo Flight\'s documentation from the Oscar Flight claim.',
+    sources: [
+      {
+        name: 'Robert Hastings, \'The Echo and Oscar Flight Incidents\', separating the two events and dating Oscar Flight to 24 March 1967 on Capt. Robert Jamison\'s information. Opened 19 September 2026',
+        url: 'https://www.ufohastings.com/articles/the-echo-and-oscar-flight-incidents',
+        date: '2026-09-19'
+      }
+    ]
+  },
+  {
+    a: 'james-carlson',
+    b: 'robert-salas',
+    type: 'denial',
+    label: 'Sustained published dispute of the Malmstrom account',
+    claimTier: 2,
+    dateStart: '2010',
+    dateEnd: '2026',
+    note: 'Carlson is the son of Echo Flight\'s crew commander. His two works were NOT OPENED by this board and his position is reported at one remove.',
+    sources: [
+      {
+        name: 'Metabunk, \'UFOs at Nuclear Weapons Sites (Salas, Malmstrom, Eagle Flight) - Skeptical Resources\', carrying James Carlson\'s own titles and positions and the Nalty 1969 quotation. Opened 19 September 2026',
+        url: 'https://www.metabunk.org/threads/ufos-at-nuclear-weapons-sites-salas-malmstrom-eagle-flight-skeptical-resources.3284/',
+        date: '2026-09-19'
+      }
+    ],
+    denialKind: 'directed',
+    denier: 'james-carlson'
+  },
+  {
+    a: 'james-carlson',
+    b: 'malmstrom-oscar-flight-1967',
+    type: 'denial',
+    label: 'Disputes that any Oscar Flight incident occurred',
+    claimTier: 2,
+    dateStart: '2010',
+    dateEnd: '2026',
+    note: 'He cites SAC UFO officer Col. Lewis D. Chase as finding no equipment failures or sighting on that date. The released unit history is silent, which supports neither man, though its silence is consistent with him.',
+    sources: [
+      {
+        name: 'Metabunk, \'UFOs at Nuclear Weapons Sites (Salas, Malmstrom, Eagle Flight) - Skeptical Resources\', carrying James Carlson\'s own titles and positions and the Nalty 1969 quotation. Opened 19 September 2026',
+        url: 'https://www.metabunk.org/threads/ufos-at-nuclear-weapons-sites-salas-malmstrom-eagle-flight-skeptical-resources.3284/',
+        date: '2026-09-19'
+      },
+      {
+        name: '341st Strategic Missile Wing quarterly histories, 1 January 1967 to 31 March 1968, excerpts released to John Greenewald Jr by Headquarters 341st Space Wing on 14 June 2001 under his FOIA request of 9 May 2001, signed Marty S. Stephens; 88-page PDF on The Black Vault, text extracted and read in full by this session. Opened 19 September 2026',
+        url: 'https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf',
+        date: '2001-06-14'
+      }
+    ],
+    denialKind: 'directed',
+    denier: 'james-carlson'
+  },
+  {
+    a: 'eric-carlson',
+    b: 'malmstrom-echo-flight-1967',
+    type: 'denial',
+    label: 'The on-duty crew commander denies any UFO report reached the capsule',
+    claimTier: 2,
+    dateStart: '1967-03-16',
+    dateEnd: '2011',
+    note: 'A witness for the negative, carried at the same tier as the witnesses for the positive. His account reaches the public through his son, which is structurally the same kind of evidence as the accounts it contradicts.',
+    sources: [
+      {
+        name: 'The UFO Chronicles, \'The Echo Flight ICBM Incident: Retired USAF Officer Confirms Receiving A UFO Report Just as the Missiles Failed\', republishing Robert Hastings on his taped telephone conversations with Col. Walter Figel. Opened 19 September 2026',
+        url: 'https://www.theufochronicles.com/2011/06/echo-flight-icbm-incident-retired-usaf.html',
+        date: '2011-06-01'
+      },
+      {
+        name: 'Tim Hebert, \'Echo Flight: The Makings of a UFO Myth: Disproving a UFO Case\'. Opened 19 September 2026',
+        url: 'https://timhebert2.blogspot.com/2011/08/disproving-ufo-case.html',
+        date: '2011-08-01'
+      }
+    ],
+    denialKind: 'directed',
+    denier: 'eric-carlson'
+  },
+  {
+    a: 'tim-hebert',
+    b: 'malmstrom-echo-flight-1967',
+    type: 'denial',
+    label: 'Published argument from the released paper that no UFO element is supported',
+    claimTier: 2,
+    dateStart: '2011-08',
+    dateEnd: '2012-10',
+    note: 'The most careful sceptical reading opened by this board, and the one whose ECP 1221 claim this board verified independently against the primary document. His argument from the unit history\'s silence has a documented counterexample at Wurtsmith.',
+    sources: [
+      {
+        name: 'Tim Hebert, \'Echo Flight: The Makings of a UFO Myth: Disproving a UFO Case\'. Opened 19 September 2026',
+        url: 'https://timhebert2.blogspot.com/2011/08/disproving-ufo-case.html',
+        date: '2011-08-01'
+      },
+      {
+        name: 'Tim Hebert, \'Engineering Change Proposal 1221: The Air Force\'s Success Against UFO Attacks\'. Opened 19 September 2026',
+        url: 'http://timhebert.blogspot.com/2012/10/engineering-change-proposal-1221-air.html',
+        date: '2012-10-01'
+      }
+    ],
+    denialKind: 'directed',
+    denier: 'tim-hebert'
+  },
+  {
+    a: 'usaf',
+    b: 'malmstrom-echo-flight-1967',
+    type: 'denial',
+    label: 'The Air Force\'s own history states the UFO rumours were disproven',
+    claimTier: 1,
+    dateStart: '1967-03-16',
+    dateEnd: '2001-06-14',
+    note: 'A DIRECTED DENIAL BY THE BODY THAT OWNED THE EVENT, and the only occurrence of the words Unidentified Flying Object in 88 released pages. Quoted in full because each side quotes half: \'Rumors of Unidentified Flying Objects (UFO) around the area of Echo Flight during the time of fault were disproven. A Mobile Strike Team, which had checked all November Flight\'s LFs on the morning of 16 March 67, were questioned and stated that no unusual activity or sightings were observed.\' NOTE WHAT THE EVIDENCE FOR THE DISPROOF IS: a team that had been at NOVEMBER Flight, not Echo Flight. The board records the non-sequitur without inflating it.',
+    sources: [
+      {
+        name: '341st Strategic Missile Wing quarterly histories, 1 January 1967 to 31 March 1968, excerpts released to John Greenewald Jr by Headquarters 341st Space Wing on 14 June 2001 under his FOIA request of 9 May 2001, signed Marty S. Stephens; 88-page PDF on The Black Vault, text extracted and read in full by this session. Opened 19 September 2026',
+        url: 'https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf',
+        date: '2001-06-14'
+      }
+    ],
+    denialKind: 'directed',
+    denier: 'usaf'
+  },
+  {
+    a: 'doc-341-smw-history-1967',
+    b: 'malmstrom-oscar-flight-1967',
+    type: 'denial',
+    label: 'The release contains zero occurrences of Oscar, O Flight, 24 Mar and 25 Mar',
+    claimTier: 1,
+    dateStart: '1967-03-24',
+    dateEnd: '2001-06-14',
+    note: 'An association denial: the document does not deny the claim, it simply fails to contain it, and that tells against it. BOUNDED: the covering letter says the release is excerpts, not complete histories.',
+    sources: [
+      {
+        name: '341st Strategic Missile Wing quarterly histories, 1 January 1967 to 31 March 1968, excerpts released to John Greenewald Jr by Headquarters 341st Space Wing on 14 June 2001 under his FOIA request of 9 May 2001, signed Marty S. Stephens; 88-page PDF on The Black Vault, text extracted and read in full by this session. Opened 19 September 2026',
+        url: 'https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf',
+        date: '2001-06-14'
+      }
+    ],
+    denialKind: 'association'
+  },
+  {
+    a: 'doc-si-big-sur-1993',
+    b: 'big-sur-1964',
+    type: 'denial',
+    label: 'The project engineer\'s published rebuttal of the UFO reading of the event',
+    claimTier: 1,
+    dateStart: '1993',
+    dateEnd: '1993',
+    note: 'A directed denial by a named participant, and the model this board should want: it establishes the witness\'s unit, appointment, presence and debriefing while disputing what was on the film.',
+    sources: [
+      {
+        name: 'Kingston A. George, \'The Big Sur UFO: An Identified Flying Object\', Skeptical Inquirer Vol. 17, Winter 1993, pp. 180-187; Center for Inquiry PDF, read in full. Opened 19 September 2026',
+        url: 'https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf',
+        date: '1993'
+      }
+    ],
+    denialKind: 'directed',
+    denier: 'kingston-george'
+  },
+  {
+    a: 'doc-nmcc-loring-1975',
+    b: 'strategic-air-command',
+    type: 'institutional',
+    label: 'SAC is the reporting chain throughout the memorandum',
+    claimTier: 1,
+    dateStart: '1975-10-29',
+    dateEnd: '1975-10-30',
+    note: 'NORAD was informed by SAC; the SAC Command Center reported the failed search; SAC CP OPS CONTROL 291954Z OCT 75 is cited as a source message.',
+    sources: [
+      {
+        name: 'National Military Command Center, Memorandum for Record, \'AFB Penetration\', 29 October 1975, 0605 EST, signed C. D. Roberts, Jr., Brigadier General, USMC, Deputy Director for Operations, with four DDO updates citing 42 BW CP LORING AFB 291140Z OCT 75; reproduced by NICAP. Opened 19 September 2026',
+        url: 'http://www.nicap.org/reports/751027loring_1-6.htm',
+        date: '1975-10-29'
+      }
+    ]
+  },
+  {
     a: 'salvatore-pais',
     b: 'pais-patent-imrd',
     type: 'programmatic',
