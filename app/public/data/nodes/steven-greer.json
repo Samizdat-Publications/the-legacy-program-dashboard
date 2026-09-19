@@ -129,6 +129,27 @@
 },
 {
 "claimTier": 1,
+"cls": "document",
+"dateEnd": "2001-04",
+"dateStart": "2001-04",
+"direction": "in",
+"edgeLabel": "Named as its director and compiler",
+"id": "disclosure-project-briefing-2001",
+"l0": false,
+"label": "Disclosure Project Briefing Document, April 2001",
+"note": "Prepared by Steven M. Greer MD and Theodore C. Loder III PhD. Greer signs the bracketed editorial notes 'SG'.",
+"sources": [
+{
+"date": "2001-04",
+"name": "Disclosure Project Briefing Document, section 3.8.5",
+"url": "https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt"
+}
+],
+"tier": "C",
+"type": "custody"
+},
+{
+"claimTier": 1,
 "cls": "person",
 "dateEnd": "2001",
 "dateStart": "1993",
@@ -147,6 +168,27 @@
 ],
 "tier": "C",
 "type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "2001-04",
+"dateStart": "2000-12",
+"direction": "in",
+"edgeLabel": "Witness to Greer's compilation; Greer writes the editorial notes around his testimony",
+"id": "mark-mccandlish",
+"l0": false,
+"label": "Mark McCandlish",
+"note": "Greer is the Briefing Document's named compiler and writes the bracketed editorial notes, signed 'SG', that cross-reference the McCandlish testimony to the Lt Col John Williams testimony on Norton AFB.",
+"sources": [
+{
+"date": "2001-04",
+"name": "Disclosure Project Briefing Document, section 3.8.5",
+"url": "https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt"
+}
+],
+"tier": "A",
+"type": "witness-chain"
 },
 {
 "claimTier": 2,
@@ -194,7 +236,7 @@
 "date": "2001-05-09",
 "dateEnd": null,
 "dateStart": "2001-05-09",
-"deg": 5,
+"deg": 7,
 "denials": [],
 "domains": [
 "history-1970s-2000s",
@@ -244,7 +286,7 @@
 "status": "active",
 "sub": "Emergency physician; founder of CSETI (1990) and the Disclosure Project (1993); National Press Club event 9 May 2001",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 705 of 1057, score 22). 5 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 565 of 1066, score 27). 7 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D3.",
 "timeline": [
 {
 "date": "2001-05-09",

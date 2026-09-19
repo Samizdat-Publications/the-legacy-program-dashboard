@@ -1,0 +1,1509 @@
+{
+  "domain": "arv-2026-09-18",
+  "people": [
+    {
+      "id": "mark-mccandlish",
+      "label": "Mark McCandlish",
+      "cls": "person",
+      "status": "dead",
+      "date": "2021-04-13",
+      "age": null,
+      "loc": "Redding, California",
+      "locId": null,
+      "instId": null,
+      "sub": "Aerospace illustrator and conceptual artist; Disclosure Project witness, December 2000; relayer and draughtsman of the claimed Alien Reproduction Vehicle",
+      "cluster": "witness",
+      "tier": "C",
+      "C": 0,
+      "A": 0,
+      "D": 3,
+      "domains": [],
+      "narrative": "Mark McCandlish is the origin point in print of a named craft, and he is not a witness to it. By his own account in the Disclosure Project's April 2001 Briefing Document he works principally as a conceptual artist for defence contractors, he missed the Norton Air Force Base air show of 12 November 1988 because of an illustration deadline, and everything he describes about a hangar holding three hovering saucer-shaped craft was told to him the following week by a friend who was there. He drew it, and the drawing is what propagates. The one contemporaneous document in the thread, an Aviation Week editor's unpublished 1990 interview notes, records the same direction of relay and records the witness disowning part of the drawing. He was declared deceased on 13 April 2021 at his home in Redding, California, of a gunshot wound to the head; the Shasta County coroner ruled suicide on an external examination that expressly declined an internal one. What makes him a node is proximity to the claim, not credibility: he held no office, no clearance is documented anywhere in the opened record, and his whole account is a relay of somebody else's sighting.",
+      "tierRationale": "Node tier C carried from the dossier: proximity to the programme, not credibility. C/A/D were reasoned rather than transcribed, because the dossier proposed a node tier only. Custody proximity 0 and access 0 because no opened record gives him a clearance, an office or any contact with material; disclosure role 3 because his entire documented function is publication, which matches the board's existing treatment of steven-greer, the-black-vault and disclosure-project. Age is null: the coroner's '68 year old male' on 13 April 2021 and the arvp.co.uk '(1957 - 2021)' cannot both be right and no birth record was opened.",
+      "claims": [
+        {
+          "tier": 1,
+          "text": "The Disclosure Project Briefing Document of April 2001 prints, at section 3.8.5 under the heading 'Testimony of Mr. Mark McCandlish, US Air Force / December 2000', his own description of his work: 'I work principally as a conceptual artist. Most of my clients are in the defense industry. I occasionally work directly for the military, but most the time I work for civilian corporations that are defense contractors and build weapons systems and things for the military.'",
+          "source": "Disclosure Project Briefing Document, section 3.8.5, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt , 2001-04"
+        },
+        {
+          "tier": 2,
+          "text": "In the same testimony he lists his clients: 'I've worked for all the major defense contractors: General Dynamics, Lockheed, Northrop, McDonald-Douglas, Boeing, Rockwell International, Honeywell, and Allied Signet Corporation.' No personnel record and no contract record for any of these was opened.",
+          "source": "Disclosure Project Briefing Document, section 3.8.5, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt , 2000-12"
+        },
+        {
+          "tier": 1,
+          "text": "The document's own editorial header describes him, not as an engineer, but as follows: 'Mark McCandlish is an accomplished aerospace illustrator and has worked for many of the top aerospace corporations in the United States.'",
+          "source": "Disclosure Project Briefing Document, section 3.8.5, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt , 2001-04"
+        },
+        {
+          "tier": 1,
+          "text": "Shasta County Sheriff-Coroner case C21-0324, a Verdict of Death (without jury), reads: 'In the matter of the death of Mark Edward McCandlish, a 68 year old male. I, Logan Stonehouse, Chief Deputy Coroner, have inquired into the circumstances of his death and do certify that he was declared deceased on the 13th day of April 2021.' It gives the place of death as '1946 Trumpet Drive, Redding, Shasta County, CA', the cause as 'Gunshot wound of head', other significant conditions as 'None', and manner of death as 'Suicide'.",
+          "source": "Shasta County Sheriff-Coroner, Verdict of Death, case C21-0324, signed 21 June 2021, hosted at https://drive.google.com/file/d/1UNSHXesvWduXFduto_Cqh4LDOCG4gIkX/view , 2021-06-21"
+        },
+        {
+          "tier": 1,
+          "text": "The same verdict records who did the work: 'Phillip Wacker, Deputy Coroner, conducted the investigation and established the identity of the decedent. A postmortem examination was conducted by Dr. Dan Purtzer, M.D., Pathologist.'",
+          "source": "Shasta County Sheriff-Coroner, Verdict of Death, case C21-0324, https://drive.google.com/file/d/1UNSHXesvWduXFduto_Cqh4LDOCG4gIkX/view , 2021-06-21"
+        },
+        {
+          "tier": 1,
+          "text": "The postmortem in that file is a Report of External Examination, dated 04/19/21 at time 0713, whose stated cause of death is: 'The cause of death of this elderly white male is central nervous system damage caused by self-inflicted gunshot wound to the head.' It records an entrance wound '1 cm above the right ear', 1.5 cm in diameter, whose edges 'have powder burns', and an exit wound of 1.5 cm above the left ear.",
+          "source": "Shasta County Sheriff-Coroner, Report of External Examination, case C21-0324, https://drive.google.com/file/d/1UNSHXesvWduXFduto_Cqh4LDOCG4gIkX/view , 2021-04-19"
+        },
+        {
+          "tier": 1,
+          "text": "No internal examination was performed. Page 2 of the same report reads in full: 'Due to the obvious cause of death, internal examination is not performed.'",
+          "source": "Shasta County Sheriff-Coroner, Report of External Examination, case C21-0324, https://drive.google.com/file/d/1UNSHXesvWduXFduto_Cqh4LDOCG4gIkX/view , 2021-04-19"
+        },
+        {
+          "tier": 2,
+          "text": "In his 2001 testimony he dates and sources his own interest: 'In 1967 when I was at Westover Air Force Base, one night before going to bed I saw this light moving across the sky', hovering 'directly over the facility where they kept the nuclear weapons', watched for about ten minutes through a telescope, before it was 'out of sight in just a second or two'.",
+          "source": "Disclosure Project Briefing Document, section 3.8.5, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt , 2000-12"
+        },
+        {
+          "tier": 2,
+          "text": "He states that he missed the Norton air show himself: 'the magazine Popular Science came back again and [told me] they had some really, really crazy deadline for another illustration', so 'I had to beg off on this air show'. His entire account of the exhibit is therefore what Sorensen told him 'the following week, after Brad got back home'.",
+          "source": "Disclosure Project Briefing Document, section 3.8.5, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt , 2000-12"
+        },
+        {
+          "tier": 1,
+          "text": "The Frank Carlucci identification is his own labelled speculation, and the earliest opened document describes a different kind of man. His 2001 testimony gives the host as 'a tall, thin, white-haired man with glasses [and] an Italian-sounding last name', 'already a millionaire in his own right and was in civilian life again after having been either a Secretary of Defense or an Under-Secretary of Defense', followed by 'this fellow whom I speculate was probably Frank Carlucci.' William B. Scott's 1990 interview notes instead record Sorensen describing his host as a man who 'was in the Carter administration, and they wanted him on the Bush team', who 'is a very organized, straightforward, honest, etc. guy. In fact, he's a Democrat, which is not in keeping with the Bush admin. at all', and who 'Runs a business of injection molding and special materials...has about 6 businesses.' Frank Carlucci was the sitting Secretary of Defense on 12 November 1988, so neither 'in civilian life again' nor the injection-moulding businesses fits him on that date.",
+          "source": "Scott interview notes, https://www.arvp.co.uk/wp-content/uploads/2024/12/SORENSEN-1990-INTERVIEW.pdf , 1990-12-11, read against the Disclosure Project Briefing Document section 3.8.5, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt , 2000-12"
+        },
+        {
+          "tier": 2,
+          "text": "UAP Gerb devotes a full episode to the account. The YouTube listing for video id wF07QMm6joE, 'Alien Reproduction Vehicle - the Testimony of Mark McCandlish', channel 'UAP Gerb', was published on 21 October 2024 and runs 01:09:12. Its description opens 'In late 1988, accomplished aerospace illustrator Mark McCandlish came into information that indicated the United States ...'.",
+          "source": "YouTube listing for video wF07QMm6joE, https://www.youtube.com/watch?v=wF07QMm6joE , opened 18 September 2026, published 2024-10-21"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Disclosure Project Briefing Document, full OCR text, section 3.8.5, 'Testimony of Mr. Mark McCandlish, US Air Force / December 2000'",
+          "url": "https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt",
+          "date": "2001-04"
+        },
+        {
+          "name": "Shasta County Sheriff-Coroner, case C21-0324: Verdict of Death (without jury) and Report of External Examination",
+          "url": "https://drive.google.com/file/d/1UNSHXesvWduXFduto_Cqh4LDOCG4gIkX/view",
+          "date": "2021-06-21"
+        },
+        {
+          "name": "William B. Scott, interview notes and 16 page typed transcript on 'Brad', 3 December 1990, scanned PDF hosted by arvp.co.uk",
+          "url": "https://www.arvp.co.uk/wp-content/uploads/2024/12/SORENSEN-1990-INTERVIEW.pdf",
+          "date": "1990-12-11"
+        },
+        {
+          "name": "YouTube listing for 'Alien Reproduction Vehicle - the Testimony of Mark McCandlish', UAP Gerb, video id wF07QMm6joE",
+          "url": "https://www.youtube.com/watch?v=wF07QMm6joE",
+          "date": "2024-10-21"
+        }
+      ],
+      "conflicts": [
+        "The Frank Carlucci identification is contradicted by the earliest opened document. The 1990 Scott notes describe a Carter-administration Democrat running about six injection-moulding and special-materials businesses; Carlucci was the sitting Secretary of Defense on 12 November 1988. The board's existing triage calls the identification 'a researcher's guess at two removes'; the opened record corrects that in one direction and confirms it in another, because the guess is McCandlish's own, published in 2001 in his own voice and labelled as speculation, and only afterwards re-attributed to researchers by later carriers.",
+        "His 2001 testimony adds a claim the 1990 document does not contain: 'Brad said that in this exhibit at Norton Air Force Base, a three star general said that these vehicles were capable of doing light speed or better.' The 1990 document says the opposite about ranks present: 'I did NOT see any stars in there--like generals of any sort. If there had, I would have noticed that.'"
+      ],
+      "unverified": [
+        "That he spoke at the Disclosure Project's National Press Club event on 9 May 2001. research/leads/area52-triage-5.md row A12 proposed that appearance as this lead's anchor. No opened record places him at that podium, his Briefing Document testimony is dated December 2000, and c-span.org returned HTTP 403 to this environment, so whether C-SPAN holds the event is not established either. This is recorded as unverified and is not a claim.",
+        "His birth year. The arvp.co.uk research page, which is unsigned and cites no source, gives '(1957 - 2021)' and calls him 'an American aerospace illustrator, conceptual artist, and researcher'; 1955 also circulates in search results. The coroner gives a '68 year old male' on 13 April 2021, which fits neither cleanly, and no birth record was opened. The node therefore carries no birth year and no age.",
+        "That the IRS was used against him. Recorded in research/leads/area52-corpus-09.md from DEBRIEFED episode 49, 8 August 2025, at 1:56:11 to 1:57:21. No tax record and no court record opened.",
+        "That he had contacted Senator Marco Rubio or the Senate Intelligence Committee about testifying before he died. Recorded in research/leads/dannyjones-corpus-20.md section 4b and in social media posts. No correspondence, committee record or press statement opened.",
+        "That he slept with a pistol under his pillow. Recorded in research/leads/dannyjones-corpus-20.md section 4b. No opened record.",
+        "A 1989 East Germany recovery of a Lockheed craft with superconducting ceramic spheres, attributed to him in research/leads/gerb-corpus-25-35.md file 33 at 00;54;29. It is in neither primary document opened for this lead and no record was opened.",
+        "That Gordon Novel had any part in this thread. Zero hits: no mention in the Scott notes, in the Briefing Document's McCandlish testimony, or on any arvp.co.uk page opened."
+      ]
+    },
+    {
+      "id": "brad-sorensen",
+      "label": "'Brad' Sorensen",
+      "cls": "person",
+      "status": null,
+      "date": "1990-12-03",
+      "age": null,
+      "loc": "Pasadena, California",
+      "locId": null,
+      "instId": null,
+      "sub": "Industrial designer; sole claimed eyewitness to the alleged classified exhibit at Norton AFB on 12 November 1988; interviewed by an Aviation Week editor on 3 December 1990",
+      "cluster": "witness",
+      "tier": "C",
+      "C": 1,
+      "A": 1,
+      "D": 1,
+      "domains": [],
+      "narrative": "Everything substantive on this thread traces to one man, and the earliest document that carries him gives him a first name only. William B. Scott, then senior engineering editor of Aviation Week and Space Technology, interviewed 'Brad' for one paid hour in his Pasadena office on 3 December 1990 and compiled sixteen typed pages from two tapes. The profile there is of a mid-thirties Pasadena Art Center graduate with his own design business and clients including ski and motorcycle manufacturers, who claims a private pilot's licence but, in the interviewer's own note, 'didn't seem to have a lot of knowledge about military aircraft types'. He had refused to talk the previous summer, he told Scott he wished he had never seen the craft, and he disowned part of the drawing McCandlish had made from his description. The surname Sorensen reaches the record through McCandlish, not through this document, and no opened record carries it in the witness's own voice or over his own signature.",
+      "tierRationale": "Node tier C carried from the dossier: the whole account rests on one witness at one remove and he is named in print only by the man who relayed him. C/A/D were reasoned rather than transcribed: custody proximity 1 and access 1 record a CLAIMED presence inside a claimed exhibit and nothing documented; disclosure role 1 because he refused to publish, refused a prior approach, and his account reaches the record through other people. Status is left null rather than 'active': no record of him after 10 December 1990 was opened, and 'active' would assert a fact nothing here supports.",
+      "claims": [
+        {
+          "tier": 1,
+          "text": "Scott's typed notes open: 'NOTES FROM INTERVIEW ON 12-3-90 WITH BRAD' and 'COMPILED 12-11-90; SCOTT/AVWK LANCASTER', and give the interview's terms: 'He agreed to a one-hr. session in his Pasadena office, pointedly telling me that he gets $200/hr. for his time, and one hr. was all he could give me.'",
+          "source": "William B. Scott, interview notes on 'Brad', https://www.arvp.co.uk/wp-content/uploads/2024/12/SORENSEN-1990-INTERVIEW.pdf , transcript p 1, 1990-12-11"
+        },
+        {
+          "tier": 1,
+          "text": "The document profiles him with no surname: 'Brad: A mid-30s designer; grad of Pasadena Art Center, taking engr'g. classes at Cal Tech now to keep up. Is a very successful designer, having clients such as Rossignol(?) skis, Mazda (new RX-7 design, beginning in 86), electric toothbrushes, motorcycle helmets, etc. Has own design business, including prototyping shops.'",
+          "source": "William B. Scott, interview notes on 'Brad', https://www.arvp.co.uk/wp-content/uploads/2024/12/SORENSEN-1990-INTERVIEW.pdf , transcript p 1, 1990-12-11"
+        },
+        {
+          "tier": 1,
+          "text": "The same page records his own assessment of his aviation knowledge and his reluctance: he 'Claims to be a private pilot, but didn't seem to have a lot of knowledge about military aircraft types', and he 'refused to talk with me last summer', preferring to 'let the whole thing drop; it never made me a dime, and has hurt my own business and professional credibility.'",
+          "source": "William B. Scott, interview notes on 'Brad', https://www.arvp.co.uk/wp-content/uploads/2024/12/SORENSEN-1990-INTERVIEW.pdf , transcript p 1, 1990-12-11"
+        },
+        {
+          "tier": 1,
+          "text": "He told Scott on 3 December 1990: 'I wish I hadn't even seen those things; they've been nothing but trouble for me since then.'",
+          "source": "William B. Scott, interview notes on 'Brad', https://www.arvp.co.uk/wp-content/uploads/2024/12/SORENSEN-1990-INTERVIEW.pdf , transcript p 1, 1990-12-03"
+        },
+        {
+          "tier": 1,
+          "text": "The document establishes the direction of the relay: 'Brad is the source of artwork done by Mark McCandlish and featured in AVWK's Oct. 1 issue. Mark had painted the two aircraft from verbal descriptions provided by Brad'.",
+          "source": "William B. Scott, interview notes on 'Brad', https://www.arvp.co.uk/wp-content/uploads/2024/12/SORENSEN-1990-INTERVIEW.pdf , transcript p 1, 1990-12-11"
+        },
+        {
+          "tier": 2,
+          "text": "The name 'Sorensen' reaches the record through McCandlish, not through the primary document. McCandlish's 2001 testimony gives 'a fellow by the name of Brad Sorensen', whom he knew 'in school' and who called him again 'eight years after school'. No opened record carries the surname in the witness's own voice or over his own signature.",
+          "source": "Disclosure Project Briefing Document, section 3.8.5, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt , 2000-12"
+        }
+      ],
+      "sources": [
+        {
+          "name": "William B. Scott, interview notes and 16 page typed transcript on 'Brad', 3 December 1990, scanned PDF hosted by arvp.co.uk",
+          "url": "https://www.arvp.co.uk/wp-content/uploads/2024/12/SORENSEN-1990-INTERVIEW.pdf",
+          "date": "1990-12-11"
+        },
+        {
+          "name": "Disclosure Project Briefing Document, full OCR text, section 3.8.5",
+          "url": "https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt",
+          "date": "2000-12"
+        }
+      ],
+      "unverified": [
+        "That he told UAP Gerb that McCandlish 'died because he could not keep his mouth shut', that he 'protected him until I could not', and that he warned Gerb off. Recorded in research/leads/gerb-corpus-25-35.md file 33 at 00;21;41 and 01;05;39. No record of that exchange was opened.",
+        "That Sen. Alan Cranston and Rep. George E. Brown Jr. were present at the alleged exhibit, and that a male staffer in Rep. Brown's office confirmed it. Recorded in research/leads/gerb-corpus-25-35.md file 33 at 00;00;28, 00;07;35 and 00;25;14. In the 1990 notes the witness says the opposite about his own knowledge of who was there: 'we didn't get in on the introductions of people', 'I did NOT see any stars in there--like generals of any sort', and, asked who put the event on, 'Me too; look, we got there a little late'. No congressional record, letter or statement was opened.",
+        "Any record of him under the surname Sorensen. California business registrations, design-industry press for Rossignol and the Mazda RX-7, and Pasadena Art Center alumni records were not searched from here."
+      ]
+    }
+  ],
+  "entities": [
+    {
+      "id": "arv-fluxliner",
+      "cls": "program",
+      "label": "Alien Reproduction Vehicle (ARV) / Flux Liner",
+      "cluster": "witness",
+      "sub": "Claimed saucer-shaped craft said to have been exhibited at Norton AFB on 12 November 1988; no record of its existence has been opened",
+      "tier": "C",
+      "C": 0,
+      "A": 0,
+      "D": 3,
+      "dateStart": "1988-11-12",
+      "dateEnd": null,
+      "desc": "The Alien Reproduction Vehicle, also called the Flux Liner, is a CLAIMED craft for whose existence no record has been opened, and the board carries it as a claim and not as an object: the entire account descends from one second-hand relay, in which a single man said he saw three such craft in a hangar and an illustrator who was not there drew what that man described. Everything on this node is therefore a description of a claim. Two primary documents carry that description, and they are why the node exists, not evidence that the craft does. The first is William B. Scott's unpublished 1990 interview notes, in which the witness gives the three craft nursery-rhyme names, guesses their diameters and expressly refuses to stand behind the figures, judges the build quality poor, and disowns part of the drawing made from his account. The second is the Disclosure Project's April 2001 Briefing Document, in which the illustrator gives the craft its two names in print and describes a capacitor stack, a central column carrying a secondary coil and a flywheel, forty-eight pie-slice capacitor sections, a Tesla-coil architecture running from two marine batteries at between half a million and a million volts, and a synthetic vision system in place of windows. The claimed lift mechanism is attributed to a Thomas Townsend Brown patent of the late 1950s or early 1960s; the board's own record of both Brown patents is that neither claims anti-gravity. Eric Davis, from inside the classification line, says no such craft exists. Every claimant on this thread runs into this node, which is the point of it.",
+      "tierRationale": "Node tier C: this is the thing claimed about, and nothing opened establishes it as an object. C/A/D were reasoned rather than transcribed, because the node is a session ruling rather than a dossier proposal: custody proximity 0 and access 0 because there is no opened record of custody of, or access to, any article; disclosure role 3 because the node's entire documented footprint is in the disclosure literature. dateStart is the claimed exhibit date, not an establishment date.",
+      "claims": [
+        {
+          "tier": 2,
+          "text": "The April 2001 Briefing Document is the origin in print of the craft's two names, in the illustrator's own words: 'Well, this craft was what they called the Alien Reproduction Vehicle; it was also nicknamed the Flux Liner.'",
+          "source": "Disclosure Project Briefing Document, section 3.8.5, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt , 2000-12"
+        },
+        {
+          "tier": 2,
+          "text": "The 1990 primary document gives the three craft their nursery-rhyme names and the witness's own guessed sizes: 'This was a really interesting craft--there were three of them. When I walked into the room....well, I thought of something stupid--like a nursery rhyme: daddy bear, mommy bear, baby bear. Like they'd been put in a Xerox machine--the same proportions, just diff. sizes. The small one was like 20 ft, the next 60 ft. diameter and the next one,...maybe 120 ft. diam. Just a guess; don't hold me to that.'",
+          "source": "William B. Scott, interview notes on 'Brad', https://www.arvp.co.uk/wp-content/uploads/2024/12/SORENSEN-1990-INTERVIEW.pdf , transcript p 10, 1990-12-03"
+        },
+        {
+          "tier": 1,
+          "text": "THE SIZES HAVE DRIFTED, AND THE DRIFT RUNS ONE WAY, across three opened documents. The 1990 interview notes give 'The small one was like 20 ft, the next 60 ft. diameter and the next one,...maybe 120 ft. diam. Just a guess; don't hold me to that.' The April 2001 Briefing Document gives the smallest as 'about 24 feet in diameter at its widest part, right at the base', the next as '60 feet in diameter at the base', and 'the largest of these vehicles was about 120 to 130 feet in diameter'. The arvp.co.uk FLUX 1988 page, read 18 September 2026, gives 'one with a 130-foot diameter, another with a 60-foot diameter, and a smaller one measuring 24 feet in diameter', with no disclaimer. Each retelling is more precise than the last about a figure the witness explicitly refused to stand behind.",
+          "source": "Scott interview notes transcript p 10, https://www.arvp.co.uk/wp-content/uploads/2024/12/SORENSEN-1990-INTERVIEW.pdf , 1990-12-03; Disclosure Project Briefing Document section 3.8.5, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt , 2000-12; arvp.co.uk FLUX 1988 page, https://www.arvp.co.uk/flux-01/ , read 2026-09-18"
+        },
+        {
+          "tier": 1,
+          "text": "THE WITNESS DISOWNS PART OF THE DRAWING. Shown McCandlish's sketches in December 1990, Sorensen says of the manned vehicle: 'this is probably the farthest from what I saw, and no, I didn't see anything with an intake up above the windows like this', and 'mark extrapolates a bit too much'. Of the saucer drawing he says the opposite: 'you've got a drawing, as accurate as I could get [the round, saucer-looking thing]. This dwg is so GD..accurate that I can't be much more specific than this.'",
+          "source": "William B. Scott, interview notes on 'Brad', https://www.arvp.co.uk/wp-content/uploads/2024/12/SORENSEN-1990-INTERVIEW.pdf , transcript p 10, 1990-12-03"
+        },
+        {
+          "tier": 2,
+          "text": "On the capacitor stack, in the illustrator's own words in the 2001 Briefing Document: around the middle of the vehicle 'a large plastic casting that had this big set of copper coils in it', 'about 18 inches wide at the top, and about 8 to 9 inches thick', with 'maybe 15 to 20 stacked layers of copper coils inside of it'. The bottom disc was 'about 11 or 12 inches thick', containing 'exactly 48 sections like thin slices of pizza pie', each 'full of half-inch-thick copper plates, and each of the 48 sections had 8 copper plates', alternating negative and positive four times.",
+          "source": "Disclosure Project Briefing Document, section 3.8.5, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt , 2000-12"
+        },
+        {
+          "tier": 2,
+          "text": "On the crew compartment and the central column: the visible dome 'was actually the upper half of a big sphere-shaped crew compartment that was in the middle of the vehicle'; 'On the inside of the crew compartment was a big column that ran down through the middle, and there were four ejection seats mounted back-to-back on the upper half of this column. Then, right in the middle of the column, was a large flywheel of some kind.'",
+          "source": "Disclosure Project Briefing Document, section 3.8.5, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt , 2000-12"
+        },
+        {
+          "tier": 2,
+          "text": "On the claimed lift mechanism and its electrical architecture: 'what I was looking at was a huge Tesla coil, which is kind of like an open-air transformer', running off 'two large 24-volt marine-style batteries', stepping up 'through the secondary coil, which is on the column in the middle', with the ability to 'selectively put the voltage on any of these 48 capacitor sections', at 'probably something between, say, half a million and a million volts of electricity'.",
+          "source": "Disclosure Project Briefing Document, section 3.8.5, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt , 2000-12"
+        },
+        {
+          "tier": 2,
+          "text": "On why the craft is described with no windows: a 'synthetic vision system [used] the same kind of technology as the gun slaving system they have in the Apache helicopter', with paired slewing cameras and 'a little screen in front of his helmet', giving 'a perfect 3-D view of the outside, but no windows'.",
+          "source": "Disclosure Project Briefing Document, section 3.8.5, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt , 2000-12"
+        },
+        {
+          "tier": 2,
+          "text": "The account attributes the claimed lift effect to Thomas Townsend Brown. The 2001 testimony describes an experiment by 'Mark Stambough' that floated a plate capacitor at about a million volts 'in accordance with principles that had been described in a patent that was filed back in the late 1950s/early 1960s by a gentleman called Thomas Townsend Brown. Brown and another individual by the name of Dr. Biefield had done this, so this effect became known as the Biefield-Brown effect.' The direction of motion is given as toward the positively charged plate. The board's own record of both candidate patents is that NEITHER claims anti-gravity: US 3,187,206, filed 9 May 1958, opens 'This invention relates to an electrical device for producing thrust by the direct operation of electrical fields', and US 2,949,550, filed 3 July 1957, claims 'Thrust producing apparatus' operating by impressing high voltage between a body and an insulated electrode 'whereby to cause relative movement of an ionizable dielectric medium'. It is the ACCOUNT that reinterprets electrokinetic thrust as levitation.",
+          "source": "Disclosure Project Briefing Document, section 3.8.5, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt , 2000-12, read against the board's existing claims on thomas-townsend-brown for US 3,187,206 and US 2,949,550"
+        },
+        {
+          "tier": 2,
+          "text": "The case against, from inside the classification line. On the Jesse Michels episode published 12 December 2024, video id LnAiNChnuEQ, Eric Davis said that no ARV exists and none has ever been built, that the Northrop Grumman and Area 51 ARV rumours are 'all myth', that they originate with Bob Lazar-type storytellers who 'believe their own bullshit' rather than with deliberate disinformation, and that the CIA 'shut it all down' in 1989. The episode is identified here by video id and not by title: research/leads/michels-corpus-03.md file 04 recorded it as 'CIA Scientist: George Bush Was Briefed on UFOs (ft. Eric Davis)' on the channel 'American Alchemy', and as opened on 18 September 2026 the same video id carries the title 'Eric Davis: A US President Was Briefed on UFOs!' on the channel 'Jesse Michels'. The corpus timestamp 0:36:24 to 0:38:00 falls inside the video's 52:45 runtime.",
+          "source": "Jesse Michels, video id LnAiNChnuEQ, https://www.youtube.com/watch?v=LnAiNChnuEQ , published 2024-12-12, opened 18 September 2026; content recorded at research/leads/michels-corpus-03.md file 04 at 0:36:24 to 0:38:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "William B. Scott, interview notes and 16 page typed transcript on 'Brad', 3 December 1990, scanned PDF hosted by arvp.co.uk",
+          "url": "https://www.arvp.co.uk/wp-content/uploads/2024/12/SORENSEN-1990-INTERVIEW.pdf",
+          "date": "1990-12-11"
+        },
+        {
+          "name": "Disclosure Project Briefing Document, full OCR text, section 3.8.5",
+          "url": "https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt",
+          "date": "2001-04"
+        },
+        {
+          "name": "arvp.co.uk, FLUX 1988 page",
+          "url": "https://www.arvp.co.uk/flux-01/",
+          "date": "2026-09-18"
+        },
+        {
+          "name": "Jesse Michels, video id LnAiNChnuEQ",
+          "url": "https://www.youtube.com/watch?v=LnAiNChnuEQ",
+          "date": "2024-12-12"
+        }
+      ],
+      "conflicts": [
+        "The three size figures do not agree, and the disagreement runs one way: 1990 gives 20 / 60 / 'maybe 120' with the witness's own disclaimer 'Just a guess; don't hold me to that'; 2001 gives 24 / 60 / 'about 120 to 130 feet'; arvp.co.uk in 2024 gives 130 / 60 / 24 with no disclaimer at all.",
+        "The witness limits the artefact the board would otherwise carry as a rendering of his account: in 1990 he says of the manned vehicle 'this is probably the farthest from what I saw' and 'mark extrapolates a bit too much', while endorsing the saucer drawing.",
+        "research/leads/dannyjones-corpus-20.md row D4 gives the three craft as 'Little Bear/Mama Bear/Papa Bear'. The primary document says 'daddy bear, mommy bear, baby bear'."
+      ],
+      "unverified": [
+        "The existence of the craft. No record of any kind establishing it was opened. The node is the claim, not the object.",
+        "The McCandlish ARV cut-away drawing itself, as an image. The Briefing Document's OCR text refers to it, 'a cut-away illustration, pretty much like the one I'll show you in a little bit', but the plate is not in the text layer, and the arvp.co.uk page says of the original 'now that Mark has passed on it's impossible to get hold of'.",
+        "That Steven Greer holds the original McCandlish artwork. The arvp.co.uk page marks this as its own guess: 'I imagine that Steven Greer may have it or at least a copy.'"
+      ]
+    },
+    {
+      "id": "norton-afb-airshow-1988",
+      "cls": "event",
+      "label": "Norton AFB air show, 12 November 1988, and the alleged classified exhibit",
+      "cluster": "witness",
+      "sub": "Documented Air Force open house at which an SR-71A flew; the hangar exhibit alleged on the same date rests on one second-hand chain",
+      "tier": "C",
+      "C": 1,
+      "A": 1,
+      "D": 2,
+      "dateStart": "1988-11-12",
+      "dateEnd": "1988-11-12",
+      "desc": "One date carries two very different things. That an air show was held at Norton Air Force Base on 12 November 1988 is documented independently of the ARV account by a private photographic collection of Blackbird aircraft, whose captions place SR-71A 61-7962 at the base on that day. What is alleged to have happened inside a closed hangar on the same date rests on a single claimed eyewitness, and it is the load-bearing claim of the entire thread: three saucer-shaped craft of the same proportions in different sizes, a second unmanned diamond-shaped craft with 121 ports said to be cylindrical nuclear weapons, black cloth on metal rods dividing the space 'just like a car showroom', and a stated purpose of raising appropriations. The earliest document, taken about two years later, places the account only 'in early Nov. 88'; the exact date and the day of the week come from the 2001 testimony of the man who was not there. The same document records the witness saying he missed the introductions, saw no general officers, and did not know who was running the event.",
+      "tierRationale": "Node tier C carried from the dossier: the air show is documented and trivial, the exhibit is the load-bearing claim and rests on one witness at one remove. The node earns its place as the anchor both primary documents converge on. C/A/D were reasoned: custody proximity 1 and access 1 record a claimed display of claimed articles and a claimed invitation; disclosure role 2 because the alleged event is the subject of publication rather than its vehicle.",
+      "claims": [
+        {
+          "tier": 1,
+          "text": "An air show was held at Norton Air Force Base on 12 November 1988, and an SR-71A flew at it. A private photographic collection of Blackbird aircraft carries a section headed 'Norton Air Force Base Airshow, November 12, 1988' with captions including 'SR-71A 61-7962 at Norton AFB on November 12, 1988' and 'The crew of SR-71A 61-7962 shake hands before departing the November 12, 1988 Norton Air Force Base airshow'. This is the only opened record that dates the air show independently of the ARV account.",
+          "source": "air-and-space.com, Lockheed A-12 / YF-12 / SR-71 Blackbirds collection, https://www.air-and-space.com/Lockheed%20A-12%20YF-12%20SR-71%20Blackbirds.htm , read 2026-09-18, event date 1988-11-12"
+        },
+        {
+          "tier": 1,
+          "text": "The primary interview document places the account only 'in early Nov. 88': 'His account: Was invited to airshow at Norton AFB, Calif., in early Nov. 88; before B-2 rollout, and around pres. election time.' The exact date 12 November 1988 comes from McCandlish's 2001 testimony, not from the 1990 document.",
+          "source": "William B. Scott, interview notes on 'Brad', https://www.arvp.co.uk/wp-content/uploads/2024/12/SORENSEN-1990-INTERVIEW.pdf , transcript p 1, 1990-12-11"
+        },
+        {
+          "tier": 2,
+          "text": "McCandlish's 2001 testimony dates the alleged exhibit precisely and gives the day of the week: Sorensen 'told me how he had seen these three flying saucers in this hangar at Norton Air Force Base on November 12, 1988 - it was a Saturday.'",
+          "source": "Disclosure Project Briefing Document, section 3.8.5, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt , 2000-12"
+        },
+        {
+          "tier": 2,
+          "text": "The 1990 document records the alleged exhibit's claimed purpose in the witness's own words: 'And that's what the whole [meeting] was for--appropriations of billions of dollars to develop new craft.' Asked whether he read it as a fundraising exercise: 'Yes; it was showing prototypes...or just vehicles of all different kinds that they wanted money for. So they were trying to impress us. Needless to say we were impressed!...[group had about 30 or so people who were invited].'",
+          "source": "William B. Scott, interview notes on 'Brad', https://www.arvp.co.uk/wp-content/uploads/2024/12/SORENSEN-1990-INTERVIEW.pdf , transcript p 2, 1990-12-03"
+        },
+        {
+          "tier": 2,
+          "text": "The same document records the staging: 'They sort of staged it in several different rooms. Was one big hangar, but everything was parked so close that the wings would ...be above the others in the hangar', with 'metal rods as separators and hung black cloth on them', and 'It was like a showroom--just like a car showroom--good analogy!'",
+          "source": "William B. Scott, interview notes on 'Brad', https://www.arvp.co.uk/wp-content/uploads/2024/12/SORENSEN-1990-INTERVIEW.pdf , transcript p 4, 1990-12-03"
+        },
+        {
+          "tier": 2,
+          "text": "The witness's own judgement of build quality, in the same passage that gives the sizes: 'They looked poorly built, compared to the other ones. They had been built by scientists who didn't know a hell of a lot about laying up composite materials or whatever' and 'the whole thing was just coated with thick, heavy lead paint. It was brushed on!'",
+          "source": "William B. Scott, interview notes on 'Brad', https://www.arvp.co.uk/wp-content/uploads/2024/12/SORENSEN-1990-INTERVIEW.pdf , transcript p 10, 1990-12-03"
+        },
+        {
+          "tier": 2,
+          "text": "The claimed provenance of the design, in the witness's own words on the same tape: 'They just said that they had come across some hardware ...tried to make contact with these....The [others] didn't want to make contact; they just wanted to deliver the news and leave, OK? But, back in 1947, we had just won the war, we felt pretty damned cavalier and we...attacked, basically, OK? Rather than fighting back, they just tried to destroy their stuff and get away; and they didn't get all of it destroyed.' He continues: 'Also said they couldn't really make those things that they found work. That they had to build their own...that this was built for our consumption, not theirs.' Asked 'so we just looked at theirs and built our own?' he answers 'uh-huh. Based on what was seen. So it was not like a great R&D breakthrough; it was just copying something they had seen, to the best of their abilities.'",
+          "source": "William B. Scott, interview notes on 'Brad', https://www.arvp.co.uk/wp-content/uploads/2024/12/SORENSEN-1990-INTERVIEW.pdf , transcript p 15, 1990-12-03"
+        },
+        {
+          "tier": 2,
+          "text": "On the claimed performance: 'the guy said that with this group of craft that, uh....they'd been everywhere in the universe, and there's no life', and 'Just take it for granted, we've already tested this thing. The speeds on this are seven to eight times the speed of light, and we've been everywhere--and there's nothing out there. We better take care of the earth.' The witness's own framing of the whole event: 'They were PR people--it was a sales thing!'",
+          "source": "William B. Scott, interview notes on 'Brad', https://www.arvp.co.uk/wp-content/uploads/2024/12/SORENSEN-1990-INTERVIEW.pdf , transcript pp 12 and 15, 1990-12-03"
+        },
+        {
+          "tier": 2,
+          "text": "McCandlish's 2001 testimony adds a claim the 1990 document does not contain: 'Brad said that in this exhibit at Norton Air Force Base, a three star general said that these vehicles were capable of doing light speed or better.' The 1990 document says the opposite about ranks present: 'I did NOT see any stars in there--like generals of any sort. If there had, I would have noticed that.'",
+          "source": "Disclosure Project Briefing Document, section 3.8.5, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt , 2000-12, read against Scott interview notes transcript p 2, https://www.arvp.co.uk/wp-content/uploads/2024/12/SORENSEN-1990-INTERVIEW.pdf , 1990-12-03"
+        },
+        {
+          "tier": 2,
+          "text": "The 1990 document also carries a second, non-saucer exhibit in detail: an unmanned diamond or 'elongated football shape' craft, 'maybe 100-110 in length; maybe 60 ft. width', with 121 ports which the briefers said 'were 121 cylindrical nuclear weapons, and that they were similar in design to nuclear howitzer shells', of which 'they already had some flying units of this thing, and they showed some pictures of it.'",
+          "source": "William B. Scott, interview notes on 'Brad', https://www.arvp.co.uk/wp-content/uploads/2024/12/SORENSEN-1990-INTERVIEW.pdf , transcript p 5, 1990-12-03"
+        },
+        {
+          "tier": 2,
+          "text": "The 1990 document describes the briefers as Air Force officers: uniforms in 'Blue; Air Force', 'Colonel, major, something like that'.",
+          "source": "William B. Scott, interview notes on 'Brad', https://www.arvp.co.uk/wp-content/uploads/2024/12/SORENSEN-1990-INTERVIEW.pdf , transcript p 2, 1990-12-03"
+        }
+      ],
+      "sources": [
+        {
+          "name": "air-and-space.com, Lockheed A-12 / YF-12 / SR-71 Blackbirds collection, section 'Norton Air Force Base Airshow, November 12, 1988'",
+          "url": "https://www.air-and-space.com/Lockheed%20A-12%20YF-12%20SR-71%20Blackbirds.htm",
+          "date": "2026-09-18"
+        },
+        {
+          "name": "William B. Scott, interview notes and 16 page typed transcript on 'Brad', 3 December 1990",
+          "url": "https://www.arvp.co.uk/wp-content/uploads/2024/12/SORENSEN-1990-INTERVIEW.pdf",
+          "date": "1990-12-11"
+        },
+        {
+          "name": "Disclosure Project Briefing Document, full OCR text, section 3.8.5",
+          "url": "https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt",
+          "date": "2000-12"
+        }
+      ],
+      "unverified": [
+        "That any named congressman was present or confirmed the exhibit. research/leads/gerb-corpus-25-35.md file 33 records Sen. Alan Cranston and Rep. George E. Brown Jr. being named as present, and a male staffer in Rep. Brown's office allegedly confirming it. No congressional record, letter or statement was opened, and the 1990 notes have the witness saying he missed the introductions and did not know who was running the event.",
+        "The 1988 Norton AFB open house programme and the 63rd Military Airlift Wing history for 1988 were not opened, so who was invited, what was on static display, and whether any hangar was closed to the public are not established."
+      ]
+    },
+    {
+      "id": "l-norton-afb",
+      "cls": "location",
+      "label": "Norton Air Force Base, San Bernardino, California",
+      "cluster": "legacy",
+      "sub": "Former USAF base on the eastern fringe of San Bernardino; named by two witnesses in one 2001 document as holding a compartmented facility",
+      "tier": "C",
+      "C": 1,
+      "A": 1,
+      "D": 1,
+      "dateStart": null,
+      "dateEnd": null,
+      "desc": "The board has carried no Norton node, and two witnesses inside one opened document name the base independently of each other: McCandlish, relaying a hangar exhibit on 12 November 1988, and Lt Col John Williams, who says he was responsible for the base's facilities in 1981 to 1982 and knew of an area he was never allowed into. The compiler of that document then cross-references the two to each other, which is an assertion by the compiler and not corroboration. The 1990 primary document adds one small, unprompted detail about the base itself, offered as an excuse for a host's lateness rather than as testimony.",
+      "tierRationale": "Node tier C carried from the dossier. C/A/D were reasoned: custody proximity 1 and access 1 record only what two witnesses claim about a compartmented area, with no facility record opened; disclosure role 1 because the base itself plays no publishing role. No establishment or closure dates were opened, so dateStart and dateEnd are left null rather than guessed.",
+      "claims": [
+        {
+          "tier": 2,
+          "text": "McCandlish describes the base and the hangar: Norton 'used to be an active Air Force base right on the eastern fringe of San Bernardino in Southern California', and the hangar 'on the base it was called The Big Hangar. It looks like four giant Quonset hut style hangars that are all connected in the middle, with shops and work areas out around the edges, and there is sort of a divider in the middle.'",
+          "source": "Disclosure Project Briefing Document, section 3.8.5, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt , 2000-12"
+        },
+        {
+          "tier": 2,
+          "text": "A separate witness in the same document, Lt Col John Williams, who says he 'was in charge of all the construction projects for the Military Air Command' and 'was responsible for that base's facilities from 1981-82', states he knew of a facility at Norton 'that no one was to know about' and that he 'was never allowed in that area'.",
+          "source": "Disclosure Project Briefing Document, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt , 2000-09"
+        },
+        {
+          "tier": 1,
+          "text": "The witness who claims to have been inside on 12 November 1988 volunteered the base's size unprompted, as an excuse for his host's lateness: 'He probably didn't know how large Norton AFB was! It's a big place! You can walk and walk and walk and only be halfway there.'",
+          "source": "William B. Scott, interview notes on 'Brad', https://www.arvp.co.uk/wp-content/uploads/2024/12/SORENSEN-1990-INTERVIEW.pdf , transcript p 15, 1990-12-03"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Disclosure Project Briefing Document, full OCR text, sections 3.8.5 and the Williams testimony",
+          "url": "https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt",
+          "date": "2001-04"
+        },
+        {
+          "name": "William B. Scott, interview notes and 16 page typed transcript on 'Brad', 3 December 1990",
+          "url": "https://www.arvp.co.uk/wp-content/uploads/2024/12/SORENSEN-1990-INTERVIEW.pdf",
+          "date": "1990-12-03"
+        }
+      ]
+    },
+    {
+      "id": "scott-sorensen-notes-1990",
+      "cls": "document",
+      "label": "William B. Scott's interview notes on 'Brad', 3 December 1990",
+      "cluster": "media",
+      "sub": "31 scanned pages: handwritten notes on Aviation Week & Space Technology letterhead plus a 16 page typed transcript; never published",
+      "tier": "B",
+      "C": 0,
+      "A": 0,
+      "D": 2,
+      "dateStart": "1990-08-13",
+      "dateEnd": "1990-12-11",
+      "desc": "This is the strongest artefact in the whole thread and it cuts both ways. It is a contemporaneous working file authored by a named trade-press editor within two years of the claimed event: thirty-one scanned pages, opening with handwritten notes on Aviation Week & Space Technology letterhead over the name block 'William B. Scott / Senior Engineering Editor', followed by a sixteen page typed transcript headed 'NOTES FROM INTERVIEW ON 12-3-90 WITH BRAD' and 'COMPILED 12-11-90; SCOTT/AVWK LANCASTER'. It carries the claim in the witness's own words, and it carries the interviewer's own doubts in the same pages: a bracketed note that the witness 'continued to confuse' frequency and wavelength, and a note written while driving away that the witness had twice mentioned his $200 an hour rate and had offered a rendering for 'a couple thousand dollars'. Nothing in the thirty-one pages is a published article. Aviation Week printed McCandlish's artwork, not this interview. The scan reached the public through an anonymously operated website in December 2024 and its custody before that date is not established by anything in it.",
+      "tierRationale": "Node tier B carried from the dossier: a contemporaneous primary document authored by a named trade-press editor within two years of the claimed event, now opened in full. C/A/D were reasoned: custody proximity 0 and access 0 because the document is a journalist's working file and not a programme record; disclosure role 2 because it was never published and reached the public only through a third party thirty-four years later.",
+      "claims": [
+        {
+          "tier": 1,
+          "text": "The document is 31 scanned pages in one PDF. Its first pages are handwritten notes printed on Aviation Week & Space Technology letterhead over the name block 'William B. Scott / Senior Engineering Editor', with a McGraw-Hill logo in the lower right. One such sheet is headed, circled, 'Mark - 8/13/90'.",
+          "source": "https://www.arvp.co.uk/wp-content/uploads/2024/12/SORENSEN-1990-INTERVIEW.pdf , pages 1 to 2 of the scan, 1990-08-13"
+        },
+        {
+          "tier": 1,
+          "text": "Its core is a 16 page typed transcript, hand-numbered 1 to 16 at the top right, headed 'NOTES FROM INTERVIEW ON 12-3-90 WITH BRAD' and 'COMPILED 12-11-90; SCOTT/AVWK LANCASTER'. Internal markers show it was taped: '[end side A of tape 1]', 'Side B/tape 1', '[end of tape 1, side b]', '[tape 2,side a]'.",
+          "source": "https://www.arvp.co.uk/wp-content/uploads/2024/12/SORENSEN-1990-INTERVIEW.pdf , transcript pp 1 and 5, 1990-12-11"
+        },
+        {
+          "tier": 1,
+          "text": "Page 16 carries a handwritten addendum in the same hand: 'As of 12/10/90 - additional info from Brad', followed by notes on a diamond-shaped aircraft slowing to subsonic speeds to dispense weapons. The interview was therefore followed up before the notes were compiled.",
+          "source": "https://www.arvp.co.uk/wp-content/uploads/2024/12/SORENSEN-1990-INTERVIEW.pdf , transcript p 16, 1990-12-10"
+        },
+        {
+          "tier": 1,
+          "text": "The interviewer records his own reservations inside the document. Of the propulsion explanation: '[note: think he's talking frequency here, not wavelength, but he continued to confuse the two; also, long antenna hardly consistent with detecting extremely hi freq, if that's really what he meant.]' Of the witness's terms, in notes written 'after leaving meeting, while driving': 'He reminded me a couple of times that he gets $200/hr. as a designer. So, who knows--he may charge us. he also said if we wanted a good rendering of the base burning vehicle, he could provide that for a couple thousand dollars.'",
+          "source": "https://www.arvp.co.uk/wp-content/uploads/2024/12/SORENSEN-1990-INTERVIEW.pdf , transcript pp 11 and 16, 1990-12-11"
+        },
+        {
+          "tier": 1,
+          "text": "The document contains the witness disowning part of McCandlish's drawing. Shown the sketches, Sorensen says of the manned vehicle: 'this is probably the farthest from what I saw, and no, I didn't see anything with an intake up above the windows like this', and 'mark extrapolates a bit too much'. Of the saucer drawing he says the opposite: 'you've got a drawing, as accurate as I could get [the round, saucer-looking thing]. This dwg is so GD..accurate that I can't be much more specific than this.'",
+          "source": "https://www.arvp.co.uk/wp-content/uploads/2024/12/SORENSEN-1990-INTERVIEW.pdf , transcript p 10, 1990-12-03"
+        },
+        {
+          "tier": 1,
+          "text": "The document is a working file, not a publication. Nothing in the 31 pages is a published article, and the notes state that the witness had previously refused to talk and that the artwork, not the interview, was what Aviation Week printed.",
+          "source": "https://www.arvp.co.uk/wp-content/uploads/2024/12/SORENSEN-1990-INTERVIEW.pdf , transcript p 1, 1990-12-11"
+        },
+        {
+          "tier": 3,
+          "text": "The scan's provenance before December 2024 is not established by anything in it. The PDF's own metadata gives /CreationDate 'D:20241017132510' and /Producer and /Creator both 'PDFium'; the file is 9,172,025 bytes over 31 pages with 31 embedded JPEG page images and zero embedded fonts, so it is a scan with no text layer; and it sits under /wp-content/uploads/2024/12/ on a site whose operator is not named. Who held the notes between 1990 and 2024, and how they reached that site, is not in the opened record.",
+          "source": "PDF metadata and URL path, https://www.arvp.co.uk/wp-content/uploads/2024/12/SORENSEN-1990-INTERVIEW.pdf , read 2026-09-18"
+        }
+      ],
+      "sources": [
+        {
+          "name": "William B. Scott, interview notes and 16 page typed transcript on 'Brad', 3 December 1990, scanned PDF hosted by arvp.co.uk",
+          "url": "https://www.arvp.co.uk/wp-content/uploads/2024/12/SORENSEN-1990-INTERVIEW.pdf",
+          "date": "1990-12-11"
+        }
+      ],
+      "unverified": [
+        "That William B. Scott was a test pilot at Edwards Air Force Base in the early 1970s, as McCandlish's 2001 testimony states. Not opened. What IS opened is his masthead title, 'Senior Engineering Editor', on the 1990 letterhead.",
+        "Scott's alleged motive for not publishing. research/leads/gerb-corpus-25-35.md file 33 at 00;22;44 and 00;30;16 records UAP Gerb reading Scott's stated reason as disbelief. That reading was not verified: Scott's reservations inside the document are about the witness's physics and about his fee, and the document contains no stated refusal to publish.",
+        "The Aviation Week & Space Technology issue of 1 October 1990, in which the document says McCandlish's paintings of two aircraft appeared, was not opened. The year 1990 follows only from the document's own December 1990 dating."
+      ]
+    },
+    {
+      "id": "disclosure-project-briefing-2001",
+      "cls": "document",
+      "label": "Disclosure Project Briefing Document, April 2001",
+      "cluster": "witness",
+      "sub": "Roughly 500 page compilation prepared by Steven M. Greer MD and Theodore C. Loder III PhD, printing summarised witness testimony",
+      "tier": "B",
+      "C": 0,
+      "A": 0,
+      "D": 3,
+      "dateStart": "2001-04",
+      "dateEnd": "2001-04",
+      "desc": "The Briefing Document is the custody point for dozens of this board's witness claims, not only this one, and it is openable in full as OCR text on archive.org. It prints McCandlish's testimony at section 3.8.5 under the date December 2000, and it is where the claimed craft acquires its two names in print. It also prints, separately, the September 2000 testimony of Lt Col John Williams on a compartmented facility at Norton AFB, and its compiler cross-references the two witnesses to each other in bracketed editorial notes signed 'SG'. That is the document's characteristic move and the reason its claims about the world cap at Tier 2: the corroboration between the two testimonies is asserted by the compiler, inside the compilation. Its claims about its own contents are another matter and are documented, because the contents can be read.",
+      "tierRationale": "Node tier B carried from the dossier: a dated, openable, complete primary publication that is the custody point for dozens of the board's witness claims. Interested-party authorship caps its claims about the world at Tier 2 but not its claims about its own contents. C/A/D were reasoned: custody proximity 0 and access 0, disclosure role 3, matching the board's existing disclosure-project node.",
+      "claims": [
+        {
+          "tier": 1,
+          "text": "The document prints McCandlish's testimony under the date 'December 2000', in section 3.8.5 'Technology / Science', with an editorial preface that states its own summary of what the reader will learn, including 'In addition, we have the drawing from aerospace inventor Brad Sorenson of the devices that he saw, as well as a schematic of one of these alien reproduction vehicles - in some remarkable detail.'",
+          "source": "Disclosure Project Briefing Document, section 3.8.5, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt , 2001-04"
+        },
+        {
+          "tier": 1,
+          "text": "The same document carries a separate 'Testimony of Lieutenant Colonel John Williams / September 2000' which states of Norton AFB: 'I was never allowed in that area when I was there at Norton Air Force Base', and, asked how he could validate the facility existed, 'That's correct because I was responsible for that base's facilities from 1981-82.'",
+          "source": "Disclosure Project Briefing Document, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt , 2000-09"
+        },
+        {
+          "tier": 1,
+          "text": "The compiler cross-references his own two witnesses to each other in bracketed editorial notes signed 'SG', including '[See the testimony of Mark McCandlish which establishes that indeed a UFO was stored at this facility at Norton AFB. SG]'. The corroboration between the two testimonies is asserted by the compiler, inside the compilation.",
+          "source": "Disclosure Project Briefing Document, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt , 2001-04"
+        },
+        {
+          "tier": 2,
+          "text": "The document is the origin in print of the craft's two names: 'Well, this craft was what they called the Alien Reproduction Vehicle; it was also nicknamed the Flux Liner.'",
+          "source": "Disclosure Project Briefing Document, section 3.8.5, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt , 2000-12"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Disclosure Project Briefing Document, full OCR text, 1,590,895 bytes, on archive.org",
+          "url": "https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt",
+          "date": "2001-04"
+        }
+      ],
+      "unverified": [
+        "That Kent Sellen existed, served at Edwards, or was a crew chief on William B. Scott's aircraft. The document carries McCandlish's account of him, and that account is the only source opened: 'In 1992, I met a man named Kent Sellen', a former Edwards crew chief on the aircraft flown by 'Bill Scott, or William Scott, who was a local editor for a trade publication called Aviation Week and Space Technology', who said 'I saw it in 1973' at Edwards North Base. No service record, no Edwards personnel record and no statement by Sellen was opened, so the board carries this as unverified and not as a claim.",
+        "The plate section of the document, containing the ARV cut-away drawing, was not extracted. The OCR text layer refers to the illustration but does not contain it.",
+        "Whether the book version of this testimony differs from the Briefing Document version. Greer's 'Disclosure: Military and Government Witnesses Reveal the Greatest Secrets in Modern History' (2001) was located as a Kindle edition and not opened."
+      ]
+    },
+    {
+      "id": "arvp-fluxliner-project",
+      "cls": "institution",
+      "label": "ARVP (arvp.co.uk), the Flux Liner project site",
+      "cluster": "media",
+      "sub": "Anonymously operated British website hosting the Scott 1990 notes and the McCandlish coroner's file; publishes and sells a 3D reconstruction",
+      "tier": "C",
+      "C": 0,
+      "A": 0,
+      "D": 3,
+      "dateStart": "2024",
+      "dateEnd": null,
+      "desc": "The custody node for two of the three primary documents in this thread, in the same role the board already gives the-black-vault, and with two differences the node has to say out loud. Its owner is unnamed: no author, no organisation and no copyright or licence statement appears anywhere on the pages opened, only an icloud.com address and a credit to a site builder. And it sells what it publishes. Its 3D reconstruction is the site operator's own work, built from the 2001 testimony and from McCandlish's later talks and podcast appearances rather than from the original drawing, which the page says could not be obtained; prints of that reconstruction are on sale at 30.00 each with no licence terms stated. Its TECH page then sets out a theory of operation that is not McCandlish's and is sourced to nobody in this thread. A reader who takes the site as a source on the 1990 account is reading two different things bound together.",
+      "tierRationale": "Node tier C carried from the dossier. C/A/D were reasoned: custody proximity 0 and access 0, disclosure role 3, matching the board's existing the-black-vault node at C 0 A 0 D 3. dateStart 2024 is the earliest date the opened record establishes, from the PDF's own /CreationDate of 17 October 2024 and the /wp-content/uploads/2024/12/ path, and is NOT a founding date; no founding date was opened.",
+      "claims": [
+        {
+          "tier": 1,
+          "text": "The site names no owner, author or organisation anywhere on the pages opened. Its footer gives only 'Email: Flux_liners@icloud.com', a 'Privacy Policy' link and 'Site by Blueqube' pointing at https://blueqube.org.uk . It carries no copyright notice and no licence statement of any kind on the FLUX 1988, TECH or SHOP pages.",
+          "source": "https://www.arvp.co.uk/flux-01/ and https://www.arvp.co.uk/shop/ , read 2026-09-18"
+        },
+        {
+          "tier": 1,
+          "text": "The site is the host of two of the three primary documents in this thread: the Scott 1990 interview notes, under the link text 'SORENSEN 1990 INTERVIEW' with a Download button, and the McCandlish coroner's file, under the link text 'Coroner's report on Mark MaCandlish's death' pointing at a Google Drive item named 'C21-0324 McCandlish.pdf'.",
+          "source": "https://www.arvp.co.uk/flux-01/ , read 2026-09-18"
+        },
+        {
+          "tier": 1,
+          "text": "The 3D reconstruction is the site operator's own work, built from secondary material and not from the original drawing. The page states: 'This is my 3D recreation of the craft they described. I rebuilt it from the ground up, using measurements from the original sketches and information provided by Mark in his talks and videos', and, for a second version, 'using measurements from the original sketches and information provided by Mark from online live streams and podcast apperences.'",
+          "source": "https://www.arvp.co.uk/flux-01/ , read 2026-09-18"
+        },
+        {
+          "tier": 1,
+          "text": "The page states that the original McCandlish artwork could not be obtained: 'Fascinated by this story I tried to find an original copy of Mark's work to buy. Unfortunately, now that Mark has passed on it's impossible to get hold of. I imagine that Steven Greer may have it or at least a copy.'",
+          "source": "https://www.arvp.co.uk/flux-01/ , read 2026-09-18"
+        },
+        {
+          "tier": 1,
+          "text": "The renders are sold. The shop lists three products, 'ARV_2009', 'Fluxliner full colour' and 'Fluxliner Illustrated', at 30.00 each, with no licence terms stated.",
+          "source": "https://www.arvp.co.uk/shop/ , read 2026-09-18"
+        },
+        {
+          "tier": 3,
+          "text": "The site's own stated theory of how the craft works is not McCandlish's and is not sourced to him. Its TECH page lists 'Magnetohydrodynamics', 'Quasicrystals', 'Einstein-Rosen bridge theory', 'The Hutchinson effect' and 'Levels of consciousness' among 'Our current lines of thinking', and leans on Bob Greenyer of the Martin Fleischmann Memorial Project, a Lockheed Martin matterwave patent, Thomas Bearden and Malcolm Bendall. A reader who takes the site as a source on the 1990 account is reading two different things bound together.",
+          "source": "https://www.arvp.co.uk/tech/ , read 2026-09-18"
+        }
+      ],
+      "sources": [
+        {
+          "name": "arvp.co.uk, FLUX 1988 page",
+          "url": "https://www.arvp.co.uk/flux-01/",
+          "date": "2026-09-18"
+        },
+        {
+          "name": "arvp.co.uk, RESEARCH page",
+          "url": "https://www.arvp.co.uk/research/",
+          "date": "2026-09-18"
+        },
+        {
+          "name": "arvp.co.uk, TECH page",
+          "url": "https://www.arvp.co.uk/tech/",
+          "date": "2026-09-18"
+        },
+        {
+          "name": "arvp.co.uk, SHOP page",
+          "url": "https://www.arvp.co.uk/shop/",
+          "date": "2026-09-18"
+        }
+      ],
+      "unverified": [
+        "The site's unsigned RESEARCH page gives McCandlish's life dates as '(1957 - 2021)' and calls him 'an American aerospace illustrator, conceptual artist, and researcher'. It cites no source and the birth year cannot be reconciled with the coroner's record. The board carries no birth year for him.",
+        "Any licence under which the 3D reconstruction could be reused. The site carries no licence statement at all and sells prints, so the reconstruction must be treated as somebody else's copyrighted work. No 'break apart' animation with a stated licence was opened."
+      ]
+    },
+    {
+      "id": "zero-point-documentary",
+      "cls": "document",
+      "label": "Zero Point: The Story of Mark McCandlish and the Flux Liner",
+      "cluster": "media",
+      "sub": "Feature documentary on McCandlish and the claimed craft; writer-director James Allen is dead",
+      "tier": "C",
+      "C": 0,
+      "A": 0,
+      "D": 2,
+      "dateStart": "2013-06-02",
+      "dateEnd": "2013-06-02",
+      "desc": "A later carrier rather than a source, and it is carried thin on purpose. Two things about it were opened directly: a Vimeo channel bearing its full title, created by 'James Gladman', whose description dedicates it to the film and to 'the late Writer-Director James Allen', and the link on the arvp.co.uk FLUX 1988 page that points at a YouTube copy of the full documentary. Everything else on this node comes from its IMDb listing, which is user-maintained, and the film itself was not opened by any session. What IMDb gives is a 2013 documentary of 1h 32m with James Allen credited as both director and writer, McCandlish as the only listed cast member, and an estimated budget of $5,000. The circumstances of Allen's death are widely repeated and none of them is recorded here, because no death record, autopsy report or obituary has been opened.",
+      "tierRationale": "Node tier C carried from the dossier: a later carrier rather than a source. The dossier proposed dropping the node if IMDb could not be opened; it was opened this session, so the node is kept and every IMDb-derived fact is graded Tier 2 with the listing's user-maintained character stated in the claim text itself. C/A/D were reasoned: custody proximity 0 and access 0, disclosure role 2 because it republishes an account rather than originating one.",
+      "claims": [
+        {
+          "tier": 1,
+          "text": "A Vimeo channel titled 'Zero Point: The Story of Mark McCandlish and the Flux Liner', created by 'James Gladman', with 27 followers and no videos, carries the description verbatim: 'This Channel is dedicated the the film, and to the late Writer-Director James Allen.'",
+          "source": "https://vimeo.com/channels/942663 , read 2026-09-18"
+        },
+        {
+          "tier": 1,
+          "text": "The arvp.co.uk FLUX 1988 page links the film under the text 'Full Documentary Zero Point The Story of Mark McCandlish and the Fluxliner', pointing at https://www.youtube.com/watch?v=afLsRsd5roY&t=3629s . That video was not opened.",
+          "source": "https://www.arvp.co.uk/flux-01/ , read 2026-09-18"
+        },
+        {
+          "tier": 2,
+          "text": "IMDb tt6111304 gives the title 'Zero Point: The Story of Mark McCandlish and the Flux Liner', the year 2013, a runtime of 1h 32m and the genre Documentary. IMDb is user-maintained and the film itself was not opened.",
+          "source": "IMDb tt6111304, https://www.imdb.com/title/tt6111304/, opened 18 September 2026. IMDb is user-maintained and the film itself was not opened."
+        },
+        {
+          "tier": 2,
+          "text": "IMDb tt6111304 gives a US release date of 2 June 2013. IMDb is user-maintained and the film itself was not opened.",
+          "source": "IMDb tt6111304, https://www.imdb.com/title/tt6111304/, opened 18 September 2026. IMDb is user-maintained and the film itself was not opened."
+        },
+        {
+          "tier": 2,
+          "text": "IMDb tt6111304 credits James Allen as both director and writer. IMDb is user-maintained and the film itself was not opened.",
+          "source": "IMDb tt6111304, https://www.imdb.com/title/tt6111304/, opened 18 September 2026. IMDb is user-maintained and the film itself was not opened."
+        },
+        {
+          "tier": 2,
+          "text": "IMDb tt6111304 credits Mark McCandlish as 'Self - Guest', the only listed cast member. IMDb is user-maintained and the film itself was not opened.",
+          "source": "IMDb tt6111304, https://www.imdb.com/title/tt6111304/, opened 18 September 2026. IMDb is user-maintained and the film itself was not opened."
+        },
+        {
+          "tier": 2,
+          "text": "IMDb tt6111304 gives an estimated budget of $5,000. IMDb is user-maintained and the film itself was not opened.",
+          "source": "IMDb tt6111304, https://www.imdb.com/title/tt6111304/, opened 18 September 2026. IMDb is user-maintained and the film itself was not opened."
+        },
+        {
+          "tier": 2,
+          "text": "IMDb tt6111304 showed a user rating of 8.3 out of 10 from 34 ratings as opened on 18 September 2026. IMDb is user-maintained, the rating is a user aggregate, and the film itself was not opened.",
+          "source": "IMDb tt6111304, https://www.imdb.com/title/tt6111304/, opened 18 September 2026. IMDb is user-maintained and the film itself was not opened."
+        }
+      ],
+      "sources": [
+        {
+          "name": "Vimeo channel 'Zero Point: The Story of Mark McCandlish and the Flux Liner', created by James Gladman",
+          "url": "https://vimeo.com/channels/942663",
+          "date": "2026-09-18"
+        },
+        {
+          "name": "IMDb tt6111304, user-maintained listing",
+          "url": "https://www.imdb.com/title/tt6111304/",
+          "date": "2026-09-18"
+        },
+        {
+          "name": "arvp.co.uk, FLUX 1988 page",
+          "url": "https://www.arvp.co.uk/flux-01/",
+          "date": "2026-09-18"
+        }
+      ],
+      "conflicts": [
+        "The year of the film is given two ways in the opened record. IMDb tt6111304 gives a US release date of 2 June 2013; the UAP Gerb episode description calls it the '2014 Zero Point Documentary'."
+      ],
+      "unverified": [
+        "That James Allen died of an aggressive cancer within three months of the film's planned release, and that an autopsy showed heavy-metal poisoning. Recorded in research/leads/dannyjones-corpus-20.md section 4b from episode 320, 4 August 2025, with UAP Gerb speaking at 1:08:06 to 1:22:59. No death record, no autopsy report and no obituary was opened. The dossier records this as the single most consequential unverified claim in the thread and says it should not be written into any node without a record. It is therefore recorded here and nowhere else, as an unverified assertion. What IS opened is the Vimeo channel description calling him 'the late Writer-Director James Allen', which establishes that he is dead and nothing about how.",
+        "That James Allen was an SCAD MFA graduate. Not opened.",
+        "The film itself and its credits were not opened by any session. The IMDb full-credits page returned HTTP 403 to WebFetch; the title page was opened 18 September 2026."
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "a": "mark-mccandlish",
+      "b": "disclosure-project",
+      "type": "witness-chain",
+      "claimTier": 1,
+      "label": "Disclosure Project witness, testimony taken December 2000",
+      "dateStart": "2000-12",
+      "dateEnd": "2001-04",
+      "sources": [
+        {
+          "name": "Disclosure Project Briefing Document, section 3.8.5",
+          "url": "https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt",
+          "date": "2001-04"
+        }
+      ],
+      "note": "His December 2000 testimony is printed in the project's own April 2001 Briefing Document at section 3.8.5, under the heading 'Testimony of Mr. Mark McCandlish, US Air Force / December 2000'."
+    },
+    {
+      "a": "mark-mccandlish",
+      "b": "steven-greer",
+      "type": "witness-chain",
+      "claimTier": 1,
+      "label": "Witness to Greer's compilation; Greer writes the editorial notes around his testimony",
+      "dateStart": "2000-12",
+      "dateEnd": "2001-04",
+      "sources": [
+        {
+          "name": "Disclosure Project Briefing Document, section 3.8.5",
+          "url": "https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt",
+          "date": "2001-04"
+        }
+      ],
+      "note": "Greer is the Briefing Document's named compiler and writes the bracketed editorial notes, signed 'SG', that cross-reference the McCandlish testimony to the Lt Col John Williams testimony on Norton AFB."
+    },
+    {
+      "a": "mark-mccandlish",
+      "b": "brad-sorensen",
+      "type": "witness-chain",
+      "claimTier": 1,
+      "label": "Painted the craft from Sorensen's verbal description; he was not at the air show",
+      "dateStart": "1988-11",
+      "dateEnd": "1990-12-11",
+      "sources": [
+        {
+          "name": "William B. Scott, interview notes on 'Brad', 3 December 1990, scanned PDF hosted by arvp.co.uk",
+          "url": "https://www.arvp.co.uk/wp-content/uploads/2024/12/SORENSEN-1990-INTERVIEW.pdf",
+          "date": "1990-12-11"
+        }
+      ],
+      "note": "The 1990 primary document states the direction of the relay: 'Brad is the source of artwork done by Mark McCandlish and featured in AVWK's Oct. 1 issue. Mark had painted the two aircraft from verbal descriptions provided by Brad'. The same document records Sorensen disowning part of what McCandlish drew."
+    },
+    {
+      "a": "mark-mccandlish",
+      "b": "arv-fluxliner",
+      "type": "witness-chain",
+      "claimTier": 2,
+      "label": "The illustrator and relayer who drew the claimed craft and named it in print",
+      "dateStart": "1988-11",
+      "dateEnd": "2021-04-13",
+      "sources": [
+        {
+          "name": "Disclosure Project Briefing Document, section 3.8.5",
+          "url": "https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt",
+          "date": "2001-04"
+        },
+        {
+          "name": "William B. Scott, interview notes on 'Brad', 3 December 1990, scanned PDF hosted by arvp.co.uk",
+          "url": "https://www.arvp.co.uk/wp-content/uploads/2024/12/SORENSEN-1990-INTERVIEW.pdf",
+          "date": "1990-12-11"
+        }
+      ],
+      "note": "He is not a witness to the craft. He drew it from a friend's verbal description a week after the claimed event, and his 2001 testimony is where it acquires the names Alien Reproduction Vehicle and Flux Liner in print."
+    },
+    {
+      "a": "brad-sorensen",
+      "b": "arv-fluxliner",
+      "type": "witness-chain",
+      "claimTier": 2,
+      "label": "Sole claimed eyewitness to the three craft",
+      "dateStart": "1988-11-12",
+      "dateEnd": "1990-12-10",
+      "sources": [
+        {
+          "name": "William B. Scott, interview notes on 'Brad', 3 December 1990, scanned PDF hosted by arvp.co.uk",
+          "url": "https://www.arvp.co.uk/wp-content/uploads/2024/12/SORENSEN-1990-INTERVIEW.pdf",
+          "date": "1990-12-11"
+        }
+      ],
+      "note": "Every substantive claim about the craft traces to him and to nobody else. His own 1990 words limit it: the sizes are 'Just a guess; don't hold me to that', and of the manned vehicle in McCandlish's drawing, 'this is probably the farthest from what I saw'."
+    },
+    {
+      "a": "brad-sorensen",
+      "b": "norton-afb-airshow-1988",
+      "type": "witness-chain",
+      "claimTier": 2,
+      "label": "Sole claimed eyewitness to the alleged hangar exhibit",
+      "dateStart": "1988-11-12",
+      "dateEnd": "1988-11-12",
+      "sources": [
+        {
+          "name": "William B. Scott, interview notes on 'Brad', 3 December 1990, scanned PDF hosted by arvp.co.uk",
+          "url": "https://www.arvp.co.uk/wp-content/uploads/2024/12/SORENSEN-1990-INTERVIEW.pdf",
+          "date": "1990-12-11"
+        }
+      ],
+      "note": "He is the only person who claims to have been inside. The 1990 notes place his account only 'in early Nov. 88'; the exact date comes from McCandlish in 2001."
+    },
+    {
+      "a": "brad-sorensen",
+      "b": "scott-sorensen-notes-1990",
+      "type": "witness-chain",
+      "claimTier": 1,
+      "label": "Interviewee; the notes are his account in his own words",
+      "dateStart": "1990-12-03",
+      "dateEnd": "1990-12-11",
+      "sources": [
+        {
+          "name": "William B. Scott, interview notes on 'Brad', 3 December 1990, scanned PDF hosted by arvp.co.uk",
+          "url": "https://www.arvp.co.uk/wp-content/uploads/2024/12/SORENSEN-1990-INTERVIEW.pdf",
+          "date": "1990-12-11"
+        }
+      ],
+      "note": "The document's own header: 'NOTES FROM INTERVIEW ON 12-3-90 WITH BRAD', 'COMPILED 12-11-90; SCOTT/AVWK LANCASTER'. He gave one paid hour in his Pasadena office and had refused an approach the previous summer."
+    },
+    {
+      "a": "scott-sorensen-notes-1990",
+      "b": "norton-afb-airshow-1988",
+      "type": "investigative",
+      "claimTier": 1,
+      "label": "Earliest opened record of the claim, taken about two years after the alleged event",
+      "dateStart": "1990-12-03",
+      "dateEnd": "1990-12-11",
+      "sources": [
+        {
+          "name": "William B. Scott, interview notes on 'Brad', 3 December 1990, scanned PDF hosted by arvp.co.uk",
+          "url": "https://www.arvp.co.uk/wp-content/uploads/2024/12/SORENSEN-1990-INTERVIEW.pdf",
+          "date": "1990-12-11"
+        }
+      ],
+      "note": "An Aviation Week senior engineering editor's own notes and transcript. It is the only contemporaneous document in the thread and it carries both the claim and the interviewer's own reservations."
+    },
+    {
+      "a": "scott-sorensen-notes-1990",
+      "b": "arv-fluxliner",
+      "type": "investigative",
+      "claimTier": 1,
+      "label": "Earliest opened record of the claimed craft",
+      "dateStart": "1990-12-03",
+      "dateEnd": "1990-12-11",
+      "sources": [
+        {
+          "name": "William B. Scott, interview notes on 'Brad', 3 December 1990, scanned PDF hosted by arvp.co.uk",
+          "url": "https://www.arvp.co.uk/wp-content/uploads/2024/12/SORENSEN-1990-INTERVIEW.pdf",
+          "date": "1990-12-11"
+        }
+      ],
+      "note": "It carries the nursery-rhyme naming, the witness's own disclaimed sizes, his judgement that the craft looked poorly built, and his partial disowning of the drawing. It is the record against which every later retelling can be measured."
+    },
+    {
+      "a": "scott-sorensen-notes-1990",
+      "b": "arvp-fluxliner-project",
+      "type": "custody",
+      "claimTier": 1,
+      "label": "The only opened copy of the notes is the scan that site hosts",
+      "dateStart": "2024-10-17",
+      "dateEnd": "2024-12",
+      "sources": [
+        {
+          "name": "William B. Scott, interview notes on 'Brad', 3 December 1990, scanned PDF hosted by arvp.co.uk",
+          "url": "https://www.arvp.co.uk/wp-content/uploads/2024/12/SORENSEN-1990-INTERVIEW.pdf",
+          "date": "1990-12-11"
+        },
+        {
+          "name": "arvp.co.uk, FLUX 1988 page",
+          "url": "https://www.arvp.co.uk/flux-01/",
+          "date": "2026-09-18"
+        }
+      ],
+      "note": "The PDF sits under /wp-content/uploads/2024/12/ on arvp.co.uk with /CreationDate 'D:20241017132510'. Who held the notes between 1990 and 2024, and how they reached that site, is not in the opened record."
+    },
+    {
+      "a": "norton-afb-airshow-1988",
+      "b": "l-norton-afb",
+      "type": "geographic",
+      "claimTier": 1,
+      "label": "The event is at the base",
+      "dateStart": "1988-11-12",
+      "dateEnd": "1988-11-12",
+      "sources": [
+        {
+          "name": "air-and-space.com, Lockheed A-12 / YF-12 / SR-71 Blackbirds collection",
+          "url": "https://www.air-and-space.com/Lockheed%20A-12%20YF-12%20SR-71%20Blackbirds.htm",
+          "date": "2026-09-18"
+        },
+        {
+          "name": "William B. Scott, interview notes on 'Brad', 3 December 1990, scanned PDF hosted by arvp.co.uk",
+          "url": "https://www.arvp.co.uk/wp-content/uploads/2024/12/SORENSEN-1990-INTERVIEW.pdf",
+          "date": "1990-12-11"
+        }
+      ],
+      "note": "Both primary documents place the account at Norton AFB, and the air show itself is dated at the base independently by a Blackbird photographic collection."
+    },
+    {
+      "a": "norton-afb-airshow-1988",
+      "b": "usaf",
+      "type": "institutional",
+      "claimTier": 2,
+      "label": "Air Force open house; the 1990 notes describe Air Force briefers",
+      "dateStart": "1988-11-12",
+      "dateEnd": "1988-11-12",
+      "sources": [
+        {
+          "name": "air-and-space.com, Lockheed A-12 / YF-12 / SR-71 Blackbirds collection",
+          "url": "https://www.air-and-space.com/Lockheed%20A-12%20YF-12%20SR-71%20Blackbirds.htm",
+          "date": "2026-09-18"
+        },
+        {
+          "name": "William B. Scott, interview notes on 'Brad', 3 December 1990, scanned PDF hosted by arvp.co.uk",
+          "url": "https://www.arvp.co.uk/wp-content/uploads/2024/12/SORENSEN-1990-INTERVIEW.pdf",
+          "date": "1990-12-11"
+        }
+      ],
+      "note": "The air show is an Air Force open house and is documented as such. The briefers inside the alleged exhibit are described only in the witness's words: uniforms in 'Blue; Air Force', 'Colonel, major, something like that'. No Air Force record of the exhibit was opened."
+    },
+    {
+      "a": "l-norton-afb",
+      "b": "disclosure-project-briefing-2001",
+      "type": "investigative",
+      "claimTier": 1,
+      "label": "Two of the document's witnesses name the base",
+      "dateStart": "2000-09",
+      "dateEnd": "2001-04",
+      "sources": [
+        {
+          "name": "Disclosure Project Briefing Document, section 3.8.5",
+          "url": "https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt",
+          "date": "2001-04"
+        }
+      ],
+      "note": "McCandlish and Lt Col John Williams name Norton AFB in separate testimonies inside the same document, and the compiler then cross-references them to each other. The corroboration is the compiler's assertion, made inside the compilation."
+    },
+    {
+      "a": "disclosure-project-briefing-2001",
+      "b": "steven-greer",
+      "type": "custody",
+      "claimTier": 1,
+      "label": "Named as its director and compiler",
+      "dateStart": "2001-04",
+      "dateEnd": "2001-04",
+      "sources": [
+        {
+          "name": "Disclosure Project Briefing Document, section 3.8.5",
+          "url": "https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt",
+          "date": "2001-04"
+        }
+      ],
+      "note": "Prepared by Steven M. Greer MD and Theodore C. Loder III PhD. Greer signs the bracketed editorial notes 'SG'."
+    },
+    {
+      "a": "disclosure-project-briefing-2001",
+      "b": "disclosure-project",
+      "type": "institutional",
+      "claimTier": 1,
+      "label": "The project's own publication",
+      "dateStart": "2001-04",
+      "dateEnd": "2001-04",
+      "sources": [
+        {
+          "name": "Disclosure Project Briefing Document, section 3.8.5",
+          "url": "https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt",
+          "date": "2001-04"
+        }
+      ],
+      "note": "It is the Disclosure Project's own April 2001 compilation of witness testimony."
+    },
+    {
+      "a": "mark-mccandlish",
+      "b": "l-edwards-afb",
+      "type": "witness-chain",
+      "claimTier": 2,
+      "label": "Relays a second-hand 1973 Edwards North Base allegation",
+      "dateStart": "1973",
+      "dateEnd": "1992",
+      "sources": [
+        {
+          "name": "Disclosure Project Briefing Document, section 3.8.5",
+          "url": "https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt",
+          "date": "2001-04"
+        }
+      ],
+      "note": "His 2001 testimony relays an account attributed to a man he says he met in 1992 at an Edwards air show, who is said to have seen a hovering craft at Edwards North Base in 1973. THE EDGE CARRIES AN ALLEGATION RELAYED AT ONE REMOVE. No Edwards record was opened, and the existence of the man he names is recorded as unverified on disclosure-project-briefing-2001 rather than as a claim."
+    },
+    {
+      "a": "mark-mccandlish",
+      "b": "l-plant-42",
+      "type": "witness-chain",
+      "claimTier": 2,
+      "label": "Relays an unnamed informant who places himself at the B-2 facility",
+      "dateStart": "2000-12",
+      "dateEnd": "2000-12",
+      "sources": [
+        {
+          "name": "Disclosure Project Briefing Document, section 3.8.5",
+          "url": "https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt",
+          "date": "2001-04"
+        }
+      ],
+      "note": "His testimony relays a further unnamed informant who says 'I work at the B-2 bomber facility out at Plant 42 in Palmdale and Lancaster'. Relayed, unnamed and uncorroborated; no record was opened."
+    },
+    {
+      "a": "mark-mccandlish",
+      "b": "lockheed-skunk-works",
+      "type": "witness-chain",
+      "claimTier": 2,
+      "label": "Same relayed unnamed informant locates the Skunk Works catty-corner from Plant 42",
+      "dateStart": "2000-12",
+      "dateEnd": "2000-12",
+      "sources": [
+        {
+          "name": "Disclosure Project Briefing Document, section 3.8.5",
+          "url": "https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt",
+          "date": "2001-04"
+        }
+      ],
+      "note": "Same passage, same caveat: relayed, unnamed and uncorroborated, and no record was opened."
+    },
+    {
+      "a": "mark-mccandlish",
+      "b": "mcdonnell-douglas",
+      "type": "institutional",
+      "claimTier": 2,
+      "label": "Named in his own self-stated client list, 2000",
+      "dateStart": "2000-12",
+      "dateEnd": "2000-12",
+      "sources": [
+        {
+          "name": "Disclosure Project Briefing Document, section 3.8.5",
+          "url": "https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt",
+          "date": "2001-04"
+        }
+      ],
+      "note": "Self-stated client list from his own December 2000 testimony, printed in the April 2001 Briefing Document: 'I've worked for all the major defense contractors: General Dynamics, Lockheed, Northrop, McDonald-Douglas, Boeing, Rockwell International, Honeywell, and Allied Signet Corporation.' No personnel record and no contract record was opened for any of them. The edge records what he said about himself and nothing more."
+    },
+    {
+      "a": "mark-mccandlish",
+      "b": "general-dynamics",
+      "type": "institutional",
+      "claimTier": 2,
+      "label": "Named in his own self-stated client list, 2000",
+      "dateStart": "2000-12",
+      "dateEnd": "2000-12",
+      "sources": [
+        {
+          "name": "Disclosure Project Briefing Document, section 3.8.5",
+          "url": "https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt",
+          "date": "2001-04"
+        }
+      ],
+      "note": "Self-stated client list from his own December 2000 testimony, printed in the April 2001 Briefing Document: 'I've worked for all the major defense contractors: General Dynamics, Lockheed, Northrop, McDonald-Douglas, Boeing, Rockwell International, Honeywell, and Allied Signet Corporation.' No personnel record and no contract record was opened for any of them. The edge records what he said about himself and nothing more."
+    },
+    {
+      "a": "mark-mccandlish",
+      "b": "boeing",
+      "type": "institutional",
+      "claimTier": 2,
+      "label": "Named in his own self-stated client list, 2000",
+      "dateStart": "2000-12",
+      "dateEnd": "2000-12",
+      "sources": [
+        {
+          "name": "Disclosure Project Briefing Document, section 3.8.5",
+          "url": "https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt",
+          "date": "2001-04"
+        }
+      ],
+      "note": "Self-stated client list from his own December 2000 testimony, printed in the April 2001 Briefing Document: 'I've worked for all the major defense contractors: General Dynamics, Lockheed, Northrop, McDonald-Douglas, Boeing, Rockwell International, Honeywell, and Allied Signet Corporation.' No personnel record and no contract record was opened for any of them. The edge records what he said about himself and nothing more."
+    },
+    {
+      "a": "mark-mccandlish",
+      "b": "northrop-grumman",
+      "type": "institutional",
+      "claimTier": 2,
+      "label": "Named in his own self-stated client list, 2000",
+      "dateStart": "2000-12",
+      "dateEnd": "2000-12",
+      "sources": [
+        {
+          "name": "Disclosure Project Briefing Document, section 3.8.5",
+          "url": "https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt",
+          "date": "2001-04"
+        }
+      ],
+      "note": "Self-stated client list from his own December 2000 testimony, printed in the April 2001 Briefing Document: 'I've worked for all the major defense contractors: General Dynamics, Lockheed, Northrop, McDonald-Douglas, Boeing, Rockwell International, Honeywell, and Allied Signet Corporation.' No personnel record and no contract record was opened for any of them. The edge records what he said about himself and nothing more."
+    },
+    {
+      "a": "mark-mccandlish",
+      "b": "uap-gerb",
+      "type": "investigative",
+      "claimTier": 2,
+      "label": "Subject of a 1:09:12 UAP Gerb episode published 21 October 2024",
+      "dateStart": "2024-10-21",
+      "dateEnd": "2024-10-21",
+      "sources": [
+        {
+          "name": "YouTube listing for video wF07QMm6joE, 'Alien Reproduction Vehicle - the Testimony of Mark McCandlish', UAP Gerb",
+          "url": "https://www.youtube.com/watch?v=wF07QMm6joE",
+          "date": "2024-10-21"
+        }
+      ],
+      "note": "Video id wF07QMm6joE, 'Alien Reproduction Vehicle - the Testimony of Mark McCandlish', channel 'UAP Gerb', published 21 October 2024, runtime 01:09:12. Gerb is the investigator who brings this account to the board's corpus and who located the 1990 notes. Several assertions attributed to him in the corpus files are recorded on these nodes as unverified rather than as claims."
+    },
+    {
+      "a": "mark-mccandlish",
+      "b": "eric-davis",
+      "type": "denial",
+      "claimTier": 2,
+      "label": "Davis says the ARV claims are myth",
+      "dateStart": "2024-12-12",
+      "dateEnd": "2024-12-12",
+      "sources": [
+        {
+          "name": "Jesse Michels, video id LnAiNChnuEQ",
+          "url": "https://www.youtube.com/watch?v=LnAiNChnuEQ",
+          "date": "2024-12-12"
+        }
+      ],
+      "note": "On the Jesse Michels episode published 12 December 2024, video id LnAiNChnuEQ, Eric Davis said no ARV exists and none has ever been built, and that the Northrop Grumman and Area 51 ARV rumours are 'all myth'. A claimant node carries the case against. The episode is identified by video id: the corpus recorded it under a different title on a differently named channel."
+    },
+    {
+      "a": "eric-davis",
+      "b": "arv-fluxliner",
+      "type": "denial",
+      "claimTier": 2,
+      "label": "Says no such craft exists and none has ever been built",
+      "dateStart": "2024-12-12",
+      "dateEnd": "2024-12-12",
+      "sources": [
+        {
+          "name": "Jesse Michels, video id LnAiNChnuEQ",
+          "url": "https://www.youtube.com/watch?v=LnAiNChnuEQ",
+          "date": "2024-12-12"
+        }
+      ],
+      "note": "research/leads/michels-corpus-03.md file 04 at 0:36:24 to 0:38:00 records Davis saying the ARV rumours are 'all myth', that they originate with Bob Lazar-type storytellers who 'believe their own bullshit' rather than with deliberate disinformation, and that the CIA 'shut it all down' in 1989. The corpus recorded the episode as 'CIA Scientist: George Bush Was Briefed on UFOs (ft. Eric Davis)' on 'American Alchemy'; as opened 18 September 2026 the same video id carries a different title on the channel 'Jesse Michels'. The corpus timestamp falls inside the 52:45 runtime."
+    },
+    {
+      "a": "thomas-townsend-brown",
+      "b": "arv-fluxliner",
+      "type": "research",
+      "claimTier": 2,
+      "label": "The account's claimed lift lineage, which the patents themselves do not support",
+      "dateStart": "1957-07-03",
+      "dateEnd": "2000-12",
+      "sources": [
+        {
+          "name": "Disclosure Project Briefing Document, section 3.8.5",
+          "url": "https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt",
+          "date": "2001-04"
+        }
+      ],
+      "note": "THE EDGE MUST NOT BE READ AS ANTI-GRAVITY. The board's own record is that NEITHER Brown patent claims anti-gravity: US 3,187,206, filed 9 May 1958, and US 2,949,550, filed 3 July 1957, both claim thrust by electrical fields in a dielectric medium. It is the ACCOUNT that reinterprets electrokinetic thrust as levitation. McCandlish attributes the claimed effect to 'a patent that was filed back in the late 1950s/early 1960s by a gentleman called Thomas Townsend Brown', which on the board's own record is one of those two."
+    },
+    {
+      "a": "mark-mccandlish",
+      "b": "thomas-townsend-brown",
+      "type": "research",
+      "claimTier": 2,
+      "label": "Attributes the claimed lift effect to a Brown patent of the late 1950s or early 1960s",
+      "dateStart": "2000-12",
+      "dateEnd": "2000-12",
+      "sources": [
+        {
+          "name": "Disclosure Project Briefing Document, section 3.8.5",
+          "url": "https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt",
+          "date": "2001-04"
+        }
+      ],
+      "note": "THE EDGE MUST NOT BE READ AS ANTI-GRAVITY. The board's own record is that NEITHER Brown patent claims anti-gravity: US 3,187,206, filed 9 May 1958, and US 2,949,550, filed 3 July 1957, both claim thrust by electrical fields in a dielectric medium. It is the ACCOUNT that reinterprets electrokinetic thrust as levitation. His testimony describes a plate capacitor floated at about a million volts 'in accordance with principles that had been described in a patent that was filed back in the late 1950s/early 1960s by a gentleman called Thomas Townsend Brown'."
+    },
+    {
+      "a": "arvp-fluxliner-project",
+      "b": "arv-fluxliner",
+      "type": "research",
+      "claimTier": 1,
+      "label": "Publishes a 3D reconstruction of the claimed craft and sells prints of it",
+      "dateStart": "2024",
+      "dateEnd": null,
+      "sources": [
+        {
+          "name": "arvp.co.uk, FLUX 1988 page",
+          "url": "https://www.arvp.co.uk/flux-01/",
+          "date": "2026-09-18"
+        },
+        {
+          "name": "arvp.co.uk, SHOP page",
+          "url": "https://www.arvp.co.uk/shop/",
+          "date": "2026-09-18"
+        }
+      ],
+      "note": "The reconstruction is the site operator's own work and is built from secondary material: 'I rebuilt it from the ground up, using measurements from the original sketches and information provided by Mark in his talks and videos'. The page states the original drawing could not be obtained. Prints are sold at 30.00 each with no licence terms stated."
+    },
+    {
+      "a": "arvp-fluxliner-project",
+      "b": "mark-mccandlish",
+      "type": "custody",
+      "claimTier": 1,
+      "label": "Hosts his coroner's file and publishes a reconstruction built from his talks",
+      "dateStart": "2024",
+      "dateEnd": null,
+      "sources": [
+        {
+          "name": "arvp.co.uk, FLUX 1988 page",
+          "url": "https://www.arvp.co.uk/flux-01/",
+          "date": "2026-09-18"
+        },
+        {
+          "name": "Shasta County Sheriff-Coroner, case C21-0324",
+          "url": "https://drive.google.com/file/d/1UNSHXesvWduXFduto_Cqh4LDOCG4gIkX/view",
+          "date": "2021-06-21"
+        }
+      ],
+      "note": "The FLUX 1988 page links the coroner's file under the text 'Coroner's report on Mark MaCandlish's death', pointing at a Google Drive item named 'C21-0324 McCandlish.pdf', and hosts the Scott 1990 notes. The site names no owner and carries no licence statement."
+    },
+    {
+      "a": "zero-point-documentary",
+      "b": "mark-mccandlish",
+      "type": "investigative",
+      "claimTier": 1,
+      "label": "The film is about him and names him in its title",
+      "dateStart": "2013-06-02",
+      "dateEnd": "2013-06-02",
+      "sources": [
+        {
+          "name": "Vimeo channel 'Zero Point: The Story of Mark McCandlish and the Flux Liner'",
+          "url": "https://vimeo.com/channels/942663",
+          "date": "2026-09-18"
+        },
+        {
+          "name": "IMDb tt6111304, user-maintained listing",
+          "url": "https://www.imdb.com/title/tt6111304/",
+          "date": "2026-09-18"
+        }
+      ],
+      "note": "The dossier and the session ruling call this a media edge; 'media' is not one of this board's twelve edge types, so it is written as 'investigative', the type the board already uses for a media node covering a subject. IMDb credits him as 'Self - Guest', the only listed cast member."
+    },
+    {
+      "a": "zero-point-documentary",
+      "b": "arv-fluxliner",
+      "type": "investigative",
+      "claimTier": 2,
+      "label": "A feature documentary carrying the claim to a later audience",
+      "dateStart": "2013-06-02",
+      "dateEnd": "2013-06-02",
+      "sources": [
+        {
+          "name": "Vimeo channel 'Zero Point: The Story of Mark McCandlish and the Flux Liner'",
+          "url": "https://vimeo.com/channels/942663",
+          "date": "2026-09-18"
+        },
+        {
+          "name": "IMDb tt6111304, user-maintained listing",
+          "url": "https://www.imdb.com/title/tt6111304/",
+          "date": "2026-09-18"
+        }
+      ],
+      "note": "A later carrier rather than a source. The film itself was not opened; the node rests on the Vimeo channel, the arvp.co.uk link and the user-maintained IMDb listing. Written as 'investigative' because 'media' is not one of this board's edge types."
+    }
+  ],
+  "timeline": [
+    {
+      "id": "tl-1988-11-12-norton-airshow",
+      "strand": "program",
+      "date": "1988-11-12",
+      "precision": "day",
+      "tier": "C",
+      "node": "norton-afb-airshow-1988",
+      "label": "Air show at Norton AFB; SR-71A 61-7962 flies and departs",
+      "text": "A private photographic collection of Blackbird aircraft carries a section headed 'Norton Air Force Base Airshow, November 12, 1988', with captions including 'SR-71A 61-7962 at Norton AFB on November 12, 1988' and 'The crew of SR-71A 61-7962 shake hands before departing the November 12, 1988 Norton Air Force Base airshow'. This is the only opened record that dates the air show independently of the ARV account.",
+      "source": "air-and-space.com, Lockheed A-12 / YF-12 / SR-71 Blackbirds collection, https://www.air-and-space.com/Lockheed%20A-12%20YF-12%20SR-71%20Blackbirds.htm"
+    },
+    {
+      "id": "tl-1988-11-12-arv-exhibit-claimed",
+      "strand": "witness",
+      "date": "1988-11-12",
+      "precision": "day",
+      "tier": "C",
+      "node": "arv-fluxliner",
+      "label": "CLAIMED ONLY: a classified exhibit in the Big Hangar with three saucer-shaped craft",
+      "text": "The load-bearing claim of the whole thread, and it rests on one second-hand chain. McCandlish's December 2000 testimony gives the date and the day: Sorensen 'told me how he had seen these three flying saucers in this hangar at Norton Air Force Base on November 12, 1988 - it was a Saturday.' The 1990 primary document, taken from the claimed eyewitness himself, places it only 'in early Nov. 88'. No record of any exhibit was opened.",
+      "source": "Disclosure Project Briefing Document section 3.8.5, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt ; Scott interview notes transcript p 1, https://www.arvp.co.uk/wp-content/uploads/2024/12/SORENSEN-1990-INTERVIEW.pdf"
+    },
+    {
+      "id": "tl-1990-08-13-scott-mark-notes",
+      "strand": "witness",
+      "date": "1990-08-13",
+      "precision": "day",
+      "tier": "B",
+      "node": "scott-sorensen-notes-1990",
+      "label": "Scott's handwritten sheet headed 'Mark - 8/13/90'",
+      "text": "One of the handwritten sheets on Aviation Week & Space Technology letterhead in the 31 page scan is headed, circled, 'Mark - 8/13/90'. It is the earliest dated page in the document.",
+      "source": "Scott interview notes, pages 1 to 2 of the scan, https://www.arvp.co.uk/wp-content/uploads/2024/12/SORENSEN-1990-INTERVIEW.pdf"
+    },
+    {
+      "id": "tl-1990-10-01-avweek-artwork",
+      "strand": "witness",
+      "date": "1990-10-01",
+      "precision": "day",
+      "tier": "B",
+      "node": "mark-mccandlish",
+      "label": "YEAR INFERRED: Aviation Week prints McCandlish's paintings of two aircraft",
+      "text": "The 1990 interview notes state 'Brad is the source of artwork done by Mark McCandlish and featured in AVWK's Oct. 1 issue.' The year is 1990 only by the document's own December 1990 dating, and the issue itself was NOT OPENED. It is the highest-value gap on this lead.",
+      "source": "Scott interview notes transcript p 1, https://www.arvp.co.uk/wp-content/uploads/2024/12/SORENSEN-1990-INTERVIEW.pdf"
+    },
+    {
+      "id": "tl-1990-12-03-scott-interview",
+      "strand": "witness",
+      "date": "1990-12-03",
+      "precision": "day",
+      "tier": "B",
+      "node": "scott-sorensen-notes-1990",
+      "label": "Scott interviews 'Brad' for one hour in his Pasadena office, on two tapes",
+      "text": "William B. Scott, senior engineering editor of Aviation Week & Space Technology, interviewed the claimed eyewitness for one paid hour: 'He agreed to a one-hr. session in his Pasadena office, pointedly telling me that he gets $200/hr. for his time, and one hr. was all he could give me.' Internal markers show two tapes.",
+      "source": "Scott interview notes transcript pp 1 and 5, https://www.arvp.co.uk/wp-content/uploads/2024/12/SORENSEN-1990-INTERVIEW.pdf"
+    },
+    {
+      "id": "tl-1990-12-10-scott-addendum",
+      "strand": "witness",
+      "date": "1990-12-10",
+      "precision": "day",
+      "tier": "B",
+      "node": "scott-sorensen-notes-1990",
+      "label": "Handwritten addendum: 'As of 12/10/90 - additional info from Brad'",
+      "text": "Page 16 of the transcript carries a handwritten addendum in the same hand, followed by notes on a diamond-shaped aircraft slowing to subsonic speeds to dispense weapons. The interview was followed up before the notes were compiled.",
+      "source": "Scott interview notes transcript p 16, https://www.arvp.co.uk/wp-content/uploads/2024/12/SORENSEN-1990-INTERVIEW.pdf"
+    },
+    {
+      "id": "tl-1990-12-11-scott-compiled",
+      "strand": "witness",
+      "date": "1990-12-11",
+      "precision": "day",
+      "tier": "B",
+      "node": "scott-sorensen-notes-1990",
+      "label": "The 16 page transcript is compiled: 'COMPILED 12-11-90; SCOTT/AVWK LANCASTER'",
+      "text": "The typed transcript is hand-numbered 1 to 16 and headed 'NOTES FROM INTERVIEW ON 12-3-90 WITH BRAD' and 'COMPILED 12-11-90; SCOTT/AVWK LANCASTER'. Nothing in the 31 pages is a published article; Aviation Week printed the artwork, not the interview.",
+      "source": "Scott interview notes transcript p 1, https://www.arvp.co.uk/wp-content/uploads/2024/12/SORENSEN-1990-INTERVIEW.pdf"
+    },
+    {
+      "id": "tl-2000-09-williams-testimony",
+      "strand": "witness",
+      "date": "2000-09",
+      "precision": "month",
+      "tier": "B",
+      "node": "disclosure-project-briefing-2001",
+      "label": "Lt Col John Williams's Disclosure Project testimony on a compartmented facility at Norton",
+      "text": "Printed in the same document as McCandlish's. Williams says he 'was responsible for that base's facilities from 1981-82' and that 'I was never allowed in that area when I was there at Norton Air Force Base'. Greer cross-references the two testimonies to each other in bracketed notes signed 'SG'.",
+      "source": "Disclosure Project Briefing Document, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt"
+    },
+    {
+      "id": "tl-2000-12-mccandlish-testimony",
+      "strand": "witness",
+      "date": "2000-12",
+      "precision": "month",
+      "tier": "B",
+      "node": "mark-mccandlish",
+      "label": "McCandlish's Disclosure Project testimony is taken",
+      "text": "Printed at section 3.8.5 under the heading 'Testimony of Mr. Mark McCandlish, US Air Force / December 2000'. It is where the claimed craft acquires the names Alien Reproduction Vehicle and Flux Liner in print, where the sizes are given as 24 / 60 / 'about 120 to 130 feet', and where the Frank Carlucci identification is published in his own voice and labelled as his own speculation.",
+      "source": "Disclosure Project Briefing Document section 3.8.5, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt"
+    },
+    {
+      "id": "tl-2001-04-briefing-document",
+      "strand": "witness",
+      "date": "2001-04",
+      "precision": "month",
+      "tier": "B",
+      "node": "disclosure-project-briefing-2001",
+      "label": "The Disclosure Project Briefing Document is prepared by Greer and Loder",
+      "text": "The roughly 500 page compilation prepared by Steven M. Greer MD and Theodore C. Loder III PhD, printing summarised witness testimony including McCandlish's of December 2000. It is the custody point for dozens of this board's witness claims.",
+      "source": "Disclosure Project Briefing Document, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt"
+    },
+    {
+      "id": "tl-2013-06-02-zero-point-release",
+      "strand": "witness",
+      "date": "2013-06-02",
+      "precision": "day",
+      "tier": "C",
+      "node": "zero-point-documentary",
+      "label": "US release date given by IMDb for the Zero Point documentary",
+      "text": "IMDb tt6111304 gives a US release date of 2 June 2013 for 'Zero Point: The Story of Mark McCandlish and the Flux Liner', a 1h 32m documentary with James Allen credited as director and writer. IMDb is user-maintained and the film itself was not opened. The UAP Gerb episode description calls it the '2014 Zero Point Documentary'.",
+      "source": "IMDb tt6111304, https://www.imdb.com/title/tt6111304/, opened 18 September 2026"
+    },
+    {
+      "id": "tl-2021-04-13-mccandlish-death",
+      "strand": "witness",
+      "date": "2021-04-13",
+      "precision": "day",
+      "tier": "B",
+      "node": "mark-mccandlish",
+      "label": "McCandlish declared deceased at 1946 Trumpet Drive, Redding, California",
+      "text": "Shasta County Sheriff-Coroner case C21-0324, Verdict of Death (without jury): 'In the matter of the death of Mark Edward McCandlish, a 68 year old male ... he was declared deceased on the 13th day of April 2021.' Cause of death 'Gunshot wound of head'; other significant conditions 'None'.",
+      "source": "Shasta County Sheriff-Coroner, Verdict of Death, case C21-0324, https://drive.google.com/file/d/1UNSHXesvWduXFduto_Cqh4LDOCG4gIkX/view"
+    },
+    {
+      "id": "tl-2021-04-19-external-examination",
+      "strand": "witness",
+      "date": "2021-04-19",
+      "precision": "day",
+      "tier": "B",
+      "node": "mark-mccandlish",
+      "label": "External examination at 0713 by Dan Purtzer MD; no internal examination performed",
+      "text": "The Report of External Examination, dated 04/19/21 at 0713, gives the cause of death as 'central nervous system damage caused by self-inflicted gunshot wound to the head', records an entrance wound '1 cm above the right ear' whose edges 'have powder burns' and an exit wound above the left ear, and states on page 2: 'Due to the obvious cause of death, internal examination is not performed.'",
+      "source": "Shasta County Sheriff-Coroner, Report of External Examination, case C21-0324, https://drive.google.com/file/d/1UNSHXesvWduXFduto_Cqh4LDOCG4gIkX/view"
+    },
+    {
+      "id": "tl-2021-06-21-verdict-signed",
+      "strand": "witness",
+      "date": "2021-06-21",
+      "precision": "day",
+      "tier": "B",
+      "node": "mark-mccandlish",
+      "label": "Verdict of Death signed by Chief Deputy Coroner Logan Stonehouse; manner of death Suicide",
+      "text": "The verdict gives manner of death as Suicide and records that 'Phillip Wacker, Deputy Coroner, conducted the investigation and established the identity of the decedent. A postmortem examination was conducted by Dr. Dan Purtzer, M.D., Pathologist.' The postmortem it rests on is an external examination that expressly declined an internal one.",
+      "source": "Shasta County Sheriff-Coroner, Verdict of Death, case C21-0324, https://drive.google.com/file/d/1UNSHXesvWduXFduto_Cqh4LDOCG4gIkX/view"
+    },
+    {
+      "id": "tl-2024-10-17-scott-pdf-created",
+      "strand": "witness",
+      "date": "2024-10-17",
+      "precision": "day",
+      "tier": "C",
+      "node": "scott-sorensen-notes-1990",
+      "label": "The PDF of the Scott notes is created, per its own metadata",
+      "text": "The file's own /CreationDate is 'D:20241017132510' and its /Producer and /Creator are both 'PDFium'. It is 9,172,025 bytes over 31 pages with 31 embedded JPEG page images and no text layer. Nothing in it establishes who held the notes between 1990 and 2024.",
+      "source": "PDF metadata, https://www.arvp.co.uk/wp-content/uploads/2024/12/SORENSEN-1990-INTERVIEW.pdf, read 18 September 2026"
+    },
+    {
+      "id": "tl-2024-10-21-gerb-arv-episode",
+      "strand": "witness",
+      "date": "2024-10-21",
+      "precision": "day",
+      "tier": "C",
+      "node": "mark-mccandlish",
+      "label": "UAP Gerb publishes 'Alien Reproduction Vehicle - the Testimony of Mark McCandlish'",
+      "text": "Video id wF07QMm6joE, channel 'UAP Gerb', runtime 01:09:12. Its description opens 'In late 1988, accomplished aerospace illustrator Mark McCandlish came into information that indicated the United States ...'. This is the episode that brings the account to this board's corpus; several assertions attributed to Gerb in the corpus files are recorded on these nodes as unverified rather than as claims.",
+      "source": "YouTube listing for video wF07QMm6joE, https://www.youtube.com/watch?v=wF07QMm6joE, opened 18 September 2026"
+    },
+    {
+      "id": "tl-2024-12-scott-pdf-uploaded",
+      "strand": "witness",
+      "date": "2024-12",
+      "precision": "month",
+      "tier": "C",
+      "node": "arvp-fluxliner-project",
+      "label": "The Scott notes are uploaded to arvp.co.uk",
+      "text": "The PDF sits under the path /wp-content/uploads/2024/12/ on a site whose operator is not named anywhere on the pages opened. This is the point at which the only opened copy of the primary document enters the public record.",
+      "source": "URL path, https://www.arvp.co.uk/wp-content/uploads/2024/12/SORENSEN-1990-INTERVIEW.pdf, read 18 September 2026"
+    },
+    {
+      "id": "tl-2024-12-12-michels-davis-episode",
+      "strand": "witness",
+      "date": "2024-12-12",
+      "precision": "day",
+      "tier": "C",
+      "node": "arv-fluxliner",
+      "label": "Jesse Michels publishes the Eric Davis episode carrying the denial",
+      "text": "Video id LnAiNChnuEQ, runtime 52:45, as opened on 18 September 2026 titled 'Eric Davis: A US President Was Briefed on UFOs!' on the channel 'Jesse Michels'. research/leads/michels-corpus-03.md file 04 recorded the same episode under the title 'CIA Scientist: George Bush Was Briefed on UFOs (ft. Eric Davis)' on 'American Alchemy'; the channel and the title now differ, and the corpus timestamp 0:36:24 to 0:38:00 falls inside the 52:45 runtime. The episode is identified by video id, not by title.",
+      "source": "Jesse Michels, video id LnAiNChnuEQ, https://www.youtube.com/watch?v=LnAiNChnuEQ, opened 18 September 2026"
+    }
+  ],
+  "entityInfo": {},
+  "gaps": [
+    {
+      "id": "gap-aviation-week-1990-10-01",
+      "text": "HIGHEST-VALUE GAP ON THIS LEAD. The Aviation Week & Space Technology issue of 1 October 1990, carrying McCandlish's two paintings, was NOT OPENED. It is named inside the 1990 primary document ('featured in AVWK's Oct. 1 issue') and it is the only element of this thread that was actually published in the contemporary trade press. Opening it would date the artwork independently of the account and show what caption Aviation Week put on it. The year 1990 currently follows only from the interview notes' own December 1990 dating.",
+      "wouldClose": "The McGraw-Hill back files, a university periodicals collection, or the Aviation Week archive."
+    },
+    {
+      "id": "gap-mccandlish-arv-drawing",
+      "text": "The McCandlish ARV cut-away drawing itself was NOT OPENED as an image. The Briefing Document's OCR text refers to it ('a cut-away illustration, pretty much like the one I'll show you in a little bit') but the plate is not in the text layer, and the arvp.co.uk page says of the original 'now that Mark has passed on it's impossible to get hold of'. No node is built for the drawing as a document.",
+      "wouldClose": "Extracting the plate section of the archive.org PDF at https://ia601205.us.archive.org/16/items/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument.pdf , whose images this research did not extract; Greer's own archive; or the book 'Disclosure' (Crossing Point, 2001)."
+    },
+    {
+      "id": "gap-greer-disclosure-book-2001",
+      "text": "The book 'Disclosure: Military and Government Witnesses Reveal the Greatest Secrets in Modern History', Greer, 2001, was NOT OPENED. Its Kindle edition was located only. The book version of the testimony may differ from the Briefing Document version.",
+      "wouldClose": "A diff between the book text and the Briefing Document text, which would show whether the craft sizes and the Carlucci line were edited between them."
+    },
+    {
+      "id": "gap-national-press-club-2001-05-09",
+      "text": "No C-SPAN or news-network recording of the Disclosure Project's National Press Club event of 9 May 2001, with a participant list, was opened. c-span.org returned HTTP 403 to this environment. Whether McCandlish was present is therefore NOT ESTABLISHED, and the claim is carried in unverified on mark-mccandlish rather than as a claim or a timeline event.",
+      "wouldClose": "The c-span.org video library, or the Internet Archive TV news collection. It settles the premise of area52-triage-5.md row A12 either way."
+    },
+    {
+      "id": "gap-zero-point-film-itself",
+      "text": "The film Zero Point was NOT OPENED, and neither was its full-credits page: imdb.com/title/tt6111304/fullcredits/ returned HTTP 403. The IMDb title page was opened on 18 September 2026 and everything on the node that comes from it is graded Tier 2 as a user-maintained listing. The film's own assertions, including anything it says about its writer-director, remain unread.",
+      "wouldClose": "The YouTube copy linked from arvp.co.uk (video id afLsRsd5roY), Vimeo on demand, or the IMDb full-credits page from an environment it does not refuse."
+    },
+    {
+      "id": "gap-secretprojects-norton-thread",
+      "text": "The secretprojects.co.uk thread on the 1988 Norton exhibit, at https://www.secretprojects.co.uk/threads/1988-norton-afb-classified-aircraft-exhibit-super-stol-aircraft.31469/ , returned HTTP 403 and was NOT OPENED. It was the most promising candidate for aerospace-community skeptical analysis, which this lead is otherwise thin on.",
+      "wouldClose": "Reading the thread from an environment the forum does not refuse."
+    },
+    {
+      "id": "gap-norton-1988-open-house-record",
+      "text": "The 1988 Norton AFB open house programme, and the 63rd Military Airlift Wing history for 1988, were NOT OPENED. Who was invited, what was on static display, and whether any hangar was closed to the public are therefore not established by any record.",
+      "wouldClose": "The Air Force Historical Research Agency, or a base open-house programme in a collector's hands."
+    },
+    {
+      "id": "gap-shasta-c21-0324-investigation",
+      "text": "The Shasta County Sheriff's investigative report behind case C21-0324 was NOT OPENED. What is opened is the Verdict of Death and the Report of External Examination, which are the conclusions; the investigation that produced them is not in the record. The external examination expressly declined an internal one, so the file is thinner than the argument built on it in both directions.",
+      "wouldClose": "A records request to the Shasta County Sheriff's Office."
+    },
+    {
+      "id": "gap-brad-sorensen-identification",
+      "text": "No record of Brad Sorensen under that surname was opened, and nobody in the opened record appears to have tried. The 1990 primary document gives a first name, a school (Pasadena Art Center), engineering classes at Cal Tech, a client list (Rossignol skis, the Mazda RX-7 from 1986, electric toothbrushes, motorcycle helmets), an hourly rate of $200 and his own design business with prototyping shops. That is enough to attempt an identification.",
+      "wouldClose": "California business registrations; design-industry press for Rossignol and the Mazda RX-7; Pasadena Art Center alumni records."
+    }
+  ]
+}

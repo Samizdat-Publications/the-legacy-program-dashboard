@@ -1,0 +1,216 @@
+{
+"A": 0,
+"C": 0,
+"D": 2,
+"band": null,
+"claims": [
+{
+"source": "https://www.arvp.co.uk/wp-content/uploads/2024/12/SORENSEN-1990-INTERVIEW.pdf , pages 1 to 2 of the scan, 1990-08-13",
+"text": "The document is 31 scanned pages in one PDF. Its first pages are handwritten notes printed on Aviation Week & Space Technology letterhead over the name block 'William B. Scott / Senior Engineering Editor', with a McGraw-Hill logo in the lower right. One such sheet is headed, circled, 'Mark - 8/13/90'.",
+"tier": 1
+},
+{
+"source": "https://www.arvp.co.uk/wp-content/uploads/2024/12/SORENSEN-1990-INTERVIEW.pdf , transcript pp 1 and 5, 1990-12-11",
+"text": "Its core is a 16 page typed transcript, hand-numbered 1 to 16 at the top right, headed 'NOTES FROM INTERVIEW ON 12-3-90 WITH BRAD' and 'COMPILED 12-11-90; SCOTT/AVWK LANCASTER'. Internal markers show it was taped: '[end side A of tape 1]', 'Side B/tape 1', '[end of tape 1, side b]', '[tape 2,side a]'.",
+"tier": 1
+},
+{
+"source": "https://www.arvp.co.uk/wp-content/uploads/2024/12/SORENSEN-1990-INTERVIEW.pdf , transcript p 16, 1990-12-10",
+"text": "Page 16 carries a handwritten addendum in the same hand: 'As of 12/10/90 - additional info from Brad', followed by notes on a diamond-shaped aircraft slowing to subsonic speeds to dispense weapons. The interview was therefore followed up before the notes were compiled.",
+"tier": 1
+},
+{
+"source": "https://www.arvp.co.uk/wp-content/uploads/2024/12/SORENSEN-1990-INTERVIEW.pdf , transcript pp 11 and 16, 1990-12-11",
+"text": "The interviewer records his own reservations inside the document. Of the propulsion explanation: '[note: think he's talking frequency here, not wavelength, but he continued to confuse the two; also, long antenna hardly consistent with detecting extremely hi freq, if that's really what he meant.]' Of the witness's terms, in notes written 'after leaving meeting, while driving': 'He reminded me a couple of times that he gets $200/hr. as a designer. So, who knows--he may charge us. he also said if we wanted a good rendering of the base burning vehicle, he could provide that for a couple thousand dollars.'",
+"tier": 1
+},
+{
+"source": "https://www.arvp.co.uk/wp-content/uploads/2024/12/SORENSEN-1990-INTERVIEW.pdf , transcript p 10, 1990-12-03",
+"text": "The document contains the witness disowning part of McCandlish's drawing. Shown the sketches, Sorensen says of the manned vehicle: 'this is probably the farthest from what I saw, and no, I didn't see anything with an intake up above the windows like this', and 'mark extrapolates a bit too much'. Of the saucer drawing he says the opposite: 'you've got a drawing, as accurate as I could get [the round, saucer-looking thing]. This dwg is so GD..accurate that I can't be much more specific than this.'",
+"tier": 1
+},
+{
+"source": "https://www.arvp.co.uk/wp-content/uploads/2024/12/SORENSEN-1990-INTERVIEW.pdf , transcript p 1, 1990-12-11",
+"text": "The document is a working file, not a publication. Nothing in the 31 pages is a published article, and the notes state that the witness had previously refused to talk and that the artwork, not the interview, was what Aviation Week printed.",
+"tier": 1
+},
+{
+"source": "PDF metadata and URL path, https://www.arvp.co.uk/wp-content/uploads/2024/12/SORENSEN-1990-INTERVIEW.pdf , read 2026-09-18",
+"text": "The scan's provenance before December 2024 is not established by anything in it. The PDF's own metadata gives /CreationDate 'D:20241017132510' and /Producer and /Creator both 'PDFium'; the file is 9,172,025 bytes over 31 pages with 31 embedded JPEG page images and zero embedded fonts, so it is a scan with no text layer; and it sits under /wp-content/uploads/2024/12/ on a site whose operator is not named. Who held the notes between 1990 and 2024, and how they reached that site, is not in the opened record.",
+"tier": 3
+}
+],
+"cls": "document",
+"cluster": "media",
+"connections": [
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": "1990-12-11",
+"dateStart": "1990-12-03",
+"direction": "out",
+"edgeLabel": "Earliest opened record of the claimed craft",
+"id": "arv-fluxliner",
+"l0": true,
+"label": "Alien Reproduction Vehicle (ARV) / Flux Liner",
+"note": "It carries the nursery-rhyme naming, the witness's own disclaimed sizes, his judgement that the craft looked poorly built, and his partial disowning of the drawing. It is the record against which every later retelling can be measured.",
+"sources": [
+{
+"date": "1990-12-11",
+"name": "William B. Scott, interview notes on 'Brad', 3 December 1990, scanned PDF hosted by arvp.co.uk",
+"url": "https://www.arvp.co.uk/wp-content/uploads/2024/12/SORENSEN-1990-INTERVIEW.pdf"
+}
+],
+"tier": "B",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "2024-12",
+"dateStart": "2024-10-17",
+"direction": "out",
+"edgeLabel": "The only opened copy of the notes is the scan that site hosts",
+"id": "arvp-fluxliner-project",
+"l0": false,
+"label": "ARVP (arvp.co.uk), the Flux Liner project site",
+"note": "The PDF sits under /wp-content/uploads/2024/12/ on arvp.co.uk with /CreationDate 'D:20241017132510'. Who held the notes between 1990 and 2024, and how they reached that site, is not in the opened record.",
+"sources": [
+{
+"date": "1990-12-11",
+"name": "William B. Scott, interview notes on 'Brad', 3 December 1990, scanned PDF hosted by arvp.co.uk",
+"url": "https://www.arvp.co.uk/wp-content/uploads/2024/12/SORENSEN-1990-INTERVIEW.pdf"
+},
+{
+"date": "2026-09-18",
+"name": "arvp.co.uk, FLUX 1988 page",
+"url": "https://www.arvp.co.uk/flux-01/"
+}
+],
+"tier": "B",
+"type": "custody"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "1990-12-11",
+"dateStart": "1990-12-03",
+"direction": "in",
+"edgeLabel": "Interviewee; the notes are his account in his own words",
+"id": "brad-sorensen",
+"l0": false,
+"label": "'Brad' Sorensen",
+"note": "The document's own header: 'NOTES FROM INTERVIEW ON 12-3-90 WITH BRAD', 'COMPILED 12-11-90; SCOTT/AVWK LANCASTER'. He gave one paid hour in his Pasadena office and had refused an approach the previous summer.",
+"sources": [
+{
+"date": "1990-12-11",
+"name": "William B. Scott, interview notes on 'Brad', 3 December 1990, scanned PDF hosted by arvp.co.uk",
+"url": "https://www.arvp.co.uk/wp-content/uploads/2024/12/SORENSEN-1990-INTERVIEW.pdf"
+}
+],
+"tier": "B",
+"type": "witness-chain"
+},
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": "1990-12-11",
+"dateStart": "1990-12-03",
+"direction": "out",
+"edgeLabel": "Earliest opened record of the claim, taken about two years after the alleged event",
+"id": "norton-afb-airshow-1988",
+"l0": false,
+"label": "Norton AFB air show, 12 November 1988, and the alleged classified exhibit",
+"note": "An Aviation Week senior engineering editor's own notes and transcript. It is the only contemporaneous document in the thread and it carries both the claim and the interviewer's own reservations.",
+"sources": [
+{
+"date": "1990-12-11",
+"name": "William B. Scott, interview notes on 'Brad', 3 December 1990, scanned PDF hosted by arvp.co.uk",
+"url": "https://www.arvp.co.uk/wp-content/uploads/2024/12/SORENSEN-1990-INTERVIEW.pdf"
+}
+],
+"tier": "B",
+"type": "investigative"
+}
+],
+"coords": null,
+"dateEnd": "1990-12-11",
+"dateStart": "1990-08-13",
+"deg": 4,
+"denials": [],
+"desc": "This is the strongest artefact in the whole thread and it cuts both ways. It is a contemporaneous working file authored by a named trade-press editor within two years of the claimed event: thirty-one scanned pages, opening with handwritten notes on Aviation Week & Space Technology letterhead over the name block 'William B. Scott / Senior Engineering Editor', followed by a sixteen page typed transcript headed 'NOTES FROM INTERVIEW ON 12-3-90 WITH BRAD' and 'COMPILED 12-11-90; SCOTT/AVWK LANCASTER'. It carries the claim in the witness's own words, and it carries the interviewer's own doubts in the same pages: a bracketed note that the witness 'continued to confuse' frequency and wavelength, and a note written while driving away that the witness had twice mentioned his $200 an hour rate and had offered a rendering for 'a couple thousand dollars'. Nothing in the thirty-one pages is a published article. Aviation Week printed McCandlish's artwork, not this interview. The scan reached the public through an anonymously operated website in December 2024 and its custody before that date is not established by anything in it.",
+"domains": [
+"arv-2026-09-18"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "1",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "scott-sorensen-notes-1990",
+"l0": false,
+"label": "William B. Scott's interview notes on 'Brad', 3 December 1990",
+"locLabel": null,
+"members": null,
+"short": "William B. Scott's interview notes on 'Brad', 3 December 1990",
+"sources": [
+{
+"date": "1990-12-11",
+"name": "William B. Scott, interview notes and 16 page typed transcript on 'Brad', 3 December 1990, scanned PDF hosted by arvp.co.uk",
+"url": "https://www.arvp.co.uk/wp-content/uploads/2024/12/SORENSEN-1990-INTERVIEW.pdf"
+}
+],
+"sub": "31 scanned pages: handwritten notes on Aviation Week & Space Technology letterhead plus a 16 page typed transcript; never published",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 484 of 1066, score 30). 4 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D2.",
+"timeline": [
+{
+"date": "1990-08-13",
+"id": "tl-1990-08-13-scott-mark-notes",
+"label": "Scott's handwritten sheet headed 'Mark - 8/13/90'",
+"precision": "day",
+"strand": "witness",
+"text": "One of the handwritten sheets on Aviation Week & Space Technology letterhead in the 31 page scan is headed, circled, 'Mark - 8/13/90'. It is the earliest dated page in the document.",
+"tier": "B"
+},
+{
+"date": "1990-12-03",
+"id": "tl-1990-12-03-scott-interview",
+"label": "Scott interviews 'Brad' for one hour in his Pasadena office, on two tapes",
+"precision": "day",
+"strand": "witness",
+"text": "William B. Scott, senior engineering editor of Aviation Week & Space Technology, interviewed the claimed eyewitness for one paid hour: 'He agreed to a one-hr. session in his Pasadena office, pointedly telling me that he gets $200/hr. for his time, and one hr. was all he could give me.' Internal markers show two tapes.",
+"tier": "B"
+},
+{
+"date": "1990-12-10",
+"id": "tl-1990-12-10-scott-addendum",
+"label": "Handwritten addendum: 'As of 12/10/90 - additional info from Brad'",
+"precision": "day",
+"strand": "witness",
+"text": "Page 16 of the transcript carries a handwritten addendum in the same hand, followed by notes on a diamond-shaped aircraft slowing to subsonic speeds to dispense weapons. The interview was followed up before the notes were compiled.",
+"tier": "B"
+},
+{
+"date": "1990-12-11",
+"id": "tl-1990-12-11-scott-compiled",
+"label": "The 16 page transcript is compiled: 'COMPILED 12-11-90; SCOTT/AVWK LANCASTER'",
+"precision": "day",
+"strand": "witness",
+"text": "The typed transcript is hand-numbered 1 to 16 and headed 'NOTES FROM INTERVIEW ON 12-3-90 WITH BRAD' and 'COMPILED 12-11-90; SCOTT/AVWK LANCASTER'. Nothing in the 31 pages is a published article; Aviation Week printed the artwork, not the interview.",
+"tier": "B"
+},
+{
+"date": "2024-10-17",
+"id": "tl-2024-10-17-scott-pdf-created",
+"label": "The PDF of the Scott notes is created, per its own metadata",
+"precision": "day",
+"strand": "witness",
+"text": "The file's own /CreationDate is 'D:20241017132510' and its /Producer and /Creator are both 'PDFium'. It is 9,172,025 bytes over 31 pages with 31 embedded JPEG page images and no text layer. Nothing in it establishes who held the notes between 1990 and 2024.",
+"tier": "C"
+}
+]
+}

@@ -1,6 +1,6 @@
 # The oversight band
 
-The programme map splits the 137 nodes closest to the alleged programme into seven bands, and this file is the oversight band: 23 nodes, taken era by era from the earliest to the most recent. Each entry gives what the node is, why the board places it here, why it holds the tier it holds, what it has denied, its documented and testimonial claims with their sources, and the links that tie it to the rest of the board.
+The programme map splits the 139 nodes closest to the alleged programme into seven bands, and this file is the oversight band: 23 nodes, taken era by era from the earliest to the most recent. Each entry gives what the node is, why the board places it here, why it holds the tier it holds, what it has denied, its documented and testimonial claims with their sources, and the links that tie it to the rest of the board.
 
 Names in full, for this file:
 
@@ -55,7 +55,7 @@ Roles the board assigns it: oversight, disclosure.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 184 of 1057, score 45). 18 connections, 1 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C0/A1/D3.
+Re-graded B on a global pass (rank 186 of 1066, score 45). 18 connections, 1 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C0/A1/D3.
 
 ### The claims on the record
 
@@ -133,7 +133,7 @@ Roles the board assigns it: disclosure, oversight.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 284 of 1057, score 38). 7 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A1/D1.
+Re-graded B on a global pass (rank 286 of 1066, score 38). 7 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A1/D1.
 
 ### The claims on the record
 
@@ -204,7 +204,7 @@ Roles the board assigns it: oversight, disclosure, concealment.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 228 of 1057, score 41). 12 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A3/D3.
+Re-graded B on a global pass (rank 229 of 1066, score 41). 12 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A3/D3.
 
 ### The claims on the record
 
@@ -277,7 +277,7 @@ Roles the board assigns it: oversight, disclosure, concealment.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 187 of 1057, score 45). 7 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A1/D3.
+Re-graded B on a global pass (rank 189 of 1066, score 45). 7 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A1/D3.
 
 ### The claims on the record
 
@@ -350,7 +350,7 @@ Roles the board assigns it: oversight, concealment.
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 549 of 1057, score 28). 7 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D2.
+Re-graded C on a global pass (rank 555 of 1066, score 28). 7 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D2.
 
 ### The claims on the record
 
@@ -408,7 +408,7 @@ Roles the board assigns it: oversight, concealment.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 390 of 1057, score 33). 6 connections, 1 of them custody/funding/programmatic. Axes C1/A1/D1.
+Re-graded B on a global pass (rank 393 of 1066, score 33). 6 connections, 1 of them custody/funding/programmatic. Axes C1/A1/D1.
 
 ### The claims on the record
 
@@ -454,7 +454,7 @@ Roles the board assigns it: concealment, disclosure, oversight.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 90 of 1057, score 65). 9 connections, 0 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C0/A3/D2.
+Re-graded A on a global pass (rank 90 of 1066, score 65). 9 connections, 0 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C0/A3/D2.
 
 ### The claims on the record
 
@@ -508,7 +508,7 @@ Roles the board assigns it: oversight, disclosure.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 321 of 1057, score 36). 6 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D2.
+Re-graded B on a global pass (rank 324 of 1066, score 36). 6 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D2.
 
 ### The claims on the record
 
@@ -563,7 +563,7 @@ Roles the board assigns it: concealment, oversight.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 57 of 1057, score 74). 8 connections, 2 of them custody/funding/programmatic. Axes C0/A3/D3.
+Re-graded A on a global pass (rank 57 of 1066, score 74). 8 connections, 2 of them custody/funding/programmatic. Axes C0/A3/D3.
 
 ### The claims on the record
 
@@ -650,7 +650,7 @@ Roles the board assigns it: concealment, disclosure, oversight.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 6 of 1057, score 156). 37 connections, 5 of them custody/funding/programmatic, 18 official denials recorded against it. Axes C1/A3/D3.
+Re-graded A on a global pass (rank 6 of 1066, score 156). 37 connections, 5 of them custody/funding/programmatic, 18 official denials recorded against it. Axes C1/A3/D3.
 
 ### The claims on the record
 
@@ -746,7 +746,7 @@ Roles the board assigns it: disclosure, oversight.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 56 of 1057, score 75). 20 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D3.
+Re-graded A on a global pass (rank 56 of 1066, score 75). 20 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D3.
 
 ### The claims on the record
 
@@ -847,7 +847,7 @@ Roles the board assigns it: concealment, oversight, disclosure.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 25 of 1057, score 100). 19 connections, 5 of them custody/funding/programmatic, 6 official denials recorded against it. Axes C2/A3/D3.
+Re-graded A on a global pass (rank 26 of 1066, score 100). 19 connections, 5 of them custody/funding/programmatic, 6 official denials recorded against it. Axes C2/A3/D3.
 
 ### The claims on the record
 
@@ -945,7 +945,7 @@ Roles the board assigns it: oversight, disclosure, concealment.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 20 of 1057, score 107). 23 connections, 5 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A2/D3.
+Re-graded A on a global pass (rank 21 of 1066, score 107). 23 connections, 5 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A2/D3.
 
 ### The claims on the record
 
@@ -1043,7 +1043,7 @@ Roles the board assigns it: oversight, disclosure.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 47 of 1057, score 82). 17 connections, 1 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C0/A1/D3.
+Re-graded A on a global pass (rank 47 of 1066, score 82). 17 connections, 1 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C0/A1/D3.
 
 ### The claims on the record
 
@@ -1143,7 +1143,7 @@ Roles the board assigns it: oversight, disclosure, concealment.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 97 of 1057, score 62). 14 connections, 1 of them custody/funding/programmatic. Axes C0/A2/D3.
+Re-graded A on a global pass (rank 97 of 1066, score 62). 14 connections, 1 of them custody/funding/programmatic. Axes C0/A2/D3.
 
 ### The claims on the record
 
@@ -1238,7 +1238,7 @@ Roles the board assigns it: disclosure, oversight, concealment.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 26 of 1057, score 99). 14 connections, 2 of them custody/funding/programmatic, 4 official denials recorded against it. Axes C2/A3/D3.
+Re-graded A on a global pass (rank 27 of 1066, score 99). 14 connections, 2 of them custody/funding/programmatic, 4 official denials recorded against it. Axes C2/A3/D3.
 
 ### The claims on the record
 
@@ -1335,7 +1335,7 @@ Roles the board assigns it: disclosure, concealment, oversight.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 67 of 1057, score 71). 10 connections, 2 of them custody/funding/programmatic, 4 official denials recorded against it. Axes C2/A3/D3.
+Re-graded A on a global pass (rank 67 of 1066, score 71). 10 connections, 2 of them custody/funding/programmatic, 4 official denials recorded against it. Axes C2/A3/D3.
 
 ### The claims on the record
 
@@ -1416,7 +1416,7 @@ Roles the board assigns it: disclosure, oversight.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 351 of 1057, score 35). 10 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.
+Re-graded B on a global pass (rank 354 of 1066, score 35). 10 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.
 
 ### The claims on the record
 
@@ -1502,7 +1502,7 @@ Roles the board assigns it: oversight, concealment, disclosure.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 78 of 1057, score 68). 8 connections, 1 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C0/A2/D2.
+Re-graded A on a global pass (rank 78 of 1066, score 68). 8 connections, 1 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C0/A2/D2.
 
 ### The claims on the record
 
@@ -1595,7 +1595,7 @@ Roles the board assigns it: oversight, disclosure.
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 594 of 1057, score 26). 8 connections, 1 of them custody/funding/programmatic. Axes C0/A1/D3.
+Re-graded C on a global pass (rank 602 of 1066, score 26). 8 connections, 1 of them custody/funding/programmatic. Axes C0/A1/D3.
 
 ### The claims on the record
 
@@ -1683,7 +1683,7 @@ Roles the board assigns it: concealment, oversight, disclosure.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 478 of 1057, score 30). 6 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D3.
+Re-graded B on a global pass (rank 485 of 1066, score 30). 6 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D3.
 
 ### The claims on the record
 
@@ -1764,7 +1764,7 @@ Roles the board assigns it: oversight, disclosure.
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 680 of 1057, score 23). 6 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.
+Re-graded C on a global pass (rank 689 of 1066, score 23). 6 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.
 
 ### The claims on the record
 
@@ -1828,7 +1828,7 @@ Roles the board assigns it: oversight.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 23 of 1057, score 103). 31 connections, 2 of them custody/funding/programmatic. Axes C3/A1/D3.
+Re-graded A on a global pass (rank 24 of 1066, score 103). 31 connections, 2 of them custody/funding/programmatic. Axes C3/A1/D3.
 
 ### The claims on the record
 

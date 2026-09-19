@@ -1,6 +1,6 @@
 # The retrieval band
 
-The programme map splits the 137 nodes closest to the alleged programme into seven bands, and this file is the retrieval band: 11 nodes, taken era by era from the earliest to the most recent. Each entry gives what the node is, why the board places it here, why it holds the tier it holds, what it has denied, its documented and testimonial claims with their sources, and the links that tie it to the rest of the board.
+The programme map splits the 139 nodes closest to the alleged programme into seven bands, and this file is the retrieval band: 11 nodes, taken era by era from the earliest to the most recent. Each entry gives what the node is, why the board places it here, why it holds the tier it holds, what it has denied, its documented and testimonial claims with their sources, and the links that tie it to the rest of the board.
 
 # THROUGH 1969: Estimate through Blue Book
 
@@ -52,7 +52,7 @@ Roles the board assigns it: retrieval, reverse-engineering, concealment, funding
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 14 of 1057, score 115). 48 connections, 1 of them custody/funding/programmatic, 17 official denials recorded against it. Axes C3/A3/D1.
+Re-graded A on a global pass (rank 14 of 1066, score 115). 48 connections, 1 of them custody/funding/programmatic, 17 official denials recorded against it. Axes C3/A3/D1.
 
 ### The claims on the record
 
@@ -140,7 +140,7 @@ Roles the board assigns it: concealment, retrieval, custody.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 12 of 1057, score 118). 42 connections, 7 of them custody/funding/programmatic, 7 official denials recorded against it. Axes C2/A3/D1.
+Re-graded A on a global pass (rank 12 of 1066, score 118). 42 connections, 7 of them custody/funding/programmatic, 7 official denials recorded against it. Axes C2/A3/D1.
 
 ### The claims on the record
 
@@ -182,7 +182,7 @@ It carries 42 connections in total on the board.
 
 ## United States Air Force
 
-United States Air Force is a institution on the board; board tier A, named in sworn testimony or primary documents as directly inside the programme; dates 1947-09-18; axes C3 A3 D1; 21 connections; in the retrieval band.
+United States Air Force is a institution on the board; board tier A, named in sworn testimony or primary documents as directly inside the programme; dates 1947-09-18; axes C3 A3 D1; 22 connections; in the retrieval band.
 
 In one line: Military department; original custodian of the UFO record and of the Roswell material.
 
@@ -219,7 +219,7 @@ Roles the board assigns it: concealment, custody, retrieval, disclosure.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 41 of 1057, score 85). 22 connections, 6 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C3/A3/D1.
+Re-graded A on a global pass (rank 41 of 1066, score 86). 23 connections, 6 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C3/A3/D1.
 
 ### The claims on the record
 
@@ -249,7 +249,7 @@ Re-graded A on a global pass (rank 41 of 1057, score 85). 22 connections, 6 of t
 - United States Air Force comes in from **Foreign Technology Division, Wright-Patterson AFB** (institution, board tier B), a institutional link at Tier 1 documented. The link reads: Air Force Systems Command organisation under the DCS/Research and Development for the UFO programme. AFR 80-17 makes the Deputy Chief of Staff, Research and Development responsible for the overall programme and Air Force Systems Command responsible for supporting it through FTD. Sources: AFR 80-17, 19 September 1966, https://nicap.org/afr80-17.htm, dated 1966-09-19.
 - United States Air Force comes in from **Manned Orbiting Laboratory and the DORIAN / KH-10 reconnaissance payload** (program, board tier B), a institutional link at Tier 1 documented. The link reads: MOL was the Air Force's public programme. MOL was the Air Force's public programme and the service that selected and trained the seventeen officers. Sources: Spies in Space, NRO Center for the Study of National Reconnaissance, May 2019, https://www.govinfo.gov/content/pkg/GOVPUB-D-PURL-gpo123652/pdf/GOVPUB-D-PURL-gpo123652.pdf, dated 2019-05-01.
 
-It carries 22 connections in total on the board.
+It carries 23 connections in total on the board.
 
 ## Roswell Incident
 
@@ -302,7 +302,7 @@ Roles the board assigns it: retrieval, concealment, custody.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 31 of 1057, score 93). 17 connections, 3 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C3/A2/D3.
+Re-graded A on a global pass (rank 31 of 1066, score 93). 17 connections, 3 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C3/A2/D3.
 
 ### The claims on the record
 
@@ -395,7 +395,7 @@ Roles the board assigns it: concealment, custody, oversight, retrieval.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 181 of 1057, score 45). 7 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D0.
+Re-graded B on a global pass (rank 183 of 1066, score 45). 7 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D0.
 
 ### The claims on the record
 
@@ -463,7 +463,7 @@ Roles the board assigns it: retrieval.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 59 of 1057, score 74). 6 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A0/D2.
+Re-graded A on a global pass (rank 59 of 1066, score 74). 6 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A0/D2.
 
 ### The claims on the record
 
@@ -549,7 +549,7 @@ Roles the board assigns it: retrieval, concealment, custody, research.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 237 of 1057, score 41). 9 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A1/D3.
+Re-graded B on a global pass (rank 238 of 1066, score 41). 9 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A1/D3.
 
 ### The claims on the record
 
@@ -633,7 +633,7 @@ Roles the board assigns it: concealment, custody, oversight, retrieval.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 157 of 1057, score 49). 6 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A1/D3.
+Re-graded A on a global pass (rank 158 of 1066, score 49). 6 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A1/D3.
 
 ### The claims on the record
 
@@ -715,7 +715,7 @@ Roles the board assigns it: retrieval, custody, research, disclosure.
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 728 of 1057, score 22). 6 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.
+Re-graded C on a global pass (rank 736 of 1066, score 22). 6 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.
 
 ### The claims on the record
 
@@ -798,7 +798,7 @@ Roles the board assigns it: oversight, disclosure, custody, concealment, retriev
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 13 of 1057, score 116). 32 connections, 6 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A1/D3.
+Re-graded A on a global pass (rank 13 of 1066, score 116). 32 connections, 6 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A1/D3.
 
 ### The claims on the record
 
@@ -899,7 +899,7 @@ Roles the board assigns it: custody, retrieval, reverse-engineering, oversight, 
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 33 of 1057, score 91). 10 connections, 3 of them custody/funding/programmatic. Axes C3/A3/D3.
+Re-graded A on a global pass (rank 33 of 1066, score 91). 10 connections, 3 of them custody/funding/programmatic. Axes C3/A3/D3.
 
 ### The claims on the record
 

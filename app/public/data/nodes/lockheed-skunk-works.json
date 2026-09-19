@@ -150,6 +150,27 @@
 "type": "institutional"
 },
 {
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2000-12",
+"dateStart": "2000-12",
+"direction": "in",
+"edgeLabel": "Same relayed unnamed informant locates the Skunk Works catty-corner from Plant 42",
+"id": "mark-mccandlish",
+"l0": false,
+"label": "Mark McCandlish",
+"note": "Same passage, same caveat: relayed, unnamed and uncorroborated, and no record was opened.",
+"sources": [
+{
+"date": "2001-04",
+"name": "Disclosure Project Briefing Document, section 3.8.5",
+"url": "https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt"
+}
+],
+"tier": "A",
+"type": "witness-chain"
+},
+{
 "claimTier": 1,
 "cls": "document",
 "dateEnd": null,
@@ -195,7 +216,7 @@
 "coords": null,
 "dateEnd": null,
 "dateStart": "1943",
-"deg": 8,
+"deg": 9,
 "denials": [],
 "desc": "Skunk Works is the physical and cultural template for how an unacknowledged program is run inside a private corporation. Founded by Clarence 'Kelly' Johnson in 1943 and led by Ben Rich from 1975 to 1991, it produced the U-2, the A-12/SR-71, the F-117, Sea Shadow, DarkStar and the RQ-170 Sentinel - the last of which existed operationally for years before Lockheed acknowledged it, which is the point. AARO's Historical Record Report itself uses Skunk Works aircraft as the explanation for a class of UAP reports, conceding in the process that the organisation routinely fields flying hardware whose existence the government denies while it is flying. Its home is Air Force Plant 42 at Palmdale, a government-owned contractor-operated facility whose accreditation architecture supports program-level compartmentation. For this domain Skunk Works matters in two ways. It is the operational proof that a prime contractor can hold, fly and conceal an object of unknown provenance from everyone without a need to know, including senior officers in the chain of command. And it is the organisation Ben Rich ran, whose post-retirement remarks about technologies 'locked up in black projects' are the most quoted and least documented artifact in the entire field.",
 "domains": [
@@ -288,6 +309,12 @@
 },
 {
 "cls": "person",
+"id": "mark-mccandlish",
+"label": "Mark McCandlish",
+"tier": "A"
+},
+{
+"cls": "person",
 "id": "richard-m-bissell-jr",
 "label": "Richard M. Bissell Jr.",
 "tier": "B"
@@ -308,6 +335,6 @@
 ],
 "sub": "Unacknowledged-program aeronautics organisation, Burbank then Palmdale",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 188 of 1057, score 45). 8 connections, 3 of them custody/funding/programmatic. Axes C3/A3/D0.",
+"tierRationale": "Re-graded B on a global pass (rank 176 of 1066, score 46). 9 connections, 3 of them custody/funding/programmatic. Axes C3/A3/D0.",
 "timeline": []
 }

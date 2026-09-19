@@ -1,6 +1,6 @@
 # The research band
 
-The programme map splits the 137 nodes closest to the alleged programme into seven bands, and this file is the research band: 38 nodes, taken era by era from the earliest to the most recent. Each entry gives what the node is, why the board places it here, why it holds the tier it holds, what it has denied, its documented and testimonial claims with their sources, and the links that tie it to the rest of the board.
+The programme map splits the 139 nodes closest to the alleged programme into seven bands, and this file is the research band: 38 nodes, taken era by era from the earliest to the most recent. Each entry gives what the node is, why the board places it here, why it holds the tier it holds, what it has denied, its documented and testimonial claims with their sources, and the links that tie it to the rest of the board.
 
 Names in full, for this file:
 
@@ -56,7 +56,7 @@ Roles the board assigns it: research, concealment, disclosure, custody.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 190 of 1057, score 45). 15 connections, 3 of them custody/funding/programmatic. Axes C0/A1/D3.
+Re-graded B on a global pass (rank 191 of 1066, score 45). 15 connections, 3 of them custody/funding/programmatic. Axes C0/A1/D3.
 
 ### The claims on the record
 
@@ -143,7 +143,7 @@ Roles the board assigns it: research, concealment, custody.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 35 of 1057, score 90). 15 connections, 6 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A2/D1.
+Re-graded A on a global pass (rank 35 of 1066, score 90). 15 connections, 6 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A2/D1.
 
 ### The claims on the record
 
@@ -237,7 +237,7 @@ Roles the board assigns it: concealment, oversight, research.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 98 of 1057, score 62). 15 connections, 4 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C0/A3/D0.
+Re-graded A on a global pass (rank 98 of 1066, score 62). 15 connections, 4 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C0/A3/D0.
 
 ### The claims on the record
 
@@ -325,7 +325,7 @@ Roles the board assigns it: concealment, oversight, research, disclosure.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 131 of 1057, score 53). 13 connections, 3 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D1.
+Re-graded A on a global pass (rank 131 of 1066, score 53). 13 connections, 3 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D1.
 
 ### The claims on the record
 
@@ -409,7 +409,7 @@ Roles the board assigns it: research, custody, disclosure, concealment.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 101 of 1057, score 61). 11 connections, 4 of them custody/funding/programmatic. Axes C2/A2/D3.
+Re-graded A on a global pass (rank 102 of 1066, score 61). 11 connections, 4 of them custody/funding/programmatic. Axes C2/A2/D3.
 
 ### The claims on the record
 
@@ -448,59 +448,9 @@ Re-graded A on a global pass (rank 101 of 1057, score 61). 11 connections, 4 of 
 - Força Aérea Brasileira / Ministério da Aeronáutica comes in from **Peruvian Air Force anomalous aerial phenomena office (OIFAA / DIFAA)** (institution, board tier C), a institutional link at Tier 1 documented. The link reads: COMPARISON: Peru's own state news agency measured DIFAA's reopening against Brazil. COMPARISON EDGE, no institutional contact between the FAP and the FAB is claimed. Peru's state news agency Andina, reporting the reopening on 18 October 2013, closes: 'Con la reapertura de la DIFAA, el Perú se coloca a la paridad de países de la región como Chile, Argentina, Uruguay, Brasil y Ecuador.' Brazil is named by a Peruvian government outlet as the regional benchmark. The same report establishes the office's identity that the peru-uap-office node lacked: the Departamento de Investigación de Fenómenos Aéreos Anómalos (DIFAA), sitting under the Dirección de Intereses Aéreos Espaciales (DINAE), whose head Coronel FAP Julio Vucetich Abanto announced the public reporting channel, the office having been closed for five years 'a causa de problemas administrativos'. The reopening was announced at an FAP-hosted 'Encuentro sobre Fenómenos Aéreos Anómalos' addressing the Nazca Lines question. Sources: Agencia Peruana de Noticias Andina (Editora Perú), 'Fenómenos aéreos anómalos en Perú podrán reportarse a la FAP', 18 October 2013, https://andina.pe/agencia/noticia-fenomenos-aereos-anomalos-peru-podran-reportarse-a-fap-478982.aspx; Relatório de Ocorrências (Arquivo Nacional), http://imagem.sian.an.gov.br/acervo/derivadas/BR_DFANBSB_ARX/0/0/0249/BR_DFANBSB_ARX_0_0_0249_d0001de0001.pdf, dated 1986-06-02.
 - Força Aérea Brasileira / Ministério da Aeronáutica runs out to **Arquivo Nacional (Brazil) - UFO/UAP collection** (institution, board tier A), a custody link at Tier 2 named person on the record. The link reads: transferred its entire UAP holding and disclaimed competence. The Air Force told BBC Brasil that all available material has gone to the Arquivo Nacional and that it has no specialists able to investigate or opine on the phenomena. Sources: BBC Brasil, https://www.bbc.com/portuguese/brasil-59953278, dated 2022-01-14.
 
-## Project MKULTRA
-
-Project MKULTRA is a program on the board; board tier A, named in sworn testimony or primary documents as directly inside the programme; dates 1953-04-13 to 1964; axes C0 A3 D2; 9 connections; in the research band.
-
-In one line: CIA umbrella project for research and development of materials to control human behavior; authorized by DCI Dulles 13 April 1953, records destroyed January 1973.
-
-### What it is
-
-The CIA's umbrella project for research and development of materials to control human behavior, authorized by Director of Central Intelligence Allen W. Dulles in April 1953 and run out of the Technical Services Division through 149 numbered subprojects at universities, foundations, hospitals and prisons. Its normal procedures for project approval, funding and accounting were waived. Its records were destroyed in January 1973 on a verbal order, and seven boxes of finance folders survived only because they had been misfiled to the Retired Records Center in 1970.
-
-### Why it is implicated
-
-It is the documented American precedent for the whole of this board's argument about compartmented programmes and their records: a waived-procedure compartment, an Inspector General finding that the practice was to keep no records of the planning and approval of test programmes, a destruction order that two Senate committees could not defeat, and a single Freedom of Information Act request that did. The board's own MKULTRA hearing node argued from this programme for two months without carrying it.
-
-### The longer account
-
-The argument for putting MKULTRA on a board about a legacy recovery programme is not that the two are the same subject. It is that MKULTRA is the case where every mechanism this board alleges was later proven on the government's own paper, and can therefore be used as a calibration rather than as an analogy. The Inspector General's survey of 26 July 1963 states the purpose in the Agency's own words and states, in the same document, that normal procedures for project approval, funding and accounting were waived and that present practice was to maintain no records of the planning and approval of test programs. That is a compartment designed to leave no trail, described by its own auditor. Ten years later the trail that did exist was destroyed: Technical Services Division personnel burned the files in January 1973 on Sidney Gottlieb's verbal order, itself carrying out a verbal order from DCI Helms, and both men later testified to it. The Rockefeller Commission and the Church Committee investigated the programme in 1975 without the finance file, because the 1975 searches covered the records of every branch thought likely to hold MKULTRA papers and not the Budget and Fiscal Section's retired holdings. What broke it open was administrative accident plus a statute. One branch had sent its finance folders to the Retired Records Center in 1970 in a departure from normal procedure the Agency could not later explain, and in 1977 an employee working John Marks's Freedom of Information Act request found them. The Senate's own opening statement puts the lesson plainly: one individual, through a Freedom of Information request, accomplished what two US Senate committees could not. Everything on this board about custody, about destruction orders and about what survives them has a documented instance here.
-
-Roles the board assigns it: concealment, research, disclosure.
-
-### Open questions on this node
-
-- Whether any of the 149 subproject files identifies its researchers: the released Subproject 43 file excises every occurrence of the researcher's name and university.
-- What the 33 subprojects unrelated to behavioural work in the recovered boxes actually cover.
-
-### Why it holds its tier
-
-Re-graded A on a global pass (rank 146 of 1057, score 51). 9 connections, 4 of them custody/funding/programmatic. Axes C0/A3/D2.
-
-### The claims on the record
-
-- **Tier 1 documented.** The Church Committee text reprinted in the hearing print records the destruction and the chain behind it: 'In January 1973, MKULTRA records were destroyed by Technical Services Division personnel acting on the verbal orders of Dr. Sidney Gottlieb, Chief of TSD. Dr. Gottlieb has testified, and former Director Helms has confirmed, that in ordering the records destroyed, Dr. Gottlieb was carrying out the verbal order of then DCI Helms.' Source: Project MKULTRA, The CIA's Program of Research in Behavioral Modification, joint hearing, 3 August 1977, Appendix B, https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf
-- **Tier 1 documented.** The Inspector General's 1963 survey states the programme's purpose: 'The MKULTRA activity is concerned with the research and development of chemical, biological and radiological materials capable of employment in clandestine operations to control human behavior.' It records that 'MKULTRA was authorized by the then Director of Central Intelligence, Mr. Allen W. Dulles, in 1953' and that 'Normal procedures for project approval, funding, and accounting were waived.' Source: Report of Inspection of MKULTRA, memorandum for the Director of Central Intelligence, 26 July 1963, National Security Archive John Marks Collection Box 8, https://nsarchive.gwu.edu/sites/default/files/documents/1963-07-26%20JM%20Box%208%20F2%20MKUltra-IG_Report-ocr.pdf
-- **Tier 1 documented.** The recovered material covers 149 numbered subprojects plus two boxes of audit reports and financial statements from cut-out funding mechanisms and 33 further subprojects unrelated to behavioural work. Turner told the committee the new identities were 'the names of 185 nongovernment researchers and assistants' and 'names of 80 institutions', comprising 44 colleges or universities, 15 research foundations or chemical or pharmaceutical companies, 12 hospitals or clinics and 3 penal institutions. The hearing's own opening statement gives a different figure, 'Eighty-six universities or institutions were involved.' Source: Project MKULTRA joint hearing, 3 August 1977, opening statement and testimony of Admiral Turner, https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf
-- **Tier 1 documented.** The same survey records the programme's own record-keeping practice: 'Present practice is to maintain no records of the planning and approval of test programs.' The Director of Central Intelligence quoted that sentence back to the Senate in 1977 as part of the reason so little was known even before the files were destroyed. Source: Report of Inspection of MKULTRA, 26 July 1963, p. 14, quoted in the prepared statement of Admiral Stansfield Turner, Project MKULTRA joint hearing, 3 August 1977, https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf
-- **Tier 1 documented.** The surviving records are finance folders and they survived by accident. DCI Stansfield Turner reported 'our recent discovery of seven boxes of documents related to Project MKULTRA', found at the Retired Records Center because the Budget and Fiscal Section had sent them there in 1970 in what the statement calls a departure from normal procedure whose reason 'is not known'. As a result 'the material escaped retrieval and destruction in 1973 ... as well as discovery in 1975'. Source: Prepared statement of Admiral Stansfield Turner, Project MKULTRA joint hearing, 3 August 1977, https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf
-- **Tier 2 named person on the record.** On the Danny Jones Podcast, episode 330, 8 September 2025, at 0:23:00 to 0:23:52, Rebecca Lemov described MK-Ultra as run by Sidney Gottlieb from 1953, with about 149 subprojects in the surviving records, officially discontinued in 1963 or 1964. The subproject count and the 1953 to 1964 span match the 1977 hearing print exactly; no record opened here shows Gottlieb running the programme from 1953. Source: Danny Jones Podcast, ep. 330, 8 September 2025, 0:23:00 to 0:23:52
-
-### Its strongest connections
-
-- Project MKULTRA runs out to **Central Intelligence Agency** (institution, board tier A), a programmatic link at Tier 1 documented. The link reads: CIA umbrella project, authorized 1953. The 1963 Inspector General survey states the programme was authorized by the Director of Central Intelligence in 1953 and run out of the Technical Services Division on a waived-procedure share of its research budget. Sources: Report of Inspection of MKULTRA, 26 July 1963, https://nsarchive.gwu.edu/sites/default/files/documents/1963-07-26%20JM%20Box%208%20F2%20MKUltra-IG_Report-ocr.pdf, dated 1963-07-26.
-- Project MKULTRA comes in from **Senate Select Committee to Study Governmental Operations with Respect to Intelligence Activities (Church Committee)** (institution, board tier B), a investigative link at Tier 1 documented. The link reads: Investigated MKULTRA in 1975 without the finance file. Turner's 1977 statement records that the 1975 searches covered the active and retired records of every branch thought likely to hold MKULTRA papers but not the Budget and Fiscal Section's retired holdings, so the Church Committee investigated the programme without the seven boxes. Sources: Prepared statement of Admiral Stansfield Turner, 3 August 1977, https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf, dated 1977-08-03.
-- Project MKULTRA comes in from **Allen W. Dulles** (person, board tier B), a institutional link at Tier 1 documented. The link reads: Authorized MKULTRA as DCI, 13 April 1953. The Inspector General's 1963 survey names Dulles as the authorizing Director; the Church Committee text in the 1977 hearing print gives the date as 13 April 1953, and a 1955 subproject invoice certification cites the same memorandum from the DCI to the DD/A. Sources: Report of Inspection of MKULTRA, 26 July 1963, and Project MKULTRA joint hearing, 3 August 1977, Appendix B, https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf, dated 1977-08-03.
-- Project MKULTRA runs out to **Records & Archives** (domain, board tier B), a custody link at Tier 1 documented. The link reads: Records destroyed January 1973; a misfiled finance set survived. The destruction is recorded in the 1977 hearing print, and so is the accident that defeated it: finance folders sent to the Retired Records Center in 1970 outside normal procedure were missed in 1973 and again in 1975 and found in 1977. Sources: Project MKULTRA joint hearing, 3 August 1977, https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf, dated 1977-08-03.
-- Project MKULTRA comes in from **Death of Frank R. Olson, 1953, and the compensation and litigation that followed** (event, board tier B), a programmatic link at Tier 1 documented. The link reads: The death that made the cryptonym public. DCI Turner told the Senate in 1977 that the cryptonym MKULTRA became publicly known during the Rockefeller Commission and Church Committee investigations of 1975 when details of the drug-related death of Dr. Frank Olson were publicized. Sources: Prepared statement of Admiral Stansfield Turner, 3 August 1977, https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf, dated 1977-08-03.
-- Project MKULTRA comes in from **Project BLUEBIRD** (program, board tier B), a temporal link at Tier 1 documented. The link reads: The 1950 predecessor of the 1953 programme. Appendix B of the 1977 print treats BLUEBIRD/ARTICHOKE and MKULTRA as successive sections of one lineage of CIA chemical and biological behavioural work, the first approved in 1950 and the second in April 1953. Sources: Project MKULTRA joint hearing, 3 August 1977, Appendix B, https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf, dated 1977-08-03.
-- Project MKULTRA comes in from **Sidney Gottlieb** (person, board tier B), a programmatic link at Tier 1 documented. The link reads: Certified subproject invoices 1955; Chief of TSD at the 1973 destruction. His signature is on the Subproject 43 invoice certifications as Chief, TSS/CD in 1955, and the Church Committee text names him as the officer whose verbal order destroyed the programme's records in January 1973. Sources: CIA Reading Room 00017441 and the Project MKULTRA joint hearing, 3 August 1977, https://archive.org/details/cia-readingroom-document-00017441, dated 1955-06-28.
-- Project MKULTRA comes in from **House Oversight Task Force hearing: 'Mind Control and Accountability: Uncovering the Truth of the CIA's MKULTRA Project', 30 June 2026** (event, board tier C), a investigative link at Tier 1 documented. The link reads: The 2026 House Oversight task force hearing takes MKULTRA as its subject. The board already carries the 30 June 2026 task force hearing under a title naming this project; the programme it is about is the one documented in the 1977 Senate print. Sources: Project MKULTRA joint hearing, 3 August 1977, https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf, dated 1977-08-03.
-- Project MKULTRA comes in from **John Marks FOIA request F-76-374 and the recovery of the MKULTRA finance file** (document, board tier C), a investigative link at Tier 1 documented. The link reads: The FOIA request that caused the recovery of the surviving MKULTRA file. The Office of Technical Service reviewed its MKULTRA holdings for release to Marks and then searched the Retired Records Center, where the subproject finance folders were found. Sources: Memorandum for the DDCI, 22 June 1977, https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf, dated 1977-06-22.
-
 ## Lockheed Martin Advanced Development Programs (Skunk Works)
 
-Lockheed Martin Advanced Development Programs (Skunk Works) is a institution on the board; board tier B, documented channel and capability, programme role indicated but not yet nailed to a primary source; dates 1943; axes C3 A3 D0; 8 connections; in the research band.
+Lockheed Martin Advanced Development Programs (Skunk Works) is a institution on the board; board tier B, documented channel and capability, programme role indicated but not yet nailed to a primary source; dates 1943; axes C3 A3 D0; 9 connections; in the research band.
 
 In one line: Unacknowledged-program aeronautics organisation, Burbank then Palmdale.
 
@@ -534,7 +484,7 @@ Roles the board assigns it: concealment, custody, research.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 188 of 1057, score 45). 8 connections, 3 of them custody/funding/programmatic. Axes C3/A3/D0.
+Re-graded B on a global pass (rank 176 of 1066, score 46). 9 connections, 3 of them custody/funding/programmatic. Axes C3/A3/D0.
 
 ### The claims on the record
 
@@ -551,9 +501,60 @@ Re-graded B on a global pass (rank 188 of 1057, score 45). 8 connections, 3 of t
 - Lockheed Martin Advanced Development Programs (Skunk Works) comes in from **Richard M. Bissell Jr.** (person, board tier B), a programmatic link at Tier 1 documented. The link reads: Ran the project Kelly Johnson built the aircraft for. Kelly Johnson was on the 12 April 1955 site flight with Lockheed's chief test pilot, and named the resulting base the Paradise Ranch to make it sound better to his workers. Sources: Pedlow and Welzenbach, The Central Intelligence Agency and Overhead Reconnaissance, 2013 release, chapter 2, https://archive.org/download/cia-readingroom-document-0000190094/0000190094_djvu.txt, dated 2013-06-25.
 - Lockheed Martin Advanced Development Programs (Skunk Works) comes in from **Ben R. Rich** (person, board tier B), a institutional link at Tier 1 documented. The link reads: Rich directed Skunk Works through the F-117 era and into the RQ-170 lineage. His memoir is the primary document on how unacknowledged programs were compartmented, staffed and funded inside the corporation. Sources: Ben R. Rich and Leo Janos, 'Skunk Works: A Personal Memoir of My Years at Lockheed' (Internet Archive), https://archive.org/details/skunkworks00benr, dated 1994-01-01.
 - Lockheed Martin Advanced Development Programs (Skunk Works) runs out to **Air Force Plant 42, Palmdale, California** (location, board tier C), a institutional link at Tier 1 documented. The link reads: Skunk Works operates at the government-owned contractor-operated Palmdale facility. Plant 42 is compartmented program by program inside a single fence line, which is the physical form of the concealment architecture at issue. Sources: AARO, 'Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP), Volume I', https://documents2.theblackvault.com/documents/dod/AARO_Historical_Record_Report_Volume_1_2024.pdf, dated 2024-03-08.
+- Lockheed Martin Advanced Development Programs (Skunk Works) comes in from **Mark McCandlish** (person, board tier A), a witness-chain link at Tier 2 named person on the record. The link reads: Same relayed unnamed informant locates the Skunk Works catty-corner from Plant 42. Same passage, same caveat: relayed, unnamed and uncorroborated, and no record was opened. Sources: Disclosure Project Briefing Document, section 3.8.5, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt, dated 2001-04.
 - Lockheed Martin Advanced Development Programs (Skunk Works) comes in from **KONA BLUE** (program, board tier A), a custody link at Tier 2 named person on the record. The link reads: Alleges Lockheed-held material was to be transferred. The Kona Blue allegation concerns a proposed change of custodial agency for physical material held on the Lockheed side - a bureaucratic transaction that would leave programme proposals and declination correspondence. Sources: NewsNation Reality Check - 'Inside Kona Blue', https://www.youtube.com/watch?v=F2NfXgv8x1E, dated 2026-08-04.
 - Lockheed Martin Advanced Development Programs (Skunk Works) runs out to **Groom Lake, Nevada** (location, board tier B), a programmatic link at Tier 2 named person on the record. The link reads: Skunk Works aircraft were tested at Groom Lake because they could not be tested at Edwards. The CIA's own history records that U-2 flight test and pilot training could not be conducted at Edwards or Palmdale given the secrecy of the project. The U-2, A-12, HAVE BLUE and F-117 all flew first at Groom. Sources: Wikipedia - Area 51, https://en.wikipedia.org/wiki/Area_51, dated 2026-08-12.
 - Lockheed Martin Advanced Development Programs (Skunk Works) comes in from **Dana (Keoki) Jackson** (person, board tier C), a behavioral link at Tier 2 named person on the record. The link reads: Arrived at MITRE from Lockheed Martin's chief technology office. The traverse from the prime contractor most often named in crash-retrieval testimony into the FFRDC that arbitrates what such contractors are told is the pipeline in one career. Sources: MITRE - Our Leadership, https://www.mitre.org/who-we-are/our-people/our-leadership, dated 2026-08-12.
+
+## Project MKULTRA
+
+Project MKULTRA is a program on the board; board tier A, named in sworn testimony or primary documents as directly inside the programme; dates 1953-04-13 to 1964; axes C0 A3 D2; 9 connections; in the research band.
+
+In one line: CIA umbrella project for research and development of materials to control human behavior; authorized by DCI Dulles 13 April 1953, records destroyed January 1973.
+
+### What it is
+
+The CIA's umbrella project for research and development of materials to control human behavior, authorized by Director of Central Intelligence Allen W. Dulles in April 1953 and run out of the Technical Services Division through 149 numbered subprojects at universities, foundations, hospitals and prisons. Its normal procedures for project approval, funding and accounting were waived. Its records were destroyed in January 1973 on a verbal order, and seven boxes of finance folders survived only because they had been misfiled to the Retired Records Center in 1970.
+
+### Why it is implicated
+
+It is the documented American precedent for the whole of this board's argument about compartmented programmes and their records: a waived-procedure compartment, an Inspector General finding that the practice was to keep no records of the planning and approval of test programmes, a destruction order that two Senate committees could not defeat, and a single Freedom of Information Act request that did. The board's own MKULTRA hearing node argued from this programme for two months without carrying it.
+
+### The longer account
+
+The argument for putting MKULTRA on a board about a legacy recovery programme is not that the two are the same subject. It is that MKULTRA is the case where every mechanism this board alleges was later proven on the government's own paper, and can therefore be used as a calibration rather than as an analogy. The Inspector General's survey of 26 July 1963 states the purpose in the Agency's own words and states, in the same document, that normal procedures for project approval, funding and accounting were waived and that present practice was to maintain no records of the planning and approval of test programs. That is a compartment designed to leave no trail, described by its own auditor. Ten years later the trail that did exist was destroyed: Technical Services Division personnel burned the files in January 1973 on Sidney Gottlieb's verbal order, itself carrying out a verbal order from DCI Helms, and both men later testified to it. The Rockefeller Commission and the Church Committee investigated the programme in 1975 without the finance file, because the 1975 searches covered the records of every branch thought likely to hold MKULTRA papers and not the Budget and Fiscal Section's retired holdings. What broke it open was administrative accident plus a statute. One branch had sent its finance folders to the Retired Records Center in 1970 in a departure from normal procedure the Agency could not later explain, and in 1977 an employee working John Marks's Freedom of Information Act request found them. The Senate's own opening statement puts the lesson plainly: one individual, through a Freedom of Information request, accomplished what two US Senate committees could not. Everything on this board about custody, about destruction orders and about what survives them has a documented instance here.
+
+Roles the board assigns it: concealment, research, disclosure.
+
+### Open questions on this node
+
+- Whether any of the 149 subproject files identifies its researchers: the released Subproject 43 file excises every occurrence of the researcher's name and university.
+- What the 33 subprojects unrelated to behavioural work in the recovered boxes actually cover.
+
+### Why it holds its tier
+
+Re-graded A on a global pass (rank 147 of 1066, score 51). 9 connections, 4 of them custody/funding/programmatic. Axes C0/A3/D2.
+
+### The claims on the record
+
+- **Tier 1 documented.** The Church Committee text reprinted in the hearing print records the destruction and the chain behind it: 'In January 1973, MKULTRA records were destroyed by Technical Services Division personnel acting on the verbal orders of Dr. Sidney Gottlieb, Chief of TSD. Dr. Gottlieb has testified, and former Director Helms has confirmed, that in ordering the records destroyed, Dr. Gottlieb was carrying out the verbal order of then DCI Helms.' Source: Project MKULTRA, The CIA's Program of Research in Behavioral Modification, joint hearing, 3 August 1977, Appendix B, https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf
+- **Tier 1 documented.** The Inspector General's 1963 survey states the programme's purpose: 'The MKULTRA activity is concerned with the research and development of chemical, biological and radiological materials capable of employment in clandestine operations to control human behavior.' It records that 'MKULTRA was authorized by the then Director of Central Intelligence, Mr. Allen W. Dulles, in 1953' and that 'Normal procedures for project approval, funding, and accounting were waived.' Source: Report of Inspection of MKULTRA, memorandum for the Director of Central Intelligence, 26 July 1963, National Security Archive John Marks Collection Box 8, https://nsarchive.gwu.edu/sites/default/files/documents/1963-07-26%20JM%20Box%208%20F2%20MKUltra-IG_Report-ocr.pdf
+- **Tier 1 documented.** The recovered material covers 149 numbered subprojects plus two boxes of audit reports and financial statements from cut-out funding mechanisms and 33 further subprojects unrelated to behavioural work. Turner told the committee the new identities were 'the names of 185 nongovernment researchers and assistants' and 'names of 80 institutions', comprising 44 colleges or universities, 15 research foundations or chemical or pharmaceutical companies, 12 hospitals or clinics and 3 penal institutions. The hearing's own opening statement gives a different figure, 'Eighty-six universities or institutions were involved.' Source: Project MKULTRA joint hearing, 3 August 1977, opening statement and testimony of Admiral Turner, https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf
+- **Tier 1 documented.** The same survey records the programme's own record-keeping practice: 'Present practice is to maintain no records of the planning and approval of test programs.' The Director of Central Intelligence quoted that sentence back to the Senate in 1977 as part of the reason so little was known even before the files were destroyed. Source: Report of Inspection of MKULTRA, 26 July 1963, p. 14, quoted in the prepared statement of Admiral Stansfield Turner, Project MKULTRA joint hearing, 3 August 1977, https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf
+- **Tier 1 documented.** The surviving records are finance folders and they survived by accident. DCI Stansfield Turner reported 'our recent discovery of seven boxes of documents related to Project MKULTRA', found at the Retired Records Center because the Budget and Fiscal Section had sent them there in 1970 in what the statement calls a departure from normal procedure whose reason 'is not known'. As a result 'the material escaped retrieval and destruction in 1973 ... as well as discovery in 1975'. Source: Prepared statement of Admiral Stansfield Turner, Project MKULTRA joint hearing, 3 August 1977, https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf
+- **Tier 2 named person on the record.** On the Danny Jones Podcast, episode 330, 8 September 2025, at 0:23:00 to 0:23:52, Rebecca Lemov described MK-Ultra as run by Sidney Gottlieb from 1953, with about 149 subprojects in the surviving records, officially discontinued in 1963 or 1964. The subproject count and the 1953 to 1964 span match the 1977 hearing print exactly; no record opened here shows Gottlieb running the programme from 1953. Source: Danny Jones Podcast, ep. 330, 8 September 2025, 0:23:00 to 0:23:52
+
+### Its strongest connections
+
+- Project MKULTRA runs out to **Central Intelligence Agency** (institution, board tier A), a programmatic link at Tier 1 documented. The link reads: CIA umbrella project, authorized 1953. The 1963 Inspector General survey states the programme was authorized by the Director of Central Intelligence in 1953 and run out of the Technical Services Division on a waived-procedure share of its research budget. Sources: Report of Inspection of MKULTRA, 26 July 1963, https://nsarchive.gwu.edu/sites/default/files/documents/1963-07-26%20JM%20Box%208%20F2%20MKUltra-IG_Report-ocr.pdf, dated 1963-07-26.
+- Project MKULTRA comes in from **Senate Select Committee to Study Governmental Operations with Respect to Intelligence Activities (Church Committee)** (institution, board tier B), a investigative link at Tier 1 documented. The link reads: Investigated MKULTRA in 1975 without the finance file. Turner's 1977 statement records that the 1975 searches covered the active and retired records of every branch thought likely to hold MKULTRA papers but not the Budget and Fiscal Section's retired holdings, so the Church Committee investigated the programme without the seven boxes. Sources: Prepared statement of Admiral Stansfield Turner, 3 August 1977, https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf, dated 1977-08-03.
+- Project MKULTRA comes in from **Allen W. Dulles** (person, board tier B), a institutional link at Tier 1 documented. The link reads: Authorized MKULTRA as DCI, 13 April 1953. The Inspector General's 1963 survey names Dulles as the authorizing Director; the Church Committee text in the 1977 hearing print gives the date as 13 April 1953, and a 1955 subproject invoice certification cites the same memorandum from the DCI to the DD/A. Sources: Report of Inspection of MKULTRA, 26 July 1963, and Project MKULTRA joint hearing, 3 August 1977, Appendix B, https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf, dated 1977-08-03.
+- Project MKULTRA runs out to **Records & Archives** (domain, board tier B), a custody link at Tier 1 documented. The link reads: Records destroyed January 1973; a misfiled finance set survived. The destruction is recorded in the 1977 hearing print, and so is the accident that defeated it: finance folders sent to the Retired Records Center in 1970 outside normal procedure were missed in 1973 and again in 1975 and found in 1977. Sources: Project MKULTRA joint hearing, 3 August 1977, https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf, dated 1977-08-03.
+- Project MKULTRA comes in from **Death of Frank R. Olson, 1953, and the compensation and litigation that followed** (event, board tier B), a programmatic link at Tier 1 documented. The link reads: The death that made the cryptonym public. DCI Turner told the Senate in 1977 that the cryptonym MKULTRA became publicly known during the Rockefeller Commission and Church Committee investigations of 1975 when details of the drug-related death of Dr. Frank Olson were publicized. Sources: Prepared statement of Admiral Stansfield Turner, 3 August 1977, https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf, dated 1977-08-03.
+- Project MKULTRA comes in from **Project BLUEBIRD** (program, board tier B), a temporal link at Tier 1 documented. The link reads: The 1950 predecessor of the 1953 programme. Appendix B of the 1977 print treats BLUEBIRD/ARTICHOKE and MKULTRA as successive sections of one lineage of CIA chemical and biological behavioural work, the first approved in 1950 and the second in April 1953. Sources: Project MKULTRA joint hearing, 3 August 1977, Appendix B, https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf, dated 1977-08-03.
+- Project MKULTRA comes in from **Sidney Gottlieb** (person, board tier B), a programmatic link at Tier 1 documented. The link reads: Certified subproject invoices 1955; Chief of TSD at the 1973 destruction. His signature is on the Subproject 43 invoice certifications as Chief, TSS/CD in 1955, and the Church Committee text names him as the officer whose verbal order destroyed the programme's records in January 1973. Sources: CIA Reading Room 00017441 and the Project MKULTRA joint hearing, 3 August 1977, https://archive.org/details/cia-readingroom-document-00017441, dated 1955-06-28.
+- Project MKULTRA comes in from **House Oversight Task Force hearing: 'Mind Control and Accountability: Uncovering the Truth of the CIA's MKULTRA Project', 30 June 2026** (event, board tier C), a investigative link at Tier 1 documented. The link reads: The 2026 House Oversight task force hearing takes MKULTRA as its subject. The board already carries the 30 June 2026 task force hearing under a title naming this project; the programme it is about is the one documented in the 1977 Senate print. Sources: Project MKULTRA joint hearing, 3 August 1977, https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf, dated 1977-08-03.
+- Project MKULTRA comes in from **John Marks FOIA request F-76-374 and the recovery of the MKULTRA finance file** (document, board tier C), a investigative link at Tier 1 documented. The link reads: The FOIA request that caused the recovery of the surviving MKULTRA file. The Office of Technical Service reviewed its MKULTRA holdings for release to Marks and then searched the Retired Records Center, where the subproject finance folders were found. Sources: Memorandum for the DDCI, 22 June 1977, https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf, dated 1977-06-22.
 
 ## Air Technical Intelligence Center
 
@@ -591,7 +592,7 @@ Roles the board assigns it: custody, research, concealment.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 148 of 1057, score 50). 8 connections, 1 of them custody/funding/programmatic. Axes C3/A3/D0.
+Re-graded A on a global pass (rank 149 of 1066, score 50). 8 connections, 1 of them custody/funding/programmatic. Axes C3/A3/D0.
 
 ### The claims on the record
 
@@ -665,7 +666,7 @@ Roles the board assigns it: custody, concealment, research.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 134 of 1057, score 53). 7 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A3/D0.
+Re-graded A on a global pass (rank 134 of 1066, score 53). 7 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A3/D0.
 
 ### The claims on the record
 
@@ -734,7 +735,7 @@ Roles the board assigns it: research, custody, concealment.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 140 of 1057, score 52). 7 connections, 2 of them custody/funding/programmatic. Axes C3/A3/D1.
+Re-graded A on a global pass (rank 140 of 1066, score 52). 7 connections, 2 of them custody/funding/programmatic. Axes C3/A3/D1.
 
 ### The claims on the record
 
@@ -794,7 +795,7 @@ Roles the board assigns it: research, custody.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 111 of 1057, score 58). 6 connections, 5 of them custody/funding/programmatic. Axes C3/A1/D2.
+Re-graded A on a global pass (rank 111 of 1066, score 58). 6 connections, 5 of them custody/funding/programmatic. Axes C3/A1/D2.
 
 ### The claims on the record
 
@@ -862,7 +863,7 @@ Roles the board assigns it: research, concealment, disclosure.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 138 of 1057, score 52). 6 connections, 2 of them custody/funding/programmatic. Axes C1/A2/D2.
+Re-graded A on a global pass (rank 138 of 1066, score 52). 6 connections, 2 of them custody/funding/programmatic. Axes C1/A2/D2.
 
 ### The claims on the record
 
@@ -926,7 +927,7 @@ Roles the board assigns it: disclosure, research.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 506 of 1057, score 29). 6 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.
+Re-graded B on a global pass (rank 512 of 1066, score 29). 6 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.
 
 ### The claims on the record
 
@@ -982,7 +983,7 @@ Roles the board assigns it: research, disclosure.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 117 of 1057, score 56). 11 connections, 1 of them custody/funding/programmatic. Axes C0/A1/D3.
+Re-graded A on a global pass (rank 117 of 1066, score 56). 11 connections, 1 of them custody/funding/programmatic. Axes C0/A1/D3.
 
 ### The claims on the record
 
@@ -1064,7 +1065,7 @@ Roles the board assigns it: research, disclosure.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 191 of 1057, score 45). 11 connections, 2 of them custody/funding/programmatic. Axes C1/A2/D2.
+Re-graded B on a global pass (rank 192 of 1066, score 45). 11 connections, 2 of them custody/funding/programmatic. Axes C1/A2/D2.
 
 ### The claims on the record
 
@@ -1137,7 +1138,7 @@ Roles the board assigns it: research, disclosure.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 84 of 1057, score 67). 9 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D3.
+Re-graded A on a global pass (rank 84 of 1066, score 67). 9 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D3.
 
 ### The claims on the record
 
@@ -1217,7 +1218,7 @@ Roles the board assigns it: research, custody, disclosure, concealment.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 70 of 1057, score 70). 10 connections, 5 of them custody/funding/programmatic. Axes C2/A2/D2.
+Re-graded A on a global pass (rank 70 of 1066, score 70). 10 connections, 5 of them custody/funding/programmatic. Axes C2/A2/D2.
 
 ### The claims on the record
 
@@ -1295,7 +1296,7 @@ Roles the board assigns it: research, disclosure, concealment, custody.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 125 of 1057, score 55). 6 connections, 2 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D3.
+Re-graded A on a global pass (rank 125 of 1066, score 55). 6 connections, 2 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D3.
 
 ### The claims on the record
 
@@ -1376,7 +1377,7 @@ Roles the board assigns it: oversight, concealment, disclosure, research.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 120 of 1057, score 55). 18 connections, 2 of them custody/funding/programmatic. Axes C1/A3/D3.
+Re-graded A on a global pass (rank 120 of 1066, score 55). 18 connections, 2 of them custody/funding/programmatic. Axes C1/A3/D3.
 
 ### The claims on the record
 
@@ -1455,7 +1456,7 @@ Roles the board assigns it: research, disclosure.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 81 of 1057, score 68). 10 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D3.
+Re-graded A on a global pass (rank 81 of 1066, score 68). 10 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D3.
 
 ### The claims on the record
 
@@ -1538,7 +1539,7 @@ Roles the board assigns it: research, concealment, disclosure.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 95 of 1057, score 64). 9 connections, 3 of them custody/funding/programmatic. Axes C1/A2/D3.
+Re-graded A on a global pass (rank 96 of 1066, score 64). 9 connections, 3 of them custody/funding/programmatic. Axes C1/A2/D3.
 
 ### The claims on the record
 
@@ -1620,7 +1621,7 @@ Roles the board assigns it: custody, disclosure, research.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 64 of 1057, score 73). 10 connections, 6 of them custody/funding/programmatic. Axes C1/A0/D3.
+Re-graded A on a global pass (rank 64 of 1066, score 73). 10 connections, 6 of them custody/funding/programmatic. Axes C1/A0/D3.
 
 ### The claims on the record
 
@@ -1711,7 +1712,7 @@ Roles the board assigns it: research, concealment, disclosure, oversight.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 175 of 1057, score 46). 7 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D3.
+Re-graded B on a global pass (rank 177 of 1066, score 46). 7 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D3.
 
 ### The claims on the record
 
@@ -1784,7 +1785,7 @@ Roles the board assigns it: research, disclosure.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 87 of 1057, score 66). 6 connections, 4 of them custody/funding/programmatic. Axes C2/A1/D0.
+Re-graded A on a global pass (rank 87 of 1066, score 66). 6 connections, 4 of them custody/funding/programmatic. Axes C2/A1/D0.
 
 ### The claims on the record
 
@@ -1870,7 +1871,7 @@ Roles the board assigns it: disclosure, concealment, oversight, research.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 17 of 1057, score 110). 19 connections, 1 of them custody/funding/programmatic, 6 official denials recorded against it. Axes C1/A3/D3.
+Re-graded A on a global pass (rank 17 of 1066, score 110). 19 connections, 1 of them custody/funding/programmatic, 6 official denials recorded against it. Axes C1/A3/D3.
 
 ### The claims on the record
 
@@ -1967,7 +1968,7 @@ Roles the board assigns it: oversight, concealment, research, disclosure.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 74 of 1057, score 69). 19 connections, 6 of them custody/funding/programmatic. Axes C2/A3/D2.
+Re-graded A on a global pass (rank 74 of 1066, score 69). 19 connections, 6 of them custody/funding/programmatic. Axes C2/A3/D2.
 
 ### The claims on the record
 
@@ -2057,7 +2058,7 @@ Roles the board assigns it: research, disclosure.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 394 of 1057, score 33). 9 connections, 1 of them custody/funding/programmatic. Axes C1/A0/D3.
+Re-graded B on a global pass (rank 398 of 1066, score 33). 9 connections, 1 of them custody/funding/programmatic. Axes C1/A0/D3.
 
 ### The claims on the record
 
@@ -2134,7 +2135,7 @@ Roles the board assigns it: research, disclosure.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 510 of 1057, score 29). 8 connections, 0 of them custody/funding/programmatic. Axes C2/A0/D2.
+Re-graded B on a global pass (rank 516 of 1066, score 29). 8 connections, 0 of them custody/funding/programmatic. Axes C2/A0/D2.
 
 ### The claims on the record
 
@@ -2218,7 +2219,7 @@ Roles the board assigns it: disclosure, oversight, concealment, research.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 513 of 1057, score 29). 8 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.
+Re-graded B on a global pass (rank 519 of 1066, score 29). 8 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.
 
 ### The claims on the record
 
@@ -2302,7 +2303,7 @@ Roles the board assigns it: research, disclosure.
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 726 of 1057, score 22). 7 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D3.
+Re-graded C on a global pass (rank 734 of 1066, score 22). 7 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D3.
 
 ### The claims on the record
 
@@ -2378,7 +2379,7 @@ Roles the board assigns it: research, disclosure, oversight.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 345 of 1057, score 35). 8 connections, 2 of them custody/funding/programmatic. Axes C0/A1/D3.
+Re-graded B on a global pass (rank 348 of 1066, score 35). 8 connections, 2 of them custody/funding/programmatic. Axes C0/A1/D3.
 
 ### The claims on the record
 
@@ -2458,7 +2459,7 @@ Roles the board assigns it: concealment, oversight, disclosure, research.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 46 of 1057, score 82). 9 connections, 3 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C1/A2/D3.
+Re-graded A on a global pass (rank 46 of 1066, score 82). 9 connections, 3 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C1/A2/D3.
 
 ### The claims on the record
 
@@ -2549,7 +2550,7 @@ Roles the board assigns it: disclosure, research, oversight.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 441 of 1057, score 31). 6 connections, 2 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D3.
+Re-graded B on a global pass (rank 445 of 1066, score 31). 6 connections, 2 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D3.
 
 ### The claims on the record
 
@@ -2626,7 +2627,7 @@ Roles the board assigns it: custody, concealment, oversight, disclosure, researc
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 393 of 1057, score 33). 7 connections, 2 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D3.
+Re-graded B on a global pass (rank 396 of 1066, score 33). 7 connections, 2 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D3.
 
 ### The claims on the record
 
@@ -2694,7 +2695,7 @@ Roles the board assigns it: disclosure, custody, research.
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 771 of 1057, score 20). 12 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D0.
+Re-graded C on a global pass (rank 780 of 1066, score 20). 12 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D0.
 
 ### The claims on the record
 
@@ -2776,7 +2777,7 @@ Roles the board assigns it: oversight, disclosure, research.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 68 of 1057, score 70). 7 connections, 6 of them custody/funding/programmatic. Axes C0/A0/D0.
+Re-graded A on a global pass (rank 68 of 1066, score 70). 7 connections, 6 of them custody/funding/programmatic. Axes C0/A0/D0.
 
 ### The claims on the record
 
@@ -2866,7 +2867,7 @@ Roles the board assigns it: research, custody, concealment.
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 909 of 1057, score 15). 7 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D0.
+Re-graded C on a global pass (rank 919 of 1066, score 15). 7 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D0.
 
 ### The claims on the record
 
@@ -2940,7 +2941,7 @@ Roles the board assigns it: oversight, disclosure, research.
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 714 of 1057, score 22). 6 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D0.
+Re-graded C on a global pass (rank 722 of 1066, score 22). 6 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D0.
 
 ### The claims on the record
 

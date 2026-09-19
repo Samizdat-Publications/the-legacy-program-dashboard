@@ -1825,6 +1825,28 @@ export const TIMELINE = [
     node: 'daniel-sheehan'
   },
   {
+    id: 'tl-1988-11-12-norton-airshow',
+    strand: 'program',
+    date: '1988-11-12',
+    precision: 'day',
+    tier: 'C',
+    node: 'norton-afb-airshow-1988',
+    label: 'Air show at Norton AFB; SR-71A 61-7962 flies and departs',
+    text: 'A private photographic collection of Blackbird aircraft carries a section headed \'Norton Air Force Base Airshow, November 12, 1988\', with captions including \'SR-71A 61-7962 at Norton AFB on November 12, 1988\' and \'The crew of SR-71A 61-7962 shake hands before departing the November 12, 1988 Norton Air Force Base airshow\'. This is the only opened record that dates the air show independently of the ARV account.',
+    source: 'air-and-space.com, Lockheed A-12 / YF-12 / SR-71 Blackbirds collection, https://www.air-and-space.com/Lockheed%20A-12%20YF-12%20SR-71%20Blackbirds.htm'
+  },
+  {
+    id: 'tl-1988-11-12-arv-exhibit-claimed',
+    strand: 'witness',
+    date: '1988-11-12',
+    precision: 'day',
+    tier: 'C',
+    node: 'arv-fluxliner',
+    label: 'CLAIMED ONLY: a classified exhibit in the Big Hangar with three saucer-shaped craft',
+    text: 'The load-bearing claim of the whole thread, and it rests on one second-hand chain. McCandlish\'s December 2000 testimony gives the date and the day: Sorensen \'told me how he had seen these three flying saucers in this hangar at Norton Air Force Base on November 12, 1988 - it was a Saturday.\' The 1990 primary document, taken from the claimed eyewitness himself, places it only \'in early Nov. 88\'. No record of any exhibit was opened.',
+    source: 'Disclosure Project Briefing Document section 3.8.5, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt ; Scott interview notes transcript p 1, https://www.arvp.co.uk/wp-content/uploads/2024/12/SORENSEN-1990-INTERVIEW.pdf'
+  },
+  {
     id: 'tl-1989-01-sr5',
     strand: 'program',
     date: '1989-01',
@@ -1906,6 +1928,17 @@ export const TIMELINE = [
     source: 'The National Archives, Highlights Guide to the MoD UFO files opened 17 August 2009, https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf'
   },
   {
+    id: 'tl-1990-08-13-scott-mark-notes',
+    strand: 'witness',
+    date: '1990-08-13',
+    precision: 'day',
+    tier: 'B',
+    node: 'scott-sorensen-notes-1990',
+    label: 'Scott\'s handwritten sheet headed \'Mark - 8/13/90\'',
+    text: 'One of the handwritten sheets on Aviation Week & Space Technology letterhead in the 31 page scan is headed, circled, \'Mark - 8/13/90\'. It is the earliest dated page in the document.',
+    source: 'Scott interview notes, pages 1 to 2 of the scan, https://www.arvp.co.uk/wp-content/uploads/2024/12/SORENSEN-1990-INTERVIEW.pdf'
+  },
+  {
     id: 'bb-tl-1990-cfoact',
     strand: 'oversight',
     date: '1990-10',
@@ -1914,6 +1947,50 @@ export const TIMELINE = [
     text: 'The CFO Act imposes audited financial statements on major federal agencies. In the same month the Secretary of the Treasury, the Director of OMB and the Comptroller General create the Federal Accounting Standards Advisory Board to set federal accounting standards. The Department of Defense will not attempt a full-scope audit for twenty-seven years.',
     tier: 'B',
     node: 'fasab'
+  },
+  {
+    id: 'tl-1990-10-01-avweek-artwork',
+    strand: 'witness',
+    date: '1990-10-01',
+    precision: 'day',
+    tier: 'B',
+    node: 'mark-mccandlish',
+    label: 'YEAR INFERRED: Aviation Week prints McCandlish\'s paintings of two aircraft',
+    text: 'The 1990 interview notes state \'Brad is the source of artwork done by Mark McCandlish and featured in AVWK\'s Oct. 1 issue.\' The year is 1990 only by the document\'s own December 1990 dating, and the issue itself was NOT OPENED. It is the highest-value gap on this lead.',
+    source: 'Scott interview notes transcript p 1, https://www.arvp.co.uk/wp-content/uploads/2024/12/SORENSEN-1990-INTERVIEW.pdf'
+  },
+  {
+    id: 'tl-1990-12-03-scott-interview',
+    strand: 'witness',
+    date: '1990-12-03',
+    precision: 'day',
+    tier: 'B',
+    node: 'scott-sorensen-notes-1990',
+    label: 'Scott interviews \'Brad\' for one hour in his Pasadena office, on two tapes',
+    text: 'William B. Scott, senior engineering editor of Aviation Week & Space Technology, interviewed the claimed eyewitness for one paid hour: \'He agreed to a one-hr. session in his Pasadena office, pointedly telling me that he gets $200/hr. for his time, and one hr. was all he could give me.\' Internal markers show two tapes.',
+    source: 'Scott interview notes transcript pp 1 and 5, https://www.arvp.co.uk/wp-content/uploads/2024/12/SORENSEN-1990-INTERVIEW.pdf'
+  },
+  {
+    id: 'tl-1990-12-10-scott-addendum',
+    strand: 'witness',
+    date: '1990-12-10',
+    precision: 'day',
+    tier: 'B',
+    node: 'scott-sorensen-notes-1990',
+    label: 'Handwritten addendum: \'As of 12/10/90 - additional info from Brad\'',
+    text: 'Page 16 of the transcript carries a handwritten addendum in the same hand, followed by notes on a diamond-shaped aircraft slowing to subsonic speeds to dispense weapons. The interview was followed up before the notes were compiled.',
+    source: 'Scott interview notes transcript p 16, https://www.arvp.co.uk/wp-content/uploads/2024/12/SORENSEN-1990-INTERVIEW.pdf'
+  },
+  {
+    id: 'tl-1990-12-11-scott-compiled',
+    strand: 'witness',
+    date: '1990-12-11',
+    precision: 'day',
+    tier: 'B',
+    node: 'scott-sorensen-notes-1990',
+    label: 'The 16 page transcript is compiled: \'COMPILED 12-11-90; SCOTT/AVWK LANCASTER\'',
+    text: 'The typed transcript is hand-numbered 1 to 16 and headed \'NOTES FROM INTERVIEW ON 12-3-90 WITH BRAD\' and \'COMPILED 12-11-90; SCOTT/AVWK LANCASTER\'. Nothing in the 31 pages is a published article; Aviation Week printed the artwork, not the interview.',
+    source: 'Scott interview notes transcript p 1, https://www.arvp.co.uk/wp-content/uploads/2024/12/SORENSEN-1990-INTERVIEW.pdf'
   },
   {
     id: 'tl-1991-ufo-crash',
@@ -2542,6 +2619,39 @@ export const TIMELINE = [
     text: 'The nuclear weapons complex is placed under a semi-autonomous agency inside DOE, consolidating the most capable custodial architecture in the government outside the DoD SAP system.',
     tier: 'B',
     node: 'nnsa'
+  },
+  {
+    id: 'tl-2000-09-williams-testimony',
+    strand: 'witness',
+    date: '2000-09',
+    precision: 'month',
+    tier: 'B',
+    node: 'disclosure-project-briefing-2001',
+    label: 'Lt Col John Williams\'s Disclosure Project testimony on a compartmented facility at Norton',
+    text: 'Printed in the same document as McCandlish\'s. Williams says he \'was responsible for that base\'s facilities from 1981-82\' and that \'I was never allowed in that area when I was there at Norton Air Force Base\'. Greer cross-references the two testimonies to each other in bracketed notes signed \'SG\'.',
+    source: 'Disclosure Project Briefing Document, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt'
+  },
+  {
+    id: 'tl-2000-12-mccandlish-testimony',
+    strand: 'witness',
+    date: '2000-12',
+    precision: 'month',
+    tier: 'B',
+    node: 'mark-mccandlish',
+    label: 'McCandlish\'s Disclosure Project testimony is taken',
+    text: 'Printed at section 3.8.5 under the heading \'Testimony of Mr. Mark McCandlish, US Air Force / December 2000\'. It is where the claimed craft acquires the names Alien Reproduction Vehicle and Flux Liner in print, where the sizes are given as 24 / 60 / \'about 120 to 130 feet\', and where the Frank Carlucci identification is published in his own voice and labelled as his own speculation.',
+    source: 'Disclosure Project Briefing Document section 3.8.5, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt'
+  },
+  {
+    id: 'tl-2001-04-briefing-document',
+    strand: 'witness',
+    date: '2001-04',
+    precision: 'month',
+    tier: 'B',
+    node: 'disclosure-project-briefing-2001',
+    label: 'The Disclosure Project Briefing Document is prepared by Greer and Loder',
+    text: 'The roughly 500 page compilation prepared by Steven M. Greer MD and Theodore C. Loder III PhD, printing summarised witness testimony including McCandlish\'s of December 2000. It is the custody point for dozens of this board\'s witness claims.',
+    source: 'Disclosure Project Briefing Document, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt'
   },
   {
     id: 't-2001-disclosure',
@@ -3665,6 +3775,17 @@ export const TIMELINE = [
     node: 'dodi-5205-11'
   },
   {
+    id: 'tl-2013-06-02-zero-point-release',
+    strand: 'witness',
+    date: '2013-06-02',
+    precision: 'day',
+    tier: 'C',
+    node: 'zero-point-documentary',
+    label: 'US release date given by IMDb for the Zero Point documentary',
+    text: 'IMDb tt6111304 gives a US release date of 2 June 2013 for \'Zero Point: The Story of Mark McCandlish and the Flux Liner\', a 1h 32m documentary with James Allen credited as director and writer. IMDb is user-maintained and the film itself was not opened. The UAP Gerb episode description calls it the \'2014 Zero Point Documentary\'.',
+    source: 'IMDb tt6111304, https://www.imdb.com/title/tt6111304/, opened 18 September 2026'
+  },
+  {
     id: 'tl-2013-cia',
     strand: 'oversight',
     date: '2013-06-25',
@@ -4757,6 +4878,28 @@ export const TIMELINE = [
     node: 'cfr-32-117'
   },
   {
+    id: 'tl-2021-04-13-mccandlish-death',
+    strand: 'witness',
+    date: '2021-04-13',
+    precision: 'day',
+    tier: 'B',
+    node: 'mark-mccandlish',
+    label: 'McCandlish declared deceased at 1946 Trumpet Drive, Redding, California',
+    text: 'Shasta County Sheriff-Coroner case C21-0324, Verdict of Death (without jury): \'In the matter of the death of Mark Edward McCandlish, a 68 year old male ... he was declared deceased on the 13th day of April 2021.\' Cause of death \'Gunshot wound of head\'; other significant conditions \'None\'.',
+    source: 'Shasta County Sheriff-Coroner, Verdict of Death, case C21-0324, https://drive.google.com/file/d/1UNSHXesvWduXFduto_Cqh4LDOCG4gIkX/view'
+  },
+  {
+    id: 'tl-2021-04-19-external-examination',
+    strand: 'witness',
+    date: '2021-04-19',
+    precision: 'day',
+    tier: 'B',
+    node: 'mark-mccandlish',
+    label: 'External examination at 0713 by Dan Purtzer MD; no internal examination performed',
+    text: 'The Report of External Examination, dated 04/19/21 at 0713, gives the cause of death as \'central nervous system damage caused by self-inflicted gunshot wound to the head\', records an entrance wound \'1 cm above the right ear\' whose edges \'have powder burns\' and an exit wound above the left ear, and states on page 2: \'Due to the obvious cause of death, internal examination is not performed.\'',
+    source: 'Shasta County Sheriff-Coroner, Report of External Examination, case C21-0324, https://drive.google.com/file/d/1UNSHXesvWduXFduto_Cqh4LDOCG4gIkX/view'
+  },
+  {
     id: 'tl-2021-05-ig',
     strand: 'oversight',
     date: '2021-05-01',
@@ -4825,6 +4968,17 @@ export const TIMELINE = [
     text: 'Villarroel and colleagues report nine simultaneously occurring transients on a single Palomar plate from 12 April 1950 in Scientific Reports.',
     tier: 'A',
     node: 'vasco-project'
+  },
+  {
+    id: 'tl-2021-06-21-verdict-signed',
+    strand: 'witness',
+    date: '2021-06-21',
+    precision: 'day',
+    tier: 'B',
+    node: 'mark-mccandlish',
+    label: 'Verdict of Death signed by Chief Deputy Coroner Logan Stonehouse; manner of death Suicide',
+    text: 'The verdict gives manner of death as Suicide and records that \'Phillip Wacker, Deputy Coroner, conducted the investigation and established the identity of the decedent. A postmortem examination was conducted by Dr. Dan Purtzer, M.D., Pathologist.\' The postmortem it rests on is an external examination that expressly declined an internal one.',
+    source: 'Shasta County Sheriff-Coroner, Verdict of Death, case C21-0324, https://drive.google.com/file/d/1UNSHXesvWduXFduto_Cqh4LDOCG4gIkX/view'
   },
   {
     date: '2021-06-25',
@@ -6701,6 +6855,17 @@ export const TIMELINE = [
     node: 'mq9-yemen-hellfire-video-2024'
   },
   {
+    id: 'tl-2024-10-17-scott-pdf-created',
+    strand: 'witness',
+    date: '2024-10-17',
+    precision: 'day',
+    tier: 'C',
+    node: 'scott-sorensen-notes-1990',
+    label: 'The PDF of the Scott notes is created, per its own metadata',
+    text: 'The file\'s own /CreationDate is \'D:20241017132510\' and its /Producer and /Creator are both \'PDFium\'. It is 9,172,025 bytes over 31 pages with 31 embedded JPEG page images and no text layer. Nothing in it establishes who held the notes between 1990 and 2024.',
+    source: 'PDF metadata, https://www.arvp.co.uk/wp-content/uploads/2024/12/SORENSEN-1990-INTERVIEW.pdf, read 18 September 2026'
+  },
+  {
     id: 'cl-2024-10-17',
     strand: 'oversight',
     date: '2024-10-17',
@@ -6739,6 +6904,17 @@ export const TIMELINE = [
     text: 'Public reports an alleged parent USAP consolidating UAP observations, sourced to a current or former US government official and confirmed to Shellenberger by a former intelligence community official.',
     tier: 'B',
     node: 'immaculate-constellation'
+  },
+  {
+    id: 'tl-2024-10-21-gerb-arv-episode',
+    strand: 'witness',
+    date: '2024-10-21',
+    precision: 'day',
+    tier: 'C',
+    node: 'mark-mccandlish',
+    label: 'UAP Gerb publishes \'Alien Reproduction Vehicle - the Testimony of Mark McCandlish\'',
+    text: 'Video id wF07QMm6joE, channel \'UAP Gerb\', runtime 01:09:12. Its description opens \'In late 1988, accomplished aerospace illustrator Mark McCandlish came into information that indicated the United States ...\'. This is the episode that brings the account to this board\'s corpus; several assertions attributed to Gerb in the corpus files are recorded on these nodes as unverified rather than as claims.',
+    source: 'YouTube listing for video wF07QMm6joE, https://www.youtube.com/watch?v=wF07QMm6joE, opened 18 September 2026'
   },
   {
     id: 'tl-imcon-2024-10-22',
@@ -6976,6 +7152,17 @@ export const TIMELINE = [
     node: 'hearing-2024-11-19'
   },
   {
+    id: 'tl-2024-12-scott-pdf-uploaded',
+    strand: 'witness',
+    date: '2024-12',
+    precision: 'month',
+    tier: 'C',
+    node: 'arvp-fluxliner-project',
+    label: 'The Scott notes are uploaded to arvp.co.uk',
+    text: 'The PDF sits under the path /wp-content/uploads/2024/12/ on a site whose operator is not named anywhere on the pages opened. This is the point at which the only opened copy of the primary document enters the public record.',
+    source: 'URL path, https://www.arvp.co.uk/wp-content/uploads/2024/12/SORENSEN-1990-INTERVIEW.pdf, read 18 September 2026'
+  },
+  {
     id: 'tl-2024-12',
     strand: 'oversight',
     date: '2024-12-01',
@@ -7004,6 +7191,17 @@ export const TIMELINE = [
     text: 'Nocturnal drone sightings across New Jersey and neighbouring states generate more than 5,000 reports to the FBI.',
     tier: 'A',
     node: 'nj-drone-incursions-2024'
+  },
+  {
+    id: 'tl-2024-12-12-michels-davis-episode',
+    strand: 'witness',
+    date: '2024-12-12',
+    precision: 'day',
+    tier: 'C',
+    node: 'arv-fluxliner',
+    label: 'Jesse Michels publishes the Eric Davis episode carrying the denial',
+    text: 'Video id LnAiNChnuEQ, runtime 52:45, as opened on 18 September 2026 titled \'Eric Davis: A US President Was Briefed on UFOs!\' on the channel \'Jesse Michels\'. research/leads/michels-corpus-03.md file 04 recorded the same episode under the title \'CIA Scientist: George Bush Was Briefed on UFOs (ft. Eric Davis)\' on \'American Alchemy\'; the channel and the title now differ, and the corpus timestamp 0:36:24 to 0:38:00 falls inside the 52:45 runtime. The episode is identified by video id, not by title.',
+    source: 'Jesse Michels, video id LnAiNChnuEQ, https://www.youtube.com/watch?v=LnAiNChnuEQ, opened 18 September 2026'
   },
   {
     id: 'av-2024-12-14',

@@ -407,6 +407,32 @@
 "type": "denial"
 },
 {
+"claimTier": 2,
+"cls": "event",
+"dateEnd": "1988-11-12",
+"dateStart": "1988-11-12",
+"direction": "in",
+"edgeLabel": "Air Force open house; the 1990 notes describe Air Force briefers",
+"id": "norton-afb-airshow-1988",
+"l0": false,
+"label": "Norton AFB air show, 12 November 1988, and the alleged classified exhibit",
+"note": "The air show is an Air Force open house and is documented as such. The briefers inside the alleged exhibit are described only in the witness's words: uniforms in 'Blue; Air Force', 'Colonel, major, something like that'. No Air Force record of the exhibit was opened.",
+"sources": [
+{
+"date": "2026-09-18",
+"name": "air-and-space.com, Lockheed A-12 / YF-12 / SR-71 Blackbirds collection",
+"url": "https://www.air-and-space.com/Lockheed%20A-12%20YF-12%20SR-71%20Blackbirds.htm"
+},
+{
+"date": "1990-12-11",
+"name": "William B. Scott, interview notes on 'Brad', 3 December 1990, scanned PDF hosted by arvp.co.uk",
+"url": "https://www.arvp.co.uk/wp-content/uploads/2024/12/SORENSEN-1990-INTERVIEW.pdf"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
 "claimTier": 1,
 "cls": "program",
 "dateEnd": null,
@@ -494,7 +520,7 @@
 "coords": null,
 "dateEnd": null,
 "dateStart": "1947-09-18",
-"deg": 21,
+"deg": 22,
 "denials": [
 {
 "by": {
@@ -699,6 +725,12 @@
 "tier": "C"
 },
 {
+"cls": "event",
+"id": "norton-afb-airshow-1988",
+"label": "Norton AFB air show, 12 November 1988, and the alleged classified exhibit",
+"tier": "B"
+},
+{
 "cls": "document",
 "id": "tr-ac-47-silver-bug",
 "label": "TR-AC-47, Joint ATIC-WADC Report on Project Silver Bug, 15 February 1955",
@@ -721,7 +753,7 @@
 ],
 "sub": "Military department; original custodian of the UFO record and of the Roswell material",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 41 of 1057, score 85). 22 connections, 6 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C3/A3/D1.",
+"tierRationale": "Re-graded A on a global pass (rank 41 of 1066, score 86). 23 connections, 6 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C3/A3/D1.",
 "timeline": [
 {
 "date": "1947-09-18",

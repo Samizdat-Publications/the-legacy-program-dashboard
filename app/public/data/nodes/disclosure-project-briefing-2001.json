@@ -1,0 +1,148 @@
+{
+"A": 0,
+"C": 0,
+"D": 3,
+"band": null,
+"claims": [
+{
+"source": "Disclosure Project Briefing Document, section 3.8.5, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt , 2001-04",
+"text": "The document prints McCandlish's testimony under the date 'December 2000', in section 3.8.5 'Technology / Science', with an editorial preface that states its own summary of what the reader will learn, including 'In addition, we have the drawing from aerospace inventor Brad Sorenson of the devices that he saw, as well as a schematic of one of these alien reproduction vehicles - in some remarkable detail.'",
+"tier": 1
+},
+{
+"source": "Disclosure Project Briefing Document, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt , 2000-09",
+"text": "The same document carries a separate 'Testimony of Lieutenant Colonel John Williams / September 2000' which states of Norton AFB: 'I was never allowed in that area when I was there at Norton Air Force Base', and, asked how he could validate the facility existed, 'That's correct because I was responsible for that base's facilities from 1981-82.'",
+"tier": 1
+},
+{
+"source": "Disclosure Project Briefing Document, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt , 2001-04",
+"text": "The compiler cross-references his own two witnesses to each other in bracketed editorial notes signed 'SG', including '[See the testimony of Mark McCandlish which establishes that indeed a UFO was stored at this facility at Norton AFB. SG]'. The corroboration between the two testimonies is asserted by the compiler, inside the compilation.",
+"tier": 1
+},
+{
+"source": "Disclosure Project Briefing Document, section 3.8.5, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt , 2000-12",
+"text": "The document is the origin in print of the craft's two names: 'Well, this craft was what they called the Alien Reproduction Vehicle; it was also nicknamed the Flux Liner.'",
+"tier": 2
+}
+],
+"cls": "document",
+"cluster": "witness",
+"connections": [
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": "2001-04",
+"dateStart": "2001-04",
+"direction": "out",
+"edgeLabel": "The project's own publication",
+"id": "disclosure-project",
+"l0": false,
+"label": "The Disclosure Project",
+"note": "It is the Disclosure Project's own April 2001 compilation of witness testimony.",
+"sources": [
+{
+"date": "2001-04",
+"name": "Disclosure Project Briefing Document, section 3.8.5",
+"url": "https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "location",
+"dateEnd": "2001-04",
+"dateStart": "2000-09",
+"direction": "in",
+"edgeLabel": "Two of the document's witnesses name the base",
+"id": "l-norton-afb",
+"l0": false,
+"label": "Norton Air Force Base, San Bernardino, California",
+"note": "McCandlish and Lt Col John Williams name Norton AFB in separate testimonies inside the same document, and the compiler then cross-references them to each other. The corroboration is the compiler's assertion, made inside the compilation.",
+"sources": [
+{
+"date": "2001-04",
+"name": "Disclosure Project Briefing Document, section 3.8.5",
+"url": "https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt"
+}
+],
+"tier": "C",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "2001-04",
+"dateStart": "2001-04",
+"direction": "out",
+"edgeLabel": "Named as its director and compiler",
+"id": "steven-greer",
+"l0": false,
+"label": "Steven M. Greer",
+"note": "Prepared by Steven M. Greer MD and Theodore C. Loder III PhD. Greer signs the bracketed editorial notes 'SG'.",
+"sources": [
+{
+"date": "2001-04",
+"name": "Disclosure Project Briefing Document, section 3.8.5",
+"url": "https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt"
+}
+],
+"tier": "C",
+"type": "custody"
+}
+],
+"coords": null,
+"dateEnd": "2001-04",
+"dateStart": "2001-04",
+"deg": 3,
+"denials": [],
+"desc": "The Briefing Document is the custody point for dozens of this board's witness claims, not only this one, and it is openable in full as OCR text on archive.org. It prints McCandlish's testimony at section 3.8.5 under the date December 2000, and it is where the claimed craft acquires its two names in print. It also prints, separately, the September 2000 testimony of Lt Col John Williams on a compartmented facility at Norton AFB, and its compiler cross-references the two witnesses to each other in bracketed editorial notes signed 'SG'. That is the document's characteristic move and the reason its claims about the world cap at Tier 2: the corroboration between the two testimonies is asserted by the compiler, inside the compilation. Its claims about its own contents are another matter and are documented, because the contents can be read.",
+"domains": [
+"arv-2026-09-18"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "2",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "disclosure-project-briefing-2001",
+"l0": false,
+"label": "Disclosure Project Briefing Document, April 2001",
+"locLabel": null,
+"members": null,
+"short": "Disclosure Project Briefing Document, April 2001",
+"sources": [
+{
+"date": "2001-04",
+"name": "Disclosure Project Briefing Document, full OCR text, 1,590,895 bytes, on archive.org",
+"url": "https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt"
+}
+],
+"sub": "Roughly 500 page compilation prepared by Steven M. Greer MD and Theodore C. Loder III PhD, printing summarised witness testimony",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 688 of 1066, score 23). 3 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D3.",
+"timeline": [
+{
+"date": "2000-09",
+"id": "tl-2000-09-williams-testimony",
+"label": "Lt Col John Williams's Disclosure Project testimony on a compartmented facility at Norton",
+"precision": "month",
+"strand": "witness",
+"text": "Printed in the same document as McCandlish's. Williams says he 'was responsible for that base's facilities from 1981-82' and that 'I was never allowed in that area when I was there at Norton Air Force Base'. Greer cross-references the two testimonies to each other in bracketed notes signed 'SG'.",
+"tier": "B"
+},
+{
+"date": "2001-04",
+"id": "tl-2001-04-briefing-document",
+"label": "The Disclosure Project Briefing Document is prepared by Greer and Loder",
+"precision": "month",
+"strand": "witness",
+"text": "The roughly 500 page compilation prepared by Steven M. Greer MD and Theodore C. Loder III PhD, printing summarised witness testimony including McCandlish's of December 2000. It is the custody point for dozens of this board's witness claims.",
+"tier": "B"
+}
+]
+}

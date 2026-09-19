@@ -1,6 +1,6 @@
 # The reverse engineering band
 
-The programme map splits the 137 nodes closest to the alleged programme into seven bands, and this file is the reverse engineering band: 15 nodes, taken era by era from the earliest to the most recent. Each entry gives what the node is, why the board places it here, why it holds the tier it holds, what it has denied, its documented and testimonial claims with their sources, and the links that tie it to the rest of the board.
+The programme map splits the 139 nodes closest to the alleged programme into seven bands, and this file is the reverse engineering band: 16 nodes, taken era by era from the earliest to the most recent. Each entry gives what the node is, why the board places it here, why it holds the tier it holds, what it has denied, its documented and testimonial claims with their sources, and the links that tie it to the rest of the board.
 
 Names in full, for this file:
 
@@ -56,7 +56,7 @@ Roles the board assigns it: funding, custody, reverse-engineering, concealment.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 7 of 1057, score 151). 35 connections, 19 of them custody/funding/programmatic, 5 official denials recorded against it. Axes C3/A3/D1.
+Re-graded A on a global pass (rank 7 of 1066, score 151). 35 connections, 19 of them custody/funding/programmatic, 5 official denials recorded against it. Axes C3/A3/D1.
 
 ### The claims on the record
 
@@ -153,7 +153,7 @@ Roles the board assigns it: reverse-engineering, concealment, funding, research.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 82 of 1057, score 67). 10 connections, 7 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D3.
+Re-graded A on a global pass (rank 82 of 1066, score 67). 10 connections, 7 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D3.
 
 ### The claims on the record
 
@@ -233,7 +233,7 @@ Roles the board assigns it: custody, reverse-engineering, concealment.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 27 of 1057, score 99). 30 connections, 8 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C3/A3/D0.
+Re-graded A on a global pass (rank 28 of 1066, score 99). 30 connections, 8 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C3/A3/D0.
 
 ### The claims on the record
 
@@ -267,7 +267,7 @@ Re-graded A on a global pass (rank 27 of 1057, score 99). 30 connections, 8 of t
 - Lockheed Martin Corporation runs out to **Federal Contracting Mechanics** (domain, board tier B), a institutional link at Tier 1 documented. The link reads: the prime where classified contract line items and sworn allegation meet. Lockheed Martin's prime contract obligations run to the hundreds of billions of dollars in USAspending records, a portion carried as classified line items visible in financial systems only as a number. It is also the only company named on the floor of a congressional hearing by a sworn witness in connection with the custody allegation, which makes it the test case for whether contracting records can be made to answer the question. Sources: USAspending.gov, federal award search (prime contract obligations by recipient), https://www.usaspending.gov/search, dated 2026-08-21; House Oversight hearing transcript, 'UAP: Implications on National Security, Public Safety, and Government Transparency' (CHRG-118hhrg53022), https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm, dated 2023-07-26; House Oversight Task Force hearing transcript, 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection' (CHRG-119hhrg61718), https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm, dated 2025-09-09.
 - Lockheed Martin Corporation comes in from **Ultracapacitors as Energy and Power Storage Devices for Commercial and Military Applications** (document, board tier B), a institutional link at Tier 1 documented. The link reads: author's affiliation of record; one of three Lockheed Martin DIRDs. Lockheed Martin appears three times on the DIA list: this paper, Dr V Teofilo's "Aneutronic Fusion Propulsion," and Dr S Macheret's MHD air-breathing propulsion paper. Eric Davis said in a June 2018 interview that the advanced nuclear fusion for aerospace propulsion work was done by colleagues at Lockheed Martin, which matches the list. This is a direct, documented thread from the DIRD series into the prime-contractor cluster. Sources: Released DIRD, 'Ultracapacitors as Energy and Power Storage Devices for Commercial and', FOIA copy, cover page read 22 August 2026, https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_32-DIRD_Ultracapacitators_as_Energy_and_Power_Storage_Devices.pdf, dated 2026-08-22; DIA FOIA Electronic Reading Room entry for this reference document, https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237620/, dated 2026-08-22; DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations, https://fas.org/publication/aatip-list/, dated 2026-08-23; https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html, https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html; https://ufos-scientificresearch.blogspot.com/2018/06/those-defense-intelligence-reference.html, https://ufos-scientificresearch.blogspot.com/2018/06/those-defense-intelligence-reference.html
 - Lockheed Martin Corporation comes in from **GAO accession 130581 - Controls Over Classified Documents for a Special Access Program at Lockheed Corporation** (document, board tier B), a investigative link at Tier 1 documented. The link reads: the contractor whose special-access document control the testimony examined. GAO reported 1,460 discrepancies in an inventory of about 40,000 secret and top-secret items across 53 document control substations, with 11 documents unresolved as of 19 July 1986. Sources: GAO accession 130581, testimony of 24 July 1986, https://www.gao.gov/assets/130581.pdf, dated 1986-07-24.
-- Lockheed Martin Corporation comes in from **MHD Air Breathing Propulsion and Power for Aerospace Applications** (document, board tier B), a institutional link at Tier 1 documented. The link reads: author's employer at time of writing (Skunk Works). Lockheed Martin is the affiliation recorded on the DIA congressional list. Macheret was a senior staff engineer at Lockheed Martin Aeronautics, Skunk Works, from 2006 to 2014, bracketing the document's ICOD and publication date. Lockheed Martin is credited with three of the 38 products on the DIA list. Sources: Released DIRD, 'MHD Air Breathing Propulsion and Power for Aerospace Applications', FOIA copy, cover page read 22 August 2026, https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_33-DIRD_MHD_Air_Breathing_Propulsion_and_Power_for_Aerospace_Applications.pdf, dated 2026-08-22; DIA FOIA Electronic Reading Room entry for this reference document, https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237629/, dated 2026-08-22; DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations, https://fas.org/publication/aatip-list/, dated 2026-08-23; https://irp.fas.org/dia/aatip-list.pdf, https://irp.fas.org/dia/aatip-list.pdf; https://en.wikipedia.org/wiki/Sergey_Macheret, https://en.wikipedia.org/wiki/Sergey_Macheret; https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk, https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk
+- Lockheed Martin Corporation comes in from **MHD Air Breathing Propulsion and Power for Aerospace Applications** (document, board tier C), a institutional link at Tier 1 documented. The link reads: author's employer at time of writing (Skunk Works). Lockheed Martin is the affiliation recorded on the DIA congressional list. Macheret was a senior staff engineer at Lockheed Martin Aeronautics, Skunk Works, from 2006 to 2014, bracketing the document's ICOD and publication date. Lockheed Martin is credited with three of the 38 products on the DIA list. Sources: Released DIRD, 'MHD Air Breathing Propulsion and Power for Aerospace Applications', FOIA copy, cover page read 22 August 2026, https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_33-DIRD_MHD_Air_Breathing_Propulsion_and_Power_for_Aerospace_Applications.pdf, dated 2026-08-22; DIA FOIA Electronic Reading Room entry for this reference document, https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237629/, dated 2026-08-22; DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations, https://fas.org/publication/aatip-list/, dated 2026-08-23; https://irp.fas.org/dia/aatip-list.pdf, https://irp.fas.org/dia/aatip-list.pdf; https://en.wikipedia.org/wiki/Sergey_Macheret, https://en.wikipedia.org/wiki/Sergey_Macheret; https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk, https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk
 - Lockheed Martin Corporation comes in from **S. 2103 Sec. 1104 - SSCI contractor disclosure and immunity provision (stripped)** (legislation, board tier C), a legislative link at Tier 1 documented. The link reads: SSCI would have compelled contractors to list all 'non-earth origin or exotic' material they hold, with immunity. S. 2103 Sec. 1104(d)-(e), reported unanimously on 22 June 2023, required notification to the DNI within 60 days and production within 180, and barred any criminal or civil action against a complying holder. The phrase 'non-earth origin' does not appear in the enacted law. Sources: S. 2103, Intelligence Authorization Act for Fiscal Year 2024, as reported by the Senate Select Committee on Intelligence (Sec. 1104), https://www.govinfo.gov/content/pkg/BILLS-118s2103rs/html/BILLS-118s2103rs.htm, dated 2023-06-22; Christopher Sharp, 'Senate Intelligence Committee Proposes Amnesty to Defense Contractors for Disclosure of Non-Earth Origin or Exotic Materials,' Liberation Times, https://www.liberationtimes.com/home/senate-intelligence-committee-proposes-amnesty-to-defense-contractors-for-disclosure-of-non-earth-origin-or-exotic-materials-in-approved-ufo-language, dated 2023-06-24.
 - Lockheed Martin Corporation comes in from **Vincent L. Teofilo** (person, board tier C), a institutional link at Tier 1 documented. The link reads: physicist, Lockheed Martin Space Systems, 28 years. Spent 28 years at Lockheed Martin Space Systems, contributing to the Hubble Space Telescope and the Space-Based Infrared System, before and during the period he was commissioned for the DIRD. This is his affiliation of record on the DIA list. Sources: https://www.legacy.com/us/obituaries/name/vincent-teofilo-obituary?id=60785077, https://www.legacy.com/us/obituaries/name/vincent-teofilo-obituary?id=60785077; https://irp.fas.org/dia/aatip-list.pdf, https://irp.fas.org/dia/aatip-list.pdf
 - Lockheed Martin Corporation comes in from **Defense Investigative Service** (institution, board tier C), a institutional link at Tier 1 documented. The link reads: inspected Lockheed's other contracts while excluded from its special access contract. GAO to the Secretary of Defense: the failure 'may not have occurred if the Defense Investigative Service had been permitted to conduct semiannual inspections of the contract, as it does with other contracts at Lockheed.' Sources: GAO/NSIAD-86-191, 7 August 1986, https://www.gao.gov/assets/nsiad-86-191.pdf, dated 1986-08-07.
@@ -324,7 +324,7 @@ Roles the board assigns it: custody, concealment, reverse-engineering.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 49 of 1057, score 80). 21 connections, 6 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C3/A3/D0.
+Re-graded A on a global pass (rank 49 of 1066, score 80). 21 connections, 6 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C3/A3/D0.
 
 ### The claims on the record
 
@@ -413,7 +413,7 @@ Roles the board assigns it: reverse-engineering, research, custody, disclosure.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 80 of 1057, score 68). 14 connections, 2 of them custody/funding/programmatic. Axes C3/A2/D3.
+Re-graded A on a global pass (rank 80 of 1066, score 68). 14 connections, 2 of them custody/funding/programmatic. Axes C3/A2/D3.
 
 ### The claims on the record
 
@@ -452,6 +452,61 @@ Re-graded A on a global pass (rank 80 of 1057, score 68). 14 connections, 2 of t
 - EarthTech International / Institute for Advanced Studies at Austin comes in from **Quantum Tomography of Negative Energy States in the Vacuum** (document, board tier C), a institutional link at Tier 1 documented. The link reads: author's institutional affiliation at time of writing. EarthTech International, Austin, Texas, the affiliation recorded against this title on the DIA congressional list. Sources: Released DIRD, 'Quantum Tomography of Negative Energy States in the Vacuum', FOIA copy, cover page read 22 August 2026, https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_36-DIRD_Quantum_Tomography_of_Negative_Energy_States_in_the_Vacuum.pdf, dated 2026-08-22; DIA FOIA Electronic Reading Room entry for this reference document, https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237632/, dated 2026-08-22; DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations, https://fas.org/publication/aatip-list/, dated 2026-08-23; https://irp.fas.org/dia/aatip-list.pdf, https://irp.fas.org/dia/aatip-list.pdf
 - EarthTech International / Institute for Advanced Studies at Austin comes in from **Institute for Advanced Studies at Austin** (institution, board tier C), a institutional link at Tier 1 documented. The link reads: IASA (1985) incorporated under EarthTech International (1991). EarthTech's own About page states the corporate relationship; the two names are used interchangeably across the DIRD covers and the TTSA reporting. Sources: EarthTech International / Institute for Advanced Studies at Austin, https://www.earthtech.org/about/, dated 2026-08-12.
 - EarthTech International / Institute for Advanced Studies at Austin comes in from **Austin, Texas - 11855 Research Blvd** (location, board tier C), a institutional link at Tier 1 documented. The link reads: 11855 Research Blvd - the address printed on a DIA reference document. The single street address connecting the DIA Defense Warning Office to the AAWSAP propulsion and medical documents and thence to the To The Stars metamaterials work. Sources: DIRD DIA-08-1004-004, 'Traversable Wormholes, Stargates, and Negative Energy' (Eric W. Davis, EarthTech International), https://documents.theblackvault.com/documents/traversablewormholes-drdavis.pdf, dated 2010-04-06; EarthTech International / Institute for Advanced Studies at Austin, https://www.earthtech.org/about/, dated 2026-08-12.
+
+## Alien Reproduction Vehicle (ARV) / Flux Liner
+
+Alien Reproduction Vehicle (ARV) / Flux Liner is a program on the board; board tier B, documented channel and capability, programme role indicated but not yet nailed to a primary source; dates 1988-11-12; axes C0 A0 D3; 7 connections; in the reverse-engineering band.
+
+In one line: Claimed saucer-shaped craft said to have been exhibited at Norton AFB on 12 November 1988; no record of its existence has been opened.
+
+### What it is
+
+A claimed saucer-shaped craft, called the Alien Reproduction Vehicle and the Flux Liner, said to have been shown in a hangar at Norton Air Force Base on 12 November 1988. No record of its existence has been opened. The whole account descends from one second-hand relay: an industrial designer said he saw three such craft, and an aerospace illustrator who was not present drew them from that verbal description. Two primary documents carry the description, William B. Scott's unpublished 1990 interview notes and the Disclosure Project's April 2001 Briefing Document, and they are why this node exists, not evidence that the craft does.
+
+### Why it is implicated
+
+It is on this map as the worked example of a rule the board adopted on 18 September 2026: the thing claimed about is a node in its own right, and it is the hub every claimant runs into. Ten people arguing about a place, joined only to each other, hide the convergence; joined to the place, they show it. This is the first craft node the board has ever carried, and its edges are deliberately mixed: the sole eyewitness, the illustrator who drew it, the trade-press editor who investigated and never published, the anonymous site that sells reconstructions of it, and a government scientist who says it never existed. Its degree means a lot is claimed here. It does not mean any of it is true, and the tier on each edge says which is which.
+
+### The longer account
+
+The argument for a node with no evidence behind it is that the alternative is worse. Before this build the board carried Steven Greer, the Disclosure Project, the Brown patents and the contractor estate, and carried nothing for the object all of them are talking about. A reader could not see that the ARV is a single claim with many carriers, because the carriers were joined to each other and to institutions, never to the thing itself. Building the hub makes the shape legible and, more usefully, makes the shape falsifiable: every edge into it is dated, typed and tiered, so the reader can count how much of the convergence is documented. The answer here is: very little. The strongest artefact is a working file an Aviation Week editor never published, and inside it the witness refuses to stand behind his own figures and disowns part of the drawing made from his account. The sizes then grow more precise with each retelling, which is the opposite of what happens to a measurement. The claimed lift mechanism is attributed to a Thomas Townsend Brown patent, and the board's own record is that neither Brown patent claims anti-gravity: both claim thrust by electrical fields in a dielectric medium. That join is the reason this thread belongs to a board about defense contractors at all, and it is also the reason it does not support what it is usually cited to support.
+
+Roles the board assigns it: reverse-engineering, disclosure, research.
+
+### Open questions on this node
+
+- The Aviation Week and Space Technology issue of 1 October 1990, which the 1990 notes name as carrying McCandlish's two paintings. It is the only element of this thread published in the contemporary trade press and nobody has opened it.
+- The McCandlish cut-away drawing itself, as printed in the Disclosure Project Briefing Document's plate section, which this session did not extract.
+- Whether any record of Brad Sorensen exists under that surname. The 1990 document gives a first name, a school, a client list and an hourly rate, and nobody in the opened record appears to have tried.
+
+### Why it holds its tier
+
+Re-graded B on a global pass (rank 299 of 1066, score 37). 7 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D3.
+
+### The claims on the record
+
+- **Tier 1 documented.** THE SIZES HAVE DRIFTED, AND THE DRIFT RUNS ONE WAY, across three opened documents. The 1990 interview notes give 'The small one was like 20 ft, the next 60 ft. diameter and the next one,...maybe 120 ft. diam. Just a guess; don't hold me to that.' The April 2001 Briefing Document gives the smallest as 'about 24 feet in diameter at its widest part, right at the base', the next as '60 feet in diameter at the base', and 'the largest of these vehicles was about 120 to 130 feet in diameter'. The arvp.co.uk FLUX 1988 page, read 18 September 2026, gives 'one with a 130-foot diameter, another with a 60-foot diameter, and a smaller one measuring 24 feet in diameter', with no disclaimer. Each retelling is more precise than the last about a figure the witness explicitly refused to stand behind. Source: Scott interview notes transcript p 10, https://www.arvp.co.uk/wp-content/uploads/2024/12/SORENSEN-1990-INTERVIEW.pdf, 1990-12-03; Disclosure Project Briefing Document section 3.8.5, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt, 2000-12; arvp.co.uk FLUX 1988 page, https://www.arvp.co.uk/flux-01/, read 2026-09-18
+- **Tier 1 documented.** THE WITNESS DISOWNS PART OF THE DRAWING. Shown McCandlish's sketches in December 1990, Sorensen says of the manned vehicle: 'this is probably the farthest from what I saw, and no, I didn't see anything with an intake up above the windows like this', and 'mark extrapolates a bit too much'. Of the saucer drawing he says the opposite: 'you've got a drawing, as accurate as I could get [the round, saucer-looking thing]. This dwg is so GD..accurate that I can't be much more specific than this.' Source: William B. Scott, interview notes on 'Brad', https://www.arvp.co.uk/wp-content/uploads/2024/12/SORENSEN-1990-INTERVIEW.pdf, transcript p 10, 1990-12-03
+- **Tier 2 named person on the record.** On the capacitor stack, in the illustrator's own words in the 2001 Briefing Document: around the middle of the vehicle 'a large plastic casting that had this big set of copper coils in it', 'about 18 inches wide at the top, and about 8 to 9 inches thick', with 'maybe 15 to 20 stacked layers of copper coils inside of it'. The bottom disc was 'about 11 or 12 inches thick', containing 'exactly 48 sections like thin slices of pizza pie', each 'full of half-inch-thick copper plates, and each of the 48 sections had 8 copper plates', alternating negative and positive four times. Source: Disclosure Project Briefing Document, section 3.8.5, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt, 2000-12
+- **Tier 2 named person on the record.** On the claimed lift mechanism and its electrical architecture: 'what I was looking at was a huge Tesla coil, which is kind of like an open-air transformer', running off 'two large 24-volt marine-style batteries', stepping up 'through the secondary coil, which is on the column in the middle', with the ability to 'selectively put the voltage on any of these 48 capacitor sections', at 'probably something between, say, half a million and a million volts of electricity'. Source: Disclosure Project Briefing Document, section 3.8.5, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt, 2000-12
+- **Tier 2 named person on the record.** On the crew compartment and the central column: the visible dome 'was actually the upper half of a big sphere-shaped crew compartment that was in the middle of the vehicle'; 'On the inside of the crew compartment was a big column that ran down through the middle, and there were four ejection seats mounted back-to-back on the upper half of this column. Then, right in the middle of the column, was a large flywheel of some kind.' Source: Disclosure Project Briefing Document, section 3.8.5, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt, 2000-12
+- **Tier 2 named person on the record.** On why the craft is described with no windows: a 'synthetic vision system [used] the same kind of technology as the gun slaving system they have in the Apache helicopter', with paired slewing cameras and 'a little screen in front of his helmet', giving 'a perfect 3-D view of the outside, but no windows'. Source: Disclosure Project Briefing Document, section 3.8.5, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt, 2000-12
+- **Tier 2 named person on the record.** THE SIZES HAVE DRIFTED, AND THE DRIFT RUNS ONE WAY, across three opened documents. The 1990 interview notes give 'The small one was like 20 ft, the next 60 ft. diameter and the next one,...maybe 120 ft. diam. Just a guess; don't hold me to that.' The April 2001 Briefing Document gives the smallest as 'about 24 feet in diameter at its widest part, right at the base', the next as '60 feet in diameter at the base', and 'the largest of these vehicles was about 120 to 130 feet in diameter'. The arvp.co.uk FLUX 1988 page, read 18 September 2026, gives 'one with a 130-foot diameter, another with a 60-foot diameter, and a smaller one measuring 24 feet in diameter', with no disclaimer. Each retelling is more precise than the last about a figure the witness explicitly refused to stand behind. Source: Scott interview notes transcript p 10, https://www.arvp.co.uk/wp-content/uploads/2024/12/SORENSEN-1990-INTERVIEW.pdf, 1990-12-03; Disclosure Project Briefing Document section 3.8.5, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt, 2000-12; arvp.co.uk FLUX 1988 page, https://www.arvp.co.uk/flux-01/, read 2026-09-18, DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement
+- **Tier 2 named person on the record.** THE WITNESS DISOWNS PART OF THE DRAWING. Shown McCandlish's sketches in December 1990, Sorensen says of the manned vehicle: 'this is probably the farthest from what I saw, and no, I didn't see anything with an intake up above the windows like this', and 'mark extrapolates a bit too much'. Of the saucer drawing he says the opposite: 'you've got a drawing, as accurate as I could get [the round, saucer-looking thing]. This dwg is so GD..accurate that I can't be much more specific than this.' Source: William B. Scott, interview notes on 'Brad', https://www.arvp.co.uk/wp-content/uploads/2024/12/SORENSEN-1990-INTERVIEW.pdf, transcript p 10, 1990-12-03, DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement
+- **Tier 2 named person on the record.** The 1990 primary document gives the three craft their nursery-rhyme names and the witness's own guessed sizes: 'This was a really interesting craft--there were three of them. When I walked into the room....well, I thought of something stupid--like a nursery rhyme: daddy bear, mommy bear, baby bear. Like they'd been put in a Xerox machine--the same proportions, just diff. sizes. The small one was like 20 ft, the next 60 ft. diameter and the next one,...maybe 120 ft. diam. Just a guess; don't hold me to that.' Source: William B. Scott, interview notes on 'Brad', https://www.arvp.co.uk/wp-content/uploads/2024/12/SORENSEN-1990-INTERVIEW.pdf, transcript p 10, 1990-12-03
+- **Tier 2 named person on the record.** The April 2001 Briefing Document is the origin in print of the craft's two names, in the illustrator's own words: 'Well, this craft was what they called the Alien Reproduction Vehicle; it was also nicknamed the Flux Liner.' Source: Disclosure Project Briefing Document, section 3.8.5, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt, 2000-12
+- **Tier 2 named person on the record.** The account attributes the claimed lift effect to Thomas Townsend Brown. The 2001 testimony describes an experiment by 'Mark Stambough' that floated a plate capacitor at about a million volts 'in accordance with principles that had been described in a patent that was filed back in the late 1950s/early 1960s by a gentleman called Thomas Townsend Brown. Brown and another individual by the name of Dr. Biefield had done this, so this effect became known as the Biefield-Brown effect.' The direction of motion is given as toward the positively charged plate. The board's own record of both candidate patents is that NEITHER claims anti-gravity: US 3,187,206, filed 9 May 1958, opens 'This invention relates to an electrical device for producing thrust by the direct operation of electrical fields', and US 2,949,550, filed 3 July 1957, claims 'Thrust producing apparatus' operating by impressing high voltage between a body and an insulated electrode 'whereby to cause relative movement of an ionizable dielectric medium'. It is the ACCOUNT that reinterprets electrokinetic thrust as levitation. Source: Disclosure Project Briefing Document, section 3.8.5, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt, 2000-12, read against the board's existing claims on thomas-townsend-brown for US 3,187,206 and US 2,949,550
+- **Tier 2 named person on the record, allegation shaped wording as stored.** The case against, from inside the classification line. On the Jesse Michels episode published 12 December 2024, video id LnAiNChnuEQ, Eric Davis said that no ARV exists and none has ever been built, that the Northrop Grumman and Area 51 ARV rumours are 'all myth', that they originate with Bob Lazar-type storytellers who 'believe their own bullshit' rather than with deliberate disinformation, and that the CIA 'shut it all down' in 1989. The episode is identified here by video id and not by title: research/leads/michels-corpus-03.md file 04 recorded it as 'CIA Scientist: George Bush Was Briefed on UFOs (ft. Eric Davis)' on the channel 'American Alchemy', and as opened on 18 September 2026 the same video id carries the title 'Eric Davis: A US President Was Briefed on UFOs!' on the channel 'Jesse Michels'. The corpus timestamp 0:36:24 to 0:38:00 falls inside the video's 52:45 runtime. Source: Jesse Michels, video id LnAiNChnuEQ, https://www.youtube.com/watch?v=LnAiNChnuEQ, published 2024-12-12, opened 18 September 2026; content recorded at research/leads/michels-corpus-03.md file 04 at 0:36:24 to 0:38:00
+
+### Its strongest connections
+
+- Alien Reproduction Vehicle (ARV) / Flux Liner comes in from **William B. Scott's interview notes on 'Brad', 3 December 1990** (document, board tier B), a investigative link at Tier 1 documented. The link reads: Earliest opened record of the claimed craft. It carries the nursery-rhyme naming, the witness's own disclaimed sizes, his judgement that the craft looked poorly built, and his partial disowning of the drawing. It is the record against which every later retelling can be measured. Sources: William B. Scott, interview notes on 'Brad', 3 December 1990, scanned PDF hosted by arvp.co.uk, https://www.arvp.co.uk/wp-content/uploads/2024/12/SORENSEN-1990-INTERVIEW.pdf, dated 1990-12-11.
+- Alien Reproduction Vehicle (ARV) / Flux Liner comes in from **ARVP (arvp.co.uk), the Flux Liner project site** (institution, board tier B), a research link at Tier 1 documented. The link reads: Publishes a 3D reconstruction of the claimed craft and sells prints of it. The reconstruction is the site operator's own work and is built from secondary material: 'I rebuilt it from the ground up, using measurements from the original sketches and information provided by Mark in his talks and videos'. The page states the original drawing could not be obtained. Prints are sold at 30.00 each with no licence terms stated. Sources: arvp.co.uk, FLUX 1988 page, https://www.arvp.co.uk/flux-01/, dated 2026-09-18; arvp.co.uk, SHOP page, https://www.arvp.co.uk/shop/, dated 2026-09-18.
+- Alien Reproduction Vehicle (ARV) / Flux Liner comes in from **Eric W. Davis** (person, board tier A), a denial link at Tier 2 named person on the record. The link reads: Says no such craft exists and none has ever been built. research/leads/michels-corpus-03.md file 04 at 0:36:24 to 0:38:00 records Davis saying the ARV rumours are 'all myth', that they originate with Bob Lazar-type storytellers who 'believe their own bullshit' rather than with deliberate disinformation, and that the CIA 'shut it all down' in 1989. The corpus recorded the episode as 'CIA Scientist: George Bush Was Briefed on UFOs (ft. Eric Davis)' on 'American Alchemy'; as opened 18 September 2026 the same video id carries a different title on the channel 'Jesse Michels'. The corpus timestamp falls inside the 52:45 runtime. Sources: Jesse Michels, video id LnAiNChnuEQ, https://www.youtube.com/watch?v=LnAiNChnuEQ, dated 2024-12-12.
+- Alien Reproduction Vehicle (ARV) / Flux Liner comes in from **Mark McCandlish** (person, board tier A), a witness-chain link at Tier 2 named person on the record. The link reads: The illustrator and relayer who drew the claimed craft and named it in print. He is not a witness to the craft. He drew it from a friend's verbal description a week after the claimed event, and his 2001 testimony is where it acquires the names Alien Reproduction Vehicle and Flux Liner in print. Sources: Disclosure Project Briefing Document, section 3.8.5, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt, dated 2001-04; William B. Scott, interview notes on 'Brad', 3 December 1990, scanned PDF hosted by arvp.co.uk, https://www.arvp.co.uk/wp-content/uploads/2024/12/SORENSEN-1990-INTERVIEW.pdf, dated 1990-12-11.
+- Alien Reproduction Vehicle (ARV) / Flux Liner comes in from **Thomas Townsend Brown** (person, board tier A), a research link at Tier 2 named person on the record. The link reads: The account's claimed lift lineage, which the patents themselves do not support. THE EDGE MUST NOT BE READ AS ANTI-GRAVITY. The board's own record is that NEITHER Brown patent claims anti-gravity: US 3,187,206, filed 9 May 1958, and US 2,949,550, filed 3 July 1957, both claim thrust by electrical fields in a dielectric medium. It is the ACCOUNT that reinterprets electrokinetic thrust as levitation. McCandlish attributes the claimed effect to 'a patent that was filed back in the late 1950s/early 1960s by a gentleman called Thomas Townsend Brown', which on the board's own record is one of those two. Sources: Disclosure Project Briefing Document, section 3.8.5, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt, dated 2001-04.
+- Alien Reproduction Vehicle (ARV) / Flux Liner comes in from **'Brad' Sorensen** (person, board tier B), a witness-chain link at Tier 2 named person on the record. The link reads: Sole claimed eyewitness to the three craft. Every substantive claim about the craft traces to him and to nobody else. His own 1990 words limit it: the sizes are 'Just a guess; don't hold me to that', and of the manned vehicle in McCandlish's drawing, 'this is probably the farthest from what I saw'. Sources: William B. Scott, interview notes on 'Brad', 3 December 1990, scanned PDF hosted by arvp.co.uk, https://www.arvp.co.uk/wp-content/uploads/2024/12/SORENSEN-1990-INTERVIEW.pdf, dated 1990-12-11.
+- Alien Reproduction Vehicle (ARV) / Flux Liner comes in from **Zero Point: The Story of Mark McCandlish and the Flux Liner** (document, board tier C), a investigative link at Tier 2 named person on the record. The link reads: A feature documentary carrying the claim to a later audience. A later carrier rather than a source. The film itself was not opened; the node rests on the Vimeo channel, the arvp.co.uk link and the user-maintained IMDb listing. Written as 'investigative' because 'media' is not one of this board's edge types. Sources: Vimeo channel 'Zero Point: The Story of Mark McCandlish and the Flux Liner', https://vimeo.com/channels/942663, dated 2026-09-18; IMDb tt6111304, user-maintained listing, https://www.imdb.com/title/tt6111304/, dated 2026-09-18.
 
 # 2000-2016: AAWSAP / AATIP
 
@@ -505,7 +560,7 @@ Roles the board assigns it: funding, reverse-engineering, custody, disclosure.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 2 of 1057, score 174). 61 connections, 53 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A3/D3.
+Re-graded A on a global pass (rank 2 of 1066, score 174). 61 connections, 53 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A3/D3.
 
 ### The claims on the record
 
@@ -602,7 +657,7 @@ Roles the board assigns it: research, reverse-engineering, funding, custody, con
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 15 of 1057, score 113). 21 connections, 11 of them custody/funding/programmatic. Axes C3/A2/D2.
+Re-graded A on a global pass (rank 15 of 1066, score 113). 21 connections, 11 of them custody/funding/programmatic. Axes C3/A2/D2.
 
 ### The claims on the record
 
@@ -699,7 +754,7 @@ Roles the board assigns it: research, funding, reverse-engineering, concealment,
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 19 of 1057, score 108). 16 connections, 6 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C3/A3/D3.
+Re-graded A on a global pass (rank 20 of 1066, score 108). 16 connections, 6 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C3/A3/D3.
 
 ### The claims on the record
 
@@ -800,7 +855,7 @@ Roles the board assigns it: reverse-engineering, custody, concealment, funding, 
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 10 of 1057, score 122). 16 connections, 9 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C3/A3/D3.
+Re-graded A on a global pass (rank 10 of 1066, score 122). 16 connections, 9 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C3/A3/D3.
 
 ### The claims on the record
 
@@ -898,7 +953,7 @@ Roles the board assigns it: reverse-engineering, concealment, oversight, custody
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 65 of 1057, score 72). 10 connections, 3 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C3/A3/D3.
+Re-graded A on a global pass (rank 65 of 1066, score 72). 10 connections, 3 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C3/A3/D3.
 
 ### The claims on the record
 
@@ -986,7 +1041,7 @@ Roles the board assigns it: disclosure, custody, reverse-engineering.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 51 of 1057, score 78). 18 connections, 4 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A2/D3.
+Re-graded A on a global pass (rank 51 of 1066, score 78). 18 connections, 4 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A2/D3.
 
 ### The claims on the record
 
@@ -1085,7 +1140,7 @@ Roles the board assigns it: reverse-engineering, custody, research, concealment.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 91 of 1057, score 64). 11 connections, 5 of them custody/funding/programmatic. Axes C3/A1/D3.
+Re-graded A on a global pass (rank 92 of 1066, score 64). 11 connections, 5 of them custody/funding/programmatic. Axes C3/A1/D3.
 
 ### The claims on the record
 
@@ -1174,7 +1229,7 @@ Roles the board assigns it: oversight, disclosure, research, reverse-engineering
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 205 of 1057, score 43). 8 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D2.
+Re-graded B on a global pass (rank 206 of 1066, score 43). 8 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D2.
 
 ### The claims on the record
 
@@ -1259,7 +1314,7 @@ Roles the board assigns it: custody, reverse-engineering, research, disclosure.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 73 of 1057, score 69). 8 connections, 7 of them custody/funding/programmatic. Axes C3/A1/D2.
+Re-graded A on a global pass (rank 73 of 1066, score 69). 8 connections, 7 of them custody/funding/programmatic. Axes C3/A1/D2.
 
 ### The claims on the record
 
@@ -1345,7 +1400,7 @@ Roles the board assigns it: reverse-engineering, disclosure.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 9 of 1057, score 122). 41 connections, 38 of them custody/funding/programmatic. Axes C0/A0/D0.
+Re-graded A on a global pass (rank 9 of 1066, score 122). 41 connections, 38 of them custody/funding/programmatic. Axes C0/A0/D0.
 
 ### The claims on the record
 

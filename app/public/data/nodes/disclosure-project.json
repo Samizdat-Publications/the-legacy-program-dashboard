@@ -24,6 +24,27 @@
 "cluster": "witness",
 "connections": [
 {
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "2001-04",
+"dateStart": "2001-04",
+"direction": "in",
+"edgeLabel": "The project's own publication",
+"id": "disclosure-project-briefing-2001",
+"l0": false,
+"label": "Disclosure Project Briefing Document, April 2001",
+"note": "It is the Disclosure Project's own April 2001 compilation of witness testimony.",
+"sources": [
+{
+"date": "2001-04",
+"name": "Disclosure Project Briefing Document, section 3.8.5",
+"url": "https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
 "claimTier": 2,
 "cls": "person",
 "dateEnd": "2002",
@@ -43,6 +64,27 @@
 ],
 "tier": "C",
 "type": "behavioral"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "2001-04",
+"dateStart": "2000-12",
+"direction": "in",
+"edgeLabel": "Disclosure Project witness, testimony taken December 2000",
+"id": "mark-mccandlish",
+"l0": false,
+"label": "Mark McCandlish",
+"note": "His December 2000 testimony is printed in the project's own April 2001 Briefing Document at section 3.8.5, under the heading 'Testimony of Mr. Mark McCandlish, US Air Force / December 2000'.",
+"sources": [
+{
+"date": "2001-04",
+"name": "Disclosure Project Briefing Document, section 3.8.5",
+"url": "https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt"
+}
+],
+"tier": "A",
+"type": "witness-chain"
 },
 {
 "claimTier": 2,
@@ -95,7 +137,7 @@
 "coords": null,
 "dateEnd": null,
 "dateStart": "1993",
-"deg": 3,
+"deg": 5,
 "denials": [],
 "desc": "Founded by Steven Greer in 1993 as an offshoot of his Center for the Study of Extraterrestrial Intelligence, the Disclosure Project's method was to locate former military, intelligence, contractor and air traffic personnel with first-hand UFO experience, record their testimony on video, and use the aggregate to demand congressional hearings with subpoena power and witness amnesty. It briefed members of Congress and officials in Washington in April 1997 - the same week the Wilson-Davis notes later record as the trigger for Admiral Wilson's inquiries - and staged its major public event at the National Press Club on 9 May 2001 with roughly twenty witnesses and a stated corpus of more than four hundred. No hearing followed. The project's structural contribution is the demonstration that witness aggregation without documents does not move institutions: the 2001 event produced global coverage and zero congressional action, whereas the 2023 Grusch testimony - one witness with an Inspector General complaint, a security clearance and a statutory whistleblower channel - produced a hearing. The lesson the modern movement learned from Greer is that the paperwork is the lever.",
 "domains": [
@@ -129,7 +171,7 @@
 ],
 "sub": "Private witness-aggregation and congressional-hearing campaign, 1993-",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 913 of 1057, score 15). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 869 of 1066, score 17). 5 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.",
 "timeline": [
 {
 "date": "2001-05-09",

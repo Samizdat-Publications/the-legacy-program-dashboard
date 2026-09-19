@@ -83,6 +83,7 @@
    "classified-annex",
    "inscom",
    "nids",
+   "northrop-grumman",
    "stargate-program",
    "usc-10-119",
    "waived-usap",
@@ -205,6 +206,7 @@
    "manhattan-project-2"
   ],
   "reverse-engineering.1": [
+   "arv-fluxliner",
    "doe",
    "earthtech-international",
    "lockheed-martin"
@@ -2236,6 +2238,14 @@
   },
   {
    "a": "mitre-corporation",
+   "b": "northrop-grumman",
+   "tier": 1,
+   "types": [
+    "institutional"
+   ]
+  },
+  {
+   "a": "mitre-corporation",
    "b": "rand-corporation",
    "tier": 2,
    "types": [
@@ -2780,7 +2790,7 @@
    ],
    "label": "The custody chain",
    "onMap": 52,
-   "total": 186
+   "total": 191
   },
   {
    "blurb": "A denial is a dated, signed, attributable statement, which makes it evidence about the denier. These are the issuers.",
@@ -2831,7 +2841,7 @@
    ],
    "label": "Who denied what",
    "onMap": 42,
-   "total": 136
+   "total": 138
   },
   {
    "blurb": "States that funded a UAP office, published, and did not treat the subject as unmentionable. The contrast is the argument.",
@@ -2942,7 +2952,7 @@
    "sub": "no start date recorded"
   }
  ],
- "generated": "2026-09-18",
+ "generated": "2026-09-19",
  "nodes": [
   {
    "A": 3,
@@ -3123,6 +3133,21 @@
    "label": "Arquivo Nacional (Brazil) - UFO/UAP collection",
    "short": "Arquivo Nacional (Brazil)",
    "tier": "A"
+  },
+  {
+   "A": 0,
+   "C": 0,
+   "D": 3,
+   "band": "reverse-engineering",
+   "cls": "program",
+   "cluster": "witness",
+   "dateStart": "1988-11-12",
+   "era": "1",
+   "hl": null,
+   "id": "arv-fluxliner",
+   "label": "Alien Reproduction Vehicle (ARV) / Flux Liner",
+   "short": "ARV / Flux Liner",
+   "tier": "B"
   },
   {
    "A": 3,
@@ -4207,6 +4232,21 @@
   {
    "A": 3,
    "C": 2,
+   "D": 0,
+   "band": "funding",
+   "cls": "institution",
+   "cluster": "contractor",
+   "dateStart": "1994",
+   "era": "1",
+   "hl": null,
+   "id": "northrop-grumman",
+   "label": "Northrop Grumman Corporation",
+   "short": "Northrop Grumman Corporation",
+   "tier": "B"
+  },
+  {
+   "A": 3,
+   "C": 2,
    "D": 2,
    "band": "funding",
    "cls": "institution",
@@ -5000,7 +5040,7 @@
    "tier": "B"
   }
  ],
- "source": "2697314bdac1",
+ "source": "a82b898deeb7",
  "summarised": [
   {
    "a": "aaro",

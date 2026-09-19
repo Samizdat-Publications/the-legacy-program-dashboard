@@ -59,12 +59,33 @@
 ],
 "tier": "B",
 "type": "institutional"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2000-12",
+"dateStart": "2000-12",
+"direction": "in",
+"edgeLabel": "Relays an unnamed informant who places himself at the B-2 facility",
+"id": "mark-mccandlish",
+"l0": false,
+"label": "Mark McCandlish",
+"note": "His testimony relays a further unnamed informant who says 'I work at the B-2 bomber facility out at Plant 42 in Palmdale and Lancaster'. Relayed, unnamed and uncorroborated; no record was opened.",
+"sources": [
+{
+"date": "2001-04",
+"name": "Disclosure Project Briefing Document, section 3.8.5",
+"url": "https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt"
+}
+],
+"tier": "A",
+"type": "witness-chain"
 }
 ],
 "coords": null,
 "dateEnd": null,
 "dateStart": "1954",
-"deg": 2,
+"deg": 3,
 "denials": [],
 "desc": "Plant 42 is where the primes build the aircraft the government will not admit exist. Government-owned and contractor-operated, its sites host Lockheed Martin Skunk Works, Northrop Grumman's B-2 and B-21 work, and Boeing operations, under program-level compartmentation that partitions the workforce inside a single fence line. It is the physical answer to the question of where a prime contractor would keep something: a facility the government owns, a contractor runs, and the accreditation for which is held program by program rather than site-wide. George Knapp's sworn testimony places the material Bigelow allegedly negotiated for at 'a facility in California,' unnamed. Plant 42 has also been the subject of documented unexplained drone incursions reported by the Air Force, which is the modern form of the same problem: an installation whose airspace events are themselves classified.",
 "domains": [
@@ -98,6 +119,6 @@
 ],
 "sub": "Government-owned contractor-operated aerospace facility",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 605 of 1057, score 26). 2 connections, 1 of them custody/funding/programmatic. Axes C2/A3/D0.",
+"tierRationale": "Re-graded C on a global pass (rank 582 of 1066, score 27). 3 connections, 1 of them custody/funding/programmatic. Axes C2/A3/D0.",
 "timeline": []
 }

@@ -115,7 +115,7 @@
 "direction": "in",
 "edgeLabel": "A Northrop Grumman-led consortium took over Nevada Test Site management in 2006",
 "id": "northrop-grumman",
-"l0": false,
+"l0": true,
 "label": "Northrop Grumman Corporation",
 "note": "National Security Technologies LLC succeeded Bechtel Nevada, inheriting the Remote Sensing Laboratory, the Special Technologies Laboratory and the classified support infrastructure adjacent to Groom Lake.",
 "sources": [
@@ -176,6 +176,6 @@
 ],
 "sub": "DOE site complex; successive contractor management EG&G, Bechtel Nevada, NSTec",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 575 of 1057, score 27). 5 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D0.",
+"tierRationale": "Re-graded C on a global pass (rank 583 of 1066, score 27). 5 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D0.",
 "timeline": []
 }

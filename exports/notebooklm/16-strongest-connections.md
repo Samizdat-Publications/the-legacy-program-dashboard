@@ -1,6 +1,6 @@
 # The strongest connections on the board
 
-The board holds 2460 hand written links between its nodes. These are the hundred that combine the best evidenced link tier with the two best placed and most connected nodes at either end, each told as a short paragraph with the note somebody wrote when they made the link and the sources it rests on.
+The board holds 2491 hand written links between its nodes. These are the hundred that combine the best evidenced link tier with the two best placed and most connected nodes at either end, each told as a short paragraph with the note somebody wrote when they made the link and the sources it rests on.
 
 ## 1. All-domain Anomaly Resolution Office (AARO) and David Charles Grusch
 
@@ -418,7 +418,15 @@ A categorical negative issued by the office whose access to waived and unacknowl
 
 Sources: AARO FY2025 Consolidated Annual Report on UAP (PDF), https://www.aaro.mil/Portals/136/PDFs/FY25%20UAP%20Annual%20Report/AARO_FY2025_Consolidated_Annual_Report_on_UAP.pdf, dated 2026-07-20.
 
-## 53. United States Department of Defense (secondary designation: Department of War) and DoD Special Access Program Central Office (DoD SAPCO)
+## 53. The 38 Defense Intelligence Reference Documents (DIRDs) and Eric W. Davis
+
+The 38 Defense Intelligence Reference Documents (DIRDs) (document, board tier A, 41 connections) is joined to Eric W. Davis (person, board tier A, 22 connections) by a programmatic link recorded at Tier 1 documented. The link is labelled: authored five of the 38 DIRDs. It is dated 2008 to 2010.
+
+Items 8, 11, 14, 31 and 34, wormholes, antigravity, quantum vacuum energy, laser lightcraft and negative energy tomography.
+
+Sources: DIA letter to SASC, https://documents.theblackvault.com/documents/dia/dia-aatip-reports.pdf, dated 2018-01-09.
+
+## 54. United States Department of Defense (secondary designation: Department of War) and DoD Special Access Program Central Office (DoD SAPCO)
 
 United States Department of Defense (secondary designation: Department of War) (institution, board tier A, 45 connections) is joined to DoD Special Access Program Central Office (DoD SAPCO) (institution, board tier A, 18 connections) by a institutional link recorded at Tier 1 documented. The link is labelled: Central SAP management office under the Deputy Secretary of Defense. It is dated 1994.
 
@@ -426,7 +434,7 @@ DoDD 5205.07 (12 Sep 2024) places DoD SAPCO 'under the authority, direction, and
 
 Sources: DoD Directive 5205.07, Special Access Program (SAP) Policy, https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf, dated 2024-09-12.
 
-## 54. United States Department of Defense (secondary designation: Department of War) and Immaculate Constellation disclosure, October-November 2024
+## 55. United States Department of Defense (secondary designation: Department of War) and Immaculate Constellation disclosure, October-November 2024
 
 United States Department of Defense (secondary designation: Department of War) (institution, board tier A, 45 connections) is joined to Immaculate Constellation disclosure, October-November 2024 (event, board tier A, 18 connections) by a denial link recorded at Tier 1 documented. The link is labelled: DoD spokesperson Sue Gough: no record of any SAP by that name. It is dated 2024.
 
@@ -434,21 +442,13 @@ United States Department of Defense (secondary designation: Department of War) (
 
 Sources: House Oversight - Shellenberger written testimony (PDF), https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Shellenberger.pdf, dated 2024-11-13.
 
-## 55. AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I and Lockheed Martin Corporation
+## 56. AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I and Lockheed Martin Corporation
 
 AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I (document, board tier A, 31 connections) is joined to Lockheed Martin Corporation (institution, board tier A, 30 connections) by a denial link recorded at Tier 1 documented. The link is labelled: Executives and CTOs of the unnamed 'named companies' denied recovery or possession to AARO's Director on the record. It is dated 2024.
 
 AARO states it met high-ranking officials of the companies named by interviewees and that all denied the existence of the programs and attested to the truthfulness of their statements. AARO does not name a single company, and describes no inspection of any facility or holding.
 
 Sources: AARO, 'Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP), Volume I', https://documents2.theblackvault.com/documents/dod/AARO_Historical_Record_Report_Volume_1_2024.pdf, dated 2024-03-08.
-
-## 56. The 38 Defense Intelligence Reference Documents (DIRDs) and Eric W. Davis
-
-The 38 Defense Intelligence Reference Documents (DIRDs) (document, board tier A, 41 connections) is joined to Eric W. Davis (person, board tier A, 20 connections) by a programmatic link recorded at Tier 1 documented. The link is labelled: authored five of the 38 DIRDs. It is dated 2008 to 2010.
-
-Items 8, 11, 14, 31 and 34, wormholes, antigravity, quantum vacuum energy, laser lightcraft and negative energy tomography.
-
-Sources: DIA letter to SASC, https://documents.theblackvault.com/documents/dia/dia-aatip-reports.pdf, dated 2018-01-09.
 
 ## 57. United States Department of Defense (secondary designation: Department of War) and Timothy Floyd Burchett
 
@@ -658,7 +658,15 @@ The exchange converts the allegation from a claim about one company into a descr
 
 Sources: House Oversight hearing transcript, 'Unidentified Anomalous Phenomena: Exposing the Truth' (CHRG-118hhrg57440), https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm, dated 2024-11-13.
 
-## 83. AARO FY2025 Consolidated Annual Report on UAP and Lockheed Martin Corporation
+## 83. Project Blue Book and United States Air Force
+
+Project Blue Book (program, board tier A, 27 connections) is joined to United States Air Force (institution, board tier A, 22 connections) by a custody link recorded at Tier 1 documented. The link is labelled: BLUE BOOK records transferred to the National Archives as 94 rolls of microfilm. It is dated 1976.
+
+The records were permanently transferred to NARA and are held as 94 rolls of 35mm microfilm, T-1206.
+
+Sources: National Archives - Unidentified Flying Objects / Project BLUE BOOK, https://www.archives.gov/research/military/air-force/ufos, dated 2026-08-12.
+
+## 84. AARO FY2025 Consolidated Annual Report on UAP and Lockheed Martin Corporation
 
 AARO FY2025 Consolidated Annual Report on UAP (document, board tier A, 18 connections) is joined to Lockheed Martin Corporation (institution, board tier A, 30 connections) by a denial link recorded at Tier 1 documented. The link is labelled: The 2026 official denial is maintained without any inspection of contractor holdings. It is dated 2026.
 
@@ -666,7 +674,7 @@ No AARO report describes an inspection, audit or subpoena of any contractor faci
 
 Sources: The Black Vault, 'AARO Releases FY2025 UAP Report Months After Statutory Deadline, Citing 319 New Cases and Expanded Satellite Analysis', https://www.theblackvault.com/documentarchive/aaro-releases-fy2025-uap-report-months-after-statutory-deadline-citing-319-new-cases-and-expanded-satellite-analysis/, dated 2026-07-21; AARO, 'Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP), Volume I', https://documents2.theblackvault.com/documents/dod/AARO_Historical_Record_Report_Volume_1_2024.pdf, dated 2024-03-08.
 
-## 84. AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I and Sean M. Kirkpatrick
+## 85. AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I and Sean M. Kirkpatrick
 
 AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I (document, board tier A, 31 connections) is joined to Sean M. Kirkpatrick (person, board tier A, 17 connections) by a institutional link recorded at Tier 1 documented. The link is labelled: directed the production of the official history. It is dated 2023 to 2024.
 
@@ -674,7 +682,7 @@ The Volume I historical review was drafted under Kirkpatrick's directorship of A
 
 Sources: AARO Historical Record Report Volume 1, https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF, dated 2024-03-08; AARO Historical Record Report, Volume I, https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf, dated 2024-02-01; All-domain Anomaly Resolution Office, https://www.aaro.mil/, dated 2026-08-12; AARO, 'Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP), Volume I', https://documents2.theblackvault.com/documents/dod/AARO_Historical_Record_Report_Volume_1_2024.pdf, dated 2024-03-08; The Debrief, 'Pentagon UAP Report Says No Evidence U.S. Has Collected Exotic Technology, Kept Programs Hidden from Congress', https://thedebrief.org/pentagon-uap-report-says-no-evidence-u-s-has-collected-exotic-technology-kept-programs-hidden-from-congress/, dated 2024-03-08.
 
-## 85. Anna Paulina Luna and House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'
+## 86. Anna Paulina Luna and House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'
 
 Anna Paulina Luna (person, board tier A, 26 connections) is joined to House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection' (event, board tier A, 22 connections) by a institutional link recorded at Tier 1 documented. The link is labelled: Luna chaired the hearing at which the contractor allegation acquired names. It is dated 2025.
 
@@ -682,7 +690,7 @@ Luna chaired the Task Force on the Declassification of Federal Secrets hearing a
 
 Sources: House Oversight Task Force on the Declassification of Federal Secrets hearing transcript, 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection' (CHRG-119hhrg61718, Serial No. 119-44), https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm, dated 2025-09-09; House Oversight - Restoring Public Trust Through UAP Transparency and Whistleblower Protection, https://oversight.house.gov/hearing/restoring-public-trust-through-uap-transparency-and-whistleblower-protection/, dated 2025-09-09; House Oversight - Hearing Wrap Up: Government Must Be More Transparent About UAPs, https://oversight.house.gov/release/hearing-wrap-up-government-must-be-more-transparent-about-uaps/, dated 2025-09-09.
 
-## 86. Defense Intelligence Agency and National Archives Unidentified Anomalous Phenomena Records Collection
+## 87. Defense Intelligence Agency and National Archives Unidentified Anomalous Phenomena Records Collection
 
 Defense Intelligence Agency (institution, board tier A, 35 connections) is joined to National Archives Unidentified Anomalous Phenomena Records Collection (institution, board tier A, 13 connections) by a denial link recorded at Tier 1 documented. The link is labelled: Produced no records for the first statutory UAP transfer. It is dated 2025-04-24.
 
@@ -690,7 +698,7 @@ NARA's 24 April 2025 release named only ODNI, OSD, the FAA and the Nuclear Regul
 
 Sources: National Archives press release nr25-07, https://www.archives.gov/press/press-releases/2025/nr25-07, dated 2025-04-24.
 
-## 87. Harry M. Reid and Waived SAP Notification Group
+## 88. Harry M. Reid and Waived SAP Notification Group
 
 Harry M. Reid (person, board tier A, 17 connections) is joined to Waived SAP Notification Group (institution, board tier A, 31 connections) by a institutional link recorded at Tier 1 documented. The link is labelled: Senate Majority Leader in 2009 - in the Gang of Eight, not in the 119(e)(2) group.
 
@@ -698,21 +706,13 @@ This is the cleanest demonstration that the two small groups are different sets.
 
 Sources: 10 U.S.C. 119, Special Access Programs: congressional oversight, subsections (e)(2) and (g) (OLRC prelim text, read 22 August 2026), https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim, dated 2026-08-22; 50 U.S.C. 3093(c)(2), the Gang of Eight construct, for contrast with the section 119 group, https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3093&num=0&edition=prelim, dated 2026-08-22; U.S. Senate, Dates of Sessions of the Congress (convening dates used to date each seat), https://www.senate.gov/legislative/DatesofSessionsofCongress.htm, dated 2026-08-22; Letter, Sen. Harry Reid to Deputy Secretary of Defense William J. Lynn III, 24 June 2009 (DIA FOIA release), https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237659/, dated 2009-06-24; https://www.govinfo.gov/content/pkg/GPO-CPUB-111spub13/html/GPO-CPUB-111spub13.htm, https://www.govinfo.gov/content/pkg/GPO-CPUB-111spub13/html/GPO-CPUB-111spub13.htm
 
-## 88. Luis D. Elizondo and CRADA between U.S. Army Ground Vehicle Systems Center and To The Stars Academy
+## 89. Luis D. Elizondo and CRADA between U.S. Army Ground Vehicle Systems Center and To The Stars Academy
 
 Luis D. Elizondo (person, board tier A, 38 connections) is joined to CRADA between U.S. Army Ground Vehicle Systems Center and To The Stars Academy (document, board tier A, 10 connections) by a custody link recorded at Tier 1 documented. The link is labelled: Named as TTSA's principal investigator on the Army agreement. It is dated 2019 to 2020.
 
 Two years after resigning from OUSD(I), Elizondo is the named private-sector counterpart to an Army laboratory on an exotic-materials instrument.
 
 Sources: The War Zone, https://www.twz.com/30498/the-army-wants-to-verify-to-the-stars-academys-fantastic-ufo-mystery-material-claims, dated 2019-10-18.
-
-## 89. Project Blue Book and United States Air Force
-
-Project Blue Book (program, board tier A, 27 connections) is joined to United States Air Force (institution, board tier A, 21 connections) by a custody link recorded at Tier 1 documented. The link is labelled: BLUE BOOK records transferred to the National Archives as 94 rolls of microfilm. It is dated 1976.
-
-The records were permanently transferred to NARA and are held as 94 rolls of 35mm microfilm, T-1206.
-
-Sources: National Archives - Unidentified Flying Objects / Project BLUE BOOK, https://www.archives.gov/research/military/air-force/ufos, dated 2026-08-12.
 
 ## 90. Rep. Burlison records demand to MITRE, 22 May 2026 and PURSUE - Presidential Unsealing and Reporting System for UAP Encounters
 

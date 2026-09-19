@@ -1752,6 +1752,22 @@
 "tier": 1
 },
 {
+"a": "arvp-fluxliner-project",
+"b": "arv-fluxliner",
+"dateStart": "2024",
+"label": "Publishes a 3D reconstruction of the claimed craft and sells prints of it",
+"t": "research",
+"tier": 1
+},
+{
+"a": "arvp-fluxliner-project",
+"b": "mark-mccandlish",
+"dateStart": "2024",
+"label": "Hosts his coroner's file and publishes a reconstruction built from his talks",
+"t": "custody",
+"tier": 1
+},
+{
 "a": "atic",
 "b": "foreign-technology-division",
 "dateStart": null,
@@ -2382,6 +2398,30 @@
 "label": "Security-support primes administer the compartmentation the statute is supposed to make visible",
 "t": "institutional",
 "tier": 3
+},
+{
+"a": "brad-sorensen",
+"b": "arv-fluxliner",
+"dateStart": "1988-11-12",
+"label": "Sole claimed eyewitness to the three craft",
+"t": "witness-chain",
+"tier": 2
+},
+{
+"a": "brad-sorensen",
+"b": "norton-afb-airshow-1988",
+"dateStart": "1988-11-12",
+"label": "Sole claimed eyewitness to the alleged hangar exhibit",
+"t": "witness-chain",
+"tier": 2
+},
+{
+"a": "brad-sorensen",
+"b": "scott-sorensen-notes-1990",
+"dateStart": "1990-12-03",
+"label": "Interviewee; the notes are his account in his own words",
+"t": "witness-chain",
+"tier": 1
 },
 {
 "a": "brett-mansfield",
@@ -5584,6 +5624,22 @@
 "tier": 3
 },
 {
+"a": "disclosure-project-briefing-2001",
+"b": "disclosure-project",
+"dateStart": "2001-04",
+"label": "The project's own publication",
+"t": "institutional",
+"tier": 1
+},
+{
+"a": "disclosure-project-briefing-2001",
+"b": "steven-greer",
+"dateStart": "2001-04",
+"label": "Named as its director and compiler",
+"t": "custody",
+"tier": 1
+},
+{
 "a": "disclosure-symposium-2026",
 "b": "ndaa-fy2027-s4784",
 "dateStart": "2026",
@@ -6853,6 +6909,14 @@
 "dateStart": "2019",
 "label": "Employed by the FFRDC operator at the time of the 2019-2020 briefings",
 "t": "institutional",
+"tier": 2
+},
+{
+"a": "eric-davis",
+"b": "arv-fluxliner",
+"dateStart": "2024-12-12",
+"label": "Says no such craft exists and none has ever been built",
+"t": "denial",
 "tier": 2
 },
 {
@@ -11256,6 +11320,14 @@
 "tier": 2
 },
 {
+"a": "l-norton-afb",
+"b": "disclosure-project-briefing-2001",
+"dateStart": "2000-09",
+"label": "Two of the document's witnesses name the base",
+"t": "investigative",
+"tier": 1
+},
+{
 "a": "l-ottawa",
 "b": "sky-canada-project",
 "dateStart": null,
@@ -12094,6 +12166,118 @@
 "label": "delivers the monthly Sol Briefing; authors Sol policy briefings",
 "t": "institutional",
 "tier": 1
+},
+{
+"a": "mark-mccandlish",
+"b": "arv-fluxliner",
+"dateStart": "1988-11",
+"label": "The illustrator and relayer who drew the claimed craft and named it in print",
+"t": "witness-chain",
+"tier": 2
+},
+{
+"a": "mark-mccandlish",
+"b": "boeing",
+"dateStart": "2000-12",
+"label": "Named in his own self-stated client list, 2000",
+"t": "institutional",
+"tier": 2
+},
+{
+"a": "mark-mccandlish",
+"b": "brad-sorensen",
+"dateStart": "1988-11",
+"label": "Painted the craft from Sorensen's verbal description; he was not at the air show",
+"t": "witness-chain",
+"tier": 1
+},
+{
+"a": "mark-mccandlish",
+"b": "disclosure-project",
+"dateStart": "2000-12",
+"label": "Disclosure Project witness, testimony taken December 2000",
+"t": "witness-chain",
+"tier": 1
+},
+{
+"a": "mark-mccandlish",
+"b": "eric-davis",
+"dateStart": "2024-12-12",
+"label": "Davis says the ARV claims are myth",
+"t": "denial",
+"tier": 2
+},
+{
+"a": "mark-mccandlish",
+"b": "general-dynamics",
+"dateStart": "2000-12",
+"label": "Named in his own self-stated client list, 2000",
+"t": "institutional",
+"tier": 2
+},
+{
+"a": "mark-mccandlish",
+"b": "l-edwards-afb",
+"dateStart": "1973",
+"label": "Relays a second-hand 1973 Edwards North Base allegation",
+"t": "witness-chain",
+"tier": 2
+},
+{
+"a": "mark-mccandlish",
+"b": "l-plant-42",
+"dateStart": "2000-12",
+"label": "Relays an unnamed informant who places himself at the B-2 facility",
+"t": "witness-chain",
+"tier": 2
+},
+{
+"a": "mark-mccandlish",
+"b": "lockheed-skunk-works",
+"dateStart": "2000-12",
+"label": "Same relayed unnamed informant locates the Skunk Works catty-corner from Plant 42",
+"t": "witness-chain",
+"tier": 2
+},
+{
+"a": "mark-mccandlish",
+"b": "mcdonnell-douglas",
+"dateStart": "2000-12",
+"label": "Named in his own self-stated client list, 2000",
+"t": "institutional",
+"tier": 2
+},
+{
+"a": "mark-mccandlish",
+"b": "northrop-grumman",
+"dateStart": "2000-12",
+"label": "Named in his own self-stated client list, 2000",
+"t": "institutional",
+"tier": 2
+},
+{
+"a": "mark-mccandlish",
+"b": "steven-greer",
+"dateStart": "2000-12",
+"label": "Witness to Greer's compilation; Greer writes the editorial notes around his testimony",
+"t": "witness-chain",
+"tier": 1
+},
+{
+"a": "mark-mccandlish",
+"b": "thomas-townsend-brown",
+"dateStart": "2000-12",
+"label": "Attributes the claimed lift effect to a Brown patent of the late 1950s or early 1960s",
+"t": "research",
+"tier": 2
+},
+{
+"a": "mark-mccandlish",
+"b": "uap-gerb",
+"dateStart": "2024-10-21",
+"label": "Subject of a 1:09:12 UAP Gerb episode published 21 October 2024",
+"t": "investigative",
+"tier": 2
 },
 {
 "a": "mark-mcinerney",
@@ -13774,6 +13958,22 @@
 "label": "A Northrop Grumman-led consortium took over Nevada Test Site management in 2006",
 "t": "institutional",
 "tier": 1
+},
+{
+"a": "norton-afb-airshow-1988",
+"b": "l-norton-afb",
+"dateStart": "1988-11-12",
+"label": "The event is at the base",
+"t": "geographic",
+"tier": 1
+},
+{
+"a": "norton-afb-airshow-1988",
+"b": "usaf",
+"dateStart": "1988-11-12",
+"label": "Air Force open house; the 1990 notes describe Air Force briefers",
+"t": "institutional",
+"tier": 2
 },
 {
 "a": "nro",
@@ -16328,6 +16528,30 @@
 "tier": 2
 },
 {
+"a": "scott-sorensen-notes-1990",
+"b": "arv-fluxliner",
+"dateStart": "1990-12-03",
+"label": "Earliest opened record of the claimed craft",
+"t": "investigative",
+"tier": 1
+},
+{
+"a": "scott-sorensen-notes-1990",
+"b": "arvp-fluxliner-project",
+"dateStart": "2024-10-17",
+"label": "The only opened copy of the notes is the scan that site hosts",
+"t": "custody",
+"tier": 1
+},
+{
+"a": "scott-sorensen-notes-1990",
+"b": "norton-afb-airshow-1988",
+"dateStart": "1990-12-03",
+"label": "Earliest opened record of the claim, taken about two years after the alleged event",
+"t": "investigative",
+"tier": 1
+},
+{
 "a": "scu-uap-studies",
 "b": "d-materials",
 "dateStart": "2010",
@@ -17549,6 +17773,14 @@
 "dateStart": "2024",
 "label": "Briefed House Oversight members for about ninety minutes",
 "t": "institutional",
+"tier": 2
+},
+{
+"a": "thomas-townsend-brown",
+"b": "arv-fluxliner",
+"dateStart": "1957-07-03",
+"label": "The account's claimed lift lineage, which the patents themselves do not support",
+"t": "research",
 "tier": 2
 },
 {
@@ -19678,5 +19910,21 @@
 "label": "chief executive for SETKA-AN at IZMIRAN",
 "t": "institutional",
 "tier": 2
+},
+{
+"a": "zero-point-documentary",
+"b": "arv-fluxliner",
+"dateStart": "2013-06-02",
+"label": "A feature documentary carrying the claim to a later audience",
+"t": "investigative",
+"tier": 2
+},
+{
+"a": "zero-point-documentary",
+"b": "mark-mccandlish",
+"dateStart": "2013-06-02",
+"label": "The film is about him and names him in its title",
+"t": "investigative",
+"tier": 1
 }
 ]

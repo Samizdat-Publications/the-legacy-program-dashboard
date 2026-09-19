@@ -572,7 +572,7 @@
 "direction": "out",
 "edgeLabel": "Named among the primes whose MITRE-related work Congress demanded an accounting of",
 "id": "northrop-grumman",
-"l0": false,
+"l0": true,
 "label": "Northrop Grumman Corporation",
 "note": "Burlison's production requests cover MITRE work involving Lockheed Martin, Northrop Grumman, Raytheon, Boeing, General Dynamics, SAIC and Leidos.",
 "sources": [
@@ -1012,12 +1012,6 @@
 "tier": "B"
 },
 {
-"cls": "institution",
-"id": "northrop-grumman",
-"label": "Northrop Grumman Corporation",
-"tier": "B"
-},
-{
 "cls": "person",
 "id": "robert-everett",
 "label": "Robert R. Everett",
@@ -1082,7 +1076,7 @@
 ],
 "sub": "Not-for-profit operator of six FFRDCs; dual headquarters McLean, VA and Bedford, MA; founded 21 July 1958",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 34 of 1057, score 91). 28 connections, 0 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C3/A3/D2.",
+"tierRationale": "Re-graded A on a global pass (rank 34 of 1066, score 91). 28 connections, 0 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C3/A3/D2.",
 "timeline": [
 {
 "date": "1958-07-21",

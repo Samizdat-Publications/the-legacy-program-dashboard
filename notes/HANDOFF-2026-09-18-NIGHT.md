@@ -113,10 +113,14 @@ The same applies to any other unmerged branch carrying board data. As of tonight
 in flight.
 
 **Evening handoff section 3d asked whether the fix resolves the red check by itself. It
-does not.** `arv-fluxliner` was already Tier B at #216 and moves to #299; L0 membership
-held at 137 through the rebuild, so it stays on the map and the `witness x program` cell
-it occupies alone is still occupied alone. Stewart's option 1, building TR-3B into that
-cell, remains the fix.
+does not**, and this was confirmed by actually re-grading the ARV branch rather than by
+inference. On the re-graded board L0 is **139**, `arv-fluxliner` is **in it** at Tier B in
+cluster `witness` class `program`, and that cell **still holds exactly one node**.
+Stewart's option 1, building TR-3B into that cell, remains the fix.
+
+An earlier draft of this paragraph and of `notes/CENTRALITY-2026-09-18.md` section 6 cited
+"L0 held at 137" as the evidence. That number was L0 on MASTER, which carries no ARV nodes
+at all, so it was no evidence either way. Both are corrected.
 
 ## 4a. The witness coverage pass, new and from Stewart directly
 

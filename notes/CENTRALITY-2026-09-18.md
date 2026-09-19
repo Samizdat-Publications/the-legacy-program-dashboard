@@ -205,11 +205,25 @@ pushing him out would have required lever 1, which costs eight documented nodes.
 Brad Sorensen, the second-hand relay the whole account runs through, falls 246 ranks. That
 is the fix working on the right node.
 
-**On the red check: `arv-fluxliner` does NOT fall out of L0 under this change.** It was
-already Tier B at #216 and moves to #299, and L0 membership held at 137 through the
-rebuild. So the check does not resolve itself, and Stewart's option 1, building TR-3B to
-populate the `witness x program` cell, remains the fix. That is job 2 in his order and it
-is untouched by this session.
+**On the red check: `arv-fluxliner` does NOT fall out of L0 under this change.**
+
+**CORRECTION, added when the ARV branch was actually re-graded.** The first version of
+this paragraph said "L0 membership held at 137 through the rebuild" and offered that as
+the evidence. That was not evidence of anything. 137 was L0 on MASTER, which carries no
+ARV nodes at all, so it could not have told us what happens to `arv-fluxliner`. The
+conclusion was right and the reason given for it was worthless.
+
+Measured properly on the re-graded ARV board (branch `arv-regrade-2026-09-18`):
+
+| | |
+|---|---|
+| L0 size | **139**, the same as the ARV branch carried under the old rule |
+| `arv-fluxliner` | **in L0**, Tier B, cluster `witness`, class `program` |
+| `northrop-grumman` | in L0, Tier B, cluster `contractor`, class `institution` |
+| The `witness x program` cell | **still holds exactly one node** |
+
+So the check does not resolve itself, and Stewart's option 1, building TR-3B to populate
+the `witness x program` cell, remains the fix.
 
 ## 7. Two findings recorded in passing
 

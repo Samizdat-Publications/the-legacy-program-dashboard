@@ -1,6 +1,6 @@
 # The denials
 
-This board records official denials in full and sourced, treated as artefacts of the concealment effort rather than as counterweights to it, because a denial is a dated, signed, attributable statement and that makes it evidence about the denier. There are 192 distinct denials here, from 115 deniers, grouped by who did the denying.
+This board records official denials in full and sourced, treated as artefacts of the concealment effort rather than as counterweights to it, because a denial is a dated, signed, attributable statement and that makes it evidence about the denier. There are 194 distinct denials here, from 117 deniers, grouped by who did the denying.
 
 ## 'Manhattan Project 2.0' (alleged secrecy architecture)
 
@@ -279,6 +279,12 @@ Donald H. Menzel is recorded as the denying party in 1 denial on this board.
 
 - **Denies: Three books and a journal paper arguing against the extraterrestrial hypothesis, 1953 to 1977** This is directed at Official Denial, recorded as a denial denial at Tier 1 documented. The Condon Report records the 1953 Harvard University Press book and the 1964 Flying Saucer Review paper; the Internet Archive catalogue record carries the 1977 Doubleday book, published a year after his death. Sources: Condon Report, Section V chapter 2; Internet Archive catalogue record for The UFO Enigma, https://files.ncas.org/condon/text/s5chap02.htm, dated 1969.
 
+## Eric W. Davis
+
+Eric W. Davis is recorded as the denying party in 1 denial on this board.
+
+- **Denies: Says no such craft exists and none has ever been built** This is directed at Alien Reproduction Vehicle (ARV) / Flux Liner, recorded as a denial denial at Tier 2 named person on the record. research/leads/michels-corpus-03.md file 04 at 0:36:24 to 0:38:00 records Davis saying the ARV rumours are 'all myth', that they originate with Bob Lazar-type storytellers who 'believe their own bullshit' rather than with deliberate disinformation, and that the CIA 'shut it all down' in 1989. The corpus recorded the episode as 'CIA Scientist: George Bush Was Briefed on UFOs (ft. Eric Davis)' on 'American Alchemy'; as opened 18 September 2026 the same video id carries a different title on the channel 'Jesse Michels'. The corpus timestamp falls inside the 52:45 runtime. Sources: Jesse Michels, video id LnAiNChnuEQ, https://www.youtube.com/watch?v=LnAiNChnuEQ, dated 2024-12-12.
+
 ## FY2026 NDAA, Public Law 119-60 - secs. 1671-1673, NORAD/NORTHCOM intercept briefings and UAP classification-guide accounting
 
 FY2026 NDAA, Public Law 119-60 - secs. 1671-1673, NORAD/NORTHCOM intercept briefings and UAP classification-guide accounting is recorded as the denying party in 1 denial on this board.
@@ -416,6 +422,12 @@ Maj. Donald E. Keyhoe, USMC (Ret.) is recorded as the denying party in 2 denials
 Mark A. Milley is recorded as the denying party in 1 denial on this board.
 
 - **Denies: Chairman of the Joint Chiefs: no evidence of alien craft or coverup** This is directed at David Charles Grusch, recorded as a directed denial at Tier 2 named person on the record. Stated 6 August 2023. Recorded as an artifact: under 10 U.S.C. 119 the Deputy Secretary may waive congressional reporting for a SAP with only Gang of Eight notification, so a Chairman's non-knowledge is consistent with the program existing and is data about compartmentation. Sources: Wikipedia - David Grusch UFO whistleblower claims (denials, with contemporaneous citations), https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims, dated 2026-08-12.
+
+## Mark McCandlish
+
+Mark McCandlish is recorded as the denying party in 1 denial on this board.
+
+- **Denies: Davis says the ARV claims are myth** This is directed at Eric W. Davis, recorded as a denial denial at Tier 2 named person on the record. On the Jesse Michels episode published 12 December 2024, video id LnAiNChnuEQ, Eric Davis said no ARV exists and none has ever been built, and that the Northrop Grumman and Area 51 ARV rumours are 'all myth'. A claimant node carries the case against. The episode is identified by video id: the corpus recorded it under a different title on a differently named channel. Sources: Jesse Michels, video id LnAiNChnuEQ, https://www.youtube.com/watch?v=LnAiNChnuEQ, dated 2024-12-12.
 
 ## Maryland Air National Guard flare statement, 26 July 1997
 

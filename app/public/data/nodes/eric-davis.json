@@ -296,6 +296,27 @@
 },
 {
 "claimTier": 2,
+"cls": "program",
+"dateEnd": "2024-12-12",
+"dateStart": "2024-12-12",
+"direction": "out",
+"edgeLabel": "Says no such craft exists and none has ever been built",
+"id": "arv-fluxliner",
+"l0": true,
+"label": "Alien Reproduction Vehicle (ARV) / Flux Liner",
+"note": "research/leads/michels-corpus-03.md file 04 at 0:36:24 to 0:38:00 records Davis saying the ARV rumours are 'all myth', that they originate with Bob Lazar-type storytellers who 'believe their own bullshit' rather than with deliberate disinformation, and that the CIA 'shut it all down' in 1989. The corpus recorded the episode as 'CIA Scientist: George Bush Was Briefed on UFOs (ft. Eric Davis)' on 'American Alchemy'; as opened 18 September 2026 the same video id carries a different title on the channel 'Jesse Michels'. The corpus timestamp falls inside the 52:45 runtime.",
+"sources": [
+{
+"date": "2024-12-12",
+"name": "Jesse Michels, video id LnAiNChnuEQ",
+"url": "https://www.youtube.com/watch?v=LnAiNChnuEQ"
+}
+],
+"tier": "B",
+"type": "denial"
+},
+{
+"claimTier": 2,
 "cls": "domain",
 "dateEnd": null,
 "dateStart": "2020",
@@ -715,6 +736,27 @@
 },
 {
 "claimTier": 2,
+"cls": "person",
+"dateEnd": "2024-12-12",
+"dateStart": "2024-12-12",
+"direction": "in",
+"edgeLabel": "Davis says the ARV claims are myth",
+"id": "mark-mccandlish",
+"l0": false,
+"label": "Mark McCandlish",
+"note": "On the Jesse Michels episode published 12 December 2024, video id LnAiNChnuEQ, Eric Davis said no ARV exists and none has ever been built, and that the Northrop Grumman and Area 51 ARV rumours are 'all myth'. A claimant node carries the case against. The episode is identified by video id: the corpus recorded it under a different title on a differently named channel.",
+"sources": [
+{
+"date": "2024-12-12",
+"name": "Jesse Michels, video id LnAiNChnuEQ",
+"url": "https://www.youtube.com/watch?v=LnAiNChnuEQ"
+}
+],
+"tier": "A",
+"type": "denial"
+},
+{
+"claimTier": 2,
 "cls": "program",
 "dateEnd": "2004",
 "dateStart": "1996",
@@ -847,8 +889,51 @@
 "date": "2010-01-01",
 "dateEnd": null,
 "dateStart": "2010-01-01",
-"deg": 20,
-"denials": [],
+"deg": 22,
+"denials": [
+{
+"by": {
+"id": "eric-davis",
+"label": "Eric W. Davis"
+},
+"claimTier": 2,
+"denialKind": null,
+"label": "Says no such craft exists and none has ever been built",
+"note": "research/leads/michels-corpus-03.md file 04 at 0:36:24 to 0:38:00 records Davis saying the ARV rumours are 'all myth', that they originate with Bob Lazar-type storytellers who 'believe their own bullshit' rather than with deliberate disinformation, and that the CIA 'shut it all down' in 1989. The corpus recorded the episode as 'CIA Scientist: George Bush Was Briefed on UFOs (ft. Eric Davis)' on 'American Alchemy'; as opened 18 September 2026 the same video id carries a different title on the channel 'Jesse Michels'. The corpus timestamp falls inside the 52:45 runtime.",
+"of": {
+"id": "arv-fluxliner",
+"label": "Alien Reproduction Vehicle (ARV) / Flux Liner"
+},
+"sources": [
+{
+"date": "2024-12-12",
+"name": "Jesse Michels, video id LnAiNChnuEQ",
+"url": "https://www.youtube.com/watch?v=LnAiNChnuEQ"
+}
+]
+},
+{
+"by": {
+"id": "mark-mccandlish",
+"label": "Mark McCandlish"
+},
+"claimTier": 2,
+"denialKind": null,
+"label": "Davis says the ARV claims are myth",
+"note": "On the Jesse Michels episode published 12 December 2024, video id LnAiNChnuEQ, Eric Davis said no ARV exists and none has ever been built, and that the Northrop Grumman and Area 51 ARV rumours are 'all myth'. A claimant node carries the case against. The episode is identified by video id: the corpus recorded it under a different title on a differently named channel.",
+"of": {
+"id": "eric-davis",
+"label": "Eric W. Davis"
+},
+"sources": [
+{
+"date": "2024-12-12",
+"name": "Jesse Michels, video id LnAiNChnuEQ",
+"url": "https://www.youtube.com/watch?v=LnAiNChnuEQ"
+}
+]
+}
+],
 "domains": [
 "_rs-aawsap-dirds",
 "_rs-archive-mirror",
@@ -1011,7 +1096,7 @@
 "status": "active",
 "sub": "Astrophysicist, EarthTech International; five-time AAWSAP DIRD author",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 28 of 1057, score 98). 21 connections, 4 of them custody/funding/programmatic. Axes C2/A3/D3.",
+"tierRationale": "Re-graded A on a global pass (rank 19 of 1066, score 108). 23 connections, 4 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C2/A3/D3.",
 "timeline": [
 {
 "date": "2002-10-16",

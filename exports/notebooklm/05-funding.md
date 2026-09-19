@@ -1,6 +1,6 @@
 # The funding band
 
-The programme map splits the 137 nodes closest to the alleged programme into seven bands, and this file is the funding band: 25 nodes, taken era by era from the earliest to the most recent. Each entry gives what the node is, why the board places it here, why it holds the tier it holds, what it has denied, its documented and testimonial claims with their sources, and the links that tie it to the rest of the board.
+The programme map splits the 139 nodes closest to the alleged programme into seven bands, and this file is the funding band: 26 nodes, taken era by era from the earliest to the most recent. Each entry gives what the node is, why the board places it here, why it holds the tier it holds, what it has denied, its documented and testimonial claims with their sources, and the links that tie it to the rest of the board.
 
 Names in full, for this file:
 
@@ -56,7 +56,7 @@ Roles the board assigns it: concealment, funding, oversight, research.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 105 of 1057, score 59). 12 connections, 2 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C2/A3/D2.
+Re-graded A on a global pass (rank 105 of 1066, score 59). 12 connections, 2 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C2/A3/D2.
 
 ### The claims on the record
 
@@ -139,7 +139,7 @@ Roles the board assigns it: oversight, disclosure, funding, concealment.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 252 of 1057, score 40). 12 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D3.
+Re-graded B on a global pass (rank 253 of 1066, score 40). 12 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D3.
 
 ### The claims on the record
 
@@ -227,7 +227,7 @@ Roles the board assigns it: oversight, funding, concealment, disclosure.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 389 of 1057, score 33). 9 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D1.
+Re-graded B on a global pass (rank 392 of 1066, score 33). 9 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D1.
 
 ### The claims on the record
 
@@ -311,7 +311,7 @@ Roles the board assigns it: research, concealment, funding.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 132 of 1057, score 53). 8 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D2.
+Re-graded A on a global pass (rank 132 of 1066, score 53). 8 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D2.
 
 ### The claims on the record
 
@@ -379,7 +379,7 @@ Roles the board assigns it: research, funding.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 316 of 1057, score 36). 7 connections, 2 of them custody/funding/programmatic. Axes C0/A2/D1.
+Re-graded B on a global pass (rank 319 of 1066, score 36). 7 connections, 2 of them custody/funding/programmatic. Axes C0/A2/D1.
 
 ### The claims on the record
 
@@ -426,7 +426,7 @@ Roles the board assigns it: research, funding, concealment.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 141 of 1057, score 52). 7 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A1/D1.
+Re-graded A on a global pass (rank 141 of 1066, score 52). 7 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A1/D1.
 
 ### The claims on the record
 
@@ -485,7 +485,7 @@ Roles the board assigns it: research, funding, concealment.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 349 of 1057, score 35). 6 connections, 2 of them custody/funding/programmatic. Axes C1/A3/D2.
+Re-graded B on a global pass (rank 352 of 1066, score 35). 6 connections, 2 of them custody/funding/programmatic. Axes C1/A3/D2.
 
 ### The claims on the record
 
@@ -553,7 +553,7 @@ Roles the board assigns it: oversight, concealment, funding.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 32 of 1057, score 92). 19 connections, 3 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A3/D3.
+Re-graded A on a global pass (rank 32 of 1066, score 92). 19 connections, 3 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A3/D3.
 
 ### The claims on the record
 
@@ -652,7 +652,7 @@ Roles the board assigns it: research, custody, concealment, funding.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 122 of 1057, score 55). 14 connections, 4 of them custody/funding/programmatic. Axes C2/A2/D2.
+Re-graded A on a global pass (rank 122 of 1066, score 55). 14 connections, 4 of them custody/funding/programmatic. Axes C2/A2/D2.
 
 ### The claims on the record
 
@@ -741,7 +741,7 @@ Roles the board assigns it: concealment, funding, oversight.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 89 of 1057, score 65). 12 connections, 5 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A3/D3.
+Re-graded A on a global pass (rank 89 of 1066, score 65). 12 connections, 5 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A3/D3.
 
 ### The claims on the record
 
@@ -827,7 +827,7 @@ Roles the board assigns it: concealment, funding, oversight.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 21 of 1057, score 104). 13 connections, 5 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A3/D3.
+Re-graded A on a global pass (rank 22 of 1066, score 104). 13 connections, 5 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A3/D3.
 
 ### The claims on the record
 
@@ -924,7 +924,7 @@ Roles the board assigns it: concealment, oversight, funding, custody.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 38 of 1057, score 88). 12 connections, 5 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A3/D3.
+Re-graded A on a global pass (rank 38 of 1066, score 88). 12 connections, 5 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A3/D3.
 
 ### The claims on the record
 
@@ -1013,7 +1013,7 @@ Roles the board assigns it: research, concealment, funding, oversight, disclosur
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 71 of 1057, score 70). 11 connections, 2 of them custody/funding/programmatic. Axes C0/A3/D2.
+Re-graded A on a global pass (rank 71 of 1066, score 70). 11 connections, 2 of them custody/funding/programmatic. Axes C0/A3/D2.
 
 ### The claims on the record
 
@@ -1109,7 +1109,7 @@ Roles the board assigns it: funding, concealment, oversight.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 107 of 1057, score 59). 9 connections, 6 of them custody/funding/programmatic. Axes C1/A3/D3.
+Re-graded A on a global pass (rank 107 of 1066, score 59). 9 connections, 6 of them custody/funding/programmatic. Axes C1/A3/D3.
 
 ### The claims on the record
 
@@ -1179,7 +1179,7 @@ Roles the board assigns it: research, concealment, custody, funding.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 114 of 1057, score 57). 6 connections, 5 of them custody/funding/programmatic. Axes C2/A3/D2.
+Re-graded A on a global pass (rank 114 of 1066, score 57). 6 connections, 5 of them custody/funding/programmatic. Axes C2/A3/D2.
 
 ### The claims on the record
 
@@ -1200,6 +1200,49 @@ Re-graded A on a global pass (rank 114 of 1057, score 57). 6 connections, 5 of t
 - US Army Intelligence and Security Command (INSCOM) runs out to **GRILL FLAME** (program, board tier B), a programmatic link at Tier 1 documented. The link reads: GRILL FLAME was INSCOM's entry into the field in 1977. The 4 April 1984 GDIP memorandum dates USAINSCOM's exploitation of psychoenergetics to Project GRILL FLAME in 1977, and a 1978 talking paper is titled INSCOM Involvement in Remote Viewing (DoD Project GRILL FLAME). Sources: CENTER LANE FY 86 - 90 GDIP Submission (U), 4 April 1984, https://archive.org/download/cia-readingroom-document-cia-rdp96-00788r001600450002-5/cia-rdp96-00788r001600450002-5_djvu.txt, dated 1984-04-04.
 - US Army Intelligence and Security Command (INSCOM) comes in from **902d Military Intelligence Group, USAINSCOM** (institution, board tier B), a institutional link at Tier 1 documented. The link reads: Subordinate group of USAINSCOM at Fort George G. Meade. The group's own letterhead reads USAINSCOM, 902D MILITARY INTELLIGENCE GROUP, Fort George G. Meade, Maryland 20755, and its memorandum is addressed through the INSCOM staff to the Commanding General. Sources: CENTER LANE FY 86 - 90 GDIP Submission (U), 4 April 1984, https://archive.org/download/cia-readingroom-document-cia-rdp96-00788r001600450002-5/cia-rdp96-00788r001600450002-5_djvu.txt, dated 1984-04-04.
 - US Army Intelligence and Security Command (INSCOM) runs out to **Waived unacknowledged special access program (waived USAP)** (program, board tier A), a programmatic link at Tier 3 stated inference. The link reads: A ridiculed subject held inside service-secretary-level access controls. Reasoning: the opened records show a psychoenergetics project carried as a Secretary of the Army designated special access programme with a category-three access caveat, which is the board's structural claim about SAP-level control of a ridiculed domain. No opened record connects CENTER LANE to waived status or to any unacknowledged programme. Sources: Deactivation letter of 2 March 1985 read against the waived-usap node, https://archive.org/download/cia-readingroom-document-cia-rdp96-00789r002100120002-4/cia-rdp96-00789r002100120002-4_djvu.txt, dated 1985-03-02.
+
+## Northrop Grumman Corporation
+
+Northrop Grumman Corporation is a institution on the board; board tier B, documented channel and capability, programme role indicated but not yet nailed to a primary source; dates 1994; axes C2 A3 D0; 6 connections; in the funding band.
+
+In one line: Prime contractor; B-2/B-21; former Nevada Test Site management partner.
+
+### What it is
+
+One of the United States' prime defense contractors, builder of the B-2 and the B-21 Raider at Air Force Plant 42, and, from 2006 to 2017, the leader of National Security Technologies LLC, the consortium that held the management and operating contract for the Nevada Test Site after Bechtel Nevada.
+
+### Why it is implicated
+
+It sits at the intersection of the two things this board tracks: work at the deepest classification levels, and custody of the Nevada complex. The stealth bomber programmes put it inside compartmented aircraft development at Plant 42; the NSTec contract put it in operational control of the ground the retrieval and reverse-engineering claims are attached to. Senate Appropriations investigator Richard D'Amato is reported to have named it, with Lockheed Martin and EG&G, as the kind of private entity inside which a cover-up could feasibly sit. That last is a Tier 3 report and is carried as one.
+
+### The longer account
+
+Northrop Grumman crossed this map's floor on the build of 18 September 2026, which is ordinary churn and not a finding: the board's practice, recorded in data/l0-shorts.json, is that a corpus build pushing a node over the L0 floor gets its dossier authored. What is worth stating is that its case for the map does not rest on the edge that moved it. That edge is a Tier 2 self-stated client list, an illustrator saying he did conceptual work for the company, with no personnel record and no contract record opened, and it proves nothing about the company at all. The case rests instead on two Tier 1 claims already on its record: the DOE listing that makes it the Nevada Test Site's management and operating contractor for eleven years, and USAspending's record of prime contract obligations in the tens of billions since FY2008. A board about who holds the programme's money and the programme's ground has to carry the company that held both. The D'Amato report is the weakest thing here and the most quoted, and it is graded Tier 3 for that reason.
+
+Roles the board assigns it: custody, concealment, funding.
+
+### Open questions on this node
+
+- Whether any NSTec contract document names the scope of the management and operating role at the Nevada Test Site beyond the DOE research-organization listing.
+- What the USAspending prime contract obligations break down to by programme, which the recipient search does not itself show.
+
+### Why it holds its tier
+
+Re-graded B on a global pass (rank 397 of 1066, score 33). 6 connections, 1 of them custody/funding/programmatic. Axes C2/A3/D0.
+
+### The claims on the record
+
+- **Tier 1 documented.** National Security Technologies LLC, a Northrop Grumman-led consortium, succeeded Bechtel Nevada as management and operating contractor for the Nevada Test Site from 2006. Source: DOE/OSTI records listing Bechtel Nevada and National Security Technologies, LLC as successive Nevada Test Site research organisations
+- **Tier 1 documented.** USAspending records prime contract obligations to Northrop Grumman Systems Corporation in the tens of billions of dollars since FY2008. Source: USAspending.gov recipient search, retrieved 12 August 2026
+
+### Its strongest connections
+
+- Northrop Grumman Corporation comes in from **The MITRE Corporation** (institution, board tier A), a institutional link at Tier 1 documented. The link reads: Named among the primes whose MITRE-related work Congress demanded an accounting of. Burlison's production requests cover MITRE work involving Lockheed Martin, Northrop Grumman, Raytheon, Boeing, General Dynamics, SAIC and Leidos. Sources: DefenseScoop, https://defensescoop.com/2026/05/27/rep-eric-burlison-request-for-uap-records-mitre/, dated 2026-05-27.
+- Northrop Grumman Corporation comes in from **TRW Inc.** (institution, board tier B), a institutional link at Tier 1 documented. The link reads: Merged into a Northrop Grumman subsidiary, 11 December 2002. Northrop Grumman's Form 8-K states that Richmond Acquisition Corp. merged with and into TRW on 11 December 2002, leaving TRW a wholly owned subsidiary, with TRW Systems and TRW Space and Electronics renamed as Northrop Grumman Mission Systems and Northrop Grumman Space Technology. Sources: Northrop Grumman Corporation, Form 8-K, event 11 December 2002, https://www.sec.gov/Archives/edgar/data/1133421/000089843002004580/d8k.htm, dated 2002-12-20.
+- Northrop Grumman Corporation runs out to **Nevada Test Site / Nevada National Security Site** (location, board tier C), a institutional link at Tier 1 documented. The link reads: A Northrop Grumman-led consortium took over Nevada Test Site management in 2006. National Security Technologies LLC succeeded Bechtel Nevada, inheriting the Remote Sensing Laboratory, the Special Technologies Laboratory and the classified support infrastructure adjacent to Groom Lake. Sources: OSTI.GOV: Nevada Test Site Environmental Report 2005, research organization Bechtel Nevada, https://www.osti.gov/biblio/892135, dated 2006-10-01; USAspending.gov federal award search (prime contract obligations by recipient), https://www.usaspending.gov/search, dated 2026-08-12.
+- Northrop Grumman Corporation comes in from **Eric Burlison** (person, board tier A), a investigative link at Tier 2 named person on the record. The link reads: Named as a target of his records investigation. Same statement of 14-16 May 2026. Sources: The Hill: House Republican requests UFO talk from private contractor, https://thehill.com/homenews/house/5880943-house-gop-ufo-programs-pentagon-private-contractors/, dated 2026-05-16.
+- Northrop Grumman Corporation comes in from **Mark McCandlish** (person, board tier A), a institutional link at Tier 2 named person on the record. The link reads: Named in his own self-stated client list, 2000. Self-stated client list from his own December 2000 testimony, printed in the April 2001 Briefing Document: 'I've worked for all the major defense contractors: General Dynamics, Lockheed, Northrop, McDonald-Douglas, Boeing, Rockwell International, Honeywell, and Allied Signet Corporation.' No personnel record and no contract record was opened for any of them. The edge records what he said about himself and nothing more. Sources: Disclosure Project Briefing Document, section 3.8.5, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt, dated 2001-04.
+- Northrop Grumman Corporation comes in from **UAP Gerb - Northrop Grumman & TRW investigation (Vol.2)** (document, board tier B), a funding link at Tier 2 named person on the record. The link reads: Alleges IRAD self-funding of a breakaway programme after 9/11. The specific financial allegation: that Northrop used Independent Research and Development funds at the onset of the War on Terror to self-fund retrieval and exploitation, becoming unaccountable to its original government handler. IRAD is contractor-directed and only indirectly reimbursed, which makes it the mechanism that would allow exactly this. Sources: UAP Gerb - Northrop Grumman & TRW Vol.2, https://www.youtube.com/watch?v=0kLSp0lH-JQ, dated 2026-03-20.
 
 # 2000-2016: AAWSAP / AATIP
 
@@ -1255,7 +1298,7 @@ Roles the board assigns it: concealment, funding, oversight, custody.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 54 of 1057, score 75). 7 connections, 2 of them custody/funding/programmatic. Axes C1/A3/D2.
+Re-graded A on a global pass (rank 54 of 1066, score 75). 7 connections, 2 of them custody/funding/programmatic. Axes C1/A3/D2.
 
 ### The claims on the record
 
@@ -1342,7 +1385,7 @@ Roles the board assigns it: funding, concealment, oversight, disclosure.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 169 of 1057, score 47). 6 connections, 3 of them custody/funding/programmatic. Axes C1/A3/D2.
+Re-graded B on a global pass (rank 170 of 1066, score 47). 6 connections, 3 of them custody/funding/programmatic. Axes C1/A3/D2.
 
 ### The claims on the record
 
@@ -1426,7 +1469,7 @@ Roles the board assigns it: research, disclosure, funding.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 453 of 1057, score 31). 6 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.
+Re-graded B on a global pass (rank 458 of 1066, score 31). 6 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.
 
 ### The claims on the record
 
@@ -1510,7 +1553,7 @@ Roles the board assigns it: oversight, disclosure, concealment, funding.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 24 of 1057, score 102). 24 connections, 3 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A2/D3.
+Re-graded A on a global pass (rank 25 of 1066, score 102). 24 connections, 3 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A2/D3.
 
 ### The claims on the record
 
@@ -1558,7 +1601,7 @@ A further 5 claims sit on this node on the board and are not reproduced here.
 - House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency' comes in from **David Fravor** (person, board tier B), a witness-chain link at Tier 1 documented. The link reads: Testified as former commanding officer, VFA-41. Fravor's written statement to the subcommittee is the primary sworn account of the 2004 intercept. Sources: House Oversight - hearing page, 26 July 2023, https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/, dated 2023-07-26; House Oversight - Fravor written statement (PDF), https://oversight.house.gov/wp-content/uploads/2023/07/David-Fravor-Statement-for-House-Oversight-Committee.pdf, dated 2023-07-26; U.S. GPO, Hearing transcript, Serial No. 118-53 (CHRG-118hhrg53022), https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm, dated 2023-07-26.
 - House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency' comes in from **Grusch PPD-19 Urgent Concern Complaint to the ICIG** (document, board tier B), a temporal link at Tier 1 documented. The link reads: Fourteen months from urgent-concern determination to public testimony. The ICIG found the complaint credible and urgent in July 2022; Grusch testified publicly in July 2023 only after leaving government and clearing his statements through DOPSR. The intervening year is the period the reprisal complaint covers. Sources: House Oversight hearing transcript, https://www.congress.gov/118/meeting/house/116282/documents/HHRG-118-GO06-Transcript-20230726.pdf, dated 2023-07-26; The Debrief, https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/, dated 2023-06-05.
 - House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency' comes in from **Eglin Air Force Base, Florida** (location, board tier B), a investigative link at Tier 1 documented. The link reads: The Eglin radar sequence and imagery were requested from the dais, 'subpoenaed if necessary'. No production of the Eglin material to the committee has been recorded as of August 2026. Sources: U.S. GPO, Hearing transcript, Serial No. 118-53 (CHRG-118hhrg53022), https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm, dated 2023-07-26.
-- House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency' comes in from **The Debrief: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin** (document, board tier B), a temporal link at Tier 1 documented. The link reads: Publication to sworn testimony in fifty-one days. The Debrief published 5 June 2023; the House Oversight subcommittee took sworn testimony 26 July 2023. The speed is itself a data point about congressional appetite in that window. Sources: House Oversight hearing transcript, https://www.congress.gov/118/meeting/house/116282/documents/HHRG-118-GO06-Transcript-20230726.pdf, dated 2023-07-26.
+- House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency' comes in from **The Boeing Company** (institution, board tier B), a witness-chain link at Tier 1 documented. The link reads: Boeing contractors were the observers in the 2003 Vandenberg red square incident. Ryan Graves described the incident in 2023 and Jeffrey Nuccetelli, who investigated it, testified to it in 2025. Rep. Ocasio-Cortez used the detail to open the question of contractor reporting obligations, and Grusch answered that none exist. Sources: House Oversight hearing transcript, 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency' (CHRG-118hhrg53022), https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm, dated 2023-07-26; House Oversight Task Force on the Declassification of Federal Secrets hearing transcript, 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection' (CHRG-119hhrg61718, Serial No. 119-44), https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm, dated 2025-09-09.
 
 It carries 24 connections in total on the board.
 
@@ -1616,7 +1659,7 @@ Roles the board assigns it: disclosure, oversight, funding.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 40 of 1057, score 87). 12 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D3.
+Re-graded A on a global pass (rank 40 of 1066, score 87). 12 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D3.
 
 ### The claims on the record
 
@@ -1713,7 +1756,7 @@ Roles the board assigns it: funding, concealment, oversight.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 264 of 1057, score 39). 9 connections, 2 of them custody/funding/programmatic. Axes C0/A1/D3.
+Re-graded B on a global pass (rank 265 of 1066, score 39). 9 connections, 2 of them custody/funding/programmatic. Axes C0/A1/D3.
 
 ### The claims on the record
 
@@ -1786,7 +1829,7 @@ Roles the board assigns it: funding, oversight, concealment.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 43 of 1057, score 84). 11 connections, 3 of them custody/funding/programmatic. Axes C1/A3/D3.
+Re-graded A on a global pass (rank 43 of 1066, score 84). 11 connections, 3 of them custody/funding/programmatic. Axes C1/A3/D3.
 
 ### The claims on the record
 
@@ -1868,7 +1911,7 @@ Roles the board assigns it: oversight, concealment, disclosure, funding.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 86 of 1057, score 66). 9 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D1.
+Re-graded A on a global pass (rank 86 of 1066, score 66). 9 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D1.
 
 ### The claims on the record
 
@@ -1965,7 +2008,7 @@ Roles the board assigns it: disclosure, concealment, funding, oversight.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 147 of 1057, score 51). 6 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D3.
+Re-graded A on a global pass (rank 148 of 1066, score 51). 6 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D3.
 
 ### The claims on the record
 
@@ -2035,7 +2078,7 @@ Roles the board assigns it: funding, oversight, concealment.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 144 of 1057, score 51). 6 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D3.
+Re-graded A on a global pass (rank 145 of 1066, score 51). 6 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D3.
 
 ### The claims on the record
 

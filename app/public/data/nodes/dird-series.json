@@ -628,7 +628,7 @@
 "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237629/"
 }
 ],
-"tier": "B",
+"tier": "C",
 "type": "programmatic"
 },
 {
@@ -1360,7 +1360,7 @@
 "cls": "document",
 "id": "dird-mhd-air-breathing-propulsion-and-power",
 "label": "MHD Air Breathing Propulsion and Power for Aerospace Applications",
-"tier": "B"
+"tier": "C"
 },
 {
 "cls": "document",
@@ -1499,7 +1499,7 @@
 ],
 "sub": "AAWSAP contract deliverable set, 2008-2010. A DOCUMENT SERIES, not a programme — the individual papers are wired to their authors and to AAWSAP, and this node is the shelf they sit on. Absorbed the duplicate node dird-collection on 14 Aug 2026.",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 9 of 1057, score 122). 41 connections, 38 of them custody/funding/programmatic. Axes C0/A0/D0.",
+"tierRationale": "Re-graded A on a global pass (rank 9 of 1066, score 122). 41 connections, 38 of them custody/funding/programmatic. Axes C0/A0/D0.",
 "timeline": [
 {
 "date": "2019-01-16",

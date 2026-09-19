@@ -444,6 +444,78 @@
   }
  },
  {
+  "domain": "arv-2026-09-18",
+  "gap": {
+   "id": "gap-aviation-week-1990-10-01",
+   "text": "HIGHEST-VALUE GAP ON THIS LEAD. The Aviation Week & Space Technology issue of 1 October 1990, carrying McCandlish's two paintings, was NOT OPENED. It is named inside the 1990 primary document ('featured in AVWK's Oct. 1 issue') and it is the only element of this thread that was actually published in the contemporary trade press. Opening it would date the artwork independently of the account and show what caption Aviation Week put on it. The year 1990 currently follows only from the interview notes' own December 1990 dating.",
+   "wouldClose": "The McGraw-Hill back files, a university periodicals collection, or the Aviation Week archive."
+  }
+ },
+ {
+  "domain": "arv-2026-09-18",
+  "gap": {
+   "id": "gap-mccandlish-arv-drawing",
+   "text": "The McCandlish ARV cut-away drawing itself was NOT OPENED as an image. The Briefing Document's OCR text refers to it ('a cut-away illustration, pretty much like the one I'll show you in a little bit') but the plate is not in the text layer, and the arvp.co.uk page says of the original 'now that Mark has passed on it's impossible to get hold of'. No node is built for the drawing as a document.",
+   "wouldClose": "Extracting the plate section of the archive.org PDF at https://ia601205.us.archive.org/16/items/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument.pdf , whose images this research did not extract; Greer's own archive; or the book 'Disclosure' (Crossing Point, 2001)."
+  }
+ },
+ {
+  "domain": "arv-2026-09-18",
+  "gap": {
+   "id": "gap-greer-disclosure-book-2001",
+   "text": "The book 'Disclosure: Military and Government Witnesses Reveal the Greatest Secrets in Modern History', Greer, 2001, was NOT OPENED. Its Kindle edition was located only. The book version of the testimony may differ from the Briefing Document version.",
+   "wouldClose": "A diff between the book text and the Briefing Document text, which would show whether the craft sizes and the Carlucci line were edited between them."
+  }
+ },
+ {
+  "domain": "arv-2026-09-18",
+  "gap": {
+   "id": "gap-national-press-club-2001-05-09",
+   "text": "No C-SPAN or news-network recording of the Disclosure Project's National Press Club event of 9 May 2001, with a participant list, was opened. c-span.org returned HTTP 403 to this environment. Whether McCandlish was present is therefore NOT ESTABLISHED, and the claim is carried in unverified on mark-mccandlish rather than as a claim or a timeline event.",
+   "wouldClose": "The c-span.org video library, or the Internet Archive TV news collection. It settles the premise of area52-triage-5.md row A12 either way."
+  }
+ },
+ {
+  "domain": "arv-2026-09-18",
+  "gap": {
+   "id": "gap-zero-point-film-itself",
+   "text": "The film Zero Point was NOT OPENED, and neither was its full-credits page: imdb.com/title/tt6111304/fullcredits/ returned HTTP 403. The IMDb title page was opened on 18 September 2026 and everything on the node that comes from it is graded Tier 2 as a user-maintained listing. The film's own assertions, including anything it says about its writer-director, remain unread.",
+   "wouldClose": "The YouTube copy linked from arvp.co.uk (video id afLsRsd5roY), Vimeo on demand, or the IMDb full-credits page from an environment it does not refuse."
+  }
+ },
+ {
+  "domain": "arv-2026-09-18",
+  "gap": {
+   "id": "gap-secretprojects-norton-thread",
+   "text": "The secretprojects.co.uk thread on the 1988 Norton exhibit, at https://www.secretprojects.co.uk/threads/1988-norton-afb-classified-aircraft-exhibit-super-stol-aircraft.31469/ , returned HTTP 403 and was NOT OPENED. It was the most promising candidate for aerospace-community skeptical analysis, which this lead is otherwise thin on.",
+   "wouldClose": "Reading the thread from an environment the forum does not refuse."
+  }
+ },
+ {
+  "domain": "arv-2026-09-18",
+  "gap": {
+   "id": "gap-norton-1988-open-house-record",
+   "text": "The 1988 Norton AFB open house programme, and the 63rd Military Airlift Wing history for 1988, were NOT OPENED. Who was invited, what was on static display, and whether any hangar was closed to the public are therefore not established by any record.",
+   "wouldClose": "The Air Force Historical Research Agency, or a base open-house programme in a collector's hands."
+  }
+ },
+ {
+  "domain": "arv-2026-09-18",
+  "gap": {
+   "id": "gap-shasta-c21-0324-investigation",
+   "text": "The Shasta County Sheriff's investigative report behind case C21-0324 was NOT OPENED. What is opened is the Verdict of Death and the Report of External Examination, which are the conclusions; the investigation that produced them is not in the record. The external examination expressly declined an internal one, so the file is thinner than the argument built on it in both directions.",
+   "wouldClose": "A records request to the Shasta County Sheriff's Office."
+  }
+ },
+ {
+  "domain": "arv-2026-09-18",
+  "gap": {
+   "id": "gap-brad-sorensen-identification",
+   "text": "No record of Brad Sorensen under that surname was opened, and nobody in the opened record appears to have tried. The 1990 primary document gives a first name, a school (Pasadena Art Center), engineering classes at Cal Tech, a client list (Rossignol skis, the Mazda RX-7 from 1986, electric toothbrushes, motorcycle helmets), an hourly rate of $200 and his own design business with prototyping shops. That is enough to attempt an identification.",
+   "wouldClose": "California business registrations; design-industry press for Rossignol and the Mazda RX-7; Pasadena Art Center alumni records."
+  }
+ },
+ {
   "domain": "aviators-incidents",
   "gap": "No primary record has been located for the alleged confiscation of USS Princeton recording media after 14 November 2004. Targets: Princeton quarterdeck and deck logs for 14-18 Nov 2004, any unscheduled embarkation record, CSG-11 message traffic, and the Aegis/CEC data retention schedule for that period. This is the single highest-value open item on the domain."
  },

@@ -111,24 +111,24 @@
  ],
  "counts": {
   "claims": {
-   "1": 3363,
-   "2": 1426,
-   "3": 514
+   "1": 3387,
+   "2": 1466,
+   "3": 516
   },
-  "edges": 2460,
-  "entities": 746,
+  "edges": 2491,
+  "entities": 753,
   "foia": {
    "nodes": 42,
    "questions": 121,
    "requests": 17
   },
-  "l0": 137,
-  "nodes": 1057,
+  "l0": 139,
+  "nodes": 1066,
   "patents": 5,
-  "people": 311,
+  "people": 313,
   "sheets": 11,
   "threads": 8,
-  "timeline": 913
+  "timeline": 931
  },
  "eras": [
   {
@@ -167,7 +167,7 @@
    "sub": "no start date recorded"
   }
  ],
- "generated": "2026-09-18",
+ "generated": "2026-09-19",
  "nodes": [
   {
    "A": 0,
@@ -1682,6 +1682,54 @@
    "tier": "B"
   },
   {
+   "A": 0,
+   "C": 0,
+   "D": 3,
+   "band": "reverse-engineering",
+   "claims": [
+    0,
+    10,
+    0
+   ],
+   "cls": "program",
+   "cluster": "witness",
+   "dateEnd": null,
+   "dateStart": "1988-11-12",
+   "deg": 7,
+   "era": "1",
+   "hl": null,
+   "id": "arv-fluxliner",
+   "l0": true,
+   "label": "Alien Reproduction Vehicle (ARV) / Flux Liner",
+   "short": "ARV / Flux Liner",
+   "status": null,
+   "tier": "B"
+  },
+  {
+   "A": 0,
+   "C": 0,
+   "D": 3,
+   "band": null,
+   "claims": [
+    5,
+    0,
+    1
+   ],
+   "cls": "institution",
+   "cluster": "media",
+   "dateEnd": null,
+   "dateStart": "2024",
+   "deg": 3,
+   "era": "3",
+   "hl": null,
+   "id": "arvp-fluxliner-project",
+   "l0": false,
+   "label": "ARVP (arvp.co.uk), the Flux Liner project site",
+   "short": "ARVP (arvp.co.uk), the Flux Liner project site",
+   "status": null,
+   "tier": "B"
+  },
+  {
    "A": 3,
    "C": 3,
    "D": 0,
@@ -2463,7 +2511,7 @@
    "cluster": "contractor",
    "dateEnd": null,
    "dateStart": "1916",
-   "deg": 3,
+   "deg": 4,
    "era": "0",
    "hl": null,
    "id": "boeing",
@@ -2544,6 +2592,30 @@
    "short": "Boston University",
    "status": null,
    "tier": "C"
+  },
+  {
+   "A": 1,
+   "C": 1,
+   "D": 1,
+   "band": null,
+   "claims": [
+    5,
+    1,
+    0
+   ],
+   "cls": "person",
+   "cluster": "witness",
+   "dateEnd": null,
+   "dateStart": "1990-12-03",
+   "deg": 4,
+   "era": "1",
+   "hl": null,
+   "id": "brad-sorensen",
+   "l0": false,
+   "label": "'Brad' Sorensen",
+   "short": "'Brad' Sorensen",
+   "status": "active",
+   "tier": "B"
   },
   {
    "A": 2,
@@ -6575,7 +6647,7 @@
    "label": "MHD Air Breathing Propulsion and Power for Aerospace Applications",
    "short": "MHD Air Breathing Propulsion and Power for Aerospace Applications",
    "status": null,
-   "tier": "B"
+   "tier": "C"
   },
   {
    "A": 0,
@@ -6951,13 +7023,37 @@
    "cluster": "witness",
    "dateEnd": null,
    "dateStart": "1993",
-   "deg": 3,
+   "deg": 5,
    "era": "1",
    "hl": null,
    "id": "disclosure-project",
    "l0": false,
    "label": "The Disclosure Project",
    "short": "The Disclosure Project",
+   "status": null,
+   "tier": "C"
+  },
+  {
+   "A": 0,
+   "C": 0,
+   "D": 3,
+   "band": null,
+   "claims": [
+    3,
+    1,
+    0
+   ],
+   "cls": "document",
+   "cluster": "witness",
+   "dateEnd": "2001-04",
+   "dateStart": "2001-04",
+   "deg": 3,
+   "era": "2",
+   "hl": null,
+   "id": "disclosure-project-briefing-2001",
+   "l0": false,
+   "label": "Disclosure Project Briefing Document, April 2001",
+   "short": "Disclosure Project Briefing Document, April 2001",
    "status": null,
    "tier": "C"
   },
@@ -8199,7 +8295,7 @@
    "cluster": "other",
    "dateEnd": null,
    "dateStart": "2010-01-01",
-   "deg": 20,
+   "deg": 22,
    "era": "2",
    "hl": null,
    "id": "eric-davis",
@@ -9327,7 +9423,7 @@
    "cluster": "contractor",
    "dateEnd": null,
    "dateStart": "1952",
-   "deg": 2,
+   "deg": 3,
    "era": "0",
    "hl": null,
    "id": "general-dynamics",
@@ -13959,7 +14055,7 @@
    "cluster": "legacy",
    "dateEnd": null,
    "dateStart": "1933",
-   "deg": 1,
+   "deg": 2,
    "era": "0",
    "hl": null,
    "id": "l-edwards-afb",
@@ -14522,6 +14618,30 @@
    "tier": "C"
   },
   {
+   "A": 1,
+   "C": 1,
+   "D": 1,
+   "band": null,
+   "claims": [
+    1,
+    2,
+    0
+   ],
+   "cls": "location",
+   "cluster": "legacy",
+   "dateEnd": null,
+   "dateStart": null,
+   "deg": 2,
+   "era": "nd",
+   "hl": null,
+   "id": "l-norton-afb",
+   "l0": false,
+   "label": "Norton Air Force Base, San Bernardino, California",
+   "short": "Norton Air Force Base, San Bernardino, California",
+   "status": null,
+   "tier": "C"
+  },
+  {
    "A": 0,
    "C": 0,
    "D": 3,
@@ -14655,7 +14775,7 @@
    "cluster": "contractor",
    "dateEnd": null,
    "dateStart": "1954",
-   "deg": 2,
+   "deg": 3,
    "era": "0",
    "hl": null,
    "id": "l-plant-42",
@@ -15639,7 +15759,7 @@
    "cluster": "contractor",
    "dateEnd": null,
    "dateStart": "1943",
-   "deg": 8,
+   "deg": 9,
    "era": "0",
    "hl": null,
    "id": "lockheed-skunk-works",
@@ -15962,6 +16082,30 @@
    "tier": "C"
   },
   {
+   "A": 0,
+   "C": 0,
+   "D": 3,
+   "band": null,
+   "claims": [
+    0,
+    11,
+    0
+   ],
+   "cls": "person",
+   "cluster": "witness",
+   "dateEnd": null,
+   "dateStart": "2021-04-13",
+   "deg": 16,
+   "era": "3",
+   "hl": null,
+   "id": "mark-mccandlish",
+   "l0": false,
+   "label": "Mark McCandlish",
+   "short": "Mark McCandlish",
+   "status": "dead",
+   "tier": "A"
+  },
+  {
    "A": 1,
    "C": 0,
    "D": 1,
@@ -16215,7 +16359,7 @@
    "cluster": "other",
    "dateEnd": "1997",
    "dateStart": "1967",
-   "deg": 3,
+   "deg": 4,
    "era": "0",
    "hl": null,
    "id": "mcdonnell-douglas",
@@ -18029,7 +18173,7 @@
    "A": 3,
    "C": 2,
    "D": 0,
-   "band": null,
+   "band": "funding",
    "claims": [
     2,
     0,
@@ -18039,13 +18183,37 @@
    "cluster": "contractor",
    "dateEnd": null,
    "dateStart": "1994",
-   "deg": 5,
+   "deg": 6,
    "era": "1",
    "hl": null,
    "id": "northrop-grumman",
-   "l0": false,
+   "l0": true,
    "label": "Northrop Grumman Corporation",
    "short": "Northrop Grumman Corporation",
+   "status": null,
+   "tier": "B"
+  },
+  {
+   "A": 1,
+   "C": 1,
+   "D": 2,
+   "band": null,
+   "claims": [
+    2,
+    9,
+    0
+   ],
+   "cls": "event",
+   "cluster": "witness",
+   "dateEnd": "1988-11-12",
+   "dateStart": "1988-11-12",
+   "deg": 4,
+   "era": "1",
+   "hl": null,
+   "id": "norton-afb-airshow-1988",
+   "l0": false,
+   "label": "Norton AFB air show, 12 November 1988, and the alleged classified exhibit",
+   "short": "Norton AFB air show, 12 November 1988, and the alleged classified exhibit",
    "status": null,
    "tier": "B"
   },
@@ -21532,6 +21700,30 @@
   {
    "A": 0,
    "C": 0,
+   "D": 2,
+   "band": null,
+   "claims": [
+    6,
+    0,
+    1
+   ],
+   "cls": "document",
+   "cluster": "media",
+   "dateEnd": "1990-12-11",
+   "dateStart": "1990-08-13",
+   "deg": 4,
+   "era": "1",
+   "hl": null,
+   "id": "scott-sorensen-notes-1990",
+   "l0": false,
+   "label": "William B. Scott's interview notes on 'Brad', 3 December 1990",
+   "short": "William B. Scott's interview notes on 'Brad', 3 December 1990",
+   "status": null,
+   "tier": "B"
+  },
+  {
+   "A": 0,
+   "C": 0,
    "D": 3,
    "band": null,
    "claims": [
@@ -22551,7 +22743,7 @@
    "cluster": "media",
    "dateEnd": null,
    "dateStart": "2001-05-09",
-   "deg": 5,
+   "deg": 7,
    "era": "2",
    "hl": null,
    "id": "steven-greer",
@@ -23127,7 +23319,7 @@
    "cluster": "research",
    "dateEnd": null,
    "dateStart": "1953-03-25",
-   "deg": 2,
+   "deg": 4,
    "era": "0",
    "hl": null,
    "id": "thomas-townsend-brown",
@@ -23727,7 +23919,7 @@
    "cluster": "media",
    "dateEnd": null,
    "dateStart": "2026-08-07",
-   "deg": 16,
+   "deg": 17,
    "era": "3",
    "hl": null,
    "id": "uap-gerb",
@@ -24399,7 +24591,7 @@
    "cluster": "legacy",
    "dateEnd": null,
    "dateStart": "1947-09-18",
-   "deg": 21,
+   "deg": 22,
    "era": "0",
    "hl": null,
    "id": "usaf",
@@ -25536,7 +25728,31 @@
    "short": "Yury Viktorovich Platov",
    "status": "active",
    "tier": "C"
+  },
+  {
+   "A": 0,
+   "C": 0,
+   "D": 2,
+   "band": null,
+   "claims": [
+    2,
+    6,
+    0
+   ],
+   "cls": "document",
+   "cluster": "media",
+   "dateEnd": "2013-06-02",
+   "dateStart": "2013-06-02",
+   "deg": 2,
+   "era": "2",
+   "hl": null,
+   "id": "zero-point-documentary",
+   "l0": false,
+   "label": "Zero Point: The Story of Mark McCandlish and the Flux Liner",
+   "short": "Zero Point: The Story of Mark McCandlish and the Flux Liner",
+   "status": null,
+   "tier": "C"
   }
  ],
- "source": "2697314bdac1"
+ "source": "a82b898deeb7"
 }
