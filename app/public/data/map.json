@@ -2790,7 +2790,7 @@
    ],
    "label": "The custody chain",
    "onMap": 52,
-   "total": 191
+   "total": 192
   },
   {
    "blurb": "A denial is a dated, signed, attributable statement, which makes it evidence about the denier. These are the issuers.",
@@ -5040,7 +5040,7 @@
    "tier": "B"
   }
  ],
- "source": "a82b898deeb7",
+ "source": "936949670c37",
  "summarised": [
   {
    "a": "aaro",
@@ -5150,6 +5150,14 @@
    "via": [
     "david-grusch",
     "sean-kirkpatrick"
+   ]
+  },
+  {
+   "a": "aaro-historical-record-vol1",
+   "b": "hearing-2025-09-09",
+   "via": [
+    "david-grusch",
+    "michael-herrera"
    ]
   },
   {

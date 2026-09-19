@@ -47997,6 +47997,125 @@ export const PROGRAM_EDGES = [
     ]
   },
   {
+    a: 'michael-herrera',
+    b: 'hearing-2025-09-09',
+    type: 'witness-chain',
+    label: 'Written testimony moved into the record by a member; NOT a witness appearance',
+    claimTier: 1,
+    dateStart: '2025-09-09',
+    dateEnd: '2025-09-09',
+    note: 'HE IS NOT A WITNESS AT THIS HEARING AND THIS EDGE MUST NOT BE READ AS AN APPEARANCE. Rep. Eric Burlison moved a document about him into the record and the chair admitted it without objection. He is on no committee witness list for this or any other hearing.',
+    sources: [
+      {
+        name: 'Serial CHRG-119hhrg61718, printed record of 9 September 2025',
+        url: 'https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm',
+        date: '2025-09-09'
+      }
+    ]
+  },
+  {
+    a: 'michael-herrera',
+    b: 'eric-burlison',
+    type: 'witness-chain',
+    label: 'The member who moved his written testimony into the hearing record',
+    claimTier: 1,
+    dateStart: '2025-09-09',
+    dateEnd: '2025-09-09',
+    note: 'Burlison is the member who made the motion on 9 September 2025, naming Herrera among several individuals whose testimony he entered.',
+    sources: [
+      {
+        name: 'Serial CHRG-119hhrg61718, printed record of 9 September 2025',
+        url: 'https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm',
+        date: '2025-09-09'
+      }
+    ]
+  },
+  {
+    a: 'michael-herrera',
+    b: 'steven-greer',
+    type: 'custody',
+    label: 'Named on the record as the custodian who supplied the written testimony',
+    claimTier: 1,
+    dateStart: '2025-09-09',
+    dateEnd: '2025-09-09',
+    note: 'Custody of the DOCUMENT, not of material. Burlison said on the record that the testimony \'was given to me by Dr. Steven Greer\'.',
+    sources: [
+      {
+        name: 'Serial CHRG-119hhrg61718, printed record of 9 September 2025',
+        url: 'https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm',
+        date: '2025-09-09'
+      }
+    ]
+  },
+  {
+    a: 'michael-herrera',
+    b: 'aaro-historical-record-vol1',
+    type: 'investigative',
+    label: 'Inferred identification with the anonymised page 29 interviewee',
+    claimTier: 3,
+    dateStart: '2024-02',
+    dateEnd: '2024-02',
+    note: 'THE IDENTIFICATION IS AN INFERENCE AND THIS EDGE CARRIES IT AS ONE. The page 29 interviewee account matches his public account on year, mission type and scene. AARO names nobody and holds the anonymisation key itself. No opened record makes the link.',
+    sources: [
+      {
+        name: 'AARO Historical Record Report Volume I, p. 29 (Black Vault mirror)',
+        url: 'https://documents2.theblackvault.com/documents/dod/AARO_Historical_Record_Report_Volume_1_2024.pdf',
+        date: '2024-02'
+      }
+    ]
+  },
+  {
+    a: 'ronald-moultrie',
+    b: 'hearing-2022-05-17',
+    type: 'witness-chain',
+    label: 'Witness of record, appearing as Under Secretary of Defense for Intelligence and Security',
+    claimTier: 1,
+    dateStart: '2022-05-17',
+    dateEnd: '2022-05-17',
+    note: 'A genuine witness appearance in an official capacity, unlike the Herrera edge above, which is a document entered by motion.',
+    sources: [
+      {
+        name: 'HHRG-117-IG05-Transcript-20220517',
+        url: 'https://www.congress.gov/117/meeting/house/114761/documents/HHRG-117-IG05-Transcript-20220517.pdf',
+        date: '2022-05-17'
+      }
+    ]
+  },
+  {
+    a: 'scott-bray',
+    b: 'hearing-2022-05-17',
+    type: 'witness-chain',
+    label: 'Witness of record, appearing as Deputy Director of Naval Intelligence',
+    claimTier: 1,
+    dateStart: '2022-05-17',
+    dateEnd: '2022-05-17',
+    note: 'A genuine witness appearance in an official capacity.',
+    sources: [
+      {
+        name: 'HHRG-117-IG05-Transcript-20220517',
+        url: 'https://www.congress.gov/117/meeting/house/114761/documents/HHRG-117-IG05-Transcript-20220517.pdf',
+        date: '2022-05-17'
+      }
+    ]
+  },
+  {
+    a: 'hearing-2022-05-17',
+    b: 'hearing-2023-07-26',
+    type: 'temporal',
+    label: 'The first open congressional UAP hearing of the modern era, and the one the Oversight sequence descends from',
+    claimTier: 1,
+    dateStart: '2022-05-17',
+    dateEnd: '2023-07-26',
+    note: 'Both transcripts are openable and both are on the board. The 2022 hearing precedes the Oversight sequence of 2023, 2024 and 2025.',
+    sources: [
+      {
+        name: 'HHRG-117-IG05-Transcript-20220517',
+        url: 'https://www.congress.gov/117/meeting/house/114761/documents/HHRG-117-IG05-Transcript-20220517.pdf',
+        date: '2022-05-17'
+      }
+    ]
+  },
+  {
     a: 'aaro-fy2025-annual-report',
     b: 'dod',
     type: 'denial',

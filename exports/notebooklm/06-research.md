@@ -56,7 +56,7 @@ Roles the board assigns it: research, concealment, disclosure, custody.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 191 of 1066, score 45). 15 connections, 3 of them custody/funding/programmatic. Axes C0/A1/D3.
+Re-graded B on a global pass (rank 192 of 1071, score 45). 15 connections, 3 of them custody/funding/programmatic. Axes C0/A1/D3.
 
 ### The claims on the record
 
@@ -143,7 +143,7 @@ Roles the board assigns it: research, concealment, custody.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 35 of 1066, score 90). 15 connections, 6 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A2/D1.
+Re-graded A on a global pass (rank 35 of 1071, score 90). 15 connections, 6 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A2/D1.
 
 ### The claims on the record
 
@@ -237,7 +237,7 @@ Roles the board assigns it: concealment, oversight, research.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 98 of 1066, score 62). 15 connections, 4 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C0/A3/D0.
+Re-graded A on a global pass (rank 98 of 1071, score 62). 15 connections, 4 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C0/A3/D0.
 
 ### The claims on the record
 
@@ -325,7 +325,7 @@ Roles the board assigns it: concealment, oversight, research, disclosure.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 131 of 1066, score 53). 13 connections, 3 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D1.
+Re-graded A on a global pass (rank 131 of 1071, score 53). 13 connections, 3 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D1.
 
 ### The claims on the record
 
@@ -409,7 +409,7 @@ Roles the board assigns it: research, custody, disclosure, concealment.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 102 of 1066, score 61). 11 connections, 4 of them custody/funding/programmatic. Axes C2/A2/D3.
+Re-graded A on a global pass (rank 102 of 1071, score 61). 11 connections, 4 of them custody/funding/programmatic. Axes C2/A2/D3.
 
 ### The claims on the record
 
@@ -441,10 +441,10 @@ Re-graded A on a global pass (rank 102 of 1066, score 61). 11 connections, 4 of 
 - Força Aérea Brasileira / Ministério da Aeronáutica runs out to **Arquivo Nacional (Brazil) - UFO/UAP collection** (institution, board tier A), a programmatic link at Tier 1 documented. The link reads: Portaria 551/GC3 (9 Aug 2010): COMDABRA/COMAE catalogues, CENDOC forwards originals periodically. Art. 3 mandates periodic transfer of originals, which is why the fund has no terminal year. Published DOU 10 Aug 2010, Seção 1, p. 101. Revoked Nota C-002/MIN/ADM (13 Apr 1978) and Aviso S-001/MIN (28 Feb 1989). Successive accessions are documented at least to a 'terceiro recolhimento' covering 1981, with CENDOC's bulk remittance to COREG scheduled to close 31 Aug 2010; FAB states coverage now runs 1952-2025. Sources: https://www.migalhas.com.br/arquivos/2026/1/7F5E4CC12D7AE7_terceiraacao.pdf, https://www.migalhas.com.br/arquivos/2026/1/7F5E4CC12D7AE7_terceiraacao.pdf; https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=891762&filename=RIC+679%2F2011, https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=891762&filename=RIC+679%2F2011; https://www.cnnbrasil.com.br/ciencia/pilotos-e-controladores-relataram-18-casos-de-ovnis-no-brasil-em-2025/, https://www.cnnbrasil.com.br/ciencia/pilotos-e-controladores-relataram-18-casos-de-ovnis-no-brasil-em-2025/; Relatório de Ocorrências (Arquivo Nacional), http://imagem.sian.an.gov.br/acervo/derivadas/BR_DFANBSB_ARX/0/0/0249/BR_DFANBSB_ARX_0_0_0249_d0001de0001.pdf, dated 1986-06-02; BBC Brasil, https://www.bbc.com/portuguese/brasil-59953278, dated 2022-01-14.
 - Força Aérea Brasileira / Ministério da Aeronáutica runs out to **Noite Oficial dos OVNIs - the Brazilian 'Night of the UFOs', 19 May 1986** (event, board tier A), a programmatic link at Tier 1 documented. The link reads: The Air Force scrambled the interceptors on the Night of the UFOs. The 19 May 1986 engagement was executed by the FAB: fighters launched from Santa Cruz and Anápolis against radar plots held by the CINDACTA network. RQS 193/2022 describes it in the Senate's own words as the night 'quando 21 OVNIs esféricos de 100 metros de diâmetro cada foram perseguidos durante horas por nossos caças a jato'. The event node previously connected only to the minister and to the report, not to the service that flew the sorties. [CORRECTED 14 Aug 2026: RQS 193/2022 is a request for a COMMEMORATIVE SPECIAL SESSION under Art. 199 RISF, approved 16 Mar 2022, held 24 Jun 2022 - not a records-seeking or compelling instrument. Its durable value is the content of its justificacao, which names Operacao Prato, the 1986 night, SIOANI and the archive reference BR DFANBSB ARX. These edges assert what the document NAMES, which is verifiable in its text and unaffected by its procedural nature, so the tier is unchanged. Any claim that the instrument COMPELLED disclosure would be false.] Sources: Senado Federal (Brasil), Requerimento nº 193, de 2022 (RQS 193/2022), autoria do Senador Eduardo Girão (PODEMOS/CE) com Eliziane Gama, Alessandro Vieira, Izalci Lucas, Jorge Kajuru, Marcos do Val, Paulo Rocha e Reguffe, sessão especial para os 75 anos do Dia Mundial da Ufologia, https://legis.senado.leg.br/sdleg-getter/documento?dm=9089831&ts=1647523438292&disposition=inline; Correio Braziliense, 'A noite em que 21 óvnis invadiram o espaço aéreo brasileiro e foram perseguidos por caças da FAB', https://www.correiobraziliense.com.br/mundo/2026/05/7421517-a-noite-em-que-21-ovnis-invadiram-o-espaco-aereo-brasileiro-e-foram-perseguidos-por-cacas-da-fab.html; Senado Federal, Dados Abertos, official record of RQS 193/2022 (Código 152222): ementa 'Sessão especial destinada a comemorar os 75 anos do Dia Mundial da Ufologia', 16 March 2022, Sen. Eduardo Girão and seven co-signers, https://legis.senado.leg.br/dadosabertos/materia/pesquisa/lista?sigla=RQS&numero=193&ano=2022, dated 2026-08-23; Relatório de Ocorrências (Arquivo Nacional PDF), http://imagem.sian.an.gov.br/acervo/derivadas/BR_DFANBSB_ARX/0/0/0249/BR_DFANBSB_ARX_0_0_0249_d0001de0001.pdf, dated 1986-06-02.
 - Força Aérea Brasileira / Ministério da Aeronáutica runs out to **Brigadeiro Octávio Júlio Moreira Lima** (person, board tier B), a institutional link at Tier 1 documented. The link reads: Moreira Lima was Minister of Aeronautics, the FAB's own political head. Octávio Júlio Moreira Lima held the Ministério da Aeronáutica, the ministry of which the Força Aérea Brasileira was the service arm, at the time of the 19 May 1986 engagement and of the 23 May 1986 press conference at which he produced the intercept pilots and the controllers and said the armed forces had no technical explanation. Sources: Correio Braziliense, 'A noite em que 21 óvnis invadiram o espaço aéreo brasileiro e foram perseguidos por caças da FAB', https://www.correiobraziliense.com.br/mundo/2026/05/7421517-a-noite-em-que-21-ovnis-invadiram-o-espaco-aereo-brasileiro-e-foram-perseguidos-por-cacas-da-fab.html; Relatório de Ocorrências (Arquivo Nacional PDF), http://imagem.sian.an.gov.br/acervo/derivadas/BR_DFANBSB_ARX/0/0/0249/BR_DFANBSB_ARX_0_0_0249_d0001de0001.pdf, dated 1986-06-02; BBC Brasil - 'A noite em que 21 óvnis invadiram o espaço aéreo brasileiro', https://www.bbc.com/portuguese/brasil-59953278, dated 2022-01-14.
-- Força Aérea Brasileira / Ministério da Aeronáutica runs out to **Capitão Uyrangê Bolívar Soares Nogueira de Hollanda Lima** (person, board tier B), a institutional link at Tier 1 documented. The link reads: Hollanda was a serving FAB officer, not a civilian investigator. Uyrangê Hollanda commanded Operação Prato as a captain of the Brazilian Air Force and retired as a lieutenant colonel. Pratt's file: 'In 1997, long after he had retired as a lieutenant colonel, Hollanda decided he was no longer obligated to remain silent about Operação Prato and publicly discussed Operação Prato.' The institutional tie matters because his later account contradicts the service's official negative finding, the contradiction is internal to the FAB, not between the FAB and outsiders. Sources: Bob Pratt, 'Operação Prato', MUFON/Pratt document set hosted by The Black Vault, https://documents.theblackvault.com/documents/MUFON/Pratt/prato.pdf; Keith Basterfield, 'Investigative adventures in Brazil', Unidentified Anomalous Phenomena – scientific research, 22 July 2024, with update of 16 February 2025, https://ufos-scientificresearch.blogspot.com/2024/07/investigative-adventures-in-brazil.html; Relatório de Ocorrências (Arquivo Nacional), http://imagem.sian.an.gov.br/acervo/derivadas/BR_DFANBSB_ARX/0/0/0249/BR_DFANBSB_ARX_0_0_0249_d0001de0001.pdf, dated 1986-06-02; Operação Prato - Wikipedia, https://en.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Prato, dated 2026-01-01.
 - Força Aérea Brasileira / Ministério da Aeronáutica runs out to **Brigadeiro do Ar José Pessoa Cavalcanti de Albuquerque** (person, board tier B), a institutional link at Tier 1 documented. The link reads: Pessoa Cavalcanti signed for the FAB's own Air Defence Command. José Pessoa Cavalcanti de Albuquerque signed the Relatório de Ocorrências of 2 June 1986 as acting commander of COMDA/NuCOMDABRA, a command of the Brazilian Air Force. The finding that the objects were solid and behaved intelligently is therefore a FAB internal finding rendered up its own chain of command under classification, not an outside assessment. Sources: Arquivo Nacional, Fundo Objeto Voador Não Identificado – OVNI, reference BR DFANBSB ARX; the 1986 Air Defence Command report carries the item reference BR_DFANBSB_ARX_0_0_0249 (board node doc-fab-1986-report); Correio Braziliense, 'A noite em que 21 óvnis invadiram o espaço aéreo brasileiro e foram perseguidos por caças da FAB', https://www.correiobraziliense.com.br/mundo/2026/05/7421517-a-noite-em-que-21-ovnis-invadiram-o-espaco-aereo-brasileiro-e-foram-perseguidos-por-cacas-da-fab.html; Relatório de Ocorrências (Arquivo Nacional PDF), http://imagem.sian.an.gov.br/acervo/derivadas/BR_DFANBSB_ARX/0/0/0249/BR_DFANBSB_ARX_0_0_0249_d0001de0001.pdf, dated 1986-06-02.
 - Força Aérea Brasileira / Ministério da Aeronáutica comes in from **Senado Federal do Brasil** (institution, board tier C), a legislative link at Tier 1 documented. The link reads: The Senate instrument treats the Aeronáutica's record as the national record. RQS 193/2022 credits Brazil as the first state to admit officially that the objects exist, the 1954 Escola Superior de Guerra meeting at which then-Captain João Adil de Oliveira spoke, lists SIOANI (1969, IV COMAR), Operação Prato (1977) and the 1986 night as official Aeronáutica programmes, and notes that the Aeronáutica 'sempre foi discreta quanto a estes e a outros fatos, mas nunca os negou quando inquirida'. It also records that the Army and Navy did not transfer their holdings, a named, sourced gap in the Brazilian openness story rather than a clean win. [CORRECTED 14 Aug 2026: RQS 193/2022 is a request for a COMMEMORATIVE SPECIAL SESSION under Art. 199 RISF, approved 16 Mar 2022, held 24 Jun 2022 - not a records-seeking or compelling instrument. Its durable value is the content of its justificacao, which names Operacao Prato, the 1986 night, SIOANI and the archive reference BR DFANBSB ARX. These edges assert what the document NAMES, which is verifiable in its text and unaffected by its procedural nature, so the tier is unchanged. Any claim that the instrument COMPELLED disclosure would be false.] Sources: Senado Federal (Brasil), Requerimento nº 193, de 2022 (RQS 193/2022), autoria do Senador Eduardo Girão (PODEMOS/CE) com Eliziane Gama, Alessandro Vieira, Izalci Lucas, Jorge Kajuru, Marcos do Val, Paulo Rocha e Reguffe, sessão especial para os 75 anos do Dia Mundial da Ufologia, https://legis.senado.leg.br/sdleg-getter/documento?dm=9089831&ts=1647523438292&disposition=inline; Senado Federal, Dados Abertos, official record of RQS 193/2022 (Código 152222): ementa 'Sessão especial destinada a comemorar os 75 anos do Dia Mundial da Ufologia', 16 March 2022, Sen. Eduardo Girão and seven co-signers, https://legis.senado.leg.br/dadosabertos/materia/pesquisa/lista?sigla=RQS&numero=193&ano=2022, dated 2026-08-23; Relatório de Ocorrências (Arquivo Nacional PDF), http://imagem.sian.an.gov.br/acervo/derivadas/BR_DFANBSB_ARX/0/0/0249/BR_DFANBSB_ARX_0_0_0249_d0001de0001.pdf, dated 1986-06-02; Senado Federal - Dados Abertos, list of senators in exercise (official open-data service, 81 members), https://legis.senado.leg.br/dadosabertos/senador/lista/atual, dated 2026-08-12.
 - Força Aérea Brasileira / Ministério da Aeronáutica comes in from **Brazil** (location, board tier C), a geographic link at Tier 1 documented. The link reads: The Força Aérea Brasileira is the air arm of the Brazilian state. Basic containment edge; the FAB is the institution that makes Brazil the board's counter-example. [CORRECTED 14 Aug 2026: RQS 193/2022 is a request for a COMMEMORATIVE SPECIAL SESSION under Art. 199 RISF, approved 16 Mar 2022, held 24 Jun 2022 - not a records-seeking or compelling instrument. Its durable value is the content of its justificacao, which names Operacao Prato, the 1986 night, SIOANI and the archive reference BR DFANBSB ARX. These edges assert what the document NAMES, which is verifiable in its text and unaffected by its procedural nature, so the tier is unchanged. Any claim that the instrument COMPELLED disclosure would be false.] Sources: Senado Federal (Brasil), Requerimento nº 193, de 2022 (RQS 193/2022), autoria do Senador Eduardo Girão (PODEMOS/CE) com Eliziane Gama, Alessandro Vieira, Izalci Lucas, Jorge Kajuru, Marcos do Val, Paulo Rocha e Reguffe, sessão especial para os 75 anos do Dia Mundial da Ufologia, https://legis.senado.leg.br/sdleg-getter/documento?dm=9089831&ts=1647523438292&disposition=inline; Senado Federal, Dados Abertos, official record of RQS 193/2022 (Código 152222): ementa 'Sessão especial destinada a comemorar os 75 anos do Dia Mundial da Ufologia', 16 March 2022, Sen. Eduardo Girão and seven co-signers, https://legis.senado.leg.br/dadosabertos/materia/pesquisa/lista?sigla=RQS&numero=193&ano=2022, dated 2026-08-23; Relatório de Ocorrências (Arquivo Nacional PDF), http://imagem.sian.an.gov.br/acervo/derivadas/BR_DFANBSB_ARX/0/0/0249/BR_DFANBSB_ARX_0_0_0249_d0001de0001.pdf, dated 1986-06-02.
+- Força Aérea Brasileira / Ministério da Aeronáutica runs out to **Capitão Uyrangê Bolívar Soares Nogueira de Hollanda Lima** (person, board tier C), a institutional link at Tier 1 documented. The link reads: Hollanda was a serving FAB officer, not a civilian investigator. Uyrangê Hollanda commanded Operação Prato as a captain of the Brazilian Air Force and retired as a lieutenant colonel. Pratt's file: 'In 1997, long after he had retired as a lieutenant colonel, Hollanda decided he was no longer obligated to remain silent about Operação Prato and publicly discussed Operação Prato.' The institutional tie matters because his later account contradicts the service's official negative finding, the contradiction is internal to the FAB, not between the FAB and outsiders. Sources: Bob Pratt, 'Operação Prato', MUFON/Pratt document set hosted by The Black Vault, https://documents.theblackvault.com/documents/MUFON/Pratt/prato.pdf; Keith Basterfield, 'Investigative adventures in Brazil', Unidentified Anomalous Phenomena – scientific research, 22 July 2024, with update of 16 February 2025, https://ufos-scientificresearch.blogspot.com/2024/07/investigative-adventures-in-brazil.html; Relatório de Ocorrências (Arquivo Nacional), http://imagem.sian.an.gov.br/acervo/derivadas/BR_DFANBSB_ARX/0/0/0249/BR_DFANBSB_ARX_0_0_0249_d0001de0001.pdf, dated 1986-06-02; Operação Prato - Wikipedia, https://en.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Prato, dated 2026-01-01.
 - Força Aérea Brasileira / Ministério da Aeronáutica comes in from **Peruvian Air Force anomalous aerial phenomena office (OIFAA / DIFAA)** (institution, board tier C), a institutional link at Tier 1 documented. The link reads: COMPARISON: Peru's own state news agency measured DIFAA's reopening against Brazil. COMPARISON EDGE, no institutional contact between the FAP and the FAB is claimed. Peru's state news agency Andina, reporting the reopening on 18 October 2013, closes: 'Con la reapertura de la DIFAA, el Perú se coloca a la paridad de países de la región como Chile, Argentina, Uruguay, Brasil y Ecuador.' Brazil is named by a Peruvian government outlet as the regional benchmark. The same report establishes the office's identity that the peru-uap-office node lacked: the Departamento de Investigación de Fenómenos Aéreos Anómalos (DIFAA), sitting under the Dirección de Intereses Aéreos Espaciales (DINAE), whose head Coronel FAP Julio Vucetich Abanto announced the public reporting channel, the office having been closed for five years 'a causa de problemas administrativos'. The reopening was announced at an FAP-hosted 'Encuentro sobre Fenómenos Aéreos Anómalos' addressing the Nazca Lines question. Sources: Agencia Peruana de Noticias Andina (Editora Perú), 'Fenómenos aéreos anómalos en Perú podrán reportarse a la FAP', 18 October 2013, https://andina.pe/agencia/noticia-fenomenos-aereos-anomalos-peru-podran-reportarse-a-fap-478982.aspx; Relatório de Ocorrências (Arquivo Nacional), http://imagem.sian.an.gov.br/acervo/derivadas/BR_DFANBSB_ARX/0/0/0249/BR_DFANBSB_ARX_0_0_0249_d0001de0001.pdf, dated 1986-06-02.
 - Força Aérea Brasileira / Ministério da Aeronáutica runs out to **Arquivo Nacional (Brazil) - UFO/UAP collection** (institution, board tier A), a custody link at Tier 2 named person on the record. The link reads: transferred its entire UAP holding and disclaimed competence. The Air Force told BBC Brasil that all available material has gone to the Arquivo Nacional and that it has no specialists able to investigate or opine on the phenomena. Sources: BBC Brasil, https://www.bbc.com/portuguese/brasil-59953278, dated 2022-01-14.
 
@@ -484,7 +484,7 @@ Roles the board assigns it: concealment, custody, research.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 176 of 1066, score 46). 9 connections, 3 of them custody/funding/programmatic. Axes C3/A3/D0.
+Re-graded B on a global pass (rank 177 of 1071, score 46). 9 connections, 3 of them custody/funding/programmatic. Axes C3/A3/D0.
 
 ### The claims on the record
 
@@ -533,7 +533,7 @@ Roles the board assigns it: concealment, research, disclosure.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 147 of 1066, score 51). 9 connections, 4 of them custody/funding/programmatic. Axes C0/A3/D2.
+Re-graded A on a global pass (rank 147 of 1071, score 51). 9 connections, 4 of them custody/funding/programmatic. Axes C0/A3/D2.
 
 ### The claims on the record
 
@@ -592,7 +592,7 @@ Roles the board assigns it: custody, research, concealment.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 149 of 1066, score 50). 8 connections, 1 of them custody/funding/programmatic. Axes C3/A3/D0.
+Re-graded A on a global pass (rank 150 of 1071, score 50). 8 connections, 1 of them custody/funding/programmatic. Axes C3/A3/D0.
 
 ### The claims on the record
 
@@ -666,7 +666,7 @@ Roles the board assigns it: custody, concealment, research.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 134 of 1066, score 53). 7 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A3/D0.
+Re-graded A on a global pass (rank 134 of 1071, score 53). 7 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A3/D0.
 
 ### The claims on the record
 
@@ -735,7 +735,7 @@ Roles the board assigns it: research, custody, concealment.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 140 of 1066, score 52). 7 connections, 2 of them custody/funding/programmatic. Axes C3/A3/D1.
+Re-graded A on a global pass (rank 140 of 1071, score 52). 7 connections, 2 of them custody/funding/programmatic. Axes C3/A3/D1.
 
 ### The claims on the record
 
@@ -795,7 +795,7 @@ Roles the board assigns it: research, custody.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 111 of 1066, score 58). 6 connections, 5 of them custody/funding/programmatic. Axes C3/A1/D2.
+Re-graded A on a global pass (rank 111 of 1071, score 58). 6 connections, 5 of them custody/funding/programmatic. Axes C3/A1/D2.
 
 ### The claims on the record
 
@@ -863,7 +863,7 @@ Roles the board assigns it: research, concealment, disclosure.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 138 of 1066, score 52). 6 connections, 2 of them custody/funding/programmatic. Axes C1/A2/D2.
+Re-graded A on a global pass (rank 138 of 1071, score 52). 6 connections, 2 of them custody/funding/programmatic. Axes C1/A2/D2.
 
 ### The claims on the record
 
@@ -927,7 +927,7 @@ Roles the board assigns it: disclosure, research.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 512 of 1066, score 29). 6 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.
+Re-graded B on a global pass (rank 516 of 1071, score 29). 6 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.
 
 ### The claims on the record
 
@@ -983,7 +983,7 @@ Roles the board assigns it: research, disclosure.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 117 of 1066, score 56). 11 connections, 1 of them custody/funding/programmatic. Axes C0/A1/D3.
+Re-graded A on a global pass (rank 117 of 1071, score 56). 11 connections, 1 of them custody/funding/programmatic. Axes C0/A1/D3.
 
 ### The claims on the record
 
@@ -1065,7 +1065,7 @@ Roles the board assigns it: research, disclosure.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 192 of 1066, score 45). 11 connections, 2 of them custody/funding/programmatic. Axes C1/A2/D2.
+Re-graded B on a global pass (rank 193 of 1071, score 45). 11 connections, 2 of them custody/funding/programmatic. Axes C1/A2/D2.
 
 ### The claims on the record
 
@@ -1138,7 +1138,7 @@ Roles the board assigns it: research, disclosure.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 84 of 1066, score 67). 9 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D3.
+Re-graded A on a global pass (rank 84 of 1071, score 67). 9 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D3.
 
 ### The claims on the record
 
@@ -1218,7 +1218,7 @@ Roles the board assigns it: research, custody, disclosure, concealment.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 70 of 1066, score 70). 10 connections, 5 of them custody/funding/programmatic. Axes C2/A2/D2.
+Re-graded A on a global pass (rank 70 of 1071, score 70). 10 connections, 5 of them custody/funding/programmatic. Axes C2/A2/D2.
 
 ### The claims on the record
 
@@ -1248,9 +1248,9 @@ Re-graded A on a global pass (rank 70 of 1066, score 70). 10 connections, 5 of t
 - Operação Prato (Operation Saucer) runs out to **Arquivo Nacional (Brazil) - UFO/UAP collection** (institution, board tier A), a custody link at Tier 2 named person on the record. The link reads: official documents held by the National Archives. The operation's files were released and are served through the Arquivo Nacional's information system. Sources: Operação Prato - Wikipedia, https://en.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Prato, dated 2026-01-01.
 - Operação Prato (Operation Saucer) runs out to **SETKA-AN / SETKA-MO (later Galaktika, then Gorizont) - Soviet state anomalous phenomena programme** (program, board tier B), a programmatic link at Tier 2 named person on the record. The link reads: COMPARISON: two military UAP field-collection programmes that ended in publication rather than burial. COMPARISON EDGE, no contact between the Brazilian and Soviet programmes is claimed or evidenced, and none is likely. The pairing is structural: Operação Prato was a small dedicated Air Force and SNI field detachment run under a military dictatorship that closed with an official negative finding and whose files later went to a civil national archive; SETKA was a thirteen-year standing collection tasking laid on the whole Soviet armed forces, written up afterwards by the men who ran it and published in the Academy of Sciences' own journal. Both are counter-examples to the US pattern in the same way and by opposite routes, one through an archive law, one through its own operators publishing. [CORRECTED 14 Aug 2026: RQS 193/2022 is a request for a COMMEMORATIVE SPECIAL SESSION under Art. 199 RISF, approved 16 Mar 2022, held 24 Jun 2022 - not a records-seeking or compelling instrument. Its durable value is the content of its justificacao, which names Operacao Prato, the 1986 night, SIOANI and the archive reference BR DFANBSB ARX. These edges assert what the document NAMES, which is verifiable in its text and unaffected by its procedural nature, so the tier is unchanged. Any claim that the instrument COMPELLED disclosure would be false.] Sources: Senado Federal, Dados Abertos, official record of RQS 193/2022 (Código 152222): ementa 'Sessão especial destinada a comemorar os 75 anos do Dia Mundial da Ufologia', 16 March 2022, Sen. Eduardo Girão and seven co-signers, https://legis.senado.leg.br/dadosabertos/materia/pesquisa/lista?sigla=RQS&numero=193&ano=2022, dated 2026-08-23; Relatório de Ocorrências (Arquivo Nacional PDF), http://imagem.sian.an.gov.br/acervo/derivadas/BR_DFANBSB_ARX/0/0/0249/BR_DFANBSB_ARX_0_0_0249_d0001de0001.pdf, dated 1986-06-02; Operação Prato - Wikipedia, https://en.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Prato, dated 2026-01-01; Bob Pratt, 'Operação Prato', MUFON/Pratt document set hosted by The Black Vault, https://documents.theblackvault.com/documents/MUFON/Pratt/prato.pdf; Senado Federal (Brasil), Requerimento nº 193, de 2022 (RQS 193/2022), autoria do Senador Eduardo Girão (PODEMOS/CE) com Eliziane Gama, Alessandro Vieira, Izalci Lucas, Jorge Kajuru, Marcos do Val, Paulo Rocha e Reguffe, sessão especial para os 75 anos do Dia Mundial da Ufologia, https://legis.senado.leg.br/sdleg-getter/documento?dm=9089831&ts=1647523438292&disposition=inline
 - Operação Prato (Operation Saucer) runs out to **Jacques F. Vallee** (person, board tier B), a investigative link at Tier 2 named person on the record. The link reads: Vallee was shown the Prato military file at First Air Force headquarters in 1988. From Vallee's Forbidden Science Volume Three, as quoted by Basterfield: travelling to Belém in July 1988, 'They met with Colonel Hollanda Lima, in the headquarters of the First Air Force region. He led the team sent to the Colares region during Operation Prato. Vallee was shown a military file which: "...held the military photographs, detailed aerial maps, trajectory analyses by the staff of Project Prato."' Tier 2, diary testimony quoted at one remove, with no FAB document confirming the meeting. Sources: Jacques Vallee, 'Forbidden Science Volume Three' (diary of the July 1988 Brazil trip), quoted in Basterfield, 'Investigative adventures in Brazil'; Keith Basterfield, 'Investigative adventures in Brazil', Unidentified Anomalous Phenomena – scientific research, 22 July 2024, with update of 16 February 2025, https://ufos-scientificresearch.blogspot.com/2024/07/investigative-adventures-in-brazil.html; Operação Prato - Wikipedia, https://en.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Prato, dated 2026-01-01.
-- Operação Prato (Operation Saucer) comes in from **Capitão Uyrangê Bolívar Soares Nogueira de Hollanda Lima** (person, board tier B), a institutional link at Tier 2 named person on the record. The link reads: commanded the operation. Named as commanding officer in Brazilian press accounts of the released Arquivo Nacional file. Sources: Operação Prato - Wikipedia, https://en.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Prato, dated 2026-01-01.
 - Operação Prato (Operation Saucer) runs out to **The Black Vault** (institution, board tier C), a custody link at Tier 2 named person on the record. The link reads: The American reporter's Prato dossier sits in Greenewald's archive. A file titled 'Operação Prato', written by the US journalist Bob Pratt, is served publicly in the MUFON/Pratt document set at documents.theblackvault.com. It opens: 'Operação Prato, a Brazilian Air Force investigation of a prolonged UFO flap in 1977-78'. It names Captain Uyrangê Hollanda and his six sergeants, names Brigadier Protázio Lopes de Oliveira as the Belém base commander who shut the operation down after four months, and describes the interviews of hundreds of witnesses in Colares and about thirty other villages. This is the concrete answer to whether Prato material reached US hands: it did, through a working reporter, and it is now in the same FOIA archive that carries the Elizondo and Grusch-era US paper. Sources: Bob Pratt, 'Operação Prato', MUFON/Pratt document set hosted by The Black Vault, https://documents.theblackvault.com/documents/MUFON/Pratt/prato.pdf; Operação Prato - Wikipedia, https://en.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Prato, dated 2026-01-01.
 - Operação Prato (Operation Saucer) comes in from **Brazil** (location, board tier C), a geographic link at Tier 2 named person on the record. The link reads: Operação Prato was run on Colares, Pará, in northern Brazil. Pratt's file: intelligence agents 'from the Air Force base in Belém in northern Brazil interviewed hundreds of witnesses in Colares and about thirty other villages north of Belém'. Sources: Bob Pratt, 'Operação Prato', MUFON/Pratt document set hosted by The Black Vault, https://documents.theblackvault.com/documents/MUFON/Pratt/prato.pdf; Operação Prato - Wikipedia, https://en.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Prato, dated 2026-01-01.
+- Operação Prato (Operation Saucer) comes in from **Capitão Uyrangê Bolívar Soares Nogueira de Hollanda Lima** (person, board tier C), a institutional link at Tier 2 named person on the record. The link reads: commanded the operation. Named as commanding officer in Brazilian press accounts of the released Arquivo Nacional file. Sources: Operação Prato - Wikipedia, https://en.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Prato, dated 2026-01-01.
 
 ## Noite Oficial dos OVNIs - the Brazilian 'Night of the UFOs', 19 May 1986
 
@@ -1296,7 +1296,7 @@ Roles the board assigns it: research, disclosure, concealment, custody.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 125 of 1066, score 55). 6 connections, 2 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D3.
+Re-graded A on a global pass (rank 125 of 1071, score 55). 6 connections, 2 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D3.
 
 ### The claims on the record
 
@@ -1377,7 +1377,7 @@ Roles the board assigns it: oversight, concealment, disclosure, research.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 120 of 1066, score 55). 18 connections, 2 of them custody/funding/programmatic. Axes C1/A3/D3.
+Re-graded A on a global pass (rank 120 of 1071, score 55). 18 connections, 2 of them custody/funding/programmatic. Axes C1/A3/D3.
 
 ### The claims on the record
 
@@ -1456,7 +1456,7 @@ Roles the board assigns it: research, disclosure.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 81 of 1066, score 68). 10 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D3.
+Re-graded A on a global pass (rank 81 of 1071, score 68). 10 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D3.
 
 ### The claims on the record
 
@@ -1539,7 +1539,7 @@ Roles the board assigns it: research, concealment, disclosure.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 96 of 1066, score 64). 9 connections, 3 of them custody/funding/programmatic. Axes C1/A2/D3.
+Re-graded A on a global pass (rank 96 of 1071, score 64). 9 connections, 3 of them custody/funding/programmatic. Axes C1/A2/D3.
 
 ### The claims on the record
 
@@ -1621,7 +1621,7 @@ Roles the board assigns it: custody, disclosure, research.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 64 of 1066, score 73). 10 connections, 6 of them custody/funding/programmatic. Axes C1/A0/D3.
+Re-graded A on a global pass (rank 64 of 1071, score 73). 10 connections, 6 of them custody/funding/programmatic. Axes C1/A0/D3.
 
 ### The claims on the record
 
@@ -1712,7 +1712,7 @@ Roles the board assigns it: research, concealment, disclosure, oversight.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 177 of 1066, score 46). 7 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D3.
+Re-graded B on a global pass (rank 178 of 1071, score 46). 7 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D3.
 
 ### The claims on the record
 
@@ -1785,7 +1785,7 @@ Roles the board assigns it: research, disclosure.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 87 of 1066, score 66). 6 connections, 4 of them custody/funding/programmatic. Axes C2/A1/D0.
+Re-graded A on a global pass (rank 87 of 1071, score 66). 6 connections, 4 of them custody/funding/programmatic. Axes C2/A1/D0.
 
 ### The claims on the record
 
@@ -1871,7 +1871,7 @@ Roles the board assigns it: disclosure, concealment, oversight, research.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 17 of 1066, score 110). 19 connections, 1 of them custody/funding/programmatic, 6 official denials recorded against it. Axes C1/A3/D3.
+Re-graded A on a global pass (rank 17 of 1071, score 110). 19 connections, 1 of them custody/funding/programmatic, 6 official denials recorded against it. Axes C1/A3/D3.
 
 ### The claims on the record
 
@@ -1968,7 +1968,7 @@ Roles the board assigns it: oversight, concealment, research, disclosure.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 74 of 1066, score 69). 19 connections, 6 of them custody/funding/programmatic. Axes C2/A3/D2.
+Re-graded A on a global pass (rank 74 of 1071, score 69). 19 connections, 6 of them custody/funding/programmatic. Axes C2/A3/D2.
 
 ### The claims on the record
 
@@ -2058,7 +2058,7 @@ Roles the board assigns it: research, disclosure.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 398 of 1066, score 33). 9 connections, 1 of them custody/funding/programmatic. Axes C1/A0/D3.
+Re-graded B on a global pass (rank 400 of 1071, score 33). 9 connections, 1 of them custody/funding/programmatic. Axes C1/A0/D3.
 
 ### The claims on the record
 
@@ -2135,7 +2135,7 @@ Roles the board assigns it: research, disclosure.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 516 of 1066, score 29). 8 connections, 0 of them custody/funding/programmatic. Axes C2/A0/D2.
+Re-graded B on a global pass (rank 520 of 1071, score 29). 8 connections, 0 of them custody/funding/programmatic. Axes C2/A0/D2.
 
 ### The claims on the record
 
@@ -2219,7 +2219,7 @@ Roles the board assigns it: disclosure, oversight, concealment, research.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 519 of 1066, score 29). 8 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.
+Re-graded B on a global pass (rank 523 of 1071, score 29). 8 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.
 
 ### The claims on the record
 
@@ -2303,7 +2303,7 @@ Roles the board assigns it: research, disclosure.
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 734 of 1066, score 22). 7 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D3.
+Re-graded C on a global pass (rank 737 of 1071, score 22). 7 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D3.
 
 ### The claims on the record
 
@@ -2379,7 +2379,7 @@ Roles the board assigns it: research, disclosure, oversight.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 348 of 1066, score 35). 8 connections, 2 of them custody/funding/programmatic. Axes C0/A1/D3.
+Re-graded B on a global pass (rank 349 of 1071, score 35). 8 connections, 2 of them custody/funding/programmatic. Axes C0/A1/D3.
 
 ### The claims on the record
 
@@ -2459,7 +2459,7 @@ Roles the board assigns it: concealment, oversight, disclosure, research.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 46 of 1066, score 82). 9 connections, 3 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C1/A2/D3.
+Re-graded A on a global pass (rank 46 of 1071, score 82). 9 connections, 3 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C1/A2/D3.
 
 ### The claims on the record
 
@@ -2550,7 +2550,7 @@ Roles the board assigns it: disclosure, research, oversight.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 445 of 1066, score 31). 6 connections, 2 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D3.
+Re-graded B on a global pass (rank 448 of 1071, score 31). 6 connections, 2 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D3.
 
 ### The claims on the record
 
@@ -2627,7 +2627,7 @@ Roles the board assigns it: custody, concealment, oversight, disclosure, researc
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 396 of 1066, score 33). 7 connections, 2 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D3.
+Re-graded B on a global pass (rank 398 of 1071, score 33). 7 connections, 2 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D3.
 
 ### The claims on the record
 
@@ -2695,7 +2695,7 @@ Roles the board assigns it: disclosure, custody, research.
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 780 of 1066, score 20). 12 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D0.
+Re-graded C on a global pass (rank 785 of 1071, score 20). 12 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D0.
 
 ### The claims on the record
 
@@ -2777,7 +2777,7 @@ Roles the board assigns it: oversight, disclosure, research.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 68 of 1066, score 70). 7 connections, 6 of them custody/funding/programmatic. Axes C0/A0/D0.
+Re-graded A on a global pass (rank 68 of 1071, score 70). 7 connections, 6 of them custody/funding/programmatic. Axes C0/A0/D0.
 
 ### The claims on the record
 
@@ -2867,7 +2867,7 @@ Roles the board assigns it: research, custody, concealment.
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 919 of 1066, score 15). 7 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D0.
+Re-graded C on a global pass (rank 923 of 1071, score 15). 7 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D0.
 
 ### The claims on the record
 
@@ -2941,7 +2941,7 @@ Roles the board assigns it: oversight, disclosure, research.
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 722 of 1066, score 22). 6 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D0.
+Re-graded C on a global pass (rank 725 of 1071, score 22). 6 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D0.
 
 ### The claims on the record
 

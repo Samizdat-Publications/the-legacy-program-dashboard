@@ -4927,11 +4927,71 @@
 "node": "alex-dietrich",
 "open": false,
 "source": {
+"domain": "www.cbsnews.com",
+"text": "https://www.cbsnews.com/news/navy-ufo-sighting-60-minutes-2021-05-16/ , 2021-05-16",
+"url": "https://www.cbsnews.com/news/navy-ufo-sighting-60-minutes-2021-05-16/"
+},
+"text": "CBS News, 60 Minutes, correspondent Bill Whitaker, published 16 May 2021, states that Dietrich, a former F/A-18F pilot, 'has never before spoken publicly about what she saw that day'. The same report quotes her: 'It was unidentified. And that's why it was so unsettling to us. Because we weren't expecting it. We couldn't classify it'; 'No predictable movement, no predictable trajectory'; and 'I felt the vulnerability of not having anything to defend ourselves. And then I felt confused when it disappeared.' This dates the start of her public record to 16 May 2021 on the network's own assertion.",
+"tier": 1
+},
+{
+"cls": "person",
+"cluster": "witness",
+"denied": false,
+"label": "Alex Dietrich",
+"node": "alex-dietrich",
+"open": false,
+"source": {
+"domain": "www.govinfo.gov",
+"text": "Serial No. 118-135, https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm , 2024-11-13",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm"
+},
+"text": "In sworn testimony at the 13 November 2024 House Oversight joint hearing, Tim Gallaudet named her while alleging AARO pressure on him: 'In addition, they tried to have me question very valid UAP reports like the Tic Tac incident, even coming to a--stating possibly that the Tic Tac was American technology. And then, of course, if you ask David Fravor or Alex Dietrich, the two witnesses, they were convinced it was otherwise.' Tier 1 for the fact that he said it under oath. The allegation about AARO's conduct is his word and caps at Tier 2 as a claim about the world.",
+"tier": 1
+},
+{
+"cls": "person",
+"cluster": "witness",
+"denied": false,
+"label": "Alex Dietrich",
+"node": "alex-dietrich",
+"open": false,
+"source": {
+"domain": "www.govinfo.gov",
+"text": "Serial No. 118-53, https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm , 2023-07-26",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm"
+},
+"text": "In sworn testimony at the 26 July 2023 House Oversight subcommittee hearing, David Fravor placed her in the chain of who re-opened the 2004 case: 'Years later, I was contacted by the other pilot, Alex Dietrich, and asked if I would been contacted and I said no, but I am willing to talk.' Tier 1 for the fact that a sworn witness said this on that date; the underlying sequence is his account.",
+"tier": 1
+},
+{
+"cls": "person",
+"cluster": "witness",
+"denied": false,
+"label": "Alex Dietrich",
+"node": "alex-dietrich",
+"open": false,
+"source": {
 "domain": null,
 "text": "Navy range fouler reports released via the Navy FOIA reading room, 13 January 2023, reported by The War Zone",
 "url": null
 },
 "text": "Navy range fouler documentation on the 14 Nov 2004 incident names the F/A-18 aircrew as including Commander David Fravor and Lt. Cmdr. Alex Dietrich.",
+"tier": 1
+},
+{
+"cls": "person",
+"cluster": "witness",
+"denied": false,
+"label": "Alex Dietrich",
+"node": "alex-dietrich",
+"open": false,
+"source": {
+"domain": "www.colorado.edu",
+"text": "https://www.colorado.edu/emp/people/alex-dietrich , opened 2026-09-18",
+"url": "https://www.colorado.edu/emp/people/alex-dietrich"
+},
+"text": "The University of Colorado Boulder publishes her as a Lecturer in its Lockheed Martin Engineering Management Program, previously an adjunct instructor in the Engineering Leadership Program (2022) and Scholar in Residence to the Engineering Management Program (2023). The same page gives her career as a 20-year Naval career as an F/A-18F strike fighter pilot, with combat deployments supporting Operation Iraqi Freedom and Operation Enduring Freedom, a final yearlong assignment as an infrastructure reconstruction engineer in Ghazni, Afghanistan, and a Bronze Star and Air Combat Medal. Prior teaching posts: Naval Science instructor across a Washington DC consortium of Georgetown, George Washington, Howard and Catholic universities, and Military Professor at the US Naval Academy, Department of Leadership, Ethics and Law. Education: BS Civil Engineering, George Washington University; Defense Language Institute certification in Dari; MBA, GW School of Business. This is an employer's published biography of its own lecturer, not a service record.",
 "tier": 1
 },
 {
@@ -17077,11 +17137,101 @@
 "node": "david-fravor",
 "open": false,
 "source": {
+"domain": "www.govinfo.gov",
+"text": "Serial No. 118-53, https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm , 2023-07-26",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm"
+},
+"text": "Asked by Rep. Langworthy 'is it true that you saw, in your words, a 40-foot flying Tic Tac shaped object?', he answered under oath: 'That is correct. For some people that cannot--know what a Tic Tac is it is a giant flying propane tank.'",
+"tier": 1
+},
+{
+"cls": "person",
+"cluster": "other",
+"denied": false,
+"label": "David Fravor",
+"node": "david-fravor",
+"open": false,
+"source": {
+"domain": "docs.house.gov",
+"text": "HHRG-118-GO06-Bio-FravorD-20230726.pdf, http://docs.house.gov/meetings/GO/GO06/20230726/116282/HHRG-118-GO06-Bio-FravorD-20230726.pdf , 2023-07-26",
+"url": "http://docs.house.gov/meetings/GO/GO06/20230726/116282/HHRG-118-GO06-Bio-FravorD-20230726.pdf"
+},
+"text": "The biography Fravor filed with the subcommittee for the 26 July 2023 hearing, held in the House Committee Repository under event 116282, reads in full: 'David Fravor is a retired naval pilot and Commander of VFA-41 also known as The Black Aces. He is one of the primary witness in the 2004 USS Nimitz UFO incident. He was featured in the 2008 PBS documentary Carrier and has been interviewed on Joe Rogan's podcast The Joe Rogan Experience. Fravor joined the military at the age of 17. He has a career spanning 24 years, 18 of which was as a Navy pilot. He had completed five tours to the Persian Gulf starting after Operation Desert Storm. He commanded a squadron of 12 airplanes consisting of 330 people. Fravor retired in 2006.' The grammatical slip 'one of the primary witness' is in the original. This is a document filed with a committee and held in its repository, which is what makes it Tier 1. It is a witness-supplied biography, not a Navy service record.",
+"tier": 1
+},
+{
+"cls": "person",
+"cluster": "other",
+"denied": false,
+"label": "David Fravor",
+"node": "david-fravor",
+"open": false,
+"source": {
+"domain": "www.govinfo.gov",
+"text": "Serial No. 118-53, https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm , 2023-07-26",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm"
+},
+"text": "The testimony was sworn, and the printed record carries the mechanism. Chairman Grothman: 'Pursuant to Committee Rule 9(g), the witnesses will please stand and raise their right hands. Do you solemnly swear to tell the truth, the whole truth, and nothing but the truth, so help you God? [Witnesses are sworn.] Mr. Grothman. Let the record show that all the witnesses answered in the affirmative.'",
+"tier": 1
+},
+{
+"cls": "person",
+"cluster": "other",
+"denied": false,
+"label": "David Fravor",
+"node": "david-fravor",
+"open": false,
+"source": {
 "domain": null,
 "text": "David Fravor, written statement to House Oversight, 26 July 2023",
 "url": null
 },
 "text": "USS Princeton had been tracking the objects on Aegis for two weeks, descending from above 80,000 ft to 20,000 ft.",
+"tier": 1
+},
+{
+"cls": "person",
+"cluster": "other",
+"denied": false,
+"label": "David Fravor",
+"node": "david-fravor",
+"open": false,
+"source": {
+"domain": "www.govinfo.gov",
+"text": "Serial No. 118-53, https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm , 2023-07-26",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm"
+},
+"text": "Under oath he gave the chain by which the case reached investigators and then the public: 'It was not until 2009, until Jay Stratton had contacted me to investigate. Unbeknownst to all, he was part of the ATIP program in the Pentagon led by Lue Elizondo. There was an unofficial official report that came out that is now on the internet. Years later, I was contacted by the other pilot, Alex Dietrich, and asked if I would been contacted and I said no, but I am willing to talk. I was contacted by Mr. Elizondo, and we talked for a short period of time.' This is the provenance chain in the words of the witness, under oath.",
+"tier": 1
+},
+{
+"cls": "person",
+"cluster": "other",
+"denied": false,
+"label": "David Fravor",
+"node": "david-fravor",
+"open": false,
+"source": {
+"domain": "www.govinfo.gov",
+"text": "Serial No. 118-53, https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm , 2023-07-26",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm"
+},
+"text": "Under oath he gave the radar picture of the 14 November 2004 intercept, in answer to Rep. Langworthy: 'The Princeton tracked it. The Nimitz tracked it. The E2 tracked it. We never saw it on our radars. Our fire control radars never picked it up. The other airplane that took the video did get it on a radar. As soon as it tried to lock it, it jammed the radar, spit the lock and he rapidly switched over to the targeting pod, which you can do in the F-18.'",
+"tier": 1
+},
+{
+"cls": "person",
+"cluster": "other",
+"denied": false,
+"label": "David Fravor",
+"node": "david-fravor",
+"open": false,
+"source": {
+"domain": "www.govinfo.gov",
+"text": "Serial No. 118-53, https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm , 2023-07-26",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm"
+},
+"text": "Under oath he gave the reason the aircrew were airborne at all: 'We were at a work up with all the battle groups. So, we integrate the ships with the carrier, the airwing with the carrier, and we start working. So, we were doing an air to air defense to hone not only our skills but those of the USS Princeton when they had been tracking them for 2 weeks. The problem was that there was never manned aircraft airborne when they were tracking them and this was the first day and, unfortunately, we were the ones airborne and went and saw it.'",
 "tier": 1
 },
 {
@@ -34593,6 +34743,51 @@
 "cls": "event",
 "cluster": "other",
 "denied": false,
+"label": "House Intelligence subcommittee hearing, 17 May 2022: 'Unidentified Aerial Phenomena'",
+"node": "hearing-2022-05-17",
+"open": false,
+"source": {
+"domain": "www.congress.gov",
+"text": "HHRG-117-IG05-Transcript-20220517, https://www.congress.gov/117/meeting/house/114761/documents/HHRG-117-IG05-Transcript-20220517.pdf , 2022-05-17",
+"url": "https://www.congress.gov/117/meeting/house/114761/documents/HHRG-117-IG05-Transcript-20220517.pdf"
+},
+"text": "Carson put the organisational status question to the witnesses on the record: 'First, we need you to update us on the status of AOIMSG. The legislation creating it was passed in December. The deadline for implementation is fast approaching, but the group does not even have a named director.'",
+"tier": 1
+},
+{
+"cls": "event",
+"cluster": "other",
+"denied": false,
+"label": "House Intelligence subcommittee hearing, 17 May 2022: 'Unidentified Aerial Phenomena'",
+"node": "hearing-2022-05-17",
+"open": false,
+"source": {
+"domain": "www.congress.gov",
+"text": "HHRG-117-IG05-Transcript-20220517, https://www.congress.gov/117/meeting/house/114761/documents/HHRG-117-IG05-Transcript-20220517.pdf , 2022-05-17",
+"url": "https://www.congress.gov/117/meeting/house/114761/documents/HHRG-117-IG05-Transcript-20220517.pdf"
+},
+"text": "Carson stated the hearing's premise on the record: 'More than 50 years ago, the U.S. Government ended Project Blue Book... In 2017, we learned for the first time that the Department of Defense had quietly restarted a similar organization, tracking what we now call unidentified aerial phenomena, or UAPs. Last year Congress rewrote the charter for that organization, now called the Airborne Object Identification and Management Synchronization Group, or AOIMSG for short. Today we will bring that organization out of the shadows.'",
+"tier": 1
+},
+{
+"cls": "event",
+"cluster": "other",
+"denied": false,
+"label": "House Intelligence subcommittee hearing, 17 May 2022: 'Unidentified Aerial Phenomena'",
+"node": "hearing-2022-05-17",
+"open": false,
+"source": {
+"domain": "www.congress.gov",
+"text": "HHRG-117-IG05-Transcript-20220517, https://www.congress.gov/117/meeting/house/114761/documents/HHRG-117-IG05-Transcript-20220517.pdf , 2022-05-17",
+"url": "https://www.congress.gov/117/meeting/house/114761/documents/HHRG-117-IG05-Transcript-20220517.pdf"
+},
+"text": "The transcript's own caption block reads: 'UNIDENTIFIED AERIAL PHENOMENA / Tuesday, May 17, 2022 / U.S. House of Representatives, / Permanent Select Committee on Intelligence, / Subcommittee on Counterterrorism, Counterintelligence, / and Counterproliferation, / Washington, D.C.' It records that 'The subcommittee met, pursuant to call, at 9:00 a.m., in Room HVC-210, Capitol Visitor Center, the Hon. Andre Carson [chairman of the subcommittee] presiding', with Representatives Carson, Schiff, Welch, Himes, Krishnamoorthi, Wenstrup, Crawford, Gallagher, Mullin and LaHood present.",
+"tier": 1
+},
+{
+"cls": "event",
+"cluster": "other",
+"denied": false,
 "label": "Senate Armed Services Emerging Threats subcommittee hearing, 19 April 2023 - 'The Mission, Activities, Oversight, and Budget of the All-Domain Anomaly Resolution Office'",
 "node": "hearing-2023-04-19",
 "open": false,
@@ -40768,6 +40963,81 @@
 },
 "text": "Providakes served as MITRE's president and CEO from 2017 until Mark Peters succeeded him on 3 September 2024.",
 "tier": 1
+},
+{
+"cls": "person",
+"cluster": "witness",
+"denied": false,
+"label": "Jason Sands",
+"node": "jason-sands",
+"open": false,
+"source": {
+"domain": "briandunning.substack.com",
+"text": "https://briandunning.substack.com/p/new-ufo-whistleblower-jason-sands , 2024-05-13",
+"url": "https://briandunning.substack.com/p/new-ufo-whistleblower-jason-sands"
+},
+"text": "Brian Dunning, writing on 13 May 2024, gives an independent account of the same service: Air Force from 1985 to 2007, working in aircraft structural maintenance and then as an Electronic System Security Assessment specialist, retiring as a Master Sergeant, in a role involving 'collecting, analyzing, and processing Department of Defense telecommunications' and identifying 'critical information potentially compromised'. A named writer's dated account, not a personnel record.",
+"tier": 2
+},
+{
+"cls": "person",
+"cluster": "witness",
+"denied": false,
+"label": "Jason Sands",
+"node": "jason-sands",
+"open": false,
+"source": {
+"domain": "podcasts.happyscribe.com",
+"text": "Transcript host page, https://podcasts.happyscribe.com/the-joe-rogan-experience/2264-lenval-logan-jason-sands , opened 2026-09-18",
+"url": "https://podcasts.happyscribe.com/the-joe-rogan-experience/2264-lenval-logan-jason-sands"
+},
+"text": "On The Joe Rogan Experience #2264, appearing with Lenval Logan, Sands stated his service in his own words: 'I'm a retired master sergeant from the air Force. Worked 22 years, retired 2007. Started off as an airframe guy, ended up in intel.' A named man on a recording, self-reporting. The episode's publication date was not established from any page opened.",
+"tier": 2
+},
+{
+"cls": "person",
+"cluster": "witness",
+"denied": false,
+"label": "Jason Sands",
+"node": "jason-sands",
+"open": false,
+"source": {
+"domain": "briandunning.substack.com",
+"text": "https://briandunning.substack.com/p/new-ufo-whistleblower-jason-sands , 2024-05-13",
+"url": "https://briandunning.substack.com/p/new-ufo-whistleblower-jason-sands"
+},
+"text": "The disputing material, from the same named critic on the same date. Brian Dunning itemises Sands's claims as including that the Wilson-Davis memo is genuine, which Dunning calls an 'obviously hoaxed' document; that alien spacecraft use electromagnetic propulsion; that aliens cooperated in reverse-engineering programmes; that a 'blue alien species' exists with whom humans can communicate telepathically; that non-physical aliens assist intelligence programmes; and that underground bases house aliens and that time travel and remote viewing are real. Dunning further states that Sands initially claimed involvement with the Navy's UAP Task Force and later contradicted himself, and that Sands has not run into any trouble violating DoD confidentiality protocols.",
+"tier": 2
+},
+{
+"cls": "person",
+"cluster": "witness",
+"denied": false,
+"label": "Jason Sands",
+"node": "jason-sands",
+"open": false,
+"source": {
+"domain": null,
+"text": "stated inference from the Joe Rogan Experience transcript and the Dunning piece",
+"url": null
+},
+"text": "The two accounts above agree on rank, on end date and on length of service, and 1985 to 2007 is 22 years. That is weak convergence on the service claim only, from two sources with no shared method, and it is not a service record. Nothing else about him converges at all.",
+"tier": 3
+},
+{
+"cls": "person",
+"cluster": "witness",
+"denied": false,
+"label": "Jason Sands",
+"node": "jason-sands",
+"open": false,
+"source": {
+"domain": null,
+"text": "stated inference; the committee witness lists were opened 2026-09-18 and do not name him",
+"url": null
+},
+"text": "The two attributes most often used to make Sands significant, that he appears in James Fox's documentary 'The Program' and that he gave testimony to Congress, the ICIG or AARO, are NOT established by any opened record. The film was not viewed and the one trade report on it was behind a paywall gateway. No congressional witness list names him. This claim exists to stop those attributes entering the board by repetition.",
+"tier": 3
 },
 {
 "cls": "person",
@@ -49753,6 +50023,126 @@
 },
 "text": "Recommends NASA work with the FAA to establish civilian pilot UAP reporting procedures and leverage the Aviation Safety Reporting System.",
 "tier": 2
+},
+{
+"cls": "person",
+"cluster": "witness",
+"denied": false,
+"label": "Michael Herrera",
+"node": "michael-herrera",
+"open": false,
+"source": {
+"domain": "documents2.theblackvault.com",
+"text": "AARO Historical Record Report Volume I, p. 29, https://documents2.theblackvault.com/documents/dod/AARO_Historical_Record_Report_Volume_1_2024.pdf , 2024-02",
+"url": "https://documents2.theblackvault.com/documents/dod/AARO_Historical_Record_Report_Volume_1_2024.pdf"
+},
+"text": "AARO's 'Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP), Volume I', February 2024, carries at page 29, in Section V 'Assessment of Interviewee Claims of USG Involvement in Hidden UAP Programs', this sentence: 'An interviewee who is a former U.S. service member said that in 2009, while participating in a humanitarian and security mission in a foreign country, he encountered U.S. Special Forces loading containers onto a large extraterrestrial spacecraft.' The sentence is AARO's summary of an interview, not a quotation of the interviewee, and it names nobody.",
+"tier": 1
+},
+{
+"cls": "person",
+"cluster": "witness",
+"denied": false,
+"label": "Michael Herrera",
+"node": "michael-herrera",
+"open": false,
+"source": {
+"domain": "docs.house.gov",
+"text": "https://docs.house.gov/Committee/Calendar/ByEvent.aspx?EventID=116282 , https://docs.house.gov/Committee/Calendar/ByEvent.aspx?EventId=117722 , https://oversight.house.gov/hearing/restoring-public-trust-through-uap-transparency-and-whistleblower-protection/ , all opened 2026-09-18",
+"url": "https://docs.house.gov/Committee/Calendar/ByEvent.aspx?EventID=116282"
+},
+"text": "He is on no congressional witness list. The committee-published witness lists for 26 July 2023 (event 116282), 13 November 2024 (event 117722) and 9 September 2025 name him nowhere, and the printed records of all three hearings contain his name exactly once in total, in the Burlison colloquy.",
+"tier": 1
+},
+{
+"cls": "person",
+"cluster": "witness",
+"denied": false,
+"label": "Michael Herrera",
+"node": "michael-herrera",
+"open": false,
+"source": {
+"domain": "www.press.org",
+"text": "https://www.press.org/events/ufouap-disclosure-press-conference , opened 2026-09-18",
+"url": "https://www.press.org/events/ufouap-disclosure-press-conference"
+},
+"text": "The National Press Club's own events listing carries 'UFO/UAP Disclosure Press Conference', 12 June 2023, 2:00 PM, in the Club's Ballroom, with the disclaimer 'This event is not sponsored or endorsed by The National Press Club'. Steven Greer is the only named presenter and Michael Herrera is not named on the listing. This matters because that event is widely given as the venue of his first public statement; the venue's own record neither confirms nor denies his presence, it simply does not name him.",
+"tier": 1
+},
+{
+"cls": "person",
+"cluster": "witness",
+"denied": false,
+"label": "Michael Herrera",
+"node": "michael-herrera",
+"open": false,
+"source": {
+"domain": "www.govinfo.gov",
+"text": "Serial CHRG-119hhrg61718, https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm , 2025-09-09",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm"
+},
+"text": "The printed record of the House Oversight Task Force on the Declassification of Federal Secrets hearing of 9 September 2025 carries this colloquy. Rep. Eric Burlison: 'Madam Chair, I also have further witnesses of courageous individuals. It was given to me by Dr. Steven Greer, including Michael Herrera and his testimony. We have Roderick Castle and his testimony; Randy Anderson, his testimony; Steven Digna, and others, three others, all saying similar things to what the witnesses today have said, and I would like to enter that into the record as well.' Chairwoman Luna: 'No objection.' What this documents is that a member moved a document about him into a hearing record and sourced it to Steven Greer. It does not document that he testified, was sworn, or appeared.",
+"tier": 1
+},
+{
+"cls": "person",
+"cluster": "witness",
+"denied": false,
+"label": "Michael Herrera",
+"node": "michael-herrera",
+"open": false,
+"source": {
+"domain": "documents2.theblackvault.com",
+"text": "AARO Historical Record Report Volume I, p. 28, https://documents2.theblackvault.com/documents/dod/AARO_Historical_Record_Report_Volume_1_2024.pdf , 2024-02",
+"url": "https://documents2.theblackvault.com/documents/dod/AARO_Historical_Record_Report_Volume_1_2024.pdf"
+},
+"text": "The same report states the anonymisation rule that is why the page 29 sentence names nobody: 'AARO generated random numbers and assigned one to each interviewee. AARO maintains the key, which is stored and handled in a secure manner to protect each interviewee's privacy.' It also gives the scale and the tiering: 'As of September 17, 2023, AARO interviewed approximately 30 individuals', with Tier 1 interviewees being 'those who have spoken with congressional staff or Members of Congress and have been subsequently referred to AARO'.",
+"tier": 1
+},
+{
+"cls": "person",
+"cluster": "witness",
+"denied": false,
+"label": "Michael Herrera",
+"node": "michael-herrera",
+"open": false,
+"source": {
+"domain": null,
+"text": "Shawn Ryan Show #66 part 1, YouTube video id 3zm4nh3S66I, 2023-07-17, opened 2026-09-18",
+"url": null
+},
+"text": "His own account is on the public record in a dated artefact: 'Michael Herrera - US Marine Encounters UFO Black Ops Human Trafficking Operation | SRS #66 (Part 1)', Shawn Ryan Show, premiered 17 July 2023, runtime 1:26:50. The channel's own description reads: 'Former Marine Michael Herrera tells all in part one of this three part series. Herrera and his team were tasked with responding to a major earthquake and tsunami in Indonesia providing overwatch and logistical support. Little did they know--they would come face to face with a UAP / UFO and be ambushed by an unmarked shadow unit of operators.' This is a man saying a thing on a dated recording, and nothing more.",
+"tier": 2
+},
+{
+"cls": "person",
+"cluster": "witness",
+"denied": false,
+"label": "Michael Herrera",
+"node": "michael-herrera",
+"open": false,
+"source": {
+"domain": null,
+"text": "stated inference from the committee witness lists and the Shawn Ryan Show description",
+"url": null
+},
+"text": "The Shawn Ryan Show description's phrase 'how he is testifying to Congress' is not supported by any opened record. He has never been a hearing witness. Whether he was interviewed in a closed congressional setting is a separate question that has not been reached, and the promotional phrasing should not be read as establishing either.",
+"tier": 3
+},
+{
+"cls": "person",
+"cluster": "witness",
+"denied": false,
+"label": "Michael Herrera",
+"node": "michael-herrera",
+"open": false,
+"source": {
+"domain": null,
+"text": "stated inference from the AARO Volume I page 29 summary and his Shawn Ryan Show account",
+"url": null
+},
+"text": "The identification of AARO's page 29 interviewee as Michael Herrera is an INFERENCE and this node carries it as one. It matches his public account on year, on mission type and on the described scene. No opened record makes the link, AARO names nobody, and Herrera is not named anywhere in the report.",
+"tier": 3
 },
 {
 "cls": "person",
@@ -64425,6 +64815,21 @@
 "tier": 1
 },
 {
+"cls": "person",
+"cluster": "ic",
+"denied": false,
+"label": "Ronald S. Moultrie",
+"node": "ronald-moultrie",
+"open": false,
+"source": {
+"domain": "www.congress.gov",
+"text": "HHRG-117-IG05-Transcript-20220517, https://www.congress.gov/117/meeting/house/114761/documents/HHRG-117-IG05-Transcript-20220517.pdf , 2022-05-17",
+"url": "https://www.congress.gov/117/meeting/house/114761/documents/HHRG-117-IG05-Transcript-20220517.pdf"
+},
+"text": "Chairman Andre Carson addressed the two witnesses by name and title in his opening remarks at the 17 May 2022 hearing: 'Under Secretary Moultrie, Mr. Bray, thank you for coming today.' Moultrie appeared as Under Secretary of Defense for Intelligence and Security.",
+"tier": 1
+},
+{
 "cls": "event",
 "cluster": "witness",
 "denied": false,
@@ -67033,6 +67438,21 @@
 },
 "text": "The Horten framing functions as a collection cover story: the requirements describe capabilities no flying wing possessed, and the same office had received the Twining memo five weeks earlier stating the phenomenon was real.",
 "tier": 3
+},
+{
+"cls": "person",
+"cluster": "ic",
+"denied": false,
+"label": "Scott W. Bray",
+"node": "scott-bray",
+"open": false,
+"source": {
+"domain": "www.congress.gov",
+"text": "HHRG-117-IG05-Transcript-20220517, https://www.congress.gov/117/meeting/house/114761/documents/HHRG-117-IG05-Transcript-20220517.pdf , 2022-05-17",
+"url": "https://www.congress.gov/117/meeting/house/114761/documents/HHRG-117-IG05-Transcript-20220517.pdf"
+},
+"text": "Chairman Andre Carson addressed the two witnesses by name and title in his opening remarks at the 17 May 2022 hearing: 'Under Secretary Moultrie, Mr. Bray, thank you for coming today.' Bray appeared as Deputy Director of Naval Intelligence.",
+"tier": 1
 },
 {
 "cls": "document",

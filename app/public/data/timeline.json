@@ -5621,6 +5621,17 @@
 "tier": "A"
 },
 {
+"date": "2022-05-17",
+"era": "3",
+"id": "tl-2022-05-17-hpsci-uap-hearing",
+"label": "First open congressional UAP hearing in over fifty years",
+"node": "hearing-2022-05-17",
+"precision": "day",
+"strand": "oversight",
+"text": "The House Permanent Select Committee on Intelligence, Subcommittee on Counterterrorism, Counterintelligence, and Counterproliferation met at 9:00 a.m. in Room HVC-210 with Rep. Andre Carson presiding, taking testimony from Under Secretary of Defense for Intelligence and Security Ronald S. Moultrie and Deputy Director of Naval Intelligence Scott W. Bray. Carson opened by saying the subcommittee would 'bring that organization out of the shadows', referring to AOIMSG.",
+"tier": "A"
+},
+{
 "date": "2022-05-24",
 "era": "3",
 "id": "st-2022-05-24",
@@ -6147,6 +6158,17 @@
 "strand": "program",
 "text": "'SA 797. Mr. SCHUMER (for himself, Mr. Rounds, Mr. Rubio, Mrs. Gillibrand, Mr. Young, and Mr. Heinrich) submitted an amendment intended to be proposed by him to the bill S. 2226 ... which was ordered to lie on the table.' The text is the Unidentified Anomalous Phenomena Disclosure Act of 2023, including the exercise of eminent domain over recovered technologies of unknown origin and biological evidence of non-human intelligence, and a nine-member Senate-confirmed Records Review Board.",
 "tier": "A"
+},
+{
+"date": "2023-07-17",
+"era": "3",
+"id": "tl-2023-07-17-herrera-srs",
+"label": "Michael Herrera's account enters the public record on a dated recording",
+"node": "michael-herrera",
+"precision": "day",
+"strand": "witness",
+"text": "'Michael Herrera - US Marine Encounters UFO Black Ops Human Trafficking Operation | SRS #66 (Part 1)' premiered on the Shawn Ryan Show, runtime 1:26:50. The artefact is dated and openable; the account within it is a man's own statement and nothing more.",
+"tier": "C"
 },
 {
 "date": "2023-07-20",
@@ -8325,6 +8347,17 @@
 "strand": "program",
 "text": "Chairwoman Anna Paulina Luna convenes 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection' in HVC-210 with witnesses Nuccetelli, Wiggins, Knapp, Borland and minority witness Spielberger. Rep. Crane submits a letter to the Secretary of Defense on the Grusch reprisal. Printed as Serial No. 119-44 (CHRG-119hhrg61718).",
 "tier": "A"
+},
+{
+"date": "2025-09-09",
+"era": "3",
+"id": "tl-2025-09-09-herrera-entered",
+"label": "Herrera's written testimony entered into a hearing record by motion, sourced to Steven Greer",
+"node": "michael-herrera",
+"precision": "day",
+"strand": "oversight",
+"text": "Rep. Eric Burlison moved into the record of the House Oversight Task Force hearing 'further witnesses of courageous individuals. It was given to me by Dr. Steven Greer, including Michael Herrera and his testimony', naming also Roderick Castle, Randy Anderson and Steven Digna. Chairwoman Luna: 'No objection.' He did not appear and was not sworn.",
+"tier": "C"
 },
 {
 "date": "2025-09-09",

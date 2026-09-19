@@ -52,7 +52,7 @@ Roles the board assigns it: retrieval, reverse-engineering, concealment, funding
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 14 of 1066, score 115). 48 connections, 1 of them custody/funding/programmatic, 17 official denials recorded against it. Axes C3/A3/D1.
+Re-graded A on a global pass (rank 14 of 1071, score 115). 48 connections, 1 of them custody/funding/programmatic, 17 official denials recorded against it. Axes C3/A3/D1.
 
 ### The claims on the record
 
@@ -140,7 +140,7 @@ Roles the board assigns it: concealment, retrieval, custody.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 12 of 1066, score 118). 42 connections, 7 of them custody/funding/programmatic, 7 official denials recorded against it. Axes C2/A3/D1.
+Re-graded A on a global pass (rank 12 of 1071, score 118). 42 connections, 7 of them custody/funding/programmatic, 7 official denials recorded against it. Axes C2/A3/D1.
 
 ### The claims on the record
 
@@ -219,7 +219,7 @@ Roles the board assigns it: concealment, custody, retrieval, disclosure.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 41 of 1066, score 86). 23 connections, 6 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C3/A3/D1.
+Re-graded A on a global pass (rank 41 of 1071, score 86). 23 connections, 6 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C3/A3/D1.
 
 ### The claims on the record
 
@@ -302,7 +302,7 @@ Roles the board assigns it: retrieval, concealment, custody.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 31 of 1066, score 93). 17 connections, 3 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C3/A2/D3.
+Re-graded A on a global pass (rank 31 of 1071, score 93). 17 connections, 3 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C3/A2/D3.
 
 ### The claims on the record
 
@@ -395,7 +395,7 @@ Roles the board assigns it: concealment, custody, oversight, retrieval.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 183 of 1066, score 45). 7 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D0.
+Re-graded B on a global pass (rank 184 of 1071, score 45). 7 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D0.
 
 ### The claims on the record
 
@@ -463,7 +463,7 @@ Roles the board assigns it: retrieval.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 59 of 1066, score 74). 6 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A0/D2.
+Re-graded A on a global pass (rank 59 of 1071, score 74). 6 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A0/D2.
 
 ### The claims on the record
 
@@ -549,7 +549,7 @@ Roles the board assigns it: retrieval, concealment, custody, research.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 238 of 1066, score 41). 9 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A1/D3.
+Re-graded B on a global pass (rank 239 of 1071, score 41). 9 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A1/D3.
 
 ### The claims on the record
 
@@ -633,7 +633,7 @@ Roles the board assigns it: concealment, custody, oversight, retrieval.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 158 of 1066, score 49). 6 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A1/D3.
+Re-graded A on a global pass (rank 159 of 1071, score 49). 6 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A1/D3.
 
 ### The claims on the record
 
@@ -715,7 +715,7 @@ Roles the board assigns it: retrieval, custody, research, disclosure.
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 736 of 1066, score 22). 6 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.
+Re-graded C on a global pass (rank 739 of 1071, score 22). 6 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.
 
 ### The claims on the record
 
@@ -751,7 +751,7 @@ Re-graded C on a global pass (rank 736 of 1066, score 22). 6 connections, 0 of t
 
 ## House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'
 
-House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection' is a event on the board; board tier A, named in sworn testimony or primary documents as directly inside the programme; dates 2025; axes C2 A1 D3; 22 connections; in the retrieval band.
+House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection' is a event on the board; board tier A, named in sworn testimony or primary documents as directly inside the programme; dates 2025; axes C2 A1 D3; 23 connections; in the retrieval band.
 
 In one line: congressional-hearings.
 
@@ -798,7 +798,7 @@ Roles the board assigns it: oversight, disclosure, custody, concealment, retriev
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 13 of 1066, score 116). 32 connections, 6 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A1/D3.
+Re-graded A on a global pass (rank 13 of 1071, score 117). 33 connections, 6 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A1/D3.
 
 ### The claims on the record
 
@@ -843,12 +843,12 @@ A further 23 claims sit on this node on the board and are not reproduced here.
 - House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection' comes in from **Dylan Borland** (person, board tier A), a witness-chain link at Tier 1 documented. The link reads: Testified before the House Oversight Task Force. Borland alleges blacklisting and clearance-record manipulation and states he filed complaints with AARO in March 2023 and the ICIG in August 2023. Sources: House Oversight - hearing page, 9 Sept 2025, https://oversight.house.gov/hearing/restoring-public-trust-through-uap-transparency-and-whistleblower-protection/, dated 2025-09-09; U.S. GPO, Hearing transcript, Serial No. 119-44 (CHRG-119hhrg61718), https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm, dated 2025-09-09; Dylan Borland, written testimony, House Oversight Task Force, https://oversight.house.gov/wp-content/uploads/2025/09/Borland-Written-Testimony.pdf, dated 2025-09-09; The Hill: Moskowitz accuses the US government of lying about UAP, https://thehill.com/homenews/house/5494075-moskowitz-demands-uap-transparency/, dated 2025-09-09; DefenseScoop - Military whistleblowers share new evidence of alleged UAP, https://defensescoop.com/2025/09/09/military-whistleblowers-share-new-evidence-alleged-uap-ufo-hearing/, dated 2025-09-09.
 - House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection' comes in from **Alexandro Wiggins** (person, board tier B), a programmatic link at Tier 1 documented. The link reads: sworn witness. Listed in the printed hearing record as a witness. Sources: CHRG-119hhrg61718, printed hearing transcript, 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection', Serial No. 119-44, https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/pdf/CHRG-119hhrg61718.pdf, dated 2025-09-09.
 - House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection' comes in from **Alexandro Wiggins** (person, board tier B), a witness-chain link at Tier 1 documented. The link reads: First active-duty Navy senior enlisted UAP witness before Congress. Wiggins appeared on the official witness list of the House Oversight Task Force on the Declassification of Federal Secrets on 9 September 2025 while still serving. Sources: House Oversight - hearing page, 9 Sept 2025, https://oversight.house.gov/hearing/restoring-public-trust-through-uap-transparency-and-whistleblower-protection/, dated 2025-09-09; House Oversight - Wiggins written statement (PDF), https://oversight.house.gov/wp-content/uploads/2025/09/Wiggins-Written-Statement.pdf, dated 2025-09-09; U.S. GPO, Hearing transcript, Serial No. 119-44 (CHRG-119hhrg61718), https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm, dated 2025-09-09; DefenseScoop - Military whistleblowers share new evidence of alleged UAP, https://defensescoop.com/2025/09/09/military-whistleblowers-share-new-evidence-alleged-uap-ufo-hearing/, dated 2025-09-09.
+- House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection' comes in from **Michael Herrera** (person, board tier B), a witness-chain link at Tier 1 documented. The link reads: Written testimony moved into the record by a member; NOT a witness appearance. HE IS NOT A WITNESS AT THIS HEARING AND THIS EDGE MUST NOT BE READ AS AN APPEARANCE. Rep. Eric Burlison moved a document about him into the record and the chair admitted it without objection. He is on no committee witness list for this or any other hearing. Sources: Serial CHRG-119hhrg61718, printed record of 9 September 2025, https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm, dated 2025-09-09.
 - House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection' comes in from **Jeffrey Nuccetelli** (person, board tier B), a programmatic link at Tier 1 documented. The link reads: sworn witness. Listed in the printed hearing record as a witness. Sources: CHRG-119hhrg61718, printed hearing transcript, 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection', Serial No. 119-44, https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/pdf/CHRG-119hhrg61718.pdf, dated 2025-09-09.
 - House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection' comes in from **Jeffrey Nuccetelli** (person, board tier B), a witness-chain link at Tier 1 documented. The link reads: Testified before the House Oversight Task Force. Nuccetelli described 2003-2005 incursions at Vandenberg AFB during NRO launches and asserted each was documented and reported up the chain. Sources: House Oversight - hearing page, 9 Sept 2025, https://oversight.house.gov/hearing/restoring-public-trust-through-uap-transparency-and-whistleblower-protection/, dated 2025-09-09; House Oversight - Nuccetelli written testimony (PDF), https://oversight.house.gov/wp-content/uploads/2025/09/Nuccetelli-Written-Testimony.pdf, dated 2025-09-09; U.S. GPO, Hearing transcript, Serial No. 119-44 (CHRG-119hhrg61718), https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm, dated 2025-09-09; DefenseScoop - Military whistleblowers share new evidence of alleged UAP, https://defensescoop.com/2025/09/09/military-whistleblowers-share-new-evidence-alleged-uap-ufo-hearing/, dated 2025-09-09.
 - House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection' comes in from **Task Force on the Declassification of Federal Secrets** (program, board tier C), a institutional link at Tier 1 documented. The link reads: Held the 9 September 2025 hearing. Serial No. 119-44, HVC-210. Sources: U.S. GPO, Hearing transcript, Serial No. 119-44 (CHRG-119hhrg61718), https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm, dated 2025-09-09; House Oversight Committee, hearing page: Restoring Public Trust Through UAP Transparency and Whistleblower Protection, https://oversight.house.gov/hearing/restoring-public-trust-through-uap-transparency-and-whistleblower-protection/, dated 2025-09-09.
-- House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection' comes in from **KLAS-TV (Las Vegas)** (institution, board tier C), a witness-chain link at Tier 1 documented. The link reads: Knapp testified as KLAS-TV chief investigative reporter. Knapp opened his sworn statement: 'I am George Knapp, chief investigative reporter at KLAS-TV in Las Vegas. I began my pursuit of this weird mystery way back in 1987, and for 38 years, I have always approached this as a news story. It is not a matter of faith or belief to me.' The witness list gives him as 'Mr. George Knapp, UAP Journalist'; Chairwoman Luna's introduction dates his arrival at KLAS to 1981 and the chief investigative reporter post to 1995. Sources: House Oversight Task Force on the Declassification of Federal Secrets hearing, 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection', 9 September 2025 (CHRG-119hhrg61718), https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm, dated 2025-09-09; https://oversight.house.gov/wp-content/uploads/2025/09/George-Knapp-Written-Testimony.pdf, https://oversight.house.gov/wp-content/uploads/2025/09/George-Knapp-Written-Testimony.pdf
 
-It carries 32 connections in total on the board.
+It carries 33 connections in total on the board.
 
 ## IAA FY2024 Sec. 1102, contractor turn-in of 'non-earth origin or exotic' UAP material
 
@@ -899,7 +899,7 @@ Roles the board assigns it: custody, retrieval, reverse-engineering, oversight, 
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 33 of 1066, score 91). 10 connections, 3 of them custody/funding/programmatic. Axes C3/A3/D3.
+Re-graded A on a global pass (rank 33 of 1071, score 91). 10 connections, 3 of them custody/funding/programmatic. Axes C3/A3/D3.
 
 ### The claims on the record
 

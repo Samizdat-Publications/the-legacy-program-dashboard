@@ -5265,6 +5265,17 @@ export const TIMELINE = [
     node: 'wilson-davis-memo'
   },
   {
+    id: 'tl-2022-05-17-hpsci-uap-hearing',
+    strand: 'oversight',
+    date: '2022-05-17',
+    precision: 'day',
+    tier: 'A',
+    node: 'hearing-2022-05-17',
+    label: 'First open congressional UAP hearing in over fifty years',
+    text: 'The House Permanent Select Committee on Intelligence, Subcommittee on Counterterrorism, Counterintelligence, and Counterproliferation met at 9:00 a.m. in Room HVC-210 with Rep. Andre Carson presiding, taking testimony from Under Secretary of Defense for Intelligence and Security Ronald S. Moultrie and Deputy Director of Naval Intelligence Scott W. Bray. Carson opened by saying the subcommittee would \'bring that organization out of the shadows\', referring to AOIMSG.',
+    source: 'HHRG-117-IG05-Transcript-20220517, https://www.congress.gov/117/meeting/house/114761/documents/HHRG-117-IG05-Transcript-20220517.pdf , 2022-05-17'
+  },
+  {
     id: 'st-2022-05-24',
     strand: 'oversight',
     date: '2022-05-24',
@@ -5764,6 +5775,17 @@ export const TIMELINE = [
     text: 'Schumer submits the UAP Disclosure Act of 2023 with Rounds, Rubio, Gillibrand, Young and Heinrich; the text prints at 169 Cong. Rec. S2953-S2959. Warner files S.Amdt. 666, the IAA carrying the contractor turn-in, the same day.',
     tier: 'A',
     node: 'samdt-797'
+  },
+  {
+    id: 'tl-2023-07-17-herrera-srs',
+    strand: 'witness',
+    date: '2023-07-17',
+    precision: 'day',
+    tier: 'C',
+    node: 'michael-herrera',
+    label: 'Michael Herrera\'s account enters the public record on a dated recording',
+    text: '\'Michael Herrera - US Marine Encounters UFO Black Ops Human Trafficking Operation | SRS #66 (Part 1)\' premiered on the Shawn Ryan Show, runtime 1:26:50. The artefact is dated and openable; the account within it is a man\'s own statement and nothing more.',
+    source: 'Shawn Ryan Show #66 part 1, YouTube video id 3zm4nh3S66I, 2023-07-17'
   },
   {
     id: 'ch-2023-07-20',
@@ -7874,6 +7896,17 @@ export const TIMELINE = [
     text: 'The House Oversight Committee holds \'Restoring Public Trust Through UAP Transparency and Whistleblower Protection\', following the reintroduction of the UAP Whistleblower Protection Act as H.R. 5060 on 29 August 2025. The 2025-2026 phase of the fight is procedural rather than revelatory.',
     tier: 1,
     node: 'd-legal'
+  },
+  {
+    id: 'tl-2025-09-09-herrera-entered',
+    strand: 'oversight',
+    date: '2025-09-09',
+    precision: 'day',
+    tier: 'C',
+    node: 'michael-herrera',
+    label: 'Herrera\'s written testimony entered into a hearing record by motion, sourced to Steven Greer',
+    text: 'Rep. Eric Burlison moved into the record of the House Oversight Task Force hearing \'further witnesses of courageous individuals. It was given to me by Dr. Steven Greer, including Michael Herrera and his testimony\', naming also Roderick Castle, Randy Anderson and Steven Digna. Chairwoman Luna: \'No objection.\' He did not appear and was not sworn.',
+    source: 'Serial CHRG-119hhrg61718, https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm , 2025-09-09'
   },
   {
     id: 't-2025-nofind',

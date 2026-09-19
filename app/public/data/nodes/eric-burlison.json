@@ -655,6 +655,27 @@
 "type": "investigative"
 },
 {
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "2025-09-09",
+"dateStart": "2025-09-09",
+"direction": "in",
+"edgeLabel": "The member who moved his written testimony into the hearing record",
+"id": "michael-herrera",
+"l0": false,
+"label": "Michael Herrera",
+"note": "Burlison is the member who made the motion on 9 September 2025, naming Herrera among several individuals whose testimony he entered.",
+"sources": [
+{
+"date": "2025-09-09",
+"name": "Serial CHRG-119hhrg61718, printed record of 9 September 2025",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm"
+}
+],
+"tier": "B",
+"type": "witness-chain"
+},
+{
 "claimTier": 2,
 "cls": "event",
 "dateEnd": null,
@@ -961,7 +982,7 @@
 "date": "2026-05-22",
 "dateEnd": null,
 "dateStart": "2026-05-22",
-"deg": 27,
+"deg": 28,
 "denials": [
 {
 "by": {
@@ -1111,7 +1132,7 @@
 "status": "active",
 "sub": "U.S. Rep. (R-MO-7); Oversight subcommittee chair; runs the FFRDC/contractor records investigation",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 30 of 1066, score 94). 29 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D3.",
+"tierRationale": "Re-graded A on a global pass (rank 30 of 1071, score 95). 30 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D3.",
 "timeline": [
 {
 "date": "2025-03-25",

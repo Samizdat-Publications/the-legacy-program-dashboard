@@ -67,6 +67,14 @@
   {
    "id": "yury-platov",
    "sources": 1
+  },
+  {
+   "id": "ronald-moultrie",
+   "sources": 1
+  },
+  {
+   "id": "scott-bray",
+   "sources": 1
   }
  ],
  "person_single_nonprimary_source": [
@@ -90,6 +98,12 @@
    "id": "yury-platov",
    "source": "https://web.archive.org/web/20101119234133/http://aforteanosla.com.ar/Colaboraciones/internacional/Mantle,%20Philip/Stonehill,%20Paul%20and%20Mantle,%20Philip.%20Setka%20an%20article.pdf"
   }
+ ],
+ "person_without_date": [
+  "michael-herrera",
+  "jason-sands",
+  "ronald-moultrie",
+  "scott-bray"
  ],
  "probable_duplicate_node": [
   {

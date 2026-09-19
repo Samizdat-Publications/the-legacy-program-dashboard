@@ -56,7 +56,7 @@ Roles the board assigns it: funding, custody, reverse-engineering, concealment.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 7 of 1066, score 151). 35 connections, 19 of them custody/funding/programmatic, 5 official denials recorded against it. Axes C3/A3/D1.
+Re-graded A on a global pass (rank 7 of 1071, score 151). 35 connections, 19 of them custody/funding/programmatic, 5 official denials recorded against it. Axes C3/A3/D1.
 
 ### The claims on the record
 
@@ -153,7 +153,7 @@ Roles the board assigns it: reverse-engineering, concealment, funding, research.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 82 of 1066, score 67). 10 connections, 7 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D3.
+Re-graded A on a global pass (rank 82 of 1071, score 67). 10 connections, 7 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D3.
 
 ### The claims on the record
 
@@ -233,7 +233,7 @@ Roles the board assigns it: custody, reverse-engineering, concealment.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 28 of 1066, score 99). 30 connections, 8 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C3/A3/D0.
+Re-graded A on a global pass (rank 28 of 1071, score 99). 30 connections, 8 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C3/A3/D0.
 
 ### The claims on the record
 
@@ -324,7 +324,7 @@ Roles the board assigns it: custody, concealment, reverse-engineering.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 49 of 1066, score 80). 21 connections, 6 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C3/A3/D0.
+Re-graded A on a global pass (rank 49 of 1071, score 80). 21 connections, 6 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C3/A3/D0.
 
 ### The claims on the record
 
@@ -413,7 +413,7 @@ Roles the board assigns it: reverse-engineering, research, custody, disclosure.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 80 of 1066, score 68). 14 connections, 2 of them custody/funding/programmatic. Axes C3/A2/D3.
+Re-graded A on a global pass (rank 80 of 1071, score 68). 14 connections, 2 of them custody/funding/programmatic. Axes C3/A2/D3.
 
 ### The claims on the record
 
@@ -481,7 +481,7 @@ Roles the board assigns it: reverse-engineering, disclosure, research.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 299 of 1066, score 37). 7 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D3.
+Re-graded B on a global pass (rank 300 of 1071, score 37). 7 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D3.
 
 ### The claims on the record
 
@@ -560,7 +560,7 @@ Roles the board assigns it: funding, reverse-engineering, custody, disclosure.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 2 of 1066, score 174). 61 connections, 53 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A3/D3.
+Re-graded A on a global pass (rank 2 of 1071, score 174). 61 connections, 53 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A3/D3.
 
 ### The claims on the record
 
@@ -657,7 +657,7 @@ Roles the board assigns it: research, reverse-engineering, funding, custody, con
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 15 of 1066, score 113). 21 connections, 11 of them custody/funding/programmatic. Axes C3/A2/D2.
+Re-graded A on a global pass (rank 15 of 1071, score 113). 21 connections, 11 of them custody/funding/programmatic. Axes C3/A2/D2.
 
 ### The claims on the record
 
@@ -754,7 +754,7 @@ Roles the board assigns it: research, funding, reverse-engineering, concealment,
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 20 of 1066, score 108). 16 connections, 6 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C3/A3/D3.
+Re-graded A on a global pass (rank 20 of 1071, score 108). 16 connections, 6 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C3/A3/D3.
 
 ### The claims on the record
 
@@ -855,7 +855,7 @@ Roles the board assigns it: reverse-engineering, custody, concealment, funding, 
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 10 of 1066, score 122). 16 connections, 9 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C3/A3/D3.
+Re-graded A on a global pass (rank 10 of 1071, score 122). 16 connections, 9 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C3/A3/D3.
 
 ### The claims on the record
 
@@ -953,7 +953,7 @@ Roles the board assigns it: reverse-engineering, concealment, oversight, custody
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 65 of 1066, score 72). 10 connections, 3 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C3/A3/D3.
+Re-graded A on a global pass (rank 65 of 1071, score 72). 10 connections, 3 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C3/A3/D3.
 
 ### The claims on the record
 
@@ -1041,7 +1041,7 @@ Roles the board assigns it: disclosure, custody, reverse-engineering.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 51 of 1066, score 78). 18 connections, 4 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A2/D3.
+Re-graded A on a global pass (rank 51 of 1071, score 78). 18 connections, 4 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A2/D3.
 
 ### The claims on the record
 
@@ -1140,7 +1140,7 @@ Roles the board assigns it: reverse-engineering, custody, research, concealment.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 92 of 1066, score 64). 11 connections, 5 of them custody/funding/programmatic. Axes C3/A1/D3.
+Re-graded A on a global pass (rank 92 of 1071, score 64). 11 connections, 5 of them custody/funding/programmatic. Axes C3/A1/D3.
 
 ### The claims on the record
 
@@ -1229,7 +1229,7 @@ Roles the board assigns it: oversight, disclosure, research, reverse-engineering
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 206 of 1066, score 43). 8 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D2.
+Re-graded B on a global pass (rank 207 of 1071, score 43). 8 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D2.
 
 ### The claims on the record
 
@@ -1314,7 +1314,7 @@ Roles the board assigns it: custody, reverse-engineering, research, disclosure.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 73 of 1066, score 69). 8 connections, 7 of them custody/funding/programmatic. Axes C3/A1/D2.
+Re-graded A on a global pass (rank 73 of 1071, score 69). 8 connections, 7 of them custody/funding/programmatic. Axes C3/A1/D2.
 
 ### The claims on the record
 
@@ -1400,7 +1400,7 @@ Roles the board assigns it: reverse-engineering, disclosure.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 9 of 1066, score 122). 41 connections, 38 of them custody/funding/programmatic. Axes C0/A0/D0.
+Re-graded A on a global pass (rank 9 of 1071, score 122). 41 connections, 38 of them custody/funding/programmatic. Axes C0/A0/D0.
 
 ### The claims on the record
 

@@ -2232,6 +2232,69 @@
   "gap": "AARO's VOLUME II HISTORICAL RECORD REPORT WAS NOT LOCATED IN THIS PASS. Volume I (February 2024) is cited throughout. NDAA FY2025 Section 6802 sunsets the audit requirements attached to the historical record report, which suggests the reporting obligation's status changed after 2024; the current state of Volume II and of the sunset's effect should be established directly from AARO and from P.L. 118-159's full text before any claim is made about it."
  },
  {
+  "domain": "witnesses-2026-09-18",
+  "gap": {
+   "id": "gap-herrera-service-record",
+   "text": "No service record, DD-214 or unit assignment for Michael Herrera was opened. His Marine Corps service and his presence on the 2009 Indonesian humanitarian mission are self-stated. A personnel or unit record would move several claims on that node from Tier 2 to Tier 1, or refute them."
+  }
+ },
+ {
+  "domain": "witnesses-2026-09-18",
+  "gap": {
+   "id": "gap-herrera-aaro-memorandum",
+   "text": "The 'Memorandum for Record' Michael Herrera says he obtained from AARO was NOT OPENED. Only a search-engine paraphrase of a social-media post describing it was found. If genuine and openable it would bear directly on the Tier 3 identification of him with the AARO Volume I page 29 interviewee."
+  }
+ },
+ {
+  "domain": "witnesses-2026-09-18",
+  "gap": {
+   "id": "gap-jre-2264-date",
+   "text": "The publication date of The Joe Rogan Experience #2264 with Lenval Logan and Jason Sands was not established from any opened page, so the Sands service claim has no dated artefact of its own beyond the Dunning piece of 13 May 2024."
+  }
+ },
+ {
+  "domain": "witnesses-2026-09-18",
+  "gap": {
+   "id": "gap-jason-sands-primary",
+   "text": "NOT ONE primary record about Jason Sands was opened: no personnel record, no filed document, no official mention. Every claim on that node is Tier 2 or Tier 3 and the node is built on that basis."
+  }
+ },
+ {
+  "domain": "witnesses-2026-09-18",
+  "gap": {
+   "id": "gap-moultrie-bray-biography",
+   "text": "Neither Ronald Moultrie's nor Scott Bray's career, tenure dates or subsequent positions were researched. Both nodes carry only what the 17 May 2022 transcript establishes and are deliberately incomplete."
+  }
+ },
+ {
+  "domain": "witnesses-2026-09-18",
+  "gap": {
+   "id": "gap-2025-record-names",
+   "text": "Roderick Castle, Randy Anderson, Steven Digna and Matthew Brown are all named in the opened printed record of 9 September 2025 and none is on the board. None was researched. A node built from a single name in a member's remarks would be padding, so they are carried here by name as the next pass's candidates."
+  }
+ },
+ {
+  "domain": "witnesses-2026-09-18",
+  "gap": {
+   "id": "gap-senate-uap-hearings",
+   "text": "congress.gov returned HTTP 403 for both Senate hearing records during the roster sweep, so those roster rows rest on existing board nodes plus search metadata rather than on opened primaries."
+  }
+ },
+ {
+  "domain": "witnesses-2026-09-18",
+  "gap": {
+   "id": "gap-fravor-truth-in-testimony",
+   "text": "David Fravor's Truth in Testimony form for 26 July 2023 is an image-only scan and no OCR was available, so its contents are not carried."
+  }
+ },
+ {
+  "domain": "witnesses-2026-09-18",
+  "gap": {
+   "id": "gap-the-program-documentary",
+   "text": "James Fox's documentary 'The Program' was not viewed and the one trade report on it was behind a paywall gateway. No node is created for it and nothing here asserts who appears in it."
+  }
+ },
+ {
   "domain": "_stubs",
   "gap": "l-brasilia — structural stub, needs a real dossier"
  },

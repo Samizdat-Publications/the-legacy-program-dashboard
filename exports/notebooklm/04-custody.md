@@ -55,7 +55,7 @@ Roles the board assigns it: concealment, custody, oversight, disclosure.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 16 of 1066, score 113). 31 connections, 11 of them custody/funding/programmatic, 5 official denials recorded against it. Axes C1/A2/D2.
+Re-graded A on a global pass (rank 16 of 1071, score 113). 31 connections, 11 of them custody/funding/programmatic, 5 official denials recorded against it. Axes C1/A2/D2.
 
 ### The claims on the record
 
@@ -143,7 +143,7 @@ Roles the board assigns it: concealment, custody, oversight.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 34 of 1066, score 91). 28 connections, 0 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C3/A3/D2.
+Re-graded A on a global pass (rank 34 of 1071, score 91). 28 connections, 0 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C3/A3/D2.
 
 ### The claims on the record
 
@@ -226,7 +226,7 @@ Roles the board assigns it: custody, concealment, oversight.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 124 of 1066, score 55). 9 connections, 3 of them custody/funding/programmatic. Axes C2/A3/D1.
+Re-graded A on a global pass (rank 124 of 1071, score 55). 9 connections, 3 of them custody/funding/programmatic. Axes C2/A3/D1.
 
 ### The claims on the record
 
@@ -277,7 +277,7 @@ Roles the board assigns it: custody, concealment.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 328 of 1066, score 36). 6 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D1.
+Re-graded B on a global pass (rank 329 of 1071, score 36). 6 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D1.
 
 ### The claims on the record
 
@@ -345,7 +345,7 @@ Roles the board assigns it: concealment, oversight, custody.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 50 of 1066, score 78). 20 connections, 4 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C3/A3/D2.
+Re-graded A on a global pass (rank 50 of 1071, score 78). 20 connections, 4 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C3/A3/D2.
 
 ### The claims on the record
 
@@ -440,7 +440,7 @@ Roles the board assigns it: concealment, custody, oversight.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 151 of 1066, score 50). 7 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D3.
+Re-graded A on a global pass (rank 152 of 1071, score 50). 7 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D3.
 
 ### The claims on the record
 
@@ -507,7 +507,7 @@ Roles the board assigns it: disclosure, custody.
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 631 of 1066, score 25). 7 connections, 3 of them custody/funding/programmatic. Axes C0/A0/D3.
+Re-graded C on a global pass (rank 634 of 1071, score 25). 7 connections, 3 of them custody/funding/programmatic. Axes C0/A0/D3.
 
 ### The claims on the record
 
@@ -523,7 +523,7 @@ Re-graded C on a global pass (rank 631 of 1066, score 25). 7 connections, 3 of t
 - The Black Vault comes in from **Imperial Iranian Air Force F-4 intercepts, Tehran, 19-20 September 1976** (event, board tier B), a custody link at Tier 1 documented. The link reads: Host of the released report and its covering letter. The Black Vault hosts the released document and its covering letter. Sources: DIA Intelligence Information Report IR 6 846 0139 76, USDAO Tehran, with the DIA FOIA response U-80,597/PO/FOIA of 22 August 1996, hosted by The Black Vault, https://www.theblackvault.com/documents/ufos/1976iranincident.pdf, dated 1976-09-23.
 - The Black Vault runs out to **Los Angeles and Burbank, California** (location, board tier B), a investigative link at Tier 1 documented. The link reads: The Black Vault runs the private FOIA archive from Los Angeles. John Greenewald Jr.'s requests produced the GVSC/TTSA correspondence denial and much of the released AARO record. Sources: The Black Vault - Army/TTSA CRADA and FOIA records, https://www.theblackvault.com/documentarchive/u-s-army-releases-crada-with-to-the-stars-academy-of-arts-science/, dated 2019-10-18; CRADA between CCDC Ground Vehicle Systems Center and To The Stars Academy, CRADA No. 19-15 (released PDF), https://documents2.theblackvault.com/documents/army/TTSA-ARMY-CRADA.pdf, dated 2026-08-25.
 - The Black Vault comes in from **Operação Prato (Operation Saucer)** (program, board tier A), a custody link at Tier 2 named person on the record. The link reads: The American reporter's Prato dossier sits in Greenewald's archive. A file titled 'Operação Prato', written by the US journalist Bob Pratt, is served publicly in the MUFON/Pratt document set at documents.theblackvault.com. It opens: 'Operação Prato, a Brazilian Air Force investigation of a prolonged UFO flap in 1977-78'. It names Captain Uyrangê Hollanda and his six sergeants, names Brigadier Protázio Lopes de Oliveira as the Belém base commander who shut the operation down after four months, and describes the interviews of hundreds of witnesses in Colares and about thirty other villages. This is the concrete answer to whether Prato material reached US hands: it did, through a working reporter, and it is now in the same FOIA archive that carries the Elizondo and Grusch-era US paper. Sources: Bob Pratt, 'Operação Prato', MUFON/Pratt document set hosted by The Black Vault, https://documents.theblackvault.com/documents/MUFON/Pratt/prato.pdf; Operação Prato - Wikipedia, https://en.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Prato, dated 2026-01-01.
-- The Black Vault comes in from **Capitão Uyrangê Bolívar Soares Nogueira de Hollanda Lima** (person, board tier B), a witness-chain link at Tier 2 named person on the record. The link reads: Hollanda's account to an American reporter is preserved in the Pratt file. Basterfield records that Pratt 'visited Colares for the first time in February 1979, then twice after that. He interviewed Captain Uyrange Hollanda, who had led the official investigation in the Colares region. Pratt was later able to secure brief summaries of 281 incidents in Colares and surrounding areas, plus maps, and twenty photographs.' Hollanda told him his team 'took about three hundred photos and we photographed eight different types of UFOs.' Tier 2: the interview and the 281 summaries are reported by a named researcher quoting Pratt's 1996 book, and the Pratt file at The Black Vault is the surviving public artefact of that chain. Sources: Keith Basterfield, 'Investigative adventures in Brazil', Unidentified Anomalous Phenomena – scientific research, 22 July 2024, with update of 16 February 2025, https://ufos-scientificresearch.blogspot.com/2024/07/investigative-adventures-in-brazil.html; Bob Pratt, 'Operação Prato', MUFON/Pratt document set hosted by The Black Vault, https://documents.theblackvault.com/documents/MUFON/Pratt/prato.pdf; Operação Prato - Wikipedia, https://en.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Prato, dated 2026-01-01.
+- The Black Vault comes in from **Capitão Uyrangê Bolívar Soares Nogueira de Hollanda Lima** (person, board tier C), a witness-chain link at Tier 2 named person on the record. The link reads: Hollanda's account to an American reporter is preserved in the Pratt file. Basterfield records that Pratt 'visited Colares for the first time in February 1979, then twice after that. He interviewed Captain Uyrange Hollanda, who had led the official investigation in the Colares region. Pratt was later able to secure brief summaries of 281 incidents in Colares and surrounding areas, plus maps, and twenty photographs.' Hollanda told him his team 'took about three hundred photos and we photographed eight different types of UFOs.' Tier 2: the interview and the 281 summaries are reported by a named researcher quoting Pratt's 1996 book, and the Pratt file at The Black Vault is the surviving public artefact of that chain. Sources: Keith Basterfield, 'Investigative adventures in Brazil', Unidentified Anomalous Phenomena – scientific research, 22 July 2024, with update of 16 February 2025, https://ufos-scientificresearch.blogspot.com/2024/07/investigative-adventures-in-brazil.html; Bob Pratt, 'Operação Prato', MUFON/Pratt document set hosted by The Black Vault, https://documents.theblackvault.com/documents/MUFON/Pratt/prato.pdf; Operação Prato - Wikipedia, https://en.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Prato, dated 2026-01-01.
 
 ## MJ-12 / Operation Majestic-12 Documents
 
@@ -561,7 +561,7 @@ Roles the board assigns it: concealment, custody.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 249 of 1066, score 40). 6 connections, 3 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A1/D2.
+Re-graded B on a global pass (rank 250 of 1071, score 40). 6 connections, 3 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A1/D2.
 
 ### The claims on the record
 
@@ -631,7 +631,7 @@ Roles the board assigns it: concealment, disclosure, oversight, custody.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 93 of 1066, score 64). 21 connections, 5 of them custody/funding/programmatic. Axes C1/A1/D3.
+Re-graded A on a global pass (rank 93 of 1071, score 64). 21 connections, 5 of them custody/funding/programmatic. Axes C1/A1/D3.
 
 ### The claims on the record
 
@@ -661,13 +661,13 @@ Re-graded A on a global pass (rank 93 of 1066, score 64). 21 connections, 5 of t
 - USS Nimitz Carrier Strike Group Encounters, 10-16 November 2004 runs out to **New York Times, 'Glowing Auras and Black Money: The Pentagon's Mysterious U.F.O. Program'** (event, board tier A), a investigative link at Tier 1 documented. The link reads: The Nimitz footage was the visual centrepiece of the 2017 disclosure. The New York Times published the November 2004 footage alongside the AATIP revelation, converting a shelved incident into a national accountability story. Sources: The New York Times - Glowing Auras and Black Money, https://www.nytimes.com/2017/12/16/us/politics/pentagon-program-ufo-harry-reid.html, dated 2017-12-16.
 - USS Nimitz Carrier Strike Group Encounters, 10-16 November 2004 comes in from **ODNI Preliminary Assessment: Unidentified Aerial Phenomena (25 June 2021)** (document, board tier A), a institutional link at Tier 1 documented. The link reads: Assessment window opens with the Nimitz encounter. The assessment's date range begins November 2004 - the month of the Nimitz intercept - and it resolved only one of 144 reports with high confidence. Sources: ODNI Preliminary Assessment: Unidentified Aerial Phenomena (PDF), https://archive.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf, dated 2021-06-25.
 - USS Nimitz Carrier Strike Group Encounters, 10-16 November 2004 comes in from **FY2026 NDAA, Public Law 119-60 - secs. 1671-1673, NORAD/NORTHCOM intercept briefings and UAP classification-guide accounting** (legislation, board tier A), a temporal link at Tier 1 documented. The link reads: Congress set 1 January 2004 as the retroactive intercept floor. The first briefing under Sec. 1671 must cover intercepts 'during the period beginning on January 1, 2004', the year of the Nimitz encounters. Sources: P.L. 119-60, GPO, https://www.govinfo.gov/content/pkg/PLAW-119publ60/html/PLAW-119publ60.htm, dated 2025-12-18.
-- USS Nimitz Carrier Strike Group Encounters, 10-16 November 2004 comes in from **David Fravor** (person, board tier B), a witness-chain link at Tier 1 documented. The link reads: Intercepted the object as CO of VFA-41 on 14 Nov 2004. Fravor's sworn written statement to House Oversight places him as commanding officer of VFA-41 flying the intercept; the Navy's own range fouler report names him as aircrew. Sources: House Oversight - Fravor written statement (PDF), https://oversight.house.gov/wp-content/uploads/2023/07/David-Fravor-Statement-for-House-Oversight-Committee.pdf, dated 2023-07-26; The War Zone - Tic Tac incident in newly released range fouler reports, https://www.twz.com/tic-tac-uap-incident-included-in-72-newly-released-range-incursion-reports, dated 2023-01-14.
+- USS Nimitz Carrier Strike Group Encounters, 10-16 November 2004 comes in from **David Fravor** (person, board tier A), a witness-chain link at Tier 1 documented. The link reads: Intercepted the object as CO of VFA-41 on 14 Nov 2004. Fravor's sworn written statement to House Oversight places him as commanding officer of VFA-41 flying the intercept; the Navy's own range fouler report names him as aircrew. Sources: House Oversight - Fravor written statement (PDF), https://oversight.house.gov/wp-content/uploads/2023/07/David-Fravor-Statement-for-House-Oversight-Committee.pdf, dated 2023-07-26; The War Zone - Tic Tac incident in newly released range fouler reports, https://www.twz.com/tic-tac-uap-incident-included-in-72-newly-released-range-incursion-reports, dated 2023-01-14.
+- USS Nimitz Carrier Strike Group Encounters, 10-16 November 2004 comes in from **Alex Dietrich** (person, board tier B), a witness-chain link at Tier 1 documented. The link reads: Flew wing on the 14 Nov 2004 intercept; observed the object for about five minutes. Dietrich and her WSO observed the object from roughly 8,000 feet above for about five minutes. She is named in the Navy range fouler report released 12 January 2023. Sources: The War Zone - Tic Tac incident in newly released range fouler reports, https://www.twz.com/tic-tac-uap-incident-included-in-72-newly-released-range-incursion-reports, dated 2023-01-14; CBS News / 60 Minutes, https://www.cbsnews.com/news/ufo-military-intelligence-60-minutes-2021-05-16/, dated 2021-05-16.
 - USS Nimitz Carrier Strike Group Encounters, 10-16 November 2004 runs out to **Navy Range Fouler Reports (72 reports, 2004-2021)** (document, board tier B), a investigative link at Tier 1 documented. The link reads: The 2004 incident is formally documented in the Navy's own range fouler reporting. The January 2023 FOIA release proves the encounter was reported inside the Navy through intelligence personnel and then died at Third Fleet with no dissemination process. Sources: The War Zone - Tic Tac incident in newly released range fouler reports, https://www.twz.com/tic-tac-uap-incident-included-in-72-newly-released-range-incursion-reports, dated 2023-01-14.
 - USS Nimitz Carrier Strike Group Encounters, 10-16 November 2004 comes in from **USS Princeton (CG-59)** (institution, board tier B), a custody link at Tier 1 documented. The link reads: Generated the primary sensor record of the encounter; no such data has ever been released. Fravor testified Princeton tracked the objects on Aegis for two weeks. No Princeton radar or CEC data for 14 Nov 2004 has appeared in any release, and the range fouler report says reporting 'terminated at 3rd Fleet.' Sources: House Oversight - Fravor written statement (PDF), https://oversight.house.gov/wp-content/uploads/2023/07/David-Fravor-Statement-for-House-Oversight-Committee.pdf, dated 2023-07-26; The War Zone - Tic Tac incident in newly released range fouler reports, https://www.twz.com/tic-tac-uap-incident-included-in-72-newly-released-range-incursion-reports, dated 2023-01-14.
 - USS Nimitz Carrier Strike Group Encounters, 10-16 November 2004 comes in from **USS Princeton (CG-59)** (institution, board tier B), a institutional link at Tier 1 documented. The link reads: Princeton's SPY-1B held the tracks and vectored the intercept. Princeton had been observing the objects on Aegis for approximately two weeks, descending from above 80,000 ft to 20,000 ft, before vectoring the VFA-41 section. Sources: David Fravor written statement (PDF), https://oversight.house.gov/wp-content/uploads/2023/07/David-Fravor-Statement-for-House-Oversight-Committee.pdf, dated 2023-07-26.
 - USS Nimitz Carrier Strike Group Encounters, 10-16 November 2004 comes in from **FLIR1 (Nimitz ATFLIR video, 14 Nov 2004)** (document, board tier B), a custody link at Tier 1 documented. The link reads: Primary sensor artefact of the 2004 encounter, released by DoD in 2020. The video leaked in 2007, was published by the New York Times on 16 December 2017, and was formally released by DoD on 27 April 2020 with the objects 'characterized as unidentified'. Sources: DoD statement releasing the three Navy videos, https://www.war.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/, dated 2020-04-27; The New York Times - Glowing Auras and Black Money, https://www.nytimes.com/2017/12/16/us/politics/pentagon-program-ufo-harry-reid.html, dated 2017-12-16.
 - USS Nimitz Carrier Strike Group Encounters, 10-16 November 2004 comes in from **United States Navy** (institution, board tier C), a institutional link at Tier 1 documented. The link reads: Nimitz encounter was a Navy carrier strike group event; Navy released the FLIR video. The Department authorised release of three unclassified Navy videos, one from November 2004 and two from January 2015, stating that 'the U.S. Navy previously acknowledged that these videos circulating in the public domain were indeed Navy videos' and releasing them 'in order to clear up any misconceptions by the public on whether or not the footage that has been circulating was real'. The Department's own characterisation of what they show has not moved: 'The aerial phenomena observed in the videos remain characterized as unidentified.' Sources: Statement by the Department of Defense on the Release of Historical Navy Videos, 27 April 2020, https://www.war.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/, dated 2020-04-27; Department of Defense, 'Statement by the Department of Defense on the Release of Historical Navy Videos,' April 27, 2020 -- https://www.defense.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/; https://www.theblackvault.com/documentarchive/navy-officially-releases-ufo-uap-videos-calls-them-historical/, https://www.theblackvault.com/documentarchive/navy-officially-releases-ufo-uap-videos-calls-them-historical/
-- USS Nimitz Carrier Strike Group Encounters, 10-16 November 2004 comes in from **Alex Dietrich** (person, board tier C), a witness-chain link at Tier 1 documented. The link reads: Flew wing on the 14 Nov 2004 intercept; observed the object for about five minutes. Dietrich and her WSO observed the object from roughly 8,000 feet above for about five minutes. She is named in the Navy range fouler report released 12 January 2023. Sources: The War Zone - Tic Tac incident in newly released range fouler reports, https://www.twz.com/tic-tac-uap-incident-included-in-72-newly-released-range-incursion-reports, dated 2023-01-14; CBS News / 60 Minutes, https://www.cbsnews.com/news/ufo-military-intelligence-60-minutes-2021-05-16/, dated 2021-05-16.
 - USS Nimitz Carrier Strike Group Encounters, 10-16 November 2004 comes in from **July 2019 Drone Swarms, USS Kidd / USS Russell and CSG ships off California** (event, board tier C), a temporal link at Tier 1 documented. The link reads: Same operating areas, fifteen years apart, same failure to attribute. Both events occurred in the instrumented Southern California naval training space, both were documented in Navy records, and neither produced an attribution. Sources: The War Zone - destroyers swarmed off California, https://www.twz.com/39913/multiple-destroyers-were-swarmed-by-mysterious-drones-off-california-over-numerous-nights, dated 2021-05-23; The War Zone - Tic Tac incident in newly released range fouler reports, https://www.twz.com/tic-tac-uap-incident-included-in-72-newly-released-range-incursion-reports, dated 2023-01-14.
 - USS Nimitz Carrier Strike Group Encounters, 10-16 November 2004 runs out to **Southern California Operating Areas (W-291 and Baja approaches)** (location, board tier C), a geographic link at Tier 1 documented. The link reads: The encounters occurred in the Southern California operating areas. The Nimitz Carrier Strike Group was working up in the W-291 warning area and Baja approaches when Princeton began holding the tracks. Sources: David Fravor written statement (PDF), https://oversight.house.gov/wp-content/uploads/2023/07/David-Fravor-Statement-for-House-Oversight-Committee.pdf, dated 2023-07-26; The War Zone - Tic Tac incident in newly released range fouler reports, https://www.twz.com/tic-tac-uap-incident-included-in-72-newly-released-range-incursion-reports, dated 2023-01-13.
 - USS Nimitz Carrier Strike Group Encounters, 10-16 November 2004 comes in from **Knuth, Powell & Reali (2019), Entropy 21(10):939** (document, board tier C), a investigative link at Tier 1 documented. The link reads: Nimitz encounter analysed quantitatively in a peer-reviewed physics journal. A companion paper in the MaxEnt 2019 proceedings treated the Nimitz case specifically; this is the point at which the 2004 encounter entered the physics literature rather than the news cycle. Sources: Knuth, Powell & Reali, 'Estimating Flight Characteristics of Anomalous Unidentified Aerial Vehicles', Entropy 21(10):939, https://doi.org/10.3390/e21100939, dated 2019-09-25.
@@ -723,7 +723,7 @@ Roles the board assigns it: concealment, custody, disclosure, oversight.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 446 of 1066, score 31). 8 connections, 2 of them custody/funding/programmatic. Axes C0/A1/D3.
+Re-graded B on a global pass (rank 449 of 1071, score 31). 8 connections, 2 of them custody/funding/programmatic. Axes C0/A1/D3.
 
 ### The claims on the record
 
@@ -821,7 +821,7 @@ Roles the board assigns it: concealment, oversight, custody.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 185 of 1066, score 45). 7 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D2.
+Re-graded B on a global pass (rank 186 of 1071, score 45). 7 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D2.
 
 ### The claims on the record
 
@@ -881,7 +881,7 @@ Roles the board assigns it: disclosure, custody.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 219 of 1066, score 42). 6 connections, 1 of them custody/funding/programmatic. Axes C2/A2/D1.
+Re-graded B on a global pass (rank 220 of 1071, score 42). 6 connections, 1 of them custody/funding/programmatic. Axes C2/A2/D1.
 
 ### The claims on the record
 
@@ -950,7 +950,7 @@ Roles the board assigns it: concealment, oversight, custody, disclosure.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 3 of 1066, score 164). 64 connections, 6 of them custody/funding/programmatic, 11 official denials recorded against it. Axes C2/A3/D2.
+Re-graded A on a global pass (rank 3 of 1071, score 164). 64 connections, 6 of them custody/funding/programmatic, 11 official denials recorded against it. Axes C2/A3/D2.
 
 ### The claims on the record
 
@@ -1053,7 +1053,7 @@ Roles the board assigns it: disclosure, custody, concealment.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 4 of 1066, score 161). 47 connections, 11 of them custody/funding/programmatic, 6 official denials recorded against it. Axes C1/A3/D3.
+Re-graded A on a global pass (rank 4 of 1071, score 161). 47 connections, 11 of them custody/funding/programmatic, 6 official denials recorded against it. Axes C1/A3/D3.
 
 ### The claims on the record
 
@@ -1156,7 +1156,7 @@ Roles the board assigns it: oversight, disclosure, custody, concealment.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 8 of 1066, score 134). 26 connections, 8 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C3/A3/D3.
+Re-graded A on a global pass (rank 8 of 1071, score 134). 26 connections, 8 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C3/A3/D3.
 
 ### The claims on the record
 
@@ -1255,7 +1255,7 @@ Roles the board assigns it: disclosure, custody, oversight.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 36 of 1066, score 90). 13 connections, 2 of them custody/funding/programmatic, 7 official denials recorded against it. Axes C0/A1/D3.
+Re-graded A on a global pass (rank 36 of 1071, score 90). 13 connections, 2 of them custody/funding/programmatic, 7 official denials recorded against it. Axes C0/A1/D3.
 
 ### The claims on the record
 
@@ -1368,7 +1368,7 @@ Roles the board assigns it: custody, disclosure, concealment, oversight.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 75 of 1066, score 69). 9 connections, 3 of them custody/funding/programmatic. Axes C0/A0/D3.
+Re-graded A on a global pass (rank 75 of 1071, score 69). 9 connections, 3 of them custody/funding/programmatic. Axes C0/A0/D3.
 
 ### The claims on the record
 
@@ -1461,7 +1461,7 @@ Roles the board assigns it: disclosure, oversight, custody.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 232 of 1066, score 41). 9 connections, 0 of them custody/funding/programmatic. Axes C2/A2/D3.
+Re-graded B on a global pass (rank 233 of 1071, score 41). 9 connections, 0 of them custody/funding/programmatic. Axes C2/A2/D3.
 
 ### The claims on the record
 
@@ -1549,7 +1549,7 @@ Roles the board assigns it: disclosure, oversight, custody, concealment.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 63 of 1066, score 73). 10 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A2/D3.
+Re-graded A on a global pass (rank 63 of 1071, score 73). 10 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A2/D3.
 
 ### The claims on the record
 

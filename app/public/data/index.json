@@ -111,24 +111,24 @@
  ],
  "counts": {
   "claims": {
-   "1": 3387,
-   "2": 1466,
-   "3": 516
+   "1": 3407,
+   "2": 1470,
+   "3": 520
   },
-  "edges": 2491,
-  "entities": 753,
+  "edges": 2498,
+  "entities": 754,
   "foia": {
    "nodes": 42,
    "questions": 121,
    "requests": 17
   },
   "l0": 139,
-  "nodes": 1066,
+  "nodes": 1071,
   "patents": 5,
-  "people": 313,
+  "people": 317,
   "sheets": 11,
   "threads": 8,
-  "timeline": 931
+  "timeline": 934
  },
  "eras": [
   {
@@ -495,7 +495,7 @@
    "cluster": "other",
    "dateEnd": "2024",
    "dateStart": "2024",
-   "deg": 31,
+   "deg": 32,
    "era": "3",
    "hl": 4,
    "id": "aaro-historical-record-vol1",
@@ -911,7 +911,7 @@
    "label": "Adam Smith",
    "short": "Adam Smith",
    "status": "active",
-   "tier": "B"
+   "tier": "C"
   },
   {
    "A": 3,
@@ -1231,7 +1231,7 @@
    "D": 2,
    "band": null,
    "claims": [
-    1,
+    5,
     2,
     0
    ],
@@ -1247,7 +1247,7 @@
    "label": "Alex Dietrich",
    "short": "Alex Dietrich",
    "status": "active",
-   "tier": "C"
+   "tier": "B"
   },
   {
    "A": 1,
@@ -5551,7 +5551,7 @@
    "D": 3,
    "band": null,
    "claims": [
-    4,
+    10,
     1,
     0
    ],
@@ -5567,7 +5567,7 @@
    "label": "David Fravor",
    "short": "David Fravor",
    "status": "active",
-   "tier": "B"
+   "tier": "A"
   },
   {
    "A": 3,
@@ -8271,7 +8271,7 @@
    "cluster": "oversight",
    "dateEnd": null,
    "dateStart": "2026-05-22",
-   "deg": 27,
+   "deg": 28,
    "era": "3",
    "hl": null,
    "id": "eric-burlison",
@@ -10467,6 +10467,30 @@
   },
   {
    "A": 2,
+   "C": 2,
+   "D": 3,
+   "band": null,
+   "claims": [
+    3,
+    0,
+    0
+   ],
+   "cls": "event",
+   "cluster": "other",
+   "dateEnd": "2022-05-17",
+   "dateStart": "2022-05-17",
+   "deg": 3,
+   "era": "3",
+   "hl": null,
+   "id": "hearing-2022-05-17",
+   "l0": false,
+   "label": "House Intelligence subcommittee hearing, 17 May 2022: 'Unidentified Aerial Phenomena'",
+   "short": "House Intelligence subcommittee hearing, 17 May 2022: 'Unidentified Aerial Phenomena'",
+   "status": null,
+   "tier": "B"
+  },
+  {
+   "A": 2,
    "C": 0,
    "D": 3,
    "band": null,
@@ -10503,7 +10527,7 @@
    "cluster": "other",
    "dateEnd": "2023",
    "dateStart": "2023",
-   "deg": 19,
+   "deg": 20,
    "era": "3",
    "hl": null,
    "id": "hearing-2023-07-26",
@@ -10575,7 +10599,7 @@
    "cluster": "other",
    "dateEnd": "2025",
    "dateStart": "2025",
-   "deg": 22,
+   "deg": 23,
    "era": "3",
    "hl": null,
    "id": "hearing-2025-09-09",
@@ -12383,6 +12407,30 @@
    "label": "Jason Providakes",
    "short": "Jason Providakes",
    "status": "former",
+   "tier": "C"
+  },
+  {
+   "A": 0,
+   "C": 0,
+   "D": 1,
+   "band": null,
+   "claims": [
+    0,
+    3,
+    2
+   ],
+   "cls": "person",
+   "cluster": "witness",
+   "dateEnd": null,
+   "dateStart": null,
+   "deg": 0,
+   "era": "nd",
+   "hl": null,
+   "id": "jason-sands",
+   "l0": false,
+   "label": "Jason Sands",
+   "short": "Jason Sands",
+   "status": "alive",
    "tier": "C"
   },
   {
@@ -16439,6 +16487,30 @@
    "label": "Michael Gold",
    "short": "Michael Gold",
    "status": "active",
+   "tier": "B"
+  },
+  {
+   "A": 0,
+   "C": 1,
+   "D": 2,
+   "band": null,
+   "claims": [
+    5,
+    1,
+    2
+   ],
+   "cls": "person",
+   "cluster": "witness",
+   "dateEnd": null,
+   "dateStart": null,
+   "deg": 4,
+   "era": "nd",
+   "hl": null,
+   "id": "michael-herrera",
+   "l0": false,
+   "label": "Michael Herrera",
+   "short": "Michael Herrera",
+   "status": "alive",
    "tier": "B"
   },
   {
@@ -21098,6 +21170,30 @@
    "tier": "B"
   },
   {
+   "A": 3,
+   "C": 1,
+   "D": 2,
+   "band": null,
+   "claims": [
+    1,
+    0,
+    0
+   ],
+   "cls": "person",
+   "cluster": "ic",
+   "dateEnd": null,
+   "dateStart": null,
+   "deg": 1,
+   "era": "nd",
+   "hl": null,
+   "id": "ronald-moultrie",
+   "l0": false,
+   "label": "Ronald S. Moultrie",
+   "short": "Ronald S. Moultrie",
+   "status": "alive",
+   "tier": "C"
+  },
+  {
    "A": 1,
    "C": 0,
    "D": 3,
@@ -21696,6 +21792,30 @@
    "short": "Schulgen Collection Memorandum: Intelligence Requirements on Flying Saucer Type Aircraft",
    "status": null,
    "tier": "B"
+  },
+  {
+   "A": 3,
+   "C": 1,
+   "D": 2,
+   "band": null,
+   "claims": [
+    1,
+    0,
+    0
+   ],
+   "cls": "person",
+   "cluster": "ic",
+   "dateEnd": null,
+   "dateStart": null,
+   "deg": 1,
+   "era": "nd",
+   "hl": null,
+   "id": "scott-bray",
+   "l0": false,
+   "label": "Scott W. Bray",
+   "short": "Scott W. Bray",
+   "status": "alive",
+   "tier": "C"
   },
   {
    "A": 0,
@@ -22743,7 +22863,7 @@
    "cluster": "media",
    "dateEnd": null,
    "dateStart": "2001-05-09",
-   "deg": 7,
+   "deg": 8,
    "era": "2",
    "hl": null,
    "id": "steven-greer",
@@ -22751,7 +22871,7 @@
    "label": "Steven M. Greer",
    "short": "Steven M. Greer",
    "status": "active",
-   "tier": "C"
+   "tier": "B"
   },
   {
    "A": 1,
@@ -25007,7 +25127,7 @@
    "label": "Capitão Uyrangê Bolívar Soares Nogueira de Hollanda Lima",
    "short": "Capitão Uyrangê Bolívar Soares Nogueira de Hollanda Lima",
    "status": "dead",
-   "tier": "B"
+   "tier": "C"
   },
   {
    "A": 1,
@@ -25754,5 +25874,5 @@
    "tier": "C"
   }
  ],
- "source": "a82b898deeb7"
+ "source": "936949670c37"
 }

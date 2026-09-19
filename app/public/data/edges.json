@@ -8640,6 +8640,14 @@
 "tier": 1
 },
 {
+"a": "hearing-2022-05-17",
+"b": "hearing-2023-07-26",
+"dateStart": "2022-05-17",
+"label": "The first open congressional UAP hearing of the modern era, and the one the Oversight sequence descends from",
+"t": "temporal",
+"tier": 1
+},
+{
 "a": "hearing-2023-07-26",
 "b": "david-grusch",
 "dateStart": "2023",
@@ -12504,6 +12512,38 @@
 "tier": 1
 },
 {
+"a": "michael-herrera",
+"b": "aaro-historical-record-vol1",
+"dateStart": "2024-02",
+"label": "Inferred identification with the anonymised page 29 interviewee",
+"t": "investigative",
+"tier": 3
+},
+{
+"a": "michael-herrera",
+"b": "eric-burlison",
+"dateStart": "2025-09-09",
+"label": "The member who moved his written testimony into the hearing record",
+"t": "witness-chain",
+"tier": 1
+},
+{
+"a": "michael-herrera",
+"b": "hearing-2025-09-09",
+"dateStart": "2025-09-09",
+"label": "Written testimony moved into the record by a member; NOT a witness appearance",
+"t": "witness-chain",
+"tier": 1
+},
+{
+"a": "michael-herrera",
+"b": "steven-greer",
+"dateStart": "2025-09-09",
+"label": "Named on the record as the custodian who supplied the written testimony",
+"t": "custody",
+"tier": 1
+},
+{
 "a": "michael-powers-comptroller",
 "b": "classified-annex",
 "dateStart": null,
@@ -16104,6 +16144,14 @@
 "tier": 1
 },
 {
+"a": "ronald-moultrie",
+"b": "hearing-2022-05-17",
+"dateStart": "2022-05-17",
+"label": "Witness of record, appearing as Under Secretary of Defense for Intelligence and Security",
+"t": "witness-chain",
+"tier": 1
+},
+{
 "a": "rosa-delauro",
 "b": "waived-sap-notification-group",
 "dateStart": null,
@@ -16526,6 +16574,14 @@
 "label": "Collection requirement fed the project that began weeks later",
 "t": "programmatic",
 "tier": 2
+},
+{
+"a": "scott-bray",
+"b": "hearing-2022-05-17",
+"dateStart": "2022-05-17",
+"label": "Witness of record, appearing as Deputy Director of Naval Intelligence",
+"t": "witness-chain",
+"tier": 1
 },
 {
 "a": "scott-sorensen-notes-1990",

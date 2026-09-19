@@ -1,6 +1,6 @@
 # The people below the programme map
 
-None of the 139 nodes on the programme map is a person, so every one of the board's 313 people sits below it: witnesses, officials, legislators, contractors, scientists and journalists. This file takes the 120 with the most connections, most connected first, and gives what the board records about each of them and up to eight of their claims.
+None of the 139 nodes on the programme map is a person, so every one of the board's 317 people sits below it: witnesses, officials, legislators, contractors, scientists and journalists. This file takes the 120 with the most connections, most connected first, and gives what the board records about each of them and up to eight of their claims.
 
 ## David Charles Grusch
 
@@ -39,7 +39,7 @@ Affiliations recorded: National Geospatial-Intelligence Agency, National Reconna
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 1 of 1066, score 181). 80 connections, 11 of them custody/funding/programmatic, 10 official denials recorded against it. Axes C2/A3/D3.
+Re-graded A on a global pass (rank 1 of 1071, score 181). 80 connections, 11 of them custody/funding/programmatic, 10 official denials recorded against it. Axes C2/A3/D3.
 
 ### The claims on the record
 
@@ -103,7 +103,7 @@ Affiliations recorded: US Army counterintelligence, Office of the Under Secretar
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 5 of 1066, score 157). 43 connections, 7 of them custody/funding/programmatic, 7 official denials recorded against it. Axes C2/A3/D3.
+Re-graded A on a global pass (rank 5 of 1071, score 157). 43 connections, 7 of them custody/funding/programmatic, 7 official denials recorded against it. Axes C2/A3/D3.
 
 ### The claims on the record
 
@@ -131,7 +131,7 @@ It carries 43 connections in total on the board.
 
 ## Eric Burlison
 
-Eric Burlison is a person on the board; board tier A, named in sworn testimony or primary documents as directly inside the programme; dates 2026-05-22; axes C1 A2 D3; 27 connections.
+Eric Burlison is a person on the board; board tier A, named in sworn testimony or primary documents as directly inside the programme; dates 2026-05-22; axes C1 A2 D3; 28 connections.
 
 In one line: U.S. Rep. (R-MO-7); Oversight subcommittee chair; runs the FFRDC/contractor records investigation.
 
@@ -149,7 +149,7 @@ Affiliations recorded: U.S. House of Representatives, MO-7 (2023- ), House Commi
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 30 of 1066, score 94). 29 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D3.
+Re-graded A on a global pass (rank 30 of 1071, score 95). 30 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D3.
 
 ### The claims on the record
 
@@ -173,7 +173,7 @@ A further 15 claims sit on this node on the board and are not reproduced here.
 - Eric Burlison comes in from **UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)** (legislation, board tier A), a legislative link at Tier 1 documented. The link reads: Burlison could not get the UAP Disclosure Act onto the House NDAA in 2024 or 2025. 'It was stripped out by the House last year, and I cannot get it onto the bill leaving the House this year.' Sources: U.S. GPO, Hearing transcript, Serial No. 119-44 (CHRG-119hhrg61718), https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm, dated 2025-09-09.
 - Eric Burlison runs out to **Bigelow Aerospace Advanced Space Studies (BAASS), LLC** (institution, board tier A), a investigative link at Tier 1 documented. The link reads: Named BAASS from the dais as a reverse-engineering exploitation question. Asked of witness Dylan Borland at the 9 September 2025 hearing. Sources: U.S. GPO, Hearing transcript, Serial No. 119-44 (CHRG-119hhrg61718), https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm, dated 2025-09-09.
 
-It carries 29 connections in total on the board.
+It carries 30 connections in total on the board.
 
 ## Anna Paulina Luna
 
@@ -199,7 +199,7 @@ Affiliations recorded: U.S. House of Representatives, FL-13 (2023- ), House Comm
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 23 of 1066, score 103). 31 connections, 1 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C0/A2/D3.
+Re-graded A on a global pass (rank 23 of 1071, score 103). 31 connections, 1 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C0/A2/D3.
 
 ### The claims on the record
 
@@ -260,7 +260,7 @@ Affiliations recorded: National Institute for Discovery Science (1996-2004), Ear
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 19 of 1066, score 108). 23 connections, 4 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C2/A3/D3.
+Re-graded A on a global pass (rank 19 of 1071, score 108). 23 connections, 4 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C2/A3/D3.
 
 ### The claims on the record
 
@@ -304,7 +304,7 @@ Affiliations recorded: US Senate (1987-2017), Senate Majority Leader (2007-2015)
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 39 of 1066, score 87). 17 connections, 5 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D3.
+Re-graded A on a global pass (rank 39 of 1071, score 87). 17 connections, 5 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D3.
 
 ### The claims on the record
 
@@ -363,7 +363,7 @@ Affiliations recorded: Defense Intelligence Agency, chief scientist for the Defe
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 11 of 1066, score 121). 24 connections, 3 of them custody/funding/programmatic, 6 official denials recorded against it. Axes C2/A3/D1.
+Re-graded A on a global pass (rank 11 of 1071, score 121). 24 connections, 3 of them custody/funding/programmatic, 6 official denials recorded against it. Axes C2/A3/D1.
 
 ### The claims on the record
 
@@ -435,7 +435,7 @@ Affiliations recorded: UAP Gerb (YouTube channel, ~135,000 subscribers), NewsNat
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 101 of 1066, score 61). 18 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.
+Re-graded A on a global pass (rank 101 of 1071, score 61). 18 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.
 
 ### The claims on the record
 
@@ -455,9 +455,9 @@ A further 10 claims sit on this node on the board and are not reproduced here.
 - 'UAP Gerb' (Sam) runs out to **PURSUE - Presidential Unsealing and Reporting System for UAP Encounters** (program, board tier A), a investigative link at Tier 2 named person on the record. The link reads: Gerb analysed the PURSUE releases as they were published. Gerb ran a livestream on 'UFO File Drop 1' on 12 May 2026 and discussed the release programme in his 2 March 2026 livestream on Trump's announcement, making him one of the first analysts working the released record. Sources: UAP Gerb Live - 'UFO File Drop 1', https://www.youtube.com/watch?v=iAWD4irLMZM, dated 2026-05-12; UAP Gerb Live - 'Air Force Hidden Wing, Admin & the UFO Files', https://www.youtube.com/watch?v=Gqw9tnuBrOM, dated 2026-03-02.
 - 'UAP Gerb' (Sam) comes in from **Mark McCandlish** (person, board tier A), a investigative link at Tier 2 named person on the record. The link reads: Subject of a 1:09:12 UAP Gerb episode published 21 October 2024. Video id wF07QMm6joE, 'Alien Reproduction Vehicle - the Testimony of Mark McCandlish', channel 'UAP Gerb', published 21 October 2024, runtime 01:09:12. Gerb is the investigator who brings this account to the board's corpus and who located the 1990 notes. Several assertions attributed to him in the corpus files are recorded on these nodes as unverified rather than as claims. Sources: YouTube listing for video wF07QMm6joE, 'Alien Reproduction Vehicle - the Testimony of Mark McCandlish', UAP Gerb, https://www.youtube.com/watch?v=wF07QMm6joE, dated 2024-10-21.
 - 'UAP Gerb' (Sam) runs out to **'Manhattan Project 2.0' (alleged secrecy architecture)** (program, board tier A), a investigative link at Tier 2 named person on the record. The link reads: Gerb constructed and named the Manhattan Project 2.0 model. Set out across two investigations, 1 May and 19 June 2026, covering the 1947 founding, AEC custody, the NSC 5412 Committee, the Atomic Energy Act of 1954, the 1980s fracture, the 1994 SAP restructuring and modern Non-Covert Action Programs. Sources: UAP Gerb - 'The Manhattan Project 2.0' Vol.1, https://www.youtube.com/watch?v=jR-h5p2bd-A, dated 2026-05-01; UAP Gerb - 'Special Access Required' Vol.2, https://www.youtube.com/watch?v=6MsmPrpQqa8, dated 2026-06-19.
+- 'UAP Gerb' (Sam) runs out to **Steven M. Greer** (person, board tier B), a behavioral link at Tier 2 named person on the record. The link reads: Gerb publicly critiqued the 8 May 2026 Greer press-club event. Gerb's 12 May 2026 livestream discussed the 'Greer NPC' event critically. The structural investigators define themselves against Greer's model, and the split is itself a feature of the field. Sources: UAP Gerb Live - 12 May 2026, https://www.youtube.com/watch?v=iAWD4irLMZM, dated 2026-05-12.
 - 'UAP Gerb' (Sam) runs out to **UAP Gerb - The MITRE Corporation investigation** (document, board tier B), a investigative link at Tier 2 named person on the record. The link reads: Gerb authored and published the MITRE investigation. Published 7 August 2026; the named priority document for this board. Two hours, seven chapters, building explicitly on eight prior Gerb investigations. Sources: UAP Gerb - The MITRE Corporation investigation, https://www.youtube.com/watch?v=107BtDYhTkA, dated 2026-08-07.
 - 'UAP Gerb' (Sam) runs out to **UAP Gerb - Battelle Memorial Institute investigation** (document, board tier B), a investigative link at Tier 2 named person on the record. The link reads: Gerb's first corporate investigation, with full primary citations. Published 18 February 2024 with a published citation list including CUFON's Project Stork reports, the CIA reading room copy of Special Report No. 14, a Black Vault titanium alloys release and the Defense.gov Moultrie roundtable transcript. Sources: UAP Gerb - Battelle Memorial Institute investigation, https://www.youtube.com/watch?v=tISTJRPOqFo, dated 2024-02-18.
-- 'UAP Gerb' (Sam) runs out to **UAP Gerb - Northrop Grumman & TRW investigation (Vol.2)** (document, board tier B), a investigative link at Tier 2 named person on the record. The link reads: Gerb authored the Northrop/TRW breakaway analysis. Published 20 March 2026, following a Vol.1 Northrop investigation in 2025. Sources: UAP Gerb - Northrop Grumman & TRW Vol.2, https://www.youtube.com/watch?v=0kLSp0lH-JQ, dated 2026-03-20.
 
 It carries 18 connections in total on the board.
 
@@ -490,7 +490,7 @@ Affiliations recorded: KLAS-TV Las Vegas, I-Team (1980s-present), Mystery Wire (
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 85 of 1066, score 66). 18 connections, 1 of them custody/funding/programmatic. Axes C1/A1/D3.
+Re-graded A on a global pass (rank 85 of 1071, score 66). 18 connections, 1 of them custody/funding/programmatic. Axes C1/A1/D3.
 
 ### The claims on the record
 
@@ -543,7 +543,7 @@ Mark McCandlish is the origin point in print of a named craft, and he is not a w
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 143 of 1066, score 51). 16 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D3.
+Re-graded A on a global pass (rank 143 of 1071, score 51). 16 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D3.
 
 ### The claims on the record
 
@@ -560,9 +560,9 @@ A further 3 claims sit on this node on the board and are not reproduced here.
 
 ### Its strongest connections
 
+- Mark McCandlish runs out to **Steven M. Greer** (person, board tier B), a witness-chain link at Tier 1 documented. The link reads: Witness to Greer's compilation; Greer writes the editorial notes around his testimony. Greer is the Briefing Document's named compiler and writes the bracketed editorial notes, signed 'SG', that cross-reference the McCandlish testimony to the Lt Col John Williams testimony on Norton AFB. Sources: Disclosure Project Briefing Document, section 3.8.5, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt, dated 2001-04.
 - Mark McCandlish runs out to **'Brad' Sorensen** (person, board tier B), a witness-chain link at Tier 1 documented. The link reads: Painted the craft from Sorensen's verbal description; he was not at the air show. The 1990 primary document states the direction of the relay: 'Brad is the source of artwork done by Mark McCandlish and featured in AVWK's Oct. 1 issue. Mark had painted the two aircraft from verbal descriptions provided by Brad'. The same document records Sorensen disowning part of what McCandlish drew. Sources: William B. Scott, interview notes on 'Brad', 3 December 1990, scanned PDF hosted by arvp.co.uk, https://www.arvp.co.uk/wp-content/uploads/2024/12/SORENSEN-1990-INTERVIEW.pdf, dated 1990-12-11.
 - Mark McCandlish comes in from **ARVP (arvp.co.uk), the Flux Liner project site** (institution, board tier B), a custody link at Tier 1 documented. The link reads: Hosts his coroner's file and publishes a reconstruction built from his talks. The FLUX 1988 page links the coroner's file under the text 'Coroner's report on Mark MaCandlish's death', pointing at a Google Drive item named 'C21-0324 McCandlish.pdf', and hosts the Scott 1990 notes. The site names no owner and carries no licence statement. Sources: arvp.co.uk, FLUX 1988 page, https://www.arvp.co.uk/flux-01/, dated 2026-09-18; Shasta County Sheriff-Coroner, case C21-0324, https://drive.google.com/file/d/1UNSHXesvWduXFduto_Cqh4LDOCG4gIkX/view, dated 2021-06-21.
-- Mark McCandlish runs out to **Steven M. Greer** (person, board tier C), a witness-chain link at Tier 1 documented. The link reads: Witness to Greer's compilation; Greer writes the editorial notes around his testimony. Greer is the Briefing Document's named compiler and writes the bracketed editorial notes, signed 'SG', that cross-reference the McCandlish testimony to the Lt Col John Williams testimony on Norton AFB. Sources: Disclosure Project Briefing Document, section 3.8.5, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt, dated 2001-04.
 - Mark McCandlish runs out to **The Disclosure Project** (program, board tier C), a witness-chain link at Tier 1 documented. The link reads: Disclosure Project witness, testimony taken December 2000. His December 2000 testimony is printed in the project's own April 2001 Briefing Document at section 3.8.5, under the heading 'Testimony of Mr. Mark McCandlish, US Air Force / December 2000'. Sources: Disclosure Project Briefing Document, section 3.8.5, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt, dated 2001-04.
 - Mark McCandlish comes in from **Zero Point: The Story of Mark McCandlish and the Flux Liner** (document, board tier C), a investigative link at Tier 1 documented. The link reads: The film is about him and names him in its title. The dossier and the session ruling call this a media edge; 'media' is not one of this board's twelve edge types, so it is written as 'investigative', the type the board already uses for a media node covering a subject. IMDb credits him as 'Self - Guest', the only listed cast member. Sources: Vimeo channel 'Zero Point: The Story of Mark McCandlish and the Flux Liner', https://vimeo.com/channels/942663, dated 2026-09-18; IMDb tt6111304, user-maintained listing, https://www.imdb.com/title/tt6111304/, dated 2026-09-18.
 - Mark McCandlish runs out to **Eric W. Davis** (person, board tier A), a denial link at Tier 2 named person on the record. The link reads: Davis says the ARV claims are myth. On the Jesse Michels episode published 12 December 2024, video id LnAiNChnuEQ, Eric Davis said no ARV exists and none has ever been built, and that the Northrop Grumman and Area 51 ARV rumours are 'all myth'. A claimant node carries the case against. The episode is identified by video id: the corpus recorded it under a different title on a differently named channel. Sources: Jesse Michels, video id LnAiNChnuEQ, https://www.youtube.com/watch?v=LnAiNChnuEQ, dated 2024-12-12.
@@ -589,7 +589,7 @@ Affiliations recorded: U.S. House of Representatives, TN-2 (2019- ), House Commi
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 77 of 1066, score 68). 16 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D3.
+Re-graded A on a global pass (rank 77 of 1071, score 68). 16 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D3.
 
 ### The claims on the record
 
@@ -641,7 +641,7 @@ Affiliations recorded: Stanford Research Institute, remote viewing programs (197
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 18 of 1066, score 109). 17 connections, 8 of them custody/funding/programmatic. Axes C2/A3/D3.
+Re-graded A on a global pass (rank 18 of 1071, score 109). 17 connections, 8 of them custody/funding/programmatic. Axes C2/A3/D3.
 
 ### The claims on the record
 
@@ -685,7 +685,7 @@ Affiliations recorded: The Black Vault, founder (1996-present), The Black Vault 
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 137 of 1066, score 52). 14 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D3.
+Re-graded A on a global pass (rank 137 of 1071, score 52). 14 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D3.
 
 ### The claims on the record
 
@@ -744,7 +744,7 @@ Affiliations recorded: Central Intelligence Agency, Office of Scientific Intelli
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 44 of 1066, score 83). 13 connections, 4 of them custody/funding/programmatic. Axes C2/A3/D2.
+Re-graded A on a global pass (rank 44 of 1071, score 83). 13 connections, 4 of them custody/funding/programmatic. Axes C2/A3/D2.
 
 ### The claims on the record
 
@@ -794,7 +794,7 @@ Affiliations recorded: Office of the Assistant to the Secretary of Defense for P
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 29 of 1066, score 96). 15 connections, 0 of them custody/funding/programmatic, 9 official denials recorded against it. Axes C0/A1/D1.
+Re-graded A on a global pass (rank 29 of 1071, score 96). 15 connections, 0 of them custody/funding/programmatic, 9 official denials recorded against it. Axes C0/A1/D1.
 
 ### The claims on the record
 
@@ -840,7 +840,7 @@ Affiliations recorded: Senate Select Committee on Intelligence, Minority Staff D
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 76 of 1066, score 68). 13 connections, 4 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D3.
+Re-graded A on a global pass (rank 76 of 1071, score 68). 13 connections, 4 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D3.
 
 ### The claims on the record
 
@@ -888,7 +888,7 @@ Affiliations recorded: U.S. House of Representatives, SC-1 (2021- ), House Overs
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 103 of 1066, score 60). 13 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D2.
+Re-graded A on a global pass (rank 103 of 1071, score 60). 13 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D2.
 
 ### The claims on the record
 
@@ -940,7 +940,7 @@ Affiliations recorded: Budget Suites of America (1988-present), National Institu
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 53 of 1066, score 75). 11 connections, 4 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A2/D2.
+Re-graded A on a global pass (rank 53 of 1071, score 75). 11 connections, 4 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A2/D2.
 
 ### The claims on the record
 
@@ -984,7 +984,7 @@ Affiliations recorded: Defense Intelligence Agency, Defense Warning Office (1990
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 99 of 1066, score 61). 10 connections, 2 of them custody/funding/programmatic. Axes C3/A3/D3.
+Re-graded A on a global pass (rank 99 of 1071, score 61). 10 connections, 2 of them custody/funding/programmatic. Axes C3/A3/D3.
 
 ### The claims on the record
 
@@ -1026,7 +1026,7 @@ Affiliations recorded: American Alchemy (2021-present), Thiel Capital (investor)
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 567 of 1066, score 27). 10 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D3.
+Re-graded C on a global pass (rank 570 of 1071, score 27). 10 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D3.
 
 ### The claims on the record
 
@@ -1079,7 +1079,7 @@ Affiliations recorded: National Security Agency (physicist / technical director)
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 42 of 1066, score 84). 10 connections, 0 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C2/A3/D2.
+Re-graded A on a global pass (rank 42 of 1071, score 84). 10 connections, 0 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C2/A3/D2.
 
 ### The claims on the record
 
@@ -1128,7 +1128,7 @@ Affiliations recorded: The Debrief (2023), The New York Times (2017-2019, contri
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 203 of 1066, score 43). 10 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.
+Re-graded B on a global pass (rank 204 of 1071, score 43). 10 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.
 
 ### The claims on the record
 
@@ -1180,7 +1180,7 @@ Affiliations recorded: US Air Force Office of Special Investigations (c.1979-198
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 309 of 1066, score 36). 10 connections, 1 of them custody/funding/programmatic. Axes C1/A2/D2.
+Re-graded B on a global pass (rank 310 of 1071, score 36). 10 connections, 1 of them custody/funding/programmatic. Axes C1/A2/D2.
 
 ### The claims on the record
 
@@ -1230,7 +1230,7 @@ Affiliations recorded: Stanford University School of Medicine, Professor of Path
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 115 of 1066, score 56). 10 connections, 2 of them custody/funding/programmatic. Axes C2/A1/D3.
+Re-graded A on a global pass (rank 115 of 1071, score 56). 10 connections, 2 of them custody/funding/programmatic. Axes C2/A1/D3.
 
 ### The claims on the record
 
@@ -1279,7 +1279,7 @@ Affiliations recorded: Stanford Research Institute, Augmentation Research Center
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 260 of 1066, score 39). 9 connections, 0 of them custody/funding/programmatic. Axes C2/A1/D2.
+Re-graded B on a global pass (rank 261 of 1071, score 39). 9 connections, 0 of them custody/funding/programmatic. Axes C2/A1/D2.
 
 ### The claims on the record
 
@@ -1327,7 +1327,7 @@ Affiliations recorded: National Institute for Discovery Science, project manager
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 180 of 1066, score 45). 8 connections, 1 of them custody/funding/programmatic. Axes C2/A2/D3.
+Re-graded B on a global pass (rank 181 of 1071, score 45). 8 connections, 1 of them custody/funding/programmatic. Axes C2/A2/D3.
 
 ### The claims on the record
 
@@ -1378,7 +1378,7 @@ Affiliations recorded: US Navy (2009-2019), VFA-11 Red Rippers, USS Theodore Roo
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 162 of 1066, score 47). 10 connections, 2 of them custody/funding/programmatic. Axes C0/A1/D3.
+Re-graded B on a global pass (rank 163 of 1071, score 47). 10 connections, 2 of them custody/funding/programmatic. Axes C0/A1/D3.
 
 ### The claims on the record
 
@@ -1404,6 +1404,50 @@ A further 1 claims sit on this node on the board and are not reproduced here.
 
 It carries 10 connections in total on the board.
 
+## Steven M. Greer
+
+Steven M. Greer is a person on the board; board tier B, documented channel and capability, programme role indicated but not yet nailed to a primary source; dates 2001-05-09; axes C0 A0 D3; 8 connections.
+
+In one line: Emergency physician; founder of CSETI (1990) and the Disclosure Project (1993); National Press Club event 9 May 2001.
+
+### The longer account
+
+Greer built the first mass witness-aggregation project and demonstrated both its power and its limits. A practising emergency physician, he founded the Center for the Study of Extraterrestrial Intelligence in 1990 and the Disclosure Project in 1993 with the explicit aim of assembling former military and government personnel willing to testify to Congress. On 9 May 2001 he convened roughly twenty of them at the National Press Club in Washington - radar operators, missile launch officers, air traffic controllers, FAA personnel - and announced that more than four hundred had given testimony, demanding congressional hearings with subpoena power and amnesty for witnesses. The event drew heavy international coverage and produced no hearing. Its consequence for the record is twofold. First, it created a large videotaped corpus of named former personnel making specific, dated, on-the-record claims, some of which - notably the missile-facility shutdown accounts - align with the FOIA-released overflight documents from 1975. Second, Greer's subsequent trajectory into claims that outran his evidence gave the institutions he was pressuring a durable reason to treat the whole category as unserious. The Clinton White House's own UFO FOIA collection (2006-0474-F) consists in the majority of documents Greer sent it, which is a precise measure of how the material was received: filed as correspondence.
+
+### Where the record conflicts
+
+- Greer's later claims - including assertions about non-human biological specimens - are unsupported and are routinely used to discredit the 2001 witness corpus as a whole.
+- Central claims (Atacama skeleton, CE-5 contact) are disproven or unfalsifiable; treated by structural investigators as a discrediting vector rather than a source.
+
+### Recorded as unverified
+
+- The full four-hundred-plus witness archive has never been independently catalogued or corroborated.
+
+Affiliations recorded: Center for the Study of Extraterrestrial Intelligence (founder, 1990), The Disclosure Project (founder, 1993), CSETI (founder, 1990).
+
+### Why it holds its tier
+
+Re-graded B on a global pass (rank 437 of 1071, score 31). 8 connections, 2 of them custody/funding/programmatic. Axes C0/A0/D3.
+
+### The claims on the record
+
+- **Tier 1 documented.** The Clinton Presidential Library's UFO FOIA collection 2006-0474-F 'consists of letters, correspondence tracking forms, memos, reports, email and cables relating to UFO's or extraterrestrial beings. A majority of the collection are documents which were sent to the White House by Steven M. Greer, the head of a nongovernmental organization called the Center for the Study of Extraterrestrial Intelligence (CSETI).' Source: Clinton Digital Library collection finding aid, identifier 2006-0474-F
+- **Tier 2 named person on the record.** Greer founded CSETI in 1990 and the Disclosure Project in 1993, and in May 2001 held a National Press Club press conference featuring 20 retired Air Force, FAA and intelligence officers. Source: Wikipedia, 'Steven M. Greer', retrieved 12 August 2026, DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement
+- **Tier 2 named person on the record.** Greer held a National Press Club event on 8 May 2026. Source: UAP Gerb livestream description, 12 May 2026
+- **Tier 2 named person on the record.** On 9 May 2001 Greer presented roughly twenty former military, intelligence and government personnel at the National Press Club and stated that more than four hundred witnesses had provided testimony, calling for congressional hearings with subpoena power. Source: Disclosure Project National Press Club event, Washington DC, 9 May 2001; contemporaneous international press coverage
+- **Tier 2 named person on the record.** The Atacama skeleton presented in Sirius was shown by genetic evidence to be human. Source: Wikipedia, 'Steven M. Greer', DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement
+
+### Its strongest connections
+
+- Steven M. Greer comes in from **Mark McCandlish** (person, board tier A), a witness-chain link at Tier 1 documented. The link reads: Witness to Greer's compilation; Greer writes the editorial notes around his testimony. Greer is the Briefing Document's named compiler and writes the bracketed editorial notes, signed 'SG', that cross-reference the McCandlish testimony to the Lt Col John Williams testimony on Norton AFB. Sources: Disclosure Project Briefing Document, section 3.8.5, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt, dated 2001-04.
+- Steven M. Greer comes in from **Michael Herrera** (person, board tier B), a custody link at Tier 1 documented. The link reads: Named on the record as the custodian who supplied the written testimony. Custody of the DOCUMENT, not of material. Burlison said on the record that the testimony 'was given to me by Dr. Steven Greer'. Sources: Serial CHRG-119hhrg61718, printed record of 9 September 2025, https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm, dated 2025-09-09.
+- Steven M. Greer runs out to **John D. Podesta** (person, board tier C), a institutional link at Tier 1 documented. The link reads: Greer's CSETI submissions form the majority of the Clinton White House UFO file. Clinton FOIA collection 2006-0474-F consists in the majority of documents sent to the White House by Greer - the material reached the building and was filed as correspondence. Sources: Clinton Digital Library, FOIA collection 2006-0474-F, 'Unidentified Flying Objects (UFO)' (Greer/CSETI correspondence), https://clinton.presidentiallibraries.us/items/show/36386, dated 2019-09-16.
+- Steven M. Greer comes in from **Disclosure Project Briefing Document, April 2001** (document, board tier C), a custody link at Tier 1 documented. The link reads: Named as its director and compiler. Prepared by Steven M. Greer MD and Theodore C. Loder III PhD. Greer signs the bracketed editorial notes 'SG'. Sources: Disclosure Project Briefing Document, section 3.8.5, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt, dated 2001-04.
+- Steven M. Greer comes in from **'UAP Gerb' (Sam)** (person, board tier A), a behavioral link at Tier 2 named person on the record. The link reads: Gerb publicly critiqued the 8 May 2026 Greer press-club event. Gerb's 12 May 2026 livestream discussed the 'Greer NPC' event critically. The structural investigators define themselves against Greer's model, and the split is itself a feature of the field. Sources: UAP Gerb Live - 12 May 2026, https://www.youtube.com/watch?v=iAWD4irLMZM, dated 2026-05-12.
+- Steven M. Greer comes in from **Daniel P. Sheehan** (person, board tier C), a institutional link at Tier 2 named person on the record. The link reads: Sheehan served as counsel to Greer's Disclosure Project. Recorded because it links the movement's current legal strategist to its most contested figure, a connection hostile reviewers will use. Sources: Wikipedia - Daniel Sheehan (attorney), https://en.wikipedia.org/wiki/Daniel_Sheehan_(attorney), dated 2026-08-12.
+
+It carries 8 connections in total on the board.
+
 ## William L. Moore
 
 William L. Moore is a person on the board; board tier B, documented channel and capability, programme role indicated but not yet nailed to a primary source; dates 1989-07-01; axes C0 A1 D2; 8 connections.
@@ -1426,7 +1470,7 @@ Affiliations recorded: Fair-Witness Project, Co-author with Charles Berlitz, 'Th
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 279 of 1066, score 38). 8 connections, 2 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D2.
+Re-graded B on a global pass (rank 280 of 1071, score 38). 8 connections, 2 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D2.
 
 ### The claims on the record
 
@@ -1460,7 +1504,7 @@ The president who signed the founding instruments of the structure this board ma
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 226 of 1066, score 41). 7 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D1.
+Re-graded B on a global pass (rank 227 of 1071, score 41). 7 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D1.
 
 ### The claims on the record
 
@@ -1507,7 +1551,7 @@ Affiliations recorded: 509th Bomb Group, Roswell Army Air Field, S-2 Intelligenc
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 129 of 1066, score 53). 8 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A2/D3.
+Re-graded A on a global pass (rank 129 of 1071, score 53). 8 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A2/D3.
 
 ### The claims on the record
 
@@ -1544,7 +1588,7 @@ Affiliations recorded: U.S. Senate, New York (2009- ), Senate Armed Services Com
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 201 of 1066, score 43). 7 connections, 1 of them custody/funding/programmatic. Axes C0/A2/D3.
+Re-graded B on a global pass (rank 202 of 1071, score 43). 7 connections, 1 of them custody/funding/programmatic. Axes C0/A2/D3.
 
 ### The claims on the record
 
@@ -1611,7 +1655,7 @@ Affiliations recorded: Naval Air Warfare Center Aircraft Division (NAWCAD), NAS 
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 45 of 1066, score 83). 7 connections, 6 of them custody/funding/programmatic. Axes C2/A1/D1.
+Re-graded A on a global pass (rank 45 of 1071, score 83). 7 connections, 6 of them custody/funding/programmatic. Axes C2/A1/D1.
 
 ### The claims on the record
 
@@ -1637,50 +1681,6 @@ A further 32 claims sit on this node on the board and are not reproduced here.
 
 It carries 7 connections in total on the board.
 
-## Steven M. Greer
-
-Steven M. Greer is a person on the board; board tier C, contextual, real and relevant, no direct programme linkage on the record yet; dates 2001-05-09; axes C0 A0 D3; 7 connections.
-
-In one line: Emergency physician; founder of CSETI (1990) and the Disclosure Project (1993); National Press Club event 9 May 2001.
-
-### The longer account
-
-Greer built the first mass witness-aggregation project and demonstrated both its power and its limits. A practising emergency physician, he founded the Center for the Study of Extraterrestrial Intelligence in 1990 and the Disclosure Project in 1993 with the explicit aim of assembling former military and government personnel willing to testify to Congress. On 9 May 2001 he convened roughly twenty of them at the National Press Club in Washington - radar operators, missile launch officers, air traffic controllers, FAA personnel - and announced that more than four hundred had given testimony, demanding congressional hearings with subpoena power and amnesty for witnesses. The event drew heavy international coverage and produced no hearing. Its consequence for the record is twofold. First, it created a large videotaped corpus of named former personnel making specific, dated, on-the-record claims, some of which - notably the missile-facility shutdown accounts - align with the FOIA-released overflight documents from 1975. Second, Greer's subsequent trajectory into claims that outran his evidence gave the institutions he was pressuring a durable reason to treat the whole category as unserious. The Clinton White House's own UFO FOIA collection (2006-0474-F) consists in the majority of documents Greer sent it, which is a precise measure of how the material was received: filed as correspondence.
-
-### Where the record conflicts
-
-- Greer's later claims - including assertions about non-human biological specimens - are unsupported and are routinely used to discredit the 2001 witness corpus as a whole.
-- Central claims (Atacama skeleton, CE-5 contact) are disproven or unfalsifiable; treated by structural investigators as a discrediting vector rather than a source.
-
-### Recorded as unverified
-
-- The full four-hundred-plus witness archive has never been independently catalogued or corroborated.
-
-Affiliations recorded: Center for the Study of Extraterrestrial Intelligence (founder, 1990), The Disclosure Project (founder, 1993), CSETI (founder, 1990).
-
-### Why it holds its tier
-
-Re-graded C on a global pass (rank 565 of 1066, score 27). 7 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D3.
-
-### The claims on the record
-
-- **Tier 1 documented.** The Clinton Presidential Library's UFO FOIA collection 2006-0474-F 'consists of letters, correspondence tracking forms, memos, reports, email and cables relating to UFO's or extraterrestrial beings. A majority of the collection are documents which were sent to the White House by Steven M. Greer, the head of a nongovernmental organization called the Center for the Study of Extraterrestrial Intelligence (CSETI).' Source: Clinton Digital Library collection finding aid, identifier 2006-0474-F
-- **Tier 2 named person on the record.** Greer founded CSETI in 1990 and the Disclosure Project in 1993, and in May 2001 held a National Press Club press conference featuring 20 retired Air Force, FAA and intelligence officers. Source: Wikipedia, 'Steven M. Greer', retrieved 12 August 2026, DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement
-- **Tier 2 named person on the record.** Greer held a National Press Club event on 8 May 2026. Source: UAP Gerb livestream description, 12 May 2026
-- **Tier 2 named person on the record.** On 9 May 2001 Greer presented roughly twenty former military, intelligence and government personnel at the National Press Club and stated that more than four hundred witnesses had provided testimony, calling for congressional hearings with subpoena power. Source: Disclosure Project National Press Club event, Washington DC, 9 May 2001; contemporaneous international press coverage
-- **Tier 2 named person on the record.** The Atacama skeleton presented in Sirius was shown by genetic evidence to be human. Source: Wikipedia, 'Steven M. Greer', DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement
-
-### Its strongest connections
-
-- Steven M. Greer comes in from **Mark McCandlish** (person, board tier A), a witness-chain link at Tier 1 documented. The link reads: Witness to Greer's compilation; Greer writes the editorial notes around his testimony. Greer is the Briefing Document's named compiler and writes the bracketed editorial notes, signed 'SG', that cross-reference the McCandlish testimony to the Lt Col John Williams testimony on Norton AFB. Sources: Disclosure Project Briefing Document, section 3.8.5, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt, dated 2001-04.
-- Steven M. Greer runs out to **John D. Podesta** (person, board tier C), a institutional link at Tier 1 documented. The link reads: Greer's CSETI submissions form the majority of the Clinton White House UFO file. Clinton FOIA collection 2006-0474-F consists in the majority of documents sent to the White House by Greer - the material reached the building and was filed as correspondence. Sources: Clinton Digital Library, FOIA collection 2006-0474-F, 'Unidentified Flying Objects (UFO)' (Greer/CSETI correspondence), https://clinton.presidentiallibraries.us/items/show/36386, dated 2019-09-16.
-- Steven M. Greer comes in from **Disclosure Project Briefing Document, April 2001** (document, board tier C), a custody link at Tier 1 documented. The link reads: Named as its director and compiler. Prepared by Steven M. Greer MD and Theodore C. Loder III PhD. Greer signs the bracketed editorial notes 'SG'. Sources: Disclosure Project Briefing Document, section 3.8.5, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt, dated 2001-04.
-- Steven M. Greer comes in from **'UAP Gerb' (Sam)** (person, board tier A), a behavioral link at Tier 2 named person on the record. The link reads: Gerb publicly critiqued the 8 May 2026 Greer press-club event. Gerb's 12 May 2026 livestream discussed the 'Greer NPC' event critically. The structural investigators define themselves against Greer's model, and the split is itself a feature of the field. Sources: UAP Gerb Live - 12 May 2026, https://www.youtube.com/watch?v=iAWD4irLMZM, dated 2026-05-12.
-- Steven M. Greer comes in from **Daniel P. Sheehan** (person, board tier C), a institutional link at Tier 2 named person on the record. The link reads: Sheehan served as counsel to Greer's Disclosure Project. Recorded because it links the movement's current legal strategist to its most contested figure, a connection hostile reviewers will use. Sources: Wikipedia - Daniel Sheehan (attorney), https://en.wikipedia.org/wiki/Daniel_Sheehan_(attorney), dated 2026-08-12.
-- Steven M. Greer runs out to **The Disclosure Project** (program, board tier C), a institutional link at Tier 2 named person on the record. The link reads: Greer founded and led the Disclosure Project. Greer founded CSETI in 1990 and the Disclosure Project in 1993, culminating in the 9 May 2001 National Press Club event. Sources: Clinton Digital Library, FOIA collection 2006-0474-F, 'Unidentified Flying Objects (UFO)' (Greer/CSETI correspondence), https://clinton.presidentiallibraries.us/items/show/36386, dated 2019-09-16.
-
-It carries 7 connections in total on the board.
-
 ## Allen W. Dulles
 
 Allen W. Dulles is a person on the board; board tier B, documented channel and capability, programme role indicated but not yet nailed to a primary source; dates 1953-03-13; axes C1 A3 D1; 6 connections.
@@ -1699,7 +1699,7 @@ Affiliations recorded: Central Intelligence Agency, Director of Central Intellig
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 242 of 1066, score 40). 6 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D1.
+Re-graded B on a global pass (rank 243 of 1071, score 40). 6 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D1.
 
 ### The claims on the record
 
@@ -1744,7 +1744,7 @@ Affiliations recorded: Harvard University Department of Astronomy (1993- ; chair
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 204 of 1066, score 43). 6 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D3.
+Re-graded B on a global pass (rank 205 of 1071, score 43). 6 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D3.
 
 ### The claims on the record
 
@@ -1786,7 +1786,7 @@ Affiliations recorded: Weaponized podcast (with George Knapp), Extraordinary Bel
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 678 of 1066, score 23). 6 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.
+Re-graded C on a global pass (rank 681 of 1071, score 23). 6 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.
 
 ### The claims on the record
 
@@ -1822,7 +1822,7 @@ Affiliations recorded: U.S. Senate, Florida (2011-2025), SSCI Acting Chairman (2
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 404 of 1066, score 32). 6 connections, 1 of them custody/funding/programmatic. Axes C0/A3/D2.
+Re-graded B on a global pass (rank 406 of 1071, score 32). 6 connections, 1 of them custody/funding/programmatic. Axes C0/A3/D2.
 
 ### The claims on the record
 
@@ -1866,7 +1866,7 @@ Affiliations recorded: Thunder Scientific Corporation, Albuquerque (founder/pres
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 461 of 1066, score 30). 6 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A0/D3.
+Re-graded B on a global pass (rank 464 of 1071, score 30). 6 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A0/D3.
 
 ### The claims on the record
 
@@ -1901,7 +1901,7 @@ The structural point is the ordering. A former DCI publicly contradicting the Ai
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 153 of 1066, score 49). 6 connections, 0 of them custody/funding/programmatic. Axes C3/A2/D3.
+Re-graded A on a global pass (rank 154 of 1071, score 49). 6 connections, 0 of them custody/funding/programmatic. Axes C3/A2/D3.
 
 ### The claims on the record
 
@@ -1947,7 +1947,7 @@ Affiliations recorded: US Navy (1989-2017), Rear Admiral, Commander, Naval Meteo
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 135 of 1066, score 52). 8 connections, 2 of them custody/funding/programmatic. Axes C1/A2/D3.
+Re-graded A on a global pass (rank 135 of 1071, score 52). 8 connections, 2 of them custody/funding/programmatic. Axes C1/A2/D3.
 
 ### The claims on the record
 
@@ -1985,7 +1985,7 @@ A private correspondent of John Podesta's in the WikiLeaks Podesta Emails, writi
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 497 of 1066, score 29). 5 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.
+Re-graded B on a global pass (rank 501 of 1071, score 29). 5 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.
 
 ### The claims on the record
 
@@ -2016,7 +2016,7 @@ The board already holds a document over Cabell's signature, cited as a source on
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 227 of 1066, score 41). 5 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A2/D2.
+Re-graded B on a global pass (rank 228 of 1071, score 41). 5 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A2/D2.
 
 ### The claims on the record
 
@@ -2052,7 +2052,7 @@ Affiliations recorded: U.S. Senate, New York (1999- ), Senate Majority Leader (2
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 240 of 1066, score 40). 5 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D3.
+Re-graded B on a global pass (rank 241 of 1071, score 40). 5 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D3.
 
 ### The claims on the record
 
@@ -2089,7 +2089,7 @@ Affiliations recorded: New Paradigm Institute (founder), Christic Institute (co-
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 649 of 1066, score 24). 5 connections, 0 of them custody/funding/programmatic. Axes C1/A0/D3.
+Re-graded C on a global pass (rank 652 of 1071, score 24). 5 connections, 0 of them custody/funding/programmatic. Axes C1/A0/D3.
 
 ### The claims on the record
 
@@ -2103,13 +2103,13 @@ Re-graded C on a global pass (rank 649 of 1066, score 24). 5 connections, 0 of t
 
 - Daniel P. Sheehan runs out to **New Paradigm Institute** (institution, board tier C), a institutional link at Tier 1 documented. The link reads: Founder and principal. NPI is Sheehan's vehicle for the UAPDA campaign and the UAP Transparency Pledge. Sources: New Paradigm Institute, https://newparadigminstitute.org/, dated 2026-08-12.
 - Daniel P. Sheehan runs out to **Luis D. Elizondo** (person, board tier A), a institutional link at Tier 2 named person on the record. The link reads: Represents Elizondo in litigation against DoD. The legal channel through which prepublication review and non-disclosure constraints on a former programme director are being contested. Sources: Wikipedia - Daniel Sheehan (attorney), https://en.wikipedia.org/wiki/Daniel_Sheehan_(attorney), dated 2026-08-12.
+- Daniel P. Sheehan runs out to **Steven M. Greer** (person, board tier B), a institutional link at Tier 2 named person on the record. The link reads: Sheehan served as counsel to Greer's Disclosure Project. Recorded because it links the movement's current legal strategist to its most contested figure, a connection hostile reviewers will use. Sources: Wikipedia - Daniel Sheehan (attorney), https://en.wikipedia.org/wiki/Daniel_Sheehan_(attorney), dated 2026-08-12.
 - Daniel P. Sheehan comes in from **Conventional Prompt Global Strike** (program, board tier B), a investigative link at Tier 2 named person on the record. The link reads: Named the programme as the destination of reverse-engineered propulsion; the CRS report contradicts it. Sheehan named this programme on episode 224 as the destination of reverse-engineered propulsion; the CRS report on it contradicts the claim and this edge exists to carry the contradiction rather than the claim. Sources: CRS R41464, Conventional Prompt Global Strike and Long-Range Ballistic Missiles: Background and Issues, https://www.everycrsreport.com/reports/R41464.html, dated 2021-07-16.
 - Daniel P. Sheehan runs out to **Michael R. Turner** (person, board tier B), a witness-chain link at Tier 2 named person on the record. The link reads: Named-source account of what Turner demanded in conference. Sheehan is the only named participant to describe the conference demands; his account is corroborated by the statutory text but not by any released conference record. Sources: The Debrief, pushback from lawmakers, https://thedebrief.org/uap-disclosure-act-receives-pushback-from-lawmakers-on-capitol-hill-as-bipartisan-fight-for-transparency-continues/, dated 2023-11-27.
-- Daniel P. Sheehan runs out to **Steven M. Greer** (person, board tier C), a institutional link at Tier 2 named person on the record. The link reads: Sheehan served as counsel to Greer's Disclosure Project. Recorded because it links the movement's current legal strategist to its most contested figure, a connection hostile reviewers will use. Sources: Wikipedia - Daniel Sheehan (attorney), https://en.wikipedia.org/wiki/Daniel_Sheehan_(attorney), dated 2026-08-12.
 
 ## David Fravor
 
-David Fravor is a person on the board; board tier B, documented channel and capability, programme role indicated but not yet nailed to a primary source; dates 2023-07-26; axes C0 A1 D3; 5 connections.
+David Fravor is a person on the board; board tier A, named in sworn testimony or primary documents as directly inside the programme; dates 2023-07-26; axes C0 A1 D3; 5 connections.
 
 In one line: CDR, USN (Ret.); Commanding Officer, VFA-41 Black Aces; 14 Nov 2004 Nimitz intercept.
 
@@ -2129,23 +2129,28 @@ Affiliations recorded: US Navy (1989-2006), VFA-41 Black Aces, Commanding Office
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 405 of 1066, score 32). 6 connections, 1 of them custody/funding/programmatic. Axes C0/A1/D3.
+Re-graded A on a global pass (rank 149 of 1071, score 50). 6 connections, 1 of them custody/funding/programmatic. Axes C0/A1/D3.
 
 ### The claims on the record
 
 - **Tier 1 documented.** 'In Nov 2004, I was the Commanding Officer of Strike Fighter Squadron Forty-One' and encountered 'a small white Tic Tac shaped object ... There were no Rotors, No Rotor wash, or any visible flight control surfaces.' Source: David Fravor, written statement for the House Oversight Subcommittee on National Security, the Border and Foreign Affairs, 26 July 2023
 - **Tier 1 documented.** 'the incident was never investigated, none of my crew were ever questioned, tapes were never taken.' Source: David Fravor, written statement to House Oversight, 26 July 2023
+- **Tier 1 documented.** Asked by Rep. Langworthy 'is it true that you saw, in your words, a 40-foot flying Tic Tac shaped object?', he answered under oath: 'That is correct. For some people that cannot--know what a Tic Tac is it is a giant flying propane tank.' Source: Serial No. 118-53, https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm, 2023-07-26
+- **Tier 1 documented.** The biography Fravor filed with the subcommittee for the 26 July 2023 hearing, held in the House Committee Repository under event 116282, reads in full: 'David Fravor is a retired naval pilot and Commander of VFA-41 also known as The Black Aces. He is one of the primary witness in the 2004 USS Nimitz UFO incident. He was featured in the 2008 PBS documentary Carrier and has been interviewed on Joe Rogan's podcast The Joe Rogan Experience. Fravor joined the military at the age of 17. He has a career spanning 24 years, 18 of which was as a Navy pilot. He had completed five tours to the Persian Gulf starting after Operation Desert Storm. He commanded a squadron of 12 airplanes consisting of 330 people. Fravor retired in 2006.' The grammatical slip 'one of the primary witness' is in the original. This is a document filed with a committee and held in its repository, which is what makes it Tier 1. It is a witness-supplied biography, not a Navy service record. Source: HHRG-118-GO06-Bio-FravorD-20230726.pdf, http://docs.house.gov/meetings/GO/GO06/20230726/116282/HHRG-118-GO06-Bio-FravorD-20230726.pdf, 2023-07-26
+- **Tier 1 documented.** The testimony was sworn, and the printed record carries the mechanism. Chairman Grothman: 'Pursuant to Committee Rule 9(g), the witnesses will please stand and raise their right hands. Do you solemnly swear to tell the truth, the whole truth, and nothing but the truth, so help you God? [Witnesses are sworn.] Mr. Grothman. Let the record show that all the witnesses answered in the affirmative.' Source: Serial No. 118-53, https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm, 2023-07-26
 - **Tier 1 documented.** USS Princeton had been tracking the objects on Aegis for two weeks, descending from above 80,000 ft to 20,000 ft. Source: David Fravor, written statement to House Oversight, 26 July 2023
-- **Tier 1 documented.** Witness of record at the 26 July 2023 House Oversight hearing: 'Commander David Fravor (Ret.), Former Commanding Officer, United States Navy'. Written statement, Truth in Testimony form and bio filed in the House Committee Repository, event 116282. Source: CHRG-118hhrg53022 CONTENTS; docs.house.gov EventID 116282
-- **Tier 2 named person on the record.** 'It was aware we were there' and 'It just disappears. Like, gone.' Source: David Fravor, CBS 60 Minutes, 16 May 2021
+- **Tier 1 documented.** Under oath he gave the chain by which the case reached investigators and then the public: 'It was not until 2009, until Jay Stratton had contacted me to investigate. Unbeknownst to all, he was part of the ATIP program in the Pentagon led by Lue Elizondo. There was an unofficial official report that came out that is now on the internet. Years later, I was contacted by the other pilot, Alex Dietrich, and asked if I would been contacted and I said no, but I am willing to talk. I was contacted by Mr. Elizondo, and we talked for a short period of time.' This is the provenance chain in the words of the witness, under oath. Source: Serial No. 118-53, https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm, 2023-07-26
+- **Tier 1 documented.** Under oath he gave the radar picture of the 14 November 2004 intercept, in answer to Rep. Langworthy: 'The Princeton tracked it. The Nimitz tracked it. The E2 tracked it. We never saw it on our radars. Our fire control radars never picked it up. The other airplane that took the video did get it on a radar. As soon as it tried to lock it, it jammed the radar, spit the lock and he rapidly switched over to the targeting pod, which you can do in the F-18.' Source: Serial No. 118-53, https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm, 2023-07-26
+
+A further 3 claims sit on this node on the board and are not reproduced here.
 
 ### Its strongest connections
 
 - David Fravor comes in from **David Charles Grusch** (person, board tier A), a witness-chain link at Tier 1 documented. The link reads: Co-witness, 26 July 2023 hearing panel. Fravor testified alongside Grusch and Graves, providing the operational encounter testimony that framed Grusch's programmatic allegations for the committee. Sources: House Oversight hearing transcript, https://www.congress.gov/118/meeting/house/116282/documents/HHRG-118-GO06-Transcript-20230726.pdf, dated 2023-07-26.
-- David Fravor runs out to **USS Nimitz Carrier Strike Group Encounters, 10-16 November 2004** (event, board tier A), a witness-chain link at Tier 1 documented. The link reads: Intercepted the object as CO of VFA-41 on 14 Nov 2004. Fravor's sworn written statement to House Oversight places him as commanding officer of VFA-41 flying the intercept; the Navy's own range fouler report names him as aircrew. Sources: House Oversight - Fravor written statement (PDF), https://oversight.house.gov/wp-content/uploads/2023/07/David-Fravor-Statement-for-House-Oversight-Committee.pdf, dated 2023-07-26; The War Zone - Tic Tac incident in newly released range fouler reports, https://www.twz.com/tic-tac-uap-incident-included-in-72-newly-released-range-incursion-reports, dated 2023-01-14.
 - David Fravor runs out to **House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'** (event, board tier A), a programmatic link at Tier 1 documented. The link reads: sworn witness. Listed in the printed hearing record as a witness. Sources: CHRG-118hhrg53022, printed hearing transcript, 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency', Serial No. 118-53, https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/pdf/CHRG-118hhrg53022.pdf, dated 2023-07-26.
 - David Fravor runs out to **House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'** (event, board tier A), a witness-chain link at Tier 1 documented. The link reads: Testified as former commanding officer, VFA-41. Fravor's written statement to the subcommittee is the primary sworn account of the 2004 intercept. Sources: House Oversight - hearing page, 26 July 2023, https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/, dated 2023-07-26; House Oversight - Fravor written statement (PDF), https://oversight.house.gov/wp-content/uploads/2023/07/David-Fravor-Statement-for-House-Oversight-Committee.pdf, dated 2023-07-26; U.S. GPO, Hearing transcript, Serial No. 118-53 (CHRG-118hhrg53022), https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm, dated 2023-07-26.
-- David Fravor runs out to **Alex Dietrich** (person, board tier C), a witness-chain link at Tier 1 documented. The link reads: Section lead and wingman on the same intercept. Both are named as aircrew in the same Navy range fouler report and both gave first-person accounts on 60 Minutes in 2021. Sources: The War Zone - Tic Tac incident in newly released range fouler reports, https://www.twz.com/tic-tac-uap-incident-included-in-72-newly-released-range-incursion-reports, dated 2023-01-14; CBS News / 60 Minutes, https://www.cbsnews.com/news/ufo-military-intelligence-60-minutes-2021-05-16/, dated 2021-05-16.
+- David Fravor runs out to **USS Nimitz Carrier Strike Group Encounters, 10-16 November 2004** (event, board tier A), a witness-chain link at Tier 1 documented. The link reads: Intercepted the object as CO of VFA-41 on 14 Nov 2004. Fravor's sworn written statement to House Oversight places him as commanding officer of VFA-41 flying the intercept; the Navy's own range fouler report names him as aircrew. Sources: House Oversight - Fravor written statement (PDF), https://oversight.house.gov/wp-content/uploads/2023/07/David-Fravor-Statement-for-House-Oversight-Committee.pdf, dated 2023-07-26; The War Zone - Tic Tac incident in newly released range fouler reports, https://www.twz.com/tic-tac-uap-incident-included-in-72-newly-released-range-incursion-reports, dated 2023-01-14.
+- David Fravor runs out to **Alex Dietrich** (person, board tier B), a witness-chain link at Tier 1 documented. The link reads: Section lead and wingman on the same intercept. Both are named as aircrew in the same Navy range fouler report and both gave first-person accounts on 60 Minutes in 2021. Sources: The War Zone - Tic Tac incident in newly released range fouler reports, https://www.twz.com/tic-tac-uap-incident-included-in-72-newly-released-range-incursion-reports, dated 2023-01-14; CBS News / 60 Minutes, https://www.cbsnews.com/news/ufo-military-intelligence-60-minutes-2021-05-16/, dated 2021-05-16.
 - David Fravor runs out to **Kevin Day** (person, board tier C), a behavioral link at Tier 1 documented. The link reads: Direct conflict over whether data was taken. Fravor testified under his own name that 'tapes were never taken'; Day says media were removed from Princeton. The conflict resolves only if collection was platform-specific, and it is recorded here unresolved. Sources: House Oversight - Fravor written statement (PDF), https://oversight.house.gov/wp-content/uploads/2023/07/David-Fravor-Statement-for-House-Oversight-Committee.pdf, dated 2023-07-26; The War Zone - Tic Tac incident in newly released range fouler reports, https://www.twz.com/tic-tac-uap-incident-included-in-72-newly-released-range-incursion-reports, dated 2023-01-14.
 
 ## Maj. Donald E. Keyhoe, USMC (Ret.)
@@ -2165,7 +2170,7 @@ Keyhoe ran the civilian organisation the board already carries as nicap, and he 
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 202 of 1066, score 43). 5 connections, 0 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C1/A1/D2.
+Re-graded B on a global pass (rank 203 of 1071, score 43). 5 connections, 0 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C1/A1/D2.
 
 ### The claims on the record
 
@@ -2205,7 +2210,7 @@ Affiliations recorded: US Air Force veteran, U.S. Air Force (Langley AFB, c.2012
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 100 of 1066, score 61). 6 connections, 2 of them custody/funding/programmatic. Axes C1/A2/D3.
+Re-graded A on a global pass (rank 100 of 1071, score 61). 6 connections, 2 of them custody/funding/programmatic. Axes C1/A2/D3.
 
 ### The claims on the record
 
@@ -2247,7 +2252,7 @@ Affiliations recorded: U.S. House of Representatives, FL-23 (2023- ), House Comm
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 334 of 1066, score 35). 5 connections, 1 of them custody/funding/programmatic. Axes C0/A1/D3.
+Re-graded B on a global pass (rank 335 of 1071, score 35). 5 connections, 1 of them custody/funding/programmatic. Axes C0/A1/D3.
 
 ### The claims on the record
 
@@ -2285,7 +2290,7 @@ Affiliations recorded: The White House (1993-2001; 2014-2015), Center for Americ
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 653 of 1066, score 24). 5 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D3.
+Re-graded C on a global pass (rank 656 of 1071, score 24). 5 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D3.
 
 ### The claims on the record
 
@@ -2295,9 +2300,9 @@ Re-graded C on a global pass (rank 653 of 1066, score 24). 5 connections, 0 of t
 
 ### Its strongest connections
 
+- John D. Podesta comes in from **Steven M. Greer** (person, board tier B), a institutional link at Tier 1 documented. The link reads: Greer's CSETI submissions form the majority of the Clinton White House UFO file. Clinton FOIA collection 2006-0474-F consists in the majority of documents sent to the White House by Greer - the material reached the building and was filed as correspondence. Sources: Clinton Digital Library, FOIA collection 2006-0474-F, 'Unidentified Flying Objects (UFO)' (Greer/CSETI correspondence), https://clinton.presidentiallibraries.us/items/show/36386, dated 2019-09-16.
 - John D. Podesta comes in from **DeLonge to Podesta, 'General McCasland', 25 January 2016 (WikiLeaks Podesta Emails 3099)** (document, board tier B), a witness-chain link at Tier 1 documented. The link reads: Addressee of the McCasland email and organiser of the 25 January 2016 meeting. The email is addressed to john.podesta@gmail.com, and Podesta organised the 'DeLonge/Podesta Meeting' Google Hangout to which the general and DeLonge were both invited. Sources: WikiLeaks, The Podesta Emails, email ids 3099 and 51979, https://wikileaks.org/podesta-emails/emailid/3099, dated 2016-01-25.
 - John D. Podesta comes in from **Bob Fish** (person, board tier B), a witness-chain link at Tier 1 documented. The link reads: Wrote to Podesta over three days in March 2015 offering programme names. Fish wrote to Podesta directly over three days in March 2015 offering programme names; Podesta replied once and forwarded one email onward. Sources: WikiLeaks, The Podesta Emails, email id 30433, https://wikileaks.org/podesta-emails/emailid/30433, dated 2015-03-06.
-- John D. Podesta comes in from **Steven M. Greer** (person, board tier C), a institutional link at Tier 1 documented. The link reads: Greer's CSETI submissions form the majority of the Clinton White House UFO file. Clinton FOIA collection 2006-0474-F consists in the majority of documents sent to the White House by Greer - the material reached the building and was filed as correspondence. Sources: Clinton Digital Library, FOIA collection 2006-0474-F, 'Unidentified Flying Objects (UFO)' (Greer/CSETI correspondence), https://clinton.presidentiallibraries.us/items/show/36386, dated 2019-09-16.
 - John D. Podesta runs out to **The Disclosure Project** (program, board tier C), a behavioral link at Tier 2 named person on the record. The link reads: Podesta's 2002 declassification call followed the Disclosure Project's 2001 press conference. Podesta appeared for the Coalition for Freedom of Information at the National Press Club on 22 October 2002, seventeen months after Greer's event in the same venue. Sources: Clinton Digital Library, FOIA collection 2006-0474-F, 'Unidentified Flying Objects (UFO)' (Greer/CSETI correspondence), https://clinton.presidentiallibraries.us/items/show/36386, dated 2019-09-16.
 - John D. Podesta comes in from **Laurance S. Rockefeller** (person, board tier C), a institutional link at Tier 3 stated inference. The link reads: The initiative worked the Clinton White House while Podesta was Staff Secretary and later Chief of Staff. Podesta held senior White House staff positions throughout the initiative's life and has since publicly and repeatedly demanded UFO declassification, including at the National Press Club on 22 October 2002. Sources: Clinton Digital Library, FOIA collection 2006-0480-F, 'Laurance Rockefeller' (Clinton-Rockefeller correspondence), https://clinton.presidentiallibraries.us/items/show/36323, dated 2019-09-16; Clinton Digital Library, FOIA collection 2006-0474-F, 'Unidentified Flying Objects (UFO)' (Greer/CSETI correspondence), https://clinton.presidentiallibraries.us/items/show/36386, dated 2019-09-16.
 
@@ -2319,7 +2324,7 @@ Affiliations recorded: NASA Ames Research Center (2001-2005), University at Alba
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 858 of 1066, score 17). 5 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.
+Re-graded C on a global pass (rank 862 of 1071, score 17). 5 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.
 
 ### The claims on the record
 
@@ -2353,7 +2358,7 @@ Affiliations recorded: US Army, Vietnam (116th and 187th Assault Helicopter Comp
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 410 of 1066, score 32). 5 connections, 0 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C0/A1/D3.
+Re-graded B on a global pass (rank 411 of 1071, score 32). 5 connections, 0 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C0/A1/D3.
 
 ### The claims on the record
 
@@ -2392,7 +2397,7 @@ Affiliations recorded: CRIFO (Civilian Research, Interplanetary Flying Objects),
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 746 of 1066, score 21). 5 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D3.
+Re-graded C on a global pass (rank 749 of 1071, score 21). 5 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D3.
 
 ### The claims on the record
 
@@ -2427,7 +2432,7 @@ Affiliations recorded: University at Albany (SUNY), Department of Physics, LUX /
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 857 of 1066, score 17). 5 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.
+Re-graded C on a global pass (rank 861 of 1071, score 17). 5 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.
 
 ### The claims on the record
 
@@ -2460,7 +2465,7 @@ Genik has no documented custody proximity and no documented special access. He i
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 130 of 1066, score 53). 5 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D3.
+Re-graded A on a global pass (rank 130 of 1071, score 53). 5 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D3.
 
 ### The claims on the record
 
@@ -2499,7 +2504,7 @@ Richard Bissell is where the documented record of Area 51 begins, and the board'
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 211 of 1066, score 42). 5 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D1.
+Re-graded B on a global pass (rank 212 of 1071, score 42). 5 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D1.
 
 ### The claims on the record
 
@@ -2539,7 +2544,7 @@ Affiliations recorded: ufohastings.com, UFOs and Nukes (book and documentary).
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 471 of 1066, score 30). 5 connections, 2 of them custody/funding/programmatic. Axes C0/A0/D3.
+Re-graded B on a global pass (rank 475 of 1071, score 30). 5 connections, 2 of them custody/funding/programmatic. Axes C0/A0/D3.
 
 ### The claims on the record
 
@@ -2580,7 +2585,7 @@ Affiliations recorded: US House of Representatives, NM-01 (1989-1998), House Jud
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 275 of 1066, score 38). 5 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.
+Re-graded B on a global pass (rank 276 of 1071, score 38). 5 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.
 
 ### The claims on the record
 
@@ -2620,7 +2625,7 @@ Affiliations recorded: Central Intelligence Agency, Director of Central Intellig
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 380 of 1066, score 33). 5 connections, 1 of them custody/funding/programmatic. Axes C1/A3/D0.
+Re-graded B on a global pass (rank 382 of 1071, score 33). 5 connections, 1 of them custody/funding/programmatic. Axes C1/A3/D0.
 
 ### The claims on the record
 
@@ -2649,7 +2654,7 @@ The correspondent named throughout the Wilson-Davis notes as the man who first r
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 677 of 1066, score 23). 5 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.
+Re-graded C on a global pass (rank 680 of 1071, score 23). 5 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.
 
 ### The claims on the record
 
@@ -2664,12 +2669,12 @@ Re-graded C on a global pass (rank 677 of 1066, score 23). 5 connections, 0 of t
 - Will Miller runs out to **Eric W. Davis** (person, board tier A), a witness-chain link at Tier 1 documented. The link reads: His letter of 25 April 2002 is addressed to Davis at Warp Drive Metrics. Miller's letter of 25 April 2002 is addressed to Davis at Warp Drive Metrics and offers him paid research assistance. Sources: The Wilson-Davis notes as published (EWD NOTES, 10/16/02, Eric Davis Meeting with Adm. Wilson), fifteen pages, The Black Vault case files, https://documents2.theblackvault.com/casefiles/wilsonleak.pdf, dated 2002-10-16.
 - Will Miller runs out to **The Wilson-Davis Notes (16 October 2002)** (document, board tier A), a witness-chain link at Tier 1 documented. The link reads: Named on six of the fifteen pages; his own signed letter is two of them. Miller is named on six of the notes' fifteen pages and his own signed letter is bound in as two of them. Sources: The Wilson-Davis notes as published (EWD NOTES, 10/16/02, Eric Davis Meeting with Adm. Wilson), fifteen pages, The Black Vault case files, https://documents2.theblackvault.com/casefiles/wilsonleak.pdf, dated 2002-10-16.
 - Will Miller runs out to **United States Navy** (institution, board tier C), a institutional link at Tier 1 documented. The link reads: His letter of 25 April 2002 is on United States Navy letterhead. Miller's letter is on United States Navy letterhead and Wilson's complaint in the notes is framed in terms of trust among Navy officers, though no rank is stated anywhere in the document. Sources: The Wilson-Davis notes as published (EWD NOTES, 10/16/02, Eric Davis Meeting with Adm. Wilson), fifteen pages, The Black Vault case files, https://documents2.theblackvault.com/casefiles/wilsonleak.pdf, dated 2002-10-16.
-- Will Miller runs out to **Steven M. Greer** (person, board tier C), a witness-chain link at Tier 2 named person on the record. The link reads: Placed with Greer and Mitchell at the April 1997 Pentagon talk. The notes place Miller with Greer and Mitchell at the April 1997 Pentagon talk and record that Miller told Greer what Wilson had said. Sources: The Wilson-Davis notes as published (EWD NOTES, 10/16/02, Eric Davis Meeting with Adm. Wilson), fifteen pages, The Black Vault case files, https://documents2.theblackvault.com/casefiles/wilsonleak.pdf, dated 2002-10-16.
+- Will Miller runs out to **Steven M. Greer** (person, board tier B), a witness-chain link at Tier 2 named person on the record. The link reads: Placed with Greer and Mitchell at the April 1997 Pentagon talk. The notes place Miller with Greer and Mitchell at the April 1997 Pentagon talk and record that Miller told Greer what Wilson had said. Sources: The Wilson-Davis notes as published (EWD NOTES, 10/16/02, Eric Davis Meeting with Adm. Wilson), fifteen pages, The Black Vault case files, https://documents2.theblackvault.com/casefiles/wilsonleak.pdf, dated 2002-10-16.
 - Will Miller runs out to **Thomas R. Wilson** (person, board tier C), a witness-chain link at Tier 2 named person on the record. The link reads: The private two hour conversation of April 1997, as the notes record it. The notes record a private two hour conversation between Miller and Wilson in April 1997 and Wilson's later anger that Miller repeated it. Sources: The Wilson-Davis notes as published (EWD NOTES, 10/16/02, Eric Davis Meeting with Adm. Wilson), fifteen pages, The Black Vault case files, https://documents2.theblackvault.com/casefiles/wilsonleak.pdf, dated 2002-10-16.
 
 ## Alex Dietrich
 
-Alex Dietrich is a person on the board; board tier C, contextual, real and relevant, no direct programme linkage on the record yet; dates 2021-05-16; axes C0 A1 D2; 4 connections.
+Alex Dietrich is a person on the board; board tier B, documented channel and capability, programme role indicated but not yet nailed to a primary source; dates 2021-05-16; axes C0 A1 D2; 4 connections.
 
 In one line: LCDR, USN (Ret.); VFA-41 wingman on the 14 Nov 2004 Nimitz intercept.
 
@@ -2681,11 +2686,15 @@ Affiliations recorded: US Navy (2001-2019), VFA-41 Black Aces (2004), Naval Post
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 823 of 1066, score 18). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.
+Re-graded B on a global pass (rank 469 of 1071, score 30). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.
 
 ### The claims on the record
 
+- **Tier 1 documented.** CBS News, 60 Minutes, correspondent Bill Whitaker, published 16 May 2021, states that Dietrich, a former F/A-18F pilot, 'has never before spoken publicly about what she saw that day'. The same report quotes her: 'It was unidentified. And that's why it was so unsettling to us. Because we weren't expecting it. We couldn't classify it'; 'No predictable movement, no predictable trajectory'; and 'I felt the vulnerability of not having anything to defend ourselves. And then I felt confused when it disappeared.' This dates the start of her public record to 16 May 2021 on the network's own assertion. Source: https://www.cbsnews.com/news/navy-ufo-sighting-60-minutes-2021-05-16/, 2021-05-16
+- **Tier 1 documented, allegation shaped wording as stored.** In sworn testimony at the 13 November 2024 House Oversight joint hearing, Tim Gallaudet named her while alleging AARO pressure on him: 'In addition, they tried to have me question very valid UAP reports like the Tic Tac incident, even coming to a--stating possibly that the Tic Tac was American technology. And then, of course, if you ask David Fravor or Alex Dietrich, the two witnesses, they were convinced it was otherwise.' Tier 1 for the fact that he said it under oath. The allegation about AARO's conduct is his word and caps at Tier 2 as a claim about the world. Source: Serial No. 118-135, https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm, 2024-11-13
+- **Tier 1 documented.** In sworn testimony at the 26 July 2023 House Oversight subcommittee hearing, David Fravor placed her in the chain of who re-opened the 2004 case: 'Years later, I was contacted by the other pilot, Alex Dietrich, and asked if I would been contacted and I said no, but I am willing to talk.' Tier 1 for the fact that a sworn witness said this on that date; the underlying sequence is his account. Source: Serial No. 118-53, https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm, 2023-07-26
 - **Tier 1 documented.** Navy range fouler documentation on the 14 Nov 2004 incident names the F/A-18 aircrew as including Commander David Fravor and Lt. Cmdr. Alex Dietrich. Source: Navy range fouler reports released via the Navy FOIA reading room, 13 January 2023, reported by The War Zone
+- **Tier 1 documented.** The University of Colorado Boulder publishes her as a Lecturer in its Lockheed Martin Engineering Management Program, previously an adjunct instructor in the Engineering Leadership Program (2022) and Scholar in Residence to the Engineering Management Program (2023). The same page gives her career as a 20-year Naval career as an F/A-18F strike fighter pilot, with combat deployments supporting Operation Iraqi Freedom and Operation Enduring Freedom, a final yearlong assignment as an infrastructure reconstruction engineer in Ghazni, Afghanistan, and a Bronze Star and Air Combat Medal. Prior teaching posts: Naval Science instructor across a Washington DC consortium of Georgetown, George Washington, Howard and Catholic universities, and Military Professor at the US Naval Academy, Department of Leadership, Ethics and Law. Education: BS Civil Engineering, George Washington University; Defense Language Institute certification in Dari; MBA, GW School of Business. This is an employer's published biography of its own lecturer, not a service record. Source: https://www.colorado.edu/emp/people/alex-dietrich, opened 2026-09-18
 - **Tier 2 named person on the record.** 'I never wanted to be on national TV, no offense.' Source: Alex Dietrich, CBS 60 Minutes, 16 May 2021
 - **Tier 2 named person on the record.** Dietrich 'was mocked by her colleagues' and the incident 'went years without any investigation.' Source: Michael Gold, written testimony, House Oversight joint subcommittee hearing, 13 November 2024
 
@@ -2693,7 +2702,7 @@ Re-graded C on a global pass (rank 823 of 1066, score 18). 4 connections, 0 of t
 
 - Alex Dietrich runs out to **USS Nimitz Carrier Strike Group Encounters, 10-16 November 2004** (event, board tier A), a witness-chain link at Tier 1 documented. The link reads: Flew wing on the 14 Nov 2004 intercept; observed the object for about five minutes. Dietrich and her WSO observed the object from roughly 8,000 feet above for about five minutes. She is named in the Navy range fouler report released 12 January 2023. Sources: The War Zone - Tic Tac incident in newly released range fouler reports, https://www.twz.com/tic-tac-uap-incident-included-in-72-newly-released-range-incursion-reports, dated 2023-01-14; CBS News / 60 Minutes, https://www.cbsnews.com/news/ufo-military-intelligence-60-minutes-2021-05-16/, dated 2021-05-16.
 - Alex Dietrich runs out to **ODNI Preliminary Assessment: Unidentified Aerial Phenomena (25 June 2021)** (document, board tier A), a behavioral link at Tier 1 documented. The link reads: Sixteen years of silence is the stigma the assessment describes. Dietrich gave her first public account in May 2021, weeks before ODNI conceded that aviators face 'disparagement associated with observing UAP, reporting it, or attempting to discuss it with colleagues.' Sources: CBS News / 60 Minutes, https://www.cbsnews.com/news/ufo-military-intelligence-60-minutes-2021-05-16/, dated 2021-05-16; ODNI Preliminary Assessment: Unidentified Aerial Phenomena (PDF), https://archive.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf, dated 2021-06-25.
-- Alex Dietrich comes in from **David Fravor** (person, board tier B), a witness-chain link at Tier 1 documented. The link reads: Section lead and wingman on the same intercept. Both are named as aircrew in the same Navy range fouler report and both gave first-person accounts on 60 Minutes in 2021. Sources: The War Zone - Tic Tac incident in newly released range fouler reports, https://www.twz.com/tic-tac-uap-incident-included-in-72-newly-released-range-incursion-reports, dated 2023-01-14; CBS News / 60 Minutes, https://www.cbsnews.com/news/ufo-military-intelligence-60-minutes-2021-05-16/, dated 2021-05-16.
+- Alex Dietrich comes in from **David Fravor** (person, board tier A), a witness-chain link at Tier 1 documented. The link reads: Section lead and wingman on the same intercept. Both are named as aircrew in the same Navy range fouler report and both gave first-person accounts on 60 Minutes in 2021. Sources: The War Zone - Tic Tac incident in newly released range fouler reports, https://www.twz.com/tic-tac-uap-incident-included-in-72-newly-released-range-incursion-reports, dated 2023-01-14; CBS News / 60 Minutes, https://www.cbsnews.com/news/ufo-military-intelligence-60-minutes-2021-05-16/, dated 2021-05-16.
 - Alex Dietrich comes in from **Michael Gold** (person, board tier B), a witness-chain link at Tier 2 named person on the record. The link reads: Cited Dietrich by name to Congress as evidence of aviator stigma. Gold testified she 'was mocked by her colleagues' and that her incident 'went years without any investigation.' Sources: House Oversight - Gold written testimony (PDF), https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Gold.pdf, dated 2024-11-13.
 
 ## Alexandro Wiggins
@@ -2722,7 +2731,7 @@ Affiliations recorded: US Navy, Senior Chief Operations Specialist, USS Jackson 
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 172 of 1066, score 46). 5 connections, 1 of them custody/funding/programmatic. Axes C1/A1/D3.
+Re-graded B on a global pass (rank 173 of 1071, score 46). 5 connections, 1 of them custody/funding/programmatic. Axes C1/A1/D3.
 
 ### The claims on the record
 
@@ -2764,7 +2773,7 @@ The documented officeholder who joins three institutions the board already carri
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 228 of 1066, score 41). 4 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D1.
+Re-graded B on a global pass (rank 229 of 1071, score 41). 4 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D1.
 
 ### The claims on the record
 
@@ -2802,7 +2811,7 @@ Everything substantive on this thread traces to one man, and the earliest docume
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 465 of 1066, score 30). 4 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D1.
+Re-graded B on a global pass (rank 468 of 1071, score 30). 4 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D1.
 
 ### The claims on the record
 
@@ -2838,7 +2847,7 @@ Affiliations recorded: Office of the Assistant to the Secretary of Defense for P
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 741 of 1066, score 21). 4 connections, 0 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C0/A1/D0.
+Re-graded C on a global pass (rank 744 of 1071, score 21). 4 connections, 0 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C0/A1/D0.
 
 ### The claims on the record
 
@@ -2870,7 +2879,7 @@ Affiliations recorded: Air Technical Intelligence Center, Wright-Patterson AFB (
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 359 of 1066, score 34). 4 connections, 0 of them custody/funding/programmatic. Axes C2/A2/D3.
+Re-graded B on a global pass (rank 360 of 1071, score 34). 4 connections, 0 of them custody/funding/programmatic. Axes C2/A2/D3.
 
 ### The claims on the record
 
@@ -2908,7 +2917,7 @@ Affiliations recorded: U.S. House of Representatives, AZ-2 (2023- ), Committee o
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 333 of 1066, score 35). 4 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D3.
+Re-graded B on a global pass (rank 334 of 1071, score 35). 4 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D3.
 
 ### The claims on the record
 
@@ -2939,7 +2948,7 @@ Affiliations recorded: U.S. House of Representatives, WI-6 (2015- ), Subcommitte
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 710 of 1066, score 22). 5 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.
+Re-graded C on a global pass (rank 713 of 1071, score 22). 5 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.
 
 ### The claims on the record
 
@@ -2973,7 +2982,7 @@ Gordon Gray held, in sequence, four offices that between them cover the whole of
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 291 of 1066, score 37). 4 connections, 0 of them custody/funding/programmatic. Axes C2/A2/D1.
+Re-graded B on a global pass (rank 292 of 1071, score 37). 4 connections, 0 of them custody/funding/programmatic. Axes C2/A2/D1.
 
 ### The claims on the record
 
@@ -3005,7 +3014,7 @@ Affiliations recorded: CIA Office of Scientific Intelligence, Assistant Director
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 499 of 1066, score 29). 4 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D0.
+Re-graded B on a global pass (rank 503 of 1071, score 29). 4 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D0.
 
 ### The claims on the record
 
@@ -3035,7 +3044,7 @@ Affiliations recorded: Ohio State University (1936-1956), Project SIGN / GRUDGE 
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 467 of 1066, score 30). 4 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D3.
+Re-graded B on a global pass (rank 471 of 1071, score 30). 4 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D3.
 
 ### The claims on the record
 
@@ -3065,7 +3074,7 @@ Affiliations recorded: U.S. House of Representatives, KY-1 (2016- ), Committee o
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 793 of 1066, score 19). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.
+Re-graded C on a global pass (rank 798 of 1071, score 19). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.
 
 ### The claims on the record
 
@@ -3095,7 +3104,7 @@ Affiliations recorded: University of Arizona, Institute of Atmospheric Physics (
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 434 of 1066, score 31). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.
+Re-graded B on a global pass (rank 436 of 1071, score 31). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.
 
 ### The claims on the record
 
@@ -3138,7 +3147,7 @@ Affiliations recorded: Defense Intelligence Agency (2000s-2021), AAWSAP/AATIP pa
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 136 of 1066, score 52). 6 connections, 2 of them custody/funding/programmatic. Axes C2/A3/D2.
+Re-graded A on a global pass (rank 136 of 1071, score 52). 6 connections, 2 of them custody/funding/programmatic. Axes C2/A3/D2.
 
 ### The claims on the record
 
@@ -3180,7 +3189,7 @@ Affiliations recorded: US Army, Colonel (ret.), UAP Task Force, Army liaison (20
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 498 of 1066, score 29). 4 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D3.
+Re-graded B on a global pass (rank 502 of 1071, score 29). 4 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D3.
 
 ### The claims on the record
 
@@ -3219,7 +3228,7 @@ Affiliations recorded: US Navy (retired Senior Chief Operations Specialist), USS
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 708 of 1066, score 22). 4 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D2.
+Re-graded C on a global pass (rank 711 of 1071, score 22). 4 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D2.
 
 ### The claims on the record
 
@@ -3229,7 +3238,7 @@ Re-graded C on a global pass (rank 708 of 1066, score 22). 4 connections, 0 of t
 
 ### Its strongest connections
 
-- Kevin Day comes in from **David Fravor** (person, board tier B), a behavioral link at Tier 1 documented. The link reads: Direct conflict over whether data was taken. Fravor testified under his own name that 'tapes were never taken'; Day says media were removed from Princeton. The conflict resolves only if collection was platform-specific, and it is recorded here unresolved. Sources: House Oversight - Fravor written statement (PDF), https://oversight.house.gov/wp-content/uploads/2023/07/David-Fravor-Statement-for-House-Oversight-Committee.pdf, dated 2023-07-26; The War Zone - Tic Tac incident in newly released range fouler reports, https://www.twz.com/tic-tac-uap-incident-included-in-72-newly-released-range-incursion-reports, dated 2023-01-14.
+- Kevin Day comes in from **David Fravor** (person, board tier A), a behavioral link at Tier 1 documented. The link reads: Direct conflict over whether data was taken. Fravor testified under his own name that 'tapes were never taken'; Day says media were removed from Princeton. The conflict resolves only if collection was platform-specific, and it is recorded here unresolved. Sources: House Oversight - Fravor written statement (PDF), https://oversight.house.gov/wp-content/uploads/2023/07/David-Fravor-Statement-for-House-Oversight-Committee.pdf, dated 2023-07-26; The War Zone - Tic Tac incident in newly released range fouler reports, https://www.twz.com/tic-tac-uap-incident-included-in-72-newly-released-range-incursion-reports, dated 2023-01-14.
 - Kevin Day runs out to **USS Nimitz Carrier Strike Group Encounters, 10-16 November 2004** (event, board tier A), a witness-chain link at Tier 2 named person on the record. The link reads: Ran the Princeton air picture and vectored the intercept. As Senior Chief Operations Specialist Day was the air warfare coordinator holding the tracks. Fravor's sworn statement corroborates the substance of the radar picture Day describes. Sources: House Oversight - Fravor written statement (PDF), https://oversight.house.gov/wp-content/uploads/2023/07/David-Fravor-Statement-for-House-Oversight-Committee.pdf, dated 2023-07-26.
 - Kevin Day runs out to **USS Princeton (CG-59)** (institution, board tier B), a institutional link at Tier 2 named person on the record. The link reads: Senior Chief Operations Specialist aboard USS Princeton, Nov 2004. Day's billet is the reason his account of the radar record and its removal carries weight; he is the man who owned the air picture. Sources: House Oversight - Fravor written statement (PDF), https://oversight.house.gov/wp-content/uploads/2023/07/David-Fravor-Statement-for-House-Oversight-Committee.pdf, dated 2023-07-26.
 - Kevin Day runs out to **Gary Voorhis** (person, board tier C), a witness-chain link at Tier 3 stated inference. The link reads: Independent shipmate corroboration of the post-encounter data collection. Two Princeton crewmen in unrelated divisions give converging accounts of unidentified personnel removing recorded material - evidentiary convergence short of documentary proof. Sources: The War Zone - Tic Tac incident in newly released range fouler reports, https://www.twz.com/tic-tac-uap-incident-included-in-72-newly-released-range-incursion-reports, dated 2023-01-14.
@@ -3579,7 +3588,7 @@ What is documented about his work is classical general relativity, not gravity c
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 597 of 1066, score 26). 4 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D0.
+Re-graded C on a global pass (rank 600 of 1071, score 26). 4 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D0.
 
 ### The claims on the record
 
@@ -3616,7 +3625,7 @@ Affiliations recorded: The Hill (opinion contributor), US Department of State (f
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 1017 of 1066, score 10). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.
+Re-graded C on a global pass (rank 1021 of 1071, score 10). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.
 
 ### The claims on the record
 
@@ -3643,7 +3652,7 @@ Affiliations recorded: Bigelow Aerospace (Washington DC operations, prior), NASA
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 463 of 1066, score 30). 5 connections, 1 of them custody/funding/programmatic. Axes C0/A1/D2.
+Re-graded B on a global pass (rank 466 of 1071, score 30). 5 connections, 1 of them custody/funding/programmatic. Axes C0/A1/D2.
 
 ### The claims on the record
 
@@ -3660,7 +3669,45 @@ Re-graded B on a global pass (rank 463 of 1066, score 30). 5 connections, 1 of t
 - Michael Gold runs out to **House Oversight joint hearing, 13 November 2024 - 'Unidentified Anomalous Phenomena: Exposing the Truth'** (event, board tier A), a witness-chain link at Tier 1 documented. The link reads: Testified before the House Oversight joint subcommittees. Gold testified as the fourth witness and answered Boebert's genetics question in the negative. Sources: House Oversight - hearing page, 13 Nov 2024, https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-exposing-the-truth/, dated 2024-11-13; House Oversight - Gold written testimony (PDF), https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Gold.pdf, dated 2024-11-13; U.S. GPO, Hearing transcript, Serial No. 118-135 (CHRG-118hhrg57440), https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm, dated 2024-11-13.
 - Michael Gold runs out to **NASA UAP Independent Study Team** (program, board tier B), a institutional link at Tier 1 documented. The link reads: Member of the study team. Gold is listed among the team's members and later testified to Congress on its findings. Sources: NASA UAP Independent Study Team Final Report (PDF), https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf, dated 2023-09-14; House Oversight - Gold written testimony (PDF), https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Gold.pdf, dated 2024-11-13.
 - Michael Gold runs out to **All-domain Anomaly Resolution Office (AARO)** (institution, board tier A), a investigative link at Tier 2 named person on the record. The link reads: NASA UAP study participant testifying on stigma and data policy alongside AARO's remit. Gold's testimony argued the problem is stigma and data quality as much as classification. Sources: U.S. GPO, Hearing transcript, Serial No. 118-135 (CHRG-118hhrg57440), https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm, dated 2024-11-13; Michael Gold, written testimony, House Oversight, https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Gold.pdf, dated 2024-11-13.
-- Michael Gold runs out to **Alex Dietrich** (person, board tier C), a witness-chain link at Tier 2 named person on the record. The link reads: Cited Dietrich by name to Congress as evidence of aviator stigma. Gold testified she 'was mocked by her colleagues' and that her incident 'went years without any investigation.' Sources: House Oversight - Gold written testimony (PDF), https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Gold.pdf, dated 2024-11-13.
+- Michael Gold runs out to **Alex Dietrich** (person, board tier B), a witness-chain link at Tier 2 named person on the record. The link reads: Cited Dietrich by name to Congress as evidence of aviator stigma. Gold testified she 'was mocked by her colleagues' and that her incident 'went years without any investigation.' Sources: House Oversight - Gold written testimony (PDF), https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Gold.pdf, dated 2024-11-13.
+
+## Michael Herrera
+
+Michael Herrera is a person on the board; board tier B, documented channel and capability, programme role indicated but not yet nailed to a primary source; dates no dates recorded; axes C1 A0 D2; 4 connections.
+
+In one line: Former US Marine who says that in 2009, during humanitarian and security operations after an Indonesian earthquake, he and his unit encountered a large craft being loaded by non-uniformed armed personnel.
+
+### The longer account
+
+Michael Herrera is a claimant whose account has reached two official records without him ever having testified, and the distinction is the whole reason this node is carefully worded. He has never been a witness at a congressional hearing. His name appears exactly once across the printed records of the three modern House UAP hearings: on 9 September 2025 Rep. Eric Burlison moved a document about him into the record, describing it as testimony given to him by Dr. Steven Greer, and the chair admitted it without objection. Separately, AARO's Historical Record Report Volume I carries at page 29 an anonymised one-sentence summary of a 2009 foreign humanitarian-mission account that matches his public account on year, mission type and scene. AARO names nobody and maintains the anonymisation key itself, so the identification of that interviewee as Herrera is an inference and is carried here as Tier 3, not as a fact. His own account is on the public record in a dated artefact, a Shawn Ryan Show appearance of 17 July 2023. No service record, no DD-214 and no corroborating squadmate was opened. What makes him a node is proximity to a claim that two official records touch, not credibility: he held no programme office and no clearance is documented anywhere.
+
+### Recorded as unverified
+
+- The 'Memorandum for Record' he says he later obtained from AARO was NOT OPENED. Only a search-engine paraphrase of a social-media post describing it was found, and it is deliberately not cited.
+- No service record, DD-214 or unit assignment was opened. His Marine Corps service is self-stated.
+- No squadmate or member of his claimed unit has corroborated the account in any opened record.
+
+### Why it holds its tier
+
+Re-graded B on a global pass (rank 361 of 1071, score 34). 4 connections, 1 of them custody/funding/programmatic. Axes C1/A0/D2.
+
+### The claims on the record
+
+- **Tier 1 documented.** AARO's 'Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP), Volume I', February 2024, carries at page 29, in Section V 'Assessment of Interviewee Claims of USG Involvement in Hidden UAP Programs', this sentence: 'An interviewee who is a former U.S. service member said that in 2009, while participating in a humanitarian and security mission in a foreign country, he encountered U.S. Special Forces loading containers onto a large extraterrestrial spacecraft.' The sentence is AARO's summary of an interview, not a quotation of the interviewee, and it names nobody. Source: AARO Historical Record Report Volume I, p. 29, https://documents2.theblackvault.com/documents/dod/AARO_Historical_Record_Report_Volume_1_2024.pdf, 2024-02
+- **Tier 1 documented.** He is on no congressional witness list. The committee-published witness lists for 26 July 2023 (event 116282), 13 November 2024 (event 117722) and 9 September 2025 name him nowhere, and the printed records of all three hearings contain his name exactly once in total, in the Burlison colloquy. Source: https://docs.house.gov/Committee/Calendar/ByEvent.aspx?EventID=116282, https://docs.house.gov/Committee/Calendar/ByEvent.aspx?EventId=117722, https://oversight.house.gov/hearing/restoring-public-trust-through-uap-transparency-and-whistleblower-protection/, all opened 2026-09-18
+- **Tier 1 documented.** The National Press Club's own events listing carries 'UFO/UAP Disclosure Press Conference', 12 June 2023, 2:00 PM, in the Club's Ballroom, with the disclaimer 'This event is not sponsored or endorsed by The National Press Club'. Steven Greer is the only named presenter and Michael Herrera is not named on the listing. This matters because that event is widely given as the venue of his first public statement; the venue's own record neither confirms nor denies his presence, it simply does not name him. Source: https://www.press.org/events/ufouap-disclosure-press-conference, opened 2026-09-18
+- **Tier 1 documented.** The printed record of the House Oversight Task Force on the Declassification of Federal Secrets hearing of 9 September 2025 carries this colloquy. Rep. Eric Burlison: 'Madam Chair, I also have further witnesses of courageous individuals. It was given to me by Dr. Steven Greer, including Michael Herrera and his testimony. We have Roderick Castle and his testimony; Randy Anderson, his testimony; Steven Digna, and others, three others, all saying similar things to what the witnesses today have said, and I would like to enter that into the record as well.' Chairwoman Luna: 'No objection.' What this documents is that a member moved a document about him into a hearing record and sourced it to Steven Greer. It does not document that he testified, was sworn, or appeared. Source: Serial CHRG-119hhrg61718, https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm, 2025-09-09
+- **Tier 1 documented.** The same report states the anonymisation rule that is why the page 29 sentence names nobody: 'AARO generated random numbers and assigned one to each interviewee. AARO maintains the key, which is stored and handled in a secure manner to protect each interviewee's privacy.' It also gives the scale and the tiering: 'As of September 17, 2023, AARO interviewed approximately 30 individuals', with Tier 1 interviewees being 'those who have spoken with congressional staff or Members of Congress and have been subsequently referred to AARO'. Source: AARO Historical Record Report Volume I, p. 28, https://documents2.theblackvault.com/documents/dod/AARO_Historical_Record_Report_Volume_1_2024.pdf, 2024-02
+- **Tier 2 named person on the record.** His own account is on the public record in a dated artefact: 'Michael Herrera - US Marine Encounters UFO Black Ops Human Trafficking Operation | SRS #66 (Part 1)', Shawn Ryan Show, premiered 17 July 2023, runtime 1:26:50. The channel's own description reads: 'Former Marine Michael Herrera tells all in part one of this three part series. Herrera and his team were tasked with responding to a major earthquake and tsunami in Indonesia providing overwatch and logistical support. Little did they know--they would come face to face with a UAP / UFO and be ambushed by an unmarked shadow unit of operators.' This is a man saying a thing on a dated recording, and nothing more. Source: Shawn Ryan Show #66 part 1, YouTube video id 3zm4nh3S66I, 2023-07-17, opened 2026-09-18
+- **Tier 3 stated inference.** The Shawn Ryan Show description's phrase 'how he is testifying to Congress' is not supported by any opened record. He has never been a hearing witness. Whether he was interviewed in a closed congressional setting is a separate question that has not been reached, and the promotional phrasing should not be read as establishing either. Source: stated inference from the committee witness lists and the Shawn Ryan Show description
+- **Tier 3 stated inference.** The identification of AARO's page 29 interviewee as Michael Herrera is an INFERENCE and this node carries it as one. It matches his public account on year, on mission type and on the described scene. No opened record makes the link, AARO names nobody, and Herrera is not named anywhere in the report. Source: stated inference from the AARO Volume I page 29 summary and his Shawn Ryan Show account
+
+### Its strongest connections
+
+- Michael Herrera runs out to **Eric Burlison** (person, board tier A), a witness-chain link at Tier 1 documented. The link reads: The member who moved his written testimony into the hearing record. Burlison is the member who made the motion on 9 September 2025, naming Herrera among several individuals whose testimony he entered. Sources: Serial CHRG-119hhrg61718, printed record of 9 September 2025, https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm, dated 2025-09-09.
+- Michael Herrera runs out to **House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'** (event, board tier A), a witness-chain link at Tier 1 documented. The link reads: Written testimony moved into the record by a member; NOT a witness appearance. HE IS NOT A WITNESS AT THIS HEARING AND THIS EDGE MUST NOT BE READ AS AN APPEARANCE. Rep. Eric Burlison moved a document about him into the record and the chair admitted it without objection. He is on no committee witness list for this or any other hearing. Sources: Serial CHRG-119hhrg61718, printed record of 9 September 2025, https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm, dated 2025-09-09.
+- Michael Herrera runs out to **Steven M. Greer** (person, board tier B), a custody link at Tier 1 documented. The link reads: Named on the record as the custodian who supplied the written testimony. Custody of the DOCUMENT, not of material. Burlison said on the record that the testimony 'was given to me by Dr. Steven Greer'. Sources: Serial CHRG-119hhrg61718, printed record of 9 September 2025, https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm, dated 2025-09-09.
+- Michael Herrera runs out to **AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I** (document, board tier A), a investigative link at Tier 3 stated inference. The link reads: Inferred identification with the anonymised page 29 interviewee. THE IDENTIFICATION IS AN INFERENCE AND THIS EDGE CARRIES IT AS ONE. The page 29 interviewee account matches his public account on year, mission type and scene. AARO names nobody and holds the anonymisation key itself. No opened record makes the link. Sources: AARO Historical Record Report Volume I, p. 29 (Black Vault mirror), https://documents2.theblackvault.com/documents/dod/AARO_Historical_Record_Report_Volume_1_2024.pdf, dated 2024-02.
 
 ## Michael Shellenberger
 
@@ -3681,7 +3728,7 @@ Affiliations recorded: Public (co-founder), University of Austin (faculty, 2026)
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 272 of 1066, score 38). 6 connections, 1 of them custody/funding/programmatic. Axes C1/A0/D3.
+Re-graded B on a global pass (rank 273 of 1071, score 38). 6 connections, 1 of them custody/funding/programmatic. Axes C1/A0/D3.
 
 ### The claims on the record
 
@@ -3719,7 +3766,7 @@ Affiliations recorded: U.S. Senate, South Dakota (2015- ), Senate Armed Services
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 403 of 1066, score 32). 4 connections, 1 of them custody/funding/programmatic. Axes C0/A2/D3.
+Re-graded B on a global pass (rank 405 of 1071, score 32). 4 connections, 1 of them custody/funding/programmatic. Axes C0/A2/D3.
 
 ### The claims on the record
 
@@ -3758,7 +3805,7 @@ Affiliations recorded: U.S. House, Ohio (2003- ), Chairman, HPSCI (2023-2025), H
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 466 of 1066, score 30). 4 connections, 0 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C0/A3/D0.
+Re-graded B on a global pass (rank 470 of 1071, score 30). 4 connections, 0 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C0/A3/D0.
 
 ### The claims on the record
 
@@ -3792,7 +3839,7 @@ Affiliations recorded: US Army Air Forces / Air Materiel Command (1945-1947), US
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 290 of 1066, score 37). 4 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D1.
+Re-graded B on a global pass (rank 291 of 1071, score 37). 4 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D1.
 
 ### The claims on the record
 
@@ -3826,7 +3873,7 @@ Affiliations recorded: OUSD(I), Director for Defense Intelligence (Collection & 
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 406 of 1066, score 32). 4 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D0.
+Re-graded B on a global pass (rank 407 of 1071, score 32). 4 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D0.
 
 ### The claims on the record
 
@@ -3860,7 +3907,7 @@ Affiliations recorded: uk-mod, uk-mod-ufo-desk.
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 621 of 1066, score 25). 4 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D3.
+Re-graded C on a global pass (rank 624 of 1071, score 25). 4 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D3.
 
 ### The claims on the record
 
@@ -3894,7 +3941,7 @@ Affiliations recorded: fab, Ministério da Aeronáutica.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 470 of 1066, score 30). 4 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D3.
+Re-graded B on a global pass (rank 474 of 1071, score 30). 4 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D3.
 
 ### The claims on the record
 
@@ -3931,7 +3978,7 @@ Affiliations recorded: Secretary of Defense / Secretary of War (2025-), Fox News
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 163 of 1066, score 47). 5 connections, 2 of them custody/funding/programmatic. Axes C1/A3/D3.
+Re-graded B on a global pass (rank 164 of 1071, score 47). 5 connections, 2 of them custody/funding/programmatic. Axes C1/A3/D3.
 
 ### The claims on the record
 
@@ -3969,7 +4016,7 @@ Affiliations recorded: U.S. House of Representatives, CA-42 (2023- ), Subcommitt
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 709 of 1066, score 22). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.
+Re-graded C on a global pass (rank 712 of 1071, score 22). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.
 
 ### The claims on the record
 
@@ -3997,7 +4044,7 @@ Sidney Gottlieb is the officer at the centre of the destruction event the board'
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 311 of 1066, score 36). 4 connections, 2 of them custody/funding/programmatic. Axes C0/A3/D0.
+Re-graded B on a global pass (rank 312 of 1071, score 36). 4 connections, 2 of them custody/funding/programmatic. Axes C0/A3/D0.
 
 ### The claims on the record
 
@@ -4031,7 +4078,7 @@ Souers held, in sequence, the two offices through which the postwar national sec
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 273 of 1066, score 38). 4 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D1.
+Re-graded B on a global pass (rank 274 of 1071, score 38). 4 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D1.
 
 ### The claims on the record
 
@@ -4397,7 +4444,7 @@ The provenance that matters most is the one the enthusiast literature omits. Bro
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 91 of 1066, score 64). 4 connections, 0 of them custody/funding/programmatic. Axes C2/A1/D2.
+Re-graded A on a global pass (rank 91 of 1071, score 64). 4 connections, 0 of them custody/funding/programmatic. Axes C2/A1/D2.
 
 ### The claims on the record
 
@@ -4421,7 +4468,7 @@ A further 13 claims sit on this node on the board and are not reproduced here.
 
 ## Capitão Uyrangê Bolívar Soares Nogueira de Hollanda Lima
 
-Capitão Uyrangê Bolívar Soares Nogueira de Hollanda Lima is a person on the board; board tier B, documented channel and capability, programme role indicated but not yet nailed to a primary source; dates 1997; axes C2 A2 D2; 4 connections.
+Capitão Uyrangê Bolívar Soares Nogueira de Hollanda Lima is a person on the board; board tier C, contextual, real and relevant, no direct programme linkage on the record yet; dates 1997; axes C2 A2 D2; 4 connections.
 
 In one line: Brazilian Air Force captain; commander of Operação Prato, 1977-1978.
 
@@ -4442,7 +4489,7 @@ Affiliations recorded: fab, Serviço Nacional de Informações (SNI).
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 531 of 1066, score 28). 4 connections, 0 of them custody/funding/programmatic. Axes C2/A2/D2.
+Re-graded C on a global pass (rank 535 of 1071, score 28). 4 connections, 0 of them custody/funding/programmatic. Axes C2/A2/D2.
 
 ### The claims on the record
 
@@ -4481,7 +4528,7 @@ Affiliations recorded: 509th Bomb Group, Roswell Army Air Field (1946-1948), Int
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 292 of 1066, score 37). 4 connections, 0 of them custody/funding/programmatic. Axes C2/A1/D3.
+Re-graded B on a global pass (rank 293 of 1071, score 37). 4 connections, 0 of them custody/funding/programmatic. Axes C2/A1/D3.
 
 ### The claims on the record
 
@@ -4518,7 +4565,7 @@ Affiliations recorded: nro, odni.
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 561 of 1066, score 27). 4 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D0.
+Re-graded C on a global pass (rank 565 of 1071, score 27). 4 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D0.
 
 ### The claims on the record
 
@@ -4548,7 +4595,7 @@ The released aneutronic paper attributed to him reads like a nuclear engineering
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 205 of 1066, score 43). 4 connections, 1 of them custody/funding/programmatic. Axes C1/A2/D3.
+Re-graded B on a global pass (rank 206 of 1071, score 43). 4 connections, 1 of them custody/funding/programmatic. Axes C1/A2/D3.
 
 ### The claims on the record
 
@@ -4581,7 +4628,7 @@ Affiliations recorded: U.S. House of Representatives, AZ-5 (2017- ), Committee o
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 992 of 1066, score 11). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D1.
+Re-graded C on a global pass (rank 996 of 1071, score 11). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D1.
 
 ### The claims on the record
 
@@ -4607,7 +4654,7 @@ Affiliations recorded: U.S. House of Representatives, TN-5 (2023- ), Congression
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 824 of 1066, score 18). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.
+Re-graded C on a global pass (rank 828 of 1071, score 18). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.
 
 ### The claims on the record
 
@@ -4639,7 +4686,7 @@ Arthur G. Trudeau held the Army post that sat directly above the office Philip C
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 435 of 1066, score 31). 3 connections, 0 of them custody/funding/programmatic. Axes C2/A1/D2.
+Re-graded B on a global pass (rank 438 of 1071, score 31). 3 connections, 0 of them custody/funding/programmatic. Axes C2/A1/D2.
 
 ### The claims on the record
 
@@ -4667,7 +4714,7 @@ Cecilia Levy is the third University at Albany physicist on the only peer-review
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 887 of 1066, score 16). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D1.
+Re-graded C on a global pass (rank 891 of 1071, score 16). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D1.
 
 ### The claims on the record
 
@@ -4702,7 +4749,7 @@ Affiliations recorded: Princeton University, Department of Astrophysical Science
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 495 of 1066, score 29). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.
+Re-graded B on a global pass (rank 499 of 1071, score 29). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.
 
 ### The claims on the record
 
@@ -4738,7 +4785,7 @@ Donald Howard Menzel, 1901-1976, was the director of the Harvard College Observa
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 310 of 1066, score 36). 3 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A1/D2.
+Re-graded B on a global pass (rank 311 of 1071, score 36). 3 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A1/D2.
 
 ### The claims on the record
 
@@ -4768,7 +4815,7 @@ Affiliations recorded: President of the United States (2017-2021, 2025-).
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 402 of 1066, score 32). 3 connections, 2 of them custody/funding/programmatic. Axes C0/A3/D3.
+Re-graded B on a global pass (rank 404 of 1071, score 32). 3 connections, 2 of them custody/funding/programmatic. Axes C0/A3/D3.
 
 ### The claims on the record
 
@@ -4805,7 +4852,7 @@ Affiliations recorded: National Bureau of Standards, director (1945-1951), Unive
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 401 of 1066, score 32). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D0.
+Re-graded B on a global pass (rank 403 of 1071, score 32). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D0.
 
 ### The claims on the record
 
@@ -4842,7 +4889,7 @@ His geographic placement matters to the shape of the programme. AAWSAP funding w
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 381 of 1066, score 33). 3 connections, 1 of them custody/funding/programmatic. Axes C1/A1/D2.
+Re-graded B on a global pass (rank 383 of 1071, score 33). 3 connections, 1 of them custody/funding/programmatic. Axes C1/A1/D2.
 
 ### The claims on the record
 
@@ -4881,7 +4928,7 @@ Affiliations recorded: U.S. Special Operations Command / OSD SO-LIC, OUSD(I&S), 
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 559 of 1066, score 27). 3 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D0.
+Re-graded C on a global pass (rank 563 of 1071, score 27). 3 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D0.
 
 ### The claims on the record
 
@@ -4919,7 +4966,7 @@ Affiliations recorded: US Navy, USS Princeton (CG-59), Carrier Strike Group 11 (
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 676 of 1066, score 23). 4 connections, 2 of them custody/funding/programmatic. Axes C1/A1/D1.
+Re-graded C on a global pass (rank 679 of 1071, score 23). 4 connections, 2 of them custody/funding/programmatic. Axes C1/A1/D1.
 
 ### The claims on the record
 
@@ -5253,7 +5300,7 @@ The industrial and academic halves were deliberately kept apart, and the source 
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 566 of 1066, score 27). 3 connections, 1 of them custody/funding/programmatic. Axes C1/A1/D0.
+Re-graded C on a global pass (rank 569 of 1071, score 27). 3 connections, 1 of them custody/funding/programmatic. Axes C1/A1/D0.
 
 ### The claims on the record
 
@@ -5290,7 +5337,7 @@ Gerald Anderson came forward in 1990, after a television broadcast, claiming tha
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 745 of 1066, score 21). 3 connections, 0 of them custody/funding/programmatic. Axes C2/A0/D0.
+Re-graded C on a global pass (rank 748 of 1071, score 21). 3 connections, 0 of them custody/funding/programmatic. Axes C2/A0/D0.
 
 ### The claims on the record
 
@@ -5321,7 +5368,7 @@ The board's own framing calls the programme's security apparatus one taken from 
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 313 of 1066, score 36). 3 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D1.
+Re-graded B on a global pass (rank 314 of 1071, score 36). 3 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D1.
 
 ### The claims on the record
 
@@ -5360,7 +5407,7 @@ Affiliations recorded: US Air Force, Commander, NORAD and USNORTHCOM (Feb 2024- 
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 647 of 1066, score 24). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A3/D2.
+Re-graded C on a global pass (rank 650 of 1071, score 24). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A3/D2.
 
 ### The claims on the record
 
@@ -5389,7 +5436,7 @@ Affiliations recorded: U.S. Senate, Rhode Island (1997- ), Chairman, Senate Arme
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 210 of 1066, score 42). 3 connections, 0 of them custody/funding/programmatic. Axes C3/A2/D3.
+Re-graded B on a global pass (rank 211 of 1071, score 42). 3 connections, 0 of them custody/funding/programmatic. Axes C3/A2/D3.
 
 ### The claims on the record
 
@@ -5423,7 +5470,7 @@ Affiliations recorded: Director, DIA (1992-1995), Under Secretary of Defense for
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 433 of 1066, score 31). 3 connections, 0 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C1/A3/D0.
+Re-graded B on a global pass (rank 435 of 1071, score 31). 3 connections, 0 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C1/A3/D0.
 
 ### The claims on the record
 
@@ -5453,7 +5500,7 @@ Angleton was Chief of the CIA's Counterintelligence Staff from 1954 to 1974 and,
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 258 of 1066, score 39). 3 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D2.
+Re-graded B on a global pass (rank 259 of 1071, score 39). 3 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D2.
 
 ### The claims on the record
 
@@ -5486,7 +5533,7 @@ James V. Forrestal was Secretary of the Navy until September 1947 and then the f
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 256 of 1066, score 39). 3 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A2/D1.
+Re-graded B on a global pass (rank 257 of 1071, score 39). 3 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A2/D1.
 
 ### The claims on the record
 
@@ -5524,7 +5571,7 @@ Affiliations recorded: US Air Force security forces / military police, Vandenber
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 179 of 1066, score 45). 4 connections, 1 of them custody/funding/programmatic. Axes C1/A1/D2.
+Re-graded B on a global pass (rank 180 of 1071, score 45). 4 connections, 1 of them custody/funding/programmatic. Axes C1/A1/D2.
 
 ### The claims on the record
 
@@ -5568,7 +5615,7 @@ Affiliations recorded: U.S. Army Combat Capabilities Development Command, Ground
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 379 of 1066, score 33). 3 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A2/D0.
+Re-graded B on a global pass (rank 381 of 1071, score 33). 3 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A2/D0.
 
 ### The claims on the record
 
@@ -5600,7 +5647,7 @@ Affiliations recorded: Deputy Secretary of Defense (2021-2025), Center for Strat
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 644 of 1066, score 24). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A3/D2.
+Re-graded C on a global pass (rank 647 of 1071, score 24). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A3/D2.
 
 ### The claims on the record
 
@@ -5626,7 +5673,7 @@ Groves is the hinge the board has been carrying in prose. The Armed Forces Speci
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 378 of 1066, score 33). 3 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D1.
+Re-graded B on a global pass (rank 380 of 1071, score 33). 3 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D1.
 
 ### The claims on the record
 
@@ -5663,7 +5710,7 @@ Affiliations recorded: michigan-state, skidmore-fitts-report.
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 913 of 1066, score 15). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.
+Re-graded C on a global pass (rank 917 of 1071, score 15). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.
 
 ### The claims on the record
 
@@ -5691,7 +5738,7 @@ Affiliations recorded: U.S. House of Representatives, FL-10 (2023- ), Committee 
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 926 of 1066, score 14). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D1.
+Re-graded C on a global pass (rank 930 of 1071, score 14). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D1.
 
 ### The claims on the record
 
@@ -5703,31 +5750,3 @@ Re-graded C on a global pass (rank 926 of 1066, score 14). 3 connections, 0 of t
 - Maxwell Alejandro Frost runs out to **House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'** (event, board tier A), a legislative link at Tier 1 documented. The link reads: questioned witnesses at the 26 July 2023 UAP hearing. Frost used his round on the scientific and stigma dimension: NASA's independent study team, the Galileo Project, whether military pilots feeling empowered to speak had shifted scientific research goals, and how Congress might connect scientists to the government's UAP work. He closed: 'I think it is important that we keep our top scientific minds focused on this issue and look for ways to increase collaboration.' Sources: House Oversight hearing, 26 July 2023 (CHRG-118hhrg53022), https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm, dated 2023-07-26; https://www.congress.gov/event/118th-congress/house-event/116282/text, https://www.congress.gov/event/118th-congress/house-event/116282/text
 - Maxwell Alejandro Frost runs out to **National Aeronautics and Space Administration** (institution, board tier B), a investigative link at Tier 1 documented. The link reads: questioned Administrator Nelson on UAP; pressed NASA's role at hearing. Frost told the hearing: 'In fact, I sit on the Science, Space and Technology Committee and when we were doing a hearing with the NASA Administrator, Bill Nelson, I asked, you know, why NASA needed to be fully funded. And there were many great reasons, but one of them was actually--had to do with UAPs.' He tied it forward to the NASA independent study team and to Harvard standing up the Galileo Project in 2021. Sources: House Oversight hearing, 26 July 2023 (CHRG-118hhrg53022), https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm, dated 2023-07-26.
 - Maxwell Alejandro Frost runs out to **Ryan Graves** (person, board tier B), a investigative link at Tier 1 documented. The link reads: questioned Graves on scientific advisory board and NASA reporting. Frost asked Graves two questions: 'can you discuss the importance of seeking scientists to sit on your advisory board?' and 'how might Congress help to facilitate partnerships between the scientific community and the UAP focus groups within government?' Graves answered that this 'is going to be a scientific problem, and not only that, it is also an engineering problem', and pointed to his work with the American Institute of Aeronautics and Astronautics to stand up a UAP integration committee. Sources: House Oversight hearing, 26 July 2023 (CHRG-118hhrg53022), https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm, dated 2023-07-26.
-
-## Neil H. McElroy
-
-Neil H. McElroy is a person on the board; board tier B, documented channel and capability, programme role indicated but not yet nailed to a primary source; dates 1958-02-07; axes C2 A3 D1; 3 connections.
-
-In one line: Secretary of Defense from 9 October 1957; issued DoD Directive 5105.15 establishing ARPA, 7 February 1958.
-
-### The longer account
-
-The board's DARPA node argues a counterfactual about the agency and carries no founding record at all. This is that record and the officer behind it. McElroy was sworn in as Secretary of Defense on 9 October 1957, five days after Sputnik, and on 7 February 1958 issued DoD Directive 5105.15, which established the Advanced Research Projects Agency in the Office of the Secretary of Defense under the authority of the National Security Act of 1947 as amended and Reorganization Plan No. 6 of 1953. The agency's own commissioned history reproduces the directive in full and records that he took a personal hand in the founding and selected Roy W. Johnson as first Director. His public description of the plan predates the name: testifying on 20 November 1957 he called it the Special Projects Agency and was told the name was confusable with the Armed Forces Special Weapons Project.
-
-### Why it holds its tier
-
-Re-graded B on a global pass (rank 312 of 1066, score 36). 3 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D1.
-
-### The claims on the record
-
-- **Tier 1 documented.** A second agency's record dates the founding and names the first Director independently. The CIA Historical Staff Chronology, under Jan-Apr 58: '7 FEB. Advanced Research Projects Agency (ARPA) established in DOD, Roy W. Johnson of General Electric named director, responsible for US space program, including missiles and anti-missiles.' Source: CIA Historical Staff Chronology 1946-65, Volume II 1956-65, June 1970, CIA-RDP85B00803R000200050003-5, https://archive.org/details/cia-readingroom-document-cia-rdp85b00803r000200050003-5
-- **Tier 1 documented.** He proposed the agency in public before it had its name. Testifying on 20 November 1957 to the House Appropriations Subcommittee on Defense Appropriations he said: 'We plan to establish in the Department of Defense a special agency to handle our satellite and space research and development projects. Tentatively we are thinking of calling this ... the Special Projects Agency of the Department of Defense.' The history records that a member objected to that name as confusable with the OSD Office of Special Operations and the Armed Forces Special Weapons Project. Source: House Appropriations Subcommittee on Defense Appropriations, 'The Ballistic Missile Program', Hearings, November 20-21, 1957, p. 25, quoted in The Advanced Research Projects Agency, 1958-1974, DTIC AD-A154 363, https://archive.org/download/DTIC_ADA154363/DTIC_ADA154363_djvu.txt
-- **Tier 1 documented.** The founding instrument, reproduced in the agency's own commissioned history: 'In accordance with the provisions of the National Security Act of 1947, as amended, and Reorganization Plan No. 6 of 1953, there is established in the Office of the Secretary of Defense the Department of Defense Advanced Research Projects Agency.' The figure is captioned 'TEXT OF DOD DIRECTIVE NUMBER 5105.15, FEBRUARY 7, 1958 (Establishing ARPA)'. The scan is a poor one and renders ARPA as 'AREA' throughout; the readings given here are normalised from obvious OCR corruption. Source: The Advanced Research Projects Agency, 1958-1974, Richard J. Barber Associates, Inc., prepared for ARPA, Figure II-2, DTIC AD-A154 363, https://archive.org/download/DTIC_ADA154363/DTIC_ADA154363_djvu.txt
-- **Tier 1 documented.** The mandate is open-ended by design. The Agency is responsible for 'the direction or performance of such advanced projects in the field of research and development as the Secretary of Defense shall, from time to time, designate by individual project or by category', and 'The Director of Advanced Research Projects shall report to the Secretary of Defense.' The directive is 'effective immediately'. Source: The Advanced Research Projects Agency, 1958-1974, Figure II-2, DTIC AD-A154 363, https://archive.org/download/DTIC_ADA154363/DTIC_ADA154363_djvu.txt
-- **Tier 2 named person on the record.** On the Danny Jones Podcast #228, 11 March 2024, at 2:00:47, Annie Jacobsen said ARPA was created around 1956 to 1957 and that its first director was Herb York. The opened records contradict both: the directive is dated 7 February 1958 and Roy W. Johnson was appointed Director the same day, while Herbert York was ARPA's first Chief Scientist and was later elevated to first Director of Defense Research and Engineering. Source: Danny Jones Podcast #228, 11 March 2024, at 2:00:47 to 2:06:12; contradicted against The Advanced Research Projects Agency, 1958-1974, DTIC AD-A154 363, https://archive.org/download/DTIC_ADA154363/DTIC_ADA154363_djvu.txt
-
-### Its strongest connections
-
-- Neil H. McElroy runs out to **United States Department of Defense (secondary designation: Department of War)** (institution, board tier A), a institutional link at Tier 1 documented. The link reads: Secretary of Defense. The ARPA history records him sworn in on 9 October 1957, five days after Sputnik, and describes him taking a personal hand in the agency's creation. Sources: The Advanced Research Projects Agency, 1958-1974, Richard J. Barber Associates, Inc., DTIC AD-A154 363, https://archive.org/download/DTIC_ADA154363/DTIC_ADA154363_djvu.txt, dated 1975-12-01.
-- Neil H. McElroy runs out to **Defense Advanced Research Projects Agency** (institution, board tier B), a institutional link at Tier 1 documented. The link reads: Issued the directive that established ARPA. DoD Directive 5105.15 of 7 February 1958 established the Agency in the Office of the Secretary of Defense with its Director reporting to the Secretary. The board's DARPA node has carried no founding instrument until now. Sources: The Advanced Research Projects Agency, 1958-1974, Richard J. Barber Associates, Inc., DTIC AD-A154 363, https://archive.org/download/DTIC_ADA154363/DTIC_ADA154363_djvu.txt, dated 1975-12-01.
-- Neil H. McElroy runs out to **Armed Forces Special Weapons Project** (institution, board tier B), a temporal link at Tier 1 documented. The link reads: Named AFSWP as the reason the new agency was renamed. The ARPA history's footnote records that Rep. Scrivner objected to 'Special Projects Agency' as confusable with the OSD Office of Special Operations and the Armed Forces Special Weapons Project, and that McElroy promised a better name. This is the documented reason ARPA is called ARPA. Sources: The Advanced Research Projects Agency, 1958-1974, Richard J. Barber Associates, Inc., DTIC AD-A154 363, https://archive.org/download/DTIC_ADA154363/DTIC_ADA154363_djvu.txt, dated 1975-12-01.

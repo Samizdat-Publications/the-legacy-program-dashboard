@@ -186,7 +186,7 @@
 "url": "https://www.govinfo.gov/content/pkg/CDIR-2020-07-22/html/CDIR-2020-07-22-HOUSECOMMITTEES.htm"
 }
 ],
-"tier": "B",
+"tier": "C",
 "type": "institutional"
 },
 {
@@ -1341,7 +1341,7 @@
 "cls": "person",
 "id": "adam-smith",
 "label": "Adam Smith",
-"tier": "B"
+"tier": "C"
 },
 {
 "cls": "person",
@@ -1569,6 +1569,6 @@
 ],
 "sub": "The persons entitled to notice of, and access to, a waived DoD special access program",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 24 of 1066, score 103). 31 connections, 2 of them custody/funding/programmatic. Axes C3/A1/D3.",
+"tierRationale": "Re-graded A on a global pass (rank 25 of 1071, score 103). 31 connections, 2 of them custody/funding/programmatic. Axes C3/A1/D3.",
 "timeline": []
 }

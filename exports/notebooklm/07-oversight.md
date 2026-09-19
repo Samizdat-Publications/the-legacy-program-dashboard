@@ -55,7 +55,7 @@ Roles the board assigns it: oversight, disclosure.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 186 of 1066, score 45). 18 connections, 1 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C0/A1/D3.
+Re-graded B on a global pass (rank 187 of 1071, score 45). 18 connections, 1 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C0/A1/D3.
 
 ### The claims on the record
 
@@ -133,7 +133,7 @@ Roles the board assigns it: disclosure, oversight.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 286 of 1066, score 38). 7 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A1/D1.
+Re-graded B on a global pass (rank 287 of 1071, score 38). 7 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A1/D1.
 
 ### The claims on the record
 
@@ -204,7 +204,7 @@ Roles the board assigns it: oversight, disclosure, concealment.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 229 of 1066, score 41). 12 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A3/D3.
+Re-graded B on a global pass (rank 230 of 1071, score 41). 12 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A3/D3.
 
 ### The claims on the record
 
@@ -277,7 +277,7 @@ Roles the board assigns it: oversight, disclosure, concealment.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 189 of 1066, score 45). 7 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A1/D3.
+Re-graded B on a global pass (rank 190 of 1071, score 45). 7 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A1/D3.
 
 ### The claims on the record
 
@@ -350,7 +350,7 @@ Roles the board assigns it: oversight, concealment.
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 555 of 1066, score 28). 7 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D2.
+Re-graded C on a global pass (rank 559 of 1071, score 28). 7 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D2.
 
 ### The claims on the record
 
@@ -408,7 +408,7 @@ Roles the board assigns it: oversight, concealment.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 393 of 1066, score 33). 6 connections, 1 of them custody/funding/programmatic. Axes C1/A1/D1.
+Re-graded B on a global pass (rank 395 of 1071, score 33). 6 connections, 1 of them custody/funding/programmatic. Axes C1/A1/D1.
 
 ### The claims on the record
 
@@ -454,7 +454,7 @@ Roles the board assigns it: concealment, disclosure, oversight.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 90 of 1066, score 65). 9 connections, 0 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C0/A3/D2.
+Re-graded A on a global pass (rank 90 of 1071, score 65). 9 connections, 0 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C0/A3/D2.
 
 ### The claims on the record
 
@@ -508,7 +508,7 @@ Roles the board assigns it: oversight, disclosure.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 324 of 1066, score 36). 6 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D2.
+Re-graded B on a global pass (rank 325 of 1071, score 36). 6 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D2.
 
 ### The claims on the record
 
@@ -563,7 +563,7 @@ Roles the board assigns it: concealment, oversight.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 57 of 1066, score 74). 8 connections, 2 of them custody/funding/programmatic. Axes C0/A3/D3.
+Re-graded A on a global pass (rank 57 of 1071, score 74). 8 connections, 2 of them custody/funding/programmatic. Axes C0/A3/D3.
 
 ### The claims on the record
 
@@ -604,7 +604,7 @@ Re-graded A on a global pass (rank 57 of 1066, score 74). 8 connections, 2 of th
 
 ## AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I
 
-AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I is a document on the board; board tier A, named in sworn testimony or primary documents as directly inside the programme; dates 2024; axes C1 A3 D3; 31 connections; in the oversight band.
+AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I is a document on the board; board tier A, named in sworn testimony or primary documents as directly inside the programme; dates 2024; axes C1 A3 D3; 32 connections; in the oversight band.
 
 In one line: report.
 
@@ -650,7 +650,7 @@ Roles the board assigns it: concealment, disclosure, oversight.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 6 of 1066, score 156). 37 connections, 5 of them custody/funding/programmatic, 18 official denials recorded against it. Axes C1/A3/D3.
+Re-graded A on a global pass (rank 6 of 1071, score 157). 38 connections, 5 of them custody/funding/programmatic, 18 official denials recorded against it. Axes C1/A3/D3.
 
 ### The claims on the record
 
@@ -700,7 +700,7 @@ A further 31 claims sit on this node on the board and are not reproduced here.
 - AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I comes in from **1975 SAC Nuclear-Base Overflights (Loring, Wurtsmith, Malmstrom, Minot)** (event, board tier A), a denial link at Tier 1 documented. The link reads: AARO's 2024 historical review does not address the 1975 nuclear-base overflights. A full-text review of Volume I finds no treatment of the Loring, Wurtsmith, Malmstrom or Minot incursions despite the underlying records being publicly released by DoD's own FOIA office. Sources: AARO, 'Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP), Volume I' (DOPSR-2024-0263), https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF, dated 2024-03-08; Unidentified Flying Objects over Malmstrom AFB, November 1975 (DoD FOIA case 97-F-1677), https://www.theblackvault.com/documentarchive/unidentified-flying-objects-over-malmstrom-afb-november-1975/, dated 2021-11-08.
 - AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I runs out to **AARO Historical Record Report, Volume II (unpublished)** (document, board tier A), a programmatic link at Tier 1 documented. The link reads: Volume I explicitly defers its unresolved allegations to Volume II. Volume I's scope statement commits Volume II to covering research from 1 November 2023 to 15 April 2024 plus the allegations left open. Sources: AARO Historical Record Report Volume I (DOPSR-2024-0263), https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF, dated 2024-03-08.
 
-It carries 37 connections in total on the board.
+It carries 38 connections in total on the board.
 
 ## The Sol Foundation
 
@@ -746,7 +746,7 @@ Roles the board assigns it: disclosure, oversight.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 56 of 1066, score 75). 20 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D3.
+Re-graded A on a global pass (rank 56 of 1071, score 75). 20 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D3.
 
 ### The claims on the record
 
@@ -847,7 +847,7 @@ Roles the board assigns it: concealment, oversight, disclosure.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 26 of 1066, score 100). 19 connections, 5 of them custody/funding/programmatic, 6 official denials recorded against it. Axes C2/A3/D3.
+Re-graded A on a global pass (rank 26 of 1071, score 100). 19 connections, 5 of them custody/funding/programmatic, 6 official denials recorded against it. Axes C2/A3/D3.
 
 ### The claims on the record
 
@@ -945,7 +945,7 @@ Roles the board assigns it: oversight, disclosure, concealment.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 21 of 1066, score 107). 23 connections, 5 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A2/D3.
+Re-graded A on a global pass (rank 21 of 1071, score 107). 23 connections, 5 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A2/D3.
 
 ### The claims on the record
 
@@ -1043,7 +1043,7 @@ Roles the board assigns it: oversight, disclosure.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 47 of 1066, score 82). 17 connections, 1 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C0/A1/D3.
+Re-graded A on a global pass (rank 47 of 1071, score 82). 17 connections, 1 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C0/A1/D3.
 
 ### The claims on the record
 
@@ -1143,7 +1143,7 @@ Roles the board assigns it: oversight, disclosure, concealment.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 97 of 1066, score 62). 14 connections, 1 of them custody/funding/programmatic. Axes C0/A2/D3.
+Re-graded A on a global pass (rank 97 of 1071, score 62). 14 connections, 1 of them custody/funding/programmatic. Axes C0/A2/D3.
 
 ### The claims on the record
 
@@ -1181,8 +1181,8 @@ Re-graded A on a global pass (rank 97 of 1066, score 62). 14 connections, 1 of t
 - ODNI Preliminary Assessment: Unidentified Aerial Phenomena (25 June 2021) comes in from **Unidentified Aerial Phenomena Task Force (UAPTF)** (program, board tier A), a programmatic link at Tier 1 documented. The link reads: UAPTF dataset is the substrate of the 2021 Preliminary Assessment. The assessment's 144 incidents came from the Task Force's holdings; ODNI transmitted the product but the Task Force built the data. Sources: ODNI Preliminary Assessment, https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf, dated 2021-06-25.
 - ODNI Preliminary Assessment: Unidentified Aerial Phenomena (25 June 2021) comes in from **NASA UAP Independent Study Team** (program, board tier B), a investigative link at Tier 1 documented. The link reads: Both diagnose the same evidentiary deficit. ODNI: military sensors 'are not generally suited for identifying UAP.' NASA: analysis is 'hampered by poor sensor calibration, the lack of multiple measurements, the lack of sensor metadata.' Sources: ODNI Preliminary Assessment: Unidentified Aerial Phenomena (PDF), https://archive.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf, dated 2021-06-25; NASA UAP Independent Study Team Final Report (PDF), https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf, dated 2023-09-14.
 - ODNI Preliminary Assessment: Unidentified Aerial Phenomena (25 June 2021) runs out to **Americans for Safe Aerospace** (institution, board tier B), a behavioral link at Tier 1 documented. The link reads: Official confirmation of the stigma ASA exists to route around. The assessment concedes 'disparagement associated with observing UAP, reporting it, or attempting to discuss it with colleagues' - the condition that made a civilian aircrew nonprofit necessary. Sources: ODNI Preliminary Assessment: Unidentified Aerial Phenomena (PDF), https://archive.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf, dated 2021-06-25; House Oversight - Graves written testimony (PDF), https://oversight.house.gov/wp-content/uploads/2023/07/Ryan-HOC-Testimony.pdf, dated 2023-07-26.
+- ODNI Preliminary Assessment: Unidentified Aerial Phenomena (25 June 2021) comes in from **Alex Dietrich** (person, board tier B), a behavioral link at Tier 1 documented. The link reads: Sixteen years of silence is the stigma the assessment describes. Dietrich gave her first public account in May 2021, weeks before ODNI conceded that aviators face 'disparagement associated with observing UAP, reporting it, or attempting to discuss it with colleagues.' Sources: CBS News / 60 Minutes, https://www.cbsnews.com/news/ufo-military-intelligence-60-minutes-2021-05-16/, dated 2021-05-16; ODNI Preliminary Assessment: Unidentified Aerial Phenomena (PDF), https://archive.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf, dated 2021-06-25.
 - ODNI Preliminary Assessment: Unidentified Aerial Phenomena (25 June 2021) runs out to **GO FAST (Navy ATFLIR video, January 2015)** (document, board tier B), a institutional link at Tier 1 documented. The link reads: 18 of 144 incidents showed unusual movement patterns; sensors not designed to identify UAP. 'In 18 incidents, described in 21 reports, observers reported unusual UAP movement patterns or flight characteristics,' and military sensors 'are not generally suited for identifying UAP.' Sources: ODNI Preliminary Assessment: Unidentified Aerial Phenomena (PDF), https://archive.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf, dated 2021-06-25.
-- ODNI Preliminary Assessment: Unidentified Aerial Phenomena (25 June 2021) comes in from **Alex Dietrich** (person, board tier C), a behavioral link at Tier 1 documented. The link reads: Sixteen years of silence is the stigma the assessment describes. Dietrich gave her first public account in May 2021, weeks before ODNI conceded that aviators face 'disparagement associated with observing UAP, reporting it, or attempting to discuss it with colleagues.' Sources: CBS News / 60 Minutes, https://www.cbsnews.com/news/ufo-military-intelligence-60-minutes-2021-05-16/, dated 2021-05-16; ODNI Preliminary Assessment: Unidentified Aerial Phenomena (PDF), https://archive.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf, dated 2021-06-25.
 - ODNI Preliminary Assessment: Unidentified Aerial Phenomena (25 June 2021) comes in from **July 2019 Drone Swarms, USS Kidd / USS Russell and CSG ships off California** (event, board tier C), a investigative link at Tier 1 documented. The link reads: Within the November 2004 to March 2021 window the assessment covers. The ODNI preliminary assessment covers 144 reports from USG sources spanning November 2004 to March 2021, the window containing both the Nimitz and the 2019 swarm events. Sources: ODNI Preliminary Assessment: Unidentified Aerial Phenomena (PDF), https://archive.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf, dated 2021-06-25; The War Zone - destroyers swarmed off California, https://www.twz.com/39913/multiple-destroyers-were-swarmed-by-mysterious-drones-off-california-over-numerous-nights, dated 2021-05-23.
 - ODNI Preliminary Assessment: Unidentified Aerial Phenomena (25 June 2021) comes in from **Avril D. Haines** (person, board tier C), a institutional link at Tier 1 documented. The link reads: DNI who transmitted the assessment to Congress. Haines was Director of National Intelligence when ODNI delivered the Preliminary Assessment on 25 June 2021. Sources: ODNI newsroom, https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2021/3550-preliminary-assessment-unidentified-aerial-phenomena, dated 2021-06-25.
 - ODNI Preliminary Assessment: Unidentified Aerial Phenomena (25 June 2021) runs out to **ODNI 2022 Annual Report on Unidentified Aerial Phenomena** (document, board tier C), a temporal link at Tier 1 documented. The 2022 report extends the 2021 baseline rather than replacing it: it reports new cases 'in addition to the 144 UAP reports covered during the 17 years of UAP reporting included in' the preliminary assessment. The 144-incident figure is the anchor both documents are measured against. Sources: ODNI, 2022 Annual Report on Unidentified Aerial Phenomena (dni.gov), https://www.dni.gov/files/ODNI/documents/assessments/Unclassified-2022-Annual-Report-UAP.pdf, dated 2023-01-12; Wayback snapshot of the ODNI 2022 Annual Report PDF (now served from odni.gov), https://web.archive.org/web/20260523011837id_/https://www.odni.gov/files/ODNI/documents/assessments/Unclassified-2022-Annual-Report-UAP.pdf, dated 2026-05-23.
@@ -1238,7 +1238,7 @@ Roles the board assigns it: disclosure, oversight, concealment.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 27 of 1066, score 99). 14 connections, 2 of them custody/funding/programmatic, 4 official denials recorded against it. Axes C2/A3/D3.
+Re-graded A on a global pass (rank 27 of 1071, score 99). 14 connections, 2 of them custody/funding/programmatic, 4 official denials recorded against it. Axes C2/A3/D3.
 
 ### The claims on the record
 
@@ -1335,7 +1335,7 @@ Roles the board assigns it: disclosure, concealment, oversight.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 67 of 1066, score 71). 10 connections, 2 of them custody/funding/programmatic, 4 official denials recorded against it. Axes C2/A3/D3.
+Re-graded A on a global pass (rank 67 of 1071, score 71). 10 connections, 2 of them custody/funding/programmatic, 4 official denials recorded against it. Axes C2/A3/D3.
 
 ### The claims on the record
 
@@ -1416,7 +1416,7 @@ Roles the board assigns it: disclosure, oversight.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 354 of 1066, score 35). 10 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.
+Re-graded B on a global pass (rank 355 of 1071, score 35). 10 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.
 
 ### The claims on the record
 
@@ -1502,7 +1502,7 @@ Roles the board assigns it: oversight, concealment, disclosure.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 78 of 1066, score 68). 8 connections, 1 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C0/A2/D2.
+Re-graded A on a global pass (rank 78 of 1071, score 68). 8 connections, 1 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C0/A2/D2.
 
 ### The claims on the record
 
@@ -1595,7 +1595,7 @@ Roles the board assigns it: oversight, disclosure.
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 602 of 1066, score 26). 8 connections, 1 of them custody/funding/programmatic. Axes C0/A1/D3.
+Re-graded C on a global pass (rank 605 of 1071, score 26). 8 connections, 1 of them custody/funding/programmatic. Axes C0/A1/D3.
 
 ### The claims on the record
 
@@ -1683,7 +1683,7 @@ Roles the board assigns it: concealment, oversight, disclosure.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 485 of 1066, score 30). 6 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D3.
+Re-graded B on a global pass (rank 489 of 1071, score 30). 6 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D3.
 
 ### The claims on the record
 
@@ -1764,7 +1764,7 @@ Roles the board assigns it: oversight, disclosure.
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 689 of 1066, score 23). 6 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.
+Re-graded C on a global pass (rank 692 of 1071, score 23). 6 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.
 
 ### The claims on the record
 
@@ -1828,7 +1828,7 @@ Roles the board assigns it: oversight.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 24 of 1066, score 103). 31 connections, 2 of them custody/funding/programmatic. Axes C3/A1/D3.
+Re-graded A on a global pass (rank 25 of 1071, score 103). 31 connections, 2 of them custody/funding/programmatic. Axes C3/A1/D3.
 
 ### The claims on the record
 

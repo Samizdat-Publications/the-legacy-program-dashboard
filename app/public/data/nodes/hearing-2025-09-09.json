@@ -820,6 +820,27 @@
 },
 {
 "claimTier": 1,
+"cls": "person",
+"dateEnd": "2025-09-09",
+"dateStart": "2025-09-09",
+"direction": "in",
+"edgeLabel": "Written testimony moved into the record by a member; NOT a witness appearance",
+"id": "michael-herrera",
+"l0": false,
+"label": "Michael Herrera",
+"note": "HE IS NOT A WITNESS AT THIS HEARING AND THIS EDGE MUST NOT BE READ AS AN APPEARANCE. Rep. Eric Burlison moved a document about him into the record and the chair admitted it without objection. He is on no committee witness list for this or any other hearing.",
+"sources": [
+{
+"date": "2025-09-09",
+"name": "Serial CHRG-119hhrg61718, printed record of 9 September 2025",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm"
+}
+],
+"tier": "B",
+"type": "witness-chain"
+},
+{
+"claimTier": 1,
 "cls": "institution",
 "dateEnd": null,
 "dateStart": null,
@@ -999,7 +1020,7 @@
 "coords": null,
 "dateEnd": "2025",
 "dateStart": "2025",
-"deg": 22,
+"deg": 23,
 "denials": [
 {
 "by": {
@@ -1254,6 +1275,12 @@
 "tier": "C"
 },
 {
+"cls": "person",
+"id": "michael-herrera",
+"label": "Michael Herrera",
+"tier": "B"
+},
+{
 "cls": "institution",
 "id": "pogo",
 "label": "Project On Government Oversight",
@@ -1348,7 +1375,7 @@
 ],
 "sub": "congressional-hearings",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 13 of 1066, score 116). 32 connections, 6 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A1/D3.",
+"tierRationale": "Re-graded A on a global pass (rank 13 of 1071, score 117). 33 connections, 6 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A1/D3.",
 "timeline": [
 {
 "date": "2025-02-19",

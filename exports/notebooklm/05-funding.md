@@ -56,7 +56,7 @@ Roles the board assigns it: concealment, funding, oversight, research.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 105 of 1066, score 59). 12 connections, 2 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C2/A3/D2.
+Re-graded A on a global pass (rank 105 of 1071, score 59). 12 connections, 2 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C2/A3/D2.
 
 ### The claims on the record
 
@@ -139,7 +139,7 @@ Roles the board assigns it: oversight, disclosure, funding, concealment.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 253 of 1066, score 40). 12 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D3.
+Re-graded B on a global pass (rank 254 of 1071, score 40). 12 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D3.
 
 ### The claims on the record
 
@@ -227,7 +227,7 @@ Roles the board assigns it: oversight, funding, concealment, disclosure.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 392 of 1066, score 33). 9 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D1.
+Re-graded B on a global pass (rank 394 of 1071, score 33). 9 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D1.
 
 ### The claims on the record
 
@@ -311,7 +311,7 @@ Roles the board assigns it: research, concealment, funding.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 132 of 1066, score 53). 8 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D2.
+Re-graded A on a global pass (rank 132 of 1071, score 53). 8 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D2.
 
 ### The claims on the record
 
@@ -379,7 +379,7 @@ Roles the board assigns it: research, funding.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 319 of 1066, score 36). 7 connections, 2 of them custody/funding/programmatic. Axes C0/A2/D1.
+Re-graded B on a global pass (rank 320 of 1071, score 36). 7 connections, 2 of them custody/funding/programmatic. Axes C0/A2/D1.
 
 ### The claims on the record
 
@@ -426,7 +426,7 @@ Roles the board assigns it: research, funding, concealment.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 141 of 1066, score 52). 7 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A1/D1.
+Re-graded A on a global pass (rank 141 of 1071, score 52). 7 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A1/D1.
 
 ### The claims on the record
 
@@ -485,7 +485,7 @@ Roles the board assigns it: research, funding, concealment.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 352 of 1066, score 35). 6 connections, 2 of them custody/funding/programmatic. Axes C1/A3/D2.
+Re-graded B on a global pass (rank 353 of 1071, score 35). 6 connections, 2 of them custody/funding/programmatic. Axes C1/A3/D2.
 
 ### The claims on the record
 
@@ -553,7 +553,7 @@ Roles the board assigns it: oversight, concealment, funding.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 32 of 1066, score 92). 19 connections, 3 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A3/D3.
+Re-graded A on a global pass (rank 32 of 1071, score 92). 19 connections, 3 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A3/D3.
 
 ### The claims on the record
 
@@ -652,7 +652,7 @@ Roles the board assigns it: research, custody, concealment, funding.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 122 of 1066, score 55). 14 connections, 4 of them custody/funding/programmatic. Axes C2/A2/D2.
+Re-graded A on a global pass (rank 122 of 1071, score 55). 14 connections, 4 of them custody/funding/programmatic. Axes C2/A2/D2.
 
 ### The claims on the record
 
@@ -741,7 +741,7 @@ Roles the board assigns it: concealment, funding, oversight.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 89 of 1066, score 65). 12 connections, 5 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A3/D3.
+Re-graded A on a global pass (rank 89 of 1071, score 65). 12 connections, 5 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A3/D3.
 
 ### The claims on the record
 
@@ -827,7 +827,7 @@ Roles the board assigns it: concealment, funding, oversight.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 22 of 1066, score 104). 13 connections, 5 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A3/D3.
+Re-graded A on a global pass (rank 22 of 1071, score 104). 13 connections, 5 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A3/D3.
 
 ### The claims on the record
 
@@ -924,7 +924,7 @@ Roles the board assigns it: concealment, oversight, funding, custody.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 38 of 1066, score 88). 12 connections, 5 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A3/D3.
+Re-graded A on a global pass (rank 38 of 1071, score 88). 12 connections, 5 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A3/D3.
 
 ### The claims on the record
 
@@ -1013,7 +1013,7 @@ Roles the board assigns it: research, concealment, funding, oversight, disclosur
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 71 of 1066, score 70). 11 connections, 2 of them custody/funding/programmatic. Axes C0/A3/D2.
+Re-graded A on a global pass (rank 71 of 1071, score 70). 11 connections, 2 of them custody/funding/programmatic. Axes C0/A3/D2.
 
 ### The claims on the record
 
@@ -1109,7 +1109,7 @@ Roles the board assigns it: funding, concealment, oversight.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 107 of 1066, score 59). 9 connections, 6 of them custody/funding/programmatic. Axes C1/A3/D3.
+Re-graded A on a global pass (rank 107 of 1071, score 59). 9 connections, 6 of them custody/funding/programmatic. Axes C1/A3/D3.
 
 ### The claims on the record
 
@@ -1179,7 +1179,7 @@ Roles the board assigns it: research, concealment, custody, funding.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 114 of 1066, score 57). 6 connections, 5 of them custody/funding/programmatic. Axes C2/A3/D2.
+Re-graded A on a global pass (rank 114 of 1071, score 57). 6 connections, 5 of them custody/funding/programmatic. Axes C2/A3/D2.
 
 ### The claims on the record
 
@@ -1228,7 +1228,7 @@ Roles the board assigns it: custody, concealment, funding.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 397 of 1066, score 33). 6 connections, 1 of them custody/funding/programmatic. Axes C2/A3/D0.
+Re-graded B on a global pass (rank 399 of 1071, score 33). 6 connections, 1 of them custody/funding/programmatic. Axes C2/A3/D0.
 
 ### The claims on the record
 
@@ -1298,7 +1298,7 @@ Roles the board assigns it: concealment, funding, oversight, custody.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 54 of 1066, score 75). 7 connections, 2 of them custody/funding/programmatic. Axes C1/A3/D2.
+Re-graded A on a global pass (rank 54 of 1071, score 75). 7 connections, 2 of them custody/funding/programmatic. Axes C1/A3/D2.
 
 ### The claims on the record
 
@@ -1385,7 +1385,7 @@ Roles the board assigns it: funding, concealment, oversight, disclosure.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 170 of 1066, score 47). 6 connections, 3 of them custody/funding/programmatic. Axes C1/A3/D2.
+Re-graded B on a global pass (rank 171 of 1071, score 47). 6 connections, 3 of them custody/funding/programmatic. Axes C1/A3/D2.
 
 ### The claims on the record
 
@@ -1469,7 +1469,7 @@ Roles the board assigns it: research, disclosure, funding.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 458 of 1066, score 31). 6 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.
+Re-graded B on a global pass (rank 461 of 1071, score 31). 6 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.
 
 ### The claims on the record
 
@@ -1507,7 +1507,7 @@ Re-graded B on a global pass (rank 458 of 1066, score 31). 6 connections, 0 of t
 
 ## House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'
 
-House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency' is a event on the board; board tier A, named in sworn testimony or primary documents as directly inside the programme; dates 2023; axes C2 A2 D3; 19 connections; in the funding band.
+House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency' is a event on the board; board tier A, named in sworn testimony or primary documents as directly inside the programme; dates 2023; axes C2 A2 D3; 20 connections; in the funding band.
 
 In one line: congressional-hearings.
 
@@ -1553,7 +1553,7 @@ Roles the board assigns it: oversight, disclosure, concealment, funding.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 25 of 1066, score 102). 24 connections, 3 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A2/D3.
+Re-graded A on a global pass (rank 24 of 1071, score 103). 25 connections, 3 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A2/D3.
 
 ### The claims on the record
 
@@ -1595,15 +1595,15 @@ A further 5 claims sit on this node on the board and are not reproduced here.
 - House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency' comes in from **George Knapp** (person, board tier A), a witness-chain link at Tier 1 documented. The link reads: His Statement for the Record was submitted by Rep. Burchett in 2023, two years before he testified in person. Listed in the 2023 Index of Documents; Knapp testified live on 9 September 2025. Sources: U.S. GPO, Hearing transcript, Serial No. 118-53 (CHRG-118hhrg53022), https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm, dated 2023-07-26; U.S. GPO, Hearing transcript, Serial No. 119-44 (CHRG-119hhrg61718), https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm, dated 2025-09-09.
 - House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency' comes in from **Timothy Floyd Burchett** (person, board tier A), a investigative link at Tier 1 documented. The link reads: Drove the hearing into existence; opened by disclosing the denied SCIF access. Garcia and Moskowitz both credited Burchett's leadership from the dais; Burchett's opening statement records that members were denied a SCIF briefing before the hearing. Sources: U.S. GPO, Hearing transcript, Serial No. 118-53 (CHRG-118hhrg53022), https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm, dated 2023-07-26.
 - House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency' comes in from **Susan Gough** (person, board tier A), a denial link at Tier 1 documented. The link reads: Post-hearing statement rebutting the harm claims. Gough stated the Department has no information that any individual has been harmed or killed as a result of providing information to AARO, and warned that unsubstantiated harm claims discourage witnesses. Grusch's sworn claim was about harm in the concealment effort, not about providing information to AARO - the denial answers a question that was not asked. Sources: DefenseScoop - UAP hearing sparks clash between Pentagon officials, witnesses, https://defensescoop.com/2023/07/31/uap-hearing-sparks-clash-between-pentagon-officials-witnesses/, dated 2023-07-31.
+- House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency' comes in from **David Fravor** (person, board tier A), a programmatic link at Tier 1 documented. The link reads: sworn witness. Listed in the printed hearing record as a witness. Sources: CHRG-118hhrg53022, printed hearing transcript, 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency', Serial No. 118-53, https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/pdf/CHRG-118hhrg53022.pdf, dated 2023-07-26.
+- House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency' comes in from **David Fravor** (person, board tier A), a witness-chain link at Tier 1 documented. The link reads: Testified as former commanding officer, VFA-41. Fravor's written statement to the subcommittee is the primary sworn account of the 2004 intercept. Sources: House Oversight - hearing page, 26 July 2023, https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/, dated 2023-07-26; House Oversight - Fravor written statement (PDF), https://oversight.house.gov/wp-content/uploads/2023/07/David-Fravor-Statement-for-House-Oversight-Committee.pdf, dated 2023-07-26; U.S. GPO, Hearing transcript, Serial No. 118-53 (CHRG-118hhrg53022), https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm, dated 2023-07-26.
 - House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency' comes in from **Ryan Graves** (person, board tier B), a programmatic link at Tier 1 documented. The link reads: sworn witness. Listed in the printed hearing record as a witness. Sources: CHRG-118hhrg53022, printed hearing transcript, 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency', Serial No. 118-53, https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/pdf/CHRG-118hhrg53022.pdf, dated 2023-07-26.
 - House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency' comes in from **Ryan Graves** (person, board tier B), a witness-chain link at Tier 1 documented. The link reads: Lead witness at the July 2023 House Oversight hearing. Graves testified alongside David Fravor and David Grusch; his written statement is in the committee record. Sources: House Oversight - hearing page, 26 July 2023, https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/, dated 2023-07-26; House Oversight - Graves written testimony (PDF), https://oversight.house.gov/wp-content/uploads/2023/07/Ryan-HOC-Testimony.pdf, dated 2023-07-26; U.S. GPO, Hearing transcript, Serial No. 118-53 (CHRG-118hhrg53022), https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm, dated 2023-07-26.
-- House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency' comes in from **David Fravor** (person, board tier B), a programmatic link at Tier 1 documented. The link reads: sworn witness. Listed in the printed hearing record as a witness. Sources: CHRG-118hhrg53022, printed hearing transcript, 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency', Serial No. 118-53, https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/pdf/CHRG-118hhrg53022.pdf, dated 2023-07-26.
-- House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency' comes in from **David Fravor** (person, board tier B), a witness-chain link at Tier 1 documented. The link reads: Testified as former commanding officer, VFA-41. Fravor's written statement to the subcommittee is the primary sworn account of the 2004 intercept. Sources: House Oversight - hearing page, 26 July 2023, https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/, dated 2023-07-26; House Oversight - Fravor written statement (PDF), https://oversight.house.gov/wp-content/uploads/2023/07/David-Fravor-Statement-for-House-Oversight-Committee.pdf, dated 2023-07-26; U.S. GPO, Hearing transcript, Serial No. 118-53 (CHRG-118hhrg53022), https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm, dated 2023-07-26.
 - House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency' comes in from **Grusch PPD-19 Urgent Concern Complaint to the ICIG** (document, board tier B), a temporal link at Tier 1 documented. The link reads: Fourteen months from urgent-concern determination to public testimony. The ICIG found the complaint credible and urgent in July 2022; Grusch testified publicly in July 2023 only after leaving government and clearing his statements through DOPSR. The intervening year is the period the reprisal complaint covers. Sources: House Oversight hearing transcript, https://www.congress.gov/118/meeting/house/116282/documents/HHRG-118-GO06-Transcript-20230726.pdf, dated 2023-07-26; The Debrief, https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/, dated 2023-06-05.
 - House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency' comes in from **Eglin Air Force Base, Florida** (location, board tier B), a investigative link at Tier 1 documented. The link reads: The Eglin radar sequence and imagery were requested from the dais, 'subpoenaed if necessary'. No production of the Eglin material to the committee has been recorded as of August 2026. Sources: U.S. GPO, Hearing transcript, Serial No. 118-53 (CHRG-118hhrg53022), https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm, dated 2023-07-26.
 - House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency' comes in from **The Boeing Company** (institution, board tier B), a witness-chain link at Tier 1 documented. The link reads: Boeing contractors were the observers in the 2003 Vandenberg red square incident. Ryan Graves described the incident in 2023 and Jeffrey Nuccetelli, who investigated it, testified to it in 2025. Rep. Ocasio-Cortez used the detail to open the question of contractor reporting obligations, and Grusch answered that none exist. Sources: House Oversight hearing transcript, 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency' (CHRG-118hhrg53022), https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm, dated 2023-07-26; House Oversight Task Force on the Declassification of Federal Secrets hearing transcript, 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection' (CHRG-119hhrg61718, Serial No. 119-44), https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm, dated 2025-09-09.
 
-It carries 24 connections in total on the board.
+It carries 25 connections in total on the board.
 
 ## FY2024 NDAA, Public Law 118-31 - Div. A, Title XVIII, Subtitle C (secs. 1841-1843), UAP Records Collection; Div. G (IAA FY2024) secs. 7341, 7343
 
@@ -1659,7 +1659,7 @@ Roles the board assigns it: disclosure, oversight, funding.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 40 of 1066, score 87). 12 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D3.
+Re-graded A on a global pass (rank 40 of 1071, score 87). 12 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D3.
 
 ### The claims on the record
 
@@ -1756,7 +1756,7 @@ Roles the board assigns it: funding, concealment, oversight.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 265 of 1066, score 39). 9 connections, 2 of them custody/funding/programmatic. Axes C0/A1/D3.
+Re-graded B on a global pass (rank 266 of 1071, score 39). 9 connections, 2 of them custody/funding/programmatic. Axes C0/A1/D3.
 
 ### The claims on the record
 
@@ -1829,7 +1829,7 @@ Roles the board assigns it: funding, oversight, concealment.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 43 of 1066, score 84). 11 connections, 3 of them custody/funding/programmatic. Axes C1/A3/D3.
+Re-graded A on a global pass (rank 43 of 1071, score 84). 11 connections, 3 of them custody/funding/programmatic. Axes C1/A3/D3.
 
 ### The claims on the record
 
@@ -1911,7 +1911,7 @@ Roles the board assigns it: oversight, concealment, disclosure, funding.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 86 of 1066, score 66). 9 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D1.
+Re-graded A on a global pass (rank 86 of 1071, score 66). 9 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D1.
 
 ### The claims on the record
 
@@ -2008,7 +2008,7 @@ Roles the board assigns it: disclosure, concealment, funding, oversight.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 148 of 1066, score 51). 6 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D3.
+Re-graded A on a global pass (rank 148 of 1071, score 51). 6 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D3.
 
 ### The claims on the record
 
@@ -2078,7 +2078,7 @@ Roles the board assigns it: funding, oversight, concealment.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 145 of 1066, score 51). 6 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D3.
+Re-graded A on a global pass (rank 145 of 1071, score 51). 6 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D3.
 
 ### The claims on the record
 

@@ -1,0 +1,229 @@
+{
+"A": 0,
+"C": 1,
+"D": 2,
+"affiliations": [],
+"age": null,
+"band": null,
+"chronology": [],
+"claims": [
+{
+"source": "Serial CHRG-119hhrg61718, https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm , 2025-09-09",
+"text": "The printed record of the House Oversight Task Force on the Declassification of Federal Secrets hearing of 9 September 2025 carries this colloquy. Rep. Eric Burlison: 'Madam Chair, I also have further witnesses of courageous individuals. It was given to me by Dr. Steven Greer, including Michael Herrera and his testimony. We have Roderick Castle and his testimony; Randy Anderson, his testimony; Steven Digna, and others, three others, all saying similar things to what the witnesses today have said, and I would like to enter that into the record as well.' Chairwoman Luna: 'No objection.' What this documents is that a member moved a document about him into a hearing record and sourced it to Steven Greer. It does not document that he testified, was sworn, or appeared.",
+"tier": 1
+},
+{
+"source": "https://docs.house.gov/Committee/Calendar/ByEvent.aspx?EventID=116282 , https://docs.house.gov/Committee/Calendar/ByEvent.aspx?EventId=117722 , https://oversight.house.gov/hearing/restoring-public-trust-through-uap-transparency-and-whistleblower-protection/ , all opened 2026-09-18",
+"text": "He is on no congressional witness list. The committee-published witness lists for 26 July 2023 (event 116282), 13 November 2024 (event 117722) and 9 September 2025 name him nowhere, and the printed records of all three hearings contain his name exactly once in total, in the Burlison colloquy.",
+"tier": 1
+},
+{
+"source": "AARO Historical Record Report Volume I, p. 29, https://documents2.theblackvault.com/documents/dod/AARO_Historical_Record_Report_Volume_1_2024.pdf , 2024-02",
+"text": "AARO's 'Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP), Volume I', February 2024, carries at page 29, in Section V 'Assessment of Interviewee Claims of USG Involvement in Hidden UAP Programs', this sentence: 'An interviewee who is a former U.S. service member said that in 2009, while participating in a humanitarian and security mission in a foreign country, he encountered U.S. Special Forces loading containers onto a large extraterrestrial spacecraft.' The sentence is AARO's summary of an interview, not a quotation of the interviewee, and it names nobody.",
+"tier": 1
+},
+{
+"source": "AARO Historical Record Report Volume I, p. 28, https://documents2.theblackvault.com/documents/dod/AARO_Historical_Record_Report_Volume_1_2024.pdf , 2024-02",
+"text": "The same report states the anonymisation rule that is why the page 29 sentence names nobody: 'AARO generated random numbers and assigned one to each interviewee. AARO maintains the key, which is stored and handled in a secure manner to protect each interviewee's privacy.' It also gives the scale and the tiering: 'As of September 17, 2023, AARO interviewed approximately 30 individuals', with Tier 1 interviewees being 'those who have spoken with congressional staff or Members of Congress and have been subsequently referred to AARO'.",
+"tier": 1
+},
+{
+"source": "stated inference from the AARO Volume I page 29 summary and his Shawn Ryan Show account",
+"text": "The identification of AARO's page 29 interviewee as Michael Herrera is an INFERENCE and this node carries it as one. It matches his public account on year, on mission type and on the described scene. No opened record makes the link, AARO names nobody, and Herrera is not named anywhere in the report.",
+"tier": 3
+},
+{
+"source": "Shawn Ryan Show #66 part 1, YouTube video id 3zm4nh3S66I, 2023-07-17, opened 2026-09-18",
+"text": "His own account is on the public record in a dated artefact: 'Michael Herrera - US Marine Encounters UFO Black Ops Human Trafficking Operation | SRS #66 (Part 1)', Shawn Ryan Show, premiered 17 July 2023, runtime 1:26:50. The channel's own description reads: 'Former Marine Michael Herrera tells all in part one of this three part series. Herrera and his team were tasked with responding to a major earthquake and tsunami in Indonesia providing overwatch and logistical support. Little did they know--they would come face to face with a UAP / UFO and be ambushed by an unmarked shadow unit of operators.' This is a man saying a thing on a dated recording, and nothing more.",
+"tier": 2
+},
+{
+"source": "stated inference from the committee witness lists and the Shawn Ryan Show description",
+"text": "The Shawn Ryan Show description's phrase 'how he is testifying to Congress' is not supported by any opened record. He has never been a hearing witness. Whether he was interviewed in a closed congressional setting is a separate question that has not been reached, and the promotional phrasing should not be read as establishing either.",
+"tier": 3
+},
+{
+"source": "https://www.press.org/events/ufouap-disclosure-press-conference , opened 2026-09-18",
+"text": "The National Press Club's own events listing carries 'UFO/UAP Disclosure Press Conference', 12 June 2023, 2:00 PM, in the Club's Ballroom, with the disclaimer 'This event is not sponsored or endorsed by The National Press Club'. Steven Greer is the only named presenter and Michael Herrera is not named on the listing. This matters because that event is widely given as the venue of his first public statement; the venue's own record neither confirms nor denies his presence, it simply does not name him.",
+"tier": 1
+}
+],
+"cls": "person",
+"cluster": "witness",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 3,
+"cls": "document",
+"dateEnd": "2024-02",
+"dateStart": "2024-02",
+"direction": "out",
+"edgeLabel": "Inferred identification with the anonymised page 29 interviewee",
+"id": "aaro-historical-record-vol1",
+"l0": true,
+"label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
+"note": "THE IDENTIFICATION IS AN INFERENCE AND THIS EDGE CARRIES IT AS ONE. The page 29 interviewee account matches his public account on year, mission type and scene. AARO names nobody and holds the anonymisation key itself. No opened record makes the link.",
+"sources": [
+{
+"date": "2024-02",
+"name": "AARO Historical Record Report Volume I, p. 29 (Black Vault mirror)",
+"url": "https://documents2.theblackvault.com/documents/dod/AARO_Historical_Record_Report_Volume_1_2024.pdf"
+}
+],
+"tier": "A",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "2025-09-09",
+"dateStart": "2025-09-09",
+"direction": "out",
+"edgeLabel": "The member who moved his written testimony into the hearing record",
+"id": "eric-burlison",
+"l0": false,
+"label": "Eric Burlison",
+"note": "Burlison is the member who made the motion on 9 September 2025, naming Herrera among several individuals whose testimony he entered.",
+"sources": [
+{
+"date": "2025-09-09",
+"name": "Serial CHRG-119hhrg61718, printed record of 9 September 2025",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm"
+}
+],
+"tier": "A",
+"type": "witness-chain"
+},
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": "2025-09-09",
+"dateStart": "2025-09-09",
+"direction": "out",
+"edgeLabel": "Written testimony moved into the record by a member; NOT a witness appearance",
+"id": "hearing-2025-09-09",
+"l0": true,
+"label": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'",
+"note": "HE IS NOT A WITNESS AT THIS HEARING AND THIS EDGE MUST NOT BE READ AS AN APPEARANCE. Rep. Eric Burlison moved a document about him into the record and the chair admitted it without objection. He is on no committee witness list for this or any other hearing.",
+"sources": [
+{
+"date": "2025-09-09",
+"name": "Serial CHRG-119hhrg61718, printed record of 9 September 2025",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm"
+}
+],
+"tier": "A",
+"type": "witness-chain"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "2025-09-09",
+"dateStart": "2025-09-09",
+"direction": "out",
+"edgeLabel": "Named on the record as the custodian who supplied the written testimony",
+"id": "steven-greer",
+"l0": false,
+"label": "Steven M. Greer",
+"note": "Custody of the DOCUMENT, not of material. Burlison said on the record that the testimony 'was given to me by Dr. Steven Greer'.",
+"sources": [
+{
+"date": "2025-09-09",
+"name": "Serial CHRG-119hhrg61718, printed record of 9 September 2025",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm"
+}
+],
+"tier": "B",
+"type": "custody"
+}
+],
+"date": null,
+"dateEnd": null,
+"dateStart": null,
+"deg": 4,
+"denials": [],
+"domains": [
+"witnesses-2026-09-18"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "nd",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "michael-herrera",
+"instId": null,
+"l0": false,
+"label": "Michael Herrera",
+"loc": null,
+"locId": null,
+"members": null,
+"narrative": "Michael Herrera is a claimant whose account has reached two official records without him ever having testified, and the distinction is the whole reason this node is carefully worded. He has never been a witness at a congressional hearing. His name appears exactly once across the printed records of the three modern House UAP hearings: on 9 September 2025 Rep. Eric Burlison moved a document about him into the record, describing it as testimony given to him by Dr. Steven Greer, and the chair admitted it without objection. Separately, AARO's Historical Record Report Volume I carries at page 29 an anonymised one-sentence summary of a 2009 foreign humanitarian-mission account that matches his public account on year, mission type and scene. AARO names nobody and maintains the anonymisation key itself, so the identification of that interviewee as Herrera is an inference and is carried here as Tier 3, not as a fact. His own account is on the public record in a dated artefact, a Shawn Ryan Show appearance of 17 July 2023. No service record, no DD-214 and no corroborating squadmate was opened. What makes him a node is proximity to a claim that two official records touch, not credibility: he held no programme office and no clearance is documented anywhere.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Michael Herrera",
+"sources": [
+{
+"date": "2025-09-09",
+"name": "Printed record, House Oversight Task Force on the Declassification of Federal Secrets, 9 September 2025",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm"
+},
+{
+"date": "2024-02",
+"name": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I (Black Vault mirror; aaro.mil and media.defense.gov both returned HTTP 403)",
+"url": "https://documents2.theblackvault.com/documents/dod/AARO_Historical_Record_Report_Volume_1_2024.pdf"
+},
+{
+"date": "2023-06-12",
+"name": "National Press Club events listing, UFO/UAP Disclosure Press Conference, 12 June 2023",
+"url": "https://www.press.org/events/ufouap-disclosure-press-conference"
+},
+{
+"date": null,
+"name": "all opened 2026-09-18",
+"url": "https://docs.house.gov/Committee/Calendar/ByEvent.aspx?EventID=116282"
+},
+{
+"date": null,
+"name": "all opened 2026-09-18",
+"url": "https://docs.house.gov/Committee/Calendar/ByEvent.aspx?EventId=117722"
+},
+{
+"date": null,
+"name": "all opened 2026-09-18",
+"url": "https://oversight.house.gov/hearing/restoring-public-trust-through-uap-transparency-and-whistleblower-protection/"
+}
+],
+"status": "alive",
+"sub": "Former US Marine who says that in 2009, during humanitarian and security operations after an Indonesian earthquake, he and his unit encountered a large craft being loaded by non-uniformed armed personnel",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 361 of 1071, score 34). 4 connections, 1 of them custody/funding/programmatic. Axes C1/A0/D2.",
+"timeline": [
+{
+"date": "2023-07-17",
+"id": "tl-2023-07-17-herrera-srs",
+"label": "Michael Herrera's account enters the public record on a dated recording",
+"precision": "day",
+"strand": "witness",
+"text": "'Michael Herrera - US Marine Encounters UFO Black Ops Human Trafficking Operation | SRS #66 (Part 1)' premiered on the Shawn Ryan Show, runtime 1:26:50. The artefact is dated and openable; the account within it is a man's own statement and nothing more.",
+"tier": "C"
+},
+{
+"date": "2025-09-09",
+"id": "tl-2025-09-09-herrera-entered",
+"label": "Herrera's written testimony entered into a hearing record by motion, sourced to Steven Greer",
+"precision": "day",
+"strand": "oversight",
+"text": "Rep. Eric Burlison moved into the record of the House Oversight Task Force hearing 'further witnesses of courageous individuals. It was given to me by Dr. Steven Greer, including Michael Herrera and his testimony', naming also Roderick Castle, Randy Anderson and Steven Digna. Chairwoman Luna: 'No objection.' He did not appear and was not sworn.",
+"tier": "C"
+}
+],
+"unexplainedResidual": null,
+"unverified": [
+"The 'Memorandum for Record' he says he later obtained from AARO was NOT OPENED. Only a search-engine paraphrase of a social-media post describing it was found, and it is deliberately not cited.",
+"No service record, DD-214 or unit assignment was opened. His Marine Corps service is self-stated.",
+"No squadmate or member of his claimed unit has corroborated the account in any opened record."
+]
+}
