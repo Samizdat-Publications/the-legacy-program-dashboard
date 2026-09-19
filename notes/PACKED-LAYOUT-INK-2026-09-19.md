@@ -143,3 +143,98 @@ CI runs `test_packed_layout` and would go red, so nothing deploys until this is 
 Stewart declined the alternative, which was excluding both hubs from L0 to force a pass,
 on the grounds that it hides them from the map and defeats the rule. That judgement is
 recorded here so Design knows the cheap option was considered and refused.
+
+---
+
+# UPDATE, 19 September 2026, afternoon. The note's mechanism no longer holds.
+
+Written after the silent-defaults session. **Nothing in `tools/test_packed_layout.js` was
+touched here either.** This is a measurement that changes what Design is being asked, not
+a patch.
+
+## 7. The nuclear cluster was re-tested on top of today's fixes, and is still red
+
+`nuclear-2026-09-19` merged onto the silent-defaults branch, rebuilt, board 1,159 nodes
+and 2,738 edges. Trial branch `trial/nuclear-on-defaults`, local only, not pushed.
+
+| | chips | cells | needs `cells x 2 < chips` | |
+|---|---|---|---|---|
+| master today | 29 | 10 | 20 < 29 | passes, margin 9 |
+| silent-defaults branch | 29 | 10 | 20 < 29 | passes, margin 9 |
+| **+ nuclear cluster** | **29** | **18** | 36 < 29 | **fails** |
+
+The load-bearing half still passes everywhere: 8 of 8 fits draw chips at all four widths in
+both FIT and FIT ALL. Nobody is landed in the count matrix. Only `fitChipInk` fails.
+
+**Correcting 267 nodes onto their authored map band did not move this measure at all.**
+That was worth testing, since the measure is indexed on band and class, and the answer is
+no: master and the fixed branch are both 29 / 10.
+
+## 8. THE COST IS NOT NEW CELLS ANY MORE, so section 3's lever table is out of date
+
+Section 3 says one new band-and-class cell costs about +7 on the cell side, and section 4
+builds the structural argument on it: every first-of-kind object opens a cell, so the check
+is opposed to the hub rule.
+
+**That mechanism cannot be what is happening here.** The L0 budget was adopted the same day
+as that note. L0 is now capped at 135 rather than being a floor that grows, so a new cluster
+DISPLACES members instead of adding them. Counted directly off `data/l0-model.json`:
+
+| | L0 nodes | distinct band-and-class cells |
+|---|---|---|
+| silent-defaults branch | 135 | **30** |
+| + nuclear cluster | 135 | **30** |
+
+Identical. No cell opens, and the per-cell occupancy barely moves: the largest shift is
+`witness x event` from 5 to 8, and no cell changes by more than 3. Cell ink still rises from
+10 to 18, an 80 per cent jump, off a distribution that is nearly the same.
+
+So the +7-per-new-cell model explained the ARV build and does not explain this one. Under a
+budgeted L0 the two levers in section 3 no longer describe the system.
+
+## 9. What `classInk` actually measures, which is the likely answer to question 2
+
+```js
+for (let i = 0; i < d.length; i += 4 * 29) {          // every 29th pixel
+  ...
+  if (Math.abs(r-c[0]) + Math.abs(g-c[1]) + Math.abs(b-c[2]) <= 60) hit++;
+}
+return Math.round(10000 * hit / tot);
+```
+
+Three properties worth naming, because together they explain why the number does not scale
+with anything editorial:
+
+1. **It is a histogram of the WHOLE CANVAS, not of the chips.** Any pixel within Manhattan
+   distance 60 of one of five class colours counts, wherever it is and whatever drew it.
+2. **The colour tolerance is loose.** 60 across three channels admits a wide neighbourhood,
+   including antialiasing and any tinted background near a class hue. The comment already
+   concedes this for the person grey, which is excluded for exactly that reason.
+3. **The camera is wherever the preceding fit sweep left it.** `classInk` runs after the
+   eight-state fit loop with only a viewport resize between, and no camera reset. So the
+   fraction of the canvas the map covers, and at what scale, is an input to the measure and
+   is not controlled.
+
+Point 3 is the one that matters for a ratio. The packing extent changes when the board
+changes, the scale at a given fit changes with it, and the share of canvas covered changes
+with both. `cellInkChips` and `cellInkCells` are then two whole-canvas histograms taken at
+whatever view the board's own geometry produced, which is not a property of "are chips being
+drawn".
+
+**A concrete suggestion for question 2, offered and not built.** Both halves of the
+comparison should be taken at a PINNED camera, and ideally over the map's drawn extent
+rather than the whole canvas. The assertion the check's own comment states, "a renderer that
+had stopped drawing chips entirely would flatten the two", is a statement about the two modes
+DIFFERING, and a renderer that had stopped drawing chips would put the ratio at 1.0. The
+board is at 1.61 and has never been near 1.0. Whether the right constant is 2.0, a smaller
+ratio, or a difference rather than a ratio, is Design's call, but the current 2:1 is being
+asked to survive changes in camera and extent that have nothing to do with the thing it is
+checking.
+
+## 10. What this changes for the queue
+
+Question 4 of section 5 is unaffected and still open. Questions 1 to 3 should be read against
+section 8 above rather than against section 3: **the board is no longer growing its L0, so
+"the board carries more kinds of object" is not currently the thing moving the number.**
+Something about extent, scale or canvas coverage is, and pinning the camera would say which
+in one run.
