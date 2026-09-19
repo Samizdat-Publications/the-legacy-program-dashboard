@@ -185,6 +185,16 @@ export const TIMELINE = [
     node: 'research-development-board'
   },
   {
+    id: 'spine-tl-1947-nsa',
+    strand: 'program',
+    date: '1947-07-26',
+    precision: 'day',
+    tier: 1,
+    node: 'national-security-act-1947',
+    label: 'The National Security Act creates the NSC and the CIA',
+    text: 'Public Law 80-253, 61 Stat. 495. Section 101 creates the National Security Council; section 102(a) establishes the Central Intelligence Agency under it. Section 102(d)(5), permitting such other functions related to intelligence as the Council may direct, will be the authority for the covert-action charters of 1948 and 1954. The Act creates the National Military Establishment, not the Department of Defense; that renaming comes in 1949.'
+  },
+  {
     id: 'ag-tl-1947-nsa47',
     strand: 'program',
     date: '1947-07-26',
@@ -638,6 +648,16 @@ export const TIMELINE = [
     node: 'afr-200-2'
   },
   {
+    id: 'spine-tl-1953-10501',
+    strand: 'coverup',
+    date: '1953-11-05',
+    precision: 'day',
+    tier: 1,
+    node: 'eo-10501',
+    label: 'EO 10501 fixes three classification levels and strips 28 agencies of the power to classify',
+    text: 'Eisenhower signs EO 10501, effective 15 December 1953, revoking EO 10290 of 1951. It limits defense-information markings to Top Secret, Secret and Confidential, removes original classification authority entirely from 28 named agencies and limits 17 more to the agency head. Section 13 leaves Atomic Energy Act Restricted Data outside the order, which is where the two classification regimes part company.'
+  },
+  {
     id: 'tl-1954-03-10',
     strand: 'coverup',
     date: '1954-03-10',
@@ -646,6 +666,26 @@ export const TIMELINE = [
     text: 'Unidentified flying objects become a mandatory CIRVIS report for airborne personnel, with unauthorised disclosure of report contents prohibited under 18 U.S.C. 793 and 794.',
     tier: 'A',
     node: 'janap-146'
+  },
+  {
+    id: 'spine-tl-1954-5412',
+    strand: 'program',
+    date: '1954-03-15',
+    precision: 'day',
+    tier: 1,
+    node: 'nsc-5412',
+    label: 'NSC 5412 replaces the 1948 covert-action charter',
+    text: 'The President approves NSC 5412 the day it is circulated. It supersedes NSC 10/2 and NSC 10/5, keeps the authority in section 102(d)(5), restates the plausible-deniability test almost word for word, and makes the Operations Coordinating Board the normal channel for interagency support. It does not create the Special Group; that comes with NSC 5412/2 in December 1955.'
+  },
+  {
+    id: 'spine-tl-1954-aea',
+    strand: 'coverup',
+    date: '1954-08-30',
+    precision: 'day',
+    tier: 1,
+    node: 'atomic-energy-act-1954',
+    label: 'The Atomic Energy Act of 1954 makes Restricted Data an Act-wide statutory category',
+    text: 'Public Law 83-703, 68 Stat. 919, a complete restatement of the 1946 Act. The Restricted Data definition moves out of section 10 and into the definitions chapter as a capitalised category, gains the word \'design\', and swaps fissionable material and the production of power for special nuclear material and the production of energy. Removal from the category now runs through the formal procedure at section 142. The phrase \'born classified\' appears nowhere in the Act.'
   },
   {
     id: 'ag-tl-1954-aea',
@@ -927,6 +967,16 @@ export const TIMELINE = [
     label: 'Bluegill Triple Prime detonates over Johnston Island',
     text: 'The Defense Nuclear Agency\'s Operation DOMINIC I report records the shot at 25 October 1962, 2359 local, the fourth and first successful attempt to launch the BLUEGILL device on a Thor missile, submegaton, tens of kilometres over Johnston Island, with 22 Air Force aircraft arrayed and nine Navy ships positioned. The report carries no unidentified object, no recovery and no debris, and the photographic aircraft were three KC-135s under the call sign KETTLE.',
     source: 'DNA 6040F, Operation DOMINIC I--1962, Defense Nuclear Agency, https://archive.org/download/DTIC_ADA136820/DTIC_ADA136820_djvu.txt'
+  },
+  {
+    id: 'spine-tl-1964-303',
+    strand: 'program',
+    date: '1964-06-02',
+    precision: 'day',
+    tier: 1,
+    node: 'nsam-303',
+    label: 'The Special Group 5412 is renamed the 303 Committee, and nothing else changes',
+    text: 'McGeorge Bundy signs a two-sentence National Security Action Memorandum renaming the Special Group 5412 as the 303 Committee, expressly altering nothing about its composition, function or responsibility. It contains no secrecy policy of any kind, which matters because it is routinely cited as though it did.'
   },
   {
     id: 'tl-1964-09-22-big-sur-buzzing-bee',
@@ -1299,6 +1349,16 @@ export const TIMELINE = [
     node: 'd-remote-viewing'
   },
   {
+    id: 'spine-tl-1972-11652',
+    strand: 'oversight',
+    date: '1972-03-08',
+    precision: 'day',
+    tier: 1,
+    node: 'eo-11652',
+    label: 'EO 11652 puts classified material on an automatic declassification timetable',
+    text: 'Nixon signs EO 11652, effective 1 June 1972, superseding EO 10501 and six amending orders. It creates the General Declassification Schedule, under which Top Secret declassifies after ten years and Confidential after six, adds a thirty-year rule that only a Department head can override in writing, and creates an Interagency Classification Review Committee under the NSC that takes complaints from outside the government.'
+  },
+  {
     id: 'tl-ffrdc-1973-jason-sri',
     strand: 'program',
     date: '1973-01-01',
@@ -1551,6 +1611,16 @@ export const TIMELINE = [
     text: 'GEPAN reports to its scientific council in five volumes and about 500 pages, limited to 120 or 140 copies and secret. Of eleven high-strangeness cases studied by four-person teams including psychologists, ten were concluded to be material phenomena not explicable as natural or human. A document in the US NSA\'s declassified UFO collection assesses that its method makes \'the bulk of the Condon Report seem very poor by comparison\'.',
     tier: 1,
     node: 'gepan'
+  },
+  {
+    id: 'spine-tl-1978-12065',
+    strand: 'oversight',
+    date: '1978-06-28',
+    precision: 'day',
+    tier: 1,
+    node: 'eo-12065',
+    label: 'EO 12065 requires the public interest in disclosure to be weighed',
+    text: 'Carter\'s classification order revokes EO 11652 and, at section 3-303, requires an official to determine whether the public interest in disclosure outweighs the damage to national security. It is the only classification order to have carried such a test, and it lasts four years.'
   },
   {
     id: 'tl-1978-0729-stringfield',
@@ -1820,6 +1890,16 @@ export const TIMELINE = [
     node: 'caus-v-nsa'
   },
   {
+    id: 'spine-tl-1982-12356',
+    strand: 'coverup',
+    date: '1982-04-02',
+    precision: 'day',
+    tier: 1,
+    node: 'eo-12356',
+    label: 'EO 12356 removes the public-interest test and permits reclassification after a FOIA request',
+    text: 'Reagan\'s classification order, effective 1 August 1982, revokes EO 12065. The phrase \'public interest\' occurs nowhere in it. Section 1.6(c) permits reclassifying information already declassified and disclosed where it may reasonably be recovered, and 1.6(d) permits classification or reclassification after a Freedom of Information Act request has been received. Doubt about the level is resolved upward.'
+  },
+  {
     id: 'tl-1982-tonopah',
     strand: 'program',
     date: '1982-05-17',
@@ -1973,6 +2053,16 @@ export const TIMELINE = [
     text: 'Puthoff establishes the Institute for Advanced Studies at Austin, incorporated under EarthTech International in 1991.',
     tier: 'A',
     node: 'institute-advanced-studies-austin'
+  },
+  {
+    id: 'spine-tl-1985-nsdd159',
+    strand: 'coverup',
+    date: '1985-01-18',
+    precision: 'day',
+    tier: 1,
+    node: 'nsdd-159',
+    label: 'NSDD 159 orders a compartmented access system over covert-action policy itself',
+    text: 'Reagan signs NSDD 159, directing the national security adviser to establish a separate, specially compartmented control and access system at the Top Secret level for all policy matters concerning covert action. Each agency designates one senior officer as its sole focal point. Knowledge of policy, of operations and of supporting activity is to be strictly compartmented from each other, the minimum possible number of documents is to be created, and one NSC officer holds the only record copies of approved Findings. The implementing procedures are promulgated under separate cover and are not in the released document.'
   },
   {
     id: 'tl-1985-aurora-p1',

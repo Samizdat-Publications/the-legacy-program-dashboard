@@ -1,0 +1,175 @@
+{
+"A": 2,
+"C": 0,
+"D": 1,
+"band": null,
+"claims": [
+{
+"source": "61 Stat. 495, https://www.govinfo.gov/content/pkg/STATUTE-61/pdf/STATUTE-61-Pg495.pdf",
+"text": "The enrolled text carries the sidenote 'July 26,1947 [S. 758] [Public Law 253]' and closes 'Approved July 26, 1947.' Its short title clause reads 'That this Act may be cited as the National Security Act of 1947.'",
+"tier": 1
+},
+{
+"source": "National Security Act of 1947 sec. 102(a), 61 Stat. 497, https://www.govinfo.gov/content/pkg/STATUTE-61/pdf/STATUTE-61-Pg495.pdf",
+"text": "Section 102(a): 'There is hereby established under the National Security Council a Central Intelligence Agency with a Director of Central Intelligence'. The Agency is created UNDER the Council, not beside it.",
+"tier": 1
+},
+{
+"source": "National Security Act of 1947 sec. 102(d)(5), 61 Stat. 498, https://www.govinfo.gov/content/pkg/STATUTE-61/pdf/STATUTE-61-Pg495.pdf",
+"text": "SECTION 102(d)(5) IS THE CLAUSE THAT MATTERS. It permits the Agency to perform such other functions and duties related to intelligence as the National Security Council may from time to time direct, and it is the authority expressly invoked by NSC 10/2 of 18 June 1948 and again by NSC 5412 of 15 March 1954. The United States covert-action programme rests on a residual clause in a reorganisation statute, not on a grant of authority written for it.",
+"tier": 1
+},
+{
+"source": "National Security Act of 1947 sec. 201(a), 61 Stat. 499, https://www.govinfo.gov/content/pkg/STATUTE-61/pdf/STATUTE-61-Pg495.pdf",
+"text": "THE ACT DID NOT CREATE THE DEPARTMENT OF DEFENSE, and the common claim that it did is wrong on the text. Section 201(a) reads 'There is hereby established the National Military Establishment, and the Secretary of Defense shall be the head thereof'. The renaming to Department of Defense came with the amendments of 10 August 1949, ch. 412, 63 Stat. 579.",
+"tier": 1
+},
+{
+"source": "National Security Act of 1947, 61 Stat. 495, https://www.govinfo.gov/content/pkg/STATUTE-61/pdf/STATUTE-61-Pg495.pdf",
+"text": "The Act also creates the National Security Resources Board (sec. 103), the Departments of the Army, Navy and Air Force and the United States Air Force (secs. 205 to 208), the Joint Chiefs of Staff (sec. 211) and the Munitions Board (sec. 213).",
+"tier": 1
+},
+{
+"source": "61 Stat. 495, absence of a signature line, https://www.govinfo.gov/content/pkg/STATUTE-61/pdf/STATUTE-61-Pg495.pdf",
+"text": "NOT VERIFIED, AND RECORDED AS UNVERIFIED RATHER THAN ASSUMED: the Statutes at Large prints only 'Approved July 26, 1947' and names no President. Truman's signature is universally reported and no primary signing document was opened for it in this pass.",
+"tier": 3
+}
+],
+"cls": "legislation",
+"cluster": "oversight",
+"connections": [
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "1947-07-26",
+"direction": "out",
+"edgeLabel": "Section 102(a) creates the Agency, under the Council",
+"id": "cia",
+"l0": true,
+"label": "Central Intelligence Agency",
+"note": "'There is hereby established under the National Security Council a Central Intelligence Agency with a Director of Central Intelligence'. The preposition is the point: the Agency sits under the Council.",
+"sources": [
+{
+"date": "2026-09-19",
+"name": "National Security Act of 1947 sec. 102(a), 61 Stat. 497",
+"url": "https://www.govinfo.gov/content/pkg/STATUTE-61/pdf/STATUTE-61-Pg495.pdf"
+}
+],
+"tier": "A",
+"type": "legislative"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "1948-06-18",
+"direction": "in",
+"edgeLabel": "Chartered under the residual clause, section 102(d)(5)",
+"id": "cia-office-of-policy-coordination",
+"l0": false,
+"label": "CIA Office of Policy Coordination",
+"note": "NSC 10/2 creates the Office of Special Projects 'under the authority of Section 102(d)(5) of the National Security Act of 1947', the clause permitting such other functions related to intelligence as the Council may direct. The board already carried the charter; this is the statute it was written under.",
+"sources": [
+{
+"date": "2026-09-19",
+"name": "National Security Act of 1947 sec. 102(d)(5), 61 Stat. 498",
+"url": "https://www.govinfo.gov/content/pkg/STATUTE-61/pdf/STATUTE-61-Pg495.pdf"
+},
+{
+"date": "2026-09-19",
+"name": "NSC 10/2, FRUS 1945-1950, Emergence of the Intelligence Establishment, Doc. 292",
+"url": "https://history.state.gov/historicaldocuments/frus1945-50Intel/d292"
+}
+],
+"tier": "B",
+"type": "legislative"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "1947-07-26",
+"direction": "out",
+"edgeLabel": "Section 101 creates the Council",
+"id": "national-security-council",
+"l0": false,
+"label": "National Security Council",
+"note": "The Council is a creature of statute, not of executive practice. 50 U.S.C. 3021's source credit traces it to title I, section 101 of the Act at 61 Stat. 496.",
+"sources": [
+{
+"date": "2026-09-19",
+"name": "National Security Act of 1947 sec. 101, 61 Stat. 496",
+"url": "https://www.govinfo.gov/content/pkg/STATUTE-61/pdf/STATUTE-61-Pg495.pdf"
+}
+],
+"tier": "C",
+"type": "legislative"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": "1954-03-15",
+"direction": "in",
+"edgeLabel": "Written under the same residual clause, six years on",
+"id": "nsc-5412",
+"l0": false,
+"label": "NSC 5412, National Security Council Directive on Covert Operations (15 March 1954)",
+"note": "Paragraph 4 invokes section 102(d)(5) exactly as NSC 10/2 had. Two successive covert-action charters rest on the same catch-all sentence in a 1947 reorganisation statute.",
+"sources": [
+{
+"date": "2026-09-19",
+"name": "NSC 5412 para. 4, FRUS 1950-1955, The Intelligence Community, Doc. 171",
+"url": "https://history.state.gov/historicaldocuments/frus1950-55Intel/d171"
+}
+],
+"tier": "C",
+"type": "legislative"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "1947-07-26",
+"deg": 4,
+"denials": [],
+"desc": "The Act that created the National Security Council and the Central Intelligence Agency. Its section 102(d)(5), the residual clause permitting the Agency to perform 'such other functions and duties related to intelligence' as the Council directs, is the authority both NSC 10/2 and NSC 5412 invoke, which makes it the statutory root of United States covert action.",
+"domains": [
+"nsc-eo-spine-2026-09-19"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "national-security-act-1947",
+"l0": false,
+"label": "National Security Act of 1947 (Pub. L. 80-253, 61 Stat. 495)",
+"locLabel": null,
+"members": null,
+"short": "National Security Act of 1947 (Pub. L. 80-253, 61 Stat. 495)",
+"sources": [
+{
+"date": "2026-09-19",
+"name": "National Security Act of 1947, ch. 343, 61 Stat. 495, Statutes at Large page images read through Title III (read 19 September 2026)",
+"url": "https://www.govinfo.gov/content/pkg/STATUTE-61/pdf/STATUTE-61-Pg495.pdf"
+}
+],
+"sub": "Statute; the source of the NSC, the CIA, and the residual intelligence clause every early covert-action directive is written under",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 594 of 1136, score 28). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D1.",
+"timeline": [
+{
+"date": "1947-07-26",
+"id": "spine-tl-1947-nsa",
+"label": "The National Security Act creates the NSC and the CIA",
+"precision": "day",
+"strand": "program",
+"text": "Public Law 80-253, 61 Stat. 495. Section 101 creates the National Security Council; section 102(a) establishes the Central Intelligence Agency under it. Section 102(d)(5), permitting such other functions related to intelligence as the Council may direct, will be the authority for the covert-action charters of 1948 and 1954. The Act creates the National Military Establishment, not the Department of Defense; that renaming comes in 1949.",
+"tier": 1
+}
+]
+}

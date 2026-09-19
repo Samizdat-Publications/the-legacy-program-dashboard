@@ -2,38 +2,38 @@
  "note": "Deliberately accepted counts. Every change here should be explainable in the commit message.",
  "counts": {
   "people": 338,
-  "entities": 787,
-  "edges": 2661,
-  "timeline": 1050,
+  "entities": 798,
+  "edges": 2685,
+  "timeline": 1059,
   "entity_classes": {
-   "document": 234,
+   "document": 237,
    "domain": 59,
    "event": 87,
-   "institution": 195,
-   "legislation": 57,
+   "institution": 196,
+   "legislation": 64,
    "location": 73,
    "program": 82
   },
   "entity_tiers": {
-   "A": 167,
-   "B": 394,
-   "C": 564
+   "A": 169,
+   "B": 398,
+   "C": 569
   },
   "claim_tiers": {
-   "1": 3648,
+   "1": 3701,
    "2": 1618,
-   "3": 573
+   "3": 578
   },
   "edge_tiers": {
-   "1": 1728,
+   "1": 1752,
    "2": 699,
    "3": 234
   },
-  "unique_source_urls": 1655,
+  "unique_source_urls": 1671,
   "l0_nodes": 135,
   "l0_edges_direct": 267,
   "l0_edges_summarised": 132,
-  "ledger": 963,
+  "ledger": 974,
   "path_only": 26,
   "unattached": 1,
   "l0_with_dossier": 135,

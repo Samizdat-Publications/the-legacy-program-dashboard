@@ -1,0 +1,164 @@
+{
+"A": 2,
+"C": 0,
+"D": 3,
+"band": null,
+"claims": [
+{
+"source": "EO 11652 signature block and sec. 15, and the NARA disposition table, https://www.archives.gov/federal-register/executive-orders/1972.html",
+"text": "Signed by Richard Nixon on 8 March 1972, published at 37 FR 5209 on 10 March 1972, effective 1 June 1972 under section 15.",
+"tier": 1
+},
+{
+"source": "EO 11652 sec. 14, https://irp.fas.org/offdocs/eo/eo-11652.htm",
+"text": "Section 14, headed 'Revocation of Executive Order No. 10501', SUPERSEDES rather than revokes: it supersedes EO 10501 as amended by EOs 10816, 10901, 10964, 10985, 11097 and section 1(a) of 11382, as of the effective date. The heading and the operative verb do not match, which matters to anyone tracing the chain.",
+"tier": 1
+},
+{
+"source": "EO 11652 sec. 5(A), https://irp.fas.org/offdocs/eo/eo-11652.htm",
+"text": "Section 5(A) creates the General Declassification Schedule. Top Secret downgrades to Secret after 2 full calendar years, to Confidential after 4, and is declassified after 10. Secret downgrades to Confidential after 2 and is declassified after 8. Confidential is declassified after 6.",
+"tier": 1
+},
+{
+"source": "EO 11652 sec. 5(E), https://irp.fas.org/offdocs/eo/eo-11652.htm",
+"text": "Section 5(E)(1) is a thirty-year rule: material classified after the effective date is automatically declassified at 30 full calendar years unless the head of the originating Department personally determines in writing that continued protection is essential. Section 5(E)(2) puts pre-existing material over 30 years old under systematic review by the Archivist of the United States.",
+"tier": 1
+},
+{
+"source": "EO 11652 sec. 7(A), https://irp.fas.org/offdocs/eo/eo-11652.htm",
+"text": "Section 7(A) lodges monitoring in the National Security Council and establishes an Interagency Classification Review Committee of representatives of State, Defense, Justice, the Atomic Energy Commission, CIA and the NSC Staff, chaired by a presidential designee. Under 7(A)(2) it receives and acts on complaints 'from persons within or without the government.'",
+"tier": 1
+},
+{
+"source": "EO 11652 sec. 1(A), https://irp.fas.org/offdocs/eo/eo-11652.htm",
+"text": "Section 1(A), on Top Secret: 'This classification shall be used with the utmost restraint.'",
+"tier": 1
+},
+{
+"source": "EO 11652 full text, absence of any such statement, https://irp.fas.org/offdocs/eo/eo-11652.htm",
+"text": "The common description of this order as the first major overhaul of classification since 1953 is a historians' framing and is not a claim the order makes. It is consistent with section 14, which supersedes EO 10501 and six amending orders, but the text does not say it.",
+"tier": 3
+}
+],
+"cls": "legislation",
+"cluster": "oversight",
+"connections": [
+{
+"claimTier": 1,
+"cls": "legislation",
+"dateEnd": null,
+"dateStart": "1972-06-01",
+"direction": "out",
+"edgeLabel": "Supersedes the 1953 order and its six amendments",
+"id": "eo-10501",
+"l0": false,
+"label": "Executive Order 10501 - Safeguarding Official Information in the Interests of the Defense of the United States (5 November 1953)",
+"note": "Section 14 is headed 'Revocation of Executive Order No. 10501' but operatively SUPERSEDES it, together with EOs 10816, 10901, 10964, 10985, 11097 and section 1(a) of 11382. NARA's disposition table records the relationship as 'Revokes: EO 10501'; the order's own verb is supersedes.",
+"sources": [
+{
+"date": "2026-09-19",
+"name": "EO 11652 sec. 14",
+"url": "https://irp.fas.org/offdocs/eo/eo-11652.htm"
+},
+{
+"date": "2026-09-19",
+"name": "National Archives, Executive Orders Disposition Tables, 1972",
+"url": "https://www.archives.gov/federal-register/executive-orders/1972.html"
+}
+],
+"tier": "B",
+"type": "legislative"
+},
+{
+"claimTier": 1,
+"cls": "legislation",
+"dateEnd": null,
+"dateStart": "1978-06-28",
+"direction": "in",
+"edgeLabel": "Revokes it, and this is the link most chains omit",
+"id": "eo-12065",
+"l0": false,
+"label": "Executive Order 12065 - National Security Information (28 June 1978)",
+"note": "Section 6-203. EO 12356 is commonly said to have revoked EO 11652; it did not, because 12065 had already done so four years earlier.",
+"sources": [
+{
+"date": "2026-09-19",
+"name": "EO 12065 sec. 6-203",
+"url": "https://irp.fas.org/offdocs/eo/eo-12065.htm"
+}
+],
+"tier": "C",
+"type": "legislative"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "1972-06-01",
+"direction": "out",
+"edgeLabel": "Lodges classification oversight in the Council",
+"id": "national-security-council",
+"l0": false,
+"label": "National Security Council",
+"note": "Section 7(A) puts monitoring of the classification system in the National Security Council and creates an Interagency Classification Review Committee of State, Defense, Justice, the AEC, CIA and the NSC Staff, which under 7(A)(2) takes complaints 'from persons within or without the government'.",
+"sources": [
+{
+"date": "2026-09-19",
+"name": "EO 11652 sec. 7(A)",
+"url": "https://irp.fas.org/offdocs/eo/eo-11652.htm"
+}
+],
+"tier": "C",
+"type": "institutional"
+}
+],
+"coords": null,
+"dateEnd": "1978-12-01",
+"dateStart": "1972-03-08",
+"deg": 3,
+"denials": [],
+"desc": "Nixon's classification order, which superseded EO 10501 and for the first time put classified material on an automatic downgrading and declassification timetable, added a thirty-year rule, and created a standing interagency committee that could take complaints from outside the government.",
+"domains": [
+"nsc-eo-spine-2026-09-19"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "1",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "eo-11652",
+"l0": false,
+"label": "Executive Order 11652 - Classification and Declassification of National Security Information and Material (8 March 1972)",
+"locLabel": null,
+"members": null,
+"short": "Executive Order 11652 - Classification and Declassification of National Security Information and Material (8 March 1972)",
+"sources": [
+{
+"date": "2026-09-19",
+"name": "Executive Order 11652, Classification and Declassification of National Security Information and Material, full text, all 15 sections through the signature block (read 19 September 2026). A transcription with visible OCR errors, not a Federal Register scan",
+"url": "https://irp.fas.org/offdocs/eo/eo-11652.htm"
+},
+{
+"date": "2026-09-19",
+"name": "National Archives, Executive Orders Disposition Tables, 1972: 'Executive Order 11652 / Classification and declassification of national security information and material / Signed: March 8, 1972 / Federal Register page and date: 37 FR 5209; March 10, 1972 / Revokes: EO 10501'",
+"url": "https://www.archives.gov/federal-register/executive-orders/1972.html"
+}
+],
+"sub": "Executive order; the General Declassification Schedule, the thirty-year rule, and the first standing classification oversight committee",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 405 of 1136, score 34). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D3.",
+"timeline": [
+{
+"date": "1972-03-08",
+"id": "spine-tl-1972-11652",
+"label": "EO 11652 puts classified material on an automatic declassification timetable",
+"precision": "day",
+"strand": "oversight",
+"text": "Nixon signs EO 11652, effective 1 June 1972, superseding EO 10501 and six amending orders. It creates the General Declassification Schedule, under which Top Secret declassifies after ten years and Confidential after six, adds a thirty-year rule that only a Department head can override in writing, and creates an Interagency Classification Review Committee under the NSC that takes complaints from outside the government.",
+"tier": 1
+}
+]
+}

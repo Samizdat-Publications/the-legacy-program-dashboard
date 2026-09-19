@@ -1,0 +1,190 @@
+{
+"A": 3,
+"C": 1,
+"D": 2,
+"band": null,
+"claims": [
+{
+"source": "Atomic Energy Act of 1954, 68 Stat. 919, https://www.govinfo.gov/content/pkg/STATUTE-68/pdf/STATUTE-68-Pg919.pdf",
+"text": "The Statutes at Large header reads 'Public Law 703 / CHAPTER 1073 / August 30, 1954 / [H. R. 9757]', at 68 Stat. 919. Its long title is 'To amend the Atomic Energy Act of 1946, as amended, and for other purposes', so the 1954 Act is a complete restatement of the 1946 Act rather than a repeal of it.",
+"tier": 1
+},
+{
+"source": "42 U.S.C. 2014(y), https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2014&num=0&edition=prelim",
+"text": "The definition, codified at 42 U.S.C. 2014(y) and enacted as section 11 r.: 'The term Restricted Data means all data concerning (1) design, manufacture, or utilization of atomic weapons; (2) the production of special nuclear material; or (3) the use of special nuclear material in the production of energy, but shall not include data declassified or removed from the Restricted Data category pursuant to section 2162 of this title.' The 1954 enrolled text is identical except that the cross-reference reads 'pursuant to section 142'.",
+"tier": 1
+},
+{
+"source": "Atomic Energy Act of 1954 secs. 11 r. and 141-145 against Atomic Energy Act of 1946 sec. 10, https://www.govinfo.gov/content/pkg/STATUTE-68/pdf/STATUTE-68-Pg919.pdf and https://www.govinfo.gov/content/pkg/STATUTE-60/pdf/STATUTE-60-Pg755.pdf",
+"text": "WHAT CHANGED FROM 1946, FROM THE TWO TEXTS SIDE BY SIDE. The 1946 Act defined 'restricted data' only 'as used in this section', at section 10; the 1954 Act makes 'Restricted Data' a capitalised, Act-wide definition in the definitions chapter. 1954 ADDS the word 'design'. 'Fissionable material' and 'production of power' become 'special nuclear material' and 'production of energy'. And the 1946 carve-out was open-ended Commission discretion, where 1954 ties removal to a formal declassification procedure at section 142, including the transclassification of weapons-utilisation data into 'defense information' under section 142 d.",
+"tier": 1
+},
+{
+"source": "Atomic Energy Act of 1946 sec. 10(b)(1), 60 Stat. 755, https://www.govinfo.gov/content/pkg/STATUTE-60/pdf/STATUTE-60-Pg755.pdf",
+"text": "The 1946 definition it replaced, at section 10(b)(1), covered 'all data concerning the manufacture or utilization of atomic weapons, the production of fissionable material, or the use of fissionable material in the production of power'.",
+"tier": 1
+},
+{
+"source": "Atomic Energy Act of 1954, term search over the enacted text, https://www.govinfo.gov/content/pkg/STATUTE-68/pdf/STATUTE-68-Pg919.pdf",
+"text": "THE PHRASE 'BORN CLASSIFIED' APPEARS NOWHERE IN THE ACT. A text search returns zero occurrences, and there is no express automatic-classification clause. The doctrine is an inference from the breadth of the section 11 r. definition taken together with the criminal provisions at sections 224 to 227, and it should be written as the inference it is rather than as statutory language.",
+"tier": 1
+},
+{
+"source": "68 Stat. 919, absence of a signature line; nrc.gov NUREG-0980 returned 403",
+"text": "No signature was read. The Statutes at Large page image carries no signature line, and the Nuclear Regulatory Commission's published compilation of the Act returned HTTP 403 to this environment.",
+"tier": 3
+}
+],
+"cls": "legislation",
+"cluster": "oversight",
+"connections": [
+{
+"claimTier": 1,
+"cls": "legislation",
+"dateEnd": null,
+"dateStart": "1954-08-30",
+"direction": "out",
+"edgeLabel": "Restates the 1946 Act rather than repealing it, and widens the definition",
+"id": "atomic-energy-act-1946",
+"l0": false,
+"label": "Atomic Energy Act of 1946 (McMahon Act)",
+"note": "The long title is 'To amend the Atomic Energy Act of 1946, as amended, and for other purposes'. The definition moves from a section-only usage to an Act-wide capitalised category, gains the word 'design', and swaps fissionable material and power for special nuclear material and energy.",
+"sources": [
+{
+"date": "2026-09-19",
+"name": "Atomic Energy Act of 1954, 68 Stat. 919, long title and sec. 11 r.",
+"url": "https://www.govinfo.gov/content/pkg/STATUTE-68/pdf/STATUTE-68-Pg919.pdf"
+},
+{
+"date": "2026-09-19",
+"name": "Atomic Energy Act of 1946 sec. 10(b)(1), 60 Stat. 755",
+"url": "https://www.govinfo.gov/content/pkg/STATUTE-60/pdf/STATUTE-60-Pg755.pdf"
+}
+],
+"tier": "B",
+"type": "legislative"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "1954-08-30",
+"direction": "out",
+"edgeLabel": "Ties removal from the Restricted Data category to a formal procedure",
+"id": "atomic-energy-commission",
+"l0": true,
+"label": "Atomic Energy Commission",
+"note": "Where the 1946 Act left declassification to open-ended Commission discretion, the 1954 Act routes it through section 142, including the transclassification of weapons-utilisation data into 'defense information' under section 142 d.",
+"sources": [
+{
+"date": "2026-09-19",
+"name": "Atomic Energy Act of 1954 secs. 141-145, 68 Stat. 919",
+"url": "https://www.govinfo.gov/content/pkg/STATUTE-68/pdf/STATUTE-68-Pg919.pdf"
+}
+],
+"tier": "A",
+"type": "legislative"
+},
+{
+"claimTier": 1,
+"cls": "domain",
+"dateEnd": null,
+"dateStart": "1954-08-30",
+"direction": "out",
+"edgeLabel": "The statutory definition of Restricted Data",
+"id": "d-nuclear",
+"l0": false,
+"label": "Nuclear Security & Restricted Data",
+"note": "42 U.S.C. 2014(y), enacted as section 11 r.: all data concerning design, manufacture or utilization of atomic weapons, the production of special nuclear material, or the use of special nuclear material in the production of energy, less whatever has been declassified under the statutory procedure.",
+"sources": [
+{
+"date": "2026-09-19",
+"name": "42 U.S.C. 2014(y)",
+"url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2014&num=0&edition=prelim"
+}
+],
+"tier": "B",
+"type": "programmatic"
+},
+{
+"claimTier": 1,
+"cls": "legislation",
+"dateEnd": null,
+"dateStart": "1953-12-15",
+"direction": "in",
+"edgeLabel": "Excludes Restricted Data from the executive classification system",
+"id": "eo-10501",
+"l0": false,
+"label": "Executive Order 10501 - Safeguarding Official Information in the Interests of the Defense of the United States (5 November 1953)",
+"note": "Section 13 leaves Atomic Energy Act Restricted Data outside the order's reach. This is the seam between the two regimes: one body of information in United States law is classified by statute and not by executive order, and the executive order says so itself. Note the order predates the 1954 Act by ten months and the exclusion runs to the Atomic Energy Act as it then stood.",
+"sources": [
+{
+"date": "2026-09-19",
+"name": "EO 10501 sec. 13",
+"url": "https://irp.fas.org/offdocs/eo10501.htm"
+},
+{
+"date": "2026-09-19",
+"name": "Atomic Energy Act of 1954, 68 Stat. 919",
+"url": "https://www.govinfo.gov/content/pkg/STATUTE-68/pdf/STATUTE-68-Pg919.pdf"
+}
+],
+"tier": "B",
+"type": "legislative"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "1954-08-30",
+"deg": 4,
+"denials": [],
+"desc": "The complete restatement of the 1946 Act that made Restricted Data a capitalised, Act-wide statutory category, added design to the list of protected subjects, and tied removal from the category to a formal declassification procedure. It is the statutory basis for the only information in United States law that is classified by statute rather than by executive order, which is why EO 10501 had to exclude it and why every executive classification order since has had to work around it.",
+"domains": [
+"nsc-eo-spine-2026-09-19"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "atomic-energy-act-1954",
+"l0": false,
+"label": "Atomic Energy Act of 1954 (Pub. L. 83-703, 68 Stat. 919)",
+"locLabel": null,
+"members": null,
+"short": "Atomic Energy Act of 1954 (Pub. L. 83-703, 68 Stat. 919)",
+"sources": [
+{
+"date": "2026-09-19",
+"name": "Atomic Energy Act of 1954, Public Law 703, ch. 1073, 30 August 1954, 68 Stat. 919, Statutes at Large; secs. 11, 141-145 and 221-227 read (19 September 2026)",
+"url": "https://www.govinfo.gov/content/pkg/STATUTE-68/pdf/STATUTE-68-Pg919.pdf"
+},
+{
+"date": "2026-09-19",
+"name": "42 U.S.C. 2014, Definitions, full text and source credit, for the codified Restricted Data definition at subsection (y) (read 19 September 2026)",
+"url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2014&num=0&edition=prelim"
+},
+{
+"date": "2026-09-19",
+"name": "Atomic Energy Act of 1946, ch. 724, 60 Stat. 755, for the section 10(b)(1) definition it replaced (read 19 September 2026)",
+"url": "https://www.govinfo.gov/content/pkg/STATUTE-60/pdf/STATUTE-60-Pg755.pdf"
+}
+],
+"sub": "Statute; the Act-wide Restricted Data definition, and the only body of information in US law classified by statute rather than by executive order",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 282 of 1136, score 40). 4 connections, 1 of them custody/funding/programmatic. Axes C1/A3/D2.",
+"timeline": [
+{
+"date": "1954-08-30",
+"id": "spine-tl-1954-aea",
+"label": "The Atomic Energy Act of 1954 makes Restricted Data an Act-wide statutory category",
+"precision": "day",
+"strand": "coverup",
+"text": "Public Law 83-703, 68 Stat. 919, a complete restatement of the 1946 Act. The Restricted Data definition moves out of section 10 and into the definitions chapter as a capitalised category, gains the word 'design', and swaps fissionable material and the production of power for special nuclear material and the production of energy. Removal from the category now runs through the formal procedure at section 142. The phrase 'born classified' appears nowhere in the Act.",
+"tier": 1
+}
+]
+}

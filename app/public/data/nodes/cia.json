@@ -632,6 +632,27 @@
 },
 {
 "claimTier": 1,
+"cls": "legislation",
+"dateEnd": null,
+"dateStart": "1947-07-26",
+"direction": "in",
+"edgeLabel": "Section 102(a) creates the Agency, under the Council",
+"id": "national-security-act-1947",
+"l0": false,
+"label": "National Security Act of 1947 (Pub. L. 80-253, 61 Stat. 495)",
+"note": "'There is hereby established under the National Security Council a Central Intelligence Agency with a Director of Central Intelligence'. The preposition is the point: the Agency sits under the Council.",
+"sources": [
+{
+"date": "2026-09-19",
+"name": "National Security Act of 1947 sec. 102(a), 61 Stat. 497",
+"url": "https://www.govinfo.gov/content/pkg/STATUTE-61/pdf/STATUTE-61-Pg495.pdf"
+}
+],
+"tier": "C",
+"type": "legislative"
+},
+{
+"claimTier": 1,
 "cls": "institution",
 "dateEnd": "2001",
 "dateStart": "1964",
@@ -650,6 +671,27 @@
 ],
 "tier": "B",
 "type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": "1985-01-18",
+"direction": "in",
+"edgeLabel": "One focal point per component, the Agency included",
+"id": "nsdd-159",
+"l0": false,
+"label": "NSDD 159, Covert Action Policy Approval and Coordination Procedures (18 January 1985)",
+"note": "'Each NSPG member shall designate one senior member of his component as the sole focal point for all matters related to covert action.' The design goal stated on page 2 is that knowledge of policy, of operations and of supporting activity be strictly compartmented from each other.",
+"sources": [
+{
+"date": "2026-09-19",
+"name": "NSDD 159, Security Procedures para. 2 and p. 2, Reagan Library scan",
+"url": "https://www.reaganlibrary.gov/public/archives/reference/scanned-nsdds/nsdd159.pdf"
+}
+],
+"tier": "B",
+"type": "programmatic"
 },
 {
 "claimTier": 3,
@@ -985,7 +1027,7 @@
 "coords": null,
 "dateEnd": null,
 "dateStart": "1947-09-18",
-"deg": 41,
+"deg": 43,
 "denials": [
 {
 "by": {
@@ -1375,6 +1417,18 @@
 "tier": "C"
 },
 {
+"cls": "legislation",
+"id": "national-security-act-1947",
+"label": "National Security Act of 1947 (Pub. L. 80-253, 61 Stat. 495)",
+"tier": "C"
+},
+{
+"cls": "document",
+"id": "nsdd-159",
+"label": "NSDD 159, Covert Action Policy Approval and Coordination Procedures (18 January 1985)",
+"tier": "B"
+},
+{
 "cls": "program",
 "id": "project-azorian",
 "label": "Project AZORIAN and the Hughes Glomar Explorer",
@@ -1460,7 +1514,7 @@
 ],
 "sub": "Independent civilian foreign intelligence service; convener of the Robertson Panel",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 12 of 1125, score 118). 43 connections, 7 of them custody/funding/programmatic, 7 official denials recorded against it. Axes C2/A3/D1.",
+"tierRationale": "Re-graded A on a global pass (rank 12 of 1136, score 121). 45 connections, 8 of them custody/funding/programmatic, 7 official denials recorded against it. Axes C2/A3/D1.",
 "timeline": [
 {
 "date": "1947-07-26",

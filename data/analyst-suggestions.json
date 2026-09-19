@@ -1,10 +1,10 @@
 {
   "_note": "The analyst's suggestion chips, one list per route kind. Edited only through Stewart's decisions, shown to him as a table in chat first. tools/build_app_data.py reads this file and fails the build if a key is missing or has fewer than three strings. Every figure quoted in a chip was re-derived from the data on 11 September 2026; if a research pass moves a count, the chip that quotes it has to move with it.",
   "_figures": {
-    "timeline": 1050,
+    "timeline": 1059,
     "l0": 135,
-    "nodes": 1125,
-    "claims.3": 573
+    "nodes": 1136,
+    "claims.3": 578
   },
   "_keys": "home node map hood thread timeline patents evidence report. Route kinds map on: node-map and thread-map use map, node-hood uses hood, both report kinds use report, notfound uses home.",
   "home": [
@@ -24,7 +24,7 @@
   "map": [
     "The map has seven bands. Which is thinnest on Tier 1 evidence, not just on node count?",
     "What changed between the 2000 to 2016 AAWSAP era and the 2017 to 2026 post-disclosure era?",
-    "Only 135 of 1,125 nodes are on this map. What is the strongest node that is not?",
+    "Only 135 of 1,136 nodes are on this map. What is the strongest node that is not?",
     "Which cell on this grid carries the most denials?"
   ],
   "hood": [
@@ -41,7 +41,7 @@
   ],
   "timeline": [
     "What did the Nimitz pilots see in 2004, and what has the government confirmed?",
-    "1,050 events are on the timeline. Which year is densest, and why?",
+    "1,059 events are on the timeline. Which year is densest, and why?",
     "What is on the record between the 1947 retrievals and the close of Blue Book in 1969?",
     "Which years carry events in both the oversight strand and the coverup strand?"
   ],
@@ -53,7 +53,7 @@
   ],
   "evidence": [
     "Show me every entity the government has formally denied",
-    "Filter to Tier 3 and tell me which of those 573 claims is load bearing anywhere.",
+    "Filter to Tier 3 and tell me which of those 578 claims is load bearing anywhere.",
     "Show me claims that are open questions on nodes with a drafted FOIA request.",
     "Which source domain carries the most claims, and how many of those are Tier 1?"
   ],

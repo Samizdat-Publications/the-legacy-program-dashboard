@@ -1,0 +1,113 @@
+{
+"A": 1,
+"C": 0,
+"D": 3,
+"band": null,
+"claims": [
+{
+"source": "EO 12065 sec. 3-303, https://irp.fas.org/offdocs/eo/eo-12065.htm",
+"text": "THE BALANCING TEST, IN THE ORDER'S OWN WORDS. Section 3-303 required an official to 'determine whether the public interest in disclosure outweighs the damage to national security'. No classification order since has carried it.",
+"tier": 1
+},
+{
+"source": "EO 12065 sec. 6-203, https://irp.fas.org/offdocs/eo/eo-12065.htm",
+"text": "It is EO 12065, and not EO 12356, that revoked EO 11652: section 6-203 does so. The chain runs 10501 to 11652 to 12065 to 12356, and skipping 12065 is the most common way to get it wrong.",
+"tier": 1
+}
+],
+"cls": "legislation",
+"cluster": "oversight",
+"connections": [
+{
+"claimTier": 1,
+"cls": "legislation",
+"dateEnd": null,
+"dateStart": "1978-06-28",
+"direction": "out",
+"edgeLabel": "Revokes it, and this is the link most chains omit",
+"id": "eo-11652",
+"l0": false,
+"label": "Executive Order 11652 - Classification and Declassification of National Security Information and Material (8 March 1972)",
+"note": "Section 6-203. EO 12356 is commonly said to have revoked EO 11652; it did not, because 12065 had already done so four years earlier.",
+"sources": [
+{
+"date": "2026-09-19",
+"name": "EO 12065 sec. 6-203",
+"url": "https://irp.fas.org/offdocs/eo/eo-12065.htm"
+}
+],
+"tier": "B",
+"type": "legislative"
+},
+{
+"claimTier": 1,
+"cls": "legislation",
+"dateEnd": null,
+"dateStart": "1982-08-01",
+"direction": "in",
+"edgeLabel": "Revokes it, and with it the public-interest balancing test",
+"id": "eo-12356",
+"l0": false,
+"label": "Executive Order 12356 - National Security Information (2 April 1982)",
+"note": "Section 6.2(d): 'Executive Order No. 12065 of June 28, 1978, as amended, is revoked as of the effective date of this Order.' EO 12065 sec. 3-303 had required an official to determine whether the public interest in disclosure outweighed the damage to national security. The phrase 'public interest' occurs zero times in EO 12356.",
+"sources": [
+{
+"date": "2026-09-19",
+"name": "EO 12356 sec. 6.2(d), OFR codification",
+"url": "https://www.archives.gov/federal-register/codification/executive-order/12356.html"
+},
+{
+"date": "2026-09-19",
+"name": "EO 12065 sec. 3-303",
+"url": "https://irp.fas.org/offdocs/eo/eo-12065.htm"
+}
+],
+"tier": "B",
+"type": "legislative"
+}
+],
+"coords": null,
+"dateEnd": "1982-08-01",
+"dateStart": "1978-06-28",
+"deg": 2,
+"denials": [],
+"desc": "Carter's classification order, which revoked EO 11652 and required an official weighing continued classification to ask whether the public interest in disclosure outweighed the damage to national security. That test was removed four years later by EO 12356 and has never returned.",
+"domains": [
+"nsc-eo-spine-2026-09-19"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "1",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "eo-12065",
+"l0": false,
+"label": "Executive Order 12065 - National Security Information (28 June 1978)",
+"locLabel": null,
+"members": null,
+"short": "Executive Order 12065 - National Security Information (28 June 1978)",
+"sources": [
+{
+"date": "2026-09-19",
+"name": "Executive Order 12065, National Security Information, text read for section 3-303 and the revocation provision (read 19 September 2026). A transcription, not a Federal Register scan",
+"url": "https://irp.fas.org/offdocs/eo/eo-12065.htm"
+}
+],
+"sub": "Executive order; carried mainly for the public-interest balancing test that the next order removed",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 926 of 1136, score 17). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.",
+"timeline": [
+{
+"date": "1978-06-28",
+"id": "spine-tl-1978-12065",
+"label": "EO 12065 requires the public interest in disclosure to be weighed",
+"precision": "day",
+"strand": "oversight",
+"text": "Carter's classification order revokes EO 11652 and, at section 3-303, requires an official to determine whether the public interest in disclosure outweighs the damage to national security. It is the only classification order to have carried such a test, and it lasts four years.",
+"tier": 1
+}
+]
+}

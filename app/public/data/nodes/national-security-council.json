@@ -1,0 +1,192 @@
+{
+"A": 2,
+"C": 0,
+"D": 1,
+"band": null,
+"claims": [
+{
+"source": "50 U.S.C. 3021(b)(1), https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3021&num=0&edition=prelim",
+"text": "The statutory purpose has not changed since 1947. 50 U.S.C. 3021(b)(1) still states the Council's function as being 'to advise the President with respect to the integration of domestic, foreign, and military policies relating to the national security'.",
+"tier": 1
+},
+{
+"source": "50 U.S.C. 3021 source credit, https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3021&num=0&edition=prelim",
+"text": "The source credit on the codified section traces the Council to 'July 26, 1947, ch. 343, title I, Sec. 101, 61 Stat. 496', with the first amendment at 'Aug. 10, 1949, ch. 412, Sec. 3, 63 Stat. 579'.",
+"tier": 1
+},
+{
+"source": "50 U.S.C. 3021(a) and (c)(2), https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3021&num=0&edition=prelim",
+"text": "THE DIRECTOR OF CENTRAL INTELLIGENCE WAS NEVER A STATUTORY MEMBER, AND THE INTELLIGENCE CHIEF STILL IS NOT. The 1947 membership was the President, the Secretaries of State and Defense, the Secretaries of the Army, Navy and Air Force, and the Chairman of the National Security Resources Board. Today subsection (c)(2) makes the Director of National Intelligence and the Chairman of the Joint Chiefs of Staff attendees the President MAY designate, not members. A body that approves covert action has never been required by statute to seat the person running intelligence.",
+"tier": 1
+},
+{
+"source": "50 U.S.C. 3021(e)(3), https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3021&num=0&edition=prelim",
+"text": "Subsection (e)(3) caps the Council's professional staff at 200.",
+"tier": 1
+}
+],
+"cls": "institution",
+"cluster": "ic",
+"connections": [
+{
+"claimTier": 1,
+"cls": "legislation",
+"dateEnd": null,
+"dateStart": "1972-06-01",
+"direction": "in",
+"edgeLabel": "Lodges classification oversight in the Council",
+"id": "eo-11652",
+"l0": false,
+"label": "Executive Order 11652 - Classification and Declassification of National Security Information and Material (8 March 1972)",
+"note": "Section 7(A) puts monitoring of the classification system in the National Security Council and creates an Interagency Classification Review Committee of State, Defense, Justice, the AEC, CIA and the NSC Staff, which under 7(A)(2) takes complaints 'from persons within or without the government'.",
+"sources": [
+{
+"date": "2026-09-19",
+"name": "EO 11652 sec. 7(A)",
+"url": "https://irp.fas.org/offdocs/eo/eo-11652.htm"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "legislation",
+"dateEnd": null,
+"dateStart": "1978-01-24",
+"direction": "in",
+"edgeLabel": "Routes every special activity to the President through an NSC committee",
+"id": "eo-12036",
+"l0": false,
+"label": "Executive Order 12036 - United States Intelligence Activities (24 January 1978)",
+"note": "Section 1-302: 'The SCC shall consider and submit to the President a policy recommendation, including all dissents, on each special activity.' Section 4-212 defines a special activity by the concealment of the United States role, not by its content.",
+"sources": [
+{
+"date": "2026-09-19",
+"name": "EO 12036 secs. 1-302 and 4-212",
+"url": "https://irp.fas.org/offdocs/eo/eo-12036.htm"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "legislation",
+"dateEnd": null,
+"dateStart": "1947-07-26",
+"direction": "in",
+"edgeLabel": "Section 101 creates the Council",
+"id": "national-security-act-1947",
+"l0": false,
+"label": "National Security Act of 1947 (Pub. L. 80-253, 61 Stat. 495)",
+"note": "The Council is a creature of statute, not of executive practice. 50 U.S.C. 3021's source credit traces it to title I, section 101 of the Act at 61 Stat. 496.",
+"sources": [
+{
+"date": "2026-09-19",
+"name": "National Security Act of 1947 sec. 101, 61 Stat. 496",
+"url": "https://www.govinfo.gov/content/pkg/STATUTE-61/pdf/STATUTE-61-Pg495.pdf"
+}
+],
+"tier": "C",
+"type": "legislative"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": "1964-06-02",
+"direction": "in",
+"edgeLabel": "Signed by the President's national security adviser, not by the President",
+"id": "nsam-303",
+"l0": false,
+"label": "NSAM 303, Change in Name of Special Group 5412 (2 June 1964)",
+"note": "McGeorge Bundy signs, addressed to the Secretaries of State and Defense and the DCI. Worth recording because the memo is often cited as a presidential instrument.",
+"sources": [
+{
+"date": "2026-09-19",
+"name": "NSAM 303, FRUS 1964-1968 vol. XXXIII, Doc. 204",
+"url": "https://history.state.gov/historicaldocuments/frus1964-68v33/d204"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": "1954-03-15",
+"direction": "in",
+"edgeLabel": "Issued by the Council and approved by the President the same day",
+"id": "nsc-5412",
+"l0": false,
+"label": "NSC 5412, National Security Council Directive on Covert Operations (15 March 1954)",
+"note": "Transmitted by the Council's Executive Secretary, James S. Lay, Jr., whose note states that the President had approved the enclosed directive that date.",
+"sources": [
+{
+"date": "2026-09-19",
+"name": "NSC 5412, FRUS 1950-1955, The Intelligence Community, Doc. 171",
+"url": "https://history.state.gov/historicaldocuments/frus1950-55Intel/d171"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": "1985-01-18",
+"direction": "in",
+"edgeLabel": "Puts the only record copies in one NSC officer's hands",
+"id": "nsdd-159",
+"l0": false,
+"label": "NSDD 159, Covert Action Policy Approval and Coordination Procedures (18 January 1985)",
+"note": "The NSC Senior Director for Intelligence Programs holds the sole record copies of approved Findings and Memoranda of Notification, and administers the special access compartment protecting covert action policy. 'No other copies of approved Findings or MONs are authorized.'",
+"sources": [
+{
+"date": "2026-09-19",
+"name": "NSDD 159, Reagan Library scan, 7 pages, declassified NARA 30 January 2012",
+"url": "https://www.reaganlibrary.gov/public/archives/reference/scanned-nsdds/nsdd159.pdf"
+}
+],
+"tier": "B",
+"type": "institutional"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "1947-07-26",
+"deg": 6,
+"denials": [],
+"desc": "The council created by section 101 of the National Security Act of 1947 to advise the President on the integration of domestic, foreign and military policy. It matters to this board as the body that issued NSC 10/2, NSC 5412 and the directive series that governs covert action, and as the place where classification oversight was lodged by EO 11652.",
+"domains": [
+"nsc-eo-spine-2026-09-19"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "national-security-council",
+"l0": false,
+"label": "National Security Council",
+"locLabel": null,
+"members": null,
+"short": "National Security Council",
+"sources": [
+{
+"date": "2026-09-19",
+"name": "50 U.S.C. 3021, National Security Council, codified text and source credit (read 19 September 2026)",
+"url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3021&num=0&edition=prelim"
+}
+],
+"sub": "Statutory body, 1947; the approving authority for covert action and the issuer of the NSC directive series",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 655 of 1136, score 26). 6 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D1.",
+"timeline": []
+}

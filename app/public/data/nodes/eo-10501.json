@@ -1,0 +1,169 @@
+{
+"A": 2,
+"C": 0,
+"D": 2,
+"band": null,
+"claims": [
+{
+"source": "EO 10501 secs. 1 and 20, https://irp.fas.org/offdocs/eo10501.htm",
+"text": "Signed 'DWIGHT D. EISENHOWER / THE WHITE HOUSE / November 5, 1953', effective 15 December 1953 under section 20.",
+"tier": 1
+},
+{
+"source": "EO 10501 sec. 19, https://irp.fas.org/offdocs/eo10501.htm",
+"text": "Section 19: 'Executive Order No. 10290 of September 24, 1951 is revoked as of the effective date of this order.'",
+"tier": 1
+},
+{
+"source": "EO 10501 sec. 1, https://irp.fas.org/offdocs/eo10501.htm",
+"text": "Section 1 fixes exactly three categories, Top Secret, Secret and Confidential, and bars any other designation for defense information 'except as expressly provided by statute.'",
+"tier": 1
+},
+{
+"source": "EO 10501 sec. 2 and attached memorandum, https://irp.fas.org/offdocs/eo10501.htm",
+"text": "IT TOOK CLASSIFICATION AUTHORITY AWAY, WHICH IS THE OPPOSITE OF THE DIRECTION THE SYSTEM LATER TRAVELLED. Section 2, 'Limitation of Authority to Classify', provides that for agencies with no direct national-defense responsibility 'there shall be no authority for original classification of information or material under this order', and limits agencies with partial responsibility to the agency head without delegation. The attached memorandum names 28 agencies stripped of the authority, including the Federal Trade Commission, the Securities and Exchange Commission and the Veterans Administration, and 17 more limited to the agency head alone.",
+"tier": 1
+},
+{
+"source": "EO 10501 sec. 13, https://irp.fas.org/offdocs/eo10501.htm",
+"text": "THE JOIN TO THE NUCLEAR REGIME. Section 13 expressly leaves Atomic Energy Act Restricted Data outside the order's reach. The executive classification system and the statutory Restricted Data system are two systems, and the executive one says so.",
+"tier": 1
+},
+{
+"source": "attempted https://www.federalregister.gov/executive-order/10501, which redirected to https://unblock.federalregister.gov/",
+"text": "The Federal Register citation usually given for this order, 18 FR 7049, was NOT verified. federalregister.gov redirects this environment to a bot-block page, and the text read was a transcription hosted elsewhere.",
+"tier": 3
+}
+],
+"cls": "legislation",
+"cluster": "oversight",
+"connections": [
+{
+"claimTier": 1,
+"cls": "legislation",
+"dateEnd": null,
+"dateStart": "1953-12-15",
+"direction": "out",
+"edgeLabel": "Excludes Restricted Data from the executive classification system",
+"id": "atomic-energy-act-1954",
+"l0": false,
+"label": "Atomic Energy Act of 1954 (Pub. L. 83-703, 68 Stat. 919)",
+"note": "Section 13 leaves Atomic Energy Act Restricted Data outside the order's reach. This is the seam between the two regimes: one body of information in United States law is classified by statute and not by executive order, and the executive order says so itself. Note the order predates the 1954 Act by ten months and the exclusion runs to the Atomic Energy Act as it then stood.",
+"sources": [
+{
+"date": "2026-09-19",
+"name": "EO 10501 sec. 13",
+"url": "https://irp.fas.org/offdocs/eo10501.htm"
+},
+{
+"date": "2026-09-19",
+"name": "Atomic Energy Act of 1954, 68 Stat. 919",
+"url": "https://www.govinfo.gov/content/pkg/STATUTE-68/pdf/STATUTE-68-Pg919.pdf"
+}
+],
+"tier": "B",
+"type": "legislative"
+},
+{
+"claimTier": 1,
+"cls": "domain",
+"dateEnd": null,
+"dateStart": "1953-12-15",
+"direction": "out",
+"edgeLabel": "Fixes the three categories and takes classification authority away from 28 agencies",
+"id": "d-secrecy",
+"l0": false,
+"label": "Secrecy Law & Classification",
+"note": "Section 1 bars any designation other than Top Secret, Secret and Confidential 'except as expressly provided by statute'. Section 2 provides that agencies without direct national-defense responsibility have no original classification authority at all, and the attached memorandum names 28 of them.",
+"sources": [
+{
+"date": "2026-09-19",
+"name": "EO 10501 secs. 1 and 2 and attached memorandum",
+"url": "https://irp.fas.org/offdocs/eo10501.htm"
+}
+],
+"tier": "B",
+"type": "programmatic"
+},
+{
+"claimTier": 1,
+"cls": "legislation",
+"dateEnd": null,
+"dateStart": "1972-06-01",
+"direction": "in",
+"edgeLabel": "Supersedes the 1953 order and its six amendments",
+"id": "eo-11652",
+"l0": false,
+"label": "Executive Order 11652 - Classification and Declassification of National Security Information and Material (8 March 1972)",
+"note": "Section 14 is headed 'Revocation of Executive Order No. 10501' but operatively SUPERSEDES it, together with EOs 10816, 10901, 10964, 10985, 11097 and section 1(a) of 11382. NARA's disposition table records the relationship as 'Revokes: EO 10501'; the order's own verb is supersedes.",
+"sources": [
+{
+"date": "2026-09-19",
+"name": "EO 11652 sec. 14",
+"url": "https://irp.fas.org/offdocs/eo/eo-11652.htm"
+},
+{
+"date": "2026-09-19",
+"name": "National Archives, Executive Orders Disposition Tables, 1972",
+"url": "https://www.archives.gov/federal-register/executive-orders/1972.html"
+}
+],
+"tier": "B",
+"type": "legislative"
+}
+],
+"coords": null,
+"dateEnd": "1972-06-01",
+"dateStart": "1953-11-05",
+"deg": 3,
+"denials": [],
+"desc": "Eisenhower's classification order, which fixed the three-category system, stripped original classification authority from dozens of agencies that had acquired it, and expressly left Atomic Energy Act Restricted Data outside the executive classification system. It governed for nineteen years until EO 11652 superseded it.",
+"domains": [
+"nsc-eo-spine-2026-09-19"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "eo-10501",
+"l0": false,
+"label": "Executive Order 10501 - Safeguarding Official Information in the Interests of the Defense of the United States (5 November 1953)",
+"locLabel": null,
+"members": null,
+"short": "Executive Order 10501 - Safeguarding Official Information in the Interests of the Defense of the United States (5 November 1953)",
+"sources": [
+{
+"date": "2026-09-19",
+"name": "Executive Order 10501, Safeguarding Official Information in the Interests of the Defense of the United States, full transcribed text, sections 1 to 20 plus the attached agency memorandum (read 19 September 2026). NOTE: a transcription with visible typographical errors, not a Federal Register scan; federalregister.gov bot-blocks this environment, so the Federal Register citation was NOT read",
+"url": "https://irp.fas.org/offdocs/eo10501.htm"
+},
+{
+"date": null,
+"name": "attempted , which redirected to",
+"url": "https://www.federalregister.gov/executive-order/10501"
+},
+{
+"date": null,
+"name": "attempted , which redirected to",
+"url": "https://unblock.federalregister.gov/"
+}
+],
+"sub": "Executive order; the head of the modern classification lineage, and the order that puts Restricted Data outside its own reach",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 461 of 1136, score 32). 3 connections, 1 of them custody/funding/programmatic. Axes C0/A2/D2.",
+"timeline": [
+{
+"date": "1953-11-05",
+"id": "spine-tl-1953-10501",
+"label": "EO 10501 fixes three classification levels and strips 28 agencies of the power to classify",
+"precision": "day",
+"strand": "coverup",
+"text": "Eisenhower signs EO 10501, effective 15 December 1953, revoking EO 10290 of 1951. It limits defense-information markings to Top Secret, Secret and Confidential, removes original classification authority entirely from 28 named agencies and limits 17 more to the agency head. Section 13 leaves Atomic Energy Act Restricted Data outside the order, which is where the two classification regimes part company.",
+"tier": 1
+}
+]
+}

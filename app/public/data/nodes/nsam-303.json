@@ -1,0 +1,118 @@
+{
+"A": 0,
+"C": 0,
+"D": 0,
+"band": null,
+"claims": [
+{
+"source": "NSAM 303, FRUS 1964-68 vol. XXXIII Doc. 204, https://history.state.gov/historicaldocuments/frus1964-68v33/d204",
+"text": "The entire operative content is two sentences: 'Henceforth, the Special Group 5412 will be known as the 303 Committee.' and 'This change in no way alters the composition, function or responsibility of the Special Group 5412 as authorized by NSC 5412/2'.",
+"tier": 1
+},
+{
+"source": "NSAM 303, FRUS 1964-68 vol. XXXIII Doc. 204, https://history.state.gov/historicaldocuments/frus1964-68v33/d204",
+"text": "It is dated Washington, 2 June 1964, is signed by McGeorge Bundy and NOT by the President, and is addressed to the Secretary of State, the Secretary of Defense and the Director of Central Intelligence. Top Secret. Source note: National Archives, RG 59, S/S-NSC Files: Lot 70 D 265.",
+"tier": 1
+},
+{
+"source": "NSAM 303 full text, FRUS 1964-68 vol. XXXIII Doc. 204, https://history.state.gov/historicaldocuments/frus1964-68v33/d204",
+"text": "IT CONTAINS NO SECRECY POLICY OF ANY KIND. There are no classification rules, no declassification rules and no subject-matter directives in the document. Where NSAM 303 is cited as governing or establishing secrecy policy, the citation is wrong on the face of the primary text, and the authority being described belongs to NSC 5412/2 of 28 December 1955.",
+"tier": 1
+},
+{
+"source": "NSAM 303 full text, FRUS 1964-68 vol. XXXIII Doc. 204, https://history.state.gov/historicaldocuments/frus1964-68v33/d204",
+"text": "No connection of any kind between NSAM 303 and unidentified aerial phenomena appears in the document, and a search of the text found none.",
+"tier": 1
+}
+],
+"cls": "document",
+"cluster": "ic",
+"connections": [
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "1964-06-02",
+"direction": "out",
+"edgeLabel": "Signed by the President's national security adviser, not by the President",
+"id": "national-security-council",
+"l0": false,
+"label": "National Security Council",
+"note": "McGeorge Bundy signs, addressed to the Secretaries of State and Defense and the DCI. Worth recording because the memo is often cited as a presidential instrument.",
+"sources": [
+{
+"date": "2026-09-19",
+"name": "NSAM 303, FRUS 1964-1968 vol. XXXIII, Doc. 204",
+"url": "https://history.state.gov/historicaldocuments/frus1964-68v33/d204"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": "1964-06-02",
+"direction": "out",
+"edgeLabel": "Renames the body, and points at NSC 5412/2 for its authority",
+"id": "nsc-5412",
+"l0": false,
+"label": "NSC 5412, National Security Council Directive on Covert Operations (15 March 1954)",
+"note": "NSAM 303's second sentence states the change 'in no way alters the composition, function or responsibility of the Special Group 5412 as authorized by NSC 5412/2'. The memo's own text is what establishes that the authority lies in the 1955 revision and not in NSC 5412 itself.",
+"sources": [
+{
+"date": "2026-09-19",
+"name": "NSAM 303, FRUS 1964-1968 vol. XXXIII, Doc. 204",
+"url": "https://history.state.gov/historicaldocuments/frus1964-68v33/d204"
+}
+],
+"tier": "C",
+"type": "temporal"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "1964-06-02",
+"deg": 2,
+"denials": [],
+"desc": "A National Security Action Memorandum of two numbered sentences, signed by McGeorge Bundy, which renames the Special Group 5412 as the 303 Committee and changes nothing else. It is on this board as a documented case of a citation that does not say what it is cited for.",
+"domains": [
+"nsc-eo-spine-2026-09-19"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "nsam-303",
+"l0": false,
+"label": "NSAM 303, Change in Name of Special Group 5412 (2 June 1964)",
+"locLabel": null,
+"members": null,
+"short": "NSAM 303, Change in Name of Special Group 5412 (2 June 1964)",
+"sources": [
+{
+"date": "2026-09-19",
+"name": "FRUS 1964-1968, Volume XXXIII, Document 204, National Security Action Memorandum No. 303 (read in full, 19 September 2026)",
+"url": "https://history.state.gov/historicaldocuments/frus1964-68v33/d204"
+}
+],
+"sub": "Two-sentence renaming memorandum; carried here because it is routinely cited for things it does not say",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 998 of 1136, score 14). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D0.",
+"timeline": [
+{
+"date": "1964-06-02",
+"id": "spine-tl-1964-303",
+"label": "The Special Group 5412 is renamed the 303 Committee, and nothing else changes",
+"precision": "day",
+"strand": "program",
+"text": "McGeorge Bundy signs a two-sentence National Security Action Memorandum renaming the Special Group 5412 as the 303 Committee, expressly altering nothing about its composition, function or responsibility. It contains no secrecy policy of any kind, which matters because it is routinely cited as though it did.",
+"tier": 1
+}
+]
+}

@@ -7290,6 +7290,96 @@
 "tier": 1
 },
 {
+"cls": "legislation",
+"cluster": "oversight",
+"denied": false,
+"label": "Atomic Energy Act of 1954 (Pub. L. 83-703, 68 Stat. 919)",
+"node": "atomic-energy-act-1954",
+"open": false,
+"source": {
+"domain": "www.govinfo.gov",
+"text": "Atomic Energy Act of 1954, term search over the enacted text, https://www.govinfo.gov/content/pkg/STATUTE-68/pdf/STATUTE-68-Pg919.pdf",
+"url": "https://www.govinfo.gov/content/pkg/STATUTE-68/pdf/STATUTE-68-Pg919.pdf"
+},
+"text": "THE PHRASE 'BORN CLASSIFIED' APPEARS NOWHERE IN THE ACT. A text search returns zero occurrences, and there is no express automatic-classification clause. The doctrine is an inference from the breadth of the section 11 r. definition taken together with the criminal provisions at sections 224 to 227, and it should be written as the inference it is rather than as statutory language.",
+"tier": 1
+},
+{
+"cls": "legislation",
+"cluster": "oversight",
+"denied": false,
+"label": "Atomic Energy Act of 1954 (Pub. L. 83-703, 68 Stat. 919)",
+"node": "atomic-energy-act-1954",
+"open": false,
+"source": {
+"domain": "www.govinfo.gov",
+"text": "Atomic Energy Act of 1946 sec. 10(b)(1), 60 Stat. 755, https://www.govinfo.gov/content/pkg/STATUTE-60/pdf/STATUTE-60-Pg755.pdf",
+"url": "https://www.govinfo.gov/content/pkg/STATUTE-60/pdf/STATUTE-60-Pg755.pdf"
+},
+"text": "The 1946 definition it replaced, at section 10(b)(1), covered 'all data concerning the manufacture or utilization of atomic weapons, the production of fissionable material, or the use of fissionable material in the production of power'.",
+"tier": 1
+},
+{
+"cls": "legislation",
+"cluster": "oversight",
+"denied": false,
+"label": "Atomic Energy Act of 1954 (Pub. L. 83-703, 68 Stat. 919)",
+"node": "atomic-energy-act-1954",
+"open": false,
+"source": {
+"domain": "www.govinfo.gov",
+"text": "Atomic Energy Act of 1954, 68 Stat. 919, https://www.govinfo.gov/content/pkg/STATUTE-68/pdf/STATUTE-68-Pg919.pdf",
+"url": "https://www.govinfo.gov/content/pkg/STATUTE-68/pdf/STATUTE-68-Pg919.pdf"
+},
+"text": "The Statutes at Large header reads 'Public Law 703 / CHAPTER 1073 / August 30, 1954 / [H. R. 9757]', at 68 Stat. 919. Its long title is 'To amend the Atomic Energy Act of 1946, as amended, and for other purposes', so the 1954 Act is a complete restatement of the 1946 Act rather than a repeal of it.",
+"tier": 1
+},
+{
+"cls": "legislation",
+"cluster": "oversight",
+"denied": false,
+"label": "Atomic Energy Act of 1954 (Pub. L. 83-703, 68 Stat. 919)",
+"node": "atomic-energy-act-1954",
+"open": false,
+"source": {
+"domain": "uscode.house.gov",
+"text": "42 U.S.C. 2014(y), https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2014&num=0&edition=prelim",
+"url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2014&num=0&edition=prelim"
+},
+"text": "The definition, codified at 42 U.S.C. 2014(y) and enacted as section 11 r.: 'The term Restricted Data means all data concerning (1) design, manufacture, or utilization of atomic weapons; (2) the production of special nuclear material; or (3) the use of special nuclear material in the production of energy, but shall not include data declassified or removed from the Restricted Data category pursuant to section 2162 of this title.' The 1954 enrolled text is identical except that the cross-reference reads 'pursuant to section 142'.",
+"tier": 1
+},
+{
+"cls": "legislation",
+"cluster": "oversight",
+"denied": false,
+"label": "Atomic Energy Act of 1954 (Pub. L. 83-703, 68 Stat. 919)",
+"node": "atomic-energy-act-1954",
+"open": false,
+"source": {
+"domain": "www.govinfo.gov",
+"text": "Atomic Energy Act of 1954 secs. 11 r. and 141-145 against Atomic Energy Act of 1946 sec. 10, https://www.govinfo.gov/content/pkg/STATUTE-68/pdf/STATUTE-68-Pg919.pdf and https://www.govinfo.gov/content/pkg/STATUTE-60/pdf/STATUTE-60-Pg755.pdf",
+"url": "https://www.govinfo.gov/content/pkg/STATUTE-68/pdf/STATUTE-68-Pg919.pdf"
+},
+"text": "WHAT CHANGED FROM 1946, FROM THE TWO TEXTS SIDE BY SIDE. The 1946 Act defined 'restricted data' only 'as used in this section', at section 10; the 1954 Act makes 'Restricted Data' a capitalised, Act-wide definition in the definitions chapter. 1954 ADDS the word 'design'. 'Fissionable material' and 'production of power' become 'special nuclear material' and 'production of energy'. And the 1946 carve-out was open-ended Commission discretion, where 1954 ties removal to a formal declassification procedure at section 142, including the transclassification of weapons-utilisation data into 'defense information' under section 142 d.",
+"tier": 1
+},
+{
+"cls": "legislation",
+"cluster": "oversight",
+"denied": false,
+"label": "Atomic Energy Act of 1954 (Pub. L. 83-703, 68 Stat. 919)",
+"node": "atomic-energy-act-1954",
+"open": false,
+"source": {
+"domain": null,
+"text": "68 Stat. 919, absence of a signature line; nrc.gov NUREG-0980 returned 403",
+"url": null
+},
+"text": "No signature was read. The Statutes at Large page image carries no signature line, and the Nuclear Regulatory Commission's published compilation of the Act returned HTTP 403 to this environment.",
+"tier": 3
+},
+{
 "cls": "institution",
 "cluster": "oversight",
 "denied": false,
@@ -29638,6 +29728,381 @@
 },
 "text": "The published About material describes no verification, validation or de-duplication protocol, so the Enigma corpus should be treated as raw public intake with unknown signal-to-noise, valuable for volume and geography rather than for individual case strength. Reasoning: absence of any stated methodology on the company's own descriptive page.",
 "tier": 3
+},
+{
+"cls": "legislation",
+"cluster": "oversight",
+"denied": false,
+"label": "Executive Order 10501 - Safeguarding Official Information in the Interests of the Defense of the United States (5 November 1953)",
+"node": "eo-10501",
+"open": false,
+"source": {
+"domain": "irp.fas.org",
+"text": "EO 10501 sec. 2 and attached memorandum, https://irp.fas.org/offdocs/eo10501.htm",
+"url": "https://irp.fas.org/offdocs/eo10501.htm"
+},
+"text": "IT TOOK CLASSIFICATION AUTHORITY AWAY, WHICH IS THE OPPOSITE OF THE DIRECTION THE SYSTEM LATER TRAVELLED. Section 2, 'Limitation of Authority to Classify', provides that for agencies with no direct national-defense responsibility 'there shall be no authority for original classification of information or material under this order', and limits agencies with partial responsibility to the agency head without delegation. The attached memorandum names 28 agencies stripped of the authority, including the Federal Trade Commission, the Securities and Exchange Commission and the Veterans Administration, and 17 more limited to the agency head alone.",
+"tier": 1
+},
+{
+"cls": "legislation",
+"cluster": "oversight",
+"denied": false,
+"label": "Executive Order 10501 - Safeguarding Official Information in the Interests of the Defense of the United States (5 November 1953)",
+"node": "eo-10501",
+"open": false,
+"source": {
+"domain": "irp.fas.org",
+"text": "EO 10501 sec. 1, https://irp.fas.org/offdocs/eo10501.htm",
+"url": "https://irp.fas.org/offdocs/eo10501.htm"
+},
+"text": "Section 1 fixes exactly three categories, Top Secret, Secret and Confidential, and bars any other designation for defense information 'except as expressly provided by statute.'",
+"tier": 1
+},
+{
+"cls": "legislation",
+"cluster": "oversight",
+"denied": false,
+"label": "Executive Order 10501 - Safeguarding Official Information in the Interests of the Defense of the United States (5 November 1953)",
+"node": "eo-10501",
+"open": false,
+"source": {
+"domain": "irp.fas.org",
+"text": "EO 10501 sec. 19, https://irp.fas.org/offdocs/eo10501.htm",
+"url": "https://irp.fas.org/offdocs/eo10501.htm"
+},
+"text": "Section 19: 'Executive Order No. 10290 of September 24, 1951 is revoked as of the effective date of this order.'",
+"tier": 1
+},
+{
+"cls": "legislation",
+"cluster": "oversight",
+"denied": false,
+"label": "Executive Order 10501 - Safeguarding Official Information in the Interests of the Defense of the United States (5 November 1953)",
+"node": "eo-10501",
+"open": false,
+"source": {
+"domain": "irp.fas.org",
+"text": "EO 10501 secs. 1 and 20, https://irp.fas.org/offdocs/eo10501.htm",
+"url": "https://irp.fas.org/offdocs/eo10501.htm"
+},
+"text": "Signed 'DWIGHT D. EISENHOWER / THE WHITE HOUSE / November 5, 1953', effective 15 December 1953 under section 20.",
+"tier": 1
+},
+{
+"cls": "legislation",
+"cluster": "oversight",
+"denied": false,
+"label": "Executive Order 10501 - Safeguarding Official Information in the Interests of the Defense of the United States (5 November 1953)",
+"node": "eo-10501",
+"open": false,
+"source": {
+"domain": "irp.fas.org",
+"text": "EO 10501 sec. 13, https://irp.fas.org/offdocs/eo10501.htm",
+"url": "https://irp.fas.org/offdocs/eo10501.htm"
+},
+"text": "THE JOIN TO THE NUCLEAR REGIME. Section 13 expressly leaves Atomic Energy Act Restricted Data outside the order's reach. The executive classification system and the statutory Restricted Data system are two systems, and the executive one says so.",
+"tier": 1
+},
+{
+"cls": "legislation",
+"cluster": "oversight",
+"denied": false,
+"label": "Executive Order 10501 - Safeguarding Official Information in the Interests of the Defense of the United States (5 November 1953)",
+"node": "eo-10501",
+"open": false,
+"source": {
+"domain": "www.federalregister.gov",
+"text": "attempted https://www.federalregister.gov/executive-order/10501, which redirected to https://unblock.federalregister.gov/",
+"url": "https://www.federalregister.gov/executive-order/10501,"
+},
+"text": "The Federal Register citation usually given for this order, 18 FR 7049, was NOT verified. federalregister.gov redirects this environment to a bot-block page, and the text read was a transcription hosted elsewhere.",
+"tier": 3
+},
+{
+"cls": "legislation",
+"cluster": "oversight",
+"denied": false,
+"label": "Executive Order 11652 - Classification and Declassification of National Security Information and Material (8 March 1972)",
+"node": "eo-11652",
+"open": false,
+"source": {
+"domain": "irp.fas.org",
+"text": "EO 11652 sec. 1(A), https://irp.fas.org/offdocs/eo/eo-11652.htm",
+"url": "https://irp.fas.org/offdocs/eo/eo-11652.htm"
+},
+"text": "Section 1(A), on Top Secret: 'This classification shall be used with the utmost restraint.'",
+"tier": 1
+},
+{
+"cls": "legislation",
+"cluster": "oversight",
+"denied": false,
+"label": "Executive Order 11652 - Classification and Declassification of National Security Information and Material (8 March 1972)",
+"node": "eo-11652",
+"open": false,
+"source": {
+"domain": "irp.fas.org",
+"text": "EO 11652 sec. 14, https://irp.fas.org/offdocs/eo/eo-11652.htm",
+"url": "https://irp.fas.org/offdocs/eo/eo-11652.htm"
+},
+"text": "Section 14, headed 'Revocation of Executive Order No. 10501', SUPERSEDES rather than revokes: it supersedes EO 10501 as amended by EOs 10816, 10901, 10964, 10985, 11097 and section 1(a) of 11382, as of the effective date. The heading and the operative verb do not match, which matters to anyone tracing the chain.",
+"tier": 1
+},
+{
+"cls": "legislation",
+"cluster": "oversight",
+"denied": false,
+"label": "Executive Order 11652 - Classification and Declassification of National Security Information and Material (8 March 1972)",
+"node": "eo-11652",
+"open": false,
+"source": {
+"domain": "irp.fas.org",
+"text": "EO 11652 sec. 5(A), https://irp.fas.org/offdocs/eo/eo-11652.htm",
+"url": "https://irp.fas.org/offdocs/eo/eo-11652.htm"
+},
+"text": "Section 5(A) creates the General Declassification Schedule. Top Secret downgrades to Secret after 2 full calendar years, to Confidential after 4, and is declassified after 10. Secret downgrades to Confidential after 2 and is declassified after 8. Confidential is declassified after 6.",
+"tier": 1
+},
+{
+"cls": "legislation",
+"cluster": "oversight",
+"denied": false,
+"label": "Executive Order 11652 - Classification and Declassification of National Security Information and Material (8 March 1972)",
+"node": "eo-11652",
+"open": false,
+"source": {
+"domain": "irp.fas.org",
+"text": "EO 11652 sec. 5(E), https://irp.fas.org/offdocs/eo/eo-11652.htm",
+"url": "https://irp.fas.org/offdocs/eo/eo-11652.htm"
+},
+"text": "Section 5(E)(1) is a thirty-year rule: material classified after the effective date is automatically declassified at 30 full calendar years unless the head of the originating Department personally determines in writing that continued protection is essential. Section 5(E)(2) puts pre-existing material over 30 years old under systematic review by the Archivist of the United States.",
+"tier": 1
+},
+{
+"cls": "legislation",
+"cluster": "oversight",
+"denied": false,
+"label": "Executive Order 11652 - Classification and Declassification of National Security Information and Material (8 March 1972)",
+"node": "eo-11652",
+"open": false,
+"source": {
+"domain": "irp.fas.org",
+"text": "EO 11652 sec. 7(A), https://irp.fas.org/offdocs/eo/eo-11652.htm",
+"url": "https://irp.fas.org/offdocs/eo/eo-11652.htm"
+},
+"text": "Section 7(A) lodges monitoring in the National Security Council and establishes an Interagency Classification Review Committee of representatives of State, Defense, Justice, the Atomic Energy Commission, CIA and the NSC Staff, chaired by a presidential designee. Under 7(A)(2) it receives and acts on complaints 'from persons within or without the government.'",
+"tier": 1
+},
+{
+"cls": "legislation",
+"cluster": "oversight",
+"denied": false,
+"label": "Executive Order 11652 - Classification and Declassification of National Security Information and Material (8 March 1972)",
+"node": "eo-11652",
+"open": false,
+"source": {
+"domain": "www.archives.gov",
+"text": "EO 11652 signature block and sec. 15, and the NARA disposition table, https://www.archives.gov/federal-register/executive-orders/1972.html",
+"url": "https://www.archives.gov/federal-register/executive-orders/1972.html"
+},
+"text": "Signed by Richard Nixon on 8 March 1972, published at 37 FR 5209 on 10 March 1972, effective 1 June 1972 under section 15.",
+"tier": 1
+},
+{
+"cls": "legislation",
+"cluster": "oversight",
+"denied": false,
+"label": "Executive Order 11652 - Classification and Declassification of National Security Information and Material (8 March 1972)",
+"node": "eo-11652",
+"open": false,
+"source": {
+"domain": "irp.fas.org",
+"text": "EO 11652 full text, absence of any such statement, https://irp.fas.org/offdocs/eo/eo-11652.htm",
+"url": "https://irp.fas.org/offdocs/eo/eo-11652.htm"
+},
+"text": "The common description of this order as the first major overhaul of classification since 1953 is a historians' framing and is not a claim the order makes. It is consistent with section 14, which supersedes EO 10501 and six amending orders, but the text does not say it.",
+"tier": 3
+},
+{
+"cls": "legislation",
+"cluster": "ic",
+"denied": false,
+"label": "Executive Order 12036 - United States Intelligence Activities (24 January 1978)",
+"node": "eo-12036",
+"open": false,
+"source": {
+"domain": "irp.fas.org",
+"text": "EO 12036 full text, term searches returning zero, https://irp.fas.org/offdocs/eo/eo-12036.htm",
+"url": "https://irp.fas.org/offdocs/eo/eo-12036.htm"
+},
+"text": "DO NOT CITE THIS ORDER FOR COMPARTMENTATION. The words 'compartment', 'special access' and 'need-to-know' appear zero times in the text. The nearest provision is section 4-106, which only says implementing documents will sometimes be classified.",
+"tier": 1
+},
+{
+"cls": "legislation",
+"cluster": "ic",
+"denied": false,
+"label": "Executive Order 12036 - United States Intelligence Activities (24 January 1978)",
+"node": "eo-12036",
+"open": false,
+"source": {
+"domain": "irp.fas.org",
+"text": "EO 12036 secs. 1-302 and 4-212, https://irp.fas.org/offdocs/eo/eo-12036.htm",
+"url": "https://irp.fas.org/offdocs/eo/eo-12036.htm"
+},
+"text": "Section 1-302: 'The SCC shall consider and submit to the President a policy recommendation, including all dissents, on each special activity.' Section 4-212 defines a special activity as an activity conducted abroad in support of foreign policy objectives where the role of the United States Government 'is not apparent or acknowledged publicly.'",
+"tier": 1
+},
+{
+"cls": "legislation",
+"cluster": "ic",
+"denied": false,
+"label": "Executive Order 12036 - United States Intelligence Activities (24 January 1978)",
+"node": "eo-12036",
+"open": false,
+"source": {
+"domain": "irp.fas.org",
+"text": "EO 12036 sec. 3, https://irp.fas.org/offdocs/eo/eo-12036.htm",
+"url": "https://irp.fas.org/offdocs/eo/eo-12036.htm"
+},
+"text": "Section 3 builds a four-part oversight structure: an Intelligence Oversight Board of three members from outside government but inside the White House (3-1), agency Inspectors General and General Counsel (3-2), the Attorney General (3-3), and the congressional committees (3-4).",
+"tier": 1
+},
+{
+"cls": "legislation",
+"cluster": "ic",
+"denied": false,
+"label": "Executive Order 12036 - United States Intelligence Activities (24 January 1978)",
+"node": "eo-12036",
+"open": false,
+"source": {
+"domain": "irp.fas.org",
+"text": "EO 12036 sec. 3-401, https://irp.fas.org/offdocs/eo/eo-12036.htm",
+"url": "https://irp.fas.org/offdocs/eo/eo-12036.htm"
+},
+"text": "Section 3-401 requires the congressional intelligence committees to be kept 'fully and currently informed', and expressly states that this is 'not... a condition precedent'. Being told is not a prerequisite to acting.",
+"tier": 1
+},
+{
+"cls": "legislation",
+"cluster": "ic",
+"denied": false,
+"label": "Executive Order 12036 - United States Intelligence Activities (24 January 1978)",
+"node": "eo-12036",
+"open": false,
+"source": {
+"domain": "irp.fas.org",
+"text": "EO 12036 sec. 4-101 and signature block, https://irp.fas.org/offdocs/eo/eo-12036.htm",
+"url": "https://irp.fas.org/offdocs/eo/eo-12036.htm"
+},
+"text": "Signed 'JIMMY CARTER / The White House, / January 24, 1978' and filed with the Office of the Federal Register at 11:19 a.m. on 25 January 1978. Section 4-101 supersedes 'Executive Order 11905, United States Foreign Intelligence Activities, dated February 18, 1976', together with EOs 11985 and 11994.",
+"tier": 1
+},
+{
+"cls": "legislation",
+"cluster": "oversight",
+"denied": false,
+"label": "Executive Order 12065 - National Security Information (28 June 1978)",
+"node": "eo-12065",
+"open": false,
+"source": {
+"domain": "irp.fas.org",
+"text": "EO 12065 sec. 6-203, https://irp.fas.org/offdocs/eo/eo-12065.htm",
+"url": "https://irp.fas.org/offdocs/eo/eo-12065.htm"
+},
+"text": "It is EO 12065, and not EO 12356, that revoked EO 11652: section 6-203 does so. The chain runs 10501 to 11652 to 12065 to 12356, and skipping 12065 is the most common way to get it wrong.",
+"tier": 1
+},
+{
+"cls": "legislation",
+"cluster": "oversight",
+"denied": false,
+"label": "Executive Order 12065 - National Security Information (28 June 1978)",
+"node": "eo-12065",
+"open": false,
+"source": {
+"domain": "irp.fas.org",
+"text": "EO 12065 sec. 3-303, https://irp.fas.org/offdocs/eo/eo-12065.htm",
+"url": "https://irp.fas.org/offdocs/eo/eo-12065.htm"
+},
+"text": "THE BALANCING TEST, IN THE ORDER'S OWN WORDS. Section 3-303 required an official to 'determine whether the public interest in disclosure outweighs the damage to national security'. No classification order since has carried it.",
+"tier": 1
+},
+{
+"cls": "legislation",
+"cluster": "oversight",
+"denied": false,
+"label": "Executive Order 12356 - National Security Information (2 April 1982)",
+"node": "eo-12356",
+"open": false,
+"source": {
+"domain": "irp.fas.org",
+"text": "EO 12356 sec. 6.2(d), and a 404 at https://irp.fas.org/offdocs/eo/eo-12356.htm",
+"url": "https://irp.fas.org/offdocs/eo/eo-12356.htm"
+},
+"text": "IT DID NOT REVOKE EO 11652, and the claim that it did is wrong. EO 12065 had already revoked 11652 in 1978. Also note that the Federation of American Scientists URL usually given for this order, irp.fas.org/offdocs/eo/eo-12356.htm, returns HTTP 404 and does not exist.",
+"tier": 1
+},
+{
+"cls": "legislation",
+"cluster": "oversight",
+"denied": false,
+"label": "Executive Order 12356 - National Security Information (2 April 1982)",
+"node": "eo-12356",
+"open": false,
+"source": {
+"domain": "www.archives.gov",
+"text": "EO 12356 sec. 6.2(d) and source line, https://www.archives.gov/federal-register/codification/executive-order/12356.html",
+"url": "https://www.archives.gov/federal-register/codification/executive-order/12356.html"
+},
+"text": "Published at 47 FR 14874 and 15557, 3 CFR 1982 Comp. p. 166, dated 2 April 1982, effective 1 August 1982. Section 6.2(d): 'Executive Order No. 12065 of June 28, 1978, as amended, is revoked as of the effective date of this Order.'",
+"tier": 1
+},
+{
+"cls": "legislation",
+"cluster": "oversight",
+"denied": false,
+"label": "Executive Order 12356 - National Security Information (2 April 1982)",
+"node": "eo-12356",
+"open": false,
+"source": {
+"domain": "www.archives.gov",
+"text": "EO 12356 secs. 1.6(c) and 1.6(d), https://www.archives.gov/federal-register/codification/executive-order/12356.html",
+"url": "https://www.archives.gov/federal-register/codification/executive-order/12356.html"
+},
+"text": "RECLASSIFICATION AFTER DISCLOSURE IS EXPRESSLY AUTHORISED. Section 1.6(c) permits officials to 'reclassify information previously declassified and disclosed if it is determined in writing' that it requires protection and 'may reasonably be recovered'. Section 1.6(d) permits classification or reclassification AFTER an agency has received a request under the Freedom of Information Act, the Privacy Act or the mandatory review provisions, on a document-by-document basis.",
+"tier": 1
+},
+{
+"cls": "legislation",
+"cluster": "oversight",
+"denied": false,
+"label": "Executive Order 12356 - National Security Information (2 April 1982)",
+"node": "eo-12356",
+"open": false,
+"source": {
+"domain": "www.archives.gov",
+"text": "EO 12356 sec. 1.1(c), https://www.archives.gov/federal-register/codification/executive-order/12356.html",
+"url": "https://www.archives.gov/federal-register/codification/executive-order/12356.html"
+},
+"text": "Section 1.1(c) resolves doubt toward secrecy: where there is reasonable doubt about the level, the information is to be safeguarded at the higher level.",
+"tier": 1
+},
+{
+"cls": "legislation",
+"cluster": "oversight",
+"denied": false,
+"label": "Executive Order 12356 - National Security Information (2 April 1982)",
+"node": "eo-12356",
+"open": false,
+"source": {
+"domain": "www.archives.gov",
+"text": "EO 12356 full text term searches, against EO 12065 sec. 3-303, https://www.archives.gov/federal-register/codification/executive-order/12356.html and https://irp.fas.org/offdocs/eo/eo-12065.htm",
+"url": "https://www.archives.gov/federal-register/codification/executive-order/12356.html"
+},
+"text": "THE PUBLIC-INTEREST TEST IS GONE, AND THIS WAS CHECKED FROM BOTH SIDES. The phrase 'public interest' occurs zero times in EO 12356, as does any form of 'balanc'. Its predecessor EO 12065 had required at section 3-303 that an official 'determine whether the public interest in disclosure outweighs the damage to national security'. The obligation to weigh disclosure against harm was removed in 1982 and has not returned.",
+"tier": 1
 },
 {
 "cls": "legislation",
@@ -57495,6 +57960,156 @@
 "tier": 3
 },
 {
+"cls": "legislation",
+"cluster": "oversight",
+"denied": false,
+"label": "National Security Act of 1947 (Pub. L. 80-253, 61 Stat. 495)",
+"node": "national-security-act-1947",
+"open": false,
+"source": {
+"domain": "www.govinfo.gov",
+"text": "National Security Act of 1947 sec. 102(d)(5), 61 Stat. 498, https://www.govinfo.gov/content/pkg/STATUTE-61/pdf/STATUTE-61-Pg495.pdf",
+"url": "https://www.govinfo.gov/content/pkg/STATUTE-61/pdf/STATUTE-61-Pg495.pdf"
+},
+"text": "SECTION 102(d)(5) IS THE CLAUSE THAT MATTERS. It permits the Agency to perform such other functions and duties related to intelligence as the National Security Council may from time to time direct, and it is the authority expressly invoked by NSC 10/2 of 18 June 1948 and again by NSC 5412 of 15 March 1954. The United States covert-action programme rests on a residual clause in a reorganisation statute, not on a grant of authority written for it.",
+"tier": 1
+},
+{
+"cls": "legislation",
+"cluster": "oversight",
+"denied": false,
+"label": "National Security Act of 1947 (Pub. L. 80-253, 61 Stat. 495)",
+"node": "national-security-act-1947",
+"open": false,
+"source": {
+"domain": "www.govinfo.gov",
+"text": "National Security Act of 1947 sec. 102(a), 61 Stat. 497, https://www.govinfo.gov/content/pkg/STATUTE-61/pdf/STATUTE-61-Pg495.pdf",
+"url": "https://www.govinfo.gov/content/pkg/STATUTE-61/pdf/STATUTE-61-Pg495.pdf"
+},
+"text": "Section 102(a): 'There is hereby established under the National Security Council a Central Intelligence Agency with a Director of Central Intelligence'. The Agency is created UNDER the Council, not beside it.",
+"tier": 1
+},
+{
+"cls": "legislation",
+"cluster": "oversight",
+"denied": false,
+"label": "National Security Act of 1947 (Pub. L. 80-253, 61 Stat. 495)",
+"node": "national-security-act-1947",
+"open": false,
+"source": {
+"domain": "www.govinfo.gov",
+"text": "National Security Act of 1947 sec. 201(a), 61 Stat. 499, https://www.govinfo.gov/content/pkg/STATUTE-61/pdf/STATUTE-61-Pg495.pdf",
+"url": "https://www.govinfo.gov/content/pkg/STATUTE-61/pdf/STATUTE-61-Pg495.pdf"
+},
+"text": "THE ACT DID NOT CREATE THE DEPARTMENT OF DEFENSE, and the common claim that it did is wrong on the text. Section 201(a) reads 'There is hereby established the National Military Establishment, and the Secretary of Defense shall be the head thereof'. The renaming to Department of Defense came with the amendments of 10 August 1949, ch. 412, 63 Stat. 579.",
+"tier": 1
+},
+{
+"cls": "legislation",
+"cluster": "oversight",
+"denied": false,
+"label": "National Security Act of 1947 (Pub. L. 80-253, 61 Stat. 495)",
+"node": "national-security-act-1947",
+"open": false,
+"source": {
+"domain": "www.govinfo.gov",
+"text": "National Security Act of 1947, 61 Stat. 495, https://www.govinfo.gov/content/pkg/STATUTE-61/pdf/STATUTE-61-Pg495.pdf",
+"url": "https://www.govinfo.gov/content/pkg/STATUTE-61/pdf/STATUTE-61-Pg495.pdf"
+},
+"text": "The Act also creates the National Security Resources Board (sec. 103), the Departments of the Army, Navy and Air Force and the United States Air Force (secs. 205 to 208), the Joint Chiefs of Staff (sec. 211) and the Munitions Board (sec. 213).",
+"tier": 1
+},
+{
+"cls": "legislation",
+"cluster": "oversight",
+"denied": false,
+"label": "National Security Act of 1947 (Pub. L. 80-253, 61 Stat. 495)",
+"node": "national-security-act-1947",
+"open": false,
+"source": {
+"domain": "www.govinfo.gov",
+"text": "61 Stat. 495, https://www.govinfo.gov/content/pkg/STATUTE-61/pdf/STATUTE-61-Pg495.pdf",
+"url": "https://www.govinfo.gov/content/pkg/STATUTE-61/pdf/STATUTE-61-Pg495.pdf"
+},
+"text": "The enrolled text carries the sidenote 'July 26,1947 [S. 758] [Public Law 253]' and closes 'Approved July 26, 1947.' Its short title clause reads 'That this Act may be cited as the National Security Act of 1947.'",
+"tier": 1
+},
+{
+"cls": "legislation",
+"cluster": "oversight",
+"denied": false,
+"label": "National Security Act of 1947 (Pub. L. 80-253, 61 Stat. 495)",
+"node": "national-security-act-1947",
+"open": false,
+"source": {
+"domain": "www.govinfo.gov",
+"text": "61 Stat. 495, absence of a signature line, https://www.govinfo.gov/content/pkg/STATUTE-61/pdf/STATUTE-61-Pg495.pdf",
+"url": "https://www.govinfo.gov/content/pkg/STATUTE-61/pdf/STATUTE-61-Pg495.pdf"
+},
+"text": "NOT VERIFIED, AND RECORDED AS UNVERIFIED RATHER THAN ASSUMED: the Statutes at Large prints only 'Approved July 26, 1947' and names no President. Truman's signature is universally reported and no primary signing document was opened for it in this pass.",
+"tier": 3
+},
+{
+"cls": "institution",
+"cluster": "ic",
+"denied": false,
+"label": "National Security Council",
+"node": "national-security-council",
+"open": false,
+"source": {
+"domain": "uscode.house.gov",
+"text": "50 U.S.C. 3021(e)(3), https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3021&num=0&edition=prelim",
+"url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3021&num=0&edition=prelim"
+},
+"text": "Subsection (e)(3) caps the Council's professional staff at 200.",
+"tier": 1
+},
+{
+"cls": "institution",
+"cluster": "ic",
+"denied": false,
+"label": "National Security Council",
+"node": "national-security-council",
+"open": false,
+"source": {
+"domain": "uscode.house.gov",
+"text": "50 U.S.C. 3021(a) and (c)(2), https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3021&num=0&edition=prelim",
+"url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3021&num=0&edition=prelim"
+},
+"text": "THE DIRECTOR OF CENTRAL INTELLIGENCE WAS NEVER A STATUTORY MEMBER, AND THE INTELLIGENCE CHIEF STILL IS NOT. The 1947 membership was the President, the Secretaries of State and Defense, the Secretaries of the Army, Navy and Air Force, and the Chairman of the National Security Resources Board. Today subsection (c)(2) makes the Director of National Intelligence and the Chairman of the Joint Chiefs of Staff attendees the President MAY designate, not members. A body that approves covert action has never been required by statute to seat the person running intelligence.",
+"tier": 1
+},
+{
+"cls": "institution",
+"cluster": "ic",
+"denied": false,
+"label": "National Security Council",
+"node": "national-security-council",
+"open": false,
+"source": {
+"domain": "uscode.house.gov",
+"text": "50 U.S.C. 3021 source credit, https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3021&num=0&edition=prelim",
+"url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3021&num=0&edition=prelim"
+},
+"text": "The source credit on the codified section traces the Council to 'July 26, 1947, ch. 343, title I, Sec. 101, 61 Stat. 496', with the first amendment at 'Aug. 10, 1949, ch. 412, Sec. 3, 63 Stat. 579'.",
+"tier": 1
+},
+{
+"cls": "institution",
+"cluster": "ic",
+"denied": false,
+"label": "National Security Council",
+"node": "national-security-council",
+"open": false,
+"source": {
+"domain": "uscode.house.gov",
+"text": "50 U.S.C. 3021(b)(1), https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3021&num=0&edition=prelim",
+"url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3021&num=0&edition=prelim"
+},
+"text": "The statutory purpose has not changed since 1947. 50 U.S.C. 3021(b)(1) still states the Council's function as being 'to advise the President with respect to the integration of domestic, foreign, and military policies relating to the national security'.",
+"tier": 1
+},
+{
 "cls": "institution",
 "cluster": "ic",
 "denied": false,
@@ -61467,6 +62082,261 @@
 "url": null
 },
 "text": "The Yeates affidavit establishes, as a matter of adjudicated fact rather than allegation, that a US intelligence agency held a body of UFO material whose mere description was deemed to require classification. Reasoning: the courts sustained the withholding on the basis of the in camera showing, which necessarily means a showing of substantive content existed.",
+"tier": 3
+},
+{
+"cls": "document",
+"cluster": "ic",
+"denied": false,
+"label": "NSAM 303, Change in Name of Special Group 5412 (2 June 1964)",
+"node": "nsam-303",
+"open": false,
+"source": {
+"domain": "history.state.gov",
+"text": "NSAM 303 full text, FRUS 1964-68 vol. XXXIII Doc. 204, https://history.state.gov/historicaldocuments/frus1964-68v33/d204",
+"url": "https://history.state.gov/historicaldocuments/frus1964-68v33/d204"
+},
+"text": "IT CONTAINS NO SECRECY POLICY OF ANY KIND. There are no classification rules, no declassification rules and no subject-matter directives in the document. Where NSAM 303 is cited as governing or establishing secrecy policy, the citation is wrong on the face of the primary text, and the authority being described belongs to NSC 5412/2 of 28 December 1955.",
+"tier": 1
+},
+{
+"cls": "document",
+"cluster": "ic",
+"denied": false,
+"label": "NSAM 303, Change in Name of Special Group 5412 (2 June 1964)",
+"node": "nsam-303",
+"open": false,
+"source": {
+"domain": "history.state.gov",
+"text": "NSAM 303, FRUS 1964-68 vol. XXXIII Doc. 204, https://history.state.gov/historicaldocuments/frus1964-68v33/d204",
+"url": "https://history.state.gov/historicaldocuments/frus1964-68v33/d204"
+},
+"text": "It is dated Washington, 2 June 1964, is signed by McGeorge Bundy and NOT by the President, and is addressed to the Secretary of State, the Secretary of Defense and the Director of Central Intelligence. Top Secret. Source note: National Archives, RG 59, S/S-NSC Files: Lot 70 D 265.",
+"tier": 1
+},
+{
+"cls": "document",
+"cluster": "ic",
+"denied": false,
+"label": "NSAM 303, Change in Name of Special Group 5412 (2 June 1964)",
+"node": "nsam-303",
+"open": false,
+"source": {
+"domain": "history.state.gov",
+"text": "NSAM 303 full text, FRUS 1964-68 vol. XXXIII Doc. 204, https://history.state.gov/historicaldocuments/frus1964-68v33/d204",
+"url": "https://history.state.gov/historicaldocuments/frus1964-68v33/d204"
+},
+"text": "No connection of any kind between NSAM 303 and unidentified aerial phenomena appears in the document, and a search of the text found none.",
+"tier": 1
+},
+{
+"cls": "document",
+"cluster": "ic",
+"denied": false,
+"label": "NSAM 303, Change in Name of Special Group 5412 (2 June 1964)",
+"node": "nsam-303",
+"open": false,
+"source": {
+"domain": "history.state.gov",
+"text": "NSAM 303, FRUS 1964-68 vol. XXXIII Doc. 204, https://history.state.gov/historicaldocuments/frus1964-68v33/d204",
+"url": "https://history.state.gov/historicaldocuments/frus1964-68v33/d204"
+},
+"text": "The entire operative content is two sentences: 'Henceforth, the Special Group 5412 will be known as the 303 Committee.' and 'This change in no way alters the composition, function or responsibility of the Special Group 5412 as authorized by NSC 5412/2'.",
+"tier": 1
+},
+{
+"cls": "document",
+"cluster": "ic",
+"denied": false,
+"label": "NSC 5412, National Security Council Directive on Covert Operations (15 March 1954)",
+"node": "nsc-5412",
+"open": false,
+"source": {
+"domain": "history.state.gov",
+"text": "NSC 5412 full text, and FRUS 1964-1968 vol. XII editorial note on covert action, https://history.state.gov/historicaldocuments/frus1964-68v12/actionsstatement",
+"url": "https://history.state.gov/historicaldocuments/frus1964-68v12/actionsstatement"
+},
+"text": "NSC 5412 DOES NOT CREATE THE 5412 COMMITTEE, and the widely repeated claim that it does is not supported by the document. No Special Group and no committee of that name appears anywhere in the text. The State Department's own editorial note attributes the Special Group to NSC 5412/2 of 28 December 1955, and says the body became known as the 'NSC 5412/2 Special Group'.",
+"tier": 1
+},
+{
+"cls": "document",
+"cluster": "ic",
+"denied": false,
+"label": "NSC 5412, National Security Council Directive on Covert Operations (15 March 1954)",
+"node": "nsc-5412",
+"open": false,
+"source": {
+"domain": "history.state.gov",
+"text": "NSC 5412 para. 4, FRUS 1950-55 Intelligence, Doc. 171, https://history.state.gov/historicaldocuments/frus1950-55Intel/d171",
+"url": "https://history.state.gov/historicaldocuments/frus1950-55Intel/d171"
+},
+"text": "Paragraph 4 invokes section 102(d)(5) of the National Security Act of 1947 and makes the Director of Central Intelligence responsible for keeping covert operations consistent with United States foreign and military policy, through designated representatives of the Secretaries of State and Defense.",
+"tier": 1
+},
+{
+"cls": "document",
+"cluster": "ic",
+"denied": false,
+"label": "NSC 5412, National Security Council Directive on Covert Operations (15 March 1954)",
+"node": "nsc-5412",
+"open": false,
+"source": {
+"domain": "history.state.gov",
+"text": "NSC 5412 para. 6, FRUS 1950-55 Intelligence, Doc. 171, https://history.state.gov/historicaldocuments/frus1950-55Intel/d171",
+"url": "https://history.state.gov/historicaldocuments/frus1950-55Intel/d171"
+},
+"text": "Paragraph 6 carries the deniability test in substantially the words NSC 10/2 used six years earlier: covert operations are to be so planned and executed that 'any U.S. Government responsibility for them is not evident to unauthorized persons and that if uncovered the U.S. Government can plausibly disclaim any responsibility.'",
+"tier": 1
+},
+{
+"cls": "document",
+"cluster": "ic",
+"denied": false,
+"label": "NSC 5412, National Security Council Directive on Covert Operations (15 March 1954)",
+"node": "nsc-5412",
+"open": false,
+"source": {
+"domain": "history.state.gov",
+"text": "NSC 5412 para. 7, FRUS 1950-55 Intelligence, Doc. 171, https://history.state.gov/historicaldocuments/frus1950-55Intel/d171",
+"url": "https://history.state.gov/historicaldocuments/frus1950-55Intel/d171"
+},
+"text": "Paragraph 7 supersedes and rescinds NSC 10/2 and NSC 10/5, and paragraph 7(c) makes the Operations Coordinating Board the normal channel for coordinating support among State, Defense and CIA.",
+"tier": 1
+},
+{
+"cls": "document",
+"cluster": "ic",
+"denied": false,
+"label": "NSC 5412, National Security Council Directive on Covert Operations (15 March 1954)",
+"node": "nsc-5412",
+"open": false,
+"source": {
+"domain": "history.state.gov",
+"text": "NSC 5412, FRUS 1950-55 Intelligence, Doc. 171, https://history.state.gov/historicaldocuments/frus1950-55Intel/d171",
+"url": "https://history.state.gov/historicaldocuments/frus1950-55Intel/d171"
+},
+"text": "The transmittal is signed by James S. Lay, Jr. and states 'The President has this date approved the enclosed National Security Council directive.' Washington, 15 March 1954. Top Secret. The source note places the copy in the Eisenhower Library, Special Assistant to the President for National Security Affairs Records.",
+"tier": 1
+},
+{
+"cls": "document",
+"cluster": "ic",
+"denied": false,
+"label": "NSDD 159, Covert Action Policy Approval and Coordination Procedures (18 January 1985)",
+"node": "nsdd-159",
+"open": false,
+"source": {
+"domain": "www.reaganlibrary.gov",
+"text": "NSDD 159, Security Procedures para. 2, https://www.reaganlibrary.gov/public/archives/reference/scanned-nsdds/nsdd159.pdf",
+"url": "https://www.reaganlibrary.gov/public/archives/reference/scanned-nsdds/nsdd159.pdf"
+},
+"text": "Access is narrowed to one person per agency: 'Each NSPG member shall designate one senior member of his component as the sole focal point for all matters related to covert action.'",
+"tier": 1
+},
+{
+"cls": "document",
+"cluster": "ic",
+"denied": false,
+"label": "NSDD 159, Covert Action Policy Approval and Coordination Procedures (18 January 1985)",
+"node": "nsdd-159",
+"open": false,
+"source": {
+"domain": "www.reaganlibrary.gov",
+"text": "NSDD 159, https://www.reaganlibrary.gov/public/archives/reference/scanned-nsdds/nsdd159.pdf",
+"url": "https://www.reaganlibrary.gov/public/archives/reference/scanned-nsdds/nsdd159.pdf"
+},
+"text": "It requires written Presidential Findings for all covert action and Memoranda of Notification for modifications, makes the NSPG the committee that recommends on every covert action, and creates a senior Planning and Coordination Group which 'replaces all ad hoc interagency groups'.",
+"tier": 1
+},
+{
+"cls": "document",
+"cluster": "ic",
+"denied": false,
+"label": "NSDD 159, Covert Action Policy Approval and Coordination Procedures (18 January 1985)",
+"node": "nsdd-159",
+"open": false,
+"source": {
+"domain": "www.reaganlibrary.gov",
+"text": "NSDD 159, Security Procedures para. 1, https://www.reaganlibrary.gov/public/archives/reference/scanned-nsdds/nsdd159.pdf",
+"url": "https://www.reaganlibrary.gov/public/archives/reference/scanned-nsdds/nsdd159.pdf"
+},
+"text": "THE COMPARTMENT IS ORDERED IN TERMS. The Security Procedures section directs the Assistant to the President for National Security Affairs to 'establish a separate, specially compartmented control and access system at the Top Secret classification level for all policy matters concerning covert action.' The compartment is over the POLICY, not only over the operations.",
+"tier": 1
+},
+{
+"cls": "document",
+"cluster": "ic",
+"denied": false,
+"label": "NSDD 159, Covert Action Policy Approval and Coordination Procedures (18 January 1985)",
+"node": "nsdd-159",
+"open": false,
+"source": {
+"domain": "www.reaganlibrary.gov",
+"text": "NSDD 159, https://www.reaganlibrary.gov/public/archives/reference/scanned-nsdds/nsdd159.pdf",
+"url": "https://www.reaganlibrary.gov/public/archives/reference/scanned-nsdds/nsdd159.pdf"
+},
+"text": "THE PAPER TRAIL IS DELIBERATELY SINGULAR. The NSC Senior Director for Intelligence Programs holds the only record copies of approved Findings and Memoranda of Notification: 'No other copies of approved Findings or MONs are authorized.' The same officer is tasked to administer the special access security compartment protecting covert action policies.",
+"tier": 1
+},
+{
+"cls": "document",
+"cluster": "ic",
+"denied": false,
+"label": "NSDD 159, Covert Action Policy Approval and Coordination Procedures (18 January 1985)",
+"node": "nsdd-159",
+"open": false,
+"source": {
+"domain": "www.reaganlibrary.gov",
+"text": "NSDD 159, both releases compared, https://www.reaganlibrary.gov/public/archives/reference/scanned-nsdds/nsdd159.pdf and https://irp.fas.org/offdocs/nsdd/nsdd-159.htm",
+"url": "https://www.reaganlibrary.gov/public/archives/reference/scanned-nsdds/nsdd159.pdf"
+},
+"text": "TWO DIFFERENT RELEASES CIRCULATE AND THEY ARE NOT THE SAME DOCUMENT. The Federation of American Scientists copy is stamped 'EXTRACT FROM NSDD 159' and was partially declassified on 5 June 1987 under EO 12356. The Reagan Library copy is the fuller release, stamped 'Authority Leary to Weinstein ltr 4/20/05 / BY RW NARA DATE 1/30/12'. Anyone citing NSDD 159 should say which one they read.",
+"tier": 1
+},
+{
+"cls": "document",
+"cluster": "ic",
+"denied": false,
+"label": "NSDD 159, Covert Action Policy Approval and Coordination Procedures (18 January 1985)",
+"node": "nsdd-159",
+"open": false,
+"source": {
+"domain": "www.reaganlibrary.gov",
+"text": "NSDD 159 pp. 1 and 7, https://www.reaganlibrary.gov/public/archives/reference/scanned-nsdds/nsdd159.pdf",
+"url": "https://www.reaganlibrary.gov/public/archives/reference/scanned-nsdds/nsdd159.pdf"
+},
+"text": "The document is marked SENSITIVE, SYSTEM II: 90030, NSC/ICS-400030, Copy 1 of 8, and is signed in ink by Ronald Reagan on page 7. Its original declassification instruction is 'Declassify on: Presidential Approval Only', and its struck-through control line reads TOP SECRET/VEIL.",
+"tier": 1
+},
+{
+"cls": "document",
+"cluster": "ic",
+"denied": false,
+"label": "NSDD 159, Covert Action Policy Approval and Coordination Procedures (18 January 1985)",
+"node": "nsdd-159",
+"open": false,
+"source": {
+"domain": "www.reaganlibrary.gov",
+"text": "NSDD 159 pp. 2 and Security Procedures para. 3, https://www.reaganlibrary.gov/public/archives/reference/scanned-nsdds/nsdd159.pdf",
+"url": "https://www.reaganlibrary.gov/public/archives/reference/scanned-nsdds/nsdd159.pdf"
+},
+"text": "The stated design goal on page 2 is that knowledge of policy, knowledge of operations and knowledge of supporting activity 'will be strictly compartmented from each other', and paragraph 3 orders that the minimum possible number of documents be created.",
+"tier": 1
+},
+{
+"cls": "document",
+"cluster": "ic",
+"denied": false,
+"label": "NSDD 159, Covert Action Policy Approval and Coordination Procedures (18 January 1985)",
+"node": "nsdd-159",
+"open": false,
+"source": {
+"domain": "www.reaganlibrary.gov",
+"text": "NSDD 159, absence of the implementing procedures, https://www.reaganlibrary.gov/public/archives/reference/scanned-nsdds/nsdd159.pdf",
+"url": "https://www.reaganlibrary.gov/public/archives/reference/scanned-nsdds/nsdd159.pdf"
+},
+"text": "THE COMPARTMENT'S OWN RULES ARE NOT IN THIS RELEASE. The directive states that the special access procedures are to be promulgated under separate cover, and that separate document was not located. VEIL appears only as a struck-through marking and never in the body, so it cannot be said from this text that VEIL is the name of the compartment NSDD 159 creates rather than a pre-existing handling caveat on the paper.",
 "tier": 3
 },
 {

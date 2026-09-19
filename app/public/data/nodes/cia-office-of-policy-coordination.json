@@ -100,12 +100,59 @@
 ],
 "tier": "B",
 "type": "legislative"
+},
+{
+"claimTier": 1,
+"cls": "legislation",
+"dateEnd": null,
+"dateStart": "1948-06-18",
+"direction": "out",
+"edgeLabel": "Chartered under the residual clause, section 102(d)(5)",
+"id": "national-security-act-1947",
+"l0": false,
+"label": "National Security Act of 1947 (Pub. L. 80-253, 61 Stat. 495)",
+"note": "NSC 10/2 creates the Office of Special Projects 'under the authority of Section 102(d)(5) of the National Security Act of 1947', the clause permitting such other functions related to intelligence as the Council may direct. The board already carried the charter; this is the statute it was written under.",
+"sources": [
+{
+"date": "2026-09-19",
+"name": "National Security Act of 1947 sec. 102(d)(5), 61 Stat. 498",
+"url": "https://www.govinfo.gov/content/pkg/STATUTE-61/pdf/STATUTE-61-Pg495.pdf"
+},
+{
+"date": "2026-09-19",
+"name": "NSC 10/2, FRUS 1945-1950, Emergence of the Intelligence Establishment, Doc. 292",
+"url": "https://history.state.gov/historicaldocuments/frus1945-50Intel/d292"
+}
+],
+"tier": "C",
+"type": "legislative"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": "1954-03-15",
+"direction": "in",
+"edgeLabel": "Supersedes and rescinds the charter that created the office",
+"id": "nsc-5412",
+"l0": false,
+"label": "NSC 5412, National Security Council Directive on Covert Operations (15 March 1954)",
+"note": "Paragraph 7 supersedes and rescinds NSC 10/2 and NSC 10/5. The 1948 charter the board already carries was live for not quite six years.",
+"sources": [
+{
+"date": "2026-09-19",
+"name": "NSC 5412 para. 7, FRUS 1950-1955, The Intelligence Community, Doc. 171",
+"url": "https://history.state.gov/historicaldocuments/frus1950-55Intel/d171"
+}
+],
+"tier": "C",
+"type": "legislative"
 }
 ],
 "coords": null,
 "dateEnd": null,
 "dateStart": "1948-06-18",
-"deg": 3,
+"deg": 5,
 "denials": [],
 "desc": "The office the Danny Jones corpus keeps invoking has a charter, and the charter is openable. NSC 10/2 of 18 June 1948 created it inside the Central Intelligence Agency under the residual authority of section 102(d)(5) of the National Security Act of 1947, to plan and conduct covert operations, with its Chief nominated by the Secretary of State, reporting directly to the Director of Central Intelligence, and operating 'independently of other components of Central Intelligence Agency'. Two things a node must say and the transcript does not. The directive names the office the Office of Special Projects; the name Office of Policy Coordination appears only from September 1948, when Frank G. Wisner became Assistant Director for Policy Coordination. And the directive's own definition of covert operations is a definition of deniability rather than of psychological warfare: operations 'so planned and executed that any US Government responsibility for them is not evident to unauthorized persons and that if uncovered the US Government can plausibly disclaim any responsibility for them'.",
 "domains": [
@@ -144,6 +191,6 @@
 ],
 "sub": "Covert action office chartered by NSC 10/2 as the Office of Special Projects, 18 June 1948; operating from 1 September 1948",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 244 of 1125, score 42). 3 connections, 1 of them custody/funding/programmatic. Axes C2/A3/D1.",
+"tierRationale": "Re-graded B on a global pass (rank 216 of 1136, score 44). 5 connections, 1 of them custody/funding/programmatic. Axes C2/A3/D1.",
 "timeline": []
 }

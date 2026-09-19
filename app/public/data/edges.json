@@ -1848,6 +1848,30 @@
 "tier": 1
 },
 {
+"a": "atomic-energy-act-1954",
+"b": "atomic-energy-act-1946",
+"dateStart": "1954-08-30",
+"label": "Restates the 1946 Act rather than repealing it, and widens the definition",
+"t": "legislative",
+"tier": 1
+},
+{
+"a": "atomic-energy-act-1954",
+"b": "atomic-energy-commission",
+"dateStart": "1954-08-30",
+"label": "Ties removal from the Restricted Data category to a formal procedure",
+"t": "legislative",
+"tier": 1
+},
+{
+"a": "atomic-energy-act-1954",
+"b": "d-nuclear",
+"dateStart": "1954-08-30",
+"label": "The statutory definition of Restricted Data",
+"t": "programmatic",
+"tier": 1
+},
+{
 "a": "atomic-energy-commission",
 "b": "doe",
 "dateStart": "1974",
@@ -3260,6 +3284,14 @@
 "b": "harry-s-truman",
 "dateStart": "1948-06-18",
 "label": "Chartered under section 102(d)(5) of the Act he signed",
+"t": "legislative",
+"tier": 1
+},
+{
+"a": "cia-office-of-policy-coordination",
+"b": "national-security-act-1947",
+"dateStart": "1948-06-18",
+"label": "Chartered under the residual clause, section 102(d)(5)",
 "t": "legislative",
 "tier": 1
 },
@@ -7005,6 +7037,78 @@
 "dateStart": null,
 "label": "Enigma cross-referencing PURSUE files against its civilian sighting database",
 "t": "investigative",
+"tier": 1
+},
+{
+"a": "eo-10501",
+"b": "atomic-energy-act-1954",
+"dateStart": "1953-12-15",
+"label": "Excludes Restricted Data from the executive classification system",
+"t": "legislative",
+"tier": 1
+},
+{
+"a": "eo-10501",
+"b": "d-secrecy",
+"dateStart": "1953-12-15",
+"label": "Fixes the three categories and takes classification authority away from 28 agencies",
+"t": "programmatic",
+"tier": 1
+},
+{
+"a": "eo-11652",
+"b": "eo-10501",
+"dateStart": "1972-06-01",
+"label": "Supersedes the 1953 order and its six amendments",
+"t": "legislative",
+"tier": 1
+},
+{
+"a": "eo-11652",
+"b": "national-security-council",
+"dateStart": "1972-06-01",
+"label": "Lodges classification oversight in the Council",
+"t": "institutional",
+"tier": 1
+},
+{
+"a": "eo-12036",
+"b": "national-security-council",
+"dateStart": "1978-01-24",
+"label": "Routes every special activity to the President through an NSC committee",
+"t": "institutional",
+"tier": 1
+},
+{
+"a": "eo-12036",
+"b": "oversight-congress",
+"dateStart": "1978-01-24",
+"label": "Fully and currently informed, and expressly not a condition precedent",
+"t": "legislative",
+"tier": 1
+},
+{
+"a": "eo-12065",
+"b": "eo-11652",
+"dateStart": "1978-06-28",
+"label": "Revokes it, and this is the link most chains omit",
+"t": "legislative",
+"tier": 1
+},
+{
+"a": "eo-12356",
+"b": "d-secrecy",
+"dateStart": "1982-08-01",
+"label": "Authorises reclassification after a disclosure request",
+"t": "programmatic",
+"tier": 1
+},
+{
+"a": "eo-12356",
+"b": "eo-12065",
+"dateStart": "1982-08-01",
+"label": "Revokes it, and with it the public-interest balancing test",
+"t": "legislative",
 "tier": 1
 },
 {
@@ -14080,6 +14184,22 @@
 "tier": 1
 },
 {
+"a": "national-security-act-1947",
+"b": "cia",
+"dateStart": "1947-07-26",
+"label": "Section 102(a) creates the Agency, under the Council",
+"t": "legislative",
+"tier": 1
+},
+{
+"a": "national-security-act-1947",
+"b": "national-security-council",
+"dateStart": "1947-07-26",
+"label": "Section 101 creates the Council",
+"t": "legislative",
+"tier": 1
+},
+{
 "a": "naval-criminal-investigative-service",
 "b": "jaime-shandera",
 "dateStart": "2026-08-21",
@@ -14964,6 +15084,78 @@
 "b": "odni",
 "dateStart": "2021-06-25",
 "label": "Named contributor to the 2021 ODNI Preliminary Assessment on UAP",
+"t": "institutional",
+"tier": 1
+},
+{
+"a": "nsam-303",
+"b": "national-security-council",
+"dateStart": "1964-06-02",
+"label": "Signed by the President's national security adviser, not by the President",
+"t": "institutional",
+"tier": 1
+},
+{
+"a": "nsam-303",
+"b": "nsc-5412",
+"dateStart": "1964-06-02",
+"label": "Renames the body, and points at NSC 5412/2 for its authority",
+"t": "temporal",
+"tier": 1
+},
+{
+"a": "nsc-5412",
+"b": "cia-office-of-policy-coordination",
+"dateStart": "1954-03-15",
+"label": "Supersedes and rescinds the charter that created the office",
+"t": "legislative",
+"tier": 1
+},
+{
+"a": "nsc-5412",
+"b": "national-security-act-1947",
+"dateStart": "1954-03-15",
+"label": "Written under the same residual clause, six years on",
+"t": "legislative",
+"tier": 1
+},
+{
+"a": "nsc-5412",
+"b": "national-security-council",
+"dateStart": "1954-03-15",
+"label": "Issued by the Council and approved by the President the same day",
+"t": "institutional",
+"tier": 1
+},
+{
+"a": "nsdd-159",
+"b": "cia",
+"dateStart": "1985-01-18",
+"label": "One focal point per component, the Agency included",
+"t": "programmatic",
+"tier": 1
+},
+{
+"a": "nsdd-159",
+"b": "d-sap",
+"dateStart": "1985-01-18",
+"label": "Orders a special access compartment over a whole policy subject",
+"t": "programmatic",
+"tier": 1
+},
+{
+"a": "nsdd-159",
+"b": "eo-12356",
+"dateStart": "1987-06-05",
+"label": "Its first partial release was made under this order",
+"t": "temporal",
+"tier": 1
+},
+{
+"a": "nsdd-159",
+"b": "national-security-council",
+"dateStart": "1985-01-18",
+"label": "Puts the only record copies in one NSC officer's hands",
 "t": "institutional",
 "tier": 1
 },

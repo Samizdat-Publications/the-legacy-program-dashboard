@@ -192,6 +192,27 @@
 },
 {
 "claimTier": 1,
+"cls": "legislation",
+"dateEnd": null,
+"dateStart": "1978-01-24",
+"direction": "in",
+"edgeLabel": "Fully and currently informed, and expressly not a condition precedent",
+"id": "eo-12036",
+"l0": false,
+"label": "Executive Order 12036 - United States Intelligence Activities (24 January 1978)",
+"note": "Section 3-401 requires the congressional intelligence committees to be kept 'fully and currently informed' while stating that this is 'not... a condition precedent'. Notification is owed; permission is not.",
+"sources": [
+{
+"date": "2026-09-19",
+"name": "EO 12036 sec. 3-401",
+"url": "https://irp.fas.org/offdocs/eo/eo-12036.htm"
+}
+],
+"tier": "C",
+"type": "legislative"
+},
+{
+"claimTier": 1,
 "cls": "institution",
 "dateEnd": null,
 "dateStart": "1988",
@@ -319,7 +340,7 @@
 "coords": null,
 "dateEnd": null,
 "dateStart": "1988",
-"deg": 12,
+"deg": 13,
 "denials": [
 {
 "by": {
@@ -486,6 +507,12 @@
 "tier": "A"
 },
 {
+"cls": "legislation",
+"id": "eo-12036",
+"label": "Executive Order 12036 - United States Intelligence Activities (24 January 1978)",
+"tier": "C"
+},
+{
 "cls": "institution",
 "id": "house-armed-services",
 "label": "House Armed Services Committee",
@@ -528,7 +555,7 @@
 ],
 "sub": "The statutory oversight mechanism, and the hole in it",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 257 of 1125, score 41). 12 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A3/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 244 of 1136, score 42). 13 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A3/D3.",
 "timeline": [
 {
 "date": "2025-09-09",

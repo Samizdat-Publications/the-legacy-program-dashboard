@@ -189,6 +189,17 @@
 {
 "date": "1947-07-26",
 "era": "0",
+"id": "spine-tl-1947-nsa",
+"label": "The National Security Act creates the NSC and the CIA",
+"node": "national-security-act-1947",
+"precision": "day",
+"strand": "program",
+"text": "Public Law 80-253, 61 Stat. 495. Section 101 creates the National Security Council; section 102(a) establishes the Central Intelligence Agency under it. Section 102(d)(5), permitting such other functions related to intelligence as the Council may direct, will be the authority for the covert-action charters of 1948 and 1954. The Act creates the National Military Establishment, not the Department of Defense; that renaming comes in 1949.",
+"tier": 1
+},
+{
+"date": "1947-07-26",
+"era": "0",
 "id": "tl-1947-rdb",
 "label": "Research and Development Board established",
 "node": "research-development-board",
@@ -682,6 +693,17 @@
 "tier": "A"
 },
 {
+"date": "1953-11-05",
+"era": "0",
+"id": "spine-tl-1953-10501",
+"label": "EO 10501 fixes three classification levels and strips 28 agencies of the power to classify",
+"node": "eo-10501",
+"precision": "day",
+"strand": "coverup",
+"text": "Eisenhower signs EO 10501, effective 15 December 1953, revoking EO 10290 of 1951. It limits defense-information markings to Top Secret, Secret and Confidential, removes original classification authority entirely from 28 named agencies and limits 17 more to the agency head. Section 13 leaves Atomic Energy Act Restricted Data outside the order, which is where the two classification regimes part company.",
+"tier": 1
+},
+{
 "date": "1954-03-10",
 "era": "0",
 "id": "tl-1954-03-10",
@@ -693,6 +715,17 @@
 "tier": "A"
 },
 {
+"date": "1954-03-15",
+"era": "0",
+"id": "spine-tl-1954-5412",
+"label": "NSC 5412 replaces the 1948 covert-action charter",
+"node": "nsc-5412",
+"precision": "day",
+"strand": "program",
+"text": "The President approves NSC 5412 the day it is circulated. It supersedes NSC 10/2 and NSC 10/5, keeps the authority in section 102(d)(5), restates the plausible-deniability test almost word for word, and makes the Operations Coordinating Board the normal channel for interagency support. It does not create the Special Group; that comes with NSC 5412/2 in December 1955.",
+"tier": 1
+},
+{
 "date": "1954-08-30",
 "era": "0",
 "id": "ag-tl-1954-aea",
@@ -702,6 +735,17 @@
 "strand": "program",
 "text": "Restricted Data is created as a category classified by statute rather than executive order. Any material placed under this authority becomes permanently beyond the reach of presidential declassification directives.",
 "tier": "A"
+},
+{
+"date": "1954-08-30",
+"era": "0",
+"id": "spine-tl-1954-aea",
+"label": "The Atomic Energy Act of 1954 makes Restricted Data an Act-wide statutory category",
+"node": "atomic-energy-act-1954",
+"precision": "day",
+"strand": "coverup",
+"text": "Public Law 83-703, 68 Stat. 919, a complete restatement of the 1946 Act. The Restricted Data definition moves out of section 10 and into the definitions chapter as a capitalised category, gains the word 'design', and swaps fissionable material and the production of power for special nuclear material and the production of energy. Removal from the category now runs through the formal procedure at section 142. The phrase 'born classified' appears nowhere in the Act.",
+"tier": 1
 },
 {
 "date": "1954-12-01",
@@ -988,6 +1032,17 @@
 "strand": "program",
 "text": "The Defense Nuclear Agency's Operation DOMINIC I report records the shot at 25 October 1962, 2359 local, the fourth and first successful attempt to launch the BLUEGILL device on a Thor missile, submegaton, tens of kilometres over Johnston Island, with 22 Air Force aircraft arrayed and nine Navy ships positioned. The report carries no unidentified object, no recovery and no debris, and the photographic aircraft were three KC-135s under the call sign KETTLE.",
 "tier": "C"
+},
+{
+"date": "1964-06-02",
+"era": "0",
+"id": "spine-tl-1964-303",
+"label": "The Special Group 5412 is renamed the 303 Committee, and nothing else changes",
+"node": "nsam-303",
+"precision": "day",
+"strand": "program",
+"text": "McGeorge Bundy signs a two-sentence National Security Action Memorandum renaming the Special Group 5412 as the 303 Committee, expressly altering nothing about its composition, function or responsibility. It contains no secrecy policy of any kind, which matters because it is routinely cited as though it did.",
+"tier": 1
 },
 {
 "date": "1964-09-22",
@@ -1386,6 +1441,17 @@
 "tier": 1
 },
 {
+"date": "1972-03-08",
+"era": "1",
+"id": "spine-tl-1972-11652",
+"label": "EO 11652 puts classified material on an automatic declassification timetable",
+"node": "eo-11652",
+"precision": "day",
+"strand": "oversight",
+"text": "Nixon signs EO 11652, effective 1 June 1972, superseding EO 10501 and six amending orders. It creates the General Declassification Schedule, under which Top Secret declassifies after ten years and Confidential after six, adds a thirty-year rule that only a Department head can override in writing, and creates an Interagency Classification Review Committee under the NSC that takes complaints from outside the government.",
+"tier": 1
+},
+{
 "date": "1973-01-01",
 "era": "1",
 "id": "tl-ffrdc-1973-jason-sri",
@@ -1658,6 +1724,17 @@
 "precision": "month",
 "strand": "program",
 "text": "GEPAN reports to its scientific council in five volumes and about 500 pages, limited to 120 or 140 copies and secret. Of eleven high-strangeness cases studied by four-person teams including psychologists, ten were concluded to be material phenomena not explicable as natural or human. A document in the US NSA's declassified UFO collection assesses that its method makes 'the bulk of the Condon Report seem very poor by comparison'.",
+"tier": 1
+},
+{
+"date": "1978-06-28",
+"era": "1",
+"id": "spine-tl-1978-12065",
+"label": "EO 12065 requires the public interest in disclosure to be weighed",
+"node": "eo-12065",
+"precision": "day",
+"strand": "oversight",
+"text": "Carter's classification order revokes EO 11652 and, at section 3-303, requires an official to determine whether the public interest in disclosure outweighs the damage to national security. It is the only classification order to have carried such a test, and it lasts four years.",
 "tier": 1
 },
 {
@@ -1947,6 +2024,17 @@
 "tier": "A"
 },
 {
+"date": "1982-04-02",
+"era": "1",
+"id": "spine-tl-1982-12356",
+"label": "EO 12356 removes the public-interest test and permits reclassification after a FOIA request",
+"node": "eo-12356",
+"precision": "day",
+"strand": "coverup",
+"text": "Reagan's classification order, effective 1 August 1982, revokes EO 12065. The phrase 'public interest' occurs nowhere in it. Section 1.6(c) permits reclassifying information already declassified and disclosed where it may reasonably be recovered, and 1.6(d) permits classification or reclassification after a Freedom of Information Act request has been received. Doubt about the level is resolved upward.",
+"tier": 1
+},
+{
 "date": "1982-05-17",
 "era": "1",
 "id": "tl-1982-tonopah",
@@ -2110,6 +2198,17 @@
 "strand": "coverup",
 "text": "Wright-Patterson's public affairs office states: 'There are not now nor ever have been, any extraterrestrial visitors or equipment on Wright-Patterson Air Force Base.'",
 "tier": "A"
+},
+{
+"date": "1985-01-18",
+"era": "1",
+"id": "spine-tl-1985-nsdd159",
+"label": "NSDD 159 orders a compartmented access system over covert-action policy itself",
+"node": "nsdd-159",
+"precision": "day",
+"strand": "coverup",
+"text": "Reagan signs NSDD 159, directing the national security adviser to establish a separate, specially compartmented control and access system at the Top Secret level for all policy matters concerning covert action. Each agency designates one senior officer as its sole focal point. Knowledge of policy, of operations and of supporting activity is to be strictly compartmented from each other, the minimum possible number of documents is to be created, and one NSC officer holds the only record copies of approved Findings. The implementing procedures are promulgated under separate cover and are not in the released document.",
+"tier": 1
 },
 {
 "date": "1985-02-08",

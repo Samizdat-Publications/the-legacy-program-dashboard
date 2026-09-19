@@ -1,0 +1,170 @@
+{
+"A": 2,
+"C": 0,
+"D": 0,
+"band": null,
+"claims": [
+{
+"source": "NSC 5412, FRUS 1950-55 Intelligence, Doc. 171, https://history.state.gov/historicaldocuments/frus1950-55Intel/d171",
+"text": "The transmittal is signed by James S. Lay, Jr. and states 'The President has this date approved the enclosed National Security Council directive.' Washington, 15 March 1954. Top Secret. The source note places the copy in the Eisenhower Library, Special Assistant to the President for National Security Affairs Records.",
+"tier": 1
+},
+{
+"source": "NSC 5412 para. 6, FRUS 1950-55 Intelligence, Doc. 171, https://history.state.gov/historicaldocuments/frus1950-55Intel/d171",
+"text": "Paragraph 6 carries the deniability test in substantially the words NSC 10/2 used six years earlier: covert operations are to be so planned and executed that 'any U.S. Government responsibility for them is not evident to unauthorized persons and that if uncovered the U.S. Government can plausibly disclaim any responsibility.'",
+"tier": 1
+},
+{
+"source": "NSC 5412 para. 4, FRUS 1950-55 Intelligence, Doc. 171, https://history.state.gov/historicaldocuments/frus1950-55Intel/d171",
+"text": "Paragraph 4 invokes section 102(d)(5) of the National Security Act of 1947 and makes the Director of Central Intelligence responsible for keeping covert operations consistent with United States foreign and military policy, through designated representatives of the Secretaries of State and Defense.",
+"tier": 1
+},
+{
+"source": "NSC 5412 para. 7, FRUS 1950-55 Intelligence, Doc. 171, https://history.state.gov/historicaldocuments/frus1950-55Intel/d171",
+"text": "Paragraph 7 supersedes and rescinds NSC 10/2 and NSC 10/5, and paragraph 7(c) makes the Operations Coordinating Board the normal channel for coordinating support among State, Defense and CIA.",
+"tier": 1
+},
+{
+"source": "NSC 5412 full text, and FRUS 1964-1968 vol. XII editorial note on covert action, https://history.state.gov/historicaldocuments/frus1964-68v12/actionsstatement",
+"text": "NSC 5412 DOES NOT CREATE THE 5412 COMMITTEE, and the widely repeated claim that it does is not supported by the document. No Special Group and no committee of that name appears anywhere in the text. The State Department's own editorial note attributes the Special Group to NSC 5412/2 of 28 December 1955, and says the body became known as the 'NSC 5412/2 Special Group'.",
+"tier": 1
+}
+],
+"cls": "document",
+"cluster": "ic",
+"connections": [
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "1954-03-15",
+"direction": "out",
+"edgeLabel": "Supersedes and rescinds the charter that created the office",
+"id": "cia-office-of-policy-coordination",
+"l0": false,
+"label": "CIA Office of Policy Coordination",
+"note": "Paragraph 7 supersedes and rescinds NSC 10/2 and NSC 10/5. The 1948 charter the board already carries was live for not quite six years.",
+"sources": [
+{
+"date": "2026-09-19",
+"name": "NSC 5412 para. 7, FRUS 1950-1955, The Intelligence Community, Doc. 171",
+"url": "https://history.state.gov/historicaldocuments/frus1950-55Intel/d171"
+}
+],
+"tier": "B",
+"type": "legislative"
+},
+{
+"claimTier": 1,
+"cls": "legislation",
+"dateEnd": null,
+"dateStart": "1954-03-15",
+"direction": "out",
+"edgeLabel": "Written under the same residual clause, six years on",
+"id": "national-security-act-1947",
+"l0": false,
+"label": "National Security Act of 1947 (Pub. L. 80-253, 61 Stat. 495)",
+"note": "Paragraph 4 invokes section 102(d)(5) exactly as NSC 10/2 had. Two successive covert-action charters rest on the same catch-all sentence in a 1947 reorganisation statute.",
+"sources": [
+{
+"date": "2026-09-19",
+"name": "NSC 5412 para. 4, FRUS 1950-1955, The Intelligence Community, Doc. 171",
+"url": "https://history.state.gov/historicaldocuments/frus1950-55Intel/d171"
+}
+],
+"tier": "C",
+"type": "legislative"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "1954-03-15",
+"direction": "out",
+"edgeLabel": "Issued by the Council and approved by the President the same day",
+"id": "national-security-council",
+"l0": false,
+"label": "National Security Council",
+"note": "Transmitted by the Council's Executive Secretary, James S. Lay, Jr., whose note states that the President had approved the enclosed directive that date.",
+"sources": [
+{
+"date": "2026-09-19",
+"name": "NSC 5412, FRUS 1950-1955, The Intelligence Community, Doc. 171",
+"url": "https://history.state.gov/historicaldocuments/frus1950-55Intel/d171"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": "1964-06-02",
+"direction": "in",
+"edgeLabel": "Renames the body, and points at NSC 5412/2 for its authority",
+"id": "nsam-303",
+"l0": false,
+"label": "NSAM 303, Change in Name of Special Group 5412 (2 June 1964)",
+"note": "NSAM 303's second sentence states the change 'in no way alters the composition, function or responsibility of the Special Group 5412 as authorized by NSC 5412/2'. The memo's own text is what establishes that the authority lies in the 1955 revision and not in NSC 5412 itself.",
+"sources": [
+{
+"date": "2026-09-19",
+"name": "NSAM 303, FRUS 1964-1968 vol. XXXIII, Doc. 204",
+"url": "https://history.state.gov/historicaldocuments/frus1964-68v33/d204"
+}
+],
+"tier": "C",
+"type": "temporal"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "1954-03-15",
+"deg": 4,
+"denials": [],
+"desc": "The directive that replaced NSC 10/2 as the charter for United States covert operations. It restates the plausible-deniability definition almost word for word, keeps the authority in section 102(d)(5) of the 1947 Act, and makes the Operations Coordinating Board the normal channel for interagency support.",
+"domains": [
+"nsc-eo-spine-2026-09-19"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "nsc-5412",
+"l0": false,
+"label": "NSC 5412, National Security Council Directive on Covert Operations (15 March 1954)",
+"locLabel": null,
+"members": null,
+"short": "NSC 5412, National Security Council Directive on Covert Operations (15 March 1954)",
+"sources": [
+{
+"date": "2026-09-19",
+"name": "FRUS 1950-1955, The Intelligence Community, Document 171: Note From the Executive Secretary of the National Security Council (Lay) to the National Security Council, with the NSC directive on covert operations as enclosure (read 19 September 2026)",
+"url": "https://history.state.gov/historicaldocuments/frus1950-55Intel/d171"
+},
+{
+"date": null,
+"name": "NSC 5412 full text, and FRUS 1964-1968 vol. XII editorial note on covert action",
+"url": "https://history.state.gov/historicaldocuments/frus1964-68v12/actionsstatement"
+}
+],
+"sub": "Top Secret NSC directive; supersedes NSC 10/2 and moves covert-action coordination to the Operations Coordinating Board",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 679 of 1136, score 25). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D0.",
+"timeline": [
+{
+"date": "1954-03-15",
+"id": "spine-tl-1954-5412",
+"label": "NSC 5412 replaces the 1948 covert-action charter",
+"precision": "day",
+"strand": "program",
+"text": "The President approves NSC 5412 the day it is circulated. It supersedes NSC 10/2 and NSC 10/5, keeps the authority in section 102(d)(5), restates the plausible-deniability test almost word for word, and makes the Operations Coordinating Board the normal channel for interagency support. It does not create the Special Group; that comes with NSC 5412/2 in December 1955.",
+"tier": 1
+}
+]
+}

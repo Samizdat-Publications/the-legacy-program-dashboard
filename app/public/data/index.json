@@ -111,24 +111,24 @@
  ],
  "counts": {
   "claims": {
-   "1": 3648,
+   "1": 3701,
    "2": 1618,
-   "3": 573
+   "3": 578
   },
-  "edges": 2661,
-  "entities": 787,
+  "edges": 2685,
+  "entities": 798,
   "foia": {
    "nodes": 42,
    "questions": 121,
    "requests": 17
   },
   "l0": 135,
-  "nodes": 1125,
+  "nodes": 1136,
   "patents": 5,
   "people": 338,
   "sheets": 11,
   "threads": 8,
-  "timeline": 1050
+  "timeline": 1059
  },
  "eras": [
   {
@@ -1815,13 +1815,37 @@
    "cluster": "oversight",
    "dateEnd": null,
    "dateStart": "1946-08-01",
-   "deg": 4,
+   "deg": 5,
    "era": "0",
    "hl": null,
    "id": "atomic-energy-act-1946",
    "l0": false,
    "label": "Atomic Energy Act of 1946 (McMahon Act)",
    "short": "Atomic Energy Act of 1946 (McMahon Act)",
+   "status": null,
+   "tier": "B"
+  },
+  {
+   "A": 3,
+   "C": 1,
+   "D": 2,
+   "band": null,
+   "claims": [
+    5,
+    0,
+    1
+   ],
+   "cls": "legislation",
+   "cluster": "oversight",
+   "dateEnd": null,
+   "dateStart": "1954-08-30",
+   "deg": 4,
+   "era": "0",
+   "hl": null,
+   "id": "atomic-energy-act-1954",
+   "l0": false,
+   "label": "Atomic Energy Act of 1954 (Pub. L. 83-703, 68 Stat. 919)",
+   "short": "Atomic Energy Act of 1954 (Pub. L. 83-703, 68 Stat. 919)",
    "status": null,
    "tier": "B"
   },
@@ -1839,7 +1863,7 @@
    "cluster": "oversight",
    "dateEnd": "1974-10-11",
    "dateStart": "1946-08-01",
-   "deg": 9,
+   "deg": 10,
    "era": "0",
    "hl": null,
    "id": "atomic-energy-commission",
@@ -3663,7 +3687,7 @@
    "cluster": "ic",
    "dateEnd": null,
    "dateStart": "1947-09-18",
-   "deg": 41,
+   "deg": 43,
    "era": "0",
    "hl": null,
    "id": "cia",
@@ -3687,7 +3711,7 @@
    "cluster": "ic",
    "dateEnd": null,
    "dateStart": "1948-06-18",
-   "deg": 3,
+   "deg": 5,
    "era": "0",
    "hl": null,
    "id": "cia-office-of-policy-coordination",
@@ -5199,7 +5223,7 @@
    "cluster": "ic",
    "dateEnd": null,
    "dateStart": "1946-08-01",
-   "deg": 2,
+   "deg": 3,
    "era": "0",
    "hl": null,
    "id": "d-nuclear",
@@ -5535,7 +5559,7 @@
    "cluster": "ic",
    "dateEnd": null,
    "dateStart": "1960-01-01",
-   "deg": 5,
+   "deg": 6,
    "era": "0",
    "hl": null,
    "id": "d-sap",
@@ -5559,7 +5583,7 @@
    "cluster": "ic",
    "dateEnd": null,
    "dateStart": "1946-08-01",
-   "deg": 5,
+   "deg": 7,
    "era": "0",
    "hl": null,
    "id": "d-secrecy",
@@ -8568,6 +8592,126 @@
    "short": "Enigma Labs",
    "status": null,
    "tier": "C"
+  },
+  {
+   "A": 2,
+   "C": 0,
+   "D": 2,
+   "band": null,
+   "claims": [
+    5,
+    0,
+    1
+   ],
+   "cls": "legislation",
+   "cluster": "oversight",
+   "dateEnd": "1972-06-01",
+   "dateStart": "1953-11-05",
+   "deg": 3,
+   "era": "0",
+   "hl": null,
+   "id": "eo-10501",
+   "l0": false,
+   "label": "Executive Order 10501 - Safeguarding Official Information in the Interests of the Defense of the United States (5 November 1953)",
+   "short": "Executive Order 10501 - Safeguarding Official Information in the Interests of the Defense of the United States (5 November 1953)",
+   "status": null,
+   "tier": "B"
+  },
+  {
+   "A": 2,
+   "C": 0,
+   "D": 3,
+   "band": null,
+   "claims": [
+    6,
+    0,
+    1
+   ],
+   "cls": "legislation",
+   "cluster": "oversight",
+   "dateEnd": "1978-12-01",
+   "dateStart": "1972-03-08",
+   "deg": 3,
+   "era": "1",
+   "hl": null,
+   "id": "eo-11652",
+   "l0": false,
+   "label": "Executive Order 11652 - Classification and Declassification of National Security Information and Material (8 March 1972)",
+   "short": "Executive Order 11652 - Classification and Declassification of National Security Information and Material (8 March 1972)",
+   "status": null,
+   "tier": "B"
+  },
+  {
+   "A": 1,
+   "C": 0,
+   "D": 1,
+   "band": null,
+   "claims": [
+    5,
+    0,
+    0
+   ],
+   "cls": "legislation",
+   "cluster": "ic",
+   "dateEnd": null,
+   "dateStart": "1978-01-24",
+   "deg": 2,
+   "era": "1",
+   "hl": null,
+   "id": "eo-12036",
+   "l0": false,
+   "label": "Executive Order 12036 - United States Intelligence Activities (24 January 1978)",
+   "short": "Executive Order 12036 - United States Intelligence Activities (24 January 1978)",
+   "status": null,
+   "tier": "C"
+  },
+  {
+   "A": 1,
+   "C": 0,
+   "D": 3,
+   "band": null,
+   "claims": [
+    2,
+    0,
+    0
+   ],
+   "cls": "legislation",
+   "cluster": "oversight",
+   "dateEnd": "1982-08-01",
+   "dateStart": "1978-06-28",
+   "deg": 2,
+   "era": "1",
+   "hl": null,
+   "id": "eo-12065",
+   "l0": false,
+   "label": "Executive Order 12065 - National Security Information (28 June 1978)",
+   "short": "Executive Order 12065 - National Security Information (28 June 1978)",
+   "status": null,
+   "tier": "C"
+  },
+  {
+   "A": 2,
+   "C": 0,
+   "D": 3,
+   "band": null,
+   "claims": [
+    5,
+    0,
+    0
+   ],
+   "cls": "legislation",
+   "cluster": "oversight",
+   "dateEnd": null,
+   "dateStart": "1982-04-02",
+   "deg": 3,
+   "era": "1",
+   "hl": null,
+   "id": "eo-12356",
+   "l0": false,
+   "label": "Executive Order 12356 - National Security Information (2 April 1982)",
+   "short": "Executive Order 12356 - National Security Information (2 April 1982)",
+   "status": null,
+   "tier": "B"
   },
   {
    "A": 2,
@@ -13439,7 +13583,7 @@
    "label": "John Burroughs",
    "short": "John Burroughs",
    "status": "active",
-   "tier": "C"
+   "tier": "B"
   },
   {
    "A": 0,
@@ -17711,7 +17855,7 @@
    "label": "MIT Lincoln Laboratory",
    "short": "MIT Lincoln Laboratory",
    "status": null,
-   "tier": "B"
+   "tier": "A"
   },
   {
    "A": 3,
@@ -18310,6 +18454,54 @@
    "l0": true,
    "label": "Disclosure Project press conference, National Press Club, 9 May 2001",
    "short": "Disclosure Project, 9 May 2001",
+   "status": null,
+   "tier": "C"
+  },
+  {
+   "A": 2,
+   "C": 0,
+   "D": 1,
+   "band": null,
+   "claims": [
+    5,
+    0,
+    1
+   ],
+   "cls": "legislation",
+   "cluster": "oversight",
+   "dateEnd": null,
+   "dateStart": "1947-07-26",
+   "deg": 4,
+   "era": "0",
+   "hl": null,
+   "id": "national-security-act-1947",
+   "l0": false,
+   "label": "National Security Act of 1947 (Pub. L. 80-253, 61 Stat. 495)",
+   "short": "National Security Act of 1947 (Pub. L. 80-253, 61 Stat. 495)",
+   "status": null,
+   "tier": "C"
+  },
+  {
+   "A": 2,
+   "C": 0,
+   "D": 1,
+   "band": null,
+   "claims": [
+    4,
+    0,
+    0
+   ],
+   "cls": "institution",
+   "cluster": "ic",
+   "dateEnd": null,
+   "dateStart": "1947-07-26",
+   "deg": 6,
+   "era": "0",
+   "hl": null,
+   "id": "national-security-council",
+   "l0": false,
+   "label": "National Security Council",
+   "short": "National Security Council",
    "status": null,
    "tier": "C"
   },
@@ -19323,6 +19515,78 @@
   },
   {
    "A": 0,
+   "C": 0,
+   "D": 0,
+   "band": null,
+   "claims": [
+    4,
+    0,
+    0
+   ],
+   "cls": "document",
+   "cluster": "ic",
+   "dateEnd": null,
+   "dateStart": "1964-06-02",
+   "deg": 2,
+   "era": "0",
+   "hl": null,
+   "id": "nsam-303",
+   "l0": false,
+   "label": "NSAM 303, Change in Name of Special Group 5412 (2 June 1964)",
+   "short": "NSAM 303, Change in Name of Special Group 5412 (2 June 1964)",
+   "status": null,
+   "tier": "C"
+  },
+  {
+   "A": 2,
+   "C": 0,
+   "D": 0,
+   "band": null,
+   "claims": [
+    5,
+    0,
+    0
+   ],
+   "cls": "document",
+   "cluster": "ic",
+   "dateEnd": null,
+   "dateStart": "1954-03-15",
+   "deg": 4,
+   "era": "0",
+   "hl": null,
+   "id": "nsc-5412",
+   "l0": false,
+   "label": "NSC 5412, National Security Council Directive on Covert Operations (15 March 1954)",
+   "short": "NSC 5412, National Security Council Directive on Covert Operations (15 March 1954)",
+   "status": null,
+   "tier": "C"
+  },
+  {
+   "A": 3,
+   "C": 0,
+   "D": 1,
+   "band": null,
+   "claims": [
+    7,
+    0,
+    1
+   ],
+   "cls": "document",
+   "cluster": "ic",
+   "dateEnd": null,
+   "dateStart": "1985-01-18",
+   "deg": 4,
+   "era": "1",
+   "hl": null,
+   "id": "nsdd-159",
+   "l0": false,
+   "label": "NSDD 159, Covert Action Policy Approval and Coordination Procedures (18 January 1985)",
+   "short": "NSDD 159, Covert Action Policy Approval and Coordination Procedures (18 January 1985)",
+   "status": null,
+   "tier": "B"
+  },
+  {
+   "A": 0,
    "C": 2,
    "D": 2,
    "band": null,
@@ -19839,7 +20103,7 @@
    "cluster": "oversight",
    "dateEnd": null,
    "dateStart": "1988",
-   "deg": 12,
+   "deg": 13,
    "era": "1",
    "hl": null,
    "id": "oversight-congress",
@@ -21527,7 +21791,7 @@
    "label": "Reid Letter to DEPSECDEF Requesting Restricted SAP Status",
    "short": "Reid Letter to DEPSECDEF Requesting Restricted SAP Status",
    "status": null,
-   "tier": "B"
+   "tier": "A"
   },
   {
    "A": 1,
@@ -27170,5 +27434,5 @@
    "tier": "C"
   }
  ],
- "source": "a192949904b3"
+ "source": "8785b01c31ba"
 }

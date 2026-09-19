@@ -1,0 +1,113 @@
+{
+"A": 1,
+"C": 0,
+"D": 1,
+"band": null,
+"claims": [
+{
+"source": "EO 12036 sec. 4-101 and signature block, https://irp.fas.org/offdocs/eo/eo-12036.htm",
+"text": "Signed 'JIMMY CARTER / The White House, / January 24, 1978' and filed with the Office of the Federal Register at 11:19 a.m. on 25 January 1978. Section 4-101 supersedes 'Executive Order 11905, United States Foreign Intelligence Activities, dated February 18, 1976', together with EOs 11985 and 11994.",
+"tier": 1
+},
+{
+"source": "EO 12036 secs. 1-302 and 4-212, https://irp.fas.org/offdocs/eo/eo-12036.htm",
+"text": "Section 1-302: 'The SCC shall consider and submit to the President a policy recommendation, including all dissents, on each special activity.' Section 4-212 defines a special activity as an activity conducted abroad in support of foreign policy objectives where the role of the United States Government 'is not apparent or acknowledged publicly.'",
+"tier": 1
+},
+{
+"source": "EO 12036 sec. 3-401, https://irp.fas.org/offdocs/eo/eo-12036.htm",
+"text": "Section 3-401 requires the congressional intelligence committees to be kept 'fully and currently informed', and expressly states that this is 'not... a condition precedent'. Being told is not a prerequisite to acting.",
+"tier": 1
+},
+{
+"source": "EO 12036 sec. 3, https://irp.fas.org/offdocs/eo/eo-12036.htm",
+"text": "Section 3 builds a four-part oversight structure: an Intelligence Oversight Board of three members from outside government but inside the White House (3-1), agency Inspectors General and General Counsel (3-2), the Attorney General (3-3), and the congressional committees (3-4).",
+"tier": 1
+},
+{
+"source": "EO 12036 full text, term searches returning zero, https://irp.fas.org/offdocs/eo/eo-12036.htm",
+"text": "DO NOT CITE THIS ORDER FOR COMPARTMENTATION. The words 'compartment', 'special access' and 'need-to-know' appear zero times in the text. The nearest provision is section 4-106, which only says implementing documents will sometimes be classified.",
+"tier": 1
+}
+],
+"cls": "legislation",
+"cluster": "ic",
+"connections": [
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "1978-01-24",
+"direction": "out",
+"edgeLabel": "Routes every special activity to the President through an NSC committee",
+"id": "national-security-council",
+"l0": false,
+"label": "National Security Council",
+"note": "Section 1-302: 'The SCC shall consider and submit to the President a policy recommendation, including all dissents, on each special activity.' Section 4-212 defines a special activity by the concealment of the United States role, not by its content.",
+"sources": [
+{
+"date": "2026-09-19",
+"name": "EO 12036 secs. 1-302 and 4-212",
+"url": "https://irp.fas.org/offdocs/eo/eo-12036.htm"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "1978-01-24",
+"direction": "out",
+"edgeLabel": "Fully and currently informed, and expressly not a condition precedent",
+"id": "oversight-congress",
+"l0": true,
+"label": "Congressional oversight of special access programs",
+"note": "Section 3-401 requires the congressional intelligence committees to be kept 'fully and currently informed' while stating that this is 'not... a condition precedent'. Notification is owed; permission is not.",
+"sources": [
+{
+"date": "2026-09-19",
+"name": "EO 12036 sec. 3-401",
+"url": "https://irp.fas.org/offdocs/eo/eo-12036.htm"
+}
+],
+"tier": "B",
+"type": "legislative"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "1978-01-24",
+"deg": 2,
+"denials": [],
+"desc": "Carter's intelligence charter order. It is on this board for its special-activity approval chain and its oversight structure, and for a negative finding: it contains no compartmentation provision of any kind, so it cannot be cited for one.",
+"domains": [
+"nsc-eo-spine-2026-09-19"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "1",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "eo-12036",
+"l0": false,
+"label": "Executive Order 12036 - United States Intelligence Activities (24 January 1978)",
+"locLabel": null,
+"members": null,
+"short": "Executive Order 12036 - United States Intelligence Activities (24 January 1978)",
+"sources": [
+{
+"date": "2026-09-19",
+"name": "Executive Order 12036, United States Intelligence Activities, full operative text, 69,125 bytes (read 19 September 2026). A transcription; the Federal Register original at 43 FR 3674 was not opened",
+"url": "https://irp.fas.org/offdocs/eo/eo-12036.htm"
+}
+],
+"sub": "Executive order; the special-activity approval chain, and NOT a compartmentation instrument",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 779 of 1136, score 22). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D1.",
+"timeline": []
+}

@@ -1856,6 +1856,30 @@
   }
  },
  {
+  "domain": "nsc-eo-spine-2026-09-19",
+  "gap": "NSC 5412/2 of 28 December 1955 has not been opened. It is the document that actually creates the Special Group, and both NSC 5412 and NSAM 303 point at it. It should be the first thing the next pass reads."
+ },
+ {
+  "domain": "nsc-eo-spine-2026-09-19",
+  "gap": "The special access procedures NSDD 159 says will be 'promulgated under separate cover' were not located. That document, if it has been released, would state the rules of the covert-action policy compartment rather than merely ordering that one exist."
+ },
+ {
+  "domain": "nsc-eo-spine-2026-09-19",
+  "gap": "Whether TOP SECRET/VEIL names the compartment NSDD 159 creates, or a pre-existing handling caveat, cannot be settled from the directive: the codeword appears only as a struck-through control marking and never in the body."
+ },
+ {
+  "domain": "nsc-eo-spine-2026-09-19",
+  "gap": "No signature has been read for the National Security Act of 1947 or for the Atomic Energy Act of 1954. Both Statutes at Large pages carry only an approval line. EO 12356's OFR codification likewise carries no signature block."
+ },
+ {
+  "domain": "nsc-eo-spine-2026-09-19",
+  "gap": "The Federal Register citation for EO 10501, usually given as 18 FR 7049, has not been read. federalregister.gov redirects this environment to a bot-block page."
+ },
+ {
+  "domain": "nsc-eo-spine-2026-09-19",
+  "gap": "EO 12958 of 1995, between EO 12356 and EO 13526, is not on the board and was not opened, so the classification chain has a gap between 1982 and 2009."
+ },
+ {
   "domain": "pais-patents",
   "gap": "The allowance papers for application 15/141,270 have not been obtained. No Notice of Allowability, Examiner's Answer, Reasons for Allowance or issue-fee record for that application is in the file-wrapper set, which stops at the Appeal Brief of 20 August 2018; research/patents/wrapper/MISSING.md lists exactly what to pull. Those papers are the examiner's own account of what reversed a rejection he had twice sustained, and they are the single most informative document still outstanding on this node."
  },

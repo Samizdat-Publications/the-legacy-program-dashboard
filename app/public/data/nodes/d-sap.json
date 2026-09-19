@@ -132,12 +132,33 @@
 ],
 "tier": "B",
 "type": "programmatic"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": "1985-01-18",
+"direction": "in",
+"edgeLabel": "Orders a special access compartment over a whole policy subject",
+"id": "nsdd-159",
+"l0": false,
+"label": "NSDD 159, Covert Action Policy Approval and Coordination Procedures (18 January 1985)",
+"note": "The directive tells the national security adviser to 'establish a separate, specially compartmented control and access system at the Top Secret classification level for all policy matters concerning covert action', with one designated focal point per agency. This is special access architecture applied to policy rather than to a programme, and it is 1985.",
+"sources": [
+{
+"date": "2026-09-19",
+"name": "NSDD 159, Security Procedures paras. 1 and 2, Reagan Library scan",
+"url": "https://www.reaganlibrary.gov/public/archives/reference/scanned-nsdds/nsdd159.pdf"
+}
+],
+"tier": "B",
+"type": "programmatic"
 }
 ],
 "coords": null,
 "dateEnd": null,
 "dateStart": "1960-01-01",
-"deg": 5,
+"deg": 6,
 "denials": [],
 "desc": "A special access programme is the mechanism by which the executive branch creates an information space with tighter controls than Top Secret and a smaller list of people who may enter it. The tier structure is documented policy, not speculation: acknowledged SAPs whose existence is public though their content is not; unacknowledged SAPs whose very existence is classified; and waived unacknowledged SAPs for which the Secretary of Defense has exercised the 10 U.S.C. 119 waiver so that notification runs only to the chairs and ranking members of the armed services and defence appropriations committees - eight members, typically without staff, typically orally. That last category is the load-bearing one for this board, because it is a lawful configuration in which a programme can run for decades while the overwhelming majority of Congress has no lawful means of learning it exists. In 2009 the Office of the Under Secretary of Defense for Intelligence prepared an information memorandum reviewing a request to convert DIA's advanced aerospace work into a special access programme - a documented instance of the transition being considered for exactly this subject matter. Scoring high on this domain means an entity held, granted, or was formally denied SAP-level access, and the denial is scored as heavily as the grant.",
 "domains": [
@@ -182,7 +203,7 @@
 ],
 "sub": "Access-control domain - the SAP/USAP/waived tier and its oversight carve-outs",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 258 of 1125, score 41). 5 connections, 2 of them custody/funding/programmatic. Axes C2/A3/D2.",
+"tierRationale": "Re-graded B on a global pass (rank 198 of 1136, score 45). 6 connections, 3 of them custody/funding/programmatic. Axes C2/A3/D2.",
 "timeline": [
 {
 "date": "2009-11-01",
