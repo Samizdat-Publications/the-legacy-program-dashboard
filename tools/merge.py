@@ -255,6 +255,36 @@ def _better_label(a, b):
         a["label"] = bv
 
 
+def _better_date(a, b, owner=None, field=None):
+    """Prefer the MORE PRECISE of two dates that agree; report two that do not.
+
+    Dates on this board are ISO prefixes: "1947", "1948-03", "2023-07-26". The rule
+    for `dateStart`/`dateEnd` was fill-if-falsy, so the FIRST file to carry a date
+    won even when a later file carried the same date to the day, and the board threw
+    away precision it had been given. `hearing-2023-07-26` shipped dateStart "2023":
+    the node's own id knew the day and the board did not. 14 entities were doing this.
+
+    Two dates AGREE when one is a prefix of the other AT A COMPONENT BOUNDARY, and
+    then the longer one is strictly more information with nothing to decide. The
+    boundary test matters: "194" is not a coarser "1947", and "2023-07-2" is not a
+    coarser "2023-07-26".
+
+    Anything else is two files disagreeing about WHEN something happened, which is a
+    research question and not a merge one. Keep the first, exactly as before, and
+    record it in DATE-CONFLICTS.json so the disagreement is visible instead of being
+    settled by filename order. 13 entities are in that state today, including
+    `geipan` at 1977 against 2005 and `yankee-blue` at 1950 against 1980."""
+    if not a:
+        return b
+    if not b or a == b:
+        return a
+    short, long = (a, b) if len(a) < len(b) else (b, a)
+    if long.startswith(short) and long[len(short)] == "-":
+        return long
+    date_conflicts.append({"id": owner, "field": field, "kept": a, "ignored": b})
+    return a
+
+
 def merge_person(a, b):
     _better_label(a, b)
     for f in ("loc", "locId", "instId", "sub", "cluster", "status",
@@ -278,9 +308,15 @@ def merge_person(a, b):
 
 def merge_entity(a, b):
     _better_label(a, b)
-    for f in ("cluster", "sub", "dateStart", "dateEnd"):
+    for f in ("cluster", "sub"):
         if not a.get(f) and b.get(f):
             a[f] = b[f]
+    # NOT fill-if-falsy: a date carries precision, and the coarser one is not a
+    # value to be defended just because its file sorted earlier. See _better_date.
+    for f in ("dateStart", "dateEnd"):
+        v = _better_date(a.get(f), b.get(f), a.get("id"), f)
+        if v:
+            a[f] = v
     if len(str(b.get("desc") or "")) > len(str(a.get("desc") or "")):
         a["desc"] = b["desc"]
     _merge_common(a, b)
@@ -835,6 +871,7 @@ def remediate_tiers(people, entities):
 
 edge_demotions = []
 removed_claims = []   # claims a _corrections.json removeClaims rule took off the board
+date_conflicts = []   # entities two files date differently, where neither is coarser
 
 
 def remediate_edge_tiers(edges):
@@ -1278,7 +1315,8 @@ def emit(people, entities, edges, timeline, entity_info, gaps, problems):
     for fn, obj in (("INTEGRITY.json", dict(problems)), ("REJECTS.json", rejects),
                     ("GAPS.json", gaps), ("DEMOTIONS.json", demotions),
                     ("EDGE-DEMOTIONS.json", edge_demotions),
-                    ("REMOVED-CLAIMS.json", removed_claims)):
+                    ("REMOVED-CLAIMS.json", removed_claims),
+                    ("DATE-CONFLICTS.json", date_conflicts)):
         with open(os.path.join(OUT, fn), "w", encoding="utf-8") as f:
             json.dump(obj, f, indent=1, ensure_ascii=False)
     return today

@@ -1,0 +1,86 @@
+[
+ {
+  "id": "aatip",
+  "field": "dateStart",
+  "kept": "2009",
+  "ignored": "2008"
+ },
+ {
+  "id": "dopsr",
+  "field": "dateStart",
+  "kept": "1980",
+  "ignored": "1957"
+ },
+ {
+  "id": "kona-blue",
+  "field": "dateStart",
+  "kept": "2011",
+  "ignored": "2009"
+ },
+ {
+  "id": "kona-blue",
+  "field": "dateEnd",
+  "kept": "2012",
+  "ignored": "2011"
+ },
+ {
+  "id": "earthtech-international",
+  "field": "dateStart",
+  "kept": "1985",
+  "ignored": "1991"
+ },
+ {
+  "id": "adam-research-project",
+  "field": "dateStart",
+  "kept": "2018",
+  "ignored": "2019"
+ },
+ {
+  "id": "sol-foundation",
+  "field": "dateStart",
+  "kept": "2022",
+  "ignored": "2023"
+ },
+ {
+  "id": "yankee-blue",
+  "field": "dateStart",
+  "kept": "1980",
+  "ignored": "1950"
+ },
+ {
+  "id": "sol-foundation",
+  "field": "dateStart",
+  "kept": "2022",
+  "ignored": "2023"
+ },
+ {
+  "id": "nara-uap-collection",
+  "field": "dateStart",
+  "kept": "2024",
+  "ignored": "2023-12-22"
+ },
+ {
+  "id": "l-skinwalker",
+  "field": "dateStart",
+  "kept": "1996",
+  "ignored": "1994"
+ },
+ {
+  "id": "usc-10-119",
+  "field": "dateStart",
+  "kept": "1989",
+  "ignored": "1987-12-04"
+ },
+ {
+  "id": "geipan",
+  "field": "dateStart",
+  "kept": "2005",
+  "ignored": "1977"
+ },
+ {
+  "id": "cometa",
+  "field": "dateStart",
+  "kept": "1996",
+  "ignored": "1999-07"
+ }
+]

@@ -101,8 +101,9 @@ defects in one expression: `"other"` is both the default AND a real band, and an
 out-of-vocabulary value is coerced to it in silence.
 
 The coercion is the bigger half. **132 entries across the research files carry a `cluster`
-value that is not a band at all**: `aaro`, `aawsap-dird`, `science`, `legislation`,
-`registry`, `mechanism`. The `_rs-*` source-set files use `cluster` as their own
+value that is not a band at all**, across nine distinct tokens: `aaro`, `aawsap-dird`,
+`coverup`, `custody`, `hearings`, `legal-architecture`, `legislation`, `program` and
+`science`. The `_rs-*` source-set files use `cluster` as their own
 provenance tag. Those files begin with an underscore, so they sort FIRST, so their tag
 became `"other"` and pinned it before any file with a real band was read.
 
@@ -239,9 +240,74 @@ Nothing supports the general alarm.
 | | |
 |---|---|
 | **`status` has no vocabulary** | eight values, with `dead`/`deceased` and `active`/`alive` as unmerged synonyms. It should be an enum with a rejection, the way `cls` is. Not done here because collapsing the synonyms is an editorial call on 1,125 nodes |
-| **Dates lose precision to load order** | `dateStart`/`dateEnd` default to `None`, so they are not this defect, but they are still first-wins. 20 entities ship a coarser date than a later file authored: `hearing-2023-07-26` ships `2023` where `w2-places-events` says `2023-07-26`. 7 more on `dateEnd`. The rule should prefer the more precise value when one is a prefix of the other |
+| ~~Dates lose precision to load order~~ | **FIXED, section 9** |
 | **`entity.sub` is two fields wearing one name** | 164 entities have conflicting authored values, and the conflict is usually a type token (`report`, `registry`, `mechanism`) against a sentence of prose. Which one is `sub` supposed to be? |
 | **The 132 out-of-vocabulary cluster tags** | now ignored rather than coerced, and counted at build time. The `_rs-*` files should use a field of their own |
 
 The first three are separate commits and separate decisions. None of them is reached by
 the fix here, and all four are visible now rather than silent, which was the point.
+
+---
+
+## 9. Dates, done the same afternoon
+
+`dateStart`/`dateEnd` default to `None`, so they were never the section 1 defect, but
+they were still fill-if-falsy and the first file to carry a date won even when a later
+file carried the same date to the day. `hearing-2023-07-26` shipped `dateStart: "2023"`.
+The node's own id knew the day and the board did not.
+
+The two cases are not the same and must not be treated the same:
+
+| | |
+|---|---|
+| **One date is a prefix of the other at a component boundary** | `2023` against `2023-07-26`. They agree, and the longer one is strictly more information. Nothing to decide, so take it. **14 entities** |
+| **Anything else** | two files disagreeing about when something happened. That is a research question, not a merge one. Keep the first, exactly as before, and write it to `tools/DATE-CONFLICTS.json` so it is visible instead of being settled by filename order. **13 entities** |
+
+The boundary test earns its place: `194` is not a coarser `1947`, and `2023-07-2` is not a
+coarser `2023-07-26`.
+
+Recovered, among the 14:
+
+| node | was | now |
+|---|---|---|
+| `hearing-2023-07-26` | 2023 | 2023-07-26 |
+| `hearing-2024-11-13` | 2024 | 2024-11-13 |
+| `hearing-2025-09-09` | 2025 | 2025-09-09 |
+| `roswell-1947` | 1947 to 1947 | 1947-06-14 to 1947-07-09 |
+| `sac-overflights-1975` | 1975 to 1975 | 1975-10-27 to 1975-11-11 |
+| `nyt-2017-12-16` | 2017 | 2017-12-16 |
+| `aztec-1948` | 1948-03 | 1948-03-25 |
+| `d-materials` | 1947 | 1947-07-08 |
+
+Now surfaced rather than fixed, and each one is somebody's research question:
+
+| node | kept | ignored |
+|---|---|---|
+| `geipan` | 2005 | 1977 |
+| `yankee-blue` | 1980 | 1950 |
+| `dopsr` | 1980 | 1957 |
+| `usc-10-119` | 1989 | 1987-12-04 |
+| `cometa` | 1996 | 1999-07 |
+| `nara-uap-collection` | 2024 | 2023-12-22 |
+| `l-skinwalker` | 1996 | 1994 |
+| `kona-blue` | 2011 to 2012 | 2009, and 2011 for the end |
+| `earthtech-international` | 1985 | 1991 |
+| `aatip` | 2009 | 2008 |
+| `sol-foundation` | 2022 | 2023 |
+| `adam-research-project` | 2018 | 2019 |
+
+`geipan` at 1977 against 2005 and `dopsr` at 1957 against 1980 are twenty-year gaps and
+are almost certainly a founding date against a renaming. Neither is settled here.
+
+**Person `date` was deliberately left alone.** 33 people have files disagreeing about it,
+but that field is a key date rather than a start, and the files are recording different
+events (a testimony, a first appearance, a disappearance). Collapsing them would be a
+research decision wearing a merge fix.
+
+### A note on the check run that failed once
+
+`npm run check` failed C18 once, immediately after `npm run build` replaced `app/dist`
+under the already-running `vite preview`, and then passed four consecutive times. A race
+between the rebuild and the preview server is the likely cause and no assertion has
+failed since. Recorded rather than concluded: one failure and four passes is not enough
+to call it either way, which is the mistake section 5c of the late handoff is about.
