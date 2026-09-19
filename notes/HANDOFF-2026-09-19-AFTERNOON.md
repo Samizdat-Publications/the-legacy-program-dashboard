@@ -147,10 +147,18 @@ measure at all. Master and the fixed branch both read 29 / 10.
 ## 7. What is next
 
 1. **Stewart merges the branch** (section 1), or says why not.
-2. The research queue in `HANDOFF-2026-09-19-LATE.md` section 6c is untouched and still in
-   order: the Gerb triage's absent candidates, **the National Security Council, which the
-   board still has no node for**, and the EO/statute spine. That is the cheapest documented
-   gap available and none of it is blocked by anything here.
+2. **The NSC and EO/statute spine is TRIAGED AND VERIFIED, ready to build.**
+   `research/leads/NSC-EO-SPINE-2026-09-19.md`. Nine primary documents opened, with exact
+   URLs, quotes and the hosts that refused. Read its section 5 first: six widely repeated
+   claims about these documents are wrong on the primary text, and three of them are ones
+   this board would plausibly have written. NSAM 303 is a two-sentence renaming memo with
+   no secrecy content, so it belongs on the board as a correction rather than as part of
+   the spine. NSDD 159 is the find: Reagan, 18 January 1985, ordering "a separate,
+   specially compartmented control and access system at the Top Secret classification
+   level for all policy matters concerning covert action", one designated focal point per
+   agency. That is this board's own subject, forty years earlier than it currently shows
+   it. Also settled before any research was done: NSC 10/2 is already carried in substance
+   by `cia-office-of-policy-coordination`, so do not build a node that re-quotes it.
 3. Canon passes 6 to 15.
 4. Design still owns the three items in the late handoff's section 7, with item 1 now
    better specified.
